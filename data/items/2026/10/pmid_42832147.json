@@ -1,0 +1,57 @@
+{
+ "abstract": "BACKGROUND: The optimal operation for T3 body and tail pancreatic ductal adenocarcinoma (PDAC) remains uncertain. Radical antegrade modular pancreatosplenectomy (RAMPS) was designed to facilitate systematic posterior dissection and lymphadenectomy, but whether its survival benefit varies by anatomic or molecular risk is unclear.\nMETHODS: This multicenter retrospective cohort study included patients with pathologically confirmed T3 body and tail PDAC who underwent upfront RAMPS or standard retrograde pancreatosplenectomy (SRPS) at three high-volume centers from January 2014 to December 2024. Stabilized weighting was used to balance baseline covariates. The primary outcome was recurrence-free survival (RFS); secondary outcomes included overall survival (OS) and perioperative outcomes. Subgroup effects according to splenic vessel involvement and KRAS/TP53 alterations were assessed using adjusted interaction models.\nRESULTS: Among 695 patients, 352 underwent RAMPS and 343 underwent SRPS. After stabilized weighting, baseline characteristics were well balanced. RAMPS was associated with longer RFS than SRPS (adjusted hazard ratio [HR] 0.46; 95% confidence interval [CI] 0.38-0.55; P < 0.001) and improved OS. The RFS benefit was pronounced in patients with splenic artery involvement (HR 0.24), splenic vein involvement (HR 0.35), TP53 mutations (HR 0.43), and KRAS mutations (HR 0.43). Formal interaction evidence remained robust for splenic vessel involvement after false discovery rate (FDR) correction. The molecular interaction evidence was attenuated after FDR correction and multiple imputation and should be considered exploratory.\nCONCLUSIONS: RAMPS was associated with improved RFS and OS in T3 body and tail PDAC, especially in tumors with splenic vessel involvement. These findings support a risk-adapted surgical strategy and require prospective validation.",
+ "authors": [
+  "Wu D",
+  "Li Z",
+  "Pan Y",
+  "Lai J",
+  "Shi Y",
+  "Xu X",
+  "Tian Y",
+  "Huang L"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832147",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1245/s10434-026-20627-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832147"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832147/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

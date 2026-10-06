@@ -1,0 +1,89 @@
+{
+ "abstract": "This trial is a prospective, single-arm, single-center Phase II clinical study aimed at evaluating the efficacy and safety of Ivonescimab combined with the gemcitabine and nab-paclitaxel (AG) regimen as neoadjuvant therapy for borderline resectable pancreatic cancer.\n\nThis trial is a prospective, single-arm, single-center Phase II clinical study aimed at evaluating the efficacy and safety of Ivonescimab combined with the gemcitabine and nab-paclitaxel (AG) regimen as neoadjuvant therapy for borderline resectable pancreatic cancer. After signing the informed consent, eligible participants will receive three cycles of Ivonescimab in combination with AG before surgery. Radical surgery will be performed within 4 to 8 weeks after the last treatment. For participants who do not meet the surgical criteria, they may continue to receive three more cycles of the same treatment. If, after six cycles, participants still do not meet the surgical criteria but have stable disease based on imaging, they may continue to receive maintenance therapy with Ivonescimab and gemcitabine/nab-paclitaxel until disease progression, death, or intolerable toxicity. After surgery, the necessity and plan for adjuvant therapy will be determined by the investigator based on the patient's condition. Imaging assessments will be conducted every three months postoperatively until disease recurrence. After recurrence, survival follow-up will be performed every three months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06944106",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06944106"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-04-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tianjin Medical University Cancer Institute and Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06944106"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Study on Ivonescimab Plus Chemotherapy as Neoadjuvant Therapy for Borderline Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "tjchlhk@126.com",
+    "name": "Li Huikai, MD",
+    "phone": "18622228639"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years and ≤ 75 years.\n2. Histologically or cytologically confirmed pancreatic cancer.\n3. Borderline resectable disease.\n4. At least one measurable lesion (according to RECIST v1.1); and tumor diameter ≤ 6 cm, distance from the gastrointestinal mucosa ≥ 0.5 cm with no obvious signs of tumor invasion, and no obvious lymph node metastasis.\n5. No prior anti-tumor treatment for pancreatic cancer.\n6. ECOG performance status of 0-1.\n7. Life expectancy of ≥3 months.\n8. Hematologic function: Absolute neutrophil count (ANC) ≥1.5×10⁹/L, platelets (PLT) ≥100×10⁹/L, hemoglobin (Hb) ≥90 g/L, white blood cells (WBC) ≥3.0×10⁹/L.\n9. Liver function: Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5×ULN; total bilirubin ≤1.5×ULN.\n10. Renal function: Serum creatinine (Cr) ≤1.5×ULN or creatinine clearance ≥60 ml/min (calculated by Cockroft-Gault formula).\n11. Subjects with reproductive potential must use at least one medically accepted contraceptive method (such as intrauterine device, oral contraceptives, or condoms) during the study treatment period and for 180 days after the end of study treatment. Female subjects must have a negative serum HCG test before the first dose and must not be breastfeeding.\n12. Ability to understand the nature of the study, and the patient (or legal representative) voluntarily agrees to participate in the trial and signs the informed consent form.\n\nExclusion Criteria:\n\n1. Patients who have had other malignancies within the past 5 years (except for cured in situ cancer and basal cell carcinoma of the skin).\n2. Undergone major surgery within the past 28 days.\n3. Previously received immunotherapy drugs (including anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4, etc.).\n4. Presence of distant metastases that are not resectable.\n5. Active, uncontrolled bacterial, viral, or fungal infections requiring systemic treatment, defined as persistent signs/symptoms related to infection that have not improved despite appropriate antibiotics, antiviral therapy, and/or other treatments.\n6. Known active HIV infection (i.e., positive for HIV 1/2 antibodies); untreated active HBV (defined as HBsAg positivity with detectable HBV-DNA ≥10⁴/ml or 2000 IU/ml) and HCV infection (positive HCV antibodies with HCV-RNA levels above the upper limit of normal).\n7. Presence of uncontrollable systemic diseases (such as a history of cardiovascular diseases like unstable angina, myocardial infarction, congestive heart failure, severe unstable ventricular arrhythmias, or severe pericardial disease).\n8. Presence of severe gastrointestinal diseases (including active bleeding, obstruction greater than Grade 1 \\[CTCAE v5.0\\], or diarrhea greater than Grade 1 \\[CTCAE v5.0\\]).\n9. Any contraindications to chemotherapy, radiotherapy, or surgery as indicated by laboratory or clinical findings.\n10. Pregnant or breastfeeding women, and women of childbearing potential who refuse to use appropriate contraception during the trial.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "AK112"
+  ],
+  "last_update_posted": "2025-05-31",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06944106",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-04-28",
+  "sex": "ALL",
+  "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+  "start_date": "2025-03-28",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

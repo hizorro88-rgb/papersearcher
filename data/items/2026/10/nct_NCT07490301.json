@@ -1,0 +1,109 @@
+{
+ "abstract": "Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts. Pancreatic cancer often starts in these ducts. The purpose of this study is to assess adverse events and change in disease activity of telisotuzumab adizutecan when given in combination with fluorouracil, folinic acid, and oxaliplatin (FOLFOX) to treat adult participants with pancreatic ductal cancer.\n\nTelisotuzumab adizutecan is an investigational drug being developed for the treatment of pancreatic ductal adenocarcinoma (PDAC). This study will be divided into two phases, with the first phase (Phase 2) treating participants with increasing doses of telisotuzumab adizutecan with FOLFOX. Participants will then be randomized into 3 groups called treatment arms. Two groups will receive telisotuzumab adizutecan with FOLFOX with different optimized doses. One group will receive standard of care (SOC) - fluorouracil, leucovorin, oxaliplatin, and irinotecan. In the second phase (Phase 3), participants will be randomized into 2 arms to receive either the optimal dose of telisotuzumab adizutecan (from the previous phase) with FOLFOLX, or SOC. Approximately 900 participants with PDAC will be enrolled in this study in approximately 200 sites worldwide.\n\nPhase 2 includes a dose escalation stage and a dose optimization stage. In the dose escalation stage, participants will receive escalating doses of Intravenous (IV) telisotuzumab adizutecan + FOLFOX. In the dose optimization stage, participants will receive 1 of 2 doses of IV telisotuzumab adizutecan with FOLFOX or SOC. At the start of Phase 3, participants will receive the optimal dose of IV telisotuzumab adizutecan with FOLFOX or SOC. The study will run for a duration of approximately 6 years.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care. Participants will attend regular visits during the study at an approved institution (hospital or clinic). The effect of the treatment will be frequently checked by medical assessments, blood tests, questionnaires and side effects.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07490301",
+ "importance": 1.0,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07490301"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2026-03-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AbbVie",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07490301"
+ },
+ "summary_ko": "Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Metastatic Pancreatic Ductal Adenocarcinoma",
+  "PDAC",
+  "Telisotuzumab adizutecan"
+ ],
+ "title": "A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Ductal Adenocarcinoma",
+   "PDAC"
+  ],
+  "contacts": [
+   {
+    "email": "abbvieclinicaltrials@abbvie.com",
+    "name": "ABBVIE CALL CENTER",
+    "phone": "844-663-3742"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Have unresectable, metastatic histologically- or cytologically-confirmed adenocarcinoma of the pancreas\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1\n* Must consent to provide archived or recently obtained tumor tissue during Screening\n* Have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n\nExclusion Criteria:\n\n* Have prior systemic therapy, surgery, or radiation (except palliative radiation) in the unresectable, locally advanced or metastatic setting\n* Prior c-MET targeting therapy\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, or any evidence of active ILD/pneumonitis on screening chest computed tomography (CT) scan, including a history of idiopathic pulmonary fibrosis, organizing pneumonia (e.g., bronchiolitis obliterans), drug-induced pneumonitis, or idiopathic pneumonitis.\n* Prior bone marrow transplant, solid organ transplant, or previous clinical diagnosis of tuberculosis.",
+  "enrollment": 900,
+  "has_results": false,
+  "interventions": [
+   "Telisotuzumab adizutecan",
+   "Fluorouracil",
+   "Folinic acid/ Leucovorina",
+   "Oxaliplatin",
+   "Irinotecan"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "Australia",
+   "Israel",
+   "Japan",
+   "South Korea",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital /ID# 280191",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 20,
+  "nct_id": "NCT07490301",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2031-06",
+  "sex": "ALL",
+  "sponsor": "AbbVie",
+  "start_date": "2026-04-30",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

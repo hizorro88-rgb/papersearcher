@@ -1,0 +1,137 @@
+{
+ "abstract": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to standard of care (SOC) observation only.\n\nThis is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with daraxonrasib will improve disease-free survival (DFS) compared to SOC observation in patients with resected PDAC who have completed neoadjuvant and/or adjuvant chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07252232",
+ "importance": 0.99,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07252232"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Revolution Medicines, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07252232"
+ },
+ "summary_ko": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to standard of care (SOC) observation only. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with daraxonrasib will improve disease-free survival (DFS) compared to SOC observation in patients with resected PDAC who have completed neoadjuvant and/or adjuvant chemotherapy.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic Cancer",
+  "PDAC",
+  "Pancreatic Ductal Adenocarcinoma",
+  "RAS",
+  "KRAS",
+  "NRAS",
+  "HRAS",
+  "RAS Wild-Type",
+  "RASolute",
+  "Resectable Pancreatic Ductal Adenocarcinoma"
+ ],
+ "title": "Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "PDAC",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "Resectable Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Resected Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "medinfo@revmed.com",
+    "name": "Revolution Medicines Study Director",
+    "phone": "1-844-2-REVMED"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Histologically confirmed PDAC with successful (R0/R1) curative intent surgical resection and no evidence of recurrent or metastatic disease.\n* Must have received perioperative (neoadjuvant, adjuvant, or a combination of both) multi-agent chemotherapy.\n* Must have completed most recent treatment within the past 12 weeks.\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* Documented RAS mutation status.\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Prior therapy with direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* Any conditions that may affect the ability to take or absorb study drug.\n* Major surgery within 28 days prior to randomization.\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures.",
+  "enrollment": 500,
+  "has_results": false,
+  "interventions": [
+   "daraxonrasib"
+  ],
+  "last_update_posted": "2026-09-23",
+  "location_countries": [
+   "France",
+   "Germany",
+   "Italy",
+   "Japan",
+   "Puerto Rico",
+   "South Korea",
+   "Spain",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Busan",
+    "country": "South Korea",
+    "facility": "Dong-A University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 78,
+  "nct_id": "NCT07252232",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-05-10",
+  "sex": "ALL",
+  "sponsor": "Revolution Medicines, Inc.",
+  "start_date": "2025-12-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

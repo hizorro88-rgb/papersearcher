@@ -1,0 +1,94 @@
+{
+ "abstract": "The aim of this study is to demonstrate the efficacy of intensified and sequential chemotherapy (Gabrinox) comprising Gembrax regimen (Gemcitabine-Abraxane) followed by the Folfirinox regimen (5FU, Oxaliplatin and Irinotecan) in patients with locally advanced pancreatic adenocarcinoma.\n\nThe study will also demonstrate the feasibility of combining this intensified chemotherapy with MRI-guided stereotactic radiotherapy in non-progressive patients after the chemotherapy by Gabrinox regimen.\n\nPancreatic cancer was the third cause of death by cancer worldwide in 2016, surpassing breast cancer. It is estimated that in 2030, pancreatic cancer will become the second cause of death by cancer after lung cancer.\n\nIts prognosis is very poor, with an overall survival (OS) at 5 years, all stages included, of 5.5%. According to the French cancer registry network (FRANCIM), its incidence has more than doubled in men and women between 1990 and 2018. The world standardized incidence rates for men and women were 5.2% and 2.7% in 1990 and 11% and 7% in 2018, respectively. This means a yearly annual increase of 2.7 for men and of 3.8 for women. The often late diagnosis, in 50% of cases at stage 4, and the limited treatment options explain the very low survival rate at 5 years.\n\nCurrently, only surgery associated with adjuvant chemotherapy for 6 months allows doubling this survival rate. However, this situation concerns only 20% of cases. Indeed, 50% of pancreatic cancers are discovered at stage 4, and in 30% of patients cancer is detected when not resectable and non-metastatic (i.e. borderline resectable or locally advanced). To make an unresectable cancer resectable is one of the therapeutic strategies under development. However, treatment of locally advanced pancreatic cancer (LAPC) is not standardized. Chemotherapy is a used strategy, but 30% of cases will progress to metastatic disease. Therefore, the need in LAPC to control not only the local disease but also micro-metastases has led to the development of combined strategies with chemotherapy and optimal radiotherapy.\n\nFor LAPC, chemotherapy is based on two drug combinations that are classically used for the first-line treatment of metastatic disease: FOLFIRINOX (FFX) (association of 5FU, Oxaliplatin and Irinotecan) and GEMBRAX (GA) (association of gemcitabine and nab-paclitaxel). Their association has been validated by phase 3 studies showing that compared with gemcitabine alone, they allow increasing the response rate by three times (30%), and almost doubling the median survival and progression-free survival, but with higher grade 3 hematologic and neurological toxicities.\n\nFFX and GA have been assessed also in LAPC. Retrospective studies confirmed the high response rate, 30 to 80% according to the study, and a median survival of 9 to 30 months. Recently, two phase 2 studies, evaluated GA alone and GA followed by FFX, respectively, for LAPC, and confirmed the efficacy, with a response rate of 30% and a secondary resection rate of 15% and 30.6%, respectively. Moreover, in patients who underwent tumour resection after treatment, survival was longer than in those not operated (27.4 vs 14.2 months; Hazard Ratio (HZ) = 0.45; p = 0.0035). Overall Survival (OS) (n= 165 patients) was 17.2 months.\n\nGABRINOX is a sequential treatment with GA and then FFX with the aim of limiting chemoresistance, decreasing toxicities and improving dose intensity.\n\nThe feasibility and tolerance of this approach as first-line treatment of metastatic disease were validated in a phase 1 study, and its efficacy in a phase 2 study in which the primary objective was reached: objective response rate of 64.9%, disease control rate of 84.2%, progression-free survival (PFS) of 10.5 months, and Overall Survival (OS) of 15.1 months. Its tolerance profile is favorable with lower percentages of patients with neutropenia (34.5%), febrile neutropenia (3.5%), and neurotoxicity (5.2%).\n\nThe role of chemo-radiotherapy for LAPC remains controversial. Many old studies showed the interest of this technique for the local and global control in patients with pancreatic cancer.\n\nHowever, a phase 3 study compared the efficacy of chemo-radiotherapy versus chemotherapy alone in patients without disease progression after chemotherapy with a regimen that is currently considered not optimal (i.e. gemcitabine with/without erlotinib). Although OS (the main endpoint) did not improve in the chemo-radiotherapy arm compared with the chemotherapy arm, PFS was significantly increased in the chemo-radiotherapy arm with a longer period without treatment (6.1 vs 3.7 months, P = 0.02) and a lower percentage of patients with locoregional progression (32% vs 46%, P =0.03). This confirms that radiotherapy is an effective treatment in pancreatic adenocarcinoma, but that the current delivery modalities do not allow significantly improving the patient prognosis. Indeed, the study used 3D conformal radiotherapy with conventional doses and classical fractioning. Retrospective and phase 1 and 2 studies that used more optimized techniques and higher doses reported better local disease control, but without an important impact on survival. Moreover, some studies suggest significant toxicity, particularly in gastrointestinal organs. Intensity-modulated radiotherapy and integrated boost radiotherapy showed promising local control and survival results. This suggests an avenue for technological improvement and dose augmentation to improve patient prognosis.\n\nStereotactic magnetic resonance-guided adaptive radiotherapy is a new modality for dose delivery that exploits Magnetic Resonance Imaging (MRI)-guided linear accelerators to better target the treatment volume, while optimizing the protection of organs at risk. The tumour localization in the pancreas seems to be particularly suitable for the utilization of MRI-guided linear accelerators because the radiotherapy doses are limited in function of the gastrointestinal organ tolerance: duodenum, stomach, small intestine, colon. Recently, the results of a retrospective, multicentre study on irradiation of patients with LAPC using Magnetic Resonance Imaging (MRIdian® Linac™; Viewray. The study shows that survival was improved in patients who received an augmented irradiation dose. Specifically, the 2-year OS rate was 49% for patients who received a dose higher than 70 Gy and 30% for patients who received a lower equivalent dose. The study did not report significant toxicity in patients who received high-dose radiotherapy according to the optimized modalities with daily dosimetric adjustment and target monitoring at each radiotherapy session. These data suggest that dose intensification and the stereotactic magnetic resonance-guided adaptive radiotherapy technique improve radiotherapy results; however, prospective studies are needed to confirm these data.\n\nTherefore, the phase 2 study GABRINOX-ART in which an intensified chemotherapy regimen (GABRINOX i.e GA followed by FFX) is followed by optimized adjusted radiotherapy (stereotactic magnetic resonance-guided adaptive radiotherapy) seems to be an interesting strategy to evaluate in locally advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04570943",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04570943"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2020-09-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04570943"
+ },
+ "summary_ko": "The aim of this study is to demonstrate the efficacy of intensified and sequential chemotherapy (Gabrinox) comprising Gembrax regimen (Gemcitabine-Abraxane) followed by the Folfirinox regimen (5FU, Oxaliplatin and Irinotecan) in patients with locally advanced pancreatic adenocarcinoma. The study will also demonstrate the feasibility of combining this intensified chemotherapy with MRI-guided stereotactic radiotherapy in non-progressive patients after the chemotherapy by Gabrinox regimen.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic",
+  "cancer"
+ ],
+ "title": "Sequential Treatment With GEMBRAX and Then FOLFIRINOX Followed by Stereotactic MRI-guided Radiotherapy in Patients With Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "Aurore.Moussion@icm.unicancer.fr",
+    "name": "Aurore MOUSSION, MD",
+    "phone": "0467612446"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patient aged from 18 to 75 years at the date of signature of the consent form\n2. Histologically or cytologically proven pancreatic adenocarcinoma\n3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1\n4. Non-resectable tumour according to the National Comprehensive Cancer Network (NCCN) 1.2015 recommendations after external review of imaging data by multidisciplinary experts.\n5. Non-metastatic cancer confirmed by thorax-abdomen-pelvis computerized tomography (CT) scan and liver MRI\n6. SMART feasibility confirmed by centralized review\n7. Uracilemia \\< 16 ng/ml\n8. Hematological assessment within 14 days before inclusion, defined by:\n\n   * Neutrophils ≥ 2 000/mm3 (2 × 109/L);\n   * Platelets ≥ 100 000/mm3 (100 × 109/L);\n   * Hemoglobin ≥ 9 g/dl\n9. Liver function (within 14 days before inclusion) defined by:\n\n   * ASpartate Transaminase (AST) and ALanine Transaminase (ALT) ≤ 2.5 x Upper Limit of Normal (ULN);\n   * Total bilirubin ≤ 1.5 x ULN. Patients with a metallic biliary prosthesis due to biliary obstruction caused by the cancer may be included, if: a CT scan with injection of contrast medium and thin pancreas sections was performed before placing the biliary prosthesis, the bilirubin level after prosthesis fitting decreased to ≤20 mg/L (≤34 μmol/L), and in the absence of cholangitis.\n10. Creatininaemia within the reference limits, or calculated clearance ≥50 ml/min for patients with a serum creatinine value above or below the reference values (clearance calculated using the Chronic Kidney Disease EPIdemiology collaboration (CKDEPI formula).\n11. Serum calcium AND magnesium AND potassium ≥ Lower Limit Normal (LLN and ≤ 1.2 x Upper Limit Normal (ULN)\n12. Cancer Antigen (CA 19.9) \\<500 IU/mL (without cholestasis). Patients with CA 19.9 between 500 IU/mL and 1000 IU/mL can be included if the Positron Emission Tomography (PET) scan and peritoneal MRI (optional) do not detect any distant fixation, indicative of metastasis. Patients with CA 19.9 ≥ 1000 IU/mL cannot be included.\n13. Sexually active patients must use a contraceptive method considered adequate and suitable by the investigator during the entire period of administration of the study treatment and up to 6 months after the treatment end, for female and male patients.\n14. Signature of the consent form before any study-specific procedure.\n15. Covered by the French health insurance.\n\nExclusion Criteria:\n\n1. Any previous treatment for pancreatic cancer (e.g. chemotherapy, radiotherapy, surgery, targeted therapy, experimental therapy)\n2. Gilbert's syndrome or homozygous Uridine DiPhosphate Glucuronosyl Transferase 1 A1 (UGT1A1 \\* 28)\n3. Other concomitant cancer or history of cancer, except for treated in situ cancer of the cervix , basal cell or squamous cell carcinoma, superficial bladder tumour (Ta, Tis, and T1), or good-prognosis tumour cured without chemotherapy and without signs of disease in the 3 years before inclusion\n4. Prior radiotherapy likely to overlap with the planned study radiotherapy area (e.g. previous abdominal irradiation).\n5. Patients with high cardiovascular risk, including, but not limited to, coronary stent or myocardial infarction in the past 6 months.\n6. Peripheral neuropathy ≥ grade 2\n7. ECG with QTcorrected (QTc) interval longer than 450 ms for men and longer than 470 ms for women\n8. Contraindication to MRI and MRI-guided radiotherapy\n9. History of chronic inflammatory disease of the colon or rectum\n10. Any other concomitant and not controlled serious illness or disturbance that may interfere with the patient's participation in the study and safety during the study (e.g. severe liver, kidney, lung, metabolic, or psychiatric disorder)\n11. Intolerance or allergy to one of the study drugs (gemcitabine, Nab-paclitaxel, oxaliplatin, irinotecan, 5-FU) or to one of their excipients (e.g. fructose) listed in the Contraindications or Warnings sections and Special precautions of the Summary of Product Characteristics (SmPC) or prescription information\n12. Legal incapacity (patient under guardianship or wardship)\n13. Pregnant or breastfeeding woman. Fertile women must have a negative pregnancy test (serum β-hCG) performed 72 hours before inclusion\n14. Patient using vitamin K antagonists (Coumadin…) (possible modification of the treatment before inclusion)\n15. Active and uncontrolled bacterial or fungal infection that requires systemic treatment.\n16. Know active HIV infection\n17. History of peripheral arterial disease (e.g. lameness, Buerger's disease).\n18. Patient who received a attenuated live vaccine in the 10 days before inclusion\n19. Patient with history of pulmonary fibrosis or interstitial pneumonia.\n20. Inability to attend the follow-up visits due to geographic, social or mental reasons.\n21. Participation in another clinical study with a research product during the last 30 days before inclusion.",
+  "enrollment": 103,
+  "has_results": false,
+  "interventions": [
+   "Gabrinox",
+   "MRI-GUIDED STEREOTACTIC RADIOTHERAPY"
+  ],
+  "last_update_posted": "2025-12-05",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 9,
+  "nct_id": "NCT04570943",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-01",
+  "sex": "ALL",
+  "sponsor": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "start_date": "2021-06-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

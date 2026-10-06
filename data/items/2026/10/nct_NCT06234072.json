@@ -1,0 +1,93 @@
+{
+ "abstract": "This study compare the efficacy of Astragalus combined with Gemcitabine to Gemcitabine alone as neoadjuvant treatment for pancreatic cancer.\n\nAstragalus is a commonly used traditional Chinese medicine in China, which has been widely applied to enhance the immunomodulatory function of the body and suppress the growth of tumors. It was often combined with other herbs to strengthen the body against disease. The effects and mechanisms of Astragalus and Shenqi Fuzheng Injection (the main ingredients are Codonopsis and Astragalus) in the treatment of digestive tract diseases were studied. Investigators found that Astragalus can not only inhibit the growth of pancreatic tumors, but also down regulate the ability of CAFs to secrete βig-h3, thereby inducing CD8+T proliferation and inhibiting the polarization of macrophages into M2 macrophages, thereby enhancing the response of pancreatic tumors to gemcitabine and other treatment options.\n\nThus, the objective of this study is to compare the impact of combining Astragalus with Gemcitabine versus Gemcitabine alone as neoadjuvant treatment for pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06234072",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06234072"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-01-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shenzhen University General Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06234072"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Comparing Astragalus Plus Gemcitabine to Gemcitabine Alone as Neoadjuvant Treatment for Pancreatic Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zhangwei9501@szu.edu.cn",
+    "name": "Wei Zhang, PhD",
+    "phone": "+8618616835965"
+   },
+   {
+    "email": "makmiky86@gmail.com",
+    "name": "Mikiyas Amare Getu, PhD",
+    "phone": "+8613028815957"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of pancreatic ductal adenocarcinoma;\n* Is 18 years of age or older;\n* ECOG performance status 0 to 2;\n\nPatient organ function tests must meet the following laboratory parameters:\n\n* Transaminases AST (SGOT) and ALT (SGPT) ≤ 2.5 times the upper limit of normal (ULN). If liver function abnormalities are due to underlying liver metastasis, then AST (SGOT) and ALT (SGPT) may be ≤ 5 times ULN.\n* Total serum bilirubin ≤ 3.0 times ULN (if due to underlying liver metastasis, then total bilirubin may be ≤ 5 times ULN),\n* Neutrophils 1,500/Ul,\n* hemoglobin \\> 8.0 gm/dL,\n* Platelet count ≥ 100,000/mm3 (IU: ≥ 100 x 109/L),\n* serum creatinine \\< 2.0 mg/dL,\n* Expected postoperative survival ≥ 3 months;\n* Ability to comply with the study visit plan and other protocol requirements;\n* Voluntary participation and signing of informed consent.\n* Is willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.\n\nExclusion Criteria:\n\n* CNS damage or soft meningeal disease;\n* Metastasis to distant sites;\n* Other serious diseases or conditions, including congestive heart failure (New York Heart Association class III or IV), unstable angina pectoris, infarction in the past 6 months, severe arrhythmia, prolonged QT interval, active HIV infection or HIV disease, mental disorders, and substance abuse;\n* Known hypersensitivity to Astragalus or gemcitabine;\n* Pregnant or lactating women. Women of childbearing potential who are unwilling or unable to use an acceptable method of contraception throughout the treatment period of this trial and for 12 weeks after the last dose of study drug. Sexually active, fertile men who are not using effective contraception themselves if their partner is a woman of childbearing potential;\n* Known neuroendocrine tumor of the pancreas;\n* Receiving a concomitant treatment with drugs interacting with gemcitabine;\n* Past or concurrent cancers with primary foci or histology completely different from pancreatic cancer, except for cervical cancer in situ, previously treated basal cell carcinoma, and superficial bladder tumors (Ta, Tis \\& T1). Any cancer cured \\>5 years prior to enrollment is allowed;\n* Inability to swallow herbal medicines or untreated malabsorption syndrome and unwillingness to take herbal medicines.\n* Patients with poor compliance",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "Astragalus + Gemcitabine",
+   "Gemcitabine alone"
+  ],
+  "last_update_posted": "2024-02-02",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06234072",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-01",
+  "sex": "ALL",
+  "sponsor": "Shenzhen University General Hospital",
+  "start_date": "2024-02",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

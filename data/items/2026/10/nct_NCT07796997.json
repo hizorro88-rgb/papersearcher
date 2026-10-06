@@ -1,0 +1,95 @@
+{
+ "abstract": "This is a single-site, randomized, controlled treatment trial evaluating perioperative steroid hydrocortisone use in patients undergoing pancreatic resection (partial pancreatectomy). Eligible participants will be randomized to one of two arms: (1) perioperative hydrocortisone or (2) standard perioperative care. Participants randomized to the intervention arm will receive hydrocortisone 100 mg intravenously at the time of resection, followed by two additional 100 mg intravenous doses administered every 8 hours, for a total of 3 doses over approximately 16 hours. Participants randomized to the standard of care arm will receive no perioperative steroid therapy beyond routine clinical management. Participants will be followed for postoperative outcomes, including postoperative complications and other adverse events (AEs), as well as for downstream oncologic outcomes, including time to chemotherapy initiation and overall survival. The planned study duration is 2 years with an anticipated sample size of 20 participants.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07796997",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07796997"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-09-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Illinois at Chicago",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07796997"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "GI-06: The Impact of Perioperative Hydrocortisone on Patients Undergoing Partial Pancreatectomy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Pancreatic Adenocarcinoma",
+   "Duodenal Cancer",
+   "Distal Cholangiocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "aejaz@uic.edu",
+    "name": "Aslam Ejaz, MD",
+    "phone": "(312) 996-6666"
+   },
+   {
+    "email": "hdiaz@uic.edu",
+    "name": "Hilda Diaz, MPH",
+    "phone": "(312) 996-6416"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years of age at time of consent\n* Eastern Cooperative Oncology Group (ECOG) 0-2\n* Histologically confirmed pancreatic adenocarcinoma, ampullary adenocarcinoma, duodenal cancer, or distal cholangiocarcinoma, documented by biopsy. Patients with suspected distal cholangiocarcinoma who are unable to achieve histologic confirmation prior to surgery will also be included.\n* Planned to undergo pancreatic head resection (pancreaticoduodenectomy), as determined by the treating surgical team.\n* Planned to undergo pancreatic resection with curative or therapeutic intent, as determined by the treating surgical team.\n* Deemed appropriate for surgery based on the treating surgeon's comprehensive preoperative clinical assessment, including review of SOC laboratory studies.\n* Able to provide written informed consent and HIPAA authorization for release of personal health information, via an approved UIC-IRB ICF HIPAA authorization. If a subject is unable to consent, a legally authorized representative (LAR) may provide consent on their behalf.\n* Women of child-bearing potential (WOCBP) must not be pregnant or breastfeeding. A negative serum or urine pregnancy test is required per institutional practice guidelines.\n* As determined at the discretion of the enrolling physician or protocol designee, the ability of the subject to understand and comply with study procedures for the entire length of the study.\n\nExclusion Criteria:\n\n* Prior pancreatic surgery.\n* Chronic systemic corticosteroids are used within 30 days prior to surgery (excluding topical, inhaled, or physiologic replacement doses).\n* Known hypersensitivity or contraindication to corticosteroids.\n* Active uncontrolled infection at the time of enrollment (registration).\n* Uncontrolled diabetes mellitus or a history of steroid-induced hyperglycemia requires hospitalization.\n* Known adrenal insufficiency requiring chronic steroid replacement.\n* Pregnant or nursing\n* Any prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of this investigational regimen, as determined by the treating medical oncologist.\n* Any mental or medical condition that prevents the patient from giving informed consent or participating in the trial.\n* Other major comorbidity, as determined by the study Principal Investigator",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Hydrocortisone",
+   "Pancreatic resection"
+  ],
+  "last_update_posted": "2026-09-01",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07796997",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-10",
+  "sex": "ALL",
+  "sponsor": "University of Illinois at Chicago",
+  "start_date": "2026-09",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

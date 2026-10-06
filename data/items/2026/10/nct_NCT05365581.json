@@ -1,0 +1,141 @@
+{
+ "abstract": "Claudin 18.2 protein, or CLDN18.2 is a protein found on cells in the digestive system. It is also found on some tumors. Researchers are looking at ways to attack CLDN18.2 to help control tumors. ASP2138 is thought to bind to CLDN18.2 and a protein on a type of immune cell called a T-cell. This \"tells\" the immune system to attack the tumor. ASP2138 is a potential treatment for people with stomach cancer, gastroesophageal junction cancer (GEJ cancer) or pancreatic cancer. GEJ is where the tube that carries food (esophagus) joins the stomach. Before ASP2138 is available as a treatment, the researchers need to understand how it is processed by and acts upon the body. In this study, ASP2138 will either be given by itself, or given together with standard treatments for gastric, GEJ and pancreatic cancer. Pembrolizumab and mFOLFOX6, and ramucirumab and paclitaxel are standard treatments for gastric and GEJ cancer. mFOLFIRINOX is a standard treatment for pancreatic cancer. This information will help find a suitable dose of ASP2138 given by itself and together with the standard cancer treatments and to check for potential medical problems from the treatments.\n\nThe main aims of the study are:\n\n* To check the safety of ASP2138 and how well people can tolerate medical problems during the study.\n* To find a suitable dose of ASP2138 to be used later in the study.\n* These are done for ASP2138 given by itself and when given together with the standard cancer treatments.\n\nAdults 18 years or older with stomach cancer, GEJ cancer, or pancreatic cancer can take part. Their cancer is locally advanced unresectable or metastatic. Locally advanced means the cancer has spread to nearby tissue. Unresectable means the cancer cannot be removed by surgery. Metastatic means the cancer has spread to other parts of the body. There should also be the CLDN18.2 marker in a tumor sample. People cannot take part if they need to take medicines to suppress their immune system, have blockages or bleeding in their gut, have specific uncontrollable cancers, have specific infections, have a condition such as hemophagocytic lymphohistiocytosis (HLH) which is when the body over-reacts to a \"trigger\" such as infection, or have a specific heart condition (\"New York Heart Association Class III or IV\").\n\nPhase 1: Lower to higher doses of ASP2138\n\n* ASP2138 is either given through a vein (intravenous infusion) or just under the skin (subcutaneous injection).\n* Different small groups are given lower to higher doses of ASAP2138.\n* ASP2138 is either given by itself, or given with 1 of 3 standard treatments:\n* Pembrolizumab and mFOLFOX6 (first treatment for gastric GEJ cancer)\n* Ramacirumab and paclitaxel (Second treatment for gastric or GEJ cancer)\n* ASP2138 with mFOLFIRINOX (first treatment for pancreatic cancer)\n\nPhase 1b: doses of ASP2138 worked out from Phase 1\n\n* ASP2138 is either given through a vein or just under the skin. This depends on the findings from Phase 1.\n* People with gastric cancer, GEJ cancer or pancreatic cancer are given doses of ASP2138, worked out from Phase 1.\n* This includes doses of ASP2138 given by itself and ASP2138 given with the standard cancer treatments.\n* The standard cancer treatments given depends on the type of cancer they have.\n\nEnd of treatment visit: This is 7 days after final dose of study treatment or if the study doctor decides to stop the person's treatment.\n\nPeople who have locally advanced unresectable pancreatic cancer will not receive ASP2138 by itself.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05365581",
+ "importance": 0.84,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05365581"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2022-05-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Astellas Pharma Global Development, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05365581"
+ },
+ "summary_ko": "Claudin 18.2 protein, or CLDN18.2 is a protein found on cells in the digestive system. It is also found on some tumors.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Claudin (CLDN) 18.2",
+  "ASP2138",
+  "Pharmacokinetics",
+  "Safety",
+  "Tolerability"
+ ],
+ "title": "A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal Junction Cancer, or Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Gastric Adenocarcinoma",
+   "Gastroesophageal Junction (GEJ) Adenocarcinoma",
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "Astellas.registration@astellas.com",
+    "name": "Astellas Pharma Global Development, Inc.",
+    "phone": "800-888-7704"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria (IC):\n\n* Participant is considered an adult according to local regulation at the time of signing the informed consent form (ICF).\n* Female participant is not pregnant, confirmed by serum pregnancy test \\&vmedical evaluation by interview \\& at least 1 of the following conditions apply:\n\n  * Not a woman of childbearing potential (WOCBP)\n  * WOCBP who agrees to follow the contraceptive guidance from the time of informed consent through at least 6 months after final study intervention administration.\n* Female participant must agree not to breastfeed starting at screening \\& throughout the study period \\& for 6 months after the final study intervention administration.\n* Female participant must not donate ova starting at screening \\& throughout the study period \\& for 6 months after the final study intervention administration.\n* Male participant with female partner(s) of childbearing potential (including breastfeeding partner) must agree to use contraception throughout the treatment period \\& for 6 months after the final study intervention administration.\n* Male participant must not donate sperm during the treatment period \\& for 6 months after the final study intervention administration.\n* Male participant with pregnant or breastfeeding partner(s) must agree to remain abstinent or use a condom for the duration of the pregnancy or time partner is breastfeeding throughout the study period \\& for 6 months after the final study intervention administration.\n* Participant's tumor sample is positive for claudin (CLDN)18.2 expression by central immunohistochemistry (IHC) testing.\n* Participant has radiographically-confirmed, locally advanced, unresectable or metastatic disease within 28 days prior to the first dose of study intervention.\n* Participant has at least 1 measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 within 28 days prior to the first dose of study intervention. Lesions situated in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions.\n* Participant has QT interval by Fredericia (QTcF) =\\< 470 msec.\n* Participant agrees not to participate in another interventional study while receiving study Intervention in the present study.\n* Participant has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Participant has predicted life expectancy \\>= 12 weeks.\n* Participant must meet all of criteria based on laboratory tests within 7 days prior to the first dose of study Intervention. In case of multiple laboratory data within this period, the most recent data should be used. If a participant has received a recent blood transfusion, the laboratory tests must be obtained \\>= 1 week after any blood transfusion.\n\nMonotherapy Disease specific Criteria (MDSC): Gastric/GEJ Cancer\n\n* Participant has histologically confirmed metastatic, locally advanced unresectable gastric/gastroesophageal junction (GEJ) adenocarcinoma.\n* Escalation: Participant with gastric/GEJ adenocarcinoma who has progressed, is intolerant, has refused, or for whom there is no standard approved therapies that impart significant clinical benefit (no limit to the number of prior treatment regimens).\n\n  * Unique to South Korea: Participant with gastric/GEJ adenocarcinoma who has refused standard approved therapies is not allowed.\n* Expansion: Participant with gastric/GEJ adenocarcinoma must have received no more than 3 prior lines of systemic chemotherapy treatment.\n\n  * Unique to EU: Expansion: Participant with gastric/GEJ adenocarcinoma must have received at least first-line standard therapies in the metastatic setting, must have received ramucirumab treatment if eligible \\& where ramucirumab is available, \\& no more than 3 prior lines of systemic chemotherapy treatment.\n\nMDSC: Pancreatic Cancer\n\n* Participant has histologically or cytologically confirmed metastatic pancreatic adenocarcinoma.\n* Escalation: Participant with pancreatic adenocarcinoma who has progressed, is intolerant, has refused, or for whom there is no standard approved therapies that impart significant clinical benefit (no limit to the number of prior treatment regimens).\n\n  * Unique to South Korea: Participant with pancreatic adenocarcinoma who has refused standard approved therapies is not allowed.\n* Expansion: Participants with pancreatic adenocarcinoma must have received no more than 2 prior lines of systemic chemotherapy treatment.\n\nNote: Participants with locally advanced unresectable pancreatic adenocarcinoma will not be admitted in monotherapy arms.\n\n* Unique to EU: Participant with pancreatic adenocarcinoma must have received at least first-line standard therapies in the metastatic setting \\& no more than 2 prior lines of systemic chemotherapy treatment.\n\nFor all participants in combination therapy (CT) administration:\n\n* If a participant has received a recent blood transfusion, the laboratory tests must be obtained ≥ 1 week after any blood transfusion.\n\nCombination Therapy Disease-specific (CTDS) IC: ASP2138 in Combination with Pembrolizumab \\& mFOLFOX6 as First-line Therapy in Gastric/GEJ Cancer\n\n* Participant has histologically confirmed diagnosis of gastric/GEJ adenocarcinoma.\n* Participant has metastatic or locally advanced unresectable gastric/GEJ adenocarcinoma.\n* Participant with gastric/GEJ adenocarcinoma has progressed \\& must not have been previously treated for metastatic disease with either chemotherapy or prior checkpoint inhibitor therapy.\n* Participant has a human epidermal growth factor receptor 2 (HER2)-negative tumor per local testing.\n* For CT with oxaliplatin, follow contraception guidelines from time of informed consent through at least 9 months after final study intervention.\n\n(Unique to South Korea: For CT with oxaliplatin, follow contraception guidelines from time of informed consent through at least 15 months after final study intervention for women \\& 12 months after final study intervention for men).\n\nUnique to EU:\n\n* Participant must have a PD-L1 CPS ≥ 1.\n\nCTDS IC: ASP2138 in Combination with Ramucirumab \\& Paclitaxel as Second-line Therapy in Gastric/GEJ Cancer\n\n* Participant has histologically confirmed diagnosis of gastric/GEJ adenocarcinoma.\n* Participant has metastatic or locally advanced unresectable gastric/GEJ adenocarcinoma.\n* Participant with gastric/GEJ adenocarcinoma must have previously received 1 line of systemic chemotherapy treatment (i.e., documented objective radiological or clinical disease progression after first line platinum \\& fluoropyrimidine treatment in the metastatic setting or disease progression during or within 4 months of the last dose of perioperative treatment.\n* For combination therapy with paclitaxel, female participant must follow contraception guidelines from time of informed consent through at least 7 months after final study intervention.\n\nCTDS IC: ASP2138 in Combination with mFOLFIRINOX as First-line Therapy in Pancreatic Cancer\n\n* Participant has histologically or cytologically confirmed diagnosis of pancreatic adenocarcinoma.\n* Participant has confirmed metastatic or locally advanced unresectable pancreatic adenocarcinoma.\n* Participant has pancreatic adenocarcinoma, has progressed \\& must not have received prior systemic anticancer therapy for their advanced disease. However, participants may have received either neoadjuvant or adjuvant chemotherapy, immunotherapy or other systemic anticancer therapies as long as they were completed at least 6 months prior to enrollment and without disease progression or recurrence.\n* For CT with oxaliplatin, follow contraception guidelines from time of informed consent through at least 9 months after final study intervention.\n\n(Unique to South Korea: For CT with oxaliplatin, follow contraception guidelines from time of informed consent through at least 15 months after final study intervention for women \\& 12 months after final study intervention for men).\n\nJapan \\& Korea Specific:\n\nFor All Participants in ASP2138 in Combination with Pembrolizumab \\& CAPOX:\n\n\\- If a participant has received a recent blood transfusion, the laboratory tests must be obtained ≥ 1 week after any blood transfusion.\n\nCTDS IC: ASP2138 in Combination with Pembrolizumab \\& CAPOX as First-line Therapy in Gastric/GEJ Cancer\n\n* Participant has histologically confirmed diagnosis of gastric/GEJ adenocarcinoma.\n* Participant has metastatic or locally advanced unresectable gastric/GEJ adenocarcinoma.\n* Participant with gastric/GEJ adenocarcinoma must not have been previously treated for metastatic disease with either chemotherapy or prior checkpoint inhibitor therapy.\n* Participants have a HER2-negative tumor per local testing.\n* For CT with oxaliplatin, follow contraception guidelines from time of informed consent through at least 9 months after final study intervention.\n\nExclusion Criteria (EC):\n\n* Participant has received other investigational agents, or antineoplastic therapy including other immunotherapy or devices concurrently or within 21 days or 5 times the half-life, whichever is shorter, prior to first dose of study intervention administration.\n* Participant has any condition which makes the participant unsuitable for study participation.\n* Participant has known immediate or delayed hypersensitivity or contraindication to any component of study intervention.\n* Participant has had prior severe allergic reaction or intolerance to known ingredients of ASP2138 or other antibodies, including humanized or chimeric antibodies.\n* Participant weighs \\< 40 kg.\n* Participant has received systemic immunosuppressive therapy, including systemic corticosteroids 14 days prior to first dose of study intervention. Participant using a physiologic replacement dose of hydrocortisone or its equivalent (defined as up to 10 mg per day of prednisone or equivalent), receiving a single daily dose of systemic corticosteroids or receiving systemic corticosteroids as pre-medication for radiologic imaging contrast use are allowed.\n* Participant has a complete gastric outlet syndrome or a partial gastric outlet syndrome with persistent/recurrent vomiting.\n* Participant has significant gastric bleeding \\&/or untreated gastric ulcers that exclude the participant from participation.\n* Participant has symptomatic CNS metastases or participant has evidence of unstable CNS metastases even if asymptomatic (e.g., progression on scans). Participants with previously treated CNS metastases are eligible, if they are clinically stable \\& have no evidence of CNS progression by imaging for at least 4 weeks prior to start of study intervention \\& are not requiring immunosuppressive doses of systemic steroids (\\> 10 mg per day of prednisone or equivalent) for longer than 2 weeks.\n* Participant is known to have HIV infection. However, participants with cluster of differentiation (CD4) + T cell counts \\>= 350 cells/µL \\& no history of acquired immunodeficiency syndrome (AIDS)-defining opportunistic infections within the past 6 months are eligible.\n* Participant is known to have active hepatitis B (positive hepatitis B surface antigen \\[HBsAg\\]) or hepatitis C infection. Testing is required for known history of these infections or as mandated by local requirements.\n\n  * For participant who is negative for HBsAg, but hepatitis B core antibody (HBc Ab) positive, a hepatitis B virus deoxyribonucleic acid test will be performed \\& if positive the participant will be excluded.\n  * Participant with positive hepatitis C virus (HCV) serology, but negative HCV ribonucleic acid (RNA) test results are eligible.\n  * Participant treated for HCV with undetectable viral load results are eligible\n* Participant has had within 6 months prior to first dose of study intervention any of the following: unstable angina, myocardial infarction, ventricular arrhythmia requiring intervention or hospitalization for heart failure.\n* Participant has active infection requiring systemic therapy that has not completely resolved within 7 days prior to the start of study intervention.\n* Participant has active autoimmune disease that has required systemic immunosuppressive treatment within the past 1 month prior to the start of study intervention.\n* Participant has a clinically significant disease or co-morbidity that may adversely affect the safe delivery of treatment within this study or make the participant unsuitable for study participation.\n* Participant has psychiatric illness or social situations that would preclude study compliance.\n* Participant has had a major surgical procedure 28 days before start of study intervention \\& has not fully recovered.\n* Participant has received radiotherapy metastatic or for locally advanced unresectable gastric/GEJ or metastatic pancreatic adenocarcinoma 14 days prior to start of study intervention \\& has NOT recovered from any related toxicity.\n* Participant has another malignancy for which treatment is required.\n* Participant who has received CLDN18.2-targeted therapy (e.g., zolbetuximab or chimeric antigen receptor CLDN18.2-specific T cells) prior to first dose of study intervention administration is not eligible for dose escalation cohorts. However, a participant who has received CLDN18.2-targeted therapy greater than 28 days or 5 half-lives (whichever is longer) prior to first dose study intervention administration is eligible for dose expansion cohorts only, with the exception of participants who have experienced Grade \\>= 3 gastrointestinal toxicity after receiving an CLDN18.2-targeted therapy.\n* Participant has a history or complication of interstitial lung disease.\n\nChina Specific:\n\nParticipant who has received treatment with herbal medications that have known antitumor activity within 28 days prior to first dose of study treatment.\n\nFor all participants in CT administration:\n\n* Participant has prior severe allergic reaction; suspected, known immediate or delayed hypersensitivity; or intolerance or contraindication to any study intervention (i.e., pembrolizumab \\& mFOLFOX6 \\[all components\\], ramucirumab \\& paclitaxel or mFOLFIRINOX \\[all components\\]).\n* For 5 FU (fluorouracil): Participant has known dihydropyrimidine dehydrogenase (DPD) deficiency.\n* Participants who have received systemic immunosuppressive therapy, including systemic corticosteroids 14 days prior to the first dose of study intervention are generally excluded; however, participants using a physiologic replacement dose of hydrocortisone or its equivalent (defined as up to 10 mg per day of prednisone or equivalent), receiving a single daily dose of systemic corticosteroids or receiving systemic corticosteroids as pre-medication for radiologic imaging contrast or for chemotherapy (as part of CT administration) are allowed.\n* Participant is known to have HIV infection.\n* NOTE: Differing from monotherapy administration, participants with CD4+ T cell counts ≥ 350 cells/µL \\& no history of AIDS-defining opportunistic infections within the past 6 months remain ineligible.\n* Participant has had uncontrolled high blood pressure within 6 months prior to the first dose of study intervention (Unique to EU: high blood pressure Stage 2 is defined as ≥ 140/90 mmHg).\n* Participant has a history of ascites requiring drainage more than twice in the past 7 days.\n\nCTDS EC: ASP2138 in Combination with Pembrolizumab \\& mFOLFOX6 as First-line Therapy in Gastric/GEJ Cancer:\n\n* Participant has history of (non-infectious) pneumonitis that required steroids, current pneumonitis, or has a history of interstitial lung disease.\n* Participant received live-virus vaccination within 30 days prior to the first dose of study intervention.\n* Participant has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study intervention or has been diagnosed with an autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs). Patients that require replacement therapy (e.g., thyroxine \\[T4\\], insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) may be enrolled.\n\nCTDS EC: ASP2138 in Combination with Ramucirumab \\& Paclitaxel as Second-line Therapy in Gastric/GEJ Cancer:\n\n* History of cerebrovascular accident or transient ischemic attack within 6 months prior to study intervention.\n* Participant has significant vascular disease (e.g., aortic aneurysm requiring surgical repair or recent peripheral arterial thrombosis) within 6 months prior to study intervention.\n* Participant has evidence of a bleeding diathesis or significant coagulopathy.\n* Participant has initiated new treatment with medications that affect the coagulation cascade with an INR ≥ 2 such as vitamin K antagonists, heparins \\& direct thrombin inhibitors or the use of factor Xa inhibitors within 28 days prior to the start of study intervention.\n\nNote: If the participant started receiving such medications more than 28 days prior to the start of study intervention \\& needs to continue, this is allowed. However, new anticoagulation medications may not be initiated within 28 days prior to the start of study intervention.\n\nJapan \\& Korea Specific:\n\nFor All Participants in ASP2138 in Combination with Pembrolizumab \\& CAPOX:\n\n* Participant has prior severe allergic reaction; suspected, known immediate or delayed hypersensitivity; or intolerance or contraindication to any study intervention (i.e., pembrolizumab \\& CAPOX \\[all components\\]).\n* Participants who have received systemic immunosuppressive therapy, including systemic corticosteroids 14 days prior to the first dose of study intervention are generally excluded, however, participants using a physiologic replacement dose of hydrocortisone or its equivalent (defined as up to 10 mg per day of prednisone or equivalent), receiving a single dose of systemic corticosteroids or receiving systemic corticosteroids as pre-medication for radiologic imaging contrast or for chemotherapy (as part of CT administration) are allowed.\n* Participant is known to have HIV infection.\n* NOTE: Differing from monotherapy administration, participants with CD4+ T cell counts ≥ 350 cells/μL \\& no history of AIDS-defining opportunistic infections within the past 6 months remain ineligible.\n* Participant has had uncontrolled high blood pressure within 6 months prior to the first dose of study intervention.\n* Participant has a history of ascites requiring drainage more than twice in the past 7 days.\n* Participant has known DPD deficiency.\n\nCTDS EC:\n\nASP2138 in Combination with Pembrolizumab \\& CAPOX as First-line Therapy in Gastric/GEJ Cancer:\n\n* Participant has history of (noninfectious) pneumonitis that required steroids, current pneumonitis, or has a history of interstitial lung disease.\n* Participant received live-virus vaccination within 30 days prior to the first dose of study intervention.\n* Participant has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study intervention or has been diagnosed with an autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs). Participants who require replacement therapy (e.g., thyroxine \\[T4\\], insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) may be enrolled.",
+  "enrollment": 398,
+  "has_results": false,
+  "interventions": [
+   "ASP2138",
+   "Pembrolizumab",
+   "Oxaliplatin",
+   "Leucovorin",
+   "Fluorouracil",
+   "Ramucirumab",
+   "Paclitaxel",
+   "Irinotecan",
+   "Capecitabine"
+  ],
+  "last_update_posted": "2026-09-11",
+  "location_countries": [
+   "China",
+   "France",
+   "Italy",
+   "Japan",
+   "Puerto Rico",
+   "South Korea",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Site KR82004",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Guro-gu",
+    "country": "South Korea",
+    "facility": "Site KR82001",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Jongno-gu",
+    "country": "South Korea",
+    "facility": "Site KR82002",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seocho-gu",
+    "country": "South Korea",
+    "facility": "Site KR82003",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seodaemun-gu",
+    "country": "South Korea",
+    "facility": "Site KR82005",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 46,
+  "nct_id": "NCT05365581",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-05-31",
+  "sex": "ALL",
+  "sponsor": "Astellas Pharma Global Development, Inc.",
+  "start_date": "2022-06-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

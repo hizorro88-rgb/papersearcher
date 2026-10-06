@@ -1,0 +1,94 @@
+{
+ "abstract": "This phase I trial tests the safety, side effects and best dose of TR-002 for the treatment of solid tumors that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced), that cannot be removed by surgery (unresectable), that has spread from where it first started (primary site) to other places in the body (metastatic) and unresectable or metastatic pancreatic adenocarcinoma that does not respond to treatment (refractory). Chemotherapy drugs, such as TR-002, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. TR-002 may be safe and tolerable in treating patients with advanced, unresectable or metastatic solid tumors and unresectable or metastatic, refractory pancreatic adenocarcinoma.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose (MTD), which will also be the recommended phase 2 dose (RP2D) of Nadofaragene Firadenovec (TR-002) for the treatment of advanced treatment-refractory solid tumors.\n\nII. To evaluate the toxicities of TR-002 administered intravenous weekly.\n\nSECONDARY OBJECTIVES:\n\nI. To obtain preliminary assessment of anti-tumor activity of TR-002 administered intravenous weekly at the RP2D.\n\nII. To evaluate the pharmacokinetics of TR-002 administered intravenous weekly.\n\nEXPLORATORY OBJECTIVE:\n\nI. To assess the effects of TR-002 on pharmacodynamic biomarkers relating to the mechanism of action.\n\nOUTLINE: This is a dose-escalation study of TR-002 followed by a dose-expansion study.\n\nPatients receive TR-002 intravenously (IV), over 1 hour, on days 1, 8, 15 and 22 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo echocardiography or multigated acquisition (MUGA) scan during screening and undergo computed tomography (CT) scan, magnetic resonance imaging (MRI), tumor biopsy and blood sample collection throughout the study.\n\nAfter completion of study treatment, patients are followed up at 30 days and every 60 days for 1 year.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07189195",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07189195"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of California, Davis",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07189195"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "TR-002 for the Treatment of Advanced Unresectable Metastatic Solid Tumors Unresectable or Metastatic, Refractory Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Malignant Solid Neoplasm",
+   "Metastatic Malignant Solid Neoplasm",
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Refractory Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Unresectable Malignant Solid Neoplasm",
+   "Unresectable Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "OCRReferral@health.ucdavis.edu",
+    "name": "Office of Clinical Research",
+    "phone": "916-382-6970"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged 18 or over at the time of consent\n* Pathology or histology-confirmed metastatic or unresectable solid tumor for which standard systemic treatments are no longer effective or not tolerated\n* For the expansion cohort, participants must have pathology or histology-confirmed metastatic or unresectable pancreatic adenocarcinoma that is refractory and/or intolerant to all standard-of-care systemic treatments (including gemcitabine, nab-paclitaxel, fluoropyrimidine, oxaliplatin, and irinotecan)\n* Participants in dose escalation may have measurable and/or non-measurable disease. Imaging for disease assessment of measurable and non-measurable disease must be completed within 28 days prior to registration. Participants in dose expansion must have measurable disease per Response Evaluation Criteira in Solid Tumors (RECIST) 1.1\n* Adequate cardiac function, assessed by multiple-gated acquisition (MUGA) scan or echocardiography (left ventricular ejection fraction of \\> 50%)\n* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2\n* Absolute neutrophil count ≥ 1,000/mcL\n* Platelets ≥ 75,000/mcL\n* Hemoglobin ≥ 8g/dL\n* Total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN) (\\< 3 x ULN in patients with known Gilberts)\n* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \\[SGOT\\])/ alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) ≤ 3 × institutional ULN (\\< 5 x ULN in patients with known liver metastases)\n* Creatinine ≤ 1.5 x institutional ULN OR glomerular filtration rate (GFR) ≥ 60 mL/min/1.73 m\\^2\n* For people of reproductive potential: use of highly effective contraception for at least 1 month prior to enrollment and agreement to use such a method through 3 months following the last dose of study treatment\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n\nExclusion Criteria:\n\n* Lactating or pregnant patients or patients of reproductive potential not willing to use effective methods of contraception\n* Clinically significant toxicities from most recent therapy or intervention prior to study enrollment that have not resolved to baseline or grade 1 (exceptions include alopecia and grade 2 sensory neuropathy)\n* Participant with a history of the following significant cardiovascular disease will be excluded:\n\n  * Participant has a history of myocardial infarction or unstable angina within 6 months prior to day 1.\n  * Participant has New York Heart Association (NYHA) Class II or greater congetive heart failure (CHF).\n  * History of cerebrovascular accident (CVA) or transient ischemic attack (TIA) within 6 months prior to study treatment.\n  * Participant has cardiac arrhythmia, complete left bundle branch block, obligate use of a cardiac pacemaker, long QT syndrome or right bundle branch block with left anterior hemiblock (bifascicular block).\n  * History of congenital long QT syndrome or prolonged corrected QT interval (QTc) \\> 470 msec for females and males using Fridericia's formula (unless a pacemaker is in place or additional clinically non-significant condition such as bundle-branch block necessitating use of an alternate formula per cardiologist calculation) or uncorrectable abnormalities in serum electrolytes (i.e., sodium, potassium, calcium, magnesium, phosphorus). An average of triplicate readings for assessing QTc interval may be used\n* Active bacterial, fungal, and viral infection, as documented by positive culture, radiological imaging techniques, septic fever, or septic shock symptoms\n* Known hypersensitivity to 4-aminoquinolone compounds\n* Retinal or visual field changes of any etiology\n* History of psoriasis\n* History of porphyria\n* Known glucose-6-phosphate dehydrogenase (G6PD) deficiency\n* History of seizure disorder\n* Any other condition that could compromise the subject's safety or put the study outcomes at undue risk",
+  "enrollment": 52,
+  "has_results": false,
+  "interventions": [
+   "TR-002"
+  ],
+  "last_update_posted": "2026-07-16",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07189195",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-11-07",
+  "sex": "ALL",
+  "sponsor": "University of California, Davis",
+  "start_date": "2025-11-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

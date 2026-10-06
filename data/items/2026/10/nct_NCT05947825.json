@@ -1,0 +1,86 @@
+{
+ "abstract": "The purpose of this study is to determine the efficacy of sitagliptin combined with gemcitabine and albumin-bound paclitaxel in subjects with locally advanced and metastatic pancreatic ductal adenocarcinoma.\n\nThis is a single-institution, prospective, open, one-armed phase Ⅱ clinical trial of sitagliptin combined with gemcitabine and nab-paclitaxel.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05947825",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05947825"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-07-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tianjin Medical University Cancer Institute and Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05947825"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "PDAC",
+  "sitagliptin"
+ ],
+ "title": "Sitagliptin Combined With Gemcitabine and Albumin-bound Paclitaxel in PDAC Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "PDAC - Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1.≥ 18 years old at the time of informed consent 2.Ability to provide written informed consent and HIPAA authorization 3.Untreated locally advanced or metastatic Pancreatic Ductal Adenocarcinoma (PDAC) as defined by National Comprehensive Cancer Network (NCCN) guidelines or, untreated metastatic PDAC (prior adjuvant therapy is permitted if it's been greater than 6 months since completion) 4.Histologically or cytologically confirmed PDAC 5.Confirmed PDAC that is measurable or evaluable per RECIST 1.1 6.Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 7.Gastrointestinal symptoms (nausea, vomiting, and diarrhea) of Grade 1 or less 8.Adequate organ function as defined by:\n\n1. Aspartate transaminase (AST) and alanine transaminase (ALT) levels ≤ 3 x upper limits of normal (ULN)\n2. Total bilirubin level ≤ 2 x ULN\n3. Creatinine level \\< 1.7mg/dL For patients with a Body Mass Index (BMI) \\> 30 kg/m2, lean body weight should be used to calculate the glomerular filtration rate (GFR).\n4. Hemoglobin (Hgb) ≥ 90 g/L, Absolute neutrophil count (ANC) ≥ 1.5 x 10\\^9/L, Platelets ≥ 80 x 10\\^9/L, Acceptable coagulation studies as demonstrated by prothrombin time (PT) within normal limits (+/-15%) unless they are on anticoagulation therapy\n5. Life expectancy estimated at ≥ 3 months\n\nExclusion Criteria:\n\n1. With any cancer other than PDAC in recent 5 years;\n2. With myocardial infarction;\n3. Uncontrolled hypertension (systolic pressure\\>150mmHg or diastolic pressure\\>100mmHg after treatment)\n4. LVEF\\<50%\n5. History of hemorrhage or thromboembolism in the last 6 months\n6. Psychiatric history\n7. Pregnant or breastfeeding\n8. Interstitial pneumonia or extensive and symptomatic interstitial fibrosis of the lung\n9. Autoimmune disease\n10. Uncontrolled active infection\n11. Other drugs that must be used during the trial may affect the metabolism of the experimental drugs (Sitagliptin, gemcitabine, nab-paclitaxel)",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Combination of sitagliptin+ gemcitabine + nab-paclitaxel"
+  ],
+  "last_update_posted": "2026-07-13",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05947825",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-09",
+  "sex": "ALL",
+  "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+  "start_date": "2023-07-01",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

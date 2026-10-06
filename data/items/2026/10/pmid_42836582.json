@@ -1,0 +1,57 @@
+{
+ "abstract": "Aberrant epigenetic regulation is a central driver of tumorigenesis, and the reversibility of epigenetic modifications underscores their potential as therapeutic targets. Epigenetic factors often function in a highly context-dependent manner, necessitating rigorous study of their dynamic and complex roles. Here, we uncovered an intricate regulation of tumor development and plasticity by the KDM6 family of H3K27me3 histone demethylases in pancreatic ductal adenocarcinoma (PDAC), a disease with sustained high mortality and limited treatment options. Temporally resolving KRAS-driven tumor development revealed a switch from tumor suppressive to oncogenic functions for KDM6B, with implications for tumor aggressiveness in rodents and patients. These oncogenic functions were mediated by regulation of NOTCH signaling, a pathway known to promote PDAC tumorigenesis. Concurrent elimination of KDM6A and KDM6B led to profound phenotypic changes resembling sarcomatoid carcinomas, a rare, poorly characterized subtype of human PDAC. These tumors exhibited altered oncogenic networks, including NOTCH and JNK signaling, that may support development of therapies tailored to molecular subtypes. Given the critical and distinct activities of KDM6 histone demethylases during PDAC development, targeting KDM6 activities may be beneficial in the right cellular and temporal context.",
+ "authors": [
+  "Leonhardt L",
+  "Mei J",
+  "Hendley AM",
+  "Ansari SA",
+  "Ashe S",
+  "Berrios DI",
+  "Joost LH",
+  "Fadel L"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42836582",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-25-3126",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42836582"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42836582/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "KDM6 Histone Demethylases Tune Pancreatic Cancer Plasticity",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

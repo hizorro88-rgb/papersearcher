@@ -1,0 +1,97 @@
+{
+ "abstract": "A phase 1a/1b, multicenter, open-label, dose escalation/expansion, multiple-dose study to evaluate the safety and activity of DR-0202 in patients with locally advanced or metastatic, relapsed or refractory carcinomas",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06999187",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06999187"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-05-31",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dren Bio",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06999187"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Study of DR-0202 in Patients With Locally Advanced or Metastatic, Relapsed or Refractory Carcinomas",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Triple Negative Breast Cancer",
+   "HER2-negative Breast Cancer",
+   "Non Small Cell Lung Cancer",
+   "Cervical Cancer",
+   "Castrate Resistant Prostate Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Head-and-neck Squamous Cell Carcinoma",
+   "Endometrial Cancer",
+   "Ovarian Cancer",
+   "Gastric Cancer",
+   "Gastroesophageal-junction Cancer",
+   "Urothelial Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "DR-0202-ONC-001_inquiries@drenbio.com",
+    "name": "Dren Bio Central Contact",
+    "phone": "415-737-5277"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed epithelial cancer of the following tumor types: breast (TNBC, HR+/HER2-/+BC), NSCLC, cervical, CRPC, PDAC, HNSCC, endometrial, ovarian, gastric/GEJ, or urothelial that is unresectable, locally advanced or metastatic\n* Relapsed or refractory with at least 2 prior lines of therapy and for which no standard of care treatment options are available\n* Radiographically measurable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Life expectancy, in the opinion of the Investigator, of ≥ 3 months\n* Adequate marrow reserve, renal function, and hepatic function\n* Taper of ≥ 2 weeks from high-dose systemic corticosteroids (however, low dose corticosteroids ≤ 25 mg prednisone or equivalent daily are permitted in consultation with the Medical Monitor)\n* Willing to provide archival tumor tissue samples or agree to a baseline biopsy if not available\n* Willing to undergo an on-treatment biopsy if clinically feasible and not contraindicated at the time of procedure\n\nExclusion Criteria:\n\n* Major surgery within 28 days prior to Day 1\n* Have not had an appropriate washout period from systemic therapy, including investigational agents, prior to C1D1:\n\n  1. Systemic chemotherapy and anticancer therapies within 4 weeks or 5 half-lives of the drug, whichever is shorter.\n  2. Antibody-based anticancer therapy: ≥ 4 weeks. Note: Treatment with systemic corticosteroids ≤ 25 mg/day (prednisone or equivalent) and inhaled or topical steroids are allowed. For participants with CRPC, LHRH agents are allowed.\n* Radiation therapy within 21 days prior to C1D1. Palliative radiation therapy may be allowed following discussion with Medical Monitor\n* Brain metastases either untreated and symptomatic or requiring therapy with steroids or anticonvulsants to control associated symptoms. Brain metastases that have been treated and are no longer symptomatic are allowed if use of high-dose systemic corticosteroids (\\> 25 mg/day of prednisone or equivalent) is stopped ≥ 12 weeks prior to C1D1.\n* Active Grade ≥ 2 anorexia, nausea or vomiting, and/or signs of intestinal obstruction.\n* Another malignancy (except for adequately resected non-melanoma skin cancer, curatively treated in situ disease, or other solid tumors curatively treated with no evidence of disease for ≥ 1 year)\n* Evidence of significant, uncontrolled concomitant disease that could affect compliance with study.\n* Current or past history of CNS disease, such as stroke, epilepsy, central nervous system vasculitis or neurodegenerative disease (participants with a history of stroke who have not experienced a stroke or transient ischemic attack in the past 6 months and have no residual neurologic deficits may be eligible).\n* QT interval for heart rate using Fridericia's formula (QTcF) \\> 480 msec or history of additional risk factors for Torsades de Pointes\n* Uncontrolled or significant cardiovascular disease\n* History or presence of an abnormal ECG that is clinically significant in the Investigator's opinion or myocardial infarction within 6 months prior to C1D1.\n* Prior solid organ transplantation.\n* Known infection with HIV, HBV, or HCV. The following participants may be enrolled in this study (the Sponsor reserves the right to restrict enrollment of these participants):\n\n  1. Participants who are HIV-positive with undetectable HIV RNA and at least 3 months on antiretroviral therapy.\n  2. Participants with a positive serologic test for HBV (i.e., positive HBcAb and negative HBsAg) and have a negative PCR test.\n  3. Participants who are HCV-positive who have completed at least 1 month of highly effective antiviral therapy and have a negative PCR test.\n* Active infection requiring systemic treatment, defined as requiring IV antimicrobial, antifungal, or antiviral agents within 2 weeks prior to C1D1. Prophylactic antimicrobial treatment is allowed. Infections eligible per Exclusion Criterion 16 may be enrolled.\n* Active clinical interstitial pneumonitis (e.g., shortness of breath, requirement of supplemental oxygen, dry cough) or as confirmed by means of diagnostic imaging within 6 months prior to C1D1.\n* Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations.",
+  "enrollment": 96,
+  "has_results": false,
+  "interventions": [
+   "DR-0202"
+  ],
+  "last_update_posted": "2026-01-07",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 10,
+  "nct_id": "NCT06999187",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-07",
+  "sex": "ALL",
+  "sponsor": "Dren Bio",
+  "start_date": "2025-06-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,94 @@
+{
+ "abstract": "This is a prospective, single-center, single-arm, phase II clinical study. The primary purpose of the study was to evaluate the efficacy and safety of radiotherapy with sequential albumin-bound paclitaxel + Gemcitabine chemotherapy + anti-PD-1 monoclonal antibody and Thymalfasin for borderline resectable pancreatic cancer, and to explore clinical indicators related to efficacy, further guiding subsequent individualized precise treatment.\n\nThis is a prospective, single-center, single-arm, phase II clinical study. In this study, 20 patients with borderline resectable pancreatic cancer and without any prior treatment will be enrolled. After signing the informed consent form, patients will be screened to ensure they meet the eligibility criteria.Before surgery, eligible patients will receive 4 cycles of neoadjuvant therapy: Tislelizumab combined with AG regimen and SBRT and 13 weeks of Thymalfasin therapy; after 4 cycles, the efficacy will be evaluated and radical surgery will be performed on schedule. The postoperative treatment of patients will be jointly decided by clinical physicians and patients according to the actual conditions of clinical diagnosis and treatment.\n\nThe main observation indicator is the R0 resection rate after neoadjuvant therapy; Safety assessment: The safety will be assessed after each cycle of neoadjuvant therapy and at 30 days after the last dose; Event follow-up: The events will be followed once every 3 months during the first year after surgery, and once every 6 months during the second year after surgery.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06573398",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06573398"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-08-27",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ruijin Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06573398"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "borderline resectable",
+  "thymalfasin",
+  "radiotherapy",
+  "chemotherapy",
+  "PD-1 inhibitor",
+  "pancreatic ductal adenocarcinoma"
+ ],
+ "title": "Radiotherapy With Sequential Chemotherapy Combined With PD-1 Inhibitor and Thymalfasin for BRPC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Carcinoma, Pancreatic Ductal"
+  ],
+  "contacts": [
+   {
+    "email": "jjb11501@rjh.com.cn",
+    "name": "Jiabin Jin, PhD",
+    "phone": "+86 18101870031"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years, with ECOG score of 0 \\~ 1;\n2. Histologically or cytologically confirmed diagnosis of ductal adenocarcinoma of pancreas;\n3. Classification as borderline resectable pancreatic cancer according to the NCCN Guidelines (2024 Edition);\n4. Deemed suitable for neoadjuvant therapy following discussion by the MDT team of the study site;\n5. Subjects must meet the following criteria for hematology test:\n\n   1. Neutrophil count ≥ 1.5 × 10\\^9/L\n   2. Hemoglobin ≥ 10 g/dL\n   3. Platelet count ≥ 100 × 10\\^9/L\n6. Subjects must meet the following criteria for blood chemistry tests:\n\n   1. Total bilirubin ≤ 1.5 × upper limit of normal (ULN)\n   2. AST and ALT \\< 1.5 × ULN\n   3. Creatinine clearance ≥ 60 mL/min\n   4. Good coagulation, defined as international normalized ratio (INR) or prothrombin time (PT) ≤ 1.5 × ULN\n7. Subjects of childbearing potential should take appropriate protective measures (contraceptive methods or other birth control methods) prior to enrollment and throughout the clinical study;\n8. Has signed the informed consent form;\n9. Capable of complying with the study protocol and follow-up procedures.\n\nExclusion Criteria:\n\n1. Prior systemic anti-tumor therapy;\n2. Prior medical history of other tumors, except for cervical carcinoma in situ, treated squamous cell carcinoma or urothelial bladder carcinoma (Ta and TIS), or other malignant tumors that have received radical treatment (at least 5 years prior to enrollment);\n3. Prior history of abdominal radiotherapy;\n4. Subjects with active bacterial or fungal infection (≥ Grade 2 as per NCI-CTC, Version 3).\n5. Subjects with HIV, HCV, or HBV infection, uncontrollable coronary artery disease or asthma, uncontrollable cerebrovascular disease or other diseases judged by the investigator to be ineligible for enrollment;\n6. Subjects with autoimmune diseases or immunodeficiency and requiring treatment with immunosuppressive agents;\n7. Pregnant or lactating women; women of childbearing potential must have a negative pregnancy test results within 7 days prior to enrollment;\n8. Subjects with drug abuse/clinical/psychological/social factors that affect informed consent or study conduct;\n9. Subjects who may be allergic to PD-1 monoclonal antibody immunotherapy drugs;\n10. Patients who are scheduled to undergo or have previously undergone organ or bone marrow transplant;\n11. Patients requiring treatment with systemic corticosteroids (at dose level \\> 10 mg/day prednisone efficacy) or other immunosuppressive drugs within 14 days prior to the first dose or during the study. However, enrollment is permitted if: In the absence of active autoimmune disease, patients are permitted to use topical or inhaled steroids, or adrenal hormone replacement therapy at dose level ≤ 10 mg/day prednisone efficacy;\n12. Treatment with live vaccines within 28 days prior to the first dose; except for inactivated viral vaccines for seasonal influenza;\n13. Active pulmonary tuberculosis;\n14. Treatment with related drugs or medical technology affecting immunity within 6 months prior to the first dose (including but not limited to: thymopentin, thymalfasin, interferon, CAR-T therapy, etc.);\n15. Patients with other conditions unsuitable for this clinical trial judged by the investigator.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "SBRT with Sequential AG regimen +Tislelizumab+Thymalfasin"
+  ],
+  "last_update_posted": "2024-08-27",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06573398",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-09-01",
+  "sex": "ALL",
+  "sponsor": "Ruijin Hospital",
+  "start_date": "2024-09-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

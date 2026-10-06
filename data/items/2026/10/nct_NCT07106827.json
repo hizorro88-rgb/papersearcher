@@ -1,0 +1,94 @@
+{
+ "abstract": "This is a single-arm, single-center study for multiple tumor indications to evaluate the safety of GV20-0251. The trial uses a 3 + 3 design and enrolls 3-6 patients in the 10 mg/kg and 20 mg/kg dose groups, respectively. The cancer types include solid tumors.\n\nStandard Phase I clinical trial (dose escalation test) 3 + 3 study method was used: the initial dose group 1 was 10 mg/kg (Q3W) and 20 mg/kg (Q3W) for dose group 2. If the MDT is not reached at dose group 2, no further dose escalation will be conducted. Three individuals were enrolled first at each dose level. If none of the three patients developed DLT during treatment (DLT observation period of 21 days), the trial entered the next dose group. Otherwise, when 1 out of 3 subjects experiences DLT, an additional 3 subjects should be enrolled in this dose group. If only 1 out of 6 patients experienced DLT, the trial continued to the next dose level. If ≥ 2 out of 3 or ≥ 2 out of 6 patients experience a DLT, enrollment will not continue to increase. If the first 3 participants cannot tolerate this dose level, a lower dose or regimen may be used after approval by the site's Clinical Trial Committee. The following oncologic indications will be assessed in this study: hepatocellular carcinoma (HCC), cholangiocarcinoma, uveal melanoma, non-uveal melanoma, non-small cell lung cancer (NSCLC), pancreatic ductal adenocarcinoma, head and neck squamous cell carcinoma (HNSCC), endometrial cancer, and testicular cancer. Additional indications may be evaluated, including CRC, clear cell renal cell carcinoma, gastric or gastroesophageal junction carcinoma, sarcoma carcinoma, breast cancer, prostate cancer, cervical cancer, and small cell lung cancer. (The method of drug infusion and detailed drug-related instructions are provided in the Annex of the Investigational Drug Instruction Manual).\n\nScreening period:\n\n1. From the day the subject signed the informed consent form to the day before the first dose of the investigational product (Day 1),\n2. The screening period does not exceed 28 days (Day-28 to Day-1);\n\nTreatment Period and Efficacy Evaluation:\n\nEligible participants entered the treatment phase, and the investigator calculated the administered dose and drug concentration of GV20-0251 based on the patient's body weight, thereby calculating the required GV20-0251 drug volume and the corresponding number of bottles. The study nurse will remove the bottle from the refrigerator and bring it to room temperature, which will take approximately 30-60 minutes. GV20-0251 solution for intravenous infusion is formulated from GV20-0251 injection and 0.9% sodium chloride injection in a saline bag volume of 250 mL depending on the amount of GV20-0251 injection administered. GV20-0251 Injection will be administered to eligible subjects by a research nurse under the supervision of study personnel.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07106827",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07106827"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-08-06",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "West China Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07106827"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "GV20-0251"
+ ],
+ "title": "A Study of GV20-0251 in Advanced or Refractory Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "HCC - Hepatocellular Carcinoma",
+   "Cholangiocarcinoma",
+   "Melanoma",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Pancreatic Ductal Adenocarcinoma",
+   "HNSCC",
+   "Endometrial Cancer",
+   "Testicular Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zhoujin096@scu.edu.cn",
+    "name": "Jin Zhou",
+    "phone": "+8618980600172"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Before conducting any study-specific procedures, voluntarily sign an informed consent form.\n* Be able and willing to participate throughout the entire study period and comply with study procedures.\n* participants ≥18 years of age\n* Previously treated, histologically-confirmed advanced solid malignancy with progressive disease requiring therapy (Refractory or intolerant to standard therapies, must have received the standard of care therapy)\n* ECOG performance status of 0 or 1 before C1D1\n* Disease-free of active second/secondary or prior malignancies for ≥ 2 years Laboratory test results within the required parameters\n* Women of childbearing potential (WOCBP) and men must agree to use adequate contraception\n\nExclusion Criteria:\n\n* Participants with acute leukemia or CLL\n* Participant with heart disease, myocardial infarction within the past 6 months, or unstable arrhythmia\n* Fridericia-corrected QT interval (QTcF) \\> 470 msec, or the presence of congenital long QT syndrome, or a history of clinically significant electrocardiogram (ECG) abnormalities (including pericarditis) that, in the investigator's judgment, may affect the subject's safety.\n* Active, uncontrolled bacterial, viral, or fungal infections requiring systemic therapy within 7 days of Cycle 1 Day 1 (C1D1)\n* Participant has active autoimmune disease or other medical conditions requiring chronic systemic steroid or immunosuppressive therapy\n* Known human immunodeficiency virus (HIV) infection, known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection, unless meeting the specific conditions.\n* History of major organ transplant and/or a bone marrow transplant\n* Symptomatic central nervous system (CNS) malignancy or metastasis\n* Serious nonmalignant disease\n* Pregnant or nursing women\n* Major surgery within 28 days prior to the first dose of study medication\n* Prior anticancer therapy within 4 weeks or 5 half-lives (whichever is shorter) before the first dose of GV20-0251 on Cycle 1 Day 1 (C1D1), with the exceptions.\n* History of severe allergic reactions to biologic therapy, which in the investigator's judgment may increase the subject's risk.\n* Radiation therapy for symptomatic lesions within 14 days prior to C1D1 dosing.\n* Active substance abuse\n* Any history of an immune-related ≥ Grade 3 AE attributed to prior cancer immunotherapy",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "GV20-0251"
+  ],
+  "last_update_posted": "2025-11-24",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07106827",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-06-11",
+  "sex": "ALL",
+  "sponsor": "West China Hospital",
+  "start_date": "2025-09-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

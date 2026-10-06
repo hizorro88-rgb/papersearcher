@@ -1,0 +1,98 @@
+{
+ "abstract": "The goal of this clinical trial is to evaluate the safety and efficacy of JDB153 combined with Serplulimab in patients with pancreatic cancer after standard treatment failure.\n\nThis study is a single-arm, single-center, exploratory clinical trial aimed at evaluating the safety and efficacy of JDB153 combined with Serplulimab in patients with pancreatic cancer after standard treatment failure.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07175389",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07175389"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-09-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "West China Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07175389"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic Cancer",
+  "JDB153",
+  "Serplulimab"
+ ],
+ "title": "JDB153 Combined With Serplulimab for Pancreatic Cancer After Standard Treatment Failure",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Refractory Pancreatic Ductal Adenocarcinoma",
+   "Refractory Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "caodan@scu.edu.cn",
+    "name": "Dan Cao, MD",
+    "phone": "+8618980605963"
+   },
+   {
+    "email": "xuhuanji1990@163.com",
+    "name": "Huanji Xu, MD",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\) Histologically or cytologically confirmed diagnosis of locally advanced, unresectable, or metastatic pancreatic cancer; 2) Age 18-75 years, inclusive; no sex restrictions; 3) Life expectancy ≥12 weeks; 4) Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1; 5) Documented disease progression following prior standard systemic therapy. For patients who experienced disease progression within 6 months during or after adjuvant chemotherapy, the adjuvant chemotherapy will be considered first-line treatment; 6) Presence of at least one measurable target lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Target lesions must have a maximum diameter of ≥1 cm if identified by helical computed tomography (CT) or ≥2 cm if identified by conventional CT or magnetic resonance imaging (MRI). All imaging must have been performed within 28 days prior to enrollment; 7) Adequate bone marrow and organ function, as evidenced by laboratory test results obtained within 1 week prior to enrollment: Hemoglobin ≥90 g/L; Platelet count ≥75 × 10⁹/L; White blood cell count ≥3.0 × 10⁹/L; Absolute neutrophil count ≥1.5 × 10⁹/L; Total bilirubin ≤1.5 × upper limit of normal (ULN)(or ≤ 3.0 × ULN for patients with documented liver metastases); Serum creatinine ≤1.5 × ULN; Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5 × ULN (or ≤ 5.0 × ULN for patients with documented liver metastases). Patients must not have received blood transfusions, granulocyte colony-stimulating factor (G-CSF), or other medical supportive treatments within 14 days prior to study drug administration; 8) Voluntary participation with provision of written informed consent.\n\nExclusion Criteria:\n\n* 1\\) History of other malignant tumors with disease-free survival \\<5 years (except cured basal cell carcinoma of the skin, cured cervical carcinoma in situ, and gastrointestinal tumors confirmed to be cured by endoscopic mucosal resection); 2) Prior treatment with a PD-1or PD-L1inhibitor; 3) Presence of immunodeficiency disease or HIV infection; 4) Severe, uncontrolled acute infection (defined as fever \\>38°C caused by infection); 5) History of active hepatitis B or active hepatitis C, defined as: HBV DNA titer ≥2000 IU/mL (or 1×10⁴ copies/mL) or HCV RNA ≥lower limit of detection; 6) Severe hepatic or renal dysfunction; or recent history of myocardial infarction (within 3 months); 7) Patients with active or previous autoimmune disease that has the potential for recurrence or poses associated risks (e.g., those who have undergone organ transplantation requiring immunosuppressive therapy). However, patients with Type I diabetes mellitus, hypothyroidism requiring only hormone replacement therapy, or skin diseases not necessitating systemic treatment (e.g., vitiligo, psoriasis, or alopecia) are permitted to enroll; 8) History of interstitial lung disease or non-infectious pneumonitis that is symptomatic or has a history of pulmonary disease that may interfere with the detection or management of suspected drug-related pulmonary toxicity; 9) History of active tuberculosis infection within 1 year prior to first administration of study drug. However, for patients with a history of active tuberculosis infection more than 1 year ago, enrollment is considered appropriate if the investigator determines there is currently no evidence of active tuberculosis; 10) History of chronic diarrhea or presence of complete intestinal obstruction; 11) Patients requiring systemic treatment with corticosteroids (\\>10 mg/day prednisone equivalent) or other immunosuppressive medications within 14 days prior to administration of study drug. Note: Inhaled or topical steroids, or adrenal replacement therapy (≤10 mg/day prednisone equivalent), are permitted in the absence of active autoimmune disease. Short-term (≤7 days) use of corticosteroids for prophylactic treatment (e.g., contrast media allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reactions caused by contact allergens) is permitted; 12) Concurrent other serious medical or surgical conditions affecting organ function that the investigator considers inappropriate for participation in this clinical trial; 13) Participation in other investigational drug clinical trials within 4 weeks; 14) Pregnant or lactating women, or patients with reproductive potential (men or women who have been post-menopausal for less than 1 year) who are unwilling to use adequate contraceptive measures; 15) Patients with a history of allergic or hypersensitivity reactions to any study drug components; 16) Patients deemed inappropriate for participation in this clinical trial by the investigator.",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "JDB153",
+   "Serplulimab"
+  ],
+  "last_update_posted": "2026-08-19",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07175389",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-09-01",
+  "sex": "ALL",
+  "sponsor": "West China Hospital",
+  "start_date": "2026-09-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,113 @@
+{
+ "abstract": "The purpose of this study is to evaluate the safety, tolerability, dosimetry and preliminary efficacy of \\[177Lu\\]Lu-NNS309 and the safety, dosimetry and imaging properties of \\[68Ga\\]Ga-NNS309 in patients aged ≥ 18 years with locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC), non-small cell lung cancer (NSCLC), HR+/HER2- ductal and lobular breast cancer (BC), triple negative breast cancer (TNBC) and colorectal cancer (CRC).\n\nThe study will be done in two parts. The first part is called \"escalation\" and the second part is called \"expansion\". In both parts of the study, patients will initially be imaged with a \\[68Ga\\]Ga-NNS309 positron emission tomography (PET)/ computed tomography (CT) or PET/magnetic resonance imaging (MRI) scan and will be evaluated for eligibility for \\[177Lu\\]Lu-NNS309 treatment. In the escalation part, different doses of \\[177Lu\\]Lu-NNS309 will then be tested to identify recommended dose(s) (RD(s)) for further evaluation. The expansion part of the study will examine the safety and preliminary efficacy of \\[177Lu\\]Lu-NNS309 at the RD(s) determined during the escalation part. The end of study will occur when all patients per disease group in the expansion part have completed the follow-up for disease progression or discontinued from the study for any reason, and all patients have completed treatment and the 36-month long-term follow-up period.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06562192",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06562192"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-08-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Novartis Pharmaceuticals",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06562192"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic ductal adenocarcinoma",
+  "non-small cell lung cancer",
+  "breast cancer",
+  "colorectal cancer",
+  "radioligand therapy (RLT)",
+  "[177Lu]Lu-NNS309",
+  "[68Ga]Ga-NNS309"
+ ],
+ "title": "Phase I Study of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Non-small Cell Lung Cancer",
+   "HR+/HER2- Ductal and Lobular Breast Cancer",
+   "Triple Negative Breast Cancer",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "novartis.email@novartis.com",
+    "name": "Novartis Pharmaceuticals",
+    "phone": "1-888-669-6682"
+   },
+   {
+    "email": "novartis.email@novartis.com",
+    "name": "Novartis Pharmaceuticals",
+    "phone": "+41613241111"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Patients with one of the following indications:\n* Locally advanced unresectable or metastatic PDAC with disease progression following, or intolerance to cytotoxic chemotherapy, unless patient was ineligible to receive such therapy\n* Locally advanced unresectable or metastatic NSCLC without any actionable genomic alterations with disease progression following, or intolerance to chemotherapy and immunotherapy, unless patient was ineligible to receive such therapy, or locally advanced unresectable or metastatic NSCLC with an actionable genomic alteration with disease progression following, or intolerance to targeted therapy, unless patient was ineligible to receive such therapy\n* Locally advanced unresectable or metastatic HR+/HER2- ductal or lobular BC with disease progression following, or intolerance to, at least 2 lines of therapy, unless patient was ineligible to receive such therapy\n* Locally advanced unresectable or metastatic TNBC with disease progression following, or intolerance to, at least 2 lines of therapy, unless patient was ineligible to receive such therapy\n* Locally advanced or metastatic unresectable CRC with disease progression following, or intolerance to cytotoxic chemotherapy, unless patient was ineligible to receive such therapy. Patients with known microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) status must also have had disease progression following, or intolerance to immune checkpoint inhibitor therapy, unless patient was ineligible to receive such therapy\n* Patients must have lesions showing 68Ga-NNS309 uptake\n\nExclusion Criteria:\n\n* Absolute neutrophil count (ANC) \\< 1.5 x 10\\^9/L, hemoglobin \\< 9 g/dL, or platelet count \\< 100 x 10\\^9/L\n* QT interval corrected by Fridericia's formula (QTcF) ≥ 470 msec\n* Calculated estimated glomerular filtration rate \\< 60 mL/min/1.73m2\n* Unmanageable urinary tract obstruction or urinary incontinence\n* Radiation therapy within 4 weeks prior to the first dose of \\[177Lu\\]Lu-NNS309\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+  "enrollment": 162,
+  "has_results": false,
+  "interventions": [
+   "[68Ga]Ga-NNS309",
+   "[177Lu]Lu-NNS309"
+  ],
+  "last_update_posted": "2026-07-29",
+  "location_countries": [
+   "Belgium",
+   "Canada",
+   "France",
+   "Germany",
+   "Israel",
+   "Italy",
+   "Netherlands",
+   "Spain",
+   "Switzerland",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "100 Years",
+  "min_age": "18 Years",
+  "n_locations": 29,
+  "nct_id": "NCT06562192",
+  "phase": "PHASE1",
+  "primary_completion_date": "2031-01-15",
+  "sex": "ALL",
+  "sponsor": "Novartis Pharmaceuticals",
+  "start_date": "2024-10-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

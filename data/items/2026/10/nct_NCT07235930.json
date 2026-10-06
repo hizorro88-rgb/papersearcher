@@ -1,0 +1,90 @@
+{
+ "abstract": "A randomized, multicenter, Phase III trial evaluating the efficacy and safety of first-line Sequential AG-mFOLFOX chemotherapy combined with Serplulimab and Bevacizumab versus AG chemotherapy alone in advanced pancreatic cancer. The primary endpoint is Overall Survival (OS). Approximately 292 patients will be enrolled in China.\n\nThis is a randomized, open-label, multicenter, Phase III clinical trial designed to evaluate the efficacy and safety of first-line treatment with Sequential AG (Nab-paclitaxel/Gemcitabine) and mFOLFOX chemotherapy combined with Serplulimab and Bevacizumab, versus AG chemotherapy alone, in patients with previously untreated, unresectable, locally advanced, or metastatic pancreatic ductal adenocarcinoma. Approximately 292 eligible subjects will be randomized in a 1:1 ratio to receive either the experimental combination or the standard chemotherapy control. Treatment will continue until disease progression, unacceptable toxicity, withdrawal of consent, or study termination, with the primary endpoint being Overall Survival (OS) and key secondary endpoints including Progression-Free Survival (PFS), Objective Response Rate (ORR), and safety.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07235930",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07235930"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang Cancer Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07235930"
+ },
+ "summary_ko": "A randomized, multicenter, Phase III trial evaluating the efficacy and safety of first-line Sequential AG-mFOLFOX chemotherapy combined with Serplulimab and Bevacizumab versus AG chemotherapy alone in advanced pancreatic cancer. The primary endpoint is Overall Survival (OS).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Firstline Sequential AG and mFOLFOX Combined With Serplulimab and Bevacizumab Versus AG Chemotherapy Alone in Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Non-Resectable Pancreas Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "jieerying@aliyun.com",
+    "name": "Jieer Ying, Doctor",
+    "phone": "13858195803"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntarily agree to participate in the study and sign the informed consent;\n2. ≥18 years of age and ≤75 years of age on the day of signing the informed consent form, regardless of gender;\n3. Pancreatic ductal adenocarcinoma confirmed by pathologic histology or cytology;\n4. No prior systemic therapy for unresectable locally advanced or metastatic pancreatic cancer;\n5. Measurable lesions at baseline according to RECIST 1.1 criteria; if the subject has only 1 measurable lesion at baseline, the area of the lesion must not have received radiotherapy in the past or there must be evidence of significant progression of the lesion after completion of radiotherapy treatment;\n6. the ECOG physical status score was 0 or 1 and the Expected survival ≥12 weeks;\n7. No serious organic diseases of the heart, lungs, brain and other organs;\n8. Adequate organ function\n\n   1. Bone Marrow Function: (no transfusion within 14 days prior to screening, no use of granulocyte colony stimulating factor \\[G-CSF\\], no use of drug correction) : i. Hemoglobin ≥90g/L; ii. Leukocytes ≥ 4.0 x 109/L, Neutrophils ≥1.5×109/L; iii. Platelet ≥80×109/L;\n   2. Coagulation function: PT or APTT ≤ 1.5 x ULN in subjects not receiving anticoagulation; if subjects are receiving anticoagulation, as long as the PT is within the range of the anticoagulant drug formulation;\n   3. liver function: (no albumin infusion within 14 days prior to screening): Serum total bilirubin ≤ 1.5 x ULN (with biliary obstruction, allowing enrollment of subjects undergoing biliary drainage or in the midst of stenting therapy who have a total bilirubin ≤ 2.5 x ULN). In subjects without liver metastasis, Aspartate aminotransferase (AST), alanine aminotransferase (ALT)≤2.5×ULN; In subjects with liver metastasis, ALT and AST≤5×ULN, but without elevated bilirubin;\n   4. Renal function: serum creatinine ≤1.5 x ULN, creatinine clearance (CCr) ≥50 mL/min, urinary protein \\<2+ (if urinary protein ≥2+, 24-hour (h) urinary protein quantification can be carried out, and 24h urinary protein quantification \\<1.0 g can be enrolled)\n   5. Heart function: New York College of Cardiology (NYHA) rating \\< 3; Left ventricular ejection fraction ≥50%;\n9. Male or female patients of childbearing potential will voluntarily use an effective method of contraception, such as a double-barrier contraceptive method, condoms, oral or injectable contraceptives, and an intrauterine device (IUD), for the duration of the study and up to 6 months after the last study dose. All female patients will be considered of childbearing potential unless the female patient is naturally menopausal, artificially menopausal or sterilized;\n10. Subject's ability and willingness to comply with visits, treatment plans, laboratory tests, and other study-related processes as specified in the study protocol.\n\nExclusion Criteria:\n\n1. subjects with clear brain metastases on imaging or with meningeal metastases;\n2. untreated spinal compression fractures not treated by surgery and/or radiotherapy; treated spinal compression fractures require disease stabilization for at least 2 weeks prior to enrollment;\n3. high risk of gastrointestinal or abdominal bleeding as evaluated by the Investigator;\n4. uncontrolled cancer pain; narcotic analgesics not at a stable dose at enrollment;\n5. previous treatment with vascular endothelial growth factor (VEGFR) inhibitors or previous treatment with immune checkpoint inhibitors;\n6. antitumor treatment with chemotherapy, small molecule inhibitors, immunotherapy (e.g., interleukin, interferon, or thymosin) within 28 days prior to enrollment in this study, and herbal medicine with antitumor indications within 14 days prior to dosing;\n7. major surgical procedures \\[such as transabdominal, transthoracic and other major surgeries; excluding diagnostic puncture such as ultrasonic endoscopy-guided pancreatic fine-needle aspiration biopsy (EUS-FNB), percutaneous hepatic perforation biopsy, peripheral venous catheterization, and biliary stent implantation\\] or invasive treatments or operations with incomplete healing of the surgical incision, local anti-tumor treatment such as hepatic artery interventional embolization, hepatic metastasis cryo-ablation, radiofrequency ablation and other local anti-tumor treatments. radiofrequency ablation and other local antitumor therapy;\n8. have received radical radiotherapy within 3 months prior to study entry; palliative radiotherapy 2 weeks prior to dosing is permitted, and the dose of radiotherapy meets local standards of care for palliative care;\n9. required systemic corticosteroid (\\>10 mg/day prednisone or equivalent of other corticosteroid for ≥7 consecutive days) or immunosuppressive therapy within 14 days prior to enrollment in this study; with the exception of inhaled or locally applied hormones, or physiologic replacement doses of hormone therapy due to adrenal insufficiency; short-term (≤7 days) corticosteroids are allowed for prophylaxis (e.g., contrast allergy) or treatment of Non-autoimmune conditions (eg, delayed hypersensitivity reactions caused by exposure to allergens) ;\n10. subjects with uncorrectable albumin decline (serum albumin \\<3.0 g/dL) 14 days prior to enrollment in this study; and\n11. a 10% or greater weight loss in comparison to the weight loss at the time of ICF signing within 72 hours prior to enrollment in this study; and\n12. within 72 hours prior to study entry, the subject's ECOG physical status score increases by ≥1 point compared to the ICF score; 13. within 28 hours prior to study entry, the subject's ECOG physical status score increases by ≥1 point compared to the ICF score; and\n13. has received a live vaccine (including live attenuated vaccine) within 28 days prior to enrollment in this study;\n14. previous or current interstitial pneumonia/pneumatosis, unless determined by the investigator to be inactive and not requiring hormonal therapy; and\n15. pre-existing or current autoimmune disease, including but not limited to Crohn's disease, ulcerative colitis, systemic lupus erythematosus, sarcoidosis, Wegener's syndrome (granulomatous disease with polyangiitis), Graves' disease, rheumatoid arthritis, hypopituitarism, uveitis, autoimmune hepatitis, systemic sclerosis ( Scleroderma, etc.), Hashimoto's thyroiditis, autoimmune vasculitis, autoimmune neuropathy (Guillain-Barre syndrome). The following conditions are excluded: type I diabetes mellitus, hypothyroidism stabilized by hormone replacement therapy (including hypothyroidism caused by autoimmune thyroid disease), psoriasis or vitiligo that does not require systemic therapy;\n16. a combination of other malignancies within the last 5 years, except cured squamous skin cancer, basal cell carcinoma, non-basal invasive bladder cancer, and prostate/cervical/breast cancer in situ;\n17. hepatic metastases comprising more than 50% of the total liver volume;\n18. uncontrolled comorbidities, including but not limited to the following\n\n    1. Active HBV or HCV infection; (Note: HBV DNA and/or HCV RNA testing is required for subjects who are HBsAg positive and/or HCV antibody positive at Screening. Subjects who are negative for HBV DNA ≤500 IU/mL (or ≤2000 copies/mL) and/or HCV RNA are eligible for enrollment; HBsAg-positive subjects are required to have their HBV DNA monitored during the course of treatment);\n    2. Known history of HIV infection or AIDS;\n    3. Active syphilis;\n    4. Active tuberculosis;\n    5. Active or uncontrolled serious infection (≥ CTCAE grade 2 infection);\n    6. Medication-uncontrolled hypertension (defined as systolic blood pressure ≥140 mmHg and/or diastolic blood pressure ≥90 mmHg;), symptomatic cardiac insufficiency (NYHA II-IV), unstable angina pectoris or myocardial infarction within 6 months, or the presence of a prolonged QTc or risk of torsades de pointes (baseline QTc\\>470 msec (women)/450 msec (men) \\< Fridericia method correction\\>, hypokalemia, long QT syndrome, atrial fibrillation with heart rate \\>100 bpm at rest or severe cardiac valvular disease, history of medically significant arrhythmias);\n19. unrecovered toxicity from prior antitumor therapy to CTCAE ≤ Grade 1 (NCI-CTCAE v5.0), except for baldness (any grade allowed) and peripheral neuropathy (recovery to ≤ Grade 2 required);\n20. history of prior allogeneic bone marrow or organ transplantation;\n21. prior history of allergic reaction, hypersensitivity reaction, intolerance to investigational drugs or similar medications; prior significant allergy to drugs or foods or other substances (e.g., severe allergic reaction, immune-mediated hepatotoxicity, immune-mediated thrombocytopenia, or anemia)\n22. pregnant and/or lactating women;\n23. other conditions that, in the opinion of the investigator, would affect the safety of or adherence to treatment with the study medication, including alcoholism, drug abuse, other serious illnesses (including psychiatric illnesses) that require comorbid treatment, the presence of serious laboratory test abnormalities, moderate to large amounts of plasmapheresis such as pleural fluid, pericardial effusion, ascites, and other concomitant familial or social factors, which would affect the safety of the patient;",
+  "enrollment": 292,
+  "has_results": false,
+  "interventions": [
+   "Sequential AG and mFOLFOX in Combination With Serplulimab and Bevacizumab",
+   "AG chemotherapy"
+  ],
+  "last_update_posted": "2025-11-19",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07235930",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-07-01",
+  "sex": "ALL",
+  "sponsor": "Zhejiang Cancer Hospital",
+  "start_date": "2025-11-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

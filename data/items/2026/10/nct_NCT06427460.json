@@ -1,0 +1,93 @@
+{
+ "abstract": "In the case of large tumors or tumors closely adjacent to organs at risk, ablative doses offered by stereotactic body radiation therapy (SBRT) could not be delivered. Therefore, a technique that could provide high radiation doses to tumors without increasing of risks of severe adverse effects is required.\n\nRegarding the advanced stage tumor, especially tumors with large volumes or closely adjacent to organs at risk, patients are not candidates for surgical resection. Therefore, raduitherapy may be the optimal local therapy to ameliorate symptoms and be combined with systemic therapy, including chemotherapy, targeted therapy or immunotherapy. However, for those tumors, ablative doses could not be given due to large volumes and abutting to organs at risk.\n\nIn order to solve the problem, spatially fractionated radiation therapy (SFRT) is used. In details, it was performed based on grid or lattice, which creates several cylindrical high-radiation-dose areas in tumors. Nevertheless, the ablative dose areas are limited albeit with SFRT, which may not greatly improve tumor local. Hence, we create an inner and complete inner gross tumor volume that would be delivered ablative radiation doses, which is named as central-boost ablative radiation therapy (CBART). We aim to investigate the efficacy and safety of CBART in large tumors or tumors adjacent to organs at risk.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06427460",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06427460"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-05-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Changhai Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06427460"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic cancer",
+  "stereotactic body radiation therapy",
+  "inner gross tumor volume",
+  "central boost",
+  "ablative radiation dose"
+ ],
+ "title": "Central-boost Ablative Radiation Therapy for Solid Tumors (CBART)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zhuxiaofei_zxf@163.com",
+    "name": "Xiaofei Zhu",
+    "phone": "86-021-31162222"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged 18-75 years.\n* Pathologically confirmed lung, liver, pancreas or retroperitoneal malignant tumor.\n* Oligometastasis in the case of metastatic tumor\n* the shortest diameter ≥2cm or the distance from the tumor to the organs at risk less than 5mm\n* ECOG of 0 to 1 point\n* No abnormality in blood routine test, liver and kidney function test and coagulation test (White blood cell count ≥4.0×10\\^9/L, neutrophil count ≥2.0×10\\^9, hemoglobin level ≥100g/L, platelet count ≥100×10\\^9/L, ALT and AST level \\< 2.5 times the upper limit of normal, total bilirubin and creatinine level within the normal, international normalized ratio \\<2)\n\nExclusion Criteria:\n\n* History of radiotherapy for the lesion\n* History of tumor within 5 years\n* ECOG ≥2 points\n* Significant abnormality in blood routine test, liver and kidney function test and coagulation test\n* Active inflammatory bowel disease in the case of pancreas or retroperitoneal tumor\n* Gastrointestinal bleeding or perforation within 6 months in the case of pancreas or retroperitoneal tumor\n* Infections required antibiotics\n* Heart or respiratory insufficiency\n* Pregnant or breastfeeding women",
+  "enrollment": 67,
+  "has_results": false,
+  "interventions": [
+   "Central-boost ablative dose delivered by stereotactic body radiation therapy"
+  ],
+  "last_update_posted": "2024-05-23",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06427460",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-06-30",
+  "sex": "ALL",
+  "sponsor": "Changhai Hospital",
+  "start_date": "2024-05-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

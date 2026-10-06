@@ -1,0 +1,10 @@
+.ps-emergency {
+  display: block; text-align: center; font-weight: 700; padding: .6rem 1rem;
+  background: #c62828; color: #fff !important; text-decoration: none;
+}
+.ps-emergency:hover { background: #b71c1c; color: #fff; }
+.ps-sponsor { font-size: .85rem; opacity: .9; }
+.md-typeset h4 { margin-top: .6em; margin-bottom: .2em; }
+.md-typeset small { color: var(--md-default-fg-color--light); }
+.md-typeset code { font-size: .7rem; }
+.md-typeset table:not([class]) { font-size: .7rem; }

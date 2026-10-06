@@ -1,0 +1,89 @@
+{
+ "abstract": "This is a phase 2 study. All subjects are patients with locally advanced unresectable or metastatic pancreatic cancer harboring KRAS G12D mutation who have received at least one prior line of systemic therapy. The purpose of this study is to evaluate the anti-tumor efficacy of GFH375 plus GFH276 versus GFH375 monotherapy, and to assess the impact of GFH375 plus GFS202A versus GFH375 monotherapy on patient body weight.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07784374",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07784374"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-08-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Genfleet Therapeutics (Shanghai) Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07784374"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Phase II Study of GFH375 Combined With GFS202A or GFH276 Versus GFH375 in Patients With Previously Treated Locally Advanced Unresectable or Metastatic Pancreatic Cancer Harboring KRAS G12D Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "lzyi@genfleet.com",
+    "name": "Lizhi Yi +86 21 6882 1388",
+    "phone": "+86 21 6882 1388"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Able to provide written informed consent prior to any study-related procedures.\n* Male or female subjects aged between 18 and 80 years (inclusive) at the time of informed consent.\n* Histologically or cytologically confirmed pancreatic adenocarcinoma.\n* Estimated life expectancy ≥ 3 months as judged by the investigator.\n* Has received at least 1 prior line of systemic anti-tumor therapy.\n* Has at least one measurable lesion per RECIST version 1.1.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Other malignancy that has progressed or required treatment within 3 years prior to study entry.\n* Active central nervous system (CNS) metastases.\n* Prior treatment with KRAS G12D-specific or pan-RAS/KRAS targeted agents.\n* Clinically significant severe cardiovascular disease.\n* Stroke or other severe cerebrovascular events within 6 months prior to randomization.\n* Significant acute or chronic infectious disease.\n* Severe psychiatric disorder, history of drug abuse, or significant alcohol abuse.\n* Pregnant or lactating female subjects.\n* Other conditions that, in the investigator's opinion, make the subject unsuitable for study participation.",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "GFH375",
+   "GFH276",
+   "GFS202A"
+  ],
+  "last_update_posted": "2026-10-02",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07784374",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-08-31",
+  "sex": "ALL",
+  "sponsor": "Genfleet Therapeutics (Shanghai) Inc.",
+  "start_date": "2026-08-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

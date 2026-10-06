@@ -1,0 +1,89 @@
+{
+ "abstract": "This is a single-center, open-label, first-in-human, fixed-dose study in patients with pancreatic cancer.\n\nA fixed-dose study will evaluate the safety, tolerability and efficacy of CAR-NK cells (CL-NK-003) in patients with locally advanced, metastatic, or recurrent pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07425483",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07425483"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-02-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Changhai Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07425483"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic cancer",
+  "CAR-NK"
+ ],
+ "title": "CAR-NK Cells (CL-NK-003) in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "caoxt@immunol.org",
+    "name": "Xuetao Cao",
+    "phone": "+86-13124828854"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Aged 18-75 years;2. Locally advanced, metastatic, or recurrent pancreatic cancer, with immunohistochemical detection of eGR1 (membrane positive tumor cell rate \\>40% and expression intensity ≥2+), who have failed, been intolerant to or reject standard treatment;3. At least 1 measurable lesion according to RECIST 1.1;4. Have not received anti-tumor treatment for at least 4 weeks;5. ECOG performance status of 0-2;6. Estimated life expectancy more than 12 weeks;7. Hematology: neutrophils ≥ 1.5×10\\^9/L, lymphocytes ≥ 0.8×10\\^9/L, hemoglobin ≥ 100 g/L, and platelets ≥ 75 × 10\\^9/L;8. Blood biochemistry: total bilirubin ≤ 2×ULN, alanine aminotransferase ≤ 3×ULN, aspartate aminotransferase ≤ 3×ULN, and creatinine clearance ≥ LLN (Cockcroft-Gault formula);9. Volunteer to participate in this clinical study and willing to sign written informed consent.\n\nExclusion Criteria:\n\n* 1\\. Evidence of central nervous system involvement;2. Have received adoptive cell therapy;3. Patients with any uncontrolled active infection, including but not limited to: HBV, HCV, HIV, or treponema pallidum serology positive;4. Vaccinated with a live attenuated vaccine within 3 months;5. History of immunodeficiency;6. Active autoimmune disease;7. Regular use of systemic corticosteroids within 2 weeks prior to screening at a dose exceeding prednisone 10 mg/day (or equivalent) on any day; 8. Have severe conditions, including but not limited to: (1) severe respiratory diseases; (2) severe cardiovascular diseases (previous history of CABG/PCI; myocardial infarction/unstable angina pectoris, congestive heart failure of NYHA III-IV, left ventricular ejection fraction \\< 50%, or poorly controlled hypertension within 6 months; QTc interval \\> 480ms, long or short QT syndrome; previous history of ventrical arrhythmia, or ventrical arrhythmia under anti-arrhythmic drugs/ICD); (3) poorly controlled diabetes and other metabolic diseases; (4) severe gastrointestinal diseases (severe gastrointestinal bleeding, severe diarrhea of CTCAE ≥ 2, or severe gastrointestinal obstruction needing intervention);9. Possible severe adverse events, allergy or other contraindications to drugs or its component under study;10. Pregnant or lactating women;11. History of neurological or psychological disorders;12. Not suitable to participate this clinical study judged by the investigator.",
+  "enrollment": 9,
+  "has_results": false,
+  "interventions": [
+   "CL-NK-003"
+  ],
+  "last_update_posted": "2026-02-23",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07425483",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12",
+  "sex": "ALL",
+  "sponsor": "Changhai Hospital",
+  "start_date": "2026-02-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

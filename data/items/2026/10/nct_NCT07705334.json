@@ -1,0 +1,105 @@
+{
+ "abstract": "This is a Phase 1, first-in-human (FIH), open-label, multicenter study designed to evaluate the safety, tolerability, PK, and preliminary anti-tumor activity of SHY-ONC6 in participants with advanced or metastatic solid tumors who have progressed on or are intolerant to standard therapies. The study will consist of 2 parts: a dose escalation part (Phase 1a) and a dose expansion part (Phase 1b).\n\nThis is a Phase 1, first-in-human (FIH), open-label, multicenter study designed to evaluate the safety, tolerability, PK, and preliminary anti-tumor activity of SHY-ONC6 in participants with advanced or metastatic solid tumors who have progressed on or are intolerant to standard therapies. The study will consist of 2 parts: a dose escalation part (Phase 1a) and a dose expansion part (Phase 1b).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07705334",
+ "importance": 0.69,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07705334"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-07-15",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "SHY Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07705334"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Proteasome Inhibitor",
+  "Solid Tumors"
+ ],
+ "title": "A Study of SHY-ONC6, a Novel Proteasome Inhibitor, in Adults With Advanced or Metastatic Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced or Metastatic Solid Tumors",
+   "Triple Negative Breast Cancer (TNBC)",
+   "HR+ Breast Cancer",
+   "Colon Cancer",
+   "Gastric Cancer",
+   "Hepatecellular Carcinoma",
+   "NSCLC (Advanced Non-small Cell Lung Cancer)",
+   "Mesothelioma",
+   "Pancreatic Carcinoma Metastatic",
+   "Hormone Refractory Prostate Cancer",
+   "Soft Tissue Sarcomas"
+  ],
+  "contacts": [
+   {
+    "email": "shyonc6@shytherapeutics.com",
+    "name": "Medical Monitor",
+    "phone": "914-543-6110"
+   },
+   {
+    "email": "shyonc6@shytherapeutics.com",
+    "name": "Clinical Operations",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Male or female ≥18 years of age.\n* Life expectancy \\>3 months.\n* ECOG performance status 0-1.\n* Histologically/cytologically confirmed advanced or metastatic solid tumors that have progressed on or are intolerant/unsuitable for standard therapies. Eligible tumor types: TNBC, HR+ breast cancer, colon cancer, gastric cancer, HCC, NSCLC (adeno and squamous), mesothelioma, pancreatic cancer, HRPC, soft tissue sarcoma; other tumor types after Medical Monitor discussion. Stable CNS metastases ≥4 weeks post-radiotherapy and off steroids ≥14 days are permitted.\n* ≥1 measurable lesion per RECIST v1.1 (prostate cancer with bone-only disease and elevated PSA assessed by PCWG3).\n* Accessible tumor for biopsy\n* Adequate organ/bone marrow function.\n* Willingness and ability to provide informed consent.\n* Negative serum pregnancy test and use of effective contraception through 90 days after last dose for women of childbearing potential.\n* Male participants must use barrier contraception or abstinence and not donate sperm through 90 days after last dose.\n\nExclusion Criteria:\n\n* High-risk cardiovascular disease.\n* Concurrent anti-cancer treatment.\n* Active infection requiring systemic treatment within 2 weeks pre-dose.\n* History of another malignancy (with standard exceptions for in situ disease, non-melanoma skin cancers, and remission ≥2 years).\n* Active HBV (HBV-DNA \\>ULN), HCV (HCV-RNA \\>ULN), or HIV (well-controlled HIV with CD4 ≥350 cells/µL and undetectable viral load permitted); AIDS-defining opportunistic infection within 12 months.\n* Compromised pulmonary function within 6 months pre-dose .\n* Pregnancy or breastfeeding.\n* Recent radiotherapy, systemic anti-tumor therapy, other investigational therapy without appropriate washout.\n* Major surgery ≤4 weeks pre-dose.\n* Unable to swallow tablets or conditions affecting GI absorption.\n* Any medical or psychiatric disorders affecting compliance and/or interpretation of study results.\n* Persistent toxicities from prior anti-cancer therapy (exceptions apply)\n* Clinically significant corneal disease.\n* Unable to comply with prohibited concomitant medication restrictions.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "SHY-ONC6"
+  ],
+  "last_update_posted": "2026-09-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT07705334",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-05-15",
+  "sex": "ALL",
+  "sponsor": "SHY Therapeutics",
+  "start_date": "2026-06-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

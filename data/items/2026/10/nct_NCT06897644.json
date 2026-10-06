@@ -1,0 +1,103 @@
+{
+ "abstract": "PANThEON is a randomized, open-label, multicenter phase III trial aimed at comparing the switch maintenance with gemcitabine plus nab-paclitaxel (ARM B) versus mFOLFIRINOX continuation (ARM A) in terms of overall survival (OS) in patients with unresectable LAD or mPDAC without disease progression following 3 months of induction mFOLFIRINOX triplet chemotherapy.\n\nPANThEON is a randomized, open-label, multicenter phase III trial of switch maintenance with gemcitabine plus nab-paclitaxel (ARM B) versus mFOLFIRINOX continuation (ARM A) in patients with unresectable LAD or mPDAC without disease progression following 3 months of induction mFOLFIRINOX triplet chemotherapy.\n\nThe induction chemotherapy regimen will be mFOLFIRINOX as per standard of care. Treatment must be continued for up to a maximum of 14 weeks, corresponding to \\~ 6 bi-weekly cycles. A minimum of 4 treatment cycles administered is necessary for the patient to be evaluable for randomization.\n\nRadiological tumor assessment will be performed before the start and after completion of induction chemotherapy. Patients with complete/partial response or stable disease (CR/PR/SD) or without evidence of progressive disease (PD) in case of non-measurable disease will be randomized in a 1:1 ratio.\n\nStratification factors will be ECOG Performance status (PS, 0 vs 1) and disease extension (LAD vs metastatic with presence of liver metastases vs metastatic without presence of liver metastases).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06897644",
+ "importance": 0.94,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06897644"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-03-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gruppo Oncologico del Nord-Ovest",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06897644"
+ },
+ "summary_ko": "PANThEON is a randomized, open-label, multicenter phase III trial aimed at comparing the switch maintenance with gemcitabine plus nab-paclitaxel (ARM B) versus mFOLFIRINOX continuation (ARM A) in terms of overall survival (OS) in patients with unresectable LAD or mPDAC without disease progression following 3 months of induction mFOLFIRINOX triplet chemotherapy. PANThEON is a randomized, open-label, multicenter phase III trial of switch maintenance with gemcitabine plus nab-paclitaxel (ARM B) ver…",
+ "summary_source": "excerpt",
+ "tags": [
+  "first line",
+  "mFOLFIRINOX",
+  "chemotherapy",
+  "pancreas",
+  "Gemcitabine with Nab-Paclitaxel",
+  "switch maintenance",
+  "pancreatic cancer"
+ ],
+ "title": "Gemcitabine Plus Nab-paclitaxel as Switch Maintenance Versus Continuation of Modified FOLFIRINOX as 1st Line Chemotherapy in Patients With Advanced Pancreatic Cancer.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma Advanced or Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "monica.niger@istitutotumori.mi.it",
+    "name": "Monica Niger, MD",
+    "phone": "+3902 2390 2919"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patient able and willing to provide written informed consent and to comply with the study protocol.\n* Subjects must be ≥18 years.\n* Histologically or cytologically confirmed unresectable locally advanced or metastatic pancreatic adenocarcinoma eligible for treatment in the first-line setting.\n* Presence of measurable or non-measurable disease assessed by CT scan and/or MRI according to RECIST 1.1. Note: any lesion which has been subjected to percutaneous therapies or radiotherapy should not be considered measurable, unless the lesion has clearly progressed since the procedure.\n* Availability of archival tumor sample (primary tumor or metastatic site) for biomarker analysis.\n* ECOG performance status of 0-1 (if age \\< 70 years). If age ≥70 years, ECOG PS must be 0.\n* Estimated life expectancy \\> 3 months.\n* Adequate baseline hematologic function characterized by the following at screening:\n\n  * Absolute Neutrophil Count (ANC) ≥ 1.5 × 109/L.\n  * Platelets count ≥ 100 × 109/L.\n  * Hemoglobin ≥ 9 g/dl. Note: prior transfusions for patients with low hemoglobin are allowed.\n* Adequate liver function characterized by the following at screening:\n\n  * Serum total bilirubin ≤ 1.5 × ULN and \\< 2 mg/dL. Note: Subjects with Serum total bilirubin ≥ 1.5 × ULN and conjugated bilirubin ≤ ULN or \\< 40% of total bilirubin are allowed.\n  * Serum transaminases (AST and/or ALT) \\< 3 x ULN (\\< 5 x ULN in presence of liver metastasis). In participants with elevated AST or ALT, the values must be stable for at least 2 week and with no evidence of biliary obstruction by imaging.\n* Adequate renal function, i.e. serum creatinine ≤ 1.5 x institutional ULN and calculated by Cockroft-Gault formula or directly measured creatinine clearance ≥ 50 mL/min.\n* Adequate coagulation functions as defined by International Normalized Ratio (INR) ≤ 1.5, and a partial thromboplastin time (PTT) ≤ 5 seconds above the ULN (unless receiving anticoagulation therapy).\n* No presence of complete dihydropyrimidine dehydrogenase (DPYD) enzyme deficiency (homozygous of the following DPYD polymorphisms: c1679GG, c1905+1AA, c2846TT) with DPYD gene testing mandatory at screening as per national guidelines. UDP-glucuronosyltransferase 1A1 (UGT1A1) testing is not mandatory. However, if UGT test is routinely performed in the participating centers, enrolment of patients carriers of variants of DPYD and homozygous variant UGT1A1 \\[7/7\\] has to be discussed with the Sponsor.\n* Women of childbearing potential must agree to remain abstinent (refrain from sexual intercourse) or use highly effective contraceptive methods, as defined in APPENDIX V of the full protocol, during the treatment period and for at least 7 months after the last administration of study treatments.\n* Negative serum pregnancy test within 7 days of starting study treatment in pre-menopausal women and women \\<1 year after the onset of menopause.\n* Men must agree to remain abstinent (refrain from sexual intercourse) or use highly effective contraceptive methods during the treatment period and for at least 7 months after the last administration of study treatments.\n* Participants must agree not to donate eggs/sperm for future use for the purposes of assisted reproduction during the study and for a period of 7 months after receiving the last dose of study treatment. Female and male participants should consider preservation of eggs/sperm prior to study treatment as anti-cancer treatments may impair fertility.\n\nExclusion Criteria:\n\n* Pancreatic neuroendocrine, acinar, squamous/adenosquamous, or islet tumors.\n* Previous or concurrent systemic (e.g. cytotoxic or targeted or other experimental drugs) therapy for advanced pancreatic adenocarcinoma.\n\nNote: previous (neo)adjuvant or perioperative anti-cancer therapy for non-metastatic, resectable or borderline resectable PDAC, associated with surgery on the primary tumor, is allowed if \\> 9 months have elapsed from the last dose of therapy and documented disease progression or relapse.\n\n* Major surgery or radiation therapy performed within \\<4 weeks before randomization. Palliative radiotherapy to bone lesions is allowed if performed \\> 2 weeks prior to start of study treatment. Patients must have recovered from an effect from major surgery.\n* Known allergy or hypersensitivity to study drugs and/or their excipients.\n* Unresolved toxicity ≥ CTCAE grade 2 attributed to any prior therapies (e.g. grade ≥2 peripheral neurotoxicity), excluding anemia or alopecia.\n* Presence of symptomatic central nervous system (CNS) metastases, or CNS metastases that requires directed therapy (such as radiotherapy or surgery) or increasing doses of corticosteroids 2 weeks prior to study entry. Participants with treated symptomatic brain metastases should be neurologically stable for 4 weeks post-treatment and prior to study entry.\n* Any known additional malignancy that is progressing or requires active treatment, or history of other malignancy within 2 years prior to study entry except for curatively treated basal cell carcinoma of the skin, in situ carcinoma of the cervix, and prostate cancer.\n* Know active uncontrolled hepatitis B or hepatitis C. Patients with a past or resolved HBV infection are eligible. Patients with chronic disease controlled by antiviral therapy or requiring prophylactic treatment are eligible.\n* Chronic or current active infectious disease requiring systemic antibiotics or antifungal treatment within 2 weeks prior to enrollment.\n* Known uncontrolled HIV infection. HIV-positive patients are eligible if their CD4+ cell count amounts to 300 cells per μL or more; HIV viral load must be undetectable per standard of care assay, and patients must be compliant with antiretroviral treatment.\n* Pregnant or breast-feeding patient, or patient planning to become pregnant within 7 months after the end of treatment.\n* Severe or uncontrolled cardiovascular disease (congestive heart failure NYHA \\> II, unstable angina pectoris, history of myocardial infarction within 3 months before study entry, significant arrhythmia).\n* Presence of psychiatric disorder precluding understanding of information of trial related topics and giving informed consent.\n* Any serious underlying medical conditions (judged by the investigator), that could impair the ability of the patient to participate in the trial.",
+  "enrollment": 340,
+  "has_results": false,
+  "interventions": [
+   "Oxaliplatin",
+   "Irinotecan (CPT-11)",
+   "Leucovorin",
+   "5-FU (5-fluorouracil)",
+   "gemcitabine",
+   "Nab-paclitaxel"
+  ],
+  "last_update_posted": "2026-09-09",
+  "location_countries": [
+   "Italy"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 28,
+  "nct_id": "NCT06897644",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-01-01",
+  "sex": "ALL",
+  "sponsor": "Gruppo Oncologico del Nord-Ovest",
+  "start_date": "2025-03-27",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

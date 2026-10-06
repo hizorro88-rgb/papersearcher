@@ -1,0 +1,105 @@
+{
+ "abstract": "Surgical resection is the only potentially curative treatment for patients with pancreatic cancer with the aim of curative R0 resection and related improvement of survival. As a standard, surgery is usually followed by adjuvant therapy that improves survival but neoadjuvant therapy (NAT) is a rapidly emerging concept that needs to be explored and validated in terms of therapeutic options in borderline resectable pancreatic tumors. In this setting, preoperative FFX seems to be feasible and can be prolonged by radiation therapy. However, the exact and best therapeutic sequence is not yet known and the additional role of adding isotoxic high-dose stereotactic body radiotherapy (iHD-SBRT) to chemotherapy requires validation in randomised trials. We propose to evaluate the impact and efficacy of adding iHD-SBRT to preoperative neoadjuvant mFFX or Gem-NabP in patients with borderline resectable pancreatic adenocarcinoma.\n\nSTEREOPAC is an multicenter, academic, prospective, randomised comparative, interventional study.\n\nPatients receive 4 cycles of mFOLFIRINOX (or Gem-Nab-P)\\*. A full restaging (clinical, morphologic imaging, vascular involvement, biologics, CA 19.9) is performed. Non-progressive patients will be randomised (1:1) to\n\nARM A for receiving 4 additional cycles of chemo followed by surgery.\n\nor to\n\nARM B for receiving 5th and 6th cycles of chemo then iHD-SBRT followed by a 7th (and optional 8th cycle) followed by surgery.\n\n\\*: in case of CI or intolerance to mFFX, Gem-Nab-P regimen can be chosen or shifted to for 6 doses, then restaging, and then 3 doses followed by SBRT or 6 doses and immediate surgery)\n\nAdjuvant chemotherapy administration is indicated unless the patient's condition precludes it.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05083247",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05083247"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2021-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Erasme University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05083247"
+ },
+ "summary_ko": "Surgical resection is the only potentially curative treatment for patients with pancreatic cancer with the aim of curative R0 resection and related improvement of survival. As a standard, surgery is usually followed by adjuvant therapy that improves survival but neoadjuvant therapy (NAT) is a rapidly emerging concept that needs to be explored and validated in terms of therapeutic options in borderline resectable pancreatic tumors.",
+ "summary_source": "excerpt",
+ "tags": [
+  "borderline resectable pancreatic cancer",
+  "neoadjuvant therapy",
+  "stereotactic body radiation therapy",
+  "chemotherapy"
+ ],
+ "title": "Preoperative mFOLFIRINOX (or Gem-Nab-P) +/- Isotoxic High-dose SBRT for Borderline Resectable Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Neoplasm",
+   "Pancreatic Adenocarcinoma",
+   "Borderline Resectable Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "jl.vanlaethem@erasme.ulb.ac.be",
+    "name": "Jean-Luc Van Laethem, MD PhD",
+    "phone": "003225553714"
+   },
+   {
+    "email": "mia.persoons@erasme.ulb.ac.be",
+    "name": "Mia Persoons",
+    "phone": "003225553016"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion criteria:\n\n* Cytologic or histologic proof of adenocarcinoma of the pancreatic head or uncinated process or body or tail. Diagnosis should be verified by local pathologist\n* cTNM stage: T1-4N0-2M0\n* Confirmation of clinical and radiographic stage as borderline resectable (CT scan and/or MRI scan with contrast according to the NCCN criteria) by a multidisciplinary board, composed by a dedicated oncological surgeon, radiologist and GI oncologist)\n* Age \\> 18 years old\n* No prior chemotherapy or radiation for pancreatic cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* No grade ≥ 2 neuropathy\n* Laboratory parameters as follows:\n* Absolute neutrophil count (ANC) ≥ 1,500/mm³\n* Platelet count ≥ 100,000/mm³\n* Hemoglobin ≥ 9 g/dL\n* Creatinine ≤ 1.5 x upper limit of normal (ULN) or estimated GFR \\>45 mL/min\n* Bilirubin ≤ 1.5 x ULN, including after adequate biliary stenting with metal stent (ideally 4 cm length)\n* Aspartate aminotransferase (AST) / alanine aminotransferase (ALT) ≤ 2.5x ULN\n* CA 19.9 \\< 2500 kU/l (baseline, prior to any therapy and absence of cholestasis)\n\nExclusion Criteria:\n\n* Evidence of extrapancreatic disease on diagnostic imaging (CT, MRI or PET scan), histologically proven or at laparoscopy, including distal nodal involvement beyond the peripancreatic tissues (including non-regional lymph node involvement, ie: proven involvement of precaval lumbar lymphadenopathy(ies) and/or distant metastases\n* Locally advanced disease as defined by the NCCN criteria (version 2.2021) ie \\> 180° arterial encasement (SMA and CA) unreconstructible venous encasement (SMV/PV) due to tumor involvement or occlusion of a long segment.\n* CA 19.9 \\> 2500 kU/l (baseline and absence of cholestasis)\n* Contraindication of surgery (general)\n* Contraindications to receive FFX or gemcitabine-nab-Paclitaxel\n* History of radiotherapy of the upper abdomen\n* Prior treatment with oxaliplatin, irinotecan, fluoruouracil or capecitabin\n* Patient \\< 18 years old\n* Major surgery within 4 weeks of study entry\n* Uncontrolled pre-existing disease including, but not limited to: active infection, symptomatic congestive heart failure, unstable angina, social / psychiatric disorder that would limit compliance to treatment and good understanding of the informed consent form\n* Other concurrent anticancer therapies\n* Existence of another active neoplasia other than basal cell carcinoma of the skin, cervical carcinoma in situ or non-metastatic prostate cancer. Patients who have a history of neoplasia must have been in remission for more than 5 years to be included in the protocol\n* Pregnant or breastfeeding women; for women of childbearing potential only, a negative pregnancy test done \\< 7 days prior to registration is required. Using of reliable contraception for at least 1 month before treatment is mandatory\n* Chronic concomitant treatment with strong inhibitors of cytochrome p450, family 3, subfamily a, polypeptide 4 gene (CYP3A4) is not allowed on this study; patients on strong CYP3A4 inhibitors must discontinue the drug for 14 days prior to registration on the study\n\nAdditional exclusion criteria before randomisation:\n\n* Progressive disease (RECIST or PETCT, including non locoregional nodal involvement and increase of CA 19.9 by 20%) after receiving 4 cycles of FFX (or G/NP), including shift chemotherapy in case of early progression.\n* CA 19.9 \\> 1000 kU/l after neoadjuvant therapy.\n* Presence of unmanageable toxicity during the first part of neoadjuvant chemotherapy (first 4 cycles or 6 doses of FFX or G/NP, respectively.\n* Pancreatic tumour \\> 7.0 cm in greatest axial dimension at the time of randomization\n* Massive invasion of the stomach or intestines and/or direct intestinal invasion of the mucosae visible at ultrasoundendoscopy\n* Active gastric or duodenal ulcer disease at the time of randomization. Tolerated in case of antecedent without active ulcer (confirmation by endoscopy before iHD-SBRT)",
+  "enrollment": 256,
+  "has_results": false,
+  "interventions": [
+   "mFOLFIRINOX or Gemcitabine nab-paclitaxel",
+   "Isotoxic High-Dose (iHD)-SBRT",
+   "Surgery"
+  ],
+  "last_update_posted": "2023-05-23",
+  "location_countries": [
+   "Belgium"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 10,
+  "nct_id": "NCT05083247",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "Erasme University Hospital",
+  "start_date": "2023-03-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

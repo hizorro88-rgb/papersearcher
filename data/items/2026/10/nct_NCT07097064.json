@@ -1,0 +1,93 @@
+{
+ "abstract": "Pancreatic cancer is on the rise, and is set to become the 2nd leading cause of cancer deaths by 2030. Its prognosis is very poor, with a 5-year survival rate of just 5.5%. Curative surgery with chemotherapy improves survival, but only 20% of patients are eligible. For locally advanced forms, radiotherapy, notably in the form of MRI-guided adaptive stereotactic radiotherapy (SMART), is showing promising results in terms of survival and local control, but still requires prospective validation.\n\nIn 2016, pancreatic cancer became the 3rd leading cause of cancer death worldwide, and could be the 2nd by 2030. Its prognosis remains very unfavorable, with a 5-year overall survival rate of 5.5%, all stages combined. In France, incidence is on the rise, with 14,100 new cases and 11,400 deaths in 2018. The only therapeutic strategy that has shown a significant improvement in survival is curative surgery followed by adjuvant chemotherapy, but only 20% of patients are eligible. The majority of cases are diagnosed at an advanced or unresectable stage.\n\nFor locally advanced cancers (LACC), management is not standardized. Two induction chemotherapy regimens have been validated: FOLFIRINOX and GEMBRAX. The role of radiochemotherapy remains debated. The LAP07 study showed no significant benefit of radiochemotherapy on overall survival, although it did improve progression-free survival and locoregional control.\n\nNew techniques such as MRI-guided adaptive stereotactic radiotherapy (SMART) enable more targeted and intense delivery of radiation dose, while protecting organs at risk. Retrospective studies have shown a significant improvement in local control (up to 98% at 1 year) and overall survival (up to 23 months) with this method, compared with conventional radiotherapy. However, prospective studies are still needed to confirm the value of SMART in the management of locally advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07097064",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07097064"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-07-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07097064"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic Adenocarcinoma",
+  "adaptative radiotherapy"
+ ],
+ "title": "Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "drci-soumissions@icm.unicancer.fr",
+    "name": "Aurore MOUSSION",
+    "phone": "+33467613102"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically proven pancreatic adenocarcinoma ;\n* Age ≥ 18 years ;\n* WHO score 0-1 ;\n* Locally advanced according to NCCN 1.2015 recommendations;\n* Non-metastatic after TAP scan and MRI of the liver ;\n* CA 19.9 \\< 1000 IU/mL ;\n* Completion of at least 4 cycles of induction chemotherapy (Folfirinox and/or Gemzar-Abraxane) with a maximum of 8 courses ;\n* Women of childbearing potential must have a pregnancy blood test within a maximum of 7 days before starting the study treatment. A negative result must be documented before study treatment is started. Women without reproductive potential are postmenopausal women or women who have undergone permanent sterilisation (e.g. tubal occlusion, hysterectomy, bilateral salpingectomy) ;\n* Effective contraception for women of childbearing age ;\n* Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests and other study procedures ;\n* Patient has given informed, written and express consent ;\n* Patient affiliated to a French health insurance scheme.\n\nExclusion Criteria:\n\n* Other concomitant cancer or history of cancer, with the exception of treated cervical cancer in situ, basal or squamous cell skin carcinoma, superficial bladder tumour (Ta, Tis, and T1) or a tumour with a good prognosis treated curatively without chemotherapy and without evidence of disease in the 3 years prior to inclusion ;\n* History of radiotherapy with a foreseeable overlap with the radiotherapy treatment under study (history of abdominal irradiation) ;\n* Contraindication to MRI and MRI-guided radiotherapy (claustrophobia, presence of metallic elements etc...) ;\n* History of chronic inflammatory disease of the colon or rectum ;\n* Women who are pregnant, parturient or breastfeeding ;\n* Any other serious concomitant and unbalanced disease or disorder that may interfere with the patient's participation in the study and his/her safety during the study (e.g. severe hepatic, renal, pulmonary, metabolic, or psychiatric disorders) ;\n* Legal incapacity (patient under curatorship or guardianship) ;\n* History of severe and unexpected reactions to treatment containing a fluoropyrimidine ;\n* Hypersensitivity to capecitabine, to used excipients or to fluorouracil ;\n* Known complete deficiency of dihydropyrimidine dehydrogenase (DPD) ;\n* In patients with severe leukopenia, neutropenia or thrombocytopenia ;\n* In patients with severe hepatic insufficiency ;\n* Patients with severe renal insufficiency (creatinine clearance less than 30 mL/min) ;\n* Recent or concomitant treatment with brivudine.",
+  "enrollment": 160,
+  "has_results": false,
+  "interventions": [
+   "standard radiotherapy with chemotherapy",
+   "MRI-guided adaptive stereotactic radiotherapy (SMART)"
+  ],
+  "last_update_posted": "2025-07-31",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 17,
+  "nct_id": "NCT07097064",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-09",
+  "sex": "ALL",
+  "sponsor": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "start_date": "2025-09",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,87 @@
+{
+ "abstract": "This is a multicenter, open-label, phase Ⅱa study to explore the safety, tolerability, and preliminary efficacy of RNK08954 in metastatic pancreatic ductal adenocarcinoma harboring a KRAS G12D mutation.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07303465",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07303465"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-12-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ranok Therapeutics (Hangzhou) Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07303465"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "To Evaluate the Safety and Efficacy of RNK08954 in Patients With Metastatic Pancreatic Ductal Adenocarcinoma.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "KRAS G12D Mutations",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "xinwu@ranoktherapeutics.com",
+    "name": "Xin Wu",
+    "phone": "+86 0571 8663 0936"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* The subjects voluntarily joined the study and signed the informed consent, with good compliance and follow-up.\n* Male and female subjects aged 18-75 years (including 18 and 75 years).\n* Pancreatic ductal adenocarcinoma confirmed by pathology (histology) or cytology.\n* At the time of study enrollment, according to the solid tumor efficacy evaluation criteria (RECIST1.1), imaging diagnosis had at least one measurable lesion .\n* Presence of a KRAS G12D mutation.\n* Physical condition score ECOG score 0-1 points.\n* Expected survival ≥ 12 weeks.\n* Have adequate hematologic and end-organ function, with laboratory test results within required parameters within 7 days prior to the first dose.\n* Fertile female subjects and male subjects whose partners are women of reproductive age must agree to comply with the contraceptive requirement from the time of signing the informed consent until 6 months after the final administration of the trial drug.Fertile female subjects must undergo a serum pregnancy test within 7 days before the first dose, and the result is negative; And must be non-lactating.\n\nExclusion Criteria:\n\n* Diagnosed with other pathological types of pancreatic tumors;\n* Presence of uncontrolled symptomatic central nervous system metastases; including leptomeningeal metastasis, spinal cord metastasis, or brainstem metastasis.\n* Presence of symptomatic, moderate or greater fluid accumulation in serous cavities (e.g., pleural effusion, ascites, pericardial effusion) which either necessitates therapeutic intervention or is judged by the investigator to make the patient ineligible.\n* Clinical condition with an acute and significant decline, including, but not limited to, a decrease in ECOG performance status to \\>1 within 72 hours prior to the baseline visit and initiation of study treatment, a weight loss of ≥10% during the screening period, or a BMI \\<18.0 kg/m²\n* Except for certain circumstances, a history of malignant tumors other than the inclusion diagnosis within 2 years prior to the first administration of the drug;\n* History of known severe or uncontrolled cardiovascular or cerebrovascular disease that requires treatment.\n* The patient had previously used KRAS inhibitors or pan-KRAS inhibitors therapy.\n* Received systemic anti-tumor therapy prior to the first dose, or received Chinese herbal preparations with clear anti-pancreatic tumor indications within 2 weeks before the first dose.\n* Having received other investigational drugs or therapies not yet approved for marketing prior to the first dose, with the interval from the last administration or treatment being less than 4 weeks or 5 half-lives (whichever is shorter).\n* Having undergone major surgery or experienced significant trauma within 4 weeks prior to the first dose, or requiring elective surgery during the trial period.\n* The presence of severe non-healing wounds, ulcers, fractures, etc., within 4 weeks prior to the first dose.\n* Severe infection occurred within 4 weeks prior to the first dose, including but not limited to hospitalization due to infectious complications, bacteremia, or severe pneumonia; presence of systemic active infection within 2 weeks prior to the first dose requiring systemic anti-infective therapy.\n* Presence of active tuberculosis infection at the time of screening.\n* Positive for hepatitis B surface antigen (HBsAg) at screening with hepatitis B virus (HBV) deoxyribonucleic acid (DNA) ≥ 2000 IU/mL or 10⁴ copies/mL (however, subjects can be enrolled if their HBV-DNA is \\<2000 IU/mL or 10⁴ copies/mL after antiviral therapy).\n* Positive for hepatitis C antibody (HCV-Ab) and positive for hepatitis C virus (HCV) ribonucleic acid (RNA) at screening.\n* Known infection with human immunodeficiency virus (HIV) or active Treponema pallidum, except under certain circumstances.\n* Presence of any toxicity from previous antitumor therapies that has not recovered to Grade ≤1.\n* Other situations that the researchers believe should not be included.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "RNK08954"
+  ],
+  "last_update_posted": "2025-12-24",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07303465",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-11-30",
+  "sex": "ALL",
+  "sponsor": "Ranok Therapeutics (Hangzhou) Co., Ltd.",
+  "start_date": "2025-10-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

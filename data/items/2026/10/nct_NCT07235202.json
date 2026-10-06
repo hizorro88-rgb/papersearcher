@@ -1,0 +1,96 @@
+{
+ "abstract": "This Phase Ib/IIa study is evaluating the safety, tolerability, pharmacokinetics, and preliminary efficacy of MR001 Combined with Chemotherapy in patients with locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) who have progressed after first-line therapy.\n\nThis is an open-label, dose-escalation and dose-expansion Phase Ib/IIa study to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of MR001 in combination with standard chemotherapy regimens in patients with locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) who have progressed after first-line therapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07235202",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07235202"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shenzhen Majory Biotechnology Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07235202"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "MR001",
+  "PDAC",
+  "CD4",
+  "TGF-β1"
+ ],
+ "title": "A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC) After First-line Therapy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "xueqs@majory.com.cn",
+    "name": "Qingshan Xue",
+    "phone": "+86 13332895357"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced or metastatic PDAC, progressed after only one prior line of systemic therapy.\n* At least one measurable lesion per RECIST v1.1.\n* ECOG Performance Status of 0-1.\n* Life expectancy \\>3 months.\n* Adequate organ and marrow function as defined by laboratory parameters.\n* Voluntarily sign the informed consent form.\n\nExclusion Criteria:\n\n* Known hypersensitivity to MR001 or similar monoclonal antibodies.\n* Requirement for systemic immunosuppressive therapy within 14 days before first dosing.\n* Uncontrolled active infections or concurrent malignancies.\n* Not adequately controlled active brain metastases or leptomeningeal metastasis.\n* Clinically significant cardiovascular, renal, or hepatic disorders.\n* Pregnant or breastfeeding women.\n* Any other circumstances which the investigator considers may increase risks to subjects or interfere with the results of the trial.",
+  "enrollment": 45,
+  "has_results": false,
+  "interventions": [
+   "MR001",
+   "Irinotecan Liposome Injection combined with 5-FU/LV",
+   "Nab-paclitaxel",
+   "Gemcitabine (GEM)"
+  ],
+  "last_update_posted": "2026-05-26",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT07235202",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-06-22",
+  "sex": "ALL",
+  "sponsor": "Shenzhen Majory Biotechnology Co., Ltd.",
+  "start_date": "2025-12-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

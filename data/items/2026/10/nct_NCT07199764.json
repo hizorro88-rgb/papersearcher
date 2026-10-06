@@ -1,0 +1,88 @@
+{
+ "abstract": "Phase II, open-label, single-arm study of CD40/Dectin-1 immunotherapy as maintenance treatment in patients with unresectable pancreatic ductal adenocarcinoma (PDA) who have not progressed following 4-8 months of first line (1L) chemotherapy.\n\nPhase II, open-label, single-arm study of CD40/Dectin-1 immunotherapy as maintenance treatment in patients with unresectable pancreatic ductal adenocarcinoma (PDA) who have not progressed following 4-8 months of first line (1L) chemotherapy.\n\nThe protocol incorporates an initial safety run-in phase evaluating dose-limiting (DLTs) over the first 21 days (Cycle 1), followed by a full Phase II efficacy evaluation. The safety run-in will enroll an initial cohort of 3 patients at the recommended Phase 2 dose (RP2D) for both odetiglucan and mitazalimab; if no DLTs occur, the study progresses to full enrollment. If DLTs occur, the cohort will expand to 6 patients with protocol-defined criteria for dose modification or de-escalation.\n\nThe study includes three treatment cohorts and an observational cohort.\n\nTreatment Cohorts:\n\n* Cohort A: 26 patients with metastatic PDA achieving partial response (PR) on 1L chemotherapy\n* Cohort B: 12 patients with metastatic PDA achieving stable disease (SD) on 1L chemotherapy\n* Cohort C: 12 patients with locally advanced PDA achieving disease stability (PR or SD) on 1L chemotherapy\n\nObservational Cohort:\n\nAn observational cohort of approximately 50-60 patients will be included, divided into three subgroups corresponding to the eligibility criteria of Cohorts A, B, and C:\n\n* Observational Subgroup A: 26-30 patients\n* Observational Subgroup B: 12-15 patients\n* Observational Subgroup C: 12-15 patients\n\nThe observational cohort will include patients who meet eligibility criteria but do not receive the study intervention, either due to declining participation in the treatment arm or through retrospective chart review.\n\nTotal enrollment will be 50 patients in the treatment arm and approximately 50-60 patients in the observational cohort.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07199764",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07199764"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-09-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Pennsylvania",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07199764"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Maintenance Combinatorial Myeloid Immunotherapy for Unresectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "PMCancerResearch@pennmedicine.upenn.edu",
+    "name": "Abramson Cancer Center Clinical Trials Service",
+    "phone": "215-349-8245"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Patients must be able to understand the study procedures and agree to participate in the study by providing written informed consent\n* Histologically or cytologically confirmed diagnosis of pancreatic adenocarcinoma that is either locally advanced and unresectable, or metastatic\n* Have received a minimum of 16 and no more than 32 weeks of a first line chemotherapy-based standard of care regimen, resulting in either a PR or SD with no evidence of progression within 14 days prior to first dose of study treatment.\n\n  o Note: Patients must demonstrate at least stable disease (SD) or partial response (PR) by imaging. A single assessment showing PR at the end of chemotherapy (up to 32 weeks) is sufficient; confirmation is not required. If chemotherapy was discontinued between 16-32 weeks due to legitimate medical reasons (as determined by the investigator), the patient may still be eligible if they demonstrated SD or PR prior to discontinuation.\n* Have resolution of all chemotherapy-related toxicities to pre-treatment levels with exception of alopecia (which can be ongoing) and neuropathy (which can be ≤ Grade 2).\n* Eastern Cooperative Oncology (ECOG) performance status of 0 to 1.\n* Measurable disease per RECIST v1.1 (Section 17.2) is a requirement for study entry.\n* Willingness to undergo pre-treatment and on-treatment tumor biopsies. Tumor biopsies are mandatory for all patients with accessible disease, unless determined to be medically infeasible by the investigator.\n* Adequate organ function confirmed by the following laboratory values obtained ≤14 days prior to first administration of study treatment on Day 1:\n\n  * Absolute neutrophil count (ANC) ≥1.5 x 109/L\n  * Platelets ≥100 x 109/L\n  * Hemoglobin ≥9 g/dL\n  * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤2.5 x upper limit of normal (ULN); if liver metastases, then ≤5 x ULN\n  * Total bilirubin ≤1.5 x ULN; if liver metastases or metabolic disorder such as Gilbert's syndrome, then ≤2.5 x ULN\n  * Estimated glomerular filtration rate (GFR) (CLCr) ≥45 mL/min using Cockcroft Gault formula\n* Females of childbearing potential \\[defined as a sexually mature woman who (1) has not undergone hysterectomy (the surgical removal of the uterus) or bilateral oophorectomy (the surgical removal of both ovaries) or (2) has not been naturally postmenopausal for at least 24 consecutive months (i.e. has had menses at any time during the preceding 24 consecutive months)\\] must:\n\n  * Have a negative serum or urine pregnancy test (β-human chorionic gonadotropin, β-hCG) as verified by the study investigator within 14 days prior to study treatment.\n  * Commit to complete abstinence from heterosexual contact or agree to use medical doctor-approved contraception throughout the study without interruption while receiving study treatment and for at least 120 days following last dose of study treatment.\n* Males must practice complete abstinence or agree to use a condom (even if he has undergone a successful vasectomy) during sexual contact with a pregnant female or a female of childbearing potential while participating in the study, during dose interruptions and for at least 120 days following last dose of study treatment.\n\nExclusion Criteria:\n\n* Prior exposure to CD40 antibodies or any other immunomodulatory agent for the treatment of cancer\n* Prior exposure to odetiglucan\n* Received any systemic treatment for pancreatic adenocarcinoma within 14 days prior to the first dose of study therapy. For investigational agents, patients must not have had treatment within a time interval less than at least 5 half-lives of the investigational agent prior to the first scheduled day of dosing in this study\n* Had any active or inactive autoimmune disease or syndrome that required systemic treatment in the past 2 years, or currently requires systemic therapy with disease-modifying agents, corticosteroids, or immunosuppressive drugs. Examples include but are not limit to: rheumatoid arthritis, systemic sclerosis (scleroderma), systemic lupus erythematosus, autoimmune vasculitis (e.g. Granulomatosis with polyangiitis, formerly Wegener's Granulomatosis), multiple sclerosis, inflammatory bowel disease, or motor neuropathies of autoimmune origin (e.g. Guillain-Barre Syndrome)\n\n  o Note: Patients are permitted to enroll if they have vitiligo or resolved childhood asthma/atopy, hypothyroidism stable on hormone replacement, controlled asthma, psoriasis not requiring systemic treatment, Type I diabetes, Graves' disease, or Hashimoto's disease, or with medical monitor approval.\n* An ongoing or active infection requiring intravenous antibiotics, antivirals, or antifungals during the 14 days prior to first dose of study drug\n* An uncontrolled concurrent illness, symptomatic congestive heart failure (New York Heart Association class III or IV), unstable angina, uncontrolled hypertension, or cardiac arrhythmia\n* History of (non-infectious) pneumonitis that required steroids, current pneumonitis, or a history of interstitial lung disease\n* QT interval corrected for heart rate using Fridericia's (QTcF) method \\>450 msec for males and \\>460 msec for females\n* A history of myocardial infarction within 6 months or a history of arterial thromboembolic event within 3 months of the first dose of investigational agent\n* A history of human immunodeficiency virus (HIV), hepatitis B (HB), or hepatitis C, except for the following:\n\n  * Patients with anti-HB core antibody but with undetectable HB virus deoxyribonucleic acid (DNA) and negative for HB surface antigen\n  * Patients with resolved or treated hepatitis C virus (HCV) (i.e. HCV antibody positive but undetectable HCV RNA)\n* Received concurrent or prior use of an immunosuppressive agent within 14 days of the first dose of investigational agent, with the following exceptions and notes:\n\n  * Systemic steroids at physiologic doses (equivalent to dose of 10 mg oral prednisone) are permitted\n  * Intranasal, inhaled, topical intra-articular, and ocular corticosteroids with minimal systemic absorption are permitted\n* Patients must not have known, symptomatic brain or leptomeningeal metastases\n* Major surgical procedure within 21 days prior to first dose of study drug. Non-study related minor surgical procedures requiring local/epidural anesthesia must be completed at least 72 hours before study drug administration. In all cases, patients must be sufficiently recovered and stable before treatment administration\n* Other malignancy, except for adequately treated basal or squamous cell skin cancer or in situ cancer; or any other cancer from which the patient has been disease-free for at least 3 years\n* Received a live vaccine within 28 days before the first dose of study drug. If enrolled, patients should not receive live vaccines during the study or for 28 days after the last dose of study treatment (Note: seasonal influenza vaccines for injection are generally inactivated and are allowed; however, intranasal influenza vaccines (e.g. Flu-Mist®) are live attenuated vaccines and are not allowed)\n* Females who are pregnant or lactating or who intend to become pregnant during participation in the study are not eligible to participate\n* Known alcohol or drug abuse\n* Any clinically significant psychiatric, social, or medical condition that, in the opinion of the investigator, could increase the patient's risk, interfere with protocol adherence, or affect the patient's ability to give informed consent",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "Odetiglucan",
+   "Mitazalimab"
+  ],
+  "last_update_posted": "2026-06-10",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07199764",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-10",
+  "sex": "ALL",
+  "sponsor": "University of Pennsylvania",
+  "start_date": "2025-11-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,91 @@
+{
+ "abstract": "The purpose of the prospective, open, randomized controlled, multicenter, exploratory clinical study is to evaluate efficacy and safety of NALIRIFOX Combined With PD-1 Sequential Radiotherapy Versus NALIRIFOX for Conversion Therapy for Locally Advanced Pancreatic Cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06669078",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06669078"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06669078"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "NALIRIFOX",
+  "Conversion Therapy",
+  "Locally Advanced Pancreatic Cancer"
+ ],
+ "title": "NALIRIFOX Combined With PD-1 Sequential Radiotherapy Versus NALIRIFOX as Conversion Therapy of Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "yudongqiu510@163.com",
+    "name": "Qiu Yudong M.D., Ph.D",
+    "phone": "+86-025-83106666"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Histologically or cytologically confi rmed pancreatic cancer;\n2. ECOG performance no more than 1;\n3. Radiographically assessed as locally advanced pancreatic cancer according ;\n4. No previous anti-tumor therapy;\n5. Able and willing to provide a written informed consent.\n\nExclusion Criteria:\n\n1. Prior anti-tumor therapy of any kind;\n2. Known to be symptomatic central nervous system metastasis and/or cancerous meningitis.\n3. Patients with autoimmune disease or immune deficiency who are treated with immuno-suppressive drugs;\n4. Patients with bleeding tendency;\n5. Pregnant or lactating women.",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "Nal-lRl+Oxaliplain+5- FU +PD 1",
+   "Nal-lRl+Oxaliplain+5- FU"
+  ],
+  "last_update_posted": "2024-11-01",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06669078",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-10-15",
+  "sex": "ALL",
+  "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+  "start_date": "2024-10-30",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

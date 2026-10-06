@@ -1,0 +1,101 @@
+{
+ "abstract": "The primary objective of this long-term extension study is to allow continued access to study treatment for eligible participants who are deriving clinical benefit in an Exelixis-sponsored study who do not have access to treatment locally.",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07620574",
+ "importance": 0.78,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07620574"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-06-02",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Exelixis",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07620574"
+ },
+ "summary_ko": "The primary objective of this long-term extension study is to allow continued access to study treatment for eligible participants who are deriving clinical benefit in an Exelixis-sponsored study who do not have access to treatment locally.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Renal Cell Carcinoma (RCC)",
+  "Pancreatic Neuroendocrine Tumors (pNET)",
+  "Extra-Pancreatic NET (epNET)",
+  "Hepatocellular Carcinoma (HCC)",
+  "Differentiated Thyroid Cancer (DTC)",
+  "Non-Clear Cell Renal Cell Carcinoma (nccRCC)",
+  "Colorectal Cancer",
+  "신경내분비종양"
+ ],
+ "title": "Long-Term Extension Study for Participants Previously Enrolled in an Exelixis-Sponsored Study",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Cancer",
+   "Renal Cell Carcinoma (RCC)",
+   "Pancreatic Neuroendocrine Tumors (pNET)",
+   "Extra-Pancreatic NET (epNET)",
+   "Hepatocellular Carcinoma (HCC)",
+   "Differentiated Thyroid Cancer (DTC)",
+   "Non-Clear Cell Renal Cell Carcinoma (nccRCC)",
+   "Colorectal Cancer",
+   "Prostate Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria:\n\n* Eligible to continue receiving the study treatment in the parent study (that is, has not met parent study discontinuation/withdrawal criteria).\n* Continuing to derive clinical benefit from the study treatment at the time of transition from the parent study as assessed by the investigator.\n* Able to comply with the long-term extension study protocol as determined by the investigator.\n* Able to receive the first dose of study treatment in this extension study within the specified treatment interruption window allowed by the parent study.\n\nKey Exclusion Criteria:\n\n* Meet any of the study treatment discontinuation criteria specified in the parent study at the time of enrollment in this extension study.\n* Study treatment is commercially marketed in the participant's country for the participant-specific disease and is accessible to the participant.\n* Treatment with any anticancer treatment (other than treatment permitted in the parent study) during the time between last treatment in the parent study and the first dose of study treatment in this long-term extension study.\n* Permanent discontinuation of all study treatment(s) for any reason during the parent study or during the time between last treatment in the parent study and the first dose of study treatment in this long-term extension study (if applicable).\n* Concurrent participation in any therapeutic clinical trial (other than the parent study).\n\nNOTE: Other protocol defined Inclusion/Exclusion criteria may apply.",
+  "enrollment": 5000,
+  "has_results": false,
+  "interventions": [
+   "Cabozantinib",
+   "Zanzalintinib",
+   "Atezolizumab",
+   "Nivolumab",
+   "Abiraterone",
+   "Prednisone",
+   "Enzalutamide"
+  ],
+  "last_update_posted": "2026-08-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": null,
+  "n_locations": 2,
+  "nct_id": "NCT07620574",
+  "phase": "PHASE3",
+  "primary_completion_date": "2030-05-31",
+  "sex": "ALL",
+  "sponsor": "Exelixis",
+  "start_date": "2026-07-30",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

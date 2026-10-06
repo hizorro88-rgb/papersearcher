@@ -1,0 +1,100 @@
+{
+ "abstract": "This study investigates the impact of surgical resection compared to palliative care in patients with oligometastatic pancreatic cancer limited to the liver. Specifically, it examines whether surgery after stable disease or response to chemotherapy can improve survival and quality of life. The international, multicenter randomized trial will recruit 56 patients, assigning them to either surgical resection (including tumor and liver metastases) or ongoing palliative care with chemotherapy. Stratification by performance status, tumor markers, and tumor location will ensure balanced study groups. Outcome assessments, conducted over a minimum two-year follow-up, include clinical evaluations, imaging, and quality-of-life metric\n\nPancreatic cancer is a highly aggressive disease, with advanced-stage diagnosis being the most common presentation, where surgery is usually contraindicated regardless of the number and location of metastases. Among the various metastatic sites, liver involvement is particularly common. The conventional approach for metastatic disease is systemic chemotherapy, aimed at controlling tumor growth, reducing symptoms, and improving quality of life. However, the role of aggressive local therapies, such as surgical removal of the primary tumor and liver metastases, is under active investigation and clinical debate for patients who show response or disease stability following chemotherapy treatment in the context of oligometastatic disease. The oligometastatic stage, defined as the presence of a limited number of metastatic lesions in specific organs, offers a potential opportunity for locoregional interventions. Proponents of surgical intervention argue that complete removal of the tumor following optimal first-line systemic therapy may eradicate the primary cancer source and eliminate or control metastatic sites. This approach could potentially improve disease control, survival, and quality of life for selected patients. This prospective study thus aims to compare the efficacy and safety of a surgical approach versus palliative treatment alone in patients with resectable oligometastatic pancreatic cancer to the liver, with stable disease or therapeutic response following first-line chemotherapy.\n\nThis is an international multicenter randomized controlled trial promoted by the University of Padua. The study aims to enroll 28 patients per arm, for a total of 56. The study will include adult patients aged 18 years or older with cytologically or histologically confirmed pancreatic adenocarcinoma and radiologically documented liver metastases. Eligible patients must present with synchronous oligometastatic disease, defined as a limited number of liver metastases (up to 3 lesions) without evidence of extrahepatic metastases, based on a multidisciplinary discussion. The primary pancreatic tumor must still be present at the time of enrollment. Enrolled patients must have received at least 6 months of systemic chemotherapy. Eligible patients with response/stability after first-line chemotherapy will undergo either surgical resection or continuous chemotherapy, depending on the arm to which they are randomized. Patients will be assigned in a 1:1 ratio to either the surgical resection arm (n=28) or the palliative care arm (n=28). Randomization will be performed centrally using a computer-generated randomization sequence. Stratification factors, such as ECOG Performance Status, serum Ca 19-9 level at enrollment, primary pancreatic tumor location, and participating center, will be used to ensure balance between the two study arms. Due to the nature of the interventions, it is not feasible to blind patients and treating physicians to treatment allocation. Upon enrollment, the patient must consent to participate in the above-described randomized study. The two randomization arms are as follows:\n\nA) Surgical Resection Arm: Patients in this arm will undergo surgical resection of both the primary tumor and liver metastases. The surgical approach, extent of resection, and perioperative management will follow the standard protocols of each participating center. Venous vascular resections may be performed to achieve oncologic radicality. Standard or parenchyma-sparing liver resections may be conducted for the resection of liver metastases. Alternatively, percutaneous or microwave ablation of liver lesions \\<20 mm is possible if technically feasible. Postoperative chemotherapy and/or radiotherapy may be administered based on multidisciplinary decisions and individual case evaluations.\n\nB) Palliative Care Arm: Patients in this arm will continue to receive palliative care, consisting of observation or continuation of chemotherapy based on the investigator's choice and the duration of first-line chemotherapy. If necessary, they will continue with systemic chemotherapy, as received during the initial treatment phase, following an institution-approved chemotherapy protocol adapted to the attending physician's preference. Patients will undergo regular evaluations at predefined intervals throughout the study period. These evaluations will include clinical assessments, laboratory tests, radiologic imaging (such as abdominal and chest CT scans with contrast), quality-of-life assessments, and nutritional evaluations. The frequency of evaluations may vary depending on the study phase but will generally occur every 8-12 weeks according to clinical practice. These assessments will provide data on primary and secondary endpoints. The minimum follow-up specified by the study protocol is 2 years from randomization.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06690528",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06690528"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-11-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Azienda Ospedaliera di Padova",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06690528"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic Cancer Metastatic to Liver",
+  "Pancreatic Cancer Oligometastatic to Liver",
+  "Coversion Surgery Pancreatic Cancer",
+  "NEoadiuvant Therapy for Oligometastatic Pancreatic Cancer",
+  "Resectable Pancreatic Cancer",
+  "Resectable Liver Metastasis in Pancreatic Cancer",
+  "Combined Surgery for Metastatic Pancreatic Cancer"
+ ],
+ "title": "Conversion Surgery Vs. Palliative Care in Pancreatic Cancer Oligometastatic to the Liver",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "giovanni.marchegiani@unipd.it",
+    "name": "Giovanni Marchegiani, Medical Doctor, PhD, Professor",
+    "phone": "+390498212259"
+   },
+   {
+    "email": "giampaolo.perri@unipd.it",
+    "name": "Giampaolo Perri, Medical Doctor",
+    "phone": "+390498212259"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Adult patients aged ≥18 years and ≤75 years (at diagnosis).\n* Cytologically or histologically confirmed pancreatic adenocarcinoma either resectable or borderline resectable (at diagnosis) according to National Comprehensive Cancer Network (NCCN)4 (see section 5).\n* Synchronous oligometastatic disease (at diagnosis), defined as a limited number of radiologically documented liver metastases (up to 3 lesions).\n* No evidence of extrahepatic metastases (at diagnosis.)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1 (at enrollment)\n* Partial response or stable disease after completion of first-line chemotherapy, as determined by RECIST 1.1 criteria21 (modified to exclude any % of increase in the sum of diameters of target lesions) (at enrollment).\n* Decreasing or stable (defined as ≤20% increase) serum CA19-9 level after chemotherapy (at enrollment).\n* Liver metastases considered resectable (see section 5) or alternatively treatable by needle ablation/microwave once no larger than 20 mm (at enrollment).\n\nExclusion Criteria:\n\n* Locally advanced pancreatic cancer according to NCCN4.\n* Unresectable liver disease (according to multidisciplinary discussion).\n* Involvement of other organs.\n* Presence of significant comorbidities precluding surgery.\n* Pregnancy.\n* Contraindications to surgical resection.\n* Prior surgical resection of the primary tumor or liver metastases.\n* Evidence of extrahepatic metastases.\n* Inability to provide informed consent or participate in follow-up assessments.\n* Disease progression as determined by RECIST 1.1 criteria21 (modified to include any % of increase in the sum of diameters of target lesions) after chemotherapy.\n* Serum CA19-9 level increase \\>20% after chemotherapy.\n\nNote: Additional specific exclusion criteria may be defined at each participating center based on their institutional guidelines and patient population.",
+  "enrollment": 56,
+  "has_results": false,
+  "interventions": [
+   "Surgical resection of both the primary tumor and liver metastases"
+  ],
+  "last_update_posted": "2024-11-15",
+  "location_countries": [
+   "Italy"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06690528",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-11",
+  "sex": "ALL",
+  "sponsor": "Azienda Ospedaliera di Padova",
+  "start_date": "2024-11-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

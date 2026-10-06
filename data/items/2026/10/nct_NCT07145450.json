@@ -1,0 +1,97 @@
+{
+ "abstract": "This is an open-label, multi-centre, single-arm Phase 1/2 clinical trial of the safety, expansion, persistence and clinical activity of a set of engineered autologous T cells products each capable of recognizing a specific combination mutated KRAS and HLA, activating the T cells and exerting anti- tumour activity in patients with metastatic or locally advanced PDAC.\n\nThis is a phase 1/2 study of engineered autologous T cells (TCR targeting KRAS G12V (ANOC-001 sub-study 1), (ANOC-002 sub-study 2) and KRAS 12D (ANOC-003 sub-study 3) capable of recognizing the tumour antigen(s), activating the T cells and exerting anti-tumour activity in patients with metastatic or locally advanced PDAC following a SoC first-line therapy.\n\nThe protocol procedures will be performed in two parts. Part 1 includes pre- screening/screening eligibility, enrolment and leukapheresis. Part 2 includes lymphodepletion, TCR-T cell infusion and all study assessments until the end-of-treatment or early discontinuation .\n\nIn the dose escalation part of each sub-study, two doses will be assessed in a classical 3+3 dose escalation design to assess the safety and tolerability of TCR-T cells with the goal to identify the optimal safe dose for each product.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07145450",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07145450"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-08-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anocca AB",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07145450"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Master Protocol of TCR-modified T Cell Therapy Targeting HLA-restricted KRAS Antigen Administered in Adult Patients With Metastatic or Locally Advanced PDAC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "PDAC"
+  ],
+  "contacts": [
+   {
+    "email": "amu.wang@anocca.com",
+    "name": "Amu Wang",
+    "phone": "+46703784946"
+   },
+   {
+    "email": "clinical.trials@anocca.com",
+    "name": "Anocca AB",
+    "phone": "+46841080701"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Adult patient (18 years or older) with newly diagnosed metastatic PDAC or locally advance PDAC disease.\n2. HLA genotyping confirmed with a high-resolution method.\n3. Confirmed KRAS G12V or KRAS G12D mutation in tumour using biopsy sample.\n4. Fertile male and female patients must use a highly effective contraceptive method before, during, and for at least 6 months after the last mutKRAS TCR infusion. Acceptable contraception for women includes implants, injectables, combined oral contraceptives, intrauterine devices (IUDs), sexual abstinence, or a partner who has been vasectomized for at least 6 months. Acceptable contraception for male includes having had a vasectomy for at least 6 months, sexual abstinence, to condoms plus spermicide. Fertile female and male patients must adhere to any treatment-specific pregnancy prevention guidelines for cyclophosphamide (refer to SmPC).\n5. Confirmed clinical benefit to SoC treatments and absence of disease progression according to the PI judgement.\n6. Measurable disease by RECIST 1.1 criteria at the time of first treatment. Baseline imaging (for example, diagnostic CT of chest/abdomen/pelvis and imaging of the affected extremity or brain, as appropriate), or magnetic resonance imaging (MRI) must be obtained within 8 weeks of the first planned T cell infusion. CT can be substituted for MRI in patients unable to have CT contrast.\n\nExclusion Criteria:\n\n1. Another malignancy other than PDAC.\n2. Current or history of brain metastasis.\n3. Patient with known genetic status for whom other treatments are available e.g. BRCA, MSI-H.",
+  "enrollment": 96,
+  "has_results": false,
+  "interventions": [
+   "ANOC-001 (TCR-T cells targeting KRAS G12V mutation presented by specific HLA alleles)",
+   "ANOC-002 (TCR-T cells targeting KRAS G12V mutation presented by specific HLA alleles)",
+   "ANOC-003 (TCR-T cells targeting KRAS G12D mutation presented by specific HLA alleles)"
+  ],
+  "last_update_posted": "2026-06-08",
+  "location_countries": [
+   "Denmark",
+   "Germany",
+   "Netherlands",
+   "Sweden"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 10,
+  "nct_id": "NCT07145450",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2030-04-02",
+  "sex": "ALL",
+  "sponsor": "Anocca AB",
+  "start_date": "2025-07-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

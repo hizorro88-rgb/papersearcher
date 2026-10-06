@@ -1,0 +1,92 @@
+{
+ "abstract": "The goal of this clinical trial is to learn about Phase I+Phase II Clinical Study of PRaG Therapy in Combination With Chemotherapy (AG Regimen) for Neoadjuvant Treatment of Locally Advanced Pancreatic Ductal Adenocarcinoma (PDAC) (NeoPRAG Study).The main question it aims to answer is to investigate the safety and efficacy of the PRaG treatment modality combined with chemotherapy neoadjuvant therapy for locally advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06345599",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06345599"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-04-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Second Affiliated Hospital of Soochow University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06345599"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Locally Advanced Pancreatic Ductal Adenocarcinoma",
+  "Chemotherapy",
+  "Neoadjuvant Treatment",
+  "PRaG Therapy"
+ ],
+ "title": "PRaG Therapy in Combination With Locally Advanced Pancreatic Ductal Adenocarcinoma (PDAC) (NeoPRAG Study)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "trybest1971@163.com",
+    "name": "Wei Chen, Doctor",
+    "phone": "18626205529"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 ≤ 75 years；no gender limitations\n* Histopathologically and/or cytologically confirmed ductal adenocarcinoma of the pancreas, the patient has fresh pathological tissue and the tumour is located in the head and neck or body of the pancreas\n* Locally advanced pancreatic cancer, borderline resectable or unresectable, without metastases.\n* Life expectancy \\>= 3 months.\n* ECOG score 0-1.\n* Have at least 1 measurable lesion according to RECIST 1.1 criteria.\n* No prior treatment with abdominal radiotherapy, chemotherapy and PD-1/PD-L1 antibody.\n* Adequate organs functions as defined by the following laboratory values (completed within 14 days prior to registration): (1) haemoglobin \\>= 90 g/L (no blood transfusion within 14 days)； (2) neutrophil count \\> 1.5x10\\^9/L； (3) platelet count \\>= 100x10\\^9/L； (4) total bilirubin \\<= 1.5xULN (upper limit of normal)； (5) blood glutamic transferase (ALT) or blood glutamic transferase (AST) \\<= 2.5xULN (6) endogenous creatinine clearance \\>= 60 ml/min (Cockcroft's AST). (ALT) or blood albumin transaminase (AST) \\<= 2.5xULN； (6) endogenous creatinine clearance \\>= 60 ml/min (Cockcroft-Gault formula)； (7) cardiac Doppler ultrasound assessment: left ventricular ejection fraction (LVEF) \\>= 50%. (8) International normalised ratio (INR) of prothrombin time ≤ 1.5 and partial thromboplastin time (APTT) ≤ 1.5 times the upper limit of normal in patients who have not received anticoagulation. Patients receiving full or parenteral anticoagulant therapy may enter a clinical trial as long as the dose of anticoagulant has been stable for at least 2 weeks prior to entry into the clinical study and the results of coagulation assays are within the limits of local therapy.\n* No congestive heart failure, unstable angina, unstable arrhythmia in the last 6 months.\n* No previous severe haematopoietic, cardiac, pulmonary, hepatic or renal abnormalities or immunodeficiencies.\n* Patient must be able to understand the potential risks and benefits associated with this study. Patient able to give informed consent and would likely to comply with the study parameters.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women\n* Patients with a history of other malignant diseases in the last 5 years, except cured skin cancer and cervical cancer in situ.\n* Patients with a history of uncontrolled epilepsy, central nervous system disease or psychiatric disorders whose clinical severity, in the judgement of the investigator, may prevent the signing of informed consent or affect the patient's adherence to drug therapy.\n* Severe heart disease, such as symptomatic coronary heart disease, New York Heart Association (NYHA) class II or worse congestive heart failure or severe arrhythmia requiring pharmacological intervention, or a history of myocardial infarction within the last 12 months.\n* Organ transplants requiring immunosuppressive therapy\n* Active infection or, in the investigator's judgement, significant haematological, renal, metabolic, gastrointestinal, endocrine function or metabolic disorders, or other serious uncontrolled concomitant disease\n* Allergy to any of the study drug ingredients\n* History of immunodeficiency, including HIV-positive or other acquired or congenital immunodeficiency diseases, or history of organ transplantation, or other immune-related diseases requiring long-term oral hormone therapy\n* During acute or chronic tuberculosis infection (patients with a positive T-spot test and suspicious tuberculosis foci on chest radiographs).\n* Other conditions considered by the investigator to be unsuitable for enrolment.",
+  "enrollment": 66,
+  "has_results": false,
+  "interventions": [
+   "Radiotherapy",
+   "Immunotherapy:Granulocyte macrophage-colony stimulating factor(GM-CSF)、Cadumilimab",
+   "Chemotherapy:Albumin-bound paclitaxel、Gemcitabine"
+  ],
+  "last_update_posted": "2024-04-03",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06345599",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-01-10",
+  "sex": "ALL",
+  "sponsor": "Second Affiliated Hospital of Soochow University",
+  "start_date": "2024-05-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

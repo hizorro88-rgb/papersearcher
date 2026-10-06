@@ -1,0 +1,97 @@
+{
+ "abstract": "This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial to evaluate the efficacy and safety of binimetinib in patients with advanced or recurrent low-grade glioma or pancreatic cancer harboring BRAF fusion/rearrangement.\n\nThis study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial. Eligible patients are with recurrent low-grade glioma (grade 1 and grade 2 tumors according to WHO classification) or advanced or recurrent pancreatic cancer harboring BRAF fusion/rearrangement. Patients receive binimetinib 45mg administered orally, twice daily.\n\nAnalyses will be performed on each of the two cohorts:\n\nCohort A: low-grade glioma Cohort B: pancreatic cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06159478",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06159478"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-12-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Center, Japan",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06159478"
+ },
+ "summary_ko": "This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial to evaluate the efficacy and safety of binimetinib in patients with advanced or recurrent low-grade glioma or pancreatic cancer harboring BRAF fusion/rearrangement. This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial.",
+ "summary_source": "excerpt",
+ "tags": [
+  "BRAF fusion",
+  "BRAF rearrangement",
+  "Binimetinib"
+ ],
+ "title": "Binimetinib in Patients With BRAF Fusion-positive Low-grade Glioma or Pancreatic Cancer (Perfume)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Low-grade Glioma",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ncch2101_office@ml.res.ncc.go.jp",
+    "name": "Chigusa Morizane, M.D., Ph.D.",
+    "phone": "0335422511"
+   },
+   {
+    "email": "ncch2101_office@ml.res.ncc.go.jp",
+    "name": "Tomoyuki Satake, M.D., Ph.D.",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nInclusion criteria for both cohort A and B\n\n1. BRAF fusion or rearrangement is detected by reimbursed NGS-based cancer gene panel tests, cancer gene panel tests performed under advanced medical treatment, or clinical study (including liquid biopsy).\n2. Unresectable or recurrent\n3. No symptomatic brain metastasis, carcinomatous meningitis or spinal metastasis requiring surgical intervention or radiotherapy\n4. No cardiac effusion, pleural effusion, or ascites requiring treatment\n5. Not received anti-cancer drug within 14 days before registration, nor received other study drug (molecular targeting drug, immune therapy) within 21 days before registration\n6. Not received operation under general anesthesia within 28 days before registration\n7. Not received radiation therapy (including gamma knife, cyber knife) within 14 days before registration\n8. Left ventricular ejection fraction \\>= 50% by echocardiography or MUGA (multigated acquisition scan) within 28 days before registration\n9. Having all laboratory tests performed within 14 days before registration and the values are within the following range. Patients should not receive administration of G-CSF and/or blood transfusion within 14 days before the blood collection (1) Absolute neutrophil count \\>= 1.500/mm3 (2) Platelet count \\>= 10.0 X 10(4))/mm3 (3) Hemoglobin \\>= 8.0 g/dL (4) Total bilirubin \\<= 1.5 g/dL (5) Aspartate aminotransferase (AST) \\<= 100 U/L (6) Alanine aminotransferase (ALT) \\<= 100 U/L (7) Serum creatinine \\<= 1.5 mg/dL\n10. Patients who are able to swallow orally administered medication.\n11. Consent to at least 30 days of contraception and limited egg donation (including egg retrieval for future egg transfer) after last administration of study drug for child-bearing status women. Consent to 90 days of contraception and limited sperm donation after last administration of study drug for men.\n12. Written informed consent (When registering patient under 18, a signed consent form must be obtained from both the patient and the parent or legal guardian.)\n\n    Cohort A\n13. Histopathologically diagnosed as low-grade glioma, based on WHO classification of 2007, 2016 and 2021. The grade is WHO grade 1 or 2.\n14. Age at the time of registration is 12 years or older (When registering a patient under 18, a signed consent form must be obtained from both the patient and the parent or legal guardian), and patients who are 12-17 years old have to be 40 kg or over in body weight. There is no limitation in body weight for patients who are 18 years or older.\n15. Lansky Performance Status (LPS) \\>= 70 for patients 12-15 years old Karnofsky Performance Status (KPS) \\>= 70 for patients 16 years or older\n16. Having measurable disease within 28 days before registration\n17. Patients suffice the following. (1) Having adequate initial treatment depending on the primary central nervous tumor including surgery if recommended treatment is available. (2) Neurologically stable.\n\n(3) Multiple lesion or dissemination is not detected with MRI at the registration.\n\n18\\) Not increased steroid for low-grade glioma within 14 days before registration and the dosage of steroid in equivalent to 50 mg prednisolone or less.\n\nCohort B 19) Histopathologically diagnosed as pancreatic cancer (histologically not specified).\n\n20\\) Having progression after at least one regimen of chemotherapy excluding adjuvant therapy.\n\n21\\) Age at the time of registration is 18 years or older. 22) Performance Status (ECOG) is 0 or 1 23) Having measurable disease within 28 days before registration detected by enhanced CT (Head, chest, abdominal, pelvic: under 5 mm in slice)\n\nExclusion Criteria:\n\n1. Active double primary cancer (but not \\[1\\]-\\[3\\]): \\[1\\] completely resected following cancers: basal cell carcinoma, stage I squamous cell carcinoma, carcinoma in situ, intramucosal carcinoma, superficial bladder cancer, \\[2\\] gastrointestinal cancer curatively resected with ESD or EMR, and \\[3\\] other cancers with no recurrence for more than 5 years.\n2. Patients with symptomatic congestive heart failure of NYHA class II-IV or arrythmia (over grade 2) occurring in less than 6 months before registration.\n3. Patients with myocardial infarction or unstable angina occurring in less than 6 months before registration.\n4. Patients with corrected QT interval (QTcF) \\> 480 ms in ECG performed within 14 days before enrollment.\n5. Patients with infections requiring systemic treatment.\n6. Patients with uncontrolled hypertension (systolic blood pressure: over 150 mmHg or diastolic blood pressure: over 100 mmHg).\n7. Patients with history or findings of retinal vein occlusion (RVO) or having RVO risk factor (unstable glaucoma, ocular hypertension, hyperviscosity syndrome, hypercoagulability syndrome, etc.)\n8. Patients with history or complication of retinal degenerative disease other than RVO (central serous chorioretinopathy, retinal detachment, age-related macular degeneration, etc.)\n9. Patients with uncontrolled diabetes mellitis.\n10. Patients with venous thrombus (transient ischemic attack, stroke, massive deep vein thrombosis, pulmonary embolism, etc.) occurring in less than 3 months\n11. Patients who have neuromuscular disease with CK elevation (inflammatory myopathy, muscular dystrophy, amyotrophic lateral sclerosis, spinal muscular atrophy, etc.).\n12. Prior treatment with MEK inhibitors.\n13. Previous severe hypersensitive reaction to ingredient including binimetinib.\n14. Patients who are positive for either HIV antibody, HBs antigen, or HCV-RNA.\n15. Negative for HBs antigen, positive for HBs antibody or HBc antibody, and positive for HBV-DNA assay. (If it is less than or equal to the detection sensitivity, patients are not excluded)\n16. Patients with concomitant diseases that affect gastrointestinal function.\n17. Women who are pregnant, breastfeeding and need to continue breastfeeding in the future, and women who may be pregnant.\n18. Patients with psychiatric diseases or psychological symptoms interfering with participation in the trial.\n19. Patients who are deemed inappropriate for participation in the trial by the principal investigator or sub-investigator.",
+  "enrollment": 32,
+  "has_results": false,
+  "interventions": [
+   "Binimetinib 15 MG"
+  ],
+  "last_update_posted": "2023-12-13",
+  "location_countries": [
+   "Japan"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "12 Years",
+  "n_locations": 6,
+  "nct_id": "NCT06159478",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-02-28",
+  "sex": "ALL",
+  "sponsor": "National Cancer Center, Japan",
+  "start_date": "2023-03-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

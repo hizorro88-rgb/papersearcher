@@ -1,0 +1,95 @@
+{
+ "abstract": "This study aims to evaluate the safety and efficacy of Ivonescimab, a bispecific antibody targeting PD-1 and VEGF, in combination with stereotactic body radiotherapy (SBRT) and chemotherapy for treating locally advanced pancreatic cancer (LAPC). The Phase Ib portion is a dose-escalation study to determine the maximum tolerated dose (MTD), dose-limiting toxicity (DLT), and the recommended Phase II dose (RP2D) of Ivonescimab. The Phase II portion will assess the median progression-free survival (mPFS) of patients receiving Ivonescimab with SBRT (25-50Gy/5F) and modified FOLFIRINOX chemotherapy. The study aims to provide critical insights into treatment options for LAPC and inform future therapeutic strategies.\n\nThis study is a single-arm, Phase Ib/II clinical trial designed to evaluate the safety and efficacy of Ivonescimab, a bispecific antibody targeting both programmed cell death protein 1 (PD-1) and vascular endothelial growth factor (VEGF), in combination with stereotactic body radiotherapy (SBRT) and chemotherapy for locally advanced pancreatic cancer (LAPC). The trial will recruit 37 patients with LAPC, with Phase Ib focusing on determining the maximum tolerated dose (MTD), dose-limiting toxicity (DLT), and the recommended Phase II dose (RP2D) of Ivonescimab.\n\nIn the Phase Ib portion, a dose-escalation design using the 3 + 3 methodology will be employed over a 4-week period to establish the RP2D for Ivonescimab. The goal is to identify the optimal dose that can be safely administered to patients without excessive toxicity. Once the RP2D is determined, the trial will proceed to Phase II.\n\nPhase II will evaluate the efficacy of Ivonescimab at the RP2D in combination with SBRT and chemotherapy, with the primary endpoint being the median progression-free survival (mPFS) of patients with LAPC. Initially, participants will receive Ivonescimab combined with SBRT (25-50 Gy in 5 fractions) over two weeks. Following this, they will undergo up to 8-10 cycles of Ivonescimab in combination with modified FOLFIRINOX chemotherapy, which includes oxaliplatin, irinotecan, leucovorin, and fluorouracil.\n\nPatients will continue maintenance treatment with Ivonescimab based on individual tolerance for up to 12 months, or until intolerable toxicity or disease progression occurs. The study aims to assess both the safety and therapeutic efficacy of this novel combination treatment as a first-line approach for LAPC. Results from this Phase Ib/II study will provide critical data for the development of future treatment strategies for LAPC, potentially improving patient outcomes by targeting both the immune response and tumor vasculature.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06844422",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06844422"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-02-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shandong Cancer Hospital and Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06844422"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Adapted Guided Stereotactic Body Radiotherapy",
+  "Chemotherapy",
+  "Ivonescimab",
+  "Pancreatic Cancer"
+ ],
+ "title": "Adapted Guided Stereotactic Body Radiotherapy Combined With Chemotherapy and Enhancement of Novel Drug Ivonescimab for Pancreatic Cancer (ASCEND)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "jbyue@sdfmu.edu.cn",
+    "name": "Jinbo Yue, Doctor",
+    "phone": "0531-67626442"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Pathologically or cytologically confirmed unresectable LAPC, as defined by the 8th edition of the American Joint Committee on Cancer (AJCC);\n2. Age between 18 and 80 years;\n3. At least one measurable pancreatic cancer lesion, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1;\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1;\n5. Life expectancy of at least 3 months;\n6. Adequate hematological, renal, and hepatic function, as defined by the following criteria (within 14 days prior to enrollment): (1) Hemoglobin (Hb) ≥ 90 g/L; Absolute Neutrophil Count (ANC) ≥ 1.0 × 10\\^9/L; Platelet count (PLT) ≥ 75 × 10\\^9/L; (2) No significant organ dysfunction, with the following criteria: Serum total bilirubin ≤ 1.5 × upper limit of normal (ULN) or direct bilirubin ≤ ULN if total bilirubin \\> 1.5 × ULN; Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 × ULN; Alkaline phosphatase (ALP) ≤ 2.5 × ULN, or ≤ 2.5 × ULN for the liver fraction if ALP \\> 2.5 × ULN; Serum creatinine ≤ 1.5 × ULN or calculated creatinine clearance (using the MDRD formula) ≥ 40 mL/min if serum creatinine is \\> 1.5 × ULN; Urine protein \\< 2+, or if ≥ 2+ on dipstick, 24-hour urine protein must be \\< 2 g or the urine protein-to-creatinine ratio (UPC) must be \\< 2; International normalized ratio (INR) and activated partial thromboplastin time (aPTT) ≤ 1.5 × ULN;\n7. Ability to provide tissue and blood samples for translational research;\n8. Ability to comprehend study details and provide written informed consent.\n\nExclusion Criteria:\n\n1. History of any malignant tumors within the past 5 years, except for cured localized tumors;\n2. Uncontrolled infections (e.g., active tuberculosis or hepatitis), uncontrolled systemic diseases, poorly controlled hypertension or diabetes, or severe comorbidities within the past six months, including myocardial infarction, cerebral embolism, or significant arrhythmias;\n3. Previous treatment with drugs targeting other stimulatory or co-inhibitory T-cell receptors;\n4. Prior radiotherapy within 2 weeks before enrollment;\n5. Known allergy to Ivonescimab or its excipients;\n6. Pregnancy or lactation;\n7. Current or planned use of strong CYP3A4/5 or CYP1A2 inducers or strong CYP3A4/5 inhibitors;\n8. Requirement for oral vitamin K antagonists for anticoagulation. Low-dose warfarin (≤ 2 mg/day) and other low-dose anticoagulants for maintaining central venous access or preventing deep vein thrombosis are permitted. Low-molecular-weight heparin is also permitted;\n9. Conditions affecting oral medication administration, such as a history of gastrointestinal perforation or fistula within the past 6 months, history of intestinal obstruction, extensive bowel resection, Crohn's disease, ulcerative colitis, or chronic diarrhea.",
+  "enrollment": 37,
+  "has_results": false,
+  "interventions": [
+   "Ivonescimab"
+  ],
+  "last_update_posted": "2026-04-28",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06844422",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-02-18",
+  "sex": "ALL",
+  "sponsor": "Shandong Cancer Hospital and Institute",
+  "start_date": "2025-02-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

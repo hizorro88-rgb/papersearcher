@@ -1,0 +1,103 @@
+{
+ "abstract": "By doing this study, it is the hope to learn whether an injection of the measles, mumps, rubella (MMR) vaccine developed by Merck \\& Co. (Merck's M-M-R® II) into the tumor is safe and effective in making the tumor smaller.\n\nThis is a prospective single-arm phase Ib/II study for subjects with locally advanced, borderline resectable / unresectable, non-metastatic pancreatic cancer that remains unresectable following SoC chemotherapy and RT. Patients whose tumors have not become resectable following SoC treatment with chemotherapy and RT will be treated with intratumoral injection of MMR vaccine by endoscopy and endoscopic ultrasound. Patients with unresectable or borderline resectable pancreatic cancer treated via SoC protocol with induction chemotherapy (of physician's choice, e.g., FOLFIRINOX, Gemcitabine + Abraxane, Nab Paclitaxel or NALIRIFOX) followed by radiation (physician's preference) along with chemotherapy (5FU/capecitabine, per physician's choice) will be eligible for the study if the tumor did not become resectable following the therapy just described.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07539155",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07539155"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-04-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Arkansas",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07539155"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "MMR",
+  "Borderline Resectable",
+  "Borderline Unresectable",
+  "Pancreatic Cancer",
+  "Non-Metastatic"
+ ],
+ "title": "Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Borderline Resectable/Unresectable Pancreatic Cancer",
+   "Non Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "JAHolley@uams.edu",
+    "name": "Joseph Holley, BS",
+    "phone": "501-214-2499"
+   },
+   {
+    "email": "JLFaulkner@uams.edu",
+    "name": "Jennifer Faulkner, MS",
+    "phone": "501-214-2499"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. Pathologically proven locally advanced adenocarcinoma of pancreas.\n3. Borderline resectable pancreatic cancer that is determined to be unresectable following completion of SoC chemotherapy and RT as evidenced by any of the following:\n\n   1. Encasement of gastroduodenal artery up to the common hepatic artery/short segment encasement or abutment of the hepatic artery, but without extension to the celiac trunk.\n   2. Venous involvement of SMV or portal vein, less than 180 degrees.\n   3. Tumor abutment of SMA, less than half the circumference of the vessel wall. OR\n\n      Unresectable pancreatic cancer that remains unresectable following completion of SoC chemotherapy and RT as evidenced by any of the following:\n   4. Greater than 180-degree encasement or occlusion/thrombus of SMA, unresectable SMV, or SMV-portal confluence occlusion.\n   5. Direct involvement of inferior vena cava, aorta, celiac trunk, or hepatic artery, as defined by the absence of fat plane between low-density tumor and these structures on CT scan.\n\n   OR Surgeon deems that the pancreatic cancer is unresectable.\n4. Prior history of treatment with chemotherapy (e.g., FOLFIRINOX, Gemcitabine + Abraxane or NALIRIFOX \\[liposomal irinotecan (Nal-IRI or Onivyde®), Nab Paclitaxel, 5 fluorouracil (5-FU)/leucovorin and oxaliplatin\\]) and RT. The chemotherapy regimen is per treating physician's choice. The chemotherapy agent for radio sensitization is up to the treating physician (capecitabine, 5FU or gemcitabine).\n\n   a. The chemo-radiation therapy regimen should be completed at least 6 weeks but no more than 12 weeks from planned Day 1.\n5. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n6. Adequate hematological function (Hemoglobin \\> 9g/dL, White Blood Cell (WBC) count \\> 1500 K/µL, Absolute Neutrophil Count (ANC) \\> 500 K/µL, Platelet count \\> 100 K/µL).\n7. Adequate hepatic function (Total bilirubin ≤ 1.5 x institutional upper limit of normal \\[ULN\\]) (Note: In subjects with Gilbert's syndrome, if total bilirubin is \\>1.5 × ULN, measure direct and indirect bilirubin and if direct bilirubin is ≤ 1.5 × ULN, subject is eligible); Aspartate aminotransferase (AST\\[SGOT\\]) or Alanine aminotransferase (ALT\\[SGPT\\]) ≤ 2.5 × institutional ULN; Serum albumin ≥ 3.0 g/dL.\n8. Adequate renal function (i.e., creatinine less than 1.5 times ULN).\n\nExclusion Criteria:\n\n1. Pancreatic cancer that was either resectable before SoC treatment or became resectable following SoC chemotherapy and RT.\n2. Subjects with radiographically proven metastatic disease are excluded.\n3. Subject must not be pregnant and/or currently breastfeeding or plan to be.\n4. Subject must not have received any live vaccine, including MMR, within 30 days prior to the dose of study drug.\n5. Subject must not have treatment with any anti-cancer therapy including chemotherapy, radiotherapy, biological, immunotherapy or an investigational therapy, including targeted small molecule agents, within 5 half-lives (or 2 weeks if half-life is unknown) prior to day 1.\n6. Subject has no unresolved toxicities, AEs ≥ Grade 2 (NCI CTCAE version 5.0), from prior anticancer therapy.\n7. Any other condition that, in the opinion of the investigator, might interfere with the safe conduct of the study.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Intratumoral MMR Injection"
+  ],
+  "last_update_posted": "2026-09-01",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07539155",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-08",
+  "sex": "ALL",
+  "sponsor": "University of Arkansas",
+  "start_date": "2026-06-26",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

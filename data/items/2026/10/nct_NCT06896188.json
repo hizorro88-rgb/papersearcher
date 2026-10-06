@@ -1,0 +1,98 @@
+{
+ "abstract": "This is a study of the combination of 9 ING-41 (elraglusib) and retifanlimab plus mFOLFIRINOX in patients with pancreatic cancer without prior systemic therapy for advanced disease. The safety lead-in cohort will consist of 6 patients, followed by dose de-escalation if necessary, based on safety assessments. After evaluating the safety and tolerability at the initial dose level, the study will proceed to an expansion cohort at the determined safe dose level, with the total maximum enrollment not exceeding 12 patients for the entire study.\n\nGiven the role of GSK-3β in immune regulation, the combination of GSK-3β inhibition with PD 1 inhibition may be expected to provide synergistic anti-tumor efficacy. The excellent safety profile of 9-ING-41, along with preclinical and clinical evidence of anti-tumor activity in pancreatic cancer, provides a strong rationale to evaluate the efficacy of 9-ING-41 in combination with a PD 1 inhibitor plus standard chemotherapy (mFOLFIRINOX) as frontline therapy for patients with advanced PDAC. The PD-1 inhibitor to be used in the present study is retifanlimab, a humanized, hinge-stabilized immunoglobulin G4 (IgG4) monoclonal antibody. Retifanlimab has shown positive results for the treatment of patients with squamous carcinoma of the anal canal (SCAC) who have progressed after first-line chemotherapy treatment. In the Phase 2 PODIUM-202 trial, retifanlimab was well-tolerated at a dose of 500 mg administered via IV infusion every 4 weeks (28-day cycle) for up to 2 years.The combination of 9-ING-41 and retifanlimab with mFOLFIRINOX has not previously been administered to human subjects. In the 1801 study, 9-ING-41 has been administered in combination with various chemotherapy regimens including irinotecan,and has been well-tolerated. Retifanlimab alone has been well-tolerated when administered for up to 2 years in patients with anal cancer. Overall, based on previous nonclinical and clinical experience, both of these agents appear to have an acceptable safety profile and do not appear to have significant overlapping toxicities. However, it is possible that when they are administered together and in combination with mFOLFIRINOX, more frequent or severe AEs, or new AEs not previously observed with any of these agents administered alone, may occur. It is not known if administration of 9-ING-41 and retifanlimab will act synergistically to provide increased anti-tumor activity compared to mFOLFIRINOX alone. Subjects in this study should not expect to benefit directly by their participation in the study. The data collected in this study may benefit future cancer patients",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06896188",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06896188"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-03-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anwaar Saeed",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06896188"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Glycogen Synthase Kinase 3-beta (GSK-3β) inhibitor",
+  "PD-1 inhibitor"
+ ],
+ "title": "9-ING-41 Combined With Retifanlimab, Plus Modified FOLFIRINOX for Patients With Advanced Pancreatic Adenocarcinoma (RiLEY)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "diecksda@upmc.edu",
+    "name": "Debra Diecks, BSN",
+    "phone": "412-623-8364"
+   },
+   {
+    "email": "kennaj@upmc.edu",
+    "name": "Amy Rose, BSN",
+    "phone": "412-647-8587"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Is able to understand and voluntarily sign a written informed consent and is willing and able to comply with the protocol requirements including scheduled visits, treatment plan, laboratory tests and other study procedures.\n* Is aged ≥ 18 years.\n* Has pathologically confirmed advanced, recurrent, or metastatic pancreatic cancer AND is previously untreated with systemic agents in the advanced/metastatic setting.\n* Must have at least 1 measurable lesion per RECIST v1.1. Lesions that are radiated should not count as target lesions unless there is evidence of growth post radiation on a subsequent scan prior to trial enrollment.\n* Must have available archived FFPE tumor tissue at study entry; FFPE tissue block preferred or 10 unstained slides (metastatic tissue preferred to primary tissue) OR if FFPE archived tissue is not available, willing to provide a standard fresh tumor biopsy prior to start of study treatment for molecular profiling of the tumor using standard institutional oncomine panel. If oncomine testing has previously been completed, a repeat biopsy or testing is not required.\n* Has laboratory function within specified parameters (may be repeated):\n* Adequate bone marrow function: absolute neutrophil count (ANC) ≥ 1,500/mL; hemoglobin ≥ 8.5 g/dL, platelets ≥ 100,000/mL\n* Adequate liver function: transaminases (aspartate aminotransferase/ alanine aminotransferase, AST/ALT) and alkaline phosphatase ≤ 2.5 x ULN (≤ 5 X the upper limit of normal (ULN) in the setting of liver metastasis or infiltration with malignant cells); bilirubin ≤ 1.5 x ULN\n* Adequate renal function: CrCl \\> 60 mL/min measured or calculated by Cockcroft-Gault (C-G) equation (estimated glomerular filtration rate \\[eGFR\\] can also be used in place of CrCl)\n* Serum amylase and lipase ≤ 1.5 x ULN\n* Eastern Co-operative Oncology Group (ECOG) performance status (PS) 0 - 1 (Appendix A)\n* Has received the final dose of any of the following treatments/ procedures within the specified minimum intervals before first dose of study drug:\n* Focal radiation therapy - 7 days\n* Surgery with general anesthesia - 7 days\n* Surgery with local anesthesia - 7 days\n* May have received treatment with fluorouracil or gemcitabine as a radiation sensitizer in the adjuvant setting if the treatment was received at least 6 months before study enrollment.\n* May have received neoadjuvant chemotherapy with FOLFIRINOX if given at least 6 months before study enrollment.\n* May have received prior cytotoxic doses of systemic chemotherapy in the adjuvant setting if given at least 6 months before study enrollment.\n* Women of childbearing potential must have a negative baseline blood or urine pregnancy test within 72 hours of first study therapy. Women may be neither breastfeeding nor intending to become pregnant during study participation and must agree to use effective contraceptive methods (hormonal AND barrier method of birth control, or true abstinence) for the duration of study participation and in the following 9 months after discontinuation of study treatment.\n* Male patients with partners of childbearing potential must take appropriate precautions to avoid fathering a child from screening until 9 months after discontinuation of study treatment and use appropriate barrier contraception or true abstinence.\n* Must not be receiving any other investigational medicinal product.\n\nExclusion Criteria:\n\n* Is pregnant or lactating.\n* Is known to be hypersensitive to any of the components or metabolites of 9-ING-41 or to the excipients used in its formulation, or known sensitivity to one of the chemotherapeutic agents or to the PD-1 inhibitor.\n* History of receiving prior treatment with any anti-PD-1, PD-L1 or PD-L2 agent.\n* Has endocrine or acinar pancreatic carcinoma.\n* Has not recovered from clinically significant toxicities as a result of prior anticancer therapy, except alopecia, anemia not requiring transfusion support and infertility. Recovery is defined as ≤ Grade 1 or baseline severity per Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0 (v5.0).\n* Has significant cardiovascular impairment: history of congestive heart failure greater than New York Heart Association (NYHA) Class II, unstable angina, or stroke within 6 months of the first dose of 9-ING-41, or cardiac arrhythmia requiring medical treatment detected at screening.\n* Has had a myocardial infarction within 12 weeks of the first dose of 9-ING-41 or has electrocardiogram (ECG) abnormalities that are deemed medically relevant by the treating investigator or PI.\n* Has symptomatic rapidly progressive brain metastases or leptomeningeal involvement as assessed by computed tomography (CT) scan or magnetic resonance imaging (MRI). Patients with stable brain metastases or leptomeningeal disease or slowly progressive disease are eligible provided that they have not required new treatments for this disease in a 28-day period before the first dose of study drug, and anticonvulsants and steroids are at a stable dose for a period of 14 days prior to the first dose of study drug.\n* Has had major surgery (not including placement of central lines) within 7 days prior to study entry or is planned to have major surgery during the course of the study (major surgery may be defined as any invasive operative procedure in which an extensive resection is performed, e.g., a body cavity is entered, organs are removed, or normal anatomy is altered). In general, if a mesenchymal barrier is opened (pleural cavity, peritoneum, meninges), the surgery is considered major.\n* Has any medical and/or social condition that, in the opinion of the investigator would preclude study participation.\n* Has received an investigational anti-cancer drug in the 14-day period before the first dose of study drug (or within 5 half-lives if longer) or is currently participating in another interventional clinical trial.\n* Has a current malignancy other than pancreatic cancer.\n* Known immunodeficiency syndrome or active autoimmune disease or requiring systemic immunosuppression in excess of physiologic maintenance doses of corticosteroids (\\> 10 mg/day of prednisone or equivalent).\n* Physiologic corticosteroid replacement therapy at doses \\> 10 mg/day of prednisone or equivalent for adrenal or pituitary insufficiency and in the absence of active autoimmune disease is permitted.\n* Participants with asthma that requires intermittent use of bronchodilators, inhaled steroids, or local steroid injections may participate.\n* Participants using topical, ocular, intra-articular, or intranasal steroids (with minimal systemic absorption) may participate.\n* Brief courses of corticosteroids for prophylaxis (eg, contrast dye allergy) or study treatment-related standard premedication are permitted.\n* Evidence of interstitial lung disease, history of interstitial lung disease, or active, noninfectious pneumonitis.\n* Palliative radiation therapy administered within 1 week of first dose of study treatment or radiation therapy that is \\> 30 Gy within 6 months of the first dose of study treatment. Note: Participants must have recovered from all radiation-related toxicities, not require corticosteroids for this purpose, and not have had radiation pneumonitis.\n* Has received systemic antibiotics ≤ 7 days prior to the first dose of study drug.\n* History of organ transplant, including allogeneic stem cell transplantation.\n* Known hypersensitivity to another monoclonal antibody that cannot be controlled with standard measures (eg, antihistamines and corticosteroids).\n* Known allergy or hypersensitivity to any component of retifanlimab or formulation components.\n* Has received a live vaccine within 28 days of the planned start of study drug.\n* Patients with known history of UGT1A1 gene polymorphism.",
+  "enrollment": 12,
+  "has_results": false,
+  "interventions": [
+   "Retifanlimab",
+   "Chemotherapy",
+   "9-ING-41"
+  ],
+  "last_update_posted": "2026-09-24",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06896188",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-03-30",
+  "sex": "ALL",
+  "sponsor": "Anwaar Saeed",
+  "start_date": "2025-09-22",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

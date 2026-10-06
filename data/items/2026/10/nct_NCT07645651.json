@@ -1,0 +1,92 @@
+{
+ "abstract": "The purpose of this study is to evaluate the safety and efficacy of samuraciclib in patients with localized pancreatic cancer.\n\nThis is a single-institution, single-arm, open-label, Phase 1 study designed to evaluate whether samuraciclib, a cyclin dependent kinase 7 inhibitor (CDK7), alters the cellular functioning of the pancreatic tumor cells.\n\nOUTLINE:\n\nPatients will receive samuraciclib orally (PO) once daily (QD) for 14 days on study following their diagnosis of pancreatic cancer and before starting chemotherapy or undergoing surgery for their cancer. Patients will undergo an endoscopic ultrasound (EUS) with fine needle biopsy (FNB) while on study.\n\nAfter completion of study treatment, patients are followed up at 30 and 90 days.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07645651",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07645651"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-06-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Washington",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07645651"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Samuraciclib for the Treatment of Patients With Resectable, Borderline Resectable, or Locally Advanced Basal Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Resectable Pancreatic Ductal Adenocarcinoma",
+   "Borderline Resectable Pancreatic Ductal Adenocarcinoma",
+   "Locally Advanced Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "giresearch@fredhutch.org",
+    "name": "Isabel Blanco",
+    "phone": "206-606-5864"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically proven basal pancreatic adenocarcinoma. Histologies other than adenocarcinoma, or any mixed histologies, will NOT be eligible.\n\n  * Basal tumors are defined as GATA6- and HMGA2+. Tumor cores are considered positive for GATA6 or HMGA2 if greater than 10% of tumor epithelial cells had positive nuclei\n* Resectable, borderline resectable, or locally advanced pancreatic ductal adenocarcinoma (PDA) at diagnosis based on contrast-enhanced CT or magnetic resonance imaging (MRI) (CT or MRI without contrast as part of positron emission tomography (PET)/CT or PET/MRI is NOT acceptable; CT or MRI with contrast as part PET/CT or PET/MRI is acceptable) of the chest, abdomen, and pelvis. The institutional radiologist must review the scans. Resectable, borderline resectable, and locally advanced will be defined by National Comprehensive Cancer Network (NCCN) guidelines version 2.2025.\n\n  * There must be no evidence of metastatic disease\n* Must be 18 years or older\n* Ability to understand and willingness to sign a written informed consent document\n* Archival biopsy specimen collected within 3 months must be available. If not available, a diagnostic EUS/FNB will be performed during screening\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Absolute neutrophil count (ANC) ≥ 1,500/mcL (within 14 days prior to study drug)\n* Platelets ≥ 100,000/mcL (within 14 days prior to study drug)\n* Hemoglobin ≥ 9 g/dL (within 14 days prior to study drug)\n* Creatinine clearance ≥ 50 ml/min by Cockcroft-Gault\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) both ≤ 2.5X ULN (within 14 days prior to study drug)\n* Total bilirubin ≤ 1.5X ULN (within 14 days prior to study drug)\n* Participants must not be pregnant or nursing. Women of childbearing potential (WOCBP) must have a negative urine pregnancy test within 72 hours of treatment initiation, where WOCBP are defined as all female participants between 18 - 55 years of age. Participants of child-bearing potential must be willing to employ two highly effective and acceptable forms of contraception for up to 6 months after the final administered dose of investigational agent. A woman is considered to be of reproductive potential if she has had menses at any time in the preceding 12 consecutive months\n* HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n\nExclusion Criteria:\n\n* Prior radiation\n* Unable to tolerate oral medication, per assessment of the principal investigator (PI)\n* Participants who are receiving other investigational agents\n* Concomitant mediation use should only exclude patients from trial participation when clinically relevant known or predicted drug-drug interactions or potential overlapping toxicities will impact safety or efficacy\n* Uncontrolled or concurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Refractory nausea and vomiting, chronic gastrointestinal diseases or previous significant bowel resection with clinically significant sequelae that precluded adequate absorption of samuraciclib\n* Uncontrolled seizures\n* Active infection\n* Active bleeding diatheses\n* Known active hepatitis B or hepatitis C infection\n* Breastfeeding or pregnancy\n* Receipt of systemic corticosteroids within 14 days before the first dose of study medication\n* Receipt of St. John's Wort within 21 days before the first dose of study medication or of another concomitant medication, herbal supplement, or food that was a strong inhibitor or inducer of CYP3A4, CYP2C19, CYP2D6, or P-glycoprotein activity within 21 days before the first dose of samuraciclib\n* Known hypersensitivity to samuraciclib or any excipient of the product",
+  "enrollment": 15,
+  "has_results": false,
+  "interventions": [
+   "Samuraciclib",
+   "Computed Tomography",
+   "Endoscopic Ultrasound Biopsy",
+   "Biospecimen Collection"
+  ],
+  "last_update_posted": "2026-09-21",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07645651",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-07-14",
+  "sex": "ALL",
+  "sponsor": "University of Washington",
+  "start_date": "2026-10-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

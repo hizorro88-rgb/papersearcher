@@ -1,0 +1,109 @@
+{
+ "abstract": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of RMC-5127 as a monotherapy and in combination with either daraxonrasib or cetuximab in adults with KRAS G12V-mutant solid tumors.\n\nThis is an open-label, multicenter, Phase 1/1b study of RMC-5127 in adults with advanced KRAS G12V-mutant solid tumors to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary clinical activity. The study consists of three arms: RMC-5127 monotherapy arm, RMC-5127 plus daraxonrasib combination arm, and RMC-5127 plus cetuximab combination arm. All arms consist of two parts: Part 1- dose exploration and Part 2- dose expansion. Both parts of the monotherapy arm may include Food Effect Cohorts.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07349537",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07349537"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-01-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Revolution Medicines, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07349537"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Advanced Solid Tumors",
+  "Pancreatic Cancer",
+  "Pancreatic Ductal Adenocarcinoma",
+  "PDAC",
+  "Colorectal Cancer",
+  "CRC",
+  "Lung Cancer",
+  "Non-small Cell Lung Cancer",
+  "NSCLC",
+  "RAS"
+ ],
+ "title": "Study of RMC-5127 in Patients With Advanced KRAS G12V-Mutant Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Adenocarcinoma",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "PDAC",
+   "CRC",
+   "NSCLC",
+   "Pancreatic Cancer",
+   "Lung Cancer (NSCLC)",
+   "Advanced Solid Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "medinfo@revmed.com",
+    "name": "Revolution Medicines Study Director",
+    "phone": "1-844-2-REVMED"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Pathologically documented, locally advanced or metastatic KRAS G12V-mutated solid tumor malignancy.\n* Received and progressed or been intolerant to prior standard therapy (including targeted therapy) appropriate for tumor type and stage.\n* Measurable per RECIST v1.1\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Primary central nervous system (CNS) tumors\n* Prior therapy with KRAS G12V inhibitor or direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* Any conditions that may affect the ability to take or absorb study drug.\n* Major surgery within 28 days prior to receiving study drug(s).\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures.",
+  "enrollment": 574,
+  "has_results": false,
+  "interventions": [
+   "RMC-5127",
+   "daraxonrasib",
+   "cetuximab"
+  ],
+  "last_update_posted": "2026-09-17",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 9,
+  "nct_id": "NCT07349537",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-04",
+  "sex": "ALL",
+  "sponsor": "Revolution Medicines, Inc.",
+  "start_date": "2026-01-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

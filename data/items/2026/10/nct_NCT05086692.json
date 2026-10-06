@@ -1,0 +1,171 @@
+{
+ "abstract": "This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion study to evaluate safety and tolerability, PK, pharmacodynamic, and early signal of anti-tumor activity of MDNA11 alone or in combination with a checkpoint inhibitor in patients with advanced solid tumors.\n\nThe study drug, MDNA11, long-acting \"beta-only\" recombinant interleukin-2 (rIL-2). MDNA11 specifically engineered to overcome the shortcomings of rhIL-2 (aldesleukin) by preferentially activating immune effector cells (CD8+ T- and NK cells) responsible for killing cancer cells, with minimal or no stimulation of immunosuppressive Tregs. It is designed to potentially enhance host immune response and fusion to albumin increases the half-life further avoiding frequent dosing required with rhIL-2.\n\nThe study will be conducted at up to 30 clinical sites following regulatory authority and institutional review board / independent ethics committee (IRB/ IEC) approval and completion of informed consent. The study will be conducted in multiple parts:\n\n* Monotherapy (MDNA11 alone) dose escalation\n* Monotherapy (MDNA11 alone) dose expansion in select tumor types\n* Combination (MDNA11 + pembrolizumab) dose escalation\n* Combination (MDNA11 + pembrolizumab) dose expansion in select tumor types\n\nApproximately 115 patients will be enrolled.\n\nAfter commencing treatment (first exposure of MDNA11 alone or MDNA11 + pembrolizumab), tumor assessment by CT/MRI will be performed every 8 weeks ± 1 week until immune confirmed progressive disease (\"iCPD\") by iRECIST, discontinuation of study drug(s), withdrawal of consent or loss to follow-up. Treatment beyond progression may be permitted if criteria are met. Patients can withdraw from participation at any time.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05086692",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05086692"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2021-10-21",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medicenna Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05086692"
+ },
+ "summary_ko": "This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion study to evaluate safety and tolerability, PK, pharmacodynamic, and early signal of anti-tumor activity of MDNA11 alone or in combination with a checkpoint inhibitor in patients with advanced solid tumors. The study drug, MDNA11, long-acting \"beta-only\" recombinant interleukin-2 (rIL-2).",
+ "summary_source": "excerpt",
+ "tags": [
+  "IL-2",
+  "IL2",
+  "Interleukin-2",
+  "cancer",
+  "metastatic",
+  "ccRCC",
+  "TNBC",
+  "NSCLC",
+  "CRC",
+  "GEJ"
+ ],
+ "title": "A Beta-only IL-2 ImmunoTherapY Study",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Unresectable Solid Tumor",
+   "Clear Cell Renal Cell Carcinoma",
+   "Triple Negative Breast Cancer",
+   "Non-Small Cell Lung Cancer Squamous",
+   "Non-Small Cell Lung Cancer Non-squamous",
+   "Colorectal Cancer (MSI-H)",
+   "Gastric Cancer",
+   "Cervical Cancer",
+   "Basal Cell Carcinoma",
+   "Bladder Cancer",
+   "Merkel Cell Carcinoma",
+   "Squamous Cell Carcinoma of Head and Neck",
+   "Cutaneous Squamous Cell Carcinoma",
+   "Pleural Mesothelioma",
+   "Esophageal Cancer",
+   "Endometrial Carcinoma",
+   "Solid Tumor",
+   "Solid Tumor, Adult",
+   "MSI-H Solid Malignant Tumor",
+   "Cancer With A High Tumor Mutational Burden",
+   "Epithelial Ovarian Carcinoma",
+   "Primary Peritoneal Cancer",
+   "Gastroesophageal Junction (GEJ) Cancer",
+   "Acral Melanoma",
+   "Mucosal Melanoma",
+   "Cutaneous Melanoma",
+   "DMMR Solid Malignant Tumor",
+   "Fallopian Tube Cancer",
+   "Ovarian Cancer",
+   "MSI-H Cancer",
+   "DMMR Cancer",
+   "Pancreas Adenocarcinoma (MSI-H)",
+   "Skin Cancer",
+   "Viral Cancer",
+   "Cervical Cancers",
+   "Endometrial Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "nmerchant@medicenna.com",
+    "name": "Nina Merchant",
+    "phone": "604-340-3081"
+   },
+   {
+    "email": "mcoello@medicenna.com",
+    "name": "Melissa Coello",
+    "phone": "267-476-2313"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria:\n\n1. Aged at least 18 years (inclusive at the time of informed consent).\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1.\n3. Must be able and willing to provide written informed consent prior to start of any study procedures and assessments and must be willing to comply with all study procedures.\n4. Histologically or cytologically confirmed locally advanced or metastatic solid tumor (see tumor types listed under conditions)\n5. Demonstrated adequate organ function\n6. Measurable disease as per Response Evaluation Criteria in Solid Tumors, (RECIST v1.1) and documented by CT and/or MRI.\n7. Life expectancy of ≥ 12 weeks.\n8. Women of childbearing potential (WOCBP) must have a negative pregnancy test at screening and within 72 hours before the first dose of study drug(s). Women must not be breastfeeding.\n9. Agree to use highly effective contraception methods. WOCBP must agree to use highly effective birth control.\n\nKey Exclusion Criteria:\n\n1. Last administration of prior antitumor therapy:\n\n   * Prior systemic anti-cancer therapy including investigational agents within 4 weeks (could consider shorter interval for kinase inhibitors or other short half-life drugs) prior to start of treatment.\n   * Prior radiotherapy within 2 weeks prior to start of treatment or has had a history of radiation pneumonitis. A 1-week washout is required for palliative radiation (\\<2 weeks of radiotherapy) to non-CNS disease.\n   * Radiation therapy to the lung that is \\> 30Gy within 6 months prior to start of treatment.\n   * Currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to start of treatment. Concomitant participation in an observational study must be discussed on a case-by-case basis with the MM for approval.\n2. Has known active CNS metastases and/or carcinomatous meningitis. Patients with previously treated brain metastases may participate provided they are radiologically stable, i.e., without evidence of progression for at least 4 weeks by repeat imaging (note that the repeat imaging should be performed during study screening), clinically stable and without requirement of steroid treatment for at least 14 days prior to start of treatment, subject to discussion with MM.\n3. Active malignancy (other than the disease under treatment in the study) within the previous 3 years except for curable cancers.\n4. Condition requiring long-term systemic treatment with either corticosteroids \\> 10 mg daily prednisone equivalent or any other form of immunosuppressive therapy within 7 days prior to start of treatment.\n5. Clinically significant active, known or suspected autoimmune disease, or diseases that can be exacerbated with immunotherapy.\n6. Severe pulmonary, cardiac or other systemic disease.\n7. Known hepatitis B or C virus infection.\n8. Females who are pregnant or lactating or planning to become pregnant during the study.\n9. Has had an allogeneic tissue/solid organ transplant.\n10. Active infection requiring systemic therapy.\n11. Any medical, emotional or psychiatric condition that interfere with the patient's ability to adhere to the protocol\n12. Any other underlying medical conditions that, in the Investigator's opinion, will make the administration of study drug(s) unsafe or obscure the interpretation of toxicity determination or adverse events.\n13. Known severe hypersensitivity to any component of study drug(s).\n14. Inability to comply with study and follow up procedures as judged by the Investigator.",
+  "enrollment": 115,
+  "has_results": false,
+  "interventions": [
+   "MDNA11",
+   "Pembrolizumab (KEYTRUDA®)"
+  ],
+  "last_update_posted": "2025-07-09",
+  "location_countries": [
+   "Australia",
+   "Canada",
+   "Ireland",
+   "Portugal",
+   "South Korea",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": "ACTIVE_NOT_RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Seoul National University Bundang Hospital",
+    "status": "ACTIVE_NOT_RECRUITING"
+   },
+   {
+    "city": "Suwon",
+    "country": "South Korea",
+    "facility": "The Catholic University of Korea St. Vincent Hospital",
+    "status": "ACTIVE_NOT_RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "ACTIVE_NOT_RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 27,
+  "nct_id": "NCT05086692",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2026-06-30",
+  "sex": "ALL",
+  "sponsor": "Medicenna Therapeutics, Inc.",
+  "start_date": "2021-08-27",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

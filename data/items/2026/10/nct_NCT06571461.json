@@ -1,0 +1,91 @@
+{
+ "abstract": "This study will evaluate the efficacy and safety of adjuvant therapy with liposomal irinotecan in combination with oxaliplatin, and S-1 compared with capecitabine combined with capecitabine in participants with pancreatic ductal adenocarcinoma after radical surgery.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06571461",
+ "importance": 0.86,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06571461"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2024-08-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06571461"
+ },
+ "summary_ko": "This study will evaluate the efficacy and safety of adjuvant therapy with liposomal irinotecan in combination with oxaliplatin, and S-1 compared with capecitabine combined with capecitabine in participants with pancreatic ductal adenocarcinoma after radical surgery.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Liposomal Irinotecan in Combination With Oxaliplatin and S-1 Versus Gemcitabine Combined With Capecitabine as Postoperative Adjuvant Therapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ctr-contact@cspc.cn",
+    "name": "Clinical Trials Information Group officer",
+    "phone": "86-0311-69085587"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients able and willing to provide a written informed consent aged 18-75 years.\n2. Histologically confirmed resected ductal pancreatic adenocarcinoma (including adenosquamous carcinoma).\n3. Undergone radical resection and confirmed macroscopic complete resection (R0 and R1).\n4. Full recovery after surgery; able to start adjuvant treatment within 12 weeks after surgery.\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n6. The main organs function well.\n\nExclusion Criteria:\n\n1. Patients with other types of non-ductal tumor of the pancreas, including endocrine tumors or acinar cell adenocarcinoma, pancreatoblastoma, and solid-pseudopapillary tumor.\n2. Macroscopic incomplete tumor removal (R2 resection).\n3. Prior neo-adjuvant treatment, radiation therapy, or systemic therapy for pancreatic adenocarcinoma.\n4. Presence or history of metastatic or locally recurrent pancreatic adenocarcinoma.\n5. CA 19-9\\> 180 U / ml within 21 days before randomization.\n6. The toxicity of previous therapy has not recovered to Grade 1 or below.\n7. Known peripheral neuropathy (CTCAE ≥ Grade 2).\n8. Known deficiency of dihydropyrimidine dehydrogenase (DPD)\n9. Subjects with a confirmed diagnosis of Gilbert's syndrome",
+  "enrollment": 408,
+  "has_results": false,
+  "interventions": [
+   "Liposomal Irinotecan",
+   "Oxaliplatin",
+   "S-1",
+   "Gemcitabine",
+   "Capecitabine"
+  ],
+  "last_update_posted": "2024-08-27",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06571461",
+  "phase": "PHASE3",
+  "primary_completion_date": "2028-01",
+  "sex": "ALL",
+  "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+  "start_date": "2024-09",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

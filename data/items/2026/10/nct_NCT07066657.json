@@ -1,0 +1,96 @@
+{
+ "abstract": "This is an open-label, multi-center, phase I study to evaluate the safety, tolerability, efficacy, and pharmacokinetics of MRG007 (ARR-217) in patients with unresectable locally advanced or metastatic solid tumors.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07066657",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07066657"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-07-15",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ArriVent BioPharma, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07066657"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "MRG007",
+  "Advanced or Metastatic Solid Tumors",
+  "CDH17",
+  "ARR-217",
+  "ADC"
+ ],
+ "title": "A Study of MRG007 (ARR-217) in Patients With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced or Metastatic Solid Tumors",
+   "Colorectal Cancer",
+   "Gastric Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ClinicalTrials.gov@ArriVent.com",
+    "name": "Clinical Trials",
+    "phone": "(888) 622-2827"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "1. Willing to sign the informed consent form and follow the requirements specified in the protocol.\n2. Life expectancy ≥ 3 months.\n3. Tumor specimen available for CDH17 testing, or agree to biopsy at baseline.\n4. Patients with histologically and cytologically confirmed advanced or metastatic solid tumor who have failed or intolerant to standard therapy, or without alternative standard therapy.\n5. Patients must have at least one measurable lesion according to the Response Evaluation Criteria in Solid Tumors (RECIST v1.1).\n6. The score of ECOG for performance status is 0 or 1.\n7. Organ functions and coagulation function must meet the basic requirements.\n8. Patients with childbearing potential must use effective contraception during the treatment and for 6 months after the last dose of treatment.\n\nExclusion Criteria:\n\n1. Patients with more than one cancer.\n2. Received CDH17-targeting anti-tumor therapy; received other investigational product, systemic corticosteroids or surgery for major organs within 4 weeks prior to the first dose; received anti-tumor therapy within 3 weeks or within 5 half-lives prior to the first dose, whichever is shorter; received radiotherapy within 2 weeks prior to the first dose; received strong CYP3A4 inducers or inhibitors within 2 weeks prior to the first dose or 5 half-lives, whichever is longer; investigational therapy within 4 weeks or 5 half-lives (whichever is shorter) prior to the first dose.\n3. ≥Grade 2 toxic reaction or abnormal value of laboratory test caused by previous anti-tumor treatment\n4. Symptomatic Central nervous system and/or meninges metastasis.\n5. History of severe cardiovascular diseases\n6. Cerebrovascular accident, pulmonary embolism, or deep venous thrombosis within 3 months prior to the first dose, implantable venous infusion port or catheter-related thrombosis, or superficial venous thrombosis\n7. History of previous or combined interstitial pneumonia, current interstitial pneumonia, or suspected interstitial pneumonia that cannot be ruled out through imaging during screening, severe chronic obstructive pulmonary disease with respiratory failure, severe pulmonary dysfunction, symptomatic bronchospasm, etc.\n8. Poorly controlled pleural, peritoneal, and pelvic effusion, or combined pericardial effusion\n9. Infection of active hepatitis B, active hepatitis C, or HIV\n10. Uncontrolled active bacterial, viral, fungal, rickettsial, or parasitic infections requiring intravenous anti-infection therapy within 2 weeks prior to the first study treatment\n11. Known allergic reactions to any component of MRG007, or known Grade≥3 allergic reactions to other prior anti-CDH17 (including investigational) or other monoclonal antibody.\n12. Other situations that are not suitable to participate a clinical trial per investigator's judgement\n13. Additional protocol-defined exclusion criteria apply",
+  "enrollment": 572,
+  "has_results": false,
+  "interventions": [
+   "MRG007",
+   "MRG007 and Bevacizumab"
+  ],
+  "last_update_posted": "2026-08-13",
+  "location_countries": [
+   "China",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 21,
+  "nct_id": "NCT07066657",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-03",
+  "sex": "ALL",
+  "sponsor": "ArriVent BioPharma, Inc.",
+  "start_date": "2025-07-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

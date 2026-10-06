@@ -1,0 +1,99 @@
+{
+ "abstract": "This phase III trial compares the effect of using lanreotide before surgery to surgery alone in preventing pancreatic fistulas in patients with pancreatic cancer or a pancreatic lesion that could become cancerous. Lanreotide, a type of somatostatin analog similar to somatostatin (a hormone made by the body), and is used to treat certain types of gastroenteropancreatic neuroendocrine tumors, and carcinoid syndrome. It may help stop the body from making extra amounts of certain hormones, including growth hormone, insulin, glucagon, and hormones that affect digestion. It may also help keep certain types of tumor cells from growing. Patients with pancreatic cancer or pancreatic lesions may undergo surgery to remove parts of the pancreas, also called a distal pancreatectomy. Patients may experience complications after surgery, including pancreatic fistulas. A pancreatic fistula occurs when there is a small leak from the pancreas, causing fluids to collect. This can often lead to infection and other problems. Giving lanreotide before undergoing distal pancreatectomy may be more effective than surgery alone in preventing the development of a pancreatic fistula in patients with pancreatic cancer or a pancreatic lesion that could become cancerous.\n\nPRIMARY OBJECTIVE:\n\nI. To compare the incidence of postoperative pancreatic fistula (POPF) occurring within 60 days after surgery in participants randomized to receive preoperative lanreotide versus placebo prior to undergoing distal pancreatectomy for biopsy-proven or suspected neoplasm.\n\nSECONDARY OBJECTIVES:\n\nI. To compare the incidence of International Study Group of Pancreatic Surgery (ISGPS)-defined biochemical leak occurring within 60 days after surgery in participants randomized to receive preoperative lanreotide versus placebo in the subset of participants with a drain placed.\n\nII. To compare the number of postoperative days in the hospital within 60 days after surgery in participants randomized to receive preoperative lanreotide versus placebo.\n\nIII. To compare change from baseline in cancer-specific quality of life at 14 and 60 days after surgery, as measured by the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ) Core 30-(C30), in participants randomized to receive preoperative lanreotide versus placebo.\n\nADDITIONAL OBJECTIVES:\n\nI. To compare change from baseline in pancreatic cancer-specific quality of life and overall health-related quality of life at 14 and 60 days after surgery, as measured by the EORTC QLQ- Pancreatic Cancer 26 (PAN26) and European Quality of Life Five Dimension Five Level (EQ-5D-5L), in participants randomized to receive preoperative lanreotide versus placebo.\n\nII. To compare the proportions of participants with common postoperative sequelae associated with POPF, including ISGPS delayed gastric emptying and ISGPS post pancreatectomy hemorrhage (grades B/C) occurring within 60 days after surgery, in participants randomized to receive preoperative lanreotide versus placebo.\n\nIII. To compare time from surgery to initiation of adjuvant chemotherapy among participants with pancreatic ductal adenocarcinoma and planned adjuvant chemotherapy randomized to receive preoperative lanreotide versus placebo.\n\nBANKING OBJECTIVE:\n\nI. To bank blood, pancreas fluid, and tissue specimens for future correlative studies.\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive lanreotide subcutaneously (SC) over 20 seconds and within 36 hours of planned distal pancreatectomy. Patients also undergo blood sample collection immediately prior to surgery and on post-operative days 1 and 3. Additionally, patients may undergo collection of pancreas fluid on post-operative days 1 and 3.\n\nARM II: Patients receive saline placebo SC over 20 seconds and within 36 hours of planned distal pancreatectomy. Patients also undergo blood sample collection immediately prior to surgery and post-operatively on days 1 and 3. Additionally, patients may undergo collection of pancreas fluid on post-operative days 1 and 3.\n\nAfter completion of study treatment, patients are followed up at 4, 8 and 12 months after surgery.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06807437",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06807437"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-02-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "SWOG Cancer Research Network",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06807437"
+ },
+ "summary_ko": "This phase III trial compares the effect of using lanreotide before surgery to surgery alone in preventing pancreatic fistulas in patients with pancreatic cancer or a pancreatic lesion that could become cancerous. Lanreotide, a type of somatostatin analog similar to somatostatin (a hormone made by the body), and is used to treat certain types of gastroenteropancreatic neuroendocrine tumors, and carcinoid syndrome.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Lanreotide Versus Placebo Before Surgery to Prevent a Surgical Complication Called a Pancreatic Fistula",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Carcinoma",
+   "Pancreatic Neoplasm"
+  ],
+  "contacts": [
+   {
+    "email": "agarcia@swog.org",
+    "name": "Andrea Garcia",
+    "phone": "210-614-8808"
+   },
+   {
+    "email": "dsparks@swog.org",
+    "name": "Dana Sparks",
+    "phone": "210-614-8808"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participants must have histologically or radiographically confirmed diagnosis of pancreatic cancer or a pancreatic lesion with malignant potential\n* Participants must have an elective distal pancreatectomy planned to occur within 60 days after registration/randomization date\n* Participants must not have a known history of a prior diagnosis of malabsorption syndrome\n* Participants must not have been treated with any somatostatin analogue within 180 days prior to registration/randomization\n* Participants must not have been treated with radiation therapy for their pancreas malignancy at any time prior to registration/randomization\n* Participants must not have been treated with peptide receptor radionuclide therapy (PRRT) at any time prior to registration/randomization\n* Participants must be ≥ 18 years old\n* Participants must have a complete documented medical history and physical exam within 28 days prior to registration/randomization\n* Participants must have a creatinine ≤ the institutional upper limit of normal (IULN) OR a measured OR calculated creatinine clearance ≥ 50 mL/min using the following Cockcroft -Gault formula within 60 days prior to registration/randomization\n* Participants must complete a pre-registration screening to identify any of the medications below, allowing the study team and treating physician to develop a monitoring plan as needed. Participants taking medications with known interactions with lanreotide may remain eligible if appropriate monitoring and management are in place. These medications include:\n\n  * Diabetes medications (insulin or oral hypoglycemics): Blood sugar will be monitored, and medication dose adjustments made as needed\n  * Cyclosporine: Dosage adjustments may be required to maintain therapeutic levels\n  * Bromocriptine: Dose adjustments may be considered to account for absorption changes\n  * Heart medications (e.g., beta blockers): Heart rate will be monitored, and medication doses adjusted if necessary\n  * CYP3A4-metabolized medications: Dose adjustments may be considered to avoid increased exposure\n* In the opinion of the treating surgeon, based on preoperative data, the participant must not require a modified Appleby-type procedure (distal pancreatectomy with celiac axis resection) or multivisceral resection (e.g., stomach, colon, etc.) at the time of distal pancreatectomy\n\n  * NOTE: planned removal of the gallbladder or spleen at the time of distal pancreatectomy is not considered multivisceral resection and is permissible\n* In the opinion of the treating surgeon, based on preoperative data, the participant must not require a tumor enucleation\n* Participants must not have moderate to severe hepatic impairment as defined by liver enzyme elevation more than 5 times the institutional upper limit of normal (either aspartate aminotransferase \\[AST\\] \\> 190 U/L or alanine aminotransferase \\[ALT\\] \\> 320 U/L) within 60 days prior to registration/randomization. Transient elevation at the time of screening that resolves prior to study enrollment is acceptable\n* Participants must not be pregnant or nursing (nursing includes breast milk fed to an infant by any means, including from the breast, milk expressed by hand, or pumped)\n* Individuals who are of reproductive potential must have agreed to use an effective contraceptive method during the whole period of the study and for three months after the study drug administration, with details provided as a part of the consent process. A person who has had menses at any time in the preceding 12 consecutive months or who has semen likely to contain sperm is considered to be of \"reproductive potential.\" In addition to routine contraceptive methods, \"effective contraception\" also includes refraining from sexual activity that might result in pregnancy and surgery intended to prevent pregnancy (or with a side-effect of pregnancy prevention) including hysterectomy, bilateral oophorectomy, bilateral tubal ligation/occlusion, and vasectomy with testing showing no sperm in the semen\n* Participants must be offered the opportunity to participate in specimen banking\n* Participants who can complete EORTC QLQ-C30, EORTC QLQ-PAN26, and EQ-5D-5L forms in English or Spanish, must be offered the opportunity to participate in the quality-of-life study\n* NOTE: As a part of the OPEN registration process, the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system.\n* Participants must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines\n* For participants with impaired decision-making capabilities, legally authorized representatives may sign and give informed consent on behalf of study participants in accordance with applicable federal, local, and Central Institutional Review Board (CIRB) regulations",
+  "enrollment": 274,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Distal Pancreatectomy",
+   "Lanreotide",
+   "Questionnaire Administration",
+   "Saline"
+  ],
+  "last_update_posted": "2026-03-31",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 118,
+  "nct_id": "NCT06807437",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-11-01",
+  "sex": "ALL",
+  "sponsor": "SWOG Cancer Research Network",
+  "start_date": "2025-05-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

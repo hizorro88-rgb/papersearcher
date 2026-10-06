@@ -1,0 +1,90 @@
+{
+ "abstract": "This phase I trial studies the side effects and best way to give personalized peptide vaccine in patients with pancreatic or colorectal cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment (advanced). Personalized peptide vaccine is a vaccine developed from patient's own tumor cells and blood in order to use as a biological therapy. Biological therapies, such as personalized peptide vaccine may attack tumor cells and stop them from growing or kill them.\n\nPRIMARY OBJECTIVES:\n\nI. Demonstrate that developing a custom vaccine for metastatic pancreatic ductal adenocarcinoma (PDA) and colorectal cancer (CRC) patients is feasible. (cohorts A and B)\n\nII. Show that a custom peptide-based vaccine in combination with imiquiomod, pembrolizumab, and/or sotigalimab (APX005M) is safe. (cohorts A and B and C and D)\n\nSECONDARY OBJECTIVES:\n\nI. Determine the clinical benefit of the peptide vaccine alone or combined with pembrolizumab or pembrolizumab and APX005M. (cohorts A and B and C and D)\n\nII. Demonstrate the antigenicity of each vaccine. (cohorts A and B and C and D)\n\nIII. The change in neoantigen-specific T cell responses at 12 weeks after initiation of personalized peptide vaccination. (cohorts C and D)\n\nIV. Relapse-free survival and circulating tumor deoxyribonucleic acid (ctDNA) clearance rate. (cohorts C and D)\n\nOUTLINE: Patients are assigned to 1 of 3 cohorts.\n\nCOHORT A: Patients receive personalized synthetic tumor-associated peptide vaccine therapy subcutaneously (SC) on day 1 of weeks 0, 1, 3, 4, 6, 12, and 24. Beginning 15 minutes after each vaccine is administered, patients then receive imiquimod cream topically in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) or magnetic resonance imaging (MRI) scans at baseline and at weeks 0 and 6, then every 3 months, and at week 39.\n\nCOHORT B: Patients receive personalized synthetic tumor-associated peptide vaccine therapy SC on day 1 of weeks 0, 1, 3, 4, 6, 12, and 24. Beginning 15 minutes after each vaccine is administered, patients receive imiquimod cream topically. Patients also receive pembrolizumab intravenously (IV) over 30 minutes every 3 weeks until week 24 in the absence of disease progression or unacceptable toxicity. Patients also undergo CT or MRI scans at baseline and at weeks 0 and 6, then every 3 months, and at week 39.\n\nCOHORTS C AND D: Patients receive personalized synthetic tumor-associated peptide vaccine therapy SC on day 1 of weeks 0, 1, 3, 4, 6, 9, 12, 15, 18, 21, and 24. Beginning 15 minutes after each vaccine is administered, patients receive imiquimod cream topically. Patients also receive pembrolizumab IV over 30 minutes every 3 weeks until week 24 in the absence of disease progression or unacceptable toxicity. Beginning about 1 hour after each vaccine, patients also receive sotigalimab IV over 60 minutes on day 1 of weeks 0, 1, 3, 4, 6, 9, 12, 15, 18, 21, and 24 in the absence of disease progression or unacceptable toxicity. Patients also undergo CT or MRI scans at baseline and weeks 6,12, and 24, then every 3 months, and at week 39.\n\nAfter completion of study treatment, patients are followed for 6 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02600949",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02600949"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2015-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02600949"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Personalized Peptide Vaccine in Treating Patients With Advanced Pancreatic Cancer or Colorectal Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Colorectal Adenocarcinoma",
+   "Metastatic Pancreatic Ductal Adenocarcinoma",
+   "Stage IV Colorectal Cancer AJCC v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7",
+   "Stage IVA Colorectal Cancer AJCC v7",
+   "Stage IVB Colorectal Cancer AJCC v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Metastatic CRC or PDA planned to or have undergone complete surgical resection (metastatectomy) and also for PDA participants with localized disease planned for primary tumor resection.\n* Any lines (including zero) of therapy prior to tissue harvest.\n* Adequate tumor tissue availability\n* Adults (age ≥ 18)\n* ECOG PS 0-1\n* Life expectancy \\>12 months for Cohort C and \\>9 months for Cohort D\n* Adequate organ and marrow function\n* Ability to understand and the willingness to sign a written informed consent document.\n* As the effects of a peptide based vaccine, pembrolizumab or APX005M on the developing human fetus are unknown, women of child-bearing potential and men must agree to use adequate contraception at study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant, she should inform her treating physician immediately. Unless surgically sterile by bilateral tubal ligation or vasectomy of partner(s), sexually active participants must use birth control during and for \\>120 days after the study. Abstinence is also an acceptable form of birth control.\n* For Cohort C only: participants must have metastatic CRC and are planned to or have undergone complete metastecomy/ies and agree to have post-operative blood draw for ctDNA testing within 6 weeks following surgical resection.\n\nExclusion Criteria:\n\n* History of HIV or AIDS\n* Patients with brain metastasis\n* Serious autoimmune conditions\n* Use of chronic immune suppressive medications.\n* Uncontrolled concurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Women of child bearing potential who are pregnant or breastfeeding. Women with a positive pregnancy test at enrollment or prior to administration of vaccine. .\n* Has history of (non-infectious) pneumonitis that required steroids, evidence of interstitial lung disease or active, non-infectious pneumonitis.\n* Known history of active TB (Bacillus Tuberculosis).\n* Hypersensitivity to therapy drugs or their components.\n* Has a known additional malignancy that is progressing or requires active treatment.\n* Active coagulopathy.\n* History of arterial thrombosis within 3 months prior to starting study treatment.\n* History of New York Heart Association Class 3-4 heart failure or myocardial infarction within 6 months prior to starting therapy.\n* Known history of Hepatitis B or known active Hepatitis C.",
+  "enrollment": 300,
+  "has_results": false,
+  "interventions": [
+   "Imiquimod",
+   "Pembrolizumab",
+   "Sotigalimab",
+   "Synthetic Tumor-Associated Peptide Vaccine Therapy",
+   "Computed Tomography",
+   "Magnetic Resonance Imaging"
+  ],
+  "last_update_posted": "2026-06-17",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT02600949",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-05-31",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2016-05-11",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

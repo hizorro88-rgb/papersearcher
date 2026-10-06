@@ -1,0 +1,85 @@
+{
+ "abstract": "The effect of neoadjuvant chemotherapy for pancreatic cancer was gradually established. However it has been not clarified which regimen of neoadjuvant treatment for pancreatic cancer is the best.\n\ngemcitabine plus S-1 versus gemcitabine plus nab-paclitaxel",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05268692",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05268692"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2022-03-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Kochi University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05268692"
+ },
+ "summary_ko": "The effect of neoadjuvant chemotherapy for pancreatic cancer was gradually established. However it has been not clarified which regimen of neoadjuvant treatment for pancreatic cancer is the best.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Neoadjuvant"
+ ],
+ "title": "Neoadjuvant Chemotherapy for Pancreatic Cancer Followed by GS and GnP",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nelective pancreatectomy for pancreatic cancer\n\nExclusion Criteria:\n\na previous cancer surgery a body weight loss of \\>10% during the 6 months before surgery the presence of distant metastases seriously impaired function of vital organs because of respiratory, renal, or heart disease.",
+  "enrollment": 500,
+  "has_results": false,
+  "interventions": [
+   "GS",
+   "GnP"
+  ],
+  "last_update_posted": "2022-03-07",
+  "location_countries": [
+   "Japan"
+  ],
+  "locations_kr": [],
+  "max_age": "85 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05268692",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2025-12-31",
+  "sex": "ALL",
+  "sponsor": "Kochi University",
+  "start_date": "2019-01-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

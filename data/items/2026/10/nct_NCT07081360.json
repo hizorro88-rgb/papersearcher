@@ -1,0 +1,104 @@
+{
+ "abstract": "Adjuvant chemotherapy after surgery significantly improved the survival of pancreatic cancer (PC) patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesions which are not being detected in early disease status and improve the R0 resection rate. In addition, it prevents futile surgery by selecting patients with rapid progression of disease. Furthermore, compared to chemotherapy administered after surgery, more patients can complete the planned chemotherapy schedule in neoadjuvant setting.\n\nThere are still few studies worldwide that prospectively explored the efficacy of neoadjuvant chemotherapy in resectable PC and periampullary cancer and the administration of neoadjuvant therapy in resectable PC depends on individual clinical judgment. Therefore, systematic and prospective clinical trials are essential to standardize treatment protocol in resectable PC and periampullary Cancer.\n\nThis randomized controlled trial compares neoadjuvant chemotherapy followed by surgery versus upfront surgery for patients with clearly resectable pancreatic head cancer and periampullary cancer. The study aims to determine if neoadjuvant chemotherapy improves overall survival compared to immediate surgery followed by adjuvant chemotherapy.\n\nPancreatic cancer is the seventh highest cause of death from cancer worldwide, with only 20% of patients presenting with resectable disease. Despite potentially curative resections, 5-year survival remains at 20%. This study evaluates whether neoadjuvant chemotherapy can improve outcomes by eliminating occult metastatic disease and improving resection margins.\n\nPatients with clearly resectable pancreatic head cancer or periampullary cancer will be randomized 1:1 to either neoadjuvant chemotherapy followed by open or laparoscopic pancreaticoduodenectomy (Arm A) or upfront laparoscopic pancreaticoduodenectomy followed by adjuvant chemotherapy (Arm B). The primary endpoint is overall survival, with secondary endpoints including R0 resection rate , disease-free survival and perioperative outcomes.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07081360",
+ "importance": 0.94,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07081360"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-07-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Minia University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07081360"
+ },
+ "summary_ko": "Adjuvant chemotherapy after surgery significantly improved the survival of pancreatic cancer (PC) patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesions which are not being detected in early disease status and improve the R0 resection rate.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic cancer",
+  "Neoadjuvant chemotherapy",
+  "Pancreaticoduodenectomy"
+ ],
+ "title": "Neoadjuvant vs Upfront Surgery for Resectable Pancreatic Cancer and Periampullary Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Periampullary Cancer",
+   "Periampullary Carcinoma Resectable",
+   "Pancreatic Cancer Resectable",
+   "Ampullary Cancer",
+   "Pancreas Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "salehkhairy@mu.edu.eg",
+    "name": "Saleh K Saleh, MD",
+    "phone": "+201201765401"
+   },
+   {
+    "email": "Rabeh.Saleh@mu.edu.eg",
+    "name": "Rabeh K Saleh, MD",
+    "phone": "+201220065443"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed pancreatic head cancer or periampullary carcinoma(endoscopic ultrasound (EUS)-guided biopsy).\n* Clearly resectable disease as defined by National Comprehensive Cancer Network (NCCN) criteria on cross-sectional imaging:\n\nNo involvement or abutment of the celiac artery, common hepatic artery, superior mesenteric artery, or replaced right hepatic artery .\n\nLess than 180 degree interface between tumor and vessel wall of the portal vein or superior mesenteric vein, and patent portal vein/splenic vein confluence No evidence of metastatic disease.\n\n* Eastern Cooperative Oncology Group (ECOG)=0-1 \\& American Society of Anesthesiologists (ASA) score \\<4.\n* Written informed consent.\n* Medical history without previous pancreatic resection or pancreatic cancer.\n* Adequate organ function (liver, kidney, bone marrow) (serum creatinine ≤2.0 mg/dL,reference range 0.5-1.20 mg/dL; serum albumin ≥2.5 g/dL, reference range 3.5-5.3; aspartate aminotransferase (AST) ≤95 U/L, reference range 0-38; Alanine aminotransferase (ALT) ≤102 U/L, reference range 0-41; prothrombin time ≤1.8, reference range 0-1.20; partial thromboplastin time ≤1.8, reference range 0.82-1.25; leukocyte count greater than 3.5×109/L, reference range 4.2-9.0; platelet count greater than 100×109/L, reference range 130-400; hemoglobin ≥9 g/dL, reference range 12-16).\n\nExclusion Criteria:\n\n* Borderline resectable or locally advanced pancreatic or periampullary cancer.\n* Tumor at the body or tail of the pancreas.\n* Distant metastases.\n* Prior chemotherapy , surgery or radiotherapy for pancreatic cancer.\n* Severe comorbidities precluding surgery or chemotherapy.\n* Pregnancy or lactation.\n* Other neoplastic diseases (malignant)diagnosed in the past 5 years.\n* Major surgery or traumatic event in the past 28 days.",
+  "enrollment": 262,
+  "has_results": false,
+  "interventions": [
+   "Neoadjuvant chemotherapy",
+   "Upfront Surgery Group"
+  ],
+  "last_update_posted": "2026-09-11",
+  "location_countries": [
+   "Egypt"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07081360",
+  "phase": "PHASE3",
+  "primary_completion_date": "2028-07-20",
+  "sex": "ALL",
+  "sponsor": "Minia University",
+  "start_date": "2025-07-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

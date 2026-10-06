@@ -1,0 +1,79 @@
+{
+ "abstract": "This study is an Ib/II phase clinical trial evaluating the safety and efficacy of IBI363 combined with chemotherapy as a second-line treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nApproximately 39-48 patients with unresectable locally advanced or metastatic pancreatic cancer, who have progressed on or are intolerant to first-line chemotherapy (albumin-bound paclitaxel + gemcitabine, AG regimen), will be enrolled. Treatment involves IBI363 combined with chemotherapy and continues until disease progression, death, intolerable toxicity, withdrawal of informed consent, initiation of new antitumor therapy, or other protocol-specified reasons for discontinuation.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07342725",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07342725"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-01-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ruijin Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07342725"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Phase Ib/II Study to Evaluate the Safety and Efficacy of IBI363 in Combination With Chemotherapy as Second-Line Therapy for Unresectable Locally Advanced or Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Signed written informed consent form (ICF)\n* Age 18-75 years\n* Histologically/cytologically confirmed, unresectable locally advanced or metastatic pancreatic cancer.\n* Disease progression or intolerance after first-line treatment with the AG regimen (gemcitabine + albumin-bound paclitaxel).\n* ECOG Performance Status(PS) score of 0-1.\n* At least one measurable lesion according to RECIST v1.1 criteria.\n* Adequate organ and bone marrow function\n\nExclusion Criteria:\n\n* Previous histologically/cytologically confirmed components including adenosquamous carcinoma, medullary carcinoma, signet ring cell carcinoma, undifferentiated carcinoma, etc.\n* Prior treatment with PD-1/PD-L1 inhibitors or other immunotherapies.\n* Unresolved \\> Grade 1 toxicities related to prior anticancer therapy (except persistent Grade 2 alopecia, anemia, peripheral neuropathy, correctable electrolyte abnormalities, or well-controlled endocrine disorders with hormone replacement therapy).\n* History of hepatic encephalopathy, seizures, active/new/untreated CNS metastases, spinal compression, carcinomatous meningitis, or leptomeningeal metastases.\n* Clinically significant cardiovascular/cerebrovascular diseases\n* Known hypersensitivity to IL-2, sintilimab, or monoclonal antibody components",
+  "enrollment": 48,
+  "has_results": false,
+  "interventions": [
+   "IBI363 + chemotherapy"
+  ],
+  "last_update_posted": "2026-01-15",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07342725",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "Ruijin Hospital",
+  "start_date": "2026-01-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

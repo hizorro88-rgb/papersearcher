@@ -1,0 +1,85 @@
+{
+ "abstract": "To evaluate the safety and efficacy of HRS-4642 in combination with immunotherapy and chemotherapy in borderline resectable, locally advanced/metastatic pancreatic cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06938282",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06938282"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-04-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai Zhongshan Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06938282"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "An Exploratory Clinical Study of HRS-4642 in Combination With Immunotherapy and Chemotherapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "wang.wenquan@zs-hospital.sh.cn",
+    "name": "Wenquan Wang, Ph.D.",
+    "phone": "13701874954"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age: ≥18 years old, male or female;\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n3. Arm 1 included patients with locally advanced or metastatic pancreatic cancer whose imaging assessment met the guideline definition, and Arm 2 included patients with borderline resectable pancreatic cancer whose imaging assessment met the guideline definition;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Expected survival ≥ 6 months;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 3 months after the last study administration;\n8. Patients volunteered to participate in this study and signed informed consent.\n\nExclusion Criteria:\n\n1. Previously received any systemic therapy, including systemic chemotherapy, immunotherapy, targeted therapy, and anti-tumor Chinese medicine;\n2. Known hypersensitivity to the study drug or any of its components;\n3. Previous or concurrent other malignant tumors;\n4. Participation in a clinical trial of any drug or medical device within 4 weeks prior to the first dose;\n5. Live and attenuated vaccines were administered within 4 weeks prior to the first dose of study drug;\n6. Previous allogeneic hematopoietic stem cell transplantation or organ transplantation;\n7. Active CNS metastases (including CNS metastases with clinical symptoms, brain edema, CNS metastases that have been treated with or required steroid medications in the last 28 days, and CNS metastases that are new or have shown disease progression);\n8. Symptomatic, advanced patients with visceral dissemination and short-term risk of life-threatening complications (including patients with uncontrolled large amounts of exudate \\[thoracic, pericardial, peritoneal\\]); if effusion is drained, those who have been stable for at least 2 weeks after drainage are eligible for enrollment (topical plasmapheresis is permitted on a routine basis prior to signing an informed consent form);\n9. Patients with severe cardiovascular arterial thromboembolism (e.g., myocardial infarction, unstable angina, stroke), NYHA class 2 or greater cardiac insufficiency, and clinically significant supraventricular or ventricular arrhythmias requiring clinical intervention;\n10. Individuals with interstitial lung disease, non-infectious pneumonia or severe and uncontrolled medical illness, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n11. Individuals with congenital or acquired immunodeficiency, such as human immunodeficiency virus (HIV) infection, active hepatitis B (positive hepatitis B virus surface antigen \\[HBsAg\\] test result at screening along with a HBV-DNA test value of ≥10,000 copies/ml \\[2000 IU/ml\\]), active hepatitis C (positive hepatitis C virus antibody \\[HCV-Ab\\] test result at screening), or a combination of hepatitis B and hepatitis B and HCV-RNA. Positive HCV-Ab \\[HCV-Ab\\] test result at screening stage (also HCV-RNA positive) or co-infection with Hepatitis B and Hepatitis C;\n12. Patients with any active autoimmune disease or history of autoimmune disease (e.g., the following, but not limited to: autoimmune hepatitis, interstitial pneumonitis, uveitis, enterocolitis, hepatitis, pituitary gland inflammation, vasculitis, nephritis, and hyperthyroidism; patients with asthma that has resolved completely in childhood and does not require any intervention in adulthood may be included; patients with asthma that requires medical intervention with bronchodilators may not be included);\n13. Systemic therapy with corticosteroids (\\>10 mg/day of prednisone or other equivalent hormone) or other immunosuppressive agents within 2 weeks prior to the first dose; inhaled or topical corticosteroids are allowed in the absence of active autoimmune disease, as well as adrenal hormone replacement therapy at doses of ≤ 10 mg/day of prednisone at efficacious doses;\n14. Presence of clinically significant acute or chronic pancreatitis; patients at high risk for pancreatitis, e.g., serum amylase and/or lipase concentrations ≥3 times ULN;\n15. Other situations that the researcher felt should not be included.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "HRS-4642"
+  ],
+  "last_update_posted": "2026-08-26",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06938282",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-04-30",
+  "sex": "ALL",
+  "sponsor": "Shanghai Zhongshan Hospital",
+  "start_date": "2025-06-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

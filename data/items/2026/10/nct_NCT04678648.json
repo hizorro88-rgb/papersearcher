@@ -1,0 +1,102 @@
+{
+ "abstract": "RSC-101 is a Phase 1a/1b clinical trial of RSC-1255 in adult study participants with advanced solid tumor malignancies who are intolerant of existing therapies known to provide clinical benefit, have disease that has progressed after standard therapy, or have previously failed other therapies. The study has two phases. The purpose of Phase 1a (Dose Escalation) is to confirm the appropriate treatment dose and Phase 1b (Dose Expansion) is to characterize the safety and efficacy of RSC-1255.\n\nRSC-1255 is an orally bioavailable, small-molecule direct pan-mutant and wild-type RAS inhibitor. RSC-101 is a Phase 1a/1b, open-label, multi-center, non-randomized, Dose Escalation and Dose Expansion study in participants with advanced solid tumor malignancies. Study enrollment is approximately 134 participants. All participants receive oral RSC-1255, twice daily as monotherapy. Following Phase 1a (Dose Escalation) to identify the Maximum Tolerated Dose and Recommended Dose for use in Phase 1b, additional participants are enrolled in the Phase 1b (Dose Expansion) to further characterize the safety, pharmacology, and the clinical efficacy of RSC-1255 as monotherapy and in combination with the autophagy inhibitor hydroxychloroquine (HCQ).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04678648",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04678648"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2020-12-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "RasCal Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04678648"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Malignancy",
+  "Cancer",
+  "Refractory",
+  "RAS mutation",
+  "Lung",
+  "Colon",
+  "Glioblastoma",
+  "RSC-1255",
+  "Progression",
+  "Pancreatic"
+ ],
+ "title": "A Trial of RSC-1255 for Treatment of Patients With Advanced Malignancies",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Malignant Solid Neoplasm",
+   "RAS Mutation",
+   "Lung Cancer",
+   "Colon Cancer",
+   "Glioblastoma",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@rascaltherapeutics.com",
+    "name": "Michael Mann, MD",
+    "phone": "310-498-7171"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria (Key Factors):\n\n1. Has pathologically confirmed advanced or metastatic malignancy characterized by one or more of the following:\n\n   * Participant is intolerant of existing therapy(ies) known to provide clinical benefit for their condition\n   * Malignancy is refractory to existing therapy(ies) known to potentially provide clinical benefit\n   * Malignancy has progressed on standard therapy\n2. Has evaluable or measurable tumor(s) in dose-escalation by standard radiological and/or laboratory assessments as applicable to their malignancy.\n3. Has adequate performance status (PS): Eastern Co-operative Oncology Group (ECOG).\n4. Is age ≥ 18 years.\n5. Has either tissue agnostic tumors and documented RAS mutations or with glioblastoma with or without mutation in RAS\n\nExclusion Criteria (Key Factors):\n\n1. Participants receiving cancer therapy at the time of enrollment.\n2. Any clinically significant disease or condition affecting a major organ system.\n3. Significant cardiovascular disease or electrocardiogram (ECG) abnormalities.\n4. Known Gilbert's disease.\n5. Has had a previous (within 2 years) or has a current malignancy other than the target cancer.\n6. Intermittent hypokalemia\n7. Grade 1 or higher nausea, vomiting, diarrhea at baseline due to underlying disease",
+  "enrollment": 134,
+  "has_results": false,
+  "interventions": [
+   "RSC-1255 Dose Escalation",
+   "RSC-1255 Dose Expansion"
+  ],
+  "last_update_posted": "2026-06-23",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT04678648",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12-15",
+  "sex": "ALL",
+  "sponsor": "RasCal Therapeutics, Inc.",
+  "start_date": "2021-03-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreaticoduodenectomy (PD) remains one of the most technically demanding abdominal procedures and is traditionally performed via open approach (OPD). Although adoption of minimally invasive PD (MIPD) has lagged, advances in robotic technology and structured training may be reshaping national practice patterns. This study evaluated temporal trends in the adoption of MIPD, including laparoscopic (LPD) and robotic (RPD), and compared associated postoperative outcomes.\nMETHODS: Adult patients undergoing PD were identified from the National Cancer Database (2010-2024) and the National Surgical Quality Improvement Program (2014-2024). Temporal trends were assessed using joinpoint regression, reporting annual percent change (APC). For the matched outcome analysis, the NCDB cohort was restricted to patients with pancreatic ductal adenocarcinoma, and patients undergoing each approach were matched by clinical stage, facility type, and age category. Conversion, lymph-node yield, margin status, length of stay, readmission, postoperative pancreatic fistula, and mortality were compared.\nRESULTS: Among 65,221 NCDB patients, OPD remained the predominant approach (74.5%); however, MIPD utilization increased significantly (APC +7.1%), reaching 34.9% of cases by 2024. LPD comprised 66.9% of MIPD cases and demonstrated early growth from 2010-2017 (APC +6.2%) before declining modestly after 2017. In contrast, RPD showed sustained expansion, increasing nearly 17-fold from 1.1% in 2010 to 18.6% in 2024. In the matched cohort, RPD was associated with the shortest median length of stay (6 vs 7 days for LPD and 8 days for OPD; p<0.001), and a slightly higher lymph-node yield. Conversion rates declined significantly for both minimally invasive approaches, with lower overall conversion for RPD compared to LPD.\nCONCLUSIONS: Over the study period, OPD declined while MIPD adoption increased substantially, driven primarily by rapid growth in RPD. These temporal changes may reflect increasing institutional experience and maturation of the technique. These findings highlight evolving national practice patterns and may inform future training and resource allocation in pancreatic surgery.",
+ "authors": [
+  "Foroutani L",
+  "Chang A",
+  "Kannan A",
+  "Ganjouei AA",
+  "Wang J",
+  "Feng J",
+  "Thornblade L",
+  "Hirose K"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42834181",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1007/s00464-026-13444-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42834181"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Endosc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42834181/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Adjusted trend analysis in the adoption and outcomes of minimally invasive pancreaticoduodenectomy approaches: over a decade of contemporary U.S. data",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

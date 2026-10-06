@@ -1,0 +1,52 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an important type of cancer due to its rapid spread, late diagnosis and limited treatment options. Anti-tumoral properties of vitexin, a natural flavonoid found in the green parts of plants, have taken their place in in-vitro cancer studies. In this study, the effect of vitexin on the potential of cytotoxic, apoptotic, migratory and metastatic states in CFPAC-1 and MIAPaCa-2 cells was studied. MTT test was used to determine the proliferative effect and IC50 dose. Metastatic Zeb-1, apoptotic caspase-3, -8, and - 9 gene expression analysis was performed by Real Time PCR techniques to investigate anti-migratory/metastatic and apoptotic effects. A wound-healing experiment was performed to observe anti-migratory/metastatic effects. As a result of the MTT experiment, the proliferative effect was measured as IC50 concentration. The IC50 concentration of CFPAC-1 cells was found to be 312 µM. The IC50 concentration of MIAPaCa - 2 cells was approximately found to be 500 µM. As a result of apoptotic experiments, the high expression of caspase-3 and - 9 genes was observed in vitexin-treated MiaPaCa-2 cells. To result of the migration assay, a low rate of closure and complete closure were observed in CFPAC-1 and MIAPaCa-2 cells, respectively. On the other hand, the decreased expression of the Zeb-1 gene was observed in CFPAC-1 cells.",
+ "authors": [
+  "Yaşar K",
+  "Özçimen AA",
+  "Oruç Demirbağ H"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42827594",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1007/s10616-026-01079-4",
+  "nct": [],
+  "pmcid": "PMC13631210",
+  "pmid": "42827594"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cytotechnology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42827594/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Anti-cancer effect of vitexin onto the CFPAC-1 and MIAPaCa-2 pancreatic cancer cells",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

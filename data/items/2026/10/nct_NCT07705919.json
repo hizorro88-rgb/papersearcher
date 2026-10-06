@@ -1,0 +1,99 @@
+{
+ "abstract": "This clinical trial tests how well dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) with standard clinical evaluation works to assess treatment response for patients with pancreatic cancer that may be able to be removed by surgery (borderline resectable). Borderline resectable pancreatic cancer (BRPC) is a certain type of pancreatic cancer that involves the arteries or veins near the pancreas. With the right treatment before surgery, it can be removed (resected) successfully. An MRI (magnetic resonance imaging) scan creates clear images of the structures inside the body using a large magnet, radio waves, and a computer. DCE-MRI can be used to calculate the blood perfusion. Blood perfusion can show disease status. Using DCE-MRI as part of standard clinical evaluation may provide a more accurate treatment response assessment for patients with BRPC.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate the association between the availability of DCE-MRI-derived information and R0 resection rates in patients with BRPC, compared to standard-of-care management.\n\nSECONDARY OBJECTIVE:\n\nI. To assess the association between DCE-MRI parameters and tumor microenvironment features measured by digital histopathology.\n\nOUTLINE:\n\nWithin two weeks prior to therapy initiation, patients receive gadolinium based contrast intravenously (IV) and undergo DCE-MRI. Patients then undergo standard of care treatment with gemcitabine and nab paclitaxel or fluorouracil, oxaliplatin, irinotecan and leucovorin, per the treating gastroenterology oncologist. Approximately 6 weeks after therapy initiation and again within 1 week prior to surgery, patients receive gadolinium based contrast IV and undergo DCE-MRI again. Patients undergo computed tomography (CT) scan and blood sample collection throughout the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07705919",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07705919"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-07-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ohio State University Comprehensive Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07705919"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "DCE-MRI for Neoadjuvant Treatment Assessment in Patients With Borderline Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Borderline Resectable Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "OSUCCCClinicaltrials@osumc.edu",
+    "name": "The Ohio State University Comprehensive Cancer Center",
+    "phone": "800-293-5066"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization for release of personal health information\n* Age ≥ 18 years at the time of consent\n* Patients have Eastern Cooperative Group (ECOG) performance status of 0-2\n* Histological or cytological evidence of pancreatic adenocarcinoma\n* Patients must have borderline resectable primary tumor per National Comprehensive Cancer Network (NCCN) definitions version 2.2025 based on contrast-enhanced CT or MRI (CT or MRI without contrast as part of positron emission tomography \\[PET\\]/CT or PET/MRI is NOT acceptable; CT or MRI with contrast as part of PET/CT or PET/MRI is acceptable) of the chest, abdomen, and pelvis, where borderline resectable is defined as all of the following:\n\n  * Solid tumor involvement of ≤ 180° with the celiac artery, common hepatic artery, and superior mesenteric artery (and, if present, replaced right hepatic artery).\n  * Solid tumor involvement of \\> 180° with the portal vein and/or superior mesenteric vein, and a patent portal vein/splenic vein confluence.\n  * Solid tumor contact with the inferior vena cava.\n  * Absence of metastatic disease\n* Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 for solid tumors within 28 days prior to registration\n* Patients must not have received prior surgery, radiation therapy, chemotherapy, targeted therapy, or any investigational therapy for pancreatic cancer\n* Absolute neutrophil count (ANC) ≥ 1.5×109/L (obtained within 28 days prior to registration)\n* Platelet count ≥ 100,000/mm3 (100 × 109/L) (obtained within 28 days prior to registration)\n* Hemoglobin (Hgb) ≥ 8 g/dL (obtained within 28 days prior to registration)\n* Aspartate transaminase (AST), serum glutamic-oxaloacetic transaminase (SGOT), alanine transaminase (ALT), serum glutamic-pyruvic transaminase (SGPT) ≤ 3 × upper limit of normal range (ULN) (obtained within 28 days prior to registration)\n* Total bilirubin ≤ 2 × ULN (obtained within 28 days prior to registration)\n* Females of childbearing potential must have a negative pregnancy test (serum or urine) within 3 days prior to registration\n* Females of childbearing potential must be willing to abstain from vaginal intercourse or use an effective method(s) of contraception from the time of informed consent, during the study, and for 6 months after the last dose of study drug(s). Males must be willing to abstain from vaginal intercourse or to use an effective method(s) of contraception from initiation of treatment, during the study, and for 3 months after the last dose of study drug(s)\n* As determined by the enrolling physician or protocol designee, the ability of the subject to understand and comply with study procedures for the entire length of the study\n* History of HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months of registration are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated. Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, the HCV viral load must be undetectable to be eligible for this trial\n* Co-enrollment on a non-interventional therapeutic trial is allowed. This includes observational trials and biomarker collection trials\n\nExclusion Criteria:\n\n* Evidence of distant metastasis\n* History of significant uncontrolled cardiovascular disease. Significant cardiac disease includes second/third degree heart block; significant ischemic heart disease; poorly controlled hypertension; congestive heart failure of the New York Heart Association (NYHA) Class II or worse (slight limitation of physical activity; comfortable at rest, but ordinary activity results in fatigue, palpitation, or dyspnea)\n* History of arrhythmia that is symptomatic or requires treatment. However, patients with atrial fibrillation or flutter controlled by medication are not excluded from participation in the trial\n* Patient with a history of allergy or hypersensitivity to any of the study drugs or any of their excipients\n* Pregnant or lactating\n\n  * NOTE: breast milk cannot be stored for future use while the mother is being treated in this study\n* Patient with any other concurrent severe and/or uncontrolled medical condition that would, in the investigators' judgment, cause unacceptable safety risks, contraindicate patient participation in the clinical study, or compromise compliance with the protocol (e.g., chronic active hepatitis, active untreated or uncontrolled fungal, bacterial, or viral infections, etc.)\n* No prior malignancy is allowed except for adequately treated basal (or squamous cell) skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free and treatment-free for at least two years\n* Patient who is unwilling or unable to comply with study procedures",
+  "enrollment": 50,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Dynamic Contrast-Enhanced Magnetic Resonance Imaging",
+   "Fluorouracil",
+   "Gadolinium-Chelate",
+   "Gemcitabine",
+   "Irinotecan",
+   "Leucovorin Calcium",
+   "Nab-paclitaxel",
+   "Oxaliplatin",
+   "Point-of-care portable perfusion phantom (P4)"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07705919",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "Ohio State University Comprehensive Cancer Center",
+  "start_date": "2026-10-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

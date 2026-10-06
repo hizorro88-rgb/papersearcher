@@ -1,0 +1,91 @@
+{
+ "abstract": "This study is a multicenter, open-label, phase II clinical trial evaluating the combination of SSGJ-706 with standard therapy for advanced gastrointestinal tumors. Its objective is to assess the safety, tolerability, and antitumor activity of SSGJ-706 in combination with standard treatment.\n\nThis multicohort, open-label, multicentre Phase II clinical trial is evaluating the use of SSGJ-706 in combination with standard first-line chemotherapy for advanced gastrointestinal tumours. The study comprises four cohorts: HER2-negative locally advanced gastric/gastro-oesophageal junction adenocarcinoma (Cohort A), metastatic colorectal cancer (Cohort B), locally advanced or metastatic pancreatic ductal adenocarcinoma (Cohort C), and locally advanced or metastatic oesophageal cancer (Cohort D). The primary objective of this study is to assess the safety and efficacy of SSGJ-706 when used in combination with standard first-line chemotherapy in participants with advanced or metastatic gastrointestinal tumours who have not previously received treatment in a metastatic setting.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07233850",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07233850"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shenyang Sunshine Pharmaceutical Co., LTD.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07233850"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Phase II Clinical Study Evaluating SSGJ-706 in Combination Therapy for Advanced Gastrointestinal Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Gastric/Gastroesophageal Junction Adenocarcinoma",
+   "Metastatic Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Oesophageal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "octtongji@163.com",
+    "name": "xianglin yuan, MD",
+    "phone": "13667241722"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Volunteer to participate in this study, willing to follow all trial procedures, and sign the informed consent form (ICF).\n2. Age 18-75 years old, male or female.\n3. Has a life expectancy of at least 3 months\n4. ECOG score of 0-1.\n5. Locally advanced or metastatic tumors of the digestive system that cannot be curatively resected and cannot be treated with radical chemoradiotherapy, including gastric/gastroesophageal junction adenocarcinoma, colorectal cancer, pancreatic ductal adenocarcinoma, and oesophageal cancer.\n6. No prior systemic therapy in the locally advanced unresectable/metastatic setting.\n7. Has at least 1 measurable lesion per RECIST version 1.1.\n8. Willing to provide a paraffin-embedded (FFPE) specimen or an unstained histopathological section (preferably a newly obtained tumor tissue sample).\n9. Has bone marrow, kidney, liver, blood and clotting test results required per protocol.\n10. Female subjects of childbearing age had a negative serum pregnancy test within 7 days before the first dose. Male and female subjects of childbearing potential must agree to use effective contraception from the time of signing the informed consent form until at least 120 days after the last use of study drug and for at least 180 days after the last use of chemotherapy drugs or bevacizumab. During this period, women are not lactating, male subjects are not allowed to freeze or donate sperm, and female subjects are not allowed to donate eggs or retrieve eggs for personal use.\n\nExclusion Criteria:\n\n1. For gastric/gastroesophageal junction adenocarcinoma: HER2-positive (defined as IHC 3+, or IHC 2+ with ISH-positive).\n2. For colorectal cancer: Patients with known MSI-H or dMMR.\n3. Presence of brainstem, meningeal metastases, spinal cord metastases, or compression.\n4. Presence of active central nervous system (CNS) metastases; Subjects with previously treated brain metastases (such as surgery, radiotherapy) are allowed to enroll if they are clinically stable for at least four weeks after treatment (until the first dose of study drug) and corticosteroids are discontinued 3 days before the first dose of study drug; Subjects with untreated, asymptomatic brain metastases can be enrolled.\n5. Previous immunotherapy, including immune checkpoint inhibitors (e.g., PD-l/L1 antibody, anti-CTLA-4 antibody, anti-TIGIT antibody, anti-LAG3 antibody, etc.), immune checkpoint agonists (e.g., ICOS, CD40, CD137, OX40 antibody, etc.), immune cell therapy and any other treatment targeting the mechanism of anti-tumor immune action.\n6. Adverse reactions caused by previous anti-tumor therapy need to be restored to grade ≤1 (as judged by NCI-CTCAE 5.0 criteria), except for alopecia and fatigue.\n7. Known history of allogeneic organ transplantation and allogeneic hematopoietic stem cell transplantation.\n8. Prior or current non-infectious pneumonitis/interstitial lung disease requiring systemic glucocorticoid therapy.\n9. History of severe bleeding tendency or coagulation dysfunction.\n10. Presence of gastrointestinal perforation and/or fistula, intra-abdominal abscess within 6 months before the first dose.\n11. Subjects with known active tuberculosis (TB).\n12. Known history of severe allergy to any component of the trial drug, or history of severe allergic reaction to chimeric or humanized antibodies.\n13. Other conditions that, in the opinion of the investigator, may increase study-related risks or interfere with the interpretation of study results.",
+  "enrollment": 300,
+  "has_results": false,
+  "interventions": [
+   "SSGJ-706+XELOX",
+   "SSGJ-706+Bevacizumab+XELOX",
+   "SSGJ-706+AG",
+   "SSGJ-706+TP"
+  ],
+  "last_update_posted": "2025-11-18",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07233850",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-12",
+  "sex": "ALL",
+  "sponsor": "Shenyang Sunshine Pharmaceutical Co., LTD.",
+  "start_date": "2025-11",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

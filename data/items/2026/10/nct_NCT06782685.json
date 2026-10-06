@@ -1,0 +1,101 @@
+{
+ "abstract": "Purpose of the study Phase I study: to explore the optimal dose combination of irinotecan liposome + oxaliplatin + bevacizumab regimen, irinotecan liposome + oxaliplatin Phase II study: to evaluate the safety and efficacy of the second-line treatment regimen of irinotecan liposome combined with oxaliplatin and bevacizumab compared to the second-line treatment regimen of irinotecan liposome combined with 5-FU/LV in advanced pancreatic cancer Sample size 138 cases Phase I Crawl, sample size 9-18 cases. Phase II randomized controlled clinical study, historical data NAPOLI-1 study, ORR of 8.8% for irinotecan liposome + 5-FU/LV, planned trial arm ORR upgrade to 25%, calculated at 60 cases in each arm.\n\nSubject population Patients with advanced pancreatic cancer diagnosed after failure of first-line therapy, confirmed by histopathology or cytopathology, who meet the inclusion criteria and do not meet the exclusion criteria.\n\nPhase I design:\n\nLiposomal irinotecan + oxaliplatin + bevacizumab, 2-week regimen Liposomal irinotecan: start exploring with 50mg/m2 dose, preset 50mg/m2, 60mg/m2, 2 dose groups, 90min IV infusion, d1; Oxaliplatin: explored from 60mg/m2 dose, preset 60mg/m2, 85mg/m2, 2 dose groups, IV infusion, d1; Bevacizumab: 5 mg/kg, i.v., d1; Phase II study design.\n\nTrial group:\n\nIrinotecan liposomal: RP2D, i.v., 90min, d1; Oxaliplatin: RP2D, i.v., d1; Bevacizumab: 5mg/kg, i.v., d1; Cycles every 2 weeks until disease progression or intolerable; imaging every 3 treatment cycles/1.5 months.\n\nControl:\n\nLiposomal irinotecan: 70 mg/m2 IV for 90 min, d1; Calcium folinate: 400 mg/m2, IV infusion over 30 min, d1; 5-FU: 2400 mg/m2, continuous IV infusion over 46h; Cycles every 2 weeks until disease progression or intolerable; imaging every 3 treatment cycles/1.5 months.\n\nNotes:\n\nIf the duration of irinotecan liposome infusion can be extended appropriately based on the patient\\&#39;s clinical response; if the patient withdraws from the trial due to intolerance of toxicity (e.g., neurotoxicity or myelotoxicity) induced by one of the drugs, follow up is required until PFS and OS.\n\nTranslated with DeepL.com (free version)",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06782685",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06782685"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-01-20",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dai, Guanghai",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06782685"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Liposomal Irinotecan + Oxaliplatin + Bevacizumab Versus Liposomal Irinotecan + 5-FU/LV",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Cancer (Part 1)"
+  ],
+  "contacts": [
+   {
+    "email": "daigh60@sohu.com",
+    "name": "Guanghai Dai",
+    "phone": "13801232381"
+   },
+   {
+    "email": "ashleyjr@163.com",
+    "name": "Ru Jia",
+    "phone": "13811721720"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 to 75 years old;\n2. Patients with pancreatic cancer diagnosed by histopathology or cytology;\n3. Unresectable disease assessed by multidisciplinary and imaging;\n4. Subjects who have received prior failed first-line therapy, and recurrence within 6 months of the end of (neo)adjuvant therapy is considered a first-line treatment failure;\n5. Subjects who have not received platinum-containing or irinotecan drugs for prior first-line therapy;\n6. Patients with at least one evaluable lesion according to RECIST v1.1;\n7. ECOG score of 0-2;\n8. Expected survival ≥ 3 months;\n9. Bone marrow function: absolute neutrophil count (ANC) ≥1.5×10\\^9/L, hemoglobin ≥90 g/dL, platelets (PLT) ≥100×10\\^9/L, and white blood cells (WBC) ≥3.0×10\\^9/L;\n10. Liver function: alanine aminotransferase (ALT), alanine aminotransferase (AST), alkaline phosphatase (ALP) ≤2.5 times the upper limit of normal (ULN), or ≤5×ULN if liver metastases are present, total bilirubin\\<1.5 ULN;\n11. Renal function: serum creatinine (Cr) ≤1.5 × ULN or creatinine clearance (CCr) ≥60 mL/min (according to the Cockcroft-Gault formula);\n12. Coagulation function: prothrombin time (PT), activated partial thromboplastin time (APTT) and international normalized ratio (INR) ≤1.5 × ULN;\n13. Patients with biliary obstruction should receive adequate biliary drainage; and\n14. Adverse reactions arising from prior therapy must be restored to grade 1 or baseline according to CTCAE 5.0 (with the exception of toxicities such as alopecia, grade 2 or lower peripheral neuropathy, which can be enrolled with no safety risk in the judgment of the investigator);\n15. Non-pregnant or lactating females; females/males of childbearing potential should use effective contraception during the study and for 6 months after completion of study treatment;\n16. Patients are compliant, understand the study procedures, and sign a written informed consent form.\n\nExclusion Criteria:\n\n1. Patients who have had other malignant tumors within the previous 5 years (except cured carcinoma in situ and basal cell carcinoma of the skin);\n2. Uncontrollable pleural effusion or ascites;\n3. Any known brain metastasis or meningeal metastasis;\n4. Concomitant use of a potent CYP3A4 inducer within 3 weeks prior to the first dose, or concurrent use of a potent CYP3A4 inhibitor or potent UGT1A1 inhibitor within 3 weeks prior to the first dose;\n5. Patients undergoing major organ surgery (except needle biopsy, central venous catheterization, port catheterization, stent placement for relief of biliary obstruction, percutaneous hepato-biliary drainage, cholecystostomy) or elective surgical procedures scheduled within 4 weeks prior to the first dose of study drug;\n6. Systemically treated active, uncontrolled bacterial, viral, or fungal infections, defined as persistent signs/symptoms associated with the infection that do not improve despite appropriate antibiotics, antiviral therapy, and/or other treatments;\n7. Subjects with congenital or acquired immunodeficiency, such as HIV-infected individuals or active hepatitis (transaminases do not meet the inclusion criteria, Hepatitis B : HBV DNA ≥ 1000 IU/ml; Hepatitis C : HCV RNA ≥ 1000 IU/ml); chronic hepatitis B viral carriers, with HBV DNA \\< 2000 IU/ml, who must be concurrently receiving antiviral during the trial period treatment before enrollment;\n8. Presence of serious concomitant diseases: those with diabetes mellitus that cannot be well controlled by glucose-lowering drugs, difficult-to-control hypertension, severe cardiovascular and cerebral vascular disease, renal failure, hepatic failure, uncontrolled epilepsy, central nervous system disease or history of mental disorders, those with a clear tendency to gastrointestinal bleeding, intestinal paralysis, intestinal obstruction, etc;\n9. \\>grade 1 diarrhea with an increase in the number of bowel movements \\>4 times per day compared to baseline; moderate to severe increase in stoma discharge; limited instrumental activities of daily living or even limited spontaneous activities of daily living; life-threatening; requiring urgent treatment;\n10. Those with serum albumin ≤ 3 g/dL;\n11. Those who had participated in other clinical studies within 4 weeks prior to enrollment;\n12. Patients assessed by the investigator to be unsuitable for participation in the trial.",
+  "enrollment": 138,
+  "has_results": false,
+  "interventions": [
+   "Irinotecan liposoma",
+   "oxaliplatin",
+   "bevacizumab",
+   "5-FU",
+   "LV",
+   "Irinotecan Liposomal",
+   "Irinotecan Liposomal",
+   "Oxaliplatin"
+  ],
+  "last_update_posted": "2025-01-20",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06782685",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2026-07",
+  "sex": "ALL",
+  "sponsor": "Dai, Guanghai",
+  "start_date": "2024-06-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

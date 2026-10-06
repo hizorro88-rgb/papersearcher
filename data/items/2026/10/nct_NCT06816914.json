@@ -1,0 +1,93 @@
+{
+ "abstract": "To explore the safety and activity of NALIRIFOX (liposomal irinotecan in combination with fluorouracil, leucovorin, and oxaliplatin) in the perioperative and adjuvant treatment in resectable pancreatic adeneocarcinoma.\n\nAdjuvant chemotherapy after surgery significantly improved the survival of pancreatic cancer patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesion which are not being detected in early disease status and improve the R0 resection rate. Additionally, it prevents unnecessary surgeries by selecting patients with rapid disease progression. Furthermore, compared with chemotherapy administered after surgery, more patients can complete the planned chemotherapy schedule in neoadjuvant setting. NALIRIFOX was approved its efficacy and safety in metastatic pancreatic cancer, but its role in perioperative setting is unknown. In this study, we want to o explore the safety and activity of NALIRIFOX in the perioperative and adjuvant treatment in resectable pancreatic adeneocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06816914",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06816914"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-02-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Taichung Veterans General Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06816914"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Perioperative",
+  "NALIRIFOX",
+  "resectable pancreatic adenocarcinoma"
+ ],
+ "title": "Perioperative NALIRIFOX (liposomal Irinotecan in Combination with Fluorouracil, Leucovorin, and Oxaliplatin) in Resectable Pancreatic Adenocarcinoma: Randomized Phase II Trial",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Resectable Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "ysshan@mail.ncku.edu.tw",
+    "name": "Yan-Shen Shan, MD, PhD",
+    "phone": "886-6-2353535"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* previously untreated, histologically or cytologically proven PDAC\n* age between 20 and 75 years at registration\n* ECOG performance status of 0 or 1\n* AJCC (8th edition) clinical stage I or II with measurable disease (CT or MRI) in the pancreas. (positron emission tomography scan alone not allowed)\n* Surgically resectable disease according to NCCN criteria (Version 1.2023 - May 4, 2023):\n* no arterial tumor contact (celiac axis, superior mesentery artery, or common hepatic artery).\n* no tumor contact with the superior mesentery vein or portal vein or ≤180° contact without vein contour irregularity.\n* adequate major organ functions\n* Women of childbearing potential (including women with chemical menopause or no menstruation for other medical reasons) must agree to use contraception from the time ofinformed consent until 6 months or more after the last dose of investigational products. Also, women must agree not to breastfeed from the time of informed consent until 6 months or more after the last dose of the investigational product.\n* Men must agree to use contraception from the start of study treatment until 3 months or more after the last dose of the investigational product.\n* Participants must have signed written informed consent form in accordance with regulatory and institutional guidelines.\n\nExclusion Criteria:\n\n* presence of clinically significant co-morbid medical conditions within 4 weeks prior registration judged by Investigators\n* severe arterial thromboembolic events (myocardial infarction, unstable angina pectoris, stroke) in past 6 months\n* New York Heart Association class III or IV congestive heart failure, ventricular arrhythmias or uncontrolled blood pressure or known abnormal electrocardiogram (ECG) with clinically significant abnormal findings in past 6 months\n* interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected treatment-related pulmonary toxicity within 28 days prior to registration\n* presence of diarrhea ≥ CTCAE v.5.0 grade 2\n* concomitant systemic infection requiring treatment\n* prior organ allograft or allogeneic bone marrow transplantation\n* known history of testing positive for human immunodeficiency virus or known acquired immunodeficiency syndrome\n* prior or concurrent malignancies within the last 3 years, with the exception of carcinoma in situ of the cervix, or basal type skin cancer\n* any major surgery within 4 weeks of study treatment. Participants must have recovered from the effects of major surgery or significant traumatic injury at least 4 weeks before study treatment.\n* pregnant women or nursing mothers, or positive pregnancy tests\n* severe mental disorder\n* current use or any use in past 2 weeks of strong cytochrome P450 3A4 enzyme inducers/inhibitors and/or strong UGT1A inhibitors\n* known hypersensitivity to any of the components of study drugs",
+  "enrollment": 84,
+  "has_results": false,
+  "interventions": [
+   "NALIRIFOX"
+  ],
+  "last_update_posted": "2025-02-20",
+  "location_countries": [
+   "Taiwan"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "20 Years",
+  "n_locations": 9,
+  "nct_id": "NCT06816914",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-02-05",
+  "sex": "ALL",
+  "sponsor": "Taichung Veterans General Hospital",
+  "start_date": "2025-03-05",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

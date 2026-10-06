@@ -1,0 +1,94 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal cancers, with limited therapeutic options and a five-year survival rate below 10 % in advanced stages. Standard treatments, such as multi-agent chemotherapy, provide only marginal survival benefits and are often associated with significant toxicity. Novel approaches are urgently needed.\n\nThe ResCPa study is a first-in-human, multicenter, phase I/IIa investigator-initiated trial evaluating the safety, feasibility, and preliminary efficacy of autologous CD318-targeted chimeric antigen receptor (CAR) T-cell therapy in patients with metastatic or locally advanced PDAC that has progressed after standard-of-care treatment. CD318 (also known as CDCP1) is highly expressed in primary and metastatic PDAC tissue but rarely found in healthy tissues, making it a promising and potentially safe immunotherapy target. Preclinical studies have shown potent anti-tumor activity of CD318-CAR-T cells in vitro and in PDAC mouse models without target-specific toxicity.\n\nEligible patients will undergo tumor tissue screening for CD318 expression. Those meeting the criteria will proceed to leukapheresis for autologous T-cell collection. The CD318-CAR construct, optimized in preclinical work, will be introduced via a GMP-produced lentiviral vector, and CAR-T cells will be expanded using automated manufacturing (CliniMACS Prodigy). Following lymphodepleting chemotherapy, patients will receive CD318-CAR-T cells in a dose-escalation design to determine the recommended phase II dose, with the option of dual dosing.\n\nThe primary objectives are to assess safety, tolerability, and feasibility of manufacturing and delivering CD318-CAR-T cells. Secondary objectives include preliminary anti-tumor activity (objective response rate, progression-free survival, overall survival), CAR-T cell expansion and persistence, and immunological correlates of response or resistance. Patients will be followed for at least 12 months post-infusion, with extended safety follow-up per regulatory requirements.\n\nIn parallel, an extensive translational research program will investigate CAR-T cell phenotypes, tumor microenvironment changes, and mechanisms of treatment resistance using single-cell multi-omics, spatial proteomics and transcriptomics, organoid co-culture models, and microbiome profiling. Insights from these studies aim to guide optimization of next-generation CAR-T therapies for PDAC and other solid tumors.\n\nThis trial is conducted by a German academic-industrial consortium including the University Hospital Tübingen, Miltenyi Biotec, University Hospital Freiburg, Klinikum rechts der Isar (TUM), Berlin Institute of Health (BIH), and other partners. The study is supported by the German Federal Ministry of Education and Research (BMBF) within the \"National Decade Against Cancer\" initiative.\n\nPancreatic ductal adenocarcinoma (PDAC) is one of the most lethal malignancies, with a steadily increasing incidence and a poor prognosis. Standard chemotherapy regimens such as FOLFIRINOX or gemcitabine plus nab paclitaxel provide only modest survival benefits and are often associated with substantial toxicity. PDAC is characterized by aggressive tumor biology, early metastasis, and marked resistance to conventional therapies, underscoring the need for novel strategies.\n\nChimeric antigen receptor (CAR) T cell therapy has transformed the treatment of hematologic malignancies but has yet to achieve similar success in solid tumors. Challenges include the lack of highly specific tumor antigens, poor trafficking and persistence of CAR T cells, immune evasion in the tumor microenvironment, and tumor antigen heterogeneity.\n\nCD318, also known as CDCP1, is a promising target for PDAC immunotherapy. It is highly expressed in primary and metastatic PDAC tissues but shows minimal expression in healthy tissues. Preclinical studies have demonstrated that CD318 targeted CAR T cells can induce potent anti tumor activity in vitro and in PDAC mouse models without detectable target specific toxicity.\n\nThe ResCPa study is a first in human, multicenter, phase I/IIa investigator initiated clinical trial designed to evaluate the safety, feasibility, and preliminary efficacy of autologous CD318 targeted CAR T cells in patients with metastatic or locally advanced PDAC refractory to standard of care therapy. The study will also conduct an extensive translational research program to understand CAR T cell function and resistance mechanisms in solid tumors.\n\nEligible patients will be screened for CD318 expression in tumor tissue. Those meeting inclusion criteria will undergo leukapheresis for T cell collection. Autologous T cells will be genetically modified using a GMP manufactured lentiviral vector encoding the CD318 CAR and expanded using automated manufacturing on the CliniMACS Prodigy platform at the University Hospital Tuebingen GMP facility.\n\nFollowing lymphodepleting chemotherapy, patients will receive CAR T cells in a dose escalation design using the Bayesian Optimal Interval method to determine the maximum tolerated dose or recommended phase II dose. Dose limiting toxicities will be closely monitored and predefined stopping rules applied. Both single and dual dosing regimens may be used.\n\nPrimary objectives are to assess the safety, tolerability, and feasibility of manufacturing and delivering CD318 CAR T cells. Secondary objectives are to evaluate preliminary antitumor activity, CAR T cell expansion and persistence, and immune correlates of response or resistance. Exploratory objectives include biomarker discovery, characterization of the tumor microenvironment, and microbiome analyses.\n\nTranslational research will include\n\n* Immune monitoring by single cell multi omics profiling of CAR T cell products and longitudinal blood samples to evaluate phenotype, activation status, metabolic fitness, and exhaustion markers.\n* Tumor microenvironment analyses using spatial proteomics, spatial transcriptomics, and imaging mass cytometry of tumor biopsies before and after treatment to assess immune infiltration, antigen expression, and stromal architecture.\n* Patient derived organoid and xenograft models to study CAR T cytotoxicity, antigen recognition, and resistance mechanisms in vitro and in vivo.\n* Microbiome profiling of stool and tumor samples using shotgun metagenomics and 16S rRNA sequencing to explore associations with response or resistance.\n* Characterization of innate like T cell subsets such as gamma delta T cells, NKT cells, and MAIT cells within CAR T products and exploration of CD318 targeting in these populations.\n\nThe trial is coordinated by the University Hospital Tuebingen in collaboration with Miltenyi Biotec, University Hospital Freiburg, Klinikum rechts der Isar TUM, Max Delbrueck Center Berlin, and other partners. It is funded by the German Federal Ministry of Education and Research BMBF under the National Decade Against Cancer initiative. A Data Safety Monitoring Board will oversee patient safety, and a patient advisory board will be involved in study oversight and dissemination of results.\n\nIf successful, this trial could establish CD318 CAR T therapy as a new treatment option for PDAC and provide insights to optimize future CAR T approaches for solid tumors. Findings may also have relevance for other cancer types, accelerating the development and clinical application of advanced cellular immunotherapies.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07153289",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07153289"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-09-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University Hospital Tuebingen",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07153289"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "PDAC",
+  "Metastatic Pancreatic Cancer",
+  "Locally Advanced Pancreatic Cancer",
+  "CD318 CAR-T",
+  "CAR-T cell therapy"
+ ],
+ "title": "CD318-targeted CAR-T Cell Therapy in Patients With Pancreatic Cancer (ResCPa)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Carcinoma, Pancreatic Ductal",
+   "Pancreatic Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "Christoph.Stein-Thoeringer@uni-tuebingen.de",
+    "name": "Christoph Stein-Thoeringer, Professor, MD",
+    "phone": "+49 (0)7071 2961450"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years at the time of informed consent\n* Histologically confirmed PDAC (metastatic or locally advanced, unresectable)\n* Measurable disease according to RECIST v1.1\n* Disease progression during or after at least one prior line of systemic standard therapy for advanced PDAC\n* CD318 expression in tumor tissue confirmed by central immunohistochemistry (IHC)\n* ECOG performance status of 0 or 1\n* Adequate bone marrow, renal, and hepatic function as defined in the protocol\n* Life expectancy of at least 12 weeks\n* Willingness and ability to comply with study procedures and follow-up\n* Written informed consent obtained prior to any study-specific procedures-\n\nExclusion Criteria:\n\n* Prior treatment with CAR T cells or other genetically modified cell therapies\n* Active uncontrolled infection, including active hepatitis B or C infection or HIV infection\n* Known symptomatic or untreated central nervous system (CNS) metastases\n* Clinically significant cardiovascular disease, including recent myocardial infarction (within 6 months), unstable angina, or uncontrolled arrhythmia\n* History of autoimmune disease requiring systemic immunosuppressive therapy\n* Current or recent (within 4 weeks) participation in another interventional clinical trial\n* Pregnant or breastfeeding women\n* Any condition that, in the opinion of the investigator, would interfere with the patients ability to comply with study requirements or would compromise safety",
+  "enrollment": 38,
+  "has_results": false,
+  "interventions": [
+   "CD318-CAR-T cells"
+  ],
+  "last_update_posted": "2025-09-03",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07153289",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-12",
+  "sex": "ALL",
+  "sponsor": "University Hospital Tuebingen",
+  "start_date": "2026-07",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,94 @@
+{
+ "abstract": "This is an open-label, dose escalation, multicenter, phase 1, first-in-human study of XNW28012 in subjects with advanced solid tumors who have failed current standard anti-tumor therapies or are intolerant to such therapies. The study consists of two parts: a dose escalation part and a dose expansion part.",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06799637",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06799637"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-01-29",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Evopoint Biosciences Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06799637"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "XNW28012"
+ ],
+ "title": "Study of XNW28012 in Subjects With Advanced Solid Tumors Who Failed Standard Treatments",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumors",
+   "Pancreatic Carcinoma",
+   "Ovarian Cancer",
+   "Cervical Cancers"
+  ],
+  "contacts": [
+   {
+    "email": "yingjie.zhao@evopointbio.com",
+    "name": "Yingjie zhao Yingjie Zhao",
+    "phone": "+86 15553136593"
+   },
+   {
+    "email": "ziwen.ke@evopointbio.com",
+    "name": "Ziwen Ke",
+    "phone": "+86 15172466243"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. For the dose escalation part: subjects with histologically or cytologically confirmed advanced and/or metastatic solid tumors who have failed the established standard anti-cancer therapies for a given tumor type or have been intolerant to such therapies.\n2. For the dose expansion part: subjects must have a histological or cytological diagnosis of progressive, locally advanced, and/or metastatic ovarian cancer, cervical cancer, pancreatic cancer, or colorectal cancer (CRC) who have failed the following anti-cancer therapies: Ovarian cancer, Cervical cancer, Pancreatic cancer, Colorectal cancer.\n3. Age ≥ 18 years old at the time of consent.\n4. Subjects must have at least 1 measurable lesion as defined per RECIST version 1.1 (for dose expansion part only).\n5. Subjects must have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale. ECOG status of 2 can be allowed if it is a result of disease progression and warrants discussion with the medical monitor.\n6. Subjects must have adequate organ function within 7 days prior to the first study drug administration, as indicated by the flaboratory values:\n7. Life expectancy of at least 12 weeks.\n8. Females of childbearing potential must have a negative pregnancy test within 7 days prior to the first dose of study drug. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n9. Non-sterile subjects must be willing to use a highly effective contraception (e.g., IUD, pill, or condom) for the duration of the study and for 6 months after the last dose of study drug unless their partner is sterilized.\n10. Subjects are able to provide written informed consent, understand and are willing to comply with the requirements of the study.\n\nExclusion Criteria:\n\n1. A history of severe infusion reactions to other monoclonal antibodies/antibody drug conjugates (ADCs) or allergic reactions to any components of XNW28012.\n2. Any anti-tumor therapy within 28 days prior to the first dose, including but not limited to: small molecules, immunotherapy, chemotherapy, monoclonal antibodies, or any other experimental drugs.\n3. Any active malignancy, with the exception of the specific types of cancers under investigation in this study and any locally recurring cancer that has been treated curatively .\n4. Have received a live vaccine within 4 weeks prior to the first dose of study drug. Note: Seasonal vaccines for influenza are generally inactivated vaccines and are allowed; however, intranasal influenza vaccines will not be allowed if they are attenuated live vaccines.\n5. Have received granulocyte colony stimulating factor (G-CSF) or granulocyte / macrophage colony stimulating factor support within 1 week before screening, or pegylated G-CSF within 2 weeks before screening.\n6. Subjects with toxicities (as a result of prior anti-cancer therapy) which have not improved to CTCAE grade ≤1 or stabilized, except those AEs not considered as a likely safety risk (e.g., alopecia).\n7. Any history of intracerebral arteriovenous malformation, cerebral aneurysm, or stroke (transient ischemic attack) ≤ 3 months prior to screening is allowed if stable.\n8. Any of the hematological risk factors:\n9. Subjects who are unwilling or unable to provide tumor tissue samples that meet the requirements for tissue factor (TF) expression testing.\n\n11\\. Clinically significant cardiovascular/cerebrovascular conditions. 12. Active ocular surface disease at screening, or subjects with any prior episode of cicatricial conjunctivitis.\n\n13\\. Any history of Toxic Epidermal Necrolysis (TEN) or Steven Johnson Syndrome. 14. Subjects who have undergone major surgery within 28 days prior to the first dose of study drug, except if the procedure is minimally invasive (for example, introduction of peripherally inserted central catheter \\[PICC\\] line).\n\nand so on.",
+  "enrollment": 350,
+  "has_results": false,
+  "interventions": [
+   "XNW28012"
+  ],
+  "last_update_posted": "2026-04-15",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 24,
+  "nct_id": "NCT06799637",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2026-12-31",
+  "sex": "ALL",
+  "sponsor": "Evopoint Biosciences Inc.",
+  "start_date": "2023-12-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

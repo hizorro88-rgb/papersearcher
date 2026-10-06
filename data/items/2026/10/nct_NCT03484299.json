@@ -1,0 +1,89 @@
+{
+ "abstract": "Compare the efficacy and tolerability of IRE in combination with either FOLFIRINOX or gemcitabine in patients with locally advanced pancreatic cancer.\n\nPhase II study in which all patients undergoing IRE for the treatment of locally advanced pancreatic carcinoma will receive either FOLFIRINOX or gemcitabine as peri-ablation treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03484299",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03484299"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2018-03-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Louisville",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03484299"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Chemotherapy and Irreversible Electroporation in the Treatment of Advanced Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "robert.martin@louisville.edu",
+    "name": "Robert Martin, MD, PhD",
+    "phone": "502-629-3355"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* greater than or equal to 18 years of age\n* diagnosed with stage III pancreatic cancer\n* tumor is measurable\n* GFR \\> mL/min/1.73m2\n* willing and able to comply with protocol requirements\n* AST/ALT \\>3 times upper limit of normal\n* stable surgical post-operative course as defined by operative surgeon\n\nExclusion Criteria:\n\n* participating in another clinical trial for the treatment of cancer at the time of screening\n* pregnant or currently breast feeding\n* have a cardiac pacemaker or ICD implanted that cannot be deactivated during IRE procedure\n* have non-removable implants with metal parts within 1 cm of the target lesion\n* had a myocardial infarction within 3 months prior to enrollment",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Irreversible Electroporation (IRE)",
+   "Gemcitabine",
+   "FOLFIRINOX"
+  ],
+  "last_update_posted": "2025-10-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03484299",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-07-31",
+  "sex": "ALL",
+  "sponsor": "University of Louisville",
+  "start_date": "2018-05-30",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

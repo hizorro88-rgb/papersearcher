@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Qian J",
+  "Ceuppens S",
+  "Tirukkovalur NV",
+  "He HZ",
+  "Zheng SY",
+  "Suppok R",
+  "Koerkamp BG",
+  "Zureikat AH"
+ ],
+ "categories": [
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832136",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1245/s10434-026-20555-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832136"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832136/"
+ },
+ "summary_ko": "원문을 확인하세요.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "ASO Visual Abstract: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

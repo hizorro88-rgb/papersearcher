@@ -1,0 +1,90 @@
+{
+ "abstract": "this is a randomized controlled trial aims to compare between patients with locally advanced pancreatic cancer treated with EUS-guided injection of gemcitabine in addition to systemic chemotherapy, versus those who treated with the standard systemic chemotherapy alone, regarding to(progression -free survival and response rate).\n\nResearchers will compare Arm A: patients received EUS-FNI of gemcitabine plus standard systemic chemotherapy to Arm B : patients receiving the standard systemic chemotherapy alone.\n\nPancreatic cancer (PC) is the seventh leading cause of global cancer deaths in the developed countries, and the third most common in the USA. Based on GLOBOCAN 2020 estimates, PC has ranked the 12th most common cancer in the world.\n\nIn Egypt, according to incidence rate; the PCs are the 11th most common malignancies and represent 2.2% of all cancers incidence. While according to mortality rate, PCs are the 8th of all deaths caused by cancer and represent 3.2%.\n\nPancreatic cancers are categorized into two main types based on the cell of origin: exocrine cancers, which are the most common (over 95% of cases) and begin in the cells lining the ducts, with adenocarcinoma being the most frequent type, and endocrine cancers (also called pancreatic neuroendocrine tumors) which are less common and start in hormone-producing endocrine cells.\n\naccording to National Comprehensive Cancer Network (NCCN 2025) resectability criteria: Locally advanced pancreatic cancer (stage 3) is defined as unresectable ( at the time of diagnosis) non-metastasized pancreatic cancer, but extend to the nearby blood vessels (solid tumor contact \\>180degree with the SMA or CA) .\n\nGemcitabine-based chemotherapy regimens have become the standard of care in LAPC. They have increased the chances of converting LAPC to resectable tumors . but chemoresistance to gemcitabine is increasing due insufficient drug delivery due to decreased microvascularity and stroma-induced chemoresistance (Desmoplastic Stroma).\n\nEUS allows fine-needle injection (FNI) that may overcome problems associated with tumor-related desmoplasia. Increasing intratumoral chemo-therapy level.\n\nWe hypothesized that gemcitabine could be safely administered by EUS-FNI and potentially enhance the efficacy of conventional multimodality therapy for patients with PC.\n\nThis study aim to evaluate the rate of response and quality of life in patients with locally advanced pancreatic cancer treated with EUS-FNI of gemcitabine in addition to systemic chemotherapy.\n\nIntervention:\n\nCase group (EUS-FNI of gemcitabine):\n\nPerformed under general anesthesia. Linear array EUS scope used for tumor localization. Fine needle is advanced to the pancreatic mass. Gemcitabine dose 200mg/ml is used, we take 1ml of the vial and dilute it in 2 cm3 and dilute it in normal saline.\n\nWe inject 50% of the dose at perimeter of the lesion at the sites of local infiltration and 50% within the remainder of the tumor (7).\n\nThe procedure will be repeated every 4 weeks for up to 4 sessions, in addition to systemic chemotherapy.\n\nSo all patients of the case group will be treated for up to 4 cycles of both EUS-FNI of gemcitabine and systemic chemotherapy followed by either concurrent chemoradiotherapy or surgical removal.\n\nControl group:\n\nWill receive up to 4 cycles of the standard systemic chemotherapy followed by either concurrent chemoradiotherapy or surgical removal.\n\nFollow up time:\n\nBoth groups of patients will be followed up for at least 12 months.\n\nFollow up includes:\n\nclinical assessment.. Imaging( MSCT abdomen, CT chest,and bone scan when needed). CA19.9\n\n2.4.5 -Research outcome:\n\n1. Primary (main): . To compare between patients with locally advanced pancreatic cancer treated with EUS-guided injection of gemcitabine in addition to systemic chemotherapy, versus those who treated with the standard systemic chemotherapy alone, regarding to(progression -free survival and response rate).\n2. Secondary (subsidiary):\n\n   1. Local tumor control (size reduction, necrosis on imaging).\n   2. Safety and tolerability of the combined therapy.\n   3. Quality of life in patients treated with combined therapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07429643",
+ "importance": 0.86,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07429643"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2026-02-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Assiut University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07429643"
+ },
+ "summary_ko": "this is a randomized controlled trial aims to compare between patients with locally advanced pancreatic cancer treated with EUS-guided injection of gemcitabine in addition to systemic chemotherapy, versus those who treated with the standard systemic chemotherapy alone, regarding to(progression -free survival and response rate). Researchers will compare Arm A: patients received EUS-FNI of gemcitabine plus standard systemic chemotherapy to Arm B : patients receiving the standard systemic chemother…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Endoscopic Ultrasound-Guided Loco-regional Chemotherapy Injection as Adjuvant Therapy for Locally Advanced Pancreatic Cancer.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "alshaimaaeid1995@yahoo.com",
+    "name": "Al shaimaa Eid Abd El Tawab, Assisstant lecturer",
+    "phone": "201065803070"
+   },
+   {
+    "email": "islammohamed846@yahoo.com",
+    "name": "islam mohamed Abd El-Hameed, assisstant lecturer",
+    "phone": "201016329653"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age \\> 18 years old.\n* Patients recently diagnosed to have pancreatic adenocarcinoma based on histopathological examination.\n* Locally advanced potentially resectable pancreatic cancer . .Eastern Cooperative Oncology Group performance status of 0 to 1. .Signed informed consent.\n\nExclusion Criteria:\n\n* Age \\< 18 years old.\n* Metastatic pancreatic cancer.\n* prior pancreatic surgery or chemotherapy or radiotherapy. concurrent or prior malignancy. coexistent medical condition precluding protocol therapy.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "endoscopic ultrasonograhy guided chemptherapy injection"
+  ],
+  "last_update_posted": "2026-02-24",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "60 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07429643",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2028-12-15",
+  "sex": "ALL",
+  "sponsor": "Assiut University",
+  "start_date": "2026-04-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

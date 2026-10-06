@@ -1,0 +1,99 @@
+{
+ "abstract": "The prognosis of pancreatic cancer is extremely poor, even in those patients who had underwent surgery, the 5-year survival is still less than 10%. Current guidelines recommend Gemcitabine monotherapy for R0 resection of pancreatic cancer. Inflammation plays an critical role in the development and progression of pancreatic cancer. Here we intend to assess the synergistic effect of using celecoxib in combination with gemcitabine on the treatment of R0 resection of pancreatic cancer.\n\nWe choose those patients who had underwent the R0 resection of pancreatic ductal adenocarcinoma patients, and divided them into two groups randomly, one group patients were given gemcitabine only according the current guidelines, while the other group patients were given gemcitabine combined with the anti-inflammation agent Celecoxib. The disease free survivals, drugs related side effects, overall survivals and other endpoints events were recorded and analyzed, to assess the celecoxib could or couldn't synergist the gemcitabine anti tumor effect on R0 resection pancreatic cancer patients.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03498326",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03498326"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2018-04-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03498326"
+ },
+ "summary_ko": "The prognosis of pancreatic cancer is extremely poor, even in those patients who had underwent surgery, the 5-year survival is still less than 10%. Current guidelines recommend Gemcitabine monotherapy for R0 resection of pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [
+  "pancreatic cancer",
+  "gemcitabine",
+  "celecoxib",
+  "R0 resection"
+ ],
+ "title": "Gemcitabine and Celecoxib Combination Therapy in Treating Patients With R0 Resection Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Chemotherapy Effect"
+  ],
+  "contacts": [
+   {
+    "email": "liangtingbo@zju.edu.cn",
+    "name": "Tingbo Liang",
+    "phone": "13666676128"
+   },
+   {
+    "email": "shirlybai@zju.edu.cn",
+    "name": "Xueli Bai",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. 18 years old and above.\n2. Surgery for R0 resection.\n3. The gemcitabine chemotherapy regimen was not previously used for the treatment of other malignancies.\n4. Eastern Cooperative Oncology Group score 0-2 points.\n5. Blood routine: The neutrophil count is at least 1.5\\*10\\^9/ml, and the platelet count is at least 100\\*10\\^9/ml.Hemoglobin is at least 80g/L.\n6. Liver function: bilirubin does not exceed 1.5 times the upper limit of normal; alanine aminotransferase and aspartate aminotransferase does not exceed the upper limit of normal 3 times; kidney function: creatinine ≤ 1.2 mg/dL.\n\nExclusion Criteria:\n\n1. Endocrine carcinoma, acinar pancreatic carcinoma, or cystadenocarcinoma (cystadenocarcinoma).\n2. Surgery for pancreatic cancer fails to reach the R0 resection criteria.\n3. Pancreatic cancer received radiotherapy before surgery.\n4. Malignant brain metastases.\n5. There are other serious cancer history.\n6. Active infection, severe diarrhea.\n7. Others: Those who are allergic to celecoxib; or who are intolerant to celecoxib, require continuous aspirin or Non-steroidal anti-inflammatory drugs; similar chemical or biological components and sulfa drugs that constitute the study drug History of allergies; allergies, asthma, and rubella after taking aspirin or non-steroidal anti-inflammatory drugs; pregnancy or breastfeeding; active gastrointestinal ulcer/hemorrhage/perforation; Severe mental illness; severe heart failure; past serious cardiovascular thrombotic adverse events, severe hypertensive patients.",
+  "enrollment": 480,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine",
+   "Gemcitabine"
+  ],
+  "last_update_posted": "2018-05-30",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "90 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03498326",
+  "phase": "PHASE2",
+  "primary_completion_date": "2023-03-31",
+  "sex": "ALL",
+  "sponsor": "Second Affiliated Hospital, Zhejiang University, School of Medicine",
+  "start_date": "2018-04-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

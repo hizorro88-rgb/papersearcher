@@ -1,0 +1,98 @@
+{
+ "abstract": "Hypothesis: Survival benefits could be found in Sintilimab plus chemotherapy and radiotherapy in patients with inoperable pancreatic cancer.\n\nBackground and aim:\n\nPancreatic cancer, characterized by its aggressive nature and dismal prognosis, exhibits one of the lowest 5-year survival rates among all solid tumors, standing at a mere 7%. Alarming projections suggest that by the year 2030, it will ascend to become the second leading cause of cancer-related deaths. This dire scenario is further compounded by the stealthy onset of the disease, with an overwhelming 80-85% of patients already presenting with unresectable pancreatic cancer at the time of initial diagnosis.\n\nClinical trials have endeavored to extend the survival of this challenging patient subset through the administration of chemotherapy or chemoradiotherapy. While these interventions have shown some promise, the overall response rate remains disappointingly low, and patients continue to grapple with a bleak prognosis, often surviving less than a year. This unmet medical need underscores the critical demand for more effective therapeutic modalities in the management of pancreatic cancer, as the lack of viable treatment options remains a primary driver of its high mortality rate.\n\nThe traditional therapeutic landscape for unresectable pancreatic cancer primarily relies on single-agent chemotherapy. However, there is a growing realization within the medical community that a paradigm shift toward a multidisciplinary approach is imperative. The crux of achieving long-term survival for pancreatic cancer patients lies in the attainment of a durable anti-tumor response.\n\nTargeted PD-(L)1 immunotherapy, renowned for its ability to induce enduring anti-tumor responses by harnessing the body's own immune system, has yielded remarkable results in various malignancies. Paradoxically, the success of single-agent immunotherapy in pancreatic cancer has been elusive, a phenomenon possibly attributed to the tumor's intrinsic genetic mutations and the hostile, immunosuppressive microenvironment that envelops pancreatic tumors.\n\nRadiation therapy has emerged as a potential ally in this battle against pancreatic cancer. It has been demonstrated to augment the release of tumor-associated antigens, thereby priming the immune system for a more robust response. In response to the resistance encountered with PD-(L)1 monotherapy, researchers have embarked on a journey of preclinical and clinical investigations aimed at validating the combinatorial approach of PD-(L)1 inhibitors alongside chemotherapy and radiation therapy.\n\nThe fundamental premise underlying the synergy of radiation and immunotherapy is rooted in the non-invasive initiation of the immune system against tumor cells. Radiation serves as a catalyst, promoting antigen presentation and co-stimulation, culminating in the generation of an immune response targeted at epitopes that had remained concealed within distant metastases. Immune checkpoint inhibitors play a pivotal role in reversing the immunosuppressive effects of the tumor microenvironment, thereby fostering a milieu conducive to anti-tumor immunity.\n\nWhile the efficacy of this integrative approach remains uncharted territory, current recommendations advocate for a first-line treatment strategy consisting of chemotherapy with optional radiation therapy. Targeted therapy and immunotherapy are not currently included in the initial treatment regimen. Consequently, the primary aim of our study is to explore and elucidate the outcomes of combining Sintilimab with radiation therapy and chemotherapy in the treatment of unresectable pancreatic cancer, offering a glimmer of hope in a landscape fraught with challenges and adversity.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06050317",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06050317"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-09-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shandong Cancer Hospital and Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06050317"
+ },
+ "summary_ko": "Hypothesis: Survival benefits could be found in Sintilimab plus chemotherapy and radiotherapy in patients with inoperable pancreatic cancer. Background and aim:\n\nPancreatic cancer, characterized by its aggressive nature and dismal prognosis, exhibits one of the lowest 5-year survival rates among all solid tumors, standing at a mere 7%.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Immunothrapy",
+  "Chemotherapy",
+  "Radiothrapy",
+  "Pancreatic cancer"
+ ],
+ "title": "Sintilimab Combined With Chemotherapy and Radiotherapy in Patients With Inoperable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "yuejinbo@hotmail.com",
+    "name": "Jinbo Yue, dorctor",
+    "phone": "0531-67626442"
+   },
+   {
+    "email": "Len.Xu@hotmail.com",
+    "name": "Lei Xu, dorctor",
+    "phone": "0531-67626442"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* ECOG PS 0-1\n* Pathological tissue-confirmed unresectable locally advanced pancreatic cancer\n* Pancreatic cancer patients who have not received systemic anti-tumor therapy\n* Primary pancreatic cancer or at least one measurable lesion specified by RECIST1.1 standards\n* A life expectancy of \\> 3 months\n* Blood routine examination: Absolute neutrophil count (ANC) ≥ 1.0 ×109 cells/L, platelets ≥ 75×109 cells/L, hemoglobin ≥ 9.0 g/dl\n* AST\\<2.5 × ULN(Upper Limit of Normal), ALT\\<2.5 × ULN,creatinine ≤1.5xULN, total bilirubin \\< ≤1.5 X ULN.\n\nExclusion Criteria:\n\n* Diagnosed with other malignant diseases other than pancreatic cancer within three years before enrollment\n* Patients who are currently participating in interventional clinical research treatment or have received other research drugs or used research devices within four weeks before enrollment\n* Patients who have previously received anti-PD-1, anti-PD-L1, or anti-PD-L2 drugs or another drug that stimulates or synergistically inhibits T-cell receptors\n* Patients who have received systemic treatment with Chinese patent medicines with anti-tumor indications or drugs with immunomodulatory effects within two weeks before enrollment\n* Abnormal results of blood routine examinations and liver and kidney and coagulation tests\n* Abnormal function of major organs (14 days before enrollment)\n* Women who are pregnant\n* Inability of the research subject or authorized legal representative to understand and the willingness to sign a written informed consent document.",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Sintilimab Plus mFFN or NALIRIFOX and Radiation"
+  ],
+  "last_update_posted": "2026-05-01",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06050317",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-08-18",
+  "sex": "ALL",
+  "sponsor": "Shandong Cancer Hospital and Institute",
+  "start_date": "2023-08-18",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

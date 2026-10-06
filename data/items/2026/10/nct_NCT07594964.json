@@ -1,0 +1,101 @@
+{
+ "abstract": "The goal of this interventional clinical study is to learn the safety and preliminary efficacy of XH001 injection (Personalized mRNA tumor neoantigen vaccine) combined with standard adjuvant treatment in treating patients with high-risk recurrent solid tumors after radical surgery.\n\nThe main questions it aims to answer are: What medical problems do participants have when using the combined treatment? Does XH001 injection combined with standard adjuvant treatment induce a specific T-cell response, and can it prolong the patient's relapse-free survival?",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07594964",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07594964"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-05-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shenzhen Xinhe Biomedical",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07594964"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "mRNA",
+  "Neoantigen specific tumor vaccine"
+ ],
+ "title": "To Evaluate the Safety, Tolerability, and Preliminary Efficacy of XH001 Injection as Adjuvant Therapy in Patients With High-risk Recurrent Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Biliary Cancer (Cholangiocarcinoma, Gall Bladder Cancer)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Hepatocellular Carcinoma (HCC)",
+   "Gastric Cancer (GC)"
+  ],
+  "contacts": [
+   {
+    "email": "yiz@neocura.net",
+    "name": "Yi Zhang",
+    "phone": "0086-18615536063"
+   },
+   {
+    "email": "bliu@neocura.net",
+    "name": "Bo Liu",
+    "phone": "0086-18101388626"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form;\n* Aged between 18 and 70 years old, male or female;\n* Patients with high-risk recurrent solid tumors confirmed by pathology after radical surgery mainly include pancreatic ductal adenocarcinoma, biliary tract malignancies, hepatocellular carcinoma, gastric adenocarcinoma, etc.\n* Expected survival duration ≥12 months;\n* ECOG score of 0-1;\n* White blood cell count≥ 3.0×10\\^9/L; Neutrophil count ≥ 1.0×10\\^9/L; Platelet count ≥75×10\\^9/L; Hemoglobin (Hb)≥ 90g/L; Creatinine clearance rate≥50mL/min \\[calculated using the Cockcroft-Gault formula\\]; Alanine aminotransferase ≤ 3×ULN (patients with hepatocellular carcinoma or biliary tract malignancy \\<5×ULN); Aspartate aminotransferase ≤ 3×ULN ((patients with hepatocellular carcinoma or biliary tract malignancy \\<5×ULN); Total bilirubin ≤ 3×ULN; Serum albumin \\> 28g/L; Coagulation: Prothrombin time prolongation ≤ 4s;\n\nExclusion Criteria:\n\n* There is evidence of tumor residue, recurrence or metastasis during screening;\n* Has a history of hepatic encephalopathy or liver transplantation;\n* Has clinical uncontrolled (requiring repeated drainage) pericardial effusion, pleural effusion and moderate or severe ascites;\n* Requires long-term systemic administration of antiallergic drugs, or has severe hypersensitivity reactions (\\>=Grade 3) to XH001 injection and/or any of its excipients;\n* New cerebrovascular accidents within 6 months before screening (including ischemic stroke, hemorrhagic stroke and transient ischemic attack)；\n* Individuals who have experienced acute myocardial infarction, or have uncontrolled angina pectoris, uncontrolled arrhythmia, severe heart failure (NYHA heart failure classification standard\\>= Grade III) and other cardiovascular diseases within 6 months before screening;\n* Patients with pancreatic ductal adenocarcinoma (PDAC) have the following conditions: 1) Borderline resectable pancreatic ductal adenocarcinoma; 2) Tumor tissue containing neuroendocrine tumor components (i.e., mixed type); 3) Pancreatic tumor types other than PDAC; 4) Persistent severe diarrhea after surgery;\n* Patients with biliary tract malignancy have the following conditions: 1) Pancreatic or ampullary cancer; 2) Unresolved biliary obstruction; 3) Insufficient surgical biliary drainage, and there are signs of infection;\n* .Subjects with hepatocellular carcinoma exhibit the following conditions: 1) The tumor contains components such as fibrolamellar hepatocellular carcinoma, sarcomatoid hepatocellular carcinoma, and biliary tract malignancy; 2) Received more than one cycle of adjuvant TACE after surgery or ablation;\n* Patients with gastric adenocarcinoma have the following conditions: severe postoperative complications (severe postoperative infection, anastomotic leakage and gastrointestinal bleeding);\n* Have active or poorly controlled severe infections;\n* .Patients with other malignancies within 5 years before enrollment, except for those with a history of appropriately treated and cured cervical carcinoma in situ, breast carcinoma in situ, or skin basal cell carcinoma;\n* Any history of autoimmune diseases (regardless of whether they are currently active),；\n* Who have previously received similar therapeutic tumor vaccines;",
+  "enrollment": 48,
+  "has_results": false,
+  "interventions": [
+   "XH001 Injection",
+   "mFOLFIRINOX Treatment Regimen"
+  ],
+  "last_update_posted": "2026-05-19",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07594964",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-10-30",
+  "sex": "ALL",
+  "sponsor": "Shenzhen Xinhe Biomedical",
+  "start_date": "2025-08-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

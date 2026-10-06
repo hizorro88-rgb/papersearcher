@@ -1,0 +1,98 @@
+{
+ "abstract": "An open-label, single-arm, multicenter, Phase Ib clinical trial to evaluate the efficacy and safety of CT041 Autologous CAR T Cell Injection after adjuvant chemotherapy in subjects with pancreatic cancer.\n\nThis study is an open, multicenter, Phase Ib clinical trial evaluating chimeric antigen receptor-modified autologous T cells targeting Claudin18.2 (CLDN18.2) (CT041 autologous CAR T) in subjects with CLDN18.2 expression-positive pancreatic cancer who has undergone adjuvant chemotherapy. The aim of this study is to evaluate the efficacy, safety of CT041 treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05911217",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05911217"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-06-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "CARsgen Therapeutics Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05911217"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Adjuvant therapy",
+  "Pancreatic Cancer",
+  "Claudin18.2",
+  "CLDN18.2",
+  "CAR T cell"
+ ],
+ "title": "A Study to Evaluate the Efficacy and Safety of CT041 After Adjuvant Chemotherapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "lifengzhang@carsgen.com",
+    "name": "Lifeng Zhang",
+    "phone": "86-21-54489928"
+   },
+   {
+    "email": "ningwang@carsgen.com",
+    "name": "Ning Wang",
+    "phone": "86-21-54489926"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntary participation in the clinical trial; fully understand, be informed about this study and have signed the ICF; willing to follow and able to complete all study procedures;\n2. Aged 18 to 79 years;\n3. Histologically confirmed pancreatic ductal adenocarcinoma;\n4. Macroscopic complete tumor removal (R0 or R1 resection);\n5. Postoperative pathological stage (pTNM): T1-3, N0-2, M0;\n6. Immunohistochemistry (IHC) staining of subject's tumor tissue sample is CLDN18.2-positive;\n7. Subjects had recovered from surgery and had received 3 months of standard adjuvant therapy;\n8. Abnormal CA19-9 level;\n9. With sufficient venous access for leukapheresis collection;\n10. ECOG performance status score 0-1;\n11. Adequate organ function;\n12. Men and women of childbearing potential must be willing to use effective methods of contraception to prevent pregnancy;\n\nExclusion Criteria:\n\n1. Prior neoadjuvant therapy for pancreatic cancer;\n2. Subjects with borderline resectable pancreatic cancer;\n3. Present or past history of metastatic or locally recurrent pancreatic cancer;\n4. Evidence of malignant ascites;\n5. Subjects had diseases that may interfere with CA19-9 level, including but not limited to cholangitis, pancreatitis, obstructive jaundice, etc.\n6. Toxicities caused by previous treatment have not recovered to CTCAE ≤ grade 2, except alopecia and other tolerable events as judged by the investigator or laboratory abnormalities allowed in this study;\n7. Pregnant or lactating women;\n8. Positive serology for HIV, Treponema pallidum or HCV;\n9. Any active infections, including but not limited to active tuberculosis, HBV, EBV, CMV, COVID-19 infections;\n10. Clinically significant thyroid dysfunction;\n11. Previous allergy to immunotherapy and related drugs, allergy to CT041 ingredients and other serious allergic history;\n12. Subjects who may be at high risk for potential digestive tract bleeding or perforation;\n13. Known active autoimmune disease, including but not limited to, psoriasis or rheumatoid arthritis, or other conditions requiring long-term immunosuppressive therapy;\n14. Subjects who have a history of organ transplantation or are awaiting organ transplantation;\n15. Subjects who require anticoagulant therapy;\n16. Subjects who are receiving or are expected to require long-term antiplatelet therapy during the study;\n17. Subjects who have experienced major surgery or have significant trauma within 4 weeks before apheresis, or who are expected to undergo major surgery during the study period;\n18. Previously received any gene-modified cell therapies (including CAR T, TCR T);\n19. Subjects who have other serious diseases that may restrict them from participating in the study assessed by investigators;\n20. Subjects with oxygen saturation ≤ 95%;\n21. Subjects who have signs of central nervous system diseases or clinically significant neurological examination abnormalities;\n22. Subjects who have other uncured malignant tumors in the past 3 years or at the same time, except those with very low degree of malignancy such as cervical cancer in situ and basal cell carcinoma of skin;\n23. Vaccination with live attenuated vaccines within 4 weeks prior to apheresis or planned during the study;\n24. Subjects who are unable to or unwilling to comply with the requirements of the study protocol as assessed by investigators.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "CT041 autologous CAR T-cell injection"
+  ],
+  "last_update_posted": "2024-05-28",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "79 Years",
+  "min_age": "18 Years",
+  "n_locations": 8,
+  "nct_id": "NCT05911217",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12-31",
+  "sex": "ALL",
+  "sponsor": "CARsgen Therapeutics Co., Ltd.",
+  "start_date": "2023-07-11",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

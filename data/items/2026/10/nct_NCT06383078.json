@@ -1,0 +1,85 @@
+{
+ "abstract": "The purpose of this study is to evaluate the efficacy and safety of HR070803 in Combination With Oxaliplatin plus Tegafur compared to HR070803 in combination with oxaliplatin, 5-fluorouracil/leucovorin (5FU/LV) treatment as adjuvant therapy in patients with resected pancreatic cancer.\n\nSTUDY DESIGN/ Evaluation criteria Main criterion: efficacy. The main criterion is the 1-year disease-free survival rate. Disease-free survival is defined as the time from date of randomization until the date of the first cancer-related event, second cancer, or death from any cause. Patients without event at the time of analysis will be censored at the date of last follow-up visit.\n\nSecondary criteria include Overall survival. OS is defined as the time from date of randomization until the date of death from any cause. Patients who are still living at the time of analysis will be censored at the date of last follow-up visit.\n\nSecondary criteria also include the Disease-free survival.\n\nTolerance Patients evaluable for toxicity must have received one investigational drug.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06383078",
+ "importance": 0.69,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06383078"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-04-25",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "The First Affiliated Hospital with Nanjing Medical University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06383078"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "HR070803 in Combination With Oxaliplatin, S-1 Versus NALIRIFOX as Adjuvant Therapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Efficacy and Safety"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Histologically confirmed resected ductal pancreatic adenocarcinoma with macroscopic complete resection (R0 and R1).\n2. ECOG performance status 0 or 1.\n3. Life expectancy of greater than or equal to 6 months.\n4. Full recovery from surgery and patient is scheduled to start treatment within 3 weeks to 12 weeks after surgery.\n5. The number of lymph nodes dissected during resection ≥ 15.\n6. Able and willing to provide a written informed consent.\n\nExclusion Criteria:\n\n1. Patients with pancreatic cancer originating from extrapancreatic ductal epithelium, including pancreatic neuroendocrine carcinoma, acinar cell carcinoma of the pancreas, pancreatoblastoma, and solid-pseudopapillary tumor;\n2. Presence of or history of metastatic or locally recurrent pancreatic adenocarcinoma.\n3. CA19-9 exceeding normal value within 14 days prior to enrollment.\n4. Prior neo-adjuvant treatment, radiation therapy, or systemic therapy for pancreatic adenocarcinoma.\n5. Severe infection (\\> CTCAE grade 2), such as severe pneumonia, bacteremia, infection complications, etc. requiring inpatient treatment, occurred within four weeks before enrollment, and symptoms and signs of infection requiring intravenous antibiotic therapy (except for prophylactic antibiotics) occurred within two weeks before enrollment;\n6. Patients with cardiac clinical symptoms or diseases that are not well controlled, such as: (1) Patients with NYHA class 2 and above cardiac failure; (2) unstable angina; (3) myocardial infarction that occurred within 6 months; (4) clinically significant supraventricular or ventricular arrhythmia requiring treatment or intervention.",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "HR070803",
+   "Oxaliplatin",
+   "Tegafur",
+   "Folinic acid",
+   "5-Fluorouracil"
+  ],
+  "last_update_posted": "2024-04-25",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "20 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06383078",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-03-01",
+  "sex": "ALL",
+  "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+  "start_date": "2024-04-20",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

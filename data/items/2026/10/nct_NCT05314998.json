@@ -1,0 +1,103 @@
+{
+ "abstract": "This is a multicentre open labelled phase III adjuvant trial of disease-free survival in patients with resected pancreatic ductal adenocarcinoma randomized to allocation of oxaliplatin- or gemcitabine-based chemotherapy by standard clinical criteria (control arm) or by a transcriptomic treatment specific stratification signature or TSS (test arm).\n\nThe main purpose and primary objective of the study is to determine whether disease free survival in patients with resected pancreatic ductal adenocarcinoma (PDAC) treated with standard adjuvant chemotherapy regimens (oxaliplatin- or gemcitabine-based), is superior using allocation based on a treatment specific signature (TSS), compared to the same chemotherapy regimens allocated according to standard clinical criteria.\n\nSecondary objectives of the study are to assess overall survival (median, 3 year survival rate), metastasis free survival; survival based on targeted signatures (TSS) in test versus control arms, and survival using targeted therapies initially on relapse compared to standard first-line therapies on relapse.\n\nIn addition, ESPAC-6 optional translational research programme will obtain tumor specimens and blodd samples to identify biomarkers that may predict response to chemotherapy or relapse.\n\nESPAC-6 will also generate a biobank of matched patient-derived organoids (PDOs) to provide an experimentally tractable model system for the development and testing of biomarker-driven personalised therapies.\n\nESPAC-6 translational research programme, will also develop a longitudinal blood biobank to analyse clinically relevant circulating biomarkers, such as blood proteins, metabolites and/or circulating-free tumour DNA.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05314998",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05314998"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2022-04-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "John Neoptolemos",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05314998"
+ },
+ "summary_ko": "This is a multicentre open labelled phase III adjuvant trial of disease-free survival in patients with resected pancreatic ductal adenocarcinoma randomized to allocation of oxaliplatin- or gemcitabine-based chemotherapy by standard clinical criteria (control arm) or by a transcriptomic treatment specific stratification signature or TSS (test arm). The main purpose and primary objective of the study is to determine whether disease free survival in patients with resected pancreatic ductal adenocar…",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic Ductal Adenocarcinoma",
+  "PDAC",
+  "Adjuvant therapy",
+  "Transcriptomic signature"
+ ],
+ "title": "Adjuvant Trial in Patients With Resected PDAC Randomized to Allocation of Oxaliplatin- or Gemcitabine-based Chemotherapy by Standard Clinical Criteria or by a Transcriptomic Treatment Specific Stratification Signature",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "john.neoptolemos@med.uni-heidelberg.de",
+    "name": "John Neoptolemos, Prof. Dr.",
+    "phone": "0049 6221 56-39020"
+   },
+   {
+    "email": "pauligk.claudia@ikf-khnw.de",
+    "name": "Claudia Pauligk, Dr.",
+    "phone": "0049 69 6301 - 3906"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria\n\n1. Histologically proven pancreatic ductal adenocarcinoma including variants, and pancreatic acinar cell carcinoma.\n2. Patient had provided tumour tissue at resection for RNAseq.\n3. Macroscopically complete resection (R0 or R1 resection).\n4. Female and male Patients aged from 18 to 79 years.\n5. WHO performance status 0-1.\n6. No prior radiotherapy and no previous chemotherapy for pancreatic cancer.\n7. Full recovery from surgery and patient able to receive chemotherapy: adequate oral nutrition of ≥ 1500 calories per day and free of significant nausea and vomiting.\n8. Adequate hematologic function: Absolute neutrophil count ≥ 1,500 cells/mm3, platelets ≥ 100,000 cells/mm3 and haemoglobin ≥ 8 g/L (transfusion permitted).\n9. Serum total bilirubin ≤ 1.5 times the institutional upper limit of normal.\n10. Creatinine clearance ≥ 50 mL/min.\n11. Patient of child-bearing potential (for female patient: study entry after a menstrual period and a negative pregnancy test) must agree to use highly effective methods of contraception during the study and for 6 months after the last study treatment for women and 6 months for men.\n12. Intended interval since surgery between 21 and 84 days at date of randomization.\n13. Public or private health insurance cover.\n14. Ability of subject to understand character and individual consequences of the clinical trial.\n15. Not legally incapacitated.\n16. Written informed consent.\n\nExclusion Criteria\n\n1. Solid pseudopapillary neoplasm, neuroendocrine neoplasm, pancreatoblastoma, bile duct cancer, and ampullary cancer.\n2. Distant metastases, including ascites or malignant pleural effusion.\n3. Macroscopic incomplete tumour removal (R2 resection).\n4. Post-operative CA 19-9 \\> 180 U / ml before randomization on study.\n5. Cardiomyopathy or congestive heart failure, NYHA III-IV or coronary heart disease symptoms.\n6. Major comorbidity that may preclude the delivery of treatment or known active infection (HIV or untreated chronic hepatitis B or active hepatitis C) or uncontrolled diabetes.\n7. Pre-existing neuropathy, Gilbert's disease or known genotype UGT1A1\\*28 /\\*28.\n8. Inflammatory disease of the colon or rectum, or intestinal obstruction, or severe postoperative uncontrolled diarrhoea.\n9. Known severe dihydropyrimidine dehydrogenase (DPD) deficiency (activity score \\<1). There are clear guidelines for dose reductions for patients with a score of 1 and 1,5 (2 is normal activity)\n10. Pregnancy and lactation.\n11. Participation in other clinical trials or observation period of competing trials, respectively.\n12. History of hypersensitivity or other known contraindication to the investigational medicinal product or to any drug with similar chemical structure or to any excipient present in the pharmaceutical form of the investigational medicinal product.\n13. Past or current history of other malignancies not curatively treated and without evidence of disease for more than 5 years, except for curatively treated basal cell carcinoma of the skin and in situ carcinoma of the cervix or bladder, or low/intermediate risk prostate cancer (Gleason score ≤7) with normal PSA levels.\n14. Any other concurrent antineoplastic treatment including irradiation",
+  "enrollment": 394,
+  "has_results": false,
+  "interventions": [
+   "Oxaliplatin",
+   "Irinotecan",
+   "Folinic acid",
+   "5-fluorouracil",
+   "Gemcitabine",
+   "Capecitabine"
+  ],
+  "last_update_posted": "2026-08-27",
+  "location_countries": [
+   "Germany",
+   "Sweden"
+  ],
+  "locations_kr": [],
+  "max_age": "79 Years",
+  "min_age": "18 Years",
+  "n_locations": 33,
+  "nct_id": "NCT05314998",
+  "phase": "PHASE3",
+  "primary_completion_date": "2033-04-01",
+  "sex": "ALL",
+  "sponsor": "John Neoptolemos",
+  "start_date": "2026-08-17",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

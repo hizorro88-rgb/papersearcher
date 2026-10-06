@@ -1,0 +1,26 @@
+name: 내용·분류 수정 제안
+description: 특정 항목의 요약, 번역, 카테고리, 근거 수준이 잘못되었을 때
+title: "[수정] "
+labels: [correction]
+body:
+  - type: input
+    id: item
+    attributes:
+      label: 항목 ID 또는 URL
+      description: 예) pmid:41234567, nct:NCT05379985, 또는 사이트 페이지 주소
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: 무엇이 잘못되었나요
+      options: [한국어 요약/번역, 카테고리, 근거 수준, 참여 조건 정리, 중복 항목, 췌장암과 무관한 항목, 기타]
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 올바른 내용과 근거
+      description: 원문의 어느 부분을 보면 확인할 수 있는지 적어 주세요.
+    validations:
+      required: true

@@ -1,0 +1,105 @@
+{
+ "abstract": "This is a Phase 1, open-label, multicenter, study of the safety, tolerability, PK, PD, and anti-tumor activity of MRTX1719 patients with advanced, unresectable or metastatic solid tumor malignancy with homozygous deletion of the MTAP gene.\n\nThis first-in-human clinical trial will begin with an exploration of MRTX1719 dose and regimen. As potentially viable regimens are identified, Phase 1b expansion cohorts may be implemented to ensure sufficient safety experience, PK information, compare food effect and relative bioavailability between capsules and tablets, and early evidence of clinical activity are available.",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05245500",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05245500"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2022-02-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Bristol-Myers Squibb",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05245500"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "MTAP Deletion",
+  "Mesothelioma",
+  "Non Small Cell Lung Cancer",
+  "Malignant Peripheral Nerve Sheath Tumors",
+  "Solid Tumor",
+  "MTAP",
+  "Malignant",
+  "Pancreatic adenocarcinoma",
+  "Pancreas Cancer",
+  "PRMT5"
+ ],
+ "title": "Phase 1 Study of MRTX1719 in Solid Tumors With MTAP Deletion",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Mesothelioma",
+   "Non Small Cell Lung Cancer",
+   "Malignant Peripheral Nerve Sheath Tumors",
+   "Solid Tumor",
+   "Pancreatic Adenocarcinoma",
+   "Advanced Solid Tumor"
+  ],
+  "contacts": [
+   {
+    "email": "Clinical.Trials@bms.com",
+    "name": "BMS Clinical Trials Contact Center www.BMSClinicalTrials.com",
+    "phone": "855-907-3286"
+   },
+   {
+    "email": null,
+    "name": "First line of the email MUST contain NCT # and Site #.",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria\n\n* Histologically confirmed diagnosis of a solid tumor malignancy with homozygous deletion of the MTAP gene detected in tumor tissue.\n* Unresectable or metastatic disease.\n* Presence of a tumor lesion amenable to mandatory biopsy for pharmacodynamic evaluation at baseline and on-study unless Sponsor-confirmed as medically unsafe or infeasible.\n* Age ≥ 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria\n\n* Prior treatment with a PRMT5 or MAT2A inhibitor therapy.\n* Active brain metastases or carcinomatous meningitis.\n* History of significant hemoptysis or hemorrhage within 4 weeks of the first dose of study treatment.\n* Major surgery within 4 weeks of first dose of study treatment.\n* History of intestinal disease, inflammatory bowel disease, major gastric surgery, or other gastrointestinal conditions (eg, uncontrolled nausea, vomiting, malabsorption syndrome) likely to alter absorption of study treatment or result in inability to swallow oral medications.\n* Cardiac abnormalities.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
+  "enrollment": 336,
+  "has_results": false,
+  "interventions": [
+   "MRTX1719"
+  ],
+  "last_update_posted": "2026-09-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 25,
+  "nct_id": "NCT05245500",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-12-10",
+  "sex": "ALL",
+  "sponsor": "Bristol-Myers Squibb",
+  "start_date": "2022-06-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

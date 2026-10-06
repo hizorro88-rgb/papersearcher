@@ -1,0 +1,100 @@
+{
+ "abstract": "Phase 1b study evaluating the efficacy and immune response to a synthetic long peptide mutant KRAS vaccine (SPL mKRASvax) combined with Balstilimab and Botensilimab for unresectable or metastatic mismatch repair-proficient (MMR-p) colorectal cancer (mCRC) or unresectable or metastatic MMR-p pancreatic ductal adenocarcinoma (PDAC) patients with measurable disease following first-line chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06411691",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06411691"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-05-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06411691"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "mKRAS peptide vaccines",
+  "Anti-PD-1 (anti-check point inhibitor)",
+  "PD-L1 (check point inhibitor)",
+  "Balstilimab",
+  "Botensilimab",
+  "Cancer Vaccines",
+  "SLP mKRASvax (peptide vaccine + Poly-ICLC (Hiltonol))",
+  "Immunotherapy",
+  "Colon Cancer",
+  "Metastatic colon cancer"
+ ],
+ "title": "KRAS-Targeted Vaccine Combined With Balstilimab and Botensilimab for Patients With Stage IV MMR-p Colorectal Cancer and Pancreatic Ductal Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colorectal Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "GIClinicalTrials@jhmi.edu",
+    "name": "Colleen Apostol, RN",
+    "phone": "410-614-3644"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥18 years.\n* Have histologically or cytologically - proven cancer of the pancreas or colon.\n* Have tumor lesions amenable to repeated biopsy, and patient's acceptance to have a tumor biopsy of an accessible lesion at baseline and on treatment if the lesion can be biopsied with acceptable clinical risk (as judged by the investigator).\n* Measurable disease as per RECIST 1.1.\n* Have sufficient and accessible tissue for next generation sequencing (NGS) and immune-phenotyping.\n* Have one of the KRAS mutations included in the vaccine at the time of vaccination expressed in tumor.\n* Cohort A: Have received 4-6 months of FOLFIRINOX or gemcitabine+nab-paclitaxel for the 1st line treatment of metastatic unresectable PDAC.\n* Cohort B: Have received 4-6 months of 1st line SOC chemotherapy per NCCN guidelines (FOLFIRINOX, FOLFOX, FOLFIRI +/- targeted therapy with VEGFi or EGFRi) of metastatic CRC.\n* Cohort C: Have received no more than 3 lines of systemic chemotherapy, including prior KRAS inhibitor.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0.\n* Life expectancy of greater than 3 months.\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests prior to initial study drug.\n* Woman of childbearing potential must have a negative pregnancy test and follow contraceptive guidelines as defined per protocol.\n* Men must use acceptable form of birth control while on study.\n* Ability to understand and willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Is a candidate for definitive surgical resection.\n* Known history or evidence of brain metastases and/or leptomeningeal spread.\n* Prior treatment with immunotherapy agents (including, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA4, etc.).\n* Receiving active immunosuppressive agents or chronic use of systemic corticosteroids within 14 days of vaccine treatment.\n* Has active autoimmune disease that has required systemic treatment in the past 5 years, or a documented history of clinically severe autoimmune disease, or a syndrome that requires systemic steroids or immunosuppressive agents.\n* Known history or concurrent interstitial lung disease.\n* Has a pulse oximetry \\< 95% on room air.\n* Requires the use of home oxygen.\n* Infection with HIV or hepatitis B or C.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Has been diagnosed with another cancer or myeloproliferative disorder in the past 5 years except for superficial bladder cancer, non-melanoma skin cancers, DCIS, a low-grade prostate cancer, or a cancer not expected to impact life expectancy and not requiring therapy.\n* Has had surgery within 28 days of dosing of investigational agent, excluding minor procedures (dental work, skin biopsy, etc.), celiac plexus block, and biliary stent placement.\n* Has received any non-oncology live vaccine therapy used for prevention of infectious diseases within 28 days of study treatment.\n* If at the time of signing informed consent, a regular user (including \"recreational use\") of any illicit drugs or other substance abuse (including alcohol) that could potentially interfere with adherence to study procedures or requirements.\n* Any other sound medical, psychiatric, and/or social reason as determined by the Investigator.\n* Unwilling or unable to follow the study schedule for any reason.\n* Are pregnant or breastfeeding.\n* Any radiological or clinical pleural effusions or ascites.\n* History of malignant small bowel obstruction.\n* On parenteral nutrition.\n* Known or suspected hypersensitivity to Hiltonol.",
+  "enrollment": 54,
+  "has_results": false,
+  "interventions": [
+   "KRAS Vaccine with Poly-ICLC adjuvant",
+   "Balstilimab",
+   "Botensilimab"
+  ],
+  "last_update_posted": "2026-07-31",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06411691",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-11-01",
+  "sex": "ALL",
+  "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+  "start_date": "2024-11-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

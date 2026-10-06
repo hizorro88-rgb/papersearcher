@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains among the most lethal malignancies, and activating KRAS mutations occur in more than 90% of tumors. Direct RAS targeting has moved from proof of concept to randomized clinical benefit: in previously treated metastatic PDAC, daraxonrasib improved median overall survival, progression-free survival, and objective response rate versus chemotherapy. Mutation-selective G12C and G12D inhibitors, targeted degraders, and first-line RAS(ON) combinations further broaden the landscape. Comprehensive germline and somatic profiling remains essential even with the availability of multi-selective KRAS inhibitors. KRAS alleles differ biologically, drug activity against individual alleles is not yet fully characterized, and eligibility for clinical trials often depends on the specific genotype. In addition, KRAS wild-type tumors may harbor actionable alterations, including gene fusions, amplifications, or mismatch-repair deficiency. This review synthesizes RAS biology, molecular-testing implications, clinical efficacy and toxicity data, and ongoing phase 2 and phase 3 trials. Priority questions include optimal sequencing, management of rash and mucositis, resistance, biomarker development, and integration into first-line and curative-intent therapy.",
+ "authors": [
+  "Petrelli F",
+  "Dottorini L",
+  "Zaniboni A"
+ ],
+ "categories": [
+  "treatment",
+  "trial"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42836673",
+ "importance": 0.69,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1002/cncr.70640",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42836673"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42836673/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Targeting RAS in pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

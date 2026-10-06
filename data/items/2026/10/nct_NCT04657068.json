@@ -1,0 +1,101 @@
+{
+ "abstract": "This clinical trial is evaluating a drug called ART0380 in participants with advanced or metastatic solid tumors. The main goals of this study are to:\n\n* Find the recommended dose of ART0380 that can be given safely to participants alone and in combination with gemcitabine or irinotecan\n* Learn more about the side effects of ART0380 alone and in combination with gemcitabine or irinotecan\n* Learn more about the effectiveness of ART0380 alone and in combination with gemcitabine or irinotecan\n\nART0380 is a new investigational medicinal product that is a potent and selective inhibitor of Ataxia telangiectasia and Rad3-related (ATR). ART0380 is being developed as an oral anti-cancer agent for the treatment of participants with cancers that harbor defects in deoxyribonucleic acid (DNA) repair and in combination with agents including those that cause DNA damage.\n\nThis study is an open-label Phase I/IIa study designed to evaluate the safety, tolerability, PK and preliminary efficacy of ART0380 as monotherapy or in combination with gemcitabine or irinotecan in participants with advanced or metastatic solid tumors, advanced or solid tumors that fail to express Ataxia-Telangiectasia Mutated protein kinase (ATM), and high grade serous ovarian, primary peritoneal or fallopian tube carcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04657068",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04657068"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2020-12-08",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Artios Pharma Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04657068"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Loss of Ataxia Telangiectasia Mutated (ATM) protein"
+ ],
+ "title": "A Study of ART0380 for the Treatment of Advanced or Metastatic Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Cancer",
+   "Metastatic Cancer",
+   "Ovarian Cancer",
+   "Primary Peritoneal Cancer",
+   "Fallopian Tube Cancer",
+   "Endometrial Cancer",
+   "Metastatic Colorectal Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Acinar Cell Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "SCRI.InnovationsMedical@scri.com",
+    "name": "Sarah Cannon Development Innovations",
+    "phone": "844-710-6157"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "General Inclusion Criteria:\n\n* Signed informed consent\n* Discontinued all previous treatments for cancer for at least 21 days or 5 half-lives, whichever is shorter, and recovered from the acute effects of therapy to CTCAE Grade ≤1. Palliative radiotherapy must have completed 1 week prior to start of study treatment.\n* If patients have a known germline BRCA mutation or a cancer with a somatic BRCA mutations or which is HRD positive and for which there is an approved PARP inhibitor, participants should have received such treatment before participating in the study unless contra-indicated\n* At least 1 radiologically evaluable lesion (measurable and/or non-measurable) that can be assessed at baseline and is suitable for repeated radiological evaluation by RECIST v1.1 or Prostate Cancer Working Group-3 Guidelines (PCWG-3)\n* Acceptable hematologic, renal, hepatic, and coagulation functions independent of transfusions and granulocyte colony-stimulating factor\n* Non-irradiated tumor tissue sample (archival or newly obtained core biopsy of a tumor lesion) available for submission for analysis.\n* Female patients of childbearing potential and male patients with female partners of childbearing potential are required to use highly effective contraception plus one barrier method during their participation in the study and for 7 months and 5 months respectively following the last dose. For male and female patients given gemcitabine or irinotecan, highly effective contraception plus one barrier method must be used from study entry until 6 months after the last dose of study treatment. Male patients are required to refrain from donating sperm and female patients are required to refrain from donating eggs, during their participation in the study and for 6 months following last dose.\n* Estimated life expectancy of ≥12 weeks\n* Reliable and willing to make themselves available for the duration of the study and are willing to follow study procedures\n* Performance status of 0-1 on the ECOG Scale\n\nAdditional inclusion criteria for participants in dose escalation (Part A1):\n\n* Advanced or metastatic cancer which is refractory to standard therapies, or for which no standard therapies exist, or for which the investigator feels no other active therapy is required for the duration of the study\n* Performance status of 0-1 on the Eastern Cooperative Oncology Group (ECOG) scale\n\nAdditional inclusion criteria for participants in dose escalation (Part A2):\n\n•Advanced or metastatic cancer for which gemcitabine is an appropriate treatment. Prior treatment with gemcitabine is permitted.\n\nAdditional inclusion criteria for participants in dose escalation (Part A3):\n\n* Advanced or metastatic cancer for which irinotecan is an appropriate treatment. Prior treatment with irinotecan is permitted.\n* For food effect cohort only: Patients must be able to eat a high-fat meal within a 30 minute period, as provided by the study site.\n\nAdditional inclusion criteria for participants in dose expansion (Part B1):\n\n* Patients with advanced or metastatic solid tumors with alterations to the ATM gene likely to predict for loss of ATM protein\n* Have at least 1 measurable lesion assessable using standard techniques by RECIST v1.1\n* For France only ART0380 Monotherapy; Patient that is not eligible for curative treatment, for whom all standard of care therapies have failed and no therapies known to provide clinical benefit are available.\n* Combination arms; Patients for which irinotecan is an appropriate treatment. Prior treatment with irinotecan is permitted.\n* For Spain only ART0380 Combination therapy, Patient that is not eligible for curative treatment, for whom standard of care therapies have failed.\n\nAdditional inclusion criteria for participants in dose expansion (Part B2):\n\n* Patients with a known germline BRCA mutation, or a cancer with a known somatic BRCA mutation, or which is known to be HRD positive, and for which there is an approved PARP inhibitor should have received such treatment before participating in the study, unless contra-indicated.\n* Females with histologically-confirmed diagnosis of high grade serous carcinoma of the ovary, fallopian tube or primary peritoneum that is not amenable to curative therapy\n* Platinum-resistant disease. Patients must not have had primary platinum-refractory disease (disease that progressed during first-line platinum-based therapy).\n* No more than one prior regimen in the platinum-resistant setting. Hormonal therapies and antiangiogenic therapies (as single agents) and PARP inhibitors used as maintenance therapy are not considered as separate lines of therapy. Patients should have previously received bevacizumab and chemotherapy unless contra-indicated.\n* Have not received prior treatment with gemcitabine unless administered in combination with a platinum with no disease progression within 12 months after completion of that regimen\n* Have at least 1 measurable lesion assessable using standard techniques by RECIST v1.1\n\nInclusion criteria specific to Part B3\n\n* Persistent or recurrent endometrial cancer with biological selection.:\n* Patients should have received taxane/platinum chemotherapy, unless contraindicated.\n* Measurable disease.\n\nInclusion criteria specific to Part B4\n\n* Advanced or metastatic solid cancers of any histology with biological selection\n* If a PD-1/PDL-1 inhibitor (eg, pembrolizumab) is approved and available for the patient's cancer, the patient should have received such treatment before participating in this study.\n* Radiologically evaluable disease\n* Performance status of 0-1 on the ECOG scale\n\nInclusion criteria specific to Part B5\n\n* Metastatic CRC with alterations to the ATM gene\n* Participants should have previously received appropriate prior lines of therapy in this setting.\n* Have at least 1 measurable lesion assessable using standard techniques by RECIST v1.1.\n* Patients have received a maximum of 2 prior chemotherapy regimens for the treatment of CRC.\n* Serum albumin ≥3g/dL within 7 days prior to first dose.\n* ECOG Performance Status must be stable for at least 2 weeks prior to enrollment.\n* Must have the clinical capacity to complete at least one 21-day treatment cycle without, in the investigator's judgment, a foreseeable need for prolonged hospitalization related to their underlying disease\n\nInclusion criteria specific to Part B6:\n\n* Metastatic or locally advanced PDAC or acinar cell carcinoma with alterations to the ATM gene\n* Participants must have received at least 1 prior chemotherapy regimen for the treatment of the advanced disease OR have received neoadjuvant/adjuvant therapy with recurring occurring \\<6 months following completion of this treatment.\n* Have at least 1 measurable lesion assessable using standard techniques by RECIST v1.1. Previously irradiated lesions may not be considered target lesions.\n* Serum albumin ≥3g/dL within 7 days prior to first dose.\n* ECOG Performance Status must be stable for at least 2 weeks prior to enrollment.\n* Must have the clinical capacity to complete at least one 21-day treatment cycle without, in the investigator's judgment, a foreseeable need for prolonged hospitalization related to their underlying disease.\n\nGeneral Exclusion Criteria:\n\n* Women who are pregnant, breast feeding, or who plan to become pregnant while in the study or within 7 months after the last administration of study treatment\n* Men who plan to father a child while in the study or within5 months after the last administration of study treatment\n* Serious concomitant systemic disorder that would compromise the participants ability to adhere to the protocol including: one or more opportunistic HIV/AIDs-related infections within the past 12 months, a known hepatitis B virus, or known hepatitis C virus; documented active or chronic tuberculosis infection; malignancy prior to the one currently being treated that is not in remission\n* Have ongoing interstitial lung disease or pneumonitis (whether symptomatic or asymptomatic).\n* Moderate or severe cardiovascular disease\n* Valvulopathy that is severe, moderate, or deemed clinically significant\n* Documented major electrocardiogram (ECG) abnormalities which are clinically significant\n* Symptomatic or uncontrolled brain metastases, spinal cord compression, or leptomeningeal disease requiring concurrent treatment\n* Received a live vaccine within 30 days before the first dose of study treatment\n* History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the patient's participation for the full duration of the study, or is not in the best interest of the patient to participate\n* Recent major surgery within 4 weeks prior to entry into the study or minor surgery within 1 week of entry into the study\n* Drainage for ascites, pleural effusion or pericardial fluid within 4 weeks before the first dose of study treatment.\n* A significant bleeding disorder or vasculitis or had a Grade ≥3 bleeding episode within 12 weeks prior to enrollment\n* Currently enrolled in a clinical trial involving an investigational product or any other type of medical research judged not to be scientifically or medically compatible with this study\n\nAdditional exclusion criteria for participants in dose escalation (Part A3, B1, B5, and B6 in combination with irinotecan):\n\n* Patients who have symptoms or signs of clinically unacceptable deterioration of the primary disease at the time of screening.\n* Patients who are known to be homozygous for both UGT1A1 \\*6 and \\*28 (UGT1A1 7/7 genotype), or simultaneously heterozygous for both UGT1A1 \\*6 and \\*28.\n* Patients receiving strong inhibitors of UGT1A1 within 2 weeks before the first dose of study treatment\n* Part A3 Fed-fasted cohort only: Patients receiving acid reducing agents within 1 week before the first dose of study treatment will be excluded\n* Part B6: Neuroendocrine (carcinoid, islet cell) or adenosquamous carcinoma pancreatic cancer\n* Parts B5 and B6: Initiation of opioids in the previous 2 weeks.\n* Parts B5 and B6: Weight loss \\>10% in the previous 8 weeks.\n* Parts B5 and B6: Active intestinal obstruction, ileus, or significant malabsorption.",
+  "enrollment": 542,
+  "has_results": false,
+  "interventions": [
+   "ART0380",
+   "Gemcitabine",
+   "Irinotecan"
+  ],
+  "last_update_posted": "2026-07-30",
+  "location_countries": [
+   "France",
+   "Spain",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 82,
+  "nct_id": "NCT04657068",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-01",
+  "sex": "ALL",
+  "sponsor": "Artios Pharma Ltd",
+  "start_date": "2021-01-27",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

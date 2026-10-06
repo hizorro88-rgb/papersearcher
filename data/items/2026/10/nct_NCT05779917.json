@@ -1,0 +1,98 @@
+{
+ "abstract": "The second generation of mesothelin targeted CAR-T cells that secret a fusion protein of IL21 and scfv against PD1 have been constructed and their anti-cancer function has been verified by multiple in vitro and in vivo studies. Clinical studies will be performed to test anti-cancer function of the CAR-T cells for immunotherapy of human cancer patients with Mesothelin expressions. In this phase I study, the safety, tolerance, and preliminary efficacy of the Mesothelin-CAR-T cell immunotherapy on human cancers will firstly be evaluated.\n\n1. Choose appropriate patients with advanced pancreatic cancer or other cancers, with written consent for this study;\n2. Perform biopsy to determine the expression of Mesothelin of the tumors by western blotting or IHC;\n3. Collect blood from the patients and isolate mononuclear cells, activate the T cells and transfect the T cells with Mesothelin targeting CAR, amplify the transfected T cells as needed, test the quality and killing activity of the CAR-T cells and then transfer them back the patients via systemic or local injections, and follow up closely to collect related results as required;\n4. To enhance the killing capability, cotreatment the patients with PD1/PDL1/CTLA4 antibodies may be applied;\n5. Evaluate the clinical results as needed.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05779917",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05779917"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-03-22",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Second Affiliated Hospital of Guangzhou Medical University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05779917"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreas Cancer",
+  "CAR-T",
+  "Mesothelin",
+  "Solid Tumor"
+ ],
+ "title": "Mesothelin/GPC3/GUCY2C-CAR-T Cells Against Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "CAR-T Cell Therapy",
+   "Mesothelin",
+   "Solid Tumor, Adult"
+  ],
+  "contacts": [
+   {
+    "email": "zhangzhf@gzhmu.edu.cn",
+    "name": "Zhenfeng Zhang, MD, PhD",
+    "phone": "0086-020-39195965"
+   },
+   {
+    "email": "464677938@qq.com",
+    "name": "Bingjia He, MD",
+    "phone": "+862039195965"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1\\. Patients with advanced cancer that expresses Mesothelin protein; 2. Life expectancy \\>12 weeks; 3. Adequate heart, lung, liver, kidney, and blood function; 4. Available autologous transduced T cells with greater than or equal to 20% expression of Mesothelin-CAR determined by flow-cytometry and killing of Mesothelin-positive targets greater than or equal to 20% in cytotoxicity assay; 5. Informed consent explained to, understood by and signed by patient/guardian. Patient/guardian given copy of informed consent.\n\n\\-\n\nExclusion Criteria:\n\n1. Had accepted gene therapy before;\n2. Severe virus infection such as HBV, HCV, HIV, et al;\n3. Known HIV positivity;\n4. Active infectious disease related to bacteria, virus,fungi,et al;\n5. Other severe diseases that the investigators consider not appropriate;\n6. Pregnant or lactating women;\n7. Systemic steroid treatment (greater than or equal to 0.5 mg prednisone equivalent/kg/day);\n8. Other conditions that the investigators consider not appropriate. -",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "CAR-T cells"
+  ],
+  "last_update_posted": "2024-06-25",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05779917",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-03-10",
+  "sex": "ALL",
+  "sponsor": "Second Affiliated Hospital of Guangzhou Medical University",
+  "start_date": "2023-03-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

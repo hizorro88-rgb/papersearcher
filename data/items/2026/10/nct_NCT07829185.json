@@ -1,0 +1,100 @@
+{
+ "abstract": "The purpose of this research is to observe the effects of using a new combination of drugs to inhibit tumor growth.\n\nThe patients will undergo testing, exams, and procedures per the Protocol. On study, patients will be randomized into one of the two arms. In Arm A (up to 15 patients) will be treated with modified FOLFIRINOX every two weeks, delivered as follows:\n\n* Oxaliplatin 85mg/m2 IV over 2 hours on Day 1, followed by,\n* Irinotecan 150mg/m2 IV over 90 minutes on Day 1, followed by\n* Leucovorin 400mg/m2 IV over 2 hours on Day 1, followed by\n* 5FU 2400mg/m2 IV over 46-48 hours on Days 1-3\n\nIn arm B patients (up to 15), the same modified FOLFIRINOX regimen will be used, as above, plus 300 mg pentamidine will be administered IV over a one-hour infusion on Day 1 of each cycle.\n\nIn both arms, patients will be treated over eight two-week cycles, and the entire treatment is expected to last approximately 4 months.\n\nAfter eight cycles, patients will undergo another EUS core biopsy. At the same time as the biopsy, an additional blood draw (for translational endpoints) will be done.\n\nAfter the biopsy, patients will continue treatment per physician's discretion for an additional 2 months (or 4 cycles) for a total of 12 cycles (or 6 months of treatment) until disease progression or appearance of unacceptable toxicity.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07829185",
+ "importance": 0.76,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07829185"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Oklahoma",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07829185"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "modified FOLFIRINOX",
+  "Pentamidine",
+  "Advanced",
+  "Metastatic"
+ ],
+ "title": "Modified FOLFIRINOX and Pentamidine in Advanced and Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "SCC-IIT-Office@ouhsc.edu",
+    "name": "Marisha Williams",
+    "phone": "572-244-0111"
+   },
+   {
+    "email": "SCC-IIT-Office@ouhsc.edu",
+    "name": "Lead Nurse",
+    "phone": "572-244-0111"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent signed and dated by the patient\n* At least 18 years-of-age at the time of signature of the informed consent form (ICF)\n* Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1\n* Patients with a confirmed diagnosis of locally advanced, unresectable and/or metastatic pancreatic cancer\n* Patients must have at least one measurable disease per RECIST v1.1,\n* Patients must have at least 1 tumor lesion amenable to biopsy and must be willing to undergo a biopsy prior to first treatment and after receiving 8th cycle of therapy.\n* Adequate bone marrow function defined as ANC\\> 1000/μL and platelets\\>75,000/μL\n* Adequate liver function defined as total bilirubin\\<1.5g/L\n* Adequate renal function defined as creatinine \\<1.5ULN or creatinine clearance greater than 30 ml/m2.\n* AST and ALT \\<2.5x ULN or AST and ALT\\<5xULN if liver function abnormalities are due to liver metastases\n* Male or female patients. Male patients with female partners of childbearing potential and female patients of childbearing potential are required to use two forms of acceptable contraception, including one barrier method, during their participation in the study and for 30 days following the last dose. Male patients must also refrain from donating sperm during their participation in the study.\n* Life expectancy ≥ 3 months according to the Investigator's judgment.\n\nExclusion Criteria:\n\n* Any systemic anti-cancer chemotherapy, small molecule, biologic, or from a previous treatment regimen or clinical study in a metastatic setting before the first dose of study drug.\n* Active bacterial infection\n* Women who are pregnant, nursing, or who plan to become pregnant while in the study and for at least 6 months after the last administration of study treatment\n* Men who plan to father a child while in the study and for at least 6 months after the last administration of study treatment\n* Any of the following cardiac criteria currently or within the last 6 months:\n\n  1. Mean resting corrected QT interval (QTc) \\>480 msec\n  2. Any clinically important abnormalities (as assessed by the Investigator) in rhythm, conduction, or morphology of resting electrocardiograms (ECGs), e.g., complete left bundle branch block, third degree heart block\n  3. Congestive heart failure (New York Heart Association ≥ Grade 2\n  4. Any factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years-of-age, or any concomitant medication known to prolong the QT interval\n* Incidences of chronic hypokalemia that cannot be corrected.\n* As judged by the Investigator, any evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension, uncontrolled diabetes mellitus, active bleeding diatheses, or active infection requiring treatment including hepatitis B, hepatitis C, and human immunodeficiency virus. Screening for chronic conditions is not required.\n* Presence of other active invasive cancers other than the one treated in this study within 2 years prior to screening, except appropriately treated basal cell carcinoma of the skin, or in situ carcinoma of uterine cervix, or other local tumors considered cured by local treatment\n* Psychological, familial, sociological, or geographical conditions that do not permit compliance with the protocol and/or follow-up procedures outlined in the protocol.\n* Prisoners",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "modified FOLFIRINOX",
+   "Pentamidine 300 MG Injection"
+  ],
+  "last_update_posted": "2026-09-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07829185",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-12",
+  "sex": "ALL",
+  "sponsor": "University of Oklahoma",
+  "start_date": "2026-12",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

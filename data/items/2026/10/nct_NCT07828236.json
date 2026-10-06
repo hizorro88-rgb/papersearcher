@@ -1,0 +1,98 @@
+{
+ "abstract": "ClinicalTrials.gov Brief Summary\n\nThis Phase 1, open-label, first-in-human study is designed to evaluate the safety, tolerability, and recommended dose of intraperitoneal (IP) administration of Lm-LLO-TT in combination with low-dose gemcitabine in adults with previously treated, unresectable or metastatic pancreatic ductal adenocarcinoma (PDAC). Up to 18 participants will be enrolled.\n\nLm-LLO-TT is a live attenuated Listeria monocytogenes-based immunotherapy engineered to express a tetanus toxoid antigen. The study will assess the safety of administering Lm-LLO-TT directly into the peritoneal cavity and characterize its use in combination with low-dose gemcitabine.\n\nEligible participants will receive a tetanus toxoid booster vaccination during screening and undergo placement of an intraperitoneal access port before treatment. Participants will receive a single loading dose of Lm-LLO-TT followed by five cycles of low-dose gemcitabine and low-dose Lm-LLO-TT administered over approximately 17 days. Participants will be monitored for adverse events, laboratory abnormalities, dose-limiting toxicities, and disease outcomes throughout the study.\n\nThe primary objective is to assess safety and tolerability and to determine the maximum tolerated dose and recommended dose for future clinical studies. Secondary objectives include evaluation of anti-tumor activity. Exploratory objectives include assessment of immune biomarkers, changes in pancreatic cancer-related symptoms, and changes in pain medication use.\n\nParticipants will undergo tumor imaging assessments following treatment and during follow-up. A post-treatment tumor biopsy will be required for the first 10 enrolled participants and optional for subsequent participants. Participants will be followed for safety, disease status, and survival for up to 6 months after treatment initiation.\n\nThis is a Phase 1, open-label, first-in-human, dose-escalation study designed to evaluate the safety, tolerability, maximum tolerated dose (MTD), and recommended Phase 2 dose (RP2D) of intraperitoneal (IP) administration of Lm-LLO-TT in combination with low-dose gemcitabine in participants with previously treated unresectable or metastatic pancreatic ductal adenocarcinoma (PDAC). Up to 18 participants will be enrolled. The study will use a Bayesian Optimal Interval (BOIN) dose-escalation design to identify the MTD and RP2D of Lm-LLO-TT for future clinical development.\n\nPDAC is associated with poor clinical outcomes and limited treatment options in the advanced disease setting. Lm-LLO-TT is a live attenuated Listeria monocytogenes-based immunotherapy engineered to express a tetanus toxoid (TT) antigen linked to listeriolysin O (LLO). This study will evaluate the safety and biologic activity of administering Lm-LLO-TT directly into the peritoneal cavity in combination with low-dose gemcitabine.\n\nEligible participants are adults with histologically confirmed PDAC and measurable disease according to RECIST version 1.1 who have received at least one prior systemic treatment regimen for unresectable or metastatic disease or have a contraindication to standard therapies. Participants must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2, adequate organ function, and a life expectancy greater than 3 months.\n\nDuring screening, participants will undergo tetanus toxoid immunity testing. All participants will receive a tetanus toxoid booster vaccination before treatment initiation. Tetanus antibody titers will be evaluated before and after the booster vaccination, and evidence of an immune response to tetanus toxoid is required for enrollment. Participants will also undergo placement of an intraperitoneal access port before the first administration of study treatment.\n\nTreatment begins with a single escalating loading dose of Lm-LLO-TT administered intraperitoneally on Day 1. Beginning on Day 2, participants will receive low-dose intraperitoneal gemcitabine followed the next day by low-dose intraperitoneal Lm-LLO-TT. This alternating schedule will be repeated for a total of five gemcitabine/Lm-LLO-TT treatment cycles over approximately 17 days.\n\nThe dose-escalation component evaluates escalating loading doses of Lm-LLO-TT while maintaining fixed doses of low-dose gemcitabine and low-dose Lm-LLO-TT. Participants will be enrolled sequentially into dose cohorts, and safety data including dose-limiting toxicities (DLTs) will be reviewed throughout the study. Escalation and de-escalation decisions will follow the protocol-defined BOIN design rules.\n\nThe primary objective of the study is to evaluate the safety and tolerability of intraperitoneal Lm-LLO-TT administered in combination with low-dose gemcitabine and to determine the MTD and RP2D. Safety evaluations include adverse event monitoring, physical examinations, vital signs, clinical laboratory assessments, electrocardiograms, and assessment of DLTs.\n\nSecondary objectives include evaluation of preliminary anti-tumor activity. Tumor response will be assessed according to RECIST version 1.1 criteria. Secondary endpoints include objective response rate, disease control rate, and progression-free survival.\n\nExploratory objectives include assessment of pharmacodynamic and immune biomarkers associated with treatment. Blood samples will be collected for evaluation of circulating biomarkers, including circulating tumor DNA and markers associated with immune responses and tumor microenvironment modulation. Tumor tissue obtained during post-treatment biopsy procedures will be evaluated for immune cell infiltration, tetanus toxoid expression, and other tumor microenvironment biomarkers.\n\nThe first 10 enrolled participants will undergo a mandatory post-treatment tumor biopsy approximately 20 to 30 days following completion of treatment. Post-treatment biopsy will be optional for participants enrolled thereafter. Imaging assessments of the chest, abdomen, and pelvis will be performed at approximately Day 20 to 30 following treatment and repeated at approximately 4 and 6 months after treatment initiation.\n\nAdditional exploratory assessments will evaluate changes in pancreatic cancer-related symptoms, including pain, nausea, vomiting, and fatigue, as well as changes in concomitant pain medication use among participants who report pain at baseline.\n\nParticipants will be monitored for bacterial shedding through urine and fecal sample collection during the treatment and follow-up periods. Participants will also be monitored for safety events of special interest, including infection-related events associated with administration of live attenuated bacterial therapy.\n\nFollowing completion of treatment, participants will enter a follow-up period that includes safety evaluations, disease assessments, laboratory testing, biomarker assessments, and survival follow-up. Participants will be followed for up to 6 months after initiation of study treatment.\n\nData generated from this study will be used to characterize the safety profile, determine the recommended dose for future studies, evaluate preliminary anti-tumor activity, and inform the further clinical development of intraperitoneal Lm-LLO-TT in combination with low-dose gemcitabine for the treatment of advanced pancreatic ductal adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07828236",
+ "importance": 0.76,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07828236"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Loki Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07828236"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Unresectable Pancreatic Cancer",
+  "cancer immunotherapy",
+  "Lm-LLO-TT",
+  "tetanus toxoid",
+  "Listeria",
+  "Gemcitabine",
+  "Memory T-cells",
+  "Listeria monocytogenes Immunotherapy"
+ ],
+ "title": "PHASE 1 TRIAL OF Lm-LLO-TT AND GEMCITABINE IN UNRESECTABLE PANCREATIC DUCTAL ADENOCARCINOMA",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer, Duct Cell Adenocarcinoma",
+   "Pancreatic Cancer",
+   "Advanced Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "cpavetto@clinregconsults.com",
+    "name": "Corrina Pavetto, Clinical Operations Director",
+    "phone": "2023215786"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nAble and willing to provide written informed consent. Adults aged 18 years or older. Histologically confirmed pancreatic ductal adenocarcinoma (PDAC) with measurable disease per RECIST v1.1.\n\nPreviously treated with at least one line of chemotherapy for metastatic or unresectable disease, including a fluoropyrimidine-based or gemcitabine-based regimen, or have a contraindication to these therapies.\n\nNo radiation therapy, targeted therapy, or chemotherapy within 14 days prior to first study treatment; no immunotherapy or biologic therapy within 28 days prior to first study treatment.\n\nRecovery to ≤ Grade 2 from clinically significant toxicities of prior therapy. ECOG Performance Status 0-2. Estimated life expectancy greater than 3 months. Adequate organ function, including adequate hematologic, hepatic, and renal function.\n\nParticipants with treated brain metastases may be enrolled if clinically stable for at least 1 month.\n\nWilling to comply with study procedures and contraceptive requirements. Participants with HIV may be enrolled if receiving antiretroviral therapy and CD4 count is \\>400 cells/µL.\n\nParticipants with hepatitis B may be enrolled if viral load is undetectable and appropriately treated; participants with hepatitis C may be enrolled following curative treatment.\n\nDemonstrated tetanus toxoid (TT) immune responsiveness, either at baseline or following administration of a tetanus toxoid booster during screening.\n\nExclusion Criteria:\n\n* History of chronic comorbidities that would significantly limit participation in the study, including severe heart failure (NYHA Class III-IV), end-stage renal disease, substance dependence, or inadequate venous access, as determined by the investigator.\n\nCandidate for curative-intent surgical resection.\n\nSurgery within 2 weeks prior to first study treatment.\n\nEvidence of hepatic cirrhosis or clinically/radiographically significant ascites.\n\nBlood transfusion within 14 days prior to study treatment or requirement for frequent blood transfusions (\\>2 per month).\n\nTreatment with systemically active corticosteroids within 28 days before study treatment (except low-dose dexamethasone ≤2 mg/day or prednisone ≤10 mg/day).\n\nSystemic antibiotic therapy within 14 days prior to first dose of Lm-LLO-TT.\n\nReceipt of another investigational product or vaccine within 28 days prior to first study treatment.\n\nReceipt of any vaccine other than the protocol-required tetanus toxoid booster within 4 weeks before study treatment or during the initial DLT evaluation period.\n\nMajor surgery, significant traumatic injury, unhealed surgical wounds, or planned surgery requiring general anesthesia within 28 days before study treatment.\n\nActive, uncontrolled HIV, hepatitis B, hepatitis C, or HTLV-1 infection, or CD4 count \\<400 cells/µL.\n\nPresence of implanted prosthetic devices, including orthopedic prostheses, pacemakers, or prosthetic heart valves.\n\nChronic immunosuppressive therapy for autoimmune or rheumatologic conditions.\n\nPregnant or breastfeeding individuals.\n\nActive uncontrolled bacterial infection requiring intravenous antibiotics, fever \\>38.1°C, or unexplained fever within 7 days before Day 1.\n\nHistory of Guillain-Barré syndrome within 6 weeks of a previous tetanus toxoid vaccination or prior Arthus-type hypersensitivity reaction to tetanus vaccine.",
+  "enrollment": 18,
+  "has_results": false,
+  "interventions": [
+   "Lm-LLO-TT"
+  ],
+  "last_update_posted": "2026-09-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07828236",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-10-15",
+  "sex": "ALL",
+  "sponsor": "Loki Therapeutics, Inc.",
+  "start_date": "2026-10-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

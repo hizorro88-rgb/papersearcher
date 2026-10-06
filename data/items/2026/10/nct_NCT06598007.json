@@ -1,0 +1,90 @@
+{
+ "abstract": "This is an FIH, multicenter, open-label, dose escalation and dose expansion/dose optimization study of CT3001, which will be conducted in 2 phases: Phase 1 and Phase 2b. Phase 1 will be a standard 3+3 dose escalation and dose finding study in patients with advanced solid tumors for whom there is no available therapy (or patients are not candidates for such therapy) for the assessment of DLTs at up to 7 dose levels of CT3001. Phase 2b is a dose finding/dose optimization study of CT3001 in combination with SOC chemotherapy (FOLFOX) to evaluate the safety and preliminary efficacy of CT3001 in patients with advanced CRC who are eligible for re-engaging FOLFOX-based chemotherapy.\n\n1. Study Rationale\n\n   CT3001 is being developed by the Sponsor as a treatment for patients with solid tumors, including colorectal carcinoma (CRC) and pancreatic ductal adenocarcinoma (PDAC), among others.\n\n   Treatments of solid tumors typically include surgery, chemotherapy, radiation, or a combination approach. Although surgical resection is potentially curative in some cases, most advanced solid tumor patients are not candidates for this approach and require multidisciplinary care including chemotherapy or radiation. In addition, cytotoxic chemotherapy drugs generally lack specificity and can lead to severe side effects, and radiation alone cannot cure most forms of cancer (Najafi et al. 2021). Therefore, cancer immunotherapy is becoming increasingly utilized as part of multidisciplinary cancer care.\n\n   The tumor microenvironment (TME) contributes to the development of solid tumors, and helps shape the body's antitumor immune response (Simsek and Klotzsch 2022, Wang et al. 2023). The presence and functionality of immune cells, particularly regulatory T cells (Treg) and cytotoxic T lymphocytes (CTLs), are regulated by cellular and soluble factors of the TME (Balta et al. 2021). Cancers can hijack the body's antitumor response by promoting an immunosuppressive TME. Therefore, novel therapies that restore the antitumor immune response in the TME are of increasing interest in the treatment of solid tumors (Balta et al. 2021).\n\n   The investigational product (IP) in this study is CT3001, which is a first-in-class, small molecule inhibitor of G-protein coupled receptor 35 (GPR35). GPR35 is an oncogenic G-protein coupled receptor (GPCR) with abnormally high expression in solid tumors. GPR35 is tumorigenic and promotes tumor immune escape. CT3001 inhibits GPR35 driven Yes-associated Protein (YAP) oncogene activation. YAP activation can cause tissue overgrowth and tumorigenesis, whereas YAP inactivation impairs tissue development and regeneration (Moroishi et al. 2015). YAP is also essential for tumor immune escape involving Treg function and CTL activity (Lebid et al. 2020, Ni et al. 2018, Stampouloglou et al. 2020). In addition, CT3001 has been shown to suppress differentiation of Treg cells from naïve CD4+ T cells under indoleamine 2,3-dioxygenase 1 (IDO1)-positive/TME-like culture conditions in vitro and increase CD8+ T cell tumor infiltration in human peripheral blood mononuclear cell (PBMC)-reconstituted mice bearing a HT29 colon cancer xenograft.\n2. Overall Study Design\n\n   This is an FIH, open-label, dose escalation and dose expansion study of CT3001 to determine the safety, tolerability, PK, PD, and preliminary efficacy. The study will be conducted in 2 parts: Phase 1 (dose escalation) and Phase 2b (combination with SOC chemotherapy).\n\n   The study will be conducted in 2 parts: Phase 1 (dose escalation) and Phase 2b (combination with SOC chemotherapy).\n\n   Phase 1 aims to determine the safety, tolerability, and PK of CT3001 in patients with advanced solid tumors for whom there is no available therapy likely to confer clinical benefit, or patients who are not candidates for such therapy.\n\n   Once the MTD and a preliminary RP2D is established, the study will proceed directly to a combination study with SOC chemotherapy (Phase 2b), without continuing originally planned Phase 2a monotherapy in a small cohort of patients with advanced CRC to determine CT3001 tolerability when combined with a SOC chemotherapy and to obtain preliminary efficacy assessment in this segment of patients as a dose optimization step for tolerability vs. efficacy of CT3001 in later clinical development. In the 2b study, a three-dose escalation dosing scheme of CT3001 (lower or higher than the preliminary RP2D determined in Phase 1) will be employed in combination with SOC chemotherapy to explore the safety, tolerability, pharmacokinetics, and preliminary efficacy of CT3001 in advanced CRC patients.\n3. Overview of Study Schedule\n\nPhase 1 will include a Screening Period, a Treatment Period, and a Follow-up Period, as follows:\n\n* Screening Period (up to 28 days prior to the date of first dose of CT3001): All patients will be asked to provide informed consent before entering Screening. Following a review of the inclusion and exclusion criteria, eligible patients will be enrolled (thereby becoming study participants).\n* Treatment Period:\n\n  * On Day 1 of Cycle 0 (C0D1), after completing predose assessments, participants will be administered a single dose of CT3001 and undergo intensive PK sampling for 48 hours (i.e., through to C0D3). Participants may be hospitalized from C0D1 through to C0D4, if required by the sites, to perform frequent blood draws for PK and safety assessments. Dosing with CT3001 will then be paused until the Safety Monitoring Committee (SMC) can review the safety data.\n  * Following SMC review and approval, participants will then be administered CT3001 orally (QD or BID) from C1D1 to C1D21, with PK sampling occurring on C1D1 to C1D8. Again, participants may be hospitalized from C1D1 through to C1D8, if required by the sites, to perform frequent blood draws for PK and safety assessments.\n  * From Cycle 2 onwards, participants will receive CT3001 (orally QD or BID) in repeated 21-day cycles (i.e., Cycle 2, Cycle 3, Cycle 4, Cycle 5, etc.). Administration of CT3001 will continue for at least 6 months (approximately 8 cycles), unless early termination (ET) occurs due to the start of a new anticancer treatment, disease progression, participant refusal, unacceptable toxicity, death, or lost to follow-up.\n* Safety Follow-up Period: 28 days (± 5 days) after the last dose of CT3001.\n* Survival Follow-up Period: approximately every 12 weeks after the last dose of CT3001 up until ET or 12 months from the last dose of CT3001.\n\nPhase 2b combination study will include a Screening Period, a Treatment Period, and a Follow-up Period, as follows:\n\n* Screening Period (Up to 28 days prior to the first administration of CT3001 in combination with SOC (FOLFOX) chemotherapy): All patients will be asked to provide informed consent before entering Screening. Following review of the inclusion and exclusion criteria, eligible patients will be enrolled, and baseline assessments will be performed.\n* Treatment Period:\n\n  \\- Phase 2b will evaluate CT3001 in combination with SOC chemotherapy (FOLFOX) in repeated 14-day cycles, aligned with the routine Q2W FOLFOX schedule. On C1D1, after completion of predose assessments and the first FOLFOX administration, participants will receive a single oral dose of CT3001 and undergo intensive PK sampling through C1D3. Participants may be hospitalized from C1D1 through C1D3, or up to C1D8 if required by the site, to support intensive PK and safety assessments. Following SMC review on C1D3, and if safety findings are acceptable, CT3001 BID dosing will begin on C1D4 and continue through C1D14. Additional intensive PK sampling will be performed from C1D7 to C1D8. From Cycle 2 onward, participants will receive CT3001 orally BID on a continuous schedule in combination with FOLFOX on Day 1 of each 14-day cycle. For each dose level, the first 3 to 6 participants will serve as a sentinel group, and opening of the next cohort will occur only after completion of the prespecified initial safety observation period and SMC review of emerging safety and tolerability data.\n* Safety Follow-up Period: 28 days (± 5 days) after the last dose of CT3001.\n* Survival Follow-up Period: approximately every 12 weeks after the last dose of CT3001 until EOT or 12 months from the last dose of CT3001, whichever occurs first.\n\nNumber of Participants:\n\n* Phase 1: Approximately 18 to 36 patients with advanced solid tumors (3 to 6 participants per dose escalation cohort, up to a maximum of 7 escalation doses).\n* Phase 2b: Approximately 30-45 patients with advanced CRC.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06598007",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06598007"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-09-19",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Crossignal Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06598007"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Study to Determine the Effect of CT3001 in Patients With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Colorectal Cancer",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "czhang@crossignaltherapeutics.com",
+    "name": "Can Zhang",
+    "phone": "413-932-9263"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Able to give voluntary informed consent and understand the study and are willing to follow and complete all the test procedures.\n* Aged ≥ 18 years (or adult age as per local regulations).\n* Histologically/cytologically confirmed, locally advanced unresectable or metastatic solid tumors that are refractory to standard therapy, or for whom no standard therapy exists. Note: In Phase 2b, only participants with advanced CRC who are eligible for re-engaging FOLFOX will be enrolled.\n* Has measurable disease per RECIST Version 1.1. that was not in a prior radiation or other locally treated area unless imaging-based progression has been clearly documented following radiation or other local therapy.\n* Life expectancy ≥ 3 months, in the opinion of the PI or designee.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematologic, liver, and kidney function as follows:\n\nBone marrow reserve:\n\n1. Absolute neutrophil count ≥ 1.5 × 10\\^9/L without growth factor support in the 2 weeks prior to study entry.\n2. Hemoglobin ≥9.0 g/dL without transfusion, growth factor support, or other supportive medication in the 2 weeks prior to study entry.\n3. Platelet count ≥ 75 × 10\\^9/L without transfusion in 2 weeks prior to study entry.\n\nHepatic function:\n\n1. Serum TBIL \\< 1.5 × ULN.\n2. AST and ALT \\< 3 × ULN.\n\nRenal function:\n\nSerum creatinine clearance (CrCL) \\> 60 mL/min, as per the Cockcroft-Gault Equation:\n\nCGGFR = \\[(140 - age in years) × weight in kg\\] / (7.2 × serum creatinine in mg/dL) (× 0.85 for females) (for urine protein \\< 2+; if urine protein \\> 2+, 24-hour urinary protein quantity should be measured and must be \\< 1.0 g).\n\n* Coagulation tests: international normalized ratio (INR) \\< 1.5, activated partial thromboplastin time (aPTT) ≤ 1.5 × ULN (Note: for those on oral anticoagulants, an INR in the range of 2 to 3 is acceptable).\n* Participants (both males and females) of childbearing potential should be willing to use a viable contraception method that is deemed effective by the PI or designee from Screening, during the study, and for at least 3 months following the last dose of IP. Postmenopausal women must have been amenorrheal for at least 12 months to be considered of non-childbearing potential; postmenopausal status, if not known, is to be confirmed through testing of follicle-stimulating hormone (FSH) levels of ≥ 40 IU/L. Male participants must be willing not to donate sperm until 3 months following the last IP administration.\n\nExclusion Criteria:\n\n* During Phase 1 Dose Escalation, receiving concurrent anticancer treatment (including chemotherapy, targeted drugs, radiotherapy \\[excluding the following small-area radiotherapy for bone metastasis\\], endocrine therapy, antitumor traditional Chinese Medicine), except during Phase 2b, Standard Care Chemotherapy (FOLFOX-based regimen) for advanced CRC patients is allowed.\n* Use of other IP within 5 half-lives of the product (if the IP is a small molecule) or anti-cancer investigational medical device within two weeks prior to the first administration of CT3001. Prior use of investigational monoclonal antibody IP can be permitted upon obtaining an approval from the Sponsor. Use of these investigational IP or devices are not permitted for the duration of treatment with CT3001.\n* Evidence of severe or uncontrolled systemic diseases, infection, or laboratory finding that in the view of the PI or designee makes it undesirable for the patient to participate in the trial.\n* Females who are pregnant or nursing, or any participant who is planning to become pregnant (self or partner) at any time during the study, including the Follow-up Period.\n* Has had major surgery or significant traumatic injury within 4 weeks of start of CT3001; participants have not recovered from the side effects of any major surgery (defined as requiring general anesthesia) or participant might require major surgery during the course of the study.\n* Has a prolonged QT interval corrected by Fredericia's formula (QTcF interval) of \\> 470 ms (determined by average of 3 readings on triplicate 12-lead ECG) or has a history of additional risk factors for Torsade de Pointes (e.g., heart failure, hypokalemia, family history of long-QT syndrome) or current use of medications that prolong the QTcF interval.\n* Any psychiatric, psychological, familial or geographical condition that, in the judgment of the PI or designee, may interfere with the treatment and follow-up, affect compliance or place the participant at high risk of treatment-related complications will be excluded.\n* Blood donation or significant blood loss within 60 days prior to the first administration of CT3001.\n* History of severe allergic or anaphylactic reactions, or sensitivity to the CT3001 or its constituents.\n* Vaccination with a live vaccine within 4 weeks prior to the first administration of CT3001.\n* Exposure to any significantly immune suppressing drug (including experimental therapies as part of a clinical study) within 5 half-lives of the product prior to the first administration of CT3001; these medications will not be permitted for the duration of treatment with CT3001.\n* Use of any medications with a narrow therapeutics index that are sensitive substrates of and metabolized mainly through CYP2C8 within 5-half-lives of the products prior to the first administration of CT3001; these medications will not be permitted for the duration of treatment with CT3001.\n* Use of any gastric acid reducing agents during the time period between 6 hours prior to and 2 hours after the administration of CT3001.\n* Positive test for hepatitis C antibody (HCV), hepatitis B surface antigen (HBsAg), or human immunodeficiency virus (HIV) antibodies (HIV-1/-2) at Screening, unless the participant meets 1 of the following criteria:\n\n  1. Has chronic hepatitis B virus (HBV) infection or virologically suppressed (VS) HBV AND has been on suppressive antiviral therapy (unless it is a prohibited medication per exclusion criteria #12) for at least 4 weeks.\n  2. Has chronic HCV infection but has completed curative antiviral treatment (note: patients may be HCV antibody positive but must be HCV RNA negative to be eligible).\n\nPlease note: the eligibility of patients with HBV or HCV infection should be considered on a case-by-case basis by the PI in consultation with the independent Medical Monitor.\n\n* Anything that the PI considers would jeopardize the safety of the participant, prevent complete participation in the study, or compromise interpretation of study data.",
+  "enrollment": 78,
+  "has_results": false,
+  "interventions": [
+   "CT3001",
+   "FOLFOX (5-fluorouracil, Leucovorin, Oxaliplatin)"
+  ],
+  "last_update_posted": "2026-05-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06598007",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-06-20",
+  "sex": "ALL",
+  "sponsor": "Crossignal Therapeutics, Inc.",
+  "start_date": "2024-09-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

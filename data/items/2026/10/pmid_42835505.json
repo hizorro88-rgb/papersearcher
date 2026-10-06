@@ -1,0 +1,53 @@
+{
+ "abstract": "B cells can suppress anti-tumor T cell responses, representing a potential mechanism of resistance to immunotherapy. Multiple Breg subsets have been described in humans and mice. Bregs inhibit anti-tumor immunity through cytokine secretion, immune checkpoint expression, and potentially adenosine generation, which collectively suppress effector T cells, and strengthen immunosuppressive signaling. Hypoxia is a hallmark of pancreatic ductal adenocarcinoma (PDAC) and contributes to immune dysregulation within the tumor microenvironment (TME); however, the effects of hypoxia on B cell subsets remain poorly defined. In this study, we investigated how hypoxic stress shapes regulatory B cell phenotype using murine PDAC models. We show that nearly half of intratumoral B cells are hypoxic, which also increased across systemic B cell compartments with tumor burden. Hypoxic B cells were enriched for CD39 and CD73 ectonucleotidases and suppressed T cell activation via adenosine receptor-dependent mechanisms. Hypoxia preferentially induced CD39+CD73+ expression in peritoneal-derived B cells, indicating tissue-specific regulation, while splenic B cells showed limited responsiveness ex vivo. Conversely, hypoxia reduced IL-35 production by splenic Bregs through decreased Ebi3 expression and reduced activation marker levels. Within tumors, hypoxia correlated with CD11b+ and CD39+CD73+ B cells but not IL-35-producing subsets. Mechanistically, Ebi3 loss enhanced CD39 expression under hypoxia, whereas recombinant IL-35 suppressed CD39+CD73+ induction, suggesting reciprocal regulation between IL-35 and adenosine pathways. These findings reveal hypoxia-driven plasticity in immunosuppressive B cell programs in PDAC, characterized by suppression of IL-35-producing Bregs and promotion of adenosine-generating CD39+CD73+ B cells, highlighting potential therapeutic targets to modulate tumor-associated immunosuppression.",
+ "authors": [
+  "Hall HR",
+  "Song J",
+  "Kren N",
+  "Pylayeva-Gupta Y"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42835505",
+ "importance": 0.63,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1814123",
+  "nct": [],
+  "pmcid": "PMC13635374",
+  "pmid": "42835505"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-21",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42835505/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Dynamic regulation of hypoxia-associated regulatory CD39+CD73+ and IL35+ B cells in pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

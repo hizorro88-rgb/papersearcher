@@ -1,0 +1,52 @@
+{
+ "abstract": null,
+ "authors": [
+  "Leyva A",
+  "Rehman Akbar A",
+  "Niazi MKK"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42834032",
+ "importance": 0.6,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1038/s41392-026-03051-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42834032"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Signal Transduct Target Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42834032/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Gene-structured histology for deriving and predicting pancreatic cancer molecular subtypes",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

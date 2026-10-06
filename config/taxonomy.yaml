@@ -1,0 +1,159 @@
+# 규칙 기반 분류. 키워드는 대소문자 무시 정규식. 제목 매치는 2점, 초록 매치는 1점.
+categories:
+  drug:
+    name: 신약·치료제
+    description: 표적치료·면역치료·항암화학 신약, 병용요법, 전임상→임상 전환
+    keywords:
+      - "\\bKRAS\\b|G12[CDRV]|RAS\\(ON\\)|sotorasib|adagrasib|daraxonrasib|RMC-6236|RMC-9805|elironrasib|olomorasib|divarasib|MRTX1133|zoldonrasib"
+      - "PARP|olaparib|niraparib|talazoparib|rucaparib"
+      - "pembrolizumab|nivolumab|ipilimumab|durvalumab|atezolizumab|immune checkpoint|PD-1|PD-L1|CTLA-4"
+      - "CAR-T|CAR T|TCR|cell therapy|vaccine|mRNA|neoantigen|autogene cevumeran"
+      - "antibody[- ]drug conjugate|ADC\\b|bispecific|claudin ?18\\.2|zolbetuximab|mesothelin|TROP-?2|nectin"
+      - "NALIRIFOX|FOLFIRINOX|gemcitabine|nab-paclitaxel|irinotecan|liposomal irinotecan|capecitabine|S-1\\b|oxaliplatin"
+      - "novel (agent|drug|therapy|inhibitor)|first-in-human|investigational|targeted therapy|small[- ]molecule|inhibitor\\b"
+      - "NTRK|larotrectinib|entrectinib|BRCA|MSI-H|dMMR|HER2|trastuzumab|FGFR|RET\\b|BRAF|CDK4/6|MEK\\b|ERK\\b|SHP2|SOS1|autophagy|hydroxychloroquine"
+  trial:
+    name: 임상시험
+    description: 임상시험 등록·상태·결과, 참여 조건, 모집 기관
+    keywords:
+      - "\\bNCT\\d{8}\\b"
+      - "phase (1|2|3|I|II|III)|randomi[sz]ed|randomized controlled|open-label|double-blind|placebo-controlled|clinical trial"
+      - "enrol(l)?ment|eligib(le|ility)|recruit"
+  surgery:
+    name: 수술
+    description: 췌장 절제술, 수술 전후 관리, 합병증, 수술 적응
+    keywords:
+      - "pancreatectomy|pancreaticoduodenectomy|pancreatoduodenectomy|Whipple|distal pancreatectomy|total pancreatectomy"
+      - "resect(ion|able)|borderline resectable|R0|R1|margin|lymphadenectomy|vascular resection|portal vein"
+      - "laparoscopic|robotic|minimally invasive|open surgery"
+      - "postoperative|pancreatic fistula|delayed gastric emptying|ERAS|perioperative|surgical outcome|morbidity"
+      - "neoadjuvant|conversion surgery|downstaging"
+  treatment:
+    name: 치료 전반
+    description: 표준 항암요법, 방사선, 가이드라인, 치료 전략
+    keywords:
+      - "chemotherapy|chemoradi(ation|otherapy)|radiotherapy|SBRT|stereotactic|proton|IMRT"
+      - "first-line|second-line|maintenance|adjuvant|neoadjuvant|locally advanced|metastatic|unresectable"
+      - "guideline|NCCN|ESMO|ASCO|consensus|recommendation"
+      - "overall survival|progression-free|response rate|outcome|prognos(is|tic)"
+      - "HIPEC|ablation|irreversible electroporation|NanoKnife|TACE|HAIC"
+  diagnosis:
+    name: 진단·조기발견
+    description: 바이오마커, 액체생검, 영상, 선별검사, 낭종
+    keywords:
+      - "CA ?19-9|CA19-9|biomarker|ctDNA|cfDNA|liquid biopsy|exosome|microRNA|methylation"
+      - "early detection|screening|surveillance|high-risk|new-onset diabetes|IPMN|cyst"
+      - "\\bCT\\b|MRI|EUS|endoscopic ultrasound|PET|radiomics|imaging|deep learning|artificial intelligence|\\bAI\\b"
+      - "diagnos(is|tic)|staging|fine-needle|FNA|FNB|histolog"
+  supportive:
+    name: 지지요법·삶의질
+    description: 통증, 영양, 췌장효소, 당뇨, 황달·스텐트, 혈전, 정신건강
+    keywords:
+      - "pain|celiac plexus|opioid|analges"
+      - "nutrition|cachexia|sarcopenia|malnutrition|weight loss|pancreatic enzyme|PERT|exocrine insufficiency"
+      - "diabetes|glyc(a)?emi|insulin"
+      - "jaundice|biliary|stent|cholangitis|obstruction|drainage"
+      - "thrombo|VTE|anticoagul"
+      - "quality of life|QoL|palliative|supportive care|depression|anxiety|fatigue|caregiver|survivorship"
+  industry:
+    name: 제약사·규제
+    description: 승인·지정, 라이선스, 보도자료, 급여
+    keywords:
+      - "FDA|EMA|approval|approved|breakthrough therapy|orphan drug|fast track|priority review|accelerated approval"
+      - "press release|announce|license|licensing|acquisition|collaboration|partnership|milestone"
+      - "reimbursement|health insurance|\\bHIRA\\b|\\bMFDS\\b"
+  basic:
+    name: 기초연구
+    description: 기전·전임상 연구 (기본 접힘)
+    keywords:
+      - "in vitro|in vivo|xenograft|organoid|mouse model|murine|cell line|preclinical"
+      - "pathway|signaling|signalling|mechanism|tumor microenvironment|stroma|fibroblast|macrophage|single-cell|transcriptom|proteom|metabolom"
+
+# 근거 수준. 위에서부터 순서대로 검사해 처음 매치되는 것을 채택한다.
+evidence:
+  - key: guideline
+    name: 가이드라인
+    weight: 1.0
+    pubtypes: ["Practice Guideline", "Guideline", "Consensus Development Conference"]
+    patterns: ["guideline|consensus statement|recommendation"]
+  - key: meta
+    name: 메타분석
+    weight: 1.0
+    pubtypes: ["Meta-Analysis", "Systematic Review"]
+    patterns: ["meta-analysis|systematic review|pooled analysis"]
+  - key: phase3
+    name: 3상
+    weight: 1.0
+    pubtypes: ["Clinical Trial, Phase III", "Clinical Trial, Phase IV"]
+    patterns: ["phase (3|III|4|IV)\\b"]
+  - key: phase2
+    name: 2상
+    weight: 0.8
+    pubtypes: ["Clinical Trial, Phase II"]
+    patterns: ["phase (2|II)\\b|phase (1|I)[/-](2|II)\\b"]
+  - key: phase1
+    name: 1상
+    weight: 0.65
+    pubtypes: ["Clinical Trial, Phase I"]
+    patterns: ["phase (1|I)\\b|first-in-human|dose[- ]escalation"]
+  - key: rct
+    name: 무작위 임상
+    weight: 0.9
+    pubtypes: ["Randomized Controlled Trial", "Clinical Trial"]
+    patterns: ["randomi[sz]ed"]
+  - key: observational
+    name: 관찰·코호트
+    weight: 0.6
+    pubtypes: ["Observational Study", "Multicenter Study", "Comparative Study"]
+    patterns: ["retrospective|cohort|registry|real-world|propensity"]
+  - key: review
+    name: 종설
+    weight: 0.5
+    pubtypes: ["Review"]
+    patterns: ["\\breview\\b|overview|perspective"]
+  - key: case
+    name: 증례
+    weight: 0.3
+    pubtypes: ["Case Reports"]
+    patterns: ["case report|case series"]
+  - key: preclinical
+    name: 전임상
+    weight: 0.3
+    pubtypes: []
+    patterns: ["in vitro|in vivo|xenograft|organoid|mouse|murine|cell line"]
+  - key: press
+    name: 보도자료
+    weight: 0.4
+    pubtypes: []
+    patterns: []
+  - key: other
+    name: 기타
+    weight: 0.45
+    pubtypes: []
+    patterns: []
+
+# 관련도 계산용 핵심어 (제목 매치 가중)
+core_terms:
+  - "pancrea"
+  - "PDAC"
+  - "췌장"
+
+# 소스 신뢰도 (0~1)
+source_trust:
+  default: 0.7
+  PubMed: 0.8
+  ClinicalTrials.gov: 0.85
+  "Europe PMC (preprint)": 0.5
+journal_trust:
+  "N Engl J Med": 1.0
+  "Lancet": 1.0
+  "Lancet Oncol": 1.0
+  "JAMA": 0.95
+  "JAMA Oncol": 0.95
+  "J Clin Oncol": 0.95
+  "Nature": 0.95
+  "Nat Med": 0.95
+  "Ann Oncol": 0.9
+  "Cancer Discov": 0.9
+  "Gastroenterology": 0.9
+  "Ann Surg": 0.9

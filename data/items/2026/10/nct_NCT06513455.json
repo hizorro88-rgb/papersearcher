@@ -1,0 +1,93 @@
+{
+ "abstract": "This is a Phase I/II , Open-label , Investigator-initiated Trail of liposomal irinotecan,nab-paclitaxel and gemcitabine as First-line Treatment in Advanced pancreatic cancer. The study was designed in two stages, the first stage was the tolerance observation stage, and the second stage was the curative effect expansion stage.\n\nThe first part of the study is the Dose-finding Phase designed to establish the safety of nab-paclitaxel，gemcitabine and liposomal irinotecan at different dose Levels(40 mg/m2, iv. q2w or 60 mg/m2, iv. q2w). The second part of the study is the Expansion Phase designed to generate additional clinical data at specified doses .\n\nThis study aims to evaluate the safety and efficacy of liposomal irinotecan，nab-paclitaxel and gemcitabine in the First-line treatment of advanced pancreatic cancer.\n\nThe study consists of a dose escalation and expansion phase to determine the recommended Phase 2 dose (RP2D) for liposomal irinotecan combination with AG, and a dose confirmation phase which will further characterize the treatment of liposomal irinotecan in combination at the RP2D.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "nalirifox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06513455",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06513455"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-07-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Harbin Medical University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06513455"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Irinotecan Liposome"
+ ],
+ "title": "Irinotecan Liposome，Albumin Paclitaxel and Gemcitabine First-line Treatment for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "yanqiaozhang@126.com",
+    "name": "Yanqiao Zhang, PhD",
+    "phone": "+86 138 4512 0210"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age: 18 to 75 years old, male or female;\n2. Patients with pancreatic cancer diagnosed by histology or cytology;\n3. Not received anti-tumor system treatment (if received neoadjuvant or adjuvant therapy, need to ensure that the last time is more than 6 months)；\n4. With measurable tumor lesions (spiral CT scan ≥10mm, meet RECIST 1.1 standard);\n5. ECOG PS: 0-1 points;\n6. Expected survival time\\> 3 months;\n7. The functions of important organs meet the following requirements:\n\n   1. Absolute neutrophil count ≥1.5×109/L, platelet ≥100×109/L, hemoglobin ≥9g/dL;\n   2. Bilirubin ≤ 1.5 times ULN (patients drained by retrograde technique may be included); ALT and AST ≤ 3 times ULN;\n   3. Creatinine ≤ 1.5 times, or MDRD creatinine clearance rate\\> 50 mL/min;\n8. Women of childbearing age must undergo a negative pregnancy test (βHCG) before starting treatment. Women and men of childbearing age (sexual relationships with women of childbearing age) must agree to use them effectively during treatment and 6 months after the last dose of treatment Contraceptive measures;\n9. Signature of patient information and informed consent.\n\nExclusion Criteria:\n\n1. Previous allergy to irinotecan liposome, other liposome products, fluorouracil and other therapeutic drugs;\n2. previous or concurrent history of other malignant tumors, except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix;\n3. Participated in other drug clinical trials within 4 weeks before randomization;\n4. Severe gastrointestinal dysfunction;\n5. The presence of third space effusion (e.g., massive pleural effusion) in addition to ascites that could not reach a stable state within 2 weeks before randomization;\n6. Peripheral neuropathy (CTCAE≥ grade 3);\n7. Patients with a history of bleeding, with any bleeding event of CTCAE 5.0 grade 3 or higher within 4 weeks before screening; Gastrointestinal bleeding of CTCAE grade 3 or higher was reported within 6 months before randomization or within 1 month before randomization；\n8. Interstitial lung disease, except interstitial changes only on imaging;\n9. Screening patients with known or history of central nervous system metastases;\n10. Concomitant medication containing a strong inhibitor/strong inducer of CYP3A4, CYP2C8, or a strong inhibitor of UGT1A1 within 2 weeks before randomization;\n11. Severe infection (CTCAE \\> grade 2) within 4 weeks before treatment; Signs and symptoms of infection requiring treatment with intravenous antibiotics within 2 weeks before the initiation of treatment (except for prophylactic antibiotics);\n12. Judging by the researchers, the participants have other factors that could lead to the forced midway termination of research, may affect the participants were given safety or test data collection, etc；\n13. Pregnant women or those who expect to become pregnant during the study treatment.",
+  "enrollment": 132,
+  "has_results": false,
+  "interventions": [
+   "Irinotecan liposome（40mg/m2）",
+   "Nab-paclitaxel",
+   "Gemcitabine",
+   "Irinotecan Liposome（60mg/m2）"
+  ],
+  "last_update_posted": "2024-07-22",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06513455",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-06-30",
+  "sex": "ALL",
+  "sponsor": "Harbin Medical University",
+  "start_date": "2024-09-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

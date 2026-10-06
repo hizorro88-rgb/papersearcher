@@ -1,0 +1,93 @@
+{
+ "abstract": "This clinical trial tests the safety, side effects, best dose and feasibility of using 64Cu-DOTA A2 scFv-Fc2 DM with positron emission tomography for the imaging of patients with PSCA-expressing pancreatic cancer that has spread to nearby tissue or lymph nodes (locally advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic). PET is an established imaging technique that utilizes small amounts of radioactivity attached to very minimal amounts of tracer, in the case of this research, 64Cu-DOTA A2 scFv-Fc2 DM. Because PSCA expressing pancreatic cancers take up 64Cu-DOTA A2 scFv-Fc2 DM it can be seen with PET. A PET scan is a procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body. Using 64Cu-DOTA A2 scFv-Fc2 DM with positron emission tomography may be a safe and feasible way to obtain diagnostic images of patients with locally advanced or metastatic PSCA-expressing pancreatic cancer.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate the safety and feasibility of prostate stem cell antigen (PSCA) imaging using 64Cu-DOTA-A2DM in patients with locally advanced or metastatic pancreatic cancer.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate images of 64Cu-DOTA-A2DM. II. To determine pharmacokinetics of 64Cu-DOTA-A2DM. III. To determine the optimal unlabeled dose of DOTA-A2DM for radioimmunotherapy trials (RIT).\n\nIV. To conduct radiation dose estimation for RIT trials\n\nOUTLINE: This is a dose escalation study of 64Cu-DOTA A2 scFv-Fc2 DM.\n\nPatients receive unlabeled DOTA-A2DM intravenously (IV) then 2-3 hours later patients receive labeled 64Cu-DOTA-A2DM, over 3-5 minutes on day 0. Patients undergo PET scan on day 1 and 2. Patients undergo urine sample collection during screening and blood sample collection throughout the study.\n\nAfter completion of study intervention, patients are followed up at 30 and 90 days.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07608627",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07608627"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-05-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "City of Hope Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07608627"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "64Cu-DOTA A2 scFv-Fc2 DM With Positron Emission Tomography for the Imaging of Patients With Locally Advanced or Metastatic PSCA-Expressing Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [
+   {
+    "email": "JWong@coh.org",
+    "name": "Jeffrey Wong, MD",
+    "phone": "626-325-4260"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Documented informed consent of the participant and/or legally authorized representative\n* Age: ≥ 18 years\n* Karnofsky \\> 70%\n* Advanced (locally or metastatic), histologically confirmed pancreatic adenocarcinoma\n* Evidence of locally advanced unresectable or metastatic disease demonstrated by an abnormal imaging scan (computed tomography \\[CT\\], magnetic resonance imaging \\[MRI\\], fludeoxyglucose \\[FDG\\]-PET) within 8 weeks prior to enrollment\n* No prior radiation therapy to target lesions\n* Hemoglobin ≥ 9g/dL\n\n  * NOTE: Red blood cell transfusions are not permitted within 14 days of hemoglobin assessment unless cytopenia is secondary to disease involvement\n* Total bilirubin ≤ 1.5 X upper limit of normal (ULN) (unless has Gilbert's disease)\n* Aspartate aminotransferase (AST) ≤ 3.0 x ULN\n* Alanine aminotransferase (ALT) ≤ 3.0 x ULN\n* Serum creatinine \\< 1.4 mg/dL\n* Women of childbearing potential (WOCBP): negative urine or serum pregnancy test. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required\n* Agreement by females and males of childbearing potential\\* to use an effective method of birth control or abstain from heterosexual activity for the course of the study through at least 6 months after the last dose of protocol therapy.\n\n  * Childbearing potential defined as not being surgically sterilized (men and women) or have not been free from menses for \\> 1 year (women only)\n\nExclusion Criteria:\n\n* Chemotherapy, radiation therapy, biological therapy, immunotherapy within 14 days or five half-lives (whichever is shorter for non-radiation therapy) prior to day 1 of protocol therapy\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to study agent\n* Clinically significant uncontrolled illness\n* Other active malignancy. Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Females only: Pregnant or breastfeeding\n* Any other condition that would, in the Investigator's judgment, contraindicate the patient's participation in the clinical study due to safety concerns with clinical study procedures\n* Prospective participants who, in the opinion of the investigator, may not be able to comply with all study procedures (including compliance issues related to feasibility/logistics)",
+  "enrollment": 15,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Copper Cu 64-DOTA-A2DM",
+   "Positron Emission Tomography",
+   "Radioconjugate"
+  ],
+  "last_update_posted": "2026-05-27",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07608627",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-07-14",
+  "sex": "ALL",
+  "sponsor": "City of Hope Medical Center",
+  "start_date": "2026-12-16",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

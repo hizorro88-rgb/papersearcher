@@ -1,0 +1,151 @@
+{
+ "abstract": "Cancer is a condition where cells in a specific part of body grow and reproduce uncontrollably. The purpose of this study is to assess adverse events and change in disease activity when ABBV-400 is given to adult participants to treat advanced solid tumors.\n\nABBV-400 is an investigational drug being developed for the treatment of advanced solid tumors. Study doctors put the participants in groups called cohorts. Cohorts 1-8 receive ABBV-400 alone (monotherapy), cohort 9 receives ABBV-400 with a strong CYP3A3 inhibitor (ITZ), and cohort 10 receives ABBV-400 with bevacizumab. All cohorts are followed by a safety follow-up period. Approximately 325 adult participants with hepatocellular carcinoma (HCC), pancreatic ductal adenocarcinoma (PDAC), biliary tract cancers (BTC), esophageal squamous cell carcinoma (ESCC), triple negative breast cancer (TNBC), hormone receptor+/human epidermal growth factor receptor 2 negative (HER2-) breast cancer (hormone receptor-positive \\[HR+\\]/HER2-breast cancer \\[BC\\]), head and neck squamous-cell-carcinoma (HNSCC), Platinum Resistant High Grade Epithelial Ovarian Cancer (PROC)/primary peritoneal/fallopian tube cancer, or advanced solid tumors, will be enrolled in the study in approximately 54 sites worldwide.\n\nIn cohorts 1-8, participants with the following advanced solid tumor indications: HCC, PDAC, BTC, ESCC, TNBC, HR+/HER2-BC, HNSCC, and PROC/primary peritoneal/fallopian tube cancer will receive intravenous (IV) ABBV-400 monotherapy, in cohort 9 participants will receive IV ABBV-400 and an oral solution of ITZ, and in cohort 10 participants will receive IV ABBV-400 and IV bevacizumab, for up to 3 years during and up to the treatment period with an additional safety follow-up period of up to 2 years.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care. Participants will attend regular visits during the study at an approved institution (hospital or clinic). The effect of the treatment will be frequently checked by medical assessments, blood tests, questionnaires and side effects.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06084481",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06084481"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-10-16",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AbbVie",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06084481"
+ },
+ "summary_ko": "Cancer is a condition where cells in a specific part of body grow and reproduce uncontrollably. The purpose of this study is to assess adverse events and change in disease activity when ABBV-400 is given to adult participants to treat advanced solid tumors.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Hepatocellular Carcinoma",
+  "Pancreatic Ductal Adenocarcinoma",
+  "Biliary Tract Cancers",
+  "Esophageal Squamous Cell Carcinoma",
+  "Triple Negative Breast Cancer",
+  "Hormone Receptor+/Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer",
+  "Head and Neck Squamous-Cell Carcinoma",
+  "Platinum Resistant High Grade Epithelial Ovarian Cancer",
+  "Solid Tumors",
+  "Advanced Solid Tumors"
+ ],
+ "title": "Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Hepatocellular Carcinoma",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Biliary Tract Cancers",
+   "Esophageal Squamous Cell Carcinoma",
+   "Triple Negative Breast Cancer",
+   "Hormone Receptor+/Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer",
+   "Head and Neck Squamous-Cell Carcinoma",
+   "Platinum Resistant High Grade Epithelial Ovarian Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "abbvieclinicaltrials@abbvie.com",
+    "name": "ABBVIE CALL CENTER",
+    "phone": "844-663-3742"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Laboratory values meeting the criteria laid out in the protocol.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Documented diagnosis of locally advanced or metastatic hepatocellular carcinoma (HCC), pancreatic ductal adenocarcinoma (PDAC), biliary tract cancers (BTC), squamous cell carcinoma of the esophagus, (ESCC), triple negative breast cancer (TNBC), hormone receptor+/HER2-breast cancer (HR+/HER2-BC), head and neck squamous-cell-carcinoma (HNSCC), or Platinum Resistant High Grade Epithelial Ovarian Cancer (PROC)/primary peritoneal/fallopian tube cancer (by World Health Organization \\[WHO\\] criteria). Participant meets the criteria for disease activity laid out in the protocol.\n\nExclusion Criteria:\n\n* Have received anticancer therapy including chemotherapy, radiation therapy, immunotherapy, biologic, or any investigational therapy within 28 days or 5 half-lives of the drug (whichever is shorter) prior to the first dose of ABBV-400. Palliative radiation therapy for bone, skin, or subcutaneous metastases with 10 fractions or less is permitted and not subject to a washout period.\n* Unresolved clinically significant AEs \\> Grade 1 from prior anticancer therapy.\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, or any evidence of active ILD or pneumonitis, including but not limited to those listed in the protocol.\n* History of clinically significant, intercurrent lung-specific illnesses, including those laid out in the protocol.\n* Untreated brain or meningeal metastases (i.e., participants with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy). Participants may continue on antiepileptic therapy if required.\n* History of other active malignancy, with the exception of those laid out in the protocol.\n* Any autoimmune, connective tissue or inflammatory disorders with documented or suspicious pulmonary involvement at screening (i.e., rheumatoid arthritis, Sjogren's, sarcoidosis etc.), and prior pneumonectomy.",
+  "enrollment": 325,
+  "has_results": false,
+  "interventions": [
+   "ABBV-400",
+   "Itraconazole (ITZ)",
+   "Bevacizumab"
+  ],
+  "last_update_posted": "2026-08-24",
+  "location_countries": [
+   "Australia",
+   "Israel",
+   "Japan",
+   "Puerto Rico",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Busan",
+    "country": "South Korea",
+    "facility": "Inje University Haeundae Paik Hospital /ID# 260118",
+    "status": "COMPLETED"
+   },
+   {
+    "city": "Jinju",
+    "country": "South Korea",
+    "facility": "Gyeongsang National University Hospital /ID# 260408",
+    "status": "COMPLETED"
+   },
+   {
+    "city": "Cheongju-si",
+    "country": "South Korea",
+    "facility": "Chungbuk National University Hospital /ID# 256698",
+    "status": "COMPLETED"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital /ID# 255730",
+    "status": "COMPLETED"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center /ID# 258933",
+    "status": "COMPLETED"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Korea University Guro Hospital /ID# 256700",
+    "status": "COMPLETED"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 54,
+  "nct_id": "NCT06084481",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-09",
+  "sex": "ALL",
+  "sponsor": "AbbVie",
+  "start_date": "2023-11-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,106 @@
+{
+ "abstract": "A multi-institutional, single arm pilot study of antibiotics and pembrolizumab, following chemotherapy for the treatment of surgically resectable pancreatic cancer.\n\nPhase: Pilot Study Objectives\n\nPrimary Objectives:\n\n• To determine the change in immune activation in pancreatic tumor tissue following treatment with antibiotics, pembrolizumab.\n\nSecondary Objectives:\n\n* To establish the safety and feasibility of pre-operative antibiotics in combination with pembrolizumab following chemotherapy\n* To describe the preliminary anti-tumor activity of pre-operative therapy with antibiotics, pembrolizumab, and chemotherapy in subjects with resectable pancreatic cancer\n\nExploratory Objectives:\n\n* To determine immunophenotypic changes in the pancreatic tumor microenvironment following depletion of the microbiome using antibiotics and inhibition of PD-1 with pembrolizumab and to correlate these changes with tumor response as measured by histologic regression.\n* To determine changes in systemic immunogenicity as measured in PBMCs harvested from blood following depletion of the microbiome using antibiotics and inhibition of PD-1 with pembrolizumab and to correlate these changes with tumor response as measured by histologic regression.\n* To determine changes in the microbiome as measured in tumor and stool following treatment with chemotherapy, antibiotics, and pembrolizumab and to correlate these changes with tumor response as measured by histologic regression.\n* To correlate changes in immune activation with changes in microbiome abundance and composition.\n\nMethodology: Multi-center, open label, single arm pilot study Endpoint\n\nPrimary endpoint:\n\n• Achievement of immune response, defined as activation of one or more of the following T cell markers: HLA-DR, CD38, CD25, KI67, and CD69; activation is defined as an increase of 20% or more over baseline in percentage of T cells expressing the marker.\n\nSecondary Endpoints:\n\n* Adverse events graded according to the NCI's Common Terminology Criteria for Adverse Events (CTCAE v5.0).\n* R0 resection rate and histologic regression score\n* Histologic regression score\n* Overall response rate (ORR)\n* Overall survival rate (OS)\n\nExploratory Endpoints:\n\n* Immune changes within blood and tissue following treatment and correlate with clinical endpoints\n* Microbiome changes in tissue and stool following treatment and correlate with clinical and immunologic endpoints\n\nStudy Duration 5 years Participant Duration 6 months Enrollment Period 2 years Duration of IP administration 1 week\n\nStudy Centers/Sites Multicenter:\n\n1. Mount Sinai Health System, Tisch Cancer Institute\n2. TBD\n3. TBD Number of participants: 25 participants with 11 accrued at Mount Sinai Health over 2 years Description of Study Agent/Procedure: Ciprofloxacin 500 mg PO BID days 63-84. Metronidazole 500 mg PO TID days 63-84. Pembrolizumab 200 mg IV day 70. 5-Fluorouracil 2400 mg/m2 IV 46-48 hours infusion days 1, 15, 28, 42, 56. Leucovorin 400 mg/m2IV days 1, 15, 28, 42, 56. Irinotecan 150 mg/m2IV days 1, 15, 28, 42, 56. Oxaliplatin 85mg/m2IV days 1, 15, 28, 42, 56. Key Procedures: Tumor biopsy, surgical resection, blood draws, and stool collection.\n\nStatistical Analysis: The primary efficacy endpoint is the achievement of immune response, defined as activation of one or more of the following markers: HLA-DR, CD38, CD25, KI67, and CD69; activation is defined as an increase of 20% or more over baseline in percentage of cells expressing the marker. With 25 patients, a 95% exact confidence interval around the immune response rate will be no more than 0.46 units wide.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05462496",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05462496"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-07-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Icahn School of Medicine at Mount Sinai",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05462496"
+ },
+ "summary_ko": "A multi-institutional, single arm pilot study of antibiotics and pembrolizumab, following chemotherapy for the treatment of surgically resectable pancreatic cancer. Phase: Pilot Study Objectives\n\nPrimary Objectives:\n\n• To determine the change in immune activation in pancreatic tumor tissue following treatment with antibiotics, pembrolizumab.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic cancer",
+  "antibiotics",
+  "resectable",
+  "microbiome",
+  "pembrolizumab",
+  "chemotherapy"
+ ],
+ "title": "Modulation of the Gut Microbiome With Pembrolizumab Following Chemotherapy in Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "Deirdre.Cohen@mssm.edu",
+    "name": "Deirdre Cohen, MD",
+    "phone": "(212) 824-9331"
+   },
+   {
+    "email": "rashmi.unawane@mssm.edu",
+    "name": "Rashmi Unawane",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed pancreatic adenocarcinoma. Histologies other than adenocarcinoma, or any mixed histologies, will NOT be eligible. \\*Note: histology must be confirmed prior to study treatment, however, participants may be consented to study based on imaging results consistent with pancreatic adenocarcinoma and then undergo diagnostic and research biopsy simultaneously.\n* Clinical stage T1-3, N0-2, M0 (per AJCC 8th ed)\n* Resectable pancreatic cancer as defined by NCCN Guidelines 2.2021 and based on pancreatic protocol dual-phase CT imaging. Multi-detector computed tomography (MDCT) angiography, performed by acquiring thin, preferably sub-millimeter, axial sections using a dual-phase pancreatic protocol, with images obtained in the pancreatic and portal venous phase of contrast enhancement, is required.\n\n  * No arterial tumor contact (celiac axis \\[CA\\], superior mesenteric artery \\[SMA\\], or common hepatic artery \\[CHA\\])\n  * No tumor contact with the superior mesenteric vein (SMV) or portal vein (PV) or ≤180° contact without vein contour irregularity\n* Age \\> 18 years\n* Patients must agree to pre-treatment biopsy(which may have been collected on a universal consent), on-treatment biopsy, and definitive surgical resection\n* ECOG performance status of 0 or 1\n* No prior treatment for diagnosis of pancreatic cancer\n* Normal organ and marrow function as defined below:\n\n  * Absolute neutrophil count (ANC) ≥1500/µL\n  * Platelets ≥100 000/µL\n  * Hemoglobin ≥9.0 g/dL or ≥5.6 mmol/L (Criteria must be met without erythropoietin dependency and without packed red blood cell (pRBC) transfusion within last 2 weeks. )\n  * Creatinine ≤1.5 × ULN OR Measured or calculated creatinine clearance (Creatinine clearance (CrCl) should be calculated per institutional standard., GFR can also be used in place of creatinine or CrCl) ≥30 mL/min for participant with creatinine levels \\>1.5 × institutional ULN; ; GFR=glomerular filtration rate; ULN=upper limit of normal .\n  * Total bilirubin ≤1.5 ×ULN OR direct bilirubin ≤ULN for participants with total bilirubin levels \\>1.5 × ULN AST (SGOT) and ALT (SGPT) ≤2.5 × ULN; ALT (SGPT) =alanine aminotransferase (serum glutamic pyruvic transaminase); AST (SGOT) =aspartate aminotransferase (serum glutamic oxaloacetic transaminase);\n  * International normalized ratio (INR) OR prothrombin time (PT) Activated partial thromboplastin time (aPTT) ≤1.5 × ULN unless participant is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants\n\nNote: This table includes eligibility-defining laboratory value requirements for treatment; laboratory value requirements should be adapted according to local regulations and guidelines for the administration of specific chemotherapies.\n\n* Ability to understand and sign a written informed consent document. Participant must have willingness and ability to comply with scheduled visits, treatment plans, laboratory tests and other study procedures.\n* A female participant is eligible to participate if she is not pregnant , not breastfeeding, and at least one of the following conditions applies:\n\n  * Not a woman of childbearing potential (WOCBP) OR\n  * A WOCBP who agrees to follow the study contraceptive guidance during the treatment period and for at least 120 days plus 30 days (a menstruation cycle) after the last dose of study treatment.\n* Males who are sexually active with WOCBP must agree to follow study instructions for method(s) of contraception for the duration of treatment with study treatment(s) and for a total of 180 days post treatment completion. In addition, male participants must be willing to refrain from sperm donation during this time.\n\nExclusion Criteria:\n\n* Borderline resectable, locally advanced or distant metastatic disease\n* Any medical condition which makes definitive surgical resection of the pancreatic cancer contraindicated due to high risk of morbidity/mortality\n* Has active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment.\n* Medical history and concurrent disease as below:\n\n  -Participants with a condition requiring systemic treatment with either corticosteroids (\\> 10 mg\n* Interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected treatment-related pulmonary toxicity.\n* Uncontrolled or significant cardiovascular disease including, but not limited to, any of the following:\n\n  * Evidence of uncontrolled, active infection, requiring parenteral or oral anti-bacterial, anti-viral or anti-fungal therapy ≤ 28 days prior to screening on study.\n  * Participants with a condition requiring chronic systemic oral treatment with either antibiotics or anti-fungals\n  * Any uncontrolled inflammatory GI disease including Crohn's Disease and ulcerative colitis.\n* Participants with active, known, or suspected autoimmune disease.\n* Has received a live vaccine or live-attenuated vaccine within 30 days prior to the first dose of study drug. \\*Note: for those participants who will be undergoing planned splenectomy, vaccinations against S. pneumoniae, N. meningitidis, H. influenzae type b and influenza virus may be administered per standard practice.\n* Use of probiotics ≤ 28 days prior to screening on study.\n* Known human immunodeficiency virus (HIV), known active Hepatitis A, or known Hepatitis B\n* History of acute diverticulitis within the last 6 months or current chronic diarrhea\n* Expected to require any other form of antineoplastic or surgical therapy while on study.\n* Pre-existing peripheral neuropathy \\> Grade 1, as defined by CTCAE v5.0.\n* Pregnant or lactating women.\n* A WOCBP who has a positive urine pregnancy test within 72 hours or no pregnancy test prior to registration.\n* WOCBP who are unwilling or unable to use an acceptable method to minimize the risk of pregnancy for the entire study period and 120 days plus 30 days (a menstruation cycle) after the last dose of study treatment. WOCBP who are continuously not heterosexually active are also exempt from contraceptive requirements, but still must undergo pregnancy testing.\n* Sexually active fertile men not using effective birth control if their partners are WOCBP.\n* History of primary immunodeficiency.\n* Has a history of (non-infectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n* History of organ allograft or allogeneic bone marrow transplant.\n* Any prior radiation therapy, immunotherapy, or biologic ('targeted') therapy for treatment of the patient's pancreatic tumor. Biliary stent is allowed.\n* Treatment for other invasive carcinomas within the last two years who are at greater than 5% risk of recurrence at time of eligibility screening. Carcinoma in-situ and basal cell carcinoma/ squamous cell carcinoma of the skin are allowed.\n* Participation in any investigational drug study within 4 weeks preceding the start of study treatment.\n* Major surgery, excluding laparoscopy, within 4 weeks of the start of study treatment, without complete recovery.\n* History of allergy to study treatments or any of its components.",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Biopsy",
+   "FOLFIRINOX",
+   "Ciprofloxacin",
+   "Metronidazole",
+   "Pembrolizumab",
+   "Surgical Resection"
+  ],
+  "last_update_posted": "2024-10-15",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "19 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05462496",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-08",
+  "sex": "ALL",
+  "sponsor": "Icahn School of Medicine at Mount Sinai",
+  "start_date": "2023-03-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

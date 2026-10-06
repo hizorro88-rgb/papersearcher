@@ -1,0 +1,110 @@
+{
+ "abstract": "The purpose of this study is to characterize the safety and tolerability of ALTA3263 in adults with advanced solid tumors with KRAS mutations.\n\nThis is an open-label, multicenter, Phase 1/1b study of ALTA3263, an orally bioavailable KRAS isoform-selective inhibitor that inhibits multiple mutant forms of KRAS, in adults with advanced solid tumor malignancies with KRAS mutations. This study will evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary clinical activity of ALTA3263 as a monotherapy and as a combination regimen. The study consists of two parts: Part 1 - Dose Escalation and Part 1b - Dose Expansion.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06835569",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06835569"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-02-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Alterome Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06835569"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "KRAS mutation",
+  "NSCLC",
+  "Non-small cell lung cancer",
+  "Colorectal cancer",
+  "Pancreatic ductal adenocarcinoma",
+  "Colorectal carcinoma",
+  "Pancreatic cancer",
+  "Pancreatic carcinoma",
+  "Solid tumors",
+  "KRAS"
+ ],
+ "title": "A Study to Learn About Study Medicine ALTA3263 in Adults With Advanced Solid Tumors With KRAS Mutations",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Cancer",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "CRC (Colorectal Cancer)",
+   "Advanced Solid Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "clinical.trials@alterome.com",
+    "name": "Alterome Clinical Trial Contact Center",
+    "phone": "619-768-8189"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of a solid tumor malignancy harboring a KRAS mutation identified through molecular testing (NGS- or PCR-based) with a Clinical Laboratory Improvement Amendments-certified (or equivalent) diagnostic test.\n* Unresectable or metastatic disease.\n* Progressed on, intolerant to, or declined prior standard-of-care therapy (including targeted therapy, if applicable) appropriate to tumor type and stage\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior treatment with a KRAS inhibitor, certain exceptions are described in the full study protocol\n* Known condition that prohibits the ability to swallow or absorb an oral medication.\n\nOther inclusion/exclusion criteria may apply.",
+  "enrollment": 448,
+  "has_results": false,
+  "interventions": [
+   "ALTA3263",
+   "cetuximab",
+   "mFOLFOX6",
+   "Pembrolizumab",
+   "Pemetrexed + Cisplatin /Carboplatin",
+   "mFOLFIRINOX",
+   "GnP",
+   "Midazolam"
+  ],
+  "last_update_posted": "2026-06-10",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 12,
+  "nct_id": "NCT06835569",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-05",
+  "sex": "ALL",
+  "sponsor": "Alterome Therapeutics, Inc.",
+  "start_date": "2025-03-05",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

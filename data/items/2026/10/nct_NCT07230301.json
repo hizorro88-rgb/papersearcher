@@ -1,0 +1,79 @@
+{
+ "abstract": "1. Study:\n\n   A Clinical Study of Intra-cavity Adebrelimab Combined with Best Supportive Care for Pancreatic Cancer Patients with Pleural or Peritoneal Effusion (Malignant Ascites)\n2. Why is this study being done? This study is being done to find out if a new approach to treatment is safe and effective for controlling malignant fluid buildup (pleural or peritoneal effusion) in the abdomen or chest in patients with pancreatic cancer. The approach involves putting a drug called Adebrelimab directly into the fluid cavity, in combination with the best available supportive care chosen by your doctor.\n3. What is Adebrelimab? Adebrelimab is a type of immunotherapy drug (a PD-L1 inhibitor) that helps the body's immune system fight cancer cells. It is already approved in China for treating some lung cancers. In this study, it is being given directly into the fluid buildup (intra-cavity) to see if it can work better there.\n4. What will happen if I join the study?\n\n   Screening: First, you will go through tests to see if you are eligible.\n\n   Treatment: If eligible, the fluid will be drained. Then, Adebrelimab will be infused into the cavity on Day 1 and Day 8 of each 3-week cycle. You will also receive the best supportive care for your cancer.\n\n   Monitoring: You will have regular clinic visits for check-ups, blood tests, and scans to see how you are responding to the treatment and to monitor for any side effects.\n5. How long will I be in the study? Treatment will continue as long as it is controlling the disease, you are not experiencing unacceptable side effects, and you choose to remain in the study.\n6. What are the potential benefits? You may experience a reduction in the cancer-related fluid buildup and better control of your cancer. However, benefit cannot be guaranteed. The information from this study may also help other patients in the future.\n7. What are the potential risks and side effects? Possible side effects of Adebrelimab include nausea, fatigue, decreased appetite, vomiting, diarrhea, low blood cell counts, and abnormal liver tests. There may also be unknown risks. The best supportive care has its own risks, which your doctor will explain. You will be monitored closely for safety.\n8. What are my other choices? You can choose not to participate. This will not affect your standard medical care. Your other options may include drainage of the fluid and other standard treatments aimed at managing your symptoms and cancer.\n9. Is participation voluntary? Yes. Your participation is completely voluntary. You can decide to leave the study at any time, for any reason, without any penalty or loss of benefits to which you are entitled.\n\nPatients with pancreatic cancer and malignant pleural or peritoneal effusions first undergo screening, including imaging, laboratory tests, and confirmation of malignant effusion. After informed consent and baseline assessments, they receive intracavitary infusion of adebrelimab (600 mg on days 1 and 8 of each 3-week cycle), combined with the investigator's choice of best supportive treatment such as chemotherapy or targeted therapy. Even if effusion is markedly reduced or drainage becomes impossible, intracavitary administration is continued. Clinical monitoring involves regular vital signs, laboratory evaluations, and recording of adverse events according to NCI-CTCAE v5.0.\n\nEfficacy is assessed by imaging every six weeks and ultrasound measurement of effusion volume, with treatment responses categorized as complete response, partial response, stable disease, or progression. The primary endpoint is overall survival, while secondary endpoints include objective response rate, progression-free survival, disease control rate, puncture-free survival, and effusion control rate. After the last dose, patients enter a 30-day safety follow-up, and then survival status is checked every 90 days until death or loss to follow-up.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07230301",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07230301"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sizhen Wang",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07230301"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Adebrelimab Infusion Plus Standard Care for Pancreatic Cancer With Pleural or Peritoneal Effusions",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n\nHistologically or cytologically confirmed pancreatic cancer.\n\nPresence of malignant pleural or peritoneal effusion (≥4 cm) confirmed by pathology or cytology, requiring clinical intervention.\n\nAt least one measurable lesion according to RECIST v1.1.\n\nECOG performance status 0-3.\n\nEstimated life expectancy ≥ 2 months.\n\nAdequate organ function:\n\nHemoglobin ≥ 80 g/L\n\nANC ≥ 1.0 × 10⁹/L\n\nPlatelets ≥ 50 × 10⁹/L\n\nTBIL \\< 3 × ULN\n\nALT/AST \\< 5 × ULN\n\nSerum creatinine ≤ 1.25 × ULN or creatinine clearance \\> 45 mL/min\n\nChronic HBV infection must be controlled with antiviral therapy and HBV DNA \\< 10,000 IU/mL.\n\nWomen of childbearing potential must have a negative pregnancy test and agree to use effective contraception during the study and for at least 8 weeks after the last dose; men must agree to contraception or have undergone sterilization.\n\nVoluntarily signed informed consent with good compliance for follow-up.\n\nExclusion Criteria:\n\n* Asymptomatic effusion not requiring intervention.\n\nContraindication to paracentesis or drainage.\n\nContraindications to immunotherapy (e.g., chronic steroid use, prior immune-related pneumonitis, hepatitis, or colitis).\n\nActive autoimmune disease requiring systemic therapy.\n\nActive HCV, HIV, syphilis, or tuberculosis infection; uncontrolled severe infection within 4 weeks prior to first dose.\n\nHistory of allogeneic organ transplantation or autologous stem cell transplantation.\n\nSevere pulmonary disease (e.g., pulmonary fibrosis, interstitial lung disease, pneumoconiosis).\n\nHistory of psychiatric illness or substance abuse affecting compliance.\n\nParticipation in another interventional clinical trial within 4 weeks.\n\nPrior treatment with PD-1/PD-L1 antibodies via intrapleural or intraperitoneal route.\n\nUncontrolled CNS metastases or intracranial hypertension.\n\nActive bleeding tendency, GI bleeding within 4 weeks, or ongoing anticoagulation/thrombolysis therapy.\n\nOther active malignancies (except cured basal cell carcinoma, cervical carcinoma in situ, or superficial bladder cancer).\n\nPregnant or breastfeeding women.\n\nAny other condition judged by the investigator to affect participation or evaluation of the trial.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Adebrelimab (PD-L1 inhibitor)"
+  ],
+  "last_update_posted": "2025-11-17",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07230301",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-06-30",
+  "sex": "ALL",
+  "sponsor": "Sizhen Wang",
+  "start_date": "2025-11-30",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

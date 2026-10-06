@@ -1,0 +1,83 @@
+{
+ "abstract": "To evaluate the safety and efficacy of neoadjuvant HRS-4642 plus chemotherapy with or without adebrelimab in patients with pancreatic ductal adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07691593",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07691593"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-07-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Changhai Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07691593"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Neoadjuvant HRS-4642 Plus Chemotherapy With or Without Immunotherapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Male and female participants aged 18-70 (including those who are 18 and 70 years old)；\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1);\n3. Life expectancy ≥ 12 weeks;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Adequate marrow and organ function;\n\nExclusion Criteria:\n\n1. Prior receipt of any anti-tumor therapy, including but not limited to systemic chemotherapy, radiotherapy, interventional therapy, immunotherapy, targeted therapy, and anti-tumor traditional Chinese medicine therapy;\n2. Presence of distant metastatic lesions confirmed by imaging;\n3. Known hypersensitivity to the investigational drug or any of its excipients;\n4. Presence of any serious or uncontrolled systemic disease;\n5. History of allogeneic hematopoietic stem cell transplantation or solid organ transplantation;\n6. Clinically significant acute or chronic pancreatitis;\n7. Participation in any interventional clinical trial involving drugs or medical devices within 4 weeks prior to the first administration of study treatment;\n8. Vaccination with live or live-attenuated vaccines within 4 weeks prior to the first dose of the investigational drug;\n9. Any other condition that, in the judgment of the investigator, makes the subject unsuitable for enrollment.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "HRS-4642+NALIRIFOX",
+   "HRS-4642+NALIRIFOX+Adebrelimab",
+   "HRS-4642+NALIRIFOX+Adebrelimab"
+  ],
+  "last_update_posted": "2026-07-09",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07691593",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-10",
+  "sex": "ALL",
+  "sponsor": "Changhai Hospital",
+  "start_date": "2026-06",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

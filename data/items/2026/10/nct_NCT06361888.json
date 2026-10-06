@@ -1,0 +1,92 @@
+{
+ "abstract": "To evaluate the efficacy of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer\n\nThis is a multicenter, randomized, open-label, active-controlled, phase II/III trial to evaluate the efficacy and safety of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06361888",
+ "importance": 0.94,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06361888"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2024-04-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hutchmed",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06361888"
+ },
+ "summary_ko": "To evaluate the efficacy of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer\n\nThis is a multicenter, randomized, open-label, active-controlled, phase II/III trial to evaluate the efficacy and safety of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer",
+ "summary_source": "excerpt",
+ "tags": [
+  "First-line treatment in patients"
+ ],
+ "title": "A Phase II/III Trial to Evaluate the Efficacy and Safety of Surufatinib Combined With Camrelizumab, Nab-paclitaxel, and Gemcitabine in Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "panfengt@hutch-med.com",
+    "name": "Panfeng Tan",
+    "phone": "+86 21 20671828"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Fully understand and voluntarily sign an informed consent form, willing and able to follow the study process;\n2. Age range is 18-75 years old (inclusive);\n3. Pancreatic cancer confirmed by histology or cytology;\n4. Stage IV metastasis Pancreatic cancer patients;\n5. Have not received previous systematic first line anti-tumor treatment in the stage of metastatic pancreatic cancer;\n6. According to RECIST 1.1, there is at least one measurable lesion;\n7. Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1;\n8. Expected survival time ≥ 12 weeks;\n\nExclusion Criteria:\n\n1. Use of systematic non-specific immunomodulatory therapy within 2weeks prior to the first dose；\n2. Presence of other malignancies in the past 5 years;\n3. Received major surgical surgery within 4 weeks before the first dose;\n4. Received palliative radiotherapy within 1 week before the first dose; received radical radiotherapy within 4 weeks before the first dose;\n5. Any known allergy to surufatinib or its components, camrelizumab, nab-paclitaxel, or gemcitabine;\n6. Received strong-inducers or strong-inhibitors of cytochrome P450 (CYP) 3A within 2 weeks or 5 half-lives (whichever is longer) before the first dose;\n7. Use of immunosuppressive drugs within 4 weeks before first dose;\n8. Known history of clinically significant liver disease, including active viral hepatitis infection or other active hepatitis or clinically significant moderate to severe cirrhosis;\n9. Patients who currently have hypertension that cannot be controlled by medication;",
+  "enrollment": 502,
+  "has_results": false,
+  "interventions": [
+   "Surufatinib Combined With Camrelizumab, Nab-paclitaxel, and Gemcitabine",
+   "Nab-paclitaxel Plus Gemcitabine",
+   "Surufatinib with Nab-paclitaxel, and Gemcitabine"
+  ],
+  "last_update_posted": "2026-09-17",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 52,
+  "nct_id": "NCT06361888",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2028-05-31",
+  "sex": "ALL",
+  "sponsor": "Hutchmed",
+  "start_date": "2024-05-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

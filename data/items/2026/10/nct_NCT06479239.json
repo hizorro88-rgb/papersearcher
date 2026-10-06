@@ -1,0 +1,88 @@
+{
+ "abstract": "The purpose of this study is to understand the safety and estimate the efficacy of combining anti-cluster of differentiation 3 (CD3) x anti-Epidermal Growth Factor Receptor (EGFR) bispecific antibody fresh peripheral blood mononuclear cells (EGFR FPBMC) for patients with metastatic or unresectable pancreas cancer. Participants receive 8 twice weekly doses and then 8 more doses every 2 weeks of EGFR FPBMC by intravenous infusion.\n\nOnce subjects are determined to be eligible, white blood cells (lymphocytes) are collected via leukapheresis procedure. The T cells in the mononuclear cells are coated with bispecific antibody to activate the T cells and the mononuclear cells are reinfused into the patients so the T cells can multiply and kill tumors.\n\nAbout 72 hours after the leukapheresis procedure, EGFR FPBMC infusions will start. After about 8-9 weeks, participants will have another leukapheresis procedure and then receive doses every 2 weeks for 8 more doses. Before, throughout and following EGFR FPBMC, research blood will be collected to better understand immune response. Disease status will be checked regularly during and after study treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06479239",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06479239"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-06-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Virginia",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06479239"
+ },
+ "summary_ko": "The purpose of this study is to understand the safety and estimate the efficacy of combining anti-cluster of differentiation 3 (CD3) x anti-Epidermal Growth Factor Receptor (EGFR) bispecific antibody fresh peripheral blood mononuclear cells (EGFR FPBMC) for patients with metastatic or unresectable pancreas cancer. Participants receive 8 twice weekly doses and then 8 more doses every 2 weeks of EGFR FPBMC by intravenous infusion.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Study of EGFRBi Armed Fresh PBMC in Metastatic or Unresectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zwz6jm@uvahealth.org",
+    "name": "Ashley Donihee",
+    "phone": "434-243-6377"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Histologically confirmed locally advanced pancreatic cancer (LAPC)/unresectable pancreatic cancer (UPC) or metastatic pancreatic cancer (MPC) not eligible for curative intent therapy\n2. Received at least 1 line of chemotherapy and have stable disease (SD) or better for 3 months prior to enrollment. Therapy should consist of either a gemcitabine, 5FU-based (including capecitabine) or albumin-bound paclitaxel-based regimen. Patients with actionable mutations should have received targeted therapy prior to enrollment on trial. Patients who qualify for immunotherapy due to mismatch repair protein/microsatellite stable and tumor mutational burden status should also have received immunotherapy prior to enrollment on trial.\n3. Measurable disease by immune-related Response Evaluation Criteria in Solid Tumors (irRECIST)\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1\n5. Age ≥ 18 years\n6. Females of childbearing potential must have a negative pregnancy test within 7 days prior to enrollment/registration\n7. Females of childbearing potential and males must agree to use an effective method for contraception for the duration of the treatment with study drug plus 90 days (duration of sperm turnover). Males must also abstain from sperm donations during study treatment and for at least 90 days after the last dose of study drug.\n8. Adequate organ function within 14 days prior to registration, defined as the following:\n\n   * Absolute neutrophil count \\>= 500/mm3\n   * Absolute lymphocyte count \\>= 400/mm3\n   * Platelets \\>= 75,000/mm3\n   * Hemoglobin \\>= 8 g/dL\n   * Serum creatinine \\< 2.0mg/dL or calculated/measured creatinine clearance \\>= 50 ml/min\n   * Bilirubin \\<= 2 mg/dL\n   * Aspartate transferase (AST) and Alanine transaminase (ALT) \\<= 5.0 x upper limit of normal (ULN)\n   * Alpha gal \\< 0.35 IU/ml or \"negative\"\n9. Ability to provide informed consent and provision of written informed consent\n10. Stated willingness to comply with all study procedures and availability for the duration of the study\n11. Adequate cardiac function as defined as:\n\n    * No uncontrolled angina or severe ventricular arrhythmias\n    * No clinically significant pericardial disease\n    * No history of myocardial infarction (MI) in the last year before registration\n    * No Class 3 or higher New York Heart Association Congestive Heart Failure\n\nExclusion Criteria:\n\n1. Known hypersensitivity to cetuximab\n2. Treatment with investigational agent within 3 weeks prior to registration\n3. Serious non-healing wound, ulcer, bone fracture, major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to registration\n4. Known active liver disease, human immunodeficiency virus (HIV)+ or evidence of active Hepatitis C or B virus; bleeding or condition associated with high-risk bleeding (anticoagulation is allowed)\n5. Active infection; prior antibiotic/antifungal/antiviral therapies within 2 weeks prior to registration\n6. History of a myocardial infarction within 1 year prior to registration\n7. Patients with a prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n8. Autoimmune disease that has required systemic treatment with chronic steroids or immunosuppressive therapy in the 2 years prior to registration (thyroxine, insulin, or corticosteroid replacement is allowed)\n9. History or evidence of any condition that might confound the results of the trial, interfere with the subject's participation, or is not in the best interest of the subject to participate, in the opinion of the treating investigator\n10. Females must not be currently breast feeding.\n11. The treating investigator feels the patient is not able to be compliant.\n12. History of active Bacillus Tuberculosis (TB).\n13. Has received a live vaccine within 30 days of registration.\n14. Prisoners or patients who are incarcerated.\n15. Patients who are compulsorily detained for treatment of a psychiatric or physical illness.",
+  "enrollment": 23,
+  "has_results": false,
+  "interventions": [
+   "EGFR FPBMC"
+  ],
+  "last_update_posted": "2026-06-16",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06479239",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "University of Virginia",
+  "start_date": "2024-11-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

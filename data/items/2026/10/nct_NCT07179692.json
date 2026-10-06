@@ -1,0 +1,93 @@
+{
+ "abstract": "This study is a single-arm, open-label, dose-escalating + dose-expansion clinical study, aiming to evaluate the safety and efficacy of CEA-targeted CAR-T cell preparations, and to preliminarily observe the study drug in CEA-positive advanced malignant tumors. The pharmacokinetic characteristics of CAR-T cell preparations for the treatment of patients with CEA-positive advanced malignancies were obtained and the recommended dose and infusion schedule.\n\nAccording to the different infusion methods, patients will be assigned to three parallel subgroups: intravenous infusion, intrapleural infusion, and intraperitoneal infusion.\n\nWithin each subgroup, the study is conducted in two sequential parts:\n\n1. .Part A (dose-escalation): escalation begins at the lowest dose level; 3-6 subjects are enrolled at each dose level;\n2. .Part B (dose-expansion): additional subjects are treated at the recommended dose identified in Part A to further evaluate safety and preliminary efficacy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07179692",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07179692"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-09-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chongqing Precision Biotech Co., Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07179692"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "CEA-Targeted CAR-T Therapy in CEA-Positive Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Lung Cancer",
+   "Gastric Cancer",
+   "Colon Cancer",
+   "Rectal Cancer",
+   "Esophageal Cancer",
+   "Pancreas Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "lvxunhuan@163.com",
+    "name": "Donglai Lv, MD",
+    "phone": "+86 13655600090"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years, no gender restriction;\n2. Histopathologically confirmed diagnosis of advanced, metastatic, or recurrent malignant tumors, primarily including colorectal cancer, esophageal cancer, gastric cancer, pancreatic cancer, lung cancer, and cholangiocarcinoma;\n3. Failure of at least second-line standard treatment (disease progression or intolerance, such as surgery, chemotherapy, radiotherapy, etc.) or lack of effective treatment options;\n4. Immunohistochemical staining of tumor samples showing CEA positivity (clear membrane staining, positivity rate ≥ 10%) within the past 3 months; if the immunohistochemical result is older than 3 months (clear membrane staining, positivity rate ≥ 10%), serum CEA must exceed 10 µg/L;\n5. At least one evaluable lesion according to RECIST 1.1 criteria;\n6. ECOG performance status of 0-2;\n7. Expected survival of ≥ 12 weeks;\n8. No severe psychiatric disorders;\n9. Unless otherwise specified, the following important organ function criteria must be met:\n\n   1. Hematology: White blood cells \\> 2.0 × 10\\^9/L, neutrophils \\> 0.8 × 10\\^9/L, lymphocytes \\> 0.5 × 10\\^9/L, platelets \\> 50 × 10\\^9/L, hemoglobin \\> 90 g/L;\n   2. Cardiac function: Echocardiogram shows ejection fraction ≥ 50%, ECG shows no significant abnormalities;\n   3. Renal function: Serum creatinine ≤ 2.0 × ULN;\n   4. Liver function: ALT and AST ≤ 3.0 × ULN (can be relaxed to ≤ 5.0 × ULN for patients with liver tumor infiltration);\n   5. Total bilirubin ≤ 2.0 × ULN;\n   6. Oxygen saturation \\> 92% without supplemental oxygen;\n10. Eligible for single or venous blood collection, and no contraindications for cell collection;\n11. The subject agrees to use reliable and effective contraception methods from the time of signing the informed consent form until 1 year after CAR-T cell infusion (excluding rhythm method);\n12. The subject or their authorized guardian agrees to participate in this clinical trial and signs the informed consent form (ICF), indicating understanding of the trial's purpose and procedures and willingness to participate in the study.\n\nExclusion Criteria:\n\n1. Clinically symptomatic central nervous system metastasis or meningeal metastasis at screening, or other evidence indicating that central nervous system or meningeal metastasis has not been controlled, as determined by the investigator, making the patient unsuitable for enrollment.\n2. Participation in another clinical trial within 1 month prior to screening.\n3. Receipt of live attenuated vaccines within 4 weeks prior to screening.\n4. Received the following anti-tumor treatments within 14 days or at least 5 half-lives (whichever is shorter) prior to screening: chemotherapy, targeted therapy, or other experimental drug treatments.\n5. Active infection requiring systemic treatment or an uncontrolled infection.\n6. Bowel obstruction, active gastrointestinal bleeding, or a history of major gastrointestinal bleeding within the last 3 months, or severe gastrointestinal conditions such as severe gastric or duodenal ulcers, severe ulcerative colitis, or other severe gastrointestinal inflammations.\n7. Toxicity from prior anti-tumor treatments has not improved to baseline levels or ≤ grade 1, except for alopecia or peripheral neuropathy.\n8. Any of the following cardiac conditions:\n\n   1. New York Heart Association (NYHA) Class III or IV congestive heart failure;\n   2. Myocardial infarction or coronary artery bypass graft (CABG) within 6 months prior to enrollment;\n   3. Clinically significant ventricular arrhythmias, or history of unexplained syncope (excluding cases due to vasovagal or dehydration);\n   4. Severe non-ischemic cardiomyopathy.\n9. Active autoimmune diseases or other conditions requiring long-term use of immunosuppressive therapy.\n10. History of another malignancy within the past 3 years, excluding treated and stable in situ cervical cancer or basal cell carcinoma of the skin.\n11. Positive for hepatitis B surface antigen (HBsAg) or hepatitis B core antibody (HBcAb) with peripheral blood hepatitis B virus (HBV) DNA levels above the normal range; positive for hepatitis C virus (HCV) antibodies with peripheral blood HCV RNA levels above the normal range; positive for HIV antibodies; or positive for syphilis testing.\n12. Pregnant or breastfeeding women.\n13. Any other conditions that, in the opinion of the investigator, make the patient unsuitable for participation in the study.",
+  "enrollment": 108,
+  "has_results": false,
+  "interventions": [
+   "CEA-targeted CAR-T cells",
+   "CEA-targeted CAR-T cells",
+   "CEA-targeted CAR-T cells"
+  ],
+  "last_update_posted": "2025-10-02",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07179692",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-03-31",
+  "sex": "ALL",
+  "sponsor": "Chongqing Precision Biotech Co., Ltd",
+  "start_date": "2025-09-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

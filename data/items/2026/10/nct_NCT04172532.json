@@ -1,0 +1,87 @@
+{
+ "abstract": "This phase I/II trial studies the safety, side effects and best dose of M3814 and to see how well it works when given together with radiation therapy in treating patients with pancreatic cancer that has spread to nearby tissue or lymph nodes (locally advanced). M3814 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Hypofractionated radiation therapy delivers higher doses of radiation therapy over a shorter period of time and may kill more tumor cells and have fewer side effects. Giving M3814 and hypofractionated radiation therapy together may be safe, tolerable and/or more effective than radiation therapy alone in treating patients with locally advanced pancreatic cancer.\n\nPRIMARY OBJECTIVES:\n\nI. To evaluate the safety and tolerability of M3814 (peposertib) in combination with hypofractionated radiotherapy in patients receiving treatment for locally advanced pancreatic adenocarcinoma (LAPC). (Phase I) II. To determine the difference in progression free survival (PFS) between patients with LAPC treated with hypofractionated radiotherapy in combination with M3814 (peposertib) as compared to patients treated with hypofractionated radiotherapy alone. (Phase II)\n\nSECONDARY OBJECTIVES:\n\nI. To observe and record anti-tumor activity. (Phase I) II. To evaluate plasma pharmacokinetic (PK) profiles of M3814 (peposertib) in patients receiving hypofractionated radiotherapy. (Phase I) III. To compare the 2-year overall survival (OS) rate of patients treated with hypofractionated radiotherapy plus M3814 (peposertib) to that of those treated with hypofractionated radiotherapy alone. (Phase II) IV. To compare the objective response rate (ORR) by imaging of patients treated with hypofractionated radiotherapy plus M3814 (peposertib) to that of those treated with hypofractionated radiotherapy alone. (Phase II) V. To compare the disease control rate in patients treated with hypofractionated radiotherapy plus M3814 (peposertib) as compared to those patients treated with hypofractionated radiotherapy alone. (Phase II) VI. To explore gene signature patterns in baseline patient tumor tissues that may suggest response to the combination of M3814 (peposertib) and radiotherapy, as identified on whole exome sequencing and ribonucleic acid (RNA) sequencing (seq). (Phase II)\n\nEXPLORATORY OBJECTIVE:\n\nI. To explore changes in gene signature induced by M3814 (peposertib) and hypofractionated radiotherapy treatment as identified in analysis of cell-free deoxyribonucleic acid (DNA) from the peripheral blood. (Phase II)\n\nOUTLINE: This is a phase I, dose-escalation study of M3814 followed by a phase II study.\n\nPHASE I: Patients undergo hypofractionated radiation therapy for 5 fractions every other day (QOD) over 2 weeks and receive M3814 orally (PO) once daily (QD) for 14 days in the absence of disease progression or unacceptable toxicity.\n\nPHASE II: Patients are randomized to 1 of 2 groups.\n\nGROUP I: Patients undergo hypofractionated radiation therapy for 5 fractions QOD over 2 weeks and receive M3814 PO QD for 14 days in the absence of disease progression or unacceptable toxicity.\n\nGROUP II: Patients undergo hypofractionated radiation therapy for 5 fractions QOD over 2 weeks and receive placebo PO QD for 14 days in the absence of disease progression or unacceptable toxicity.\n\nPatients undergo blood sample collection and tissue biopsy on study. Patients also undergo computed tomography (CT) and magnetic resonance imaging (MRI) during screening and on study.\n\nAfter completion of study treatment, patients are followed up at 30, 60, and 90 days, and then every 3 months for up to 2 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04172532",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04172532"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2019-11-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04172532"
+ },
+ "summary_ko": "This phase I/II trial studies the safety, side effects and best dose of M3814 and to see how well it works when given together with radiation therapy in treating patients with pancreatic cancer that has spread to nearby tissue or lymph nodes (locally advanced). M3814 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Testing the Addition of a New Anti-cancer Drug, M3814 (Peposertib), to the Usual Radiotherapy in Patients With Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have pathologically confirmed pancreatic adenocarcinoma. Patients with alternative or mixed histologies (i.e., squamous, neuroendocrine, acinar, colloid) are not eligible\n* Received 4-6 months of induction chemotherapy with fluorouracil, irinotecan, leucovorin and oxaliplatin (FOLFIRINOX), fluorouracil, liposomal irinotecan, leucovorin, oxaliplatin (NALIRIFOX), or gemcitabine/Abraxane, as per standard of care\n* Patients must have locally advanced pancreatic cancer according to National Comprehensive Cancer Network (NCCN) Guidelines (version 1.2020) on pancreas protocol CT scan performed within 21 days of registration. Locally advanced disease is defined as any of the following:\n\n  * For head or uncinate process tumors:\n\n    * Solid tumor contact with superior mesenteric artery \\> 180 degrees\n    * Solid tumor contact with the celiac axis \\> 180 degrees\n    * Solid tumor contact with the common or proper hepatic arteries \\> 180 degrees or\n  * For pancreatic body or tail tumors:\n\n    * Solid tumor contact of \\> 180 degrees with the superior mesenteric artery or celiac axis\n    * Solid tumor contact with the celiac axis and aortic involvement or\n  * Unreconstructible superior mesenteric vein or portal vein due to tumor involvement or occlusion (can be due to tumor or bland thrombus)\n* The determination of locally advanced pancreatic cancer and plan for non-operative treatment on this clinical trial must be confirmed through local multi-disciplinary review\n* Measurable disease per response evaluation criteria in solid tumors (RECIST) version (v)1.1\n* Age \\>= 18 years. Because no dosing or adverse event data are currently available on the use of M3814 (peposertib) in combination with hypofractionated radiation in patients \\< 18 years of age, children are excluded from this study, but will be eligible for future pediatric trials\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Leukocytes \\>= 4,000/mcL\n* Absolute neutrophil count \\>= 1.5 x 10\\^9/L.\n* Hemoglobin \\>= 9 g/dL\n* Platelets \\>= 100 x 10\\^9/L\n* Total bilirubin =\\< 2.0 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) =\\< 3 x institutional ULN\n* Creatinine =\\< 1.5 x institutional ULN\n* Glomerular filtration rate (GFR) \\>= 51 mL/min/1.73 m\\^2\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Female patients of childbearing potential must have a negative urine or serum pregnancy test within 72 hours prior to receiving the first dose of study medication. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required. Female patients of childbearing potential and male patients must be willing to use an adequate method of contraception for the course of the study through 12 weeks after the last dose of study medication.\n\n  * Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the patient.\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function. To be eligible for this trial, patients should be American Heart Association Stage B (people without current or previous symptoms of heart failure but with either structural heart disease, increased filling pressures in the heart or other risk factors) or better and New York Heart Association Functional Classification II (slight limitation of physical activity, comfortable at rest, ordinary physical activity results in fatigue, palpitation, shortness of breath or chest pain), or better\n* Ability to understand and the willingness to sign a written informed consent document. Participants with impaired decision-making capacity (IDMC) who have a legally authorized representative (LAR) and/or family member available will also be eligible\n\nExclusion Criteria:\n\n* Patients who have completed induction chemotherapy less than 2 weeks or more than 8 weeks prior to study enrollment\n* Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> grade 1) with the exception of alopecia and neuropathy grade =\\< 2\n* Patients who are receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to M3814 (peposertib)\n* Evidence of distant metastatic disease\n* More than 1 line of chemotherapy for the treatment of localized pancreatic cancer, unless the change in treatment was made only for toxicity\n* Prior abdominal radiation\n* Active inflammatory bowel disease or connective tissue disease\n* Inability to swallow oral medications or gastrointestinal disease limiting absorption of oral agents\n* History of anaphylactic reaction to iodinated intravenous (IV) contrast required for radiation simulation. Patients with mild reactions may be enrolled, but must receive premedications for contrast allergy prior to imaging\n* Patients who cannot discontinue concomitant medications or herbal supplements that are strong inhibitors or strong inducers of cytochrome P450 (CYP) isoenzymes CYP3A4/5, CYP2C9, and CYP2C19. Concomitant use of substrates with a narrow therapeutic index that are metabolized by CYP1A2, CYP2B6, CYP2C8, and CYP3A4/5 are also excluded.\n\n  * Use caution with other substrates of CYP3A4/5, CYP1A2, CYP2B6, CYP2C8 and substrates of P-gp, BCRP, OCT1, OAT3, OATP1B1, OATP1B3, MATE1, and MATE-2K with a narrow therapeutic index. Close monitoring is advised.\n\nBecause the lists of these agents are constantly changing, it is important to regularly consult a frequently-updated medical reference. As part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product. (Patient Drug Interactions Handout and Wallet Card) should be provided to patients\n\n* Patients who cannot discontinue concomitant proton-pump inhibitors (PPIs). Patients may confer with the study doctor to determine if such medications can be discontinued. These must be discontinued \\>= 5 days prior to study treatment. Patients do not need to discontinue calcium carbonate. H2 blockers and antacids are allowed.\n* Patients who have received a live attenuated vaccine within 30 days of dosing with M3814 (peposertib)\n* Patients with uncontrolled intercurrent illness\n* Patients with psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because M3814 (peposertib) is a DNA-protein kinase (PK) inhibitor with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with M3814 (peposertib), breastfeeding should be discontinued if the mother is treated with M3814 (peposertib)\n* Patients with a prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of this investigational regimen",
+  "enrollment": 92,
+  "has_results": false,
+  "interventions": [
+   "Biopsy Procedure",
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Hypofractionated Radiation Therapy",
+   "Magnetic Resonance Imaging",
+   "Peposertib",
+   "Placebo Administration"
+  ],
+  "last_update_posted": "2026-09-01",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 44,
+  "nct_id": "NCT04172532",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-08-01",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2021-01-11",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,60 @@
+# 약물·시험·수술법 사전. names의 별칭이 제목/초록/중재명에 나오면 entities에 연결된다.
+# 봇은 이 파일을 수정하지 않는다. 새 항목은 PR로 추가.
+- id: daraxonrasib
+  kind: drug
+  names: ["daraxonrasib", "RMC-6236", "다락소나십"]
+  target: "RAS(ON) multi-selective inhibitor"
+  developer: "Revolution Medicines"
+- id: zoldonrasib
+  kind: drug
+  names: ["zoldonrasib", "RMC-9805"]
+  target: "KRAS G12D(ON) inhibitor"
+  developer: "Revolution Medicines"
+- id: elironrasib
+  kind: drug
+  names: ["elironrasib", "RMC-6291"]
+  target: "KRAS G12C(ON) inhibitor"
+  developer: "Revolution Medicines"
+- id: sotorasib
+  kind: drug
+  names: ["sotorasib", "AMG 510", "Lumakras", "소토라십"]
+  target: "KRAS G12C inhibitor"
+  developer: "Amgen"
+- id: adagrasib
+  kind: drug
+  names: ["adagrasib", "MRTX849", "Krazati", "아다그라십"]
+  target: "KRAS G12C inhibitor"
+  developer: "Bristol Myers Squibb"
+- id: olaparib
+  kind: drug
+  names: ["olaparib", "Lynparza", "올라파립"]
+  target: "PARP inhibitor (gBRCA)"
+  developer: "AstraZeneca / Merck"
+- id: nalirifox
+  kind: regimen
+  names: ["NALIRIFOX", "liposomal irinotecan", "Onivyde", "nal-IRI"]
+- id: folfirinox
+  kind: regimen
+  names: ["FOLFIRINOX", "mFOLFIRINOX", "폴피리녹스"]
+- id: gem-nabp
+  kind: regimen
+  names: ["gemcitabine plus nab-paclitaxel", "gemcitabine/nab-paclitaxel", "GnP", "nab-paclitaxel", "Abraxane"]
+- id: autogene-cevumeran
+  kind: drug
+  names: ["autogene cevumeran", "BNT122", "RO7198457", "individualized neoantigen"]
+  target: "mRNA neoantigen vaccine"
+  developer: "BioNTech / Genentech"
+- id: zolbetuximab
+  kind: drug
+  names: ["zolbetuximab", "Vyloy"]
+  target: "Claudin 18.2 antibody"
+  developer: "Astellas"
+- id: whipple
+  kind: procedure
+  names: ["Whipple", "pancreaticoduodenectomy", "pancreatoduodenectomy", "췌두십이지장절제술", "휘플"]
+- id: distal-pancreatectomy
+  kind: procedure
+  names: ["distal pancreatectomy", "원위췌장절제술"]
+- id: sbrt
+  kind: procedure
+  names: ["SBRT", "stereotactic body radiotherapy", "stereotactic body radiation", "정위체부방사선"]

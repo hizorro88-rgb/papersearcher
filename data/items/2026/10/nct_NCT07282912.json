@@ -1,0 +1,110 @@
+{
+ "abstract": "This is a randomized, open label, single-center, phase 2, randomized controlled trial of sequential cytoreductive intervention versus standard of care therapy for patients with intervenable oligometastatic (stage IV) cancer of the upper gastrointestinal (GI) tract and undetectable ctDNA at the time of randomization after a three-month induction chemotherapy period.\n\nPatients with oligometastatic foregut (esophagus, gastric, biliary, liver and pancreatic ) cancers derive benefit from surgical resection/ablation or radiation in selected patients. ctDNA is a liquid biopsy technique that has prognostic value in identifying patients that benefit from loco regional interventions (surgery/radiation/ablation). The primary objective of this study is to assess the Progression Free Survival (PFS) of patients with the addition of sequential cytoreductive intervention versus standard of care systemic therapy in patients with metastatic foregut adenocarcinoma and undetectable ctDNA after induction chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07282912",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07282912"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-12-15",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Yale University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07282912"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Undetectable Circulating Tumor-Deoxyribose Nucleic Acid (ctDNA) Levels",
+  "Oligometastasis",
+  "Esophageal adenocarcinoma",
+  "Gastroesophageal adenocarcinoma,",
+  "Gastric adenocarcinoma",
+  "Duodenal adenocarcinoma",
+  "Pancreatic/ampullary adenocarcinoma",
+  "Gallbladder adenocarcinoma",
+  "Intra- and extrahepatic cholangiocarcinoma."
+ ],
+ "title": "Trial Comparing Standard of Care Therapy With and Without Sequential Cytoreductive Intervention for Patients With Metastatic Foregut Adenocarcinoma and Undetectable Circulating Tumor-Deoxyribose Nucleic Acid (ctDNA) Levels",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Foregut Adenocarcinoma",
+   "Esophageal Adenocarcinoma",
+   "Gastroesophageal Adenocarcinoma",
+   "Gastric Adenocarcinoma",
+   "Pancreas Adenocarcinoma",
+   "Duodenal Adenocarcinoma",
+   "Ampullary Adenocarcinoma",
+   "Gallbladder Adenocarcinoma",
+   "Intra - and Extrahepatic Cholangiocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "wumi.jemiseye@yale.edu",
+    "name": "Wumi Jemiseye, MPH",
+    "phone": "203-737-4475"
+   },
+   {
+    "email": "Rodolfo.molina@yale.edu",
+    "name": "Nelson Molina",
+    "phone": "203-785-2073"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Has a primary diagnosis of AJCC 8th Edition Stage IV esophageal or gastroesophageal adenocarcinoma, gastric adenocarcinoma, pancreatic adenocarcinoma, intrahepatic cholangiocarcinoma, extrahepatic cholangiocarcinoma, gallbladder adenocarcinoma, duodenal, and ampullary adenocarcinoma.\n\n  a) All participants must have confirmed histologic diagnosis of the primary tumor, which may be confirmed retrospectively by a radiologist if necessary.\n* Has a primary tumor that must be locally resectable or can be treated definitively. Primary tumors included are esophageal, gastric, duodenal, ampullary, pancreatic, cholangiocarcinoma, and gall bladder carcinoma. Primary tumors should be resectable or treatable with consolidative radiotherapy or ablative therapy such as microwave ablation or trans-arterial chemo/radioembolization (cholangiocarcinomas).\n* Has limited (2 sites) metastatic disease determined to be completely resectable or treatable with curative intention (see SOE) at the time of diagnosis. This includes:\n\n  1. Up to five pulmonary metastases amenable to wedge resection (maximum of three wedge resections) or lobectomy (single lobectomy) or consolidative radiation/ablative therapy\n  2. Up to five hepatic metastases amenable to hepatectomy (segmentectomy, sectionectomy, sectorectomy, minor hepatectomy, not more than three segments), wedge resection requiring a minimum of 40% of liver parenchyma following resection based on future liver remnant or a combination of partial hepatectomy and microwave ablation or trans-arterial radioembolization (TARE).\n  3. Lymphatic metastases that are resectable or intervenable (limited to only two non-regional sites) (see Appendix 3).\n  4. Resectable peritoneal disease with a PCI of ≤6 and the ability to obtain a CC0 cytoreduction.\n  5. Distant metastasis must be limited to two of the above-mentioned sites (a-d).\n  6. If both pulmonary and liver metastasis are present (a, b), then a total of five lesions will be considered oligometastatic.\n* Patients with resected primary tumors can be included if they present with oligometastases at least six months after the completion of treatment of primary tumor with curative intent.\n* Has adequate organ function, as described below (see Appendix 4); all screening laboratory tests should be performed within 30 days prior to the first study intervention.\n* Patients must have had two concordant negative tissue informed ctDNA tests measured at different timepoints and with the second being within 45 days prior to enrollment.\n* Patients must have at least 4 months of prior effective systemic therapy.\n* Has hemoglobin ≥ 8 g/dL.\n* Has ANC ≥ 1500/uL.\n* Has platelet count ≥ 75000/uL.\n* Has total bilirubin ≤ 1.5 times the upper limit of normal (ULN).\n* Has aspartate aminotransferase (AST) \\& alanine aminotransferase (ALT) ≤ 5 times ULN.\n* Has creatinine clearance ≥ 50 mL/min.\n* Patient who is at least 18 years of age at the time of signing informed consent and less than 81 years of age at the time of signing informed consent.\n* Has an ECOG performance status score 0-1 (see Appendix 6) at the time of randomization.\n* A male participant must agree to use contraception (barrier birth control, abstinence) during the treatment period and for at least 95 days following completion, corresponding to time needed to eliminate any study intervention(s), and refrain from donating sperm during this period.\n* A female participant of childbearing age is eligible to participate if she is not pregnant, not breastfeeding, and agrees to use contraception (hormonal, barrier birth control, or abstinence) during the treatment period and for at least 95 days following completion. Should a woman become pregnant or suspect that she is pregnant while participating in this study, she should inform her treating physician immediately.\n\nInformed Consent\n\n* The participant (or legally acceptable representative if applicable) provides written informed consent for the study. The participant may also provide consent for the Foundation for Blood Research (FBR). However, the participant may participate in the main study without participating in the FBR.\n\nExclusion Criteria:\n\n* Has a positive urine pregnancy test within 3 days prior to randomization or treatment. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n\nNote: In the event that 3 days have elapsed between the screening pregnancy test and the first dose of study intervention, another pregnancy test (urine or serum) must be performed and must be negative for the participant to start receiving study medication.\n\n* Has hypoxia as defined by pulse oximeter reading \\<92% at rest or requires intermittent or chronic supplemental oxygen.\n* Has developed progressive disease on current line of systemic therapy.\n* Has a known additional malignancy that is progressing or has required active treatment within the past three years.\n\nNote: Participants with basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ (e.g., breast carcinoma, cervical cancer in situ) that have undergone potentially curative therapy are not excluded.\n\n* Has known CNS metastasis and/or carcinomatous meningitis.\n* Has known osseous metastasis.\n* Has clinically significant cardiac disease, including unstable angina, acute myocardial infarction within 6 months from treatment initiation, or New York Heart Association Class III or IV congestive heart failure. Medially controlled arrhythmia stable on medication is permitted.\n* Has poorly controlled hypertension defined as SBP ≥150mmHg and/or DBP ≥90mmHg.\n* Has moderate to severe hepatic impairment (Child-Pugh B or C).\n* Has a known psychiatric or substance abuse disorder that would interfere with cooperation with the requirements of the study.\n* Is unable to swallow orally administered medication or has a gastrointestinal disorder affecting absorption (severe dysphasia, bowel obstruction, malabsorption).\n* Has known malignant pleural effusion or previous malignant effusion previously treated at the time of enrollment.\n* Has histologic subtypes not included in the inclusion criteria (including esophageal squamous cell carcinoma, gastroenteropancreatic neuroendocrine tumors, hepatocellular carcinoma, etc.).\n* Has a primary tumor that is not amenable to the treatment modalities listed in section 3.\n* Has albumin level less than 3.0 g/dL despite appropriate nutritional support. Diagnostic Assessments\n* Has detectable ctDNA at the time of enrollment.\n* Has an active infection requiring systemic therapy.\n* Has known active TB/COVID infection.\n* Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (dosing exceeding 10mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of the study intervention.\n* Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 95 days after the last study intervention.\n* Inability to receive chemotherapy and/or surgery and/or radiotherapy and/or ablative procedures due to medical/insurance reasons.\n* Requires emergency surgery due to bleeding, perforation, or obstruction.",
+  "enrollment": 54,
+  "has_results": false,
+  "interventions": [
+   "Sequential cytoreductive intervention",
+   "Signatera Genome ultra-sensitive ctDNA blood test"
+  ],
+  "last_update_posted": "2026-09-08",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07282912",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-06",
+  "sex": "ALL",
+  "sponsor": "Yale University",
+  "start_date": "2026-06-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

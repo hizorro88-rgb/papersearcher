@@ -1,0 +1,129 @@
+{
+ "abstract": "The goal of this clinical trial is to evaluate FMC-376 in participants with advanced solid tumors with KRAS G12C mutations. This clinical trial will be conducted in 3 parts: Phase 1A (Dose Escalation), Phase 1B (Dose Expansion), and Phase 2 (Cohort Expansion). Multiple dose levels in participants with advanced solid tumors will be evaluated.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06244771",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06244771"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-02-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Frontier Medicines Corporation",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06244771"
+ },
+ "summary_ko": "The goal of this clinical trial is to evaluate FMC-376 in participants with advanced solid tumors with KRAS G12C mutations. This clinical trial will be conducted in 3 parts: Phase 1A (Dose Escalation), Phase 1B (Dose Expansion), and Phase 2 (Cohort Expansion).",
+ "summary_source": "excerpt",
+ "tags": [
+  "Lung Cancer",
+  "KRAS",
+  "G12C"
+ ],
+ "title": "A Study Evaluating FMC-376 in Participants With KRAS G12C Mutated Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumors With KRAS G12C Mutations",
+   "Solid Tumor, Adult",
+   "Unresectable Solid Tumor",
+   "Metastatic Solid Tumor",
+   "Non Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "KRAS G12C",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@frontiermeds.com",
+    "name": "Medical Lead",
+    "phone": "+1 (650) 457-1005"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumors with KRAS G12C mutation\n* Received and progressed or been intolerant to prior standard therapy OR standard therapy is considered inappropriate OR an investigational agent is considered standard of care\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Adequate hematological, renal, and hepatic function\n* Agrees not to participate in another interventional study while receiving study drug\n\nExclusion Criteria:\n\n* Leptomeningeal disease or carcinomatous meningitis\n* Clinically significant toxicity resulting from prior cancer therapies\n* Known or suspected hypersensitivity to FMC-376 or any components of the study drug\n* Condition that would interfere with study drug absorption\n* Any illness or medical history that would impact safety or compliance with study requirements or impact ability to interpret study data",
+  "enrollment": 403,
+  "has_results": false,
+  "interventions": [
+   "FMC-376"
+  ],
+  "last_update_posted": "2026-03-18",
+  "location_countries": [
+   "Australia",
+   "South Korea",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Korea University Anam Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Gyeonggi-do",
+    "country": "South Korea",
+    "facility": "Seoul National University Bundang Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Gyeonggi-do",
+    "country": "South Korea",
+    "facility": "The Catholic University of Korea, St. Vincent's Hospital",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 26,
+  "nct_id": "NCT06244771",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-10",
+  "sex": "ALL",
+  "sponsor": "Frontier Medicines Corporation",
+  "start_date": "2024-02-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,94 @@
+{
+ "abstract": "This study aims to evaluate the safety, tolerability, and efficacy of HRS-2329 in combination with other anti-tumor therapies in participants with advanced pancreatic cancer harboring RAS mutations or amplifications.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07736612",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07736612"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-07-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07736612"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Pan-RAS Inhibitor in Combination With Anti-Tumor Therapy in Participants With Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "RAS Mutations or Amplifications"
+  ],
+  "contacts": [
+   {
+    "email": "liangtingbo@zju.edu.cn",
+    "name": "Tingbo Liang, MD.",
+    "phone": "+86 19941463683"
+   },
+   {
+    "email": "yiwenchen0705@126.com",
+    "name": "Yiwen Chen, MD.",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Histopathologically confirmed locally advanced or metastatic pancreatic adenocarcinoma (originating from pancreatic ductal epithelium) that is not amenable to curative therapy.\n* RAS mutation or amplification detected in tumor tissue or blood (by RAS testing).\n* Prior anti-tumor therapy:\n\n  1. For cohort HRS-2329-A: at least one line of standard systemic therapy in the advanced setting;\n  2. For cohorts HRS-2329-B and HRS-2329-C: at most one line of standard systemic therapy in the advanced setting.\n* At least one measurable lesion according to RECIST version 1.1 criteria.\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1.\n* Life expectancy ≥ 3 months.\n* Adequate function of vital organs.\n* Use of appropriate contraceptive methods during the study period, and so forth.\n* Voluntary participation in this study with signed informed consent, good compliance, and willingness to cooperate with follow-up assessments.\n\nExclusion Criteria:\n\n* Prior treatment with drugs similar to the investigational product.\n* Known presence of central nervous system (CNS) metastases.\n* Acute or chronic pancreatitis requiring clinical intervention.\n* Gastrointestinal disorders that may affect drug administration/absorption, including but not limited to dysphagia, malabsorption syndrome, refractory nausea, vomiting, or diarrhea, Crohn's disease, and ulcerative colitis.\n* Gastrointestinal obstruction, or signs/symptoms of gastrointestinal obstruction; however, patients who have undergone surgical intervention with complete resolution of the obstruction may be considered for screening.\n* Concurrent biliary obstruction with risk of biliary tract infection (patients with treatable biliary obstruction may be enrolled if adequate biliary drainage is achieved and the risk of biliary infection is resolved after treatment).\n* Third-space fluid collections (e.g., massive pleural effusion, ascites) that cannot be stabilised (i.e., no intervention required after drainage removal) within 2 weeks prior to enrolment; patients with only a small amount of fluid detected by imaging and without clinical symptoms may be enrolled.\n* Severe infection within 4 weeks prior to enrolment, such as severe pneumonia, bacteraemia, or infectious complications requiring hospitalisation; unexplained fever \\>38.5°C within 2 weeks prior to enrolment ; signs/symptoms of infection requiring intravenous antibiotic therapy within 2 weeks prior to enrolment.\n* Severe cardiovascular or cerebrovascular diseases.\n* Known or suspected interstitial lung disease (isolated imaging findings of interstitial changes are not excluded).\n* History of definite neurological or psychiatric disorders, including epilepsy and dementia.\n* Non-healing wounds (severe, non-healing, or dehiscent), or unhealed fractures.\n* Adverse events from prior therapy not recovered to NCI-CTCAE Grade ≤1 at enrolment .\n* History of malignancies other than the primary tumour within 5 years prior to enrolment, with the exception of malignancies with low risk of metastasis and death, such as adequately treated carcinoma in situ of the cervix, basal cell carcinoma, or squamous cell carcinoma of the skin.\n* Active hepatitis B infection.\n* For Cohort C, conditions that are unsuitable for immunotherapy.\n* Known allergy to any component of any of the study drugs to be administered.\n* Any other condition that, in the investigator's judgement, may affect the study results or result in premature termination of the study.",
+  "enrollment": 80,
+  "has_results": false,
+  "interventions": [
+   "HRS-2329 Tablet",
+   "Nimotuzumab",
+   "HS-20093",
+   "Adebrelimab"
+  ],
+  "last_update_posted": "2026-08-31",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07736612",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-08-30",
+  "sex": "ALL",
+  "sponsor": "Zhejiang University",
+  "start_date": "2026-08-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

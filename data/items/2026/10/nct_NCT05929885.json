@@ -1,0 +1,101 @@
+{
+ "abstract": "This is a single-centre, non-randomized, open label phase II trial to be conducted at the National Cancer Centre, Singapore (NCCS). Patients diagnosed with metastatic PDAC will be eligible to enrol.\n\nThe investigators hypothesize the anticancer activity of low dose OXIRI (LD-OXIRI) regimen comprising of metronomic oxaliplatin (O) and metronomic capecitabine (xeloda; X) in combination with UGT1A1-directed dosing of irinotecan (IRI) to be a tolerable regimen in patients with advanced PDAC and will lead to a favourable response rate.\n\nPatients will be prospectively enrolled in two stages - In stage 1, patients will be recruited and evaluated for response and toxicity. In stage 2, more patients will be recruited for further evaluation of response and toxicity.\n\nEligible patients will be recruited from the National Cancer Centre, Singapore (NCCS). Patients will be referred for assessment by the primary physician to a study investigator for screening. Informed written consent for entry into the trial will be obtained from the patient by a delegated investigator.\n\nAll patients eligible for study entry will receive the LD-OXIRI regimen at the National Cancer Centre, Singapore. All concomitant medication taken during the study must be recorded. If a drug is administered prophylactically, this must be noted. The patients will not receive any other investigational drugs while on this study.\n\nThere will be a screening period of 28 days, a treatment period till disease progression or unacceptable toxicity, and a post-treatment follow up period of up to 24 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05929885",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05929885"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-07-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Centre, Singapore",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05929885"
+ },
+ "summary_ko": "This is a single-centre, non-randomized, open label phase II trial to be conducted at the National Cancer Centre, Singapore (NCCS). Patients diagnosed with metastatic PDAC will be eligible to enrol.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Low Dose OXIRI (LDOXIRI)",
+  "Pancreatic Cancer",
+  "Irinotecan",
+  "Oxaliplatin",
+  "Capecitabine",
+  "Pharmacokinetics",
+  "Metronomic Chemotherapy",
+  "UGT1A1"
+ ],
+ "title": "Metronomic Capecitabine, Oxaliplatin and UGT1A1 Genotype-directed Irinotecan in Metastatic Pancreatic Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "joycelyn.lee.j.x@singhealth.com.sg",
+    "name": "Dr Joycelyn LEE, MBBS, MRCP (UK), M Med",
+    "phone": "+65 64368000"
+   },
+   {
+    "email": "lim.tze.wei@singhealth.com.sg",
+    "name": "Tze Wei LIM",
+    "phone": "+65 64368000"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nThe patient must meet all of the inclusion criteria to participate in the study.\n\n1. Aged above 21\n2. Histopathological diagnosis of pancreatic cancer\n3. Advanced disease not amenable to curative resection (locally advanced or metastatic disease)\n4. Measureable disease by RECIST 1.1 criteria\n5. Life expectancy of at least 12 weeks\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n7. Adequate hematologic function (granulocyte count ≥ 1.5 × 10\\*\\*9/L, platelet count ≥ 100 × 10\\*\\*9/L),\n8. Adequate hepatic function (total bilirubin ≤ 1.5 x the upper limits of normal \\[ULN\\], AST and ALT, ALP ≤ 3 x ULN or \\< 5 x ULN in case of hepatic involvement),\n9. Adequate renal function (creatinine clearance \\> 50 mL/min) will be eligible for inclusion into the study.\n10. Able to provide written and informed consent\n\nExclusion Criteria:\n\nAny patient meeting any of the exclusion criteria at baseline will be excluded from participation.\n\n1. History of another malignancy within 5 years prior to registration. Patients with a past history of adequately treated carcinoma-in-situ, basal cell carcinoma of the skin, squamous cell carcinoma of the skin, and superficial transitional cell carcinoma of the bladder are eligible. Patients with a history of other malignancies are eligible if they have been continuously disease free after definitive primary treatment for at least 5 years.\n2. Untreated CNS metastases or leptomeningeal disease. Patients with brain metastases that have been treated, and are asymptomatic, and have been stable for 3 or more months after treatment are allowed. A baseline CT or MRI brain is only required if there is clinical suspicion of CNS involvement.\n3. Concurrent illness, including severe infection, that may jeopardise the ability of the patient to undergo the procedures outlined in this protocol with reasonable safety\n4. Serious medical or psychiatric conditions that might limit the ability of the patient to comply with the protocol\n5. Treatment with palliative chemotherapy or radiotherapy within 4 weeks prior to enrolment into the study\n6. Major surgery within two weeks prior to enrolment into the study\n7. Patients on chronic immunosuppressive therapy\n8. Pregnancy, lactation or inadequate contraception. Women of childbearing potential must have a negative pregnancy test within 3 days of enrolment and agree to use a reliable means of contraception. Men must have been surgically sterilised or agree to use a barrier method of contraception\n9. Patients on anticoagulant therapy with vitamin K antagonists.",
+  "enrollment": 50,
+  "has_results": false,
+  "interventions": [
+   "Low Dose OXIRI (LD-OXIRI)"
+  ],
+  "last_update_posted": "2026-06-23",
+  "location_countries": [
+   "Singapore"
+  ],
+  "locations_kr": [],
+  "max_age": "99 Years",
+  "min_age": "21 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05929885",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-02-28",
+  "sex": "ALL",
+  "sponsor": "National Cancer Centre, Singapore",
+  "start_date": "2023-08-30",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

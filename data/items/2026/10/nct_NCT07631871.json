@@ -1,0 +1,97 @@
+{
+ "abstract": "The goal of this clinical trial is to learn if Zanidatamab can treat HER2-positive advanced tumors in adults. The main question it aims to answer is: What is the objective response rate of Zanidatamab in adult patients with HER-2 positive advanced solid tumors? Participants will receive Zanidatamab intravenously on Day 1 of each 2-week treatment cycle. The dosage is 20 mg/kg per cycle.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07631871",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07631871"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-06-08",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Haihua Yuan",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07631871"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "HER2 Positive Solid Tumor",
+  "Zanidatamab",
+  "Basket Study"
+ ],
+ "title": "An Exploratory Study of Zanidatamab in HER2-positive Advanced Tumor After at Least One Line of Standard Therapy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Neoplasms",
+   "Solid Tumors",
+   "HER2 Positive Solid Tumor",
+   "Endometrial Neoplasm",
+   "Urothelial Carcinoma (UC)",
+   "Pancreatic Neoplasms",
+   "Colorectal Neoplasms",
+   "Head and Neck Neoplasms",
+   "Cervical Neoplasms",
+   "Ovarian Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "ayuan790415@shsmu.edu.cn",
+    "name": "Haihua Yuan",
+    "phone": "+86-021-56691101-7261"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Male or female subjects aged ≥ 18 years old.\n2. Subjects with locally advanced, unresectable or metastatic solid tumors who have progressed after ≥1 prior systemic therapy for advanced/metastatic disease, or have no available optimal alternative treatments. Qualified tumor types include but are not limited to endometrial carcinoma, urothelial carcinoma, pancreatic cancer, colorectal carcinoma (CRC), head and neck adenocarcinoma (salivary gland adenocarcinoma, lacrimal gland adenocarcinoma, adenocarcinoma of unknown primary of the neck), cervical cancer, ovarian cancer and adenocarcinoma of unknown primary. Biliary tract malignancy, lung cancer and breast cancer are excluded. For CRC patients: documented RAS status (wild-type or mutant) and wild-type BRAF; prior treatment regimen should contain fluoropyrimidine, oxaliplatin and irinotecan unless contraindicated; anti-VEGF therapy when clinically indicated; anti-PD-L1 therapy for MSI-H/dMMR tumors if clinically indicated.\n3. ECOG Performance Status 0, 1 or 2.\n4. Confirmed HER2 positivity defined as IHC 3+, or IHC 2+ with positive FISH amplification (per GC criteria).\n5. Willing and capable of providing adequate tumor specimens for central pathological re-assessment of HER2 status at institutional pathology department. Patients previously treated with HER2-ADC must provide FFPE tumor samples collected after last HER2-ADC administration. Specimens with insufficient tumor cellularity and fine-needle aspiration samples are not acceptable for HER2 testing.\n6. At least one measurable lesion at baseline per RECIST 1.1 criteria.\n7. Adequate bone marrow and organ function confirmed within 14 days prior to enrollment: Hemoglobin ≥ 9 g/dL; Platelet count ≥ 75,000/mm³; Absolute neutrophil count (ANC) ≥ 1000/mm³; Serum albumin ≥ 2.5 g/dL; PT, aPTT and INR ≤ 1.5 × ULN; AST/ALT ≤ 3 × ULN; ≤5 × ULN for subjects with liver metastasis; Total bilirubin ≤1.5 × ULN (no liver metastasis); ≤3 × ULN (baseline Gilbert syndrome or liver metastasis); Creatinine clearance ≥30 mL/min (calculated by Cockcroft-Gault formula)\n8. LVEF ≥50% evaluated via echocardiogram (ECHO) or MUGA scan within 28 days before enrollment.\n\nExclusion Criteria:\n\nSubjects with any of the following conditions are ineligible:\n\n1. Documented spinal cord compression, leptomeningeal disease or clinically active central nervous system (CNS) metastasis.\n2. Active primary immunodeficiency, confirmed HIV infection, active HBV or HCV infection.\n3. History of non-infectious interstitial lung disease (ILD)/non-infectious pneumonia requiring steroid therapy, ongoing active ILD/non-infectious pneumonia, or suspected ILD/non-infectious pneumonia that cannot be ruled out by screening imaging.\n4. History of myocardial infarction, symptomatic congestive heart failure (CHF, NYHA Class II-IV), unstable angina, or any cardiovascular event (including stroke) within 6 months prior to enrollment.\n5. Pulmonary exclusion items: (a) Clinically significant underlying pulmonary disorders, including but not limited to pulmonary embolism within 3 months before screening, severe asthma, severe COPD, restrictive lung disease, recurrent pleural effusion; (b) Confirmed autoimmune, connective tissue or inflammatory diseases (rheumatoid arthritis, Sjögren's syndrome, sarcoidosis etc.), or suspected pulmonary involvement at screening; full disease details shall be recorded in eCRF for enrolled subjects; (c) Previous total pneumonectomy.\n6. Confirmed presence of HER2 gene mutation.",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "Zanidatamab"
+  ],
+  "last_update_posted": "2026-06-08",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07631871",
+  "phase": "PHASE2",
+  "primary_completion_date": "2029-12-31",
+  "sex": "ALL",
+  "sponsor": "Haihua Yuan",
+  "start_date": "2026-06-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,119 @@
+{
+ "abstract": "The goal of this study is to test autologous logic-gated Tmod™ CAR T-cell products in subjects with solid tumors including colorectal cancer (CRC), pancreatic cancer (PANC), non-small cell lung cancer (NSCLC), ovarian cancer (OVCA), mesothelioma (MESO), and other solid tumors that express mesothelin (MSLN) and have lost HLA-A\\*02 expression.\n\nThe main questions this study aims to answer are:\n\nPhase 1: What is the recommended dose that is safe for patients\n\nPhase 2: Does the recommended dose kill solid tumor cells and protect the patient's healthy cells\n\nParticipants will be required to perform study procedures and assessments, and will also receive the following study treatments:\n\nEnrollment and Apheresis in BASECAMP-1 (NCT04981119)\n\nPreconditioning Lymphodepletion (PCLD) Regimen\n\nTmod CAR T cells at the assigned dose\n\nThis is a seamless phase 1/2, multi-center, open-label study that enrolls adults with recurrent unresectable, locally advanced, or metastatic (considered non-curative) CRC, NSCLC, PANC, OVCA, MESO or other solid tumors with MSLN expression. Subjects must be germline HLA-A\\*02 heterozygous, with tumors that express MSLN and have lost HLA-A\\*02 expression. This study has two arms: Arm 1 is a study of A2B694 and Arm 2 is a study of A2B543.\n\nThe purpose of Phase 1 of this study is to determine the safety and the optimal dose of the Tmod products (after PCLD) in participants with solid tumor disease. The purpose of Phase 2 of this study is to determine the further safety and efficacy (how well it treats the solid tumor disease) of the Tmod products.\n\nThe treatment available for these cancers and other solid tumors can be toxic, debilitating, and fatal. In the recurrent unresectable, locally advanced, or metastatic setting, the intent of standard of care treatment is typically palliative rather than curative, and has not changed significantly in several decades. A2 Bio hypothesizes that Tmod CAR T-cell therapy will enable the killing of tumor target cells (those cells that express MSLN and have loss of heterozygosity \\[LOH\\] for HLA-A\\*02 protein). Additionally, normal healthy cells that maintain HLA-A\\*02 expression and co-express MSLN (eg, lung tissue) will not be targeted due to the blocker portion of the Tmod CAR T cell that acts as a self-regulated safety switch that protects normal tissue from damage. A2 Bio believes this will provide a therapeutic safety window compared to previous solid tumor targeting therapies. This hypothesis will be explored in the study.\n\nParticipants for this study must enroll and have their T cells collected (apheresis) in the pre-screening BASECAMP-1 study (NCT04981119). T cells are collected, processed and stored for each participant. Upon disease progression the participant may screen for this study (EVEREST-2) and the participant's T cells are manufactured and then infused following PCLD regimen. There is no time requirement between the studies, and patients may go directly from BASECAMP-1 to EVEREST-2 based on their own disease course.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06051695",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06051695"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2023-09-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "A2 Biotherapeutics Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06051695"
+ },
+ "summary_ko": "The goal of this study is to test autologous logic-gated Tmod™ CAR T-cell products in subjects with solid tumors including colorectal cancer (CRC), pancreatic cancer (PANC), non-small cell lung cancer (NSCLC), ovarian cancer (OVCA), mesothelioma (MESO), and other solid tumors that express mesothelin (MSLN) and have lost HLA-A\\*02 expression. The main questions this study aims to answer are:\n\nPhase 1: What is the recommended dose that is safe for patients\n\nPhase 2: Does the recommended dose kill …",
+ "summary_source": "excerpt",
+ "tags": [
+  "CAR T Cell",
+  "Solid Tumors",
+  "Autologous",
+  "T Cell",
+  "Mesothelin",
+  "MSLN",
+  "HLA-A2",
+  "Solid Tumors expressing MSLN",
+  "Pancreatic",
+  "Cell Therapy"
+ ],
+ "title": "A Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Logic-gated CAR T, in Participants With Solid Tumors That Express MSLN and Have Lost HLA-A*02 Expression",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Colorectal Cancer",
+   "NSCLC",
+   "Non Small Cell Lung Cancer",
+   "NSCLC, Recurrent",
+   "Non-Small Cell Squamous Lung Cancer",
+   "Pancreas Cancer",
+   "Pancreatic Neoplasm",
+   "Colorectal Adenocarcinoma",
+   "CRC",
+   "Colon Cancer",
+   "Rectal Cancer",
+   "Cancer",
+   "Ovarian Cancer",
+   "Ovarian Neoplasms",
+   "Mesothelioma",
+   "Mesothelioma, Malignant",
+   "Ovary Cancer",
+   "Lung Cancer",
+   "MESOM"
+  ],
+  "contacts": [
+   {
+    "email": "ClinicalTrials@a2bio.com",
+    "name": "Clinical Trials",
+    "phone": "310-431-9180"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nKey Inclusion Criteria:\n\n1. Appropriately enrolled in the BASECAMP-1 A2 Biotherapeutics, Inc. study, with tissue demonstrating LOH of HLA-A\\*02 by NGS (whenever possible from the primary site), successful apheresis and PBMC processing, and with sufficient stored cells available for Tmod CAR T-cell therapy\n2. Histologically confirmed recurrent unresectable, locally advanced, or metastatic CRC, NSCLC, PANC, OVCA, MESO, or other solid tumors with MSLN expression. Measurable disease is required with lesions of ≥1.0 cm by CT.\n3. Received previous required therapy for the appropriate solid tumor disease as described in the protocol\n4. Has adequate organ function as described in the protocol\n5. ECOG performance status of 0 to 1\n6. Life expectancy of ≥3 months\n7. Willing to comply with study schedule of assessments including long term safety follow up\n\nKey Exclusion Criteria:\n\n1. Has disease that is suitable for local therapy or able to receive standard of care therapy that is therapeutic and not palliative\n2. Prior allogeneic stem cell transplant\n3. Prior solid organ transplant\n4. MESO with pleural involvement extending into the peritoneum\n5. Cancer therapy within 3 weeks or 3 half lives of infusion\n6. Radiotherapy within 28 days of infusion\n7. Unstable angina, arrhythmia, myocardial infarction, or any other significant cardiac disease within the last 6 months\n8. Any new symptomatic pulmonary embolism (PE) or a deep vein thrombosis (DVT) within 3 months of enrollment. Therapeutic dosing of anticoagulants is allowed for history of PE or DVT if greater than 3 months from time of enrollment, and adequately treated\n9. History of interstitial lung disease including drug-induced interstitial lung disease and radiation pneumonitis that requires treatment with prolonged steroids or other immune suppressive agents within 1 year\n10. Requires supplemental home oxygen\n11. Females of childbearing potential who are pregnant or breastfeeding\n12. Subjects, both male and female, of childbearing potential who are not willing to practice birth control from the time of consent through 6 months post infusion",
+  "enrollment": 474,
+  "has_results": false,
+  "interventions": [
+   "A2B694",
+   "A2B543",
+   "xT CDx with HLA-LOH Assay"
+  ],
+  "last_update_posted": "2026-06-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 12,
+  "nct_id": "NCT06051695",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-06",
+  "sex": "ALL",
+  "sponsor": "A2 Biotherapeutics Inc.",
+  "start_date": "2024-04-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,82 @@
+{
+ "abstract": "Pancreatic cancer is a kind of digestive system tumor with extremely high malignancy and poor prognosis. Although the trend of benefit from immunotherapy in combination with chemotherapy is currently reflected in several exploratory studies, the overall efficacy is still relatively limited.\n\nDysregulation of epigenetic mechanisms, which is common in cancer, leads to down-regulation of genes involved in tumor antigen processing or presentation, resulting in immune evasion and thus affecting the efficacy of immunotherapy. Epigenetic inhibitors may enhance the efficacy of immunotherapy by enhancing antigenicity and presentation of tumor-associated antigens, reprogramming the tumor microenvironment to counteract immunosuppression, and reversing cytotoxic T-cell depletion. Thus, decitabine-promoted immunotherapeutic sensitization is a potential therapeutic avenue for mPDAC patients that warrants further exploration in clinical trials. Taking into account the characteristics of pancreatic cancer immunophenotype, exploring combination therapy regimens that enhance anti-tumor immune response and improve the efficacy of immunotherapy has become an urgent clinical problem.\n\nThis study is a prospective, single-arm, single-center, phase IB/II clinical study exploring the efficacy and safety of adebrelimab in combination with decitabine, albumin-bound paclitaxel, and gemcitabine in the first-line treatment of metastatic pancreatic cancer. The primary study endpoints are DLT, RP2D and ORR. Secondary study endpoints are OS, PFS, DCR, DoR and safety.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06454448",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06454448"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-06-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tianjin Medical University Cancer Institute and Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06454448"
+ },
+ "summary_ko": "Pancreatic cancer is a kind of digestive system tumor with extremely high malignancy and poor prognosis. Although the trend of benefit from immunotherapy in combination with chemotherapy is currently reflected in several exploratory studies, the overall efficacy is still relatively limited.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Phase Ib/II Clinical Study of Adebrelimab in Combination With Decitabine, Albumin-bound Paclitaxel, and Gemcitabine for the First-line Treatment of Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Adebrelimab (SHR-1316)",
+   "Decitabine",
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1\\. Age 18-75 years old, male or female; 2. Histologically or cytologically confirmed diagnosis of pancreatic cancer (originating from the pancreatic ductal epithelium), with clinical records showing metastatic pancreatic cancer (stage IV according to the AJCC 8th edition TNM staging of pancreatic cancer); 3. Have not received any anti-tumor therapy (including chemotherapy, targeted, immunotherapy, etc.); 4. Must have at least one measurable lesion as a target lesion (according to RECIST v1.1 criteria); the target lesion should not have received localized treatment such as radiotherapy (lesions located within the area of previous radiotherapy may also be selected as target lesions if progression is confirmed to have occurred and meets RECIST1.1 criteria); 5. ECOG: 0 to 1; 6. Expected survival ≥ 3 months; 7. Good major organ function, i.e., the following criteria are met (in the absence of receiving any blood components, cell growth factors within 14 days prior to randomization):\n\n1. Neutrophils ≥1.5\\*109/L; platelets ≥80\\*109/L; hemoglobin ≥9g/dl; serum albumin ≥3g/dl;\n2. Total bilirubin ≤ 1.5 times the upper limit of normal value (biliary obstruction allows biliary drainage); ALT and AST ≤ 3 times the upper limit of normal value (for patients with hepatic metastases, it can be relaxed to ≤ 5 times the upper limit of normal value);\n3. Serum creatinine ≤1.5 times the upper limit of normal value, creatinine clearance ≥50ml/min;\n4. INR ≤1.5 times the upper limit of normal value and APTT ≤1.5 times the upper limit of normal value (for the use of a stable dose of anticoagulation therapy, such as low molecular heparin or warfarin, and the INR is within the expected therapeutic range of anticoagulants can be screened);\n5. Electrocardiogram: QTcF ≤450ms (men), ≤470ms (women);\n6. Cardiac ultrasound: LVEF (left ventricular ejection fraction) ≥50%; 8. Women of childbearing potential must have had a negative blood pregnancy test within 3 days prior to randomization and be willing to use an appropriate method of contraception during the trial and for 6 months after completion of treatment. For men, this should be surgical sterilization or agreement to use an appropriate method of contraception for the duration of the study and for 3 months after completion of treatment; 9. Subjects voluntarily enroll in this study by signing an informed consent form.\n\nExclusion Criteria:\n\n1. patients with pancreatic cancer originating from non-pancreatic ductal epithelium, including pancreatic neuroendocrine carcinoma, pancreatic follicular cell carcinoma, pancreatoblastoma, and solid-pseudopapillary tumors;\n2. patients with known central nervous system metastases;\n3. severe gastrointestinal dysfunction (with bleeding, obstruction; inflammation greater than grade 2; diarrhea greater than grade 1);\n4. the presence of third interstitial fluid (e.g., massive pleural fluid) that could not be stabilized (without interventional therapy after drain removal) except for ascites within 2 weeks before randomization;\n5. Patients with clinically symptomatic ascites who require puncture or drainage or who have received ascites drainage within the previous 3 months (except for imaging that shows only a small amount of ascites that is manageable but not accompanied by clinical symptoms);\n6. current concomitant interstitial pneumonia or interstitial lung disease, or a prior history of interstitial pneumonia or interstitial lung disease requiring hormonal therapy, or other pulmonary fibrosis that may interfere with the determination and management of immune-related pulmonary toxicity, mechanized pneumonia (e.g., occlusive bronchiectasis), pneumoconiosis, drug-associated pneumonitis, idiopathic pneumonitis, or active pneumonia or severely impaired pulmonary function as demonstrated by chest CT at the Screening Period Subjects; active tuberculosis;\n7. the presence of active autoimmune disease or a history of autoimmune disease with potential for relapse \\[including, but not limited to, autoimmune hepatitis, interstitial pneumonitis, uveitis, enteritis, pituitary gland inflammation, vasculitis, nephritis, hyperthyroidism, and hypothyroidism (subjects who can be controlled by hormone replacement therapy only are eligible for enrollment)\\]; subjects who have a skin disease that does not require systemic treatment such as vitiligo, psoriasis, alopecia that Controlled type I diabetes mellitus receiving insulin therapy or asthma that has completely resolved in childhood and does not require any intervention in adulthood may be enrolled;\n8. known peripheral neuropathy (CTCAE ≥ grade 3);\n9. a serious infection (CTCAE \\> grade 2) within 4 weeks prior to randomization, such as severe pneumonia, bacteremia, or complications of infection requiring hospitalization; signs and symptoms of infection requiring intravenous antibiotic therapy (except for prophylactic use of antibiotics) within 2 weeks prior to randomization;\n10. received any of the following treatments: 1) Immunosuppressive or systemic hormone therapy for immunosuppression within 2 weeks prior to randomization (dose \\>10 mg/day prednisone or other equipotent hormone); 2) Radiation therapy within 2 weeks prior to randomization; 3) Major surgery (e.g., open thoracic surgery, open abdominal surgery, etc.) within 4 weeks prior to randomization; 4) Received any other clinical study medication within 4 weeks prior to randomization, unless it was an observational (non-interventional) clinical study or an interventional clinical study follow-up.\n11. abnormal coagulation, bleeding tendency or undergoing thrombolytic or anticoagulant therapy. Prophylactic use of low-dose aspirin (≤100mg/day), low molecular heparin (enoxaparin 40mg/day and other low molecular heparin at its equivalent dose) is allowed;\n12. patients with cardiac clinical conditions or diseases that are not well controlled, such as (1) NYHA class 2 or higher heart failure, (2) unstable angina pectoris, (3) myocardial infarction within 6 months, and (4) clinically significant supraventricular or ventricular arrhythmias that require treatment or intervention;\n13. malignancy other than pancreatic cancer within 5 years prior to randomization, with the exception of adequately treated carcinoma in situ of the cervix, basal cell or squamous epithelial cell carcinoma of the skin;\n14. known hypersensitivity to PD-L1, albumin paclitaxel, gemcitabine, decitabine, and any of the components of the above products;\n15. known to have acquired immunodeficiency syndrome (AIDS) or HIV test positive, active syphilis infection;\n16. previous history of definite neurological or psychiatric disorders, including epilepsy or dementia;\n17. Subjects who, in the judgment of the investigator, have other factors that may cause them to be forced to terminate the study midway, such as non-compliance with the protocol, other serious illnesses (including psychiatric illnesses) that require comorbid treatment, grossly abnormal values of clinically significant laboratory tests, familial or social factors that may affect the safety of the subject or the collection of trial data.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Adebrelimab;decitabine;"
+  ],
+  "last_update_posted": "2024-06-28",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06454448",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2025-06",
+  "sex": "ALL",
+  "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+  "start_date": "2024-06-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,89 @@
+{
+ "abstract": "This study is a multicenter, single-arm, phase II exploratory study, aims to evaluate the efficacy and safety of metronomic capecitabine with camrelizumab and apatinib mesylate in advanced pancreatic cancer after the failure of first-line treatment.\n\nThis study used a Simon two-stage design, with at least 43 subjects enrolled, includs the patients with advanced pancreatic cancer whose second-line treatment has failed, or those with poor performance status (PS score \\>1) who cannot tolerate the second-line regimen with two or more chemotherapeutic drugs. All subjects enrolled receive the treatment of metronomic capecitabine with camrelizumab and apatinib mesylate until disease progression or intolerable toxicity or the ended of study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06759090",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06759090"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-01-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06759090"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Metronomic chemotherapy"
+ ],
+ "title": "Metronomic Capecitabine with Camrelizumab and Apatinib Mesylate for Treatment of Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "zychenming@zju.edu.cn",
+    "name": "Ming Chen, Doctor.",
+    "phone": "0571-87236557"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1: Age is 18 years or older; 2: Pathologically confirmed pancreatic adenocarcinoma; 3: As determined by the investigator, second-line treatment for advanced pancreatic cancer has failed; or the patient has a poor performance status (PS score \\>1), and the investigator considers that the patient cannot tolerate a second-line regimen with two or more drugs.\n\n  4: Performance status PS score 0-2; 5: Expected survival period \\>= 3 months; 6: According to the RECIST1.1 criteria, the patient has at least one measurable lesion present; 7: Good organ function levels: • ANC\\>=1.5×10\\^9/L; • PLT\\>=75×10\\^9/L; • Hb\\>=80 g/L; • TBIL\\<=1.5×ULN; • ALT and AST\\<=3×ULN; For patients with liver metastases, ALT and AST\\<=5×ULN; • Cr\\<=1.5×ULN, if Cr\\>1.5×ULN, then Ccr\\>50ml/min (calculated by Cockcroft-Gault formula); • LVEF\\>=50%; • Fridericia corrected QT interval (QTcF) \\<450 ms for males, \\<470 ms for females.\n\n  8: After assessment by the researcher, the participant is able to comply with the trial protocol; 9: Voluntarily participate in this clinical trial, understand the research procedures, and can sign the informed consent form in writing;\n\nExclusion Criteria:\n\n* 1: Patients who have developed resistance after treatment with capecitabine and apatinib are not recommended for enrollment unless more than 6 months have passed since the last dose, in which case they can continue to challenge its use; patients who have previously undergone immunotherapy (regardless of whether or not they used camrelizumab) can cross-line use or switch to camrelizumab to continue challenging its use.\n\n  2: Received chemotherapy, radiotherapy, immunotherapy, biologics, or endocrine therapy for anti-tumor treatment, or other investigational drugs not yet on the market within 4 weeks before the first use of the study drug; 3: Within 4 weeks before the first use of the study drug, the subject has undergone major organ surgery (excluding biopsy) or experienced significant trauma, or requires elective surgery during the trial period; 4: Use of steroid hormones (prednisone equivalent) greater than 20 mg/day for more than 14 consecutive days within 14 days before the first use of the study drug; 5: Adverse reactions from previous anti-tumor treatments have not yet recovered to CTCAE 5.0 grade \\<=1 (excluding alopecia and other toxicities determined by the investigator to pose no safety risk).\n\n  6: Past or current retinal vein occlusion (RVO) or high-risk factors (such as uncontrolled glaucoma or high intraocular pressure, history of hyper-viscous blood syndrome or hypercoagulable state); 7: History of active major bleeding; 8: Uncontrolled hypertension; 9: Severe unhealed wounds or fractures; 10: Ulcer, bowel perforation or intestinal obstruction; 11: After evaluation by researchers, there are contraindications for drug prophylaxis of thromboembolism; 12: Central nervous system metastasis, leptomeningeal metastasis; 13: Past medical history or physical examination reveals central nervous system diseases, except for those that have been adequately treated (such as primary brain tumors, uncontrolled seizures, or stroke); 14: Active viral, bacterial, or fungal infections requiring systemic treatment (such as pneumonia); 15: Has a history of active tuberculosis; 16: A history of immunodeficiency, including HIV test positive, or other acquired, congenital immunodeficiency diseases, or a history of organ transplantation, or allogeneic bone marrow transplantation, or autologous hematopoietic stem cell transplantation; 17: Had active autoimmune diseases requiring systemic treatment within the past 2 years; 18: Vaccination within 30 days before treatment, including intranasal influenza vaccine, except for seasonal influenza vaccine; 19: Within 3 months prior to treatment, there were cardiovascular diseases, including: unstable angina; clinically significant or drug-treated malignant arrhythmias; myocardial infarction; Class III-IV heart failure; transient ischemic attack; thromboembolic events (such as deep vein thrombosis, pulmonary embolism, etc.), and any other cardiac conditions deemed by the investigator as unsuitable for participation in this trial.\n\n  20: Pre-cancerous blood disorders, such as myelodysplastic syndromes; 21: Clinical history of or pre-existing interstitial lung disease, such as non-infectious pneumonia or pulmonary fibrosis, or evidence of interstitial lung disease found on baseline chest CT scan; 22: Positive baseline pregnancy test in female patients who are pregnant, breastfeeding, or have childbearing potential; 23: Patients who have had other primary malignant tumors within the past 5 years, except for locally curable tumors (such as basal or squamous cell carcinoma of the skin, superficial bladder cancer, cervical or breast carcinoma in situ) can be enrolled after a definitive cure.\n\n  24: May be allergic to any of the drug ingredients; 25: According to the investigator's judgment, there are other serious conditions that endanger patient safety or affect the patient's ability to complete the study, or other reasons that make the patient unsuitable for participation in this clinical trial;",
+  "enrollment": 43,
+  "has_results": false,
+  "interventions": [
+   "Metronomic capecitabine",
+   "Camrelizumab",
+   "Apatinib Mesylate Tablets"
+  ],
+  "last_update_posted": "2025-01-06",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06759090",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-01-15",
+  "sex": "ALL",
+  "sponsor": "Zhejiang University",
+  "start_date": "2025-01-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

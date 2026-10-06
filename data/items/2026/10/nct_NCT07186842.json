@@ -1,0 +1,103 @@
+{
+ "abstract": "The main goal of this study is to evaluate the safety of BNT329 and to identify the best dose of BNT329. This will be done by measuring the number of side effects that participants experience and how severe they are.\n\nThe second goal of this study is to evaluate how well BNT329 works. This will be done by measuring the number of participants who respond to the treatment. The length of time where the tumor does not grow or spread will also be measured.\n\nThe study will also evaluate how BNT329 moves into, through, and out of the body and how the treatment affects the body.\n\nThe study will consist of up to four parts (Parts A, B, C, and D).\n\nParts A and B will be a dose escalation to investigate the safety and tolerability of BNT329. Parts A and B will enroll participants with the following advanced solid tumors known to express carbohydrate antigen 19-9 (CA19-9): pancreatic ductal adenocarcinoma (PDAC) (the most common type of pancreatic cancer), bile duct cancer, a certain type of bladder cancer that started in the lining of the bladder or urinary tract (invasive urothelial carcinoma of the bladder and urinary tract), colorectal cancer, gastroesophageal junction cancer, gastric adenocarcinoma, endometrial cancer, or ovarian cancer. The cancer must not have responded well to previous treatments.\n\nThe study will start with recruitment into Part A. Part B (testing a more frequent dosing schedule) will only be opened if indicated by cumulative data from Part A of the study.\n\nPart C (testing pre-dosing with a CA19-9 targeting monoclonal antibody prior to BNT329 administration) will only be opened in case of unforeseen safety and/or weak efficacy signals are detected in Part A and (if opened) Part B. Details on Part C will be added in a future update, if it is necessary, to open this part.\n\nPart D will be a dose optimization and proof-of-concept study to further investigate the safety and tolerability of BNT329 and to investigate preliminary anti-tumor activity. Part D will enroll participants with second-line plus PDAC.\n\nParts A, B, and C will be non-randomized. In Part D, participants will be randomized (1:1) into one of two arms which will evaluate two dose levels (as selected from Parts A and B).\n\nThe study consists of a screening period, a treatment period, an end of treatment visit, two safety follow-up visits, and a survival follow-up period. The treatment period will last for a maximum of 2 years. Participants will remain in the survival follow-up until death, withdrawal of participant's consent, or termination of the study, whichever occurs first.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07186842",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07186842"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-09-22",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BioNTech SE",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07186842"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Anti-drug conjugate (ADC)",
+  "Bile duct cancer",
+  "CA19-9",
+  "Colorectal cancer",
+  "Endometrial cancer",
+  "Gastric adenocarcinoma",
+  "Gastroesophageal junction cancer",
+  "Invasive urothelial carcinoma of the bladder and urinary tract",
+  "Ovarian cancer",
+  "Pancreatic ductal adenocarcinoma"
+ ],
+ "title": "A Clinical Trial to Test if the Investigational Drug BNT329 is Safe and Potentially Beneficial for People With Advanced Solid Tumors Known to Express the Tumor Marker CA19-9",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Cancers"
+  ],
+  "contacts": [
+   {
+    "email": "patients@biontech.de",
+    "name": "BioNTech clinical trials patient information",
+    "phone": "+49 6131 9084"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria\n\nAll participants and parts:\n\n* Have an Eastern Cooperative Oncology Group performance score of 0 to 1\n* Have measurable disease per RECIST v1.1, except for ovarian cancer where participants will be evaluated according to Gynecologic Cancer InterGroup criteria.\n* Have a life expectancy of ≥3 months in the opinion of the investigator.\n* Have adequate organ, coagulation, and hematologic function as defined in the protocol.\n\nParts A, B, and C:\n\n* Have a histologically confirmed advanced/metastatic tumor type that is known to express CA19-9: PDAC, carcinoma of the bile ducts, invasive urothelial carcinoma of the bladder and urinary tract, colorectal adenocarcinoma, adenocarcinoma of the esophagogastric junction, gastric adenocarcinoma, endometrial carcinoma, and epithelial ovarian cancer (including adenocarcinoma of the fallopian tube and peritoneal epithelial cancer \\[except mesothelioma\\]).\n* Have no available standard of care therapy likely to confer clinical benefit in the opinion of the investigator. Participants must have received all available standard therapies, including targeted therapies based on mutation status (per guidelines from the Food and Drug Administration, American Society of Clinical Oncology, European Society for Medical Oncology, or local guidelines used at the site), and failed at least first-line standard of care therapy prior to enrollment.\n\nPart D:\n\n* Have a histologically confirmed diagnosis of PDAC.\n* Must have been offered all available standard therapies including targeted therapies based on mutation status. Established second-line therapies available must not be withheld.\n* Have radiographic disease progression and no available standard of care therapy likely to confer clinical benefit in the opinion of the investigator.\n\nKey Exclusion Criteria\n\nAll participants and parts:\n\n* Are enrolled in another investigational study or are subject to exclusion periods from another investigational study.\n* Have had an inadequate washout period for prior anticancer treatment prior to the first dose of investigational medicinal product (IMP) as defined in the protocol.\n* Have received systemic steroids (\\>10 mg/day of prednisone or its equivalent) or other immunosuppressive therapy within 2 weeks prior to the first dose of IMP. The following are exceptions to this criterion:\n\n  * Inhaled sprays, topical steroids, or local steroid injections (e.g., intra-articular injection).\n  * Systemic steroids at physiological doses as replacement therapy (e.g., physiological corticosteroid replacement therapy for adrenal or pituitary insufficiency).\n  * Steroids as pre-medication for hypersensitivity reactions (e.g., computed tomography (CT) scan pre-medication).\n* Have received any live vaccine within 4 weeks prior to the first dose of IMP or intend to receive a live vaccine during the study.\n* Have brain metastases or spinal cord compression unless asymptomatic or treated and stable off steroids and anticonvulsants for at least 2 weeks prior to the first dose of IMP.\n* Have a history of (noninfectious) interstitial lung disease (ILD)/pneumonitis that required steroids, current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening.\n* Have active gastric and duodenal ulcers, ulcerative colitis, or other gastrointestinal conditions that may cause bleeding or perforation in the opinion of the treating investigator.\n* Have an active infection that requires systemic therapy within 1 week prior to the first dose of IMP. Participants receiving prophylactic anti-infective therapy (e.g., to prevent a urinary tract infection or chronic obstructive pulmonary disease exacerbation) may be eligible after discussion with the sponsor.\n* Have unresolved toxicities from previous anticancer therapy as defined in the protocol.\n\nNOTE: Other protocol defined inclusion/exclusion criteria apply.",
+  "enrollment": 245,
+  "has_results": false,
+  "interventions": [
+   "BNT329",
+   "CA19-9-targeting monoclonal antibody"
+  ],
+  "last_update_posted": "2026-08-27",
+  "location_countries": [
+   "Australia",
+   "Germany",
+   "Spain",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 17,
+  "nct_id": "NCT07186842",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2030-05",
+  "sex": "ALL",
+  "sponsor": "BioNTech SE",
+  "start_date": "2025-11-18",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

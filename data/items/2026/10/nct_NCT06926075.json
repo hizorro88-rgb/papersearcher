@@ -1,0 +1,99 @@
+{
+ "abstract": "This clinical trial is an adaptive study of a novel vimentin inhibitor in cancers.\n\nIt is an open label, multicentre, single ascending dose level in phase I and cohort exploration in phase II.\n\nPrimary objective is to evaluate safety and tolerability of KESONOTIDE™ as a monotherapy in participants with advanced/metastatic solid cancers.\n\nSecondary objective is to characterise the pharmacokinetics of KESONOTIDE™. Phase I study will enrol 20-32 participants and Phase II approximately 80 participants.\n\nThis clinical trial is an adaptive phase I/II study of KESONOTIDE™, a novel hGIIA-vimentin inhibitor in participants with solid tumours.\n\nThis is a multicentre, open-label Phase I/II clinical trial. Phase I part of the study is a classic 3+3 dose escalation to identify the Maximum Tolerated Dose, Recommended Phase 2 Dose and Optimal Biological Dose.\n\nIn the Phase II study, participants will be given one of the two recommended dose levels. This may be as monotherapy or in combination with standard of care.\n\nThe study treatment will be a 21-day treatment Cycle (once every 3 weeks) and KESONOTIDE™ will be orally administered. Study treatment will continue until disease progression, loss of clinical benefit, unacceptable toxicity, withdrawal of consent, lost to follow-up or another discontinuation criterion.\n\nThis trial will utilise an adaptive design which permits treatment arm modification or early stopping for efficacy or futility.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06926075",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06926075"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-04-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Filamon LTD",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06926075"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "kesonotide, vimentin inhibotor"
+ ],
+ "title": "Early Phase Study of KESONOTIDE™in Participants With Solid Tumours",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Prostate Cancers",
+   "Breast Cancer",
+   "Lung Cancers",
+   "Ovarian Cancer",
+   "Glioblastoma Multiforme (GBM)",
+   "Pancreas Cancer",
+   "Skin Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "admir.huseincehajic@filamon.com",
+    "name": "Admir Huseincehajic",
+    "phone": "+61467451064"
+   },
+   {
+    "email": "graham.kelly@filamon.com",
+    "name": "Graham Kelly",
+    "phone": "+61 429 854 390"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Male or female adults (defined as ≥ 18 years of age or acceptable age according to local regulations at the time of voluntarily signing of informed consent).\n* Has an ECOG performance status score of 0 or 1.\n* Has a life expectancy of \\> 12 weeks in the opinion of the investigator.\n* Measurable or evaluable disease by CT/MRI according to RECIST v1.1, except for prostate and breast cancer (bone only metastases are acceptable) and glioma.\n* Histologically or cytologically confirmed locally advanced/metastatic solid cancers.\n* Has adequate organ function within 7 days prior to Day 1 of Cycle 1, defined as below:\n* Laboratory Value\n* Hematology\n* Platelet count \\> 100 x 109/L\n* Hb \\> 9.0 g/dL\n* ANC \\> 1.5 x 109/L\n* Renal Function\n* Creatinine \\< 1.5 x ULN\n* Hepatic Function\n* AST and ALT \\< 3 x ULN for the reference laboratory or \\< 5 x ULN in the presence of liver metastases\n* Total bilirubin ≤ 1.5 x ULN\n* Serum albumin ≥ 2.5 g/dL\n* INR/PT and APTT ≤ 1.5 x ULN\n* Male and female participants of reproductive/childbearing potential must agree to use adequate contraceptive methods (e.g., double barrier or intrauterine contraceptive) for at least 90 days during the study and after the last dose of study drug.\n* Male participants must not freeze or donate sperm starting at screening and throughout the study period, and at least 90 days after the final study drug administration.\n* Female participants must not donate, or retrieve for their own use, ova from the time of screening and throughout the study treatment period, and at least 90 days after the final study drug administration.\n* Has failed standard of care or refused next line therapy at the present time and if approved treatment options are still available, can delay approved treatments without harm as judged by the investigator (e.g., patients requesting a break between lines of therapy).\n\nAdditional Inclusion Criteria for Parts 2 and 3:\n\n* Measurable disease (as defined for Part 1) or recognised and abnormal biomarker levels (e.g., PSA for prostate cancer, CA15.3 for breast cancer).\n* Defined diseases or disease states of interest, suitable for dose expansion.\n* Patients who have enrolled in Part 1 of the study (dose-escalation), and in the opinion of the investigator, are benefitting from treatment, may be eligible for Parts 2 and 3.\n\nExclusion Criteria:\n\n* Participants who are unable to cease any anti-inflammatory medications or statins prior to and during the study, including non-steroidal anti-inflammatories, oral steroids at any dose; topical steroids and anti-inflammatories are allowable.\n* Participants who have participated in other clinical trials and received investigational products within 4 weeks, or within five half-lives of the treatment, whichever is longer, before Cycle 1 Day 1 of the study period.\n* Previous adverse reactions which have not returned to Grade 0 or 1 according to NCI-CTCAE v5.0 (except alopecia and fatigue) at the screening visit.\n* A clinically significant active infection determined by the investigator.\n* Significant or recurrent third space accumulation (e.g., ascites or pleural effusions) according to the investigator.\n* Has a medical history of myocardial infraction or unstable angina within 6 months before enrolment.\n* Has a medical history of symptomatic CHF (New York Heart Association (NYHA) classes II-IV) or serious cardiac arrhythmia requiring treatment.\n* Has a history or presence of uncontrolled mental illness.\n* The participant is expected to be non-compliant with critical trial procedures and is not willing or able to adhere to the trial requirements during the study.\n* Participants are deemed inappropriate for this clinical trial at the discretion of the investigator.\n\nAdditional Exclusion Criteria for Parts 2 and 3:\n\n\\- Patients must not have more than 2 prior lines of therapy.",
+  "enrollment": 80,
+  "has_results": false,
+  "interventions": [
+   "A novel hGIIA-Vimentin Inhibitor",
+   "Dose expansion"
+  ],
+  "last_update_posted": "2026-03-17",
+  "location_countries": [
+   "Australia"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT06926075",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-10-26",
+  "sex": "ALL",
+  "sponsor": "Filamon LTD",
+  "start_date": "2025-11-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,90 @@
+{
+ "abstract": "This study adopts a randomized, open label, placebo-controlled, multicenter trial design. OS was the primary endpoint, and eligible subjects were randomly divided into 1:1 groups and received TQB2868 injection and anlotinib hydrochloride capsules combined with chemotherapy, compared to placebo combined with chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07165951",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07165951"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-09-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai Chia Tai Tianqing Pharmaceutical Technology Development Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07165951"
+ },
+ "summary_ko": "This study adopts a randomized, open label, placebo-controlled, multicenter trial design. OS was the primary endpoint, and eligible subjects were randomly divided into 1:1 groups and received TQB2868 injection and anlotinib hydrochloride capsules combined with chemotherapy, compared to placebo combined with chemotherapy.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Clinical Trial Comparing TQB2868 Injection Combined With Anlotinib Hydrochloride Capsules With Placebo Combined With Chemotherapy as First-line Treatment for Metastatic Pancreatic Ductal Adenocarcinoma (mPDAC)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "yxj@163.com",
+    "name": "Xianjun Yu, Doctor",
+    "phone": "13801669875"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. The subjects voluntarily joined this study, signed the Informed Consent Form (ICF), and showed good compliance;\n2. On the date of signing the ICF, aged between 18 and 75 years old (inclusive);\n3. Pancreatic ductal adenocarcinoma (PDAC) diagnosed by tissue or cytology;\n4. According to the American Joint Commission on Cancer (AJCC) 8th Edition Tumor, Node, Metastasis (TNM) staging system for pancreatic cancer, patients with stage IV metastatic pancreatic cancer;\n5. Have not received any systemic anti-tumor treatment or investigational drug therapy; If receiving neoadjuvant/adjuvant therapy, the time interval between the last administration and recurrence/progression must be ≥ 6 months, and the toxicity related to anti-tumor therapy has recovered to ≤ level 1 or the toxicity level specified in the inclusion criteria (excluding hair loss); According to RECIST v1.1, there is at least one measurable lesion. If the lesion has undergone local treatment (radiotherapy, ablation, interventional therapy, etc.) in the past, it must be clearly proven to have progressed in accordance with RECIST v1.1 before it can be considered a measurable lesion;\n\n7\\. Eastern Cooperative Oncology Group (ECOG) score from 0 to 1; Expected survival is greater than 12 weeks; 9. The laboratory inspection meets the protocol standards; 10. Women of childbearing age should agree to use effective contraceptive measures during the study period and within 6 months after the end of the study, and have a negative serum test within 7 days before enrollment in the study; Men should agree to use effective contraceptive measures during the study period and within 6 months after the end of the study period;\n\nExclusion Criteria:\n\n1. Have had or currently have other malignant tumors within the past 5 years prior to the first use of medication;\n2. There are various factors that affect intravenous injection, venous blood collection diseases, or oral medication (such as inability to swallow, chronic diarrhea, and intestinal obstruction);\n3. Adverse reactions from previous treatments have not recovered to NCI CTCAE v5.0 score ≤ 1, except for toxicity that has been determined by researchers to have no safety risks, such as grade 2 hair loss, grade 2 peripheral neurotoxicity, non clinically significant, and asymptomatic laboratory abnormalities;\n4. Those who have received major surgical treatment, significant traumatic injury, or are expected to undergo major surgery during the expected study treatment period within 4 weeks before the first medication, or have long-term untreated wounds or fractures;\n5. Subjects who experience any bleeding or bleeding events ≥ NCI CTCAE v5.0 grade 3 within 4 weeks prior to the first administration;\n6. Individuals who have experienced arterial/venous thrombotic events within 6 months prior to the first administration, such as cerebrovascular accidents (including transient ischemic attacks), deep vein thrombosis, pulmonary embolism, or any other history of severe thromboembolism (implantable venous infusion port or catheter-related thrombosis, or superficial vein thrombosis is not considered \"severe\" thromboembolism);\n7. hepatitis B virus (HBV) infected individuals cannot receive regular antiviral treatment throughout the entire process; HCV infected individuals (HCV Ab or HCV RNA positive): Researchers determine that they are in an unstable state or need to continue antiviral treatment. Regular antiviral treatment cannot be accepted during the study;\n8. Active syphilis infected individuals who require treatment;\n9. History of active pulmonary tuberculosis, idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonia, radiation pneumonitis requiring treatment, or clinically symptomatic active pneumonia;\n10. Individuals with a history of abuse of psychotropic drugs who are unable to quit or have mental disorders;\n11. Individuals who are preparing for or have previously undergone allogeneic bone marrow transplantation or solid organ transplantation;\n12. Subjects with any severe and/or uncontrolled illnesses;\n13. Subjects who require immunosuppressive therapy, systemic or absorbable local hormone therapy to achieve immunosuppression and continue to use it within 7 days prior to the first dose (excluding corticosteroids with a daily dose of\\<10 mg prednisone or other therapeutic hormones);\n14. Tumor related symptoms are difficult to control;\n15. Known to be allergic to the components of research drug excipients;\n16. Those who have participated in and used other anti-tumor clinical trial drugs within 4 weeks before the first medication;\n17. Pregnant or breastfeeding subjects; According to the judgment of the researchers, there are serious situations that pose a threat to the safety of the subjects or affect their ability to complete the study.",
+  "enrollment": 566,
+  "has_results": false,
+  "interventions": [
+   "TQB2868 Injection",
+   "Anlotinib Hydrochloride Capsules",
+   "Gemcitabine Hydrochloride Injection",
+   "Paclitaxel for Injection",
+   "TQB2868 Placebo"
+  ],
+  "last_update_posted": "2026-05-29",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 71,
+  "nct_id": "NCT07165951",
+  "phase": "PHASE3",
+  "primary_completion_date": "2028-05",
+  "sex": "ALL",
+  "sponsor": "Shanghai Chia Tai Tianqing Pharmaceutical Technology Development Co., Ltd.",
+  "start_date": "2025-12-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

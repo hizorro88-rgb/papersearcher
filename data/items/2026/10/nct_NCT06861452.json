@@ -1,0 +1,92 @@
+{
+ "abstract": "RR001, a cell-based gene therapy administered following chemotherapy cycles for the treatment of patients with locally advanced pancreatic cancer. Phase I /IIa clinical trial (open label and non-randomized) to test the effects (safety \\& efficacy) of increasing doses of RR001\n\nThis study is intended for people diagnosed with locally advanced pancreatic ductal adenocarcinoma.\n\nCurrently, surgical resection is the only treatment that offers a chance to cure this type of tumor, but only a few percentage of locally advanced pancreatic adenocarcinoma patients is able to benefit from this approach. Thus, research is aimed at identifying new treatment strategies based on innovative approaches that can increase the number of people who can access surgery as radically as possible.\n\nThe SNIPER study aims to evaluate for the first time in humans the applicability and safety of a new drug (called RR001) based on autologous cells, that are, cells taken from the same subject who receives them. These cells are derived from adipose tissue and are genetically modified to deliver a potent anti-cancer death ligand normally produced by the body with the role to kill tumoral cells.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06861452",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06861452"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-03-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "EIR Biotherapies s.r.l.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06861452"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Phase I/IIa Study: RR001 Administered Following Chemotherapy Cycles for Patients With Locally Advanced Pancreatic Carcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "fontana.annalisa@aou.mo.it",
+    "name": "Annalisa Fontana",
+    "phone": "IT + 39 0594223808/0594225165"
+   },
+   {
+    "email": "spallanzani.andrea@aou.mo.it",
+    "name": "Andrea Spallanzani",
+    "phone": "IT +39 0594223310/0594225646"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients with confirmed pancreatic ductal adenocarcinoma classified as locally advanced pancreatic adenocarcinoma (LPAC)\n* Patients with no evidence of peritoneal or hematogenous metastasis\n* Patients classified as non-resectable locally advanced pancreatic carcinoma (LAPC) based on imaging (TC and NMR), on multidisciplinary staff evaluation by at least an oncologist, radiologist and a qualified digestive surgeon and accounting for AJCC/UICC TNM and clinical staging\n* Measurable tumor according RECIST criteria v 1.1\n* Low tumor burden with at least one lesion equal/less than 3,5 cm that is suitable for US guided injection (and needle biopsy).\n* Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2\n* Patients must be eligible for chemotherapy treatment (based on standard of care)\n* Patient older than 18 years of age\n* Adequate hepatic and kidney function/Safe hematologic profile\n* Negative serum pregnancy test for females of childbearing potential within days of starting treatment\n* Willingness and ability to comply with the scheduled visits, treatment plan, imaging procedures, laboratory tests and other study procedures, including lipoaspirate collection (liposuction)\n\nExclusion Criteria:\n\n* Patient with pancreatic cystic tumor or pancreatic pseudocyst\n* Patient with pancreatic tumor different from adenocarcinoma (endocrine, metastases)\n* Patients with unknown stage or recurrent pancreatic cancer\n* Patients with immunosuppression or susceptibility to viral infection\n* Patients with HIV, hepatitis B, hepatitis C, HTLV-I/II, Treponema Pallidum infections\n* Patients with liver cirrhosis or other documented liver diseases\n* Patient contraindication to use chemotherapy treatments\n* Previous of radiotherapy and chemotherapy for PDAC\n* Previous hematopoietic stem cell or organ transplantation\n* Irreversible cardiac arrhythmias requiring permanent medication\n* Heart insufficiency (\\> grade II, New York Heart Association NYHA criteria)\n* History within the last year of acute or subacute coronary syndromes including myocardial infarction, unstable or severe stable angina pectoris\n* Uncontrolled hypertension\n* Other malignancies within the past 2 years (not including basal cell carcinoma of the skin, prostate cancer or in situ cervix carcinoma, in situ melanoma).\n* Active autoimmune disease\n* Use of any investigational agents within 21 days from the administration of study treatment\n* Patient has had major open surgery prior to the administration of study treatment\n* Uncontrolled intercurrent illness including but not limited to psychiatric illness/social situations that in the opinion of the Investigator would compromise compliance of study requirements or put the patient at unacceptable risk\n* Suspected or known allergy or hypersensitivity to fluoroquinolones including but not limited to ciprofloxacin\n* Suspected or known allergy or hypersensitivity to protamine sulfate or protamine containing products. Including but not limited to patients who have previously undergone procedures such as coronary angioplasty or cardio-pulmonary bypass, which may involve the use of protamine, diabetics who have been treated with protamine insulin, patients allergic to fish, and men who have undergone a vasectomy or are infertile and may have antibodies to protamine",
+  "enrollment": 9,
+  "has_results": false,
+  "interventions": [
+   "RR001"
+  ],
+  "last_update_posted": "2026-09-08",
+  "location_countries": [
+   "Italy"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06861452",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-07-29",
+  "sex": "ALL",
+  "sponsor": "EIR Biotherapies s.r.l.",
+  "start_date": "2025-06-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

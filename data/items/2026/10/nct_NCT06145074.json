@@ -1,0 +1,98 @@
+{
+ "abstract": "The IMPULS trial is a randomized, triple-blinded, placebo controlled, single center, pilot trial examining the efficacy and safety of preoperative propranolol in patients scheduled for pancreatic cancer surgery. The study is conducted as a type 1 hybrid efficacy-implementation trial of 30 patients.\n\nThis study is designed to provide pilot data for a future larger perioperative study of propranolol with the aim of improving outcomes for pancreatic cancer surgery.\n\nIn total, 30 participants will be allocated in a 1:1 ratio with 15 participants enrolled in each trial arm (propranolol vs. placebo). Participants will be allocated to either 40 mg propranolol twice daily or placebo twice daily in 10 days prior to planned surgery.\n\nPrimary outcomes: Evaluating the efficacy of preoperative propranolol on anxiety and in pro-tumorigenic changes (e.g., in the tumor tissue and in blood samples) in patients undergoing surgery for pancreatic cancer. Furthermore, to obtain follow up data (e.g., 90-day mortality, postoperative complications etc. on the patients receiving propranolol versus placebo). Heart rate variability among the participants will also be examined.\n\nSecondary: Examining the safety and tolerability of 40 mg preoperative propranolol twice daily in patients undergoing surgery for pancreatic cancer.\n\nTertiary: Evaluating the feasibility and implementation of the trial (using the APEASE framework). This will help identify barriers and enablers to a future larger study.\n\nShort-time propranolol treatment is considered safe with a mild and manageable safety-profile. Risk-management, mitigations and guidelines to ensure patient safety is included in the protocol. Since this clinical trial is exploratory in nature, no sample-size calculation is performed.\n\nThe study will be conducted as a pilot study to test efficacy, safety and feasibility of propranolol on preoperative anxiety in patients undergoing abdominal surgery for suspected pancreatic ductal adenocarcinoma (PDAC). Furthermore, the implementation of the trial including compliance of the participants in a hybrid type 1 setup will be examined.\n\nA total of 30 participants will be included and randomized to receive either propranolol or placebo twice daily with 15 patients in each arm. Following this study, a power calculation will be done to reveal the actual number of needed participants in each arm for a potential follow-up randomized clinical trial on primary outcomes of interest. Thus, the results from this study can be used for future power calculations for clinical trials related to this topic.\n\nPrimary objectives: Efficacy\n\nEvaluating the efficacy of preoperative propranolol on patient-experienced anxiety and on tumorigenic gene expression compared to placebo is the primary objective of this trial.\n\nPrimary objectives are further divided in to primary clinical objectives, primary translational objectives and exploratory endpoints.\n\nPrimary clinical objectives:\n\nThe primary clinical objectives are to evaluate preoperative patient-experienced anxiety in patients receiving the nonselective beta-2-adrenergic receptor inhibitor, propranolol, compared to placebo.\n\nFurther, heart rate variability (HRV) will be measured in order to evaluate changes in the autonomous nervous system in relation to surgery. HRV is calculated from the interval variation between consecutive R waves in an ECG time series and results suggest that it is associated with the intra- and postoperative complications. As HRV reflects sinoatrial node regulation, it is expected to be affected by the beta-adrenergic blockade caused by preoperative propranolol. Analyzing this relation will provide essential knowledge in understanding how HRV behaves perioperatively.\n\nLastly, follow up on the participants receiving propranolol compared to placebo will be done.\n\nPrimary clinical effect parameters:\n\nThe following primary effect parameters will be used to investigate the primary clinical objectives:\n\n* Anxiety levels will primarily be measured by The Hamilton Anxiety Rating Scale (HAM-A) and secondarily by The Hospital Anxiety and Depression Scale (HADS). The European Organization for Research and Treatment of Cancer (EORTC) quality of life questionnaire (QoL) for pancreatic cancer will be used to assess quality of life.\n* HRV is calculated from continuous ECG gathered by a Holter monitor. The monitor is a small wearable apparatus with one lead, placed on the patient's sternum. It is applied on preoperative day 9 and will run continually until approximately postoperative day 7. The actual calculations are achieved post hoc using software specialized for HRV analysis.\n* Follow up at 30- and 90-days after surgery including parameters such as survival and postoperative complications.\n* Long-term follow up at as 1-year, 3- year and 5-year following surgery including survival and recurrence data.\n\nPrimary translational objectives:\n\nThe primary translational objectives are to examine the systemic (biochemical) and local changes (TME of resections) to propranolol treatment compared to placebo. Alterations in pro-metastatic and proinflammatory genes will specifically be analyzed.\n\nPrimary translational effect parameters:\n\n* Blood sampling for the analysis of pro-metastatic and proinflammatory biomarkers.\n* Expression of pro-metastatic and proinflammatory genes in formalin-fixed paraffin-embedded (FFPE) cancer tissue obtained after surgical resection.\n\nExploratory endpoints:\n\nThe potential influence of inter-participant genetic variations (pharmacogenetics) on measured levels of serum propranolol and response to surgical stress will be investigated as exploratory endpoints. The differences in drug metabolism (pharmacokinetics) among participants will also be of interest.\n\nSecondary objectives: Safety\n\nSecondarily, tolerance and safety of the intervention in this pilot study (e.g., adverse effects, number of patients that need dose reduction etc.) will be evaluated. Changes in heart rate (HR) and blood pressure (BP) during the intervention period will be examined to test safety and tolerability of preoperative propranolol.\n\nSecondary effect parameters:\n\n* Measuring the changes in resting HR and BP during the intervention period with handed out blood pressure monitors.\n* Safety endpoints: light-headedness, lethargy, hypotension, bradycardia and other symptoms and side-effects that may be related to propranolol treatment.\n\nTertiary objectives: Feasibility\n\nAdditionally, the feasibility of this intervention using the APEASE framework, which assesses factors like affordability, practicability, effectiveness, acceptability, side-effects, and equity, thereby determining the willingness to adopt this strategy will be examined. This will help identify barriers and enablers to a future larger study. The details regarding the APEASE framework are described under assessments.\n\nThis trial will be conducted in accordance with the principles of Good Clinical Practice and reported according to the CONSORT and the complimentary StaRI standards for implementation studies.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06145074",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06145074"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-11-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zealand University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06145074"
+ },
+ "summary_ko": "The IMPULS trial is a randomized, triple-blinded, placebo controlled, single center, pilot trial examining the efficacy and safety of preoperative propranolol in patients scheduled for pancreatic cancer surgery. The study is conducted as a type 1 hybrid efficacy-implementation trial of 30 patients.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Propranolol",
+  "Beta-Blockers",
+  "PDAC",
+  "Pancreatic Cancer"
+ ],
+ "title": "Examining Safety, Efficacy and Feasibility of Preoperative Propranolol in Patients With PDAC.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Surgery"
+  ],
+  "contacts": [
+   {
+    "email": "igo@regionsjaelland.dk",
+    "name": "Ismail Gögenur, Professor",
+    "phone": "+4547323181"
+   },
+   {
+    "email": "aor@regionsjaelland.dk",
+    "name": "Adile Orhan, MD",
+    "phone": "+4560807762"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients with suspected surgically resectable pancreatic cancer\n* Indication for surgical treatment with curative intend.\n* Provide written informed consent.\n* Patients minimum 18 years old.\n\nWomen of childbearing potential (WOCBP) are defined as women ranging from the period of menarche till the post-menopausal period, unless permanently sterile (e.g., hysterectomy, bilateral salpingectomy and bilateral oophorectomy). Post-menopause is defined as no menses for 12 months without an alternative medical cause.\n\nWOCBP should use a secure and highly effective birth control (as stated in the \"Recommendations related to contraception and pregnancy testing in clinical trials\", version 1.1., section 4.1, from the Clinical Trials Facilitation and Coordination Group) during the entire period of the trial. In cases of uncertainty regarding pregnancy, additional pregnancy testing either as highly sensitive serum or urine pregnancy test can be used.\n\nExclusion Criteria:\n\n* Patients with:\n* Chronic hypotension, systolic blood pressure \\< 100 mg Hg for women and \\< 110 mg Hg for men.\n* Bradycardia, pulse \\< 50 beats per minute.\n* Asthma or chronic obstructive lung disease\n* Heart insufficiency with affected (\\< 50 %) left ventricle ejection fraction (LVEF), treated or untreated.\n* Kidney insufficiency, defined as eGFR \\< 20 ml/min.\n* Liver insufficiency defined as chronically high liver enzymes or known chronic liver disease (e.g., hepatitis, steatosis, cirrhosis).\n* Cor pulmonale\n* Cardiogenic shock\n* Severe peripheral circulatory disorders\n* Known or newly diagnosed current metabolic acidosis (e.g., in recent analysis of arterial puncture).\n* Known hypersensitivity to propranolol or to one or more of the excipients.\n* Currently untreated pheochromocytoma.\n* History of Prinzmetals angina.\n* History of sick sinus syndrome or atrioventricular block.\n* History of stroke or any previous cardiovascular event.\n* History of neoadjuvant oncological treatment for suspected primary pancreatic cancer.\n* Recent or present (within 3 months) use of propranolol or any other beta-blocker.\n* Recent or present (within 3 months) use of any of the following medications: anxiolytics, calcium channel blockers, beta-adrenergic receptor agonist.\n* Medical history that classifies the patient as frail or unsuitable for inclusion by the examining physician.\n* Histopathological examination revealing benign lesion.\n* Predictable poor compliance, due to pre-existing psychiatric disease, dementia or not able to read or speak sufficient Danish, resulting in not being able to provide a well-informed written consent.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Propranolol",
+   "Placebo"
+  ],
+  "last_update_posted": "2024-03-28",
+  "location_countries": [
+   "Denmark"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06145074",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-12-31",
+  "sex": "ALL",
+  "sponsor": "Zealand University Hospital",
+  "start_date": "2024-03-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

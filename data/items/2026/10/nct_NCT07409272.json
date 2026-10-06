@@ -1,0 +1,162 @@
+{
+ "abstract": "Pancreatic cancer is difficult to diagnose early. By the time people have been diagnosed, the cancer has usually spread to other parts of the body (metastatic). The standard treatment is chemotherapy, but other treatments are needed to improve outcomes in people with pancreatic cancer. The first treatment that people usually receive is chemotherapy. At the time this study started, some of the main standard chemotherapies for pancreatic cancer were mFOLFIRINOX or NALIRIFOX.\n\nGenes give your body instructions on how to make proteins. Proteins are needed to keep the body working properly. Many types of cancer are caused by changes in certain genes, making them faulty. Many people with pancreatic cancer have a faulty KRAS gene. One such change in the KRAS gene is called a G12D mutation. Researchers are looking for ways to stop the actions of abnormal proteins made from the KRAS G12D mutation.\n\nThis study is about setidegrasib given with chemotherapy in people with pancreatic cancer who have the KRAS G12D mutation. Before setidegrasib can become an approved treatment, clinical studies need to be completed to understand how it works and how safe it is.\n\nThe main aim is to learn if people who are given setidegrasib with chemotherapy live for longer than people who are given placebo with chemotherapy. Other aims are to learn if setidegrasib delays the cancer and symptoms returning, how the body processes setidegrasib, and its safety, when given with chemotherapy.\n\nPeople in this study will be adults with metastatic pancreatic cancer with the G12D mutation in their KRAS gene. Surgery or radiotherapy will not be an option to cure their cancer.\n\nPeople cannot take part if the cancer cells have spread to the thin tissue covering the brain and spinal cord (leptomeningeal disease), have symptoms of cancer in the brain or nervous system, or have recently had some other cancers that required treatment.\n\nIn this study, people are given either setidegrasib with mFOLFIRINOX or NALIRIFOX chemotherapy, or a placebo with mFOLFIRINOX or NALIRIFOX chemotherapy. Whether people receive setidegrasib or placebo is decided by chance. The study doctor decides which chemotherapy (mFOLFIRINOX or NALIRIFOX) people receive. People will only receive NALIRIFOX chemotherapy (with setidegrasib or placebo) after the safety of setidegrasib with NALIRIFOX chemotherapy has been confirmed in another ongoing setidegrasib study. All of the study treatments are given slowly through a tube into a vein (infusion). People will continue to receive study treatment until their cancer gets worse, they can't tolerate the study treatment, they start other cancer treatment, they or the doctor decides the person should stop receiving study treatment, or sadly they pass away. There will be safety checks at each visit, and the doctors will continue to check for medical problems and people's wellbeing throughout the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07409272",
+ "importance": 0.99,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07409272"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-02-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Astellas Pharma Global Development, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07409272"
+ },
+ "summary_ko": "Pancreatic cancer is difficult to diagnose early. By the time people have been diagnosed, the cancer has usually spread to other parts of the body (metastatic).",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic Cancer",
+  "Metastatic Pancreatic Cancer",
+  "Metastatic Pancreatic Adenocarcinoma",
+  "ASP3082",
+  "setidegrasib",
+  "KRAS G12D",
+  "PDAC",
+  "mFOLFIRINOX",
+  "NALIRIFOX"
+ ],
+ "title": "A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Metastatic Pancreatic Cancer",
+   "Metastatic Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "Astellas.registration@astellas.com",
+    "name": "Astellas Pharma Global Development, Inc.",
+    "phone": "800-888-7704"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participant has histologically confirmed metastatic pancreatic ductal adenocarcinoma (PDAC) with documented Kirsten rat sarcoma viral oncogene homolog (KRAS) G12D mutation based on local or central testing (confirmation of a participant's positive KRAS G12D mutation result must be available prior to randomization).\n* Participant has no option for surgical resection or radiotherapy with curative intent.\n* Participant consents to and provides a baseline tumor tissue specimen for the study during screening. The sample must meet the requirements described in the laboratory manual and the tumor sample guidance.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 within 7 days prior to randomization.\n* Participant has adequate organ function as indicated by the following laboratory values within 7 days prior to randomization (if a participant has received a recent blood transfusion, the latest laboratory tests must be obtained ≥ 14 days after any blood transfusion). The laboratory values prior to the initiation of the first dose of setidegrasib/placebo (or mFOLFIRINOX/NALIRIFOX, if chemotherapy is administered during the screening period) should be used to determine eligibility. Participants who receive mFOLFIRINOX/NALIRIFOX during the screening period must meet these criteria within 7 days prior to the start of on-treatment chemotherapy (i.e., C1D1).\n* Participant agrees not to participate in another interventional study while receiving study intervention in the present study (participant who is currently in the follow-up period of an interventional clinical trial is allowed).\n\nExclusion Criteria:\n\n* Participant has neuroendocrine, acinar pancreatic carcinoma or pancreatic cancer with squamous/adenosquamous features.\n* Participant has another prior malignancy active (i.e., requiring treatment, including hormonal therapies, or intervention) within the previous 2 years different from the primary malignancy for this study, except for local malignancies that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of the cervix or breast, which are allowed.\n* Participant has chronic inflammatory bowel disease, bowel obstruction and/or severe uncontrolled diarrhea.\n* Participant has peripheral sensory neuropathy with functional impairment.\n* Participant has ascites and/or pleural effusion that require invasive interventions within 30 days prior to randomization or have an indwelling drainage catheter.\n* Participant has symptomatic pulmonary embolism or pulmonary embolism not being treated with anticoagulation.\n* Participant has a history of interstitial lung disease or pulmonary fibrosis.\n* Participant has uncontrolled seizure disorder or refractory to antiepileptics.\n* Participant has known homozygous uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) polymorphism.\n* Participant has had a myocardial infarction, unstable angina or coronary artery bypass surgery within 6 months prior to randomization or currently has an uncontrolled illness including but not limited to symptomatic congestive heart failure, clinically significant cardiac disease (e.g., cardiomyopathy, infiltrative cardiac disease, etc.), unstable angina pectoris, cardiac arrhythmia, obligate use of a cardiac pacemaker or long QT interval (QT) syndrome.\n* Participant has received any prior systemic therapy for their metastatic PDAC (except with up to 2 doses \\[i.e., 28 days; 1 cycle\\] of mFOLFIRINOX or NALIRIFOX during the screening period. If a participant received \\[neo\\]adjuvant chemotherapy, tumor recurrence or disease progression must have occurred ≥ 6 months after completing the last dose of the \\[neo\\]adjuvant therapy).\n* Participant has had prior treatment with a KRAS G12D-targeted agent.\n* Participant has a corrected QT interval by Fridericia (QTcF) (single electrocardiogram \\[ECG\\]) \\> 470 msec during the screening period.",
+  "enrollment": 614,
+  "has_results": false,
+  "interventions": [
+   "Setidegrasib",
+   "Oxaliplatin",
+   "Leucovorin",
+   "Irinotecan",
+   "fluorouracil",
+   "liposomal irinotecan",
+   "Placebo"
+  ],
+  "last_update_posted": "2026-09-22",
+  "location_countries": [
+   "China",
+   "Japan",
+   "South Korea",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Cheongju-si",
+    "country": "South Korea",
+    "facility": "Site KR82004",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Incheon",
+    "country": "South Korea",
+    "facility": "Site KR82015",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Site KR82006",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82002",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82010",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82012",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82013",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Suwon",
+    "country": "South Korea",
+    "facility": "Site KR82014",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 79,
+  "nct_id": "NCT07409272",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-08-31",
+  "sex": "ALL",
+  "sponsor": "Astellas Pharma Global Development, Inc.",
+  "start_date": "2026-02-17",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

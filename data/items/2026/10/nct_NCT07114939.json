@@ -1,0 +1,91 @@
+{
+ "abstract": "A pilot study to evaluate the expression of PARP-1 in patients with pancreatic neuroendocrine tumors will be conducted. This will be done via the use of a novel PET imaging agent, \\[18F\\]FluorThanatrace (\\[18F\\]FTT). A total of 12 patients will be enrolled. Patients will undergo a study imaging assessment using a whole-body PET CT scanner. Dynamic images will be obtained beginning immediately prior to the administration of 10 mCi of \\[18F\\]FTT (±20%) for a total of 60 minutes. A static scan may subsequently be obtained up to 90 minutes post radiotracer injection, per the PI's discretion. \\[18F\\]FTT uptake will be measured on the PET scan and correlated with two molecular outcomes.\n\nPancreatic neuroendocrine tumors are a rare disease entity for which there are relatively limited treatment options. Due to the nature of this malignancy, preclinical models have also been challenging to develop. It is known that the majority of these tumors harbor a mutation in MEN1, DAXX or ATRX, all of which are thought to be associated with abnormal DNA repair mechanisms, including homologous recombination. Defects in homologous recombination often render a tumor susceptible to treatment with a PARP inhibitor but the activity of PARP inhibition in pancreatic neuroendocrine tumors has not been well explored. Investigators at Penn have developed 1-(4-(2-Fluoroethoxy)phenyl)-8,9-dihiydro-2,7,9a-triazabenzo\\[cd\\]azulen-6(7H)-one, also known as \\[18F\\]FluorThanatrace or \\[18F\\]FTT, which is a radiolabeled, selective PARP-1 inhibitor that can be visualized by PET imaging. As such, the rationale for this trial is to evaluate \\[18F\\]FTT in pancreatic neuroendocrine tumors to determine their level of uptake and to perform accompanying molecular studies to evaluate PARP-1 expression in associated tissue specimens as well as to correlate PET findings with underlying mutational status.\n\n1-(4-(2-Fluoroethoxy)phenyl)-8,9-dihiydro-2,7,9a-triazabenzo\\[cd\\]azulen-6(7H)-one, also known as \\[18F\\]FluorThanatrace or \\[18F\\]FTT is a positron emitting radiopharmaceutical that has been studied in animals for selective measurement of the in vivo inhibition of the PARP-1 nuclear enzyme with positron emission tomography/computed tomography (PET/CT). Zhou et al. described synthesis of a series of radiolabeled benzimidazole carboxamide analogs that could be easily labelled with 18F and their inhibition potency against PARP-1 was determined1. Newly synthesized PARP-1 inhibitors were assessed for their ability to inhibit active PARP-1 using the method described by Putt and Hergenrother2 (Table 1). The results showed that tricycle benzamide analogs had higher inhibition potency than their respective benzimidazole analogs. The analogs with a fluoroethoxy substituent had three times higher inhibition potencies than the respective analogs having a fluoroethyl triazole group. From this, the most potent inhibitor, 12, was selected for 18F-labeling.\n\nPancreatic neuroendocrine tumors (PNETs) account for approximately 10% of all pancreatic neoplasms and their incidence is rapidly rising3. Patients with these tumors are often treated with temozolomide (TMZ) and capecitabine (CAP) chemotherapy, the former being a DNA damaging agent that generates DNA adducts requiring repair via the direct and base excision repair mechanisms4. DNA repair abnormalities have been identified as one of the key cancer mechanisms implicated in PNETs5. Mutations in MEN1 and either DAXX or ATRX are seen in 44% and 43% of PNETs respectively, and preclinical data demonstrate that these mutations are associated with yet another DNA repair mechanism, homologous recombination (HR)6-8. With multiple DNA repair mechanisms being involved, simultaneous targeting of these mechanisms may be an opportunity to enhance the treatment of PNETs. Specifically, adding a PARP inhibitor to target the HR mechanism may improve treatments via a synthetic lethality approach.\n\nTumors with defects in HR are known to be sensitive to PARP inhibition and use of these agents has become standard for the treatment of some breast, ovarian and pancreatic cancers9-13. In an in vitro model utilizing BON-1 cells (a PNET cell line), administration of a PARP inhibitor in combination with TMZ results in enhanced suppression of cell growth as compared to TMZ alone. In a model of BALB/c mice with liver BON-1-Luc tumors, administration of TMZ resulted in a decrease in bioluminescence as well as a decrease in tumor volume and this effect was further enhanced when a PARP inhibitor was co-administered with TMZ14. These data suggest a role for PARP inhibition in PNET, but the mechanism for this is poorly understood.\n\nSeveral preclinical studies have shown menin, the protein product of the MEN1 gene, to be an important regulator of HR8 and this has been explored using the QGP1 PNET cell line. In an MEN-1 knockout model generated from these cells, higher levels of DNA double-strand breaks are observed via Comet assay as compared to wildtype. MEN1 loss is also associated with a decrease in BRCA2 as QGP1 cells treated with siMEN1 (thereby suppressing MEN1) results in significantly reduced BRCA2 mRNA expression and BRCA2 protein levels. When MEN1 knockout cells were treated with the PARP inhibitor talazoparib, a significant decrease in cell growth was observed as compared to untreated cells. Similarly, when QGP1 cells were treated with siMEN1 and exposed to talazoparib, there was a significant decrease in cell growth compared to PARP untreated cells15. The presence of a DAXX or ATRX mutation presents another mechanism by which HR may be implicated. These mutations are associated with the alternative lengthening of telomeres (ALT) phenotype, a mechanism for telomere maintenance that is utilized in many PNETs that is believed to be a HR dependent process5. Overall, these data suggest a role for HR in PNETs and that targeted treatment with PARP inhibition may be a promising approach.\n\n\\[18F\\]FluorThanatrace (\\[18F\\]FTT) is an investigational imaging drug. The radiosynthesis and in vivo evaluation of the radiotracer has been previously reported by Zhou et al, as a radiolabeled PARP-1 inhibitor for measuring PARP-1 expression in vivo with PET demonstrating promising results in animal models. The published Penn study included evaluation of the biodistribution, metabolism, and excretion of \\[18F\\]FTT, and has provided pilot data on the uptake characteristics of \\[18F\\]FTT in patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer17.\n\nThe \\[18F\\]FTT dose proposed for this study will be 10 mCi (±20%) of \\[18F\\]FTT intravenously. The mass of \\[18F\\]FTT to be injected will be ≤ 10 µg. Based on preclinical toxicity studies performed in Sprague-Dawley rats, FluorThanatrace was well tolerated by rats and there were no observable adverse effect level (NOAEL) following a single IV bolus of 0.863 mg/kg. Using the body surface area conversion factor of 6.2 for rats, the Human Equivalent Dose (HED) was calculated to be 0.139 mg/kg. The proposed dose for human studies meets the definitions provided by the FDA for a \"microdose\" as less than 1/100th of the dose of test substance calculated from animal data to yield pharmacologic effect of the test substance, with a maximum allowed dose of ≤ 100 µg for radiopharmaceuticals and it will be studied under an FDA exploratory IND (128,178-IND). There have been no reportable AEs in the current human PARP trial at Penn in the \\> 150 patients scanned successfully in ovarian, pancreatic, breast and localized prostate cancer protocols with administered doses ranging from 8.12 -11.65 mCi, and we will use the same FTT dose range as in these ongoing studies (8-12 mCi). Incidental findings have been recommended for standard subsequent workup.\n\nIn the circumstance that a participant has an AE, the principal investigator will determine the severity of the AE and the relationship of the event to radiotracer administration and decide the course of action and appropriate treatment or follow-up for the study subject.\n\nThis study proposes the addition of one \\[18F\\]FTT PET scan to what is otherwise standard of care imaging for patients with pancreatic neuroendocrine tumors. \\[18F\\]FTT is a positron emitting radiopharmaceutical and as such, poses an intrinsic radiation exposure risk. However, when administered in low \"microdose' tracer amounts as a PET imaging agent, as described in this protocol, the risk is felt to be small.\n\nInitial human dosimetry studies have been conducted and published. Eight patients with cancer and 8 patients without cancer received \\[18F\\]FTT PET/CT scans with mean 374MBq ± 19 (range 348-403 MBq). The highest activity in men was seen in the pancreas with an average radiation dose of 0.0339 ± 0.02 mSv/MBq22. The average effective dose was 0.0139 ± 0.0044 mSv/MBq23.\n\nHuman radiation doses calculated from the PET images, indicated a mean effective dose of 6.9 mSv for the protocol's target injected dose of 370 MBq (10 mCi (±20%)) of \\[18F\\]FTT which is commensurate with standard \\[18F\\]FDG PET imaging and other clinical nuclear medicine procedures that are widely accepted. Based on this data, calculations were made and an injected dose of up to 12 mCi will yield acceptable organ and total body doses associated with \\[18F\\]FTT PET/CT imaging that are felt to be comparable to those associated with other published PET/CT biodistribution data for a variety of \\[18F\\]-labeled compounds.\n\nThere is potential with intravenous injections, including \\[18F\\]FTT, for allergic reactions. The dose will be delivered intravenously by skilled clinical professionals and subjects will be monitored for any signs or symptoms of allergic reaction by trained personnel during the PET procedure. Symptoms of an allergic reaction could include hives, shortness of breath or difficulty breathing.\n\nVenous cannulation is a routine clinical procedure that carries minimal risks when performed by trained personnel. It is possible that bruising, dizziness or fainting could occur in some subjects. There is a risk of phlebitis or infection, which is very remote.\n\nThe PET/CT scan takes place in a small, enclosed space and therefore can be uncomfortable for some people with claustrophobia or musculoskeletal disorders (such as arthritis). Subjects will be made as comfortable as possible and PET technologists and study personnel will be available throughout the imaging to address any discomfort. The subject will be allowed to get off the table between the described imaging segments as necessary.\n\nStudy Population: Patients at least 18 years of age with a metastatic, well differentiated pancreatic neuroendocrine tumor of a grade 1, grade 2 or grade 3 histology with at least one lesion that is greater than 1.5 cm in diameter. Patients may be receiving any form of treatment at the time of study participation.\n\nObjectives: To evaluate \\[18F\\]FTT uptake in pancreatic neuroendocrine tumors using uptake measures of \\[18F\\]FTT.\n\nTo correlate \\[18F\\]FTT uptake with PARP-1 expression in patient tumor specimens as assessed by immunofluorescence.\n\nTo correlate \\[18F\\]FTT uptake with patient mutational status, particularly MEN1, DAXX and ATRX, as assessed by next generation sequencing.\n\nPrimary Endpoint: \\[18F\\]FTT uptake on PET will correlate with PARP-1 expression on patient tumor specimens by immunofluorescence (the reference standard)\n\nSecondary Endpoints: \\[18F\\]FTT uptake on PET will correlate with tissue mutational status in MEN1, DAXX or ATRX as assessed by next generation sequencing.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07114939",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07114939"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-08-11",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Abramson Cancer Center at Penn Medicine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07114939"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Grade 1, 2 or 3 pancreatic neuroendocrine tumors",
+  "신경내분비종양"
+ ],
+ "title": "FTT PET/CT in Pancreatic Neuroendocrine Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Neuroendocrine Carcinoma Metastatic",
+   "Pancreatic Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "erinschu@pennmedicine.upenn.edu",
+    "name": "Erin K Schubert, MS",
+    "phone": "215-573-6569"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients must be ≥ 18 years of age.\n2. Clinical diagnosis of a metastatic or unresectable grade 1, grade 2 or grade 3 (G1/G2/G3) pancreatic neuroendocrine tumor.\n3. Have at least one lesion on clinical imaging (e.g. CT/MRI/PET/CT/ultrasound) that is ≥ 1.5 cm in size.\n4. Patients may be receiving any form of treatment or not be undergoing current treatment.\n5. Willing to consent to use of tumor tissue (fresh frozen and/or clinical pathology specimens) collected as part of another study or biobank collection or clinical procedure.\n6. Must be informed of the investigational nature of this study and be willing to provide written informed consent and participate in this study in accordance with institutional and federal guidelines prior to study-specific procedures.\n\nExclusion Criteria:\n\n1. Patients who have received liver directed therapy that treated all of their disease but whom have not yet had disease progression, per medical record review.\n2. Inability to tolerate imaging procedures in the opinion of an investigator or treating physician.\n3. Females who are pregnant or breastfeeding will not be eligible for this study; a urine pregnancy test will be performed in women of child-bearing potential prior to FTT injection.\n4. Any current medical condition, illness, or disorder as assessed by medical record review and/or self-reported that is considered by a physician investigator to be a condition that could compromise participant safety or successful participating in the study.\n\nOnly individuals (aged 18 or over) who can understand and give informed consent will be approached to participate in this study. Individuals who are considered to be mentally disabled will not be recruited for this study. All subjects must understand and be able to give informed consent. We will not be using specific methods to assess decisional capacity. Economically disadvantaged persons will not be vulnerable to undue influence, as this study offers no compensation. All individuals will be told that their choice regarding study participation will in no way change their access to clinical care. This should negate any undue influence or coercion. Children, fetuses, neonates or prisoners are not included in this research study.",
+  "enrollment": 12,
+  "has_results": false,
+  "interventions": [
+   "[18F]FluorThanatrace"
+  ],
+  "last_update_posted": "2026-02-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07114939",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-09",
+  "sex": "ALL",
+  "sponsor": "Abramson Cancer Center at Penn Medicine",
+  "start_date": "2025-10-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

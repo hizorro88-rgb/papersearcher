@@ -1,0 +1,103 @@
+{
+ "abstract": "Phase I Study of NT-175, an autologous T cell therapy product genetically engineered to express an HLA-A\\*02:01-restricted T cell receptor (TCR), targeting TP53 R175H mutant malignancies\n\nThis is a Phase 1, open-label, multicentre platform study to evaluate the safety and preliminary antitumour activity of NT-175 in HLA-A\\*02:01 participants with advanced malignancies that are positive for the TP53 R175H mutation.\n\nDose Escalation will investigate escalating doses of NT-175 in adult subjects with eligible histologies and will evaluate the safety and MTD and/or RDE/RP2D.\n\nCohort expansion will further evaluate the safety and preliminary anti-tumour activity at or below the MTD in disease specific histologies and determine the RP2D.\n\nDose Expansion will further evaluate the preliminary anti-tumour activity and safety of NT-175 at the RP2D in disease specific settings.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05877599",
+ "importance": 0.73,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05877599"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-05-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AstraZeneca",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05877599"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Cell therapy",
+  "TP53",
+  "Solid tumors",
+  "Non-small cell lung cancer",
+  "Head and neck squamous cell carcinoma",
+  "Colorectal carcinoma",
+  "Pancreatic adenocarcinoma",
+  "Breast Cancer",
+  "Ovarian Cancer",
+  "AML"
+ ],
+ "title": "A Study of NT-175 in Adult Participants With Advanced Malignancies That Are Positive for HLA-A*02:01 and the TP53 R175H Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Non-small Cell Lung Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Colorectal Carcinoma",
+   "Pancreatic Adenocarcinoma",
+   "Breast Cancer",
+   "Other Solid Tumors",
+   "Ovarian Cancer",
+   "Myeloid Neoplasms (AML/MDS)"
+  ],
+  "contacts": [
+   {
+    "email": "information.center@astrazeneca.com",
+    "name": "AstraZeneca Clinical Study Information Center",
+    "phone": "1-877-240-9479"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria (Module 1)\n\n* Subjects must be at least 18 years of age\n* Subject must be diagnosed with one of the histologies below:\n\n  * NSCLC\n  * Colorectal adenocarcinoma\n  * HNSCC\n  * Pancreatic adenocarcinoma\n  * Breast cancer\n  * Ovarian cancer\n  * Any other solid tumor\n* Tumors must harbor a TP53 R175H variant mutation and subject must be HLA-A\\*02:01 positive (at least 1 allele)\n* Subject has advanced solid cancer, defined as unresectable, advanced, and/or metastatic disease (Stage III or IV) after at least 1 line of approved systemic standard of care (SOC) treatment regimen and for which there are no available curative treatment options.\n* Subject has at least 1 measurable lesion\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n* Adequate hematological, renal, hepatic, pulmonary, and cardiac function\n\nKey Exclusion Criteria (Module 1)\n\n* Any another primary malignancy within the 3 years prior to enrollment\n* Known, active primary central nervous system (CNS) malignancy\n* History of prior adoptive cell and gene therapy, allogeneic stem cell transplant or solid organ transplantation.\n* History of clinically significant cardiac disease within the 6 months prior to enrollment or heart failure at any time prior to enrollment.\n* Systemic therapy within at least 2 weeks or 3 half-lives, whichever is shorter, prior to enrollment.\n* Any form of primary immunodeficiency.\n* Known to have Li-Fraumeni syndrome or is known to have relatives who are diagnosed with Li-Fraumeni syndrome.\n\nKey Inclusion Criteria (Module 2 - hematological malignancies)\n\n* At least 18 years of age\n* Diagnosis of AML or MDS that allows for efficacy assessments\n* Confirmation of TP53 R175H variant mutation in cancer cells\n* Subject must be HLA-A\\*02:01 positive (at least 1 allele)\n* ECOG performance status of 0 to 1\n\nKey Exclusion Criteria (Module 2 - hematological malignancy)\n\n* Acute promyelocytic leukaemia or isolated extramedullary disease\n* Another primary malignancy within 2 years (with exceptions)\n* HSCT within 100 days or immunosuppression for GvHD within 4 weeks\n* History of CNS or other extramedullary leukaemic involvement unless a lumbar puncture is negative for leukemic cells\n* Prior stroke, ischemic attack, significant cardiac disease, heart failure\n* Prior adoptive modified cell therapy\n* Known to have Li-Fraumeni syndrome or is known to have relatives who are diagnosed with Li-Fraumeni syndrome.",
+  "enrollment": 45,
+  "has_results": false,
+  "interventions": [
+   "NT-175"
+  ],
+  "last_update_posted": "2026-09-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 20,
+  "nct_id": "NCT05877599",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-07-31",
+  "sex": "ALL",
+  "sponsor": "AstraZeneca",
+  "start_date": "2023-07-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

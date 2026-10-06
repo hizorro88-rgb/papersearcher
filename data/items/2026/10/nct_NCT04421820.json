@@ -1,0 +1,132 @@
+{
+ "abstract": "BOLD-100 is an intravenously administered sterile solution containing the ruthenium-based small molecule. BOLD-100 has been shown to preferentially decrease the expression of GRP78 in tumour cells and ER stressed cells when compared to normal cells. BOLD-100 will be combined with cytotoxic FOLFOX chemotherapy in this study, with a dose escalation cohort to ensure tolerability and safety, followed by a cohort expansion phase.\n\nBOLD-100 is a novel, targeted anti-cancer therapy which is an intravenously administered small molecule drug. In a previous Phase 1 study (NCT01415297) BOLD-100 showed low toxicity with minimal hematological issues as well as some potential anti-tumour activity. The lack of observed hematological toxicity and neurotoxicity position BOLD-100 well for use in combination with a broad range of standard-of-care (SOC) chemotherapy regimens.\n\nThis is a prospective, multicenter non-randomized Phase 1b/2a dose escalation \\& expanded cohort study of BOLD-100 in patients with advanced gastrointestinal malignancies (colorectal, pancreatic, gastric cancers, and cholangiocarcinoma) receiving standard-of-care FOLFOX chemotherapy. Enrollment in Arms I - VI is closed to enrollment.\n\nColorectal cancer (ARM VII) for patients who are oxaliplatin naïve and have received only 1 prior line of therapy in the metastatic setting. Within this arm, participants will be randomized to one of two dose levels of BOLD-100 - either 500 mg/m2 or 625 mg/m2 in combination with FOLFOX or FOLFOX alone, in a 1:1:1 ratio. Participants enrolled into Arm VII will complete quality of life questionnaires examining general quality of life and neuropathy associated quality of life parameters.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04421820",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04421820"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2020-06-09",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Bold Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04421820"
+ },
+ "summary_ko": "BOLD-100 is an intravenously administered sterile solution containing the ruthenium-based small molecule. BOLD-100 has been shown to preferentially decrease the expression of GRP78 in tumour cells and ER stressed cells when compared to normal cells.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "BOLD-100 in Combination With FOLFOX for the Treatment of Advanced Solid Tumours",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colorectal Cancer",
+   "Pancreatic Cancer",
+   "Gastric Cancers",
+   "Cholangiocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "clinical@bold-therapeutics.com",
+    "name": "Michelle Jones",
+    "phone": "604-262-9899"
+   },
+   {
+    "email": "jp@bold-therapeutics.com",
+    "name": "Jim Pankovich",
+    "phone": "604-262-9934"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Be 18 years or older.\n2. Be male or non-pregnant females who agree to comply with applicable contraceptive requirements of the protocol.\n3. Histologically and/or cytologically confirmed gastrointestinal tumours that are metastatic or unresectable. (ARM VII): Patients must have received only 1 prior line of therapy in the metastatic setting.\n4. Have measurable disease according to RECIST v1.1.\n5. Have an anticipated survival of at least 16 weeks.\n6. Be ambulatory, with an ECOG performance score of 0 or 1.\n7. Have adequate organ function.\n8. Be on stable doses of any drugs that may affect hepatic drug metabolism or renal drug excretion.\n9. Be fully informed about their illness and the investigational nature of the study protocol, and sign a REB-approved Informed Consent Form (ICF).\n10. (ARM VII): BRAF wild-type tumour status.\n\nExclusion Criteria:\n\n1. Neuropathy \\> grade 2\n2. Previous intolerance to or significant reaction secondary to fluorouracil or oxaliplatin.\n3. Cerebrovascular accident within the past 6 months before the start of treatment.\n4. History or presence of central nervous system (CNS) metastasis or leptomeningeal tumours.\n5. Any serious medical conditions that might be aggravated by treatment or limit compliance.\n6. Any history of serious cardiac illness.\n7. Hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months before the start of treatment.\n8. Any other known malignancy within 3 years before the start of treatment.\n9. Active gastrointestinal tract disease with malabsorption syndrome.\n10. Non-healing wound, fracture, or ulcer, or presence of symptomatic peripheral vascular disease.\n11. Treatment with radiation therapy or surgery within 4 weeks prior to starting treatment.\n12. Recent history of weight loss \\> 10% of current body weight in past 3 months before the start of treatment.\n13. HIV-positive subjects on combination anti-retroviral therapy due to the potential for PK interactions with the study agent.\n14. Concurrent use of another investigational therapy or anti-cancer therapy within 4 weeks before the start of treatment.\n15. Currently breastfeeding\n16. Dihydropyrimidine Dehydrogenase (DPD) deficiency\n17. Current or prior treatment with potent inhibitors of Dihydropyrimidine Dehydrogenase (DPD)\n18. (ARM VII): Prior exposure to BOLD-100\n19. (ARM VII): Subjects with microsatellite-high (MSI-H) Tumours\n20. (ARM VII): Concurrent monoclonal antibody therapy for mCRC (anti-EGFR, anti-VEGF or anti-HER2)",
+  "enrollment": 220,
+  "has_results": false,
+  "interventions": [
+   "BOLD-100 +/- FOLFOX Chemotherapy (Arm VII)",
+   "BOLD-100 in combination with FOLFOX Chemotherapy (Arms I-VI)"
+  ],
+  "last_update_posted": "2026-05-18",
+  "location_countries": [
+   "Canada",
+   "Germany",
+   "Ireland",
+   "Italy",
+   "South Korea",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Goyang",
+    "country": "South Korea",
+    "facility": "National Cancer Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Kangbuk Samsung Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital - Yonsei University",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 24,
+  "nct_id": "NCT04421820",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2026-06-01",
+  "sex": "ALL",
+  "sponsor": "Bold Therapeutics, Inc.",
+  "start_date": "2020-08-28",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

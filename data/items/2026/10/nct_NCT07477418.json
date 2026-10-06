@@ -1,0 +1,96 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with poor survival outcomes, even when treated with modern chemotherapy and radiation. Patients with borderline resectable PDAC often receive neoadjuvant systemic therapy to improve the likelihood of successful surgical removal of the tumor, but rates of incomplete tumor regression and positive surgical margins remain high.\n\nThis Phase Ib/II, single-arm study evaluates the safety and feasibility of adding trans-arterial microperfusion (TAMP) delivery of gemcitabine to standard neoadjuvant therapy for patients with borderline resectable PDAC. In this study, patients receive standard systemic chemotherapy with modified FOLFIRINOX followed by stereotactic body radiation therapy (SBRT). After completion of chemoradiation, gemcitabine is delivered directly to the tumor through the arterial blood supply using the RenovoCath® catheter system. Gemcitabine is an FDA-approved chemotherapy drug for pancreatic cancer, and the study is evaluating a novel method of delivering the drug rather than a new medication.\n\nThe primary objective of the study is to assess the safety and tolerability of neoadjuvant TAMP-delivered gemcitabine in this treatment setting. Secondary objectives include evaluation of surgical margin status and pathologic tumor regression following surgical resection. Exploratory analyses will examine relapse-free survival. Results from this study will help determine whether this locoregional chemotherapy approach can be safely integrated into neoadjuvant treatment strategies for patients with borderline resectable PDAC.\n\nPancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with low long-term survival rates despite advances in systemic chemotherapy, radiation therapy, and surgical techniques. Surgical resection offers the only potential for cure; however, many patients present with borderline resectable disease, where tumor involvement of adjacent vascular structures increases the risk of incomplete resection and positive surgical margins. Neoadjuvant treatment strategies are commonly used in this population to improve the likelihood of margin-negative (R0) resection, but local disease progression and incomplete tumor response remain significant challenges.\n\nTrans-arterial microperfusion (TAMP) chemotherapy is a locoregional drug delivery platform designed to enhance intratumoral drug concentration while limiting systemic exposure. Using the RenovoCath® catheter system, chemotherapy is delivered directly into the arterial supply of the pancreas under controlled pressure conditions. Prior early-phase clinical studies of TAMP-delivered gemcitabine in patients with locally advanced PDAC have demonstrated feasibility and acceptable safety profiles, as well as evidence of improved local drug delivery compared with standard intravenous administration. However, the use of TAMP chemotherapy in the neoadjuvant setting for borderline resectable PDAC has not been well studied.\n\nThe PRISM-TAMP study is a Phase Ib/II, single-arm, open-label clinical trial designed to evaluate the safety and tolerability of incorporating TAMP-delivered gemcitabine into a modern neoadjuvant treatment regimen for patients with borderline resectable PDAC. In this study, patients receive standard systemic chemotherapy with modified FOLFIRINOX, followed by stereotactic body radiation therapy (SBRT), consistent with contemporary neoadjuvant management approaches. After completion of chemoradiation, patients undergo TAMP delivery of gemcitabine using the RenovoCath® catheter system. Gemcitabine is an FDA-approved chemotherapy agent for pancreatic cancer, and its use in this protocol is on-label; the investigational aspect of the study relates to the method of delivery rather than the drug itself.\n\nRadiation therapy is included as a required component of the treatment sequence based on preclinical and early clinical data suggesting that radiation may favorably modify the tumor microenvironment and enhance retention of intra-arterially delivered gemcitabine. The intent of radiation in this study is not solely cytotoxic, but also to serve as a biological modulator that may improve the effectiveness of subsequent TAMP chemotherapy.\n\nFollowing completion of neoadjuvant therapy, patients who remain appropriate surgical candidates proceed to operative resection per standard surgical practice. Pathologic assessment of the resected specimen is performed to evaluate tumor regression and margin status. Patients are followed postoperatively for safety outcomes and disease status.\n\nThe primary objective of the study is to assess the safety and tolerability of neoadjuvant TAMP-delivered gemcitabine when administered following systemic chemotherapy and SBRT in patients with borderline resectable PDAC. Secondary objectives include evaluation of intraoperative surgical margin status and pathologic tumor regression. Exploratory objectives include assessment of relapse-free survival. This study is intended to generate safety and feasibility data to inform future studies evaluating locoregional chemotherapy strategies in pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07477418",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07477418"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-03-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Vermont",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07477418"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Neoadjuvant Therapy",
+  "Gemcitabine",
+  "Intra-arterial Chemotherapy"
+ ],
+ "title": "PDAC Regression and Intraoperative Surgical Margin With Neoadjuvant TAMP (PRISM-TAMP)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Borderline Resectable Pancreatic Cancer",
+   "Pancreatic Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "conor.oneill@uvm.edu",
+    "name": "Conor O'Neill, MD",
+    "phone": "1 (802) 656-2021"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed pancreatic ductal adenocarcinoma (PDAC).\n* Borderline resectable disease as defined by the ABC classification criteria, incorporating one or more of the following:\n\n  * Anatomy (A): Vascular involvement consistent with borderline resectable or resectable locally advanced-PDAC (e.g., abutment of the superior mesenteric vein or artery, portal vein, or celiac axis) as determined by cross-sectional imaging\n  * Biology (B): Concern for extra-pancreatic metastasis or known N1 disease or suspicious but nonconfirmatory liver/lung lesion(s). CA19-9\\>500 after normalized bilirubin\n  * Condition (C): Functional status and comorbidity profile adequate for curative-intent surgery, as assessed by the multidisciplinary team, specifically WHO PS \\>/=1.\n* No prior treatment for PDAC (e.g., chemotherapy, radiation, or surgery).\n* Age ≥ 18 years.\n* ECOG performance status of 0 or 1.\n* Ability to understand and the willingness to sign a written informed consent.\n\nExclusion Criteria:\n\n* Locally Advanced PDAC or metastatic PDAC\n* Histology other than adenocarcinoma\n* Non-accessible arterial anatomy\n* Gemcitabine hypersensitivity or contraindication to mFOLFIRINOX therapy based on provider assessment",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine Delivered by Transarterial Microperfusion"
+  ],
+  "last_update_posted": "2026-03-17",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07477418",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2030-12",
+  "sex": "ALL",
+  "sponsor": "University of Vermont",
+  "start_date": "2026-12",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

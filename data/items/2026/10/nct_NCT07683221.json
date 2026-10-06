@@ -1,0 +1,94 @@
+{
+ "abstract": "This is a Phase II, prospective, single-arm exploratory clinical trial designed to evaluate the efficacy and safety of stereotactic body radiotherapy followed by ipilimumab N01 plus sintilimab in combination with nab-paclitaxel and gemcitabine in patients with locally advanced pancreatic cancer. Eligible patients will receive SBRT followed by sequential systemic therapy. The primary endpoint is progression-free survival, and secondary endpoints include overall survival, disease control rate, duration of response, objective response rate, and safety.\n\nThis study is a Phase II, prospective, single-arm exploratory clinical trial in patients with locally advanced pancreatic cancer. The study aims to explore the efficacy and safety of stereotactic body radiotherapy followed by ipilimumab N01 plus sintilimab in combination with nab-paclitaxel and gemcitabine.\n\nEligible patients will first receive stereotactic body radiotherapy at a dose of 5-10 Gy for 5 fractions. One week after completion of SBRT, patients will receive sequential systemic therapy consisting of ipilimumab N01, sintilimab, nab-paclitaxel, and gemcitabine. Ipilimumab N01 will be administered at 1 mg/kg intravenously every 6 weeks for a total of 4 doses. Sintilimab will be administered at 200 mg intravenously every 3 weeks. Nab-paclitaxel will be administered at 125 mg/m² on Days 1 and 8, and gemcitabine will be administered at 1000 mg/m² on Days 1 and 8 of each 3-week cycle. Nab-paclitaxel and gemcitabine will be given for 6 to 8 cycles, and sintilimab may be continued as maintenance treatment until disease progression, unacceptable toxicity, withdrawal of consent, initiation of new anti-cancer therapy, death, or other protocol-specified reasons.\n\nTumor assessments will be performed regularly according to RECIST 1.1. The primary endpoint is progression-free survival. Secondary endpoints include overall survival, disease control rate, duration of response, objective response rate, and safety. Adverse events will be monitored throughout the study and graded according to applicable safety criteria.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07683221",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07683221"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-07-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shandong Cancer Hospital and Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07683221"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "SBRT",
+  "Ipilimumab",
+  "Sintilimab",
+  "Locally Advanced Pancreatic Cancer"
+ ],
+ "title": "SBRT Followed by Ipilimumab N01, Sintilimab, Nab-Paclitaxel and Gemcitabine for Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "jbyue@sdfmu.edu.cn",
+    "name": "Jinbo Yue, Doctor",
+    "phone": "0531-67626442"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participants voluntarily agree to participate in the study, sign the informed consent form, and are willing and able to comply with study procedures and follow-up.\n* Histologically or cytologically confirmed pancreatic ductal adenocarcinoma.\n* Locally advanced unresectable pancreatic cancer without distant metastasis, confirmed by multidisciplinary team evaluation.\n* Age 18 to 75 years, inclusive.\n* Eastern Cooperative Oncology Group performance status of 0 to 1.\n* Life expectancy of at least 3 months.\n* No prior systemic therapy for advanced pancreatic cancer.\n* At least one measurable lesion according to RECIST 1.1.\n\nExclusion Criteria:\n\n* Participation in another anti-cancer drug clinical trial within 4 weeks before enrollment.\n* Prior targeted therapy or prior treatment with immune checkpoint inhibitors.\n* Presence of distant organ metastasis, including liver, peritoneal, brain, or meningeal metastasis.\n* Pregnancy or breastfeeding.\n* Any condition that, in the investigator's opinion, makes the participant unsuitable for enrollment in this study.",
+  "enrollment": 47,
+  "has_results": false,
+  "interventions": [
+   "SBRT + Ipilimumab N01 + Sintilimab + AG Chemotherapy"
+  ],
+  "last_update_posted": "2026-07-06",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07683221",
+  "phase": "PHASE2",
+  "primary_completion_date": "2029-07-15",
+  "sex": "ALL",
+  "sponsor": "Shandong Cancer Hospital and Institute",
+  "start_date": "2026-07-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

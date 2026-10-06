@@ -1,0 +1,91 @@
+{
+ "abstract": "A single-arm, interventional study combining Immunotherapy and propranolol with/without chemotherapy and propranolol\n\n1. Pancreatic Cancer Durvalumab will be administered once every 4 weeks, in combination with gemcitabine + nab-paclitaxel (day 1/8/15) and continuous propranolol. Tremelimumab will be given on day 1 of cycle 1, which may be repeated at the time of progression in eligible patients.\n2. HCC Durvalumab will be administered once every 4 weeks in combination with continuous propranolol. Tremelimumab will be given on day 1 of cycle 1, which may be repeated at the time of progression in eligible patients.\n3. Biliary Tract Cancer (BTC, Cholangiocarcinoma of the gallbladder or bile ducts) Durvalumab will be administered once every 3 weeks, in combination with cisplatin + gemcitabine (day 1/8) and continuous propranolol. Tremelimumab will be given on day 1 of cycle 1, which may be repeated at the time of progression in eligible patients.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05451043",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05451043"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-07-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AHS Cancer Control Alberta",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05451043"
+ },
+ "summary_ko": "A single-arm, interventional study combining Immunotherapy and propranolol with/without chemotherapy and propranolol\n\n1. Pancreatic Cancer Durvalumab will be administered once every 4 weeks, in combination with gemcitabine + nab-paclitaxel (day 1/8/15) and continuous propranolol.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Hepatocellular Cancer",
+   "Biliary Tract Cancer",
+   "Cholangiocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients must be 18 years of age or older.\n2. Body Weight \\>30kg\n3. Life expectancy of at least 12 weeks\n4. Patients must have a diagnosis of histologically documented advanced pancreatic adenocarcinoma, hepatocellular carcinoma, or BTC not amenable to curative intent local therapy or surgery. For the histologies there must only one histology type present ie not mixed cholangiocarcinoma/HCC. For the HCC cohort if tissue biopsy if histological diagnosis is not possible, diagnosis can be made clinically by American Association for the study of liver diseases (AASLD) criteria in cirrhotic patients.\n5. Radiation therapy (palliative or curative) must have been completed at least 4 weeks prior to first study treatment and patients must have toxicities recovered to grade 1 or less.\n6. Patients must be capable of providing consent to enrolment and treatment.\n7. Patients with a performance status of ECOG 0-2(15) will be eligible for enrolment (see Appendix 1).\n8. Measurable disease must be present according to RECIST criteria V1.1(16) (see Appendix 3).\n9. Women of child-bearing potential (WOCBP) must have a negative serum (or urine) pregnancy test at the time of screening. WOCBP is defined as any female who has experienced menarche and who has not undergone surgical sterilization (hysterectomy or bilateral oophorectomy or bilateral salpingectomy) and is not postmenopausal. Menopause is defined as 12 months of amenorrhea in a woman over age 50 years in the absence of other biological or physiological causes.\n10. Patients (men and women) of childbearing / reproductive potential should use highly effective birth control methods, as defined by the investigator, during the study treatment period and for a period of 6 months after the last dose of study drug. A highly effective method of birth control is defined as those that result in low failure rate (i.e. less than 1% per year) when used consistently and correctly.\n11. Female patients who are breast-feeding should discontinue nursing prior to the first dose of study treatment and until 90 days after the last dose of durvalumab monotherapy or 180 days after the last does of durvalumab + tremelimumab combination therapy.\n12. Male patients should agree to not donate sperm during the study and for a period of at least 6 months after last dose of study drug.\n13. Absence of any condition hampering compliance with the study protocol and follow- up schedule; those conditions should be discussed with the patient before registration in the trial.\n14. The following adequate organ function laboratory values must be met:\n\nHematological:\n\n• Absolute neutrophil count (ANC) \\>1.5 x109/L\n\n* For the Hepatocellular cohort Platelet count \\>/ 1.0 x109/L is adequate • Platelet count \\>100 x109/L\n* For the Hepatocellular cohort Platelet count \\>/ 65 x109/L is adequate • Hemoglobin \\>9 g/dL (may have been transfused)\n\nRenal:\n\n• Estimated creatinine clearance ≥ 45 mL/min according to the Cockcroft-Gault formula (or local institutional standard method)\n\nHepatic:\n\n* Total serum bilirubin \\<1.5x ULN\n\n  o For the HCC cohort bilirubin ≤ 2 x ULN\n* AST and ALT \\<2.5x ULN (or ≤ 5 x ULN for patients with documented metastatic disease to the liver)\n\nExclusion Criteria:\n\n1. Patients who have received prior palliative systemic treatment for their advanced cancer.\n2. History of pneumonitis requiring treatment with steroids.\n3. History of active interstitial lung disease.\n4. For HCC patients they must have a Child Pugh status of A.\n5. Clinically significant (i.e., active) cardiovascular disease: cerebral vascular accident/stroke (\\< 6 months prior to enrollment), myocardial infarction (\\< 6 months prior to enrollment), unstable angina, congestive heart failure (≥ New York Heart Association Classification Class II), or serious cardiac arrhythmia requiring medication.\n6. Uncontrolled intercurrent illness, including but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the patient to give written informed consent\n7. Mean QT interval corrected for heart rate using Fridericia's formula (QTcF) ≥470 ms calculated from 3 ECGs (within 15 minutes at 5 minutes apart) \\<\\<for durvalumab monotherapy and durvalumab + tremelimumab combination studies this criterion can be removed. For durvalumab ±tremelimumab in combination with an agent with pro-arrhythmic potential or where effect of the combination on QT is not known if this criterion should be retained.\n8. History of another malignancy or a concurrent malignancy;\n\n   • Exceptions include patients who have been disease-free for 3 years, or patients with a history of completely resected non-melanoma skin cancer or successfully treated in situ carcinoma are eligible, for example cervical cancer in situ. As well patients with a resected malignancy that did not require systemic therapy post-surgery are allowed.\n9. Active brain metastases or leptomeningeal disease.\n\n   • Patients with treated brain metastases that have been treated, are off steroids and anticonvulsants and have imaging documenting stability of brain metastases for 6 weeks post treatment will be eligible for enrolment.\n10. Current use of immunosuppressive medication, EXCEPT for the following: a. intranasal, inhaled, topical steroids, or local steroid injection (e.g., intra-articular injection); b. Systemic corticosteroids at physiologic doses ≤ 10 mg/day of prednisone or equivalent; c. Steroids as premedication for hypersensitivity reactions (e.g., CT scan premedication).\n11. Prior organ transplantation including allogeneic stem-cell transplantation.\n12. Active autoimmune disease that might deteriorate when receiving an immuno-stimulatory agent. Patients with diabetes type I, vitiligo, psoriasis, or hypo- or hyperthyroid diseases not requiring immunosuppressive treatment are eligible.\n13. Active infection requiring systemic therapy or Active infection including tuberculosis (clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice), hepatitis B (known positive HBV surface antigen (HBsAg) result), hepatitis C, Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[anti-HBc\\] and absence of HBsAg) are eligible. Patients positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for HCV RNA. Patients known positive for HIV.\n14. Known prior severe hypersensitivity to investigational product or any component in its formulations, including known severe hypersensitivity reactions to monoclonal antibodies (CTCAE v5.0 Grade ≥ 3).\n15. Other severe acute or chronic medical conditions including inflammatory bowel disease, immune pneumonitis, pulmonary fibrosis or psychiatric conditions including recent (within the past year) or active suicidal ideation or behavior; or laboratory abnormalities that may increase the risk associated with study participation or study treatment administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study.\n16. Persisting toxicity related to prior therapy (NCI CTCAE v. 5.0 grade \\> 1); however, alopecia, sensory neuropathy ≤ grade 2, or other toxicities ≤ grade 2 not constituting a safety risk based on investigator's judgment are acceptable.\n17. Enrollment in any other clinical protocol or investigational study with an interventional agent or assessments that may interfere with study procedures.\n18. Female patients who are pregnant or breastfeeding or male or female patients of reproductive potential who are not willing to employ effective birth control from screening to 90 days after the last dose of durvalumab monotherapy or 180 days after the last dose of durvalumab + tremelimumab combination therapy.\n19. Major surgical procedure (as defined by the Investigator) within 28 days prior to the first dose of IP. Note: Local surgery of isolated lesions for palliative intent is acceptable.\n20. Receipt of live attenuated vaccine within 30 days prior to the first dose of IP. Note: Patients, if enrolled, should not receive live vaccine whilst receiving IP and up to 30 days after the last dose of IP.\n21. Prior randomisation or treatment in a previous durvalumab and/or tremelimumab clinical study regardless of treatment arm assignment.\n22. Asthma requiring corticosteroid inhalers and having been admitted within the last year for an asthma exacerbation",
+  "enrollment": 62,
+  "has_results": false,
+  "interventions": [
+   "Durvalumab",
+   "Gemcitabine",
+   "Nab paclitaxel",
+   "Tremelimumab",
+   "Propranolol",
+   "Cisplatin"
+  ],
+  "last_update_posted": "2025-06-26",
+  "location_countries": [
+   "Canada"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05451043",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-10-01",
+  "sex": "ALL",
+  "sponsor": "AHS Cancer Control Alberta",
+  "start_date": "2023-07-05",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

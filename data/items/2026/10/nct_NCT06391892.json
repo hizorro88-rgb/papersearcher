@@ -1,0 +1,95 @@
+{
+ "abstract": "This study evaluates the clinical prognostic impact (on DFS and OS) of liquid biopsy guided treatment vs. standard of care (physicians choice) in localized pancreatic cancer (despite because of CA 19-9 levels and computed tomography, upfront surgery is recommended by tumor board). ctDNA positive patients will receive neoadjvuant chemotherapy at current gold standard physicians choice instead of upfront surgery, because of assumed high biological risk for early recurrence.\n\nPancreatic cancer (PC) bears dramatically high relapse rates with consecutive low 5-year survival rates (4.2% over all tumor stages and 0.5% in stage IV disease) despite major improvements of interdisciplinary perioperative management and more aggressive surgical approaches to enable potentially curative pancreatic surgery. PC is estimated to represent the second most cancer associated cause of death by 2030 worldwide. Circulating tumor DNA (ctDNA) has been outpointed to be a promising prognostic marker for several malignant diseases. In precursor studies, the investigators have shown (a) a definitive cut-off (42% decrease from the baseline) for the relative change of ctDNA after only 2 weeks of systemic chemotherapy to reliably (specificity 100%, sensitivity 91.7%) predict response to treatment at a median of 10 weeks earlier (80% faster) than current gold standard (computed tomography after 3 months of treatment) via simple blood collection and consecutive molecular analysis via ddPCR (Kirchweger et al., Frontiers in Oncology, 08/22), which could allow an early change of treatment regimen in the future in order to improve patients survival and decrease the amount of unevaluated cytotoxic agents. Furthermore, the investigators could show (b) that pretherapeutic detectable ctDNA in localized PC could reliably indicate early distant relapse (DFS 3.3 vs. 18.1 months) despite no radiological evidence of advanced or disseminated disease prior to surgery (Kirchweger et al., European Journal of Surgical Oncology, 12/21). All patients in this study suffering from early relapse went through interdisciplinary tumor boards and did not receive neoadjuvant chemotherapy because of radiological resectability and CA 19-9 values within the normal range (\\<500kU/l). ctDNA on the other hand bears the potential to differentiate localized from disseminated disease.\n\nThe planned project aims to prove a clinical applicable easily assessable and minimal invasive approach (mere blood collection during clinical routine) of molecular testing in the periphery to distinguish localized from disseminated disease in pancreatic cancer patients to highly individually stratify for neoadjuvant chemotherapy or upfront surgery on a (molecular)-biological base with a high sensitive method to oppose current difficulties of detection rates in PC in addition to current gold standard of radiological staging in the future.\n\nThe investigators will take approximately 30ml of blood (simple blood puncture) from patients with localized pancreatic cancer who have undergone full staging procedure and have been recommended upfront surgery by interdisciplinary tumor board. ddPCR will be performed by testing KRAS G12/13 and, if negative, KRAS Q61 preoperatively. ctDNA positive patients will be distributed to either observation group (standard of care - upfront surgery) or personalized treatment group (LB informed treatment decisions - neoadjuvant/adjuvant chemotherapy).\n\nTreatment groups will be compared for PFS and OS.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06391892",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06391892"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2024-04-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Elisabethinen Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06391892"
+ },
+ "summary_ko": "This study evaluates the clinical prognostic impact (on DFS and OS) of liquid biopsy guided treatment vs. standard of care (physicians choice) in localized pancreatic cancer (despite because of CA 19-9 levels and computed tomography, upfront surgery is recommended by tumor board).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Circulating Tumor Cell",
+   "Predictive Cancer Model"
+  ],
+  "contacts": [
+   {
+    "email": "patrick.kirchweger@ordensklinikum.at",
+    "name": "Patrick Kirchweger, MD, PhD",
+    "phone": "+436644159646"
+   },
+   {
+    "email": "helwig.wundsam@ordensklinikum.at",
+    "name": "Helwig Wundsam, PD, MD",
+    "phone": "+4373276774562"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Informed consent\n* \\>18 years old\n* localized pancreatic cancer to go for upfront surgery\n\nExclusion Criteria:\n\n* synchronous secondary malignancy\n* pregnancy",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "Neoadjuvant chemotherapy instead of upfront surgery",
+   "Upfront surgery"
+  ],
+  "last_update_posted": "2024-04-30",
+  "location_countries": [
+   "Austria"
+  ],
+  "locations_kr": [],
+  "max_age": "99 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06391892",
+  "phase": "PHASE3",
+  "primary_completion_date": "2025-12-31",
+  "sex": "ALL",
+  "sponsor": "Elisabethinen Hospital",
+  "start_date": "2024-01-11",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

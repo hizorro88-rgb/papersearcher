@@ -1,0 +1,88 @@
+{
+ "abstract": "The purpose of this study is to determine the objective response rate (ORR) to lorigerlimab in patients with refractory pancreatic ductal adenocarcinoma (PDAC) and pathogenic germline variants (PGVs) in breast cancer type 1 or 2 susceptibility protein (BRCA1/2), Partner and Localizer of BRCA2 (PALB2) and radiation sensitive protein 51 C or D (RAD51C/D).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07565155",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07565155"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-05-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Peter Hosein, MD",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07565155"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Lorigerlimab (MGD019) in Patients With Pancreatic Adenocarcinoma and Homologous Recombination Deficiency",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma",
+   "Homologous Recombination Deficiency"
+  ],
+  "contacts": [
+   {
+    "email": "phosein@miami.edu",
+    "name": "Peter J Hosein, MBBS",
+    "phone": "(305) 243-6606"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntarily agree to participate by giving signed, dated, and written informed consent prior to any study-specific procedures.\n2. ≥ 18 years of age.\n3. Histologically confirmed pancreas carcinoma with metastatic disease. Neuroendocrine neoplasms are not eligible. Adenosquamous, squamous and acinar histologies are allowed provided criteria #5 is fulfilled, and these histologies comprise no more than 10% of the total accrual.\n4. Measurable disease on baseline imaging by CT (or MRI where CT is contraindicated) based on RECIST 1.1.\n5. Documented germline mutation in BRCA1, BRCA2, PALB2, radiation sensitive protein 51 C (RAD51C), or radiation sensitive protein 51 D (RAD51D) that is known or predicted to be detrimental or lead to loss of function on a chemiluminescence immunoassay (CLIA)-approved assay (e.g. Invitae, Ambry, Myriad, Tempus).\n6. Must have an accessible tumor amenable to a safe biopsy where the major complication rate is ≤ 1.5% in the judgement of the investigator.\n7. Must have prior exposure and disease progression after at least one line of platinum-based chemotherapy. Platinum-based chemotherapy given in the neo-adjuvant or adjuvant setting also satisfies this requirement if progression occurs within 1 year of the end of adjuvant therapy.\n8. Prior receipt of a poly (ADP-ribose) polymerase (PARP) inhibitor is allowed but not mandatory.\n9. Life expectancy of at least 3 months.\n10. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n11. Adequate organ function defined as the following laboratory values within 14 days of Cycle 1 Day 1:\n\n    1. Neutrophils \\>1000/μL (stable off any growth factor within 4 weeks of first study treatment administration).\n    2. Platelets \\> 100 × 103/μL (transfusion to achieve this level is not permitted within 2 weeks of first study treatment administration).\n    3. Hemoglobin \\> 8.0 g/dL (transfusion to achieve this level is not permitted within 2 weeks of first study treatment administration).\n    4. Serum creatinine \\< 1.5 × upper limit of normal (ULN), or creatinine clearance ≥30 mL/min (measured or calculated using Modification of Diet in Renal Disease (MDRD) or Chronic Kidney Disease Epidemiology Collaboration (CKD-Epi)).\n    5. Aspartate aminotransferase (AST)/ alanine aminotransferase (ALT) \\< 3.0 × ULN or \\< 5.0 x ULN if liver metastases are present.\n    6. Total bilirubin \\< 1.5 × ULN (except patients with Gilbert syndrome who must have a total bilirubin level of \\< 3.0 × ULN).\n    7. Albumin ≥ 3.0 g/dL.\n12. Female patients of childbearing potential must have a negative urine or serum pregnancy test at screening (within 72 hours of first dose of study medication) with repeat urine or serum pregnancy test of Day 1 of each cycle and at the end of treatment visit. Nonchildbearing potential is defined as: a. ≥ 50 years of age and has not had menses for greater than 1 year. b. Amenorrheic for ≥ 2 years without a hysterectomy and bilateral oophorectomy and a follicle-stimulating hormone value in the postmenopausal range upon pre-study (screening) evaluation. c. Status is post hysterectomy, bilateral oophorectomy, or tubal ligation. d. Female patients who are diagnosed with a tumor that is known to secrete human chorionic gonadotropin (HCG) must be certified not pregnant based on clinical evidence and investigator judgment.\n13. Female patients of child-bearing potential must agree to use highly effective contraceptive measures starting with the screening visit through 7 months after the last dose of study treatment. Note: Abstinence is acceptable if this is the established and preferred contraception for the patient.\n14. Male patients with a female partner(s) of childbearing potential must agree to use highly effective contraceptive measures throughout the study starting with the screening visit through 7 months after the last dose of study treatment is received. Males with pregnant partners must agree to use a condom; no additional method of contraception is required for the pregnant partner. Note: Abstinence is acceptable if this is the established and preferred contraception for the patient.\n15. Willing and able to comply with the requirements of the protocol.\n\nExclusion Criteria:\n\n1. Has received any prior therapy with an anti-PD-1/PD-L1 antibody or an anti-cytotoxic T lymphocyte-associated (CTLA) protein 4 (anti-CTLA-4) antibody.\n2. Has clinically significant ascites defined as requiring 1 or more therapeutic paracenteses in the last 4 weeks prior to study entry.\n3. Grade 2 or higher peripheral neuropathy\n4. Clinically significant gastrointestinal disorders including:\n\n   1. Any history of gastrointestinal perforation unless the affected area has been deemed by the investigator to no longer be a risk for perforation.\n   2. History of clinically significant gastrointestinal bleeding within 4 weeks prior to initiation of study treatment.\n   3. History of acute pancreatitis within 4 weeks prior to the initiation of study treatment.\n   4. Diverticulitis that is clinically significant in the opinion of the investigator based on the extent or severity of known disease and/or the occurrence of clinically significant disease flares within 4 weeks prior to the initiation of study treatment administration.\n   5. Bowel obstruction or impending bowel obstruction within the past 3 months.\n5. Clinically significant (i.e. active) cardiovascular disease:\n\n   1. Cerebral vascular accident/stroke or myocardial infarction within 6 months of enrollment, unstable angina, congestive heart failure (New York Heart Association class ≥ III), or serious uncontrolled cardiac arrhythmia requiring medication.\n   2. Pericarditis or clinically significant pericardial effusion.\n   3. Any history of myocarditis.\n6. Known central nervous system (CNS) involvement as follows: a. Untreated CNS metastases. b. Leptomeningeal metastases. c. NOTE: Patients may be eligible if CNS metastases have been treated and patients have neurologically returned to baseline (except for residual signs and symptoms related to the CNS treatment).\n7. Concurrent malignancy (present during screening) requiring treatment or history of prior malignancy active within 1 year prior to the first dose of study treatment (i.e. patients with a history of prior malignancy are eligible if treatment was completed at least 1 year before the first dose of study treatment and the patient has no evidence of disease). Patients with history of prior early-stage basal/squamous cell skin cancer or noninvasive or in situ cancers who have undergone definitive treatment at any time are also eligible.\n8. Washout period prior to Cycle 1 Day1: Participants must recover from clinically significant adverse events from their more recent therapy or intervention prior to study enrollment.\n\n   No specific time windows are given.\n9. Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.\n10. Symptomatic interstitial lung disease (ILD) or ILD which may interfere with detection and management of new immune-related pulmonary toxicity.\n11. History of allogeneic solid organ or stem cell transplant.\n12. Psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the study.\n13. Patients with a condition requiring systemic treatment with either corticosteroids (\\>10 mg daily prednisone equivalent) within 14 days or another immunosuppressive medication within 30 days of the first dose of study treatment. Inhaled or topical steroids, and adrenal replacement steroid doses (≤ 10 mg daily prednisone equivalent), are permitted in the absence of active autoimmune disease.\n14. Active autoimmune disease or history of autoimmune disease that required systemic treatment within 2 years of the start of study treatment (i.e. with use of disease modifying agents or immunosuppressive drugs). Replacement therapy with thyroxine, insulin or physiologic corticosteroid replacement therapy is not considered systemic treatment for autoimmune disease.\n15. History or current evidence of any condition, co-morbidity, therapy, any active infections, or laboratory abnormality that might confound the results of the study, interfere with the patient's participation for the full duration of the study, or is not in the best interest of the patient to participate, in the opinion of the treating Investigator.\n16. Breastfeeding patients.\n17. Note: All patients diagnosed with disease known to secrete HCG will test positive for pregnancy. Therefore, a positive pregnancy test is not exclusion criteria for these patients.\n\n    However, pregnancy negative status must be otherwise reasonably ascertained by other objective means.\n18. Active infection requiring treatment within 2 weeks of Cycle 1 Day1.\n19. HIV positive, except cluster of differentiation 4 (CD4) \\>200 and HIV viral load undetectable.\n20. Active hepatitis B or C infection:\n21. Patients with hepatitis B virus (HBV) infection are eligible if hepatitis B surface antigen and HBV DNA are negative.\n22. Patients with hepatitis C virus (HCV) infection are eligible if HCV RNA is negative.\n23. Participants with impaired decision-making capacity",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "Lorigerlimab"
+  ],
+  "last_update_posted": "2026-05-04",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07565155",
+  "phase": "PHASE2",
+  "primary_completion_date": "2031-06-01",
+  "sex": "ALL",
+  "sponsor": "Peter Hosein, MD",
+  "start_date": "2026-06-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

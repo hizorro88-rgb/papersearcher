@@ -1,0 +1,94 @@
+{
+ "abstract": "This study is a Phase II trial evaluating the safety and efficacy of IBI343 in combination with chemotherapy as neoadjuvant therapy for subjects with borderline resectable pancreatic cancer (BRPC). The study enrolls treatment-naïve subjects with CLDN18.2-positive BRPC, confirmed by imaging and pathological diagnosis. Subjects will receive 4 cycles of neoadjuvant therapy. During or after neoadjuvant therapy, subjects who are unable to undergo radical surgical resection due to disease progression or other reasons will discontinue study treatment. After imaging assessment, subjects deemed eligible for radical resection by a multidisciplinary team (MDT) will undergo radical surgery 14-28 days after the last dose of neoadjuvant therapy . Following surgery, subjects will receive adjuvant therapy with the AG regimen or investigator-selected adjuvant chemotherapy. Adjuvant therapy will begin 21-56 days post-surgery, and the total duration of preoperative neoadjuvant and postoperative adjuvant therapy will be 6 months. Subjects will continue adjuvant therapy until the planned treatment duration is completed, or until disease recurrence, intolerable toxicity, withdrawal of informed consent, loss to follow-up, death, or other treatment discontinuation criteria are met (whichever occurs first). After discontinuation of study treatment, subjects will undergo safety follow-up and survival follow-up.\n\nThis study is a Phase II trial evaluating the safety and efficacy of IBI343 in combination with chemotherapy as neoadjuvant therapy for subjects with borderline resectable pancreatic cancer (BRPC). The study enrolls treatment-naïve subjects with CLDN18.2-positive BRPC, confirmed by imaging (contrast-enhanced CT or MRI) and pathological diagnosis. Subjects will receive 4 cycles of neoadjuvant therapy with the following regimen: IBI343 6mg/kg IV D1 Q3W + Gemcitabine 800mg/m² IV D1, D8 Q3W + Nab-paclitaxel 100mg/m² IV D1, D8 Q3W. During or after neoadjuvant therapy, subjects who are unable to undergo radical surgical resection due to disease progression (based on RECIST v1.1) or other reasons will discontinue study treatment. After imaging assessment, subjects deemed eligible for radical resection by a multidisciplinary team (MDT) will undergo radical surgery 14-28 days after the last dose of neoadjuvant therapy (for subjects unable to undergo surgery within this window due to adverse events or other reasons, radical surgery must be performed no later than 42 days after the last dose of neoadjuvant therapy). Following surgery, subjects will receive adjuvant therapy with the AG regimen or investigator-selected adjuvant chemotherapy (gemcitabine monotherapy or gemcitabine combined with capecitabine). Adjuvant therapy will begin 21-56 days post-surgery, and the total duration of preoperative neoadjuvant and postoperative adjuvant therapy will be 6 months. Subjects will continue adjuvant therapy until the planned treatment duration is completed, or until disease recurrence, intolerable toxicity, withdrawal of informed consent, loss to follow-up, death, or other treatment discontinuation criteria are met (whichever occurs first). After discontinuation of study treatment, subjects will undergo safety follow-up and survival follow-up.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07415525",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07415525"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-02-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07415525"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "borderline resectable pancreatic adenocarcinoma",
+  "Claudin 18.2 positive",
+  "neoadjuvant therapy"
+ ],
+ "title": "IBI343 Combined With Chemotherapy as Neoadjuvant Therapy in Borderline Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Borderline Resectable Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "yiwenchen0705@126.com",
+    "name": "Yiwen Chen, MD.",
+    "phone": "+8619941463683"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* (1)Sign a written Informed Consent Form (ICF), willing and able to comply with the visits and related procedures specified in the protocol.\n* (2)Histopathologically confirmed pancreatic adenocarcinoma.\n* (3)No evidence of distant metastasis as assessed by imaging (must include chest, abdomen, and pelvis). Bone scan or PET/CT may be performed for confirmation if necessary.\n* (4)Confirmed borderline resectable pancreatic cancer as assessed by imaging (abdominal contrast-enhanced CT or contrast-enhanced MRI), with resectability determined according to the NCCN 2025.V2 guidelines for pancreatic cancer.\n* (5)No prior anti-tumor treatment for the studied disease, including surgery, radiotherapy, chemotherapy, targeted therapy, immunotherapy, etc.\n* (6)Age ≥18 years and ≤75 years, regardless of gender.\n* (7)Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1.\n* (8)Expected survival ≥12 weeks.\n* (9)Adequate bone marrow and organ function.\n* (10)Female subjects of childbearing potential or male subjects with female partners of childbearing potential must use effective contraception throughout the treatment period and for 6 months after treatment.\n* (11)Confirmed \\*CLDN18.2 positivity by pathological tissue testing. \\*CLDN18.2 positivity is defined as Claudin18.2 immunohistochemical membrane staining intensity ≥1+ in ≥50% of tumor cells, accepting previous test results, results from the research center, or laboratory test results. Regarding the proportion of CLDN18.2 expression, the investigator and sponsor may dynamically adjust the criteria during the study based on newly generated data and data from other studies.\n\nExclusion Criteria:\n\n* (1)Currently participating in another interventional clinical study, excluding observational (non-interventional) clinical studies or being in the survival follow-up phase of an interventional study.\n* (2)The tumor is a locally recurrent lesion.\n* (3)Received treatment with a strong cytochrome P450 3A4 (CYP3A4) inhibitor within 2 weeks or 5 half-lives (whichever is longer) before the first dose of the investigational drug.\n* (4)Underwent biliary stent implantation or PTCD within 7 days before the first dose of the investigational drug.\n* (5)Received any live vaccine within 4 weeks before the first dose of the investigational drug or plans to receive one during the study period.\n* (6)Underwent major surgical procedures (craniotomy, thoracotomy, laparotomy, or other surgeries defined by the investigator, excluding needle biopsy) within 4 weeks before the first dose of the investigational drug, or has unhealed wounds, ulcers, or fractures; or plans to undergo major surgery during the study period.\n* (7)History of gastrointestinal perforation and/or fistula within the past 6 months before the first dose of the investigational drug, which has not been resolved through surgical treatment.\n* (8)Pyloric obstruction affecting eating or gastric emptying that cannot be improved by jejunal feeding tube placement.\n* (9)Post-implantation of a stent in the digestive tract (referring to the muscular tube from the mouth to the anal canal, including the mouth, pharynx, esophagus, stomach, small intestine (duodenum, jejunum, ileum), large intestine (cecum, appendix, colon, rectum), and anal canal) or trachea. (Excluding stent placement included as part of radical surgery, such as duodenal stent placement in subjects with pancreatic head cancer.)\n* (10)Interstitial lung disease requiring steroid treatment, or a history of interstitial lung disease, non-infectious pneumonia, severely impaired lung function, or uncontrolled pulmonary conditions such as pulmonary fibrosis, severe radiation pneumonitis, acute lung injury, etc., or suspicion of the above conditions during screening.\n* (11)Presence of uncontrolled diseases.\n* (12)History of other primary malignancies.\n* (13)Known history of immunodeficiency.\n* (14)History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n* (15)Previously received antibody-drug conjugate therapy based on topoisomerase inhibitors.\n* (16)For subjects receiving medication, a history of allergy to the corresponding drug or formulation.\n* (17)For subjects receiving medication, contraindications to the corresponding drug.\n* (18)For subjects receiving medication, a history of permanent discontinuation of the corresponding drug due to adverse reactions.\n* (19)Pregnant or breastfeeding female subjects.\n* (20)Other conditions considered by the investigator as not suitable for participation in this study.",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "IBI343"
+  ],
+  "last_update_posted": "2026-02-17",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07415525",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-12-31",
+  "sex": "ALL",
+  "sponsor": "Zhejiang University",
+  "start_date": "2026-02-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

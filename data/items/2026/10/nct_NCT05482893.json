@@ -1,0 +1,105 @@
+{
+ "abstract": "This is a first-in-human, Phase 1/2, open-label, dose escalation and dose expansion and combination study designed to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and preliminary efficacy of Spevatamig (PT886). Patients with the following tumor types will be eligible for screening: unresectable or metastatic gastric adenocarcinoma, gastroesophageal junction (GEJ) adenocarcinoma, biliary tract carcinoma (BTC), pancreatic ductal adenocarcinoma (PDAC) and colorectal carcinoma (CRC).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05482893",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05482893"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2022-08-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Phanes Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05482893"
+ },
+ "summary_ko": "This is a first-in-human, Phase 1/2, open-label, dose escalation and dose expansion and combination study designed to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and preliminary efficacy of Spevatamig (PT886). Patients with the following tumor types will be eligible for screening: unresectable or metastatic gastric adenocarcinoma, gastroesophageal junction (GEJ) adenocarcinoma, biliary tract carcinoma (BTC), pancreatic ductal adenocarcinoma (PDAC) and colorectal carcin…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Spevatamig (PT886) as Monotherapy or in Combination With Chemo and/or Targeted Therapy and/or ICI, for the Treatment of Patients With Advanced Gastrointestinal Cancers, Including Gastric, Gastroesophageal Junction, Pancreatic Ductal or Biliary Tract Carcinomas (the TWINPEAK Study)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Gastric or Gastroesophageal Junction Adenocarcinoma",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Biliary Tract Cancer (BTC)",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinical-trials@phanestx.com",
+    "name": "Phanes Therapeutics",
+    "phone": "858-766-0852"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria\n\n1. 18 years or older and able to sign informed consent and comply with the protocol.\n2. Measurable disease as defined by RECIST V1.1 criteria for solid tumors.\n3. 3\\. Part A: Histologically or cytologically confirmed unresectable advanced or metastatic solid gastric, gastroesophageal junction (GEJ), biliary tract or pancreatic carcinomas previously treated for advanced (metastatic or unresectable) disease or for which treatment is not available or not tolerated.\n\n   Part B: Patients with PDAC and GC/GEJC must meet the same criteria as those in Part A depending on which indication and line of treatment are chosen for expansion. Patients considered 2L with BTC, without actionable genomic mutations. Patients considered 3L with CRC.\n\n   Part C, substudy C1: patients with 2L m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with Paclitaxel. Patients who are HER2 positive are eligible.\n\n   Part C, substudy C2: patients with 1L m/a PDAC will receive Spevatamig (PT886) in combination with Gemcitabine plus nab-Paclitaxel (Abraxane).\n\n   Part C, substudy C3: patients with 1L m/a PDAC will receive Spevatamig (PT886) in combination with Gemcitabine plus FOLFIRINOX/mFFX or NALIRIFOX.\n\n   Part C, substudy C4: Patients with m/a BTC without actionable genomic mutations who have progressed on 1L SOC chemotherapy (GemCis) ± ICI and are eligible for 2L SOC FOLFOX treatment.\n\n   Part C, substudy C5 and C7: Patients with CRC who are considered 3L, TAS-102 treatment naïve, eligible to receive 3L SOC TAS-102 treatment, and able to swallow oral tablets.\n\n   Part C, substudy C6 and C7: Patients with CRC who are considered 3L, and eligible to receive bevacizumab treatment, with no contraindication to bevacizumab\n\n   Part D, substudy D2: patients with m/a BTC with adenocarcinoma histology only, who are treatment naïve for their m/a disease and are eligible for treatment with SOC chemotherapy and ICI.\n\n   Part D, substudy D3: patients with 2L or 3L m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with KEYTRUDA® (pembrolizumab).\n\n   Part D, substudy D4: patients with 1L HER2 negative m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with SOC chemotherapy and KEYTRUDA® (pembrolizumab).\n4. Able to provide a formalin fixed, paraffin embedded (FFPE) tumor tissue sample (preferably fresh biopsy or if not possible, archival tissue) to be assessed for CLDN18.2 expression and other biomarkers.\n5. ECOG performance status of 0 or 1.\n6. Adequate organ function confirmed at screening and within 72 hours of initiating treatment.\n\nKey Exclusion Criteria\n\nPatients are excluded from the study if any of the following criteria apply:\n\n1. Women who are pregnant or lactating.\n2. Women of child-bearing potential (WOCBP) who do not use adequate birth control.\n3. Has an active autoimmune disease that has required systemic treatment in the past 2 years.\n4. Prior CLDN18.2 or CD47 targeting therapies, or SIRPα (signal regulatory protein alpha) targeting agents.\n\nAdditional inclusion and exclusion criteria will apply.",
+  "enrollment": 350,
+  "has_results": false,
+  "interventions": [
+   "Spevatamig (PT886)",
+   "Paclitaxel",
+   "Gemcitabine",
+   "Abraxane",
+   "KEYTRUDA® (pembrolizumab)",
+   "FOLFOX",
+   "CAPOX",
+   "FOLFIRINOX",
+   "TAS 102",
+   "Bevacizumab",
+   "Gemcitabine Combined With Cisplatin",
+   "NALIRIFOX"
+  ],
+  "last_update_posted": "2026-09-28",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 11,
+  "nct_id": "NCT05482893",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "Phanes Therapeutics",
+  "start_date": "2023-03-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

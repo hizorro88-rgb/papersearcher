@@ -1,0 +1,90 @@
+{
+ "abstract": "This will be a phase I/II trial examining the safety and tolerability of pre-operative mFOLFIRINOX in combination with peri-operative oral hydroxychloroquine (FHQ) in the treatment of subjects with adenocarcinoma of the pancreas. Subjects will be staged prior to protocol entry by contrast-enhanced helical abdominal CT scan done using a pancreas mass protocol or EUS. Eligible subjects with biopsy-proven, resectable pancreatic adenocarcinoma without evidence of venous or arterial involvement on CT scan receive HCQ orally in combination with mFOLFIRINOX prior to surgery. Hydroxychloroquine will begin with the first dose of mFOLFIRINOX and continue for 2 weeks post-operatively. Three to six weeks after the last dose of mFOLFIRINOX, patients will undergo surgical exploration and pancreatectomy if technically feasible and all toxicities have resolved. Pathologic specimens will undergo detailed histopathologic and immunohistochemical evaluations with particular attention to the six surgical margins of resection: the bile duct margin (for Whipple specimens), the margin of pancreatic transection, the retroperitoneal margin, the proximal and distal duodenal margins (for Whipple specimens), and the portal vein margin along the pancreatic head (for Whipple specimens) or medial pancreas (for distal pancreatectomies). Tissue specimens will be stored at -80C for future correlative studies of autophagy and tumor response to protocol therapy. Ten to fourteen weeks following completion of successful surgical removal of their tumor, subjects will undergo repeat staging studies per standard of care. Subjects will pursue standard of care adjuvant therapy options at the discretion of their physician.\n\nA subject is deemed evaluable if they have received at least 3 of 4 cycles of chemotherapy and at least 80% of the expected HCQ doses and undergo successful surgical extirpation their disease. Patients will receive daily oral HCQ concurrently with neoadjuvant mFOLFIRINOX, planned for 4 cycles. Each cycle of mFOLFIRINOX is 14 days, therefore 4 cycles will occur over a period of 56 days. Oral HCQ will continue after completion of neoadjuvant chemotherapy and extend 2 weeks post-operatively. Patients will undergo restaging scans after completion of 4 cycles of mFOLFIRINOX. Within 3 to 6 weeks after completion of cycle 4 of mFOLFIRINOX, patients will proceed for surgical resection. Patients will receive surveillance scans 10 to 14 weeks after completion of surgery.\n\nPatients will receive HCQ every day starting at the first dose of mFOLFIRINOX. Capsules of HCQ are available in 200 mg strengths. HCQ will be administered in divided doses (BID) for doses to minimize nausea. Patients should be told to swallow the whole capsule in rapid succession without chewing. The starting phase I dose for HCQ is 400 mg. Before accrual to the next dose level may begin, all patients in a given cohort must complete the 2 months of combination treatment (HCQ + mFOLFIRINOX), permitting toxicities to be assessed.\n\nDose will be assigned to patients using 3+3 Algorithm to identify the MTD. Dose level 1 is 400 mg hydroxychloroquine, dose level 2 is 800 mg hydroxychloroquine, and dose level 3 is 1200 mg hydroxychloroquine. If 0 first-dose DLTs are observed out of 3 patients treated with the first dose-level, the next cohort of 3 patients may be enrolled and treated at the next dose-level. If 1 out of the 3 patients treated with a dose-level experience a first-dose DLT, up to 3 additional patients (6 total) will be enrolled at that dose-level. If only 1 out of these 6 patients experiences a first-dose DLT, then the next cohort of 3 patients may be enrolled and treated at the next dose-level. If ≥2 out of these 6 patients experience first-dose DLTs, then dose escalation is stopped. Additional patients will be enrolled at the prior lower dose-level to achieve a total of 6 patients. If ≥2 out of 3 patients in a cohort experience a first-dose DLT, dose escalation will be stopped. Additional patients will be enrolled at the prior lower dose-level, to achieve a total of 6 patients. If 0 or 1 out of 3 patients at the highest dose-level (1200 mg) experiences a DLT, additional patients will be enrolled to achieve a total of 6 patients. If ≤1 out of these 6 patients experiences a DLT, the 1200mg dose-level will be declared the maximal safe dose administered in this Phase 1 study. If ≥2 patients experience a DLT, additional patients will be enrolled at the prior lower dose-level, for a total of 6 patients. If a DLT occurs in the first patient enrolled in the trial, the first cohort of six patients will be assigned to Level 1. If a cohort of six patients at Level 1 experiences more than one DLT, accrual to the trial will be paused, and the trial will be referred to the GI DSMB for appropriate action. At the conclusion of the dose escalation phase, the DSMB will meet to perform an interim review of safety data prior to establishing the maximum tolerated dose for the phase 2 phase of the trial. The maximum sample size of the study is 40 patients. Cohorts will be accrued until a new cohort would exceed the maximum study size; therefore, the final sample size will be between 35 and 40 patients.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox",
+  "whipple"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04911816",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04911816"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2021-06-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "West Virginia University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04911816"
+ },
+ "summary_ko": "This will be a phase I/II trial examining the safety and tolerability of pre-operative mFOLFIRINOX in combination with peri-operative oral hydroxychloroquine (FHQ) in the treatment of subjects with adenocarcinoma of the pancreas. Subjects will be staged prior to protocol entry by contrast-enhanced helical abdominal CT scan done using a pancreas mass protocol or EUS.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Neoadjuvant mFOLFIRINOX With Perioperative Oral Hydroxychloroquine in Resectable Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Adenocarcinoma of the Pancreas"
+  ],
+  "contacts": [
+   {
+    "email": "brian.boone@hsc.wvu.edu",
+    "name": "Brian Boone",
+    "phone": "304-598-4000"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria\n\n* Subjects with biopsy-proven adenocarcinoma of the pancreas\n* Pancreatic protocol helical CT scan demonstrating absence of venous or arterial involvement, consistent with NCCN guidelines for resectable disease\n* ECOG performance status ≤ 1\n* No active second malignancy except for basal cell carcinoma of the skin\n* Normal renal, hepatic, and hematologic function at the time of enrollment as evidenced by:\n\n  * Serum creatinine level ≤1.5 the upper limits of normal\n  * Serum total bilirubin level ≤1.5 X ULN\n* White blood cell count ≥ 3.5x109/ml per ml and platelet count ≥ 100x109 per ml\n* For subjects with obstructive jaundice, the biliary tract must be drained with a temporary plastic or a short permanent metallic biliary stent\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria\n\n* Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection.\n* Subjects who have received chemotherapy within 12 months prior to study entry.\n* Subjects who are found to have loss-of-function mutations in DPYD or UGTA1 by Oneome pharmacogenomic testing, resulting in increased risk of mFOLFIRINOX toxicity. DPYD mutations have been noted in 5% of the overall population. Homozygous UGT1A1 mutations have been noted in 10% of North Americans.\n* Prior use of radiotherapy or investigational agents for pancreatic cancer.\n* Any evidence of metastasis to distant organs (liver, lung, peritoneum).\n* Cross sectional imaging suggesting portal vein, superior mesenteric artery, hepatic artery involvement that would make the patient borderline resectable or locally advanced\n* Symptomatic or endoscopic evidence of gastric outlet obstruction.\n* Concurrent malignancies with evidence of active or measurable disease except basal cell carcinoma of the skin.\n* Inability to adhere to study and/or follow-up procedures.\n* History of allergic reactions or hypersensitivity to the study drugs (chloroquine, hydroxychloroquine, 5-Fluorouracil, Leucovorin, Oxaliplatin, Irinotecan).\n* Other concurrent experimental therapy.\n* The effects of HCQ, and mFOLFIRINOX on the developing human fetus are unknown. For this reason women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. All females of childbearing potential must have a blood test or urine study within two weeks prior to registration to rule out pregnancy. Should a woman become pregnant while participating in this study, she should inform her treating physician immediately. If a man impregnates a woman while participating in this study, he should inform his treating physician immediately as well.\n* Because patients with immune deficiency are at increased risk of lethal infections when treated with bone marrow-suppressive therapy, HIV-positive patients are excluded from the study. For patients receiving combination anti-retroviral therapy, the potential impact of pharmacokinetic interactions with HCQ and mFOLFIRINOX is unknown. Appropriate studies may be undertaken in patients with HIV and those receiving combination anti-retroviral therapy in the future.\n* Due to the risk of disease exacerbation, patients with porphyria are ineligible.\n* Patients with psoriasis are ineligible unless the disease is well controlled and they are under the care of a specialist who agrees to monitor the patient for exacerbations.\n* Patients requiring the use of enzyme-inducing anti-epileptic medication that includes: phenytoin, carbamazepine, phenobarbital, primidone or oxcarbazepine are excluded.\n* Patients with previously documented macular degeneration or diabetic retinopathy are excluded.\n* Baseline EKG with QTc \\>470 msec (including subjects on medication). Subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis.",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "Hydroxychloroquine sulfate"
+  ],
+  "last_update_posted": "2026-04-20",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04911816",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-06",
+  "sex": "ALL",
+  "sponsor": "West Virginia University",
+  "start_date": "2021-07-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

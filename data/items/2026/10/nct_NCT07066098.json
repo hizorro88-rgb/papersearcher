@@ -1,0 +1,88 @@
+{
+ "abstract": "This is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. The primary objective of this study is to determine Overall Survival (OS) of IBI343 plus best supportive care (BSC) compared with placebo plus BSC.\n\nThis is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. It is planned to enroll 201 participants, and participants will be randomized to receive IBI343 plus BSC or placebo plus BSC in a 2:1 ratio.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07066098",
+ "importance": 0.99,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07066098"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-07-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Innovent Biologics (Suzhou) Co. Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07066098"
+ },
+ "summary_ko": "This is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. The primary objective of this study is to determine Overall Survival (OS) of IBI343 plus best supportive care (BSC) compared with placebo plus BSC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "penglei.zheng@innoventbio.com",
+    "name": "Penglei Zheng",
+    "phone": "86-512-69566088"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Sign the written informed consent form (ICF) and be willing and able to comply with the visits and related procedures stipulated in the plan.\n2. Histologically confirmed unresectable locally advanced, or metastatic pancreatic cancer.\n3. Have received and progression after at least two systemic therapies(must including a fluorouracil-based and a gemcitabine-based therapy).\n4. ECOG PS score of 0 or 2.\n5. Adequate bone marrow and organ function\n6. Confirmed as CLDN18.2 positive.\n\nExclusion Criteria:\n\n1. Participation in another interventional study, except observational or post-intervention follow-up.\n2. Prior treatment with topoisomerase inhibitor-based ADC.\n3. Has received the last dose of an anti-cancer therapy within 2 weeks or 5 half-lives (whichever is shorter) prior to the first dose of study treatment.\n4. Plans to receive other anti-tumor treatments during treatment with the study drug (palliative radiotherapy for symptomatic (e.g., pain) relief that does not affect response assessment is allowed) .\n5. Symptomatic CNS metastasis; asymptomatic brain metastases may be allowed with specific criteria.\n6. History of other primary malignancies, except cured or low-risk of recurrence.",
+  "enrollment": 201,
+  "has_results": false,
+  "interventions": [
+   "IBI343",
+   "Placebo"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07066098",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-06-30",
+  "sex": "ALL",
+  "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+  "start_date": "2025-07-17",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

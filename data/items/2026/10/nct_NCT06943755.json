@@ -1,0 +1,145 @@
+{
+ "abstract": "The primary purpose of this study is to assess the effectiveness of zanzalintinib compared to everolimus in participants with previously treated, unresectable, locally advanced or metastatic neuroendocrine tumors.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06943755",
+ "importance": 0.96,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06943755"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2025-04-24",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Exelixis",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06943755"
+ },
+ "summary_ko": "The primary purpose of this study is to assess the effectiveness of zanzalintinib compared to everolimus in participants with previously treated, unresectable, locally advanced or metastatic neuroendocrine tumors.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Metastatic Cancer",
+  "Locally Advanced Cancer",
+  "Neuroendocrine Tumor (NET)",
+  "신경내분비종양"
+ ],
+ "title": "Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Neuroendocrine Tumor (pNET)",
+   "Extra-Pancreatic Neuroendocrine Tumor (epNET)"
+  ],
+  "contacts": [
+   {
+    "email": "druginfo@exelixis.com",
+    "name": "Exelixis Clinical Trials",
+    "phone": "1-888-EXELIXIS (888-393-5494)"
+   },
+   {
+    "email": null,
+    "name": "Backup or International",
+    "phone": "650-837-7400"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria:\n\n* Histologically confirmed, locally advanced/unresectable or metastatic, well-differentiated Grade 1, 2, or 3 NETs of pancreatic origin or extra-pancreatic origin.\n* Allowed prior lines of therapy, based on the site of NET and functional status.\n* Documented radiographic disease progression per RECIST 1.1, as assessed by the Investigator based on imaging assessments (computed tomography \\[CT\\] or magnetic resonance imaging \\[MRI\\]) within 12 months before randomization.\n* Measurable disease according to RECIST 1.1 as determined by the Investigator.\n* Archival tumor tissue is required, if available. If archival tumor tissue is not available, a fresh biopsy may be submitted if it can be safely and feasibly obtained. Every attempt should be made to provide tumor tissue.\n\nKey Exclusion Criteria:\n\n* Histologically confirmed neuroendocrine carcinomas (including small cell lung cancer), medullary thyroid cancer, pheochromocytoma, paraganglioma, Merkel cell carcinoma, and mixed neuroendocrine non-neuroendocrine neoplasm (MiNEN).\n* Prior treatment with a vascular endothelial growth factor receptor (VEGFR) -targeting tyrosine kinase inhibitor or a mammalian target of rapamycin (mTOR) inhibitor.\n* Systemic chemotherapy and any liver-directed or other ablative therapy within 4 weeks before randomization.\n* Systemic radionuclide therapy within 6 weeks before randomization.\n* Radiation therapy for bone metastases within 2 weeks, any other radiation therapy, except as indicated above, within 4 weeks before randomization.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+  "enrollment": 440,
+  "has_results": false,
+  "interventions": [
+   "Zanzalintinib",
+   "Everolimus"
+  ],
+  "last_update_posted": "2026-09-29",
+  "location_countries": [
+   "Australia",
+   "Austria",
+   "Belgium",
+   "Brazil",
+   "Canada",
+   "China",
+   "France",
+   "Germany",
+   "Italy",
+   "Netherlands",
+   "Poland",
+   "Puerto Rico",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Korea University Anam Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severence Hospital, Yonsei University Health System",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 131,
+  "nct_id": "NCT06943755",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2029-06-30",
+  "sex": "ALL",
+  "sponsor": "Exelixis",
+  "start_date": "2025-07-21",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

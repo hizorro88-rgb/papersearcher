@@ -1,0 +1,172 @@
+{
+ "abstract": "The purpose of this study is to evaluate the efficacy and safety of standard chemotherapy with or without INCB161734 in participants with metastatic pancreatic ductal adenocarcinoma (PDAC).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07522073",
+ "importance": 0.93,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07522073"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-04-13",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Incyte Corporation",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07522073"
+ },
+ "summary_ko": "The purpose of this study is to evaluate the efficacy and safety of standard chemotherapy with or without INCB161734 in participants with metastatic pancreatic ductal adenocarcinoma (PDAC).",
+ "summary_source": "excerpt",
+ "tags": [
+  "INCB161734",
+  "KRASG12D Mutation",
+  "pancreatic ductal adenocarcinoma (PDAC)",
+  "KRAS G12D inhibitor",
+  "KRAS inhibitor",
+  "KRAS mutation",
+  "pancreatic cancer",
+  "metastatic pancreatic cancer"
+ ],
+ "title": "A Study to Evaluate Chemotherapy With or Without INCB161734 in Previously Untreated, KRAS G12D-Mutated Metastatic Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "medinfo@incyte.com",
+    "name": "Incyte Corporation Call Center (US)",
+    "phone": "1.855.463.3463"
+   },
+   {
+    "email": "eumedinfo@incyte.com",
+    "name": "Incyte Corporation Call Center (ex-US)",
+    "phone": "+800 00027423"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic PDAC with a KRAS G12D mutation\n* No prior systemic treatment in the metastatic setting\n* ECOG Performance status 0-1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior treatment with any KRAS inhibitor\n* Chronic or current active infection requiring systemic treatment within 1 week prior to the first dose of study drug\n* Known active CNS metastases\n\nOther protocol-defined Inclusion/Exclusion Criteria may apply.",
+  "enrollment": 588,
+  "has_results": false,
+  "interventions": [
+   "INCB161734",
+   "Placebo",
+   "Investigator's choice of chemotherapy"
+  ],
+  "last_update_posted": "2026-09-22",
+  "location_countries": [
+   "Australia",
+   "Austria",
+   "Belgium",
+   "Canada",
+   "Denmark",
+   "Finland",
+   "France",
+   "Georgia",
+   "Germany",
+   "Italy",
+   "Japan",
+   "Netherlands",
+   "New Zealand",
+   "Norway",
+   "Poland",
+   "Puerto Rico",
+   "South Korea",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Goyang-si",
+    "country": "South Korea",
+    "facility": "Investigative Site KR004",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Investigative Site KR007",
+    "status": "NOT_YET_RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Investigative Site KR005",
+    "status": "NOT_YET_RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Investigative Site KR002",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Investigative Site KR006",
+    "status": "NOT_YET_RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Investigative Site KR001",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Investigative Site KR003",
+    "status": "NOT_YET_RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Investigative Site KR008",
+    "status": "NOT_YET_RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 228,
+  "nct_id": "NCT07522073",
+  "phase": "PHASE3",
+  "primary_completion_date": "2028-09-15",
+  "sex": "ALL",
+  "sponsor": "Incyte Corporation",
+  "start_date": "2026-04-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

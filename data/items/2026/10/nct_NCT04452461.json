@@ -1,0 +1,96 @@
+{
+ "abstract": "This is a single-arm, single-center feasibility trial of patients with borderline resectable pancreatic adenocarcinoma receiving chemotherapy with mFOLFIRINOX or gemcitabine / nab-paclitaxel followed by pancreatectomy.\n\nBorderline resectable pancreatic adenocarcinoma infiltrates into adjacent vascular structures to an extent such that complete macroscopic resection is technically feasible, but an R0 resection poses a challenge when surgery is the primary therapy. Therefore, a different management strategy may be beneficial.\n\nThe primary outcome of the PANCREAS trial is defined as the proportion of eligible patients enrolled in the study over an 18-month period and the proportion of patients who complete the protocol (neoadjuvant therapy and pancreatectomy). Certain modifications of the neoadjuvant therapy protocol are expected and allowed, and the primary feasibility outcome will be one of the following: stop, main study non-feasible; continue with protocol modifications; or continue without modification. A safety analysis will be performed after first 15 patients are enrolled and complete neoadjuvant therapy and surgery. Patients enrolled in this trial will undergo interventions in the following order: neoadjuvant chemotherapy, re-staging CT scan, pancreatectomy and adjuvant chemotherapy. Postoperative mortality will be recorded up to 90 days after surgery. Patients will be followed every four months with a CT scan of the chest/abdomen for two years after resection or until evidence of disease recurrence. Patients who do not undergo surgical resection will be followed for two years after accrual (duration of study period) or until evidence of disease progression or death.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04452461",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04452461"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2020-06-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hamilton Health Sciences Corporation",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04452461"
+ },
+ "summary_ko": "This is a single-arm, single-center feasibility trial of patients with borderline resectable pancreatic adenocarcinoma receiving chemotherapy with mFOLFIRINOX or gemcitabine / nab-paclitaxel followed by pancreatectomy. Borderline resectable pancreatic adenocarcinoma infiltrates into adjacent vascular structures to an extent such that complete macroscopic resection is technically feasible, but an R0 resection poses a challenge when surgery is the primary therapy.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Pancreatic Adenocarcinoma Neoadjuvant Chemotherapy Before Surgery",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "ruol@mcmaster.ca",
+    "name": "Leyo Ruo, MD",
+    "phone": "905-521-2100"
+   },
+   {
+    "email": "serrano@mcmaster.ca",
+    "name": "Pablo E Serrano, MD",
+    "phone": "905-521-2100"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Men and women 18 years of age or older who present with biopsy proven borderline resectable pancreatic adenocarcinoma who are medically fit for surgery as per assessment by treating surgeon.\n\n  2\\. Age ≤ 79 years 3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1 4. Normal bone marrow and organ function\n  1. Absolute neutrophil count (ANC) = or \\> 1500, platelets \\> 100K\n  2. Total bilirubin \\<1.5x upper limit of normal (ULN)\n  3. Alanine transaminase (ALT), Aspartate aminotransferase (AST) \\< 3 x ULN\n  4. Creatinine \\<150umol/L\n  5. Normal prothrombin time and international normalized ratio (INR) 5. Able to provide written informed consent\n\nExclusion Criteria:\n\n1. Proven metastatic disease (e.g. on imaging modality such as CT scan of the chest, abdomen and pelvis or MRI)\n2. Locally advanced pancreatic cancer (see definition section 3.3)\n3. Prior treatment with radiation therapy to the pancreas or associated field.\n4. Contraindications to receive chemotherapy\n5. History of cardiac disease including congestive heart failure (New York Heart Association class 2), active coronary artery disease or uncontrolled hypertension\n6. Concurrent ongoing systemic infections\n7. Illegal substance abuse, or social conditions that may interfere with patient's participation in the trial\n8. Pre-existing neuropathy\n9. Pregnant patients",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "mFOLFIRINOX",
+   "Gemcitabine / Nab-paclitaxel"
+  ],
+  "last_update_posted": "2024-10-10",
+  "location_countries": [
+   "Canada"
+  ],
+  "locations_kr": [],
+  "max_age": "79 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04452461",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-12-12",
+  "sex": "ALL",
+  "sponsor": "Hamilton Health Sciences Corporation",
+  "start_date": "2021-03-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

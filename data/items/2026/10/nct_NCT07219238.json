@@ -1,0 +1,107 @@
+{
+ "abstract": "This study is a Phase 2/3, prospective, multicenter, open-label, non-randomized clinical trial, in which GEH300079 (68Ga) PET/CT images will be acquired in patients with primary colorectal, gastric, ovarian, or Pancreatic Ductal Adenocarcinoma (PDAC) cancers and known or suspected Peritoneal Carcinomatosis (PC) before or after institutional Standard of Care (SoC) imaging. The primary objective is to evaluate the diagnostic performance of GEH300079 (68Ga) PET/CT for the detection of PC in patients with colorectal, gastric, or ovarian primary cancers, using a composite standard of truth (SoT), in a region-based analysis. The detection of PC in patients with primary PDAC will be explored in the Phase 2 part of the study.\n\nThe study is comprised of 2 distinct parts: Phase 2 aims to confirm the statistical and scientific assumptions for the Phase 3 part, and to confirm the optimal dose and timing of acquisition of GEH300079 (68Ga) PET/CT in the PC indication. Phase 2 includes 2 cohorts: Cohort A (participants with colorectal, ovarian and gastric primary cancer), and Cohort B (participants with primary PDAC), where analysis of Cohort B is descriptive only. Phase 3 aims to demonstrate the safety and efficacy of GEH300079 (68Ga) PET/CT for the detection of PC in patients with confirmed colorectal, gastric or ovarian primary cancers.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07219238",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07219238"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2025-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "GE Healthcare",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07219238"
+ },
+ "summary_ko": "This study is a Phase 2/3, prospective, multicenter, open-label, non-randomized clinical trial, in which GEH300079 (68Ga) PET/CT images will be acquired in patients with primary colorectal, gastric, ovarian, or Pancreatic Ductal Adenocarcinoma (PDAC) cancers and known or suspected Peritoneal Carcinomatosis (PC) before or after institutional Standard of Care (SoC) imaging. The primary objective is to evaluate the diagnostic performance of GEH300079 (68Ga) PET/CT for the detection of PC in patient…",
+ "summary_source": "excerpt",
+ "tags": [
+  "Peritoneal Carcinomatosis (PC)",
+  "Pancreatic Cancers",
+  "Colorectal cancer",
+  "Gastric cancer",
+  "FAPI",
+  "Ovarian cancer",
+  "68Ga",
+  "PET/CT imaging",
+  "Diagnostic imaging",
+  "Diagnostic performance"
+ ],
+ "title": "Study to Evaluate the Diagnostic Performance of GEH300079 (68Ga) Injection PET/CT for Detection of PC in Patients With Colorectal, Gastric, Ovarian, or Pancreatic Cancers (PERISCOPE)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colorectal Cancer",
+   "Gastric Cancers",
+   "Ovarian Cancers",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "michelle.straszacker@gehealthcare.com",
+    "name": "Michelle Straszacker",
+    "phone": "+44 7827 845147"
+   },
+   {
+    "email": "christopher.buckley@gehealthcare.com",
+    "name": "Christopher Buckley",
+    "phone": "+ 44 7786 701174"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participant is ≥18 years of age\n* Participant has provided signed informed consent before any study-specific screening procedures\n* Participant has histopathologically confirmed primary colorectal, gastric or ovarian cancer or PDAC\n* Participant has known or suspected PC from the tumor of origin. Suspicion may be based on imaging or clinical findings.\n* Participant is scheduled for peritoneal surgery with curative intent, surgical exploration, or laparoscopy, with either: a. No neoadjuvant treatment received, treatment-naïve (i.e., undergoing upfront surgery or laparoscopy) b. Completed systemic treatment (which may include neoadjuvant chemotherapy) before GEH300079 ( 68Ga) PET/CT Imaging Visit\n* Participant has Eastern Cooperative Oncology Group (ECOG) performance status ≤2\n* Participant is able and willing to comply with all study procedures as described in the protocol\n\nExclusion Criteria:\n\n* Participant is pregnant or breast-feeding, or sexually active and not using or not willing to use an acceptable form of birth control from screening up to 30 days after receiving the investigational medicinal product (IMP)\n* Participant has a known disorder that, in the opinion of the investigator, will impact the study procedures\n* Participant needs any intervention that would delay study participation\n* Participant has non-resectable extra-abdominal metastasis and/or \\>3 hepatic metastases on standard work up\n* Participant will not be able to complete the study, based on their anticipated life expectancy\n* Participant has active bacterial, viral, or fungal infection requiring systemic antibacterial, anti-viral or antifungal therapy (topical medications are permitted)\n* Participant has renal function impairment as defined by:\n\n  1. For Phase 2: estimated glomerular filtration rate less than 60 mL/min\n  2. For Phase 3: estimated glomerular filtration rate less than 30 mL/min\n* Participant has severe hepatic function impairment as defined by:\n\n  1. Aspartate aminotransferase (serum glutamic-oxaloacetic transaminase) and alanine aminotransferase (serum glutamic-pyruvic transaminase): ≤2.5 × upper limit of normal (ULN; ≤5 × ULN for participants with liver metastases)\n  2. Bilirubin: ≤1.5 × ULN or direct bilirubin ≤ULN for participants with total bilirubin levels \\>1.5 × ULN\n* Participant has autoimmune disease that required systemic treatment in the past 2 years. Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid) is allowed\n* Participant has serious co-morbidities or serious non-malignant disease that in the opinion of the investigator, could compromise participant safety and/or protocol objectives\n* Participant either received or is planning to receive any other investigational agent within the 28 days prior to the first imaging visit or during study participation (with the exception of the 3-month follow-up period)\n* Participant has known or suspected hypersensitivity to any excipients used in GEH300079 (68Ga)\n* Participant has severe claustrophobia, is unable to lie flat or fit into the scanner, or is unable to tolerate the PET/CT scan for any reason\n* (Phase 3 only) Participant was previously included in Phase 2 of this study",
+  "enrollment": 175,
+  "has_results": false,
+  "interventions": [
+   "GEH300079 (68Ga) Injection Positron-Emission Tomography (PET)/Computed Tomography (CT)"
+  ],
+  "last_update_posted": "2026-06-17",
+  "location_countries": [
+   "Sweden",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07219238",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2029-06",
+  "sex": "ALL",
+  "sponsor": "GE Healthcare",
+  "start_date": "2026-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

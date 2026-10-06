@@ -1,0 +1,92 @@
+{
+ "abstract": "This is an investigator-initiated, open-label, single-arm, phase II trial evaluating the efficacy and safety of serplulimab (an anti-PD-1 monoclonal antibody) plus bevacizumab, combined with either FOLFIRINOX or NALIRIFOX chemotherapy, as second-line treatment for metastatic pancreatic ductal adenocarcinoma. The study will enrol up to 34 patients.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07733050",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07733050"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-07-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai General Hospital, China",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07733050"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Efficacy and Safety of Serplulimab in Combination With Bevacizumab and FOLFIRINOX or NALIRIFOX as Second-Line Therapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "fairywong04285@163.com",
+    "name": "Fan wang",
+    "phone": "13564260428"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Voluntary participation with signed written informed consent, good compliance, and willingness to adhere to follow-up visits.\n* Age ≥ 18 years, male or female.\n* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1 and life expectancy ≥ 3 months.\n* Histologically or cytologically confirmed locally advanced unresectable or metastatic pancreatic adenocarcinoma.\n* Must have received prior first-line (1L) systemic therapy. Prior neoadjuvant or adjuvant chemotherapy is allowed if the last treatment was administered \\> 6 months before disease recurrence/progression.\n* No prior exposure to irinotecan or oxaliplatin.\n* At least one measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n* Adequate major organ function, defined as follows:\n\nHematology: Hemoglobin ≥ 90 g/L (no transfusion within 14 days); Absolute Neutrophil Count ≥ 1.5 × 10⁹/L; Platelets ≥ 75 × 10⁹/L.\n\nBiochemistry: Total bilirubin ≤ 1.5 × upper limit of normal (ULN); ALT and AST ≤ 3 × ULN (or ≤ 5 × ULN in the presence of liver metastases); Serum creatinine ≤ 1 × ULN with calculated creatinine clearance \\> 50 mL/min (Cockcroft-Gault formula).\n\nCoagulation: International Normalized Ratio (INR) and Activated Partial Thromboplastin Time (APTT) ≤ 1.5 × ULN (or within therapeutic range for patients on stable anticoagulation).\n\nThyroid: Normal TSH, or abnormal TSH with normal FT3/FT4 (e.g., controlled hypothyroidism).\n\nCardiac: QTc interval (Fridericia's formula) ≤ 450 ms for males and ≤ 470 ms for females.\n\n\\- Female participants of childbearing potential must have a negative serum pregnancy test within 7 days prior to the first dose and agree to use effective contraception during the study and for 6 months after the last dose. Male participants with female partners of childbearing potential must agree to use effective contraception during the study and for 6 months after the last dose.\n\nExclusion Criteria:\n\n* Prior treatment with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibodies, or any other agents specifically targeting T-cell co-stimulation or immune checkpoint pathways.\n* Prior treatment with bevacizumab or other anti-angiogenic agents. Radiological evidence of major vascular tumor invasion or high risk of fatal hemorrhage; active gastrointestinal bleeding, persistent bleeding disorders, or coagulopathy.\n* Radiotherapy (except for palliative reasons), endocrine therapy, chemotherapy, immunotherapy, or molecular targeted therapy within 4 weeks prior to the first dose (bisphosphonates for bone metastases are allowed).\n* Uncontrolled central nervous system (CNS) metastases (i.e., symptomatic or requiring corticosteroids or mannitol for symptom control).\n* Clinically significant or uncontrolled cardiac disease within 6 months prior to the first dose, including congestive heart failure, angina pectoris, myocardial infarction, or ventricular arrhythmias.\n* Persistent toxicities from prior therapy ≥ Grade 1 (per NCI-CTCAE v5.0), including Grade 1 peripheral neuropathy. Exceptions: alopecia or conditions deemed not exclusionary by the investigator (with clear documentation).\n* Other active malignancy within 5 years prior to the first dose, except for adequately treated basal cell carcinoma of the skin or cervical carcinoma in situ.\n* Active autoimmune disease requiring systemic treatment within 2 years prior to the first dose. Exceptions: vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune thyroiditis requiring only hormone replacement therapy.\n* History of immediate hypersensitivity reactions, eczema, or asthma not controlled by topical corticosteroids.\n* History of drug-induced interstitial lung disease (ILD), pneumonitis, obstructive pulmonary disease severely affecting lung function, or symptomatic bronchospasm.\n* Severe infection (\\> CTCAE Grade 2) requiring antibiotic therapy within 14 days prior to the first dose (e.g., severe pneumonia, bacteremia, infectious complications requiring hospitalization).\n* Receipt of live-attenuated vaccine within 4 weeks prior to the first dose, or planned vaccination during the study period.\n* Known human immunodeficiency virus (HIV) infection, history of allogeneic organ transplantation, or allogeneic hematopoietic stem cell transplantation.\n* History of allergy or hypersensitivity to any component or excipient of the investigational drugs.\n* Any other condition deemed by the investigator to be unsuitable for participation in the study.",
+  "enrollment": 34,
+  "has_results": false,
+  "interventions": [
+   "Serplulimab and Bevacizumab injection",
+   "FOLFIRINOX/NALIRIFOX",
+   "S-1"
+  ],
+  "last_update_posted": "2026-07-29",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07733050",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-08-01",
+  "sex": "ALL",
+  "sponsor": "Shanghai General Hospital, China",
+  "start_date": "2026-08-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

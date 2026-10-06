@@ -1,0 +1,87 @@
+{
+ "abstract": "This study is a randomized, open-label, multicenter Phase II clinical trial designed to evaluate the Safety, Tolerability and Preliminary Efficacy of HRS-4642 Combination with Other Antitumor Therapies in Patients with Solid Tumors",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07296341",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07296341"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-12-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07296341"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "HRS-4642 Combination With Other Antitumor Therapies in Patients With Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced or Metastatic Pancreatic Cancer With"
+  ],
+  "contacts": [
+   {
+    "email": "zengquan.gu@hengrui.com",
+    "name": "Zengquan Gu",
+    "phone": "0518-82342973"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age range of 18-75 years old (inclusive of both ends), gender not limited when signing the informed consent form\n2. ECOG performance status 0 or 1\n3. Life expectancy of greater than or equal to 12 weeks.\n4. Subjects with unresectable local advanced or metastatic pancreatic cancer, and pancreatic duct adenocarcinoma confirmed by histopathology\n5. Provide tumor tissue blocks fixed in formalin, embedded in paraffin, or unstained tumor specimen sections, which can be archived or freshly obtained within 3 years prior to the first study treatment (fresh acquisition is preferred).\n6. At least one measurable lesion is present according to the efficacy evaluation criteria for pancreatic cancer (RECIST 1.1)\n\nExclusion Criteria:\n\n1. Accompanied by untreated or active central nervous system (CNS) tumor metastasis\n2. Failure to recover toxicity and/or complications from previous interventions to NCI-CTCAE ≤ Level 1 or the levels specified by inclusion and exclusion criteria\n3. Subjects known or suspected to have interstitial pneumonia\n4. According to the common adverse reaction event evaluation criteria NCI-CTCAE v5.0, patients with ≥ grade 3 serous fluid accumulation or imaging evidence of a large amount of abdominal fluid accumulation (those who require therapeutic puncture and drainage within 2 weeks before starting the study treatment, only those with imaging showing a small amount of ascites and no clinical symptoms can be enrolled)\n5. Acute or chronic pancreatitis with significant clinical significance",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "HRS-4642;Adebrelimab Injection; nab-paclitaxel; gemcitabine",
+   "HRS-4642;nab-paclitaxel; gemcitabine"
+  ],
+  "last_update_posted": "2026-01-14",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07296341",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-10",
+  "sex": "ALL",
+  "sponsor": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+  "start_date": "2026-01-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

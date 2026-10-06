@@ -1,0 +1,87 @@
+{
+ "abstract": "This trial was a single-arm, open-label design to evaluate the efficacy and safety of \"TQB2916+ gemcitabine + albumin-paclitaxel\" as the first-line treatment for metastatic pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06962267",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06962267"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-05-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06962267"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Clinical Study on the First-line Treatment of Metastatic Pancreatic Cancer With TQB2916 Injection Combined With Gemcitabine Hydrochloride for Injection and Paclitaxel for Injection (Albumin-bound Type)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "Bayi@tjmuch.com",
+    "name": "Yi Ba, Doctor",
+    "phone": "13752157916"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* The subjects voluntarily joined this study and signed the informed consent form;\n* Age: 18-75 years old (the time of signing the informed consent form, including the critical value);\n* Pancreatic ductal adenocarcinoma confirmed by tissue or cytology (excluding other mixed pancreatic cancers);\n* Have at least one measurable lesion according to the RECIST 1.1 standard;\n* Without any systematic anti-tumor treatment;\n* The Eastern Cooperative Oncology Group (ECOG) score is 0-1, and the expected survival period is more than 3 months;\n* The main organs function well;\n* Patients must adopt reliable contraceptive measures during the study period and within 6 months after the end of the study period;The serum pregnancy test must be negative within 7 days before enrollment in the study, and the subjects must be non-lactating.\n\nExclusion Criteria:\n\n* Comorbid diseases and medical history:\n\n  1. Within 5 years, the subject has had or simultaneously suffered from other malignant tumors (except for cured basal cell carcinoma of the skin and carcinoma in situ of the cervix);Patients with other malignant tumors, but the following two situations can be enrolled: other malignant tumors treated by single surgery, achieving R0 resection and no recurrence or metastasis within 5 years;Cured cervical carcinoma in situ, cutaneous basal cell carcinoma, nasopharyngeal carcinoma and superficial bladder tumors \\[Ta (non-invasive tumor), Tis (carcinoma in situ) and T1 (tumor-infiltrating basement membrane)\\];\n  2. Unrelieved toxic reactions above Common Terminology Criteria for Adverse Events (CTCAE) grade 1 caused by any previous treatment, excluding alopecia;\n  3. Have received major surgical treatment, obvious traumatic injury, or have long-term unhealed wounds or fractures within 28 days before the first medication;\n  4. Patients who experienced any bleeding or bleeding events ≥CTCAE grade 3 within 4 weeks before the first administration;\n  5. Those who have experienced hyperarterial/venous thrombotic events within 6 months before the first administration, such as cerebrovascular accidents (including transient ischemic attacks), deep vein thrombosis and pulmonary embolism.\n  6. hepatitis B virus (HBV) virus-infected individuals cannot receive regular antiviral treatment throughout the entire course.Hcv-infected individuals (HCV Ab or HCV RNA positive) : Researchers determine that they are in an unstable state or need to continue antiviral treatment. They cannot receive regular antiviral treatment in the study.\n  7. Active syphilis patients;\n  8. Those with a history of abuse of psychotropic drugs and who are unable to quit or have mental disorders;\n  9. Symptomatic interstitial lung disease, as well as conditions that may cause drug-induced pulmonary toxicity or associated pneumonia;\n  10. Subjects with any severe and/or uncontrolled diseases.\n* Tumor-related symptoms and treatments:\n\n  1. Imaging (CT or MRI) shows that the tumor has invaded around important blood vessels, and the researcher determines that the tumor is highly likely to invade important blood vessels and cause fatal massive hemorrhage during the subsequent study period;\n  2. Subjects with known central nervous system metastases and/or cancerous meningitis;\n  3. Uncontrolled pleural effusion, pericardial effusion or ascites that still require repeated drainage (as determined by the researcher).\n* Research treatment-related:\n\n  1. There is a history of severe allergy to large molecule drugs in the past, or allergy to known components of TQB2916 injection;\n  2. Those who received chronic treatment with systemic hormones or other immunosuppressants (dose \\>10mg/ day prednisone or other equivalent therapeutic hormones) within 28 days before the start of administration in this study and still need to continue using hormones or immunosuppressants within 2 weeks after the first trial administration (except temporarily);\n  3. The history of attenuated live vaccine inoculation within 28 days before the start of the study treatment or the planned attenuated live vaccine inoculation during the study period;\n  4. An active autoimmune disease that required systemic treatment (such as the use of disease-relieving drugs, corticosteroids or immunosuppressants) occurred within 2 years prior to the first medication.\n* Participated in clinical trials of other anti-tumor drugs within 28 days before the start of administration in this study;\n* Subjects who, based on the researcher's judgment, have concomitant diseases that seriously endanger the safety of the subjects or affect the completion of the study, or subjects who are considered to have other reasons and are not suitable for enrollment.",
+  "enrollment": 50,
+  "has_results": false,
+  "interventions": [
+   "TQB2916 Injection",
+   "Chemotherapy"
+  ],
+  "last_update_posted": "2025-05-08",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06962267",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-08",
+  "sex": "ALL",
+  "sponsor": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+  "start_date": "2025-04-18",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

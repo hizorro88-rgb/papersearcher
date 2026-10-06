@@ -1,0 +1,133 @@
+{
+ "abstract": "This clinical trial studies the effect of cancer directed therapy given at-home versus in the clinic for patients with cancer that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Currently most drug-related cancer care is conducted in infusion centers or specialty hospitals, where patients spend many hours a day isolated from family, friends, and familiar surroundings. This separation adds to the physical, emotional, social, and financial burden for patients and their families. The logistics and costs of navigating cancer treatments have become a principal contributor to patients' reduced quality of life. It is therefore important to reduce the burden of cancer in the lives of patients and their caregivers, and a vital aspect of this involves moving beyond traditional hospital and clinic-based care and evaluate innovative care delivery models with virtual capabilities. Providing cancer treatment at-home, versus in the clinic, may help reduce psychological and financial distress and increase treatment compliance, especially for marginalized patients and communities.\n\nPRIMARY OBJECTIVE:\n\nI. To compare mean patient-reported rating of Cancer Connected Access and Remote Expertise (CARE) using a modified question from the Consumer Assessment of Healthcare Providers and Systems (CAHPS) Cancer Care Survey after 8 weeks between patients randomized to receive care at home and care in the clinic.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate patient preference for location of cancer treatment administration, at the infusion center or in the home.\n\nII. To evaluate level of comfort with receiving infusions at home based on the following measures after 24 weeks of treatment:\n\nIIa. The proportion of patients who indicate a preference for home infusion or no preference versus outpatient infusion unit administration of cancer treatment as assessed via the Patient Preference Questionnaire; IIb. The proportion of patients who indicate comfort (quite a bit or very much) with receiving infusions at home as assessed by the Patient Preference Questionnaire.\n\nIII. To describe other patient experience questions within the Patient Preference Questionnaire after 24 weeks of treatment.\n\nIV. To describe whether patients felt that infusions at home was worthwhile, would do it again, and recommend it to others after 24 weeks of treatment using the Was It Worth It questionnaire.\n\nV. To test whether home-based virtual delivery of cancer directed therapy is superior to standard administration (in clinic) in patient-reported function and global health/quality of life as measured by the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core Function 17-Item (EORTC QLQ-F17) after 8 weeks of home versus outpatient infusion unit administration of cancer treatment.\n\nVI. To test whether home-based virtual delivery of cancer directed therapy is superior to standard administration (in clinic) in patient-reported symptoms as measured by the Patient-Reported Outcomes-Common Terminology Criteria for Adverse Events (PRO-CTCAE) after 8 weeks of home versus outpatient infusion unit administration of cancer treatment.\n\nVII. To assess the safety of home administered intravenous (IV)/subcutaneous (SQ) drug treatment when administered at home by a home health provider with remote patient monitoring and Command Center support, based on the incidence, nature, severity, and attribution to the location of cancer care of the following:\n\nVIIa. Grade 3+ adverse event (AE) clinically graded using the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 (NCI CTCAE v5.0), particularly those possibly, probably, or definitely related to the location of cancer care (i.e., at home versus in clinic).\n\nVIII. To test whether home-based virtual delivery of cancer directed therapy is superior to standard in clinic administration in the proportion of patients with an emergency room visit or hospitalization at the end of 6 months of study treatment.\n\nIX. Overall survival.\n\nEXPLORATORY OBJECTIVES:\n\nI. To assess the cost of care in first 6 months (data collected out to 1 year). II. To evaluate administration of treatment based on clinical practice data.\n\nOUTLINE:\n\nPatients receive at least 1 cycle of their standard of care (SOC) treatment regimen in the clinic in the absence of disease progression or unacceptable toxicity. Patients are then randomized to 1 of 2 arms.\n\nARM A: Patients continue receiving their SOC treatment regimen at home for approximately 24 weeks in the absence of disease progression or unacceptable toxicity. This includes drug administrations, injections/infusions and routine clinical laboratory tests in the home from the Home Health Nurse Provider (HHNP), overseen by Mayo Clinic's home health program Cancer CARE Beyond Walls (CCBW) Command Center. Patients are also provided biometric devices for health monitoring vital signs, as well as a computer tablet for video visits with the Mayo Clinic care team.\n\nARM B: Patients continue receiving their SOC treatment regimen in the clinic for approximately 8 weeks in the absence of disease progression or unacceptable toxicity. Patients then begin receiving their SOC treatment regimen at home as in Arm I for an approximate additional 16 weeks in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study intervention, patients are followed for 1 year.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05969860",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05969860"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-08-01",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mayo Clinic",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05969860"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "At-Home Cancer Directed Therapy Versus in Clinic for the Treatment of Patients With Advanced Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Anal Carcinoma",
+   "Advanced Biliary Tract Carcinoma",
+   "Advanced Bladder Carcinoma",
+   "Advanced Breast Carcinoma",
+   "Advanced Carcinoid Tumor",
+   "Advanced Cervical Carcinoma",
+   "Advanced Colorectal Carcinoma",
+   "Advanced Gastric Carcinoma",
+   "Advanced Glioblastoma",
+   "Advanced Head and Neck Carcinoma",
+   "Advanced HER2 Positive Breast Carcinoma",
+   "Advanced Lung Carcinoma",
+   "Advanced Lung Small Cell Carcinoma",
+   "Advanced Malignant Germ Cell Tumor",
+   "Advanced Malignant Solid Neoplasm",
+   "Advanced Neuroendocrine Carcinoma",
+   "Advanced Ovarian Carcinoma",
+   "Advanced Pancreatic Carcinoma",
+   "Advanced Prostate Small Cell Neuroendocrine Carcinoma",
+   "Advanced Prostate Carcinoma",
+   "Hematopoietic and Lymphoid System Neoplasm",
+   "Multiple Myeloma",
+   "Myelodysplastic Syndrome",
+   "Advanced Basal Cell Carcinoma",
+   "Advanced Cholangiocarcinoma",
+   "Advanced Endometrial Carcinoma",
+   "Advanced Esophageal Carcinoma",
+   "Advanced Fallopian Tube Carcinoma",
+   "Advanced Hepatocellular Carcinoma",
+   "Advanced Liver Carcinoma",
+   "Advanced Lymphoma",
+   "Advanced Malignant Testicular Neoplasm",
+   "Advanced Melanoma",
+   "Advanced Merkel Cell Carcinoma",
+   "Advanced Penile Carcinoma",
+   "Advanced Primary Malignant Central Nervous System Neoplasm",
+   "Advanced Renal Cell Carcinoma",
+   "Advanced Sarcoma",
+   "Advanced Skin Squamous Cell Carcinoma",
+   "Advanced Urethral Carcinoma",
+   "Advanced Vaginal Carcinoma",
+   "Advanced Vulvar Carcinoma",
+   "Advanced Appendix Carcinoma",
+   "Advanced Gastroesophageal Junction Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "mayocliniccancerstudies@mayo.edu",
+    "name": "Clinical Trials Referral Office",
+    "phone": "855-776-0015"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Female or male patients with histologically confirmed malignancy. Patients with hepatocellular carcinoma (HCC) are eligible based on imaging diagnosis along; histologic confirmation is not required.\n* Participant must be receiving a standard-of-care treatment regimen listed in this protocol that is being used in accordance with standard medical practice. Specifically, it must be either a) FDA-approved for the participant's disease indication, or b) recommended in nationally recognized professional guidelines (e.g. NCCN, ASCO, ASH, etc.) as standard of care for the disease indication. Off-label use is permitted only if supported by such guidelines.\n\n  * Note, patients diagnosed with any of the following disease types may receive any of the eligible regimens listed. Additionally, patients receiving immunotherapy, such as nivolumab or pembrolizumab, may receive these infusions in home supplemental to any of the regimens identified. Patients may receive any combination of any above listed medications or regimens:\n  * Eligible disease cancer types:\n\n    * Anal cancer\n    * Appendiceal carcinoma\n    * Basal cell carcinoma\n    * Bladder cancer\n    * Biliary cancer\n    * Breast cancer\n    * Central Nervous System malignancy including glioblastoma\n    * Cervical cancer\n    * Cholangiocarcinoma\n    * Colorectal carcinoma\n    * Endometrial cancer\n    * Fallopian tube cancer\n    * Gastroesophageal cancer \\[including gastric, esophageal, and gastroesophageal junction (GEJ) cancers\\]\n    * Germ cell carcinoma\n    * Head and Neck cancer\n    * Hepatocellular Carcinoma\n    * Liver\n    * Lung\n    * Lymphoma\n    * Melanoma\n    * Merkel Cell\n    * Multiple Myeloma\n    * Myelodysplastic syndrome\n    * Myeloid Disorders\n    * Neuroendocrine carcinoma\n    * Ovarian cancer\n    * Pancreatic adenocarcinoma\n    * Penile carcinoma\n    * Peritoneal carcinoma\n    * Prostate cancer\n    * Renal cell cancer\n    * Sarcoma\n    * Squamous cell Carcinoma of the Skin\n    * Testicular cancer\n    * Urethral carcinoma\n    * Vaginal carcinoma\n    * Vulvar carcinoma\n  * Eligible Regimens\n\n    * Fluorouracil (5-FU) +/- leucovorin +/- bevacizumab +/- trastuzumab\n    * 5FU +/- leucovorin +/- bevacizumab +/- nivolumab\n    * Atezolizumab +/- bevacizumab\n    * Atezolizumab +/- bevacizumab + cobimetinib, atezolizumab +/- bevacizumab + vemurafenib, atezolizumab +/- bevacizumab + cobimetinib + vemurafenib\n    * Avelumab\n    * Avelumab + axitinib\n    * Bevacizumab\n    * Bevacizumab + capecitabine\n    * Bevacizumab + irinotecan (+/- capecitabine)\n    * Bevacizumab + olaparib, bevacizumab + lenvatinib, bevacizumab + niraparib, bevacizumab + rucaparib\n    * Bevacizumab + Temozolomide, Bevacizumab + Lomustine, or Bevacizumab + everolimus\n    * Bevacizumab + trifluridine/tipiracil\n    * Bortezomib\n    * Bortezomib + cyclophosphamide, bortezomib + lenalidomide, bortezomib + pomalidomide, bortezomib + selinexor\n    * Bortezomib + venetoclax\n    * Carfilzomib\n    * Carfilzomib + cyclophosphamide, carfilzomib + lenalidomide, carfilzomib + pomalidomide, carfilzomib + selinexor\n    * Carfilzomib + venetoclax\n    * Cemiplimab\n    * Cisplatin\n    * Cisplatin/5-FU\n    * Cisplatin/etoposide\n    * Cisplatin + durvalumab\n    * Cisplatin + gemcitabine\n    * Cisplatin + gemcitabine + durvalumab\n    * Daratumumab (+ oral \\[PO\\] cyclophosphamide, lenalidomide, pomalidomide, or selinexor)\n    * Daratumumab + bortezomib (+ PO cyclophosphamide, lenalidomide, pomalidomide, or selinexor)\n    * Daratumumab + carfilzomib (+ PO cyclophosphamide, lenalidomide, pomalidomide, or selinexor)\n    * Degarelix\n    * Durvalumab\n    * Durvalumab + tremelimumab\n    * Eribulin\n    * FOLFIRI +/- bevacizumab (5FU +/- leucovorin + irinotecan)\n    * Fam-trastuzumab deruxtecan\n    * Fulvestrant\n    * Fulvestrant + ribociclib, fulvestrant + abemaciclib, fulvestrant + palbociclib, fulvestrant + alpelisib, or fulvestrant + capivasertib\n    * Gemcitabine\n    * Gemcitabine + durvalumab\n    * Gemcitabine + paclitaxel protein-bound\n    * Goserelin acetate\n    * Irinotecan\n    * Irinotecan + capecitabine\n    * Lanreotide\n    * Leuprolide\n    * Nivolumab\n    * Nivolumab + cabozantinib\n    * Nivolumab-relatlimab\n    * Octreotide\n    * Paclitaxel\n    * Pembrolizumab\n    * Pembrolizumab + axitinib, pembrolizumab + lenvatinib, pembrolizumab + capecitabine, pembrolizumab + dabrafenib +/- trametinib, pembrolizumab + trametinib)\n    * Pemetrexed\n    * Pertuzumab\n    * Pemetrexed + pembrolizumab\n    * Rituximab\n    * Trastuzumab + paclitaxel\n    * Trastuzumab with or without pertuzumab maintenance (SQ or IV) (+/- tucatinib +/- capecitabine)\n    * Decitabine\n    * These regimens can be used only if patients are receiving one of the regimens above:\n\n      * Darbepoetin-alfa\n      * Epoetin\n      * Filgrastim\n* Note: Female or male patients with histologically confirmed malignancy who are currently receiving treatment with one of the above eligible regimens may receive supportive care medications for treatment or prevention of bone metastases, including agents such as:\n\n  * Zoledronic acid\n  * Denosumab\n* Patient has had adequate tolerability of their clinical standard of care cancer treatment in the opinion of their treating physician and no drug-related infusion reactions prior to consent\n* Patients who according to documentation from their treating provider plan to continue the treatment regimen they are currently prescribed for at least 24 weeks from the start of cycle following randomization.\n* Residing within the area serviced by supplier and paramedic network\n* Residence has wireless fidelity (wifi) to enable a reliable connection with the remote Command Center or it is suitable for connection through a wireless network solution\n* Age \\>= 18 years at time of registration\n* Signed informed consent form by patient\n* Willing and able to comply with the study protocol in the investigator's judgement\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0, 1 or 2\n* Ability to complete questionnaire(s) by themselves or with assistance\n* RANDOMIZATION ELIGIBILITY CRITERIA: In addition to the criteria above, confirmation by the CCBW Command Center that the patient has adequate tolerability to the standard of care cancer therapy and no drug-related infusion reactions since pre-registration and prior to registration\n\nExclusion Criteria:\n\n* Receiving any other investigational agent which would be considered as a treatment for the primary neoplasm. Note: Patients are permitted concomitant standard of care oral drugs such as ribociclib, abemaciclib, or palbociclib in combination with endocrine therapy (e.g., Leuprolide, fulvestrant intramuscular \\[IM\\], etc.); tucatinib and capecitabine in combination with trastuzumab and pertuzumab for HER2 positive breast cancer; dexamethasone, cyclophosphamide, lenalidomide or pomalidomide for multiple myeloma; temozolomide, lomustine, or afinitor in combination with avastin for glioblastoma. In addition, all oral anti-hormonal agents for breast and prostate cancer are permitted (e.g., tamoxifen, arimidex, abiraterone, etc.) if used in combination with any of the drugs\n* Requiring 24/7 assistance with activities of daily living (ADLs)\n* Current inpatient hospitalization (excluding admission to the Advanced Care at Home program)\n* Co-morbid systemic illnesses or other severe concurrent disease which, in the judgment of the investigator, would make the patient inappropriate for entry into this study or interfere significantly with the proper assessment of safety and toxicity of the prescribed regimens\n* Uncontrolled intercurrent illness including, but not limited to:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Myocardial infarction =\\< 6 months\n  * Wound healing disorder\n  * Or psychiatric illness/social situations that would limit compliance with study requirements",
+  "enrollment": 220,
+  "has_results": false,
+  "interventions": [
+   "Clinical Encounter",
+   "Home Health Encounter",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "last_update_posted": "2026-04-20",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT05969860",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-01-01",
+  "sex": "ALL",
+  "sponsor": "Mayo Clinic",
+  "start_date": "2023-08-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

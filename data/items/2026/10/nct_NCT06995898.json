@@ -1,0 +1,94 @@
+{
+ "abstract": "The Vanguard Study is a feasibility study to explore several aspects of evaluating multi-cancer detection (MCD) tests in a future definitive randomized controlled trial. An MCD test measures markers in the blood in order to screen for multiple cancers simultaneously. There is a need to understand how MCDs may work as cancer screening tools. The goal of cancer screening is to reduce the burden of cancer by identifying cancers before they show symptoms or signs, when treatment is likely to be most effective. In this study, adults aged 45-75 without cancer will be randomly assigned to one of 3 groups: 2 separate MCD test groups or a control group. These two MCD tests will not be compared to each other but will be compared to cancers detected in the control group. This study will provide early information on how well MCD tests perform as cancer screening tools. It will also help researchers understand how patients and their doctors make decisions about their care when the MCD test result comes back as normal (negative) or abnormal (positive).\n\nPRIMARY OBJECTIVES:\n\nI. Assess the feasibility of recruitment and adherence to protocol-required baseline and follow-up data and blood collection.\n\nII. Assess the feasibility of achieving representative enrollment across participating recruitment sites.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the impact of participant blinding on willingness to participate, adherence to protocol required baseline and follow-up data, blood collection, and rates of standard of care screening.\n\nII. To determine the timeliness of returning test results to participants. III. To understand the factors contributing to lack of diagnostic resolution of an abnormal MCD test.\n\nIV. To examine the effects of participant characteristics, including cancer risk factors and social determinants of health, on all aspects of feasibility.\n\nV. To estimate the proportion of participants receiving an MCD test outside of the trial.\n\nVI. To assess the feasibility of a staggered introduction of the second MCD assay intervention arm.\n\nVII. To estimate the proportion of abnormal MCD tests that are diagnostically resolved, and the time to resolution.\n\nVIII. To compare the proportion of participants who receive standard of care screening during follow-up between the intervention and control arms.\n\nIX. To assess the accuracy of tissue of origin prediction for each MCD assay. X. To estimate the incidence of complications related to diagnostic evaluation of an abnormal MCD test result.\n\nXI. To assess the effect of an abnormal MCD test and diagnostic workup on anxiety and cancer worry.\n\nXII. To evaluate the clinical diagnostic performance of the MCD assays.\n\nEXPLORATORY OBJECTIVES:\n\nI. To estimate rates of late-stage cancer, and the distribution of cancer stage.\n\nII. To estimate assay-targeted cancer-specific mortality of each MCD assay, all cancer-specific mortality, and all-cause mortality.\n\nIII. To develop preliminary estimates of the total and incremental budget impact of MCD testing compared to current screening practice from the payor perspective.\n\nIV. To develop preliminary estimates of the economic burden and impact of MCD testing from the participant perspective.\n\nV. To assess the willingness of participants who reported military service to describe military-related environmental exposures by completing the Military Exposure Questionnaire.\n\nOUTLINE: Participants are randomized to 1 of 3 arms.\n\nARM I: Participants undergo blood collection for Shield MCD testing at enrollment and after one year on study. Participants at unblinded sites are provided results of tests and those with abnormal results follow up with their clinician for additional testing. Participants at blinded sites are provided abnormal results and will follow up with their clinician for additional testing.\n\nARM II: Participants undergo blood collection for Avantect MCD testing at enrollment and after one year on study. Participants at unblinded sites are provided results of tests and those with abnormal results follow up with their clinician for additional testing. Participants at blinded sites are provided abnormal results and will follow up with their clinician for additional testing.\n\nARM III (Control): Participants undergo blood collection at enrollment and after one year on study.\n\nAfter completion of study intervention, participants are followed passively up to 10 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06995898",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06995898"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2025-05-30",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06995898"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "The Vanguard Study: Testing a New Way to Screen for Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Bladder Carcinoma",
+   "Breast Carcinoma",
+   "Colorectal Carcinoma",
+   "Esophageal Carcinoma",
+   "Gastric Carcinoma",
+   "Liver Carcinoma",
+   "Lung Carcinoma",
+   "Malignant Solid Neoplasm",
+   "Ovarian Carcinoma",
+   "Pancreatic Carcinoma",
+   "Prostate Carcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Ages 45-75 years old\n* Agree to provide blood samples for possible MCD testing at enrollment and at 1 year following enrollment\n* Agree to allow collection of information from their medical records for study-related purposes\n* Understand and be able to complete informed consent and participant questionnaires in English, Spanish, or Arabic\n\n  * Note: Eligibility for Spanish and Arabic languages are at the Hub's discretion\n\nExclusion Criteria:\n\n* Solid malignant tumor or blood cancer diagnosis, with or without treatment, within the last 5 years\n\n  * Note: Persons with a history of in situ cancers (e.g., ductal carcinoma in situ of the breast, cervical cancer in situ, atypical melanocytic hyperplasia or melanoma in situ) or nonmelanoma skin cancer are eligible. Persons with a history of prostate cancer that has not been treated are not eligible, regardless of when the diagnosis occurred\n* Ongoing cancer diagnostic work-up\n* Ongoing participation in another study of an investigational cancer screening test or technology not currently utilized in routine clinical practice\n* Currently breastfeeding or pregnant, or planning to become pregnant in the next year\n* History of solid organ or hematopoietic transplantation at any time, or blood transfusion within the last 30 days",
+  "enrollment": 24000,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Device Usage",
+   "Electronic Health Record Review",
+   "Multi-Cancer Detection Test",
+   "Multi-Cancer Detection Test",
+   "Questionnaire Administration"
+  ],
+  "last_update_posted": "2026-10-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "45 Years",
+  "n_locations": 45,
+  "nct_id": "NCT06995898",
+  "phase": "NA",
+  "primary_completion_date": "2029-01-31",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2025-06-18",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

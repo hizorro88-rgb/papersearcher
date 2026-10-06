@@ -1,0 +1,90 @@
+{
+ "abstract": "This is a Phase Ib, open-label, multicenter study of HSK41959 tablets in combination with standard therapy in patients with MTAP-deficient advanced solid tumors. The study consists of dose-escalation and dose-expansion parts and is intended to evaluate the safety, tolerability, dose-limiting toxicity, maximum tolerated dose, pharmacokinetics, pharmacodynamics, and preliminary efficacy of HSK41959 tablets when used together with standard therapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07699757",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07699757"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-07-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Haisco Pharmaceutical Group Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07699757"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "HSK41959 With Standard Therapy in Solid Tumors With MTAP Deletion",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "Pancreatic Ductal Adenocarcinoma (mPDAC)",
+   "Advanced Solid Tumors"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Adult participants aged 18 years or older.\n2. ECOG performance status of 0 to 1.\n3. Life expectancy of at least 3 months.\n4. Histologically or cytologically confirmed advanced malignant tumor with MTAP deficiency identified by a validated assay.\n5. At least one measurable lesion according to RECIST version 1.1.\n6. For NSCLC cohorts: advanced or metastatic NSCLC meeting protocol-specified disease characteristics and prior treatment requirements.\n7. For PDAC cohorts: advanced or metastatic PDAC meeting protocol-specified disease characteristics and prior treatment requirements.\n8. Adequate bone marrow, hepatic, renal, and coagulation function.\n9. Willingness to provide tumor tissue and/or undergo protocol-required biomarker testing, if applicable.\n\nExclusion Criteria:\n\n1. Prior exposure to agents targeting the MAT2A or PRMT5 pathway.\n2. Prior antitumor therapy or unresolved toxicities not meeting protocol-defined washout/recovery requirements.\n3. Known actionable driver alterations or prior therapies excluded by the protocol for specific NSCLC cohorts (for example EGFR, ALK, ROS1, BRAF, NTRK, MET, RET, KRAS G12C, HER2, as applicable).\n4. Significant gastrointestinal disorders that may affect drug absorption.\n5. Clinically significant cardiovascular disease, including clinically relevant QTc prolongation, reduced left ventricular ejection fraction, or severe heart failure.\n6. Uncontrolled metabolic disease, uncontrolled hypertension, or active infection.\n7. Known HIV infection, active hepatitis B with significant viral replication, or active hepatitis C infection.\n8. Use of prohibited concomitant medications, including strong inhibitors or inducers of CYP3A4, P-gp, BCRP, or other protocol-specified transporters/enzymes within the required washout period.\n9. Other serious medical or psychiatric conditions that, in the investigator's judgment, would make study participation inappropriate.",
+  "enrollment": 258,
+  "has_results": false,
+  "interventions": [
+   "HSK41959",
+   "Sintilimab",
+   "Pemetrexed + Cisplatin /Carboplatin",
+   "Paclitaxel + Carboplatin",
+   "Nab-paclitaxel + Carboplatin",
+   "Nab-paclitaxel + Gemcitabine",
+   "Docetaxel"
+  ],
+  "last_update_posted": "2026-07-14",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07699757",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-04",
+  "sex": "ALL",
+  "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+  "start_date": "2026-07",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

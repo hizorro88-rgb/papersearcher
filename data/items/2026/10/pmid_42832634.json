@@ -1,0 +1,59 @@
+{
+ "abstract": "OBJECTIVES: With improvements in systemic therapy for pancreatic cancer (PC), the role of radiation therapy (RT) to optimize local control has increased. While the tolerability and outcomes for RT for PC are well described, limited data exist on the feasibility and clinical impact after pancreatic reirradiation (re-RT). This study retrospectively reviews a multi-institutional experience of pancreatic re-RT.\nMETHODS: A retrospective analysis of 44 patients treated with pancreatic reirradiation at 2 academic centers between 2012 and 2025 was conducted. The primary study endpoint was local control (LC) from the completion of re-RT. Secondary endpoints included progression-free survival (PFS), distant metastasis-free survival (DMFS), overall survival (OS), and chemotherapy-free (CT-free) interval. Median BED for pancreatic re-RT was 59.5 Gy (range: 8.5 to 97.9) delivered in a median of 20 fractions (range: 3 to 28), with 77.3% (n=34) receiving concurrent chemotherapy. Re-RT techniques included: 3D-CRT (n=5), IMRT/VMAT (n=27), SBRT (n=12), and proton RT (n=3).\nRESULTS: Median follow-up after re-RT was 8.0 months (range: 1.0 to 81.1). Among patients alive, the median follow-up was 7.5 months (range: 3.6 to 32.8). 95.5% (42/44) completed re-RT. Following re-RT, 22 patients received further systemic therapy; the median CT-free interval was 5.4 months (range: 0.0 to 35.4). The 6- and 12-month LC from the time of re-RT were 69.6% and 58.5%. The 6-month PFS, DMFS, and OS were 47.7%, 61.0%, and 71.6%, respectively. Acute grade ≥3 toxicities occurred in 2 patients, including anorexia, dysphagia, and GI bleed.\nCONCLUSIONS: Pancreatic re-RT is feasible and may offer promising local control and time off chemotherapy for selected patients. Future studies should refine patient selection criteria for pancreatic re-RT, and improvements in RT delivery with online adaptive therapy may further minimize toxicity.",
+ "authors": [
+  "Hou HX",
+  "Roberts HJ",
+  "Pathak PS",
+  "Mamon HJ",
+  "Mancias JD",
+  "Singh H",
+  "Qadan M",
+  "Castillo CF"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832634",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1097/COC.0000000000001381",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832634"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am J Clin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832634/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Pancreatic Reirradiation: A Multi-Institutional Retrospective Analysis of Feasibility, Tolerability, and Clinical Outcomes",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

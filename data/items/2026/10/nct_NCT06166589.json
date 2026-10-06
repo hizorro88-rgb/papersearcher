@@ -1,0 +1,100 @@
+{
+ "abstract": "This is a prospective, single arm, phase II clinical study investigating second-line Zimberelimab and SIROX chemotherapy for patient with previously AG chemotherapy treated pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06166589",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06166589"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-12-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai Zhongshan Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06166589"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic cancer",
+  "chemotherapy",
+  "PD-1 therapy",
+  "second-line treatment"
+ ],
+ "title": "Second-line Zimberelimab and SIRIOX Chemotherapy for Patient With Previously AG Chemotherapy Treated Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Previously AG Chemotherapy Treated Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "wang.wenquan@zs-hospital.sh.cn",
+    "name": "Wen-Quan Wang, MD, PhD",
+    "phone": "021-31587861"
+   },
+   {
+    "email": "liu.liang@zs-hospital.sh.cn",
+    "name": "Liang Liu, MD, PhD",
+    "phone": "021-31587861"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients are at least 18 years old when signing the informed consent, both male and female.\n* Patients with pancreatic cancer progressing after first-line AG regimen chemotherapy, including patients with advanced pancreatic cancer progressing after first-line AG regimen chemotherapy and patients with recurrence and metastasis after radical pancreatic cancer surgery assisted by AG regimen chemotherapy.\n* Having not been previously treated with oxaliplatin, S-1, irinotecan and PD-1/L1 antibody.\n* According to the judgment of the attending physician, it is appropriate to receive sepalizumab treatment.\n* According to RECIST1.1, Patients must have measurable target lesions examined by CT or MRI.\n* ECOG PS score: 0-1.\n* Expected survival time ≥3 months.\n* All screening period laboratory tests should be performed as required by the protocol and within 14 days prior to the first dose.\n* Women of childbearing age must take a serum pregnancy test within 3 days before the first medication, and the result is negative. Female Patients of reproductive age and male Patients whose partners are women of reproductive age must agree to use highly effective methods of contraception during the study period and for 180 days after the last dose of the study drug.\n* Voluntarily participate in clinical research and sign informed consent.\n\nExclusion Criteria:\n\n* Patients have any active autoimmune disease or a history of autoimmune disease (such as, but not limited to: autoimmune hepatitis, interstitial pneumonia, uveitis, enteritis, hepatitis, pituitary inflammation, vasculitis, nephritis, hyperthyroidism, hypothyroidism;Patients with vitiligo or complete remission of asthma in childhood without any intervention after adulthood can be included;Patients with asthma requiring medical intervention with bronchodilators cannot be included);\n* Patients are using immunosuppressants, or systemic, or absorbable topical hormone therapy for immunosuppression purposes (dose \\> 10mg/day prednisone or other therapeutic hormones), and continue to use within 2 weeks before enrollment;\n* Severe allergic reactions to all drugs and excipients involved in the study;\n* Clinical cardiac symptoms or diseases that have not been well controlled, such as: (1) NYHA2 or higher heart failure (2) unstable angina (3) myocardial infarction within 1 year (4) clinically significant supraventricular or ventricular arrhythmias requiring treatment or intervention;\n* Urine routine suggests proteinuria ≥++, or confirmed 24-hour urinary protein ≥1.0g;\n* Patients have active infection or unexplained fever \\>38.5 degrees during screening and before the first dose; 7. The Patients have congenital or acquired immune deficiency (such as HIV infection), or active hepatitis (hepatitis B reference: HBsAg positive, and HBV DNA detection value exceeds the upper limit of normal value; hepatitis C reference: HCV antibody positive, and HCV virus titer detection value exceeds the upper limit of normal value);\n* The Patients have used other drugs in clinical trials within 4 weeks before the first dose;\n* The Patients have suffered from other malignant tumors in the past or at the same time;\n* The Patients may receive other systemic anti-tumor treatment during the study period;\n* The patients with bone metastasis have received palliative radiotherapy in the area \\>5% of the bone marrow area within 4 weeks before participating in the study;\n* The Patients have been vaccinated less than 4 weeks before the study dose or may be vaccinated during the study period;\n* In the judgment of the researchers, the Patients have other factors that may lead to the forced termination of the study, such as other serious diseases (including mental diseases) requiring combined treatment, serious laboratory abnormalities, accompanied by family or social factors that may affect the safety of the Patients, or the collection of data and samples. In the judgment of the researchers, there are other factors that may affect the results of the study or lead to the forced termination of the study, such as alcoholism, drug abuse, drug abuse, other serious diseases (including mental illness) that need combined treatment, serious abnormalities in laboratory tests, and family or social factors that may affect the safety of medication.",
+  "enrollment": 19,
+  "has_results": false,
+  "interventions": [
+   "Zimberelimab",
+   "Oxaliplatin",
+   "S-1",
+   "Irinotecan"
+  ],
+  "last_update_posted": "2023-12-12",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06166589",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-01-01",
+  "sex": "ALL",
+  "sponsor": "Shanghai Zhongshan Hospital",
+  "start_date": "2024-01-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

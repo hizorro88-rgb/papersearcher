@@ -1,0 +1,90 @@
+{
+ "abstract": "Evaluate the safety and efficacy of mesothelin-targeting UCAR-T cells in the treatment of mesothelin-positive advanced pancreatic cancer\n\n3 planned dose cohorts will be evaluated during dose escalation phase. The dose expansion will be initiated after SRC (safety review committee) review the avaliable safety, PK and preliminary efficacy data.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06760364",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06760364"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-01-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tianjin Medical University Cancer Institute and Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06760364"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Allogeneic CAR-T",
+  "Safety",
+  "Efficacy",
+  "PK"
+ ],
+ "title": "A Clinical Study of CHT102 in MSLN-Positive Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Cancers"
+  ],
+  "contacts": [
+   {
+    "email": "haojihui@tjmuch.com",
+    "name": "Jihui Hao, Ph.D",
+    "phone": "+86-02223340123"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Ability to understand and sign a written informed consent documen；\n2. At the date of signing ICF, 18 \\~70 years old, male or female；\n3. Histopathological confirmed advanced or metastatic pancreatic cancer patients who have failed to standard treatment or intolerance with standard treatment；\n4. Positive mesothelin expression;\n5. At least one measurable lesion at baseline per RECIST version 1.1；\n6. The expected survival time is more than 12 weeks;\n7. ECOG 0-1 points;\n8. Adequate organ functions.",
+  "enrollment": 21,
+  "has_results": false,
+  "interventions": [
+   "CHT102"
+  ],
+  "last_update_posted": "2025-04-10",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06760364",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-12-24",
+  "sex": "ALL",
+  "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+  "start_date": "2024-12-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

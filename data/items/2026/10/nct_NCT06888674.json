@@ -1,0 +1,94 @@
+{
+ "abstract": "This study is a single-center, open-label clinical study to evaluate the feasibility and safety of personalized tumor neoantigen mRNA therapy (iNeo-Vac-R01) in combination with PD-1 antibody and standard chemotherapy regimen as adjuvant treatment for postoperative resectable pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06888674",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06888674"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-03-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06888674"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Personalized Tumor Neoantigen MRNA Therapy Adjuvant Treatment for Postoperative Pancreatic Cancer.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Resectable"
+  ],
+  "contacts": [
+   {
+    "email": "liangtingbo@zju.edu.cn",
+    "name": "Tingbo Liang, MD., PhD.",
+    "phone": "+8619941463683"
+   },
+   {
+    "email": "yiwenchen0705@126.com",
+    "name": "Yiwen Chen, MD.",
+    "phone": "+8615088682641"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Pre-Screening Phase Inclusion Criteria (for Radical Surgery and Vaccine Preparation):\n\n   * Subjects meeting all of the following criteria will enter the pre-screening phase for radical surgery and vaccine preparation:\n   * Voluntarily sign the informed consent form (ICF);\n   * Age ≥18 years, regardless of gender;\n   * Diagnosed with resectable pancreatic cancer as assessed per the 2024 NCCN Clinical Practice Guidelines and willing to undergo radical surgery;\n   * ECOG Performance Status score of 0 or 1;\n   * Ability to obtain sufficient fresh tumor tissue samples for whole-exome sequencing (WES) and transcriptome sequencing analysis;\n   * Normal function of major organs (heart, liver, kidneys):\n   * Liver function: Total bilirubin ≤1.5×ULN; ALT/AST ≤2.5×ULN;\n   * Renal function: Serum creatinine ≤1.5×ULN or creatinine clearance ≥60 mL/min (Cockcroft-Gault formula);\n   * Cardiac function: LVEF ≥50% by echocardiography;\n   * Contraception agreement: Fertile males and females of childbearing potential must agree to use effective contraception from signing the ICF until 6 months after the last dose of study treatment. Females of childbearing potential include premenopausal women and women ≤2 years postmenopausal;\n   * Ability to comply with the study protocol and follow-up procedures.\n2. Formal Screening Phase Inclusion Criteria (for Study Treatment Initiation):\n\n   * Subjects meeting all of the following criteria will enter the formal screening phase for study treatment:\n   * Voluntarily sign the informed consent form (ICF);\n   * Age ≥18 years, regardless of gender;\n   * Histologically confirmed pancreatic ductal adenocarcinoma (PDAC) post-surgery;\n   * Completion of radical resection (R0 or R1) with no evidence of metastatic disease, malignant ascites, or pleural effusion on imaging 4-12 weeks postoperatively;\n   * ECOG Performance Status score:Cohort A: 0 or 1;Cohort B: 0-2;\n   * Normal function of major organs (heart, liver, kidneys):\n   * Contraception agreement: Same as pre-screening criteria;\n   * Ability to comply with the study protocol and follow-up procedures.\n\nExclusion Criteria:\n\nSubjects meeting any of the following criteria will be excluded from the study:\n\n* Serum CA 19-9 level \\>180 U/mL within 21 days prior to initiating standard postoperative adjuvant therapy;\n* History of bone marrow transplantation, allogeneic organ transplantation, or allogeneic hematopoietic stem cell transplantation;\n* Concurrent immunosuppressive therapy, defined as regular use of immunosuppressive agents within 4 weeks prior to screening or during the study, including but not limited to:\n\n  1. Severe asthma requiring systemic corticosteroids (≥10 mg/day prednisone equivalent);\n  2. Active autoimmune disease or immunodeficiency (e.g., rheumatoid arthritis, systemic lupus erythematosus);\n  3. History of primary immunodeficiency;\n  4. Exceptions: Type 1 diabetes, autoimmune hypothyroidism managed with hormone replacement, vitiligo, or psoriasis not requiring systemic therapy;\n* Active bacterial/fungal infections requiring systemic treatment, or active/latent tuberculosis (confirmed by interferon-gamma release assay or tuberculin skin test);\n* Active viral infections:\n\n  1. HIV antibody-positive;\n  2. Syphilis (TP antibody-positive with RPR/TRUST confirmation);\n  3. Active hepatitis C (HCV RNA-positive);\n  4. Active hepatitis B (HBsAg-positive and HBV DNA ≥2000 IU/mL);\n* Acute viral infections:\n\n  1. Herpesvirus infection (unless resolved with crusting \\>4 weeks prior);\n  2. Respiratory viral infection (unless resolved \\>4 weeks prior);\n* Uncontrolled comorbidities:\n\n  1. Symptomatic congestive heart failure (NYHA Class III/IV);\n  2. Unstable angina or arrhythmia requiring treatment;\n  3. Severe coronary/cerebrovascular disease (e.g., myocardial infarction within 6 months);\n  4. Other conditions deemed exclusionary by the investigator;\n* History of drug abuse, psychiatric disorders, or psychosocial factors impairing informed consent or protocol compliance;\n* History of severe hypersensitivity to vaccines, biologics, or any component of the study drug;\n* Pregnancy or lactation;\n* Other conditions judged by the investigator to preclude safe participation.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "individualized anti-tumor new antigen iNeo-Vac-R01 injection",
+   "Gemcitabine + Capecitabine",
+   "Sintilimab injection"
+  ],
+  "last_update_posted": "2025-03-21",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06888674",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-04-01",
+  "sex": "ALL",
+  "sponsor": "Zhejiang University",
+  "start_date": "2025-04-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

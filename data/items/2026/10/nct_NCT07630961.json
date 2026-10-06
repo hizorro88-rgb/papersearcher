@@ -1,0 +1,109 @@
+{
+ "abstract": "The purpose of Part 1 of this study is to evaluate the imaging characteristics, safety, biodistribution and pharmacokinetics of \\[68Ga\\]Ga-DFC413, and in Part 2 compare to \\[68Ga\\]Ga-NNS309 in patients with locally advanced or metastatic pancreatic ductal adenocarcinoma (PDAC), non-small cell lung cancer (NSCLC), HR+/HER2- ductal and lobular breast cancer (BC), triple negative breast cancer (TNBC), colorectal cancer (CRC), and soft tissue sarcoma (STS). In Part 2 of this study (comparison of \\[68Ga\\]Ga-DFC413 and \\[68Ga\\]Ga-NNS309), not all indications might be explored.\n\nThis is a first-in-human (FiH), open-label, multicenter, phase I radioligand imaging study designed to assess the biodistribution, imaging, safety, pharmacokinetics (PK), and dosimetry properties of 68Ga-DFC413 and to explore whether 68Ga-DFC413 can be used to identify FAP-expressing lesions in patients with various solid tumors, including metastatic PDAC, NSCLC, ductal and lobular BC, TNBC, CRC, and STS.\n\nThe study is divided in 2 parts: An imaging characterization part (Part 1) and a comparative assessment part (Part 2). All patients in Part 1 (imaging characterization part) will receive a single administered radioactive dose of 68Ga-DFC413. In Part 2 (comparative assessment part) patients will either receive a single administered radioactive dose of 68Ga-DFC413 followed by a single administered radioactive dose of 68Ga-NNS309; or a single administered radioactive dose of 68Ga-NNS309 followed by 68Ga-DFC413.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07630961",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07630961"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-06-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Novartis Pharmaceuticals",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07630961"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "metastatic pancreatic ductal adenocarcinoma (PDAC)",
+  "non-small cell lung cancer (NSCLC)",
+  "HR+/HER2- ductal breast cancer (BC)",
+  "HR+/HER2- lobular breast cancer (BC)",
+  "triple negative breast cancer (TNBC)",
+  "colorectal cancer (CRC)",
+  "soft tissue sarcoma (STS)",
+  "radioligand imaging"
+ ],
+ "title": "Phase I Study of JFI447 [68Ga]Ga-DFC413 and Comparison to FFG233 [68Ga]Ga-NNS309 in Patients With Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "HR+/HER2- Ductal Breast Cancer (BC)",
+   "HR+/HER2- Lobular Breast Cancer (BC)",
+   "Triple Negative Breast Cancer (TNBC)",
+   "Colorectal Cancer (CRC)",
+   "Soft Tissue Sarcoma (STS)"
+  ],
+  "contacts": [
+   {
+    "email": "novartis.email@novartis.com",
+    "name": "Novartis Pharmaceuticals",
+    "phone": "1-888-669-6682"
+   },
+   {
+    "email": null,
+    "name": "Novartis Pharmaceuticals",
+    "phone": "+41613241111"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nPatients eligible for inclusion in this study must meet all of the following criteria:\n\n1. Signed informed consent must be obtained prior to participation in the study.\n2. Age ≥ 18 years old.\n3. ECOG performance status ≤ 2.\n4. Patients with one of the following indications (regardless of lines of prior therapy):\n\n   Locally advanced unresectable or metastatic PDAC, NSCLC, HR+/HER2- ductal or lobular BC, TNBC, CRC or STS.\n5. Patients must have at least one measurable lesion per RECIST v1.1 as measured by local Investigator (by conventional MRI or CT scan).\n6. Patients must have an available archival tumor sample at the screening visit. If multiple archival tumor samples are available, the most recent will be requested. Exceptions may be made after documented discussion with Novartis.\n\nExclusion Criteria:\n\nPatients meeting any of the following criteria are not eligible for inclusion in this study:\n\n1. Out-of-range laboratory values defined as:\n\n   * Estimated glomerular filtration rate \\< 60 mL/min (calculated using CKD-EPI 2021 formula, or measured based on 24-hour urine collection)\n   * Total bilirubin \\> 1.5 x ULN (except for patients with Gilbert's syndrome who are excluded if total bilirubin \\> 3.0 x ULN) or direct bilirubin \\> 1.5 x ULN\n   * Alanine aminotransferase (ALT) \\> 3.0 x ULN, except for patients with tumor involvement of the liver who are excluded if ALT \\> 5.0 x ULN\n   * Aspartate aminotransferase (AST) \\> 3.0 x ULN, except for patients with tumor involvement of the liver who are excluded if AST \\> 5.0 x ULN\n   * Absolute Neutrophil Count \\< 1.0 x 109/L\n   * Hemoglobin \\< 9 g/dL\n   * Platelet count \\< 75 x 109/L\n2. Unmanageable urinary tract obstruction or urinary incontinence. If ureteral obstruction can be managed with the placement of ureteral stents, this exclusion criterion does not apply.\n3. Known hypersensitivity to 68Ga-DFC413 or 68Ga-NNS309 or their excipients.\n4. Any serious uncontrolled infection (acute or chronic), such as, but not limited to, bacterial, viral or fungal infections, confirmed by clinical evidence, imaging, and/or relevant positive laboratory tests (e.g., blood cultures, PCR for DNA/RNA). If a serious infection develops, it must resolve or be adequately controlled prior to 68Ga-DFC413 and/or 68Ga-NNS309 initiation.\n5. Surgery or major invasive procedure within 4 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n6. Radiation therapy within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n7. Change in anticancer therapy within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n8. Radiological contrast administration within 48 hours prior to 68Ga-DFC413 or 68Ga-NNS309 administration.\n9. Initiation or increasing doses of corticosteroids, TGF-β signaling inhibitors or immunomodulators within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n10. Known additional malignancy that is progressing or requires active treatment.\n11. Inability to complete the required investigational and standard imaging examinations due to any reason (e.g., severe claustrophobia, inability to lie still for the entire imaging time).\n12. Presence of CTCAE version 5.0 ≥ Grade 2 toxicity due to prior cancer therapy, except for neuropathy (inclusion of patients with neuropathy of ≤ Grade 2 is permitted) and alopecia.\n13. Any medical condition that would, in the Investigator's judgment, prevent the patient's participation in the clinical study due to safety concerns, compliance with clinical study procedures (including radiation safety precautions), or interpretation of study results.\n14. Pregnant women, where pregnancy is defined as the state of a female after conception and until the termination of gestation, confirmed by a positive human chorionic gonadotropin (hCG) laboratory test.\n15. Nursing (breast-feeding) women. Women who do not breast feed for 12 hours after 68Ga-DFC413 and/or 68Ga-NNS309 administration, but express and discard breast milk, are eligible.\n16. Women of child-bearing potential (WOCBP), defined as all women physiologically capable of becoming pregnant, unless they use highly effective methods of contraception (failure rate \\<1% per year) for 12 hours after the administered radioactive dose of 68Ga-DFC413 and 68Ga-NNS309.\n\n    Women are considered post-menopausal if they have had 12 months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g. hormonal profile confirming menopause and/or age-appropriate history of vasomotor symptoms).\n\n    Highly effective contraception methods include:\n    * Total abstinence (when this is in line with the preferred and usual lifestyle of the patient). Note that periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception.\n    * Bilateral tubal ligation, female sterilization (have had bilateral oophorectomy with or without hysterectomy), total hysterectomy or bilateral salpingectomy at least six weeks before taking 68Ga-DFC413 or 68Ga-NNS309. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment are they considered to be not of childbearing potential.\n    * Male sterilization (at least 6 months prior to screening). For female patients on the study, the vasectomized male partner should be the sole partner for that patient.\n    * Use of oral (estrogen and progesterone), injected, or implanted hormonal methods of contraception or placement of an intrauterine device (IUD) or intrauterine system (IUS), or other forms of hormonal contraception that have comparable efficacy (failure rate \\< 1%), for example, hormone vaginal ring or transdermal hormone contraception. In case of use of oral contraception, women should have been stable on the same pill for a minimum of 3 months before taking study treatment.\n\n    If local regulations deviate from the contraception methods listed above to prevent pregnancy, local regulations apply and will be described in the informed consent (IC).\n17. Sexually active males unwilling to use a condom during intercourse for 12 hours after the administered radioactive dose of 68Ga-DFC413 and 68Ga-NNS309. A condom is required for all sexually active male patients to prevent them from fathering a child and/or to prevent delivery of study treatment via seminal fluid to their partner. In addition, male patients must not donate sperm for the time period specified above. If local regulations deviate from the contraception methods listed above to prevent pregnancy, local regulations apply and will be described in the IC.\n\nOther protocol-defined inclusion/exclusioncriteria may apply.",
+  "enrollment": 66,
+  "has_results": false,
+  "interventions": [
+   "68Ga-DFC413",
+   "68Ga-NNS309"
+  ],
+  "last_update_posted": "2026-08-27",
+  "location_countries": [
+   "Denmark",
+   "Japan"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07630961",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-01-16",
+  "sex": "ALL",
+  "sponsor": "Novartis Pharmaceuticals",
+  "start_date": "2026-06-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,99 @@
+{
+ "abstract": "Phase 1, open-label, multicenter study to evaluate the safety, tolerability, PK, PD, and preliminary clinical activity of CLSP 5282 when administered to HLA A\\*03:01-positive adult patients with advanced solid tumors that harbor the KRas G12V mutation.\n\nCLSP-5282-101 is a Phase 1, open-label, multicenter study designed to evaluate the safety, tolerability, PK, PD, and preliminary clinical activity of CLSP-5282 when administered to HLA A\\*03:01-positive adult patients with advanced solid tumors that harbor the KRas G12V mutation.\n\nThe study will be conducted in 2 parts:\n\nPart A Monotherapy Dose Escalation to determine the MTD and/or RDE(s) to characterize safety and clinical activity of CLSP-5282.\n\nPart B Monotherapy Expansion to explore the preliminary antitumor activity and further characterize the safety, tolerability, PK, and PD of CLSP-5282 at the RDE(s). Part B will include three indication-specific cohorts in pancreatic adenocarcinoma (PDAC), colorectal cancer (CRC), and non-small cell lung carcinoma (NSCLC) as well as an all-other solid tumor cohort.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07650357",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07650357"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-06-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clasp Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07650357"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "T-Cell Engager",
+  "TCE",
+  "Clasp-5282",
+  "KRas G12V mutation",
+  "HLA A*03:01"
+ ],
+ "title": "A Study of CLSP 5282 in HLA-A*03:01 Positive Adult Patients With Solid Tumors (SENTINEL-101)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Non Small Cell Lung Cancer",
+   "Pancreatic Carcinoma",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "LHarshman@clasptx.com",
+    "name": "Lauren Harshman, MD",
+    "phone": "+1-617-812-1431"
+   },
+   {
+    "email": null,
+    "name": "Lauren Harshman",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Adults at least 18 years of age on the day of signing informed consent.\n* Willing and able to provide written informed consent for the study.\n* Histologically or cytologically diagnosed, locally advanced or metastatic solid tumors that have progressed after standard of care therapy or for which no standard therapy exists.\n* Tumors must harbor the KRas G12V mutation confirmed by the site's local or preferred tissue or ctDNA testing platform in an accredited laboratory.\n* Patients must be HLA-A\\*03:01 positive by central assay.\n* Eastern Cooperative Oncology Group performance status of 0 or 1.\n* Adequate hematological, renal and hepatic function.\n* Per Investigator judgement, patient is willing and able to complete study visits and/or procedures per the protocol and comply with study requirements for study participation.\n\nExclusion Criteria:\n\n* Patients who have received other KRas G12V directed cellular therapies or TCEs.\n* Patients may not be on other anticancer therapies at the time of the first dose of CLSP-5282. Exceptions upon agreement with Sponsor.\n* Any other primary malignancy within the 2 years prior to first dose of study treatment except for non-melanoma skin cancer, carcinoma in situ (e.g., cervix, bladder, breast), or prostate cancer in remission.\n* Patients who have not fully recovered from adverse events due to previous anticancer therapies\n* Patients with active infection requiring systemic antimicrobial therapy\n* Known primary malignant brain tumors, active central nervous system metastases and/or carcinomatous meningitis",
+  "enrollment": 140,
+  "has_results": false,
+  "interventions": [
+   "CLSP-5282"
+  ],
+  "last_update_posted": "2026-06-16",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT07650357",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-05",
+  "sex": "ALL",
+  "sponsor": "Clasp Therapeutics, Inc.",
+  "start_date": "2026-07",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

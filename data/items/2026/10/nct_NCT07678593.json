@@ -1,0 +1,107 @@
+{
+ "abstract": "A Study of GFH276 Combined With Cetuximab or Chemotherapy in Participants With Solid Tumors and Pancreatic Ductal Adenocarcinoma (PDAC) Harboring RAS Mutation\n\nThis is an open-label, multicenter Phase Ib/II clinical trial to evaluate the safety, tolerability, and preliminary anti-tumor efficacy of oral GFH276 in combination with cetuximab or standard chemotherapy in adult patients with locally advanced or metastatic RAS-mutated solid tumors and pancreatic ductal adenocarcinoma (PDAC).\n\nParticipants will be enrolled into three treatment arms with different combination regimens.\n\nIn the Phase Ib stage, dose escalation of GFH276 will be performed in each combination arm to identify the optimal recommended Phase 2 dose (RP2D) based on dose-limiting toxicity (DLT) and the overall safety profile. After RP2D determination, Phase II expansion cohorts will enroll eligible patients to further evaluate the anti-tumor efficacy and long-term safety of each combination regimen. Study-related assessments will include tumor imaging, laboratory tests, adverse event monitoring, and pharmacokinetic sampling throughout the treatment period.\n\nParticipants will continue their assigned study treatment until confirmed disease progression, intolerable toxicity, withdrawal of consent, or study closure.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07678593",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07678593"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-07-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Genfleet Therapeutics (Shanghai) Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07678593"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "GFH276",
+  "PDAC",
+  "RAS Mutation",
+  "solid tumors"
+ ],
+ "title": "A Study of GFH276 Combined With Cetuximab or Chemotherapy in Participants With Solid Tumors and Pancreatic Ductal Adenocarcinoma (PDAC) Harboring RAS Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumors Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "RAS Mutation"
+  ],
+  "contacts": [
+   {
+    "email": "lbai@genfleet.com",
+    "name": "Bai Li",
+    "phone": "18201333260"
+   },
+   {
+    "email": "ppzhang@genfleet.com",
+    "name": "Zhang Pingping",
+    "phone": "18758558734"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Histologically or cytologically confirmed locally advanced or metastatic solid tumor and PDAC with RAS mutation or KRAS amplification\n3. At least one measurable lesion according to RECIST v1.1\n4. ECOG performance status 0 or 1\n5. Life expectancy \\> 3 months\n6. Adequate organ function\n7. Willing to provide written informed consent\n8. Fertile participants must use effective contraception\n\nExclusion Criteria:\n\n1. Other active malignancy within 3 years\n2. Symptomatic brain metastases, leptomeningeal disease, spinal cord compression, or primary brain tumor\n3. History of active clinically significant cardiovascular dysfunction\n4. For participants with known concomitant second oncodriver for PDAC or for solid tumors.\n5. With active infection (HIV, HBV, HCV, syphilis)\n6. The presence of clinical or radiological evidence of intestinal obstruction.\n7. Prior anticancer therapy within 28 days or 5 half-lives\n8. Diagnosis of deep vein thrombosis or pulmonary embolism within 3 months\n9. Hypersensitivity to study drugs, or inability to swallow tablets or comply with study procedures.\n10. History of central nervous system (CNS)disease\n11. Presence of clinically significant interstitial lung disease, radiation pneumonitis, or immune-related pneumonia that requires treatment.\n12. With uncontrollable or symptomatic pleural effusion, ascites, or pericardial effusion.",
+  "enrollment": 222,
+  "has_results": false,
+  "interventions": [
+   "GFH276",
+   "Cetuximab",
+   "Nab paclitaxel",
+   "Gemcitabine",
+   "Fluorouracil",
+   "Leucovorin",
+   "Irinotecan",
+   "Oxaliplatin"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "Australia",
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 17,
+  "nct_id": "NCT07678593",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-11",
+  "sex": "ALL",
+  "sponsor": "Genfleet Therapeutics (Shanghai) Inc.",
+  "start_date": "2026-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

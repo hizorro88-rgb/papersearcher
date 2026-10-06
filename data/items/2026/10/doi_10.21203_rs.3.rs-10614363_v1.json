@@ -1,0 +1,52 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  <bold>Purpose</bold>  To investigate the prognostic significance of mitochondrial dynamics-related genes in pancreatic adenocarcinoma (PAAD) and determine whether a machine learning-derived signature could predict patient survival, tumor microenvironment characteristics, and therapeutic response.  <bold>Methods</bold>  Transcriptomic and clinical data from TCGA-PAAD and normal pancreatic tissues from GTEx were analyzed to identify differentially expressed mitochondrial dynamics-related genes. Multiple machine learning algorithms were applied to construct a prognostic model, which was externally validated using ICGC and GEO cohorts. Survival, Cox regression, functional enrichment, somatic mutation, immune infiltration, and drug sensitivity analyses were performed. Single-cell RNA sequencing and spatial transcriptomics were used to characterize the cellular and spatial distributions of the core genes.  <bold>Results</bold>  Thirty-two prognostic mitochondrial dynamics-related genes were identified, of which seven genes—ALDH3A1, CD36, CKB, FOXM1, IGF2BP3, INS, and MET—were selected for the final signature. The resulting risk score effectively stratified patients into groups with significantly different survival outcomes and remained an independent prognostic factor after adjustment for clinicopathological variables. High-risk tumors were associated with cancer progression, cell-cycle and motility pathways, immunosuppressive features, distinct somatic mutations, and reduced sensitivity to several chemotherapeutic agents. Single-cell analysis localized multiple signature genes predominantly to ductal epithelial cells, while spatial analysis showed increasing MET expression during malignant progression.  <bold>Conclusion</bold>  The seven-gene mitochondrial dynamics signature provides a potential tool for prognostic stratification and therapeutic-response prediction in PAAD. Prospective clinical validation and functional experiments are required before clinical application.  </p>",
+ "authors": [
+  "Gongping M",
+  "Yuchuan L",
+  "Shu Q."
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-10614363/v1",
+ "importance": 0.57,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.21203/rs.3.rs-10614363/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-04",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1333448"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Construction of a Prognostic Model for Pancreatic Cancer Based on mitochondrial dynamics-Related Genes: Application of Multiple Machine Learning Methods",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

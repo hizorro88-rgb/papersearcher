@@ -1,0 +1,109 @@
+{
+ "abstract": "This is a Phase I clinical trial evaluating an investigational treatment called IDOV-Immune, a type of oncolytic virus therapy, for adults with advanced solid tumors that have not responded to standard treatments. Oncolytic viruses are designed to infect and destroy cancer cells and have the potential to stimulate the immune system to fight the tumor.\n\nThe purpose of this study is to determine the safety of IDOV-Immune, how well it is tolerated, and to identify the highest dose that can be safely given. Researchers will also study how the drug behaves in the body, how the immune system responds to it, and whether it shows any signs of shrinking tumors.\n\nParticipants will receive a single intravenous (IV) infusion of IDOV-Immune and will be closely monitored for side effects and any changes in their cancer.\n\nThis study is being conducted at multiple sites in the United States and Australia.\n\nThis is a first-in-human (FIH), Phase I, open-label, multi-center clinical trial designed to evaluate IDOV-Immune, an investigational oncolytic vaccinia virus-based immunotherapy, in adult participants with advanced solid tumors who have exhausted standard treatment options.\n\nIDOV-Immune is a genetically engineered vaccinia virus designed to selectively infect and destroy tumor cells while enhancing immune responses through the expression of immune-stimulating molecules. It has been further modified to improve tumor selectivity and minimize the risk of harming healthy cells.\n\nStudy Design:\n\nThe trial will follow a dose-escalation design to determine the maximum tolerated dose (MTD), the recommended Phase 2 dose (RP2D), and the overall safety and tolerability profile of IDOV-Immune. A Bayesian Optimal Interval (BOIN) design will guide dose-escalation decisions, based on observed dose-limiting toxicities (DLTs) during a 28-day observation period after the initial dose. The study will also assess preliminary signs of antitumor activity at each dose level.\n\nIDOV-Immune will be administered as a single intravenous (IV) infusion on Day 1 of a 28-day treatment cycle. Participants will undergo frequent safety assessments, including physical exams, laboratory tests, imaging studies, and immune response monitoring. Pharmacokinetics (how the virus behaves in the body), pharmacodynamics (how the virus impacts immune and tumor-related biomarkers), and immunogenicity (the body's immune response to the virus) will also be evaluated.\n\nPlanned Enrollment and Cohorts:\n\nThe study is expected to enroll up to approximately 42 participants in the dose-escalation phase. If appropriate, additional participants may be enrolled in backfill cohorts at selected dose levels to further assess the safety, biomarkers , and preliminary efficacy in specific populations. Across all study parts, total enrollment could reach approximately 78 participants.\n\nStudy Objectives:\n\nThe primary objective is to assess the safety and tolerability of IDOV-Immune and to determine the RP2D for future studies. Secondary objectives include evaluating how the investigational product moves through and affects the body (pharmacokinetics and pharmacodynamics), as well as initial signs of tumor response, including objective response rate (ORR), disease control rate (DCR), and progression-free survival (PFS).\n\nRationale:\n\nThere remains a significant unmet need for effective therapies for patients with advanced solid tumors who have progressed on or are intolerant to standard treatments. Oncolytic viruses have the potential for destroying cancer cells and activating anti-tumor immune responses. IDOV-Immune's multi-pronged design - combining direct oncolysis, immune recruitment, and immune system activation - aims to maximize therapeutic potential while maintaining an acceptable safety profile.\n\nStudy Locations:\n\nThe study will be conducted at multiple clinical sites in the United States and Australia with expertise in early-phase oncology trials and oncolytic virus therapies.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06910657",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06910657"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-04-04",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ViroMissile, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06910657"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Oncolytic Virus Therapy",
+  "Advanced Solid Tumors",
+  "Metastatic Cancer",
+  "Refractory Cancer",
+  "Immunotherapy",
+  "Vaccinia Virus"
+ ],
+ "title": "IDOV-Immune for Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colorectal Cancer",
+   "Pancreatic Cancer",
+   "Melanoma",
+   "Ovarian Cancer",
+   "Gastric Cancer",
+   "Esophageal Cancer",
+   "Hepatocellular Carcinoma",
+   "Renal Cell Carcinoma",
+   "Breast Cancer",
+   "Sarcoma",
+   "Bladder Cancer",
+   "Lung Cancer",
+   "Prostate Cancer",
+   "Cervical Cancers",
+   "Head and Neck Cancers",
+   "Adrenal Gland Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@viromissile.com",
+    "name": "Clinical Development",
+    "phone": "858-886-7718"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Histologically or cytologically confirmed advanced solid tumors that have progressed despite standard therapy, or for which no standard therapy exists.\n* ECOG performance status ≤ 1.\n* Measurable disease per RECIST v1.1.\n* Adequate organ and bone marrow function.\n* At least 28 days since major surgery, prior immunotherapy, or radiotherapy (with exceptions for minor procedures).\n* Negative pregnancy test for women of childbearing potential.\n* Agreement to use effective contraception during treatment and for 3 months after.\n* Ability to provide informed consent and comply with study requirements.\n\nKey Exclusion Criteria:\n\n* Prior treatment with an oncolytic virus.\n* Active or recent vaccinia virus infection or smallpox/monkeypox vaccination within 10 years.\n* Active uncontrolled infection requiring systemic treatment.\n* History of hepatitis B, hepatitis C, or HIV (unless meeting protocol-specific criteria).\n* Unresolved ≥ Grade 2 toxicities from prior therapies (except hair loss or stable chronic conditions).\n* Active or symptomatic autoimmune disease requiring systemic therapy.\n* Active or untreated CNS metastases (unless stable per protocol).\n* Significant cardiac disease (e.g., NYHA Class III/IV heart failure).\n* Interstitial lung disease or prior pneumonitis requiring steroids.\n* Conditions requiring chronic immunosuppressive therapy.\n* Severe skin disorders or history of pancreatitis.\n* Bleeding disorders or history of recent serious thromboembolic events.\n* Any medical or psychiatric condition that could interfere with study participation.",
+  "enrollment": 78,
+  "has_results": false,
+  "interventions": [
+   "IDOV-Immune (oncolytic vaccinia virus)"
+  ],
+  "last_update_posted": "2026-08-05",
+  "location_countries": [
+   "Australia",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 5,
+  "nct_id": "NCT06910657",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-01-31",
+  "sex": "ALL",
+  "sponsor": "ViroMissile, Inc.",
+  "start_date": "2025-08-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

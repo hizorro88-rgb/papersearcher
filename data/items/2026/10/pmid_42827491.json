@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer is widely acknowledged as one of the most aggressive malignancies of the digestive system. More than 80% of patients are diagnosed at an advanced stage with an extremely poor prognosis. While contemporary combination chemotherapy and the novel RAS inhibitor daraxonrasib have modestly prolonged survival, clinical benefits remain limited, necessitating less toxic yet more substantial and durable therapeutic strategies. Herein, we report a case of a patient with advanced metastatic adenocarcinoma who achieved disease stability and long-term survival following multidisciplinary treatment incorporating autologous DC-CIK cell therapy. The patient was a 73-year-old male diagnosed with poorly differentiated pancreatic ductal carcinoma 9 years ago. After surgery, he developed pelvic implantation metastases and subsequently received multi-line chemotherapy and radiotherapy. Thereafter, he completed five cycles of DC-CIK cell infusion at a dose of 5×109 ~10×109 cells between November 2018 and December 2019. The patient did not experience any obvious adverse reactions during the treatment. Post-treatment, the patient maintained a stable disease state. Although bone metastasis was detected in February 2021, the patient's overall survival (OS) and progression-free survival (PFS) reached 107 and 49 months, respectively, far exceeding those previously reported in the literature. Furthermore, the patient experienced an improvement in quality of life. These findings support multidisciplinary care as the cornerstone of long-term survival in liver cancer. As an integral component of immunomodulation, DC-CIK cell therapy remodels the tumor microenvironment to facilitate other treatments, making it a defining therapeutic decision for patients with advanced liver cancer.",
+ "authors": [
+  "Chen S",
+  "Xie Y",
+  "Xu S",
+  "Su L",
+  "Xu Y",
+  "Liu S",
+  "Zheng Q",
+  "Liu Q"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42827491",
+ "importance": 0.53,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1908017",
+  "nct": [],
+  "pmcid": "PMC13630756",
+  "pmid": "42827491"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42827491/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Multidisciplinary treatment incorporating autologous DC-CIK cell therapy induces long-term survival in advanced pancreatic cancer: a case report",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

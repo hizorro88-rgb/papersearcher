@@ -1,0 +1,101 @@
+{
+ "abstract": "A first in human study to evaluate the safety, tolerability, pharmacokinetics, and antitumor activity of BLU-924 / SAR449336, a pan-KRAS inhibitor, in participants with advanced Pancreatic Cancer, Non-Small Cell Lung Cancer, or Colorectal Cancer harboring KRAS mutations.\n\nThis is an open-label, multi-center, Phase 1/2 study designed to evaluate the safety, tolerability, pharmacokinetics (PK), and efficacy of BLU-924, a pan-KRAS inhibitor, in participants with metastatic KRAS mutant pancreatic ductal adenocarcinoma (PDAC), non-small cell lung cancer (NSCLC), or colorectal cancer (CRC). The monotherapy part of the study includes Dose Escalation, Dose Enrichment, and Dose Expansion. Participants enrolled during Dose Escalation and Dose Enrichment will be evaluated for dose limiting toxicities (DLTs) to determine the MTD. Participants enrolled into disease-specific Enrichment cohorts will enable a more robust characterization of safety, PK, pharmacodynamics, and preliminary clinical activity. Enrolment into Dose Expansion will follow the identification of at least 1 recommended dose for expansion (RDFE) based on data from the Dose Escalation and Dose Enrichment. No combination arm is active at this time.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07629960",
+ "importance": 0.81,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07629960"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-06-05",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Blueprint Medicines Corporation",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07629960"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Mutation",
+  "Metastatic Non-Small Lung Cell Cancer",
+  "Metastatic Colorectal Cancer (CRC)",
+  "Metastatic Pancreatic Ductal Adenocarcinoma",
+  "KRAS G12A",
+  "KRAS G12C",
+  "KRAS G12D",
+  "KRAS G12S",
+  "KRAS G12V",
+  "Solid Tumor, Adult"
+ ],
+ "title": "A First-in-Human Trial of BLU-924 (SAR449336) in Advanced Solid Tumors Harboring KRAS Mutations",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Non-Small Cell Lung Cancer",
+   "Colorectal Neoplasms",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "medinfo@blueprintmedicines.com",
+    "name": "Blueprint Medicines",
+    "phone": "1-888-258-7768"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Pathologically confirmed diagnosis of metastatic Kirsten rat sarcoma viral oncogene homolog (KRAS)-mutant pancreatic ductal adenocarcinoma (PDAC), non-small cell lung cancer (NSCLC), or colorectal cancer (CRC) with evidence of a single KRAS G12C, G12D, G12V, G12A, G12S, or G13D mutation in tumor tissue or circulating tumor deoxyribonucleic acid (ctDNA).\n2. Measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n3. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1.\n4. Patients must have received all standard therapies for their cancer type in the metastatic setting, unless they are unable to receive such therapies due to clinical characteristics, comorbidities, or other medically justified reasons.\n\nExclusion Criteria:\n\n1. History of additional malignancy within the last 2 years, with some exceptions as specified in the protocol.\n2. Active brain metastases (participants with asymptomatic brain metastases may be eligible).\n3. Have received prior targeted treatment(s) against KRAS, including pan-KRAS inhibitors, multi-RAS inhibitors, mutant-selective KRAS inhibitors, and RAS or KRAS degraders.\n4. Active or uncontrolled systemic infection, such as tuberculosis, Hepatitis B virus (HBV), Hepatitis C virus (HCV), or Human immunodeficiency virus (HIV).\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+  "enrollment": 265,
+  "has_results": false,
+  "interventions": [
+   "BLU-924"
+  ],
+  "last_update_posted": "2026-09-21",
+  "location_countries": [
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 16,
+  "nct_id": "NCT07629960",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-09",
+  "sex": "ALL",
+  "sponsor": "Blueprint Medicines Corporation",
+  "start_date": "2026-06-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

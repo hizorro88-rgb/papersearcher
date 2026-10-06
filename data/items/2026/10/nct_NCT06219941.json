@@ -1,0 +1,148 @@
+{
+ "abstract": "The purpose of this study is to assess the safety, tolerability, efficacy, pharmacokinetics (PK), and immunogenicity of AZD0901 as monotherapy and in combination with anti-cancer agents in participants with locally advanced unresectable or metastatic solid tumours expressing CLDN18.2 .\n\nThis open-label, multi-centre study consists of individual sub studies, each evaluating the safety and tolerability of AZD0901.\n\nSub study 1 will investigate the safety, tolerability, and anti-tumour activity of AZD0901 monotherapy in participants with advanced or metastatic gastric esophageal cancer expressing CLDN18.2. Participants will receive AZD0901 monotherapy via intravenous (IV) infusion and will be randomised in to one of 2 arms.\n\nSub study 2 will consist of two parts, a safety run-in and a dose expansion part to investigate the safety and efficacy of AZD0901 in combination with different chemotherapy agents in participants with pancreatic cancer. Substudy 3 will investigate the safety, tolerability, and anti-tumour activity of AZD0901 monotherapy in participants with advanced or metastatic Biliary tract cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06219941",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06219941"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-01-23",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AstraZeneca",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06219941"
+ },
+ "summary_ko": "The purpose of this study is to assess the safety, tolerability, efficacy, pharmacokinetics (PK), and immunogenicity of AZD0901 as monotherapy and in combination with anti-cancer agents in participants with locally advanced unresectable or metastatic solid tumours expressing CLDN18.2 . This open-label, multi-centre study consists of individual sub studies, each evaluating the safety and tolerability of AZD0901.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Gastric cancer",
+  "Gastroesophageal junction cancer",
+  "Pancreatic Ductal adenocarcinoma",
+  "Biliary Tract Cancer",
+  "Phase II",
+  "Claudin 18.2",
+  "AZD0901"
+ ],
+ "title": "AZD0901 in Participants With Advanced Solid Tumours Expressing Claudin18.2",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Gastric Cancer",
+   "Gastroesophageal Junction Cancer",
+   "Biliary Tract Cancer",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "information.center@astrazeneca.com",
+    "name": "AstraZeneca Clinical Study Information Center",
+    "phone": "1-877-240-9479"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "The list below is a summarised eligibility criteria for the study - refer to the study protocol for full criteria.\n\nMaster Inclusion Criteria applicable to all sub studies:\n\n* Participant must be ≥ 18 years or the legal age of consent at the time of signing the ICF.\n* Participants who are CLDN18.2 positive.\n* Must have at least one measurable lesion according to RECIST v1.1.\n* ECOG performance status of 0 to 1 with no deterioration over the previous 2 weeks prior first day of dosing.\n* Predicted life expectancy of ≥ 12 weeks.\n* Adequate organ and bone marrow function as defined by protocol.\n* Body weight \\> 35 kg.\n* Participants are willing to comply with contraception requirements.\n\nSub study 1 Specific Inclusion criteria:\n\n* Histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction.\n* Advanced or metastatic GC/GEJC.\n* Maximum 2 prior lines of systemic treatment for unresectable or metastatic disease.\n\nSub study 2 Specific Inclusion criteria:\n\n* Participants diagnosed with histologically confirmed metastatic or advanced PDAC.\n* Availability of an archival sample or a fresh tumour biopsy taken at screening.\n* No prior treatments for unresectable or metastatic disease. Prior neoadjuvant/adjuvant chemotherapy is permitted as long as participants progressed ≥ 6 months (183 days) from the last dose.\n\nSub study 3 Specific Inclusion criteria\n\n* Histologically confirmed, unresectable advanced, or metastatic adenocarcinoma of biliary tract, including cholangiocarcinoma (intrahepatic or extrahepatic) and gallbladder carcinoma (NOTE: Ampullary cancers are not eligible).\n* Documented radiographic or clinical disease progression on or after at least one prior regimen and maximum 2 prior lines of systemic treatment for unresectable or metastatic disease.\n\nMaster Exclusion Criteria applicable to all sub studies:\n\n* Unstable or active peptic ulcer disease or digestive tract bleeding including but not limited to clinically significant bleeding in the setting of prior CLDN18.2 directed therapy.\n* Participants with clinically significant ascites that require drainage.\n* A history of drug-induced non-infectious ILD/pneumonitis.\n* Central nervous system metastases or CNS pathology.\n* Peripheral neuropathy, sensory, or motor ≥ Grade 2 at screening.\n* History of another primary malignancy.\n* Prior exposure to any MMAE-based ADC.\n* Prior exposure to any CLDN18.2 targeted agents except anti-CLDN18.2 monoclonal antibody.\n\nSub study 1 Specific Exclusion criteria:\n\n* Participants with HER2-positive (3+ by IHC, or 2+ by IHC, and positive by ISH) or indeterminate GC/GEJC unless they have failed/not tolerated/or are not eligible for standard anti-HER2 therapy, where available.\n* Any factors that increase the risk of QTc prolongation or risk of arrhythmic events.\n* The use of concomitant medications known to prolong the QT/QTc interval.\n\nSub study 2 Specific Exclusion criteria:\n\n* Known DPD enzyme deficiency based on local testing where testing is SoC.\n* Use of strong inhibitor or inducer of UGT1A1.\n* Use of strong inhibitors or inducers of CYP3A4.\n* Known homozygous for the UGT1A1\\*28 allele based on local testing where testing is SoC.\n\nSub study 3 Specific Exclusion criteria\n\n• Clinically significant biliary obstruction that has not resolved before enrollment.",
+  "enrollment": 226,
+  "has_results": false,
+  "interventions": [
+   "AZD0901",
+   "5-Fluorouracil",
+   "Leucovorin",
+   "l-leucovorin",
+   "Irinotecan",
+   "Nanoliposomal Irinotecan",
+   "Gemcitabine"
+  ],
+  "last_update_posted": "2026-09-30",
+  "location_countries": [
+   "Australia",
+   "Canada",
+   "China",
+   "Georgia",
+   "Japan",
+   "Malaysia",
+   "Moldova",
+   "Poland",
+   "Singapore",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Gyeonggi-do",
+    "country": "South Korea",
+    "facility": "Research Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Research Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Research Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Research Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Research Site",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 52,
+  "nct_id": "NCT06219941",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-11-17",
+  "sex": "ALL",
+  "sponsor": "AstraZeneca",
+  "start_date": "2023-12-13",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

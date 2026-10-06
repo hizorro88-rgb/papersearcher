@@ -1,0 +1,90 @@
+{
+ "abstract": "This is a multicenter, open-label phase 1/2a study consisting of two parts: dose escalation phase and dose expansion phase. The objective of the dose escalation phase is to evaluate the safety, tolerability and pharmacokinetics of JAB-21822 in combination with JAB-3312 in patients with advanced solid tumors harboring KRAS p.G12C mutation and to determine the RP2D for the combination therapy. In the dose expansion phase, preliminary efficacy and safety of the combination therapy at the RP2D will be further explored in patients with specific cancer harboring KRAS p.G12C mutation.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05288205",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05288205"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2022-03-21",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Allist Pharmaceuticals, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05288205"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Phase 1/2a Study of JAB-21822 Plus JAB-3312 in Patients With Advanced Solid Tumors Harboring KRAS p.G12C Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "KRAS P.G12C",
+   "Non-small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Ductal Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "zhenhua.gong@allist.com.cn",
+    "name": "Shanghai Allist Pharmaceuticals Co., Ltd Shanghai Allist Pharmaceuticals Co., Ltd",
+    "phone": "021-80423288"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* A written informed consent should be signed by a subject or his/her legal representative before any study-related procedures are performed;\n* Subjects with histologically or cytologically confirmed locally advanced or metastatic advanced solid tumors harboring KRAS p.G12C mutation who have failed or lack standard-of-care (SOC) or are unwilling to undergo or intolerant to SOC;\n* Expected survival ≥ 3 months;\n* Subjects must have at least one measurable lesion as defined by RECIST v1.1. If no measurable lesion untreated with radiation is selected as the target lesion, a lesion treated with radiation ≥ 4 weeks before the first dose and with progression confirmed by radiography may be selected as the target lesion;\n* Eastern Cooperative Oncology Group(ECOG) performance status 0-1;\n* The organ functions of subjects meet the criteria for the following laboratory parameters at screening;\n* Subjects must be able to swallow oral medications without gastrointestinal abnormalities that significantly affect drug absorption\n\nExclusion Criteria:\n\n* Patients with previous (≤ 3 years) or current tumors of other pathological types, except for cured cervical carcinoma in situ, ductal carcinoma in situ of the breast, prostatic intraepithelial neoplasia, superficial non-invasive bladder cancer, stage I skin cancer (except melanoma); subjects without recurrence or metastasis for \\> 3 years after treatment, without current evidence of tumor, and without significant risk of recurrence of previous malignant diseases in the opinion of the study doctor may also be enrolled;\n* Serious allergy to the investigational drug or excipients (such as microcrystalline cellulose, etc.);\n* Patients with previous (≤ 6 months before the initiation of treatment) or current severe autoimmune diseases (including adverse reactions caused by previous anti- tumor immunotherapies), or autoimmune diseases requiring long-term systemic hormone therapy at immunosuppressive dose levels (prednisone \\> 10 mg/day or equivalent drugs);\n* HIV, hepatitis B virus(HBV), or hepatitis C virus(HCV) positive;\n* Previous (≤ 6 months prior to the first dose) or current evidence of the following diseases: acute myocardial infarction, unstable angina and cerebrovascular accident;\n* Subjects who have impaired cardiac functions or clinically significant cardiac diseases;\n* Pregnant or lactating women",
+  "enrollment": 240,
+  "has_results": false,
+  "interventions": [
+   "JAB-21822",
+   "JAB-3312"
+  ],
+  "last_update_posted": "2026-08-13",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 27,
+  "nct_id": "NCT05288205",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-03",
+  "sex": "ALL",
+  "sponsor": "Allist Pharmaceuticals, Inc.",
+  "start_date": "2022-04-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

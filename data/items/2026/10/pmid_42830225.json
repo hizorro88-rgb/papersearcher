@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: The PANAMA score was developed as a post-NAT prognostic tool for PDAC. Prior validations have been dominated by pancreatic head cancers. Pancreatic body and tail tumours represent a biologically distinct subgroup and remain underrepresented in NAT cohorts. Whether the score reliably predicts outcomes in distal PDAC remains unknown.\nMETHODS: A retrospective study was conducted at a single centre including patients with PDAC who received NAT followed by distal pancreatectomy between January 2015 and December 2024. Patients were stratified into low-, intermediate- and high-risk groups based on the original PANAMA score. Overall survival (OS) and disease-free survival (DFS) were assessed. Prognostic performance of the PANAMA score and AJCC staging was compared.\nRESULTS: Fifty-two patients were included. Median OS and DFS were 40.8 months (95% CI: 28.7-55.0) and 11.6 months (95% CI: 9.7-14.5), respectively. High-risk patients showed worse OS compared to intermediate- and low-risk groups (21.8, 31.1 and 55.0 months, respectively, p = 0.009). A similar pattern was observed for DFS (10.3, 11.2 and 29.2 months, respectively, p = 0.029). The AJCC stage outperformed the PANAMA score in OS prediction (C-index 0.70 vs. 0.64).\nCONCLUSION: The PANAMA score effectively stratifies patients with pancreatic body and tail PDACs undergoing neoadjuvant therapy and resection into prognostic groups.",
+ "authors": [
+  "Li S",
+  "Masuda H",
+  "Kotecha K",
+  "Bhimani N",
+  "Pavlakis N",
+  "Clarke S",
+  "Chou A",
+  "Gill A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42830225",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1111/ans.70999",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42830225"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ANZ J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42830225/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

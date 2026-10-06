@@ -1,0 +1,94 @@
+{
+ "abstract": "This is a prospective, multi-center, multi-cohort exploratory study. Cohort 1 enrolls 39 patients with unresectable locally advanced or metastatic pancreatic cancer, who will receive first-line treatment with cisplatin plus nab-paclitaxel (Ⅱ), capecitabine, and gemcitabine (PAXG).\n\nCohort 2 enrolls 27 patients with borderline-resectable or high-risk resectable pancreatic cancer, who will receive neoadjuvant therapy with the PAXG regimen.\n\nCohort 3 enrolls patients with pancreatic cancer who have undergone curative resection, who will receive adjuvant therapy with nab-paclitaxel (Ⅱ), capecitabine, and gemcitabine.\n\nObjectives of Study: To evaluate the efficacy and safety of nab-paclitaxel (Ⅱ)-based regimes for pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07828756",
+ "importance": 0.82,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07828756"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tianjin Medical University Cancer Institute and Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07828756"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Albumin-bound Paclitaxel (Ⅱ)-Combined Regimens for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "18622221120@163.com",
+    "name": "Jihui Hao",
+    "phone": "022-2340123-3077"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged 18 to 75 years old.\n* Histopathologically confirmed pancreatic adenocarcinoma meeting any one of the following conditions: (1) Unresectable locally advanced or metastatic pancreatic cancer, with no prior systemic anti-tumor therapy for advanced disease. Prior neoadjuvant/adjuvant chemotherapy is permitted, provided the interval from completion of prior chemotherapy to study drug administration is more than 6 months. (2) High-risk resectable or borderline resectable pancreatic cancer assessed by a multidisciplinary team.(3) Curative resection (R0 or R1 resection) performed without prior neoadjuvant therapy, and adjuvant treatment can be initiated within 12 weeks postoperatively.\n* Presence of at least one measurable lesion per RECIST v1.1 (exclusive to participants in Cohort 3).\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.\n* Estimated survival time ≥ 3 months.\n* Adequate bone marrow function: absolute neutrophil count (ANC) ≥ 1.5×10⁹/L, platelet count (PLT) ≥ 100×10⁹/L, hemoglobin (Hb) ≥ 90 g/L.\n* Adequate liver function: alanine transaminase (ALT) and aspartate transaminase (AST) ≤ 2.5×ULN (≤5×ULN allowed in patients with liver metastases); total bilirubin ≤ 1.5×ULN.\n* Adequate renal function: serum creatinine (Cr) ≤ 1.5×ULN, or creatinine clearance ≥ 60 mL/min (calculated by Cockroft-Gault formula).\n* Adequate coagulation function: prothrombin time (PT) and activated partial thromboplastin time (APTT) ≤ 1.5×ULN.\n* Women of childbearing potential must have a negative serum/urine pregnancy test within 14 days prior to enrollment, be non-lactating, and agree to use effective contraception throughout the study and for 6 months after the last study treatment. Male participants must agree to effective contraception during the study and for 6 months after study completion.\n* Able to understand the study information; participant or legal representative voluntarily provides written informed consent.\n\nExclusion Criteria:\n\n* History of other malignant tumors within the past 5 years\n* Known hypersensitivity or intolerance to any study drug or excipients.\n* Confirmed homozygous or compound heterozygous DPYD variants leading to complete dihydropyrimidine dehydrogenase (DPD) deficiency.\n* Presence of any of the following comorbidities: ① Severe or uncontrolled cardiovascular disease: New York Heart Association (NYHA) Class II or higher chronic heart failure, uncontrolled hypertension (systolic BP \\>150 mmHg and/or diastolic BP \\>90 mmHg despite stable medication), etc. ② Severe respiratory disorders: asthma requiring inhaled/systemic glucocorticoids, active chronic obstructive pulmonary disease, etc. ③ Confirmed neurological diseases (epilepsy, dementia, etc.) or Grade ≥2 peripheral sensory/motor neuropathy. ④ Uncontrolled diabetes mellitus (fasting blood glucose ≥10 mmol/L under stable treatment). ⑤ Severe chronic or active infections requiring ≥1 consecutive week of systemic antibacterial, antifungal or antiviral therapy (including tuberculosis). ⑥ Active HIV infection (HIV antibody positive); untreated active HBV (HBsAg/HBcAg positive with HBV-DNA above institutional upper limit of normal) or active HCV infection (HCV antibody positive with HCV-RNA above institutional upper limit of normal).\n* Untreated active brain metastases (including symptomatic brain or leptomeningeal metastases). Participants with brain metastases are eligible only if brain lesions are stable on imaging performed ≥4 weeks prior to first study dose, no new neurological symptoms or baseline symptom relapse, and no systemic steroid administration for ≥14 days before study treatment initiation, with no evidence of new or enlarged metastatic lesions.\n* Medical history as follows: ① Major abdominal/thoracic surgery within 28 days prior to first study dose, or planned major surgery during the study period (diagnostic puncture and infusion port implantation excluded). ② Severe cardiovascular/cerebrovascular events (myocardial infarction, unstable angina, cerebrovascular accident) within 6 months prior to enrollment; clinically silent lacunar infarcts are permitted.\n* History of deep vein thrombosis or pulmonary embolism within 3 months prior to enrollment.\n* Inability to swallow or untreated malabsorption syndrome.\n* Receipt of any investigational product within 1 month prior to enrollment.\n* Any other condition judged by the investigator to render the participant unsuitable for study participation.",
+  "enrollment": 147,
+  "has_results": false,
+  "interventions": [
+   "Cisplatin",
+   "Albumin-bound Paclitaxel (Ⅱ)",
+   "Albumin-bound Paclitaxel (Ⅱ)",
+   "Capecitabine",
+   "Capecitabine",
+   "Gemcitabine",
+   "Gemcitabine"
+  ],
+  "last_update_posted": "2026-09-18",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07828756",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-10-31",
+  "sex": "ALL",
+  "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+  "start_date": "2026-09-30",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

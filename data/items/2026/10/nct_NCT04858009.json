@@ -1,0 +1,101 @@
+{
+ "abstract": "This phase II trial studies the effects of hyperthermic intraperitoneal chemotherapy (HIPEC) in treating patients with pancreatic cancer that has spread to the internal abdominal area (peritoneal metastasis). Chemotherapy drugs, such as nab-paclitaxel and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. HIPEC involves \"heated\" chemotherapy that is placed directly in the abdomen through laparoscopic instruments, instead of through an intravenous injection. This study may help doctors determine how safe and effective HIPEC work in treating patient with pancreatic cancer.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate overall survival and disease-free survival outcomes for patients with pancreatic adenocarcinoma with limited low volume peritoneal metastasis or positive peritoneal cytology undergoing hyperthermic intraperitoneal chemotherapy.\n\nSECONDARY OBJECTIVE:\n\nI. To assess morbidity for patients with pancreatic adenocarcinoma with limited low volume peritoneal metastasis or positive peritoneal cytology undergoing hyperthermic intraperitoneal chemotherapy.\n\nOUTLINE:\n\nPatients undergo HIPEC with nab-paclitaxel and cisplatin over 90 minutes in the absence of disease progression or unacceptable toxicity. Patients may undergo additional HIPEC with paclitaxel and cisplatin up to 5 times. Patients undergo computed tomography (CT) scan, magnetic resonance imaging (MRI) or positron emission tomography (PET) during screening.\n\nAfter completion of study treatment, patients are followed up every 6 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04858009",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04858009"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2021-04-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mayo Clinic",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04858009"
+ },
+ "summary_ko": "This phase II trial studies the effects of hyperthermic intraperitoneal chemotherapy (HIPEC) in treating patients with pancreatic cancer that has spread to the internal abdominal area (peritoneal metastasis). Chemotherapy drugs, such as nab-paclitaxel and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Hyperthermic Intraperitoneal Chemotherapy for the Treatment of Pancreatic Cancer and Peritoneal Metastasis",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Carcinoma",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Metastatic Malignant Neoplasm in the Peritoneum"
+  ],
+  "contacts": [
+   {
+    "email": "kemp.john@mayo.edu",
+    "name": "John F. Kemp",
+    "phone": "507-422-9153"
+   },
+   {
+    "email": null,
+    "name": "HPB Study Team",
+    "phone": "507-422-9153"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age \\>= 18 but =\\< 80\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Cytologic or histologic proof of adenocarcinoma of the pancreas\n* Leukocytes \\>= 3,000/uL\n* Absolute neutrophil count \\>= 1,500/uL\n* Platelets \\>= 60,000/Ul\n* Serum creatinine =\\< 1.5 mg/dL\n* Distant metastatic disease of peritoneum may be visualized on imaging:\n\n  * Positive peritoneal cytology\n  * Limited carcinomatosis on diagnostic laparoscopy or laparotomy\n  * KRASD assay positive peritoneal washings/cytology\n* Completion of preoperative systemic chemotherapy with biochemical, metabolic, and/or radiographic response defined as a reduction in the baseline CA 19-9 by \\> 50% or radiographic response as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 or metabolic response on positron emission tomography (PET)-magnetic resonance imaging (MRI) defined by PET Response Criteria in Solid Tumors (PERCIST) criteria\n* Peritoneal Carcinomatosis Index (PCI) =\\< 7 and surgeons deems high likelihood for a complete cytoreduction\n\nExclusion Criteria:\n\n* Distant metastatic disease not limited to peritoneum:\n\n  * Solid organ metastases (liver, central nervous system, lung)\n* Infections such as pneumonia or wound infections that would preclude protocol therapy\n* Women with a positive urine or serum pregnancy test are excluded from this study; women of childbearing potential (defined as those who have not undergone a hysterectomy or who have not been postmenopausal for at least 24 consecutive months) must agree to refrain from breast feeding and practice adequate contraception as specified in the informed consent. Adequate contraception consists of oral contraceptive, implantable contraceptives, injectable contraceptives, a double barrier method, or abstinence\n* Subjects deemed unable to comply with study and/or follow-up procedures\n* Subjects with a known hypersensitivity to protocol systemic chemotherapy that was life-threatening, required hospitalization or prolongation of existing hospitalization, or resulted in persistent or significant disability or incapacity",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "Cisplatin",
+   "Hyperthermic Intraperitoneal Chemotherapy",
+   "Nab-paclitaxel",
+   "Computed Tomography",
+   "Magnetic Resonance Imaging",
+   "Positron Emission Tomography"
+  ],
+  "last_update_posted": "2026-09-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04858009",
+  "phase": "PHASE2",
+  "primary_completion_date": "2029-07",
+  "sex": "ALL",
+  "sponsor": "Mayo Clinic",
+  "start_date": "2024-02-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

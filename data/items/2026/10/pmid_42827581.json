@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal human malignancies, with a 5-year overall survival rate below 10%. NALIRIFOX and FOLFIRINOX, both in full-dose and modified (mFOLFIRINOX) formulations, are guideline-endorsed Category 1 first-line regimens for fit patients with metastatic PDAC. However, no direct head-to-head randomized trial has compared these regimens. This systematic review and reconstructed individual patient data meta-analysis represents the first comprehensive simultaneous comparison of NALIRIFOX and FOLFIRINOX/mFOLFIRINOX across efficacy and safety outcomes.\nMETHODS: A systematic search was conducted across PubMed, Embase, Scopus, ClinicalTrials.gov, and ASCO/ESMO proceedings from January 2011 to May 2025. Eligible studies enrolled treatment-naïve adults with unresectable or metastatic PDAC receiving first-line NALIRIFOX or FOLFIRINOX. Individual patient-level time-to-event data for overall survival (OS) and progression-free survival (PFS) were reconstructed from published Kaplan-Meier curves and pooled across studies. Treatment effects were estimated using mixed-effects Cox regression models accounting for between-study variability. Grade ≥3 adverse events were pooled using a random-effects model.\nRESULTS: Nine studies encompassing 2,733 patients were included in the primary OS analysis. Of these, 1,138 (42%) received FOLFIRINOX, 1,180 (43%) received mFOLFIRINOX, and 415 (15%) received NALIRIFOX. Six studies (n = 1,028 patients) reported PFS and were included in that analysis. The overall median OS (mOS) across all groups was 12.38 months (95% CI: 12.06-12.85). By regimen: mOS was 10.98 months (95% CI: 10.43-11.53) for FOLFIRINOX, 14.09 months (95% CI: 13.52-15.02) for mFOLFIRINOX, and 11.81 months (95% CI: 10.42-12.52) for NALIRIFOX. When FOLFIRINOX and mFOLFIRINOX were pooled, the combined group achieved a mOS of 12.59 months (95% CI: 12.21-13.27), which showed no statistically significant difference compared with NALIRIFOX (HR 1.13, 95% CI: 0.71 -1.81; p = 0.6). Moreover, no statistically significant difference was found between NALIRIFOX and full-dose FOLFIRINOX alone (HR = 1.09, 95% CI: 0.66 -1.79; p = 0.73). The overall mPFS was 7.66 months (95% CI: 7.30-8.21). By regimen: mPFS was 8.24 months (95% CI: 7.55-9.35) for FOLFIRINOX, 6.64 months (95% CI: 5.78-7.74) for mFOLFIRINOX, and 7.49 months (95% CI: 7.13-8.78) for NALIRIFOX; the pooled FOLFIRINOX/mFOLFIRINOX group achieved a mPFS of 7.71 months (95% CI: 7.23-8.41). Safety analysis confirmed distinct toxicity profiles: FOLFIRINOX carried a higher burden of grade 3/4 hematologic toxicity (neutropenia up to 45-53%; thrombocytopenia 11.8%), while NALIRIFOX was associated with lower hematologic toxicity but substantially higher grade 3/4 diarrhea (~20.3%) and hypokalemia (15.1%).\nCONCLUSION: No statistically significant differences in OS or PFS were observed between NALIRIFOX and FOLFIRINOX. The numerically higher OS observed in the pooled FOLFIRINOX/mFOLFIRINOX group was largely driven by the mFOLFIRINOX subgroup. NALIRIFOX's lower hematologic toxicity may reduce downstream resource utilization. Prospective head-to-head trials and biomarker-driven studies are needed.\nSYSTEMATIC REVIEW REGISTRATION: [URL], identifier (identifier number).",
+ "authors": [
+  "Esmail A",
+  "Guan J",
+  "Alabed Z",
+  "Hamdaneh Y",
+  "Al-Najjar E",
+  "Abdelrahim S",
+  "Mustafa N",
+  "Khasawneh B"
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "surgery",
+  "trial"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox"
+ ],
+ "evidence": "meta",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42827581",
+ "importance": 0.88,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.3389/fonc.2026.1902839",
+  "nct": [],
+  "pmcid": "PMC13630592",
+  "pmid": "42827581"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42827581/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal human malignancies, with a 5-year overall survival rate below 10%. NALIRIFOX and FOLFIRINOX, both in full-dose and modified (mFOLFIRINOX) formulations, are guideline-endorsed Category 1 first-line regimens for fit patients with metastatic PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

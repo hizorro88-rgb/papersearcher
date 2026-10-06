@@ -1,0 +1,107 @@
+{
+ "abstract": "This is a prospective, randomized, open-label, active-controlled study to evaluate the efficacy and safety of Romiplostim N01 plus all-trans retinoic acid (ATRA) compared with Romiplostim N01 alone in adults with persistent isolated chemotherapy-induced thrombocytopenia (PICIT) after complete remission of gastrointestinal/digestive system solid tumors, including but not limited to gastrointestinal tract, pancreatic, and colorectal cancers.\n\nEligible participants will be randomized in a 1:1 ratio to receive Romiplostim N01 plus oral ATRA or Romiplostim N01 alone for 12 weeks, with follow-up through Week 24. The primary outcome is the overall platelet response rate at Week 12, defined as platelet count \\>50 x 10\\^9/L in at least 2 of the last 3 scheduled platelet assessments up to Week 12. Secondary outcomes include sustained response during Weeks 13 to 24, complete and partial response rates, duration of response, time to response, platelet count changes, platelet transfusion requirements, bleeding events, and safety.\n\nChemotherapy-induced thrombocytopenia is a clinically important complication of anticancer treatment. In some patients, thrombocytopenia persists after completion of chemotherapy despite complete remission of the underlying tumor. Persistent isolated chemotherapy-induced thrombocytopenia (PICIT) is characterized by prolonged thrombocytopenia with relatively preserved red blood cell and neutrophil counts, after exclusion of other causes of thrombocytopenia.\n\nThis study focuses on adult patients with PICIT after complete remission of gastrointestinal/digestive system solid tumors, including but not limited to gastrointestinal tract, pancreatic, and colorectal cancers. Romiplostim N01 is a thrombopoietin receptor agonist intended to stimulate megakaryocyte proliferation and platelet production. All-trans retinoic acid (ATRA) may provide additional hematopoietic and immunomodulatory effects. The study will compare Romiplostim N01 plus ATRA with Romiplostim N01 alone.\n\nEligible participants will be centrally randomized in a 1:1 ratio to one of two treatment arms. Participants in the experimental arm will receive Romiplostim N01 by subcutaneous injection once weekly plus oral ATRA twice daily for 12 weeks. Participants in the active comparator arm will receive Romiplostim N01 alone once weekly for 12 weeks. Romiplostim N01 dose adjustment will be based on platelet count according to the protocol. Supportive care and rescue treatment, including platelet transfusion for severe bleeding or clinically indicated thrombocytopenia, are permitted.\n\nParticipants will be followed weekly during Weeks 1 to 12 and every 2 weeks during Weeks 13 to 24. The primary endpoint is overall response rate at Week 12. Secondary endpoints include sustained response rate during Weeks 13 to 24, complete response rate, partial response rate, duration of response, time to response, platelet count changes, platelet transfusion requirements, bleeding events, and adverse events. Safety will be assessed by monitoring adverse events and serious adverse events, including ATRA-related toxicities and thrombopoietin receptor agonist-associated risks such as thromboembolic events.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07586813",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07586813"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-05-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Peking University People's Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07586813"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "PICIT",
+  "Persistent isolated chemotherapy-induced thrombocytopenia",
+  "CIT",
+  "Chemotherapy-induced thrombocytopenia",
+  "Romiplostim N01",
+  "ATRA",
+  "All-trans retinoic acid",
+  "Tretinoin",
+  "Thrombopoietin receptor agonist",
+  "Gastrointestinal solid tumor"
+ ],
+ "title": "Romiplostim N01 Plus ATRA for Persistent Isolated Chemotherapy-Induced Thrombocytopenia After Complete Remission of Gastrointestinal Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Persistent Isolated Chemotherapy-Induced Thrombocytopenia",
+   "Chemotherapy-Induced Thrombocytopenia",
+   "Gastrointestinal Neoplasms",
+   "Pancreatic Cancer",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zhangxh@bjmu.edu.cn",
+    "name": "Xiaohui Zhang, MD",
+    "phone": "+8610-8832-4672"
+   },
+   {
+    "email": "keceyshen@gmail.com",
+    "name": "Kexin Shen, MD",
+    "phone": "+8617710635036"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. Prior diagnosis of a gastrointestinal/digestive system solid tumor, including but not limited to gastrointestinal tract, pancreatic, or colorectal cancer.\n3. Complete remission of the underlying tumor after chemotherapy or antitumor treatment, with tumor-related treatment discontinued for at least 12 weeks before enrollment, no evidence of recurrence or progression by specialist assessment, and no current need for additional tumor-directed therapy.\n4. Persistent isolated chemotherapy-induced thrombocytopenia, defined as platelet count \\<30 x 10\\^9/L on two peripheral blood tests at least 7 days apart; or platelet count slightly higher than 30 x 10\\^9/L with dependence on platelet transfusion to maintain a safe platelet level.\n5. Thrombocytopenia has persisted since the last chemotherapy treatment without a clear trend of spontaneous recovery.\n6. Red blood cell count and neutrophil count are generally preserved, without clinically significant anemia or neutropenia.\n7. Bone marrow assessment performed within 1 year after tumor diagnosis and chemotherapy shows no tumor cell infiltration; megakaryocyte count is normal or increased, with or without maturation impairment.\n8. No hepatosplenomegaly, portal hypertension, or other evidence suggesting abnormal platelet redistribution as the main cause of thrombocytopenia.\n9. Prior treatment with at least one thrombopoietin receptor agonist or recombinant human thrombopoietin for PICIT without response, defined as failure of platelet count to rise to a safe level or to at least 2 times baseline after at least 2 weeks of standard-dose treatment.\n10. No prior use of Romiplostim N01.\n11. Other platelet-raising medications have been discontinued before enrollment. No washout period is required for prior thrombopoietin receptor agonists; other investigational drugs or off-label treatments must be discontinued for at least 1 month before enrollment.\n12. Ability to understand and sign the informed consent form and willingness to comply with study visits and procedures.\n13. Women of childbearing potential must have a negative pregnancy test before enrollment and agree to use effective contraception during study treatment.\n\nExclusion Criteria:\n\n1. Other hematologic diseases that may affect hematopoiesis or cause thrombocytopenia, including but not limited to aplastic anemia, myelodysplastic syndrome, leukemia or other hematologic malignancies, or a clear history of primary immune thrombocytopenia.\n2. Active recurrence or progression of the underlying tumor, or evidence of bone marrow metastasis or tumor cell infiltration on bone marrow examination.\n3. Uncontrolled chronic viral infection, including hepatitis B, hepatitis C, or HIV infection, or active severe infection at screening or within 4 weeks before screening.\n4. Severe cardiac, hepatic, renal, or other organ dysfunction, or any serious organic disease that would make the participant unable to tolerate study treatment.\n5. Pregnancy or breastfeeding.\n6. Known severe hypersensitivity to Romiplostim, Romiplostim N01, ATRA, or any component of the study drugs.\n7. Prior Romiplostim treatment associated with severe adverse reactions or lack of efficacy.\n8. Poor compliance, inability to complete treatment or follow-up, psychiatric or psychological condition that prevents understanding of the study procedures, or any other condition that, in the investigator's judgment, may increase study risk or interfere with interpretation of study results.",
+  "enrollment": 220,
+  "has_results": false,
+  "interventions": [
+   "Romiplostim N01",
+   "All-trans retinoic acid"
+  ],
+  "last_update_posted": "2026-05-14",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07586813",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-10-31",
+  "sex": "ALL",
+  "sponsor": "Peking University People's Hospital",
+  "start_date": "2025-12-22",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

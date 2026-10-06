@@ -1,0 +1,95 @@
+{
+ "abstract": "This is a phase I study that will enroll patients with pancreatic cancer and liver metastasis who have failed prior gemcitabine-based chemotherapy. Patients will be treated with nanoliposomal irinotecan plus 5-FU and leucovorin and NH002-based sonoporation to the liver metastasis.\n\nWith dose escalation under the 3+3 phase I design, NH002-based sonoporation will be performed in 4 cohorts. In cohort 1, NH002 will be given with one short course of sonoporation (on Cycle 1 Day 1). In cohort 2, NH002 will be given with one long course of sonoporation (on Cycle 1 Day 1). In cohort 3, NH002 will be given with two long courses of sonoporation (on Cycle 1 Day 1 and Day 2). In cohort 4, NH002 will be given with three long courses of sonoporation (on Cycle 1 Days 1, 2, and 3). During the NH002-based sonoporation, chemotherapy with standard dose of nanoliposomal irinotecan plus 5-FU and leucovorin will be administered concomitantly. The primary endpoint is safety parameters and to determine the dose-limiting toxicity and maximum tolerated dose.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07314385",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07314385"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-01-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Taiwan University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07314385"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic adenocarcinoma",
+  "liver metastasis",
+  "sonoporation",
+  "nanoliposomal irinotecan"
+ ],
+ "title": "NH002-mediated Sonoporation With Chemotherapy in Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma Metastatic",
+   "Liver Metastasis"
+  ],
+  "contacts": [
+   {
+    "email": "b4401064@gmail.com",
+    "name": "Shih-Hung Yang, MD. PhD.",
+    "phone": "+886-72653399"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Dated and signed informed consent\n2. Either sex, aged 18 to 80 years old (inclusive) at the date of consent\n3. With histologically or cytologically confirmed PDAC\n4. With life expectancy at least 12 weeks\n5. Two or more liver metastatic lesions; of them, at least one lesion with the longest diameter (measured on computed tomography \\[CT\\] or Magnetic resonance imaging \\[MRI\\]) at least 1 cm and not more than 5 cm as well as a depth not more than 7 cm from the skin to the lesion center, and considered feasible for sonoporation by the investigator\n\n   \\- Note: The number of liver metastatic lesions with the longest diameter at least 1 cm should be no more than 10.\n6. Has failed frontline gemcitabine-based chemotherapy and is prepared for an application of NHI-reimbursed nal-IRI, LV, and 5-FU treatment\n7. Has not received previous radiotherapy, local therapy (e.g., radiofrequency ablation, irreversible electroporation, etc.), or cell therapy (autologous or allogenic) for PDAC\n8. Has recovered from all treatment-related toxicities or resolved to no greater than grade 1, based on common terminology criteria for adverse events (CTCAE) v.5.0, before enrollment\n9. With an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n10. With adequate hematology function at screening, defined as:\n\n    * White blood cell (WBC) at least 3,500/mm3\n    * Absolute neutrophil count (ANC) at least 1,500/mm3\n    * Hemoglobin at least 10.0 g/dL\n    * Platelet at least 100,000/mm3\n    * Prothrombin time (PT) not more than 1.5 fold upper limit of normal (ULN)\n    * Activated partial thromboplastin time (aPTT) not more than 1.5 fold ULN\n    * International normalized ratio (INR) of PT not more than 1.5 fold ULN\n11. With adequate hepatic function at screening, defined as:\n\n    * Total bilirubin not more than 2 fold ULN and 2.0 mg/dL\n    * Alanine transaminase (ALT) and aspartate transaminase (AST) not more than 5 fold ULN and 200 U/L\n12. With adequate renal function at screening, defined as:\n\n    * Serum Creatinine not more than 1.2 mg/dL\n    * Creatinine clearance at least 50 mL/min (Cockroft-Gault formula)\n13. Women of childbearing potential, including those experiencing chemical menopause or absence of menstruation for medical reasons, must consent to use at least two contraceptive precautions, one of which must be a condom or other adequate barrier method, and refrain from breastfeeding from informed consent until at least 5 months after the final dose of investigational product.\n14. Men must consent to use at least one contraceptive precaution from the initiation of the study treatment until at least 3 months after the final dose of the investigational product\n\nExclusion Criteria:\n\n1. Interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected treatment-related pulmonary toxicity within 28 days before screening\n2. Presence of diarrhea at least grade 2 based on CTCAE v.5.0\n3. Concomitant systemic infection requiring treatment\n4. Clinically significant co-morbid medical conditions, including cardiovascular disease, such as:\n\n   * Myocardial infarction within 180 days before screening\n   * Uncontrollable angina pectoris within 180 days before screening\n   * New York Heart Association (NYHA) Class III or IV congestive heart failure\n   * Uncontrollable hypertension despite appropriate treatment (e.g., systolic blood pressure at least 150 mmHg or diastolic blood pressure at least 90 mmHg lasting 24 hours or more)\n   * Arrhythmia requiring treatment\n5. Prior organ allograft or allogeneic bone marrow transplantation\n6. Received immunosuppressants within 28 days before screening or have received systemic steroid of equivalent dosage higher than prednisolone 30 mg/day for more than 7 days within 14 days prior to Cycle 1 Day 1\n7. Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome\n8. Moderate or severe ascites, pleural effusion, or pericardial effusion requiring treatment\n9. Central nervous system metastasis\n10. Prior or concurrent malignancy other than PDAC within the last 3 years, except for carcinoma in situ of the cervix or basal type skin cancer\n11. Any major surgery within 4 weeks before screening. Patients must have recovered from the effects of major surgery or significant traumatic injury at least 14 days before Cycle 1 Day 1\n12. Pregnant women or nursing mothers, or positive pregnancy tests at screening\n13. Severe mental disorder which may affect the subject s compliance to the study protocol, as judged by the investigator\n14. Prior history of allergy to agents that is similar to IP such as any MB ultrasound contrast agents or IRI or LV or 5-FU\n15. Judged by the principal investigator (PI) or sub-investigators to be inappropriate for participation in this study\n16. Known or suspected hypersensitivity reactions to NH002-related phospholipids or polyethylene glycol (PEG), including prior reactions to common PEG-containing products such as colonoscopy bowel preparations, and certain laxatives (e.g., Miralax)\n17. Known or suspected hypersensitivity reactions to one or more of the ingredients of NH002, Definity, or other perflutren-containing echocardiographic contrast agent.\n18. Clinically unstable cardiopulmonary conditions, including but not limited to obstructive lung disease, cardiac shunt abnormalities, or arteriovenous shunt abnormalities, considered not suitable for participation in the trial, in the judgment of the investigator\n\n    \\-",
+  "enrollment": 24,
+  "has_results": false,
+  "interventions": [
+   "nanoliposomal irinotecan+5-FU+leucovorin",
+   "NH002 (Perflutren Lipid Microspheres) Injectable Suspension",
+   "Aco Apache Ultrasound"
+  ],
+  "last_update_posted": "2026-01-02",
+  "location_countries": [
+   "Taiwan"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07314385",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "National Taiwan University Hospital",
+  "start_date": "2026-01-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

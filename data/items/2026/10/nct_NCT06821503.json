@@ -1,0 +1,94 @@
+{
+ "abstract": "This trial is the cohort C part of a multicenter, open label Phase Ib/II clinical study evaluating the preliminary efficacy, safety, and tolerability of LM-108 combined with anti-tumor therapy in patients with advanced solid tumors. The dose of LM-108 combined with penpulimab, albumin paclitaxel, and gemcitabine is recommended in Phase Ib.Explore the efficacy and safety of LM-108 combined with anti-tumor therapy in patients with advanced pancreatic cancer in Phase II.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06821503",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06821503"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-02-12",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06821503"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Clinical Study Evaluating the Safety, Tolerability, and Preliminary Efficacy of LM-108 ± Penpulimab+Chemotherapy in Advanced Solid Tumors - Cohort C",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "doctorshenlin@sina.cn",
+    "name": "Lin Shen, Doctor",
+    "phone": "13911219511"
+   },
+   {
+    "email": "haojihui@tjmuch.com",
+    "name": "Jihui Hao, Doctor",
+    "phone": "18622221120"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age 18 or above.\n* The Eastern Cooperative Oncology Group (ECOG) physical fitness status score is 0-1 points.\n* There should be at least one measurable lesion.\n* All acute toxic reactions caused by previous anti-tumor treatments or surgical procedures have been relieved to grade 0-1 or to the levels specified in the inclusion/exclusion criteria.\n* Have sufficient organ and bone marrow function\n* Expected survival period ≥ 12 weeks\n* Infertility is defined as women who have reached menopause or have undergone bilateral oophorectomy with medical records. Male participants and female participants with fertility must agree to use one medically approved contraceptive measure during the trial period and within 6 months after the last administration of the trial drug or within 9 months after the last administration of chemotherapy drug (oxaliplatin) (whichever is later). The serum pregnancy test must be negative within 3 days before starting the study medication and not during lactation.\n* With my consent and signed informed consent form.\n* Patients with a pathological diagnosis of pancreatic cancer (ductal adenocarcinoma or adenocarcinoma) have evidence of advanced or metastatic disease that is not resectable.\n* Previously received no systemic treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nExclusion Criteria:\n\n* Known High-frequency microsatellite instability (MSI-H)/deficient mismatch repair (dMMR).\n* There is uncontrolled or symptomatic active central nervous system metastasis, which can manifest as clinical symptoms, cerebral edema, spinal cord compression, cancerous meningitis, leptomeningeal disease, and/or progressive growth.\n* Within 14 days prior to enrollment, there were still uncontrollable pleural effusion and ascites despite treatment such as puncture and drainage; Pericardial effusion accompanied by clinical symptoms or moderate or above.\n* Within 14 days prior to enrollment, there is an unresolved biliary obstruction, or the clinical status has remained stable for less than 14 days after biliary stent implantation.\n* Participants' weight has decreased by more than 20% or their body mass index (BMI) is less than 18 kg/m ² within the first 2 months of enrollment.\n* Received the following treatments or medications before enrollment:\n\n  1. Prior to enrollment, received treatment with C-C chemokine Receptor 8 (CCR8) antibodies, cytotoxic T-lymphocyte associated protein-4 (CTLA-4) antibodies, or other drugs that act on Tregs.\n  2. Having undergone major surgery within 28 days prior to enrollment.\n  3. Used immunosuppressive drugs within 14 days prior to enrollment.\n  4. Vaccination with attenuated live vaccine should be administered within 28 days prior to enrollment or planned within the study period and 60 days after completion of study drug treatment.\n  5. Received anti-tumor therapy (including chemotherapy, radiotherapy, immunotherapy, endocrine therapy, targeted therapy, biological therapy, or tumor embolization) within 28 days before enrollment.\n* Diagnosed with any other malignant tumor within the 5 years prior to enrollment.\n* There are any active, known or suspected autoimmune diseases present.\n* Within the first 3 months of enrollment, there have been significant clinical bleeding symptoms or clear bleeding tendencies; Arterial/venous thrombotic events that occurred within the first 6 months of enrollment.\n* Significant vascular disease occurred within the first 6 months of enrollment.\n* Severe, unhealed, or cracked wounds, as well as active ulcers or untreated fractures.\n* There is peripheral neuropathy of grade\\>1 present.\n* Have experienced gastrointestinal perforation and/or gastrointestinal fistula within the 6 months prior to enrollment;\n* Within the 6 months prior to enrollment, there have been clinical signs or symptoms of intestinal obstruction and/or gastrointestinal obstruction.\n* Existence of interstitial lung disease, non infectious pneumonia, or uncontrolled systemic diseases.\n* Known to be allergic to the investigational drug or any of its excipients; Or have experienced severe allergic reactions to other monoclonal antibodies.\n* Human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS), untreated active hepatitis or co infection with hepatitis B and hepatitis C.\n* Clinical symptoms or diseases of the heart that have not been well controlled:\n* Systemic use of antibiotics for at least 7 days within the 28 days prior to enrollment, or unexplained fever\\>38.5 °C during screening/before first administration.\n* Known history of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n* Have participated in any other drug clinical studies within 4 weeks prior to enrollment, or have not had more than 5 half lives since the last study medication.\n* Known history of abuse or drug use of psychotropic substances.\n* There are other serious physical or mental illnesses or laboratory abnormalities that may increase the risk of participating in the study, or interfere with the study results, as well as patients who the researcher deems unsuitable to participate in this study.",
+  "enrollment": 72,
+  "has_results": false,
+  "interventions": [
+   "LM-108 injection",
+   "Penpulimab injection",
+   "Paclitaxel for injection (albumin bound)",
+   "Gemcitabine hydrochloride for injection"
+  ],
+  "last_update_posted": "2026-03-10",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 16,
+  "nct_id": "NCT06821503",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+  "start_date": "2025-04-11",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

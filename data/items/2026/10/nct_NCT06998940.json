@@ -1,0 +1,96 @@
+{
+ "abstract": "This phase III trial compares the effect of adding panitumumab to standard chemotherapy (with nanoliposomal Irinotecan, leucovorin, and 5-fluorouracil \\[5-FU\\] or irinotecan, leucovorin, and 5-FU or nab-paclitaxel and gemcitabine) versus standard chemotherapy alone in treating patients with KRAS wild type (WT) pancreatic ductal adenocarcinoma that cannot be removed by sugery (unresectable) or that has spread to nearby tissue or lymph nodes (locally advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic). Panitumumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. A monoclonal antibody is a type of protein that can bind to certain targets in the body, such as molecules that cause the body to make an immune response (antigens). Chemotherapy drugs, such as nanoliposomal irinotecan, leucovorin, 5-FU, irinotecan, nab-paclitaxel and gemcitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Adding panitumumab to standard chemotherapy may be effective in treating patients with unresectable, locally advanced, or metastatic KRAS WT pancreatic ductal adenocarcinoma.\n\nPRIMARY OBJECTIVE:\n\nI. To compare overall survival (OS) between participants with locally advanced or metastatic KRAS wild type (WT) pancreatic ductal adenocarcinoma (PDA) randomized to panitumumab plus second-line cytotoxic chemotherapy (5FU- or gemcitabine-based) versus chemotherapy alone.\n\nSECONDARY OBJECTIVES:\n\nI. To compare progression-free survival (PFS) between treatment arms. II. To compare the overall response rate (ORR) (ORR, including confirmed and unconfirmed, complete and partial response according to Response Evaluation Criteria in Solid Tumors \\[RECIST\\] 1.1 criteria) between treatment arms in participants with measurable disease.\n\nIII. To compare disease control rate (DCR) (DCR, defined as ORR + stable disease rate \\[SD\\]) between treatment arms in participants with measurable disease.\n\nIV. To evaluate the frequency and severity of toxicity within each treatment arm.\n\nV. To compare duration of response (DoR) between treatment arms in participants with measurable disease.\n\nADDITIONAL OBJECTIVES:\n\nI. To compare OS and PFS between treatment arms in the subgroup of participants with MAPK negative cancers, that is, cancers without any known mitogen-activated protein kinase (MAPK) pathway molecular alterations (type 1 or 2 BRAF mutations; BRAF, NRG1, ROS1, FGFR1-3 and RAF1 fusions; EGFR, KRAS, and FGFR1-3 amplification).\n\nII. To compare ORR in participants with MAPK negative cancers between treatment arms in participants with measurable disease.\n\nPATIENT-REPORTED OUTCOMES COMMON TERMINOLOGY CRITIERIA FOR ADVERSE EVENTS (CTCAE) OBJECTIVES:\n\nI. To compare health-related quality of life (QOL) by treatment arm at 8 weeks after randomization, measured by the Functional Assessment of Cancer Therapy - General (FACT-G) total score.\n\nII. To compare the impact of treatment toxicity by treatment arm at 8 weeks after randomization, measured by the Functional Assessment of Chronic Illness Therapy (FACIT) Item GP5.\n\nIII. To compare changes from baseline in QOL and impact of treatment toxicity between treatment arms using FACT-G total score and FACIT Item GP5 to 24 weeks after randomization.\n\nIV. To assess patient-reported symptoms by treatment arm using selected patient reported outcome (PRO)-CTCAE items including gastrointestinal, dermatologic, and constitutional symptoms of pain and fatigue.\n\nBANKING OBJECTIVE:\n\nI. To bank specimens for future correlative studies.\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM A: Patients receive panitumumab intravenously (IV) over 30-90 minutes on days 1 and 15. Patients also receive either nanoliposomal irinotecan IV over 90 minutes on days 1 and 15, leucovorin IV over 30 minutes on days 1 and 15, and 5-FU IV over 46 hours on days 1-3 and 15-17 or irinotecan IV over 90 minutes, leucovorin IV over 90-120 minutes on days 1 and 15, 5-FU IV bolus over 5-15 minutes on days 1 and 15 and 5FU IV continuous over 46 hours on days 1-3 and 15-17 or nab-paclitaxel IV over 30 minutes, and gemcitabine IV over 30 minutes on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo computed tomography (CT) scan and blood sample collection throughout the study.\n\nARM B: Patients receive either nanoliposomal irinotecan IV over 90 minutes on days 1 and 15, leucovorin IV over 30 minutes on days 1 and 15, and 5-FU IV over 46 hours on days 1-3 and 15-17 or irinotecan IV over 90 minutes, leucovorin IV over 90-120 minutes on days 1 and 15, 5-FU IV bolus over 5-15 minutes on days 1 and 15 and 5FU IV continuous over 46 hours on days 1-3 and 15-17 or nab-paclitaxel IV over 30 minutes, and gemcitabine IV over 30 minutes on days 1, 8, and 15 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients undergo CT scan and blood sample collection throughout the study.\n\nAfter completion of study treatment, patients are followed up for up to 3 years post randomization.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06998940",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06998940"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-05-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "SWOG Cancer Research Network",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06998940"
+ },
+ "summary_ko": "This phase III trial compares the effect of adding panitumumab to standard chemotherapy (with nanoliposomal Irinotecan, leucovorin, and 5-fluorouracil \\[5-FU\\] or irinotecan, leucovorin, and 5-FU or nab-paclitaxel and gemcitabine) versus standard chemotherapy alone in treating patients with KRAS wild type (WT) pancreatic ductal adenocarcinoma that cannot be removed by sugery (unresectable) or that has spread to nearby tissue or lymph nodes (locally advanced) or that has spread from where it firs…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Studying Chemotherapy With or Without Panitumumab for Unresectable, Locally Advanced, or Metastatic Pancreatic Cancer Without KRAS Mutations",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Unresectable Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participants must have a histologically or cytologically confirmed diagnosis of ductal adenocarcinoma of the pancreas\n* Participants must have previously documented KRAS wild type (i.e. absence of any KRAS mutation) and BRAF V600E wild type (i.e. absence of a BRAF V600E mutation) status determined by tumor tissue-based NGS assay. The testing must be done within a laboratory with Clinical Laboratory Improvement Act (CLIA), International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), College of American Pathologists (CAP), or similar certification status\n\n  * NOTE: Blood-based next generation sequencing (NGS) assays, such as circulating tumor deoxyribonucleic acid (DNA) (ctDNA) or liquid biopsies, will not be accepted for meeting eligibility criteria\n* Participants must have documented unresectable and/or metastatic disease on CT or magnetic resonance imaging (MRI) imaging completed prior to randomization. Imaging must have been completed within 28 days prior to randomization for participants with measurable disease. CT scans or MRIs used to assess non-measurable disease must have been completed within 42 days prior to randomization. All disease must be assessed and documented on the Baseline Tumor Assessment Form (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n* Participants must not have known mutations in PTEN, NRAS, EGFR extracellular domain exons 1-16, no amplifications of HER2 and MET, and no gene fusions of RET, NTRK1, and ALK by tumor tissue-based NGS analysis\n\n  * NOTE: Participants who are not tested for these mutations are eligible if they have previously documented KRAS wild type (i.e. absence of any KRAS mutation) and BRAF V600E wild type (i.e. absence of a BRAF V600E mutation) status\n* Participants must not have known brain metastases or cranial epidural disease unless adequately treated with radiotherapy and/or surgery and stable for at least 28 days before randomization (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day).\n\n  * NOTE: Participants must be neurologically asymptomatic and without corticosteroid treatment at the time of enrollment\n* Participants must have received only one line of prior systemic cytotoxic chemotherapy for locally advanced or metastatic PDA, and have radiographically progressed, refractory, or intolerant to this therapy.\n\n  * Prior neoadjuvant or adjuvant therapy with 5-FU or gemcitabine-based chemotherapy counts as a line of therapy if the participant's disease progressed to locally advanced or metastatic disease within 6 months of completing treatment\n  * Participants with cancers harboring molecular alterations including microsatellite instability (MSI-high), elevated tumor mutational burden (TMB) (TMB ≥ 10 mut/Mb), and FGFR1-3, NRG1, and ROS fusions are allowed to have received an additional line of targeted therapy applicable to the respective molecular alterations at the treating investigators discretion.\n  * Prior maintenance therapy with Olaparib or Rucaparib for germline or somatic BRCA1/2 or PALB2 mutations does not count as a line of therapy.\n* Participants must not have prior treatment with an anti-EGFR antibody (e.g., cetuximab or panitumumab)\n* Participants must not have prior treatment with an EGFR tyrosine kinase inhibitor (e.g., erlotinib)\n* Participants must not have received any pancreatic anticancer therapy (e.g., standard of care or investigational chemotherapy, molecularly targeted therapy, or radiation) within 14 days prior to randomization\n* Participants must not have a known contraindication to receiving chosen chemotherapy backbone at the planned doses in accordance with the local approved label\n* Participant must be ≥ 18 years old at the time of randomization\n* Participants must have Zubrod performance status of 0-2\n* Participants must have a complete medical history and physical exam within 28 days prior to randomization (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n* Absolute neutrophil count ≥ 1.0 x 10\\^3/uL (within 28 days prior to randomization) (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n\n  * Note: Use of growth factor support (e.g., Granulocyte Colony-Stimulating Factor \\[G-CSF\\] or romiplostim \\[Nplate\\]) is permitted, and prior use does not constitute an exclusion criterion. Recent blood transfusions are also allowed\n* Hemoglobin ≥ 8 g/dL (within 28 days prior to randomization) (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n\n  * Note: Use of growth factor support (e.g., G-CSF or romiplostim \\[Nplate\\]) is permitted, and prior use does not constitute an exclusion criterion. Recent blood transfusions are also allowed\n* Platelets ≥ 75 x 10\\^3/uL (within 28 days prior to randomization) (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n\n  * Note: Use of growth factor support (e.g., G-CSF or romiplostim \\[Nplate\\]) is permitted, and prior use does not constitute an exclusion criterion. Recent blood transfusions are also allowed\n* Total bilirubin ≤ 1.5 x institutional upper limit of normal (IULN) (within 28 days prior to randomization) (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n* Aspartate aminotransferase (AST) ≤ 10 x upper limits of normal (ULN) (within 28 days prior to randomization) (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n* Participants must have a creatinine ≤ the IULN OR measured OR calculated creatinine clearance ≥ 30 mL/min using the following Cockcroft-Gault Formula. This specimen must have been drawn and processed within 28 days prior to registration (In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday 4 weeks later would be considered Day 28. This allows for efficient participant scheduling without exceeding the guidelines. If Day 14 or 28 falls on a weekend or holiday, the limit may be extended to the next working day)\n* Participants with known history of human immunodeficiency virus (HIV)-infection must be on effective anti-retroviral therapy at registration and have undetectable viral load test on the most recent test results obtained within 6 months prior to randomization\n* Participants with a known history of chronic hepatitis B virus (HBV) infection must have undetectable HBV viral load while on suppressive therapy on the most recent test results obtained within 6 months prior to randomization, if indicated\n* Participants with a known history of hepatitis C virus (HCV) infection must have been treated and cured. Participants currently being treated for HCV infection must have undetectable HCV viral load test on the most recent test results obtained within 6 months prior to randomization, if indicated\n* Participants must not have a prior or concurrent malignancy whose natural history or treatment (in the opinion of the treating physician) has the potential to interfere with the safety or efficacy assessment of the investigational regimen\n* Participants must not be pregnant or nursing (nursing includes breast milk fed to an infant by any means, including from the breast, milk expressed by hand, or pumped). Individuals who are of reproductive potential must have agreed to use an effective contraceptive method with details provided as a part of the consent process. A person who has had menses at any time in the preceding 12 consecutive months or who has semen likely to contain sperm is considered to be of \"reproductive potential.\" In addition to routine contraceptive methods, \"effective contraception\" also includes refraining from sexual activity that might result in pregnancy and surgery intended to prevent pregnancy (or with a side-effect of pregnancy prevention) including hysterectomy, bilateral oophorectomy, bilateral tubal ligation/occlusion, and vasectomy with testing showing no sperm in the semen\n* Participants must be offered the opportunity to participate in specimen banking\n* Participants who can complete patient reported outcomes (FACT-G and PRO-CTCAE) questionnaires in English or Spanish must be offered the opportunity to participate in the quality-of-life studies\n* Participants must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines.\n\n  * For participants with impaired decision-making capabilities, legally authorized representatives may sign and give informed consent on behalf of study participants in accordance with applicable federal, local, and Central Institutional Review Board (CIRB) regulations",
+  "enrollment": 94,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Fluorouracil",
+   "Gemcitabine",
+   "Irinotecan",
+   "Irinotecan Sucrosofate",
+   "Leucovorin",
+   "Nab-paclitaxel",
+   "Panitumumab",
+   "Questionnaire Administration"
+  ],
+  "last_update_posted": "2026-05-22",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 274,
+  "nct_id": "NCT06998940",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-12-31",
+  "sex": "ALL",
+  "sponsor": "SWOG Cancer Research Network",
+  "start_date": "2026-05-13",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

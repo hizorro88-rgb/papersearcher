@@ -1,0 +1,97 @@
+{
+ "abstract": "The purpose of the study is to provide access to 18F-DOPA PET to patients at Washington University and assess the utility of 18F-DOPA PET/MRI as a preoperative tool to detect and localize focal lesions in the pancreas that are causing hyperinsulinism.\n\nCongenital hyperinsulinism (CHI) is a clinically and genetically heterogeneous disorder that is the most common cause of permanent hypoglycemia in infants and children. More than 50% of the medically-unresponsive patients have focal disease. Which is characterized by a distinct region of Beta-cell hyperplasia in the pancreas, due to a somatic loss of a gene that regulates cell proliferation. Resection of the involved region cures most cases of focal HI. Therefore, preoperative identification and localization of focal HI lesions is useful for diagnostic confirmation and surgical guidance of patients with HI that fail pharmacological therapy and are being considered for surgery.\n\nInsulinomas are benign insulin secreting neuroendocrine neoplasms located in the pancreas. They are the most common cause of endogenous hyperinsulinemic hypoglycemia in adults. Approximately 90% are solitary, benign and \\< 2cm in diameter and therefore represent a challenge to localize. The small size of insulinomas makes detection by conventional imaging techniques such as contrast-enhanced CT (ceCT) and contrast-enhanced MRI challenging. As surgery appears to be the only available treatment option, it remains very critical to localize the tumor to facilitate pancreas preserving surgery. Endoscopic ultrasound is well established in the detection of insulinomas. However, this technique is operator dependent, invasive, and the visualization of the pancreas tail is not always possible. Therefore better imaging techniques to detect these lesions are needed for surgical planning.\n\nThough not FDA approved, noninvasive imaging with 18F-fluoro-L-DOPA (FDOPA) is considered an integral part of standards of care management to identify focal lesions in CHI and potentially insulinomas. This is based on the fact that 18F-DOPA is selectively taken up by neuroendocrine cells, and thus, in focal HI, dense collections of endocrine cells can be visualized by an experienced radiologist. This study aims to determine if using combined positron emission tomography and magnetic resonance imaging will better localize the lesions and help the investigators determine which areas of the pancreas are affected, and assist with the surgical plan.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05088798",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05088798"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2021-10-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Washington University School of Medicine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05088798"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "hypoglycemia",
+  "Glucose Metabolism Disorders",
+  "Infant, Newborn, Diseases",
+  "Hyperinsulinism",
+  "Insulinoma"
+ ],
+ "title": "Utility of 18FDOPA PET/MRI for Focal Hyperinsulinism",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Hyperinsulinism"
+  ],
+  "contacts": [
+   {
+    "email": "stone.p@wustl.edu",
+    "name": "Pamela S Stone, RN",
+    "phone": "314-747-4659"
+   },
+   {
+    "email": "aarbelaez@wustl.edu",
+    "name": "Ana Maria Arbelaez, MD, MSCI",
+    "phone": "314-286-1138"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients with confirmed hyperinsulinemic hypoglycemia, diagnosed by elevated insulin levels during hypoglycemia and/or response to glucagon stimulation.\n2. Subjects who failed pharmacological therapy with diazoxide or octreotide.\n3. Subjects with signed informed consent by themselves or their parents or legal guardians.\n4. Patient's Endocrinologist has determined that the patient cannot be safely managed with standard medical therapy (failed) and surgery is recommended to prevent future episodes of severe hypoglycemia and preserve brain function.\n\nExclusion Criteria:\n\n1. Any other major illness or condition that in the investigator's judgment will substantially increase the risk associated with the subject's participation in this study.\n2. Patient must not have any contraindication to MRI as evaluated by a standardized MRI safety questionnaire. If MRI is contraindicated, and patient meets inclusion criteria and has no other contraindications study will be conducted in PET/CT scanner.\n3. Cases in which surgery will not be considered by parents or guardians.",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "18F-Fluoro Dopa PET/MRI Imaging"
+  ],
+  "last_update_posted": "2025-12-19",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": null,
+  "n_locations": 1,
+  "nct_id": "NCT05088798",
+  "phase": "PHASE2",
+  "primary_completion_date": "2030-01-01",
+  "sex": "ALL",
+  "sponsor": "Washington University School of Medicine",
+  "start_date": "2020-09-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

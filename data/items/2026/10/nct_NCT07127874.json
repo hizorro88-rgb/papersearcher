@@ -1,0 +1,135 @@
+{
+ "abstract": "This first-in-human study will evaluate safety, tolerability, anti-tumor activity, immunogenicity, pharmacokinetics and pharmacodynamics of PHN-012, a novel antibody-drug conjugate (ADC), in patients with advanced solid tumors.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07127874",
+ "importance": 0.78,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07127874"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-08-17",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pheon Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07127874"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Antibody Drug Conjugate",
+  "Carcinoma",
+  "Cancer",
+  "Solid Tumor"
+ ],
+ "title": "A Study of PHN-012 in Patients With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colon Cancer",
+   "Pancreatic Cancer",
+   "Lung Cancer (NSCLC)",
+   "Advanced Cancer",
+   "Advanced Solid Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "PHN012001trial@pheontx.com",
+    "name": "Myles Clancy",
+    "phone": "1-857-342-3090"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Has histologically confirmed, advanced/metastatic:\n\n  1. Colorectal adenocarcinoma (CRC), or\n  2. Non-small cell lung cancer (NSCLC), or\n  3. Pancreatic ductal adenocarcinoma (PDAC).\n* Has received at least one prior systemic therapy and radiologically or clinically determined progressive disease during or after the most recent line of therapy, and for whom no further standard therapy is available or who is intolerant to standard therapy.\n* Has measurable disease.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Has adequate organ function.\n* Has available tumor tissue sample at screening (either an archival specimen or fresh biopsy material).\n\nExclusion Criteria:\n\n* Had prior treatment with any ADC containing topoisomerase-1 inhibiting payload.\n* Has unstable central nervous system metastasis.\n* Has persistent toxicities from previous systemic anti-cancer treatments of Grade \\>1.\n* Has received systemic anti-neoplastic therapy within five half-lives or 21 days, whichever is shorter, prior to first dose of the study drug.\n* Has received wide-field radiotherapy (\\> 30% of marrow-bearing bones) within 28 days, or focal radiation for analgesic purpose or for lytic lesions at risk of fracture within 14 days prior to first dose of the study drug, or no recovery from side effects of such intervention.\n* Had major surgery (not including placement of vascular access device or tumor biopsies) within 28 days prior to first dose of the study drug, or no recovery from side effects of such intervention.\n* Has a history of non-infectious pneumonitis (NIP) / interstitial lung disease (ILD) requiring systemic steroids within 6 months prior to first dose of the study drug, active NIP / ILD or suspected NIP / ILD which cannot be ruled out by imaging for Screening.",
+  "enrollment": 165,
+  "has_results": false,
+  "interventions": [
+   "PHN-012"
+  ],
+  "last_update_posted": "2026-09-29",
+  "location_countries": [
+   "South Korea",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "PHN-012-001 Site",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 26,
+  "nct_id": "NCT07127874",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-09",
+  "sex": "ALL",
+  "sponsor": "Pheon Therapeutics",
+  "start_date": "2025-09-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

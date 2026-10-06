@@ -1,0 +1,80 @@
+{
+ "abstract": "The pancreas is two organs packaged into one. The islets of Langerhans serve critical endocrine functions, and the exocrine portion is a major source of enzymes that are essential for digestion.\n\nPancreatic cancer (PC) is more commonly referred to as pancreatic infiltrating ductal adenocarcinoma in addition to being the second leading cause of cancer death in the United States, after lung cancer in 2020.\n\nWhereas pancreatic cancer is the seventh cause of death from cancer in Asia in 2020. Although it is substantially less common than the other malignancies, pancreatic carcinoma is near the top of the list of killers because it is a highly aggressive carry.\n\nPancreatic cancer has multi step carcinogenesis, starting from Pancreatic Intra-ductal Neoplasia and ends with an invasive neoplastic lesion.Pancreatic cancer is most frequent in elder people; the risk of developing pancreatic cancer goes up as people age.\n\nIt is frequently found at an advanced stage, which contributes to five-year survival rates of 2-9%, ranking firmly the pancreatic cancer among all cancer sites in terms of prognostic outcomes for patients. In addition, it has a high trend to show nodal metastasis, hepatic, bone, or pulmonary metastasis.\n\nEpidemiological data shows that pancreatic cancer is not very common but obvious it is one of the most neoplastic death-cause in the world.The Renin angiotensin system (RAS) is an important regulator of the cardiovascular system that was identified. in this system, angiotensinogen is converted to angiotensin (Ang) I and then to Ang II by renin and angiotensin-converting enzyme (ACE), respectively.\n\nThe Ang II activates the angiotensin type 1 receptor (AT1R). It has been suggested that RAS components are involved in the evolution of various cancers and tissues, like prostate, skin, and pancreatic cancer. In the pancreas, they are considered to mediate growth and lead to carcinogenesis.\n\nHigh concentrations of Ang II have been reported together with up-regulated levels of AT1R in human with pancreatic cancer and malignant pancreatic tissues.\n\nAT1R is known to activate phosphatidylinositol-specific-phosphodiesterase C enzyme after being activated by Ang II to produce phosphate inositol and 2-acylglycerol, which causes the entry of Ca2+ into cells, hence, activating protein kinase C and mitogen-activated protein kinase (MAPK).\n\nMAPK has an important role in cell proliferation. Moreover, studies show that Ang II induces Vascular endothelial growth factor (VEGF) expression which is the main growth factor involved in angiogenesis.\n\nSeveral studies have reported that RAS can increase the risk of metastasis in various cancers. Building upon these findings, RAS blockers may be expected to be beneficial in pancreatic cancer treatment.\n\nLosartan is a RAS inhibitor currently well-known to decrease blood pressure. 10 It is demonstrated in several studies that Losartan can inhibit the effect of Ang II on cell proliferation and angiogenesis. In PC, it's suggested that Losartan increases drug delivery to the tumor, thus improving the chemotherapy effect.\n\nFurthermore it increase the efficacy of Nano-therapeutics in pancreatic cancer of mice through enhancing both interstitial and trans-vascular transport. In another study it was found that Losartan raised DNA incorporation of Gemcitabine and enhanced its efficacy.\n\nStudies\n\nOver the past two decades have provided important information on the potential therapeutic use of RAS blocker drugs in cancer.Extensive preclinical data support the potential use of angiotensin II receptor blockers (ARBs) as anti-neoplastic agents in pancreatic cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06539806",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06539806"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2024-08-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tanta University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06539806"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Clinical Study Evaluating the Effect of Losartan",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Male and female pancreatic cancer patients aged ≥ 50 years old.\n* Hypertensive patient with BP ≥ 140/90 mm Hg.\n* Histologically confirmed metastatic pancreatic adenocarcinoma; or locally advanced pancreatic cancer patients.\n* All included patients must sign an informed consent\n\nExclusion Criteria:\n\n* Patients with serious concomitant systemic disorders as significant cardiac, renal, hepatic, or pulmonary morbidity.\n* Pregnant or lactating women and women of childbearing potential.\n* Patients received prior systemic fluoropyrimidine therapy within the past 10 years.\n* Prior un-anticipated severe reaction to fluoropyrimidine therapy, or known hypersensitivity to 5-fluorouracil, irinotecan, oxaliplatin, losartan, or any monoclonal antibody.\n* Patients with an active, known, or suspected autoimmune disease such as psoriasis.\n* Patients with a known positive test for hepatitis B virus surface antigen (HBV s Ag) or hepatitis C virus (HCV antibody) and patients with a known history of testing positive for (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Patients received a live vaccine or live attenuated vaccines as intranasal influenza vaccines within 30 days of the planned start of study therapy.",
+  "enrollment": 90,
+  "has_results": false,
+  "interventions": [
+   "Losartan 50mg Tab"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "Egypt"
+  ],
+  "locations_kr": [],
+  "max_age": "85 Years",
+  "min_age": "50 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06539806",
+  "phase": "NA",
+  "primary_completion_date": "2026-08-10",
+  "sex": "ALL",
+  "sponsor": "Tanta University",
+  "start_date": "2024-07-20",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

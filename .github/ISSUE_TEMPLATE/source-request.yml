@@ -1,0 +1,21 @@
+name: 수집 소스 추가 요청
+description: 새 저널, 제약사 보도자료, 뉴스 RSS 등을 수집에 추가하고 싶을 때
+title: "[소스] "
+labels: [source]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 소스 이름
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL (RSS 주소가 있으면 RSS 주소)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 어떤 정보가 있고 왜 필요한지

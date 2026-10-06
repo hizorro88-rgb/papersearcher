@@ -1,0 +1,50 @@
+{
+ "abstract": null,
+ "authors": [
+  "Ledford H"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42834189",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1038/d41586-026-03119-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42834189"
+ },
+ "pub_types": [
+  "News"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nature",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42834189/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,89 @@
+{
+ "abstract": "This is a single-center, single-arm, open label investigator-initiated clinical study to evaluate the efficacy and safety of VRT106 in combination with chemotherapy in the treatment of advanced pancreatic cancer.\n\nThis is a single-center, single-arm, open label investigator-initiated clinical study to evaluate the efficacy and safety of VRT106 in combination with chemotherapy in the treatment of advanced pancreatic cancer.\n\nThe study is planned to enroll 10 subjects. The entire study consists of a screening period of up to 28 days, treatment period, and a follow-up period (safety follow-up 28 days after the final study dose and survival follow-up once every 3 months).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06866977",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06866977"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-03-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Xiangya Hospital of Central South University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06866977"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Advanced pancreatic cancer"
+ ],
+ "title": "A Single-arm, Open-label Clinical Study to Evaluate the Efficacy and Safety of VRT106 in Combination With Chemotherapy for Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "peigong158@163.com",
+    "name": "Xuejun Gong",
+    "phone": "0731-84327919"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Subject voluntarily agrees to participate in this study and signs an Institutional Review Board -approved informed consent prior to performing any of the Screening Visit procedures.\n* Males and females≥18 years of age, inclusive, at the Screening Visit.\n* Have unresectable pancreatic cancer as determined by imaging or surgical exploration and locally advanced or metastatic pancreatic ductal adenocarcinoma (including adenosquamous carcinoma) as confirmed by histology or cytology.\n* No prior systemic therapy for unresectable locally advanced and metastatic pancreatic cancer.\n* Have at least one measurable lesion according to RECIST v1.1 criteria.\n* An Eastern Cooperative Oncology Group (ECOG) score of 0 or 1.\n* Expected survival time of≥3 months.\n* No serious hematologic and cardiac abnormalities of the liver, kidneys, or coagulation functions.\n\nExclusion Criteria:\n\n* Have suffered from other malignant tumors in the past 5 years, except for cured basal cell skin cancer, non-melanoma skin cancer, and cervical cancer in situ.\n* Previous treatment with other oncolytic viruses.\n* Immunocompromised patients.\n* Known alcohol or drug dependency.\n* Women who are pregnant or breastfeeding.",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "Oncolytic virus VRT106",
+   "Chemotherapy"
+  ],
+  "last_update_posted": "2025-03-10",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06866977",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2025-10-31",
+  "sex": "ALL",
+  "sponsor": "Xiangya Hospital of Central South University",
+  "start_date": "2025-03-12",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

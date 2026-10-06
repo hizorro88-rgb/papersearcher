@@ -1,0 +1,88 @@
+{
+ "abstract": "This clinical trial studies the safety of a real-time tele-exercise resistance training (training done using a tablet) in maintaining skeletal muscle, strength, physical function, and health-related quality of life in patients with pancreatic cancer who are receiving combination chemotherapy or have undergone surgery for the treatment of pancreatic cancer. Tele-exercise resistance training may improve physical function and quality of life in patients with pancreatic cancer.\n\nPRIMARY OBJECTIVE:\n\nI. Evaluate the safety of a progressive, home-based, tele-exercise resistance training (tele-RT) intervention in patients undergoing first line FOLFIRINOX chemotherapy for advanced pancreatic ductal adenocarcinoma (PDAC) (Study 1) and in survivors who have undergone pancreatic cancer resection (Study 2).\n\nSECONDARY OBJECTIVES:\n\nI. Evaluate the feasibility and acceptability of the tele-RT intervention.\n\nII. Evaluate changes in the following exploratory outcome measures over the course of first-line FOLFIRINOX for advanced PDAC and associations between resistance training (RT) volumes and their changes:\n\nIIa. Muscular strength IIb. Muscular endurance IIc. Body composition (skeletal muscle mass) IId. Aerobic fitness IIe. Self-reported physical activity IIf. Self-reported physical functioning IIg. Fatigue IIh. Peripheral neuropathy IIi. Health-related quality of life (QOL) IIj. Completion of intended chemotherapy dose (Among patients who are undergoing chemotherapy; all participants in Study 1 and some in Study 2) IIk. Exercise motivation IIl. Exercise self-efficacy IIm. Social support for exercise IIn. Reduction or change in FOLFIRINOX treatment plan III. Evaluate cancer care providers' (treating physicians and other clinical personnel) perspectives regarding the feasibility and acceptability of the tele-RT intervention for their patients.\n\nOUTLINE:\n\nSTUDY 1: During the first 2-3 months of first line FOLFIRINOX chemotherapy, patients complete at least 4 tele-RT sessions over 30-45 minutes each, every 2 weeks. Patients receive handouts created by MD Anderson Cancer Center (MDACC) clinical dietitians including individualized recommendations for daily protein intake and information about healthy protein supplementation during chemotherapy. Patient may also attend a visit with a registered dietician (or delegate dietician) per standard of care, if they have renal insufficiency, special dietary needs, or difficulty adhering to protein recommendations.\n\nSTUDY 2: After standard of care surgical resection, patients complete at least 4 tele-RT sessions over 30-45 minutes each, every 2 weeks for 2-3 months. Patients receive handouts created by MDACC clinical dietitians including individualized recommendations for daily protein intake and information about healthy protein supplementation during chemotherapy. Patient may also attend a visit with a registered dietician (or delegate dietician) per standard of care, if they have renal insufficiency, special dietary needs, or difficulty adhering to protein recommendations.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04837118",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04837118"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-04-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04837118"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Resistance Training Intervention to Improve Physical Function in Patients With Pancreatic Cancer Receiving Combination Chemotherapy or Have Undergone Surgery, PancStrength Study",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Adenocarcinoma",
+   "Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Biopsy-proven pancreatic adenocarcinoma, advanced stage (III-IV) (study 1) OR biopsy-proven pancreatic adenocarcinoma, at least 10 weeks post-surgical tumor resection and currently with no radiographic evidence of disease on recent computerized tomography (CT) scan (study 2)\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Treatment plan of first-line FOLFIRINOX chemotherapy with planned return visit to MD Anderson Main Campus for restaging (study 1) OR plans to return to MDACC for restaging appointments in 3-4 months, including follow up CT scan (study 2)\n* Able to schedule baseline (T0) appointment for fitness testing and program teaching at the Behavioral Research and Treatment Center (BRTC) or able to schedule remote fitness testing and program teaching\n* Able to understand the description of the study, exercise program, and willing to participate\n* Home access to wireless internet (Wi-Fi) and agreement to engage with study personnel for real-time tele-RT sessions\n* Age \\>= 18\n* Meet all screening requirements\n* PROVIDERS (FOR ACCEPTABILITY INTERVENTION): All GI medical oncologists, GI surgeons, advanced practice providers, and clinical dietitians who are involved in participants' care and have some interaction with intervention personnel during recruitment, referral, scheduling, or follow up will be asked to complete questionnaires assessing intervention acceptability. The exact number of providers who will be asked to complete questionnaires will depend on whether patients enroll from the different GI Medical Oncology and GI Surgery clinics, but we expect 10-20 providers to be eligible\n\nExclusion Criteria:\n\n* Non-English speaking\n* Has participated in regular RT (RT for all major muscle groups at least twice per week) throughout the month prior to recruitment\n* Unable to complete the baseline assessment questionnaires or functional assessments\n* Screen failure for exercise safety based on Physical Activity Readiness Questionnaire (PAR-Q) and/or Patient Reported Outcomes Measurement Information System (PROMIS) questions\n* Underlying unstable cardiac or pulmonary disease or symptomatic cardiac disease (New York Heart Association functional class III or IV)\n* Recent fracture or acute musculoskeletal injury that precludes the ability to weight bear fully on all 4 limbs in order to participate in an exercise intervention\n* Numeric pain rating scale of \\>= 7 out of 10\n* Myopathic or rheumatologic disease that impacts physical function\n* FEMALES ONLY: Known pregnancy, as communicated to study personnel by clinicians in gastrointestinal (GI) Medical Oncology; females of childbearing potential receive advice to use methods of contraception per usual care",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Educational Intervention",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration",
+   "Resistance Training"
+  ],
+  "last_update_posted": "2026-10-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04837118",
+  "phase": "NA",
+  "primary_completion_date": "2026-12-31",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2021-02-15",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

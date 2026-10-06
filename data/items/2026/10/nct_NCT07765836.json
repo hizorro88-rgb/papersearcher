@@ -1,0 +1,91 @@
+{
+ "abstract": "This is a single arm, open-label, non-randomized multi-institution phase II trial of a Fc enhanced CTLA4 antibody, vilastobart, in combination with PD-1 antibody, retifanlimab, in patients with BRCA1, BRCA2 or PALB2 deficient pancreatic cancer (PC).\n\nThis is a single arm open label phase 2 clinical trial of a novel immunotherapy combination with Fc enhanced CTLA4 inhibitor, Vilastobart, in combination with PD-1 inhibitor, retifanlimab, in patients with metastatic pancreatic cancer who harbor a germline or somatic pathogenic alterations in BRCA1, BRCA2 or PALB2. The primary obejctive is to determine the efficacy of vilastobart in combination with retifanlimab in patients with BRCA1, BRCA2 or PALB2 altered pancreatic cancer as measured by objective response rate (ORR).This research study involves screening, study treatment with the study drugs, study visits, and follow-up visits. This study expects to enroll up to 40 participants. Participants will receive the study treatment for up to one year and will be followed for up to three years. The U.S. Food and Drug Administration (FDA) has not approved vilastobart as a treatment for any disease. The FDA has not approved retifanlimab (ZYNYZ) for this specific disease but it has been approved for other uses.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07765836",
+ "importance": 0.73,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07765836"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-08-14",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Massachusetts General Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07765836"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "BRCA1, BRCA2, or PALB2 mutation",
+  "metastatic pancreatic cancer"
+ ],
+ "title": "Vilastobart+Retifanlimab in BRCA or PALB2 Deficient PC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "sharshabad@mgb.org",
+    "name": "Harshabad Singh, MBBS MD",
+    "phone": "617-724-4000"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participant must have histologically proven metastatic pancreatic cancer. Histologies including acinar cell carcinoma, carcinoma, ductal carcinoma, ductal adenocarcinoma, poorly differentiated or adenosquamous carcinoma are allowed.\n* Participant must have a germline or somatic pathogenic alteration in BRCA1, BRCA2, or PALB2 on tumor next generation sequencing (NGS) performed using a CLIA certified assay. Somatic pathogenic alterations detected on circulating tumor DNA need confirmation on tumor tissue NGS. Germline pathogenic alterations in BRCA1, BRCA2 or PALB2 do not require further confirmation on tumor NGS. All genomic reports be verified in writing (via email) by site and/or overall PI.\n* Participants must have measurable disease per RECIST version 1.1.\n* Participant must have at least one disease site which is amenable to safe biopsy and must agree to pre- and on-treatment biopsies (core, incisional, or excisional biopsy) of tumor site. In select cases biopsies can be waived after discussion with the Sponsor Investigator.\n* Participant must have had at least one but not more than two lines of cytotoxic chemotherapy for metastatic disease. Receipt of neoadjuvant or adjuvant therapy within the last 12 months may count as one line of therapy in metastatic setting for patients with recurrent disease who are being considered for the study. Receipt of targeted therapy such as KRAS inhibitor, or PARP inhibitor is not counted line of therapy. Recycling of the same agents from prior lines of cytotoxic chemotherapy after disease progression does not count as a new line of therapy.\n* Participant must have had prior platinum containing chemotherapy with at least a best response of stable disease. Participants with primary disease progression on platinum chemotherapy are ineligible.\n* Age ≥18 years\n* ECOG performance status of 0-2.\n* Participants must meet the following organ and marrow function as defined below:\n\n  * absolute neutrophil count ≥1,000/mcL\n  * platelets ≥75,000/mcL\n  * total bilirubin ≤ 1.5x institutional upper limit of normal (ULN). For patients with liver metastases or confirmed/suspected Gilbert syndrome, total bilirubin ≤ 3 × ULN\n  * AST(SGOT)/ALT(SGPT) ≤ 2.5 × institutional ULN. For patients with liver metastases, AST and ALT ≤ 5 × ULN\n  * glomerular filtration rate (GFR) ≥30 mL/min/1.73 m\\^2\n* For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated.\n* Participants with a history of hepatitis C virus (HCV) infection must have been treated and cured. For participants with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load.\n* Participants with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial.\n* It is not known what effects study treatment has on human pregnancy or development of the embryo or fetus. Therefore, female patients participating in this study should avoid becoming pregnant, and male patients should avoid impregnating a female partner. Non-sterilized female patients of reproductive age group and male patients should use effective methods of contraception through defined periods during and after study treatment as specified below:\n\nFemale patients must meet 1 of the following:\n\n* Postmenopausal for at least 1 year before the screening visit, or\n* Surgically sterile, or\n* Women of childbearing potential must:\n\n  * agree to practice 1 effective method of contraception from the time of signing of the informed consent form through 5 months after the last dose of study drug.\n  * Agree not to breastfeed from the time of signing of the informed consent form through 5 months after the last dose of study drug\n  * Have a serum or urine pregnancy test to rule out pregnancy within 2 weeks prior to registration.\n* Male patients must agree to practice 1 effective method of contraception from the time of signing of the informed consent form through 7 months after the last dose of study drug.\n\nHighly effective methods of contraception include:\n\n* Sexual abstinence (no sexual intercourse)\n* Hormonal birth control\n* Intrauterine device (IUD) or intrauterine system (IUS)\n* Bilateral tubal ligation (both tubes tied)\n* Vasectomy - Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Participants with neuroendocrine tumors of the pancreas are excluded.\n* Prior anticancer therapy:\n\n  * Received prior treatment with anti-CTLA-4 therapy\n  * Received prior immune-checkpoint anti-PD-1/PD-L1 therapy\n  * Received prior approved systemic anticancer therapy within 2 weeks or within its 5 half-lives prior to study treatment, whichever is shorter. Note: Long-standing hormonal therapy for prostate, breast, uterine, and adrenal cancer may be permitted to continue if it is deemed to be in the best interest of the patient, after discussion with the Sponsor Investigator.\n  * Received prior radiotherapy within 2 weeks prior to study treatment. Note: Participants must have recovered from all radiation-related toxicities, not require corticosteroids, and not have had radiation pneumonitis. A 1-week washout is permitted for palliative radiation (≤ 2 weeks of radiotherapy) to non-CNS disease\n* Participants who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> Grade 1) with the exception of alopecia or stable, Grade ≤ 2 non-autoimmune chemotherapy-induced peripheral neuropathy.\n* Participants with uncontrolled intercurrent illness that would interfere with ability to participate in the opinion of the treating investigator.\n* Participants with psychiatric illness/social situations that would limit compliance with study requirements.\n* Has an active infection requiring systemic intravenous or oral therapy within 7 days of cycle 1 day 1.\n* Has received a live or live-attenuated vaccine within 30 days prior to the first dose of trial treatment. Examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, yellow fever, rabies, BCG, and typhoid (oral) vaccine. COVID-19 vaccination should not be given within 7 days of trial drug initiation.\n* Active autoimmune disease requiring systemic immunosuppression in excess of physiologic maintenance doses of corticosteroids (\\> 10 mg/day of prednisone or equivalent).\n\n  * Physiologic corticosteroid replacement therapy at doses ≤ 10 mg/day of prednisone or equivalent for adrenal or pituitary insufficiency and in the absence of active autoimmune disease is permitted.\n  * Participants with asthma that requires intermittent use of bronchodilators, inhaled corticosteroids, or local corticosteroid injections may participate.\n  * Participants using topical, ocular, intra-articular, or intranasal corticosteroids (with minimal systemic absorption) may participate.\n  * Brief courses of corticosteroids for prophylaxis (eg, contrast dye allergy) or study treatment-related standard premedications are permitted.\n  * Replacement therapy (e.g. thyroxine, insulin) is not considered a form of systemic therapy and is allowed.\n* Has a history of immune-related (non-infectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease regardless of etiology.\n* Subjects with any condition requiring systemic treatment with either corticosteroids (\\>10mg/day of prednisone or equivalent) or other immunosuppressive medications within 14 days of treatment. Premedication for hypersensitivity reactions (e.g. to contrast for CT or gadolinium for MRI) or for prophylaxis of infusion related reactions is allowed.\n\nExceptions: use of inhaled, intranasal, intraocular, topical, and intraarticular joint injections are allowed\n\n* Participants with a known history of Human Immunodeficiency Virus (HIV) infection are excluded unless they meet all of the following criteria:\n\n  * Stable antiretroviral therapy (ART) for at least 12 weeks prior to enrollment\n  * No history of AIDS-defining conditions.\n  * CD4+ T-cell count ≥ 350 cells/mm\\^3 at screening\n  * HIV viral load ≤ 50 copies/mL at screening.\n  * No significant comorbidities associated with HIV infection that could interfere with the safety or efficacy of the investigational treatment.\n  * No concurrent use of prohibited medications that may interfere with the study drug or cancer therapy\n* Has a history of severe hypersensitivity reaction (≥ Grade 3) to any study intervention and/or any of its excipients (refer to the IBs and/or approved product label for a list of excipients)\n* Participants with brain metastases (active brain metastases) or leptomeningeal disease are not eligible. Patients with treated brain metastases who are off systemic steroids \\> 2 weeks and have documented radiographic stability over 4 weeks since initial brain metastasis diagnosis may be considered in discussion with the Sponsor Investigator.\n* Has a history of allogeneic bone marrow/stem, cell or solid organ transplantation.\n* Unstable angina, myocardial infarction, congestive heart failure (New York Heart Association \\[NYHA\\] classification ≥ grade 2) or unstable vascular disease (eg, aortic aneurysm at risk of rupture, Moyamoya disease) that required hospitalization within 6 months prior to randomization, or other cardiac impairment that may affect the safety evaluation of the study drug (eg, poorly controlled arrhythmias, myocardial ischemia).",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "vilastobart (XTX101)",
+   "Retifanlimab"
+  ],
+  "last_update_posted": "2026-08-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07765836",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-12-31",
+  "sex": "ALL",
+  "sponsor": "Massachusetts General Hospital",
+  "start_date": "2027-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

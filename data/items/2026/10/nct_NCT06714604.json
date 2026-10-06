@@ -1,0 +1,96 @@
+{
+ "abstract": "The goal of this multicenter randomized controlled phase III trial is to compare two durations of neoadjuvant chemotherapy (NAT) with mFOLFIRINOX or gemcitabine-nab-paclitaxel (GnP) before attempt for surgical resection in patients with borderline (BR) and locally advanced pancreatic cancer (LAPC). Patients with histologically confirmed non-metastatic BR/LAPC evaluated to potentially tolerate any of the treatment regimens and pancreatic surgery will be randomized to receive either standard duration NAT with 6 cycles mFOLFIRINOX or 4 cycles GnP or prolonged duration NAT with either 12 cycles mFOLFIRINOX or 6 cycles GnP before attempt for surgical resection, provided there is no evidence of disease progression. The primary objective is to compare the overall survival at 24 months after randomization of all treated patients and among the resected patients with BR/LAPC.\n\nThe prognosis of the large majority cancer types has gradually improved over the past decades. Pancreatic cancer (PC) is one of the few exceptions where the 5-year survival still lies under the 10% threshold. Surgery is the only treatment modality that can contribute to long-term survival. However, only about 20% of the patients qualify for surgery since PC often presents as spread disease at the time of diagnosis. Even after curatively intended surgery the prognosis is still dismal, with a 5-year survival of about 20%. Chemotherapy can reduce the risk for recurrence after surgery.\n\nA factor that complicates surgery is the anatomical location of the pancreas. It overlies the large abdominal vessels, which provide blood supply to the liver and the small bowel. Approximately 25% of the patients present at diagnosis with what is labeled as borderline (BR) or locally advanced pancreatic cancer (LAPC). BR and LAPC refer to different degree of tumoral involvement of the large abdominal vessels. Previously, resection of tumors with this type of vascular involvement has not been a treatment alternative, since the postoperative complication rate has been unacceptably high and there has not been a potent oncologic treatment to address potential micrometastatic spread. Therefore, the survival of patients with BR/LAPC has for long been almost as short as the survival of patients with spread PC.\n\nThe introduction of the potent combination chemotherapy FOLFIRINOX significantly improved the survival of patients with BR/LAPC and metastatic PC compared to the previous standard gemcitabine. Patients with BR/LAPC who could be resected after induction chemotherapy with FOLFIRINOX had furthermore chance for long-term term survival compared to unresected patients. Even other types of combination therapy, such as gemcitabine-nab-paclitaxel, have shown to lead to long-tern survival of patients with BR/LAPC who could be resected after initial chemotherapy.\n\nGenerally, the larger the tumor size the higher the risk for vascular invasion, lymph node metastases and elevated CA19-9, all associated with worse prognosis. Neoadjuvant chemotherapy contributes to decreased tumor size, lower probably for lymph node metastases and lower CA19-9. In this way the risk for recurrence decreases while the potential benefit of surgery increases. Theoretically, repeated cycles of chemotherapy under longer period would have the possibility to destroy more cancer cells. In studies it has been shown that the duration of chemotherapy is correlated with better histologic tumor regression and chance for negative lymph nodes. On the contrary, it could also be that longer treatment periods induce resistant cell clones which can reverse the previous beneficial treatment effects and decondition the patients. Often there is a limit to what the patient can tolerate in terms of side effects and general condition.\n\nSince the outcome of technically advanced pancreatic surgery has been shown to correlate with volume, a national level structure has been implemented in Sweden, limiting the surgical treatment of BR/LAPC to two national centers with the intention to increase patient safely and improve postoperative outcome. Regarding the length of preoperative chemotherapy, two alternative regimens have been used by the two centers - either six cycles of modified FOLFIRINOX or four cycles of gemcitabine-nab-paclitaxel. Previously published data confirmed that long-term survival can be achieved by these treatment setups. However, internationally it is more common to apply eight or more cycles of FOLFIRINOX for BR/LAPC. In larger international multicenter studies, showing the efficacy of FOLFIRINOX when used with palliative intent or as adjuvant treatment, the aimed number of treatment cycles has been set to twelve. When gemcitabine-nab-paclitaxel has been intended for the treatment of LAPC, six cycles have been administered.\n\nBoth FOLFIRINOX and gemcitabine-nab-paclitaxel are well established treatment alternatives in the neoadjuvant setting for BR/LAPC, however, the most optimal treatment duration is unknown. The purpose of this study is to determine the optimal duration of neoadjuvant treatment for BR/LAPC, in an attempt to increase the number of patients who can be resected, and increase the survival of the resected ones and the whole group of patients with BR/LAPC.\n\nThe goal of this multicenter randomized controlled phase III trial is to compare two durations of neoadjuvant chemotherapy (NAT) with mFOLFIRINOX or gemcitabine-nab-paclitaxel (GnP) before attempt for surgical resection in patients with borderline (BR) and locally advanced pancreatic cancer (LAPC). Patients with histologically confirmed non-metastatic BR/LAPC evaluated to potentially tolerate any of the treatment regimens and pancreatic surgery will be randomized to receive either standard duration NAT with 6 cycles mFOLFIRINOX or 4 cycles GnP or prolonged duration NAT with either 12 cycles mFOLFIRINOX or 6 cycles GnP before attempt for surgical resection, provided there is no evidence of disease progression. The primary objective is to compare the overall survival at 24 months after randomization of all treated patients and among the resected patients with BR/LAPC. Furthermore, overall and progression-free survival in the who group and among the resected patients will be compared after 60 months in intention-to-treat and in the per protocol treated cohorts. Furthermore, survival will be compared among patients with BR or LAPC separately and between the groups of BR and LAPC.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06714604",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06714604"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2024-12-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sahlgrenska University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06714604"
+ },
+ "summary_ko": "The goal of this multicenter randomized controlled phase III trial is to compare two durations of neoadjuvant chemotherapy (NAT) with mFOLFIRINOX or gemcitabine-nab-paclitaxel (GnP) before attempt for surgical resection in patients with borderline (BR) and locally advanced pancreatic cancer (LAPC). Patients with histologically confirmed non-metastatic BR/LAPC evaluated to potentially tolerate any of the treatment regimens and pancreatic surgery will be randomized to receive either standard durat…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Standard or Prolonged Neoadjuvant Chemotherapy Before Surgery for BR/LAPC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Borderline Resectable Pancreatic Carcinoma",
+   "Pancreas Cancer",
+   "Neoadjuvant Chemotherapy",
+   "Surgery",
+   "Pancreatectomy"
+  ],
+  "contacts": [
+   {
+    "email": "elena.rangelova@gu.se",
+    "name": "Elena Rangelova, PhD",
+    "phone": "+46 31 34 28 216"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Borderline or locally advanced pancreatic adenocarcinoma at diagnosis according to National Comprehensive Cancer Network (NCCN) Clinical Practice Guidelines, version 1.2022\n* Histo- or cytologically confirmed adenocarcinoma (preferably EUS-guided)\n* T1-4, Nx, M0 according to AJCC 8th edition\n* ECOG 0-1 and considered fit for the planned chemotherapy at the local hospital and surgery at the two national centers for BR/LAPC\n* Written informed patient consent\n\nExclusion Criteria:\n\n* Co-morbidity precluding pancreatic surgery or chemotherapy\n* Contraindications to any of the drugs in the proposed treatment regimens\n* ECOG ≥2\n* Neuropathy ≥ grade 2 according to Common Terminology Criteria for Adverse Events (CTCAE), version 6\n* Granulocyte count \\< 1500 per cubic millimetre (\\< 1,5 x 109/L)\n* Platelet count \\< 100 000 per cubic millimetre (\\< 100 x 109/L)\n* Serum creatinine \\> 1.5 UNL (upper limit normal range)\n* Albumin \\<2,5 g/dl (\\<25 g/L)\n* Total bilirubin \\>3 x ULN\n* ASAT (SGOT) and ALAT (SGPT) \\>2.5 x institutional ULN\n* female patients in child-bearing age not using adequate contraception, pregnant or lactating women\n* mental or somatic disorders which could possibly interfere with informed consent, compliance or the planned treatments\n* previous oncologic treatment for PC within the past 5 years\n* participation in other clinical trial with an investigational product during the past 30 days\n* Any reason according to the investigator why the patient cannot comply with the protocol or is not suitable to participate",
+  "enrollment": 432,
+  "has_results": false,
+  "interventions": [
+   "FOLFIRINOX or gemcitabine-nab-paclitaxel",
+   "FOLFIRINOX or gemcitabine-nab-paclitaxel"
+  ],
+  "last_update_posted": "2024-12-03",
+  "location_countries": [
+   "Sweden"
+  ],
+  "locations_kr": [],
+  "max_age": "90 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06714604",
+  "phase": "PHASE3",
+  "primary_completion_date": "2032-12-31",
+  "sex": "ALL",
+  "sponsor": "Sahlgrenska University Hospital",
+  "start_date": "2023-10-18",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

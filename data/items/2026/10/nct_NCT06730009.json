@@ -1,0 +1,94 @@
+{
+ "abstract": "This is a phase I/II study which intends to characterize the safety, tolerability, and preliminary efficacy of Allogeneic Magicell-NK infusion in PDA or cholangiocarcinoma patients after surgery. Subjects will receive a total of 6 intravenous (IV) infusions of the IP on the 11th day of each chemotherapy cycle. A total of 6 cycles of IP infusions are planned.\n\nThe phase I part of the study is a first-in-human phase I trial of Allogeneic Magicell-NK and is therefore designed in an open-label, dose-escalation manner. A standard 3+3 design will be employed to assess the safety profile of Allogeneic Magicell-NK and to determine the MTD/MFD. Two dose cohorts are planned: the starting dose is 10 × 10\\^8 cells (Cohort 1), and escalates to 20 × 10\\^8 cells (Cohort 2).\n\nThe phase II part of the study is designed as an open-label, two-arm, randomized clinical trial comparing the combination of SLOG and Allogeneic Magicell-NK with SLOG alone when used as adjuvant therapy following resection for PDA or Cholangiocarcinoma. Approximately 30 subjects will be randomized at a 2:1 ratio between the two arms: Arm 1: SLOG and Allogeneic Magicell-NK (20 subjects); Arm 2: SLOG alone (10 subjects). Subjects will then receive 12 weeks of SLOG chemotherapy with or without Allogeneic Magicell-NK infusion.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06730009",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06730009"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-12-12",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medigen Biotechnology Corporation",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06730009"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Phase I/II Study: Allogeneic NK-cell Therapy With Chemotherapy for Post-Surgery PDA or Cholangiocarcinoma Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Carcinoma Stage II",
+   "Cholangiocarcinoma Resectable"
+  ],
+  "contacts": [
+   {
+    "email": "jude@medigen.com.tw",
+    "name": "Jude Chen",
+    "phone": "886-2-77225200"
+   },
+   {
+    "email": "doris.huang@medigen.com.tw",
+    "name": "Doris Huang",
+    "phone": "886-2-77225200"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Dated and signed informed consent.\n2. Either sex, aged older than 18 years old (inclusive) at date of consent.\n3. Subject with a macroscopic resection of the primary tumor and residual primary tumor that satisfies all of the items below according to the Union for International Cancer Control (UICC) histopathologic staging system:\n\n   * At or before the surgery, stage II or stage III.\n   * Local residual tumor classified as R0 or R1.\n   * Cytologic examination negative upon intraoperative peritoneal lavage.\n4. Histologically confirmed PDA or cholangiocarcinoma.\n5. Received curative resection within 12 weeks prior to screening visit and will receive adjuvant SLOG chemotherapy. Note: Subjects with cancer who had undergone surgery with or without prior neo-adjuvant therapy will be recruited.\n6. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1.\n7. Subject with adequate hematology function at Visit 1:\n\n   * Total white blood cell (WBC) ≥ 3,000 cells/mm3.\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/mm3.\n   * Platelets ≥ 100,000 counts/mm3.\n   * Hemoglobin ≥ 9 g/dL.\n   * International normalized ratio (INR) of prothrombin time within normal range. Note: Re-test for eligibility is allowed during the screening period.\n8. Subject with adequate hepatic and renal function at Visit 1:\n\n   * Serum creatinine ≤ 1.5× Upper Limit of Normal (ULN).\n   * Blood urea nitrogen (BUN) ≤ 1.5× ULN.\n   * Total bilirubin ≤ 1.5× ULN.\n   * Alanine transaminase (ALT) and aspartate transaminase (AST) ≤ 2.5× ULN.\n   * Alkaline phosphatase (ALP) ≤ 5× ULN.\n   * Albumin ≥ 3.0 g/dL. Note: Re-test for eligibility is allowed during the screening period.\n9. Negative response in human immunodeficiency virus (HIV) and treponema pallidum (rapid plasma reagin \\[RPR\\]/venereal disease research laboratory \\[VDRL\\] and treponema pallidum hemagglutination \\[TPHA\\]).\n10. Subject confirmed with past cytomegalovirus (CMV) infection in terms of having positive CMV immunoglobin G (CMV IgG).\n11. Subject with childbearing potential must agree to use at least two contraceptive precautions, one of which must be a condom or other adequate barrier method, from\n\n    * signing informed consent until 28 days after the last dose of investigational product (IP) administration.\n    * initiation of oxaliplatin treatment until at least 15 months (female) or 12 months (male) following the last dose.\n    * initiation of gemcitabine treatment until at least 6 months (female) or 3 months (male) following the last dose.\n12. Agree to be in compliance with clinical protocol-planned treatment. Note: Anti-virus treatment is allowed if active hepatitis B is presented.\n\nExclusion Criteria:\n\n1. Received any other investigational, anti-neoplastic medications, or immune cell therapy within 28 days prior to screening visit.\n2. Any prior history of malignant neoplasm, except:\n\n   1. Non-invasive, non-melanomatous skin cancer (including squamous cell carcinoma, basal cell carcinoma, or carcinoma in situ), curatively treated with cryosurgery or surgical excision only.\n   2. Other primary malignant neoplasm diagnosed as disease free for more than 5 years.\n3. Immunocompromized, currently under immunosuppressive treatment for autoimmune disease, or have received systemic steroid of equivalent dosage higher than prednisolone 30 mg/day for more than 7 days within 14 days prior to Day 1.\n4. With known metastases.\n5. With ongoing acute diseases, or serious medical conditions within the past 2 years prior to screening, such as cardiovascular (e.g., New York Heart Association grade III or IV), hepatic (e.g., Child-Pugh Class C), psychiatric condition (e.g., alcoholism, drug abuse), medical history, physical findings, or laboratory abnormality that in the investigators' opinion could interfere with the results of the trial or adversely affect the safety of the subject.\n6. Hypercoagulable state that may lead to clinically apparent thrombosis.\n7. With known hypersensitivity to aminoglycoside (e.g., streptomycin, gentamicin) or bacitracin.\n8. With known hypersensitivity to any of the components of Allogeneic Magicell-NK, including human serum albumin.\n9. With known hypersensitivity to any of the components of S-1, leucovorin, oxaliplatin, or gemcitabine.\n10. With any contraindication to S-1, leucovorin, oxaliplatin, or gemcitabine, including:\n\n    \\- Severe myelosuppression or myelosuppression that probably exacerbates.\n11. With symptomatic CMV disease.\n12. With any history of diagnosed or suspected cardiac arrhythmia or QT interval prolongation.\n13. Male subject with a corrected QT interval (QTc) ≥ 450 ms and female subject with a QTc ≥ 470 ms as determined by electrocardiogram (ECG) examination at screening.\n14. Received any drugs associated with QT prolongation within 28 days prior to the Screening Visit (refer to Appendix 3. Drugs Associated with QT Prolongation, including but not limited to the drug listed therein).\n15. Received brivudine or its analogs (e.g., sorivudine) or any live vaccines within 28 days prior to the Screening Visit.\n16. Female subject who is lactating or has positive serum or urine pregnancy test at screening.",
+  "enrollment": 42,
+  "has_results": false,
+  "interventions": [
+   "SLOG + Allogeneic NK cell",
+   "SLOG chemotherapy"
+  ],
+  "last_update_posted": "2025-12-17",
+  "location_countries": [
+   "Taiwan"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06730009",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-01-31",
+  "sex": "ALL",
+  "sponsor": "Medigen Biotechnology Corporation",
+  "start_date": "2024-10-21",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

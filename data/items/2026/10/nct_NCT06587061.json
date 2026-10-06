@@ -1,0 +1,81 @@
+{
+ "abstract": "To evaluate the safety and efficacy of HRS-4642 in Combination With AG for Neoadjuvant and Adjuvant Treatment of Pancreatic Cancer\n\nThis study is an open, single center, exploratory clinical trial aimed at evaluating the safety and efficacy of HRS-4642 in combination with gemcitabine and albumin-bound paclitaxel for neoadjuvant and adjuvant treatment of pancreatic cancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06587061",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06587061"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-09-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ruijin Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06587061"
+ },
+ "summary_ko": "To evaluate the safety and efficacy of HRS-4642 in Combination With AG for Neoadjuvant and Adjuvant Treatment of Pancreatic Cancer\n\nThis study is an open, single center, exploratory clinical trial aimed at evaluating the safety and efficacy of HRS-4642 in combination with gemcitabine and albumin-bound paclitaxel for neoadjuvant and adjuvant treatment of pancreatic cancer",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "HRS-4642 in Combination With AG for Neoadjuvant and Adjuvant Treatment of Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age: ≥18 and ≤80 years old, male or female;\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n3. Imaging evaluation met the NCCN guidelines definition of resectable pancreatic cancer (including high-risk resectable) and borderline resectable pancreatic cancer.\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Life expectancy ≥ 12 weeks;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 6 months after the last study administration;\n8. Patients volunteered to participate in this study and signed informed consent;\n\nExclusion Criteria:\n\n1. Previously received any anti-tumor therapy;\n2. the presence of distant metastatic lesions diagnosed by imaging;\n3. Known hypersensitivity to the study drug or any of its components;\n4. previous or concurrent other malignant tumors;\n5. Participation in a clinical trial of any drug or medical device within 4 weeks prior to the first dose;\n6. Received live and attenuated vaccines within 4 weeks prior to the first dose of the investigational drug;\n7. previous allogeneic hematopoietic stem cell transplantation or organ transplantation;\n8. Patients with severe cardiovascular arterial thromboembolism (e.g., myocardial infarction, unstable angina, stroke), NYHA class 2 or greater cardiac insufficiency, and clinically significant supraventricular or ventricular arrhythmias requiring clinical intervention;\n9. with interstitial lung disease, non-infectious pneumonia or severe and uncontrolled medical illness, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n10. with congenital or acquired immunodeficiencies such as human immunodeficiency virus (HIV) infection, active hepatitis B (positive hepatitis B virus surface antigen \\[HBsAg\\] test result at screening together with an HBVDNA test value of ≥10,000 copies/ml \\[2000 IU/ml\\]), active hepatitis C (hepatitis C virus antigen \\[HCV-antibodies\\] at screening), or active hepatitis C (hepatitis C virus antitoxin \\[HCV-antibodies\\] at screening).antibody \\[HCV-Ab\\] positive at screening and HCV-RNA positive at the same time), or co-infection with hepatitis B and hepatitis C;\n11. Presence of clinically significant acute or chronic pancreatitis; patients at high risk for pancreatitis, e.g., serum amylase and/or lipase concentrations ≥3 times ULN (except when the investigator determines that abnormally elevated amylase and/or lipase are associated with pancreatic cancer);\n12. Other situations that the researcher felt should not be included.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "HRS-4642+AG"
+  ],
+  "last_update_posted": "2026-05-27",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06587061",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-06",
+  "sex": "ALL",
+  "sponsor": "Ruijin Hospital",
+  "start_date": "2024-12-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

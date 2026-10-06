@@ -1,0 +1,91 @@
+{
+ "abstract": "This phase II trial compares the effect of rectus sheath block with liposomal bupivacaine to thoracic epidural analgesia (TEA) on pain control in patients following surgical removal of all or part of the pancreas and duodenectomy (pancreatoduodenectomy). Administering long acting local anesthetics, such as liposomal bupivacaine, in between the muscle layers of the abdomen (rectus sheath block) may help with pain relief during and after surgery. TEA uses a needle to insert a flexible plastic catheter into the thoracic spine to administer anesthetic and pain medication, such as bupivacaine and hydromorphone, to treat pain in the thoracic and upper abdominal areas during and after surgery. Epidurals have been successfully used to treat pain after surgery, however, it does have a risk of low blood pressure which may limit the use in the thoracic approach. Rectus sheath blocks with liposomal bupivacaine may be as effective as TEA in reducing pain in patients following a pancreatoduodenectomy.\n\nPRIMARY OBJECTIVE:\n\nI. To determine if rectus sheath blocks with liposomal bupivacaine provide non-inferior analgesia compared with thoracic epidural analgesia (TEA) for patients undergoing pancreatoduodenectomy.\n\nOUTLINE: Patients are randomized to 1 of 2 groups.\n\nGROUP EPIDURAL (E): Prior to pancreatoduodenectomy, patients undergo thoracic epidural placement and receive bupivacaine and hydromorphone continuous infusion via epidural for up to 72 hours postoperatively. Patients also receive iopamidol via epidural and undergo x-ray imaging on study.\n\nGROUP RECTUS SHEATH (RS): Prior to pancreatoduodenectomy, patients undergo ultrasound and receive bupivacaine and liposomal bupivacaine injection into the rectus sheath.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06411795",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06411795"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-05-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Masonic Cancer Center, University of Minnesota",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06411795"
+ },
+ "summary_ko": "This phase II trial compares the effect of rectus sheath block with liposomal bupivacaine to thoracic epidural analgesia (TEA) on pain control in patients following surgical removal of all or part of the pancreas and duodenectomy (pancreatoduodenectomy). Administering long acting local anesthetics, such as liposomal bupivacaine, in between the muscle layers of the abdomen (rectus sheath block) may help with pain relief during and after surgery.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Rectus Sheath Block With Liposomal Bupivacaine Versus Thoracic Epidural Analgesia for Pain Control Following Pancreatoduodenectomy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Duodenal Neoplasm",
+   "Pancreatic Neoplasm"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Adult patients, age 18 and older, undergoing open pancreaticoduodenectomy at the University of Minnesota will be included in the study\n\nExclusion Criteria:\n\n* Patients with contraindication to block placement (coagulopathy, local anesthetic allergy, infection)\n* Patients with chronic opioid use (at least 30 milligram morphine equivalents \\[MME\\] for 3 or more weeks leading up to surgery)\n* Patients unable to understand the quality of recovery survey intellectual barriers. This will be determined by the primary investigator/attending anesthesiologist's discretion\n* Patient refusal and those who have opted out of research\n* Pregnant patients - will be assessed through review of the medical record",
+  "enrollment": 78,
+  "has_results": false,
+  "interventions": [
+   "Bupivacaine",
+   "Hydromorphone",
+   "Iopamidol",
+   "Liposomal Bupivacaine",
+   "Medical Chart Review",
+   "Questionnaire Administration",
+   "Thoracic Epidural Analgesia",
+   "Ultrasound Imaging",
+   "X-Ray Imaging"
+  ],
+  "last_update_posted": "2026-02-03",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06411795",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-01-01",
+  "sex": "ALL",
+  "sponsor": "Masonic Cancer Center, University of Minnesota",
+  "start_date": "2023-11-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

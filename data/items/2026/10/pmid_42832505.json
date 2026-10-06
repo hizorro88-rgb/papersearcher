@@ -1,0 +1,52 @@
+{
+ "abstract": "BACKGROUND: SharkCore fine-needle biopsy (FNB) provides ample intact tissue for rapid on-site evaluation and ancillary studies. Diagnosing well-differentiated pancreatic ductal adenocarcinoma (PDAC) remains challenging, particularly in the absence of stromal invasion. The diagnostic significance of edge involvement (EI), defined as ductal epithelial cells at the edge of stromal fragments, in SharkCore FNB specimens of PDAC, was evaluated.\nDESIGN: A total of 42 PDAC FNBs were reviewed over a 1-year period. Smears and corresponding histology specimens were evaluated for the presence of EI, stromal invasion, and detached background tumor cells. Histology specimens were classified as low-grade (well/moderately differentiated) or high-grade (poorly differentiated). A benign cohort of 27 pancreatic FNBs was included.\nRESULTS: On smears, EI was identified in 39/42 (92.9%), stromal invasion in 22/42 (52.4%), and detached background tumor cells in 41/42 (97.6%) cases. On histology, EI was present in 38/42 (90.5%), stromal invasion in 32/42 (76.2%), and background tumor cells in 37/42 (88.1%) cases. One case showing EI was initially interpreted as benign but was found to be a low-grade PDAC on repeat FNB. On histology, EI without stromal invasion was observed in 7/26 low-grade tumors, whereas stromal invasion with EI was present in 15/16 high-grade tumors. In the benign cohort, EI was absent on histology but identified in 2/27 smears (7.4%), both lacking follow-ups. EI was significantly more frequent in PDAC, with sensitivity/specificity of 92.9%/92.6% in smears and 90.5%/100.0% in histology.\nCONCLUSION: EI is a specific diagnostic clue for PDAC that improves diagnostic confidence, particularly in low-grade tumors.",
+ "authors": [
+  "Zenezan D",
+  "Zhang ML",
+  "Pitman M"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832505",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1002/cncy.70157",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832505"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Cytopathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832505/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Stromal edge involvement in FNB of pancreatic ductal adenocarcinoma: An important diagnostic clue",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,104 @@
+{
+ "abstract": "Phase I/IIa image-guided, alpha-particle therapy study of \\[203Pb\\]Pb-PSV359 and \\[212Pb\\]Pb-PSV359 in patients with solid tumors that are known to be Fibroblast Activation Protein (FAP)-positive.\n\nThis is a prospective, multi-center open label dose finding, dose expansion study of \\[212Pb\\]Pb-PSV359 in subjects with a positive Fibroblast Activation Protein (FAP) imaging scan with imaging agent.\n\nFAP is specifically expressed on the surface of cancer-associated fibroblasts in some tumor tissues and therefore is an attractive target in the diagnosis and treatment of various cancers. Lead-212 (\\[212Pb\\]Pb-) based peptide-radiopharmaceuticals are an emerging class of targeted alpha-particle cancer therapies that have potential to improve delivery of a highly effective form of radiation.\n\nThis study will be conducted in 2 parts:\n\nPart 1: Dose-escalation: \\[212Pb\\]Pb-PSV359 is administered in escalating doses to determine the Maximum Tolerated radioactivity (MTD) Dose and potential recommended Phase 2 dose (RP2D).\n\nPart 2: Dose-expansion: This part will enroll subjects in expansion cohorts based on the identified MTD and RP2D for the selection of \\[212Pb\\]Pb-PSV359 doses for further clinical development.\n\nA Dosimetry sub-set utilizing an imaging surrogate, \\[203Pb\\]Pb-PSV359, has been incorporated into the study in order to assess organ biodistribution and tumor uptake of the investigational products. This sub study will also estimate radiation dosimetry and correlate uptake of the investigation products with observed toxicities and efficacy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06710756",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06710756"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-11-29",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Perspective Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06710756"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Fibroblast Activation Protein",
+  "Solid tumor malignancy",
+  "Gastric cancer",
+  "Esophageal cancer",
+  "Colorectal cancer",
+  "Ovarian cancer",
+  "Head and neck cancer",
+  "Theronostic",
+  "Radiopharmaceutical",
+  "Radiotherapy"
+ ],
+ "title": "Lead-212 PSV359 Therapy for Patients With Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Gastric Cancer",
+   "Esophageal Cancer",
+   "Colorectal Cancer",
+   "Ovarian Cancer",
+   "Head and Neck Cancer",
+   "Sarcoma",
+   "Mesothelioma"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@perspectivetherapeutics.com",
+    "name": "ClinicalTrials at Perspectivetherapeutics",
+    "phone": "(206) 676-0900"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged ≥ 18 years\n* Satisfactory organ function as determined by laboratory testing\n* Eastern Cooperative Oncology Group performance (ECOG) status of 0 to 1\n* Life expectancy \\> 3 months\n* Progressive disease despite standard therapy or for whom no standard therapy exists\n* Positive \\[203Pb\\]Pb-PSV359 SPECT/CT scan showing uptake of \\[203Pb\\]Pb-PSV359 in at least 1 known lesion on the 1-hour SPECT/ CT scan\n* Histological, pathological, and/or cytological confirmation of solid tumor malignancy that is locally advanced or metastatic\n\nExclusion Criteria:\n\n* Known hypersensitivity to the active agent or any of the excipients\n* Active secondary malignancy\n* Pregnancy or breastfeeding a child\n* Known brain metastases\n* Known active or uncontrolled infections requiring ongoing antifungals or antibiotics in the 3 days prior to enrollment\n* Known medical condition which would make this protocol unreasonably hazardous for the patient\n* Existence of any medical or social issues likely to interfere with study conductor that may cause increased risk to the subject or to others, e.g., lack of ability to follow radiation safety precautions\n* Medical history of a condition resulting in a severe allergic reaction such as anaphylaxis or angioedema to known components of the investigational product or excipients\n* Major surgery within 21 days prior to the administration of \\[212Pb\\]Pb-PSV359; the subject must be sufficiently recovered and stable before treatment administration\n* Diagnosis of deep vein thrombosis or pulmonary embolism within 4 weeks prior to enrollment into the study\n* Current abuse of alcohol or illicit drugs\n* Treatment with any live/attenuated vaccine in the 7 days prior to enrollment\n* Previous treatment with any systemic anticancer therapy within 4 weeks prior to treatment on study",
+  "enrollment": 112,
+  "has_results": false,
+  "interventions": [
+   "[203Pb]Pb-PSV359",
+   "[212Pb]Pb-PSV359"
+  ],
+  "last_update_posted": "2026-07-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "90 Years",
+  "min_age": "18 Years",
+  "n_locations": 11,
+  "nct_id": "NCT06710756",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-01-31",
+  "sex": "ALL",
+  "sponsor": "Perspective Therapeutics",
+  "start_date": "2025-04-28",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

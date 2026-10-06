@@ -1,0 +1,98 @@
+{
+ "abstract": "This phase I/II trial tests the effect of pegcetacoplan in combination with oxaliplatin, irinotecan, leucovorin, and fluorouracil (mFOLFIRINOX) in treating patients with pancreatic ductal adenocarcinoma (PDAC) that has spread from where it first started (primary site) to other places in the body (metastatic). Pegcetacoplan works by targeting the immune complement process, a part of the immune system that defends against bacteria and may limit tumor progression and improve the immune system's response against tumor cells. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It damages the cell's deoxyribonucleic acid (DNA) and may kill tumor cells. Irinotecan is in a class of antineoplastic medications called topoisomerase I inhibitors. It blocks a certain enzyme needed for cell division and DNA repair and may kill tumor cells. Leucovorin is a drug used to lessen the toxic effects of substances that block the action of folic acid. Leucovorin is a form of folic acid. It is a type of chemoprotective agent and a type of chemosensitizing agent. Fluorouracil stops cells from making DNA and it may kill tumor cells. It is a type of antimetabolite. Giving pegcetacoplan in combination with mFOLFIRINOX may be safe, tolerable, and/or effecting in treating patients with metastatic PDAC. This trial also evaluates the effect of pegcetacoplan on the incidence of major thrombotic events and the resulting complications. Thrombosis is a common complication in patients with PDAC. Thrombosis occurs when blood clots block veins or arteries. Complications of thrombosis, such as stroke or heart attack, can be life-threatening. Giving pegcetacoplan may help prevent blood clots from forming and decrease the risk of major thrombotic events.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the safety oxaliplatin, irinotecan, leucovorin calcium (leucovorin), and fluorouracil (mFOLFIRINOX) in combination with pegcetacoplan in patients with newly diagnosed metastatic pancreatic ductal adenocarcinoma (PDAC). (Phase I) II. To identify preliminary signals of clinical efficacy of the study treatment. (Phase II)\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the incidence of major thrombotic events and complications. II. To evaluate the efficacy (overall response rate, overall survival, disease control rate) of the combination treatment in the study population.\n\nEXPLORATORY OBJECTIVES:\n\nI. To evaluate the effect of therapy on circulating biomarkers of neutrophil extracellular traps (NETs), endothelial cell injury, and cytokine responses.\n\nII. For patients who agree to an optional on-treatment biopsy, the effects of therapy on innate and lymphocyte responses in the tumor microenvironment (TME) will be assessed.\n\nIII. To assess the ability of the combination to control or prevent malignant effusions (pleural or ascites fluid).\n\nIV. To evaluate the pegcetacoplan levels in peripheral blood and other biological specimens.\n\nOUTLINE:\n\nPatients receive pegcetacoplan intravenously (IV) over 30 minutes on day 1 of cycle 1 and prior to mFOLFIRINOX and self-administered subcutaneously (SC) thrice weekly (every 2 days), when due on days in the office it will be given IV over 30 minutes prior to mFOLFIRINOX. Patients receive oxaliplatin IV over 2 hours, irinotecan and leucovorin IV concurrently over 90 minutes, and fluorouracil IV over 48 hours on day 1 of each cycle. Cycles repeat every 14 days for up to 8 cycles in the absence of disease progression or unacceptable toxicity. Patients may undergo ascites, pleural fluid (if present) and blood sample collection and computed tomography (CT) or magnetic resonance imaging (MRI) throughout the study. Additionally, patients may undergo tumor biopsy throughout the study.\n\nAfter completion of study treatment, patients are followed up at 30 days then every 3 months for up to 3 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07214298",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07214298"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Roswell Park Cancer Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07214298"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Pegcetacoplan in Combination With Modified FOLFIRINOX for the Treatment of Metastatic Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Ductal Adenocarcinoma",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [
+   {
+    "email": "Sarah.Chatley@roswellpark.org",
+    "name": "Sarah Chatley, BS",
+    "phone": "716-845-4846"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic PDAC\n* Age ≥ 18 years of age\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 1\n* Absolute neutrophil count ≥ 1,500/uL\n* Platelets ≥ 100,000/uL\n* Total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST)(serum oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase \\[SGPT\\]) ≤ 3 x institutional ULN or \\<=5 ULN in the presence of liver metastasis\n* Estimated creatinine clearance ≥ 60 mL/min (Cockcroft-Gault equation)\n* Albumin ≥ 3 g/dL\n* Have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria present\n* All patients must either have available archival tumor tissue or undergo new tumor biopsy (if presence of a lesion that can be safely biopsied) before treatment initiation for correlative studies\n* Willing and able to self-administer pegcetacoplan (administration by caregiver will be allowed)\n* Willing to receive vaccination against Neisseria meningitidis and Streptococcus pneumoniae if not already vaccinated\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n\n  * Women of child-bearing potential taking part in this study should continue the use of birth control for 6 months after the last study treatment, and should not donate eggs during that timeframe\n  * Male participants taking part in this study should continue the use of birth control for 3 months after the last study treatment, and should not donate sperm during that timeframe\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Previous chemotherapy for PDAC. Gemcitabine-based post- or pre-operative therapy is allowed provided that the last dose and or surgical resection was at least 6 months prior to the documentation of metastatic disease, whichever occurred last\n* Toxicities from prior treatment grade \\> 1 with the exemption of alopecia and fatigue\n* Refractory ascites or pleural effusion (requiring para- or thoracentesis weekly or more frequently or use of indwelling catheter for palliation)\n* Untreated bowel or gastric outlet obstruction; patients with ≤ 6 weeks from such an event who are adequately palliated are allowed to participate\n* Participants with known untreated brain metastases will be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with major arterial thromboembolism (ATE) (coronary, cerebral, extremity or splanchnic) or venous thromboembolism (VTE) (pulmonary embolism or deep venous thrombosis) within 6 months from initiation of study treatment are not eligible for participation\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the investigator's opinion deems the participant an unsuitable candidate to receive study drug",
+  "enrollment": 35,
+  "has_results": false,
+  "interventions": [
+   "Biopsy Procedure",
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Fluorouracil",
+   "Irinotecan",
+   "Leucovorin Calcium",
+   "Magnetic Resonance Imaging",
+   "Oxaliplatin",
+   "Pegcetacoplan"
+  ],
+  "last_update_posted": "2026-08-19",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07214298",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-02-16",
+  "sex": "ALL",
+  "sponsor": "Roswell Park Cancer Institute",
+  "start_date": "2026-02-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,100 @@
+{
+ "abstract": "This randomized controlled trial investigates the safety and efficacy of injecting N-butyl-2- cyanoacrylate (Histoacryl®) into the pancreatic parenchyma during pancreaticoduodenectomy (PD) to enhance the security of the pancreaticojejunostomy (PJ) anastomosis and reduce postoperative pancreatic fistula (POPF) rates.\n\nThis randomized controlled trial aims to evaluate the efficacy of pancreatic parenchymal N-Butyl-2-Cyanoacrylate (NBCA) injection in reducing the incidence and severity of postoperative pancreatic fistula (POPF) after pancreaticoduodenectomy (PD). POPF remains a major complication of PD, leading to increased morbidity, mortality, and healthcare costs. NBCA, a tissue adhesive, has shown promise in various surgical applications due to its hemostatic and sealing properties. This study will enroll approximately 90 patients undergoing PD, randomly assigning them to either the NBCA injection group or the control group. The primary outcome will be the incidence of POPF according to the International Study Group on Pancreatic Surgery (ISGPS) definition. Secondary outcomes includes length of hospital stay, readmission rates, reoperation rates, mortality, and other postoperative complications. This trial is designed to provide high level evidence regarding the utility of NBCA in improving outcomes after PD.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07230509",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07230509"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Minia University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07230509"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic surgery",
+  "Anastomotic leak",
+  "Tissue adhesive",
+  "Postoperative Pancreatic Fistula (POPF)",
+  "Pancreaticoduodenectomy (PD)",
+  "Pancreaticojejunostomy (PJ)"
+ ],
+ "title": "Pancreatic Parenchymal Injection of N-butyl-2-cyanoacrylate",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreaticoduodenectomy",
+   "Postoperative Pancreatic Fistula",
+   "Pancreas Cancer",
+   "Periampullary Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "salehkhairy@mu.edu.eg",
+    "name": "Saleh K Saleh, MD",
+    "phone": "01201765401"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients undergoing pancreaticoduodenectomy for malignant lesions meeting the curative treatment intent in accordance with clinical guidelines.\n* Soft pancreatic texture.\n* Small main pancreatic duct diameter (\\<3 mm).\n* Informed consent obtained.\n\nExclusion Criteria:\n\n* Known hypersensitivity to cyanoacrylate or Lipiodol®.\n* Extremely hard, fibrotic pancreas.\n* Significant pancreatitis involving the pancreatic remnant.\n* Active infection at the surgical site.\n* Uncontrolled coagulopathy.\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients with distant metastases, including peritoneal, liver, distant lymph node metastases, and involvement of other organs.\n* Irresectable tumors in diagnostic laparoscopy.\n* Patients requiring left, central or total pancreatectomy or other palliative surgery.\n* Pregnant or breastfeeding women.\n* Patients with serious mental disorders.\n* Patients with vascular invasion and requiring vascular resection.\n* Patients refused to participate in the study.",
+  "enrollment": 90,
+  "has_results": false,
+  "interventions": [
+   "Pancreatic parenchymal injection of N-butyl-2- cyanoacrylate(Histoacryl®)Injection Group.",
+   "Standard Pancreaticojejunostomy"
+  ],
+  "last_update_posted": "2025-12-02",
+  "location_countries": [
+   "Egypt"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07230509",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-12-01",
+  "sex": "ALL",
+  "sponsor": "Minia University",
+  "start_date": "2025-12-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

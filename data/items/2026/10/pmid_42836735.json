@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal malignancy and has long been regarded as a therapeutic \"drug graveyard\", with modest gains from cytotoxic combination chemotherapy and numerous novel agents failing to show benefit in clinical trials. The quest to directly target RAS has moved from concept to reality with the FDA approval of daraxonrasib (Rasonque) for adults with metastatic PDAC who have received at least one prior systemic therapy or are not candidates for multiagent systemic therapy. Here we discuss a wave of clinical trials that are poised to change this narrative and usher in the era of RAS-targeted therapy. Given the flood of compounds and combinations, we focus on therapies that have advanced to phase 3 clinical trials. Collectively, these studies demonstrate how RAS-targeted therapies are poised to transform the PDAC treatment landscape. The current generation of trials will determine whether these emerging strategies can translate into durable survival gains and turn PDAC from a \"drug graveyard\" into a drug haven for novel therapies.",
+ "authors": [
+  "Yu PY",
+  "Oberstein PE",
+  "Maitra A",
+  "Hidalgo M"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42836735",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1158/1078-0432.CCR-25-4177",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42836735"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42836735/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Pancreatic Cancer KRAS Breakthrough: Drug Graveyard No More",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

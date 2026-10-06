@@ -1,0 +1,88 @@
+{
+ "abstract": "This study is testing a new way to deliver the chemotherapy drug Gemcitabine in pancreatic tumors using the catheter Extroducer® Infusion Catheter System. The study will include patients with Locally Advanced Pancreatic Cancer that cannot be removed with surgery.\n\nPatients will receive four treatment sessions, given every two weeks, in which Gemcitabine is infused directly into or near the tumor. The study will test up to three increasing dose levels of Gemcitabine (200 mg, 400 mg, and 100 mg).\n\nThe study will enroll three groups of three patients each. After each group completes treatment, an independent safety committee will review the results to decide whether it is safe to move to the next dose per predefined study criteria.\n\nAfter finishing treatment, patients will be followed for six months. Each patient's total participation in the study will last about 8-9 months. The main goal of the study is to evaluate the safety and feasibility of this treatment approach.\n\nThis is a prospective, interventional, non-randomized, open-label pilot study designed to evaluate the safety and performance of the Extroducer® Infusion Catheter System for peri- and intratumoral delivery of Gemcitabine in patients with unresectable Locally Advanced Pancreatic Cancer (LAPC).\n\nThe study uses a dose-escalation design with three sequential cohorts to assess the feasibility and safety of repeated peri-/intratumoral Gemcitabine infusions at dose levels of 100 mg, 200 mg, and 400 mg.\n\nEach patient is planned to receive four study treatment sessions administered every two weeks. Following completion of the treatment phase, patients will be followed for 6 months until study completion. The total study participation per patient is expected to be approximately 8-9 months.\n\nEach cohort will include three patients. After completion of study treatment by all patients in a cohort, the Data Safety Monitoring Board (DSMB) will review safety data and determine whether dose escalation is appropriate based on the occurrence of study-defined dose-limiting toxicities (DLTs), and will recommend the dose level for the next cohort.\n\nA total of nine eligible participants are planned to be enrolled at one study site in Sweden.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07575191",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07575191"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-05-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Smartwise Sweden AB",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07575191"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Safety and Performance of a Novel Infusion Catheter System for Peri/Intratumoral Gemcitabine Delivery in Patients With Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Non-resectable"
+  ],
+  "contacts": [
+   {
+    "email": "Ulrik.Birgersson@smartcella.com",
+    "name": "Ulrik Birgersson, PhD, MSc",
+    "phone": "+46 70 842 10 54"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Able to comply with scheduled visits, treatment plan, able to undergo catheterization, imaging procedures, laboratory tests, required follow up visits, the filling out of required forms, and have the ability to understand and give written informed consent.\n* Voluntarily agrees to participate and has duly singed the Informed Consent Form.\n* Age 18 years or older.\n* Histologically confirmed, locally advanced pancreatic cancer.\n* Systemic treatment with IV chemotherapy for at least six months.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* The target tumor is a measurable tumor according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria v1.1 prior to initiating Extroducer® Gemcitabine treatment.\n* Stable disease or locally progressive disease without signs of metastatic disease as evaluated at a multidisciplinary tumor board within 4 weeks prior to first dose.\n* Locally Advanced Pancreatic Cancer not amenable to resection as evaluated at a multidisciplinary tumor board within 4 weeks prior to first dose.\n* Have acceptable organ and marrow function as defined below:\n\n  i. Absolute neutrophil count (ANC) ≥ 1500 cells/mm³ (1.5x109 cells/L) ii. Hemoglobin ≥ 9.0 g/dL iii. Platelets ≥ 100,000/µL iv. Total bilirubin ≤ 2 × upper limit of normal (ULN). v. AST (Aspartate Aminotransferase) ≤ 3 × ULN. vi. ALT (Alanine Aminotransferase) ≤ 3 × ULN vii. Creatinine Within 1.5 x ULN OR Creatinine clearance ≥ 60 mL/min for patients with creatinine levels above 1.5 x ULN.\n* Women of childbearing potential (defined as all women who are not surgically sterile or postmenopausal for at least 1 year prior to enrollment) must have a negative urine pregnancy test at enrollment and must agree to use a medically acceptable and highly effective contraception from enrollment until 6 months after final study treatment of Gemcitabine.\n* Male subjects who are planning to father a child (i.e., planning a pregnancy with a partner) during the clinical investigation.\n\n  i. Male subjects must agree to use highly effective contraception with female partners of childbearing potential during the clinical investigation and for 3 months after the last dose of Gemcitabine and must not donate sperm during this period.\n\nii. Acceptable methods include: a condom in addition to combined hormonal contraception, progestogen-only contraception, intrauterine device (IUD), intrauterine hormone-releasing system (IUS), bilateral tubal occlusion in the female partner, or vasectomy of the male participant (confirmed azoospermia).\n\niii. Sexual abstinence is acceptable only if it is the subject's usual and preferred lifestyle; periodic abstinence and withdrawal are not acceptable.\n\nExclusion Criteria:\n\n* Participating in another clinical investigation which may interfere with the results in this clinical investigation per investigator judgement.\n* Inability to consent.\n* Pancreatic tumor is different from adenocarcinoma (e.g., neuroendocrine, metastases). Adenosquamous is allowed.\n* Cancer has spread to other organs or non-regional lymph nodes (Metastases).\n* Unknown stage or recurrent pancreatic cancer.\n* Patient contraindication to Gemcitabine treatments.\n* Patients in which iodine contrast is contraindicated.\n* Presence of structures that impede tumor access.\n* Concurrent or prior malignancy unless disease-free for ≥3 years, with exceptions for nonmelanoma skin cancer, carcinoma in situ of the cervix or bladder, or Gleason Grade \\< 7 organ-confined prostate cancer. This may be subject to investigator's judgement based on individual patient circumstances and the nature of the malignancy.\n* Unmanaged concurrent illnesses, encompassing psychiatric conditions or challenging social circumstances, that, as per the investigator's judgment, could undermine compliance to the study protocols or pose an unacceptable risk to the patient.\n* Pregnant or nursing individuals.",
+  "enrollment": 9,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine",
+   "Extroducer Infusion Catheter System"
+  ],
+  "last_update_posted": "2026-06-12",
+  "location_countries": [
+   "Sweden"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07575191",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "Smartwise Sweden AB",
+  "start_date": "2026-04-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

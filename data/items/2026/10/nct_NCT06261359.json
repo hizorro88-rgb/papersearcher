@@ -1,0 +1,90 @@
+{
+ "abstract": "The purpose of this study is to evaluate the efficacy and safety of CEND-1 in combination with gemcitabine/nab-paclitaxel versus gemcitabine/nab-paclitaxel and placebo as first-line treatment in patients with Locally Advanced Unresectable or Metastatic Pancreatic Ductal Adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06261359",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06261359"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-02-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Qilu Pharmaceutical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06261359"
+ },
+ "summary_ko": "The purpose of this study is to evaluate the efficacy and safety of CEND-1 in combination with gemcitabine/nab-paclitaxel versus gemcitabine/nab-paclitaxel and placebo as first-line treatment in patients with Locally Advanced Unresectable or Metastatic Pancreatic Ductal Adenocarcinoma.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Study of CEND-1 With Chemotherapy as First-Line Therapy in Patients With Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "Jianmingxu2014@163.com",
+    "name": "Jianming Xu, M.D",
+    "phone": "13910866712"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 18\\~80 years old, male or female;\n* Locally advanced unresectable or metastatic PDAC confirmed by histopathology or cytopathology;\n* Patients who have not received prior systemic therapy for locally advanced or metastatic pancreatic cancer;\n* Patients with at least one measurable tumor lesion per RECIST v1.1;\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n* Expected survival time ≥ 12 weeks;\n* Patients who have adequate organ function;\n* Female subjects who are not pregnant or not breastfeeding. A negative pregnancy test for females of childbearing potential within 7 days prior to first dosing. Male and female subjects of childbearing potential must agree to use highly effective method of contraception during the entire course of the study and within 180 days after the end of the study.\n* Subjects participate voluntarily and sign informed consent.\n\nExclusion Criteria:\n\n* Concurrent use of other anticancer drugs, including chemotherapy, targeted therapy, immunotherapy, or biologics;\n* The patients who are known to be allergic to the investigatinal drug or its any excipient;\n* Patients with the following conditions: myocardial infarction, severe/unstable angina, NYHA grade 2 or above cardiac dysfunction, and clinically significant supraventricular or ventricular arrhythmia requiring clinical intervention within 6 months before signing the ICF;\n* Patients with high risk for gastrointestinal bleeding or abdominal bleeding as assessed by the investigator, such as tumor invasion of the gastro duodenum finger intestines, large blood vessels, etc.;\n* Patients with symptomatic CNS metastasis, leptomeningeal metastasis, or spinal cord compression due to metastasis.\n* Patients with other active malignant tumors within 3 years before signing the ICF. Patients with cured skin basal cell carcinoma or squamous cell carcinoma, carcinoma in situ of the cervix, carcinoma in situ of the breast ductal, and papillary thyroid cancer can be enrolled.\n* Patients with human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS), active hepatitis or co-infection with hepatitis B and C.\n* Patients who require systemic antibiotics for ≥7 days within 4 weeks prior to first dose, or unexplained fever \\>38.5°C prior during screening or before first dose;\n* Patients who participated in any other clinical studies;\n* Patients with a known history of psychoactive drug abuse, alcohol abuse, or substance abuse; History of definitive neurological or mental disorder, including epilepsy or dementia;\n* The patients with added risks associated with the study or may interfere with the interpretation of study results as determined by the investigator, or deemed unsuitable by the investigator and/or sponsor.",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "CEND-1",
+   "Gemcitabine",
+   "Nab paclitaxel"
+  ],
+  "last_update_posted": "2024-09-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06261359",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-04",
+  "sex": "ALL",
+  "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+  "start_date": "2024-03-19",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

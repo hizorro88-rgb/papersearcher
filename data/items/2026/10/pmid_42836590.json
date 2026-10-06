@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer (PC) is on the rise worldwide, with significant improvements in survival rates still awaited. Most patients are diagnosed at an advanced stage, often with liver metastases (LM), associated with poor prognosis and immunosuppression. This study aimed to evaluate the impact of LM on outcomes in patients with advanced PC treated with chemotherapy or immune checkpoint inhibitors (ICIs).\nMATERIAL AND METHODS: We performed post-hoc survival analyses using data from a chemotherapy-based study (ClinicalTrials.gov ID: NCT02767557) (n = 147) and ICI-based studies (NCT04258150, NCT02866383, and NCT05116917) (n = 129). Patients were stratified based on the presence of LM. Exploratory analyses within the LM subgroup were adjusted for absolute lymphocyte counts (ALCs), neutrophile-lymphocyte-ratios (NLRs), interleukin (IL)-6, IL-8, carbohydrate antigen 19-9, C-reactive protein, and YKL-40.\nRESULTS: In the chemotherapy cohort, overall survival (OS) was significantly lower in patients with LM (n = 107) (7.0 months, 95% confidence interval (CI): 6.0-8.8) compared to those without LM (n = 40) (12.0 months, 8.7-18.0; log-rank p = 0.002). Progression-free survival (PFS) was similarly reduced in the LM group (5.0 months, 3.6-5.7) versus the non-LM group (7.5 months, 5.4-9.0; p = 0.016). In the ICI cohort, no significant differences in OS were observed between patients with (n = 111) and without LM (n = 18). Adjusted analyses indicated that higher IL-6 and YKL-40 were associated with increased mortality risk in patients receiving chemotherapy.\nDISCUSSION: LM were associated with significantly shorter OS and PFS in patients with PC receiving chemotherapy. No survival impact of LM was observed in patients treated with ICIs. These findings highlight the need to consider metastatic burden when stratifying treatment outcomes in future studies.",
+ "authors": [
+  "Kjær LK",
+  "Theile S",
+  "Madsen K",
+  "Johansen JS",
+  "Holmström MO",
+  "Andersen MH",
+  "Chen IM"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42836590",
+ "importance": 0.62,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1002/iid3.70545",
+  "nct": [
+   "NCT02767557",
+   "NCT02866383",
+   "NCT04258150",
+   "NCT05116917"
+  ],
+  "pmcid": null,
+  "pmid": "42836590"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Immun Inflamm Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42836590/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Impact of Liver Metastases on Outcomes With Chemotherapy or Immune Checkpoint Inhibitors in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

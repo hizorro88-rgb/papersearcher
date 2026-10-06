@@ -1,0 +1,98 @@
+{
+ "abstract": "The goal of this clinical trial is to learn if an investigational drug CP-383 works to treat advanced cancer. It will also learn about the safety of CP-383. The main questions if aims to answer are:\n\n* Does CP-383 slow or stop the growth of cancer in patients with advanced cancer\n* What medical problems do participants have when taking CP-383 Researchers will test CP-383 in all kinds of cancers at various dose levels to determine what the best dose is to study further. Researchers will also see if certain cancers that have gene mutations respond better to CP-383\n\nParticipants will:\n\n* Take CP-383 every day by mouth until the researcher learns whether CP-383 is helping slow or reduce the cancer growth\n* Visit the clinic weekly for the first 6 weeks for checkups and tests\n* Visit the clinic every 3 weeks thereafter for checkups and tests",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07030257",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07030257"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-06-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tasca Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07030257"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Phase 1",
+  "Dose Escalation",
+  "Dose Expansion",
+  "Loss of Function",
+  "FAT1",
+  "P300"
+ ],
+ "title": "Study of CP-383 in Patients With Advanced or Metastatic Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor Malignancies",
+   "Colorectal Carcinoma",
+   "Small Cell Lung Cancer ( SCLC )",
+   "Head and Neck (HNSCC)",
+   "Bladder Cancer",
+   "Non-Small Cell Lung Cancer",
+   "Pancreatic Cancer, Advanced or Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "trials@tascatx.com",
+    "name": "Tasca Therapeutics",
+    "phone": "617-430-7109"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Measurable or non measurable cancer that the research can assess for changes\n* Not eligible or able to take existing standard therapies for cancer\n* Availability of a part of a tumor for laboratory testing or willing to have a safe biopsy taken from a tumor\n* Diagnosed with locally advanced, recurrent or metastatic incurable disease\n* Part 1: any solid tumor (with the exception of brain cancer) that has progressed, standard therapy is no longer or has not helped the cancer, or is too toxic and for whom a clinical trial is an option for continued treatment\n* Part 1: specific advanced, metastatic tumor types will also be enrolled: colorectal cancer, small cell lung cancer, head and neck cancer, non-small cell lung cancer, pancreatic cancer, bladder cancer - some of these will have a specific gene mutation in the cancer\n* Part 1: selected solid tumor cancer types (with the exception of brain cancers) that have a specific gene mutation in the cancer\n* Part 2: specific advanced, metastatic tumor types will also be enrolled: colorectal cancer, small cell lung cancer, head and neck cancer - some of these will have a specific gene mutation in the cancer\n\n  \\_ Part 2: selected solid tumor cancer types (with the exception of brain cancers) that have a specific gene mutation in the cancer\n* Adequate blood and urine lab tests\n* Women and men of childbearing potential with adequate contraception\n* Provides written informed consent\n* Willing to comply with the requirements of the protocol\n\nExclusion Criteria:\n\n* Inability to swallow pills\n* Known history of HIV, HCV, HBV unless cured, controlled with undetectable viral load\n* Active tumor in the brain\n* Clinically significant liver disease\n* Significant gastrointestinal diseases\n* History of other cancer within past 5 years with certain exceptions for cancers that are likely cured\n* Significant cardiac disease\n* Other diseases that are not well controlled that could make taking the drug unsafe\n* pregnant or lactating females\n* Exposure to certain anti-cancer or other drugs within a certain period before the start of study drug",
+  "enrollment": 150,
+  "has_results": false,
+  "interventions": [
+   "CP-383"
+  ],
+  "last_update_posted": "2026-02-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 13,
+  "nct_id": "NCT07030257",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-08-15",
+  "sex": "ALL",
+  "sponsor": "Tasca Therapeutics",
+  "start_date": "2025-08-27",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

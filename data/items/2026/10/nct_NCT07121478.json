@@ -1,0 +1,91 @@
+{
+ "abstract": "* Pancreatic neuroendocrine tumor (pNET) is a rare form of cancer. Treatment options such as hormonal therapy (octreotide) and targeted therapy (everolimus and sunitinib) may be considered for grade 1 or 2 pNETs; however, cytotoxic chemotherapy is essential in cases with grade 3 pNETs or pNECs.\n* Cisplatin/etoposide remains the treatment of choice for high-grade pNET/pNEC. Other irinotecan-based therapies, such as FOLFIRI (cisplatin/irinotecan), FOLFOX, and temozolomide ± capecitabine, have been employed; however, a standard of care remains to be established.\n\n* Lurbinectedin, a selective inhibitor of oncogenic transcription, recently received accelerated FDA approval for lung cancer (small cell type) after demonstrating efficacy in an open-label, phase II basket study (ORR 35%, mOS 9.3 months, mPFS 3.5 months).\n* A previous study that involved patients with grade 2 or higher NET/NEC who had undergone treatment with lurbinectedin revealed that the ORR, mOS, and mPFS of the six patients with pNET was 6.5%, 7.4 months, and 1.4 months, respectively.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07121478",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07121478"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-08-13",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Center, Korea",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07121478"
+ },
+ "summary_ko": "* Pancreatic neuroendocrine tumor (pNET) is a rare form of cancer. Treatment options such as hormonal therapy (octreotide) and targeted therapy (everolimus and sunitinib) may be considered for grade 1 or 2 pNETs; however, cytotoxic chemotherapy is essential in cases with grade 3 pNETs or pNECs.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Lurbinectedin",
+  "Neuroendocrine Tumors",
+  "신경내분비종양"
+ ],
+ "title": "Patients With High-grade Pancreatic Neuroendocrine Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Neuroendocrine Tumor of Pancreas",
+   "Pancreatic Neuroendocrine Tumors"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Clinical diagnosis of Pancreatic neuroendocrine tumor or neuroendocrine carcinoma\n* Documented failure of prior standard anti-cancer treatment\n* Absolute neutrophil count (ANC) ≥ 1,500 cells/mm³\n* Platelet count ≥ 100,000 cells/mm³\n* Ability to understand study content, willingness to comply with study procedures, and commitment to complete the study\n\nExclusion Criteria:\n\n* Currently receiving treatment for other cancers (except those who completed treatment and have been disease-free for at least 2 years prior to enrollment)\n* Pregnant or breastfeeding women\n* Deemed unsuitable for participation by the investigator due to clinical or medical reasons",
+  "enrollment": 46,
+  "has_results": false,
+  "interventions": [
+   "Lurbinectedin 4 MG Injection [Zepzelca]"
+  ],
+  "last_update_posted": "2025-10-01",
+  "location_countries": [
+   "South Korea"
+  ],
+  "locations_kr": [
+   {
+    "city": "Goyang-si",
+    "country": "South Korea",
+    "facility": "National Cancer Center",
+    "status": null
+   }
+  ],
+  "max_age": null,
+  "min_age": "19 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07121478",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-03-01",
+  "sex": "ALL",
+  "sponsor": "National Cancer Center, Korea",
+  "start_date": "2025-09-23",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

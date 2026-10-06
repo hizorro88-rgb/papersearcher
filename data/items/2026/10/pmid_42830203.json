@@ -1,0 +1,51 @@
+{
+ "abstract": null,
+ "authors": [
+  "Rahman H",
+  "Kumari N"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42830203",
+ "importance": 0.6,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1111/jgh.70797",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42830203"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-04",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42830203/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Comment on \"Post-Translational Modifications in Pancreatic Cancer: Mechanisms to Clinical Applications\"",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

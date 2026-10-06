@@ -1,0 +1,85 @@
+{
+ "abstract": "The prognosis for patients with localized pancreatic adenocarcinoma who are not surgical candidates is poor. Patients characterized as having \"borderline resectable\" disease treated with preoperative chemo-radiotherapy fair somewhat better - although many of these patients are not converted to resectability. It may be argued that intensification of local and regional therapy might 1.) Increase the share of patients able to undergo curative surgery and 2.) Improve the local disease control interval and extend survival for patients who remain unresectable. Therefore, the purpose of this research study is to determine if an increase in the number of surgical resection pancreatic adenocarcinoma is higher than historical data by using a combined treatment of proton radiation with capecitabine (oral chemotherapy).\n\nParticipants as part of this research study will receive Proton radiation over 6 weeks with oral chemotherapy (capecitabine) only taken on radiation days.\n\nIn addition, If surgery is an option, then surgical resection will be performed at least 8 weeks after treatment with radiation and chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02598349",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02598349"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2015-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Proton Collaborative Group",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02598349"
+ },
+ "summary_ko": "The prognosis for patients with localized pancreatic adenocarcinoma who are not surgical candidates is poor. Patients characterized as having \"borderline resectable\" disease treated with preoperative chemo-radiotherapy fair somewhat better - although many of these patients are not converted to resectability.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Unresectable",
+  "Borderline resectable"
+ ],
+ "title": "Proton Radiation for Unresectable, Borderline Resectable, or Medically Inoperable Carcinoma of the Pancreas",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Biopsy proven unresectable adenocarcinoma of the pancreas.\n* Have either unresectable, borderline resectable or medically inoperable carcinoma of the pancreas, or refusing surgery.\n* A biliary obstruction is able to participate as long as a drainage tube is in place prior to starting treatment with Proton radiation,\n* Participants of child-producing potential must be willing to use contraception while on treatment and for at least 12 months thereafter.\n* Required pretreatment laboratory parameters:\n\n  * Absolute granulocyte count (AGC/ANC) ≥ 1.8 thou/mm3\n  * Platelet count ≥ 100,000/mm3\n  * Bilirubin \\< 2 mg/dl\n  * ALT/SGPT \\< 3x upper limit of normal\n  * Creatinine \\< 3 mg/dl\n\nExclusion Criteria:\n\n* Evidence of distant metastasis.\n* Prior surgical resection.\n* Previous history of invasive malignancy (except non-melanoma skin cancer and low to intermediate risk prostate cancer) unless the participant has been disease free for 5 years prior to registration.\n* Active or untreated infection,\n* Pregnant or breastfeeding women or subjects of child producing potential not willing to use medically acceptable contraception while on treatment and for at least 12 months thereafter.\n* Previous Radiation to the abdomen.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "Proton Radiation",
+   "Capecitabine",
+   "Surgical resection"
+  ],
+  "last_update_posted": "2026-09-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT02598349",
+  "phase": "PHASE2",
+  "primary_completion_date": "2039-10",
+  "sex": "ALL",
+  "sponsor": "Proton Collaborative Group",
+  "start_date": "2016-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

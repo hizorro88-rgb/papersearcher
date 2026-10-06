@@ -1,0 +1,111 @@
+{
+ "abstract": "This Phase 1/2 study evaluates the safety, tolerability, and preliminary anti-tumor activity of EBNK-001 (allogeneic NK cells) given after lymphodepleting cyclophosphamide/fludarabine (CY/FLU) and supported with low-dose IL-15, administered either alone or in combination with pembrolizumab in adults with advanced/metastatic solid tumors. The study will determine a recommended Phase 2 dose (RP2D) and explore signals of clinical activity using RECIST-based response criteria.\n\nEBNK-001 is an \"off-the-shelf\" allogeneic NK cell product intended for multi-dose administration. Participants first receive a short course of lymphodepleting chemotherapy (CY/FLU) to facilitate NK-cell expansion and persistence, followed by weekly NK-cell infusions for 3 consecutive weeks in each treatment cycle (e.g., Days 1, 8, 15). Low-dose IL-15 is administered after NK-cell infusion(s) to support NK-cell survival.\n\nThe trial includes:\n\nPhase 1 (Dose Escalation): evaluates escalating doses of EBNK-001 to identify MTD/RP2D based on DLTs observed in the first 28 days after first NK-cell infusion (DLT window).\n\nPhase 2 (Dose Expansion): evaluates preliminary efficacy at RP2D in selected solid tumor expansion cohorts.\n\nParticipants are followed for tumor response until progression and for survival for at least 12 months. If EBNK-001 is considered a gene-modified cell product in your program, participants may transition into a separate long-term follow-up study consistent with long-term monitoring described in NK cell therapy protocols.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07410676",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07410676"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-02-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Essen Biotech",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07410676"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Natural killer cells",
+  "NK cell therapy",
+  "Solid tumors",
+  "IL-15",
+  "Breast Cancer",
+  "Lung and Bronchus Cancer",
+  "Prostate Cancer",
+  "Colorectal (Colon and Rectal) Cancer",
+  "CAR-T",
+  "Non-Melanoma Skin Cancer"
+ ],
+ "title": "EBNK-001 Allogeneic NK Cells With Low-Dose IL-15 ± Pembrolizumab in Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Cancer",
+   "Sarcoma",
+   "Leukaemia",
+   "Breast Cancer (Locally Advanced or Metastatic)",
+   "Lung Cancer (Diagnosis)",
+   "Colorectal Cancer",
+   "Melanoma (Skin Cancer)",
+   "Bladder Cancer",
+   "Kidney Cancer",
+   "Pancreatic Cancer Metastatic",
+   "Liver Cancer (Primary and Metastatic)",
+   "Ovarian Cancer",
+   "Esophageal Cancer",
+   "Glioblastoma",
+   "Non-Melanoma Skin Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinical-trials@essen-biotech.com",
+    "name": "Rhoda M Smith, Phd",
+    "phone": "2077706670"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥18 years.\n* Histologically confirmed advanced/metastatic solid tumor that is relapsed/refractory after standard therapy (or no standard therapy available).\n* Measurable disease per RECIST v1.1 (or iRECIST if applicable).\n* ECOG performance status 0-1 (or 0-2 as allowed).\n* Adequate organ function (thresholds modeled on NK protocols):\n* Platelets ≥ 75,000/µL; hemoglobin ≥ 9 g/dL; ANC ≥ 1,000/µL (unsupported by growth factors/transfusions as defined).\n* eGFR ≥ 60 mL/min/1.73m².\n* AST/ALT ≤ 3× ULN.\n* Oxygen saturation ≥ 90% on room air (with PFT requirements if indicated).\n* LVEF ≥ 40% (by ECHO/MUGA/CMR).\n* If brain metastases are present, they must be stable for a defined period (example: ≥3 months) and not requiring escalating steroids.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding.\n* Any condition requiring systemic immunosuppression (e.g., \\>5 mg prednisone/day or equivalent) during dosing window (topical/inhaled may be allowed).\n* Active autoimmune disease requiring systemic immunosuppression.\n* Uncontrolled bacterial, fungal, or viral infection.\n* Receipt of investigational agent within 28 days before first study drug.\n* Live vaccine within 6 weeks prior to lymphodepletion.\n* Known HIV positivity or active hepatitis B/C with detectable viral load (protocol may allow chronic asymptomatic hepatitis depending on risk plan).\n* Known allergy to investigational product components (example: albumin/human or DMSO).\n* Any medical/social condition likely to interfere with study compliance or increase risk.",
+  "enrollment": 83,
+  "has_results": false,
+  "interventions": [
+   "EBNK-001 + IL-15 + Pembrolizumab"
+  ],
+  "last_update_posted": "2026-02-18",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": null,
+  "n_locations": 1,
+  "nct_id": "NCT07410676",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-12-21",
+  "sex": "ALL",
+  "sponsor": "Essen Biotech",
+  "start_date": "2026-02-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

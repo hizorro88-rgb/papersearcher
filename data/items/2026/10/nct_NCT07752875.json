@@ -1,0 +1,88 @@
+{
+ "abstract": "This is a first-in-human, Phase 1/2, open-label study evaluating the safety, tolerability, pharmacokinetics, pharmacodynamics, and efficacy of LG00313112 in participants with advanced solid malignancies harboring a TP53 Y220C mutation\n\nThe objective of Phase 1 is to determine the biologically active dose range/maximum-tolerated dose (MTD) and/or recommended Phase 2 dose(s) (RP2D) of LG00313112 and to characterize the safety and tolerability of LG00313112.\n\nThe objective of Phase 2 is to evaluate the antitumor activity, safety, and tolerability of LG00313112 at the dose levels selected based on the Phase 1 results.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07752875",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07752875"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-08-07",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "LG Chem",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07752875"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Solid Tumor, TP53 Y220C Mutation"
+ ],
+ "title": "A Study of LG00313112 in Participants With Advanced Solid Malignancies Harboring a TP53 Y220C Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Ovarian Cancer",
+   "Small Cell Lung Cancer",
+   "Non Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Esophageal Cancer",
+   "Breast Cancer",
+   "Endometrial Cancer",
+   "Head and Neck Cancer",
+   "Pancreatic Cancer",
+   "Locally Advanced Unresectable or Metastatic Solid Tumor"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Males and females aged 18 years or older\n2. Diagnosed locally advanced unresectable or metastatic solid tumor with a TP53 Y220C mutation.\n3. Documented disease progression during or after the most recent line of therapy. In addition, must be refractory to or intolerant of standard of care therapy or have no standard therapy.\n4. Measurable disease per RECIST v1.1.\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n6. Adequate organ function.\n\nExclusion Criteria:\n\n1. Investigational therapy or anti-cancer therapy within 21 days or 5 half-lives prior to the first dose of study drug.\n2. Radiotherapy within 14 days prior to the first dose of study drug.\n3. Known brain metastases (Exception: Brain metastases are permitted if the participant is neurologically stable), leptomeningeal disease or carcinomatous meningitis.\n4. Uncontrolled pleural effusion, pericardial effusion, or ascites.\n5. History of myocardial infarction or unstable angina within 6 months prior to enrollment, or clinically significant cardiac disease\n6. Serious infections requiring intravenous antibiotics within 14 days of first dose of study drug.\n7. Active uncontrolled Hepatitis B, Hepatitis C, or human immunodeficiency virus infection\n8. Acute or chronic uncontrolled renal disease, pancreatitis, or liver disease\n9. History of prior organ transplant\n10. Currently receiving strong Cytochrome P4503A (CYP3A4) inhibitors or inducers",
+  "enrollment": 250,
+  "has_results": false,
+  "interventions": [
+   "LG00313112"
+  ],
+  "last_update_posted": "2026-08-07",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07752875",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2032-10-31",
+  "sex": "ALL",
+  "sponsor": "LG Chem",
+  "start_date": "2026-12-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,99 @@
+{
+ "abstract": "Background:\n\nPeople with von Hippel-Lindau (VHL) can have problems with a variety of organs, such as the pancreas. The disease can cause tumors of the pancreas. This can result in life-threatening complications. Researchers want to learn more about these pancreatic tumors and how to better detect them. This may help them design better future treatment and care for people with VHL disease.\n\nObjective:\n\nTo better understand VHL disease that affects the pancreas and to test whether adding a certain type of scan (68-Gallium DOTATATE PET/CT) can further detect tumors.\n\nEligibility:\n\nPeople ages 12 and older with VHL that causes tumors and cysts to grow in the pancreas\n\nDesign:\n\nParticipants will be screened with their medical records and imaging studies.\n\nParticipants will have an initial evaluation:\n\nParticipants will have their body examined by different doctors. This will depend on what types of symptoms they have.\n\nParticipants will have blood and urine tests\n\nParticipants will have images made of their body using one or more machines: They made have a CT or PET/CT scan in which they lie on a table that moves through a big ring. They may have an MRI in which they lie on a table that moves into a big tube. They may have an ultrasound that uses a small stick that produces sound waves to look at the body.\n\nAfter the first visit, participants will be asked to return to the NIH. Some of the tests performed at the first visit will be repeated. Depending on their disease status, visits will be once a year or every 2 years for life.\n\nBackground:\n\n* Patients with the von Hippel-Lindau (VHL) familial cancer syndrome demonstrate manifestations in a variety of organs, including the pancreas. Pancreatic manifestations can range from benign cysts and micro cystic adenomas to neuroendocrine tumors of the pancreas which are capable of regional and distant metastases. These neuroendocrine tumors can result in life-threatening complications.\n* This protocol is designed to identify VHL patients with pancreatic manifestations and to follow these patients with serial imaging studies, germ line genetic analysis, discovery of serum biomarkers, and novel imaging modalities such as 68-Gallium DOTATATE PET/CT scan.\n\nObjective:\n\n\\- To comprehensively and longitudinally evaluate the natural history of participants with VHL pancreatic neuroendocrine tumors and cystic lesions, estimating and defining their clinical spectrum.\n\nEligibility:\n\n\\- Participants greater than or equal to 12 years of age diagnosed with VHL.\n\nDesign:\n\n* Demographic data will be collected from the medical record and patient interview for each participant. Data will be securely stored in a computerized database.\n* Participants will be evaluated by the urology, neurosurgery, brain oncology and/or ophthalmology personnel as indicated to rule out or manage other manifestations of VHL such as hemangioblastoma, renal cell cancer, and pheochromocytoma.\n* Anatomical and functional clinical imaging studies, research blood and urine sample collection will be performed at each scheduled visit. Research 68-Gallium DOTATATE PET/CT imaging studies in adult participants will be performed, no more than once per year.\n* Surgical resection of solid lesions of the pancreas will be recommended based on previously published criteria.\n* Based on our analysis of likelihood of tumor growth or risk of metastasis, data will be analyzed every two years and appropriate revisions will be made to the surgical management guidelines, if indicated by data analysis.\n* Up to 700 participants may receive the research 68-Gallium DOTATATE PET/CT imaging on this protocol.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04074135",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04074135"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2019-08-29",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04074135"
+ },
+ "summary_ko": "Background:\n\nPeople with von Hippel-Lindau (VHL) can have problems with a variety of organs, such as the pancreas. The disease can cause tumors of the pancreas.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic tumors",
+  "68-Gallium DOTATATE",
+  "MEN1 syndrome",
+  "NETest",
+  "PNET",
+  "신경내분비종양"
+ ],
+ "title": "Natural History and Management of Von Hippel-Lindau (VHL) Associated Pancreatic Neuroendocrine Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "VHL Pancreatic Neuroendocrine Tumors",
+   "Von Hippel-Lindau Disease",
+   "Neuroendocrine Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "kristinejoy.villaruel@nih.gov",
+    "name": "Kristine J Villaruel",
+    "phone": "(240) 858-7033"
+   },
+   {
+    "email": "niluboln@mail.nih.gov",
+    "name": "Naris Nilubol, M.D.",
+    "phone": "(240) 760-6154"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "* INCLUSION CRITIERIA:\n\n  1. Participants who have been diagnosed with VHL using the following criteria:\n\n     \\-- Identification of a heterozygous germline pathogenic variant in VHL by molecular genetic testing.\n\n     or\n\n     \\-- Clinical criteria\n  2. Participants with at least 1 pancreatic manifestation of VHL as documented on any non-invasive imaging study. These manifestations may include:\n\n     * Pancreatic cyst(s)\n     * Solid lesions suspicious for microcystic adenoma(s)\n     * Solid enhancing lesions suspicious for PNET(s)\n     * Any other solid lesion(s) of the pancreas\n  3. Age greater than or equal to 12 years.\n  4. Ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n1\\. Inability of participant to undergo serial non-invasive imaging.",
+  "enrollment": 740,
+  "has_results": false,
+  "interventions": [
+   "68-Gallium DOTATATE"
+  ],
+  "last_update_posted": "2026-04-20",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "12 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04074135",
+  "phase": "PHASE2",
+  "primary_completion_date": "2036-01-30",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2020-06-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

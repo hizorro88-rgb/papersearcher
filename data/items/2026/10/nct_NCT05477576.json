@@ -1,0 +1,116 @@
+{
+ "abstract": "This study aims to determine the safety, pharmacokinetics (PK) and recommended Phase 3 dose (RP3D) of RYZ101 in Part 1, and the safety, efficacy, and PK of RYZ101 compared with investigator-selected standard of care (SoC) therapy in Part 2 in subjects with inoperable, advanced, well-differentiated, somatostatin receptor expressing (SSTR+) gastroenteropancreatic neuroendocrine tumors (GEP-NETs) that have progressed following treatment with Lutetium 177-labelled somatostatin analogue (177Lu-SSA) therapy, such as 177Lu-DOTATATE or 177Lu-DOTATOC (177Lu-DOTATATE/TOC), or 177Lu-high affinity \\[HA\\]-DOTATATE.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05477576",
+ "importance": 0.93,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05477576"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2022-07-28",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "RayzeBio, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05477576"
+ },
+ "summary_ko": "This study aims to determine the safety, pharmacokinetics (PK) and recommended Phase 3 dose (RP3D) of RYZ101 in Part 1, and the safety, efficacy, and PK of RYZ101 compared with investigator-selected standard of care (SoC) therapy in Part 2 in subjects with inoperable, advanced, well-differentiated, somatostatin receptor expressing (SSTR+) gastroenteropancreatic neuroendocrine tumors (GEP-NETs) that have progressed following treatment with Lutetium 177-labelled somatostatin analogue (177Lu-SSA) t…",
+ "summary_source": "excerpt",
+ "tags": [
+  "Neuroendocrine Tumors",
+  "SSTR+",
+  "GEP-NET",
+  "targeted radiotherapy",
+  "Gastroenteropancreatic Neuroendocrine Tumor",
+  "RayzeBio",
+  "Actinium",
+  "Ac 225",
+  "Dotatate",
+  "Everolimus",
+  "신경내분비종양"
+ ],
+ "title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "GEP-NET",
+   "Gastroenteropancreatic Neuroendocrine Tumor",
+   "Gastroenteropancreatic Neuroendocrine Tumor Disease",
+   "Neuroendocrine Tumors",
+   "Carcinoid",
+   "Carcinoid Tumor",
+   "Pancreatic NET"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion:\n\n* Histologically proven, Grade 1-2 well differentiated, inoperable, advanced GEP-NETs (Ki67 ≤20%) Eastern Cooperative Oncology Group (ECOG) status 0-2. Ki67% \\<20% is not required for the ad hoc subcohort of the PK/ECG substudy.\n* Progressive, SSTR-PET positive (i.e., Krenning score 3 or 4) GEP-NET (GI or pancreas) following 2-4 cycles of treatment with 177Lu-labeled SSA. Must have achieved disease control for at least 6 months following Lu-177 SSA (archival tissue is not required for the ad hoc subcohort of the PK/ECG substudy). No time limit is defined between 177Lu-SSA treatment and randomization. There must be at least 1 SSTR-PET imaging-positive measurable site of disease (according to RECIST v1.1) and no RECIST v1.1 measurable metastatic lesions that are SSTR imaging-negative.\n* Adequate renal function, as evidenced by estimated glomerular filtration rate (eGFR) ≥60 mL/min/1.73 m2 (calculated using the Chronic Kidney Disease Epidemiology Collaboration \\[CKD-EPI\\]) (Levey et al. 2009)\n* Adequate hematologic function, defined by the following laboratory results:\n* Part 2: Hemoglobin concentration ≥5.0 mmol/L (≥8.0 g/dL); ANC ≥1000 cells/µL (≥1000 cells/mm3); platelets ≥75 x 109/L (75 x 103/mm3).\n* Total bilirubin ≤3 x upper limit normal (ULN)\n* Serum albumin ≥3.0 g/dL unless prothrombin time is within the normal range\n\nExclusion:\n\n* Prior radioembolization\n* Significant cardiovascular disease, such as New York Heart Association (NYHA) Class ≥II heart failure, left ventricular ejection fraction (LVEF) \\<40% or QT interval corrected for heart rate using Fridericia's formula (QTcF) \\>450 ms for males and \\>470 ms for females.\n* Resistant hypertension, defined as uncontrolled blood pressure (BP) \\>140/90 mmHg while on optimal doses of at least 3 antihypertensive medications with 1 being a diuretic (Whelton et al. 2018)\n* Uncontrolled diabetes mellitus as defined by hemoglobin A1C (HgB A1C) ≥8%\n* PRRT other than Lu-177 SSA (not applicable for ad hoc subcohort of the PK/ECG substudy)\n* Any condition requiring systemic treatment with high-dose glucocorticoids within 14 days prior to first dose of study treatment and/or which cannot be stopped while on study. Inhaled or topical steroids are permitted.\n* Prior history of liver cirrhosis or liver transplantation",
+  "enrollment": 343,
+  "has_results": false,
+  "interventions": [
+   "RYZ101",
+   "Everolimus",
+   "Sunitinib",
+   "Octreotide",
+   "Lanreotide"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "Belgium",
+   "Brazil",
+   "Canada",
+   "France",
+   "Netherlands",
+   "South Korea",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Research Facility",
+    "status": null
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 54,
+  "nct_id": "NCT05477576",
+  "phase": "PHASE3",
+  "primary_completion_date": "2026-12",
+  "sex": "ALL",
+  "sponsor": "RayzeBio, Inc.",
+  "start_date": "2022-03-24",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

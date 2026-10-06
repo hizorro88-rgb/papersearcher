@@ -1,0 +1,100 @@
+{
+ "abstract": "This phase II trial tests how well gemcitabine, cisplatin and nab-paclitaxel given before surgery (neoadjuvant) works in treating patients with pancreatic cancer that can be removed by surgery (resectable) or that is borderline resectable. The standard treatment for resectable and borderline resectable pancreatic cancer is a combination of surgery and chemotherapy. Neoadjuvant therapy is more feasible and could improve outcomes compared to patients receiving surgery first. Gemcitabine is a chemotherapy drug that blocks the cells from making DNA and may kill tumor cells. Cisplatin is in a class of medications known as platinum-containing compounds. It works by killing, stopping or slowing the growth of tumor cells. Nab-paclitaxel is an albumin-stabilized nanoparticle formulation of paclitaxel, an antimicrotubule agent that stops tumor cells from growing and dividing and may kill them. Nab-paclitaxel may have fewer side effects and work better than other forms of paclitaxel. Gemcitabine, cisplatin and nab-paclitaxel may be an effective neoadjuvant treatment option for patients with resectable or borderline resectable pancreatic cancer.\n\nPRIMARY OBJECTIVE:\n\nI. Determine the clinical response rate of biweekly gemcitabine, cisplatin and nab-paclitaxel (GCN) in the neoadjuvant setting for patients with resectable and borderline resectable pancreatic ductal adenocarcinoma.\n\nSECONDARY OBJECTIVE:\n\nI. Determine if neoadjuvant GCN increases tumoral infiltration of lymphocytes with local and systemic phenotypic features that assist in the antitumor immune response.\n\nOUTLINE:\n\nPatients receive nab-paclitaxel intravenously (IV) over 30 minutes, cisplatin IV over 60 minutes, and gemcitabine IV over 30 minutes on days 1 and 15 of each cycle. Treatment repeats every 28 days for up to 4 cycles in the absence of disease progression or unacceptable toxicity. Patients with stable disease, partial or complete response undergo surgical resection per standard of care. Additionally, patients undergo biopsy on study and undergo blood sample collection and computed tomography (CT) or magnetic resonance imaging (MRI) at pre-study and on study.\n\nAfter completion of study treatment, patients are followed up every 3-4 months for up to 24 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06423326",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06423326"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-05-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Georgetown University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06423326"
+ },
+ "summary_ko": "This phase II trial tests how well gemcitabine, cisplatin and nab-paclitaxel given before surgery (neoadjuvant) works in treating patients with pancreatic cancer that can be removed by surgery (resectable) or that is borderline resectable. The standard treatment for resectable and borderline resectable pancreatic cancer is a combination of surgery and chemotherapy.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Gemcitabine, Cisplatin and Nab-Paclitaxel as Neoadjuvant Treatment for Patients With Resectable or Borderline Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Borderline Resectable Pancreatic Ductal Adenocarcinoma",
+   "Resectable Pancreatic Adenocarcinoma",
+   "Stage I Pancreatic Cancer AJCC v8",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [
+   {
+    "email": "Mihir.M.Shah@MedStar.net",
+    "name": "Mihir M. Shah, MD, MS, FACS, FSSO",
+    "phone": "202-877-4599"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed - resectable and borderline resectable pancreatic ductal adenocarcinoma\n\n   * Resectability will be defined as per National Comprehensive Cancer Network (NCCN) guidelines using cross-sectional imaging (contrast-enhanced computed tomography or magnetic resonance imaging scans of the abdomen, and pelvis)\n   * Decisions about resectability status will be made in consensus at multidisciplinary meetings/discussions\n\n   Resectable disease will be defined as:\n   * No interface of the tumor with celiac artery, common hepatic artery (CHA), or superior mesenteric arteries (SMA) (and, if present, variants)\n   * Less than 180° interface between tumor and vessel wall of the portal or superior mesenteric veins (SMV) without vein contour irregularity\n   * For tumors of the body and tail of the pancreas, interface with the splenic artery and splenic vein of any degree will be considered resectable disease\n\n   Borderline resectable disease will be defined as:\n   * To include at least one of the following:\n\n     * Tumor abutment \\< 180° of the superior mesenteric artery or celiac axis\n     * Solid tumor contact with CHA without extension to celiac artery (CA) or hepatic artery bifurcation allowing for safe and complete resection and reconstruction\n     * Solid tumor contact with variant arterial anatomy (ex: accessory right hepatic artery, replaced right hepatic artery, replaced CHA, and the origin of replaced or accessory artery)\n     * Tumor induced narrowing of SMV, portal vein (PV) or SMV-PV of \\> 180˚ of the diameter of the vessel\n     * Short segment occlusion of the SMV, PV or SMV-PV with a suitable PV above and SMV below, for reconstruction\n     * Solid tumor contact with inferior vena cava\n     * Biopsy proven N1 disease (regional lymph nodes involved) from pre-referral biopsy or endoscopic ultrasound (EUS)-guided fine needle aspiration (FNA)\n2. No distant extrapancreatic disease (M0)\n3. Adults \\> 18 years of age\n4. Able to give informed consent\n5. Able to adhere to study visit schedule and other protocol requirements\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 - 1\n7. Adequate Bone marrow reserves as evidenced by:\n\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/ul\n   * Platelet count ≥ 100,000 cells/ul\n   * Hemoglobin ≥ 9 g/dL\n8. Adequate hepatic function as evidence by:\n\n   * Serum total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN)\n   * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN\n   * Albumin ≥ 3 g/dl\n9. Adequate renal function as evidenced by Creatinine ≤ 1.5 x ULN\n10. Male, or a non-pregnant and non-lactating female\n11. Women of child-bearing potential - defined as a sexually mature woman who has not undergone hysterectomy - the surgical removal of the uterus or bilateral oophorectomy - the surgical removal of both ovaries or has not been naturally postmenopausal for at least 24 consecutive months, i.e., has had menses at any time during the preceding 24 consecutive months, must commit to true abstinence from heterosexual contact, or agree to use, and be able to comply with, effective contraception without interruption for 28 days prior to starting gemcitabine/cisplatin/nab- paclitaxel (including dose interruptions) until treatment with gemcitabine/cisplatin/nab-paclitaxel is complete\n12. Male subjects must practice true abstinence or agree to use a condom during sexual contact with a female of childbearing potential or a pregnant female while on treatment (including during dose interruptions) with gemcitabine/cisplatin/nab-paclitaxel and for 6 months following gemcitabine/cisplatin/nab- paclitaxel discontinuation, even if he has undergone a successful vasectomy\n\nExclusion Criteria:\n\n1. Peripheral neuropathy of grade 2 or greater by Common Terminology Criteria for Adverse Events (CTCAE) 4.0. In CTCAE version 4.0 grade 2 sensory neuropathy is defined as \"moderate symptoms; limiting instrumental activities of daily living (ADLs)\"\n2. Concurrent severe and/or uncontrolled medical conditions which could compromise participation in the study such as unstable angina, myocardial infarction within 6 months, unstable symptomatic arrhythmia, symptomatic congestive heart failure, uncontrolled diabetes, serious active, uncontrolled infection after inadequate biliary drainage if tumor obstructing bile duct, or psychiatric illness/social situations\n3. Pregnancy (positive pregnancy test) or lactation\n4. Known central nervous system (CNS) disease, except for treated brain metastasis. Treated brain metastases are defined as having no evidence of progression or hemorrhage after treatment and no ongoing requirement for dexamethasone, as ascertained by clinical examination and brain imaging (MRI or CT) during the screening period. Anticonvulsants (stable dose) are allowed. Treatment for brain metastases may include whole brain radiotherapy (WBRT), radiosurgery (radiosurgery \\[RS\\]; Gamma Knife, linear accelerator \\[LINAC\\], or equivalent) or a combination as deemed appropriate by the treating physician. Patients with CNS metastases treated by neurosurgical resection or brain biopsy performed within 3 months prior to day 1 will be excluded\n5. Previous (within the past 5 years) or concurrent presence of other untreated cancer, except nonmelanoma skin cancer and in situ carcinomas\n6. History of allergy or hypersensitivity to any of the study drugs\n7. Current abuse of alcohol or illicit drugs\n8. Inability or unwillingness to sign the informed consent form",
+  "enrollment": 36,
+  "has_results": false,
+  "interventions": [
+   "Biopsy",
+   "Biospecimen Collection",
+   "Cisplatin",
+   "Computed Tomography",
+   "Gemcitabine",
+   "Magnetic Resonance Imaging",
+   "Nab-paclitaxel",
+   "Pancreatic Surgical Procedure"
+  ],
+  "last_update_posted": "2026-09-30",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06423326",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-08-31",
+  "sex": "ALL",
+  "sponsor": "Georgetown University",
+  "start_date": "2024-08-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

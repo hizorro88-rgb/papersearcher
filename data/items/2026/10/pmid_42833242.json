@@ -1,0 +1,57 @@
+{
+ "abstract": "OBJECTIVE: Stereotactic body radiotherapy with a simultaneous integrated boost (SBRT-SIB) for locally advanced pancreatic cancer (LAPC) is constrained by the proximity of serial gastrointestinal organs at risk (OARs). Conventional intensity-modulated proton therapy (IMPT) relies on a limited number of fixed beam angles, which may restrict dose shaping around these critical structures. This study evaluated whether non-coplanar spot-scanning proton arc therapy (SPArc-4π) could improve OAR sparing while preserving robust target coverage.\nAPPROACH: 10 patients with LAPC were retrospectively selected in this study. For each patient, SBRT-SIB plans were generated using conventional IMPT and SPArc-4π. Plan robustness was assessed across 21 uncertainty scenarios. Target coverage, conformity, OAR doses, estimated delivery time, and Lyman-Kutcher-Burman normal tissue complication probability (NTCP) for four gastrointestinal endpoints were compared using the Wilcoxon signed-rank test.\nMAIN RESULTS: SPArc-4π maintained target coverage comparable to IMPT, with similar clinical target volume (CTV) and boost-volume coverage, while CTV conformity improved with SPArc-4π (conformity index: 0.50 vs. 0.56; p = 0.02). SPArc-4π significantly reduced maximum dose (Gy(RBE)) to the stomach (30.01 to 24.53), duodenum (35.14 to 33.14), bowel (32.60 to 28.91), and spinal cord (15.38 to 5.58; all p ≤ 0.01). Predicted toxicity decreased across all four gastrointestinal endpoints: gastric bleed risk decreased from 8.19% to 6.15%, grade ≥3 gastrointestinal toxicity from 3.91% to 3.81%, ulceration/perforation from 0.03% to 0.01%, and diarrhea from 24.14% to 22.34% (all p ≤ 0.005). All plans met robustness criteria. The main trade-off was delivery efficiency, with SPArc-4π requiring approximately 2-3 minutes longer delivery time than IMPT.\nSIGNIFICANCE: SPArc-4π provides a promising proton planning strategy for pancreatic SBRT-SIB by preserving robust target coverage while improving gastrointestinal organ sparing and reducing predicted toxicity. These findings support further investigation of SPArc-4π for safer dose escalation in LAPC.",
+ "authors": [
+  "Chen P",
+  "Liu P",
+  "Cong X",
+  "Gao Y",
+  "Gao XS",
+  "Ding X"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42833242",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1088/1361-6560/aeb05f",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42833242"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Phys Med Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42833242/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Introduce 4π dynamic spot-scanning proton arc therapy (SPArc-4π) for pancreatic cancer: a comparative planning study with IMPT",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

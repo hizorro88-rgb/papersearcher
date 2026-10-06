@@ -1,0 +1,95 @@
+{
+ "abstract": "Induction mFOLFIRINOX has become the standard in the management of locally advanced and borderline adenocarcinoma. Following the results of the PREOPANC-01 JASP-05, NEONAX studies it is expected that the neoadjuvant approach will be the standard strategy soon in patients with resectable PAC. The results of the PANACHE-01 trial confirm the feasibility of the neoadjuvant approach in the setting of resectable adenocarcinoma. Two randomized phase III studies, on the same design as PANACHE-01 are currently underway comparing neoadjuvant and adjuvant chemotherapy with mFOLFIRINOX for resectable PAC, (Alliance AO21806, NCT04340141; PREOPANC3, NCT04927780). Despite the improvement of oncosurgical management, recurrence of PAC soon after resection occurs frequently, leading to the dismal prognosis and unnecessary surgery-related loss of quality of life. Thus, there is urgent need for development of innovative and new strategies to decrease postoperative recurrence.\n\nImportant residual tumor load after NAT suggests a primary resistance of the tumor or the selection of resistant clones. The most innovative aspect of this study will be to adapt the adjuvant chemotherapy strategy to the pathological response (downstaging) in patients who will have R0-R1 resection after neoadjuvant mFOLFIRINOX, taking into account the chemoresistance/sensibility status of the tumor.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07044453",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07044453"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2025-07-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University Hospital, Rouen",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07044453"
+ },
+ "summary_ko": "Induction mFOLFIRINOX has become the standard in the management of locally advanced and borderline adenocarcinoma. Following the results of the PREOPANC-01 JASP-05, NEONAX studies it is expected that the neoadjuvant approach will be the standard strategy soon in patients with resectable PAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Risk-adapted Adjuvant Chemotherapy Guided by the Tumour Stage for Operated Pancreatic Adenocarcinoma Following Neoadjuvant Chemotherapy With mFOLFIRINOX",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Resected Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "lilian.schwarz@chu-rouen.fr",
+    "name": "Lilian SCHWARZ, PUPH",
+    "phone": "+332 32 88 84 18"
+   },
+   {
+    "email": "mylene.hervet@chu-rouen.fr",
+    "name": "Mylene HERVET",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Histologically confirmed resected pancreatic adenocarcinoma (R0 or R1) that has received 3 months of neoadjuvant mFOLFIRINOX, including anatomically resectable and borderline resectable tumors, in accordance with the definitions and therapeutic considerations provided in the TNCD (2024) and ESMO (2023) guidelines.\n2. Performance status ECOG 0 or 1\n3. CA 19-9 level ≤ 200 U/ml\n4. Age 18 years or over\n5. Absolute neutrophil count \\> 1,500 mm³, platelet count \\> 100,000 mm³, creatinine clearance (according to MDRD equation) \\> 50 ml/min, haemoglobin level \\> 10 g/dl (transfusions are authorized)\n6. Women of childbearing potential (a woman is considered of childbearing potential (WOCBP), i.e. fertile, following menarche and until becoming post-menopausal unless permanently sterile): with highly effective contraception (Cf. CTCG): combined (estrogen- and progestogen-containing) hormonal contraception associated with inhibition of ovulation, progestogen-only hormonal contraception associated with inhibition of ovulation, intrauterine device (IUD), intrauterine hormone-releasing system (IUS), bilateral tubal occlusion, vasectomised partner, sexual abstinence) since 1 month, during chemotherapy treatment and for 15 months after cessation of chemotherapy treatment, and a negative blood pregnancy test for β-HCG at inclusion as well as pregnancy tests before each cycle of adjuvant chemotherapy, then monthly throughout the study until 15 months after the end of exposure to systemic treatment. Women permanently sterile (hysterectomy, bilateral salpingectomy or bilateral oophorectomy). Postmenopausal women: A postmenopausal state is defined as no menses for 12 months without an alternative medical cause. A high follicle stimulating hormone (FSH) level in the postmenopausal range may be used to confirm a postmenopausal state in women not using hormonal contraception or hormonal replacement therapy. However, in the absence of 12 months of amenorrhea, a single FSH measurement is insufficient.\n7. For men participating in the study, contraception is required during the trial and for 12 months after stopping chemotherapy treatment.\n8. Patient affiliated with, or beneficiary of, a social security (national health insurance) plan\n9. Patient able to comply with the study protocol, in the investigator's judgment\n10. Read and understood the information letter and signed the consent form\n\nExclusion Criteria:\n\n1. Metastatic PAC on post-operative imaging\n2. Cholangiocarcinoma, ampullary carcinoma or other non-PAC pancreatic tumors\n3. Non-controlled congestive heart failure, non-treated angina, recent myocardial infarction (in the previous year), non-controlled AHT (SBP \\> 160 mm Hg or DBP \\> 100 mm Hg, despite optimal drug treatment), long QT\n4. Major non-controlled infection, chronic infectious diseases, immune deficiency syndromes\n5. Premalignant hematologic disorders, e.g. myelodysplastic syndrome\n6. Severe liver failure\n7. Past or current history of malignancies except for the indication under this study and curatively treated basal and squamous cell carcinoma of the skin, in situ carcinoma of the cervix, other malignant disease without recurrence after at least 2 years of follow-up\n8. Any medical, psychological or social situation that (in the investigator's opinion) could limit the patient's compliance with the protocol or the ability to obtain or interpret data or to understand the conditions required for his/her participation in the protocol or render him/her unable to give informed consent\n9. Pregnant or breastfeeding women and women of childbearing age not using effective means of contraception\n10. Person participating in another interventional research having the same primary endpoint\n11. Person deprived of liberty by an administrative or judicial decision or person placed under judicial protection, under guardianship or curatorship\n12. Uracilemia ≥ 150 ng/ml (suggestive of complete DPD deficiency)\n13. Contraindication to study adjuvant chemotherapy treatments in accordance with the SmPCs of the products used in this trial (Gemcitabine, Nab-Paclitaxel, Oxaliplatin, Folinic Acid or Leucovorin, Irinotecan, Fluorouracil)",
+  "enrollment": 390,
+  "has_results": false,
+  "interventions": [
+   "Gem/Nabpaclitaxel infusion",
+   "mFOLFIRINOX infusion"
+  ],
+  "last_update_posted": "2026-02-17",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07044453",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2030-09",
+  "sex": "ALL",
+  "sponsor": "University Hospital, Rouen",
+  "start_date": "2025-12-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

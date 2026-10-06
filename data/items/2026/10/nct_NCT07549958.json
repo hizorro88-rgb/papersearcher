@@ -1,0 +1,92 @@
+{
+ "abstract": "This is a phase 1, open-label clinical trial determining the recommended Phase 2 dose of Gemcitabine with Nab-paclitazel with or without Pitavastatin in subjects with unresectable pancreatic adenocarcinoma (uPDAC). These are subjects who are already receiving Gemcitabine for treatment of their disease.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07549958",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07549958"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-04-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of California, Irvine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07549958"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "PhIbRandomGemcitabine(G)w/or w/Out Pitavastatin(P)MainTx UnresecPancreaticAdenocarcinoma(uPDAC)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "ucstudy@uci.edu",
+    "name": "Chao Family Comprehensive Cancer Center University of California, Irvine",
+    "phone": "1-877-827-8839"
+   },
+   {
+    "email": null,
+    "name": "University of California Irvine Medical",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Provision of a signed and dated ICF by the participant\n* Has a diagnosis of histologically or cytologically confirmed metastatic, recurrent, or locally advanced PDAC\n* Receiving a gemcitabine-based treatment regimen for a minimum of 2 and a maximum of 4 cycles without radiographic progression (ie SD or better).\n* Measurable disease per RECIST 1.1\n* Adequate organ (hematologic, hepatic, renal) function defined below:\n* Hemoglobin ≥ 9.0 g/dL (transfusion is allowed)\n* Platelets ≥ 100,000/mcL (transfusion is allowed)\n* ANC ≥ 1500/mcL\n* AST/ALT ≤ 3 x ULN (≤ 5 x ULN is allowable in cases of liver metastasis or Gilbert's Syndrome)\n* Serum bilirubin ≤ 1.5 x ULN\n* Serum albumin ≥ 3.0 g/dL\n* Serum creatinine ≤ 1.5 x ULN OR creatinine clearance \\> 60 mL/min\n* ECOG PS 0-2\n* 2 lines or less of prior treatment. Prior curative intent treatment (surgery and, if given in the adjuvant setting, systemic therapy and/or radiation) is permitted, regardless of time to recurrence, and does not constitute a line of therapy. This includes participants with residual disease after surgery, who received systemic therapy, chemoembolization, or radiotherapy.\n\nExclusion Criteria:\n\n* Uncontrolled significant clinical illness\n* Clinically significant autoimmune disease\n* Major surgery within 4 weeks of the first dose of registration\n* Known prior malignancy active within the previous 3 years, except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the prostate, cervix, or breast.\n* Concomitant use of statin therapy (to be discontinued 2 weeks prior to the start of C1D1).\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated. Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[anti-HBc\\] and absence of HbsAg) are eligible.\n* Patients with a known history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load. Patients positive for HCV antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV RNA.\n* Patients with a known history of HIV.\n* Known active metastases in the central nervous system (unless stable by brain imaging studies for at least 1 month after last treatment)\n* Patients with QT interval corrected by Fridericia's formula (QTcF) \\> 470 msec for both men and women on screening ECG are excluded.\n* A woman of childbearing potential who has a positive pregnancy test prior to initiating study treatment.\n* Breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the Screening visit through 5 months after the last dose of study treatment.\n* Medicines known to inhibit or induce either CYP2C8, CYP2C9, or CYP3A4\n* History of prior organ or stem cell transplant.\n* Has an active infection requiring systemic therapy. Systemic treatment used prophylactically is allowable.\n* Patients who are unable to swallow or retain oral medication.",
+  "enrollment": 18,
+  "has_results": false,
+  "interventions": [
+   "Pitavastatin"
+  ],
+  "last_update_posted": "2026-05-04",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07549958",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-03-31",
+  "sex": "ALL",
+  "sponsor": "University of California, Irvine",
+  "start_date": "2026-03-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

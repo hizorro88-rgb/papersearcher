@@ -1,0 +1,91 @@
+{
+ "abstract": "Many patients with advanced pancreatic cancer and colorectal cancer experience burdensome and difficult-to-treat symptoms. The impact of multiple symptoms (called \"symptom burden\") can negatively affect a patient's quality of life, decrease their ability to tolerate cancer treatments, and lead to worse survival. Current approaches to manage these cancer-associated symptoms often work poorly, with most patients reporting a moderate to severe symptom burden. Therefore, there is an urgent need for treatments that improve these symptoms in patients with advanced pancreatic and colorectal cancer, and data suggests that medical cannabis can help. In this research study, we are examining the usefulness of using medical cannabis in patients with advanced pancreatic cancer and colorectal cancer to further study how cannabis can impact their symptom burden.\n\nParticipants will be randomized 1:1 to receive \"early'' or \"delayed'' medical cannabis. The early group will have access to medical cannabis immediately at no charge, while the delayed group will agree not to use cannabis of any type during the first 8 weeks. The primary study period for assessing the primary aim is 0 - 8 weeks. Participants in the early arm will have an option to receive cannabis at no charge for another 8 weeks (total 16 weeks), but will be responsible for the cost of the cannabis in this second 8 week period. Participants in the delayed arm will use cannabis from weeks 8 to 16. This secondary study period (8-16 weeks) will be used to assess the proportion of participants in the early arm who choose to continue cannabis, persistence of symptom relief with cannabis, and ongoing safety signals. Patients in the delayed group will complete patient-reported outcomes using NCI PRO-CTCAE (PRO) (weekly) and PROMIS Global (QOL) (every 4 weeks) through 16 weeks. Patients in the early group will complete PRO (weekly) and QOL (every 4 weeks) through week 8, then PRO/QOL every 4 weeks until week 16. All patients will complete a close out survey at the end of their cannabis administration period.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06605430",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06605430"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-09-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HealthPartners Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06605430"
+ },
+ "summary_ko": "Many patients with advanced pancreatic cancer and colorectal cancer experience burdensome and difficult-to-treat symptoms. The impact of multiple symptoms (called \"symptom burden\") can negatively affect a patient's quality of life, decrease their ability to tolerate cancer treatments, and lead to worse survival.",
+ "summary_source": "excerpt",
+ "tags": [
+  "medical cannabis",
+  "patient-reported outcomes"
+ ],
+ "title": "Medical Cannabis in Patients With Advanced Pancreatic and Colorectal Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Non-resectable",
+   "Pancreatic Cancer Metastatic",
+   "Colorectal Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "cancercannabis@HealthPartners.com",
+    "name": "Alissa Gavenda, RN",
+    "phone": "(952) 977-5555"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria\n\n1. Adults (aged 18 or more at enrollment)\n2. Histologically or cytologically proven pancreatic or colorectal cancer. Histologies may include listing of adenocarcinoma, poorly differentiated carcinoma, or other pathology terms that treating oncologist would consider managing per usual standard of care of pancreas and colorectal adenocarcinoma. Neuroendocrine tumors are excluded in both cancer types.\n3. Advanced stage (locally advanced or metastatic) pancreatic or colorectal cancer with no definitive plans for curative surgery in the next 3 months\n4. Self-report of experiencing nausea, vomiting, anorexia, cachexia (wasting), or pain at least once in the 14 days prior to randomization\n5. Plan to initiate or initiated within the past 2 weeks standard-of-care systemic chemotherapy (any regimen that does not include immunotherapy) at a participating institution with no prior systemic therapy in the prior 3 months (prior adjuvant or neoadjuvant chemotherapy is allowed as long as it was \\>3 months prior to randomization)\n6. Must be a resident of Minnesota\n7. Must be willing to be registered in the Minnesota Medical Cannabis Program and follow all rules and requirements of the state program\n8. Must be willing to report baseline and required patient-reported outcomes\n\nExclusion Criteria\n\n1. Self-reported regular use (using 10 or more days in the 30 days prior to randomization) of a THC containing cannabinoid product\n2. Patients with a history of intolerance or hypersensitivity to cannabis (i.e., cannabis hyperemesis)\n3. Patients with Alzheimer's dementia, active epilepsy, or history of traumatic brain injury\n4. Patients with known active or untreated brain metastases. A brain MRI is not required during the screening period.\n5. Patients initiating or receiving immunotherapy, a chemotherapy-immunotherapy combination, or non-standard cytotoxic chemotherapy (including patients enrolled/ enrolling in trials of investigational cancer-directed treatments)\n6. Women who are pregnant, breastfeeding or of childbearing potential without the use of birth control\n7. Uncontrolled acute or chronic medical conditions, psychiatric conditions or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the subject inappropriate for enrollment in this study\n8. Has any condition that in the opinion of the investigator might jeopardize the safety of the subject or interfere with protocol compliance",
+  "enrollment": 64,
+  "has_results": false,
+  "interventions": [
+   "Medical Cannabis"
+  ],
+  "last_update_posted": "2025-07-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06605430",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-09",
+  "sex": "ALL",
+  "sponsor": "HealthPartners Institute",
+  "start_date": "2024-09-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

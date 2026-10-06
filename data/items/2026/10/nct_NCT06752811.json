@@ -1,0 +1,94 @@
+{
+ "abstract": "This trial is a multi-center, randomized, open, parallel-group and positive-controlled phase III trial to evaluate the efficacy and safety of paclitaxel polymeric micelles for injection plus gemcitabine as first-line treatment of metastatic pancreatic cancer compared with nab-Paclitaxel plus gemcitabine.\n\nBased on the widespread use of paclitaxel in pancreatic cancer, this study aims to develop a clinical protocol of paclitaxel polymeric micelles for injection in combination with gemcitabine as first-line treatment for metastatic pancreatic cancer, in order to find a more effective treatment option for pancreatic patients and thus improve survival outcomes.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06752811",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06752811"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2024-12-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai Yizhong Pharmaceutical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06752811"
+ },
+ "summary_ko": "This trial is a multi-center, randomized, open, parallel-group and positive-controlled phase III trial to evaluate the efficacy and safety of paclitaxel polymeric micelles for injection plus gemcitabine as first-line treatment of metastatic pancreatic cancer compared with nab-Paclitaxel plus gemcitabine. Based on the widespread use of paclitaxel in pancreatic cancer, this study aims to develop a clinical protocol of paclitaxel polymeric micelles for injection in combination with gemcitabine as f…",
+ "summary_source": "excerpt",
+ "tags": [
+  "paclitaxel polymeric micelles for injection"
+ ],
+ "title": "Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "15601735965@163.com",
+    "name": "Xiao ya Wang",
+    "phone": "+86 15601735965"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\) Men or women aged 18 to 75 years old (including the critical value).\n* 2）Metastatic pancreatic cancer confirmed by histology or cytology.\n* 3）Patients who have not previously received any systemic therapy (including chemotherapy, targeted, and immunotherapy), radiotherapy, surgery, or investigational drugs for the treatment of metastatic pancreatic cancer; Patients who have previously received neoadjuvant or adjuvant chemotherapy could be enrolled if the interval between last treatment and recurrence and metastasis is more than 6 months.\n* 4）Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* 5）Survival is expected to be at least 3 months.\n* 6）At least one metastatic lesion (non-lymph node lesions with a major diameter of ≥ 10 mm on CT or MRI and lymph node lesions with a minor diameter of ≥ 15 mm) that is measurable according to the Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1) and is amenable to accurate repeated measurement. Suspected metastatic lesions (non-regional lymph nodes) that do not meet the above measurable standards and the primary lesions are measurable, the metastatic lesions are confirmed pathologically, can also be included.\n* 7）The major organs function well: a) white blood cell count ≥ 3.0 × 10\\^9/L. b) Hemoglobin ≥ 90.0 g/L. c) Absolute neutrophil count ≥1.5 × 10\\^9/L. d) Platelet count ≥100 × 10\\^9/L. e) Total bilirubin ≤1.5 × upper limit of normal range (ULN). f) Alanine aminotransferase (ALT), aspartate aminotransferase (AST) and alkaline phosphatase (ALP) ≤ 2.5 × ULN; For patients with liver metastasis, ALT, AST and ALP ≤ 5 × ULN; ALP ≤ 10 × ULN in patients with bone metastases.\n\n  g) Serum creatinine (Cr) ≤ 1.5 × ULN or creatinine clearance estimated by Cockcroft Gault formula ≥50 ml/min.\n\n  h) International normalized ratio (INR) ≤ 1.5 × ULN and prothrombin time (PT) or activated partial thromboplastin time (APTT) ≤ 1.5 × ULN.\n* 8）Women of childbearing age are required to have a negative pregnancy test at the screening period and to use a highly effective contraceptive method for 6 months from the screening period to the last dose. Male participants whose partners are women of childbearing age are required to use a highly effective contraceptive method for 6 months after the first dose of a trial product until the last dose.\n* 9）Patients are able to understand the steps of this trial, are willing to follow the clinical trial protocol to complete the trial, and sign the Informed Consent Form.\n\nExclusion Criteria:\n\n* 1）Patients who are allergic to the investigational drugs and their analogues, or excipients.\n* 2）Patients who had any other malignant tumors within 5 years before or at present, except those who had been completely cured, such as basal cell carcinoma, skin squamous cell carcinoma, melanoma in situ, papillary thyroid carcinoma and cervical carcinoma in situ, were excluded.\n* 3）CNS (central nervous system) or meningeal metastases are known, except for those with single brain metastases that are strictly controlled and asymptomatic.\n* 4）Patients with tumor liver metastasis exceeding 1/2 of the entire liver during screening; or there may be active hepatitis B (HBsAg test positive, HBV-DNA\\>500 IU/ml or research center detection limit \\[only when the research center limit is above 500 IU/ml\\]); Active hepatitis C (positive for hepatitis C virus (HCV) antibodies and HCV-RNA \\> research center detection limit).\n* 5） Human Immunodeficiency Virus test is positive.\n* 6）Patients with active, uncontrolled bacterial, viral, or fungal infection requiring current systemic anti-infective therapy.\n* 7） Patients who have a history of drug or alcohol abuse prior to screening.\n* 8）Patients with severe organic lesions or major organ failure, such as decompensated heart and lung failure, leading to intolerance to chemotherapy.\n* 9） Patients with bleeding tendency (e.g., presence of active ulcer lesions in stomach, melena and/or hematemesis within 3 months, hemoptysis).\n* 10） History of severe cardiovascular and cerebrovascular diseases, including but not limited to:\n\n  1. NYHA (New York Heart Association) class III or IV heart disease;\n  2. Uncontrollable hypertension (i.e. systolic blood pressure ≥ 160 mmHg, and/or diastolic blood pressure ≥ 100 mmHg)；\n  3. Severe cardiac rhythm or conduction abnormalities, such as ventricular arrhythmias requiring clinical intervention, II-III degree atrioventricular block, etc;\n  4. QT interval prolongation corrected for heart rate (corrected for QTc interval using Fridericia formula, males\\>450ms, females\\>470ms);\n  5. Individuals with significant abnormalities in electrocardiogram with clinical significance;\n  6. Acute coronary syndrome, congestive heart failure, stroke, or other grade 3 or higher cardiovascular events occurring within 6 months prior to the first administration;\n* 11） Clinically uncontrollable third space effusion, such as pleural effusion, pericardial effusion, peritoneal effusion, etc. If there were no clinical symptoms, small amounts of pleural effusion or ascites that did not require clinical intervention could be enrolled only after strict control.\n* 12） serious psychiatric disorders in the past or current.\n* 13）Organ transplant recipients.\n* 14）Use of the prohibited medications specified in the protocol is planned during the screening and treatment periods.\n* 15） Patients with a history of psychotropic drug abuse and unable to quit.\n* 16）Before screening, participants have participated in another clinical trial with an investigational nonbiologic agent (administered within the past 30 days or five half-lives, whichever was longer) or an investigational biologic agent (monoclonal or polyclonal antibody) (within the past 4 months or five half-lives, whichever is longer).\n* 17）Pregnant or lactating female patients.\n* 18）Participants who are judged by the investigator to be unable to follow trial procedures or who are judged by the investigator to be unfit to participate in the trial for other reasons.",
+  "enrollment": 416,
+  "has_results": false,
+  "interventions": [
+   "paclitaxel polymeric micelles for injection",
+   "Gemcitabine Hydrochloride for Injection",
+   "Paclitaxel for Injection (albumin bound )",
+   "Gemcitabine Hydrochloride for Injection"
+  ],
+  "last_update_posted": "2026-02-10",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06752811",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-07-01",
+  "sex": "ALL",
+  "sponsor": "Shanghai Yizhong Pharmaceutical Co., Ltd.",
+  "start_date": "2025-02-05",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,92 @@
+{
+ "abstract": "This phase I/II trial tests the safety, side effects, and best dose of entinostat and ZEN003694 in treating patients with solid tumors that have spread to other places in the body (advanced) or does not respond to treatment (refractory). Entinostat is in a class of drugs called histone deacetylase (HDAC) inhibitors. It may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. ZEN003694 is an inhibitor of a family of proteins called the bromodomain and extra-terminal (BET). It may prevent the growth of tumor cells that over produce BET protein. This trial aims to test the safety of combination therapy with entinostat and ZEN003694 in treating patients with advanced or refractory solid tumors.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose (MTD) of BET bromodomain inhibitor ZEN-3694 (ZEN003694) and entinostat in combination in patients with advanced and refractory solid tumors based on dose limiting toxicities (DLTs) of the combination of ZEN003694 and entinostat. (Phase I) II. To determine the overall response rate (ORR) of ZEN003694 and entinostat in advanced/progressive pancreatic cancer. (Phase II)\n\nSECONDARY OBJECTIVES:\n\nI. To describe the safety profile of ZEN003694 and entinostat in advanced and refractory solid tumors. (Phase I) II. To determine the progression-free survival (PFS), duration of response (DOR), and overall survival (OS) of ZEN003694 and entinostat in this patient population. (Phase I) III. To describe the safety profile of ZEN003694 and entinostat in advanced/progressive pancreatic cancer. (Phase II) IV. To determine the progression-free survival (PFS), duration of response (DOR), and overall survival (OS) of ZEN003694 and entinostat in this patient population. (Phase II) V. To assess the effect of ZEN003694 and entinostat therapy on apoptosis, as measured by an apoptosis multiplex immunoassay. (Phase I Daily Dosing of ZEN003694)\n\nEXPLORATORY OBJECTIVES:\n\nI. To assess the effect of ZEN003694 and entinostat therapy on c-MYC and YAP1 as measured by apoptosis immunofluorescence assay. (Phase I Daily Dosing of ZEN003694) II. To assess the effect of ZEN003694 and entinostat therapy on c-MYC and YAP1 as measured by ribonucleic acid (RNA) and protein expression. (Phase I Daily Dosing of ZEN003694) III. To assess the effect of ZEN003694 and entinostat therapy on tumor burden and gene expression patterns as measured by RNA sequencing (RNASeq) on circulating tumor deoxyribonucleic acid (DNA) (ctDNA) specimens. (Phase I Daily Dosing of ZEN003694)\n\nOUTLINE: This is a phase I, dose-escalation study of ZEN003694 in combination with entinostat followed by a phase II study.\n\nPHASE I RUN-IN PERIOD (DAILY DOSING) (NO LONGER USED PER AMENDMENT DATED JUNE 12, 2025): Patients receive ZEN003694 orally (PO) once daily (QD) during days -14 to 1. Patients also undergo core needle biopsy within 30 days prior to starting therapy.\n\nPHASE I \\& II COMBINATION TREATMENT (DAILY DOSING) (NO LONGER USED PER AMENDMENT DATED JUNE 12, 2025): Patients receive entinostat PO QW on days 1, 8, 15, and 22, and ZEN003694 PO QD on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo core needle biopsy on day 1 of cycle 1, and on day 1 of cycle 14.\n\nPHASE I and PHASE II (INTERMITTENT DOSING): Patients receive entinostat PO on days 1, 8, 15, and 22 of each cycle and ZEN003694 PO QD on days 1-5, 8-12, 15-19, and 22-26 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo computed tomography (CT) throughout the study.\n\nAfter completion of study treatment, patients are followed for 30 days.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05053971",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05053971"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2021-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05053971"
+ },
+ "summary_ko": "This phase I/II trial tests the safety, side effects, and best dose of entinostat and ZEN003694 in treating patients with solid tumors that have spread to other places in the body (advanced) or does not respond to treatment (refractory). Entinostat is in a class of drugs called histone deacetylase (HDAC) inhibitors.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Testing A New Anti-cancer Drug Combination, Entinostat and ZEN003694, for Advanced and Refractory Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Malignant Solid Neoplasm",
+   "Locally Advanced Pancreatic Carcinoma",
+   "Metastatic Pancreatic Carcinoma",
+   "Refractory Malignant Solid Neoplasm",
+   "Refractory Pancreatic Carcinoma",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Unresectable Pancreatic Carcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have a) advanced or refractory solid tumor and must meet standard requirements for treatment\n* For patients in Phase 2: Patients must have locally advanced, unresectable OR metastatic pancreatic cancer refractory to standard therapy\n* For patients with solid tumors, they must have measurable disease based on Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* For patients with solid tumors, they must have received at least one standard of care regimen for metastatic disease\n* Age \\>= 18 years. Because no dosing or adverse event data are currently available on the use of ZEN003694, alone or in combination with entinostat, in patients \\< 18 years of age, children are excluded from this study\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1 (Karnofsky \\>= 70%)\n* Hemoglobin \\>= 9.0 g/dL (measured within 14 days prior to administration of study treatment)\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL (measured within 14 days prior to administration of study treatment)\n* Platelets \\>= 100,000/mcL (measured within 14 days prior to administration of study treatment)\n* Total bilirubin =\\< 1.5 x institutional upper limit of normal (ULN) (measured within 14 days prior to administration of study treatment)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase \\[SGPT\\]) =\\< 2.5 x institutional ULN (measured within 14 days prior to administration of study treatment)\n* Glomerular filtration rate (GFR) \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal (measured within 14 days prior to administration of study treatment)\n* Prothrombin time (PT)/international normalized ratio (INR) and partial thromboplastin time (PTT) test \\< 1.5 x ULN (measured within 14 days prior to administration of study treatment)\n* Albumin \\> 2.5 g/dL (measured within 14 days prior to administration of study treatment)\n* Patients with treated brain metastases are eligible if follow-up brain imaging at least 4 weeks after central nervous system (CNS)-directed therapy shows no evidence of progression\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients should be New York Heart Association Functional Classification of class 2B or better\n* Patients must be able to swallow and retain orally administered medication\n* Women of childbearing potential must have a negative pregnancy test within 7 days of starting treatment\n* The effects of entinostat and ZEN003694 on the developing human fetus are unknown. For this reason and because histone deacetylase inhibitor (HDACi) and BET inhibitor (BETi) agents are known to be teratogenic, women of child-bearing potential and their male partner must agree to use contraception from the time of the screening pregnancy test, continuing for the duration of study participation, and for 3 months after completing the study treatment\n* Ability to understand and the willingness to sign a written informed consent document. Participants with impaired decision-making capacity who have a legally-authorized representative (LAR) and/or family member available will also be eligible\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n\nExclusion Criteria:\n\n* Patients who have had any anti-cancer therapy within 30 days (or 5 half-lives, whichever is shorter) prior to the first dose of the investigational products\n* Patients who have received radiation therapy within 21 days prior to the first dose of the investigational products\n* Patients who have a diagnosis of NK cell lymphoma\n* Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> grade 1) with the exception of alopecia, or stable chronic grade 2 toxicities that do not overlap with presumed toxicities of entinostat or ZEN003694\n* Patients who are receiving any other investigational agents\n* Patients with known untreated or symptomatic brain or leptomeningeal metastases are excluded. Patients with previously treated CNS metastasis may be included provided that they have stable CNS disease for at least 4 weeks (confirmed by imaging) without symptoms and are off corticosteroids (above physiologic dose) for that indication\n* Patients with significant malabsorption or nausea and vomiting that would interfere with oral therapies\n* Patients with bleeding diathesis or clinically significant bleeding within the prior 6 months\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to entinostat (e.g. medications that have a benzamide structure (tiapride, remoxipride, clebopride) or ZEN003694\n* Patients receiving any medications or substances that are strong inhibitors or strong inducers of CYP3A4 or substrates of CYP1A2 with narrow therapeutic windows are ineligible. Strong inhibitors or inducers of CYP3A4 and substrates of CYP1A2 must be discontinued at least 7 days prior to the first dose of ZEN003694. Because the lists of these agents are constantly changing, it is important to regularly consult a frequently updated medical reference. As part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product\n* Patients with uncontrolled intercurrent illness\n* Pregnant women are excluded from this study because entinostat is an HDACi and ZEN003694 is a BETi with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with entinostat or ZEN003694, breastfeeding should be discontinued throughout the treatment period and for at least 28 days following the last dose of study treatment if the mother is treated with entinostat or ZEN003694\n* Patients with any of the following cardiac criteria:\n\n  * Patients with a corrected QT interval calculated by the Fridericia formula (QTcF) \\> 450 msec by electrocardiogram (ECG).\n  * Concomitant use of any agent known to cause corrected QT interval (QTc) prolongation.\n  * Clinically significant conduction abnormalities or arrhythmias.\n  * Presence of a cardiac pacemaker or defibrillator with a paced ventricular rhythm limiting ECG analysis.\n  * History or evidence of current \\>= Class II congestive heart failure as defined by New York Heart Association (NYHA).\n  * History of acute coronary syndromes (including unstable angina and myocardial infarction), coronary angioplasty, or stenting within the past 6 months. Subjects with a history of stent placement requiring ongoing antithrombotic therapy (e.g. clopidogrel, prasugrel) will not be permitted to enroll. Clinically significant cardiomegaly, ventricular hypertrophy, or cardiomyopathy\n* Use of oral Factor Xa inhibitors (i.e., rivaroxaban, apixaban, betrixaban, edoxaban otamixaban, letaxaban, eribaxaban) and Factor IIa inhibitors (i.e., dabigatran). Low molecular weight heparin is allowed\n* Patients with radiation to \\> 25% of the bone marrow\n* Patients who have had a bone-targeted radionuclide within 6 weeks of the first dose of ZEN003694\n* Patients who have previously received ZEN003694 or who have been treated with an HDAC inhibitor or investigational BET inhibitor\n* Major surgery other than diagnostic surgery, dental surgery or stenting within 4 weeks prior to the first dose of ZEN003694",
+  "enrollment": 49,
+  "has_results": false,
+  "interventions": [
+   "BET Bromodomain Inhibitor ZEN-3694",
+   "Computed Tomography",
+   "Core Biopsy",
+   "Entinostat"
+  ],
+  "last_update_posted": "2026-07-15",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT05053971",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-07-01",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2022-11-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

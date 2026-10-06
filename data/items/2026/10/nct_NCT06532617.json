@@ -1,0 +1,82 @@
+{
+ "abstract": "This is a single arm, single cencer, phase II clinical trial. This study aims to evaluate the efficacy and safety of Cadonilimab combined with S-1 or capecitabine as a second-line treatment for advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06532617",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06532617"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-08-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06532617"
+ },
+ "summary_ko": "This is a single arm, single cencer, phase II clinical trial. This study aims to evaluate the efficacy and safety of Cadonilimab combined with S-1 or capecitabine as a second-line treatment for advanced pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [
+  "PD-1/CTLA-4 Bispecific Antibody"
+ ],
+ "title": "Cadonilimab Combined With S-1 or Capecitabine as Second-line Treatment for Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Neoplasms"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Main Inclusion Criteria:\n\n* Signed written informed consent\n* Age 18-80, female or male\n* Histopathologically confirmed pancreatic ductal adenocarcinoma\n* Patients with locally advanced pancreatic cancer who have previously received standard first-line anti-tumor treatment (radiotherapy, chemotherapy, targeted or immunotherapy, etc.)\n* Locally advanced pancreatic cancer is defined as follows: a. The tumor has no distant metastasis; b. Pancreatic head/uncinate process: The tumor contacts the superior mesenteric artery \\>180˚; c. Pancreatic body and tail: The tumor contacts the superior mesenteric artery or celiac artery \\>180˚; The tumor contacts the celiac artery and infiltrates the abdominal aorta; d. The tumor invades the jejunal branch of the superior mesenteric artery. Portal vein-superior mesenteric vein cannot be safely reconstructed due to tumor invasion, vein occlusion, or involvement of a large range of jejunal branches of the superior mesenteric vein.\n* At least one measurable lesion (RECIST1.1)\n* ECOG PS 0-1\n* Expected survival time\\>3 months\n* Adequate organ function\n\nMain Exclusion Criteria:\n\n* Malignant diseases other than pancreatic cancer diagnosed within 5 years before the first dose (excluding radically resected basal cell carcinoma of the skin, squamous cell carcinoma of the skin, and/or radically resected carcinoma in situ)\n* Currently participating in interventional clinical research treatment, or having received other research drugs or used research devices within 4 weeks before the first dose\n* Active autoimmune disease\n* Allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation\n* Allergic to the active ingredients or excipients of this study drug, cadonilimab, S-1 or capecitabine\n* Have not fully recovered from any toxicity and/or complications caused by the intervention before starting treatment\n* History of HIV\n* Active HBV or HCV\n* Pregnant or breastfeeding women\n* Any severe or uncontrolled systemic disease\n* Active pulmonary tuberculosis\n* People with mental disorders who are unable to cooperate with treatment\n* Uncontrolled infection\n* The investigators assess that the subjects are unable to complete the entire trial process or are otherwise unsuitable for participating in this trial",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Cadonilimab+S-1or Capecitabine"
+  ],
+  "last_update_posted": "2025-05-14",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06532617",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-08-01",
+  "sex": "ALL",
+  "sponsor": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+  "start_date": "2024-09-19",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

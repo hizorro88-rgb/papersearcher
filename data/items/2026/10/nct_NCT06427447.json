@@ -1,0 +1,91 @@
+{
+ "abstract": "In this trial, we aim to compare the outcomes of adjuvant chemoradiotherapy with chemotherapy for patients with resected pancreatic cancer who are at high risk of disease progressions.\n\nPancreatic cancer is a lethal malignancy with the lowest 5-year overall survival rate of 9% and an increasing incidence. In China, the mortality of pancreatic cancer ranked the sixth among all cancers. Although surgical resection is the only radical treatment, only less than 20% patients could receive upfront surgery at the initial diagnosis. Even though patients have surgery, the incidence of disease progressions, including local progression and metastasis, is about 80-90%. In NCCN guidelines and Chinese guidelines, adjuvant chemotherapy is recommended for post-operative pancreatic cancer, while adjuvant chemoradiotherapy could also be used. However, it has not been clarified that which patients may benefit from adjuvant chemoradiotherapy, and no high-level evidence has shown the advantages of adjuvant chemoradiotherapy over chemotherapy. In meta-analyses, it was demonstrated that patients with lymph nodes metastases, R1 or R2 resection or lymphovascular invasion could achieve longer survival after adjuvant chemoradiotherapy compared with chemotherapy. Therefore, we aim to compare the outcomes of adjuvant chemoradiotherapy with those of chemotherapy in patients with lymph nodes metastases, R1 or R2 resection or lymphovascular invasion after surgical resection of pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06427447",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06427447"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2024-05-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Changhai Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06427447"
+ },
+ "summary_ko": "In this trial, we aim to compare the outcomes of adjuvant chemoradiotherapy with chemotherapy for patients with resected pancreatic cancer who are at high risk of disease progressions. Pancreatic cancer is a lethal malignancy with the lowest 5-year overall survival rate of 9% and an increasing incidence.",
+ "summary_source": "excerpt",
+ "tags": [
+  "pancreatic cancer",
+  "adjuvant chemoradiotherapy",
+  "adjuvant chemotherapy"
+ ],
+ "title": "Adjuvant Chemoradiotherapy Versus Chemotherapy for Pancreatic Cancer (ADJUPANC)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "zhuxiaofei_zxf@163.com",
+    "name": "Xiaofei Zhu",
+    "phone": "86-021-31162222"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged 18-75 years\n* Pathologically confirmed pancreatic ductal adenocarcinoma\n* Pathologically confirmed lymph node metastasis, R1 or R2 resection or lymphovascular invasion (one of the risk factors)\n* No history of cancer treatment after surgical resection\n* No disease progression confirmed by imaging examinations\n* ECOG 0 to1 point\n* No abnormality in blood routine test, liver and kidney function test and coagulation test (White blood cell count ≥4.0×10\\^9/L, neutrophil count ≥2.0×10\\^9, hemoglobin level ≥100g/L, platelet count ≥100×10\\^9/L, ALT and AST level \\< 2.5 times the upper limit of normal, total bilirubin and creatinine level within the normal, international normalized ratio \\<2)\n\nExclusion Criteria:\n\n* History of cancer treatment after surgical resection\n* History of other cancers within 5 years\n* Disease progression, including local pprogression or metastasis, confirmed by imaging examinations\n* ECOG ≥2 points\n* Significant abnormality in blood routine test, liver and kidney function test and coagulation test\n* Active inflammatory bowel disease\n* Gastrointestinal bleeding or perforation within 6 months\n* Infections requiring antibiotics\n* Heart or respirotory insufficiency\n* Pregnant women or breastfeeding women",
+  "enrollment": 770,
+  "has_results": false,
+  "interventions": [
+   "Adjuvant chemoradiotherapy",
+   "Adjuvant chemotherapy"
+  ],
+  "last_update_posted": "2025-02-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06427447",
+  "phase": "PHASE3",
+  "primary_completion_date": "2028-06-30",
+  "sex": "ALL",
+  "sponsor": "Changhai Hospital",
+  "start_date": "2024-08-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,89 @@
+{
+ "abstract": "This phase II trial tests how well liposomal irinotecan, oxaliplatin, 5-fluorouracil and leucovorin (NALIRIFOX) before surgery works in treating patients with pancreatic ductal adenocarcinoma that is close to major blood vessels, but is still potentially removable by surgery (borderline resectable). Irinotecan is in a class of antineoplastic medications called topoisomerase I inhibitors. It blocks a certain enzyme needed for cell division and deoxyribonucleic acid (DNA) repair and may kill tumor cells. Liposomal irinotecan is a form of the anticancer drug irinotecan that is contained inside very tiny, fat-like particles. Liposomal irinotecan may have fewer side effects and work better than other forms of the drug. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It damages the cell's DNA and may kill tumor cells. 5-fluorouracil, a type of antimetabolite, stops cells from making DNA and it may kill tumor cells. Leucovorin, a form of folic acid, is used to lessen the toxic effects of substances that block the action of folic acid. It is a type of chemoprotective agent and a type of chemosensitizing agent. Giving NALIRIFOX before surgery may improve the chance of successful surgery and decrease the chance of the cancer returning after surgery in patients with borderline resectable pancreatic ductal adenocarcinoma.\n\nPRIMARY OBJECTIVE:\n\nI. To determine the antitumor efficacy of the combination of irinotecan sucrosofate (liposomal irinotecan), oxaliplatin and infusional fluorouracil (5-fluorouracil)/leucovorin calcium (leucovorin) (NALIRIFOX) in patients with borderline resectable pancreatic ductal adenocarcinoma.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate clinical efficacy and tolerability of the proposed treatment regimen.\n\nII. To determine the safety of liposomal irinotecan, oxaliplatin and infusional fluorouracil in patients with borderline resectable pancreatic ductal adenocarcinoma.\n\nEXPLORATORY OBJECTIVES:\n\nI. To evaluate blood-based biomarkers predictive of short- and long-term outcomes.\n\nII. To generate tumor tissue-based biomarkers predictive of short- and long-term outcomes.\n\nOUTLINE:\n\nPatients receive liposomal irinotecan intravenously (IV) over 90 minutes, oxaliplatin IV over 120 minutes, leucovorin IV over 30 minutes and fluorouracil IV over 48 hours on day 1 of each cycle. Cycles repeat every 14 days for 4-8 cycles in the absence of disease progression or unacceptable toxicity. Patients undergo surgical resection 4-8 weeks after the last treatment dose. Starting 4-12 weeks after surgery, patients receive liposomal irinotecan, oxaliplatin, leucovorin, and fluorouracil for up to 4 additional cycles in the absence of disease progression or unacceptable toxicity. Additionally, patients undergo computed tomography (CT) and blood sample collection throughout the study.\n\nAfter completion of study treatment, patients are followed up within 30 days, every 3-6 months for 2 years, then every 6-12 months for up to 5 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06821997",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06821997"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-02-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Roswell Park Cancer Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06821997"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "NALIRIFOX Before Surgery for the Treatment of Borderline Resectable Pancreatic Ductal Adenocarcinoma, Nectar Trial",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Borderline Resectable Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 old\n* Have histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC) that is borderline resectable (BR) using the National Comprehensive Cancer Network criteria\n* Have a documented Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 1\n* Absolute neutrophil count (ANC) ≥ 1,500 cells/uL without the use of hematopoietic growth factors\n* Platelet count ≥ 100,000 cells/uL\n* Hemoglobin ≥ 9 g/dL\n* Plasma total bilirubin ≤ upper limit of normal (ULN) (biliary drainage is allowed for biliary obstruction)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN\n* Creatine clearance of \\> 30 mL/min (per Cockroft-Gault equation)\n* Plasma albumin ≥ 3 g/dL\n* Have measurable or evaluable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form (ICF) prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Patients who have had previous chemotherapy or radiotherapy for PDAC\n* Patients with resectable, unresectable, or metastatic PDAC\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the investigator's opinion deems the participant an unsuitable candidate to receive study drug",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Fluorouracil",
+   "Irinotecan Sucrosofate",
+   "Leucovorin Calcium",
+   "Oxaliplatin",
+   "Surgical Procedure"
+  ],
+  "last_update_posted": "2026-09-21",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06821997",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-03-01",
+  "sex": "ALL",
+  "sponsor": "Roswell Park Cancer Institute",
+  "start_date": "2026-03-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,87 @@
+{
+ "abstract": "The purpose of this study is to assess surgical conversion rate and the immediate and long-term outcomes to patients who receive hypofractionated radiotherapy and AG combined with camrelizumab immunotherapy of Borderline Resectable/locally advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06435260",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06435260"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-05-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hebei Medical University Fourth Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06435260"
+ },
+ "summary_ko": "The purpose of this study is to assess surgical conversion rate and the immediate and long-term outcomes to patients who receive hypofractionated radiotherapy and AG combined with camrelizumab immunotherapy of Borderline Resectable/locally advanced pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Hypofractionated Radiotherapy +Chemotherapy+ Camrelizumab as Neoadjuvant Therapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "pengli72@sina.com",
+    "name": "Li Peng",
+    "phone": "13933868818"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age:18 to 75 years old, male or female;\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1;\n3. Tumor was located in the pancreas;\n4. Pathological diagnosis was pancreatic ductal adenocarcinoma or acinar cell carcinoma;\n5. No distant metastasis;\n6. The pancreatic tumor is located more than 1cm away from the duodenum；\n7. Clinical assessment was locally advanced or critical for resectable.\n\nLocally advanced pancreatic cancer diagnostic criteria: (1) due to tumor invasion, venous occlusion or involving a wide range of superior mesenteric vein branch of jejunum, cannot safely - superior mesenteric vein reconstruction. ② (pancreatic head/uncinate process tumors) tumor contact with superior mesenteric artery or celiac artery \\> 180°. Tumor contact with superior mesenteric artery or coeliac trunk artery \\> 180°, tumor contact with coeliac trunk artery and invasion of abdominal aorta.\n\nCritical for resectable pancreatic cancer diagnostic criteria: (1) contact with portal vein tumor - superior mesenteric vein \\> 180 °, 180 ° or less or contact combined intravenous contour irregular or venous thrombosis, but safety is complete resection and reconstruction; The tumor contacted the inferior vena cava. ② (pancreatic head/uncinate process tumors) the tumors contacting the common hepatic artery, but not involving the celiac artery or the origin of the left and right hepatic arteries, can be completely resected and safely reconstructed; Superior mesenteric artery tumor contact 180 ° or less; The tumor contacts the aberrant arteries (such as accessory right hepatic artery, alternative right hepatic artery, alternative common hepatic artery, etc.). (pancreatic body and tail tumors) tumor contact with superior mesenteric artery ≤180°; Tumor contact with celiac artery ≤180°; 7.There was no history of immune system diseases, other malignant tumors, myocarditis, coronary heart disease, other cardiovascular and cerebrovascular diseases, thyroid dysfunction, liver and kidney diseases, psychiatric diseases, infectious diseases, or systemic diseases other than those mentioned above.\n\nParticipants were willing to join in this study, good adherence and written informed consent.\n\nExclusion Criteria:\n\n1. Patients who did not meet these inclusion criteria;\n2. Poor cognitive ability, inability to answer questions, inability to fill out questionnaires, or mental disorders;\n3. The investigators think inappropriate.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Camrelizumab+chemotherapy",
+   "hypofractionated radiotherapy"
+  ],
+  "last_update_posted": "2026-07-06",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06435260",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-06-01",
+  "sex": "ALL",
+  "sponsor": "Hebei Medical University Fourth Hospital",
+  "start_date": "2024-08-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

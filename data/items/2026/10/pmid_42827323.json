@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreatic exocrine insufficiency (PEI) is a maldigestion syndrome leading to symptoms and nutritional deficiencies. Prospective real-world data on pancreatic enzyme replacement therapy (PERT) dose requirements across aetiologies are limited.\nOBJECTIVE: To define PERT dose requirements and treatment outcomes across PEI aetiologies in specialist European practice.\nMETHODS: EURO-PEI was a multicentre observational registry with predominantly prospective data collection conducted at eight pancreatic centres in five European countries between June 2021 and September 2025. Adults with clinician-established PEI in whom PERT was initiated or actively optimised were included. The primary outcome was the optimised PERT dose associated with the achievement of a clinician-assessed therapeutic goal: improvement or resolution of PEI-related symptoms with normalisation or clinically relevant improvement of nutritional abnormalities.\nRESULTS: Among 1015 patients, PEI was secondary to chronic pancreatitis in 496 (48.9%), pancreatectomy in 185 (18.2%), pancreatic cancer in 174 (17.1%), and acute pancreatitis in 95 (9.4%). Median total daily optimised doses were highest after pancreatectomy (240,000 PhU, IQR 175,000-375,000) and in pancreatic cancer (210,000 PhU, 175,000-325,000), compared with chronic pancreatitis (175,000 PhU, 120,000-210,000) and acute pancreatitis (100,000 PhU, 75,000-200,000). After optimisation, the therapeutic goal was achieved in 951 patients (93.7%); of these, 446 (46.9%) required enzyme doses exceeding commonly recommended starting doses. Related adverse events occurred in 38 patients (3.7%).\nCONCLUSIONS: PERT dose requirements vary substantially by PEI aetiology, supporting aetiology-aware starting doses, early reassessment, and individualised optimisation in high-risk groups.",
+ "authors": [
+  "Domínguez-Muñoz JE",
+  "Domínguez-Novoa Y",
+  "Martínez-Seara X",
+  "Hegyi P",
+  "Rebours V",
+  "Phillips ME",
+  "Bolado F",
+  "Capurso G"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42827323",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1002/ueg2.70282",
+  "nct": [],
+  "pmcid": "PMC13633429",
+  "pmid": "42827323"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study",
+  "Observational Study"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "United European Gastroenterol J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42827323/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Aetiology-Specific Pancreatic Enzyme Dose Requirements and Treatment Outcomes in Pancreatic Exocrine Insufficiency: The Multicentre EURO-PEI Registry",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

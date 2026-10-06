@@ -1,0 +1,88 @@
+{
+ "abstract": "Pancreatic cancer is one of the worst-prognosed cancers with a 5-year survival rate of less than 10%. Its incidence has been steadily increasing for several years in France and worldwide. Pancreatic adenocarcinoma may become the second leading cause of cancer mortality in the years 2030-2040. Current standard of care for pancreatic cancer imaging at initial workup comprise CT imaging and MRI. However, these imaging modalities lack sensitivity and accuracy, with an estimated rate of about 30% of patients either with visceral or lymph node metastasis discovered during planned surgery or with relapse occurring during the first 6 months after surgery suggesting occult metastasis at diagnosis. Therefore, there is a clear need for new imaging modalities at initial diagnosis for more adapted and individualized therapeutic decision.\n\nCholangiocarcinoma (or cancer of the bile ducts) also has a dismal prognosis with a 5-year survival rate of 7%. The therapeutic objective is to obtain a surgical resection R0 when possible which can be associated with improved survival of up to 40% in appropriately selected patients. However, surgical morbidity and mortality are high, especially in peri-hilar forms. The detection of lymph node metastasis beyond the hepatic hilum is crucial, as surgery is considered futile in this situation. Current standard imaging at initial work-up include CT and MRI that have limited performance in estimating surgical resecability with a sensitivity of 60% for detecting lymph nodes metastasis and 67% for detecting distant metastasis. Therefore, there is also here an unmet need for improved baseline imaging.\n\nIn summary, this project is focused on two digestive cancers with poor prognosis in which preoperative imaging accuracy remains today imperfect.\n\nTherefore, we aim to demonstrate, when compared with current standard imaging, that 68Ga-FAPI-46 PET/CT performed at baseline imaging in pancreatic and biliary duct cancers, leads to a change in TNM classification and subsequently to a change in therapeutic management.\n\nTo our knowledge, this will be the first (or one of the first) structured multicenter prospective study to evaluate the additional and potentially decisive contribution of 68Ga-FAPI-46 PET/CT carried out after a standard imaging workup at initial diagnosis of pancreatic and biliary duct cancers.\n\nIf the diagnostic superiority of 68Ga-FAPI-46 PET/CT is confirmed, this study could lead to define a new standard of care for the imaging of these cancers with poor prognosis. The study should also help to set the ground for future theranostic approaches where 68Ga-FAPI-46 PET/CT would help select patients for targeted radionuclide therapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07478523",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07478523"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-03-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University Hospital, Bordeaux",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07478523"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "FAPI-PET Value for the Initial Screening of Pancreatic and Biliary Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Cholangiocarcinoma",
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "charles.mesguich@chu-bordeaux.fr",
+    "name": "Charles Mesguich, Dr.",
+    "phone": "05 57 65 63 35"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Population 1: De novo pancreatic adenocarcinoma (pathological evidence) or strong suspicion of de novo pancreatic adenocarcinoma on imaging, immediately resectable, borderline or locally advanced, potentially requiring curative treatment and non-metastatic (M0), according to reference staging. - Population 2: De novo cholangiocarcinoma eligible for curative treatment (pathological evidence) or strong suspicion of de novo pancreatic adenocarcinoma on imaging, non-metastatic (M0), according to reference extension assessment. according to reference extension report\n\nCriteria common to both populations:\n\n* Age \\>18 years at the time of signing the informed consent\n* Patient affiliated to a social security system\n* Free and informed consent signed by the participant and the investigator (at the latest on the day of inclusion and before any examination required by the research)\n\nExclusion Criteria:\n\n* Tumor M+ or with suspicion of distant metastasis on standard staging.\n* Neoadjuvant treatment\n* History of other active cancer\n* Pregnant or breastfeeding woman\n* Person under legal protection (guardianship or curatorship)\n* Person unable to personally give consent\n* Person in an emergency situation\n* Exclusion period from another protocol\n* Person deprived of liberty by judicial or administrative decision",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "TEP-TDM au 68Ga-FAPI-46"
+  ],
+  "last_update_posted": "2026-04-30",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07478523",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-03-21",
+  "sex": "ALL",
+  "sponsor": "University Hospital, Bordeaux",
+  "start_date": "2026-04-21",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

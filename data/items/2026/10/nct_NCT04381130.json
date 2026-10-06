@@ -1,0 +1,84 @@
+{
+ "abstract": "This study is a multi center, open-label, dose escalation, Phase I/IIa study of EF-009 in up to 30 patients with borderline resectable and unresectable pancreatic cancer.\n\nIn Phase I, the study will follow a \"3+3\" design to determine the maximum tolerated dose (MTD) of EF-009 implanted surgically in patients with pancreatic cancer. The MTD is defined as one dose level (cohort) below the dose in which dose limiting toxicities (DLTs) were observed in ≥ 33% of the participants.\n\nPhase IIa is a single arm study with up to 12 subjects in order to test the hypothesis that the MTD of EF-009 will increase the overall survival (OS) and progression free survival (PFS) in patients with borderline resectable and unresectable pancreatic cancer. The number of EF-009 implanted will be based on the MTD dose determined in the Phase I portion of the study.\n\nIn both the Phase I and Phase IIa portions of the study, subjects will be evaluated for response every 8 weeks after EF-009 wafer implantation for up to 2 years, by CT, PET/CT or MRI (per treating investigator's discretion) using the same method as at baseline. Tumor measurements will be assessed based on the Response Evaluation Criteria in Solid Tumors guidelines version 1.1 (RECIST v1.1). The total study duration for each subject consists of screening, treatment, and extended follow-up period and survival follow-up period.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04381130",
+ "importance": 0.82,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04381130"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2020-05-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Everfront Biotech Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04381130"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Phase I/IIa Study of EF-009 in Patients With Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "coldwee@efbiotech.com",
+    "name": "David Liu, PhD",
+    "phone": "+88638630108"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Female or male, age ≥ 18 years old\n2. Subject has cytological, histological, or pathological confirmation of pancreatic cancer Note: All histologic subtype(s) of exocrine and endocrine pancreatic cancer are eligible to enroll in the study\n3. Borderline resectable or unresectable pancreatic cancer judged by the PI in consultation with the designated site radiologist and surgeon at the treating institution Borderline resectable tumors are those that have:\n\n   1. no distant metastases;\n   2. venous involvement of the superior mesenteric vein (SMV)/portal vein (PV) with or without impingement and narrowing of the lumen;\n   3. short segment venous occlusion but with suitable vessel proximal and distal to occlusion, allowing for safe resection and reconstruction;\n   4. gastroduodenal artery (GDA) encasement up to the hepatic artery (HA) with either short segment encasement or direct abutment of HA, without extension to the celiac axis (CA); and\n   5. tumor abutment of the SMA not to exceed 180° of the circumference.\n\n   Unresectable tumors are those that have:\n   1. Arterial:\n\n      Head/uncinate process:\n      * Solid tumor contact with SMA \\>180°\n      * Solid tumor contact with the CA \\>180°\n\n      Body and tail:\n      * Solid tumor contact of \\>180° with the SMA or CA\n      * Solid tumor contact with the CA and aortic involvement\n   2. Venous\n\n   Head/uncinate process:\n   * Unreconstructible SMV/PV due to tumor involvement or occlusion (can be due to tumor or bland thrombus)\n   * Contact with most proximal draining jejunal branch into SMV\n\n   Body and tail:\n\n   • Unreconstructible SMV/PV due to tumor involvement or occlusion (can be due to tumor or bland thrombus)\n4. Subjects have an ECOG performance status ≤ 1\n5. Subjects who are eligible and able to participate in the study and accept to enter the study by signing written informed consent forms\n6. Patients are recovered from toxicities from prior systemic therapies to CTCAE grade 0 or 1 (alopecia ≤ Grade 2 can enroll) and have adequate hematopoietic, liver and renal function at screening and before using study medication\n\n   * Haemoglobin ≥ 8 g/dL\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/mm3\n   * Absolute lymphocyte count ≥ 1000/mm3,\n   * Platelets ≥ 100,000 /mm3\n   * Total white blood cell (WBC) ≥ 3,000 cells /mm3\n   * Coagulation tests (prothrombin time \\[PT\\], activated partial thromboplastin time \\[APTT\\], International Normalized Ratio \\[INR\\]) \\< 1.5×ULN,\n   * Total bilirubin ≤ 1.5×ULN,\n   * Aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase(SGOT) or Alanineaminotransferase (ALT)/serum glutamic pyruvic transaminase (SGPT) ≤ 3 x ULN\n   * Estimated Glomerular Filtration Rate (GFR) ≥ 60 mL/min (MDRD method)\n\n   Glomerular Filtration Rate (GFR) is calculated using the MDRD formula:\n\n   GFR = 175 x (Standardized SCr)-1.154 x (age)-0.203 x (0.742 if female) x (1.210 if African American)\n7. The subject agrees not to use food supplementary or dietary that contains Angelica sinensis after Screening Visit to Day 21.\n8. All male subjects and female subjects with child-bearing potential (between puberty and 2 years after menopause) should use appropriate contraception method(s) for at least 4 weeks after EF-009 treatment shown below.\n\n   * Total abstinence (when this is in line with the preferred and usual lifestyle of the subject. Periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception).\n   * Female sterilization (have had surgical bilateral oophorectomy with or without hysterectomy) or tubal ligation at least six weeks before taking study treatment. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment.\n   * Male sterilization (at least 6 months prior to screening). For female subjects on the study, the vasectomized male partner should be the sole partner for that subject\n   * Combination of any two of the following (a+b or a+c, or b+c):\n\n     1. Use of oral, injected or implanted hormonal methods of contraception or other forms of hormonal contraception that have comparable efficacy (failure rate \\<1%), for example hormone vaginal ring or transdermal hormone contraception.\n     2. Placement of an intrauterine device (IUD) or intrauterine system (IUS).\n     3. Barrier methods of contraception: Condom or occlusive cap (diaphragm or cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal suppository.\n\nExclusion Criteria:\n\n1. Subjects who have participated in other investigational studies within 4 weeks prior to receive EF-009\n2. Subjects with known or suspected hypersensitivity to EF-009 or the excipient\n3. Subject not eligible for resection without significantly affecting vital function\n4. Subjects with distant metastasis or recurrence of pancreatic cancer\n5. Patient has other severe and/or life-threatening disease(s) with life expectancy less than 12 months\n6. Subjects who have an immuno-compromised condition, or is with known autoimmune conditions or is human immunodeficiency virus (HIV) seropositive.\n7. Subjects with medical, social or psychological factors interfering with compliance of the study\n8. Subjects that have on-going moderate to severe organ impairment, other than the study indication, that may confound the efficacy evaluation, safety evaluation or usage of standard chemotherapy\n9. Female subjects that are lactating, pregnant, or planned to become pregnant",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "EF-009"
+  ],
+  "last_update_posted": "2026-09-11",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT04381130",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-12-31",
+  "sex": "ALL",
+  "sponsor": "Everfront Biotech Co., Ltd.",
+  "start_date": "2027-04-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

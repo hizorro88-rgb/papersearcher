@@ -1,0 +1,90 @@
+{
+ "abstract": "This study aims to evaluate the efficacy and safety of adebrelimab combined with the AG regimen in patients with unresectable locally advanced or metastatic pancreatic cancer who have received at least one prior line of systemic therapy but have not undergone gemcitabine-based treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06916975",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06916975"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-04-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Jin Xu",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06916975"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic cancer"
+ ],
+ "title": "Adebrelimab Combined With AG Regimen in Patients With Unresectable Locally Advanced or Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Non-resectable",
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "xujin@fudanpci.org",
+    "name": "Jin Xu",
+    "phone": "18017317267"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Sign informed consent；\n* Aged 18-75 years (inclusive)；\n* Histologically or cytologically confirmed pancreatic cancer；\n* Unresectable locally advanced or metastatic pancreatic cancer, as determined by the investigator；\n* Disease progression after prior treatment with at least one systemic therapy;\n* No previous immunotherapy;\n* No previous gemcitabine-based chemotherapy;\n* Have at least one measurable lesion (according to RECIST 1.1 criteria);\n* ECOG 0\\~1；\n* The estimated survival time is greater than 3 months;\n* Adequate Organ Function (within 28 days prior to first dose): Hematology: White blood cell count (WBC) ≥3.0×10⁹/L Absolute neutrophil count (ANC) ≥1.5×10⁹/L Platelets (PLT) ≥100×10⁹/L Hemoglobin (HGB) ≥90 g/L Liver Function: Aspartate aminotransferase (AST) ≤2.5×ULN Alanine aminotransferase (ALT) ≤2.5×ULN Total bilirubin (TBIL) ≤1.5×ULN Renal Function: Serum creatinine (Cr) ≤1.5×ULN or creatinine clearance (CrCl) ≥60 mL/min (calculated via Cockcroft-Gault formula). Coagulation: International normalized ratio (INR) ≤1.5 Activated partial thromboplastin time (APTT) ≤1.5×ULN Cardiac Function: No clinically significant abnormalities on electrocardiogram (ECG)；\n* Male subjects and females of childbearing potential must agree to use effective contraceptive measures from the first dose until 3 months after the last dose of the study drug.\n\nExclusion Criteria:\n\n* The subject has any known active autoimmune disease;\n* Subjects have any complications requiring systemic treatment with corticosteroids such as prednisone (\\> 10mg/ day) or have used immunosuppressive drugs within 14 days prior to initial administration;\n* Subjects received tumor vaccines or other immune-activating antitumor drugs (such as interferon, interleukin, thymosin, or immune cell therapy) within 1 month prior to initial administration;\n* Subjects are participating in another clinical trial or have received a drug intervention from another clinical trial within 4 weeks prior to the first dose;\n* Subjects have other malignancies requiring treatment;\n* Clinically significant cardiovascular disorders；\n* Prior allogeneic organ transplantation or hematopoietic stem cell transplantation；\n* Serologically confirmed HIV infection；\n* Active hepatitis B (HBsAg-positive with HBV-DNA ≥10³ copies/mL). Active hepatitis C (HCV antibody-positive with detectable HCV RNA and requiring antiviral therapy)；\n* Known hypersensitivity to monoclonal antibodies or any component of adebrelimab；\n* History of severe allergic reactions to gemcitabine or nab-paclitaxel；\n* Any situation that the investigator believes may compromise the validity of the trial or patient safety.",
+  "enrollment": 46,
+  "has_results": false,
+  "interventions": [
+   "Adebrelimab",
+   "AG"
+  ],
+  "last_update_posted": "2025-04-08",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06916975",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-12-01",
+  "sex": "ALL",
+  "sponsor": "Jin Xu",
+  "start_date": "2025-04-15",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

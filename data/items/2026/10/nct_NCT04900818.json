@@ -1,0 +1,97 @@
+{
+ "abstract": "This is an open label, multi-center, multiple dose Phase 1 study to evaluate the safety, tolerability, MTD PK, and PD of TJ033721 (givastomig) in subjects with advanced or metastatic solid tumors.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04900818",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04900818"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2021-05-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "I-Mab Biopharma US Limited",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04900818"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Study of TJ033721 (Givastomig) in Subjects With Advanced or Metastatic Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor",
+   "Advanced Cancer",
+   "Metastatic Cancer",
+   "Gastric Cancer",
+   "Gastroesophageal Junction Carcinoma",
+   "Esophageal Adenocarcinoma",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "Biliary Tract Cancer (BTC)"
+  ],
+  "contacts": [
+   {
+    "email": "us.info@imabbio.com",
+    "name": "Clinical Development",
+    "phone": "(240) 745-6330"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nPart 1 - Monotherapy Subjects with advanced or metastatic solid tumor in subjects whose disease has progressed despite standard therapy, or who has no further standard therapy, or who is unsuitable for available standard treatment options.\n\nPart 2 - Combination Therapy Subjects with treatment naïve locally advanced, unresectable or metastatic gastric, GEJ, esophageal adenocarcinoma;\n\nPart 3: Combination Therapy Subjects with unresectable, locally advanced or metastatic histologically confirmed pancreatic adenocarcinoma;\n\nPart 4: Combination Therapy Subjects with unresectable, locally advanced or metastatic histologically confirmed biliary tract cancer.\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 with adequate organ function\n* Have known PD-L1 status with prior testing by immunohistochemistry and a corresponding combined positive score (CPS)\n\nFor dose expansion and Part 2, Part 3, Part 4 Combination subjects:\n\n• Must have CLDN18.2-positive tumor expression\n\nExclusion Criteria\n\n* Prior exposure to CLDN18.2 -targeted therapy\n* Prior exposure to 4-1BB agonists\n* Second malignancy within the last 3 years with the exception of cutaneous squamous cell carcinoma or cutaneous basal cell carcinoma or cervical carcinoma in situ\n* Known active or chronic Hepatitis B or Hepatitis C, other hepatitides\n* Unstable/active ulcer or digestive tract bleeding within 6 weeks\n* Active autoimmune disease requiring systemic treatment within the past 2 years\n* Active interstitial lung disease (ILD) or pneumonitis or a history of ILD or pneumonitis requiring treatment\n* Known active CNS metastases and/or carcinomatous meningitis. Subjects with previously treated brain metastases may participate provided they are clinically stable and without requirement of steroid treatment for at least 14 days prior to first dose of study treatment;\n* New York Heart Association (NYHA) Class 3 or 4 congestive heart failure, severe/unstable angina, myocardial infarction (MI), symptomatic congestive heart failure, cerebrovascular accident, transient ischemic attack (TIA), arterial embolism, percutaneous transluminal coronary angioplasty (PTCA), or coronary artery bypass grafting (CABG) in the previous 6 months\n* Diagnosis of immunodeficiency such as known active HIV\n* Any active infection requiring parenteral treatment\n\nFor Part 2, 3, 4 Combination subjects:\n\n• Prior treatment with anti-PD-1 or PD-L1 agent",
+  "enrollment": 330,
+  "has_results": false,
+  "interventions": [
+   "TJ033721 (givastomig)",
+   "TJ033721 (givastomig) , nivolumab, chemotherapy",
+   "TJ033721 (givastomig), chemotherapy",
+   "TJ033721 (givastomig), durvalumab, chemotherapy"
+  ],
+  "last_update_posted": "2026-03-05",
+  "location_countries": [
+   "China",
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 21,
+  "nct_id": "NCT04900818",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12",
+  "sex": "ALL",
+  "sponsor": "I-Mab Biopharma US Limited",
+  "start_date": "2021-06-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

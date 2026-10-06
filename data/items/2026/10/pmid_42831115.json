@@ -1,0 +1,64 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic cancer complicated by active pulmonary tuberculosis (TB) presents a therapeutic dilemma because timely oncologic treatment must be balanced against infection control. Evidence guiding the curative-intent management of pancreatic cancer complicated by active TB remains extremely limited.\nCASE PRESENTATION: An 81-year-old man with a history of tuberculous peritonitis and diabetes mellitus presented with weight loss and poor glycemic control. Contrast-enhanced CT revealed a 14-mm pancreatic head tumor and multiple nodular lesions in the right upper lobe. Sputum examination was positive for acid-fast bacilli and Mycobacterium tuberculosis. After 4 weeks of initial 4-drug anti-TB therapy, sputum smear conversion and drug-susceptible TB were confirmed. Re-evaluation imaging revealed enlargement of the tumor to 21 mm with less than 180° portal vein abutment, and endoscopic US-guided fine-needle aspiration confirmed pancreatic ductal adenocarcinoma (PDAC). Although the tumor was anatomically resectable, active pulmonary TB was considered a host-related risk, and treatment was planned according to a strategy analogous to the International Association of Pancreatology concept of borderline resection on the basis of conditional factors. Following multidisciplinary discussion and shared decision-making with the patient, concurrent maintenance anti-TB therapy and 6 cycles of neoadjuvant gemcitabine plus nab-paclitaxel (GnP) were administered. The planned treatment was completed successfully without TB reactivation, resulting in a partial radiological response that permitted subtotal stomach-preserving pancreatoduodenectomy with portal vein resection. Histopathological examination revealed an R0 resection with a Grade 1b therapeutic response. After completing adjuvant chemotherapy, the patient developed a local recurrence 16 months after surgery but remained alive with stable disease under systemic chemotherapy 33 months after the initiation of anti-TB therapy, without TB reactivation.\nCONCLUSIONS: Although further accumulation of similar cases is needed, this case demonstrates that curative-intent treatment of PDAC complicated by active TB can be achieved through careful multidisciplinary management.",
+ "authors": [
+  "Tanaka K",
+  "Suenaga M",
+  "Tashiro M",
+  "Umemura T",
+  "Hada T",
+  "Hakamata H",
+  "Tajima H",
+  "Uno Y"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp",
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42831115",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.70352/scrj.cr.26-0532",
+  "nct": [],
+  "pmcid": "PMC13634660",
+  "pmid": "42831115"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42831115/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

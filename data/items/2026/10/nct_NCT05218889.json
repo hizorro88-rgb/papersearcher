@@ -1,0 +1,87 @@
+{
+ "abstract": "This study is designed to explore the efficacy and safety of surufatinib combined with camrelizumab and AS (nab-paclitaxel and S-1) as first-line treatment compared with AG (nab-paclitaxel and gemcitabine) in unresectable advanced or metastatic pancreatic cancer.\n\nFor patients with advanced pancreatic cancer (APC), chemotherapy is still the predominant treatment. The first-line regimens include AG (nab-paclitaxel and gemcitabine) and FOLFIRINOX (5-fluorouracil, leucovorin, irinotecan, and oxaliplatin). AS (nab-paclitaxel and S-1) was explored and widely used in China especially for those with poor performance. This prospective, randomized controlled phase 1b/2 clinical study was designed to explore the efficacy and safety of surufatinib combined with camrelizumab and AS as first-line treatment compared with AG in APC.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05218889",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05218889"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2022-02-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chinese PLA General Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05218889"
+ },
+ "summary_ko": "This study is designed to explore the efficacy and safety of surufatinib combined with camrelizumab and AS (nab-paclitaxel and S-1) as first-line treatment compared with AG (nab-paclitaxel and gemcitabine) in unresectable advanced or metastatic pancreatic cancer. For patients with advanced pancreatic cancer (APC), chemotherapy is still the predominant treatment.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Surufatinib Plus Camrelizumab and AS in First Line Treatment of Advanced Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "Pancreas Cancer",
+   "Pancreatic Neoplasms"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Have fully understood this study and voluntarily signed the informed consent form;\n2. Patients with histologically or cytologically confirmed unresectable, locally advanced, or metastatic pancreatic ductal adenocarcinoma;\n3. Age 18-75 years old (inclusive);\n4. No prior systemic therapy for advanced pancreatic carcinoma;\n5. ECOG PS 0-1;\n6. Must have at least one measurable lesion, with the longest diameter of at least 10 mm as measured by spiral CT scan, or at least 20 mm as measured by conventional CT scan (according to Response Evaluation Criteria in Solid Tumors, i.e. RECIST v1.1);\n7. Expected survival ≥ 3 months;\n8. The functions of vital organs meet the following requirements (the use of any blood components and cell growth factors within \\*14 days before enrollment is not allowed):\n\n   Absolute neutrophil count ≥1.5×109/L; Platelets ≥100×109/L; Haemoglobin ≥90 g/L; Total bilirubin \\< 1.5 × ULN; ALT and/or AST \\< 1.5 × ULN ( \\< 3 × ULN for patients with metastases to liver); Serum creatinine \\< 1.5 × ULN; Endogenous creatinine clearance ≥50 mL/min;\n9. Women of childbearing potential must use effective contraceptive measures;\n10. Good compliance and cooperative with follow-up.\n\nExclusion Criteria:\n\n1. Unable to comply with the study protocol or study procedures;\n2. Previously received treatment with VEGFR inhibitors, or previously used ICI treatment;\n3. Participating in or having participated in other drug clinical trials within 4 weeks prior to enrollment;\n4. Have received transfusion therapy, blood products, and hematopoietic factors, such as albumin and G-CSF, within 14 days prior to enrollment;\n5. Brachytherapy (radioactive seed implantation) within 60 days prior to enrollment;\n6. Have received other systemic anti-tumor treatments within 4 weeks prior to enrollment, including chemotherapy, signal transduction inhibitors, hormone therapy, and immunotherapy;\n7. Have received any surgery or invasive treatment or procedure within 4 weeks prior to enrollment (excluding intravenous catheterization, paracentesis drainage, etc.);\n8. Undergone major surgery within 60 days prior to enrollment or the surgical incision has not completely healed;\n9. Have received local anti-tumor treatments within 4 weeks prior to enrollment, such as hepatic arterial interventional embolism, cryoablation or radiofrequency ablation of metastases to liver;\n10. The patient currently has hypertension uncontrolled by medication, defined as: blood pressure systolic ≥140 mmHg and/or blood pressure diastolic ≥90 mmHg;\n11. Protein urine ≥2+, or 24-hour protein urine amount ≥1.0 g on urinalysis;\n12. Uncontrollable malignant ascites (defined as ascites that cannot be controlled by diuretics or paracentesis as judged by the investigator);\n13. Clinically significant electrolyte abnormalities as judged by the investigator;\n14. Liver metastases accounted for half or more of the total liver volume as determined by the investigator;\n15. Clinically significant cardiovascular disorders, including but not limited to acute myocardial infarction within 6 months prior to enrollment, severe/unstable angina pectoris, or coronary artery bypass surgery; cardiac failure congestive with NYHA classification \\> Class II; ventricular arrhythmia requiring drug therapy; LVEF (left ventricular ejection fraction) \\<50%;\n16. Hemorrhage events of ≥ Grade 3 occurring within 4 weeks prior to enrollment;\n17. Patients who, within 3 months prior to enrollment, have clear evidence or history of haemorrhagic tendency (hemorrhage \\>30 mL within 3 months, occurrence of haematemesis, melena, haematochezia), haemoptysis (fresh blood \\>5 mL within 4 weeks), or have experienced thromboembolic events within 12 months (including stroke events and/or transient ischaemic attack);\n18. INR \\> 1.5 or APTT \\> 1.5×ULN, or the patient is currently taking anticoagulants;\n19. Currently, the patient has poorly controlled diabetes mellitus (after standard treatment, fasting glucose concentration ≥ CTCAE Grade 2);\n20. The patient currently has any disease or condition that affects drug absorption, or the patient is unable to take surufatinib orally;\n21. Active or uncontrolled severe infection (≥ CTCAE Grade 2 infection);\n22. Known HIV infection;\n23. Known history of clinically significant liver disease, including hepatitis viral \\[subjects known to be carriers of HBV must be excluded if they have active HBV infection, i.e., HBV DNA positive (\\>1×104 copies/mL or \\>2000 IU/mL); known HCV infection with HCV RNA positive (\\>1×103 copies/mL)\\], or other hepatitis, hepatic cirrhosis;\n24. The patient currently has CNS metastasis or a history of brain metastasis;\n25. Patients who currently have gastrointestinal diseases such as active gastric and duodenal ulcer, colitis ulcerative, or active hemorrhage in unresected tumor, or other conditions that may cause gastrointestinal hemorrhage or perforation as determined by the investigator;\n26. Unresolved toxicities higher than CTCAE Grade 1 caused by any prior anti-cancer treatments, excluding alopecia and ≤ Grade 2 neurotoxicity caused by oxaliplatin;\n27. Patients with a known or suspected allergy to the investigational product or drugs of the same class;\n28. Pregnant (positive pregnancy test before medication) or breastfeeding women;\n29. Drug abuse, medical, psychological, or social conditions may affect patient enrollment and the evaluation of experimental results;\n30. Having other untreated or concomitant tumors, except cervical carcinoma in situ, treated basal cell carcinoma, or superficial bladder tumors. Patients can be enrolled if the tumor has been radically resected and there is no evidence of disease for more than 3 years. Treatment for all other tumors must have been completed at least 3 years prior to enrollment;\n31. Patients considered by the investigator to be inappropriate for enrollment in this study.",
+  "enrollment": 90,
+  "has_results": false,
+  "interventions": [
+   "surufatinib + camrelizumab + nab-paclitaxel + S-1",
+   "nab-paclitaxel + gemcitabine"
+  ],
+  "last_update_posted": "2024-12-31",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05218889",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2024-12-16",
+  "sex": "ALL",
+  "sponsor": "Chinese PLA General Hospital",
+  "start_date": "2021-08-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

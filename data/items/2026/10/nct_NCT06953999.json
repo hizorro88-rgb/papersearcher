@@ -1,0 +1,88 @@
+{
+ "abstract": "This is a Phase 3, randomized, double-blind clinical trial aimed at evaluating the efficacy and safety of Ivonescimab plus chemotherapy with or without AK117 versus placebo plus chemotherapy in patients with metastatic pancreatic cancer. The study seeks to determine whether the addition of Ivonescimab and/or AK117 improves clinical outcomes compared to standard chemotherapy alone. Participants will be randomly assigned to receive either Ivonescimab with/without AK117 or placebo, both in combination with chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06953999",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06953999"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-05-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Akeso",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06953999"
+ },
+ "summary_ko": "This is a Phase 3, randomized, double-blind clinical trial aimed at evaluating the efficacy and safety of Ivonescimab plus chemotherapy with or without AK117 versus placebo plus chemotherapy in patients with metastatic pancreatic cancer. The study seeks to determine whether the addition of Ivonescimab and/or AK117 improves clinical outcomes compared to standard chemotherapy alone.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Phase III Study of Ivonescimab + Chemo With/Without AK117 in Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "wenting01.li@akesobio.com",
+    "name": "Wenting Li",
+    "phone": "+86-18116403289"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntarily sign a written informed consent form.\n2. Age at enrollment is ≥ 18 and ≤ 75 years, both males and females are eligible.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n4. Life expectancy of ≥ 3 months.\n5. Histologically or cytologically confirmed, unresectable metastatic pancreatic ductal adenocarcinoma (PDAC).\n6. No prior systemic anti-cancer treatment for metastatic PDAC.\n7. At least one measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n8. Adequate organ function.\n\nExclusion Criteria:\n\n1. Histologically or cytologically confirmed other types of pancreatic malignancies or mixed histology types.\n2. Presence of active central nerve system (CNS) metastases.\n3. Known germline BRCA1/2 or PALB2 mutations.\n4. Clinically significant or recurrent pleural effusion, pericardial effusion, or ascites requiring drainage.\n5. History of other malignancies within the past 5 years.\n6. History of significant bleeding tendencies or coagulopathy; clinically significant bleeding events within 1 month before the first dose.\n7. Previous anti-angiogenic therapy and immunotherapy.\n8. Active autoimmune disease requiring systemic treatment within the past 2 years.\n9. Pregnant or breastfeeding women.\n10. Concurrent participation in another clinical trial, unless it is an observational or non-interventional study or in the follow-up phase of an interventional study.",
+  "enrollment": 999,
+  "has_results": false,
+  "interventions": [
+   "Ivonescimab, AK117, Albumin-bound Paclitaxel, Gemcitabine",
+   "Ivonescimab, AK117 Placebo, Albumin-bound Paclitaxel, Gemcitabine",
+   "Ivonescimab Placebo, AK117 Placebo, Albumin-bound Paclitaxel, Gemcitabine"
+  ],
+  "last_update_posted": "2026-03-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT06953999",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-05-14",
+  "sex": "ALL",
+  "sponsor": "Akeso",
+  "start_date": "2025-06-11",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,87 @@
+{
+ "abstract": "This phase II trial tests whether 68Ga-FAPI-46 positron emission tomography (PET)/computed tomography (CT) scan works to image cancer-associated fibroblasts (CAFs) in patients with pancreatic ductal adenocarcinoma (PDA) that has not spread to other parts of the body (localized). CAFs are a type of connective tissue cell that are found within or near cancerous tissue. Many CAFs express a protein called fibroblast activation protein (FAP) that are not found on healthy cells in large amounts. 68Ga-FAPI-46 is a radioactive chemical compound designed to circulate through the body and attach itself to FAP on PDA cells. A PET/CT scan is then used to detect the location of FAP lesions. PET scan is a procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body. CT scan is a procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-dimensional (3-D) views of tissues and organs. Combining a PET scan with a CT scan can help make the image easier to interpret. PET/CT scans are hybrid scanners that combine both modalities into a single scan during the same examination. Giving 68Ga-FAPI-46 PET/CT may help doctors improve upon the diagnosis and management of PDA.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the sensitivity and specificity of gallium Ga 68 FAPi-46 (68Ga-FAPI-46) PET for detection and quantification of cancer-associated fibroblasts (CAFs) in pancreatic ductal adenocarcinoma (PDA).\n\nII. Construct, test and validate a model of surgical benefit or futility in potentially resectable PDA using 68Ga-FAPI-46 PET biomarkers in combination with other biomarkers of disease.\n\nOUTLINE:\n\nPatients receive 68Ga-FAP-46 intravenously (IV), then allow 60 minutes for 68Ga-FAPI-46 uptake. Patients then undergo PET/CT scans over 30 minutes at baseline (before standard of care \\[SOC\\] therapy), up to 2 scans approximately 8 weeks apart (at SOC re-staging visits), and a then a scan within 4 weeks of SOC surgical resection, if applicable.\n\nAfter completion of study treatment, patients are followed up for 5 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05518903",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05518903"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-08-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mayo Clinic",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05518903"
+ },
+ "summary_ko": "This phase II trial tests whether 68Ga-FAPI-46 positron emission tomography (PET)/computed tomography (CT) scan works to image cancer-associated fibroblasts (CAFs) in patients with pancreatic ductal adenocarcinoma (PDA) that has not spread to other parts of the body (localized). CAFs are a type of connective tissue cell that are found within or near cancerous tissue.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Investigational Scan (68Ga-FAPI-46 PET/CT) for Imaging of Cancer-Associated Fibroblasts for Localized Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Localized Pancreatic Adenocarcinoma",
+   "Resectable Pancreatic Ductal Adenocarcinoma",
+   "Stage 0 Pancreatic Cancer AJCC v8",
+   "Stage I Pancreatic Cancer AJCC v8",
+   "Stage IIA Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Adults \\> 18 years (yrs.) with treatment-naive biopsy-proven PDA or with findings diagnostic for PDA on baseline imaging (CT, MRI, or PET)\n* Localized disease expected to undergo surgical resection following neoadjuvant therapy (NAT)\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* Hypersensitivity to any excipients in 68Ga-FAPI-46\n* Require emergency surgery\n* Non-PDA histology on biopsy\n* Histopathologically proven metastatic PDA\n* Pregnant or lactating women",
+  "enrollment": 130,
+  "has_results": false,
+  "interventions": [
+   "Computed Tomography",
+   "Gallium Ga 68 FAPi-46",
+   "Positron Emission Tomography"
+  ],
+  "last_update_posted": "2026-08-10",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05518903",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-06-30",
+  "sex": "ALL",
+  "sponsor": "Mayo Clinic",
+  "start_date": "2022-11-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

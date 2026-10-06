@@ -1,0 +1,86 @@
+{
+ "abstract": "This is a Phase Ib/II clinical study aimed to evaluate the tolerability of becotatugvedotin in combination with gemcitabine, determine the clinically recommended dose for the combination regimen, and assess the efficacy and safety of becotatugvedotin combined with gemcitabine in patients with advanced second-line pancreatic ductal adenocarcinoma (PDAC). The study plans to enroll 27-30 patients, including 3-6 patients in the first stage (Phase I) and 24 patients in the second stage (Phase II).\n\nThe study consists of three periods: screening period (including baseline), treatment period, and follow-up period (safety follow-up and survival follow-up). Eligible patients must have locally advanced unresectable or metastatic pancreatic cancer confirmed by histopathology.\n\nPhase I: After the screening period, patients will receive treatment with becotatugvedotin and gemcitabine. Becotatugvedotin will be administered at doses of 1.5 mg/kg or 2.0 mg/kg once every 3 weeks (Q3W) using a 3+3 dose escalation design. Gemcitabine will be given at 1000 mg/m² on days 1 and 8 of each 3-week cycle (Q3W). Treatment will continue until disease progression, dose-limiting toxicities (DLTs), withdrawal of informed consent, death, pregnancy, investigator decision to discontinue treatment, or study termination, whichever occurs first. Upon completion of Phase I, the study will proceed to Phase II.\n\nPhase II: After the screening period, patients will receive treatment with becotatugvedotin and gemcitabine. The dose of becotatugvedotin will be the recommended Phase II dose (RP2D) selected based on the results from Phase I, while gemcitabine will be administered at 1000 mg/m² on days 1 and 8 of each 3-week cycle (Q3W). Treatment will continue until disease progression, intolerable toxicity, withdrawal of informed consent, death, pregnancy, investigator decision to discontinue treatment, or study termination, whichever occurs first. Tumor imaging assessments will be performed using RECIST v1.1 every 6 weeks (i.e., every 2 treatment cycles). Safety assessments will be conducted using the NCI-CTCAE version 5.0 criteria from the first dose through 30 days after the last dose.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07685470",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07685470"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-07-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Peking Union Medical College Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07685470"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "MRG003 With Gemcitabine for Second-line Advanced PDAC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Second Line Treatment"
+  ],
+  "contacts": [
+   {
+    "email": "wangxiang@pumch.cn",
+    "name": "XIANG WANG",
+    "phone": "861069158751"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nECOG performance status score of 0-2;\n\nHistopathologically confirmed locally advanced unresectable or metastatic pancreatic ductal adenocarcinoma (PDAC);\n\nFailure of prior first-line systemic therapy:\n\n1. Radiographic progression or worsening of clinical symptoms; disease progression occurring within 6 months after completion of neoadjuvant/adjuvant therapy is also considered first-line treatment failure.\n2. Intolerance to first-line therapy, as fully assessed by the investigator, may also allow enrollment into the study. Intolerance to prior study treatment is defined as follows:\n\ni. Any grade ≥3 hematologic toxicity (per NCI-CTCAE v5.0) that does not recover to grade 1 or pre-treatment level after 14 days of best supportive care; ii. Any grade ≥3 non-hematologic toxicity (excluding alopecia and asymptomatic laboratory abnormalities) per NCI-CTCAE v5.0 that does not recover to normal after 14 days of best supportive care.\n\nAdequate organ and bone marrow function;\n\nEstimated life expectancy \\> 3 months;\n\nSubjects must agree to provide sufficient tumor tissue samples for EGFR and PD-L1 immunohistochemistry (IHC) expression testing, next-generation sequencing (NGS), and multi-omics analysis. This includes archived tumor samples (paraffin blocks or unstained sections meeting the testing requirements specified in the study); if no archived tumor tissue sample is available, the subject agrees to undergo re-biopsy of the tumor lesion.\n\nExclusion Criteria:\n\n* Failure of first-line gemcitabine-based therapy.\n\nOther histologic types of pancreatic tumors, such as neuroendocrine tumors, acinar cell carcinoma, cystic carcinoma, etc.\n\nPrior treatment with an MMAE-loaded ADC (antibody-drug conjugate).\n\nCongenital or acquired immunodeficiency (e.g., HIV infection), active hepatitis B (HBV-DNA ≥ 10⁴ copies/mL), or hepatitis C (positive HCV antibody with HCV-RNA above the lower limit of detection of the assay).\n\nKnown hypersensitivity to the study drug or any of its excipients, or a history of severe allergic reactions to other monoclonal antibodies.\n\nOccurrence of the following within 6 months before randomization: myocardial infarction, severe/unstable angina pectoris, New York Heart Association (NYHA) Class ≥2 cardiac insufficiency, or symptomatic congestive heart failure.\n\nVaccination with a live vaccine within 4 weeks before the first dose of study drug. Inactivated virus vaccines for seasonal influenza (administered by injection) are permitted, but live attenuated influenza vaccine administered via the intranasal route is not allowed.\n\nKnown history of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n\nKnown history of substance abuse (psychoactive drugs) or drug addiction.\n\nPregnant or breastfeeding women.\n\nDiagnosis of any other malignancy within 5 years before study entry, except for curatively treated basal cell carcinoma or squamous cell carcinoma of the skin, superficial bladder cancer, carcinoma in situ of the cervix, ductal carcinoma in situ of the breast, and papillary thyroid carcinoma that have been treated with local therapy and cured.\n\nPresence of any other serious physical or psychiatric illness, or laboratory abnormalities that may increase the risk of study participation, interfere with the study results, or render the patient unsuitable for participation in the opinion of the investigator.\n\nNote: Subjects with hepatitis B meeting the following criteria may also be enrolled:\n\nHBV viral load \\< 1000 copies/mL (\\<200 IU/mL) before the first dose, and the subject must receive anti-HBV therapy during the entire study treatment period to prevent viral reactivation.\n\nFor subjects who are anti-HBc (+), HBsAg (-), anti-HBs (-), and HBV viral load (-), prophylactic anti-HBV therapy is not required, but close monitoring for viral reactivation is necessary.\n\nSubjects with active HCV infection (positive HCV antibody and HCV-RNA levels above the lower limit of detection).\n\nVaccination with a live vaccine within 30 days before the first dose (Cycle 1, Day 1).\n\nNote: Inactivated injectable vaccines for seasonal influenza are permitted within 30 days before the first dose; live attenuated influenza vaccine administered intranasally is not allowed.\n\nPresence of any serious or uncontrolled systemic disease, for example:\n\nClinically significant and severe, difficult-to-control abnormalities in cardiac rhythm, conduction, or morphology on resting ECG, such as complete left bundle branch block, second-degree or higher atrioventricular block, ventricular arrhythmia, or atrial fibrillation.\n\nUnstable angina pectoris, congestive heart failure, or chronic heart failure of NYHA Class ≥2.\n\nAny arterial thrombotic, embolic, or ischemic event (e.g., myocardial infarction, unstable angina, cerebrovascular accident, or transient ischemic attack) within 6 months before study treatment.\n\nPoorly controlled blood pressure (systolic blood pressure \\> 140 mmHg, diastolic blood pressure \\> 90 mmHg).\n\nActive tuberculosis.\n\nActive or uncontrolled infection requiring systemic therapy.\n\nClinically active diverticulitis, intra-abdominal abscess, or gastrointestinal obstruction.\n\nLiver disease such as cirrhosis, decompensated liver disease, or acute or chronic active hepatitis.\n\nPoorly controlled diabetes mellitus (fasting blood glucose \\> 10 mmol/L).\n\nUrinalysis showing proteinuria ≥ 2+, with confirmed 24-hour urine protein \\> 1.0 g.\n\nPsychiatric disorders that prevent the patient from cooperating with treatment.\n\nHistory or evidence of disease, treatment, or laboratory abnormalities that could interfere with the study results or prevent the subject from completing full participation in the study, or any other condition that, in the investigator's opinion, makes the subject unsuitable for enrollment, including potential risks that are not explicitly listed above.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "becotatugvedotin plus gemcitabine"
+  ],
+  "last_update_posted": "2026-07-06",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07685470",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-05-07",
+  "sex": "ALL",
+  "sponsor": "Peking Union Medical College Hospital",
+  "start_date": "2026-06-08",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

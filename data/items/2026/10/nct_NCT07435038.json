@@ -1,0 +1,82 @@
+{
+ "abstract": "Evaluate the safety and tolerability of BPI-572270 in adult patients with specific RAS mutant advanced solid tumors.\n\nThis is a Phase 1/2, multicenter open-label study to evaluate the safety, tolerability, pharmacokinetics (PK), and clinical activity of escalating doses of BPI-572270 in adult patients with advanced solid tumors harboring specific RAS mutations, and to determine the maximum tolerated dose (MTD) and/or recommended phase 2 dose \\[RP2D\\] within investigated patient population groups, and to further expand the enrollment of more patients to evaluate the efficacy endpoints (ORR/DCR/DOR/TTR).",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07435038",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07435038"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-02-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Betta Pharmaceuticals Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07435038"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Study of BPI-572270 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Advanced Solid Tumors"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed advanced solid tumor with RAS mutations identified through deoxyribonucleic acid (DNA) sequencing.\n* Have received prior standard therapy appropriate for tumor type and stage.\n* Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 Adequate organ function.\n\nExclusion Criteria:\n\n* Primary central nervous system (CNS) tumors active and untreated brain metastases.\n* Known or suspected impairment of gastrointestinal function that may prohibit ability to swallow or absorb an oral medication.\n* History of any other unstable or clinically significant concurrent medical condition that would, in the opinion of the investigator, jeopardize the safety of a participant, impact their expected survival through the end of the study participation, and/or impact their ability to comply with the protocol prior/concomitant therapy",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "BPI-572270"
+  ],
+  "last_update_posted": "2026-09-18",
+  "location_countries": [
+   "Australia",
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 7,
+  "nct_id": "NCT07435038",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-12-28",
+  "sex": "ALL",
+  "sponsor": "Betta Pharmaceuticals Co., Ltd.",
+  "start_date": "2026-01-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,89 @@
+{
+ "abstract": "The study is being conducted to evaluate the safety, tolerability and efficacy of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in subjects with locally advanced or metastatic pancreatic cancer.\n\nThis study is an open, single center, exploratory clinical trial aimed at evaluating the efficacy and safety of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in the treatment of patients with unresectable locally advanced or metastatic pancreatic cancer.\n\nThis study experiment is divided into two stages: dose exploration stage and efficacy exploration stage. During the dose exploration phase, RP2D was determined based on the safety, tolerability, and preliminary efficacy data of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy, and then entered the efficacy exploration phase.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06547736",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06547736"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-08-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Fudan University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06547736"
+ },
+ "summary_ko": "The study is being conducted to evaluate the safety, tolerability and efficacy of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in subjects with locally advanced or metastatic pancreatic cancer. This study is an open, single center, exploratory clinical trial aimed at evaluating the efficacy and safety of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in the treatment of patients with unresectable locally advanced or metastatic pancreati…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Exploratory Platform Research on Precision Therapy of Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "shisi@fudanpci.org",
+    "name": "Si Shi, PHD",
+    "phone": "+86-021-64179375"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients volunteered to participate in this study and signed informed consent;\n2. Age: ≥18 and ≤75 years old, male or female;\n3. Advanced (metastatic or unresectable) pancreatic cancer; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Life expectancy ≥ 12 weeks;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 6 months after the last study administration;\n\nExclusion Criteria:\n\n1. Known to be allergic to the investigational drug or any of its components;\n2. Systemic antitumor therapy was received 4 weeks before the start of the study, and palliative radiotherapy was completed within 14 days before the first dose;\n3. Have other active malignancies within 5 years;\n4. Accompanied by untreated or active central nervous system (CNS) metastases;\n5. Failure to recover toxicity and/or complications from previous interventions to NCI-CTCAE ≤ Level 1 or the levels specified by inclusion and exclusion criteria;\n6. With interstitial lung disease, non-infectious pneumonia, severe and uncontrolled internal medicine diseases, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n7. With gastrointestinal obstruction or symptoms and signs of gastrointestinal obstruction within 6 months before the start of treatment, but if surgical treatment has been performed and the obstruction is completely relieved, screening can be conducted;\n8. Within 6 months prior to entering the study, patients with severe cardiovascular and cerebrovascular thromboembolism;\n9. With congenital or acquired immune deficiency, such as people infected with HIV, active hepatitis B (defined as hepatitis B virus surface antigen \\[HBsAg\\] in screening period is positive and HBV-DNA detection value ≥ 10000 copies/ml \\[2000 IU/ml\\] or active hepatitis C (defined as hepatitis C virus antibody \\[HCV Ab\\] in screening period is positive and HCV RNA is positive);\n10. With active pulmonary tuberculosis infection within one year prior to enrollment, or those with a history of active pulmonary tuberculosis infection more than one year ago but without formal treatment;\n11. Participated in other clinical studies or whose first medication is less than 4 weeks after the end of the previous clinical study (last medication), or whose study drug has a half-life of 5, whichever is shorter;\n12. High risk of pancreatitis, serum amylase and/or lipase concentrations ≥ 3 times ULN, will be evaluated by the researchers;\n13. Uncontrollable mental illnesses and other known factors that affect the completion of research procedures, such as alcohol, drug or substance abuse, criminal detention, etc;\n14. Having undergone major surgeries other than diagnosis or biopsy within 28 days prior to the first administration; Experiencing traumatic minor surgery (biopsy, endoscopic examination, and drainage surgery) within 7 days prior to the first administration;\n15. Other situations that researchers believe should not be included.",
+  "enrollment": 160,
+  "has_results": false,
+  "interventions": [
+   "SHR-A2102 or/and HRS-4642",
+   "SHR-A1904 or/and HRS-4642",
+   "SHR-A1811 or/and HRS-4642",
+   "SHR-A2102, HRS4642 and Adebrelimab"
+  ],
+  "last_update_posted": "2026-01-05",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06547736",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-03",
+  "sex": "ALL",
+  "sponsor": "Fudan University",
+  "start_date": "2024-10-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

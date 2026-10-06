@@ -1,0 +1,51 @@
+{
+ "abstract": null,
+ "authors": [
+  "Okui J",
+  "Ikoma N"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832139",
+ "importance": 0.6,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1245/s10434-026-20716-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832139"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832139/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "ASO Author Reflections: Can Progression-Free Survival Replace Overall Survival in Localized Pancreatic Cancer?",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

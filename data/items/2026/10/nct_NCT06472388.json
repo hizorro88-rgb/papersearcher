@@ -1,0 +1,95 @@
+{
+ "abstract": "Everolimus is approved in many countries to treat patients with advanced/metastatic well-differentiated neuroendocrine tumors (NET), providing median progression-free survival times of approximately 12 months across different types of NET. However, it is can cause severe adverse effects. Phase I trial demonstrated that a dose of 5mg/day/week was sufficient to inhibit cell proliferation by blocking the mTOR pathway.\n\nThis is a randomized, open-label, phase II near-equivalence clinical trial of oral everolimus 5 mg vs 10 mg oral/daily and continuously in patients with Grade 1 or Grade 2 metastatic NET, with tumor progression or intolerance to at least one line of treatment and with radiological disease progression within 6 months.\n\nEverolimus toxicity can also be serious, requiring hospital medical assistance. In a study with more than 100 Latin American patients led by our group, approximately 20% of patients with NET treated with everolimus 10mg/day had serious infections, such as pneumonia, abscesses, pyelonephritis, with 7% developing opportunistic infections, such as toxoplasmosis and pneumocystosis, requiring hospital admissions.\n\nThe rationale for testing 5mg/day comes from the results of phase I trials of everolimus, where a dose of 5mg/day was sufficient to inhibit cell proliferation by blocking the mTOR pathway.\n\nTherefore, everolimus 5mg/day appears to have antitumor effects equivalent to 10mg/day, but it is less toxic than 10mg/day. Retrospective data from our center also suggest that 5mg is similar to 10mg/daily in terms of time to treatment failure in patients with advanced NETs (unpublished data).\n\nObjectives:\n\n* To evaluate whether everolimus at a dose of 5 mg/day may be as effective, but safer, as 10 mg/day in the treatment of patients with advanced NET.\n* To compare progression-free survival and time to treatment failure between study arms\n* To compare radiological response using RECIST v.1.1 criteria.\n* To compare the frequency of grade \\> 1 toxicities using CTCAE v.5.0.\n* To assess tolerability by measuring the frequency and intensity of adverse events measured by the CTCAE version 5.0 criteria and the need for temporary or permanent interruption of everolimus.\n\nMethods:\n\nRandomized, open-label, phase II near-equivalence clinical trial of oral everolimus 5 mg vs 10 mg oral/daily and continuously in patients with Grade 1 or Grade 2 metastatic NET, with tumor progression or intolerance to at least one line of treatment and with radiological disease progression within 6 months.\n\nEligibility criteria:\n\nInclusion:\n\n* Histological confirmation of well-differentiated Grade 1/Grade 2 NET from gastrointestinal, pancreatic, pulmonary or unknown primary sites.\n* Metastatic or locally advanced and unresectable disease, measurable by images\n* Disease progression by RECIST 1.1 in the last 6 months assessed by local investigators\n* At least one previous line of systemic treatment (suspended for more than 3 weeks).\n* Eastern Cooperative Oncology Group (ECOG) 0-2\n* Good organ function:\n\n  * Hemoglobin \\> 8 g/dL\n  * Neutrophils ≥ 1,500/mm³\n  * Platelets \\> 90,000/mm³\n  * Aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) ≤ 2.5 x ULN \\[upper limit of normal\\] or ≤ 5 x ULN for patients with liver metastases\n  * Bilirubin ≤ 1.5 x ULN, creatinine \\< 1.5 mg/dL\n\nConcomitant use of somatostatin analogues is allowed for patients with functioning NET.\n\nExclusion:\n\n* Aggressive disease requiring cytotoxic therapy\n* Severe/uncontrolled comorbid conditions that deem participant unfit for everolimus therapy, as per investigators' judgement.\n* MiNEN\n\nProcedures:\n\nRandomization 1:1 will be performed centrally by RedCap software at AC Camargo Cancer Center, Sao Paulo, Brasil.\n\n* Group 5 mg: participants will receive everolimus at a dose of 5 mg, orally, per day, continuously\n* Group 10 mg group: participants will receive everolimus at a dose of 10 mg, orally, per day, continuously\n\nThe participant will receive everolimus 5mg or 10mg and must take 1 (one) tablet, orally, once a day, after breakfast, starting within 4 weeks from randomization. Every 4 weeks of treatment will correspond to 1 treatment cycle. Before starting each cycle, participants will undergo a medical visit to evaluate undesirable effects, medical history, physical examination and check the results of blood tests.\n\nCT scans (or MRI, if applicable) will be performed at every 3 cycles to assess treatment antitumor effect until progression. The treatment will last until tumor progression by RECIST 1.1, intolerance/ severe adverse effects or consent withdrawal.\n\nParticipants will be evaluated clinically and with laboratory tests every 4 weeks until resolution of any adverse effects of the treatment. Patients who receive at least one dose of everolimus will be evaluated for the occurrence of toxicities\n\nSample size:\n\nN=100 patients (50 per arm)\n\nH0= 50% progression free at 12 months H1= 42% progression free at 12 months (inferior value of the 95% CI, based on RADIANT trials) Alpha error (one-sided) = 5% Beta error = 10% Attrition rate = 20%",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06472388",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06472388"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-06-25",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AC Camargo Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06472388"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Everolimus 5 mg vs 10 mg/Daily for Patients With Neuroendocrine Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Neuroendocrine Tumors",
+   "Progression",
+   "Neuroendocrine Tumor Grade 1",
+   "Neuroendocrine Tumor Grade 2",
+   "Neuroendocrine Tumor of Pancreas",
+   "Neuroendocrine Tumor of the Lung",
+   "Neuroendocrine Tumor Carcinoid"
+  ],
+  "contacts": [
+   {
+    "email": "rachel.riechelmann@accamargo.org.br",
+    "name": "Rachel P Riechelmann, MD",
+    "phone": "+55112189500"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histological confirmation of well-differentiated Grade 1/Grade 2 NET from gastrointestinal, pancreatic, pulmonary or unknown primary sites.\n* Metastatic or locally advanced and unresectable disease, measurable by images\n* Disease progression by RECIST 1.1 in the last 6 months assessed by local investigators\n* At least one previous line of systemic treatment (suspended for more than 3 weeks).\n* Eastern Cooperative Oncology Group (ECOG) 0-2 o Good organ function:\n\n  * Hemoglobin \\> 8 g/dL\n  * Neutrophils ≥ 1,500/mm³\n  * Platelets \\> 90,000/mm³\n  * Aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) ≤ 2.5 x ULN \\[upper limit of normal\\] or ≤ 5 x ULN for patients with liver metastases\n  * Bilirubin ≤ 1.5 x ULN, creatinine \\< 1.5 mg/dL\n\nExclusion Criteria:\n\n* Aggressive disease requiring cytotoxic therapy\n* Severe/uncontrolled comorbid conditions that deem participant unfit for everolimus therapy, as per investigators' judgement.\n* MiNEN",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "Everolimus 5 MG"
+  ],
+  "last_update_posted": "2024-06-25",
+  "location_countries": [
+   "Brazil"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "16 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06472388",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-05-20",
+  "sex": "ALL",
+  "sponsor": "AC Camargo Cancer Center",
+  "start_date": "2024-04-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

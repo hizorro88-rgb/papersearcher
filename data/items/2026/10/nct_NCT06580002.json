@@ -1,0 +1,112 @@
+{
+ "abstract": "This is a phase 2a, randomized, double-blinded, placebo-controlled pilot clinical trial determining the impact of riluzole therapy on circulating brain derived neuropathic factor (BDNF) levels in cancer survivors (recently completing prior treatment regimens) or patients who have received whole brain radiation for benign or malignant tumors with cancer related cognitive impairment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06580002",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06580002"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-08-30",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of California, Irvine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06580002"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Repurposing Riluzole for Cancer-Related Cognitive Impairment: A Pilot Trial",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Breast Cancer",
+   "Sarcoma",
+   "Gastric Cancer",
+   "Lung Cancer",
+   "Head and Neck Cancer",
+   "Colorectal Cancer",
+   "Ovarian Cancer",
+   "Liver Cancer",
+   "Genitourinary Cancer",
+   "Gynecologic Cancer",
+   "Urinary Bladder Cancer",
+   "Leukemia",
+   "Lymphoid Leukemia",
+   "Myeloma Multiple",
+   "Prostate Cancer",
+   "Pancreas Cancer",
+   "Non-hodgkin Lymphoma",
+   "Hodgkin Lymphoma",
+   "Brain Cancer",
+   "Melanoma",
+   "Mycosis Fungoides",
+   "Kidney Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ucstudy@uci.edu",
+    "name": "Chao Family Comprehensive Cancer Center University of California, Irvine",
+    "phone": "1-877-827-8839"
+   },
+   {
+    "email": null,
+    "name": "University of California Irvine Medical",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Cohort-specific inclusion for male and female patients.\n\n   a. Cohort A (no prior cranial radiation) i. Diagnosed with one of the following:\n   * Breast cancer exposed to treatment including chemotherapy, radiotherapy, surgery and/or other breast cancer interventions.\n   * Non-breast cancer patients exposed to anthracyclines- or platinum-containing chemotherapy within the past 3 years.\n   * Non-breast cancer patients exposed to other anticancer therapies within the past 3 years.\n\n     b. Cohort B (prior cranial radiation)\n   * Previously received radiotherapy or radiosurgery to the brain for benign, malignant, or metastatic tumors.\n   * Life expectancy \\> 6 months\n2. Washout from investigational and conventional interventions is up to the discretion of the investigator. Concurrent participation in another intervention is allowable if judged by the Principal Investigator that this would not be scientifically or medically incompatible with this study.\n3. ≥18 years of age\n4. Perceived by patient or investigator that cognitive function has worsened since receipt of cranial radiation or cancer treatment.\n5. Able to provide informed consent.\n6. Literacy in English, Chinese, Korean, Vietnamese, or Spanish, to complete the questionnaires.\n7. Patients must agree to complete and be able to complete the questionnaires and computerized assessments used to measure functional outcomes.\n\n   * Note: Patients who have visual impairment or have degenerative conditions (e.g. Parkinsons's disease, etc.) can participate if they cannot complete computerized assessments, as long as they can still complete the questionnaires with assistance.\n\nExclusion Criteria:\n\n1. Cohort-specific exclusion for male and female patients:\n\n   1. Cohort A (no prior cranial radiation)\n\n      * History of or current presence of primary brain tumors or brain metastases.\n   2. Cohort B (prior cranial radiation)\n\n      * Diagnosed with high grade glioma.\n2. Unwilling to undergo neuropsychological assessments necessary for the study.\n3. Women who are breastfeeding, pregnant or are planning to get pregnant during the study period. Persons of child-bearing potential (POCBP) must have a negative pregnancy test at screening if there is suspicion of pregnancy.\n\n   a. Female patients who are considered not to be of childbearing potential must have a history of being postmenopausal (with a minimum of 1 year without menses), tubal ligation, or hysterectomy.\n4. History of suspected hypersensitivity to riluzole or to any of its excipients.\n5. Patients taking or planned to take medications/substances with potential drug-drug interactions: pixantrone, current smoker (defined as having smoked within the last month), abametapir, cannabis, capmatinib, lapatinib, methotrexate, and levoketoconazole.\n6. Hepatic impairment as indicated by: AST or ALT ≥ 3x upper limit normal (ULN)\n7. Have serious pre-existing medical conditions that, in the judgment of the investigator, would preclude participation in this study.",
+  "enrollment": 75,
+  "has_results": false,
+  "interventions": [
+   "Riluzole",
+   "Placebo"
+  ],
+  "last_update_posted": "2026-07-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06580002",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-07",
+  "sex": "ALL",
+  "sponsor": "University of California, Irvine",
+  "start_date": "2024-12-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

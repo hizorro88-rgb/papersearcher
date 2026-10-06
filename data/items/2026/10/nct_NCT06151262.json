@@ -1,0 +1,88 @@
+{
+ "abstract": "To observe the incidence of chemotherapy-induced myelosuppression and the safety of Trilaciclib combined with mFOLFIRINOX in patients with advanced pancreatic cancer receiving first-line treatment.\n\nThis study was a single-arm, exploratory clinical study. Patients with advanced pancreatic cancer were screened and enrolled according to the inclusion and exclusion criteria described in the study protocol. Informed consent was signed after full communication. Patients with advanced pancreatic cancer who received first-line treatment were treated with Trilaciclib +mFOLFIRINOX. The incidence of chemotherapy-induced myelosuppression was used as the primary endpoint to observe whether Trilaciclib could reduce the occurrence or degree of chemotherapy-induced myelosuppression.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06151262",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06151262"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-11-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06151262"
+ },
+ "summary_ko": "To observe the incidence of chemotherapy-induced myelosuppression and the safety of Trilaciclib combined with mFOLFIRINOX in patients with advanced pancreatic cancer receiving first-line treatment. This study was a single-arm, exploratory clinical study.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Study of Trilaciclib Combined With mFOLFIRINOX in the Treatment of Patients With Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "dujuanglyy@163.com",
+    "name": "du juan, M.D.",
+    "phone": "83106666"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age 18-75 years\n* ECOG score 0 or 1\n* Expected survival≥12 weeks\n* Patients with histologically or cytologically confirmed pancreatic cancer\n* Have not received any antineoplastic therapy prior to treatment\n* Major organ functions within 7 days prior to treatment shall meet the following criteria: a. Neutrophil count ≥1.5×109 /L； b. Hemoglobin ≥10g/dL； c. Platelet count ≥100×109 /L\n* Biochemical examination shall meet the following standards: a、Total bilirubin(TBIL)≤1.5times the upper limit of normal value(ULN); b、ALT and AST≤1.5×ULN ; c、creatinine clearance(CCr)≥60ml/min\n* Patients of reproductive age(including female and male patients'female companions)must use effective birth control measures\n* Subjects voluntarily joined the study and signed an informed consent form(ICF)\n* It is expected that the patient has good compliance and can follow up the efficacy and adverse reactions according to the protocol requirements\n\nExclusion Criteria:\n\n* Had received systemic antineoplastic therapy\n* Pregnant and lactating women. Women of childbearing age had to test a negative pregnancy test within 7 days before enrollment\n* Substance abuse, clinical or psychological or social factors that may interfere with informed consent or the conduct of the study",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Trilaciclib+mFOLFIRINOX"
+  ],
+  "last_update_posted": "2024-02-23",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06151262",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-05-28",
+  "sex": "ALL",
+  "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+  "start_date": "2024-01-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

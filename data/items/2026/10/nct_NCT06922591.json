@@ -1,0 +1,110 @@
+{
+ "abstract": "TNG462-C102 is a Phase 1/2, open-label, multicenter study designed to determine the safety, tolerability, PK, PD, and preliminary antineoplastic activity of oral TNG462 in combination with RMC-6236, RMC-9805, mFOLFIRINOX or gemcitabine/nab-paclitaxel. The study comprises a dose escalation phase and a dose expansion phase.\n\nTNG462-C102 is a Phase 1/2, open-label, multicenter study designed to determine the safety, tolerability, PK, PD, and preliminary antineoplastic activity of oral TNG462 in combination with RMC-6236, RMC-9805, mFOLFIRINOX or gemcitabine/nab-paclitaxel.\n\nFor the RAS inhibitor arms, the study will be conducted in patients with MTAP loss and RAS mutant metastatic pancreatic adenocarcinoma (PDAC) or locally advanced or metastatic non-small cell lung cancer (NSCLC). For the chemotherapy specific arms, the study will be conducted in patients with MTAP loss locally advanced or metastatic PDAC. The entire study (all arms) will be conducted in 2 parts: Phase 1 (dose escalation) and Phase 2 (dose expansion).\n\nIndividual Arms in the dose expansion phase may open once the MTD and/or RD(s) has been determined for the corresponding combination in the dose escalation phase of the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib",
+  "zoldonrasib",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06922591",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06922591"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-04-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tango Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06922591"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "PRMT5 inhibitor",
+  "RAS G12D",
+  "Multi RAS",
+  "RMC-9805",
+  "RMC-6236",
+  "Thoracic",
+  "Targeted therapy"
+ ],
+ "title": "Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Combination in PDAC & NSCLC Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "PDAC",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "NSCLC",
+   "RAS Mutation",
+   "MTAP Deletion",
+   "Lung Cancer",
+   "Pancreatic Cancer Metastatic",
+   "Thoracic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@tangotx.com",
+    "name": "Maxim Pimpkin, MD, PhD",
+    "phone": "857-320-4899"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Is ≥18 years of age at the time of signature of the main study ICF.\n2. Has an ECOG PS of 0 or 1.\n3. Has a tumor with loss of MTAP protein or bi-allelic deletion of the MTAP gene\n4. Arms A and B only: Has a tumor with a RAS mutation\n5. Pathologically documented metastatic PDAC or locally advanced, recurrent or metastatic NSCLC\n6. Has received prior standard therapy\n7. Arms A and B only: Must not have received prior RAS-targeted therapy\n8. Has evidence of measurable disease based on RECIST v1.1.\n9. Adequate organ function\n10. Must be able to swallow tablets.\n11. Negative pregnancy test at screening\n12. Written informed consent must be obtained according to local guidelines\n\nExclusion Criteria:\n\n1. Has received prior treatment with a PRMT5 inhibitor, or MAT2A inhibitor\n2. Arms A and B only: Prior enrollment in any phase 3 clinical trial of RMC-6236 or RMC-9805\n3. Known allergy, hypersensitivity or intolerance to TNG462 (all arms), RMC-6236 Arm A), RMC-9805 (Arm B), mFOLFIRINOX (Arm C), gemcitabine/nab-paclitaxel (Arm D) or their excipients\n4. Has uncontrolled intercurrent illness that will limit compliance with the study requirements.\n5. Has an active infection requiring systemic therapy.\n6. Is currently participating in or has planned concurrent participation in a study of another investigational agent or device.\n7. Has impairment of GI function or disease that may significantly alter the absorption of the oral medications\n8. Has known or suspected active or untreated CNS metastases associated with progressive neurological symptoms\n9. Has current active liver disease from any cause\n10. Is known to be HIV positive, unless all the following criteria are met:\n\n    1. CD4+ count ≥300/µL.\n    2. Undetectable viral load.\n    3. Receiving highly active antiretroviral therapy\n11. Has clinically relevant cardiovascular disease\n12. History of or presence of active interstitial lung disease\n13. Is a female patient who is pregnant or lactating\n14. Is unwilling or unable to comply with the scheduled visits, study treatment administration plan, laboratory tests or other study procedures and study restrictions.\n15. Has a prior or ongoing clinically significant illness, medical condition, surgical history, physical finding, or laboratory abnormality that, in the investigator's opinion may affect the safety of the patient or impair the ability to assess study results",
+  "enrollment": 183,
+  "has_results": false,
+  "interventions": [
+   "TNG462",
+   "RMC-9805",
+   "RMC-6236",
+   "mFOLFIRINOX",
+   "gemcitabine/nab-paclitaxel"
+  ],
+  "last_update_posted": "2026-05-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 18,
+  "nct_id": "NCT06922591",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-06",
+  "sex": "ALL",
+  "sponsor": "Tango Therapeutics, Inc.",
+  "start_date": "2025-05-31",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

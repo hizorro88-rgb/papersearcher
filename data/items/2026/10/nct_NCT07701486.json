@@ -1,0 +1,96 @@
+{
+ "abstract": "The goal of this clinical trial is to learn if the new administration regimen of VCN-01, given together with the standard chemotherapy drugs gemcitabine and nab-paclitaxel (GnP), is safe and well tolerated. The behaviour of VCN-01 in the organism will be assessed, together with the possible benefits of this administration regimen. This study includes adults with newly diagnosed pancreatic ductal adenocarcinoma (PDAC) that has spread to other parts of the body (stage IV) and who have not received prior treatment for pancreatic cancer.\n\nParticipants will receive three planned doses of VCN-01, given once every 56 days. Each dose of VCN-01 is followed one week later by two cycles of standard chemotherapy with gemcitabine and nab-paclitaxel. Participants will be monitored throughout the study for safety and side effects.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07701486",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07701486"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-07-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Theriva Biologics SL",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07701486"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "VCN-01",
+  "mPDAC",
+  "gemcitabine",
+  "nab-paclitaxel"
+ ],
+ "title": "A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients With Newly Diagnosed Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer, Metastatic",
+   "Pancreas Cancer, Stage IV",
+   "Ductal Adenocarcinoma of the Pancreas"
+  ],
+  "contacts": [
+   {
+    "email": "mcascallo@therivabio.com",
+    "name": "Manel Cascalló CEO, PhD",
+    "phone": "+93936899365"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent obtained prior to initiating any trial-specific procedures or assessments.\n* Male or female patients aged 18 years or over.\n* Patients with histologically or cytologically confirmed pancreatic adenocarcinoma that is metastatic (stage IV) at diagnosis and who have not received any treatment for their pancreatic cancer.\n* Patients must be able to receive their first dose of VCN-01 ≤6 weeks after their metastatic pancreatic cancer diagnosis.\n* Patients must have at least one measurable tumor lesion that can be imaged for assessments according to RECIST 1.1.\n* ECOG performance status of 0 or 1 at enrollment.\n* Must be willing to comply with the trial intervention, including prophylactic medications, and procedures.\n* Adequate baseline organ function (hematologic, liver, renal) within the 7 days prior to enrollment:\n\nHematology:\n\n* Leukocytes ≥3.0x103 mcL\n* Absolute neutrophil count ≥1.5x10⁹/L\n* Hemoglobin ≥9 g/dL\n* Platelets ≥100x10⁹/L\n\nCoagulation:\n\n* Prothrombin time or international normalized ratio ≤1x upper limit of normal (ULN)\n* Activated partial thromboplastin time ≤1.2xULN\n\nHepatic:\n\n* Total bilirubin ≤1.5xULN\n* ALT and AST ≤2.5xULN (\\<5xULN is acceptable if liver metastases are present)\n\nRenal:\n\n* Serum creatinine ≤1.5xULN; or,\n* If serum creatinine \\>1.5xULN, an estimated creatinine clearance \\>50 mL/min using the Cockcroft and Gault formula\n\nNutritional:\n\n• Serum Albumin ≥30 g/L\n\n\\- Adequate left ventricular ejection fraction (LVEF) ≥ 50% measured by ECHO or MUGA and QT interval corrected by Fridericia (QTcF) assessment ≤ 450 ms for men or ≤ 470 ms for women.\n\nExclusion Criteria:\n\n* Unwillingness to complete the trial procedures for geographic, psychiatric, or social reasons.\n* Patient has previously received treatment for their metastatic pancreatic cancer with surgery, radiotherapy, chemotherapy or investigational therapy; except that:\n* Palliative radiotherapy for pain is permitted;\n* Placement of a biliary stent/tube is permitted.\n* Patients who, in the opinion of the investigator, have symptoms or signs suggesting clinically unacceptable deterioration during the Screening Period.\n* Active infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n  • Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n* Patients with past or resolved TB are eligible to participate.\n\n  • Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n* HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n* Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n* Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n\n  • Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n* Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n* Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n\n  * Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\nActive infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n* Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n\n  \\- Patients with past or resolved TB are eligible to participate.\n* Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n\n  * HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n  * Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n  * Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n* Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n\n  * Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n  * Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n* Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\n  * Known chronic liver disease (e.g. liver cirrhosis, liver fibrosis, chronic hepatitis); except that:\n  * Patients with fatty liver disease are eligible to participate if their liver transaminases meet inclusion criterion 8.\n  * Concurrent malignant hematologic or solid disease; except that:\n  * Patients with a prior history of cancer are eligible to participate if they are in complete remission from their prior cancer for at least 3 years.\n  * Patients with Li Fraumeni syndrome or with previously known retinoblastoma protein pathway germline deficiency.\n  * Patients with untreated brain metastases and/or leptomeningeal carcinomatosis with progressive symptoms despite corticosteroid coverage; except that:\n  * Patients with brain metastases with stable symptoms are eligible to participate.\n  * Patients with previous pneumonitis or interstitial lung disease.\n  * Patients with pre-existing sensory neuropathy \\>G1\n  * Clinical evidence of deep vein thrombosis, pulmonary embolism or arterial thromboembolic event during the Screening Period.\n  * Patients with superficial vein thrombosis are eligible to participate.\n  * Patients with uncontrolled coagulopathy.\n  * Any other condition, disease, metabolic dysfunction (e.g., uncontrolled diabetes mellitus), active or uncontrolled infection/inflammation, physical examination finding, mental state or clinical laboratory finding that would contraindicate participation in the clinical trial due to concerns over safety or potential non-compliance with clinical trial procedures.\n  * A female patient, who is pregnant or lactating.\n  * Female patients of reproductive potential must agree to use a highly effective method of birth control. Male patients must agree to use condoms.\n  * Treatment with live attenuated vaccines in the last 3 weeks before the administration of the IMP.\n  * Treatment with an adenovirus type-5 (Ad5)-based COVID-vaccine in the last 12 weeks before the administration of the IMP.\n  * Treatment with another investigational agent within five of that investigational agent's half-lives prior to the administration of the IMP.\n  * Chronic immunosuppressive therapy; except that:\n  * Inhaled corticosteroids are permitted;\n  * Oral or IV corticosteroids with a dose lower than 10 mg prednisone or equivalent/day are permitted;\n  * Dexamethasone up to a maximum dose of 1 mg/day is permitted.\n  * Known allergy or hypersensitivity to any of the trial-specific interventions or any of their excipients.\n  * Subjects, for whom first line treatment options other than the combination nab-paclitaxel/gemcitabine are recommended by the investigator.",
+  "enrollment": 6,
+  "has_results": false,
+  "interventions": [
+   "VCN-01 oncolytic adenovirus (zabilugene almadenorepvec)",
+   "Nab-paclitaxel + Gemcitabine"
+  ],
+  "last_update_posted": "2026-07-27",
+  "location_countries": [
+   "Spain"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07701486",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-08-01",
+  "sex": "ALL",
+  "sponsor": "Theriva Biologics SL",
+  "start_date": "2026-08-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

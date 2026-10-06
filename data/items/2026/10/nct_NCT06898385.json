@@ -1,0 +1,89 @@
+{
+ "abstract": "This is a single-arm, open-label clinical study to evaluate the safety, tolerability and preliminary efficacy of IX001 TCR-T injection in advanced pancreatic cancer patients with KRAS G12V mutation.\n\nThis study will enroll participants with advanced pancreatic cancer patients with KRAS G12V mutation. The study consists of screening period, leukapheresis period, lymphodepletion period, treatment period, observation period and follow-up period. A total of 9-12 evaluable patients are planned to be recruited. The study is planned to be conducted using the \"3 + 3\" dose escalation design in two dose groups, and a single dose of the study drug will be administered at the dose levels of 3 × 10\\^9 ± 30% cells and 1 × 10\\^10 ± 30% cells. Subjects will be enrolled sequentially and treated by IX001 TCR-T injection at the corresponding planned dose level. All subjects who have received IX001 TCR-T injection will be followed for safety and efficacy up to 2 years.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06898385",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06898385"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-03-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sun Yat-sen University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06898385"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Phase I Clinical Study of IX001 TCR-T Injection in the Treatment of Advanced Pancreatic Cancer Patients With KRAS G12V Mutation",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "liyh@sysucc.org.cn",
+    "name": "Yuhong Li",
+    "phone": "87342487"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Voluntary signing of an informed consent form (for Human Leukocyte Antigen (HLA) typing and tumor gene mutation test, and main screening)\n* 2\\. Males or females, aged 18-75 years (inclusive)\n* 3\\. Patients with pathologically (histopathologically) or cytologically confirmed pancreatic ductal adenocarcinoma\n* 4\\. Patients with unresectable locally advanced or metastatic disease who fail standard of care, i.e., patients who have progression after prior gemcitabine-containing chemotherapy or FOLFIRINOX (oxaliplatin + irinotecan + calcium folinate + 5-FU) or NALIRIFOX (irinotecan liposome + oxaliplatin + calcium folinate + 5-FU) regimen, including those who have progression within 6 months after the end of neoadjuvant/adjuvant therapy\n* 5\\. At least one measurable lesion (according to RECIST 1.1 criteria), specifically: longest diameter of ≥10 mm for non lymph node lesions or shortest diameter of ≥15 mm for lymph node lesions (tumor lesions situated in a previously irradiated area, or in an area subjected to other loco-regional therapy, are usually not considered measurable, unless unequivocal progression of the lesion is demonstrated by an evidence)\n* 6\\. Patients with tumor tissue or peripheral blood tested positive for KRAS-G12V mutation and expression of matching HLA-A\\*11:01 subtype\n* 7\\. Eastern Cooperative Oncology Group (ECOG) ≤ 1\n* 8\\. Life expectancy ≥3 months\n* 9\\. Adequate functional reserve of organs: A) Hematology requirements (no blood transfusion or hematopoietic stimulating factor treatment within 14 days): Absolute neutrophil count ≥ 1.5×10\\^9/L; Platelet count ≥ 75×10\\^9/L, hemoglobin \\> 90 g/dL; Absolute lymphocyte count ≥ 0.5×10\\^9/L; B) Blood Biochemistry Requirements: Alanine aminotransferase ≤ 3 × upper limit of normal（ULN） (≤ 5 × ULN for patients with liver metastases); Aspartate aminotransferase ≤ 3 × ULN (≤ 5 × ULN for patients with liver metastases); Creatinine ≤ 1.5 × ULN or creatinine clearance ≥ 50 mL/min; Serum total bilirubin ≤ 1.5 × ULN; C) Coagulation requirements: Partial thromboplastin activity time (APTT) ≤ 1.5 × ULN; International normalized ratio (INR) ≤1.5 × ULN; D) Left ventricular ejection fraction (LVEF) ≥ 50% and no clinically significant pericardial effusion as diagnosed by echocardiography; E) No clinically significant electrocardiographic abnormality; F) Basic oxygen saturation is \\>92% under the indoor natural air environment.\n* 10\\. Women of childbearing age must be negative for blood Human Chorionic Gonadotropin (HCG) pregnancy test (by immunofluorescence method) at screening and baseline periods, and agree to use effective contraception for at least 1 year after infusion; and male subjects whose partners are women of childbearing age must agree to use effective barrier contraception methods and avoid sperm donation for at least 1 year after infusion.\n\nExclusion Criteria:\n\n* 1\\. The subject is currently suffered from or have suffered from other incurable malignant tumors within previous 5 years, except in skin basal cell cancer、carcinoma in situ or breast cancer have received curative treatment with no recurrence within the past 3 years)\n* 2\\. History of organ transplantation\n* 3\\. A history of mental disorders, which may affect compliance with this protocol or lead to failure in signing the Informed Consent Forms(ICF)\n* 4\\. A history of autoimmune diseases (e.g., Crohn's disease, rheumatoid arthritis and systemic lupus erythematosus) requiring systemic immunosuppressive/systemic disease-modulating drugs\n* 5\\. Poorly controlled hypertension with drug (systolic blood pressure \\>160 mmHg and/or diastolic blood pressure \\>100 mmHg) or occurrence of grade III-IV heart failure or myocardial infarction, cardiac angioplasty or stent placement, unstable angina pectoris, or other clinically significant heart diseases within one year prior to signing the ICF; QTc interval \\>450 ms for males or QTc interval \\>470 ms for females during screening (QTc interval calculated using the Fridericia formula)\n* 6\\. Symptomatic intracranial metastases\n* 7\\. Subjects have ascites or pleural effusion requiring drainage to relieve symptoms or have received drainage within 2 weeks. Asymptomatic participants with a small amount of pleural effusion or ascites on imaging are allowed\n* 8\\. Subjects who have experienced tumor-related intestinal or bowel obstruction within 6 months. including incomplete obstruction related to underlying disease or symptoms of intestinal obstruction requiring treatment\n* 9\\. A history of or any central nervous system disorders, such as epileptic seizure, cerebrovascular ischemia/hemorrhage, dementia, cerebellar disease, or any autoimmune disease involving the central nervous system within the past 6 months\n* 10\\. A positive result obtained in any of the following virological tests: A) Antibody to human immunodeficiency virus (HIV antibody); B) Hepatitis C virus antibody (HCV antibody), with a positive result for hepatitis C virus ribonucleic acid (HCV RNA); C) Positive for hepatitis B surface antigen (HBsAg); or positive for hepatitis B core antibody (HBcAb) and positive for hepatitis B virus deoxyribonucleic acid (HBV DNA) copies ≥2000 IU/mL; D) Treponema pallidum antibody (TP antibody) and positive for unheated serum reagin test;\n* 11\\. Fungal, bacterial, viral or other infections or suspected fungal, bacterial, viral or other infections that cannot be controlled or require intravenous administration\n* 12\\. Significant tendency for bleeding, such as active gastrointestinal bleeding, coagulation disorders\n* 13\\. Deep vein thrombosis requiring treatment within the past 6 months, unless the risk of thrombosis is acceptable after treatment, as assessed by the investigator\n* 14\\. Interstitial lung disease (such as interstitial pneumonia, pulmonary fibrosis), or a history of clinically significant respiratory system diseases at screening\n* 15\\. Use of granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating factor (GM-CSF) within 2 weeks prior to leukapheresis\n* 16\\. Receipt of gene therapy or other cell therapies within the past 6 months\n* 17\\. Participation in any other clinical studies within 28 days prior to signing the master informed consent form, or the date of signing the master informed consent form still within 5 half-lives of the drug from the last dose in the last clinical study (whichever is longer)\n* 18\\. Patients with poor compliance due to physiological, family, social, geographic and other factors, and failure to follow the study protocol and the follow-up plan\n* 19\\. Patients with contraindications to drugs used in the study\n* 20\\. Comorbidities requiring treatment with systemic corticosteroids (dexamethasone at a dose of ≥ 5 mg/day or other corticosteroids at the equivalent dose) or other immunosuppressive drugs after initiation of the study treatment, as judged by the investigator\n* 21\\. Women who are breastfeeding and are unwilling to stop breastfeeding\n* 22\\. Any other conditions that are, in the opinion of the investigator, not suitable for enrollment",
+  "enrollment": 9,
+  "has_results": false,
+  "interventions": [
+   "IX001 TCR-T injection",
+   "Fludarabine",
+   "Cyclophosphamide"
+  ],
+  "last_update_posted": "2026-01-08",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06898385",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-03-27",
+  "sex": "ALL",
+  "sponsor": "Sun Yat-sen University",
+  "start_date": "2025-03-27",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

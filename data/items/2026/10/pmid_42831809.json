@@ -1,0 +1,55 @@
+{
+ "abstract": "INTRODUCTION: Overcoming the immunosuppressive microenvironment of pancreatic cancer (PC) using oncolytic viruses appears to be a promising therapeutic approach. However, tumor cells are characterized by significant heterogeneity, including populations of resistant cells with high basal JAK/STAT signaling activity. One potential approach to overcoming this resistance is the use of JAK1/2 kinase inhibitors, such as ruxolitinib, the efficacy of which has already been demonstrated in several studies.\nOBJECTIVE: To study the effect of ruxolitinib (a JAK1/2 kinase inhibitor) on the replicative activity of certain oncolytic flaviviruses (YFV 17D) and alphaviruses (SINV K1487) in human pancreatic adenocarcinoma cell lines AsPC-1, BxPC-3, and Capan-2, which are characterized by high resistance to viral oncolysis.\nMATERIALS AND METHODS: Human pancreatic adenocarcinoma cell lines: AsPC-1, BxPC-3, and Capan-2 from the collection of Laboratory of Tick-Borne Encephalitis Chumakov FSC R&D IBP RAS (Institute of Poliomyelitis). Viruses: yellow fever virus strain 17D and Sindbis virus strain K1487 (GenBank AC № PZ244961.1). Virus quantification was performed using the plaque assay on Vero cell culture and real-time PCR.\nRESULTS: In this study, we investigated the effect of ruxolitinib (a JAK1/2 kinase inhibitor) on the replicative activity of certain oncolytic flaviviruses (YFV 17D) and alphaviruses (SINV K1487) in virus-resistant human pancreatic adenocarcinoma cell lines AsPC-1, BxPC-3, and Capan-2. A significant dose-dependent increase in infectious titers (by 2-3 orders of magnitude) of YFV 17D and SINV K1487 was demonstrated in the studied cultures in the presence of various concentrations of ruxolitinib (0.1 μM, 0.5 μM, 1.0 μM, and 5.0 μM).\nCONCLUSION: Enhanced replication of oncolytic flaviviruses and alphaviruses in the presence of ruxolitinib could significantly improve the efficacy of therapy for resistant and highly immunosuppressive pancreatic cancer. This combined virotherapy approach can activate powerful immunomediated cell death mechanisms even without an overt cytopathic effect in culture.",
+ "authors": [
+  "Trachuk KN",
+  "Biryukova YK",
+  "Kapranov VА",
+  "Orlova EA",
+  "Nazarenko AS",
+  "Kolyasnikova NM"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42831809",
+ "importance": 0.54,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.36233/0507-4088-409",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42831809"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Vopr Virusol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42831809/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Enhancement of oncolytic flavi- and alphavirus replication in resistant human pancreatic adenocarcinoma cell lines using ruxolitinib",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

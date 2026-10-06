@@ -1,0 +1,100 @@
+{
+ "abstract": "This study is designed to characterize the safety, tolerability, and anti-tumor activity of MDX2001 in patients with advanced solid tumors.\n\nThis study consists of Phase 1a dose escalation, Phase 1b dose expansion in a single indication, and Phase 2a expansion in a single indication.\n\nPrimary Objectives\n\n* All Phases: Evaluate the safety and tolerability of MDX2001 in patients with advanced solid tumor malignancies\n* Phase 1 only: Identify a recommended Phase 2 dose (RP2D) for further development of MDX2001\n* For Phase 1b and Phase 2: Assess the anti-tumor efficacy of MDX2001 in patients with selected advanced solid tumor malignancies\n\nSecondary Objectives:\n\n* Further characterize the anti-tumor activity of MDX2001 based on additional assessments of clinical benefit\n* Characterize the pharmacokinetics of MDX2001\n* Characterize the immunogenicity of MDX2001\n* Characterize relationship of baseline target protein expression in tumor tissue and clinical benefit\n\nThe expected duration of study intervention for patients may vary, based on progression date. The median expected duration of study per patient is estimated to be 10 months (up to 1 month for screening, a median of 6 months for treatment, and a median of 3 months for long term follow-up).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06239194",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06239194"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-02-02",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ModeX Therapeutics, An OPKO Health Company",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06239194"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Dose Escalation and Dose Expansion Study of MDX2001 in Patients With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Biliary Tract Cancer",
+   "Breast Cancer",
+   "Cervical Cancer",
+   "Colon Cancer",
+   "Endometrial Cancer",
+   "Esophageal Cancer",
+   "Gastric Cancer",
+   "GastroEsophageal Cancer",
+   "Head and Neck Cancer",
+   "Hepatocellular Cancer",
+   "Non-small Cell Lung Cancer",
+   "Pancreatic Cancer",
+   "Prostate Cancer",
+   "Rectal Cancer",
+   "Renal Cancer",
+   "Thyroid Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "info@modextx.com",
+    "name": "Email recommended",
+    "phone": "(857) 233-9936"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must be ≥ 18 years of age\n* Histologically or cytologically confirmed diagnosis of metastatic solid tumors\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* All patients should have at least 1 measurable disease per RECIST v1.1. An irradiated lesion can be considered measurable only if progression has been demonstrated on the irradiated lesion.\n* All contraceptive use by men and women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n* Adequate hematologic, hepatic and renal function\n* Capable of giving signed informed consent\n\nExclusion Criteria:\n\n* Any clinically significant cardiac disease\n* Unresolved toxicities from previous anticancer therapy\n* Prior solid organ or hematologic transplant\n* Known untreated, active, or uncontrolled brain metastases\n* Known positivity with human immunodeficiency virus (HIV), known active hepatitis B or C, or uncontrolled chronic or ongoing infectiion requiring intravenous treatment.\n* Receipt of a live-virus vaccination within 28 days of planned treatment start\n* Patient not suitable for participation, whatever the reason, as judged by the Investigator, including medical or clinical conditions.\n* Participation in a concurrent clinical study in the treatment period.\n* Known hypersensitivity to MDX2001 or any of its ingredients\n* Supplemental oxygen use for activities of daily living\n\nThe above information is not intended to contain all considerations relevant to the potential participation in a clinical trial.",
+  "enrollment": 285,
+  "has_results": false,
+  "interventions": [
+   "MDX2001"
+  ],
+  "last_update_posted": "2026-05-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 6,
+  "nct_id": "NCT06239194",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-08",
+  "sex": "ALL",
+  "sponsor": "ModeX Therapeutics, An OPKO Health Company",
+  "start_date": "2024-06-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

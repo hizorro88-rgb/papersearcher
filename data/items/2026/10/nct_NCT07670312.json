@@ -1,0 +1,105 @@
+{
+ "abstract": "This study will evaluate the safety, tolerability, and efficacy of XYA02 in participants with advanced solid tumors.\n\nXYA02 is an antibody drug conjugate (ADC) being developed for the treatment of malignant tumors. This is a first-in-human, dose-escalating clinical study divided into 2 parts: the Dose Escalation Part (Part 1) and the Dose Expansion Part (Part 2).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07670312",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07670312"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-06-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "XYone Therapeutics, Inc",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07670312"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "MUC-1",
+  "solid tumor",
+  "Non-Small Cell Lung Cancer",
+  "Ovarian",
+  "GEJ adenocarcinoma",
+  "Colorectal",
+  "Pancreatic",
+  "Gastric"
+ ],
+ "title": "Evaluation of XYA02 in Patients With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "MUC1-expressing Advanced, Relapsed and/or Refractory Solid Tumors",
+   "Non-Small Cell Lung Cancer",
+   "Ovarian Cancer",
+   "GEJ Adenocarcinoma",
+   "Colorectal Cancer",
+   "Pancreatic Adenocarcinoma",
+   "Gastric Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrial@xyonetx.com",
+    "name": "Tiffany Sepp",
+    "phone": "617-710-0770"
+   },
+   {
+    "email": "clinicaltrial@xyonetx.com",
+    "name": "Anshu Goyal",
+    "phone": "917-445-1846"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Signed informed consent form(s) (ICFs) obtained at Screening.\n2. Has an eligible relapsed/refractory tumor with measurable disease based on RECIST 1.1 at Screening.\n3. Age ≥18 years at Screening and confirmed at the discretion of the Investigator.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 at Screening.\n5. Platelet (PLT) count ≥100,000/mcL at Screening.\n6. Hemoglobin ≥9.5 g/dL without packed red blood cells (RBCs) transfusion within 14 days prior to Screening.\n7. Absolute neutrophil count (ANC) ≥1,500/mcL at Screening.\n8. Estimated creatinine clearance (CrCl) \\>60 mL/min at Screening. Alanine aminotransferase (ALT)/aspartate aminotransferase (AST) ≤3 × the upper limit of normal (ULN) at Screening.\n\n10\\. Total bilirubin ≤1.5 × ULN at Screening; in patients with a documented history of Gilbert syndrome ≤3 × ULN.\n\n11\\. At least 28 days from treatment with monoclonal antibody-based therapies at Screening.\n\n12\\. At least 5 half-lives from treatment with chemotherapy and small molecule inhibitors at Screening. 13. At least 28 days from experimental therapies not covered above at Screening.\n\n14\\. At least 28 days from radiation to more than 30% of the bone marrow or a wide field of radiation at Screening. Radiotherapy with a limited field of radiation for palliation within 14 days of the first dose of study drug is acceptable. (In case of patients treated with radiotherapy, previously irradiated lesions should not be considered a target lesion on computed tomography \\[CT\\] unless evidence of regrowth/disease progression has been documented.) 15. At least 28 days from major surgery or significant trauma with recovery of AEs to NCI-CTCAE Grade 1 or baseline at Screening.\n\n16\\. Availability of archival tissue or, if unavailable, will be willing to undergo a tumor biopsy if a low-risk biopsy procedure is feasible at Screening. 17. Has a life expectancy of ≥ 3 months at Screening.\n\nAdditional Inclusion Criteria for Phase 1 (Dose Escalation and Backfill):\n\n18\\. Has pathologically documented advanced, relapsed, or refractory NSCLC (non-squamous), ovarian (high grade serous), gastric/esophageal/GEJ adenocarcinoma, or CRC at Screening. 19. Patient must have progressed on, have relapsed after, be refractory to, or be intolerant of at least 1 prior systemic therapy, without available subsequent standard of care and have no satisfactory alternative treatment options. No more than 4 prior lines of systemic therapy for advanced, relapsed, or refractory disease in NSCLC and ovarian and no more than 3 prior lines of systemic therapy in gastric/esophageal/GEJ adenocarcinoma or CRC (excluding adjuvant chemotherapy).\n\nAdditional Inclusion Criteria for Phase 2 (Dose Expansion):\n\n20\\. Cohorts for 5 different prioritized tumor types and 1 basket cohort that are advanced/unresectable or metastatic at Screening according to the following criteria:\n\n1. Cohort 2A: NSCLC non-squamous. Histologically confirmed locally advanced or metastatic NSCLC (non-squamous) that have relapsed after or are refractory to platinum-doublet based chemotherapy and/or immune checkpoint inhibitor (in combination or sequential). Patients with EGFR or anaplastic lymphoma kinase (ALK) mutations should have been treated with appropriate targeted therapy. Patients must have received no more than 3 prior treatment regimens for advanced disease (excluding adjuvant chemotherapy and/or immunotherapy).\n2. Cohort 2B: Ovarian. Histologically confirmed advanced or metastatic high-grade serous ovarian cancer that have relapsed after or are refractory to at least 1 prior line of chemotherapy and have no other satisfactory treatment options. Patients must have received no more than 3 prior treatment regimens for advanced disease (excluding adjuvant chemotherapy or maintenance regimen).\n3. Cohort 2C: Gastric/esophageal/GEJ adenocarcinoma. Histologically confirmed advanced or metastatic gastric, esophageal or GEJ adenocarcinoma that have relapsed after or are refractory to at least 1 prior line of therapy. Patients must have received no more than 3 prior treatment regimens for advanced disease (excluding adjuvant chemotherapy).\n4. Cohort 2D: CRC. Histologically confirmed advanced or metastatic CRC that have relapsed after or are refractory to at least 1 prior line of therapy. BRAF mutated patients are excluded. Patients must have received no more than 3 prior treatment regimens for advanced disease (excluding adjuvant chemotherapy).\n5. Cohort 2E: Pancreatic cancer. Histologically confirmed locally advanced or metastatic pancreatic cancer that have relapsed after or are refractory to at least 1 prior systemic treatment regimen. Patients must have received no more than 3 prior treatment regimens for advanced disease (excluding adjuvant chemotherapy).\n6. Cohort 2F: Tumor agnostic. Histologically confirmed advanced or metastatic solid tumors other than ones in Cohorts 2A to 2E that have relapsed after treatment without available subsequent standard of care. The tumor indications in this group will be selected based on data from phase 1 and preclinical data.\n\nExclusion Criteria:\n\n1. Has been refractory (did not have a tumor response) to previous treatment with a topoisomerase 1 (TOP1) inhibitor antibody-drug conjugate, at the discretion of the investigator.\n2. Has a medical history of symptomatic congestive heart failure (CHF; New York Heart Association \\[NYHA\\] classes II-IV), prior documented left ventricular ejection fraction (LVEF) \\< 50%, or serious cardiac arrhythmia requiring treatment at Screening and at the discretion of the Investigator.\n3. Has a clinically significant medical history of myocardial infarction or unstable angina within 6 months before Screening at the discretion of the Investigator.\n4. Has a QT corrected for heart rate by Fridericia's formula (QTcF) \\> 470 millisecond (ms) in males and \\> 470 ms in females based on a 12-lead electrocardiogram (ECG) in triplicate performed at Screening.\n5. Has a medical history of clinically significant lung diseases (eg, interstitial pneumonia, pneumonitis, pulmonary fibrosis, and severe radiation pneumonitis) or who are suspected to have these diseases by imaging at Screening at the discretion of the Investigator.\n6. Has an uncontrolled infection requiring IV injection of antibiotics, antivirals, or antifungals at Screening at the discretion of the Investigator.\n7. Known history of human immunodeficiency virus (HIV) infection, or active hepatitis B or C infection at Screening. If known history of hepatitis, active hepatitis B infection is defined as hepatitis B surface antigen (HbsAg) positive or hepatitis B virus (HBV) deoxyribonucleic acid (DNA) positive; and active hepatitis C infection is defined as hepatitis C virus (HCV) ribonucleic acid (RNA) positive.\n8. Is a lactating mother (women who are willing to temporarily interrupt breastfeeding will also be excluded), or pregnant as confirmed by pregnancy tests performed within 7 days before Screening.\n9. Male and female patients who are unwilling to use contraceptive methods at Screening (eg, concomitant use of a spermicidal agent and barrier contraceptive, intrauterine contraceptive during the study and for at least 7 months after the last dose of XYA02).\n10. Has clinically active brain metastases, defined as untreated and symptomatic, or requires therapy with steroids or anticonvulsants to control associated symptoms at Screening and at the discretion of the Investigator. Note: Patients with untreated asymptomatic brain metastases may be included in the study if they do not require radiotherapy treatment or surgical treatment, do not require treatment with steroids, and there are no untreated brain lesions \\> 20 mm in size.\n11. Has unresolved toxicities from previous anticancer therapy, defined as toxicities (other than alopecia, lymphopenia) not yet resolved to NCI-CTCAE Grade ≤ 1 or baseline at Screening. Patients with chronic Grade 2 toxicities may be eligible per the discretion of the Investigator (eg, peripheral neuropathy, endocrinopathies).\n12. Has a concomitant medical condition that would increase the risk of toxicity at Screening.\n13. Has known hypersensitivity to either the drug substances or inactive ingredients in the drug product at Screening.\n14. Has multiple primary malignancies within 3 years, except adequately resected non-melanoma skin cancer, curatively treated in-situ disease, other solid tumors curatively treated, or contralateral breast cancer at Screening.",
+  "enrollment": 190,
+  "has_results": false,
+  "interventions": [
+   "XYA02"
+  ],
+  "last_update_posted": "2026-09-25",
+  "location_countries": [
+   "Australia"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 5,
+  "nct_id": "NCT07670312",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-09-15",
+  "sex": "ALL",
+  "sponsor": "XYone Therapeutics, Inc",
+  "start_date": "2026-09-17",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

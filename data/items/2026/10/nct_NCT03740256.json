@@ -1,0 +1,110 @@
+{
+ "abstract": "This study is a first in human Phase 1 study that involves patients with a type of cancer called HER2 (Human Epidermal Growth Factor Receptor 2) positive cancer.\n\nThis study asks patients to volunteer to take part in a research study investigating the safety and efficacy of using special immune cells called HER2 chimeric antigen receptor specific cytotoxic T lymphocytes (HER2 specific CAR T cells), in combination with intra-tumor injection of CAdVEC, an oncolytic adenovirus that is designed to help the immune system including HER2 specific CAR T cell react to the tumor.\n\nThe study is looking at combining these two treatments together, because we think that the combination of treatments will work better than each treatment alone. We also hope to learn the best dose level of the treatments and whether or not it is safe to use them together.\n\nIn this study, CAdVEC will be injected into participants tumor at one tumor site which is most easiest to reach. Once it infects the cancer cells, activation of the immune response will occur so it can attack and kill cancer cells. (This approach may have limited effects on the other tumor sites that have not received the oncolytic virus injection, so, patients will also receive specific T cells following the intratumor CAdVEC injection.) These T cells are special infection-fighting blood cells that can kill cells infected with viruses and tumor cells.\n\nInvestigators want to see if these cells can survive in the blood and affect the tumor. Both CAdVEC and HER2-specific autologous CAR T are investigational products. They are not approved by the FDA.\n\nTreatment with CAdVEC:\n\nOn the first day of treatment, participants will receive an injection of CAdVEC into their tumor.\n\nA blood sample will be obtained from the participant before the CAdVEC intratumor injection . Depending on the location of the tumor, different techniques can be used for the injection into your tumor. The most common route of injection is ultrasound-guided percutaneous (needle puncture in the skin) injection, but endoscopic (using a lighted, flexible instrument called an endoscope) ultrasound-guidance will be used for some patients as appropriate. Prior to percutaneous injection, participants may receive an anti-anxiety medicine to calm them down, to relieve muscle spasms, and provide sedation. If the participants tumor is injected during an endoscopic procedure, the procedure may be done under sedation.\n\nTreatment with HER2- specific autologous T Cells:\n\nThe participant will have given blood earlier for us to make HER2 targeting cytotoxic T-lymphocytes (HER2- specific autologous T Cells). These cells are grown in the lab and frozen for participants. Investigators make the cells by combining dendritic cells (DCs) or monocytes with the T cells in the presence of produced mixtures of adenoviral proteins. Investigators then put a new gene in to those T cells to make them specifically attract to and kill HER2 positive tumors. As the T cells grow, they are cultured by adding adenoviral proteins for stimulation and expansion. Investigators call those T cells: HER2- targeting T cells (HER2- specific autologous T Cells).\n\nThis study looks at different doses of HER2- specific autologous T Cells. The decision about the dose participants receive is determined when enrolled on the study.\n\nFive dose levels will be evaluated. Cohorts of size 3 will be enrolled at each dose level until 9 evaluable patients have been studied at a single dose. Each patient will receive an intratumoral injection of CAdVEC alone on Day 1 or combined with an injection of HER2.CAR T cells on Day 4.\n\nCAdVEC intratumoral injection will be given as a single injection to a single appropriate tumor site by direct, endoscopic, or image-guided injection on Day 1. After receiving the CAdVEC injection participants will be observed for 2-4 hours before leaving the hospital. During that time the study team will monitor vital signs and watch for any side-effects from the treatment. Participants will also be contacted by telephone about 24 hours after receiving the CAdVEC injection.\n\nHER2.CAR T cells will be given intravenously on day 4 after CAdVEC injection, with a 3 day window (until day 7).\n\nBefore receiving the T cell infusion, participants may be given Benadryl (diphenhydramine) and Tylenol (acetaminophen). Tylenol and Benadryl are given to prevent a possible allergic reaction to the T cell administration. After receiving the infusion of HER2-specific autologous T cells participants will be observed for at least 3 hours before they may leave the hospital. Additionally, participants must plan to remain in the Houston area for at least 3 weeks after the infusion.\n\nStandard medical tests before treatment:\n\nBefore being treated, participants will receive a series of standard medical tests and procedures as well as research blood draws.\n\nStandard Medical tests during and after treatment:\n\nDuring treatment, participants will receive standard medical tests and procedures as well as research blood draws.\n\nStudy specific evaluations:\n\nInvestigators will follow participants closely after treatment for any side effects for at least 2 years after the last infusion.\n\nTo learn more about the way the T cells are working in the body, an extra blood sample will be taken before the CAdVEC injection, before the CAR T cell infusion, and at week 1, 2, 4 , 6, months 3, 6, 9 and 12 after CAR T cell infusion. Thereafter every 6 months up to 5 years and then yearly for 15 years. Investigators will use this blood to see how long the T cells last and to look at the immune response to the cancer. Investigators may also obtain a tumor tissue biopsy before CAdVEC injection, between days 5 and 10 after infusion of the HER-2 CAR-T cells, and at the time tumor recurs. Urine will be collected before CAdVEC injection, Days 2, 4 (or the day of CAR T-cell infusion), weeks 1 and 2 after CAR T cell infusion.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03740256",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03740256"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2018-11-14",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Baylor College of Medicine",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03740256"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "HER2",
+  "Human Epidermal Growth Factor Receptor 2",
+  "Bladder",
+  "Head and Neck Squamous Cell Carcinoma",
+  "Salivary Gland",
+  "Lung",
+  "Breast",
+  "Gastric",
+  "Esophageal",
+  "Colorectal"
+ ],
+ "title": "Binary Oncolytic Adenovirus in Combination With HER2-Specific Autologous CAR VST, Advanced HER2 Positive Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Bladder Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Cancer of the Salivary Gland",
+   "Lung Cancer",
+   "Breast Cancer",
+   "Gastric Cancer",
+   "Esophageal Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Adenocarcinoma",
+   "Solid Tumor"
+  ],
+  "contacts": [
+   {
+    "email": "Shalini.Makawita@bcm.edu",
+    "name": "Shalini Makawita, MD",
+    "phone": "832-957-6500"
+   },
+   {
+    "email": "Dustin.McFadden@bcm.edu",
+    "name": "Dustin McFadden",
+    "phone": "832-824-3855"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nThis study will look at solid tumors (as a basket trial for any solid cancer) with HER2 positivity based on IHC\n\nProcurement Inclusion Criteria\n\n1. The patient has a histologically confirmed advanced refractory HER2 positive solid tumor, including but not limited to: head and neck squamous cell carcinoma; cancer of the salivary glands; lung cancer; breast cancer; bladder cancer; gastric cancer; esophageal cancer; colorectal cancer; and pancreatic adenocarcinoma. HER2 positivity is defined as ≥2+ staining by IHC with either the FDA-approved CB11 antibody (Leica) or anti HER2/neu (4B5) (VENTANA), which refers to greater than weak-to-moderate staining intensity in \\>10% tumor cells.\n2. The disease must be deemed unsuitable for curative treatments including surgery, radiotherapy, systemic therapy, including checkpoint inhibitors, or any combination of the above modalities by the referring oncology physician and confirmed by the senior oncologists leading the protocol.\n3. Disease must have progressed after standard first line therapy, or without available effective treatment options. Patients are still eligible if they have failed more than one line of therapy.\n4. The patient must have at least one tumor site appropriate for intratumoral injection.\n5. The patient must have radiographically measurable disease as per RECIST 1.1.\n6. Life expectancy more than 12 weeks.\n7. The patient is ≥ 18 years of age, able to understand and give informed consent to study related procedures and treatments.\n\nProcurement Exclusion Criteria\n\n1. History or evidence of active autoimmune disease requiring continuous systemic corticosteroids (with more than 10mg/day prednisone or equivalent dose), immunosuppressants or other disease modifying agents (except palliative radiation).\n2. Evidence of significant immunosuppressive conditions, such as the following:\n\n   * Post organ transplant.\n   * Diagnosis of HIV or other immunodeficiency disorders.\n3. Diagnosis of other malignancies within 5 years except for cutaneous basal cell or squamous cell carcinoma, well-differentiated thyroid cancer, or localized prostate cancer.\n4. Patients with known active hepatitis B or C infection.\n5. Patient has had acute myocardial infarction within 6 months prior to consent for procurement.\n6. Injectable tumor site is considered to incur a significant risk of major hemorrhage (e.g. located in the CNS (brain), and proximal to critical neurovascular structures) per investigator's review.\n7. Uncontrolled intercurrent illness including but not limited to psychiatric illness and or social situations that in the opinion of the investigator would compromise compliance of study requirements or put the patient at unacceptable risk.\n\nTreatment Inclusion Criteria:\n\n1. Histologically confirmed advanced refractory HER2 positive solid tumors, including but not limited to: head and neck squamous cell carcinoma; cancer of the salivary glands; lung cancer; breast cancer; bladder cancer; gastric cancer; esophageal cancer; colorectal cancer; and pancreatic adenocarcinoma. HER2 positivity is defined as ≥2+ staining by IHC with either the FDA-approved CB11 antibody (Leica) or anti HER2/neu (4B5) (VENTANA), which refers to greater than weak-to-moderate staining intensity in \\>10% tumor cells (HER2 positivity requirement is excluded in DL1 and DL2 as HER2 targeted agents are not used).\n2. The disease must be deemed unsuitable for curative treatments including surgery, radiotherapy, systemic therapy, including checkpoint inhibitors, or any combination of the above modalities by the referring oncology physician and confirmed by the senior oncologists leading the protocol.\n3. Disease must have progressed after standard first line therapy, or without available effective treatment options. Patients are still eligible if they have failed more than one line of therapy.\n4. The patient must have at least one tumor site appropriate for intratumoral injection.\n5. The patient must have radiographically measurable disease as per RECIST 1.1.\n6. The patient must have adequate organ function within 7 days prior to treatment as indicated by following measures:\n\n   * Hematologic: Absolute neutrophil count (ANC) ≥1.0 x 10\\^9/l; Hemoglobin ≥7 g/dl; Platelet count ≥ 100 x 10\\^9/l; PT or PTT ≤ 1.5 x ULN unless the subject is receiving anticoagulation.\n   * Hepatic function: bilirubin \\< 2 x ULN, and AST and ALT \\< 3 x ULN\n   * Renal Function: serum creatinine \\<2 x the ULN or creatinine clearance \\>60 mL/min.\n7. Prior HER2 targeted therapy is allowed if delivered at least 4 weeks prior to the enrollment. (Excluding DL1 and DL2)\n8. Eastern Cooperative Oncology Group (ECOG) performance status 2 or less (Appendix I).\n9. Females of childbearing potential must have a negative pregnancy test and agree to use contraception during on-study protocol therapy, or deemed to be not able to get pregnant.\n10. Male subjects with pregnant partner/female partner of childbearing potential agree to use barrier contraceptive during the study to minimize the risk of embryo-fetal exposure.\n11. The patient is ≥ 18 years of age, and able to understand and give informed consent to study related procedures and treatments.\n\nTreatment Exclusion Criteria:\n\n1. Patients with any concurrent treatment that would compromise the study including but not limited to continuous high dose corticosteroids (more than 10mg/day prednisone or equivalent dose), lympho-depleting antibodies, immunotherapy, targeted therapies or cytotoxic agents, CNS metastasis requiring continuous high-dose steroids (more than 10mg/day prednisone or equivalent dose) or other active therapeutic intervention. This does not include stable, previously-treated brain metastases. Patients on DL1 and DL2 can continue prior checkpoint inhibitors and HER2 targeted agents during the DLT evaluation period.\n2. Patients at significant risk of airway compromise or other critical obstruction (e.g. bowel, ureter, etc.) in the event of possible post injection tumor inflammation based on the investigative team's judgement.\n3. History or evidence of active autoimmune disease requiring continuous systemic corticosteroids, immunosuppressants or other disease modifying agents.\n4. Evidence of significant immunosuppressive conditions, such as the following:\n\n   * Post organ transplant.\n   * Diagnosis of HIV or other immunodeficiency disorders.\n5. Diagnosis of other malignancies within 5 years except for cutaneous basal cell or squamous cell carcinoma, well-differentiated thyroid cancer, or localized prostate or cervical cancer.\n6. Patients with known active infectious disease, such as hepatitis B or C infection.\n7. Patient has had acute myocardial infarction within 6 months prior to enrollment for treatment.\n8. Patients with abnormal left ventricular function (LVEF \\<55%).\n9. Injectable tumor site is considered to incur a significant risk of major hemorrhage (e.g. located in the CNS (brain), pulmonary parenchyma, and proximal to critical neurovascular structures).\n10. Pregnant or breastfeeding females.\n11. Uncontrolled intercurrent illness including but not limited to psychiatric illness and or social situations that in the opinion of the investigator would compromise compliance of study requirements or put the patient at unacceptable risk.",
+  "enrollment": 45,
+  "has_results": false,
+  "interventions": [
+   "CAdVEC"
+  ],
+  "last_update_posted": "2026-02-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03740256",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12-30",
+  "sex": "ALL",
+  "sponsor": "Baylor College of Medicine",
+  "start_date": "2020-12-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,56 @@
+{
+ "abstract": "To address the clinical need for localized therapy for pancreatic cancer, an injectable, self-healing nanocomposite hydrogel (GPPA-Mn@DOX) was rationally designed and developed. The hydrogel consists of phenylboronic acid-modified gelatin (Gel-PBA) and polyvinyl alcohol (PVA), which are crosslinked through dynamic boronate ester bonds and loaded with doxorubicin (DOX)-containing hollow mesoporous MnO2 (H-MnO2) nanocarriers. This integrated design enables tumor microenvironment (TME)-responsive drug release while facilitating in situ O2 generation. The resulting network exhibits a three-dimensional porous architecture, robust mechanical properties, and pronounced shear-thinning behavior. H-MnO2 catalyzes endogenous H2O2 to generate O2 and induces pH/ROS dual-responsive DOX release, resulting in a cumulative release of 76.71% within 48 h. The released DOX was efficiently internalized by BxPC-3 cells, thereby suppressing their migration and proliferation. In vivo, the hydrogel system significantly inhibited pancreatic tumor growth by promoting apoptosis, suppressing cellular proliferation, and alleviating hypoxia through downregulation of HIF-1α, while causing negligible systemic toxicity. Collectively, this platform represents a promising localized synergistic therapeutic strategy for pancreatic cancer.",
+ "authors": [
+  "Xie C",
+  "Feng Y",
+  "Zhu L",
+  "Dai X",
+  "Guo J",
+  "Jing T",
+  "Liu Z"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42829994",
+ "importance": 0.61,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1016/j.bbrc.2026.154632",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42829994"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-24",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42829994/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Tumor microenvironment-responsive injectable hydrogels for localized therapy of pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

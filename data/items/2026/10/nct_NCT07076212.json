@@ -1,0 +1,98 @@
+{
+ "abstract": "This is a single-center, open-label, randomized Phase 2 trial to evaluate the efficacy of NALIRIFOX (Arm 1) vs mGAP (Arm 2) in previously untreated patients with locally advanced (unresectable) and metastatic pancreatic ductal adenocarcinoma (PDAC).\n\nPancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies in the United States and is a leading cause of cancer-related deaths. In the metastatic setting, treatment consists of systemic chemotherapy in hopes of palliating symptoms and prolonging survival. However, prognosis remains very poor, and patients will invariably succumb to disease-related complications. Therefore, there is a critical need to identify new first-line systemic therapeutic options in hopes of improving clinical outcomes in PDAC.\n\nFOLFIRINOX (leucovorin, 5-flurouracil, irinotecan, oxaliplatin) became a standard of care systemic therapy option in metastatic PDAC, largely based on the findings from the Phase III ACCORD 11 study, where the objective response rate (ORR) was significantly higher with FOLFIRINOX vs single-agent gemcitabine (32% vs 9%). Median progression-free survival (PFS) (6.4 months vs 3.3 months) and overall survival (OS) (11.1 months vs 6.8 months) were higher as well. However, a recent Phase I/II study demonstrated tolerability of the chemotherapy combination liposomal irinotecan, oxaliplatin, 5-fluorouracil, and leucovorin (NALIRIFOX) in locally advanced and metastatic PDAC. This has been followed by a randomized Phase III study evaluating first-line NALIRIFOX vs gemcitabine plus nab-paclitaxel, which has demonstrated greater ORR with NALIRIFOX than gemcitabine plus nab-paclitaxel (41.8% vs 36.2%). Both median PFS (7.4 months vs 5.6 months) and OS (11.1 months vs 9.2 months) were significantly higher with NALIRIFOX than with gemcitabine plus nab-paclitaxel as well. In light of these findings, NALIRIFOX use in treatment-naïve patients is increasing.\n\nAs suggested above, gemcitabine combinations have elicited treatment responses in advanced PDAC as well. Efficacy of first-line gemcitabine plus nab-paclitaxel was demonstrated in the MPACT trial, where a higher ORR and median OS was noted in the combination arm vs single-agent gemcitabine (23% vs 7% and 8.7 months vs 6.7 months, respectively). This led to its indication for use in metastatic and locally advanced PDAC. Additionally, gemcitabine plus cisplatin was noted to have an ORR of 74% in germline BRCA1/2 and PALB2 mutated advanced PDAC. A recent small Phase II study demonstrated the use of the triplet regimen, gemcitabine plus nab-paclitaxel plus cisplatin administered on Day 1 and Day 8 of a 21-day cycle as having clinical activity in metastatic PDAC where ORR was 71% with median PFS and median OS of 10.1 months and 16.4 months, respectively. However, it remains unknown whether this triplet regimen is more efficacious than NALIRIFOX.\n\nTherefore, investigators propose evaluating whether gemcitabine plus nab-paclitaxel plus cisplatin (mGAP) will lead to greater ORR than NALIRIFOX in previously untreated patients with locally advanced and metastatic PDAC. Of note, despite the high ORR observed with this regimen, 2 of 3 deaths in the study were attributed by the authors to the chemotherapy combination. Due to this toxicity, rather than administering the triplet regimen on Day 1 and Day 8 of a 21-day cycle as done in the Phase Ib/II study, investigators will proceed with Day 1 and Day 15 administration of a 28-day cycle. Investigators hypothesize that gemcitabine plus nab-paclitaxel plus cisplatin will have a greater ORR than NALIRIFOX and lead to improved secondary outcome measurements of BOR, DOR, DCR, PFS, OS, and toxicity profile. Investigators will determine its clinical utility relative to NALIRIFOX in the first-line setting based on standard radiology used to measure treatment response. Findings from this study may have implications for changing the standard of care systemic therapeutic approach in patients with treatment-naïve locally advanced and metastatic PDAC.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07076212",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07076212"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-07-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medical University of South Carolina",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07076212"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisplatin in Patients With Locally Advanced and Metastatic Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Locally Advanced Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "hcc-clinical-trials@musc.edu",
+    "name": "HCC Clinical Trials Office, MD",
+    "phone": "843-792-9321"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged ≥18 years\n* For females of reproductive potential: use of highly effective contraception for at least 1 month before screening and agreement to use such a method during study participation and for an additional 9 months after the end of the last dose of study medication administration\n* Female patients including WOCBP must test negative for pregnancy at the time of screening based on a urine or serum pregnancy test.\n* For males of reproductive potential: use of condoms or other methods to ensure effective contraception with a partner during the study and for 4 months after the last dose of study medication.\n* Histologically or cytologically confirmed locally advanced or metastatic PDAC that has not been previously treated\n* Radiographically confirmed measurable (per RECIST 1.1) locally advanced or metastatic PDAC per the National Comprehensive Cancer Network (NCCN) definition.\n* Inoperable status due to the presence of locally advanced, unresectable disease with or metastases.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Hematological, biochemical, and organ function inclusion criteria:\n\n  * Absolute neutrophil count (ANC) ≥1500/mm3 without the use of hemopoietic growth factors within 7 days before treatment\n  * Platelet count ≥100,000/mm3.\n  * International normalized ratio (INR) \\<1.5 unless the patient is receiving anticoagulation therapy, in which case a therapeutic INR is acceptable. Anticoagulation therapy with low-molecular weight heparin or warfarin, whether medically indicated, is permitted.\n  * Adequate renal function, as evidenced by serum/plasma creatinine level \\<1.6 mg/dL\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Treatment with another investigational drug or other intervention within 30 days of protocol initiation.\n* Known hypersensitivity/allergic reaction to any of the components of the therapeutic agents in mGAP or NALIRIFOX.\n* Any other medical or social condition deemed by the investigator to be likely to interfere with a subject's ability to sign informed consent, cooperate, and participate in the study or who is likely to interfere with the interpretation of the results.\n* Unwilling or unable to comply with study procedures and/or study visits.\n* Uncontrolled, active infection\n* Histologic diagnosis other than adenocarcinoma.\n* Medical co-morbidities, that preclude major abdominal surgery",
+  "enrollment": 52,
+  "has_results": false,
+  "interventions": [
+   "Liposomal Irinotecan",
+   "Oxaliplatin",
+   "5-Fluorouracil",
+   "Leucovorin",
+   "Gemcitabine (mg/m²)",
+   "Nab-paclitaxel",
+   "Cisplatin"
+  ],
+  "last_update_posted": "2026-05-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07076212",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-05",
+  "sex": "ALL",
+  "sponsor": "Medical University of South Carolina",
+  "start_date": "2026-04-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

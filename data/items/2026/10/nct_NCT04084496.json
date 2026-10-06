@@ -1,0 +1,92 @@
+{
+ "abstract": "Although FOLFIRINOX regimen was recently presented to be effective as adjuvant chemotherapy for resectable pancreatic cancer in selected patients who have good physical condition, there is still insufficient evidence on this regimen in treating resectable pancreatic cancer patients in China. Since for many tumors, different races may show different responses to the same regimen, we design this open phase Ⅱ study to evaluate the the efficacy and safety of mFOLFIRINOX as adjuvant chemotherapy for resectable pancreatic cancer in China.\n\nThis is a phase II study. Patients with resectable pancreatic carcinoma will receive adjuvant chemotherapy of FOLFIRINOX for 6 months.\n\nPrimary endpoint is the disease free survival. Secondary endpoints are overall survival, safety and quality of life.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04084496",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04084496"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2019-09-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sun Yat-sen University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04084496"
+ },
+ "summary_ko": "Although FOLFIRINOX regimen was recently presented to be effective as adjuvant chemotherapy for resectable pancreatic cancer in selected patients who have good physical condition, there is still insufficient evidence on this regimen in treating resectable pancreatic cancer patients in China. Since for many tumors, different races may show different responses to the same regimen, we design this open phase Ⅱ study to evaluate the the efficacy and safety of mFOLFIRINOX as adjuvant chemotherapy for …",
+ "summary_source": "excerpt",
+ "tags": [
+  "pancreatic cancer",
+  "adjuvant chemotherapy",
+  "FOLFIRINOX"
+ ],
+ "title": "mFOLFIRINOX as Adjuvent Chemotherapy in Treating Chinese Pancreatic Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "qiumzh@sysucc.org.cn",
+    "name": "Miaozhen Qiu",
+    "phone": "13760612003"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the pancreas without distant metastases.\n* Receive radical resection of pancreatic cancer\n* No prior cytostatic chemotherapy\n* Female and male patients \\> 18 and \\<=79 years using contraception\n* ECOG ≤ 1\n* Patient has adequate bone marrow and organ function\n* Absolute Neutrophil Count (ANC) ≥ 2.0 x 109/L Platelets ≥ 90 x 109/L Hemoglobin ≥ 90 g/L\n* Patient has adequate liver function AST and ALT not more than 2.5 times ULN (not more than 5.0 times ULN if there is liver metastasis) Serum bilirubin ≤ 1.2 x ULN Creatinine ≤ 1.25 times ULN\n* Good compliance\n* Written informed consent\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Distant metastasis.\n* Patients with severe gastrointestinal hemorrhage which need frequent blood transfusions.\n* Refuse to take appropriate contraceptive measures (including male patients).\n* Allergic to Oxaliplatin, Irinotecan, Leucovorin or 5-Fluorouracil.\n* Severe systemic disease out of control such as unstable or uncompensated respiratory, cardiac, liver, renal diseases.\n* Patient has a concurrent malignancy or has a malignancy within 5 years of study enrollment, (with the exception of non-melanoma skin cancer or cervical carcinoma in situ).\n* Psychiatric illness that would prevent the patient from giving informed consent.\n* Patient is concurrently using other antineoplastic agent\n* Patient has used investigational antineoplastic agent within 4 weeks prior to entry.\n* Known HIV-positivity.\n* No history of chronic diarrhea, nausea or vomit.\n* No ≥ grade 2 sensory peripheral neuropathy.\n* A history of transmural myocardial infarction (within 6 months prior to entry), congestive heart failure, and unstable angina.\n* Infectious disease or inflammation with body temperature ≥ 38 ℃.",
+  "enrollment": 80,
+  "has_results": false,
+  "interventions": [
+   "Folfirinox"
+  ],
+  "last_update_posted": "2025-05-30",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "79 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04084496",
+  "phase": "PHASE2",
+  "primary_completion_date": "2024-12-31",
+  "sex": "ALL",
+  "sponsor": "Sun Yat-sen University",
+  "start_date": "2019-09-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

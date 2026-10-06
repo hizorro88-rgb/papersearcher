@@ -1,0 +1,88 @@
+{
+ "abstract": "In Phase 1b study, six subjects will be enrolled in Arm A (YL-13027 + AG regimen) and Arm B (HY-0102 + AG regimen). The first 12 subjects will be evaluated for safety after one cycle. After safety assessment, subjects will start to enroll in Arm C (YL-13027 + HY-0102 + AG regimen). Each group is planned to include 12-20 subjects. According to the safety and efficacy results of 3 arms of subjects in phase Ib, 1-2 groups were selected for expansion, and a randomized controlled study will be conducted with the standard treatment AG （Arm 4）regimen chemotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06662669",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06662669"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shanghai YingLi Pharmaceutical Co. Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06662669"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "YL-13027 and/or HY-0102 Combined With AG Regimen Chemotherapy for Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "wangzhq@sysucc.org.cn",
+    "name": "Zhingqiang Wang",
+    "phone": "020-87343571"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Subject aged between 18 and 75 years.\n* Subject has histologically or cytologically confirmed metastatic pancreatic ductal adenocarcinoma.\n* Subject has at least one evaluable metastatic lesion according to RECIST 1.1 criteria;\n* Subject has an ECOG score of 0-1 and is expected to survive more than 3 months;\n* Subjects have a good level of organ function.\n\nExclusion Criteria:\n\n* Subject suitable for potentially curative surgery.\n* The subject confirmed by tissue or cytology as other pathological types, such as acinar cell carcinoma, neuroendocrine carcinoma, etc.\n* The subject has previously received gemcitabine and nab-paclitaxel combination therapy within 6 months of progression or intolerance.",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "YL-13027",
+   "HY-0102",
+   "Gemcitabine",
+   "Nab-paclitaxel"
+  ],
+  "last_update_posted": "2024-10-29",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT06662669",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-09-30",
+  "sex": "ALL",
+  "sponsor": "Shanghai YingLi Pharmaceutical Co. Ltd.",
+  "start_date": "2024-11-30",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

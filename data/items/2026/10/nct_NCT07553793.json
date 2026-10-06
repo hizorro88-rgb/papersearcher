@@ -1,0 +1,92 @@
+{
+ "abstract": "Chemotherapy is the first-line treatment for advanced-stage pancreatic cancer patients. However, drug resistance always occurs within 6 months. For these patients, no effective treatment is available. Chimeric antigen receptor macrophage targeting C-MET( CAR-M-C-MET) is a novel cellular therapy for these patients. In this clinical trial, advanced-stage pancreatic cancer patients when tumor progression after chemotherapy are enrolled to test the safety and anti-tumor efficacy of this novel cellular therapy.\n\nChimeric antigen receptor macrophages (CAR-M) represent one of the most promising cellular immunotherapies for solid tumors. Patients with advanced-stage pancreatic cancer face an extremely dismal prognosis, particularly following the failure of chemotherapy. This trial investigates the role of CAR-M cellular therapy in advanced pancreatic cancer patients who have progressed after prior chemotherapy.\n\nC-MET is a target highly expressed in the majority of pancreatic cancer tissues. In this study, a chimeric antigen receptor targeting c-MET is designed and cloned into an adenoviral vector. Peripheral blood mononuclear cells are collected from participants, and CD14-positive monocytes are isolated. These monocytes are then induced and expanded using Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF), and subsequently transduced with the c-MET-specific CAR-adenoviral vector to generate CAR-M-c-MET. The final cell product is cryopreserved and later administered via intraperitoneal infusion. Each patient receives a single dose of cell infusion.\n\nFollowing infusion, the safety, efficacy, and pharmacokinetics of CAR-M-c-MET therapy are comprehensively evaluated.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07553793",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07553793"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-04-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Peking Union Medical College Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07553793"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "pancreatic cancer",
+  "chimeric antigen receptor",
+  "macrophages",
+  "C-MET"
+ ],
+ "title": "Chimeric Antigen Receptor Macrophages Targeting c-MET for Advanced Stage of Pancreatic Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Advanced Stage Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "qfliu@aliyun.com",
+    "name": "Qiaofei Liu, MD",
+    "phone": "861069152600"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Able to understand and voluntarily sign a written informed consent form.\n2. Willing and able to comply with the scheduled visit and treatment plan, laboratory tests, and other study requirements.\n3. Aged ≥ 18 years and ≤ 75 years on the day of signing the informed consent form, male or female.\n4. ECOG performance status of 0-1.\n5. Histologically or cytologically confirmed locally unresectable or abdominopelvic metastatic pancreatic ductal adenocarcinoma.\n6. Pancreatic cancer patients who have failed at least one prior line of therapy or are intolerant to such therapy.\n7. Medium to high expression of C-MET in pancreatic cancer tissue (defined as ++ or higher, with positive cells \\> 25%).\n8. At least one measurable lesion according to RECIST v1.1 criteria.\n9. Expected survival ≥ 4 months.\n10. Adequate organ function as defined by the following laboratory requirements:\n\n    Note: Subjects must not receive transfusions or growth factor support within 7 days prior to the first dose for hematology assessments.\n\n    Hematology:\n\n    Absolute Neutrophil Count (ANC) ≥ 1.5 × 10⁹/L.\n\n    Platelet Count (PLT) ≥ 100 × 10⁹/L.\n\n    Hemoglobin (HGB) ≥ 90 g/L or ≥ 5.6 mmol/L.\n\n    Liver and Kidney Function:\n\n    Creatinine (Cr) ≤ 1.5 × ULN.\n\n    Albumin ≥ 30 g/L (Albumin infusion is not permitted within 14 days prior to the first dose).\n\n    Total Bilirubin (TBIL) ≤ 1.5 × ULN (For subjects with liver metastases, TBIL ≤ 3 × ULN).\n\n    Alanine Aminotransferase (ALT) ≤ 2.5 × ULN.\n\n    Aspartate Aminotransferase (AST): For subjects with liver metastases, ALT and AST ≤ 5 × ULN.\n\n    Urinalysis:\n\n    Urine protein ≤ 1+, without accompanying edema or serum albumin levels below the lower limit of normal (LLN).\n\n    Coagulation:\n\n    International Normalized Ratio (INR) and Activated Partial Thromboplastin Time (APTT) ≤ 1.5 × ULN; unless the subject is receiving anticoagulant therapy, in which case PT or aPTT must be within the intended therapeutic range of the anticoagulant.\n\n    Prothrombin Time (PT) must be within the normal range.\n11. Females of childbearing potential must have a negative serum pregnancy test result within 7 days prior to the first dose and must not be lactating.\n\nExclusion Criteria:\n\n1. Received the following anti-tumor treatments prior to apheresis: Immunomodulatory therapy within 7 days; Cytotoxic therapy within 14 days; Investigational medication, targeted therapy, or anti-tumor traditional Chinese medicine within 28 days.\n2. Previously received CAR-T cell therapy or other cell therapies targeting any antigen.\n3. Liver metastases occupying more than 30% of the total liver volume.\n4. History of other concurrent malignancies, except for the following: Completely resected or eradicated basal cell carcinoma and squamous cell carcinoma of the skin, cervical carcinoma in situ, minute/microscopic papillary thyroid carcinoma, minute/microscopic breast cancer, and other malignancies with an extremely low risk of recurrence or metastasis.\n5. Patients with a history of autoimmune disease requiring immunosuppressive medication or hormone therapy (excluding physiological replacement doses).\n6. History of severe Central Nervous System (CNS) disease, such as grand mal seizures, paralysis, aphasia, stroke, severe brain injury, dementia, Parkinson's disease, or psychosis.\n7. Patients with a left ventricular ejection fraction (LVEF) \\< 50%, severe structural cardiac abnormalities, or arrhythmias requiring medical treatment.\n8. Patients with a history of medical treatment for intestinal obstruction, or those with imaging findings during screening indicating intestinal obstruction requiring treatment.\n9. Moderate to severe hepatic steatosis (fatty liver).\n10. Patients with moderate to severe cirrhosis (Child-Pugh Class A or worse) and significant portal hypertension.\n11. Patients with a history of gastrointestinal bleeding within the past 6 months requiring blood transfusion, emergency room observation, or hospitalization.\n12. Patients with active peptic ulcers.\n13. Patients with a history of severe intra-abdominal infection.\n14. History of abdominal surgery within the past 3 months.\n15. Any uncontrolled active infection.\n16. Infectious diseases, including but not limited to: 1) Known Human Immunodeficiency Virus (HIV) infection or Acquired Immunodeficiency Syndrome (AIDS)-related illness; 2) Hepatitis B (HBsAg positive) or Hepatitis C (HCV RNA positive); 3) Active tuberculosis infection, or currently receiving anti-tuberculosis therapy, or having received anti-tuberculosis therapy within 1 year prior to the first dose of study drug; 4) Positive for Treponema pallidum antibody; 5) Other infectious diseases deemed unsuitable for participation in this study by the investigator.\n17. Previous anti-tumor therapy-related Adverse Events (AEs) that have not resolved to Grade 1.\n18. Patients with deep vein thrombosis (DVT) or other conditions requiring anticoagulation therapy (e.g., heparin, warfarin).\n19. Patients with a history of any arterial embolism.\n20. Presence of other serious conditions prior to apheresis that could potentially limit the subject's participation in this trial, such as: Poorly controlled diabetes (glycated hemoglobin \\[HbA1c\\] \\> 8% despite treatment), inadequately controlled hypertension (blood pressure \\> 160 mmHg / 100 mmHg despite medication), myocardial infarction within the last 6 months, severe arrhythmia or unstable angina not well controlled by medication, pulmonary embolism, chronic obstructive pulmonary disease (COPD), interstitial lung disease (ILD), etc.\n21. Pregnant or lactating women; women or men of childbearing potential planning pregnancy during the study period.\n22. Substance abuse (medication or drugs), or clinical, psychological, or social factors that would impair informed consent or study conduct.\n23. Patients with a history of severe allergies (e.g., allergies to three or more substances including food, drugs, etc.).\n24. Presence of moderate or severe ascites.\n25. Currently participating in another interventional clinical trial.\n26. Any uncertainty that could affect patient safety or compliance.\n27. Any other condition deemed by the investigator to make the subject unsuitable for enrollment.",
+  "enrollment": 18,
+  "has_results": false,
+  "interventions": [
+   "CAR-M-C-MET cell intraperitoneal infusion"
+  ],
+  "last_update_posted": "2026-04-28",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07553793",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-12-01",
+  "sex": "ALL",
+  "sponsor": "Peking Union Medical College Hospital",
+  "start_date": "2026-05-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

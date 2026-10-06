@@ -1,0 +1,109 @@
+{
+ "abstract": "Rationale: Adjuvant chemotherapy after surgery significantly improved the survival of PC patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesion which are not being detected in early diseases status and improve the R0 resection rate. In addition, it prevents futile surgery by selecting patients with rapid progression of disease. Furthermore, compared to chemotherapy administered after surgery, more patients can complete the planned chemotherapy schedule in neoadjuvant setting. Asians differ from Westerners not only in racial differences, but also in average size and body surface area. Accordingly, there is an urgent need for clinical studies on the dose, toxicity, dosing cycle, and efficacy of anticancer drugs that reflect actual clinical trials in Asian countries for Asians. There are still few studies worldwide that prospectively explored the efficacy of neoadjuvant chemotherapy in resectable PC and the administration of neoadjuvant therapy in resectable PC depends on individual clinical judgment. Therefore, systematic and prospective clinical trials are essential to standardize treatment protocol in resectable PC.\n\nObective: To investigate whether 6 cycles of preoperative mFOLFIRINOX - surgery - 6 cycles of postoperative mFOLFIRINOX improves overall survival by intention-to-treat compared to surgery followed by 12 cycles of postoperative mFOLFIRINOX.\n\nStudy design: open-label, multicenter, randomized, phase 3 clinical trial Study population: Patients with resectable pancreatic cancer and ECOG performance 0 or 1.\n\nIntervention:\n\nInvervention arm : 6 cycles of neoadjuvant mFOLFIRINOX followed by surgical resection and 6 cycles of adjuvant mFOLFIRINOX Comparator arm : surgical resection followed by 12 cycles of adjuvant mFOLFIRINOX Primary endpoint: 2-year overall survival rate by intention-to-treat",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05529940",
+ "importance": 0.94,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05529940"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2022-09-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Seoul National University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05529940"
+ },
+ "summary_ko": "Rationale: Adjuvant chemotherapy after surgery significantly improved the survival of PC patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesion which are not being detected in early diseases status and improve the R0 resection rate.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "NeoFOL-R Trial (Perioperative Versus Adjuvnat FOLFIRINOX in Resectable Pancreatic Cancer)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Resectable Pancreatic Cancer",
+   "Neoadjuvant Chemotherapy",
+   "Effects of Chemotherapy"
+  ],
+  "contacts": [
+   {
+    "email": "jyjang4@snu.ac.kr",
+    "name": "Jin-Young Jang",
+    "phone": "+82-2-2072-2194"
+   },
+   {
+    "email": "angelamd@catholic.ac.kr",
+    "name": "Myung-Ah Lee",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n\\- A. Age: 19 to 80 years old B. Patients with a score of 0 - 1 (ECOG) when selecting a study subject C. Pancreatic ductal adenocarcinoma diagnosed by histological examination (histologic or cytopathological) D. Patients evaluated as resectable pancreatic cancer in preoperative imaging as follows (NCCN guidelines for pancreatic adenocarcinoma version 2.2021)\n\n* No arterial tumor contact (celiac asix, superior mesenteric artery, or common hepatic artery).\n* No tumor contact with the superior mesenteric vein or portal vein or ≤ 180°contact without vein contour irregularity.\n\nE. No distant metastases on preoperative imaging F. Patients with adequate organ function\n\n1. Bone marrow function: WBC 3,000/mm3 or more or ANC 1,500/mm3 or more, platelet ≥ 100K/mm3\n2. Liver function: Bilirubin ≤ 3 x upper normal limit (≤5.0 mg/dL), AST/ALT ≤ 5 x upper normal limit (\\<200 IU/L)\n3. Renal function (Cr clearance ≥ 60 mL/min) or (Cr \\< 1.5 x upper normal limit) G. Persons physically capable of undergoing surgery H. Those who consented to the clinical trial I. Women of childbearing potential must have a negative serum pregnancy test within one week before starting the intervention drug. Men and women of childbearing potential must use effective contraception from screening through six months after the last dose.\n\nExclusion Criteria:\n\n\\- Patients who met any of the following criteria are not eligible to participate in this study.\n\nA. Those evaluated as borderline resectable or locally advanced pancreatic cancer in preoperative imaging examination (The resectability assessment depends on the presence of major vessel invasion, while invasion of adjacent organs is excluded from the criteria) B. Patients with a history of previous pancreatic surgery C. Patients with a history of previous chemotherapy or radiation therapy for pancreatic cancer D. Patients with distant metastases or recurrent pancreatic cancer E. Pancreatic body or tail cancer requiring combined resection of adjacent organs (stomach or kidney) (except for the adrenal gland) F. Patients within five years of diagnosis of other organ malignancies (with the exception of adequately treated non-melanoma skin cancer and carcinoma in situ without evidence of disease) G. Pregnant and lactating women H. Serious concomitant systemic disorders, including active or ongoing systemic infections, symptomatic congestive heart failure, unstable angina, clinically significant cardiac arrhythmias, psychiatric disorders, or uncontrolled comorbid conditions that may limit compliance with study requirements, or any medical condition that, at the discretion of the investigator, could compromise patient safety, interfere with the assessment of safety and efficacy, or hinder participation in the clinical trial.",
+  "enrollment": 609,
+  "has_results": false,
+  "interventions": [
+   "Folfirinox"
+  ],
+  "last_update_posted": "2024-11-27",
+  "location_countries": [
+   "South Korea"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Department of Internal Medicine, Seoul St. Mary's Hospital, Catholic University College of Medicine",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Department of Surgery, Seoul National University College of Medicine",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": "80 Years",
+  "min_age": "19 Years",
+  "n_locations": 2,
+  "nct_id": "NCT05529940",
+  "phase": "PHASE3",
+  "primary_completion_date": "2024-12",
+  "sex": "ALL",
+  "sponsor": "Seoul National University Hospital",
+  "start_date": "2023-04-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

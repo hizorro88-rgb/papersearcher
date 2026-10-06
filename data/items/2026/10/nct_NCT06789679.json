@@ -1,0 +1,99 @@
+{
+ "abstract": "This study is a prospective, open-label, randomized controlled trial that enrolled previously untreated patients with locally advanced or metastatic pancreatic cancer. Participants were randomly assigned to receive either albumin-bound paclitaxel and gemcitabine, or albumin-bound paclitaxel, gemcitabine, and S-1 as first-line treatment. After patients who met the inclusion criteria signed an informed consent form, the study observed patients from the start of treatment until death, withdrawal of consent, loss to follow-up, or the end of the study. Eligible participants were randomly assigned in a 1:1 ratio to either the albumin-bound paclitaxel and gemcitabine treatment group (AG ) or the albumin-bound paclitaxel, gemcitabine, and S-1 treatment group (GAS). A total of 128 patients were planned for inclusion in the study, with 64 in each treatment group. Baseline data related to demographics, disease, treatment, adverse events, and tumor status were collected by the treating physician during the first visit and follow-up visits. Follow-up visits were conducted according to a fixed schedule, with survival assessed every three months through phone calls, WeChat, or by contacting other physicians. The final visit recorded patient death, withdrawal of consent, loss to follow-up, or the conclusion of the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06789679",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06789679"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-01-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06789679"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic adenocarcinoma",
+  "Advanced",
+  "First-Line",
+  "Efficacy",
+  "Safety"
+ ],
+ "title": "Albumin-Bound Paclitaxel and Gemcitabine With or Without S-1 as First-Line Treatment for Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "linyangcicams@126.com",
+    "name": "Lin Yang, Doctor",
+    "phone": "13681015148"
+   },
+   {
+    "email": "linyangcicams@126.com",
+    "name": "Lin Yang",
+    "phone": "13681015148"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nThe participant must voluntarily agree to participate in the study and sign the informed consent form.\n\nThe participant must be ≥18 years old on the day of signing the informed consent form.\n\nThe participant must have a pathological diagnosis of pancreatic ductal adenocarcinoma (including adenosquamous carcinoma).\n\nThe participant must not have received any prior systemic treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nNote: Patients who have received neoadjuvant/adjuvant/radical chemoradiotherapy or neoadjuvant/adjuvant chemotherapy are eligible only if the time from the end of treatment to the first diagnosis of disease progression/recurrence is at least 6 months.\n\nThe participant must have measurable lesions according to RECIST 1.1 criteria. If there is only one measurable lesion at baseline, it must not have been previously irradiated or there must be evidence of significant progression since the end of radiotherapy.\n\nThe participant must have an ECOG performance status score of 0-2. The participant must have a life expectancy of more than 3 months. The participant must be able to take oral chemotherapy. The participant must meet the required organ function criteria before inclusion.\n\nFemale participants of childbearing potential or male participants with partners of childbearing potential must agree to use highly effective contraception starting 7 days before randomization and continue until 24 weeks after treatment initiation. Female participants must have a negative serum pregnancy test within 7 days prior to randomization.\n\nExclusion Criteria:\n\nParticipants with untreated active brain metastases or leptomeningeal metastasis. If brain metastasis has been treated and the disease is stable (with stable imaging for at least 4 weeks prior to randomization and no new neurological symptoms), they may be included.\n\nParticipants with untreated spinal compression fractures. Treated spinal compression fractures must be stable for at least 2 weeks before randomization.\n\nParticipants who have previously received systemic treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nNote: Participants who have received neoadjuvant/adjuvant/radical chemoradiotherapy or neoadjuvant/adjuvant chemotherapy are excluded if the time from the end of treatment to disease progression/recurrence is less than 6 months.\n\nParticipants with high risk of gastrointestinal or abdominal bleeding. Participants with uncontrolled cancer pain (e.g., requiring escalation of analgesics) at the time of enrollment.\n\nParticipants who have received chemotherapy, small molecule inhibitors, immunotherapy (such as interleukins, interferons, or thymosin), or other anti-cancer treatments within 28 days before enrollment, or who have used traditional Chinese medicine with anti-cancer indications within 14 days before enrollment.\n\nParticipants who have had major surgery within 28 days before enrollment (excluding diagnostic biopsies such as EUS-FNB or percutaneous liver biopsy).\n\nParticipants who have received radical radiation therapy within the last 3 months. Palliative radiation therapy is allowed if administered at least 2 weeks prior to the start of the study treatment.\n\nParticipants with a history of another malignancy within the last 5 years, except for treated basal cell carcinoma, squamous cell carcinoma of the skin, non-invasive bladder cancer, or cured prostate/cervical/breast cancer.\n\nParticipants with uncontrolled comorbidities, including but not limited to:\n\nActive HBV or HCV infection. Note: Participants with positive HBsAg and/or HCV antibodies must undergo HBV-DNA and/or HCV-RNA testing. Eligible participants must have HBV-DNA ≤500 IU/mL (or ≤2000 copies/mL) and/or HCV-RNA negative.\n\nKnown HIV infection or AIDS history. Active syphilis. Active tuberculosis. Active infections. Uncontrolled hypertension, symptomatic heart failure (NYHA II-IV), unstable angina, myocardial infarction within the last 6 months, or QTc prolongation or arrhythmia risk.\n\nNote: Participants with baseline QTc \\>470 msec (female) / 450 msec (male), hypokalemia, long QT syndrome, resting heart rate \\>100 bpm in atrial fibrillation, or severe valvular heart disease are excluded.\n\nActive bleeding. Participants whose toxicity from prior anti-cancer treatments has not recovered to CTCAE ≤1 (except for alopecia, which is allowed at any grade, and peripheral neuropathy, which must have recovered to ≤2).\n\nBreastfeeding women. Other conditions that, in the opinion of the investigator, may affect the participant's safety, compliance, or the reliability of the study results, including but not limited to psychiatric disorders, moderate to severe ascites, pleural effusion, pericardial effusion, etc.\n\nVulnerable populations, including but not limited to those with cognitive impairments, critically ill patients, minors, pregnant women, students/subordinates of the investigator, employees of the study institution or sponsor, and other individuals who may not be able to provide informed consent or comply with the study requirements.",
+  "enrollment": 128,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine, albumin-bound paclitaxel, S-1",
+   "Gemcitabine, albumin-bound paclitaxel"
+  ],
+  "last_update_posted": "2025-01-30",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06789679",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-06-30",
+  "sex": "ALL",
+  "sponsor": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+  "start_date": "2025-01-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

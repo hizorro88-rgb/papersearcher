@@ -1,0 +1,100 @@
+{
+ "abstract": "The goals of this trial are: 1) To evaluate the safety and tolerability of C3 administration with Gemcitabine; and 2) To assess the disease response following C3 administration with Gemcitabine. The main question it aims to answer are: 1) Is C3 in combination with Gemcitabine safe, tolerable, and effective for reducing improving advanced stage pancreatic cancer? and 2) Can C3 in combination with Gemcitabine prolong the lives of patients with advanced stage pancreatic cancer. Participants will receive a combination of metformin (850 mg twice a day), digoxin (0.25 mg once a day), and simvastatin (20 mg once a day), also known as C3, and Gemcitabine (as per standard of care) for 2 years. If patients decline Gemcitabine, they will be offered the C3 medications only.\n\nBackground. Pancreatic Ductal Adenocarcinoma (PDAC) is one of the deadliest cancers and ranks fourth in cancer-related deaths in the United States. It is among the 10 most commonly diagnosed cancers (9th in women and 10th in men), with approximately 56,770 new cases and 45,750 deaths in 2019. Current therapy for advanced disease includes the use of medications such as Gemcitabine, Erlotinib, Capecitabine, or combination treatments such as 5-fluorouracil, irinotecan, and oxaliplatin; or Gemcitabine and nab-paclitaxel. These standard of care medications have a survival advantage of less than six months in patients with advanced metastatic disease. Recent studies have shown that the use of metformin and simvastatin in 15,099 patients with pancreatic cancer significantly improved their survival.\n\nStudy Design/Methods. Based on those prior studies, the investigators will conduct an open-label, single-center, phase 2, feasibility trial of a combined metformin, digoxin, and simvastatin (C3) in 25 subjects with recurrent/refractory metastatic pancreatic cancer in order to evaluate their safety and tolerability. Patients who were previously treated for advanced pancreatic disease with no significant improvements in their disease, will be enrolled in this trial. C3 will be given as oral pills as described in recommended package insert safe levels in addition to their standard of care medication, Gemcitabine.\n\nStudy Interventions/Treatment Plan. The treatment plan is as follows: The first 3 patients enrolled in the study, will receive metformin (850 mg twice a day), digoxin (0.25 mg once a day), and simvastatin (20 mg once a day) for 28 days. If no toxic effects, the remaining 22 patients will be enrolled. Patients will be provided C3 medications every 28 days and will continue on the C3 medication for at least 2 years, or until death or recurrence/advancement of the disease. If more than one patient develops a toxic event, the dose will be reduced to metformin 850 mg/day, simvastatin 5 mg/day, and digoxin 0.0625 mg/day. If no further toxicities, then the remaining patients will receive the lower dose. If however, more than two patients develop a toxic event, then study discontinuation will be considered. If patients decline first line treatment (Gemcitabine), they will be offered a choice of C3 medications only.\n\nSafety and Disease Response Assessments. During the conduct of the study, safety assessments will be conducted including physical examination, vital signs monitoring, performance status evaluation, blood CBC/serum chemistry, digoxin levels, toxicity assessment, and radiological tumor assessment. Disease response will be assessed using radiologic tumor assessments, and levels of biomarkers.\n\nObjectives and Endpoints. The Primary Objectives are: 1) To evaluate the safety and tolerability of C3 administration with Gemcitabine. Endpoint and Outcome Measures: Adverse events and abnormalities in laboratory test values, markedly abnormal vital sign measurements; and 2) To assess disease response following C3 administration with Gemcitabine. Endpoint and Outcome Measures: Radiologic tumor assessment at baseline and quarterly thereafter. The Secondary Objectives are: 1) To assess levels of tumor biomarkers. Endpoint and Outcome Measures: Biomarker levels will be determined at baseline and at 2 months after C3 treatment; and 2) To assess molecular changes in biomarkers induced by C3 administration. Endpoint and Outcome Measures: Molecular expressions of tumor biomarkers such as BIRC5, CA19-9, and CEA at baseline, and 2 months after C3 treatment.\n\nGiven the safety profile of C3 in thousands of patients, the investigators anticipate that it will significantly improve the disease outcomes and prolong the lives of patients with metastatic advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06030622",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06030622"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2023-09-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "State University of New York - Downstate Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06030622"
+ },
+ "summary_ko": "The goals of this trial are: 1) To evaluate the safety and tolerability of C3 administration with Gemcitabine; and 2) To assess the disease response following C3 administration with Gemcitabine. The main question it aims to answer are: 1) Is C3 in combination with Gemcitabine safe, tolerable, and effective for reducing improving advanced stage pancreatic cancer?",
+ "summary_source": "excerpt",
+ "tags": [
+  "C3 trial",
+  "metformin",
+  "simvastatin",
+  "digoxin",
+  "pancreatic cancer"
+ ],
+ "title": "Phase 2A Pilot C3 Trial of Recurrent/Refractory Metastatic Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "seema.chittalae@downstate.edu",
+    "name": "Seema Chittalae, MD",
+    "phone": "(718) 221-6594"
+   },
+   {
+    "email": "moro.salifu@downstate.edu",
+    "name": "Moro Salifu, MD",
+    "phone": "(718) 270-1584"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Subject ≥18 years with histologically confirmed pancreatic cancer.\n2. Refractory, intolerant to, or with disease progression after at least one standard of care regimen.\n3. ECOG performance status (PS) 0-1.\n4. Pretreatment biopsy and/or adequate archival tissue available for BIRC5 protein level evaluation.\n5. Adequate organ and marrow function: absolute granulocyte count ≥1,000/mm3, platelets ≥100,000/mm3, total bilirubin ≤ institutional upper normal limit, AST/ALT ≤2x institutional upper limit of normal, and creatinine \\<1.5 mg/dL or calculated creatinine clearance \\> 60ml / min (Cockcroft-Gault Equation).\n6. Subject has recovered to CTCAE Grade 1 (except for alopecia) or better from all adverse events associated with prior therapy or surgery. Pre-existing motor or sensory neurologic pathology or symptoms must be recovered to CTCAE Grade 2 or better.\n7. If participant of childbearing potential, has a negative urine or serum pregnancy test. If the urine test is positive or cannot be confirmed as negative, a negative serum test will be required for study entry. Serum pregnancy tests will be conducted at the time of screening, when other blood draws are obtained (See Appendix III: Time-Table of Procedures).\n8. Ability to understand and the willingness to sign a written informed protocol specific consent.\n9. Willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.\n10. No known active infections at the time of enrollment as determined by negative procalcitonin level.\n\nExclusion Criteria:\n\n1. Anti-cancer chemotherapy, biologic therapy or immunotherapy within 3 weeks or radiation therapy within 2 weeks of first investigational product administration.\n2. Known history of other malignancy unless having undergone curative intent therapy without evidence of that disease for ≥ 3 years except cutaneous squamous cell and basal cell skin cancer, superficial bladder cancer, in situ cervical cancer or other in situ cancers are allowed if definitively resected.\n3. Brain metastases unless treated with curative intent (gamma knife or surgical resection) and without evidence of progression for ≥ 2 months.\n4. Known history of rhabdomyolysis.\n5. History of or current evidence of any condition (including medical, psychiatric or substance abuse disorder), therapy, or laboratory abnormality that might confound the results of the study, interfere with the subject's participation for the full duration of the study, or is not in the best interest of the subject to participate, in the opinion of the Investigator.\n6. Known chronic Hepatitis B or C infection.\n7. Have current active infection requiring systemic antibiotic treatment.\n8. History of severe allergic, anaphylactic, hypersensitivity reactions or previous intolerance to Metformin, Simvastatin, and/or Digoxin.\n9. Patients with significant cardiac disease or condition listed below (unless clearance obtained by cardiology):\n\n   1. Wolff-Parkinson-White Syndrome.\n   2. Previous MI within last 6 months of C1D1.\n   3. Evidence of residual electrographic pattern consistent with heart block., for example atrio-ventricular (AV) heart block (currently ongoing).\n   4. History of ventricular fibrillation.\n   5. Sick Sinus Syndrome or Sinus bradycardia thought to be caused by sinus node disease, unless effectively treated.\n   6. Heart failure with preserved LVEF, including constructive pericarditis, and amyloid heart disease.\n10. Acute cor pulmonale, restrictive cardiomyopathy, and Amyloid heart muscle disease.\n11. Participants of childbearing potential who are found to be pregnant as evidenced by positive serum pregnancy test (minimum sensitivity 25 IU/L or equivalent units of HCG) or nursing.\n12. Any condition that, in the opinion of the investigator, would interfere with evaluation of study treatment or interpretation of patient safety or trial results.\n13. Cognitively impaired and diminished capacity.",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine and C3 (Metformin, Simvastatin, and Digoxin)",
+   "C3 (Metformin, Simvastatin, and Digoxin) only"
+  ],
+  "last_update_posted": "2026-08-03",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06030622",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-12-01",
+  "sex": "ALL",
+  "sponsor": "State University of New York - Downstate Medical Center",
+  "start_date": "2024-04-17",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

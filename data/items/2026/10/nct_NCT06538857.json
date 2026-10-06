@@ -1,0 +1,97 @@
+{
+ "abstract": "The CEB-01 implant is a membrane containing SN-38, the active metabolite of irinotecan, an already authorized chemotherapeutic agent. After surgical removal of the pancreatic cancer tumor, CEB 01 will be placed in the surgical bed for a local and sustained release of the chemotherapy. This is expected to delay or prevent local recurrence of pancreatic cancer after surgery, while keeping a tolerable toxicity profile.\n\nThe study aims to assess the safety, tolerability, pharmacokinetics, and efficacy of CEB-01 in patients with locally resectable pancreatic cancer\n\nExploratory, multi-center, interventional, prospective, randomised, single-blind, controlled clinical trial in adult participants with locally resectable pancreatic cancer. Participants will be allocated in a 2:1 ratio to two treatment arms: (Arm 1, n=26 participants) standard surgery and CEB-01 implant after surgery, or (Arm 2, n=13 participants) standard surgery without implant. For measurement of primary safety and efficacy endpoints, follow-up will consist of shortterm evaluation at 365 ± 30 days and long-term evaluation at 1095 ± 30 days post-surgery as it is considered sufficient for the assessment of the therapeutic effect of CEB-01 regarding local recurrence. For pharmacokinetic assessment, blood samples will be collected at baseline and at 8 different time points until 60 ± 15 days post-surgery. For each participant the trial duration will be composed by a screening period for of up to 35 days, one day for surgery and 1095 ± 30 days of follow-up.\n\nThe trial population will consist of 39 participants with a de novo pancreatic cancer who fulfil all the inclusion and exclusion criteria.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06538857",
+ "importance": 0.84,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06538857"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:EARLY_PHASE1"
+ ],
+ "published_at": "2024-08-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "CEBIOTEX",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06538857"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Locally advanced disease",
+  "Resectable pancreatic cancer",
+  "Borderline resectable pancreatic cancer"
+ ],
+ "title": "CEB-01 in Locally Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "investigacion@mfar.net",
+    "name": "A Responsible Person Designated by the Sponsor",
+    "phone": "+34 93 434 44 12"
+   },
+   {
+    "email": "ahuguet@cebiotex.com",
+    "name": "Anna Huguet, Ph.D.",
+    "phone": "+34 93 434 44 12"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Participants must have a diagnosis of:\n\n   1. Lesion/s of histologically or cytologically confirmed de novo carcinoma, adenocarcinoma or ductal adenocarcinoma of the pancreas with only locally advanced disease, resectable or borderline resectable.\n   2. Histopathological confirmation of the diagnosis can be done during surgery by means of intraoperative biopsy as per clinical practice.\n\n   No need of preoperative biopsy.\n3. Participants previously treated with chemotherapy will be eligible if they have not had documented progressive disease during treatment.\n4. Participants must have radiographically measurable disease; measurable disease is defined as the presence of at least one lesion obtained by a validate imaging technique (i.e., magnetic resonance imaging (MRI), computed tomography (CT) scan, PET scan, ultrasounds or others) that can be accurately measured.\n5. Participants should have surgically removable lesion/s for what they will be submitted to a pancreatoduodenectomy.\n6. Normal renal function as defined by biochemical parameters as follows: creatinine ≤2 mg/dl or creatinine clearance ≥ 60 ml/min/1.73 m2.\n7. Haematological and cardiac function as defined by biochemical and haematological parameters as follows: haemoglobin (Hb) ≥10 g/dL (with preoperative transfusion), platelets ≥80.000/mm3 with intraoperative transfusion, white blood cells (WBC) ≥3.000/mm3, neutrophil count ≥1.500/mm3.\n8. Liver function as defined by biochemical parameters as follows: alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 4 times the upper limit of normality \\[ULN\\]. Recommended serum bilirubin for eligibility is bilirubin ≤ 10 mg/dl (or equivalent value in μmol/L units). Preoperative biliary drainage to be done according to regular practice in each center. Patients in whom preoperative biliary drainage cannot be performed or biliary drainage was not completely effective, individualized decision to be made when bilirubin is ≥ 10 mg/dl (or equivalent value in μmol/L units).\n9. Participants must have fully recovered from the acute toxic effects (Grade 3 or above) of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this trial.\n10. Neoadjuvant chemotherapy is allowed in borderline and/or locally advanced cases borderline completed at least 4 weeks before surgery.\n11. Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1.\n12. Female subjects of childbearing potential must have a negative urine beta-human chorionic gonadotropin (beta-hCG) pregnancy test at time of screening.\n13. Men and women of childbearing potential must be willing to use adequate contraception throughout the study and for 6 months after surgery.\n14. The participant or a legally authorized guardian must acknowledge in writing that consent to become a study subject has been obtained prior to any protocol screening procedures.\n\nExclusion Criteria:\n\n1. Other malignancies within past 2 years.\n2. R2 resections (macroscopic disease remains after surgery).\n3. Patients with homozygous UGT1A1 known to be at risk of increased toxicity with irinotecan and SN-38.\n4. Active bacterial, viral or fungal infection.\n5. Known history of active human immunodeficiency virus (HIV) infection, hepatitis B, hepatitis C or chronic liver disease. Testing is not required in the absence of clinical findings or suspicion.\n6. Impossibility of ensuring adequate follow-up.\n7. Participants who, in the opinion of the investigator, may not be able to comply with the safety monitoring requirements of the study.\n8. Contraindication to computed tomography scan (CT).\n9. Major surgery within 14 days prior to starting study drug or still in recovery after experiencing surgical complications; neither tumour biopsy nor central line insertion are considered a major surgery.\n10. Other relevant concomitant illnesses.\n11. Participants' status post-allogeneic stem cell transplant are not eligible.\n12. Participants with disease of any major organ system that would compromise their ability to withstand therapy.\n13. Pregnancy or lactation. Pregnant women are excluded from this study; if the patient is a lactating mother, breastfeeding should be discontinued.",
+  "enrollment": 39,
+  "has_results": false,
+  "interventions": [
+   "Standard surgery",
+   "CEB-01"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "Spain"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT06538857",
+  "phase": "EARLY_PHASE1",
+  "primary_completion_date": "2028-09",
+  "sex": "ALL",
+  "sponsor": "CEBIOTEX",
+  "start_date": "2024-08-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

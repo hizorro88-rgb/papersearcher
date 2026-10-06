@@ -1,0 +1,99 @@
+{
+ "abstract": "The worldwide incidence of hepatobiliary and pancreatic (HPB) cancers is dramatically increasing especially for pancreatic cancer. Increasing age is associated with increased cancer risk. In North America and Europe, most people who are diagnosed with cancer every year are aged 65 years or older. Hepatectomy for hepatocellular carcinoma, intra hepatic and hilar cholangiocarcinoma, gallbladder cancer and hepatic metastases from colorectal cancer allows better survival compared to other treatments. Similarly, pancreaticoduodenectomy (PD) is the standard of care in patients with distal cholangiocarcinoma and patients with resectable pancreatic adenocarcinoma located in the head of the pancreas. This results in an increasing number of elderly patients being evaluated for hepatic and pancreatic surgery. Major hepatectomy and PD are amongst the most invasive and complex procedures in general surgery with high rates of morbidity as well as negative impact on quality of life. Many studies have reported poor post-surgical outcomes in the elderly patients, especially related to co-morbidities that characterizes this population such as, polypharmacy, cognitive decline, depression and malnutrition. The age in elderly cancer patient is not just a number. The management of these patients should not be limited to oncological care, but it should be extended to different clinical domains including physical, cognitive, psychological, socioeconomic and environmental aspects. In this population, the risk of adverse postoperative outcomes is not adequately described by routine format of current preoperative evaluation, such as age, comorbidities and other traditional tests. Furthermore, the Comprehensive Geriatric Assessment (CGA) is scarcely considered. The aim of CGA is to identify current health problems and to guide interventions thus reducing adverse outcomes and optimizing the functional status of older adults. Several trials have indeed shown that CGA and perioperative tailored interventions reduce morbidity and improve patient survival in other surgical disciplines. Similar data is lacking in both hepatic and pancreatic surgery.\n\nThe hypothesis is that CGA with perioperative tailored interventions could reduce postoperative morbidity in elderly patients after major hepatectomy and pancreaticoduodenectomy for cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06999512",
+ "importance": 0.86,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06999512"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2025-05-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Assistance Publique - Hôpitaux de Paris",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06999512"
+ },
+ "summary_ko": "The worldwide incidence of hepatobiliary and pancreatic (HPB) cancers is dramatically increasing especially for pancreatic cancer. Increasing age is associated with increased cancer risk.",
+ "summary_source": "excerpt",
+ "tags": [
+  "patient over 70 years",
+  "hepatocellular carcinoma",
+  "intra-hepatic and peri-hilar cholangiocarcinoma",
+  "gallbladder cancer",
+  "peri-ampullary malignant tumors",
+  "pancreatic adenocarcinoma",
+  "colorectal liver metastases",
+  "Major Hepatectomy",
+  "Pancreaticoduodenectomy"
+ ],
+ "title": "Impact of Comprehensive Geriatric Management on Morbidity and Quality of Life in Elderly Patients Undergoing Major Hepatectomy and Pancreaticoduodenectomy for Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Hepatobiliary Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "gabriella.pittau@aphp.fr",
+    "name": "Gabriella PITTAU, PhD",
+    "phone": "+33145596501"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients ≥ 70 years, with histologically proven or clinical diagnosis of HPB cancer among the following:\n* hepatocellular carcinoma\n* intra-hepatic and peri-hilar cholangiocarcinoma\n* gallbladder cancer\n* peri-ampullary malignant tumors\n* pancreatic adenocarcinoma\n* colorectal liver metastases\n* Needing one of the following procedures:\n* Pancreaticoduodenectomy\n* Major Hepatectomy (≥ 3 hepatic segments)\n\nExclusion Criteria:\n\n* Patients who have no access to the French health system.\n* Patient unable to sign informed consent.\n* Patients included in a double-blind randomized trial\n* Patients legally protected",
+  "enrollment": 526,
+  "has_results": false,
+  "interventions": [
+   "Comprehensive Geriatric Assessment"
+  ],
+  "last_update_posted": "2025-05-31",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "70 Years",
+  "n_locations": 12,
+  "nct_id": "NCT06999512",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2030-04",
+  "sex": "ALL",
+  "sponsor": "Assistance Publique - Hôpitaux de Paris",
+  "start_date": "2025-09",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

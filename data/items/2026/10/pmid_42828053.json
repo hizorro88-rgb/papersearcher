@@ -1,0 +1,52 @@
+{
+ "abstract": "Inadequate targeting, short-lived therapeutic exposure, drug resistance, and toxicities limit effective cancer treatments. We developed a strategy that redirects an evolutionarily optimized clotting cascade to achieve selective, sustained drug deposition within solid tumors. A vascular disrupting agent induces tumor-specific endothelial injury, activating platelets and exposing fibrinogen-binding sites. Systemically administered fibrinogen-drug nanoparticles (FDNs) bind activated platelets with multivalent avidity, amplify thrombus formation, and become immobilized within tumor vessels, creating an intratumoral drug depot that maintains drug concentrations far above cytotoxic levels for over 10 days. A single 20 min treatment induced durable complete remissions in most mice bearing subcutaneous triple-negative breast or pancreatic tumors. This novel vascular-targeted approach enhances selective intratumoral drug localization through multivalent platelet binding, embolization, and sustained drug release to combat refractory cancers.",
+ "authors": [
+  "Razavi R",
+  "O'Connor M",
+  "Hainfeld JF"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42828053",
+ "importance": 0.46,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1021/acsptsci.6c00337",
+  "nct": [],
+  "pmcid": "PMC13632883",
+  "pmid": "42828053"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-21",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Pharmacol Transl Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42828053/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Fibrinogen-Drug Nanoparticles Achieve Durable Responses in Pancreatic and Breast Cancer Murine Models",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

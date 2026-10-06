@@ -1,0 +1,115 @@
+site_name: 췌장암 정보 위키
+site_description: 췌장암 신약·임상시험·수술·치료 관련 논문과 소식을 매일 자동 수집해 한국어로 정리합니다.
+site_url: https://hizorro88-rgb.github.io/papersearcher/
+repo_url: https://github.com/hizorro88-rgb/papersearcher
+repo_name: hizorro88-rgb/papersearcher
+edit_uri: edit/main/docs/
+copyright: 이 사이트의 정보는 의료 조언이 아닙니다. 치료 결정은 담당 의료진과 상의하세요.
+
+theme:
+  name: material
+  language: ko
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: 다크 모드
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: 라이트 모드
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+
+extra:
+  # giscus 설정: docs/SETUP.md 참고. repo_id / category_id를 채우면 댓글이 켜진다.
+  giscus:
+    repo: hizorro88-rgb/papersearcher
+    repo_id: ""
+    category: Comments
+    category_id: ""
+  sponsor_url: https://github.com/sponsors/hizorro88-rgb
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hizorro88-rgb/papersearcher
+    - icon: material/rss
+      link: https://hizorro88-rgb.github.io/papersearcher/_generated/feed.xml
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: docs
+      check_paths: false
+
+plugins:
+  - search:
+      lang: [ko, en]
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+nav:
+  - 홈: index.md
+  - 날짜별: _generated/daily/index.md
+  - 카테고리:
+      - 신약·치료제: _generated/categories/drug.md
+      - 임상시험: _generated/categories/trial.md
+      - 수술: _generated/categories/surgery.md
+      - 치료 전반: _generated/categories/treatment.md
+      - 진단·조기발견: _generated/categories/diagnosis.md
+      - 지지요법·삶의질: _generated/categories/supportive.md
+      - 제약사·규제: _generated/categories/industry.md
+      - 기초연구: _generated/categories/basic.md
+  - 임상시험:
+      - 임상시험 목록: _generated/trials/index.md
+      - 참여 방법 안내: guides/trials/how-to-apply.md
+      - 임상시험 용어: guides/trials/glossary.md
+  - 주제별: _generated/topics/index.md
+  - 응급 가이드:
+      - guides/emergency/index.md
+      - 항암 중 발열: guides/emergency/fever-neutropenia.md
+      - 황달·담관염·스텐트: guides/emergency/jaundice-cholangitis.md
+      - 출혈: guides/emergency/bleeding.md
+      - 장폐색·구토: guides/emergency/bowel-obstruction.md
+      - 통증 악화: guides/emergency/pain-crisis.md
+      - 혈전·호흡곤란: guides/emergency/thrombosis.md
+      - 혈당 이상: guides/emergency/glucose.md
+      - 탈수·설사: guides/emergency/dehydration-diarrhea.md
+      - 병원 연락처: guides/emergency/hospital-contacts.md
+  - 소개:
+      - 이 사이트에 대해: about/index.md
+      - 수집 소스와 방법: about/sources.md
+      - 수집 현황: _generated/status.md
+      - 면책 고지: about/disclaimer.md
+      - 기여·수정 요청: about/contributing.md
+      - 후원하기: about/sponsor.md

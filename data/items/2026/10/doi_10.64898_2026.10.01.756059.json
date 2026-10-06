@@ -1,0 +1,57 @@
+{
+ "abstract": "Treatments for pancreatic ductal adenocarcinoma (PDAC) often fail because of the cancer's ability to adapt its signaling and metabolic pathways to circumvent treatment mechanisms. PDAC hallmarks that promote treatment resistance (increased fatty acid metabolism, survival signaling, desmoplasia, and macropinocytosis) are extensively regulated by heparan sulfate proteoglycans (HSPGs) and their binding partners. The pro-tumor functions of HSPGs are controlled by site-specific cleavage of their heparan sulfate chains by mammalian heparanase; however, cleavage by bacterial heparinase III (HepIII) represses these functions and prevents downstream, pro-tumor signaling. Using tumor-targeting, attenuated Salmonella typhimurium (strain YS1646), we have limited HepIII transgene expression to tumor tissue. Degradation of tumor cell heparan sulfates by HepIII resulted in decreased macropinocytosis, reduced survival signaling, lipid storage depletion, and decreased expression of translational machinery. This tumor-targeting treatment has the potential to improve the efficacy of several approved pancreatic cancer therapies, which is predicted to increase patient survival.",
+ "authors": [
+  "Ebelt ND",
+  "Loganathan S",
+  "Avsharian LC",
+  "Dabrowska K",
+  "Hansen N",
+  "PATHAK KV",
+  "Pirrotte P",
+  "Manuel ER."
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.01.756059",
+ "importance": 0.61,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.64898/2026.10.01.756059",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1334450"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Precision Targeting of Heparan Sulfate Proteoglycans Broadly Dysregulates Survival Signaling and Metabolic Adaptation in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

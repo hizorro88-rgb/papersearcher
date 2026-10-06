@@ -1,0 +1,104 @@
+{
+ "abstract": "This Phase I/II clinical trial is being conducted at multiple centers to find out whether adding a low dose of EGFR blocking drugs to the standard chemotherapy combination of gemcitabine and nab paclitaxel (GnP) is safe, tolerable, and helpful for people with advanced pancreatic cancer. All participants are first tested with a tool called PurIST, which classifies tumors as either \"basal-like\" or \"classical.\" People with basal-like tumors will receive GnP plus erlotinib during Phase I so researchers can determine the safest and most effective dose. Once that dose is identified, the study moves to Phase II, where people with basal-like tumors will be randomly assigned to receive either GnP alone or GnP with erlotinib. Phase II may also test new drug combinations if new treatments become approved during the study period. Overall, the trial plans to include up to about 52 basal-like patients in Phase I, roughly 82 basal-like patients in Phase II, and at least 52 classical patients, with the possibility of enrolling more if needed. People whose tumors are classified as classical will continue with standard treatments recommended by their doctors or other clinical trials. Across the entire study, researchers will carefully track long-term outcomes such as overall survival, how long patients live before the cancer progresses, and how well their tumors respond to treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06483555",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06483555"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-07-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "UNC Lineberger Comprehensive Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06483555"
+ },
+ "summary_ko": "This Phase I/II clinical trial is being conducted at multiple centers to find out whether adding a low dose of EGFR blocking drugs to the standard chemotherapy combination of gemcitabine and nab paclitaxel (GnP) is safe, tolerable, and helpful for people with advanced pancreatic cancer. All participants are first tested with a tool called PurIST, which classifies tumors as either \"basal-like\" or \"classical.\" People with basal-like tumors will receive GnP plus erlotinib during Phase I so research…",
+ "summary_source": "excerpt",
+ "tags": [
+  "safety",
+  "tolerability",
+  "efficacy",
+  "EGFR inhibitors",
+  "gemcitabine",
+  "nab-paclitaxel"
+ ],
+ "title": "Basal-like PDAC Treated With Gemcitabine, Erlotinib, and Nab-paclitaxel",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma",
+   "Metastatic Pancreatic Cancer",
+   "Basal Cell Neoplasm"
+  ],
+  "contacts": [
+   {
+    "email": "catherine_griffin@med.unc.edu",
+    "name": "Catherine A Griffin",
+    "phone": "1 984-974-8771"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent was obtained to participate in the study and HIPAA authorization for release of personal health information. Subjects is willing and able to comply with study procedures based on the judgment of the investigator.\n* Age ≥ 18 years at the time of consent.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1 Histological or cytological evidence/confirmation of unresectable, borderline resectable, or metastatic (basal-like and classical) pancreatic adenocarcinoma.\n* The subject must consent to a mandatory pre-study biopsy if archival tissue is not available or sufficient.\n* Subjects may have received prior standard-of-care (SOC) neoadjuvant therapy and may have received up to two cycles of first-line FOLFIRINOX or NALIRIFOX.\n* A subject with prior brain metastasis may be considered if they have completed their treatment for brain metastasis at least 4 weeks prior to study treatment have been off of corticosteroids for ≥ 2 weeks and are asymptomatic.\n\nExclusion Criteria:\n\n* Disease is not measurable according to Response Evaluation Criteria In Solid Tumors Criteria (RECIST) v1.1\n* Not having histological or cytological evidence/confirmation of metastatic pancreatic adenocarcinoma.\n* Treatment with any investigational drug or prior cancer treatment within 28 days prior to study treatment",
+  "enrollment": 104,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine",
+   "Nab paclitaxel",
+   "Erlotinib",
+   "NALIRIFOX",
+   "Folfirinox"
+  ],
+  "last_update_posted": "2026-04-23",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06483555",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-08",
+  "sex": "ALL",
+  "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+  "start_date": "2025-02-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

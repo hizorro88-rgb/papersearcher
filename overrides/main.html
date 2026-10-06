@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  <a class="ps-emergency" href="{{ 'guides/emergency/' | url }}">🚨 응급 상황 대처 가이드 — 열, 황달, 출혈, 심한 통증이면 먼저 확인하세요 (응급 시 119)</a>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+  {% if page.meta.comments %}
+    {% if config.extra.giscus.repo_id and config.extra.giscus.category_id %}
+    <h2 id="comments">의견 나누기</h2>
+    <p><small>댓글은 GitHub Discussions에 저장됩니다. GitHub 계정으로 로그인하면 댓글을 남길 수 있습니다.</small></p>
+    <script src="https://giscus.app/client.js"
+      data-repo="{{ config.extra.giscus.repo }}"
+      data-repo-id="{{ config.extra.giscus.repo_id }}"
+      data-category="{{ config.extra.giscus.category }}"
+      data-category-id="{{ config.extra.giscus.category_id }}"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="preferred_color_scheme"
+      data-lang="ko"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async>
+    </script>
+    <script>
+      var giscus = document.querySelector("script[src*=giscus]")
+      document.addEventListener("DOMContentLoaded", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+          giscus.setAttribute("data-theme", theme)
+        }
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function() {
+          var palette = __md_get("__palette")
+          if (palette && typeof palette.color === "object") {
+            var theme = palette.color.scheme === "slate" ? "dark" : "light"
+            var frame = document.querySelector(".giscus-frame")
+            frame.contentWindow.postMessage({ giscus: { setConfig: { theme } } }, "https://giscus.app")
+          }
+        })
+      })
+    </script>
+    {% else %}
+    <p><small>댓글 기능은 아직 설정 전입니다 (관리자: docs/SETUP.md의 giscus 항목 참고). 의견은 <a href="https://github.com/hizorro88-rgb/papersearcher/discussions">GitHub Discussions</a>에 남겨 주세요.</small></p>
+    {% endif %}
+  {% endif %}
+{% endblock %}

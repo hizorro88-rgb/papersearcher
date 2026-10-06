@@ -1,0 +1,101 @@
+{
+ "abstract": "The third generation of GPC3/mesothelin targeted CAR-γδT cells have been constructed and their anti-cancer function has been verified by multiple in vitro and in vivo studies. Clinical studies will be performed to test anti-cancer function of the CAR-γδT cells for immunotherapy of human cancer patients with GPC3 or Mesothelin expressions. In this phase I study, the safety, tolerance, and preliminary efficacy of the GPC3/Mesothelin-CAR-γδT cell immunotherapy on human cancers will firstly be evaluated.\n\n1. Choose appropriate patients with advanced solid cancers, with written consent for this study;\n2. Perform biopsy to determine the expression of GPC3 or Mesothelin of the tumors by western blotting or IHC;\n3. Collect blood from the patients and isolate mononuclear cells, select and grow γδT cells and transfect the γδT cells with GPC3 or Mesothelin targeting CAR, amplify the transfected γδT cells as needed, test the quality and killing activity of the CAR-γδT cells and then transfer them back the patients via systemic or local injections, and follow up closely to collect related results as required;\n4. To enhance the killing capability, cotreatment the patients with PD1/PDL1/CTLA4 antibodies may be applied;\n5. Evaluate the clinical results as needed.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06196294",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06196294"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-01-09",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Second Affiliated Hospital of Guangzhou Medical University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06196294"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Solid Tumor",
+  "CAR-γδT",
+  "γδT",
+  "GPC3",
+  "Mesothelin"
+ ],
+ "title": "GPC3/Mesothelin-CAR-γδT Cells Against Cancers",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Lung Cancer",
+   "Liver Cancer",
+   "Mesothelioma",
+   "CAR-T Cell Therapy",
+   "Solid Tumor, Adult"
+  ],
+  "contacts": [
+   {
+    "email": "zhangzhf@gzhmu.edu.cn",
+    "name": "Zhenfeng Zhang, MD, PhD",
+    "phone": "0086-020-39195965"
+   },
+   {
+    "email": "464677938@qq.com",
+    "name": "Bingjia He, MD",
+    "phone": "+862039195965"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1\\. Patients with advanced cancer that expresses GPC3 or Mesothelin protein; 2. Life expectancy \\>12 weeks; 3. Adequate heart, lung, liver, kidney, and blood function; 4. Available autologous transduced T cells with greater than or equal to 20% expression of GPC3/Mesothelin-CAR determined by flow-cytometry and killing of Mesothelin-positive targets greater than or equal to 20% in cytotoxicity assay; 5. Informed consent explained to, understood by and signed by patient/guardian. Patient/guardian given copy of informed consent.\n\n\\-\n\nExclusion Criteria:\n\n1. Had accepted gene therapy before;\n2. Severe virus infection such as HBV, HCV, HIV, et al;\n3. Known HIV positivity;\n4. Active infectious disease related to bacteria, virus,fungi,et al;\n5. Other severe diseases that the investigators consider not appropriate;\n6. Pregnant or lactating women;\n7. Systemic steroid treatment (greater than or equal to 0.5 mg prednisone equivalent/kg/day);\n8. Other conditions that the investigators consider not appropriate. -",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Cell therapy for solid tumors"
+  ],
+  "last_update_posted": "2024-06-26",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06196294",
+  "phase": "PHASE1",
+  "primary_completion_date": "2030-11-30",
+  "sex": "ALL",
+  "sponsor": "Second Affiliated Hospital of Guangzhou Medical University",
+  "start_date": "2024-05-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

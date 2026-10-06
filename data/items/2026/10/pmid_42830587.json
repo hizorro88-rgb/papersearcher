@@ -1,0 +1,61 @@
+{
+ "abstract": "Unexpected vascular lesions may complicate standard laparoscopic pancreatic procedures. We report a case of mucinous cystic neoplasm (MCN) treated with laparoscopic spleen-preserving distal pancreatectomy (LSPDP) in which unrecognized immunoglobulin G4 (IgG4)-related periarteritis of the splenic artery caused difficulty during vascular division. A 76-year-old woman underwent LSPDP for MCN. Preoperative computed tomography demonstrated circumferential soft-tissue thickening along the splenic artery. Intraoperatively, the splenic artery was deeply embedded within the pancreatic parenchyma, making the Kimura technique impractical; therefore, the Warshaw technique was selected. However, the splenic artery demonstrated marked circumferential wall thickening, precluding safe division with ligation or clipping alone. The artery was ultimately divided using a vascular stapler. Histopathological examination revealed low-grade MCN and IgG4-related periarteritis involving the splenic artery. This case highlights that IgG4-related periarteritis should be considered when unexplained perivascular soft-tissue thickening is identified preoperatively, as it may significantly alter intraoperative strategy during LSPDP.",
+ "authors": [
+  "Lee D",
+  "Nanno Y",
+  "Ishida J",
+  "Mizumoto T",
+  "Ueda Y",
+  "Nakamura H",
+  "Okawa T",
+  "Hamano K"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42830587",
+ "importance": 0.5,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1111/ases.70387",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42830587"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Asian J Endosc Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42830587/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Laparoscopic Spleen-Preserving Distal Pancreatectomy for Mucinous Cystic Neoplasm With Unexpected Immunoglobulin G4-Related Periarteritis of the Splenic Artery: A Case Report",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

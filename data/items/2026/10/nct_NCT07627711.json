@@ -1,0 +1,102 @@
+{
+ "abstract": "This example study evaluates the safety, tolerability, and preliminary anti-tumor activity of investigational, dual-targeting chimeric antigen receptor natural killer (CAR-NK) cell products for patients with advanced pancreatic ductal adenocarcinoma (PDAC). Participants are assigned to one of two biomarker-defined cohorts based on tumor antigen expression: (A) Mesothelin (MSLN) and/or MUC1, or (B) Claudin 18.2 (CLDN18.2) and/or MUC1. The study uses a dose-escalation followed by dose-expansion design to define a recommended Phase 2 dose (RP2D) and to estimate response rates in each cohort.\n\n* Rationale: PDAC is characterized by aggressive biology, antigen heterogeneity, and an immunosuppressive tumor microenvironment. Dual-targeting CAR designs aim to reduce antigen-escape by enabling recognition of either target antigen on tumor cells.\n* Investigational products: Two off-the-shelf (allogeneic) CAR-NK products are evaluated. EB-DNK101 targets MSLN and MUC1. EB-DNK102 targets CLDN18.2 and MUC1. Both products are engineered to enhance persistence and incorporate an inducible safety switch .\n* Target assessment and cohort assignment: Tumor tissue (archival or fresh biopsy) is tested centrally by immunohistochemistry (IHC) for MSLN, MUC1, and CLDN18.2. Participants are assigned to Arm A (MSLN/MUC1) or Arm B (CLDN18.2/MUC1) based on predefined positivity thresholds. If more than one cohort is eligible, assignment prioritizes the strongest antigen expression and product availability.\n* Conditioning and administration: Participants receive lymphodepleting chemotherapy followed by intravenous infusion of the assigned CAR-NK product.\n\nRepeat infusions (up to 3 total) may be permitted in the absence of prohibitive toxicity and with at least stable disease. Safety monitoring: Participants are monitored closely for cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), infusion reactions, and other adverse events.\n\nDose-limiting toxicities (DLTs) are assessed during the first 28 days after first infusion.\n\n* Efficacy and biomarker assessments: Tumor response is assessed by imaging (RECIST v1.1) at regular intervals (every 8 weeks). Exploratory endpoints include CAR-NK expansion/persistence, cytokine profiling, and association of antigen density with response.\n* Target down-selection plan: After completion of Part 1 and an initial subset of Part 2 expansion participants, an internal scientific review compares antigen prevalence, manufacturability, safety, and preliminary activity across cohorts to prioritize the lead dual-target construct for subsequent confirmatory development.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07627711",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07627711"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-06-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Beijing Biotech",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07627711"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Pancreatic cancer",
+  "PDAC",
+  "CAR-NK",
+  "Natural killer cells",
+  "Mesothelin",
+  "MSLN",
+  "MUC1",
+  "Claudin 18.2",
+  "CLDN18.2",
+  "Adoptive cell therapy"
+ ],
+ "title": "Dual-Target CAR-NK Cells Targeting Mesothelin (MSLN) and MUC1 in Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Unresectable Locally Advanced",
+   "Metastatic Disease"
+  ],
+  "contacts": [
+   {
+    "email": "Seni-Lu@beijing-biotech.com",
+    "name": "Seni S Lu, Phd",
+    "phone": "+86 13076790030"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age 18 to 75 years at the time of consent.\n* Histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC).\n* Unresectable locally advanced or metastatic disease with progression after at least 1 prior standard systemic therapy regimen, or intolerance/ineligibility for standard therapy.\n* At least 1 measurable lesion per RECIST v1.1.\n* Tumor antigen expression by central IHC (archival or fresh biopsy): • Arm A eligibility: MSLN positive and/or MUC1 positive. • Arm B eligibility: CLDN18.2 positive and/or MUC1 positive. (Example threshold: IHC 2+ or 3+ staining in \\>=50% of tumor cells, or H-score above protocol-defined cutoff.)\n* ECOG performance status 0-1.\n* Adequate organ function (example): ANC \\>= 1.0 x 10\\^9/L; platelets \\>= 75 x 10\\^9/L; hemoglobin \\>= 8 g/dL; AST/ALT \\<= 3x ULN (\\<= 5x ULN with liver metastases); total bilirubin \\<= 1.5x ULN; creatinine clearance \\>= 50 mL/min.\n* Life expectancy \\>= 12 weeks.\n* Negative pregnancy test for individuals of childbearing potential; agreement to use effective contraception during study participation and for a protocol-defined follow-up period.\n* Ability to understand and willingness to sign written informed consent.\n\nExclusion Criteria:\n\n* Active or untreated CNS metastases or carcinomatous meningitis.\n* Clinically significant uncontrolled infection (including uncontrolled bacterial, fungal, or viral infection).\n* Known active hepatitis B or hepatitis C with detectable viral load; known uncontrolled HIV infection.\n* Prior allogeneic hematopoietic stem cell transplant or solid organ transplant.\n* Prior gene-modified cellular therapy (e.g., CAR-T/CAR-NK) within 6 months or prior therapy targeting the same antigen(s) Ongoing requirement for systemic immunosuppressive therapy (e.g., chronic corticosteroids above physiologic replacement).\n* Clinically significant cardiovascular disease (e.g., recent myocardial infarction, uncontrolled arrhythmia, or NYHA class III/IV heart failure) within a protocol-defined period.\n* Active autoimmune disease requiring systemic treatment in the past 2 years (replacement therapy allowed).\n* Pregnant or breastfeeding.\n* Any medical, psychiatric, or social condition that, in the investigator's opinion, would interfere with safe participation or interpretation of results.",
+  "enrollment": 42,
+  "has_results": false,
+  "interventions": [
+   "EB-DNK101 dual-targeting CAR-NK cells (MSLN + MUC1)",
+   "EB-DNK102 dual-targeting CAR-NK cells (CLDN18.2 + MUC1)",
+   "Lymphodepleting chemotherapy (Flu/Cy)"
+  ],
+  "last_update_posted": "2026-06-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07627711",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-04-14",
+  "sex": "ALL",
+  "sponsor": "Beijing Biotech",
+  "start_date": "2026-03-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

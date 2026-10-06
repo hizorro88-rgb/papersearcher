@@ -1,0 +1,101 @@
+{
+ "abstract": "Cancer is a condition where cells in a specific part of body grow and reproduce uncontrollably. The purpose of this study is to assess adverse events, change in disease activity and pharmacokinetics of ABBV-253.\n\nABBV-253 is an investigational drug being developed for the treatment of advanced solid tumors. This open-label study consists of two parts. In Part 1 (ABBV-253 dose escalation), participants with any of the eligible cancer types will receive 1 of 4 (or more) doses of ABBV-253. Each cohort receives a higher dose, lower dose, or the same dose of ABBV-253 than the previous group. In Part 2 (ABBV-253 dose optimization), a new group of participants with NSCLC will be randomly put into pre-determined dose groups to receive 1 of 3 doses of ABBV-253. Approximately 130 participants will be enrolled in the study at approximately 11 sites worldwide.\n\nParticipants will receive intravenous (IV) infusion of ABBV-253, as part of the 4 year study.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care due to study procedures. Participants will attend regular visits during the study at a hospital or clinic. The effects of the treatment will be checked by medical assessments, blood tests, checking for side effects and completing questionnaires.",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07807956",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07807956"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-09-08",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "AbbVie",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07807956"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Advanced Solid Tumors",
+  "Non-Small Cell Lung Cancer",
+  "Colorectal Cancer",
+  "Pancreatic Ductal Adenocarcinoma",
+  "Gastric Cancer",
+  "Gastroesophageal Junction Adenocarcinoma",
+  "Biliary Tract Cancer",
+  "Head and Neck Squamous Cell Carcinoma",
+  "Ovarian Cancer",
+  "ABBV-253"
+ ],
+ "title": "A Study to Assess Adverse Events, Change in Disease Activity and How Intravenous ABBV-253 Moves Through the Body in Adult Participants With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumors",
+   "Non-Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Gastric Cancer",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Biliary Tract Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Ovarian Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "abbvieclinicaltrials@abbvie.com",
+    "name": "ABBVIE CALL CENTER",
+    "phone": "844-663-3742"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Part 1 monotherapy dose escalation only: Participants with a diagnosis of a malignant solid tumor by histology (WHO criteria), including, but not limited to non-small cell lung cancer (NSCLC), colorectal cancer (CRC), head and neck squamous cell carcinoma (HNSCC), PDAC, gastroesophageal adenocarcinoma (GEA), ovarian cancer (OC), and biliary tract cancer (BTC)\n* ECOG performance status of 0 or 1\n* Participants with evaluable and measurable disease per RECIST Version 1.1.\n\nExclusion Criteria:\n\n* History of other malignancies, with the following exceptions:\n\n  * No known active disease present within 3 years prior to first dose of study treatment and felt to be at low risk of recurrence by the treating investigator.\n  * Adequately treated in situ carcinoma without evidence of disease.\n  * Basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin without evidence of disease.\n* Participants with ovarian cancer with histologies other than high grade serous ovarian cancer including endometrioid, low grade, clear cell, mucinous, or borderline ovarian tumor.\n* Untreated brain or meningeal metastases (i.e., subjects with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy).\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids or any evidence of ILD or pneumonitis on Screening chest CT scan.",
+  "enrollment": 130,
+  "has_results": false,
+  "interventions": [
+   "ABBV-253"
+  ],
+  "last_update_posted": "2026-09-08",
+  "location_countries": [],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07807956",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-12",
+  "sex": "ALL",
+  "sponsor": "AbbVie",
+  "start_date": "2026-09-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

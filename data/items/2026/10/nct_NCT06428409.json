@@ -1,0 +1,132 @@
+{
+ "abstract": "Researchers want to learn if sacituzumab tirumotecan (MK-2870) alone or with other treatments can treat certain gastrointestinal (GI) cancers. The GI cancers being studied are either advanced (the cancer has spread to other parts of the body), or unresectable (the cancer cannot be removed with surgery). The goals of this study are to learn:\n\n* About the safety of sacituzumab tirumotecan alone or with other treatments and if people tolerate it\n* How many people have the cancer respond (get smaller or go away) to treatment",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06428409",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06428409"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-05-24",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Merck Sharp & Dohme LLC",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06428409"
+ },
+ "summary_ko": "Researchers want to learn if sacituzumab tirumotecan (MK-2870) alone or with other treatments can treat certain gastrointestinal (GI) cancers. The GI cancers being studied are either advanced (the cancer has spread to other parts of the body), or unresectable (the cancer cannot be removed with surgery).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Clinical Study of MK-2870 Alone or With Other Treatments to Treat Gastrointestinal Cancers (MK-9999-02A)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Colorectal Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Biliary Tract Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "Trialsites@msd.com",
+    "name": "Toll Free Number",
+    "phone": "1-888-577-8839"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nThe main inclusion criteria include but are not limited to the following:\n\n* Has one of the following cancers:\n\n  * Unresectable or metastatic colorectal cancer and has received prior therapy for the cancer\n  * Advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) and has received prior therapy for the cancer\n  * Advanced and/or unresectable biliary tract cancer (BTC) and has received prior therapy for the cancer\n  * Advanced and/or unresectable BTC and has not received prior therapy for the cancer\n* For participants who have received prior therapy for cancer: Has recovered from any side effects due to previous cancer treatment\n\nExclusion Criteria:\n\nThe main exclusion criteria include but are not limited to the following:\n\n* History of severe eye disease\n* For participants who have received prior therapy for cancer: Received prior systemic anticancer therapy including investigational agents within 4 weeks before starting study intervention\n* History of (noninfectious) pneumonitis/interstitial lung disease (ILD) that required steroids, has current pneumonitis/ILD, or has suspected ILD or pneumonitis that cannot be ruled out by standard diagnostic assessments at Screening",
+  "enrollment": 220,
+  "has_results": false,
+  "interventions": [
+   "Sacituzumab tirumotecan",
+   "Fluorouracil (5-FU)",
+   "Leucovorin (LV) or levoleucovorin",
+   "Rescue medication",
+   "Supportive care measures",
+   "Cisplatin",
+   "Pembrolizumab"
+  ],
+  "last_update_posted": "2026-10-06",
+  "location_countries": [
+   "Australia",
+   "Canada",
+   "Chile",
+   "China",
+   "Italy",
+   "Japan",
+   "South Korea",
+   "Spain",
+   "Switzerland",
+   "Taiwan",
+   "Turkey (Türkiye)",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital ( Site 0161)",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital, Yonsei University Health System ( Site 0164)",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center ( Site 0163)",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center ( Site 0162)",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 55,
+  "nct_id": "NCT06428409",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-10-16",
+  "sex": "ALL",
+  "sponsor": "Merck Sharp & Dohme LLC",
+  "start_date": "2024-06-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

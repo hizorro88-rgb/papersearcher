@@ -1,0 +1,86 @@
+{
+ "abstract": "A first-in-human open-label, Phase I/II study to evaluate the safety, tolerability, MTD/RP2D, PK, and preliminary efficacy of AST-001 administered as a single agent.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06245330",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06245330"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2024-02-07",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ascentawits Pharmaceuticals, Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06245330"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "A Phase I/II Study of AST-001 in Subjects With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "claire.hao@ascentawitspharm.com",
+    "name": "Claire Hao",
+    "phone": "(0086)13207649065"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "* phase I: dose escalation phase\n\nInclusion Criteria:\n\n1. Patient has ability to understand the risks of the study and is willing to comply with the protocol and has signed a written informed consent.\n2. Aged 18-70 years (inclusive), males and females.\n3. Histologically or cytologically confirmed solid malignancy that is metastatic or unresectable and for which standard curative do not exist or are no longer effective.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n5. Expected life expectancy ≥ 12 weeks\n6. Recovered from toxicities of prior therapy to Grade 0 or 1\n7. An adequate renal, liver and bone marrow function.\n\nExclusion Criteria:\n\n1. History of another primary malignancy within 2 years prior to Day 1, except for adequately treated basaloma, in situ cancer, or other cancers whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the current study.\n2. Major surgery, other than diagnostic surgery, within 4 weeks prior to Day 1.\n3. Treatment with radiation therapy, chemotherapy, biotherapy, targeted therapies or hormones within 4 weeks prior to Day 1.\n4. Receiving investigational therapy within 4 weeks prior to Day 1.\n5. Concomitant use of repaglinide, medium/strong CYP2C8/CYP2B6/ CYP2C9 inhibitors/inducers.\n6. Pleural effusion or ascites which need to be drained every other week or more frequently.\n7. HBV infection and HBV-DNA ≥ 2,000 IU/mL\n8. Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy.\n9. History of human immunodeficiency virus (HIV) infection or syphilis infection.\n10. History of cardiac disease fits any of the following conditions：\n\n    1. NYHA III or IV CHF；\n    2. QTcF : male \\> 450ms，female \\> 470ms；\n    3. Myocardial infarction, bypass surgery, stent surgery within 6 months prior to Day 1；\n    4. Other cardiac disease that the investigator judged unsuitable for inclusion.\n11. Females who are pregnant or breast-feeding\n12. Concomitant disease or condition that could interfere with the conduct of the study, or that would, in the opinion of the investigator, pose an unacceptable risk to the subject in this study\n13. Previously allergic to ethanol, polyoxyethylene (35) castor oil, N, N-dimethylacetamide.\n14. Unwillingness or inability to comply with the study protocol for any reason\n\n    * phase II: pancreatic cancer\n\nInclusion Criteria:\n\n1. Patient has ability to understand the risks of the study and is willing to comply with the protocol and has signed a written informed consent.\n2. Aged 18-70 years (inclusive), males and females.\n3. Histologically or cytologically confirmed pancreatic cancer that is unresectable or cannot be controlled by local treatment and for which standard curative do not exist or are no longer effective.\n4. At least one measurable lesion that meets RECIST 1.1 criteria.\n5. Can provide pathological wax blocks or sections (including archived pathological wax blocks or sections) for AKR1C3 expression analysis and be confirmed that AKR1C3 expression is strongly positive.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n7. Expected life expectancy ≥ 12 weeks\n8. Recovered from toxicities of prior therapy to Grade 0 or 1\n9. An adequate renal, liver and bone marrow function.\n\nExclusion Criteria:\n\n1. History of another primary malignancy within 2 years prior to Day 1, except for adequately treated basaloma, in situ cancer, or other cancers whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the current study.\n2. Major surgery, other than diagnostic surgery, within 4 weeks prior to Day 1.\n3. Treatment with radiation therapy, chemotherapy, biotherapy, targeted therapies or hormones within 4 weeks prior to Day 1.\n4. Receiving investigational therapy within 4 weeks prior to Day 1.\n5. Concomitant use of repaglinide, medium/strong CYP2C8/CYP2B6/ CYP2C9 inhibitors/inducers.\n6. Pleural effusion or ascites which need to be drained every other week or more frequently.\n7. HBV infection and HBV-DNA ≥ 2,000 IU/mL\n8. Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy.\n9. History of human immunodeficiency virus (HIV) infection or syphilis infection.\n10. History of cardiac disease fits any of the following conditions：\n\n    1. NYHA III or IV CHF；\n    2. QTcF : male \\> 450ms，female \\> 470ms；\n    3. Myocardial infarction, bypass surgery, stent surgery within 6 months prior to Day 1；\n    4. Other cardiac disease that the investigator judged unsuitable for inclusion.\n11. Females who are pregnant or breast-feeding\n12. Concomitant disease or condition that could interfere with the conduct of the study, or that would, in the opinion of the investigator, pose an unacceptable risk to the subject in this study\n13. Previously allergic to ethanol, polyoxyethylene (35) castor oil, N, N-dimethylacetamide.\n14. Unwillingness or inability to comply with the study protocol for any reason",
+  "enrollment": 180,
+  "has_results": false,
+  "interventions": [
+   "AST-001"
+  ],
+  "last_update_posted": "2024-02-07",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06245330",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-08-31",
+  "sex": "ALL",
+  "sponsor": "Ascentawits Pharmaceuticals, Ltd",
+  "start_date": "2022-07-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

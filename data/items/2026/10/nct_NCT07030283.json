@@ -1,0 +1,101 @@
+{
+ "abstract": "This goal of this clinical trial is to learn whether the drug combination of intraperitoneal paclitaxel (chemotherapy given directly into the abdominal cavity) and intravenous NALIRIFOX (chemotherapy given into a vein, including fluorouracil, leucovorin, oxaliplatin, and liposomal irinotecan) is safe and works in adults with pancreatic cancer that has spread to the peritoneum.\n\nThe main questions it aims to answer are:\n\n* Are people with pancreatic cancer able to tolerate the combination drug regimen?\n* How well does the combination drug regimen work to treat pancreatic cancer?\n\nParticipants will:\n\n* Obtain a port that goes into the abdomen to deliver intraperitoneal paclitaxel (called an intraperitoneal catheter)\n* Receive treatment with intravenous NALIRIFOX once every 2 weeks and intraperitoneal paclitaxel on days 1 and 8 of each 14-day cycle\n* Visit the clinic with each treatment for checkups and laboratory testing\n* Have imaging scans and blood lab testing to determine response to treatment\n* Have abdominal fluid lab testing that may help determine if the cancer is responding to treatment\n* Fill out questionnaires to see how the treatment affects how participants feel and function\n* Continue follow up after treatment ends to track survival\n\nSome participants may be able to have surgery later if the cancer responds well. This is called conversion surgery. To be eligible for surgery, the cancer must have shrunk or stayed the same, peritoneal fluid (from the abdomen) must no longer show cancer cells, and a tumor marker called CA 19-9 must decrease or return to normal. The decision to do surgery will depend on the treating surgeon.\n\nBy testing this new treatment strategy, researchers hope to find a safer and more effective way to treat people with pancreatic cancer that has spread to the abdomen. If successful, this approach may lead to longer survival, better quality of life, and more people becoming eligible for surgery.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07030283",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07030283"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-06-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Colorado, Denver",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07030283"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Peritoneal Carcinomatosis",
+  "pancreatic adenocarcinoma",
+  "pancreatic ductal adenocarcinoma",
+  "PDAC",
+  "metastatic",
+  "NALIRIFOX",
+  "intraperitoneal chemotherapy",
+  "intraperitoneal paclitaxel",
+  "circulating tumor DNA (ctDNA)",
+  "peritoneal cell-free DNA"
+ ],
+ "title": "Intraperitoneal Paclitaxel With NALIRIFOX for Pancreatic Ductal Adenocarcinoma With Peritoneal Carcinomatosis",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "puja.guptapoddar@cuanschutz.edu",
+    "name": "Puja Gupta Poddar",
+    "phone": "720-278-0236"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Provision to sign and date the consent form.\n2. Stated willingness to comply with all study procedures and be available for the duration of the study.\n3. Be age 18 years or older.\n4. Histologically or cytologically confirmed pancreatic adenocarcinoma with histologically or cytologically proven seeding in the peritoneal cavity without metastasis to other organs.\n5. Primary tumor that is resectable, borderline resectable, or locally advanced per NCCN classification.\n6. PCI score ≤ 8.\n7. ECOG performance status of 0 or 1\n8. Prior treatment for 0-4 months with FOLFIRINOX, modified FOLFIRINOX, or NALIRIFOX and able to receive additional treatment per investigator opinion\n9. Adequate biological parameters as evidenced by all of the following blood counts:\n\n   * Absolute neutrophil count (ANC) \\>/= 1,500 per cubic millimeter without the use of hematopoietic growth factors within 14 days prior to screening\n   * Platelet count \\>/= 75,000 per cubic millimeter\n   * Hemoglobin \\> 9 g/dL\n10. Adequate hepatic function as evidenced by:\n\n    * Serum total bilirubin ≤ 1.5x ULN (biliary drainage is allowed for biliary obstruction), and\n    * AST and ALT ≤ 3 x ULN\n11. Adequate renal function as evidenced by serum creatinine \\<1.5 x ULN\n\nExclusion Criteria:\n\n1. Prior treatment of pancreatic cancer in the metastatic setting with surgery or investigational therapy (Note: biliary drainage, diagnostic laparoscopy/laparotomy, and duodenal stenting is allowed).\n2. Evident distant metastatic disease outside of the peritoneal cavity.\n3. Extensive metastatic disease in peritoneal cavity (PCI\\>8).\n4. Known disease progression with any prior chemotherapy.\n5. Known hypersensitivity to paclitaxel or other liposomal products.\n6. Current use of strong CYP2C8 inhibitors or inducers, or presence of any other contraindications for paclitaxel.\n7. Known UGT1A1 deficiency or DPD deficiency.\n8. Neuropathy Grade 2 or higher\n9. Known active COVID infection with symptoms.\n10. Has ever received or is currently receiving radiation for pancreatic cancer treatment.\n11. Receipt of live, attenuated vaccine within 30 days prior the first dose of Intraperitoneal paclitaxel. (Note: enrolled patients should not receive live vaccines during the study and up to 30 days after the last dose of intraperitoneal paclitaxel).\n12. Known positive test results for human immunodeficiency (HIV) or patients with chronic or active hepatitis B or C. Patients who have a history of hepatitis B or C who have undetectable HBV DNA or HCV RNA after anti-viral therapy may be enrolled.\n13. Active infection during screening visits or on the day of treatment, which in the investigator's opinion might compromise the patient's participation in the trial or affect the study outcome.\n14. Any other medical or social condition deemed by the Investigator to be likely to interfere with a patient's ability to sign informed consent, cooperate and participate in the study, or interfere with the interpretation of the results.\n15. Pregnant or breast feeding; females of child-bearing potential must test negative for pregnancy within 7 days prior to C1D1. Both male and female patients of reproductive potential must agree to use a highly effective method of birth control during the study and for 9 months following the last dose of both IP PTX and IV NALIRIFOX.\n16. Histologies other than adenocarcinoma, such as neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma.\n17. Patients who, in the opinion of the investigator, have symptoms or signs suggestive of clinically unacceptable deterioration of the primary disease at the time of screening.",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "Paclitaxel",
+   "NALIRIFOX"
+  ],
+  "last_update_posted": "2026-02-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07030283",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-07-01",
+  "sex": "ALL",
+  "sponsor": "University of Colorado, Denver",
+  "start_date": "2025-12-31",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

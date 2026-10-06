@@ -1,0 +1,104 @@
+{
+ "abstract": "Genetic testing is a type of test that detects changes to the genes-the DNA instructions that are passed on from the mother and father. The results of a genetic test can confirm whether the participant has a genetic disorder, which is a disease caused in whole or in part by changes to the genes. Genetic testing can also help determine a person's chance of getting or passing on a genetic disorder. Genetic tests use a sample of blood, hair, skin, or other tissue, and they can look at one gene or multiple genes at the same time. Genetic testing may change the options for treating people with certain types of cancer. For example, some medications are more helpful for the treatment of cancer in people with certain gene changes (mutations).\n\nThe researchers are doing this study to develop new educational materials about genetic testing for people who speak different languages and have diverse cultural and educational backgrounds. During the study, the staff will interview participants with diverse cultural and educational backgrounds and ask them to review a sample of the educational materials that have been developed so far. Participants will give their opinions on these materials, and the researchers will use participants' feedback to improve the materials.\n\nThe objective of this proposal is to develop, test and evaluate a mainstreaming (LCAM) model for hereditary cancer multigene panel testing (MGPT) among many different types of cancer patients. The central hypothesis is that this LCAM genetic testing model will lead to better patient decision-making, psychosocial, and behavioral outcomes than a traditional model of genetic services represented by our standard-of-care arm. In Phase 1, the researchers will first conduct formative research including transcreation and cognitive interviewing to adapt our existing educational materials (brochure and video) and clinical communication materials (clinic visit summary and family dissemination messaging) for the LCAM model to be useful for patients of many different backgrounds. In Phase 2, the researchers will conduct a randomized clinical trial (RCT) to test and evaluate effects of the LCAM model for hereditary cancer MGPT as compared to standard-of-care among the patients treated at local community hospitals. Patients diagnosed with breast, colorectal, ovarian, pancreatic, or prostate cancer will be offered hereditary cancer MGPT through either: i) standard-of-care wherein in-depth pre-test and post-test genetic counseling are provided via telegenetics (videoconferencing), or ii) LCAM intervention wherein patients receive adapted pretest educational materials from study staff and/or clinical staff and have testing ordered by their oncologist, followed by post-test genetic counseling via telegenetics with a health and genetic \"literacy screener\" and adapted clinical communication materials. Participants will be followed prospectively and will complete assessments consisting of validated and investigator-designed measures. Phase 2 primary outcomes include genetic test decision satisfaction and genetic counseling satisfaction. Secondary outcomes include additional decision-making, psychosocial, and behavioral outcomes.\n\nFor Phase 2, participants will be recruited from our partnering sites, which include Kings County Hospital Center, Queens Cancer Center, Jamaica Hospital Medical Center, and the MSK Ralph Lauren Center for Cancer Care as well via referrals from underserved community sites through the MSK RLCCC network. Study staff will identify eligible patients from review of clinic lists and patient medical records, and will also receive direct study referrals from clinicians located at the partnering sites. Study staff will approach eligible patients in order to describe the study, screen them for eligibility (including assessing language proficiency via self-report and prior experience with cancer genetic counseling/testing), and obtain informed consent and collect their contact information.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04751435",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04751435"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-02-12",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Memorial Sloan Kettering Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04751435"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Educational Materials",
+  "Genetic Testing",
+  "Hereditary Cancer",
+  "Diverse Cancer Patients",
+  "Colorectal Cancer",
+  "20-458"
+ ],
+ "title": "Developing New Educational Materials About Genetic Testing for a Diverse Group of Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Educational Materials for Genetic Testing",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Prostate Cancer",
+   "Pancreatic Cancer",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "hamiltoj@mskcc.org",
+    "name": "Jada Hamilton, PhD, MPH",
+    "phone": "646-888-0049"
+   },
+   {
+    "email": null,
+    "name": "Jennifer Hay, PhD",
+    "phone": "646-888-0039"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nPhase 1\n\n* Age ≥ 18 years as per self-report\n* Current or previous diagnosis of breast, ovarian, pancreatic, or prostate cancer as per self-report\n* Self-identification as Black, Latino, and/or neither Black nor Latino (i.e.,non-Latino, Non black)\n* Fluency in English, Haitian Creole, or Spanish as per self-report (for Spanish, we will attempt to recruit a cohort representing a variety of regions where Spanish is spoken, as informed by current data from participating sites, to achieve neutrality in the language) Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken and reading ability.\n\nPhase 2:\n\n* Age ≥ 18 years as per the medical record and/or clinician referral\n* Current or previous diagnosis of breast, colorectal, ovarian, pancreatic, or prostate cancer meeting at least one of the applicable criteria for the cancer type as per the medical record and/or clinician referral:\n* Breast cancer criteria:\n\n  * any diagnosis age 65 or younger;\n  * diagnosis of triple negative breast cancer at any age;\n  * multiple primary breast cancers at any age;\n  * under consideration for PARP therapy;\n  * any family history (1st, 2nd, or 3rd degree relatives) of ovarian or pancreas cancer, or 1 relative with breast cancer who meets the above criteria, or 2 relatives with breast cancer at any age; or clinician discretion)\n* colorectal cancer\n* Ovarian cancer criteria:\n* invasive ovarian cancer\n* Pancreatic cancer criteria:\n* pancreatic adenocarcinoma\n* Prostate cancer criteria:\n\n  * castrate-resistant, metastatic prostate cancer;\n  * high-risk prostate cancer (pending pathology definition)\n* Fluency in English, Haitian Creole, or Spanish as per self-report. Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken ability\n* No prior cancer genetic counseling or germline testing for cancer risk as per self-report clinician's note, and/or no clinical documentation\n\nExclusion Criteria:\n\nPhase 1:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".\n\nPhase 2:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".",
+  "enrollment": 445,
+  "has_results": false,
+  "interventions": [
+   "Cognitive interview",
+   "LCAM intervention",
+   "Standard of care"
+  ],
+  "last_update_posted": "2026-10-05",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT04751435",
+  "phase": "NA",
+  "primary_completion_date": "2027-08-31",
+  "sex": "ALL",
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "start_date": "2021-11-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

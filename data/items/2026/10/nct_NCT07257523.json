@@ -1,0 +1,87 @@
+{
+ "abstract": "\"This prospective, single-arm phase II study aims to evaluate the efficacy and safety of carbon ion radiotherapy in frail patients with histologically confirmed, non-metastatic pancreatic cancer who are not eligible for surgery or systemic chemotherapy. Frail status is defined as a Clinical Frailty Scale (CFS) score ≥4 or the presence of significant medical comorbidities limiting aggressive treatment.\n\nCarbon ion radiotherapy, known for its superior dose distribution and high linear energy transfer, may offer improved tumor control with acceptable toxicity in this vulnerable population. This study will assess overall survival, progression-free survival, local control, toxicity, and quality of life.\n\n\"This prospective, single-arm phase II study evaluates the efficacy and safety of carbon ion radiotherapy in frail patients with non-metastatic pancreatic cancer who are not eligible for surgery or systemic chemotherapy due to a Clinical Frailty Scale (CFS) score ≥4 or significant medical comorbidities. carbon ion radiotherapy provides superior dose distribution and higher biological effectiveness compared with conventional X-ray radiotherapy, offering a potentially effective treatment option for this clinically vulnerable population.\n\nParticipants will undergo baseline evaluations including imaging (CT/MRI/PET-CT), laboratory tests, tumor markers, frailty assessment, and quality-of-life questionnaires (EORTC QLQ-C30 and FACT-Hep). Carbon ion radiotherapy will be delivered using 4D-CT-based planning, with either 55.2 Gy (RBE) in 12 fractions or 40-48 Gy (RBE) in 4 fractions. Target volumes include the primary tumor and high-risk peripancreatic regions, while organs-at-risk such as the stomach, duodenum, bowel, liver, kidneys, and spinal cord follow strict dose constraints. Weekly on-treatment assessments will monitor acute toxicity using CTCAE v5.0, and adaptive planning will be performed if needed.\n\nPost-treatment follow-up will occur at 1-3 months and every 3-6 months thereafter for up to 2 years, including imaging, toxicity evaluation, tumor marker assessment, and repeated QOL surveys.\n\nThe primary endpoint is overall survival. Secondary endpoints include progression-free survival, local control, treatment-related toxicity, quality of life, and tumor marker changes. Survival analyses will use Kaplan-Meier and Cox regression methods, and quality-of-life and toxicity outcomes will be summarized descriptively.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07257523",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07257523"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-12-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Yonsei University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07257523"
+ },
+ "summary_ko": "\"This prospective, single-arm phase II study aims to evaluate the efficacy and safety of carbon ion radiotherapy in frail patients with histologically confirmed, non-metastatic pancreatic cancer who are not eligible for surgery or systemic chemotherapy. Frail status is defined as a Clinical Frailty Scale (CFS) score ≥4 or the presence of significant medical comorbidities limiting aggressive treatment.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Carbon Ion Radiotherapy in Frail Patients With Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Neoplasm"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n\\- Histologically confirmed pancreatic cancer without distant metastasis.\n\nNot eligible for surgery or systemic chemotherapy, defined as:\n\nClinical Frailty Scale (CFS) score ≥ 4, or Significant medical comorbidities precluding standard treatment. Patients who decline surgery and chemotherapy after adequate counseling. Age ≥ 19 years. Able to provide written informed consent. Eligible and willing to receive carbon ion radiotherapy.\n\nExclusion Criteria:\n\n* Age \\< 19 years. Presence of distant metastasis at baseline imaging (CT/MRI/PET-CT). Active or uncontrolled infection that may interfere with treatment. Active bleeding or bleeding tendency requiring immediate medical intervention. Pregnant or breastfeeding women. Any condition that, in the investigator's judgment, makes participation unsafe or inappropriate (e.g., severe organ dysfunction preventing radiotherapy).\n\nInability to comply with study procedures or follow-up schedule.",
+  "enrollment": 33,
+  "has_results": false,
+  "interventions": [
+   "Carbon Ion Radiotherapy"
+  ],
+  "last_update_posted": "2025-12-02",
+  "location_countries": [
+   "South Korea"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Yonsei University Health System, Severance Hospital",
+    "status": "RECRUITING"
+   }
+  ],
+  "max_age": null,
+  "min_age": "20 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07257523",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-07",
+  "sex": "ALL",
+  "sponsor": "Yonsei University",
+  "start_date": "2025-09-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

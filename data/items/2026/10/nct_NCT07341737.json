@@ -1,0 +1,104 @@
+{
+ "abstract": "Second Life Therapeutics is developing SL-28, an allogeneic, non-genetically modified cell-based therapy for the treatment of advanced solid tumours. The company has recently demonstrated a novel, non-genetic approach to modulate immune cell activity through targeted manipulation of the Universal Receptive System. The purpose of this open label, multi-center clinical trial is to evaluate the anti-tumor activity, safety, and pharmacokinetics, single-agent SL-28 in patients with a diverse array of solid tumors. The study includes an initial Phase 1 dose escalation to determine recommended dose(s) for expansion of SL-28 as a monotherapy and Phase 2 expansion cohorts. The study will enroll patients with advanced solid tumours, including those who failed previous lines of chemo- and immunotherapies.\n\nThis study aims to assess the anti-tumour activity, safety, and interactions of single-agent SL-28 as an anti-cancer treatment in patients with a diverse array of solid tumours.\n\nWho is it for? You may be eligible for this study if you are aged 18 years or older, you have been diagnosed with advanced solid tumor, including head and neck cancer, small-cell lung cancer, non-small cell lung cancer; mesothelioma; oesophageal cancer, gastric cancer, liver cancer, colorectal cancer, pancreatic cancer, bladder cancer, kidney cancer, prostate cancer, ovarian cancer, endometrial cancer, breast cancer or skin cancer (melanoma) that is locally advanced, metastatic or unable to be surgically removed. Patients will also be assessed by a study doctor to ensure that they are well enough to participate in the trial before they will be offered enrolment into the study.\n\nStudy details All participants who choose to enroll in this study will receive 12 weeks of SL-28 treatment, administered on a 5-days-on, 2-days-off schedule. The first group of participants to receive SL-28 will be monitored for 12 weeks before a second group may be administered a higher dose of SL-28. Up to three cohorts will be enrolled to determine the highest safe and effective dose that does not cause severe side effects in patients.\n\nIt is hoped this study will show that SL-28 is safe to deliver to patients with solid tumour cancers, and determine the highest dose of SL-28 that cancer patients can safely receive.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07341737",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07341737"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-01-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Second Life Therapeutics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07341737"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "SL-28 for Advanced Solid Tumours",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Head & Neck Cancer",
+   "Pancreas Carcinoma",
+   "Pancreas Cancer, Metastatic",
+   "Lung Adenocarcinoma",
+   "Lung Cancer (NSCLC)",
+   "Lung Cancer (Non-Small Cell)",
+   "Esophageal Cancer",
+   "Stomach (Gastric) Cancer",
+   "Liver Cancer",
+   "Intestinal Cancer",
+   "Bladder Cancer",
+   "Renal Cancer",
+   "Prostate Cancer",
+   "Melanoma (Skin Cancer)",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Endometrial Cancer",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinical@secondlifetx.com",
+    "name": "George Tetz, MD, PhD",
+    "phone": "16466173088"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Ability to provide written informed consent prior to any study-related procedures and to understand the nature, purpose, and potential risks of the study\n* Adult males and females ≥18 years of age at screening\n* Life expectancy of at least 3 months\n* Histologically or cytologically confirmed unresectable advanced solid tumor (recurrent, metastatic, or locally advanced)\n* Disease refractory to, intolerant of, or refusal of standard therapies, including immunotherapy and molecular/biomarker-directed treatments, as determined by the Principal Investigator (PI) or delegate\n* Eligible tumor types include:\n* Head and neck squamous cell carcinoma\n* Thoracic malignancies (small-cell lung cancer, non-small cell lung cancer, esophageal cancer)\n* Gastrointestinal malignancies (gastric, liver, colorectal, pancreatic adenocarcinoma)\n* Genitourinary malignancies (bladder, renal cell, prostate cancer)\n* Gynecologic malignancies (ovarian, endometrial cancer)\n* Breast cancer and melanoma\n* Evaluable disease per RECIST v1.1\n* ECOG performance status 0-1 (or up to 2 at PI discretion)\n* Adequate organ function, defined as:\n* Total bilirubin ≤1.5 × ULN (≤2.0 × ULN for liver metastases or Gilbert's syndrome)\n* AST, ALT, alkaline phosphatase ≤2.5 × ULN (≤5 × ULN if liver metastases, at PI discretion)\n* Creatinine clearance ≥50 mL/min (Cockcroft-Gault) or eGFR ≥50 mL/min (CKD-EPI)\n* Absolute neutrophil count ≥1,000/mm³\n* Platelet count ≥100,000/mm³\n* Hemoglobin ≥90 g/L without transfusion within 2 weeks\n* Prothrombin time and aPTT ≤1.5 × ULN (or stable INR if on anticoagulation)\n\nFemale patients:\n\n-Non-childbearing potential (surgically sterile or postmenopausal), or of childbearing potential with negative pregnancy tests and agreement to effective contraception through 90 days post-dose\n\nMale patients:\n\n* Agreement not to donate sperm for 90 days post-dose\n* Agreement to use adequate contraception as applicable\n* Suitable venous access for blood sampling\n* Willingness and ability to comply with study procedures and protocol requirements\n\nExclusion Criteria:\n\n* Ongoing toxicities ≥ Grade 2 per NCI CTCAE v5.0 (except alopecia, fatigue, sensory neuropathy, or adequately treated endocrine deficiencies)\n* NYHA Class III or IV heart disease, myocardial infarction within 6 months, unstable arrhythmia, or ischemia on ECG\n* QTcF \\>470 ms (females) or \\>450 ms (males)\n* Active, uncontrolled bacterial, viral, or fungal infection requiring systemic therapy\n* Requirement for systemic corticosteroids or other immunosuppressive therapy that cannot be discontinued ≥14 days prior to dosing\n* Prior therapies within restricted timeframes:\n* Immune checkpoint inhibitors or biologics within 28 days\n* Antineoplastic therapies, surgery, radiotherapy, or radiopharmaceuticals within 21 days\n* Unapproved investigational drugs within 5 half-lives\n* Nitrosoureas or mitomycin C within 6 weeks\n* Concurrent malignancy within 5 years, except specified low-risk cancers\n* Pregnancy or breastfeeding\n* Known HIV, hepatitis B (HBsAg positive), or hepatitis C infection\n* Inability or unwillingness to comply with protocol procedures\n* History of anaphylaxis or significant allergy interfering with participation\n* Clinically significant cardiovascular, pulmonary, hepatic, renal, hematologic, gastrointestinal, endocrine, neurologic, psychiatric, or immunologic disease within 6 months\n* Conditions affecting drug absorption, distribution, metabolism, or excretion\n* Receipt of live vaccines within 28 days prior to screening\n* Participation in another investigational study within 30 days prior to screening",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "SL-28",
+   "SL-28",
+   "SL-28"
+  ],
+  "last_update_posted": "2026-09-15",
+  "location_countries": [
+   "Australia"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT07341737",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-01-01",
+  "sex": "ALL",
+  "sponsor": "Second Life Therapeutics",
+  "start_date": "2026-08-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

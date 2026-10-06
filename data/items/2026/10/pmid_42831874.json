@@ -1,0 +1,57 @@
+{
+ "abstract": "OBJECTIVES: To investigate the temporal relationship between the pancreatic ductal adenocarcinoma (PDAC) index, combining serum human satellite II (HSATII) RNA and miR-21-5p measurements, and pancreatic cancer diagnosis in a prospective population-based study.\nMETHODS: We conducted a case-control study nested within the Japan Multi-institutional Collaborative Cohort (J-MICC) Study of over 92,000 participants. Serum samples were collected from 45 individuals who developed pancreatic cancer within 2 years of blood collection and 45 matched controls. We measured serum HSATII RNA and miR-21-5p levels using TRAP-ddPCR and calculated the PDAC index. Statistical analyses included Wilcoxon signed-rank tests, conditional logistic regression, and Cox proportional hazards models.\nRESULTS: The PDAC index was significantly higher in pancreatic cancer cases compared to controls ( P =0.043), with the strongest difference observed in cases diagnosed within 0.3 years of blood collection ( P =0.046). A significant negative correlation between the PDAC index and time to diagnosis was observed in cases (R=-0.32, P =0.030). Cox proportional hazards analysis revealed a significant association between the PDAC index and time to pancreatic cancer diagnosis (HR=1.3, P =0.024). The AUC of PDAC index was 0.64 for cases diagnosed within 0.3 years.\nCONCLUSIONS: The PDAC index showed a possible association with proximity of pancreatic cancer diagnosis, with higher values observed closer to clinical diagnosis. While these preliminary findings should be interpreted in light of the study limitations, they provide a rationale for further evaluation of the PDAC index in larger studies with longer follow-up periods.",
+ "authors": [
+  "Seimiya T",
+  "Suzuki T",
+  "Notoya G",
+  "Shibata C",
+  "Nakai Y",
+  "Matsuo K",
+  "Wakai K",
+  "Okada R"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42831874",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1097/MPA.0000000000002723",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42831874"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreas",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42831874/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Association between Serum Human Satellite II RNA and miR-21-5p Levels and Time to Pancreatic Cancer Diagnosis in a Prospective Population-based Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

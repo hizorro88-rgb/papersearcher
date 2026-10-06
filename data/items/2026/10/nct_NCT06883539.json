@@ -1,0 +1,110 @@
+{
+ "abstract": "A Phase I, open-label, first-in-human study to determine the MTD, recommended phase 2 dose (RP2D), assess the safety, tolerability, pharmacokinetics and preliminary anti-tumor activity of LXP1788 Injection in patients with advanced solid tumor.\n\nPatients with advanced solid tumors that are refractory to currently available therapies or for whom no effective treatment is available will be selected.\n\nThe main questions it aims to answer are:\n\n1. To determine the maximum tolerated dose (MTD) and the recommended phase 2 dose (RP2D) of LXP1788 Injection\n2. To evaluate the pharmacokinetics (PK) of LXP1788 Injection",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06883539",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06883539"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-03-19",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "LaunXP Biomedical Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06883539"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Phase 1",
+  "LXP1788",
+  "LAUNXP",
+  "DBPR114-101",
+  "solid tumor",
+  "cancer",
+  "Hepatocellular carcinoma",
+  "Pancrease Cancer",
+  "Renal Cell Carcinoma",
+  "Tyrosine kinase inhibitor"
+ ],
+ "title": "A Phase I Study of LXP1788 Injection with Advanced Solid Tumors.",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Solid Tumor Malignancies, Cancer",
+   "Solid Cancers",
+   "Solid Tumor Cancer",
+   "Solid Tumor, Unspecified, Adult",
+   "Solid Tumour",
+   "Solid Tumors Refractory to Standard Therapy",
+   "HCC - Hepatocellular Carcinoma",
+   "RCC, Renal Cell Cancer",
+   "Pancreas Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "rdjulialin@launxp.com",
+    "name": "Chin- Hua Lin Clinical Research Director",
+    "phone": "+886-4-2320-5691"
+   },
+   {
+    "email": "phkuo@launxp.com",
+    "name": "Pin-Hung Kuo",
+    "phone": "+886-4-2320-5691"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Written (signed) Informed Consent.\n2. Male or female ≥ 18 years old.\n3. Life expectancy \\> 8 weeks.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n5. A histologically or cytologically confirmed, advanced solid tumor that is refractory to currently available therapies or for which no effective treatment is available.\n6. Measurable disease per RECIST 1.1.\n7. Willing to have a tumor biopsy or having tissue sample from a previous biopsy available in the tissue bank for analysis that had been collected in the past 3 years.\n\nExclusion Criteria:\n\n1. Significant concurrent medical diseases, such as congestive heart failure, unstable angina, acute or recent myocardial infarction (\\< 6 months before enrollment), COPD with frequent exacerbations, uncontrolled hypertension (systemic blood pressure \\>= 160 mmHg and/or diastolic blood pressure \\>= 100 mmHg with or without anti-hypertensive medication), recent CVA (\\< 6 months before enrollment), or active infection which requires treatment withintravenous antibiotics.\n2. Patients with symptomatic CNS metastases who are neurologically unstable, receiving radiotherapy for the CNS lesion, or requiring increasing dose of steroids to control their CNS disease.\n\n   Asymptomatic patients with metastatic brain disease who have been on a stable dose of steroids for less than 14 days prior to screening.\n3. Inadequate bone marrow reserve or organ function as demonstrated by any of the following laboratory values:\n\n   Bone marrow:\n   * Absolute neutrophil count (ANC) \\< 1.5 x 10\\^9/L\n   * Platelet count \\< 100 x 10\\^9/L\n   * Hemoglobin \\< 9 g/dL\n   * Having had a blood transfusion within 2 weeks of screening date is also not allowed.\n\n   Hepatic:\n   * Total bilirubin \\> 1.5 x ULN\n   * AST and ALT \\> 3 x ULN if no liver metastases\n   * AST and ALT \\> 5 x ULN in the presence of liver metastases\n\n   Renal:\n\n   ⚫ Estimated creatinine clearance (CrCL) \\< 60 mL/min per the Cockcroft and Gault formula\n4. Known history of human immunodeficiency virus (HIV)-1 or -2 infection.\n5. Psychiatric disorders that would compromise the patient's compliance or ability to give consent.\n6. Major surgical intervention within 4 weeks of the first dose of LXP1788 Injection or with ongoing postoperative complications.\n7. Toxicities from any prior therapy, surgery, or radiotherapy that did not resolve to grade 0 or 1 as per the National Cancer Institute (NCI) - Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0, with the exception of alopecia, skin hyperpigmentation or hypopigmentation.\n8. Underlying medical conditions that, in the investigator's opinion, will make the administration of LXP1788 Injection hazardous or obscure the interpretation of toxicities or adverse events.\n9. Exposure to any other investigational or commercial anti-cancer agents or curative therapies within 28 days or 5 half-lives (whichever is shorter), before the first dose of LXP1788 Injection. Exposure to radiation therapy for non-curative purposes or pain control may be permitted under the judgement of the investigator.\n10. Judgment by the investigator that the patient should not participate in the study because the patient is unlikely to comply with study procedures, restrictions, or requirements.\n11. Pregnancy or breast feeding.\n12. Women or men of childbearing potential not willing to use effective means of contraception.\n13. Positive test for hepatitis B (HBsAg) or hepatitis C (positive HCV antibody with detectable HCV RNA).\n14. History of allergic reactions to any component of LXP1788 Injection.",
+  "enrollment": 24,
+  "has_results": false,
+  "interventions": [
+   "LXP1788 is administered intravenously via Port-A"
+  ],
+  "last_update_posted": "2025-03-19",
+  "location_countries": [
+   "Taiwan"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT06883539",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "LaunXP Biomedical Co., Ltd.",
+  "start_date": "2024-12-31",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,87 @@
+{
+ "abstract": "This study plans to enroll participants with previously treated metastatic pancreatic cancer and harbor centrally confirmed KRAS G12D mutation. These participants are required to experience disease progression on or after at least one prior standard systemic therapy containing fluorouracil or gemcitabine, and either progressed on or were intolerant to the last treatment. Eligible participants will be randomized 1:1 to the experimental group or the control group for treatment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07262567",
+ "importance": 0.89,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07262567"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-12-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Genfleet Therapeutics (Shanghai) Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07262567"
+ },
+ "summary_ko": "This study plans to enroll participants with previously treated metastatic pancreatic cancer and harbor centrally confirmed KRAS G12D mutation. These participants are required to experience disease progression on or after at least one prior standard systemic therapy containing fluorouracil or gemcitabine, and either progressed on or were intolerant to the last treatment.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Phase III Study to Compare GFH375 and Chemotherapy in Patients With KRAS G12D-Mutant Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "jli@genfleet.com",
+    "name": "Jin Li",
+    "phone": "+86 21 6882 1388"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Voluntarily participate in the study and sign the informed consent form.\n* Male or female aged 18-80 years (inclusive) at the time of signing the informed consent form.\n* Pathologically confirmed pancreatic cancer (derived from pancreatic ductal epithelium) at metastatic stage.\n* Have received at least one prior standard systemic therapy.\n* Participants must have at least one measurable lesion (per RECIST 1.1 criteria).\n* Expected survival time ≥ 12 weeks as judged by the investigator.\n* Have adequate organ function\n\nExclusion Criteria:\n\n* Other malignant tumors that progressed or required treatment within 3 years prior to randomization.\n* With active central nervous system (CNS) metastasis.\n* Previous receipt of therapy targeted for KRAS G12D or pan-RAS/KRAS.\n* Received radiotherapy within 4 weeks prior to randomization or other local anti-tumor therapy within 4 weeks prior to randomization.\n* Received other anti-tumor therapy within 28 days or 5 half-lives (whichever is shorter) prior to randomization.\n* With clinically significant severe cardiovascular diseases.\n* Stroke or other severe cerebrovascular diseases within 6 months prior to randomization.\n* Complicated with major acute or chronic infectious diseases.\n* Have severe mental or psychological diseases, or a history of drug abuse or severe alcoholism.\n* Pregnant or lactating females.\n* Other conditions deemed inappropriate for participation in the study by the investigator.",
+  "enrollment": 320,
+  "has_results": false,
+  "interventions": [
+   "GFH375",
+   "Chemotherapy"
+  ],
+  "last_update_posted": "2026-08-14",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07262567",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-06",
+  "sex": "ALL",
+  "sponsor": "Genfleet Therapeutics (Shanghai) Inc.",
+  "start_date": "2025-12-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

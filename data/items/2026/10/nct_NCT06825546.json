@@ -1,0 +1,88 @@
+{
+ "abstract": "Icaritin is a drug that has been approved by the National Medical Products Administration (NMPA) based on a multicenter, randomized, double-blind, parallel-controlled Phase III clinical trial - SNG1705 ICR-1. It is used for patients with unresectable hepatocellular carcinoma who are not suitable for or refuse standard treatment and have not previously received systemic therapy. According to numerous studies, in tumor cells, Icaritin can downregulate the expression of TNF-α, IL-6, PD-L1 and exert anti-tumor effects. At the same time, it regulates the tumor immune microenvironment by reducing the secretion of TNFa and IL-6 as well as inhibiting PD-L1 expression through decreasing MDSC cell proportion. Importantly, Icaritin has excellent safety profile and greatly ensure patients' quality of life clinically. Rare grade 3-4 TRAEs were observed in clinical trials which is uncommon among existing standard drugs. Good safety is a prerequisite for combination therapy; therefore, further exploration of optimal drug combinations is worth considering. Thus,we investigated the efficacy and safety of Icaritin administered in conjunction with AG in patients newly diagnosed with advanced pancreatic ductal adenocarcinoma, compare with AG only.\n\nThis study aims to evaluate the superiority of Icaritin soft capsules combined with the AG chemotherapy regimen (including gemcitabine) compared to the AG regimen alone. By modulating the immune microenvironment, the combined therapy is expected to provide synergistic enhancement. This will lay the groundwork and provide data for subsequent large-scale randomized controlled clinical trials, ultimately offering more effective combination therapies for patients with advanced pancreatic cancer and improving survival outcomes.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06825546",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06825546"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-02-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sir Run Run Shaw Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06825546"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Icaritin in Combination With AG in Patients With Previously Untreated Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "liuxiaolong@zju.edu.cn",
+    "name": "Xiaolong Liu",
+    "phone": "13588457667"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. 18-80 years old (including the cutoff value).\n2. patients with histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC) disease from multiple centers including Sir Run Run Shaw Hospital, Zhejiang University School of Medicine (group lead unit).\n3. locally advanced or metastatic PDAC according to the 2024 CSCO Guidelines for the Management of Pancreatic Cancer.\n4. no prior systemic therapy.\n5. presence of measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n6. Eastern Cooperative Oncology Group PS 0 or 1.\n7. have a life expectancy of at least 3 months.\n8. adequate organ function (absolute neutrophil count ≥1.5×109/L; Platelet count ≥100×109/L; Creatinine \\<1.5×ULN (upper limit of normal) or creatinine clearance (CRCI) ≥60 ml/min; Albumin ≥30g/L; Total bilirubin \\<5×ULN; Aspartate aminotransferase (AST) \\<2.5×ULN; Alanine aminotransferase (ALT) \\<2.5×ULN (≤5×ULN is acceptable if liver metastasis is present); INR or PT \\< 1.5×ULN, APTT \\< 1.5×ULN.\n9. in a fertile woman, a negative serum pregnancy test within 7 days before the first trial treatment;\n10. willingness to use a highly effective contraceptive method (failure rate \\< 1.0% per year) from the first study treatment until 24 weeks after completion of the trial treatment, if the woman is fertile or the male participant's partner is fertile.\n11. no other serious underlying medical conditions.\n12. voluntarily participated in this study and signed informed consent. If the subjects were unable to read and sign the informed consent form due to incapacity or other reasons, their guardians were required to act for them during the informed consent process and sign the informed consent form. If the subjects were unable to read the informed consent form (e.g., illiterate subjects), witnesses were required to witness the informed consent process and sign the informed consent.\n\nExclusion Criteria:\n\n1. neuroendocrine (carcinoid, islet cell) or pancreatic acinar carcinoma.\n2. Patients had moderate to severe ascites (ascites was defined by B-ultrasound).\n3. untreated active central nervous system or meningeal metastases.\n4. Previous systemic therapies such as targeted therapy, immunotherapy, chemotherapy, and modern Chinese medicine with anti-tumor indications or other treatments such as surgery and particle implantation have been used to treat pancreatic cancer.\n5. surgery for any reason (other than diagnostic biopsy), within 4 weeks after the first trial treatment, and/or the subject did not fully recover from surgery within 4 weeks after the first trial treatment.\n6. history of RT within 3 months of the first dose of trial treatment. No more than 30% bone marrow irradiation or large field irradiation should be used in the 4 weeks before the first trial treatment.\n7. patients with a history of other cancers within the past 2 years.\n8. major cardiovascular impairment in the 12 months before the first dose of study drug: such as a history of congestive heart failure higher than NYHA class II, unstable angina, myocardial infarction, or stroke due to cerebrovascular accident, or arrhythmia associated with hemodynamic instability; The corrected QT (QTc) interval was prolonged \\>480ms.\n9. with bleeding or thrombotic diseases or receiving thrombolytic therapy, and coagulopathy; Patients who were deemed by the investigator to be ineligible for participation in the study.\n10. clinically significant hemoptysis or tumor bleeding of any cause within 2 weeks before the first dose of study intervention.\n11. patients with a history of uncontrolled epilepsy, central nervous system disease, or psychiatric illness, or hypertension The investigator will determine whether clinical severity prevents informed consent from being signed or affects patient adherence to oral medication.\n12. had active autoimmune disease requiring systemic therapy within the previous 2 years.\n13. may have other comorbidities that are relatively contraindicated in this trial.\n14. had a severe allergic reaction to the active ingredient of the trial drug.\n15. were pregnant or lactating, or were unwilling to plan pregnancy during the trial.\n16. any other medical condition that the investigator considered to interfere with the requirements of the trial in terms of safety or efficacy assessment or adherence to treatment.\n17. vulnerable groups except the elderly/illiterate, including people with mental illness, cognitive impairment, critically ill patients, pregnant women, etc.",
+  "enrollment": 70,
+  "has_results": false,
+  "interventions": [
+   "Icaritin",
+   "AG chemotherapy"
+  ],
+  "last_update_posted": "2025-06-27",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 6,
+  "nct_id": "NCT06825546",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-04-01",
+  "sex": "ALL",
+  "sponsor": "Sir Run Run Shaw Hospital",
+  "start_date": "2025-04-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

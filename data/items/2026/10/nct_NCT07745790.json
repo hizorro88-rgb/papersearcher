@@ -1,0 +1,95 @@
+{
+ "abstract": "This is a single-arm, single-center, exploratory clinical study. A total of 20 participants with metastatic pancreatic ductal adenocarcinoma (with liver or lung metastasis) who have experienced disease progression after or are intolerant to standard first-line chemotherapy (based on the AG regimen \\[Albumin-bound Paclitaxel plus Gemcitabine\\]) will be enrolled.The study aims to evaluate the safety, efficacy, and underlying immunological mechanisms of Multimodal Thermal Therapy (MTT) combined with a KRAS G12V mRNA vaccine, S-1, and Sintilimab.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07745790",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07745790"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-08-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ruijin Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07745790"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Multimodal Thermal Therapy",
+  "mRNA",
+  "Metastatic Pancreatic Cancer"
+ ],
+ "title": "Safety and Efficacy of Multimodal Thermal Therapy (MTT) Combined With KRAS G12V mRNA Vaccine, S-1, and Sintilimab in Patients With Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Liver Neoplasms",
+   "Lung Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "shenby@shsmu.edu.cn",
+    "name": "baiyong shen",
+    "phone": "+86 18817821319"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged ≥ 18 years old with no restriction on gender.\n* Patients with advanced pancreatic cancer or postoperative recurrent pancreatic cancer confirmed by histopathological or cytological examination.\n* Tumor tissues are confirmed to carry KRAS G12V mutation via sequencing and bioinformatics analysis (valid test reports obtained within the previous 12 months and recognized by the investigator are acceptable). In the dose expansion phase, patients must harbor at least one HLA allele capable of effectively presenting the corresponding antigen, including HLA-A11:01, HLA-A03:01, HLA-A30:01, HLA-A68:01, HLA-C01:02, HLA-C03:03, and HLA-C03:04.\n* Disease resistance or intolerance to prior AG-based chemotherapy regimens.\n* Presence of liver metastasis or lung metastasis.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1.\n* Child-Pugh score ≤ 7 points.\n* Expected overall survival of at least 3 months.\n\nExclusion Criteria:\n\n* Presence of diffuse hepatic or pulmonary metastases.\n* Prior local treatment including radiofrequency ablation, microwave ablation, radiotherapy or other local therapies for metastatic lesions.\n* Current participation in other interventional clinical studies and receiving investigational treatment.\n* Diagnosis of any other malignant disease within 5 years prior to the first study drug administration (excluding radically treated basal cell carcinoma, squamous cell carcinoma of the skin, and/or radically resected in situ carcinoma).\n* Prior history of solid organ or hematopoietic stem cell transplantation.\n* Any disease requiring systemic treatment with corticosteroids (prednisone or equivalent daily dose \\> 10 mg) or other immunosuppressive agents within 14 days prior to enrollment.\n* Previous or current diagnosis of brain metastases with incompletely controlled symptoms (i.e., persistent or aggravated symptoms, or requirement for adjusted symptomatic treatment to maintain symptom relief).\n* Presence of uncontrolled active infection.\n* Renal dysfunction defined as serum creatinine \\> 176.8 μmol/L or creatinine clearance \\< 30 mL/min.\n* Uncorrectable coagulation abnormalities, including platelet count \\< 50×10⁹/L, prothrombin time \\> 18 seconds, or prothrombin activity \\< 40%, which cannot be corrected.\n* History of esophagogastric variceal rupture without effective treatment via endoscopy, interventional therapy or surgery.\n* Patients with psychiatric disorders in the acute episode stage.\n* Women of childbearing potential who are pregnant, breastfeeding, or planning to become pregnant during the study treatment period or within 3 months after the end of study treatment.\n* Prior systemic pharmacotherapy, radiotherapy or local hepatic treatment with an interval of \\< 1 month from the last systemic or local hepatic treatment to the first study drug administration.",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Multimodal Thermal Therapy (MTT) System",
+   "KRAS G12V mRNA Vaccine",
+   "Sintilimab",
+   "S-1"
+  ],
+  "last_update_posted": "2026-08-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07745790",
+  "phase": "PHASE2",
+  "primary_completion_date": "2029-07-31",
+  "sex": "ALL",
+  "sponsor": "Ruijin Hospital",
+  "start_date": "2026-07-13",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

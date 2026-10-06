@@ -1,0 +1,96 @@
+{
+ "abstract": "Pancreatic cancer, which stands as one of the most lethal malignancies and a leading cause of cancer-related deaths globally, poses a significant challenge to human health worldwide. However, standard chemotherapeutic regimens show limited effectiveness in advanced pancreatic cancer, creating an urgent demand to investigate and develop novel therapeutic targets and combination treatment strategies. The primary objective of this study is to evaluate the efficacy of FG-M108 combined with gemcitabine and nab-paclitaxel (Nab-P+GEM) versus placebo combined with Nab-P+GEM as first-line treatment, as measured by overall survival (OS). This study will also assess safety, tolerability, pharmacokinetics, and the immunogenicity profile of FG-M108 monoclonal antibody, along with its impact on quality of life.\n\nThis is a multicenter, randomized, double-blind, placebo-controlled phase 3 study designed to evaluate the efficacy and safety of FG-M108 injection combined with Nab-P+GEM versus placebo combined with Nab-P+GEM as first-line treatment in patients with Claudin18.2-positive, unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07383922",
+ "importance": 0.86,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07383922"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-02-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "FutureGen Biopharmaceutical (Beijing) Co., Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07383922"
+ },
+ "summary_ko": "Pancreatic cancer, which stands as one of the most lethal malignancies and a leading cause of cancer-related deaths globally, poses a significant challenge to human health worldwide. However, standard chemotherapeutic regimens show limited effectiveness in advanced pancreatic cancer, creating an urgent demand to investigate and develop novel therapeutic targets and combination treatment strategies.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic cancer",
+  "First-line treatment",
+  "Claudin18.2"
+ ],
+ "title": "A Study of FG-M108+Chemotherapy vs Placebo+Chemotherapy in Claudin18.2-positive Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "pr@futuregenbiopharm.com",
+    "name": "Zhaoyu Jin, Ph.D",
+    "phone": "010-60709130"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Voluntarily sign the informed consent form, understand the study, are willing to comply with and have the ability to complete all trial procedures;\n* Age 18-80 years (inclusive), any gender;\n* Histologically or cytologically confirmed unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma, without prior systemic therapy; or for subjects who have received prior neoadjuvant/adjuvant chemotherapy, the time from the last treatment to disease recurrence is \\>6 months;\n* Able to provide archived or fresh pathological tissue for CLDN18.2 testing, with central laboratory testing confirming tumor tissue CLDN18.2 positive (defined as ≥40% of tumor cells with CLDN18.2 membrane staining ≥2+ by central laboratory IHC);\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1;\n* Have at least one measurable tumor lesion according to RECIST 1.1 criteria;\n* Expected survival ≥3 months;\n* Adequate cardiac, bone marrow, liver, renal function;\n\nExclusion Criteria:\n\n* Have received a live vaccine within 4 weeks prior to randomization;\n* Have received radiotherapy within 2 weeks prior to randomization;\n* Have received other anti-tumor drug therapy within 4 weeks or within 5 half-lives of the anti-tumor drug prior to randomization;\n* Have undergone major surgery within 4 weeks prior to randomization;\n* Have received any clinical study drug treatment within 4 weeks prior to randomization;\n* Have previously received any treatment targeting CLDN18.2, such as CLDN18.2 monoclonal/bispecific antibodies, CLDN18.2 CAR-T, or CLDN18.2 ADC;\n* Have a history of other (non-study tumor) malignancies within 3 years prior to randomization;\n* Have a history of central nervous system metastases and/or carcinomatous meningitis;\n* Have adverse reactions from prior treatments that have not recovered to CTCAE v5.0 Grade ≤1 (excluding alopecia and anemia) prior to randomization;\n* Have had clinically significant cardiovascular or cerebrovascular diseases within 6 months prior to randomization;\n* Have uncontrolled systemic diseases assessed by the investigator, including diabetes, hypertension, pulmonary fibrosis, interstitial lung disease, etc.;\n* The investigator judges the subject to have obvious active gastrointestinal bleeding;\n* Known history of Hepatitis C or chronic active Hepatitis B;\n* Require systemic treatment with corticosteroids (dose \\>10 mg/day prednisone or equivalent dose of similar drugs) or other immunosuppressants within ≤14 days prior to randomization;\n* Any other condition of the subject (e.g., psychological, geographical, or medical condition) that does not permit compliance with the study and follow-up procedures;\n* Are pregnant or breastfeeding;",
+  "enrollment": 524,
+  "has_results": false,
+  "interventions": [
+   "FG-M108",
+   "nab paclitaxel",
+   "Gemcitabine (GEM)",
+   "Placebo for FG-M108"
+  ],
+  "last_update_posted": "2026-02-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07383922",
+  "phase": "PHASE3",
+  "primary_completion_date": "2030-06-30",
+  "sex": "ALL",
+  "sponsor": "FutureGen Biopharmaceutical (Beijing) Co., Ltd",
+  "start_date": "2026-02-28",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

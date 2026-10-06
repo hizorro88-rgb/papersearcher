@@ -1,0 +1,86 @@
+{
+ "abstract": "This study is a prospective, single-arm trial, aiming to enroll 30 patients with unresectable locally advanced or oligometastatic pancreatic cancer. The study will evaluate the efficacy and safety of nintedanib combined with radiotherapy and chemotherapy (gemcitabine or capecitabine monotherapy). The primary endpoint of this study is the 1-year local control rate (LCR).\n\n1\\. Radiotherapy: Conventional fractionated radiotherapy or SBRT can be selected.\n\n1. Conventional Fractionated Radiotherapy: Pancreatic tumor + 5mm PTV 50-60Gy/25 fractions/5W; Pancreatic tumor GTV 60-70Gy/25 fractions/5W; If there are suspected metastatic lymph node regions, prophylactic irradiation of lymph node drainage areas should be performed.\n2. Stereotactic Body Radiotherapy (SBRT): Pancreatic tumor + 5mm PTV 30Gy/5 fractions/5 days; Pancreatic tumor GTV 40Gy/5 fractions/5 days.\n\n2\\. Nintuzumab: Nintuzumab 400mg, intravenous infusion, on day 1, administered once a week (QW). Mix400 mg of nintuzumab injection with 250ml of sodium chloride solution, and the infusion time should be more than 60 minutes. Administer concurrently during radiotherapy and discontinue use after radiotherapy.\n\n3\\. Chemotherapy (either tegafur or capecitabine, choose one):\n\n1. Tegafur-gimeracil-oteracil (S-1): 80-120mg per day, taken twice a day, from day 1 to day 14, and from day 21 onwards. One treatment cycle consists of 21 days.\n2. Capecitabine: 2000mg per square meter per day, taken twice a day, from day 1 to day 14, and from day 21 onwards. One treatment cycle consists of 21 days.\n\nContinue the treatment until the disease progresses or an intolerable toxic reaction occurs.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07386704",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07386704"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-02-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Peking University First Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07386704"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "locally advanced",
+  "oligometastasis"
+ ],
+ "title": "Nimotuzumab Combined With Chemoradiotherapy in the Treatment of Unresectable Locally Advanced or Oligometastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Non-resectable"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Confirmed by histological or cytological examination as pancreatic adenocarcinoma;\n2. Confirmed by imaging as locally advanced or oligometastatic (number of metastatic lesions ≤ 3);\n3. Evaluated by the clinical doctor as inoperable or the patient refuses surgery;\n4. ECOG PS score 0-1;\n5. No radiotherapy has been performed on the upper abdomen before, and no any palliative chemotherapy or other systemic anti-tumor treatment has been received;\n6. According to the RECIST 1.1 evaluation criteria, there are measurable lesions;\n7. Sufficient organ and bone marrow functions\n\nExclusion Criteria:\n\n1. Previous history of abdominal radiotherapy.\n2. Those with a history of other malignant tumors (excluding cured skin basal cell carcinoma and cervical carcinoma in situ).\n3. Those allergic to the drugs or their components used in this protocol.\n4. Those with known HIV or syphilis infection, or currently in the active stage of hepatitis (hepatitis B or hepatitis C).\n5. Those who have undergone major surgery within 30 days before screening.\n6. Those who have used EGFR monoclonal antibody or EGFR-TKI within 30 days before screening.\n7. Pregnant or lactating women.\n8. Those judged by the investigator to have other reasons unsuitable for participating in this study.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Nimotuzumab combined with chemoradiotherapy"
+  ],
+  "last_update_posted": "2026-02-04",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07386704",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-12-09",
+  "sex": "ALL",
+  "sponsor": "Peking University First Hospital",
+  "start_date": "2025-12-09",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

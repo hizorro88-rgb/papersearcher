@@ -1,0 +1,95 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma is a highly lethal cancer, and approximately 40% of patients present with non-metastatic locally advanced pancreatic cancer (LAPC) that is not suitable for surgical resection. To improve outcomes in this patient group, local ablative treatments are being explored. Radionuclide therapy (RNT) is a promising option that delivers high-dose internal radiation directly into the tumor, potentially achieving better local tumor control while sparing surrounding tissues compared with external-beam radiation therapy. The OncoSil™ device is a type of RNT containing Phosphorus-32-radiolabeled microparticles. The ³²P microparticles have been designed to deliver a localized distribution of beta-radiation within the target tumor up to 100 Gy, which causes direct damage to cancer cell DNA and renders them incapable of further cell division and proliferation. Favorable results have been reported by implanting ³²P microparticles intra-tumorally, which is typically administered via endoscopic ultrasound guidance. A percutaneous approach may allow for more precise and reproducible delivery, but prospective data on its safety and feasibility are lacking.\n\nThis prospective, single-arm phase 1-2 feasibility study aims to evaluate the safety and feasibility of percutaneous CT- guided RNT using ³²P microparticles in patients with non-progressive LAPC following induction chemotherapy. Twenty adult patients with pathology-confirmed LAPC, showing non-progressive disease according to RECIST, will be included after multidisciplinary tumor board review. Patients will undergo percutaneous, CT-guided implantation of ³²P microparticles under general anesthesia, sedation, or local analgesia depending on study phase and clinical judgment, followed by continuation of standard systemic chemotherapy and routine follow-up.\n\nThe primary endpoint is the rate of adverse events (CTCAE grade ≥3) occurring during the procedure and within 90 days afterward. Secondary endpoints include technical success, all adverse events, best overall respons, overall and progression-free survival, and changes in tumor markers.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07595835",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07595835"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-05-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.R. Meijerink",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07595835"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "radionucleide therapy",
+  "brachytherapy",
+  "P32",
+  "internal radiotherapy",
+  "LAPC",
+  "³²P microparticles",
+  "Oncosil"
+ ],
+ "title": "CT-guided Percutaneous Radionuclide Therapy With 32P Microparticles in Patients With Non-progressive Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "d.vos@amsterdamumc.nl",
+    "name": "Danielle J.W. Vos",
+    "phone": "+31204444571"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥18 years\n* Locally advanced pancreatic cancer, defined by the DPCG consensus criteria as: arterial involvement \\>90 degrees or venous involvement \\>270 degrees.\n* At least RECIST stable disease after a minimum two months of chemotherapy according to current clinical practice\\*\n* Capable of providing written and oral informed consent\n* Candidate for RNT, judged by a multidisciplinary tumor board\n* WHO 0-2\n\nExclusion Criteria:\n\n* Eligibility for resection\n* Participation in other trials focussing on different ablative treatment modalities such as radiofrequency ablation or irreversible electroporation for LAPC\n* Known hypersensitivity to silicon or phosphor\n* Bleeding disorders which cannot be corrected with medication\n* Inability/unwillingness to interrupt anticoagulation therapy\n* Pregnancy\n* Metastatic pancreatic cancer\n* Epilepsy episode(s) in the past six months\n* Longest tumor diameter \\>70 mm or total target tumor volume \\>110 ml\n* Presence of multiple collateral vessels surrounding or adjacent to the target tumor on radiologic imagining, prohibiting safe injection of the OncosilTM device\n* Presence (or significant risk) of varices near the target tumor on radiologic imaging\n* Recent clinically significant pancreatitis\n* Previous administration of radiotherapy to the pancreas",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "CT-guided percutaneous intratumoural implantation of the OncoSil™ device"
+  ],
+  "last_update_posted": "2026-05-22",
+  "location_countries": [
+   "Netherlands"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07595835",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2026-06-01",
+  "sex": "ALL",
+  "sponsor": "M.R. Meijerink",
+  "start_date": "2023-06-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

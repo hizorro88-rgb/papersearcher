@@ -1,0 +1,80 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # UTC 21:00 = KST 06:00 (GitHub cron은 수십 분 지연될 수 있음)
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "재수집 시작일 (YYYY-MM-DD, 비우면 최근 3일)"
+        required: false
+      no_llm:
+        description: "LLM 요약 건너뛰기 (true/false)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect, summarize, render
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.since }}" ]; then ARGS="$ARGS --since ${{ github.event.inputs.since }}"; fi
+          if [ "${{ github.event.inputs.no_llm }}" = "true" ]; then ARGS="$ARGS --no-llm"; fi
+          python -m collector.run $ARGS
+
+      - name: Commit data
+        run: |
+          git config user.name "papersearcher-bot"
+          git config user.email "papersearcher-bot@users.noreply.github.com"
+          git add data docs/_generated
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            NEW=$(python -c "import json;r=json.load(open('data/state.json'))['runs'][-1];print(f\"+{r['new']} 신규, {r['updated']} 갱신, 누적 {r['total']}\")")
+            git commit -m "chore(data): $(date -u +%F) 수집 ($NEW)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Build site
+        run: mkdocs build --strict
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

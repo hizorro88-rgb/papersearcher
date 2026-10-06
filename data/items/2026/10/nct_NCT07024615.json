@@ -1,0 +1,102 @@
+{
+ "abstract": "Some people with pancreatic ductal cancer (PDAC) have a protein called Claudin 18.2 (CLDN18.2) in their tumor. ASP2138 is thought to work by binding to CLDN18.2 and a protein on a type of immune cell called a T-cell. The T-cell \"tells\" the immune system to attack the tumor. This study is for people with resectable PDAC. Resectable means that the tumor can be removed by surgery.\n\nIn this study, adults with resectable PDAC will receive an ASP2138 injection just below the skin (subcutaneous) 2 weeks before surgery. After surgery, they will be given standard chemotherapy treatments chosen by their study doctor. These include mFOLFIRINOX, gemcitabine with nab-paclitaxel, or gemcitabine with capecitabine.\n\nPeople will receive chemotherapy treatment for up to 6 months, or until their cancer gets worse, they cannot tolerate the chemotherapy, or they or their study doctor thinks they should stop chemotherapy. People will have a final clinic visit about a month after finishing chemotherapy for health checks.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07024615",
+ "importance": 0.74,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07024615"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-06-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Astellas Pharma Global Development, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07024615"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Claudin (CLDN) 18.2",
+  "ASP2138",
+  "Safety",
+  "Tolerability"
+ ],
+ "title": "A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surgery, in People With Pancreatic Ductal Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "Astellas.registration@astellas.com",
+    "name": "Astellas Pharma Global Development, Inc.",
+    "phone": "800-888-7704"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Participant has histologically confirmed localized pancreatic adenocarcinoma which is deemed upfront resectable based on institutional multi-disciplinary review. Participant with localized pancreatic adenocarcinoma cannot have received any prior therapy.\n* Participant has confirmation of positive claudin (CLDN)18.2 test result by local laboratory prior to first dose of study intervention (ASP2138 dosing may be allowed after discussion with the medical monitor, if results are pending or a biopsy for CLDN18.2 testing is not clinically appropriate). Site should contact the sponsor to assess potential eligibility based on a local test result.\n* Participant has an available pretreatment tumor sample, if clinically appropriate and meets requirements.\n* Participant is able to undergo surgery and treatment with adjuvant chemotherapy per institutional standard of care.\n* Participant with a known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function of class 2B or better using the New York Heart Association Functional Classification.\n* Female participant is not pregnant and at least 1 of the following conditions apply:\n\n  * Not a woman of childbearing potential (WOCBP)\n  * WOCBP who has a negative serum pregnancy test at screening and agrees to follow the contraceptive guidance from the time of informed consent through at least 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy package insert \\[PI\\]/prescribing information, whichever is longer).\n* Female participant must not be breastfeeding or lactating starting at screening and throughout the investigational period and for 5 half-lives (6 months) after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Female participant must not donate ova starting at first administration of neoadjuvant ASP2138, throughout the investigational period, and for 6 months after final ASP2138 administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must agree to use contraception with female partner(s) of childbearing potential (including breastfeeding partner) throughout the treatment period and for 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must agree to remain abstinent or use a condom with pregnant partner(s) for the duration of the pregnancy throughout the investigational period and for 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must not donate sperm during the treatment period and for 6 months after ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Participant has at least 1 measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 within 28 days prior to the first dose of study intervention per investigator assessment.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Participant has a corrected QT interval by Fridericia (QTcF) ≤ 470 msec.\n* Participant must meet all of the criteria based on laboratory tests within 7 days prior to the first dose of study intervention. Participant has adequate organ and marrow function. If a participant has received a recent blood transfusion, the laboratory tests must be obtained ≥ 1 week after any blood transfusion.\n* Participant agrees not to participate in another interventional study while receiving study intervention in the present study.\n\nExclusion Criteria:\n\n* Participant has had within 6 months prior to first dose of study intervention any of the following: unstable angina, myocardial infarction, ventricular arrhythmia requiring intervention or hospitalization for heart failure.\n* Participant has active infection requiring systemic therapy that has not completely resolved within 7 days prior to the start of study intervention.\n* Participant has active autoimmune disease that has required systemic immunosuppressive treatment within the past 1 month prior to the start of study intervention.\n* Participant has uncontrolled serious psychiatric illness or social situations that would preclude study compliance.\n* Participant has another malignancy for which treatment is required.\n* Participant has a history or complication of interstitial lung disease.\n* Participant has a complete gastric outlet syndrome or a partial gastric outlet syndrome with persistent/recurrent vomiting.\n* Participant has known dihydropyrimidine dehydrogenase (DPD) deficiency. NOTE: Applicable if participant is receiving fluoropyrimidine containing chemotherapy. Screening for DPD deficiency should be conducted per local requirements.\n* Participant has known, existing uncontrolled coagulopathy. Concomitant treatment with full dose warfarin (coumadin) is not allowed.\n\n  * Participant may receive low molecular weight heparin (LMWH) (such as enoxaparin and dalteparin) and direct oral anticoagulant (DOAC) for management of deep venous thrombosis (DVT).\n* Participant has a history of bleeding diathesis or recent major bleeding events (i.e. Grade ≥ 2 bleeding events in the month prior to treatment).\n* Participant has uncontrolled intercurrent illness or infection.\n* Participant is known to have human immunodeficiency virus (HIV) infection. However, participants with cluster of differentiation (CD) 4+ T cell counts ≥ 350 cells/µL and no history of acquired immunodeficiency syndrome (AIDS) defining opportunistic infections within the past 6 months are eligible. NOTE: Screening for HIV infection should be conducted per local requirements.\n* Participant is known to have active hepatitis B (positive hepatitis B surface antigen \\[hBsAg\\]) or hepatitis C infection. Testing is required for known history of these infections or as mandated by local requirements. NOTE: Screening for these infections should be conducted per local requirements.\n\n  * For participant who is negative for hBsAg, but hepatitis B core (HBc) Ab positive, an HBV DNA test will be performed and if positive the participant will be excluded.\n  * Participant with positive hepatitis C virus (HCV) serology, but negative HCV RNA test results is eligible.\n  * Participant treated for HCV with undetectable viral load results is eligible.\n* Participant has a known history of UGT1A1 gene polymorphism resulting in complete loss of function of the UGT1A1 gene product (for participants receiving irinotecan containing chemotherapy).\n* Participant has any pre-existing severe gastric conditions such as active gastritis or ulcer that could be exacerbated by treatment.\n* Participant has received any prior chemotherapy, radiation therapy, immunotherapy, or biologic (\"targeted\") therapy or investigational therapy for treatment of the participant's pancreatic tumor.\n* Participant has received a live vaccine within 30 days of planned start of study therapy. NOTE: Seasonal influenza vaccines for injection are generally inactivated flu vaccines and are allowed.\n* Participant has any condition including clinically significant disease or co-morbidity that may adversely affect the safe delivery of treatment within this study or make the participant unsuitable for study participation.\n* Participant has prior severe allergic reaction; suspected, known immediate or delayed hypersensitivity; or intolerance or contraindication to any study intervention.\n* Participant has had a major surgical procedure 28 days before start of study intervention and has not fully recovered.",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "ASP2138",
+   "Oxaliplatin",
+   "Leucovorin",
+   "5-FU",
+   "Irinotecan",
+   "Gemcitabine",
+   "Nab-paclitaxel",
+   "Capecitabine"
+  ],
+  "last_update_posted": "2026-09-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT07024615",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-01-31",
+  "sex": "ALL",
+  "sponsor": "Astellas Pharma Global Development, Inc.",
+  "start_date": "2025-10-16",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

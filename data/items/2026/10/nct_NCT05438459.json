@@ -1,0 +1,94 @@
+{
+ "abstract": "Phase I Part :\n\nConfirm the safety of GAIA-102 as a monotherapy or GAIA-102 and pembrolizumab in combination for advanced gastrointestinal cancer of microsatellite stable with malignant ascites, and determine the recommended number of doses for Phase II part.\n\nPhase II Part(Gastric Cancer):Comparative Study Research the efficacy and safety of as a monotherapy or GAIA-102 and pembrolizumab for advanced gastrointestinal cancer of microsatellite stable with malignant ascites at the recommended dose of GAIA-102 decided in the Phase I part.\n\nPhase II Part (Pancreatic Cancer): Comparative Study Including a Run-in Cohort Research the efficacy and safety of a combination regimen of GAIA-102 and pembrolizumab added to existing chemotherapy (standard of care) for microsatellite stable advanced pancreatic cancer with malignant ascites at the recommended dosing frequency of GAIA-102 decided in the Phase I part.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05438459",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05438459"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2022-06-30",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Kyushu University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05438459"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "GAIA-102 Intraperitoneal Administration in Patients With Advanced Gastrointestinal Cancer of Microsatellite Stable With Malignant Ascites",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Gastric Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "oki.eiji.857@m.kyushu-u.ac.jp",
+    "name": "Eiji Oki",
+    "phone": "+81-92-642-5479"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Unresectable or advanced recurrent gastric cancer with evident peritoneal dissemination on imaging, or with malignant ascites, as well as unresectable or advanced recurrent pancreatic cancer.\n* Phase I:\n\nPatients with gastric cancer who have received 3 or more prior chemotherapy regimens and are refractory or intolerant to these therapies, and patients with pancreatic cancer who have received 2 or more prior chemotherapy regimens and are refractory or intolerant to these therapies.\n\nPhase II:\n\nPatients with gastric cancer who have received 2 or more prior chemotherapy regimens, including at least 1 regimen containing an immune checkpoint inhibitor, and are refractory or intolerant to these therapies, and patients with pancreatic cancer who have received 1 or more prior chemotherapy regimens, including at least 1 regimen containing gemcitabine, and are refractory or intolerant to these therapies.\n\nOnly patients with HER2-negative gastric cancer are eligible.\n\n* Abdominal port placement is possible\n* Phase I:\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab (only for patients in the pembrolizumab combination cohort)\n\nPhaseⅡ(gastric cancer):\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab or trifluridine/tipiracil hydrochloride (FTD/TPI) ,or to any components of these agents.\n\nPhaseⅡ(pancreatic cancer):\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab, irinotecan hydrochloride hydrate, fluorouracil, or calcium levofolinate hydrate ,or to any components of these agents.\n\n* Diagnosed gastric adenocarcinoma or pancreatic cancer with by histological or cytological examination\n* The patient has been confirmed to be \"negative (not MSS = MSI-high)\" by microsatellite instability (MSI) testing, or \"proficient mismatch repair (pMMR)\" by mismatch repair protein immunohistochemistry testing\n* The Eastern Cooperative Oncology Group (ECOG) Performance Status(PS) at the time of informed consent meets the following conditions.\n\nPhase I ：0-2, Phase II ：0-1\n\n* Patient aged 20years or older\n* Adequate major organs (bone marrow, heart, lungs, liver, kidneys, etc.) function:\n\nNeutrophil ≧1,500/mm3, hemoglobin ≧8.0 g/dL, Platelet ≧75,000/mm3, PT-INR≦ 1.5 , AST, ALT≦ 3 times the upper limit of reference value, T-Bil≦ 2 times the upper limit of reference value (T-Bil ≦ 3.0mg/dL , when drainage for obstructive jaundice), eGFR ≧30mL/min/1.73m2\n\n* Expected to survive for 3 months or more at the enrollment\n* Written informed consent\n\nExclusion Criteria:\n\n* Untreated cranial metastases.\n* Diagnosed with meningeal carcinomatosis\n* Received allogeneic hematopoietic stem cell transplantation\n* Participated in other clinical trials / clinical trials within 30 days prior to obtaining written consent and used or had used the investigational product or investigational equipment.\n* Existence or suspected active autoimmune disease\n* Continued systemic immunosuppressive therapy with corticosteroids in excess of 10 mg / day in terms of prednisolone or other immunosuppressants within 14 days prior to investigational product administration\n* Symptomatic interstitial pneumonia, or even if it is not symptomatic, it may interfere with diagnostic imaging in detecting new pneumonitis caused by the investigational product used in the clinical trial.\n* Have active double cancer and need treatment for the double cancer\n* Requires treatment as shown in \"Unacceptable Combination / Supportive Therapy\" during the clinical trial period\n* Have a medical history of severe hypersensitivity to immune checkpoint inhibitors or immune-related adverse events requiring treatment\n* Have one of the following complications Complication of cerebrovascular disorder with symptoms or history within 6 months before the enrollment, Active gastrointestinal perforation, fistula, diverticulitis, Symptomatic congestive heart failure, Bleeding tendency, Presence of blood clots that may cause embolism on the image, Unhealed fractures (excluding compression fractures associated with osteoporosis) or severe wounds requiring medical treatment, Uncontrollable digestive ulcer, Active infectious diseases requiring intravenous administration of antibiotics, antifungal agents or antiviral agents, HIV antibody positive\n* At the time of the enrollment, the period from the following prior treatment or the end of treatment has not passed.\n\nSurgery (including exploratory laparotomy / examination laparoscope): 2 weeks, Palliative radiotherapy: 1 week, Thoracic drainage: 1 week, Pretreatment antineoplastic (from the last administration): 3 weeks, Biopsy with incision, thoracic biopsy, treatment for trauma (excluding patients without wound healing), etc : 2 weeks\n\n* Scheduled thoracotomy or abdominal surgery during the clinical trial period\n* It is judged that it is difficult to enroll in this study due to clinically significant mental illness.\n* Pregnant women, lactating women, women who are currently pregnant, or have no intention of contraception for 4 months after consent is obtained.\n* Allergic to antibiotics and foreign animal-derived ingredients (pig and mouse)\n* Difficult to participate in the trial by the investigator",
+  "enrollment": 176,
+  "has_results": false,
+  "interventions": [
+   "GAIA-102",
+   "GAIA-102",
+   "Pembrolizumab",
+   "Pembrolizumab",
+   "Trifluridine/tipiracil hydrochloride (FTD/TPI)",
+   "Irinotecan hydrochloride hydrate",
+   "Calcium levofolinate hydrate",
+   "Fluorouracil"
+  ],
+  "last_update_posted": "2026-09-15",
+  "location_countries": [
+   "Japan"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "20 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05438459",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2032-03-31",
+  "sex": "ALL",
+  "sponsor": "Kyushu University",
+  "start_date": "2022-06-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

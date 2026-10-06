@@ -1,0 +1,109 @@
+{
+ "abstract": "This clinical trial is looking at a combination of drugs called trastuzumab and pertuzumab. This combination of drugs is approved together as standard of care treatment for adult patients with breast cancer (often with other anti-cancer drugs). This means it has gone through clinical trials and been approved by the Medicines and Healthcare products Regulatory Agency (MHRA) in the UK.\n\nTrastuzumab and pertuzumab work in patients with these types of cancers which have a molecular alteration called HER2 amplification or HER2 activating mutation.\n\nInvestigators now wish to find out if it will be useful in treating patients with other cancer types which are also HER2 amplified or HER2 mutated. If the results are positive, the study team will work with the NHS and the Cancer Drugs Fund to see if these drugs can be routinely accessed for patients in the future.\n\nThis trial is part of a trial programme called DETERMINE. The programme will also look at other anti-cancer drugs in the same way, through matching the drug to rare cancer types or ones with specific mutations.\n\nDETERMINE Treatment Arm 04: Trastuzumab in combination with pertuzumab in Adult, Paediatric and TYA patients with rare\\* cancers with HER2 amplification or activating mutations and in common cancers where HER2 amplification or activating mutations are considered to be infrequent.\n\n\\*Rare is defined generally as incidence less than 6 cases in 100,000 patients (includes paediatric and teenagers/young adult cancers) or common cancers with rare alterations.\n\nThis treatment arm has a target sample size of 30 evaluable patients. Sub-cohorts may be defined and further expanded to a target of 30 evaluable patients each.\n\nThe ultimate aim is to translate positive clinical findings to the NHS (Cancer Drugs Fund) to provide new treatment options for rare adult, paediatric and TYA cancers.\n\nOUTLINE:\n\nPre-screening: The Molecular Tumour Board (MTB) makes a treatment recommendation for the patient based on molecularly-defined cohorts.\n\nScreening: Consenting patients undergo biopsy and collection of blood samples for research purposes.\n\nTreatment: Patients will receive trastuzumab and pertuzumab until disease progression without clinical benefit, unacceptable adverse events (AEs) or withdrawal of consent. Patients will also undergo collection of blood samples at various intervals while receiving treatment and at End of Treatment (EoT).\n\nAfter completion of study treatment, patients are followed up every 3 months for 2 years.\n\nTHE DETERMINE TRIAL MASTER (SCREENING) PROTOCOL:\n\nPlease see DETERMINE Trial Master (Screening) Protocol record (NCT05722886) for information on the DETERMINE Trial Master Protocol and applicable documents.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05786716",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05786716"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2023-03-28",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Research UK",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05786716"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Adult",
+  "Antibodies, monoclonal",
+  "Cancer",
+  "Child",
+  "Molecular Targeted Therapy",
+  "Mutation",
+  "Paediatric",
+  "Pertuzumab",
+  "Precision Medicine",
+  "Rare"
+ ],
+ "title": "DETERMINE Trial Treatment Arm 04: Trastuzumab in Combination With Pertuzumab in Adult, Paediatric and Teenage/Young Adult Patients With Cancers With HER2 Amplification or Activating Mutations",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Haematological Malignancy",
+   "Colorectal Neoplasms",
+   "Urinary Bladder Neoplasm",
+   "Gallbladder Neoplasms",
+   "Salivary Gland Neoplasm",
+   "Lung Neoplasm",
+   "Pancreatic Neoplasm",
+   "Ovarian Neoplasms",
+   "Prostatic Neoplasm",
+   "Skin Neoplasm",
+   "Solid Tumour"
+  ],
+  "contacts": [
+   {
+    "email": "determine@cancer.org.uk",
+    "name": "Aida Sarmiento Castro",
+    "phone": "+44 207 242 0200"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "THE PATIENT MUST FULFIL THE ELIGIBILITY CRITERIA WITHIN THE DETERMINE MASTER PROTOCOL (NCT05722886) AND WITHIN THE TREATMENT ARM 04 (TRASTUZUMAB AND PERTUZUMAB) OUTLINED BELOW\\*\n\n\\*When trastuzumab- and pertuzumab-specific inclusion/exclusion criteria or precautions below differ from those specified in the Master Protocol, the trastuzumab- and pertuzumab-specific criteria will take precedence.\n\nInclusion Criteria:\n\nA. Confirmed diagnosis of a malignancy harbouring HER2 amplification, or an appropriate activating mutation as defined by the MTB, using an analytically validated next-generation sequencing method.\n\n• A HER2 amplification copy number between 5-9 will require an MTB discussion. A HER2 amplification copy number ≥10 will be fast-tracked for an MTB recommendation, unless there are any patient-specific individualities (such as multiple gene amplifications) that require MTB discussion.\n\nB. Age 12 years or above.\n\nC. Women of childbearing potential are eligible provided that they meet the following criteria:\n\nHave a negative serum or urine pregnancy test before enrolment and;\n\nAgree to use one form of effective birth control method such as:\n\nI. combined (oestrogen and progestogen containing) hormonal contraception associated with inhibition of ovulation (oral, intravaginal or transdermal):\n\nII. progestogen-only hormonal contraception associated with or without inhibition of ovulation (oral, injectable or implantable)\n\nIII. intrauterine device (IUD)\n\nIV. intrauterine hormone-releasing system (IUS)\n\nV. bilateral tubal occlusion\n\nVI. vasectomised partner\n\nVII. sexual abstinence\n\nVIII. male or female condom with or without spermicide\n\nIX. cap, diaphragm or sponge with spermicide\n\nEffective from the first administration of trastuzumab or pertuzumab (whichever is first), throughout the trial and for seven months after the last administration of trastuzumab or pertuzumab (whichever is later).\n\nD. Male patients with partners who are women of childbearing potential are eligible provided that they agree to the following, from the first administration of trastuzumab or pertuzumab (whichever is first), throughout the trial and for seven months after the last administration of trastuzumab or pertuzumab (whichever is later):\n\n* Agree to take measures not to father children by using a barrier method of contraception (condom plus spermicide) or to sexual abstinence.\n* Non-vasectomised male patients with partners who are women of childbearing potential must also be willing to ensure that their partner uses an effective method of contraception as in C, above.\n* Male patients with pregnant or lactating partners must be advised to use barrier method contraception (e.g. condom) to prevent drug exposure of the foetus or neonate.\n\nAll male patients must refrain from donating sperm for the same period.\n\nE. Patients must be able and willing to undergo a fresh tissue biopsy at baseline and blood samples for translational research. Note that for patients with haematological malignancies or neuroblastomas, blood, bone marrow aspiration and/or trephine or lymph node biopsy samples may be taken.\n\nF. ADULT PATIENTS (≥18 years): Adequate organ function as per haematological and biochemical indices within the ranges defined in the protocol. These measurements should be performed to confirm the patient's eligibility.\n\nG. PAEDIATRIC PATIENTS (\\<18 years): Adequate organ function as per haematological and biochemical indices within the ranges defined in the protocol. These measurements should be performed to confirm the patient's eligibility.\n\nExclusion Criteria:\n\nA. Diagnosis of HER2-positive early or metastatic breast cancer.\n\nB. Female patients who are pregnant, breastfeeding or planning to become pregnant during the trial or within seven months following their last dose of trastuzumab or pertuzumab (whichever is later).\n\nC. Severe dyspnoea at rest due to complications of advanced malignancy or requiring supplementary oxygen therapy.\n\nD. Known hypersensitivity to trastuzumab or pertuzumab, murine proteins, or to any of the excipients.\n\nE. Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment, or anticipation of need for such a vaccine during trastuzumab and pertuzumab treatment or within six months after the final dose of trastuzumab and pertuzumab.\n\nF. Patients with clinically significant pre-existing cardiac conditions, including uncontrolled or symptomatic angina, uncontrolled atrial or ventricular arrhythmias (within three months), NYHA class III or IV congestive heart failure.\n\nLeft Ventricular Ejection Fraction \\<55%.\n\nPatients with a cerebrovascular event (including stroke or transient ischaemic attack \\[TIA\\]) or cardiovascular event (including acute myocardial infarction \\[MI\\]) within three months before the first dose of trastuzumab and pertuzumab.\n\n• Patients with primary CNS tumours may be considered unless intra-tumoural bleeding has occurred within 2 weeks of the first dose of trastuzumab and pertuzumab, and patients with punctate CNS haemorrhages \\<3 mm may be considered.\n\nG. Prior treatment with the same class of drug unless genetic profile demonstrates a mechanism of resistance known to be potentially sensitive to trastuzumab or pertuzumab.\n\nH. Any clinically significant concomitant disease or condition (or its treatment) that could interfere with the conduct of the trial or absorption of oral medications or that would, in the opinion of the Investigator, pose an unacceptable risk to the patient in this trial.\n\nI. Known active infections (bacterial, fungal or viral) that would interfere with the assessment of safety or efficacy of trastuzumab and pertuzumab, including human immunodeficiency virus (HIV) positivity. Patients with history of testing positive for HIV infection are eligible provided the each of the following conditions are met:\n\n* CD4 count ≥350/μL;\n* undetectable viral load;\n* receiving antiretroviral therapy (ART) that does not interact with IMP (patients should be on established ART for at least four weeks); and\n* no HIV/ acquired immune deficiency syndrome (AIDS)-associated opportunistic infection in the last 12 months.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "Trastuzumab",
+   "Pertuzumab"
+  ],
+  "last_update_posted": "2025-12-02",
+  "location_countries": [
+   "United Kingdom"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "12 Years",
+  "n_locations": 27,
+  "nct_id": "NCT05786716",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2029-10",
+  "sex": "ALL",
+  "sponsor": "Cancer Research UK",
+  "start_date": "2023-03-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

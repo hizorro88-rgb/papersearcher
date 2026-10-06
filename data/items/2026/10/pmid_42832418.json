@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Huggett MT",
+  "Tudzarova S",
+  "Proctor I",
+  "Loddo M",
+  "Keane MG",
+  "Stoeber K",
+  "Williams GH",
+  "Pereira SP"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42832418",
+ "importance": 0.5,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.18632/oncotarget.28902",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42832418"
+ },
+ "pub_types": [
+  "Editorial",
+  "Comment"
+ ],
+ "published_at": "2026-01-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncotarget",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832418/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Editorial Note: Cdc7 is a potent anti-cancer target in pancreatic cancer due to abrogation of the DNA origin activation checkpoint",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

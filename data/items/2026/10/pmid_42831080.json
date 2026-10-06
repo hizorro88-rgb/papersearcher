@@ -1,0 +1,55 @@
+{
+ "abstract": "Pancreatic cancer (PC) remains one of the most lethal malignancies, characterized by a dense desmoplastic stroma, an immunosuppressive microenvironment, and poor response to conventional therapies. Sonocavitation therapy, based on ultrasound microbubble (USMB) technology, has emerged as a potential strategy to improve intratumoral drug delivery, remodel the tumor microenvironment (TME), and enhance chemotherapy, immunotherapy, gene therapy, and radiotherapy. Proposed mechanisms include sonoporation, cascade cavitation, vascular normalization, and mechano-acoustic remodeling of the stroma. Early clinical studies suggest that USMB-assisted chemotherapy is feasible and may improve disease control, although the evidence remains heterogeneous and is based largely on small, single-center or early-phase studies. Major barriers to translation include nonstandardized acoustic parameters, pharmacokinetic mismatch between microbubbles and co-administered drugs, incomplete representation of human disease in preclinical models, and limited long-term safety data. Future work should prioritize standardized acoustic dosing, biomarker-guided patient selection, clinically practical formulations, rigorous pharmacokinetic and biodistribution studies, and adequately powered randomized trials. This review summarizes the mechanistic rationale, preclinical evidence, and clinical progress of sonocavitation therapy in pancreatic cancer and outlines priorities for its clinical translation.",
+ "authors": [
+  "Wang Y",
+  "Yang S",
+  "Shama S",
+  "Zhao R",
+  "Liang X"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42831080",
+ "importance": 0.62,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": "10.1016/j.isci.2026.117570",
+  "nct": [],
+  "pmcid": "PMC13634350",
+  "pmid": "42831080"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "iScience",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42831080/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Sonocavitation therapy for pancreatic cancer: Research progress, clinical application and future perspectives",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,100 @@
+{
+ "abstract": "The present trial is an open, single-arm phase I clinical study aimed at assessing the safety, tolerability, viral distribution and shedding patterns, pharmacodynamics, immunogenicity, and antitumor efficacy of GC001 oncolytic virus injection in patients with advanced solid tumors following a single administration.\n\nThe main objective of this study is:\n\nTo evaluate the safety and tolerability i.e. dose limiting toxicity (DLT), maximum tolerated dose (MTD) or maximum administered dose (MFD) of GC001 injection in patients with advanced solid tumors.\n\nThe ongoing trial is structured as an open, single-arm Phase I clinical study. The initial phase of the study, Part I, utilizes a 3+3 design to meticulously evaluate the escalation of the dose of GC001. The total enrollment of participants will be determined by the observed toxicity levels and the extent of dose cohorts explored, with an anticipated enrollment ranging from 21 to 36 eligible individuals. A critical 28-day period post-administration has been established for the observation of dose-limiting toxicities (DLTs) to ensure participant safety. It is essential to maintain this standardized 28-day observation window for all enrolled groups to uphold the highest safety standards.\n\nThe secondary aims of this investigation are to assess the biodistribution and shedding of the virus, the pharmacodynamic characteristics, immunogenicity, and the initial antitumor efficacy of the GC001 injection in patients suffering from advanced solid tumors. These objectives are integral to understanding the broader impact and potential of the treatment in this patient population.\n\nFollowing the completion of the DLT assessment for all participants within each dose cohort, the SMC may decide whether to proceed with dose escalation, explore intermediate/higher doses, or terminate the dose escalation study based on the data obtained on safety, tolerability, biodistribution, and shedding of the virus (if any), pharmacodynamics (if any), immunogenicity (if any), and antitumor activity (if any). The SMC may also decide to adjust doses, administration schedules, and the time of biospecimen collection.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06508307",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06508307"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-07-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "GONGCHU Biotechnology Co., Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06508307"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "GC001、Oncolytic virus 、WR"
+ ],
+ "title": "A Phase I Clinical Study of Intratumoral Injection Oncolytic Vaccinia Virus GC001 in Patient With Advanced Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Sarcoma",
+   "Cervical Cancer",
+   "Colon Cancer",
+   "Lung Cancer",
+   "Ovarian Cancer",
+   "Pancreatic Cancer",
+   "Hepatocellular Carcinoma",
+   "Breast Cancer",
+   "Gastric Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "morlon_pla@126.com",
+    "name": "Mo guoyu",
+    "phone": "13710803863"
+   },
+   {
+    "email": null,
+    "name": "luo suxia, Professor",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nTo be eligible for participation in this study, individuals must meet the following criteria:\n\n1. Fully comprehend the purpose, nature, methods, and potential adverse effects of the trial, volunteer as a participant, and provide informed consent by signing the form prior to undergoing any procedures.\n2. Be male or female patients aged 18 to 75 years (including those with borderline age values).\n3. Patients with advanced solid tumors, including but not limited to: colorectal cancer, lung cancer, ovarian cancer, cervical cancer, etc., that have been histologically or cytologically diagnosed and for which there is either no current standard of care or the standard treatment has proven ineffective (progression of the disease after treatment or intolerance of treatment).\n4. Possess at least one extracranial measurable lesion (as determined by a CT scan or MRI conducted no more than 4 weeks before signing the informed consent form) that is suitable for intratumoral injection based on RECIST v1.1 criteria.\n5. Have an Eastern Cooperative Oncology Group (ECOG) physical status score of 0 or 1.\n6. Be expected to survive for at least 3 months.\n7. Within 7 days prior to receiving the first dose of treatment, patients must meet the following organ function and bone marrow reserve:\n\n   1. Hematology: platelets (PLT) ≥ 80 × 109/L, neutrophil count (ANC) ≥ 1.5 × 109/L, and hemoglobin ≥ 9 g/dL (without having received adjuvants like EPO, G-CSF, or GM-CSF in the 14 days leading up to the first dose, and not having received a blood transfusion for at least 7 days);\n   2. Coagulation function: INR ≤ 1.2, APTT ≤ 1.2 × ULN (upper limit of normal), PT ≤ 1.2 × ULN;\n   3. Hepatic function: total bilirubin ≤ 1.5\n   4. × ULN (patients with Gilbert syndrome may be enrolled with a total bilirubin ≤ 3 × ULN), AST and ALT ≤ 3 × ULN (or ≤ 5 × ULN in the presence of hepatic metastases);\n   5. Renal function: serum creatinine ≤ 1.5 × ULN or creatinine clearance ≥ 50 mL/min (according to the Cockcroft-Gault formula, see Appendix 2 for details);\n   6. Cardiac function: QT interval (QTcF) ≤ 470 ms in female and ≤ 450 ms in male.\n8. Ability to effectively communicate with the investigator and comprehend and adhere to the requirements of the study.\n\nExclusion Criteria:\n\n1. Patients with a previous diagnosis of any other malignancy within 5 years prior to the first dose, except for malignancies with a low risk of metastasis and risk of death (5-year survival \\> 90%), such as adequately treated basal cell or squamous cell skin cancer, cervical carcinoma in situ, and other carcinomas in situ.\n2. Females of childbearing age who have a positive pregnancy test or are lactating.\n3. Individuals with allergies (defined as ≥2 drug allergies) or hypersensitivity to similar products or excipients.\n4. Those who have received smallpox vaccination and experienced severe systemic reactions or side effects.\n5. Patients who have previously received lysosomal virus, stem cell, or gene therapy products.\n6. Individuals using other investigational drugs or participating in clinical trials of other drugs within 28 days prior to the first dose (except for those who did not receive the test drug).\n7. Those who have undergone antitumor therapy, including radiation therapy (except palliative radiotherapy), chemotherapy, biotherapy, endocrine therapy, and immunotherapy within 28 days prior to the first administration of the drug; Individuals using small molecule targeted agents with antitumor effects within 14 days prior to the first administration of the drug or within 5 times the half-life of the drug (whichever is longer); Individuals using herbal medicines with antitumor effects within 14 days prior to the first administration of the drug.\n8. Individuals who have undergone surgery or interventional therapy (excluding tumor biopsy, puncture, etc.), or have unhealed wounds, ulcers, or fractures within 28 days prior to the first dose.\n9. Individuals who have been treated with systemic corticosteroids (at a dose equivalent to \\>10 mg prednisone/day) or other immunosuppressive medications within 28 days prior to the first dose, or who are currently taking antiviral medications (such as ribavirin, rifampin, imatinib, etc.), enrollment is permitted under the following cases:\n\n   1. short-term (≤7 days) use of corticosteroids for prophylaxis or treatment of non-autoimmune allergic diseases is permitted;\n   2. the use of topical topical or inhaled glucocorticoids is permitted;\n   3. patients with hepatitis B who are stable while receiving antiviral medications.\n10. Patients with clinically symptomatic CNS metastases or poorly controlled CNS metastases despite treatment (patients who have been stable for more than 4 weeks by MRI/CT without requiring steroidal medications or other CNS-targeted treatments for at least 4 weeks) may be eligible for enrollment.\n11. Individuals with clinically significant or rapidly accumulating ascites, pericardial and/or pleural effusions.\n12. A history of severe cardiovascular disease, including but not limited to:\n\n    1. evere cardiac rhythm or conduction abnormalities, such as ventricular arrhythmias requiring medical intervention, II-III degree atrioventricular block, etc;\n    2. According to the standards of the New York Heart Association (NYHA), individuals with grade III-IV heart failure;\n    3. Recent cardiovascular events such as acute coronary syndrome, congestive heart failure, aortic dissection, stroke, cerebrovascular malformation, or other Grade 3 or higher events within the past 6 months prior to the first administration;\n    4. Uncontrolled hypertension despite standard antihypertensive therapy, with blood pressure persistently above systolic blood pressure \\< 160 mmHg and diastolic blood pressure \\< 100 mmHg.\n13. Recent Grade 3 or greater bleeding event within 6 months prior to the first use of study drug, or who have current \\> Grade 2 bleeding, or hemangioma/vascular malformation, or tumor stroke, tumor invasion of a blood vessel, or active peptic ulcer, or esophageal varices judged by the investigator to be at significant risk for bleeding.\n14. Those with a history of severe hemoptysis。\n15. Adverse effects from prior antineoplastic therapy that have not recovered to a CTCAE v5.0 grade rating of ≤ 1 (excluding non-risky toxicities like alopecia).\n16. Patients with uncontrolled or severe diseases, including but not limited to persistent or active infections requiring antibiotic therapy.\n17. Subjects with active or prior history of autoimmune diseases with potential for recurrence (e.g., systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, autoimmune thyroid disease, multiple sclerosis, vasculitis, glomerulonephritis, etc.) or at high risk (e.g., patients who have undergone organ transplantation requiring immunosuppressive therapy) are not eligible for enrollment. However, enrollment is permitted for subjects with:\n\n    1. type 1 diabetes mellitus that is stabilized on a fixed dose of insulin;\n    2. autoimmune hypothyroidism or Hashimoto's thyroiditis that requires only hormone replacement therapy.\n18. Individuals with a history of exfoliative skin conditions requiring systemic therapy (e.g., eczema or atopic dermatitis) are also excluded。\n19. Persons who are positive for human immunodeficiency virus (HIV) antibodies.\n20. Persons who have active hepatitis B (HBV)/hepatitis C (HCV) infection are not eligible for enrollment. However, subjects with a previous history of hepatitis C but negative HCV RNA at screening may be enrolled, and those who are HBsAg positive but have HBV DNA \\<500 IU/ml or below the lower limit of detection at the study center may also be enrolled. Subjects with primary liver cancer and HBV DNA \\<1000 IU/ml may be enrolled as well.\n21. Male and female patients who refuse to use an appropriate method of contraception, (such as the simultaneous use of spermicides, barrier contraceptives, and/or intrauterine contraceptives, as outlined in Appendix 1) throughout the study period and during the safety follow-up period are excluded.\n22. Patients with documented psychiatric illnesses or disorders that may impact adherence to the trial protocol.\n23. Patients with malignant tumors that may require antitumor therapy other than the investigational drug GC001.\n24. Patients who, as determined by the investigator, are unsuitable for participation in the study, including those with tumors surrounding major vascular structures such as the carotid arteries, tumors adjacent to critical neurovascular structures, or airways, or tumors in locations that present a high risk of adverse events or are unsuitable for intratumoral injections.",
+  "enrollment": 21,
+  "has_results": false,
+  "interventions": [
+   "A Phase I Clinical Study of Intratumoral Injection Oncolytic Vaccinia Virus GC001 in Patients With Advanced Solid Tumors"
+  ],
+  "last_update_posted": "2025-08-21",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06508307",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-01",
+  "sex": "ALL",
+  "sponsor": "GONGCHU Biotechnology Co., Ltd",
+  "start_date": "2023-04-26",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

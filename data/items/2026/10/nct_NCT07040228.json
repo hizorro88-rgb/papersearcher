@@ -1,0 +1,92 @@
+{
+ "abstract": "The purpose of this clinical trial is to explore the efficacy and safety of Regorafenib combined with Toripalimab and Paclitaxel-albumin in patients as the third line treatment for patients with unresectable or metastatic pancreatic cancer.The main question it aims to answer is:\n\nPhase Ib: Evaluate the maximum tolerated dose (MTD) of regorafenib and/or phase II clinical recommendations Dose (RP2D).\n\nPhase II: Evaluation of the efficacy and safety of Regorafenib Combined with Terriptylimab and Albumin Paclitaxel for Late Third Line Treatment for pancreatic cancer patients.\n\nParticipants will:\n\nPhase Ib: Selected patients will receive treatment with Regorafenib at main dose levels of 40, 80, and 120mg/d (po d1-14 Q3W), Toripalimab(240mg, ivgtt, d1, Q3W), and Paclitaxel-albumi(125mg/m2, ivgtt, d1, 8, Q3W) until disease progression or intolerable toxicity occurs.\n\nPhase II: Regorafenib: Based on the results of the completed Phase I study, determine the dosage for Phase II (po d1-14 Q3W). Toripalimab (240mg, ivgtt, d1, Q3W) and Paclitaxel-albumi (125mg/m2, ivgtt, d1, 8, Q3W) until disease progression or intolerable toxicity occurs.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07040228",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07040228"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2025-06-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Junjie Hang",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07040228"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [
+  "Efficacy",
+  "Safety",
+  "Advanced pancreatic cancer",
+  "Regorafenib",
+  "Toripalimab"
+ ],
+ "title": "A Phase Ib/II Clinical Study of Regorafenib Combined With Toripalimab and Albumin-bound Paclitaxel for the Third-line Treatment of Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [
+   {
+    "email": "katerhjj0000@126.com",
+    "name": "Hang Junjie, doctorate",
+    "phone": "86+13681709736"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. The patient fully understands this study, voluntarily participates and signs an informed consent form (ICF);\n2. Age ≥ 18 years old and ≤ 80 years old;\n3. Patients with unresectable/metastatic pancreatic cancer confirmed by histopathology;\n4. Imaging confirmation of tumor progression after previous first-line and second-line standard treatment;\n5. According to RECIST 1.1 criteria, patients must have at least one measurable target lesion;\n6. Eastern Cancer Collaboration Group (ECOG) Physical Fitness Status Score: 0-2 points;\n7. Expected survival time ≥ 2 months;\n8. Absolute neutrophil count (ANC) ≥ 1.5 × 10 \\^ 9/L, platelets ≥ 100 × 10 \\^ 9/L, and hemoglobin ≥ 90 g/L (No blood transfusion or blood products within 14 days prior to laboratory examination.\n\n   Not treated with granulocyte colony-stimulating factor or other hematopoietic stimulating factors);\n9. Liver and kidney function: serum creatinine ≤ 1.5 times the upper limit of normal value; AST and ALT ≤ 2.5 times the upper limit of normal values (≤ 5 times the upper limit of normal values for patients with liver metastases); Total bilirubin ≤ 1.5 times the upper limit of normal value (≤ 3 times the upper limit of normal value for patients with liver metastasis);\n10. Women of childbearing age must undergo a pregnancy test (serum) within 7 days before enrollment, and the result must be negative, And willing to use appropriate contraception methods during the trial period and 6 months after the last administration of the trial drug.\n\nExclusion Criteria:\n\n1. Have hypersensitivity reactions to any research drug or its components;\n2. Concurrent serious uncontrolled infections or other serious uncontrolled accompanying diseases, moderate or severe kidney injury; (such as progressive infection, uncontrollable hypertension, diabetes, etc.);\n3. Heart function and disease meet one of the following conditions:\n\n   1. Long QTc syndrome or QTc interval\\>480 ms;\n   2. Complete left bundle branch block, grade II or III atrioventricular block;\n   3. Severe and uncontrolled arrhythmias requiring medication treatment;\n   4. New York College of Cardiology classification ≥ III;\n   5. Heart ejection fraction (LVEF) below 50%;\n   6. History of myocardial infarction, unstable angina, and severe unstable ventricular arrhythmia within 6 months prior to recruitment or any other arrhythmia requiring treatment, history of clinically severe pericardial disease, or there may be electrocardiographic evidence of acute ischemic or active conduction system abnormalities.\n4. Active infection of hepatitis B and C (hepatitis B virus surface antigen is positive and hepatitis B virus DNA exceeds 1x103 copies/mL; Hepatitis C virus RNA exceeding 1x103 copies/mL).Asymptomatic chronic carriers of hepatitis B or hepatitis C excluded;\n5. Human immunodeficiency virus (HIV) infection (HIV antibody positive);\n6. Imaging confirms intestinal obstruction;\n7. Previously or currently suffering from other malignant tumors simultaneously (Except for non melanoma basal cell carcinoma and breast/cervical carcinoma in situ that have been effectively controlled and other malignant tumors that have been effectively controlled without treatment in the past five years);\n8. Pregnant and lactating women, as well as reproductive age patients who are unwilling to take contraceptive measures;\n9. Patients who require treatment for merging with other malignant tumors;\n10. History of pulmonary hemorrhage/hemoptysis ≥ grade 2 (defined as at least 2.5mL of bright red blood) within one month prior to the first administration;\n11. Within 6 months prior to the first administration, there are arterial embolism, severe bleeding (excluding bleeding caused by surgery), and a tendency for severe bleeding;\n12. Merge symptomatic brain metastases, meningeal metastases, spinal cord tumor invasion, and spinal cord compression syndrome;\n13. Have used other clinical trial drugs within one month before the first administration;\n14. The researchers have determined that patients who are not suitable to participate in this study.",
+  "enrollment": 23,
+  "has_results": false,
+  "interventions": [
+   "Regorafenib combined with Toripalimab and Albumin paclitaxel"
+  ],
+  "last_update_posted": "2026-05-18",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07040228",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-05-30",
+  "sex": "ALL",
+  "sponsor": "Junjie Hang",
+  "start_date": "2025-05-26",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

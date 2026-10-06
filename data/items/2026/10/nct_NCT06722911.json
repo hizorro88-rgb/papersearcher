@@ -1,0 +1,95 @@
+{
+ "abstract": "This is a prospective, single-arm trial. The main purpose of the study is to evaluate the efficacy and safety of Nimotuzumab combined with nab-paclitaxel+ gemcitabine (AG regimen) for postoperative adjuvant treatment of pancreatic cancer with EGFR-positive.\n\nThis clinical study is designed as a prospective, open-label, single arm, phase II study to evaluate the clinical efficacy and safety of Nimotuzumab combined with AG (nab-paclitaxel+ gemcitabine) as postoperative adjuvant therapy in patients with EGFR-positive pancreatic cancer. The main endpoint is disease-free survival (DFS). Additional end points included distant metastasis-free survival (DMFS), overall survival (OS), tumor-related markers and safety.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-06",
+ "history": [
+  {
+   "date": "2026-10-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06722911",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-10-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06722911"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-12-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhejiang Provincial People's Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06722911"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Study of Adjuvant Nimotuzumab Combined with Nab-paclitaxel+ Gemcitabine in EGFR-positive Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Resectable"
+  ],
+  "contacts": [
+   {
+    "email": "mouyiping@hmc.edu.cn",
+    "name": "Yiping Mou, Dr",
+    "phone": "0086-057185893643"
+   },
+   {
+    "email": null,
+    "name": "Tao Xia, Dr",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Able and willing to provide a written informed consent.\n* 2\\. Age 18-75 years old, gender unlimited;\n* 3\\. Histologically or cytologically confirmed resected pancreatic ductal adenocarcinoma (PDAC), resectable evaluation is based on criteria of NCCN guidelines, no evidence of distant metastasis as demonstrated by imaging;\n* 4\\. Postoperative pathology suggested R0/R1 resection;\n* 5\\. EGFR positive (by immunohistochemistry);\n* 6\\. KRAS gene and CDX-2 protein status must have been determined at baseline (only for post hoc analysis);\n* 7\\. Adequate organ and bone marrow function, defined as follows: absolute neutrophil count (ANC)≥1.5×10\\^9/L; platelets≥80×10\\^9/L; hemoglobin≥9.0 g/dL; serum total bilirubin (TBIL)≤1.5×ULN; aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 times the upper limit of normal (ULN); serum creatinine≤1.5×ULN or estimated creatinine clearance \\&gt; 60 mL/min;\n* 8\\. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n* 9\\. Postoperative survival is expected to be ≥3 months;\n* 10\\. Fertile subjects are willing to take contraceptive measures during the study period.\n\nExclusion Criteria:\n\n* 1\\. Prior neo-adjuvant treatment, radiation therapy, or systemic therapy for pancreatic adenocarcinoma;\n* 2\\. History of other malignancies (except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix);\n* 3\\. Accompanied by other serious diseases, including but not limited to: compensatory heart failure (NYHA grade III and IV), unstable angina, poorly controlled arrhythmias, uncontrolled hypertension (SBP\\&gt;160mmHg or DBP\\&gt;100mmHg); active infections; unmanageable diabetes mellitus; presence of uncontrolled pleural effusion, pericardial effusion, or ascites requiring drainage; severe portal hypertension; gastric outlet obstruction; Respiratory insufficiency;\n* 4\\. Postoperative complications such as bleeding, pancreatic fistula, gastric obstruction, abdominal infection, and biliary fistula, which made the patient unable to receive adjuvant therapy within 12 weeks after surgery;\n* 5\\. CA199\\&gt;180 U/ml within 21d before adjuvant therapy;\n* 6\\. Known allergy to prescription or any component of the prescription used in this study;\n* 7\\. Known HIV, or syphilis infection, or active hepatitis (hepatitis B, hepatitis C);\n* 8 .Other reasons that are not suitable to participate in this study according to the researcher\\&#39;s judgment.",
+  "enrollment": 57,
+  "has_results": false,
+  "interventions": [
+   "Nimotuzumab",
+   "AG"
+  ],
+  "last_update_posted": "2024-12-09",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06722911",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-09-30",
+  "sex": "ALL",
+  "sponsor": "Zhejiang Provincial People's Hospital",
+  "start_date": "2024-11-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}
