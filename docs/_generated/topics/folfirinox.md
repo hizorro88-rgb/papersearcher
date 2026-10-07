@@ -87,6 +87,6 @@ comments: true
 - NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).
 - FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
 
 ---

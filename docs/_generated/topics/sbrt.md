@@ -38,13 +38,17 @@ comments: true
 #### [Pancreatic Reirradiation: A Multi-Institutional Retrospective Analysis of Feasibility, Tolerability, and Clinical Outcomes](https://pubmed.ncbi.nlm.nih.gov/42832634/)
 `논문` `관찰연구` `치료 전반` · 2026-10-05 · PubMed · Am J Clin Oncol · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832634/) · [DOI](https://doi.org/10.1097/COC.0000000000001381) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832634)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832634/) · [DOI](https://doi.org/10.1097/COC.0000000000001381) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832634)</small>
 
 ---
 <a id="pmid-42833242"></a>
 #### [Introduce 4π dynamic spot-scanning proton arc therapy (SPArc-4π) for pancreatic cancer: a comparative planning study with IMPT](https://pubmed.ncbi.nlm.nih.gov/42833242/)
 `논문` `관찰연구` `치료 전반` · 2026-10-05 · PubMed · Phys Med Biol · 중요도 0.71
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42833242/) · [DOI](https://doi.org/10.1088/1361-6560/aeb05f) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42833242)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42833242/) · [DOI](https://doi.org/10.1088/1361-6560/aeb05f) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42833242)</small>
 
 ---

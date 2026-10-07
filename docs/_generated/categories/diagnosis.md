@@ -25,7 +25,7 @@ comments: true
 
 Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct06593431"></a>
@@ -42,7 +42,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 모든 종양 병소에 대한 전이 지향 치료(MDT) 병용군과 전신 항암 화학요법 단독군을 비교합니다.
 - 1차 평가변수는 무진행 생존기간(PFS)이며 주요 2차 평가변수는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
 <a id="nct-nct07409272"></a>
@@ -59,7 +59,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 표준 항암화학요법인 mFOLFIRINOX 또는 NALIRIFOX에 세티데그라십(setidegrasib) 또는 위약을 무작위로 병용 투여하여 전체 생존기간 개선 여부를 평가합니다.
 - 국내 8개 임상시험 기관이 참여하여 환자를 모집 중입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
 ---
 <a id="nct-nct07562152"></a>
@@ -76,7 +76,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - Atebimetinib과 변형된 GnP 병용요법(A군)을 표준 GnP 단독요법(B군)과 비교합니다.
 - 전이성 췌장 선암 환자를 위한 1차 치료 임상시험입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
 <a id="nct-nct06897644"></a>
@@ -94,7 +94,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 완전 반응, 부분 반응, 안정 병변 또는 비진행성 질환을 보인 환자를 1:1 비율로 무작위 배정합니다.
 - 1차 평가지표는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06897644) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06897644)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06897644) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06897644)</small>
 
 ---
 <a id="nct-nct07081360"></a>
@@ -112,7 +112,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 2차 평가변수는 R0 절제율(R0 resection rate), 무병 생존기간(disease-free survival), 주위 수술 결과 등을 포함합니다.
 - 전 세계적으로 수치상 췌장암 환자의 5년 생존율은 20%에 머물러 있습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
 
 ---
 <a id="nct-nct07217717"></a>
@@ -130,7 +130,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가지표는 복합 표준치료 패널을 이용한 [¹⁸F]FAPI-74 PET/CT의 민감도와 특이도 평가입니다.
 - 초록에 명시되지 않음: 생존기간, 반응률, 위험비 수치는 초록에 명시되지 않음
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07217717) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07217717)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07217717) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07217717)</small>
 
 ---
 <a id="nct-nct07621718"></a>
@@ -148,7 +148,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자들은 zoldonrasib 병용 치료군 또는 위약 병용 치료군으로 무작위 배정됩니다.
 - 병용되는 항암화학요법은 mFFX 또는 GnP 중 선택됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07621718) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07621718)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07621718) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07621718)</small>
 
 ---
 <a id="nct-nct05477576"></a>
@@ -166,7 +166,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 환자 수는 343명입니다.
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05477576) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05477576)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05477576) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05477576)</small>
 
 ---
 <a id="nct-nct06943755"></a>
@@ -184,7 +184,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 등록 환자 수는 총 440명입니다.
 - 한국 내 5개 기관에서 참여합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
 
 ---
 <a id="nct-nct06747845"></a>
@@ -202,7 +202,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - A군은 niraparib과 ipilimumab을 3주마다 투여받고, B군은 표준 항암화학요법을 2주마다 투여받습니다.
 - 효과와 항종양 활성, 그리고 안전성 및 부작용을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
 
 ---
 <a id="nct-nct07678593"></a>
@@ -219,7 +219,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 GFH276을 cetuximab, nab-paclitaxel, gemcitabine, fluorouracil, leucovorin, irinotecan, oxaliplatin 등과 병용합니다.
 - 목표 환자 수는 222명이며, 1상(Phase Ib)과 2상(Phase II) 단계로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
 
 ---
 <a id="nct-nct07705919"></a>
@@ -237,7 +237,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자들은 표준 치료 전, 치료 중, 수술 전에 동적 조영증강 자기공명영상(DCE-MRI) 검사를 받습니다.
 - 주요 목표는 DCE-MRI 정보와 R0 절제율 간의 연관성을 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
 
 ---
 <a id="nct-nct01954992"></a>
@@ -254,7 +254,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료로 glufosfamide와 5-FU(Fluorouracil)를 비교합니다.
 - 목표 인원은 480명이며 3상 임상시험(phase3)으로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT01954992) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01954992)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT01954992) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01954992)</small>
 
 ---
 <a id="nct-nct05314998"></a>
@@ -272,7 +272,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 표준 임상 기준으로 항암화학요법을 배정받고, 시험군은 전사체 치료 특정 층화 시그니처(TSS)를 기반으로 치료를 배정받습니다.
 - 초록에 생존기간이나 반응률 등의 구체적인 임상 결과 수치는 아직 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05314998) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05314998)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05314998) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05314998)</small>
 
 ---
 <a id="nct-nct06250972"></a>
@@ -290,7 +290,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 질병 조절률(DCR)을 매 4주마다 측정합니다.
 - 초록에 생존기간이나 반응률 등 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06250972) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06250972)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06250972) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06250972)</small>
 
 ---
 <a id="nct-nct06427447"></a>
@@ -307,7 +307,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법으로 보조 방사선항암화학요법과 보조 항암화학요법을 비교합니다.
 - 림프절 전이, R1 또는 R2 절제, 또는 림프혈관 침습 중 하나의 위험 요소를 가진 환자를 대상으로 합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06427447) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06427447)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06427447) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06427447)</small>
 
 ---
 <a id="nct-nct07098598"></a>
@@ -325,7 +325,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 국소 림프절 전이 및 원격 전이 발견에서의 민감도와 특이도를 평가합니다.
 - 데이터 수집 기간은 2024년부터 2026년까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07098598) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07098598)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07098598) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07098598)</small>
 
 ---
 <a id="nct-nct07219238"></a>
@@ -342,7 +342,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대장암, 위암, 난소암 또는 췌장관암종(PDAC) 환자를 대상으로 합니다.
 - GEH300079 (68Ga) PET/CT를 이용한 복막암종증(PC) 진단 성능과 안전성을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07219238) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07219238)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07219238) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07219238)</small>
 
 ---
 <a id="nct-nct07235930"></a>
@@ -359,7 +359,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 1차 평가변수는 전체 생존기간(OS)입니다.
 - 주요 2차 평가변수는 무진행 생존기간(PFS), 객관적 반응률(ORR), 안전성입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07235930) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235930)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07235930) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235930)</small>
 
 ---
 <a id="nct-nct05482516"></a>
@@ -377,7 +377,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 연구 대상 질환에는 췌장암(pancreatic adenocarcinoma)이 포함되어 있습니다.
 - 목표 등록 인원은 총 20명이며 국내 기관은 참여하지 않습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
 
 ---
 <a id="nct-nct07845565"></a>
@@ -394,7 +394,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 목표는 대변 미생물 이식(FMT)과 SHR-1701 및 화학요법 병용 시 무진행 생존기간 중앙값(mPFS)을 평가하는 것입니다.
 - 이차 목표에는 전체 생존기간(OS), 객관적 반응률(ORR), 질병 통제율(DCR), 반응 지속기간(DoR) 및 이상반응 평가가 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07845565) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07845565)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07845565) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07845565)</small>
 
 ---
 <a id="nct-nct07429643"></a>
@@ -412,7 +412,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 표준 전신 항암화학요법 단독 치료를 받습니다.
 - 초록에 명시되지 않은 구체적인 생존기간이나 반응률 수치는 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07429643) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07429643)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07429643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07429643)</small>
 
 ---
 <a id="nct-nct03579836"></a>
@@ -429,7 +429,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - BEY1107 단독요법 및 gemcitabine 병용요법의 최대내성용량(MTD), 안전성, 유효성을 평가합니다.
 - 국내 기관 1곳이 참여하며, 연령 기준은 20세에서 80세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03579836) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03579836)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03579836) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03579836)</small>
 
 ---
 <a id="nct-nct04858009"></a>
@@ -447,7 +447,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 인원은 총 40명이며, 국내 기관은 포함되지 않습니다.
 - 초록에 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04858009) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858009)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04858009) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858009)</small>
 
 ---
 <a id="nct-nct06428409"></a>
@@ -464,7 +464,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 진행성 또는 전이성 췌장관선암(PDAC) 등 위장관암 환자를 대상으로 합니다.
 - sacituzumab tirumotecan 단독 또는 병용 요법의 안전성과 치료 반응률을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06428409) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06428409)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06428409) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06428409)</small>
 
 ---
 <a id="nct-nct07114861"></a>
@@ -481,7 +481,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 연구 약물 KN510 및 KN713과 복합 항암화학요법인 mFOLFIRINOX의 병용 투여입니다.
 - 목표 인원은 총 30명이며, 연령 기준은 19세부터 75세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07114861) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07114861)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07114861) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07114861)</small>
 
 ---
 <a id="nct-nct07257523"></a>
@@ -499,7 +499,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 1차 유효성 평가지표는 전체 생존기간(overall survival)입니다.
 - 2차 평가지표에는 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07257523) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07257523)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07257523) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07257523)</small>
 
 ---
 <a id="nct-nct07259317"></a>
@@ -517,7 +517,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 평가 항목에는 안전성, 내인성, 용량, 약동학(PK), 유효성이 포함됩니다.
 - 구체적인 생존기간이나 반응률 등 핵심 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
 
 ---
 <a id="nct-nct07341737"></a>
@@ -535,7 +535,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 치료제 SL-28은 5일 투여 후 2일 휴식 일정으로 12주 동안 투여됩니다.
 - 초록에 명시된 생존기간, 반응률, 위험비 등의 구체적인 효과 수치는 아직 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
 
 ---
 <a id="pmid-42832136"></a>
@@ -549,7 +549,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
 - 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
 
 ---
 <a id="nct-nct06538857"></a>
@@ -566,7 +566,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 환자들은 2대 1 비율로 CEB-01 병용 수술군(26명) 또는 단독 표준 수술군(13명)에 배정됩니다.
 - 1차 안전성 및 유효성 평가를 위해 수술 후 단기(365일) 및 장기(1095일) 추적 관찰을 진행합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06538857) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06538857)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06538857) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06538857)</small>
 
 ---
 <a id="nct-nct07089940"></a>
@@ -584,7 +584,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 환자들은 1일 차와 8일 차에 OMO-103을 정맥주사로 투여받습니다.
 - 생존기간 및 반응률 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
 
 ---
 <a id="nct-nct04381130"></a>
@@ -602,7 +602,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 2a상에서는 MTD 용량으로 EF-009를 이식하여 전체 생존기간(OS)과 무진행 생존기간(PFS)을 평가합니다.
 - 종양 측정은 RECIST v1.1 기준에 따라 이식 후 최대 2년 동안 8주마다 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
 
 ---
 <a id="nct-nct07825753"></a>
@@ -619,7 +619,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 질량분석기 플랫폼을 이용해 종양 조직의 막 단백질을 절대 정량화하여 1~5개의 후보 타겟을 선정합니다.
 - Trastuzumab emtansine(T-DM1), Trastuzumab deruxtecan(T-DXd), Datopotamab deruxtecan(Dato-DXd), Sacituzumab govitecan(SG), Enfortumab vedotin(EV), Becotatug vedotin(MRG003), Izalontamab brengitecan(iza-bren / BL-B01D1), Mirvetuximab soravtansine(MIRV) 등의 중재 약물이 사용됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
 
 ---
 <a id="nct-nct03851614"></a>
@@ -636,7 +636,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 치료로 durvalumab(PD-L1 억제제), olaparib(PARP 억제제), cediranib(VEGFR 타이로신 키네이스 억제제)이 사용됩니다.
 - 연구의 주요 목적은 치료에 따른 종양, 혈액, 대변 샘플의 유전체 및 면역 생체표지자(biomarker) 변화를 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
 
 ---
 <a id="nct-nct06782412"></a>
@@ -653,7 +653,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 방법으로 [18F]AlF-FAPI-74 PET/CT를 사용합니다.
 - 대상 질환에는 췌장관상피내암(pancreatic ductal adenocarcinoma) 등이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06782412) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06782412)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06782412) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06782412)</small>
 
 ---
 <a id="nct-nct07629960"></a>
@@ -671,7 +671,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 목표 인원은 총 265명이며, 현재 환자 모집 중입니다.
 - 반응률, 생존기간 등의 임상 결과는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07629960) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07629960)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07629960) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07629960)</small>
 
 ---
 <a id="nct-nct03384238"></a>
@@ -689,7 +689,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 2상에서는 형광 영상(near-infrared fluorescence imaging)을 이용해 전이 병변, 양성 림프절, 잔존 질환을 감지할 수 있는지 평가합니다.
 - 환자는 약물 투여 후 2일에서 5일 사이에 수술적 절제를 받습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03384238) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03384238)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03384238) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03384238)</small>
 
 ---
 <a id="nct-nct04172532"></a>
@@ -706,7 +706,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1상은 M3814(peposertib)와 저분할 방사선 치료의 안전성과 내어성을 평가합니다.
 - 2상은 무진행 생존기간(PFS), 2년 전체 생존율(OS), 객관적 반응률(ORR) 등을 방사선 치료 단독군과 비교합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04172532) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04172532)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04172532) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04172532)</small>
 
 ---
 <a id="nct-nct04195347"></a>
@@ -724,7 +724,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - CM4620은 급성 췌장염 관련 복통 발생 36시간 이내 및 등록 8시간 이내에 1~4일 동안 정맥 주사(IV infusion)로 투여됩니다.
 - 초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04195347) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04195347)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04195347) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04195347)</small>
 
 ---
 <a id="nct-nct04570943"></a>
@@ -741,7 +741,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 치료 중내는 Gabrinox(GEMBRAX 후 FOLFIRINOX) 순차 항암화학요법과 MRI 유도 정위적 방사선치료를 사용합니다.
 - 목표 환자 수는 103명이며 연령 기준은 18세에서 75세입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04570943) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04570943)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04570943) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04570943)</small>
 
 ---
 <a id="nct-nct05218889"></a>
@@ -759,7 +759,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 대조군은 AG(nab-paclitaxel 및 gemcitabine) 요법을 사용합니다.
 - 초록에 명시되지 않음(생존기간, 반응률, 위험비 결과는 아직 초록에 명시되지 않음).
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05218889) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05218889)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05218889) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05218889)</small>
 
 ---
 <a id="nct-nct05518903"></a>
@@ -777,7 +777,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 목적은 췌장관암선암종에서 암 관련 섬유아세포를 탐지하고 정량화하는 68Ga-FAPI-46 PET의 민감도와 특이도를 확인하는 것입니다.
 - 환자들은 기저 시점, 표준 치료 재병기 방문 시, 수술 전 등에 걸쳐 68Ga-FAPI-46 PET/CT 스캔을 받습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05518903) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05518903)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05518903) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05518903)</small>
 
 ---
 <a id="nct-nct05776524"></a>
@@ -794,7 +794,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 평가지표는 병용 치료에 따른 6개월 전체 생존율(OS) 개선 효과입니다.
 - 이차 평가지표로는 안전성, 내인성, 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 조절률(DCR)이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05776524) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05776524)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05776524) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05776524)</small>
 
 ---
 <a id="nct-nct05821556"></a>
@@ -811,7 +811,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 이 연구는 2단계(phase2) 임상시험입니다.
 - 중재 약물로 valproic acid, simvastatin 20mg, gemcitabine 1000 mg, nab paclitaxel, cisplatin, capecitabine이 사용됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05821556) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05821556)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05821556) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05821556)</small>
 
 ---
 <a id="nct-nct05929885"></a>
@@ -829,7 +829,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 연구의 주요 평가는 반응률과 독성을 확인하는 것입니다.
 - 초록에 생존기간, 반응률, 위험비 등 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05929885) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05929885)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05929885) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05929885)</small>
 
 ---
 <a id="nct-nct06030622"></a>
@@ -847,7 +847,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1차 평가변수는 C3와 Gemcitabine 병용 투여의 안전성, 이상 반응, 그리고 방사선학적 종양 평가를 통한 질병 반응입니다.
 - 2차 평가변수는 BIRC5, CA19-9, CEA 등 종양 바이오마커의 수치 및 분자적 변화 측정입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06030622) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06030622)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06030622) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06030622)</small>
 
 ---
 <a id="nct-nct06051695"></a>
@@ -864,7 +864,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 연구의 중재 치료제는 A2B694, A2B543 및 xT CDx with HLA-LOH Assay입니다.
 - 1상에서는 안전성과 권장 용량을 평가하며, 2상에서는 유효성과 안전성을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06051695) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06051695)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06051695) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06051695)</small>
 
 ---
 <a id="nct-nct06196788"></a>
@@ -875,7 +875,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 
 The purpose of this study is to evaluate the efficacy of gemcitabine and nab-paclitaxel venous injection plus transcatheter arterial infusion to Patients with Advanced Pancreatic Cancer. Pancreatic cancer is a highly lethal malignancy with a 5-year survival less than 10%.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06196788) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06196788)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06196788) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06196788)</small>
 
 ---
 <a id="nct-nct06387342"></a>
@@ -886,7 +886,7 @@ The purpose of this study is to evaluate the efficacy of gemcitabine and nab-pac
 
 This is an open-label trial in patients with advanced pancreatic cancer. The trial will evaluate the safety, clinical activity, and pharmacokinetics of the study drug, namodenoson, in this group of patients.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06387342) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06387342)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06387342) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06387342)</small>
 
 ---
 <a id="nct-nct06572813"></a>
@@ -899,7 +899,7 @@ This is an single-center, prospective, open-label clinical trial, to explore the
 
 Phase 1 (Evaluation of Drug Tolerance) Primary objective: To evaluate the tolerability of bortezomib, PD-1 mAb and mFOLFIRINOX in patients with advanced metastatic pancreatic cancer, and to determine the dose of bortezomib in the combination …
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06572813) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06572813)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06572813) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06572813)</small>
 
 ---
 <a id="nct-nct06587061"></a>
@@ -912,7 +912,7 @@ To evaluate the safety and efficacy of HRS-4642 in Combination With AG for Neoad
 
 This study is an open, single center, exploratory clinical trial aimed at evaluating the safety and efficacy of HRS-4642 in combination with gemcitabine and albumin-bound paclitaxel for neoadjuvant and adjuvant treatment of pancreatic cancer
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06587061) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06587061)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06587061) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06587061)</small>
 
 ---
 <a id="nct-nct06659705"></a>
@@ -923,7 +923,7 @@ This study is an open, single center, exploratory clinical trial aimed at evalua
 
 Assessment of the relevance of a new medical imaging test, FAPI PET, which could detect progression or relapse earlier than other tests currently available. Ultimately, it could enable early forms of pancreatic cancer to be detected and used for screening.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06659705) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06659705)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06659705) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06659705)</small>
 
 ---
 <a id="nct-nct06756074"></a>
@@ -932,7 +932,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06756074** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06756074.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06756074) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06756074)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06756074) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06756074)</small>
 
 ---
 <a id="nct-nct06758544"></a>
@@ -941,7 +943,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06758544** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06758544.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06758544) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06758544)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06758544) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06758544)</small>
 
 ---
 <a id="nct-nct06944106"></a>
@@ -950,7 +954,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06944106** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06944106.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06944106) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06944106)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06944106) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06944106)</small>
 
 ---
 <a id="nct-nct06951997"></a>
@@ -959,7 +965,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06951997** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06951997.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06951997) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06951997)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06951997) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06951997)</small>
 
 ---
 <a id="nct-nct07049055"></a>
@@ -968,7 +976,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07049055** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07049055.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07049055) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07049055) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
 
 ---
 <a id="nct-nct07076212"></a>
@@ -977,7 +987,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07076212** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07076212.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07076212) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07076212)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07076212) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07076212)</small>
 
 ---
 <a id="nct-nct07145450"></a>
@@ -986,7 +998,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07145450** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07145450.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07145450) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07145450)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07145450) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07145450)</small>
 
 ---
 <a id="nct-nct07199764"></a>
@@ -995,7 +1009,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07199764** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07199764.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07199764) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07199764)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07199764) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07199764)</small>
 
 ---
 <a id="nct-nct07214298"></a>
@@ -1004,7 +1020,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07214298** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07214298.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07214298) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07214298)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07214298) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07214298)</small>
 
 ---
 <a id="nct-nct07223047"></a>
@@ -1013,7 +1031,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07223047** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07223047.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07223047) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07223047)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07223047) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07223047)</small>
 
 ---
 <a id="nct-nct07284277"></a>
@@ -1022,7 +1042,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07284277** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07284277.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07284277) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07284277)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07284277) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07284277)</small>
 
 ---
 <a id="nct-nct07285044"></a>
@@ -1031,7 +1053,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07285044** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07285044.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07285044) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07285044)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07285044) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07285044)</small>
 
 ---
 <a id="nct-nct07303465"></a>
@@ -1040,7 +1064,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07303465** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07303465.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07303465) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07303465)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07303465) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07303465)</small>
 
 ---
 <a id="nct-nct07410494"></a>
@@ -1049,7 +1075,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07410494** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07410494.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07410494) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07410494)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07410494) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07410494)</small>
 
 ---
 <a id="nct-nct07438106"></a>
@@ -1058,7 +1086,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07438106** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07438106.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07438106) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07438106)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07438106) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07438106)</small>
 
 ---
 <a id="nct-nct07478523"></a>
@@ -1067,7 +1097,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07478523** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07478523.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07478523) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07478523)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07478523) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07478523)</small>
 
 ---
 <a id="nct-nct07480928"></a>
@@ -1076,7 +1108,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07480928** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07480928.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07480928) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07480928)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07480928) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07480928)</small>
 
 ---
 <a id="nct-nct07529483"></a>
@@ -1085,7 +1119,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07529483** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07529483.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07529483) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07529483)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07529483) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07529483)</small>
 
 ---
 <a id="nct-nct07529808"></a>
@@ -1094,7 +1130,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07529808** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07529808.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07529808) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07529808)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07529808) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07529808)</small>
 
 ---
 <a id="nct-nct07595172"></a>
@@ -1103,7 +1141,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07595172** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07595172.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07595172) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07595172)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07595172) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07595172)</small>
 
 ---
 <a id="nct-nct07595835"></a>
@@ -1112,7 +1152,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07595835** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07595835.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07595835) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07595835)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07595835) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07595835)</small>
 
 ---
 <a id="nct-nct07627711"></a>
@@ -1121,7 +1163,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07627711** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07627711.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07627711) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07627711)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07627711) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07627711)</small>
 
 ---
 <a id="nct-nct05786716"></a>
@@ -1130,7 +1174,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT05786716** · 2상/3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05786716.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05786716) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05786716)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05786716) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05786716)</small>
 
 ---
 <a id="nct-nct06332274"></a>
@@ -1139,7 +1185,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06332274** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06332274.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06332274) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06332274)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06332274) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06332274)</small>
 
 ---
 <a id="nct-nct07440290"></a>
@@ -1148,7 +1196,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07440290** · 2상/3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07440290.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07440290) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07440290)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07440290) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07440290)</small>
 
 ---
 <a id="nct-nct07645651"></a>
@@ -1157,7 +1207,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07645651** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07645651.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07645651) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07645651)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07645651) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07645651)</small>
 
 ---
 <a id="nct-nct02584244"></a>
@@ -1166,7 +1218,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT02584244** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02584244.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT02584244) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02584244)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02584244) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02584244)</small>
 
 ---
 <a id="nct-nct07127874"></a>
@@ -1175,7 +1229,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07127874** · 1상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07127874.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07127874) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07127874)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07127874) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07127874)</small>
 
 ---
 <a id="nct-nct05453851"></a>
@@ -1184,7 +1240,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT05453851** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05453851.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05453851) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05453851)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05453851) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05453851)</small>
 
 ---
 <a id="nct-nct05708950"></a>
@@ -1193,7 +1251,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT05708950** · 1상/2상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05708950.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05708950) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05708950)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05708950) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05708950)</small>
 
 ---
 <a id="nct-nct06166589"></a>
@@ -1202,7 +1262,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06166589** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06166589.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06166589) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06166589)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06166589) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06166589)</small>
 
 ---
 <a id="nct-nct06513455"></a>
@@ -1211,7 +1273,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06513455** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06513455.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06513455) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06513455)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06513455) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06513455)</small>
 
 ---
 <a id="nct-nct06866977"></a>
@@ -1220,7 +1284,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06866977** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06866977.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06866977) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06866977)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06866977) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06866977)</small>
 
 ---
 <a id="nct-nct06938503"></a>
@@ -1229,7 +1295,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06938503** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06938503.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06938503) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06938503)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06938503) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06938503)</small>
 
 ---
 <a id="nct-nct06991491"></a>
@@ -1238,7 +1306,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06991491** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06991491.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06991491) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06991491)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06991491) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06991491)</small>
 
 ---
 <a id="nct-nct07097064"></a>
@@ -1247,7 +1317,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07097064** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07097064.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07097064) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07097064)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07097064) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07097064)</small>
 
 ---
 <a id="nct-nct07153289"></a>
@@ -1256,7 +1328,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07153289** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07153289.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07153289) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07153289)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07153289) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07153289)</small>
 
 ---
 <a id="nct-nct07175389"></a>
@@ -1265,7 +1339,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07175389** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07175389.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07175389) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07175389)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07175389) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07175389)</small>
 
 ---
 <a id="nct-nct07230301"></a>
@@ -1274,7 +1350,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07230301** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07230301.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07230301) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07230301)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07230301) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07230301)</small>
 
 ---
 <a id="nct-nct07282912"></a>
@@ -1283,7 +1361,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07282912** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07282912.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07282912) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07282912)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07282912) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07282912)</small>
 
 ---
 <a id="nct-nct07386704"></a>
@@ -1292,7 +1372,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07386704** · 2상 · 초대 모집 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07386704.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07386704) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07386704)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07386704) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07386704)</small>
 
 ---
 <a id="nct-nct07477418"></a>
@@ -1301,7 +1383,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07477418** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07477418.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07477418) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07477418)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07477418) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07477418)</small>
 
 ---
 <a id="nct-nct07565155"></a>
@@ -1310,7 +1394,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07565155** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07565155.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07565155) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07565155)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07565155) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07565155)</small>
 
 ---
 <a id="nct-nct07616362"></a>
@@ -1319,7 +1405,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07616362** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07616362.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07616362) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07616362)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07616362) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07616362)</small>
 
 ---
 <a id="nct-nct07665684"></a>
@@ -1328,14 +1416,18 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07665684** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07665684.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07665684) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07665684)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07665684) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07665684)</small>
 
 ---
 <a id="pmid-42830225"></a>
 #### [Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy](https://pubmed.ncbi.nlm.nih.gov/42830225/)
 `논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
 
 ---
 <a id="nct-nct04485286"></a>
@@ -1344,7 +1436,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT04485286** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04485286.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04485286) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04485286)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04485286) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04485286)</small>
 
 ---
 <a id="nct-nct06885697"></a>
@@ -1353,7 +1447,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT06885697** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06885697.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06885697) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06885697)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06885697) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06885697)</small>
 
 ---
 <a id="nct-nct07828236"></a>
@@ -1362,7 +1458,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07828236** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07828236.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07828236) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07828236)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07828236) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07828236)</small>
 
 ---
 <a id="nct-nct07829185"></a>
@@ -1371,7 +1469,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT07829185** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07829185.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07829185) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07829185)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07829185) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07829185)</small>
 
 ---
 <a id="nct-nct04222413"></a>
@@ -1380,7 +1480,9 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 **NCT04222413** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04222413.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04222413) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04222413)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04222413) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04222413)</small>
 
 ---
 <a id="nct-nct05086692"></a>
@@ -1391,7 +1493,7 @@ Assessment of the relevance of a new medical imaging test, FAPI PET, which could
 
 This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion study to evaluate safety and tolerability, PK, pharmacodynamic, and early signal of anti-tumor activity of MDNA11 alone or in combination with a checkpoint inhibitor in patients with advanced solid tumors. The study drug, MDNA11, long-acting "beta-only" recombinant interleukin-2 (rIL-2).
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05086692) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05086692)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05086692) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05086692)</small>
 
 ---
 <a id="nct-nct03190941"></a>
@@ -1400,7 +1502,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT03190941** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03190941.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03190941) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03190941)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03190941) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03190941)</small>
 
 ---
 <a id="nct-nct05759923"></a>
@@ -1409,7 +1513,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT05759923** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05759923.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05759923) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05759923)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05759923) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05759923)</small>
 
 ---
 <a id="nct-nct05919238"></a>
@@ -1418,7 +1524,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT05919238** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05919238.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05919238) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05919238)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05919238) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05919238)</small>
 
 ---
 <a id="nct-nct06182072"></a>
@@ -1427,7 +1535,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT06182072** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06182072.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06182072) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06182072)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06182072) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06182072)</small>
 
 ---
 <a id="nct-nct06458712"></a>
@@ -1436,7 +1546,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT06458712** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06458712.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06458712) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06458712)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06458712) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06458712)</small>
 
 ---
 <a id="nct-nct06598007"></a>
@@ -1445,7 +1557,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT06598007** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06598007.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06598007) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06598007)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06598007) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06598007)</small>
 
 ---
 <a id="nct-nct07024615"></a>
@@ -1454,7 +1568,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07024615** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07024615.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07024615) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07024615)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07024615) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07024615)</small>
 
 ---
 <a id="nct-nct07030283"></a>
@@ -1463,7 +1579,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07030283** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07030283.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07030283) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07030283)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07030283) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07030283)</small>
 
 ---
 <a id="nct-nct07189195"></a>
@@ -1472,7 +1590,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07189195** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07189195.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07189195) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07189195)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07189195) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07189195)</small>
 
 ---
 <a id="nct-nct07458347"></a>
@@ -1481,7 +1601,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07458347** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07458347.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07458347) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07458347)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07458347) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07458347)</small>
 
 ---
 <a id="nct-nct07594964"></a>
@@ -1490,7 +1612,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07594964** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07594964.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07594964) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07594964)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07594964) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07594964)</small>
 
 ---
 <a id="nct-nct07630961"></a>
@@ -1499,7 +1623,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07630961** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07630961.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07630961) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07630961)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07630961) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07630961)</small>
 
 ---
 <a id="nct-nct04429542"></a>
@@ -1508,7 +1634,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT04429542** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04429542.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04429542) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04429542)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04429542) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04429542)</small>
 
 ---
 <a id="nct-nct07765836"></a>
@@ -1517,7 +1645,9 @@ This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion stu
 
 **NCT07765836** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07765836.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07765836) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07765836)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07765836) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07765836)</small>
 
 ---
 <a id="nct-nct04074135"></a>
@@ -1530,7 +1660,7 @@ Background:
 
 People with von Hippel-Lindau (VHL) can have problems with a variety of organs, such as the pancreas. The disease can cause tumors of the pancreas.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04074135) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04074135)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04074135) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04074135)</small>
 
 ---
 <a id="nct-nct04325425"></a>
@@ -1541,7 +1671,7 @@ People with von Hippel-Lindau (VHL) can have problems with a variety of organs, 
 
 there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP and Unknown origin and this goal may be achieved through more "personalized" chemotherapy regimen.the hypothesis is that mFOLFIRINOX regimen could be a good candidate for challenging the platinum-etoposide regimen in patients with metastatic G3 NEC of GEP or unknown origin. Furthermore, in order to get insights in the putative predictive biomarkers of efficacy of these two regimens, an effort toward a precise molecul…
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04325425) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04325425)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04325425) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04325425)</small>
 
 ---
 <a id="nct-nct05000294"></a>
@@ -1550,7 +1680,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT05000294** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05000294.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05000294) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05000294)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05000294) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05000294)</small>
 
 ---
 <a id="nct-nct06298916"></a>
@@ -1559,7 +1691,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06298916** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06298916.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06298916) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06298916)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06298916) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06298916)</small>
 
 ---
 <a id="nct-nct06813079"></a>
@@ -1568,7 +1702,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06813079** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06813079.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06813079) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06813079)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06813079) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06813079)</small>
 
 ---
 <a id="nct-nct07835893"></a>
@@ -1577,14 +1713,18 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07835893** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07835893.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07835893) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07835893)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07835893) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07835893)</small>
 
 ---
 <a id="pmid-42831874"></a>
 #### [Association between Serum Human Satellite II RNA and miR-21-5p Levels and Time to Pancreatic Cancer Diagnosis in a Prospective Population-based Study](https://pubmed.ncbi.nlm.nih.gov/42831874/)
 `논문` `관찰연구` `진단·조기발견` · 2026-09-22 · PubMed · Pancreas · 중요도 0.72
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831874/) · [DOI](https://doi.org/10.1097/MPA.0000000000002723) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831874)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831874/) · [DOI](https://doi.org/10.1097/MPA.0000000000002723) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831874)</small>
 
 ---
 <a id="nct-nct02600949"></a>
@@ -1593,7 +1733,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT02600949** · 1상 · 초대 모집 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02600949.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT02600949) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02600949)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02600949) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02600949)</small>
 
 ---
 <a id="nct-nct04837118"></a>
@@ -1602,7 +1744,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT04837118** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04837118.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04837118) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04837118)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04837118) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04837118)</small>
 
 ---
 <a id="nct-nct06217666"></a>
@@ -1611,7 +1755,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06217666** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06217666.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06217666) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06217666)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06217666) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06217666)</small>
 
 ---
 <a id="nct-nct06981806"></a>
@@ -1620,7 +1766,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06981806** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06981806.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06981806) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06981806)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06981806) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06981806)</small>
 
 ---
 <a id="nct-nct07314385"></a>
@@ -1629,7 +1777,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07314385** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07314385.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07314385) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07314385)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07314385) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07314385)</small>
 
 ---
 <a id="nct-nct07608627"></a>
@@ -1638,7 +1788,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07608627** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07608627.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07608627) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07608627)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07608627) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07608627)</small>
 
 ---
 <a id="nct-nct07624214"></a>
@@ -1647,7 +1799,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07624214** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07624214.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07624214) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07624214)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07624214) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07624214)</small>
 
 ---
 <a id="nct-nct07699757"></a>
@@ -1656,7 +1810,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07699757** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07699757.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07699757) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07699757)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07699757) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07699757)</small>
 
 ---
 <a id="nct-nct02830724"></a>
@@ -1665,7 +1821,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT02830724** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02830724.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT02830724) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02830724)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02830724) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02830724)</small>
 
 ---
 <a id="nct-nct05088798"></a>
@@ -1674,7 +1832,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT05088798** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05088798.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05088798) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05088798)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05088798) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05088798)</small>
 
 ---
 <a id="nct-nct05288205"></a>
@@ -1683,7 +1843,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT05288205** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05288205.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05288205) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05288205)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05288205) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05288205)</small>
 
 ---
 <a id="nct-nct05969860"></a>
@@ -1692,7 +1854,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT05969860** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05969860.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05969860) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05969860)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05969860) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05969860)</small>
 
 ---
 <a id="nct-nct06239194"></a>
@@ -1701,7 +1865,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06239194** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06239194.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06239194) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06239194)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06239194) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06239194)</small>
 
 ---
 <a id="nct-nct06399757"></a>
@@ -1710,7 +1876,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06399757** · 1상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06399757.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06399757) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06399757)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06399757) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06399757)</small>
 
 ---
 <a id="nct-nct06710756"></a>
@@ -1719,7 +1887,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06710756** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06710756.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06710756) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06710756)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06710756) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06710756)</small>
 
 ---
 <a id="nct-nct06730009"></a>
@@ -1728,7 +1898,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06730009** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06730009.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06730009) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06730009)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06730009) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06730009)</small>
 
 ---
 <a id="nct-nct06926075"></a>
@@ -1737,7 +1909,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06926075** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06926075.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06926075) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06926075)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06926075) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06926075)</small>
 
 ---
 <a id="nct-nct07072728"></a>
@@ -1746,14 +1920,18 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07072728** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07072728.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07072728) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07072728)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07072728) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07072728)</small>
 
 ---
 <a id="pmid-42832505"></a>
 #### [Stromal edge involvement in FNB of pancreatic ductal adenocarcinoma: An important diagnostic clue](https://pubmed.ncbi.nlm.nih.gov/42832505/)
 `논문` `기타` `진단·조기발견` · 2026-10-01 · PubMed · Cancer Cytopathol · 중요도 0.70
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832505/) · [DOI](https://doi.org/10.1002/cncy.70157) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832505)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832505/) · [DOI](https://doi.org/10.1002/cncy.70157) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832505)</small>
 
 ---
 <a id="nct-nct06134960"></a>
@@ -1762,7 +1940,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT06134960** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06134960.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06134960) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06134960)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06134960) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06134960)</small>
 
 ---
 <a id="nct-nct07277413"></a>
@@ -1771,7 +1951,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07277413** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07277413.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07277413) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07277413)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07277413) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07277413)</small>
 
 ---
 <a id="nct-nct07705334"></a>
@@ -1780,7 +1962,9 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07705334** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07705334.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07705334) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705334)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07705334) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705334)</small>
 
 ---
 <a id="nct-nct07186842"></a>
@@ -1789,6 +1973,8 @@ there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP 
 
 **NCT07186842** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07186842.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07186842) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07186842)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07186842) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07186842)</small>
 
 ---

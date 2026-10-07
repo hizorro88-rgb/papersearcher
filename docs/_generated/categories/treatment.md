@@ -30,28 +30,34 @@ comments: true
 - 파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.
 - 수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
 <a id="pmid-42837076"></a>
 #### [The projected rise of pancreatic cancer mortality in Italy: forecasts until 2035](https://pubmed.ncbi.nlm.nih.gov/42837076/)
 `논문` `관찰연구` `치료 전반` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.75
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837076/) · [DOI](https://doi.org/10.1007/s13304-026-02862-w) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837076)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837076/) · [DOI](https://doi.org/10.1007/s13304-026-02862-w) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837076)</small>
 
 ---
 <a id="pmid-42837725"></a>
 #### [Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions](https://pubmed.ncbi.nlm.nih.gov/42837725/)
 `논문` `종설` `치료 전반` · 2026-09-23 · PubMed · Semin Oncol · 중요도 0.54
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
 
 ---
 <a id="pmid-42832418"></a>
 #### [Editorial Note: Cdc7 is a potent anti-cancer target in pancreatic cancer due to abrogation of the DNA origin activation checkpoint](https://pubmed.ncbi.nlm.nih.gov/42832418/)
 `논문` `기타` `치료 전반` · 2026-01-06 · PubMed · Oncotarget · 중요도 0.50
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832418/) · [DOI](https://doi.org/10.18632/oncotarget.28902) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13637950/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832418)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832418/) · [DOI](https://doi.org/10.18632/oncotarget.28902) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13637950/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832418)</small>
 
 ---
 <a id="nct-nct07490301"></a>
@@ -62,7 +68,7 @@ comments: true
 
 Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct07491445"></a>
@@ -79,7 +85,7 @@ Cancer is a condition where cells in a specific part of the body grow and reprod
 - daraxonrasib 단독, daraxonrasib+gemcitabine+nab-paclitaxel 병용, 표준 gemcitabine+nab-paclitaxel의 세 치료군을 비교합니다.
 - 국내 6개 기관이 참여하고 있으며, RAS 변이 여부와 무관하게 등록이 가능합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
 ---
 <a id="nct-nct06593431"></a>
@@ -96,7 +102,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 모든 종양 병소에 대한 전이 지향 치료(MDT) 병용군과 전신 항암 화학요법 단독군을 비교합니다.
 - 1차 평가변수는 무진행 생존기간(PFS)이며 주요 2차 평가변수는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
 <a id="nct-nct07066098"></a>
@@ -113,7 +119,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 참여 환자는 IBI343 병용 지지요법군 또는 위약 병용 지지요법군에 2:1 비율로 무작위 배정됩니다.
 - 연구의 주요 평가 지표는 위약군 대비 전체 생존기간(OS)의 비교 평가입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
 
 ---
 <a id="nct-nct07252232"></a>
@@ -130,7 +136,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - daraxonrasib(다락소나십) 치료가 표준 치료인 관찰 요법에 비해 무병 생존기간(DFS)을 향상시키는지 평가합니다.
 - 절제된 PDAC 환자를 대상으로 한 무작위 공개 3상 임상시험입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
 
 ---
 <a id="nct-nct07409272"></a>
@@ -147,7 +153,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 표준 항암화학요법인 mFOLFIRINOX 또는 NALIRIFOX에 세티데그라십(setidegrasib) 또는 위약을 무작위로 병용 투여하여 전체 생존기간 개선 여부를 평가합니다.
 - 국내 8개 임상시험 기관이 참여하여 환자를 모집 중입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
 ---
 <a id="nct-nct07562152"></a>
@@ -164,7 +170,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - Atebimetinib과 변형된 GnP 병용요법(A군)을 표준 GnP 단독요법(B군)과 비교합니다.
 - 전이성 췌장 선암 환자를 위한 1차 치료 임상시험입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
 <a id="nct-nct05254171"></a>
@@ -181,7 +187,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가 변수는 전체 생존기간(Overall Survival)입니다.
 - 이차 평가 변수에는 무진행 생존기간(PFS), 영상학적 반응, 삶의 질(QoL) 측정 등이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05254171) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05254171)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05254171) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05254171)</small>
 
 ---
 <a id="nct-nct05529940"></a>
@@ -199,7 +205,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 수술 후 mFOLFIRINOX 12주기를 받습니다.
 - 주요 평가변수는 치료 의도 분석에 따른 2년 전체 생존율입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05529940) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05529940)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05529940) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05529940)</small>
 
 ---
 <a id="nct-nct06361888"></a>
@@ -217,7 +223,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 surufatinib, camrelizumab, nab-paclitaxel, gemcitabine 병용요법과 nab-paclitaxel, gemcitabine 대조군을 비교합니다.
 - 연령 기준은 18세부터 75세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06361888) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06361888)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06361888) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06361888)</small>
 
 ---
 <a id="nct-nct06897644"></a>
@@ -235,7 +241,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 완전 반응, 부분 반응, 안정 병변 또는 비진행성 질환을 보인 환자를 1:1 비율로 무작위 배정합니다.
 - 1차 평가지표는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06897644) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06897644)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06897644) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06897644)</small>
 
 ---
 <a id="nct-nct07081360"></a>
@@ -253,7 +259,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 2차 평가변수는 R0 절제율(R0 resection rate), 무병 생존기간(disease-free survival), 주위 수술 결과 등을 포함합니다.
 - 전 세계적으로 수치상 췌장암 환자의 5년 생존율은 20%에 머물러 있습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
 
 ---
 <a id="nct-nct07217717"></a>
@@ -271,7 +277,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가지표는 복합 표준치료 패널을 이용한 [¹⁸F]FAPI-74 PET/CT의 민감도와 특이도 평가입니다.
 - 초록에 명시되지 않음: 생존기간, 반응률, 위험비 수치는 초록에 명시되지 않음
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07217717) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07217717)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07217717) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07217717)</small>
 
 ---
 <a id="nct-nct07621718"></a>
@@ -289,7 +295,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자들은 zoldonrasib 병용 치료군 또는 위약 병용 치료군으로 무작위 배정됩니다.
 - 병용되는 항암화학요법은 mFFX 또는 GnP 중 선택됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07621718) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07621718)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07621718) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07621718)</small>
 
 ---
 <a id="nct-nct07805954"></a>
@@ -307,7 +313,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 gemcitabine과 nab-paclitaxel 표준 치료를 받습니다.
 - 초록에 수치로 된 결과는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07805954) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07805954)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07805954) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07805954)</small>
 
 ---
 <a id="nct-nct07823049"></a>
@@ -324,7 +330,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자들은 실험군(XNW28012 주사제 2.4 mg/kg) 또는 대조군(XNW28012 모방체)에 2대 1 비율로 무작위 배정됩니다.
 - 치료제는 3주에 1회 투여됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07823049) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07823049)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07823049) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07823049)</small>
 
 ---
 <a id="nct-nct07522073"></a>
@@ -342,7 +348,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법으로 INCB161734, 위약, 그리고 연구자 선택 항암화학요법을 사용합니다.
 - 임상시험 단계는 3상(Phase 3)이며 현재 환자를 모집 중입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07522073) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07522073)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07522073) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07522073)</small>
 
 ---
 <a id="nct-nct06943755"></a>
@@ -360,7 +366,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 등록 환자 수는 총 440명입니다.
 - 한국 내 5개 기관에서 참여합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
 
 ---
 <a id="nct-nct04858334"></a>
@@ -378,7 +384,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가지표는 올라파립 유지요법 추가에 따른 무재발 생존기간(RFS) 연장 효과입니다.
 - 부수적 평가지표에는 전체 생존기간(OS) 및 유전자 변이 유형별 치료 효과 분석이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
 
 ---
 <a id="nct-nct06423326"></a>
@@ -395,7 +401,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 치료는 28일 주기로 최대 4주기까지 진행됩니다.
 - 주요 목적은 수술 전 젬시타빈, 시스플라틴, 냅-파클리탁셀 병용요법의 임상적 반응률 확인입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06423326) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06423326)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06423326) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06423326)</small>
 
 ---
 <a id="nct-nct06747845"></a>
@@ -413,7 +419,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - A군은 niraparib과 ipilimumab을 3주마다 투여받고, B군은 표준 항암화학요법을 2주마다 투여받습니다.
 - 효과와 항종양 활성, 그리고 안전성 및 부작용을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
 
 ---
 <a id="nct-nct07283705"></a>
@@ -431,7 +437,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 환자 수는 총 60명입니다.
 - 주요 평가지표에는 주요 병리학적 반응(MPR)과 6개월 무진행 생존기간(PFS)이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07283705) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07283705)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07283705) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07283705)</small>
 
 ---
 <a id="nct-nct07678593"></a>
@@ -448,7 +454,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 GFH276을 cetuximab, nab-paclitaxel, gemcitabine, fluorouracil, leucovorin, irinotecan, oxaliplatin 등과 병용합니다.
 - 목표 환자 수는 222명이며, 1상(Phase Ib)과 2상(Phase II) 단계로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
 
 ---
 <a id="nct-nct07705919"></a>
@@ -466,7 +472,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자들은 표준 치료 전, 치료 중, 수술 전에 동적 조영증강 자기공명영상(DCE-MRI) 검사를 받습니다.
 - 주요 목표는 DCE-MRI 정보와 R0 절제율 간의 연관성을 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
 
 ---
 <a id="nct-nct07784374"></a>
@@ -484,7 +490,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법으로 GFH375, GFH276, GFS202A가 사용됩니다.
 - 목표 환자 수는 120명이며 국내 기관 정보는 초록에 명시되지 않음.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07784374) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07784374)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07784374) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07784374)</small>
 
 ---
 <a id="nct-nct01954992"></a>
@@ -501,7 +507,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료로 glufosfamide와 5-FU(Fluorouracil)를 비교합니다.
 - 목표 인원은 480명이며 3상 임상시험(phase3)으로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT01954992) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01954992)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT01954992) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01954992)</small>
 
 ---
 <a id="nct-nct05268692"></a>
@@ -518,7 +524,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료법으로 GS와 GnP를 사용합니다.
 - 참여 연령 기준은 18세부터 85세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05268692) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05268692)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05268692) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05268692)</small>
 
 ---
 <a id="nct-nct05314998"></a>
@@ -536,7 +542,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 표준 임상 기준으로 항암화학요법을 배정받고, 시험군은 전사체 치료 특정 층화 시그니처(TSS)를 기반으로 치료를 배정받습니다.
 - 초록에 생존기간이나 반응률 등의 구체적인 임상 결과 수치는 아직 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05314998) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05314998)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05314998) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05314998)</small>
 
 ---
 <a id="nct-nct05653453"></a>
@@ -553,7 +559,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 종양치료장전(TTFields)과 gemcitabine hydrochloride 및 albumin-bound paclitaxel의 병용 요법입니다.
 - 목표 환자 수는 512명이며 연령은 18세부터 75세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05653453) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05653453)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05653453) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05653453)</small>
 
 ---
 <a id="nct-nct05843877"></a>
@@ -571,7 +577,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 수술 후 췌장루 고위험군인 부드러운 췌장 및 3 mm 미만의 췌관 직경을 가진 환자를 대상으로 합니다.
 - 초록에 명시되지 않음(생존기간, 반응률, 위험비 수치 미제공).
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05843877) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05843877)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05843877) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05843877)</small>
 
 ---
 <a id="nct-nct06079346"></a>
@@ -588,7 +594,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 1차 평가지표는 전체 생존기간(OS)이며, 2차 평가지표는 무진행 생존기간(PFS)과 객관적 반응률(ORR)입니다.
 - 치료 중재는 OT-101과 mFOLFIRINOX 병용 요법 대 mFOLFIRINOX 단독 요법입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06079346) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06079346)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06079346) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06079346)</small>
 
 ---
 <a id="nct-nct06250972"></a>
@@ -606,7 +612,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 질병 조절률(DCR)을 매 4주마다 측정합니다.
 - 초록에 생존기간이나 반응률 등 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06250972) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06250972)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06250972) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06250972)</small>
 
 ---
 <a id="nct-nct06391892"></a>
@@ -623,7 +629,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 선행수술이 권장된 환자 중 ctDNA 양성 여부에 따라 선행화학요법 또는 표준 치료(선행수술)를 비교 평가합니다.
 - 주요 평가지표는 무병 생존기간(DFS)과 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06391892) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06391892)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06391892) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06391892)</small>
 
 ---
 <a id="nct-nct06427447"></a>
@@ -640,7 +646,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법으로 보조 방사선항암화학요법과 보조 항암화학요법을 비교합니다.
 - 림프절 전이, R1 또는 R2 절제, 또는 림프혈관 침습 중 하나의 위험 요소를 가진 환자를 대상으로 합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06427447) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06427447)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06427447) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06427447)</small>
 
 ---
 <a id="nct-nct06714604"></a>
@@ -657,7 +663,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 표준 기간(mFOLFIRINOX 6주기 또는 GnP 4주기)과 연장 기간(mFOLFIRINOX 12주기 또는 GnP 6주기)의 선행화학요법을 비교합니다.
 - 1차 평가변수는 무작위 배정 후 24개월째의 전체 생존율입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06714604) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06714604)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06714604) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06714604)</small>
 
 ---
 <a id="nct-nct06752811"></a>
@@ -675,7 +681,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 연령 기준은 18세부터 75세까지의 남녀를 대상으로 합니다.
 - 국내 기관 참여는 초록에 명시되지 않음.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06752811) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06752811)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06752811) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06752811)</small>
 
 ---
 <a id="nct-nct06807437"></a>
@@ -692,7 +698,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 수술 전 36시간 이내에 lanreotide 또는 생리식염수 위약을 피하 주사합니다.
 - 수술 후 60일 이내에 발생하는 수술 후 췌장루(POPF) 발생률을 비교합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06807437) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06807437)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06807437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06807437)</small>
 
 ---
 <a id="nct-nct06953999"></a>
@@ -710,7 +716,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 위약(placebo)과 화학요법의 병용입니다.
 - 목표 참여 인원은 총 999명입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06953999) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06953999)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06953999) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06953999)</small>
 
 ---
 <a id="nct-nct06998940"></a>
@@ -727,7 +733,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 표준 항암화학요법(5-FU 또는 젬시타빈 기반)에 panitumumab을 추가했을 때의 전체 생존기간(OS)과 무진행 생존기간(PFS)을 비교합니다.
 - 이차 목표로 객관적 반응률(ORR), 질병 통제률(DCR), 독성 발생 빈도 및 환자 보고 삶의 질(QOL)을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06998940) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06998940)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06998940) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06998940)</small>
 
 ---
 <a id="nct-nct07044453"></a>
@@ -745,7 +751,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료로 Gem/Nab-paclitaxel infusion과 mFOLFIRINOX infusion이 사용됩니다.
 - 초록에 명시되지 않은 생존기간, 반응률, 위험비 등의 구체적인 결과는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07044453) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07044453)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07044453) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07044453)</small>
 
 ---
 <a id="nct-nct07165951"></a>
@@ -763,7 +769,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 위약과 화학요법을 병용합니다.
 - 주요 평가변수는 전체 생존기간(OS)이며, 1:1 무작위 배정으로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07165951) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07165951)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07165951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07165951)</small>
 
 ---
 <a id="nct-nct07235930"></a>
@@ -780,7 +786,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 1차 평가변수는 전체 생존기간(OS)입니다.
 - 주요 2차 평가변수는 무진행 생존기간(PFS), 객관적 반응률(ORR), 안전성입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07235930) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235930)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07235930) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235930)</small>
 
 ---
 <a id="nct-nct07238283"></a>
@@ -798,7 +804,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 nab-paclitaxel과 gemcitabine(AG) 병용요법입니다.
 - 시험군은 Irinotecan Hydrochloride Liposome Injection (II), oxaliplatin, 5-FU/LV 병용요법입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07238283) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07238283)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07238283) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07238283)</small>
 
 ---
 <a id="nct-nct07262567"></a>
@@ -815,7 +821,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대상 질환은 KRAS G12D 변이가 확인된 전이성 췌장암입니다.
 - 실험군과 대조군에 1:1 비율로 무작위 배정됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07262567) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07262567)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07262567) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07262567)</small>
 
 ---
 <a id="nct-nct05482516"></a>
@@ -833,7 +839,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 연구 대상 질환에는 췌장암(pancreatic adenocarcinoma)이 포함되어 있습니다.
 - 목표 등록 인원은 총 20명이며 국내 기관은 참여하지 않습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
 
 ---
 <a id="pmid-42827581"></a>
@@ -849,7 +855,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).
 - FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
 
 ---
 <a id="nct-nct04924075"></a>
@@ -867,7 +873,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 인원은 총 355명이며, 국내 기관 2곳이 참여합니다.
 - 1차 유효성 평가지표는 객관적 반응률(ORR)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04924075) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04924075)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04924075) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04924075)</small>
 
 ---
 <a id="nct-nct06219941"></a>
@@ -884,7 +890,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 췌장암 환자를 대상으로 한 하위 연구에서는 AZD0901과 다양한 항암화학요법의 병용 투여를 평가합니다.
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 유효성 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06219941) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06219941)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06219941) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06219941)</small>
 
 ---
 <a id="nct-nct07845565"></a>
@@ -901,7 +907,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 목표는 대변 미생물 이식(FMT)과 SHR-1701 및 화학요법 병용 시 무진행 생존기간 중앙값(mPFS)을 평가하는 것입니다.
 - 이차 목표에는 전체 생존기간(OS), 객관적 반응률(ORR), 질병 통제율(DCR), 반응 지속기간(DoR) 및 이상반응 평가가 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07845565) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07845565)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07845565) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07845565)</small>
 
 ---
 <a id="nct-nct06217042"></a>
@@ -918,7 +924,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가지표는 무진행 생존기간(disease-free survival)입니다.
 - 이차 평가지표는 전체 생존기간(overall survival) 및 3년, 5년 생존율을 포함합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06217042) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06217042)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06217042) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06217042)</small>
 
 ---
 <a id="nct-nct06571461"></a>
@@ -936,7 +942,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 gemcitabine과 capecitabine 병용 요법입니다.
 - 시험군은 liposomal irinotecan, oxaliplatin, S-1 병용 요법입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06571461) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06571461)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06571461) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06571461)</small>
 
 ---
 <a id="nct-nct07383922"></a>
@@ -954,7 +960,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 주요 평가지표는 전체 생존기간(OS)이며, 안전성, 내약성, 약동학, 면역원성, 삶의 질도 함께 평가합니다.
 - 초록에 명시되지 않음
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07383922) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07383922)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07383922) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07383922)</small>
 
 ---
 <a id="nct-nct07429643"></a>
@@ -972,7 +978,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 대조군은 표준 전신 항암화학요법 단독 치료를 받습니다.
 - 초록에 명시되지 않은 구체적인 생존기간이나 반응률 수치는 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07429643) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07429643)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07429643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07429643)</small>
 
 ---
 <a id="nct-nct07803783"></a>
@@ -990,7 +996,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료로 YL201(tambotatug pelitecan) 등이 사용됩니다.
 - 국내 기관 참여 정보는 초록에 명시되지 않음.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07803783) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07803783)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07803783) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07803783)</small>
 
 ---
 <a id="nct-nct02598349"></a>
@@ -1008,7 +1014,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 수술이 가능한 경우, 방사선 및 항암 치료 후 최소 8주가 지난 후에 외과적 절제술(surgical resection)을 시행합니다.
 - 초록에 명시되지 않음: 구체적인 생존기간, 반응률, 위험비 수치
 
-<small>[원문](https://clinicaltrials.gov/study/NCT02598349) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02598349)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT02598349) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02598349)</small>
 
 ---
 <a id="nct-nct03579836"></a>
@@ -1025,7 +1031,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - BEY1107 단독요법 및 gemcitabine 병용요법의 최대내성용량(MTD), 안전성, 유효성을 평가합니다.
 - 국내 기관 1곳이 참여하며, 연령 기준은 20세에서 80세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03579836) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03579836)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03579836) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03579836)</small>
 
 ---
 <a id="nct-nct04858009"></a>
@@ -1043,7 +1049,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 목표 인원은 총 40명이며, 국내 기관은 포함되지 않습니다.
 - 초록에 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04858009) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858009)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04858009) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858009)</small>
 
 ---
 <a id="nct-nct05482893"></a>
@@ -1061,7 +1067,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 국내 기관 참여 수는 초록에 명시되지 않았습니다.
 - Spevatamig(PT886)의 단독 투여 및 항암화학요법, 표적치료제, 면역관문억제제와의 병용 투여를 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05482893) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482893)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05482893) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482893)</small>
 
 ---
 <a id="nct-nct06821997"></a>
@@ -1078,7 +1084,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 수술 전 NALIRIFOX(liposomal irinotecan, oxaliplatin, 5-fluorouracil, leucovorin) 치료를 평가합니다.
 - 초록에 생존기간이나 반응률 등의 구체적인 수치 결과는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06821997) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06821997)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06821997) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06821997)</small>
 
 ---
 <a id="nct-nct06861452"></a>
@@ -1096,7 +1102,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 자가 지방 유래 세포를 기반으로 한 유전자 치료제 RR001의 안전성과 적용 가능성을 사람에서 처음으로 평가합니다.
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 임상 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06861452) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06861452)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06861452) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06861452)</small>
 
 ---
 <a id="nct-nct07114861"></a>
@@ -1113,7 +1119,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 방법은 연구 약물 KN510 및 KN713과 복합 항암화학요법인 mFOLFIRINOX의 병용 투여입니다.
 - 목표 인원은 총 30명이며, 연령 기준은 19세부터 75세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07114861) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07114861)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07114861) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07114861)</small>
 
 ---
 <a id="nct-nct07163273"></a>
@@ -1130,7 +1136,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 중재 치료로 NALIRIFOX와 Gemcitabine plus nab-Paclitaxel(GnP)을 매달 교대로 투여합니다.
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07163273) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07163273)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07163273) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07163273)</small>
 
 ---
 <a id="nct-nct07257523"></a>
@@ -1148,7 +1154,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 1차 유효성 평가지표는 전체 생존기간(overall survival)입니다.
 - 2차 평가지표에는 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07257523) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07257523)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07257523) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07257523)</small>
 
 ---
 <a id="nct-nct07259317"></a>
@@ -1166,7 +1172,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 평가 항목에는 안전성, 내인성, 용량, 약동학(PK), 유효성이 포함됩니다.
 - 구체적인 생존기간이나 반응률 등 핵심 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
 
 ---
 <a id="nct-nct07341737"></a>
@@ -1184,7 +1190,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 치료제 SL-28은 5일 투여 후 2일 휴식 일정으로 12주 동안 투여됩니다.
 - 초록에 명시된 생존기간, 반응률, 위험비 등의 구체적인 효과 수치는 아직 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
 
 ---
 <a id="nct-nct07619521"></a>
@@ -1201,7 +1207,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 목표 인원은 31명입니다.
 - 1상 용량 증량 단계와 2상 확장 단계를 거쳐 안전성과 객관적 반응률(ORR) 등을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07619521) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07619521)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07619521) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07619521)</small>
 
 ---
 <a id="pmid-42832136"></a>
@@ -1215,7 +1221,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
 - 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
 
 ---
 <a id="nct-nct05365581"></a>
@@ -1233,7 +1239,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 목표 환자 수는 총 398명이며 국내 5곳의 기관이 참여합니다.
 - ASP2138은 단독 또는 펨브롤리주맙(pembrolizumab), mFOLFOX6, 라무시루맙(ramucirumab), 파클리탁셀(paclitaxel), mFOLFIRINOX 등의 표준 치료와 병용 투여됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05365581) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05365581)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05365581) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05365581)</small>
 
 ---
 <a id="nct-nct07089940"></a>
@@ -1251,7 +1257,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 환자들은 1일 차와 8일 차에 OMO-103을 정맥주사로 투여받습니다.
 - 생존기간 및 반응률 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
 
 ---
 <a id="nct-nct07454642"></a>
@@ -1268,7 +1274,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 치료는 AVA6103 단독요법을 정맥 투여합니다.
 - 용량 증량 단계(Phase 1a)와 용량 확장 단계(Phase 1b)로 나누어 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07454642) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07454642)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07454642) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07454642)</small>
 
 ---
 <a id="nct-nct04381130"></a>
@@ -1286,7 +1292,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 2a상에서는 MTD 용량으로 EF-009를 이식하여 전체 생존기간(OS)과 무진행 생존기간(PFS)을 평가합니다.
 - 종양 측정은 RECIST v1.1 기준에 따라 이식 후 최대 2년 동안 8주마다 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
 
 ---
 <a id="nct-nct07814859"></a>
@@ -1303,7 +1309,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 유효성 평가변수는 무진행 생존기간(PFS)입니다.
 - 치료 요법은 Relafen-α, famitinib, nab-paclitaxel, gemcitabine의 병용으로 구성됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07814859) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07814859)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07814859) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07814859)</small>
 
 ---
 <a id="nct-nct07824960"></a>
@@ -1321,7 +1327,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 참가자들은 화학요법과 함께 28일 주기로 최대 6주기 동안 연구 약물을 복용합니다.
 - 초록에 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07824960) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07824960)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07824960) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07824960)</small>
 
 ---
 <a id="nct-nct07825753"></a>
@@ -1338,7 +1344,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 질량분석기 플랫폼을 이용해 종양 조직의 막 단백질을 절대 정량화하여 1~5개의 후보 타겟을 선정합니다.
 - Trastuzumab emtansine(T-DM1), Trastuzumab deruxtecan(T-DXd), Datopotamab deruxtecan(Dato-DXd), Sacituzumab govitecan(SG), Enfortumab vedotin(EV), Becotatug vedotin(MRG003), Izalontamab brengitecan(iza-bren / BL-B01D1), Mirvetuximab soravtansine(MIRV) 등의 중재 약물이 사용됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
 
 ---
 <a id="nct-nct07828756"></a>
@@ -1356,7 +1362,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 대상 질환은 췌장암(Pancreatic Cancer)입니다.
 - 국내 기관 참여 수는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07828756) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07828756)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07828756) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07828756)</small>
 
 ---
 <a id="nct-nct03851614"></a>
@@ -1373,7 +1379,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 치료로 durvalumab(PD-L1 억제제), olaparib(PARP 억제제), cediranib(VEGFR 타이로신 키네이스 억제제)이 사용됩니다.
 - 연구의 주요 목적은 치료에 따른 종양, 혈액, 대변 샘플의 유전체 및 면역 생체표지자(biomarker) 변화를 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
 
 ---
 <a id="nct-nct05013216"></a>
@@ -1390,7 +1396,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1차 평가변수는 백신의 안전성 평가와 백신 투여 후 인터페론 감마(IFN-γ)를 생성하는 돌연변이 KRAS 특이적 T 세포의 최대 백분율 변화 평가입니다.
 - 연구 대상 연령은 40세 이상이며, 국내 기관 참여는 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05013216) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05013216)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05013216) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05013216)</small>
 
 ---
 <a id="nct-nct05884255"></a>
@@ -1408,7 +1414,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 치료로 Lutetium (177Lu) Oxodotreotide Injection을 평가합니다.
 - 초록에 명시되지 않음
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05884255) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05884255)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05884255) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05884255)</small>
 
 ---
 <a id="nct-nct06532331"></a>
@@ -1426,7 +1432,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - ONO-7475와 GnP 병용요법의 안전성도 함께 조사합니다.
 - 구체적인 유효성 및 생존기간 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06532331) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532331)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06532331) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532331)</small>
 
 ---
 <a id="nct-nct07859085"></a>
@@ -1444,7 +1450,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 목표 환자 수는 총 388명입니다.
 - 1상(PHASE1) 임상시험으로 현재 환자 모집 전(NOT_YET_RECRUITING) 단계입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07859085) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07859085)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07859085) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07859085)</small>
 
 ---
 <a id="nct-nct03498326"></a>
@@ -1462,7 +1468,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 평가지표는 무진행 생존기간, 약물 관련 부작용, 전체 생존기간 등입니다.
 - 초록에 명시되지 않음: 생존기간, 반응률, 위험비 수치는 아직 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03498326) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03498326)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT03498326) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03498326)</small>
 
 ---
 <a id="nct-nct04084496"></a>
@@ -1480,7 +1486,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1차 평가변수는 무병 생존기간이며, 2차 평가변수는 전체 생존기간, 안전성, 삶의 질입니다.
 - 목표 인원은 80명입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04084496) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04084496)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04084496) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04084496)</small>
 
 ---
 <a id="nct-nct04172532"></a>
@@ -1497,7 +1503,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1상은 M3814(peposertib)와 저분할 방사선 치료의 안전성과 내어성을 평가합니다.
 - 2상은 무진행 생존기간(PFS), 2년 전체 생존율(OS), 객관적 반응률(ORR) 등을 방사선 치료 단독군과 비교합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04172532) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04172532)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04172532) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04172532)</small>
 
 ---
 <a id="nct-nct04195347"></a>
@@ -1515,7 +1521,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - CM4620은 급성 췌장염 관련 복통 발생 36시간 이내 및 등록 8시간 이내에 1~4일 동안 정맥 주사(IV infusion)로 투여됩니다.
 - 초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04195347) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04195347)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04195347) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04195347)</small>
 
 ---
 <a id="nct-nct04452461"></a>
@@ -1533,7 +1539,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 목표 인원은 총 30명입니다.
 - 연령 기준은 18세 이상 79세 이하입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04452461) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04452461)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04452461) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04452461)</small>
 
 ---
 <a id="nct-nct04570943"></a>
@@ -1550,7 +1556,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 치료 중내는 Gabrinox(GEMBRAX 후 FOLFIRINOX) 순차 항암화학요법과 MRI 유도 정위적 방사선치료를 사용합니다.
 - 목표 환자 수는 103명이며 연령 기준은 18세에서 75세입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04570943) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04570943)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04570943) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04570943)</small>
 
 ---
 <a id="nct-nct04911816"></a>
@@ -1568,7 +1574,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - HCQ의 용량 단계는 400 mg(1단계), 800 mg(2단계), 1200 mg(3단계)으로 3+3 알고리즘을 통해 평가합니다.
 - 초록에 최종 반응률, 생존기간, 위험비 등의 유효성 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04911816) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04911816)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT04911816) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04911816)</small>
 
 ---
 <a id="nct-nct05053971"></a>
@@ -1585,7 +1591,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 2상에서는 진행성 및 진행성 췌장암 환자를 대상으로 전체 반응률(ORR), 무진행 생존기간(PFS), 전체 생존율(OS) 등을 확인합니다.
 - 목표 환자 수는 총 49명이며, 국내 참여 기관은 없습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05053971) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053971)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05053971) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053971)</small>
 
 ---
 <a id="nct-nct05083247"></a>
@@ -1602,7 +1608,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 환자들은 mFOLFIRINOX 또는 Gem-Nab-P로 4주기 초기 항암치료를 받습니다.
 - 비진행 환자는 무작위 배정되어 A군(추가 항암치료 후 수술) 또는 B군(추가 항암치료, iHD-SBRT 및 수술)으로 나뉩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05083247) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05083247)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05083247) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05083247)</small>
 
 ---
 <a id="nct-nct05132504"></a>
@@ -1620,7 +1626,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 환자들은 수술 전 6주기의 FOLFIRINOX와 2주기의 pembrolizumab을 투여받고 수술을 시행합니다.
 - 수술 후에는 5FU 기반 화학요법을 최대 6주기, pembrolizumab을 7주기 추가로 투여받아 총 9회의 pembrolizumab 6주 간격(Q6week) 주기를 완료합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05132504) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05132504)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05132504) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05132504)</small>
 
 ---
 <a id="nct-nct05218889"></a>
@@ -1638,7 +1644,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 대조군은 AG(nab-paclitaxel 및 gemcitabine) 요법을 사용합니다.
 - 초록에 명시되지 않음(생존기간, 반응률, 위험비 결과는 아직 초록에 명시되지 않음).
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05218889) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05218889)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05218889) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05218889)</small>
 
 ---
 <a id="nct-nct05241249"></a>
@@ -1656,7 +1662,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 탐색적 목적은 부교감신경 자극과 관련된 유전체 바이오마커를 평가하고 종양 성장 속도 감소 능력을 평가하는 것입니다.
 - 이 임상시험의 목표 인원은 37명입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05241249) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05241249)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05241249) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05241249)</small>
 
 ---
 <a id="nct-nct05451043"></a>
@@ -1673,7 +1679,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 췌장암 환자에게는 durvalumab, gemcitabine, nab-paclitaxel, propranolol이 병용 투여됩니다.
 - 상세한 임상 결과와 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
 
 ---
 <a id="nct-nct05462496"></a>
@@ -1690,7 +1696,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 일차 평가지표는 HLA-DR, CD38, CD25, KI67, CD69 등의 T세포 마커 중 하나 이상에서 기저치 대비 20% 이상 증가한 면역 반응 달성 여부입니다.
 - 연구에 사용되는 중재법에는 FOLFIRINOX 항암화학요법, ciprofloxacin, metronidazole, pembrolizumab, 종양 생검 및 수술적 절제 등이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05462496) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05462496)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05462496) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05462496)</small>
 
 ---
 <a id="nct-nct05688215"></a>
@@ -1708,7 +1714,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 대상 질환: 경계성 절제 가능 및 국소 진행성 췌장선암
 - 주요 평가변수: 안전성, 내인성, 절제율, 무진행 생존기간(PFS), 객관적 반응률(ORR) 등
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05688215) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05688215)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05688215) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05688215)</small>
 
 ---
 <a id="nct-nct05776524"></a>
@@ -1725,7 +1731,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 평가지표는 병용 치료에 따른 6개월 전체 생존율(OS) 개선 효과입니다.
 - 이차 평가지표로는 안전성, 내인성, 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 조절률(DCR)이 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05776524) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05776524)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05776524) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05776524)</small>
 
 ---
 <a id="nct-nct05821556"></a>
@@ -1742,7 +1748,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 이 연구는 2단계(phase2) 임상시험입니다.
 - 중재 약물로 valproic acid, simvastatin 20mg, gemcitabine 1000 mg, nab paclitaxel, cisplatin, capecitabine이 사용됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05821556) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05821556)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05821556) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05821556)</small>
 
 ---
 <a id="nct-nct05827796"></a>
@@ -1759,7 +1765,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 연구는 IN10018과 표준 화학요법 병용 코호트 및 IN10018, 표준 화학요법, KN046 병용 코호트의 2개 코호트로 진행됩니다.
 - 용량 확인 단계와 용량 확장 단계를 통해 2상 권장 용량(RP2D)을 찾고 안전성과 항종양 활성을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05827796) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05827796)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05827796) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05827796)</small>
 
 ---
 <a id="nct-nct05859750"></a>
@@ -1777,7 +1783,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 대상 환자 연령: 18세~75세
 - 중재 치료: AK104, Gemcitabine, Nab-Paclitaxel, Liposomal Irinotecan, Oxaliplatin, 5-Fluorouracil/Calcium folinate, Oxaliplatin + Irinotecan + 5-Fluorouracil/Leucovorin
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05859750) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05859750)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05859750) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05859750)</small>
 
 ---
 <a id="nct-nct05929885"></a>
@@ -1795,7 +1801,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 연구의 주요 평가는 반응률과 독성을 확인하는 것입니다.
 - 초록에 생존기간, 반응률, 위험비 등 구체적인 결과 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05929885) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05929885)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05929885) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05929885)</small>
 
 ---
 <a id="nct-nct05944237"></a>
@@ -1813,7 +1819,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1상은 가장 안전한 용량을 찾는 용량 증량 단계이며, 2a상은 유효성을 평가하는 용량 확장 단계입니다.
 - 췌장암은 PGE2/EP4 신호전달이 중요하다고 여겨지는 1상 파트 B 등의 대상 질환에 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05944237) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05944237)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05944237) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05944237)</small>
 
 ---
 <a id="nct-nct06030622"></a>
@@ -1831,7 +1837,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1차 평가변수는 C3와 Gemcitabine 병용 투여의 안전성, 이상 반응, 그리고 방사선학적 종양 평가를 통한 질병 반응입니다.
 - 2차 평가변수는 BIRC5, CA19-9, CEA 등 종양 바이오마커의 수치 및 분자적 변화 측정입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06030622) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06030622)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06030622) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06030622)</small>
 
 ---
 <a id="nct-nct06048484"></a>
@@ -1848,7 +1854,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 수술 전 7주 동안 SBRT와 함께 zimberelimab, quemliclustat, etrumadenant 등의 약물 병용 치료를 시험합니다.
 - 효과 및 생존율 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06048484) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06048484)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06048484) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06048484)</small>
 
 ---
 <a id="nct-nct06050317"></a>
@@ -1866,7 +1872,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 등록 대상은 18세에서 75세 사이의 수술 불가 췌장암 환자입니다.
 - 생존율 및 반응률 등의 구체적인 결과 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06050317) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06050317)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06050317) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06050317)</small>
 
 ---
 <a id="nct-nct06051695"></a>
@@ -1883,7 +1889,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 연구의 중재 치료제는 A2B694, A2B543 및 xT CDx with HLA-LOH Assay입니다.
 - 1상에서는 안전성과 권장 용량을 평가하며, 2상에서는 유효성과 안전성을 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06051695) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06051695)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06051695) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06051695)</small>
 
 ---
 <a id="nct-nct06111274"></a>
@@ -1901,7 +1907,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 치료로 Pimicotinib(ABSK021) 등이 사용됩니다.
 - 초록에 구체적인 생존기간이나 반응률 등의 수치는 명시되지 않았습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06111274) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06111274)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06111274) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06111274)</small>
 
 ---
 <a id="nct-nct06145074"></a>
@@ -1918,7 +1924,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 수술 전 10일 동안 하루에 두 번 40mg의 propranolol 또는 위약을 복용합니다.
 - 주요 평가변수는 불안 수준(HAM-A, HADS), 종양유발성 유전자 발현, 심박변이도(HRV), 수술 후 30일 및 90일 생존율과 합병증입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06145074) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06145074)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06145074) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06145074)</small>
 
 ---
 <a id="nct-nct06151262"></a>
@@ -1936,7 +1942,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 주요 평가지표는 화학요법 유발 골수억제(chemotherapy-induced myelosuppression)의 발생률입니다.
 - 목표 환자 수는 30명이며, 연령은 18세에서 75세까지입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06151262) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06151262)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06151262) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06151262)</small>
 
 ---
 <a id="nct-nct06159478"></a>
@@ -1947,7 +1953,7 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 
 This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial to evaluate the efficacy and safety of binimetinib in patients with advanced or recurrent low-grade glioma or pancreatic cancer harboring BRAF fusion/rearrangement. This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06159478) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06159478)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06159478) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06159478)</small>
 
 ---
 <a id="nct-nct06196788"></a>
@@ -1958,7 +1964,7 @@ This study is an open-label, parallel, 2-cohort, multicenter, investigator-initi
 
 The purpose of this study is to evaluate the efficacy of gemcitabine and nab-paclitaxel venous injection plus transcatheter arterial infusion to Patients with Advanced Pancreatic Cancer. Pancreatic cancer is a highly lethal malignancy with a 5-year survival less than 10%.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06196788) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06196788)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06196788) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06196788)</small>
 
 ---
 <a id="nct-nct06261359"></a>
@@ -1969,7 +1975,7 @@ The purpose of this study is to evaluate the efficacy of gemcitabine and nab-pac
 
 The purpose of this study is to evaluate the efficacy and safety of CEND-1 in combination with gemcitabine/nab-paclitaxel versus gemcitabine/nab-paclitaxel and placebo as first-line treatment in patients with Locally Advanced Unresectable or Metastatic Pancreatic Ductal Adenocarcinoma.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06261359) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06261359)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06261359) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06261359)</small>
 
 ---
 <a id="nct-nct06359275"></a>
@@ -1980,7 +1986,7 @@ The purpose of this study is to evaluate the efficacy and safety of CEND-1 in co
 
 This trial is a phase II clinical trial of the safety and efficacy of PD-1 antibody (Toripalimab) in combination with paclitaxel (albumin-bound type) and gemcitabine and PULSAR radiotherapy in patients with locally advanced unresectable pancreatic cancer and patients with only local recurrence after pancreatic cancer surgery, to observe the safety and efficacy of PD-1 antibody (Toripalimab) in combination with paclitaxel (albumin-bound type) and gemcitabine and PULSAR in the treatment of patient…
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06359275) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06359275)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06359275) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06359275)</small>
 
 ---
 <a id="nct-nct06384560"></a>
@@ -1991,7 +1997,7 @@ This trial is a phase II clinical trial of the safety and efficacy of PD-1 antib
 
 Since patients with (borderline) resectable pancreatic cancer have a limited life expectancy, it is important to improve treatment strategies. Therefore, the objective of this study is to investigate whether neoadjuvant triple treatment with chemotherapy (mFOLFIRINOX), immunotherapy (pembrolizumab and stereotactic radiotherapy, followed by adjuvant surgery and chemotherapy and immunotherapy, improves survival in patients with (borderline) resectabel pancreatic cancer.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06384560) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06384560)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06384560) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06384560)</small>
 
 ---
 <a id="nct-nct06435260"></a>
@@ -2002,7 +2008,7 @@ Since patients with (borderline) resectable pancreatic cancer have a limited lif
 
 The purpose of this study is to assess surgical conversion rate and the immediate and long-term outcomes to patients who receive hypofractionated radiotherapy and AG combined with camrelizumab immunotherapy of Borderline Resectable/locally advanced pancreatic cancer.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06435260) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06435260)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06435260) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06435260)</small>
 
 ---
 <a id="nct-nct06454448"></a>
@@ -2013,7 +2019,7 @@ The purpose of this study is to assess surgical conversion rate and the immediat
 
 Pancreatic cancer is a kind of digestive system tumor with extremely high malignancy and poor prognosis. Although the trend of benefit from immunotherapy in combination with chemotherapy is currently reflected in several exploratory studies, the overall efficacy is still relatively limited.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06454448) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06454448)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06454448) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06454448)</small>
 
 ---
 <a id="nct-nct06479239"></a>
@@ -2024,7 +2030,7 @@ Pancreatic cancer is a kind of digestive system tumor with extremely high malign
 
 The purpose of this study is to understand the safety and estimate the efficacy of combining anti-cluster of differentiation 3 (CD3) x anti-Epidermal Growth Factor Receptor (EGFR) bispecific antibody fresh peripheral blood mononuclear cells (EGFR FPBMC) for patients with metastatic or unresectable pancreas cancer. Participants receive 8 twice weekly doses and then 8 more doses every 2 weeks of EGFR FPBMC by intravenous infusion.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06479239) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06479239)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06479239) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06479239)</small>
 
 ---
 <a id="nct-nct06483555"></a>
@@ -2035,7 +2041,7 @@ The purpose of this study is to understand the safety and estimate the efficacy 
 
 This Phase I/II clinical trial is being conducted at multiple centers to find out whether adding a low dose of EGFR blocking drugs to the standard chemotherapy combination of gemcitabine and nab paclitaxel (GnP) is safe, tolerable, and helpful for people with advanced pancreatic cancer. All participants are first tested with a tool called PurIST, which classifies tumors as either "basal-like" or "classical." People with basal-like tumors will receive GnP plus erlotinib during Phase I so research…
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06483555) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06483555)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06483555) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06483555)</small>
 
 ---
 <a id="nct-nct06532617"></a>
@@ -2046,7 +2052,7 @@ This Phase I/II clinical trial is being conducted at multiple centers to find ou
 
 This is a single arm, single cencer, phase II clinical trial. This study aims to evaluate the efficacy and safety of Cadonilimab combined with S-1 or capecitabine as a second-line treatment for advanced pancreatic cancer.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06532617) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532617)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06532617) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532617)</small>
 
 ---
 <a id="nct-nct06547736"></a>
@@ -2057,7 +2063,7 @@ This is a single arm, single cencer, phase II clinical trial. This study aims to
 
 The study is being conducted to evaluate the safety, tolerability and efficacy of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in subjects with locally advanced or metastatic pancreatic cancer. This study is an open, single center, exploratory clinical trial aimed at evaluating the efficacy and safety of ADC drugs monotherapy or combination therapy with HRS-4642 or immunotherapy in the treatment of patients with unresectable locally advanced or metastatic pancreati…
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06547736) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06547736)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06547736) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06547736)</small>
 
 ---
 <a id="nct-nct06572813"></a>
@@ -2070,7 +2076,7 @@ This is an single-center, prospective, open-label clinical trial, to explore the
 
 Phase 1 (Evaluation of Drug Tolerance) Primary objective: To evaluate the tolerability of bortezomib, PD-1 mAb and mFOLFIRINOX in patients with advanced metastatic pancreatic cancer, and to determine the dose of bortezomib in the combination …
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06572813) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06572813)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06572813) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06572813)</small>
 
 ---
 <a id="nct-nct06587061"></a>
@@ -2083,7 +2089,7 @@ To evaluate the safety and efficacy of HRS-4642 in Combination With AG for Neoad
 
 This study is an open, single center, exploratory clinical trial aimed at evaluating the safety and efficacy of HRS-4642 in combination with gemcitabine and albumin-bound paclitaxel for neoadjuvant and adjuvant treatment of pancreatic cancer
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06587061) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06587061)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06587061) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06587061)</small>
 
 ---
 <a id="nct-nct06605430"></a>
@@ -2094,7 +2100,7 @@ This study is an open, single center, exploratory clinical trial aimed at evalua
 
 Many patients with advanced pancreatic cancer and colorectal cancer experience burdensome and difficult-to-treat symptoms. The impact of multiple symptoms (called "symptom burden") can negatively affect a patient's quality of life, decrease their ability to tolerate cancer treatments, and lead to worse survival.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06605430) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06605430)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06605430) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06605430)</small>
 
 ---
 <a id="nct-nct06690528"></a>
@@ -2103,7 +2109,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06690528** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06690528.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06690528) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06690528)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06690528) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06690528)</small>
 
 ---
 <a id="nct-nct06722911"></a>
@@ -2112,7 +2120,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06722911** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06722911.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06722911) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06722911)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06722911) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06722911)</small>
 
 ---
 <a id="nct-nct06758544"></a>
@@ -2121,7 +2131,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06758544** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06758544.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06758544) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06758544)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06758544) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06758544)</small>
 
 ---
 <a id="nct-nct06770452"></a>
@@ -2130,7 +2142,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06770452** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06770452.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06770452) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06770452)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06770452) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06770452)</small>
 
 ---
 <a id="nct-nct06782932"></a>
@@ -2139,7 +2153,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06782932** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06782932.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06782932) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06782932)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06782932) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06782932)</small>
 
 ---
 <a id="nct-nct06789679"></a>
@@ -2148,7 +2164,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06789679** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06789679.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06789679) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06789679)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06789679) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06789679)</small>
 
 ---
 <a id="nct-nct06816914"></a>
@@ -2157,7 +2175,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06816914** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06816914.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06816914) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06816914)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06816914) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06816914)</small>
 
 ---
 <a id="nct-nct06825546"></a>
@@ -2166,7 +2186,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06825546** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06825546.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06825546) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06825546)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06825546) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06825546)</small>
 
 ---
 <a id="nct-nct06831136"></a>
@@ -2175,7 +2197,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06831136** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06831136.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06831136) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06831136)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06831136) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06831136)</small>
 
 ---
 <a id="nct-nct06844422"></a>
@@ -2184,7 +2208,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06844422** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06844422.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06844422) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06844422)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06844422) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06844422)</small>
 
 ---
 <a id="nct-nct06850623"></a>
@@ -2193,7 +2219,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06850623** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06850623.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06850623) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06850623)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06850623) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06850623)</small>
 
 ---
 <a id="nct-nct06922591"></a>
@@ -2202,7 +2230,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06922591** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06922591.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06922591) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06922591)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06922591) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06922591)</small>
 
 ---
 <a id="nct-nct06937177"></a>
@@ -2211,7 +2241,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06937177** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06937177.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06937177) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06937177)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06937177) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06937177)</small>
 
 ---
 <a id="nct-nct06938282"></a>
@@ -2220,7 +2252,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06938282** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06938282.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06938282) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06938282)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06938282) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06938282)</small>
 
 ---
 <a id="nct-nct06941857"></a>
@@ -2229,7 +2263,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06941857** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06941857.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06941857) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06941857)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06941857) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06941857)</small>
 
 ---
 <a id="nct-nct06944106"></a>
@@ -2238,7 +2274,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06944106** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06944106.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06944106) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06944106)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06944106) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06944106)</small>
 
 ---
 <a id="nct-nct06946901"></a>
@@ -2247,7 +2285,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06946901** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06946901.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06946901) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06946901)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06946901) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06946901)</small>
 
 ---
 <a id="nct-nct06951997"></a>
@@ -2256,7 +2296,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06951997** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06951997.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06951997) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06951997)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06951997) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06951997)</small>
 
 ---
 <a id="nct-nct06962267"></a>
@@ -2265,7 +2307,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT06962267** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06962267.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06962267) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06962267)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06962267) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06962267)</small>
 
 ---
 <a id="nct-nct07040228"></a>
@@ -2274,7 +2318,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT07040228** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07040228.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07040228) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07040228)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07040228) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07040228)</small>
 
 ---
 <a id="nct-nct07043270"></a>
@@ -2283,7 +2329,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT07043270** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07043270.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07043270) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07043270)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07043270) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07043270)</small>
 
 ---
 <a id="nct-nct07049055"></a>
@@ -2292,7 +2340,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT07049055** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07049055.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07049055) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07049055) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
 
 ---
 <a id="nct-nct07076212"></a>
@@ -2301,7 +2351,9 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT07076212** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07076212.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07076212) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07076212)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07076212) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07076212)</small>
 
 ---
 <a id="nct-nct07126158"></a>
@@ -2310,6 +2362,8 @@ Many patients with advanced pancreatic cancer and colorectal cancer experience b
 
 **NCT07126158** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07126158.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07126158) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07126158)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07126158) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07126158)</small>
 
 ---

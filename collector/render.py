@@ -89,6 +89,9 @@ def render_item(it: Item, depth: int, *, show_history: bool = False) -> str:
     if it.summary_ko:
         lines.append(it.summary_ko)
         lines.append("")
+    elif it.summary_source == "pending":
+        lines.append("_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._")
+        lines.append("")
     if it.key_points_ko:
         for k in it.key_points_ko:
             lines.append(f"- {k}")
@@ -98,7 +101,10 @@ def render_item(it: Item, depth: int, *, show_history: bool = False) -> str:
         if ev:
             lines.append("변경 이력: " + " / ".join(f"{h.date} {HISTORY_KO.get(h.event, h.event)}" + (f"({h.detail})" if h.detail else "") for h in ev[-3:]))
             lines.append("")
-    tag = {"llm": "AI 요약 · 원문 확인 필요", "excerpt": "초록 발췌", "manual": "검수된 요약", "pending": "요약 대기"}[it.summary_source]
+    tag = {"llm": "AI 한국어 요약 · 원문 확인 필요",
+           "excerpt": "⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시)",
+           "manual": "검수된 요약",
+           "pending": "⏳ 한국어 요약 대기 중 (다음 수집에서 처리)"}[it.summary_source]
     links = [f"[원문]({it.source.url})"]
     if it.links.doi:
         links.append(f"[DOI](https://doi.org/{it.links.doi})")

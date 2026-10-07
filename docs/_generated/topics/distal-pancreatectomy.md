@@ -24,13 +24,17 @@ comments: true
 #### [Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy](https://pubmed.ncbi.nlm.nih.gov/42830225/)
 `논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
 
 ---
 <a id="pmid-42830587"></a>
 #### [Laparoscopic Spleen-Preserving Distal Pancreatectomy for Mucinous Cystic Neoplasm With Unexpected Immunoglobulin G4-Related Periarteritis of the Splenic Artery: A Case Report](https://pubmed.ncbi.nlm.nih.gov/42830587/)
 `논문` `증례` `수술` `진단·조기발견` · 2026-01-01 · PubMed · Asian J Endosc Surg · 중요도 0.50
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830587/) · [DOI](https://doi.org/10.1111/ases.70387) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830587)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830587/) · [DOI](https://doi.org/10.1111/ases.70387) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830587)</small>
 
 ---

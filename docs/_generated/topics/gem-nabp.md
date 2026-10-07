@@ -98,6 +98,8 @@ comments: true
 #### [A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy](https://pubmed.ncbi.nlm.nih.gov/42831115/)
 `논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-02 · PubMed · Surg Case Rep · 중요도 0.64
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
 
 ---

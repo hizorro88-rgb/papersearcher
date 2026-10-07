@@ -8,7 +8,7 @@
 
 Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct07491445"></a>
@@ -25,7 +25,7 @@ Cancer is a condition where cells in a specific part of the body grow and reprod
 - daraxonrasib 단독, daraxonrasib+gemcitabine+nab-paclitaxel 병용, 표준 gemcitabine+nab-paclitaxel의 세 치료군을 비교합니다.
 - 국내 6개 기관이 참여하고 있으며, RAS 변이 여부와 무관하게 등록이 가능합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
 ---
 <a id="nct-nct06593431"></a>
@@ -42,7 +42,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 모든 종양 병소에 대한 전이 지향 치료(MDT) 병용군과 전신 항암 화학요법 단독군을 비교합니다.
 - 1차 평가변수는 무진행 생존기간(PFS)이며 주요 2차 평가변수는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
 <a id="pmid-42837079"></a>
@@ -58,7 +58,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.
 - 수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
 <a id="pmid-42827581"></a>
@@ -74,7 +74,7 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).
 - FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
 
 ---
 <a id="pmid-42832136"></a>
@@ -88,20 +88,24 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
 - 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
 
 ---
 <a id="pmid-42827323"></a>
 #### [Aetiology-Specific Pancreatic Enzyme Dose Requirements and Treatment Outcomes in Pancreatic Exocrine Insufficiency: The Multicentre EURO-PEI Registry](https://pubmed.ncbi.nlm.nih.gov/42827323/)
 `논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-10-01 · PubMed · United European Gastroenterol J · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827323/) · [DOI](https://doi.org/10.1002/ueg2.70282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13633429/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827323)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827323/) · [DOI](https://doi.org/10.1002/ueg2.70282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13633429/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827323)</small>
 
 ---
 <a id="pmid-42830225"></a>
 #### [Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy](https://pubmed.ncbi.nlm.nih.gov/42830225/)
 `논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
 
 ---

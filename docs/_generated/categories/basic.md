@@ -30,62 +30,78 @@ comments: true
 - 파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.
 - 수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
 <a id="pmid-42837803"></a>
 #### [Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study](https://pubmed.ncbi.nlm.nih.gov/42837803/)
 `논문` `기타` `기초연구` · 2026-09-29 · PubMed · Pathol Res Pract · 중요도 0.65
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837803/) · [DOI](https://doi.org/10.1016/j.prp.2026.156703) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837803)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837803/) · [DOI](https://doi.org/10.1016/j.prp.2026.156703) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837803)</small>
 
 ---
 <a id="doi-10.64898-2026.10.02.754697"></a>
 #### [HMGA2 Expression in Pancreatic Ductal Adenocarcinoma Controls Tumor Microenvironment and Immunosuppression via IL1α](https://europepmc.org/article/PPR/PPR1335384)
 `프리프린트` `기타` `기초연구` · 2026-10-06 · Europe PMC (preprint) · bioRxiv · 중요도 0.59
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1335384) · [DOI](https://doi.org/10.64898/2026.10.02.754697) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.754697)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1335384) · [DOI](https://doi.org/10.64898/2026.10.02.754697) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.754697)</small>
 
 ---
 <a id="pmid-42835505"></a>
 #### [Dynamic regulation of hypoxia-associated regulatory CD39+CD73+ and IL35+ B cells in pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/42835505/)
 `논문` `기타` `기초연구` · 2026-09-21 · PubMed · Front Immunol · 중요도 0.63
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42835505/) · [DOI](https://doi.org/10.3389/fimmu.2026.1814123) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13635374/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42835505)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42835505/) · [DOI](https://doi.org/10.3389/fimmu.2026.1814123) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13635374/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42835505)</small>
 
 ---
 <a id="doi-10.64898-2026.10.01.756059"></a>
 #### [Precision Targeting of Heparan Sulfate Proteoglycans Broadly Dysregulates Survival Signaling and Metabolic Adaptation in Pancreatic Cancer](https://europepmc.org/article/PPR/PPR1334450)
 `프리프린트` `기타` `기초연구` · 2026-10-05 · Europe PMC (preprint) · bioRxiv · 중요도 0.61
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1334450) · [DOI](https://doi.org/10.64898/2026.10.01.756059) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.01.756059)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1334450) · [DOI](https://doi.org/10.64898/2026.10.01.756059) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.01.756059)</small>
 
 ---
 <a id="pmid-42829994"></a>
 #### [Tumor microenvironment-responsive injectable hydrogels for localized therapy of pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/42829994/)
 `논문` `기타` `기초연구` · 2026-09-24 · PubMed · Biochem Biophys Res Commun · 중요도 0.61
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42829994/) · [DOI](https://doi.org/10.1016/j.bbrc.2026.154632) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42829994)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42829994/) · [DOI](https://doi.org/10.1016/j.bbrc.2026.154632) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42829994)</small>
 
 ---
 <a id="pmid-42830203"></a>
 #### [Comment on "Post-Translational Modifications in Pancreatic Cancer: Mechanisms to Clinical Applications"](https://pubmed.ncbi.nlm.nih.gov/42830203/)
 `논문` `기타` `기초연구` · 2026-10-04 · PubMed · J Gastroenterol Hepatol · 중요도 0.60
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830203/) · [DOI](https://doi.org/10.1111/jgh.70797) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830203)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830203/) · [DOI](https://doi.org/10.1111/jgh.70797) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830203)</small>
 
 ---
 <a id="pmid-42831809"></a>
 #### [Enhancement of oncolytic flavi- and alphavirus replication in resistant human pancreatic adenocarcinoma cell lines using ruxolitinib](https://pubmed.ncbi.nlm.nih.gov/42831809/)
 `논문` `전임상` `기초연구` · 2026-08-31 · PubMed · Vopr Virusol · 중요도 0.54
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831809/) · [DOI](https://doi.org/10.36233/0507-4088-409) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831809)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831809/) · [DOI](https://doi.org/10.36233/0507-4088-409) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831809)</small>
 
 ---
 <a id="pmid-42828053"></a>
 #### [Fibrinogen-Drug Nanoparticles Achieve Durable Responses in Pancreatic and Breast Cancer Murine Models](https://pubmed.ncbi.nlm.nih.gov/42828053/)
 `논문` `전임상` `기초연구` · 2026-08-21 · PubMed · ACS Pharmacol Transl Sci · 중요도 0.46
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42828053/) · [DOI](https://doi.org/10.1021/acsptsci.6c00337) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13632883/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42828053)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42828053/) · [DOI](https://doi.org/10.1021/acsptsci.6c00337) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13632883/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42828053)</small>
 
 ---

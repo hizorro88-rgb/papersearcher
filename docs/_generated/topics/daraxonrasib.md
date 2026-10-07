@@ -31,20 +31,26 @@ comments: true
 #### [Targeting RAS in pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/42836673/)
 `논문` `종설` `치료 전반` `임상시험` · 2026-10-15 · PubMed · Cancer · 중요도 0.69
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836673/) · [DOI](https://doi.org/10.1002/cncr.70640) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836673)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836673/) · [DOI](https://doi.org/10.1002/cncr.70640) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836673)</small>
 
 ---
 <a id="pmid-42836735"></a>
 #### [Pancreatic Cancer KRAS Breakthrough: Drug Graveyard No More](https://pubmed.ncbi.nlm.nih.gov/42836735/)
 `논문` `기타` `신약·치료제` `치료 전반` · 2026-10-06 · PubMed · Clin Cancer Res · 중요도 0.70
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836735/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-25-4177) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836735)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836735/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-25-4177) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836735)</small>
 
 ---
 <a id="pmid-42827491"></a>
 #### [Multidisciplinary treatment incorporating autologous DC-CIK cell therapy induces long-term survival in advanced pancreatic cancer: a case report](https://pubmed.ncbi.nlm.nih.gov/42827491/)
 `논문` `증례` `신약·치료제` `치료 전반` · 2026-09-18 · PubMed · Front Immunol · 중요도 0.53
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827491/) · [DOI](https://doi.org/10.3389/fimmu.2026.1908017) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630756/) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827491)</small>
+_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827491/) · [DOI](https://doi.org/10.3389/fimmu.2026.1908017) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630756/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827491)</small>
 
 ---
