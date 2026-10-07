@@ -1,0 +1,57 @@
+{
+ "abstract": "Oncogenic KRAS drives lipid reprogramming in pancreatic ductal adenocarcinoma (PDAC) to promote disease progression, and these changes are manifest in circulation. Using mass spectrometry, we performed lipidomic analyses on plasmas from a cohort of 93 newly-diagnosed resectable PDAC cases, 43 patients with chronic pancreatitis, and 93 age- and sex-matched healthy controls, the results of which revealed pronounced reductions in circulating lysophosphatidylcholines (LysoPC) as a prominent feature associated with PDAC. Using stable-isotope resolved lipidomics, we further found that PDAC cells exhibit a lipid scavenging phenotype characterized by preferential uptake of extracellular unsaturated LysoPCs to sustain pro-growth signals. Restricting bioavailability of extracellular unsaturated LysoPCs shifted the metabolic phenotype of PDAC cells towards enhanced de novo lipogenesis and autophagy, which was accompanied by suppression of AKT signaling activities and increased susceptibility to apoptosis. Using bulk, single-cell, and spatial transcriptomic datasets together with functional experiments, we identified oncogenic KRAS-mediated upregulation of major facilitator superfamily domain-containing protein 2a (MFSD2A) as a key mediator that facilitates extracellular uptake of LysoPCs in PDAC cells. Loss of MFSD2A expression mimicked LysoPC restriction and resulted in inhibition of AKT signaling and increased propensity of PDAC cells to undergo apoptosis in vitro and suppressed tumor growth in vivo. Therapeutic targeting of the KRAS-MFSD2A-LysoPC axis via repurposing of the synthetic alkyl-lysophospholipid edelfosine promoted potent anti-cancer effects in vitro that were mechanistically attributed to reduced extracellular uptake of LysoPCs, and attenuation of AKT signaling. Collectively, our findings describe a previously unrecognized onco-metabolic program of enhanced LysoPC scavenging mediated by MFSD2A that promotes PDAC progression and that is therapeutically targetable via repurposing edelfosine.",
+ "authors": [
+  "chen y",
+  "Haffner C",
+  "Chellakkan Selvanesan B",
+  "Wu R",
+  "Ballaro R",
+  "Vilchis Celis A",
+  "Zuo M",
+  "Patterson L"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.05.756824",
+ "importance": 0.69,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.64898/2026.10.05.756824",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1335336"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "KRAS-driven metabolic reprogramming of enhanced MFSD2A-mediated lysophosphatidylcholine scavenging promotes survival and progression of pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

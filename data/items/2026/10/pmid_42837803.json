@@ -1,0 +1,54 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer remains a highly lethal malignancy with limited therapeutic options. Rhein, a natural anthraquinone, exhibits anti-tumor potential, yet its molecular targets in pancreatic cancer are poorly understood. This study aimed to elucidate the underlying molecular mechanism of rhein in pancreatic cancer.\nMETHODS: Bioinformatic analysis using the GSE101448 dataset and machine learning identified matrix metalloproteinase 9 (MMP9) as a core target of rhein and pancreatic cancer. The MMP9 and transcription factor AP-2 alpha (TFAP2A) protein levels were assessed using Western blot. Cell viability, proliferation, and migration were assessed using Cell Counting Kit-8 (CCK-8), colony formation, and wound healing assays, respectively. Cell apoptosis was measured using flow cytometry. Measurement of lactate production, glucose consumption, and adenosine triphosphate (ATP) levels was performed using corresponding assay kits. The binding between TFAP2A and the MMP9 promoter was predicted by JASPAR and verified using chromatin immunoprecipitation (ChIP) and dual-luciferase reporter assays. The interaction between rhein and TFAP2A was investigated via molecular docking. The effect of rhein on tumor growth was explored in xenograft models.\nRESULTS: MMP9 expression was inhibited by rhein treatment in pancreatic cancer cells (P < 0.05). Rhein treatment promoted cell apoptosis and inhibited colony formation, migration, and glycolysis, which were reversed by MMP9 overexpression (all P < 0.05). Furthermore, MMP9 overexpression impaired the inhibition of rhein on tumor growth in a mouse model. Mechanistically, Rhein inhibited TFAP2A to downregulate MMP9 transcription. Rhein exerted anti-tumor effects by inhibiting the TFAP2A/MMP9 axis. TFAP2A overexpression inhibited cell apoptosis and promoted migration and glycolysis in rhein-treated cells, which were remarkably abolished after MMP9 knockdown (all P < 0.05).\nCONCLUSION: Rhein exerted anti-tumor effects by inhibiting the TFAP2A/MMP9 axis, providing a promising therapeutic agent for pancreatic cancer.",
+ "authors": [
+  "Yang Y",
+  "Chen J",
+  "Xiao S",
+  "Du X",
+  "Liu X"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42837803",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1016/j.prp.2026.156703",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42837803"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pathol Res Pract",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42837803/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -43,8 +43,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06538857"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "The CEB-01 implant is a membrane containing SN-38, the active metabolite of irinotecan, an already authorized chemotherapeutic agent. After surgical removal of the pancreatic cancer tumor, CEB 01 will be placed in the surgical bed for a local and sustained release of the chemotherapy.",
+ "summary_source": "excerpt",
  "tags": [
   "Locally advanced disease",
   "Resectable pancreatic cancer",

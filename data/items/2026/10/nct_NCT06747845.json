@@ -43,8 +43,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06747845"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "The main goal of this study is to look at the effectiveness and anti-tumor activity (preventing growth of the tumor) of the drugs niraparib and ipilimumab, on the patients and their pancreatic cancer. This study will involve two different treatment arms.",
+ "summary_source": "excerpt",
  "tags": [
   "Niraparib",
   "Ipilimumab",

@@ -11,12 +11,26 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 6건 · 최근 30일 6건
+전체 8건 · 최근 30일 8건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42837803"></a>
+#### [Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study](https://pubmed.ncbi.nlm.nih.gov/42837803/)
+`논문` `기타` `기초연구` · 2026-09-29 · PubMed · Pathol Res Pract · 중요도 0.65
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837803/) · [DOI](https://doi.org/10.1016/j.prp.2026.156703) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837803)</small>
+
+---
+<a id="doi-10.64898-2026.10.02.754697"></a>
+#### [HMGA2 Expression in Pancreatic Ductal Adenocarcinoma Controls Tumor Microenvironment and Immunosuppression via IL1α](https://europepmc.org/article/PPR/PPR1335384)
+`프리프린트` `기타` `기초연구` · 2026-10-06 · Europe PMC (preprint) · bioRxiv · 중요도 0.59
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1335384) · [DOI](https://doi.org/10.64898/2026.10.02.754697) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.754697)</small>
+
+---
 <a id="pmid-42835505"></a>
 #### [Dynamic regulation of hypoxia-associated regulatory CD39+CD73+ and IL35+ B cells in pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/42835505/)
 `논문` `기타` `기초연구` · 2026-09-21 · PubMed · Front Immunol · 중요도 0.63

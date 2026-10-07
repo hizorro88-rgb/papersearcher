@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Gastrointestinal (GI) malignancies such as colorectal cancer (CRC), pancreatic ductal adenocarcinoma (PDAC), gastric cancer, esophageal cancer, and hepatocellular carcinoma (HCC) represent a major global cancer burden and remain associated with poor outcomes despite advances in systemic therapy. The limited efficacy of immunotherapy across most GI tumors is largely driven by an immunosuppressive tumor microenvironment (TME), characterized by stromal barriers, low tumor immunogenicity, and immune exclusion. Oncolytic viruses (OVs) have emerged as a novel therapeutic modality with the capacity to induce direct tumor lysis while simultaneously reprogramming the TME.\nMETHODS: This article is a narrative review and evidence synthesis of oncolytic virotherapy in GI malignancies. Relevant literature was identified through iterative searches of PubMed, Scopus, and ClinicalTrials.gov between January 2010 and May 2026, using combinations of the terms ``oncolytic virus,'' ``oncolytic virotherapy,'' ``clinical trial,'' and disease-specific terms. Priority was given to peer-reviewed early-phase and later-phase clinical trials, mechanistic studies with direct translational relevance to GI cancers, and consensus reviews.\nRESULTS: Clinical development of OVs in GI malignancies demonstrates heterogeneous but promising activity. In PDAC, early-phase trials of reovirus- and adenovirus-based platforms have shown safety and immune activation, although efficacy remains limited by stromal and delivery barriers. In CRC, particularly microsatellite-stable disease, OVs such as enadenotucirev and vaccinia-based platforms have demonstrated tumor-selective replication and potential synergy with immune checkpoint inhibitors, especially in liver metastases. HCC represents the most mature model for OV translation within GI cancers, with vaccinia-based platforms such as pexastimogene devacirepvec (Pexa-Vec) demonstrating immune activation despite mixed survival outcomes in late-phase trials. In gastric and esophageal cancers, clinical evidence remains limited but a small number of early-phase studies of telomerase-selective and vaccinia-based OV platforms have demonstrated feasibility, safety, and preliminary biological activity.\nCONCLUSIONS: OVs are evolving from experimental cytolytic agents into immunomodulatory platforms within GI oncology. Their clinical success will depend on overcoming anatomical and immunological barriers unique to the GI tract, optimizing delivery approaches, and integrating biomarker-driven patient selection. HCC provides a critical proof-of-concept within GI malignancies, offering translational insights applicable across other tumor types.",
+ "authors": [
+  "Suvvari TK",
+  "Kocharlakota SV",
+  "Mellamputi J",
+  "Siripurapu YSL",
+  "Menda J",
+  "Sureddi T",
+  "Ghatamaneni V",
+  "Veggalam S"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42837725",
+ "importance": 0.54,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1016/j.seminoncol.2026.152563",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42837725"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Semin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42837725/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

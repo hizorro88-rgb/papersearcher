@@ -43,8 +43,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07825753"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "To evaluate the clinical efficacy (objective response rate, ORR) of mass spectrometry-based absolute quantification-guided selection and matching of ADC/PDC therapy in patients with locally advanced or metastatic pancreatic cancer/breast cancer, and to explore a quantitative threshold-based stratification strategy for identifying a \"hidden benefit population\n\nThis is a single-center, open-label, single-arm, umbrella clinical trial comprising dual cohorts for pancreatic cancer and breast cancer, …",
+ "summary_source": "excerpt",
  "tags": [
   "Pancreatic Cancer",
   "Breast Cancer"

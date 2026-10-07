@@ -1,0 +1,57 @@
+{
+ "abstract": "The basal-like subtype of pancreatic ductal adenocarcinoma (PDAC) is associated with poor outcomes and increased chemoresistance. Expression of high mobility group AT-hook 2 (HMGA2), a chromatin architectural protein, marks basal PDAC cells and associates with specific features of the tumor microenvironment (TME), including more immunosuppressive cancer associated fibroblasts (CAFs) and fewer cytotoxic CD8+ T cells. Expression of HMGA2 by tumor cells leads to upregulation of the immunosuppressive markers interleukin 6 (IL6) and leucine-rich repeat containing protein 15 (LRRC15) in associated fibroblasts. Mechanistically, HMGA2 in the tumor cell binds the interleukin 1 alpha (IL1α) promoter and upregulates transcription, increasing IL1α in the TME, in turn inducing immunosuppressive fibroblast polarization, increasing regulatory T cells, and decreasing CD8+ T cells. Blockade of the IL1α signaling axis disrupts this tumor-driven microenvironment phenotype and combines with inhibitors of oncogenic KRAS to improve tumor control.",
+ "authors": [
+  "Yamamoto N",
+  "Dobersch S",
+  "Robertson TM",
+  "Sim JH",
+  "Wallace-Povirk A",
+  "Chew N",
+  "Orellana AE",
+  "Aggrey-Fynn J"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.02.754697",
+ "importance": 0.59,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.64898/2026.10.02.754697",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1335384"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "HMGA2 Expression in Pancreatic Ductal Adenocarcinoma Controls Tumor Microenvironment and Immunosuppression via IL1α",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

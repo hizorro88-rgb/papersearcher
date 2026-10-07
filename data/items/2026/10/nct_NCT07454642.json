@@ -41,8 +41,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07454642"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This is a first-in-human (FIH), Phase 1 open-label, multicenter dose escalation study investigating AVA6103 monotherapy administered intravenously in patients with locally advanced (unresectable) or metastatic solid tumors that are likely to be FAP positive. The study consists of an initial Phase 1a dose escalation portion and a subsequent Phase 1b dose expansion portion upon completion of the dose escalation portion.",
+ "summary_source": "excerpt",
  "tags": [],
  "title": "AVA6103 in Subjects With Locally Advanced or Metastatic Selected Solid Tumors",
  "title_ko": null,

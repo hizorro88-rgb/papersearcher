@@ -45,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07859085"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "The primary purpose of this study is to evaluate the safety of GDC-7035 as a single agent and in combination with other anti-cancer therapies in participants with KRAS G12D-mutated metastatic colorectal cancer (CRC) or pancreatic ductal adenocarcinoma (PDAC). The study consists of a safety run-in period followed by a randomized/expansion period.",
+ "summary_source": "excerpt",
  "tags": [
   "KRAS G12D-mutation"
  ],

@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-06](_generated/daily/2026/10/06.md) · 전체 426건 · 최근 7일 426건
+최근 수집일: [2026-10-07](_generated/daily/2026/10/07.md) · 전체 434건 · 최근 7일 434건
 
 <a id="nct-nct07490301"></a>
 #### [A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma](https://clinicaltrials.gov/study/NCT07490301)
@@ -35,6 +35,15 @@ To determine whether, in patients with oligometastatic pancreatic ductal adenoca
 <small>[원문](https://clinicaltrials.gov/study/NCT06593431) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
+<a id="pmid-42837079"></a>
+#### [Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas](https://pubmed.ncbi.nlm.nih.gov/42837079/)
+`논문` `가이드라인` `치료 전반` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.93
+
+Undifferentiated carcinoma of the pancreas (UCP) are extremely rare entities and there is currently no standardized treatment guideline for it, with its characteristics and prognosis remaining unclear. UCP with osteoclast-like giant cells (OGCs) and without OGCs represent two different pathological types of pancreatic ductal adenocarcinoma.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+
+---
 <a id="pmid-42827581"></a>
 #### [NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42827581/)
 `논문` `메타분석` `치료 전반` `신약·치료제` `수술` `임상시험` · 2026-09-18 · PubMed · Front Oncol · 중요도 0.88
@@ -65,12 +74,5 @@ BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most leth
 `논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
-
----
-<a id="pmid-42832147"></a>
-#### [Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study](https://pubmed.ncbi.nlm.nih.gov/42832147/)
-`논문` `관찰연구` `수술` · 2026-10-05 · PubMed · Ann Surg Oncol · 중요도 0.77
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832147/) · [DOI](https://doi.org/10.1245/s10434-026-20627-y) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832147)</small>
 
 ---

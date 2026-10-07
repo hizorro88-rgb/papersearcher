@@ -1,0 +1,54 @@
+{
+ "abstract": "Temporal trends and future projections of pancreatic cancer mortality in Italy were examined to identify and characterize areas of interventions at medical and administrative level. Pancreatic cancer mortality data for 2005-2022 and demographic data including projections of Italian population through 2035 were retrieved from the Italian National Institute of Statistics public database. Age- and sex-specific mortality rates were projected until 2035 using Bayesian age-period-cohort analysis. The average annual number of deaths from pancreatic cancer in Italy is projected to increase through 2035, with a cumulative rise of +15.4% for males (M), and +13.0% for females (F), compared to the 2020-2022 period. While males consistently have higher Age Standardized Mortality Rates (ASMR) across all macro-regions, the national ASMR trend is projected to decrease slightly for both sexes (M: - 3.8%, F: - 0.6%). At a macro-regional level, those at lowest development index - southern Italy and islands-are the only macro-areas projected to experience an ASMR increase for both sexes. The largest projected ASMR increases were found for females in the islands (+ 22.7%) and for males in the southern regions (+ 18.8%). In contrast, the North-East regions showed the most favorable trend, with the largest projected ASMR decrease for females (- 8.7%). In parallel with population ageing, the absolute burden of pancreatic cancer mortality in Italy is projected to increase substantially, with significant macro-regional disparities. Addressing this growing challenge will require coordinated strategies and region-specific healthcare planning to optimize resource allocation and ensure equitable access to care.",
+ "authors": [
+  "Grandi S",
+  "Perri G",
+  "Maisonneuve P",
+  "Cillo U",
+  "Marchegiani G"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42837076",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1007/s13304-026-02862-w",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42837076"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42837076/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "The projected rise of pancreatic cancer mortality in Italy: forecasts until 2035",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

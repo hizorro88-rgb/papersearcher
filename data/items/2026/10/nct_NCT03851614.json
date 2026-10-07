@@ -44,8 +44,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03851614"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This is a phase 2, single-centre, randomized, multi-cohort trial of subjects with advanced Mismatch Repair Proficient Colorectal Cancer (MMRp-CRC), Pancreatic Adenocarcinoma (PA), and Leiomyosarcoma (LMS). Subjects will be stratified based on their primary malignancy and enrolled into one of the following cohorts:\n\n* Cohort A: olaparib and durvalumab.",
+ "summary_source": "excerpt",
  "tags": [],
  "title": "Study of DNA Damage, Angiogenesis, and PD-L1 Inhibitors in Advanced Solid Tumors",
  "title_ko": null,

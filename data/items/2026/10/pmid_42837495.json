@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Patients undergoing pancreatectomy for pancreatic cancer may experience gastrointestinal symptoms that impair health-related quality of life (HRQoL) before and after pancreatic surgery. The longitudinal course of these symptoms and their association with HRQoL remains unclear as large prospective studies are lacking.\nMETHODS: Patients who underwent pancreatectomy for pancreatic cancer and filled out questionnaires of the Dutch Pancreatic Cancer Project were included in this cohort study. Gastrointestinal symptoms and HRQoL were assessed before surgery and 0-3, 3-6, 6-9, and 9-12 months after surgery. Multivariable generalized linear mixed models were applied to evaluate longitudinal changes in gastrointestinal symptoms and their association with HRQoL.\nRESULTS: After pancreatectomy for pancreatic cancer, overall, 1009 patients were included and 2995 questionnaires were completed. Before surgery, gastrointestinal symptoms were present in 95% of patients; commonly flatulence, dry mouth, problems with taste, and altered bowel habits. Gastrointestinal symptom scores peaked at 0-3 months after surgery and generally returned to preoperative or lower levels at 9-12 months after surgery. Severe gastrointestinal symptoms (defined as 'quite a bit' or 'very much') decreased from 61% of patients before surgery to 52% at 9-12 months after surgery. Patients with two or more severe symptoms had moderate (10-20 points) to large (>20 points) clinically relevant lower scores for HRQoL.\nCONCLUSION: Gastrointestinal symptoms in patients undergoing pancreatectomy for pancreatic cancer were highly prevalent and peaked within 3 months after surgery. Severe gastrointestinal symptoms affected more than half of all patients after surgery, which led to substantial declines in HRQoL.",
+ "authors": [
+  "Vissers PAJ",
+  "Schoorlemmer A",
+  "Pek CJ",
+  "Appelhof P",
+  "Baade-Corpelijn L",
+  "Betten E",
+  "Serlier-Erades L",
+  "de Groot H"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42837495",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1093/bjs/znag122",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42837495"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Br J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42837495/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

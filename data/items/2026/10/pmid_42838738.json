@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Individuals with diabetes are prioritised for pancreatic cancer screening. Tailored risk prediction models can improve stratification and screening efficiency. However, most existing predictive tools focus on new-onset diabetes, overlooking individuals with long-standing type 2 diabetes.\nOBJECTIVE: To develop and validate a short-term pancreatic cancer risk prediction model applicable to both new-onset and long-standing type 2 diabetes.\nDESIGN: This retrospective longitudinal cohort study used two independent Chinese cohorts: the Tianjin Diabetes and Health Cohort (n=330 767, registration ID: NCT06913153) for derivation and internal validation, and the Xiamen Regional Electronic Health Record Database (n=105 537) for external validation. The Short-Term risk predictiOn of Pancreatic cancer in Diabetes Mellitus (STOP-DM) model was developed using a random forest algorithm and 11 routinely available clinical predictors to estimate pancreatic cancer risk at 6, 12, 24 and 36 months. Model performance was further evaluated in subgroups stratified by diabetes duration.\nRESULTS: The STOP-DM model exhibited the highest predictive performance at a 6-month time window, with the area under the receiver operating characteristic curve of 0.88 (95% CI 0.84 to 0.92) in the derivation cohort, 0.89 (0.83 to 0.94) in internal validation and 0.86 (0.83 to 0.89) in external validation. The top 5% high-risk group identified 59.37% and 48.03% of incident cases in the two validation cohorts and had 11.00-fold and 14.37-fold higher risk than the lowest-risk group. The model performed well in both new-onset and long-standing diabetes, and outperformed existing models for new-onset diabetes in sensitivity and positive predictive value.\nCONCLUSION: The STOP-DM model provides a practical approach to stratify pancreatic cancer risk and deliver targeted screening for individuals with type 2 diabetes, particularly those living with long-standing diabetes. Prospective validation and real-world implementation studies are warranted.",
+ "authors": [
+  "Zhu H",
+  "Fan H",
+  "Yang W",
+  "Gao S",
+  "Chang J",
+  "Zong G",
+  "Zhuang Y",
+  "Abudukeranmu A"
+ ],
+ "categories": [
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42838738",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1136/gutjnl-2026-339722",
+  "nct": [
+   "NCT06913153"
+  ],
+  "pmcid": null,
+  "pmid": "42838738"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gut",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42838738/"
+ },
+ "summary_ko": null,
+ "summary_source": "pending",
+ "tags": [],
+ "title": "Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

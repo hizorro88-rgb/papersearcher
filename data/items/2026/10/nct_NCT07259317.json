@@ -45,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07259317"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This is a 2-part, Phase 2 study to evaluate the safety, tolerability, dosing, pharmacokinetics (PK), and efficacy of relacorilant in combination with nab-paclitaxel and gemcitabine in chemotherapy-naïve patients with metastatic pancreatic adenocarcinoma (PDAC). This study will include 2 parts.",
+ "summary_source": "excerpt",
  "tags": [
   "Pancreatic",
   "Adenocarcinoma",

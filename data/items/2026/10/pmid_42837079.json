@@ -1,0 +1,50 @@
+{
+ "abstract": "Undifferentiated carcinoma of the pancreas (UCP) are extremely rare entities and there is currently no standardized treatment guideline for it, with its characteristics and prognosis remaining unclear. UCP with osteoclast-like giant cells (OGCs) and without OGCs represent two different pathological types of pancreatic ductal adenocarcinoma. This study aimed to improve our understanding of these entities with a focus on the comparison between these two entities. Patients diagnosed with undifferentiated carcinoma with osteoclast-like giant cells of the pancreas (UCOGCP) and UCP without OGCs (non-UCOGCP) were identified through the Surveillance Epidemiology and End Results (SEER) database. Demographic and clinical characteristics were collected and compared. Kaplan-Meier method and Cox proportional hazards models were applied to investigate the overall survival (OS) and prognostic factors. A total of 210 patients with UCP with/without osteoclast-like giant cells were included retrospectively in the study. There was no difference in the patient age, race distribution, primary site and tumor size between the two groups. However, the majority of UCOGCP patients were diagnosed between 2011-2021 and had a localized or regional disease when compared to patients with non-UCOGCP. Besides, more patients with UCOGCP received surgery (P < 0.001), chemotherapy (P = 0.003) and radiotherapy (P = 0.002). Patients with UCOGCP had a longer median OS compared to non-UCOGCP (11 months vs. 2 months, P < 0.001). Further multivariate analysis showed that patients with both tumors had a worse prognosis when they developed distant metastases. And surgical resection was independent prognostic factor of both UCOGCP (HR: 1.73, P = 0.033) and non-UCOGCP (HR: 2.55, P = 0.018). Chemotherapy was a prognostic factor of non-UCOGCP, but not of UCOGCP. Our study revealed that undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas are rare malignant tumors with different clinical characteristics and outcomes. UCOGCP patients had a better prognosis. Surgical resection was beneficial to the survival of both UCOGCP and non-UCOGCP patients.",
+ "authors": [
+  "Wu H"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-10-07",
+ "history": [
+  {
+   "date": "2026-10-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42837079",
+ "importance": 0.93,
+ "key_points_ko": [],
+ "last_updated": "2026-10-07",
+ "links": {
+  "doi": "10.1007/s13304-026-02799-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42837079"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42837079/"
+ },
+ "summary_ko": "Undifferentiated carcinoma of the pancreas (UCP) are extremely rare entities and there is currently no standardized treatment guideline for it, with its characteristics and prognosis remaining unclear. UCP with osteoclast-like giant cells (OGCs) and without OGCs represent two different pathological types of pancreatic ductal adenocarcinoma.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

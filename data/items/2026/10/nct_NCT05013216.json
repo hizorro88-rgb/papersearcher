@@ -41,8 +41,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05013216"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This Phase 1 study will evaluate safety and the immune response to pooled mutant-KRAS peptide vaccine with poly-ICLC adjuvant for patients who have been identified to be at risk of developing pancreatic cancer. This study will evaluate safety and the immune response to pooled mutant-KRAS peptide vaccine (KRAS peptide vaccine) with poly-ICLC adjuvant.",
+ "summary_source": "excerpt",
  "tags": [
   "KRAS Peptide Vaccine",
   "Neoantigen Vaccines",

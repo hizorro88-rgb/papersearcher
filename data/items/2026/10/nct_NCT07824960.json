@@ -45,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07824960"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "The goal of this study is to find out if taking two oral study drugs (avutometinib and defactinib) are safe for patients with pancreatic ductal adenocarcinoma (PDAC). Researchers also want to see if the drugs can slow down tumor growth and shrink tumors for possible surgery.",
+ "summary_source": "excerpt",
  "tags": [
   "avutometinib",
   "defactinib",

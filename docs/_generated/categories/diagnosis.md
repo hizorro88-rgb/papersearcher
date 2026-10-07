@@ -63,17 +63,6 @@ The purpose of this study is to evaluate the safety and efficacy of atebimetinib
 <small>[원문](https://clinicaltrials.gov/study/NCT07562152) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
-<a id="nct-nct06943755"></a>
-#### [Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors](https://clinicaltrials.gov/study/NCT06943755)
-`임상시험` `3상` `치료 전반` `진단·조기발견` `신경내분비종양` · 2025-04-24 · ClinicalTrials.gov · Exelixis · 중요도 0.96
-
-**NCT06943755** · 2상/3상 · 모집 중 · 국내 5곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06943755.md)
-
-The primary purpose of this study is to assess the effectiveness of zanzalintinib compared to everolimus in participants with previously treated, unresectable, locally advanced or metastatic neuroendocrine tumors.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
-
----
 <a id="nct-nct06897644"></a>
 #### [Gemcitabine Plus Nab-paclitaxel as Switch Maintenance Versus Continuation of Modified FOLFIRINOX as 1st Line Chemotherapy in Patients With Advanced Pancreatic Cancer.](https://clinicaltrials.gov/study/NCT06897644)
 `임상시험` `3상` `치료 전반` `진단·조기발견` `신약·치료제` · 2025-03-27 · ClinicalTrials.gov · Gruppo Oncologico del Nord-Ovest · 중요도 0.94
@@ -129,13 +118,26 @@ This study aims to determine the safety, pharmacokinetics (PK) and recommended P
 <small>[원문](https://clinicaltrials.gov/study/NCT05477576) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05477576)</small>
 
 ---
+<a id="nct-nct06943755"></a>
+#### [Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors](https://clinicaltrials.gov/study/NCT06943755)
+`임상시험` `3상` `치료 전반` `진단·조기발견` `신경내분비종양` · 2025-04-24 · ClinicalTrials.gov · Exelixis · 중요도 0.91
+
+**NCT06943755** · 2상/3상 · 모집 중 · 국내 5곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06943755.md)
+
+The primary purpose of this study is to assess the effectiveness of zanzalintinib compared to everolimus in participants with previously treated, unresectable, locally advanced or metastatic neuroendocrine tumors.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
+
+---
 <a id="nct-nct06747845"></a>
 #### [Maintenance Niraparib Plus Ipilimumab in Patients With Metastatic Pancreatic Adenocarcinoma Whose Disease Has Not Progressed on Platinum-Based Chemotherapy](https://clinicaltrials.gov/study/NCT06747845)
 `임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2024-12-24 · ClinicalTrials.gov · Abramson Cancer Center at Penn Medicine · 중요도 0.90
 
 **NCT06747845** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06747845.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
+The main goal of this study is to look at the effectiveness and anti-tumor activity (preventing growth of the tumor) of the drugs niraparib and ipilimumab, on the patients and their pancreatic cancer. This study will involve two different treatment arms.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06747845) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06747845)</small>
 
 ---
 <a id="nct-nct07678593"></a>
@@ -144,7 +146,11 @@ This study aims to determine the safety, pharmacokinetics (PK) and recommended P
 
 **NCT07678593** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07678593.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
+A Study of GFH276 Combined With Cetuximab or Chemotherapy in Participants With Solid Tumors and Pancreatic Ductal Adenocarcinoma (PDAC) Harboring RAS Mutation
+
+This is an open-label, multicenter Phase Ib/II clinical trial to evaluate the safety, tolerability, and preliminary anti-tumor efficacy of oral GFH276 in combination with cetuximab or standard chemotherapy in adult patients with locally advanced or metastatic RAS-mutated solid tumors and pancreatic ductal adenocarcinoma (PDAC). Participan…
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07678593) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07678593)</small>
 
 ---
 <a id="nct-nct07705919"></a>
@@ -153,7 +159,9 @@ This study aims to determine the safety, pharmacokinetics (PK) and recommended P
 
 **NCT07705919** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07705919.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
+This clinical trial tests how well dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) with standard clinical evaluation works to assess treatment response for patients with pancreatic cancer that may be able to be removed by surgery (borderline resectable). Borderline resectable pancreatic cancer (BRPC) is a certain type of pancreatic cancer that involves the arteries or veins near the pancreas.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
 
 ---
 <a id="nct-nct01954992"></a>
@@ -272,7 +280,9 @@ A randomized, multicenter, Phase III trial evaluating the efficacy and safety of
 
 **NCT05482516** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05482516.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
+This study is a non-randomized, open-label, multi-cohort, multi-site, pilot feasibility therapeutic trial. The study will enroll 20 patients across 4 cohorts (CRC, gastric, PDAC, and HCC/intra-hepatic-/extra-hepatic-, gall bladder adenocarcinomas) diagnosed with histologically confirmed GI cancers.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05482516) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05482516)</small>
 
 ---
 <a id="nct-nct07845565"></a>
@@ -336,7 +346,9 @@ Researchers want to learn if sacituzumab tirumotecan (MK-2870) alone or with oth
 
 **NCT06821997** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06821997.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06821997) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06821997)</small>
+This phase II trial tests how well liposomal irinotecan, oxaliplatin, 5-fluorouracil and leucovorin (NALIRIFOX) before surgery works in treating patients with pancreatic ductal adenocarcinoma that is close to major blood vessels, but is still potentially removable by surgery (borderline resectable). Irinotecan is in a class of antineoplastic medications called topoisomerase I inhibitors.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06821997) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06821997)</small>
 
 ---
 <a id="nct-nct06861452"></a>
@@ -345,7 +357,11 @@ Researchers want to learn if sacituzumab tirumotecan (MK-2870) alone or with oth
 
 **NCT06861452** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06861452.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06861452) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06861452)</small>
+RR001, a cell-based gene therapy administered following chemotherapy cycles for the treatment of patients with locally advanced pancreatic cancer. Phase I /IIa clinical trial (open label and non-randomized) to test the effects (safety \& efficacy) of increasing doses of RR001
+
+This study is intended for people diagnosed with locally advanced pancreatic ductal adenocarcinoma.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06861452) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06861452)</small>
 
 ---
 <a id="nct-nct07114861"></a>
@@ -376,7 +392,9 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT07259317** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07259317.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
+This is a 2-part, Phase 2 study to evaluate the safety, tolerability, dosing, pharmacokinetics (PK), and efficacy of relacorilant in combination with nab-paclitaxel and gemcitabine in chemotherapy-naïve patients with metastatic pancreatic adenocarcinoma (PDAC). This study will include 2 parts.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07259317) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07259317)</small>
 
 ---
 <a id="nct-nct07341737"></a>
@@ -385,7 +403,9 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT07341737** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07341737.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
+Second Life Therapeutics is developing SL-28, an allogeneic, non-genetically modified cell-based therapy for the treatment of advanced solid tumours. The company has recently demonstrated a novel, non-genetic approach to modulate immune cell activity through targeted manipulation of the Universal Receptive System.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07341737) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07341737)</small>
 
 ---
 <a id="pmid-42832136"></a>
@@ -403,7 +423,9 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT06538857** · 초기 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06538857.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06538857) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06538857)</small>
+The CEB-01 implant is a membrane containing SN-38, the active metabolite of irinotecan, an already authorized chemotherapeutic agent. After surgical removal of the pancreatic cancer tumor, CEB 01 will be placed in the surgical bed for a local and sustained release of the chemotherapy.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06538857) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06538857)</small>
 
 ---
 <a id="nct-nct07089940"></a>
@@ -412,7 +434,9 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT07089940** · 초기 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07089940.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
+This early phase I trial studies the biological activity of OMO-103 in patients with pancreatic ductal adenocarcinoma that has spread to nearby tissue or lymph nodes (locally advanced) or that has spread from where it first started (primary site) to other places in the body (metastatic). OMO-103 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07089940) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07089940)</small>
 
 ---
 <a id="nct-nct04381130"></a>
@@ -421,7 +445,9 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT04381130** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04381130.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
+This study is a multi center, open-label, dose escalation, Phase I/IIa study of EF-009 in up to 30 patients with borderline resectable and unresectable pancreatic cancer. In Phase I, the study will follow a "3+3" design to determine the maximum tolerated dose (MTD) of EF-009 implanted surgically in patients with pancreatic cancer.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04381130) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04381130)</small>
 
 ---
 <a id="nct-nct07825753"></a>
@@ -430,7 +456,11 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT07825753** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07825753.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
+To evaluate the clinical efficacy (objective response rate, ORR) of mass spectrometry-based absolute quantification-guided selection and matching of ADC/PDC therapy in patients with locally advanced or metastatic pancreatic cancer/breast cancer, and to explore a quantitative threshold-based stratification strategy for identifying a "hidden benefit population
+
+This is a single-center, open-label, single-arm, umbrella clinical trial comprising dual cohorts for pancreatic cancer and breast cancer, …
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07825753) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07825753)</small>
 
 ---
 <a id="nct-nct03851614"></a>
@@ -439,7 +469,11 @@ This study is designed to evaluate the safety and efficacy of KN510713 in combin
 
 **NCT03851614** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03851614.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
+This is a phase 2, single-centre, randomized, multi-cohort trial of subjects with advanced Mismatch Repair Proficient Colorectal Cancer (MMRp-CRC), Pancreatic Adenocarcinoma (PA), and Leiomyosarcoma (LMS). Subjects will be stratified based on their primary malignancy and enrolled into one of the following cohorts:
+
+* Cohort A: olaparib and durvalumab.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03851614) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03851614)</small>
 
 ---
 <a id="nct-nct06782412"></a>
@@ -459,7 +493,9 @@ The aim of the project is to demonstrate superior detection ratio of \[18F\]AlF-
 
 **NCT07629960** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07629960.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07629960) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07629960)</small>
+A first in human study to evaluate the safety, tolerability, pharmacokinetics, and antitumor activity of BLU-924 / SAR449336, a pan-KRAS inhibitor, in participants with advanced Pancreatic Cancer, Non-Small Cell Lung Cancer, or Colorectal Cancer harboring KRAS mutations. This is an open-label, multi-center, Phase 1/2 study designed to evaluate the safety, tolerability, pharmacokinetics (PK), and efficacy of BLU-924, a pan-KRAS inhibitor, in participants with metastatic KRAS mutant pancreatic duc…
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07629960) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07629960)</small>
 
 ---
 <a id="nct-nct03384238"></a>

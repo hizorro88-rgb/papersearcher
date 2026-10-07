@@ -21,10 +21,10 @@ comments: true
 | [Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment…](NCT07491445.md) | 3상 | 모집 중 | daraxonrasib, gemcitabine, nab-paclitaxel | 6곳 | 2026-10-02 |
 | [Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic…](NCT07252232.md) | 3상 | 모집 중 | daraxonrasib | 4곳 | 2026-09-23 |
 | [A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Giv…](NCT07409272.md) | 3상 | 모집 중 | Setidegrasib, Oxaliplatin, Leucovorin, Irinotecan, fluoroura | 8곳 | 2026-09-22 |
-| [Zanzalintinib Versus Everolimus in Participants With Locally Advanced…](NCT06943755.md) | 2상/3상 | 모집 중 | Zanzalintinib, Everolimus | 5곳 | 2026-09-29 |
 | [Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pa…](NCT05254171.md) | 2상/3상 | 모집 중 | SBP-101, Nab-paclitaxel, Gemcitabine, Placebo | 6곳 | 2024-11-06 |
 | [NeoFOL-R Trial (Perioperative Versus Adjuvnat FOLFIRINOX in Resectabl…](NCT05529940.md) | 3상 | 모집 중 | Folfirinox | 2곳 | 2024-11-27 |
 | [A Study to Evaluate Chemotherapy With or Without INCB161734 in Previo…](NCT07522073.md) | 3상 | 모집 중 | INCB161734, Placebo, Investigator's choice of chemotherapy | 8곳 | 2026-09-22 |
+| [Zanzalintinib Versus Everolimus in Participants With Locally Advanced…](NCT06943755.md) | 2상/3상 | 모집 중 | Zanzalintinib, Everolimus | 5곳 | 2026-09-29 |
 | [Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Par…](NCT04924075.md) | 2상 | 모집 중 | Belzutifan | 2곳 | 2026-10-06 |
 | [AZD0901 in Participants With Advanced Solid Tumours Expressing Claudi…](NCT06219941.md) | 2상 | 모집 중 | AZD0901, 5-Fluorouracil, Leucovorin, l-leucovorin, Irinoteca | 5곳 | 2026-09-30 |
 | [Evaluation of Safety and Efficacy in BEY1107 in Monotherapy Gemcitabi…](NCT03579836.md) | 1상/2상 | 모집 중 | BEY1107, Gemcitabine | 1곳 | 2025-03-10 |
@@ -58,7 +58,6 @@ comments: true
 | [Study of Zoldonrasib + Chemo of Investigator's Choice vs Placebo + Ch…](NCT07621718.md) | 3상 | 모집 중 | Zoldonrasib, Placebo, Oxaliplatin, Leucovorin (Calcium Folin | - | 2026-09-28 |
 | [Study of Zoldonrasib (RMC-9805) Plus Daraxonrasib (RMC-6236) Versus G…](NCT07805954.md) | 3상 | 모집 중 | daraxonrasib, gemcitabine, nab-paclitaxel, zoldonrasib | - | 2026-09-08 |
 | [Study of XNW28012 in Subjects With Metastatic Pancreatic Cancer Who R…](NCT07823049.md) | 3상 | 모집 중 | XNW28012 for injection, XNW28012 Mimetic for Injection | - | 2026-09-16 |
-| [Proton Radiation for Unresectable, Borderline Resectable, or Medicall…](NCT02598349.md) | 2상 | 모집 중 | Proton Radiation, Capecitabine, Surgical resection | - | 2026-09-29 |
 | [APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus P…](NCT04858334.md) | 2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Magnetic Resona | - | 2026-10-06 |
 | [Gemcitabine, Cisplatin and Nab-Paclitaxel as Neoadjuvant Treatment fo…](NCT06423326.md) | 2상 | 모집 중 | Biopsy, Biospecimen Collection, Cisplatin, Computed Tomograp | - | 2026-09-30 |
 | [Maintenance Niraparib Plus Ipilimumab in Patients With Metastatic Pan…](NCT06747845.md) | 2상 | 모집 중 | Niraparib, FOLFIRI, Ipilimumab | - | 2026-10-02 |
@@ -95,6 +94,7 @@ comments: true
 | [A Study of FG-M108+Chemotherapy vs Placebo+Chemotherapy in Claudin18.…](NCT07383922.md) | 3상 | 모집 예정 | FG-M108, nab paclitaxel, Gemcitabine (GEM), Placebo for FG-M | - | 2026-02-04 |
 | [Endoscopic Ultrasound-Guided Loco-regional Chemotherapy Injection as…](NCT07429643.md) | 2상/3상 | 모집 예정 | endoscopic ultrasonograhy guided chemptherapy injection | - | 2026-02-24 |
 | [A Study to Compare the Efficacy and Safety of YL201 With Standard Che…](NCT07803783.md) | 3상 | 모집 예정 | Tambotatug pelitecan, Liposomal irinotecan, 5 Fluorouracil, | - | 2026-09-04 |
+| [Proton Radiation for Unresectable, Borderline Resectable, or Medicall…](NCT02598349.md) | 2상 | 모집 중 | Proton Radiation, Capecitabine, Surgical resection | - | 2026-09-29 |
 | [Hyperthermic Intraperitoneal Chemotherapy for the Treatment of Pancre…](NCT04858009.md) | 2상 | 모집 중 | Cisplatin, Hyperthermic Intraperitoneal Chemotherapy, Nab-pa | - | 2026-09-14 |
 | [Spevatamig (PT886) as Monotherapy or in Combination With Chemo and/or…](NCT05482893.md) | 1상/2상 | 모집 중 | Spevatamig (PT886), Paclitaxel, Gemcitabine, Abraxane, KEYTR | - | 2026-09-28 |
 | [NALIRIFOX Before Surgery for the Treatment of Borderline Resectable P…](NCT06821997.md) | 2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Fluorouracil, I | - | 2026-09-21 |

@@ -41,8 +41,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07090499"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "The purpose of the study is to explore the safety and effects of the study drug (PF-08046876) in people diagnosed with advanced cancer of the bladder, lung, head and neck, esophagus, or pancreas. PF-08046876 is an investigational anticancer therapy called an 'antibody drug conjugate' or 'ADC'.",
+ "summary_source": "excerpt",
  "tags": [
   "B6C",
   "integrin beta 6",

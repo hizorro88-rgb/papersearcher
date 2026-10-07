@@ -45,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07705919"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This clinical trial tests how well dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) with standard clinical evaluation works to assess treatment response for patients with pancreatic cancer that may be able to be removed by surgery (borderline resectable). Borderline resectable pancreatic cancer (BRPC) is a certain type of pancreatic cancer that involves the arteries or veins near the pancreas.",
+ "summary_source": "excerpt",
  "tags": [],
  "title": "DCE-MRI for Neoadjuvant Treatment Assessment in Patients With Borderline Resectable Pancreatic Cancer",
  "title_ko": null,

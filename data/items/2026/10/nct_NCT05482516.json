@@ -43,8 +43,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05482516"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "This study is a non-randomized, open-label, multi-cohort, multi-site, pilot feasibility therapeutic trial. The study will enroll 20 patients across 4 cohorts (CRC, gastric, PDAC, and HCC/intra-hepatic-/extra-hepatic-, gall bladder adenocarcinomas) diagnosed with histologically confirmed GI cancers.",
+ "summary_source": "excerpt",
  "tags": [],
  "title": "Evaluating Novel Therapies in ctDNA Positive GI Cancers",
  "title_ko": null,
