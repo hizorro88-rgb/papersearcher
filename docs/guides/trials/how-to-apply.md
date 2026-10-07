@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 임상시험 참여 방법
 description: 췌장암 임상시험을 찾고, 조건을 확인하고, 신청하는 절차
 comments: true

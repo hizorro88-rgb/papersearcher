@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 임상시험 용어
 comments: true
 ---

@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 탈수·설사
 comments: true
 ---

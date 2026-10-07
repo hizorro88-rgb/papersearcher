@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 혈전·호흡곤란
 comments: true
 ---

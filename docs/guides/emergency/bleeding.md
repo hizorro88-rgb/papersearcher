@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 출혈
 comments: true
 ---

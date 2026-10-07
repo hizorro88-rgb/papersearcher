@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 응급 가이드
 description: 췌장암 환자에게 생길 수 있는 응급 상황별 대처와 병원에 가야 하는 기준
 comments: true

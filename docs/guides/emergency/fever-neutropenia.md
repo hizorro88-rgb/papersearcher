@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 항암 중 발열
 comments: true
 ---

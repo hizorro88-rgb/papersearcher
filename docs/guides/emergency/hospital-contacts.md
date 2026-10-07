@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 병원 연락처
 comments: true
 ---

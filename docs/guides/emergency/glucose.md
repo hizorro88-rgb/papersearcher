@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 혈당 이상
 comments: true
 ---

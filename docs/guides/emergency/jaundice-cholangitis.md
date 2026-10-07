@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 황달·담관염·스텐트
 comments: true
 ---

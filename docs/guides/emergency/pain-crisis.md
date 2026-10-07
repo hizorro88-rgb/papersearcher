@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 통증 악화
 comments: true
 ---

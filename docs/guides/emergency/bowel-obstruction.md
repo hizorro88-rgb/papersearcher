@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 3
 title: 장폐색·구토
 comments: true
 ---
