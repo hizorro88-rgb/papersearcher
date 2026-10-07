@@ -2,6 +2,8 @@
 title: "지지요법·삶의질"
 description: "통증, 영양, 췌장효소, 당뇨, 황달·스텐트, 혈전, 정신건강"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 지지요법·삶의질

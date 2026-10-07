@@ -2,6 +2,8 @@
 title: "수술"
 description: "췌장 절제술, 수술 전후 관리, 합병증, 수술 적응"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 수술

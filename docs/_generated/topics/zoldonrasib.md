@@ -2,6 +2,8 @@
 title: "zoldonrasib"
 description: "약물 · KRAS G12D(ON) inhibitor"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # zoldonrasib

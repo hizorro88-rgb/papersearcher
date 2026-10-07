@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-07](_generated/daily/2026/10/07.md) · 전체 434건 · 최근 7일 434건
+최근 수집일: [2026-10-07](_generated/daily/2026/10/07.md) · 전체 434건 · 최근 7일 434건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
 #### [전이성 췌장관암 환자 대상 1차 치료로서 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교하는 임상시험](https://clinicaltrials.gov/study/NCT07490301)
@@ -33,23 +33,6 @@
 - 국내 6개 기관이 참여하고 있으며, RAS 변이 여부와 무관하게 등록이 가능합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
-
----
-<a id="nct-nct06593431"></a>
-#### [소수 전이성 췌장암 환자를 위한 전이 지향적 국소 치료의 효과를 평가하는 3상 무작위 배정 임상시험(EXPAND)](https://clinicaltrials.gov/study/NCT06593431)
-<small>Extending Outcomes for Pancreas Cancer Patients With Nominal Oligometastatic Disease (EXPAND): A Randomized Phase III Trial</small>
-
-`임상시험` `3상` `치료 전반` `진단·조기발견` · 2024-09-19 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.99
-
-**NCT06593431** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT06593431.md)
-
-EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이성 췌장관선암(PDAC) 환자를 대상으로 진행되는 3상 무작위 배정 임상시험입니다. 전신 항암 치료만 시행하는 표준 치료와 비교하여 원발 병소 및 모든 전이 병소에 방사선 치료나 수술 등의 전이 지향 치료(MDT)를 추가했을 때의 효과를 평가합니다. 1차 목표는 무진행 생존기간(PFS) 개선 여부를 확인하는 것이며 주요 2차 목표는 전체 생존기간(OS) 연장 여부를 확인하는 것입니다. 목표 등록 환자 수는 80명이며 안전성, 삶의 질, 다음 전신 치료까지의 시간 등도 함께 평가합니다.
-
-- 원격 전이 병변이 1~5개인 소수 전이성 췌장관선암 환자 총 80명을 대상으로 진행하는 3상 임상시험입니다.
-- 모든 종양 병소에 대한 전이 지향 치료(MDT) 병용군과 전신 항암 화학요법 단독군을 비교합니다.
-- 1차 평가변수는 무진행 생존기간(PFS)이며 주요 2차 평가변수는 전체 생존기간(OS)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
 <a id="pmid-42837079"></a>
@@ -96,37 +79,5 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 - 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
-
----
-<a id="pmid-42827323"></a>
-#### [췌장 외분비 기능부전에서 원인별 췌장 효소 용량 요구량과 치료 결과: 다기관 EURO-PEI 등록 연구](https://pubmed.ncbi.nlm.nih.gov/42827323/)
-<small>Aetiology-Specific Pancreatic Enzyme Dose Requirements and Treatment Outcomes in Pancreatic Exocrine Insufficiency: The Multicentre EURO-PEI Registry</small>
-
-`논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-10-01 · PubMed · United European Gastroenterol J · 중요도 0.77
-
-본 연구는 유럽 5개국 8개 췌장 센터에서 진행된 다기관 관찰 등록 연구입니다. 임상적으로 췌장 외분비 기능부전(PEI) 진단을 받고 췌장 효소 대체요법(PERT)을 시작하거나 최적화한 성인 환자 1015명을 대상으로 했습니다. 원인별 최적화된 PERT 용량과 치료 목표 달성 여부를 분석했습니다. 그 결과 전체 환자의 93.7%에서 치료 목표를 달성했습니다.
-
-- 총 1015명의 환자가 연구에 참여했으며, 췌장암 환자는 174명(17.1%)이었습니다.
-- 일일 최적화 용량 중앙값은 췌장절제술 후 240,000 PhU, 췌장암 210,000 PhU, 만성 췌장염 175,000 PhU, 급성 췌장염 100,000 PhU이었습니다.
-- 치료 목표를 달성한 환자 951명 중 446명(46.9%)은 권장 시작 용량을 초과하는 효소 용량이 필요했습니다.
-- 관련 이상반응은 38명(3.7%)의 환자에게서 발생했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827323/) · [DOI](https://doi.org/10.1002/ueg2.70282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13633429/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827323)</small>
-
----
-<a id="pmid-42830225"></a>
-#### [원위부 췌장절제술을 받은 췌장관선암 환자에서 PANAMA 점수 검증](https://pubmed.ncbi.nlm.nih.gov/42830225/)
-<small>Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy</small>
-
-`논문` `관찰연구` `치료 전반` `수술` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
-
-이 연구는 선행화학방사선요법(NAT) 후 원위부 췌장절제술(distal pancreatectomy)을 받은 췌장관선암(PDAC) 환자 52명을 대상으로 PANAMA 점수의 예후 예측 성능을 검증했습니다. 환자들은 원래의 PANAMA 점수에 따라 저위험, 중위험, 고위험군으로 분류되었습니다. 연구 결과, 고위험군은 저위험군 및 중위험군에 비해 전체 생존기간(OS)과 무병 생존기간(DFS)이 유의하게 낮았습니다. 그러나 AJCC 병기가 전체 생존기간 예측에서 PANAMA 점수보다 더 우수한 성능을 보였습니다.
-
-- 총 52명의 환자가 연구에 포함되었습니다.
-- 전체 생존기간(OS) 중앙값은 40.8개월이었고, 무병 생존기간(DFS) 중앙값은 11.6개월이었습니다.
-- 고위험군의 전체 생존기간은 21.8개월로, 중위험군(31.1개월)과 저위험군(55.0개월)에 비해 유의하게 짧았습니다(p=0.009).
-- AJCC 병기는 전체 생존기간 예측에서 C-index 0.70으로 PANAMA 점수의 0.64보다 더 우수한 성능을 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
 
 ---

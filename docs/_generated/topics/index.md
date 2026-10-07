@@ -2,6 +2,8 @@
 title: "주제별 보기"
 description: "약물·요법·수술법별 모아보기"
 comments: false
+search:
+  boost: 0.4
 ---
 
 # 주제별 보기

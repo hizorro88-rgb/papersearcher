@@ -2,6 +2,8 @@
 title: "제약사·규제"
 description: "승인·지정, 라이선스, 보도자료, 급여"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 제약사·규제

@@ -2,6 +2,8 @@
 title: "치료 전반"
 description: "표준 항암요법, 방사선, 가이드라인, 치료 전략"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 치료 전반

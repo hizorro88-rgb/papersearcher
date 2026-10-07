@@ -2,6 +2,8 @@
 title: "sotorasib"
 description: "약물 · KRAS G12C inhibitor"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # sotorasib

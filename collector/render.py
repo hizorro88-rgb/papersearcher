@@ -127,6 +127,7 @@ def header(title: str, desc: str = "", *, comments: bool = True) -> str:
     if desc:
         fm.append(f"description: {json.dumps(desc, ensure_ascii=False)}")
     fm.append(f"comments: {'true' if comments else 'false'}")
+    fm.append("search:\n  boost: 0.4")   # 자동 생성 페이지는 가이드보다 검색 순위를 낮춘다
     fm.append("---")
     return "\n".join(fm) + "\n\n"
 
@@ -320,13 +321,16 @@ def render_latest(items: list[Item], days: list[str], out: Path, today: date) ->
     thr = float(config.sources().get("importance_threshold", 0.6))
     recent_cut = (today - timedelta(days=7)).isoformat()
     recent = [i for i in items if i.last_updated >= recent_cut and i.review.status != "hidden"]
-    # 논문·소식 5건 + 임상시험 3건으로 섞어 보여 준다 (첫 수집일에는 임상시험이 압도적으로 많기 때문)
-    papers = sorted([i for i in recent if not i.trial], key=lambda i: -i.importance)[:5]
-    trials = sorted([i for i in recent if i.trial], key=lambda i: -i.importance)[:3]
+    # 논문·소식 3건 + 임상시험 2건 (홈은 짧게, 전체는 날짜별 페이지로)
+    papers = sorted([i for i in recent if not i.trial], key=lambda i: -i.importance)[:3]
+    trials = sorted([i for i in recent if i.trial], key=lambda i: -i.importance)[:2]
     top = sorted(papers + trials, key=lambda i: -i.importance)
+    recruiting = {"RECRUITING", "NOT_YET_RECRUITING", "ENROLLING_BY_INVITATION"}
+    kr_n = sum(1 for i in items if i.trial and i.trial.locations_kr and i.trial.status in recruiting)
     s = ""
     if days:
-        s += f"최근 수집일: [{days[0]}](_generated/daily/{days[0][:4]}/{days[0][5:7]}/{days[0][8:10]}.md) · 전체 {len(items)}건 · 최근 7일 {len(recent)}건\n\n"
+        s += (f"최근 수집일: [{days[0]}](_generated/daily/{days[0][:4]}/{days[0][5:7]}/{days[0][8:10]}.md) · 전체 {len(items)}건 · "
+              f"최근 7일 {len(recent)}건 · **국내 모집 중 임상시험 [{kr_n}건](_generated/trials/index.md)**\n\n")
     if top:
         s += "".join(render_item(i, 0) for i in top)
     else:

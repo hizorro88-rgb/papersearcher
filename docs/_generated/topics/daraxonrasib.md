@@ -2,6 +2,8 @@
 title: "daraxonrasib"
 description: "약물 · RAS(ON) multi-selective inhibitor"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # daraxonrasib

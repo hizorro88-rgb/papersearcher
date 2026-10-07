@@ -2,6 +2,8 @@
 title: "임상시험"
 description: "췌장암 임상시험 목록: 참여 조건, 국내 실시기관, 신청 방법"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 임상시험

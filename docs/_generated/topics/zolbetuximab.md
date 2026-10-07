@@ -2,6 +2,8 @@
 title: "zolbetuximab"
 description: "약물 · Claudin 18.2 antibody"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # zolbetuximab
