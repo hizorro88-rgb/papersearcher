@@ -333,10 +333,10 @@ def render_status(state: dict, items: list[Item], out: Path) -> None:
     s += "## 소스 상태\n\n| 소스 | 마지막 실행 | 결과 | 건수 |\n|---|---|---|---|\n"
     for k, v in (state.get("sources") or {}).items():
         s += f"| {k} | {v.get('at', '-')} | {'정상' if v.get('ok') else '실패: ' + md_escape(str(v.get('error')))} | {v.get('count', 0)} |\n"
-    s += "\n## 최근 실행\n\n| 날짜 | 신규 | 갱신 | 누적 | LLM 성공/실패 | 토큰(입력/출력) |\n|---|---|---|---|---|---|\n"
+    s += "\n## 최근 실행\n\n| 날짜 | 신규 | 갱신 | 누적 | LLM | 성공/실패 | 토큰(입력/출력) |\n|---|---|---|---|---|---|---|\n"
     for r in reversed((state.get("runs") or [])[-30:]):
         llm = r.get("llm") or {}
-        s += (f"| {r['date']} | {r['new']} | {r['updated']} | {r['total']} | "
+        s += (f"| {r['date']} | {r['new']} | {r['updated']} | {r['total']} | {llm.get('model') or '-'} | "
               f"{llm.get('succeeded', '-')}/{llm.get('failed', '-')} | {llm.get('input_tokens', '-')}/{llm.get('output_tokens', '-')} |\n")
     src = defaultdict(int)
     for i in items:

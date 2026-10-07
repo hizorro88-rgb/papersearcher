@@ -68,7 +68,7 @@
 | 사이트 생성 | MkDocs + Material 테마 | Docusaurus, Hugo, Jekyll | 위키·문서형 사이트에 최적. 한국어 검색, 태그, 블로그(날짜별) 플러그인, giscus 공식 연동, 모바일 UI 우수 |
 | 호스팅 | GitHub Pages | Cloudflare Pages, Netlify | 무료, 같은 리포에서 바로 배포 |
 | 댓글 | giscus | utterances, Disqus | GitHub Discussions에 저장되므로 무료·데이터 소유. 댓글 작성에 GitHub 계정 필요 (제약) |
-| 요약·번역 (필수) | Claude API (`claude-opus-5-5`, 동기 호출 + 구조화 출력 + 프롬프트 캐싱) | GitHub Models(무료 한도) | 한국어 제공이 목표이므로 필수. 하루 수십 건이면 월 $5~15. 키 미설정·실패 시 초록 발췌로 대체되고 다음 실행에서 재시도 |
+| 요약·번역 (필수) | 백엔드 교체형: **Gemini API 무료 등급**(`gemini-2.5-flash`, 기본) 또는 Claude API(`claude-opus-5-5`, 유료). 둘 다 JSON 스키마 강제 | GitHub Models(2026-07 종료), Groq/Mistral 무료 등급(한국어 품질 낮음) | 한국어 제공이 목표이므로 필수. Gemini면 0원, Claude면 월 $5~15. 키 미설정·실패 시 초록 발췌로 대체되고 다음 실행에서 재시도 |
 | 운영비 | GitHub Sponsors + FUNDING.yml, 후원 페이지 | Buy Me a Coffee 등 | LLM 비용을 후원으로 충당. 사용량은 수집 현황 페이지에 공개 |
 
 ---
@@ -416,7 +416,7 @@ jobs:
 
 | 항목 | 설계 |
 |---|---|
-| SDK / 모델 | Anthropic Python SDK, `claude-opus-5-5` (기본). 비용을 더 줄이려면 사용자 판단으로 하위 모델 선택 가능 |
+| 백엔드 | `llm.provider: auto` → `GEMINI_API_KEY`가 있으면 Gemini(REST, 무료 등급, 순차 호출 4초 간격), 아니면 Anthropic SDK `claude-opus-5-5`. 두 백엔드 모두 같은 프롬프트·스키마를 사용 |
 | 호출 방식 | 항목별 동기 호출, 스레드 4개 병렬. 1회 실행 상한 `llm.max_items_per_run`(기본 120)으로 비용 상한. 넘치는 항목은 다음 실행에서 이어서 처리. (Batches API는 완료까지 최대 24시간이 걸릴 수 있어 Actions 1회 실행 안에서 끝나지 않을 수 있으므로 채택하지 않음) |
 | 출력 형식 | 구조화 출력(`output_config.format`)으로 `{title_ko, summary_ko, categories[], evidence, key_numbers[]}` JSON 스키마 강제. 허용 목록 밖 카테고리는 거부 후 규칙 결과 유지 |
 | 프롬프트 원칙 | 입력은 제목+초록(+시험 요약)만. "초록에 없는 수치·결론을 쓰지 말 것", "불확실하면 '초록에 명시되지 않음'이라고 쓸 것", 의료 조언 금지 |

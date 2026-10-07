@@ -1,15 +1,26 @@
-"""Claude로 한국어 제목·요약·핵심 포인트·임상시험 참여 조건을 만든다.
+"""LLM으로 한국어 제목·요약·핵심 포인트·임상시험 참여 조건을 만든다.
+
+백엔드 두 가지:
+- gemini    : Google Gemini API (무료 등급 가능, GEMINI_API_KEY)
+- anthropic : Claude API (유료, ANTHROPIC_API_KEY)
+`llm.provider` 가 auto면 GEMINI_API_KEY → ANTHROPIC_API_KEY 순으로 있는 것을 쓴다.
 
 원칙: 입력(제목·초록·선정기준)에 없는 사실을 만들지 않는다. 출력은 JSON 스키마로 강제한다.
-API 키가 없거나 호출이 실패하면 초록 발췌로 대체하고 summary_source="excerpt"로 표시한다.
+키가 없거나 호출이 실패하면 초록 발췌로 대체하고 summary_source="excerpt"로 표시한다 (다음 실행에서 재시도).
 """
 from __future__ import annotations
 
+import copy
+import json
 import logging
 import os
 import re
+import threading
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
+
+import httpx
 
 from .models import CATEGORY_KEYS, EVIDENCE_KEYS, Item
 
@@ -54,7 +65,16 @@ OUTPUT_SCHEMA = {
 
 
 @dataclass
+class Usage:
+    input_tokens: int = 0
+    output_tokens: int = 0
+    cache_read_tokens: int = 0
+
+
+@dataclass
 class EnrichStats:
+    provider: str = "none"
+    model: str = ""
     attempted: int = 0
     succeeded: int = 0
     failed: int = 0
@@ -96,65 +116,153 @@ def apply_fallback(item: Item) -> Item:
     return item
 
 
-class Enricher:
-    def __init__(self, cfg: dict):
-        self.cfg = cfg
-        self.model = cfg.get("model", "claude-opus-5-5")
-        self.client = None
-        if cfg.get("enabled", True) and os.environ.get("ANTHROPIC_API_KEY"):
-            import anthropic
-            self.client = anthropic.Anthropic(max_retries=3, timeout=180)
+# ------------------------------------------------------------------ 백엔드
 
-    @property
-    def available(self) -> bool:
-        return self.client is not None
+class Backend:
+    name = "none"
+    model = ""
 
-    def _call(self, item: Item, stats: EnrichStats) -> dict:
+    def complete(self, system: str, user: str, schema: dict) -> tuple[dict, Usage]:
+        raise NotImplementedError
+
+
+class AnthropicBackend(Backend):
+    name = "anthropic"
+
+    def __init__(self, model: str):
         import anthropic
+        self.model = model
+        self.client = anthropic.Anthropic(max_retries=3, timeout=180)
 
+    def complete(self, system, user, schema):
         response = self.client.beta.messages.create(
             model=self.model,
             max_tokens=4000,
             betas=["server-side-fallback-2026-07-01"],
             fallbacks="default",
-            system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
-            messages=[{"role": "user", "content": build_user_prompt(item)}],
-            output_config={"effort": "low", "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA}},
+            system=[{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}],
+            messages=[{"role": "user", "content": user}],
+            output_config={"effort": "low", "format": {"type": "json_schema", "schema": schema}},
         )
         u = response.usage
-        stats.input_tokens += u.input_tokens or 0
-        stats.output_tokens += u.output_tokens or 0
-        stats.cache_read_tokens += getattr(u, "cache_read_input_tokens", 0) or 0
+        usage = Usage(u.input_tokens or 0, u.output_tokens or 0, getattr(u, "cache_read_input_tokens", 0) or 0)
         if response.stop_reason == "refusal":
             raise RuntimeError("모델이 요청을 거절함 (refusal)")
         if response.stop_reason == "max_tokens":
             raise RuntimeError("출력이 잘림 (max_tokens)")
         text = next(b.text for b in response.content if b.type == "text")
-        import json
-        return json.loads(text)
+        return json.loads(text), usage
+
+
+def gemini_schema(schema: dict) -> dict:
+    """Gemini responseSchema(OpenAPI 서브셋)용으로 지원하지 않는 키를 제거한다."""
+    s = copy.deepcopy(schema)
+
+    def strip(node):
+        if isinstance(node, dict):
+            for k in ("additionalProperties", "maxItems", "minItems", "minimum", "maximum"):
+                node.pop(k, None)
+            for v in node.values():
+                strip(v)
+        elif isinstance(node, list):
+            for v in node:
+                strip(v)
+    strip(s)
+    return s
+
+
+class GeminiBackend(Backend):
+    name = "gemini"
+    URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+
+    def __init__(self, model: str, min_interval: float = 4.0):
+        self.model = model
+        self.key = os.environ["GEMINI_API_KEY"]
+        self.min_interval = min_interval          # 무료 등급 RPM 제한 대응 (기본 15/min)
+        self._lock = threading.Lock()
+        self._last = 0.0
+        self.client = httpx.Client(timeout=120)
+
+    def _throttle(self):
+        with self._lock:
+            wait = self._last + self.min_interval - time.monotonic()
+            if wait > 0:
+                time.sleep(wait)
+            self._last = time.monotonic()
+
+    def complete(self, system, user, schema):
+        body = {
+            "systemInstruction": {"parts": [{"text": system}]},
+            "contents": [{"role": "user", "parts": [{"text": user}]}],
+            "generationConfig": {
+                "temperature": 0.2,
+                "maxOutputTokens": 4000,
+                "responseMimeType": "application/json",
+                "responseSchema": gemini_schema(schema),
+            },
+        }
+        url = self.URL.format(model=self.model)
+        last_err: Exception | None = None
+        for attempt in range(5):
+            self._throttle()
+            r = self.client.post(url, headers={"x-goog-api-key": self.key}, json=body)
+            if r.status_code in (429, 500, 503):
+                last_err = RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
+                retry_after = r.headers.get("retry-after")
+                time.sleep(float(retry_after) if retry_after else 10 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
+            data = r.json()
+            cand = (data.get("candidates") or [None])[0]
+            if not cand or cand.get("finishReason") not in (None, "STOP"):
+                raise RuntimeError(f"응답 없음/중단: {json.dumps(data)[:300]}")
+            text = "".join(p.get("text", "") for p in cand["content"]["parts"])
+            um = data.get("usageMetadata", {})
+            usage = Usage(um.get("promptTokenCount", 0), um.get("candidatesTokenCount", 0),
+                          um.get("cachedContentTokenCount", 0))
+            return json.loads(text), usage
+        raise last_err or RuntimeError("재시도 초과")
+
+
+def make_backend(cfg: dict) -> Backend | None:
+    provider = (cfg.get("provider") or "auto").lower()
+    has_gemini = bool(os.environ.get("GEMINI_API_KEY"))
+    has_anthropic = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    if provider == "auto":
+        provider = "gemini" if has_gemini else "anthropic" if has_anthropic else "none"
+    if provider == "gemini" and has_gemini:
+        return GeminiBackend(cfg.get("gemini_model", "gemini-2.5-flash"),
+                             float(cfg.get("gemini_min_interval_seconds", 4.0)))
+    if provider == "anthropic" and has_anthropic:
+        return AnthropicBackend(cfg.get("anthropic_model", cfg.get("model", "claude-opus-5-5")))
+    return None
+
+
+# ------------------------------------------------------------------ 적용
+
+class Enricher:
+    def __init__(self, cfg: dict):
+        self.cfg = cfg
+        self.backend = make_backend(cfg) if cfg.get("enabled", True) else None
+
+    @property
+    def available(self) -> bool:
+        return self.backend is not None
 
     def enrich_one(self, item: Item, stats: EnrichStats) -> Item:
         stats.attempted += 1
         try:
-            data = self._call(item, stats)
+            data, usage = self.backend.complete(SYSTEM_PROMPT, build_user_prompt(item), OUTPUT_SCHEMA)
+            stats.input_tokens += usage.input_tokens
+            stats.output_tokens += usage.output_tokens
+            stats.cache_read_tokens += usage.cache_read_tokens
+            apply_result(item, data)
         except Exception as e:  # 실패는 개별 항목에 국한
             stats.failed += 1
             stats.errors.append(f"{item.id}: {type(e).__name__}: {str(e)[:200]}")
             log.warning("LLM 실패 %s: %s", item.id, e)
             return apply_fallback(item)
-        item.title_ko = data["title_ko"].strip() or None
-        item.summary_ko = data["summary_ko"].strip()
-        item.key_points_ko = [k.strip() for k in data["key_points_ko"] if k.strip()][:4]
-        item.summary_source = "llm"
-        # 규칙 분류와 합집합. LLM이 준 카테고리를 앞에 둔다.
-        llm_cats = [c for c in data["categories"] if c in CATEGORY_KEYS]
-        item.categories = (llm_cats + [c for c in item.categories if c not in llm_cats])[:4]
-        if item.evidence in ("other", "review") and data["evidence"] in EVIDENCE_KEYS:
-            item.evidence = data["evidence"]
-        if item.trial and data.get("eligibility_ko", "").strip():
-            item.trial.eligibility_ko = data["eligibility_ko"].strip()
-        rel = int(data.get("patient_relevance", 3))
-        item.importance = round(min(1.0, item.importance * 0.8 + 0.2 * (rel / 5)), 2)
         stats.succeeded += 1
         return item
 
@@ -163,17 +271,40 @@ class Enricher:
         if not items:
             return stats
         if not self.available:
-            log.warning("ANTHROPIC_API_KEY 없음: %d건을 초록 발췌로 대체", len(items))
+            log.warning("LLM 키 없음(GEMINI_API_KEY 또는 ANTHROPIC_API_KEY): %d건을 초록 발췌로 대체", len(items))
             for it in items:
                 apply_fallback(it)
             stats.failed = len(items)
-            stats.errors.append("ANTHROPIC_API_KEY 미설정")
+            stats.errors.append("LLM API 키 미설정")
             return stats
-        workers = int(self.cfg.get("concurrency", 4))
+        stats.provider, stats.model = self.backend.name, self.backend.model
+        workers = int(self.cfg.get("concurrency", 4)) if self.backend.name != "gemini" else 1
         with ThreadPoolExecutor(max_workers=workers) as ex:
             futs = [ex.submit(self.enrich_one, it, stats) for it in items]
             for f in as_completed(futs):
                 f.result()
-        log.info("LLM 요약: 성공 %d / 실패 %d, 입력 %d 출력 %d (캐시 %d)",
+        log.info("LLM 요약(%s/%s): 성공 %d / 실패 %d, 입력 %d 출력 %d (캐시 %d)", stats.provider, stats.model,
                  stats.succeeded, stats.failed, stats.input_tokens, stats.output_tokens, stats.cache_read_tokens)
         return stats
+
+
+def apply_result(item: Item, data: dict) -> Item:
+    """검증된 JSON을 레코드에 반영한다. 허용 목록 밖 값은 무시."""
+    item.title_ko = (data.get("title_ko") or "").strip() or None
+    item.summary_ko = (data.get("summary_ko") or "").strip() or excerpt(item.abstract)
+    item.key_points_ko = [k.strip() for k in data.get("key_points_ko") or [] if isinstance(k, str) and k.strip()][:4]
+    item.summary_source = "llm"
+    llm_cats = [c for c in data.get("categories") or [] if c in CATEGORY_KEYS]
+    item.categories = (llm_cats + [c for c in item.categories if c not in llm_cats])[:4]
+    if item.trial and "trial" in item.categories:
+        item.categories = ["trial"] + [c for c in item.categories if c != "trial"]
+    if item.evidence in ("other", "review") and data.get("evidence") in EVIDENCE_KEYS:
+        item.evidence = data["evidence"]
+    if item.trial and (data.get("eligibility_ko") or "").strip():
+        item.trial.eligibility_ko = data["eligibility_ko"].strip()
+    try:
+        rel = max(1, min(5, int(data.get("patient_relevance", 3))))
+    except (TypeError, ValueError):
+        rel = 3
+    item.importance = round(min(1.0, item.importance * 0.8 + 0.2 * (rel / 5)), 2)
+    return item

@@ -40,7 +40,8 @@ jobs:
 
       - name: Collect, summarize, render
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}          # 무료 (Google AI Studio)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}    # 선택 (유료, 더 높은 품질)
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
         run: |
           ARGS=""

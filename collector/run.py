@@ -70,6 +70,8 @@ def collect(today: date, *, since: date | None = None, no_llm: bool = False, dry
         llm_stats = enricher.enrich(todo)
         for it in todo:
             classify_after_llm(it, today)
+        if llm_stats.errors:
+            log.warning("LLM 오류 %d건 (처음 5건): %s", len(llm_stats.errors), llm_stats.errors[:5])
     elif todo:
         from .enrich import apply_fallback
         for it in todo:

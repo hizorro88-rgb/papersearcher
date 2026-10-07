@@ -20,17 +20,32 @@ GitHub Actions 무제한 무료, GitHub Pages, Discussions는 **공개 저장소
 - **Settings → Pages → Build and deployment → Source: GitHub Actions** 선택 (branch 방식이 아님).
 - 저장 후 사이트 주소는 `https://hizorro88-rgb.github.io/papersearcher/` 입니다.
 
-## 4. Anthropic API 키 등록 (필수)
+## 4. 한국어 요약용 LLM API 키 등록 (필수, 무료 가능)
 
-한국어 번역·요약에 사용합니다. 키가 없으면 초록 발췌로 대체되지만, 한국어 서비스가 목적이므로 반드시 넣어 주세요.
+한국어 번역·요약은 LLM API가 필요합니다. **Google Gemini API 무료 등급**으로 비용 없이 운영할 수 있고, 품질을 더 높이고 싶을 때만 Claude API(유료)로 바꾸면 됩니다. 둘 다 등록하면 Gemini를 우선 사용합니다.
+
+### 4-A. Google Gemini (무료, 권장)
+
+1. https://aistudio.google.com/apikey 접속 → Google 계정 로그인 → **API 키 만들기** (신용카드 불필요).
+2. GitHub 저장소 → **Settings → Secrets and variables → Actions → New repository secret**
+   - Name: `GEMINI_API_KEY`
+   - Secret: 복사한 키
+3. 끝. 다음 수집부터 `gemini-2.5-flash`로 요약합니다.
+
+알아 둘 점:
+- 무료 등급은 분당·일일 요청 한도가 있습니다(모델에 따라 분당 5~15회, 하루 수백~1,500회). 수집기는 요청 간 4초 간격으로 순차 호출하고 하루 최대 120건만 요약하므로 한도 안에서 동작합니다. 한도에 걸린 항목은 다음 날 자동 재시도됩니다.
+- Google은 무료 등급의 입력 내용을 제품 개선에 사용할 수 있습니다. 이 프로젝트가 보내는 것은 공개 논문 초록과 임상시험 등록 정보뿐이므로 문제되지 않습니다.
+- 더 최신 모델을 쓰려면 `config/sources.yaml`의 `llm.gemini_model`을 `gemini-3.8-flash` 같은 이름으로 바꾸면 됩니다(무료 제공 여부는 https://ai.google.dev/gemini-api/docs/pricing 에서 확인).
+
+### 4-B. Anthropic Claude (유료, 선택)
+
+품질이 더 중요해지면 전환합니다. Claude Code 구독(Pro/Max)은 API 호출을 포함하지 않으므로 별도 종량제 키가 필요합니다.
 
 1. https://platform.claude.com 에서 로그인 → **API Keys → Create Key** → 키 복사 (`sk-ant-...`).
-2. 결제 수단 등록 및 **월 사용 한도(Spend limit)** 설정 권장: 처음에는 월 $20 정도.
-3. GitHub 저장소 → **Settings → Secrets and variables → Actions → New repository secret**
-   - Name: `ANTHROPIC_API_KEY`
-   - Secret: 복사한 키
+2. 크레딧 충전 및 **월 사용 한도(Spend limit)** 설정 권장: 처음에는 월 $20 정도.
+3. GitHub Secrets에 `ANTHROPIC_API_KEY`로 등록하고, `config/sources.yaml`의 `llm.provider`를 `anthropic`으로 바꿉니다.
 
-예상 비용: 하루 30~80건 요약 기준 월 $5~15. 첫 실행은 이미 수집된 426건(초록 발췌 상태)을 하루 120건씩 나눠 요약하므로 첫 4일은 조금 더 듭니다. 사용량은 사이트의 **소개 → 수집 현황** 페이지에서 확인할 수 있습니다.
+예상 비용: 하루 30~80건 요약 기준 월 $5~15. 사용량은 사이트의 **소개 → 수집 현황** 페이지에서 확인할 수 있습니다.
 
 ## 5. (선택) NCBI API 키
 
@@ -84,5 +99,6 @@ PubMed 조회 속도 제한을 초당 3회에서 10회로 올립니다. 없어�
 | 무관한 항목 숨기기 | 위 파일에 `"review": {"status": "hidden"}` |
 | 새 약물 주제 페이지 추가 | `config/entities.yaml`에 항목 추가 후 커밋 |
 | 검색식·키워드 조정 | `config/sources.yaml`, `config/taxonomy.yaml` 수정 후 커밋 → 다음 수집부터 반영. 기존 항목에도 적용하려면 로컬에서 `python -m collector.run --reclassify` 후 커밋 |
-| 요약 비용 줄이기 | `config/sources.yaml`의 `llm.max_items_per_run`을 낮추기 |
+| 요약 건수·비용 줄이기 | `config/sources.yaml`의 `llm.max_items_per_run`을 낮추기 |
+| Gemini 한도 초과(429)가 자주 보일 때 | `llm.gemini_min_interval_seconds`를 6~10으로 올리거나 `max_items_per_run`을 낮추기 |
 | 60일 이상 수집이 멈춘 경우 | GitHub가 비활성 저장소의 예약 실행을 끕니다. Actions 탭에서 collect 워크플로를 **Enable** 하면 재개됩니다 (매일 봇 커밋이 생기므로 평소에는 발생하지 않음) |
