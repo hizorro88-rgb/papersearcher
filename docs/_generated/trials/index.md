@@ -8,6 +8,9 @@ search:
 
 # 임상시험
 
+!!! note "이 목록은 ClinicalTrials.gov 등록 기준입니다"
+    국내 식약처·CRIS에만 등록된 시험이나 아직 등록되지 않은 시험은 빠질 수 있습니다. [참여 방법 안내](../../guides/trials/how-to-apply.md)의 다른 검색 경로도 함께 확인하세요.
+
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 

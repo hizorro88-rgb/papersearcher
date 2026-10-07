@@ -132,6 +132,15 @@ def header(title: str, desc: str = "", *, comments: bool = True) -> str:
     return "\n".join(fm) + "\n\n"
 
 
+def scope_notice(depth: int) -> str:
+    """최신 연구·소식 페이지 공통: 수집 범위가 제한적임을 명시."""
+    return (f'!!! note "이 목록은 모든 연구를 포함하지 않습니다"\n'
+            f'    PubMed, ClinicalTrials.gov, Europe PMC에서 췌장암 검색식으로 **매일 자동 수집한 것만** 실려 있습니다. '
+            f'수집을 시작한 2026-10-06 이후 등록된 논문과 당시 모집 중이던 임상시험이 대상이며, 그 이전 논문, 학회 발표, 유료 뉴스, '
+            f'검색식에 걸리지 않은 연구는 빠져 있습니다. 어떤 자료를 어떻게 모으는지는 [수집 소스와 방법]({rel("about/sources.md", depth)})을 보세요. '
+            f'빠진 연구를 알고 계시면 [소스 추가 요청](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=source-request.yml)으로 알려 주세요.\n\n')
+
+
 def disclaimer(depth: int) -> str:
     return (f'!!! warning "안내"\n    이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. '
             f'응급 상황은 [응급 가이드]({rel("guides/emergency/index.md", depth)}) 또는 119.\n\n')
@@ -153,7 +162,7 @@ def render_daily(items_by_day: dict[str, list[Item]], out: Path) -> list[str]:
         rest = sorted([i for i in new if i.importance < thr], key=lambda i: -i.importance)
         s = header(f"{d} 수집", f"{d}에 수집·갱신된 췌장암 관련 소식 {len(its)}건")
         s += f"# {d} 일일 다이제스트\n\n"
-        s += disclaimer(4)
+        s += scope_notice(4) + disclaimer(4)
         s += f"신규 {len(new)}건 · 갱신 {len(upd)}건 · [날짜별 목록](../../index.md)\n\n"
         if top:
             s += "## 주요 소식\n\n" + "".join(render_item(i, 4) for i in top)
@@ -169,7 +178,7 @@ def render_daily(items_by_day: dict[str, list[Item]], out: Path) -> list[str]:
                     s += f"### {cat_name(c)}\n\n" + "".join(render_item(i, 4) for i in by_cat[c])
         p.write_text(s, encoding="utf-8")
     # 날짜 목록
-    idx = header("날짜별 보기", "수집일 기준 다이제스트 목록", comments=False) + "# 날짜별 보기\n\n"
+    idx = header("날짜별 보기", "수집일 기준 다이제스트 목록", comments=False) + "# 날짜별 보기\n\n" + scope_notice(2)
     by_month: dict[str, list[str]] = defaultdict(list)
     for d in days:
         by_month[d[:7]].append(d)
@@ -196,7 +205,7 @@ def render_categories(items: list[Item], out: Path, today: date) -> None:
             by_month[i.last_updated[:7]].append(i)
         s = header(meta["name"], meta.get("description", ""))
         s += f"# {meta['name']}\n\n{meta.get('description', '')}\n\n"
-        s += disclaimer(2)
+        s += scope_notice(2) + disclaimer(2)
         s += f"전체 {len(its)}건 · 최근 30일 {len(recent)}건\n\n"
         if by_month:
             s += "월별 보기: " + " · ".join(f"[{m}]({key}/{m}.md)" for m in sorted(by_month, reverse=True)) + "\n\n"
@@ -205,7 +214,7 @@ def render_categories(items: list[Item], out: Path, today: date) -> None:
         for m, lst in by_month.items():
             p = out / "categories" / key / f"{m}.md"
             p.parent.mkdir(parents=True, exist_ok=True)
-            ms = header(f"{meta['name']} {m}", comments=False) + f"# {meta['name']} — {m}\n\n{disclaimer(3)}"
+            ms = header(f"{meta['name']} {m}", comments=False) + f"# {meta['name']} — {m}\n\n{scope_notice(3)}{disclaimer(3)}"
             ms += "".join(render_item(i, 3) for i in sorted(lst, key=lambda i: -i.importance))
             p.write_text(ms, encoding="utf-8")
 
@@ -277,6 +286,9 @@ def render_trials(items: list[Item], out: Path) -> None:
     other = sorted([i for i in trials if i.trial.status not in recruiting], key=lambda i: (i.trial.last_update_posted or ""), reverse=True)
     s = header("임상시험", "췌장암 임상시험 목록: 참여 조건, 국내 실시기관, 신청 방법")
     s += "# 임상시험\n\n"
+    s += (f'!!! note "이 목록은 ClinicalTrials.gov 등록 기준입니다"\n'
+          f'    국내 식약처·CRIS에만 등록된 시험이나 아직 등록되지 않은 시험은 빠질 수 있습니다. '
+          f'[참여 방법 안내]({rel("guides/trials/how-to-apply.md", 2)})의 다른 검색 경로도 함께 확인하세요.\n\n')
     s += disclaimer(2)
     s += (f"임상시험 참여를 고려한다면 먼저 [참여 방법 안내]({rel('guides/trials/how-to-apply.md', 2)})를 읽어 주세요. "
           "각 시험 페이지에는 AI가 정리한 참여 조건과 원문, 국내 실시기관, 문의처가 있습니다.\n\n")
@@ -291,13 +303,13 @@ def render_topics(items: list[Item], out: Path) -> None:
     ents = {e["id"]: e for e in config.entities()}
     tdir = out / "topics"
     tdir.mkdir(parents=True, exist_ok=True)
-    idx = header("주제별 보기", "약물·요법·수술법별 모아보기", comments=False) + "# 주제별 보기\n\n| 주제 | 종류 | 항목 수 | 최근 갱신 |\n|---|---|---|---|\n"
+    idx = header("주제별 보기", "약물·요법·수술법별 모아보기", comments=False) + "# 주제별 보기\n\n" + scope_notice(2) + "| 주제 | 종류 | 항목 수 | 최근 갱신 |\n|---|---|---|---|\n"
     for eid, e in ents.items():
         its = sorted([i for i in items if eid in i.entities], key=lambda i: (i.published_at or "", i.importance), reverse=True)
         kind = {"drug": "약물", "regimen": "요법", "procedure": "시술·수술", "trial": "시험"}.get(e.get("kind"), e.get("kind", ""))
         s = header(e["names"][0], f"{kind} · {e.get('target', '')}")
         s += f"# {e['names'][0]}\n\n"
-        s += disclaimer(2)
+        s += scope_notice(2) + disclaimer(2)
         s += f"- 종류: {kind}\n- 별칭: {', '.join(e['names'])}\n"
         if e.get("target"):
             s += f"- 표적/기전: {e['target']}\n"
