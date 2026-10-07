@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06131840",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환에는 췌장암 도관 선암종(PDAC)이 포함됩니다.",
+  "임상시험 단계는 1상(PHASE1)이며 목표 인원은 914명입니다.",
+  "실험용 약물 PF-08046050의 안전성과 내성, 적정 용량을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06131840"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 실험용 약물인 PF-08046050의 안전성과 적정 용량을 평가합니다. 췌장암 도관 선암종(Pancreatic Ductal Adenocarcinoma, PDAC)을 포함한 다양한 고형암 환자가 참여 대상입니다. 단독 요법 및 항암제 병용 요법을 통해 안전성과 치료 효과를 확인하는 5개의 파트로 진행됩니다. 총 목표 인원은 914명이며, 국내 기관은 없습니다.",
+ "summary_source": "llm",
  "tags": [
   "CRC",
   "NSCLC",
@@ -55,7 +59,7 @@
   "Seattle Genetics"
  ],
  "title": "A Study of SGN-CEACAM5C in Adults With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 PF-08046050 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Neoplasms",
@@ -72,7 +76,7 @@
     "phone": "1-800-718-1021"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 파트 A, B, C, E에 해당하는 췌장암 도관 선암종(PDAC) 환자 - 조직학적 또는 세포학적으로 확진된 전이성 또는 절제 불가능한 고형암 - 기존 표준 치료에 실패했거나 재발/진행된 경우 - ECOG 수행 능력 점수 0 또는 1점 - RECIST v1.1 기준에 따른 측정 가능한 병변 존재 제외 기준: - 이전에 CEACAM5 표적 치료를 받은 경험이 있는 경우 - CPT 페이로드 기반 TOPO1 표적 항체-약물 접합체(ADC) 치료 이력이 있는 경우 - 3년 이내 다른 악성 종양 병력 - 활성 중추신경계/수막 질환이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n1. Tumor type:\n\n   * Participants in Part A (dose escalation) and Part B (dose optimization) must have histologically- or cytologically-confirmed metastatic or unresectable solid tumor malignancy. Must have relapsed, refractory, or progressive disease, and should have no appropriate standard therapy available.\n\n     * Participants in Part A must have one of the following tumor types: colorectal cancer (CRC); gastric carcinoma (GC) or gastroesophageal junction adenocarcinoma (GEJ); non-small cell lung cancer (NSCLC); or pancreatic ductal adenocarcinoma (PDAC).\n     * The tumor types to be enrolled in Part B will be identified by the sponsor from among those specified in Part A.\n   * Participants in Part C (dose expansion) must have one of the following histologically- or cytologically-confirmed metastatic or unresectable solid tumor malignancies.\n\n     * CRC (adenocarcinoma of the colon or rectum) and must have received no more than 2 prior chemotherapy regimens for the treatment of advanced colorectal cancer and evidence of either progressive disease or intolerance to their last regimen.\n     * PDAC with one or more metastatic lesions measurable by computed tomography/magnetic resonance imaging according to RECIST v1.1 criteria; and must have received no more than 1 prior chemotherapy regimen for the treatment of advanced PDAC and evidence of either progressive disease or intolerance to that regimen.\n     * GC or GEJ and must have received prior platinum and fluoropyrimidine-based chemotherapy.\n     * NSCLC and must have received platinum-based therapy. If eligible and consistent with local standard of care must have received a PD-1/PD-L1 inhibitor. In addition, participants with tumor genomic mutations/alterations for which approved targeted therapies are available per local standard of care, must have received such therapies.\n     * Small cell lung cancer (SCLC) and must have received platinum-based therapy for extensive-stage disease and no more than 3 prior lines of therapy. If eligible and consistent with local standard of care must have received a PD 1/PD-L1 inhibitor.\n   * CRC participants in Part D and Part E (bevacizumab combination therapy) must have histologically confirmed unresectable or metastatic adenocarcinoma of the colon or rectum. Received a maximum of 2 prior chemotherapy regimens for the treatment of advanced colorectal cancer and had demonstrated progressive disease or intolerance to their last regimen.\n   * CRC participants in Part D and Part E (5FU/LV + bevacizumab and 5FU/LV + oxaliplatin + bevacizumab combination therapy) must have histologically confirmed unresectable or metastatic adenocarcinoma of the colon or rectum. Must not have received a prior TOPO1 inhibitor (such as irinotecan or nanoliposomal irinotecan) in any setting. 1L cohorts: No prior chemotherapy for advanced disease. 2L cohorts (applicable to 5FU/LV + bevacizumab combination only): 1 prior chemotherapy regimen for the treatment of advanced disease, which must have included a fluoropyrimidine and oxaliplatin.\n\n   \\> 2L PDAC participants in Part E (5FU/LV combination therapy) must have histologically or cytologically confirmed metastatic pancreatic ductal adenocarcinoma. One or more metastatic lesions measurable by computed tomography/magnetic resonance imaging according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria.\n\n   \\> 1L PDAC participants in Part E (5FU/LV + oxaliplatin combination therapy) must have histologically or cytologically confirmed metastatic pancreatic ductal adenocarcinoma that has not been previously treated in the metastatic setting. One or more metastatic lesions measurable by computed tomography/magnetic resonance imaging according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria. No prior chemotherapy for PDAC with the following exception: Patients who received adjuvant/neoadjuvant chemotherapy and who had recurrence more than 12 months after completion of adjuvant/neoadjuvant chemotherapy are eligible.\n2. Participants enrolled in the following study parts should have a tumor site that is accessible for biopsy(ies) and agree to biopsy(ies) and/or submission of archival tissue:\n\n   * Monotherapy dose optimization (Part B)\n   * Monotherapy (Part C) and combination therapy (Part E) disease-specific expansion cohorts\n3. An Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1\n4. Measurable disease per Response Evaluation in Solid Tumors (RECIST) v1.1 at baseline.\n\nExclusion Criteria:\n\n1. Previous exposure to CEACAM5-targeted therapy.\n2. Prior treatment with a TOPO1-targeting ADC (CPT payload), such as Enhertu (trastuzumab deruxtecan) or Trodelvy (sacituzumab govitecan).\n3. History of another malignancy within 3 years before the first dose of study intervention, or any evidence of residual disease from a previously diagnosed malignancy.\n4. Active cerebral/meningeal disease related to the underlying malignancy. Participants with a history of cerebral/meningeal disease related to the underlying malignancy are allowed if prior central nervous system disease has been treated and the participant is clinically stable (defined as not having received steroid treatment for symptoms related to cerebral/meningeal disease for at least 2 weeks prior to enrollment and with no ongoing related AEs).\n\n   \\> Criteria related to bevacizumab administration (participants in Parts D and E)\n5. History of allergic reactions or hypersensitivity to bevacizumab or any of its excipients.\n6. History of hypersensitivity to Chinese Hamster Ovary cell products or other recombinant human or humanized antibodies.\n7. Serious non-healing wound, non-healing ulcer, or non-healing bone fracture.\n8. Deep venous thromboembolic event within 4 weeks prior to enrollment\n9. Known coagulopathy that increases risk of bleeding, bleeding diatheses.\n10. History of any life-threatening VEGF-related adverse event",
   "enrollment": 914,
   "has_results": false,

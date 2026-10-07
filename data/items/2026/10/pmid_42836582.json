@@ -11,10 +11,12 @@
   "Fadel L"
  ],
  "categories": [
+  "basic",
+  "drug",
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -24,8 +26,13 @@
   }
  ],
  "id": "pmid:42836582",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "KRAS 유도 종양 발달 과정에서 KDM6B는 종양 억제 기능에서 암 유발 기능으로 전환되었습니다.",
+  "KDM6의 암 유발 기능은 PDAC 종양 형성을 촉진하는 NOTCH 신호전달 조절을 통해 매개되었습니다.",
+  "KDM6A와 KDM6B를 동시에 제거하자 인간 췌장관선암의 희귀 아형인 육종모양 암종과 유사한 표현형 변화가 발생했습니다.",
+  "정확한 세포 및 시기적 맥락에서 KDM6 활동을 표적으로 삼는 것이 치료에 유용할 수 있습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1158/0008-5472.CAN-25-3126",
@@ -47,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42836582/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장관선암(PDAC, pancreatic ductal adenocarcinoma)에서 KDM6 히스톤 탈메틸화 효소 가족이 종자 발생과 가소성을 어떻게 조절하는지 밝혔습니다. KRAS 유도 종양 발달 과정을 분석한 결과, KDM6B는 종양 억제 기능에서 암 유발 기능으로 전환되는 모습을 보였습니다. 또한 KDM6A와 KDM6B를 동시에 제거하면 인간 췌장관선암의 희귀 아형인 육종모양 암종과 유사한 심오한 표현형 변화가 나타났습니다. 이번 결과는 세포 및 시기적 맥락에 따라 KDM6 활동을 표적으로 삼는 것이 도움이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "KDM6 Histone Demethylases Tune Pancreatic Cancer Plasticity",
- "title_ko": null,
+ "title_ko": "KDM6 히스톤 탈메틸화 효소는 췌장암의 가소성을 조절합니다",
  "trial": null,
  "type": "paper"
 }

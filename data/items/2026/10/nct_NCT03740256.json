@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT03740256",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 최대 45명이며 1단계(Phase 1) 임상시험으로 진행됩니다.",
+  "1일 차에 종양 내로 CAdVEC 바이러스를 주사하고, 4일 차에 HER2 특이적 CAR T 세포(HER2.CAR T cells)를 정맥 주입합니다.",
+  "임상시험에는 췌장선암을 포함한 HER2 양성 진행성 고형암 환자가 참여합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03740256"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 연구는 진행성 HER2(Human Epidermal Growth Factor Receptor 2) 양성 고형암 환자를 대상으로 CAdVEC이라는 종양용해성 아데노바이러스(oncolytic adenovirus)와 HER2 특이적 CAR T 세포(HER2 specific CAR T cells)를 병용 투여하는 최초의 인체 제1상 임상시험입니다. 췌장선암(pancreatic adenocarcinoma)을 포함한 다양한 진행성 고형암 환자 45명을 목표로 하며, 두 치료법의 안전성과 유효성 및 적정 용량을 평가합니다. 환자는 1일 차에 종양 내로 CAdVEC 주사를 맞고, 4일 차에 HER2 특이적 자가 CAR T 세포를 정맥 투여 받습니다.",
+ "summary_source": "llm",
  "tags": [
   "HER2",
   "Human Epidermal Growth Factor Receptor 2",
@@ -56,7 +61,7 @@
   "Colorectal"
  ],
  "title": "Binary Oncolytic Adenovirus in Combination With HER2-Specific Autologous CAR VST, Advanced HER2 Positive Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 HER2 양성 고형암 환자에서 CAdVEC 종양 내 주사와 HER2 특이적 자가 CAR T 세포 병용에 대한 제1상 임상시험",
  "trial": {
   "conditions": [
    "Bladder Cancer",
@@ -82,7 +87,7 @@
     "phone": "832-824-3855"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 진행성 난치성 HER2 양성 고형암 환자(췌장선암 포함)\n- 수술, 방사선 치료, 전신 치료 등 치유적 치료가 부적합한 경우\n- 표준 1차 치료 후 질병이 진행되었거나 가용한 효과적 치료 옵션이 없는 경우\n- 종양 내 주사가 가능한 최소 1개의 병변이 있는 경우\n- RECIST 1.1 기준에 따라 영상학적으로 측정 가능한 병변이 있는 경우\n- 기대 여명이 12주를 초과하는 경우\n- 만 18세 이상이며 동의서를 이해하고 서명할 수 있는 경우\n\n제외 기준:\n- 지속적인 전신 코르티코스테로이드, 면역억제제 등이 필요한 자가면역질환 병력\n- 장기 이식 병력, HIV 진단 등 중대한 면역결핍 상태\n- 5년 이내 다른 악성종양 진단 이력(기저세포암, 편평세포암, 잘 분화된 갑상선암, 국소 전립선암 제외)\n- 활동성 B형 또는 C형 간염 감염 환자\n- 동의 전 6개월 이내 급성 심근경색 병력\n- 주사 부위가 중추신경계 등 주요 신경혈관 구조에 인접하여 대출혈 위험이 있는 경우\n- 연구 참여를 저해하거나 수용 불가능한 위험을 초래할 수 있는 조절되지 않는 동반 질환",
   "eligibility_text": "Inclusion Criteria:\n\nThis study will look at solid tumors (as a basket trial for any solid cancer) with HER2 positivity based on IHC\n\nProcurement Inclusion Criteria\n\n1. The patient has a histologically confirmed advanced refractory HER2 positive solid tumor, including but not limited to: head and neck squamous cell carcinoma; cancer of the salivary glands; lung cancer; breast cancer; bladder cancer; gastric cancer; esophageal cancer; colorectal cancer; and pancreatic adenocarcinoma. HER2 positivity is defined as ≥2+ staining by IHC with either the FDA-approved CB11 antibody (Leica) or anti HER2/neu (4B5) (VENTANA), which refers to greater than weak-to-moderate staining intensity in \\>10% tumor cells.\n2. The disease must be deemed unsuitable for curative treatments including surgery, radiotherapy, systemic therapy, including checkpoint inhibitors, or any combination of the above modalities by the referring oncology physician and confirmed by the senior oncologists leading the protocol.\n3. Disease must have progressed after standard first line therapy, or without available effective treatment options. Patients are still eligible if they have failed more than one line of therapy.\n4. The patient must have at least one tumor site appropriate for intratumoral injection.\n5. The patient must have radiographically measurable disease as per RECIST 1.1.\n6. Life expectancy more than 12 weeks.\n7. The patient is ≥ 18 years of age, able to understand and give informed consent to study related procedures and treatments.\n\nProcurement Exclusion Criteria\n\n1. History or evidence of active autoimmune disease requiring continuous systemic corticosteroids (with more than 10mg/day prednisone or equivalent dose), immunosuppressants or other disease modifying agents (except palliative radiation).\n2. Evidence of significant immunosuppressive conditions, such as the following:\n\n   * Post organ transplant.\n   * Diagnosis of HIV or other immunodeficiency disorders.\n3. Diagnosis of other malignancies within 5 years except for cutaneous basal cell or squamous cell carcinoma, well-differentiated thyroid cancer, or localized prostate cancer.\n4. Patients with known active hepatitis B or C infection.\n5. Patient has had acute myocardial infarction within 6 months prior to consent for procurement.\n6. Injectable tumor site is considered to incur a significant risk of major hemorrhage (e.g. located in the CNS (brain), and proximal to critical neurovascular structures) per investigator's review.\n7. Uncontrolled intercurrent illness including but not limited to psychiatric illness and or social situations that in the opinion of the investigator would compromise compliance of study requirements or put the patient at unacceptable risk.\n\nTreatment Inclusion Criteria:\n\n1. Histologically confirmed advanced refractory HER2 positive solid tumors, including but not limited to: head and neck squamous cell carcinoma; cancer of the salivary glands; lung cancer; breast cancer; bladder cancer; gastric cancer; esophageal cancer; colorectal cancer; and pancreatic adenocarcinoma. HER2 positivity is defined as ≥2+ staining by IHC with either the FDA-approved CB11 antibody (Leica) or anti HER2/neu (4B5) (VENTANA), which refers to greater than weak-to-moderate staining intensity in \\>10% tumor cells (HER2 positivity requirement is excluded in DL1 and DL2 as HER2 targeted agents are not used).\n2. The disease must be deemed unsuitable for curative treatments including surgery, radiotherapy, systemic therapy, including checkpoint inhibitors, or any combination of the above modalities by the referring oncology physician and confirmed by the senior oncologists leading the protocol.\n3. Disease must have progressed after standard first line therapy, or without available effective treatment options. Patients are still eligible if they have failed more than one line of therapy.\n4. The patient must have at least one tumor site appropriate for intratumoral injection.\n5. The patient must have radiographically measurable disease as per RECIST 1.1.\n6. The patient must have adequate organ function within 7 days prior to treatment as indicated by following measures:\n\n   * Hematologic: Absolute neutrophil count (ANC) ≥1.0 x 10\\^9/l; Hemoglobin ≥7 g/dl; Platelet count ≥ 100 x 10\\^9/l; PT or PTT ≤ 1.5 x ULN unless the subject is receiving anticoagulation.\n   * Hepatic function: bilirubin \\< 2 x ULN, and AST and ALT \\< 3 x ULN\n   * Renal Function: serum creatinine \\<2 x the ULN or creatinine clearance \\>60 mL/min.\n7. Prior HER2 targeted therapy is allowed if delivered at least 4 weeks prior to the enrollment. (Excluding DL1 and DL2)\n8. Eastern Cooperative Oncology Group (ECOG) performance status 2 or less (Appendix I).\n9. Females of childbearing potential must have a negative pregnancy test and agree to use contraception during on-study protocol therapy, or deemed to be not able to get pregnant.\n10. Male subjects with pregnant partner/female partner of childbearing potential agree to use barrier contraceptive during the study to minimize the risk of embryo-fetal exposure.\n11. The patient is ≥ 18 years of age, and able to understand and give informed consent to study related procedures and treatments.\n\nTreatment Exclusion Criteria:\n\n1. Patients with any concurrent treatment that would compromise the study including but not limited to continuous high dose corticosteroids (more than 10mg/day prednisone or equivalent dose), lympho-depleting antibodies, immunotherapy, targeted therapies or cytotoxic agents, CNS metastasis requiring continuous high-dose steroids (more than 10mg/day prednisone or equivalent dose) or other active therapeutic intervention. This does not include stable, previously-treated brain metastases. Patients on DL1 and DL2 can continue prior checkpoint inhibitors and HER2 targeted agents during the DLT evaluation period.\n2. Patients at significant risk of airway compromise or other critical obstruction (e.g. bowel, ureter, etc.) in the event of possible post injection tumor inflammation based on the investigative team's judgement.\n3. History or evidence of active autoimmune disease requiring continuous systemic corticosteroids, immunosuppressants or other disease modifying agents.\n4. Evidence of significant immunosuppressive conditions, such as the following:\n\n   * Post organ transplant.\n   * Diagnosis of HIV or other immunodeficiency disorders.\n5. Diagnosis of other malignancies within 5 years except for cutaneous basal cell or squamous cell carcinoma, well-differentiated thyroid cancer, or localized prostate or cervical cancer.\n6. Patients with known active infectious disease, such as hepatitis B or C infection.\n7. Patient has had acute myocardial infarction within 6 months prior to enrollment for treatment.\n8. Patients with abnormal left ventricular function (LVEF \\<55%).\n9. Injectable tumor site is considered to incur a significant risk of major hemorrhage (e.g. located in the CNS (brain), pulmonary parenchyma, and proximal to critical neurovascular structures).\n10. Pregnant or breastfeeding females.\n11. Uncontrolled intercurrent illness including but not limited to psychiatric illness and or social situations that in the opinion of the investigator would compromise compliance of study requirements or put the patient at unacceptable risk.",
   "enrollment": 45,
   "has_results": false,

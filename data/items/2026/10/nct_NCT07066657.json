@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT07066657",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 572명입니다.",
+  "중재 방법은 MRG007 단독 또는 MRG007과 bevacizumab 병용입니다.",
+  "대상 질환에는 췌장암(Pancreatic Cancer)이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07066657"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 절제 불가능한 국소 진행성 또는 전이성 고형암 환자를 대상으로 MRG007 (ARR-217)의 안전성(safety), 내약성(tolerability), 효능(efficacy), 약동학(pharmacokinetics)을 평가하는 공개, 다기관, 1상 임상시험입니다. 췌장암을 포함한 진행성 고형암 환자를 대상으로 단독 투여 또는 bevacizumab과의 병용 투여를 시험합니다. 목표 환자 수는 572명입니다.",
+ "summary_source": "llm",
  "tags": [
   "MRG007",
   "Advanced or Metastatic Solid Tumors",
@@ -51,7 +56,7 @@
   "ADC"
  ],
  "title": "A Study of MRG007 (ARR-217) in Patients With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 하는 MRG007 (ARR-217) 연구",
  "trial": {
   "conditions": [
    "Locally Advanced or Metastatic Solid Tumors",
@@ -66,7 +71,7 @@
     "phone": "(888) 622-2827"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 동의서 서식에 서명하고 프로토콜 요구사항을 준수할 의향이 있는 자. 2. 기대 여명이 3개월 이상인 자. 3. CDH17 검사를 위한 종양 검체가 있거나 베이스라인 생검에 동의하는 자. 4. 표준 치료에 실패했거나 불내성이며 대체 표준 치료가 없는 조직학적 및 세포학적으로 확진된 진행성 또는 전이성 고형암 환자. 5. RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자. 6. ECOG 수행 상태 점수가 0 또는 1인 자. 7. 장기 기능 및 응고 기능이 기본 요구사항을 충족하는 자. 8. 가임기 환자는 치료 중 및 마지막 투여 후 6개월 동안 효과적인 피임을 해야 하는 자. 제외 기준: 1. 두 개 이상의 암을 가진 환자. 2. 첫 투여 전 4주 이내에 CDH17 표적 항종양 치료, 다른 임상시험용 의약품, 전신 코르티코스테로이드 또는 주요 장기 수술을 받은 자, 첫 투여 전 3주 또는 5반감기 이내에 항종양 치료를 받은 자 등. 3. 이전 항종양 치료로 인한 2등급 이상의 독성 반응 또는 실험실 검사 이상 수치. 4. 증상이 있는 중추신경계 및/또는 수막 전이. 5. 심각한 심혈관 질환 병력. 6. 첫 투여 전 3주 이내의 뇌혈관 사고, 폐동맥 혈전증 또는 심부정맥 혈전증 등. 7. 이전 또는 복합 간질성 폐렴 병력 등. 8. 조절되지 않는 흉수, 복수, 골반 삼출물 또는 심낭 삼출물. 9. 활동성 B형 간염, C형 간염 또는 HIV 감염. 10. 첫 연구 치료 전 2주 이내에 정맥 내 항감염 치료가 필요한 조절되지 않는 활성 감염. 11. MRG007 성분에 대한 알려진 알레르기 반응 또는 기타 항CDH17 단일클론항체에 대한 3등급 이상의 알레르기 반응. 12. 연구자의 판단에 따라 임상시험 참여에 부적합한 기타 상황.",
   "eligibility_text": "1. Willing to sign the informed consent form and follow the requirements specified in the protocol.\n2. Life expectancy ≥ 3 months.\n3. Tumor specimen available for CDH17 testing, or agree to biopsy at baseline.\n4. Patients with histologically and cytologically confirmed advanced or metastatic solid tumor who have failed or intolerant to standard therapy, or without alternative standard therapy.\n5. Patients must have at least one measurable lesion according to the Response Evaluation Criteria in Solid Tumors (RECIST v1.1).\n6. The score of ECOG for performance status is 0 or 1.\n7. Organ functions and coagulation function must meet the basic requirements.\n8. Patients with childbearing potential must use effective contraception during the treatment and for 6 months after the last dose of treatment.\n\nExclusion Criteria:\n\n1. Patients with more than one cancer.\n2. Received CDH17-targeting anti-tumor therapy; received other investigational product, systemic corticosteroids or surgery for major organs within 4 weeks prior to the first dose; received anti-tumor therapy within 3 weeks or within 5 half-lives prior to the first dose, whichever is shorter; received radiotherapy within 2 weeks prior to the first dose; received strong CYP3A4 inducers or inhibitors within 2 weeks prior to the first dose or 5 half-lives, whichever is longer; investigational therapy within 4 weeks or 5 half-lives (whichever is shorter) prior to the first dose.\n3. ≥Grade 2 toxic reaction or abnormal value of laboratory test caused by previous anti-tumor treatment\n4. Symptomatic Central nervous system and/or meninges metastasis.\n5. History of severe cardiovascular diseases\n6. Cerebrovascular accident, pulmonary embolism, or deep venous thrombosis within 3 months prior to the first dose, implantable venous infusion port or catheter-related thrombosis, or superficial venous thrombosis\n7. History of previous or combined interstitial pneumonia, current interstitial pneumonia, or suspected interstitial pneumonia that cannot be ruled out through imaging during screening, severe chronic obstructive pulmonary disease with respiratory failure, severe pulmonary dysfunction, symptomatic bronchospasm, etc.\n8. Poorly controlled pleural, peritoneal, and pelvic effusion, or combined pericardial effusion\n9. Infection of active hepatitis B, active hepatitis C, or HIV\n10. Uncontrolled active bacterial, viral, fungal, rickettsial, or parasitic infections requiring intravenous anti-infection therapy within 2 weeks prior to the first study treatment\n11. Known allergic reactions to any component of MRG007, or known Grade≥3 allergic reactions to other prior anti-CDH17 (including investigational) or other monoclonal antibody.\n12. Other situations that are not suitable to participate a clinical trial per investigator's judgement\n13. Additional protocol-defined exclusion criteria apply",
   "enrollment": 572,
   "has_results": false,

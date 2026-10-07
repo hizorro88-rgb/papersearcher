@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07822399",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 314명입니다.",
+  "MGC030의 안전성, 내약성, 약동학(PK), 면역원성, 항종양 활성을 평가합니다.",
+  "초록에 명시된 구체적인 유효성 및 생존기간 수치는 없습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07822399"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 진행성 고형암 환자를 대상으로 신약 MGC030의 안전성, 내약성, 약동학(PK), 면역원성 및 예비 항종양 활성을 평가하기 위한 임상 1상 시험입니다. 췌장암을 포함한 재발성 또는 불응성 진행성 고형암 환자 314명을 목표로 진행됩니다. 연구의 주요 목적은 부작용을 확인하고 MGC030이 종양 크기를 줄이거나 질병 진행을 조절할 수 있는지 평가하는 것입니다. 초록에 명시된 환자 수, 반응률, 생존기간 등의 구체적인 결과는 아직 없습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study of MGC030 in Participants With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MGC030 임상 1상 연구",
  "trial": {
   "conditions": [
    "Urothelial Cancer",
@@ -64,7 +68,7 @@
     "phone": "301-251-5172"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 용량 증량 코호트의 경우 표준 치료에 불응하거나, 표준 치료가 없거나, 견딜 수 없거나, 거부한 조직학적으로 확진된 절제 불가능한 국소 진행성 또는 전이성 고형암(요로상피암, 대장암(CRC), 위암 또는 위식도접합부(GEJ) 암, 식도암, 췌장암) 환자. - 확장 코호트의 경우 전이성 또는 국소 진행성/절제 불가능한 암에 대한 백금 기반 항암화학요법 치료 후 또는 보조/선행보조 치료 완료 후 12개월 이내에 진행된 요로상피암 환자. - 최소 1차 이상의 전신 치료 후 진행된 위암/GEJ 암 및 식도암 환자. - 전이성 질환에 대해 최소 2차 이상의 전신 치료(플루오로피리미딘 플러스 백금 유사체 및/또는 이리노테칸 함유) 후 진행된 대장암 환자(진행성/전이성 질환에 대해 4차를 초과하는 전신 치료를 받지 않아야 함). - 최소 1차 이상의 전신 치료 후 진행된 췌장암 환자(진행성/전이성 질환에 대해 2차를 초과하는 세포독성 항암화학요법을 받지 않아야 함). - RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자. - 보관된 조직 또는 포르말린 고정 파라핀 포매(FFPE) 종양 조직이 있거나 신선한 종양 검체를 얻기 위한 생검에 동의한 환자. - 허용 가능한 신체 상태 및 실험실 수치를 가진 환자. - 가임기 여성의 경우 피임법 사용에 동의한 환자. - 임신 중이거나 임신 계획 중이거나 수유 중이 아닌 환자. 제외 기준: - 치료 또는 절차를 방해하는 기저 질환이나 정신 질환이 있는 환자. - 활성 뇌 전이 또는 연수막 전이가 있는 환자. - 이전에 줄기세포, 조직, 고형 장기 이식을 받은 환자. - 전이 또는 사망 위험이 낮은 암을 제외하고 지난 2년 이내에 치료가 필요했던 다른 악성 종양 환자. - 원발성 면역결핍증 병력이 있는 환자. - 활성 바이러스, 세균, 진균 감염이 있는 환자. - 이전에 Topoisomerase 1 기반 항체-약물 접합체(ADC) 치료를 받은 적이 있는 환자. - 연구 치료 시작 4주 이내에 대수술, 종격동 또는 폐 방사선 치료, 생백신 접종, 전신 암 치료, 키메라 항원 수용체(CAR)-T 세포 치료, 실험적 치료를 받은 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n* Participants in dose escalation cohorts must have histologically proven unresectable, locally advanced or metastatic solid tumor limited to one of the following types: urothelial cancer, colorectal cancer (CRC), gastric or gastroesophageal junction (GEJ) cancer, esophageal cancer, or pancreatic carcinoma that is refractory to standard therapy, or for which standard therapy does not exist, has proven to be intolerable, or has been refused by the participant.\n* Participants in expansion cohorts must have histologically proven, unresectable, locally advanced or metastatic solid tumors\n\n  * Urothelial cancer with progression following platinum-containing chemotherapy for metastatic or locally advanced/unresectable cancer, or within 12 months from completion of neo-adjuvant or adjuvant platinum-containing chemotherapy for localized muscle-invasive cancer.\n  * Gastric/GEJ carcinoma with progression during or following at least 1 systemic therapy.\n  * Esophageal cancer with progression during or following at least 1 systemic therapy.\n  * CRC with progression during or following treatment with at least 2 prior lines of systemic therapy (containing a fluoropyrimidine plus a platinum analogue and/or irinotecan) for metastatic disease.\n\n    * CRC harboring an activating EGFR mutation must have progressed during or following at least one EGFR targeted therapy, if available.\n    * Participants should have received no more than 4 prior lines of systemic therapy for advanced or metastatic disease.\n  * Pancreatic cancer with progression during or following at least 1 systemic therapy. Participants should have received no more than 2 prior lines of cytotoxic chemotherapy for advanced or metastatic disease.\n* Participants must have at least one lesion that meets the definition of measurable disease by RECIST v1.1.\n* Participants must have an available archival or formalin-fixed paraffin-embedded tumor tissue or be willing to undergo a biopsy procedure to obtain a fresh tumor sample.\n* Participants have acceptable physical condition and laboratory values.\n* Participants of childbearing potential must agree to use highly effective methods of birth control.\n* Participants must not be pregnant, planning to be pregnant, or breastfeeding.\n\nExclusion Criteria:\n\n* Any underlying medical or psychiatric condition impairing participant's ability to receive, tolerate, or comply with the planned treatment or study procedures.\n* Active brain metastases or leptomeningeal metastases.\n* Prior stem cell, tissue, or solid organ transplant.\n* Another malignancy that required treatment within the past 2 years, with the exception of those with a negligible risk of metastasis or death such as adequately treated non-melanomatous skin cancer, localized prostate cancer (Gleason Score \\< 6), or carcinoma in situ.\n* History of primary immunodeficiency.\n* Active viral, bacterial, or fungal infection\n* Prior treatment with Topoisomerase 1-based ADCs for cancer.\n* Prior treatment with major surgery, mediastinal or lung radiation, vaccination with live virus vaccines, systemic cancer treatment, chimeric antigen receptor (CAR)-T cell therapy, or experimental treatment within 4 weeks of the start of study treatment.",
   "enrollment": 314,
   "has_results": false,

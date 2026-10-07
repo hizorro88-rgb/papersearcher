@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT07650357",
  "importance": 0.65,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 췌장암을 포함한 KRas G12V 변이 및 HLA-A*03:01 양성 진행성 고형암입니다.",
+  "목표 환자 수는 140명이며, 파트 A 용량 증량과 파트 B 코호트 확장으로 나누어 진행됩니다.",
+  "평가 항목은 CLSP-5282의 안전성, 내약성, 약동학(PK), 약력학(PD), 그리고 예비 임상 활성입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07650357"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 KRas G12V 변이가 있는 진행성 고형암 성인 환자를 대상으로 신약 CLSP-5282의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 예비 임상 활성을 평가하기 위한 1상(Phase 1) 공개, 다기관 연구입니다. 연구는 최대 허용 용량(MTD) 또는 권장 용량(RDE)을 찾기 위한 단독요법 용량 증량(파트 A)과 췌장암선암(PDAC), 대장암(CRC), 비소세포폐암(NSCLC) 등을 포함한 환자군에서 예비 항종양 활성을 탐색하는 단독요법 코호트 확장(파트 B)으로 진행됩니다. 전체 목표 환자 수는 140명이며, 초록에 명시되지 않음 국내 기관에서 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "T-Cell Engager",
   "TCE",
@@ -51,7 +56,7 @@
   "HLA A*03:01"
  ],
  "title": "A Study of CLSP 5282 in HLA-A*03:01 Positive Adult Patients With Solid Tumors (SENTINEL-101)",
- "title_ko": null,
+ "title_ko": "KRas G12V 변이 및 HLA-A*03:01 양성 진행성 고형암 성인 환자를 위한 CLSP-5282 연구 (SENTINEL-101)",
  "trial": {
   "conditions": [
    "Advanced Solid Tumor",
@@ -71,7 +76,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 동의서 서명일 기준 18세 이상의 성인\n- 표준 치료 후 진행되었거나 표준 치료가 없는 조직학적 또는 세포학적으로 진단된 국소 진행성 또는 전이성 고형암\n- 공인된 실험실에서 조직 또는 ctDNA 검사를 통해 확인된 KRas G12V 변이 보유\n- 중앙 검사(central assay)를 통한 HLA-A*03:01 양성\n- 미국동우회(ECOG) 전신 수행 상태 점수 0 또는 1\n- 적절한 조혈, 신장 및 간 기능\n\n제외 기준:\n- 이전에 KRas G12V 표적 세포 치료제나 TCE를 투여받은 환자\n- CLSP-5282 첫 투여 시점에 다른 항암 치료를 받고 있는 환자\n- 첫 투여 전 2년 이내에 다른 원발성 악성 종양 병력이 있는 환자 (완화된 비흑색종 피부암, 상피내암, 전립선암 등은 제외)\n- 이전 항암 치료로 인한 부작용에서 완전히 회복되지 않은 환자\n- 전신 항균 치료가 필요한 활동성 감염이 있는 환자\n- 원발성 악성 뇌종양, 활동성 중추신경계 전이 및/또가 수막염이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Adults at least 18 years of age on the day of signing informed consent.\n* Willing and able to provide written informed consent for the study.\n* Histologically or cytologically diagnosed, locally advanced or metastatic solid tumors that have progressed after standard of care therapy or for which no standard therapy exists.\n* Tumors must harbor the KRas G12V mutation confirmed by the site's local or preferred tissue or ctDNA testing platform in an accredited laboratory.\n* Patients must be HLA-A\\*03:01 positive by central assay.\n* Eastern Cooperative Oncology Group performance status of 0 or 1.\n* Adequate hematological, renal and hepatic function.\n* Per Investigator judgement, patient is willing and able to complete study visits and/or procedures per the protocol and comply with study requirements for study participation.\n\nExclusion Criteria:\n\n* Patients who have received other KRas G12V directed cellular therapies or TCEs.\n* Patients may not be on other anticancer therapies at the time of the first dose of CLSP-5282. Exceptions upon agreement with Sponsor.\n* Any other primary malignancy within the 2 years prior to first dose of study treatment except for non-melanoma skin cancer, carcinoma in situ (e.g., cervix, bladder, breast), or prostate cancer in remission.\n* Patients who have not fully recovered from adverse events due to previous anticancer therapies\n* Patients with active infection requiring systemic antimicrobial therapy\n* Known primary malignant brain tumors, active central nervous system metastases and/or carcinomatous meningitis",
   "enrollment": 140,
   "has_results": false,

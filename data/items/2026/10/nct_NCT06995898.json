@@ -17,7 +17,11 @@
  ],
  "id": "nct:NCT06995898",
  "importance": 0.65,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 24000명이며, 45세에서 75세 사이의 성인이 참여합니다.",
+  "참여자는 2개의 MCD 검사군(Shield, Avantect) 또는 대조군 중 하나로 무작위 배정됩니다.",
+  "연구 참여자는 등록 시점과 1년 후 시점에 혈액을 채취하며, 최대 10년간 추적 관찰합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +45,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06995898"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "Vanguard 연구는 향후 확증적 무작위 대조 임상시험을 앞두고 다중 암 검출(multi-cancer detection, MCD) 검사의 타당성을 평가하기 위한 예비 연구입니다. 혈액 속의 표지자를 측정하여 여러 암을 동시에 선별하는 MCD 검사의 활용 가능성을 탐색합니다. 45세에서 75세 사이의 암이 없는 성인 24000명을 대상으로 3개의 그룹(2개의 MCD 검사군과 1개의 대조군)으로 무작위 배정합니다. 이 연구는 암 선별검사 도구로서 MCD 검사의 수행 가능성을 확인하고 환자와 의사가 검사 결과에 따라 어떤 결정을 내리는지 이해하는 데 도움을 줍니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "The Vanguard Study: Testing a New Way to Screen for Cancer",
- "title_ko": null,
+ "title_ko": "Vanguard 연구: 다중 암 검출(MCD) 검사를 위한 새로운 선별검사 방식 평가",
  "trial": {
   "conditions": [
    "Bladder Carcinoma",
@@ -61,7 +65,7 @@
    "Prostate Carcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 45세에서 75세 사이의 연령\n- 등록 시점 및 등록 후 1년에 MCD 검사를 위한 혈액 샘플 제공 동의\n- 연구 목적의 의무 기록 정보 수집 동의\n- 영어, 스페인어 또는 아랍어로 동의서 및 설문지 작성 이해 및 가능\n\n제외 기준:\n- 지난 5년 이내에 고형 악성 종양 또는 혈액암 진단 이력(치료 여부 무관)\n- 현재 진행 중인 암 진단 평가\n- 임상 진료에서 현재 사용되지 않는 연구용 암 선별 검사 관련 다른 연구에 지속적인 참여\n- 현재 수유 중, 임신 중이거나 향후 1년 내 임신 계획이 있는 경우\n- 고형 장기 또는 조혈모세포 이식 이력이 있거나 지난 30일 이내 수혈을 받은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Ages 45-75 years old\n* Agree to provide blood samples for possible MCD testing at enrollment and at 1 year following enrollment\n* Agree to allow collection of information from their medical records for study-related purposes\n* Understand and be able to complete informed consent and participant questionnaires in English, Spanish, or Arabic\n\n  * Note: Eligibility for Spanish and Arabic languages are at the Hub's discretion\n\nExclusion Criteria:\n\n* Solid malignant tumor or blood cancer diagnosis, with or without treatment, within the last 5 years\n\n  * Note: Persons with a history of in situ cancers (e.g., ductal carcinoma in situ of the breast, cervical cancer in situ, atypical melanocytic hyperplasia or melanoma in situ) or nonmelanoma skin cancer are eligible. Persons with a history of prostate cancer that has not been treated are not eligible, regardless of when the diagnosis occurred\n* Ongoing cancer diagnostic work-up\n* Ongoing participation in another study of an investigational cancer screening test or technology not currently utilized in routine clinical practice\n* Currently breastfeeding or pregnant, or planning to become pregnant in the next year\n* History of solid organ or hematopoietic transplantation at any time, or blood transfusion within the last 30 days",
   "enrollment": 24000,
   "has_results": false,

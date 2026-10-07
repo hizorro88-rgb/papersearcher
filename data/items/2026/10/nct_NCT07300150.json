@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT07300150",
  "importance": 0.68,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 췌장암(Pancreatic Cancer)을 포함한 KRAS 변이 또는 증폭 진행성 고형암입니다.",
+  "중재 약물은 PT0511이며, 대장암 환자 대상으로는 cetuximab과 병용합니다.",
+  "목표 환자 수는 210명이며 국내 4개 기관에서 진행 중인 제1상 임상시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07300150"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 KRAS 변이 또는 증폭이 있는 진행성 고형암 성인 환자를 대상으로 PT0511의 안전성과 내성을 평가합니다. 단독 요법 및 대장암(Colorectal Cancer, CRC) 환자에서 cetuximab(세툭시맙)과의 병용 요법으로 진행됩니다. 최대 허용 용량(MTD) 또는 권장 제2상 용량(RP2D)을 결정하는 것이 목표입니다. 목표 인원은 210명이며 국내 기관 4곳이 참여합니다.",
+ "summary_source": "llm",
  "tags": [
   "KRAS"
  ],
  "title": "A Study of PT0511 in Participants With KRAS Mutated or Amplified Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "KRAS 변이 또는 증폭 진행성 고형암 환자를 위한 PT0511 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -63,7 +67,7 @@
     "phone": "781-819-2949"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세 이상의 남성 또는 여성 - 조직학적 또는 세포학적으로 확진된 진행성 또는 전이성 고형 악성종양 - CLIA 인증 기관에서 확인된 KRAS 변이 또는 야생형 KRAS 증폭 보유 - 이전 1회 이상 4회 이하의 전신 치료를 받았거나, 임상적 이점이 있는 치료에 불내성이거나 부적격한 경우 - 측정 가능한 병변 존재 (RECIST 1.1 기준) - ECOG 수행 능력 상태 0 또는 1 - 마지막 치료제 투여 후 90일까지 피임 동의. 제외 기준: - 활성 뇌 전이 또는 수막암종증 - 최근 2년 이내의 다른 악성종양 병력 (일부 완치된 암 제외) - 이전 항암 치료로 인한 미해결 독성 - 다른 중재적 임상시험 동시 참여 - 첫 투여 전 일정 기간 이내의 항암제 또는 임상시험용 약물 투여 - KRAS/RAS 분해제(degrader) 치료 전력 - 최근 6개월 이내의 유의미한 심혈관 질환 - 7일 이내 항생제가 필요한 활성 감염 - 알려진 HIV, 활성 B형 또는 C형 간염 감염 - 4주 이내의 대수술 - 투여 제품에 대한 과민반응 - 부적절한 혈액, 간, 신장 기능 수치",
   "eligibility_text": "Inclusion Criteria:\n\n* Men or women less than or equal to (\\>=) 18 years of age\n* Histologically or cytologically confirmed advanced or metastatic solid malignancy\n* Participant has a pathologically documented, locally advanced or metastatic malignancy with any KRAS mutation or wild-type (WT) KRAS amplification identified through molecular testing using a Clinical Laboratory Improvement Amendments (CLIA) certified, validated institutional or commercial test\n* Participant must have received at least 1 and no more than 4 prior systemic therapies or be intolerant or ineligible for available therapies known to provide clinical benefit\n* Measurable disease (RECIST 1.1 Criteria)\n* ECOG Performance Status 0 or 1\n* Willingness to avoid pregnancy or fathering children screening through 90 days after the last dose of study treatment\n\nExclusion Criteria:\n\nCancer History\n\n* Active brain metastasis or carcinomatous meningitis. If participants have had brain metastases resected or have received radiation therapy, they may be eligible if: (1) study treatment begins at least 4 weeks from the end of brain-specific therapy, (2) residual neurological symptoms Grade \\<=2, (3) currently on stable doses of corticosteroids, and (4) pre-study brain MRI documents no new/worsening brain lesions\n* History of any other malignancy within the past 2 years, except:\n\n  * Malignancy treated with curative intent and with no known active disease present \\>=2 years before enrolment and felt to be at low risk for recurrence by the investigator\n  * Basal or squamous cell carcinoma of the skin, in situ cervical cancer, early -stage endometrial cancer that has been definitively treated, superficial bladder cancer, Gleason 6/7 treated prostate cancer, and ductal carcinoma in situ or lobular carcinoma in situ of the breast\n\nPrior Cancer Therapy\n\n* Unresolved toxicities from prior anti-cancer therapies. Participants with prior endocrine replacement therapies are eligible for entry even if administered to treat endocrine deficiency due to the prior anti-cancer therapy\n* Concurrent participation in another interventional clinical study.\n* Treatment with anticancer medications or investigational drugs within the following intervals before the first administration of study drug:\n\n  * At least 14 days for chemotherapy or targeted small-molecule therapy\n  * At least 28 days for a prior monoclonal antibody\n  * At least 28 days or 5 half-lives (whichever is longer) for all other investigational study drugs or devices. For drugs with very long half-lives, participants may be allowed to enroll prior to 5 half-lives at the discretion of the investigator in discussion with the medical monitor\n  * Note: Concurrent hormonal therapy for prostate or breast cancer is allowable\n* Prior treatment with a KRAS/RAS degrader\n\nMedical History\n\n* Significant cardiovascular disease within 6 months of starting study therapy\n* Active infection requiring antibiotics within 7 days of study treatment.\n* Known HIV infection with a CD4+ T-cell count \\<200 cells/mcL and/or a detectable viral load per parameters of assay and/or on an anti-retroviral regimen containing a strong or moderate CYP3A4/5 inhibitor or inducer and/or on a new anti-retroviral regimen for less than 28 days prior to the initiation of study treatment\n* Known history of drug-induced liver injury; primary biliary cirrhosis; or ongoing extrahepatic obstruction caused by stones, cirrhosis of the liver, or portal hypertension\n* Major surgery within 4 weeks of the start of study therapy or postoperative complications preventing the participant from adhering to protocol assessments and procedures\n* Known hypersensitivity to any of the products to be administered during dosing\n* Any disease or disorder that, in the opinion of the investigator, may compromise the ability of the participant to provide written informed consent and/or to comply with all required study procedures\n\nMedications\n\n• Part 1a (Dose escalation): Use of a strong or moderate CYP3A4/5 inhibitor or inducer, Use of a strong P-gp inhibitor or inducer\n\nOrgan Function\n\n• Participants with laboratory values indicating inadequate hematology, hepatic, or renal function\n\nDiagnostic Assessments\n\n* Clinically significant abnormalities in rhythm, conduction, or morphology of resting ECG\n* Baseline QT interval corrected for heart rate using Fridericia's formula (QTcF) \\>=470 msec\n* Female participants of childbearing age with a positive urine or serum test within 7 days of study start or confirmation from Ob/Gyn that any positive bHCG test is not representative of an ongoing pregnancy\n* Women who are lactating/breast feeding or who plan to breastfeed while on study through 28 days after receiving the last dose of study drug\n* Active HBV infection. Participants with resolved infection or who are on Stable antiviral therapy are eligible\n* Active HCV infection. Participants who have completed definitive antiviral therapy with post treatment confirmation of eradication are eligible",
   "enrollment": 210,
   "has_results": false,

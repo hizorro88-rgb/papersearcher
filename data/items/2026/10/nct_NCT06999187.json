@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT06999187",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 최대 96명이며, 다기관, 1상(Phase 1a/1b) 용량 증량 및 확장 연구로 진행됩니다.",
+  "대상 질환에는 췌장암(PDAC)을 포함한 국소 진행성 또는 전이성, 재발성 고형암이 포함됩니다.",
+  "초록에 구체적인 치료 효과나 생존기간 등의 수치는 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06999187"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 국소 진행성 또는 전이성, 재발성 또는 불응성 고형암(췌장암 포함) 환자를 대상으로 신약 DR-0202의 안전성과 활성을 평가하는 1상 임상시험입니다. 다기관, 공개, 용량 증량 및 확장, 다회 투여 연구로 진행됩니다. 목표 환자 수는 96명입니다. 초록에 구체적인 효능이나 생존율 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study of DR-0202 in Patients With Locally Advanced or Metastatic, Relapsed or Refractory Carcinomas",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성, 재발성 또는 불응성 암 환자에서 DR-0202 연구",
  "trial": {
   "conditions": [
    "Triple Negative Breast Cancer",
@@ -69,7 +73,7 @@
     "phone": "415-737-5277"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 조직학적으로 확인된 상피암(유방암, 비소세포폐암, 자궁경부암, 전립선암, 췌장암, 두경부암, 자궁내막암, 난소암, 위암/위식도접합부암, 요로상피암)으로 절제 불가능하거나 국소 진행성 또는 전이성인 경우- 최소 2차 이상의 표준 치료 이후 재발 또는 불응성이고 표준 치료 옵션이 없는 경우- 방사선학적으로 측정 가능한 병변이 있는 경우- 미국동부종양학협회(ECOG) 전신 상태 평가 0-1인 경우- 연구자의 판단에 따른 기대 여명이 3개월 이상인 경우- 적절한 골수 예비능, 신장 기능, 간 기능을 가진 경우 제외 기준:- 제1일 전 28일 이내에 대수술을 받은 경우- C1D1 이전에 항암 치료(화학요법, 항체 기반 치료 등)에 대한 적절한 휴지기를 거치지 않은 경우- C1D1 전 21일 이내에 방사선 치료를 받은 경우- 치료되지 않았고 증상이 있거나 스테로이드/항경련제가 필요한 뇌转移가 있는 경우- 조절되지 않는 활성 등급 2 이상의 식욕부진, 오심, 구토 또는 장 폐쇄 징후가 있는 경우- 다른 악성 종양이 있는 경우- 연구 준수에 영향을 미칠 수 있는 유의하고 조절되지 않는 동반 질환이 있는 경우- 뇌졸중, 간질 등 중추신경계 질환의 현재 또는 과거력이 있는 경우- QTcF 간격이 480 msec를 초과하는 경우- 조절되지 않거나 유의한 심혈관 질환이 있는 경우- 고형 장기 이식 병력이 있는 경우- HIV, HBV, HCV 감염이 알려진 경우- 전신 치료가 필요한 활성 감염이 있는 경우- 활동성 임상적 간질성 폐렴이 있는 경우- 연구 해석을 혼동스럽게 할 수 있는 기타 동반 질환이나 정신 질환이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed epithelial cancer of the following tumor types: breast (TNBC, HR+/HER2-/+BC), NSCLC, cervical, CRPC, PDAC, HNSCC, endometrial, ovarian, gastric/GEJ, or urothelial that is unresectable, locally advanced or metastatic\n* Relapsed or refractory with at least 2 prior lines of therapy and for which no standard of care treatment options are available\n* Radiographically measurable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Life expectancy, in the opinion of the Investigator, of ≥ 3 months\n* Adequate marrow reserve, renal function, and hepatic function\n* Taper of ≥ 2 weeks from high-dose systemic corticosteroids (however, low dose corticosteroids ≤ 25 mg prednisone or equivalent daily are permitted in consultation with the Medical Monitor)\n* Willing to provide archival tumor tissue samples or agree to a baseline biopsy if not available\n* Willing to undergo an on-treatment biopsy if clinically feasible and not contraindicated at the time of procedure\n\nExclusion Criteria:\n\n* Major surgery within 28 days prior to Day 1\n* Have not had an appropriate washout period from systemic therapy, including investigational agents, prior to C1D1:\n\n  1. Systemic chemotherapy and anticancer therapies within 4 weeks or 5 half-lives of the drug, whichever is shorter.\n  2. Antibody-based anticancer therapy: ≥ 4 weeks. Note: Treatment with systemic corticosteroids ≤ 25 mg/day (prednisone or equivalent) and inhaled or topical steroids are allowed. For participants with CRPC, LHRH agents are allowed.\n* Radiation therapy within 21 days prior to C1D1. Palliative radiation therapy may be allowed following discussion with Medical Monitor\n* Brain metastases either untreated and symptomatic or requiring therapy with steroids or anticonvulsants to control associated symptoms. Brain metastases that have been treated and are no longer symptomatic are allowed if use of high-dose systemic corticosteroids (\\> 25 mg/day of prednisone or equivalent) is stopped ≥ 12 weeks prior to C1D1.\n* Active Grade ≥ 2 anorexia, nausea or vomiting, and/or signs of intestinal obstruction.\n* Another malignancy (except for adequately resected non-melanoma skin cancer, curatively treated in situ disease, or other solid tumors curatively treated with no evidence of disease for ≥ 1 year)\n* Evidence of significant, uncontrolled concomitant disease that could affect compliance with study.\n* Current or past history of CNS disease, such as stroke, epilepsy, central nervous system vasculitis or neurodegenerative disease (participants with a history of stroke who have not experienced a stroke or transient ischemic attack in the past 6 months and have no residual neurologic deficits may be eligible).\n* QT interval for heart rate using Fridericia's formula (QTcF) \\> 480 msec or history of additional risk factors for Torsades de Pointes\n* Uncontrolled or significant cardiovascular disease\n* History or presence of an abnormal ECG that is clinically significant in the Investigator's opinion or myocardial infarction within 6 months prior to C1D1.\n* Prior solid organ transplantation.\n* Known infection with HIV, HBV, or HCV. The following participants may be enrolled in this study (the Sponsor reserves the right to restrict enrollment of these participants):\n\n  1. Participants who are HIV-positive with undetectable HIV RNA and at least 3 months on antiretroviral therapy.\n  2. Participants with a positive serologic test for HBV (i.e., positive HBcAb and negative HBsAg) and have a negative PCR test.\n  3. Participants who are HCV-positive who have completed at least 1 month of highly effective antiviral therapy and have a negative PCR test.\n* Active infection requiring systemic treatment, defined as requiring IV antimicrobial, antifungal, or antiviral agents within 2 weeks prior to C1D1. Prophylactic antimicrobial treatment is allowed. Infections eligible per Exclusion Criterion 16 may be enrolled.\n* Active clinical interstitial pneumonitis (e.g., shortness of breath, requirement of supplemental oxygen, dry cough) or as confirmed by means of diagnostic imaging within 6 months prior to C1D1.\n* Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations.",
   "enrollment": 96,
   "has_results": false,

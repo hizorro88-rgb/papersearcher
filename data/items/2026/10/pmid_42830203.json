@@ -5,10 +5,11 @@
   "Kumari N"
  ],
  "categories": [
-  "basic"
+  "basic",
+  "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -18,8 +19,10 @@
   }
  ],
  "id": "pmid:42830203",
- "importance": 0.6,
- "key_points_ko": [],
+ "importance": 0.62,
+ "key_points_ko": [
+  "초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1111/jgh.70797",
@@ -41,11 +44,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42830203/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본문은 췌장암(pancreatic cancer)의 번역 후 변형(post-translational modifications)과 그 기전 및 임상 응용에 관한 논평입니다. 초록에 세부 환자 수, 수치, 임상 결과는 명시되지 않았습니다. 추가적인 수치와 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Comment on \"Post-Translational Modifications in Pancreatic Cancer: Mechanisms to Clinical Applications\"",
- "title_ko": null,
+ "title_ko": "췌장암의 번역 후 변형: 기전에서 임상 응용까지에 대한 논평",
  "trial": null,
  "type": "paper"
 }

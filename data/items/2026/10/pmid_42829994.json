@@ -10,10 +10,11 @@
   "Liu Z"
  ],
  "categories": [
+  "drug",
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -23,8 +24,13 @@
   }
  ],
  "id": "pmid:42829994",
- "importance": 0.61,
- "key_points_ko": [],
+ "importance": 0.55,
+ "key_points_ko": [
+  "H-MnO2는 내생적 H2O2를 촉매하여 O2를 생성하고 pH/ROS 이중 반응형으로 48시간 이내에 76.71%의 DOX를 방출했습니다.",
+  "방출된 DOX는 BxPC-3 세포에 의해 흡수되어 세포의 이동과 증식을 억제했습니다.",
+  "생체 내에서 HIF-1α의 하향 조절을 통해 저산소증을 완화하고 세포 사멸을 촉진하여 췌장암 종양 성장을 유의하게 억제했습니다.",
+  "전신 독성은 미미한 수준으로 나타났습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1016/j.bbrc.2026.154632",
@@ -46,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42829994/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장암의 국소 치료를 위해 종양 미세환경(TME) 반응형 주사 가능 나노복합체 하이드로겔(GPPA-Mn@DOX)을 개발했습니다. 이 하이드로겔은 doxorubicin(독소루비신, DOX)을 탑재하고 산소(O2)를 생성하여 약물 방출과 세포 사멸을 유도합니다. BxPC-3 세포 실험에서 DOX가 효율적으로 세포 내로 흡수되어 이동과 증식을 억제했습니다. 생체 내 실험에서는 췌장암 종양 성장을 유의하게 억제하고 저산소증을 완화했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Tumor microenvironment-responsive injectable hydrogels for localized therapy of pancreatic cancer",
- "title_ko": null,
+ "title_ko": "종양 미세환경 반응형 주사 가능 하이드로겔을 이용한 췌장암 국소 치료",
  "trial": null,
  "type": "paper"
 }

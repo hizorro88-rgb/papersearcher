@@ -17,7 +17,12 @@
  ],
  "id": "nct:NCT07646106",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계: 1상(Phase 1)",
+  "목표 환자 수: 30명",
+  "대상 질환: 췌장 선암종을 포함한 고형암 환자",
+  "투여 방식: 21일 주기의 1일 차와 8일 차 정맥(IV) 투여"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07646106"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 다양한 고형암 환자를 대상으로 항암제 THE-0504의 안전성, 내인성, 최대 내성 용량 등을 평가하기 위한 단일 기관, 공개, 용량 증량 1상 임상시험입니다. 대상 질환에는 췌장 선암종(Pancreas Adenocarcinoma)이 포함됩니다. 목표 인원은 30명이며, 정맥 투여 방식으로 진행됩니다. 초록에 유효성 결과나 생존기간 등은 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "THE-0504",
   "Solid tumors",
@@ -54,7 +59,7 @@
   "Europe"
  ],
  "title": "THE-0504 in Patients With Solid Tumors",
- "title_ko": null,
+ "title_ko": "고형암 환자를 대상으로 하는 THE-0504 1상 임상시험",
  "trial": {
   "conditions": [
    "Small Cell Lung Cancer (SCLC)",
@@ -75,7 +80,7 @@
     "phone": "+39 0630157300"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 서면 동의를 완료한 18세 이상의 성인 환자. 2. 고형암 진단 (소세포폐암, 대장암, 췌장 선암종, 위암, 삼중음성유방암 등 선호). 3. 측정 가능한 전이성 질환 또는 국소 진행성 절제 불가능한 종양. 4. 유럽의약품청(EMA) 승인 치료 옵션이 소진된 환자. 5. ECOG 수행 능력 점수 0 또는 1. 6. 적절한 간, 신장, 골수 기능을 갖춘 환자. 제외 기준: 1. 임신 중이거나 수유 중인 여성. 2. 지난 5년 이내에 추가적인 악성 종양 병력. 3. 이전 항암 치료로 인한 2등급 이상의 해결되지 않은 독성. 4. ECOG 수행 능력 점수 2 초과. 5. 이전에 투파1 억제제(Top1 inhibitor) 치료를 견디지 못했던 환자. 6. 중등도 또는 중증 간 장애 환자.",
   "eligibility_text": "Inclusion Criteria:\n\nPatients will be enrolled in the study if they meet all the following criteria:\n\n1. written informed consent obtained;\n2. both gender adult (≥ 18 years) patients;\n3. diagnosis of solid tumor. Preferably, but non-limited, tumor types are the following: Small Cell Lung Cancer (SCLC), Colorectal Carcinoma (CRC), Pancreas Adenocarcinoma (PaAdCa), Gastric Cancer (GC) and Triple Negative Breast Cancer (TNBrCa);\n4. measurable metastatic disease or locally advanced unresectable tumors;\n5. have exhausted all EMA-approved treatment options;\n6. ECOG Performance Status graded as 0 or 1;\n7. patients able to understand the full nature and the purpose of the trial, including possible risks and side effects, able to cooperate with the Investigator and to comply with the requirements of the entire trial (ability to attend all the planned trial visits according to the time limits included) based on Investigator's judgement;\n8. adequate liver function as assessed by following laboratory tests to be conducted within 28 days before the first dose of study treatment:\n\n   * Total bilirubin ≤ 1.5 × ULN (or ≤ 3 X ULN for patients with documented Gilbert-Meulengracht Syndrome, or for patients with hyperbilirubinemia considered due to liver metastasis).\n   * Aspartate transaminase and alanine transaminase ≤ 2.5 × ULN (or ≤ 5 × ULN if due to liver involvement by tumor);\n9. adequate kidney function as assessed by following laboratory test to be conducted within 28 days before the first dose of study treatment:\n\n   • Estimated glomerular filtration rate (eGFR) ≥ 60 mL/min per 1.73 m2 according to the CKD-EPI formula.\n10. adequate bone marrow function as defined as:\n\n    * Hgb ≥ 9 g/dL\n    * ANC ≥1.5x109/L\n    * PLT≥100.0 x109/L\n11. Female patients of childbearing potential and male patients who are sexually active with women of childbearing potential will have to mandatorily use an appropriate method of contraception, according to the definition of Note 3 of ICH M3 Guideline, for the entire duration of the trial and for a minimum of 12 months after last administration of the IMP.\n\nExclusion Criteria:\n\nPatients will not be enrolled if they meet any of the following criteria:\n\n1. pregnant (as determined by a blood pregnancy test at the screening visit) or lactating women;\n2. male patients who are willing to father children during the trial or in the 12 months after the end of IMP administration;\n3. additional malignancy in the last 5 years. Exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or in situ cervical cancer that has undergone potentially curative therapy;\n4. have any unresolved toxicity of Grade ≥ 2 from previous anti-cancer treatment, except for alopecia and skin pigmentation. Patients with chronic, but stable Grade 2 toxicities may be allowed to enrol after agreement between the Investigator and Sponsor;\n5. ECOG Performance Status \\> 2;\n6. had not tolerated previously administered Top1 inhibitor treatments;\n7. known active CNS metastatic disease (patients with CNS metastases that are treated with radiotherapy and are stable for at least 28 days before study treatment start could be considered eligible);\n8. serious concurrent illness;\n9. Hgb \\< 9 g/dL;\n10. Transfusion dependent anemia with transfusion dependency of ≥3 months;\n11. Clinically significant iron metabolism disorders (e.g., sickle cell anemia) or use of iron chelators treatments;\n12. Iron overload, hereditary hemochromatosis and similar;\n13. Moderate (Child-Pugh B) or severe (Child-Pugh C) hepatic impairment;\n14. Prolonged QTc interval;\n15. Multiple Sclerosis (MS) or other demyelinating disease, Eaton-Lambert syndrome, history of haemorrhagic or ischemic stroke within the last 6 months, or alcoholic liver disease;\n16. Non-healing wound(s), except for ulcerative lesions caused by the underlying neoplasm;\n17. History of severe allergic or anaphylactic reactions to previous protein-based therapy;\n18. Currently receiving anticoagulation therapy with warfarin;\n19. Known history of HIV infection, unless all the following are applicable:\n\n    * receiving an approved, stable, effective combination antiretroviral therapy regimen for ≥ 3 months prior to the planned first study intervention;\n    * CD4 T-cell count \\> 350 cells/μL\n    * CD4 T-cell nadir (lowest historical count) \\> 350 cells/μL, and • viral load confirmed as \\< 50 copies/mL.\n20. HBV infection, unless on stable anti-viral therapy for \\> 4 weeks prior to the planned first dose of study intervention and viral load confirmed as undetectable; and HCV infection, unless the participant has received curative treatment and viral load was confirmed as undetectable;\n21. Known autoimmune disease, uncontrolled diabetes, vitiligo, or stable thyroid disease;\n22. Patients on chronic (more than 10 days) administration of systemic, high-dose corticosteroids (≥4 mg Dexamethasone or equivalent), not amenable for reduction or suspension;\n23. Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations;\n24. History of drugs and/or alcohol abuse;\n25. Patients considered to be unsuitable to participate, in the Investigator's opinion, for any other reason (e.g. consequences of previous medical and/or surgical procedures or other medical or ethical reasons);\n26. Planned relocation during the study, which would make impossible to attend the scheduled visits and follow-ups;\n27. Concomitant participation in other clinical trials or participation in the evaluation of any investigational drugs/products up to 4 weeks before this trial (in any case, enrolment procedure should start only after the complete washout of the drugs/products under investigation\\*\\*); or previous participation in the same trial or planned to receive other investigational products during the study.",
   "enrollment": 30,
   "has_results": false,

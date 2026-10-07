@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT07106827",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계는 1상(PHASE1)입니다.",
+  "목표 인원은 10명입니다.",
+  "초기 용량군은 10 mg/kg(3주 간격, Q3W) 및 20 mg/kg(Q3W)입니다.",
+  "췌장관상피내암(Pancreatic Ductal Adenocarcinoma)을 포함한 여러 고형암 환자가 대상에 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07106827"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 진행성 또는 불응성 고형암 환자(췌장관상피내암 환자 포함)를 대상으로 GV20-0251의 안전성을 평가하는 단일군, 단일 기관, 1상 임상시험입니다. 3+3 용량 껑충뛰기 설계 방식을 사용하며, 10 mg/kg과 20 mg/kg 용량군을 평가합니다. 총 목표 인원은 10명입니다.",
+ "summary_source": "llm",
  "tags": [
   "GV20-0251"
  ],
  "title": "A Study of GV20-0251 in Advanced or Refractory Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 또는 불응성 고형암 환자를 대상으로 하는 GV20-0251의 1상 임상시험",
  "trial": {
   "conditions": [
    "HCC - Hepatocellular Carcinoma",
@@ -66,7 +72,7 @@
     "phone": "+8618980600172"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 연구 관련 절차를 진행하기 전에 자발적으로 사전 동의서에 서명한 자\n* 전체 연구 기간 동안 참여할 수 있고 연구 절차를 따를 의지와 능력이 있는 자\n* 만 18세 이상인 자\n* 치료가 필요한 진행성 고형 악성종양으로 조직학적으로 확진되었고 이전에 치료를 받은 경력이 있는 자 (표준 치료에 불응성이거나 불내성이며, 표준 치료를 받았어야 함)\n* 첫 주기 첫날(C1D1) 기준 ECOG 수행 능력 평가 0 또는 1인 자\n* 2년 이상 활성 상태의 제2차 또는 이전 악성종양으로부터 질병이 없는 자\n* 가임 여성 및 남성이 적절한 피임법에 동의한 자\n\n제외 기준:\n* 급성 백혈병 또는 만성 림프성 백혈병(CLL) 환자\n* 심장 질환, 지난 6개월 이내의 심근경색 또는 불안정형 부정맥 환자\n* QTcF 간격이 470 msec를 초과하거나 선천성 장QT 증후군이 있는 자\n* 첫 주기 첫날(C1D1) 기준 7일 이내에 전신 치료가 필요한 활성 감염이 있는 자\n* 활성 자가면역 질환이 있거나 만성 스테로이드/면역억제 치료가 필요한 자\n* 인간면역결핍바이러스(HIV), B형 간염 바이러스(HBV) 또는 C형 간염 바이러스(HCV) 감염이 알려진 자\n* 주요 장기 이식 및/또는 골수 이식 병력이 있는 자\n* 증상이 있는 중추신경계(CNS) 악성종양 또는 전이가 있는 자\n* 임신부 또는 수유 중인 여성\n* 첫 연구 약물 투여 전 28일 이내에 대수술을 받은 자\n* 첫 주기 첫날(C1D1) 전 4주 또는 5반감기 이내에 이전 항암 치료를 받은 자\n* 생물학적 제제에 대한 중증 알레르기 병력이 있는 자\n* 이전 면역항암 치료로 인해 발생한 3등급 이상의 면역관련 이상반응(AE) 병력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Before conducting any study-specific procedures, voluntarily sign an informed consent form.\n* Be able and willing to participate throughout the entire study period and comply with study procedures.\n* participants ≥18 years of age\n* Previously treated, histologically-confirmed advanced solid malignancy with progressive disease requiring therapy (Refractory or intolerant to standard therapies, must have received the standard of care therapy)\n* ECOG performance status of 0 or 1 before C1D1\n* Disease-free of active second/secondary or prior malignancies for ≥ 2 years Laboratory test results within the required parameters\n* Women of childbearing potential (WOCBP) and men must agree to use adequate contraception\n\nExclusion Criteria:\n\n* Participants with acute leukemia or CLL\n* Participant with heart disease, myocardial infarction within the past 6 months, or unstable arrhythmia\n* Fridericia-corrected QT interval (QTcF) \\> 470 msec, or the presence of congenital long QT syndrome, or a history of clinically significant electrocardiogram (ECG) abnormalities (including pericarditis) that, in the investigator's judgment, may affect the subject's safety.\n* Active, uncontrolled bacterial, viral, or fungal infections requiring systemic therapy within 7 days of Cycle 1 Day 1 (C1D1)\n* Participant has active autoimmune disease or other medical conditions requiring chronic systemic steroid or immunosuppressive therapy\n* Known human immunodeficiency virus (HIV) infection, known hepatitis B virus (HBV), or hepatitis C virus (HCV) infection, unless meeting the specific conditions.\n* History of major organ transplant and/or a bone marrow transplant\n* Symptomatic central nervous system (CNS) malignancy or metastasis\n* Serious nonmalignant disease\n* Pregnant or nursing women\n* Major surgery within 28 days prior to the first dose of study medication\n* Prior anticancer therapy within 4 weeks or 5 half-lives (whichever is shorter) before the first dose of GV20-0251 on Cycle 1 Day 1 (C1D1), with the exceptions.\n* History of severe allergic reactions to biologic therapy, which in the investigator's judgment may increase the subject's risk.\n* Radiation therapy for symptomatic lesions within 14 days prior to C1D1 dosing.\n* Active substance abuse\n* Any history of an immune-related ≥ Grade 3 AE attributed to prior cancer immunotherapy",
   "enrollment": 10,
   "has_results": false,

@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT06134960",
  "importance": 0.69,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 위암, 췌장암 등을 포함한 진행성 고형암입니다.",
+  "중재 치료법은 NKG2D/CLDN18.2 CAR-T 세포 치료제인 KD-496입니다.",
+  "임상 1상 단계이며 목표 환자 수는 12명입니다.",
+  "초록에명시되지않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06134960"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 진행성 NKG2DL 및 CLDN18.2 양성 고형암 환자를 대상으로 NKG2D/CLDN18.2 기반 CAR-T 세포 치료제인 KD-496 주입의 안전성과 유효성을 평가하는 단일군, 단일기관, 공개 임상 1상 시험입니다. 위암과 췌장암 환자 등이 우선적으로 등록 대상에 포함됩니다. 목표 환자 수는 12명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "NKG2D/CLDN18.21 CAR-T(KD-496) in the Treatment of Advanced NKG2DL+/CLDN18.2+ Solid Tumor",
- "title_ko": null,
+ "title_ko": "진행성 NKG2DL 및 CLDN18.2 양성 고형암 환자 대상 NKG2D/CLDN18.2 CAR-T(KD-496) 임상 1상 시험",
  "trial": {
   "conditions": [
    "Gastric Cancer",
@@ -65,7 +70,7 @@
     "phone": "13811394004"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n1. 연구를 완전히 이해하고 자발적으로 동의서에 서명한 자.\n2. 18세 이상 75세 이하의 남녀.\n3. 조직병리학 또는 세포학적으로 진행성 고형암 진단을 받고 최소 2차 표준 치료에 실패한 자(위암, 췌장암 등 우선 등록).\n4. 면역조직화학검사(IHC)에서 NKG2DL/CLDN18.2 양성이 확인된 자(점수 합산 5점 이상).\n5. RECIST v1.1 기준에 따른 측정 가능한 병변 보유.\n6. ECOG 신체 상태 점수 0~1.\n7. 예상 생존 기간 3개월 이상.\n8. 말초혈액단핵세포(PBMC) 채취를 위한 말초 정맥 접근성이 확보된 자.\n9. 적절한 골수, 응고, 간, 신장, 폐, 심장 기능을 충족하는 자.\n10. 가임기 남녀는 마지막 투여 후 최소 12개월 및 CAR-T 세포가 검출되지 않을 때까지 피임에 동의한 자.\n\n제외 기준:\n1. HIV 또는 매독 혈청 양성, 활동성 B형 또는 C형 간염 환자.\n2. 조절되지 않는 활동성 감염 환자.\n3. 자가면역질환, 장기 이식, 동종 조혈모세포 이식 병력이 있고 전신 면역억제 치료가 필요한 자.\n4. 조절되지 않는 고혈압 등 심각한 심장 질환 병력이 있는 자.\n5. 치료 후 14일 이상 안정화되지 않은 임상 증상이 있는 뇌 전이 환자.\n6. 임상시험에 영향을 미칠 수 있는 기타 중추신경계 질환 환자.\n7. 혈액암 또는 기타 원발성 악성 고형암을 동반한 자(특 예외 조항 있음).\n8. 불안정하거나 활동성인 소화성 궤양 또는 위장관 출혈 환자.\n9. 성분채집 전 3주 이내에 항종양 치료를 받은 자.\n10. 유전자 조작 T 세포(CAR-T, TCR-T 등) 또는 기타 면역세포 치료를 이전에 받은 자.\n11. 임신 중이거나 수유 중인 여성.\n12. 탈모를 제외하고 이전 항종양 치료로 인한 부작용이 CTCAE 1등급 이하로 회복되지 않은 자.\n13. 등록 전 2주 이내에 생백신을 접종한 자.\n14. 전처치 약물(fludarabine, cyclophosphamide 등) 또는 KD-496 성분에 알레르기가 있는 자.\n15. 기타 연구자가 부적절하다고 판단한 자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Subjects fully understand the study and voluntarily sign informed consent；\n2. Age 18 to 75 years old (including 75 years old), male and female；\n3. Patients diagnosed with advanced solid tumors by histopathology or cytology and failed at least 2 prior lines treatment; preferentially enrolled in gastric cancer, pancreatic cancer, etc. Standard treatment recommendations refer to the latest version of the National Comprehensive Cancer Network (NCCN) guidelines or the Chinese Society of Clinical Oncology (CSCO) guidelines；\n4. Immunohistochemistry confirmed that NKG2DL/CLDN18.2 was positive (the sum of NKG2DL and CLDN18.2 positive scores ≥5 according to the principle of positive comprehensive score 0\\~12 points).Tissue specimens for IHC testing must be obtained within 1 year prior to registration for screening or, if not available, new tissue samples must be obtained from a recently obtained surgery or diagnostic biopsy；\n5. Subjects must have measurable lesions as defined by the RECIST v1.1 standard;\n6. ECOG physical status score 0 to 1;\n7. Estimated life expectancy ≥ 3 months;\n8. Subjects must have adequate peripheral venous access for peripheral blood mononuclear cell (PBMC) collection;\n9. Subjects must meet the following conditions prior to screening precondition. If any of the laboratory tests are abnormal, they can be reviewed within 1 week. If the following conditions are still not met, the screening fails:\n\n1)Absolute neutrophil count ≥1.5×10\\^9/L, platelets ≥90×10\\^9/L, hemoglobin ≥90 g/L (no blood transfusion or erythropoietin within 14 days) 2)Coagulation parameters: INR≤1.5 times upper limit of normal (ULN), APTT≤1.5 ULN; 3)Liver function: total bilirubin ≤1.5 ULN; Serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5 ULN; 4)Renal function: creatinine ≤1.5 ULN or creatinine clearance ≥60ml/min (Cockcroft and Gault formula); 5)Lung function: SaO2≥92%; 6)Cardiac function: Cardiac ejection fraction (LVEF) ≥50% detected by echocardiography or MUGA 1 month before enrollment; 10.Male and female participants of reproductive age agreed to use an approved contraceptive method (e.g., contraceptive pill, barrier device, IUD) for the duration of the study until at least 12 months after the last dose of infusion and two consecutive PCR tests found no CAR T cells.\n\nExclusion Criteria:\n\n1. Serologically positive for HIV or treponema pallidum, or active hepatitis B (HBV DNA ≥500 IU/mL) or hepatitis C (anti-HCV positive with HCV RNA above the lower limit of assay detection)\n2. Any active infection that can't be controlled\n3. Patients have autoimmune diseases, have undergone organ transplantation or allogeneic hematopoietic stem cell transplantation, and require long-term systemic glucocorticoid (local use allowed) or other immunosuppressive therapy;\n4. History of severe heart disease, including poorly controlled hypertension (SBP \\>160mmHg and/or DBP \\>90mmHg), and any of the following conditions that have occurred in the past 6 months: prolonged QT interval syndrome, ECG shows QTc interval \\>470mSEC, congestive heart failure (New York Heart Association grade ≥ III), cardiac angioplasty and stenting, myocardial infarction, unstable angina, severe arrhythmia, or other heart disease assessed by the investigator as unsuitable for enrollment;\n5. Brain metastases with clinical symptoms, except for patients who are stable and asymptomatic lasting at least 14 days after radiotherapy or surgery;\n6. Other central nervous system disorders assessed by the investigator to affect the trial: such as seizures, cerebral ischemia/bleeding, dementia, cerebellar diseases, or diseases affecting the central nervous system;\n7. Complicated with hematologic malignancies or other primary malignant solid tumors, except for the following cases: 1) patients with cervical cancer or breast cancer in situ with no evidence of disease for more than 3 years after radical treatment; 2) Patients who have successfully received definitive in situ tumor resection without evidence of disease for ≥5 years;\n8. Patients with unstable or active peptic ulcer or gastrointestinal bleeding;\n9. Received chemotherapy, molecular targeted therapy, interventional therapy, or other antitumor therapy within 3 weeks before apheresis;\n10. Patients have received treatment with genetically modified T cells (including CAR-T, TCR-T) or other immune cell therapy previously;\n11. Female subjects who are pregnant or breastfeeding;\n12. Patients with AEs induced by previous anti-tumor treatment that have not recovered to Common Terminology Criteria for Adverse Events (CTCAE) ≤1, except for alopecia;\n13. Received any live vaccine within 2 weeks prior to enrollment;\n14. Patients are allergic to precondition drugs (including not limited to fludarabine, cyclophosphamide), allergic to KD-496 injection ingredients (dimethyl sulfoxide, human blood albumin), or have a history of severe allergies (such as anaphylactic shock);\n15. Other conditions that investigators considered unsuitable for inclusion;",
   "enrollment": 12,
   "has_results": false,

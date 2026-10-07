@@ -37,11 +37,18 @@ comments: true
 
 ---
 <a id="pmid-42830587"></a>
-#### [Laparoscopic Spleen-Preserving Distal Pancreatectomy for Mucinous Cystic Neoplasm With Unexpected Immunoglobulin G4-Related Periarteritis of the Splenic Artery: A Case Report](https://pubmed.ncbi.nlm.nih.gov/42830587/)
-`논문` `증례` `수술` `진단·조기발견` · 2026-01-01 · PubMed · Asian J Endosc Surg · 중요도 0.50
+#### [점액성 낭성 종양(MCN)과 예기치 않은 면역글로불린 G4(IgG4) 연관 비장동맥 주위염이 동반된 복강경 비장 보존 원위부 췌장 절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42830587/)
+<small>Laparoscopic Spleen-Preserving Distal Pancreatectomy for Mucinous Cystic Neoplasm With Unexpected Immunoglobulin G4-Related Periarteritis of the Splenic Artery: A Case Report</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-01-01 · PubMed · Asian J Endosc Surg · 중요도 0.50
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830587/) · [DOI](https://doi.org/10.1111/ases.70387) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830587)</small>
+이 논문은 점액성 낭성 종양(MCN) 치료를 위해 복강경 비장 보존 원위부 췌장 절제술(LSPDP)을 받은 76세 여성 환자의 증례를 보고합니다. 수술 전 컴퓨터 단층촬영(CT)에서 비장동맥을 따라 둘레의 연조직 비후가 관찰되었습니다. 수술 중 비장동맥의 심한 벽 비후로 인해 혈관 결찰이나 클립만으로는 안전한 절제가 불가능하여 혈관용 스테이플러를 사용했습니다. 조직병리학적 검사에서 저등급 MCN과 비장동맥을 침범한 IgG4 연관 주위염이 확인되었습니다.
+
+- 76세 여성 환자가 점액성 낭성 종양(MCN)으로 복강경 비장 보존 원위부 췌장 절제술(LSPDP)을 받았습니다.
+- 수술 전 CT에서 비장동맥을 따라 둘레의 연조직 비후가 관찰되었습니다.
+- 면역글로불린 G4(IgG4) 연관 비장동맥 주위염으로 인해 비장동맥 절제 시 혈관용 스테이플러를 사용했습니다.
+- 조직병리학적 검사 결과 저등급 MCN과 IgG4 연관 주위염이 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830587/) · [DOI](https://doi.org/10.1111/ases.70387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830587)</small>
 
 ---

@@ -6,10 +6,12 @@
   "Oruç Demirbağ H"
  ],
  "categories": [
+  "drug",
+  "basic",
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -19,8 +21,13 @@
   }
  ],
  "id": "pmid:42827594",
- "importance": 0.64,
- "key_points_ko": [],
+ "importance": 0.57,
+ "key_points_ko": [
+  "CFPAC-1 세포주에서 비텍신의 IC50 농도는 312 µM로 측정되었습니다.",
+  "MIAPaCa-2 세포주에서 비텍신의 IC50 농도는 약 500 µM로 측정되었습니다.",
+  "비텍신으로 처리된 MIAPaCa-2 세포에서 caspase-3 및 -9 유전자의 높은 발현이 관찰되었습니다.",
+  "초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1007/s10616-026-01079-4",
@@ -42,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42827594/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 식물에서 발견되는 천연 플라보노이드인 비텍신(vitexin)이 췌장관선암(pancreatic ductal adenocarcinoma, PDAC) 세포주인 CFPAC-1 및 MIAPaCa-2에 미치는 항종양 효과를 조사했습니다. 체외(in-vitro) 실험을 통해 세포 독성, 세포 자멸사(apoptosis), 이동 및 전이 억제 잠재력을 분석했습니다. MTT 시험 결과 CFPAC-1 세포의 반수 억제 농도(IC50)는 312 µM, MIAPaCa-2 세포는 약 500 µM로 나타났습니다. 또한 비텍신 처리 후 세포 자멸사 관련 유전자 발현과 세포 이동 억제 효과가 관찰되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Anti-cancer effect of vitexin onto the CFPAC-1 and MIAPaCa-2 pancreatic cancer cells",
- "title_ko": null,
+ "title_ko": "CFPAC-1 및 MIAPaCa-2 췌장암 세포에 대한 비텍신(vitexin)의 항암 효과",
  "trial": null,
  "type": "paper"
 }

@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06821048",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 췌장암을 포함한 CEA 양성 진행성, 전이성, 재발성 고형암입니다.",
+  "중재 방법은 FAST CEA 표적 CAR-T(PTC13)의 복강 내 주입(intraperitoneal infusion)입니다.",
+  "용량은 4단계(2.0×10⁵, 3.0×10⁵, 4.0×10⁵, 5.0×10⁵ CAR+ cells/kg)로 증량하며 3+3 설계로 진행됩니다.",
+  "목표 환자 수는 총 18명에서 36명입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,14 +48,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06821048"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 암항원 CEA(carcinoembryonic antigen)를 표적 하는 CAR-T(chimeric antigen receptor T cell) 치료제인 PTC13의 안전성과 내독성을 평가하기 위한 1상 임상시험입니다. 췌장암을 포함한 CEA 양성 진행성 고형암 환자를 대상으로 복강 내 주입 방식으로 진행됩니다. 최대 내성 용량(maximum tolerated dose)과 2상 권장 용량을 확인하는 것을 목표로 합니다. 총 목표 인원은 약 18명에서 36명입니다.",
+ "summary_source": "llm",
  "tags": [
   "FAST CAR-T",
   "CEA-positive advanced malignant solid tumors"
  ],
  "title": "Study of CEA Targeting CAR-T (PTC13) in the Treatment of CEA-Positive Advanced Malignant Solid Tumors",
- "title_ko": null,
+ "title_ko": "CEA 표적 CAR-T 세포 치료제(PTC13)의 진행성 고형암 환자 대상 임상 1상 시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -70,7 +75,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인.\n- 조직학적 또는 병리학적으로 확진된 진행성, 전이성, 재발성 고형암(대장암, 식도암, 위암, 췌장암, 폐암, 담관암 등).\n- 최소 2차 표준 치료에 실패했거나 효과적인 치료 옵션이 없는 경우.\n- 종양 조직검사에서 CEA 양성(세포막 염색 양성률 10% 이상) 확인 또는 혈청 CEA 10µg/L 초과.\n- RECIST 1.1 기준에 따른 평가 가능한 병변이 최소 1개 이상 존재.\n- ECOG 수행 상태 점수 0~2점.\n\n제외 기준:\n- 임상적으로 증상이 있거나 조절되지 않는 중추신경계 또는 연막 전이.\n- 스크리닝 전 1개월 이내 다른 임상시험 참여.\n- 스크리닝 전 4주 이내 생백신 접종.\n- 스크리닝 전 14일 이내 항암화학요법, 표적치료, 기타 임상시험용 약물 투여.\n- 전신 치료가 필요한 활동성 또는 조절되지 않는 감염.\n- 장폐색, 활동성 위장관 출혈, 중증 위십이지장 궤양 등 위장관 질환.\n- 임신 중이거나 수유 중인 여성.",
   "eligibility_text": "Inclusion Criteria:\n\nSubjects must meet all the following criteria to be eligible for the study:\n\n1. Age≥18 years, regardless of gender.\n2. Diagnosed with advanced, metastatic, or recurrent malignant tumors confirmed by histology or pathology, primarily including colorectal cancer, esophageal cancer, gastric cancer, pancreatic cancer, lung cancer, or cholangiocarcinoma.\n3. Failure of at least second-line standard therapy (due to disease progression or intolerance, such as surgery, chemotherapy, radiotherapy, etc.) or a lack of effective treatment options.\n4. Immunohistochemical staining of tumor samples within 3 months confirming CEA positivity (distinct membrane staining with a positivity rate of≥10%); if the immunohistochemical result of the tumor sample is more than 3 months old at the time of screening (distinct membrane staining with a positivity rate of≥10%), the patient's serum CEA must exceed 10µg/L.\n5. At least one evaluable lesion according to RECIST 1.1 criteria.\n6. ECOG score of 0-2 (Appendix 2).\n7. No severe psychiatric disorders.\n8. Unless specifically stated otherwise, subjects' major organ functions must meet the following conditions:\n\n   1. Blood routine: WBC\\>2.0×109/L, neutrophils\\>0.8×109/L, lymphocytes\\>0.5×109/L, platelets\\>50×109/L, hemoglobin\\>90g/L;\n   2. Cardiac function: Echocardiography indicating a left ventricular ejection fraction≥50%, and no significant abnormalities on electrocardiogram;\n   3. Renal function: Serum creatinine≤2.0×ULN;\n   4. Liver function: ALT and AST ≤3.0×ULN (may be relaxed to≤5.0×ULN if liver tumor infiltration is present);\n   5. Total bilirubin≤2.0×ULN;\n   6. Oxygen saturation\\>92% without supplemental oxygen. 9. Eligible for apheresis or venous blood collection, with no contraindications for cell collection.\n\n      10\\. Subjects agree to use reliable and effective contraceptive methods from signing the informed consent form until 1 year after receiving CAR-T cell infusion (excluding natural family planning methods).\n\n      11\\. The patient or their guardian agree to participate in this clinical trial and signs the ICF, indicating an understanding of the trial's purpose and procedures and willingness to participate.\n\nExclusion Criteria:\n\nSubjects meeting any of the following criteria will be excluded from the study:\n\n1. Clinically symptomatic central nervous system or leptomeningeal metastasis at the time of screening, or other evidence suggesting that central nervous system or leptomeningeal metastases are not controlled, as judged unsuitable for inclusion by the investigator.\n2. Participation in another clinical study within 1 month prior to screening.\n3. Receipt of live attenuated vaccines within 4 weeks prior to screening.\n4. Receipt of the following anti-tumor treatments before screening: Chemotherapy, targeted therapy, or other experimental drug treatments within 14 days or at least 5 half-lives (whichever is shorter).\n5. Presence of active or uncontrolled infections requiring systemic treatment.\n6. Patients with intestinal obstruction, active gastrointestinal bleeding, a history of major gastrointestinal bleeding within 3 months, severe gastroduodenal ulcers, or severe gastrointestinal inflammation such as ulcerative colitis.\n7. Toxicity from previous anti-tumor therapy that has not improved to baseline levels or≤Grade 1, except for alopecia or peripheral neuropathy.\n8. Presence of any of the following cardiac conditions:\n\n   1. New York Heart Association (NYHA) Stage III or IV congestive heart failure;\n   2. Myocardial infarction or coronary artery bypass graft (CABG) within 6 months prior to enrollment;\n   3. Clinically significant ventricular arrhythmia or history of unexplained syncope (excluding vasovagal or dehydration-related causes);\n   4. History of severe non-ischemic cardiomyopathy.\n9. Presence of active autoimmune diseases or other conditions requiring long-term immunosuppressive therapy.\n10. Diagnosis of another untreated malignancy within the past 3 years, except for in situ cervical cancer or basal cell carcinoma of the skin.\n11. Positive for hepatitis B surface antigen (HBsAg) or hepatitis B core antibody (HBcAb) with peripheral blood hepatitis B virus (HBV) DNA levels exceeding the normal range; positive for hepatitis C virus (HCV) antibodies with peripheral blood HCV RNA levels exceeding the normal range; positive for human immunodeficiency virus (HIV) antibodies; or positive syphilis test.\n12. Pregnant or breastfeeding women.\n13. Any other conditions deemed unsuitable for participation in the study by the investigator.",
   "enrollment": 18,
   "has_results": false,

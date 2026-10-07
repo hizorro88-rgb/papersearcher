@@ -9,7 +9,7 @@
   "diagnosis"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -19,8 +19,13 @@
   }
  ],
  "id": "pmid:42832505",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.77,
+ "key_points_ko": [
+  "도말 검사에서 기질 가장자리 침범(EI)은 PDAC 환자의 92.9%(39/42)에서 확인되었습니다.",
+  "조직학적 검사에서 기질 가장자리 침범(EI)은 PDAC 환자의 90.5%(38/42)에서 관찰되었습니다.",
+  "기질 가장자리 침범(EI)은 PDAC 진단에 대해 도말에서 민감도 92.9%와 특이도 92.6%, 조직학에서 민감도 90.5%와 특이도 100.0%를 나타냈습니다.",
+  "양성 대조군(27례)에서는 조직학적으로 기질 가장자리 침범(EI)이 관찰되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1002/cncy.70157",
@@ -42,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42832505/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 SharkCore 세침생검(FNB)을 이용한 췌관선암종(PDAC) 진단에서 기질 가장자리 침범(EI)의 진단적 의의를 평가했습니다. 총 42례의 PDAC와 27례의 양성 대조군을 대상으로 도말 표본과 조직학적 표본을 검토했습니다. 연구 결과, 가장자리 침범(EI)은 PDAC 진단에서 도말 기준 민감도 92.9%와 특이도 92.6%, 조직학 기준 민감도 90.5%와 특이도 100.0%를 보였습니다. 결론적으로 기질 가장자리 침범(EI)은 췌관선암종(PDAC)에 대한 특이적인 진단 단서이며, 특히 저등급 종양의 진단 신뢰도를 향상시킵니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Stromal edge involvement in FNB of pancreatic ductal adenocarcinoma: An important diagnostic clue",
- "title_ko": null,
+ "title_ko": "췌관선암종의 세침생검에서 기질 가장자리 침범: 중요한 진단적 단서",
  "trial": null,
  "type": "paper"
 }

@@ -3,6 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
+  "supportive",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +19,12 @@
  ],
  "id": "nct:NCT04751435",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 445명이며, 췌장암, 유방암, 난소암, 전립선암(또는 대장암) 환자가 참여합니다.",
+  "1단계에서는 환자 의견을 반영하여 다국어 교육 자료와 임상 의사소통 자료를 개발합니다.",
+  "2단계는 LCAM 모델과 표준 치료 모델을 비교하는 무작위 임상시험(RCT)으로 진행됩니다.",
+  "2단계의 주요 평가변수는 유전자 검사 결정 만족도와 유전자 상담 만족도입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04751435"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 다양한 언어적, 문화적 배경을 가진 암 환자를 위해 유전자 검사(genetic testing) 교육 자료를 개발하고 평가하기 위해 진행됩니다. 1단계에서는 환자 인터뷰를 통해 기존 교육 자료를 수정 및 보완합니다. 2단계에서는 유전성 암 다유전자 패널 검사(multigene panel testing, MGPT)를 제공하는 LCAM 모델과 표준 치료(standard-of-care) 모델을 비교하는 무작위 임상시험(RCT)을 수행합니다. 목표 인원은 총 445명이며, 췌장암(pancreatic cancer)을 포함한 여러 암 환자가 참여합니다. 주요 평가변수는 유전자 검사 결정 만족도 및 유전자 상담 만족도입니다.",
+ "summary_source": "llm",
  "tags": [
   "Educational Materials",
   "Genetic Testing",
@@ -52,7 +59,7 @@
   "20-458"
  ],
  "title": "Developing New Educational Materials About Genetic Testing for a Diverse Group of Cancer Patients",
- "title_ko": null,
+ "title_ko": "다양한 암 환자를 위한 유전자 검사 교육 자료 개발 및 임상시험",
  "trial": {
   "conditions": [
    "Educational Materials for Genetic Testing",
@@ -74,7 +81,7 @@
     "phone": "646-888-0039"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준 (Phase 1): - 18세 이상 - 유방암, 난소암, 췌장암, 전립선암의 현재 또는 과거 진단 - 흑인, 라틴계, 또는 비흑인/비라틴계 자가 식별 - 영어, 아이티 크레올어, 스페인어 중 유창성 보유 선정 기준 (Phase 2): - 18세 이상 - 유방암, 대장암, 난소암, 췌장암, 전립선암의 현재 또는 과거 진단 및 각 암종별 세부 기준 충족 (췌장암의 경우 췌장 선암종) - 영어, 아이티 크레올어, 스페인어 중 말하기 유창성 보유 - 암 위험에 대한 이전 유전자 상담이나 생식세포 검사 이력이 없음 제외 기준 (Phase 1 및 Phase 2 공통): - 임상의 또는 동의 취득 전문가의 판단에 따라 의사결정 능력이 손상된 개인 - 언어 유창성이 '전혀 아님' 또는 '잘 못함'인 피검자",
   "eligibility_text": "Inclusion Criteria:\n\nPhase 1\n\n* Age ≥ 18 years as per self-report\n* Current or previous diagnosis of breast, ovarian, pancreatic, or prostate cancer as per self-report\n* Self-identification as Black, Latino, and/or neither Black nor Latino (i.e.,non-Latino, Non black)\n* Fluency in English, Haitian Creole, or Spanish as per self-report (for Spanish, we will attempt to recruit a cohort representing a variety of regions where Spanish is spoken, as informed by current data from participating sites, to achieve neutrality in the language) Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken and reading ability.\n\nPhase 2:\n\n* Age ≥ 18 years as per the medical record and/or clinician referral\n* Current or previous diagnosis of breast, colorectal, ovarian, pancreatic, or prostate cancer meeting at least one of the applicable criteria for the cancer type as per the medical record and/or clinician referral:\n* Breast cancer criteria:\n\n  * any diagnosis age 65 or younger;\n  * diagnosis of triple negative breast cancer at any age;\n  * multiple primary breast cancers at any age;\n  * under consideration for PARP therapy;\n  * any family history (1st, 2nd, or 3rd degree relatives) of ovarian or pancreas cancer, or 1 relative with breast cancer who meets the above criteria, or 2 relatives with breast cancer at any age; or clinician discretion)\n* colorectal cancer\n* Ovarian cancer criteria:\n* invasive ovarian cancer\n* Pancreatic cancer criteria:\n* pancreatic adenocarcinoma\n* Prostate cancer criteria:\n\n  * castrate-resistant, metastatic prostate cancer;\n  * high-risk prostate cancer (pending pathology definition)\n* Fluency in English, Haitian Creole, or Spanish as per self-report. Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken ability\n* No prior cancer genetic counseling or germline testing for cancer risk as per self-report clinician's note, and/or no clinical documentation\n\nExclusion Criteria:\n\nPhase 1:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".\n\nPhase 2:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".",
   "enrollment": 445,
   "has_results": false,

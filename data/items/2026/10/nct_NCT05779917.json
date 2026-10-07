@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT05779917",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 30명의 성인 환자입니다.",
+  "중재 방법은 CAR-T cells (CAR-T 세포)입니다.",
+  "안전성, 내성, 예비 효능을 1상(PHASE1)에서 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05779917"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 메소텔린(Mesothelin)이 발현되는 진행성 췌장암을 포함한 고형암 환자를 대상으로 2세대 메소텔린 표적 CAR-T 세포 치료제의 안전성, 내인성, 그리고 예비 효능을 평가하기 위한 1상 임상시험입니다. 연구에서는 환자로부터 세포를 채취하여 유전자 조작된 CAR-T 세포를 제조한 뒤 환자에게 투여합니다. 치료 효과를 높이기 위해 PD1/PDL1/CTLA4 항체를 병용할 수 있습니다. 목표 환자 수는 30명입니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreas Cancer",
   "CAR-T",
@@ -50,7 +55,7 @@
   "Solid Tumor"
  ],
  "title": "Mesothelin/GPC3/GUCY2C-CAR-T Cells Against Cancers",
- "title_ko": null,
+ "title_ko": "진행성 암 환자를 위한 Mesothelin/GPC3/GUCY2C-CAR-T 세포 치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -70,7 +75,7 @@
     "phone": "+862039195965"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n1. 메소텔린(Mesothelin) 단백질을 발현하는 진행성 암 환자\n2. 기대 여명 12주 초과\n3. 적절한 심장, 폐, 간, 신장 및 혈액 기능\n4. 유세포 분석으로 측정한 메소텔린-CAR 발현율이 20% 이상이고 세포 독성 분석에서 메소텔린 양성 표적에 대한 사멸 능력이 20% 이상인 자가 형질도입 T 세포 확보\n5. 환자 또는 보호자가 설명을 듣고 이해한 뒤 서면 동의서에 서명\n\n제외 기준:\n1. 이전에 유전자 치료를 받은 적이 있는 환자\n2. B형간염(HBV), C형간염(HCV), HIV 등 심각한 바이러스 감염이 있는 환자\n3. HIV 양성 환자\n4. 세균, 바이러스, 곰팡이 등과 관련된 활성 감염성 질환이 있는 환자\n5. 연구자가 부적절하다고 판단하는 기타 심각한 질환\n6. 임산부 또는 수유 중인 여성\n7. 전신 스테로이드 치료를 받는 환자(프레드니솔론 등가 용량 0.5 mg/kg/일 이상)\n8. 연구자가 부적절하다고 판단하는 기타 조건",
   "eligibility_text": "Inclusion Criteria:\n\n1\\. Patients with advanced cancer that expresses Mesothelin protein; 2. Life expectancy \\>12 weeks; 3. Adequate heart, lung, liver, kidney, and blood function; 4. Available autologous transduced T cells with greater than or equal to 20% expression of Mesothelin-CAR determined by flow-cytometry and killing of Mesothelin-positive targets greater than or equal to 20% in cytotoxicity assay; 5. Informed consent explained to, understood by and signed by patient/guardian. Patient/guardian given copy of informed consent.\n\n\\-\n\nExclusion Criteria:\n\n1. Had accepted gene therapy before;\n2. Severe virus infection such as HBV, HCV, HIV, et al;\n3. Known HIV positivity;\n4. Active infectious disease related to bacteria, virus,fungi,et al;\n5. Other severe diseases that the investigators consider not appropriate;\n6. Pregnant or lactating women;\n7. Systemic steroid treatment (greater than or equal to 0.5 mg prednisone equivalent/kg/day);\n8. Other conditions that the investigators consider not appropriate. -",
   "enrollment": 30,
   "has_results": false,

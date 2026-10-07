@@ -8,7 +8,7 @@
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -18,8 +18,11 @@
   }
  ],
  "id": "pmid:42832139",
- "importance": 0.6,
- "key_points_ko": [],
+ "importance": 0.62,
+ "key_points_ko": [
+  "국소 췌장암 치료에서 무진행 생존기간(PFS)과 전체 생존기간(OS)의 관계를 논의했습니다.",
+  "초록에 구체적인 환자 수와 수치 결과는 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1245/s10434-026-20716-y",
@@ -41,11 +44,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42832139/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 논문은 국소 췌장암(localized pancreatic cancer) 환자들을 대상으로 무진행 생존기간(PFS)이 전체 생존기간(OS)을 대체할 수 있는지에 대한 저자의 소견을 다룹니다. 초록에 환자 수나 구체적인 수치는 명시되지 않았습니다. 추가적인 임상적 결과나 효과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "ASO Author Reflections: Can Progression-Free Survival Replace Overall Survival in Localized Pancreatic Cancer?",
- "title_ko": null,
+ "title_ko": "ASO 저자 소견: 국소 췌장암에서 무진행 생존기간이 전체 생존기간을 대체할 수 있는가?",
  "trial": null,
  "type": "paper"
 }

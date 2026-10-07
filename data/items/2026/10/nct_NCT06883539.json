@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT06883539",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "연구 대상: 기존 치료에 불응한 진행성 고형암 환자 24명",
+  "주요 평가 목적: 최대내성용량(MTD) 및 임상 2상 권장용량(RP2D) 결정, 약동학(PK) 평가",
+  "투여 방법: 중심정맥포(Port-A)를 통한 LXP1788 주사제 정맥 투여",
+  "초록에 명시된 구체적인 생존율이나 반응률 수치는 없음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06883539"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 진행성 고형암(solid tumor) 환자를 대상으로 LXP1788 주사제의 최대내성용량(MTD)과 임상 2상 권장용량(RP2D)을 확인하기 위한 최초 인체 대상 1상, 공개, 오픈라벨 연구입니다. 기존 치료에 불응하거나 효과적인 치료법이 없는 환자들을 대상으로 안전성, 내약성, 약동학(pharmacokinetics) 및 예비 항종양 활성을 평가합니다. 목표 환자 수는 24명이며, 중심정맥포(Port-A)를 통해 정맥 투여됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Phase 1",
   "LXP1788",
@@ -57,7 +63,7 @@
   "Tyrosine kinase inhibitor"
  ],
  "title": "A Phase I Study of LXP1788 Injection with Advanced Solid Tumors.",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 하는 LXP1788 주사제의 1상 임상시험",
  "trial": {
   "conditions": [
    "Solid Tumor Malignancies, Cancer",
@@ -82,7 +88,7 @@
     "phone": "+886-4-2320-5691"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 작성한 자\n- 만 18세 이상의 남성 또는 여성\n- 예상 여명 8주 초과\n- 미국동우회암연구그룹(ECOG) 수행능력 평가 0 또는 1\n- 기존 치료에 불응하거나 효과적인 치료법이 없는 조직학적 또는 세포학적으로 확진된 진행성 고형암\n- 고형암 반응평가기준(RECIST) 1.1에 따른 측정 가능한 병변 보유\n- 종양 생검 제공 또는 최근 3년 이내 채취된 조직 검체 보유 의지\n\n제외 기준:\n- 울혈성 심부전, 불안정성 협심증, 최근 6개월 이내 심근경색, 조절되지 않는 고혈압, 최근 6개월 이내 뇌졸중(CVA) 또는 정맥 항생제 치료가 필요한 활동성 감염 등 주요 동반 질환\n- 신경학적으로 불안정하거나 방사선 치료 중이거나 스테로이드 용량을 늘려야 하는 증상이 있는 중추신경계(CNS) 전이 환자\n- 골수 혹은 장기 기능 부전 (절대중성구수 1.5 x 10^9/L 미만, 혈소판 100 x 10^9/L 미만, 혈색소 9 g/dL 미만, 빌리루빈 1.5 x ULN 초과 등)\n- HIV-1 또는 HIV-2 감염 병력\n- 순응도를 해칠 수 있는 정신 질환\n- 첫 투여 전 4주 이내의 주요 수술 이력\n- 탈모, 색소침착 등을 제외하고 NCI-CTCAE v5.0 기준 0 또는 1 등급으로 회복되지 않은 이전 치료의 독성\n- 연구자의 판단에 따라 LXP1788 투여가 위험하거나 독성 해석을 방해할 수 있는 기저 질환\n- 첫 투여 전 28일 또는 반감기의 5배 기간 이내의 다른 임상시험용 약물 또는 항암제 노출\n- 임산부 또는 수유부, 피임에 동의하지 않는 가임기 여성 또는 남성\n- B형간염(HBsAg) 또는 C형간염(HCV 항체 양성 및 HCV RNA 검출) 양성\n- LXP1788 성분에 대한 알레르기 병력",
   "eligibility_text": "Inclusion Criteria:\n\n1. Written (signed) Informed Consent.\n2. Male or female ≥ 18 years old.\n3. Life expectancy \\> 8 weeks.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n5. A histologically or cytologically confirmed, advanced solid tumor that is refractory to currently available therapies or for which no effective treatment is available.\n6. Measurable disease per RECIST 1.1.\n7. Willing to have a tumor biopsy or having tissue sample from a previous biopsy available in the tissue bank for analysis that had been collected in the past 3 years.\n\nExclusion Criteria:\n\n1. Significant concurrent medical diseases, such as congestive heart failure, unstable angina, acute or recent myocardial infarction (\\< 6 months before enrollment), COPD with frequent exacerbations, uncontrolled hypertension (systemic blood pressure \\>= 160 mmHg and/or diastolic blood pressure \\>= 100 mmHg with or without anti-hypertensive medication), recent CVA (\\< 6 months before enrollment), or active infection which requires treatment withintravenous antibiotics.\n2. Patients with symptomatic CNS metastases who are neurologically unstable, receiving radiotherapy for the CNS lesion, or requiring increasing dose of steroids to control their CNS disease.\n\n   Asymptomatic patients with metastatic brain disease who have been on a stable dose of steroids for less than 14 days prior to screening.\n3. Inadequate bone marrow reserve or organ function as demonstrated by any of the following laboratory values:\n\n   Bone marrow:\n   * Absolute neutrophil count (ANC) \\< 1.5 x 10\\^9/L\n   * Platelet count \\< 100 x 10\\^9/L\n   * Hemoglobin \\< 9 g/dL\n   * Having had a blood transfusion within 2 weeks of screening date is also not allowed.\n\n   Hepatic:\n   * Total bilirubin \\> 1.5 x ULN\n   * AST and ALT \\> 3 x ULN if no liver metastases\n   * AST and ALT \\> 5 x ULN in the presence of liver metastases\n\n   Renal:\n\n   ⚫ Estimated creatinine clearance (CrCL) \\< 60 mL/min per the Cockcroft and Gault formula\n4. Known history of human immunodeficiency virus (HIV)-1 or -2 infection.\n5. Psychiatric disorders that would compromise the patient's compliance or ability to give consent.\n6. Major surgical intervention within 4 weeks of the first dose of LXP1788 Injection or with ongoing postoperative complications.\n7. Toxicities from any prior therapy, surgery, or radiotherapy that did not resolve to grade 0 or 1 as per the National Cancer Institute (NCI) - Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0, with the exception of alopecia, skin hyperpigmentation or hypopigmentation.\n8. Underlying medical conditions that, in the investigator's opinion, will make the administration of LXP1788 Injection hazardous or obscure the interpretation of toxicities or adverse events.\n9. Exposure to any other investigational or commercial anti-cancer agents or curative therapies within 28 days or 5 half-lives (whichever is shorter), before the first dose of LXP1788 Injection. Exposure to radiation therapy for non-curative purposes or pain control may be permitted under the judgement of the investigator.\n10. Judgment by the investigator that the patient should not participate in the study because the patient is unlikely to comply with study procedures, restrictions, or requirements.\n11. Pregnancy or breast feeding.\n12. Women or men of childbearing potential not willing to use effective means of contraception.\n13. Positive test for hepatitis B (HBsAg) or hepatitis C (positive HCV antibody with detectable HCV RNA).\n14. History of allergic reactions to any component of LXP1788 Injection.",
   "enrollment": 24,
   "has_results": false,

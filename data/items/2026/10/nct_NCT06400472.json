@@ -2,7 +2,8 @@
  "abstract": "The purpose of this study is to find out whether the study drug, Sofetabart Mipitecan (LY4170156), is safe, tolerable and effective in participants with advanced solid tumors. The study is conducted in three parts - phase Ia (dose-escalation, dose-optimization), phase Ib (dose-expansion), and phase 2 (dose expansion). The study will last up to approximately 5 years.",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -16,7 +17,11 @@
  ],
  "id": "nct:NCT06400472",
  "importance": 0.68,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험의 목표 인원은 575명이며 국내 1곳의 기관이 참여합니다.",
+  "연구는 용량 증가, 용량 최적화, 용량 확대를 포함한 세 단계로 진행됩니다.",
+  "중재 약물에는 Sofe-M을 비롯해 bevacizumab, carboplatin, Itraconazole, pembrolizumab이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06400472"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 진행성 고형암 환자를 대상으로 시험약인 Sofetabart Mipitecan(LY4170156)의 안전성과 내인성, 그리고 유효성을 확인하기 위해 진행됩니다. 연구는 1a상 용량 증가 및 최적화, 1b상 용량 확대, 그리고 2상 용량 확대의 세 부분으로 나누어 진행됩니다. 총 목표 환자 수는 575명이며 국내 1곳의 기관이 참여합니다. 연구 기간은 약 5년까지 소요될 수 있습니다.",
+ "summary_source": "llm",
  "tags": [
   "Folate receptor alpha",
   "NSCLC",
@@ -55,7 +60,7 @@
   "Colorectal cancer"
  ],
  "title": "A Study of Sofe-M in Participants With Selected Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 Sofe-M 연구",
  "trial": {
   "conditions": [
    "Ovarian Neoplasms",
@@ -78,7 +83,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 용량 증가 단계에서 난소암, 자궁내막암, 자궁경부암, 비소세포폐암(NSCLC), 삼중음성유방암(TNBC), 췌장암 또는 대장암(CRC) 중 하나를 진단받은 환자 - 18세 이상 성인 - 제외 기준: - 조절되지 않는 중추신경계(CNS) 전이가 알려졌거나 의심되는 환자 - 암성 수막염 병력이 있는 환자 - 활성 상태의 조절되지 않는 전신 감염이 있는 환자 - 각막 각막병증 증거 또는 각막 이식 병력이 있는 환자 - 이전 치료로 인한 심각한 미해결 독성이 있는 환자 - 유의미한 심혈관 질환이 있는 환자 - QTcF 간격 연장(≥ 470 ms)이 있는 환자 - 폐렴 또는 간질성 폐질환 병력이 있는 환자 - 임신 중이거나 모유 수유 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Have one of the following solid tumor cancers:\n\n  * Dose Escalation: Ovarian (epithelial ovarian, primary peritoneal, and fallopian tube) cancer, endometrial cancer, cervical cancer, non-small cell lung cancer (NSCLC), triple negative breast cancer (TNBC), pancreatic cancer, or colorectal cancer (CRC)\n  * Dose Optimization: Ovarian (epithelial ovarian, primary peritoneal, and fallopian tube) and endometrial cancer\n  * Dose Expansion: Low grade serous ovarian cancer, cervical cancer, NSCLC, TNBC, and high grade endometrioid cancer\n\nExclusion Criteria:\n\n* Individual with known or suspected uncontrolled central nervous system (CNS) metastases\n* Individual with history of carcinomatous meningitis\n* Individual with active uncontrolled systemic bacterial, viral, fungal, or parasitic infection\n* Individual with evidence of corneal keratopathy or history of corneal transplant\n* Any serious unresolved toxicities from prior therapy\n* Significant cardiovascular disease\n* Prolongation of QT interval corrected for heart rate using Fridericia's formula (QTcF) ≥ 470 milliseconds (ms)\n* History of pneumonitis/interstitial lung disease\n* Individuals who are pregnant, breastfeeding or plan to breastfeed during study or within 30 days of last dose of study intervention",
   "enrollment": 575,
   "has_results": false,

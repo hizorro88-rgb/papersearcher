@@ -7,10 +7,11 @@
   "Pylayeva-Gupta Y"
  ],
  "categories": [
-  "basic"
+  "basic",
+  "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -20,8 +21,13 @@
   }
  ],
  "id": "pmid:42835505",
- "importance": 0.63,
- "key_points_ko": [],
+ "importance": 0.57,
+ "key_points_ko": [
+  "종양 내 B세포의 거의 절반이 저산소 상태를 보였습니다.",
+  "저산소증은 CD39+CD73+ 아데노신 생성 B세포의 발현을 유도하여 T세포 활성을 억제했습니다.",
+  "저산소증은 Ebi3 발현 감소를 통해 비장 조절 B세포의 IL-35 생성을 줄였습니다.",
+  "Ebi3의 손실은 저산소증 하에서 CD39 발현을 증가시켰고, 재조합 IL-35는 CD39+CD73+의 유도를 억제했습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.3389/fimmu.2026.1814123",
@@ -43,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42835505/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장관선암종(PDAC)의 종양 미세환경(TME)에서 저산소증이 조절 B세포(Breg)의 표현형에 미치는 영향을 마우스 모델을 통해 조사했습니다. 저산소증은 아데노신을 생성하는 CD39+CD73+ B세포를 증가시켜 T세포 활성을 억제하는 반면, 비장 유래 B세포에서는 IL-35 생성을 감소시키는 것으로 나타났습니다. 연구 결과는 IL-35 경로와 아데노신 경로 간의 상호 조절 작용을 보여주며, 종양 연관 면역 억제를 조절하기 위한 잠재적 치료 표적을 제시합니다. 초록에 환자 수나 구체적인 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Dynamic regulation of hypoxia-associated regulatory CD39+CD73+ and IL35+ B cells in pancreatic cancer",
- "title_ko": null,
+ "title_ko": "췌장암에서 저산소증과 연관된 조절 B세포(CD39+CD73+ 및 IL35+ B세포)의 동적 조절",
  "trial": null,
  "type": "paper"
 }

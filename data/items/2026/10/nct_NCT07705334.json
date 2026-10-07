@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT07705334",
  "importance": 0.69,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계: 1상(Phase 1)",
+  "대상 질환: 췌장암을 포함한 진행성 또는 전이성 고형암",
+  "목표 인원: 30명",
+  "시험 중재(약물): SHY-ONC6"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,14 +48,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07705334"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 또는 전이성 고형암 성인 환자를 대상으로 신규 프로테아좀 억제제인 SHY-ONC6의 안전성과 내약성, 약동학(PK), 그리고 예비 항종양 활성을 평가하기 위한 최초 인체 대상(FIH, first-in-human) 1상 임상시험입니다. 연구는 용량 증량 단계(Phase 1a)와 용량 확장 단계(Phase 1b)의 2가지 부분으로 구성됩니다. 췌장암을 포함한 다양한 고형암 환자를 대상으로 하며, 목표 인원은 30명입니다.",
+ "summary_source": "llm",
  "tags": [
   "Proteasome Inhibitor",
   "Solid Tumors"
  ],
  "title": "A Study of SHY-ONC6, a Novel Proteasome Inhibitor, in Adults With Advanced or Metastatic Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 또는 전이성 고형암 성인 환자를 대상으로 한 신규 프로테아좀 억제제(proteasome inhibitor) SHY-ONC6의 연구",
  "trial": {
   "conditions": [
    "Advanced or Metastatic Solid Tumors",
@@ -77,7 +82,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세 이상의 남성 또는 여성 - 기대 여명 3개월 초과 - ECOG 수행 능력 상태 0-1 - 표준 치료에 실패했거나 불내성인 조직학적으로/세포학적으로 확진된 진행성 또는 전이성 고형암 (췌장암 포함) - RECIST v1.1 기준 측정 가능한 병변 1개 이상 - 생검 가능한 종양 부위 존재 - 적절한 장기 및 골수 기능. 제외 기준: - 고위험 심혈관 질환 - 동시 항암 치료 - 투여 전 2주 이내에 전신 치료가 필요한 활동성 감염 - 2년 이상 관해 상태가 아닌 다른 악성 종양 병력 - 활동성 B형간염, C형간염 또는 HIV 감염 - 6개월 이내의 폐 기능 저하 - 임신 또는 수유 중 - 최근 방사선 치료, 전신 항암 치료, 기타 임상시험용 치료의 적절한 휴지기(washout) 미준수 - 투여 전 4주 이내의 대수술 - 정제 삼키기 불능 또는 위장관 흡수 장애 질환",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female ≥18 years of age.\n* Life expectancy \\>3 months.\n* ECOG performance status 0-1.\n* Histologically/cytologically confirmed advanced or metastatic solid tumors that have progressed on or are intolerant/unsuitable for standard therapies. Eligible tumor types: TNBC, HR+ breast cancer, colon cancer, gastric cancer, HCC, NSCLC (adeno and squamous), mesothelioma, pancreatic cancer, HRPC, soft tissue sarcoma; other tumor types after Medical Monitor discussion. Stable CNS metastases ≥4 weeks post-radiotherapy and off steroids ≥14 days are permitted.\n* ≥1 measurable lesion per RECIST v1.1 (prostate cancer with bone-only disease and elevated PSA assessed by PCWG3).\n* Accessible tumor for biopsy\n* Adequate organ/bone marrow function.\n* Willingness and ability to provide informed consent.\n* Negative serum pregnancy test and use of effective contraception through 90 days after last dose for women of childbearing potential.\n* Male participants must use barrier contraception or abstinence and not donate sperm through 90 days after last dose.\n\nExclusion Criteria:\n\n* High-risk cardiovascular disease.\n* Concurrent anti-cancer treatment.\n* Active infection requiring systemic treatment within 2 weeks pre-dose.\n* History of another malignancy (with standard exceptions for in situ disease, non-melanoma skin cancers, and remission ≥2 years).\n* Active HBV (HBV-DNA \\>ULN), HCV (HCV-RNA \\>ULN), or HIV (well-controlled HIV with CD4 ≥350 cells/µL and undetectable viral load permitted); AIDS-defining opportunistic infection within 12 months.\n* Compromised pulmonary function within 6 months pre-dose .\n* Pregnancy or breastfeeding.\n* Recent radiotherapy, systemic anti-tumor therapy, other investigational therapy without appropriate washout.\n* Major surgery ≤4 weeks pre-dose.\n* Unable to swallow tablets or conditions affecting GI absorption.\n* Any medical or psychiatric disorders affecting compliance and/or interpretation of study results.\n* Persistent toxicities from prior anti-cancer therapy (exceptions apply)\n* Clinically significant corneal disease.\n* Unable to comply with prohibited concomitant medication restrictions.",
   "enrollment": 30,
   "has_results": false,

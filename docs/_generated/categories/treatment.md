@@ -11,7 +11,7 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 334건 · 최근 30일 334건
+전체 341건 · 최근 30일 341건
 
 월별 보기: [2026-10](treatment/2026-10.md)
 
@@ -81,12 +81,18 @@ comments: true
 
 ---
 <a id="pmid-42832418"></a>
-#### [Editorial Note: Cdc7 is a potent anti-cancer target in pancreatic cancer due to abrogation of the DNA origin activation checkpoint](https://pubmed.ncbi.nlm.nih.gov/42832418/)
-`논문` `기타` `치료 전반` · 2026-01-06 · PubMed · Oncotarget · 중요도 0.50
+#### [편집자 주: Cdc7은 DNA 기원 활성화 체크포인트의 무력화로 인해 췌장암에서 강력한 항암 표적입니다](https://pubmed.ncbi.nlm.nih.gov/42832418/)
+<small>Editorial Note: Cdc7 is a potent anti-cancer target in pancreatic cancer due to abrogation of the DNA origin activation checkpoint</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-01-06 · PubMed · Oncotarget · 중요도 0.53
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832418/) · [DOI](https://doi.org/10.18632/oncotarget.28902) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13637950/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832418)</small>
+이 논문은 췌장암에서 Cdc7이 DNA 기원 활성화 체크포인트(DNA origin activation checkpoint)를 무력화함으로써 강력한 항암 표적이 된다는 점을 다루는 편집자 주입니다. 초록에 환자 수, 반응률, 생존기간 등의 구체적인 수치는 명시되지 않았습니다. 초록에 구체적인 임상시험 대상이나 결과는 명시되지 않았습니다. 본문은 Cdc7 억제가 췌장암 치료에서 가지는 잠재적 중요성을 설명합니다.
+
+- Cdc7은 췌장암에서 강력한 항암 표적으로 작용합니다.
+- DNA 기원 활성화 체크포인트의 무력화가 핵심 기전입니다.
+- 구체적인 임상 수치와 환자 대상 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832418/) · [DOI](https://doi.org/10.18632/oncotarget.28902) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13637950/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832418)</small>
 
 ---
 <a id="nct-nct07490301"></a>

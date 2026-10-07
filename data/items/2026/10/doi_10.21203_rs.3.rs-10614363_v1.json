@@ -6,10 +6,12 @@
   "Shu Q."
  ],
  "categories": [
+  "basic",
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -19,8 +21,12 @@
   }
  ],
  "id": "doi:10.21203/rs.3.rs-10614363/v1",
- "importance": 0.57,
- "key_points_ko": [],
+ "importance": 0.5,
+ "key_points_ko": [
+  "총 32개의 예후 관련 미토콘드리아 동역학 유전자 중 7개의 유전자가 최종 예후 시그니처로선택되었습니다.",
+  "구축된 위험 점수는 임상병리학적 변수를 보정한 후에도 독립적인 예후 인자로 확인되었습니다.",
+  "고위험군 종양은 세포 주기 및 운동성 경로 활성화, 면역억제 특성, 그리고 여러 항암제에 대한 낮은 감수성과 연관되었습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.21203/rs.3.rs-10614363/v1",
@@ -42,11 +48,11 @@
   "name": "Europe PMC (preprint)",
   "url": "https://europepmc.org/article/PPR/PPR1333448"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장암(PAAD) 환자의 예후를 예측하기 위해 미토콘드리아 동역학 관련 유전자를 분석했습니다. 다중 머신러닝 알고리즘을 사용하여 7개의 유전자(ALDH3A1, CD36, CKB, FOXM1, IGF2BP3, INS, MET)로 구성된 예후 모델을 구축했습니다. 위험 점수가 높은 환자군은 생존 결과가 불리했으며 암 진행, 면역억제 특성, 항암제 감수성 저하와 연관되었습니다. 이 모델은 예후 분류와 치료 반응 예측을 위한 잠재적 도구를 제공하지만 임상 적용을 위해서는 전향적 검증이 필요합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Construction of a Prognostic Model for Pancreatic Cancer Based on mitochondrial dynamics-Related Genes: Application of Multiple Machine Learning Methods",
- "title_ko": null,
+ "title_ko": "미토콘드리아 동역학 관련 유전자에 기반한 췌장암 예후 모델 구축: 다중 머신러닝 방법의 적용",
  "trial": null,
  "type": "preprint"
 }

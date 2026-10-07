@@ -6,7 +6,9 @@
   "Zaniboni A"
  ],
  "categories": [
+  "drug",
   "treatment",
+  "basic",
   "trial"
  ],
  "entities": [
@@ -23,7 +25,11 @@
  ],
  "id": "pmid:42836673",
  "importance": 0.69,
- "key_points_ko": [],
+ "key_points_ko": [
+  "KRAS 활성화 변이는 췌장관암종(PDAC)의 90% 이상에서 발생합니다.",
+  "이전에 치료받은 전이성 췌장관암종(PDAC) 환자에서 daraxonrasib(다락소나십)은 화학요법 대비 전체 생존기간(OS), 무진행 생존기간(PFS), 객관적 반응률(ORR)을 향상시켰습니다.",
+  "G12C 및 G12D 변이 선택적 억제제와 표적 분해제가 치료 범위를 넓히고 있습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1002/cncr.70640",
@@ -46,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42836673/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 논문은 췌장관암종(PDAC)에서 빈번히 발생하는 KRAS 변이를 표적 하는 치료 전략을 다룹니다. 이전에 치료를 받은 전이성 췌장관암종(PDAC) 환자에게 daraxonrasib(다락소나십)이 화학요법에 비해 생존기간과 반응률을 개선했습니다. G12C 및 G12D 변이 선택적 억제제와 표적 분해제 등이 연구되고 있습니다. 저자들은 RAS 생물학, 분자 검사, 임상 효능 및 독성 데이터, 진행 중인 임상시험을 종합했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Targeting RAS in pancreatic cancer",
- "title_ko": null,
+ "title_ko": "췌장암에서 RAS 표적 치료",
  "trial": null,
  "type": "paper"
 }

@@ -11,7 +11,7 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 358건 · 최근 30일 358건
+전체 385건 · 최근 30일 385건
 
 월별 보기: [2026-10](drug/2026-10.md)
 
@@ -61,6 +61,21 @@ comments: true
 - 간암(HCC)은 림프종 및 위장관암 중 OV 중개 연구의 가장 성숙한 모델로 pexastimogene devacirepvec(Pexa-Vec) 등이 연구되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
+
+---
+<a id="pmid-42832418"></a>
+#### [편집자 주: Cdc7은 DNA 기원 활성화 체크포인트의 무력화로 인해 췌장암에서 강력한 항암 표적입니다](https://pubmed.ncbi.nlm.nih.gov/42832418/)
+<small>Editorial Note: Cdc7 is a potent anti-cancer target in pancreatic cancer due to abrogation of the DNA origin activation checkpoint</small>
+
+`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-01-06 · PubMed · Oncotarget · 중요도 0.53
+
+이 논문은 췌장암에서 Cdc7이 DNA 기원 활성화 체크포인트(DNA origin activation checkpoint)를 무력화함으로써 강력한 항암 표적이 된다는 점을 다루는 편집자 주입니다. 초록에 환자 수, 반응률, 생존기간 등의 구체적인 수치는 명시되지 않았습니다. 초록에 구체적인 임상시험 대상이나 결과는 명시되지 않았습니다. 본문은 Cdc7 억제가 췌장암 치료에서 가지는 잠재적 중요성을 설명합니다.
+
+- Cdc7은 췌장암에서 강력한 항암 표적으로 작용합니다.
+- DNA 기원 활성화 체크포인트의 무력화가 핵심 기전입니다.
+- 구체적인 임상 수치와 환자 대상 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832418/) · [DOI](https://doi.org/10.18632/oncotarget.28902) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13637950/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832418)</small>
 
 ---
 <a id="doi-10.64898-2026.10.02.754697"></a>
@@ -2623,22 +2638,5 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 초록에 효능 및 안전성 결과 수치는 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06951997) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06951997)</small>
-
----
-<a id="nct-nct06962267"></a>
-#### [전이성 췌장암 1차 치료로서 TQB2916 주사제와 젬시타빈 및 알부민 결합 파클리탁셀 병용요법에 대한 임상시험](https://clinicaltrials.gov/study/NCT06962267)
-<small>A Clinical Study on the First-line Treatment of Metastatic Pancreatic Cancer With TQB2916 Injection Combined With Gemcitabine Hydrochloride for Injection and Paclitaxel for Injection (Albumin-bound Type)</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2025-05-08 · ClinicalTrials.gov · Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd. · 중요도 0.80
-
-**NCT06962267** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06962267.md)
-
-이 임상시험은 전이성 췌장암(metastatic pancreatic cancer) 환자 50명을 대상으로 TQB2916 주사제, gemcitabine(젬시타빈), albumin-bound paclitaxel(알부민 결합 파클리탁셀) 병용요법의 유효성과 안전성을 평가합니다. 단일군, 공개 오픈라벨(open-label) 디자인으로 진행됩니다. 현재 환자를 모집 중이며, 단계는 2상(PHASE2)입니다. 초록에 명시되지 않음.
-
-- 목표 환자 수는 50명입니다.
-- 대상 질환은 전이성 췌장암입니다.
-- 중재 방법은 TQB2916 주사제와 항암화학요법(Chemotherapy) 병용입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06962267) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06962267)</small>
 
 ---

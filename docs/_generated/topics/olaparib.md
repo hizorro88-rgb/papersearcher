@@ -18,7 +18,7 @@ comments: true
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [Study of Orally Administered MOMA-313 in Participants With Advanced o…](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
+| [진행성 또는 전이성 고형암 환자를 대상으로 한 경구 투여 MOMA-313 임상시험](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
 | [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 돌연변이 환자를 대상으로 올라파립과 위약을…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
 | [진행성 고형암에서 DNA 손상, 신생혈관신생, PD-L1 억제제에 관한 연구](../trials/NCT03851614.md) | 2상 | 진행 중(모집 종료) | - |
 

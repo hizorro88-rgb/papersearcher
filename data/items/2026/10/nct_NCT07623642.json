@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT07623642",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계: 2상(Phase 2)",
+  "목표 환자 수: 227명",
+  "대상 질환: 췌장관상피암을 포함한 절제 불가능, 국소 진행성 또는 전이성 고형암",
+  "중재 방법: GV20-0251 및 항 PD-1 단일클론항체 병용투여"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07623642"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 표준 치료에 불응하거나 내성이 생긴 절제 불가능, 국소 진행성, 전이성 고형암 환자를 대상으로 GV20-0251과 항 PD-1 단일클론항체(tislelizumab, toripalimab 등) 병용요법의 효과를 평가하는 2상 임상시험입니다. 췌장관상피암(pancreatic ductal adenocarcinoma)을 포함한 다양한 고형암 환자 총 227명을 목표로 진행됩니다. 아직 환자 모집을 시작하지 않았습니다(NOT_YET_RECRUITING).",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Phase II Study of GV20-0251 in Combination With Anti-PD-1 Monoclonal Antibodies in Patients With Unresectable, Locally Advanced, or Metastatic Solid Tumors.",
- "title_ko": null,
+ "title_ko": "절제 불가능하거나 국소 진행성 또는 전이성 고형암 환자를 대상으로 GV20-0251과 항 PD-1 단일클론항체 병용요법을 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Uterine Cervical Neoplasms",
@@ -69,7 +74,7 @@
     "phone": "+8615800557307"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 만 80세 이하의 남녀.\n- 조직학적으로 확정된 절제 불가능, 국소 진행성 또는 전이성 고형암.\n- 표준 치료(SOC) 실패, 내성, 또는 표준 치료 부적합 판정을 받은 경우.\n- 췌장관상피암을 포함한 특정 암종에 해당.\n- ECOG 수행 능력 상태 0~1.\n- 예상 생존 기간 24주 이상.\n\n제외 기준:\n- 3등급 이상의 면역관련 이상반응(irAEs)으로 인해 이전 면역요법을 중단한 경우.\n- 중증 또는 조절되지 않는 심장 질환 보유.\n- 활성 자가면역 질환, HIV 감염, 활성 B형 또는 C형 간염 감염.\n- 증상성 중추신경계(CNS) 악성종양, CNS 전이 또는 연수막 질환.\n- 28일 이내의 주요 수술 또는 심각한 외상력.",
   "eligibility_text": "Inclusion Criteria\n\n1. Voluntarily signed written informed consent (ICF) prior to any study-specific procedures.\n2. Able and willing to participate in and comply with study procedures throughout the study.\n3. Age ≥ 18 and ≤ 80 years, any gender.\n4. Histologically confirmed unresectable, locally advanced, or metastatic solid tumor.\n5. Must have failed standard of care (SOC), be intolerant to SOC, or be deemed by the investigator to be unsuitable for a specific form of SOC. If SOC failure, documented progression from SOC is required.\n6. No more than 2 prior lines of systemic therapy. Subjects with more lines may be enrolled after sponsor approval. Treatment-naive subjects with locally advanced or metastatic melanoma who have not received systemic therapy may enroll.\n7. Tumor types include: endometrial cancer, cervical cancer, ovarian cancer, triple-negative breast cancer, prostate cancer, head and neck squamous cell carcinoma, esophageal squamous cell carcinoma, hepatocellular carcinoma (HCC), biliary tract malignancies (including only intrahepatic cholangiocarcinoma, extrahepatic cholangiocarcinoma, and gallbladder cancer; excluding ampullary carcinoma), pMMR/MSS colorectal adenocarcinoma, pancreatic ductal adenocarcinoma, non-small cell lung cancer (NSCLC), small cell lung cancer, and melanoma (assessed per local institutional standard practice).\n8. For certain tumor types, IGSF8 protein expression on the tumor cell membrane must be positive at pre-screening or screening.\n9. If the subject has received prior anti-PD-1/PD-L1 therapy, documented disease progression during treatment with anti-PD-1/PD-L1 monoclonal antibody (as monotherapy or combined with other checkpoint inhibitors/therapies) is required.\n10. Eligible subjects of childbearing potential (female and male) must agree to use effective contraception (hormonal or barrier method) starting 28 days prior to the first dose of GV20-0251, throughout the treatment period, and for at least 4 months after the last dose.\n11. Must have at least one measurable lesion per RECIST v1.1. Previously irradiated lesions with documented progression may be considered measurable.\n12. Must provide archival tumor tissue collected within 3 years prior to signing the ICF. If archival tissue is \\>3 years old, enrollment requires medical confirmation with the sponsor.\n13. ECOG performance status of 0-1 prior to the first dose on C1D1.\n14. Expected survival ≥ 24 weeks.\n15. No history of other primary malignancies, except: (a) a curatively treated malignancy with no active disease for at least 2 years prior to consent and low risk of subsequent relapse; or (b) curatively treated basal cell or squamous cell carcinoma of the skin, carcinoma in situ of the cervix, or carcinoma in situ of the breast.\n16. Adequate organ, Hepatic, and Coagulation function at screening.\n17. All adverse events related to prior anticancer therapy have resolved to ≤ Grade 1 (per NCI CTCAE v5.0). For persistent Grade 2 toxicities deemed by the investigator unlikely to resolve, eligibility may be discussed with the sponsor.\n18. For HCC or biliary tract malignancy subjects only, as Child-Pugh Class A.\n\nExclusion Criteria\n\n1. Prior immunotherapy discontinued due to ≥ Grade 3 immune-related adverse events (irAEs) - except endocrine disorders manageable with replacement therapy or asymptomatic elevated serum amylase/lipase - Grade 2 myocarditis, or recurrent Grade 2 pneumonitis.\n2. Insufficient washout period from prior systemic anticancer therapy before initiating GV20-0251 and anti-PD-1 therapy (C1D1)\n3. Received radiotherapy within 2 weeks prior to initiating GV20-0251 and anti-PD-1 therapy, or has radiation-related toxicity requiring corticosteroids. For NSCLC subjects: pulmonary radiotherapy \\> 30 Gy within 6 months prior to C1D1.\n4. Currently enrolled in a drug or device clinical trial; or received an investigational device or investigational drug within 4 weeks prior to C1D1.\n5. Diagnosed with immunodeficiency; or currently receiving chronic systemic corticosteroids (\\> 10 mg/day prednisone equivalent) or any other form of immunosuppressive therapy.\n6. History of gastrointestinal perforation and/or fistula within 6 months prior to consent; or active gastric/duodenal ulcer, ulcerative colitis, or other GI conditions the investigator believes may cause bleeding or perforation.\n7. Clinically significant and/or uncontrolled cardiac disease, including NYHA Class III or IV heart failure, uncontrolled hypertension (systolic BP \\> 160 mmHg), clinically significant arrhythmia assessed by the investigator to affect study participation safety, or myocardial infarction within 6 months prior to C1D1.\n8. Severe hypersensitivity reaction (≥ Grade 3) to anti-PD-1 monoclonal antibody and/or any of its excipients; or prior severe hypersensitivity to biologic therapies that the investigator considers may increase subject risk.\n9. Acute leukemia or chronic lymphocytic leukemia (CLL).\n10. QTcF \\> 470 msec, or history of congenital long QT syndrome, or clinically significant ECG abnormalities (including pericarditis) that the investigator considers may affect subject safety.\n11. Active infection requiring systemic treatment; or active, uncontrolled bacterial, viral, or fungal infection requiring systemic treatment within 7 days prior to C1D1.\n12. History of (non-infectious) pneumonitis/interstitial lung disease requiring steroid treatment, or current pneumonitis/interstitial lung disease.\n13. Active autoimmune disease requiring systemic treatment within 2 years prior to C1D1\n14. HIV infection.\n15. Active HBV or HCV infection\n16. Prior major organ transplantation\n17. Prior autologous or allogeneic bone marrow transplantation.\n18. Symptomatic primary CNS malignancy, CNS metastases, or leptomeningeal disease.\n19. Major surgery (excluding diagnostic procedures) or severe trauma within 28 days prior to the first dose of GV20-0251, or currently in recovery that the investigator deems would interfere with the study, or anticipated major surgery during the study.\n20. Received a live or attenuated vaccine within 30 days prior to the first dose.\n21. Requires treatment with interferon-α or related/similar agents within 3 weeks prior to C1D1 or during the entire study period.\n22. Requires more than one paracentesis per 8 weeks to manage ascites; or single ascites drainage volume \\> 1.5 liters within 8 weeks prior to C1D1.\n23. Psychiatric illness or substance abuse disorder (e.g., drug abuse, alcohol dependence) that may interfere with the subject's ability to comply with study requirements.\n24. Other serious non-malignant conditions or laboratory abnormalities that, in the opinion of the investigator and/or sponsor, make the subject unsuitable for the study; or other circumstances that the investigator believes may confound study results or prevent the subject from completing the study.\n25. Additional exclusion criteria that applicable to HCC or biliary tract malignancy subjects.",
   "enrollment": 227,
   "has_results": false,

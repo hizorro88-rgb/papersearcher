@@ -17,7 +17,12 @@
  ],
  "id": "nct:NCT04678648",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 약 134명입니다.",
+  "RSC-1255는 경구 투여하는 소분자 직접 pan-mutant 및 wild-type RAS 억제제입니다.",
+  "연구는 용량 증량(Dose Escalation) 단계와 용량 확장(Dose Expansion) 단계로 나뉩니다.",
+  "환자들은 RSC-1255를 하루 두 번 단독요법 또는 자가포식 억제제인 hydroxychloroquine(HCQ)과 병용하여 투여받습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04678648"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 연구는 진행성 고형 악성종양 환자를 대상으로 경구용 RAS 억제제인 RSC-1255의 안전성과 효과를 평가하는 1상 임상시험입니다. 1상 a단계(용량 증량)에서는 적절한 치료 용량을 확인하고, 1상 b단계(용량 확장)에서는 단독요법 또는 하이드록시클로로퀸(hydroxychloroquine, HCQ) 병용요법으로서의 안전성과 유효성을 조사합니다. 총 목표 환자 수는 134명입니다. 대상 질환에는 RAS 변이를 동반한 진행성 악성 고형 신생물(Advanced Malignant Solid Neoplasm) 등이 포함됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Malignancy",
   "Cancer",
@@ -56,7 +61,7 @@
   "Pancreatic"
  ],
  "title": "A Trial of RSC-1255 for Treatment of Patients With Advanced Malignancies",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 위한 RSC-1255 임상시험",
  "trial": {
   "conditions": [
    "Advanced Malignant Solid Neoplasm",
@@ -73,7 +78,7 @@
     "phone": "310-498-7171"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 병리학적으로 확진된 진행성 또는 전이성 악성종양 환자\n- 기존 표준 치료에 불응성, 진행성, 또는 불내성이 있는 경우\n- 용량 증량 단계에서 방사선 또는 검사로 평가 가능하거나 측정 가능한 종양 보유\n- 적절한 전신 수행 상태(ECOG)\n- 연령 18세 이상\n- 조직학적 유형에 관계없이 문서화된 RAS 변이가 있거나, RAS 변이 유무와 관계없이 교모세포종(glioblastoma)이 있는 경우\n\n제외 기준:\n- 등록 당시 암 치료를 받고 있는 환자\n- 주요 장기계에 영향을 미치는 임상적으로 유의한 질환 또는 상태\n- 중증 심혈관 질환 또는 심전도(ECG) 이상\n- 길베르트 증후군(Gilbert's disease) 병력\n- 대상 암 외에 2년 이내에 발생했거나 현재 진행 중인 다른 악성종양\n- 간헐적 저칼륨혈증\n- 기저 질환으로 인한 1등급 이상의 오심, 구토, 설사",
   "eligibility_text": "Inclusion Criteria (Key Factors):\n\n1. Has pathologically confirmed advanced or metastatic malignancy characterized by one or more of the following:\n\n   * Participant is intolerant of existing therapy(ies) known to provide clinical benefit for their condition\n   * Malignancy is refractory to existing therapy(ies) known to potentially provide clinical benefit\n   * Malignancy has progressed on standard therapy\n2. Has evaluable or measurable tumor(s) in dose-escalation by standard radiological and/or laboratory assessments as applicable to their malignancy.\n3. Has adequate performance status (PS): Eastern Co-operative Oncology Group (ECOG).\n4. Is age ≥ 18 years.\n5. Has either tissue agnostic tumors and documented RAS mutations or with glioblastoma with or without mutation in RAS\n\nExclusion Criteria (Key Factors):\n\n1. Participants receiving cancer therapy at the time of enrollment.\n2. Any clinically significant disease or condition affecting a major organ system.\n3. Significant cardiovascular disease or electrocardiogram (ECG) abnormalities.\n4. Known Gilbert's disease.\n5. Has had a previous (within 2 years) or has a current malignancy other than the target cancer.\n6. Intermittent hypokalemia\n7. Grade 1 or higher nausea, vomiting, diarrhea at baseline due to underlying disease",
   "enrollment": 134,
   "has_results": false,

@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07594067",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 30명입니다.",
+  "KRAS G12V 변이 양성 전이성 췌장 선암 등의 환자를 대상으로 합니다.",
+  "최대 4개의 용량 수준을 평가하는 1상(Phase 1) 임상시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07594067"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 KRAS 변이(KRAS-mutated) 암 환자를 대상으로 TCR1188-ABC 세포(TCR1188-ABC cells)의 안전성, 제조 타당성, 예비 유효성을 평가하는 제1상 공개 용량 탐색 임상시험입니다. 초기에는 KRAS G12V 변이 양성 전이성 췌장 선암(pancreatic adenocarcinoma), 담관암(cholangiocarcinoma), 대장암(colorectal cancer), 비소세포폐암(NSCLC) 환자를 대상으로 합니다. 3+3 용량 증량 설계(dose escalation design)를 사용하여 최대 4개의 총 용량 수준을 평가할 예정이며, 목표 인원은 30명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "TCR1188-ABC Cells in KRAS-mutated Cancers",
- "title_ko": null,
+ "title_ko": "KRAS 변이 암 환자 대상 TCR1188-ABC 세포 치료제 1상 임상시험",
  "trial": {
   "conditions": [
    "Cholangiocarcinoma",
@@ -62,7 +66,7 @@
     "phone": "215-349-8245"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 18세 이상 성인 환자. 2. 조직학적으로 확인된 전이성 췌장 선암, 담관암, 대장암, 비소세포폐암 중 하나에 해당하는 환자. 3. CLIA 인증 실험실에서 확인된 HLA-A*11:01 양성. 4. 차세대 염기서열 분석을 통해 조직, 혈액 또는 혈장에서 확인된 KRAS G12V 변이 양성. 5. 진행성 질환에 대해 표준 치료를 받은 경험이 있는 환자(췌장암 환자는 젬시타빈(gemcitabine) 또는 플루오로우라실(5-FU) 기반 요법 필수). 6. 의사 연구자의 적격성 확인 후 8주 이내에 방사선학적으로 확인 가능한 병변 존재. 7. 적절한 장기 기능을 갖춘 환자. 8. 적절한 조혈모세포 예비능을 갖춘 환자. 9. ECOG 수행 능력 상태 0 또는 1. 10. 서면 동의서 서명.\n\n제외 기준: 1. 활동성 B형 또는 C형 간염 감염. 2. CD4 수치가 350 cells/μL 이하인 HIV 양성 환자를 포함한 심각한 후천성 또는 선천성 면역결핍증. 3. 기타 활동성 및 조절되지 않는 감염. 4. 뉴욕심장협회(NYHA) 분류에 따른 3/4급 심장애. 5. 연구 참여를 방해할 수 있는 심각한 활동성 동반 질환. 6. 2년 이내의 다른 활동성 침습성 암 병력. 7. 임신 중이거나 수유 중인 환자. 8. 전신 스테로이드나 면역억제제 투여가 필요한 환자. 9. 전신 면역억제 치료가 필요한 활동성 자가면역 질환. 10. 6개월 이내의 불안정형 협심증, 심각한 조절 불능 심장 부정맥, 심근경색. 11. 심근염 병력. 12. 스테로이드 치료가 필요한 폐렴 또는 간질성 폐질환. 13. 활동성 또는 치료되지 않은 뇌 전이. 14. 연구 제품 부형제 또는 tocilizumab에 대한 알레르기 또는 과민반응 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients ≥ 18 years of age\n2. Patients with one of the following diagnoses:\n\n   1. Histologically confirmed metastatic pancreatic adenocarcinoma or cholangiocarcinoma\n   2. Histologically confirmed metastatic colorectal cancer\n   3. Histologically confirmed metastatic non-small cell lung cancer\n3. HLA-A\\*11:01 positive as confirmed by a CLIA certified laboratory.\n4. KRAS G12V mutation positive disease as confirmed on tissue, blood, or plasma by next generation sequencing by a CLIA certified laboratory.\n5. Received prior treatment for their primary malignancy as follows:\n\n   1. Pancreatic Cancer/Cholangiocarcinoma Patients: At least one prior line of standard of care therapy for advanced stage disease. For pancreatic cancer patients, this must include a gemcitabine or fluorouracil (5 FU)-based regimen.\n   2. Colorectal Cancer Patients: At least three prior lines of standard of care therapy for advanced stage disease. Prior treatment must include all of the following unless the patient was ineligible for a specific therapy type: i). a fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy regimen, ii). an anti-vascular endothelial growth factor (VEGF) agent, and iii). regorafenib, trifluridine-tipiracil, or fruquintinib. Patients with microsatellite instability-high (MSI-H) disease must also have received, or be ineligible for, prior treatment with an immune checkpoint inhibitor.\n   3. Non-Small Cell Lung Cancer Patients: At least one prior line of standard of care therapy for advanced stage disease.\n6. Evidence of radiographically detectable disease within 8 weeks of physician-investigator confirmation of eligibility.\n7. Adequate organ function within 4 weeks of eligibility confirmation by a physician-investigator defined as:\n\n   1. Serum creatinine ≤ 1.5 mg/dl or creatinine clearance ≥ 50 cc/min per the Cockcroft-Gault Equation; Patient must not be on dialysis.\n   2. ALT/AST ≤ 5 x ULN (patients with liver metastases) or ALT/AST ≤ 2.5 x ULN (patients without liver metastases)\n   3. Total bilirubin ≤ 1.5 mg/dL x ULN, unless the subject has Gilbert's syndrome (if so, direct bilirubin must be ≤ 2.0 mg/dL x ULN)\n   4. Left Ventricle Ejection Fraction (LVEF) ≥ 50% confirmed by ECHO/MUGA\n   5. Must have a minimum level of pulmonary reserve defined as ≤ Grade 1 dyspnea and pulse oxygen \\> 92% on room air\n8. Patients must have adequate hematologic reserve within 4 weeks of eligibility confirmation by a physician-investigator and must not be dependent on transfusions to maintain these hematologic parameters. Adequate hematologic reserve is defined as:\n\n   1. Hemoglobin ≥ 8 g/dL\n   2. Absolute neutrophil count ≥ 1000/μL\n   3. Platelet count ≥ 100,000/μL\n9. ECOG Performance Status that is either 0 or 1.\n10. Signed, written informed consent\n\nExclusion Criteria:\n\n1. Active hepatitis B or hepatitis C infection\n2. Patients with a severe acquired or inherited immunodeficiency, including HIV positive patients with a CD4 count ≤ 350 cells/μL. In order to qualify, HIV positive patients must also be on an established antiretroviral therapy regimen with a viral load of \\<400 copies/mL.\n3. Any other active, uncontrolled infection.\n4. Class III/IV cardiovascular disability according to the New York Heart Association Classification (see Appendix 5).\n5. Severe, active co-morbidity that in the opinion of the physician-investigator would preclude participation in the study.\n6. Active invasive cancer, other than the proposed cancer included in the study, within 2 years prior to eligibility confirmation by a physician-investigator. \\[Note: non-invasive cancers treated with curative intent (e.g., non-melanoma skin cancer) may still be eligible\\].\n7. Pregnant or nursing (lactating) patients. Participants of reproductive potential must agree to use acceptable birth control methods, as described in protocol Section 4.3.\n8. Patients requiring chronic treatment with systemic steroids or immunosuppressant medications. Low-dose physiologic replacement therapy with corticosteroids equivalent to prednisone 10 mg/day or lower, topical steroids and inhaled steroids are acceptable. For additional details regarding use of steroid and immunosuppressant medications, please see Section 5.6.\n9. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to ≥ 10mg daily of prednisone. Patients with autoimmune neurologic diseases (such as MS) will be excluded.\n10. Patients with unstable angina, serious uncontrolled cardiac arrhythmia, and/or myocardial infarction within 6 months of physician-investigator confirmation of eligibility.\n11. Prior history of myocarditis.\n12. Patients with pneumonitis/interstitial lung disease requiring steroid treatment.\n13. Patients with active/untreated brain metastases. \\[Note: History of treated metastases may still be eligible.\\]\n14. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40) or tocilizumab.",
   "enrollment": 30,
   "has_results": false,

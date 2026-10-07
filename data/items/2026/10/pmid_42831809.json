@@ -9,7 +9,8 @@
   "Kolyasnikova NM"
  ],
  "categories": [
-  "basic"
+  "basic",
+  "drug"
  ],
  "entities": [],
  "evidence": "preclinical",
@@ -23,7 +24,12 @@
  ],
  "id": "pmid:42831809",
  "importance": 0.54,
- "key_points_ko": [],
+ "key_points_ko": [
+  "ruxolitinib(JAK1/2 kinase inhibitor) 처리를 통해 YFV 17D와 SINV K1487 바이러스의 감염성 티터가 2~3 자릿수만큼 유의하게 증가했습니다.",
+  "인간 췌장암 세포주인 AsPC-1, BxPC-3, Capan-2가 실험에 사용되었습니다.",
+  "ruxolitinib의 농도는 0.1 μM, 0.5 μM, 1.0 μM, 5.0 μM로 다양하게 적용되었습니다.",
+  "초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.36233/0507-4088-409",
@@ -45,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42831809/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장암(pancreatic cancer, PC)의 저항성을 극복하기 위해 JAK1/2 억제제인 ruxolitinib이 종양용해성 바이러스의 복제에 미치는 영향을 조사했습니다. 바이러스 저항성을 가진 인간 췌장암 세포주인 AsPC-1, BxPC-3, Capan-2를 대상으로 황열병 바이러스(yellow fever virus) 균주인 YFV 17D와 신디스 바이러스(Sindbis virus) 균주인 SINV K1487을 사용했습니다. 연구 결과, ruxolitinib 처리에 따라 감염성 티터(titer)가 용량 의존적으로 2~3 자릿수 증가하는 것이 확인되었습니다. 이는 ruxolitinib과의 병용 요법이 내성을 가진 췌장암 치료의 효과를 향상시킬 수 있음을 시사합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Enhancement of oncolytic flavi- and alphavirus replication in resistant human pancreatic adenocarcinoma cell lines using ruxolitinib",
- "title_ko": null,
+ "title_ko": "ruxolitinib를 이용한 내성 인간 췌장암 세포주에서의 종양용해성 플라비바이러스 및 알파바이러스 복제 증진",
  "trial": null,
  "type": "paper"
 }

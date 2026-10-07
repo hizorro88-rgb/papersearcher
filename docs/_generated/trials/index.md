@@ -41,8 +41,8 @@ comments: true
 | [고등급 췌장 신경내분비종양 환자를 대상으로 한 Lurbinectedin 4 MG Injection [Zepzelca] 2상…](NCT07121478.md) | 2상 | 초대 모집 | Lurbinectedin 4 MG Injection [Zepzelca] | 1곳 | 2025-10-01 |
 | [진행성 고형암 환자를 대상으로 한 PHN-012 연구](NCT07127874.md) | 1상 | 모집 중 | PHN-012 | 6곳 | 2026-09-29 |
 | [BR2021과 BR2021-1 투여 간 약동학적 특성 및 안전성을 비교 평가하기 위한 연구](NCT06867497.md) | 1상 | 모집 중 | BR2021, BR2021-1 | 2곳 | 2025-04-10 |
-| [A Study of Sofe-M in Participants With Selected Advanced Solid Tumors](NCT06400472.md) | 1상 | 모집 중 | Sofe-M, bevacizumab, carboplatin, Itraconazole, pembrolizuma | 1곳 | 2026-09-04 |
-| [A Study of PT0511 in Participants With KRAS Mutated or Amplified Adva…](NCT07300150.md) | 1상 | 모집 중 | PT0511, Cetuximab | 4곳 | 2026-07-06 |
+| [진행성 고형암 환자를 대상으로 한 Sofe-M 연구](NCT06400472.md) | 1상 | 모집 중 | Sofe-M, bevacizumab, carboplatin, Itraconazole, pembrolizuma | 1곳 | 2026-09-04 |
+| [KRAS 변이 또는 증폭 진행성 고형암 환자를 위한 PT0511 임상시험](NCT07300150.md) | 1상 | 모집 중 | PT0511, Cetuximab | 4곳 | 2026-07-06 |
 
 ## 해외에서 모집 중 (360)
 

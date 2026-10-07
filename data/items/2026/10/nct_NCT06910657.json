@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis",
   "treatment"
  ],
@@ -18,7 +19,11 @@
  ],
  "id": "nct:NCT06910657",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 최대 78명이며, 진행성 고형암(췌장암, 대장암, 흑색종, 난소암, 위암 등) 환자가 참여합니다.",
+  "중재 치료는 항종양 용해성 바이러스인 IDOV-Immune의 단일 정맥(IV) 주입입니다.",
+  "주요 평가 목적으로는 안전성과 내성 평가, 최대내성용량(MTD) 및 2상 권장용량(RP2D) 확정이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06910657"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 표준 치료에 반응하지 않는 진행성 고형암 성인 환자를 대상으로 항종양 용해성 바이러스(oncolytic virus) 치료제인 IDOV-Immune의 안전성과 내성을 평가하는 1상 임상시험입니다. IDOV-Immune은 암세포를 선택적으로 감염시켜 파괴하고 면역 반응을 자극하도록 유전자 조작된 백시니아 바이러스(vaccinia virus)입니다. 연구진은 약물의 최고 안전 용량, 체내 동태, 면역 반응 및 종양 축소 효과를 확인하기 위해 최대 78명의 환자를 대상으로 단일 정맥(IV) 주입을 진행합니다. 임상시험은 미국과 호주에서 진행되며, 국내 기관은 없습니다.",
+ "summary_source": "llm",
  "tags": [
   "Oncolytic Virus Therapy",
   "Advanced Solid Tumors",
@@ -53,7 +58,7 @@
   "Vaccinia Virus"
  ],
  "title": "IDOV-Immune for Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 항종양 용해성 백시니아 바이러스 IDOV-Immune의 1상 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -80,7 +85,7 @@
     "phone": "858-886-7718"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- 표준 치료에도 진행되었거나 표준 치료가 없는 조직학적/세포학적으로 확진된 진행성 고형암\n- ECOG 수행 능력 점수 0~1 이하\n- RECIST v1.1 기준 측정 가능한 병변 존재\n- 적절한 장기 및 골수 기능\n- 주요 수술, 이전 면역요법 또는 방사선 치료 후 최소 28일 경과\n- 가임기 여성의 경우 음성 임신 테스트\n- 치료 중 및 치료 후 3개월간 효과적인 피임 동의\n- 동의서 제공 및 연구 요구사항 준수 능력\n\n제외 기준:\n- 이전 용해성 바이러스 치료 이력\n- 10년 이내 활성 또는 최근 백시니아 바이러스 감염, 천연두/원숭이두창 백신 접종력\n- 전신 치료가 필요한 활성 감염\n- B형 간염, C형 간염 또는 HIV 감염 병력 (프로토콜 기준 예외 제외)\n- 이전 치료로 인한 2등급 이상의 해결되지 않은 독성 (탈모나 안정적인 만성 질환 제외)\n- 전신 치료가 필요한 활성 또는 증상성 자가면역 질환\n- 활성 또는 치료되지 않은 중추신경계(CNS) 전이\n- 유의미한 심장 질환 (예: NYHA Class III/IV 심부전)\n- 스테로이드가 필요한 간질성 폐질환 또는 폐렴 병력\n- 만성 면역억제 요법이 필요한 상태\n- 심각한 피부 질환 또는 췌장염 병력\n- 출혈 질환 또는 최근 심각한 혈전embolism 사건 병력\n- 연구 참여를 방해할 수 있는 의학적 또는 정신적 상태",
   "eligibility_text": "Key Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Histologically or cytologically confirmed advanced solid tumors that have progressed despite standard therapy, or for which no standard therapy exists.\n* ECOG performance status ≤ 1.\n* Measurable disease per RECIST v1.1.\n* Adequate organ and bone marrow function.\n* At least 28 days since major surgery, prior immunotherapy, or radiotherapy (with exceptions for minor procedures).\n* Negative pregnancy test for women of childbearing potential.\n* Agreement to use effective contraception during treatment and for 3 months after.\n* Ability to provide informed consent and comply with study requirements.\n\nKey Exclusion Criteria:\n\n* Prior treatment with an oncolytic virus.\n* Active or recent vaccinia virus infection or smallpox/monkeypox vaccination within 10 years.\n* Active uncontrolled infection requiring systemic treatment.\n* History of hepatitis B, hepatitis C, or HIV (unless meeting protocol-specific criteria).\n* Unresolved ≥ Grade 2 toxicities from prior therapies (except hair loss or stable chronic conditions).\n* Active or symptomatic autoimmune disease requiring systemic therapy.\n* Active or untreated CNS metastases (unless stable per protocol).\n* Significant cardiac disease (e.g., NYHA Class III/IV heart failure).\n* Interstitial lung disease or prior pneumonitis requiring steroids.\n* Conditions requiring chronic immunosuppressive therapy.\n* Severe skin disorders or history of pancreatitis.\n* Bleeding disorders or history of recent serious thromboembolic events.\n* Any medical or psychiatric condition that could interfere with study participation.",
   "enrollment": 78,
   "has_results": false,

@@ -17,7 +17,7 @@
  "entities": [
   "whipple"
  ],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -27,8 +27,13 @@
   }
  ],
  "id": "pmid:42834181",
- "importance": 0.68,
- "key_points_ko": [],
+ "importance": 0.75,
+ "key_points_ko": [
+  "총 65,221명의 환자 중 개복 수술(OPD)은 74.5%를 차지했습니다.",
+  "최소침습 췌십이지장절제술(MIPD)은 연간 7.1% 증가하여 2024년 34.9%에 도달했습니다.",
+  "로봇 수술(RPD)은 2010년 1.1%에서 2024년 18.6%로 약 17배 증가했습니다.",
+  "로봇 수술(RPD)은 중앙값 재원일수가 6일로, LPD(7일) 및 OPD(8일)보다 짧았습니다(p<0.001)."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1007/s00464-026-13444-7",
@@ -50,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42834181/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 미국 데이터베이스를 활용하여 2010년부터 2024년까지 췌십이지장절제술(Pancreaticoduodenectomy, PD)에서 최소침습 췌십이지장절제술(MIPD)의 도입 추세와 수술 후 결과를 평가했습니다. 65,221명의 환자를 분석한 결과, 개복 수술(OPD)은 여전히 74.5%로 주를 이뤘으나 MIPD 사용은 연간 7.1% 증가하여 2024년 34.9%에 달했습니다. 특히 복강경 수술(LPD)과 달리 로봇 수술(RPD)이 2010년 1.1%에서 2024년 18.6%로 약 17배 증가하며 성장을 주도했습니다. 매칭 코호트 분석에서 RPD는 중앙값 재원일수가 가장 짧았으며(6일 대 LPD 7일, OPD 8일), 림프구 채취 개수가 약간 더 많았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Adjusted trend analysis in the adoption and outcomes of minimally invasive pancreaticoduodenectomy approaches: over a decade of contemporary U.S. data",
- "title_ko": null,
+ "title_ko": "최소침습 췌십이지장절제술의 도입 및 결과에 대한 보정 추세 분석: 미국에서 지난 10년간의 최신 데이터",
  "trial": null,
  "type": "paper"
 }

@@ -11,8 +11,9 @@
   "Liu Q"
  ],
  "categories": [
-  "drug",
-  "treatment"
+  "treatment",
+  "supportive",
+  "drug"
  ],
  "entities": [
   "daraxonrasib"
@@ -28,7 +29,11 @@
  ],
  "id": "pmid:42827491",
  "importance": 0.53,
- "key_points_ko": [],
+ "key_points_ko": [
+  "환자는 5회에 걸쳐 5×10^9 ~ 10×10^9 세포 용량의 DC-CIK 세포 주입 치료를 완료했습니다.",
+  "치료 과정에서 뚜렷한 이상 반응은 관찰되지 않았습니다.",
+  "전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월을 기록했습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.3389/fimmu.2026.1908017",
@@ -51,11 +56,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42827491/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 논문은 진행성 전이성 선암(adenocarcinoma) 환자에게 자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK cell) 치료를 포함한 다학제적 치료를 시행한 증례를 보고합니다. 73세 남성 환자가 수술 후 골반 전이 및 재발을 겪은 뒤, 다선 화학요법, 방사선 치료와 함께 DC-CIK 세포 주입 치료를 받았습니다. 치료 후 환자는 뚜렷한 부작용 없이 질병 안정 상태를 유지했습니다. 전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월에 달했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Multidisciplinary treatment incorporating autologous DC-CIK cell therapy induces long-term survival in advanced pancreatic cancer: a case report",
- "title_ko": null,
+ "title_ko": "자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK) 치료를 포함한 다학제적 치료가 진행성 췌장암 환자에서 장기 생존을 유도함: 증례 보고",
  "trial": null,
  "type": "paper"
 }

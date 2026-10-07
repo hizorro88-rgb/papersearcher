@@ -11,7 +11,7 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 32건 · 최근 30일 32건
+전체 34건 · 최근 30일 34건
 
 월별 보기: [2026-10](supportive/2026-10.md)
 
@@ -552,12 +552,52 @@ comments: true
 <small>[원문](https://clinicaltrials.gov/study/NCT07072728) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07072728)</small>
 
 ---
+<a id="nct-nct04751435"></a>
+#### [다양한 암 환자를 위한 유전자 검사 교육 자료 개발 및 임상시험](https://clinicaltrials.gov/study/NCT04751435)
+<small>Developing New Educational Materials About Genetic Testing for a Diverse Group of Cancer Patients</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2021-02-12 · ClinicalTrials.gov · Memorial Sloan Kettering Cancer Center · 중요도 0.67
+
+**NCT04751435** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04751435.md)
+
+이 연구는 다양한 언어적, 문화적 배경을 가진 암 환자를 위해 유전자 검사(genetic testing) 교육 자료를 개발하고 평가하기 위해 진행됩니다. 1단계에서는 환자 인터뷰를 통해 기존 교육 자료를 수정 및 보완합니다. 2단계에서는 유전성 암 다유전자 패널 검사(multigene panel testing, MGPT)를 제공하는 LCAM 모델과 표준 치료(standard-of-care) 모델을 비교하는 무작위 임상시험(RCT)을 수행합니다. 목표 인원은 총 445명이며, 췌장암(pancreatic cancer)을 포함한 여러 암 환자가 참여합니다. 주요 평가변수는 유전자 검사 결정 만족도 및 유전자 상담 만족도입니다.
+
+- 목표 인원은 총 445명이며, 췌장암, 유방암, 난소암, 전립선암(또는 대장암) 환자가 참여합니다.
+- 1단계에서는 환자 의견을 반영하여 다국어 교육 자료와 임상 의사소통 자료를 개발합니다.
+- 2단계는 LCAM 모델과 표준 치료 모델을 비교하는 무작위 임상시험(RCT)으로 진행됩니다.
+- 2단계의 주요 평가변수는 유전자 검사 결정 만족도와 유전자 상담 만족도입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04751435) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04751435)</small>
+
+---
 <a id="pmid-42831115"></a>
-#### [A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy](https://pubmed.ncbi.nlm.nih.gov/42831115/)
+#### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
+<small>A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy</small>
+
 `논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-02 · PubMed · Surg Case Rep · 중요도 0.64
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+이 논문은 활동성 폐결핵(pulmonary tuberculosis, TB)을 동반한 81세 남성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 치료 증례입니다. 의료진은 4주간의 항결핵 치료 후, 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel, GnP) 병용 선행화학요법(neoadjuvant chemotherapy)을 시행했습니다. 결핵 재활성화 없이 성공적으로 수술적 절제를 마쳤으며, 항결핵 치료 시작 후 33개월째 생존 상태를 유지했습니다. 초록에 명시된 환자 수는 1명입니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+- 81세 환자에게 발생한 14mm 크기의 췌장두부 종양이 항결핵 치료 기간 동안 21mm로 커졌습니다.
+- 4가지 약물로 4주간 항결핵 치료를 진행한 후 객담 도말 음전(sputum smear conversion)을 확인했습니다.
+- 선행화학요법으로 GnP 6주기를 완료한 후 문맥 절제를 동반한 췌십이지장절제술을 시행했습니다.
+- 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42827491"></a>
+#### [자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK) 치료를 포함한 다학제적 치료가 진행성 췌장암 환자에서 장기 생존을 유도함: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42827491/)
+<small>Multidisciplinary treatment incorporating autologous DC-CIK cell therapy induces long-term survival in advanced pancreatic cancer: a case report</small>
+
+`논문` `증례` `치료 전반` `지지요법·삶의질` `신약·치료제` · 2026-09-18 · PubMed · Front Immunol · 중요도 0.53
+
+본 논문은 진행성 전이성 선암(adenocarcinoma) 환자에게 자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK cell) 치료를 포함한 다학제적 치료를 시행한 증례를 보고합니다. 73세 남성 환자가 수술 후 골반 전이 및 재발을 겪은 뒤, 다선 화학요법, 방사선 치료와 함께 DC-CIK 세포 주입 치료를 받았습니다. 치료 후 환자는 뚜렷한 부작용 없이 질병 안정 상태를 유지했습니다. 전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월에 달했습니다.
+
+- 환자는 5회에 걸쳐 5×10^9 ~ 10×10^9 세포 용량의 DC-CIK 세포 주입 치료를 완료했습니다.
+- 치료 과정에서 뚜렷한 이상 반응은 관찰되지 않았습니다.
+- 전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월을 기록했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827491/) · [DOI](https://doi.org/10.3389/fimmu.2026.1908017) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630756/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827491)</small>
 
 ---

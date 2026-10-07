@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07114939",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 12명의 환자입니다.",
+  "새로운 방사성 추적자 [18F]FluorThanatrace([18F]FTT)를 이용해 PARP-1 발현을 평가합니다.",
+  "전신 PET/CT 스캔을 통해 조영제 섭취를 측정하고 돌연변이 상태와 연관성을 분석합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,14 +47,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07114939"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장 신경내분비 종양(pancreatic neuroendocrine tumors) 환자에서 PARP-1 발현을 평가하기 위한 1상 임상시험입니다. 새로운 PET 영상 조영제인 [18F]FluorThanatrace([18F]FTT)를 사용하여 종양 내 섭취율을 측정하고 분자적 결과를 확인합니다. 총 12명의 환자가 등록하여 전신 PET/CT 스캔을 받게 됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Grade 1, 2 or 3 pancreatic neuroendocrine tumors",
   "신경내분비종양"
  ],
  "title": "FTT PET/CT in Pancreatic Neuroendocrine Tumors",
- "title_ko": null,
+ "title_ko": "췌장 신경내분비 종양에서의 FTT PET/CT",
  "trial": {
   "conditions": [
    "Neuroendocrine Carcinoma Metastatic",
@@ -63,7 +67,7 @@
     "phone": "215-573-6569"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상 환자 - 전이성 또는 절제 불가능한 1등급, 2등급, 3등급 췌장 신경내분비 종양의 임상적 진단 - 임상 영상에서 크기가 1.5 cm 이상인 병변이 최소 1개 이상 존재 - 치료를 받고 있거나 받고 있지 않은 환자 모두 가능 - 다른 연구, 바이오뱅크, 임상 절차를 통해 수집된 종양 조직(신선 냉동 또는 임상 병리 검체) 제공에 동의 - 연구의 시험적 성격에 대해 안내받고 서면 동의를 제공할 의향이 있는 자. 제외 기준: - 모든 질병을 치료하는 간 유도 치료를 받았으나 의무 기록 검토상 아직 질병 진행이 나타나지 않은 환자 - 연구자 또는 주치의의 판단에 따라 영상 검사를 견딜 수 없는 경우 - 임신 중이거나 모유 수유 중인 여성 - 연구자의 판단에 환자의 안전이나 연구 참여를 위협할 수 있는 현재의 의학적 상태, 질병, 장애가 있는 자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients must be ≥ 18 years of age.\n2. Clinical diagnosis of a metastatic or unresectable grade 1, grade 2 or grade 3 (G1/G2/G3) pancreatic neuroendocrine tumor.\n3. Have at least one lesion on clinical imaging (e.g. CT/MRI/PET/CT/ultrasound) that is ≥ 1.5 cm in size.\n4. Patients may be receiving any form of treatment or not be undergoing current treatment.\n5. Willing to consent to use of tumor tissue (fresh frozen and/or clinical pathology specimens) collected as part of another study or biobank collection or clinical procedure.\n6. Must be informed of the investigational nature of this study and be willing to provide written informed consent and participate in this study in accordance with institutional and federal guidelines prior to study-specific procedures.\n\nExclusion Criteria:\n\n1. Patients who have received liver directed therapy that treated all of their disease but whom have not yet had disease progression, per medical record review.\n2. Inability to tolerate imaging procedures in the opinion of an investigator or treating physician.\n3. Females who are pregnant or breastfeeding will not be eligible for this study; a urine pregnancy test will be performed in women of child-bearing potential prior to FTT injection.\n4. Any current medical condition, illness, or disorder as assessed by medical record review and/or self-reported that is considered by a physician investigator to be a condition that could compromise participant safety or successful participating in the study.\n\nOnly individuals (aged 18 or over) who can understand and give informed consent will be approached to participate in this study. Individuals who are considered to be mentally disabled will not be recruited for this study. All subjects must understand and be able to give informed consent. We will not be using specific methods to assess decisional capacity. Economically disadvantaged persons will not be vulnerable to undue influence, as this study offers no compensation. All individuals will be told that their choice regarding study participation will in no way change their access to clinical care. This should negate any undue influence or coercion. Children, fetuses, neonates or prisoners are not included in this research study.",
   "enrollment": 12,
   "has_results": false,

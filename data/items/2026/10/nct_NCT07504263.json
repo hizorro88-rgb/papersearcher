@@ -2,7 +2,8 @@
  "abstract": "Phase 1/2a Study of RP-001 in participants with Advanced Malignancies\n\nAn Open-label, Multicenter, Phase 1/2a Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of RP-001 in Participants with Advanced Malignancies",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -16,7 +17,11 @@
  ],
  "id": "nct:NCT07504263",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 66명입니다.",
+  "제1상에서는 탁산(taxane) 계열 치료 대상 고형암 환자를 평가합니다.",
+  "제2상a에서는 재발성 또는 불응성 췌장암(PDAC) 및 대장암(CRC) 환자를 대상으로 합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,15 +45,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07504263"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 진행성 악성 종양 환자를 대상으로 신약 RP-001의 안전성, 내약성, 약동학 및 예비 항종양 활성을 평가하기 위한 공개, 다기관, 제1/2a상 연구입니다. 췌장암(PDAC), 대장암(CRC) 등 진행성 또는 전이성 암 환자를 대상으로 합니다. 총 목표 인원은 66명이며, 아직 환자 모집을 시작하지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "advanced malignancies",
   "colorectal cancer",
   "pancreatic ductal adenocarcinoma"
  ],
  "title": "Phase 1/2a Study of RP-001 in Participants With Advanced Malignancies",
- "title_ko": null,
+ "title_ko": "진행성 악성 종양 환자를 대상으로 한 RP-001의 제1/2a상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Malignancies",
@@ -64,7 +69,7 @@
     "phone": "+1-317-726-9118"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상의 남성 또는 여성 - RECIST v1.1 기준에 따라 측정 가능한 진행성 또는 전이성 암 환자 - (제1상) 탁산(taxane) 치료 대상인 고형암 환자 - (제2상a) 재발성 또는 불응성 췌장암(PDAC) 또는 대장암(CRC) 환자. 제외 기준: - 첫 투여 전 28일 이내에 전신 항감염 치료가 필요한 활동성 감염 - 불안정형 협심증, 심근경색, 심부전(NYHA Class III/IV), 조절되지 않는 부정맥 등 심혈관 질환 - 황체형성호르몬 방출호르몬(LH-RH) 작용제를 제외한 동시 전신 항암 치료 - 임신부 또는 수유부 - 미치료 중추신경계 전이 또는 암성 수막염 - 연구 참여나 안전성에 영향을 미칠 수 있는 동반 질환 또는 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female participants aged 18 years or older with advanced or metastatic cancer, which must be measurable per RECIST v1.1 and satisfy the following criteria:\n\n  * Phase 1: Participants with solid tumors who are candidates for treatment with a taxane\n  * Phase 2a: Participants with relapsed or refractory PDAC, or CRC.\n\nExclusion Criteria:\n\n* 1\\. Active infection requiring systemic anti-infective therapy within 28 days prior to first dose of RP-001.\n\n  2\\. Cardiovascular disease, including:\n\n  a. Unstable angina; b. symptomatic peripheral arterial vascular disease; c. Myocardial infarction within 6 months prior to RP-001 administration; d. New York Heart Association Class III or IV heart failure; e. Uncontrolled arrythmia; f. ECG abnormality that, in the opinion of the Investigator, increases the risks associated with participating in the trial.\n\n  3\\. Concurrent systemic anti-cancer therapy other than luteinizing hormone-releasing hormone (LH-RH) agonists.\n\n  4\\. Pregnancy, or breastfeeding. 5. Untreated central nervous system metastasis, or carcinomatous meningitis. 6. Any concurrent severe and/or uncontrolled medical or surgical condition which, in the opinion of the Investigator, may compromise the participant's involvement in the trial due to safety, compliance concerns or ability to evaluate response.",
   "enrollment": 66,
   "has_results": false,

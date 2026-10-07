@@ -2,7 +2,8 @@
  "abstract": "This is a Phase 1, open-label, multicenter, study of the safety, tolerability, PK, PD, and anti-tumor activity of MRTX1719 patients with advanced, unresectable or metastatic solid tumor malignancy with homozygous deletion of the MTAP gene.\n\nThis first-in-human clinical trial will begin with an exploration of MRTX1719 dose and regimen. As potentially viable regimens are identified, Phase 1b expansion cohorts may be implemented to ensure sufficient safety experience, PK information, compare food effect and relative bioavailability between capsules and tablets, and early evidence of clinical activity are available.",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -16,7 +17,12 @@
  ],
  "id": "nct:NCT05245500",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 MTAP 유전자 결손이 있는 진행성, 절제 불가능 또는 전이성 고형암이며 췌장암이 포함됩니다.",
+  "중재(치료법)는 MRTX1719입니다.",
+  "목표 환자 수는 336명입니다.",
+  "연령 기준은 18세 이상입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05245500"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 MTAP 유전자 동형 접합 결손이 있는 진행성, 절제 불가능 또는 전이성 고형암 환자를 대상으로 신약 후보물질 MRTX1719의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 항종양 활성을 평가합니다. 췌장암 선암(Pancreatic Adenocarcinoma)을 포함한 다양한 고형암 환자를 대상으로 합니다. 최초의 인체 대상(first-in-human) 임상시험으로 용량 탐색 후 확장 코호트를 진행합니다. 목표 환자 수는 336명입니다.",
+ "summary_source": "llm",
  "tags": [
   "MTAP Deletion",
   "Mesothelioma",
@@ -55,7 +61,7 @@
   "PRMT5"
  ],
  "title": "Phase 1 Study of MRTX1719 in Solid Tumors With MTAP Deletion",
- "title_ko": null,
+ "title_ko": "MTAP 유전자 결손 고형암 환자를 대상으로 하는 MRTX1719 제1상 임상시험",
  "trial": {
   "conditions": [
    "Mesothelioma",
@@ -77,7 +83,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 종양 조직에서 검출된 MTAP 유전자 동형 접합 결손이 있는 고형암 악성 종양의 조직학적 확진- 절제 불가능 또는 전이성 질환- 기저 및 연구 중 약력학적 평가를 위한 필수 생검이 가능한 종양 병변 존재- 18세 이상- 동유럽종양학그룹(ECOG) 신체 상태 평가 0 또는 1- 적절한 장기 기능. 제외 기준:- PRMT5 또는 MAT2A 억제제 치료 이력- 활성 뇌전이 또는 수막 암종증- 연구 치료 첫 투여 전 4주 이내의 유의미한 객혈 또는 출혈 병력- 연구 치료 첫 투여 전 4주 이내의 주요 수술- 장 질환, 염증성 장 질환, 주요 위 수술 또는 약물 흡수를 변화시키거나 경구 약물 삼키기를 불가능하게 할 수 있는 기타 위장관 질환 병력- 심장 이상- 기타 프로토콜에 정의된 선정 및 제외 기준 적용",
   "eligibility_text": "Inclusion Criteria\n\n* Histologically confirmed diagnosis of a solid tumor malignancy with homozygous deletion of the MTAP gene detected in tumor tissue.\n* Unresectable or metastatic disease.\n* Presence of a tumor lesion amenable to mandatory biopsy for pharmacodynamic evaluation at baseline and on-study unless Sponsor-confirmed as medically unsafe or infeasible.\n* Age ≥ 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria\n\n* Prior treatment with a PRMT5 or MAT2A inhibitor therapy.\n* Active brain metastases or carcinomatous meningitis.\n* History of significant hemoptysis or hemorrhage within 4 weeks of the first dose of study treatment.\n* Major surgery within 4 weeks of first dose of study treatment.\n* History of intestinal disease, inflammatory bowel disease, major gastric surgery, or other gastrointestinal conditions (eg, uncontrolled nausea, vomiting, malabsorption syndrome) likely to alter absorption of study treatment or result in inability to swallow oral medications.\n* Cardiac abnormalities.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
   "enrollment": 336,
   "has_results": false,

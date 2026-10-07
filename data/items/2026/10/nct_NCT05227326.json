@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT05227326",
  "importance": 0.64,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 92명이며 다기관에서 진행됩니다.",
+  "AOH1996은 하루 두 번 28일 주기로 경구 투여됩니다.",
+  "1차 목적은 최대 혜택 용량(MTD)과 용량 제한 독성(DLT)을 확인하는 것입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05227326"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 1상 임상시험은 표준 치료에 반응하지 않는 난치성 고형암 환자를 대상으로 신약 AOH1996의 부작용과 최적 용량을 평가합니다. AOH1996은 세포 성장에 필요한 효소를 차단하여 종양 세포의 성장을 멈추게 하는 PCNA 억제제(PCNA inhibitor)입니다. 연구진은 최대 혜택 용량(MTD)과 용량 제한 독성(DLT)을 확인하고 2상 권장 용량을 설정하는 것을 목표로 합니다. 환자들은 AOH1996을 28일 주기로 하루 두 번 경구 복용합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "AOH1996 for the Treatment of Refractory Solid Tumors",
- "title_ko": null,
+ "title_ko": "난치성 고형암 환자를 대상으로 하는 AOH1996 치료 1상 임상시험",
  "trial": {
   "conditions": [
    "Refractory Malignant Solid Neoplasm",
@@ -63,7 +68,7 @@
     "phone": "6262184673"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세 이상의 성인 - ECOG 수행능력 상태 2 이하 - 예상 여명이 3개월 이상 - 표준 치료에 실패했거나 표준 치료를 거부한 고형암 환자 (NSCLC 코호트 예외 규정 있음) - 적절한 장기 기능 및 실험실 수치 충족. 제외 기준: - 식이 보조제 및 한방 보조제 복용 - 다른 임상 시험용 제품이나 항암제 병용 (NSCLC 코호트 제외) - 와파린(warfarin) 복용 - 경구 투여 약물 흡수 장애나 삼키기 어려운 경우 - 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\nInformed Consent and Willingness to Participate\n\n* 1\\. Documented informed consent by the participant\n* 2\\. Willingness to permit study team to obtain and use archival tissue, if already existing\n\nAge Criteria, Performance Status and Life Expectancy\n\n* 3\\. Age: ≥ 18 years\n* 4\\. ECOG performance status ≤ 2\n* 5\\. Life expectancy of \\> 3 months\n\nNature of Illness and Treatment History \\_\\_6. Patients with solid tumors failing standard therapies or patients refusing standard treatments (exception: Part B NSCLC combination (EGFR TKI + AOH1996) cohort: patients with stable disease or better on EGFR TKI for at least 2 months)\n\nContraception\n\n\\_\\_7. Agreement by females and males of childbearing potential\\* to use an adequate method of birth control (hormonal contraception is inadequate) or abstain from heterosexual activity for the course of the study through 30 days after the last dose of study medication. See Appendix B for guidelines.\n\n\\- Childbearing potential defined as not being surgically sterilized (men and women) or have not been free from menses for \\> 1 year (women only).\n\nLaboratory Criteria (to be performed within 14 days prior to Day 1)\n\n* 8\\. ANC ≥ 1,500/mm3\n* 9\\. Platelets ≥ 100,000/mm3 :\n* 10\\. Total serum bilirubin ≤ 1.5 x ULN\n* 11\\. AST =\\< 1.5 x ULN or =\\< 3 x ULN with liver metastases\n* 12\\. ALT =\\< 1.5 x ULN or =\\< 3 x ULN with liver metastases\n* 13\\. Creatinine clearance of ≥ 60 mL/min per 24 hour urine or the Cockcroft-Gault\n* 14\\. Women of childbearing potential (WOCBP): negative urine or serum pregnancy test If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required\n\nExclusion Criteria\n\nConcomitant Medications/Therapies \\_\\_1. Dietary/herbal supplements\n\n* 2\\. Other investigational products or chemotherapy. Exception: EGFR TKI in the NSCLC expansion cohort is allowed.\n* 3\\. Warfarin\n* 4\\. Current or planned use of agents contraindicated for use with strong CYP3A4 inducers\n* 5\\. Strong inhibitors or inducers of CYP2C9\n* 6\\. Strong inhibitors or inducers of CYP3A\n\nOther Illnesses and Conditions\n\n* 7\\. Issues with tolerating oral medication (e.g., inability to swallow pills, malabsorption issues, ongoing nausea or vomiting).\n* 8\\. Women who are or are planning to become pregnant or breastfeed\n* 9\\. Known allergy to any of the components within the study agents and/or their excipients.\n* 10\\. No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for three years.\n* 11\\. Intercurrent or historic medical condition that increases subject risk in the opinion of the Investigator. Eligibility may be revisited for intercurrent medical conditions once resolution/recovery is deemed adequate by the investigator (e.g. recovery from major surgery, completion of treatment for severe infection).\n\nNoncompliance\n\n\\_\\_12. Prospective participants who, in the opinion of the investigator, may not be able to comply with all study procedures (including compliance issues related to feasibility/logistics).\n\n\\*\\*Eligibility should be confirmed per institutional policies.",
   "enrollment": 92,
   "has_results": false,

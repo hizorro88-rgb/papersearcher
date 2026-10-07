@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "diagnosis",
-  "surgery",
-  "treatment"
+  "drug",
+  "treatment",
+  "diagnosis"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06472388",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 100명이며, 두 그룹(5mg 대 10mg)으로 나누어 1:1 무작위 배정합니다.",
+  "에베롤리무스(everolimus) 10mg 투여군은 기존 연구에서 심각한 감염 등의 부작용으로 약 20%가 입원 치료를 받았습니다.",
+  "1상 시험에서 5mg/일 용량으로도 mTOR 경로를 차단해 세포 증식을 억제하기에 충분함이 확인되었습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06472388"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 및 전이성 신경내분비종양(NET) 환자를 대상으로 에베롤리무스(everolimus) 5mg과 10mg의 일일 투여 용량에 따른 효과와 안전성을 비교합니다. 기존 10mg 투여 시 나타나는 심각한 독성을 줄이면서도 5mg 투여가 동등한 항종양 효과를 보이는지 평가하는 무작위 2상 임상시험입니다. 총 100명의 환자를 대상으로 진행하며, 무진행 생존기간(PFS)과 부작용 발생 빈도 등을 비교합니다.",
+ "summary_source": "llm",
  "tags": [
   "신경내분비종양"
  ],
  "title": "Everolimus 5 mg vs 10 mg/Daily for Patients With Neuroendocrine Tumors",
- "title_ko": null,
+ "title_ko": "진행성 신경내분비종양 환자를 대상으로 에베롤리무스(everolimus) 5mg과 10mg의 일일 투여 용량을 비교하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Neuroendocrine Tumors",
@@ -67,7 +71,7 @@
     "phone": "+55112189500"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 위장관, 췌장, 폐 또는 원발 부위 불명의 잘 분화된 1등급/2등급 신경내분비종양(NET)의 조직학적 확진 - 영상으로 측정 가능한 전이성 또는 국소 진행성 절제 불능 질환 - 최근 6개월 이내 RECIST 1.1 기준에 따른 질병 진행 - 최소 한 가지 이상의 이전 전신 치료 경험(3주 이상 중단) - 미국동부암연구협력그룹(ECOG) 성능 상태 0-2 - 양호한 장기 기능(혈색소 > 8 g/dL, 호중구 ≥ 1,500/mm³, 혈소판 > 90,000/mm³, AST/ALT ≤ 2.5 x ULN 또는 간 전이가 있는 경우 ≤ 5 x ULN, 빌리루빈 ≤ 1.5 x ULN, 크레아티닌 < 1.5 mg/dL) \n 제외 기준: - 세포독성 치료가 필요한 공격적인 질환 - 연구자의 판단에 따라 에베롤리무스 치료에 부적합하다고 판단되는 심각하거나 조절되지 않는 동반 질환 - 혼합형 신경내분비-비신경내분비 신생물(MiNEN)",
   "eligibility_text": "Inclusion Criteria:\n\n* Histological confirmation of well-differentiated Grade 1/Grade 2 NET from gastrointestinal, pancreatic, pulmonary or unknown primary sites.\n* Metastatic or locally advanced and unresectable disease, measurable by images\n* Disease progression by RECIST 1.1 in the last 6 months assessed by local investigators\n* At least one previous line of systemic treatment (suspended for more than 3 weeks).\n* Eastern Cooperative Oncology Group (ECOG) 0-2 o Good organ function:\n\n  * Hemoglobin \\> 8 g/dL\n  * Neutrophils ≥ 1,500/mm³\n  * Platelets \\> 90,000/mm³\n  * Aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) ≤ 2.5 x ULN \\[upper limit of normal\\] or ≤ 5 x ULN for patients with liver metastases\n  * Bilirubin ≤ 1.5 x ULN, creatinine \\< 1.5 mg/dL\n\nExclusion Criteria:\n\n* Aggressive disease requiring cytotoxic therapy\n* Severe/uncontrolled comorbid conditions that deem participant unfit for everolimus therapy, as per investigators' judgement.\n* MiNEN",
   "enrollment": 100,
   "has_results": false,

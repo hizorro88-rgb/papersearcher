@@ -95,11 +95,18 @@ comments: true
 ## 타임라인 (1)
 
 <a id="pmid-42831115"></a>
-#### [A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy](https://pubmed.ncbi.nlm.nih.gov/42831115/)
+#### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
+<small>A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy</small>
+
 `논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-02 · PubMed · Surg Case Rep · 중요도 0.64
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+이 논문은 활동성 폐결핵(pulmonary tuberculosis, TB)을 동반한 81세 남성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 치료 증례입니다. 의료진은 4주간의 항결핵 치료 후, 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel, GnP) 병용 선행화학요법(neoadjuvant chemotherapy)을 시행했습니다. 결핵 재활성화 없이 성공적으로 수술적 절제를 마쳤으며, 항결핵 치료 시작 후 33개월째 생존 상태를 유지했습니다. 초록에 명시된 환자 수는 1명입니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+- 81세 환자에게 발생한 14mm 크기의 췌장두부 종양이 항결핵 치료 기간 동안 21mm로 커졌습니다.
+- 4가지 약물로 4주간 항결핵 치료를 진행한 후 객담 도말 음전(sputum smear conversion)을 확인했습니다.
+- 선행화학요법으로 GnP 6주기를 완료한 후 문맥 절제를 동반한 췌십이지장절제술을 시행했습니다.
+- 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
 
 ---

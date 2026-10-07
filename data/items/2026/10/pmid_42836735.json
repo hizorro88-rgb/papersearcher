@@ -8,12 +8,13 @@
  ],
  "categories": [
   "drug",
+  "trial",
   "treatment"
  ],
  "entities": [
   "daraxonrasib"
  ],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -23,8 +24,12 @@
   }
  ],
  "id": "pmid:42836735",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "daraxonrasib(다락소나십)이 적어도 하나의 이전 전신 치료를 받았거나 다중 약물 치료 대상이 아닌 전이성 PDAC 성인 환자를 대상으로 FDA 승인을 받았습니다.",
+  "RAS 직접 표적화는 개념 단계에서 벗어나 임상 적용 현실이 되었습니다.",
+  "현재 3상 임상시험 단계로 진입한 치료법들이 췌장관암(PDAC) 치료 환경을 변화시킬 것으로 기대됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1158/1078-0432.CCR-25-4177",
@@ -46,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42836735/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "췌장관암(Pancreatic ductal adenocarcinoma, PDAC)은 치료가 어려운 악성종양으로 오랫동안 신약의 무덤으로 여겨졌습니다. 전신 치료를 최소 한 번 받았거나 다중 약물 전신 치료 대상이 아닌 전이성 PDAC 성인 환자를 대상으로 daraxonrasib(다락소나십)이 미국 식품의약국(FDA) 승인을 받으며 RAS 직접 표적이 현실화되었습니다. 이 논문은 RAS 표적 치료 시대의 서막을 열고 3상 임상시험으로 진입한 주요 치료법들을 조명합니다. 현재 진행 중인 임상시험들은 이러한 전략이 지속적인 생존 기간 연장으로 이어질지 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Pancreatic Cancer KRAS Breakthrough: Drug Graveyard No More",
- "title_ko": null,
+ "title_ko": "췌장암 KRAS 돌파구: 더 이상 신약의 무덤이 아닌 치료제 개발",
  "trial": null,
  "type": "paper"
 }

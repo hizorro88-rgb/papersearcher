@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT07752875",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "TP53 Y220C 변이가 있는 진행성 고형암 환자 250명을 대상으로 합니다.",
+  "1상에서는 안전성 평가와 함께 최대 허용 용량 및 권장 2상 용량을 결정합니다.",
+  "2상에서는 선정된 용량에서의 항종양 활성과 안전성을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07752875"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 TP53 Y220C 변이가 있는 진행성 고형암(advanced solid malignancies) 환자를 대상으로 신약 LG00313112의 안전성, 내약성, 약동학(pharmacokinetics), 약력학(pharmacodynamics) 및 효능을 평가하는 최초 인간 대상(first-in-human) 1상 및 2상 연구입니다. 1상에서는 생물학적 활성 용량 범위, 최대 허용 용량(MTD), 권장 2상 용량(RP2D)을 결정합니다. 2상에서는 1상 결과를 바탕으로 선택된 용량에서 항종양 활성과 안전성을 평가합니다. 전체 목표 환자 수는 250명입니다.",
+ "summary_source": "llm",
  "tags": [
   "Solid Tumor, TP53 Y220C Mutation"
  ],
  "title": "A Study of LG00313112 in Participants With Advanced Solid Malignancies Harboring a TP53 Y220C Mutation",
- "title_ko": null,
+ "title_ko": "TP53 Y220C 변이가 있는 진행성 고형암 환자를 대상으로 한 LG00313112의 연구",
  "trial": {
   "conditions": [
    "Ovarian Cancer",
@@ -62,7 +67,7 @@
    "Locally Advanced Unresectable or Metastatic Solid Tumor"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 18세 이상의 남녀. 2. TP53 Y220C 변이가 있는 국소 진행성 절제 불가능 또는 전이성 고형암 진단. 3. 최근 치료 중 또는 치료 후 질병 진행이 확인되었으며 표준 치료에 불응성 또는 불내성이거나 표준 치료가 없는 경우. 4. RECIST v1.1에 따른 측정 가능한 병변. 5. 미국동부종양학협회(ECOG) 전신 상태 평가 0-1. 6. 적절한 장기 기능. 제외 기준: 1. 연구용 치료제 또는 항암 치료를 첫 투여 전 21일 또는 5반감기 이내에 받은 경우. 2. 방사선 치료를 첫 투여 전 14일 이내에 받은 경우. 3. 알려진 뇌 전이(단, 신경학적으로 안정된 경우는 허용), 연수막 질환 또는 암성 수막염. 4. 조절되지 않는 흉수, 심낭수 또는 복수. 5. 등록 전 6개월 이내의 심근경색 또는 불안정형 협심증 병력, 또는 임상적으로 유의한 심장 질환. 6. 첫 투여 전 14일 이내에 정맥 항생제가 필요한 심각한 감염. 7. 활성형 조절되지 않는 B형 간염, C형 간염 또는 인간면역결핍바이러스(HIV) 감염. 8. 급성 또는 만성 조절되지 않는 신장 질환, 췌장염 또는 간 질환. 9. 이전 장기 이식 병력. 10. 현재 강력한 사이토크롬 P4503A(CYP3A4) 억제제 또는 유도제를 투여받고 있는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Males and females aged 18 years or older\n2. Diagnosed locally advanced unresectable or metastatic solid tumor with a TP53 Y220C mutation.\n3. Documented disease progression during or after the most recent line of therapy. In addition, must be refractory to or intolerant of standard of care therapy or have no standard therapy.\n4. Measurable disease per RECIST v1.1.\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n6. Adequate organ function.\n\nExclusion Criteria:\n\n1. Investigational therapy or anti-cancer therapy within 21 days or 5 half-lives prior to the first dose of study drug.\n2. Radiotherapy within 14 days prior to the first dose of study drug.\n3. Known brain metastases (Exception: Brain metastases are permitted if the participant is neurologically stable), leptomeningeal disease or carcinomatous meningitis.\n4. Uncontrolled pleural effusion, pericardial effusion, or ascites.\n5. History of myocardial infarction or unstable angina within 6 months prior to enrollment, or clinically significant cardiac disease\n6. Serious infections requiring intravenous antibiotics within 14 days of first dose of study drug.\n7. Active uncontrolled Hepatitis B, Hepatitis C, or human immunodeficiency virus infection\n8. Acute or chronic uncontrolled renal disease, pancreatitis, or liver disease\n9. History of prior organ transplant\n10. Currently receiving strong Cytochrome P4503A (CYP3A4) inhibitors or inducers",
   "enrollment": 250,
   "has_results": false,

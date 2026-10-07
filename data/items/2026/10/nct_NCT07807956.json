@@ -2,7 +2,8 @@
  "abstract": "Cancer is a condition where cells in a specific part of body grow and reproduce uncontrollably. The purpose of this study is to assess adverse events, change in disease activity and pharmacokinetics of ABBV-253.\n\nABBV-253 is an investigational drug being developed for the treatment of advanced solid tumors. This open-label study consists of two parts. In Part 1 (ABBV-253 dose escalation), participants with any of the eligible cancer types will receive 1 of 4 (or more) doses of ABBV-253. Each cohort receives a higher dose, lower dose, or the same dose of ABBV-253 than the previous group. In Part 2 (ABBV-253 dose optimization), a new group of participants with NSCLC will be randomly put into pre-determined dose groups to receive 1 of 3 doses of ABBV-253. Approximately 130 participants will be enrolled in the study at approximately 11 sites worldwide.\n\nParticipants will receive intravenous (IV) infusion of ABBV-253, as part of the 4 year study.\n\nThere may be higher treatment burden for participants in this trial compared to their standard of care due to study procedures. Participants will attend regular visits during the study at a hospital or clinic. The effects of the treatment will be checked by medical assessments, blood tests, checking for side effects and completing questionnaires.",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -16,7 +17,11 @@
  ],
  "id": "nct:NCT07807956",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 약 130명입니다.",
+  "중재 약물은 정맥주사(IV)로 투여되는 ABBV-253입니다.",
+  "대상 질환에는 췌장암(PDAC)과 비소세포폐암 등이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07807956"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 고형암 성인 환자를 대상으로 신약 ABBV-253의 안전성과 약동학 등을 평가합니다. 췌장암인 췌관선암(PDAC)을 포함한 진행성 고형암 환자 130명을 목표로 진행됩니다. 연구는 용량 증량(Dose escalation)과 용량 최적화(Dose optimization)의 두 부분으로 구성됩니다. 환자들은 ABBV-253을 정맥주사로 투여받습니다.",
+ "summary_source": "llm",
  "tags": [
   "Advanced Solid Tumors",
   "Non-Small Cell Lung Cancer",
@@ -55,7 +60,7 @@
   "ABBV-253"
  ],
  "title": "A Study to Assess Adverse Events, Change in Disease Activity and How Intravenous ABBV-253 Moves Through the Body in Adult Participants With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 성인 환자를 대상으로 정맥주사 ABBV-253의 이상반응, 질병 활성도 변화 및 약동학을 평가하는 연구",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors",
@@ -75,7 +80,7 @@
     "phone": "844-663-3742"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 진단된 악성 고형암(비소세포폐암, 대장암, 두경부 편평세포암, 췌관선암(PDAC), 위식도 선암, 난소암, 담도암 등 포함) 환자 (파트 1 단독요법 용량 증량에만 해당)\n- ECOG 수행 능력 평가 0 또는 1\n- RECIST 버전 1.1에 따른 평가 및 측정 가능한 병변 보유\n제외 기준:\n- 첫 투여 전 3년 이내에 활성 질환이 있었거나 재발 위험이 있다고 판단되는 다른 악성종양 병력\n- 고등급 장액성 난소암 외의 조직학적 난소암 환자\n- 치료되지 않은 뇌 전이 또는 수막 전이\n- 전신 스테로이드 치료가 필요했던 간질성폐질환(ILD) 또는 폐렴 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Part 1 monotherapy dose escalation only: Participants with a diagnosis of a malignant solid tumor by histology (WHO criteria), including, but not limited to non-small cell lung cancer (NSCLC), colorectal cancer (CRC), head and neck squamous cell carcinoma (HNSCC), PDAC, gastroesophageal adenocarcinoma (GEA), ovarian cancer (OC), and biliary tract cancer (BTC)\n* ECOG performance status of 0 or 1\n* Participants with evaluable and measurable disease per RECIST Version 1.1.\n\nExclusion Criteria:\n\n* History of other malignancies, with the following exceptions:\n\n  * No known active disease present within 3 years prior to first dose of study treatment and felt to be at low risk of recurrence by the treating investigator.\n  * Adequately treated in situ carcinoma without evidence of disease.\n  * Basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin without evidence of disease.\n* Participants with ovarian cancer with histologies other than high grade serous ovarian cancer including endometrioid, low grade, clear cell, mucinous, or borderline ovarian tumor.\n* Untreated brain or meningeal metastases (i.e., subjects with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy).\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids or any evidence of ILD or pneumonitis on Screening chest CT scan.",
   "enrollment": 130,
   "has_results": false,
