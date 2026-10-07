@@ -181,6 +181,7 @@ class GeminiBackend(Backend):
         self.min_interval = min_interval          # 무료 등급 RPM 제한 대응 (기본 15/min)
         self._lock = threading.Lock()
         self._last = 0.0
+        self.exhausted: str | None = None     # 일일 한도 소진 등 치명적 오류 → 이후 호출은 즉시 실패
         self.client = httpx.Client(timeout=120)
 
     def _throttle(self):
@@ -204,13 +205,21 @@ class GeminiBackend(Backend):
         url = self.URL.format(model=self.model)
         last_err: Exception | None = None
         for attempt in range(5):
+            if self.exhausted:
+                raise RuntimeError(self.exhausted)
             self._throttle()
             r = self.client.post(url, headers={"x-goog-api-key": self.key}, json=body)
+            if r.status_code == 429 and re.search(r"PerDay|per day|daily", r.text, re.I):
+                self.exhausted = f"Gemini 일일 한도 소진: {r.text[:200]}"
+                raise RuntimeError(self.exhausted)
             if r.status_code in (429, 500, 503):
                 last_err = RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
                 retry_after = r.headers.get("retry-after")
-                time.sleep(float(retry_after) if retry_after else 10 * (attempt + 1))
+                time.sleep(min(60.0, float(retry_after) if retry_after else 10 * (attempt + 1)))
                 continue
+            if r.status_code == 404 or (r.status_code == 400 and "model" in r.text.lower()):
+                self.exhausted = f"Gemini 모델 사용 불가({self.model}): {r.text[:200]}"
+                raise RuntimeError(self.exhausted)
             if r.status_code != 200:
                 raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
             data = r.json()
@@ -232,7 +241,7 @@ def make_backend(cfg: dict) -> Backend | None:
     if provider == "auto":
         provider = "gemini" if has_gemini else "anthropic" if has_anthropic else "none"
     if provider == "gemini" and has_gemini:
-        return GeminiBackend(cfg.get("gemini_model", "gemini-2.5-flash"),
+        return GeminiBackend(cfg.get("gemini_model", "gemini-3.8-flash"),
                              float(cfg.get("gemini_min_interval_seconds", 4.0)))
     if provider == "anthropic" and has_anthropic:
         return AnthropicBackend(cfg.get("anthropic_model", cfg.get("model", "claude-opus-5-5")))

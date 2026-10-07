@@ -68,7 +68,7 @@
 | 사이트 생성 | MkDocs + Material 테마 | Docusaurus, Hugo, Jekyll | 위키·문서형 사이트에 최적. 한국어 검색, 태그, 블로그(날짜별) 플러그인, giscus 공식 연동, 모바일 UI 우수 |
 | 호스팅 | GitHub Pages | Cloudflare Pages, Netlify | 무료, 같은 리포에서 바로 배포 |
 | 댓글 | giscus | utterances, Disqus | GitHub Discussions에 저장되므로 무료·데이터 소유. 댓글 작성에 GitHub 계정 필요 (제약) |
-| 요약·번역 (필수) | 백엔드 교체형: **Gemini API 무료 등급**(`gemini-2.5-flash`, 기본) 또는 Claude API(`claude-opus-5-5`, 유료). 둘 다 JSON 스키마 강제 | GitHub Models(2026-07 종료), Groq/Mistral 무료 등급(한국어 품질 낮음) | 한국어 제공이 목표이므로 필수. Gemini면 0원, Claude면 월 $5~15. 키 미설정·실패 시 초록 발췌로 대체되고 다음 실행에서 재시도 |
+| 요약·번역 (필수) | 백엔드 교체형: **Gemini API 무료 등급**(`gemini-3.8-flash`, 기본) 또는 Claude API(`claude-opus-5-5`, 유료). 둘 다 JSON 스키마 강제 | GitHub Models(2026-07 종료), Groq/Mistral 무료 등급(한국어 품질 낮음) | 한국어 제공이 목표이므로 필수. Gemini면 0원, Claude면 월 $5~15. 키 미설정·실패 시 초록 발췌로 대체되고 다음 실행에서 재시도 |
 | 운영비 | GitHub Sponsors + FUNDING.yml, 후원 페이지 | Buy Me a Coffee 등 | LLM 비용을 후원으로 충당. 사용량은 수집 현황 페이지에 공개 |
 
 ---

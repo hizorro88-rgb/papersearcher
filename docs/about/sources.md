@@ -22,7 +22,7 @@ comments: true
 
 ## AI 요약
 
-- 모델: Google Gemini(`gemini-2.5-flash`, 무료 등급) 또는 Anthropic Claude(`claude-opus-5-5`, 유료). 어떤 모델이 쓰였는지는 [수집 현황](../_generated/status.md)에 기록됩니다. 입력은 제목·초록·선정기준 원문뿐이며, 원문에 없는 내용을 쓰지 않도록 지시합니다.
+- 모델: Google Gemini(`gemini-3.8-flash`, 무료 등급) 또는 Anthropic Claude(`claude-opus-5-5`, 유료). 어떤 모델이 쓰였는지는 [수집 현황](../_generated/status.md)에 기록됩니다. 입력은 제목·초록·선정기준 원문뿐이며, 원문에 없는 내용을 쓰지 않도록 지시합니다.
 - 출력은 JSON 스키마로 강제되어 카테고리·근거수준이 허용 목록 밖으로 나가지 않습니다.
 - 실패하거나 API 키가 없으면 초록 앞부분 발췌로 대체되며 "초록 발췌"로 표시됩니다.
 

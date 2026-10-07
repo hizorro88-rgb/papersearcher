@@ -37,8 +37,8 @@ def test_backend_selection(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     assert make_backend({"provider": "auto"}) is None
     monkeypatch.setenv("GEMINI_API_KEY", "x")
-    b = make_backend({"provider": "auto", "gemini_model": "gemini-2.5-flash"})
-    assert isinstance(b, GeminiBackend) and b.model == "gemini-2.5-flash"
+    b = make_backend({"provider": "auto", "gemini_model": "gemini-3.8-flash"})
+    assert isinstance(b, GeminiBackend) and b.model == "gemini-3.8-flash"
     assert make_backend({"provider": "anthropic"}) is None  # 키 없으면 None
 
 
@@ -59,7 +59,7 @@ def test_gemini_backend_and_apply(monkeypatch):
             "usageMetadata": {"promptTokenCount": 900, "candidatesTokenCount": 250},
         })
 
-    backend = GeminiBackend("gemini-2.5-flash", min_interval=0)
+    backend = GeminiBackend("gemini-3.8-flash", min_interval=0)
     backend.client = httpx.Client(transport=httpx.MockTransport(handler))
     monkeypatch.setattr(enrich, "make_backend", lambda cfg: backend)
 
@@ -73,6 +73,38 @@ def test_gemini_backend_and_apply(monkeypatch):
     assert trial.categories[0] == "trial" and "bogus" not in trial.categories
     assert trial.trial.eligibility_ko.startswith("선정 기준")
     assert trial.importance <= 1.0
+
+
+def test_gemini_daily_quota_stops_fast(monkeypatch):
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    n = {"calls": 0}
+
+    def handler(request):
+        n["calls"] += 1
+        return httpx.Response(429, text='{"error":{"status":"RESOURCE_EXHAUSTED","message":"Quota exceeded for GenerateRequestsPerDayPerProjectPerModel"}}')
+
+    backend = GeminiBackend("gemini-3.8-flash", min_interval=0)
+    backend.client = httpx.Client(transport=httpx.MockTransport(handler))
+    for _ in range(3):
+        with pytest.raises(RuntimeError, match="일일 한도"):
+            backend.complete("s", "u", OUTPUT_SCHEMA)
+    assert n["calls"] == 1  # 두 번째부터는 호출 없이 즉시 실패
+
+
+def test_gemini_unknown_model_stops_fast(monkeypatch):
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    n = {"calls": 0}
+
+    def handler(request):
+        n["calls"] += 1
+        return httpx.Response(404, text='{"error":{"code":404,"message":"This model models/x is no longer available"}}')
+
+    backend = GeminiBackend("x", min_interval=0)
+    backend.client = httpx.Client(transport=httpx.MockTransport(handler))
+    for _ in range(2):
+        with pytest.raises(RuntimeError, match="모델 사용 불가"):
+            backend.complete("s", "u", OUTPUT_SCHEMA)
+    assert n["calls"] == 1
 
 
 def test_apply_result_tolerates_bad_values():
