@@ -338,7 +338,9 @@ def apply_result(item: Item, data: dict) -> Item:
     item.categories = (llm_cats + [c for c in item.categories if c not in llm_cats])[:4]
     if item.trial and "trial" in item.categories:
         item.categories = ["trial"] + [c for c in item.categories if c != "trial"]
-    if item.evidence in ("other", "review") and data.get("evidence") in EVIDENCE_KEYS:
+    # 출판 유형·임상시험 단계로 확정된 근거 수준은 유지하고, 제목 패턴으로만 추정한 것은 LLM 판단으로 바꾼다
+    from .classify import evidence_from_pubtypes
+    if evidence_from_pubtypes(item) is None and data.get("evidence") in EVIDENCE_KEYS:
         item.evidence = data["evidence"]
     if item.trial and (data.get("eligibility_ko") or "").strip():
         item.trial.eligibility_ko = data["eligibility_ko"].strip()

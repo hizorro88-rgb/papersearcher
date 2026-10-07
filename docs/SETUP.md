@@ -85,11 +85,23 @@ PubMed 조회 속도 제한을 초당 3회에서 10회로 올립니다. 없어�
   - `docs/about/sponsor.md`의 "후원 방법" 목록에 주소 추가
 - 후원금 사용 내역은 `docs/about/sponsor.md`에 적어 투명하게 공개하는 것을 권장합니다.
 
-## 9. 응급 가이드·병원 연락처 검수 (권장)
+## 9. Slack 알림 (선택)
+
+매일 수집이 끝나면 신규·갱신 건수와 새 소식 목록을, 실패하면 실패 알림을 Slack 채널로 보냅니다.
+
+1. https://api.slack.com/apps → **Create New App → From scratch** → 이름(예: 췌장암 위키), 워크스페이스 선택.
+2. 왼쪽 **Incoming Webhooks** → **Activate Incoming Webhooks** 켜기 → 아래 **Add New Webhook to Workspace** → 알림 받을 채널 선택 → **Allow**.
+3. 생성된 **Webhook URL**(`https://hooks.slack.com/services/...`) 복사.
+4. GitHub 저장소 → **Settings → Secrets and variables → Actions → New repository secret** → 이름 `SLACK_WEBHOOK_URL`, 값에 URL 붙여넣기.
+5. 다음 수집부터 알림이 옵니다. 바로 확인하려면 Actions → collect → Run workflow.
+
+알림 내용: 날짜, 신규/갱신/누적 건수, 요약 성공·실패, 새 소식 상위 10건(한국어 제목·근거 수준·카테고리·국내 임상시험 표시·원문 링크), 기존 정보 업데이트, 다이제스트 링크. 웹훅 URL은 비밀로 다루세요(유출되면 누구나 그 채널에 글을 쓸 수 있음).
+
+## 10. 응급 가이드·병원 연락처 검수 (권장)
 
 `docs/guides/emergency/` 아래 9개 페이지는 공식 기관 자료를 근거로 작성한 **초안**입니다. 가능하면 의료인에게 검토를 받고, `hospital-contacts.md`에 자주 가는 병원의 실제 연락처를 채워 주세요. GitHub 웹에서 파일을 열고 연필 아이콘으로 바로 편집할 수 있습니다.
 
-## 10. 이후 운영에서 알아 둘 것
+## 11. 이후 운영에서 알아 둘 것
 
 | 상황 | 방법 |
 |---|---|

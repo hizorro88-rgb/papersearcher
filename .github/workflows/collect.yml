@@ -63,6 +63,17 @@ jobs:
             git push origin HEAD:main
           fi
 
+      - name: Slack notification
+        if: always()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          if [ "${{ job.status }}" = "success" ]; then
+            python -m collector.notify
+          else
+            python -m collector.notify --failure "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+
       - name: Build site
         run: mkdocs build --strict
 

@@ -85,3 +85,28 @@ def test_store_and_render(tmp_root):
     assert "국내에서 모집 중 (1)" in trials_idx
     index = json.loads((tmp_root / "data" / "index.json").read_text(encoding="utf-8"))
     assert len(index) == 2 and any(r["kr"] for r in index)
+
+
+def test_slack_message(tmp_root, monkeypatch):
+    import httpx
+    from collector import notify
+
+    paper, trial = _items()
+    existing = {}
+    merge(existing, [paper, trial], TODAY.isoformat())
+    paper.summary_source = "llm"
+    paper.title_ko = "다락소나십 3상 결과"
+    state = {"sources": {"pubmed": {"ok": True}, "europepmc": {"ok": False, "error": "x"}},
+             "runs": [{"date": TODAY.isoformat(), "new": 2, "updated": 0, "total": 2,
+                       "llm": {"succeeded": 1, "failed": 1, "model": "gemini-3.5-flash-lite"}}]}
+    payload = notify.build_message(existing, state, TODAY)
+    text = json.dumps(payload, ensure_ascii=False)
+    assert "신규 2건" in text and "다락소나십 3상 결과" in text and "🇰🇷국내 1곳" in text
+    assert "소스 실패: europepmc" in text and "요약 대기" in text
+
+    sent = {}
+    monkeypatch.setenv("SLACK_WEBHOOK_URL", "https://hooks.slack.com/services/T/B/x")
+    monkeypatch.setattr(httpx, "post", lambda url, json, timeout: sent.update(url=url, body=json) or httpx.Response(200))
+    assert notify.post(payload) is True and sent["url"].startswith("https://hooks.slack.com")
+    monkeypatch.delenv("SLACK_WEBHOOK_URL")
+    assert notify.post(payload) is False

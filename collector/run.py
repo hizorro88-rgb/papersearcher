@@ -61,7 +61,8 @@ def collect(today: date, *, since: date | None = None, no_llm: bool = False, dry
     # LLM 요약: 신규 + 요약이 아직 없는 기존 항목 (중요도 순, 상한 적용)
     pending = [it for it in existing.values() if it.summary_source in ("pending", "excerpt")
                and it.review.status != "hidden"]
-    pending.sort(key=lambda x: (-x.importance, x.published_at or ""))
+    # 오늘 새로 들어온 항목을 먼저, 그다음 중요도 순 (백로그가 있어도 오늘 소식은 당일 요약)
+    pending.sort(key=lambda x: (x.first_seen != today.isoformat(), -x.importance, x.published_at or ""))
     limit = max_llm if max_llm is not None else int(cfg.get("llm", {}).get("max_items_per_run", 120))
     todo = pending[:limit]
     llm_stats = None

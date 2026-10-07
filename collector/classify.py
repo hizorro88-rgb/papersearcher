@@ -74,6 +74,17 @@ def evidence_level(item: Item) -> str:
     return "other"
 
 
+def evidence_from_pubtypes(item: Item) -> str | None:
+    """PubMed 출판 유형이나 임상시험 단계처럼 확실한 근거에서 나온 수준만 돌려준다 (LLM이 덮어쓰지 않음)."""
+    if item.trial:
+        return evidence_level(item)
+    pubtypes = set(item.pub_types)
+    for key, _w, pts, _pats in _compiled()["evid"]:
+        if pts & pubtypes:
+            return key
+    return None
+
+
 def entities(item: Item) -> list[str]:
     c = _compiled()
     text = f"{item.title} {item.abstract or ''}"
