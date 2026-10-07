@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT07665684",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 전이성 췌장관 선암(pancreas ductal adenocarcinoma)을 포함한 전이성 췌장암입니다.",
+  "목표 인원은 총 67명입니다.",
+  "치료 중재는 samuraciclib와 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-패클리탁셀)의 병용입니다.",
+  "용량 증량 코호트에는 모든 전이성 PDAC 환자가 참여할 수 있으며, 용량 확장 코호트는 PurIST 검사 등으로 확인된 전이성 기저형(basal-like) 췌장암 환자가 참여합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07665684"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 새로 진단된 전이성 췌장암(pancreatic cancer) 환자를 대상으로 항암제 samuraciclib(사무라시클립)과 표준 치료 화학요법인 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-패클리탁셀)을 병용 투여할 때의 안전성과 내독성, 그리고 최고 허용 용량을 찾기 위한 임상시험입니다. 환자들은 종양 생검을 받고 병용 치료를 받으며 연구용 혈액 시료를 제공하게 됩니다. 목표 환자 수는 67명이며 현재 환자 모집 전 단계입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Samuraciclib in Combination With Gemcitabine/Nab-Paclitaxel in Patients With Metastatic Basal-Like Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 요법 제1상/제2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Ductal Adenocarcinoma",
@@ -65,7 +70,7 @@
     "phone": "4169462000"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 스크리닝 시점 연령 만 18세 이상\n- 사전 절차 수행 전 서면 동의서 확보\n- 스크리닝 시점 ECOG 수행 능력 평가 0 또는 1\n- 스크리닝 시점 예상 기대 여명 12주 이상\n- 조직학적 또는 세포학적으로 확인된 췌장관 선암(PDAC)\n- RECIST 1.1 기준에 따른 측정 가능한 전이성 병변의 방사학적 증거\n- 투여 21일 전 적절한 장기 및 골수 기능 유지\n- 경구 약물 복용 가능\n\n제외 기준:\n- 연구 약물과 병행하여 다른 연구용 약물을 투여받는 환자\n- 생식세포 또는 체세포 BRCA1/2 또는 PALB2 변이를 포함하여 상동 재조합 결핍이 알려진 췌장암\n- 다른 치료적 임상시험 동시 참여\n- 경구 연구 약물의 흡수를 방해할 수 있는 흡수 장애 증후군 또는 조절되지 않는 오심, 구토, 설사 병력\n- 스크리닝 시 알려진 활동성 간염 감염, C형 간염 항체 양성, B형 간염 표면항원 양성 등\n- 알려진 치료되지 않은 뇌转移 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of screening.\n2. Written informed consent and any locally required authorization (eg, data privacy) obtained from the patient prior to performing any protocol-related procedures, including screening evaluations.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 at the time of screening.\n4. Must have life expectancy ≥ 12 weeks at the time of screening.\n5. Histologically or cytologically confirmed PDAC: Eligible histological variants include: mucinous adenocarcinoma, independent cell adenocarcinoma, adenosquamous carcinoma, adenocarcinoma not otherwise specified (NOS).\n6. Dose Escalation: All patients with metastatic PDAC will be permitted to enrol.\n7. Dose Expansion: Patients with metastatic basal-like PDAC will be permitted to enrol, based on the PurIST assay or by transcriptomic sequencing. Patients will be permitted to start no more than one cycle of gemcitabine/nab-paclitaxel while waiting for transcriptional subtype results in the dose expansion cohort.\n8. Radiographic evidence of metastatic disease that is measurable per RECIST 1.1.\n9. Adequate organ and marrow function within 28 days prior to dosing on Day 1.\n10. Adequate liver function (AST ≤2.5 times the institutional upper limit of normal, total bilirubin ≤2 times the institutional upper limit of normal) at the baseline visit. Patients are permitted to enroll with biliary obstruction, as long as they undergo appropriate biliary decompression (can be done at the same time as endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB)) and hepatic parameters have improved at time of baseline visit.\n11. Patients must have either de novo metastatic disease or recurrence \\>6 months after completion of neoadjuvant or adjuvant intent systemic therapy.\n12. Patients must have recovered to ≤ Grade 1 in terms of toxicity from prior treatments at the time of enrollment (excluding neuropathy which can be ≤ Grade 2, and alopecia)\n13. Patients must be able to take oral medications.\n14. Females of childbearing potential who are sexually active with a nonsterilized male partner must use at least one highly effective method of contraception from screening to 180 days after the final dose of study treatment. It is strongly recommended for the male partner of a female patient to also use male condom plus spermicide throughout this period. Cessation of contraception after this point should be discussed with a responsible physician. Periodic abstinence, the rhythm method, and the withdrawal method are not acceptable methods of contraception.\n15. Nonsterilized male patients who are sexually active with a female partner of childbearing potential must use a male condom with spermicide from screening to 180 days after receipt of the final dose of study treatment. It is strongly recommended for the female partner of a male patient to also use a highly effective method of contraception throughout this period. In addition, male patients must refrain from sperm donation while on study and for 180 days after the final dose of study treatment.\n\nExclusion Criteria:\n\n1. Participants receiving any other study agents concurrently with the study drugs.\n2. Known homologous recombination deficient pancreatic cancer, including germline or somatic BRCA1/2 or PALB2 mutations\n3. Concurrent enrolment in another therapeutic clinical study. Enrolment in observational or supportive care studies will be allowed.\n4. History of a malabsorption syndrome or uncontrolled nausea, vomiting, or diarrhea that may interfere with the absorption of oral study medication in the opinion of the investigator.\n5. Patients with a history of Grade 3 or greater thromboembolic events in the prior 3 months to the scheduled first dose of study treatment or thromboembolic event of any grade with ongoing symptoms.\n6. Patients with prior history of myocardial infarction, transient ischemic attack, congestive heart failure ≥ Class 3 based on New York Heart Association Functional Classification or stroke within the past 3 months prior to the scheduled first dose of study treatment.\n7. Known active hepatitis infection, positive hepatitis C virus (HCV) antibody, hepatitis B virus (HBV) surface antigen (HBsAg) or HBV core antibody (anti-HBc), at screening. Participants with a past or resolved HBV infection (defined as the presence of anti HBc and absence of HBsAg) are eligible. Participants positive for HCV antibody are eligible only if polymerase chain reaction is negative for HCV RNA.\n8. Known to have tested positive for human immunodeficiency virus (HIV) (positive HIV 1/2 antibodies) or active tuberculosis infection (clinical evaluation that may include clinical history, physical examination and radiographic findings, or tuberculosis testing in line with local practice).\n9. Other invasive malignancy within 2 years. Non-invasive malignancies (ie, cervical carcinoma in situ, in situ prostate cancer, non-melanomatous carcinoma of the skin, ductal carcinoma in situ of the breast that has been surgically cured) are excluded from this definition. Malignancy treated with curative intent and with no known active disease ≥2 years before the first dose of study treatment and of low potential risk for recurrence are permitted.\n10. Known allergy or hypersensitivity to investigational product formulations.\n11. Active grade 3 or greater edema (eg, peripheral, pulmonary).\n12. Uncontrolled intercurrent illness, including but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the patient to give written informed consent.\n13. Participants with known untreated brain metastases are excluded. Patients with a history of brain metastases are permitted to enroll if they have been treated and have been stable for a minimum of one month on imaging. Participants must be off all corticosteroids at the time of enrolment.\n14. Major surgery (as defined by the investigator) within 28 days prior to scheduled first dose of study treatment or still recovering from prior surgery. Local procedures (eg, placement of a systemic port, core needle biopsy, etc) are allowed, without needing to wait for the 28 day recovery period.\n15. Females who are pregnant, lactating, or intend to become pregnant during their participation in the study.\n16. Any condition that, in the opinion of the investigator, would interfere with safe administration or evaluation of the investigational products or interpretation of patient safety or study results.",
   "enrollment": 67,
   "has_results": false,

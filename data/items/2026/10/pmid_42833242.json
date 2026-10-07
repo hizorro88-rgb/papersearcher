@@ -9,12 +9,13 @@
   "Ding X"
  ],
  "categories": [
-  "treatment"
+  "treatment",
+  "basic"
  ],
  "entities": [
   "sbrt"
  ],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-10-06",
  "history": [
   {
@@ -24,8 +25,13 @@
   }
  ],
  "id": "pmid:42833242",
- "importance": 0.71,
- "key_points_ko": [],
+ "importance": 0.57,
+ "key_points_ko": [
+  "SPArc-4π는 기존 IMPT와 유사한 수준의 종양 표적(CTV) 덮개를 유지하면서 콩포머티(conformity index)를 0.50 대 0.56으로 향상시켰습니다.",
+  "위(30.01 대 24.53 Gy), 십이지장(35.14 대 33.14 Gy), 장(32.60 대 28.91 Gy), 척수(15.38 대 5.58 Gy)의 최대 방사선량이 모두 유의하게 감소했습니다.",
+  "위 출혈 위험은 8.19%에서 6.15%로, 3등급 이상의 위장관 독성은 3.91%에서 3.81%로, 궤양/천공은 0.03%에서 0.01%로, 설사는 24.14%에서 22.34%로 감소했습니다.",
+  "SPArc-4π의 주요 단점은 치료 전달 효율성으로, IMPT보다 약 2~3분 더 긴 시간이 소요되었습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1088/1361-6560/aeb05f",
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42833242/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 국소 진행성 췌장암(LAPC) 환자 10명을 대상으로 기존의 강도조절 양성자 치료(IMPT)와 비공면 스팟 스캐닝 양성자 회전 치료(SPArc-4π)의 방사선 치료 계획을 비교했습니다. SPArc-4π는 타겟 부위의 종양 덮개를 유지하면서도 위, 십이지장, 장, 척수 등 주변 장기의 방사선량을 유의하게 줄였습니다. 또한 예측된 정상 조직 합병증 확률(NTCP)도 전반적으로 감소했습니다. 다만 SPArc-4π는 기존 IMPT에 비해 치료 전달 시간이 약 2~3분 더 소요되는 단점이 있었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Introduce 4π dynamic spot-scanning proton arc therapy (SPArc-4π) for pancreatic cancer: a comparative planning study with IMPT",
- "title_ko": null,
+ "title_ko": "췌장암을 위한 4파이 동적 스팟 스캐닝 양성자 회전 치료(SPArc-4π) 도입: IMPT와의 비교 계획 연구",
  "trial": null,
  "type": "paper"
 }

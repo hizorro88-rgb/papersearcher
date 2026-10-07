@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT06239194",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 285명입니다.",
+  "모든 단계에서 MDX2001의 안전성과 내인성을 평가합니다.",
+  "1상에서는 권장 2상 용량(RP2D)을 확인합니다.",
+  "환자당 예상되는 연구 참여 기간은 중앙값 10개월입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06239194"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 진행성 고형암 환자들을 대상으로 MDX2001의 안전성, 내인성, 항종양 활성을 평가하기 위한 임상 1상/2상 시험입니다. 시험은 Phase 1a 용량 증량, Phase 1b 단일 적응증 용량 확장, Phase 2a 단일 적응증 확장 단계로 구성됩니다. 환자당 예상되는 전체 연구 참여 기간은 중앙값 기준으로 약 10개월입니다. 목표 환자 수는 285명이며, 국내 기관 정보는 초록에 명시되지 않음.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Dose Escalation and Dose Expansion Study of MDX2001 in Patients With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MDX2001의 용량 증량 및 용량 확장 연구",
  "trial": {
   "conditions": [
    "Biliary Tract Cancer",
@@ -72,7 +78,7 @@
     "phone": "(857) 233-9936"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상 환자 - 조직학적 또는 세포학적으로 확진된 전이성 고형암 - 동유럽종양학그룹(ECOG) 활동도 0-1 - RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상 - 적절한 조혈, 간, 신장 기능 - 서면 동의서 제공 가능. 제외 기준: - 임상적으로 유의한 심장 질환 - 이전 항암 치료로 인한 미해결 독성 - 이전 고형 장기 또는 조혈모세포 이식 - 치료되지 않았거나 활성형, 조절되지 않는 뇌 전이 - HIV 양성, 활동성 B형 또는 C형 간염 - 계획된 치료 시작 28일 이내 생백신 접종 - 연구자에 의해 부적절하다고 판단되는 경우 - 치료 기간 중 동시 임상시험 참여 - MDX2001 성분에 대한 과민반응 - 일상생활을 위한 산소 보조요법 사용",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must be ≥ 18 years of age\n* Histologically or cytologically confirmed diagnosis of metastatic solid tumors\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* All patients should have at least 1 measurable disease per RECIST v1.1. An irradiated lesion can be considered measurable only if progression has been demonstrated on the irradiated lesion.\n* All contraceptive use by men and women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n* Adequate hematologic, hepatic and renal function\n* Capable of giving signed informed consent\n\nExclusion Criteria:\n\n* Any clinically significant cardiac disease\n* Unresolved toxicities from previous anticancer therapy\n* Prior solid organ or hematologic transplant\n* Known untreated, active, or uncontrolled brain metastases\n* Known positivity with human immunodeficiency virus (HIV), known active hepatitis B or C, or uncontrolled chronic or ongoing infectiion requiring intravenous treatment.\n* Receipt of a live-virus vaccination within 28 days of planned treatment start\n* Patient not suitable for participation, whatever the reason, as judged by the Investigator, including medical or clinical conditions.\n* Participation in a concurrent clinical study in the treatment period.\n* Known hypersensitivity to MDX2001 or any of its ingredients\n* Supplemental oxygen use for activities of daily living\n\nThe above information is not intended to contain all considerations relevant to the potential participation in a clinical trial.",
   "enrollment": 285,
   "has_results": false,

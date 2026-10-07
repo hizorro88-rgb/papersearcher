@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT07835893",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 80명입니다.",
+  "중재 방법은 lenvatinib과 항암화학요법 병용 대 항암화학요법 단독입니다.",
+  "평가 지표는 객관적 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS), 부작용입니다.",
+  "초록에 명시되지 않음: 구체적인 생존기간 및 반응률 수치."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,19 +48,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07835893"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 1차 치료에 실패한 췌장 신경내분비종양 간 전이(pNET-LM) 환자를 대상으로 합니다. 2차 전신 치료로 lenvatinib(렌바티닙)과 항암화학요법 병용 또는 항암화학요법 단독을 비교합니다. 객관적 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS), 부작용을 평가합니다. 또한 말초혈액 분석을 통해 치료 반응과 저항성 기전을 조사합니다.",
+ "summary_source": "llm",
  "tags": [
   "신경내분비종양"
  ],
  "title": "Lenvatinib Plus Chemotherapy for pNET Liver Metastases",
- "title_ko": null,
+ "title_ko": "췌장 신경내분비종양 간 전이 환자에서 렌바티닙과 항암화학요법 병용 연구",
  "trial": {
   "conditions": [
    "Pancreatic Neuroendocrine Tumor With Liver Metastases"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 나이 18세에서 75세 - 조직학적 또는 세포학적으로 확진된 췌장 신경내분비종양 - 방사선학적으로 확진된 간 전이 - 1차 전신 치료 후 질병 진행 또는 치료 실패로 2차 치료가 가능한 경우 - RECIST 버전 1.1에 따른 측정 가능한 병변이 최소 1개 이상 - ECOG 수행 능력 상태 0 또는 1 - 연구자가 평가한 적절한 혈액, 간, 신장 기능 - 기대 여명이 최소 12주 이상 - 서면 동의서를 이해하고 자발적으로 서명할 수 있는 자. 제외 기준: - 저분화 신경내분비암종 또는 췌장 외 다른 부위에서 기원한 신경내분비종양 - 이전에 lenvatinib 치료를 받은 경력 - 조절되지 않는 고혈압을 포함하여 조절되지 않거나 임상적으로 유의미한 심혈관 질환 - 활성형 중증 감염 또는 기타 조절되지 않는 심각한 전신 질환 - 증상이 있거나 조절되지 않는 중추신경계 전이 - 임신 또는 수유 중인 여성 - 본 연구 결과에 간섭할 수 있는 다른 중재적 임상시험 참여 - 연구자의 판단에 따라 본 연구 참여에 부적합하다고 판단되는 기타 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Inclusion Criteria:\n* Age 18 to 75 years.\n* Histologically or cytologically confirmed pancreatic neuroendocrine tumor.\n* Radiologically confirmed liver metastases.\n* Disease progression or treatment failure after first-line systemic therapy, with eligibility for second-line treatment.\n* At least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematologic, hepatic, and renal function as assessed by the investigator.\n* Life expectancy of at least 12 weeks.\n* Ability to understand and willingness to sign a written informed consent form.\n\nExclusion Criteria:\n\n* Poorly differentiated neuroendocrine carcinoma or neuroendocrine tumor originating from a site other than the pancreas.\n* Previous treatment with lenvatinib.\n* Uncontrolled or clinically significant cardiovascular disease, including uncontrolled hypertension.\n* Active severe infection or other uncontrolled serious systemic disease.\n* Known central nervous system metastases that are symptomatic or uncontrolled.\n* Pregnancy or breastfeeding.\n* Participation in another interventional clinical study that may interfere with the outcomes of this study.\n* Any other condition that, in the opinion of the investigator, may make the participant unsuitable for participation in this study.",
   "enrollment": 80,
   "has_results": false,

@@ -17,11 +17,11 @@ comments: true
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [KRAS G12D 변이 진행성 또는 전이성 췌장관선암 환자 등을 대상으로 한 GDC-7035 병용 요법의 안전성 및 활성 평…](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
-| [Modified FOLFIRINOX and Pentamidine in Advanced and Metastatic Pancre…](../trials/NCT07829185.md) | 1상 | 모집 예정 | - |
+| [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 펜타미딘 병용 요법에 대한 1상 임상시험](../trials/NCT07829185.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](../trials/NCT07824960.md) | 1상/2상 | 모집 예정 | - |
-| [Efficacy and Safety of Serplulimab in Combination With Bevacizumab an…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
-| [Personalize (Signature Driven) Neoadjuvant Chemotherapy Trial for Pat…](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
-| [To Evaluate the Safety, Tolerability, and Preliminary Efficacy of XH0…](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
+| [전이성 췌장관선암 환자의 2차 치료로서 serplulimab, bevacizumab 및 FOLFIRINOX 또는 NALIRI…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
+| [경계성 절제 가능한 췌장관암 환자를 위한 맞춤형(시그니처 기반) 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
+| [고위험 재발성 고형암 환자의 보조 치료로서 XH001 주사의 안전성, 내인성 및 예비 유효성 평가](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 대상으로 한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경동맥 미세관류법(TAMP)을 이용한 젬시타빈(gemcitabine) 수술 전 보조요법: PRISM-TAMP 임상시험](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
@@ -35,24 +35,24 @@ comments: true
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·냡-파클리탁셀·시스플라틴(mGAP) 비교 임상시험](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 절제 가능 췌장암 환자에서 mFOLFIRINOX 선행화학요법 후 종양 병기에 맞춘 위험 적응형 보조항암…](../trials/NCT07044453.md) | 2상/3상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암(BR-PDAC) 환자를 위한 nab-paclitaxel + Gemcitabine(GnP)과 modi…](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
-| [A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surg…](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
+| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법을 평가하는 췌장관암 환자 대상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [치료 전이가능 췌장암 환자를 위한 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용 요법…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
 | [PDAC 및 NSCLC 환자에서 TNG462 병용 투여의 안전성, 내인성, 효능을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
-| [A Study of mRNA Vaccines AK154 Monotherapy or in Combination With AK1…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
+| [수술로 절제된 췌장관암(PDAC) 환자에서 신항원 맞춤형 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료로서 변형 FOLFIRINOX 유지 치료 대 젬시타빈+냅-파클리탁셀 전환 유지 치료를 비교하는 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [진행성 췌장 선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 임상시험 (R…](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 맞춤형 신생항원 mRNA 치료제](../trials/NCT06888648.md) | 1상/2상 | 모집 예정 | - |
 | [국소 진행성 췌장암 치료를 위한 음향 군집 요법(Acoustic Cluster Therapy, ACT)과 항암화학요법 병용…](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험(…](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
-| [A Study to Learn About Study Medicine ALTA3263 in Adults With Advance…](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
+| [KRAS 변이 진행성 고형암 성인 환자를 위한 연구 약물 ALTA3263 임상시험](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [경계성 및 국소 진행성 췌장암 환자에서 수술 전 표준 기간 대 연장 기간 선행화학요법 비교 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
-| [MK2 Inhibitor in Combination With mFOLFIRINOX for Untreated Metastati…](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
+| [치료 이력이 없는 전이성 췌장관암 환자를 대상으로 Zunsemetinib과 mFOLFIRINOX 병용 요법을 평가하는 1상…](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 Bortezomib, PD-1 단일클론항체, mFOLFIRINOX 병용 요법](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
 | [젬시타빈, 엘로티닙, 냅-파클리탁셀로 치료하는 기저형 췌장관암](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
 | [(경계성) 절제 가능 췌장암을 위한 수술 전 삼중 요법(PREOPANC-5)](../trials/NCT06384560.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료 후 NALIRIFOX 요법 대 NALIRIFOX 요법 비교 임상시험](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
 | [CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선 치료 임상시험](../trials/NCT06250972.md) | 3상 | 모집 중 | - |
-| [Study of Perioperative NP137 and FOLFIRINOX in Resectable Pancreatic…](../trials/NCT06203821.md) | 1상 | 모집 예정 | - |
+| [절제 가능 췌장암 환자를 위한 수술 전후 NP137 및 FOLFIRINOX 연구](../trials/NCT06203821.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 환자에서 Trilaciclib와 mFOLFIRINOX 병용 치료에 관한 연구](../trials/NCT06151262.md) | 2상 | 모집 중 | - |
 | [진행성 및 절제 불가능 또는 전이성 췌장암 환자에서 OT-101과 mFOLFIRINOX 병용 요법에 대한 임상시험](../trials/NCT06079346.md) | 2상/3상 | 모집 중 | - |
 | [국소 진행성 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료를 병용하는 2상 임상시험](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
@@ -65,12 +65,12 @@ comments: true
 | [절제 가능 췌장암 환자를 위한 수술 전 펨브롤리주맙을 병용한 FOLFIRINOX 화학요법 및 수술](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX 또는 Gem-Nab-P 항암치료 후 등독성 고선량 정위체부방사선치…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 | [절제 가능한 췌장암 환자에서 수술 전 mFOLFIRINOX와 주위 경구 hydroxychloroquine 병용 투여에 관한…](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
-| [Resistance Training Intervention to Improve Physical Function in Pati…](../trials/NCT04837118.md) | 해당 없음 | 진행 중(모집 종료) | - |
+| [췌장암 환자의 신체 기능 향상을 위한 저항 운동 중재 연구: PancStrength 연구](../trials/NCT04837118.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 MRI 유도 정위적 방사선치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 보조화학요법 임상시험](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
-| [Chemotherapy For Metastatic Grade 3 Poorly Differentiated NEuroendocr…](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
+| [위장관·췌장 및 원발 부위 불명 전이성 3등급 저분화 신경내분비암(NEC)에 대한 화학요법](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 | [중국인 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
-| [Chemotherapy and Irreversible Electroporation in the Treatment of Adv…](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
+| [진행성 췌장 선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
 ## 타임라인 (1)
 

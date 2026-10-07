@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "supportive",
   "treatment"
  ],
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT07586813",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 위장관, 췌장, 대장암 등의 완전 관해 후 발생한 지속성 단독 항암화학요법 유발 혈소판감소증(PICIT)입니다.",
+  "중재 방법은 Romiplostim N01과 ATRA 병용 요법 대 Romiplostim N01 단독 요법이며, 1:1 비율로 무작위 배정됩니다.",
+  "치료 기간은 12주이며, 24주까지 추적 관찰을 수행합니다.",
+  "목표 환자 수는 총 220명이며, 1차 평가지표는 12주 차의 전체 혈소판 반응률입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07586813"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 위장관 및 소화기계 고형암(췌장암 포함)의 완전 관해 후 지속성 단독 항암화학요법 유발 혈소판감소증(PICIT)을 겪는 성인 환자를 대상으로 합니다. Romiplostim N01과 경구용 ATRA 병용 투여를 Romiplostim N01 단독 투여와 비교하여 유효성과 안전성을 평가하는 전향적, 무작위배정, 공개, 활성 대조 2상 임상시험입니다. 환자들은 1:1 비율로 무작위 배정되어 12주간 치료를 받고 24주까지 추적 관찰을 받습니다. 1차 평가지표는 12주 차의 전체 혈소판 반응률이며, 다양한 이차 평가지표와 안전성 평가가 함께 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "PICIT",
   "Persistent isolated chemotherapy-induced thrombocytopenia",
@@ -57,7 +63,7 @@
   "Gastrointestinal solid tumor"
  ],
  "title": "Romiplostim N01 Plus ATRA for Persistent Isolated Chemotherapy-Induced Thrombocytopenia After Complete Remission of Gastrointestinal Solid Tumors",
- "title_ko": null,
+ "title_ko": "위장관 고형암 완전 관해 후 지속성 단독 항암화학요법 유발 혈소판감소증 환자를 대상으로 Romiplostim N01과 ATRA 병용 요법을 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Persistent Isolated Chemotherapy-Induced Thrombocytopenia",
@@ -78,7 +84,7 @@
     "phone": "+8617710635036"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 성인\n- 위장관, 췌장, 대장암 등 위장관/소화기계 고형암의 진단 및 화학요법 후 완전 관해를 이룬 자\n- 등록 전 최소 12주 동안 종양 관련 치료를 중단했으며 재발이나 진행의 증거가 없는 자\n- 혈소판 수치가 30 x 10^9/L 미만이거나 안전한 수치 유지를 위해 혈소판 수혈에 의존하는 지속성 단독 항암화학요법 유발 혈소판감소증(PICIT) 환자\n- 적혈구 및 호중구 수치가 대체로 유지되며 임상적으로 유의미한 빈혈이나 호중구감소증이 없는 자\n- 종양 진단 및 화학요법 후 1년 이내에 시행한 골수 검사에서 종양 세포 침인성이 없는 자\n- 이전에 적어도 한 가지 이상의 혈소판 생성 수용체 작용제(TPO-RA) 또는 재조합 인간 TPO 치료에 반응이 없었던 자\n- Romiplostim N01을 이전에 사용한 적이 없는 자\n\n제외 기준:\n- 재생불량성 빈혈, 골수형성이상증후군, 백혈병 또는 기타 혈액암, 일차성 면역 혈소판감소증의 명확한 병력이 있는 자\n- 기저 종양의 활성 재발, 진행, 또는 골수 전이의 증거가 있는 자\n- 조절되지 않는 만성 바이러스 감염(B형 간염, C형 간염, HIV) 또는 활성 중증 감염이 있는 자\n- 심각한 심장, 간, 신장 또는 기타 장기 부전이 있는 자\n- 임신 중이거나 수유 중인 여성\n- Romiplostim, Romiplostim N01, ATRA 또는 시험 약물 성분에 중증 과민반응이 알려진 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. Prior diagnosis of a gastrointestinal/digestive system solid tumor, including but not limited to gastrointestinal tract, pancreatic, or colorectal cancer.\n3. Complete remission of the underlying tumor after chemotherapy or antitumor treatment, with tumor-related treatment discontinued for at least 12 weeks before enrollment, no evidence of recurrence or progression by specialist assessment, and no current need for additional tumor-directed therapy.\n4. Persistent isolated chemotherapy-induced thrombocytopenia, defined as platelet count \\<30 x 10\\^9/L on two peripheral blood tests at least 7 days apart; or platelet count slightly higher than 30 x 10\\^9/L with dependence on platelet transfusion to maintain a safe platelet level.\n5. Thrombocytopenia has persisted since the last chemotherapy treatment without a clear trend of spontaneous recovery.\n6. Red blood cell count and neutrophil count are generally preserved, without clinically significant anemia or neutropenia.\n7. Bone marrow assessment performed within 1 year after tumor diagnosis and chemotherapy shows no tumor cell infiltration; megakaryocyte count is normal or increased, with or without maturation impairment.\n8. No hepatosplenomegaly, portal hypertension, or other evidence suggesting abnormal platelet redistribution as the main cause of thrombocytopenia.\n9. Prior treatment with at least one thrombopoietin receptor agonist or recombinant human thrombopoietin for PICIT without response, defined as failure of platelet count to rise to a safe level or to at least 2 times baseline after at least 2 weeks of standard-dose treatment.\n10. No prior use of Romiplostim N01.\n11. Other platelet-raising medications have been discontinued before enrollment. No washout period is required for prior thrombopoietin receptor agonists; other investigational drugs or off-label treatments must be discontinued for at least 1 month before enrollment.\n12. Ability to understand and sign the informed consent form and willingness to comply with study visits and procedures.\n13. Women of childbearing potential must have a negative pregnancy test before enrollment and agree to use effective contraception during study treatment.\n\nExclusion Criteria:\n\n1. Other hematologic diseases that may affect hematopoiesis or cause thrombocytopenia, including but not limited to aplastic anemia, myelodysplastic syndrome, leukemia or other hematologic malignancies, or a clear history of primary immune thrombocytopenia.\n2. Active recurrence or progression of the underlying tumor, or evidence of bone marrow metastasis or tumor cell infiltration on bone marrow examination.\n3. Uncontrolled chronic viral infection, including hepatitis B, hepatitis C, or HIV infection, or active severe infection at screening or within 4 weeks before screening.\n4. Severe cardiac, hepatic, renal, or other organ dysfunction, or any serious organic disease that would make the participant unable to tolerate study treatment.\n5. Pregnancy or breastfeeding.\n6. Known severe hypersensitivity to Romiplostim, Romiplostim N01, ATRA, or any component of the study drugs.\n7. Prior Romiplostim treatment associated with severe adverse reactions or lack of efficacy.\n8. Poor compliance, inability to complete treatment or follow-up, psychiatric or psychological condition that prevents understanding of the study procedures, or any other condition that, in the investigator's judgment, may increase study risk or interfere with interpretation of study results.",
   "enrollment": 220,
   "has_results": false,

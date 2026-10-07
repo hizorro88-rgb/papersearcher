@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
   "drug",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "folfirinox"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06203821",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 25명입니다.",
+  "대상 질환은 절제 가능한 췌장암(pancreatic cancer)입니다.",
+  "중제 치료법으로 NP137이 사용됩니다.",
+  "구체적인 생존기간, 반응률, 위험비 등은 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06203821"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 절제 가능한 췌장암(resectable pancreatic cancer) 환자 25명을 대상으로 신약인 항 Netrin-1 항체(anti-Netrin-1 antibody) NP137을 수술 전 투여하고 수술 후 항암화학요법(chemotherapy)과 병행하여 그 효과와 작용 기전을 평가하는 1상 임상시험(phase 1 clinical trial)입니다. 전임상 데이터에 따르면 NP137은 암세포 사멸을 유도하고 상피간엽이행(EMT)을 방지하여 전이 진행을 지연시킬 수 있습니다. 이번 파일럿 연구(pilot study)는 향후 NP137 관련 임상시험 설계에 필요한 중개연구 과학 정보를 제공하기 위해 진행됩니다. 초록에 명시되지 않은 생존기간, 반응률, 위험비 등의 구체적인 임상 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
   "FOLFIRINOX",
@@ -54,7 +59,7 @@
   "Resectable Pancreatic Cancer"
  ],
  "title": "Study of Perioperative NP137 and FOLFIRINOX in Resectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "절제 가능 췌장암 환자를 위한 수술 전후 NP137 및 FOLFIRINOX 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -66,7 +71,7 @@
     "phone": "585-275-5863"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 영상 검사상 절제 가능 췌장암으로 판단되며 전이성 질환의 강력한 증거가 없는 환자\n- 초기 진단 및 연구 목적으로 생검(biopsy)에 동의하는 환자\n- 치료 외과의가 확인한 절제 가능한 췌장导관암종(pancreatic ductal adenocarcinoma)\n- 췌장암에 대한 이전 전신 치료, 방사선 치료 또는 절제술 경험이 없는 환자\n- 동의 시점 기준 연령 18세 이상\n- ECOG 수행 능력 평가(Performance Status) 0~1인 환자\n- 적절한 골수 및 장기 기능을 가진 환자\n\n제외 기준:\n- 치료 외과의가 판단하기에 경계성, 국소 진행성 또는 전이성 췌장암 환자\n- 2등급 이상의 말초 신경병증(peripheral neuropathy)이 있는 환자\n- 길버트 증후군(Gilbert's Syndrome), 디하이드로피리미딘 탈수소효소(DPD) 결핍, 또는 UGAT1A1*28 다형성 동형접합이 알려진 환자\n- 활성 상태의 십이지장 또는 위 궤양이 있는 환자\n- 등록 전 2주 이내에 심각한 활성 감염이 있었거나 감염 치료를 받고 있는 환자\n- 알려진 미치료 B형/C형 간염 또는 HIV 감염 환자\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Subjects with imaging suggesting resectable pancreatic cancer and without strong evidence of metastatic disease.\n* Accept to undergo biopsy for initial diagnosis and research purposes. NOTE: For patients who already have cytologically or histologically confirmed resectable pancreatic ductal adenocarcinoma, they must agree to undergo research biopsy.\n* Cytologically or histologically confirmed resectable pancreatic ductal adenocarcinoma.\n* Confirmed resectable pancreatic ductal adenocarcinoma by treating surgeon.\n* No prior systemic therapy, radiation therapy, or resection for pancreatic cancer.\n* Written informed consent to participate in the trial.\n* Age ≥ 18 years at the time of consent.\n* ECOG Performance Status of 0-1 and ability to undergo perioperative systemic therapy, radiation therapy and surgery as deemed by the treating investigator.\n* Adequate bone marrow and organ function\n* Subjects of childbearing potential must have a negative urine or serum pregnancy test prior to receiving the first dose of study medication. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required for enrollment.\n* Subjects of child-bearing potential must agree to use adequate contraception E.g. hormonal , barrier method of birth control, and abstinence prior to study entry, for the duration of study treatment, and for 6 months after completion of study therapy. Subject who become pregnant or suspect they are pregnant while they or their partner is participating in this study, they should inform their treating physician immediately. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with the study therapy, subjects should agree to discontinue breastfeeding prior enrollment in the study.\n* As determined by the enrolling physician or protocol designee, ability of the subject to understand a written informed consent document, and ability and willingness to comply with study procedures for the entire length of the study. Patients with impaired decision-making capacity (IDMC) who have a close caregiver or legally authorized representative (LAR) and/or family member who can make may decision on the patient behalf may enroll in the trial per the enrolling physician assessment.\n\nExclusion Criteria:\n\n* Patients with borderline or locally advanced or metastatic pancreatic cancer as deemed by treating surgeon.\n* Patients who are unlikely to undergo surgery, and systemic therapy, in the opinion of the treating investigators.\n* Patients with grade ≥ 2 peripheral neuropathy.\n* Patients with known Gilbert's Syndrome, Dihydropyrimidine dehydrogenase (DPD) deficiency, or homozygosity for UGAT1A1\\*28 polymorphism. Note: evaluation for these is not required.\n* Patients with active duodenal or gastric ulcers, or direct tumor invasion of the bowel or stomach by endoscopic evaluation. Note: patients with previous ulcers without active bleeding or symptoms are eligible.\n* Patients with serious active infection within 2 weeks prior to enrollment (e.g. requiring hospitalization and/or intravenous \\[IV\\] antibiotics) or currently receiving oral or IV antibiotics for the treatment of infection. Patients receiving prophylactic antibiotics are eligible.\n* Patients with known untreated hepatitis B or C (HBV/HCV) or known human immunodeficiency virus (HIV). Note: evaluation for these is not required.\n* Patients with uncontrolled intercurrent illness within 3 months prior to start of study treatment that could substantially increase risk of incurring AEs in the opinion of the treating investigator, including but not limited to:\n\n  * Uncontrolled hypertension, despite optimal medical management, hypertensive crisis, or hypertensive encephalopathy,\n  * Symptomatic congestive heart failure \\[CHF\\],\n  * Uncontrolled cardiac arrhythmia, or\n  * Current psychiatric illness/social situations or other conditions that would limit compliance with study requirements or.\n* Patients with known concurrent malignancy that is expected to require active treatment within two years or may interfere with the interpretation of the efficacy and safety outcomes of this study in the opinion of the treating investigator. Note: Superficial bladder cancer, nonmelanoma skin cancers, and low-grade prostate cancer not requiring cytotoxic therapy should not exclude participation in this trial. Patients with CLL may be enrolled if they do not require active chemotherapy and their hematologic, renal and hepatic function meets criteria previously mentioned.\n* Any other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding that contraindicates the use of an investigational drug, may affect the interpretation of the results, or may render the patient at high risk from treatment complications in the opinion of the treating investigator.\n* Pregnant or breastfeeding women",
   "enrollment": 25,
   "has_results": false,

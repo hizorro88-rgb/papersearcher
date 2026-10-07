@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "surgery"
  ],
  "entities": [],
@@ -16,8 +17,12 @@
   }
  ],
  "id": "nct:NCT05877599",
- "importance": 0.73,
- "key_points_ko": [],
+ "importance": 0.69,
+ "key_points_ko": [
+  "대상 질환에는 췌장암 선암(pancreatic adenocarcinoma)이 포함됩니다.",
+  "목표 인원은 총 45명입니다.",
+  "TP53 R175H 변이와 HLA-A*02:01 양성인 진행성 고형암 환자가 대상입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05877599"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 TP53 R175H 변이와 HLA-A*02:01이 양성인 진행성 암 환자를 대상으로 자가 T세포 치료제(autologous T cell therapy)인 NT-175의 안전성과 항종양 활성을 평가하는 1상 임상시험입니다. 췌장암 선암(pancreatic adenocarcinoma)을 포함한 다양한 진행성 고형암 환자를 대상으로 합니다. 용량 증량(dose escalation)을 통해 안전성과 최대내인용용량(MTD) 등을 평가하고, 코호트 확장을 통해 항종양 효과를 추가로 확인합니다. 목표 환자 수는 45명입니다.",
+ "summary_source": "llm",
  "tags": [
   "Cell therapy",
   "TP53",
@@ -56,7 +61,7 @@
   "AML"
  ],
  "title": "A Study of NT-175 in Adult Participants With Advanced Malignancies That Are Positive for HLA-A*02:01 and the TP53 R175H Mutation",
- "title_ko": null,
+ "title_ko": "TP53 R175H 변이 및 HLA-A*02:01 양성 진행성 암 환자를 위한 NT-175 1상 임상시험",
  "trial": {
   "conditions": [
    "Non-small Cell Lung Cancer",
@@ -75,7 +80,7 @@
     "phone": "1-877-240-9479"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상 성인 - 비소세포폐암(NSCLC), 대장암, 두경부암, 췌장암 선암, 유방암, 난소암 등 진단 - TP53 R175H 변이 및 HLA-A*02:01 양성 - 표준 치료 이후 진행된 절제 불가능한 진행성 또는 전이성 고형암(3기 또는 4기) - 측정 가능한 병변이 최소 1개 이상 존재 - ECOG 수행 능력 점수 0~1점. 제외 기준: - 등록 전 3년 이내 다른 원발성 악성종양력 - 활성 중추신경계(CNS) 악성종양 - 과거 동종 조혈모세포 이식 또는 고형 장기 이식력 - 6개월 이내 임상적으로 유의한 심장 질환력 - 리-프라우메니 증후군(Li-Fraumeni syndrome) 진단력 또는 관련 가족력.",
   "eligibility_text": "Key Inclusion Criteria (Module 1)\n\n* Subjects must be at least 18 years of age\n* Subject must be diagnosed with one of the histologies below:\n\n  * NSCLC\n  * Colorectal adenocarcinoma\n  * HNSCC\n  * Pancreatic adenocarcinoma\n  * Breast cancer\n  * Ovarian cancer\n  * Any other solid tumor\n* Tumors must harbor a TP53 R175H variant mutation and subject must be HLA-A\\*02:01 positive (at least 1 allele)\n* Subject has advanced solid cancer, defined as unresectable, advanced, and/or metastatic disease (Stage III or IV) after at least 1 line of approved systemic standard of care (SOC) treatment regimen and for which there are no available curative treatment options.\n* Subject has at least 1 measurable lesion\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n* Adequate hematological, renal, hepatic, pulmonary, and cardiac function\n\nKey Exclusion Criteria (Module 1)\n\n* Any another primary malignancy within the 3 years prior to enrollment\n* Known, active primary central nervous system (CNS) malignancy\n* History of prior adoptive cell and gene therapy, allogeneic stem cell transplant or solid organ transplantation.\n* History of clinically significant cardiac disease within the 6 months prior to enrollment or heart failure at any time prior to enrollment.\n* Systemic therapy within at least 2 weeks or 3 half-lives, whichever is shorter, prior to enrollment.\n* Any form of primary immunodeficiency.\n* Known to have Li-Fraumeni syndrome or is known to have relatives who are diagnosed with Li-Fraumeni syndrome.\n\nKey Inclusion Criteria (Module 2 - hematological malignancies)\n\n* At least 18 years of age\n* Diagnosis of AML or MDS that allows for efficacy assessments\n* Confirmation of TP53 R175H variant mutation in cancer cells\n* Subject must be HLA-A\\*02:01 positive (at least 1 allele)\n* ECOG performance status of 0 to 1\n\nKey Exclusion Criteria (Module 2 - hematological malignancy)\n\n* Acute promyelocytic leukaemia or isolated extramedullary disease\n* Another primary malignancy within 2 years (with exceptions)\n* HSCT within 100 days or immunosuppression for GvHD within 4 weeks\n* History of CNS or other extramedullary leukaemic involvement unless a lumbar puncture is negative for leukemic cells\n* Prior stroke, ischemic attack, significant cardiac disease, heart failure\n* Prior adoptive modified cell therapy\n* Known to have Li-Fraumeni syndrome or is known to have relatives who are diagnosed with Li-Fraumeni syndrome.",
   "enrollment": 45,
   "has_results": false,

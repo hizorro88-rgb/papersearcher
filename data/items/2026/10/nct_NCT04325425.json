@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "diagnosis",
-  "drug"
+  "diagnosis"
  ],
  "entities": [
   "folfirinox",
@@ -22,7 +22,11 @@
  ],
  "id": "nct:NCT04325425",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "표준 1차 치료인 백금-에토포시드 요법의 반응률은 40~70%이며, 무진행 생존기간(PFS)은 4~9개월, 전체 생존기간(OS)은 약 12~15개월입니다.",
+  "치료 후 질병이 진행된 환자 중 40~45%만이 2차 치료를 받으며, 2차 치료의 무진행 생존기간은 약 4개월입니다.",
+  "이번 임상시험의 목표 인원은 218명입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,19 +50,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04325425"
  },
- "summary_ko": "there is a need for improving chemotherapy regimen for metastatic G3 NEC of GEP and Unknown origin and this goal may be achieved through more \"personalized\" chemotherapy regimen.the hypothesis is that mFOLFIRINOX regimen could be a good candidate for challenging the platinum-etoposide regimen in patients with metastatic G3 NEC of GEP or unknown origin. Furthermore, in order to get insights in the putative predictive biomarkers of efficacy of these two regimens, an effort toward a precise molecul…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 위장관·췌장(gastro-entero-pancreatic, GEP) 및 원발 부위 불명의 전이성 3등급 저분화 신경내분비암(Grade 3 poorly differentiated neuroendocrine carcinoma, G3 NEC) 환자를 대상으로 표준 치료인 백금-에토포시드(platinum-etoposide) 요법과 mFOLFIRINOX 요법의 효과를 비교합니다. 환자들의 예후를 개선하고 종양의 분자적 특성을 분석하여 맞춤형 치료 전략을 세우는 것을 목표로 합니다. 총 218명의 환자를 대상으로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "신경내분비종양"
  ],
  "title": "Chemotherapy For Metastatic Grade 3 Poorly Differentiated NEuroendocrine Carcinoma Of GastroEnteroPancreatic And Unknown Primary",
- "title_ko": null,
+ "title_ko": "위장관·췌장 및 원발 부위 불명 전이성 3등급 저분화 신경내분비암(NEC)에 대한 화학요법",
  "trial": {
   "conditions": [
    "Neuroendocrine Carcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 3등급 신경내분비암 또는 위장관·췌장 또는 원발 부위 불명의 3등급 저분화 신경내분비암 성분이 30% 이상 포함된 고등급 MiNEN\n- 저분화형, 소세포형, 대세포형, 비소세포형 또는 분류 불가능형\n- 전이성 질환\n- 1차 치료이며, 전이성 질환에 대한 이전 치료력이 없고, carboplatin, oxaliplatin, cisplatin, etoposide, irinotecan, 5-fluorouracil 사용력이 없음\n- RECIST 1.1 기준에 따라 CT 또는 MRI로 평가 가능한 병변이 최소 1개 이상 있음\n- 종양 조직 블록 확보 가능\n- 절대호중구수(ANC) ≥ 1.5x10^9/l, 혈소판 ≥ 100x10^9/l, 혈색소 > 8 g/dl\n- 총 빌리루빈 ≤ 1.5N, AST ≤ 2.5N, ALT ≤ 2.5N (간 전이가 있는 경우 AST/ALT ≤ 5N)\n- 연령 ≥ 18세\n- ECOG 수행 능력 상태(Performance Status) ≤ 1\n- 서면 동의서 작성 및 프로토콜 요구사항 준수 가능\n\n제외 기준:\n- WHO 2017 분류에 따른 3등급 고분화 신경내분비종양\n- 중증 신기능 장애 (크레아티닌 청소율 < 30 mL/min)\n- 부분적 또는 완전한 디하이드로피리미딘 탈수소효소(DPD) 결핍\n- 길베르트 증후군(Gilbert's syndrome)\n- 기존의 영구적 말초신경병증 (NCI CTC V4.0 등급 ≥ 2)\n- 이전에 화학요법 또는 표적치료로 치료받은 적이 있는 경우\n- 뇌 전이 (증상이 있거나 2주간 안정한 코르티코스테로이드 투여 상태가 아닌 경우)\n- 임산부 또는 수유부\n- HIV, B형 간염 또는 C형 간염의 알려진 활성 감염\n- 3년 이내에 치료되지 않은 다른 악성 종양의 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Grade 3 neuroendocrine carcinoma or high grade MiNEN with a grade 3 poorly differentiated neuroendocrine carcinoma component ≥30% of gastro-entero-pancreatic or unknown primary\n\n  * Poorly differentiated\n  * Small cell or large cell or non-small cell or non- typeable\n  * Metastatic disease\n  * First-line, no prior therapy for metastatic disease, no prior use of carboplatin, oxaliplatin, cisplatin, etoposide, irinotecan and 5-fluorouracile\n  * At least one measurable lesion as assessed by CT-scan or MRI according to RECIST 1.1 guidelines\n  * Available tumor block\n  * ANC ≥ 1.5x109/l, platelet ≥ 100x109/l and hemoglobin \\> 8 g/dl\n  * Total bilirubin ≤ 1.5N, AST ≤ 2.5N, ALT≤ 2.5N or AST/ALT ≤ 5N in case of liver metastases.\n  * Age ≥ 18 years\n  * ECOG Performance Status ≤ 1\n  * Signed and dated informed consent, and willing and able to comply with protocol requirements.\n  * Women of childbearing potential, as well as men (who have sexual relations with women of childbearing potential) must agree to use an effective method of contraception throughout this study and during the 15 months following administration of the last dose of the study medicinal product\n  * Patient who is a beneficiary of the Social security system\n\nExclusion Criteria:\n\n* Grade 3 well differentiated neuroendocrine tumor according to WHO 2017 classification\n\n  * Severe renal impairment (creatinine clearance less than 30 mL/min, MDRD)\n  * Partial or complete Dihydropyrimidine Dehydrogenase (DPD) deficiency (uracilemia ≥ 16 ng/mL)\n  * Gilbert's syndrome\n  * Pre-existing permanent neuropathy (NCI CTC V4.0 grade ≥2)\n  * Previously treated by chemotherapy or targeted therapy\n  * Brain metastases unless they are asymptomatic or under stable corticosteroid doses for 2 weeks otherwise. Radiation therapy prior to inclusion is required if symptomatic.\n  * Combination with sorivudine and others analogues as brivudine (irreversibly inhibits the enzyme dihydropyrimidine dehydrogenase)\n  * Treatment with St John's Wort (Hypericum perforatum)\n  * Pregnant women or breastfeeding mother\n  * Known or historical active infection with HIV, or known active infection untreated with hepatitis B or hepatitis C\n  * History of prior malignancy, except for cured non-melanoma skin cancer, cured in situ cervical carcinoma, or other treated malignancies with no evidence of disease for at least three years.\n  * Active or suspected acute or chronic uncontrolled disease that would impart, in the judgment of the investigator, excess risk associated with study participation or study drug administration, or which, in the judgment of the investigator, would make the patient inappropriate for entry into this study\n  * vaccinations (live vaccine) within 30 days prior to start of study drugs\n  * Patient under guardianship and/or deprived of his/her freedom\n  * QT/QTc interval \\> 450 msec for male and \\> 470 msec for female at EKC.\n  * K+ \\< LLN, Mg²+ \\< LLN, Ca²+ \\< LLN\n  * History or know hypersensitivity to any of the study chemotherapy agents, or their excipients",
   "enrollment": 218,
   "has_results": false,

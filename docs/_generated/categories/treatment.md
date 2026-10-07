@@ -11,7 +11,7 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 332건 · 최근 30일 332건
+전체 334건 · 최근 30일 334건
 
 월별 보기: [2026-10](treatment/2026-10.md)
 
@@ -33,22 +33,51 @@ comments: true
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
+<a id="pmid-42837495"></a>
+#### [췌장암 수술 전후의 위장관 증상과 건강 관련 삶의 질(HRQoL) (GO-PANC): 전국 규모 종단적 연구](https://pubmed.ncbi.nlm.nih.gov/42837495/)
+<small>Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study</small>
+
+`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-05 · PubMed · Br J Surg · 중요도 0.77
+
+이 연구는 췌장암으로 췌장절제술(pancreatectomy)을 받은 환자들을 대상으로 수술 전후의 위장관 증상 변화와 건강 관련 삶의 질(HRQoL, Health-Related Quality of Life)의 연관성을 조사했습니다. 네덜란드 췌장암 프로젝트의 설문조사에 참여한 총 1009명의 환자와 2995건의 설문 응답이 분석에 포함되었습니다. 연구 결과 위장관 증상은 수술 후 0~3개월 사이에 최고조에 달했으며, 수술 후 9~12개월에는 대체로 수술 전 수준 또는 그 이하로 회복되었습니다. 그러나 심한 위장관 증상은 삶의 질을 크게 저하시키는 것으로 나타났습니다.
+
+- 총 1009명의 췌장암 환자와 2995건의 설문 응답이 분석에 포함되었습니다.
+- 수술 전 위장관 증상은 환자의 95%에서 나타났으며, 흔한 증상은 방귀, 구강 건조, 미각 이상, 배변 습관 변화였습니다.
+- 위장관 증상 점수는 수술 후 0~3개월에 정점을 찍고 수술 후 9~12개월에 수술 전 또는 그 이하 수준으로 회복되었습니다.
+- 심한 위장관 증상을 겪은 환자는 수술 전 61%에서 수술 후 9~12개월에 52%로 감소했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837495/) · [DOI](https://doi.org/10.1093/bjs/znag122) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837495)</small>
+
+---
 <a id="pmid-42837076"></a>
-#### [The projected rise of pancreatic cancer mortality in Italy: forecasts until 2035](https://pubmed.ncbi.nlm.nih.gov/42837076/)
-`논문` `관찰연구` `치료 전반` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.75
+#### [이탈리아의 췌장암 사망률 증가 전망: 2035년까지의 예측](https://pubmed.ncbi.nlm.nih.gov/42837076/)
+<small>The projected rise of pancreatic cancer mortality in Italy: forecasts until 2035</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`논문` `관찰연구` `진단·조기발견` `치료 전반` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.75
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837076/) · [DOI](https://doi.org/10.1007/s13304-026-02862-w) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837076)</small>
+이탈리아의 췌장암 사망률에 대한 시간적 추세와 미래 전망을 분석하여 의료 및 행정 수준의 개입 영역을 파악했습니다. 2005년부터 2022년까지의 사망률 데이터와 2035년까지의 인구 전망을 바탕으로 베이지안 연령-기간-코호트 분석(Bayesian age-period-cohort analysis)을 수행했습니다. 이탈리아의 췌장암 연평균 사망자 수는 인구 고령화에 따라 2020-2022년 대비 남성 15.4%, 여성 13.0% 증가할 것으로 예측됩니다. 전국 연령표준화 사망률(ASMR)은 남성 3.8%, 여성 0.6% 소폭 감소할 것으로 예상되나, 남성이 모든 대지역에서 지속적으로 더 높은 사망률을 보였습니다. 특히 남부 지역과 도서 지역에서는 양성 모두 연령표준화 사망률(ASMR)이 증가할 것으로 나타나 지역 간 격차를 보였습니다.
+
+- 2020-2022년 대비 2035년까지 췌장암 사망자 수는 남성 15.4%, 여성 13.0% 누적 증가할 것으로 예측됩니다.
+- 전국 연령표준화 사망률(ASMR)은 남성 3.8%, 여성 0.6% 소폭 감소할 것으로 예상됩니다.
+- 개발 지수가 가장 낮은 남부 이탈리아와 도서 지역은 남녀 모두 연령표준화 사망률(ASMR)이 증가할 것으로 예상되는 유일한 대지역입니다.
+- 여성의 경우 도서 지역에서 +22.7%, 남성의 경우 남부 지역에서 +18.8%로 가장 큰 연령표준화 사망률(ASMR) 증가가 예상됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837076/) · [DOI](https://doi.org/10.1007/s13304-026-02862-w) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837076)</small>
 
 ---
 <a id="pmid-42837725"></a>
-#### [Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions](https://pubmed.ncbi.nlm.nih.gov/42837725/)
-`논문` `종설` `치료 전반` · 2026-09-23 · PubMed · Semin Oncol · 중요도 0.54
+#### [위장관 악성 종양에서의 용해성 바이러스: 임상적 진전, 중개적 과제 및 미래 방향](https://pubmed.ncbi.nlm.nih.gov/42837725/)
+<small>Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`논문` `종설` `신약·치료제` `치료 전반` `기초연구` · 2026-09-23 · PubMed · Semin Oncol · 중요도 0.54
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
+이 논문은 위장관 악성 종양에서 용해성 바이러스(oncolytic viruses, OVs) 치료의 임상적 진행과 과제를 다룬 문헌 고찰입니다. 췌장암(pancreatic ductal adenocarcinoma, PDAC), 대장암, 간암 등의 환자를 대상으로 바이러스 기반 치료의 안전성과 면역 활성화 효과를 정리했습니다. 췌장암에서는 초기 임상시험을 통해 안전성과 면역 활성화가 확인되었으나 기질 및 전달 장벽으로 인해 효과가 제한적이었습니다. 간암 등 다양한 위장관암에서 임상적 발전 가능성과 함께 극복해야 할 면역학적 장벽들을 제시했습니다.
+
+- 췌장암에서는 reovirus와 adenovirus 기반 플랫폼의 초기 임상시험에서 안전성과 면역 활성화가 관찰되었습니다.
+- 췌장암 치료는 기질(stromal) 및 전달 장벽으로 인해 효능이 여전히 제한적입니다.
+- 간암(HCC)은 림프종 및 위장관암 중 OV 중개 연구의 가장 성숙한 모델로 pexastimogene devacirepvec(Pexa-Vec) 등이 연구되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
 
 ---
 <a id="pmid-42832418"></a>
@@ -2605,23 +2634,5 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 1차 치료로 FOLFIRINOX 또는 NALIRIFOX 치료 후 질병이 진행된 전이성 췌장관선암(PDAC) 환자를 대상으로 합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07049055) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
-
----
-<a id="nct-nct07076212"></a>
-#### [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·냡-파클리탁셀·시스플라틴(mGAP) 비교 임상시험](https://clinicaltrials.gov/study/NCT07076212)
-<small>Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisplatin in Patients With Locally Advanced and Metastatic Pancreatic Adenocarcinoma</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2025-07-22 · ClinicalTrials.gov · Medical University of South Carolina · 중요도 0.80
-
-**NCT07076212** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07076212.md)
-
-이 연구는 이전에 치료받지 않은 국소 진행성(절제 불가능) 및 전이성 췌장관암종(PDAC) 환자를 대상으로 NALIRIFOX 요법(그룹 1)과 mGAP 요법(그룹 2)의 효능을 비교하는 단일 기관, 공개, 무작위 2상 임상시험입니다. 췌장관암종(PDAC)은 치명적인 악성 종양 중 하나로, 전이성 환자에게는 증상 완화와 생존 기간 연장을 위해 전신 항암화학요법을 시행합니다. 연구진은 젬시타빈(gemcitabine) 기반의 mGAP 요법이 NALIRIFOX보다 객관적 반응률(ORR)을 더 높일 수 있는지 평가하고자 합니다. 본 임상시험의 목표 인원은 52명이며, 초록에 명시되지 않은 최종 결과는 초록에 명시되지 않았습니다.
-
-- 목표 환자 수는 총 52명입니다.
-- 이전에 치료받은 적이 없는 국소 진행성 및 전이성 췌장관암종(PDAC) 환자를 대상으로 합니다.
-- NALIRIFOX 요법과 mGAP 요법의 객관적 반응률(ORR) 등을 비교합니다.
-- 초록에 구체적인 임상시험 최종 결과 수치는 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07076212) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07076212)</small>
 
 ---

@@ -11,19 +11,71 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 325건 · 최근 30일 325건
+전체 358건 · 최근 30일 358건
 
 월별 보기: [2026-10](drug/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42837803"></a>
+#### [라인(Rhein)은 TFAP2A/MMP9 경로를 억제하여 췌장암 진행과 당분해를 억제합니다: 통합 생물정보학 및 실험 연구](https://pubmed.ncbi.nlm.nih.gov/42837803/)
+<small>Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-09-29 · PubMed · Pathol Res Pract · 중요도 0.59
+
+이 연구는 천연 안트라퀴논 유도체인 라인(rhein)이 췌장암 세포에 미치는 항암 효과와 그 분자적 기전을 밝히고자 했습니다. 연구진은 생물정보학 분석과 실험을 통해 라인이 TFAP2A/MMP9 축을 억제함으로써 암세포의 생존, 이동, 당분해(glycolysis)를 저해하고 세포 사멸을 유도한다는 사실을 확인했습니다. 또한 동물 모델(xenograft model)을 통해 라인이 종양 성장을 억제함을 입증했습니다. 초록에 환자 수나 구체적인 생존기간 수치는 명시되지 않았습니다.
+
+- 라인(rhein) 처리는 췌장암 세포에서 MMP9 발현을 유의하게 억제했습니다 (P < 0.05).
+- 라인은 세포 사멸을 촉진하고 세포 집락 형성, 이동, 당분해를 억제했습니다 (모두 P < 0.05).
+- 동물 모델 실험에서 라인은 종양 성장을 억제하는 효과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837803/) · [DOI](https://doi.org/10.1016/j.prp.2026.156703) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837803)</small>
+
+---
 <a id="doi-10.64898-2026.10.05.756824"></a>
-#### [KRAS-driven metabolic reprogramming of enhanced MFSD2A-mediated lysophosphatidylcholine scavenging promotes survival and progression of pancreatic ductal adenocarcinoma](https://europepmc.org/article/PPR/PPR1335336)
-`프리프린트` `관찰연구` `신약·치료제` · 2026-10-06 · Europe PMC (preprint) · bioRxiv · 중요도 0.69
+#### [KRAS 유도성 대사 재프로그래밍을 통한 MFSD2A 매개 리소포스파티딜콜린 포식이 췌장관선암의 생존과 진행을 촉진합니다](https://europepmc.org/article/PPR/PPR1335336)
+<small>KRAS-driven metabolic reprogramming of enhanced MFSD2A-mediated lysophosphatidylcholine scavenging promotes survival and progression of pancreatic ductal adenocarcinoma</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`프리프린트` `전임상` `기초연구` `신약·치료제` · 2026-10-06 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1335336) · [DOI](https://doi.org/10.64898/2026.10.05.756824) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.05.756824)</small>
+이 연구는 췌장관선암(PDAC)에서 종양유전자 KRAS가 지질 대사를 재프로그래밍하여 세포 외 리소포스파티딜콜린(LysoPC)을 포식하는 기전을 분석했습니다. 환자 혈장 분석 결과 췌장관선암 환자에서 순환하는 LysoPC가 현저히 감소한 것으로 나타났습니다. 연구진은 MFSD2A 단백질이 세포 외 LysoPC의 흡수를 매개하며, 이를 억제하거나 약물 edelfosine을 사용할 경우 종양 억제 효과가 있음을 확인했습니다.
+
+- 93명의 신규 진단 수술 가능 췌장관선암(PDAC) 환자, 43명의 만성 췌장염 환자, 93명의 건강한 대조군을 대상으로 혈장 지질체학 분석을 수행했습니다.
+- 췌장관선암 환자의 혈장에서 순환하는 리소포스파티딜콜린(LysoPC)의 현저한 감소가 주요 특징으로 나타났습니다.
+- 종양유전자 KRAS에 의해 매개되는 MFSD2A 발현 증가가 암세포의 LysoPC 세포 외 흡수를 촉진하는 핵심 요인으로 확인되었습니다.
+- 합성 알킬-리소포스파티딜콜린인 edelfosine의 재처용을 통해 KRAS-MFSD2A-LysoPC 축을 표적화함으로써 항암 효과를 유도할 수 있었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1335336) · [DOI](https://doi.org/10.64898/2026.10.05.756824) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.05.756824)</small>
+
+---
+<a id="pmid-42837725"></a>
+#### [위장관 악성 종양에서의 용해성 바이러스: 임상적 진전, 중개적 과제 및 미래 방향](https://pubmed.ncbi.nlm.nih.gov/42837725/)
+<small>Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `기초연구` · 2026-09-23 · PubMed · Semin Oncol · 중요도 0.54
+
+이 논문은 위장관 악성 종양에서 용해성 바이러스(oncolytic viruses, OVs) 치료의 임상적 진행과 과제를 다룬 문헌 고찰입니다. 췌장암(pancreatic ductal adenocarcinoma, PDAC), 대장암, 간암 등의 환자를 대상으로 바이러스 기반 치료의 안전성과 면역 활성화 효과를 정리했습니다. 췌장암에서는 초기 임상시험을 통해 안전성과 면역 활성화가 확인되었으나 기질 및 전달 장벽으로 인해 효과가 제한적이었습니다. 간암 등 다양한 위장관암에서 임상적 발전 가능성과 함께 극복해야 할 면역학적 장벽들을 제시했습니다.
+
+- 췌장암에서는 reovirus와 adenovirus 기반 플랫폼의 초기 임상시험에서 안전성과 면역 활성화가 관찰되었습니다.
+- 췌장암 치료는 기질(stromal) 및 전달 장벽으로 인해 효능이 여전히 제한적입니다.
+- 간암(HCC)은 림프종 및 위장관암 중 OV 중개 연구의 가장 성숙한 모델로 pexastimogene devacirepvec(Pexa-Vec) 등이 연구되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837725/) · [DOI](https://doi.org/10.1016/j.seminoncol.2026.152563) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837725)</small>
+
+---
+<a id="doi-10.64898-2026.10.02.754697"></a>
+#### [췌장도관암종에서 HMGA2 발현은 IL1α를 통해 종양 미세환경과 면역 억제를 조절합니다](https://europepmc.org/article/PPR/PPR1335384)
+<small>HMGA2 Expression in Pancreatic Ductal Adenocarcinoma Controls Tumor Microenvironment and Immunosuppression via IL1α</small>
+
+`프리프린트` `전임상` `기초연구` `신약·치료제` · 2026-10-06 · Europe PMC (preprint) · bioRxiv · 중요도 0.52
+
+본 연구는 췌장도관암종(PDAC)의 기저양(basal-like) 아형에서 고이동성 그룹 AT-후크 2(HMGA2) 단백질의 역할을 분석했습니다. 종양 세포의 HMGA2는 인터루킨 1 알파(IL1α)를 증가시켜 면역 억제성 섬유아세포를 유도하고, 조절 T 세포를 늘리며 세포독성 CD8+ T 세포를 줄입니다. IL1α 신호전달 경로를 차단하면 이러한 종양 주도적 미세환경 표현형이 무너지고, 온코제닉 KRAS(oncogenic KRAS) 억제제와 결합할 때 종양 조절이 개선됩니다. 초록에 환자 대상 수치나 임상시험 정보는 명시되지 않았습니다.
+
+- HMGA2 발현은 기저양 췌장도관암종 세포의 특징이며 면역 억제성 암 관련 섬유아세포(CAF) 및 적은 수의 CD8+ T 세포와 연관됩니다.
+- 종양 세포의 HMGA2는 IL1α 프로모터에 결합하여 전사를 상향 조절하고 종양 미세환경 내 IL1α를 증가시킵니다.
+- IL1α 신호전달 축의 차단은 종양 주도적 미세환경 표현형을 교란하고 KRAS 억제제와의 병용을 통해 종양 조절을 개선합니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1335384) · [DOI](https://doi.org/10.64898/2026.10.02.754697) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.754697)</small>
 
 ---
 <a id="nct-nct07490301"></a>
@@ -2588,58 +2640,5 @@ Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 �
 - 중재 방법은 TQB2916 주사제와 항암화학요법(Chemotherapy) 병용입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06962267) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06962267)</small>
-
----
-<a id="nct-nct07040228"></a>
-#### [진행성 췌장암 3차 치료로서 Regorafenib, Toripalimab, 훔-결합 파클리탁셀 병용요법에 대한 제1b/2상 임상시험](https://clinicaltrials.gov/study/NCT07040228)
-<small>A Phase Ib/II Clinical Study of Regorafenib Combined With Toripalimab and Albumin-bound Paclitaxel for the Third-line Treatment of Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `제약사·규제` · 2025-06-27 · ClinicalTrials.gov · Junjie Hang · 중요도 0.80
-
-**NCT07040228** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07040228.md)
-
-이 임상시험은 절제 불가능하거나 전이성인 췌장암 환자의 3차 치료로서 regorafenib(레고라페닙), toripalimab(토리팔리맙), albumin-bound paclitaxel(알부민 결합 파클리탁셀) 병용요법의 유효성과 안전성을 평가합니다. 1b상에서는 최대 허용 용량(MTD)과 2상 권장 용량(RP2D)을 평가합니다. 2상에서는 해당 병용요법의 유효성과 안전성을 평가합니다. 목표 환자 수는 23명입니다.
-
-- 대상 질환은 절제 불가능하거나 전이성인 췌장암이며, 이전 1차 및 2차 표준 치료 후 종양 진행이 확인된 환자입니다.
-- 1b상에서는 regorafenib의 용량을 40mg, 80mg, 120mg/d로 나누어 안전성과 최대 허용 용량을 평가합니다.
-- 모든 단계에서 toripalimab(240mg)과 albumin-bound paclitaxel(125mg/m2)이 병용 투여됩니다.
-- 목표 인원은 총 23명이며, 국내 기관은 없습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07040228) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07040228)</small>
-
----
-<a id="nct-nct07043270"></a>
-#### [경계성 절제 가능 췌장암(BR-PDAC) 환자를 위한 nab-paclitaxel + Gemcitabine(GnP)과 modified FOLFIRINOX(mFOLFIRINOX) 교대 수술 전 항암치료 2상 임상시험](https://clinicaltrials.gov/study/NCT07043270)
-<small>24BRO681 : Alternating Gnp and mFOLFIRINOX for BR-PDAC</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-06-29 · ClinicalTrials.gov · Dartmouth-Hitchcock Medical Center · 중요도 0.80
-
-**NCT07043270** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07043270.md)
-
-이 연구는 경계성 절제 가능 췌장암(BR-PDAC) 환자를 대상으로, 선행화학요법(neoadjuvant chemotherapy)에서 GnP와 mFOLFIRINOX 두 가지 치료법을 교대(alternating)로 적용했을 때의 효과와 안전성을 평가합니다. 연구진은 이 두 치료법의 교대 투여가 치료 반응을 높이고, 종양 제거 가능성(절제 가능성)을 개선하며, 암 재발 위험을 낮출 수 있는지 확인하고자 합니다. 목표 환자 수는 35명이며, 현재 환자를 모집 중입니다.
-
-- 대상 질환은 경계성 절제 가능 췌장암(BR-PDAC)이며, 목표 인원은 35명입니다.
-- 중재 치료는 nab-paclitaxel + Gemcitabine(GnP)과 modified FOLFIRINOX(mFOLFIRINOX)의 교대 투여입니다.
-- 연구의 목적은 치료 반응 향상, 종양 절제율 개선, 재발 위험 감소를 평가하는 것입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07043270) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07043270)</small>
-
----
-<a id="nct-nct07049055"></a>
-#### [전이성 췌장암 환자를 위한 EDV 나노셀 치료제(E-EDV-D682/GC)와 젬시타빈 및 냅-파클리탁셀 병용 투여 임상시험](https://clinicaltrials.gov/study/NCT07049055)
-<small>A Clinical Trial to Evaluate EDV Nanocell Therapy With Gemcitabine and Nab-paclitaxel in Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2025-07-03 · ClinicalTrials.gov · Engeneic Pty Limited · 중요도 0.80
-
-**NCT07049055** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07049055.md)
-
-이 연구는 1차 치료(5-FU 기반 병용요법) 후 진행된 전이성 췌장소관암(PDAC) 환자를 대상으로 합니다. 실험 치료인 E-EDV-D682/GC는 표피성장인자수용체(EGFR)를 표적으로 하는 EDV 나노셀에 항암제를 담아 종양 세포에 직접 전달하고 면역계를 활성화하는 방식입니다. 연구는 1상 안전성 평가 코호트와 2상 무작위 배정(ARM A: 시험군 92명, ARM B: 대조군 46명) 확장 코호트로 진행됩니다. 총 목표 인원은 144명이며, 전체 생존기간(OS)과 안전성 및 내인성을 평가합니다.
-
-- 목표 인원은 총 144명이며, ARM A(시험군) 92명과 ARM B(대조군) 46명으로 2:1 무작위 배정됩니다.
-- 시험군은 E-EDV-D682/GC와 gemcitabine(젬시타빈), nab-paclitaxel(냅-파클리탁셀)을 병용 투여받습니다.
-- 대조군은 gemcitabine, nab-paclitaxel과 위약을 투여받습니다.
-- 1차 치료로 FOLFIRINOX 또는 NALIRIFOX 치료 후 질병이 진행된 전이성 췌장관선암(PDAC) 환자를 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07049055) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07049055)</small>
 
 ---

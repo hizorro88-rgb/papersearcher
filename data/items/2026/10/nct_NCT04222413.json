@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -18,7 +19,11 @@
  ],
  "id": "nct:NCT04222413",
  "importance": 0.75,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 최대 116명입니다.",
+  "1상 IA 단계에서는 최대내반용량(MTD)을 결정합니다.",
+  "1상 IB 단계에서는 MTD 용량에서의 객관적 반응률(ORR)을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04222413"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 전이성 고형암, 췌장암, 대장암, 유방암 등의 진행성 암 환자를 대상으로 신약 metarrestin의 안전성과 최대내반용량(MTD)을 확인하는 1상 임상시험입니다. 전이 억제 표적 약물인 metarrestin을 경구 투여하여 안전한 용량을 찾고 종양 축소 효과 및 객관적 반응률(ORR)을 평가합니다. 성인 및 12세 이상의 소아 환자를 대상으로 하며 표준 치료에 실패한 환자들이 참여합니다.",
+ "summary_source": "llm",
  "tags": [
   "First-In-Class Investigational Agent",
   "Peri-Nucleolar Compartment (PNC)",
@@ -52,7 +57,7 @@
   "Maximum Recommended Starting Dose"
  ],
  "title": "Metarrestin (ML-246) in Subjects With Metastatic Solid Tumors",
- "title_ko": null,
+ "title_ko": "전이성 고형암 환자를 대상으로 하는 Metarrestin (ML-246) 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors",
@@ -74,7 +79,7 @@
     "phone": "(240) 760-6238"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상의 성인 고형암, 췌장암, 대장암, 유방암 환자 또는 만 12세~17세의 소아 고형암 환자 (횡문근육종 제외) - 표준 전신 화학요법 이후 진행되었거나 표준 치료 옵션이 없는 환자 - RECIST 1.1 기준에 따른 측정 가능한 병변 보유 - 장기 기능이 적절하고 전신 수행 능력이 기준을 충족하는 환자. 제외 기준: - 치료 시작 전 일정 기간 내에 항암 치료, 수술 또는 방사선 치료를 받은 환자 - CYP3A4 억제제나 유도제를 복용 중이며 중단할 수 없는 환자 - 6개월 이내 진단된 심근병증이나 심장 질환이 있는 환자 - 항바이러스 치료 중인 HIV, HCV, HBV 양성 환자",
   "eligibility_text": "* INCLUSION CRITERIA:\n* Adult (\\>= 18 years) subjects with:\n\n  * histologically or cytologically confirmed solid tumors (Phase IA).\n\nOR\n\n--histologically or cytologically confirmed pancreatic, colorectal, or breast cancer (Phase IB)\n\nOR\n\n* Pediatric (\\>=12 and \\< 18 years) subjects with histologically or cytologically confirmed solid tumors other than rhabdomyosarcoma (RMS) including embryonal, alveolar, spindle cell/sclerosing and pleomorphic subtypes of RMS (Phase IB).\n* Subjects must have disease that:\n\n  * is not amenable to potentially curative resection,\n  * spread at least to one other organ system other than primary tumor or recurred after removal of primary tumor\n  * has site measurable per RECIST 1.1 (Phase IB only).\n  * progressed on or after at least one line of standard systemic chemotherapy (Phase IA and IB1)\n  * have no standard therapy option available (Phase IB2)\n* Patients must have recovered from any acute toxicity related to prior therapy or surgery or disease to a grade 1 or less.\n* Performance status\n\n  * Karnofsky \\>= 70% (for patients \\>= 16 years old), Lansky \\>= 70% (for patients \\<16 years old)\n* Adequate hematological function defined by:\n\n  * absolute neutrophil count (ANC) \\>= 1.0 x 10(9)/L,\n  * transfusion-independent platelet count \\>= 100 x 10(9)/L,\n  * Hgb \\>= 9 g/ dL (patients who have received \\<= 2 PRBC transfusions within 48 hours are eligible)\n* Adequate coagulation as defined by:\n\n  --INR\\<1.5 (or \\< 3.0 if subjects are currently taking anticoagulated medications) Note: increase of the upper limit of INR is restricted only to subjects who are receiving anticoagulation for medical reasons (DVT/PE prophylaxis, treatment for a thromboembolic event) and have increased INR because of these medications. Patients who have an elevated INR due to compromised liver function or any other medical conditions remain excluded\n* Adequate hepatic function defined by:\n\n  --a total bilirubin level \\<= 1.5 x ULN, (total bilirubin \\<= 2.0 x ULN in case of prior diagnosis of Gilbert syndrome)\n  * an AST level \\<= 3xULN\n  * an ALT level \\<= 3 xULN\n* Adequate renal function defined by:\n\n  --Creatinine OR Measured or calculated creatinine clearance (CrCl) (eGFR may also be used in place of CrCl)\\*\n\n  ---\\< 1.5x institution upper limit of normal OR\n\n  ---\\>= 45 mL/min/1.73 m\\^2 for participant with creatinine levels \\>= 1.5 X institutional ULN\n\n  \\*Creatinine clearance (CrCl) or eGFR should be calculated per institutional standard.\n* The effects of the study treatment on the developing human fetus are unknown; thus, individuals of childbearing potential and individuals who can father children must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior\n\nto study entry, for the duration of study therapy and up to 120 days after the last dose of the study drug.\n\n* Nursing participants must be willing to discontinue nursing at the time of the study treatment initiation.\n* Weight: \\>= 35 kg (\\>= 18 years old) or \\>=40 kg (\\>= 12 and \\< 18 years old).\n* Ability of subject or parent/guardian to understand and the willingness to sign a written informed consent document.\n* Subjects must have lesion(s) accessible for biopsy (other than used for measurement of disease) and be willing to undergo mandatory study biopsies (Cohort IB1 only).\n* Ability to swallow oral capsules.\n\nEXCLUSION CRITERIA:\n\n* Anticancer treatment within designated period before treatment initiation including:\n\n  * minor surgical procedure (such as biliary stenting) within 14 days. Note: if liver function tests after biliary stenting or renal function tests after ureteral stenting return to normal, within 5 days after biliary or ureteral stenting;\n  * major surgical procedure or curative radiation treatment within 28 days;\n  * palliative radiation treatment within 14 days;\n  * chemotherapy or experimental drug treatment with published half-life known to be 72 hours or less within 14 days;\n  * experimental drug treatment with unpublished or half-life greater than 72 hours within 28 days;\n  * chemotherapy regimen containing an alkylating antineoplastic agent (cyclophosphamide, chlorambucil, melphalan, or ifosfamide), alkylating-like (platinumbased chemotherapeutic drugs, platinum analogues), and non-classical alkylating agent (dacarbazine, temozolomide) within 28 days.\n* Patients receiving any medications or substances that are moderate and strong inhibitors or inducers of CYP3A4 and are not able to safely stop these medications are excluded from this study; patients must stop strong CYP3A4 inhibiting/inducing medications within 5 published half-lives and moderate within 3 published half-lives prior to the treatment initiation.\n\nNote: dihydropyridine calcium - channel blockers are permitted for management of underling disease.\n\n* Subjects with cardiomyopathy diagnosed within 6 months prior to treatment initiation including but not limited to the following:\n\n  * hypertrophic cardiomyopathy\n  * arrhythmogenic right ventricular cardiomyopathy\n  * abnormal ejection fraction (echocardiogram \\[ECHO\\]) \\<= 53% (if a range is given then the upper value of the range will be used)\n  * previous moderate or severe impairment of left ventricular systolic function (LVEF \\<45%)\n  * severe valvular heart disease\n  * atrial fibrillation with a ventricular rate \\>100 bpm on EKG at rest\n  * Fridericia's corrected QT interval (QTcF) \\>= 480 msec (adults) or \\>= 460 msec (pediatric subjects, aged 12 to \\<18 years) or other factors that increase the risk of QT prolongation or arrhythmic events (e.g., heart failure, hypokalemia, family history of long QT interval syndrome.\n* HIV, HCV, HBV positive patients on antiviral drugs are excluded due to the absence of previous experience with concurrent use of antiviral medications and the investigational drug product to be evaluated in the current study and possible for adverse pharmacokinetic and/or pharmacodynamic interactions.\n* Previous malignant disease (other than the target malignancy to be investigated in this trial) within the last 3 years. Note: subjects with a history of cervical carcinoma in situ, superficial or non-invasive bladder cancer, or basal cell or squamous cell carcinoma in situ previously treated with curative intent are NOT excluded.\n* Rapidly progressive disease which, in the opinion of the Investigator, may predispose to inability to tolerate treatment or trial procedures.\n* Subjects with central nervous system (CNS) metastases or CNS disorders known to increase possible neurotoxicity of metarrestin in case of compromised blood-brain barrier (e.g. recent stroke (\\<3 months of treatment initiation), infectious causes).\n* Significant acute or chronic infections including tuberculosis with presence of clinical symptoms or physical findings.\n* Patients with a history of any seizures or increased risk of seizures on screening EEGs defined by 1) interictal epileptiform discharges, 2) temporal intermittent rhythmic delta activity (TIRDA), or 3) electrographic or clinical seizures on EEG.\n* Clinically relevant diseases (for example, inflammatory bowel disease) and / or uncontrolled medical conditions, which, in the opinion of the Investigator, might impair the subject's tolerance or ability to participate in the trial.\n* Patients with previous gastric bypass, patients receiving nutrition via feeding tubes or parenterally, or patients with malabsorptive conditions (damage to the intestine from infection, inflammation, trauma, or surgery, celiac disease, Crohn's disease, chronic pancreatitis, or cystic fibrosis resulting malabsorption). Patients with refractory nausea and vomiting. Note: patients with gastric banding are allowed.\n* Pregnant individuals.",
   "enrollment": 116,
   "has_results": false,

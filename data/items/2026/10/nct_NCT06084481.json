@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06084481",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 약 325명이며 전 세계 약 54개 기관에서 진행되고 국내 기관은 6곳입니다.",
+  "ABBV-400 단독 요법, ITZ 병용 요법, bevacizumab 병용 요법 등 총 10개의 코호트로 나누어 진행됩니다.",
+  "췌장관상피암(PDAC)을 포함한 여러 진행성 고형암 환자가 참여 대상입니다.",
+  "치료 기간은 최대 3년이며, 최대 2년의 추가 안전성 추적 관찰 기간이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06084481"
  },
- "summary_ko": "Cancer is a condition where cells in a specific part of body grow and reproduce uncontrollably. The purpose of this study is to assess adverse events and change in disease activity when ABBV-400 is given to adult participants to treat advanced solid tumors.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 진행성 고형암 성인 환자를 대상으로 시험약 ABBV-400을 정맥 투여했을 때의 부작용과 질병 활성도 변화를 평가하기 위해 진행됩니다. 췌장관상피암(Pancreatic Ductal Adenocarcinoma, PDAC)을 포함한 여러 고형암 환자 325명을 목표로 전 세계 약 54개 기관에서 환자를 모집합니다. 코호트 1~8은 ABBV-400 단독 요법을 받고, 코호트 9는 ABBV-400과 itraconazole(ITZ), 코호트 10은 ABBV-400과 bevacizumab 병용 요법을 투여받습니다. 국내 기관은 6곳이 참여합니다.",
+ "summary_source": "llm",
  "tags": [
   "Hepatocellular Carcinoma",
   "Pancreatic Ductal Adenocarcinoma",
@@ -58,7 +63,7 @@
   "Advanced Solid Tumors"
  ],
  "title": "Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자에서 ABBV-400 투여의 부작용 및 질병 활성도 변화를 평가하는 1상 임상시험",
  "trial": {
   "conditions": [
    "Hepatocellular Carcinoma",
@@ -77,7 +82,7 @@
     "phone": "844-663-3742"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 프로토콜에 명시된 실험실 검사 기준을 충족하는 환자\n- 고형암 반응평가기준(RECIST) 버전 1.1에 따른 측정 가능한 병변이 있는 환자\n- 국소 진행성 또는 전이성 췌장관상피암(PDAC)을 포함한 지정된 진행성 고형암 진단이 문서로 확인된 환자\n- 프로토콜에 규정된 질병 활성도 기준을 충족하는 환자\n\n제외 기준:\n- ABBV-400 첫 투여 전 28이 또는 약물의 반감기 5배 기간(둘 중 짧은 것) 이내에 항암 치료를 받은 환자\n- 이전 항암 치료로 인한 임상적으로 유의한 1등급 초과의 미해결 부작용이 있는 환자\n- 전신 스테로이드 치료가 필요했던 간질성 폐질환(ILD) 또는 폐렴 병력이 있거나 활성 상태인 환자\n- 임상적으로 유의한 현재 폐 관련 질환 병력이 있는 환자\n- 치료되지 않은 뇌 전이 또는 수막 전이가 있는 환자\n- 프로토콜에 명시된 경우를 제외하고 다른 활성 악성 종양이 있는 환자\n- 폐 침범이 의심되거나 확인된 자가면역 질환, 결합조직 질환 또는 염증성 질환이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Laboratory values meeting the criteria laid out in the protocol.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Documented diagnosis of locally advanced or metastatic hepatocellular carcinoma (HCC), pancreatic ductal adenocarcinoma (PDAC), biliary tract cancers (BTC), squamous cell carcinoma of the esophagus, (ESCC), triple negative breast cancer (TNBC), hormone receptor+/HER2-breast cancer (HR+/HER2-BC), head and neck squamous-cell-carcinoma (HNSCC), or Platinum Resistant High Grade Epithelial Ovarian Cancer (PROC)/primary peritoneal/fallopian tube cancer (by World Health Organization \\[WHO\\] criteria). Participant meets the criteria for disease activity laid out in the protocol.\n\nExclusion Criteria:\n\n* Have received anticancer therapy including chemotherapy, radiation therapy, immunotherapy, biologic, or any investigational therapy within 28 days or 5 half-lives of the drug (whichever is shorter) prior to the first dose of ABBV-400. Palliative radiation therapy for bone, skin, or subcutaneous metastases with 10 fractions or less is permitted and not subject to a washout period.\n* Unresolved clinically significant AEs \\> Grade 1 from prior anticancer therapy.\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, or any evidence of active ILD or pneumonitis, including but not limited to those listed in the protocol.\n* History of clinically significant, intercurrent lung-specific illnesses, including those laid out in the protocol.\n* Untreated brain or meningeal metastases (i.e., participants with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy). Participants may continue on antiepileptic therapy if required.\n* History of other active malignancy, with the exception of those laid out in the protocol.\n* Any autoimmune, connective tissue or inflammatory disorders with documented or suspicious pulmonary involvement at screening (i.e., rheumatoid arthritis, Sjogren's, sarcoidosis etc.), and prior pneumonectomy.",
   "enrollment": 325,
   "has_results": false,

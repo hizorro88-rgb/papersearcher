@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT07425483",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 9명이며 국소 진행성, 전이성, 재발성 췌장암 환자를 대상으로 합니다.",
+  "중재 치료는 CAR-NK cells(CL-NK-003)이며 고정 용량으로 투여됩니다.",
+  "안전성, 내약성, 유효성을 평가하는 1상 임상시험입니다.",
+  "핵심 수치(생존기간, 반응률 등)는 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,14 +47,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07425483"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 국소 진행성, 전이성 또는 재발성 췌장암 환자를 대상으로 CAR-NK 세포 치료제인 CL-NK-003의 안전성과 내독성, 유효성을 평가하는 단일 기관, 공개, 최초 인간 대상(first-in-human), 고정 용량 1상 임상시험입니다. 총 9명의 환자를 목표로 환자들에게 중재 시술을 진행합니다. 초록에 명시된 생존기간이나 반응률 등의 결과는 아직 없습니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
   "CAR-NK"
  ],
  "title": "CAR-NK Cells (CL-NK-003) in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 환자 대상 CAR-NK 세포 치료제(CL-NK-003) 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -61,7 +66,7 @@
     "phone": "+86-13124828854"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세에서 75세 연령 - 표준 치료에 실패했거나 불내성이거나 거부한, 국소 진행성, 전이성 또는 재발성 췌장암 환자로 면역조직화학 검사상 eGR1 막 양성 종양 세포 비율 > 40% 및 발현 강도 ≥ 2+ 인 환자 - RECIST 1.1 기준 최소 1개의 측정 가능한 병병 - 최소 4주간 항종양 치료를 받지 않은 환자 - ECOG 수행 능력 상태 0-2 - 예상 여명 12주 초과 - 혈액학적 기준 충족 (호중구 ≥ 1.5×10^9/L, 림프구 ≥ 0.8×10^9/L, 혈색소 ≥ 100 g/L, 혈소판 ≥ 75 × 10^9/L) - 혈액 생화학적 기준 충족 (총 빌리루빈 ≤ 2×ULN, ALT ≤ 3×ULN, AST ≤ 3×ULN, 크레아티닌 청소율 ≥ LLN) - 임상시험 참여 자발적 동의 및 서면 동의서 작성.\n\n제외 기준: - 중추신경계 침범 증거가 있는 환자 - 동종 세포 치료(adoptive cell therapy)를 받은 적이 있는 환자 - 조절되지 않는 활성 감염 (HBV, HCV, HIV, 매독 양성 등 포함) - 3개월 이내 생백신 접종력 - 면역결핍 병력 - 활성 자가면역 질환 - 스크리닝 전 2주 이내에 프레드니손 10 mg/day(또는 동등한 용량)를 초과하는 전신 코르티코스테로이드 정기적 사용 - 심각한 호흡기, 심혈관, 대사성, 위장관 질환 등의 중증 질환 병력 - 연구 약물 또는 성분에 대한 심각한 부작용, 알레르기 또는 금기증 - 임신 또는 수유 중인 여성 - 신경학적 또는 정신적 질환 병력 - 연구자가 참여에 부적합하다고 판단한 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Aged 18-75 years;2. Locally advanced, metastatic, or recurrent pancreatic cancer, with immunohistochemical detection of eGR1 (membrane positive tumor cell rate \\>40% and expression intensity ≥2+), who have failed, been intolerant to or reject standard treatment;3. At least 1 measurable lesion according to RECIST 1.1;4. Have not received anti-tumor treatment for at least 4 weeks;5. ECOG performance status of 0-2;6. Estimated life expectancy more than 12 weeks;7. Hematology: neutrophils ≥ 1.5×10\\^9/L, lymphocytes ≥ 0.8×10\\^9/L, hemoglobin ≥ 100 g/L, and platelets ≥ 75 × 10\\^9/L;8. Blood biochemistry: total bilirubin ≤ 2×ULN, alanine aminotransferase ≤ 3×ULN, aspartate aminotransferase ≤ 3×ULN, and creatinine clearance ≥ LLN (Cockcroft-Gault formula);9. Volunteer to participate in this clinical study and willing to sign written informed consent.\n\nExclusion Criteria:\n\n* 1\\. Evidence of central nervous system involvement;2. Have received adoptive cell therapy;3. Patients with any uncontrolled active infection, including but not limited to: HBV, HCV, HIV, or treponema pallidum serology positive;4. Vaccinated with a live attenuated vaccine within 3 months;5. History of immunodeficiency;6. Active autoimmune disease;7. Regular use of systemic corticosteroids within 2 weeks prior to screening at a dose exceeding prednisone 10 mg/day (or equivalent) on any day; 8. Have severe conditions, including but not limited to: (1) severe respiratory diseases; (2) severe cardiovascular diseases (previous history of CABG/PCI; myocardial infarction/unstable angina pectoris, congestive heart failure of NYHA III-IV, left ventricular ejection fraction \\< 50%, or poorly controlled hypertension within 6 months; QTc interval \\> 480ms, long or short QT syndrome; previous history of ventrical arrhythmia, or ventrical arrhythmia under anti-arrhythmic drugs/ICD); (3) poorly controlled diabetes and other metabolic diseases; (4) severe gastrointestinal diseases (severe gastrointestinal bleeding, severe diarrhea of CTCAE ≥ 2, or severe gastrointestinal obstruction needing intervention);9. Possible severe adverse events, allergy or other contraindications to drugs or its component under study;10. Pregnant or lactating women;11. History of neurological or psychological disorders;12. Not suitable to participate this clinical study judged by the investigator.",
   "enrollment": 9,
   "has_results": false,

@@ -8,10 +8,11 @@
   "Liu X"
  ],
  "categories": [
+  "drug",
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-07",
  "history": [
   {
@@ -21,8 +22,12 @@
   }
  ],
  "id": "pmid:42837803",
- "importance": 0.65,
- "key_points_ko": [],
+ "importance": 0.59,
+ "key_points_ko": [
+  "라인(rhein) 처리는 췌장암 세포에서 MMP9 발현을 유의하게 억제했습니다 (P < 0.05).",
+  "라인은 세포 사멸을 촉진하고 세포 집락 형성, 이동, 당분해를 억제했습니다 (모두 P < 0.05).",
+  "동물 모델 실험에서 라인은 종양 성장을 억제하는 효과를 보였습니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.1016/j.prp.2026.156703",
@@ -44,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42837803/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 천연 안트라퀴논 유도체인 라인(rhein)이 췌장암 세포에 미치는 항암 효과와 그 분자적 기전을 밝히고자 했습니다. 연구진은 생물정보학 분석과 실험을 통해 라인이 TFAP2A/MMP9 축을 억제함으로써 암세포의 생존, 이동, 당분해(glycolysis)를 저해하고 세포 사멸을 유도한다는 사실을 확인했습니다. 또한 동물 모델(xenograft model)을 통해 라인이 종양 성장을 억제함을 입증했습니다. 초록에 환자 수나 구체적인 생존기간 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study",
- "title_ko": null,
+ "title_ko": "라인(Rhein)은 TFAP2A/MMP9 경로를 억제하여 췌장암 진행과 당분해를 억제합니다: 통합 생물정보학 및 실험 연구",
  "trial": null,
  "type": "paper"
 }

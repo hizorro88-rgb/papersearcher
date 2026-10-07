@@ -17,7 +17,11 @@
  ],
  "id": "nct:NCT04074135",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 740명이며, 현재 환자를 모집 중입니다.",
+  "중재 방법으로 68-Gallium DOTATATE PET/CT 영상 검사를 활용합니다.",
+  "12세 이상의 VHL 진단 및 췌장 병변이 있는 환자가 대상입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04074135"
  },
- "summary_ko": "Background:\n\nPeople with von Hippel-Lindau (VHL) can have problems with a variety of organs, such as the pancreas. The disease can cause tumors of the pancreas.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 폰 히펠-린다우(VHL) 질환을 가진 환자를 대상으로 췌장 병변의 자연경과를 평가하고 새로운 영상 검사의 유용성을 확인하기 위한 임상시험입니다. 12세 이상의 VHL 환자 740명을 목표로 하며, 68-Gallium DOTATATE PET/CT를 포함한 영상 검사와 생체 검사 등을 주기적으로 진행합니다. 이를 통해 종양의 특성을 파악하고 향후 치료와 관리 지침을 개선하고자 합니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic tumors",
   "68-Gallium DOTATATE",
@@ -52,7 +56,7 @@
   "신경내분비종양"
  ],
  "title": "Natural History and Management of Von Hippel-Lindau (VHL) Associated Pancreatic Neuroendocrine Tumors",
- "title_ko": null,
+ "title_ko": "폰 히펠-린다우(VHL) 연관 췌장 신경내분비종양의 자연경과 및 관리 연구",
  "trial": {
   "conditions": [
    "VHL Pancreatic Neuroendocrine Tumors",
@@ -71,7 +75,7 @@
     "phone": "(240) 760-6154"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- VHL 유전자의 이형접합체 생식세포 병원성 변이가 확인되었거나 임상적 기준을 충족하는 VHL 진단 환자\n- 비침습적 영상 검사에서 췌장 낭종, 미세낭성 선종 의심 병변, 신경내분비종양(PNET) 의심 병변 등을 포함하여 VHL의 췌장 징후가 최소 1개 이상 확인된 환자\n- 연령이 12세 이상인 환자\n- 서면 동의서를 이해하고 자발적으로 서명할 능력이 있는 환자\n제외 기준:\n- 연속적인 비침습적 영상 검사를 받을 수 없는 환자",
   "eligibility_text": "* INCLUSION CRITIERIA:\n\n  1. Participants who have been diagnosed with VHL using the following criteria:\n\n     \\-- Identification of a heterozygous germline pathogenic variant in VHL by molecular genetic testing.\n\n     or\n\n     \\-- Clinical criteria\n  2. Participants with at least 1 pancreatic manifestation of VHL as documented on any non-invasive imaging study. These manifestations may include:\n\n     * Pancreatic cyst(s)\n     * Solid lesions suspicious for microcystic adenoma(s)\n     * Solid enhancing lesions suspicious for PNET(s)\n     * Any other solid lesion(s) of the pancreas\n  3. Age greater than or equal to 12 years.\n  4. Ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n1\\. Inability of participant to undergo serial non-invasive imaging.",
   "enrollment": 740,
   "has_results": false,

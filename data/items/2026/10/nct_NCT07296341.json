@@ -2,7 +2,8 @@
  "abstract": "This study is a randomized, open-label, multicenter Phase II clinical trial designed to evaluate the Safety, Tolerability and Preliminary Efficacy of HRS-4642 Combination with Other Antitumor Therapies in Patients with Solid Tumors",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [
   "gem-nabp"
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT07296341",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 60명입니다.",
+  "대상 환자 연령은 18세부터 75세까지입니다.",
+  "중재 방법으로 HRS-4642, Adebrelimab Injection, nab-paclitaxel, gemcitabine 등이 사용됩니다.",
+  "구체적인 임상 결과는 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07296341"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 고형암 환자를 대상으로 HRS-4642 병용 요법의 안전성(Safety), 내오성(Tolerability), 예비 유효성(Preliminary Efficacy)을 평가하기 위한 무작위, 공개, 다기관 2상 임상시험입니다. 대상 질환은 국소 진행성 또는 전이성 췌장암을 포함합니다. 목표 인원은 총 60명이며, 연령은 18세에서 75세 사이의 환자가 참여합니다. 초록에 세부 생존기간이나 반응률 등의 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "HRS-4642 Combination With Other Antitumor Therapies in Patients With Solid Tumors",
- "title_ko": null,
+ "title_ko": "고형암 환자에서 HRS-4642와 다른 항종양 치료법의 병용 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced or Metastatic Pancreatic Cancer With"
@@ -58,7 +64,7 @@
     "phone": "0518-82342973"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n1. 동의서 서명 시점 기준 연령 18세~75세.\n2. ECOG 수행 능력 상태 0 또는 1.\n3. 기대 여명이 12주 이상.\n4. 조직병리학적으로 확정된 절제 불가능한 국소 진행성 또는 전이성 췌장암 및 췌장관선암 환자.\n5. 첫 치료 전 3년 이내에 보관되었거나 새로 획득한 포르말린 고정 파라핀 포묻기(FFPE) 조직 블록 또는 염색되지 않은 종양 검체 제공 가능 환자.\n6. 췌장암 평가 기준(RECIST 1.1)에 따른 측정 가능한 병변이 최소 1개 이상 존재.\n\n제외 기준:\n1. 치료되지 않았거나 활성 상태인 중추신경계(CNS) 종양 전이가 동반된 경우.\n2. 이전 치료로 인한 독성 및/또는 합병증이 NCI-CTCAE 1등급 이하로 회복되지 않은 경우.\n3. 간질성 폐렴이 알려졌거나 의심되는 경우.\n4. NCI-CTCAE v5.0 기준 3등급 이상의 장막성 체액 저류 또는 영상학적으로 대량의 복수가 있는 경우.\n5. 임상적으로 의미 있는 급성 또는 만성 췌장염.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age range of 18-75 years old (inclusive of both ends), gender not limited when signing the informed consent form\n2. ECOG performance status 0 or 1\n3. Life expectancy of greater than or equal to 12 weeks.\n4. Subjects with unresectable local advanced or metastatic pancreatic cancer, and pancreatic duct adenocarcinoma confirmed by histopathology\n5. Provide tumor tissue blocks fixed in formalin, embedded in paraffin, or unstained tumor specimen sections, which can be archived or freshly obtained within 3 years prior to the first study treatment (fresh acquisition is preferred).\n6. At least one measurable lesion is present according to the efficacy evaluation criteria for pancreatic cancer (RECIST 1.1)\n\nExclusion Criteria:\n\n1. Accompanied by untreated or active central nervous system (CNS) tumor metastasis\n2. Failure to recover toxicity and/or complications from previous interventions to NCI-CTCAE ≤ Level 1 or the levels specified by inclusion and exclusion criteria\n3. Subjects known or suspected to have interstitial pneumonia\n4. According to the common adverse reaction event evaluation criteria NCI-CTCAE v5.0, patients with ≥ grade 3 serous fluid accumulation or imaging evidence of a large amount of abdominal fluid accumulation (those who require therapeutic puncture and drainage within 2 weeks before starting the study treatment, only those with imaging showing a small amount of ascites and no clinical symptoms can be enrolled)\n5. Acute or chronic pancreatitis with significant clinical significance",
   "enrollment": 60,
   "has_results": false,

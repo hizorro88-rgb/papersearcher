@@ -11,7 +11,8 @@
   "Huang L"
  ],
  "categories": [
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [],
  "evidence": "observational",
@@ -25,7 +26,12 @@
  ],
  "id": "pmid:42832147",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 695명의 환자가 참여했으며, RAMPS 시행군은 352명, SRPS 시행군은 343명이었습니다.",
+  "RAMPS는 SRPS보다 무재발 생존기간(RFS)이 유의하게 길었습니다 (조정 위험비 0.46, 95% 신뢰구간 0.38-0.55, P < 0.001).",
+  "비장 혈관 침범이 있는 환자에서 RAMPS의 RFS 이점이 더욱 뚜렷하게 나타났습니다 (위험비 0.24).",
+  "RAMPS는 전체 생존기간(OS) 향상과도 연관이 있었습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1245/s10434-026-20627-y",
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42832147/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 T3 병기 췌장 체부 및 미부 췌장관암(PDAC) 환자 695명을 대상으로 근치적 전방향 모듈러 췌장비장절제술(RAMPS)과 표준 역방향 췌장비장절제술(SRPS)의 치료 성적을 비교했습니다. RAMPS는 SRPS에 비해 더 긴 무재발 생존기간(RFS)과 향상된 전체 생존기간(OS)을 보였습니다. 특히 비장 혈관 침범이 있는 환자에서 RFS 개선 효과가 두드러졌습니다. 이러한 결과는 위험도에 맞춘 수술 전략을 지지하며 전향적 검증이 필요합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study",
- "title_ko": null,
+ "title_ko": "T3 병기 췌장 체부 및 미부 췌장관암에서 근치적 전방향 모듈러 췌장비장절제술(RAMPS)과 표준 절제술의 비교: 다기관 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

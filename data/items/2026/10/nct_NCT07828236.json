@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT07828236",
  "importance": 0.76,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 등록 환자 수는 최대 18명입니다.",
+  "Lm-LLO-TT를 저용량 젬시타빈과 병용하여 복강 내(IP) 투여합니다.",
+  "주요 목적은 안전성, 내반성, 최대 허용 용량(MTD), 권장 제2상 용량(RP2D)을 평가하는 것입니다.",
+  "이차 목적에는 객관적 반응률, 질병 통제율, 무진행 생존기간 등 예비 항종양 활성 평가가 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07828236"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 이전에 치료받은 경험이 있는 절제 불가능 또는 전이성 췌장관상피암(PDAC) 성인 환자를 대상으로 면역항암제인 Lm-LLO-TT와 저용량 젬시타빈(gemcitabine)을 복강 내 투여하여 안전성과 내반성을 평가합니다. 최대 용량(MTD)과 권장 용량(RP2D)을 확인하기 위한 제1상, 공개, 최초 인체 적용 용량 증량 연구입니다. 최대 18명의 참가자가 등록될 예정이며, 베이즈 최적 구간(BOIN) 설계에 따라 용량이 조절됩니다. 환자들은 복강 내 통로 삽입 및 파상풍 톡소이드(tetanus toxoid) 부스터 백신 접종 후 치료를 받게 됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Unresectable Pancreatic Cancer",
   "cancer immunotherapy",
@@ -56,7 +61,7 @@
   "Listeria monocytogenes Immunotherapy"
  ],
  "title": "PHASE 1 TRIAL OF Lm-LLO-TT AND GEMCITABINE IN UNRESECTABLE PANCREATIC DUCTAL ADENOCARCINOMA",
- "title_ko": null,
+ "title_ko": "절제 불가능한 췌장관상피암에서 Lm-LLO-TT와 젬시타빈의 제1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Cancer, Duct Cell Adenocarcinoma",
@@ -70,7 +75,7 @@
     "phone": "2023215786"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 제공할 능력이 있고 자발적으로 동의한 자\n- 만 18세 이상의 성인\n- RECIST v1.1 기준에 따라 측정 가능한 병병이 있는 조직학적으로 확진된 췌장관상피암(PDAC)\n- 전이성 또는 절제 불가능한 질환에 대해 불소피리미딘 계열 또는 젬시타빈 계열지요법을 포함하여 최소 1차 이상의 전신 치료를 받았거나 이러한 치료에 금기증이 있는 자\n- ECOG 수행 능력 상태 0~2인 자\n- 예상 여명이 3개월을 초과하는 자\n\n제외 기준:\n- 완치 목적의 수술적 절제 대상자\n- 첫 연구 치료 전 2주 이내에 수술을 받은 자\n- 간경화의 증거가 있거나 임상적/방사리학적으로 유의한 복수가 있는 자\n- 연구 치료 전 28일 이내에 전신 활성 코르티코스테로이드를 투여받은 자\n- 임신 또는 수유 중인 자",
   "eligibility_text": "Inclusion Criteria:\n\nAble and willing to provide written informed consent. Adults aged 18 years or older. Histologically confirmed pancreatic ductal adenocarcinoma (PDAC) with measurable disease per RECIST v1.1.\n\nPreviously treated with at least one line of chemotherapy for metastatic or unresectable disease, including a fluoropyrimidine-based or gemcitabine-based regimen, or have a contraindication to these therapies.\n\nNo radiation therapy, targeted therapy, or chemotherapy within 14 days prior to first study treatment; no immunotherapy or biologic therapy within 28 days prior to first study treatment.\n\nRecovery to ≤ Grade 2 from clinically significant toxicities of prior therapy. ECOG Performance Status 0-2. Estimated life expectancy greater than 3 months. Adequate organ function, including adequate hematologic, hepatic, and renal function.\n\nParticipants with treated brain metastases may be enrolled if clinically stable for at least 1 month.\n\nWilling to comply with study procedures and contraceptive requirements. Participants with HIV may be enrolled if receiving antiretroviral therapy and CD4 count is \\>400 cells/µL.\n\nParticipants with hepatitis B may be enrolled if viral load is undetectable and appropriately treated; participants with hepatitis C may be enrolled following curative treatment.\n\nDemonstrated tetanus toxoid (TT) immune responsiveness, either at baseline or following administration of a tetanus toxoid booster during screening.\n\nExclusion Criteria:\n\n* History of chronic comorbidities that would significantly limit participation in the study, including severe heart failure (NYHA Class III-IV), end-stage renal disease, substance dependence, or inadequate venous access, as determined by the investigator.\n\nCandidate for curative-intent surgical resection.\n\nSurgery within 2 weeks prior to first study treatment.\n\nEvidence of hepatic cirrhosis or clinically/radiographically significant ascites.\n\nBlood transfusion within 14 days prior to study treatment or requirement for frequent blood transfusions (\\>2 per month).\n\nTreatment with systemically active corticosteroids within 28 days before study treatment (except low-dose dexamethasone ≤2 mg/day or prednisone ≤10 mg/day).\n\nSystemic antibiotic therapy within 14 days prior to first dose of Lm-LLO-TT.\n\nReceipt of another investigational product or vaccine within 28 days prior to first study treatment.\n\nReceipt of any vaccine other than the protocol-required tetanus toxoid booster within 4 weeks before study treatment or during the initial DLT evaluation period.\n\nMajor surgery, significant traumatic injury, unhealed surgical wounds, or planned surgery requiring general anesthesia within 28 days before study treatment.\n\nActive, uncontrolled HIV, hepatitis B, hepatitis C, or HTLV-1 infection, or CD4 count \\<400 cells/µL.\n\nPresence of implanted prosthetic devices, including orthopedic prostheses, pacemakers, or prosthetic heart valves.\n\nChronic immunosuppressive therapy for autoimmune or rheumatologic conditions.\n\nPregnant or breastfeeding individuals.\n\nActive uncontrolled bacterial infection requiring intravenous antibiotics, fever \\>38.1°C, or unexplained fever within 7 days before Day 1.\n\nHistory of Guillain-Barré syndrome within 6 weeks of a previous tetanus toxoid vaccination or prior Arthus-type hypersensitivity reaction to tetanus vaccine.",
   "enrollment": 18,
   "has_results": false,

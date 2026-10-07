@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "surgery"
  ],
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT07553793",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환: 항암화학요법 실패 후 진행된 국소 진행성 또는 복강 전이 췌장암",
+  "시험 치료: c-MET 표적 키메라 항원 수용체 대식세포(CAR-M-C-MET cell) 복강 내 주입",
+  "목표 환자 수: 18명",
+  "연령 및 상태: 18세 이상 75세 이하, ECOG 수행능력 0~1"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07553793"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 항암화학요법 후 종이 악화된 진행성 췌장암(advanced stage pancreatic cancer) 환자를 대상으로 c-MET을 표적하는 새로운 세포 치료제인 CAR-M-C-MET 복강 내 주입의 안전성과 항종양 효과를 평가합니다. 말초혈액 단핵구에서 분리한 단세포를 유전자 변형하여 CAR-M-C-MET 세포를 생성하며, 환자에게 단일 용량으로 투여합니다. 총 18명의 환자를 목표로 모집을 진행 중입니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
   "chimeric antigen receptor",
@@ -51,7 +57,7 @@
   "C-MET"
  ],
  "title": "Chimeric Antigen Receptor Macrophages Targeting c-MET for Advanced Stage of Pancreatic Cancer Patients",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자를 위한 c-MET 표적 키메라 항원 수용체 대식세포(CAR-M-C-MET) 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -64,7 +70,7 @@
     "phone": "861069152600"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 서면 동의서 자발적 서명 가능자 - 18세 이상 75세 이하의 남녀 - ECOG 수행능력 0~1 - 조직학적 또는 세포학적으로 확인된 절제 불가능 또는 복강 전이 췌장관암(pancreatic ductal adenocarcinoma) - 적어도 한 가지 이상의 이전 치료에 실패했거나 불내성인 환자 - 췌장암 조직에서 C-MET 중등도 이상 발현(++ 이상, 양성 세포 > 25%) - RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재 - 기대 여명 4개월 이상 - 적절한 장기 및 혈액학적 기능 유지 - 가임기 여성의 경우 첫 투여 전 7일 이내 임신 테스트 음성 제외 기준: - 성분채집술 전 특정 기간 내 면역조절제, 세포독성 치료, 임상시험용 약물, 표적 치료 등을 투여받은 환자 - 이전 CAR-T 세포 치료 또는 기타 세포 치료 이력이 있는 환자 - 간 전이가 전체 간 체적의 30%를 초과하는 환자 - 기타 동반 악성 종양 병력 - 면역억제제나 호르몬 치료가 필요한 자가면역질환 병력 - 중증 중추신경계 질환, 심혈관 질환, 장폐색, 중등도 이상의 지방간 또는 간경변 병력 - 최근 6개월 이내 수혈, 응급실 관찰, 입원이 필요한 위장관 출혈 병력 - 활동성 소화성 궤양 또는 중증 복강 내 감염 병력 - 인간면역결핍바이러스(HIV), 간염(B형/C형), 활동성 결핵 등 감염성 질환 보유 - 조절되지 않는 당뇨병, 고혈압 또는 기타 심각한 합병증이 있는 환자 - 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n1. Able to understand and voluntarily sign a written informed consent form.\n2. Willing and able to comply with the scheduled visit and treatment plan, laboratory tests, and other study requirements.\n3. Aged ≥ 18 years and ≤ 75 years on the day of signing the informed consent form, male or female.\n4. ECOG performance status of 0-1.\n5. Histologically or cytologically confirmed locally unresectable or abdominopelvic metastatic pancreatic ductal adenocarcinoma.\n6. Pancreatic cancer patients who have failed at least one prior line of therapy or are intolerant to such therapy.\n7. Medium to high expression of C-MET in pancreatic cancer tissue (defined as ++ or higher, with positive cells \\> 25%).\n8. At least one measurable lesion according to RECIST v1.1 criteria.\n9. Expected survival ≥ 4 months.\n10. Adequate organ function as defined by the following laboratory requirements:\n\n    Note: Subjects must not receive transfusions or growth factor support within 7 days prior to the first dose for hematology assessments.\n\n    Hematology:\n\n    Absolute Neutrophil Count (ANC) ≥ 1.5 × 10⁹/L.\n\n    Platelet Count (PLT) ≥ 100 × 10⁹/L.\n\n    Hemoglobin (HGB) ≥ 90 g/L or ≥ 5.6 mmol/L.\n\n    Liver and Kidney Function:\n\n    Creatinine (Cr) ≤ 1.5 × ULN.\n\n    Albumin ≥ 30 g/L (Albumin infusion is not permitted within 14 days prior to the first dose).\n\n    Total Bilirubin (TBIL) ≤ 1.5 × ULN (For subjects with liver metastases, TBIL ≤ 3 × ULN).\n\n    Alanine Aminotransferase (ALT) ≤ 2.5 × ULN.\n\n    Aspartate Aminotransferase (AST): For subjects with liver metastases, ALT and AST ≤ 5 × ULN.\n\n    Urinalysis:\n\n    Urine protein ≤ 1+, without accompanying edema or serum albumin levels below the lower limit of normal (LLN).\n\n    Coagulation:\n\n    International Normalized Ratio (INR) and Activated Partial Thromboplastin Time (APTT) ≤ 1.5 × ULN; unless the subject is receiving anticoagulant therapy, in which case PT or aPTT must be within the intended therapeutic range of the anticoagulant.\n\n    Prothrombin Time (PT) must be within the normal range.\n11. Females of childbearing potential must have a negative serum pregnancy test result within 7 days prior to the first dose and must not be lactating.\n\nExclusion Criteria:\n\n1. Received the following anti-tumor treatments prior to apheresis: Immunomodulatory therapy within 7 days; Cytotoxic therapy within 14 days; Investigational medication, targeted therapy, or anti-tumor traditional Chinese medicine within 28 days.\n2. Previously received CAR-T cell therapy or other cell therapies targeting any antigen.\n3. Liver metastases occupying more than 30% of the total liver volume.\n4. History of other concurrent malignancies, except for the following: Completely resected or eradicated basal cell carcinoma and squamous cell carcinoma of the skin, cervical carcinoma in situ, minute/microscopic papillary thyroid carcinoma, minute/microscopic breast cancer, and other malignancies with an extremely low risk of recurrence or metastasis.\n5. Patients with a history of autoimmune disease requiring immunosuppressive medication or hormone therapy (excluding physiological replacement doses).\n6. History of severe Central Nervous System (CNS) disease, such as grand mal seizures, paralysis, aphasia, stroke, severe brain injury, dementia, Parkinson's disease, or psychosis.\n7. Patients with a left ventricular ejection fraction (LVEF) \\< 50%, severe structural cardiac abnormalities, or arrhythmias requiring medical treatment.\n8. Patients with a history of medical treatment for intestinal obstruction, or those with imaging findings during screening indicating intestinal obstruction requiring treatment.\n9. Moderate to severe hepatic steatosis (fatty liver).\n10. Patients with moderate to severe cirrhosis (Child-Pugh Class A or worse) and significant portal hypertension.\n11. Patients with a history of gastrointestinal bleeding within the past 6 months requiring blood transfusion, emergency room observation, or hospitalization.\n12. Patients with active peptic ulcers.\n13. Patients with a history of severe intra-abdominal infection.\n14. History of abdominal surgery within the past 3 months.\n15. Any uncontrolled active infection.\n16. Infectious diseases, including but not limited to: 1) Known Human Immunodeficiency Virus (HIV) infection or Acquired Immunodeficiency Syndrome (AIDS)-related illness; 2) Hepatitis B (HBsAg positive) or Hepatitis C (HCV RNA positive); 3) Active tuberculosis infection, or currently receiving anti-tuberculosis therapy, or having received anti-tuberculosis therapy within 1 year prior to the first dose of study drug; 4) Positive for Treponema pallidum antibody; 5) Other infectious diseases deemed unsuitable for participation in this study by the investigator.\n17. Previous anti-tumor therapy-related Adverse Events (AEs) that have not resolved to Grade 1.\n18. Patients with deep vein thrombosis (DVT) or other conditions requiring anticoagulation therapy (e.g., heparin, warfarin).\n19. Patients with a history of any arterial embolism.\n20. Presence of other serious conditions prior to apheresis that could potentially limit the subject's participation in this trial, such as: Poorly controlled diabetes (glycated hemoglobin \\[HbA1c\\] \\> 8% despite treatment), inadequately controlled hypertension (blood pressure \\> 160 mmHg / 100 mmHg despite medication), myocardial infarction within the last 6 months, severe arrhythmia or unstable angina not well controlled by medication, pulmonary embolism, chronic obstructive pulmonary disease (COPD), interstitial lung disease (ILD), etc.\n21. Pregnant or lactating women; women or men of childbearing potential planning pregnancy during the study period.\n22. Substance abuse (medication or drugs), or clinical, psychological, or social factors that would impair informed consent or study conduct.\n23. Patients with a history of severe allergies (e.g., allergies to three or more substances including food, drugs, etc.).\n24. Presence of moderate or severe ascites.\n25. Currently participating in another interventional clinical trial.\n26. Any uncertainty that could affect patient safety or compliance.\n27. Any other condition deemed by the investigator to make the subject unsuitable for enrollment.",
   "enrollment": 18,
   "has_results": false,

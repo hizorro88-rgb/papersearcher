@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT07306286",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 1차 AG 치료 실패 후의 국소 진행성 췌장암입니다.",
+  "중재 치료는 냉동소변술(Cryoablation)과 PD-1/CTLA-4(Apalulizumab) 이중 기능 항체 병용입니다.",
+  "목표 인원은 20명이며 현재 환자 모집 중(recruiting)입니다.",
+  "임상 단계는 2상(PHASE2)입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07306286"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 1차 AG(Abraxane/Gemcitabine) 치료에 실패한 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 냉동소변술(cryoablation)과 이중 기능 항체 PD-1/CTLA-4(Apalulizumab) 병용 요법의 효과와 안전성을 평가하는 2상 임상시험입니다. 총 20명의 환자를 목표로 루이진 병원(Ruijin Hospital)에서 환자를 모집하고 있습니다. 본 연구는 1차 치료 실패 후 2차 치료를 위한 더 많은 임상적 증거와 치료 옵션을 축적하는 것을 목표로 합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Cryoablation Combined With the Dual-Function Antibody PD-1/CTLA-4 for the Treatment of LAPC Following Failure of First-Line AG Therapy",
- "title_ko": null,
+ "title_ko": "1차 AG 치료 실패 후 국소 진행성 췌장암 환자를 위한 냉동소변술 및 PD-1/CTLA-4 이중 기능 항체 병용 요법",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma Locally Advanced"
@@ -63,7 +68,7 @@
     "phone": "0086-13918536451"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세 이상, 성별 무관 - 췌장 덕 상피세포에서 기원한 병리학적으로 확진된 국소 진행성 췌장암 - 이전 표준 AG 치료 실패 기록(최소 1주기 이상의 표준화된 항암화학요법 수용 후 치료 중 질병 진행 또는 불내성, 또는 치료 종료 후 질병 진행) - ECOG 전신 수행 능력 점수 0~2점 - 적절한 장기 기능 보유(혈액, 생화학, 심장 기능 검사 기준 충족) - 수술, 방사선 치료, 화학 치료 또는 기타 항종양 치료 후 최소 3주 경과 및 독성이 1등급 이하로 회복 또는 안정화 - 자발적 임상 참여 및 동의서 서면 동의 - 생존 추적 관찰에 협조할 의향. 제외 기준: - 전이성 췌장암 또는 이전에 췌장암 중재적 치료를 받은 경력이 있는 경우 - 임상적 중재가 필요한 복수가 있는 환자 - 임상적으로 심각한 위장관 질환(출혈, 감염성 염증, 천공, 폐쇄, 또는 1등급 초과 설사) - 진통제 표준 치료 후 NRS 통증 점수가 4점 이상인 경우 - 5년 이내의 두 번째 원발성 악성 종양 - 조절되지 않는 임상 증상이 있는 심혈관 또는 뇌혈관 질환 - 활동성 B형 간염 환자(HBsAg 양성 및 HBV DNA ≥ 10³ copies 또는 ≥ 1000 U/ml) - 스크리닝 기간 또는 투여 당일에 활동성 감염 또는 원인 불명의 38.5°C 초과 발열 - irinotecan hydrochloride liposome, 기타 리포좀, oxaliplatin, 5-FU, LV, S-1의 성분에 알레르기가 있는 경우 - 임산부 또는 수유 중인 여성 - 가임기 여성 중 스크리닝 기간 임신 검사 양성인 경우 - 연구자의 판단에 따라 동의서 서명, 임상 참여, 결과 해석에 영향을 미칠 수 있는 기타 의학적 또는 사회적 문제가 있는 경우 - 예상 생존 기간이 3개월 이하인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 18 years and above, with no gender restrictions;\n* Pathologically confirmed pancreatic cancer (originating from the pancreatic ductal epithelium), with clinical records indicating locally advanced pancreatic cancer;\n* Clinical records indicating previous failure of standard AG treatment (having received at least one cycle of standardized chemotherapy, with disease progression or intolerance during treatment, or disease progression after the end of treatment);\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 2;\n* Adequate organ function, meeting the following criteria:\n\n  a. Hematological tests:\n  1. Neutrophils ≥ 1.5 × 10⁹ /L;\n  2. White blood cells ≥ 3.0 × 10⁹ /L;\n  3. Platelets ≥ 85 × 10⁹ /L;\n  4. Hemoglobin ≥ 70 g/L; b. Biochemical tests:\n\n  <!-- -->\n\n  1. Total bilirubin ≤ 2× upper limit of normal (ULN) (for subjects with biliary obstruction, after biliary drainage ≤ 2.5 × ULN);\n  2. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) in metastatic subjects ≤ 5 × ULN;\n  3. Albumin level ≥ 28 g/L;\n  4. Creatinine clearance rate ≥ 60 ml/min; c. Cardiac function tests:\n\n  <!-- -->\n\n  1. Normal electrocardiogram (ECG) or ECG abnormalities deemed clinically insignificant by the investigator;\n  2. Left ventricular ejection fraction (LVEF) ≥ lower limit of normal;\n* At least 3 weeks post-surgery, radiotherapy, chemotherapy, or other anti-tumor treatments, with general physical condition or related adverse reactions having recovered (toxicity ≤ grade 1) or stabilized;\n* Willing to participate and sign the informed consent form;\n* Good compliance and agreement to cooperate with survival follow-up.\n\nExclusion Criteria:\n\n* Metastatic pancreatic cancer or has previously undergone interventional treatment for pancreatic cancer;\n* Subjects with ascites requiring clinical intervention (including moderate to large amounts of ascites; subjects with ascites need to be stable for more than 4 weeks after drainage);\n* Clinically severe gastrointestinal diseases (including bleeding, infectious inflammation, perforation, obstruction, or diarrhea greater than grade 1);\n* NRS pain score ≥ 4 after standardized treatment with analgesics;\n* Second primary malignancy within 5 years (except cured carcinoma in situ, basal cell, or squamous cell skin cancer; subjects with other previous tumors can be enrolled if there has been no recurrence within 5 years);\n* Uncontrolled cardiovascular or cerebrovascular diseases with clinical symptoms, including but not limited to: ① NYHA class III or higher heart failure; ② unstable angina; ③ myocardial infarction or stroke within 6 months; ④ supraventricular or ventricular arrhythmias requiring treatment or intervention; ⑤ uncontrolled hypertension (systolic blood pressure \\&gt; 150 mmHg and/or diastolic blood pressure \\&gt; 90 mmHg despite optimal treatment);\n* Known active hepatitis B subjects (HBsAg positive and HBV DNA ≥ 10³ copies or ≥ 1000 U/ml);\n* Active infection or unexplained fever \\&gt; 38.5°C during the screening period or on the day of administration (subjects with fever caused by tumors can be enrolled as judged by the investigator), which, in the investigator\\&#39;s judgment, would affect the subject\\&#39;s participation in this trial or interfere with the evaluation of efficacy;\n* Known allergy to any components of irinotecan hydrochloride liposome, other liposomes, oxaliplatin, 5-FU, LV, or S-1;\n* Pregnant or breastfeeding women;\n* Women of childbearing potential with a positive blood (urine) pregnancy test during the screening period (both male and female subjects should use reliable contraception during the trial and for 3 months after the last dose to prevent pregnancy);\n* Subjects with other medical or social issues that, in the investigator\\&#39;s judgment, might affect their ability to sign informed consent, participation in the trial, or interpretation of the trial results;\n* Patients with an estimated survival time of ≤ 3 months are not included in this study.",
   "enrollment": 20,
   "has_results": false,

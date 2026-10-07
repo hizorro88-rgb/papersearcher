@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06573398",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 20명이며, 이전에 전신 항암 치료를 받은 적이 없는 경계성 절제 가능 췌장암(BRPC) 환자가 대상입니다.",
+  "중재 치료로 SBRT(정위체부방사선치료)와 순차적 AG 요법(albumin-bound paclitaxel + Gemcitabine), Tislelizumab, 그리고 Thymalfasin을 병용합니다.",
+  "주요 관찰 지표는 선행암치료 후의 R0 절제율(R0 resection rate)입니다.",
+  "안전성은 각 선행암치료 주기 후와 마지막 투여 후 30일에 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06573398"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 경계성 절제 가능 췌장암(borderline resectable pancreatic cancer, BRPC) 환자 20명을 대상으로 방사선 치료(Radiotherapy)와 순차적 항암화학요법(Gemcitabine+albumin-bound paclitaxel), 면역항암제 Tislelizumab(티슬레주맙), 그리고 Thymalfasin(티말파신) 병용 요법의 유효성과 안전성을 평가하는 단일기관, 단일군 2상 임상시험입니다. 수술 전 4주기의 선행암치료(neoadjuvant therapy)를 진행한 후 근치적 수술을 시행합니다. 주관찰 지표는 선행암치료 후의 R0 절제율(R0 resection rate)입니다. 초록에 환자의 실제 생존 기간이나 반응률 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "borderline resectable",
   "thymalfasin",
@@ -56,7 +61,7 @@
   "pancreatic ductal adenocarcinoma"
  ],
  "title": "Radiotherapy With Sequential Chemotherapy Combined With PD-1 Inhibitor and Thymalfasin for BRPC",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 한 방사선 치료와 순차적 항암화학요법, PD-1 억제제 및 Thymalfasin 병용 임상시험",
  "trial": {
   "conditions": [
    "Carcinoma, Pancreatic Ductal"
@@ -68,7 +73,7 @@
     "phone": "+86 18101870031"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n1. 18세 이상이며 ECOG 수행능력 평가 0~1인 환자\n2. 조직학적 또는 세포학적으로 확진된 췌장 관상피암(ductal adenocarcinoma of pancreas)\n3. NCCN 가이드라인(2024년판)에 따른 경계성 절제 가능 췌장암(BRPC) 분류에 해당하는 자\n4. 연구 기관의 다학제팀(MDT) 논의에 따라 선행암치료에 적합하다고 판단된 자\n5. 호중구 수 1.5 × 10^9/L 이상, 혈색소 10 g/dL 이상, 혈소판 수 100 × 10^9/L 이상의 혈액학적 기준 충족\n6. 총 빌리루빈 1.5 × 정상치 상한(ULN) 이하, AST 및 ALT 1.5 × ULN 미만, 크레아티닌 청소율 60 mL/min 이상, 응고 기능 이상(INR 또는 PT 1.5 × ULN 이하)\n7. 가임기 여성의 적절한 피임 조치\n8. 연구 참여에 대한 동의서 서명\n9. 연구 계획서 및 추적 관찰 절차 준수 가능\n\n제외 기준:\n1. 이전의 전신 항암 치료 이력\n2. 자궁경부 상피내암, 치료된 편평세포암 또는 방광 요로상피암(Ta 및 TIS), 또는 등록 최소 5년 전에 근치적 치료를 받은 다른 악성종양을 제외한 과거 종양 병력\n3. 이전 복부 방사선 치료 이력\n4. NCI-CTC 버전 3 기준 2등급 이상의 활동성 세균 또는 진균 감염 환자\n5. HIV, HCV, HBV 감염 환자, 조절되지 않는 관상동맥질환이나 천식, 조절되지 않는 뇌혈관질환 또는 연구자가 부적합하다고 판단한 기타 질환\n6. 자가면역질환 또는 면역결핍이 있어 면역억제제 치료가 필요한 환자\n7. 임신 또는 수유 중인 여성\n8. 연구 진행에 영향을 미칠 수 있는 약물 남용 또는 정신적·사회적 요인이 있는 환자\n9. PD-1 단일클론항체 면역치료제에 알레르기가 있을 수 있는 환자\n10. 장기 또는 골수 이식을 예정 중이거나 이식 받은 이력이 있는 환자\n11. 첫 투여 전 14일 이내 또는 연구 기간 동안 전신 코르티코스테로이드(프레드니손 등가 용량 10 mg/일 초과) 또는 기타 면역억제제 치료가 필요한 환자\n12. 첫 투여 전 28일 이내 생백신 투여 이력(계절성 인플루엔자 불활화 백신 제외)\n13. 활동성 폐결핵\n14. 첫 투여 전 6개월 이내 면역에 영향을 미치는 관련 약물 또는 의료기술(티모펜틴, 티말파신, 인터페론, CAR-T 치료 등) 투여 이력\n15. 기타 연구자가 이 임상시험에 부적합하다고 판단한 상태의 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years, with ECOG score of 0 \\~ 1;\n2. Histologically or cytologically confirmed diagnosis of ductal adenocarcinoma of pancreas;\n3. Classification as borderline resectable pancreatic cancer according to the NCCN Guidelines (2024 Edition);\n4. Deemed suitable for neoadjuvant therapy following discussion by the MDT team of the study site;\n5. Subjects must meet the following criteria for hematology test:\n\n   1. Neutrophil count ≥ 1.5 × 10\\^9/L\n   2. Hemoglobin ≥ 10 g/dL\n   3. Platelet count ≥ 100 × 10\\^9/L\n6. Subjects must meet the following criteria for blood chemistry tests:\n\n   1. Total bilirubin ≤ 1.5 × upper limit of normal (ULN)\n   2. AST and ALT \\< 1.5 × ULN\n   3. Creatinine clearance ≥ 60 mL/min\n   4. Good coagulation, defined as international normalized ratio (INR) or prothrombin time (PT) ≤ 1.5 × ULN\n7. Subjects of childbearing potential should take appropriate protective measures (contraceptive methods or other birth control methods) prior to enrollment and throughout the clinical study;\n8. Has signed the informed consent form;\n9. Capable of complying with the study protocol and follow-up procedures.\n\nExclusion Criteria:\n\n1. Prior systemic anti-tumor therapy;\n2. Prior medical history of other tumors, except for cervical carcinoma in situ, treated squamous cell carcinoma or urothelial bladder carcinoma (Ta and TIS), or other malignant tumors that have received radical treatment (at least 5 years prior to enrollment);\n3. Prior history of abdominal radiotherapy;\n4. Subjects with active bacterial or fungal infection (≥ Grade 2 as per NCI-CTC, Version 3).\n5. Subjects with HIV, HCV, or HBV infection, uncontrollable coronary artery disease or asthma, uncontrollable cerebrovascular disease or other diseases judged by the investigator to be ineligible for enrollment;\n6. Subjects with autoimmune diseases or immunodeficiency and requiring treatment with immunosuppressive agents;\n7. Pregnant or lactating women; women of childbearing potential must have a negative pregnancy test results within 7 days prior to enrollment;\n8. Subjects with drug abuse/clinical/psychological/social factors that affect informed consent or study conduct;\n9. Subjects who may be allergic to PD-1 monoclonal antibody immunotherapy drugs;\n10. Patients who are scheduled to undergo or have previously undergone organ or bone marrow transplant;\n11. Patients requiring treatment with systemic corticosteroids (at dose level \\> 10 mg/day prednisone efficacy) or other immunosuppressive drugs within 14 days prior to the first dose or during the study. However, enrollment is permitted if: In the absence of active autoimmune disease, patients are permitted to use topical or inhaled steroids, or adrenal hormone replacement therapy at dose level ≤ 10 mg/day prednisone efficacy;\n12. Treatment with live vaccines within 28 days prior to the first dose; except for inactivated viral vaccines for seasonal influenza;\n13. Active pulmonary tuberculosis;\n14. Treatment with related drugs or medical technology affecting immunity within 6 months prior to the first dose (including but not limited to: thymopentin, thymalfasin, interferon, CAR-T therapy, etc.);\n15. Patients with other conditions unsuitable for this clinical trial judged by the investigator.",
   "enrollment": 20,
   "has_results": false,

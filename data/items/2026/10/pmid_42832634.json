@@ -11,7 +11,8 @@
   "Castillo CF"
  ],
  "categories": [
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "sbrt"
@@ -27,7 +28,12 @@
  ],
  "id": "pmid:42832634",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 44명의 환자가 췌장 재방사선 치료를 받았으며, 이 중 95.5%(42/44명)가 치료를 완료했습니다.",
+  "재방사선 치료 후 6개월 및 12개월 국소 제어율(LC)은 각각 69.6%와 58.5%였습니다.",
+  "6개월 무진행 생존기간(PFS), 원격 전이 없는 생존기간(DMFS), 전체 생존기간(OS)은 각각 47.7%, 61.0%, 71.6%였습니다.",
+  "급성 3등급 이상의 독성은 2명의 환자에게서 발생했습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1097/COC.0000000000001381",
@@ -49,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42832634/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장암(pancreatic cancer, PC) 환자를 대상으로 한 췌장 재방사선 치료(pancreatic re-RT)의 타당성과 임상적 결과를 평가하기 위한 다기관 후향적 분석입니다. 2개 대학 센터에서 2012년부터 2025년 사이에 치료받은 환자 44명을 대상으로 분석을 진행했습니다. 연구 결과, 재방사선 치료 완료 후 6개월 및 12개월 국소 제어율(local control, LC)은 각각 69.6%와 58.5%였습니다. 췌장 재방사선 치료는 선별된 환자에게 타당하며 유망한 국소 제어 및 항암 치료 휴식기를 제공할 수 있습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Pancreatic Reirradiation: A Multi-Institutional Retrospective Analysis of Feasibility, Tolerability, and Clinical Outcomes",
- "title_ko": null,
+ "title_ko": "췌장 재방사선 치료: 타당성, 내성, 임상적 결과에 대한 다기관 후향적 분석",
  "trial": null,
  "type": "paper"
 }

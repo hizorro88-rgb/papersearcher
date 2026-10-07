@@ -17,7 +17,11 @@
  ],
  "id": "nct:NCT07121478",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 46명이며, 국내 기관 1곳에서 진행됩니다.",
+  "대상 질환은 고등급 췌장 신경내분비종양 및 신경내분비암종입니다.",
+  "중재 약물은 Lurbinectedin 4 MG Injection [Zepzelca]입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,22 +45,22 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07121478"
  },
- "summary_ko": "* Pancreatic neuroendocrine tumor (pNET) is a rare form of cancer. Treatment options such as hormonal therapy (octreotide) and targeted therapy (everolimus and sunitinib) may be considered for grade 1 or 2 pNETs; however, cytotoxic chemotherapy is essential in cases with grade 3 pNETs or pNECs.",
- "summary_source": "excerpt",
+ "summary_ko": "본 임상시험은 고등급(high-grade) 췌장 신경내분비종양(Pancreatic Neuroendocrine Tumors, pNET) 또는 신경내분비암종(neuroendocrine carcinoma) 환자를 대상으로 Lurbinectedin(루비넥테딘)의 효과를 평가하기 위한 2상(phase 2) 임상시험입니다. 국립암센터(National Cancer Center, Korea)에서 진행하며, 목표 환자 수는 46명입니다. 이전 표준 항암 치료에 실패한 환자들을 대상으로 중재 치료를 시험합니다.",
+ "summary_source": "llm",
  "tags": [
   "Lurbinectedin",
   "Neuroendocrine Tumors",
   "신경내분비종양"
  ],
  "title": "Patients With High-grade Pancreatic Neuroendocrine Tumors",
- "title_ko": null,
+ "title_ko": "고등급 췌장 신경내분비종양 환자를 대상으로 한 Lurbinectedin 4 MG Injection [Zepzelca] 2상 임상시험",
  "trial": {
   "conditions": [
    "Neuroendocrine Tumor of Pancreas",
    "Pancreatic Neuroendocrine Tumors"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 췌장 신경내분비종양 또는 신경내분비암종의 임상적 진단\n* 이전 표준 항암 치료의 실패 기록\n* 절대호중구수(ANC) 1,500 cells/mm³ 이상\n* 혈소판 수 100,000 cells/mm³ 이상\n* 연구 내용을 이해하고, 절차를 준수하며, 연구를 완료할 의지가 있는 자\n\n제외 기준:\n* 다른 암에 대한 치료를 현재 받고 있는 자 (등록 전 최소 2년 이상 무병 상태로 치료를 마친 경우는 제외)\n* 임신 또는 수유 중인 여성\n* 임상적 또는 의학적 사유로 연구 참여가 부적절하다고 판단되는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Clinical diagnosis of Pancreatic neuroendocrine tumor or neuroendocrine carcinoma\n* Documented failure of prior standard anti-cancer treatment\n* Absolute neutrophil count (ANC) ≥ 1,500 cells/mm³\n* Platelet count ≥ 100,000 cells/mm³\n* Ability to understand study content, willingness to comply with study procedures, and commitment to complete the study\n\nExclusion Criteria:\n\n* Currently receiving treatment for other cancers (except those who completed treatment and have been disease-free for at least 2 years prior to enrollment)\n* Pregnant or breastfeeding women\n* Deemed unsuitable for participation by the investigator due to clinical or medical reasons",
   "enrollment": 46,
   "has_results": false,

@@ -17,7 +17,12 @@
  ],
  "id": "nct:NCT06760364",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 표준 치료에 실패하거나 내성을 보이는 메소텔린 양성 진행성 췌장암입니다.",
+  "임상시험 단계는 1상(PHASE1)이며 목표 인원은 21명입니다.",
+  "환자 연령은 18세부터 70세까지입니다.",
+  "초록에 명시되지 않음: 생존기간, 반응률, 위험비 등 구체적인 수치는 초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06760364"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 메소텔린(mesothelin) 양성인 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 메소텔린 표적 UCAR-T 세포 치료제인 CHT102의 안전성과 유효성을 평가합니다. 용량 증량 단계에서 3개의 계획된 용량 코호트를 평가합니다. 안전성 검토 위원회(SRC)의 검토 후 용량 확장 단계가 시작됩니다. 목표 환자 수는 21명입니다.",
+ "summary_source": "llm",
  "tags": [
   "Allogeneic CAR-T",
   "Safety",
@@ -50,7 +55,7 @@
   "PK"
  ],
  "title": "A Clinical Study of CHT102 in MSLN-Positive Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "메소텔린 양성 진행성 췌장암 환자를 위한 CHT102 임상시험",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Cancers"
@@ -62,7 +67,7 @@
     "phone": "+86-02223340123"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 서면 동의서를 이해하고 서명할 수 있는 능력, 2. 동의서 서명일 기준 18~70세 남성 또는 여성, 3. 표준 치료에 실패했거나 표준 치료를 견딜 수 없는 조직학적으로 확인된 진행성 또는 전이성 췌장암 환자, 4. 양성 메소텔린 발현, 5. RECIST 버전 1.1에 따라 기준선에서 최소 하나의 측정 가능한 병변, 6. 예상 생존 기간이 12주 이상, 7. ECOG 0-1점, 8. 적절한 장기 기능. 제외 기준: 초록에 명시되지 않음",
   "eligibility_text": "Inclusion Criteria:\n\n1. Ability to understand and sign a written informed consent documen；\n2. At the date of signing ICF, 18 \\~70 years old, male or female；\n3. Histopathological confirmed advanced or metastatic pancreatic cancer patients who have failed to standard treatment or intolerance with standard treatment；\n4. Positive mesothelin expression;\n5. At least one measurable lesion at baseline per RECIST version 1.1；\n6. The expected survival time is more than 12 weeks;\n7. ECOG 0-1 points;\n8. Adequate organ functions.",
   "enrollment": 21,
   "has_results": false,

@@ -2,7 +2,8 @@
  "abstract": "This is an open-label, dose escalation, multicenter, phase 1, first-in-human study of XNW28012 in subjects with advanced solid tumors who have failed current standard anti-tumor therapies or are intolerant to such therapies. The study consists of two parts: a dose escalation part and a dose expansion part.",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -16,7 +17,12 @@
  ],
  "id": "nct:NCT06799637",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계는 1/2상(PHASE1/PHASE2)이며, 최초 인체 투여(first-in-human) 연구입니다.",
+  "중재 약물은 XNW28012이며, 단일군 공개(open-label) 다기관 연구로 진행됩니다.",
+  "목표 환자 수는 총 350명입니다.",
+  "초록에 명시된 효능, 반응률, 생존기간 등의 수치는 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06799637"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 표준 치료에 실패하거나 내성을 가진 진행성 고형암 환자를 대상으로 신약 XNW28012를 평가하는 임상 1/2상 시험입니다. 연구는 용량 증량(dose escalation)과 용량 확장(dose expansion) 두 부분으로 나누어 진행됩니다. 췌장암(pancreatic carcinoma), 난소암(ovarian cancer), 자궁경부암(cervical cancers) 등을 포함한 진행성 고형암 환자가 대상입니다. 총 목표 인원은 350명이며, 현재 환자를 모집 중입니다.",
+ "summary_source": "llm",
  "tags": [
   "XNW28012"
  ],
  "title": "Study of XNW28012 in Subjects With Advanced Solid Tumors Who Failed Standard Treatments",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자 대상 XNW28012 임상 1/2상 시험",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors",
@@ -66,7 +72,7 @@
     "phone": "+86 15172466243"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 용량 증량 부분의 경우, 기존 표준 항암 치료에 실패했거나 내성이 있는 조직학적으로 확진된 진행성 및/또는 전이성 고형암 환자. 2. 용량 확장 부분의 경우, 난소암, 자궁경부암, 췌장암, 대장암 진단을 받고 기존 치료에 실패한 환자. 3. 동의 시점 기준 만 18세 이상. 4. RECIST v1.1 기준에 따른 최소 1개의 측정 가능한 병변 보유(용량 확장 부분만 해당). 5. ECOG 수행 능력 점수 0 또는 1인 환자. 6. 첫 투여 전 7일 이내 적절한 장기 기능 보유. 7. 기대 여명이 최소 12주 이상인 환자. 8. 가임기 여성의 경우 첫 투여 전 7일 이내 임신테스트 음성. 9. 피임법 준수 동의 환자. 10. 연구 참여 동의서 작성 가능자. 제외 기준: 1. 단일클론항체/항체-약물 접합체(ADC)에 대한 심각한 주입 반응 또는 XNW28012 성분에 대한 알레르기 병력. 2. 첫 투여 전 28일 이내 항암 치료(소분자, 면역요법, 화학요법 등) 이력. 3. 본 연구 대상 질암 외의 활성 악성 종양 보유. 4. 첫 투여 전 4주 이내 생백신 접종 이력. 5. 선별 검사 전 1주일 이내 G-CSF 또는 GM-CSF 지원, 2주일 이내 페길화 G-CSF 지원을 받은 경우. 6. 이전 항암 치료로 인한 독성이 CTCAE 등급 1 이하로 회복되지 않은 경우. 7. 임상적으로 유의미한 심혈관/뇌혈관 질환. 8. 선별 검사 시 활성 안구 표면 질환이 있거나 반점성 결막염 병력이 있는 경우. 9. 독성 표피 괴사용해(TEN) 또는 스티븐-존슨 증후군 병력이 있는 경우. 10. 첫 투여 전 28일 이내 대수술을 받은 경우. 11. 조직 인자(TF) 발현 검사 요구조건을 충족하는 종양 조직 샘플을 제공할 의사가 없거나 제공할 수 없는 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. For the dose escalation part: subjects with histologically or cytologically confirmed advanced and/or metastatic solid tumors who have failed the established standard anti-cancer therapies for a given tumor type or have been intolerant to such therapies.\n2. For the dose expansion part: subjects must have a histological or cytological diagnosis of progressive, locally advanced, and/or metastatic ovarian cancer, cervical cancer, pancreatic cancer, or colorectal cancer (CRC) who have failed the following anti-cancer therapies: Ovarian cancer, Cervical cancer, Pancreatic cancer, Colorectal cancer.\n3. Age ≥ 18 years old at the time of consent.\n4. Subjects must have at least 1 measurable lesion as defined per RECIST version 1.1 (for dose expansion part only).\n5. Subjects must have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale. ECOG status of 2 can be allowed if it is a result of disease progression and warrants discussion with the medical monitor.\n6. Subjects must have adequate organ function within 7 days prior to the first study drug administration, as indicated by the flaboratory values:\n7. Life expectancy of at least 12 weeks.\n8. Females of childbearing potential must have a negative pregnancy test within 7 days prior to the first dose of study drug. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n9. Non-sterile subjects must be willing to use a highly effective contraception (e.g., IUD, pill, or condom) for the duration of the study and for 6 months after the last dose of study drug unless their partner is sterilized.\n10. Subjects are able to provide written informed consent, understand and are willing to comply with the requirements of the study.\n\nExclusion Criteria:\n\n1. A history of severe infusion reactions to other monoclonal antibodies/antibody drug conjugates (ADCs) or allergic reactions to any components of XNW28012.\n2. Any anti-tumor therapy within 28 days prior to the first dose, including but not limited to: small molecules, immunotherapy, chemotherapy, monoclonal antibodies, or any other experimental drugs.\n3. Any active malignancy, with the exception of the specific types of cancers under investigation in this study and any locally recurring cancer that has been treated curatively .\n4. Have received a live vaccine within 4 weeks prior to the first dose of study drug. Note: Seasonal vaccines for influenza are generally inactivated vaccines and are allowed; however, intranasal influenza vaccines will not be allowed if they are attenuated live vaccines.\n5. Have received granulocyte colony stimulating factor (G-CSF) or granulocyte / macrophage colony stimulating factor support within 1 week before screening, or pegylated G-CSF within 2 weeks before screening.\n6. Subjects with toxicities (as a result of prior anti-cancer therapy) which have not improved to CTCAE grade ≤1 or stabilized, except those AEs not considered as a likely safety risk (e.g., alopecia).\n7. Any history of intracerebral arteriovenous malformation, cerebral aneurysm, or stroke (transient ischemic attack) ≤ 3 months prior to screening is allowed if stable.\n8. Any of the hematological risk factors:\n9. Subjects who are unwilling or unable to provide tumor tissue samples that meet the requirements for tissue factor (TF) expression testing.\n\n11\\. Clinically significant cardiovascular/cerebrovascular conditions. 12. Active ocular surface disease at screening, or subjects with any prior episode of cicatricial conjunctivitis.\n\n13\\. Any history of Toxic Epidermal Necrolysis (TEN) or Steven Johnson Syndrome. 14. Subjects who have undergone major surgery within 28 days prior to the first dose of study drug, except if the procedure is minimally invasive (for example, introduction of peripherally inserted central catheter \\[PICC\\] line).\n\nand so on.",
   "enrollment": 350,
   "has_results": false,

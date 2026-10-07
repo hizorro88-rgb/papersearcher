@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT06926075",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 목표 인원은 약 80명입니다.",
+  "1상에서는 20명에서 32명의 참여자를 등록합니다.",
+  "치료는 3주(21일) 주기로 경구 투여됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06926075"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 및 전이성 고형암 환자를 대상으로 신규 vimentin 억제제인 KESONOTIDE™의 안전성과 내성을 평가하는 1상 및 2상 적응증 연구입니다. 공개 다기관 연구로 진행되며, 1상에서는 용량 제한 독성(MTD), 권장 2상 용량, 최적 생물학적 용량을 확인하고, 2상에서는 환자들에게 권장 용량을 단독 또는 표준 치료와 병용으로 투여합니다. KESONOTIDE™는 21일 주기로 경구 투여됩니다. 초록에 췌장암에 대한 구체적 언급은 없으며, 전립선암, 유방암, 폐암, 난소암, 교모세포종 등이 대상 질환으로 언급되어 있습니다.",
+ "summary_source": "llm",
  "tags": [
   "kesonotide, vimentin inhibotor"
  ],
  "title": "Early Phase Study of KESONOTIDE™in Participants With Solid Tumours",
- "title_ko": null,
+ "title_ko": "고형암 환자를 대상으로 한 신규 vimentin 억제제 KESONOTIDE™ 초기 임상시험",
  "trial": {
   "conditions": [
    "Prostate Cancers",
@@ -70,7 +75,7 @@
     "phone": "+61 429 854 390"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상의 성인 남녀\n* ECOG 수행능력 점수 0 또는 1\n* 연구자의 판단에 따른 기대 여명이 12주 초과\n* 1군(Part 1)의 경우 RECIST v1.1 기준에 따른 측정 가능 또는 평가 가능한 질환 보유\n* 조직학적 또는 세포학적으로 확진된 국소 진행성/전이성 고형암\n* 1주기 1일차 7일 이내에 적절한 장기 기능을 충족한 자\n\n제외 기준:\n* 비스테로이드성 소염제, 경구 스테로이드 등을 포함한 항염증제나 스타틴을 중단할 수 없는 자\n* 연구 시작 전 4주 이내 또는 약물의 반감기 5배 이내에 다른 임상시험용 의약품에 참여한 경력이 있는 자\n* NCI-CTCAE v5.0 기준 0 또는 1등급으로 회복되지 않은 이전의 부작용이 있는 자\n* 연구자가 판단한 임상적으로 유의미한 활동성 감염이 있는 자\n* 등록 전 6개월 이내의 심근경색 또는 불안정성 협심증 병력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female adults (defined as ≥ 18 years of age or acceptable age according to local regulations at the time of voluntarily signing of informed consent).\n* Has an ECOG performance status score of 0 or 1.\n* Has a life expectancy of \\> 12 weeks in the opinion of the investigator.\n* Measurable or evaluable disease by CT/MRI according to RECIST v1.1, except for prostate and breast cancer (bone only metastases are acceptable) and glioma.\n* Histologically or cytologically confirmed locally advanced/metastatic solid cancers.\n* Has adequate organ function within 7 days prior to Day 1 of Cycle 1, defined as below:\n* Laboratory Value\n* Hematology\n* Platelet count \\> 100 x 109/L\n* Hb \\> 9.0 g/dL\n* ANC \\> 1.5 x 109/L\n* Renal Function\n* Creatinine \\< 1.5 x ULN\n* Hepatic Function\n* AST and ALT \\< 3 x ULN for the reference laboratory or \\< 5 x ULN in the presence of liver metastases\n* Total bilirubin ≤ 1.5 x ULN\n* Serum albumin ≥ 2.5 g/dL\n* INR/PT and APTT ≤ 1.5 x ULN\n* Male and female participants of reproductive/childbearing potential must agree to use adequate contraceptive methods (e.g., double barrier or intrauterine contraceptive) for at least 90 days during the study and after the last dose of study drug.\n* Male participants must not freeze or donate sperm starting at screening and throughout the study period, and at least 90 days after the final study drug administration.\n* Female participants must not donate, or retrieve for their own use, ova from the time of screening and throughout the study treatment period, and at least 90 days after the final study drug administration.\n* Has failed standard of care or refused next line therapy at the present time and if approved treatment options are still available, can delay approved treatments without harm as judged by the investigator (e.g., patients requesting a break between lines of therapy).\n\nAdditional Inclusion Criteria for Parts 2 and 3:\n\n* Measurable disease (as defined for Part 1) or recognised and abnormal biomarker levels (e.g., PSA for prostate cancer, CA15.3 for breast cancer).\n* Defined diseases or disease states of interest, suitable for dose expansion.\n* Patients who have enrolled in Part 1 of the study (dose-escalation), and in the opinion of the investigator, are benefitting from treatment, may be eligible for Parts 2 and 3.\n\nExclusion Criteria:\n\n* Participants who are unable to cease any anti-inflammatory medications or statins prior to and during the study, including non-steroidal anti-inflammatories, oral steroids at any dose; topical steroids and anti-inflammatories are allowable.\n* Participants who have participated in other clinical trials and received investigational products within 4 weeks, or within five half-lives of the treatment, whichever is longer, before Cycle 1 Day 1 of the study period.\n* Previous adverse reactions which have not returned to Grade 0 or 1 according to NCI-CTCAE v5.0 (except alopecia and fatigue) at the screening visit.\n* A clinically significant active infection determined by the investigator.\n* Significant or recurrent third space accumulation (e.g., ascites or pleural effusions) according to the investigator.\n* Has a medical history of myocardial infraction or unstable angina within 6 months before enrolment.\n* Has a medical history of symptomatic CHF (New York Heart Association (NYHA) classes II-IV) or serious cardiac arrhythmia requiring treatment.\n* Has a history or presence of uncontrolled mental illness.\n* The participant is expected to be non-compliant with critical trial procedures and is not willing or able to adhere to the trial requirements during the study.\n* Participants are deemed inappropriate for this clinical trial at the discretion of the investigator.\n\nAdditional Exclusion Criteria for Parts 2 and 3:\n\n\\- Patients must not have more than 2 prior lines of therapy.",
   "enrollment": 80,
   "has_results": false,

@@ -11,7 +11,9 @@
   "Veggalam S"
  ],
  "categories": [
-  "treatment"
+  "drug",
+  "treatment",
+  "basic"
  ],
  "entities": [],
  "evidence": "review",
@@ -25,7 +27,11 @@
  ],
  "id": "pmid:42837725",
  "importance": 0.54,
- "key_points_ko": [],
+ "key_points_ko": [
+  "췌장암에서는 reovirus와 adenovirus 기반 플랫폼의 초기 임상시험에서 안전성과 면역 활성화가 관찰되었습니다.",
+  "췌장암 치료는 기질(stromal) 및 전달 장벽으로 인해 효능이 여전히 제한적입니다.",
+  "간암(HCC)은 림프종 및 위장관암 중 OV 중개 연구의 가장 성숙한 모델로 pexastimogene devacirepvec(Pexa-Vec) 등이 연구되었습니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.1016/j.seminoncol.2026.152563",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42837725/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 논문은 위장관 악성 종양에서 용해성 바이러스(oncolytic viruses, OVs) 치료의 임상적 진행과 과제를 다룬 문헌 고찰입니다. 췌장암(pancreatic ductal adenocarcinoma, PDAC), 대장암, 간암 등의 환자를 대상으로 바이러스 기반 치료의 안전성과 면역 활성화 효과를 정리했습니다. 췌장암에서는 초기 임상시험을 통해 안전성과 면역 활성화가 확인되었으나 기질 및 전달 장벽으로 인해 효과가 제한적이었습니다. 간암 등 다양한 위장관암에서 임상적 발전 가능성과 함께 극복해야 할 면역학적 장벽들을 제시했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Oncolytic viruses in gastrointestinal malignancies: Clinical progress, translational challenges, and future directions",
- "title_ko": null,
+ "title_ko": "위장관 악성 종양에서의 용해성 바이러스: 임상적 진전, 중개적 과제 및 미래 방향",
  "trial": null,
  "type": "paper"
 }

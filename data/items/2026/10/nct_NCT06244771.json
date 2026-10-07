@@ -17,7 +17,11 @@
  ],
  "id": "nct:NCT06244771",
  "importance": 0.75,
- "key_points_ko": [],
+ "key_points_ko": [
+  "KRAS G12C 변이를 가진 진행성 고형암 환자를 대상으로 합니다.",
+  "임상시험은 1상(용량 증량 및 확장)과 2상(코호트 확장)으로 진행됩니다.",
+  "목표 환자 수는 총 403명이며, 국내 기관 5곳에서 참여합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,15 +45,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06244771"
  },
- "summary_ko": "The goal of this clinical trial is to evaluate FMC-376 in participants with advanced solid tumors with KRAS G12C mutations. This clinical trial will be conducted in 3 parts: Phase 1A (Dose Escalation), Phase 1B (Dose Expansion), and Phase 2 (Cohort Expansion).",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 KRAS G12C 변이가 있는 진행성 고형암 환자를 대상으로 FMC-376의 안전성과 효과를 평가합니다. 연구는 1A상 용량 증량(Dose Escalation), 1B상 용량 확장(Dose Expansion), 2상 코호트 확장(Cohort Expansion)의 3가지 부분으로 나누어 진행됩니다. 진행성 고형암 환자에서 다양한 용량 수준을 평가할 예정이며, 총 목표 환자 수는 403명이고 국내 기관 5곳이 포함됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Lung Cancer",
   "KRAS",
   "G12C"
  ],
  "title": "A Study Evaluating FMC-376 in Participants With KRAS G12C Mutated Solid Tumors",
- "title_ko": null,
+ "title_ko": "KRAS G12C 변이 진행성 고형암 환자를 대상으로 한 FMC-376 평가 연구",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors With KRAS G12C Mutations",
@@ -68,7 +72,7 @@
     "phone": "+1 (650) 457-1005"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 국소 진행성 절제 불가능 또는 전이성 KRAS G12C 변이 고형암. - 이전 표준 치료에 실패했거나 불내성을 보였거나, 표준 치료가 부적절하다고 판단되는 경우. - ECOG 수행능력 상태 0 또는 1. - 적절한 혈액학적, 신장, 간 기능. - 연구 약물을 투여받는 동안 다른 중재적 연구에 참여하지 않음에 동의. 제외 기준: - 뇌막 질환(Leptomeningeal disease) 또는 암성 수막염(Carcinomatous meningitis). - 이전 암 치료로 인한 임상적으로 유의미한 독성. - FMC-376 또는 연구 약물의 성분에 대한 알려진 과민증. - 연구 약물 흡수를 방해할 수 있는 상태. - 안전성, 순응도 또는 데이터 해석에 영향을 미칠 수 있는 질병이나 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumors with KRAS G12C mutation\n* Received and progressed or been intolerant to prior standard therapy OR standard therapy is considered inappropriate OR an investigational agent is considered standard of care\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Adequate hematological, renal, and hepatic function\n* Agrees not to participate in another interventional study while receiving study drug\n\nExclusion Criteria:\n\n* Leptomeningeal disease or carcinomatous meningitis\n* Clinically significant toxicity resulting from prior cancer therapies\n* Known or suspected hypersensitivity to FMC-376 or any components of the study drug\n* Condition that would interfere with study drug absorption\n* Any illness or medical history that would impact safety or compliance with study requirements or impact ability to interpret study data",
   "enrollment": 403,
   "has_results": false,

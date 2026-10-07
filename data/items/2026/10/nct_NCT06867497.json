@@ -2,7 +2,8 @@
  "abstract": "The purpose of this clinical study is to compare and evaluate the pharmacokinetic characteristics and the safety between administration of BR2021 and BR2021-1 in patients with metastatic adenocarcinoma of the pancreas",
  "authors": [],
  "categories": [
-  "trial"
+  "trial",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -16,7 +17,12 @@
  ],
  "id": "nct:NCT06867497",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계: 1상(PHASE1)",
+  "목표 환자 수: 20명",
+  "대상 질환: 전이성 췌장 선암(metastatic adenocarcinoma of the pancreas)",
+  "중재 방법: BR2021, BR2021-1"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -40,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06867497"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 전이성 췌장 선암(metastatic adenocarcinoma of the pancreas) 환자를 대상으로 BR2021과 BR2021-1의 약동학(pharmacokinetic)적 특성과 안전성을 비교하고 평가합니다. 보령제약(Boryung Pharmaceutical Co., Ltd)에서 스폰서로 참여하며 1상(PHASE1) 단계로 진행됩니다. 목표 인원은 20명이며 국내 2곳의 기관에서 환자를 모집하고 있습니다. 대상 환자의 연령은 19세부터 74세까지입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study to Compare and Evaluate the Pharmacokinetic Characteristics and the Safety Between Administration of BR2021 and BR2021-1",
- "title_ko": null,
+ "title_ko": "BR2021과 BR2021-1 투여 간 약동학적 특성 및 안전성을 비교 평가하기 위한 연구",
  "trial": {
   "conditions": [
    "Metastatic Adenocarcinoma of the Pancreas"
@@ -56,7 +62,7 @@
     "phone": "+82-2-708-8000"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 조직학적 또는 세포학적으로 증명된 전이성 췌장 선암(metastatic adenocarcinoma of the pancreas) 환자- 첫 임상시험용 의약품 투여일로부터 마지막 투여 후 최소 6개월까지 의학적으로 인정되는 피임법을 사용하고 정자 또는 난자 제공에 동의하지 않는 자- 임상시험에 대한 자세한 설명을 듣고 충분히 이해한 후 자발적으로 참여를 결정하고 서면 동의서에 서명한 자. 제외 기준:- 여성 환자 중 임신부, 임신 의심자 또는 수유부- 임상시험용 의약품 투여 전 2주부터 연구 종료 시까지 금기 약물을 투여해야 하는 자- 첫 투여 전 48시간부터 사후 방문(PSV)까지 약물의 흡수, 분포, 대사, 배설에 영향을 미칠 수 있는 식단(예: 자몽, 자몽 주스 등)을 중단할 수 없는 자- 연구 기간 동안 약물의 대사 및 배설에 영향을 미칠 수 있는 다른 약물을 중단할 수 없는 자- 첫 투여일 전 4주 이내에 다른 임상시험(생동성 시험 포함)에 참여하여 시험약을 투여받았거나 반감기의 5배 기간이 경과하지 않은 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Those with histologically or cytologically proven metastatic adenocarcinoma of the pancreas\n* Those who agree to rule out the possibility of their and their spouses' or sexual partners' pregnancy by using medically recognized methods of contraception (contraceptives administration \\& transplantation or intrauterine device(IUD), sterilization(vasectomy, tubal ligation, etc.), barrier methods (spermicide \\& male condom, combined use of contraceptive diaphragm, sponge or cervical cap)) from the date of the first administration of the investigational products to at least 6 months after the last administration date and disagree to provide their sperm or ovum.\n* Those who spontaneously decide to participate and sign written consent to comply with the subject's precautions after listening to and fully understanding detailed explanation of this clinical trial\n\nExclusion Criteria:\n\n* In the case of a female subject, pregnant woman or those suspected pregnancy or lactating woman.\n* Those who have to administer this study's contraindicated drugs with the investigational product from 2 weeks before the participation until end of this study\n* Those who can't discontinue a diet (ex. raw grapefruit, grapefruit juice or food containing grapefruit, etc.) that may affect the absorption, distribution, metabolism, and excretion of the drug from 48 hours before the first administration date to post study visit(PSV)\n* Those who can't discontinue other drugs except the investigational product of this study that may affect the metabolism and excretion of the drug for the entire study period (However, if necessary, such as treatment of adverse event, it can be administrated according to investigator's judgment)\n* Those who have participated in other clinical trials(including bioequivalence tests) and administered their investigational products within 4 weeks before the first administration date (However, the termination for participation in other clinical trials are based on the last administration date of their investigational products) or those whose last administration date of their investigational products of other clinical trials doesn't elapse five times the half-life of their investigational products based on the first administration date of investigational product of this study",
   "enrollment": 20,
   "has_results": false,

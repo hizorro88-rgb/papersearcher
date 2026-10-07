@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "surgery"
  ],
  "entities": [
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT07691593",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 60명입니다.",
+  "대상 질환은 췌관선암(pancreatic ductal adenocarcinoma)입니다.",
+  "중재 방법은 HRS-4642와 NALIRIFOX 병용에 adebrelimab 추가 여부를 포함합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,17 +49,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07691593"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 HRS-4642와 항암화학요법(NALIRIFOX)의 병용 치료에 면역요법(adebrelimab)을 추가하거나 제외했을 때의 안전성과 유효성을 평가하는 2상 임상시험입니다. Changhai Hospital에서 진행하며 목표 환자 수는 60명입니다. 18세부터 70세 사이의 환자를 대상으로 합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Neoadjuvant HRS-4642 Plus Chemotherapy With or Without Immunotherapy for Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 환자를 위한 신보조 요법으로서 항암화학요법에 면역요법을 병용하거나 병용하지 않는 HRS-4642 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 만 18세에서 70세 사이의 남녀. 2. 병리학적 또는 세포학적으로 확진된 췌장 췌관선암(ductal adenocarcinoma of the pancreas) 환자이며 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자. 3. 예상 여명 12주 이상. 4. ECOG 수행 능력 평가 0 또는 1. 5. 골수 및 장기 기능이 적절한 자. 제외 기준: 1. 전신 항암화학요법, 방사선 치료, 면역요법, 표적치료 등을 포함한 이전 항암 치료받은 경력. 2. 영상 검사로 확인된 원격 전이 병변이 있는 자. 3. 시험약 또는 부형제에 과민반응이 있는 자. 4. 심각하거나 조절되지 않는 전신 질환이 있는 자. 5. 동종 조혈모세포 이식 또는 고형 장기 이식 병력이 있는 자. 6. 임상적으로 유의한 급성 또는 만성 췌장염. 7. 첫 투여 전 4주 이내에 약물 또는 의료기기 관련 중재적 임상시험 참여 경력. 8. 첫 투여 전 4주 이내 생백신 또는 약독화 생백신 접종. 9. 연구자의 판단에 따라 참여가 부적절하다고 판단되는 자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Male and female participants aged 18-70 (including those who are 18 and 70 years old)；\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1);\n3. Life expectancy ≥ 12 weeks;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Adequate marrow and organ function;\n\nExclusion Criteria:\n\n1. Prior receipt of any anti-tumor therapy, including but not limited to systemic chemotherapy, radiotherapy, interventional therapy, immunotherapy, targeted therapy, and anti-tumor traditional Chinese medicine therapy;\n2. Presence of distant metastatic lesions confirmed by imaging;\n3. Known hypersensitivity to the investigational drug or any of its excipients;\n4. Presence of any serious or uncontrolled systemic disease;\n5. History of allogeneic hematopoietic stem cell transplantation or solid organ transplantation;\n6. Clinically significant acute or chronic pancreatitis;\n7. Participation in any interventional clinical trial involving drugs or medical devices within 4 weeks prior to the first administration of study treatment;\n8. Vaccination with live or live-attenuated vaccines within 4 weeks prior to the first dose of the investigational drug;\n9. Any other condition that, in the judgment of the investigator, makes the subject unsuitable for enrollment.",
   "enrollment": 60,
   "has_results": false,

@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "surgery"
  ],
@@ -20,7 +21,11 @@
  ],
  "id": "nct:NCT07802184",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 국소 진행성 또는 전이성 췌장덕암(pancreatic ductal adenocarcinoma, PDAC)입니다.",
+  "시험 치료는 GnP, SHR-1701, Apatinib 병용 요법의 1차 치료입니다.",
+  "목표 환자 수는 45명이며, 초록에 명시되지 않음 단계 및 반응률 결과는 초록에 명시되지 않음입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07802184"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 국소 진행성 또는 전이성 췌장덕암(pancreatic ductal adenocarcinoma, PDAC) 환자의 1차 치료로서 GnP(gemcitabine 및 Nab-paclitaxel) 항암화학요법에 면역항암제 SHR-1701과 표적치료제 apatinib(아파티닙)을 병용 투여하여 안전성과 유효성을 평가합니다. 연구는 전향적, 단일군, 단일기관, 제1b/2상 임상시험으로 진행됩니다. 목표 환자 수는 45명이며, 초록에 명시되지 않음 단계입니다. 국내 기관은 0곳입니다.",
+ "summary_source": "llm",
  "tags": [
   "Locally advanced pancreatic cancer",
   "Metastatic pancreatic cancer",
@@ -54,7 +59,7 @@
   "GnP"
  ],
  "title": "GnP Combined With SHR-1701 and Apatinib as First-Line Treatment for Locally Advanced or Metastatic PDAC",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성 췌장암 환자에서 GnP와 SHR-1701, Apatinib 병용 요법의 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Cancer",
@@ -72,7 +77,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연령 18세~75세, 성별 무관\n- 조직학적으로 확진된 췌장덕암(PDAC) 환자\n- 이전에 치료받지 않은 절제 불가능한 국소 진행성 또는 전이성 PDAC 환자로 RECIST v1.1 기준에 따라 최소 1개의 측정 가능한 병변이 있는 경우\n- ECOG 수행 능력 상태 0~1\n- 예상 기대 여명 3개월 이상\n- 주요 장기 기능이 적절하게 유지된 자\n\n제외 기준:\n- 연구 약물에 과민반응이 알려진 자\n- 중추신경계(CNS) 전이가 알려졌거나 의심되는 자\n- 5년 이내에 다른 악성 종양 병력이 있는 자 (적절히 치료된 기저세포암이나 자궁경부 상피내암 제외)\n- 연구 치료 외에 다른 항암 치료가 필요한 자\n- 이전에 화학요법, FAK 억제제, 또는 PD-1, PD-L1, PD-L2, CD137, CTLA-4 등을 타깃으로 하는 항체 치료를 받은 자\n- 조절되지 않는 고혈압, 심각한 심장 질환, 출혈성 또는 혈전성 질환 병력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1\\) Age 18-75 years, regardless of sex; 2) patients with histologically confirmed pancreatic ductal adenocarcinoma (PDAC); 3) previously untreated patients with unresectable locally advanced or metastatic PDAC, with at least one measurable lesion according to RECIST v1.1, and target lesions must not have received prior radiotherapy or local treatment; 4) ECOG performance status of 0-1; 5) life expectancy ≥3 months; 6) willingness to comply with study procedures and able to receive treatment and undergo follow-up; 7) adequate major organ function, with laboratory test results meeting the following criteria within 7 days before enrollment: white blood cell (WBC) count ≥2.5×10⁹/L, absolute neutrophil count (ANC) ≥1.5×10⁹/L, platelet (PLT) count ≥75×10⁹/L, hemoglobin (HGB) ≥90 g/L (without blood transfusion or erythropoietin \\[EPO\\] dependence within 7 days), total bilirubin (TBIL) ≤1.5× the upper limit of normal (ULN), alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤5×ULN, albumin ≥30 g/L, international normalized ratio (INR) ≤1.5×ULN, serum creatinine (Cr) ≤1.5×ULN, and urinary protein ≤1+; 8) patients who are hepatitis B surface antigen (HBsAg)-positive with a peripheral blood hepatitis B virus DNA (HBV-DNA) level ≤1×10³/L; patients who are HBsAg-positive with a peripheral blood HBV-DNA level ≥1×10³/L may also be eligible if, in the investigator's judgment, chronic hepatitis B is clinically stable and does not increase the patient's risk; 9) voluntary participation in the study and provision of written informed consent.\n\nExclusion Criteria:\n\n1\\) Known hypersensitivity to any study drug; 2) known or suspected central nervous system metastases, defined as signs or symptoms suggestive of CNS metastasis, unless CNS metastasis has been excluded by CT or MRI; 3) history of other malignancies within 5 years, except adequately treated basal cell carcinoma of the skin or carcinoma in situ of the cervix; 4) requiring any concomitant anticancer treatment other than the study treatment during the study, including chemotherapy, targeted therapy, hormonal therapy, immunotherapy, radiotherapy, or traditional Chinese medicine with antitumor activity; 5) prior or current treatment with chemotherapy, FAK inhibitors, or antibodies targeting PD-1, PD-L1, PD-L2, CD137, or cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4), including ipilimumab or any other antibody or drug targeting T-cell costimulatory or checkpoint pathways; 6) diagnosis of immunodeficiency or chronic systemic corticosteroid therapy (prednisone \\>10 mg/day or equivalent) or any other form of immunosuppressive therapy within 7 days before the first dose of study treatment; 7) receipt of a live vaccine within 30 days before the first dose of study treatment, including but not limited to measles, mumps, rubella, varicella/zoster, yellow fever, rabies, Bacillus Calmette-Guérin (BCG), and typhoid vaccines; inactivated seasonal influenza vaccines are permitted, whereas live attenuated vaccines such as intranasal influenza vaccines (e.g., FluMist) are not permitted; 8) uncontrolled hypertension, defined as systolic blood pressure \\>160 mmHg and/or diastolic blood pressure \\>100 mmHg despite treatment; 9) significant cardiac disease, including congestive heart failure (NYHA class III-IV), previous myocardial infarction, or uncontrolled angina within 6 months; 10) clinically significant arrhythmias requiring treatment, including atrial fibrillation, supraventricular tachycardia, ventricular tachycardia, or ventricular fibrillation, or ECG abnormalities confirmed on repeat examination that, in the investigator's judgment, require clinical intervention or treatment; 11) history of hemorrhagic or thromboembolic events within the past 6 months, such as cerebrovascular accident (including transient ischemic attack), pulmonary embolism, or spontaneous major tumor-related bleeding; 12) surgery required within 28 days before or anticipated within 28 days after the last dose of study treatment; 13) uncontrolled third-space fluid accumulation, such as large pleural effusion or ascites; 14) definite gastrointestinal bleeding tendency within 4 weeks before the first dose, including: ① active localized ulcerative lesions with positive fecal occult blood; ② melena or hematemesis within 28 days; or ③ positive fecal occult blood in patients with unresected tumor invasion of the gastrointestinal tract who, in the opinion of the principal investigator at the study center, may be at risk of major gastrointestinal bleeding; 15) previous gastrointestinal perforation or suspected risk of gastrointestinal perforation, or intestinal obstruction; 16) concomitant medications that, in the investigator's judgment, are required during the trial and may affect the metabolism of the investigational drug, such as strong CYP3A4 inhibitors or inducers, or drugs with a narrow therapeutic index that are primarily metabolized by CYP3A4, CYP2C8, CYP2C9, CYP2C19, or CYP2D6; 17) severe psychiatric disorders; 18) women who are pregnant, breastfeeding, or potentially pregnant; 19) women or men of childbearing potential unwilling to use effective contraception during the study and for 3 months after the last dose of study treatment; 20) participation in another clinical trial of a drug or medical device within 4 weeks before enrollment; 21) any other condition that, in the investigator's judgment, makes the patient unsuitable for enrollment.",
   "enrollment": 45,
   "has_results": false,

@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06730009",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계는 1상 및 2상(phase I/II)입니다.",
+  "목표 인원은 총 42명입니다.",
+  "1상은 표준 3+3 디자인으로 진행되며, 용량 코호트 1은 10 × 10^8개 세포, 코호트 2는 20 × 10^8개 세포입니다.",
+  "2상은 2:1 무작위 배정으로 30명의 환자를 대상으로 SLOG 병용 요법과 SLOG 단독 요법을 비교합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06730009"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 수술을 받은 췌장암(PDA) 또는 담관암(cholangiocarcinoma) 환자를 대상으로 동종 Magicell-NK 세포(Allogeneic Magicell-NK infusion) 병용 요법의 안전성과 내약성, 예비 유효성을 평가합니다. 1상에서는 공개, 용량증량 방식으로 환자에게 투여하여 안전성을 확인하고 최대 허용 용량(MTD/MFD)을 결정합니다. 2상에서는 SLOG 항암화학요법과 동종 Magicell-NK 세포 병용 치료를 SLOG 단독 치료와 비교하는 무작위 배정 임상시험을 진행합니다. 총 목표 환자 수는 42명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Phase I/II Study: Allogeneic NK-cell Therapy With Chemotherapy for Post-Surgery PDA or Cholangiocarcinoma Patients",
- "title_ko": null,
+ "title_ko": "수술 후 췌장암 또는 담관암 환자를 위한 동종 자연킬러세포(Allogeneic NK-cell) 치료 및 항암화학요법의 1상 및 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Carcinoma Stage II",
@@ -65,7 +70,7 @@
     "phone": "886-2-77225200"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 서면에 동의한 18세 이상의 남녀. - UICC 병리조직학적 병기 시스템에 따른 수술 후 육안적 절제술을 시행한 2기 또는 3기 환자. - R0 또는 R1의 국소 잔존 종양. - 조직학적으로 확진된 췌장암(PDA) 또는 담관암. - 스크리닝 방문 전 12주 이내에 근치적 절제술을 받고 보조 SLOG 항암화학요법을 받을 예정인 환자. - 동유럽협력종양학그룹(ECOG) 수행능력 평가(PS) 0~1. 제외 기준: - 스크리닝 방문 전 28일 이내에 다른 임상시험용 약물, 항종양 약물 또는 면역세포 치료를 받은 환자. - 5년 이상 재발 없이 지낸 경우를 제외하고 악성 신생물 병력이 있는 환자. - 면역저하자, 자가면역질환으로 면역억제 치료 중이거나 스크리닝 전 14일 이내에 전신 스테로이드를 복용한 환자. - 전이가 알려진 환자. - 알려진 전신 전이가 있는 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Dated and signed informed consent.\n2. Either sex, aged older than 18 years old (inclusive) at date of consent.\n3. Subject with a macroscopic resection of the primary tumor and residual primary tumor that satisfies all of the items below according to the Union for International Cancer Control (UICC) histopathologic staging system:\n\n   * At or before the surgery, stage II or stage III.\n   * Local residual tumor classified as R0 or R1.\n   * Cytologic examination negative upon intraoperative peritoneal lavage.\n4. Histologically confirmed PDA or cholangiocarcinoma.\n5. Received curative resection within 12 weeks prior to screening visit and will receive adjuvant SLOG chemotherapy. Note: Subjects with cancer who had undergone surgery with or without prior neo-adjuvant therapy will be recruited.\n6. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1.\n7. Subject with adequate hematology function at Visit 1:\n\n   * Total white blood cell (WBC) ≥ 3,000 cells/mm3.\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/mm3.\n   * Platelets ≥ 100,000 counts/mm3.\n   * Hemoglobin ≥ 9 g/dL.\n   * International normalized ratio (INR) of prothrombin time within normal range. Note: Re-test for eligibility is allowed during the screening period.\n8. Subject with adequate hepatic and renal function at Visit 1:\n\n   * Serum creatinine ≤ 1.5× Upper Limit of Normal (ULN).\n   * Blood urea nitrogen (BUN) ≤ 1.5× ULN.\n   * Total bilirubin ≤ 1.5× ULN.\n   * Alanine transaminase (ALT) and aspartate transaminase (AST) ≤ 2.5× ULN.\n   * Alkaline phosphatase (ALP) ≤ 5× ULN.\n   * Albumin ≥ 3.0 g/dL. Note: Re-test for eligibility is allowed during the screening period.\n9. Negative response in human immunodeficiency virus (HIV) and treponema pallidum (rapid plasma reagin \\[RPR\\]/venereal disease research laboratory \\[VDRL\\] and treponema pallidum hemagglutination \\[TPHA\\]).\n10. Subject confirmed with past cytomegalovirus (CMV) infection in terms of having positive CMV immunoglobin G (CMV IgG).\n11. Subject with childbearing potential must agree to use at least two contraceptive precautions, one of which must be a condom or other adequate barrier method, from\n\n    * signing informed consent until 28 days after the last dose of investigational product (IP) administration.\n    * initiation of oxaliplatin treatment until at least 15 months (female) or 12 months (male) following the last dose.\n    * initiation of gemcitabine treatment until at least 6 months (female) or 3 months (male) following the last dose.\n12. Agree to be in compliance with clinical protocol-planned treatment. Note: Anti-virus treatment is allowed if active hepatitis B is presented.\n\nExclusion Criteria:\n\n1. Received any other investigational, anti-neoplastic medications, or immune cell therapy within 28 days prior to screening visit.\n2. Any prior history of malignant neoplasm, except:\n\n   1. Non-invasive, non-melanomatous skin cancer (including squamous cell carcinoma, basal cell carcinoma, or carcinoma in situ), curatively treated with cryosurgery or surgical excision only.\n   2. Other primary malignant neoplasm diagnosed as disease free for more than 5 years.\n3. Immunocompromized, currently under immunosuppressive treatment for autoimmune disease, or have received systemic steroid of equivalent dosage higher than prednisolone 30 mg/day for more than 7 days within 14 days prior to Day 1.\n4. With known metastases.\n5. With ongoing acute diseases, or serious medical conditions within the past 2 years prior to screening, such as cardiovascular (e.g., New York Heart Association grade III or IV), hepatic (e.g., Child-Pugh Class C), psychiatric condition (e.g., alcoholism, drug abuse), medical history, physical findings, or laboratory abnormality that in the investigators' opinion could interfere with the results of the trial or adversely affect the safety of the subject.\n6. Hypercoagulable state that may lead to clinically apparent thrombosis.\n7. With known hypersensitivity to aminoglycoside (e.g., streptomycin, gentamicin) or bacitracin.\n8. With known hypersensitivity to any of the components of Allogeneic Magicell-NK, including human serum albumin.\n9. With known hypersensitivity to any of the components of S-1, leucovorin, oxaliplatin, or gemcitabine.\n10. With any contraindication to S-1, leucovorin, oxaliplatin, or gemcitabine, including:\n\n    \\- Severe myelosuppression or myelosuppression that probably exacerbates.\n11. With symptomatic CMV disease.\n12. With any history of diagnosed or suspected cardiac arrhythmia or QT interval prolongation.\n13. Male subject with a corrected QT interval (QTc) ≥ 450 ms and female subject with a QTc ≥ 470 ms as determined by electrocardiogram (ECG) examination at screening.\n14. Received any drugs associated with QT prolongation within 28 days prior to the Screening Visit (refer to Appendix 3. Drugs Associated with QT Prolongation, including but not limited to the drug listed therein).\n15. Received brivudine or its analogs (e.g., sorivudine) or any live vaccines within 28 days prior to the Screening Visit.\n16. Female subject who is lactating or has positive serum or urine pregnancy test at screening.",
   "enrollment": 42,
   "has_results": false,

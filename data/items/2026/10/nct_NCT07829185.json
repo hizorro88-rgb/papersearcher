@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT07829185",
  "importance": 0.76,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 30명의 환자입니다.",
+  "A군은 변형 FOLFIRINOX 단독 치료를 받고, B군은 변형 FOLFIRINOX와 펜타미딘(Pentamidine) 300 mg 병용 치료를 받습니다.",
+  "치료는 2주 주기로 8사이클(약 4개월) 동안 진행되며, 최대 12사이클(6개월)까지 연장될 수 있습니다.",
+  "국내 기관은 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07829185"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 및 전이성 췌장암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 새로운 약물 조합인 펜타미딘(Pentamidine)과 변형 FOLFIRINOX 병용 요법의 종양 성장 억제 효과를 관찰하기 위해 진행됩니다. 총 30명의 환자를 두 그룹으로 무작위 배정하여, A군은 변형 FOLFIRINOX 단독 치료를 받고 B군은 변형 FOLFIRINOX에 펜타미딘 300 mg 주사를 추가로 투여받습니다. 치료는 2주 주기로 총 8사이클(약 4개월) 동안 진행되며, 이후 생검 및 추가 치료를 거쳐 질병 진행이나 허용할 수 없는 독성이 나타날 때까지 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "modified FOLFIRINOX",
   "Pentamidine",
@@ -54,7 +59,7 @@
   "Metastatic"
  ],
  "title": "Modified FOLFIRINOX and Pentamidine in Advanced and Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 펜타미딘 병용 요법에 대한 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -71,7 +76,7 @@
     "phone": "572-244-0111"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 환자가 서명하고 날짜를 기입한 서면 동의서\n* 동의서 서명 시점 기준 만 18세 이상\n* 동유럽종양학그룹(ECOG) 활동도 점수 0 또는 1\n* 국소 진행성, 절제 불가능 및/또는 전이성 췌장암으로 확진된 환자\n* RECIST v1.1 기준에 따라 측정 가능한 병변이 최소 1개 이상 있는 환자\n* 생검 가능한 종양 병변이 최소 1개 이상 있으며 첫 치료 전과 8번째 사이클 치료 후 생검에 동의한 환자\n* 골수 기능이 적절한 환자 (호중구 수 > 1000/μL, 혈소판 > 75,000/μL)\n* 간 기능이 적절한 환자 (총 빌리루빈 < 1.5 g/L)\n* 신장 기능이 적절한 환자 (크레아티닌 < 1.5 ULN 또는 크레아티닌 청소율 > 30 ml/m2)\n* AST 및 ALT가 < 2.5x ULN (간 전이로 인한 경우 < 5xULN)\n* 가임기 파트너가 있는 남성 및 가임기 여성 환자는 연구 참여 기간 및 마지막 투여 후 30일 동안 차단 피임법을 포함한 두 가지 적절한 피임법 사용 필수 (남성은 정자 기증 금지)\n* 연구자의 판단에 따른 기대 여명 ≥ 3개월\n\n제외 기준:\n* 첫 연구 약물 투여 전 전이성 단계에서 이전 치료 요법이나 임상시험으로 인한 전신 항암 화학요법, 소분자, 생물학적 제제를 투여받은 경우\n* 활성 세균 감염이 있는 경우\n* 임신 중이거나 수유 중인 여성, 또는 연구 중 및 마지막 투여 후 최소 6개월 동안 임신을 계획 중인 여성\n* 연구 중 및 마지막 투여 후 최소 6개월 동안 아이를 가질 계획이 있는 남성\n* 최근 6개월 이내 또는 현재 심장 기준에 해당하는 경우 (QTc > 480 msec, 임상적으로 중요한 심전도 이상, NYHA 기준 2단계 이상의 울혈성 심부전, QTc 연장 위험 요인 등)\n* 교정할 수 없는 만성 저칼륨혈증 사례가 있는 경우\n* 연구자가 판단하기에 조절되지 않는 고혈압, 조절되지 않는 당뇨병, 출혈 경향, B형 간염, C형 간염, HIV 등 치료가 필요한 심각하거나 조절되지 않는 전신 질환의 증거가 있는 경우\n* 스크리닝 전 2년 이내에 본 연구에서 치료하는 암 외에 다른 활성 침습성 암이 있는 경우 (적절히 치료된 피부 기저세포암, 자궁경부 상피내암 등 제외)\n* 프로토콜 준수 및 추적 관찰 절차를 허용하지 않는 심리적, 가족적, 사회적, 지리적 조건이 있는 경우\n* 재소자",
   "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent signed and dated by the patient\n* At least 18 years-of-age at the time of signature of the informed consent form (ICF)\n* Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1\n* Patients with a confirmed diagnosis of locally advanced, unresectable and/or metastatic pancreatic cancer\n* Patients must have at least one measurable disease per RECIST v1.1,\n* Patients must have at least 1 tumor lesion amenable to biopsy and must be willing to undergo a biopsy prior to first treatment and after receiving 8th cycle of therapy.\n* Adequate bone marrow function defined as ANC\\> 1000/μL and platelets\\>75,000/μL\n* Adequate liver function defined as total bilirubin\\<1.5g/L\n* Adequate renal function defined as creatinine \\<1.5ULN or creatinine clearance greater than 30 ml/m2.\n* AST and ALT \\<2.5x ULN or AST and ALT\\<5xULN if liver function abnormalities are due to liver metastases\n* Male or female patients. Male patients with female partners of childbearing potential and female patients of childbearing potential are required to use two forms of acceptable contraception, including one barrier method, during their participation in the study and for 30 days following the last dose. Male patients must also refrain from donating sperm during their participation in the study.\n* Life expectancy ≥ 3 months according to the Investigator's judgment.\n\nExclusion Criteria:\n\n* Any systemic anti-cancer chemotherapy, small molecule, biologic, or from a previous treatment regimen or clinical study in a metastatic setting before the first dose of study drug.\n* Active bacterial infection\n* Women who are pregnant, nursing, or who plan to become pregnant while in the study and for at least 6 months after the last administration of study treatment\n* Men who plan to father a child while in the study and for at least 6 months after the last administration of study treatment\n* Any of the following cardiac criteria currently or within the last 6 months:\n\n  1. Mean resting corrected QT interval (QTc) \\>480 msec\n  2. Any clinically important abnormalities (as assessed by the Investigator) in rhythm, conduction, or morphology of resting electrocardiograms (ECGs), e.g., complete left bundle branch block, third degree heart block\n  3. Congestive heart failure (New York Heart Association ≥ Grade 2\n  4. Any factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years-of-age, or any concomitant medication known to prolong the QT interval\n* Incidences of chronic hypokalemia that cannot be corrected.\n* As judged by the Investigator, any evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension, uncontrolled diabetes mellitus, active bleeding diatheses, or active infection requiring treatment including hepatitis B, hepatitis C, and human immunodeficiency virus. Screening for chronic conditions is not required.\n* Presence of other active invasive cancers other than the one treated in this study within 2 years prior to screening, except appropriately treated basal cell carcinoma of the skin, or in situ carcinoma of uterine cervix, or other local tumors considered cured by local treatment\n* Psychological, familial, sociological, or geographical conditions that do not permit compliance with the protocol and/or follow-up procedures outlined in the protocol.\n* Prisoners",
   "enrollment": 30,
   "has_results": false,

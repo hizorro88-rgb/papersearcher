@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT05088798",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 100명입니다.",
+  "중재 방법으로 18F-Fluoro Dopa PET/MRI Imaging을 사용합니다.",
+  "약물 치료에 실패하고 수술을 고려하는 고인슐린혈증 환자를 대상으로 합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05088798"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 고인슐린혈증(hyperinsulinism) 환자들을 대상으로 수술 전 췌장의 국소 병병을 발견하고 위치를 파악하기 위한 18F-Fluoro Dopa PET/MRI 영상 검사의 유용성을 평가합니다. 약물 치료에 반응하지 않는 선천성 고인슐린혈증(congenital hyperinsulinism) 환자와 인슐린종(insulinomas) 환자를 대상으로 합니다. 복합 양전자 방출 단층촬영과 자기공명영상(positron emission tomography and magnetic resonance imaging)을 결합하여 병병의 위치를 더 잘 파악하고 수술 계획을 세우는 데 도움을 주고자 합니다. 목표 인원은 100명이며 워싱턴 대학교 의과대학(Washington University School of Medicine)에서 진행합니다.",
+ "summary_source": "llm",
  "tags": [
   "hypoglycemia",
   "Glucose Metabolism Disorders",
@@ -52,7 +56,7 @@
   "Insulinoma"
  ],
  "title": "Utility of 18FDOPA PET/MRI for Focal Hyperinsulinism",
- "title_ko": null,
+ "title_ko": "국소성 고인슐린혈증에 대한 18FDOPA PET/MRI의 유용성 평가",
  "trial": {
   "conditions": [
    "Hyperinsulinism"
@@ -69,7 +73,7 @@
     "phone": "314-286-1138"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 저혈당 시 인슐린 수치 상승 및/또는 글루카곤 자극에 대한 반응으로 진단된 고인슐린성 저혈당증(hyperinsulinemic hypoglycemia) 환자. 2. diazoxide 또는 octreotide를 이용한 약물 치료에 실패한 피험자. 3. 본인 또는 부모나 법정 대리인이 서명한 동의서를 제출한 피험자. 4. 담당 내분비내과 의사가 표준 내과적 치료로 안전한 관리가 불가능하다고 판단하고, 향후 심각한 저혈당 에피소드를 예방하고 뇌 기능을 보존하기 위해 수술을 권장한 환자. 제외 기준: 1. 연구자의 판단에 따라 피험자의 연구 참여와 관련된 위험을 실질적으로 증가시킬 수 있는 기타 주요 질병이나 상태. 2. 표준화된 MRI 안전 설문지 평가 시 MRI에 금기 사항이 있는 환자(단, MRI가 금기이고 다른 선정 기준을 충족하며 다른 금기 사항이 없는 경우 PET/CT 스캐너로 연구를 진행함). 3. 부모나 보호자가 수술을 고려하지 않는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients with confirmed hyperinsulinemic hypoglycemia, diagnosed by elevated insulin levels during hypoglycemia and/or response to glucagon stimulation.\n2. Subjects who failed pharmacological therapy with diazoxide or octreotide.\n3. Subjects with signed informed consent by themselves or their parents or legal guardians.\n4. Patient's Endocrinologist has determined that the patient cannot be safely managed with standard medical therapy (failed) and surgery is recommended to prevent future episodes of severe hypoglycemia and preserve brain function.\n\nExclusion Criteria:\n\n1. Any other major illness or condition that in the investigator's judgment will substantially increase the risk associated with the subject's participation in this study.\n2. Patient must not have any contraindication to MRI as evaluated by a standardized MRI safety questionnaire. If MRI is contraindicated, and patient meets inclusion criteria and has no other contraindications study will be conducted in PET/CT scanner.\n3. Cases in which surgery will not be considered by parents or guardians.",
   "enrollment": 100,
   "has_results": false,

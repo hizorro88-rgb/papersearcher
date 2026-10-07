@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT07624214",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 198명입니다.",
+  "연구 대상 질환에는 췌장관암세포암(PDAC)이 포함됩니다.",
+  "선택적이고 경구 투여 가능한 KRAS G12D 분해제(degrader)인 LT-010391을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07624214"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 KRAS G12D 변이가 있는 진행성 고형암 환자를 대상으로 LT-010391 단독요법의 안전성과 내독성을 평가하기 위한 1상 임상시험입니다. 췌장관암세포암(PDAC)을 포함한 KRAS G12D 변이 진행성 고형암 환자를 대상으로 합니다. 연구는 용량 증량(dose escalation)의 파트 A와 용량 확장(dose expansion)의 파트 B로 구성됩니다. 약동학(pharmacokinetics, PK)과 예비 임상 활성도 함께 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Study of LT-010391 in Participants With KRAS G12D-Mutant Solid Tumors",
- "title_ko": null,
+ "title_ko": "KRAS G12D 변이 진행성 고형암 환자를 대상으로 한 LT-010391 연구",
  "trial": {
   "conditions": [
    "Non-small Cell Lung Cancer (NSCLC)",
@@ -61,7 +65,7 @@
     "phone": "+86-21-50561622"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확인된 KRAS G12D 변이를 가진 진행성 고형암 환자 - 표준 치료에 실패했거나, 표준 치료를 견딜 수 없거나, 이용 가능한 표준 치료가 없는 환자 - ECOG 수행 능력 상태(Performance Status) 0 또는 1 - 적절한 장기 기능. 제외 기준: - 동의서 서명 전 5년 이내에 2개 이상의 원발성 악성 종양 병력이 있는 경우(단, 적절히 치료된 비흑색종 피부암, 자궁경부 상피내암, 또는 치유된 것으로 간주되는 기타 악성 종양은 제외) - 원발성 중추신경계(CNS) 종양 - 영상 검사로 확인된 연수막 전이, 뇌줄기(brainstem) 전이, 또는 척수 압박(증상 유무와 무관함).",
   "eligibility_text": "Inclusion Criteria:\n\n* Participants with histologically or cytologically confirmed advanced solid tumors harboring a KRAS G12D mutation;\n* Failed standard therapy, intolerant to standard therapy, or no standard therapy is available;\n* ECOG Performance Status of 0 or 1;\n* Adequate organ function\n\nExclusion Criteria:\n\n* History of ≥2 primary malignancies within 5 years prior to signing informed consent, except for adequately treated non-melanoma skin cancer, carcinoma in situ of the cervix, or other malignancies considered cured;\n* Primary central nervous system (CNS) tumors\n* leptomeningeal metastases, brainstem metastases, or spinal cord compression confirmed by imaging (regardless of symptoms) Other inclusion/exclusion criteria may apply.",
   "enrollment": 198,
   "has_results": false,

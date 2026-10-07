@@ -8,6 +8,7 @@
   "Marchegiani G"
  ],
  "categories": [
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -22,7 +23,12 @@
  ],
  "id": "pmid:42837076",
  "importance": 0.75,
- "key_points_ko": [],
+ "key_points_ko": [
+  "2020-2022년 대비 2035년까지 췌장암 사망자 수는 남성 15.4%, 여성 13.0% 누적 증가할 것으로 예측됩니다.",
+  "전국 연령표준화 사망률(ASMR)은 남성 3.8%, 여성 0.6% 소폭 감소할 것으로 예상됩니다.",
+  "개발 지수가 가장 낮은 남부 이탈리아와 도서 지역은 남녀 모두 연령표준화 사망률(ASMR)이 증가할 것으로 예상되는 유일한 대지역입니다.",
+  "여성의 경우 도서 지역에서 +22.7%, 남성의 경우 남부 지역에서 +18.8%로 가장 큰 연령표준화 사망률(ASMR) 증가가 예상됩니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.1007/s13304-026-02862-w",
@@ -44,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42837076/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이탈리아의 췌장암 사망률에 대한 시간적 추세와 미래 전망을 분석하여 의료 및 행정 수준의 개입 영역을 파악했습니다. 2005년부터 2022년까지의 사망률 데이터와 2035년까지의 인구 전망을 바탕으로 베이지안 연령-기간-코호트 분석(Bayesian age-period-cohort analysis)을 수행했습니다. 이탈리아의 췌장암 연평균 사망자 수는 인구 고령화에 따라 2020-2022년 대비 남성 15.4%, 여성 13.0% 증가할 것으로 예측됩니다. 전국 연령표준화 사망률(ASMR)은 남성 3.8%, 여성 0.6% 소폭 감소할 것으로 예상되나, 남성이 모든 대지역에서 지속적으로 더 높은 사망률을 보였습니다. 특히 남부 지역과 도서 지역에서는 양성 모두 연령표준화 사망률(ASMR)이 증가할 것으로 나타나 지역 간 격차를 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "The projected rise of pancreatic cancer mortality in Italy: forecasts until 2035",
- "title_ko": null,
+ "title_ko": "이탈리아의 췌장암 사망률 증가 전망: 2035년까지의 예측",
  "trial": null,
  "type": "paper"
 }

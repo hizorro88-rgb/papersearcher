@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "supportive"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "nalirifox"
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT06782685",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 138명이며, 1상에 9~18명, 2상에 각 군당 60명씩 배정됩니다.",
+  "2상 시험군의 목표 객관적 반응률(ORR)은 25%이며, 역사적 대조군(NAPOLI-1 연구의 irinotecan liposomal + 5-FU/LV)의 ORR은 8.8%였습니다.",
+  "치료 주기는 2주 간격이며, 질병 진행 또는 참을 수 없는 독성이 발생할 때까지 지속됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06782685"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 1상에서 irinotecan liposomal(리포조말 이리노테칸) + oxaliplatin(옥살리플라틴) + bevacizumab(베바시주맙) 병용요법의 최적 용량을 탐색합니다. 2상에서는 이 병용요법의 안전성과 유효성을 기존 2차 치료인 irinotecan liposomal + 5-FU/LV 대조군과 비교하여 평가합니다. 총 138명의 환자를 목표로 하며, 2상에서는 시험군의 객관적 반응률(ORR)을 25%로 상향하여 평가합니다. 환자들은 질병이 진행되거나 참을 수 없는 독성이 나타날 때까지 2주마다 치료를 받습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Liposomal Irinotecan + Oxaliplatin + Bevacizumab Versus Liposomal Irinotecan + 5-FU/LV",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자에서 리포조말 이리노테칸 + 옥살리플라틴 + 베바시주맙 대 리포조말 이리노테칸 + 5-FU/LV의 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Cancer (Part 1)"
@@ -66,7 +70,7 @@
     "phone": "13811721720"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연령 18세~75세의 환자\n- 조직병리학적 또는 세포병리학적으로 진단된 췌장암 환자\n- 다학제 및 영상 검사로 평가된 절제 불가능한 질환\n- 1차 치료 실패를 겪었거나 (신)보조치료 종료 후 6개월 이내 재발한 환자\n- 이전 1차 치료에서 백금 기반 약물이나 irinotecan을 투여받지 않은 환자\n- RECIST v1.1 기준에 따른 최소 1개 이상의 평가 가능한 병변 보유\n- ECOG 수행 상태 점수 0~2\n- 예상 생존기간 3개월 이상\n- 골수 기능: 절대 호중구 수(ANC) ≥1.5×10^9/L, 혈색소 ≥90 g/dL, 혈소판(PLT) ≥100×10^9/L, 백혈구(WBC) ≥3.0×10^9/L\n- 간 기능: ALT, AST, ALP ≤ 2.5 × 상한 정상치(ULN), 간 전이 시 ≤ 5 × ULN, 총 빌리루빈 < 1.5 × ULN\n- 신장 기능: 혈중 크레아티닌 ≤ 1.5 × ULN 또는 크레아티닌 청소율(CCr) ≥ 60 mL/min\n- 응고 기능: PT, APTT, INR ≤ 1.5 × ULN\n- 담도 폐쇄 환자는 적절한 담도 배액을 받았어야 함\n- 이전 치료로 인한 이상 반응이 CTCAE 5.0 기준 등급 1 또는 베이스라인으로 회복된 환자 (탈모, 2등급 이하 말초 신경병증 등 제외)\n- 임신부 또는 수유부가 아니며, 가임기 여성/남성은 연구 기간 및 치료 완료 후 6개월 동안 효과적인 피임법 사용\n- 연구 절차를 이해하고 서면 동의서를 작성한 순응도가 높은 환자\n\n제외 기준:\n- 과거 5년 이내에 다른 악성 종양이 있었던 환자 (치유된 상피내암 및 피부 기저세포암 제외)\n- 조절되지 않는 흉수 또는 복수\n- 뇌 전이 또는 수막 전이의 병력이 있는 환자\n- 첫 투여 전 3주 이내에 강력한 CYP3A4 유도체, 억제제 또는 강력한 UGT1A1 억제제를 병용 투여한 환자\n- 첫 투여 전 4주 이내에 주요 장기 수술을 받았거나 예정된 환자\n- 항생제, 항바이러스제 등으로 조절되지 않는 전신 치료가 필요한 활성 감염 환자\n- 선천성 또는 후천성 면역결핍 환자 (HIV 감염자, 활동성 간염 환자 등)\n- 조절되지 않는 당뇨병, 고혈압, 중증 심뇌혈관 질환, 신부전, 간부전, 뇌전증, 정신 질환 병력 또는 위장관 출혈 경향이 있는 환자\n- 기준선 대비 하루 배변 횟수가 4회 이상 증가하는 1등급 초과의 설사 환자\n- 혈청 알부민 ≤ 3 g/dL인 환자\n- 등록 전 4주 이내에 다른 임상시험에 참여했던 환자\n- 연구자에 의해 임상시험 참여가 부적절하다고 판단되는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 to 75 years old;\n2. Patients with pancreatic cancer diagnosed by histopathology or cytology;\n3. Unresectable disease assessed by multidisciplinary and imaging;\n4. Subjects who have received prior failed first-line therapy, and recurrence within 6 months of the end of (neo)adjuvant therapy is considered a first-line treatment failure;\n5. Subjects who have not received platinum-containing or irinotecan drugs for prior first-line therapy;\n6. Patients with at least one evaluable lesion according to RECIST v1.1;\n7. ECOG score of 0-2;\n8. Expected survival ≥ 3 months;\n9. Bone marrow function: absolute neutrophil count (ANC) ≥1.5×10\\^9/L, hemoglobin ≥90 g/dL, platelets (PLT) ≥100×10\\^9/L, and white blood cells (WBC) ≥3.0×10\\^9/L;\n10. Liver function: alanine aminotransferase (ALT), alanine aminotransferase (AST), alkaline phosphatase (ALP) ≤2.5 times the upper limit of normal (ULN), or ≤5×ULN if liver metastases are present, total bilirubin\\<1.5 ULN;\n11. Renal function: serum creatinine (Cr) ≤1.5 × ULN or creatinine clearance (CCr) ≥60 mL/min (according to the Cockcroft-Gault formula);\n12. Coagulation function: prothrombin time (PT), activated partial thromboplastin time (APTT) and international normalized ratio (INR) ≤1.5 × ULN;\n13. Patients with biliary obstruction should receive adequate biliary drainage; and\n14. Adverse reactions arising from prior therapy must be restored to grade 1 or baseline according to CTCAE 5.0 (with the exception of toxicities such as alopecia, grade 2 or lower peripheral neuropathy, which can be enrolled with no safety risk in the judgment of the investigator);\n15. Non-pregnant or lactating females; females/males of childbearing potential should use effective contraception during the study and for 6 months after completion of study treatment;\n16. Patients are compliant, understand the study procedures, and sign a written informed consent form.\n\nExclusion Criteria:\n\n1. Patients who have had other malignant tumors within the previous 5 years (except cured carcinoma in situ and basal cell carcinoma of the skin);\n2. Uncontrollable pleural effusion or ascites;\n3. Any known brain metastasis or meningeal metastasis;\n4. Concomitant use of a potent CYP3A4 inducer within 3 weeks prior to the first dose, or concurrent use of a potent CYP3A4 inhibitor or potent UGT1A1 inhibitor within 3 weeks prior to the first dose;\n5. Patients undergoing major organ surgery (except needle biopsy, central venous catheterization, port catheterization, stent placement for relief of biliary obstruction, percutaneous hepato-biliary drainage, cholecystostomy) or elective surgical procedures scheduled within 4 weeks prior to the first dose of study drug;\n6. Systemically treated active, uncontrolled bacterial, viral, or fungal infections, defined as persistent signs/symptoms associated with the infection that do not improve despite appropriate antibiotics, antiviral therapy, and/or other treatments;\n7. Subjects with congenital or acquired immunodeficiency, such as HIV-infected individuals or active hepatitis (transaminases do not meet the inclusion criteria, Hepatitis B : HBV DNA ≥ 1000 IU/ml; Hepatitis C : HCV RNA ≥ 1000 IU/ml); chronic hepatitis B viral carriers, with HBV DNA \\< 2000 IU/ml, who must be concurrently receiving antiviral during the trial period treatment before enrollment;\n8. Presence of serious concomitant diseases: those with diabetes mellitus that cannot be well controlled by glucose-lowering drugs, difficult-to-control hypertension, severe cardiovascular and cerebral vascular disease, renal failure, hepatic failure, uncontrolled epilepsy, central nervous system disease or history of mental disorders, those with a clear tendency to gastrointestinal bleeding, intestinal paralysis, intestinal obstruction, etc;\n9. \\>grade 1 diarrhea with an increase in the number of bowel movements \\>4 times per day compared to baseline; moderate to severe increase in stoma discharge; limited instrumental activities of daily living or even limited spontaneous activities of daily living; life-threatening; requiring urgent treatment;\n10. Those with serum albumin ≤ 3 g/dL;\n11. Those who had participated in other clinical studies within 4 weeks prior to enrollment;\n12. Patients assessed by the investigator to be unsuitable for participation in the trial.",
   "enrollment": 138,
   "has_results": false,

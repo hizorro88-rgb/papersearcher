@@ -11,10 +11,11 @@
   "Patterson L"
  ],
  "categories": [
+  "basic",
   "drug"
  ],
  "entities": [],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-10-07",
  "history": [
   {
@@ -24,8 +25,13 @@
   }
  ],
  "id": "doi:10.64898/2026.10.05.756824",
- "importance": 0.69,
- "key_points_ko": [],
+ "importance": 0.56,
+ "key_points_ko": [
+  "93명의 신규 진단 수술 가능 췌장관선암(PDAC) 환자, 43명의 만성 췌장염 환자, 93명의 건강한 대조군을 대상으로 혈장 지질체학 분석을 수행했습니다.",
+  "췌장관선암 환자의 혈장에서 순환하는 리소포스파티딜콜린(LysoPC)의 현저한 감소가 주요 특징으로 나타났습니다.",
+  "종양유전자 KRAS에 의해 매개되는 MFSD2A 발현 증가가 암세포의 LysoPC 세포 외 흡수를 촉진하는 핵심 요인으로 확인되었습니다.",
+  "합성 알킬-리소포스파티딜콜린인 edelfosine의 재처용을 통해 KRAS-MFSD2A-LysoPC 축을 표적화함으로써 항암 효과를 유도할 수 있었습니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.64898/2026.10.05.756824",
@@ -47,11 +53,11 @@
   "name": "Europe PMC (preprint)",
   "url": "https://europepmc.org/article/PPR/PPR1335336"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 췌장관선암(PDAC)에서 종양유전자 KRAS가 지질 대사를 재프로그래밍하여 세포 외 리소포스파티딜콜린(LysoPC)을 포식하는 기전을 분석했습니다. 환자 혈장 분석 결과 췌장관선암 환자에서 순환하는 LysoPC가 현저히 감소한 것으로 나타났습니다. 연구진은 MFSD2A 단백질이 세포 외 LysoPC의 흡수를 매개하며, 이를 억제하거나 약물 edelfosine을 사용할 경우 종양 억제 효과가 있음을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "KRAS-driven metabolic reprogramming of enhanced MFSD2A-mediated lysophosphatidylcholine scavenging promotes survival and progression of pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "KRAS 유도성 대사 재프로그래밍을 통한 MFSD2A 매개 리소포스파티딜콜린 포식이 췌장관선암의 생존과 진행을 촉진합니다",
  "trial": null,
  "type": "preprint"
 }

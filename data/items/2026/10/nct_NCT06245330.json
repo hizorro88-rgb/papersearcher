@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT06245330",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계는 제1상 및 제2상(Phase I/II)입니다.",
+  "목표 환자 수는 총 180명입니다.",
+  "중재(치료법)는 AST-001 단독 투여입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06245330"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 진행성 고형암 및 췌장암 환자를 대상으로 신약 후보물질 AST-001 단독 요법의 안전성, 내약성, 최대내용량(MTD)/권장 2상 용량(RP2D), 약동학(PK) 및 예비 효능을 평가하기 위한 최초 인체 대상 공개 임상시험입니다. 1상에서는 진행성 고형암 환자를 대상으로 용량 증량을 진행하며, 2상에서는 AKR1C3 발현이 강하게 양성인 췌장암 환자를 대상으로 합니다. 총 목표 환자 수는 180명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Phase I/II Study of AST-001 in Subjects With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 및 췌장암 환자를 대상으로 하는 AST-001 제1/2상 임상시험",
  "trial": {
   "conditions": [
    "Solid Tumor",
@@ -58,7 +63,7 @@
     "phone": "(0086)13207649065"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준 (1상 용량 증량 단계):\n- 연구의 위험성을 이해하고 프로토콜을 준수할 수 있으며 서면 동의서를 서명한 환자\n- 만 18세에서 70세 사이의 남성과 여성\n- 표준적인 완치 치료법이 없거나 더 이상 효과가 없는 전이성 또는 절제 불가능한 조직학적 또는 세포학적으로 확진된 고형 악성종양\n- 미국동부종양학협력체(ECOG) 수행능력 평가 0 또는 1\n- 기대 여명 12주 이상\n- 이전 치료로 인한 독성이 0등급 또는 1등급으로 회복된 환자\n- 적절한 신장, 간 및 골수 기능 유지\n\n제외 기준 (1상 용량 증량 단계):\n- 제1일 전 2년 이내에 기저세포종, 상피내암 등을 제외한 다른 원발성 악성종양 병력이 있는 환자\n- 제1일 전 4주 이내에 진단적 수술을 제외한 대수술을 받은 환자\n- 제1일 전 4주 이내에 방사선 치료, 항암화학요법, 생물학적 치료, 표적치료 또는 호르몬 치료를 받은 환자\n- 제1일 전 4주 이내에 임상시험용 치료를 받은 환자\n- 레파글리니드(repaglinide), 중등도/강한 CYP2C8/CYP2B6/CYP2C9 억제제/유도제를 병용 투여하는 환자\n- 격주 이상으로 배액이 필요한 흉수 또는 복수가 있는 환자\n- B형 간염 바이러스(HBV) 감염 및 HBV-DNA 2,000 IU/mL 이상인 환자\n- 전신 치료가 필요한 활성형의 조절되지 않는 세균, 바이러스 또는 진균 감염이 있는 환자\n- 인간면역결핍바이러스(HIV) 감염 또는 매독 감염 병력이 있는 환자\n- 뉴욕심장협회(NYHA) III 또는 IV 등급의 울혈성 심부전, QTcF 연장(남성 > 450ms, 여성 > 470ms), 제1일 전 6주 이내 심근경색·우회술·스텐트 수술 이력이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성\n- 연구 진행을 방해할 수 있거나 연구자 판단상 허용되지 않는 위험을 초래할 수 있는 동반 질환이 있는 환자\n- 에탄올, 폴리옥시에틸렌(35) 피마자유, N,N-디메틸아세트아미드에 알레르기 병력이 있는 환자\n- 어떤 이유로든 임상시험 프로토콜을 따를 의지가 없거나 따를 수 없는 환자\n\n선정 기준 (2상 췌장암 단계):\n- 연구의 위험성을 이해하고 프로토콜을 준수할 수 있으며 서면 동의서를 서명한 환자\n- 만 18세에서 70세 사이의 남성과 여성\n- 표준적인 완치 치료법이 없거나 국소 치료로 조절할 수 없는 절제 불가능한 조직학적 또는 세포학적으로 확진된 췌장암\n- RECIST 1.1 기준을 충족하는 측정 가능한 병변이 최소 1개 이상 있는 환자\n- AKR1C3 발현 분석을 위해 병리용 파라핀 블록 또는 절편을 제공할 수 있고 AKR1C3 발현이 강하게 양성으로 확인된 환자\n- 미국동부종양학협력체(ECOG) 수행능력 평가 0 또는 1\n- 기대 여명 12주 이상\n- 이전 치료로 인한 독성이 0등급 또는 1등급으로 회복된 환자\n- 적절한 신장, 간 및 골수 기능 유지\n\n제외 기준 (2상 췌장암 단계):\n- 제1일 전 2년 이내에 기저세포종, 상피내암 등을 제외한 다른 원발성 악성종양 병력이 있는 환자\n- 제1일 전 4주 이내에 진단적 수술을 제외한 대수술을 받은 환자\n- 제1일 전 4주 이내에 방사선 치료, 항암화학요법, 생물학적 치료, 표적치료 또는 호르몬 치료를 받은 환자\n- 제1일 전 4주 이내에 임상시험용 치료를 받은 환자\n- 레파글리니드(repaglinide), 중등도/강한 CYP2C8/CYP2B6/CYP2C9 억제제/유도제를 병용 투여하는 환자\n- 격주 이상으로 배액이 필요한 흉수 또는 복수가 있는 환자\n- B형 간염 바이러스(HBV) 감염 및 HBV-DNA 2,000 IU/mL 이상인 환자\n- 전신 치료가 필요한 활성형의 조절되지 않는 세균, 바이러스 또는 진균 감염이 있는 환자\n- 인간면역결핍바이러스(HIV) 감염 또는 매독 감염 병력이 있는 환자\n- 뉴욕심장협회(NYHA) III 또는 IV 등급의 울혈성 심부전, QTcF 연장(남성 > 450ms, 여성 > 470ms), 제1일 전 6주 이내 심근경색·우회술·스텐트 수술 이력이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성\n- 연구 진행을 방해할 수 있거나 연구자 판단상 허용되지 않는 위험을 초래할 수 있는 동반 질환이 있는 환자\n- 에탄올, 폴리옥시에틸렌(35) 피마자유, N,N-디메틸아세트아미드에 알레르기 병력이 있는 환자\n- 어떤 이유로든 임상시험 프로토콜을 따를 의지가 없거나 따를 수 없는 환자",
   "eligibility_text": "* phase I: dose escalation phase\n\nInclusion Criteria:\n\n1. Patient has ability to understand the risks of the study and is willing to comply with the protocol and has signed a written informed consent.\n2. Aged 18-70 years (inclusive), males and females.\n3. Histologically or cytologically confirmed solid malignancy that is metastatic or unresectable and for which standard curative do not exist or are no longer effective.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n5. Expected life expectancy ≥ 12 weeks\n6. Recovered from toxicities of prior therapy to Grade 0 or 1\n7. An adequate renal, liver and bone marrow function.\n\nExclusion Criteria:\n\n1. History of another primary malignancy within 2 years prior to Day 1, except for adequately treated basaloma, in situ cancer, or other cancers whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the current study.\n2. Major surgery, other than diagnostic surgery, within 4 weeks prior to Day 1.\n3. Treatment with radiation therapy, chemotherapy, biotherapy, targeted therapies or hormones within 4 weeks prior to Day 1.\n4. Receiving investigational therapy within 4 weeks prior to Day 1.\n5. Concomitant use of repaglinide, medium/strong CYP2C8/CYP2B6/ CYP2C9 inhibitors/inducers.\n6. Pleural effusion or ascites which need to be drained every other week or more frequently.\n7. HBV infection and HBV-DNA ≥ 2,000 IU/mL\n8. Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy.\n9. History of human immunodeficiency virus (HIV) infection or syphilis infection.\n10. History of cardiac disease fits any of the following conditions：\n\n    1. NYHA III or IV CHF；\n    2. QTcF : male \\> 450ms，female \\> 470ms；\n    3. Myocardial infarction, bypass surgery, stent surgery within 6 months prior to Day 1；\n    4. Other cardiac disease that the investigator judged unsuitable for inclusion.\n11. Females who are pregnant or breast-feeding\n12. Concomitant disease or condition that could interfere with the conduct of the study, or that would, in the opinion of the investigator, pose an unacceptable risk to the subject in this study\n13. Previously allergic to ethanol, polyoxyethylene (35) castor oil, N, N-dimethylacetamide.\n14. Unwillingness or inability to comply with the study protocol for any reason\n\n    * phase II: pancreatic cancer\n\nInclusion Criteria:\n\n1. Patient has ability to understand the risks of the study and is willing to comply with the protocol and has signed a written informed consent.\n2. Aged 18-70 years (inclusive), males and females.\n3. Histologically or cytologically confirmed pancreatic cancer that is unresectable or cannot be controlled by local treatment and for which standard curative do not exist or are no longer effective.\n4. At least one measurable lesion that meets RECIST 1.1 criteria.\n5. Can provide pathological wax blocks or sections (including archived pathological wax blocks or sections) for AKR1C3 expression analysis and be confirmed that AKR1C3 expression is strongly positive.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n7. Expected life expectancy ≥ 12 weeks\n8. Recovered from toxicities of prior therapy to Grade 0 or 1\n9. An adequate renal, liver and bone marrow function.\n\nExclusion Criteria:\n\n1. History of another primary malignancy within 2 years prior to Day 1, except for adequately treated basaloma, in situ cancer, or other cancers whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the current study.\n2. Major surgery, other than diagnostic surgery, within 4 weeks prior to Day 1.\n3. Treatment with radiation therapy, chemotherapy, biotherapy, targeted therapies or hormones within 4 weeks prior to Day 1.\n4. Receiving investigational therapy within 4 weeks prior to Day 1.\n5. Concomitant use of repaglinide, medium/strong CYP2C8/CYP2B6/ CYP2C9 inhibitors/inducers.\n6. Pleural effusion or ascites which need to be drained every other week or more frequently.\n7. HBV infection and HBV-DNA ≥ 2,000 IU/mL\n8. Active, uncontrolled bacterial, viral, or fungal infections, requiring systemic therapy.\n9. History of human immunodeficiency virus (HIV) infection or syphilis infection.\n10. History of cardiac disease fits any of the following conditions：\n\n    1. NYHA III or IV CHF；\n    2. QTcF : male \\> 450ms，female \\> 470ms；\n    3. Myocardial infarction, bypass surgery, stent surgery within 6 months prior to Day 1；\n    4. Other cardiac disease that the investigator judged unsuitable for inclusion.\n11. Females who are pregnant or breast-feeding\n12. Concomitant disease or condition that could interfere with the conduct of the study, or that would, in the opinion of the investigator, pose an unacceptable risk to the subject in this study\n13. Previously allergic to ethanol, polyoxyethylene (35) castor oil, N, N-dimethylacetamide.\n14. Unwillingness or inability to comply with the study protocol for any reason",
   "enrollment": 180,
   "has_results": false,

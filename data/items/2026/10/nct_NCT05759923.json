@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT05759923",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 최대 40명(환자 30명 및 대체 환자 10명)입니다.",
+  "연구 치료 기간은 최대 6개월입니다.",
+  "대상 질환에는 진행성 및 전이성 췌장암이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05759923"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 진행성 전이성 췌장암, 대장암, 난소암, 신장암 환자를 대상으로 경구용 OATD-02 단독 투여의 안전성과 내약성을 평가합니다. 환자들에게 OATD-02를 경구 투여하여 종양 반응을 회복 및 강화할 수 있는 약력학적 잠재력을 확인합니다. 수정된 베이지안 최적 간격(BOIN) 설계에 따라 용량을 결정합니다. 총 목표 환자 수는 대체 환자 10명을 포함하여 40명입니다.",
+ "summary_source": "llm",
  "tags": [
   "solid tumors",
   "renal cancer",
@@ -53,7 +57,7 @@
   "colorectal cancer"
  ],
  "title": "First-in-human Phase I Study to Evaluate Safety, Tolerability and Antineoplastic Activity of OATD-02 in Patients With Selected Advanced and/or Metastatic Solid Tumours",
- "title_ko": null,
+ "title_ko": "진행성 및/또는 전이성 고형암 환자를 대상으로 OATD-02의 안전성, 내인성, 항종양 활성을 평가하는 최초 인체 대상 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Ovarian Carcinoma",
@@ -77,7 +81,7 @@
     "phone": "0048225526724"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 프로토콜 요구사항을 이해하고 준수할 수 있는 능력, 2. 스크리닝 시점 만 18세 이상의 남성 또는 여성, 3. 동유럽 협력 암 그룹(ECOG) 수행능력 상태 0-1, 4. 표준 치료 후 진행되거나 재발한 조직학적 또는 세포학적으로 확진된 진행성 및/또는 전이성 대장암, 신세포암, 췌장암 또는 재발성 장액성 난소암, 5. 연구 절차 시작 전 서면 동의서 제출. 제외 기준: 1. 경구 약물 복용 불가능, 2. 임상적으로 활성화된 중추신경계 전이 및/또는 암성 수막염, 3. 첫 임상시험용의약품(IMP) 투여 전 30일 이내의 대수술, 4. 임신 또는 수유 중인 여성, 5. 임상시험용의약품 부형제에 대한 알려진 알레르기, 6. 환자의 안전이나 연구 참여 능력을 저해할 수 있는 심각하고 조절되지 않는 전신 질환, 7. 첫 임상시험용의약품 투여 전 4주 이내의 다른 임상시험 참여.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Capable of understanding and complying with protocol requirements.\n2. Male or female patient aged ≥18 years at Screening.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n4. Histologically or cytologically confirmed advanced and/or metastatic colorectal cancer, renal cell cancer, or pancreatic cancer or recurrent serous ovarian cancer (platinum-resistant/ineligible to receive platinum-based chemotherapy), that either progressed or relapsed after all relevant standard of care cancer therapies (at least 1 line of systemic cancer therapy).\n5. Written informed consent given by the patient before the initiation of any study procedures.\n\nExclusion Criteria:\n\n1. Unable to take oral medications.\n2. Clinically active central nervous system metastases and/or carcinomatous meningitis.\n3. Major surgery within 30 days before the first IMP dose.\n4. Pregnant or breastfeeding women.\n5. Known allergy to excipients of the IMP.\n6. Severe, uncontrolled systemic disease which in the opinion of the investigator, would compromise the safety of the patient or the patient's ability to participate in the study.\n7. Participation in another clinical study within 4 weeks before the first IMP dose.",
   "enrollment": 40,
   "has_results": false,

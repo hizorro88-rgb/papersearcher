@@ -11,6 +11,7 @@
   "Abudukeranmu A"
  ],
  "categories": [
+  "diagnosis",
   "supportive"
  ],
  "entities": [],
@@ -25,7 +26,11 @@
  ],
  "id": "pmid:42838738",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "STOP-DM 모델은 6개월 예측 창에서 도출 코호트 수신기 작동 특성 곡선 아래 면적(AUC) 0.88, 내부 검증 0.89, 외부 검증 0.86을 기록했습니다.",
+  "상위 5% 고위험군은 검증 코호트에서 전체 발생 환자의 59.37%와 48.03%를 식별했습니다.",
+  "상위 5% 고위험군은 최저 위험군에 비해 11.00배 및 14.37배 높은 위험도를 보였습니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.1136/gutjnl-2026-339722",
@@ -49,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42838738/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "연구진은 신규 발생 당뇨병뿐만 아니라 장기 지속형 제2형 당뇨병 환자까지 모두 적용할 수 있는 췌장암 단기 위험 예측 모델(STOP-DM)을 개발하고 검증했습니다. 톈진 당뇨병 및 건강 코호트(330,767명)와 샤먼 지역 전자의무기록 데이터베이스(105,537명)를 활용하여 모델을 도출하고 외부 검증을 수행했습니다. STOP-DM 모델은 6개월 시점에서 가장 높은 예측 성능을 보였으며, 신규 및 기존 당뇨병 환자 모두에서 췌장암 위험을 효과적으로 선별했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts",
- "title_ko": null,
+ "title_ko": "제2형 당뇨병 환자의 췌장암 단기 위험 예측 모델: 두 개의 독립적인 중국 코호트를 통한 개발 및 검증",
  "trial": null,
  "type": "paper"
 }

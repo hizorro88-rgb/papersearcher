@@ -99,20 +99,34 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 
 ---
 <a id="pmid-42827323"></a>
-#### [Aetiology-Specific Pancreatic Enzyme Dose Requirements and Treatment Outcomes in Pancreatic Exocrine Insufficiency: The Multicentre EURO-PEI Registry](https://pubmed.ncbi.nlm.nih.gov/42827323/)
+#### [췌장 외분비 기능부전에서 원인별 췌장 효소 용량 요구량과 치료 결과: 다기관 EURO-PEI 등록 연구](https://pubmed.ncbi.nlm.nih.gov/42827323/)
+<small>Aetiology-Specific Pancreatic Enzyme Dose Requirements and Treatment Outcomes in Pancreatic Exocrine Insufficiency: The Multicentre EURO-PEI Registry</small>
+
 `논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-10-01 · PubMed · United European Gastroenterol J · 중요도 0.77
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+본 연구는 유럽 5개국 8개 췌장 센터에서 진행된 다기관 관찰 등록 연구입니다. 임상적으로 췌장 외분비 기능부전(PEI) 진단을 받고 췌장 효소 대체요법(PERT)을 시작하거나 최적화한 성인 환자 1015명을 대상으로 했습니다. 원인별 최적화된 PERT 용량과 치료 목표 달성 여부를 분석했습니다. 그 결과 전체 환자의 93.7%에서 치료 목표를 달성했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827323/) · [DOI](https://doi.org/10.1002/ueg2.70282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13633429/) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827323)</small>
+- 총 1015명의 환자가 연구에 참여했으며, 췌장암 환자는 174명(17.1%)이었습니다.
+- 일일 최적화 용량 중앙값은 췌장절제술 후 240,000 PhU, 췌장암 210,000 PhU, 만성 췌장염 175,000 PhU, 급성 췌장염 100,000 PhU이었습니다.
+- 치료 목표를 달성한 환자 951명 중 446명(46.9%)은 권장 시작 용량을 초과하는 효소 용량이 필요했습니다.
+- 관련 이상반응은 38명(3.7%)의 환자에게서 발생했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827323/) · [DOI](https://doi.org/10.1002/ueg2.70282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13633429/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827323)</small>
 
 ---
 <a id="pmid-42830225"></a>
-#### [Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy](https://pubmed.ncbi.nlm.nih.gov/42830225/)
-`논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
+#### [원위부 췌장절제술을 받은 췌장관선암 환자에서 PANAMA 점수 검증](https://pubmed.ncbi.nlm.nih.gov/42830225/)
+<small>Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy</small>
 
-_한국어 요약이 아직 생성되지 않았습니다. 다음 수집(매일 06:00)에서 처리됩니다._
+`논문` `관찰연구` `치료 전반` `수술` `진단·조기발견` · 2026-10-04 · PubMed · ANZ J Surg · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · ⏳ 한국어 요약 대기 중 (다음 수집에서 처리) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
+이 연구는 선행화학방사선요법(NAT) 후 원위부 췌장절제술(distal pancreatectomy)을 받은 췌장관선암(PDAC) 환자 52명을 대상으로 PANAMA 점수의 예후 예측 성능을 검증했습니다. 환자들은 원래의 PANAMA 점수에 따라 저위험, 중위험, 고위험군으로 분류되었습니다. 연구 결과, 고위험군은 저위험군 및 중위험군에 비해 전체 생존기간(OS)과 무병 생존기간(DFS)이 유의하게 낮았습니다. 그러나 AJCC 병기가 전체 생존기간 예측에서 PANAMA 점수보다 더 우수한 성능을 보였습니다.
+
+- 총 52명의 환자가 연구에 포함되었습니다.
+- 전체 생존기간(OS) 중앙값은 40.8개월이었고, 무병 생존기간(DFS) 중앙값은 11.6개월이었습니다.
+- 고위험군의 전체 생존기간은 21.8개월로, 중위험군(31.1개월)과 저위험군(55.0개월)에 비해 유의하게 짧았습니다(p=0.009).
+- AJCC 병기는 전체 생존기간 예측에서 C-index 0.70으로 PANAMA 점수의 0.64보다 더 우수한 성능을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
 
 ---

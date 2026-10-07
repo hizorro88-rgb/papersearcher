@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [
   "folfirinox",
@@ -22,7 +22,11 @@
  ],
  "id": "nct:NCT07616362",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 국소 진행성 또는 경계성 절제 가능한 췌장관암(BR-PDAC)이며 목표 환자 수는 110명입니다.",
+  "중재 방법은 젬시타빈 감수성 시그니처에 따른 gemcitabine + nab-paclitaxel 요법과 표준 치료인 mFOLFIRINOX 요법의 비교입니다.",
+  "본 임상시험은 2상(PHASE2) 단계로 아직 환자 모집 전(NOT_YET_RECRUITING) 상태입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07616362"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 경계성 절제 가능한 췌장관암(borderline resectable pancreatic ductal adenocarcinoma, BR-PDAC) 환자를 대상으로 전사체 시그니처(Pancreas-View Signature)를 이용해 젬시타빈(gemcitabine) 감수성을 예측하고, 이에 따른 맞춤형 선행화학요법(neoadjuvant chemotherapy, NAC)의 효과를 평가합니다. 110명의 환자를 목표로 젬시타빈+nab-paclitaxel 병용요법과 표준 치료인 mFOLFIRINOX 요법의 효능을 비교합니다. 본 연구는 프랑스 소화기암 연합회(Federation Francophone de Cancerologie Digestive)에서 주관하는 2상 임상시험입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Personalize (Signature Driven) Neoadjuvant Chemotherapy Trial for Patients With Resectable Borderline Pancreatic Ductal Adenocarcinoma.",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능한 췌장관암 환자를 위한 맞춤형(시그니처 기반) 선행화학요법 임상시험",
  "trial": {
   "conditions": [
    "Borderline Resectable Pancreatic Ductal Adenocarcinoma"
@@ -62,7 +66,7 @@
     "phone": "0658636325"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - NCCN 기준 v2.2025에 따른 경계성 절제 가능한 췌장관암(BR-PDAC) - RECIST 1.1에 따른 측정 가능한 췌장 병변 - WHO 전신 상태(PS) 0 또는 1 - 조직학적으로 입증된 췌장관암 - 종양 세포가 10% 이상 포함된 췌장 종양 FFPE 검체 확보 - 췌장암에 대한 이전 화학요법이나 방사선 치료 또는 절제술 이력이 없는 경우(GEM+ 시그니처 대기 기간 중 1회의 mFOLFIRINOX는 예외) - 연령 18세 이상 80세 이하(75-80세의 경우 노인 종합 평가로 승인 시) - 서면 동의서 제출 - 프로토콜 요구사항 준수 가능 - 적절한 장기 기능(AST/ALT < 3.5배 정상치 상한, 총 빌리루빈 < 3배 정상치 상한, 혈청 알부민 > 30 g/L, 헤모글로빈 > 9.0 g/dl, 절대 호중구 수 > 1.5 G/L, 혈소판 > 100 G/L, 크레아티닌 청소율 > 50 mL/min 등) - 피임 수칙 동의 및 프랑스 사회보장 가입자. 제외 기준: - 엄격히 절제 가능하거나 국소 진행성인 췌장관암 - 원격 전이(대동맥 림프절 전이 포함) - irinotecan, oxaliplatin, 5-FU, gemcitabine, nab-paclitaxel 사용 금기 조건 - 부분적 또는 완전한 DPD 결핍 - 지난 6개월간 안정화되지 않은 진행성 병리 상태 - 지난 3년 이내의 다른 암 환우(적절히 치료된 국소 피부암 등 제외) - 다른 중재적 임상시험 참여 - 남성 QTc > 450 msec, 여성 QTc > 460 msec - 임신 중이거나 수유 중인 여성 - 길베르트 증후군(Gilbert's syndrome) 또는 UGT1A1*28 다형성 동형접합 - 활성 백신 접종 이력(최근 6주 이내) - 기능적 불편함이 있는 감각성 말초 신경병증 - 지리적, 사회적, 심리학적 이유로 의료 모니터링 불가능 - 법적 보호 상태에 있거나 동의를 제공할 수 없는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Borderline resectable pancreatic ductal adenocarcinoma (BR-PDAC) defined by National Comprehensive Cancer Network (NCCN) criteria v2.2025 on contrast-enhanced CT-scan (including non-contrast acquisition, pancreatic phase and portal venous phase), with stage confirmed by a local pancreatic expert review board including at least medical oncologist/onco-gastroenterologist, pancreatic surgeon and pancreatic expert radiologist. No central review is required,\n* Measurable pancreatic lesion according to RECIST 1.1 (CT scan or MRI \\< 28 days),\n* WHO PS 1 or 0,\n* Histologically proven pancreas ductal adenocarcinoma,\n* Available FFPE from pancreatic tumor sample with \\> 10% of tumor cells (assessed by a local expert pancreatic pathologist),\n* No prior chemotherapy or radiation for pancreatic cancer (except one cycle of mFOLFIRINOX during waiting time for GEM + signature) or resection of pancreatic cancer,\n* Age ≥18 years old and ≤ 80 years old if geriatric standardized evaluation validates the study chemotherapy regimen administration for patients between 75-80,\n* Written informed consent obtained from patient before any protocol related intervention,\n* Acceptation and ability to conform to the protocol requirement during all the duration of the investigation including treatment, scheduled visits, clinical and biological examinations and follow up,\n* Adequate organ function, as defined by the following:\n* AST and ALT \\< 3.5 x upper limit of normal (ULN),\n* Total serum bilirubin \\< 3 x ULN, (for patients with total serum bilirubin between 1.5 and 3 x ULN, the dose of irinotecan will be adjusted in accordance with the SmPC).\n* Serum albumin \\>30 g/L,\n* Hemoglobin \\>9.0 g/dl,\n* Absolute neutrophil count (ANC) \\>1.5 G/L,\n* Platelets \\>100 G/L,\n* Creatinine clearance \\> 50 mL/min (according to CKD-EPI),\n* Normal Kalemia, calcemia, magnesemia\n* Women of childbearing potential must agree to use contraception during treatment and for at least 15 months after discontinuation of the experimental treatments. Men who have sexual relationship with women of childbearing potential must agree to use contraception during treatment and for at least 12 months after discontinuation of the experimental treatments.\n* Patient affiliated to French social security\n\nExclusion Criteria:\n\n* Strictly resectable or locally advanced PDAC according to NCCN criteria,\n* Distant metastases (including inter aortic lymph nodes),\n* Any condition that contraindicates the use of IRINOTECAN, OXALIPLATIN, 5FU, GEMCITABINE or NAB-PACLITAXEL,\n* Partial or complete DPD deficiency (uracilemia ≥ 16 ng/mL),\n* Any progressive pathology not stabilized over the past 6 months: liver impairment, renal impairment, respiratory or cardiac failure.\n* Other concomitant cancer or a history of cancer during the previous 3 years, except for localized cancer in situ, basal or squamous cell skin cancer adequately treated,\n* Other interventional clinical trial except for non-interventional trial (ie not modifying 1-year EFS),\n* QT/QTc (Fredericia Correction) interval \\> 450 msec for men and \\> 460 msec for women,\n* Pregnant or breastfeeding woman,\n* Known Gilbert's syndrome or known homozygosity for UGAT1A1\\*28 polymorphism,\n* Treatment with millepertuis,\n* Uncompensated asthma,\n* Potentially severe infection \\< 7 days,\n* Inflammatory bowel disease and/or intestinal obstruction,\n* Known severe allergy to contrast dye (for CT or MRI) without possible substitution,\n* Hypersensitivity to the active substance or to one of the excipients of one of the study treatments,\n* Treatment with brivudine within 4 weeks prior to the administration of protocol treatment,\n* Concomitant treatment with a strong inhibitor (i.e. ketoconazole) or inducer (i.e. rifampicin, carbamazepine, phenobarbital, phenytoin, apalutamide) of cytochrome P450 3A4 or 2C8 (CYP3A4 or CYP2C8),\n* Patient who has received a live attenuated vaccine (against yellow fever, chickenpox, shingles, measles, mumps, rubella, tuberculosis, rotavirus) in the 6 weeks prior to randomization,\n* Patient with sensitive peripheral neuropathy with functional discomfort,\n* Impossibility of undergoing medical monitoring during the trial for geographical, social, or psychological reasons,\n* Patient who is under judicial protection (patient who is legally institutionalized or under guardianship or curatorship) or not able to give consent. (as refered at art. art. L. 1121-6, art. L. 1121-8, art. L. 1121-8-1 du Code de la Santé Publique)",
   "enrollment": 110,
   "has_results": false,

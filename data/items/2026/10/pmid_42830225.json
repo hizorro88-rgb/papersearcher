@@ -11,8 +11,8 @@
   "Gill A"
  ],
  "categories": [
-  "surgery",
   "treatment",
+  "surgery",
   "diagnosis"
  ],
  "entities": [
@@ -29,7 +29,12 @@
  ],
  "id": "pmid:42830225",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 52명의 환자가 연구에 포함되었습니다.",
+  "전체 생존기간(OS) 중앙값은 40.8개월이었고, 무병 생존기간(DFS) 중앙값은 11.6개월이었습니다.",
+  "고위험군의 전체 생존기간은 21.8개월로, 중위험군(31.1개월)과 저위험군(55.0개월)에 비해 유의하게 짧았습니다(p=0.009).",
+  "AJCC 병기는 전체 생존기간 예측에서 C-index 0.70으로 PANAMA 점수의 0.64보다 더 우수한 성능을 보였습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.1111/ans.70999",
@@ -51,11 +56,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42830225/"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 선행화학방사선요법(NAT) 후 원위부 췌장절제술(distal pancreatectomy)을 받은 췌장관선암(PDAC) 환자 52명을 대상으로 PANAMA 점수의 예후 예측 성능을 검증했습니다. 환자들은 원래의 PANAMA 점수에 따라 저위험, 중위험, 고위험군으로 분류되었습니다. 연구 결과, 고위험군은 저위험군 및 중위험군에 비해 전체 생존기간(OS)과 무병 생존기간(DFS)이 유의하게 낮았습니다. 그러나 AJCC 병기가 전체 생존기간 예측에서 PANAMA 점수보다 더 우수한 성능을 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Validation of the PANAMA Score in Patients With Pancreatic Ductal Adenocarcinoma Undergoing Distal Pancreatectomy",
- "title_ko": null,
+ "title_ko": "원위부 췌장절제술을 받은 췌장관선암 환자에서 PANAMA 점수 검증",
  "trial": null,
  "type": "paper"
 }

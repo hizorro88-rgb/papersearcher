@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06427460",
  "importance": 0.7,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 병리학적으로 확진된 췌장암을 포함한 고형암입니다.",
+  "중재 방법은 정위체부방사선치료(SBRT)를 통한 중앙 부스트 절제 선량(Central-boost ablative dose) 전달입니다.",
+  "목표 인원은 67명이며 연령 기준은 18세부터 75세까지입니다.",
+  "초록에 명시되지 않음: 구체적인 생존기간, 반응률, 위험비 등의 유효성 결과는 아직 초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06427460"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 장기와 인접하거나 부피가 큰 췌장암 등 고형암 환자를 대상으로 중앙 부스트 절제 방사선 치료(CBART)의 유효성과 안전성을 평가합니다. 정위체부방사선치료(SBRT)로 고선량 투여가 어려운 환자들을 위해 종양 내부에 고선량을 전달하는 새로운 방사선 기법을 시험합니다. Changhai Hospital에서 목표 환자 수 67명을 대상으로 2상 임상시험을 진행하고 있습니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
   "stereotactic body radiation therapy",
@@ -53,7 +58,7 @@
   "ablative radiation dose"
  ],
  "title": "Central-boost Ablative Radiation Therapy for Solid Tumors (CBART)",
- "title_ko": null,
+ "title_ko": "고형암을 위한 중앙 부스트 절제 방사선 치료(CBART)",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -65,7 +70,7 @@
     "phone": "86-021-31162222"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18~75세 연령 - 췌장암을 포함한 병리적으로 확진된 악성 종양 - 최단 직경 2cm 이상 또는 종양에서 위험 장기까지의 거리가 5mm 미만 - ECOG 수행능력 0~1점 - 혈액, 간·신장 기능, 응고 검사에서 이상이 없을 것. 제외 기준: - 해당 병변에 대한 방사선 치료 이력 - 5년 이내 다른 종양 병력 - ECOG 수행능력 2점 이상 - 혈액, 간·신장 기능, 응고 검사의 유의한 이상 - 췌장 또는 후복막 종양의 경우 활동성 염증성 장질환 - 췌장 또는 후복막 종양의 경우 6개월 이내 위장관 출혈 또는 천공 - 항생제가 필요한 감염 - 심장 또는 호흡기 부전 - 임신부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 18-75 years.\n* Pathologically confirmed lung, liver, pancreas or retroperitoneal malignant tumor.\n* Oligometastasis in the case of metastatic tumor\n* the shortest diameter ≥2cm or the distance from the tumor to the organs at risk less than 5mm\n* ECOG of 0 to 1 point\n* No abnormality in blood routine test, liver and kidney function test and coagulation test (White blood cell count ≥4.0×10\\^9/L, neutrophil count ≥2.0×10\\^9, hemoglobin level ≥100g/L, platelet count ≥100×10\\^9/L, ALT and AST level \\< 2.5 times the upper limit of normal, total bilirubin and creatinine level within the normal, international normalized ratio \\<2)\n\nExclusion Criteria:\n\n* History of radiotherapy for the lesion\n* History of tumor within 5 years\n* ECOG ≥2 points\n* Significant abnormality in blood routine test, liver and kidney function test and coagulation test\n* Active inflammatory bowel disease in the case of pancreas or retroperitoneal tumor\n* Gastrointestinal bleeding or perforation within 6 months in the case of pancreas or retroperitoneal tumor\n* Infections required antibiotics\n* Heart or respiratory insufficiency\n* Pregnant or breastfeeding women",
   "enrollment": 67,
   "has_results": false,
