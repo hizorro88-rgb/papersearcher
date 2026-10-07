@@ -75,6 +75,7 @@ class Usage:
 class EnrichStats:
     provider: str = "none"
     model: str = ""
+    models_used: dict = field(default_factory=dict)
     attempted: int = 0
     succeeded: int = 0
     failed: int = 0
@@ -172,16 +173,25 @@ def gemini_schema(schema: dict) -> dict:
 
 
 class GeminiBackend(Backend):
+    """Gemini REST 백엔드. 모델 체인을 순서대로 시도한다.
+
+    - 503(과부하)·429(분당 한도)는 같은 모델에서 짧게 재시도 후 다음 모델로 넘어간다.
+    - 404(모델 없음)·일일 한도 소진은 그 모델을 이번 실행에서 제외한다.
+    - 한 모델이 연속 3개 항목에서 과부하로 실패하면 이번 실행에서 제외한다 (실행 시간 상한).
+    """
     name = "gemini"
     URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
-    def __init__(self, model: str, min_interval: float = 4.0):
-        self.model = model
+    def __init__(self, models: list[str], min_interval: float = 4.0):
+        self.models = list(models)
+        self.model = models[0]
         self.key = os.environ["GEMINI_API_KEY"]
         self.min_interval = min_interval          # 무료 등급 RPM 제한 대응 (기본 15/min)
         self._lock = threading.Lock()
         self._last = 0.0
-        self.exhausted: str | None = None     # 일일 한도 소진 등 치명적 오류 → 이후 호출은 즉시 실패
+        self.disabled: dict[str, str] = {}        # model -> 이유
+        self.overload_streak: dict[str, int] = {}
+        self.models_used: dict[str, int] = {}
         self.client = httpx.Client(timeout=120)
 
     def _throttle(self):
@@ -190,6 +200,42 @@ class GeminiBackend(Backend):
             if wait > 0:
                 time.sleep(wait)
             self._last = time.monotonic()
+
+    def _try_model(self, model: str, body: dict) -> tuple[dict, Usage]:
+        url = self.URL.format(model=model)
+        last_err: Exception | None = None
+        for attempt in range(3):
+            self._throttle()
+            r = self.client.post(url, headers={"x-goog-api-key": self.key}, json=body)
+            if r.status_code == 429 and re.search(r"PerDay|per day|daily", r.text, re.I):
+                self.disabled[model] = f"일일 한도 소진: {r.text[:120]}"
+                raise RuntimeError(self.disabled[model])
+            if r.status_code == 404 or (r.status_code == 400 and "model" in r.text.lower()):
+                self.disabled[model] = f"모델 사용 불가: {r.text[:120]}"
+                raise RuntimeError(self.disabled[model])
+            if r.status_code in (429, 500, 503):
+                last_err = RuntimeError(f"HTTP {r.status_code}: {r.text[:160]}")
+                retry_after = r.headers.get("retry-after")
+                time.sleep(min(30.0, float(retry_after) if retry_after else 5 * (attempt + 1)))
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
+            data = r.json()
+            cand = (data.get("candidates") or [None])[0]
+            if not cand or cand.get("finishReason") not in (None, "STOP"):
+                raise RuntimeError(f"응답 없음/중단: {json.dumps(data)[:300]}")
+            text = "".join(p.get("text", "") for p in cand["content"]["parts"])
+            um = data.get("usageMetadata", {})
+            usage = Usage(um.get("promptTokenCount", 0), um.get("candidatesTokenCount", 0),
+                          um.get("cachedContentTokenCount", 0))
+            self.overload_streak[model] = 0
+            self.models_used[model] = self.models_used.get(model, 0) + 1
+            return json.loads(text), usage
+        # 과부하/분당 한도로 3회 모두 실패
+        self.overload_streak[model] = self.overload_streak.get(model, 0) + 1
+        if self.overload_streak[model] >= 3:
+            self.disabled[model] = f"연속 과부하 {self.overload_streak[model]}회: {last_err}"
+        raise last_err or RuntimeError("재시도 초과")
 
     def complete(self, system, user, schema):
         body = {
@@ -202,36 +248,17 @@ class GeminiBackend(Backend):
                 "responseSchema": gemini_schema(schema),
             },
         }
-        url = self.URL.format(model=self.model)
-        last_err: Exception | None = None
-        for attempt in range(5):
-            if self.exhausted:
-                raise RuntimeError(self.exhausted)
-            self._throttle()
-            r = self.client.post(url, headers={"x-goog-api-key": self.key}, json=body)
-            if r.status_code == 429 and re.search(r"PerDay|per day|daily", r.text, re.I):
-                self.exhausted = f"Gemini 일일 한도 소진: {r.text[:200]}"
-                raise RuntimeError(self.exhausted)
-            if r.status_code in (429, 500, 503):
-                last_err = RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
-                retry_after = r.headers.get("retry-after")
-                time.sleep(min(60.0, float(retry_after) if retry_after else 10 * (attempt + 1)))
+        errors = []
+        for model in self.models:
+            if model in self.disabled:
                 continue
-            if r.status_code == 404 or (r.status_code == 400 and "model" in r.text.lower()):
-                self.exhausted = f"Gemini 모델 사용 불가({self.model}): {r.text[:200]}"
-                raise RuntimeError(self.exhausted)
-            if r.status_code != 200:
-                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
-            data = r.json()
-            cand = (data.get("candidates") or [None])[0]
-            if not cand or cand.get("finishReason") not in (None, "STOP"):
-                raise RuntimeError(f"응답 없음/중단: {json.dumps(data)[:300]}")
-            text = "".join(p.get("text", "") for p in cand["content"]["parts"])
-            um = data.get("usageMetadata", {})
-            usage = Usage(um.get("promptTokenCount", 0), um.get("candidatesTokenCount", 0),
-                          um.get("cachedContentTokenCount", 0))
-            return json.loads(text), usage
-        raise last_err or RuntimeError("재시도 초과")
+            try:
+                return self._try_model(model, body)
+            except RuntimeError as e:
+                errors.append(f"{model}: {e}")
+        if all(m in self.disabled for m in self.models):
+            raise RuntimeError("사용 가능한 Gemini 모델 없음: " + " | ".join(f"{m}={r[:60]}" for m, r in self.disabled.items()))
+        raise RuntimeError(" / ".join(errors)[:400])
 
 
 def make_backend(cfg: dict) -> Backend | None:
@@ -241,8 +268,8 @@ def make_backend(cfg: dict) -> Backend | None:
     if provider == "auto":
         provider = "gemini" if has_gemini else "anthropic" if has_anthropic else "none"
     if provider == "gemini" and has_gemini:
-        return GeminiBackend(cfg.get("gemini_model", "gemini-3.8-flash"),
-                             float(cfg.get("gemini_min_interval_seconds", 4.0)))
+        models = cfg.get("gemini_models") or [cfg.get("gemini_model", "gemini-3.8-flash")]
+        return GeminiBackend(list(models), float(cfg.get("gemini_min_interval_seconds", 4.0)))
     if provider == "anthropic" and has_anthropic:
         return AnthropicBackend(cfg.get("anthropic_model", cfg.get("model", "claude-opus-5-5")))
     return None
@@ -292,8 +319,12 @@ class Enricher:
             futs = [ex.submit(self.enrich_one, it, stats) for it in items]
             for f in as_completed(futs):
                 f.result()
-        log.info("LLM 요약(%s/%s): 성공 %d / 실패 %d, 입력 %d 출력 %d (캐시 %d)", stats.provider, stats.model,
-                 stats.succeeded, stats.failed, stats.input_tokens, stats.output_tokens, stats.cache_read_tokens)
+        if getattr(self.backend, "models_used", None):
+            stats.models_used = dict(self.backend.models_used)
+            stats.model = max(stats.models_used, key=stats.models_used.get)
+        log.info("LLM 요약(%s/%s): 성공 %d / 실패 %d, 입력 %d 출력 %d (캐시 %d) 모델별 %s", stats.provider, stats.model,
+                 stats.succeeded, stats.failed, stats.input_tokens, stats.output_tokens, stats.cache_read_tokens,
+                 stats.models_used)
         return stats
 
 

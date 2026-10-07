@@ -35,7 +35,7 @@ GitHub Actions 무제한 무료, GitHub Pages, Discussions는 **공개 저장소
 알아 둘 점:
 - 무료 등급은 분당·일일 요청 한도가 있습니다(모델에 따라 분당 5~15회, 하루 수백~1,500회). 수집기는 요청 간 4초 간격으로 순차 호출하고 하루 최대 120건만 요약하므로 한도 안에서 동작합니다. 한도에 걸린 항목은 다음 날 자동 재시도됩니다.
 - Google은 무료 등급의 입력 내용을 제품 개선에 사용할 수 있습니다. 이 프로젝트가 보내는 것은 공개 논문 초록과 임상시험 등록 정보뿐이므로 문제되지 않습니다.
-- 모델을 바꾸려면 `config/sources.yaml`의 `llm.gemini_model`을 수정합니다(무료 제공 모델 목록은 https://ai.google.dev/gemini-api/docs/pricing 에서 확인). 구형 모델(2.5 등)은 신규 계정에서 404가 납니다.
+- 무료 등급은 시간대에 따라 과부하(503)가 잦습니다. 수집기는 `gemini-3.8-flash` → 3.7 → 3.6 → 3.5-lite 순으로 자동 전환합니다. 모델 순서는 `config/sources.yaml`의 `llm.gemini_models`에서 바꿀 수 있습니다(무료 제공 모델 목록은 https://ai.google.dev/gemini-api/docs/pricing 에서 확인). 구형 모델(2.5 등)은 신규 계정에서 404가 납니다.
 
 ### 4-B. Anthropic Claude (유료, 선택)
 

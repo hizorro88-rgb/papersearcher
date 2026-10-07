@@ -37,8 +37,8 @@ def test_backend_selection(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     assert make_backend({"provider": "auto"}) is None
     monkeypatch.setenv("GEMINI_API_KEY", "x")
-    b = make_backend({"provider": "auto", "gemini_model": "gemini-3.8-flash"})
-    assert isinstance(b, GeminiBackend) and b.model == "gemini-3.8-flash"
+    b = make_backend({"provider": "auto", "gemini_models": ["gemini-3.8-flash", "gemini-3.7-flash"]})
+    assert isinstance(b, GeminiBackend) and b.models == ["gemini-3.8-flash", "gemini-3.7-flash"]
     assert make_backend({"provider": "anthropic"}) is None  # 키 없으면 None
 
 
@@ -59,7 +59,7 @@ def test_gemini_backend_and_apply(monkeypatch):
             "usageMetadata": {"promptTokenCount": 900, "candidatesTokenCount": 250},
         })
 
-    backend = GeminiBackend("gemini-3.8-flash", min_interval=0)
+    backend = GeminiBackend(["gemini-3.8-flash"], min_interval=0)
     backend.client = httpx.Client(transport=httpx.MockTransport(handler))
     monkeypatch.setattr(enrich, "make_backend", lambda cfg: backend)
 
@@ -83,7 +83,7 @@ def test_gemini_daily_quota_stops_fast(monkeypatch):
         n["calls"] += 1
         return httpx.Response(429, text='{"error":{"status":"RESOURCE_EXHAUSTED","message":"Quota exceeded for GenerateRequestsPerDayPerProjectPerModel"}}')
 
-    backend = GeminiBackend("gemini-3.8-flash", min_interval=0)
+    backend = GeminiBackend(["gemini-3.8-flash"], min_interval=0)
     backend.client = httpx.Client(transport=httpx.MockTransport(handler))
     for _ in range(3):
         with pytest.raises(RuntimeError, match="일일 한도"):
@@ -99,12 +99,36 @@ def test_gemini_unknown_model_stops_fast(monkeypatch):
         n["calls"] += 1
         return httpx.Response(404, text='{"error":{"code":404,"message":"This model models/x is no longer available"}}')
 
-    backend = GeminiBackend("x", min_interval=0)
+    backend = GeminiBackend(["x"], min_interval=0)
     backend.client = httpx.Client(transport=httpx.MockTransport(handler))
     for _ in range(2):
         with pytest.raises(RuntimeError, match="모델 사용 불가"):
             backend.complete("s", "u", OUTPUT_SCHEMA)
     assert n["calls"] == 1
+
+
+def test_gemini_overload_falls_back_to_next_model(monkeypatch):
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    seen = []
+
+    def handler(request):
+        model = request.url.path.split("/models/")[1].split(":")[0]
+        seen.append(model)
+        if model == "gemini-3.8-flash":
+            return httpx.Response(503, text='{"error":{"message":"high demand"}}', headers={"retry-after": "0"})
+        return httpx.Response(200, json={
+            "candidates": [{"finishReason": "STOP", "content": {"parts": [{"text": json.dumps(GEMINI_JSON)}]}}],
+            "usageMetadata": {"promptTokenCount": 10, "candidatesTokenCount": 5}})
+
+    backend = GeminiBackend(["gemini-3.8-flash", "gemini-3.7-flash"], min_interval=0)
+    backend.client = httpx.Client(transport=httpx.MockTransport(handler))
+    for _ in range(4):
+        data, _u = backend.complete("s", "u", OUTPUT_SCHEMA)
+        assert data["evidence"] == "phase3"
+    # 3.8은 항목당 3회 재시도 → 연속 3개 항목 실패 후 제외되므로 4번째 항목부터는 호출되지 않는다
+    assert seen.count("gemini-3.8-flash") == 9 and seen.count("gemini-3.7-flash") == 4
+    assert "gemini-3.8-flash" in backend.disabled
+    assert backend.models_used == {"gemini-3.7-flash": 4}
 
 
 def test_apply_result_tolerates_bad_values():

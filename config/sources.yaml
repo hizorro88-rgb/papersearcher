@@ -35,7 +35,8 @@ llm:
   enabled: true
   # auto: GEMINI_API_KEY가 있으면 gemini(무료 등급 가능), 없고 ANTHROPIC_API_KEY가 있으면 anthropic(유료)
   provider: auto
-  gemini_model: gemini-3.8-flash          # 무료 등급 최신 Flash. 구형(2.5)은 신규 사용자에게 제공되지 않음
+  # 무료 등급 모델 체인. 앞 모델이 과부하(503)·한도 초과면 다음 모델로 넘어간다. 구형(2.5)은 신규 사용자에게 제공되지 않음
+  gemini_models: [gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.5-flash]
   gemini_min_interval_seconds: 4          # 무료 등급 분당 요청 제한 대응 (4초 → 분당 15회)
   anthropic_model: claude-opus-5-5
   max_items_per_run: 120   # 1회 실행당 요약 상한 (비용·한도 상한). 넘치면 다음 실행에서 이어서 처리
