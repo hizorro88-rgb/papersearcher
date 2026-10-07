@@ -25,14 +25,20 @@ comments: true
 
 ---
 <a id="nct-nct07066098"></a>
-#### [A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)](https://clinicaltrials.gov/study/NCT07066098)
+#### [이전에 치료받은 클라우딘(CLDN) 18.2 양성 췌장암 환자를 대상으로 한 IBI343 단독요법 대 위약 비교 다기관 3상 임상시험(G-HOPE-002)](https://clinicaltrials.gov/study/NCT07066098)
+<small>A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)</small>
+
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-07-15 · ClinicalTrials.gov · Innovent Biologics (Suzhou) Co. Ltd. · 중요도 0.99
 
 **NCT07066098** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07066098.md)
 
-This is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. The primary objective of this study is to determine Overall Survival (OS) of IBI343 plus best supportive care (BSC) compared with placebo plus BSC.
+이 임상시험은 이전에 최소 2차 이상의 전신 치료를 받은 클라우딘(CLDN) 18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 대상으로 합니다. 시험 참여자들은 최선의 지지요법(BSC)과 함께 IBI343 단독요법을 받거나 위약을 투여받게 됩니다. 총 201명의 환자를 모집하여 IBI343 투여군과 위약 투여군에 2:1 비율로 무작위 배정할 예정입니다. 본 연구의 1차 목표는 위약군 대비 IBI343 투여군의 전체 생존기간(OS) 개선 여부를 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
+- 최소 2차 이상의 치료 이력이 있는 CLDN18.2 양성 진행성 또는 전이성 췌장암 환자 총 201명을 대상으로 진행되는 3상 임상시험입니다.
+- 참여 환자는 IBI343 병용 지지요법군 또는 위약 병용 지지요법군에 2:1 비율로 무작위 배정됩니다.
+- 연구의 주요 평가 지표는 위약군 대비 전체 생존기간(OS)의 비교 평가입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
 
 ---
 <a id="nct-nct07252232"></a>

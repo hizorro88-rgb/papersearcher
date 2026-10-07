@@ -22,7 +22,7 @@ comments: true
 | [NALIRIFOX+Adebrelimab+PULSAR for Advanced Pancreatic Cancer](../trials/NCT07595172.md) | 1상/2상 | 모집 중 | - |
 | [Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresecta…](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [Hepatic Arterial Infusion of Sodium Bicarbonate (NaHCO3) Combined Wit…](../trials/NCT07504471.md) | 2상 | 모집 중 | - |
-| [A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Giv…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
+| [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [AG Followed by FOLFIRINOX Both Combined With PD-L1 Antibodies as a Co…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
 | [Monthly Alternating NALIRIFOX and GnP in the First-Line Setting for M…](../trials/NCT07163273.md) | 2상 | 모집 중 | - |
 | [Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisp…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |

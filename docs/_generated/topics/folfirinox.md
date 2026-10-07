@@ -24,7 +24,7 @@ comments: true
 | [To Evaluate the Safety, Tolerability, and Preliminary Efficacy of XH0…](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresecta…](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [PDAC Regression and Intraoperative Surgical Margin With Neoadjuvant T…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
-| [A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Giv…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
+| [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [A Phase II Study Evaluating BMS-986504 in MTAP-deleted Pancreatic Can…](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [TTFields and Chemotherapy in Metastatic Pancreatic Adenocarcinoma (mP…](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
 | [Pegcetacoplan in Combination With Modified FOLFIRINOX for the Treatme…](../trials/NCT07214298.md) | 1상/2상 | 모집 중 | - |

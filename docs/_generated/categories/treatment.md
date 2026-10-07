@@ -70,27 +70,37 @@ The purpose of this study is to evaluate the safety and efficacy of an investiga
 
 ---
 <a id="nct-nct06593431"></a>
-#### [Extending Outcomes for Pancreas Cancer Patients With Nominal Oligometastatic Disease (EXPAND): A Randomized Phase III Trial](https://clinicaltrials.gov/study/NCT06593431)
+#### [소수 전이성 췌장암 환자를 위한 전이 지향적 국소 치료의 효과를 평가하는 3상 무작위 배정 임상시험(EXPAND)](https://clinicaltrials.gov/study/NCT06593431)
+<small>Extending Outcomes for Pancreas Cancer Patients With Nominal Oligometastatic Disease (EXPAND): A Randomized Phase III Trial</small>
+
 `임상시험` `3상` `치료 전반` `진단·조기발견` · 2024-09-19 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.99
 
 **NCT06593431** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06593431.md)
 
-The EXPAND trial (EXtending outcomes for PAncreas cancer patients with Nominal oligometastatic Disease) is a randomized phase III trial assessing the efficacy of MDT to improve PFS and OS for patients with oligometastatic pancreatic ductal adenocarcinoma (PDAC). Primary Objectives:
+EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이성 췌장관선암(PDAC) 환자를 대상으로 진행되는 3상 무작위 배정 임상시험입니다. 전신 항암 치료만 시행하는 표준 치료와 비교하여 원발 병소 및 모든 전이 병소에 방사선 치료나 수술 등의 전이 지향 치료(MDT)를 추가했을 때의 효과를 평가합니다. 1차 목표는 무진행 생존기간(PFS) 개선 여부를 확인하는 것이며 주요 2차 목표는 전체 생존기간(OS) 연장 여부를 확인하는 것입니다. 목표 등록 환자 수는 80명이며 안전성, 삶의 질, 다음 전신 치료까지의 시간 등도 함께 평가합니다.
 
-To determine whether, in patients with oligometastatic pancreatic ductal adenocarcinoma, MDT to all sites of disease confers a benefit in PFS compared to systemic therapy alone.
+- 원격 전이 병변이 1~5개인 소수 전이성 췌장관선암 환자 총 80명을 대상으로 진행하는 3상 임상시험입니다.
+- 모든 종양 병소에 대한 전이 지향 치료(MDT) 병용군과 전신 항암 화학요법 단독군을 비교합니다.
+- 1차 평가변수는 무진행 생존기간(PFS)이며 주요 2차 평가변수는 전체 생존기간(OS)입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06593431) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06593431)</small>
 
 ---
 <a id="nct-nct07066098"></a>
-#### [A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)](https://clinicaltrials.gov/study/NCT07066098)
+#### [이전에 치료받은 클라우딘(CLDN) 18.2 양성 췌장암 환자를 대상으로 한 IBI343 단독요법 대 위약 비교 다기관 3상 임상시험(G-HOPE-002)](https://clinicaltrials.gov/study/NCT07066098)
+<small>A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)</small>
+
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-07-15 · ClinicalTrials.gov · Innovent Biologics (Suzhou) Co. Ltd. · 중요도 0.99
 
 **NCT07066098** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07066098.md)
 
-This is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. The primary objective of this study is to determine Overall Survival (OS) of IBI343 plus best supportive care (BSC) compared with placebo plus BSC.
+이 임상시험은 이전에 최소 2차 이상의 전신 치료를 받은 클라우딘(CLDN) 18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 대상으로 합니다. 시험 참여자들은 최선의 지지요법(BSC)과 함께 IBI343 단독요법을 받거나 위약을 투여받게 됩니다. 총 201명의 환자를 모집하여 IBI343 투여군과 위약 투여군에 2:1 비율로 무작위 배정할 예정입니다. 본 연구의 1차 목표는 위약군 대비 IBI343 투여군의 전체 생존기간(OS) 개선 여부를 평가하는 것입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
+- 최소 2차 이상의 치료 이력이 있는 CLDN18.2 양성 진행성 또는 전이성 췌장암 환자 총 201명을 대상으로 진행되는 3상 임상시험입니다.
+- 참여 환자는 IBI343 병용 지지요법군 또는 위약 병용 지지요법군에 2:1 비율로 무작위 배정됩니다.
+- 연구의 주요 평가 지표는 위약군 대비 전체 생존기간(OS)의 비교 평가입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07066098) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07066098)</small>
 
 ---
 <a id="nct-nct07252232"></a>
@@ -105,14 +115,20 @@ The purpose of this study is to evaluate the safety and efficacy of a novel RAS(
 
 ---
 <a id="nct-nct07409272"></a>
-#### [A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer](https://clinicaltrials.gov/study/NCT07409272)
+#### [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의 유효성 및 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
+<small>A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer</small>
+
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-02-13 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 0.99
 
 **NCT07409272** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07409272.md)
 
-Pancreatic cancer is difficult to diagnose early. By the time people have been diagnosed, the cancer has usually spread to other parts of the body (metastatic).
+본 임상시험은 KRAS G12D 유전자 변이가 확인된 전이성 췌장암 환자를 대상으로 신약 세티데그라십(setidegrasib)을 표준 항암화학요법(mFOLFIRINOX 또는 NALIRIFOX)과 함께 투여했을 때의 효과와 안전성을 위약군과 비교·평가하는 3상 연구입니다. 환자들은 무작위 배정을 통해 '세티데그라십 + 항암화학요법'군 또는 '위약 + 항암화학요법'군으로 나뉘어 치료를 받게 됩니다. 주요 목적은 세티데그라십 병용 투여가 전체 생존기간을 연장하고 질병 진행을 지연시킬 수 있는지 확인하는 것입니다. 국내 8개 기관을 포함하여 총 614명의 환자를 모집할 예정입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
+- KRAS G12D 유전자 변이가 있는 수술 불가능한 전이성 췌관선암 환자 614명을 대상으로 진행되는 글로벌 3상 임상시험입니다.
+- 표준 항암화학요법인 mFOLFIRINOX 또는 NALIRIFOX에 세티데그라십(setidegrasib) 또는 위약을 무작위로 병용 투여하여 전체 생존기간 개선 여부를 평가합니다.
+- 국내 8개 임상시험 기관이 참여하여 환자를 모집 중입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
 ---
 <a id="nct-nct07562152"></a>

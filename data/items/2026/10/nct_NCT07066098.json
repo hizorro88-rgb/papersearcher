@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07066098",
  "importance": 0.99,
- "key_points_ko": [],
+ "key_points_ko": [
+  "최소 2차 이상의 치료 이력이 있는 CLDN18.2 양성 진행성 또는 전이성 췌장암 환자 총 201명을 대상으로 진행되는 3상 임상시험입니다.",
+  "참여 환자는 IBI343 병용 지지요법군 또는 위약 병용 지지요법군에 2:1 비율로 무작위 배정됩니다.",
+  "연구의 주요 평가 지표는 위약군 대비 전체 생존기간(OS)의 비교 평가입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07066098"
  },
- "summary_ko": "This is a study of a Multicenter, Randomized, Double-Blind, Phase III Study of IBI343 Monotherapy Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Participants with Claudin (CLDN) 18.2-Positive, Locally Advanced Unresectable or Metastatic Pancreatic Cancer Who Received at least 2 Prior Lines of Therapy. The primary objective of this study is to determine Overall Survival (OS) of IBI343 plus best supportive care (BSC) compared with placebo plus BSC.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 이전에 최소 2차 이상의 전신 치료를 받은 클라우딘(CLDN) 18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 대상으로 합니다. 시험 참여자들은 최선의 지지요법(BSC)과 함께 IBI343 단독요법을 받거나 위약을 투여받게 됩니다. 총 201명의 환자를 모집하여 IBI343 투여군과 위약 투여군에 2:1 비율로 무작위 배정할 예정입니다. 본 연구의 1차 목표는 위약군 대비 IBI343 투여군의 전체 생존기간(OS) 개선 여부를 평가하는 것입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects With Previously Treated, Claudin (CLDN) 18.2-positive, Pancreatic Cancer(G-HOPE-002)",
- "title_ko": null,
+ "title_ko": "이전에 치료받은 클라우딘(CLDN) 18.2 양성 췌장암 환자를 대상으로 한 IBI343 단독요법 대 위약 비교 다기관 3상 임상시험(G-HOPE-002)",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -59,7 +63,7 @@
     "phone": "86-512-69566088"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n• 서면 동의서에 서명하고 연구 절차 준수가 가능한 만 18세 이상의 성인 환자\n• 조직학적으로 확인된 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자\n• 플루오로우라실(fluorouracil) 기반 및 젬시타빈(gemcitabine) 기반 치료를 포함하여 최소 2차 이상의 전신 항암 치료 후 질병이 진행된 환자\n• 신체 수행 상태 점수(ECOG PS)가 0점 또는 2점인 환자\n• 적절한 골수 및 주요 장기 기능을 가진 환자\n• 종양 조직에서 클라우딘(CLDN) 18.2 양성이 확인된 환자\n\n제외 기준:\n• 관찰 또는 중재 후 추적 관찰을 제외한 다른 중재적 연구에 참여 중인 환자\n• 이전에 국소이성화효소 억제제 기반 항체-약물 접합체(ADC) 치료를 받은 적이 있는 환자\n• 첫 연구 치료 전 2주 또는 반감기의 5배 이내(더 짧은 기간 기준)에 항암 치료를 받은 환자\n• 연구 약물 투여 중 다른 항암 치료를 계획 중인 환자(단, 반응 평가에 영향을 주지 않는 통증 완화 목적의 완화적 방사선 치료는 허용)\n• 증상이 있는 중추신경계(CNS) 전이가 있는 환자(특정 기준을 충족하는 무증상 뇌전이는 허용될 수 있음)\n• 완치되었거나 재발 위험이 낮은 경우를 제외한 다른 원발성 악성 종양의 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Sign the written informed consent form (ICF) and be willing and able to comply with the visits and related procedures stipulated in the plan.\n2. Histologically confirmed unresectable locally advanced, or metastatic pancreatic cancer.\n3. Have received and progression after at least two systemic therapies(must including a fluorouracil-based and a gemcitabine-based therapy).\n4. ECOG PS score of 0 or 2.\n5. Adequate bone marrow and organ function\n6. Confirmed as CLDN18.2 positive.\n\nExclusion Criteria:\n\n1. Participation in another interventional study, except observational or post-intervention follow-up.\n2. Prior treatment with topoisomerase inhibitor-based ADC.\n3. Has received the last dose of an anti-cancer therapy within 2 weeks or 5 half-lives (whichever is shorter) prior to the first dose of study treatment.\n4. Plans to receive other anti-tumor treatments during treatment with the study drug (palliative radiotherapy for symptomatic (e.g., pain) relief that does not affect response assessment is allowed) .\n5. Symptomatic CNS metastasis; asymptomatic brain metastases may be allowed with specific criteria.\n6. History of other primary malignancies, except cured or low-risk of recurrence.",
   "enrollment": 201,
   "has_results": false,

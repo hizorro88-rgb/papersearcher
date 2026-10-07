@@ -20,7 +20,7 @@ comments: true
 | [A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combin…](NCT07490301.md) | 2상/3상 | 모집 중 | Telisotuzumab adizutecan, Fluorouracil, Folinic acid/ Leucov | 1곳 | 2026-10-05 |
 | [Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment…](NCT07491445.md) | 3상 | 모집 중 | daraxonrasib, gemcitabine, nab-paclitaxel | 6곳 | 2026-10-02 |
 | [Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic…](NCT07252232.md) | 3상 | 모집 중 | daraxonrasib | 4곳 | 2026-09-23 |
-| [A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Giv…](NCT07409272.md) | 3상 | 모집 중 | Setidegrasib, Oxaliplatin, Leucovorin, Irinotecan, fluoroura | 8곳 | 2026-09-22 |
+| [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](NCT07409272.md) | 3상 | 모집 중 | Setidegrasib, Oxaliplatin, Leucovorin, Irinotecan, fluoroura | 8곳 | 2026-09-22 |
 | [Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pa…](NCT05254171.md) | 2상/3상 | 모집 중 | SBP-101, Nab-paclitaxel, Gemcitabine, Placebo | 6곳 | 2024-11-06 |
 | [NeoFOL-R Trial (Perioperative Versus Adjuvnat FOLFIRINOX in Resectabl…](NCT05529940.md) | 3상 | 모집 중 | Folfirinox | 2곳 | 2024-11-27 |
 | [A Study to Evaluate Chemotherapy With or Without INCB161734 in Previo…](NCT07522073.md) | 3상 | 모집 중 | INCB161734, Placebo, Investigator's choice of chemotherapy | 8곳 | 2026-09-22 |
@@ -48,8 +48,8 @@ comments: true
 
 | 시험명 | 단계 | 상태 | 시험 약물 | 국내 기관 | 갱신 |
 |---|---|---|---|---|---|
-| [Extending Outcomes for Pancreas Cancer Patients With Nominal Oligomet…](NCT06593431.md) | 3상 | 모집 중 | Consolidative Radiation | - | 2026-10-06 |
-| [A Multicenter Study of IBI343 Monotherapy Versus Placebo in Subjects…](NCT07066098.md) | 3상 | 모집 중 | IBI343, Placebo | - | 2026-10-05 |
+| [소수 전이성 췌장암 환자를 위한 전이 지향적 국소 치료의 효과를 평가하는 3상 무작위 배정 임상시험(EXPAND)](NCT06593431.md) | 3상 | 모집 중 | Consolidative Radiation | - | 2026-10-06 |
+| [이전에 치료받은 클라우딘(CLDN) 18.2 양성 췌장암 환자를 대상으로 한 IBI343 단독요법 대 위약 비교 다기관 3상…](NCT07066098.md) | 3상 | 모집 중 | IBI343, Placebo | - | 2026-10-05 |
 | [Atebimetinib + GnP as a First Line Treatment in Patients With Metasta…](NCT07562152.md) | 3상 | 모집 중 | Atebimetinib, GnP, mGnP | - | 2026-10-05 |
 | [A Phase II/III Trial to Evaluate the Efficacy and Safety of Surufatin…](NCT06361888.md) | 2상/3상 | 모집 중 | Surufatinib Combined With Camrelizumab, Nab-paclitaxel, and | - | 2026-09-17 |
 | [Gemcitabine Plus Nab-paclitaxel as Switch Maintenance Versus Continua…](NCT06897644.md) | 3상 | 모집 중 | Oxaliplatin, Irinotecan (CPT-11), Leucovorin, 5-FU (5-fluoro | - | 2026-09-09 |

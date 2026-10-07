@@ -17,18 +17,18 @@ comments: true
 
 ## 최근 30일
 
-<a id="pmid-42838738"></a>
-#### [Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts](https://pubmed.ncbi.nlm.nih.gov/42838738/)
-`논문` `관찰연구` `지지요법·삶의질` · 2026-10-06 · PubMed · Gut · 중요도 0.77
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42838738/) · [DOI](https://doi.org/10.1136/gutjnl-2026-339722) · [NCT06913153](https://clinicaltrials.gov/study/NCT06913153) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42838738)</small>
-
----
 <a id="pmid-42837495"></a>
 #### [Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study](https://pubmed.ncbi.nlm.nih.gov/42837495/)
 `논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-10-05 · PubMed · Br J Surg · 중요도 0.77
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837495/) · [DOI](https://doi.org/10.1093/bjs/znag122) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837495)</small>
+
+---
+<a id="pmid-42838738"></a>
+#### [Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts](https://pubmed.ncbi.nlm.nih.gov/42838738/)
+`논문` `관찰연구` `지지요법·삶의질` · 2026-10-06 · PubMed · Gut · 중요도 0.77
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42838738/) · [DOI](https://doi.org/10.1136/gutjnl-2026-339722) · [NCT06913153](https://clinicaltrials.gov/study/NCT06913153) · 요약 대기 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42838738)</small>
 
 ---
 <a id="nct-nct07823049"></a>
