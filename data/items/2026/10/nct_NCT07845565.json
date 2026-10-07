@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT07845565",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 60명이며, 실험군과 대조군에 각 30명씩 1:1로 배정됩니다.",
+  "주요 목표는 대변 미생물 이식(FMT)과 SHR-1701 및 화학요법 병용 시 무진행 생존기간 중앙값(mPFS)을 평가하는 것입니다.",
+  "이차 목표에는 전체 생존기간(OS), 객관적 반응률(ORR), 질병 통제율(DCR), 반응 지속기간(DoR) 및 이상반응 평가가 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07845565"
  },
- "summary_ko": "This is a prospective, single-center, randomized, open-label, two-arm Phase II clinical trial design to evaluate the feasibility, safety and preliminary efficacy of combining fecal Fecal Microbiota Transplantation （FMT） Combined With SHR-1701plus Nab-paclitaxel and Gemcitabine as first-line treatment in patients for locally advanced or metastatic pancreatic ductal adenocarcinoma （PDAC）. This phase II study aims to assess the efficacy and safety of fecal microbiota transplantation （FMT) combined …",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암(PDAC) 환자를 대상으로 대변 미생물 이식(FMT), SHR-1701, nab-paclitaxel(냅파클리탁셀), gemcitabine(젬시타빈) 병용 요법의 타당성, 안전성, 예비 유효성을 평가하는 전향적 2상 임상시험입니다. 치료 경험이 없는 환자 60명을 대상으로 하며, 실험군과 대조군에 1:1로 무작위 배정합니다. 주요 평가지표는 무진행 생존기간 중앙값(mPFS)입니다.",
+ "summary_source": "llm",
  "tags": [
   "Fecal Microbial Transplantation （FMT）",
   "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -58,7 +62,7 @@
   "Gemcitabine"
  ],
  "title": "FMT Plus SHR-1701 With Nab-Paclitaxel/Gemcitabine as First-Line Treatment for Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성 췌장암 1차 치료로서 대변 미생물 이식(FMT) 및 SHR-1701과 냅파클리탁셀/젬시타빈 병용 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -75,7 +79,7 @@
     "phone": "+8613012284232"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 18세에서 75세 사이의 연령- 국소 진행성이며 절제 불가능하고, 진행성 질환에 대해 이전에 전신 치료를 받은 적이 없는 조직학적 또는 세포학적으로 확진된 췌장암(PDAC)- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재- 적절한 혈액, 간, 신장, 심장 및 응고 기능- 캡슐을 삼킬 수 있는 능력- ECOG 수행 능력 상태 0-1- 최소 3개월 이상의 기대 여명. 제외 기준:- 전이성 질환, 복막 전이, 악성 복수가 있거나 NALIRIFOX 치료에 부적합한 환자- 활동성 자가면역 질환이 있거나 전신 면역억제 치료가 필요한 환자, 면역결핍, HIV 감염, 장기/조혈모세포 이식 병력이 있는 환자- 조절되지 않는 감염, 활동성 B형/C형 간염 감염 또는 중증 감염성 질환이 있는 환자- 위장관 천공, 누공, 농양, 활동성 출혈이 있거나 FMT에 금기가 있는 환자- 심각한 심장, 간, 신장 또는 폐 기능 장애가 있는 환자- 연구 약물 또는 FMT 관련 성분에 과민반응 병력이 있는 환자",
   "eligibility_text": "Inclusion criteria\n\n* 18-75 years\n* Histologically or cytologically confirmed pancreatic ductal adenocarcinoma that is locally advanced, unresectable with no prior systemic therapy for advanced disease.\n* At least one measurable lesion per RECIST v1.1.\n* Adequate hematologic, hepatic, renal, cardiac and coagulation function.\n* Have the ability to ingest capsule.\n* ECOG performance status of 0-1\n* Life expectancy of at least 3 months\n\nExclusion criteria\n\n* Patients with metastatic disease, peritoneal metastasis, malignant ascites, or unsuitable for NALIRIFOX treatment.\n* Patients with active autoimmune diseases or requiring systemic immunosuppressive therapy and patients with immunodeficiency, HIV infection, or history of organ/hematopoietic stem cell transplantation.\n* Patients with uncontrolled infection, active hepatitis B/C infection, or severe infectious diseases.\n* Patients with gastrointestinal perforation, fistula, abscess, active bleeding, or contraindications to FMT.\n* Patients with severe cardiac, hepatic, renal, or pulmonary dysfunction.\n* Patients with known hypersensitivity to study drugs or FMT-related components.",
   "enrollment": 60,
   "has_results": false,

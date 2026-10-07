@@ -17,7 +17,11 @@
  ],
  "id": "nct:NCT06782412",
  "importance": 0.81,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 109명입니다.",
+  "중재 방법으로 [18F]AlF-FAPI-74 PET/CT를 사용합니다.",
+  "대상 질환에는 췌장관상피내암(pancreatic ductal adenocarcinoma) 등이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06782412"
  },
- "summary_ko": "The aim of the project is to demonstrate superior detection ratio of \\[18F\\]AlF-FAPI-74 PET/CT compared to \\[18F\\]FDG PET/CT or conventional imaging in treatment-naïve, newly diagnosed patients with oesophagogastric adenocarcinoma (clinical T1-4N0-3M0) and pancreatic ductal adenocarcinoma (clinical T1-4N0-2M0-1) and describe the clinical utility of \\[18F\\]AlF-FAPI-74 PET/CT in oncological patients with a clinically challenging situation.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 새로 진단된 췌장관상피내암(pancreatic ductal adenocarcinoma) 환자 등을 대상으로 [18F]AlF-FAPI-74 PET/CT의 암 검출률을 기존 [18F]FDG PET/CT나 전통적 영상 검사와 비교하여 우수함을 증명하는 것을 목표로 합니다. 치료를 받지 않은 신규 환자 및 임상적으로 진단이 어려운 환우들을 대상으로 진행됩니다. 총 목표 인원은 109명이며, KU Leuven에서 스폰서로 참여합니다.",
+ "summary_source": "llm",
  "tags": [
   "Oesophagogastric adenocarcinoma",
   "Pancreatic ductal adenocarcinoma",
@@ -56,7 +60,7 @@
   "Oncology"
  ],
  "title": "Multicenter Validation Trial of [18F]AlF-FAPI-74 for PET Imaging of Cancer-associated Fibroblasts Through Fibroblast Activation Protein Inhibitors (FAPI) in Different Tumor Types",
- "title_ko": null,
+ "title_ko": "다양한 암 종에서 섬유아세포 활성화 단백질 억제제(FAPI)를 통한 암 관련 섬유아세포 양전자 방출 단층촬영(PET) 영상화를 위한 [18F]AlF-FAPI-74의 다기관 검증 임상시험",
  "trial": {
   "conditions": [
    "Oesophageal Cancer",
@@ -67,7 +71,7 @@
    "Oncologic Disorders"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 자발적인 서면 동의를 완료한 환자 또는 법적 대리인. 2. 18세 이상 성인. 3. 새로 조직학적 또는 세포학적으로 진단된 췌장관상피내암(pancreatic ductal adenocarcinoma). 4. [18F]FDG PET/CT 또는 CT/MRI를 이용한 전통적 병기 결정을 마친 환자. 5. TNM 분류 cT1-4N0-2M0-1(단, 초기 절제 가능한 환자는 제외). 제외 기준: 1. 정신적 또는 법적으로 무능력하거나 연구 설계를 이해하지 못하는 자. 2. 연구자의 판단에 따라 환자의 안전이나 프로토콜 준수를 위협할 수 있는 질환이 있는 자. 3. 임상시험의 무결성을 손상시킬 수 있는 이전 또는 동시 치료를 받은 자. 4. 임신 중이거나 수유 중인 여성, 적절한 피임법을 사용하지 않는 가임기 여성. 5. 연구팀이 호환되지 않는다고 판단하는 다른 임상시험에 참여 중인 자. 6. 지난 12개월 동안 실험 절차로 인해 1 mSv를 초과하는 방사선 노출이 발생한 임상 연구에 참여한 자. 7. [18F]AlF-FAPI-74 또는 부형제에 과민반응이 알려진 자.",
   "eligibility_text": "Inclusion Criteria OGA:\n\n1. Voluntary written informed consent of the participant or their legally authorized representative has been obtained prior to any screening procedures.\n2. Age 18 or older.\n3. New histologic or cytologic proven diagnosis of oesophagogastric adenocarcinoma.\n4. Patient underwent a \\[18F\\]FDG PET/CT.\n5. TNM classification: cT1-4N0-3M0\n\nInclusion Criteria PDAC:\n\n1. Voluntary written informed consent of the participant or their legally authorized representative has been obtained prior to any screening procedures.\n2. Age 18 or older.\n3. New histologic or cytologic proven diagnosis of pancreatic ductal adenocarcinoma.\n4. Patient underwent a \\[18F\\]FDG PET/CT or conventional staging with CT or MRI.\n5. TNM classification: cT1-4N0-2M0-1, with the exception of upfront resectable patients.\n\nInclusion Criteria Clinically challenging cohort:\n\n1. Voluntary written informed consent of the participant or their legally authorized representative has been obtained prior to any screening procedures.\n2. Age 18 or older.\n3. Histologic or cytologic proven diagnosis of a malignancy.\n4. Patient underwent a \\[18F\\]FDG PET/CT.\n5. Unexplained symptoms, complaints, biochemical or imaging (scintigraphy, PET, CT, MR) findings.\n\nExclusion Criteria:\n\n1. Participant is mentally or legally incapacitated, doesn't understand the study design or is not willing or capable to undergo all study-specific procedures.\n2. Any disorder or condition, which in the Investigator's opinion might jeopardise the participant's safety or compliance with the protocol.\n3. Any prior or concomitant treatment(s) that might jeopardise the participant's safety or that would compromise the integrity of the Trial.\n4. Female who is pregnant (urinary hCG test can be performed in case of doubt), breast-feeding or intends to become pregnant or is of child-bearing potential and not using an adequate, highly effective contraceptive (with a relatively high Pearl Index: natural methods, minipill outside postpartum period, spermicides or condoms in monotherapy or no usage of contraception when sexually active are not accepted).\n5. Participation in an interventional Trial with an investigational medicinal product (IMP) or device when the trial designs are not considered compatible by the study team.\n6. Participation in a clinical scientific study in the last 12 months with a radiation exposure caused by the experimental procedures greater than 1 mSv.\n7. Participant has a known hypersensitivity to \\[18F\\]AlF-FAPI-74 or the used excipients.",
   "enrollment": 109,
   "has_results": false,

@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06428409",
  "importance": 0.85,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 220명이며 국내 4곳의 기관이 참여합니다.",
+  "진행성 또는 전이성 췌장관선암(PDAC) 등 위장관암 환자를 대상으로 합니다.",
+  "sacituzumab tirumotecan 단독 또는 병용 요법의 안전성과 치료 반응률을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06428409"
  },
- "summary_ko": "Researchers want to learn if sacituzumab tirumotecan (MK-2870) alone or with other treatments can treat certain gastrointestinal (GI) cancers. The GI cancers being studied are either advanced (the cancer has spread to other parts of the body), or unresectable (the cancer cannot be removed with surgery).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 진행성 또는 절제 불가능한 위장관암 환자를 대상으로 sacituzumab tirumotecan(MK-2870) 단독 또는 다른 치료법과의 병용 투여를 평가합니다. 대상 질환에는 췌장관선암(Pancreatic Ductal Adenocarcinoma, PDAC)이 포함됩니다. 연구의 주요 목적은 안전성 확인, 환자의 내약성 평가, 그리고 치료에 반응하여 암이 줄어들거나 사라지는 환자 수를 파악하는 것입니다. 총 목표 인원은 220명이며 국내 4곳의 기관이 참여합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Clinical Study of MK-2870 Alone or With Other Treatments to Treat Gastrointestinal Cancers (MK-9999-02A)",
- "title_ko": null,
+ "title_ko": "위장관암 환자를 대상으로 sacituzumab tirumotecan(MK-2870) 단독 또는 병용 치료를 평가하는 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -61,7 +65,7 @@
     "phone": "1-888-577-8839"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 진행성 또는 전이성 췌장관선암(PDAC) 진단을 받고 이전에 치료를 받은 적이 있는 환자\n- 절제 불가능 또는 전이성 대장암으로 이전에 치료를 받은 환자\n- 진행성 및/또는 절제 불가능한 담도암(Biliary Tract Cancer, BTC)으로 이전 치료 경험이 있거나 없는 환자\n- 이전 암 치료로 인한 부작용에서 회복된 환자\n\n제외 기준:\n- 심각한 안질환 병력이 있는 환자\n- 연구 치료 시작 전 4주 이내에 임상시험용 의약품을 포함한 전신 항암 치료를 받은 환자\n- 스테로이드 치료가 필요했던 (비감염성) 폐렴/간질성 폐질환(Interstitial Lung Disease, ILD) 병력이 있거나 현재 폐렴/ILD가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\nThe main inclusion criteria include but are not limited to the following:\n\n* Has one of the following cancers:\n\n  * Unresectable or metastatic colorectal cancer and has received prior therapy for the cancer\n  * Advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) and has received prior therapy for the cancer\n  * Advanced and/or unresectable biliary tract cancer (BTC) and has received prior therapy for the cancer\n  * Advanced and/or unresectable BTC and has not received prior therapy for the cancer\n* For participants who have received prior therapy for cancer: Has recovered from any side effects due to previous cancer treatment\n\nExclusion Criteria:\n\nThe main exclusion criteria include but are not limited to the following:\n\n* History of severe eye disease\n* For participants who have received prior therapy for cancer: Received prior systemic anticancer therapy including investigational agents within 4 weeks before starting study intervention\n* History of (noninfectious) pneumonitis/interstitial lung disease (ILD) that required steroids, has current pneumonitis/ILD, or has suspected ILD or pneumonitis that cannot be ruled out by standard diagnostic assessments at Screening",
   "enrollment": 220,
   "has_results": false,

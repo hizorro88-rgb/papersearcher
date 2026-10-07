@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "surgery"
  ],
@@ -20,7 +21,11 @@
  ],
  "id": "nct:NCT05268692",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 연구 대상 환자는 총 500명입니다.",
+  "중재 치료법으로 GS와 GnP를 사용합니다.",
+  "참여 연령 기준은 18세부터 85세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,19 +49,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05268692"
  },
- "summary_ko": "The effect of neoadjuvant chemotherapy for pancreatic cancer was gradually established. However it has been not clarified which regimen of neoadjuvant treatment for pancreatic cancer is the best.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 췌장암 환자를 대상으로 선행화학요법(neoadjuvant chemotherapy) 이후 GS(gemcitabine plus S-1) 요법과 GnP(gemcitabine plus nab-paclitaxel) 요법의 효과를 비교합니다. 18세부터 85세까지의 췌장 선암(pancreatic adenocarcinoma) 환자 500명을 목표로 모집하고 있습니다. 아직 최선의 선행화학요법지요법이 명확하지 않아 이를 평가하기 위한 연구입니다.",
+ "summary_source": "llm",
  "tags": [
   "Neoadjuvant"
  ],
  "title": "Neoadjuvant Chemotherapy for Pancreatic Cancer Followed by GS and GnP",
- "title_ko": null,
+ "title_ko": "췌장암에 대한 선행화학요법 이후 GS 및 GnP 병용 요법",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 췌장암에 대한 선택적 췌장절제술(elective pancreatectomy)을 시행하는 환자. 제외 기준: - 이전 암 수술 이력이 있는 환자. - 수술 전 6개월 동안 10%를 초과하는 체중 감소가 있는 환자. - 원격 전이가 있는 환자. - 호흡기, 신장 또는 심장 질환으로 인해 주요 장기 기능이 심각하게 저하된 환자.",
   "eligibility_text": "Inclusion Criteria:\n\nelective pancreatectomy for pancreatic cancer\n\nExclusion Criteria:\n\na previous cancer surgery a body weight loss of \\>10% during the 6 months before surgery the presence of distant metastases seriously impaired function of vital organs because of respiratory, renal, or heart disease.",
   "enrollment": 500,
   "has_results": false,

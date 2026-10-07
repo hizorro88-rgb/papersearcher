@@ -3,8 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "folfirinox"
@@ -20,7 +21,12 @@
  ],
  "id": "nct:NCT04084496",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 원격 전이가 없는 절제 가능 췌장암입니다.",
+  "중재(중재법)는 FOLFIRINOX이며, 6개월 동안 보조 항암화학요법으로 투여됩니다.",
+  "1차 평가변수는 무병 생존기간이며, 2차 평가변수는 전체 생존기간, 안전성, 삶의 질입니다.",
+  "목표 인원은 80명입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,15 +50,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04084496"
  },
- "summary_ko": "Although FOLFIRINOX regimen was recently presented to be effective as adjuvant chemotherapy for resectable pancreatic cancer in selected patients who have good physical condition, there is still insufficient evidence on this regimen in treating resectable pancreatic cancer patients in China. Since for many tumors, different races may show different responses to the same regimen, we design this open phase Ⅱ study to evaluate the the efficacy and safety of mFOLFIRINOX as adjuvant chemotherapy for …",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 중국인 절제 가능 췌장암(resectable pancreatic cancer) 환자를 대상으로 mFOLFIRINOX 보조 항암화학요법의 유효성과 안전성을 평가하는 2상(phase 2) 공개 연구입니다. 환자들은 FOLFIRINOX 치료를 6개월 동안 받게 됩니다. 1차 평가변수는 무병 생존기간(disease-free survival)이며, 2차 평가변수는 전체 생존기간(overall survival), 안전성, 삶의 질(quality of life)입니다. 총 목표 환자 수는 80명입니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
   "adjuvant chemotherapy",
   "FOLFIRINOX"
  ],
  "title": "mFOLFIRINOX as Adjuvent Chemotherapy in Treating Chinese Pancreatic Cancer Patients",
- "title_ko": null,
+ "title_ko": "중국인 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -64,7 +70,7 @@
     "phone": "13760612003"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 원격 전이가 없고 조직학적으로 확진된 췌장 선암(adenocarcinoma of the pancreas) - 췌장암 근치적 절제술(radical resection)을 받은 환자 - 이전 세포독성 항암화학요법(cytostatic chemotherapy)을 받지 않은 환자 - 피임법을 사용하는 18세 초과 79세 이하의 남녀 환자 - ECOG 수행 능력 0~1 이하 - 적절한 골수 및 장기 기능을 가진 환자 - 절대 호중구 수(ANC) 2.0 x 10^9/L 이상, 혈소판 90 x 10^9/L 이상, 혈색소 90 g/L 이상 - 적절한 간 기능 및 신장 기능을 가진 환자 - 순응도가 좋은 환자 - 서면 동의서 작성 완료. 제외 기준: - 임산부 또는 수유부 - 원격 전이가 있는 환자 - 빈번한 수혈이 필요한 심각한 위장관 출혈 환자 - 적절한 피임법 사용을 거부하는 환자 - Oxaliplatin, Irinotecan, Leucovorin 또는 5-Fluorouracil에 알레르기가 있는 환자 - 조절되지 않는 심각한 전신 질환 - 동시 악성종양 또는 등록 전 5년 이내의 악성종양 병력 - 동의를 방해하는 정신 질환 - 동시 항종양제 사용 환자 - 등록 전 4주 이내 임상 시험용 항종양제 사용 환자 - HIV 양성 - 만성 설사, 오심, 구토 병력 - 2등급 이상의 감각성 말초신경병증 - 심근경색(6개월 이내), 울혈성 심부전, 불안정성 협심증 병력 - 체온 38도 이상의 감염성 질환 또는 염증",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the pancreas without distant metastases.\n* Receive radical resection of pancreatic cancer\n* No prior cytostatic chemotherapy\n* Female and male patients \\> 18 and \\<=79 years using contraception\n* ECOG ≤ 1\n* Patient has adequate bone marrow and organ function\n* Absolute Neutrophil Count (ANC) ≥ 2.0 x 109/L Platelets ≥ 90 x 109/L Hemoglobin ≥ 90 g/L\n* Patient has adequate liver function AST and ALT not more than 2.5 times ULN (not more than 5.0 times ULN if there is liver metastasis) Serum bilirubin ≤ 1.2 x ULN Creatinine ≤ 1.25 times ULN\n* Good compliance\n* Written informed consent\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Distant metastasis.\n* Patients with severe gastrointestinal hemorrhage which need frequent blood transfusions.\n* Refuse to take appropriate contraceptive measures (including male patients).\n* Allergic to Oxaliplatin, Irinotecan, Leucovorin or 5-Fluorouracil.\n* Severe systemic disease out of control such as unstable or uncompensated respiratory, cardiac, liver, renal diseases.\n* Patient has a concurrent malignancy or has a malignancy within 5 years of study enrollment, (with the exception of non-melanoma skin cancer or cervical carcinoma in situ).\n* Psychiatric illness that would prevent the patient from giving informed consent.\n* Patient is concurrently using other antineoplastic agent\n* Patient has used investigational antineoplastic agent within 4 weeks prior to entry.\n* Known HIV-positivity.\n* No history of chronic diarrhea, nausea or vomit.\n* No ≥ grade 2 sensory peripheral neuropathy.\n* A history of transmural myocardial infarction (within 6 months prior to entry), congestive heart failure, and unstable angina.\n* Infectious disease or inflammation with body temperature ≥ 38 ℃.",
   "enrollment": 80,
   "has_results": false,

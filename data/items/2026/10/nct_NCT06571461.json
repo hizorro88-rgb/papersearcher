@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06571461",
  "importance": 0.86,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 408명입니다.",
+  "연령 기준은 18세에서 75세입니다.",
+  "대조군은 gemcitabine과 capecitabine 병용 요법입니다.",
+  "시험군은 liposomal irinotecan, oxaliplatin, S-1 병용 요법입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06571461"
  },
- "summary_ko": "This study will evaluate the efficacy and safety of adjuvant therapy with liposomal irinotecan in combination with oxaliplatin, and S-1 compared with capecitabine combined with capecitabine in participants with pancreatic ductal adenocarcinoma after radical surgery.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 근치적 수술을 받은 췌장관상피내암(pancreatic ductal adenocarcinoma) 환자를 대상으로 리포조말 이리노테칸(liposomal irinotecan), 옥살리플라틴(oxaliplatin), S-1 병용 요법과 젬시타빈(gemcitabine), 카페시타빈(capecitabine) 병용 요법의 유효성과 안전성을 비교합니다. 총 408명의 환자를 대상으로 진행되는 3상 임상시험입니다. 현재 환자 모집 전 단계입니다. 초록에 세부적인 결과 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Liposomal Irinotecan in Combination With Oxaliplatin and S-1 Versus Gemcitabine Combined With Capecitabine as Postoperative Adjuvant Therapy for Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 수술 후 보조 요법으로서 리포조말 이리노테칸+옥살리플라틴+S-1 병용 요법 대 젬시타빈+카페시타빈 병용 요법의 비교",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -61,7 +66,7 @@
     "phone": "86-0311-69085587"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 18~75세로 서면 동의서 제공이 가능한 환자. 2. 조직학적으로 확인된 절제된 췌장관상피내암(선상피암종 포함). 3. 근치적 절제를 거쳤고 육안적 완전 절제(R0 및 R1)가 확인된 환자. 4. 수술 후 완전히 회복되어 수술 후 12주 이내에 보조 치료를 시작할 수 있는 환자. 5. 미국동부암연구협력그룹(ECOG) 신체 상태 평가지수 0-1인 환자. 6. 주요 장기 기능이 양호한 환자. 제외 기준: 1. 내분비 종양, 선포세포 선암종, 췌장모세포종, 고형 가유두종 등 다른 비관형 췌장 종양 환자. 2. 육안적 불완전 종양 제거(R2 절제). 3. 췌장암에 대한 이전의 선행 보조 치료, 방사선 치료 또는 전신 치료 이력. 4. 전이성 또는 국소 재발성 췌장암의 존재 또는 병력. 5. 무작위 배정 전 21일 이내의 CA 19-9 > 180 U/ml. 6. 이전 치료의 독성이 1등급 이하로 회복되지 않은 경우. 7. 알려진 말초 신경병증(CTCAE 2등급 이상). 8. 디하이드로피리미딘 탈수소효소(DPD) 결핍이 알려진 경우. 9. 길버트 증후군으로 확진된 피험자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients able and willing to provide a written informed consent aged 18-75 years.\n2. Histologically confirmed resected ductal pancreatic adenocarcinoma (including adenosquamous carcinoma).\n3. Undergone radical resection and confirmed macroscopic complete resection (R0 and R1).\n4. Full recovery after surgery; able to start adjuvant treatment within 12 weeks after surgery.\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n6. The main organs function well.\n\nExclusion Criteria:\n\n1. Patients with other types of non-ductal tumor of the pancreas, including endocrine tumors or acinar cell adenocarcinoma, pancreatoblastoma, and solid-pseudopapillary tumor.\n2. Macroscopic incomplete tumor removal (R2 resection).\n3. Prior neo-adjuvant treatment, radiation therapy, or systemic therapy for pancreatic adenocarcinoma.\n4. Presence or history of metastatic or locally recurrent pancreatic adenocarcinoma.\n5. CA 19-9\\> 180 U / ml within 21 days before randomization.\n6. The toxicity of previous therapy has not recovered to Grade 1 or below.\n7. Known peripheral neuropathy (CTCAE ≥ Grade 2).\n8. Known deficiency of dihydropyrimidine dehydrogenase (DPD)\n9. Subjects with a confirmed diagnosis of Gilbert's syndrome",
   "enrollment": 408,
   "has_results": false,

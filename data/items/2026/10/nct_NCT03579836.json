@@ -4,6 +4,7 @@
  "categories": [
   "trial",
   "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -18,7 +19,11 @@
  ],
  "id": "nct:NCT03579836",
  "importance": 0.85,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 75명이며, 국소 진행성 또는 전이성 췌장암 환자를 대상으로 합니다.",
+  "BEY1107 단독요법 및 gemcitabine 병용요법의 최대내성용량(MTD), 안전성, 유효성을 평가합니다.",
+  "국내 기관 1곳이 참여하며, 연령 기준은 20세에서 80세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03579836"
  },
- "summary_ko": "This study is a single center, open-label, non-comparative, phase I/II clinical trial to assess the maximum tolerated dose (MTD), safety and efficacy of BEY1107 in monotherapy and in combination with gemcitabine in patient With locally advanced or metastatic pancreatic cancer. The key purpose of the main part of the study is to assess the MTD, safety and efficacy of BEY1107 as monotherapy and combination therapy for locally advanced and/or metastatic pancreatic cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암(locally advanced or metastatic pancreatic cancer) 환자를 대상으로 BEY1107 단독요법 및 gemcitabine(젬시타빈) 병용요법의 최대내성용량(MTD), 안전성, 유효성을 평가하기 위한 임상 1/2상 시험입니다. 단일 기관, 공개, 비대조군 방식으로 진행되며 목표 인원은 75명입니다. 환자들은 단계별로 BEY1107 단독 투여 및 gemcitabine과의 병용 투여를 받으며, 안전성, 약동학, 바이오마커 분석이 함께 수행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer"
  ],
  "title": "Evaluation of Safety and Efficacy in BEY1107 in Monotherapy Gemcitabine Combination in Patient with Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성 췌장암 환자에서 BEY1107 단독요법 및 gemcitabine 병용요법의 안전성 및 유효성 평가",
  "trial": {
   "conditions": [
    "Locally Advanced or Metastatic Pancreatic Cancer"
@@ -60,7 +65,7 @@
     "phone": "+82-42-716-0020"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 췌장관암종 또는 췌장 미분화암으로 조직학적 또는 세포학적으로 확진된 환자\n- RECIST v.1.1에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자\n- ECOG(동유럽종양학협력그룹) 성능 상태가 0, 1, 2인 환자\n- 기대여명이 12주 이상인 환자\n- 스크리닝 시 골수, 신장, 간 기능이 적절한 환자\n\n제외 기준:\n- 국소 진행성 및/또는 전이성 췌장암 치료력이 있는 환자\n- 스크리닝 시 주요 수술력이 있는 환자\n- 조절되지 않는 뇌 전이 증거가 있는 환자\n- 활동성 세균 감염이 있는 환자\n- 기저세포암, 자궁경부 상피내암, 유두상 갑상선암 외의 악성 종양 환자\n- 임신 중이거나 수유 중인 환자\n- HIV, 활동성 B형 또는 C형 간염 감염 환자\n- BEY1107 또는 gemcitabine에 과민반응이 있는 환자",
   "eligibility_text": "Inclusion criteria :\n\n1. Histologically or Cytologically confirmed with pancreatic ductal adenocarcinoma or undifferentiated carcinoma of the pancreas\n2. At lease one measurable lesion according to RECIST v.1.1\n3. Eastern Cooperative Oncology Group (ECOG) 0,1 or 2\n4. Over 12 weeks of Life expectancy\n5. Adequate Bone marrow, Renal and Liver function at screening\n\nExclusion criteria :\n\n1. A patient who has treatment history with locally advanced and/or metastatic pancreatic cancer\n2. Major surgery history at screening\n3. Uncontrolled brain metastasis evidence\n4. Active bacterial infection patients\n5. Malignant tumor other than basal cell carcinoma, cervix carcinoma in situ and papillary thyroid cancer\n6. expected Pregnant or breast-feeding patients\n7. HIV, Active hepatitis B or C infection\n8. A patient who has hypersensitivity with BEY1107 or Gemcitabine",
   "enrollment": 75,
   "has_results": false,

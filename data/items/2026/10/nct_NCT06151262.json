@@ -20,7 +20,12 @@
  ],
  "id": "nct:NCT06151262",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 진행성 췌장암(advanced pancreatic cancer)입니다.",
+  "중재 방법은 Trilaciclib와 mFOLFIRINOX의 병용 투여입니다.",
+  "주요 평가지표는 화학요법 유발 골수억제(chemotherapy-induced myelosuppression)의 발생률입니다.",
+  "목표 환자 수는 30명이며, 연령은 18세에서 75세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06151262"
  },
- "summary_ko": "To observe the incidence of chemotherapy-induced myelosuppression and the safety of Trilaciclib combined with mFOLFIRINOX in patients with advanced pancreatic cancer receiving first-line treatment. This study was a single-arm, exploratory clinical study.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 1차 치료를 받는 진행성 췌장암 환자를 대상으로 Trilaciclib와 mFOLFIRINOX 병용 요법의 안전성과 화학요법 유발 골수억제(chemotherapy-induced myelosuppression) 발생률을 관찰합니다. 총 30명의 환자를 목표로 하는 단일군 탐색적 임상시험(single-arm, exploratory clinical study)입니다. 주요 평가지표는 화학요법 유발 골수억제 발생률이며, Trilaciclib가 골수억제 발생이나 정도를 줄일 수 있는지 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study of Trilaciclib Combined With mFOLFIRINOX in the Treatment of Patients With Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자에서 Trilaciclib와 mFOLFIRINOX 병용 치료에 관한 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -60,7 +65,7 @@
     "phone": "83106666"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 연령 18~75세 - ECOG 점수 0 또는 1 - 예상 생존기간 12주 이상 - 조직학적 또는 세포학적으로 확진된 췌장암 - 치료 전 항종양 치료를 받지 않은 환자 - 주요 장기 기능이 기준을 충족하는 환자 (호중구 수 1.5×10^9/L 이상, 혈색소 10g/dL 이상, 혈소판 수 100×10^9/L 이상 등) - 생식 능력이 있는 환자의 효과적인 피임 조치 - 자발적 참여 및 동의서 서명 - 프로토콜 요구사항에 따를 수 있는 순응도. 제외 기준: - 전신 항종양 치료를 받은 적이 있는 경우 - 임신 및 수유부, 등록 전 7일 이내 임신 테스트 양성인 가임기 여성 - 물질 남용, 동의서 작성이나 연구 진행을 방해할 수 있는 임상적, 심리학적, 사회적 요인",
   "eligibility_text": "Inclusion Criteria:\n\n* Age 18-75 years\n* ECOG score 0 or 1\n* Expected survival≥12 weeks\n* Patients with histologically or cytologically confirmed pancreatic cancer\n* Have not received any antineoplastic therapy prior to treatment\n* Major organ functions within 7 days prior to treatment shall meet the following criteria: a. Neutrophil count ≥1.5×109 /L； b. Hemoglobin ≥10g/dL； c. Platelet count ≥100×109 /L\n* Biochemical examination shall meet the following standards: a、Total bilirubin(TBIL)≤1.5times the upper limit of normal value(ULN); b、ALT and AST≤1.5×ULN ; c、creatinine clearance(CCr)≥60ml/min\n* Patients of reproductive age(including female and male patients'female companions)must use effective birth control measures\n* Subjects voluntarily joined the study and signed an informed consent form(ICF)\n* It is expected that the patient has good compliance and can follow up the efficacy and adverse reactions according to the protocol requirements\n\nExclusion Criteria:\n\n* Had received systemic antineoplastic therapy\n* Pregnant and lactating women. Women of childbearing age had to test a negative pregnancy test within 7 days before enrollment\n* Substance abuse, clinical or psychological or social factors that may interfere with informed consent or the conduct of the study",
   "enrollment": 30,
   "has_results": false,

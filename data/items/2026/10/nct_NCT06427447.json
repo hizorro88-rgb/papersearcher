@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT06427447",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 770명이며, 18세에서 75세 사이의 췌장암 환자를 대상으로 합니다.",
+  "중재 방법으로 보조 방사선항암화학요법과 보조 항암화학요법을 비교합니다.",
+  "림프절 전이, R1 또는 R2 절제, 또는 림프혈관 침습 중 하나의 위험 요소를 가진 환자를 대상으로 합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,15 +46,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06427447"
  },
- "summary_ko": "In this trial, we aim to compare the outcomes of adjuvant chemoradiotherapy with chemotherapy for patients with resected pancreatic cancer who are at high risk of disease progressions. Pancreatic cancer is a lethal malignancy with the lowest 5-year overall survival rate of 9% and an increasing incidence.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 췌장암(pancreatic cancer) 수술 후 질병 진행 위험이 높은 환자들을 대상으로 보조 방사선항암화학요법(adjuvant chemoradiotherapy)과 보조 항암화학요법(adjuvant chemotherapy)의 결과를 비교합니다. 림프절 전이, R1 또는 R2 절제, 혹은 림프혈관 침습이 있는 환자 770명을 목표로 모집합니다. 두 치료법 간의 효과를 비교하여 고위험군 환자에게 더 적합한 치료법을 확인하고자 합니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
   "adjuvant chemoradiotherapy",
   "adjuvant chemotherapy"
  ],
  "title": "Adjuvant Chemoradiotherapy Versus Chemotherapy for Pancreatic Cancer (ADJUPANC)",
- "title_ko": null,
+ "title_ko": "절제된 췌장암 환자에서 보조 방사선항암화학요법과 항암화학요법의 비교 (ADJUPANC)",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -62,7 +66,7 @@
     "phone": "86-021-31162222"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18~75세 연령\n- 병리학적으로 확진된 췌장암(pancreatic ductal adenocarcinoma)\n- 병리학적으로 확인된 림프절 전이, R1 또는 R2 절제, 또는 림프혈관 침습 중 하나 이상의 위험 요인\n- 수술 후 암 치료 병력이 없음\n- 영상 검사에서 질병 진행이 확인되지 않음\n- ECOG 수행 능력 0~1점\n- 혈액 일반 검사, 간 및 신장 기능 검사, 응고 검사에서 이상이 없음\n\n제외 기준:\n- 수술 후 암 치료 병력이 있음\n- 5년 이내 다른 암 병력이 있음\n- 영상 검사에서 확인된 국소 진행이나 전이 등의 질병 진행\n- ECOG 수행 능력 2점 이상\n- 혈액 일반 검사, 간 및 신장 기능 검사, 응고 검사의 유의한 이상\n- 활동성 염증성 장질환\n- 6개월 이내 위장관 출혈 또는 천공\n- 항생제가 필요한 감염\n- 심장 또는 호흡기 부전\n- 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 18-75 years\n* Pathologically confirmed pancreatic ductal adenocarcinoma\n* Pathologically confirmed lymph node metastasis, R1 or R2 resection or lymphovascular invasion (one of the risk factors)\n* No history of cancer treatment after surgical resection\n* No disease progression confirmed by imaging examinations\n* ECOG 0 to1 point\n* No abnormality in blood routine test, liver and kidney function test and coagulation test (White blood cell count ≥4.0×10\\^9/L, neutrophil count ≥2.0×10\\^9, hemoglobin level ≥100g/L, platelet count ≥100×10\\^9/L, ALT and AST level \\< 2.5 times the upper limit of normal, total bilirubin and creatinine level within the normal, international normalized ratio \\<2)\n\nExclusion Criteria:\n\n* History of cancer treatment after surgical resection\n* History of other cancers within 5 years\n* Disease progression, including local pprogression or metastasis, confirmed by imaging examinations\n* ECOG ≥2 points\n* Significant abnormality in blood routine test, liver and kidney function test and coagulation test\n* Active inflammatory bowel disease\n* Gastrointestinal bleeding or perforation within 6 months\n* Infections requiring antibiotics\n* Heart or respirotory insufficiency\n* Pregnant women or breastfeeding women",
   "enrollment": 770,
   "has_results": false,

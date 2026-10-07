@@ -16,7 +16,7 @@ comments: true
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [Lanreotide Versus Placebo Before Surgery to Prevent a Surgical Compli…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
+| [수술 전 lanreotide 투여가 췌장루 예방에 미치는 효과를 위약과 비교하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
 ## 타임라인 (2)
 

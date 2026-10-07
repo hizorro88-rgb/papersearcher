@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "diagnosis",
-  "treatment"
+  "treatment",
+  "diagnosis"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06051695",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 474명이며, 췌장암을 포함한 고형암 환자를 대상으로 합니다.",
+  "연구의 중재 치료제는 A2B694, A2B543 및 xT CDx with HLA-LOH Assay입니다.",
+  "1상에서는 안전성과 권장 용량을 평가하며, 2상에서는 유효성과 안전성을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06051695"
  },
- "summary_ko": "The goal of this study is to test autologous logic-gated Tmod™ CAR T-cell products in subjects with solid tumors including colorectal cancer (CRC), pancreatic cancer (PANC), non-small cell lung cancer (NSCLC), ovarian cancer (OVCA), mesothelioma (MESO), and other solid tumors that express mesothelin (MSLN) and have lost HLA-A\\*02 expression. The main questions this study aims to answer are:\n\nPhase 1: What is the recommended dose that is safe for patients\n\nPhase 2: Does the recommended dose kill …",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 메소텔린(MSLN)을 발현하고 HLA-A*02 발현이 소실된 재발성, 국소 진행성 또는 전이성 췌장암을 포함한 고형암 환자를 대상으로 자가 논리 게이트 Tmod™ CAR T세포 치료제(A2B694 또는 A2B543)를 평가하는 임상 1/2상 시험입니다. 1상에서는 환자에게 안전한 권장 용량을 결정하고, 2상에서는 권장 용량의 종양 세포 사멸 효과와 정상 세포 보호 능력을 평가합니다. 총 목표 환자 수는 474명이며, 환자들은 사전에 BASECAMP-1(NCT04981119) 연구를 통해 T세포 채집을 거쳐 본 연구에 참여하게 됩니다. 초록에 유효성에 대한 구체적인 수치 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "CAR T Cell",
   "Solid Tumors",
@@ -58,7 +62,7 @@
   "Cell Therapy"
  ],
  "title": "A Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Logic-gated CAR T, in Participants With Solid Tumors That Express MSLN and Have Lost HLA-A*02 Expression",
- "title_ko": null,
+ "title_ko": "메소텔린(MSLN)을 발현하고 HLA-A*02 발현이 소실된 고형암 환자를 대상으로 하는 논리 게이트 CAR T세포 치료제(A2B694, A2B543)의 안전성과 유효성 평가 연구",
  "trial": {
   "conditions": [
    "Solid Tumor, Adult",
@@ -89,7 +93,7 @@
     "phone": "310-431-9180"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- BASECAMP-1(NCT04981119) 연구에 적절히 등록되어 NGS를 통해 HLA-A*02의 대립유전자 소실(LOH)이 확인되고, 성공적인 성분헌혈채집(apheresis) 및 말초혈액단핵세포(PBMC) 처리가 완료된 경우\n- 조직학적으로 확인된 재발성 절제 불가능, 국소 진행성 또는 전이성 대장암(CRC), 비소세포폐암(NSCLC), 췌장암(PANC), 난소암(OVCA), 중피종(MESO) 또는 MSLN을 발현하는 기타 고형암 (CT상 1.0 cm 이상의 측정 가능한 병변 필수)\n- 프로토콜에 기술된 적절한 이전 치료를 받았음\n- 프로토콜에 기술된 적절한 장기 기능을 가짐\n- ECOG 전신 상태 평가 0~1\n- 기대 여명 3개월 이상\n- 장기 안전성 추적 관찰을 포함한 연구 일정 준수 동의\n\n제외 기준:\n- 국소 치료에 적합하거나 완화적 치료가 아닌 표준 치료를 받을 수 있는 질병 상태\n- 이전에 동종 조혈모세포 이식을 받은 경우\n- 이전에 고형 장기 이식을 받은 경우\n- 복막으로 확장된 흉막 침범이 있는 중피종(MESO)\n- 주입 전 3주 이내 또는 반감기의 3배 이내에 암 치료를 받은 경우\n- 주입 전 28일 이내에 방사선 치료를 받은 경우\n- 최근 6개월 이내의 불안정형 협심증, 부정맥, 심근경색 또는 기타 유의미한 심장 질환\n- 등록 전 3개월 이내의 새로운 증후성 폐동맥 혈전색소증(PE) 또는 심부정맥 혈전증(DVT)\n- 1년 이내에 장기 스테로이드 또는 면역억제제 치료가 필요한 간질성 폐질환 병력이 있는 경우\n- 가정용 산소 보조가 필요한 경우\n- 임신 중이거나 모유 수유 중인 가임기 여성\n- 동의 시점부터 주입 후 6개월까지 피임법을 실천할 의향이 없는 가임기 남성 및 여성",
   "eligibility_text": "Inclusion Criteria:\n\nKey Inclusion Criteria:\n\n1. Appropriately enrolled in the BASECAMP-1 A2 Biotherapeutics, Inc. study, with tissue demonstrating LOH of HLA-A\\*02 by NGS (whenever possible from the primary site), successful apheresis and PBMC processing, and with sufficient stored cells available for Tmod CAR T-cell therapy\n2. Histologically confirmed recurrent unresectable, locally advanced, or metastatic CRC, NSCLC, PANC, OVCA, MESO, or other solid tumors with MSLN expression. Measurable disease is required with lesions of ≥1.0 cm by CT.\n3. Received previous required therapy for the appropriate solid tumor disease as described in the protocol\n4. Has adequate organ function as described in the protocol\n5. ECOG performance status of 0 to 1\n6. Life expectancy of ≥3 months\n7. Willing to comply with study schedule of assessments including long term safety follow up\n\nKey Exclusion Criteria:\n\n1. Has disease that is suitable for local therapy or able to receive standard of care therapy that is therapeutic and not palliative\n2. Prior allogeneic stem cell transplant\n3. Prior solid organ transplant\n4. MESO with pleural involvement extending into the peritoneum\n5. Cancer therapy within 3 weeks or 3 half lives of infusion\n6. Radiotherapy within 28 days of infusion\n7. Unstable angina, arrhythmia, myocardial infarction, or any other significant cardiac disease within the last 6 months\n8. Any new symptomatic pulmonary embolism (PE) or a deep vein thrombosis (DVT) within 3 months of enrollment. Therapeutic dosing of anticoagulants is allowed for history of PE or DVT if greater than 3 months from time of enrollment, and adequately treated\n9. History of interstitial lung disease including drug-induced interstitial lung disease and radiation pneumonitis that requires treatment with prolonged steroids or other immune suppressive agents within 1 year\n10. Requires supplemental home oxygen\n11. Females of childbearing potential who are pregnant or breastfeeding\n12. Subjects, both male and female, of childbearing potential who are not willing to practice birth control from the time of consent through 6 months post infusion",
   "enrollment": 474,
   "has_results": false,

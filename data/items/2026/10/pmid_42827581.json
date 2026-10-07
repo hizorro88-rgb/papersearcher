@@ -11,8 +11,8 @@
   "Khasawneh B"
  ],
  "categories": [
-  "treatment",
   "drug",
+  "treatment",
   "surgery",
   "trial"
  ],
@@ -31,7 +31,12 @@
  ],
  "id": "pmid:42827581",
  "importance": 0.88,
- "key_points_ko": [],
+ "key_points_ko": [
+  "전체 9개 연구의 2,733명 환자를 분석한 결과, 전체 중앙값 전체 생존기간(mOS)은 12.38개월이었습니다.",
+  "요법별 mOS는 FOLFIRINOX 10.98개월, mFOLFIRINOX 14.09개월, NALIRIFOX 11.81개월이었습니다.",
+  "NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).",
+  "FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": "10.3389/fonc.2026.1902839",
@@ -54,11 +59,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42827581/"
  },
- "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal human malignancies, with a 5-year overall survival rate below 10%. NALIRIFOX and FOLFIRINOX, both in full-dose and modified (mFOLFIRINOX) formulations, are guideline-endorsed Category 1 first-line regimens for fit patients with metastatic PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 절제 불가능하거나 전이성인 췌장관암종(PDAC) 환자의 1차 치료로 사용되는 NALIRIFOX와 FOLFIRINOX(또는 mFOLFIRINOX)의 효과와 안전성을 비교하기 위한 체계적 문헌고찰 및 메타분석입니다. 총 9개의 연구에서 2,733명의 환자 데이터를 재구성하여 분석을 진행했습니다. 분석 결과, NALIRIFOX와 FOLFIRINOX 간의 전체 생존기간(OS)이나 무진행 생존기간(PFS)에서 통계적으로 유의미한 차이는 관찰되지 않았습니다. 다만 두 요법은 서로 다른 독성 프로파일을 보여, FOLFIRINOX는 혈액학적 독성이 더 컸고 NALIRIFOX는 3/4등급 설사와 저칼륨혈증이 더 높았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "NALIRIFOX와 FOLFIRINOX의 비교: 절제 불가능하거나 전이성인 췌장관암종(PDAC)의 1차 치료에 대한 효과 및 안전성 재구성 개별 환자 데이터 메타분석",
  "trial": null,
  "type": "paper"
 }

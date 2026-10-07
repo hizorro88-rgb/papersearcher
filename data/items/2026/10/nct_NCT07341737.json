@@ -3,6 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +19,12 @@
  ],
  "id": "nct:NCT07341737",
  "importance": 0.85,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 최대 60명의 진행성 고형암 환자입니다.",
+  "임상시험 단계는 1상 및 2상(PHASE1/PHASE2)이며 현재 환자를 모집 중입니다.",
+  "치료제 SL-28은 5일 투여 후 2일 휴식 일정으로 12주 동안 투여됩니다.",
+  "초록에 명시된 생존기간, 반응률, 위험비 등의 구체적인 효과 수치는 아직 없습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07341737"
  },
- "summary_ko": "Second Life Therapeutics is developing SL-28, an allogeneic, non-genetically modified cell-based therapy for the treatment of advanced solid tumours. The company has recently demonstrated a novel, non-genetic approach to modulate immune cell activity through targeted manipulation of the Universal Receptive System.",
- "summary_source": "excerpt",
+ "summary_ko": "Second Life Therapeutics는 진행성 고형암 환자를 대상으로 동종 유래 비유전자변형 세포 치료제 SL-28의 단독 요법 안전성, 약동학 및 항종양 활성을 평가하는 공개 다기관 임상 1/2상 시험을 진행합니다. 이 연구는 이전에 표준 항암 치료에 실패한 환자들을 포함하여 60명의 목표 인원을 대상으로 용량 증량 및 확장 코호트를 실시합니다. 참여 환자들은 주 5일 투여, 2일 휴식 일정으로 12주 동안 SL-28 치료를 받게 됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "SL-28 for Advanced Solid Tumours",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 위한 SL-28 임상 1/2상 시험",
  "trial": {
   "conditions": [
    "Head & Neck Cancer",
@@ -74,7 +81,7 @@
     "phone": "16466173088"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 선행 연구 관련 절차 전 서면 동의를 제공할 수 있고 연구의 성격, 목적, 잠재적 위험을 이해할 수 있는 환자\n* 스크리닝 시점 만 18세 이상의 성인 남녀\n* 기대여명이 최소 3개월 이상인 환자\n* 조직학적 또는 세포학적으로 확인된 절제 불가능한 진행성 고형암(재발성, 전이성 또는 국소 진행성)\n* 면역요법 및 분자/바이오마커 유도 치료를 포함한 표준 치료에 불응성, 불내성이거나 거부한 환자\n* 평가 가능한 병변이 있는 환자(RECIST v1.1 기준)\n* ECOG 수행 능력 평가 0-1 (연구 책임자의 재량에 따라 최대 2까지 허용)\n* 적절한 장기 기능을 충족하는 환자\n\n제외 기준:\n* NCI CTCAE v5.0 기준 2등급 이상의 진행 중인 독성이 있는 환자(탈모, 피로, 감각신경병증 또는 적절히 조절된 내분비 결핍 제외)\n* NYHA 클래스 III 또는 IV 심장 질환, 6개월 이내의 심근경색, 불안정성 부정맥 또는 심전도상 허혈 소견이 있는 환자\n* QTcF가 여성 >470 ms, 남성 >450 ms를 초과하는 환자\n* 전신 치료가 필요한 활동성 및 미조절 박테리아, 바이러스 또는 진균 감염이 있는 환자\n* 투여 전 최소 14일 이내에 중단할 수 없는 전신 코르티코스테로이드 또는 기타 면역억제 치료가 필요한 환자\n* 제한된 기간 내에 이전 치료를 받은 경력이 있는 환자\n* 5년 이내에 동시 악성 종양이 있는 환자(특정 저위험 암 제외)\n* 임신부 또는 수유부\n* HIV, B형 간염(HBsAg 양성) 또는 C형 간염 감염이 확인된 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Ability to provide written informed consent prior to any study-related procedures and to understand the nature, purpose, and potential risks of the study\n* Adult males and females ≥18 years of age at screening\n* Life expectancy of at least 3 months\n* Histologically or cytologically confirmed unresectable advanced solid tumor (recurrent, metastatic, or locally advanced)\n* Disease refractory to, intolerant of, or refusal of standard therapies, including immunotherapy and molecular/biomarker-directed treatments, as determined by the Principal Investigator (PI) or delegate\n* Eligible tumor types include:\n* Head and neck squamous cell carcinoma\n* Thoracic malignancies (small-cell lung cancer, non-small cell lung cancer, esophageal cancer)\n* Gastrointestinal malignancies (gastric, liver, colorectal, pancreatic adenocarcinoma)\n* Genitourinary malignancies (bladder, renal cell, prostate cancer)\n* Gynecologic malignancies (ovarian, endometrial cancer)\n* Breast cancer and melanoma\n* Evaluable disease per RECIST v1.1\n* ECOG performance status 0-1 (or up to 2 at PI discretion)\n* Adequate organ function, defined as:\n* Total bilirubin ≤1.5 × ULN (≤2.0 × ULN for liver metastases or Gilbert's syndrome)\n* AST, ALT, alkaline phosphatase ≤2.5 × ULN (≤5 × ULN if liver metastases, at PI discretion)\n* Creatinine clearance ≥50 mL/min (Cockcroft-Gault) or eGFR ≥50 mL/min (CKD-EPI)\n* Absolute neutrophil count ≥1,000/mm³\n* Platelet count ≥100,000/mm³\n* Hemoglobin ≥90 g/L without transfusion within 2 weeks\n* Prothrombin time and aPTT ≤1.5 × ULN (or stable INR if on anticoagulation)\n\nFemale patients:\n\n-Non-childbearing potential (surgically sterile or postmenopausal), or of childbearing potential with negative pregnancy tests and agreement to effective contraception through 90 days post-dose\n\nMale patients:\n\n* Agreement not to donate sperm for 90 days post-dose\n* Agreement to use adequate contraception as applicable\n* Suitable venous access for blood sampling\n* Willingness and ability to comply with study procedures and protocol requirements\n\nExclusion Criteria:\n\n* Ongoing toxicities ≥ Grade 2 per NCI CTCAE v5.0 (except alopecia, fatigue, sensory neuropathy, or adequately treated endocrine deficiencies)\n* NYHA Class III or IV heart disease, myocardial infarction within 6 months, unstable arrhythmia, or ischemia on ECG\n* QTcF \\>470 ms (females) or \\>450 ms (males)\n* Active, uncontrolled bacterial, viral, or fungal infection requiring systemic therapy\n* Requirement for systemic corticosteroids or other immunosuppressive therapy that cannot be discontinued ≥14 days prior to dosing\n* Prior therapies within restricted timeframes:\n* Immune checkpoint inhibitors or biologics within 28 days\n* Antineoplastic therapies, surgery, radiotherapy, or radiopharmaceuticals within 21 days\n* Unapproved investigational drugs within 5 half-lives\n* Nitrosoureas or mitomycin C within 6 weeks\n* Concurrent malignancy within 5 years, except specified low-risk cancers\n* Pregnancy or breastfeeding\n* Known HIV, hepatitis B (HBsAg positive), or hepatitis C infection\n* Inability or unwillingness to comply with protocol procedures\n* History of anaphylaxis or significant allergy interfering with participation\n* Clinically significant cardiovascular, pulmonary, hepatic, renal, hematologic, gastrointestinal, endocrine, neurologic, psychiatric, or immunologic disease within 6 months\n* Conditions affecting drug absorption, distribution, metabolism, or excretion\n* Receipt of live vaccines within 28 days prior to screening\n* Participation in another investigational study within 30 days prior to screening",
   "enrollment": 60,
   "has_results": false,

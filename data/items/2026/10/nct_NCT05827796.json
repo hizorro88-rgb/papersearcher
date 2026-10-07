@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT05827796",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 70명입니다.",
+  "연구는 IN10018과 표준 화학요법 병용 코호트 및 IN10018, 표준 화학요법, KN046 병용 코호트의 2개 코호트로 진행됩니다.",
+  "용량 확인 단계와 용량 확장 단계를 통해 2상 권장 용량(RP2D)을 찾고 안전성과 항종양 활성을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05827796"
  },
- "summary_ko": "This study is a multicenter, open-label, single-arm, phase Ib/II clinical study comprising two phases: dose confirmation phase and dose expansion phase. The objective of the dose confirmation phase is to determine the recommended Phase II dose (RP2D) of IN10018+ standard chemotherapy (albumin-bound paclitaxel + gemcitabine) and IN10018 + KN046 + standard chemotherapy in subjects with advanced pancreatic cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 신약 IN10018에 표준 화학요법(albumin-bound paclitaxel, gemcitabine) 및 면역항암제 KN046을 함께 투여하는 다기관, 공개, 단일군, 임상 Ib/II상 시험입니다. 연구는 용량 확인 단계(dose confirmation phase)와 용량 확장 단계(dose expansion phase)로 나누어 진행됩니다. 용량 확인 단계에서는 IN10018의 2상 권장 용량(RP2D)을 결정합니다. 용량 확장 단계에서는 병용 치료의 항종양 활성과 안전성을 추가로 탐색합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "IN10018+ Standard Chemotherapy (+KN046) in Subjects With Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자를 위한 IN10018 및 표준 화학요법(±KN046) 병용 임상 1상 및 2상 시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -58,7 +62,7 @@
     "phone": "+86 18801955197"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연구에 대해 완전히 이해하고 자발적으로 동의서에 서명한 자\n- 동의서 서명 시점 기준 나이 18세 이상의 남성 또는 여성\n- 조직학적 또는 세포학적으로 확진된 췌장관선암(선鳞암종 포함)\n- 절제 불가능하거나, 국소 진행성 또는 전이성 췌장암에 대해 이전에 전신 치료를 받은 적이 없는 자\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자\n- 미국동부종양학회(ECOG) 수행능 상태가 0 또는 1인 자\n제외 기준:\n- 연구 치료 첫 투여 28일 이내에 대수술이나 주요 외상을 겪은 자\n- 알려진 BRCA1/2 돌연변이가 있는 자\n- 연구 치료 첫 투여 28일 이내에 화학요법, 표적치료, 면역치료 등 이전에 전신 항암 치료를 받은 자\n- 이전에 PD-1, PD-L1, CTLA-4 억제제 또는 FAK 억제제 등 특정 면역관문억제제 치료를 받은 자\n- 연구 치료 첫 투여 3개월 이내에 근치적 방사선 치료를 받은 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. With a full understanding of the study, each subject voluntarily agreed to participate in this study and sign the informed consent form.\n2. Female or male subjects ≥ 18 years at the time of signing informed consent.\n3. Histological or cytology-confirmed pancreatic ductal adenocarcinoma (including adenosquamous carcinoma).\n4. No previous systemic treatment for unresectable, locally advanced, or metastatic pancreatic cancer.\n5. At least one measurable lesion per RECIST 1.1.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n7. Life expectancy of at least 3 months as assessed by the investigator.\n8. Must have recovered from all AEs due to previous anticancer therapies to ≤ Grade 1 (CTCAE 5.0) or stable status as assessed by the investigator. Subjects with any grade of alopecia and grade 2 peripheral neuropathy could be enrolled.\n9. Adequate bone marrow, liver, renal, and coagulation function .\n10. A female subject is eligible to participate if she is not pregnant, not breastfeeding, and at least 1 of the following conditions applies:\n\n    * Not a woman of childbearing potential (WOCBP) . or\n    * A WOCBP who agrees to follow the contraceptive guidance.\n\nExclusion Criteria:\n\n1. Has had major surgery or major trauma within 28 days prior to the first dose of study treatment.\n2. Has known BRCA1/2 mutations.\n3. Has received prior systemic anticancer therapy including chemotherapy, targeted therapy, immunotherapy, unmarketed investigational drugs or therapy within 28 days prior to the first dose of study treatment.\n4. Previous anti-programmed death 1(PD-1), anti-programmed death-ligand 1 (PD-L1), or anti-cytotoxic T lymphocyte-associated antigen-4 (CTLA-4) antibody therapy, or any other antibody or drug that specifically targets T-cell co-stimulation or checkpoint pathways, or prior treatment with focal adhesion kinase (FAK) inhibitors.\n5. Has received radical radiotherapy within 3 months prior to the first dose of study treatment. Subjects who have received palliative radiotherapy with a local standardized dose within 2 weeks prior to the first dose of study treatment.\n6. Has received previous allogeneic hematopoietic stem cell transplantation or organ transplantation.\n7. Has received live vaccines and live attenuated vaccines within 28 days prior to the first dose of study treatment.\n8. Has interstitial pneumonia or lung disease.\n9. History or current active autoimmune diseases.\n10. Has a prior history of other malignancy, other than cured cutaneous squamous cell carcinoma, basal cell cancer, non-basal invasive bladder cancer, and prostate/cervical/breast cancer in situ within 5 years prior to the first dose of study treatment.\n11. Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis.\n12. Has a history of major cardiovascular, cerebrovascular or thromboembolic diseases within 6 months before the first dose of study treatment.\n13. Active infection with poor systemic treatment control.\n14. Has known human immunodeficiency virus (HIV) infection, active hepatitis B virus (HBV) or hepatitis C (HCV) infection, or active syphilis and tuberculosis.\n15. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the subject's participation for the full duration of the study, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.",
   "enrollment": 70,
   "has_results": false,

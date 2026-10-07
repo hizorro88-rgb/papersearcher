@@ -17,12 +17,12 @@ comments: true
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [Pancreatic Parenchymal Injection of N-butyl-2-cyanoacrylate](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
-| [Neoadjuvant vs Upfront Surgery for Resectable Pancreatic Cancer and P…](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
-| [Impact of Comprehensive Geriatric Management on Morbidity and Quality…](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
+| [절제 가능한 췌장암 및 주유두부암 환자를 대상으로 한 수술 전 선행화학요법과 즉각적인 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
+| [암으로 인해 주요 간절제술 및 췌십이지장절제술을 받는 고령 환자의 이병률 및 삶의 질에 대한 종합적 노인 관리의 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
 | [Reinforced Pancreaticojejunostomy With or Without glubran2](../trials/NCT06756074.md) | 2상 | 모집 중 | - |
 | [Rectus Sheath Block With Liposomal Bupivacaine Versus Thoracic Epidur…](../trials/NCT06411795.md) | 2상 | 모집 중 | - |
-| [Pancreatic Head Resection or Total Pancreatectomy With Islet Autotran…](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
-| [Neoadjuvant mFOLFIRINOX With Perioperative Oral Hydroxychloroquine in…](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
+| [주변부 암 및 수술 후 췌장루 고위험 환자에서 췌두부 절제술 대 동종 췌도 자가이식을 동반한 전 췌장절제술](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
+| [절제 가능한 췌장암 환자에서 수술 전 mFOLFIRINOX와 주위 경구 hydroxychloroquine 병용 투여에 관한…](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
 ## 타임라인 (2)
 

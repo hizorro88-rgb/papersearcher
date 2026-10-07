@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -20,7 +21,11 @@
  ],
  "id": "nct:NCT07562152",
  "importance": 0.99,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 510명입니다.",
+  "Atebimetinib과 변형된 GnP 병용요법(A군)을 표준 GnP 단독요법(B군)과 비교합니다.",
+  "전이성 췌장 선암 환자를 위한 1차 치료 임상시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07562152"
  },
- "summary_ko": "The purpose of this study is to evaluate the safety and efficacy of atebimetinib in combination with modified GnP compared with SOC GnP alone. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with atebimetinib plus a modified schedule of gemcitabine and nab-paclitaxel will improve overall survival compared with standard gemcitabine and nab-paclitaxel when given as first-line treatment in patients with metastatic pancreatic adenocarcinoma.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 전이성 췌장 선암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 atebimetinib과 변형된 GnP 병용요법의 안전성과 유효성을 평가합니다. 표준 치료인 GnP 단독요법과 비교하여 전체 생존기간(overall survival)이 향상되는지 평가하기 위한 다국가, 무작위배정, 공개, 3상 임상시험입니다. 환자들은 atebimetinib과 변형된 일정의 gemcitabine 및 nab-paclitaxel을 투여받는 A군과, 표준 gemcitabine 및 nab-paclitaxel을 투여받는 B군 중 한 곳으로 무작위 배정됩니다. 목표 인원은 510명입니다.",
+ "summary_source": "llm",
  "tags": [
   "mitogen-activated protein kinase (MAPK)",
   "MAPK",
@@ -59,7 +64,7 @@
   "pan-RAS"
  ],
  "title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "전이성 췌장 선암 환자에서 1차 치료로서 Atebimetinib과 GnP 병용요법",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -78,7 +83,7 @@
     "phone": "860-321-1302"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 18세 이상이어야 합니다.\n* 스크리닝 전 12주 이내에 AJCC 병기에 따라 확진된 전이성 췌장 선암이 있어야 합니다.\n* 동유럽종양학단(ECOG) 수행 상태가 0 또는 1이어야 합니다.\n* 이전에 전신 항암 치료를 받지 않은 치료 경험이 없는 환자여야 합니다.\n* RECIST v1.1 기준에 따라 측정 가능한 병변(최소 1개의 표적 병변)이 있어야 합니다.\n* 적절한 장기 기능, 간 기능, 응고 검사 및 프로토콜에 따른 임상 실험실 수치를 충족해야 합니다.\n\n제외 기준:\n* 경구 약물을 삼키지 못하는 경우\n* 편평세포, 선편평세포, 신경내분비(카시노이드, 도세포) 또는 선방세포 췌장암 환자\n* 국소 진행성 질환만 있는 환자\n* 증상이 있거나, 치료되지 않았거나, 진행 중인 중추신경계(CNS) 전이가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Must be ≥18 years of age\n* Must have confirmed diagnosis according to AJCC staging as follows:\n\n  * Metastatic pancreatic adenocarcinoma within 12 weeks prior to screening\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Participants must be treatment naive as follows:\n\n  * First-line PDAC participants will have received no previous systemic anti-cancer therapy\n* Must have evidence of measurable disease (at least one target lesion) per RECIST v1.1 criteria\n* Adequate organ function, hepatic function, coagulation studies and protocol determined clinical laboratory values\n\nExclusion Criteria:\n\n* Inability to swallow oral medications\n* Participant has squamous, adenosquamous, neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma\n* Participants with only locally advanced disease\n* Symptomatic, untreated, or actively progressing known central nervous system (CNS) metastases",
   "enrollment": 510,
   "has_results": false,

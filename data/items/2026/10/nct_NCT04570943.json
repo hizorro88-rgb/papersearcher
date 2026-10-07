@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "diagnosis",
-  "drug"
+  "diagnosis"
  ],
  "entities": [
   "folfirinox",
@@ -22,7 +22,11 @@
  ],
  "id": "nct:NCT04570943",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 절제 불가능한 국소 진행성 췌장선암(locally advanced pancreatic adenocarcinoma)입니다.",
+  "치료 중내는 Gabrinox(GEMBRAX 후 FOLFIRINOX) 순차 항암화학요법과 MRI 유도 정위적 방사선치료를 사용합니다.",
+  "목표 환자 수는 103명이며 연령 기준은 18세에서 75세입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,14 +50,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04570943"
  },
- "summary_ko": "The aim of this study is to demonstrate the efficacy of intensified and sequential chemotherapy (Gabrinox) comprising Gembrax regimen (Gemcitabine-Abraxane) followed by the Folfirinox regimen (5FU, Oxaliplatin and Irinotecan) in patients with locally advanced pancreatic adenocarcinoma. The study will also demonstrate the feasibility of combining this intensified chemotherapy with MRI-guided stereotactic radiotherapy in non-progressive patients after the chemotherapy by Gabrinox regimen.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 GEMBRAX 요법(Gemcitabine-Abraxane) 후 FOLFIRINOX 요법을 시행하는 순차적 항암화학요법(Gabrinox)의 유효성을 평가합니다. 또한 항암화학요법 후 병 진행이 없는 환자를 대상으로 MRI 유도 정위적 방사선치료(MRI-guided stereotactic radiotherapy) 병행의 타당성을 평가합니다. 18세부터 75세 사이의 국소 진행성 췌장암 환자 103명을 목표로 2상 임상시험이 진행 중입니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic",
   "cancer"
  ],
  "title": "Sequential Treatment With GEMBRAX and Then FOLFIRINOX Followed by Stereotactic MRI-guided Radiotherapy in Patients With Locally Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 MRI 유도 정위적 방사선치료",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
@@ -65,7 +69,7 @@
     "phone": "0467612446"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세에서 75세의 연령 - 조직학적 또는 세포학적으로 확진된 췌장 선암 - ECOG 수행 능력 상태 0~1 - NCCN 지침에 따른 절제 불가능한 종양 - 흉부-복부-골반 CT 및 간 MRI로 확인된 비전이성 암 - 적절한 혈액학적 및 간·신장 기능 수치 - 12세 이하 환자의 경우 피임법 준수 동의 및 프랑스 건강보험 가입자. 제외 기준: - 췌장암에 대한 이전 치료 경험 - 길버트 증후군 또는 동형접합체 UGT1A1*28 - 기타 동반 암 또는 암 병력 - 연구 방사선 치료 영역과 겹칠 수 있는 이전 방사선 치료 - 심혈관 위험이 높은 환자 - 2등급 이상의 말초 신경병증 - MRI 및 MRI 유도 방사선 치료 금기 사항 - 임신부 또는 수유부 및 기타 통제되지 않는 심각한 동반 질환.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patient aged from 18 to 75 years at the date of signature of the consent form\n2. Histologically or cytologically proven pancreatic adenocarcinoma\n3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1\n4. Non-resectable tumour according to the National Comprehensive Cancer Network (NCCN) 1.2015 recommendations after external review of imaging data by multidisciplinary experts.\n5. Non-metastatic cancer confirmed by thorax-abdomen-pelvis computerized tomography (CT) scan and liver MRI\n6. SMART feasibility confirmed by centralized review\n7. Uracilemia \\< 16 ng/ml\n8. Hematological assessment within 14 days before inclusion, defined by:\n\n   * Neutrophils ≥ 2 000/mm3 (2 × 109/L);\n   * Platelets ≥ 100 000/mm3 (100 × 109/L);\n   * Hemoglobin ≥ 9 g/dl\n9. Liver function (within 14 days before inclusion) defined by:\n\n   * ASpartate Transaminase (AST) and ALanine Transaminase (ALT) ≤ 2.5 x Upper Limit of Normal (ULN);\n   * Total bilirubin ≤ 1.5 x ULN. Patients with a metallic biliary prosthesis due to biliary obstruction caused by the cancer may be included, if: a CT scan with injection of contrast medium and thin pancreas sections was performed before placing the biliary prosthesis, the bilirubin level after prosthesis fitting decreased to ≤20 mg/L (≤34 μmol/L), and in the absence of cholangitis.\n10. Creatininaemia within the reference limits, or calculated clearance ≥50 ml/min for patients with a serum creatinine value above or below the reference values (clearance calculated using the Chronic Kidney Disease EPIdemiology collaboration (CKDEPI formula).\n11. Serum calcium AND magnesium AND potassium ≥ Lower Limit Normal (LLN and ≤ 1.2 x Upper Limit Normal (ULN)\n12. Cancer Antigen (CA 19.9) \\<500 IU/mL (without cholestasis). Patients with CA 19.9 between 500 IU/mL and 1000 IU/mL can be included if the Positron Emission Tomography (PET) scan and peritoneal MRI (optional) do not detect any distant fixation, indicative of metastasis. Patients with CA 19.9 ≥ 1000 IU/mL cannot be included.\n13. Sexually active patients must use a contraceptive method considered adequate and suitable by the investigator during the entire period of administration of the study treatment and up to 6 months after the treatment end, for female and male patients.\n14. Signature of the consent form before any study-specific procedure.\n15. Covered by the French health insurance.\n\nExclusion Criteria:\n\n1. Any previous treatment for pancreatic cancer (e.g. chemotherapy, radiotherapy, surgery, targeted therapy, experimental therapy)\n2. Gilbert's syndrome or homozygous Uridine DiPhosphate Glucuronosyl Transferase 1 A1 (UGT1A1 \\* 28)\n3. Other concomitant cancer or history of cancer, except for treated in situ cancer of the cervix , basal cell or squamous cell carcinoma, superficial bladder tumour (Ta, Tis, and T1), or good-prognosis tumour cured without chemotherapy and without signs of disease in the 3 years before inclusion\n4. Prior radiotherapy likely to overlap with the planned study radiotherapy area (e.g. previous abdominal irradiation).\n5. Patients with high cardiovascular risk, including, but not limited to, coronary stent or myocardial infarction in the past 6 months.\n6. Peripheral neuropathy ≥ grade 2\n7. ECG with QTcorrected (QTc) interval longer than 450 ms for men and longer than 470 ms for women\n8. Contraindication to MRI and MRI-guided radiotherapy\n9. History of chronic inflammatory disease of the colon or rectum\n10. Any other concomitant and not controlled serious illness or disturbance that may interfere with the patient's participation in the study and safety during the study (e.g. severe liver, kidney, lung, metabolic, or psychiatric disorder)\n11. Intolerance or allergy to one of the study drugs (gemcitabine, Nab-paclitaxel, oxaliplatin, irinotecan, 5-FU) or to one of their excipients (e.g. fructose) listed in the Contraindications or Warnings sections and Special precautions of the Summary of Product Characteristics (SmPC) or prescription information\n12. Legal incapacity (patient under guardianship or wardship)\n13. Pregnant or breastfeeding woman. Fertile women must have a negative pregnancy test (serum β-hCG) performed 72 hours before inclusion\n14. Patient using vitamin K antagonists (Coumadin…) (possible modification of the treatment before inclusion)\n15. Active and uncontrolled bacterial or fungal infection that requires systemic treatment.\n16. Know active HIV infection\n17. History of peripheral arterial disease (e.g. lameness, Buerger's disease).\n18. Patient who received a attenuated live vaccine in the 10 days before inclusion\n19. Patient with history of pulmonary fibrosis or interstitial pneumonia.\n20. Inability to attend the follow-up visits due to geographic, social or mental reasons.\n21. Participation in another clinical study with a research product during the last 30 days before inclusion.",
   "enrollment": 103,
   "has_results": false,

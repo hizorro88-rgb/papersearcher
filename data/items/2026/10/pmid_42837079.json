@@ -4,7 +4,8 @@
   "Wu H"
  ],
  "categories": [
-  "treatment"
+  "treatment",
+  "basic"
  ],
  "entities": [],
  "evidence": "guideline",
@@ -18,7 +19,12 @@
  ],
  "id": "pmid:42837079",
  "importance": 0.93,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 210명의 환자가 연구에 포함되었습니다.",
+  "파골세포 유사 거대세포를 동반한 췌장 미분화암(UCOGCP) 환자의 중앙 전체 생존기간(OS)은 11개월이었습니다.",
+  "파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.",
+  "수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다."
+ ],
  "last_updated": "2026-10-07",
  "links": {
   "doi": "10.1007/s13304-026-02799-0",
@@ -40,11 +46,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42837079/"
  },
- "summary_ko": "Undifferentiated carcinoma of the pancreas (UCP) are extremely rare entities and there is currently no standardized treatment guideline for it, with its characteristics and prognosis remaining unclear. UCP with osteoclast-like giant cells (OGCs) and without OGCs represent two different pathological types of pancreatic ductal adenocarcinoma.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 SEER 데이터베이스를 활용해 파골세포 유사 거대세포(OGC)가 있는 췌장 미분화암(UCOGCP) 환자와 없는 환자(non-UCOGCP)의 임상적 특성과 예후를 비교했습니다. 총 210명의 환자가 후향적으로 포함되었습니다. UCOGCP 환자군은 non-UCOGCP 환자군에 비해 더 나은 전체 생존기간(OS)을 보였습니다. 두 그룹 모두에서 수술적 절제는 생존율 향상과 연관된 독립적인 예후 요인이었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas",
- "title_ko": null,
+ "title_ko": "파골세포 유사 거대세포를 동반하거나 동반하지 않은 췌장 미분화암의 임상적 특성 및 생존 결과",
  "trial": null,
  "type": "paper"
 }

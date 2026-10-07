@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT05254171",
  "importance": 0.94,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 약 600명입니다.",
+  "주요 평가 변수는 전체 생존기간(Overall Survival)입니다.",
+  "이차 평가 변수에는 무진행 생존기간(PFS), 영상학적 반응, 삶의 질(QoL) 측정 등이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,13 +49,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05254171"
  },
- "summary_ko": "The study is a randomized, double-blind, placebo-controlled, multicenter study of standard treatment with nab-paclitaxel and gemcitabine with or without SBP-101 in subjects previously untreated for metastatic pancreatic ductal adenocarcinoma (PDA), including subjects who have received prior neoadjuvant or adjuvant treatment. This trial will enroll approximately 600 patients to evaluate the effect of SBP-101 on Overall Survival when administered with gemcitabine and nab-paclitaxel compared to gem…",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 이전에 치료받은 적이 없는 전이성 췌장암(metastatic pancreatic ductal adenocarcinoma) 환자를 대상으로 합니다. 표준 치료인 nab-paclitaxel과 gemcitabine 병용 요법에 SBP-101 또는 위약(placebo)을 추가하여 그 효과를 비교합니다. 전체 생존기간(Overall Survival)을 주요 평가 변수로 설정했습니다. 약 600명의 환자를 목표로 다국가, 무작위 배정, 이중 눈가림 방식으로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "SBP-101"
  ],
  "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암 환자를 대상으로 nab-paclitaxel과 gemcitabine 병용 요법에 SBP-101 추가 투여를 평가하는 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic",
@@ -70,7 +74,7 @@
     "phone": "952-479-1196"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 전이성 췌관선암(metastatic pancreatic ductal adenocarcinoma) 환자 - 전이성 췌관선암에 대해 이전에 치료를 받은 적이 없으며, 최근 3개월 이내에 전이성 질환 진단을 받은 환자 - 기대 여명이 3개월 이상인 환자 - CT 또는 MRI 상 RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자 - ECOG 수행 능력 평가 0-1인 환자 - 18세 이상의 성인 환자 제외 기준: - BRCA 1/2 유전자 변이가 확인된 환자 - 메트포르민(metformin)을 병용 투여 중인 환자 - 망막병증 병력이 있거나 망막 박리 위험이 있는 환자 - 췌도 세포 또는 췌장 신경내분비종양이 있는 환자 - 증상이 있는 중추신경계(CNS) 악성 종양 또는 전이가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic pancreatic ductal adenocarcinoma.\n* Is previously untreated for metastatic pancreatic ductal adenocarcinoma; metastatic disease must have been diagnosed within the past 3 months; and subject is expected to receive standard treatment with gemcitabine and nab-paclitaxel. Subjects who have had planned or prior surgery, such as a Whipple procedure, with or without neo-adjuvant/or adjuvant chemotherapy may be included.\n* Life expectancy ≥ 3 months.\n* Measurable disease on computed tomography (CT) or magnetic resonance imaging (MRI) scan by RECIST v1.1 criteria.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1.\n* Adult, age ≥ 18 years, male or female.\n* Females of child-bearing potential must have a negative serum pregnancy test within 14 days prior to start of study treatment and must use an adequate method of contraception from 2 weeks before the first administration of SBP-101 until 6 months after the last administration of study drug (i.e., last dose of any of the three drugs in the regimen). Female subjects are considered to be of childbearing potential unless they are postmenopausal (at least 12 months of consecutive amenorrhea, without other known or suspected cause) and over 55 years old or have been sterilized surgically (i.e., bilateral tubal ligation, hysterectomy, or bilateral oophorectomy, all with surgery at least one month before dosing).\n* Adequate bone marrow, hepatic and renal function as outlined in protocol.\n* QTc interval ≤ 470 ms (for women) and ≤ 450 ms (for men) on the ECG at baseline calculated by either the Fridericia or Framingham formula.\n* Willing and able to provide written informed consent: voluntary agreement to participate in the study following disclosure of risks and procedures required.\n\nExclusion Criteria:\n\n* When results of germline or somatic testing done prior to screening are known, subjects known to have mutations of the BRCA 1/2 (Breast Cancer gene) are excluded.\n* Concomitant metformin administration. Diabetic subjects on treatment with metformin, or any other derivative thereof, must discontinue it at least 5 days prior to C1D1 and not take metformin while on study (other diabetic medications are allowed).\n* Any history of retinopathy or at risk for retinal detachment (personal or family history of retinal detachment, extreme myopia \\[-6.0 diopters or approximately 20/500\\], eye surgery \\<6 months prior to C1D1, or history of a severe eye injury. Subjects with findings of retinopathy on baseline ophthalmology exams will be excluded.\n* Evidence of severe or uncontrolled systemic disease or any concurrent condition that, in the opinion of the Investigator or Medical Monitor, makes it undesirable for the subject to participate in the study or that would jeopardize compliance with the protocol. Subjects with pre-existing well-controlled diabetes are not excluded.\n* Medical or psychiatric conditions that compromise the subject's ability to give informed consent or to complete the protocol or a history of non-compliance.\n* Presence of islet-cell or pancreatic neuroendocrine tumor or mixed adenocarcinoma-neuroendocrine carcinoma.\n* Symptomatic central nervous system (CNS) malignancy or metastasis. Screening of asymptomatic subjects without history of CNS metastases is not required.\n* Serum albumin \\< 30 g/L (3.0 g/dL).\n* Deep vein thrombosis (DVT) or portal vein occlusion, pulmonary embolism (PE), or other thromboembolic event that occurs during screening.\n* Presence of known active bacterial, fungal, or viral infection requiring systemic therapy.\n* Known active infection with human immunodeficiency virus (HIV), hepatitis B or C.\n* Presence of interstitial lung disease, pulmonary fibrosis, or pulmonary hypersensitivity reaction.\n* Myocardial infarction within the last 12 months, severe/unstable angina, symptomatic congestive heart failure New York Heart Association (NYHA) class III or IV.\n* Pregnant or lactating.\n* Major surgery within 4 weeks prior to the start of study drug treatment, without complete recovery.\n* Known hypersensitivity to any component of study treatments.\n* Participation in any other clinical investigation within 4 weeks of receiving the first dose of study drug.\n* Any history of hydroxychloroquine use (Plaquenil® and other brand names).",
   "enrollment": 600,
   "has_results": false,

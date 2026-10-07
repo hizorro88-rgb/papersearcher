@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT04381130",
  "importance": 0.82,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 최대 30명이며 1상과 2a상으로 나누어 진행됩니다.",
+  "1상에서는 3+3 설계를 통해 EF-009의 최대내반용량(MTD)을 결정합니다.",
+  "2a상에서는 MTD 용량으로 EF-009를 이식하여 전체 생존기간(OS)과 무진행 생존기간(PFS)을 평가합니다.",
+  "종양 측정은 RECIST v1.1 기준에 따라 이식 후 최대 2년 동안 8주마다 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04381130"
  },
- "summary_ko": "This study is a multi center, open-label, dose escalation, Phase I/IIa study of EF-009 in up to 30 patients with borderline resectable and unresectable pancreatic cancer. In Phase I, the study will follow a \"3+3\" design to determine the maximum tolerated dose (MTD) of EF-009 implanted surgically in patients with pancreatic cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 경계성 절제 가능 및 절제 불가능 췌장암(pancreatic cancer) 환자 최대 30명을 대상으로 EF-009를 평가하는 다기관, 공개, 용량 증량 1/2a상 임상시험입니다. 1상에서는 수술 중 이식하는 EF-009의 최대내반용량(MTD)을 확인하기 위해 '3+3' 설계 방식을 따릅니다. 2a상에서는 단일군으로 최대 12명의 피험자를 대상으로 전체 생존기간(OS)과 무진행 생존기간(PFS)을 평가합니다. 환자들은 EF-009 웨이퍼 이식 후 최대 2년 동안 CT, PET/CT 또는 MRI를 통해 8주마다 반응 평가를 받습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Phase I/IIa Study of EF-009 in Patients With Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 및 절제 불가능 췌장암 환자를 위한 EF-009의 1/2a상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -58,7 +64,7 @@
     "phone": "+88638630108"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 남성 또는 여성\n- 세포학적, 조직학적 또는 병리학적으로 확진된 췌장암 환자\n- 치료 기관의 방사선과 의사 및 외과의사와 협의하여 판단한 경계성 절제 가능 또는 절제 불가능 췌장암\n- ECOG 수행 능력 평가 0 또는 1\n- 연구 참여에 동의하고 서면 동의서를 작성한 자\n- 이전 전신 치료의 독성이 CTCAE 등급 0 또는 1로 회복되었으며 조혈, 간, 신장 기능이 적절한 자\n- 선별 검사 후 21일째까지 당귀(Angelica sinensis)가 포함된 건강기능식품이나 식이보충제를 사용하지 않기로 동의한 자\n- 가임기 여성 및 모든 남성 피험자가 EF-009 치료 후 최소 4주 동안 적절한 피임법을 사용하는 자\n\n제외 기준:\n- EF-009 투여 전 4주 이내에 다른 임상시험에 참여한 자\n- EF-009 또는 부형제에 대한 과민반응이 알려졌거나 의심되는 자\n- 중요 장기 기능에 심각한 영향 없이 절제술을 받을 수 없는 자\n- 원격 전이 또는 췌장암 재발이 있는 자\n- 기대 여명이 12개월 미만인 기타 심각하거나 생명을 위협하는 질환이 있는 자\n- 면역저하 상태, 자가면역질환이 있거나 HIV 양성인 자\n- 연구 순응도를 방해하는 의학적, 사회적, 심리학적 요인이 있는 자\n- 표준 항암화학요법의 효능, 안전성 평가를 방해할 수 있는 중등도 이상의 장기 손상이 있는 자\n- 수유 중이거나 임신 중 또는 임신 계획이 있는 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. Female or male, age ≥ 18 years old\n2. Subject has cytological, histological, or pathological confirmation of pancreatic cancer Note: All histologic subtype(s) of exocrine and endocrine pancreatic cancer are eligible to enroll in the study\n3. Borderline resectable or unresectable pancreatic cancer judged by the PI in consultation with the designated site radiologist and surgeon at the treating institution Borderline resectable tumors are those that have:\n\n   1. no distant metastases;\n   2. venous involvement of the superior mesenteric vein (SMV)/portal vein (PV) with or without impingement and narrowing of the lumen;\n   3. short segment venous occlusion but with suitable vessel proximal and distal to occlusion, allowing for safe resection and reconstruction;\n   4. gastroduodenal artery (GDA) encasement up to the hepatic artery (HA) with either short segment encasement or direct abutment of HA, without extension to the celiac axis (CA); and\n   5. tumor abutment of the SMA not to exceed 180° of the circumference.\n\n   Unresectable tumors are those that have:\n   1. Arterial:\n\n      Head/uncinate process:\n      * Solid tumor contact with SMA \\>180°\n      * Solid tumor contact with the CA \\>180°\n\n      Body and tail:\n      * Solid tumor contact of \\>180° with the SMA or CA\n      * Solid tumor contact with the CA and aortic involvement\n   2. Venous\n\n   Head/uncinate process:\n   * Unreconstructible SMV/PV due to tumor involvement or occlusion (can be due to tumor or bland thrombus)\n   * Contact with most proximal draining jejunal branch into SMV\n\n   Body and tail:\n\n   • Unreconstructible SMV/PV due to tumor involvement or occlusion (can be due to tumor or bland thrombus)\n4. Subjects have an ECOG performance status ≤ 1\n5. Subjects who are eligible and able to participate in the study and accept to enter the study by signing written informed consent forms\n6. Patients are recovered from toxicities from prior systemic therapies to CTCAE grade 0 or 1 (alopecia ≤ Grade 2 can enroll) and have adequate hematopoietic, liver and renal function at screening and before using study medication\n\n   * Haemoglobin ≥ 8 g/dL\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/mm3\n   * Absolute lymphocyte count ≥ 1000/mm3,\n   * Platelets ≥ 100,000 /mm3\n   * Total white blood cell (WBC) ≥ 3,000 cells /mm3\n   * Coagulation tests (prothrombin time \\[PT\\], activated partial thromboplastin time \\[APTT\\], International Normalized Ratio \\[INR\\]) \\< 1.5×ULN,\n   * Total bilirubin ≤ 1.5×ULN,\n   * Aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase(SGOT) or Alanineaminotransferase (ALT)/serum glutamic pyruvic transaminase (SGPT) ≤ 3 x ULN\n   * Estimated Glomerular Filtration Rate (GFR) ≥ 60 mL/min (MDRD method)\n\n   Glomerular Filtration Rate (GFR) is calculated using the MDRD formula:\n\n   GFR = 175 x (Standardized SCr)-1.154 x (age)-0.203 x (0.742 if female) x (1.210 if African American)\n7. The subject agrees not to use food supplementary or dietary that contains Angelica sinensis after Screening Visit to Day 21.\n8. All male subjects and female subjects with child-bearing potential (between puberty and 2 years after menopause) should use appropriate contraception method(s) for at least 4 weeks after EF-009 treatment shown below.\n\n   * Total abstinence (when this is in line with the preferred and usual lifestyle of the subject. Periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception).\n   * Female sterilization (have had surgical bilateral oophorectomy with or without hysterectomy) or tubal ligation at least six weeks before taking study treatment. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment.\n   * Male sterilization (at least 6 months prior to screening). For female subjects on the study, the vasectomized male partner should be the sole partner for that subject\n   * Combination of any two of the following (a+b or a+c, or b+c):\n\n     1. Use of oral, injected or implanted hormonal methods of contraception or other forms of hormonal contraception that have comparable efficacy (failure rate \\<1%), for example hormone vaginal ring or transdermal hormone contraception.\n     2. Placement of an intrauterine device (IUD) or intrauterine system (IUS).\n     3. Barrier methods of contraception: Condom or occlusive cap (diaphragm or cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal suppository.\n\nExclusion Criteria:\n\n1. Subjects who have participated in other investigational studies within 4 weeks prior to receive EF-009\n2. Subjects with known or suspected hypersensitivity to EF-009 or the excipient\n3. Subject not eligible for resection without significantly affecting vital function\n4. Subjects with distant metastasis or recurrence of pancreatic cancer\n5. Patient has other severe and/or life-threatening disease(s) with life expectancy less than 12 months\n6. Subjects who have an immuno-compromised condition, or is with known autoimmune conditions or is human immunodeficiency virus (HIV) seropositive.\n7. Subjects with medical, social or psychological factors interfering with compliance of the study\n8. Subjects that have on-going moderate to severe organ impairment, other than the study indication, that may confound the efficacy evaluation, safety evaluation or usage of standard chemotherapy\n9. Female subjects that are lactating, pregnant, or planned to become pregnant",
   "enrollment": 30,
   "has_results": false,

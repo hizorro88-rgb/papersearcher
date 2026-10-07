@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT07252232",
  "importance": 0.99,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 500명이며 국내 4개 기관이 참여합니다.",
+  "daraxonrasib(다락소나십) 치료가 표준 치료인 관찰 요법에 비해 무병 생존기간(DFS)을 향상시키는지 평가합니다.",
+  "절제된 PDAC 환자를 대상으로 한 무작위 공개 3상 임상시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07252232"
  },
- "summary_ko": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to standard of care (SOC) observation only. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with daraxonrasib will improve disease-free survival (DFS) compared to SOC observation in patients with resected PDAC who have completed neoadjuvant and/or adjuvant chemotherapy.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 절제된 췌장관암(PDAC, Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 신약 RAS(ON) 저해제인 daraxonrasib(다락소나십)의 안전성과 유효성을 표준 치료인 관찰 요법과 비교하기 위한 임상시험입니다. 수술 후 보조항암화학요법 등을 마친 500명의 환자를 대상으로 전 세계적으로 진행되는 3상 임상시험입니다. 주요 평가지표는 무병 생존기간(DFS) 개선 여부입니다. 국내 4개 기관이 참여합니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
   "PDAC",
@@ -60,7 +64,7 @@
   "Resectable Pancreatic Ductal Adenocarcinoma"
  ],
  "title": "Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)",
- "title_ko": null,
+ "title_ko": "절제된 췌장관암(PDAC) 환자를 대상으로 daraxonrasib(다락소나십)을 평가하는 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -76,7 +80,7 @@
     "phone": "1-844-2-REVMED"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상이며 동의서를 제출한 환자\n* ECOG 수행능력 상태 0 또는 1\n* 근치적 목적의 수술적 절제가 성공적(R0/R1)으로 이루어졌고 재발이나 전이 증거가 없는 조직학적으로 확정된 PDAC\n* 주술기(선행화학요법, 보조화학요법 또는 병행) 다제항암화학요법을 받은 환자\n* 최근 치료를 12주 이내에 마친 환자\n* 적절한 장기 기능 보유\n* 기록된 RAS 변이 상태 보유\n* 경구 투여가 가능한 환자\n\n제외 기준:\n* 직접적인 RAS 표적 치료(분해제 및/또는 저해제) 이력이 있는 환자\n* 연구 약물의 복용이나 흡수에 영향을 미칠 수 있는 상태가 있는 환자\n* 무작위 배정 전 28일 이내에 대수술을 받은 환자\n* 프로토콜에서 요구하는 연구 방문이나 절차를 따를 수 없거나 따르기를 원하지 않는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Histologically confirmed PDAC with successful (R0/R1) curative intent surgical resection and no evidence of recurrent or metastatic disease.\n* Must have received perioperative (neoadjuvant, adjuvant, or a combination of both) multi-agent chemotherapy.\n* Must have completed most recent treatment within the past 12 weeks.\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* Documented RAS mutation status.\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Prior therapy with direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* Any conditions that may affect the ability to take or absorb study drug.\n* Major surgery within 28 days prior to randomization.\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures.",
   "enrollment": 500,
   "has_results": false,

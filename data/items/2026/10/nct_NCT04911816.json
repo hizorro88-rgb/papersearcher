@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
   "drug",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "folfirinox",
@@ -22,7 +22,12 @@
  ],
  "id": "nct:NCT04911816",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 절제 가능한 췌장암이며 목표 인원은 35명에서 40명입니다.",
+  "중재 치료는 수술 전 mFOLFIRINOX 4주기와 경구용 hydroxychloroquine(HCQ) 병용 투여입니다.",
+  "HCQ의 용량 단계는 400 mg(1단계), 800 mg(2단계), 1200 mg(3단계)으로 3+3 알고리즘을 통해 평가합니다.",
+  "초록에 최종 반응률, 생존기간, 위험비 등의 유효성 수치는 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04911816"
  },
- "summary_ko": "This will be a phase I/II trial examining the safety and tolerability of pre-operative mFOLFIRINOX in combination with peri-operative oral hydroxychloroquine (FHQ) in the treatment of subjects with adenocarcinoma of the pancreas. Subjects will be staged prior to protocol entry by contrast-enhanced helical abdominal CT scan done using a pancreas mass protocol or EUS.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 절제 가능한 췌장암(resectable pancreatic adenocarcinoma) 환자를 대상으로 수술 전 mFOLFIRINOX 항암화학요법과 경구용 hydroxychloroquine(HCQ) 병용 투여의 안전성과 내어성을 평가하는 1/2상 임상시험입니다. 대상 환자는 수술 전 4주기의 mFOLFIRINOX와 매일 경구 HCQ를 병용 투여받은 뒤 수술적 절제를 진행하게 됩니다. 최대 목표 인원은 35명에서 40명이며, 3+3 알고리즘을 통해 최대 1200 mg까지 용량을 단계적으로 증량하여 최대 허용 용량(MTD)을 확인합니다. 초록에 유효성이나 생존기간 결과는 아직 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Neoadjuvant mFOLFIRINOX With Perioperative Oral Hydroxychloroquine in Resectable Pancreatic Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "절제 가능한 췌장암 환자에서 수술 전 mFOLFIRINOX와 주위 경구 hydroxychloroquine 병용 투여에 관한 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Adenocarcinoma of the Pancreas"
@@ -62,7 +67,7 @@
     "phone": "304-598-4000"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 조직학적으로 확진된 췌장 선암(adenocarcinoma) 환자, NCCN 지침상 절제 가능하며 CT상 정맥 또는 동맥 침범이 없는 경우, ECOG 신체 상태 평가 0-1, 정상적인 신장·간·혈액 기능 보유, 폐쇄성 황달 환자의 경우 임시 플라스틱 또는 단기 영구 금속 담관 스텐트로 배액된 경우. 제외 기준: 수술적 절제가 불가능하거나 수술을 원하지 않는 환자, 연구 참여 전 12개월 이내에 항암화학요법을 받은 적이 있는 환자, DPYD 또는 UGT1A1 유전자 변이로 mFOLFIRINOX 독성 위험이 증가하는 환자, 원격 전이의 증거가 있는 환자, 췌장암에 대한 방사선치료나 임상시험용 약물 투여력이 있는 환자.",
   "eligibility_text": "Inclusion Criteria\n\n* Subjects with biopsy-proven adenocarcinoma of the pancreas\n* Pancreatic protocol helical CT scan demonstrating absence of venous or arterial involvement, consistent with NCCN guidelines for resectable disease\n* ECOG performance status ≤ 1\n* No active second malignancy except for basal cell carcinoma of the skin\n* Normal renal, hepatic, and hematologic function at the time of enrollment as evidenced by:\n\n  * Serum creatinine level ≤1.5 the upper limits of normal\n  * Serum total bilirubin level ≤1.5 X ULN\n* White blood cell count ≥ 3.5x109/ml per ml and platelet count ≥ 100x109 per ml\n* For subjects with obstructive jaundice, the biliary tract must be drained with a temporary plastic or a short permanent metallic biliary stent\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria\n\n* Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection.\n* Subjects who have received chemotherapy within 12 months prior to study entry.\n* Subjects who are found to have loss-of-function mutations in DPYD or UGTA1 by Oneome pharmacogenomic testing, resulting in increased risk of mFOLFIRINOX toxicity. DPYD mutations have been noted in 5% of the overall population. Homozygous UGT1A1 mutations have been noted in 10% of North Americans.\n* Prior use of radiotherapy or investigational agents for pancreatic cancer.\n* Any evidence of metastasis to distant organs (liver, lung, peritoneum).\n* Cross sectional imaging suggesting portal vein, superior mesenteric artery, hepatic artery involvement that would make the patient borderline resectable or locally advanced\n* Symptomatic or endoscopic evidence of gastric outlet obstruction.\n* Concurrent malignancies with evidence of active or measurable disease except basal cell carcinoma of the skin.\n* Inability to adhere to study and/or follow-up procedures.\n* History of allergic reactions or hypersensitivity to the study drugs (chloroquine, hydroxychloroquine, 5-Fluorouracil, Leucovorin, Oxaliplatin, Irinotecan).\n* Other concurrent experimental therapy.\n* The effects of HCQ, and mFOLFIRINOX on the developing human fetus are unknown. For this reason women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. All females of childbearing potential must have a blood test or urine study within two weeks prior to registration to rule out pregnancy. Should a woman become pregnant while participating in this study, she should inform her treating physician immediately. If a man impregnates a woman while participating in this study, he should inform his treating physician immediately as well.\n* Because patients with immune deficiency are at increased risk of lethal infections when treated with bone marrow-suppressive therapy, HIV-positive patients are excluded from the study. For patients receiving combination anti-retroviral therapy, the potential impact of pharmacokinetic interactions with HCQ and mFOLFIRINOX is unknown. Appropriate studies may be undertaken in patients with HIV and those receiving combination anti-retroviral therapy in the future.\n* Due to the risk of disease exacerbation, patients with porphyria are ineligible.\n* Patients with psoriasis are ineligible unless the disease is well controlled and they are under the care of a specialist who agrees to monitor the patient for exacerbations.\n* Patients requiring the use of enzyme-inducing anti-epileptic medication that includes: phenytoin, carbamazepine, phenobarbital, primidone or oxcarbazepine are excluded.\n* Patients with previously documented macular degeneration or diabetic retinopathy are excluded.\n* Baseline EKG with QTc \\>470 msec (including subjects on medication). Subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis.",
   "enrollment": 40,
   "has_results": false,

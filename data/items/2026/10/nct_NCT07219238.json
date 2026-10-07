@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "diagnosis",
-  "surgery",
-  "treatment"
+  "drug",
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase3",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07219238",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 175명입니다.",
+  "대장암, 위암, 난소암 또는 췌장관암종(PDAC) 환자를 대상으로 합니다.",
+  "GEH300079 (68Ga) PET/CT를 이용한 복막암종증(PC) 진단 성능과 안전성을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07219238"
  },
- "summary_ko": "This study is a Phase 2/3, prospective, multicenter, open-label, non-randomized clinical trial, in which GEH300079 (68Ga) PET/CT images will be acquired in patients with primary colorectal, gastric, ovarian, or Pancreatic Ductal Adenocarcinoma (PDAC) cancers and known or suspected Peritoneal Carcinomatosis (PC) before or after institutional Standard of Care (SoC) imaging. The primary objective is to evaluate the diagnostic performance of GEH300079 (68Ga) PET/CT for the detection of PC in patient…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 대장암, 위암, 난소암 또는 췌장관암종(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 GEH300079 (68Ga) 주사 양전자방출단층촬영(PET)/컴퓨터단층촬영(CT)의 복막암종증(Peritoneal Carcinomatosis, PC) 진단 성능을 평가합니다. 2상과 3상으로 구성된 전향적, 다기관, 공개, 비무작위 임상시험으로 진행됩니다. 2상에서는 최적의 용량과 촬영 시기를 확인하며, 췌장관암종 환자군에서의 탐색적 평가도 함께 이루어집니다. 3상에서는 대장암, 위암, 난소암 환자를 대상으로 안전성과 유효성을 입증하는 것을 목표로 합니다.",
+ "summary_source": "llm",
  "tags": [
   "Peritoneal Carcinomatosis (PC)",
   "Pancreatic Cancers",
@@ -58,7 +62,7 @@
   "Diagnostic performance"
  ],
  "title": "Study to Evaluate the Diagnostic Performance of GEH300079 (68Ga) Injection PET/CT for Detection of PC in Patients With Colorectal, Gastric, Ovarian, or Pancreatic Cancers (PERISCOPE)",
- "title_ko": null,
+ "title_ko": "대장암, 위암, 난소암 또는 췌장암 환자에서 복막암종증 진단을 위한 GEH300079 (68Ga) 주사 PET/CT의 진단 성능 평가 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -78,7 +82,7 @@
     "phone": "+ 44 7786 701174"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: \n- 18세 이상 성인 환자 \n- 사전 서면 동의를 완료한 환자 \n- 조직학적으로 확진된 원발성 대장암, 위암, 난소암 또는 췌장관암종(PDAC) 환자 \n- 원발 종양으로 인해 알려졌거나 의심되는 복막암종증(PC)이 있는 환자 \n- 근치적 목적의 복부 수술, 수술적 탐색술 또는 복강경 수술이 예정된 환자 \n- ECOG 수행 상태가 2 이하인 환자 \n\n제외 기준: \n- 임신 또는 수유 중이거나 피임을 원하지 않는 환자 \n- 연구 절차에 영향을 미칠 수 있는 알려진 질환이 있는 환자 \n- 절제 불가능한 복부 외 전이 및/또는 표준 검사상 3개 초과의 간 전이가 있는 환자 \n- 예상 생존 기간으로 인해 연구를 완료할 수 없는 환자 \n- 전신 치료가 필요한 활성 감염이 있는 환자 \n- 신장 기능 저하가 있는 환자 (2상의 경우 추정사구체여과율 60 mL/min 미만, 3상의 경우 30 mL/min 미만) \n- GEH300079 (68Ga)의 부형제에 과민증이 알려졌거나 의심되는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participant is ≥18 years of age\n* Participant has provided signed informed consent before any study-specific screening procedures\n* Participant has histopathologically confirmed primary colorectal, gastric or ovarian cancer or PDAC\n* Participant has known or suspected PC from the tumor of origin. Suspicion may be based on imaging or clinical findings.\n* Participant is scheduled for peritoneal surgery with curative intent, surgical exploration, or laparoscopy, with either: a. No neoadjuvant treatment received, treatment-naïve (i.e., undergoing upfront surgery or laparoscopy) b. Completed systemic treatment (which may include neoadjuvant chemotherapy) before GEH300079 ( 68Ga) PET/CT Imaging Visit\n* Participant has Eastern Cooperative Oncology Group (ECOG) performance status ≤2\n* Participant is able and willing to comply with all study procedures as described in the protocol\n\nExclusion Criteria:\n\n* Participant is pregnant or breast-feeding, or sexually active and not using or not willing to use an acceptable form of birth control from screening up to 30 days after receiving the investigational medicinal product (IMP)\n* Participant has a known disorder that, in the opinion of the investigator, will impact the study procedures\n* Participant needs any intervention that would delay study participation\n* Participant has non-resectable extra-abdominal metastasis and/or \\>3 hepatic metastases on standard work up\n* Participant will not be able to complete the study, based on their anticipated life expectancy\n* Participant has active bacterial, viral, or fungal infection requiring systemic antibacterial, anti-viral or antifungal therapy (topical medications are permitted)\n* Participant has renal function impairment as defined by:\n\n  1. For Phase 2: estimated glomerular filtration rate less than 60 mL/min\n  2. For Phase 3: estimated glomerular filtration rate less than 30 mL/min\n* Participant has severe hepatic function impairment as defined by:\n\n  1. Aspartate aminotransferase (serum glutamic-oxaloacetic transaminase) and alanine aminotransferase (serum glutamic-pyruvic transaminase): ≤2.5 × upper limit of normal (ULN; ≤5 × ULN for participants with liver metastases)\n  2. Bilirubin: ≤1.5 × ULN or direct bilirubin ≤ULN for participants with total bilirubin levels \\>1.5 × ULN\n* Participant has autoimmune disease that required systemic treatment in the past 2 years. Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid) is allowed\n* Participant has serious co-morbidities or serious non-malignant disease that in the opinion of the investigator, could compromise participant safety and/or protocol objectives\n* Participant either received or is planning to receive any other investigational agent within the 28 days prior to the first imaging visit or during study participation (with the exception of the 3-month follow-up period)\n* Participant has known or suspected hypersensitivity to any excipients used in GEH300079 (68Ga)\n* Participant has severe claustrophobia, is unable to lie flat or fit into the scanner, or is unable to tolerate the PET/CT scan for any reason\n* (Phase 3 only) Participant was previously included in Phase 2 of this study",
   "enrollment": 175,
   "has_results": false,

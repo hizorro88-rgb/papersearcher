@@ -11,12 +11,28 @@ comments: true
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 8건 · 최근 30일 8건
+전체 9건 · 최근 30일 9건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42837079"></a>
+#### [파골세포 유사 거대세포를 동반하거나 동반하지 않은 췌장 미분화암의 임상적 특성 및 생존 결과](https://pubmed.ncbi.nlm.nih.gov/42837079/)
+<small>Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas</small>
+
+`논문` `가이드라인` `치료 전반` `기초연구` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.93
+
+이 연구는 SEER 데이터베이스를 활용해 파골세포 유사 거대세포(OGC)가 있는 췌장 미분화암(UCOGCP) 환자와 없는 환자(non-UCOGCP)의 임상적 특성과 예후를 비교했습니다. 총 210명의 환자가 후향적으로 포함되었습니다. UCOGCP 환자군은 non-UCOGCP 환자군에 비해 더 나은 전체 생존기간(OS)을 보였습니다. 두 그룹 모두에서 수술적 절제는 생존율 향상과 연관된 독립적인 예후 요인이었습니다.
+
+- 총 210명의 환자가 연구에 포함되었습니다.
+- 파골세포 유사 거대세포를 동반한 췌장 미분화암(UCOGCP) 환자의 중앙 전체 생존기간(OS)은 11개월이었습니다.
+- 파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.
+- 수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+
+---
 <a id="pmid-42837803"></a>
 #### [Rhein suppresses pancreatic cancer progression and glycolysis by inhibiting the TFAP2A/MMP9 axis: An integrated bioinformatics and experimental study](https://pubmed.ncbi.nlm.nih.gov/42837803/)
 `논문` `기타` `기초연구` · 2026-09-29 · PubMed · Pathol Res Pract · 중요도 0.65

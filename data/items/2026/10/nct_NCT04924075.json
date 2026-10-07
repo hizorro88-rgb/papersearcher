@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT04924075",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환에는 진행성 췌장 신경내분비종양(pNET), 갈색세포종/부신경절종(PPGL), 폰 히펠-린다우(VHL) 질환 연관 종양 등이 포함됩니다.",
+  "중재 치료는 belzutifan 단독요법입니다.",
+  "목표 인원은 총 355명이며, 국내 기관 2곳이 참여합니다.",
+  "1차 유효성 평가지표는 객관적 반응률(ORR)입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04924075"
  },
- "summary_ko": "This is a study to evaluate the efficacy and safety of belzutifan monotherapy in participants with advanced pheochromocytoma/paraganglioma (PPGL), pancreatic neuroendocrine tumor (pNET), von Hippel-Lindau (VHL) disease-associated tumors, advanced wt (wild-type) gastrointestinal stromal tumor (wt GIST), or advanced solid tumors with hypoxia inducible factor-2 alpha (HIF-2α) related genetic alterations. The primary objective of the study is to evaluate the objective response rate (ORR) of belzutif…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 진행성 췌장 신경내분비종양(pNET)을 포함한 특정 암 환자를 대상으로 belzutifan 단독요법의 유효성과 안전성을 평가합니다. 목표 환자 수는 355명이며, 12세 이상의 남녀 환자가 참여할 수 있습니다. 주요 평가지표는 눈가림 독립 중앙 판독(BICR)에 따른 객관적 반응률(ORR)입니다. 현재 환자를 모집 중인 2상 임상시험입니다.",
+ "summary_source": "llm",
  "tags": [
   "HIF-2α",
   "Pheochromocytoma/paraganglioma",
@@ -50,7 +56,7 @@
   "신경내분비종양"
  ],
  "title": "Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)",
- "title_ko": null,
+ "title_ko": "진행성 췌장 신경내분비종양 및 기타 고형암 환자를 대상으로 하는 belzutifan 단독요법의 2상 임상시험",
  "trial": {
   "conditions": [
    "Pheochromocytoma/Paraganglioma",
@@ -66,7 +72,7 @@
     "phone": "1-888-577-8839"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 12세 이상의 남녀 참가자 (코호트 B1의 경우 18세 이상)\n* 진행성/전이성 췌장 신경내분비종양(pNET), 갈색세포종/부신경절종(PPGL), VHL 질환 연관 국소 종양, 야생형 위장관간질종양(wt GIST), 또는 HIF-2α 관련 유전적 변이가 있는 진행성 고형암 진단\n* 코호트 B1의 경우 국소 생식세포 검사 또는 임상 진단에 따른 VHL 질환 진단\n* 기대여명이 최소 3개월 이상인 환자\n\n제외 기준:\n* 경구 투약이 불가능하거나 belzutifan의 흡수에 영향을 미칠 수 있는 질환이 있는 경우\n* 2년 이내에 완치 목적의 치료가 완료되지 않은 두 번째 악성종양의 병력이 있는 경우\n* 휴식 시 맥박 산소측정기 수치가 92% 미만이거나 간헐적/만성 산소 보충이 필요한 경우\n* 임상적으로 유의미한 심장 질환 또는 최근 6개월 이내의 심근경색, 불안정성 협심증, NYHA 심부전 3~4등급 등에 해당하는 경우\n* 첫 연구 치료제 투여 전 4주 이내에 화학요법, 표적치료, 생물학적제제 또는 기타 연구용 치료를 받은 경우 (소모스타틴 유사체 제외)",
   "eligibility_text": "The main inclusion criteria include but are not limited to the following:\n\n* Male and female participants at least 12 years of age (at least 18 years of age for Cohort B1)\n* Diagnosis of one of the following: Advanced/metastatic pheochromocytoma/paraganglioma (PPGL), pancreatic neuroendocrine tumors (pNET), von Hippel-Lindau (VHL) disease associated localized tumors, or advanced wild-type gastrointestinal stromal tumor (wt GIST) or advanced solid tumors with Hypoxia Inducible Factor- 2 alpha subunit (HIF-2α) related genetic alterations\n* Cohort B1: VHL Disease-associated tumors:\n\n  * Have a diagnosis of VHL disease as determined by a germline test locally and/or clinical diagnosis\n  * Must be ≥18 years of age\n* Has a life expectancy of at least 3 months\n\nThe main exclusion criteria include but are not limited to the following:\n\n* Unable to swallow orally administered medication or has a disorder that might affect the absorption of belzutifan\n* History of a second malignancy, unless potentially curative treatment has been completed with no evidence of malignancy for 2 years\n* Any of the following: A pulse oximeter reading \\<92% at rest, or requires intermittent supplemental oxygen, or requires chronic supplemental oxygen\n* Clinically significant cardiac disease, including unstable angina, acute myocardial infarction, or arterial bypass (CABG) or Percutaneous transluminal coronary angioplasty (PTCA) ≤6 months from study entry, or New York Heart Association Class III or IV congestive heart failure\n* Received prior treatment (except somatostatin analogs) with chemotherapy, targeted therapy, biologics, or other investigational therapy within the past 4 weeks of first dose of study intervention",
   "enrollment": 355,
   "has_results": false,

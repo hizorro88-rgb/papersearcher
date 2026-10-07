@@ -3,8 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
-  "treatment"
+  "drug",
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -20,7 +21,12 @@
  ],
  "id": "nct:NCT07828756",
  "importance": 0.82,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 147명이며, 3개의 코호트로 나누어 진행됩니다.",
+  "사용되는 약물은 Cisplatin, Albumin-bound Paclitaxel(Ⅱ), Capecitabine, Gemcitabine의 PAXG 병용 요법입니다.",
+  "대상 질환은 췌장암(Pancreatic Cancer)입니다.",
+  "국내 기관 참여 수는 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07828756"
  },
- "summary_ko": "This is a prospective, multi-center, multi-cohort exploratory study. Cohort 1 enrolls 39 patients with unresectable locally advanced or metastatic pancreatic cancer, who will receive first-line treatment with cisplatin plus nab-paclitaxel (Ⅱ), capecitabine, and gemcitabine (PAXG).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 진행성, 경계성 절제 가능성, 그리고 수술 후 췌장암 환자를 대상으로 PAXG(Cisplatin, Albumin-bound Paclitaxel, Capecitabine, Gemcitabine) 요법의 효과와 안전성을 평가하는 2상 임상시험입니다. 총 147명의 환자를 목표로 3개의 코호트(Cohort)로 나누어 진행합니다. 코호트 1은 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자, 코호트 2는 경계성 절제 가능 또는 고위험 절제 가능 췌장암 환자, 코호트 3은 근치적 절제술을 받은 췌장암 환자를 대상으로 합니다. 초록에 명시된 치료 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Albumin-bound Paclitaxel (Ⅱ)-Combined Regimens for Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "알부민 결합 파클리탁셀(Albumin-bound Paclitaxel) 병용 요법을 이용한 췌장암 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -60,7 +66,7 @@
     "phone": "022-2340123-3077"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 18세에서 75세 사이의 연령. - 조직학적으로 확진된 췌장 선암(Pancreatic adenocarcinoma) 환자로, 전이성·국소 진행성(이전 진행성 질환에 대한 전신 치료력이 없어야 함, 단 6개월 이상 간격이 있는 수술 전후 보조항암화학요법은 허용), 경계성 절제 가능 또는 고위험 절제 가능, 혹은 수술 전 치료 없이 근치적 절제술을 받은 경우. - 코호트 3 참가자의 경우 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재. - 동유럽협력암그룹(ECOG) 수행능력 평가 점수 0점 또는 1점. - 예상 생존 기간 3개월 이상. - 적절한 골수 기능(절대중성구수 1.5×10⁹/L 이상, 혈소판 100×10⁹/L 이상, 혈색소 90 g/L 이상), 간 기능, 신장 기능 및 응고 기능을 충족하는 자. - 임신 가능성이 있는 여성은 등록 전 14일 이내 임신테스트 음성이어야 하며, 피임에 동의해야 함. - 연구에 대해 이해하고 자발적으로 서면 동의서를 제출한 자. 제외 기준: - 지난 5년 이내 다른 악성 종양 병력. - 연구 약물 또는 부형제에 대한 알려진 과민성 또는 불내성. - DPYD 유전자 변이로 인한 완전한 다이하이드로피리미딘 탈수소효소(DPD) 결핍. - 심각하거나 조절되지 않는 심혈관 질환, 호흡기 질환, 신경계 질환, 조절되지 않는 당뇨병, 심각한 감염 등의 동반 질환이 있는 경우. - 치료되지 않은 활성 뇌전이 환자. - 첫 투여 전 28일 이내 주요 복부/흉부 수술 이력이 있거나 연구 기간 동안 수술 계획이 있는 경우. - 등록 전 3개월 이내 심부정맥 혈전증 또는 폐색전증 병력. - 연하 곤란 또는 흡수장애 증후군. - 등록 전 1개월 이내 임상시험용 의약품을 투여받은 경우. - 연구자가 참여에 부적합하다고 판단하는 자.",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 18 to 75 years old.\n* Histopathologically confirmed pancreatic adenocarcinoma meeting any one of the following conditions: (1) Unresectable locally advanced or metastatic pancreatic cancer, with no prior systemic anti-tumor therapy for advanced disease. Prior neoadjuvant/adjuvant chemotherapy is permitted, provided the interval from completion of prior chemotherapy to study drug administration is more than 6 months. (2) High-risk resectable or borderline resectable pancreatic cancer assessed by a multidisciplinary team.(3) Curative resection (R0 or R1 resection) performed without prior neoadjuvant therapy, and adjuvant treatment can be initiated within 12 weeks postoperatively.\n* Presence of at least one measurable lesion per RECIST v1.1 (exclusive to participants in Cohort 3).\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.\n* Estimated survival time ≥ 3 months.\n* Adequate bone marrow function: absolute neutrophil count (ANC) ≥ 1.5×10⁹/L, platelet count (PLT) ≥ 100×10⁹/L, hemoglobin (Hb) ≥ 90 g/L.\n* Adequate liver function: alanine transaminase (ALT) and aspartate transaminase (AST) ≤ 2.5×ULN (≤5×ULN allowed in patients with liver metastases); total bilirubin ≤ 1.5×ULN.\n* Adequate renal function: serum creatinine (Cr) ≤ 1.5×ULN, or creatinine clearance ≥ 60 mL/min (calculated by Cockroft-Gault formula).\n* Adequate coagulation function: prothrombin time (PT) and activated partial thromboplastin time (APTT) ≤ 1.5×ULN.\n* Women of childbearing potential must have a negative serum/urine pregnancy test within 14 days prior to enrollment, be non-lactating, and agree to use effective contraception throughout the study and for 6 months after the last study treatment. Male participants must agree to effective contraception during the study and for 6 months after study completion.\n* Able to understand the study information; participant or legal representative voluntarily provides written informed consent.\n\nExclusion Criteria:\n\n* History of other malignant tumors within the past 5 years\n* Known hypersensitivity or intolerance to any study drug or excipients.\n* Confirmed homozygous or compound heterozygous DPYD variants leading to complete dihydropyrimidine dehydrogenase (DPD) deficiency.\n* Presence of any of the following comorbidities: ① Severe or uncontrolled cardiovascular disease: New York Heart Association (NYHA) Class II or higher chronic heart failure, uncontrolled hypertension (systolic BP \\>150 mmHg and/or diastolic BP \\>90 mmHg despite stable medication), etc. ② Severe respiratory disorders: asthma requiring inhaled/systemic glucocorticoids, active chronic obstructive pulmonary disease, etc. ③ Confirmed neurological diseases (epilepsy, dementia, etc.) or Grade ≥2 peripheral sensory/motor neuropathy. ④ Uncontrolled diabetes mellitus (fasting blood glucose ≥10 mmol/L under stable treatment). ⑤ Severe chronic or active infections requiring ≥1 consecutive week of systemic antibacterial, antifungal or antiviral therapy (including tuberculosis). ⑥ Active HIV infection (HIV antibody positive); untreated active HBV (HBsAg/HBcAg positive with HBV-DNA above institutional upper limit of normal) or active HCV infection (HCV antibody positive with HCV-RNA above institutional upper limit of normal).\n* Untreated active brain metastases (including symptomatic brain or leptomeningeal metastases). Participants with brain metastases are eligible only if brain lesions are stable on imaging performed ≥4 weeks prior to first study dose, no new neurological symptoms or baseline symptom relapse, and no systemic steroid administration for ≥14 days before study treatment initiation, with no evidence of new or enlarged metastatic lesions.\n* Medical history as follows: ① Major abdominal/thoracic surgery within 28 days prior to first study dose, or planned major surgery during the study period (diagnostic puncture and infusion port implantation excluded). ② Severe cardiovascular/cerebrovascular events (myocardial infarction, unstable angina, cerebrovascular accident) within 6 months prior to enrollment; clinically silent lacunar infarcts are permitted.\n* History of deep vein thrombosis or pulmonary embolism within 3 months prior to enrollment.\n* Inability to swallow or untreated malabsorption syndrome.\n* Receipt of any investigational product within 1 month prior to enrollment.\n* Any other condition judged by the investigator to render the participant unsuitable for study participation.",
   "enrollment": 147,
   "has_results": false,

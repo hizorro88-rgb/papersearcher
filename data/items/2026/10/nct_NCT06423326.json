@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
+  "drug",
   "treatment",
-  "drug"
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT06423326",
  "importance": 0.9,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 36명입니다.",
+  "치료는 28일 주기로 최대 4주기까지 진행됩니다.",
+  "주요 목적은 수술 전 젬시타빈, 시스플라틴, 냅-파클리탁셀 병용요법의 임상적 반응률 확인입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06423326"
  },
- "summary_ko": "This phase II trial tests how well gemcitabine, cisplatin and nab-paclitaxel given before surgery (neoadjuvant) works in treating patients with pancreatic cancer that can be removed by surgery (resectable) or that is borderline resectable. The standard treatment for resectable and borderline resectable pancreatic cancer is a combination of surgery and chemotherapy.",
- "summary_source": "excerpt",
+ "summary_ko": "이 2상 임상시험은 수술이 가능한(resectable) 또는 경계성 수술 가능한(borderline resectable) 췌장암 환자 36명을 대상으로 수술 전(neoadjuvant) 치료로서 젬ሲ타빈(gemcitabine), 시스플라틴(cisplatin), 냅-파클리탁셀(nab-paclitaxel) 병용요법의 효과를 평가합니다. 환자들은 28일 주기로 최대 4주기 동안 해당 약물 치료를 받고, 질병이 진행되지 않은 경우 표준 치료에 따라 외과적 절제술을 받습니다. 주요 목적은 이 병용요법의 임상적 반응률(clinical response rate)을 확인하는 것이며, 이차적으로는 종양 내 림프구 침윤 증가 여부를 확인합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Gemcitabine, Cisplatin and Nab-Paclitaxel as Neoadjuvant Treatment for Patients With Resectable or Borderline Resectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "수술 가능 또는 경계성 수술 가능 췌장암 환자를 위한 수술 전 젬시타빈, 시스플라틴, 냅-파클리탁셀 병용 임상시험",
  "trial": {
   "conditions": [
    "Borderline Resectable Pancreatic Ductal Adenocarcinoma",
@@ -65,7 +69,7 @@
     "phone": "202-877-4599"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확인된 수술 가능 및 경계성 수술 가능 췌장 관선암종(pancreatic ductal adenocarcinoma) - 원격 전이가 없는 상태(M0) - 18세 이상의 성인 - 사전 동의서 서면 동의 가능 - 동유럽협력종양학회(ECOG) 수행능력 상태 0~1 - 적절한 골수, 간, 신장 기능 유지 - 가임 여성 및 남성의 피임 지침 준수 동의. 제외 기준: - 2등급 이상의 말초 신경병증 - 조절되지 않는 심각한 동반 질환 - 임신 또는 수유 중인 여성 - 치료되지 않은 중추신경계 질환 - 과거 5년 이내 또는 동시 발생한 다른 암종 - 연구 약물에 대한 알레르기 또는 과민반응 병력 - 알코올 또는 약물 남용 - 동의서 서식 서명 불가 또는 거부.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed - resectable and borderline resectable pancreatic ductal adenocarcinoma\n\n   * Resectability will be defined as per National Comprehensive Cancer Network (NCCN) guidelines using cross-sectional imaging (contrast-enhanced computed tomography or magnetic resonance imaging scans of the abdomen, and pelvis)\n   * Decisions about resectability status will be made in consensus at multidisciplinary meetings/discussions\n\n   Resectable disease will be defined as:\n   * No interface of the tumor with celiac artery, common hepatic artery (CHA), or superior mesenteric arteries (SMA) (and, if present, variants)\n   * Less than 180° interface between tumor and vessel wall of the portal or superior mesenteric veins (SMV) without vein contour irregularity\n   * For tumors of the body and tail of the pancreas, interface with the splenic artery and splenic vein of any degree will be considered resectable disease\n\n   Borderline resectable disease will be defined as:\n   * To include at least one of the following:\n\n     * Tumor abutment \\< 180° of the superior mesenteric artery or celiac axis\n     * Solid tumor contact with CHA without extension to celiac artery (CA) or hepatic artery bifurcation allowing for safe and complete resection and reconstruction\n     * Solid tumor contact with variant arterial anatomy (ex: accessory right hepatic artery, replaced right hepatic artery, replaced CHA, and the origin of replaced or accessory artery)\n     * Tumor induced narrowing of SMV, portal vein (PV) or SMV-PV of \\> 180˚ of the diameter of the vessel\n     * Short segment occlusion of the SMV, PV or SMV-PV with a suitable PV above and SMV below, for reconstruction\n     * Solid tumor contact with inferior vena cava\n     * Biopsy proven N1 disease (regional lymph nodes involved) from pre-referral biopsy or endoscopic ultrasound (EUS)-guided fine needle aspiration (FNA)\n2. No distant extrapancreatic disease (M0)\n3. Adults \\> 18 years of age\n4. Able to give informed consent\n5. Able to adhere to study visit schedule and other protocol requirements\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 - 1\n7. Adequate Bone marrow reserves as evidenced by:\n\n   * Absolute neutrophil count (ANC) ≥ 1,500 cells/ul\n   * Platelet count ≥ 100,000 cells/ul\n   * Hemoglobin ≥ 9 g/dL\n8. Adequate hepatic function as evidence by:\n\n   * Serum total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN)\n   * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN\n   * Albumin ≥ 3 g/dl\n9. Adequate renal function as evidenced by Creatinine ≤ 1.5 x ULN\n10. Male, or a non-pregnant and non-lactating female\n11. Women of child-bearing potential - defined as a sexually mature woman who has not undergone hysterectomy - the surgical removal of the uterus or bilateral oophorectomy - the surgical removal of both ovaries or has not been naturally postmenopausal for at least 24 consecutive months, i.e., has had menses at any time during the preceding 24 consecutive months, must commit to true abstinence from heterosexual contact, or agree to use, and be able to comply with, effective contraception without interruption for 28 days prior to starting gemcitabine/cisplatin/nab- paclitaxel (including dose interruptions) until treatment with gemcitabine/cisplatin/nab-paclitaxel is complete\n12. Male subjects must practice true abstinence or agree to use a condom during sexual contact with a female of childbearing potential or a pregnant female while on treatment (including during dose interruptions) with gemcitabine/cisplatin/nab-paclitaxel and for 6 months following gemcitabine/cisplatin/nab- paclitaxel discontinuation, even if he has undergone a successful vasectomy\n\nExclusion Criteria:\n\n1. Peripheral neuropathy of grade 2 or greater by Common Terminology Criteria for Adverse Events (CTCAE) 4.0. In CTCAE version 4.0 grade 2 sensory neuropathy is defined as \"moderate symptoms; limiting instrumental activities of daily living (ADLs)\"\n2. Concurrent severe and/or uncontrolled medical conditions which could compromise participation in the study such as unstable angina, myocardial infarction within 6 months, unstable symptomatic arrhythmia, symptomatic congestive heart failure, uncontrolled diabetes, serious active, uncontrolled infection after inadequate biliary drainage if tumor obstructing bile duct, or psychiatric illness/social situations\n3. Pregnancy (positive pregnancy test) or lactation\n4. Known central nervous system (CNS) disease, except for treated brain metastasis. Treated brain metastases are defined as having no evidence of progression or hemorrhage after treatment and no ongoing requirement for dexamethasone, as ascertained by clinical examination and brain imaging (MRI or CT) during the screening period. Anticonvulsants (stable dose) are allowed. Treatment for brain metastases may include whole brain radiotherapy (WBRT), radiosurgery (radiosurgery \\[RS\\]; Gamma Knife, linear accelerator \\[LINAC\\], or equivalent) or a combination as deemed appropriate by the treating physician. Patients with CNS metastases treated by neurosurgical resection or brain biopsy performed within 3 months prior to day 1 will be excluded\n5. Previous (within the past 5 years) or concurrent presence of other untreated cancer, except nonmelanoma skin cancer and in situ carcinomas\n6. History of allergy or hypersensitivity to any of the study drugs\n7. Current abuse of alcohol or illicit drugs\n8. Inability or unwillingness to sign the informed consent form",
   "enrollment": 36,
   "has_results": false,

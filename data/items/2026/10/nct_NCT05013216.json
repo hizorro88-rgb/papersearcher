@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT05013216",
  "importance": 0.81,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 코호트 A 25명(평가 가능 환자 20명), 코호트 B 12명(평가 가능 환자 10명)으로 총 31명 이상입니다.",
+  "1차 평가변수는 백신의 안전성 평가와 백신 투여 후 인터페론 감마(IFN-γ)를 생성하는 돌연변이 KRAS 특이적 T 세포의 최대 백분율 변화 평가입니다.",
+  "연구 대상 연령은 40세 이상이며, 국내 기관 참여는 없습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05013216"
  },
- "summary_ko": "This Phase 1 study will evaluate safety and the immune response to pooled mutant-KRAS peptide vaccine with poly-ICLC adjuvant for patients who have been identified to be at risk of developing pancreatic cancer. This study will evaluate safety and the immune response to pooled mutant-KRAS peptide vaccine (KRAS peptide vaccine) with poly-ICLC adjuvant.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상 1상 연구는 췌장암 발생 위험이 높은 환자들을 대상으로 돌연변이 KRAS(mutant-KRAS) 펩타이드 백신과 poly-ICLC 보조제의 안전성과 면역 반응을 평가합니다. 코호트 A는 췌장암 고위험군 및 췌장 이상 소견이 있는 환자 20명 평가를 목표로 총 25명을 등록합니다. 코호트 B는 췌장 낭성 신생물(pancreatic cystic neoplasm) 환자 10명 평가를 목표로 총 12명을 등록합니다. 연구는 선별 단계, 치료 단계, 그리고 장기 추적 관찰로 구성됩니다.",
+ "summary_source": "llm",
  "tags": [
   "KRAS Peptide Vaccine",
   "Neoantigen Vaccines",
@@ -51,14 +56,14 @@
   "Pancreatic Ductal Adenocarcinoma (PDAC)"
  ],
  "title": "Mutant KRAS -Targeted Long Peptide Vaccine for Patients at High Risk of Developing Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 고위험 환자를 위한 돌연변이 KRAS 표적 장쇄 펩타이드 백신 임상 1상",
  "trial": {
   "conditions": [
    "High Risk Cancer",
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 코호트 A: 췌장암 고위험군(가족성 췌장암 친족, FAMMM, BRCA2, ATM, PALB2, BRCA1, HNPCC 등 유전자 돌연변이 보유자)에 해당하며 췌장 영상 감시를 받고 있고 췌장낭(pancreatic cyst) 등 영상학적 이상 소견이 있는 환자\n- 코호트 B: 외과적 절호가 필요한 고위험 소견의 췌장 낭성 신생물이 있으며, 낭액 검사에서 연구 백신에 포함된 6가지 KRAS 돌연변이 중 하나가 확인된 환자\n- 연령 40세 이상\n- 충분한 장기 및 골수 기능 보유\n\n제외 기준:\n- 연구 기간 동안 다른 전신 또는 국소 항종양 치료가 필요한 경우\n- 첫 투여 전 4주 이내에 전신/국소 코르티코스테로이드, 면역억제제, 임상기기, 생백신, 알레르기 탈감작 치료, 대수술을 받은 경우\n- HIV, B형 간염, C형 간염 감염 환자\n- 조절되지 않는 동반 질환 또는 면역결핍 진단이 있는 경우\n- 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\nCohort A: Must fall into one of the three categories defined as high risk of developing pancreatic cancer and are undergoing pancreatic surveillance AND 2) have documented radiographic evidence of a pancreatic abnormality such as a pancreatic cyst.\n\n* High Risk Group 1 (familial pancreatic cancer relatives):\n\n  * \\>/=55 years old or 10 years younger than the age of youngest relative with pancreatic cancer, and\n  * Come from a family with 2 or more members with a history of pancreatic cancer (2 of which have a first-degree relationship consistent with familial pancreatic cancer), and\n  * Have a first-degree relationship with at least one of the relatives with pancreatic cancer.\n  * If there are 2 or more affected blood relatives, at least 1 must be a first-degree relative of the individual being screened.\n* High Risk Group 2 (Germline mutation carriers with an associated with an estimated lifetime risk of pancreatic cancer of \\~10% or higher):\n\n  * \\>/=40 years old and the Patient is a carrier of FAMMM (p16/CDKN2A) mutation regardless of family pancreas cancer history.\n\nOR\n\n* \\>/= 50 years old or 10 years younger than the age of the youngest relative with pancreatic cancer, and the Patient is a carrier of a known BRCA2, ATM, PALB2 mutation.\n* Persons with known genetic mutation should have proof of mutation status. Those who had research-related genetic testing must have confirmation by a clinical CLIA-certified laboratory.\n\n  o High Risk Group 3 (Germline mutation carriers with an associated with an estimated lifetime risk of pancreatic cancer of \\~5%):\n* \\>/= 50 years old or 10 years younger than the age of the youngest relative with pancreatic cancer, and\n* The patient is a carrier of a known, BRCA1, or HNPCC (hereditary non-polyposis colorectal cancer or Lynch syndrome, hMLH1, hMSH2, PMS1, hMSH6, EpCAM) gene mutation, and there is \\> 1 pancreatic cancer in the family, one of whom is a first- or second-degree relative of the subject to be screened.\n* Persons with known genetic mutation should have proof of mutation status. Those who had research-related genetic testing must have confirmation by a clinical CLIA-certified laboratory.\n* Cohort A: Patients must have a pancreatic imaging abnormality that is being followed by pancreatic imaging surveillance (EUS and/or MRI and /or CT), such as a pancreatic cyst consistent with an IPMN or parenchymal abnormalities consistent with PanIN.\n\n  * Cohort B: Patients must have clinical, radiographic, or histologic evidence of pancreatic cystic neoplasm with high-risk features warranting surgical resection per the discretion of the treating hepatobiliary surgeon.\n  * Cohort B: Patients must have cystic fluid testing that demonstrates the presence of one of the six KRAS mutations included in the study vaccine.\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests prior to initial study drug.\n* Ability to understand and willingness to sign a written informed consent document.\n* Woman of childbearing potential must have a negative pregnancy test and follow contraceptive guidelines as defined per protocol.\n* Men must use acceptable form of birth control while on study.\n\nExclusion Criteria:\n\n* If expected to require any other form of systemic or localized antineoplastic therapy while on study.\n* Within 4 weeks prior to first dose of study drug.\n\n  o Any systemic or topical corticosteroids at immunosuppressive agents.\n* Within 4 weeks prior to first dose of study drug.\n\n  * Any investigational device.\n  * Has received a live vaccine.\n  * Received any allergen hyposensitization therapy.\n  * Any major surgery.\n* Infection with HIV or hepatitis B or C.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements monoclonal antibody.\n* Has a diagnosis of immunodeficiency.\n* Any other sound medical, psychiatric, and/or social reason as determined by the Investigator.\n* Unwilling or unable to follow the study schedule for any reason.\n* Are pregnant or breastfeeding.",
   "enrollment": 31,
   "has_results": false,

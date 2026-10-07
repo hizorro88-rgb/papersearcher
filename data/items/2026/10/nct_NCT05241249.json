@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT05241249",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "1차 목적은 bethanechol 치료가 R0 절제율에 미치는 영향을 평가하는 것입니다.",
+  "안전성 목적은 bethanechol과 gemcitabine, nab-paclitaxel 병용 요법의 안전성과 내인성을 평가하는 것입니다.",
+  "탐색적 목적은 부교감신경 자극과 관련된 유전체 바이오마커를 평가하고 종양 성장 속도 감소 능력을 평가하는 것입니다.",
+  "이 임상시험의 목표 인원은 37명입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05241249"
  },
- "summary_ko": "The primary objective of this study is to assess the impact of bethanechol therapy on R0 resection rates. The safety objective will be assessment of the safety and tolerability of bethanechol in combination with gemcitabine and nab-paclitaxel.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 췌장선암 환자를 대상으로 bethanechol과 gemcitabine, nab-paclitaxel 병용 치료의 안전성과 R0 절제율에 미치는 영향을 평가합니다. 동물 모델에서 bethanechol이 암의 성장과 확산을 억제하는 것으로 나타나, 수술 후 암의 재발 가능성을 낮추기 위한 연구입니다. 연구의 목표 인원은 37명이며 현재 환자를 모집 중입니다. 이 연구는 부작용이 견딜 만하고 암세포 성장 억제 징후를 보이는지 확인하는 것을 목표로 합니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreas",
   "pancreatic adenocarcinoma",
@@ -55,7 +60,7 @@
   "parasympathetic"
  ],
  "title": "Stimulation With Bethanechol in Combination With Gemcitabine and Nab-paclitaxel in Pancreatic Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장선암(Pancreatic Adenocarcinoma)에서 젬시타빈(Gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel)과 병용한 베다네콜(Bethanechol) 자극 요법",
  "trial": {
   "conditions": [
    "Pancreas Cancer"
@@ -72,7 +77,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 췌장관상피암(Pancreatic Ductal Adenocarcinoma)\n- 선행화학요법(neoadjuvant chemotherapy) 계획 있음\n- 바이오마커 분석에 적합한 진단용 조직 확보 가능\n- 경구 약물 복용 및 연구 절차 준수 가능\n\n제외 기준:\n- 전이성 질환(Metastatic disease)\n- 위장관 폐쇄 증거\n- 기저 서맥(심박수<55) 또는 저혈압(수축기 혈압<90)\n- 아세틸콜린에스테라아제 억제제(acetylcholinesterase inhibitors) 사용 중\n- 갑상선기능항진증, 활동성/증상성 관상동맥질환, 발작 질환, 소화성 궤양 질환 등의 의학적 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Pancreatic Ductal Adenocarcinoma\n* Plan for neoadjuvant chemotherapy\n* Available diagnostic tissue adequate for biomarker analysis\n* Ability to tolerate PO meds and comply with study procedures\n\nExclusion Criteria:\n\n* Metastatic disease\n* Evidence of GI obstruction\n* Baseline bradycardia (HR\\<55) or hypotension (systolic blood pressure\\<90)\n* Use of acetylcholinesterase inhibitors\n* Medical conditions including: hyperthyroidism, active/symptomatic coronary artery disease, seizure disorder, peptic ulcer disease.",
   "enrollment": 37,
   "has_results": false,

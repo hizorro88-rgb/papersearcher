@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "diagnosis"
  ],
@@ -20,7 +21,11 @@
  ],
  "id": "nct:NCT05776524",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 46명입니다.",
+  "주요 평가지표는 병용 치료에 따른 6개월 전체 생존율(OS) 개선 효과입니다.",
+  "이차 평가지표로는 안전성, 내인성, 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 조절률(DCR)이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05776524"
  },
- "summary_ko": "The objective of this research is to find out what effects (good and bad), the combination of gemcitabine and nab-paclitaxel therapy (GEM-ABR for the rest of the document), standard chemotherapy for pancreatic cancer, and the TheraBionic device has on participants' condition. Primary Objective(s): The primary objective of this study is to evaluate the efficacy of the combination of nab-paclitaxel, gemcitabine, and amplitude-modulated radiofrequency electromagnetic fields in improving 6-month ove…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 전이성 췌장 선암(metastatic adenocarcinoma of the pancreas) 환자를 대상으로 합니다. 표준 항암화학요법인 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel)과 TheraBionic 기기를 이용한 진폭 변조 고주파 전자기장의 병용 치료 효과를 평가합니다. 주요 목표는 6개월 전체 생존율(OS) 개선 효과를 확인하는 것입니다. 또한 안전성, 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 조절률(DCR)을 함께 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Study of Amplitude-Modulated Radiofrequency Electromagnetic Fields in Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암에서 진폭 변조 고주파 전자기장과 젬시타빈 및 냅-파클리탁셀 병용요법 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -66,7 +71,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 새로 진단받고 치료받지 않은 조직학적으로 확진된 전이성 췌장 선암 환자 - RECIST 1.1 기준에 따른 1개 이상의 측정 가능한 전이성 종양 - 연령 18세 이상 - 동유럽종양협력그룹(ECOG) 수행능력 상태 0-1 - 적절한 장기 및 골수 기능 유지 - 연구 참여에 대한 자발적 서면 동의서 작성 가능. 제외 기준: - 전이성 단계에서 항암 치료를 받은 적이 있거나, 연구 진입 전 6개월 이내에 보조 또는 선행보조 요법으로 젬시타빈 또는 냅-파클리탁셀 치료를 받은 환자 - 뇌 전이가 알려진 환자 - 젬시타빈 및 냅-파클리탁셀 성분에 과민증 이력이 있는 환자 - 최근 3년 이내 다른 악성 종양 이력(치료된 상피내 자궁경부암, 기저세포암, 편평세포암, 저위험 전립선암 제외) - 칼슘 채널 차단제나 L형/T형 전압 게이트 칼슘 채널 차단제를 투여 중인 환자 - 전신 치료가 필요한 활성 및 조절되지 않는 감염 환자 - 조절되지 않는 동반 질환 또는 간질성 폐질환 등 폐 질환 이력 - 임산부 또는 수유부 - 국소 절제 가능 또는 국소 진행성 종양 - 치료일 전 4주 이내에 진단적 수술 또는 소수술 외의 수술을 받은 환자 - 연구 절차를 준수할 수 없는 환자 - 다른 임상시험에 활발히 참여 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patient must have newly diagnosed untreated biopsy proven metastatic adenocarcinoma of the pancreas. If a patient had a biopsy of the pancreatic mass and the clinical picture is consistent with metastatic pancreatic cancer, another biopsy of a metastatic site is not required for this trial. Pancreatic tumors with mixed histology that has predominant adenocarcinoma can be enrolled.\n* One or more measurable metastatic tumors per Response Evaluation Criteria in Solid Tumors (RECIST v1.1) on imaging studies (CT or MRI) of chest, abdomen and pelvis.\n* Females of childbearing potential and males with female partners of childbearing potential, if sexually active, must agree to use two forms of contraception during the period of administration of study drug and up to 6 months after the end of treatment. Should a woman become pregnant or suspect she is pregnant while participating in this study, she must inform her treating physician immediately.\n* Age 18 years old or greater.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n* Patients must have organ and marrow function as defined below:\n\nOrgan and Marrow Function Absolute neutrophil count (ANC) ≥ 1,500/mcL Platelets\\* ≥ 100,000/mcL Hemoglobin\\* ≥ 7 g/dL \\*It is acceptable to transfuse packed red blood cells (PRBC) and platelets at the time of enrollment to meet the eligibility criteria.\n\nTotal bilirubin ≤ 1.5 X institutional upper limit of normal AST(SGOT)/ALT(SGPT) ≤ 2.5 X institutional upper limit of normal (≤ 5 x ULN, if liver metastasis) Creatinine ≤ 1.5 X institutional upper limit of normal Or CrCL \\> 50\n\n\\- Ability to understand and the willingness to sign an IRB-approved informed consent document (either directly or via a legally authorized representative).\n\nExclusion Criteria:\n\n* Patients treated with any chemotherapy in metastatic setting and/or who had chemotherapy with gemcitabine and/or nab-paclitaxel within six months prior to entering the study in the adjuvant or neo-adjuvant setting are excluded. Patients who have had chemotherapy with FOLFIRINOX prior to entering the study in the adjuvant or neo-adjuvant setting can be enrolled into the study.\n* Patients with known brain metastases are excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.\n* History of hypersensitivity or allergic reactions attributed to compounds of similar chemical or biologic composition to gemcitabine and nab-paclitaxel.\n* History of malignancy in last 3 years except cervical cancer in situ, adequately treated basal cell or squamous cell carcinoma of skin or treated low risk prostate cancer, who are considered to be eligible.\n* Patients receiving calcium channel blockers and any agent blocking L-type of T type Voltage Gated Calcium Channels such as amlodipine, nifedipine, ethosuximide are not allowed in the study unless their medical treatment is modified to exclude calcium channel blockers prior to enrollment.\n* Patients with active and uncontrolled bacterial, viral or fungal infection requiring systemic therapy. Patients can be reevaluated for the study if the infection is deemed to be under control and the systemic therapy is completed.\n* Uncontrolled intercurrent illness including symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or could compromise patient safety.\n* Known diagnosis of interstitial lung disease, sarcoidosis, pulmonary fibrosis or pneumonitis.\n* Pregnant women are excluded from this study because of potential risk for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with chemotherapy and amplitude-modulated radiofrequency electromagnetic fields, patients who are breastfeeding will be excluded to participate in this study.\n* Localized resectable or locally advanced tumor.\n* Undergone surgery, other than diagnostic surgery or minor procedures, within 4 weeks prior to the treatment day.\n* Unable to comply with study procedures or anticipating a situation that would result in a treatment break for 14 or more consecutive days after the start of the study.\n* Actively enrolled in any other clinical interventional trial or receiving any other investigational agents.",
   "enrollment": 46,
   "has_results": false,

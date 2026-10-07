@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT07257523",
  "importance": 0.85,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 33명이며 전이성 없는 쇠약한 췌장암 환자를 대상으로 합니다.",
+  "중재 방법은 탄소이온방사선치료이며 총 12회 또는 4회 분할하여 진행합니다.",
+  "1차 유효성 평가지표는 전체 생존기간(overall survival)입니다.",
+  "2차 평가지표에는 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,17 +47,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07257523"
  },
- "summary_ko": "\"This prospective, single-arm phase II study aims to evaluate the efficacy and safety of carbon ion radiotherapy in frail patients with histologically confirmed, non-metastatic pancreatic cancer who are not eligible for surgery or systemic chemotherapy. Frail status is defined as a Clinical Frailty Scale (CFS) score ≥4 or the presence of significant medical comorbidities limiting aggressive treatment.",
- "summary_source": "excerpt",
+ "summary_ko": "본 임상시험은 수술이나 전신 항암 치료를 받을 수 없는 쇠약한 전이성 없음 췌장암 환자를 대상으로 탄소이온방사선치료(Carbon Ion Radiotherapy)의 유효성과 안전성을 평가하는 단일군 2상 연구입니다. 목표 환자 수는 33명이며 연세대학교에서 진행합니다. 주요 평가지표는 전체 생존기간(overall survival)이며 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질 등을 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Carbon Ion Radiotherapy in Frail Patients With Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "체외 탄소离子 방사선 치료가 쇠약한 췌장암 환자에게 미치는 효과",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasm"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진되었으며 원격 전이가 없는 췌장암 환자\n- 수술 또는 전신 항암 치료가 불가능하며, 임상 쇠약척도(Clinical Frailty Scale, CFS) 점수가 4점 이상이거나 표준 치료를 방해하는 유의미한 동반 질환이 있는 경우\n- 충분한 상담 후 수술 및 항암 치료를 거부한 환자\n- 만 19세 이상\n- 서면 동의서 제공이 가능한 환자\n- 탄소이온방사선치료를 받을 자격이 있고 의향이 있는 환자\n\n제외 기준:\n- 만 19세 미만\n- 기저 영상 검사에서 원격 전이가 확인된 경우\n- 치료를 방해할 수 있는 활성 또는 조절되지 않는 감염\n- 즉각적인 의학적 개입이 필요한 활성 출혈 또는 출혈 경향\n- 임신 또는 수유 중인 여성\n- 연구자의 판단에 따라 참여가 안전하지 않거나 부적절하다고 판단되는 상태\n- 연구 절차나 추적 관찰 일정을 준수할 수 없는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n\\- Histologically confirmed pancreatic cancer without distant metastasis.\n\nNot eligible for surgery or systemic chemotherapy, defined as:\n\nClinical Frailty Scale (CFS) score ≥ 4, or Significant medical comorbidities precluding standard treatment. Patients who decline surgery and chemotherapy after adequate counseling. Age ≥ 19 years. Able to provide written informed consent. Eligible and willing to receive carbon ion radiotherapy.\n\nExclusion Criteria:\n\n* Age \\< 19 years. Presence of distant metastasis at baseline imaging (CT/MRI/PET-CT). Active or uncontrolled infection that may interfere with treatment. Active bleeding or bleeding tendency requiring immediate medical intervention. Pregnant or breastfeeding women. Any condition that, in the investigator's judgment, makes participation unsafe or inappropriate (e.g., severe organ dysfunction preventing radiotherapy).\n\nInability to comply with study procedures or follow-up schedule.",
   "enrollment": 33,
   "has_results": false,

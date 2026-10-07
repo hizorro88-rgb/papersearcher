@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "surgery",
-  "treatment",
-  "diagnosis"
+  "treatment"
  ],
  "entities": [
   "distal-pancreatectomy"
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT06807437",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 274명이며 3상 단계의 임상시험이 진행 중입니다.",
+  "수술 전 36시간 이내에 lanreotide 또는 생리식염수 위약을 피하 주사합니다.",
+  "수술 후 60일 이내에 발생하는 수술 후 췌장루(POPF) 발생률을 비교합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06807437"
  },
- "summary_ko": "This phase III trial compares the effect of using lanreotide before surgery to surgery alone in preventing pancreatic fistulas in patients with pancreatic cancer or a pancreatic lesion that could become cancerous. Lanreotide, a type of somatostatin analog similar to somatostatin (a hormone made by the body), and is used to treat certain types of gastroenteropancreatic neuroendocrine tumors, and carcinoid syndrome.",
- "summary_source": "excerpt",
+ "summary_ko": "이 3상 임상시험은 췌장암 또는 암화 가능성이 있는 췌장 병변 환자를 대상으로 수술 전 lanreotide(란레오티드) 투여가 수술 후 췌장루 발생을 줄이는지 평가합니다. 대상 환자들은 원위 췌장 절제술(distal pancreatectomy)을 받기 전 lanreotide 또는 생리식염수 위약을 투여받게 됩니다. 연구의 주요 목적은 수술 후 60일 이내에 발생하는 수술 후 췌장루(POPF)의 발생률을 비교하는 것입니다. 또한 입원 일수, 삶의 질 변화, 보조 항암화학요법 시작 시기 등을 이차적으로 평가합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Lanreotide Versus Placebo Before Surgery to Prevent a Surgical Complication Called a Pancreatic Fistula",
- "title_ko": null,
+ "title_ko": "수술 전 lanreotide 투여가 췌장루 예방에 미치는 효과를 위약과 비교하는 3상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Carcinoma",
@@ -67,7 +71,7 @@
     "phone": "210-614-8808"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 췌장암 또는 악성 잠재력이 있는 췌장 병변이 조직학적 또는 방사리학적으로 확진된 자- 등록/무작위 배정일로부터 60일 이내에 예정된 선택적 원위 췌장 절제술(distal pancreatectomy)을 앞둔 자- 18세 이상- 등록/무작위 배정 전 28일 이내의 완전한 의무 기록 및 신체검사 완료- 크레아티닌이 기관 정상 상한치(IULN) 이하이거나 Cockcroft-Gault 공식을 사용한 크레아티닌 청소율이 50 mL/min 이상인 자- 동의 절차에 따라 임상시험에 참여하고 연구 성격에 대해 안내받은 자 제외 기준:- 흡수불량 증후군 진단 병력이 있는 자- 등록/무작위 배정 전 180일 이내에 소모스타틴 유사체(somatostatin analogue) 치료를 받은 적이 있는 자- 췌장 악성 종양에 대해 방사선 치료를 받은 적이 있는 자- 펩타이드 수용체 방사성 핵종 치료(PRRT)를 받은 적이 있는 자- 변형 애플비 수술(수술적 절제) 또는 다장기 절제술이 필요하다고 판단되는 자- 중등도에서 중증의 간 기능 장애가 있는 자- 임신 중이거나 수유 중인 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participants must have histologically or radiographically confirmed diagnosis of pancreatic cancer or a pancreatic lesion with malignant potential\n* Participants must have an elective distal pancreatectomy planned to occur within 60 days after registration/randomization date\n* Participants must not have a known history of a prior diagnosis of malabsorption syndrome\n* Participants must not have been treated with any somatostatin analogue within 180 days prior to registration/randomization\n* Participants must not have been treated with radiation therapy for their pancreas malignancy at any time prior to registration/randomization\n* Participants must not have been treated with peptide receptor radionuclide therapy (PRRT) at any time prior to registration/randomization\n* Participants must be ≥ 18 years old\n* Participants must have a complete documented medical history and physical exam within 28 days prior to registration/randomization\n* Participants must have a creatinine ≤ the institutional upper limit of normal (IULN) OR a measured OR calculated creatinine clearance ≥ 50 mL/min using the following Cockcroft -Gault formula within 60 days prior to registration/randomization\n* Participants must complete a pre-registration screening to identify any of the medications below, allowing the study team and treating physician to develop a monitoring plan as needed. Participants taking medications with known interactions with lanreotide may remain eligible if appropriate monitoring and management are in place. These medications include:\n\n  * Diabetes medications (insulin or oral hypoglycemics): Blood sugar will be monitored, and medication dose adjustments made as needed\n  * Cyclosporine: Dosage adjustments may be required to maintain therapeutic levels\n  * Bromocriptine: Dose adjustments may be considered to account for absorption changes\n  * Heart medications (e.g., beta blockers): Heart rate will be monitored, and medication doses adjusted if necessary\n  * CYP3A4-metabolized medications: Dose adjustments may be considered to avoid increased exposure\n* In the opinion of the treating surgeon, based on preoperative data, the participant must not require a modified Appleby-type procedure (distal pancreatectomy with celiac axis resection) or multivisceral resection (e.g., stomach, colon, etc.) at the time of distal pancreatectomy\n\n  * NOTE: planned removal of the gallbladder or spleen at the time of distal pancreatectomy is not considered multivisceral resection and is permissible\n* In the opinion of the treating surgeon, based on preoperative data, the participant must not require a tumor enucleation\n* Participants must not have moderate to severe hepatic impairment as defined by liver enzyme elevation more than 5 times the institutional upper limit of normal (either aspartate aminotransferase \\[AST\\] \\> 190 U/L or alanine aminotransferase \\[ALT\\] \\> 320 U/L) within 60 days prior to registration/randomization. Transient elevation at the time of screening that resolves prior to study enrollment is acceptable\n* Participants must not be pregnant or nursing (nursing includes breast milk fed to an infant by any means, including from the breast, milk expressed by hand, or pumped)\n* Individuals who are of reproductive potential must have agreed to use an effective contraceptive method during the whole period of the study and for three months after the study drug administration, with details provided as a part of the consent process. A person who has had menses at any time in the preceding 12 consecutive months or who has semen likely to contain sperm is considered to be of \"reproductive potential.\" In addition to routine contraceptive methods, \"effective contraception\" also includes refraining from sexual activity that might result in pregnancy and surgery intended to prevent pregnancy (or with a side-effect of pregnancy prevention) including hysterectomy, bilateral oophorectomy, bilateral tubal ligation/occlusion, and vasectomy with testing showing no sperm in the semen\n* Participants must be offered the opportunity to participate in specimen banking\n* Participants who can complete EORTC QLQ-C30, EORTC QLQ-PAN26, and EQ-5D-5L forms in English or Spanish, must be offered the opportunity to participate in the quality-of-life study\n* NOTE: As a part of the OPEN registration process, the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system.\n* Participants must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines\n* For participants with impaired decision-making capabilities, legally authorized representatives may sign and give informed consent on behalf of study participants in accordance with applicable federal, local, and Central Institutional Review Board (CIRB) regulations",
   "enrollment": 274,
   "has_results": false,

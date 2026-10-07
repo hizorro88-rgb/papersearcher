@@ -28,9 +28,9 @@ comments: true
 | [Stereotactic Body Radiation Therapy Followed by NALIRIFOX vs NALIRIFO…](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
 | [Study Examining the Safety and Toxicity of Stereotactic Body Radiothe…](../trials/NCT06217666.md) | 1상 | 모집 예정 | - |
 | [Radiotherapy in Combination With TTI-101 in Borderline Resectable and…](../trials/NCT06141031.md) | 1상 | 모집 중 | - |
-| [Combination Therapy in Patients With Localized Pancreatic Ductal Aden…](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료를 병용하는 2상 임상시험](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
 | [SBRT Combined With Zimberelimab (GLS-010) in Locally Advanced Pancrea…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
-| [Preoperative mFOLFIRINOX (or Gem-Nab-P) +/- Isotoxic High-dose SBRT f…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
+| [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX 또는 Gem-Nab-P 항암치료 후 등독성 고선량 정위체부방사선치…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 
 ## 타임라인 (2)
 

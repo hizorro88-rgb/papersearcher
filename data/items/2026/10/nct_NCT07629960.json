@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT07629960",
  "importance": 0.81,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 전이성 췌장관암종(PDAC)을 포함한 KRAS 변이 진행성 고형암입니다.",
+  "중재 치료는 범-KRAS 억제제(pan-KRAS inhibitor)인 BLU-924 단독요법입니다.",
+  "목표 인원은 총 265명이며, 현재 환자 모집 중입니다.",
+  "반응률, 생존기간 등의 임상 결과는 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07629960"
  },
- "summary_ko": "A first in human study to evaluate the safety, tolerability, pharmacokinetics, and antitumor activity of BLU-924 / SAR449336, a pan-KRAS inhibitor, in participants with advanced Pancreatic Cancer, Non-Small Cell Lung Cancer, or Colorectal Cancer harboring KRAS mutations. This is an open-label, multi-center, Phase 1/2 study designed to evaluate the safety, tolerability, pharmacokinetics (PK), and efficacy of BLU-924, a pan-KRAS inhibitor, in participants with metastatic KRAS mutant pancreatic duc…",
- "summary_source": "excerpt",
+ "summary_ko": "본 임상시험은 KRAS 변이가 있는 진행성 췌장암(Pancreatic Cancer), 비소세포폐암, 대장암 환자를 대상으로 범-KRAS 억제제(pan-KRAS inhibitor)인 BLU-924(SAR449336)의 안전성, 내약성, 약동학 및 항종양 효과를 평가하기 위한 1상 및 2상 연구입니다. 연구는 용량 증량(Dose Escalation), 용량 심화(Dose Enrichment), 용량 확장(Dose Expansion) 단계로 구성된 공개 다기관 연구로 진행됩니다. 목표 환자 수는 총 265명이며, 현재 환자를 모집 중입니다. 초록에 효과 및 생존기간에 대한 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Mutation",
   "Metastatic Non-Small Lung Cell Cancer",
@@ -57,7 +62,7 @@
   "Solid Tumor, Adult"
  ],
  "title": "A First-in-Human Trial of BLU-924 (SAR449336) in Advanced Solid Tumors Harboring KRAS Mutations",
- "title_ko": null,
+ "title_ko": "KRAS 변이가 있는 진행성 고형암 환자를 대상으로 한 BLU-924(SAR449336)의 최초 인체 대상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Solid Tumor",
@@ -72,7 +77,7 @@
     "phone": "1-888-258-7768"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 종양 조직 또는 순환 종양 DNA(ctDNA)에서 KRAS G12C, G12D, G12V, G12A, G12S, G13D 변이 중 하나가 확인된 전이성 췌장관암종(PDAC), 비소세포폐암 또는 대장암 진단 - 고형암 반응평가기준(RECIST) v1.1에 따른 측정 가능한 병변 존재 - 미국동우양성종양그룹(ECOG) 신체 상태 평가지수 0~1 - 전이성 단계에서 해당 암종의 모든 표준 치료를 받았거나, 임상적 특성 및 동반 질환 등으로 표준 치료를 받을 수 없는 환자. 제외 기준: - 프로토콜에 명시된 예외를 제외하고 최근 2년 이내 다른 악성 종양 병력 - 활성 뇌 전이 (무증상 뇌 전이 환자는 참여 가능할 수 있음) - 범-KRAS 억제제, 다중 RAS 억제제, 돌연변이 선택적 KRAS 억제제, RAS/KRAS 분해제 등 KRAS 표적 치료 경험 - 결핵, B형 간염, C형 간염, 인간면역결핍바이러스(HIV) 등 활성 또는 조절되지 않는 전신 감염",
   "eligibility_text": "Inclusion Criteria:\n\n1. Pathologically confirmed diagnosis of metastatic Kirsten rat sarcoma viral oncogene homolog (KRAS)-mutant pancreatic ductal adenocarcinoma (PDAC), non-small cell lung cancer (NSCLC), or colorectal cancer (CRC) with evidence of a single KRAS G12C, G12D, G12V, G12A, G12S, or G13D mutation in tumor tissue or circulating tumor deoxyribonucleic acid (ctDNA).\n2. Measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n3. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1.\n4. Patients must have received all standard therapies for their cancer type in the metastatic setting, unless they are unable to receive such therapies due to clinical characteristics, comorbidities, or other medically justified reasons.\n\nExclusion Criteria:\n\n1. History of additional malignancy within the last 2 years, with some exceptions as specified in the protocol.\n2. Active brain metastases (participants with asymptomatic brain metastases may be eligible).\n3. Have received prior targeted treatment(s) against KRAS, including pan-KRAS inhibitors, multi-RAS inhibitors, mutant-selective KRAS inhibitors, and RAS or KRAS degraders.\n4. Active or uncontrolled systemic infection, such as tuberculosis, Hepatitis B virus (HBV), Hepatitis C virus (HCV), or Human immunodeficiency virus (HIV).\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
   "enrollment": 265,
   "has_results": false,

@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "surgery"
  ],
  "entities": [
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06752811",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 416명이며, 다기관, 무작위배정, 공개, 평행군, 양성 대조 3상(phase III) 임상시험으로 진행됩니다.",
+  "중재 치료는 팩이트탁셀 고분자 미셀 주사제 및 젬시타빈(gemcitabine hydrochloride)이며, 대조군은 nab-Paclitaxel과 젬시타빈입니다.",
+  "연령 기준은 18세부터 75세까지의 남녀를 대상으로 합니다.",
+  "국내 기관 참여는 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,13 +50,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06752811"
  },
- "summary_ko": "This trial is a multi-center, randomized, open, parallel-group and positive-controlled phase III trial to evaluate the efficacy and safety of paclitaxel polymeric micelles for injection plus gemcitabine as first-line treatment of metastatic pancreatic cancer compared with nab-Paclitaxel plus gemcitabine. Based on the widespread use of paclitaxel in pancreatic cancer, this study aims to develop a clinical protocol of paclitaxel polymeric micelles for injection in combination with gemcitabine as f…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 전이성 췌장암(metastatic pancreatic cancer) 환자 416명을 대상으로 1차 치료에서 팩이트탁셀 고분자 미셀 주사제(paclitaxel polymeric micelles for injection)와 젬시타빈(gemcitabine) 병용요법의 유효성과 안전성을 평가합니다. 대조군은  nab-Paclitaxel(알부민 결합 팩이트탁셀)과 젬시타빈 병용요법입니다. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_source": "llm",
  "tags": [
   "paclitaxel polymeric micelles for injection"
  ],
  "title": "Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암 환자를 위한 고분자 미셀 팩이트탁셀(paclitaxel polymeric micelles) 3상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic"
@@ -63,7 +68,7 @@
     "phone": "+86 15601735965"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1) 18~75세의 남녀. 2) 조직학적 또는 세포학적으로 확진된 전이성 췌장암. 3) 전이성 췌장암에 대한 전신 치료, 방사선 치료, 수술 또는 임상시험용 약물 치료를 받은 적이 없는 환자(단, 보조/선행보조 3차 치료 후 재발까지 6개월 이상 경과한 경우 제외). 4) ECOG 수행능력 상태 0~2. 5) 예상 생존 기간 3개월 이상. 6) RECIST v1.1 기준에 따라 측정 가능한 전이 병변이 최소 1개 이상 존재. 7) 주요 장기 기능이 양호한 환자.\n\n제외 기준: 1) 시험 약물 및 유사체, 부형제에 알레르기가 있는 환자. 2) 5년 이내 또는 현재 다른 악성 종양이 있는 환자(완치된 기저세포암 등 제외). 3) 중추신경계(CNS) 또는 수막 전이가 있는 환자. 4) 간 전이가 전체 간의 1/2을 초과하거나 활동성 B형/C형 간염이 있는 환자. 5) 인간면역결핍바이러스(HIV) 검사 양성. 6) 활동성 감염이 있는 환자. 7) 약물 또는 알코올 남용 병력. 8) 화학요법을 견딜 수 없는 심각한 유기농 병변 또는 주요 장기 부전. 9) 출혈 경향이 있는 환자. 10) 심각한 심혈관 및 뇌혈관 질환 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n* 1\\) Men or women aged 18 to 75 years old (including the critical value).\n* 2）Metastatic pancreatic cancer confirmed by histology or cytology.\n* 3）Patients who have not previously received any systemic therapy (including chemotherapy, targeted, and immunotherapy), radiotherapy, surgery, or investigational drugs for the treatment of metastatic pancreatic cancer; Patients who have previously received neoadjuvant or adjuvant chemotherapy could be enrolled if the interval between last treatment and recurrence and metastasis is more than 6 months.\n* 4）Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* 5）Survival is expected to be at least 3 months.\n* 6）At least one metastatic lesion (non-lymph node lesions with a major diameter of ≥ 10 mm on CT or MRI and lymph node lesions with a minor diameter of ≥ 15 mm) that is measurable according to the Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1) and is amenable to accurate repeated measurement. Suspected metastatic lesions (non-regional lymph nodes) that do not meet the above measurable standards and the primary lesions are measurable, the metastatic lesions are confirmed pathologically, can also be included.\n* 7）The major organs function well: a) white blood cell count ≥ 3.0 × 10\\^9/L. b) Hemoglobin ≥ 90.0 g/L. c) Absolute neutrophil count ≥1.5 × 10\\^9/L. d) Platelet count ≥100 × 10\\^9/L. e) Total bilirubin ≤1.5 × upper limit of normal range (ULN). f) Alanine aminotransferase (ALT), aspartate aminotransferase (AST) and alkaline phosphatase (ALP) ≤ 2.5 × ULN; For patients with liver metastasis, ALT, AST and ALP ≤ 5 × ULN; ALP ≤ 10 × ULN in patients with bone metastases.\n\n  g) Serum creatinine (Cr) ≤ 1.5 × ULN or creatinine clearance estimated by Cockcroft Gault formula ≥50 ml/min.\n\n  h) International normalized ratio (INR) ≤ 1.5 × ULN and prothrombin time (PT) or activated partial thromboplastin time (APTT) ≤ 1.5 × ULN.\n* 8）Women of childbearing age are required to have a negative pregnancy test at the screening period and to use a highly effective contraceptive method for 6 months from the screening period to the last dose. Male participants whose partners are women of childbearing age are required to use a highly effective contraceptive method for 6 months after the first dose of a trial product until the last dose.\n* 9）Patients are able to understand the steps of this trial, are willing to follow the clinical trial protocol to complete the trial, and sign the Informed Consent Form.\n\nExclusion Criteria:\n\n* 1）Patients who are allergic to the investigational drugs and their analogues, or excipients.\n* 2）Patients who had any other malignant tumors within 5 years before or at present, except those who had been completely cured, such as basal cell carcinoma, skin squamous cell carcinoma, melanoma in situ, papillary thyroid carcinoma and cervical carcinoma in situ, were excluded.\n* 3）CNS (central nervous system) or meningeal metastases are known, except for those with single brain metastases that are strictly controlled and asymptomatic.\n* 4）Patients with tumor liver metastasis exceeding 1/2 of the entire liver during screening; or there may be active hepatitis B (HBsAg test positive, HBV-DNA\\>500 IU/ml or research center detection limit \\[only when the research center limit is above 500 IU/ml\\]); Active hepatitis C (positive for hepatitis C virus (HCV) antibodies and HCV-RNA \\> research center detection limit).\n* 5） Human Immunodeficiency Virus test is positive.\n* 6）Patients with active, uncontrolled bacterial, viral, or fungal infection requiring current systemic anti-infective therapy.\n* 7） Patients who have a history of drug or alcohol abuse prior to screening.\n* 8）Patients with severe organic lesions or major organ failure, such as decompensated heart and lung failure, leading to intolerance to chemotherapy.\n* 9） Patients with bleeding tendency (e.g., presence of active ulcer lesions in stomach, melena and/or hematemesis within 3 months, hemoptysis).\n* 10） History of severe cardiovascular and cerebrovascular diseases, including but not limited to:\n\n  1. NYHA (New York Heart Association) class III or IV heart disease;\n  2. Uncontrollable hypertension (i.e. systolic blood pressure ≥ 160 mmHg, and/or diastolic blood pressure ≥ 100 mmHg)；\n  3. Severe cardiac rhythm or conduction abnormalities, such as ventricular arrhythmias requiring clinical intervention, II-III degree atrioventricular block, etc;\n  4. QT interval prolongation corrected for heart rate (corrected for QTc interval using Fridericia formula, males\\>450ms, females\\>470ms);\n  5. Individuals with significant abnormalities in electrocardiogram with clinical significance;\n  6. Acute coronary syndrome, congestive heart failure, stroke, or other grade 3 or higher cardiovascular events occurring within 6 months prior to the first administration;\n* 11） Clinically uncontrollable third space effusion, such as pleural effusion, pericardial effusion, peritoneal effusion, etc. If there were no clinical symptoms, small amounts of pleural effusion or ascites that did not require clinical intervention could be enrolled only after strict control.\n* 12） serious psychiatric disorders in the past or current.\n* 13）Organ transplant recipients.\n* 14）Use of the prohibited medications specified in the protocol is planned during the screening and treatment periods.\n* 15） Patients with a history of psychotropic drug abuse and unable to quit.\n* 16）Before screening, participants have participated in another clinical trial with an investigational nonbiologic agent (administered within the past 30 days or five half-lives, whichever was longer) or an investigational biologic agent (monoclonal or polyclonal antibody) (within the past 4 months or five half-lives, whichever is longer).\n* 17）Pregnant or lactating female patients.\n* 18）Participants who are judged by the investigator to be unable to follow trial procedures or who are judged by the investigator to be unfit to participate in the trial for other reasons.",
   "enrollment": 416,
   "has_results": false,

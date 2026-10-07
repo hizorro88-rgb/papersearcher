@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
+  "diagnosis",
   "treatment",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT07705919",
  "importance": 0.9,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 경계성 절제 가능 췌장암(borderline resectable pancreatic ductal adenocarcinoma)입니다.",
+  "목표 인원은 50명이며, 단계는 제1상/제2상(PHASE1/PHASE2) 임상시험입니다.",
+  "환자들은 표준 치료 전, 치료 중, 수술 전에 동적 조영증강 자기공명영상(DCE-MRI) 검사를 받습니다.",
+  "주요 목표는 DCE-MRI 정보와 R0 절제율 간의 연관성을 평가하는 것입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07705919"
  },
- "summary_ko": "This clinical trial tests how well dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) with standard clinical evaluation works to assess treatment response for patients with pancreatic cancer that may be able to be removed by surgery (borderline resectable). Borderline resectable pancreatic cancer (BRPC) is a certain type of pancreatic cancer that involves the arteries or veins near the pancreas.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 경계성 절제 가능 췌장암(borderline resectable pancreatic ductal adenocarcinoma) 환자를 대상으로 동적 조영증강 자기공명영상(DCE-MRI)과 표준 임상 평가를 병행하여 치료 반응을 얼마나 잘 평가할 수 있는지 확인합니다. 환자들은 치료 시작 전, 치료 시작 약 6주 후, 그리고 수술 전 1주일 이내에 DCE-MRI 검사를 받습니다. 연구의 목표 인원은 50명이며, 주요 평가지표는 DCE-MRI 정보 제공 여부와 완전 절제(R0 resection)율 간의 연관성 평가입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "DCE-MRI for Neoadjuvant Treatment Assessment in Patients With Borderline Resectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구",
  "trial": {
   "conditions": [
    "Borderline Resectable Pancreatic Ductal Adenocarcinoma"
@@ -61,7 +66,7 @@
     "phone": "800-293-5066"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 동의서 작성 및 개인정보 공개에 대한 승인 완료\n- 등록 당시 연령 18세 이상\n- 미국동부암연구그룹(ECOG) 수행능력 상태 0-2\n- 췌장 선암(pancreatic adenocarcinoma)의 조직학적 또는 세포학적 증거\n- NCCN 버전 2.2025 기준에 따른 경계성 절제 가능 원발성 종양\n- 고형암 반응평가기준(RECIST v1.1)에 따른 측정 가능한 병변 존재\n- 췌장암에 대한 이전 수술, 방사선 치료, 항암화학요법, 표적치료 또는 임상시험 치료를 받지 않은 환자\n- 절대중성구수(ANC) 1.5×10^9/L 이상, 혈소판 수 100,000/mm^3 이상, 혈색소(Hgb) 8 g/dL 이상\n- AST/ALT 정상 상한치의 3배 이하, 총 빌리루빈 정상 상한치의 2배 이하\n\n제외 기준:\n- 원격 전이의 증거\n- 조절되지 않는 유의미한 심혈관계 질환 또는 치료가 필요한 증상성 부정맥\n- 임신 중이거나 수유 중인 환자\n- 연구 약물 또는 부형제에 대한 알레르기나 과민반응 병력\n- 연구 절차를 준수할 의사가 없거나 준수할 수 없는 환자\n- 기저 세포암이나 상피내 자궁경부암 등을 제외하고, 최근 2년 이내에 치료 이력이 있는 다른 악성 종양 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent and Health Insurance Portability and Accountability Act (HIPAA) authorization for release of personal health information\n* Age ≥ 18 years at the time of consent\n* Patients have Eastern Cooperative Group (ECOG) performance status of 0-2\n* Histological or cytological evidence of pancreatic adenocarcinoma\n* Patients must have borderline resectable primary tumor per National Comprehensive Cancer Network (NCCN) definitions version 2.2025 based on contrast-enhanced CT or MRI (CT or MRI without contrast as part of positron emission tomography \\[PET\\]/CT or PET/MRI is NOT acceptable; CT or MRI with contrast as part of PET/CT or PET/MRI is acceptable) of the chest, abdomen, and pelvis, where borderline resectable is defined as all of the following:\n\n  * Solid tumor involvement of ≤ 180° with the celiac artery, common hepatic artery, and superior mesenteric artery (and, if present, replaced right hepatic artery).\n  * Solid tumor involvement of \\> 180° with the portal vein and/or superior mesenteric vein, and a patent portal vein/splenic vein confluence.\n  * Solid tumor contact with the inferior vena cava.\n  * Absence of metastatic disease\n* Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 for solid tumors within 28 days prior to registration\n* Patients must not have received prior surgery, radiation therapy, chemotherapy, targeted therapy, or any investigational therapy for pancreatic cancer\n* Absolute neutrophil count (ANC) ≥ 1.5×109/L (obtained within 28 days prior to registration)\n* Platelet count ≥ 100,000/mm3 (100 × 109/L) (obtained within 28 days prior to registration)\n* Hemoglobin (Hgb) ≥ 8 g/dL (obtained within 28 days prior to registration)\n* Aspartate transaminase (AST), serum glutamic-oxaloacetic transaminase (SGOT), alanine transaminase (ALT), serum glutamic-pyruvic transaminase (SGPT) ≤ 3 × upper limit of normal range (ULN) (obtained within 28 days prior to registration)\n* Total bilirubin ≤ 2 × ULN (obtained within 28 days prior to registration)\n* Females of childbearing potential must have a negative pregnancy test (serum or urine) within 3 days prior to registration\n* Females of childbearing potential must be willing to abstain from vaginal intercourse or use an effective method(s) of contraception from the time of informed consent, during the study, and for 6 months after the last dose of study drug(s). Males must be willing to abstain from vaginal intercourse or to use an effective method(s) of contraception from initiation of treatment, during the study, and for 3 months after the last dose of study drug(s)\n* As determined by the enrolling physician or protocol designee, the ability of the subject to understand and comply with study procedures for the entire length of the study\n* History of HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months of registration are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated. Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, the HCV viral load must be undetectable to be eligible for this trial\n* Co-enrollment on a non-interventional therapeutic trial is allowed. This includes observational trials and biomarker collection trials\n\nExclusion Criteria:\n\n* Evidence of distant metastasis\n* History of significant uncontrolled cardiovascular disease. Significant cardiac disease includes second/third degree heart block; significant ischemic heart disease; poorly controlled hypertension; congestive heart failure of the New York Heart Association (NYHA) Class II or worse (slight limitation of physical activity; comfortable at rest, but ordinary activity results in fatigue, palpitation, or dyspnea)\n* History of arrhythmia that is symptomatic or requires treatment. However, patients with atrial fibrillation or flutter controlled by medication are not excluded from participation in the trial\n* Patient with a history of allergy or hypersensitivity to any of the study drugs or any of their excipients\n* Pregnant or lactating\n\n  * NOTE: breast milk cannot be stored for future use while the mother is being treated in this study\n* Patient with any other concurrent severe and/or uncontrolled medical condition that would, in the investigators' judgment, cause unacceptable safety risks, contraindicate patient participation in the clinical study, or compromise compliance with the protocol (e.g., chronic active hepatitis, active untreated or uncontrolled fungal, bacterial, or viral infections, etc.)\n* No prior malignancy is allowed except for adequately treated basal (or squamous cell) skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free and treatment-free for at least two years\n* Patient who is unwilling or unable to comply with study procedures",
   "enrollment": 50,
   "has_results": false,

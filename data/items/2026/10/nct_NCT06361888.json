@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [
   "gem-nabp"
@@ -20,7 +20,12 @@
  ],
  "id": "nct:NCT06361888",
  "importance": 0.94,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 502명입니다.",
+  "대상 질환은 전이성 췌장암입니다.",
+  "중재 방법은 surufatinib, camrelizumab, nab-paclitaxel, gemcitabine 병용요법과 nab-paclitaxel, gemcitabine 대조군을 비교합니다.",
+  "연령 기준은 18세부터 75세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,13 +49,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06361888"
  },
- "summary_ko": "To evaluate the efficacy of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer\n\nThis is a multicenter, randomized, open-label, active-controlled, phase II/III trial to evaluate the efficacy and safety of surufatinib combined with camrelizumab, nab-paclitaxel, and gemcitabine versus nab-paclitaxel plus gemcitabine as the first-line treatment in metastatic pancreatic cancer",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 전이성 췌장암(metastatic pancreatic cancer) 환자 502명을 대상으로 1차 치료로서 surufatinib과 camrelizumab, nab-paclitaxel, gemcitabine 병용요법의 유효성과 안전성을 평가합니다. 대조군은 nab-paclitaxel과 gemcitabine 병용요법입니다. 다기관, 무작위배정, 공개, 활성 대조 방식으로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "First-line treatment in patients"
  ],
  "title": "A Phase II/III Trial to Evaluate the Efficacy and Safety of Surufatinib Combined With Camrelizumab, Nab-paclitaxel, and Gemcitabine in Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암에서 surufatinib, camrelizumab, nab-paclitaxel, gemcitabine 병용요법의 유효성과 안전성을 평가하는 2/3상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Cancer"
@@ -62,7 +67,7 @@
     "phone": "+86 21 20671828"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연구 과정을 완전히 이해하고 자발적으로 동의서에 서명한 환자\n- 연령 18세에서 75세 사이\n- 조직학적 또는 세포학적으로 확진된 췌장암\n- 4기 전이성 췌장암 환자\n- 전이성 췌장암 단계에서 이전 전신 1차 항종양 치료를 받지 않은 환자\n- RECIST 1.1 기준에 따라 최소 1개의 측정 가능한 병변이 있는 환자\n- ECOG(Eastern Cooperative Oncology Group) 수행 능력 평가 점수가 0 또는 1인 환자\n- 예상 생존 기간이 12주 이상인 환자\n\n제외 기준:\n- 첫 투여 전 2주 이내에 전신 비특이적 면역조절 치료를 받은 적이 있는 환자\n- 지난 5년 이내에 다른 악성 종양이 있었던 환자\n- 첫 투여 전 4주 이내에 주요 수술을 받은 환자\n- 첫 투여 전 1주 이내에 완화적 방사선 치료를 받았거나 4주 이내에 근치적 방사선 치료를 받은 환자\n- surufatinib, camrelizumab, nab-paclitaxel, gemcitabine 또는 그 성분에 알레르기가 있는 환자\n- 첫 투여 전 2주 또는 5반감기 중 긴 기간 이내에 강력한 CYP3A 유도제나 저해제를 투여받은 환자\n- 첫 투여 전 4주 이내에 면역억제제를 사용한 환자\n- 활동성 바이러스성 간염 감염, 기타 활동성 간염, 중등도 이상의 간경화를 포함한 임상적으로 유의미한 간 질환 병력이 있는 환자\n- 약물로 조절되지 않는 고혈압이 현재 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Fully understand and voluntarily sign an informed consent form, willing and able to follow the study process;\n2. Age range is 18-75 years old (inclusive);\n3. Pancreatic cancer confirmed by histology or cytology;\n4. Stage IV metastasis Pancreatic cancer patients;\n5. Have not received previous systematic first line anti-tumor treatment in the stage of metastatic pancreatic cancer;\n6. According to RECIST 1.1, there is at least one measurable lesion;\n7. Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1;\n8. Expected survival time ≥ 12 weeks;\n\nExclusion Criteria:\n\n1. Use of systematic non-specific immunomodulatory therapy within 2weeks prior to the first dose；\n2. Presence of other malignancies in the past 5 years;\n3. Received major surgical surgery within 4 weeks before the first dose;\n4. Received palliative radiotherapy within 1 week before the first dose; received radical radiotherapy within 4 weeks before the first dose;\n5. Any known allergy to surufatinib or its components, camrelizumab, nab-paclitaxel, or gemcitabine;\n6. Received strong-inducers or strong-inhibitors of cytochrome P450 (CYP) 3A within 2 weeks or 5 half-lives (whichever is longer) before the first dose;\n7. Use of immunosuppressive drugs within 4 weeks before first dose;\n8. Known history of clinically significant liver disease, including active viral hepatitis infection or other active hepatitis or clinically significant moderate to severe cirrhosis;\n9. Patients who currently have hypertension that cannot be controlled by medication;",
   "enrollment": 502,
   "has_results": false,

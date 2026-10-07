@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT05379985",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 754명이며, 현재 환자를 모집 중입니다.",
+  "대상 질환에는 췌장관선암(PDAC), 비소세포폐암(NSCLC), 대장암(CRC) 등이 포함됩니다.",
+  "RMC-6236은 RAS 변이를 가진 진행성 고형암 환자를 위한 경구용 치료제로 평가됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05379985"
  },
- "summary_ko": "Evaluate the safety and tolerability of RMC-6236 in adults with specific RAS mutant advanced solid tumors. This is a Phase 1/2, multicenter open-label study to evaluate the safety, tolerability, pharmacokinetics (PK), and clinical activity of escalating doses of RMC-6236 in adult patients with advanced solid tumors harboring specific RAS mutations, and to determine the maximum tolerated dose (MTD) and/or recommended phase 2 dose \\[RP2D\\] within investigated patient population groups.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 특정 RAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 신약 RMC-6236의 안전성과 내약성을 평가합니다. 1상 및 2상 다기관 공개 연구로 진행되며, 약동학(PK)과 임상적 활성을 평가하고 최대 허용 용량(MTD) 또는 권장 2상 용량(RP2D)을 결정합니다. RMC-6236은 경구 투여가 가능한 RAS-MULTI(ON) 억제제입니다. 목표 환자 수는 754명입니다.",
+ "summary_source": "llm",
  "tags": [
   "KRAS",
   "Non-small Cell Lung Cancer",
@@ -58,7 +62,7 @@
   "CRC"
  ],
  "title": "Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
- "title_ko": null,
+ "title_ko": "특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구",
  "trial": {
   "conditions": [
    "Non-small Cell Lung Cancer (NSCLC)",
@@ -73,7 +77,7 @@
     "phone": "1-844-273-8633"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- DNA 시퀀싱을 통해 확인된 특정 KRAS G12 변이 또는 RAS 변이가 있는 조직학적으로 확진된 진행성 고형암 (PDAC의 경우 RAS 야생형 포함).\n- 치료를 받은 적이 없거나 해당 암종 및 병기에 적절한 이전 표준 치료를 받은 경우.\n- 동유럽종양학협력그룹(ECOG) 수행 능력이 0 또는 1인 경우.\n- 적절한 장기 기능 보유.\n\n제외 기준:\n- 원발성 중추신경계(CNS) 종양.\n- 활성 상태이며 치료받지 않은 뇌 전이.\n- 경구 약물의 삼킴이나 흡수를 방해할 수 있는 알려지거나 의심되는 위장관 기능 장애.\n- 연구자의 판단에 따라 참가자의 안전을 위협하거나 예상 생존 기간에 영향을 미칠 수 있는 기타 불안정하거나 임상적으로 유의미한 동반 질환.",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed advanced solid tumor with specific KRAS G12 mutations (dose escalation) or RAS mutations (dose optimization/expansion) identified through deoxyribonucleic acid (DNA) sequencing. PDAC with wild-type RAS (expansion).\n* Treatment naive or have received prior standard therapy appropriate for tumor type and stage\n* Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Primary central nervous system (CNS) tumors\n* Active, untreated brain metastases\n* Known or suspected impairment of gastrointestinal function that may prohibit ability to swallow or absorb an oral medication\n* History of any other unstable or clinically significant concurrent medical condition that would, in the opinion of the investigator, jeopardize the safety of a participant, impact their expected survival through the end of the study participation, and/or impact their ability to comply with the protocol prior/concomitant therapy\n\nOther inclusion/exclusion criteria may apply.",
   "enrollment": 754,
   "has_results": false,

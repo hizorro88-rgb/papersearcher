@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase3",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06391892",
  "importance": 0.89,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 100명이며, 18세 이상 99세 이하의 국소성 췌장암 환자가 대상입니다.",
+  "선행수술이 권장된 환자 중 ctDNA 양성 여부에 따라 선행화학요법 또는 표준 치료(선행수술)를 비교 평가합니다.",
+  "주요 평가지표는 무병 생존기간(DFS)과 전체 생존기간(OS)입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06391892"
  },
- "summary_ko": "This study evaluates the clinical prognostic impact (on DFS and OS) of liquid biopsy guided treatment vs. standard of care (physicians choice) in localized pancreatic cancer (despite because of CA 19-9 levels and computed tomography, upfront surgery is recommended by tumor board).",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 국소성 췌장암(localized pancreatic cancer) 환자를 대상으로 액체생검을 통해 치료 방향을 결정하는 임상적 예후 영향을 평가합니다. 선행수술이 권장된 환자 중 순환종양 DNA(ctDNA) 양성 환자를 대상으로 표준 치료인 선행수술 대신 선행화학요법(neoadjuvant chemotherapy)을 시행하는 그룹과 비교합니다. 목표 인원은 100명이며, 무병 생존기간(DFS)과 전체 생존기간(OS)을 비교합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery",
- "title_ko": null,
+ "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA, ctDNA) 기반 치료: 선행화학요법 대 선행수술",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -66,7 +70,7 @@
     "phone": "+4373276774562"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연구 참여 동의서 작성\n- 18세 초과 연령\n- 선행수술이 예정된 국소성 췌장암 환자\n\n제외 기준:\n- 동시성 이차 악성종양(synchronous secondary malignancy)\n- 임신 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Informed consent\n* \\>18 years old\n* localized pancreatic cancer to go for upfront surgery\n\nExclusion Criteria:\n\n* synchronous secondary malignancy\n* pregnancy",
   "enrollment": 100,
   "has_results": false,

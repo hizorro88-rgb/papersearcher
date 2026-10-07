@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT07383922",
  "importance": 0.86,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 524명이며 다기관, 무작위배정, 이중맹검, 위약 대조 3상 임상시험으로 진행됩니다.",
+  "중재 치료는 FG-M108과 nab-paclitaxel, gemcitabine 병용입니다.",
+  "주요 평가지표는 전체 생존기간(OS)이며, 안전성, 내약성, 약동학, 면역원성, 삶의 질도 함께 평가합니다.",
+  "초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,15 +50,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07383922"
  },
- "summary_ko": "Pancreatic cancer, which stands as one of the most lethal malignancies and a leading cause of cancer-related deaths globally, poses a significant challenge to human health worldwide. However, standard chemotherapeutic regimens show limited effectiveness in advanced pancreatic cancer, creating an urgent demand to investigate and develop novel therapeutic targets and combination treatment strategies.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 클라우딘18.2(Claudin18.2) 양성이며 절제 불가능한 국소 진행성 또는 전이성 췌장관암종(pancreatic ductal adenocarcinoma) 환자 524명을 대상으로 진행됩니다. 1차 치료로서 FG-M108과 nab-paclitaxel(납파클리탁셀) 및 gemcitabine(젬시타빈) 병용 요법의 효과와 안전성을 평가합니다. 대조군은 위약과 납파클리탁셀 및 젬시타빈 병용 요법을 투여받습니다. 주요 평가지표는 전체 생존기간(OS)입니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
   "First-line treatment",
   "Claudin18.2"
  ],
  "title": "A Study of FG-M108+Chemotherapy vs Placebo+Chemotherapy in Claudin18.2-positive Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "클라우딘18.2(Claudin18.2) 양성 췌장암 환자에서 FG-M108 및 화학요법 대 위약 및 화학요법 비교 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -65,7 +70,7 @@
     "phone": "010-60709130"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 연구에 자발적으로 동의하고 모든 절차를 준수할 수 있는 자\n* 연령 18세에서 80세 사이, 성별 무관\n* 조직학적 또는 세포학적으로 확진된 절제 불가능한 국소 진행성 또는 전이성 췌장관암종으로 이전 전신 치료력이 없는 자 (단, 보조/선행보조 화학요법을 받은 경우 마지막 치료부터 재발까지 6개월 초과)\n* 중앙 실험실 검사에서 종양 조직의 CLDN18.2 양성(≥2+ 강도로 막 염색된 종양 세포가 40% 이상)이 확인된 자\n* 미국동부암연구협력그룹(ECOG) 수행능력 평가 점수 0-1점\n* RECIST 1.1 기준에 따른 측정 가능한 종양 병변이 최소 1개 이상인 자\n* 예상 생존기간이 3개월 이상인 자\n* 심장, 골수, 간, 신장 기능이 충분한 자\n\n제외 기준:\n* 무작위배정 전 4주 이내에 생백신을 접종받은 자\n* 무작위배정 전 2주 이내에 방사선 치료를 받은 자\n* 무작위배정 전 4주 이내 또는 항종양 약물의 반감기 5배 이내에 다른 항종양 약물 치료를 받은 자\n* 무작위배정 전 4주 이내에 대수술을 받은 자\n* 무작위배정 전 4주 이내에 임상시험용 의약품 치료를 받은 자\n* 이전에 CLDN18.2를 표적으로 하는 치료(단일클론항체, 이중특이항체, CAR-T, ADC 등)를 받은 적이 있는 자\n* 무작위배정 전 3년 이내에 다른 악성종양 병력이 있는 자\n* 중추신경계 전이 및/또는 암성 수막염 병력이 있는 자\n* 이전 치료로 인한 이상 반응이 무작위배정 전 CTCAE v5.0 기준 1등급 이하로 회복되지 않은 자(탈모 및 빈혈 제외)\n* 무작위배정 전 6개월 이내에 임상적으로 유의한 심혈관 또는 뇌혈관 질환이 있는 자\n* 연구자가 판단하기에 조절되지 않는 전신 질환(당뇨병, 고혈압, 폐섬유증, 간질성 폐질환 등)이 있는 자\n* 연구자가 명백한 활동성 위장관 출혈이 있다고 판단하는 자\n* C형간염 또는 만성 활동성 B형간염 병력이 있는 자\n* 무작위배정 전 14일 이내에 코르티코스테로이드 전신 치료(프레드니손 10 mg/초과 또는 유사 약물의 동등 용량) 또는 기타 면역억제제가 필요한 자\n* 연구 및 추적 관찰 절차를 준수할 수 없는 기타 심리적, 지리적, 의학적 상태가 있는 자\n* 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Voluntarily sign the informed consent form, understand the study, are willing to comply with and have the ability to complete all trial procedures;\n* Age 18-80 years (inclusive), any gender;\n* Histologically or cytologically confirmed unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma, without prior systemic therapy; or for subjects who have received prior neoadjuvant/adjuvant chemotherapy, the time from the last treatment to disease recurrence is \\>6 months;\n* Able to provide archived or fresh pathological tissue for CLDN18.2 testing, with central laboratory testing confirming tumor tissue CLDN18.2 positive (defined as ≥40% of tumor cells with CLDN18.2 membrane staining ≥2+ by central laboratory IHC);\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1;\n* Have at least one measurable tumor lesion according to RECIST 1.1 criteria;\n* Expected survival ≥3 months;\n* Adequate cardiac, bone marrow, liver, renal function;\n\nExclusion Criteria:\n\n* Have received a live vaccine within 4 weeks prior to randomization;\n* Have received radiotherapy within 2 weeks prior to randomization;\n* Have received other anti-tumor drug therapy within 4 weeks or within 5 half-lives of the anti-tumor drug prior to randomization;\n* Have undergone major surgery within 4 weeks prior to randomization;\n* Have received any clinical study drug treatment within 4 weeks prior to randomization;\n* Have previously received any treatment targeting CLDN18.2, such as CLDN18.2 monoclonal/bispecific antibodies, CLDN18.2 CAR-T, or CLDN18.2 ADC;\n* Have a history of other (non-study tumor) malignancies within 3 years prior to randomization;\n* Have a history of central nervous system metastases and/or carcinomatous meningitis;\n* Have adverse reactions from prior treatments that have not recovered to CTCAE v5.0 Grade ≤1 (excluding alopecia and anemia) prior to randomization;\n* Have had clinically significant cardiovascular or cerebrovascular diseases within 6 months prior to randomization;\n* Have uncontrolled systemic diseases assessed by the investigator, including diabetes, hypertension, pulmonary fibrosis, interstitial lung disease, etc.;\n* The investigator judges the subject to have obvious active gastrointestinal bleeding;\n* Known history of Hepatitis C or chronic active Hepatitis B;\n* Require systemic treatment with corticosteroids (dose \\>10 mg/day prednisone or equivalent dose of similar drugs) or other immunosuppressants within ≤14 days prior to randomization;\n* Any other condition of the subject (e.g., psychological, geographical, or medical condition) that does not permit compliance with the study and follow-up procedures;\n* Are pregnant or breastfeeding;",
   "enrollment": 524,
   "has_results": false,

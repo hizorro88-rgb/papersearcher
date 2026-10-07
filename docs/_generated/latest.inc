@@ -12,14 +12,20 @@ Cancer is a condition where cells in a specific part of the body grow and reprod
 
 ---
 <a id="nct-nct07491445"></a>
-#### [Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma](https://clinicaltrials.gov/study/NCT07491445)
+#### [전이성 췌장관선암 환자의 1차 치료로서 daraxonrasib 단독 및 daraxonrasib과 GnP 병용요법에 대한 3상 임상시험](https://clinicaltrials.gov/study/NCT07491445)
+<small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
+
 `임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
 
-The purpose of this study is to evaluate the safety and efficacy of an investigational RAS(ON) inhibitor administered as monotherapy or in combination with chemotherapy, compared with standard of care (SOC) chemotherapy alone. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with daraxonrasib monotherapy or daraxonrasib plus gemcitabine and nab-paclitaxel will improve progression-free survival and/or overall survival compared with standard gemcitabin…
+이 연구는 전이성 췌장암 환자를 대상으로 새로운 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 효과와 안전성을 평가하는 3상 임상시험입니다. 1차 치료로서 daraxonrasib 단독요법 또는 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-파클리탁셀)과의 병용요법을 표준 항암치료와 비교합니다. 총 900명의 환자를 세 군으로 무작위 배정하여 무진행 생존기간(PFS)과 전체 생존기간(OS)의 개선 여부를 확인합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
+- 전이성 췌장선암 환자 900명을 대상으로 진행되는 글로벌 3상 임상시험입니다.
+- daraxonrasib 단독, daraxonrasib+gemcitabine+nab-paclitaxel 병용, 표준 gemcitabine+nab-paclitaxel의 세 치료군을 비교합니다.
+- 국내 6개 기관이 참여하고 있으며, RAS 변이 여부와 무관하게 등록이 가능합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
 ---
 <a id="nct-nct06593431"></a>
@@ -40,30 +46,49 @@ EXPAND 임상시험은 원격 전이 병변이 1~5개로 제한된 소수 전이
 
 ---
 <a id="pmid-42837079"></a>
-#### [Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas](https://pubmed.ncbi.nlm.nih.gov/42837079/)
-`논문` `가이드라인` `치료 전반` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.93
+#### [파골세포 유사 거대세포를 동반하거나 동반하지 않은 췌장 미분화암의 임상적 특성 및 생존 결과](https://pubmed.ncbi.nlm.nih.gov/42837079/)
+<small>Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas</small>
 
-Undifferentiated carcinoma of the pancreas (UCP) are extremely rare entities and there is currently no standardized treatment guideline for it, with its characteristics and prognosis remaining unclear. UCP with osteoclast-like giant cells (OGCs) and without OGCs represent two different pathological types of pancreatic ductal adenocarcinoma.
+`논문` `가이드라인` `치료 전반` `기초연구` · 2026-10-06 · PubMed · Updates Surg · 중요도 0.93
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
+이 연구는 SEER 데이터베이스를 활용해 파골세포 유사 거대세포(OGC)가 있는 췌장 미분화암(UCOGCP) 환자와 없는 환자(non-UCOGCP)의 임상적 특성과 예후를 비교했습니다. 총 210명의 환자가 후향적으로 포함되었습니다. UCOGCP 환자군은 non-UCOGCP 환자군에 비해 더 나은 전체 생존기간(OS)을 보였습니다. 두 그룹 모두에서 수술적 절제는 생존율 향상과 연관된 독립적인 예후 요인이었습니다.
+
+- 총 210명의 환자가 연구에 포함되었습니다.
+- 파골세포 유사 거대세포를 동반한 췌장 미분화암(UCOGCP) 환자의 중앙 전체 생존기간(OS)은 11개월이었습니다.
+- 파골세포 유사 거대세포가 없는 췌장 미분화암(non-UCOGCP) 환자의 중앙 전체 생존기간(OS)은 2개월이었습니다.
+- 수술적 절제는 두 환자군 모두에서 생존에 영향을 미치는 독립적인 예후 요인이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
 <a id="pmid-42827581"></a>
-#### [NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42827581/)
-`논문` `메타분석` `치료 전반` `신약·치료제` `수술` `임상시험` · 2026-09-18 · PubMed · Front Oncol · 중요도 0.88
+#### [NALIRIFOX와 FOLFIRINOX의 비교: 절제 불가능하거나 전이성인 췌장관암종(PDAC)의 1차 치료에 대한 효과 및 안전성 재구성 개별 환자 데이터 메타분석](https://pubmed.ncbi.nlm.nih.gov/42827581/)
+<small>NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma</small>
 
-BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal human malignancies, with a 5-year overall survival rate below 10%. NALIRIFOX and FOLFIRINOX, both in full-dose and modified (mFOLFIRINOX) formulations, are guideline-endorsed Category 1 first-line regimens for fit patients with metastatic PDAC.
+`논문` `메타분석` `신약·치료제` `치료 전반` `수술` `임상시험` · 2026-09-18 · PubMed · Front Oncol · 중요도 0.88
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+이 연구는 절제 불가능하거나 전이성인 췌장관암종(PDAC) 환자의 1차 치료로 사용되는 NALIRIFOX와 FOLFIRINOX(또는 mFOLFIRINOX)의 효과와 안전성을 비교하기 위한 체계적 문헌고찰 및 메타분석입니다. 총 9개의 연구에서 2,733명의 환자 데이터를 재구성하여 분석을 진행했습니다. 분석 결과, NALIRIFOX와 FOLFIRINOX 간의 전체 생존기간(OS)이나 무진행 생존기간(PFS)에서 통계적으로 유의미한 차이는 관찰되지 않았습니다. 다만 두 요법은 서로 다른 독성 프로파일을 보여, FOLFIRINOX는 혈액학적 독성이 더 컸고 NALIRIFOX는 3/4등급 설사와 저칼륨혈증이 더 높았습니다.
+
+- 전체 9개 연구의 2,733명 환자를 분석한 결과, 전체 중앙값 전체 생존기간(mOS)은 12.38개월이었습니다.
+- 요법별 mOS는 FOLFIRINOX 10.98개월, mFOLFIRINOX 14.09개월, NALIRIFOX 11.81개월이었습니다.
+- NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).
+- FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
 
 ---
 <a id="pmid-42832136"></a>
-#### [ASO Visual Abstract: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/42832136/)
-`논문` `메타분석` `진단·조기발견` `제약사·규제` · 2026-10-05 · PubMed · Ann Surg Oncol · 중요도 0.85
+#### [ASO 시각 초록: 절제된 췌장관상피암에서의 액체 생검: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42832136/)
+<small>ASO Visual Abstract: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-analysis</small>
 
-원문을 확인하세요.
+`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-05 · PubMed · Ann Surg Oncol · 중요도 0.85
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · 초록 발췌 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
+이 논문은 절제된 췌장관상피암(Resected Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 한 액체 생검(Liquid Biopsy)에 관한 체계적 문헌고찰 및 메타분석입니다. 어떤 환자에게 어떤 방법이 적용되었는지에 대한 구체적인 내용은 초록에 명시되지 않았습니다. 연구 결과의 구체적인 수치나 효과 역시 초록에 명시되지 않았습니다.
+
+- 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
+- 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
 
 ---
 <a id="pmid-42827323"></a>

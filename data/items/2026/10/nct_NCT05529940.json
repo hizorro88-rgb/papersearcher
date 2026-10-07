@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
+  "drug",
   "treatment",
-  "drug"
+  "surgery"
  ],
  "entities": [
   "folfirinox"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT05529940",
  "importance": 0.94,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 609명이며, 국내 기관 2곳이 참여합니다.",
+  "시험군은 수술 전 mFOLFIRINOX 6주기, 수술, 수술 후 mFOLFIRINOX 6주기를 받습니다.",
+  "대조군은 수술 후 mFOLFIRINOX 12주기를 받습니다.",
+  "주요 평가변수는 치료 의도 분석에 따른 2년 전체 생존율입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05529940"
  },
- "summary_ko": "Rationale: Adjuvant chemotherapy after surgery significantly improved the survival of PC patients, but there is a problem that only about 50% of patients start adjuvant chemotherapy after pancreatectomy. Neoadjuvant chemotherapy might control potential metastatic lesion which are not being detected in early diseases status and improve the R0 resection rate.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 절제 가능한(resectable) 췌장암 환자를 대상으로 수술 전 보조항암화학요법(neoadjuvant chemotherapy)과 수술 후 보조항암화학요법을 병행하는 치료가 수술 후 보조항암화학요법만 시행하는 것보다 전체 생존율(overall survival)을 향상시키는지 평가합니다. 목표 환자 수는 609명이며 다기관, 공개, 무작위 배정 3상 임상시험으로 진행됩니다. 주요 평가변수는 치료 의도 분석(intention-to-treat)에 따른 2년 전체 생존율입니다. 서울대학교병원을 비롯한 국내 기관들이 참여하고 있습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "NeoFOL-R Trial (Perioperative Versus Adjuvnat FOLFIRINOX in Resectable Pancreatic Cancer)",
- "title_ko": null,
+ "title_ko": "절제 가능한 췌장암 환자에서 수술 전후 mFOLFIRINOX 치료를 평가하는 NeoFOL-R 임상시험",
  "trial": {
   "conditions": [
    "Resectable Pancreatic Cancer",
@@ -68,7 +73,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 19세 이상 80세 이하의 연령 - ECOG 수행능력 평가 0~1점 - 조직학적 검사로 진단된 췌장관선암(pancreatic ductal adenocarcinoma) - 수술 전 영상 검사에서 절제 가능(resectable)으로 평가된 환자 - 원격 전이가 없는 환자 - 충분한 골수, 간, 신장 기능을 가진 환자. 제외 기준: - 수술 전 영상 검사에서 경계성 절제 가능(borderline resectable) 또는 국소 진행성(locally advanced) 췌장암으로 평가된 환자 - 이전 췌장 수술 이력이 있는 환자 - 췌장암에 대한 이전 항암화학요법 또는 방사선 치료 이력이 있는 환자 - 원격 전이 또는 재발성 췌장암 환자 - 인접 장기의 복합 절단이 필요한 췌장 체부 또는 미부암 환자 - 다른 장기 악성종양 진단 후 5년 이내인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n\\- A. Age: 19 to 80 years old B. Patients with a score of 0 - 1 (ECOG) when selecting a study subject C. Pancreatic ductal adenocarcinoma diagnosed by histological examination (histologic or cytopathological) D. Patients evaluated as resectable pancreatic cancer in preoperative imaging as follows (NCCN guidelines for pancreatic adenocarcinoma version 2.2021)\n\n* No arterial tumor contact (celiac asix, superior mesenteric artery, or common hepatic artery).\n* No tumor contact with the superior mesenteric vein or portal vein or ≤ 180°contact without vein contour irregularity.\n\nE. No distant metastases on preoperative imaging F. Patients with adequate organ function\n\n1. Bone marrow function: WBC 3,000/mm3 or more or ANC 1,500/mm3 or more, platelet ≥ 100K/mm3\n2. Liver function: Bilirubin ≤ 3 x upper normal limit (≤5.0 mg/dL), AST/ALT ≤ 5 x upper normal limit (\\<200 IU/L)\n3. Renal function (Cr clearance ≥ 60 mL/min) or (Cr \\< 1.5 x upper normal limit) G. Persons physically capable of undergoing surgery H. Those who consented to the clinical trial I. Women of childbearing potential must have a negative serum pregnancy test within one week before starting the intervention drug. Men and women of childbearing potential must use effective contraception from screening through six months after the last dose.\n\nExclusion Criteria:\n\n\\- Patients who met any of the following criteria are not eligible to participate in this study.\n\nA. Those evaluated as borderline resectable or locally advanced pancreatic cancer in preoperative imaging examination (The resectability assessment depends on the presence of major vessel invasion, while invasion of adjacent organs is excluded from the criteria) B. Patients with a history of previous pancreatic surgery C. Patients with a history of previous chemotherapy or radiation therapy for pancreatic cancer D. Patients with distant metastases or recurrent pancreatic cancer E. Pancreatic body or tail cancer requiring combined resection of adjacent organs (stomach or kidney) (except for the adrenal gland) F. Patients within five years of diagnosis of other organ malignancies (with the exception of adequately treated non-melanoma skin cancer and carcinoma in situ without evidence of disease) G. Pregnant and lactating women H. Serious concomitant systemic disorders, including active or ongoing systemic infections, symptomatic congestive heart failure, unstable angina, clinically significant cardiac arrhythmias, psychiatric disorders, or uncontrolled comorbid conditions that may limit compliance with study requirements, or any medical condition that, at the discretion of the investigator, could compromise patient safety, interfere with the assessment of safety and efficacy, or hinder participation in the clinical trial.",
   "enrollment": 609,
   "has_results": false,
