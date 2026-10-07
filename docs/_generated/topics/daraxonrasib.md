@@ -20,9 +20,9 @@ comments: true
 |---|---|---|---|
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 Zoldonrasib 및 Daraxonrasib 병용요법 대 Gemcit…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 1차 치료로서 daraxonrasib 단독 및 daraxonrasib과 GnP 병용요법에 대한 3상…](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
-| [Study of RMC-5127 in Patients With Advanced KRAS G12V-Mutant Solid Tu…](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
+| [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [절제된 췌장관암(PDAC) 환자를 대상으로 daraxonrasib(다락소나십)을 평가하는 임상시험](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
-| [Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Co…](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [PDAC 및 NSCLC 환자에서 TNG462 병용 투여의 안전성, 내인성, 효능을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
 ## 타임라인 (3)

@@ -19,23 +19,23 @@ comments: true
 | [젬시타빈 기반 전신 화학요법 실패 후 전이성 췌장암 환자에서 YL201과 표준 화학요법의 효능 및 안전성을 비교하는 임상시험](../trials/NCT07803783.md) | 3상 | 모집 예정 | - |
 | [Efficacy and Safety of Serplulimab in Combination With Bevacizumab an…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [Neoadjuvant HRS-4642 Plus Chemotherapy With or Without Immunotherapy…](../trials/NCT07691593.md) | 2상 | 모집 예정 | - |
-| [NALIRIFOX+Adebrelimab+PULSAR for Advanced Pancreatic Cancer](../trials/NCT07595172.md) | 1상/2상 | 모집 중 | - |
-| [Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresecta…](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
-| [Hepatic Arterial Infusion of Sodium Bicarbonate (NaHCO3) Combined Wit…](../trials/NCT07504471.md) | 2상 | 모집 중 | - |
+| [진행성 췌장암 환자를 위한 NALIRIFOX, adebrelimab, PULSAR 병용 요법 임상시험](../trials/NCT07595172.md) | 1상/2상 | 모집 중 | - |
+| [경계성 절제 가능 또는 절제 불능 췌장암 환자를 대상으로 한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
+| [췌장암 간 전이 환자를 위한 탄산수소나트륨, NASOX 요법 및 PD-1 억제제의 간동맥 주입술](../trials/NCT07504471.md) | 2상 | 모집 중 | - |
 | [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
-| [AG Followed by FOLFIRINOX Both Combined With PD-L1 Antibodies as a Co…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
+| [경계성 절제 가능 및 국소 진행성 췌장암에서 PD-L1 항체와 결합된 AG 및 FOLFIRINOX 순차 치료의 전환 치료 임…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
 | [전이성 췌장관선암의 1차 치료로서 NALIRIFOX와 GnP의 월별 교대 요법](../trials/NCT07163273.md) | 2상 | 모집 중 | - |
-| [Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisp…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
+| [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·냡-파클리탁셀·시스플라틴(mGAP) 비교 임상시험](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [Intraperitoneal Paclitaxel With NALIRIFOX for Pancreatic Ductal Adeno…](../trials/NCT07030283.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 췌장관암 환자 대상 수술 전 NALIRIFOX 요법, Nectar 임상시험](../trials/NCT06821997.md) | 2상 | 모집 중 | - |
-| [Perioperative NALIRIFOX (liposomal Irinotecan in Combination with Flu…](../trials/NCT06816914.md) | 2상 | 모집 중 | - |
+| [절제 가능한 췌장 선암 환자에서의 수술 전후 NALIRIFOX (리포조말 이리노테칸, 플루오로우라실, 류코보린, 옥살리플라틴…](../trials/NCT06816914.md) | 2상 | 모집 중 | - |
 | [Liposomal Irinotecan + Oxaliplatin + Bevacizumab Versus Liposomal Iri…](../trials/NCT06782685.md) | 1상/2상 | 모집 중 | - |
-| [NALIRIFOX Combined With PD-1 Sequential Radiotherapy Versus NALIRIFOX…](../trials/NCT06669078.md) | 2상 | 모집 예정 | - |
+| [국소 진행성 췌장암 전환 치료(conversion therapy)로서의 NALIRIFOX 및 PD-1 억제제 순차적 방사선…](../trials/NCT06669078.md) | 2상 | 모집 예정 | - |
 | [췌장암 수술 후 보조 요법으로서 리포조말 이리노테칸+옥살리플라틴+S-1 병용 요법 대 젬시타빈+카페시타빈 병용 요법의 비교](../trials/NCT06571461.md) | 3상 | 모집 예정 | - |
-| [Irinotecan Liposome，Albumin Paclitaxel and Gemcitabine First-line Tre…](../trials/NCT06513455.md) | 1상/2상 | 모집 예정 | - |
-| [Basal-like PDAC Treated With Gemcitabine, Erlotinib, and Nab-paclitax…](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
+| [진행성 췌장암 환자 1차 치료로서의 리포조말 이리노테칸, 알부민 팩리탁셀, 젬시타빈 병용 요법](../trials/NCT06513455.md) | 1상/2상 | 모집 예정 | - |
+| [젬시타빈, 엘로티닙, 냅-파클리탁셀로 치료하는 기저형 췌장관암](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
 | [HR070803 in Combination With Oxaliplatin, S-1 Versus NALIRIFOX as Adj…](../trials/NCT06383078.md) | 2상 | 모집 예정 | - |
-| [Stereotactic Body Radiation Therapy Followed by NALIRIFOX vs NALIRIFO…](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
+| [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료 후 NALIRIFOX 요법 대 NALIRIFOX 요법 비교 임상시험](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
 | [수술 불가 췌장암 환자에서 Sintilimab, 항암화학요법, 방사선치료의 병용 연구](../trials/NCT06050317.md) | 2상 | 모집 중 | - |
 | [진행성 췌장암 환자에서 1차 치료로서 항암화학요법과 병용한 AK104 연구](../trials/NCT05859750.md) | 2상 | 모집 중 | - |
 | [진행성 위장관암 환자를 위한 단독 또는 병용 요법으로서의 Spevatamig (PT886) 임상 1/2상 연구 (TWINPE…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |

@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "surgery"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06825546",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 이전에 치료받은 적이 없는 국소 진행성 또는 전이성 췌장관선암입니다.",
+  "중재 방법은 Icaritin과 AG 화학요법(gemcitabine 포함)의 병용이며, 대조군은 AG 단독 요법입니다.",
+  "목표 환자 수는 총 70명이며, 연령은 18세에서 80세 사이입니다.",
+  "임상시험 단계는 2상(PHASE2)이며 현재 환자 모집 중(RECRUITING)입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06825546"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 이전에 전신 치료를 받은 적이 없는 진행성 췌장관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 Icaritin 연질캡슐과 AG 항암화학요법(gemcitabine 포함)을 병용하는 치료의 효과와 안전성을 평가합니다. Icaritin은 면역 미세환경을 조절하여 항암 효과를 내며 기존 표준 치료에 비해 안전성이 우수한 것으로 알려져 있습니다. 이번 2상 임상시험은 AG 단독 요법과 Icaritin 병용 요법의 우수성을 비교하여 향후 대규모 임상시험의 기반을 마련하고자 합니다. 목표 환자 수는 70명이며 현재 환자를 모집 중입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Icaritin in Combination With AG in Patients With Previously Untreated Advanced Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "이전에 치료받지 않은 진행성 췌장관선암 환자에서 Icaritin과 AG 병용요법의 효과",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Ductal Adenocarcinoma"
@@ -59,7 +64,7 @@
     "phone": "13588457667"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18세에서 80세 사이의 환자\n- 다기관에서 조직학적 또는 세포학적으로 확진된 췌장관선암(PDAC)\n- 2024 CSCO 췌장암 진료 지침에 따른 국소 진행성 또는 전이성 PDAC\n- 이전에 전신 치료를 받은 적이 없는 환자\n- RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n- 동유럽종양협력그룹(ECOG) 수행능력 상태 0 또는 1\n- 기대 여명이 최소 3개월 이상인 환자\n- 적절한 장기 기능을 가진 환자\n\n제외 기준:\n- 신경내분비종양 또는 췌장선방세포암\n- 중등도 이상의 복수가 있는 환자\n- 치료받지 않은 활성 중추신경계 또는 수막 전이\n- 표적치료, 면역치료, 항암화학요법 등 이전의 전신 치료 경험이 있는 환자\n- 첫 번째 임상 시험 치료 전 4주 이내에 수술을 받았거나 수술 후 완전히 회복되지 않은 환자\n- 첫 임상 치료 전 3개월 이내에 방사선 치료를 받은 이력이 있는 환자\n- 지난 2년 이내에 다른 암 진단 이력이 있는 환자\n- 임상시험용 약물의 활성 성분에 심각한 알레르기 반응이 있는 환자\n- 임신 또는 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. 18-80 years old (including the cutoff value).\n2. patients with histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC) disease from multiple centers including Sir Run Run Shaw Hospital, Zhejiang University School of Medicine (group lead unit).\n3. locally advanced or metastatic PDAC according to the 2024 CSCO Guidelines for the Management of Pancreatic Cancer.\n4. no prior systemic therapy.\n5. presence of measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n6. Eastern Cooperative Oncology Group PS 0 or 1.\n7. have a life expectancy of at least 3 months.\n8. adequate organ function (absolute neutrophil count ≥1.5×109/L; Platelet count ≥100×109/L; Creatinine \\<1.5×ULN (upper limit of normal) or creatinine clearance (CRCI) ≥60 ml/min; Albumin ≥30g/L; Total bilirubin \\<5×ULN; Aspartate aminotransferase (AST) \\<2.5×ULN; Alanine aminotransferase (ALT) \\<2.5×ULN (≤5×ULN is acceptable if liver metastasis is present); INR or PT \\< 1.5×ULN, APTT \\< 1.5×ULN.\n9. in a fertile woman, a negative serum pregnancy test within 7 days before the first trial treatment;\n10. willingness to use a highly effective contraceptive method (failure rate \\< 1.0% per year) from the first study treatment until 24 weeks after completion of the trial treatment, if the woman is fertile or the male participant's partner is fertile.\n11. no other serious underlying medical conditions.\n12. voluntarily participated in this study and signed informed consent. If the subjects were unable to read and sign the informed consent form due to incapacity or other reasons, their guardians were required to act for them during the informed consent process and sign the informed consent form. If the subjects were unable to read the informed consent form (e.g., illiterate subjects), witnesses were required to witness the informed consent process and sign the informed consent.\n\nExclusion Criteria:\n\n1. neuroendocrine (carcinoid, islet cell) or pancreatic acinar carcinoma.\n2. Patients had moderate to severe ascites (ascites was defined by B-ultrasound).\n3. untreated active central nervous system or meningeal metastases.\n4. Previous systemic therapies such as targeted therapy, immunotherapy, chemotherapy, and modern Chinese medicine with anti-tumor indications or other treatments such as surgery and particle implantation have been used to treat pancreatic cancer.\n5. surgery for any reason (other than diagnostic biopsy), within 4 weeks after the first trial treatment, and/or the subject did not fully recover from surgery within 4 weeks after the first trial treatment.\n6. history of RT within 3 months of the first dose of trial treatment. No more than 30% bone marrow irradiation or large field irradiation should be used in the 4 weeks before the first trial treatment.\n7. patients with a history of other cancers within the past 2 years.\n8. major cardiovascular impairment in the 12 months before the first dose of study drug: such as a history of congestive heart failure higher than NYHA class II, unstable angina, myocardial infarction, or stroke due to cerebrovascular accident, or arrhythmia associated with hemodynamic instability; The corrected QT (QTc) interval was prolonged \\>480ms.\n9. with bleeding or thrombotic diseases or receiving thrombolytic therapy, and coagulopathy; Patients who were deemed by the investigator to be ineligible for participation in the study.\n10. clinically significant hemoptysis or tumor bleeding of any cause within 2 weeks before the first dose of study intervention.\n11. patients with a history of uncontrolled epilepsy, central nervous system disease, or psychiatric illness, or hypertension The investigator will determine whether clinical severity prevents informed consent from being signed or affects patient adherence to oral medication.\n12. had active autoimmune disease requiring systemic therapy within the previous 2 years.\n13. may have other comorbidities that are relatively contraindicated in this trial.\n14. had a severe allergic reaction to the active ingredient of the trial drug.\n15. were pregnant or lactating, or were unwilling to plan pregnancy during the trial.\n16. any other medical condition that the investigator considered to interfere with the requirements of the trial in terms of safety or efficacy assessment or adherence to treatment.\n17. vulnerable groups except the elderly/illiterate, including people with mental illness, cognitive impairment, critically ill patients, pregnant women, etc.",
   "enrollment": 70,
   "has_results": false,

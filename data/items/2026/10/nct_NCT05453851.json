@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "surgery",
-  "supportive",
-  "diagnosis"
+  "treatment",
+  "supportive"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT05453851",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 12명이며, 1/2상 임상시험 단계로 진행됩니다.",
+  "만성 췌장염 및 양성 췌장 종양(benign pancreatic neoplasms) 환자를 대상으로 합니다.",
+  "치료 후 2년 동안 환자를 추적 관찰합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05453851"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 1/2상 임상시험은 장기적인 췌장 염증(만성 췌장염) 및 비암성 췌장 종양이 있는 환자를 대상으로 췌장 전절제술과 자가 도도세포 이식술(islet cell autotransplantation)의 안전성과 유효성을 평가합니다. 췌장을 완전히 제거하면 당뇨병이 발생할 수 있으므로, 환자의 췌장에서 세포를 추출하여 간에 주입하는 이식술을 함께 시행합니다. 본 연구는 양성 췌장 종양이 동반된 만성 췌장염 환자에서 이 치료법의 종양학적 안전성을 확인하는 것을 주된 목적으로 합니다. 목표 인원은 12명이며 환자는 수술 후 2년 동안 추적 관찰을 받습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Surgical Procedure (Total Pancreatectomy) With a Transplant Procedure (Islet Cell Autotransplantation) for the Treatment of Chronic Pancreatitis and Benign Pancreatic Tumors",
- "title_ko": null,
+ "title_ko": "만성 췌장염 및 양성 췌장 종양이 있는 환자를 위한 췌장 전절제술 및 자가 도도세포 이식술",
  "trial": {
   "conditions": [
    "Benign Pancreatic Neoplasm",
@@ -61,7 +65,7 @@
     "phone": "503-494-4373"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인 환자\n* 적절한 도도세포 기능을 보유한 환자(비당뇨병 또는 C-peptide 양성)\n* 만성 췌장염 관련 통증으로 췌장 전체 절제술 적응증에 해당하는 환자\n* ECOG 수행 상태 0-1 이하\n* 기대 여명이 2년 이상인 환자\n\n제외 기준:\n* 이전에 동종 또는 자가 도도세포 이식을 받은 적이 있는 환자\n* 간 질환이 있는 환자(단, 간장학적 평가 후 저위험으로 판단된 경우는 예외)\n* 치료되지 않은 췌장 외 악성 종양 환자\n* 이식 전 악성으로 진단된 췌장 신생물 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participant or legally authorized representative (LAR) must provide written informed consent before any study-specific procedures or interventions are performed\n* Age\\>= 18 years. Both men and women and members of all races and ethnic groups will be included. Gender-nonconforming and gender-fluid individuals as members of the general population will also be included\n* Participants must have adequate islet cell function (non-diabetic or C-peptide positive)\n* Participants must be indicated for total surgical resection of the pancreas for chronic pancreatitis-associated pain meeting eligibility criteria for TPIAT per University of Minnesota Criteria as defined by all of the following\n\n  * Chronic abdominal pain of \\> 6-month duration with at least one of the following:\n\n    * Pancreatic calcification on computed tomography (CT) scan\n    * At least two of the following:\n\n      * Definite of suggestive diagnosis of chronic pancreatitis on endoscopic ultrasound\n      * Ductal or parenchymal abnormalities compatible with chronic pancreatitis on secretin magnetic resonance cholangiopancreatography\n      * Abnormal endoscopic pancreatic function tests (peak HCO2 \\< 80mM)\n    * Histopathology confirmed diagnosis of chronic pancreatitis\n    * Compatible clinical history and documented hereditary pancreatitis gene mutation OR\n    * History of recurrent acute pancreatitis (more than one episode of characteristic pain associated with imaging diagnostic of acute pancreatitis and/or elevated serum amylase or lipase \\> 3 times upper limit of normal\n  * At least one of the following:\n\n    * Daily narcotic dependence\n    * Pain resulting in impaired quality of life, which may include: inability to attend school, recurrent hospitalizations, or inability to participate in usual, age-appropriate activities.\n  * Complete evaluation with no reversible cause of pancreatitis present or untreated\n  * Failure to respond to maximal medical and endoscopic therapy\n* If clinical, radiologic, or biochemical evidence suggestive of cirrhosis or metabolic syndrome (defined in exclusion criteria), the participant has undergone hepatology evaluation and been exonerated of a cirrhosis diagnosis or otherwise deemed to be at low hepatic risk from IAT\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1\n* Life expectancy of greater than 2 years\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with a prior or active non-pancreatic malignancy are eligible for this trial\n* Invasive abdominal surgical procedures such as pancreatectomy have the known potential to cause pregnancy loss. For this reason, persons of reproductive potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to undergoing pancreatectomy and IAT. Should a participant become pregnant or suspect a pregnancy prior to planned pancreatectomy and IAT, the participant should inform their treating physician immediately\n\nExclusion Criteria:\n\n* Prior allogenic or autologous islet cell transplantation\n* Underlying liver disease, unless participant has undergone hepatology consultation to evaluate hepatic risk from IAT and been deemed low-risk, including:\n\n  * Cirrhosis, defined by either\n\n    * Pathologic diagnosis of cirrhosis OR\n    * Diagnosis of cirrhosis by hepatology following evaluation prompted by clinical, radiographic, or biochemical evidence of cirrhosis\n  * Hepatic steatosis as defined by pathologic examination of the liver or liver magnetic resonance imaging in the absence of pathologic evidence\n* Use of any systemically absorbed steroid (e.g., prednisone but not budesonide) within the prior month\n* Untreated malignancy of a non-pancreatic primary\n* Cytology or biopsy of a pancreatic neoplasm diagnostic for malignancy prior to the time of IAT\n* A pancreatic neoplasm deemed to be at high risk for harboring occult malignancy as assessed by the multi-disciplinary pancreas tumor board and multi-disciplinary chronic pancreatitis conference after comprehensive evaluation of relevant clinical, radiographic, pathologic, and serologic data. Features of high-risk neoplasms include the following, however the below items are not to be taken as absolute contraindications to TPIAT:\n\n  * Obstructive jaundice in a patient with a pancreatic cystic neoplasm in the head of the pancreas\n  * Enhancing mural nodule of any size\n  * Main pancreatic duct \\>= 5mm\n  * Acute pancreatitis with cystic lesion as the only potentially identifiable cause\n  * Cyst \\>= 3cm, if lesion is a mucinous neoplasm\n  * Thickened/enhancing cyst walls\n  * Abrupt change in caliber of pancreatic duct with distal pancreatic atrophy on imaging\n  * Celiac/portal lymphadenopathy\n  * Serum CA19-9 above the institutional upper limit of normal\n  * Pancreatic cyst growth rate \\>= 5mm every 2 years\n  * Cytology suspicious for malignancy\n  * Clinical suspicion for main duct involvement based on imaging\n* Evidence of metabolic syndrome, as defined by any 3 of the below features, unless the participant has undergone hepatology consultation to evaluate hepatic risk from IAT and been deemed low-risk:\n\n  * Waist circumference more than 40 inches in men and 35 inches in women\n  * Elevated triglycerides 150 milligrams per deciliter of blood (mg/dL) or greater\n  * Reduced high-density lipoprotein cholesterol (HDL) less than 40 mg/dL in men or less than 50 mg/dL in women\n  * Elevated fasting glucose of 100 mg/dL or greater\n  * Blood pressure values of systolic 130 mmHg or higher and/or diastolic 85 mmHg or higher\n* Multifocal or large pancreatic neoplasms such that an insufficient volume of remnant pancreas would remain for the patient to benefit from IAT following resection of the neoplasms in the opinion of the multi-disciplinary chronic pancreatitis board\n* History of allergic reaction to human albumin preparations\n* Demonstrated medical non-compliance\n* Patient unsafe to undergo the required pancreatectomy procedure in the opinion of the attending surgeon and/or anesthesiologist\n* Patients deemed not suitable for the IAT follow-up protocol by any member of the multi-disciplinary IAT care team\n* Any alcohol or tobacco use within 6 months of study enrollment\n* Financial, logistic, or insurance constraints preventing adequate and timely pre-operative evaluation, case scheduling, or post-operative monitoring/follow-up\n* Pregnant individuals are excluded from this study because invasive abdominal surgical procedures such as pancreatectomy have the known potential to cause pregnancy loss",
   "enrollment": 12,
   "has_results": false,

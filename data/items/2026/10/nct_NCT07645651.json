@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07645651",
  "importance": 0.79,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 15명이며, 18세 이상의 성인 국소 췌장암 환자가 대상입니다.",
+  "환자들은 samuraciclib를 경구로 1일 1회 14일 동안 투여받습니다.",
+  "이 연구는 초록에 명시되지 않음 결과(효능 및 안전성 수치 초록에 미기재)를 평가하기 위한 1상 임상시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07645651"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 국소 췌장암 환자를 대상으로 samuraciclib의 안전성과 효능을 평가하기 위한 단일 기관, 단일군, 공개 1상 임상시험입니다. 사이클린 의존성 키네이스 7 억제제(cyclin dependent kinase 7 inhibitor, CDK7)인 samuraciclib가 췌장 종양 세포의 세포 기능을 변화시키는지 평가합니다. 환자들은 진단 후, 그리고 항암화학요법이나 수술을 시작하기 전에 samuraciclib를 경구로 1일 1회 14일간 복용합니다. 목표 인원은 15명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Samuraciclib for the Treatment of Patients With Resectable, Borderline Resectable, or Locally Advanced Basal Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "절제 가능, 경계성 절제 가능 또는 국소 진행성 기저형 췌장암 환자를 위한 samuraciclib 임상시험",
  "trial": {
   "conditions": [
    "Resectable Pancreatic Ductal Adenocarcinoma",
@@ -61,7 +65,7 @@
     "phone": "206-606-5864"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 기저형 췌장암(기저형 종양은 GATA6- 및 HMGA2+로 정의)\n- 영상 검사로 확인된 절제 가능, 경계성 절제 가능, 또는 국소 진행성 췌장관선암종(pancreatic ductal adenocarcinoma, PDA)\n- 전이성 질환의 증거가 없음\n- 18세 이상\n- 동의서 서면 작성 능력 및 의지 있음\n- 3개월 이내 수집된 보관 생검 표본이 있거나 스크리닝 중 EUS/FNB 시행 가능\n- 동유럽협력종양학그룹(ECOG) 수행 상태 0-1\n- 호중구 절대 수치(ANC) ≥ 1,500/mcL, 혈소판 ≥ 100,000/mcL, 혈색소 ≥ 9 g/dL\n- Cockcroft-Gault 공식에 따른 크레아티닌 청소율 ≥ 50 ml/min\n- AST 및 ALT ≤ 2.5X ULN, 총 빌리루빈 ≤ 1.5X ULN\n- 임신 또는 수유 중이 아니며 피임법 준수 가능\n- 바이러스 수치가 검출되지 않는 효과적인 항레트로바이러스 치료를 받는 HIV 감염 환자 참여 가능\n\n제외 기준:\n- 이전 방사선 치료 이력\n- 경구 약물 복용 불가능\n- 다른 임상시험용 약물 투여 중\n- 안전성이나 효능에 영향을 미칠 수 있는 약물 상호작용 또는 중복 독성이 있는 병용 약물 사용\n- 조절되지 않거나 동반된 질병(활동성 감염, 울혈성 심부전, 심실 부정맥 등)\n- samuraciclib의 적절한 흡수를 방해하는 난치성 메스꺼움, 구토, 만성 위장관 질환\n- 조절되지 않는 발작, 활동성 출혈 소인\n- 알려진 활동성 B형 또는 C형 간염 감염\n- 최초 연구 약물 투여 전 14일 이내 전신 코르티코스테로이드 투여\n- 최초 연구 약물 투여 전 21일 이내 세인트존스워트(St. John's Wort) 또는 CYP3A4, CYP2C19, CYP2D6, P-glycoprotein의 강한 억제제/유도제 복용\n- samuraciclib 또는 부형제에 대한 과민반응",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically proven basal pancreatic adenocarcinoma. Histologies other than adenocarcinoma, or any mixed histologies, will NOT be eligible.\n\n  * Basal tumors are defined as GATA6- and HMGA2+. Tumor cores are considered positive for GATA6 or HMGA2 if greater than 10% of tumor epithelial cells had positive nuclei\n* Resectable, borderline resectable, or locally advanced pancreatic ductal adenocarcinoma (PDA) at diagnosis based on contrast-enhanced CT or magnetic resonance imaging (MRI) (CT or MRI without contrast as part of positron emission tomography (PET)/CT or PET/MRI is NOT acceptable; CT or MRI with contrast as part PET/CT or PET/MRI is acceptable) of the chest, abdomen, and pelvis. The institutional radiologist must review the scans. Resectable, borderline resectable, and locally advanced will be defined by National Comprehensive Cancer Network (NCCN) guidelines version 2.2025.\n\n  * There must be no evidence of metastatic disease\n* Must be 18 years or older\n* Ability to understand and willingness to sign a written informed consent document\n* Archival biopsy specimen collected within 3 months must be available. If not available, a diagnostic EUS/FNB will be performed during screening\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Absolute neutrophil count (ANC) ≥ 1,500/mcL (within 14 days prior to study drug)\n* Platelets ≥ 100,000/mcL (within 14 days prior to study drug)\n* Hemoglobin ≥ 9 g/dL (within 14 days prior to study drug)\n* Creatinine clearance ≥ 50 ml/min by Cockcroft-Gault\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) both ≤ 2.5X ULN (within 14 days prior to study drug)\n* Total bilirubin ≤ 1.5X ULN (within 14 days prior to study drug)\n* Participants must not be pregnant or nursing. Women of childbearing potential (WOCBP) must have a negative urine pregnancy test within 72 hours of treatment initiation, where WOCBP are defined as all female participants between 18 - 55 years of age. Participants of child-bearing potential must be willing to employ two highly effective and acceptable forms of contraception for up to 6 months after the final administered dose of investigational agent. A woman is considered to be of reproductive potential if she has had menses at any time in the preceding 12 consecutive months\n* HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n\nExclusion Criteria:\n\n* Prior radiation\n* Unable to tolerate oral medication, per assessment of the principal investigator (PI)\n* Participants who are receiving other investigational agents\n* Concomitant mediation use should only exclude patients from trial participation when clinically relevant known or predicted drug-drug interactions or potential overlapping toxicities will impact safety or efficacy\n* Uncontrolled or concurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Refractory nausea and vomiting, chronic gastrointestinal diseases or previous significant bowel resection with clinically significant sequelae that precluded adequate absorption of samuraciclib\n* Uncontrolled seizures\n* Active infection\n* Active bleeding diatheses\n* Known active hepatitis B or hepatitis C infection\n* Breastfeeding or pregnancy\n* Receipt of systemic corticosteroids within 14 days before the first dose of study medication\n* Receipt of St. John's Wort within 21 days before the first dose of study medication or of another concomitant medication, herbal supplement, or food that was a strong inhibitor or inducer of CYP3A4, CYP2C19, CYP2D6, or P-glycoprotein activity within 21 days before the first dose of samuraciclib\n* Known hypersensitivity to samuraciclib or any excipient of the product",
   "enrollment": 15,
   "has_results": false,

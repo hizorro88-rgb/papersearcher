@@ -20,7 +20,12 @@
  ],
  "id": "nct:NCT07504471",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "임상시험 단계: 제2상(phase2), 환자 모집 중(RECRUITING)",
+  "목표 인원: 50명",
+  "중재 치료: pH-NASOX-Immune 그룹 (탄산수소나트륨 간동맥 주입, NASOX 요법, PD-1 억제제, S-1 병용)",
+  "평가 항목: 전체 생존기간(Overall Survival)"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07504471"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 제2상(phase2) 임상시험은 췌장암 간 전이 환자를 대상으로 새로운 병용 요법의 안전성과 유효성을 평가합니다. 연구진은 탄산수소나트륨(Sodium Bicarbonate)으로 종양 미세환경을 중화하고, NASOX 항암화학요법(Oxaliplatin 및 Liposomal Irinotecan), 간동맥 PD-1 억제제 면역치료, 그리고 경구용 S-1을 함께 투여합니다. 주요 목표는 이 통합 치료 접근법이 기존 표준 치료에 비해 전체 생존기간(OS)을 개선할 수 있는지 확인하는 것입니다. 목표 환자 수는 50명이며 현재 환자를 모집 중입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Hepatic Arterial Infusion of Sodium Bicarbonate (NaHCO3) Combined With NASOX Regimen and Programmed Death-1 (PD-1) Inhibitors for Pancreatic Cancer Liver Metastases",
- "title_ko": null,
+ "title_ko": "췌장암 간 전이 환자를 위한 탄산수소나트륨, NASOX 요법 및 PD-1 억제제의 간동맥 주입술",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasms",
@@ -66,7 +71,7 @@
     "phone": "15121013042"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 18세 이상이며 성별 제한이 없습니다.\n* 췌장관 상피세포에서 기원한 병리학적으로 확진된 췌장암이며 간 전이가 있는 환자입니다.\n* 미국동부암연구협력그룹(ECOG) 활동도 점수가 0에서 2 사이입니다.\n* 장기 기능이 적절하며, 혈액학적, 생화학적, 심장 기능 검사 기준을 충족합니다.\n* 수술, 방사선치료, 화학요법 또는 기타 항암 치료 후 최소 3주가 경과했으며 독성이 1등급 이하로 회복되었거나 안정화되었습니다.\n* 임상시험 참여에 동의하고 동의서에 서명했습니다.\n* 순응도가 좋고 생존 추적 관찰에 협조하기로 동의했습니다.\n\n제외 기준:\n* 임상적 처치가 필요한 복수가 있는 환자 (중등도 내지 대량의 복수 포함; 배액 후 4주 이상 안정된 상태여야 함)\n* 임상적으로 심각한 위장관 질환이 있는 환자 (출혈, 감염성 염증, 천공, 폐쇄, 또는 1등급 초과의 설사)\n* 진통제로 표준 치료를 한 후에도 NRS 통증 점수가 4 이상인 환자\n* 5년 이내의 두 번째 원발성 악성 종양 환자 (완치된 상피내암, 기저세포암, 편평세포 피부암 제외)\n* 임상 증상이 있는 조절되지 않는 심혈관 또는 뇌혈관 질환이 있는 환자\n* 활성 B형 간염 환자 (HBsAg 양성 및 HBV DNA ≥ 10³ copies 또는 ≥ 1000 U/ml)\n* 스크리닝 기간 또는 투여 당일에 활성 감염 또는 원인 불명의 발열(> 38.5°C)이 있는 환자\n* 임산부 또는 수유 중인 여성\n* 가임기 여성으로 스크리닝 기간 혈중(소변) 임신 검사에서 양성이 나온 환자\n* 연구자가 판단할 때 임상시험 참여나 결과 해석에 영향을 미칠 수 있는 기타 의학적 또는 사회적 문제가 있는 환자\n* 예상 생존 시간이 3개월 이하인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 18 years and above, with no gender restrictions;\n* Pathologically confirmed pancreatic cancer (originating from the pancreatic ductal epithelium), with metastasis to the liver;\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 2;\n* Adequate organ function, meeting the following criteria:\n\n  a. Hematological tests:\n  1. Neutrophils ≥ 1.5 × 10⁹ /L;\n  2. White blood cells ≥ 3.0 × 10⁹ /L;\n  3. Platelets ≥ 85 × 10⁹ /L;\n  4. Hemoglobin ≥ 70 g/L; b. Biochemical tests:\n\n  <!-- -->\n\n  1. Total bilirubin ≤ 2× upper limit of normal (ULN) (for subjects with biliary obstruction, after biliary drainage ≤ 2.5 × ULN);\n  2. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) in metastatic subjects ≤ 5 × ULN;\n  3. Albumin level ≥ 28 g/L;\n  4. Creatinine clearance rate ≥ 60 ml/min; c. Cardiac function tests:\n\n  <!-- -->\n\n  1. Normal electrocardiogram (ECG) or ECG abnormalities deemed clinically insignificant by the investigator;\n  2. Left ventricular ejection fraction (LVEF) ≥ lower limit of normal;\n* At least 3 weeks post-surgery, radiotherapy, chemotherapy, or other anti-tumor treatments, with general physical condition or related adverse reactions having recovered (toxicity ≤ grade 1) or stabilized;\n* Willing to participate and sign the informed consent form;\n* Good compliance and agreement to cooperate with survival follow-up.\n\nExclusion Criteria:\n\n* Subjects with ascites requiring clinical intervention (including moderate to large amounts of ascites; subjects with ascites need to be stable for more than 4 weeks after drainage);\n* Clinically severe gastrointestinal diseases (including bleeding, infectious inflammation, perforation, obstruction, or diarrhea greater than grade 1);\n* NRS pain score ≥ 4 after standardized treatment with analgesics;\n* Second primary malignancy within 5 years (except cured carcinoma in situ, basal cell, or squamous cell skin cancer; subjects with other previous tumors can be enrolled if there has been no recurrence within 5 years);\n* Uncontrolled cardiovascular or cerebrovascular diseases with clinical symptoms, including but not limited to: ① NYHA class III or higher heart failure; ② unstable angina; ③ myocardial infarction or stroke within 6 months; ④ supraventricular or ventricular arrhythmias requiring treatment or intervention; ⑤ uncontrolled hypertension (systolic blood pressure \\&gt; 150 mmHg and/or diastolic blood pressure \\&gt; 90 mmHg despite optimal treatment);\n* Known active hepatitis B subjects (HBsAg positive and HBV DNA ≥ 10³ copies or ≥ 1000 U/ml);\n* Active infection or unexplained fever \\&gt; 38.5°C during the screening period or on the day of administration (subjects with fever caused by tumors can be enrolled as judged by the investigator), which, in the investigator\\&#39;s judgment, would affect the subject\\&#39;s participation in this trial or interfere with the evaluation of efficacy;\n* Pregnant or breastfeeding women;\n* Women of childbearing potential with a positive blood (urine) pregnancy test during the screening period (both male and female subjects should use reliable contraception during the trial and for 3 months after the last dose to prevent pregnancy);\n* Subjects with other medical or social issues that, in the investigator\\&#39;s judgment, might affect their ability to sign informed consent, participation in the trial, or interpretation of the trial results;\n* Patients with an estimated survival time of ≤ 3 months are not included in this study.",
   "enrollment": 50,
   "has_results": false,

@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT07561463",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 30명이며, 국소 진행성 또는 전이성 췌관선암(PDAC) 환자를 대상으로 합니다.",
+  "중재 약물은 sacituzumab tirumotecan이며 2주마다 정맥 주사로 투여됩니다.",
+  "주요 평가변수는 객관적 반응률(ORR)입니다.",
+  "이차 평가변수에는 무진행 생존기간(PFS), 전체 생존기간(OS), 질병 조절률(DCR) 등이 포함됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07561463"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌관선암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 sacituzumab tirumotecan 단독 요법의 유효성과 안전성을 평가하기 위한 다기관, 전향적, 공개 제2상 임상시험입니다. 이전 1차 이상의 전신 치료에 실패한 환자 30명을 목표로 모집합니다. 주요 평가변수는 객관적 반응률(ORR)이며, 이차 평가변수에는 무진행 생존기간(PFS), 전체 생존기간(OS), 질병 조절률(DCR), 반응 지속기간(DOR), 그리고 치료 관련 이상반응(TRAEs) 발생률이 포함됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Sacituzumab Tirumotecan for Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 환자 대상 sacituzumab tirumotecan 제2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -57,7 +63,7 @@
     "phone": "010-13681015148"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 자발적 서면 동의를 제공한 환자\n- 동의서 서명 시점 기준 연령 18세 이상\n- 조직학적 또는 세포학적으로 확진된 췌관선암(선방상피암종 포함)\n- 국소 진행성 또는 전이성 췌장암에 대해 적어도 한 가지 이상의 이전 전신 치료에 실패하거나 질병이 진행된 환자\n- RECIST 1.1 기준에 따라 측정 가능한 표적 병변이 최소 1개 이상 있는 환자\n- ECOG 수행 능력 점수 0-2인 환자\n- 적절한 장기 및 골수 기능을 가진 환자\n\n제외 기준:\n- 중추신경계 전이 병력이 있거나 현재 있는 환자\n- 치료받지 않았거나 불안정한 척수 압박이 있는 환자\n- 위장관 또는 복강 내 출혈 위험이 높은 환자\n- TROP2 표적 약물 또는 항체-약물 접합체(ADC) 치료 이력이 있는 환자\n- 첫 투여 전 2주 이내에 강력한 CYP3A4 저해제 또는 유도제가 필요한 환자\n- 중증 안구건조증, 마이봄선 질환 또는 각막 치유를 저해할 수 있는 기타 각막 질환 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Voluntary participation with written informed consent provided\n2. Age ≥18 years at the time of signing the informed consent form\n3. Histologically or cytologically confirmed pancreatic ductal adenocarcinoma (including adenosquamous carcinoma)\n4. Failure of or disease progression after at least one prior line of systemic therapy for locally advanced or metastatic pancreatic cancer\n5. At least one measurable target lesion at baseline per RECIST 1.1 criteria (a single measurable lesion must not have received prior radiotherapy, or must have demonstrated clear progression after radiotherapy)\n6. ECOG performance status score of 0-2\n7. Adequate organ and bone marrow function (including hematologic, hepatic, renal, and coagulation parameters meeting specified criteria)\n8. Subjects of childbearing potential must use highly effective contraception, and female subjects must have a negative pregnancy test\n9. Ability and willingness to comply with study-related procedures.\n\nExclusion Criteria:\n\n1. History of or current presence of central nervous system metastases\n2. Presence of untreated or unstable spinal cord compression\n3. High risk of gastrointestinal or intra-abdominal bleeding\n4. Prior treatment with TROP2-targeted agents or antibody-drug conjugates (ADCs)\n5. Requirement for strong CYP3A4 inhibitors or inducers within 2 weeks prior to the first dose, or inability to avoid their use during the study\n6. History of severe dry eye syndrome, meibomian gland disease, or other corneal disorders that may impair corneal healing\n7. Major surgery within 28 days prior to the first dose (excluding palliative procedures), or receipt of curative radiotherapy within 3 months\n8. Presence of other malignancies within 3 years prior to the first treatment (except for certain definitively treated cancers)\n9. Uncontrolled severe systemic diseases such as cardiovascular or cerebrovascular disease, diabetes mellitus, or hypertension\n10. History of interstitial lung disease or non-infectious pneumonitis, or current related lesions\n11. Presence of severe underlying pulmonary disease, autoimmune disease, or prior total pneumonectomy\n12. Active chronic inflammatory bowel disease, gastrointestinal obstruction, or other severe gastrointestinal disorders\n13. Tumor invasion of critical organs or vessels with associated symptoms, or risk of fistula formation\n14. Toxicities from prior antitumor therapy not recovered to ≤ Grade 1 (except for low-risk toxicities)\n15. Active hepatitis B, hepatitis C, HIV infection, or active syphilis\n16. Known allergy to the investigational drug or its components, or history of severe hypersensitivity to other biologic agents\n17. Severe infection within 4 weeks prior to dosing, or active infection requiring systemic therapy within 2 weeks\n18. Receipt of non-specific immunomodulatory therapy or antitumor traditional Chinese medicine within 2 weeks prior to dosing\n19. Receipt of live vaccines within 30 days prior to dosing or planned during the study period\n20. Pregnant or breastfeeding women, or individuals of childbearing potential who are not using highly effective contraception as required\n21. Individuals considered vulnerable populations (e.g., patients with psychiatric disorders or critically ill patients), or any other condition deemed unsuitable for enrollment by the investigator.",
   "enrollment": 30,
   "has_results": false,

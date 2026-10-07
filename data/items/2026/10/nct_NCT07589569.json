@@ -17,7 +17,12 @@
  ],
  "id": "nct:NCT07589569",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 KRAS G12C 변이가 있는 국소 진행성 절제불능, 재발성 절제불능 또는 전이성 췌장암입니다.",
+  "중재 치료는 KRAS G12C 선택적 억제제인 HRS-7058입니다.",
+  "목표 환자 수는 총 92명입니다.",
+  "초록에 생존기간이나 반응률 등의 결과 수치는 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07589569"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 1~2차 전신 치료에 실패한 KRAS G12C 변이 진행성 췌장암 환자를 대상으로 KRAS G12C 선택적 억제제인 HRS-7058의 효능과 안전성을 평가하기 위한 공개, 다기관, 단일군 2상 임상시험입니다. 목표 환자 수는 92명이며 연령은 18세에서 75세까지입니다. 초록에 세부적인 유효성 및 안전성 결과 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "An Open-label, Multicenter, Phase II Clinical Study to Evaluate HRS-7058 in Patients With Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 환자 대상 HRS-7058 평가를 위한 공개 다기관 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -62,7 +67,7 @@
     "phone": "+0518-81220121"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 연구 참여 전 동의서 작성, 2. 만 18세~75세, 3. 세포학적 또는 조직병리학적으로 확진된 국소 진행성 절제불능, 재발성 절제불능 또는 전이성 췌장암 선암종, 4. 최소 1차 이상의 이전 전신 치료 경험, 5. RECIST v1.1 기준에 따른 최소 1개의 측정 가능한 병변, 6. ECOG 수행 능력 점수 0 또는 1, 7. 예상 생존 기간 3개월 초과, 8. 경구 약물 복용 및 순응 가능, 9. 적절한 골수 및 장기 기능, 10. 피임 지침 준수. 제외 기준: 1. 치료받지 않았거나 활성 상태인 중추신경계(CNS) 전이 등, 2. 전신 마취 경험, 3. 심근경색 또는 불안정형 협심증 병력, 4. 방실차단 또는 심부전, 5. 허혈성 뇌졸중 또는 일과성 허혈발작 병력, 6. 약물 복용 후에도 조절되지 않는 고혈압, 7. 응고 기능 이상, 8. 정신질환 및 뇌전증 병력, 9. 기도 관리 곤란 병력, 10. 약물 남용 병력, 11. 무작위 배정 전 아드레날린 수용체 작용제 또는 길항제 투여, 12. 실험실 검사 이상 수치, 13. 갑상선 기능 이상, 14. 약물 성분에 대한 알레르기, 15. 임신부 또는 수유부, 16. 지정된 기간 내 피임 거부, 17. 다른 약물의 임상시험 참여, 18. 연구자가 부적절하다고 판단한 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Informed consent was obtained from all participants before participating in the study.\n2. Age from 18 to 75 years old (including both ends), regardless of gender;\n3. Patients with locally advanced unresectable, recurrent unresectable or metastatic pancreatic cancer, and adenocarcinoma confirmed by cytology or histological pathology;\n4. Participants had received at least one previous systemic therapy\n5. At least one measurable lesion according to RECIST v1.1;\n6. ECOG PS score 0 or 1;\n7. The expected survival time was more than 3 months.\n8. They were able to swallow medications and were able to adhere to trial and follow-up procedures.\n9. Adequate bone marrow and organ function within 7 days before the first dose (no use of blood components and/or cell growth factors within 14 days before starting study treatment;\n10. Women of childbearing potential had to agree to abstain from sexual intercourse (heterosexual intercourse) or to use a highly effective method of contraception from the time they provided informed consent until 30 days after the last dose of the trial drug. A blood test for human chorionic gonadotropin (HCG) had to be negative within 7 days before starting study treatment and she had to be nonlactating (if a serum pregnancy test was positive, pregnancy was ruled out and enrollment was confirmed after discussion with the sponsor). Men whose partner was a woman of childbearing potential had to agree to abstain from sex or to use a highly effective method of contraception from the time they provided written informed consent until 30 days after the last dose of the trial drug. Male patients also had to agree not to donate sperm during the same period\n\nExclusion Criteria:\n\n1. Presence of untreated or active central nervous system (CNS) metastases. Participants with a history of leptomeningeal metastasis or current leptomeningeal metastasis, brainstem metastasis, spinal cord metastasis, and/or spinal cord compression.\n2. Subjects who had received general anesthesia\n3. Subjects with a history of myocardial infarction or unstable angina pectoris\n4. Subjects with atrioventricular block or cardiac insufficiency\n5. Subjects with a history of ischemic stroke or transient ischemic attack\n6. Subjects with poor blood pressure control after medication\n7. Subjects with abnormal clotting function\n8. Subjects with a history of mental illness and a history of cognitive impairment epilepsy\n9. Subjects with a history or possibility of a difficult airway\n10. Subject with a history of substance abuse and drug abuse\n11. Adrenoceptor agonists or antagonists were used before randomization\n12. Abnormal values in the laboratory\n13. Thyroid dysfunction\n14. Allergic to a drug ingredient or component\n15. Pregnant or nursing women\n16. No birth control during the specified period of time\n17. Participated in clinical trials of other drugs (received experimental drugs)\n18. The inestigators determined that other conditions were inappropriate for participation in this clinical trial",
   "enrollment": 92,
   "has_results": false,

@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "surgery"
  ],
@@ -20,7 +21,11 @@
  ],
  "id": "nct:NCT06141031",
  "importance": 0.79,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 췌장암(pancreatic cancer)이며 경계성 절제 가능 또는 국소 진행성 환자가 참여합니다.",
+  "중재 방법은 TTI-101 투여와 정위체부방사선치료(SBRT)의 병용입니다.",
+  "목표 인원은 총 24명이며 1상(Phase 1) 단계의 연구입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,14 +49,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06141031"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 경계성 절제 가능 또는 국소 진행성 췌장암(pancreatic ductal adenocarcinoma) 환자를 대상으로 신약 TTI-101과 정위체부방사선치료(Stereotactic body radiation therapy, SBRT)를 병용하여 안전성과 무진행 생존기간(PFS)을 평가하는 1상(Phase 1) 임상시험입니다. 전임상 연구에서 STAT3 억제제가 방사선치료의 면역 반응 효과를 높이고 부작용을 줄이는 시너지 효과가 확인되어 본 연구가 기획되었습니다. 목표 환자 수는 24명이며 워싱턴 대학교 의과대학(Washington University School of Medicine)에서 진행합니다.",
+ "summary_source": "llm",
  "tags": [
   "borderline resectable",
   "locally advanced"
  ],
  "title": "Radiotherapy in Combination With TTI-101 in Borderline Resectable and Locally Advanced Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 및 국소 진행성 췌장암에서 TTI-101과 방사선치료 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -63,7 +68,7 @@
     "phone": "314-273-3240"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - NCCN 가이드라인에 따른 경계성 절제 가능 또는 국소 진행성 췌장암으로 병리학적 확진을 받은 자. - 만 18세 이상. - ECOG 수행능력 상태 0~2 이하. - 적절한 골수 및 장기 기능을 충족하는 자. - 알약 삼키기가 가능하고 연구용 TTI-101 치료에 적합하다고 판단된 자. 제외 기준: - 최근 2년 이내 췌장암 치료 이력 (현재 진단을 위해 받은 유도 항암화학요법 제외). - 안전성 또는 유효성 평가에 방해될 수 있는 이전 또는 동시 악성종양. - 연구 시작 전 3개월 이내 다른 임상시험용 약물이나 기기 사용 이력. - TTI-101 또는 유사 성분에 대한 알레르기 반응 이력. - 조절되지 않는 동반 질환, 심각한 심장 기능 저하, 활동성 감염 등.",
   "eligibility_text": "Inclusion Criteria:\n\n* Pathologically confirmed pancreatic adenocarcinoma that is borderline resectable or locally advanced as defined by NCCN guidelines, with no expected arterial resection/reconstruction.\n* Patients who are borderline resectable must have completed standard of care induction chemotherapy between 1 and 3 weeks prior to planned start of TTI-101 + SBRT. Patients who exceed this window may be considered for enrollment if they complete an additional cycle of induction chemotherapy prior to initiation of study treatment (per provider discretion). The receipt and/or amount of induction chemotherapy cycles allowed will be left to the discretion of the treating medical oncologist. There is no timing restriction or chemotherapy receipt for patients with locally advanced disease.\n* At least 18 years of age.\n* ECOG performance status ≤ 2\n* Adequate bone marrow and organ function as defined below:\n\n  * Absolute neutrophil count ≥ 1.0 K/cumm\n  * Platelets ≥ 70 K/cumm\n  * Hemoglobin ≥ 9.0 g/dL (patients may be transfused to meet this criterion)\n  * Total bilirubin ≤ 2 mg/dL\n  * AST(SGOT)/ALT(SGPT) ≤ 3.0 x IULN\n  * Serum albumin ≥ 2.8 g/dL\n  * Ionized calcium ≤ 1.5 mmol/L, calcium ≤ 12 mg/dL, or corrected serum calcium ≤ IULN)\n  * Measured creatinine clearance \\> 40 mL/min or calculated creatinine clearance \\> 40 mL/min by Cockcroft-Gault or by 24-hour urine collection for determination of creatinine clearance (calculations in protocol).\n* Able to swallow pills and has been deemed an appropriate candidate for investigational TTI-101 treatment based on the opinion of both the treating radiation oncologist and the treating medical oncologist.\n* INR and aPTT ≤ 1.5 x IULN unless patient is receiving anticoagulant therapy (in which case INR and PTT must be within therapeutic range of intended use of anticoagulants)\n* The effects of TTI-101 on the developing human fetus are unknown. For this reason, women of childbearing potential and men must agree to use at least 1 highly effective method of contraception from screening through the duration of study participation, and for 30 days after last dose of TTI-101. Should a woman become pregnant or suspect she is pregnant while participating in this study or should a man suspect he has fathered a child, s/he must inform the treating physician immediately.\n* Agreement to adhere to Lifestyle Considerations throughout study duration.\n* Ability to understand and willingness to sign an IRB approved written informed consent document.\n\nExclusion Criteria:\n\n* Prior treatment for pancreatic cancer in the past 2 years (outside of the induction chemotherapy received for the current diagnosis).\n* Prior or concurrent malignancy whose natural history has the potential to interfere with the safety or efficacy assessment of the investigational regimen. Patients with prior or concurrent malignancy that does NOT meet that definition are eligible for this trial.\n* Currently receiving any other investigational agents or has participated in a study of an investigational agent or using an investigational device overlapping with study treatments within 3 months preceding study entry at the discretion of the PI.\n* A history of allergic reactions attributed to compounds of similar chemical or biologic composition to TTI-101 or other agents used in the study.\n* Uncontrolled intercurrent illness including but not limited to: ongoing or active infection (fungal, bacterial, or viral (including COVID-19)), sepsis, acute and chronic active infectious disorders (including viral and nonmalignant medical illnesses that are uncontrolled or whose control may be jeopardized by the complications of this study therapy), and chronic pancreatitis. Patients with a recent COVID-19 diagnosis must have fully recovered from all COVID-19 symptoms for 2 weeks prior to the start of study treatment.\n* Significantly impaired cardiac function such as symptomatic congestive heart failure with NYHA Class III or IV, unstable angina pectoris, myocardial infarction within the last 12 months prior to study entry, serious cardiac arrhythmia (including QTc prolongation of \\> 470 ms and/or pacemaker), or prior diagnosis of congenital long QT syndrome.\n* Ongoing toxicity due to induction chemotherapy, unless returned to baseline or grade 1 or less (except alopecia and labs noted in inclusion criterion #5).\n* Has had major surgery within 3 weeks prior to starting TTI-101 or has not recovered from major side effects due to surgery.\n* Presence of pleural effusion, pericardial effusion, or ascites requiring recurrent drainage procedures (once monthly or more frequent). Participants with indwelling catheters for control of effusions or ascites are allowed.\n* History of cerebrovascular accident or stroke within the previous 2 years.\n* History of hepatic encephalopathy.\n* Evidence of bleeding diathesis or significant coagulopathy (in the absence of therapeutic anticoagulation).\n* History of malabsorption or other chronic gastrointestinal disease or condition that may hamper compliance or absorption of TTI-101.\n* Pregnant and/or breastfeeding. Women of childbearing potential must have a negative serum or urine pregnancy test within 5 days of study entry.\n* HIV-infected if not on effective anti-retroviral therapy with undetectable viral load for 6 months. Patients with HIV who are receiving effective anti-retroviral therapy and have had an undetectable viral load for at least 6 months are eligible. HIV testing not required in the absence of known history of infection.\n* Evidence of chronic hepatitis B virus (HBV) that is detectable on suppressive therapy. Patients with evidence of chronic HBV infection with undetectable HBV viral load on suppressive therapy are eligible. HBV testing not required in the absence of known history of infection.\n* History of hepatitis C virus (HCV) infection that has not been cured or that has a detectable viral load. Patients with a history of HCV that has been treated and cured are eligible. Patients with HCV infection who are currently on treatment and have an undetectable HCV viral load are eligible. HCV testing not required in the absence of known history of infection.",
   "enrollment": 24,
   "has_results": false,

@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
   "drug",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "nalirifox"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06816914",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 절제 가능한 췌장 선암(resectable pancreatic adenocarcinoma)입니다.",
+  "중재 치료는 NALIRIFOX(liposomal irinotecan in combination with fluorouracil, leucovorin, and oxaliplatin)입니다.",
+  "목표 환자 수는 총 84명입니다.",
+  "참여 연령은 20세부터 75세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,15 +50,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06816914"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 절제 가능한 췌장 선암(resectable pancreatic adenocarcinoma) 환자를 대상으로 수술 전후 및 보조 치료로서 NALIRIFOX 요법의 안전성과 효과를 탐색합니다. 전이성 췌장암에서 효과가 입증된 NALIRIFOX를 수술 전 치료(neoadjuvant)와 보조 치료로 적용했을 때의 역할을 평가합니다. 총 84명의 환자를 목표로 모집하며 수술 전 치료를 통해 R0 절제율 향상과 치료 완료율 증가를 도모합니다.",
+ "summary_source": "llm",
  "tags": [
   "Perioperative",
   "NALIRIFOX",
   "resectable pancreatic adenocarcinoma"
  ],
  "title": "Perioperative NALIRIFOX (liposomal Irinotecan in Combination with Fluorouracil, Leucovorin, and Oxaliplatin) in Resectable Pancreatic Adenocarcinoma: Randomized Phase II Trial",
- "title_ko": null,
+ "title_ko": "절제 가능한 췌장 선암 환자에서의 수술 전후 NALIRIFOX (리포조말 이리노테칸, 플루오로우라실, 류코보린, 옥살리플라틴 병용) 무작위 배정 2상 임상시험",
  "trial": {
   "conditions": [
    "Resectable Pancreatic Adenocarcinoma"
@@ -65,7 +70,7 @@
     "phone": "886-6-2353535"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 이전에 치료받은 적이 없고 조직학적 또는 세포학적으로 확진된 췌장관선암(PDAC) - 등록 당시 연령 20세에서 75세 - ECOG 전신 상태 평가 0 또는 1 - CT 또는 MRI로 측정이 가능한 AJCC(8판) 임상 병기 I 또는 II기 - NCCN 기준(버전 1.2023)에 따른 수술적 절제 가능 질환 (동맥 침습 없음, 상장간막정맥 또는 문맥 침습이 없거나 180도 이하이면서 정맥 윤곽 비대칭이 없는 경우) - 적절한 주요 장기 기능 - 피임 및 동의서 서명 완료. 제외 기준: - 연구자가 판단하기에 등록 전 4주 이내의 임상적으로 유의미한 동반 질환 - 과거 6개월 이내의 중증 동맥 혈전색전증(심근경색, 불안정형 협심증, 뇌졸중) - NYHA 클래스 III 또는 IV의 울혈성 심부전, 심실성 부정맥, 조절되지 않는 혈압 또는 유의미한 심전도 이상 - 등록 전 28일 이내의 증상이 있는 간질성 폐질환 - CTCAE v.5.0 기준 2등급 이상의 설사 - 치료가 필요한 동반 전신 감염 - 장기 동종이식 또는 동종 골수이식 병력 - HIV 양성 또는 에이즈 병력 - 최근 3년 이내의 다른 악성종양 병력 (자궁경부 상피내암 또는 기저세포 피부암 제외) - 연구 치료 전 4주 이내의 주요 수술 - 임산부 또는 수유부 - 중증 정신 질환 - 강한 CYP3A4 효소 유도제/억제제 또는 UGT1A 억제제의 최근 사용 - 연구 약물 성분에 대한 과민병력",
   "eligibility_text": "Inclusion Criteria:\n\n* previously untreated, histologically or cytologically proven PDAC\n* age between 20 and 75 years at registration\n* ECOG performance status of 0 or 1\n* AJCC (8th edition) clinical stage I or II with measurable disease (CT or MRI) in the pancreas. (positron emission tomography scan alone not allowed)\n* Surgically resectable disease according to NCCN criteria (Version 1.2023 - May 4, 2023):\n* no arterial tumor contact (celiac axis, superior mesentery artery, or common hepatic artery).\n* no tumor contact with the superior mesentery vein or portal vein or ≤180° contact without vein contour irregularity.\n* adequate major organ functions\n* Women of childbearing potential (including women with chemical menopause or no menstruation for other medical reasons) must agree to use contraception from the time ofinformed consent until 6 months or more after the last dose of investigational products. Also, women must agree not to breastfeed from the time of informed consent until 6 months or more after the last dose of the investigational product.\n* Men must agree to use contraception from the start of study treatment until 3 months or more after the last dose of the investigational product.\n* Participants must have signed written informed consent form in accordance with regulatory and institutional guidelines.\n\nExclusion Criteria:\n\n* presence of clinically significant co-morbid medical conditions within 4 weeks prior registration judged by Investigators\n* severe arterial thromboembolic events (myocardial infarction, unstable angina pectoris, stroke) in past 6 months\n* New York Heart Association class III or IV congestive heart failure, ventricular arrhythmias or uncontrolled blood pressure or known abnormal electrocardiogram (ECG) with clinically significant abnormal findings in past 6 months\n* interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected treatment-related pulmonary toxicity within 28 days prior to registration\n* presence of diarrhea ≥ CTCAE v.5.0 grade 2\n* concomitant systemic infection requiring treatment\n* prior organ allograft or allogeneic bone marrow transplantation\n* known history of testing positive for human immunodeficiency virus or known acquired immunodeficiency syndrome\n* prior or concurrent malignancies within the last 3 years, with the exception of carcinoma in situ of the cervix, or basal type skin cancer\n* any major surgery within 4 weeks of study treatment. Participants must have recovered from the effects of major surgery or significant traumatic injury at least 4 weeks before study treatment.\n* pregnant women or nursing mothers, or positive pregnancy tests\n* severe mental disorder\n* current use or any use in past 2 weeks of strong cytochrome P450 3A4 enzyme inducers/inhibitors and/or strong UGT1A inhibitors\n* known hypersensitivity to any of the components of study drugs",
   "enrollment": 84,
   "has_results": false,

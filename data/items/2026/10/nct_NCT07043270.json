@@ -22,7 +22,11 @@
  ],
  "id": "nct:NCT07043270",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 경계성 절제 가능 췌장암(BR-PDAC)이며, 목표 인원은 35명입니다.",
+  "중재 치료는 nab-paclitaxel + Gemcitabine(GnP)과 modified FOLFIRINOX(mFOLFIRINOX)의 교대 투여입니다.",
+  "연구의 목적은 치료 반응 향상, 종양 절제율 개선, 재발 위험 감소를 평가하는 것입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07043270"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 경계성 절제 가능 췌장암(BR-PDAC) 환자를 대상으로, 선행화학요법(neoadjuvant chemotherapy)에서 GnP와 mFOLFIRINOX 두 가지 치료법을 교대(alternating)로 적용했을 때의 효과와 안전성을 평가합니다. 연구진은 이 두 치료법의 교대 투여가 치료 반응을 높이고, 종양 제거 가능성(절제 가능성)을 개선하며, 암 재발 위험을 낮출 수 있는지 확인하고자 합니다. 목표 환자 수는 35명이며, 현재 환자를 모집 중입니다.",
+ "summary_source": "llm",
  "tags": [
   "mFOLFIRINOX",
   "Gemcitabine",
@@ -58,7 +62,7 @@
   "Pancreatic Cancer"
  ],
  "title": "24BRO681 : Alternating Gnp and mFOLFIRINOX for BR-PDAC",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 췌장암(BR-PDAC) 환자를 위한 nab-paclitaxel + Gemcitabine(GnP)과 modified FOLFIRINOX(mFOLFIRINOX) 교대 수술 전 항암치료 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Adenocarcinoma"
@@ -70,7 +74,7 @@
     "phone": "800-639-6918"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 18세 이상\n* NCCN 가이드라인에 따라 다학제 종양 위원회에서 공식적으로 진단받은 경계성 절제 가능 췌장암(BR-PDAC)\n* 동의서를 제공할 능력이 있고 의사가 있는 환자\n* 등록 전 45일 이내에 시행한 흉부, 복부, 골반 조영제 강화 CT 검사\n* ECOG 수행 능력 상태: 0-1\n* 가임기 여성의 경우 등록 전 14일 이내 임신 테스트 음성 및 피임 동의\n\n제외 기준:\n* 과거 췌장암(PDAC)에 대한 항암치료 또는 방사선 치료 이력\n* DPYD 저대사자 유전자형 보유\n* BRCA1/2 또는 PALB2 돌연변이 보유\n* 연구 기간 동안 전신 치료가 필요할 것으로 예상되는 확인된 두 번째 악성종양\n* 기준치 혈액 검사 이상 (ANC < 2,500/mm3, 혈소판 < 100,000/mm3, 혈색소 < 7 g/dL, 크레아티닌 > 1.5 x 정상치 상한(ULN), 총 빌리루빈 > 1.5 x ULN, AST/ALT > 5 x ULN)\n* 일상생활을 유의하게 방해하는 말초 감각 신경병증\n* 동의서 제공 불가 환자\n* 임신 또는 수유 중인 환자\n* 수감 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Diagnosis of BR-PDAC. The resectability should be officially determined with surgical oncologists at the Dartmouth Cancer Center (DCC) GI multidisciplinary Tumor Board based on NCCN Guidelines Version 2.2024 Pancreatic Adenocarcinoma.\n* Patients must be able and willing to provide informed consent.\n* Contrast-enhanced CT scan of the chest, abdomen, and pelvis performed within 45 days before registration.\n* ECOG Performance Status: 0-1.\n* Females of childbearing potential must have a negative pregnancy test done ≤ 14 days prior to study enrollment, and must agree to use a highly effective method of contraception throughout the course of protocol therapy.\n\nExclusion Criteria:\n\n* Any prior receipt of chemotherapy or radiation therapy for PDAC.\n* Known DPYD poor metabolizer genotype.\n* Known BRCA1/2 or PALB2 mutations. If they are found to have BRCA1/2 or PALB2 mutation after inclusion to the trial, the participant will be taken off of protocol therapy (since platinum-containing therapy is preferred for these patients).\n* Any confirmed second malignancy that is likely to require systemic therapy during the study period, in the opinion of the enrolling investigator.\n* Any of the following baseline laboratory abnormalities:\n\n  * Absolute neutrophil count (ANC) \\< 2,500/mm3\n  * Platelet count \\< 100,000/mm3\n  * Hemoglobin \\< 7 g/dL\n  * Creatinine \\> 1.5 x upper limit of normal (ULN)\n  * Total bilirubin \\> 1.5 x ULN\n  * AST/ALT \\> 5 x ULN\n* Any peripheral sensory neuropathy that meaningfully impairs performance of instrumental activities of daily living, as evaluated by the enrolling investigator.\n* Patients who are unable to provide informed consent.\n* Patients who are pregnant or breastfeeding.\n* Patients who are incarcerated.",
   "enrollment": 35,
   "has_results": false,

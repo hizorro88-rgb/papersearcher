@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "surgery"
  ],
  "entities": [],
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06789679",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 128명이며, 각 치료군(AG군 및 GAS군)에 64명씩 배정됩니다.",
+  "이전 전신 치료를 받은 적이 없는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 합니다.",
+  "치료 결과 및 생존 평가는 3개월마다 추적 관찰을 통해 진행됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06789679"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 앨부민 결합 파클리탁셀(albumin-bound paclitaxel)과 젬시타빈(gemcitabine) 병용 요법에 S-1을 추가하는 치료의 효과를 평가하는 전향적, 공개, 무작위 대조 2상 임상시험입니다. 이전 치료를 받은 적이 없는 18세 이상의 환자 128명을 목표로 하며, 두 치료군에 1:1로 무작위 배정됩니다. 연구진은 치료 시작부터 사망, 동의 철회, 추적 관찰 소실 또는 연구 종료 시점까지 환자 상태를 관찰합니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic adenocarcinoma",
   "Advanced",
@@ -53,7 +57,7 @@
   "Safety"
  ],
  "title": "Albumin-Bound Paclitaxel and Gemcitabine With or Without S-1 as First-Line Treatment for Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 1차 치료로서 S-1 병용 여부에 따른 앨부민 결합 파클리탁셀 및 젬시타빈 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
@@ -70,7 +74,7 @@
     "phone": "13681015148"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연구 참여에 자발적으로 동의하고 동의서를 서명한 18세 이상 성인.\n- 편평상피암을 포함하여 췌장 도관 선암종(pancreatic ductal adenocarcinoma)으로 병리학적 진단을 받은 환자.\n- 절제 불가능한 국소 진행성 또는 전이성 췌장암에 대해 이전에 전신 치료를 받은 적이 없는 환자 (단, 보조/선행화학방사선 치료 등의 경우 치료 종료 후 재발까지 최소 6개월 이상 경과한 경우 허용).\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 있는 환자.\n- ECOG 전신 수행 능력 평가 점수가 0에서 2 사이이며, 기대 여명이 3개월 이상인 환자.\n- 경구 항암 화학요법 복용이 가능하고 요구되는 장기 기능 기준을 충족하는 환자.\n- 가임 여성 및 가임 파트너가 있는 남성의 경우 무작위 배정 7전부터 치료 시작 후 24주까지 피임에 동의하는 환자.\n\n제외 기준:\n- 치료받지 않은 활성 뇌 전이 또는 연수막 전이가 있는 환자.\n- 치료받지 않은 척추 압박 골절이 있는 환자.\n- 절제 불가능한 국소 진행성 또는 전이성 췌장암에 대해 이전에 전신 치료를 받았던 환자 (재발까지 6개월 미만인 경우).\n- 위장관 또는 복부 출혈 위험이 높거나 조절되지 않는 암성 통증이 있는 환자.\n- 등록 전 28일 이내에 항암 화학요법, 소분자 억제제, 면역요법 등을 받았거나 14일 이내에 한방 항암 치료를 받은 환자.\n- 등록 전 28일 이내에 주요 수술을 받은 환자 (진단 목적 생검 제외).\n- 최근 3개월 이내에 근치적 방사선 치료를 받은 환자.\n- 지난 5년 이내에 다른 악성 종양 병력이 있는 환자 (치료된 기저세포암 등 제외).\n- 활동성 B형/C형 간염, HIV 감염, 매독, 활동성 결핵, 조절되지 않는 고혈압 및 심혈관 질환이 있는 환자.\n- 이전 항암 치료의 독성이 회복되지 않은 환자 (탈모 제외).\n- 모유 수유 중이거나 정신 질환, 중등도 이상의 복수 등이 있는 환자.\n- 인지 장애, 임산부 등 취약 인구 집단.",
   "eligibility_text": "Inclusion Criteria:\n\nThe participant must voluntarily agree to participate in the study and sign the informed consent form.\n\nThe participant must be ≥18 years old on the day of signing the informed consent form.\n\nThe participant must have a pathological diagnosis of pancreatic ductal adenocarcinoma (including adenosquamous carcinoma).\n\nThe participant must not have received any prior systemic treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nNote: Patients who have received neoadjuvant/adjuvant/radical chemoradiotherapy or neoadjuvant/adjuvant chemotherapy are eligible only if the time from the end of treatment to the first diagnosis of disease progression/recurrence is at least 6 months.\n\nThe participant must have measurable lesions according to RECIST 1.1 criteria. If there is only one measurable lesion at baseline, it must not have been previously irradiated or there must be evidence of significant progression since the end of radiotherapy.\n\nThe participant must have an ECOG performance status score of 0-2. The participant must have a life expectancy of more than 3 months. The participant must be able to take oral chemotherapy. The participant must meet the required organ function criteria before inclusion.\n\nFemale participants of childbearing potential or male participants with partners of childbearing potential must agree to use highly effective contraception starting 7 days before randomization and continue until 24 weeks after treatment initiation. Female participants must have a negative serum pregnancy test within 7 days prior to randomization.\n\nExclusion Criteria:\n\nParticipants with untreated active brain metastases or leptomeningeal metastasis. If brain metastasis has been treated and the disease is stable (with stable imaging for at least 4 weeks prior to randomization and no new neurological symptoms), they may be included.\n\nParticipants with untreated spinal compression fractures. Treated spinal compression fractures must be stable for at least 2 weeks before randomization.\n\nParticipants who have previously received systemic treatment for unresectable locally advanced or metastatic pancreatic cancer.\n\nNote: Participants who have received neoadjuvant/adjuvant/radical chemoradiotherapy or neoadjuvant/adjuvant chemotherapy are excluded if the time from the end of treatment to disease progression/recurrence is less than 6 months.\n\nParticipants with high risk of gastrointestinal or abdominal bleeding. Participants with uncontrolled cancer pain (e.g., requiring escalation of analgesics) at the time of enrollment.\n\nParticipants who have received chemotherapy, small molecule inhibitors, immunotherapy (such as interleukins, interferons, or thymosin), or other anti-cancer treatments within 28 days before enrollment, or who have used traditional Chinese medicine with anti-cancer indications within 14 days before enrollment.\n\nParticipants who have had major surgery within 28 days before enrollment (excluding diagnostic biopsies such as EUS-FNB or percutaneous liver biopsy).\n\nParticipants who have received radical radiation therapy within the last 3 months. Palliative radiation therapy is allowed if administered at least 2 weeks prior to the start of the study treatment.\n\nParticipants with a history of another malignancy within the last 5 years, except for treated basal cell carcinoma, squamous cell carcinoma of the skin, non-invasive bladder cancer, or cured prostate/cervical/breast cancer.\n\nParticipants with uncontrolled comorbidities, including but not limited to:\n\nActive HBV or HCV infection. Note: Participants with positive HBsAg and/or HCV antibodies must undergo HBV-DNA and/or HCV-RNA testing. Eligible participants must have HBV-DNA ≤500 IU/mL (or ≤2000 copies/mL) and/or HCV-RNA negative.\n\nKnown HIV infection or AIDS history. Active syphilis. Active tuberculosis. Active infections. Uncontrolled hypertension, symptomatic heart failure (NYHA II-IV), unstable angina, myocardial infarction within the last 6 months, or QTc prolongation or arrhythmia risk.\n\nNote: Participants with baseline QTc \\>470 msec (female) / 450 msec (male), hypokalemia, long QT syndrome, resting heart rate \\>100 bpm in atrial fibrillation, or severe valvular heart disease are excluded.\n\nActive bleeding. Participants whose toxicity from prior anti-cancer treatments has not recovered to CTCAE ≤1 (except for alopecia, which is allowed at any grade, and peripheral neuropathy, which must have recovered to ≤2).\n\nBreastfeeding women. Other conditions that, in the opinion of the investigator, may affect the participant's safety, compliance, or the reliability of the study results, including but not limited to psychiatric disorders, moderate to severe ascites, pleural effusion, pericardial effusion, etc.\n\nVulnerable populations, including but not limited to those with cognitive impairments, critically ill patients, minors, pregnant women, students/subordinates of the investigator, employees of the study institution or sponsor, and other individuals who may not be able to provide informed consent or comply with the study requirements.",
   "enrollment": 128,
   "has_results": false,

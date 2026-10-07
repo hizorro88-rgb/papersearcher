@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [
@@ -19,7 +20,11 @@
  ],
  "id": "nct:NCT06662669",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 전이성 췌장암(metastatic pancreatic cancer)이며 연령은 18세에서 75세까지입니다.",
+  "1상 시험에서는 YL-13027 또는 HY-0102와 AG 요법 병용의 안전성과 효능을 평가합니다.",
+  "목표 인원은 총 120명이며 아직 환자 모집을 시작하지 않았습니다(NOT_YET_RECRUITING)."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06662669"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 YL-13027 또는 HY-0102를 AG 요법(Gemcitabine, Nab-paclitaxel)과 병용하여 평가합니다. 1상(Phase 1)에서는 환자 안전성과 유효성을 확인하고 최적의 병용 군을 선정합니다. 이후 표준 치료인 AG 요법과 비교하는 무작위 대조 임상시험이 진행됩니다. 전체 목표 환자 수는 120명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "YL-13027 and/or HY-0102 Combined With AG Regimen Chemotherapy for Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암 환자를 위한 YL-13027 및/또는 HY-0102와 AG 요법 병용 화학요법",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Cancer"
@@ -59,7 +64,7 @@
     "phone": "020-87343571"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 연령 18세에서 75세 사이의 환자 - 조직학적 또는 세포학적으로 확진된 전이성 췌장 췌관선암(metastatic pancreatic ductal adenocarcinoma) 환자 - RECIST 1.1 기준에 따른 평가 가능한 전이 병변이 최소 1개 이상 있는 환자 - ECOG 점수 0-1이며 예상 생존 기간이 3개월 이상인 환자 - 장기 기능이 양호한 환자. 제외 기준: - 근치적 목적의 수술이 가능한 환자 - 선방세포암(acinar cell carcinoma), 신경내분비암(neuroendocrine carcinoma) 등 다른 병리학적 유형으로 확인된 환자 - 6개월 이내에 gemcitabine 및 nab-paclitaxel 병용 요법 치료 후 질병이 진행되었거나 불내성이 확인된 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n* Subject aged between 18 and 75 years.\n* Subject has histologically or cytologically confirmed metastatic pancreatic ductal adenocarcinoma.\n* Subject has at least one evaluable metastatic lesion according to RECIST 1.1 criteria;\n* Subject has an ECOG score of 0-1 and is expected to survive more than 3 months;\n* Subjects have a good level of organ function.\n\nExclusion Criteria:\n\n* Subject suitable for potentially curative surgery.\n* The subject confirmed by tissue or cytology as other pathological types, such as acinar cell carcinoma, neuroendocrine carcinoma, etc.\n* The subject has previously received gemcitabine and nab-paclitaxel combination therapy within 6 months of progression or intolerance.",
   "enrollment": 120,
   "has_results": false,

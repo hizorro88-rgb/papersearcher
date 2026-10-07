@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -18,7 +18,12 @@
  ],
  "id": "nct:NCT06532617",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 30명입니다.",
+  "18세에서 80세 사이의 진행성 췌장암 환자가 대상입니다.",
+  "카도닐리맙(cadonilimab)과 S-1 또는 카페시타빈(capecitabine)의 병용 요법을 평가합니다.",
+  "구체적인 유효성 및 안전성 수치는 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,19 +47,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06532617"
  },
- "summary_ko": "This is a single arm, single cencer, phase II clinical trial. This study aims to evaluate the efficacy and safety of Cadonilimab combined with S-1 or capecitabine as a second-line treatment for advanced pancreatic cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 카도닐리맙(cadonilimab)과 S-1 또는 카페시타빈(capecitabine)을 병용한 2차 치료의 효능과 안전성을 평가하는 단일 기관, 단일 군, 2상 임상시험입니다. 목표 환자 수는 30명이며 18세부터 80세까지의 성인을 대상으로 합니다. 초록에 세부 생존율이나 반응률 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "PD-1/CTLA-4 Bispecific Antibody"
  ],
  "title": "Cadonilimab Combined With S-1 or Capecitabine as Second-line Treatment for Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암의 2차 치료로서 카도닐리맙(cadonilimab)과 S-1 또는 카페시타빈(capecitabine) 병용 요법",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasms"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 서면 동의서를 자발적으로 서명한 자\n* 18세에서 80세 사이의 남성 또는 여성\n* 조직학적으로 확진된 췌장관선암(pancreatic ductal adenocarcinoma)\n* 표준 1차 항종양 치료를 이전에 받은 국소 진행성 췌장암 환자\n* RECIST 1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자\n* ECOG 수행능력 평가(ECOG PS) 0-1인 자\n* 예상 생존 기간이 3개월 초과인 자\n* 적절한 장기 기능을 가진 자\n\n제외 기준:\n* 첫 투여 전 5년 이내에 진단된 췌장암 이외의 악성 종양 (근치적 절제된 피부 기저세포암, 편평세포암, 상피내암 제외)\n* 현재 중재적 임상 연구 치료에 참여 중이거나 첫 투여 전 4주 이내에 다른 연구용 약물이나 기기를 사용한 자\n* 활동성 자가면역 질환이 있는 자\n* 동종 장기 이식 또는 동종 조혈모세포 이식을 받은 자\n* 카도닐리맙(cadonilimab), S-1, 카페시타빈(capecitabine)의 활성 성분이나 부형제에 알레르기가 있는 자\n* 이전 치료로 인한 독성 및 합병증에서 완전히 회복되지 않은 자\n* HIV 병력이 있는 자\n* 활동성 B형 간염(HBV) 또는 C형 간염(HCV) 환자\n* 임신 중이거나 수유 중인 여성\n* 심각하거나 조절되지 않는 전신 질환이 있는 자\n* 활동성 폐결핵 환자\n* 치료에 협조할 수 없는 정신 질환이 있는 자\n* 조절되지 않는 감염이 있는 자\n* 연구자가 전체 임상 과정을 완료할 수 없다고 판단하거나 참여에 부적합하다고 판단하는 자",
   "eligibility_text": "Main Inclusion Criteria:\n\n* Signed written informed consent\n* Age 18-80, female or male\n* Histopathologically confirmed pancreatic ductal adenocarcinoma\n* Patients with locally advanced pancreatic cancer who have previously received standard first-line anti-tumor treatment (radiotherapy, chemotherapy, targeted or immunotherapy, etc.)\n* Locally advanced pancreatic cancer is defined as follows: a. The tumor has no distant metastasis; b. Pancreatic head/uncinate process: The tumor contacts the superior mesenteric artery \\>180˚; c. Pancreatic body and tail: The tumor contacts the superior mesenteric artery or celiac artery \\>180˚; The tumor contacts the celiac artery and infiltrates the abdominal aorta; d. The tumor invades the jejunal branch of the superior mesenteric artery. Portal vein-superior mesenteric vein cannot be safely reconstructed due to tumor invasion, vein occlusion, or involvement of a large range of jejunal branches of the superior mesenteric vein.\n* At least one measurable lesion (RECIST1.1)\n* ECOG PS 0-1\n* Expected survival time\\>3 months\n* Adequate organ function\n\nMain Exclusion Criteria:\n\n* Malignant diseases other than pancreatic cancer diagnosed within 5 years before the first dose (excluding radically resected basal cell carcinoma of the skin, squamous cell carcinoma of the skin, and/or radically resected carcinoma in situ)\n* Currently participating in interventional clinical research treatment, or having received other research drugs or used research devices within 4 weeks before the first dose\n* Active autoimmune disease\n* Allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation\n* Allergic to the active ingredients or excipients of this study drug, cadonilimab, S-1 or capecitabine\n* Have not fully recovered from any toxicity and/or complications caused by the intervention before starting treatment\n* History of HIV\n* Active HBV or HCV\n* Pregnant or breastfeeding women\n* Any severe or uncontrolled systemic disease\n* Active pulmonary tuberculosis\n* People with mental disorders who are unable to cooperate with treatment\n* Uncontrolled infection\n* The investigators assess that the subjects are unable to complete the entire trial process or are otherwise unsuitable for participating in this trial",
   "enrollment": 30,
   "has_results": false,

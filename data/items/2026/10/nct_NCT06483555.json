@@ -23,7 +23,12 @@
  ],
  "id": "nct:NCT06483555",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 104명이며, 기저형 환자를 대상으로 1상과 2상이 진행됩니다.",
+  "1상에서는 기저형 환자 최대 약 52명을 대상으로 GnP와 엘로티닙 병용의 안전 용량을 찾습니다.",
+  "2상에서는 기저형 환자 약 82명을 GnP 단독 또는 GnP와 엘로티닙 병용으로 무작위 배정하여 비교합니다.",
+  "전체 생존기간, 무진행 생존기간, 종양 반응률 등의 장기적 결과를 추적 관찰합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -47,8 +52,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06483555"
  },
- "summary_ko": "This Phase I/II clinical trial is being conducted at multiple centers to find out whether adding a low dose of EGFR blocking drugs to the standard chemotherapy combination of gemcitabine and nab paclitaxel (GnP) is safe, tolerable, and helpful for people with advanced pancreatic cancer. All participants are first tested with a tool called PurIST, which classifies tumors as either \"basal-like\" or \"classical.\" People with basal-like tumors will receive GnP plus erlotinib during Phase I so research…",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상 1/2상 시험은 진행성 췌장암(advanced pancreatic cancer) 환자들을 대상으로 표준 항암화학요법 조합인 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel, GnP)에 저용량의 표피성장인자수용체(EGFR) 차단제를 추가하는 것의 안전성과 효과를 평가합니다. 모든 참가자는 PurIST 도구를 통해 종양을 기저형(basal-like)과 전형형(classical)으로 분류합니다. 기저형 환자들은 1상에서 GnP와 엘로티닙(erlotinib)을 투여받으며 안전한 용량을 확인하고, 2상에서는 GnP 단독 요법 또는 GnP와 엘로티닙 병용 요법에 무작위 배정됩니다. 연구 전체에서 전체 생존기간(OS), 무진행 생존기간(PFS), 반응률(response rate) 등의 장기적인 결과를 추적합니다.",
+ "summary_source": "llm",
  "tags": [
   "safety",
   "tolerability",
@@ -58,7 +63,7 @@
   "nab-paclitaxel"
  ],
  "title": "Basal-like PDAC Treated With Gemcitabine, Erlotinib, and Nab-paclitaxel",
- "title_ko": null,
+ "title_ko": "젬시타빈, 엘로티닙, 냅-파클리탁셀로 치료하는 기저형 췌장관암",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma",
@@ -72,7 +77,7 @@
     "phone": "1 984-974-8771"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 동의서 작성 시점 연령 18세 이상\n* 동유럽협력종양학그룹(ECOG) 수행능력 상태 0-1\n* 절제 불가능, 경계성 절제 가능, 또는 전이성 췌장관암(기저형 및 전형형)의 조직학적 또는 세포학적 확진\n* 보존 조직이 없거나 불충분한 경우 필수적인 사전 생검에 동의\n* 표준 치료 선행요법을 받았거나 1차 FOLFIRINOX 또는 NALIRIFOX를 최대 2주기까지 받았을 수 있음\n* 뇌 전이 환자의 경우 치료 완료 후 최소 4주 경과, 스테이로이드 중단 후 2주 이상 경과, 무증상인 경우 참여 가능\n제외 기준:\n* 고형암 치유 평가 기준(RECIST) v1.1에 따른 측정 가능한 질병이 없는 경우\n* 전이성 췌장관암의 조직학적 또는 세포학적 확진이 없는 경우\n* 연구 치료 시작 전 28일 이내에 임상시험용 의약품 또는 이전 암 치료를 받은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent was obtained to participate in the study and HIPAA authorization for release of personal health information. Subjects is willing and able to comply with study procedures based on the judgment of the investigator.\n* Age ≥ 18 years at the time of consent.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1 Histological or cytological evidence/confirmation of unresectable, borderline resectable, or metastatic (basal-like and classical) pancreatic adenocarcinoma.\n* The subject must consent to a mandatory pre-study biopsy if archival tissue is not available or sufficient.\n* Subjects may have received prior standard-of-care (SOC) neoadjuvant therapy and may have received up to two cycles of first-line FOLFIRINOX or NALIRIFOX.\n* A subject with prior brain metastasis may be considered if they have completed their treatment for brain metastasis at least 4 weeks prior to study treatment have been off of corticosteroids for ≥ 2 weeks and are asymptomatic.\n\nExclusion Criteria:\n\n* Disease is not measurable according to Response Evaluation Criteria In Solid Tumors Criteria (RECIST) v1.1\n* Not having histological or cytological evidence/confirmation of metastatic pancreatic adenocarcinoma.\n* Treatment with any investigational drug or prior cancer treatment within 28 days prior to study treatment",
   "enrollment": 104,
   "has_results": false,

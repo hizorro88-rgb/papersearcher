@@ -20,7 +20,7 @@ comments: true
 |---|---|---|---|
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 Zoldonrasib 및 Daraxonrasib 병용요법 대 Gemcit…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용 투여 대 위약과 항암화학요법 병…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
-| [Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Co…](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [PDAC 및 NSCLC 환자에서 TNG462 병용 투여의 안전성, 내인성, 효능을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 
 ## 타임라인 (0)
 

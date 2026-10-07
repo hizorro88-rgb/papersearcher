@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "diagnosis",
-  "treatment"
+  "treatment",
+  "diagnosis"
  ],
  "entities": [
   "folfirinox"
@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT07153289",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 38명이며, 단계는 제1/IIa상 임상시험입니다.",
+  "표준 치료 진행 후 악화된 전이성 또는 국소 진행성 췌관선암(PDAC) 환자가 대상입니다.",
+  "CD318-CAR-T 세포 투여의 안전성, 내성, 제조 및 전달 타당성을 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07153289"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "ResCPa 연구는 표준 치료에 실패한 전이성 또는 국소 진행성 췌관선암(PDAC) 환자를 대상으로 자가 CD318 표적 키메라 항원 수용체(CAR) T세포 치료의 안전성과 예비 유효성을 평가하는 최초 인체 적용, 다기관 제1/IIa상 임상시험입니다. 환자의 종양 조직에서 CD318 발현을 확인한 후 자가 T세포를 채집하여 유전자 조작 및 자동화 제조를 거쳐 투여합니다. 용량 증가 설계를 통해 안전성과 내성, 제조 가능성 등을 평가하며, 다양한 중개 연구도 병행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "PDAC",
   "Metastatic Pancreatic Cancer",
@@ -55,7 +59,7 @@
   "CAR-T cell therapy"
  ],
  "title": "CD318-targeted CAR-T Cell Therapy in Patients With Pancreatic Cancer (ResCPa)",
- "title_ko": null,
+ "title_ko": "췌장암 환자를 위한 CD318 표적 CAR-T 세포 치료 (ResCPa)",
  "trial": {
   "conditions": [
    "Carcinoma, Pancreatic Ductal",
@@ -68,7 +72,7 @@
     "phone": "+49 (0)7071 2961450"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 동의 시점 연령 18세 이상 - 조직학적으로 확인된 췌관선암(PDAC)(전이성 또는 국소 진행성, 절제 불가능) - RECIST v1.1에 따른 측정 가능한 병변 - 진행성 췌관선암에 대한 최소 1차 이상의 전신 표준 치료 중 또는 치료 후 질병 진행 - 중앙 면역조직화학(IHC)을 통해 확인된 종양 조직 내 CD318 발현 - ECOG 수행능력 상태 0 또는 1 - 프로토콜에 정의된 적절한 골수, 신장, 간 기능 - 최소 12주의 기대 여명 - 연구 절차 및 추적 관찰을 따를 의지와 능력 - 연구 관련 절차 수행 전 서면 동의 획득. 제외 기준: - CAR-T 세포 또는 기타 유전자 조작 세포 치료 이력 - 활동성 조절되지 않는 감염(B형 또는 C형 간염, HIV 감염 포함) - 임상적으로 증상이 있거나 치료되지 않은 중추신경계(CNS) 전이 - 임상적으로 유의한 심혈관 질환(최근 6개월 내 심근경색, 불안정형 협심증, 조절되지 않는 부정맥) - 전신 면역억제 치료가 필요한 자가면역질환 병력 - 현재 또는 최근(4주 이내) 다른 중재적 임상시험 참여 - 임신부 또는 수유부 - 연구자의 판단 시 연구 요구사항 준수를 방해하거나 안전성을 저해할 수 있는 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years at the time of informed consent\n* Histologically confirmed PDAC (metastatic or locally advanced, unresectable)\n* Measurable disease according to RECIST v1.1\n* Disease progression during or after at least one prior line of systemic standard therapy for advanced PDAC\n* CD318 expression in tumor tissue confirmed by central immunohistochemistry (IHC)\n* ECOG performance status of 0 or 1\n* Adequate bone marrow, renal, and hepatic function as defined in the protocol\n* Life expectancy of at least 12 weeks\n* Willingness and ability to comply with study procedures and follow-up\n* Written informed consent obtained prior to any study-specific procedures-\n\nExclusion Criteria:\n\n* Prior treatment with CAR T cells or other genetically modified cell therapies\n* Active uncontrolled infection, including active hepatitis B or C infection or HIV infection\n* Known symptomatic or untreated central nervous system (CNS) metastases\n* Clinically significant cardiovascular disease, including recent myocardial infarction (within 6 months), unstable angina, or uncontrolled arrhythmia\n* History of autoimmune disease requiring systemic immunosuppressive therapy\n* Current or recent (within 4 weeks) participation in another interventional clinical trial\n* Pregnant or breastfeeding women\n* Any condition that, in the opinion of the investigator, would interfere with the patients ability to comply with study requirements or would compromise safety",
   "enrollment": 38,
   "has_results": false,

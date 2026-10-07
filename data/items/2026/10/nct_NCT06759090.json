@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT06759090",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 43명입니다.",
+  "대상 질환은 전이성 췌장암(metastatic pancreatic carcinoma)입니다.",
+  "연령 기준은 18세 이상입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06759090"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 1차 치료 실패 후 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 저용량 주기에 따른 메트로놈 카페시타빈(metronomic capecitabine), 캄렐리주맙(camrelizumab), 아파티닙 메실레이트(apatinib mesylate) 병용 요법의 유효성과 안전성을 평가하기 위한 다기관, 단일군, 2상 탐색적 임상시험입니다. Simon 2단계 설계(Simon two-stage design)를 사용하여 최소 43명의 피험자를 등록합니다. 등록된 모든 환자는 질병 진행, 참을 수 없는 독성 발생, 또는 연구 종료 시까지 해당 치료를 받습니다.",
+ "summary_source": "llm",
  "tags": [
   "Metronomic chemotherapy"
  ],
  "title": "Metronomic Capecitabine with Camrelizumab and Apatinib Mesylate for Treatment of Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암에서 메트로놈 카페시타빈과 캄렐리주맙, 아파티닙 메실레이트 병용 요법에 대한 2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Carcinoma"
@@ -59,7 +64,7 @@
     "phone": "0571-87236557"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 나이가 18세 이상인 환자\n* 병리학적으로 확진된 췌장 선암종(pancreatic adenocarcinoma)\n* 연구자가 판단하기에 진행성 췌장암의 2차 치료에 실패했거나, 전신 수행 상태 점수(PS score)가 1을 초과하여 2가지 이상의 항암제로 구성된 2차 치료 요법을 견딜 수 없는 환자\n* 전신 수행 상태 PS 점수 0-2\n* 예상 생존 기간이 3개월 이상인 환자\n* RECIST 1.1 기준에 따라 측정 가능한 병변이 최소 1개 이상 있는 환자\n* 양호한 장기 기능 수준을 충족하는 환자\n\n제외 기준:\n* 카페시타빈(capecitabine)과 아파티닙(apatinib) 치료 후 내성이 생겼으나 마지막 투여 후 6개월이 지나지 않은 환자\n* 연구 약물 첫 투여 전 4주 이내에 항암 치료, 방사선 치료, 면역요법 등을 받은 환자\n* 연구 약물 첫 투여 전 4주 이내에 주요 장기 수술을 받았거나 심각한 외상을 입은 환자\n* 14일 이상 연속으로 프레드니손(prednisone) 환산 용량 20 mg/day를 초과하는 스테로이드 호르몬을 사용한 환자\n* 이전 항암 치료로 인한 부작용이 CTCAE 5.0 기준 등급 1 이하로 회복되지 않은 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* 1: Age is 18 years or older; 2: Pathologically confirmed pancreatic adenocarcinoma; 3: As determined by the investigator, second-line treatment for advanced pancreatic cancer has failed; or the patient has a poor performance status (PS score \\>1), and the investigator considers that the patient cannot tolerate a second-line regimen with two or more drugs.\n\n  4: Performance status PS score 0-2; 5: Expected survival period \\>= 3 months; 6: According to the RECIST1.1 criteria, the patient has at least one measurable lesion present; 7: Good organ function levels: • ANC\\>=1.5×10\\^9/L; • PLT\\>=75×10\\^9/L; • Hb\\>=80 g/L; • TBIL\\<=1.5×ULN; • ALT and AST\\<=3×ULN; For patients with liver metastases, ALT and AST\\<=5×ULN; • Cr\\<=1.5×ULN, if Cr\\>1.5×ULN, then Ccr\\>50ml/min (calculated by Cockcroft-Gault formula); • LVEF\\>=50%; • Fridericia corrected QT interval (QTcF) \\<450 ms for males, \\<470 ms for females.\n\n  8: After assessment by the researcher, the participant is able to comply with the trial protocol; 9: Voluntarily participate in this clinical trial, understand the research procedures, and can sign the informed consent form in writing;\n\nExclusion Criteria:\n\n* 1: Patients who have developed resistance after treatment with capecitabine and apatinib are not recommended for enrollment unless more than 6 months have passed since the last dose, in which case they can continue to challenge its use; patients who have previously undergone immunotherapy (regardless of whether or not they used camrelizumab) can cross-line use or switch to camrelizumab to continue challenging its use.\n\n  2: Received chemotherapy, radiotherapy, immunotherapy, biologics, or endocrine therapy for anti-tumor treatment, or other investigational drugs not yet on the market within 4 weeks before the first use of the study drug; 3: Within 4 weeks before the first use of the study drug, the subject has undergone major organ surgery (excluding biopsy) or experienced significant trauma, or requires elective surgery during the trial period; 4: Use of steroid hormones (prednisone equivalent) greater than 20 mg/day for more than 14 consecutive days within 14 days before the first use of the study drug; 5: Adverse reactions from previous anti-tumor treatments have not yet recovered to CTCAE 5.0 grade \\<=1 (excluding alopecia and other toxicities determined by the investigator to pose no safety risk).\n\n  6: Past or current retinal vein occlusion (RVO) or high-risk factors (such as uncontrolled glaucoma or high intraocular pressure, history of hyper-viscous blood syndrome or hypercoagulable state); 7: History of active major bleeding; 8: Uncontrolled hypertension; 9: Severe unhealed wounds or fractures; 10: Ulcer, bowel perforation or intestinal obstruction; 11: After evaluation by researchers, there are contraindications for drug prophylaxis of thromboembolism; 12: Central nervous system metastasis, leptomeningeal metastasis; 13: Past medical history or physical examination reveals central nervous system diseases, except for those that have been adequately treated (such as primary brain tumors, uncontrolled seizures, or stroke); 14: Active viral, bacterial, or fungal infections requiring systemic treatment (such as pneumonia); 15: Has a history of active tuberculosis; 16: A history of immunodeficiency, including HIV test positive, or other acquired, congenital immunodeficiency diseases, or a history of organ transplantation, or allogeneic bone marrow transplantation, or autologous hematopoietic stem cell transplantation; 17: Had active autoimmune diseases requiring systemic treatment within the past 2 years; 18: Vaccination within 30 days before treatment, including intranasal influenza vaccine, except for seasonal influenza vaccine; 19: Within 3 months prior to treatment, there were cardiovascular diseases, including: unstable angina; clinically significant or drug-treated malignant arrhythmias; myocardial infarction; Class III-IV heart failure; transient ischemic attack; thromboembolic events (such as deep vein thrombosis, pulmonary embolism, etc.), and any other cardiac conditions deemed by the investigator as unsuitable for participation in this trial.\n\n  20: Pre-cancerous blood disorders, such as myelodysplastic syndromes; 21: Clinical history of or pre-existing interstitial lung disease, such as non-infectious pneumonia or pulmonary fibrosis, or evidence of interstitial lung disease found on baseline chest CT scan; 22: Positive baseline pregnancy test in female patients who are pregnant, breastfeeding, or have childbearing potential; 23: Patients who have had other primary malignant tumors within the past 5 years, except for locally curable tumors (such as basal or squamous cell carcinoma of the skin, superficial bladder cancer, cervical or breast carcinoma in situ) can be enrolled after a definitive cure.\n\n  24: May be allergic to any of the drug ingredients; 25: According to the investigator's judgment, there are other serious conditions that endanger patient safety or affect the patient's ability to complete the study, or other reasons that make the patient unsuitable for participation in this clinical trial;",
   "enrollment": 43,
   "has_results": false,

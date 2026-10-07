@@ -20,7 +20,12 @@
  ],
  "id": "nct:NCT07640295",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 KRAS 유전자 변이가 있는 전이성 췌관암(PDAC)입니다.",
+  "중재 방법은 pan-KRAS inhibitor JAB-23E73, nab-paclitaxel, gemcitabine의 병용입니다.",
+  "목표 인원은 80명입니다.",
+  "초록에 명시되지 않음: 생존기간, 반응률, 위험비 등 구체적인 유효성 수치는 아직 초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07640295"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 KRAS 유전자 변이가 있는 전이성 췌관암(PDAC) 환자를 대상으로 범KRAS 억제제(pan-KRAS inhibitor) JAB-23E73과 nab-paclitaxel, gemcitabine 병용 투여의 안전성과 유효성을 평가합니다. 임상 1b/3상 단계로 진행되며 치료 경험이 없는 환자를 대상으로 합니다. 임상 1b상에서는 권장 3상 용량(RP3D)을 결정하고, 임상 3상에서는 JAB-23E73과 AG 병용요법 대 AG 단독요법을 비교합니다. 목표 환자 수는 총 80명입니다.",
+ "summary_source": "llm",
  "tags": [
   "KRAS",
   "KRAS mutation",
@@ -57,7 +62,7 @@
   "JAB-23E73"
  ],
  "title": "Study of JAB-23E73 in Combination With Chemotherapy in Participants With Metastatic PDAC Harboring KRAS Gene Alterations",
- "title_ko": null,
+ "title_ko": "전이성 췌장관암 환자를 대상으로 JAB-23E73과 항암화학요법 병용을 평가하는 연구",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Ductal Adenocarcinoma"
@@ -69,7 +74,7 @@
     "phone": "86 10 56315466"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 연구 관련 절차 수행 전 서면 동의서 작성 - 조직학적 또는 세포학적으로 확진된 전이성 췌관암(PDAC) - 진행성 질환에 대해 이전에 전신 항종양 치료를 받은 적이 없음(치료 경험이 없는 환자) - KRAS 유전자 변이 존재 - ECOG 신체 상태 점수 0 또는 1 - 적절한 장기 기능. 제외 기준: - 경구 약물을 삼킬 수 없거나 약물 흡수에 영향을 미치는 위장관 기능 장애 또는 질환 - 첫 투여 전 2년 이내에 다른 악성 종양 병력(자궁경부 상피내암, 표면성 비침습성 방광암, 적절히 치료된 1기 비흑색종 피부암 제외) - 이전에 KRAS G12C 억제제, KRAS G12D 억제제, 범KRAS/범RAS 억제제 또는 동종 계열 약물 투여 경험 - 임산부 또는 모유 수유 중인 여성 - 신보조 또는 보조 치료 중 또는 마지막 투여 후 6개월 이내에 진행성 질환 또는 재발이 발생한 참가자",
   "eligibility_text": "Inclusion Criteria:\n\n1.Written informed consent signed by the participant or the participant's legally authorized representative must be obtained prior to performing any study-related procedures. 2. Histologically or cytologically confirmed metastatic PDAC.\n\n3\\. No prior systemic antitumor therapy for advanced disease (treatment-naïve). 4. Presence of KRAS gene alterations: be enrolled upon approval by the sponsor).\n\n5\\. ECOG performance status score of 0 or 1. 6. Adequate organ function.\n\nExclusion Criteria:\n\n1. Inability to swallow oral medications or the presence of gastrointestinal dysfunction or disease that may significantly alter drug absorption.\n2. A history of another malignancy within 2 years prior to the first dose, histologically distinct from the cancer under study, except for carcinoma in situ of the cervix, superficial non-invasive bladder cancer, or adequately treated stage I non-melanoma skin cancer.\n3. Prior treatment with KRAS G12C inhibitors, KRAS G12D inhibitors, pan-KRAS/pan RAS inhibitors, or other agents of the same class.\n4. Women who are pregnant or breast-feeding.\n5. Participants who have progressive disease or recurrence during neoadjuvant or adjuvant treatment, or within 6 months after the last dose of medication.",
   "enrollment": 80,
   "has_results": false,

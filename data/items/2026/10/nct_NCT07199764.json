@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07199764",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 치료군 50명과 관찰군 약 50~60명으로 총 100명 이상입니다.",
+  "1차 항암화학요법을 4~8개월(16~32주) 동안 받고 진행이 없는 환자를 대상으로 합니다.",
+  "중재 치료로 odetiglucan과 mitazalimab을 투여합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07199764"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 1차 항암화학요법 후 병 진행이 없는 절제 불가능한 췌장관암종(PDA) 환자를 대상으로 odetiglucan과 mitazalimab 면역요법을 유지 치료로 평가하는 2상, 공개, 단일군 임상시험입니다. 연구는 치료군 50명과 관찰군 50~60명을 대상으로 진행됩니다. 치료군은 전이성 췌장암 부분반응(PR) 또는 안정병변(SD), 그리고 국소 진행성 췌장암 안정병변 환자들로 구성됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Maintenance Combinatorial Myeloid Immunotherapy for Unresectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "절제 불가능한 췌장암 환자를 위한 유지 요법으로서의 병용 골수성 면역요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
@@ -59,7 +63,7 @@
     "phone": "215-349-8245"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 연령 18세 이상 - 조직학적 또는 세포학적으로 확진된 절제 불가능한 국소 진행성 또는 전이성 췌장관암종 - 1차 항암화학요법 기반 표준 치료를 최소 16주에서 최대 32주간 받고 부분반응(PR) 또는 안정병변(SD)을 달성한 환자 - 탈모를 제외한 모든 항암화학요법 관련 독성이 치료 전 수준으로 회복되었거나 신경병증이 2등급 이하인 환자 - 동유럽협력종양학그룹(ECOG) 전신 수행 상태 점수 0 또는 1 - RECIST v1.1에 따른 측정 가능한 병변 존재 - 치료 전 및 치료 중 종양 생검에 동의한 환자 - 적절한 장기 기능을 갖춘 환자. 제외 기준: - 이전에 CD40 항체 또는 기타 면역조절제 투여 경험이 있는 환자 - 이전에 odetiglucan 투여 경험이 있는 환자 - 연구 치료 첫 투여 전 14일 이내에 췌장암에 대한 전신 치료를 받은 환자 - 지난 2년 이내에 전신 치료가 필요했던 활성 또는 비활성 자가면역 질환이 있는 환자 - 연구 약물 첫 투여 전 14일 이내에 정맥 내 항생제, 항바이러스제, 항진균제가 필요한 진행 중이거나 활성 감염이 있는 환자 - 조절되지 않는 동반 질환 또는 심혈관계 질환이 있는 환자 - HIV, B형 간염, C형 간염 병력이 있는 환자(단서 조항에 해당하는 경우는 예외).",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Patients must be able to understand the study procedures and agree to participate in the study by providing written informed consent\n* Histologically or cytologically confirmed diagnosis of pancreatic adenocarcinoma that is either locally advanced and unresectable, or metastatic\n* Have received a minimum of 16 and no more than 32 weeks of a first line chemotherapy-based standard of care regimen, resulting in either a PR or SD with no evidence of progression within 14 days prior to first dose of study treatment.\n\n  o Note: Patients must demonstrate at least stable disease (SD) or partial response (PR) by imaging. A single assessment showing PR at the end of chemotherapy (up to 32 weeks) is sufficient; confirmation is not required. If chemotherapy was discontinued between 16-32 weeks due to legitimate medical reasons (as determined by the investigator), the patient may still be eligible if they demonstrated SD or PR prior to discontinuation.\n* Have resolution of all chemotherapy-related toxicities to pre-treatment levels with exception of alopecia (which can be ongoing) and neuropathy (which can be ≤ Grade 2).\n* Eastern Cooperative Oncology (ECOG) performance status of 0 to 1.\n* Measurable disease per RECIST v1.1 (Section 17.2) is a requirement for study entry.\n* Willingness to undergo pre-treatment and on-treatment tumor biopsies. Tumor biopsies are mandatory for all patients with accessible disease, unless determined to be medically infeasible by the investigator.\n* Adequate organ function confirmed by the following laboratory values obtained ≤14 days prior to first administration of study treatment on Day 1:\n\n  * Absolute neutrophil count (ANC) ≥1.5 x 109/L\n  * Platelets ≥100 x 109/L\n  * Hemoglobin ≥9 g/dL\n  * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤2.5 x upper limit of normal (ULN); if liver metastases, then ≤5 x ULN\n  * Total bilirubin ≤1.5 x ULN; if liver metastases or metabolic disorder such as Gilbert's syndrome, then ≤2.5 x ULN\n  * Estimated glomerular filtration rate (GFR) (CLCr) ≥45 mL/min using Cockcroft Gault formula\n* Females of childbearing potential \\[defined as a sexually mature woman who (1) has not undergone hysterectomy (the surgical removal of the uterus) or bilateral oophorectomy (the surgical removal of both ovaries) or (2) has not been naturally postmenopausal for at least 24 consecutive months (i.e. has had menses at any time during the preceding 24 consecutive months)\\] must:\n\n  * Have a negative serum or urine pregnancy test (β-human chorionic gonadotropin, β-hCG) as verified by the study investigator within 14 days prior to study treatment.\n  * Commit to complete abstinence from heterosexual contact or agree to use medical doctor-approved contraception throughout the study without interruption while receiving study treatment and for at least 120 days following last dose of study treatment.\n* Males must practice complete abstinence or agree to use a condom (even if he has undergone a successful vasectomy) during sexual contact with a pregnant female or a female of childbearing potential while participating in the study, during dose interruptions and for at least 120 days following last dose of study treatment.\n\nExclusion Criteria:\n\n* Prior exposure to CD40 antibodies or any other immunomodulatory agent for the treatment of cancer\n* Prior exposure to odetiglucan\n* Received any systemic treatment for pancreatic adenocarcinoma within 14 days prior to the first dose of study therapy. For investigational agents, patients must not have had treatment within a time interval less than at least 5 half-lives of the investigational agent prior to the first scheduled day of dosing in this study\n* Had any active or inactive autoimmune disease or syndrome that required systemic treatment in the past 2 years, or currently requires systemic therapy with disease-modifying agents, corticosteroids, or immunosuppressive drugs. Examples include but are not limit to: rheumatoid arthritis, systemic sclerosis (scleroderma), systemic lupus erythematosus, autoimmune vasculitis (e.g. Granulomatosis with polyangiitis, formerly Wegener's Granulomatosis), multiple sclerosis, inflammatory bowel disease, or motor neuropathies of autoimmune origin (e.g. Guillain-Barre Syndrome)\n\n  o Note: Patients are permitted to enroll if they have vitiligo or resolved childhood asthma/atopy, hypothyroidism stable on hormone replacement, controlled asthma, psoriasis not requiring systemic treatment, Type I diabetes, Graves' disease, or Hashimoto's disease, or with medical monitor approval.\n* An ongoing or active infection requiring intravenous antibiotics, antivirals, or antifungals during the 14 days prior to first dose of study drug\n* An uncontrolled concurrent illness, symptomatic congestive heart failure (New York Heart Association class III or IV), unstable angina, uncontrolled hypertension, or cardiac arrhythmia\n* History of (non-infectious) pneumonitis that required steroids, current pneumonitis, or a history of interstitial lung disease\n* QT interval corrected for heart rate using Fridericia's (QTcF) method \\>450 msec for males and \\>460 msec for females\n* A history of myocardial infarction within 6 months or a history of arterial thromboembolic event within 3 months of the first dose of investigational agent\n* A history of human immunodeficiency virus (HIV), hepatitis B (HB), or hepatitis C, except for the following:\n\n  * Patients with anti-HB core antibody but with undetectable HB virus deoxyribonucleic acid (DNA) and negative for HB surface antigen\n  * Patients with resolved or treated hepatitis C virus (HCV) (i.e. HCV antibody positive but undetectable HCV RNA)\n* Received concurrent or prior use of an immunosuppressive agent within 14 days of the first dose of investigational agent, with the following exceptions and notes:\n\n  * Systemic steroids at physiologic doses (equivalent to dose of 10 mg oral prednisone) are permitted\n  * Intranasal, inhaled, topical intra-articular, and ocular corticosteroids with minimal systemic absorption are permitted\n* Patients must not have known, symptomatic brain or leptomeningeal metastases\n* Major surgical procedure within 21 days prior to first dose of study drug. Non-study related minor surgical procedures requiring local/epidural anesthesia must be completed at least 72 hours before study drug administration. In all cases, patients must be sufficiently recovered and stable before treatment administration\n* Other malignancy, except for adequately treated basal or squamous cell skin cancer or in situ cancer; or any other cancer from which the patient has been disease-free for at least 3 years\n* Received a live vaccine within 28 days before the first dose of study drug. If enrolled, patients should not receive live vaccines during the study or for 28 days after the last dose of study treatment (Note: seasonal influenza vaccines for injection are generally inactivated and are allowed; however, intranasal influenza vaccines (e.g. Flu-Mist®) are live attenuated vaccines and are not allowed)\n* Females who are pregnant or lactating or who intend to become pregnant during participation in the study are not eligible to participate\n* Known alcohol or drug abuse\n* Any clinically significant psychiatric, social, or medical condition that, in the opinion of the investigator, could increase the patient's risk, interfere with protocol adherence, or affect the patient's ability to give informed consent",
   "enrollment": 100,
   "has_results": false,

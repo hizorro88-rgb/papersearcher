@@ -20,7 +20,12 @@
  ],
  "id": "nct:NCT06669078",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 120명입니다.",
+  "대상 질환은 국소 진행성 췌장암(locally advanced pancreatic cancer)입니다.",
+  "중재 방법으로 Nal-lRl+Oxaliplatin+5-FU+PD-1 요법과 Nal-lRl+Oxaliplatin+5-FU 요법을 비교합니다.",
+  "환자 연령은 18세에서 75세까지입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,15 +49,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06669078"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 NALIRIFOX와 PD-1(programmed death-1) 및 순차적 방사선 치료를 결합한 요법과 NALIRIFOX 단독 요법의 효능 및 안전성을 평가합니다. 전향적, 공개, 무작위 배정, 대조, 다기관, 탐색적 임상시험으로 진행됩니다. 목표 환자 수는 총 120명입니다.",
+ "summary_source": "llm",
  "tags": [
   "NALIRIFOX",
   "Conversion Therapy",
   "Locally Advanced Pancreatic Cancer"
  ],
  "title": "NALIRIFOX Combined With PD-1 Sequential Radiotherapy Versus NALIRIFOX as Conversion Therapy of Locally Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장암 전환 치료(conversion therapy)로서의 NALIRIFOX 및 PD-1 억제제 순차적 방사선 치료 대 NALIRIFOX 단독 비교",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Cancer"
@@ -64,7 +69,7 @@
     "phone": "+86-025-83106666"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 췌장암 - 동유럽협력종양학그룹(ECOG) 전신 수행 상태 0-1 이하 - 영상학적으로 평가된 국소 진행성 췌장암 - 이전 항암 치료력이 없는 환자 - 서면 동의서를 제공할 능력이 있고 자발적으로 동의한 자. 제외 기준: - 모든 종류의 이전 항암 치료력 - 증상이 있는 중추신경계 전이 및/또는 암성 수막염 - 면역억제제로 치료 중인 자가면역질환 또는 면역결핍 환자 - 출혈 경향이 있는 환자 - 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n1. Histologically or cytologically confi rmed pancreatic cancer;\n2. ECOG performance no more than 1;\n3. Radiographically assessed as locally advanced pancreatic cancer according ;\n4. No previous anti-tumor therapy;\n5. Able and willing to provide a written informed consent.\n\nExclusion Criteria:\n\n1. Prior anti-tumor therapy of any kind;\n2. Known to be symptomatic central nervous system metastasis and/or cancerous meningitis.\n3. Patients with autoimmune disease or immune deficiency who are treated with immuno-suppressive drugs;\n4. Patients with bleeding tendency;\n5. Pregnant or lactating women.",
   "enrollment": 120,
   "has_results": false,

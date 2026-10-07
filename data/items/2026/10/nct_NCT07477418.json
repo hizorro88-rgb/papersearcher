@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
+  "drug",
   "treatment",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [
   "folfirinox",
@@ -22,7 +22,12 @@
  ],
  "id": "nct:NCT07477418",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 10명이며 경계성 절제 가능 췌장관암(Borderline Resectable Pancreatic Cancer) 환자를 대상으로 합니다.",
+  "수정된 폴피리녹스(modified FOLFIRINOX)와 정위체부방사선치료(SBRT) 후 렌보캐스(RenovoCath®)를 이용한 TAMP 젬시타빈(gemcitabine) 투여의 안전성을 평가합니다.",
+  "이차 목적은 수술 중 절제면 상태(surgical margin status)와 병리학적 종양 퇴행(pathologic tumor regression) 평가입니다.",
+  "탐색적 분석을 통해 무재발 생존기간(relapse-free survival)을 조사합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -46,15 +51,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07477418"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "본 임상시험은 경계성 절제 가능 췌장관암(Borderline Resectable Pancreatic Cancer) 환자를 대상으로 수정된 폴피리녹스(modified FOLFIRINOX) 항암화학요법과 정위체부방사선치료(SBRT) 후, 렌보캐스(RenovoCath®) 카테터 시스템을 이용한 경동맥 미세관류법(Trans-arterial microperfusion, TAMP)으로 젬시타빈(gemcitabine)을 투여하는 1b/2상 단일군 연구입니다. 초록에 명시된 목표 환자 수는 10명입니다. 주된 목적은 수술 전 보조 TAMP 젬시타빈 투여의 안전성과 내인성을 평가하는 것입니다.",
+ "summary_source": "llm",
  "tags": [
   "Neoadjuvant Therapy",
   "Gemcitabine",
   "Intra-arterial Chemotherapy"
  ],
  "title": "PDAC Regression and Intraoperative Surgical Margin With Neoadjuvant TAMP (PRISM-TAMP)",
- "title_ko": null,
+ "title_ko": "경동맥 미세관류법(TAMP)을 이용한 젬시타빈(gemcitabine) 수술 전 보조요법: PRISM-TAMP 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -68,7 +73,7 @@
     "phone": "1 (802) 656-2021"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확견된 췌장관암(PDAC).\n- ABC 분류 기준에 따른 경계성 절제 가능 질병.\n- 췌장암에 대한 이전 치료력이 없음(항암화학요법, 방사선, 수술 등).\n- 18세 이상.\n- ECOG 수행 상태 0 또는 1.\n- 서면 동의서에 동의하고 이해할 수 있는 능력.\n제외 기준:\n- 국소 진행성(Locally Advanced) PDAC 또는 전이성 PDAC.\n- 선암(adenocarcinoma)이 아닌 조직학적 유형.\n- 접근 불가능한 동맥 해부학적 구조.\n- 젬시타빈(gemcitabine) 과민성 또는 제공자 평가에 따른 mFOLFIRINOX 금기증.",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed pancreatic ductal adenocarcinoma (PDAC).\n* Borderline resectable disease as defined by the ABC classification criteria, incorporating one or more of the following:\n\n  * Anatomy (A): Vascular involvement consistent with borderline resectable or resectable locally advanced-PDAC (e.g., abutment of the superior mesenteric vein or artery, portal vein, or celiac axis) as determined by cross-sectional imaging\n  * Biology (B): Concern for extra-pancreatic metastasis or known N1 disease or suspicious but nonconfirmatory liver/lung lesion(s). CA19-9\\>500 after normalized bilirubin\n  * Condition (C): Functional status and comorbidity profile adequate for curative-intent surgery, as assessed by the multidisciplinary team, specifically WHO PS \\>/=1.\n* No prior treatment for PDAC (e.g., chemotherapy, radiation, or surgery).\n* Age ≥ 18 years.\n* ECOG performance status of 0 or 1.\n* Ability to understand and the willingness to sign a written informed consent.\n\nExclusion Criteria:\n\n* Locally Advanced PDAC or metastatic PDAC\n* Histology other than adenocarcinoma\n* Non-accessible arterial anatomy\n* Gemcitabine hypersensitivity or contraindication to mFOLFIRINOX therapy based on provider assessment",
   "enrollment": 10,
   "has_results": false,

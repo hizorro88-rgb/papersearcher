@@ -3,8 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "supportive"
+  "drug",
+  "supportive",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -18,7 +19,12 @@
  ],
  "id": "nct:NCT06605430",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 64명입니다.",
+  "참가자들은 1:1 비율로 조기 대마군 또는 지연 대마군으로 무작위 배정됩니다.",
+  "조기군은 즉시 대마를 제공받고, 지연군은 첫 8주 동안 대마를 사용하지 않습니다.",
+  "연구 기간은 총 8주(1차) 또는 16주(2차)로 진행됩니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,14 +48,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06605430"
  },
- "summary_ko": "Many patients with advanced pancreatic cancer and colorectal cancer experience burdensome and difficult-to-treat symptoms. The impact of multiple symptoms (called \"symptom burden\") can negatively affect a patient's quality of life, decrease their ability to tolerate cancer treatments, and lead to worse survival.",
- "summary_source": "excerpt",
+ "summary_ko": "진행성 췌장암 및 대장암 환자는 증상 부담(symptom burden)으로 인해 삶의 질이 떨어지고 치료 내약성이 감소합니다. 이 2상(phase2) 임상시험은 진행성 췌장암 및 대장암 환자 64명을 대상으로 의료용 대마(Medical Cannabis)가 증상 부담에 미치는 영향을 연구합니다. 참가자들은 1:1로 무작위 배정되어 조기(early) 또는 지연(delayed) 의료용 대마 치료를 받게 됩니다. 주요 연구 기간은 0주에서 8주 사이입니다.",
+ "summary_source": "llm",
  "tags": [
   "medical cannabis",
   "patient-reported outcomes"
  ],
  "title": "Medical Cannabis in Patients With Advanced Pancreatic and Colorectal Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 및 대장암 환자에서의 의료용 대마(Medical Cannabis) 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Non-resectable",
@@ -63,7 +69,7 @@
     "phone": "(952) 977-5555"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 등록 시점 만 18세 이상의 성인\n- 조직학적 또는 세포학적으로 진단된 췌장암 또는 대장암 (신경내분비종양 제외)\n- 향후 3개월 내 근치적 수술 계획이 없는 진행성(국소 진행성 또는 전이성) 췌장암 또는 대장암\n- 무작위 배정 전 14일 이내에 오심, 구토, 식욕부진, 악액질, 또는 통증을 최소 1회 자가 보고한 환자\n- 참여 기관에서 표준 전신 항암화학요법(면역요법 제외)을 시작할 예정이거나 최근 2주 내에 시작한 환자 (최근 3개월 이내 전신 치료 이력이 없어야 함)\n- 미네소타주 거주자\n- 미네소타주 의료용 대마 프로그램에 등록하고 주 규정을 따를 의향이 있는 자\n- 기저 및 요구되는 환자 보고 성과를 보고할 의향이 있는 자\n\n제외 기준:\n- 무작위 배정 전 30일 중 10일 이상 THC 함유 카나비노이드 제품을 정기적으로 사용한 자\n- 대마 불내성 또는 과민 반응(대마 과다구토증 등) 병력이 있는 환자\n- 알츠하이머 치매, 활동성 간질, 또는 외상성 뇌 손상 병력이 있는 환자\n- 알려진 활동성 또는 미치료 뇌 전이가 있는 환자\n- 면역요법, 항암화학-면역요법 병용, 또는 비표준 세포독성 항암화학요법을 시작하거나 받고 있는 환자\n- 임신부, 수유부, 또는 피임법을 사용하지 않는 가임기 여성\n- 연구 참여 위험을 증가시키거나 결과 해석을 방해할 수 있는 조절되지 않는 급·만성 질환, 정신 질환, 실험실 검사 이상이 있는 환자\n- 연구자의 판단에 따라 피험자의 안전을 위협하거나 프로토콜 준수를 방해할 수 있는 조건을 가진 환자",
   "eligibility_text": "Inclusion Criteria\n\n1. Adults (aged 18 or more at enrollment)\n2. Histologically or cytologically proven pancreatic or colorectal cancer. Histologies may include listing of adenocarcinoma, poorly differentiated carcinoma, or other pathology terms that treating oncologist would consider managing per usual standard of care of pancreas and colorectal adenocarcinoma. Neuroendocrine tumors are excluded in both cancer types.\n3. Advanced stage (locally advanced or metastatic) pancreatic or colorectal cancer with no definitive plans for curative surgery in the next 3 months\n4. Self-report of experiencing nausea, vomiting, anorexia, cachexia (wasting), or pain at least once in the 14 days prior to randomization\n5. Plan to initiate or initiated within the past 2 weeks standard-of-care systemic chemotherapy (any regimen that does not include immunotherapy) at a participating institution with no prior systemic therapy in the prior 3 months (prior adjuvant or neoadjuvant chemotherapy is allowed as long as it was \\>3 months prior to randomization)\n6. Must be a resident of Minnesota\n7. Must be willing to be registered in the Minnesota Medical Cannabis Program and follow all rules and requirements of the state program\n8. Must be willing to report baseline and required patient-reported outcomes\n\nExclusion Criteria\n\n1. Self-reported regular use (using 10 or more days in the 30 days prior to randomization) of a THC containing cannabinoid product\n2. Patients with a history of intolerance or hypersensitivity to cannabis (i.e., cannabis hyperemesis)\n3. Patients with Alzheimer's dementia, active epilepsy, or history of traumatic brain injury\n4. Patients with known active or untreated brain metastases. A brain MRI is not required during the screening period.\n5. Patients initiating or receiving immunotherapy, a chemotherapy-immunotherapy combination, or non-standard cytotoxic chemotherapy (including patients enrolled/ enrolling in trials of investigational cancer-directed treatments)\n6. Women who are pregnant, breastfeeding or of childbearing potential without the use of birth control\n7. Uncontrolled acute or chronic medical conditions, psychiatric conditions or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the subject inappropriate for enrollment in this study\n8. Has any condition that in the opinion of the investigator might jeopardize the safety of the subject or interfere with protocol compliance",
   "enrollment": 64,
   "has_results": false,

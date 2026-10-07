@@ -23,7 +23,11 @@
  ],
  "id": "nct:NCT07539155",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 20명입니다.",
+  "표준 치료 후 절제되지 않은 국소 진행성 췌장암 환자가 대상입니다.",
+  "중재 방법은 MMR 백신의 종양 내 직접 주사입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -47,8 +51,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07539155"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 표준 치료(SoC, Standard of Care) 항암화학요법과 방사선 치료 후에도 종양이 절제 가능해지지 않은 국소 진행성 췌장암 환자를 대상으로 합니다. 머크(Merck & Co.)의 홍역·볼거리·풍진(MMR, Measles, Mumps, Rubella) 백신(M-M-R® II)을 내시경 및 내시경 초음파를 통해 종양 내 직접 주사하여 안전성과 종양 축소 효과를 평가합니다. 이는 단일군으로 진행되는 1b/2상 임상시험입니다. 목표 환자 수는 20명입니다.",
+ "summary_source": "llm",
  "tags": [
   "MMR",
   "Borderline Resectable",
@@ -57,7 +61,7 @@
   "Non-Metastatic"
  ],
  "title": "Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 또는 절제 불능 췌장암 환자를 대상으로 한 종양 내 MMR 백신 주사 임상시험",
  "trial": {
   "conditions": [
    "Borderline Resectable/Unresectable Pancreatic Cancer",
@@ -75,7 +79,7 @@
     "phone": "501-214-2499"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:- 18세 이상- 병리학적으로 확진된 국소 진행성 췌장암- 표준 치료 항암화학요법 및 방사선 치료 완료 후에도 절제 불능 상태로 남은 경계성 절제 가능 또는 절제 불능 췌장암- 이전의 항암화학요법 및 방사선 치료력 보유- ECOG 수행 능력 평가 0-1점- 적절한 조혈, 간, 신장 기능 유지제외 기준:- 표준 치료 전 또는 치료 후 절제 가능해진 췌장암- 방사리학적으로 확인된 전이성 질환이 있는 환자- 임신부, 수유부 또는 임신 계획이 있는 자- 연구 약물 투여 전 30일 이내에 MMR 백신을 포함한 생백신을 투여받은 자- 연구 시작 전 5 반감기(또는 반감기를 모르는 경우 2주) 이내에 항암 치료를 받은 자- 이전 항암 치료로 인한 회복되지 않은 2등급 이상의 독성이 있는 자- 연구 진행에 방해가 될 수 있는 기타 질환이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. Pathologically proven locally advanced adenocarcinoma of pancreas.\n3. Borderline resectable pancreatic cancer that is determined to be unresectable following completion of SoC chemotherapy and RT as evidenced by any of the following:\n\n   1. Encasement of gastroduodenal artery up to the common hepatic artery/short segment encasement or abutment of the hepatic artery, but without extension to the celiac trunk.\n   2. Venous involvement of SMV or portal vein, less than 180 degrees.\n   3. Tumor abutment of SMA, less than half the circumference of the vessel wall. OR\n\n      Unresectable pancreatic cancer that remains unresectable following completion of SoC chemotherapy and RT as evidenced by any of the following:\n   4. Greater than 180-degree encasement or occlusion/thrombus of SMA, unresectable SMV, or SMV-portal confluence occlusion.\n   5. Direct involvement of inferior vena cava, aorta, celiac trunk, or hepatic artery, as defined by the absence of fat plane between low-density tumor and these structures on CT scan.\n\n   OR Surgeon deems that the pancreatic cancer is unresectable.\n4. Prior history of treatment with chemotherapy (e.g., FOLFIRINOX, Gemcitabine + Abraxane or NALIRIFOX \\[liposomal irinotecan (Nal-IRI or Onivyde®), Nab Paclitaxel, 5 fluorouracil (5-FU)/leucovorin and oxaliplatin\\]) and RT. The chemotherapy regimen is per treating physician's choice. The chemotherapy agent for radio sensitization is up to the treating physician (capecitabine, 5FU or gemcitabine).\n\n   a. The chemo-radiation therapy regimen should be completed at least 6 weeks but no more than 12 weeks from planned Day 1.\n5. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n6. Adequate hematological function (Hemoglobin \\> 9g/dL, White Blood Cell (WBC) count \\> 1500 K/µL, Absolute Neutrophil Count (ANC) \\> 500 K/µL, Platelet count \\> 100 K/µL).\n7. Adequate hepatic function (Total bilirubin ≤ 1.5 x institutional upper limit of normal \\[ULN\\]) (Note: In subjects with Gilbert's syndrome, if total bilirubin is \\>1.5 × ULN, measure direct and indirect bilirubin and if direct bilirubin is ≤ 1.5 × ULN, subject is eligible); Aspartate aminotransferase (AST\\[SGOT\\]) or Alanine aminotransferase (ALT\\[SGPT\\]) ≤ 2.5 × institutional ULN; Serum albumin ≥ 3.0 g/dL.\n8. Adequate renal function (i.e., creatinine less than 1.5 times ULN).\n\nExclusion Criteria:\n\n1. Pancreatic cancer that was either resectable before SoC treatment or became resectable following SoC chemotherapy and RT.\n2. Subjects with radiographically proven metastatic disease are excluded.\n3. Subject must not be pregnant and/or currently breastfeeding or plan to be.\n4. Subject must not have received any live vaccine, including MMR, within 30 days prior to the dose of study drug.\n5. Subject must not have treatment with any anti-cancer therapy including chemotherapy, radiotherapy, biological, immunotherapy or an investigational therapy, including targeted small molecule agents, within 5 half-lives (or 2 weeks if half-life is unknown) prior to day 1.\n6. Subject has no unresolved toxicities, AEs ≥ Grade 2 (NCI CTCAE version 5.0), from prior anticancer therapy.\n7. Any other condition that, in the opinion of the investigator, might interfere with the safe conduct of the study.",
   "enrollment": 20,
   "has_results": false,

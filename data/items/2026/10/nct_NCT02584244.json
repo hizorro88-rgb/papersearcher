@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "diagnosis",
-  "surgery",
-  "treatment"
+  "drug",
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT02584244",
  "importance": 0.78,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 총 66명입니다.",
+  "대상 질환에는 췌장암(pancreatic cancer), 대장암(colorectal cancer), 식도암(esophageal cancer)이 포함됩니다.",
+  "LUM015 약물은 췌장암의 경우 수술 시작 1시간 전에 정맥 주사로 투여됩니다.",
+  "절제된 수술 조직의 형광 신호를 LUM Imaging Device로 촬영하여 병리 평가를 유도합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02584244"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 대장암, 췌장암, 식도암 환자를 대상으로 정맥 투여형 영상 탐색자인 LUM015와 LUM Imaging Device를 이용한 ex vivo 원적외선 영상화의 초기 안전성과 유효성을 평가합니다. 수술 예정인 확진 환자 66명을 목표로 진행하며, 수술 전 약물 투여 후 절제된 종양 조직의 형광 신호를 분석합니다. 초록에 유효성이나 안전성에 대한 구체적인 수치 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Feasibility of the LUM Imaging System for Detection of Gastrointestinal Cancers",
- "title_ko": null,
+ "title_ko": "위장관 암 및 췌장암 탐지를 위한 LUM 영상 시스템의 타당성 연구",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -67,7 +72,7 @@
     "phone": "781-218-3268"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 수술 전 생검을 통해 식도, 대장, 또는 췌장 선암(adenocarcinoma)으로 조직학적 또는 세포학적으로 확진된 자 - 일차 종양의 수술적 절제가 예정된 자 - 만 18세 이상 - 연구 절차와 지침을 따를 수 있는 자 - 서면 동의서를 제출한 자 - 수술 또는 내시경 시술을 받기에 충분한 건강 상태를 가진 자 - 정상적인 장기 및 골수 기능을 가진 자 - 가임기 여성의 경우 연구 참여일로부터 약물 주사 후 60일까지 피임에 동의한 자 - ECOG 수행 능력 평가 0 또는 1인 자. 제외 기준: - 등록 30일 이내에 임상시험용 의약품을 복용한 자 - QTc 간격이 480ms를 초과하는 자 - 4주 이전에 투여된 약물이나 진단제로 인한 이상반응으로부터 회복되지 않은 자 - 조절되지 않는 고혈압 환자 - 폴리에틸렌글리콜(PEG) 함유 약물에 알레르기 반응 병력이 있는 자 - 경구 또는 정맥용 조영제에 알레르기 반응 병력이 있는 자 - 임산부 또는 수유부 - 성생활을 하며 의학적으로 수용 가능한 피임법을 사용하지 않거나 거부하는 자 - 복합 항레트로바이러스 치료를 받는 HIV 양성 환자 - 연구자가 참여가 환자에게 최선의 이익이 되지 않는다고 판단하는 자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Subjects must have histologically or cytologically confirmed esophageal, colorectal or pancreatic adenocarcinoma (inclusive of high grade dysplasia and cystic neoplasms) on a biopsy prior to surgery and must be scheduled for surgical resection, inclusive of endoscopic mucosal resection, of the primary tumor. Subjects at any cancer stage will be enrolled.\n2. Subjects may have previously received pre-operative radiation therapy and neoadjuvant chemotherapy.\n3. Age of 18 years or older.\n4. Subjects must be able and willing to follow study procedures and instructions.\n5. Subjects must have received and signed an informed consent form.\n6. Subjects must be sufficiently healthy to undergo surgery or an endoscopic procedure.\n7. Subjects must have normal organ and marrow function as defined below:\n\n   * Leukocytes \\>/= 3,000/mcL\n   * Absolute neutrophil count \\>/= 1,500/mcL\n   * Platelets \\>/= 100,000/mcL\n   * total bilirubin within normal institutional limits (except in cases of malignant biliary obstruction)\n   * AST (SGOT)/ALT (SGPT) \\</= 2.5 X institutional upper limit of normal (\\</= 5 x ULN in cases of malignant biliary obstruction)\n   * Creatinine within normal institutional limits or creatinine clearance \\>/= 60 mL/min/1.73 m2 for subjects with creatinine levels above institutional normal.\n8. Women of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control, abstinence) starting the day entering the study, and for 60 days after injection of the imaging agent. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n9. Subjects with ECOG performance status of 0 or 1.\n\nExclusion Criteria:\n\n1. Subjects who have taken an investigational drug within 30 days of enrollment.\n2. Subjects with QTc interval \\> 480ms.\n3. Subjects who have not recovered from adverse events due to pharmaceutical or diagnostic agents administered more than 4 weeks earlier.\n4. Subjects with uncontrolled hypertension defined as persistent systolic blood pressure \\> 180 mm Hg, or diastolic blood pressure \\> 110 mm Hg; those subjects with known HTN should be under these values while under pharmaceutical therapy\n5. History of allergic reaction attributed to drugs containing polyethylene glycol (PEG)\n6. History of allergic reaction to oral or intravenous contrast agents.\n7. Pregnant women or lactating women\n8. Subjects who are sexually active and not willing/able to use medically acceptable forms of contraception upon entering the study.\n9. HIV-positive individuals on combination antiretroviral therapy.\n10. Any subject for whom the investigator feels participation is not in the best interest of the subject.",
   "enrollment": 66,
   "has_results": false,

@@ -1,14 +1,21 @@
 최근 수집일: [2026-10-07](_generated/daily/2026/10/07.md) · 전체 434건 · 최근 7일 434건
 
 <a id="nct-nct07490301"></a>
-#### [A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma](https://clinicaltrials.gov/study/NCT07490301)
+#### [전이성 췌장관암 환자 대상 1차 치료로서 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교하는 임상시험](https://clinicaltrials.gov/study/NCT07490301)
+<small>A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma</small>
+
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-24 · ClinicalTrials.gov · AbbVie · 중요도 1.00
 
 **NCT07490301** · 2상/3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07490301.md)
 
-Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably. The pancreas is a gland behind the stomach that produces a digestive fluid that is emptied into the intestines through tube shaped ducts.
+이 연구는 전이성 췌장관암(Metastatic Pancreatic Ductal Adenocarcinoma, PDAC) 성인 환자를 대상으로 신약 telisotuzumab adizutecan과 FOLFOX(fluorouracil, folinic acid, oxaliplatin) 병용요법의 안전성과 질병 활성도 변화를 평가합니다. 2상과 3상으로 나누어 진행되며, 전 세계 약 200개 기관에서 총 900명의 환자를 모집합니다. 환자들은 telisotuzumab adizutecan 병용요법군 또는 표준 치료(SOC)군에 무작위 배정됩니다. 이 연구는 약 6년 동안 진행될 예정입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
+- 목표 인원은 전 세계 약 900명입니다.
+- 국내 기관은 1곳이 참여합니다.
+- 임상시험은 2상과 3상 단계로 나누어 진행됩니다.
+- 대조군은 표준 치료(SOC, fluorouracil, leucovorin, oxaliplatin, irinotecan)입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct07491445"></a>

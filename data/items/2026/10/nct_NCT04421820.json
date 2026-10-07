@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT04421820",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 220명이며, 국내 기관 5곳이 참여합니다.",
+  "대상 질환은 전이성 또는 절제 불가능한 대장암, 췌장암, 위암, 담관암입니다.",
+  "치료 중재는 BOLD-100과 FOLFOX 화학요법의 병용 투여입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -42,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04421820"
  },
- "summary_ko": "BOLD-100 is an intravenously administered sterile solution containing the ruthenium-based small molecule. BOLD-100 has been shown to preferentially decrease the expression of GRP78 in tumour cells and ER stressed cells when compared to normal cells.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 진행성 소화기암(위장관 종양) 환자를 대상으로 BOLD-100과 표준 세포독성 항암화학요법인 FOLFOX를 병용하여 안전성과 내인성을 평가하는 제1b/2a상 연구입니다. 대상 질환에는 대장암, 췌장암, 위암, 담관암이 포함되며, 총 220명의 환자를 모집합니다. 연구는 용량 단계적 증량(dose escalation) 및 코호트 확장(cohort expansion) 단계로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "BOLD-100 in Combination With FOLFOX for the Treatment of Advanced Solid Tumours",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 위한 BOLD-100과 FOLFOX 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -66,7 +70,7 @@
     "phone": "604-262-9934"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 18세 이상 성인. 2. 피임 요건에 동의하는 남성 또는 비임신 여성. 3. 조직학적 또는 세포학적으로 확인된 전이성 또는 절제 불가능한 위장관 종양. 4. RECIST v1.1에 따른 측정 가능한 병변 존재. 5. 예상 생존 기간이 최소 16주 이상. 6. ECOG 수행 능력 점수 0 또는 1. 7. 적절한 장기 기능. 8. 임상시험용 서면 동의서 서명. 제외 기준: 1. 2등급을 초과하는 말초 신경병증(Neuropathy). 2. 플루오로우라실(fluorouracil) 또는 옥살리플라틴(oxaliplatin)에 대한 이전 불내성 또는 중대한 부작용. 3. 치료 시작 전 6개월 이내의 뇌혈관 사고. 4. 중추신경계 전이 또는 연수막 종양 병력. 5. 치료로 인해 악화될 수 있는 심각한 의학적 상태. 6. 심각한 심장 질환 병력. 7. 치료 시작 전 6개월 이내의 객혈 또는 임상적으로 유의미한 위장관 출혈. 8. 치료 시작 전 3년 이내의 다른 악성 종양 병력. 9. 흡수장애 증후군이 있는 활성 위장관 질환. 10. 치유되지 않는 상처, 골절, 궤양 또는 증상이 있는 말초혈관질환. 11. 치료 시작 전 4주 이내의 방사선 치료 또는 수술. 12. 치료 시작 전 3개월 이내 체중의 10%를 초과하는 체중 감소 병력. 13. 항레트로바이러스 병용 치료를 받는 HIV 양성 환자. 14. 치료 시작 전 4주 이내의 다른 임상시험용 치료제 또는 항암 치료 병행. 15. 현재 모유 수유 중인 여성. 16. 디하이드로피리미딘 탈수소효소(DPD) 결핍. 17. 디하이드로피리미딘 탈수소효소(DPD) 강력한 억제제의 현재 또는 과거 치료.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Be 18 years or older.\n2. Be male or non-pregnant females who agree to comply with applicable contraceptive requirements of the protocol.\n3. Histologically and/or cytologically confirmed gastrointestinal tumours that are metastatic or unresectable. (ARM VII): Patients must have received only 1 prior line of therapy in the metastatic setting.\n4. Have measurable disease according to RECIST v1.1.\n5. Have an anticipated survival of at least 16 weeks.\n6. Be ambulatory, with an ECOG performance score of 0 or 1.\n7. Have adequate organ function.\n8. Be on stable doses of any drugs that may affect hepatic drug metabolism or renal drug excretion.\n9. Be fully informed about their illness and the investigational nature of the study protocol, and sign a REB-approved Informed Consent Form (ICF).\n10. (ARM VII): BRAF wild-type tumour status.\n\nExclusion Criteria:\n\n1. Neuropathy \\> grade 2\n2. Previous intolerance to or significant reaction secondary to fluorouracil or oxaliplatin.\n3. Cerebrovascular accident within the past 6 months before the start of treatment.\n4. History or presence of central nervous system (CNS) metastasis or leptomeningeal tumours.\n5. Any serious medical conditions that might be aggravated by treatment or limit compliance.\n6. Any history of serious cardiac illness.\n7. Hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months before the start of treatment.\n8. Any other known malignancy within 3 years before the start of treatment.\n9. Active gastrointestinal tract disease with malabsorption syndrome.\n10. Non-healing wound, fracture, or ulcer, or presence of symptomatic peripheral vascular disease.\n11. Treatment with radiation therapy or surgery within 4 weeks prior to starting treatment.\n12. Recent history of weight loss \\> 10% of current body weight in past 3 months before the start of treatment.\n13. HIV-positive subjects on combination anti-retroviral therapy due to the potential for PK interactions with the study agent.\n14. Concurrent use of another investigational therapy or anti-cancer therapy within 4 weeks before the start of treatment.\n15. Currently breastfeeding\n16. Dihydropyrimidine Dehydrogenase (DPD) deficiency\n17. Current or prior treatment with potent inhibitors of Dihydropyrimidine Dehydrogenase (DPD)\n18. (ARM VII): Prior exposure to BOLD-100\n19. (ARM VII): Subjects with microsatellite-high (MSI-H) Tumours\n20. (ARM VII): Concurrent monoclonal antibody therapy for mCRC (anti-EGFR, anti-VEGF or anti-HER2)",
   "enrollment": 220,
   "has_results": false,

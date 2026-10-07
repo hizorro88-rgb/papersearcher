@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
   "supportive"
  ],
@@ -20,7 +21,12 @@
  ],
  "id": "nct:NCT07701486",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환: 새로 진단된 4기 전이성 췌장 췌관 선암종(pancreatic ductal adenocarcinoma, PDAC)",
+  "시험 중재: VCN-01 oncolytic adenovirus와 gemcitabine, nab-paclitaxel 병용",
+  "목표 인원: 6명",
+  "효과 및 생존기간 수치: 초록에 명시되지 않음"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07701486"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 새로 전이성 췌장암(metastatic pancreatic cancer)을 진단받고 치료받지 않은 성인 환자를 대상으로 합니다. 종양용해성 아데노바이러스(oncolytic adenovirus)인 VCN-01을 표준 항암화학요법인 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-패클리탁셀)과 함께 투여하는 새로운 요법의 안전성과 내성을 평가합니다. 환자들은 56일마다 한 번씩 총 3회의 VCN-01 투여를 받으며, 각 투여 후 표준 화학요법이 이어집니다. 목표 인원은 6명이며, 초록에 치료 효과나 생존기간 등의 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "VCN-01",
   "mPDAC",
@@ -53,7 +59,7 @@
   "nab-paclitaxel"
  ],
  "title": "A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients With Newly Diagnosed Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 주기에 대한 연구",
  "trial": {
   "conditions": [
    "Pancreas Cancer, Metastatic",
@@ -67,7 +73,7 @@
     "phone": "+93936899365"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상의 남녀 환자 - 조직학적 또는 세포학적으로 확진된 전이성(4기) 췌장 선암종 환자로서 췌장암 치료를 받은 적이 없는 자 - 전이성 췌장암 진단 후 6주 이내에 첫 번째 VCN-01 투여를 받을 수 있는 자 - RECIST 1.1 기준에 따라 영상 평가가 가능한 측정 가능한 종양 병소가 최소 1개 이상인 자 - 등록 당시 ECOG 신체 상태 평가(performance status)가 0 또는 1인 자 - 적절한 장기 기능(혈액학적, 간, 신장)을 충족하는 자. 제외 기준: - 지리적, 정신적, 사회적 이유로 임상시험 절차를 완료할 수 없는 자 - 전이성 췌장암에 대해 수술, 방사선치료, 항암화학요법 또는 임상시험용 치료를 이전에 받은 적이 있는 자(통증 완화 목적의 방사선치료 및 담도 스텐트 삽입은 허용됨) - 스크리닝 기간 동안 임상적으로 수용할 수 없는 악화를 시사하는 증상이나 징후가 있는 자 - 활성 감염, 기타 심각한 질환 또는 자가면역 질환이 있는 자 - 만성 간질환, 동시 악성 혈액 질환 또는 고형암 병력이 있는 자 - 치료받지 않은 뇌전이 및/또는 연막 카르시노마토시스가 있는 자 - 이전 폐렴이나 간질성 폐질환 병력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent obtained prior to initiating any trial-specific procedures or assessments.\n* Male or female patients aged 18 years or over.\n* Patients with histologically or cytologically confirmed pancreatic adenocarcinoma that is metastatic (stage IV) at diagnosis and who have not received any treatment for their pancreatic cancer.\n* Patients must be able to receive their first dose of VCN-01 ≤6 weeks after their metastatic pancreatic cancer diagnosis.\n* Patients must have at least one measurable tumor lesion that can be imaged for assessments according to RECIST 1.1.\n* ECOG performance status of 0 or 1 at enrollment.\n* Must be willing to comply with the trial intervention, including prophylactic medications, and procedures.\n* Adequate baseline organ function (hematologic, liver, renal) within the 7 days prior to enrollment:\n\nHematology:\n\n* Leukocytes ≥3.0x103 mcL\n* Absolute neutrophil count ≥1.5x10⁹/L\n* Hemoglobin ≥9 g/dL\n* Platelets ≥100x10⁹/L\n\nCoagulation:\n\n* Prothrombin time or international normalized ratio ≤1x upper limit of normal (ULN)\n* Activated partial thromboplastin time ≤1.2xULN\n\nHepatic:\n\n* Total bilirubin ≤1.5xULN\n* ALT and AST ≤2.5xULN (\\<5xULN is acceptable if liver metastases are present)\n\nRenal:\n\n* Serum creatinine ≤1.5xULN; or,\n* If serum creatinine \\>1.5xULN, an estimated creatinine clearance \\>50 mL/min using the Cockcroft and Gault formula\n\nNutritional:\n\n• Serum Albumin ≥30 g/L\n\n\\- Adequate left ventricular ejection fraction (LVEF) ≥ 50% measured by ECHO or MUGA and QT interval corrected by Fridericia (QTcF) assessment ≤ 450 ms for men or ≤ 470 ms for women.\n\nExclusion Criteria:\n\n* Unwillingness to complete the trial procedures for geographic, psychiatric, or social reasons.\n* Patient has previously received treatment for their metastatic pancreatic cancer with surgery, radiotherapy, chemotherapy or investigational therapy; except that:\n* Palliative radiotherapy for pain is permitted;\n* Placement of a biliary stent/tube is permitted.\n* Patients who, in the opinion of the investigator, have symptoms or signs suggesting clinically unacceptable deterioration during the Screening Period.\n* Active infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n  • Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n* Patients with past or resolved TB are eligible to participate.\n\n  • Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n* HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n* Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n* Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n\n  • Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n* Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n* Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n\n  * Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\nActive infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n* Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n\n  \\- Patients with past or resolved TB are eligible to participate.\n* Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n\n  * HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n  * Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n  * Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n* Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n\n  * Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n  * Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n* Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\n  * Known chronic liver disease (e.g. liver cirrhosis, liver fibrosis, chronic hepatitis); except that:\n  * Patients with fatty liver disease are eligible to participate if their liver transaminases meet inclusion criterion 8.\n  * Concurrent malignant hematologic or solid disease; except that:\n  * Patients with a prior history of cancer are eligible to participate if they are in complete remission from their prior cancer for at least 3 years.\n  * Patients with Li Fraumeni syndrome or with previously known retinoblastoma protein pathway germline deficiency.\n  * Patients with untreated brain metastases and/or leptomeningeal carcinomatosis with progressive symptoms despite corticosteroid coverage; except that:\n  * Patients with brain metastases with stable symptoms are eligible to participate.\n  * Patients with previous pneumonitis or interstitial lung disease.\n  * Patients with pre-existing sensory neuropathy \\>G1\n  * Clinical evidence of deep vein thrombosis, pulmonary embolism or arterial thromboembolic event during the Screening Period.\n  * Patients with superficial vein thrombosis are eligible to participate.\n  * Patients with uncontrolled coagulopathy.\n  * Any other condition, disease, metabolic dysfunction (e.g., uncontrolled diabetes mellitus), active or uncontrolled infection/inflammation, physical examination finding, mental state or clinical laboratory finding that would contraindicate participation in the clinical trial due to concerns over safety or potential non-compliance with clinical trial procedures.\n  * A female patient, who is pregnant or lactating.\n  * Female patients of reproductive potential must agree to use a highly effective method of birth control. Male patients must agree to use condoms.\n  * Treatment with live attenuated vaccines in the last 3 weeks before the administration of the IMP.\n  * Treatment with an adenovirus type-5 (Ad5)-based COVID-vaccine in the last 12 weeks before the administration of the IMP.\n  * Treatment with another investigational agent within five of that investigational agent's half-lives prior to the administration of the IMP.\n  * Chronic immunosuppressive therapy; except that:\n  * Inhaled corticosteroids are permitted;\n  * Oral or IV corticosteroids with a dose lower than 10 mg prednisone or equivalent/day are permitted;\n  * Dexamethasone up to a maximum dose of 1 mg/day is permitted.\n  * Known allergy or hypersensitivity to any of the trial-specific interventions or any of their excipients.\n  * Subjects, for whom first line treatment options other than the combination nab-paclitaxel/gemcitabine are recommended by the investigator.",
   "enrollment": 6,
   "has_results": false,

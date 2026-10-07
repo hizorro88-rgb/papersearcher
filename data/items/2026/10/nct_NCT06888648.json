@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT06888648",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 30명입니다.",
+  "중재 치료로 individualized anti-tumor new antigen iNeo-Vac-R01 injection, mFOLFIRINOX Treatment Regimen, Sintilimab injection을 사용합니다.",
+  "초록에 생존기간, 반응률, 위험비 등의 핵심 수치는 명시되지 않았습니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06888648"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 진행성 췌장암 환자를 대상으로 맞춤형 신생항원 mRNA 치료제인 iNeo-Vac-R01 주사와 PD-1 항체(sintilimab), 그리고 표준 항암화학요법(mFOLFIRINOX)의 병용 치료에 대한 타당성과 안전성을 평가하는 단일군 1상 및 2상 임상시험입니다. 대상 질환은 전이성 췌장암 및 수술 후 재발 환자입니다. 목표 환자 수는 30명이며, Zhejiang University에서 진행합니다. 초록에 세부적인 생존율이나 반응률 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Personalized Tumor Neoantigen MRNA Therapy for Advanced Pancreatic Cancer.",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자를 위한 맞춤형 신생항원 mRNA 치료제",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic",
@@ -67,7 +71,7 @@
     "phone": "+8615088682641"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 자발적인 동의서 서명. 2. 연령 18세에서 75세 사이의 남성 또는 여성. 3. 2024 NCCN 가이드라인에 따른 전이성 췌장암 또는 수술 후 재발 진단. 4. 전신 치료 경험이 없거나 젬시타빈(gemcitabine) 기반 1차 항암화학요법에서 질병 진행을 보인 경우. 5. ECOG 신체기능 상태 점수 0 또는 1점. 6. RECIST 1.1 고형암 반응평가기준 적용. 7. 엑솜 및 전사체 시퀀싱 분석을 위한 충분한 신선 종양 조직 샘플 확보 가능. 8. 심장, 간, 신장의 주요 장기 기능이 정상. 9. 가임기 남녀의 효과적인 피임 동의. 10. 연구 프로토콜 및 추적 관찰 절차 준수 능력. / 제외 기준: 1. 중추신경계 전이 또는 수막 전이가 있는 췌장암. 2. 동시 또는 과거 다른 악성 종양 병력 (치료된 기저세포암, 갑상선암, 자궁경부 이형성증 등 제외). 3. 골수 이식, 동종 장기 이식, 동종 조혈모세포 이식 병력. 4. 면역억제제 투여 환자. 5. 임상적으로 진단된 활성 세균 또는 진균 감염, 활성 결핵 병력. 6. HIV 항대체 양성, 매독(TP) 항체 양성, 활성 C형 간염, 활성 B형 간염. 7. 헤르페스 바이러스 또는 호흡기 바이러스 감염. 8. 조절되지 않는 합병증. 9. 약물 남용력, 정신 질환 병력. 10. 식품, 약물, 백신 알레르기 병력. 11. 임신 중이거나 수유 중인 여성. 12. 연구자가 판단하기에 임상시험 참여가 부적절한 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n(1) Subjects who meet all the following entry criteria enter the pre-screening phase of the study:\n\n1. Voluntary signing of the informed consent form;\n2. Age: 18 and 75 years old, male or female;\n3. Evaluation as metastatic pancreatic cancer or postoperative recurrence according to the 2024 NCCN guidelines;\n4. No systemic treatment, or disease progression with gemcitabine-based first-line chemotherapy.\n5. An Eastern Cooperative Oncology Group (ECOG) physical fitness status score of 0 or 1;\n6. According to the efficacy evaluation criteria for solid tumors (RECIST 1.1);\n7. Can obtain sufficient fresh tumor tissue samples for exome and transcriptome sequencing analysis;\n8. Main organ function of heart, liver and kidney is normal:\n9. Ferproductive men and women of childbearing age agree to take effective contraception from the date to the last dose of test drug; women of childbearing age included premenopause and women within 2 years after menopause;\n10. Ability to follow the study protocol and follow-up procedures.\n\n(2) Subjects who meet all the following enrollment criteria enter the formal screening stage of the study and enter the study medication process:\n\n1. Voluntary signing of the informed consent form;\n2. Age: 18 and 75 years old, male or female;\n3. Pancreatic ductal adenocarcinoma (PDAC) diagnosed by pathology (histology or cytology);\n4. No systemic treatment or gemcitabine-based first-line chemotherapy.\n5. An Eastern Cooperative Oncology Group (ECOG) physical fitness status score of 0 or 1;\n6. Main organ function of heart, liver and kidney is normal:\n7. Ferproductive men and women of childbearing age agree to take effective contraception from the date to the last dose of test drug; women of childbearing age include premenopause and women within 2 years after menopause;\n8. Ability to follow the study protocol and follow-up procedures.\n\nExclusion Criteria:\n\nSubjects will be excluded from this study if they meet any of the following criteria:\n\n1. Pancreatic cancer has central nervous system metastasis or meningeal metastasis;\n2. At the same time with other malignant tumors, but cured basal cell cancer, thyroid cancer, cervical dysplasia, etc., have been in the disease for more than 5 years or do not considered to be easy to relapse except;\n3. History of bone marrow transplantation, allogeneic organ transplantation, or allogeneic hematopoietic stem cell transplantation;\n4. Patients with immunosuppressants, that is, those who require regular use of immunosuppressants 4 weeks before the screening period and the clinical study, including but not limited to the following conditions: severe asthma, autoimmune diseases or immune deficiency, treated with immunosuppressive drugs, and known history of primary immunodeficiency; except type 1 diabetes, autoimmune-related hypothyroidism requiring hormone therapy, vitiligo and psoriasis that do not require systemic therapy;\n5. Active bacterial or fungal infection identified by clinical diagnosis; a history of active TB or tuberculosis;\n6. Patients with positive human immunodeficiency virus (HIV) antibody, positive treponema pallidum for syphilis (TP) antibody, active hepatitis C (positive hepatitis C virus (HCV) antibody and positive HCV RNA result), active hepatitis B;\n7. Herpesvirus infection (except those who scab for more than 4 weeks); respiratory virus infection (except those who have recovered for more than 4 weeks);\n8. Uncontrolled complications include but are not limited to active infection, symptomatic congestive heart failure, unstable angina, arrhythmia; severe coronary artery disease or cerebrovascular disease, or other diseases considered unacceptable by the investigator;\n9. Previous history of drug abuse, clinical or psychological or social factors affecting informed consent or study implementation; a history of mental illness;\n10. Patients with a history of food, drug or vaccine allergy or other potential immunotherapy allergies as considered by the Investigator.\n11. Women born during pregnancy or lactation;\n12. The investigator is not fit for enrollment or may not complete the trial for other reasons.",
   "enrollment": 30,
   "has_results": false,

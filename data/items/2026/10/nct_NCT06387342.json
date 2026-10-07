@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT06387342",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 췌장 선암종(pancreatic adenocarcinoma) 및 췌장암(pancreatic cancer)입니다.",
+  "중재 방법은 namodenoson 25mg을 하루 두 번 경구 투여하는 것입니다.",
+  "목표 인원은 20명이며 현재 환자를 모집 중(RECRUITING)입니다.",
+  "초록에 명시되지 않음: 생존기간, 반응률, 위험비 등 구체적인 임상 효과 수치는 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06387342"
  },
- "summary_ko": "This is an open-label trial in patients with advanced pancreatic cancer. The trial will evaluate the safety, clinical activity, and pharmacokinetics of the study drug, namodenoson, in this group of patients.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 신약 namodenoson의 안전성, 임상적 활성, 약동학을 평가합니다. 모든 환자는 연구 약물을 하루에 두 번 경구 캡슐로 복용합니다. 환자들은 안전성을 위해 정기적으로 모니터링을 받고, 종양 영상 검사는 약 두 달마다 시행됩니다. 목표 환자 수는 20명입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Namodenoson Treatment of Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "진행성 췌장암 환자 대상 namodenoson 치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma",
@@ -58,7 +64,7 @@
     "phone": "+972 3 924 1114"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: - 만 18세 이상의 남녀. - 조직학적 또는 세포학적으로 확진된 췌장 선암종, 또는 스캔 결과 및 1회 이상 혈청 암항원 19-9(Cancer Antigen 19-9) 값이 1000 U/mL 초과인 경우. - 진행성 췌장 선암종이며 완치를 기대할 수 있는 표준 치료가 없는 경우. - 최소 1차 이상의 전신 치료 후 진행되었거나 표준 치료를 거부한 경우. - 기준 방문 전 최소 14일 전에 이전 췌장 선암종 치료를 중단한 경우. - RECIST v1.1 기준에 따른 측정 가능 또는 평가 가능한 질병. - 치료된 중추신경계(CNS) 전이 병력이 있는 경우 특정 조건(CNS 외 질병 존재, 선행 치료 완료와 선별 방사선학적 검사 사이의 중간 진행 증거 없음, 두개내 출혈 또는 척수 출혈 병력 없음)을 충족하면 참여 가능. - 동유럽종양협력그룹(ECOG) 수행능력 상태(PS)가 2 이하인 경우. - 첫 번째 연구 약물 투여 전 기록되어야 하는 실험실 수치(절대호중구수(ANC) 1.5 × 10^9/L 이상, 혈소판 수 50 × 10^9/L 이상, 크레아티닌 청소율 50 mL/min 이상 또는 혈청 크레아티닌 2.0 mg/dL 이하, AST 및 ALT가 정상 상한치의 10배 이하, 총 빌리루빈 10 mg/dL 이하, 혈청 알부민 2.0 g/dL 이상). - 기대 여명이 8주 이상인 경우. - 가임기 여성의 경우 음성 혈청 임신 테스트 결과. - 서면 동의서 제공. - 예정된 방문, 치료 계획, 실험실 평가 및 기타 임상시험 관련 절차를 준수할 의향이 있는 경우. 제외 기준: - 기준 방문 전 14일 이내 또는 임상시험 중 동시에 전신 암 치료를 받은 경우. - 탈모 및 3등급 말초 신경병증을 제외하고 이전 암 치료로 인한 2등급 이상의 지속적인 독성이 있는 경우. - 기준 방문 전 14일 이내에 대수술 또는 방사선 치료를 받은 경우. - 기준 방문 전 4주 또는 5반감기 중 짧은 기간 이내에 임상시험용 약물을 사용한 경우. - 약물을 최소 3시간 전후로 복용할 수 없는 경우가 아니라면, P-당단백질(P-glycoprotein, P-gp)/유방암 저항성 단백질(breast cancer resistance protein, BCRP) 억제제 및/또는 좁은 치료 지수를 가진 기질을 병용하는 경우. - 경구 투여 약물을 삼킬 수 없거나 연구 약물의 흡수를 방해할 가능성이 있는 위장관 질환이 있는 경우. - 연구 책임자의 판단에 따라 조절되지 않거나 임상적으로 불안정한 갑상선 질환. - 전신 치료, 수술 또는 방사선학적 중재가 필요한 활동성 세균, 바이러스 또는 진균 감염. - 알려진 인간 면역결핍 바이러스(HIV), 후천성 면역결핍증 관련 질환 또는 기타 면역결핍. - 치료가 필요한 활동성 제2 원발 악성종양(췌장 선암종 외). - 조절되지 않는 동맥 고혈압 또는 울혈성 심부전(뉴욕심장협회 분류 3 또는 4). - 연구 약물 투여 시작 전 1개월 이내의 협심증, 심근경색, 뇌혈관 사고, 관상동맥/말초동맥 우회술, 일과성 허혈 발작 또는 폐동맥 혈전색전증. - 치료가 필요한 심장 부정맥, 모든 등급의 심방 세동, 또는 교정된 QT 간격(QTc)(Fridericia)이 470 msec 초과로 지속적으로 연장된 병력이 있는 경우. - 임신 중이거나 모유 수유 중인 여성. - 연구 약물 복용 중 및 그 후 최소 1개월 동안 연구자의견에 따라 효과적이고 적절한 이중 피임법을 사용하기로 동의하지 않은 가임기 여성 및 가임기 여성 파트너를 둔 남성. - 임상시험 참여 위험을 증가시키거나, 동의 절차나 요구사항 준수를 방해하거나, 결과 해석을 방해할 수 있는 심각한 급성/만성 의학적·정신적 상태나 실험실 이상 소견이 있는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Males and females at least 18 years of age.\n2. Histologically or cytologically confirmed pancreatic adenocarcinoma, or clinically diagnosed based upon scan results and a serum Cancer Antigen 19-9 value \\>1000 U/mL on at least 1 occasion.\n3. Pancreatic adenocarcinoma is advanced (i.e., treatment-refractory or metastatic) and no standard therapies are expected to be curative.\n4. Pancreatic adenocarcinoma has progressed on at least 1 prior systemic treatment regimen, or the patient refuses standard treatment.\n5. Prior pancreatic adenocarcinoma treatment was discontinued for at least 14 days prior to the Baseline Visit.\n6. Measurable or evaluable disease by RECIST v1.1.\n7. Patients with a history of treated central nervous system (CNS) metastases are eligible, provided they meet all of the following criteria: disease outside the CNS is present; there is no evidence of interim progression between the completion of CNS-directed therapy and the screening radiographic study; and there is no history of intracranial hemorrhage or spinal cord hemorrhage.\n8. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of ≤ 2.\n9. The following laboratory values must be documented prior to the first dose of study drug:\n\n   * Absolute neutrophil count (ANC) ≥1.5 × 109/L\n   * Platelet count ≥50 × 109/L\n   * Creatinine clearance ≥50 mL/min (estimated glomerular filtration rate by the Cockcroft-Gault) or serum creatinine ≤2.0 mg/dL\n   * Aspartate aminotransferase (AST) and Alanine transaminase (ALT) ≤10X the upper limit of normal\n   * Total bilirubin ≤10 mg/dL\n   * Serum albumin ≥2.0 g/dL.\n10. Life expectancy of ≥8 weeks.\n11. For women of childbearing potential, negative serum pregnancy test result.\n12. Provide written informed consent to participate.\n13. Willing to comply with scheduled visits, treatment plans, laboratory assessments, and other trial-related procedures\n\nExclusion Criteria:\n\n1. Receipt of systemic cancer therapy within 14 days prior to the Baseline Visit or concurrently during the trial.\n2. Persistent toxicity ≥Grade 2 from previous cancer therapy, with the exceptions of alopecia and Grade 3 peripheral neuropathy.\n3. Major surgery or radiation therapy within 14 days prior to the Baseline Visit.\n4. Use of any investigational agent within the shorter of 4 weeks or 5 half-lives prior to the Baseline Visit.\n5. Concomitant use of P-glycoprotein (P-gp)/breast cancer resistance protein (BCRP) inhibitors and/or substrates with a narrow therapeutic index unless the medication can be taken at least 3 hours before or after taking the investigational product.\n6. Unable to swallow orally administered medication or presence of a gastrointestinal disorder likely to interfere with absorption of the study medication.\n7. Uncontrolled or clinically unstable thyroid disease, per judgment of the Principal Investigator.\n8. Active bacterial, viral, or fungal infection requiring systemic therapy or operative or radiological intervention.\n9. Known human immunodeficiency virus- or acquired immunodeficiency syndrome-related illness or other immunodeficiency.\n10. Active second primary malignancy (other than pancreatic adenocarcinoma) requiring treatment.\n11. Uncontrolled arterial hypertension or congestive heart failure (New York Heart Association Classification 3 or 4).\n12. Angina, myocardial infarction, cerebrovascular accident, coronary/peripheral artery bypass graft surgery, transient ischemic attack, or pulmonary embolism within 1 month prior to initiation of study drug.\n13. History of, or ongoing, cardiac dysrhythmias requiring treatment, atrial fibrillation of any grade, or persistent prolongation of the corrected QT interval (QTc) (Fridericia) interval to \\>470 msec \\[mean of triplicate electrocardiogram measurements\\] (patients with bundle branch block or a cardiac pacemaker will not be excluded for QTc reasons).\n14. Pregnant or lactating female.\n15. Women of childbearing potential, unless they agree to use dual contraceptive methods which, in the opinion of the Investigator, are effective and adequate for the patient's circumstances while on study drug and for at least 1 month thereafter.\n16. Men who partner with a woman of childbearing potential, unless they agree to use effective, dual contraceptive methods (i.e., a condom, with female partner using oral, injectable, or barrier method) while on study drug and for 1 month afterward.\n17. Any severe, acute, or chronic medical or psychiatric condition, or laboratory abnormality that may increase the risk associated with trial participation or study drug administration; may interfere with the informed consent process and/or with compliance with the requirements of the trial; or may interfere with the interpretation of trial results and, in the Investigator's opinion, would make the patient inappropriate for entry into this trial.",
   "enrollment": 20,
   "has_results": false,

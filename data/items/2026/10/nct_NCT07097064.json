@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT07097064",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 160명입니다.",
+  "대상 질환은 국소 진행성 췌장암입니다.",
+  "중재 방법으로 표준 항암화학 방사선 치료와 MRI 유도 적응형 정위적 방사선 치료(SMART)를 사용합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,14 +49,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07097064"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 국소 진행성 췌장암(Locally Advanced Pancreatic Adenocarcinoma) 환자 160명을 대상으로 합니다. 표준 항암화학 방사선 치료와 자기공명영상 유도 적응형 정위적 방사선 치료(SMART)의 효과를 비교 검증합니다. 프랑스에서 진행되며 아직 환자 모집 전 단계입니다.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic Adenocarcinoma",
   "adaptative radiotherapy"
  ],
  "title": "Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선 치료(SMART)의 평가",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
@@ -64,7 +68,7 @@
     "phone": "+33467613102"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 조직학적으로 증명된 췌장 선암, 18세 이상, WHO 수행능력 상태 0-1, NCCN 권고에 따른 국소 진행성, 전이가 없는 상태, CA 19-9 수치 1000 IU/mL 미만, 유도 항암화학요법(Folfirinox 및/또는 Gemzar-Abraxane) 4~8 주기 완료, 가임기 여성의 음성 임신 테스트 결과, 효과적인 피임법 사용, 연구 절차 준수 가능 여부, 서면 동의서 제출, 프랑스 건강보험 가입자. 제외 기준: 다른 동반 암 또는 암 병력(특정 예외 제외), 복부 방사선 치료 병력, MRI 및 MRI 유도 방사선 치료 금기 사항, 결장 또는 직장의 만성 염증성 질환 병력, 임신부 및 수유부, 심각한 동반 질환 또는 장기 부전, 법적 무능력자, 플루오로피리미딘 계통 약물에 대한 심각한 반응 병력, capecitabine 또는 fluorouracil 과민증, DPD 결핍, 심각한 백혈구감소증·호중구감소증·혈소판감소증, 심각한 간 및 신장 기능 저하, brivudine 최근 또는 병용 치료.",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically proven pancreatic adenocarcinoma ;\n* Age ≥ 18 years ;\n* WHO score 0-1 ;\n* Locally advanced according to NCCN 1.2015 recommendations;\n* Non-metastatic after TAP scan and MRI of the liver ;\n* CA 19.9 \\< 1000 IU/mL ;\n* Completion of at least 4 cycles of induction chemotherapy (Folfirinox and/or Gemzar-Abraxane) with a maximum of 8 courses ;\n* Women of childbearing potential must have a pregnancy blood test within a maximum of 7 days before starting the study treatment. A negative result must be documented before study treatment is started. Women without reproductive potential are postmenopausal women or women who have undergone permanent sterilisation (e.g. tubal occlusion, hysterectomy, bilateral salpingectomy) ;\n* Effective contraception for women of childbearing age ;\n* Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests and other study procedures ;\n* Patient has given informed, written and express consent ;\n* Patient affiliated to a French health insurance scheme.\n\nExclusion Criteria:\n\n* Other concomitant cancer or history of cancer, with the exception of treated cervical cancer in situ, basal or squamous cell skin carcinoma, superficial bladder tumour (Ta, Tis, and T1) or a tumour with a good prognosis treated curatively without chemotherapy and without evidence of disease in the 3 years prior to inclusion ;\n* History of radiotherapy with a foreseeable overlap with the radiotherapy treatment under study (history of abdominal irradiation) ;\n* Contraindication to MRI and MRI-guided radiotherapy (claustrophobia, presence of metallic elements etc...) ;\n* History of chronic inflammatory disease of the colon or rectum ;\n* Women who are pregnant, parturient or breastfeeding ;\n* Any other serious concomitant and unbalanced disease or disorder that may interfere with the patient's participation in the study and his/her safety during the study (e.g. severe hepatic, renal, pulmonary, metabolic, or psychiatric disorders) ;\n* Legal incapacity (patient under curatorship or guardianship) ;\n* History of severe and unexpected reactions to treatment containing a fluoropyrimidine ;\n* Hypersensitivity to capecitabine, to used excipients or to fluorouracil ;\n* Known complete deficiency of dihydropyrimidine dehydrogenase (DPD) ;\n* In patients with severe leukopenia, neutropenia or thrombocytopenia ;\n* In patients with severe hepatic insufficiency ;\n* Patients with severe renal insufficiency (creatinine clearance less than 30 mL/min) ;\n* Recent or concomitant treatment with brivudine.",
   "enrollment": 160,
   "has_results": false,

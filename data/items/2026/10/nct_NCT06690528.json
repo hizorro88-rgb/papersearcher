@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "surgery",
+  "treatment",
   "supportive"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06690528",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 56명이며 두 그룹(수술적 절제군 28명, 완화 치료군 28명)으로 1:1 무작위 배정됩니다.",
+  "대상은 간 전이가 최대 3개 이하로 제한되고 간 외 전이가 없는 환자입니다.",
+  "환자들은 1차 항암화학치료 후 부분 반응(partial response) 또는 안정병변(stable disease)을 보인 경우에 한해 참여합니다.",
+  "초록에 명시되지 않은 생존율, 위험비, 반응률 등의 구체적인 결과 수치는 초록에 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06690528"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 간으로만 전이가 제한된 소전이 췌장암 환자를 대상으로 1차 항암화학치료 후 수술적 절제와 지속적인 완화 치료의 생존율 및 삶은 질을 비교합니다. 총 56명의 환자가 수술적 절제군 또는 완화 치료군에 무작위 배정됩니다. 최소 2년의 추적 관찰 기간 동안 임상 평가, 영상 검사, 삶의 질 평가 등을 진행합니다. 초록에 명시되지 않은 구체적인 생존기간이나 반응률 수치는 초록에 명시되지 않음.",
+ "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer Metastatic to Liver",
   "Pancreatic Cancer Oligometastatic to Liver",
@@ -55,7 +60,7 @@
   "Combined Surgery for Metastatic Pancreatic Cancer"
  ],
  "title": "Conversion Surgery Vs. Palliative Care in Pancreatic Cancer Oligometastatic to the Liver",
- "title_ko": null,
+ "title_ko": "간 전이 소전이(oligometastatic) 췌장암 환자에서 전환 수술(conversion surgery)과 완화 치료(palliative care)의 비교",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic"
@@ -72,7 +77,7 @@
     "phone": "+390498212259"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 진단 당시 18세 이상 75세 이하의 성인 환자\n- 세포학적 또는 조직학적으로 확진된 췌장 선암종(pancreatic adenocarcinoma)\n- 진단 당시 최대 3개 이하의 간 전이가 확인된 동시성 소전이 질환\n- 간 외 전이의 증거 없음\n- 등록 당시 ECOG 수행능력(Performance Status, PS) 0-1\n- 1차 항암화학치료 완료 후 부분 반응 또는 안정병변 확인\n- 항암치료 후 혈청 CA19-9 수치가 감소하였거나 안정적(20% 이하 증가)인 경우\n- 절제 가능하거나 20 mm 이하 크기의 고주파 절제술(needle ablation/microwave)이 가능한 간 전이\n\n제외 기준:\n- NCCN 기준에 따른 국소 진행성 췌장암(locally advanced pancreatic cancer)\n- 다학제적 논의에 따라 절제 불가능한 간 질환\n- 다른 장기의 침범\n- 수술을 불가능하게 하는 유의한 동반 질환\n- 임신\n- 수술적 절제에 대한 금기증\n- 원발 부위 또는 간 전이의 이전 수술적 절제력\n- 간 외 전이의 증거\n- 사전 동의 또는 추적 관찰 평가 참여 불능\n- 항암치료 후 질병 진행(disease progression)\n- 항암치료 후 혈청 CA19-9 수치가 20% 초과하여 증가한 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Adult patients aged ≥18 years and ≤75 years (at diagnosis).\n* Cytologically or histologically confirmed pancreatic adenocarcinoma either resectable or borderline resectable (at diagnosis) according to National Comprehensive Cancer Network (NCCN)4 (see section 5).\n* Synchronous oligometastatic disease (at diagnosis), defined as a limited number of radiologically documented liver metastases (up to 3 lesions).\n* No evidence of extrahepatic metastases (at diagnosis.)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1 (at enrollment)\n* Partial response or stable disease after completion of first-line chemotherapy, as determined by RECIST 1.1 criteria21 (modified to exclude any % of increase in the sum of diameters of target lesions) (at enrollment).\n* Decreasing or stable (defined as ≤20% increase) serum CA19-9 level after chemotherapy (at enrollment).\n* Liver metastases considered resectable (see section 5) or alternatively treatable by needle ablation/microwave once no larger than 20 mm (at enrollment).\n\nExclusion Criteria:\n\n* Locally advanced pancreatic cancer according to NCCN4.\n* Unresectable liver disease (according to multidisciplinary discussion).\n* Involvement of other organs.\n* Presence of significant comorbidities precluding surgery.\n* Pregnancy.\n* Contraindications to surgical resection.\n* Prior surgical resection of the primary tumor or liver metastases.\n* Evidence of extrahepatic metastases.\n* Inability to provide informed consent or participate in follow-up assessments.\n* Disease progression as determined by RECIST 1.1 criteria21 (modified to include any % of increase in the sum of diameters of target lesions) after chemotherapy.\n* Serum CA19-9 level increase \\>20% after chemotherapy.\n\nNote: Additional specific exclusion criteria may be defined at each participating center based on their institutional guidelines and patient population.",
   "enrollment": 56,
   "has_results": false,

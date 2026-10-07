@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
+  "drug",
   "treatment",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -21,7 +21,12 @@
  ],
  "id": "nct:NCT06944106",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환: 경계성 절제 가능 췌장암(borderline resectable pancreatic cancer)",
+  "중재 치료: Ivonescimab 병용 gemcitabine 및 nab-paclitaxel(AG) 요법",
+  "목표 인원: 30명",
+  "연구 단계: 제2상 임상시험(Phase 2)"
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -45,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06944106"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 경계성 절제 가능(borderline resectable) 췌장암 환자를 대상으로 Ivonescimab(AK112)과 gemcitabine 및 nab-paclitaxel(AG) 병용요법을 수술 전 보조요법(neoadjuvant therapy)으로 투여하여 유효성과 안전성을 평가합니다. 단일 기관에서 진행되는 전향적, 단일군, 제2상 임상시험입니다. 환자들은 수술 전 3주기 동안 치료를 받으며, 이후 근치적 수술을 진행합니다. 초록에 명시된 환자 목표 인원은 30명이며, 연령은 18세에서 75세 사이입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study on Ivonescimab Plus Chemotherapy as Neoadjuvant Therapy for Borderline Resectable Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 췌장암 환자를 위한 수술 전 보조요법으로서 Ivonescimab 및 항암화학요법 병용 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -61,7 +66,7 @@
     "phone": "18622228639"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 연령 18세 이상 75세 이하\n- 조직학적 또는 세포학적으로 확진된 췌장암\n- 경계성 절제 가능 병기\n- RECIST v1.1 기준 최소 1개의 측정 가능한 병변 보유 (종양 직경 6 cm 이하 등)\n- 췌장암에 대한 이전 항종양 치료력이 없음\n- ECOG 수행 능력 상태 0-1\n\n제외 기준:\n- 지난 5년 이내 다른 악성 종양 병력 (완치된 상피내암 및 기저세포암 제외)\n- 지난 28일 이내 주요 수술 경험\n- 이전에 면역항암제 투여받은 이력\n- 절제 불가능한 원격 전이 존재\n- 전신 치료가 필요한 활동성 및 조절되지 않는 감염\n- 임신 또는 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years and ≤ 75 years.\n2. Histologically or cytologically confirmed pancreatic cancer.\n3. Borderline resectable disease.\n4. At least one measurable lesion (according to RECIST v1.1); and tumor diameter ≤ 6 cm, distance from the gastrointestinal mucosa ≥ 0.5 cm with no obvious signs of tumor invasion, and no obvious lymph node metastasis.\n5. No prior anti-tumor treatment for pancreatic cancer.\n6. ECOG performance status of 0-1.\n7. Life expectancy of ≥3 months.\n8. Hematologic function: Absolute neutrophil count (ANC) ≥1.5×10⁹/L, platelets (PLT) ≥100×10⁹/L, hemoglobin (Hb) ≥90 g/L, white blood cells (WBC) ≥3.0×10⁹/L.\n9. Liver function: Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5×ULN; total bilirubin ≤1.5×ULN.\n10. Renal function: Serum creatinine (Cr) ≤1.5×ULN or creatinine clearance ≥60 ml/min (calculated by Cockroft-Gault formula).\n11. Subjects with reproductive potential must use at least one medically accepted contraceptive method (such as intrauterine device, oral contraceptives, or condoms) during the study treatment period and for 180 days after the end of study treatment. Female subjects must have a negative serum HCG test before the first dose and must not be breastfeeding.\n12. Ability to understand the nature of the study, and the patient (or legal representative) voluntarily agrees to participate in the trial and signs the informed consent form.\n\nExclusion Criteria:\n\n1. Patients who have had other malignancies within the past 5 years (except for cured in situ cancer and basal cell carcinoma of the skin).\n2. Undergone major surgery within the past 28 days.\n3. Previously received immunotherapy drugs (including anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4, etc.).\n4. Presence of distant metastases that are not resectable.\n5. Active, uncontrolled bacterial, viral, or fungal infections requiring systemic treatment, defined as persistent signs/symptoms related to infection that have not improved despite appropriate antibiotics, antiviral therapy, and/or other treatments.\n6. Known active HIV infection (i.e., positive for HIV 1/2 antibodies); untreated active HBV (defined as HBsAg positivity with detectable HBV-DNA ≥10⁴/ml or 2000 IU/ml) and HCV infection (positive HCV antibodies with HCV-RNA levels above the upper limit of normal).\n7. Presence of uncontrollable systemic diseases (such as a history of cardiovascular diseases like unstable angina, myocardial infarction, congestive heart failure, severe unstable ventricular arrhythmias, or severe pericardial disease).\n8. Presence of severe gastrointestinal diseases (including active bleeding, obstruction greater than Grade 1 \\[CTCAE v5.0\\], or diarrhea greater than Grade 1 \\[CTCAE v5.0\\]).\n9. Any contraindications to chemotherapy, radiotherapy, or surgery as indicated by laboratory or clinical findings.\n10. Pregnant or breastfeeding women, and women of childbearing potential who refuse to use appropriate contraception during the trial.",
   "enrollment": 30,
   "has_results": false,

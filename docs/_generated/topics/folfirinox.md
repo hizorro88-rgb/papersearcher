@@ -22,35 +22,35 @@ comments: true
 | [Efficacy and Safety of Serplulimab in Combination With Bevacizumab an…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [Personalize (Signature Driven) Neoadjuvant Chemotherapy Trial for Pat…](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [To Evaluate the Safety, Tolerability, and Preliminary Efficacy of XH0…](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
-| [Intratumoral MMR Vaccine Injection in Borderline Resectable/Unresecta…](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
-| [PDAC Regression and Intraoperative Surgical Margin With Neoadjuvant T…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
+| [경계성 절제 가능 또는 절제 불능 췌장암 환자를 대상으로 한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
+| [경동맥 미세관류법(TAMP)을 이용한 젬시타빈(gemcitabine) 수술 전 보조요법: PRISM-TAMP 임상시험](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS G12D 변이 전이성 췌장암 환자를 대상으로 세티데그라십과 mFOLFIRINOX 또는 NALIRIFOX 병용요법의…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [MTAP 결손 췌장암 환자에서 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
-| [TTFields and Chemotherapy in Metastatic Pancreatic Adenocarcinoma (mP…](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
-| [Pegcetacoplan in Combination With Modified FOLFIRINOX for the Treatme…](../trials/NCT07214298.md) | 1상/2상 | 모집 중 | - |
-| [AG Followed by FOLFIRINOX Both Combined With PD-L1 Antibodies as a Co…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
-| [CD318-targeted CAR-T Cell Therapy in Patients With Pancreatic Cancer…](../trials/NCT07153289.md) | 1상/2상 | 모집 예정 | - |
+| [전이성 췌장암 환자에서 종양치료전기장(TTFields)과 화학요법 병용 임상시험](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
+| [전이성 췌장관암 환자를 위한 mFOLFIRINOX와 pegcetacoplan 병용 요법 1/2상 임상시험](../trials/NCT07214298.md) | 1상/2상 | 모집 중 | - |
+| [경계성 절제 가능 및 국소 진행성 췌장암에서 PD-L1 항체와 결합된 AG 및 FOLFIRINOX 순차 치료의 전환 치료 임…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
+| [췌장암 환자를 위한 CD318 표적 CAR-T 세포 치료 (ResCPa)](../trials/NCT07153289.md) | 1상/2상 | 모집 예정 | - |
 | [mFOLFIRINOX와 병용하는 KN510713 연구](../trials/NCT07114861.md) | 1상/2상 | 모집 중 | 1 |
-| [Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Lo…](../trials/NCT07097064.md) | 2상 | 모집 예정 | - |
-| [Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisp…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선 치료(SMART)의 평가](../trials/NCT07097064.md) | 2상 | 모집 예정 | - |
+| [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·냡-파클리탁셀·시스플라틴(mGAP) 비교 임상시험](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 절제 가능 췌장암 환자에서 mFOLFIRINOX 선행화학요법 후 종양 병기에 맞춘 위험 적응형 보조항암…](../trials/NCT07044453.md) | 2상/3상 | 모집 중 | - |
-| [24BRO681 : Alternating Gnp and mFOLFIRINOX for BR-PDAC](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
+| [경계성 절제 가능 췌장암(BR-PDAC) 환자를 위한 nab-paclitaxel + Gemcitabine(GnP)과 modi…](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
 | [A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surg…](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
-| [NC410 and FOLFIRINOX in Combination With Nivolumab With or Without Ip…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
-| [Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Co…](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [치료 전이가능 췌장암 환자를 위한 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용 요법…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
+| [PDAC 및 NSCLC 환자에서 TNG462 병용 투여의 안전성, 내인성, 효능을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [A Study of mRNA Vaccines AK154 Monotherapy or in Combination With AK1…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료로서 변형 FOLFIRINOX 유지 치료 대 젬시타빈+냅-파클리탁셀 전환 유지 치료를 비교하는 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
-| [9-ING-41 Combined With Retifanlimab, Plus Modified FOLFIRINOX for Pat…](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
-| [Personalized Tumor Neoantigen MRNA Therapy for Advanced Pancreatic Ca…](../trials/NCT06888648.md) | 1상/2상 | 모집 예정 | - |
-| [Acoustic Cluster Therapy (ACT) With Chemotherapy for the Treatment of…](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
-| [Adapted Guided Stereotactic Body Radiotherapy Combined With Chemother…](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
+| [진행성 췌장 선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 임상시험 (R…](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
+| [진행성 췌장암 환자를 위한 맞춤형 신생항원 mRNA 치료제](../trials/NCT06888648.md) | 1상/2상 | 모집 예정 | - |
+| [국소 진행성 췌장암 치료를 위한 음향 군집 요법(Acoustic Cluster Therapy, ACT)과 항암화학요법 병용…](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험(…](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
 | [A Study to Learn About Study Medicine ALTA3263 in Adults With Advance…](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [경계성 및 국소 진행성 췌장암 환자에서 수술 전 표준 기간 대 연장 기간 선행화학요법 비교 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
 | [MK2 Inhibitor in Combination With mFOLFIRINOX for Untreated Metastati…](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
-| [Bortezomib Combined with PD-1 MAb and MFOLFIRINOX for Metastatic Panc…](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
-| [Basal-like PDAC Treated With Gemcitabine, Erlotinib, and Nab-paclitax…](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
-| [Neoadjuvant Triple Therapy for (Borderline) Resectable Pancreatic Can…](../trials/NCT06384560.md) | 1상/2상 | 모집 중 | - |
-| [Stereotactic Body Radiation Therapy Followed by NALIRIFOX vs NALIRIFO…](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
+| [전이성 췌장암 환자를 위한 Bortezomib, PD-1 단일클론항체, mFOLFIRINOX 병용 요법](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
+| [젬시타빈, 엘로티닙, 냅-파클리탁셀로 치료하는 기저형 췌장관암](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
+| [(경계성) 절제 가능 췌장암을 위한 수술 전 삼중 요법(PREOPANC-5)](../trials/NCT06384560.md) | 1상/2상 | 모집 중 | - |
+| [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료 후 NALIRIFOX 요법 대 NALIRIFOX 요법 비교 임상시험](../trials/NCT06259058.md) | 1상/2상 | 모집 예정 | - |
 | [CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선 치료 임상시험](../trials/NCT06250972.md) | 3상 | 모집 중 | - |
 | [Study of Perioperative NP137 and FOLFIRINOX in Resectable Pancreatic…](../trials/NCT06203821.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 환자에서 Trilaciclib와 mFOLFIRINOX 병용 치료에 관한 연구](../trials/NCT06151262.md) | 2상 | 모집 중 | - |

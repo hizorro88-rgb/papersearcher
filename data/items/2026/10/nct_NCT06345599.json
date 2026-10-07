@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "drug"
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06345599",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 66명입니다.",
+  "대상 질환은 국소 진행성 췌장관상피암(PDAC)입니다.",
+  "주요 중재법은 PRaG 요법과 알부민 결합 파클리탁셀(Albumin-bound paclitaxel), 젬시타빈(Gemcitabine)의 병용입니다.",
+  "임상시험 단계는 1/2상(PHASE1/PHASE2)입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06345599"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 임상시험은 국소 진행성 췌장관상피암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 PRaG 치료법과 항암화학요법(AG 요법)을 병용한 선행치료의 안전성과 유효성을 평가합니다. 대상 환자는 18세에서 75세 사이의 국소 진행성 췌장암 환자 66명입니다. 중재법으로는 방사선치료(Radiotherapy), 면역요법(GM-CSF, Cadumilimab), 화학요법(Albumin-bound paclitaxel, Gemcitabine)이 사용됩니다. 본 연구는 현재 환자를 모집하고 있지 않습니다.",
+ "summary_source": "llm",
  "tags": [
   "Locally Advanced Pancreatic Ductal Adenocarcinoma",
   "Chemotherapy",
@@ -52,7 +57,7 @@
   "PRaG Therapy"
  ],
  "title": "PRaG Therapy in Combination With Locally Advanced Pancreatic Ductal Adenocarcinoma (PDAC) (NeoPRAG Study)",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장관상피암에 대한 PRaG 요법 및 항암화학요법 병용 선행화학요법 연구(NeoPRAG 연구)",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
@@ -64,7 +69,7 @@
     "phone": "18626205529"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: 1. 18세 이상 75세 이하의 성인. 2. 조직학적으로 확진된 췌장관상피암으로 종양이 췌장 두부, 경부 또는 체부에 위치함. 3. 전이가 없는 국소 진행성, 경계성 절제 가능 또는 절제 불가능한 췌장암. 4. 기대 여명 3개월 이상. 5. ECOG 점수 0-1점. 6. RECIST 1.1 기준에 따른 측정 가능한 병변이 1개 이상 존재. 7. 복부 방사선치료, 화학치료, PD-1/PD-L1 항체 치료를 받은 적이 없음. 8. 적절한 장기 기능을 충족함. 제외 기준: 1. 임산부 또는 수유부. 2. 최근 5년 이내 다른 악성 종양 병력. 3. 조절되지 않는 간질, 중추신경계 질환 또는 정신 질환. 4. 심각한 심장 질환 또는 최근 12개월 내 심근경색 병력. 5. 면역억제 치료가 필요한 장기 이식. 6. 활동성 감염 또는 조절되지 않는 심각한 동반 질환. 7. 연구 약물 성분에 대한 알레르기. 8. 면역결핍 병력 또는 장기 이식 병력, 혹은 장기 호르몬 치료가 필요한 면역 관련 질환.",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 ≤ 75 years；no gender limitations\n* Histopathologically and/or cytologically confirmed ductal adenocarcinoma of the pancreas, the patient has fresh pathological tissue and the tumour is located in the head and neck or body of the pancreas\n* Locally advanced pancreatic cancer, borderline resectable or unresectable, without metastases.\n* Life expectancy \\>= 3 months.\n* ECOG score 0-1.\n* Have at least 1 measurable lesion according to RECIST 1.1 criteria.\n* No prior treatment with abdominal radiotherapy, chemotherapy and PD-1/PD-L1 antibody.\n* Adequate organs functions as defined by the following laboratory values (completed within 14 days prior to registration): (1) haemoglobin \\>= 90 g/L (no blood transfusion within 14 days)； (2) neutrophil count \\> 1.5x10\\^9/L； (3) platelet count \\>= 100x10\\^9/L； (4) total bilirubin \\<= 1.5xULN (upper limit of normal)； (5) blood glutamic transferase (ALT) or blood glutamic transferase (AST) \\<= 2.5xULN (6) endogenous creatinine clearance \\>= 60 ml/min (Cockcroft's AST). (ALT) or blood albumin transaminase (AST) \\<= 2.5xULN； (6) endogenous creatinine clearance \\>= 60 ml/min (Cockcroft-Gault formula)； (7) cardiac Doppler ultrasound assessment: left ventricular ejection fraction (LVEF) \\>= 50%. (8) International normalised ratio (INR) of prothrombin time ≤ 1.5 and partial thromboplastin time (APTT) ≤ 1.5 times the upper limit of normal in patients who have not received anticoagulation. Patients receiving full or parenteral anticoagulant therapy may enter a clinical trial as long as the dose of anticoagulant has been stable for at least 2 weeks prior to entry into the clinical study and the results of coagulation assays are within the limits of local therapy.\n* No congestive heart failure, unstable angina, unstable arrhythmia in the last 6 months.\n* No previous severe haematopoietic, cardiac, pulmonary, hepatic or renal abnormalities or immunodeficiencies.\n* Patient must be able to understand the potential risks and benefits associated with this study. Patient able to give informed consent and would likely to comply with the study parameters.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women\n* Patients with a history of other malignant diseases in the last 5 years, except cured skin cancer and cervical cancer in situ.\n* Patients with a history of uncontrolled epilepsy, central nervous system disease or psychiatric disorders whose clinical severity, in the judgement of the investigator, may prevent the signing of informed consent or affect the patient's adherence to drug therapy.\n* Severe heart disease, such as symptomatic coronary heart disease, New York Heart Association (NYHA) class II or worse congestive heart failure or severe arrhythmia requiring pharmacological intervention, or a history of myocardial infarction within the last 12 months.\n* Organ transplants requiring immunosuppressive therapy\n* Active infection or, in the investigator's judgement, significant haematological, renal, metabolic, gastrointestinal, endocrine function or metabolic disorders, or other serious uncontrolled concomitant disease\n* Allergy to any of the study drug ingredients\n* History of immunodeficiency, including HIV-positive or other acquired or congenital immunodeficiency diseases, or history of organ transplantation, or other immune-related diseases requiring long-term oral hormone therapy\n* During acute or chronic tuberculosis infection (patients with a positive T-spot test and suspicious tuberculosis foci on chest radiographs).\n* Other conditions considered by the investigator to be unsuitable for enrolment.",
   "enrollment": 66,
   "has_results": false,

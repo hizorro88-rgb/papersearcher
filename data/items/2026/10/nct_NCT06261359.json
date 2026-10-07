@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [
   "gem-nabp"
@@ -20,7 +20,11 @@
  ],
  "id": "nct:NCT06261359",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "18세 이상 80세 이하의 국소 진행성 절제 불가능 또는 전이성 췌장관선암 환자 120명을 대상으로 하는 2상 임상시험입니다.",
+  "CEND-1을 젬시타빈/나브-팍리탁셀과 병용 투여했을 때의 유효성 및 안전성을 위약 대조군과 비교합니다.",
+  "이전 전신 치료 이력이 없는 환자를 대상으로 1차 치료제로서의 효과를 평가합니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -44,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06261359"
  },
- "summary_ko": "The purpose of this study is to evaluate the efficacy and safety of CEND-1 in combination with gemcitabine/nab-paclitaxel versus gemcitabine/nab-paclitaxel and placebo as first-line treatment in patients with Locally Advanced Unresectable or Metastatic Pancreatic Ductal Adenocarcinoma.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 절제 불가능 또는 전이성 췌장관선암(PDAC) 환자를 대상으로 1차 치료로서 CEND-1과 젬시타빈(gemcitabine)/나브-팍리탁셀(nab-paclitaxel) 병용요법의 유효성과 안전성을 위약 대조군과 비교 평가하는 2상 임상시험입니다. 이전에 전신 치료를 받지 않은 환자 120명을 대상으로 진행됩니다. CEND-1의 병용 투여 효과 및 안전성을 확인하는 것을 목표로 합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Study of CEND-1 With Chemotherapy as First-Line Therapy in Patients With Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "국소 진행성 절제 불가능 또는 전이성 췌장관선암 환자의 1차 치료로서 CEND-1과 병용 화학요법에 대한 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -60,7 +64,7 @@
     "phone": "13910866712"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: • 18세 이상 80세 이하의 남성 또는 여성 • 조직학적 또는 세포학적으로 확인된 국소 진행성 절제 불가능 또는 전이성 췌장관선암(PDAC) 환자 • 국소 진행성 또는 전이성 췌장암에 대해 이전 전신 치료를 받은 적이 없는 환자 • RECIST v1.1 기준 측정 가능한 종양 병변이 1개 이상 있는 환자 • ECOG 수행 능력 평가 점수(ECOG PS)가 0 또는 1인 환자 • 예상 수명이 12주 이상이며 적절한 장기 기능을 가진 환자 제외 기준: • 화학요법, 표적치료, 면역치료 등 다른 항암제를 동시 투여 중인 환자 • 임상시험용 의약품 또는 부형제에 알레르기가 있는 환자 • 6개월 이내 심근경색, 중증 심장 장애, 임상적 개입이 필요한 부정맥이 있었던 환자 • 위장관 또는 복부 출혈 위험이 높은 환자 • 증상이 있는 중추신경계 전이, 뇌수막 전이 또는 척수 압박이 있는 환자 • 3년 이내에 다른 활성 악성 종양이 있었던 환자(단, 완치된 피부 기저세포암, 경부 상피내암, 갑상선 유두암 등은 제외)",
   "eligibility_text": "Inclusion Criteria:\n\n* 18\\~80 years old, male or female;\n* Locally advanced unresectable or metastatic PDAC confirmed by histopathology or cytopathology;\n* Patients who have not received prior systemic therapy for locally advanced or metastatic pancreatic cancer;\n* Patients with at least one measurable tumor lesion per RECIST v1.1;\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n* Expected survival time ≥ 12 weeks;\n* Patients who have adequate organ function;\n* Female subjects who are not pregnant or not breastfeeding. A negative pregnancy test for females of childbearing potential within 7 days prior to first dosing. Male and female subjects of childbearing potential must agree to use highly effective method of contraception during the entire course of the study and within 180 days after the end of the study.\n* Subjects participate voluntarily and sign informed consent.\n\nExclusion Criteria:\n\n* Concurrent use of other anticancer drugs, including chemotherapy, targeted therapy, immunotherapy, or biologics;\n* The patients who are known to be allergic to the investigatinal drug or its any excipient;\n* Patients with the following conditions: myocardial infarction, severe/unstable angina, NYHA grade 2 or above cardiac dysfunction, and clinically significant supraventricular or ventricular arrhythmia requiring clinical intervention within 6 months before signing the ICF;\n* Patients with high risk for gastrointestinal bleeding or abdominal bleeding as assessed by the investigator, such as tumor invasion of the gastro duodenum finger intestines, large blood vessels, etc.;\n* Patients with symptomatic CNS metastasis, leptomeningeal metastasis, or spinal cord compression due to metastasis.\n* Patients with other active malignant tumors within 3 years before signing the ICF. Patients with cured skin basal cell carcinoma or squamous cell carcinoma, carcinoma in situ of the cervix, carcinoma in situ of the breast ductal, and papillary thyroid cancer can be enrolled.\n* Patients with human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS), active hepatitis or co-infection with hepatitis B and C.\n* Patients who require systemic antibiotics for ≥7 days within 4 weeks prior to first dose, or unexplained fever \\>38.5°C prior during screening or before first dose;\n* Patients who participated in any other clinical studies;\n* Patients with a known history of psychoactive drug abuse, alcohol abuse, or substance abuse; History of definitive neurological or mental disorder, including epilepsy or dementia;\n* The patients with added risks associated with the study or may interfere with the interpretation of study results as determined by the investigator, or deemed unsuitable by the investigator and/or sponsor.",
   "enrollment": 120,
   "has_results": false,

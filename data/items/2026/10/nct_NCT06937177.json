@@ -3,6 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
+  "supportive",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +19,12 @@
  ],
  "id": "nct:NCT06937177",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 환자 수는 최대 120명이며, 대장암(CRC)과 췌장관선암(PDAC) 환자 코호트로 나누어 진행됩니다.",
+  "환자들은 위약 또는 mifomelatide 12.5 mg, 25 mg, 50 mg 중 하나를 피하 주사(SC)로 매일 투여받습니다.",
+  "이중맹검 치료 기간은 12주이며, 이후 선택적으로 26주 동안 25 mg을 투여하는 공개 연장(OLE) 단계가 진행됩니다.",
+  "초록에 구체적인 임상 효과 및 생존기간 수치는 명시되지 않음."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -41,8 +48,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06937177"
  },
- "summary_ko": null,
- "summary_source": "pending",
+ "summary_ko": "이 연구는 새로 진단된 진행성 대장암(CRC) 또는 췌장관선암(PDAC) 환자 최대 120명을 대상으로 항암화학치료 중 체중과 근육량을 유지하기 위해 mifomelatide(TCMCB07)의 안전성과 효과를 평가하는 무작위, 이중맹검, 위장약 대조 바스켓 임상시험입니다. 환자들은 위약 또는 세 가지 용량의 mifomelatide(12.5 mg, 25 mg, 50 mg) 중 하나에 1:1:1:1로 무작위 배정됩니다. 12주의 이중맹검 기간 동안 체중, 체성분, 체질량지수(BMI)에 미치는 영향을 평가하며, 이후 장기 안전성과 내 약성을 평가하기 위한 공개 연장(OLE) 단계에 참여할 수 있습니다.",
+ "summary_source": "llm",
  "tags": [
   "Metastatic colorectal cancer",
   "BMI",
@@ -56,7 +63,7 @@
   "PDAC"
  ],
  "title": "Safely Optimizing Body Weight With Mifomelatide (TCMCB07) in Patients With Newly Diagnosed Colorectal Cancer (CRC) or Pancreatic Ductal Adenocarcinoma (PDAC) Undergoing Chemotherapy",
- "title_ko": null,
+ "title_ko": "새로 진단된 대장암 또는 췌장관선암 환자의 항암화학치료 중 체중 및 체성분 유지를 위한 mifomelatide(TCMCB07) 임상 2상 시험",
  "trial": {
   "conditions": [
    "Cancer Weight Loss"
@@ -73,7 +80,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18세 이상이며 ECOG 수행 능력 평가 2 이하인 환자\n- 수술적 절제가 불가능하거나 전이성인 새로 진단된 대장 선암(CRC) 또는 췌장관선암(PDAC)\n- 두 번째 차수의 항암화학치료(Gemcitabine+nab-paclitaxel, NALIRIFOX, FOLFOX, FOLFIRI, FOLFIRINOX 등)를 시작할 준비가 된 환자\n- 보호자의 도움을 받거나 스스로 안전하게 매일 피하 주사를 자가 투여할 수 있는 환자\n- 대장암 코호트는 BMI 29 kg/m^2 이하, 췌장관선암 코호트는 체중 감소 기준에 따른 악액질(Cachexia) 정의를 충족해야 함\n- 적절한 장기 기능(ANC, 혈소판, 헤모글로빈, AST/ALT, 빌리루빈, 알부민, 크레아티닌 클리어런스 등)을 만족하는 환자\n\n제외 기준:\n- 2차 이상의 전신 치료를 받고 있는 환자\n- 삼킴 장애, 흡수장애 증후군, 염증성 장질환 등 음식 섭취나 대사에 영향을 주는 질환이 있는 환자\n- 위 절제술, 밴딩 수술, 우회 수술 등 체중 감량 수술 이력이 있는 환자\n- 식욕을 증가시키거나 체중에 영향을 주는 새로운 약물을 현재 사용 중인 환자\n- 프레드니손 기준 하루 5 mg 이상의 코르티코스테로이드를 만성적으로 지속 복용 중인 환자\n- 신경성 식욕부진증 또는 폭식증 병력이 있는 환자\n- 임산부, 수유부 또는 임신 계획이 있는 여성\n- 뇌 또는 중추신경계 전이가 알려진 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Must be at least 18 years of age.\n2. An ECOG performance status of ≤ 2.\n3. Life expectancy of ≥ 4 months.\n4. Able to eat and digest food normally. Patients with colostomies are allowed.\n5. Must meet the following:\n\n   1. Newly diagnosed colorectal adenocarcinoma (CRC) or pancreatic ductal adenocarcinoma (PDAC) that is unresectable, locally advanced (i.e., surgery with curative intent is not an option) or metastatic. Note: patients must not have relapsed within 6 months after completing prior treatment for early-stage disease.\n   2. Determined by the Investigator to be ready to receive their second dose of chemotherapy.\n   3. Patients currently enrolled and receiving study intervention under Protocol Version 2.0 may be eligible to enroll into Protocol Version 3.0, provided the amended protocol has received all regulatory and ethics approvals and the patient has reviewed and signed the updated consent form prior to any procedures conducted under the amended protocol. Enrollment into the OLE phase must occur ≤14 days following completion of the Week 12 DB visit.\n6. Patients must be initiating treatment with one of the following chemotherapy regimens:\n\n   a) Gemcitabine plus nab-paclitaxel (GNP), Gemcitabine plus capecitabine, NALIRIFOX, FOLFOX, FOLFIRI, or FOLFIRINOX are permitted. These regimens may be administered with or without bevacizumab, other FDA-approved monoclonal antibodies, or other FDA approved agents as clinically indicated for the patient's cancer type. The primary cancer therapy (including dose, schedule, or specific agents) may be modified as medically indicated.\n7. Must be able and willing to safely self-inject daily or be injected by a caregiver.\n8. Must have evaluable disease by RECIST 1.1.\n9. Must have adequate end organ function as defined by:\n\n   1. ANC ≥ 1.5 × 10\\^9/L\n   2. Platelets ≥ 100 × 10\\^9/L, or adequate as determined by the medical judgement of the investigator; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   3. Hemoglobin ≥ 9 g/dL, or adequate as determined by the medical judgement of the investigator; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   4. AST and ALT ≤ 3 × ULN; if liver metastases, then ≤ 5 ×ULN; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   5. Bilirubin ≤ 1.5 × ULN or ≤ 3 × ULN in the presence of documented Gilbert's Syndrome; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   6. Albumin between 3.4 and 5.4 gm/dL or within institutional normal limits, or not considered clinically significant by the investigator; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   7. Creatinine clearance ≥ 50 mL/min (calculated by Cockcroft and Gault equation; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n   8. Normal hemoglobin A1c levels based on institutional normal limits, or not considered clinically significant by the investigator; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n10. NT-Pro-BNP and Troponin (TnI or TnT) are within normal limits or not considered to be clinically significant by the investigator; lab may be repeated as needed to rule out initial transient lab abnormality that does not require medical intervention\n11. If a female of childbearing capability, must have a negative pregnancy test within 2 weeks of starting treatment.\n12. Fertile men and women must agree to use adequate contraception for the duration of the trial.\n13. Willing and able to sign informed consent.\n14. Additional cohort-specific inclusion criteria:\n\n    1. CRC Cohort i. Must have a BMI ≤ 29 kg/m\\^2.\n    2. PDAC Cohort i. Cachexia defined by Fearon Criteria of weight loss ii. Patients with diagnosed exocrine pancreatic insufficiency (EPI) must be receiving prescription pancreatic enzyme replacement therapy (PERT) per standard of care (SOC).\n\nExclusion Criteria\n\n1. Patients receiving second line or later systemic treatment\n2. Patients with swallowing abnormalities, malabsorption syndromes, short or inflammatory bowel syndromes, or other conditions that in the Investigator's opinion could impair food consumption or metabolism.\n3. History of weight loss surgery including gastric stapling, or bypass surgery.\n4. Currently using any new agent prescribed to increase appetite or otherwise affect weight (increase or decrease).\n\n   a) Antiemetics or other standard of care medications for treatment or prevention of nausea and vomiting are acceptable.\n   * Patients with newly prescribed glucocorticoids for less than four weeks at the time of Screening and whose weight is not yet stable are excluded. Stable (dose unchanged for 4 weeks or more) and low dose (\\<5 mg) corticosteroids are permissible, as are inhaled corticosteroids.\n   * Drugs like Olanzapine are allowed only when used as an antiemetic, as needed (PRN). If used to treat cachexia, drugs like Olanzapine are not allowed.\n5. Chronic and ongoing use of corticosteroids at a dose of ≥5 mg of prednisone or equivalent per day.\n6. History of bulimia or anorexia.\n7. Pregnancy, lactation, or plans to become pregnant.\n8. History of another malignancy except basal cell carcinoma of the skin, carcinoma in situ of the cervix, or other noninvasive or indolent malignancy that has previously undergone potentially curative therapy.\n9. Concurrent participation in any other clinical trial.\n10. Patients with known brain or CNS metastases.\n11. Impaired cardiac function or significant cardiac issues including, but not limited to, any of the following:\n\n    1. Greater than class II NYHA congestive heart failure\n    2. Congenital long QT syndrome\n    3. QTc \\> 470 msec (as calculated by institution standards) confirmed by two ECGs ≥ 1-minute apart (QTc interval corrected using \\[Fridericia's formula \\[QTcF\\])\n    4. Unstable angina pectoris\n    5. Acute myocardial infarction ≤ 6 months prior to study entry\n12. Known hypersensitivity to mifomelatide or its formulation.\n13. History of allergic or anaphylactic reaction to any chemotherapeutics.\n14. Known diagnosis of HIV infection (HIV testing is not mandatory). Patients with a history of HIV regardless of viral load are excluded.\n15. Active infection with Hepatitis B, Hepatitis C, or active systemic viral disease or active severe infection.\n16. Unwilling or unable to comply with the protocol.\n17. Any condition that, in the Investigator's opinion, would impair the patients' ability to participate in this study.\n18. Additional cohort-specific exclusion criteria\n\n    1. CRC cohort i. Unintentional weight loss ≥ 10% of usual body weight in 4 months prior to Screening\n    2. PDAC cohort i. Neuroendocrine (carcinoid, islet cell) of acing pancreatic carcinoma ii. Unintentional weight loss ≥ 20% of usual body weight in 4 months prior to Screening",
   "enrollment": 120,
   "has_results": false,

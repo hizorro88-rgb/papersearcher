@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06159478",
  "importance": 0.8,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 BRAF 융합 또는 재배열이 있는 진행성 또는 재발성 저등급 신경교종 및 췌장암입니다.",
+  "중재 치료로 binimetinib 45mg을 하루 두 번 경구 투여합니다.",
+  "총 목표 환자 수는 32명이며, 일본 국립암센터가 스폰서인 임상 2상 시험입니다."
+ ],
  "last_updated": "2026-10-06",
  "links": {
   "doi": null,
@@ -43,15 +47,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06159478"
  },
- "summary_ko": "This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial to evaluate the efficacy and safety of binimetinib in patients with advanced or recurrent low-grade glioma or pancreatic cancer harboring BRAF fusion/rearrangement. This study is an open-label, parallel, 2-cohort, multicenter, investigator-initiated Phase 2 trial.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 BRAF 융합 또는 재배열이 있는 진행성 또는 재발성 저등급 신경교종 및 췌장암 환자를 대상으로 binimetinib(비니메티닙)의 효능과 안전성을 평가하는 공개, 평행, 2개 코호트, 다기관, 연구자 주도 임상 2상 시험입니다. 등록된 환자들은 경구용 binimetinib 45mg을 하루에 두 번 투여받습니다. 연구는 저등급 신경교종 코호트(코호트 A)와 췌장암 코호트(코호트 B)로 나뉘어 진행되며, 총 목표 인원은 32명입니다.",
+ "summary_source": "llm",
  "tags": [
   "BRAF fusion",
   "BRAF rearrangement",
   "Binimetinib"
  ],
  "title": "Binimetinib in Patients With BRAF Fusion-positive Low-grade Glioma or Pancreatic Cancer (Perfume)",
- "title_ko": null,
+ "title_ko": "BRAF 융합 양성 저등급 신경교종 또는 췌장암 환자 대상 binimetinib (Perfume) 임상 2상",
  "trial": {
   "conditions": [
    "Low-grade Glioma",
@@ -69,7 +73,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 급여 적용된 NGS 기반 암 유전자 패널 검사, 신의료기술 암 유전자 패널 검사, 또는 임상시험을 통해 BRAF 융합 또는 재배열이 확인된 환자\n- 절제 불가능하거나 재발성인 환자\n- 수술이나 방사선 치료가 필요한 증상성 뇌 전이, 암성 수막염, 척수 전이가 없는 환자\n- 치료가 필요한 심낭 effusion, 흉수, 복수가 없는 환자\n- 췌장암 코호트의 경우 보조 치료를 제외한 최소 1차 이상의 항암화학요법 후 진행된 환자\n- 췌장암 코호트의 경우 등록 당시 연령이 18세 이상이며 ECOG 수행 상태가 0 또는 1인 환자\n\n제외 기준:\n- 활성 중복 암이 있는 환자\n- 등록 전 6개월 이내에 발생한 NYHA 2-IV 등급의 증상성 울혈성 심부전 또는 2등급 초과 부정맥 환자\n- 등록 전 6개월 이내에 발생한 심근경색 또는 불안정성 협심증 환자\n- 심전도상 교정 QT 간격(QTcF)이 480 ms를 초과하는 환자\n- 망막정맥폐쇄(RVO)의 병력, 소견 또는 위험 요인이 있는 환자\n- MEK 억제제 치료 이력이 있는 환자\n- HIV 항체, HBs 항원 또는 HCV-RNA 양성 환자",
   "eligibility_text": "Inclusion Criteria:\n\nInclusion criteria for both cohort A and B\n\n1. BRAF fusion or rearrangement is detected by reimbursed NGS-based cancer gene panel tests, cancer gene panel tests performed under advanced medical treatment, or clinical study (including liquid biopsy).\n2. Unresectable or recurrent\n3. No symptomatic brain metastasis, carcinomatous meningitis or spinal metastasis requiring surgical intervention or radiotherapy\n4. No cardiac effusion, pleural effusion, or ascites requiring treatment\n5. Not received anti-cancer drug within 14 days before registration, nor received other study drug (molecular targeting drug, immune therapy) within 21 days before registration\n6. Not received operation under general anesthesia within 28 days before registration\n7. Not received radiation therapy (including gamma knife, cyber knife) within 14 days before registration\n8. Left ventricular ejection fraction \\>= 50% by echocardiography or MUGA (multigated acquisition scan) within 28 days before registration\n9. Having all laboratory tests performed within 14 days before registration and the values are within the following range. Patients should not receive administration of G-CSF and/or blood transfusion within 14 days before the blood collection (1) Absolute neutrophil count \\>= 1.500/mm3 (2) Platelet count \\>= 10.0 X 10(4))/mm3 (3) Hemoglobin \\>= 8.0 g/dL (4) Total bilirubin \\<= 1.5 g/dL (5) Aspartate aminotransferase (AST) \\<= 100 U/L (6) Alanine aminotransferase (ALT) \\<= 100 U/L (7) Serum creatinine \\<= 1.5 mg/dL\n10. Patients who are able to swallow orally administered medication.\n11. Consent to at least 30 days of contraception and limited egg donation (including egg retrieval for future egg transfer) after last administration of study drug for child-bearing status women. Consent to 90 days of contraception and limited sperm donation after last administration of study drug for men.\n12. Written informed consent (When registering patient under 18, a signed consent form must be obtained from both the patient and the parent or legal guardian.)\n\n    Cohort A\n13. Histopathologically diagnosed as low-grade glioma, based on WHO classification of 2007, 2016 and 2021. The grade is WHO grade 1 or 2.\n14. Age at the time of registration is 12 years or older (When registering a patient under 18, a signed consent form must be obtained from both the patient and the parent or legal guardian), and patients who are 12-17 years old have to be 40 kg or over in body weight. There is no limitation in body weight for patients who are 18 years or older.\n15. Lansky Performance Status (LPS) \\>= 70 for patients 12-15 years old Karnofsky Performance Status (KPS) \\>= 70 for patients 16 years or older\n16. Having measurable disease within 28 days before registration\n17. Patients suffice the following. (1) Having adequate initial treatment depending on the primary central nervous tumor including surgery if recommended treatment is available. (2) Neurologically stable.\n\n(3) Multiple lesion or dissemination is not detected with MRI at the registration.\n\n18\\) Not increased steroid for low-grade glioma within 14 days before registration and the dosage of steroid in equivalent to 50 mg prednisolone or less.\n\nCohort B 19) Histopathologically diagnosed as pancreatic cancer (histologically not specified).\n\n20\\) Having progression after at least one regimen of chemotherapy excluding adjuvant therapy.\n\n21\\) Age at the time of registration is 18 years or older. 22) Performance Status (ECOG) is 0 or 1 23) Having measurable disease within 28 days before registration detected by enhanced CT (Head, chest, abdominal, pelvic: under 5 mm in slice)\n\nExclusion Criteria:\n\n1. Active double primary cancer (but not \\[1\\]-\\[3\\]): \\[1\\] completely resected following cancers: basal cell carcinoma, stage I squamous cell carcinoma, carcinoma in situ, intramucosal carcinoma, superficial bladder cancer, \\[2\\] gastrointestinal cancer curatively resected with ESD or EMR, and \\[3\\] other cancers with no recurrence for more than 5 years.\n2. Patients with symptomatic congestive heart failure of NYHA class II-IV or arrythmia (over grade 2) occurring in less than 6 months before registration.\n3. Patients with myocardial infarction or unstable angina occurring in less than 6 months before registration.\n4. Patients with corrected QT interval (QTcF) \\> 480 ms in ECG performed within 14 days before enrollment.\n5. Patients with infections requiring systemic treatment.\n6. Patients with uncontrolled hypertension (systolic blood pressure: over 150 mmHg or diastolic blood pressure: over 100 mmHg).\n7. Patients with history or findings of retinal vein occlusion (RVO) or having RVO risk factor (unstable glaucoma, ocular hypertension, hyperviscosity syndrome, hypercoagulability syndrome, etc.)\n8. Patients with history or complication of retinal degenerative disease other than RVO (central serous chorioretinopathy, retinal detachment, age-related macular degeneration, etc.)\n9. Patients with uncontrolled diabetes mellitis.\n10. Patients with venous thrombus (transient ischemic attack, stroke, massive deep vein thrombosis, pulmonary embolism, etc.) occurring in less than 3 months\n11. Patients who have neuromuscular disease with CK elevation (inflammatory myopathy, muscular dystrophy, amyotrophic lateral sclerosis, spinal muscular atrophy, etc.).\n12. Prior treatment with MEK inhibitors.\n13. Previous severe hypersensitive reaction to ingredient including binimetinib.\n14. Patients who are positive for either HIV antibody, HBs antigen, or HCV-RNA.\n15. Negative for HBs antigen, positive for HBs antibody or HBc antibody, and positive for HBV-DNA assay. (If it is less than or equal to the detection sensitivity, patients are not excluded)\n16. Patients with concomitant diseases that affect gastrointestinal function.\n17. Women who are pregnant, breastfeeding and need to continue breastfeeding in the future, and women who may be pregnant.\n18. Patients with psychiatric diseases or psychological symptoms interfering with participation in the trial.\n19. Patients who are deemed inappropriate for participation in the trial by the principal investigator or sub-investigator.",
   "enrollment": 32,
   "has_results": false,
