@@ -64,6 +64,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -95,6 +98,19 @@ nav:
       - 참여 방법 안내: guides/trials/how-to-apply.md
       - 임상시험 용어: guides/trials/glossary.md
   - 주제별: _generated/topics/index.md
+  - 행복방 가이드:
+      - guides/happybang/index.md
+      - 증상·상황으로 찾기: guides/happybang/find-by-symptom.md
+      - 항암 시작 전 준비: guides/happybang/before-chemo.md
+      - 항암 부작용별 대처: guides/happybang/chemo-side-effects.md
+      - 항암제 종류와 순서: guides/happybang/regimens.md
+      - 식사와 영양: guides/happybang/nutrition.md
+      - 보조제 이야기: guides/happybang/supplements.md
+      - 통증 조절: guides/happybang/pain.md
+      - 응급 매뉴얼: guides/happybang/emergency-manual.md
+      - 수술 관련: guides/happybang/surgery.md
+      - 병원 이용 팁: guides/happybang/hospital-tips.md
+      - 마음가짐과 조언: guides/happybang/mindset.md
   - 응급 가이드:
       - guides/emergency/index.md
       - 항암 중 발열: guides/emergency/fever-neutropenia.md
