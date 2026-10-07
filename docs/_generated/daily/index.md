@@ -2,6 +2,8 @@
 title: "날짜별 보기"
 description: "수집일 기준 다이제스트 목록"
 comments: false
+search:
+  boost: 0.4
 ---
 
 # 날짜별 보기

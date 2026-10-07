@@ -2,6 +2,8 @@
 title: "NALIRIFOX"
 description: "요법 · "
 comments: true
+search:
+  boost: 0.4
 ---
 
 # NALIRIFOX

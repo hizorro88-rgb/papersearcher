@@ -2,6 +2,8 @@
 title: "신약·치료제"
 description: "표적치료·면역치료·항암화학 신약, 병용요법, 전임상→임상 전환"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 신약·치료제

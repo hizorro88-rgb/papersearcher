@@ -2,6 +2,8 @@
 title: "기초연구"
 description: "기전·전임상 연구 (기본 접힘)"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 기초연구

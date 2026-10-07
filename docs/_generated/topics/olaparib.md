@@ -2,6 +2,8 @@
 title: "olaparib"
 description: "약물 · PARP inhibitor (gBRCA)"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # olaparib

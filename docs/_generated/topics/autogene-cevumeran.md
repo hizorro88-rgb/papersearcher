@@ -2,6 +2,8 @@
 title: "autogene cevumeran"
 description: "약물 · mRNA neoantigen vaccine"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # autogene cevumeran

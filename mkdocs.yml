@@ -83,36 +83,10 @@ plugins:
 
 nav:
   - 홈: index.md
-  - 날짜별: _generated/daily/index.md
-  - 카테고리:
-      - 신약·치료제: _generated/categories/drug.md
-      - 임상시험: _generated/categories/trial.md
-      - 수술: _generated/categories/surgery.md
-      - 치료 전반: _generated/categories/treatment.md
-      - 진단·조기발견: _generated/categories/diagnosis.md
-      - 지지요법·삶의질: _generated/categories/supportive.md
-      - 제약사·규제: _generated/categories/industry.md
-      - 기초연구: _generated/categories/basic.md
-  - 임상시험:
-      - 임상시험 목록: _generated/trials/index.md
-      - 참여 방법 안내: guides/trials/how-to-apply.md
-      - 임상시험 용어: guides/trials/glossary.md
-  - 주제별: _generated/topics/index.md
-  - 행복방 가이드:
-      - guides/happybang/index.md
-      - 증상·상황으로 찾기: guides/happybang/find-by-symptom.md
-      - 항암 시작 전 준비: guides/happybang/before-chemo.md
-      - 항암 부작용별 대처: guides/happybang/chemo-side-effects.md
-      - 항암제 종류와 순서: guides/happybang/regimens.md
-      - 식사와 영양: guides/happybang/nutrition.md
-      - 보조제 이야기: guides/happybang/supplements.md
-      - 통증 조절: guides/happybang/pain.md
-      - 응급 매뉴얼: guides/happybang/emergency-manual.md
-      - 수술 관련: guides/happybang/surgery.md
-      - 병원 이용 팁: guides/happybang/hospital-tips.md
-      - 마음가짐과 조언: guides/happybang/mindset.md
-  - 응급 가이드:
+  - 응급·증상 찾기:
       - guides/emergency/index.md
+      - 증상·상황으로 찾기: guides/happybang/find-by-symptom.md
+      - 응급 매뉴얼 (행복방): guides/happybang/emergency-manual.md
       - 항암 중 발열: guides/emergency/fever-neutropenia.md
       - 황달·담관염·스텐트: guides/emergency/jaundice-cholangitis.md
       - 출혈: guides/emergency/bleeding.md
@@ -122,6 +96,40 @@ nav:
       - 혈당 이상: guides/emergency/glucose.md
       - 탈수·설사: guides/emergency/dehydration-diarrhea.md
       - 병원 연락처: guides/emergency/hospital-contacts.md
+  - 치료 알아보기:
+      - guides/treatment/index.md
+      - 진단 검사와 병기: guides/treatment/diagnosis-staging.md
+      - 수술: guides/treatment/surgery.md
+      - 시술 (배액관·스텐트·케모포트): guides/treatment/procedures.md
+      - 방사선치료: guides/treatment/radiation.md
+      - 항암치료와 표적·면역치료: guides/treatment/chemotherapy.md
+      - 완화의료와 호스피스: guides/treatment/palliative.md
+  - 임상시험:
+      - 임상시험 목록: _generated/trials/index.md
+      - 참여 방법 안내: guides/trials/how-to-apply.md
+      - 임상시험 용어: guides/trials/glossary.md
+  - 투병 생활 (행복방):
+      - guides/happybang/index.md
+      - 항암 시작 전 준비: guides/happybang/before-chemo.md
+      - 항암 부작용별 대처: guides/happybang/chemo-side-effects.md
+      - 항암제 종류와 순서: guides/happybang/regimens.md
+      - 식사와 영양: guides/happybang/nutrition.md
+      - 보조제 이야기: guides/happybang/supplements.md
+      - 통증 조절: guides/happybang/pain.md
+      - 수술 관련: guides/happybang/surgery.md
+      - 병원 이용 팁: guides/happybang/hospital-tips.md
+      - 마음가짐과 조언: guides/happybang/mindset.md
+  - 최신 연구·소식:
+      - 날짜별: _generated/daily/index.md
+      - 신약·치료제: _generated/categories/drug.md
+      - 임상시험 소식: _generated/categories/trial.md
+      - 수술: _generated/categories/surgery.md
+      - 치료 전반: _generated/categories/treatment.md
+      - 진단·조기발견: _generated/categories/diagnosis.md
+      - 지지요법·삶의질: _generated/categories/supportive.md
+      - 제약사·규제: _generated/categories/industry.md
+      - 기초연구: _generated/categories/basic.md
+      - 주제별 (약물·수술법): _generated/topics/index.md
   - 소개:
       - 이 사이트에 대해: about/index.md
       - 수집 소스와 방법: about/sources.md

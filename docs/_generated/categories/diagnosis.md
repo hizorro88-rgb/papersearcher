@@ -2,6 +2,8 @@
 title: "진단·조기발견"
 description: "바이오마커, 액체생검, 영상, 선별검사, 낭종"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 진단·조기발견

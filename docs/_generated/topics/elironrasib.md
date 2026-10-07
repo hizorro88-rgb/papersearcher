@@ -2,6 +2,8 @@
 title: "elironrasib"
 description: "약물 · KRAS G12C(ON) inhibitor"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # elironrasib

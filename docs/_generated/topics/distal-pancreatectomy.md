@@ -2,6 +2,8 @@
 title: "distal pancreatectomy"
 description: "시술·수술 · "
 comments: true
+search:
+  boost: 0.4
 ---
 
 # distal pancreatectomy

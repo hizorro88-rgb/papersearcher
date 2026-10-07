@@ -2,6 +2,8 @@
 title: "임상시험"
 description: "임상시험 등록·상태·결과, 참여 조건, 모집 기관"
 comments: true
+search:
+  boost: 0.4
 ---
 
 # 임상시험
