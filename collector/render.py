@@ -16,7 +16,7 @@ from . import config
 from .merge import STATUS_KO
 from .models import Item
 
-SITE_URL = "https://hizorro88-rgb.github.io/papersearcher"
+SITE_URL = "https://pancreas.dopamine.me.kr"
 
 EVIDENCE_NAME = {
     "guideline": "가이드라인", "meta": "메타분석", "phase3": "3상", "phase2": "2상", "phase1": "1상",

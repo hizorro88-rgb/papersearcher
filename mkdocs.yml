@@ -1,6 +1,6 @@
 site_name: 췌장암 정보 위키
 site_description: 췌장암 신약·임상시험·수술·치료 관련 논문과 소식을 매일 자동 수집해 한국어로 정리합니다.
-site_url: https://hizorro88-rgb.github.io/papersearcher/
+site_url: https://pancreas.dopamine.me.kr/
 repo_url: https://github.com/hizorro88-rgb/papersearcher
 repo_name: hizorro88-rgb/papersearcher
 edit_uri: edit/main/docs/
@@ -52,7 +52,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/hizorro88-rgb/papersearcher
     - icon: material/rss
-      link: https://hizorro88-rgb.github.io/papersearcher/_generated/feed.xml
+      link: https://pancreas.dopamine.me.kr/_generated/feed.xml
 
 extra_css:
   - stylesheets/extra.css

@@ -2,7 +2,7 @@
 
 췌장암 **신약·임상시험·수술·치료** 관련 논문, 임상시험 등록 정보, 프리프린트를 매일 자동 수집해 한국어로 요약하고 GitHub Pages 위키로 게시합니다. 모든 항목에 출처가 붙고, 임상시험 상태처럼 바뀌는 정보는 변경 이력과 함께 갱신됩니다.
 
-- 사이트: https://hizorro88-rgb.github.io/papersearcher/ (Pages 설정 후 활성화)
+- 사이트: https://pancreas.dopamine.me.kr/ (GitHub Pages + Cloudflare DNS)
 - 설계: [docs/DESIGN.md](docs/DESIGN.md) · 운영자 설정: [docs/SETUP.md](docs/SETUP.md)
 - 실행: GitHub Actions (매일 06:00 KST) → `data/` 커밋 → MkDocs 빌드 → GitHub Pages
 - 비용: 호스팅 0원. 한국어 요약(Claude API)만 월 $5~15, [후원](docs/about/sponsor.md)으로 충당

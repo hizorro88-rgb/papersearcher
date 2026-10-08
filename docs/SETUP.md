@@ -101,7 +101,20 @@ PubMed 조회 속도 제한을 초당 3회에서 10회로 올립니다. 없어�
 
 `docs/guides/emergency/` 아래 9개 페이지는 공식 기관 자료를 근거로 작성한 **초안**입니다. 가능하면 의료인에게 검토를 받고, `hospital-contacts.md`에 자주 가는 병원의 실제 연락처를 채워 주세요. GitHub 웹에서 파일을 열고 연필 아이콘으로 바로 편집할 수 있습니다.
 
-## 11. 이후 운영에서 알아 둘 것
+## 11. 커스텀 도메인 연결 (Cloudflare)
+
+사이트를 `https://pancreas.dopamine.me.kr/` 로 제공합니다. 저장소에는 `docs/CNAME`, `mkdocs.yml`의 `site_url`, 수집기의 `SITE_URL`이 이 주소로 설정되어 있습니다.
+
+1. **Cloudflare DNS** (dopamine.me.kr 영역) → **Add record**
+   - Type: `CNAME` · Name: `pancreas` · Target: `hizorro88-rgb.github.io` · TTL: Auto
+   - **Proxy status: DNS only(회색 구름)** 로 시작합니다. GitHub가 인증서를 발급하려면 DNS가 직접 보여야 합니다. 발급이 끝난 뒤 프록시(주황 구름)를 켜고 싶으면 SSL/TLS 모드를 **Full**로 두세요.
+2. **GitHub** 저장소 → Settings → Pages → **Custom domain**에 `pancreas.dopamine.me.kr` 입력 → Save. DNS 확인(수 분~1시간)이 끝나면 **Enforce HTTPS**를 체크합니다.
+3. 확인: `https://pancreas.dopamine.me.kr/` 가 열리고, 기존 `hizorro88-rgb.github.io/papersearcher` 주소는 새 주소로 자동 이동합니다.
+4. (선택) GitHub 프로필 Settings → Pages → **Verified domains**에 `dopamine.me.kr`을 등록하면 다른 사람이 같은 도메인을 가로채는 것을 막습니다. TXT 레코드 하나를 Cloudflare에 추가하면 됩니다.
+
+주소를 바꾸고 싶으면 `docs/CNAME`과 `mkdocs.yml`의 `site_url`, `collector/render.py`의 `SITE_URL`을 함께 바꿉니다.
+
+## 12. 이후 운영에서 알아 둘 것
 
 | 상황 | 방법 |
 |---|---|
