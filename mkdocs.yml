@@ -94,6 +94,8 @@ nav:
       - 혈전·호흡곤란: guides/emergency/thrombosis.md
       - 혈당 이상: guides/emergency/glucose.md
       - 탈수·설사: guides/emergency/dehydration-diarrhea.md
+      - 섬망·의식 변화: guides/emergency/delirium.md
+      - 부종·림프부종: guides/emergency/lymphedema.md
       - 병원 연락처: guides/emergency/hospital-contacts.md
   - 치료 알아보기:
       - guides/treatment/index.md
@@ -107,6 +109,14 @@ nav:
       - 임상시험 목록: _generated/trials/index.md
       - 참여 방법 안내: guides/trials/how-to-apply.md
       - 임상시험 용어: guides/trials/glossary.md
+  - 투병 생활:
+      - guides/living/index.md
+      - 항암 시작 전 준비: guides/living/before-chemo.md
+      - 항암 부작용별 대처: guides/living/side-effects.md
+      - 식사와 영양: guides/living/nutrition.md
+      - 보조제와 건강식품: guides/living/supplements.md
+      - 통증 조절의 원칙: guides/living/pain.md
+      - 병원 이용 요령: guides/living/hospital-tips.md
   - 최신 연구·소식:
       - 날짜별: _generated/daily/index.md
       - 신약·치료제: _generated/categories/drug.md

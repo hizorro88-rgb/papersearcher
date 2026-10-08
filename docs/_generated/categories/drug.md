@@ -108,23 +108,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT04940286) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04940286)</small>
 
 ---
-<a id="nct-nct06532344"></a>
-#### [전이성 췌장암 1차 치료에서 표준 요법인 mFOLFIRINOX와 ONO-7913 및 ONO-4538 병용요법에 대한 공개, 비대조 1상 임상시험](https://clinicaltrials.gov/study/NCT06532344)
-<small>An Open-label, Uncontrolled Study of ONO-7913 and ONO-4538 in Combination With Modified FOLFIRINOX Therapy, the Standard of Care, as First-line Treatment in Patients With Metastatic Pancreatic Cancer</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` · 2024-08-01 · ClinicalTrials.gov · Ono Pharmaceutical Co., Ltd. · 중요도 0.81
-
-**NCT06532344** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06532344.md)
-
-이 연구는 전이성 췌장암 환자의 1차 치료로서 표준 치료인 mFOLFIRINOX(수정된 폴피리녹스) 요법에 ONO-7913과 ONO-4538을 병용 투여했을 때의 내약성과 안전성을 평가하는 1상 임상시험입니다. 이전에 치료받지 않은 20세 이상의 성인 환자 32명을 대상으로 진행됩니다. 현재 참가자 모집을 완료하고 진행 중인 상태(ACTIVE_NOT_RECRUITING)입니다. 국내 참여 기관은 없습니다.
-
-- 치료받지 않은 전이성 췌장암 환자 32명을 대상으로 진행되는 1상 임상시험입니다.
-- 표준 1차 항암화학요법인 mFOLFIRINOX에 ONO-7913과 ONO-4538을 함께 투여하는 병용요법의 안전성과 내약성을 확인합니다.
-- 국내 임상시험 기관은 0곳으로 지정되어 있습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06532344) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532344)</small>
-
----
 <a id="nct-nct05497778"></a>
 #### [진행성 췌장암 환자를 대상으로 한 젬시타빈 및 냅파클리탁셀과 IM156 병용요법의 1b상 임상시험](https://clinicaltrials.gov/study/NCT05497778)
 <small>A Phase 1b Study of Gemcitabine and Nab-paclitaxel in Combination With IM156 in Patients With Advanced Pancreatic Cancer.</small>
@@ -140,6 +123,23 @@ search:
 - 전이성 암에 대한 항암 치료 경험이 없는 환자를 대상으로 하며, 치료 반응 및 내성을 예측할 바이오마커 탐색 연구가 함께 이루어집니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05497778) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05497778)</small>
+
+---
+<a id="nct-nct06532344"></a>
+#### [전이성 췌장암 1차 치료에서 표준 요법인 mFOLFIRINOX와 ONO-7913 및 ONO-4538 병용요법에 대한 공개, 비대조 1상 임상시험](https://clinicaltrials.gov/study/NCT06532344)
+<small>An Open-label, Uncontrolled Study of ONO-7913 and ONO-4538 in Combination With Modified FOLFIRINOX Therapy, the Standard of Care, as First-line Treatment in Patients With Metastatic Pancreatic Cancer</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` · 2024-08-01 · ClinicalTrials.gov · Ono Pharmaceutical Co., Ltd. · 중요도 0.81
+
+**NCT06532344** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06532344.md)
+
+이 연구는 전이성 췌장암 환자의 1차 치료로서 표준 치료인 mFOLFIRINOX(수정된 폴피리녹스) 요법에 ONO-7913과 ONO-4538을 병용 투여했을 때의 내약성과 안전성을 평가하는 1상 임상시험입니다. 이전에 치료받지 않은 20세 이상의 성인 환자 32명을 대상으로 진행됩니다. 현재 참가자 모집을 완료하고 진행 중인 상태(ACTIVE_NOT_RECRUITING)입니다. 국내 참여 기관은 없습니다.
+
+- 치료받지 않은 전이성 췌장암 환자 32명을 대상으로 진행되는 1상 임상시험입니다.
+- 표준 1차 항암화학요법인 mFOLFIRINOX에 ONO-7913과 ONO-4538을 함께 투여하는 병용요법의 안전성과 내약성을 확인합니다.
+- 국내 임상시험 기관은 0곳으로 지정되어 있습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06532344) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532344)</small>
 
 ---
 <a id="nct-nct04172532"></a>

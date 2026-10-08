@@ -17,25 +17,25 @@ comments: true
 
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
-| 열나요, 오한, 38도, 몸살, 호중구, 백혈구 떨어짐, 항암 밀림 | [항암 중 발열](fever-neutropenia.md) |
+| 열나요, 오한, 38도, 몸살, 호중구, 백혈구 떨어짐, 항암 밀림 | [항암 중 발열](fever-neutropenia.md) · [호중구·ANC 계산](../living/side-effects.md) |
 | 패혈증, 식은땀, 맥박 빠름, 숨 가쁨 | [항암 중 발열](fever-neutropenia.md) · [혈전·호흡곤란](thrombosis.md) |
 
 ## 토하고 못 먹어요
 
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
-| 토해요, 울렁거림, 구토, 물도 못 마셔요, 배가 부풀어요 | [장폐색·구토](bowel-obstruction.md) · [시술 – 십이지장 스텐트](../treatment/procedures.md#duodenal) |
-| 입맛 없음, 체중 빠짐, 식욕촉진제, 영양 | [완화의료 – 식사·체중](../treatment/palliative.md) · [수술 후 생활](../treatment/surgery.md) |
-| 입안 헐음, 구내염 | [항암치료 – 부작용 대비](../treatment/chemotherapy.md) |
+| 토해요, 울렁거림, 구토, 물도 못 마셔요, 배가 부풀어요 | [구토·오심 대처](../living/side-effects.md) · [장폐색·구토](bowel-obstruction.md) · [시술 – 십이지장 스텐트](../treatment/procedures.md#duodenal) |
+| 입맛 없음, 체중 빠짐, 식욕촉진제, 영양, 못 먹어요 | [식사와 영양](../living/nutrition.md) · [미각 변화·식욕 저하](../living/side-effects.md) |
+| 입안 헐음, 구내염, 입안이 하얗게 | [구내염 대처](../living/side-effects.md) |
 | 체했어요, 더부룩, 명치 통증, 역류 | [통증 악화](pain-crisis.md) · [수술 – 합병증(위배출 지연)](../treatment/surgery.md) |
 
 ## 대변·소변
 
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
-| 설사, 묽은 변, 하루 여러 번, 탈수 | [탈수·설사](dehydration-diarrhea.md) |
-| 변비, 변이 안 나와요, 관장 | [통증 악화 – 진통제 부작용](pain-crisis.md) · [장폐색·구토](bowel-obstruction.md) |
-| 기름진 변, 물에 뜨는 변, 방귀, 지방변, 췌장효소 | [탈수·설사](dehydration-diarrhea.md) · [수술 후 생활 – 췌장효소제](../treatment/surgery.md) |
+| 설사, 묽은 변, 하루 여러 번, 탈수 | [설사 대처](../living/side-effects.md) · [탈수·설사](dehydration-diarrhea.md) |
+| 변비, 변이 안 나와요, 관장 | [변비 대처](../living/side-effects.md) · [장폐색·구토](bowel-obstruction.md) |
+| 기름진 변, 물에 뜨는 변, 방귀, 지방변, 췌장효소 | [췌장효소제 복용법](../living/nutrition.md#enzyme) |
 | 검은 변, 혈변, 피 토함 | [출혈](bleeding.md) |
 | 소변이 갈색, 눈이 노래짐, 가려움, 황달, 스텐트, 배액관 | [황달·담관염·스텐트](jaundice-cholangitis.md) · [시술 – 담도 스텐트·배액관 관리](../treatment/procedures.md) |
 
@@ -43,16 +43,16 @@ comments: true
 
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
-| 아파요, 등 통증, 명치 통증, 진통제, 마약성, 패치 | [통증 악화](pain-crisis.md) · [완화의료](../treatment/palliative.md) |
+| 아파요, 등 통증, 명치 통증, 진통제, 마약성, 패치 | [통증 조절의 원칙](../living/pain.md) · [통증 악화](pain-crisis.md) |
 | 신경차단술, 진통제로 안 잡혀요 | [시술 – 복강신경총 차단술](../treatment/procedures.md#celiac) |
 | 뼈 전이, 뼈가 아픔 | [방사선치료 – 증상 완화](../treatment/radiation.md) |
-| 손발 저림, 찬 것 못 만짐, 감각 이상 | [항암치료 – 1차 요법 특징](../treatment/chemotherapy.md) |
+| 손발 저림, 찬 것 못 만짐, 감각 이상 | [말초신경병증 대처](../living/side-effects.md) |
 
 ## 피·혈액 수치
 
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
-| 호중구, 백혈구, 혈소판, 빈혈, 촉진제 | [항암 중 발열](fever-neutropenia.md) · [항암치료 – 주기와 평가](../treatment/chemotherapy.md) |
+| 호중구, 백혈구, 혈소판, 빈혈, 촉진제, 간수치 | [혈구 저하·간수치](../living/side-effects.md) · [항암 중 발열](fever-neutropenia.md) |
 | 혈당, 당뇨, 저혈당, 인슐린 | [혈당 이상](glucose.md) |
 | CA19-9, 종양표지자 | [진단 검사와 병기](../treatment/diagnosis-staging.md) |
 
@@ -61,10 +61,21 @@ comments: true
 | 이런 말로 찾으세요 | 보기 |
 |---|---|
 | 다리 붓고 아파요, 혈전, 폐색전, 숨참 | [혈전·호흡곤란](thrombosis.md) |
+| 팔다리가 붓고 무거워요, 림프부종, 압박스타킹 | [부종·림프부종](lymphedema.md) |
 | 배에 물이 차요, 복수 | [시술 – 복수천자](../treatment/procedures.md#paracentesis) |
 | 어지러움, 휘청, 쓰러질 것 같아요 | [탈수·설사](dehydration-diarrhea.md) · [출혈](bleeding.md) · [혈당 이상](glucose.md) |
-| 헛것이 보여요, 밤에 안 자고 횡설수설, 사람 못 알아봄 | [통증 악화 – 진통제 부작용](pain-crisis.md) · 담당 병원 즉시 연락 |
-| 우울, 불안, 불면 | [완화의료 – 심리 지원](../treatment/palliative.md) |
+| 헛것이 보여요, 밤에 안 자고 횡설수설, 사람 못 알아봄 | [섬망·의식 변화](delirium.md) |
+| 우울, 불안, 불면, 피로 | [피로 대처](../living/side-effects.md) · [완화의료 – 심리 지원](../treatment/palliative.md) |
+
+## 피부·기타
+
+| 이런 말로 찾으세요 | 보기 |
+|---|---|
+| 발진, 가려움, 두드러기, 주사 맞다가 목이 붓는 느낌 | [피부·주입 반응](../living/side-effects.md) |
+| 손발바닥 벗겨짐, 수족증후군, 탈모 | [피부·손발 증후군, 탈모](../living/side-effects.md) |
+| 보조제 먹어도 되나요, 비타민, 밀크시슬, 커큐민 | [보조제와 건강식품](../living/supplements.md) |
+| 항암 시작 전에 뭘 해야 하나요, 예방접종, 입원 가방 | [항암 시작 전 준비](../living/before-chemo.md) |
+| 외래가 짧아요, 기록 복사, 2차 의견, 지방, 동행, 의료비 | [병원 이용 요령](../living/hospital-tips.md) |
 
 ## 치료 전반
 
