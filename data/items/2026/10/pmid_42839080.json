@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic cancer, particularly pancreatic ductal adenocarcinoma (PDAC), is among the most aggressive malignancies, often progresses silently until advanced stages, which significantly contributes to high mortality rates. The development of biosensor technologies, when augmented by artificial intelligence (AI), represents a paradigm shift in early pancreatic cancer detection by enhancing analytical sensitivity and specificity, while enabling real-time data processing. This review critically evaluates AI-driven biosensors, including enzyme-based, immunosensor, nucleic acid, electrochemical, and optical platforms, highlighting their potential in detecting tumor-associated biomarkers such as circulating tumor DNA (ctDNA) and microRNAs with unprecedented precision. AI-powered biosensors leverage machine learning and deep learning algorithms for pattern recognition, predictive modeling, and multi-sensor data integration, thereby improving diagnostic accuracy and facilitating personalized medicine. Despite the transformative potential of these innovations, challenges remain, particularly concerning data standardization, clinical validation, regulatory compliance, and ethical considerations. Addressing these limitations through interdisciplinary research and translational efforts will be critical for the successful deployment of AI-integrated biosensors in clinical oncology. This review provides a comprehensive analysis of the current landscape, emerging trends, and future perspectives of AI-enhanced biosensor technologies for pancreatic cancer diagnostics. It highlights their potential to improve early detection, prognostic assessment, and patient outcomes.",
+ "authors": [
+  "Hooda A",
+  "Alhusseini JA",
+  "Basak R",
+  "Hu C"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42839080",
+ "importance": 0.72,
+ "key_points_ko": [
+  "인공지능(AI)과 결합된 바이오센서는 분석 민감도와 특이도를 높이고 실시간 데이터 처리를 지원합니다.",
+  "머신러닝과 딥러닝 알고리즘을 활용하여 순환 종양 DNA(ctDNA) 및 마이크로RNA(miRNA) 등 핵심 바이오마커의 정밀 분석이 가능합니다.",
+  "임상 현장 도입을 위해 데이터 표준화, 임상적 유효성 검증, 규제 및 윤리적 문제 해결이 필요합니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.1007/10_2026_346",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42839080"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Biochem Eng Biotechnol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42839080/"
+ },
+ "summary_ko": "췌장암(특히 췌장관선암종, PDAC)은 말기까지 증상 없이 진행되는 경우가 많아 조기 진단 기술 개발이 중요합니다. 본 논문은 인공지능(AI)과 바이오센서 기술의 결합이 췌장암 조기 진단의 민감도와 특이도를 어떻게 개선하는지 종합적으로 검토한 종설(Review)입니다. 효소 기반, 면역센서, 핵산, 전기화학 및 광학 센서 플랫폼을 다루며, 순환 종양 DNA(ctDNA)나 마이크로RNA(miRNA) 같은 바이오마커 검출 잠재력을 분석했습니다. 다만 실제 임상 현장에 적용하기 위해서는 데이터 표준화, 임상 검증, 규제 승인 등의 과제를 해결해야 한다고 설명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Revolutionizing Pancreatic Cancer Detection: The Role of AI-Integrated Biosensors in Early Diagnostics",
+ "title_ko": "췌장암 조기 발견의 혁신: 조기 진단에서 인공지능 결합 바이오센서의 역할",
+ "trial": null,
+ "type": "paper"
+}

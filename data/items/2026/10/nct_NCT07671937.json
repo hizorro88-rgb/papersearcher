@@ -1,0 +1,110 @@
+{
+ "abstract": "The purpose of the study is to characterize baseline multidisciplinary tumor board (MDTB) context and variability, evaluate the relationship between baseline fitness of patients with cancer and initial treatment recommendations, and assess the impact of the INSPIRE intervention, which involves including electronic patient reported outcomes (ePROs) within MDTB on MDTB discussion content, provider burden, treatment recommended and received, healthcare utilization, and patient-reported outcomes.\n\nStudy Type/Design This multi-methods study will include two participant groups: patient participants and clinician/provider participants. The patient portion includes an initial prospective observational cohort followed by a randomized controlled trial of the INSPIRE intervention, which involves inclusion of electronic patient-reported outcomes in tumor board discussions. The clinician/provider portion includes audio recording of multidisciplinary tumor board discussions and an optional post-study semi-structured interview with clinicians/providers to understand experiences with the INSPIRE intervention, including feasibility, usefulness, workflow considerations, and implementation challenges.\n\nPatient Participants Patients who agree to participate will complete patient-reported questionnaires at baseline, 3 months, and 6 months. Questionnaires may be completed online by text or email, by phone with responses entered by a research assistant, in person on a tablet, or on paper, based on patient preference. The baseline questionnaire will include questions about health, daily function, quality of life, nutrition, cognition, social support, caregiver support, treatment preferences, and decision-making preferences. At UAB, some of these electronic patient-reported outcomes may already be collected as part of standard clinical care. If a patient has already completed overlapping questionnaires as part of standard care, the patient will not be asked to repeat those questions. Instead, the study team will abstract the relevant information from the electronic medical record or electronic patient-reported outcomes system for research purposes. If the patient has not completed the standard-of-care questionnaires, the patient will complete the study-specific REDCap questionnaire in English or Spanish.\n\nFor patients in the initial observational cohort, baseline questionnaire completion may occur within 2 weeks of enrollment. If patients do not complete more than 50% of the questionnaires within 2 weeks, they will be excluded from the study. For patients in the randomized intervention component, completion of the baseline questionnaire will be required before tumor board presentation. The study team will document patients who are unable to complete the questionnaire and the reason. Participants will also complete follow-up questionnaires at approximately 3 months and 6 months after enrollment. These follow-up questionnaires may be completed electronically, by phone, or on paper and will be entered into REDCap. If a patient does not complete a follow-up questionnaire, the research coordinator will make up to three attempts to contact the patient to encourage completion. These contacts may occur by phone, patient portal, or in person during clinic.\n\nThe baseline questionnaire is expected to take approximately 40 minutes if the full study questionnaire is completed. If the patient has already completed some electronic patient-reported outcomes as part of standard care, the abbreviated questionnaire is expected to take approximately 20 minutes. The 3-month and 6-month questionnaires are expected to take approximately 10 minutes each. Patients will not be asked to complete any additional clinic visits or study-specific medical procedures.\n\nUse of Patient Questionnaire Information in Tumor Board\n\nAfter a patient completes the baseline questionnaire, the research coordinator will review the responses and, for patients assigned to the INSPIRE intervention group, create a single PowerPoint slide for tumor board presentation. The slide may include patient frailty or fitness status, frailty components, treatment preferences, decision-making style, and a map showing travel distance from the patient's home to the cancer center. For patients randomized to the intervention group, the slide will be shared during tumor board. The slide will be sent by secure email or secure file transfer to the clinician presenting the case. If the clinician is not available, a research team member or research assistant may present the slide during tumor board. For patients not randomized to the formal INSPIRE presentation group, questionnaire information may still be available to the care team through clinical or study-related workflows, but it will not be formally presented during tumor board as part of the intervention.\n\nMedical Record Review for Patient Participants\n\nStudy staff will review patient medical records at baseline to collect information such as demographics, cancer diagnosis and stage, treatment history, prior visits with geriatrics or palliative care, prior cancer history, performance status, medical comorbidities, medications, laboratory results, imaging results, and other information relevant to cancer care. At approximately 6 months, study staff will review the medical record again to collect information about treatment recommendations, treatments received, treatment modifications or delays, complications, health care utilization, palliative care, hospice care, and survival status. Information that cannot be obtained from discrete electronic medical record fields will be entered into REDCap by trained study staff. If a patient withdraws from the study, the study team will ask whether the patient will allow continued medical record review. If the patient declines continued medical record review, the patient's data will be censored at the time of withdrawal.\n\nTumor Board Recording Procedures\n\nData from multidisciplinary tumor board presentations on individual patients will be captured by a research coordinator and entered into a REDCap database. This will include HIPPA-protected information, including the MRN. Only the study team will have access to the REDCap database, which will allow them to link individual patient demographics, treatment information, survey responses, and presentation details.\n\nClinic Notes Review Related to Tumor Board Decision-Making\n\nTo understand how treatment decisions are documented after tumor board, the research coordinator will review clinic notes leading up to the initial treatment recommendation. Relevant note content will be copied into a separate document, de-identified, and uploaded for qualitative analysis. The same general coding approach used for tumor board discussions will be applied to clinic note content.\n\nClinician/Provider Participants\n\nTumor Board Recording Procedures\n\nTrained research assistants will audio-record eligible tumor board meetings to document discussion content, workflow, and use of patient-reported information in treatment planning. All providers will be informed that tumor board discussions are being recorded for research purposes. If a provider chooses not to participate, that provider's verbal contributions will not be analyzed. Approximately 600 MDTB meetings will be recorded during the study period. These recordings will include eligible tumor board meetings in which enrolled or potentially eligible patient cases are discussed, and we estimate 4-5 patients per tumor board.\n\nAll participating tumor boards are expected to occur in hybrid or virtual formats, such as Zoom, Microsoft Teams, or a similar platform. If the tumor board is recorded as part of standard-of-care, the research team will be provided the recording by the clinical team. If the tumor board is not recorded as part of standard of care, the research assistant will attend the meeting and use a recording device to capture the tumor board discussion. The research assistant will also complete standardized data capture forms about the tumor board context and individual patient case presentations, including information such as meeting length, number of cases presented, attendee roles, and discussion flow. The research assistant will not otherwise participate in the clinical discussion, except when presenting the INSPIRE slide if needed.\n\nField Notes\n\nAt each participating site, the research coordinator will capture field notes related to eligible multidisciplinary tumor board meetings. These field notes will document contextual information that may not be fully captured in the audio recording or structured data collection forms, such as meeting format, attendance patterns, workflow issues, timing or agenda changes, interruptions, technical issues, and whether patient-reported information was presented as planned. The research coordinator may also document observations about how the INSPIRE information was incorporated into the tumor board discussion, including who presented the information, whether the information was visible or accessible to tumor board participants, and any notable questions or discussion related to the geriatric assessment, patient preferences, travel distance, or other patient-reported information. Field notes will not be used to evaluate individual clinicians. Field notes will be uploaded into REDCap and stored with other study data.\n\nClinician Interviews\n\nClinicians/providers may also be invited to participate in a one-on-one semi-structured interview. The PIs or lead co-investigators will invite clinicians/providers by email. Interviews will be conducted by trained study staff at a time convenient for the participant. Interviews will be conducted remotely using a secure, HIPAA-compliant videoconferencing platform or by telephone, based on participant preference. Interviews are expected to last approximately 30 to 60 minutes. The interviewer will ask about the participant's role in tumor board discussions and experiences with the INSPIRE intervention, including the feasibility and usefulness of incorporating geriatric assessment and patient preference data into tumor board, how the information was presented, factors that supported or limited use of the information in decision-making, provider burden, and recommendations for refinement and future expansion. With participant permission, interviews will be audio-recorded and professionally transcribed or transcribed by study staff for analysis. Clinician/provider participants may decline to participate in an interview, skip any question, or stop the interview at any time. Clinicians/providers who complete an interview will receive $50 for their participation. Payment will be provided after the interview is completed via Greenphire/ClinCard provided in person or via mail at the participants preference.\n\nSite Survey\n\nAnnually, site leads for each tumor type will complete a site survey describing basic information about tumor board structure and electronic patient-reported outcome use. This will include information about how tumor boards are organized and how patient-reported information is used in routine care.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07671937",
+ "importance": 0.65,
+ "key_points_ko": [
+  "목표 인원은 총 2,748명이며 췌장암, 유방암, 부인암 환자를 대상으로 합니다.",
+  "INSPIRE 중재는 전자 환자 보고 결과(ePROs)를 다학제 종양 위원회(MDTB) 논의에 포함하는 것입니다.",
+  "환자들은 기준선, 3개월, 6개월 시점에 건강, 삶의 질, 치료 선호도 등에 대한 설문조사를 완료합니다.",
+  "연구 결과의 핵심 수치와 효과는 초록에 명시되지 않음."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07671937"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-06-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Alabama at Birmingham",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07671937"
+ },
+ "summary_ko": "본 연구는 다학제 종양 위원회(MDTB, multidisciplinary tumor board) 논의 과정에 전자 환자 보고 결과(ePROs, electronic patient-reported outcomes)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인암 환자 2,748명을 대상으로 환자 참여 코호트 관찰 및 무작위 대조 임상시험을 진행합니다. 연구 목적은 환자의 신체 상태와 초기 치료 권고 간의 관계를 파악하고, ePROs가 종양 위원회 논의 내용, 의료진 부담, 치료 결과 및 환자 보고 결과에 미치는 영향을 평가하는 것입니다.",
+ "summary_source": "llm",
+ "tags": [
+  "PROs",
+  "Multidiscipinary tumor board",
+  "INSPIRE intervention",
+  "Pancreatic Cancer",
+  "Breast Cancer",
+  "gynecologic cancers"
+ ],
+ "title": "INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study",
+ "title_ko": "다학제 종양 위원회에서의 체계적인 환자 보고 평가 통합: INSPIRE 연구",
+ "trial": {
+  "conditions": [
+   "Breast Cancer",
+   "Corpus Uteri Cancer",
+   "Ovary Cancer",
+   "Pancreas Cancer",
+   "Other Female Genital Malignant Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "grocque@uabmc.edu",
+    "name": "Gabrielle B Rocque, MD",
+    "phone": "(205) 975-2914"
+   },
+   {
+    "email": "margaretathomas@uabmc.edu",
+    "name": "Margaret A Thomas, MPH",
+    "phone": "2058421632"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 18세 이상인 환자\n- 진단 후 8주 이내의 췌장암, 유방암, 부인암(모든 병기) 의심 또는 확진 환자\n- 참여 기관에서 치료를 받을 의사가 있는 환자\n- 영어 또는 스페인어로 구두 소통이 가능한 환자\n- 다학제 종양 위원회(MDTB)에서 논의될 예정인 환자\n- 참여 기관의 다학제 종양 위원회에 참여하는 모든 임상진\n\n제외 기준:\n- 참여 기관 외의 장소에서 암 치료를 받을 계획이 있는 개인\n- 영어 또는 스페인어를 구사하지 못하는 개인\n- (임상진의 경우) 참여를 거부(opt-out)하는 경우",
+  "eligibility_text": "Inclusion/Exclusion Criteria: We will include two populations: (1) patients and (2) clinical team members involved in the MDTB.\n\nInclusion Criteria:\n\n* Inclusions Criteria- Patients:\n\n  1. aged 18 years or older;\n  2. with suspected or confirmed diagnosis of pancreatic, breast, and gynecologic cancer (all stages) within 8 weeks of diagnosis;\n  3. intention to be treated at a participating institution;\n  4. with verbal fluency in English or Spanish; and\n  5. scheduled to be discussed at MDTB.\n* Inclusion criteria - Clinicians:\n\nAll clinical team members participating in the pancreatic, breast, or gynecologic MDTB at a participating site will be included and have pre-emptively agreed to participation.\n\nExclusion Criteria:\n\n* Exclusion criteria - Patients:\n\nIndividuals with plans to receive cancer treatment outside the participating institution and inability to speak English or Spanish.\n\n* Exclusion criteria - Clinician:\n\nClinicians will retain the opportunity to opt-out of participation, in which case their portions of the discussion will not be included in the analysis; however, this is not anticipated based on pilot data.",
+  "enrollment": 2748,
+  "has_results": false,
+  "interventions": [
+   "INSPIRE (INtegrating Systematic PatIent-Reported Evaluations)",
+   "Capture of patient-reported outcomes",
+   "Enhanced Clinician Awareness"
+  ],
+  "last_update_posted": "2026-10-07",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT07671937",
+  "phase": "NA",
+  "primary_completion_date": "2030-07",
+  "sex": "ALL",
+  "sponsor": "University of Alabama at Birmingham",
+  "start_date": "2026-10-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

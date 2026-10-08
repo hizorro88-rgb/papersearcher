@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic cancer, in particular pancreatic ductal adenocarcinoma (PDAC), is one of the most lethal malignancies with delayed diagnosis, aggressive nature, and profound therapeutic resistance. Recent research has emphasized epigenetic dysregulation not as a bystander but as a driving force in pancreatic tumorigenesis, progression, metastasis, and immune evasion. This review presents a detailed analysis of the multifaceted functions of epigenetic mechanisms like DNA methylation, histone modifications, and non-coding RNAs in shaping the pancreatic cancer epigenome. We discuss how these alterations fuel tumor heterogeneity, modulate the tumor microenvironment, and interact with key oncogenic mutations like KRAS and TP53. Further, we discuss the potential of epigenetic alterations as diagnostic, prognostic, and predictive biomarkers with an emphasis on their application in liquid biopsies. Finally, we evaluate current and prospective epigenetic therapies, their cooperation with chemotherapy and immunotherapy, and the prospects of new approaches such as CRISPR-based epigenome editing and personalized epigenetic profiling. Together, these findings point to the epigenome as a powerful window of opportunity for understanding, diagnosing, and eventually targeting pancreatic cancer.",
+ "authors": [
+  "Sultana H",
+  "Solomon AD",
+  "Wani AK",
+  "Shukla SK"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42840291",
+ "importance": 0.62,
+ "key_points_ko": [
+  "후성유전학적 이상은 췌장암의 발생과 전이, 치료 저항성 및 종양 이질성을 유발하는 핵심 동인으로 작용합니다.",
+  "DNA 메틸화와 비코딩 RNA 등의 후성유전학적 변화는 액체 생검을 이용한 조기 진단 및 예후 예측 바이오마커로 활용될 가능성이 있습니다.",
+  "후성유전학적 표적 치료는 단독 요법뿐만 아니라 기존 항암화학요법 및 면역치료와의 병용 전략으로 평가받고 있습니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.3389/freae.2025.1723159",
+  "nct": [],
+  "pmcid": "PMC13639275",
+  "pmid": "42840291"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2025-11-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Epigenet Epigenom",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42840291/"
+ },
+ "summary_ko": "이 종설(Review) 논문은 췌장관선암종(PDAC)의 발생, 진행, 전이 및 면역 회피에 기여하는 후성유전학적 이상을 종합적으로 분석했습니다. DNA 메틸화(DNA methylation), 히스톤 변형(histone modifications), 비코딩 RNA(non-coding RNAs) 등의 후성유전학적 기전이 종양 미세환경 및 KRAS, TP53과 같은 주요 유전자 변이와 상호작용하는 방식을 다루었습니다. 또한 액체 생검(liquid biopsy)을 통한 진단, 예후 예측 및 반응 예측 바이오마커로서의 가능성을 논의했습니다. 아울러 기존 항암화학요법이나 면역치료와의 병용 요법, CRISPR 기반 후성유전체 교정 등 향후 치료적 접근법의 전망을 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Epigenetic dysregulation in pancreatic cancer: emerging biomarkers and clinical applications",
+ "title_ko": "췌장암의 후성유전학적 이상: 새로운 바이오마커와 임상적 적용",
+ "trial": null,
+ "type": "paper"
+}

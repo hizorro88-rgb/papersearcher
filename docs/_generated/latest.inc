@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-07](_generated/daily/2026/10/07.md) · 전체 434건 · 최근 7일 434건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
+최근 수집일: [2026-10-08](_generated/daily/2026/10/08.md) · 전체 447건 · 최근 7일 447건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
 #### [전이성 췌장관암 환자 대상 1차 치료로서 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교하는 임상시험](https://clinicaltrials.gov/study/NCT07490301)

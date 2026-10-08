@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: National Comprehensive Cancer Network (NCCN) guidelines emphasize detailed reporting of tumor-vessel relationships for pancreatic ductal adenocarcinoma (PDAC), but the completeness and prognostic significance of vascular findings documented in routine clinical CT reports remain uncertain in the contemporary era of neoadjuvant therapy (NAT).\nPURPOSE: To assess the completeness of NCCN-relevant vascular reporting in routine preoperative CT examinations and determine whether CT-reported vascular findings and derived NCCN resectability categories are associated with margin-positive (R1) resection.\nMATERIALS AND METHODS: In this retrospective single-center study, 528 patients who underwent resection for pathologically confirmed PDAC between 2011 and 2026 were identified. For each patient, the most recent preoperative staging CT report and corresponding surgical pathology report were linked. Tumor-vessel relationships involving the superior mesenteric artery (SMA), celiac axis, common hepatic artery (CHA), superior mesenteric vein (SMV), and portal vein (PV) were extracted from routine clinical reports via a large language model, which underwent validation against 2 readers. Multivariable logistic regression was used to evaluate associations between vascular findings, NCCN resectability category, and R1 resection after adjustment for age, sex, tumor size, tumor location, and NAT status.\nRESULTS: Among 528 patients (mean age, 69.2 years ±9.9; 277 men), 257 (48.7%) received NAT and 172 (32.6%) had R1 resection. Complete reporting of all five NCCN vessels was present in 224/528 (42.4%) reports. NCCN resectability category could be assigned in 322 patients, including 150 (46.6%) resectable, 123 (38.2%) borderline resectable, and 49 (15.2%) locally advanced tumors. R1 rates increased progressively across categories (26.7%, 45.5%, and 53.1%, respectively; p < 0.001). After adjustment, SMA abutment (OR, 2.85; p = 0.001), SMA encasement (OR, 2.49; p = 0.023), celiac encasement (OR, 2.81; p = 0.021), CHA encasement (OR, 2.31; p = 0.031), PV abutment (OR, 2.31; p = 0.007), and SMV encasement (OR, 2.50; p = 0.014) were independently associated with R1 resection. In sensitivity analysis assuming unreported vessels had no tumor contact, borderline resectable tumors (OR, 2.68; 95% CI, 1.60-4.50) and locally advanced tumors (OR, 4.77; 95% CI, 2.22-10.23) demonstrated progressively higher odds of R1 resection relative to resectable tumors.\nCONCLUSION: Complete NCCN-compliant vascular reporting was uncommon in routine PDAC CT reports, limiting standardized resectability classification. Nevertheless, CT-reported vascular findings and NCCN resectability categories derived from routine reports retained significant associations with margin-positive resection, supporting the continued clinical relevance of vascular staging information communicated in everyday radiology practice.",
+ "authors": [
+  "Bista J",
+  "Shen Y",
+  "Kluger MD",
+  "Luk L",
+  "Chen Y",
+  "Winkler W",
+  "Fischell SA",
+  "Cao W"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42841920",
+ "importance": 0.75,
+ "key_points_ko": [
+  "분석 대상 환자 528명 중 수술 전 선행항암요법(NAT)을 받은 환자는 48.7%(257명), 절제연 양성(R1) 수술 비율은 32.6%(172명)였습니다.",
+  "NCCN 기준 5개 주요 혈관에 대한 판독이 완전히 기재된 비율은 42.4%(224건)에 그쳤습니다.",
+  "상장간막동맥(SMA) 접촉(OR 2.85) 및 포위(OR 2.49), 복강동맥 포위(OR 2.81) 등 CT 판독상 혈관 침범 소견은 R1 절제와 독립적으로 유의한 연관성을 보였습니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.1007/s00261-026-05815-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42841920"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Abdom Radiol (NY)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42841920/"
+ },
+ "summary_ko": "이 연구는 췌관선암종(PDAC) 환자 528명을 대상으로 수술 전 일상적인 CT 판독문에서 미국종합암네트워크(NCCN) 기준 혈관 침범 기술의 완전성을 평가하고 절제연 양성(R1) 수술과의 연관성을 분석했습니다. 분석 결과, NCCN에서 권고하는 5대 혈관에 대한 정보가 모두 온전하게 기재된 판독문은 42.4%(224/528건)에 불과했습니다. 그러나 CT 판독 소견상 주요 혈관 침범이 있거나 절제 가능성 병기가 진행될수록 R1 절제율이 유의하게 높아졌습니다(절제 가능 26.7%, 경계성 절제 가능 45.5%, 국소 진행성 53.1%). 연구진은 일상적 CT 판독의 완전성이 다소 낮더라도 판독문에 기재된 혈관 침범 정보는 수술 후 절제연 양성을 예측하는 데 여전히 중요한 의미를 지닌다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Routine CT reporting of vascular involvement in pancreatic ductal adenocarcinoma: completeness and association with margin-positive resection",
+ "title_ko": "췌관선암종 환자의 일상적 CT 판독문 내 혈관 침범 보고: 완전성 및 절제연 양성 수술과의 연관성",
+ "trial": null,
+ "type": "paper"
+}

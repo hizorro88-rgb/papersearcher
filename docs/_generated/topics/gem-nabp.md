@@ -17,7 +17,7 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (75)
+## 관련 임상시험 (77)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -85,6 +85,7 @@ search:
 | [치료 경험이 없는 전이성 췌장 선암 환자를 위한 valproic acid 및 simvastatin과 gemcitabine/n…](../trials/NCT05821556.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암에서 진폭 변조 고주파 전자기장과 젬시타빈 및 냅-파클리탁셀 병용요법 연구](../trials/NCT05776524.md) | 2상 | 모집 중 | - |
 | [절제 가능 및 경계성 절제 가능 췌장암 환자를 위한 수술 전/후 sintilimab, nab-paclitaxel, gemci…](../trials/NCT05562297.md) | 2상 | 모집 예정 | - |
+| [진행성 췌장암 환자를 대상으로 한 젬시타빈 및 냅파클리탁셀과 IM156 병용요법의 1b상 임상시험](../trials/NCT05497778.md) | 1상 | 진행 중(모집 종료) | - |
 | [진행성 위장관암 환자를 위한 단독 또는 병용 요법으로서의 Spevatamig (PT886) 임상 1/2상 연구 (TWINPE…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
 | [진행성 간·췌장·담도계 암 환자를 위한 durvalumab, tremelimumab, propranolol 및 항암화학요법…](../trials/NCT05451043.md) | 2상 | 모집 중 | - |
 | [췌장암에 대한 선행화학요법 이후 GS 및 GnP 병용 요법](../trials/NCT05268692.md) | 2상/3상 | 모집 중 | - |
@@ -92,6 +93,7 @@ search:
 | [췌장선암(Pancreatic Adenocarcinoma)에서 젬시타빈(Gemcitabine) 및 냅-파클리탁셀(nab-pac…](../trials/NCT05241249.md) | 2상 | 모집 중 | - |
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS 병용 요법에 대한 임상시험](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX 또는 Gem-Nab-P 항암치료 후 등독성 고선량 정위체부방사선치…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
+| [수술 전 절제 가능 및 경계성 절제 가능 췌장암 치료를 위한 Gemcitabine, Nab-paclitaxel, Durval…](../trials/NCT04940286.md) | 2상 | 진행 중(모집 종료) | - |
 | [복막 전이가 있는 췌장암 치료를 위한 온열 복강내 항암화학요법](../trials/NCT04858009.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 MRI 유도 정위적 방사선치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 보조화학요법 임상시험](../trials/NCT04452461.md) | 2상 | 모집 중 | - |

@@ -1,0 +1,58 @@
+{
+ "abstract": "The microenvironment of many solid tumors is acidic (pH 6.5-6.9) due to hypoxia and enhanced glycolytic metabolism and has been implicated in tumor progression and therapeutic resistance. However, the mechanisms by which pancreatic cancer cells adapt to extracellular acidosis and maintain survival under acidic stress remain incompletely understood. This study aimed to investigate the effects of extracellular acidosis on pancreatic cancer cell proliferation, apoptosis, cell cycle regulation, and intracellular signaling. Human pancreatic cancer cell lines PK-59 and MIA-PaCa-2 were cultured under acidic conditions (pH 6.9). Proliferation, cell cycle phase distribution, apoptosis, and intracellular signaling were assessed using cell growth assays, WST-8 assays, flow cytometry, and western blotting. Pharmacological inhibition of Akt and ERK1/2 was performed to evaluate their functional roles under acidic conditions. Under acidic conditions, both cell lines appeared to show reduced proliferation, an increased G0/G1 population, decreased Cyclin D1 and CDK4/6 expression, and attenuated ERK1/2 phosphorylation. No apparent increase in apoptosis was observed. Acidic conditions also appeared to be associated with increased Akt phosphorylation and changes in apoptosis-related proteins, including decreased Bad and Bax and increased Bcl-xL. Pharmacological Akt inhibition under acidic conditions appeared to be accompanied by an increased apoptotic population together with increased Bad and Bax and decreased Bcl-xL expression. These observations may suggest an association between Akt signaling and survival-related cellular responses under acidic conditions; however, they do not establish a causal requirement for Akt signaling or a causal relationship between the observed protein changes and apoptosis. ERK1/2 inhibition appeared to be associated mainly with changes in cell cycle phase distribution and related protein expression, whereas its effects on apoptosis appeared to vary between the two cell lines. Collectively, these findings may be consistent with differential changes in proliferation-associated and survival-associated signaling under extracellular acidosis, although the functional relationships among these changes remain uncertain. The present findings were obtained exclusively in vitro and do not establish pathway-specific causality, therapeutic efficacy, or immediate clinical applicability. Further studies using complementary mechanistic approaches, appropriate in vivo models, and patient-derived systems will be required to determine the biological and clinical relevance of these observations.",
+ "authors": [
+  "Yamamoto R",
+  "Hosogi S",
+  "Toda Y",
+  "Shiozaki A",
+  "Ashihara E"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42839997",
+ "importance": 0.55,
+ "key_points_ko": [
+  "산성 조건(pH 6.9)에서 췌장암 세포주는 증식 감소와 G0/G1기 증가를 보였으나, 뚜렷한 세포사멸 증가는 관찰되지 않았습니다.",
+  "산성 환경에서는 Akt 인산화 증가와 함께 Bad 및 Bax 발현 감소, Bcl-xL 발현 증가 등 세포사멸 억제성 단백질 변화가 동반되었습니다.",
+  "Akt를 약리학적으로 억제했을 때 산성 환경 내 세포사멸 비율이 증가했으나, 본 연구는 시험관 내(in vitro) 실험 결과로 실제 치료 효과나 임상 적용성을 입증한 것은 아닙니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.3389/fonc.2026.1889708",
+  "nct": [],
+  "pmcid": "PMC13638389",
+  "pmid": "42839997"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42839997/"
+ },
+ "summary_ko": "이 연구는 산성 미세환경(acidic microenvironment)이 췌장암 세포의 증식, 세포사멸(apoptosis), 세포주기 및 신호전달에 미치는 영향을 규명하고자 진행되었습니다. 인간 췌장암 세포주인 PK-59 및 MIA-PaCa-2를 산성 환경(pH 6.9)에서 배양하여 세포 변화를 분석했습니다. 산성 조건에서 세포 증식은 감소하고 세포주기 정체가 관찰되었으나 세포사멸은 뚜렷하게 증가하지 않았습니다. 연구진은 산성 스트레스 상황에서 Akt 인산화 증가 및 세포사멸 억제 관련 단백질의 변화가 세포 생존과 연관될 수 있음을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Acidic microenvironment promotes pancreatic cancer cell survival via Akt phosphorylation-mediated suppression of apoptosis",
+ "title_ko": "산성 미세환경이 Akt 인산화를 통한 세포사멸 억제로 췌장암 세포의 생존을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

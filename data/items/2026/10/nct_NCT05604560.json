@@ -1,0 +1,108 @@
+{
+ "abstract": "The purpose of this study is to evaluate the safety and clinical activity of tislelizumab (an anti-PD-1 antibody) in combination with SX-682 (a CXCR1/2 inhibitor) in subjects with newly diagnosed and surgically resectable pancreatic adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05604560",
+ "importance": 0.9,
+ "key_points_ko": [
+  "새로 진단된 수술 가능한 췌장암 환자를 대상으로 티슬렐리주맙(tislelizumab)과 SX-682 병용요법을 수술 전에 투여하는 2상 임상시험입니다.",
+  "목표 모집 환자 수는 25명이며, 안전성 및 유효성 확인을 목적으로 합니다.",
+  "국내 임상시험 참여 기관은 0곳으로 미국 등 해외에서 진행 중입니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05604560"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Lei Zheng",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05604560"
+ },
+ "summary_ko": "이 연구는 새로 진단받은 수술 가능한 췌장 선암종 환자를 대상으로 진행되는 2상 임상시험입니다. 항 PD-1 항체인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682 병용요법의 안전성과 임상적 유효성을 평가합니다. 목표 시험 대상자 수는 총 25명입니다. 현재 참가자를 모집 중이나 국내 참여 기관은 없습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Pancreatic cancer",
+  "Adenocarcinoma",
+  "Resectable pancreas cancer",
+  "Tislelizumab",
+  "Anti-PD-1",
+  "PD-L1",
+  "Antibody",
+  "SX-682",
+  "CXCR1/2 (chemokine receptor)",
+  "CXCR1/2 inhibitor"
+ ],
+ "title": "A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer",
+ "title_ko": "수술 가능한 췌장암 환자를 대상으로 한 티슬렐리주맙(Tislelizumab) 및 SX-682 수술 전 선행보조요법 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "goodwine@uthscsa.edu",
+    "name": "Epp Goodwin",
+    "phone": "210-450-5798"
+   },
+   {
+    "email": "zhengl@uthscsa.edu",
+    "name": "Lei Zheng, MD",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상\n• 조직학적 또는 세포학적으로 새로 진단된 수술 가능한 췌장 선암종 환자\n• 종양 생검(조직검사)에 동의한 환자\n• 일상생활 수행능력 평가(ECOG PS)가 0 또는 1점인 환자\n• 적절한 장기 및 골수 기능이 유지되는 환자\n\n제외 기준:\n• 이전에 췌장암 관련 치료를 받은 적이 있는 환자\n• 활동성 또는 재발 우려가 있는 자가면역 질환이 있는 환자\n• 첫 투약 전 14일 이내 전신 스테로이드나 면역억제제를 투여받은 환자\n• 활성 감염, HIV, B형/C형 간염 환자\n• 간질성 폐질환, 비감염성 폐렴 병력 또는 조절되지 않는 심혈관계 질환이 있는 환자\n• 심전도 검사에서 QTc 간격이 470ms 이상이거나 QT 연장 약물을 복용 중인 환자\n• 임신 또는 수유 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Ability to understand and willingness to sign a written informed consent document.\n* Age ≥18 years.\n* Newly diagnosed have histologically or cytologically proven adenocarcinoma of the pancreas.\n* Tumor must be resectable.\n* Patient's acceptance to have a tumor biopsy.\n* ECOG performance status 0 or 1\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests.\n* For both Women and Men, must use acceptable form of birth control while on study.\n\nExclusion Criteria:\n\n* Have received any anti-pancreatic cancer therapy.\n* Have been diagnosed with another malignancy whose natural history or treatment has the potential to interfere with safety or efficacy assessment of this study.\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures\n* Subjects with active, known or suspected autoimmune disease that may relapse.\n* Systemic steroid therapy (\\> 10mg daily prednisone equivalent) or immunosuppressive therapy within 14 days of first dose of study drug administration.\n* Active infection requiring systemic therapy.\n* Infection with HIV or hepatitis B or C at screening•\n* History of interstitial lung disease, non-infectious pneumonitis or uncontrolled diseases including pulmonary fibrosis, acute lung diseases, etc.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, pulmonary embolism, uncontrolled hypertension, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Prior allogeneic stem cell transplantation or organ transplantation\n* Any major surgical procedure requiring general anesthesia ≤ 28 days before first dose of study drug.\n* Have received a live vaccine ≤ 28 days before first dose of study drug.\n* Use of QT prolonging drugs within 2 weeks before the start of SX-682 dosing and for the length of the study.\n* ECG demonstrating a QTc interval ≥ 470 msec or patients with congenital long QT syndrome.\n* Severe hypersensitivity reaction to any monoclonal antibody.\n* Concurrent participation in another therapeutic clinical study\n* Pregnant or breastfeeding",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Tislelizumab",
+   "SX-682"
+  ],
+  "last_update_posted": "2026-10-07",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT05604560",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "Lei Zheng",
+  "start_date": "2023-11-08",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

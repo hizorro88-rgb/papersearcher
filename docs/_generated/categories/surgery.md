@@ -16,12 +16,64 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 132건 · 최근 30일 132건
+전체 136건 · 최근 30일 136건
 
 월별 보기: [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct04858334"></a>
+#### [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 돌연변이 환자를 대상으로 올라파립과 위약을 비교하는 무작위 2상 이중맹검 연구](https://clinicaltrials.gov/study/NCT04858334)
+<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
+
+**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
+
+이 2상 임상시험은 수술로 절제되었고 BRCA1, BRCA2 또는 PALB2 유전자 돌연변이가 있는 췌장암 환자를 대상으로 수술 및 항암화학요법 완료 후 유지요법으로서 올라파립(olaparib) 투여의 효과를 평가합니다. 올라파립은 DNA 복구를 돕는 효소인 PARP를 억제하여 종양 세포의 사멸을 유도하는 표적치료제입니다. 환자들은 무작위로 올라파립 군 또는 위약 군으로 배정되어 치료를 받게 됩니다. 본 연구의 주요 목적은 무재발 생존기간(RFS) 개선 여부를 확인하는 것입니다.
+
+- 목표 인원은 총 152명입니다.
+- 중재 치료로 올라파립(olaparib) 또는 위약(placebo)을 28일 주기로 최대 12주기 동안 경구 투여합니다.
+- 주요 평가지표는 올라파립 유지요법 추가에 따른 무재발 생존기간(RFS) 연장 효과입니다.
+- 부수적 평가지표에는 전체 생존기간(OS) 및 유전자 변이 유형별 치료 효과 분석이 포함됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
+
+---
+<a id="nct-nct05604560"></a>
+#### [수술 가능한 췌장암 환자를 대상으로 한 티슬렐리주맙(Tislelizumab) 및 SX-682 수술 전 선행보조요법 임상시험](https://clinicaltrials.gov/study/NCT05604560)
+<small>A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2022-11-03 · ClinicalTrials.gov · Lei Zheng · 중요도 0.90
+
+**NCT05604560** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05604560.md)
+
+이 연구는 새로 진단받은 수술 가능한 췌장 선암종 환자를 대상으로 진행되는 2상 임상시험입니다. 항 PD-1 항체인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682 병용요법의 안전성과 임상적 유효성을 평가합니다. 목표 시험 대상자 수는 총 25명입니다. 현재 참가자를 모집 중이나 국내 참여 기관은 없습니다.
+
+- 새로 진단된 수술 가능한 췌장암 환자를 대상으로 티슬렐리주맙(tislelizumab)과 SX-682 병용요법을 수술 전에 투여하는 2상 임상시험입니다.
+- 목표 모집 환자 수는 25명이며, 안전성 및 유효성 확인을 목적으로 합니다.
+- 국내 임상시험 참여 기관은 0곳으로 미국 등 해외에서 진행 중입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05604560) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05604560)</small>
+
+---
+<a id="nct-nct04940286"></a>
+#### [수술 전 절제 가능 및 경계성 절제 가능 췌장암 치료를 위한 Gemcitabine, Nab-paclitaxel, Durvalumab 및 Oleclumab 병용 임상 2상 시험](https://clinicaltrials.gov/study/NCT04940286)
+<small>Gemcitabine, Nab-paclitaxel, Durvalumab, and Oleclumab Before Surgery for the Treatment of in Resectable/Borderline Resectable Primary Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2021-06-25 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.87
+
+**NCT04940286** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04940286.md)
+
+이 임상 2상 시험은 수술로 절제가 가능하거나 경계성 절제 가능(borderline resectable) 상태인 원발성 췌장암 환자를 대상으로 수술 전 병용 치료의 효과를 평가합니다. 환자들은 항암화학요법(gemcitabine, nab-paclitaxel)과 면역항암제(durvalumab, oleclumab)를 병용 투여받은 후 수술을 진행하게 됩니다. 주요 목표는 절제된 종양 조직 내 살아있는 암세포가 5% 이하인 주요 병리학적 반응률(MPR)과 해당 병용요법의 안전성을 평가하는 것입니다.
+
+- 수술 전 보조요법으로서 면역항암제(durvalumab, oleclumab)와 세포독성항암제(gemcitabine, nab-paclitaxel)의 4제 병용요법을 2~6주기 투여합니다.
+- 일차 목표는 생존 종양 세포 5% 이하를 의미하는 주요 병리학적 반응(MPR) 비율 및 수술 전 치료의 안전성 확인입니다.
+- 수술 후에는 담당 의사의 판단에 따라 durvalumab/oleclumab 병용, 항암화학요법 추가 또는 추적 관찰을 진행합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04940286) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04940286)</small>
+
+---
 <a id="pmid-42837495"></a>
 #### [췌장암 수술 전후의 위장관 증상과 건강 관련 삶의 질(HRQoL) (GO-PANC): 전국 규모 종단적 연구](https://pubmed.ncbi.nlm.nih.gov/42837495/)
 <small>Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study</small>
@@ -35,7 +87,37 @@ search:
 - 위장관 증상 점수는 수술 후 0~3개월에 정점을 찍고 수술 후 9~12개월에 수술 전 또는 그 이하 수준으로 회복되었습니다.
 - 심한 위장관 증상을 겪은 환자는 수술 전 61%에서 수술 후 9~12개월에 52%로 감소했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837495/) · [DOI](https://doi.org/10.1093/bjs/znag122) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837495)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837495/) · [DOI](https://doi.org/10.1093/bjs/znag122) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13641176/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837495)</small>
+
+---
+<a id="pmid-42841920"></a>
+#### [췌관선암종 환자의 일상적 CT 판독문 내 혈관 침범 보고: 완전성 및 절제연 양성 수술과의 연관성](https://pubmed.ncbi.nlm.nih.gov/42841920/)
+<small>Routine CT reporting of vascular involvement in pancreatic ductal adenocarcinoma: completeness and association with margin-positive resection</small>
+
+`논문` `관찰연구` `진단·조기발견` `수술` `치료 전반` · 2026-10-07 · PubMed · Abdom Radiol (NY) · 중요도 0.75
+
+이 연구는 췌관선암종(PDAC) 환자 528명을 대상으로 수술 전 일상적인 CT 판독문에서 미국종합암네트워크(NCCN) 기준 혈관 침범 기술의 완전성을 평가하고 절제연 양성(R1) 수술과의 연관성을 분석했습니다. 분석 결과, NCCN에서 권고하는 5대 혈관에 대한 정보가 모두 온전하게 기재된 판독문은 42.4%(224/528건)에 불과했습니다. 그러나 CT 판독 소견상 주요 혈관 침범이 있거나 절제 가능성 병기가 진행될수록 R1 절제율이 유의하게 높아졌습니다(절제 가능 26.7%, 경계성 절제 가능 45.5%, 국소 진행성 53.1%). 연구진은 일상적 CT 판독의 완전성이 다소 낮더라도 판독문에 기재된 혈관 침범 정보는 수술 후 절제연 양성을 예측하는 데 여전히 중요한 의미를 지닌다고 보고했습니다.
+
+- 분석 대상 환자 528명 중 수술 전 선행항암요법(NAT)을 받은 환자는 48.7%(257명), 절제연 양성(R1) 수술 비율은 32.6%(172명)였습니다.
+- NCCN 기준 5개 주요 혈관에 대한 판독이 완전히 기재된 비율은 42.4%(224건)에 그쳤습니다.
+- 상장간막동맥(SMA) 접촉(OR 2.85) 및 포위(OR 2.49), 복강동맥 포위(OR 2.81) 등 CT 판독상 혈관 침범 소견은 R1 절제와 독립적으로 유의한 연관성을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42841920/) · [DOI](https://doi.org/10.1007/s00261-026-05815-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42841920)</small>
+
+---
+<a id="pmid-42839234"></a>
+#### [췌장의 장액성 낭샘암종: 인구 기반 연구](https://pubmed.ncbi.nlm.nih.gov/42839234/)
+<small>Serous cystadenocarcinoma of the pancreas: a population-based study</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` · 2026-09-28 · PubMed · World J Surg Oncol · 중요도 0.72
+
+본 연구는 미국 SEER 등록자료를 활용하여 매우 희귀한 암종인 췌장의 장액성 낭샘암종(SCAc) 환자 21명의 임상적 특성과 치료 성과를 분석했습니다. 환자의 진단 당시 중앙 연령은 69세였으며 여성 환자가 13명(62%)이었습니다. 수술적 절제는 전체 환자의 57%에서 시행되었으며 화학요법은 29%에서 시행되었습니다. 전체 환자의 5년 전체 생존율(OS)은 60.5%였으며 수술적 절제를 받은 환자군에서 생존율이 더 높았습니다.
+
+- 대상 환자 21명 중 13명(62%)이 여성이었으며 병기는 원격 전이가 9명(43%)으로 가장 흔했습니다.
+- 수술적 절제 치료는 12명(57%)에서 시행되었고 화학요법은 6명(29%)이 받았습니다.
+- 5년 전체 생존율(OS)은 전체 환자 60.5%, 수술 절제군 73.3%, 비절제군 44.4%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42839234/) · [DOI](https://doi.org/10.1186/s12957-026-04604-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13640329/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42839234)</small>
 
 ---
 <a id="nct-nct07066098"></a>
@@ -123,24 +205,6 @@ search:
 - 전 세계적으로 수치상 췌장암 환자의 5년 생존율은 20%에 머물러 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
-
----
-<a id="nct-nct04858334"></a>
-#### [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 돌연변이 환자를 대상으로 올라파립과 위약을 비교하는 무작위 2상 이중맹검 연구](https://clinicaltrials.gov/study/NCT04858334)
-<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
-
-**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
-
-이 2상 임상시험은 수술로 절제되었고 BRCA1, BRCA2 또는 PALB2 유전자 돌연변이가 있는 췌장암 환자를 대상으로 수술 및 항암화학요법 완료 후 유지요법으로서 올라파립(olaparib) 투여의 효과를 평가합니다. 올라파립은 DNA 복구를 돕는 효소인 PARP를 억제하여 종양 세포의 사멸을 유도하는 표적치료제입니다. 환자들은 무작위로 올라파립 군 또는 위약 군으로 배정되어 치료를 받게 됩니다. 본 연구의 주요 목적은 무재발 생존기간(RFS) 개선 여부를 확인하는 것입니다.
-
-- 목표 인원은 총 152명입니다.
-- 중재 치료로 올라파립(olaparib) 또는 위약(placebo)을 28일 주기로 최대 12주기 동안 경구 투여합니다.
-- 주요 평가지표는 올라파립 유지요법 추가에 따른 무재발 생존기간(RFS) 연장 효과입니다.
-- 부수적 평가지표에는 전체 생존기간(OS) 및 유전자 변이 유형별 치료 효과 분석이 포함됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
 
 ---
 <a id="nct-nct06423326"></a>

@@ -16,12 +16,71 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 22건 · 최근 30일 22건
+전체 25건 · 최근 30일 25건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42839080"></a>
+#### [췌장암 조기 발견의 혁신: 조기 진단에서 인공지능 결합 바이오센서의 역할](https://pubmed.ncbi.nlm.nih.gov/42839080/)
+<small>Revolutionizing Pancreatic Cancer Detection: The Role of AI-Integrated Biosensors in Early Diagnostics</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` · 2026-10-07 · PubMed · Adv Biochem Eng Biotechnol · 중요도 0.72
+
+췌장암(특히 췌장관선암종, PDAC)은 말기까지 증상 없이 진행되는 경우가 많아 조기 진단 기술 개발이 중요합니다. 본 논문은 인공지능(AI)과 바이오센서 기술의 결합이 췌장암 조기 진단의 민감도와 특이도를 어떻게 개선하는지 종합적으로 검토한 종설(Review)입니다. 효소 기반, 면역센서, 핵산, 전기화학 및 광학 센서 플랫폼을 다루며, 순환 종양 DNA(ctDNA)나 마이크로RNA(miRNA) 같은 바이오마커 검출 잠재력을 분석했습니다. 다만 실제 임상 현장에 적용하기 위해서는 데이터 표준화, 임상 검증, 규제 승인 등의 과제를 해결해야 한다고 설명합니다.
+
+- 인공지능(AI)과 결합된 바이오센서는 분석 민감도와 특이도를 높이고 실시간 데이터 처리를 지원합니다.
+- 머신러닝과 딥러닝 알고리즘을 활용하여 순환 종양 DNA(ctDNA) 및 마이크로RNA(miRNA) 등 핵심 바이오마커의 정밀 분석이 가능합니다.
+- 임상 현장 도입을 위해 데이터 표준화, 임상적 유효성 검증, 규제 및 윤리적 문제 해결이 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42839080/) · [DOI](https://doi.org/10.1007/10_2026_346) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42839080)</small>
+
+---
+<a id="pmid-42840291"></a>
+#### [췌장암의 후성유전학적 이상: 새로운 바이오마커와 임상적 적용](https://pubmed.ncbi.nlm.nih.gov/42840291/)
+<small>Epigenetic dysregulation in pancreatic cancer: emerging biomarkers and clinical applications</small>
+
+`논문` `종설` `기초연구` `진단·조기발견` `치료 전반` · 2025-11-27 · PubMed · Front Epigenet Epigenom · 중요도 0.62
+
+이 종설(Review) 논문은 췌장관선암종(PDAC)의 발생, 진행, 전이 및 면역 회피에 기여하는 후성유전학적 이상을 종합적으로 분석했습니다. DNA 메틸화(DNA methylation), 히스톤 변형(histone modifications), 비코딩 RNA(non-coding RNAs) 등의 후성유전학적 기전이 종양 미세환경 및 KRAS, TP53과 같은 주요 유전자 변이와 상호작용하는 방식을 다루었습니다. 또한 액체 생검(liquid biopsy)을 통한 진단, 예후 예측 및 반응 예측 바이오마커로서의 가능성을 논의했습니다. 아울러 기존 항암화학요법이나 면역치료와의 병용 요법, CRISPR 기반 후성유전체 교정 등 향후 치료적 접근법의 전망을 평가했습니다.
+
+- 후성유전학적 이상은 췌장암의 발생과 전이, 치료 저항성 및 종양 이질성을 유발하는 핵심 동인으로 작용합니다.
+- DNA 메틸화와 비코딩 RNA 등의 후성유전학적 변화는 액체 생검을 이용한 조기 진단 및 예후 예측 바이오마커로 활용될 가능성이 있습니다.
+- 후성유전학적 표적 치료는 단독 요법뿐만 아니라 기존 항암화학요법 및 면역치료와의 병용 전략으로 평가받고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42840291/) · [DOI](https://doi.org/10.3389/freae.2025.1723159) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13639275/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42840291)</small>
+
+---
+<a id="pmid-42834032"></a>
+#### [췌장암 분자 아형 유도 및 예측을 위한 유전자 구조화 조직학](https://pubmed.ncbi.nlm.nih.gov/42834032/)
+<small>Gene-structured histology for deriving and predicting pancreatic cancer molecular subtypes</small>
+
+`논문` `기타` `진단·조기발견` `기초연구` · 2026-10-06 · PubMed · Signal Transduct Target Ther · 중요도 0.60
+
+이 연구는 췌장암(pancreatic cancer)의 분자 아형(molecular subtypes)을 유도하고 예측하기 위해 유전자 구조화 조직학(gene-structured histology) 접근법을 다룹니다. 어떤 환자에게 어떤 결과가 나왔는지는 초록에 명시되지 않았습니다. 임상시험에 대한 정보 역시 초록에 명시되지 않았습니다.
+
+- 유전자 구조화 조직학을 활용해 췌장암 분자 아형을 유도하고 예측하는 방법을 다룹니다.
+- 구체적인 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42834032/) · [DOI](https://doi.org/10.1038/s41392-026-03051-2) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13639034/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42834032)</small>
+
+---
+<a id="pmid-42839997"></a>
+#### [산성 미세환경이 Akt 인산화를 통한 세포사멸 억제로 췌장암 세포의 생존을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42839997/)
+<small>Acidic microenvironment promotes pancreatic cancer cell survival via Akt phosphorylation-mediated suppression of apoptosis</small>
+
+`논문` `전임상` `기초연구` · 2026-09-22 · PubMed · Front Oncol · 중요도 0.55
+
+이 연구는 산성 미세환경(acidic microenvironment)이 췌장암 세포의 증식, 세포사멸(apoptosis), 세포주기 및 신호전달에 미치는 영향을 규명하고자 진행되었습니다. 인간 췌장암 세포주인 PK-59 및 MIA-PaCa-2를 산성 환경(pH 6.9)에서 배양하여 세포 변화를 분석했습니다. 산성 조건에서 세포 증식은 감소하고 세포주기 정체가 관찰되었으나 세포사멸은 뚜렷하게 증가하지 않았습니다. 연구진은 산성 스트레스 상황에서 Akt 인산화 증가 및 세포사멸 억제 관련 단백질의 변화가 세포 생존과 연관될 수 있음을 확인했습니다.
+
+- 산성 조건(pH 6.9)에서 췌장암 세포주는 증식 감소와 G0/G1기 증가를 보였으나, 뚜렷한 세포사멸 증가는 관찰되지 않았습니다.
+- 산성 환경에서는 Akt 인산화 증가와 함께 Bad 및 Bax 발현 감소, Bcl-xL 발현 증가 등 세포사멸 억제성 단백질 변화가 동반되었습니다.
+- Akt를 약리학적으로 억제했을 때 산성 환경 내 세포사멸 비율이 증가했으나, 본 연구는 시험관 내(in vitro) 실험 결과로 실제 치료 효과나 임상 적용성을 입증한 것은 아닙니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42839997/) · [DOI](https://doi.org/10.3389/fonc.2026.1889708) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13638389/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42839997)</small>
+
+---
 <a id="pmid-42837079"></a>
 #### [파골세포 유사 거대세포를 동반하거나 동반하지 않은 췌장 미분화암의 임상적 특성 및 생존 결과](https://pubmed.ncbi.nlm.nih.gov/42837079/)
 <small>Clinical characteristics and survival outcomes for undifferentiated carcinoma with/without osteoclast-like giant cells of the pancreas</small>
@@ -202,20 +261,6 @@ search:
 - 췌장암 치료를 위한 근본적인 전략(radical tactic)이 다뤄졌습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42834189/) · [DOI](https://doi.org/10.1038/d41586-026-03119-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42834189)</small>
-
----
-<a id="pmid-42834032"></a>
-#### [췌장암 분자 아형 유도 및 예측을 위한 유전자 구조화 조직학](https://pubmed.ncbi.nlm.nih.gov/42834032/)
-<small>Gene-structured histology for deriving and predicting pancreatic cancer molecular subtypes</small>
-
-`논문` `기타` `진단·조기발견` `기초연구` · 2026-10-06 · PubMed · Signal Transduct Target Ther · 중요도 0.60
-
-이 연구는 췌장암(pancreatic cancer)의 분자 아형(molecular subtypes)을 유도하고 예측하기 위해 유전자 구조화 조직학(gene-structured histology) 접근법을 다룹니다. 어떤 환자에게 어떤 결과가 나왔는지는 초록에 명시되지 않았습니다. 임상시험에 대한 정보 역시 초록에 명시되지 않았습니다.
-
-- 유전자 구조화 조직학을 활용해 췌장암 분자 아형을 유도하고 예측하는 방법을 다룹니다.
-- 구체적인 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42834032/) · [DOI](https://doi.org/10.1038/s41392-026-03051-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42834032)</small>
 
 ---
 <a id="pmid-42827594"></a>

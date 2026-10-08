@@ -1,0 +1,56 @@
+{
+ "abstract": "PURPOSE: Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest cancers in the United States, with most patients not being diagnosed until they present with symptomatic, advanced-stage disease. National trends in stage-specific PDAC incidence were analyzed to assess trends in stage-at-diagnosis over time and to evaluate whether advances in diagnosis and high-risk screening programs have helped shift detection towards earlier stages.\nMETHODS: A retrospective cohort study was conducted using the Surveillance, Epidemiology, and End Results (SEER) database. Patients diagnosed with PDAC between the years 2004 and 2023 were included. Age-adjusted incidence rates were calculated per 100,000 people. Trends were assessed using Joinpoint regression to estimate the average annual percent change (AAPC). Multivariable Negative Binomial regression was used to estimate incidence rate ratios (IRRs) with stage-specific cases, adjusting for age, sex, race/ethnicity, and calendar year.\nRESULTS: Between the years 2004 and 2023, age-adjusted incidence rates of localized, regional, and distant-stage PDAC were 1.04, 1.26, and 4.94 per 100,000 population, respectively. Localized PDAC demonstrated the greatest increase over time, with an AAPC of 6.00% (95% CI: 4.96-7.49; p < 0.001), while distant-stage disease exhibited a small increase over time (AAPC 1.11%; 95% CI: 1.02-1.21; p < 0.001) and regional-stage disease did not change significantly (AAPC 0.27%; 95% CI: -1.18 to 1.92; p = 0.62). Localized-stage incidence accelerated further after approximately 2015, with APC increasing to 14.7% between 2015 and 2019. Similar localized-stage increases were observed across sex and racial/ethnic subgroups. In multivariable Negative Binomial regression, increasing age and Non-Hispanic Black race were associated with higher PDAC incidence, while female sex was associated with lower regional and distant incidence rates.\nCONCLUSIONS: The findings suggest a stage shift toward increased diagnosis of localized PDAC over time. These trends may reflect improvements in imaging, surveillance of high-risk individuals, advances in endoscopic detection, and increasing diagnostic intensity, although rising underlying PDAC burden may also contribute. Further prospective studies are needed to determine whether these trends ultimately translate into meaningful improvements in survival outcomes.",
+ "authors": [
+  "Hauptschein D",
+  "Kang P",
+  "Amar S"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42842045",
+ "importance": 0.77,
+ "key_points_ko": [
+  "2004년부터 2023년까지 국소 병기 췌관선암종(PDAC)의 평균 연간 퍼센트 변화율(AAPC)은 6.00%(95% CI: 4.96-7.49, p < 0.001)로 가장 높은 증가세를 보였습니다.",
+  "국소 병기 발생률은 2015년 이후 더욱 가속화되어 2015~2019년 사이 연간 퍼센트 변화율(APC)이 14.7% 증가했습니다.",
+  "원격 전이 병기는 소폭 증가(AAPC 1.11%, p < 0.001)한 반면, 국소 진행 병기는 유의미한 변화를 보이지 않았습니다(AAPC 0.27%, p = 0.62)."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.1007/s10552-026-02266-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42842045"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Causes Control",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42842045/"
+ },
+ "summary_ko": "미국 감시, 역학 및 최종 결과(SEER) 데이터베이스를 바탕으로 2004년부터 2023년까지 췌관선암종(PDAC) 환자의 진단 시 병기별 발생률 추세를 분석한 후향적 코호트 연구입니다. 2004~2023년 사이 10만 명당 연령 표준화 발생률은 국소 병기 1.04명, 국소 진행 병기 1.26명, 원격 전이 병기 4.94명이었습니다. 분석 결과 국소 병기 췌장암의 진단 발생률이 가장 크게 증가했으며, 특히 2015년 이후 증가 추세가 가속화되었습니다. 연구진은 영상 기법의 발전과 고위험군 감시, 내시경적 발견 기술 향상 등으로 조기 단계 진단으로의 이동이 나타나고 있을 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Have we gotten better at diagnosing PDAC before it is too late?: Temporal trends in stage at diagnosis of pancreatic ductal adenocarcinoma in the United States",
+ "title_ko": "우리는 너무 늦기 전에 췌장암을 더 잘 진단하게 되었는가?: 미국 내 췌관선암종 진단 시 병기의 시계열적 추세",
+ "trial": null,
+ "type": "paper"
+}

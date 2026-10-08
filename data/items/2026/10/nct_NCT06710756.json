@@ -24,7 +24,7 @@
   "1단계 용량 증가 시험과 2단계 용량 확장 시험으로 구성됩니다.",
   "초록에 명시되지 않음 생존기간, 반응률, 위험비 수치는 아직 없습니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-08",
  "links": {
   "doi": null,
   "nct": [
@@ -89,14 +89,14 @@
    "[203Pb]Pb-PSV359",
    "[212Pb]Pb-PSV359"
   ],
-  "last_update_posted": "2026-07-06",
+  "last_update_posted": "2026-10-07",
   "location_countries": [
    "United States"
   ],
   "locations_kr": [],
   "max_age": "90 Years",
   "min_age": "18 Years",
-  "n_locations": 11,
+  "n_locations": 16,
   "nct_id": "NCT06710756",
   "phase": "PHASE1/PHASE2",
   "primary_completion_date": "2028-01-31",

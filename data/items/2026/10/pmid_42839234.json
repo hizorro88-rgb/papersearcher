@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Serous cystadenocarcinoma (SCAc) of the pancreas is an exceptionally rare malignant pancreatic neoplasm, and its clinical characteristics, treatment patterns, and prognosis remain poorly defined. The aim of this population-based study was to characterize the demographic and clinical features, treatment patterns, and survival of patients with pancreatic SCAc.\nMETHODS: Patients with microscopically confirmed SCAc were identified from the Surveillance, Epidemiology, and End Results (SEER) registry. Demographic, tumor-related, treatment, and survival data were analyzed using descriptive statistics and Kaplan-Meier survival analysis.\nRESULTS: Twenty-one patients with SCAc were identified. Median age at diagnosis was 69 years, and 13 patients (62%) were female. Tumors most frequently involved the pancreatic body or tail. Disease was localized in 4 patients (19%), regional in 6 (29%), distant in 9 (43%), and unstaged in 2 (10%). Surgical resection was performed in 12 patients (57%), and 6 (29%) received chemotherapy. Estimated 5-year overall survival (OS) was 60.5% for the overall cohort. Five-year OS was 73.3% among patients who underwent resection and 44.4% among those who did not.\nCONCLUSIONS: Pancreatic SCAc is a rare malignancy with frequent involvement of the pancreatic body or tail. Surgical resection was the most common treatment, whereas chemotherapy was used in a minority of patients. Population-based data suggest relatively favorable long-term survival.",
+ "authors": [
+  "Dotevall T",
+  "Kolmodin E",
+  "Thylefors E",
+  "Andersson R",
+  "Ansari D"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42839234",
+ "importance": 0.72,
+ "key_points_ko": [
+  "대상 환자 21명 중 13명(62%)이 여성이었으며 병기는 원격 전이가 9명(43%)으로 가장 흔했습니다.",
+  "수술적 절제 치료는 12명(57%)에서 시행되었고 화학요법은 6명(29%)이 받았습니다.",
+  "5년 전체 생존율(OS)은 전체 환자 60.5%, 수술 절제군 73.3%, 비절제군 44.4%였습니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.1186/s12957-026-04604-z",
+  "nct": [],
+  "pmcid": "PMC13640329",
+  "pmid": "42839234"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "World J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42839234/"
+ },
+ "summary_ko": "본 연구는 미국 SEER 등록자료를 활용하여 매우 희귀한 암종인 췌장의 장액성 낭샘암종(SCAc) 환자 21명의 임상적 특성과 치료 성과를 분석했습니다. 환자의 진단 당시 중앙 연령은 69세였으며 여성 환자가 13명(62%)이었습니다. 수술적 절제는 전체 환자의 57%에서 시행되었으며 화학요법은 29%에서 시행되었습니다. 전체 환자의 5년 전체 생존율(OS)은 60.5%였으며 수술적 절제를 받은 환자군에서 생존율이 더 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Serous cystadenocarcinoma of the pancreas: a population-based study",
+ "title_ko": "췌장의 장액성 낭샘암종: 인구 기반 연구",
+ "trial": null,
+ "type": "paper"
+}

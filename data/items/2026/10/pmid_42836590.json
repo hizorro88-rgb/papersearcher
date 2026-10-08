@@ -31,7 +31,7 @@
   "면역관문억제제 코호트에서는 간 전이가 있는 환자(n=111)와 없는 환자(n=18) 사이에 전체 생존기간의 유의한 차이가 관찰되지 않았습니다.",
   "항암화학요법을 받은 환자에서 높은 인터루킨-6(interleukin-6, IL-6)과 YKL-40 수치는 사망 위험 증가와 연관이 있었습니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-08",
  "links": {
   "doi": "10.1002/iid3.70545",
   "nct": [
@@ -40,11 +40,12 @@
    "NCT04258150",
    "NCT05116917"
   ],
-  "pmcid": null,
+  "pmcid": "PMC13640521",
   "pmid": "42836590"
  },
  "pub_types": [
-  "Journal Article"
+  "Journal Article",
+  "Observational Study"
  ],
  "published_at": "2026-10-01",
  "relevance": 0.6,

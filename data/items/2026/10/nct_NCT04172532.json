@@ -24,7 +24,7 @@
   "1상은 M3814(peposertib)와 저분할 방사선 치료의 안전성과 내어성을 평가합니다.",
   "2상은 무진행 생존기간(PFS), 2년 전체 생존율(OS), 객관적 반응률(ORR) 등을 방사선 치료 단독군과 비교합니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-08",
  "links": {
   "doi": null,
   "nct": [
@@ -71,7 +71,7 @@
    "Peposertib",
    "Placebo Administration"
   ],
-  "last_update_posted": "2026-09-01",
+  "last_update_posted": "2026-10-07",
   "location_countries": [
    "United States"
   ],

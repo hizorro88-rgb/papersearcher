@@ -24,7 +24,7 @@
   "중재 치료로 glufosfamide와 5-FU(Fluorouracil)를 비교합니다.",
   "목표 인원은 480명이며 3상 임상시험(phase3)으로 진행됩니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-08",
  "links": {
   "doi": null,
   "nct": [
@@ -75,7 +75,7 @@
    "Glufosfamide",
    "Fluorouracil"
   ],
-  "last_update_posted": "2024-12-31",
+  "last_update_posted": "2026-10-07",
   "location_countries": [
    "United States"
   ],
@@ -85,7 +85,7 @@
   "n_locations": 3,
   "nct_id": "NCT01954992",
   "phase": "PHASE3",
-  "primary_completion_date": "2026-06",
+  "primary_completion_date": "2028-03",
   "sex": "ALL",
   "sponsor": "Eleison Pharmaceuticals LLC.",
   "start_date": "2014-04",

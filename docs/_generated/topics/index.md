@@ -18,10 +18,10 @@ search:
 | [elironrasib](elironrasib.md) | 약물 | 0 | - |
 | [sotorasib](sotorasib.md) | 약물 | 0 | - |
 | [adagrasib](adagrasib.md) | 약물 | 0 | - |
-| [olaparib](olaparib.md) | 약물 | 3 | 2026-10-06 |
+| [olaparib](olaparib.md) | 약물 | 4 | 2026-10-06 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 24 | 2026-10-06 |
-| [FOLFIRINOX](folfirinox.md) | 요법 | 56 | 2026-10-06 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 76 | 2026-10-06 |
+| [FOLFIRINOX](folfirinox.md) | 요법 | 57 | 2026-10-06 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 78 | 2026-10-06 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
 | [zolbetuximab](zolbetuximab.md) | 약물 | 0 | - |
 | [Whipple](whipple.md) | 시술·수술 | 9 | 2026-10-06 |

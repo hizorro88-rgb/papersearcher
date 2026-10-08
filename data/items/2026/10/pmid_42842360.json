@@ -1,0 +1,62 @@
+{
+ "abstract": "Patients with advanced pancreatic ductal adenocarcinoma (PDAC) and their families encounter challenges that extend beyond disease management, encompassing informational gaps, cultural barriers, and unmet psychosocial needs. Despite interest in improved quality of life (QoL) for cancer patients, few studies have examined the perspectives of PDAC patients and their caregivers on what constitutes effective, compassionate care, especially following the COVID-19 global pandemic, a period characterized by delayed screening and treatments and an overburdened health care system. The purpose of this study was to explore factors associated with perceived QoL among patients diagnosed with PDAC living in Southern California and their caregivers. This exploratory qualitative study was conducted in 2024 to 2025 using theming and content analysis. Semistructured interviews with 21 adults, including patients diagnosed with PDAC and family caregivers, explored their experiences with diagnosis and treatment. Interviews were audio-recorded, transcribed, and analyzed. Constant comparative analysis to identify major themes and subthemes was used, and inductively derived codes were matched to components of the ARC (Adversity, Restoration, Compatibility) conceptual framework. The analysis yielded four major themes: (1) Patient experience and medical journey characterized by delays, family support and spiritual insights; (2) Health care navigation and barriers included delays, financial strain, and challenging interactions with health care personnel; (3) End-of-life conversations and palliative care were often misunderstood; (4) Suggestions for health care providers emphasized the need for a holistic approach and practical resources. The resulting themes fit well into an adaptation of the ARC framework. Patients of Latino background living in Southern California with advanced PDAC desire holistic, culturally responsive, patient-centered care delivered with clarity and compassion. Using the suggested conceptual model, providers may improve patient experiences and QoL.",
+ "authors": [
+  "Bahmani A",
+  "Stern J",
+  "Joachim-Célestin M",
+  "Rivas L",
+  "Matangi N",
+  "Che K",
+  "Leonor P",
+  "Chang A"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-08",
+ "history": [
+  {
+   "date": "2026-10-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42842360",
+ "importance": 0.77,
+ "key_points_ko": [
+  "남부 캘리포니아에 거주하는 췌관선암종(PDAC) 환자 및 가족 간병인 총 21명을 대상으로 심층 면담을 진행했습니다.",
+  "분석을 통해 진료 지연, 의료 이용의 재정적·의사소통 장벽, 완화의료에 대한 오해, 전인적 돌봄 요구라는 4가지 주요 주제가 도출되었습니다.",
+  "도출된 주제들은 ARC(Adversity, Restoration, Compatibility) 개념 틀에 부합하는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-10-08",
+ "links": {
+  "doi": "10.1097/NJH.0000000000001272",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42842360"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Hosp Palliat Nurs",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42842360/"
+ },
+ "summary_ko": "이 연구는 미국 남부 캘리포니아에 거주하는 진행성 췌관선암종(PDAC) 환자와 가족 간병인이 겪는 삶의 질(QoL) 관련 요인과 어려움을 조사했습니다. 2024년부터 2025년까지 환자 및 가족 간병인을 포함한 성인 21명을 대상으로 반구조화 심층 면담을 진행했습니다. 분석 결과 진료 지연, 의료 이용 장벽, 완화의료에 대한 오해, 전인적 치료의 필요성 등 4가지 주요 주제가 확인되었습니다. 연구진은 명확하고 공감적이며 문화적 배경을 고려한 환자 중심적 돌봄이 필요하다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Challenges Faced by Patients With Pancreatic Cancer and Their Caregivers: A Qualitative Research Study",
+ "title_ko": "췌장암 환자와 간병인이 직면하는 어려움: 질적 연구",
+ "trial": null,
+ "type": "paper"
+}
