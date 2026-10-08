@@ -21,6 +21,7 @@ comments: true
 - :material-pill:{ .lg .middle } **[보조제와 건강식품](supplements.md)** — 항암과 충돌하는 것, 출혈 위험, 의료진에게 알리기
 - :material-heart-pulse:{ .lg .middle } **[통증 조절의 원칙](pain.md)** — 통증에 대한 오해, 표현법, 진통제 단계와 부작용, 패치 주의, 비약물 요법
 - :material-hospital-building:{ .lg .middle } **[병원 이용 요령](hospital-tips.md)** — 외래 3분 활용법, 기록·영상 복사, 지방 환자, 동행·가정간호·장기요양
+- :material-emoticon-happy-outline:{ .lg .middle } **[마음 돌보기와 가족](mind-and-family.md)** — 불안·우울 다루기, 상담받을 곳, 의료진과 소통, 보호자 소진 예방, 커뮤니티 이용 시 주의
 
 </div>
 

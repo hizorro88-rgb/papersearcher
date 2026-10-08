@@ -65,7 +65,12 @@ comments: true
 | 배에 물이 차요, 복수 | [시술 – 복수천자](../treatment/procedures.md#paracentesis) |
 | 어지러움, 휘청, 쓰러질 것 같아요 | [탈수·설사](dehydration-diarrhea.md) · [출혈](bleeding.md) · [혈당 이상](glucose.md) |
 | 헛것이 보여요, 밤에 안 자고 횡설수설, 사람 못 알아봄 | [섬망·의식 변화](delirium.md) |
-| 우울, 불안, 불면, 피로 | [피로 대처](../living/side-effects.md) · [완화의료 – 심리 지원](../treatment/palliative.md) |
+| 우울, 불안, 불면, 피로, 보호자가 지쳐요 | [마음 돌보기와 가족](../living/mind-and-family.md) · [피로 대처](../living/side-effects.md) |
+| 어지러움, 천장이 돌아요, 이석증 | [그 밖의 증상 – 어지러움](../living/side-effects.md) |
+| 입술 물집, 대상포진, 욕창, 감기, 코로나 | [그 밖의 증상](../living/side-effects.md) |
+| 속쓰림, 역류, 명치 더부룩, 소화불량 약 | [소화불량·역류](../living/side-effects.md) |
+| 혈액검사 수치, 빌리루빈, CRP, 정상 범위 | [혈액검사 수치 읽기](../living/side-effects.md) |
+| 위험인자, 가족력, 유전, 병기 숫자, TNM | [진단 검사와 병기](../treatment/diagnosis-staging.md) |
 
 ## 피부·기타
 
