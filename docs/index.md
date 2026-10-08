@@ -9,7 +9,10 @@ comments: false
 
 !!! danger "지금 문제가 생겼나요?"
     **[증상·상황으로 찾기](guides/emergency/find-by-symptom.md)** — 토함 · 열 · 설사/변비 · 손발 저림 · 입안 헒 · 통증 · 황달 · 어지러움 · 붓기 · 못 먹음 · 검은 변 … 일상 말로 찾습니다.
-    **[응급 가이드](guides/emergency/index.md)** — 바로 응급실에 가야 하는 기준. 응급 시 **119**.
+    **[응급 가이드](guides/emergency/index.md)** — 바로 응급실에 가야 하는 기준. 응급 시 **119**. · **[병원 연락처](guides/emergency/hospital-contacts.md)** · [사설 구급차](guides/emergency/private-ambulance.md)
+
+!!! tip "처음 오셨나요?"
+    진단을 막 받으셨다면 **[진단 직후 체크리스트](guides/start-here.md)** 부터. 첫 1~2주에 할 일을 순서대로 정리했습니다.
 
 ## 치료 알아보기
 

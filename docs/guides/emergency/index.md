@@ -71,4 +71,4 @@ comments: true
 4. 복용 중인 약 (진통제, 항응고제, 스테로이드 포함)
 5. 담관 스텐트·배액관 여부, 최근 시술 날짜
 
-[병원 연락처 정리](hospital-contacts.md)에 평소 다니는 병원의 응급 연락처를 적어 두세요.
+[병원 연락처](hospital-contacts.md)에 주요 암센터 응급실·종양내과 번호가 있고, 비응급 이송은 [사설 구급차 연락처](private-ambulance.md)를 보세요.

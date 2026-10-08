@@ -53,6 +53,27 @@ comments: true
 - 보호자 자신의 건강검진·수면·식사를 챙기세요. 죄책감을 느낄 일이 아닙니다.
 - 아이가 있다면 나이에 맞게 사실을 알려 주는 것이 숨기는 것보다 낫습니다. 병원 사회복지사가 도와줍니다.
 
+## 환우 커뮤니티
+
+카카오 오픈채팅에 췌장암 환우·보호자 방이 여럿 있습니다(2023년 기준, 운영 상황은 바뀔 수 있음). 일부는 입장 비밀번호가 있어 방 소개나 운영자에게 확인해야 합니다.
+
+| 방 | 링크 |
+|---|---|
+| 행복방 (췌장암 대표방) | https://open.kakao.com/o/ge1N7Hwb |
+| 행복방 부설 전보호자 모임 (비밀번호) | https://open.kakao.com/o/gjWQE8Xe |
+| 삼성서울병원 | https://open.kakao.com/o/gPa8N0Bb |
+| 서울대병원 (비밀번호) | https://open.kakao.com/o/geBuD4Lb |
+| 세브란스병원 | https://open.kakao.com/o/gj79p3Jb |
+| 아산병원 | https://open.kakao.com/o/guP9dmKb |
+| 암을 이겨내는 사람들 | https://open.kakao.com/o/gimHSFrc · https://open.kakao.com/o/gIU23oyc |
+| 암환우&보호자 동행 (비밀번호) | https://open.kakao.com/o/gjywET1b |
+| 췌장 수술&관리 대화 | https://open.kakao.com/o/gW4rMwPb |
+| 2030 젊은 환우&보호자 | https://open.kakao.com/o/gwgBVSNb |
+| 아름다운 동행 | https://open.kakao.com/o/g7vmIEz |
+| PMCB 존버 | https://open.kakao.com/o/gd6uXozd |
+| 췌장암 보조제 토론 (비밀번호) | https://open.kakao.com/o/gQw3LA6b |
+| 췌장암 TS-1 복용 | https://open.kakao.com/o/gCpSiJNb |
+
 ## 환우 커뮤니티를 이용할 때
 
 - 같은 처지의 사람들에게서 얻는 실전 정보와 위로는 매우 큽니다. 다만 **개인의 경험이 곧 의학적 사실은 아닙니다.** 약 이름·용량·보조제는 반드시 담당 의료진과 확인하세요.

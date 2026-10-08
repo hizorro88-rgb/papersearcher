@@ -86,6 +86,8 @@ nav:
   - 응급·증상 찾기:
       - guides/emergency/index.md
       - 증상·상황으로 찾기: guides/emergency/find-by-symptom.md
+      - 병원 연락처: guides/emergency/hospital-contacts.md
+      - 사설 구급차 연락처: guides/emergency/private-ambulance.md
       - 항암 중 발열: guides/emergency/fever-neutropenia.md
       - 황달·담관염·스텐트: guides/emergency/jaundice-cholangitis.md
       - 출혈: guides/emergency/bleeding.md
@@ -96,9 +98,9 @@ nav:
       - 탈수·설사: guides/emergency/dehydration-diarrhea.md
       - 섬망·의식 변화: guides/emergency/delirium.md
       - 부종·림프부종: guides/emergency/lymphedema.md
-      - 병원 연락처: guides/emergency/hospital-contacts.md
   - 치료 알아보기:
       - guides/treatment/index.md
+      - 진단 직후 체크리스트: guides/start-here.md
       - 진단 검사와 병기: guides/treatment/diagnosis-staging.md
       - 수술: guides/treatment/surgery.md
       - 시술 (배액관·스텐트·케모포트): guides/treatment/procedures.md
@@ -118,10 +120,9 @@ nav:
       - 통증 조절의 원칙: guides/living/pain.md
       - 병원 이용 요령: guides/living/hospital-tips.md
       - 마음 돌보기와 가족: guides/living/mind-and-family.md
-  - 최신 연구·소식:
+  - 연구·소식 (자동 수집):
       - 날짜별: _generated/daily/index.md
       - 신약·치료제: _generated/categories/drug.md
-      - 임상시험 소식: _generated/categories/trial.md
       - 수술: _generated/categories/surgery.md
       - 치료 전반: _generated/categories/treatment.md
       - 진단·조기발견: _generated/categories/diagnosis.md
