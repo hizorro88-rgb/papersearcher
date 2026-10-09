@@ -27,13 +27,13 @@ comments: false
 
 </div>
 
-## 임상시험
-
-**[국내 모집 중 임상시험](_generated/trials/index.md)** 을 매일 갱신합니다. 각 시험의 참여 조건(한국어 정리), 국내 실시기관, 문의처가 있습니다. 처음이라면 [참여 방법 안내](guides/trials/how-to-apply.md)부터.
-
 ## 투병 생활
 
 집에서 치료를 이어 가며 매일 부딪히는 문제들. [항암 전 준비](guides/living/before-chemo.md) · [부작용별 대처](guides/living/side-effects.md) · [식사와 영양](guides/living/nutrition.md) · [보조제 주의](guides/living/supplements.md) · [통증 조절](guides/living/pain.md) · [병원 이용 요령](guides/living/hospital-tips.md)
+
+## 임상시험
+
+**[국내 모집 중 임상시험](_generated/trials/index.md)** 을 매일 갱신합니다. 각 시험의 참여 조건(한국어 정리), 국내 실시기관, 문의처가 있습니다. 처음이라면 [참여 방법 안내](guides/trials/how-to-apply.md)부터.
 
 !!! warning "꼭 읽어 주세요"
     이 사이트는 공개 자료와 환우 경험을 정리하고, 논문·등록 정보를 AI로 요약한 것입니다. **의료 조언이 아니며** 요약에 오류가 있을 수 있습니다. 치료 결정은 반드시 담당 의료진과 상의하세요. [면책 고지](about/disclaimer.md)

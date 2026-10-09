@@ -113,10 +113,6 @@ nav:
       - 방사선치료: guides/treatment/radiation.md
       - 항암치료와 표적·면역치료: guides/treatment/chemotherapy.md
       - 완화의료와 호스피스: guides/treatment/palliative.md
-  - 임상시험:
-      - 임상시험 목록: _generated/trials/index.md
-      - 참여 방법 안내: guides/trials/how-to-apply.md
-      - 임상시험 용어: guides/trials/glossary.md
   - 투병 생활:
       - guides/living/index.md
       - 항암 시작 전 준비: guides/living/before-chemo.md
@@ -126,7 +122,10 @@ nav:
       - 통증 조절의 원칙: guides/living/pain.md
       - 병원 이용 요령: guides/living/hospital-tips.md
       - 마음 돌보기와 가족: guides/living/mind-and-family.md
-  - 용어사전: guides/glossary.md
+  - 임상시험:
+      - 임상시험 목록: _generated/trials/index.md
+      - 참여 방법 안내: guides/trials/how-to-apply.md
+      - 임상시험 용어: guides/trials/glossary.md
   - 연구·소식 (자동 수집):
       - 날짜별: _generated/daily/index.md
       - 신약·치료제: _generated/categories/drug.md
@@ -137,6 +136,7 @@ nav:
       - 제약사·규제: _generated/categories/industry.md
       - 기초연구: _generated/categories/basic.md
       - 주제별 (약물·수술법): _generated/topics/index.md
+  - 용어사전: guides/glossary.md
   - 소개:
       - 이 사이트에 대해: about/index.md
       - 수집 소스와 방법: about/sources.md
