@@ -8,3 +8,7 @@
 .md-typeset small { color: var(--md-default-fg-color--light); }
 .md-typeset code { font-size: .7rem; }
 .md-typeset table:not([class]) { font-size: .7rem; }
+
+#glossary-filter { width: 100%; max-width: 32rem; padding: .6rem .9rem; font-size: 1rem; border: 2px solid var(--md-primary-fg-color); border-radius: .3rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
+#glossary-count { margin-left: .6rem; color: var(--md-default-fg-color--light); font-size: .8rem; }
+.md-typeset .glossary table:not([class]) td:first-child { white-space: nowrap; font-weight: 600; }

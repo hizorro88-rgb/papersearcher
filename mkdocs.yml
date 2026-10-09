@@ -57,6 +57,9 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/glossary.js
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -120,6 +123,7 @@ nav:
       - 통증 조절의 원칙: guides/living/pain.md
       - 병원 이용 요령: guides/living/hospital-tips.md
       - 마음 돌보기와 가족: guides/living/mind-and-family.md
+  - 용어사전: guides/glossary.md
   - 연구·소식 (자동 수집):
       - 날짜별: _generated/daily/index.md
       - 신약·치료제: _generated/categories/drug.md

@@ -12,7 +12,7 @@ comments: false
     **[응급 가이드](guides/emergency/index.md)** — 바로 응급실에 가야 하는 기준. 응급 시 **119**. · **[병원 연락처](guides/emergency/hospital-contacts.md)** · [사설 구급차](guides/emergency/private-ambulance.md)
 
 !!! tip "처음 오셨나요?"
-    진단을 막 받으셨다면 **[진단 직후 체크리스트](guides/start-here.md)** 부터. 첫 1~2주에 할 일을 순서대로 정리했습니다.
+    진단을 막 받으셨다면 **[진단 직후 체크리스트](guides/start-here.md)** 부터. 첫 1~2주에 할 일을 순서대로 정리했습니다. 모르는 말은 **[용어사전](guides/glossary.md)** 에서 찾으세요.
 
 ## 치료 알아보기
 

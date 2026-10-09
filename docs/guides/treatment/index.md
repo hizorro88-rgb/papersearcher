@@ -60,7 +60,7 @@ comments: true
 
 - 치료 중 생기는 문제를 당장 해결하려면 → [증상·상황으로 찾기](../emergency/find-by-symptom.md)
 - 참여할 수 있는 임상시험 → [국내 모집 중 임상시험](../../_generated/trials/index.md)
-- 용어가 어려울 때 → [임상시험·논문 용어](../trials/glossary.md)
+- 용어가 어려울 때 → [용어사전](../glossary.md)
 
 ## 출처
 
