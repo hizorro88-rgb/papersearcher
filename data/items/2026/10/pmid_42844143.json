@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Next-generation sequencing (NGS) is increasingly used in patients with pancreatic ductal adenocarcinoma (PDAC) to identify potential therapeutic targets. Endoscopic ultrasound-guided tissue acquisition (EUS-TA) plays a crucial role in PDAC diagnosis. However, the adequacy of EUS-TA samples for NGS testing is still controversial, and the effect of tumor and procedural factors on the success rate of NGS is not clear. Herein, we aimed to evaluate the adequacy of EUS-TA samples for NGS analysis and identify potential influencing factors.\nMETHODS: This study included patients diagnosed with PDAC, who received NGS testing using EUS-TA specimens at Peking Union Medical College Hospital from January 2018 to August 2024. Tumor, procedural, sample quality control of NGS and genetic alteration data were recorded and analyzed.\nRESULTS: Among the 125 specimens undergoing NGS testing obtained from EUS-TA, 112 (89.6%) were qualified for NGS. There were no significant differences in tumor location, size, number of passes, and storage time of formalin-fixed paraffin-embedded (FFPE) samples between the qualified and unqualified groups. EUS-TA samples had lower DNA yield but higher DNA quality than that in surgical specimens. The DNA amounts and quality grades in agarose gel electrophoresis were similar in the samples acquired from endoscopic ultrasound guided fine needle aspiration (EUS-FNA) and endoscopic ultrasound guided fine needle biopsy (EUS-FNB) (P > 0.05). Different sizes of needles did not significantly influence DNA yield and quality as well. In total, the most common gene mutations identified in EUS-TA samples were KRAS (82.9%), TP53 (69.1%), CDKN2A (30.1%) and SMAD4 (18.7%).\nCONCLUSIONS: EUS-TA samples are adequate for subsequent NGS testing. Tumor characteristics, procedural factors, and the types or sizes of needles do not significantly affect the success rate of NGS, suggesting EUS-FNA/FNB as a reliable and stable method for NGS testing in PDAC patients.",
+ "authors": [
+  "Zhang MM",
+  "Shi W",
+  "Wu HW",
+  "Lu JL",
+  "Gao J",
+  "Wu X",
+  "Wu DS",
+  "Guo T"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42844143",
+ "importance": 0.72,
+ "key_points_ko": [
+  "EUS-TA로 획득한 검체 125건 중 89.6%(112건)가 NGS 분석에 적합한 품질을 보였습니다.",
+  "바늘 종류(EUS-FNA 대 EUS-FNB)나 크기, 종양 위치 및 크기는 DNA 수율과 품질에 유의미한 차이를 주지 않았습니다.",
+  "가장 흔하게 관찰된 유전자 변이는 KRAS(82.9%), TP53(69.1%), CDKN2A(30.1%), SMAD4(18.7%)였습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1016/j.hbpd.2026.09.002",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42844143"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hepatobiliary Pancreat Dis Int",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42844143/"
+ },
+ "summary_ko": "이 연구는 췌장관 선암종(PDAC) 환자를 대상으로 초음파 내시경 유도하 조직 획득(EUS-TA) 검체의 차세대 염기서열 분석(NGS) 적절성 및 영향 요인을 평가했습니다. 2018년 1월부터 2024년 8월까지 EUS-TA 검체로 NGS 검사를 받은 췌장암 환자 125명의 자료를 분석했습니다. 분석 결과 EUS-TA 검체 125건 중 112건(89.6%)이 NGS 검사에 적합한 것으로 확인되었습니다. 종양 특성이나 바늘의 종류 및 크기 등은 NGS 성공률에 유의미한 영향을 미치지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The feasibility and influencing factor of endoscopic ultrasound-guided tissue acquisition for next-generation sequencing in pancreatic ductal adenocarcinoma patients",
+ "title_ko": "췌장관 선암종 환자에서 차세대 염기서열 분석을 위한 초음파 내시경 유도하 조직 획득의 타당성 및 영향 요인",
+ "trial": null,
+ "type": "paper"
+}

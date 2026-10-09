@@ -1,0 +1,63 @@
+{
+ "abstract": "PURPOSE: To assess the predictive performance of panel protein biomarkers as well as an established algorithm that considers repeat biomarker testing for risk prediction of PDAC among a prospective cohort of patients with New-onset diabetes.\nPATIENTS AND METHODS: A panel of protein biomarkers (CA19-9, CA125, CEA, LRG1, REG3A and TIMP1) were assayed in 6,516 serially collected pre-diagnostic plasma samples from 2,121 NOD patients from the Consortium of Chronic Pancreatitis Diabetes and Pancreatic Cancer (CPDPC)-initiated NOD study who completed the 3-year study follow-up period. The specimen set included 25 pre-diagnostic samples from the 12 PDAC cases diagnosed during study follow-up. We applied a single threshold (ST) method, which considers biomarker levels at a single time point, as well as a previously established parametrical empirical Bayes (PEB) algorithm, which considers prior biomarker measurements, with 'case' calls made based on pre-specified cutoffs corresponding to 1% 1-year risk. Resultant biomarker data as well as case calls were provided to the EDRN Data Management and Coordinating Center as part of a Prospective-sample-collection-Retrospective-Blinded-Evaluation (ProBE)-compliant Phase 3 biomarker validation study. Area under the Receiver Operating Characteristic Curves (AUC), sensitivity, specificity, population-level positive predictive value (PPV), and negative predictive value (NPV) are reported.\nRESULTS: The 3-year incidence of PDAC in the NOD cohort was 0.57%. When considering PDAC vs non-cancer controls, respective AUCs of individual protein biomarkers ranged from 0.52-0.94, with CA19-9 achieving the highest overall performance of 0.94 (95% CI: 0.86-1.00). At the pre-defined 1% 1-year risk threshold, CA19-9 yielded sensitivity of 83.3% at 97.2% specificity. Additional markers CEA, CA125, and TIMP1 demonstrated sensitivity of 33.3%, 41.7%, and 8.3%, respectively. In a subset of patients, CA19-9 first tested 'positive' at a median (interquartile range [IQR]) of 7 months (4 to 14 months) prior to clinical PDAC diagnosis. Of the two PDAC cases missed by CA19-9 using the ST method, one (diagnosed with stage III PDAC) was detected using the PEB CA19-9 algorithm.\nCONCLUSION: In the setting of adult new onset diabetes, CA19-9 is a readily available and promising biomarker that can be leveraged for earlier detection of an underlying pancreatic cancer. Additional protein biomarkers may improve sensitivity for earlier detection of PDAC among cases with low CA19-9.",
+ "authors": [
+  "Irajizad E",
+  "Lopez C",
+  "Chari S",
+  "Vykoukal J",
+  "Spencer R",
+  "Li Y",
+  "Dennison JB",
+  "Koay EJ"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845671",
+ "importance": 0.85,
+ "key_points_ko": [
+  "신규 발병 당뇨병 환자군에서 3년 이내 췌장암 발생률은 0.57%였습니다.",
+  "단백질 바이오마커 중 CA19-9는 진단 예측 수신기 작동 특성 곡선 아래 면적(AUC) 0.94, 민감도 83.3%, 특이도 97.2%로 가장 우수한 성과를 보였습니다.",
+  "단일 시점 검사로 놓친 췌장암 환자 2명 중 1명은 이전 검사 이력을 반영하는 PEB 알고리즘을 통해 선별되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.08.06.26359908",
+  "nct": [],
+  "pmcid": "PMC13640811",
+  "pmid": "42845671"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-08-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845671/"
+ },
+ "summary_ko": "본 연구는 신규 발병 당뇨병(NOD) 환자 2,121명을 대상으로 3년간 추적 관찰하며 수집한 혈액 검체 6,516개를 활용하여 췌장관 선암(PDAC)의 조기 진단 성능을 평가했습니다. 진단 전 혈액 검체 단백질 바이오마커 패널 분석 결과, CA19-9가 가장 우수한 췌장암 예측 성능을 보였습니다. CA19-9 바이오마커는 실제 임상 진단보다 중앙값 기준 7개월 전에 먼저 양성 반응을 나타냈습니다. 이 결과는 신규 발병 당뇨병 성인 환자에서 CA19-9 혈액 검사를 통한 췌장암 조기 발견 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Assessment of impending pancreatic cancer in a cohort of new onset diabetes on basis of biomarker trajectory",
+ "title_ko": "신규 발병 당뇨병 환자군에서 바이오마커 변화 궤적에 기반한 임박한 췌장암 평가",
+ "trial": null,
+ "type": "paper"
+}

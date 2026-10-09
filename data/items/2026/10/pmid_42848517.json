@@ -1,0 +1,60 @@
+{
+ "abstract": "Formalin-fixed paraffin-embedded (FFPE) tissues are archived resources for biomedical research but challenging for single-cell transcriptomic analysis. Here, we present a protocol for isolating high-quality nuclei from FFPE pancreatic cancer sections. We describe steps for deparaffinization, enzymatic digestion, nuclei purification, and library construction using the 10× Genomics Fixed RNA Profiling platform. This protocol enables transcriptomic profiling of archived clinical specimens at single-nucleus resolution. For complete details on the use and execution of this protocol, please refer to Chen et al.1.",
+ "authors": [
+  "Ning H",
+  "Zhou W",
+  "Chen K",
+  "Gao Q",
+  "Pan J",
+  "Chen MM"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42848517",
+ "importance": 0.62,
+ "key_points_ko": [
+  "보관된 FFPE 췌장암 조직 절편에서 고품질 핵을 분리하는 실험 프로토콜을 제시합니다.",
+  "탈파라핀화, 효소 소화, 핵 정제 및 라이브러리 구축의 세부 단계를 다룹니다.",
+  "보관된 임상 검체를 단일 핵 수준에서 전사체 분석할 수 있도록 지원합니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1016/j.xpro.2026.104880",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42848517"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "STAR Protoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42848517/"
+ },
+ "summary_ko": "본 연구는 포르말린 고정 파라핀 포매(FFPE) 췌장암 조직에서 고품질 핵을 분리하는 연구 프로토콜을 설명합니다. 탈파라핀화, 효소 소화, 핵 정제 및 10x Genomics 고정 RNA 프로파일링 플랫폼을 활용한 라이브러리 구축 과정을 포함합니다. 이 프로토콜을 통해 보관된 임상 조직 검체를 단일 핵 해상도로 전사체 분석할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Protocol for isolating high-quality nuclei from FFPE pancreatic cancer sections and constructing sequencing libraries",
+ "title_ko": "FFPE 췌장암 절편에서 고품질 핵을 분리하고 시퀀싱 라이브러리를 구축하는 프로토콜",
+ "trial": null,
+ "type": "paper"
+}

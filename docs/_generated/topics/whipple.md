@@ -29,7 +29,7 @@ search:
 | [주변부 암 및 수술 후 췌장루 고위험 환자에서 췌두부 절제술 대 동종 췌도 자가이식을 동반한 전 췌장절제술](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [절제 가능한 췌장암 환자에서 수술 전 mFOLFIRINOX와 주위 경구 hydroxychloroquine 병용 투여에 관한…](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
 <a id="pmid-42834181"></a>
 #### [최소침습 췌십이지장절제술의 도입 및 결과에 대한 보정 추세 분석: 미국에서 지난 10년간의 최신 데이터](https://pubmed.ncbi.nlm.nih.gov/42834181/)
@@ -45,6 +45,22 @@ search:
 - 로봇 수술(RPD)은 중앙값 재원일수가 6일로, LPD(7일) 및 OPD(8일)보다 짧았습니다(p<0.001).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42834181/) · [DOI](https://doi.org/10.1007/s00464-026-13444-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42834181)</small>
+
+---
+<a id="pmid-42846516"></a>
+#### [전이성 췌장 선편평세포암에서 11개의 간 전이 완전 소실과 환자 탐색에서 GPT의 역할](https://pubmed.ncbi.nlm.nih.gov/42846516/)
+<small>Complete Regression of 11 Hepatic Metastases in Metastatic Pancreatic Adenosquamous Carcinoma and the Role of GPT in Patient Navigation</small>
+
+`논문` `증례` `치료 전반` `신약·치료제` `수술` `진단·조기발견` · 2026-10-03 · PubMed · Int Med Case Rep J · 중요도 0.56
+
+이 논문은 전이성 췌장 선편평세포암(metastatic pancreatic adenosquamous carcinoma, ASCP) 환자에서 발생한 11개의 간 전이가 완전 소실된 드문 증례를 보고합니다. 65세 남성 환자는 휘플 수술(Whipple procedure) 후 FOLFIRINOX(폴피리녹스) 항암 치료를 받았으며, 자가 치료를 병행했습니다. 3주기 후 추적한 자기공명영상(MRI)에서 간 병변의 완전한 방사선학적 소실이 확인되었습니다. 6주기 완료 후 항암 치료를 중단했으며, 2026년 2월 20일 추적 MRI에서도 눈에 띄는 간 병변은 관찰되지 않았습니다.
+
+- 65세 남성 전이성 췌장 선편평세포암(ASCP) 환자에게 FOLFIRINOX(폴피리녹스) 치료 등을 시행했습니다.
+- 치료 3주기 후 MRI 검사에서 11개의 간 전이가 완전한 방사선학적 소실(complete radiological regression)을 보였습니다.
+- 총 6주기의 항암 치료 후 치료를 중단하였고, 2026년 2월 20일 기준 간에 가시적인 병변이 없음을 확인했습니다.
+- 담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
 
 ---
 <a id="pmid-42831115"></a>

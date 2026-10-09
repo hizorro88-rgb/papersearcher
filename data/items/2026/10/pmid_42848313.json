@@ -1,0 +1,65 @@
+{
+ "abstract": "National-level data regarding population disparities and Type 2 Diabetes Mellitus (T2DM)-specific mortality trends, using ICD-10 E11 and comparing pancreatic cancer deaths with versus without T2DM, remain incompletely characterized. This study aimed to analyze temporal trends and demographic/geographic disparities in United States pancreatic cancer (PC) + T2DM mortality (1999-2020) to identify high-risk populations and generate hypotheses for future targeted interventions. We analyzed death records with PC and T2DM from Wide-ranging Online Data for Epidemiologic Research (CDC WONDER), calculating age-adjusted mortality rates (AAMRs) and annual percent changes (APCs) across demographic and geographic strata. Concurrently, National Health and Nutrition Examination Survey (NHANES) 2007-2016 data were utilized to estimate the weighted prevalences of key behavioral risk factors (smoking, alcohol, high-saturated-fat diet). Among 17 744 deaths, the age-adjusted mortality rate (AAMR) for deaths with co-listed PC and T2DM increased from 0.16 to 0.53 per 100 000 population between 1999 and 2020, while mortality from PC without T2DM remained relatively stable. Adults aged 75-84 bore the highest absolute burden, whereas 45-54-year-olds showed the fastest recent increase. Hispanics had the fastest overall increase, Non-Hispanic (NH) Whites experienced sharp recent acceleration, and NH Blacks maintained a heavy baseline burden. Geographically, the AAMR in 2020 was higher in nonmetropolitan than metropolitan areas, although the full-period average annual percent change (AAPC) was higher in metropolitan areas. Among the four United States Census regions, the West had the highest AAMR in 2020 and the highest full-period AAPC, whereas the South exhibited the fastest recent increase after 2014. Complementary NHANES data show distinct demographic patterns in behavioral risk factors (smoking, alcohol, high-saturated-fat diet) at the population level, providing contextual background for the observed mortality disparities. However, these general-population estimates are not linked to the mortality cohort and serve only as descriptive context. Deaths with both pancreatic cancer and Type 2 diabetes mellitus recorded on death certificates increased substantially in the United States from 1999 to 2020, while mortality from PC without T2DM remained relatively stable. The coexisting burden is characterized by marked demographic and geographic disparities. While behavioral risk factors may contribute to these patterns, ecological comparisons cannot establish causation, and prospective studies are needed to evaluate targeted interventions such as smoking and dietary management, telehealth expansion, and policy-level efforts to reduce financial barriers.",
+ "authors": [
+  "Liu H",
+  "Xing T",
+  "Liu Q",
+  "Yu W",
+  "Zeng S",
+  "Yang X",
+  "Sun L",
+  "Zhang L"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42848313",
+ "importance": 0.73,
+ "key_points_ko": [
+  "췌장암과 제2형 당뇨병이 동시 기재된 연령조정 사망률(AAMR)은 1999년 0.16명에서 2020년 0.53명(10만 명당)으로 증가했습니다.",
+  "75-84세 성인이 가장 높은 절대적 부담을 보였으며, 45-54세 연령층에서 가장 빠른 최근 증가세를 기록했습니다.",
+  "히스패닉계(Hispanics)가 전체적으로 가장 빠른 증가세를 보였고, 비히스패닉 백인(NH Whites)은 최근 급격한 가속화를 겪었으며, 비히스패닉 흑인(NH Blacks)은 높은 기저 부담을 유지했습니다.",
+  "지리적으로 2020년 연령조정 사망률(AAMR)은 대도시권보다 비도시권(nonmetropolitan areas)에서 더 높았습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1096/fj.202602498R",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42848313"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "FASEB J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42848313/"
+ },
+ "summary_ko": "이 연구는 1999년부터 2020년까지 미국 내에서 췌장암(Pancreatic Cancer, PC)과 제2형 당뇨병(Type 2 Diabetes Mellitus, T2DM)이 함께 기재된 사망 기록을 분석했습니다. 미국 질병통제예방센터(CDC WONDER) 데이터를 활용해 연령조정 사망률(AAMR)과 연간 변화율(APC)을 조사했습니다. 총 17,744건의 사망 사례를 분석한 결과, 췌장암과 제2형 당뇨병이 동시 기재된 연령조정 사망률은 1999년 인구 10만 명당 0.16명에서 2020년 0.53명으로 증가했습니다. 반면 당뇨병이 없는 췌장암 사망률은 비교적 안정적으로 유지되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Trends in U.S. Mortality With Co-Listed Pancreatic Cancer and Type 2 Diabetes, 1999-2020",
+ "title_ko": "1999년부터 2020년까지 미국 내 췌장암과 제2형 당뇨병 동시 기재 사망률 추이",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,96 @@
+{
+ "abstract": "Natural killer (NK) cells are white blood cells that have a limited ability to kill cancer cells. This ability might be enhanced if they are given 24 hours after an injection of the drug bortezomib. This study will determine the following:\n\n* What dose of NK cells can be given safely to subjects with metastatic solid tumors or leukemia.\n* The effectiveness and side effects of NK cell therapy\n* How the body handles NK cells.\n\nPeople between 18 and 70 years of age who have a solid tumor or leukemia, and for whom standard treatments are not effective, may be eligible for this study. Participants undergo the following procedures:\n\nApheresis to collect NK cells. For this procedure, a catheter (plastic tube) is placed in a vein in the subject s arm. Blood flows from the vein into a cell separator machine, which separates the white cells from the other blood components. The white cells are extracted and the rest of the blood is returned to the body through a second tube placed in a vein in the other arm.\n\nChemotherapy with the drug pentostatin to suppress the immune system and prevent it from attacking the NK cells that will be infused.\n\nChemotherapy with bortezomib to increase NK cell function.\n\nInfusion of the NK cells. In this dose-escalating study, successive groups of patients entering the study receive increasingly higher numbers of cells to determine the highest safe dose level. Up to ten dose levels may be studied.\n\nInterleukin-2 drug therapy to maintain NK cell activity.\n\nEvaluations during therapy including:\n\n* Clinical assessment, history and review of medications\n* Blood draws for routine and research tests.\n* Pharmacokinetics study after the NK infusion to see how the body handles the cells. For this test, the number of NK cells in the blood are measured over time. This requires drawing about 1 teaspoon of blood at 15 minutes, 30 minutes, 1, 2, 4, 8, 12, and 24 hours after the infusion (day 1); then every 24 hours on days 2 through 7, then once on days 10, 14, and 21.\n* Bone marrow biopsy (subjects with leukemia only).\n* Chest x-ray.\n* CT scan, bone scan and PET scan, if indicated, for disease evaluation.\n\nSubjects who respond well after one treatment cycle may be eligible to continue NK cell therapy.\n\nNatural killer (NK) cells are innate immune lymphocytes that are identified by the expression of the CD56 surface antigen and the lack of CD3. Unlike antigen specific T cells, NK cells do not require the presence of a specific tumor antigen for the recognition and killing of cancer cells. Our in vitro studies have demonstrated that pretreatment of malignant cells with bortezomib significantly enhances NK-mediated tumor cytotoxicity by sensitizing cells to TNF-related apoptosis-inducing ligand (TRAIL). TRAIL is a member of tumor necrosis factor family of cytokines that promotes apoptosis. Importantly, in our laboratory, in vitro expanded NK cells isolated from patients with metastatic cancers or hematological malignancies exhibited significantly more cytotoxicity against their tumor cells when tumors were pre-treated with bortezomib compared with untreated tumor controls. These findings suggest that drug-induced sensitization to TRAIL could be used as a novel strategy to potentiate anticancer effects of autologous adoptively infused NK cells in patients with cancer.\n\nMurine studies conducted in our laboratory have also established that bortezomib treatment sensitizes tumors in vivo to killing by adoptively infused syngeneic NK cells; murine renal cell carcinoma line (RENCA) tumors in BALB/c mice grew significantly slower and survival was prolonged when syngeneic NK cell infusions where given following bortezomib treatment compared to mice receiving NK cell infusions alone or bortezomib alone. This anti-tumor effect was further potentiated by eradicating T-regulatory cells prior to adoptive NK cell infusion and by administering interleukin-2 after adoptive NK cell infusion.\n\nRecently, our laboratory has developed techniques for the in vitro isolation and expansion of NK cells to levels suitable for the treatment of cancer patients. Furthermore, we have also established good viability and sterility of these expanded NK cells which, compared to fresh NK cells, have increased surface expression of TRAIL and have enhanced cytotoxicity against tumor cells.\n\nWe therefore propose this non-randomized, Phase I, dose escalating study designed to evaluate the safety and the anti- tumor effects of escalating doses of adoptively infused ex vivo expanded autologous natural killer (NK) cells against metastatic cancers or hematological malignancies sensitized to NK TRAIL cytotoxicity with bortezomib.\n\nThe primary study objective is to determine the safety (maximum tolerated dose) of escalating NK cell doses of adoptively infused ex vivo expanded autologous NK cells in subjects with treatment refractory metastatic tumors or hematological malignancies that are sensitized to NK cell cytotoxicity using bortezomib. Secondary objectives will include the anti-neoplastic effects of this treatment regimen (assessed using standard disease specific response criteria) and the toxicity profile associated with extended cycles of protocol therapy.\n\nThe primary endpoint will be assessed at day 21 (3 weeks after the Day 0 NK cell infusion).",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT00720785",
+ "importance": 0.7,
+ "key_points_ko": [
+  "표준 치료에 불응하는 전이성 고형암(췌장암 등) 및 혈액암 환자 35명을 대상으로 진행된 1상 용량 증량 임상시험입니다.",
+  "암세포의 사멸 감수성을 높이는 bortezomib과 체외에서 확장 배양한 자가 NK세포의 병용 요법에 대한 안전성과 최대 내약 용량을 탐색했습니다.",
+  "NK세포 투여 후 체내 지속성을 유지하기 위해 인터루킨-2(IL-2) 투여 및 면역조절을 위한 pentostatin(펜토스타틴) 투여가 함께 포함되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT00720785"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2008-07-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT00720785"
+ },
+ "summary_ko": "본 임상시험은 표준 치료에 반응하지 않는 췌장암, 대장암, 폐암 등 전이성 고형암 및 혈액암 환자를 대상으로 자가 자연살해세포(NK cell)와 bortezomib(보르테조밉) 병용 치료의 안전성을 평가하기 위해 진행되었습니다. 암세포가 NK세포의 공격에 더 민감해지도록 사전에 bortezomib을 투여한 뒤 체외에서 증식시킨 자가 NK세포를 주입하는 방식을 평가했습니다. 총 35명의 환자를 대상으로 NK세포의 용량을 단계별로 증량하여 최대 내약 용량과 부작용, 예비적 항종양 효과를 확인하고자 했습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Metastatic Solid Tumor",
+  "Chronic Myelogenous Leukemia (CML)",
+  "Small Lymphocytic Lymphoma (SLL)",
+  "Chronic Lymphocytic Leukemia (CLL)",
+  "Multiple Myeloma"
+ ],
+ "title": "Natural Killer Cells and Bortezomib to Treat Cancer",
+ "title_ko": "진행성 암 환자를 대상으로 한 자가 자연살해세포 및 보르테조밉 병용 요법의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Chronic Myeloid Leukemia (CML)",
+   "Pancreatic Ca",
+   "Colon/Rectal Ca",
+   "Multiple Myeloma",
+   "Carcinoma, Non-Small -Cell Lung"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 70세 이하의 성인 환자\n- 조직학적으로 확인된 전이성 및 절제 불가능한 고형암(췌장선암, 폐암, 대장직장암, 전립선암, 신세포암 등) 또는 표준 치료에 불응성인 혈액암 환자\n- 최근 3개월 동안 질병 진행이 확인된 환자\n- 등록 전 최소 4주 이내 전신 치료 이력이 없어야 함 (완화 방사선 치료는 최소 2주 경과 필요)\n- 적혈구 수혈에 의존하지 않는 상태 (고형암 환자 기준)\n\n제외 기준:\n- 영상학적으로 간 부피의 25%를 초과하는 종양 침범이 있는 경우\n- 뇌전이 병력이 있는 경우 (1cm 미만의 단일 뇌전이로 정위방사선 치료를 받은 경우는 예외)\n- 2등급 이상의 말초신경병증이 있는 경우\n- ECOG 수행 상태(ECOG PS)가 2, 3, 4점인 환자 및 예상 여명이 3개월 미만인 경우\n- 활동성 감염, 중증 심장 질환 또는 pentostatin, bortezomib, IL-2 약물에 대한 금기증이 있는 경우\n- 중증의 골수 기능 저하 또는 주요 장기(간, 신장, 심장) 기능 장애가 있는 경우",
+  "eligibility_text": "* INCLUSION CRITERIA:\n\n  1. Diagnosed with histologically confirmed metastatic solid tumor - cancer of the lung (small cell or non small cell), prostate (adenocarcinoma), colorectum, kidney (renal cell carcinoma), pancreas (adenocarcinoma),or malignant melanoma, metastatic Ewing's sarcoma, or metastatic epithelial neoplasms and adenocarcinoma of unknown primary, and disease confirmed to be metastatic and unresectable for which standard curative or beneficial treatments are no longer effective\n\n     OR\n\n     Diagnosed with a hematological malignancy (multiple myeloma, \\[MM\\] chronic myelogenous leukemia \\[CML\\] or chronic lymphocytic leukemia \\[CLL\\] or small lymphocytic lymphoma \\[SLL\\]) and disease resistant or refractory to standard therapy and CLL/SLL patients are required to have failed prior treatment with at least one nucleoside analogue. Myeloma patients are required to have disease which has progressed following treatment with bortezomib.\n  2. At least 4 weeks since any prior systemic therapy (excluding corticosteroid therapy) to treat the underlying malignancy (standard or investigational). NOTE: subjects on FDA-approved tyrosine kinase inhibitors or other targeted therapies for RCC such as mTOR inhibitors that have evidence of disease progression on therapy may continue these medicines until the time of study enrollment (as accelerated disease progression following discontinuation of these drugs has been described).\n  3. At least 2 weeks since prior palliative radiotherapy.\n  4. Ages greater than or equal to 18 years and less than or equal to 70 years.\n  5. Evidence of progressive disease over a 3-month interval.\n  6. RBC transfusion independent (solid tumor patients only).\n\nEXCLUSION CRITERIA:\n\n1. Disease not evaluable radiographically (applies to solid tumor patients only).\n2. Disease involving greater than 25% of the liver radiographically (estimated based on review of liver lesions seen on CT scan).\n3. History of an allogeneic hematopoietic stem cell transplant.\n4. Brain metastases (with the exception of patients with a single brain metastasis less than 1cm treated with either sterotactic or gamma knife radiotherapy) due to poor prognosis and potential for neurological dysfunction that would confound evaluation of neurological and other adverse events).\n5. Peripheral neuropathy of grade greater than 1, which would require reduction of bortezomib dose.\n6. Acute diffuse infiltrative pulmonary disease.\n7. Acute pericardial disease.\n8. Life expectancy less than 3 months.\n9. ECOG performance status 2, 3 or 4.\n10. Uncontrolled concurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, life threatening cardiac arrhythmia. Patients with symptoms of coronary artery disease, cardiac arrhythmias or an abnormal thallium stress test must be evaluated and cleared by cardiology prior to enrollment.\n11. Ongoing or active infection\n12. Contraindication for administration of pentostatin, bortezomib, and/or interleukin-2.\n13. Allergy or hypersensitivity to bortezomib, boron or mannitol by history.\n14. Concurrent use of corticosteroids.\n15. For all tumor types:\n\n    Marrow function characterized by\n\n    -Absolute neutrophil count less than 500/mcL (must be present off growth factors)\n\n    Organ function characterized by\n    * Total bilirubin greater than 3 times upper limit of normal\n    * AST (SGOT)/ALT (SGPT) greater than 4 times upper limit of normal\n    * Creatinine clearance less than 50 cc/min based on a 24 hour urine collection\n    * Left ventricular ejection fraction less than 40% by echocardiogram (ECHO)\n    * Hypercalcemia greater than 2.5 mmol/L\n\n    For all Hematologic malignancies:\n\n    Marrow function characterized by\n    * Neutrophil count less than or equal to 500/mcl\n    * Platelets less than or equal to 20,000/mcl\n16. HIV-positive patients\n17. Hepatitis C positive patients (Hep C PCR positive)\n18. Active Hepatitis B infection (Hep B surface antigen positive)\n19. Pregnant or nursing\n20. Psychiatric illness/social situations that would limit compliance with study requirements and ability to comprehend the investigational nature of the study and provide informed consent.",
+  "enrollment": 35,
+  "has_results": false,
+  "interventions": [
+   "Bortezomib",
+   "NK cells"
+  ],
+  "last_update_posted": "2026-10-08",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT00720785",
+  "phase": "PHASE1",
+  "primary_completion_date": "2021-04-06",
+  "sex": "ALL",
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "start_date": "2008-08-01",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

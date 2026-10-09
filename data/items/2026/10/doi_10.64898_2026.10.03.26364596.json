@@ -1,0 +1,64 @@
+{
+ "abstract": "Current state of the art computational pathology foundation models attain satisfying accuracy most general pathology tasks including detection of pancreatic ductal adenocarcinoma (PDAC) but fail to provide sufficient explainability, operating as “black boxes”. Some interpretability effort has been made, with models providing attention maps that project back on the slide the models high attended areas that pushed for the given prediction result, without further naming or reasoning explanation which can limit pathologists trust toward the prediction. We developed C3PRO, a cell-centric framework attempting to provide deeper understanding and explainability, by using embeddings extracted using a pathology foundation model, from cell centered tiles containing both the cell and its close neighborhood, which were then clustered into recurrent morphological phenotypes. A spatial graph was additionally constructed on top of the back-projected vocabulary to account for recurrent motifs. The evaluation of the model performance involved a cohort of 809 patients (825 diagnostic biopsies) using nested cross validation. C3PRO was benchmarked against four different multiple instance learning frameworks and achieved on-par performance for diagnostic (0.958 AUC), survival (0.617) and resectability (0.696) prediction, while providing additional insights compared to the strongest baseline models. Each clustered phenotype was probed and extracted as a representative tile mosaic and annotated by two expert pathologists, constituting a phenotype vocabulary available for statistical analysis. These phenotypes were scored by pathologists with physical brightfield microscopy and replicated the independent statistical significance impact on overall survival prediction from diagnostic biopsies.",
+ "authors": [
+  "Pelloux M",
+  "Tran CT",
+  "Baig J",
+  "Khellaf A",
+  "Huang SL",
+  "Nguyen OT",
+  "Batardière M",
+  "Diwan S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.03.26364596",
+ "importance": 0.64,
+ "key_points_ko": [
+  "C3PRO 모델은 진단 예측에서 0.958의 곡선 아래 면적(AUC)을 기록했습니다.",
+  "생존 예측에서는 0.617의 성능을 보였습니다.",
+  "절제 가능성 예측에서는 0.696의 성능을 보였습니다.",
+  "평가는 809명의 환자와 825개의 진단 생검 코호트를 대상으로 수행되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.10.03.26364596",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1336236"
+ },
+ "summary_ko": "이 연구는 췌장관선암종(PDAC)의 진단, 생존, 절제 가능성 예측을 위해 설명 가능한 세포 중심 프레임워크인 C3PRO를 개발하고 평가했습니다. 809명의 환자(825개의 진단 생검)를 대상으로 중첩 교차 검증을 사용하여 모델 성능을 평가했습니다. C3PRO는 기존 다중 인스턴스 학습 프레임워크와 동등한 성능을 달성하면서도 병리학자가 이해할 수 있는 형태학적 표현형을 제공했습니다. 추출된 표현형은 독립적인 전체 생존기간(OS) 예측에 대한 통계적 유의성을 재현했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "An interpretable cell-centric representation of pancreatic ductal adenocarcinoma matches multiple-instance learning for clinical outcomes and leads to novel pathologist-driven histological biomarkers",
+ "title_ko": "췌장관선암종의 세포 중심 해석 가능한 표현은 임상 결과 예측에서 다중 인스턴스 학습과 일치하며 새로운 병리학자 주도 조직학적 바이오마커로 이어집니다.",
+ "trial": null,
+ "type": "preprint"
+}

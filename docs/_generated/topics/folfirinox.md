@@ -78,8 +78,24 @@ search:
 | [중국인 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장 선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (1)
+## 타임라인 (2)
 
+<a id="pmid-42846516"></a>
+#### [전이성 췌장 선편평세포암에서 11개의 간 전이 완전 소실과 환자 탐색에서 GPT의 역할](https://pubmed.ncbi.nlm.nih.gov/42846516/)
+<small>Complete Regression of 11 Hepatic Metastases in Metastatic Pancreatic Adenosquamous Carcinoma and the Role of GPT in Patient Navigation</small>
+
+`논문` `증례` `치료 전반` `신약·치료제` `수술` `진단·조기발견` · 2026-10-03 · PubMed · Int Med Case Rep J · 중요도 0.56
+
+이 논문은 전이성 췌장 선편평세포암(metastatic pancreatic adenosquamous carcinoma, ASCP) 환자에서 발생한 11개의 간 전이가 완전 소실된 드문 증례를 보고합니다. 65세 남성 환자는 휘플 수술(Whipple procedure) 후 FOLFIRINOX(폴피리녹스) 항암 치료를 받았으며, 자가 치료를 병행했습니다. 3주기 후 추적한 자기공명영상(MRI)에서 간 병변의 완전한 방사선학적 소실이 확인되었습니다. 6주기 완료 후 항암 치료를 중단했으며, 2026년 2월 20일 추적 MRI에서도 눈에 띄는 간 병변은 관찰되지 않았습니다.
+
+- 65세 남성 전이성 췌장 선편평세포암(ASCP) 환자에게 FOLFIRINOX(폴피리녹스) 치료 등을 시행했습니다.
+- 치료 3주기 후 MRI 검사에서 11개의 간 전이가 완전한 방사선학적 소실(complete radiological regression)을 보였습니다.
+- 총 6주기의 항암 치료 후 치료를 중단하였고, 2026년 2월 20일 기준 간에 가시적인 병변이 없음을 확인했습니다.
+- 담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
+
+---
 <a id="pmid-42827581"></a>
 #### [NALIRIFOX와 FOLFIRINOX의 비교: 절제 불가능하거나 전이성인 췌장관암종(PDAC)의 1차 치료에 대한 효과 및 안전성 재구성 개별 환자 데이터 메타분석](https://pubmed.ncbi.nlm.nih.gov/42827581/)
 <small>NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma</small>

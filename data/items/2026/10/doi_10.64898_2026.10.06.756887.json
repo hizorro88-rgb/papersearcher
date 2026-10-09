@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a dense desmoplastic microenvironment that promotes therapeutic resistance and disease progression. Here, we investigated the impact of pulsed field ablation (PFA), a non-thermal electroporation-based therapy, on tumor and stromal remodeling in a syngeneic murine PDAC model. PFA induced rapid apoptotic and necrotic tumor cell death, transient neutrophil infiltration, and durable suppression of tumor growth. Single-cell RNA sequencing following repeated PFA treatments revealed enrichment of a classical secretory tumor cell state associated with complement and stress-response pathways and reduced epithelial-to-mesenchymal transition (EMT) programs. Although overall immune composition was largely unchanged, PFA markedly remodeled the stromal compartment, decreasing αSMA-positive activation and shifting cancer-associated fibroblasts (CAFs) from tumor-promoting myofibroblastic CAFs toward Dpp4+ complement-secreting CAFs. This transition was accompanied by increased IL-1 signaling potential, reduced Tgfb1 expression, and diminished tumor cell TGF-β response signatures. Serial PFA treatments further suppressed EMT-associated programs, identifying stromal reprogramming as a potential mechanism through which PFA enhances tumor control.",
+ "authors": [
+  "Demmel MV",
+  "Strickland LN",
+  "McAndrews K",
+  "Turabi K",
+  "Waller A",
+  "Dash S",
+  "Sardarni UK",
+  "Thosani N"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.06.756887",
+ "importance": 0.52,
+ "key_points_ko": [
+  "PFA는 마우스 췌장관암세포(PDAC) 모델에서 신속한 세포사멸과 지속적인 종양 성장 억제를 유도했습니다.",
+  "단일세포 RNA 시퀀싱 결과, PFA 반복 치료는 상피간엽전환(EMT) 프로그램을 감소시켰습니다.",
+  "PFA는 암 관련 섬유아세포(CAF)를 아교섬유모세포성(myofibroblastic) 형태에서 Dpp4 양성 보체 분비형태로 전환했습니다.",
+  "초록에 명시된 임상 수치(환자 수, 생존기간, 반응률, 위험비)는 없습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.10.06.756887",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1336139"
+ },
+ "summary_ko": "본 연구는 비열성 전기천공 기반 치료인 펄스 전기장 절제술(PFA)이 마우스 췌장관암세포(PDAC) 모델에서 종양과 기질 리모델링에 미치는 영향을 조사했습니다. PFA는 종양 세포의 세포사멸과 괴사를 유도하고, 종양 성장을 지속적으로 억제했습니다. 또한 PFA는 암 관련 섬유아세포(CAF)를 종양 촉진형에서 보체 분비형으로 전환하여 기질을 크게 리모델링했습니다. 이 연구는 기질 재프로그래밍이 PFA의 종양 조절 강화 기전임을 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pulsed Field Ablation Enables Stromal Manipulation and Tumor Reduction in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "펄스 전기장 절제술(Pulsed Field Ablation)은 췌장관암세포(PDAC)에서 기질 조작 및 종양 축소를 가능하게 합니다",
+ "trial": null,
+ "type": "preprint"
+}

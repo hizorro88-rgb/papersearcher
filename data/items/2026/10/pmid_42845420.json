@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a devastating malignancy with a five-year survival rate of approximately 13%, underscoring the urgent need for novel therapeutic strategies. Next-generation imipridones ONC206 and ONC212 are potent anticancer agents that activate the mitochondrial ClpP protease and the integrated stress response. Lurbinectedin, an FDA-approved therapy for metastatic small cell lung cancer, inhibits transcription by binding the DNA minor groove and has demonstrated preclinical efficacy in PDAC models. Here, we show that ONC206 and ONC212 are highly cytotoxic against PDAC cell lines as monotherapies and in combination with lurbinectedin. Both ONC206 and ONC212 achieved sub-micromolar seventy-two-hour IC₅₀ values in BxPC-3, PANC-1, and HPAF-II PDAC cells, with ONC212 exhibiting greater potency across all lines. Mechanistically, ONC206 and ONC212 induce apoptosis through ClpX depletion, ATF4 induction, and caspase-mediated PARP cleavage. Combination treatment of lurbinectedin with both imipridones produced robust synergy, with ONC212 generally exhibiting stronger synergy at lower concentrations and HSA synergy scores up to 29.5. Importantly, these combinations showed minimal toxicity in CCD 841 CoN non-malignant colon epithelial cells, indicating selective tumor cell killing. Western blot analysis revealed that synergy between lurbinectedin and ONC212 is associated with upregulation of DR5 and downregulation of Bcl-2 and ClpX. These findings provide mechanistic and preclinical support for combining lurbinectedin with next-generation imipridones as a therapeutic strategy in PDAC.",
+ "authors": [
+  "Tummala T",
+  "Su A",
+  "Uruchurtu ASS",
+  "Azzoli CG",
+  "El-Deiry WS"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845420",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장관상피암(PDAC)의 5년 생존율은 약 13%입니다.",
+  "ONC206과 ONC212는 BxPC-3, PANC-1, HPAF-II 세포주에서 72시간 동안 서브 마이크로몰(sub-micromolar) 범위의 IC₅₀ 값을 기록했으며, ONC212가 모든 세포주에서 더 높은 효능을 보였습니다.",
+  "lurbinectedin과 두 이미프리돈의 병용 치료는 강력한 시너지를 나타냈으며, ONC212는 HSA 시너지 점수 최대 29.5를 기록했습니다.",
+  "비암성 결장 상피세포인 CCD 841 CoN 세포에서는 최소한의 독성만 관찰되어 선택적 종양 사멸 효과를 보였습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.08.13.744614",
+  "nct": [],
+  "pmcid": "PMC13640778",
+  "pmid": "42845420"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-08-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845420/"
+ },
+ "summary_ko": "이 연구는 췌장관상피암(PDAC) 세포주를 대상으로 차세대 이미프리돈인 ONC206 및 ONC212와 lurbinectedin의 항암 효과를 조사했습니다. 연구 결과, 이 약물들은 단독 요법 및 lurbinectedin과의 병용 요법에서 췌장암 세포에 대해 높은 세포 독성과 강력한 시너지 효과를 보였습니다. 특히 비암성 세포에서는 독성이 최소화되어 선택적인 종양 세포 사멸 가능성을 보여주었습니다. 이러한 결과는 lurbinectedin과 차세대 이미프리돈 병용요법이 췌장암 치료 전략으로 활용될 수 있는 전임상적 근거를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Next-Generation Imipridones ONC206 and ONC212 Synergize with Lurbinectedin in Killing Pancreatic Ductal Adenocarcinoma Cells",
+ "title_ko": "차세대 이미프리돈(imipridone) ONC206 및 ONC212와 lurbinectedin 병용요법의 췌장관상피암세포 사멸 시너지 효과",
+ "trial": null,
+ "type": "paper"
+}

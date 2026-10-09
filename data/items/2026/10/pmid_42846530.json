@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Due to delays in diagnosis, many patients with pancreatic ductal adenocarcinoma (PDAC) miss the window for curative interventions. The oral and gut microbiomes are attractive as noninvasive triage instruments; however, while the literature provides AUROC values, it has not established clinically useful thresholds.\nOBJECTIVE: To systematically assess the diagnostic performance and clinical maturity of noninvasive microbiota-derived tools for identifying PDAC.\nMETHODS: Following PRISMA 2020 and PRISMA-DTA, we searched eight databases up to April 19, 2026, and conducted a targeted supplementary search on September 3, 2026. Risk of bias was assessed using PROBAST and QUADAS-2. The nine-row meta-analysis, which included approximations and correlated estimates, was exploratory.\nRESULTS: The initial search and targeted supplementary search yielded 16 studies covering 21 sample-domain items; 20 model-based records constituted the units of analysis for the risk-of-bias assessment. Fifty-one AUROC estimates formed a separate list of discrimination estimates. Six-row fixed-threshold data from five studies constituted the primary descriptive core. Sensitivity ranged from 0.682 to 0.964, and specificity ranged from 0.667 to 0.963. The exploratory nine-row bivariate model yielded pooled sensitivity of 0.86 (95% CI 0.80-0.90) and specificity of 0.80 (95% CI 0.73-0.86). These nine rows represented seven studies; Li 2025 and Chen 2025b each provided a correlated row, so the pooled estimates were hypothesis-generating. The certainty of evidence was rated very low using an adapted, GRADE-informed appraisal. All model-based rows (20/20) were at high risk of bias in the PROBAST analysis domain and high overall risk on QUADAS-2. Although stool-based testing provided the clearest signal of external validation, benign pancreatic mimics remained underrepresented.\nCONCLUSION: Detecting PDAC via noninvasive microbiota classifiers carries a biologically plausible yet very low-certainty diagnostic signal. Current findings do not support stand-alone clinical deployment and support only exploratory adjunctive triage. Validating prospectively against benign pancreatic mimics is mandatory before routine clinical adoption.\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261370926, Identifier, CRD420261370926.",
+ "authors": [
+  "Zhang L",
+  "Liu J",
+  "Pang M",
+  "Liang C",
+  "Li D",
+  "Wang Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42846530",
+ "importance": 0.9,
+ "key_points_ko": [
+  "탐색적 메타분석 결과 비침습적 미생물군집 기반 모델의 통합 민감도는 0.86(95% CI 0.80-0.90), 통합 특이도는 0.80(95% CI 0.73-0.86)이었습니다.",
+  "평가 대상 20개 모델 전체(20/20)가 비뚤림 위험 평가(PROBAST 및 QUADAS-2)에서 높은 비뚤림 위험을 보였습니다.",
+  "근거의 확실성이 매우 낮고 양성 췌장 유사 질환에 대한 검증이 부족하여, 단독 진단 목적으로는 사용할 수 없다고 평가되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.3389/fmicb.2026.1866794",
+  "nct": [],
+  "pmcid": "PMC13644726",
+  "pmid": "42846530"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Microbiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42846530/"
+ },
+ "summary_ko": "췌장관선암종(PDAC)의 조기 발견을 위해 구강 및 장내 미생물군집(microbiome)을 활용한 비침습적 진단 모델의 성능과 임상적 완성도를 체계적 문헌고찰 및 메타분석으로 평가했습니다. 총 16개 연구를 분석한 결과, 탐색적 분석에서 통합 민감도 0.86, 통합 특이도 0.80으로 나타났습니다. 그러나 분석된 20개 모델 전체에서 비뚤림 위험이 높았으며 근거의 확실성도 매우 낮은 수준으로 평가되었습니다. 연구진은 현재 데이터가 단독 임상 적용을 뒷받침하지 못하며, 양성 췌장 질환 대조군을 포함한 전향적 검증이 필수적이라고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Noninvasive microbiota-based diagnostic models for pancreatic ductal adenocarcinoma: a systematic review and diagnostic test accuracy meta-analysis",
+ "title_ko": "췌장관선암종에 대한 비침습적 미생물군집 기반 진단 모델: 체계적 문헌고찰 및 진단 정확도 메타분석",
+ "trial": null,
+ "type": "paper"
+}

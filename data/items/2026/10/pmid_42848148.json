@@ -1,0 +1,56 @@
+{
+ "abstract": "The gut microbiome dysbiosis is a potential contributing mediator for the gut and pancreas link. The gut microbiome contributes to the development of both diabetes and pancreatic cancer. There are approximately two distinct ways through which the gut microbiome leads to cell damage and then systemic inflammatory responses. The gut microbiome generates a unique set of metabolic products, activating diverse pathways and cytokines. The bottom line for this process leads to the generation of systemic inflammation. In type 2 diabetes, inflammatory signaling predominantly disrupts IRS-1/PI3K/AKT signaling, impairing insulin receptor pathways and glucose absorption, triggering β-cell malfunction and insulin resistance. Dysbiosis-associated inflammatory signaling in pancreatic cancer stimulates the growth of the tumour via activating oncogenic pathways, immune evasion, and epithelial-mesenchymal transition (EMT). The bacterial metabolites can cause. DNA mutations and affect the signaling pathways of cancer cells. In addition, this review offers an integrated microbiome-driven inflammatory-metabolic paradigm utilizing the gut-pancreas axis to associate pancreatic cancer and diabetes. A realistic and in-depth understanding of the above-described processes could result in the development of new techniques for the targeted modification of the gut microbiome for the prevention and management of such diseases.",
+ "authors": [
+  "Li Y"
+ ],
+ "categories": [
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42848148",
+ "importance": 0.72,
+ "key_points_ko": [
+  "장내 미생물 불균형은 전신 염증 반응과 대사산물 생성을 통해 당뇨병과 췌장암의 발생에 기여합니다.",
+  "췌장암에서 장내 미생물 관련 염증 신호는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT), DNA 돌연변이를 유도하여 종양 성장을 자극합니다.",
+  "제2형 당뇨병에서는 IRS-1/PI3K/AKT 신호 전달을 방해하여 베타세포 기능 장애와 인슐린 저항성을 유발합니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1007/s12032-026-03421-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42848148"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42848148/"
+ },
+ "summary_ko": "이 종설(review) 논문은 장내 미생물 불균형(dysbiosis)이 장과 췌장을 연결하며 당뇨병과 췌장암의 발생에 기여하는 기전을 다룹니다. 장내 미생물은 특정 대사산물을 생성하고 전신 염증 반응을 유발하여 세포 손상을 일으킵니다. 제2형 당뇨병에서는 인슐린 수용체 경로를 방해하여 인슐린 저항성을 유발하고, 췌장암에서는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT) 등을 자극하여 종양 성장을 촉진합니다. 저자들은 이러한 장-췌장 축 기반의 기전 이해가 장내 미생물을 표적으로 하는 질환 예방 및 관리 기술 개발로 이어질 수 있다고 설명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The gut-pancreas axis: microbial dysbiosis as a pathogenic driver of diabetes and pancreatic cancer",
+ "title_ko": "장-췌장 축: 당뇨병과 췌장암의 발병 요인으로서의 장내 미생물 불균형",
+ "trial": null,
+ "type": "paper"
+}

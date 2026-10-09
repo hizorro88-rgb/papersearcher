@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic surveillance commonly detects pancreatic cysts, most of which are presumed intraductal papillary mucinous neoplasms (IPMN). FUT2, the gene responsible for secretor status, has been implicated in IPMN development, although not with pancreatic cancer risk.\nMETHODS: We evaluated the association between inactivating variants in FUT2, FUT3 and ABO and pancreatic cysts in 1,865 patients in the multicenter Cancer of the Pancreas Screening (CAPS) cohort. Multivariable logistic regression was performed to estimate adjusted odds for presumed IPMN prevalence. A Johns Hopkins surgical cohort of 1582 patients with IPMN, pancreatic ductal adenocarcinoma (PDAC), or carcinoma arising from IPMN was analyzed to examine trend in variant proportion by malignant progression.\nRESULTS: In the CAPS cohort, older age (OR per year; 1.06 [1.05-1.07]; p < 0.001), FUT2-null (non-secretors) (OR: 1.66 [1.30-2.12]; p<0.001), non-O blood group (OR: 1.31 [1.06-1.62]; p=0.012), having familial-only vs. genetic/familial risk (OR: 1.49 [1.20-1.85] p<0.001), and participating site (OR; 2.20 [1.78-2.73], p<0.001) were associated with having pancreatic cysts. There were no significant FUT2/ABO presumed IPMN prevalence interactions. In the combined cohort, the proportion of FUT2-null patients with IPMN without carcinoma (by imaging or pathology) was 319 (27.4%) of 1162; 57 (24.3% of 234) with IPMN and carcinoma, and 225 (22.5%) of 998 with PDAC alone (p=0.009 for trend).\nCONCLUSIONS: IPMN is more prevalent in FUT2-null patients under pancreas surveillance, but the increased FUT2-null prevalence is not observed in patients with IPMN with carcinoma.\nIMPACT: Pancreatic cancer risk conferred by having IPMN may be lower in FUT2-null compared to FUT2-intact individuals.",
+ "authors": [
+  "Hozaka Y",
+  "Hayashi M",
+  "Abou Sleiman E",
+  "Katona BW",
+  "Brand RE",
+  "Syngal S",
+  "Yurgelun MB",
+  "Farrell JJ"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42847802",
+ "importance": 0.77,
+ "key_points_ko": [
+  "CAPS 코호트 1,865명 분석 결과, FUT2 결손(비분비형) 환자는 췌장 낭종을 가질 오즈비(OR)가 1.66배(95% CI: 1.30-2.12, p<0.001)로 유의하게 높았습니다.",
+  "고령(연령당 OR: 1.06), 비 O형 혈액형(OR: 1.31), 가족력 단독 위험군(OR: 1.49) 또한 췌장 낭종 발생과 연관을 보였습니다.",
+  "통합 코호트에서 FUT2 결손 비율은 암이 없는 IPMN 환자에서 27.4%(1,162명 중 319명), 암을 동반한 IPMN 환자에서 24.3%(234명 중 57명), 단독 췌관선암종(PDAC) 환자에서 22.5%(998명 중 225명)로 악성 진행에 따라 감소하는 경향을 나타냈습니다(경향 p=0.009)."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1158/1055-9965.EPI-26-0807",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42847802"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Epidemiol Biomarkers Prev",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42847802/"
+ },
+ "summary_ko": "췌장 감시 검사를 받는 고위험군에서 비분비형 유전형(FUT2 결손)과 췌장 낭종 유병률 사이의 연관성을 분석한 연구입니다. 다기관 췌장암 조기검진 코호트(CAPS) 환자 1,865명과 존스홉킨스 수술 코호트 1,582명을 대상으로 유전자 변이와 낭종 및 악성 진행의 관계를 평가했습니다. 분석 결과 FUT2 결손 환자에서 췌관내유두상점액종양(IPMN)으로 추정되는 췌장 낭종의 유병률이 높게 나타났습니다. 그러나 암을 동반한 IPMN 환자에서는 이러한 유전형 증가가 관찰되지 않아, FUT2 결손 환자의 IPMN 관련 췌장암 위험은 상대적으로 낮을 가능성이 제시되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "INCREASED PREVALENCE OF PANCREATIC CYSTS IN NONSECRETOR (FUT2 NULL) INDIVIDUALS UNDER PANCREATIC SURVEILLANCE",
+ "title_ko": "췌장 감시 검사를 받는 비분비형(FUT2 결손) 환자에서 췌장 낭종 유병률 증가",
+ "trial": null,
+ "type": "paper"
+}

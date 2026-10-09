@@ -1,0 +1,88 @@
+{
+ "abstract": "This early phase I trial studies how well 18F-fluoroazomycin arabinoside positron emission tomography (PET)-computed tomography (CT) works in diagnosing solid tumors. Using 18F-fluoroazomycin arabinoside with PET-CT may help doctors plan better treatment for patients with solid tumors. 18F-fluoroazomycin arabinoside may help to show how much oxygen is present in a tumor during a PET-CT scan.\n\nPRIMARY OBJECTIVES:\n\nI. To evaluate the feasibility of PET-CT using 18F-fluoroazomycin arabinoside (\\[18F\\]FAZA) and to determine the optimal imaging time to detect hypoxia in solid tumors.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the variability of imaging findings from repeated \\[18F\\]FAZA PET-CT studies over \\>= 24 hours up to 10 days.\n\nII. To confirm the safety of \\[18F\\]FAZA administered during PET-CT imaging of hypoxia of solid tumors.\n\nOUTLINE: Patients are assigned to 1 of 2 groups.\n\nGROUP A: Patients receive 18F-fluoroazomycin arabinoside intravenously (IV) and after 60 minutes undergo 5 PET-CT scans at 60, 90, 120, 150, and 180 minutes on days 1 and 2.\n\nGROUP B: Patients receive 18F-fluoroazomycin arabinoside IV and after 60 minutes undergo 5 or less PET-CT scans on day 1 and 5 or less PET-CT scans \\>= 24 hours later up to 10 days.\n\nAfter completion of study treatment, patients are followed up at 24 hours and at 30 days.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03168737",
+ "importance": 0.7,
+ "key_points_ko": [
+  "고형암 내 저산소증 측정을 위한 [18F]FAZA PET-CT의 실행 가능성과 최적 영상 촬영 시점을 평가합니다.",
+  "정맥 주사 후 시간에 따른 반복 촬영을 통해 영상 소견의 재현성과 안전성을 분석합니다.",
+  "총 25명의 환자를 대상으로 진행되는 초기 임상 1상 연구입니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03168737"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2017-05-30",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03168737"
+ },
+ "summary_ko": "이 임상 1상 시험은 고형암 환자를 대상으로 18F-플루오로아조마이신 아라비노사이드(18F-fluoroazomycin arabinoside, [18F]FAZA)를 이용한 양전자방출단층촬영-컴퓨터단층촬영(PET-CT)의 진단 효과를 평가합니다. 종양 내부의 저산소 상태(hypoxia)를 영상으로 확인하여 향후 적절한 치료 계획을 수립할 수 있는지 확인하는 연구입니다. 췌장암, 유방암, 대장암 등 고형암 환자 25명을 대상으로 약물 투여 후 최적의 촬영 시점과 안전성을 확인합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "18F-Fluoroazomycin Arabinoside PET-CT in Diagnosing Solid Tumors in Patients",
+ "title_ko": "고형암 환자 진단에서 18F-플루오로아조마이신 아라비노사이드(18F-FAZA) PET-CT의 적용",
+ "trial": {
+  "conditions": [
+   "Malignant Breast Neoplasm",
+   "Malignant Colorectal Neoplasm",
+   "Malignant Pancreatic Neoplasm",
+   "Malignant Solid Neoplasm"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n* 조직병리학적으로 진단된 고형암 환자 (유방암, 췌장암, 대장암 종괴 환자 우선 고려)\n* 신뢰할 수 있는 영상 촬영을 위해 단축 기준 1cm 이상의 고형암을 보유한 환자 (CT, MRI, 초음파 또는 유방촬영술 기준)\n* 최근 1개월 이내에 해당 종양에 대한 전신 치료나 국소 치료를 받지 않은 환자\n* 영상 촬영 일정이 완료되기 전까지 암 치료를 시작하지 않을 예정인 환자\n* 서면 동의서에 동의할 수 있는 환자 또는 법적 대리인\n\n제외 기준:\n* 임신 중이거나 수유 중인 여성 (수유의 경우 투여 후 최소 2일간 중단 필수)\n* 확인된 알레르기를 포함하여 [18F]FAZA 사용 금기 사유가 있는 환자\n* 체중이 400파운드(약 181kg) 이상이거나 체질량지수(BMI)로 인해 장비 진입이 불가능한 환자\n* 연구자의 판단에 따라 연구 준수를 심각하게 방해할 수 있는 중대한 동반 질환이나 의학적 상태가 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients with histopathologic diagnosis of a solid tumor. All solid tumors will be considered, but patients with breast, pancreas, and colorectal masses will be prioritized.\n* Patient must have a solid tumor with a short-axis greater than or equal to 1 cm (by CT, magnetic resonance imaging \\[MRI\\], ultrasonography or mammography) to allow reliable PET imaging.\n* A patient who has not received systemic or loco-regional treatment of the tumor within the last month.\n* Ability of the subject, or the legally authorized representative (LAR) if the patient is deemed by the treating physician to be cognitively impaired or questionably impaired in such a way that the ability of the patient to give informed consent is questionable, to understand, and the willingness to sign, a written informed consent.\n* Patients who are not expected to receive cancer therapy before imaging sessions are completed.\n\nExclusion Criteria:\n\n* Pregnant or lactating women: pregnant women are excluded from this study because the effects of \\[18F\\] FAZA in pregnancy are not known. A urine or serum pregnancy test will be performed before accrual after informed consent is obtained.\n* Lactation should be suspended for at least two days following the administration of \\[18F\\] FAZA to the mother, because of the unknown but potential risk for adverse events in nursing infants secondary to administration of the radionuclide to a lactating woman.\n* Subjects with contraindications to the use of \\[18F\\] FAZA including confirmed allergy.\n* Patients with a body weight of 400 pounds or more, or a body mass index (BMI) which precludes their entry into the bore of the PET/CT scanner, because the findings will probably be compromised in image quality with CT, PET/CT and MRI.\n* Any additional medical condition, serious concurrent illness, or other extenuating circumstance that, in the opinion of the investigator may significantly interfere with study compliance.",
+  "enrollment": 25,
+  "has_results": false,
+  "interventions": [
+   "Computed Tomography",
+   "Fluorine F 18-fluoroazomycin Arabinoside",
+   "Positron Emission Tomography"
+  ],
+  "last_update_posted": "2026-10-08",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03168737",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-04-30",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2017-09-22",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

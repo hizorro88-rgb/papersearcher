@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-08](_generated/daily/2026/10/08.md) · 전체 447건 · 최근 7일 447건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
+최근 수집일: [2026-10-09](_generated/daily/2026/10/09.md) · 전체 474건 · 최근 7일 474건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
 #### [전이성 췌장관암 환자 대상 1차 치료로서 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교하는 임상시험](https://clinicaltrials.gov/study/NCT07490301)
@@ -51,6 +51,21 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
+<a id="pmid-42846530"></a>
+#### [췌장관선암종에 대한 비침습적 미생물군집 기반 진단 모델: 체계적 문헌고찰 및 진단 정확도 메타분석](https://pubmed.ncbi.nlm.nih.gov/42846530/)
+<small>Noninvasive microbiota-based diagnostic models for pancreatic ductal adenocarcinoma: a systematic review and diagnostic test accuracy meta-analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `제약사·규제` · 2026-09-23 · PubMed · Front Microbiol · 중요도 0.90
+
+췌장관선암종(PDAC)의 조기 발견을 위해 구강 및 장내 미생물군집(microbiome)을 활용한 비침습적 진단 모델의 성능과 임상적 완성도를 체계적 문헌고찰 및 메타분석으로 평가했습니다. 총 16개 연구를 분석한 결과, 탐색적 분석에서 통합 민감도 0.86, 통합 특이도 0.80으로 나타났습니다. 그러나 분석된 20개 모델 전체에서 비뚤림 위험이 높았으며 근거의 확실성도 매우 낮은 수준으로 평가되었습니다. 연구진은 현재 데이터가 단독 임상 적용을 뒷받침하지 못하며, 양성 췌장 질환 대조군을 포함한 전향적 검증이 필수적이라고 결론지었습니다.
+
+- 탐색적 메타분석 결과 비침습적 미생물군집 기반 모델의 통합 민감도는 0.86(95% CI 0.80-0.90), 통합 특이도는 0.80(95% CI 0.73-0.86)이었습니다.
+- 평가 대상 20개 모델 전체(20/20)가 비뚤림 위험 평가(PROBAST 및 QUADAS-2)에서 높은 비뚤림 위험을 보였습니다.
+- 근거의 확실성이 매우 낮고 양성 췌장 유사 질환에 대한 검증이 부족하여, 단독 진단 목적으로는 사용할 수 없다고 평가되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846530/) · [DOI](https://doi.org/10.3389/fmicb.2026.1866794) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644726/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846530)</small>
+
+---
 <a id="pmid-42827581"></a>
 #### [NALIRIFOX와 FOLFIRINOX의 비교: 절제 불가능하거나 전이성인 췌장관암종(PDAC)의 1차 치료에 대한 효과 및 안전성 재구성 개별 환자 데이터 메타분석](https://pubmed.ncbi.nlm.nih.gov/42827581/)
 <small>NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma</small>
@@ -65,19 +80,5 @@
 - FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
-
----
-<a id="pmid-42832136"></a>
-#### [ASO 시각 초록: 절제된 췌장관상피암에서의 액체 생검: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42832136/)
-<small>ASO Visual Abstract: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-05 · PubMed · Ann Surg Oncol · 중요도 0.85
-
-이 논문은 절제된 췌장관상피암(Resected Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 한 액체 생검(Liquid Biopsy)에 관한 체계적 문헌고찰 및 메타분석입니다. 어떤 환자에게 어떤 방법이 적용되었는지에 대한 구체적인 내용은 초록에 명시되지 않았습니다. 연구 결과의 구체적인 수치나 효과 역시 초록에 명시되지 않았습니다.
-
-- 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
-- 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
 
 ---

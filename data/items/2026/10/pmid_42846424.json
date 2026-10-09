@@ -1,0 +1,63 @@
+{
+ "abstract": "Background Thromboembolic complications are common in patients with pancreatic cancer, with up to 20% of patients developing venous thromboembolism. While hypercoagulation in pancreatic cancer has been widely studied, fibrinolysis is less well characterized. Plasmin generation (PG) is a novel approach to assess fibrinolytic activity and may provide new insights into thrombotic risk in this population. This study aimed to compare the PG profile of patients with pancreatic cancer with that of healthy individuals. Methods This single-center cohort study included patients with advanced pancreatic cancer initiating chemotherapy at the Maastricht University Medical Center between 2022 and 2023. Plasma samples were obtained before chemotherapy ( t 0 ) and 8 weeks later ( t 8 ). PG and thrombin generation (TG) were measured; TG/PG ratios were calculated to evaluate the balance between coagulation and fibrinolysis. Thromboembolic events were recorded for 6 months. Results In total, 18 patients with pancreatic cancer and 18 healthy subjects were included. At baseline, patients showed higher endogenous plasmin potential levels compared with controls, whereas PG remained elevated at t 8 despite chemotherapy. PG lag time was prolonged in patients at t 8 . Patients showed lower TG/PG ratios for endogenous thrombin/plasmin potential. Five patients (28%) developed thromboembolic events. Although PG parameters were not associated with thromboembolic events, patients who developed thromboembolic events showed lower TG/PG potential ratios. Conclusion Patients with pancreatic cancer exhibited a disbalance in their PG profile, with a delayed but increased capacity to generate plasmin. Future studies are required to assess whether PG associates with thromboembolic disease and survival.",
+ "authors": [
+  "Willems RAL",
+  "De Simone I",
+  "Tufaha S",
+  "Konings J",
+  "Middelveld H",
+  "Pepels-Aarts N",
+  "Cate HT",
+  "De Laat B"
+ ],
+ "categories": [
+  "basic",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42846424",
+ "importance": 0.72,
+ "key_points_ko": [
+  "진행성 췌장암 환자 18명 중 5명(28%)에서 6개월 추적 관찰 기간 동안 혈전색전성 사건이 발생했습니다.",
+  "췌장암 환자는 건강한 대조군에 비해 내인성 플라스민 생성 잠재력이 기저시점 및 항암화학요법 8주 후에도 높게 유지되었습니다.",
+  "플라스민 생성 수치 자체는 혈전색전증과 직접 연관되지 않았으나, 혈전색전증이 발생한 환자는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1055/a-2925-6824",
+  "nct": [],
+  "pmcid": "PMC13643898",
+  "pmid": "42846424"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "TH Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42846424/"
+ },
+ "summary_ko": "진행성 췌관선암종(pancreatic ductal adenocarcinoma) 환자 18명과 건강한 대조군 18명을 대상으로 섬유소용해 활성을 평가하는 플라스민 생성(PG) 프로파일을 비교한 연구입니다. 췌장암 환자는 건강한 대조군에 비해 플라스민 생성이 지연되면서도 생성 능력 자체는 증가하는 불균형을 보였으며, 이는 항암화학요법 8주 후에도 지속되었습니다. 관찰 기간 6개월 동안 환자 중 5명(28%)에서 혈전색전증이 발생하였으며, 혈전색전증이 나타난 환자들은 응고와 섬유소용해의 균형을 나타내는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Plasmin Generation Kinetics Reveal a Hyperfibrinolytic Phenotype in Patients with Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "플라스민 생성 동역학을 통해 밝혀진 췌관선암종 환자의 과도한 섬유소용해 표현형",
+ "trial": null,
+ "type": "paper"
+}

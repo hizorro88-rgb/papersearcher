@@ -1,0 +1,64 @@
+{
+ "abstract": "SIGNIFICANCE: Rare-cell identification in fluorescence microscopy remains challenging because targets are sparse and background varies between specimens. Combining specimen-specific fluorescence enrichment with image classification may enable efficient and more specific automated detection of rare cells.\nAIM: We developed a two-stage framework to identify and quantify candidate rare circulating hybrid neoplastic cells (CHCs, ECAD+/CD45+) in peripheral blood mononuclear cell (PBMC) preparations from tumor-bearing and tumor-naïve mice.\nAPPROACH: PBMCs from 28 mice were imaged by multichannel fluorescence microscopy. Matched unstained samples established animal-specific ECAD and CD45 background distributions for candidate cell enrichment. Blinded multi-annotator consensus labels were used to train a convolutional neural network (CNN) from DAPI, ECAD, and CD45 image crops. Generalization was evaluated by leave-one-animal-out validation across 10 random initializations. Final classification used a 10-model ensemble, and rare-cell burden was compared between groups using negative-binomial regression with total segmented-cell count as an exposure.\nRESULTS: Of the 1,065,512 segmented cells, enrichment retained 10,176 candidates (0.96%), reducing the search space by >99%. Four of five evaluable tumor-bearing animals showed reproducible held-out discrimination, with median quantified area under the receiver operator characteristic curve (AUROCs) of 0.918-0.951; one animal was a reproducible outlier (median AUROC, 0.338). Ensemble deployment identified 157.94 positive-consensus cells per 50,000 segmented cells in tumor-bearing animals versus 49.55 in controls. The estimated rare-cell rate was 3.15-fold higher in tumor-bearing animals (95% CI, 0.91-10.99; two-sided p=0.071; prespecified one-sided p=0.036).\nCONCLUSIONS: Specimen-specific fluorescence enrichment combined with supervised image classification reduced the cellular search space and enabled automated quantification of a rare CHC (ECAD+/CD45+) phenotypes. Cross-animal validation also identified specimen-specific generalization failure, highlighting the importance of biological-specimen-level validation.",
+ "authors": [
+  "Rounds CC",
+  "Ravi D",
+  "Huang G",
+  "Mengesha B",
+  "Tran S",
+  "Garcia A",
+  "Rueb N",
+  "Chang YH"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845504",
+ "importance": 0.44,
+ "key_points_ko": [
+  "총 1,065,512개의 분할된 세포 중 농축 과정을 통해 10,176개의 후보 세포(0.96%)가 남았습니다.",
+  "종양 보유 동물의 중간값 수신자 작동 특성 곡선 아래 면적(AUROC)은 0.918에서 0.951을 기록했습니다.",
+  "종양 보유 동물에서 50,000개의 분할된 세포당 157.94개의 양성 합의 세포가 확인되어 대조군의 49.55개보다 많았습니다.",
+  "추정된 희귀 세포 비율은 종양 보유 동물에서 3.15배 더 높았습니다(95% 신뢰구간 0.91-10.99, 양측 p=0.071, 사전 지정된 단측 p=0.036)."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.08.14.744773",
+  "nct": [],
+  "pmcid": "PMC13640783",
+  "pmid": "42845504"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-08-14",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845504/"
+ },
+ "summary_ko": "이 연구는 췌장암 동물 모델의 말초혈액단핵세포(PBMC)에서 희귀 순환 하이브리드 종양세포(CHCs, ECAD+/CD45+)를 식별하고 정량화하기 위한 2단계 프레임워크를 개발했습니다. 표본 특이적 형광 농축과 합성곱 신경망(CNN) 이미지 분류를 결합하여 검색 공간을 99% 이상 줄였습니다. 종양 보유 동물에서 대조군 대비 희귀 세포 비율이 3.15배 높게 추정되었습니다. 그러나 통계적으로 양측 검정 기준 p=0.071로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deep learning-based identification and quantification of rare circulating hybrid cells in orthotopic pancreatic cancer models",
+ "title_ko": "동소성 췌장암 모델에서 희귀 순환 하이브리드 세포의 딥러닝 기반 식별 및 정량화",
+ "trial": null,
+ "type": "paper"
+}

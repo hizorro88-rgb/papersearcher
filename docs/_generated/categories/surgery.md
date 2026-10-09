@@ -16,7 +16,7 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 136건 · 최근 30일 136건
+전체 140건 · 최근 30일 140건
 
 월별 보기: [2026-10](surgery/2026-10.md)
 
@@ -38,6 +38,122 @@ search:
 - 부수적 평가지표에는 전체 생존기간(OS) 및 유전자 변이 유형별 치료 효과 분석이 포함됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
+
+---
+<a id="nct-nct06831136"></a>
+#### [국소 진행성 절제 불가능 및 전이성 췌장암 환자를 위한 내시경 초음파 유도 고주파 절제술과 면역항암제 pembrolizumab 병용 임상시험](https://clinicaltrials.gov/study/NCT06831136)
+<small>Endoscopic Ultrasound Radiofrequency Ablation and Immunotherapy Pembrolizumab for Locally Advanced Unresectable and Metastatic Pancreatic Duct Adenocarcinoma</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-02-17 · ClinicalTrials.gov · The University of Texas Health Science Center, Houston · 중요도 0.90
+
+**NCT06831136** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06831136.md)
+
+이 연구는 국소 진행성 절제 불가능 및 전이성 췌장 아세포암(mPDAC) 환자를 대상으로 내시경 초음파(EUS) 유도 고주파 절제술(RFA), 항암화학요법, 그리고 면역항암제 pembrolizumab(펨브롤리주맙)을 병용 투여하는 임상시험입니다. 연구의 목적은 이 복합 치료의 안전성과 유효성을 평가하는 소규모 제2상(PHASE2) 임상시험을 진행하는 것입니다. 목표 참여 환자 수는 총 24명입니다.
+
+- 목표 인원은 총 24명입니다.
+- 진행 단계는 제2상(PHASE2) 임상시험입니다.
+- 중재 방법으로 내시경 초음파 유도 고주파 절제술(EUS-RFA), 항암화학요법(NAC), 그리고 면역항암제 pembrolizumab(펨브롤리주맙)을 사용합니다.
+- 국내 임상시험 기관은 0곳입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06831136) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06831136)</small>
+
+---
+<a id="nct-nct06673017"></a>
+#### [췌장관선암종(PDAC) 환자를 대상으로 한 PTM-101의 1b상 임상시험](https://clinicaltrials.gov/study/NCT06673017)
+<small>PTM-101 in Pancreatic Ductal Adenocarcinoma (PDAC)</small>
+
+`임상시험` `1상` `신약·치료제` `진단·조기발견` `수술` · 2024-11-04 · ClinicalTrials.gov · PanTher Therapeutics · 중요도 0.84
+
+**NCT06673017** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06673017.md)
+
+이 연구는 치료 경험이 없는 경계성 절제 가능 또는 국소 진행성 췌장관선암종(PDAC) 환자를 대상으로 PTM-101과 선행보조 항암화학요법(neoadjuvant chemotherapy) 병용을 평가하는 다기관, 단일군, 라벨 공개, 1b상 임상시험입니다. 용량 증량 단계에서는 paclitaxel(파클리탁셀)을 함유한 PTM-101의 용량을 높이며 안전성을 확인하고 2상 권장 용량(RP2D)을 설정합니다. 이후 용량 확장 단계에서는 해당 권장 용량에서 대상자 수를 늘려 PTM-101의 유효성을 평가할 예정입니다. 목표 등록 인원은 총 26명이며 현재 환자를 모집 중입니다.
+
+- 경계성 절제 가능 및 국소 진행성 췌장관선암종 환자를 대상으로 PTM-101과 선행보조 항암화학요법 병용의 안전성과 유효성을 평가하는 1b상 임상시험입니다.
+- 용량 증량 시험을 통해 2상 권장 용량(RP2D)을 수립한 후 용량 확장 시험을 진행합니다.
+- 목표 환자 수는 26명이며, 국내 참여 기관은 0곳입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06673017) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06673017)</small>
+
+---
+<a id="nct-nct01174121"></a>
+#### [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](https://clinicaltrials.gov/study/NCT01174121)
+<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
+
+**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
+
+본 임상시험은 표준 화학요법에 반응하지 않는 전이성 췌장암을 포함한 전이성 고형암 환자를 대상으로 합니다. 환자의 종양에서 추출해 배양한 종양 침윤 림프구(TIL, Tumor Infiltrating Lymphocytes) 세포치료제와 면역관문억제제 pembrolizumab(펨브롤리주맙, 상품명 Keytruda)의 병용 치료 안전성과 유효성을 평가합니다. 림프구 소모성 전처치 요법과 고용량 aldesleukin(알데스류킨)을 함께 투여하여 종양 축소 효과를 확인하는 2상 임상시험입니다.
+
+- 목표 환자 수는 최대 332명이며 췌장암을 포함한 전이성 소화기암 환자 등이 참여 대상입니다.
+- 자가 종양 침윤 림프구(autologous TIL)와 pembrolizumab, 고용량 aldesleukin을 병용합니다.
+- 초록에 구체적인 생존기간이나 객관적 반응률(ORR) 결과는 아직 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
+
+---
+<a id="nct-nct05919238"></a>
+#### [절제 불가능한 췌장암 환자를 위한 Padeliporfin 혈관 표적 광역동 치료(VTP) 1상 임상시험](https://clinicaltrials.gov/study/NCT05919238)
+<small>Padeliporfin VTP Treatment for Unresectable Pancreatic Adenocarcinoma</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2023-06-26 · ClinicalTrials.gov · Impact Biotech Ltd · 중요도 0.74
+
+**NCT05919238** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05919238.md)
+
+이 임상시험은 국소 진행성 절제 불가능 췌장선암(Locally Advanced Unresectable Pancreatic Adenocarcinoma) 환자를 대상으로 Padeliporfin 혈관 표적 광역동 치료(Vascular Targeted Photodynamic therapy, VTP)의 안전성과 예비 유효성을 평가하기 위한 다기관, 비작위배정, 공개, 광선 용량 증량 1상 연구입니다. 환자들은 상장간막동맥(superior mesenteric artery, SMA), 복강동맥(celiac artery, CA), 또는 총간동맥(common hepatic artery, CHA)을 통해 혈관 내 광섬유를 삽입하고 Padeliporfin(WST-11)을 정맥 투여받습니다. 연구는 용량 증량을 위한 파트 A와 최적 광선 용량을 사용하는 확장 파트 B로 나누어 진행됩니다. 목표 환자 수는 30명이며, 초록에 명시된 생존기간이나 반응률 등의 구체적인 결과는 초록에 명시되지 않음.
+
+- 대상 질환은 국소 진행성 절제 불가능 췌장선암(Locally Advanced Unresectable Pancreatic Adenocarcinoma)입니다.
+- 중재 방법은 Padeliporfin(WST-11) 정맥 투여 후 혈관 내 광섬유를 통한 VTP 치료입니다.
+- 목표 인원은 총 30명입니다.
+- 안전성과 예비 유효성을 평가하기 위해 광선 용량 증량(light dose escalation) 방식을 사용합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05919238) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05919238)</small>
+
+---
+<a id="pmid-42843315"></a>
+#### [중장년 및 노인 췌장암 수술 후 6개월 이내의 수술 후 증상 부담과 건강 관련 삶의 질 관련 요인](https://pubmed.ncbi.nlm.nih.gov/42843315/)
+<small>Postoperative symptom burden and factors associated with health-related quality of life within six months after pancreatic cancer surgery in middle-aged and older adults</small>
+
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-10-05 · PubMed · Eur J Oncol Nurs · 중요도 0.73
+
+췌장암 수술을 받은 지 6개월 이내인 45세 이상 환자 151명을 대상으로 수술 후 통증, 불안, 수면의 질이 건강 관련 삶의 질(HRQOL)에 미치는 영향을 조사한 연구입니다. 평가 결과 환자들의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다. 다변량 분석에서 불안과 낮은 수면의 질은 기능적 삶의 질 저하, 증상 부담 증가, 전반적 건강 상태 악화와 모두 유의하게 연관되어 있었습니다. 반면 통증은 증상 부담 증가와만 유의한 연관성을 보였습니다.
+
+- 췌장암 수술 후 6개월 이내 환자 151명의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다.
+- 불안은 기능적 삶의 질 저하(β=-0.323, P<0.001), 증상 부담 증가(β=0.208, P=0.005), 전반적 건강 상태 악화(β=-0.194, P=0.019)와 모두 유의하게 연관되었습니다.
+- 수면의 질 저하 역시 기능적 삶의 질 저하(β=-0.241, P=0.003), 증상 부담 증가(β=0.326, P<0.001), 전반적 건강 상태 악화(β=-0.290, P=0.001)와 유의한 연관성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42843315/) · [DOI](https://doi.org/10.1016/j.ejon.2026.103343) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42843315)</small>
+
+---
+<a id="pmid-42846516"></a>
+#### [전이성 췌장 선편평세포암에서 11개의 간 전이 완전 소실과 환자 탐색에서 GPT의 역할](https://pubmed.ncbi.nlm.nih.gov/42846516/)
+<small>Complete Regression of 11 Hepatic Metastases in Metastatic Pancreatic Adenosquamous Carcinoma and the Role of GPT in Patient Navigation</small>
+
+`논문` `증례` `치료 전반` `신약·치료제` `수술` `진단·조기발견` · 2026-10-03 · PubMed · Int Med Case Rep J · 중요도 0.56
+
+이 논문은 전이성 췌장 선편평세포암(metastatic pancreatic adenosquamous carcinoma, ASCP) 환자에서 발생한 11개의 간 전이가 완전 소실된 드문 증례를 보고합니다. 65세 남성 환자는 휘플 수술(Whipple procedure) 후 FOLFIRINOX(폴피리녹스) 항암 치료를 받았으며, 자가 치료를 병행했습니다. 3주기 후 추적한 자기공명영상(MRI)에서 간 병변의 완전한 방사선학적 소실이 확인되었습니다. 6주기 완료 후 항암 치료를 중단했으며, 2026년 2월 20일 추적 MRI에서도 눈에 띄는 간 병변은 관찰되지 않았습니다.
+
+- 65세 남성 전이성 췌장 선편평세포암(ASCP) 환자에게 FOLFIRINOX(폴피리녹스) 치료 등을 시행했습니다.
+- 치료 3주기 후 MRI 검사에서 11개의 간 전이가 완전한 방사선학적 소실(complete radiological regression)을 보였습니다.
+- 총 6주기의 항암 치료 후 치료를 중단하였고, 2026년 2월 20일 기준 간에 가시적인 병변이 없음을 확인했습니다.
+- 담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
+
+---
+<a id="pmid-42846986"></a>
+#### [방사선 치료 후 메트포르민을 투여하는 선행화학방사선 치료가 우수한 췌장암 세포 철사멸을 유도하고 항종양 면역을 증강합니다](https://pubmed.ncbi.nlm.nih.gov/42846986/)
+<small>Radiotherapy followed by metformin neoadjuvant therapy drives superior pancreatic cancer ferroptosis and augments anti-tumor immunity</small>
+
+`논문` `전임상` `신약·치료제` `치료 전반` `기초연구` `수술` · 2025-12-16 · PubMed · Fundam Res · 중요도 0.46
+
+이 연구는 췌장암 환자를 위한 새로운 선행치료(neoadjuvant therapy) 전략으로 방사선 치료(Radiotherapy, RT)와 metformin(메트포르민)의 최적 순서를 조사했습니다. 세포 및 동물 모델에서 방사선 치료 후 metformin을 투여하는 순차적 치료법이 가장 효과적으로 암세포의 철사멸(ferroptosis)을 유도했습니다. 또한 이 치료법은 항종양 면역세포의 침투를 증가시키고 종양 촉진 면역세포를 억제하는 것으로 나타났습니다. 환자 샘플과 마우스 모델을 활용하여 이러한 면역 증강 효과를 확인했습니다.
+
+- 방사선 치료 후 metformin을 순차적으로 투여하는 치료법이 체외 및 동물 모델에서 가장 뛰어난 철사멸(ferroptosis) 유도 효과를 보였습니다.
+- 이 기전은 AMPK-GOT1 경로의 억제를 통해 암세포를 G1/S 기에 정지시키고 철사멸을 유발하는 것에 의존합니다.
+- 방사선 치료 후 metformin 투여는 IFNγ+CD8+T 세포 등의 항종양 면역세포 침투를 높이고 TGF-β 등의 억제성 사이토카인을 줄였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846986/) · [DOI](https://doi.org/10.1016/j.fmre.2025.12.010) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644582/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846986)</small>
 
 ---
 <a id="nct-nct05604560"></a>
@@ -1279,24 +1395,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT06825546) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06825546)</small>
 
 ---
-<a id="nct-nct06831136"></a>
-#### [국소 진행성 절제 불가능 및 전이성 췌장암 환자에서 내시경 초음파 유도 라디오파 소작술과 면역항로 펨브롤리주맙 병용 임상시험](https://clinicaltrials.gov/study/NCT06831136)
-<small>Endoscopic Ultrasound Radiofrequency Ablation and Immunotherapy Pembrolizumab for Locally Advanced Unresectable and Metastatic Pancreatic Duct Adenocarcinoma</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-02-17 · ClinicalTrials.gov · The University of Texas Health Science Center, Houston · 중요도 0.80
-
-**NCT06831136** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06831136.md)
-
-이 연구는 국소 진행성 절제 불가능 및 전이성 췌장관선암(PDAC) 환자를 대상으로 내시경 초음파(EUS) 유도 라디오파 소작술(RFA), 항암화학요법, 그리고 면역항암제 pembrolizumab(펨브롤리주맙) 병용 치료의 안전성과 유효성을 평가하는 2상 예비 임상시험입니다. 연구 대상은 18세 이상의 환자이며, 목표 인원은 24명입니다. 현재 환자를 모집 중입니다.
-
-- 대상 질환은 국소 진행성 절제 불가능 및 전이성 췌장관선암(PDAC)입니다.
-- 중재 방법은 신보조 항암화학요법(NAC), 면역항암제 pembrolizumab(펨브롤리주맙), 내시경 초음파(EUS) 유도 라디오파 소작술(RFA)의 병용입니다.
-- 목표 인원은 24명이며 18세 이상 환자를 대상으로 합니다.
-- 국내 기관은 참여하지 않습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06831136) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06831136)</small>
-
----
 <a id="nct-nct06844422"></a>
 #### [국소 진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험(ASCEND)](https://clinicaltrials.gov/study/NCT06844422)
 <small>Adapted Guided Stereotactic Body Radiotherapy Combined With Chemotherapy and Enhancement of Novel Drug Ivonescimab for Pancreatic Cancer (ASCEND)</small>
@@ -1522,23 +1620,6 @@ search:
 - 절제된 수술 조직의 형광 신호를 LUM Imaging Device로 촬영하여 병리 평가를 유도합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT02584244) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02584244)</small>
-
----
-<a id="nct-nct01174121"></a>
-#### [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](https://clinicaltrials.gov/study/NCT01174121)
-<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
-
-**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
-
-본 임상시험은 표준 화학요법에 반응하지 않는 전이성 췌장암을 포함한 전이성 고형암 환자를 대상으로 합니다. 환자의 종양에서 추출해 배양한 종양 침윤 림프구(TIL, Tumor Infiltrating Lymphocytes) 세포치료제와 면역관문억제제 pembrolizumab(펨브롤리주맙, 상품명 Keytruda)의 병용 치료 안전성과 유효성을 평가합니다. 림프구 소모성 전처치 요법과 고용량 aldesleukin(알데스류킨)을 함께 투여하여 종양 축소 효과를 확인하는 2상 임상시험입니다.
-
-- 목표 환자 수는 최대 332명이며 췌장암을 포함한 전이성 소화기암 환자 등이 참여 대상입니다.
-- 자가 종양 침윤 림프구(autologous TIL)와 pembrolizumab, 고용량 aldesleukin을 병용합니다.
-- 초록에 구체적인 생존기간이나 객관적 반응률(ORR) 결과는 아직 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
 
 ---
 <a id="nct-nct05453851"></a>
@@ -2020,24 +2101,6 @@ search:
 - 효능 및 안전성에 관한 구체적인 결과 수치는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05911217) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05911217)</small>
-
----
-<a id="nct-nct05919238"></a>
-#### [절제 불가능한 췌장암 환자를 위한 Padeliporfin 혈관 표적 광역동 치료(VTP) 1상 임상시험](https://clinicaltrials.gov/study/NCT05919238)
-<small>Padeliporfin VTP Treatment for Unresectable Pancreatic Adenocarcinoma</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2023-06-26 · ClinicalTrials.gov · Impact Biotech Ltd · 중요도 0.74
-
-**NCT05919238** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05919238.md)
-
-이 임상시험은 국소 진행성 절제 불가능 췌장선암(Locally Advanced Unresectable Pancreatic Adenocarcinoma) 환자를 대상으로 Padeliporfin 혈관 표적 광역동 치료(Vascular Targeted Photodynamic therapy, VTP)의 안전성과 예비 유효성을 평가하기 위한 다기관, 비작위배정, 공개, 광선 용량 증량 1상 연구입니다. 환자들은 상장간막동맥(superior mesenteric artery, SMA), 복강동맥(celiac artery, CA), 또는 총간동맥(common hepatic artery, CHA)을 통해 혈관 내 광섬유를 삽입하고 Padeliporfin(WST-11)을 정맥 투여받습니다. 연구는 용량 증량을 위한 파트 A와 최적 광선 용량을 사용하는 확장 파트 B로 나누어 진행됩니다. 목표 환자 수는 30명이며, 초록에 명시된 생존기간이나 반응률 등의 구체적인 결과는 초록에 명시되지 않음.
-
-- 대상 질환은 국소 진행성 절제 불가능 췌장선암(Locally Advanced Unresectable Pancreatic Adenocarcinoma)입니다.
-- 중재 방법은 Padeliporfin(WST-11) 정맥 투여 후 혈관 내 광섬유를 통한 VTP 치료입니다.
-- 목표 인원은 총 30명입니다.
-- 안전성과 예비 유효성을 평가하기 위해 광선 용량 증량(light dose escalation) 방식을 사용합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05919238) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05919238)</small>
 
 ---
 <a id="nct-nct06639724"></a>

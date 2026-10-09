@@ -1,0 +1,62 @@
+{
+ "abstract": "Complete responses in metastatic pancreatic adenosquamous carcinoma (ASCP) are extremely rare and carbohydrate antigen 19-9 (CA 19-9) interpretation is difficult during cholestasis. A 65-year-old man underwent Whipple procedure on 29 May 2025; pathology confirmed ASCP (pT3 pN2, R0). Contrast-enhanced magnetic resonance imaging (MRI) on 26 June 2025 showed 11 liver lesions interpreted as metastases. Treatment with folinic acid, fluorouracil, irinotecan, and oxaliplatin (FOLFIRINOX) began on 7 July 2025. From cycle 2, high-dose intravenous vitamin C, doxycycline and later azithromycin were added by the patient and author as off-label home measures, without efficacy claims. After three cycles, follow-up MRI showed complete radiological regression of the hepatic lesions; MRI around the sixth cycle confirmed complete radiological response. Chemotherapy stopped after six cycles. In late September 2025, cholestasis and CA 19-9 rise were initially suspected as recurrence; after ursodeoxycholic acid, CA 19-9 decreased and normalized by 10 January 2026. Follow-up MRI on 20 February 2026 showed no visible hepatic lesions.",
+ "authors": [
+  "Khalil ST"
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42846516",
+ "importance": 0.56,
+ "key_points_ko": [
+  "65세 남성 전이성 췌장 선편평세포암(ASCP) 환자에게 FOLFIRINOX(폴피리녹스) 치료 등을 시행했습니다.",
+  "치료 3주기 후 MRI 검사에서 11개의 간 전이가 완전한 방사선학적 소실(complete radiological regression)을 보였습니다.",
+  "총 6주기의 항암 치료 후 치료를 중단하였고, 2026년 2월 20일 기준 간에 가시적인 병변이 없음을 확인했습니다.",
+  "담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.2147/IMCRJ.S639766",
+  "nct": [],
+  "pmcid": "PMC13644719",
+  "pmid": "42846516"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-03",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int Med Case Rep J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42846516/"
+ },
+ "summary_ko": "이 논문은 전이성 췌장 선편평세포암(metastatic pancreatic adenosquamous carcinoma, ASCP) 환자에서 발생한 11개의 간 전이가 완전 소실된 드문 증례를 보고합니다. 65세 남성 환자는 휘플 수술(Whipple procedure) 후 FOLFIRINOX(폴피리녹스) 항암 치료를 받았으며, 자가 치료를 병행했습니다. 3주기 후 추적한 자기공명영상(MRI)에서 간 병변의 완전한 방사선학적 소실이 확인되었습니다. 6주기 완료 후 항암 치료를 중단했으며, 2026년 2월 20일 추적 MRI에서도 눈에 띄는 간 병변은 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Complete Regression of 11 Hepatic Metastases in Metastatic Pancreatic Adenosquamous Carcinoma and the Role of GPT in Patient Navigation",
+ "title_ko": "전이성 췌장 선편평세포암에서 11개의 간 전이 완전 소실과 환자 탐색에서 GPT의 역할",
+ "trial": null,
+ "type": "paper"
+}

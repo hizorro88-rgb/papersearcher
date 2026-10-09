@@ -1,0 +1,66 @@
+{
+ "abstract": "Accurately predicting the risk of early liver metastases (ELM) and identifying patients who are most likely to benefit from neoadjuvant therapy (NAT) are critical for pancreatic ductal adenocarcinoma (PDAC). Here, we develop a Mamba-based predictive model that integrates imaging features from both the primary pancreatic tumor and the liver to assess the risk of ELM. The model is evaluated in a multi-institutional cohort of 1063 PDAC patients and demonstrates robust performance in predicting ELM (AUCs: 0.806-0.890). Besides, model-defined high-risk patients exhibit significantly shorter progression-free survival (PFS: HR = 1.93, p < 0.001) and overall survival (OS: HR = 1.89, p < 0.001). Notably, NAT confers significant OS benefits in model-defined high-risk patients (17.4 vs. 34.1 months; p < 0.001), even after propensity score matching (p = 0.004), while no survival benefit occurs in low-risk patients. Radiotranscriptomic analyses further reveal relative biological aggressiveness in the high-risk group. Overall, our proposed Mamba-based framework enables accurate prediction of ELM and may serve as a clinically actionable tool for identifying PDAC patients most likely to benefit from NAT.",
+ "authors": [
+  "Zhao B",
+  "Gong Z",
+  "Xiao W",
+  "Chen M",
+  "Huang S",
+  "Zhu L",
+  "Xia T",
+  "Sun Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42844287",
+ "importance": 0.67,
+ "key_points_ko": [
+  "Mamba 기반 모델은 조기 간 전이(ELM) 예측에서 0.806에서 0.890의 AUC를 기록했습니다.",
+  "모델이 정의한 고위험군은 무진행 생존기간(PFS) 위험비(HR)가 1.93 (p < 0.001)이었습니다.",
+  "고위험군의 전체 생존기간(OS) 위험비(HR)는 1.89 (p < 0.001)였습니다.",
+  "고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001)."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1038/s41467-026-77665-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42844287"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "published_at": "2026-09-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42844287/"
+ },
+ "summary_ko": "이 연구는 췌장관선암종(PDAC) 환자를 대상으로 조기 간 전이(ELM) 위험을 예측하고 선행화학요법(NAT)의 혜택을 받을 환자를 식별하기 위한 Mamba 기반 예측 모델을 개발했습니다. 다기관 코호트의 환자 1063명을 대상으로 평가한 결과, 이 모델은 조기 간 전이 예측에서 우수한 성능을 보였습니다. 모델이 고위험군으로 분류한 환자들은 무진행 생존기간(PFS)과 전체 생존기간(OS)이 유의하게 짧았습니다. 또한 고위험군 환자에서 선행화학요법(NAT)이 전체 생존기간(OS) 연장에 큰 도움이 되는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장관선암종에서 조기 간 전이를 예측하기 위한 딥러닝 CT 서명",
+ "trial": null,
+ "type": "paper"
+}

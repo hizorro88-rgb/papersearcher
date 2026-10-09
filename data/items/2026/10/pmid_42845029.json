@@ -1,0 +1,62 @@
+{
+ "abstract": "Acquired resistance to gemcitabine (GEM) remains a major barrier to effective treatment of pancreatic ductal adenocarcinoma (PDAC). Here we identify histone H3K18 lactylation (H3K18la), induced by GEM-driven lactate accumulation, as a key epigenetic mechanism of chemoresistance. H3K18la functions as a transcriptional activator of ribosomal protein L11(RPL11) Elevated RPL11 establishes a dual, compartmentalized pro-survival program: in the cytoplasm, RPL11 binds and stabilizes eukaryotic translation elongation factor 1 alpha 1 (EEF1A1) to enhance global protein synthesis; in the nucleus, RPL11 serves as a noncanonical transcriptional coactivator of (ADP-ribose) polymerase 14 (PARP14), augmenting DNA damage repair and attenuating GEM cytotoxicity. Pharmacologic or genetic inhibition of lactate production or RPL11 expression synergizes with GEM to overcome resistance and suppress PDAC progression in xenograft models. These findings define a lactate-H3K18la-RPL11axis that couples metabolic and epigenetic remodeling to translational control and genome maintenance, revealing actionable vulnerabilities in PDAC chemoresistance.",
+ "authors": [
+  "Zhao L",
+  "Cao J",
+  "Liu W",
+  "Li X",
+  "Zhang H",
+  "Zhang X",
+  "Shi S",
+  "Yin H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845029",
+ "importance": 0.61,
+ "key_points_ko": [
+  "GEM 치료로 유도된 젖산 축적 및 H3K18 락틸화(H3K18la)가 RPL11 단백질의 발현을 활성화하는 기전을 확인했습니다.",
+  "RPL11은 세포질의 EEF1A1을 안정화해 단백질 합성을 높이고, 핵 내 PARP14를 통해 DNA 손상 복구를 강화하여 약물 독성을 완화했습니다.",
+  "이종이식 모델에서 젖산 생성 또는 RPL11 발현을 억제하면 GEM과 시너지를 보여 내성을 극복하고 종양 진행이 억제되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1002/advs.78160",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42845029"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845029/"
+ },
+ "summary_ko": "본 연구는 췌관선암종(PDAC)에서 젬시타빈(gemcitabine, GEM) 치료 시 발생하는 획득 내성의 후성유전학적 기전을 규명했습니다. GEM 치료로 축적된 젖산(lactate)은 히스톤 H3K18 락틸화(H3K18la)를 일으켜 리보솜 단백질 L11(RPL11)의 발현을 증가시킵니다. 증가한 RPL11은 세포질에서 단백질 합성을 촉진하고 핵에서는 DNA 손상 복구를 강화하여 암세포의 생존을 돕는 것으로 나타났습니다. 동물 이종이식(xenograft) 모델에서 젖산 생성이나 RPL11을 억제했을 때 GEM과의 병용 시너지 효과를 통해 내성이 극복되고 암 진행이 억제되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Lactate-H3K18la-RPL11 Axis Drives Gemcitabine Resistance in Pancreatic Cancer by Integrating Protein Synthesis and DNA Damage Repair",
+ "title_ko": "젖산-H3K18la-RPL11 축이 단백질 합성과 DNA 손상 복구를 통합하여 췌장암의 젬시타빈 내성을 유도한다",
+ "trial": null,
+ "type": "paper"
+}

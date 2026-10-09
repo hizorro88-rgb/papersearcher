@@ -1,0 +1,63 @@
+{
+ "abstract": "Loss of the Y chromosome (LOY) has been largely unexplored in pancreatic ductal adenocarcinoma (PDAC), and no mechanistic framework previously explained its role in tumor biology. We identify LOY as a recurrent, functionally consequential alteration affecting ~50% of male PDAC patients across two independent cohorts, with strong enrichment in advanced disease and, critically, in the basal subtype, establishing LOY as a clinically actionable biomarker. Comprehensive genomic profiling positions LOY as a distinct genetic event associated with TP53 mutations, implicating it in aggressive tumor evolution. Integrative analyses across bulk tumors, single‑cell datasets and CRISPR‑engineered PDAC models converge on epithelial‑to‑mesenchymal transition (EMT) as the dominant LOY‑driven program. Y‑chromosome deletion alone induces EMT transcriptional states, mesenchymal morphology and enhanced metastatic ability. Mechanistically, LOY disrupts epigenetic regulation through loss of Y‑linked chromatin modifiers, reshaping DNA methylation at EMT‑ and basal‑defining loci and reducing chemotherapy sensitivity. These findings establish LOY as a causal genetic driver of PDAC progression and a clinically accessible biomarker with direct therapeutic relevance.",
+ "authors": [
+  "Dorsch M",
+  "Beaudry FE",
+  "Baginska AK",
+  "Meyer N",
+  "Petzold A",
+  "Zhao P",
+  "Otero-Carrasco B",
+  "Aliar K"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.06.756936",
+ "importance": 0.56,
+ "key_points_ko": [
+  "남성 췌관선암종(PDAC) 환자의 약 50%에서 Y염색체 상실(LOY)이 관찰되었습니다.",
+  "Y염색체 상실은 진행성 질환 및 예후가 불량한 기저양(basal) 아형과 밀접하게 연관되어 있었습니다.",
+  "Y염색체 결손은 상피-중간엽 전이(EMT)를 유도하고 전이 능력을 강화하며 항암화학요법에 대한 감수성을 감소시켰습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.10.06.756936",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1336156"
+ },
+ "summary_ko": "두 개의 독립된 환자 코호트 분석 결과, 남성 췌관선암종(PDAC) 환자의 약 50%에서 Y염색체 상실(LOY)이 확인되었습니다. Y염색체 상실은 진행성 암 및 공격적인 기저양(basal) 아형에서 빈번하게 나타났으며 TP53 돌연변이와 관련이 있었습니다. 연구진은 Y염색체 결실 단독으로도 상피-중간엽 전이(EMT)와 전이 능력을 촉진하고 항암화학요법 감수성을 낮추는 것을 확인했습니다. 이러한 결과는 Y염색체 상실이 췌장암 진행을 유발하는 직접적 원인이자 치료적 의미를 지닌 바이오마커임을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Loss of the Y chromosome drives basal identity and metastatic potential via epigenetic reprogramming in pancreatic cancer",
+ "title_ko": "Y염색체 상실이 후성유전학적 재프로그래밍을 통해 췌장암의 기저양 아형 특성과 전이 능력을 유도함",
+ "trial": null,
+ "type": "preprint"
+}

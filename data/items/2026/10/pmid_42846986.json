@@ -1,0 +1,64 @@
+{
+ "abstract": "Although neoadjuvant therapy has achieved higher levels of resectability and improved the survival outcomes of pancreatic carcinoma patients, cancer cells' resistance to conventional cell death has limited its clinical efficiency. Thus, developing an optimal sequence of novel neoadjuvant therapy modalities to boost cancer cell death is urgently needed. The current work addresses this issue by developing a combination of radiotherapy with metformin as a novel neoadjuvant therapy and investigating its optimal sequencing treatment to boost cancer cell ferroptosis. Of the three treatment regimens investigated, the sequential treatment with RT followed by metformin (i.e. as opposed to metformin followed by RT, or simultaneous treatment with both RT and metformin) was most effective in eliciting ferroptosis in vitro and in animal models. Mechanically, RT followed by metformin is dependent on the inhibition of the AMPK-GOT1 axis, which further leads to the arrest of cancer cells in G1/S phase, and ultimately ferroptosis. Moreover, using a combination of patient samples and mouse models, RT followed by metformin enhanced the anti-tumor immune cells (IFNγ+CD8+T cells, DC cells, and M1 macrophage) infiltration and cytokines (IFN-γ and IL-2) level, inhibited the pro-tumor immune cells (PD-1+TIM3+ CD8+T cells and M2 macrophage) infiltration and cytokines (TGF-β and IL-10) level. Overall, the study developed an optimal sequencing of neoadjuvant therapy modality that induced superior cancer cell ferroptosis and boosted anti-tumor immunity, which presented a promising therapeutic approach for refractory tumors.",
+ "authors": [
+  "Zhu H",
+  "Gong Y",
+  "Wang X",
+  "Zhang Z",
+  "Wang B",
+  "Xu W",
+  "Su Y",
+  "Eriksson JE"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42846986",
+ "importance": 0.46,
+ "key_points_ko": [
+  "방사선 치료 후 metformin을 순차적으로 투여하는 치료법이 체외 및 동물 모델에서 가장 뛰어난 철사멸(ferroptosis) 유도 효과를 보였습니다.",
+  "이 기전은 AMPK-GOT1 경로의 억제를 통해 암세포를 G1/S 기에 정지시키고 철사멸을 유발하는 것에 의존합니다.",
+  "방사선 치료 후 metformin 투여는 IFNγ+CD8+T 세포 등의 항종양 면역세포 침투를 높이고 TGF-β 등의 억제성 사이토카인을 줄였습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1016/j.fmre.2025.12.010",
+  "nct": [],
+  "pmcid": "PMC13644582",
+  "pmid": "42846986"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2025-12-16",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Fundam Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42846986/"
+ },
+ "summary_ko": "이 연구는 췌장암 환자를 위한 새로운 선행치료(neoadjuvant therapy) 전략으로 방사선 치료(Radiotherapy, RT)와 metformin(메트포르민)의 최적 순서를 조사했습니다. 세포 및 동물 모델에서 방사선 치료 후 metformin을 투여하는 순차적 치료법이 가장 효과적으로 암세포의 철사멸(ferroptosis)을 유도했습니다. 또한 이 치료법은 항종양 면역세포의 침투를 증가시키고 종양 촉진 면역세포를 억제하는 것으로 나타났습니다. 환자 샘플과 마우스 모델을 활용하여 이러한 면역 증강 효과를 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Radiotherapy followed by metformin neoadjuvant therapy drives superior pancreatic cancer ferroptosis and augments anti-tumor immunity",
+ "title_ko": "방사선 치료 후 메트포르민을 투여하는 선행화학방사선 치료가 우수한 췌장암 세포 철사멸을 유도하고 항종양 면역을 증강합니다",
+ "trial": null,
+ "type": "paper"
+}

@@ -24,7 +24,7 @@
   "중재 방법으로 INCB161734, 위약, 그리고 연구자 선택 항암화학요법을 사용합니다.",
   "임상시험 단계는 3상(Phase 3)이며 현재 환자를 모집 중입니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-09",
  "links": {
   "doi": null,
   "nct": [
@@ -86,7 +86,7 @@
    "Placebo",
    "Investigator's choice of chemotherapy"
   ],
-  "last_update_posted": "2026-09-22",
+  "last_update_posted": "2026-10-08",
   "location_countries": [
    "Australia",
    "Austria",
@@ -128,7 +128,7 @@
     "city": "Seongnam-si",
     "country": "South Korea",
     "facility": "Investigative Site KR005",
-    "status": "NOT_YET_RECRUITING"
+    "status": "RECRUITING"
    },
    {
     "city": "Seoul",
@@ -140,7 +140,7 @@
     "city": "Seoul",
     "country": "South Korea",
     "facility": "Investigative Site KR006",
-    "status": "NOT_YET_RECRUITING"
+    "status": "RECRUITING"
    },
    {
     "city": "Seoul",
@@ -152,7 +152,7 @@
     "city": "Seoul",
     "country": "South Korea",
     "facility": "Investigative Site KR003",
-    "status": "NOT_YET_RECRUITING"
+    "status": "RECRUITING"
    },
    {
     "city": "Seoul",

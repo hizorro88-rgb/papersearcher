@@ -17,10 +17,11 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (77)
+## 관련 임상시험 (79)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [진행성 췌장암 1차 치료에서 L-글루타민 병용 젬시타빈 및 냅-파클리탁셀 요법의 2상 무작위 배정 임상시험](../trials/NCT07864571.md) | 2상 | 모집 예정 | - |
 | [국소 진행성 또는 전이성 췌장암 1차 치료로서 대변 미생물 이식(FMT) 및 SHR-1701과 냅파클리탁셀/젬시타빈 병용 임…](../trials/NCT07845565.md) | 2상 | 모집 예정 | - |
 | [알부민 결합 파클리탁셀(Albumin-bound Paclitaxel) 병용 요법을 이용한 췌장암 임상시험](../trials/NCT07828756.md) | 2상 | 모집 예정 | - |
 | [절제 불가능한 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel,…](../trials/NCT07814859.md) | 2상 | 모집 예정 | - |
@@ -84,6 +85,7 @@ search:
 | [진행성 췌장암 환자에서 1차 치료로서 항암화학요법과 병용한 AK104 연구](../trials/NCT05859750.md) | 2상 | 모집 중 | - |
 | [치료 경험이 없는 전이성 췌장 선암 환자를 위한 valproic acid 및 simvastatin과 gemcitabine/n…](../trials/NCT05821556.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암에서 진폭 변조 고주파 전자기장과 젬시타빈 및 냅-파클리탁셀 병용요법 연구](../trials/NCT05776524.md) | 2상 | 모집 중 | - |
+| [전이성 췌장암 환자를 대상으로 한 냅파클리탁셀 및 젬시타빈에 VCN-01 병용 요법 유무를 비교하는 임상 2b상 연구](../trials/NCT05673811.md) | 2상 | 완료 | - |
 | [절제 가능 및 경계성 절제 가능 췌장암 환자를 위한 수술 전/후 sintilimab, nab-paclitaxel, gemci…](../trials/NCT05562297.md) | 2상 | 모집 예정 | - |
 | [진행성 췌장암 환자를 대상으로 한 젬시타빈 및 냅파클리탁셀과 IM156 병용요법의 1b상 임상시험](../trials/NCT05497778.md) | 1상 | 진행 중(모집 종료) | - |
 | [진행성 위장관암 환자를 위한 단독 또는 병용 요법으로서의 Spevatamig (PT886) 임상 1/2상 연구 (TWINPE…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |

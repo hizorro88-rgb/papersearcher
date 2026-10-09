@@ -25,7 +25,7 @@
   "목표 인원은 총 30명입니다.",
   "안전성과 예비 유효성을 평가하기 위해 광선 용량 증량(light dose escalation) 방식을 사용합니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-09",
  "links": {
   "doi": null,
   "nct": [
@@ -59,7 +59,7 @@
   ],
   "contacts": [
    {
-    "email": "eyal.morag@impactbiotech.com",
+    "email": "info@impactbiotech.com",
     "name": "Eyal Morag, MD",
     "phone": "+972 54 2056619"
    }
@@ -71,17 +71,18 @@
   "interventions": [
    "Padeliporfin Vascular Targeted Photodynamic (VTP) therapy"
   ],
-  "last_update_posted": "2026-08-19",
+  "last_update_posted": "2026-10-08",
   "location_countries": [
+   "Israel",
    "United States"
   ],
   "locations_kr": [],
   "max_age": null,
   "min_age": "18 Years",
-  "n_locations": 2,
+  "n_locations": 3,
   "nct_id": "NCT05919238",
   "phase": "PHASE1",
-  "primary_completion_date": "2026-08-30",
+  "primary_completion_date": "2027-08-30",
   "sex": "ALL",
   "sponsor": "Impact Biotech Ltd",
   "start_date": "2024-05-15",

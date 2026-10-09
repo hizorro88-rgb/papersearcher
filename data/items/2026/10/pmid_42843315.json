@@ -1,0 +1,56 @@
+{
+ "abstract": "PURPOSE: To examine the simultaneous associations of postoperative pain, anxiety, and sleep quality with functional health-related quality of life (HRQOL), symptom burden, and global health status among middle-aged and older adults within six months after pancreatic cancer surgery.\nMETHODS: This cross-sectional study included 151 patients aged ≥45 years who had undergone pancreatic cancer surgery within the preceding six months. Pain, anxiety, sleep quality, and HRQOL were assessed using the Numeric Rating Scale, the Hospital Anxiety and Depression Scale-Anxiety subscale, the Pittsburgh Sleep Quality Index, and the EORTC QLQ-C30, respectively. Pearson correlations and hierarchical multiple regression analyses were conducted.\nRESULTS: Mean pain, anxiety, and sleep-quality scores were 5.04 ± .58, 8.41 ± 3.33, and 9.81 ± 3.97, respectively. Anxiety was correlated with poorer functional HRQOL (r = -.43), greater symptom burden (r = .38), and poorer global health status (r = -.32; all P < .001). Poorer sleep quality was also associated with all three domains (r = -.39 to .47; all P < .001). Pain was correlated only with symptom burden (r = .19, P < .05). In fully adjusted models, anxiety remained associated with functional HRQOL (β = -.323, P < .001), symptom burden (β = .208, P = .005), and global health status (β = -.194, P = .019); sleep quality showed corresponding associations (β = -.241, P = .003; β = .326, P < .001; β = -.290, P = .001). Pain remained associated only with symptom burden (β = .184, P = .008).\nCONCLUSIONS: Anxiety and poor sleep quality were consistently associated with poorer HRQOL outcomes after pancreatic cancer surgery. Routine assessment of these symptoms may help identify patients requiring additional supportive care.",
+ "authors": [
+  "Ke PC",
+  "Chien TW"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42843315",
+ "importance": 0.73,
+ "key_points_ko": [
+  "췌장암 수술 후 6개월 이내 환자 151명의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다.",
+  "불안은 기능적 삶의 질 저하(β=-0.323, P<0.001), 증상 부담 증가(β=0.208, P=0.005), 전반적 건강 상태 악화(β=-0.194, P=0.019)와 모두 유의하게 연관되었습니다.",
+  "수면의 질 저하 역시 기능적 삶의 질 저하(β=-0.241, P=0.003), 증상 부담 증가(β=0.326, P<0.001), 전반적 건강 상태 악화(β=-0.290, P=0.001)와 유의한 연관성을 나타냈습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1016/j.ejon.2026.103343",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42843315"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Oncol Nurs",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42843315/"
+ },
+ "summary_ko": "췌장암 수술을 받은 지 6개월 이내인 45세 이상 환자 151명을 대상으로 수술 후 통증, 불안, 수면의 질이 건강 관련 삶의 질(HRQOL)에 미치는 영향을 조사한 연구입니다. 평가 결과 환자들의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다. 다변량 분석에서 불안과 낮은 수면의 질은 기능적 삶의 질 저하, 증상 부담 증가, 전반적 건강 상태 악화와 모두 유의하게 연관되어 있었습니다. 반면 통증은 증상 부담 증가와만 유의한 연관성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Postoperative symptom burden and factors associated with health-related quality of life within six months after pancreatic cancer surgery in middle-aged and older adults",
+ "title_ko": "중장년 및 노인 췌장암 수술 후 6개월 이내의 수술 후 증상 부담과 건강 관련 삶의 질 관련 요인",
+ "trial": null,
+ "type": "paper"
+}

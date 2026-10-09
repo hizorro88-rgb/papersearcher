@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Intraductal papillary mucinous neoplasms (IPMNs) are recognized as precursor lesions to pancreatic ductal adenocarcinoma (PDAC). However, the molecular programs underlying progression from low-grade dysplasia to advanced disease remain incompletely characterized. Herein, we performed an integrated plasma and tissue-proteomic analyses coupled with spatial and single-cell transcriptomics to identify biologically coherent remodeling programs reflected in circulation that distinguish IPMN by dysplasia grade and invasive disease.\nMETHODS: Using the O-link proximity extension assay platform, a panel of 1,104 proteins were quantified in plasma samples collected from patients with low-grade (LG) IPMN (n=30), high-grade (HG) IPMN with or without associated PDAC (IPMN/PDAC; n=40) and PDAC without IPMN (n=8). Predictive performance of individual biomarkers were assessed; likelihood ratio testing was performed to identify protein biomarkers that were complementarity with CA19-9 for risk of malignancy of IPMN. Findings were intersected with available spatial (N= 13) and single-cell (N= 6) transcriptomic datasets of IPMN tissues as well as mass spectrometry-based proteomic profiles of an independent set of resected human IPMN tissues (N= 9).\nRESULTS: A total of 28, 43, and 35 circulating proteins were found to be differential in HG, IPMN/PDAC, and HG + IPMN/PDAC cases compared to LG IPMN. Among differential proteins were known PDAC-associated markers CEACAM5, CTRC, and REG3A as well as several biomarkers reflecting cytoskeletal and extracellular matrix remodeling and inflammatory processes. Focusing on cytoskeletal and ECM-related proteins and using likelihood ratio testing, an \"OR\" rule considering CA19-9, BGN, and ITGB1BP1 achieved overall sensitivity of 48.7% for HG + IPMN/PDAC, including 38.1% sensitivity for HG IPMN, at an overall specificity of 90%, which was improved compared to that of CA19-9 alone (overall sensitivity of 28.2%; McNemar Exact test 1-sided p-value: 0.011). Integrated proteomic and spatial transcriptomic datasets of IPMN tissues revealed coordinated alterations cytoskeletal and ECM remodeling and elevated matrix stiffness as prominent features associated with IPMN/PDAC, which paralleled concordant increases in BGN and ITGB1BP1. Cell-type of origin analyses based on spatial and single-cell data further revealed fibroblasts and myeloid cells as primary contributors to expression levels of BGN whereas ITGB1BP1 was primarily expressed in neoplastic epithelium.\nCONCLUSION: Advanced IPMN dysplasia and invasive disease are characterized by coordinated tissue remodeling programs that are systemically reflected in circulating proteomic profiles. Blood-based biomarkers identified through our study, such as BGN and ITB1BP1, have potential to improve upon CA19-9 for risk stratification of IPMN to better guide clinical management.",
+ "authors": [
+  "Patterson L",
+  "Ballarò R",
+  "Chen Y",
+  "Vilchis Celis A",
+  "Zuo M",
+  "Chellakkan Selvanesan B",
+  "Flores Villanueva A",
+  "Irajizad E"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845577",
+ "importance": 0.57,
+ "key_points_ko": [
+  "저등급 IPMN 환자(n=30)와 비교하여 고등급 IPMN 및 IPMN/PDAC 환자(n=40) 등에서 발현이 다른 순환 단백질들이 확인되었습니다.",
+  "CA19-9, BGN, ITGB1BP1을 함께 고려한 방식은 90%의 특이도에서 고등급 IPMN 및 IPMN/PDAC에 대해 48.7%의 전체 민감도를 보였습니다.",
+  "이는 CA19-9 단독 사용 시의 전체 민감도인 28.2%에 비해 유의하게 개선된 결과입니다 (p=0.011)."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.08.09.26360008",
+  "nct": [],
+  "pmcid": "PMC13640819",
+  "pmid": "42845577"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-08-11",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845577/"
+ },
+ "summary_ko": "본 연구는 저등급(low-grade) 관내유두상 점액성 종양(IPMN)과 고등급(high-grade) IPMN 및 췌장암(PDAC) 환자의 혈장 단백질을 분석하여 질환 진행을 구별하는 바이오마커를 탐색했습니다. O-link 플랫폼을 이용해 1,104개의 단백질을 정량 분석했으며, 조직 공간 전사체 및 단일세포 전사체 데이터와 통합하여 분석을 수행했습니다. 연구 결과, 세포골격 및 세포외 기질(ECM) 리모델링과 관련된 단백질들이 진행된 IPMN에서 유의하게 다르게 나타났습니다. CA19-9와 BGN, ITGB1BP1을 함께 사용한 경우 특이도 90%에서 고등급 IPMN 및 관련 췌장암에 대해 48.7%의 민감도를 보여 CA19-9 단독보다 향상된 결과를 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A blood-based signature of cytoskeletal and extracellular remodeling for risk stratification of intraductal papillary mucinous neoplasms",
+ "title_ko": "관내유두상 점액성 종양(IPMN)의 위험도 분류를 위한 세포골격 및 세포외 리모델링 혈액 기반 바이오마커",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,66 @@
+{
+ "abstract": "Microsatellite stable (MSS) pancreatic ductal adenocarcinoma (PDAC) is refractory to immune checkpoint blockade. We conducted a single-arm phase II trial ( NCT04361162 ) combining nivolumab, ipilimumab and radiation therapy to treat patients with pre-treated metastatic MSS PDAC (n=30). We integrated longitudinal profiling of 32 pre- and on-treatment tumor biopsies from 22 patients, yielding 245,529 single-nucleus and 128,295 single-cell transcriptomes including 27,215 T-cells with paired TCR clonotypes, as well as Visium spatial transcriptomics from 13 biopsies, and peripheral blood TCR-sequencing from 25 patients. While clinical activity was limited overall, one patient achieved a durable complete response with no evidence of disease 4 years after trial enrollment. This response was marked by a therapy-associated shift in the state composition of pre-existing CD8 T cell clonotypes from GZMK+ to exhausted and predicted tumor-reactive states, durable maintenance of associated clonotypes in the blood after 1 year, interferon-polarized macrophage and fibroblast programs, and high levels of ACKR1+ venous endothelium. Across independent PDAC cohorts, high ACKR1 expression was associated with improved survival, greater intratumoral TCR richness and clonality, and increased tumor-blood TCR sharing. These findings suggest that productive immunotherapy responses in PDAC require not only tumor-reactive T cells, but also a stromal-vascular niche capable of supporting their recruitment, recirculation and persistence. This may have implications for the design of future immunotherapy and vaccine strategies for PDAC.",
+ "authors": [
+  "Kang S",
+  "Parikh M",
+  "Pappas L",
+  "Bi L",
+  "Koenig JL",
+  "Yeap BY",
+  "Carzo N",
+  "Grillo TM"
+ ],
+ "categories": [
+  "trial",
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42845633",
+ "importance": 0.76,
+ "key_points_ko": [
+  "이전 치료 이력이 있는 전이성 MSS 췌관선암 환자 30명 중 전반적인 효과는 제한적이었으나 1명이 4년간 질병 증거가 없는 완전 관해(CR)를 유지했습니다.",
+  "완전 관해를 보인 환자에서는 종양 반응성 CD8 T세포 클론이 말초혈액에서 1년 이상 지속 유지되었고 인터페론에 편향된 대식세포와 섬유아세포가 관찰되었습니다.",
+  "독립적인 췌장암 코호트 분석 결과 높은 ACKR1 발현은 생존율 향상 및 종양 내 T세포 수용체(TCR) 풍부도 증가와 연관되어 있었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.64898/2026.08.06.26359422",
+  "nct": [
+   "NCT04361162"
+  ],
+  "pmcid": "PMC13640796",
+  "pmid": "42845633"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-08-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845633/"
+ },
+ "summary_ko": "이전에 치료를 받은 전이성 현미부수체 안정형(MSS) 췌관선암(PDAC) 환자 30명을 대상으로 니볼루맙(nivolumab), 이필리무맙(ipilimumab), 방사선 치료를 병용하는 단일군 2상 임상시험(NCT04361162)을 진행했습니다. 전반적인 임상 효과는 제한적이었으나, 1명의 환자가 등록 후 4년 동안 질병의 증거가 없는 지속적인 완전 관해(CR)를 달성했습니다. 유전체 및 단일세포 전사체 분석 결과, 이러한 반응은 치료에 따른 종양 반응성 CD8 T세포 클론의 지속적인 유지와 ACKR1+ 정맥 내피세포, 인터페론에 반응하는 기질 환경과 관련이 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immune and stromal features of durable complete response to radiation and dual immune checkpoint blockade in pancreatic cancer",
+ "title_ko": "췌장암에서 방사선 치료 및 이중 면역관문억제제 병용에 따른 지속적 완전 관해의 면역 및 기질적 특성",
+ "trial": null,
+ "type": "paper"
+}

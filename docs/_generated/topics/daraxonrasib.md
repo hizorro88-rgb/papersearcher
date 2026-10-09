@@ -59,7 +59,7 @@ search:
 - RAS 직접 표적화는 개념 단계에서 벗어나 임상 적용 현실이 되었습니다.
 - 현재 3상 임상시험 단계로 진입한 치료법들이 췌장관암(PDAC) 치료 환경을 변화시킬 것으로 기대됩니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836735/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-25-4177) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836735)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836735/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-25-4177) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644853/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836735)</small>
 
 ---
 <a id="pmid-42827491"></a>
