@@ -16,11 +16,11 @@
   }
  ],
  "id": "nct:NCT07090499",
- "importance": 0.84,
+ "importance": 0.79,
  "key_points_ko": [
-  "목표 환자 수는 540명입니다.",
-  "방광암, 폐암, 두경부암, 식도암, 췌장암 등 진행성 고형암 환자를 대상으로 합니다.",
-  "시험용 약물인 PF-08046876은 정맥 주사로 투여됩니다."
+  "목표 연구 대상 인원은 총 540명입니다.",
+  "방광암, 폐암, 두경부암, 식도암, 췌장암을 포함한 진행성 고형암 환자가 참여 대상입니다.",
+  "연구 치료제인 PF-08046876은 정맥 주사(intravenous infusion)로 투여됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07090499"
  },
- "summary_ko": "이 연구는 방광암, 폐암, 두경부암, 식도암, 췌장암 등 진행성 암 환자를 대상으로 시험용 항암제인 PF-08046876의 안전성과 효과를 평가합니다. PF-08046876은 암세포에 부착되어 이를 사멸하도록 설계된 항체 약물 접합체(antibody drug conjugate, ADC)라는 항암 치료제입니다. 연구는 여러 단계로 진행되며, 용량 및 일정 탐색, 안전성이 확인된 용량 투여, 그리고 다른 항암제와의 병용 투여를 진행합니다. 목표 환자 수는 540명입니다.",
+ "summary_ko": "이 연구는 방광암, 폐암, 두경부암, 식도암, 췌장암 등 진행성 암 환자를 대상으로 시험약 PF-08046876의 안전성과 효과를 평가하기 위한 임상시험입니다. PF-08046876은 암세포에 부착하여 파괴하도록 설계된 항체 약물 접합체(antibody drug conjugate, ADC)라는 연구용 항암 치료제입니다. 임상시험은 여러 단계로 나누어 진행되며, 용량 및 일정 탐색, 안전성이 확인된 용량 투여, 그리고 다른 항암제와의 병용 투여를 평가합니다. 환자들은 연구 치료제를 정맥 주사로 투여받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "B6C",
@@ -60,7 +60,7 @@
   "HNSCC"
  ],
  "title": "A Study to Learn About the Study Medicine Called PF-08046876 in People With Advanced Solid Tumors",
- "title_ko": "진행성 고형암 환자를 대상으로 한 시험용 약물 PF-08046876 연구",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 연구 치료제 PF-08046876에 대한 연구",
  "trial": {
   "conditions": [
    "Advanced/Metastatic Solid Tumors",
@@ -84,7 +84,7 @@
     "phone": "1-800-718-1021"
    }
   ],
-  "eligibility_ko": "선정 기준: - 18세 이상 - 방광, 폐, 두경부, 식도 또는 췌장의 진행성 암 - 측정 가능한 병변 - ECOG 수행 능력 상태 0-1 - 파트 1: 표준 치료 후 진행 또는 재발 - 파트 2: 진행성 단계에서 최대 2차의 이전 전신 치료 - 파트 3: 폐 또는 방광의 진행성 암, 이전 치료 요구사항은 병용 치료군에 따라 다름 - 이전 항암 치료의 급성 부과 작용이 기저선 또는 1등급으로 회복됨 - 의학적으로 가능한 경우 사전 치료 종양 조직 제출 동의. 제외 기준: - 캄프토테신계 페이로드가 포함된 항체 약물 접합체(예: sacituzumab govitecan, trastuzumab deruxtecan)로 이전 치료를 받은 경우 - 프로토콜 제외 기준에 해당하는 활성 식욕부진, 메스꺼움 또는 구토, 그리고/또는 장 폐쇄 징후 - 프로토콜 제외 기준에 해당하는 폐 질환 - 프로토콜에 의해 정의된 기타 수용할 수 없는 이상 소견 - 파트 3: 프로토콜 및/또는 현지 라벨에 따른 병용 제품의 금기 사항에 해당하는 경우",
+  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 방광, 폐, 두경부, 식도 또는 췌장의 진행성 암\n* 측정 가능한 병변(measurable disease)\n* ECOG 수행능력 0-1\n* 1부: 표준 치료 이후 진행 또는 재발\n* 2부: 진행성 단계에서 최대 2가지의 이전 전신 치료\n* 3부: 폐 또는 방광의 진행성 암, 이전 치료 요구사항은 병용 요법 그룹에 따라 다름\n* 이전 항암 치료의 급성 부작용이 기저치 또는 1등급으로 회복됨\n* 의학적으로 가능한 경우 사전 치료 종양 조직 제출에 동의\n\n제외 기준:\n* 캠토테신 계열 페이로드(예: sacituzumab govitecan, trastuzumab deruxtecan)를 포함하는 항체 약물 접합체로 이전 치료를 받은 적이 있는 경우\n* 프로토콜 제외 기준에 해당하는 활동성 식욕부진, 메스꺼움 또는 구토, 그리고/또는 장 폐쇄 징후\n* 프로토콜 제외 기준에 해당하는 폐 질환\n* 프로토콜에 의해 정의된 기타 허용되지 않는 이상 소견\n* 3부: 프로토콜 및/또는 현지 라벨에 따른 병용 제품의 금기 사항에 해당하는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* 18 years of age or older\n* Advanced cancer of the bladder, lung, head and neck, esophagus, or pancreas\n* Measurable disease\n* ECOG Performance status 0-1\n* Part 1: progression or relapse following standard treatments\n* Part 2: maximum of 2 prior lines of systemic therapy in the advanced setting\n* Part 3: advanced cancer of the lung or bladder, prior treatment requirements vary by combination therapy group\n* Resolution of acute effects of prior anticancer therapy to baseline or Grade 1\n* Consent to submit required pre-treatment tumor tissue as medically feasible\n\nExclusion criteria:\n\n* Received prior treatment with an antibody drug conjugate with a camptothecin-class payload (e.g. sacituzumab govitecan, trastuzumab deruxtecan )\n* Active anorexia, nausea or vomiting, and/or signs of intestinal obstruction meeting protocol exclusion\n* Pulmonary disease meeting protocol exclusion\n* Other unacceptable abnormalities as defined by protocol\n* Part 3: Meet contraindications of combination products per protocol and/or local labels",
   "enrollment": 540,
   "has_results": false,
@@ -108,17 +108,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "캠토테신 계열 페이로드를 사용하는 항체 약물 접합체(ADC) 치료 경험이 있는 경우",
+    "활동성 식욕부진, 메스꺼움, 구토 또는 장 폐쇄 징후가 있는 경우",
+    "프로토콜 기준에 해당하는 폐 질환이 있는 경우"
+   ],
+   "max_prior_lines": 2,
    "measurable_required": true,
    "min_prior_lines": 2,
-   "notes_ko": "",
+   "notes_ko": "방광암, 폐암, 두경부암, 식도암 또는 췌장암을 앓고 있는 진행성 고형암 환자를 위한 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

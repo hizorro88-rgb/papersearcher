@@ -22,9 +22,9 @@
  "id": "nct:NCT07814859",
  "importance": 0.82,
  "key_points_ko": [
-  "목표 환자 수는 약 88명이며 절제 불가능한 국소 진행성 및 전이성 췌장암 환자를 대상으로 합니다.",
-  "주요 유효성 평가변수는 무진행 생존기간(PFS)입니다.",
-  "치료 요법은 Relafen-α, famitinib, nab-paclitaxel, gemcitabine의 병용으로 구성됩니다."
+  "대상 질환은 수술 불가 국소 진행성 및 전이성 췌장암 환자 88명입니다.",
+  "1차 유효성 평가변수는 무진행 생존기간(PFS)입니다.",
+  "치료 요법은 Retlirafusp alfa, famitinib, nab-paclitaxel, gemcitabine 병용으로 구성됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07814859"
  },
- "summary_ko": "이 임상시험은 절제 불가능한 국소 진행성 및 전이성 췌장암 환자 88명을 대상으로 합니다. Relafen-α(Retlirafusp alfa), famitinib, nab-paclitaxel, gemcitabine 병용 요법의 유효성과 안전성을 평가하는 단일군, 다기관, 공개 2상 임상시험입니다. 주요 유효성 평가변수는 무진행 생존기간(PFS)입니다. 환자들은 질병이 진행되거나 참을 수 없는 독성이 나타날 때까지 치료를 받습니다.",
+ "summary_ko": "이 연구는 수술이 불가능한 국소 진행성 및 전이성 췌장암 환자를 대상으로 Retlirafusp alfa(렐라펜-알파), famitinib(파미티닙), nab-paclitaxel(납-파클리탁셀), gemcitabine(젬시타빈) 병용요법의 유효성과 안전성을 평가하는 단일군, 전향적, 다기관, 공개 2상 임상시험입니다. 총 88명의 환자가 참여하며, 무진행 생존기간(PFS)을 1차 유효성 평가변수로 설정했습니다. 환자들은 질병 진행 또는 허용 불가능한 독성이 발생할 때까지 치료를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Retlirafusp Alfa Combined With Famitinib, Nab-Paclitaxel and Gemcitabine for First-Line Treatment of Patients With Unresectable Pancreatic Cancer",
- "title_ko": "절제 불가능한 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Gemcitabine 병용 요법",
+ "title_ko": "수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Gemcitabine 병용요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -65,7 +65,7 @@
     "phone": "13937150977"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세에서 80세 사이의 모든 성별\n- 조직학적으로 확진된 췌장 도관 선암종(pancreatic ductal adenocarcinoma)\n- 영상 검사로 확인된 절제 불가능한 질환 또는 원격 전이\n- 미국동부암연구협회(ECOG) 전신 상태 평가 0-1\n- 예상 생존기간 12주 이상\n- 이전 전신 항암 치료력 없음\n\n제외 기준:\n- Retlirafusp alfa, famitinib, gemcitabine, 앨부민 결합 파클리탁셀(nab-paclitaxel) 또는 그 부형제에 과민증이 있는 자\n- 췌장선세포암, 췌장 신경내분비종양 등 다른 췌장 악성종양이 조직학적으로 확진된 자\n- 임상 증상이 있는 중등도 이상의 흉수, 심낭수, 복수가 있는 자\n- 장기 이식 병력이 있는 자\n- 이전 전신 항암 치료를 받은 자",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 80세 이하의 성인\n- 조직학적으로 확진된 췌관선암(pancreatic ductal adenocarcinoma)\n- 영상 검사로 확인된 수술 불가 국소 진행성 또는 원격 전이성 췌장암\n- 동유럽종양학협력체(ECOG) 수행능력 상태 0~1\n- 예상 생존기간 12주 이상\n- 이전에 전신 항암 치료를 받은 적이 없는 환자\n\n제외 기준:\n- Retlirafusp alfa, famitinib, gemcitabine, nab-paclitaxel 또는 그 부형제에 과민반응이 있는 자\n- 췌장 선세포암, 췌장 신경내분비종양 등 다른 췌장 악성종양이 확인된 자\n- 임상적 증상이 있어 자주 배액이 필요한 중등도 이상의 흉수, 심낭수, 복수가 있는 자\n- 이전에 전신 항암 치료를 받은 자\n- 조절되지 않거나 활동성인 중증 감염이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Aged between 18 and 80 years, of any gender;\n2. Histopathologically-confirmed diagnosis of pancreatic ductal adenocarcinoma;\n3. Unresectable disease or distant metastasis confirmed by imaging evidence. Unresectable pancreatic ductal adenocarcinoma is defined as patients with distant metastasis, or a subset of locally advanced pancreatic cancer (LAPC) with invasion of surrounding major blood vessels that cannot be resected and reconstructed;\n4. Eastern Cooperative Oncology Group (ECOG) performance status: 0-1;\n5. Expected survival ≥ 12 weeks;\n6. No prior systemic anti-cancer treatment;\n7. Adequate function of major organs;\n8. Baseline hematology and blood biochemistry shall meet the following criteria:\n\n   White blood cell count ≥ 3.0 × 10⁹/L; hemoglobin ≥ 90 g/L; absolute neutrophil count ≥ 1.5 × 10⁹/L; platelet count ≥ 100 × 10⁹/L; alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 × upper limit of normal (ULN); total bilirubin ≤ 2 × ULN; serum creatinine ≤ 1.5 × ULN; albumin ≥ 30 g/L;\n9. Females of child-bearing potential must agree to use effective contraception (e.g., intrauterine device, oral contraceptives, condoms) throughout the study and for 6 months after study completion, have a negative serum or urine pregnancy test within 7 days prior to enrollment, and shall not be breastfeeding. Male subjects must agree to use effective contraception throughout the study and for 6 months after the end of study treatment;\n10. Subjects voluntarily participate in this study, provide written informed consent, have good compliance, and are willing to complete follow-up assessments.\n\nExclusion Criteria:\n\n1. Subjects with hypersensitivity to Retlirafusp alfa, famitinib, gemcitabine, albumin-bound paclitaxel or their excipients;\n2. Histopathologically-confirmed other pancreatic malignancies, such as pancreatic acinar cell carcinoma, pancreatic neuroendocrine tumor;\n3. Moderate-to-large pleural effusion, pericardial effusion or ascites with clinical symptoms, which requires frequent drainage (≥ 1 time per week) as judged by the investigator;\n4. History of organ transplantation (including autologous bone-marrow transplantation and peripheral stem-cell transplantation);\n5. Prior receipt of systemic anti-cancer therapy;\n6. Active or uncontrolled severe infection (≥ Grade 2 infection according to CTCAE 5.0), including but not limited to hospitalization due to infectious complications, bacteremia or severe pneumonia; unexplained fever \\> 38.5 °C before the first dose;\n7. Subjects with a history of psychoactive substance abuse that cannot be discontinued, or with psychiatric disorders;\n8. History of or concurrent other malignant tumors requiring active treatment within the past 5 years (except for fully-treated basal-cell or squamous-cell skin cancer, carcinoma in situ of the cervix and carcinoma in situ of the breast with an expected 5-year survival rate \\> 90 %);\n9. Presence of uncorrectable coagulation disorders;\n10. Clinically significant cardiovascular diseases, including but not limited to acute myocardial infarction, severe/unstable angina or coronary-artery bypass grafting within 6 months prior to enrollment; New York Heart Association (NYHA) class ≥ 2 congestive heart failure; ventricular arrhythmias requiring pharmacotherapy (including baseline QTc interval calculated by Fridericia's correction formula (QTcF): ≥ 450 ms for males and ≥ 470 ms for females); left-ventricular ejection fraction (LVEF) \\< 50 %;\n11. Subjects with radiologically-confirmed tumor invasion into major blood vessels, or those judged by the investigator to be at high risk of life-threatening massive hemorrhage due to subsequent tumor invasion of major blood vessels during the study;\n12. Subjects with active autoimmune disease, immunodeficiency, or a medical history including, but not limited to, autoimmune hepatitis, interstitial pneumonia, uveitis, rheumatoid arthritis, inflammatory bowel disease, hypophysitis, vasculitis, nephritis are excluded. Exceptions: subjects with a history of autoimmune hypothyroidism receiving thyroid-hormone replacement therapy are eligible. Subjects with type 1 diabetes mellitus whose blood-glucose level is well-controlled with insulin regimens may be enrolled;\n13. Subjects receiving immunosuppressants or systemic corticosteroids for immunosuppressive purposes (\\> 10 mg/day prednisone or equivalent dose of other glucocorticoids) and continuing such treatment within 2 weeks before enrollment;\n14. Arterial or venous thromboembolic events within 3 months prior to the first dose, such as cerebrovascular accident (including transient ischemic attack, cerebral hemorrhage, cerebral embolism), deep-vein thrombosis and pulmonary embolism;\n15. Gastrointestinal diseases or conditions that, in the investigator's opinion, may affect drug absorption, including but not limited to active gastric/duodenal ulcer, ulcerative colitis, un-resected gastrointestinal tumor with active bleeding, or other conditions at risk of gastrointestinal bleeding or perforation as assessed by the investigator; multiple factors interfering with oral-drug administration (e.g. inability to swallow, post-gastrointestinal resection, chronic diarrhea, intestinal obstruction);\n16. Uncontrolled hypertension despite medication, defined as systolic blood pressure \\> 150 mmHg or diastolic blood pressure \\> 100 mmHg;\n17. Major surgery (excluding biopsy) performed within 28 days prior to enrollment, or incompletely-healed surgical incision;\n18. Receipt of any other investigational product or participation in another interventional clinical trial within 4 weeks before informed-consent signature;\n19. Pregnant women (positive pregnancy test before drug administration) or breastfeeding women;\n20. Subjects deemed unsuitable for enrollment at the investigator's discretion.",
   "enrollment": 88,
   "has_results": false,
@@ -83,19 +83,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 전신 항암 치료 경험",
+    "조절되지 않는 중증 감염",
+    "다른 장기 이식 병력",
+    "과거 5년 이내 다른 악성종양 병력"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 불가 국소 진행성 또는 전이성 췌장암 환자를 위한 1차 치료 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "adjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "80 Years",
   "min_age": "18 Years",

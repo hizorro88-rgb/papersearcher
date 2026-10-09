@@ -22,10 +22,9 @@
  "id": "nct:NCT05132504",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 AJCC 병기 I, II, III기의 국소 절제 가능한 췌장 도관 선암종(pancreatic ductal adenocarcinoma) 환자 30명입니다.",
-  "중재 치료는 수술 전 FOLFIRINOX와 pembrolizumab(펨브롤리주맙) 병용요법입니다.",
-  "환자들은 수술 전 6주기의 FOLFIRINOX와 2주기의 pembrolizumab을 투여받고 수술을 시행합니다.",
-  "수술 후에는 5FU 기반 화학요법을 최대 6주기, pembrolizumab을 7주기 추가로 투여받아 총 9회의 pembrolizumab 6주 간격(Q6week) 주기를 완료합니다."
+  "목표 환자 수는 30명의 수술 가능 췌장암 환자입니다.",
+  "수술 전 6주기 FOLFIRINOX와 2주기의 pembrolizumab(펨브롤리주맙)을 투여합니다.",
+  "수술 후 최대 6주기의 5FU 기반 항암화학요법과 7주기의 pembrolizumab(펨브롤리주맙)을 추가로 투여합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05132504"
  },
- "summary_ko": "이 연구는 국소 절제 가능한 췌장 腺암종(pancreatic ductal adenocarcinoma) 환자를 대상으로 수술 전 FOLFIRINOX 화학요법과 pembrolizumab(펨브롤리주맙)을 병용하고 수술을 시행하는 2상 임상시험입니다. 연구진은 수술 전 FOLFIRINOX와 항 PD-1 단일클론항체인 pembrolizumab의 병용 투여가 안전하고 타당하며, 종양 내 면역세포를 증가시켜 임상적 반응을 향상시킬 것으로 가정합니다. 환자들은 수술 전 FOLFIRINOX 6주기 및 pembrolizumab 2주기를 투여받고 수술을 진행합니다. 수술 후에는 5FU 기반 화학요법과 추가 pembrolizumab 치료를 받게 되며, 목표 환자 수는 30명입니다.",
+ "summary_ko": "이 연구는 국소적이고 수술 가능한(resectable) 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 선행화학요법으로 FOLFIRINOX(폴피리녹스)와 pembrolizumab(펨브롤리주맙)을 병용 투여한 뒤 수술을 시행하고, 수술 후 보조치료로 5FU 기반 항암화학요법과 pembrolizumab(펨브롤리주맙)을 추가 투여하는 2상 임상시험입니다. 연구진은 수술 전 FOLFIRINOX와 면역관문억제제 병용이 안전하고 타당하며, 수술로 절제한 췌장 종양 내 면역세포를 증가시켜 임상적 반응을 향상시킬 것으로 가정합니다. 목표 환자 수는 30명이며 참여 기간은 약 16개월입니다.",
  "summary_source": "llm",
  "tags": [
   "pembrolizumab",
@@ -59,7 +58,7 @@
   "folfirinox"
  ],
  "title": "Neoadjuvant Folfirinox Combined With Pembrolizumab Followed by Surgery for Patients With Resectable Pancreatic Cancer",
- "title_ko": "절제 가능 췌장암 환자를 위한 수술 전 펨브롤리주맙을 병용한 FOLFIRINOX 화학요법 및 수술",
+ "title_ko": "수술 가능 췌장암 환자를 위한 펨브롤리주맙 병용 선행화학요법(FOLFIRINOX) 후 수술",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
@@ -76,7 +75,7 @@
     "phone": "713-798-4292"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상이며 조직학적 또는 세포학적으로 확진된 국소 절제 가능한 췌장 선암종 환자\n- 상장간막동맥(SMA) 및 간동맥으로의 침윤이 없고, 180도 미만의 접촉을 보이는 개존성 상장간막정맥/문맥(SMV/PV)을 가짐\n- 원격 전이의 증거가 없음\n- ECOG 수행능력 평가(PS) 0-1점\n- 이전 췌장암에 대한 화학요법이나 방사선 치료를 받은 적이 없음\n- 적절한 조혈, 신장, 간 기능 유지\n\n제외 기준:\n- 경계성 절제 가능, 국소 진행성 절제 불가능 또는 원격 전이성 질환이 있는 환자\n- 신경내분비종양, 선鳞암종, 췌장 림프종, 앰풀러 암 환자\n- 전신 치료가 필요한 활성 상태의 조절되지 않는 감염이 있는 환자\n- HIV 감염이 확인된 환자\n- 등록 전 4주 이내에 진단 수술을 제외한 주요 수술을 받은 환자\n- 연구 약물에 대한 알레르기나 과민증 병력이 있는 환자\n- 2년 이내에 진행 중이거나 적극적인 치료가 필요한 다른 악성 종양이 있는 환자\n- 등록 전 1년 이내에 임상적으로 유의미한 심혈관 질환이 있는 환자\n- 2등급 이상의 말초 신경병증 증거가 있는 환자\n- 이전에 anti-PD-1, anti-PD-L1, anti-PD-L2 치료를 받은 적이 있는 환자",
+  "eligibility_ko": "선정 기준: \n- 18세 이상, 조직학적으로 확진된 국소적이며 잠재적으로 수술 가능한 췌장 선암 환자\n- 원격 전이가 없고 주요 동맥(상장간막동맥, 간동맥, 복강동맥) 침습이 없는 경우\n- 이전 췌장암에 대한 항암화학요법이나 방사선 치료를 받지 않은 환자\n- ECOG 수행능력 상태 0-1인 환자\n- 적절한 조혈, 신장, 간 기능 유지\n\n제외 기준: \n- 경계성 절제 가능, 국소 진행성 절제 불가 또는 원격 전이성 질환이 있는 환자\n- 신경내분비종양, 선鳞암, 췌장 림프종, 팽대부암 환자\n- 전신 치료가 필요한 활동성 및 조절되지 않는 감염이 있는 환자\n- HIV 감염이 확인된 환자\n- 4주 이내에 진단 목적 외 주요 수술을 받은 환자\n- 면역항암제(anti-PD-1, anti-PD-L1, anti-PD-L2 등) 또는 유사 계열 약물 치료 경험이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patient is ≥18 years of age and has histologically or cytologically confirmed localized adenocarcinoma of the pancreas that is potentially resectable. Patients with islet cell or other neuroendocrine neoplasms are excluded.\n2. Definition of localized, potentially resectable disease: a) Adequate CT or MRI to determine staging and eligibility based on radiologic interpretation. b) No extension to superior mesenteric artery (SMA) and hepatic artery. Patent superior mesenteric vein/portal vein (SMV/PV) with \\< 180-degree abutment and no evidence of invasion. c) Clear fat plane between the SMA and celiac axis. d) No extension to celiac axis and hepatic artery. e) Patent superior mesenteric vein and portal vein. f) No evidence of distant metastatic disease 3. If a female patient is of childbearing potential, she must have a negative urine pregnancy test documented within 72 hours of first intervention. 4. Fertile participants must use contraception considered adequate and appropriate as stated in Appendix 3 (pages 61-62).\n\n5\\. Male participants: A male participant must agree to use contraception as detailed in Appendix 3 of this protocol during the treatment period and for at least 220 days after the last dose of study treatment and refrain from donating sperm during this period.\n\n6\\. Patient must not have received prior chemotherapy or radiation for pancreatic cancer. 7. Patient has an ECOG performance status PS 0-1. 8. Patient has been informed about the nature of the study, and has agreed to participate in the study, and signed the Informed Consent Form before participation in any study-related activities.\n\n9\\. A female participant is eligible to participate if:\n\na. Not a woman of childbearing potential (WOCBP) as defined in Appendix 3 (pages 61-62). OR b. A WOCBP who is not pregnant, not breastfeeding, and agreeing to use proper contraception defined by the protocol (Appendix 3 \\[pages 61 - 62\\] and Table 18 \\[page 63\\]) for at least 160 days after the last dose of study treatment.\n\n10\\. Have adequate organ function as defined in the following table (Table 3). Specimens must be collected within 14 days before the start of interventions.\n\nHematological Absolute neutrophil count (ANC) ≥1500/μL Platelets ≥100 000/μL Hemoglobin ≥9.0 g/dL or ≥5.6 mmol/La Renal Creatinine OR Measured or calculated creatinine clearance (GFR can also be used in place of creatinine or CrCl) ≤1.5 × ULN OR ≥30 mL/min for participant with creatinine levels \\>1.5 × institutional ULN Hepatic Total bilirubin ≤1.5 ×ULN OR direct bilirubin ≤ULN for participants with total bilirubin levels \\>1.5 × ULN AST (SGOT) and ALT (SGPT) ≤2.5 × ULN (≤5 × ULN for participants with liver metastases) Coagulation International normalized ratio (INR) OR prothrombin time (PT) Activated partial thromboplastin time (aPTT) ≤1.5 × ULN unless participant is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants\n\nExclusion Criteria:\n\n1. Patient has borderline resectable, locally advanced unresectable, or advanced metastatic disease. Patients with neuroendocrine tumors, adenosquamous cancer, lymphoma of the pancreas, or ampullary cancer are also ineligible.\n2. Patient has active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy.\n3. Patient has known infection with HIV.\n4. Patient has undergone major surgery, other than diagnostic surgery (-e.g. diagnostic laparoscopy or placement of a central venous catheter), within 4 weeks before registration.\n5. Patient has a history of allergy or hypersensitivity to the study drugs.\n6. Patient has serious medical risk factors involving any of the major organ systems such that the Investigator considers it unsafe for the patient to receive chemotherapy and/or radiation therapy.\n7. Has a known additional malignancy that is progressing or has required active treatment within the past 2 years. Participants with basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ (eg, breast carcinoma, cervical cancer in situ) that have undergone potentially curative therapy are not excluded.\n8. Patient has had clinically significant cardiovascular disease (including myocardial infarction, unstable angina, symptomatic congestive heart failure, serious uncontrolled cardiac arrhythmia) ≤ 1 year before registration.\n9. Patient is unwilling or unable to comply with study procedures.\n10. Patient is enrolled in any other therapeutic clinical protocol or investigational trial.\n11. Patients aged ≥ 80 are not excluded. However, candidates in this age group should be thoroughly evaluated before registration in the study, to ensure they are fit to receive chemotherapy, and to potentially undergo pancreaticoduodenectomy. In addition to meeting all of the baseline patient selection criteria, clinical judgment on their susceptibility to infection and expected stability of their performance status and suitability to receive intensive chemotherapy cycles, should be paid special attention to. Patients should not be enrolled in the study should there be any hesitation on any of these considerations. Baseline criteria for all patients enrolled in the study must be carefully evaluated and all criteria followed appropriately.\n12. Patient has evidence of peripheral neuropathy Grade 2 or higher.\n13. A WOCBP who has a positive urine pregnancy test within 72 hours prior to first intervention (see Appendix 3). If the urine test is positive or cannot be confirmed as negative, a second urine pregnancy test will be required. In the event that 72 hours have elapsed between the screening pregnancy test and the first dose of study treatment, another urine pregnancy test must be performed and must be negative in order for the subject to start receiving study medication.\n14. Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (eg, CTLA-4, OX-40, CD137).\n15. Has received a live vaccine or live-attenuated vaccine within 30 days prior to the first dose of study drug.\n16. Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study intervention.\n17. Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug.\n18. Has active autoimmune disease that has required systemic treatment in the past 2 years (i.e. with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs). Replacement therapy (eg., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment and is allowed.\n19. Has a history of (non-infectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n20. Has a known history of Hepatitis B (defined as Hepatitis B surface antigen \\[HBsAg\\] reactive) or known active Hepatitis C virus (defined as detectable HCV by RNA) infection. Note: no testing for Hepatitis B and Hepatitis C is required unless mandated by local health authorities.\n21. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the participant's participation for the full duration of the study, or is not in the best interest of the participant to participate, in the opinion of the treating investigator.\n22. Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n23. Has had an allogenic tissue/solid organ transplant.",
   "enrollment": 30,
   "has_results": false,
@@ -93,21 +92,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "경계성 절제 가능 또는 전이성 췌장암",
+    "활동성 감염",
+    "HIV 감염",
+    "이전 면역항암제 치료력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 가능 췌장암 환자를 위한 선행치료 2상 임상시험",
    "prior_excluded": [
-    "immunotherapy"
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

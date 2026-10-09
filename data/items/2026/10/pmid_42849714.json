@@ -1,0 +1,59 @@
+{
+ "abstract": "Resection of locally advanced adenocarcinoma of the head of the pancreas with occlusion of the superior mesenteric vein and involvement of the splenomesenteric-portal confluence (EMP) requires venous clamping, which is sometimes prolonged, with a risk of intestinal ischemia. The use of temporary venous shunts from the mesenteric territory to the caval vein or from the mesenteric territory to the portal vein has proven to be a useful tool for safely removing the tumour. In this article, we present our experience in four cases performed in 2025 at our centre, with special emphasis on the technical details presented. Furthermore, 3 of them have required arterial resection with preoperative embolization; these being the first published cases combining both technical strategies. In conclusion, the use of temporary mesocaval or mesoportal venous shunts enables the safe resection of pancreatic tumours with extensive involvement of the splenomesenteric-portal confluence. The association of arterial resection with preoperative embolization in this setting is technically feasible and can be performed safely.",
+ "authors": [
+  "Busquets J",
+  "Peláez N",
+  "Secanella L",
+  "Sorribas M",
+  "Iborra E"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42849714",
+ "importance": 0.57,
+ "key_points_ko": [
+  "2025년 단일 기관에서 상장간막정맥 폐색이 동반된 국소 진행성 췌장암 환자 4명의 수술 경험을 분석했습니다.",
+  "임시 장간막-하대정맥 또는 장간막-간문맥 우회술을 통해 정맥 차단 시 발생하는 장 허혈 위험을 방지하며 절제를 진행했습니다.",
+  "환자 3명에서는 수술 전 색전술과 동맥 절제를 병행하여 종양을 안전하게 절제했습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1016/j.cireng.2026.800395",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42849714"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cir Esp (Engl Ed)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42849714/"
+ },
+ "summary_ko": "상장간막정맥(SMV) 폐색과 비장-장간막-간문맥 합류부(EMP) 침범이 있는 국소 진행성 췌장 두부암의 수술 경험을 정리한 연구입니다. 수술 중 정맥 차단으로 인한 장 허혈(intestinal ischemia) 위험을 줄이기 위해 임시 정맥 우회술(temporary venous shunt)을 시행한 4개 증례를 분석했습니다. 이 중 3명은 수술 전 색전술(preoperative embolization)과 동맥 절제를 병행했습니다. 임시 우회술과 수술 전 색전술을 조합하여 광범위한 정맥 및 동맥 침범이 있는 췌장암 절제를 기술적으로 안전하게 시행할 수 있음을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Technical options in the occlusion of the superior mesenteric vein for locally advanced pancreatic cancer",
+ "title_ko": "국소 진행성 췌장암에서 상장간막정맥 폐색 시 수술적 기술 대안",
+ "trial": null,
+ "type": "paper"
+}

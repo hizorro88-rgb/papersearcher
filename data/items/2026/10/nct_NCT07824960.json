@@ -22,10 +22,9 @@
  "id": "nct:NCT07824960",
  "importance": 0.82,
  "key_points_ko": [
-  "목표 환자 수는 총 31명입니다.",
-  "연구는 전이성 환자를 위한 파트 A와 수술 불가 국소 진행성 환자를 위한 파트 B로 나누어 진행됩니다.",
-  "참가자들은 화학요법과 함께 28일 주기로 최대 6주기 동안 연구 약물을 복용합니다.",
-  "초록에 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다."
+  "목표 연구 참여 인원은 총 31명입니다.",
+  "참가자들은 mFOLFIRINOX와 함께 avutometinib 및 defactinib을 28일 주기로 최대 6주기 동안 투여받습니다.",
+  "파트 B 환자들의 경우 4주기와 6주기 후 질병을 재평가하여 수술 가능성을 검토합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07824960"
  },
- "summary_ko": "본 연구는 췌장관선암(PDAC) 환자를 대상으로 먹는 임상시험 약물인 avutometinib(아부토메티닙)과 defactinib(데파티닙)의 안전성을 평가합니다. 연구자들은 또한 이 약물들이 종양 성장을 늦추고 수술을 위해 종양을 줄일 수 있는지 확인하고자 합니다. 파트 A는 전이성 췌장암 환자를 대상으로 하며, 파트 B는 전이는 없으나 수술이 불가능한 환자를 대상으로 합니다. 참가자들은 기존 항암화학요법과 함께 두 약물을 투여받게 됩니다.",
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자를 대상으로 경구용 연구 약물인 avutometinib(아부토메티닙)과 defactinib(데파티닙)의 안전성을 확인하고 종양 성장을 늦추거나 크기를 줄여 수술 가능성을 높일 수 있는지 평가하기 위한 1/2상 임상시험입니다. 파트 A는 다른 부위로 암이 전이된 환자를 대상으로 하며, 파트 B는 암이 전이되지 않았으나 수술이 불가능한 국소 진행성 환자를 대상으로 합니다. 참가자들은 mFOLFIRINOX 항암화학요법과 함께 연구 약물을 28일 주기로 최대 6주기 동안 복용하게 됩니다. 초록에 명시된 구체적인 생존기간, 반응률, 위험비 등의 결과는 아직 도출되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "avutometinib",
@@ -62,7 +61,7 @@
   "MEK inhibitor"
  ],
  "title": "Neoadjuvant Avutometinib/Defactinib and mFOLFIRINOX Combination Therapy in Pancreatic Adenocarcinoma",
- "title_ko": "진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험",
+ "title_ko": "전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -82,7 +81,7 @@
     "phone": "(434) 297-5724"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 서면 동의서 제출 2. 18세 이상 성인 3. 연구 절차 준수 가능자 4. 경구 약물 복용 가능자 5. mFOLFIRINOX 투여 가능자 6. ECOG 수행 능력 상태 0-1 7. 조직학적으로 확진된 췌장 선암(파트 A: 전이성 췌장암, 파트 B: 절제 불가능한 경계성 또는 국소 진행성 PDAC) 8. 췌장암에 대한 이전 전신 또는 국소 치료력이 없는 자 9. RECIST 1.1 기준에 따른 측정 가능한 병변 존재 10. 적절한 장기 기능 보유 11. 교정 QT 간격(QTc) 480 밀리초(ms) 이하. 제외 기준: 1. 췌장 신경내분비종양 등 기타 조직학적 암 환자 2. 췌장관선암에 대한 이전 치료력 3. 원격 전이 존재(파트 B만 해당) 4. 증상이 있는 복수 또는 등록 전 2주 이내 복수 천자 필요 환자 5. 등록 전 4주 이내 대수술력 6. 최근 5년 이내 다른 악성종양 병력 7. 최근 6개월 이내 RAS/MAPK 경로 억제제 또는 FAK 억제제 치료력 8. 등록 전 5일 이내 와파린 복용 환자 9. 강한 CYP3A4 또는 CYP2C9 억제제/유도제 필요 환자 10. UGT1A1 결핍 환자 11. 등록 전 30일 이내 생백신 접종 12. 활성 상태의 조절되지 않는 감염 13. 활성 HIV 감염 14. 활성 B형 또는 C형 간염 15. 전신 치료가 필요한 활성 피부 질환 16. 동반 안과 질환 17. 간질성 폐질환 또는 폐섬유증 병력 18. 장기 가정용 산소가 필요한 심폐 질환 19. 뉴욕심장협회(NYHA) 기준 III/IV급 울혈성 심부전 등 심장 질환 20. 면역억제제 또는 골수억제제 투여 환자",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 제공한 자\n- 18세 이상 성인\n- 모든 연구 절차를 준수할 의향이 있는 자\n- 경구 약물 복용이 가능하고 연구 요법을 따를 의향이 있는 자\n- mFOLFIRINOX 투여가 가능한 자\n- 동유럽종양학협력그룹(ECOG) 수행능력 상태가 0~1인 자\n- 조직학적 또는 세포학적으로 확진된 췌장 선암 (파트 A: 전이성 췌장암, 파트 B: 일차적 수술 절제가 불가능한 경계성 절제 가능 또는 국소 진행성 PDAC)\n- 췌장암에 대한 이전 전신 또는 국소 치료력이 없는 자\n- CT 또는 MRI로 측정이 가능한 병병이 적절히 존재하는 자\n- 적절한 장기 기능을 갖춘 자\n\n제외 기준:\n- 췌장 신경내분비종양, 도세포종, 점액성 낭성, 아세나 또는 편평세포 조직학적 진단을 받은 환자\n- 췌관선암에 대한 이전 치료력이 있는 환자\n- 원격 전이가 있는 환자 (파트 B에 한함)\n-등록 전 2주 이내에 증상이 있는 복수가 있거나 복수 천자가 필요한 환자\n- 등록 전 4주 이내에 주요 수술을 받은 환자\n- RAS/MAPK 경로 억제제 또는 FAK 억제제 치료력이 6개월 이내에 있는 환자\n- 간질성 폐질환(ILD) 또는 폐섬유증 병력이 있는 환자\n- 뉴욕심장협회(NYHA) 기준 III/IV 단계의 울혈성 심부전, 6개월 이내의 심근경색, 불안정성 부정맥 또는 협심증이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Provision of signed and dated informed consent form.\n2. Individuals ≥ 18 years of age.\n3. Stated willingness to comply with all study procedures and availability for the duration of the study.\n4. Ability to take oral medication and be willing to adhere to the study intervention regimen.\n5. Ability to receive mFOLFIRINOX.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n7. Adenocarcinoma of the pancreas, confirmed by histology or cytology.\n\n   1. Part A: Metastatic pancreatic cancer\n   2. Part B: Borderline resectable or locally advanced PDAC not eligible for primary surgical resection per institutional standards and following a multidisciplinary discussion at local tumor board\n8. No prior systemic or localized treatment for PDAC.\n9. Radiographically measurable disease of at least one site by computed tomography (CT) or magnetic resonance (MR) imaging, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1.\n10. Individuals must have adequate organ function defined by the following laboratory parameters:\n\n    Absolute neutrophil count (ANC): ≥ 1500/mm3 Platelets: ≥100,000/mm3 Hemoglobin: ≥9 g/dL Serum Creatinine: ≤ 1.5 x ULN or creatinine clearance rate of ≥ 50 mL/min as calculated by the Cockcroft-Gault formula Bilirubin: ≤ 1.5 x ULN (except in patients with Gilbert's disease, where bilirubin to 3x ULN is allowed).\n\n    AST and ALT: ≤ 2.5 x ULN or ≤ 5 x ULN for patients with liver metastasis INR: ≤ 1.5 x ULN in the absence of anticoagulation or therapeutic levels in the presence of anticoagulation Creatine phosphokinase (CPK): ≤ 2.5 x ULN\n11. Baseline corrected QT interval (QTc) interval ≤ 480 millisecond (ms) (CTCAE v5.0, Grade 0-1) using Fridericia's QT correction formula.\n\n    * Patients with a left bundle branch block (LBBB) \\> 480 ms will need their QTc calculated by Bazett (QTc = QT(measured) - 0.5 × QRS(LBBB)).\n\nExclusion Criteria:\n\n1. Patients with pancreatic neuroendocrine tumors (PNET), islet cell tumors, mucinous cystic, acinar or squamous (≥ 50%) histology are excluded.\n2. Prior treatment for pancreatic ductal adenocarcinoma.\n3. Presence of distant metastases (Part B only).\n4. Presence of symptomatic ascites or the need for paracentesis within 2 weeks prior to registration.\n5. Major surgery within 4 weeks (excluding placement of vascular access) of registration.\n6. Patients with a prior or concurrent malignancy within past 5 years whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of the investigational regimen. Examples of malignancies that may be permitted include non-melanoma skin cancer, localized prostate cancer treated with curative intent or under active surveillance, localized thyroid cancer (papillary or follicular), non-muscle invasive low-grade bladder cancer, resected gastrointestinal stromal tumor, stage I testicular cancer post orchiectomy, WHO (World Health Organization) grade 1 meningioma.\n7. Prior treatment with either inhibitors of the RAS/MAPK pathway \\[e.g., MEK inhibitors\\] or inhibitors of FAK within the last 6 months.\n8. Patients on treatment with warfarin within 5 days of registration. Patients on warfarin for deep vein thrombosis or pulmonary embolism can be converted to low-molecular-weight heparin or direct oral anticoagulants (DOACs).\n9. Participants requiring medications or supplements with potential for drug-drug interactions, specifically strong CYP3A4 or CYP2C9 inhibitors or inducers (Table 7). Participants must be off these medications for 7 days prior to the first dose of study intervention(s). These substances should also be avoided during the course of therapy.\n10. Patients with known UGT1A1 deficiency based on genetic analysis of the UGT1A1 gene.\n11. Receipt of live vaccines (not limited to the following: measles, mumps, rubella, chicken pox, yellow fever, rabies, BCG) within 30 days of registration. Seasonal influenza vaccines for injection are generally killed virus vaccines and are permitted. However, intranasal influenza vaccines (e.g., FluMist®) are live attenuated vaccines and are not permitted.\n12. Active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy.\n13. Active Human Immunodeficiency Virus (HIV) infection, unless patient is on effective anti-retroviral therapy and was shown to have a negative viral load within 6 months of registration.\n14. Active Hepatitis B Virus (HBV) or Hepatitis C (HCV) infection, unless patient is on antiviral therapy and was shown to have a negative viral load test within 6 months of registration.\n15. Active skin disorder that requires current systemic therapy.\n16. Concurrent ocular disorders:\n\n    * Patients with history of glaucoma or history of retinal vein occlusion (RVO).\n    * Patients with history of retinal pathology or evidence of visible retinal pathology that is considered a risk factor for RVO.\n    * Patients with active or chronic, visually significant corneal disorders, other active ocular conditions requiring ongoing therapy that prevent adequate monitoring of drug-induced keratopathy. Examples of visually significant corneal disorders include corneal degeneration, active or recurrent keratitis, and other forms of serious ocular surface inflammatory conditions. Visually significant corneal disorders do NOT include dry eyes, blepharitis, and uncomplicated corneal erosions.\n17. Patients with history of interstitial lung disease (ILD) or pulmonary fibrosis.\n18. Patients with history of severe obstructive pulmonary disease on long-term, home oxygen.\n19. Patients with congestive heart failure III/ IV cardiac disease (New York Heart Association \\[NYHA\\]), myocardial infarction within the last 6 months, unstable arrhythmias or unstable angina.\n20. Patients receiving immunosuppressive or myelosuppressive medications that, in the opinion of the investigator, would increase the risk of serious neutropenic complications. Subjects receiving replacement therapy of ≤10 mg of prednisone (or the equivalent hydrocortisone dose) per day are eligible.\n21. History of prior allogeneic stem cell or solid organ transplantation.\n22. Patients with impaired gastrointestinal absorption due to gastrectomy or active inflammatory bowel disease.\n23. Patients with pre-existing peripheral neuropathy of CTCAE Grade ≥2 (severe symptoms limiting self-care ADL (activity of daily living)).\n24. Patients with a history of allergy or known hypersensitivity to any of the study treatments or any of their excipients as outlined in the respective package insert.\n25. Individuals with reproductive potential who do not agree to use highly effective method of contraceptive as described in Lifestyle Considerations (sections 5.4.2 and 5.4.3).\n26. Patients who are pregnant or breastfeeding.\n27. Treatment with another investigational drug during the study participation.\n28. Any other medical condition, related to the underlying disease (e.g., cardiac, gastrointestinal, pulmonary, psychiatric, neurological) that in the opinion of the investigator would place the patient at unacceptably high risk for toxicity.",
   "enrollment": 31,
   "has_results": false,
@@ -98,19 +97,33 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 췌장암 치료력",
+    "간질성 폐질환(ILD) 또는 폐섬유증 병력",
+    "중증 심장 질환 (울혈성 심부전, 심근경색 등)",
+    "활동성 감염 또는 조절되지 않는 감염 질환"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 전이성 또는 국소 진행성(수술 불가) 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "neoadjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

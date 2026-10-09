@@ -22,9 +22,10 @@
  "id": "nct:NCT07114861",
  "importance": 0.85,
  "key_points_ko": [
-  "대상 질환은 국소 진행성 또는 전이성 췌장관선암(PDAC)입니다.",
-  "중재 방법은 연구 약물 KN510 및 KN713과 복합 항암화학요법인 mFOLFIRINOX의 병용 투여입니다.",
-  "목표 인원은 총 30명이며, 연령 기준은 19세부터 75세까지입니다."
+  "대상 질환: 수술 불가능한 국소 진행성 또는 전이성 췌장관선암(PDAC)",
+  "중재 방법: 시험약 KN510 및 KN713과 복합 항암화학요법(mFOLFIRINOX) 병용 투여",
+  "목표 환자 수: 30명",
+  "연령 및 수행능력: 19세~75세, ECOG 수행능력 0 또는 1"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07114861"
  },
- "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자를 대상으로 KN510713과 mFOLFIRINOX 병용 투여의 안전성과 유효성을 평가하기 위해 진행됩니다. 연구는 용량 탐색(Dose-finding) 단계인 파트 1과 용량 확장(Dose expansion) 단계인 파트 2로 나누어 진행됩니다. 목표 환자 수는 30명이며, 연령은 19세부터 75세까지의 남녀를 대상으로 합니다. 국내 1곳의 기관이 참여하며 현재 환자를 모집 중입니다.",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장관선암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 mFOLFIRINOX 항암화학요법과 병용하는 시험약 KN510713의 안전성과 유효성을 평가하기 위해 진행됩니다. 연구는 용량 탐색(Dose-finding) 파트 1과 용량 확장(Dose expansion) 파트 2의 두 단계로 나누어 진행됩니다. 19세부터 75세 사이의 환자 총 30명을 목표로 모집하며 국내 1개 기관에서 실시됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "The KN510713 Study in Combination With mFOLFIRINOX",
@@ -65,7 +66,7 @@
     "phone": "+8231-920-2227"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 서면 동의를 제공할 당시 19세에서 75세 사이의 성인 남성 및 여성\n- mFOLFIRINOX 치료 예정인, 조직학적 또는 세포학적으로 확진된 절제 불가능한 국소 진행성 또는 전이성 PDAC 환자\n- 국소 진행성 또는 전이성 췌장암에 대해 이전에 전신 항암화학요법을 받지 않은 환자\n- RECIST ver1.1에 따라 측정 가능한 병병이 최소 1개 이상 있는 환자\n- ECOG 수행 능력 평가 0 또는 1인 환자\n\n제외 기준:\n- 임상시험용 의약품, 병용 항암제 또는 유사 계열 약물에 과민증이 있는 환자\n- 스크리닝 전 5년 이내에 췌장암 외의 다른 악성 종양 병력이 있는 환자\n- 베이스라인 전 24주 이내의 임상적으로 유의한 부정맥, 급성 심근경색, 불안정형 협심증 또는 NYHA 등급 III/IV 심부전 환자\n- 알려진 DPD 결핍증이 있는 환자\n- 임신부, 수유부 또는 피임을 거부하는 가임기 여성 및 남성",
+  "eligibility_ko": "선정 기준:\n- 19세에서 75세 사이의 성인 남녀\n- 조직학적 또는 세포학적으로 확진된 수술 불가능한 국소 진행성 또는 전이성 PDAC 환자로 mFOLFIRINOX 치료 예정자\n- 국소 진행성 또는 전이성 췌장암에 대한 이전 전신 항암화학요법력이 없는 환자(단, 마지막 투여 후 6개월 이내에 질병 진행이 없는 경우 수술 전후 보조항암요법은 허용됨)\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자\n- ECOG 수행능력 0 또는 1인 환자\n- 예상 생존 기간이 12주 이상인 환자\n\n제외 기준:\n- 임상시험용 의약품, 병용 항암제 또는 유사 계열 약물에 과민반응이 있는 자\n- 5년 이내에 췌장암 외의 다른 악성 종양 병력이 있는 자\n- 기저 평가 전 24주 이내에 임상적으로 유의미한 부정맥, 급성 심근경색, 불안정성 협심증 또는 NYHA 클래스 III/IV 심부전이 있는 자\n- DPD 결핍증이 있거나 UGT1A1*6 또는 UGT1A1*28 유전적 다형성을 동형접합체 또는 복합 이형접합체로 보유한 자\n- 조절되지 않는 중추신경계 또는 뇌전이가 있는 자\n- 활동성 B형 또는 C형 간염이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Adult male and female subjects aged 19 to 75 years at the time of providing written informed consent\n2. Subjects with histologically or cytologically confirmed unresectable, locally advanced or metastatic PDAC who are scheduled to receive treatement with mFOLFIRINOX\n3. Subjects who have not received prior systemic chemotherapy for locally advanced or metastatic pancreatic cancer (Note: Prior neo-adjuvant or adjuvant systemic chemotherapy is allowed if there was no disease progression within 6 months after the last dose of chemotherapy)\n4. Subjects with at least one measurable lesion according to RECIST ver1.1\n5. Subjects with an ECOG performance status of 0 or 1\n6. Subjects with an expected survival of at least 12 weeks\n7. Subjects with adequate hematologic function, renal and hepatic function, and coagulation function based on the following laboratory criteria (only one repeat of laboratory tests is permitted during the screening period)\n8. Subjects who have been informed about the clinical study and voluntarily signed the written informed consent form\n\nExclusion Criteria:\n\n1\\) Known hypersensitivity to the IP, combination anticancer agents, their components, or drugs of a similar class 2) Subjects with any of the following medical history, or surgical/procedural history identified:\n\n1. History of any malignancy other than pancreatic cancer within 5 years prior to screening (Subjects with a history of basal cell carcinoma, squamous cell carcinoma of the skin, thyroid cancer, or carcinoma in situ at other sites may be eligible if the cancer was successfully treated and there has been no recurrence for more than 3 years, as determined by the investigator).\n2. Major surgery requiring general anesthesia or ventilatory support within 4 weeks prior to baseline (Video-assisted thoracoscopic surgery (VATS) or ONC surgery is limited to 2 weeks).\n3. Clinically significant arrhythmia, acute myocardial infarction, unstable angina, or NYHA class III or IV heart failure within 24 weeks prior to baseline.\n4. Pulmonary thrombosis, deep vein thrombosis, or other serious, life-threatening pulmonary diseases (e.g., acute respiratory distress syndrome, lung failure), or conditions such as asthma or COPD considered inappropriate for study participation, occurring within 24 weeks prior to baseline.\n5. Known DPD deficiency\n6. Subjects known to carry the genetic polymorphism of UGT1A1\\*6 or UGT1A1\\*28 as homozygotes (UGT1A1\\*6/\\*6 or UGT1A1\\*28/\\*28) or as compound heterozygotes (UGT1A1\\*6/\\*28)\n7. Known fructose intolerance 3) Comorbidities or conditions as follows:\n\n(1) Peripheral neuropathy of moderate (Grade 2) or higher (2) Chronic diarrhea or inflammatory bowel disease (Crohn's disease, ulcerative colitis) (3) Ileus or Intestinal obstruction (4) Clinically significant symptoms of ILD or pulmonary fibrosis requiring steroid therapy (5) Chronic kidney disease requiring dialysis (6) Clinically significant symptomatic or uncontrolled central nervous system or brain metastases (permitted if systemic corticosteroids were discontinued ≥4 weeks prior to baseline and the metastases have remained stable for ≥4 weeks) (7) Uncontrolled hypertension (SBP/DBP ≥160/100 mmHg) (8) QTc \\>450 ms on ECG (9) Active hepatitis B or hepatitis C (10) Known HIV infection (11) Conditions interfering with oral intake (e.g., dysphagia) or absorption (e.g., celiac disease, Crohn's disease, or a clinically significant bowel resection that may affect drug absorption) (12) Subjects with a history or suspected symptoms of gastro-esophageal reflux disease (GERD), including gastric ulcer, duodenal ulcer, or reflux esophagitis (13) Parkinson's disease, parkinsonism, tremor, restless leg syndrome, or other related movement disorders (14) Clinically significant symptomatic or uncontrolled ascites or pleural effusion (15) Subjects who, in the investigator's judgment, have a disease or condition sufficiently serious to influence the study results, or for whom the concomitant anticancer agents are contraindicated 4) Prior medications or treatments as follows:\n\n1. Radiotherapy within 2 weeks prior to screening (radiotherapy for symptom relief or bone lesions at high risk of pathological fracture is allowed if completed ≥1 week before the planned enrollment, provided that the treated lesions is not selected as target lesions for RECIST evaluation)\n2. Use of PPIs other than the IP within 2 weeks prior to screening\n3. Administration of any antithrombotic agents, including antiplatelet or anticoagulant drugs, within 2 weeks prior to screening, or an anticipated need for such medication during the study period (the use of low-molecular-weight heparin \\[LMWH\\] for prophylaxis or management of venous thrombosis is permitted during the study)\n4. Use of rilpivirine-containing products within 2 weeks prior to screening\n5. Use of atazanavir-containing products within 2 weeks prior to screening\n6. Current administration of, or anticipated need for strong CYP3A4 inhibitors or inducers\n7. Current administration of, or anticipated need for CYP2C19 substrates, strong inhibitors, or inducers\n8. High dose methotrexate (≥1000 mg/m2)\n9. St. John's wort\n10. Requirement for continuous use (≥4 weeks) of systemic corticosteroids equivalent to \\>10 mg/day prednisone (local administration such as intra-articular, intranasal, ophthalmic, or inhaled corticosteroids, and short-term use for the treatment or prophylaxis of contrast-media allergy or AEs \\[e.g., vomiting\\] are permitted)\n11. Current administration of, or anticipated need for sorivudine 5) Pregnant or breastfeeding women, or women of childbearing potential and men who are unwilling to remain abstinent or use appropriate contraception until 12 months (for men) or 15 months (for women) after the last administration of IP/concomitant medication following study enrollment 6) Participation in another clinical trial and administration or application of an investigational drug or device within 4 weeks prior to screening 7) Any other subject who, in the investigator's judgment, is unsuitable for participation in this study",
   "enrollment": 30,
   "has_results": false,
@@ -89,18 +90,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "5년 이내 다른 암 병력",
+    "조절되지 않는 심장 질환",
+    "활동성 B형 또는 C형 간염",
+    "조절되지 않는 중추신경계 또는 뇌전이"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료를 받지 않은 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "19 Years",

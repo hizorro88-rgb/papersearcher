@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
+  "drug",
   "surgery"
  ],
  "entities": [
@@ -22,9 +22,9 @@
  "id": "nct:NCT05268692",
  "importance": 0.89,
  "key_points_ko": [
-  "목표 연구 대상 환자는 총 500명입니다.",
-  "중재 치료법으로 GS와 GnP를 사용합니다.",
-  "참여 연령 기준은 18세부터 85세까지입니다."
+  "목표 환자 수는 총 500명입니다.",
+  "대상 질환은 췌장암(Pancreatic Adenocarcinoma)입니다.",
+  "참여 연령은 18세부터 85세까지입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,19 +49,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05268692"
  },
- "summary_ko": "이 임상시험은 췌장암 환자를 대상으로 선행화학요법(neoadjuvant chemotherapy) 이후 GS(gemcitabine plus S-1) 요법과 GnP(gemcitabine plus nab-paclitaxel) 요법의 효과를 비교합니다. 18세부터 85세까지의 췌장 선암(pancreatic adenocarcinoma) 환자 500명을 목표로 모집하고 있습니다. 아직 최선의 선행화학요법지요법이 명확하지 않아 이를 평가하기 위한 연구입니다.",
+ "summary_ko": "이 임상시험은 췌장암 환자를 대상으로 선행항암치료 후 GS 요법(gemcitabine plus S-1)과 GnP 요법(gemcitabine plus nab-paclitaxel)의 효과를 비교합니다. 18세부터 85세까지의 췌장암(pancreatic adenocarcinoma) 환자 500명을 목표로 모집을 진행하고 있습니다. 어떤 선행치료 요법이 가장 좋은지는 아직 명확하지 않습니다. 본 시험은 2상 및 3상(PHASE2/PHASE3) 단계로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "Neoadjuvant"
  ],
  "title": "Neoadjuvant Chemotherapy for Pancreatic Cancer Followed by GS and GnP",
- "title_ko": "췌장암에 대한 선행화학요법 이후 GS 및 GnP 병용 요법",
+ "title_ko": "췌장암에 대한 선행항암치료(Neoadjuvant Chemotherapy) 후 GS 요법 및 GnP 요법 비교",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: - 췌장암에 대한 선택적 췌장절제술(elective pancreatectomy)을 시행하는 환자. 제외 기준: - 이전 암 수술 이력이 있는 환자. - 수술 전 6개월 동안 10%를 초과하는 체중 감소가 있는 환자. - 원격 전이가 있는 환자. - 호흡기, 신장 또는 심장 질환으로 인해 주요 장기 기능이 심각하게 저하된 환자.",
+  "eligibility_ko": "선정 기준:\n- 췌장암 수술(elective pancreatectomy for pancreatic cancer)을 예정인 환자\n\n제외 기준:\n- 이전 암 수술 병력이 있는 환자\n- 수술 전 6개월 동안 체중 감소가 10%를 초과하는 환자\n- 원격 전이가 있는 환자\n- 호흡기, 신장 또는 심장 질환으로 인해 주요 장기 기능이 심각하게 저 손상된 환자",
   "eligibility_text": "Inclusion Criteria:\n\nelective pancreatectomy for pancreatic cancer\n\nExclusion Criteria:\n\na previous cancer surgery a body weight loss of \\>10% during the 6 months before surgery the presence of distant metastases seriously impaired function of vital organs because of respiratory, renal, or heart disease.",
   "enrollment": 500,
   "has_results": false,
@@ -78,17 +78,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 암 수술 병력",
+    "원격 전이",
+    "심각한 호흡기, 신장, 심장 질환"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "수술을 앞두고 선행항암치료를 받는 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
+    "resectable",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "85 Years",
   "min_age": "18 Years",

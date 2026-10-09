@@ -19,10 +19,9 @@
  "id": "nct:NCT05884255",
  "importance": 0.81,
  "key_points_ko": [
-  "목표 환자 수는 총 220명입니다.",
-  "대상 질환은 진행성 위장관 췌장 신경내분비종양입니다.",
-  "중재 치료로 Lutetium (177Lu) Oxodotreotide Injection을 평가합니다.",
-  "초록에 명시되지 않음"
+  "대상 질환은 수술 불가능한 국소 진행성 또는 전이성의 저등급 및 중등급(G1 또는 G2) 위장관 신경내분비종양입니다.",
+  "주요 중재법은 Lutetium (177Lu) Oxodotreotide 주사입니다.",
+  "목표 환자 수는 총 220명입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05884255"
  },
- "summary_ko": "이 임상시험은 진행성 위장관 췌장 신경내분비종양(advanced gastroenteropancreatic neuroendocrine tumor) 환자를 대상으로 Lutetium (177Lu) Oxodotreotide 주사의 효능과 안전성을 평가합니다. 18세에서 75세 사이의 환자 총 220명을 목표로 진행 중입니다. 비교 약물로는 long-acting Octreotide가 사용됩니다.",
+ "summary_ko": "본 임상시험은 진행성 위장관 췌장 신경내분비종양(gastroenteropancreatic neuroendocrine tumors, GEP-NETs) 환자를 대상으로 Lutetium (177Lu) Oxodotreotide 주사의 효능과 안전성을 평가합니다. 18세부터 75세 사이의 환자 220명을 목표로 진행됩니다. 대조군 또는 병용 치료로 장기 지속형 Octreotide(long-acting Octreotide)가 사용됩니다.",
  "summary_source": "llm",
  "tags": [
   "신경내분비종양"
@@ -65,7 +64,7 @@
     "phone": "+86-0518-82342973"
    }
   ],
-  "eligibility_ko": "선정 기준: 1) 서면 동의서를 제공할 수 있고 의지가 있는 자, 2) 18~75세 남성 또는 여성, 3) ECOG 수행 능력 상태 0 또는 1, 4) 조직병리학적으로 확진된 저등급 및 중등급(G1 또는 G2)의 절제 불가능한 국소 진행성 또는 전이성 위장관 신경내분비종양(GEP-NETs). 제외 기준: 1) 알려진 중추신경계 전이(단, 방사선 치료나 수술을 받았고 임상 증상이 없으며 무작위 배정 전 영상 검사에서 최소 24주 동안 안정한 경우 참여 가능), 2) 잘 조절되지 않는 심장의 임상 증상 또는 질환, 3) 최적의 내과적 지지 치료 후에도 조절되지 않는 당뇨병(공복 혈당 > 2 × ULN), 4) 심각한 요실금, 수신증, 심각한 배뇨 기능 장애 또는 어떤 이유로든 유치 카테터를 삽입한 경우.",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 제공할 능력이 있고 자발적으로 동의한 자\n- 18~75세의 남성 또는 여성\n- ECOG 수행능력 0 또는 1\n- 조직병리학적으로 확인된 수술 불가능한 국소 진행성 또는 전이성의 저등급 및 중등급(G1 또는 G2) 위장관 신경내분비종양(GEP-NETs)\n\n제외 기준:\n- 중추신경계 전이가 있는 자 (단, 뇌전이 치료 후 임상 증상이 없고 무작위 배정 전 영상 검사에서 최소 24주 이상 안정한 경우는 예외)\n- 잘 조절되지 않는 심장의 임상 증상 또는 질환이 있는 자\n- 최적의 내과적 치료 후에도 조절되지 않는 당뇨병(공복 혈당 > 2 × ULN)\n- 심각한 요실금, 수신증, 심각한 배뇨 기능 장애 또는 어떤 이유로든 유치 도뇨관을 삽입한 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Able and willing to provide a written informed consent;\n2. 18\\~75 years old,male or female;\n3. ECOG performance status 0 or 1;\n4. Unresectable locally advanced or metastatic gastrointestinal neuroendocrine tumors (GEP-NETs) of low and medium grade (G1 or G2) confirmed by histopathology.\n\nExclusion Criteria:\n\n1. Central nervous system metastasis is known. Patients who have previously received treatment ( radiotherapy or surgery ) for brain metastases and have no clinical symptoms can be enrolled if the pre-randomized pre-imaging is confirmed to be stable for at least 24 weeks;\n2. There are clinical symptoms or diseases of the heart that are not well controlled;\n3. Diabetes (fasting blood glucose \\> 2 × ULN) that cannot be well controlled after optimal medical support treatment;\n4. Severe urinary incontinence, hydronephrosis, severe micturition dysfunction or indwelling catheter for any reason.",
   "enrollment": 220,
   "has_results": false,
@@ -82,18 +81,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "조절되지 않는 뇌전이",
+    "조절되지 않는 심장 질환",
+    "조절되지 않는 당뇨병",
+    "심각한 배뇨 장애 또는 요실금"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "수술 불가능한 국소 진행성 또는 전이성 G1/G2 위장관 신경내분비종양 환자를 위한 3상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

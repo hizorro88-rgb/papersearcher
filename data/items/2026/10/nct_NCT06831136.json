@@ -25,10 +25,10 @@
  "id": "nct:NCT06831136",
  "importance": 0.9,
  "key_points_ko": [
-  "목표 인원은 총 24명입니다.",
-  "진행 단계는 제2상(PHASE2) 임상시험입니다.",
-  "중재 방법으로 내시경 초음파 유도 고주파 절제술(EUS-RFA), 항암화학요법(NAC), 그리고 면역항암제 pembrolizumab(펨브롤리주맙)을 사용합니다.",
-  "국내 임상시험 기관은 0곳입니다."
+  "대상 질환: 국소 진행성 절제 불가능 및 전이성 췌장선암(mPDAC)",
+  "중재 방법: 내시경 초음파(EUS) 유도 고주파 절제술(RFA), 항암화학요법, 펨브롤리주맙(pembrolizumab)",
+  "목표 인원: 24명",
+  "임상 단계: 제2상 임상시험(PHASE2)"
  ],
  "last_updated": "2026-10-09",
  "links": {
@@ -53,7 +53,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06831136"
  },
- "summary_ko": "이 연구는 국소 진행성 절제 불가능 및 전이성 췌장 아세포암(mPDAC) 환자를 대상으로 내시경 초음파(EUS) 유도 고주파 절제술(RFA), 항암화학요법, 그리고 면역항암제 pembrolizumab(펨브롤리주맙)을 병용 투여하는 임상시험입니다. 연구의 목적은 이 복합 치료의 안전성과 유효성을 평가하는 소규모 제2상(PHASE2) 임상시험을 진행하는 것입니다. 목표 참여 환자 수는 총 24명입니다.",
+ "summary_ko": "본 연구는 국소 진행성 절제 불가능 및 전이성 췌장선암(mPDAC) 환자를 대상으로 내시경 초음파(EUS) 유도 고주파 절제술(RFA), 항암화학요법, 그리고 전신 면역항암제 펨브롤리주맙(pembrolizumab) 병용 치료의 안전성과 유효성을 평가하기 위한 제2상 예비 임상시험입니다. 대상 질환은 췌장관선암(Pancreatic Ductal Adenocarcinoma)이며, 목표 인원은 24명입니다. 현재 환자를 모집 중이며 미국 텍사스대학교 헬스사이언스센터 휴스턴에서 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "metastatic cancer",
@@ -64,7 +64,7 @@
   "Endoscopic Ultrasound Radiofrequency ablation (EUS-RFA)"
  ],
  "title": "Endoscopic Ultrasound Radiofrequency Ablation and Immunotherapy Pembrolizumab for Locally Advanced Unresectable and Metastatic Pancreatic Duct Adenocarcinoma",
- "title_ko": "국소 진행성 절제 불가능 및 전이성 췌장암 환자를 위한 내시경 초음파 유도 고주파 절제술과 면역항암제 pembrolizumab 병용 임상시험",
+ "title_ko": "국소 진행성 및 전이성 췌장암에서 내시경 초음파 유도 고주파 절제술과 면역항암제 펨브롤리주맙 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
@@ -81,7 +81,7 @@
     "phone": "(713) 500-6919"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 연구 기간 동안 치료, 예정된 방문 및 추적 관찰을 포함한 프로토콜을 준수할 의지와 능력이 있는 환자\n* 생검으로 확진된 국소 진행성 절제 불가능 또는 전이성 췌장 도관 선암(PDAC)\n* 정신적으로 사전 동의서(ICF)에 명시된 요구 사항과 제한 사항을 준수할 능력이 있는 환자\n* 동유럽종금연구그룹(ECOG) 수행 상태 0~2인 환자\n* 고형암 치료 반응 평가 기준(RECIST) v1.1에 따라 측정 가능한 전이 병변이 적어도 1개 이상 있는 환자\n* 호중구 절대 수치(ANC)가 1 x 10^9/L 이상인 환자\n* 혈소판 수치가 75 x 10^9/L 이상인 환자\n\n제외 기준:\n* 전화번호와 영구 거주 주소가 없는 환자\n* 임신부, 수유부, 또는 스크리닝 시점부터 마지막 투여 후 90일까지 효과적인 피임을 원하지 않는 가임기 남성 및 여성 환자\n* 교도소 수감자\n* 사전 동의서를 제공할 수 없는 환자\n* 절제 가능한, 또는 경계성 절제 가능한 췌장 도관 선암(PDAC) 환자\n* 중추신경계(CNS) 전이 병력이 알려진 환자\n* 활동성 제4기 암, 또는 적절히 치료되지 않은 다른 원발성 악성 종양이 있는 환자",
+  "eligibility_ko": "선정 기준:\n* 생검으로 확진된 국소 진행성 절제 불가능 또는 전이성 췌장관선암(PDAC) 환자\n* 동유럽협력암연구그룹(ECOG) 수행능력 상태 0~2인 환자\n* 고형암 닶음평가기준(RECIST v1.1)에 따른 최소 1개 이상의 측정 가능한 전이 병변 보유\n* 연구 등록 전 표준 치료 수술 또는 보조/선행보조 치료를 최소 3개월 전에 마친 경우, 혹은 다른 곳에서 1차 치료를 시작해 3개월 동안 임상적으로 안정한 상태를 유지한 경우 허용\n* 절대중성구수(ANC) 1 x 10^9/L 이상, 혈소판 75 x 10^9/L 이상, 알부민 3 g/dL 이상\n\n제외 기준:\n* 수술 가능성 또는 경계성 수술 가능성 췌장관선암(PDAC) 환자\n* 중추신경계(CNS) 전이 병력이 있는 환자\n* 다른 원발성 악성 종양의 병력이 있는 환자 (활동성 4기 암 등 제외)\n* 림프종, HIV 또는 활동성 결핵 환자\n* 활동성 자가면역질환이 있거나 자가면역질환 병력이 있는 환자\n* 임신부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Is willing and able to comply with the protocol for the duration of the study,including undergoing treatment and scheduled visits and examinations, including follow-up\n* Biopsy-proven locally advanced unresectable or metastatic PDAC\n\n  1. Patients who have undergone prior resection will be excluded unless there is recurrent pancreatic tumor that is amenable to EUS-RFA.\n  2. If biliary metal stent is placed, during procedure of EUS-RFA, indwelling biliary metal stent will be removed during initial EUS-RFA and then replaced with plastic stent.\n* Mental capacity to provide informed consent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol\n* Eastern Cooperative Oncology Group (ECOG) Performance status 0-2\n* At least one measurable metastatic lesion on axial imaging per Response Evaluation Criteria in Solid Tumors (RECIST) v1.\n* No prior systemic therapy, including chemotherapy or chemoradiation is permitted with the following exceptions:\n\n  1. Prior adjuvant therapy (including chemotherapy and/or radiotherapy) for pancreatic adenocarcinoma is permitted if standard of care neoadjuvant or adjuvant therapy was completed at least 3 months prior to study enrollment. Prior adjuvant therapy may include mFFX, NALIRIFOX, GA or Capecitabine (Xeloda).\n  2. If started on first-line treatment for mPDAC elsewhere (i.e., not at our study site), eligible participants can have undergone 3 months of chemotherapy with clinically stable disease (defined as no evidence of clinical progression) before study entry. Note: Imaging done outside the site will need to be reviewed for a 2nd opinion to confirm stable disease.\n\n  i. For patients who had prior treatment and stable disease up to 3 months and confirmed radiographically by our radiology investigators, then patients can proceed with EUS-RFA within 6-8 weeks of enrollment of study.\n\n  c. Patients who have started chemotherapy within a 3-month timeframe are allowed.\n* Absolute neutrophil count (ANC) ≥1 x 109/L\n* Platelet count ≥75 x 109/L\n* Albumin levels ≥3 g/dL\n* Total serum bilirubin \\<2× upper limit of normal (ULN) unless secondary to Gilbert's Syndrome\n\n  a. Subjects requiring biliary decompression, biliary stent, or drainage using percutaneous trans-hepatic cholangiogram are allowed (patients with a declining bilirubin status post stent placement are eligible with serum bilirubin ≤2.5 x ULN)\n* Alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase (ALP) ≤3× ULN, or ≤5× ULN in cases of documented liver involvement\n* Serum creatinine clearance must be ≥30 mL/minute either measured or calculated using a standard Cockcroft and Gault formula\n* Prior surgery that required general anesthesia or other major surgery as defined by the Investigator must be completed at least 4 weeks before immunotherapy.\n\nExclusion Criteria:\n\n* No telephone number and permanent street address\n* Pregnant or breastfeeding patients; or is a male or female patient of reproductive potential who is not willing to employ effective birth control from time of screening to 90 days after the last dose\n* Inmates or prisoners\n* Unable to provide informed consent\n* Resectable, borderline resectable PDAC.\n* Known history of central nervous system (CNS) metastases\n* Has a history of another primary malignancy. Patients having the following are still eligible:\n\n  1. No active stage 4 cancer\n  2. Adequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease\n  3. Adequately treated carcinoma in situ without evidence of disease\n* Known low or absent dihydropyrimidine dehydrogenase (DPD) activity\n* Use of strong inhibitors or inducers of Cytochrome P450 3A (CYP3A), CYP2C8 and UGT1A1\n* History or evidence of clinically significant or uncontrolled cardiovascular, CNS,and/or other systemic disease that in the investigator's opinion would preclude participation in the study or compromise the patient's ability to give informed consent\n* History of HIV or active tuberculosis (TB) (PPD response without active TB is allowed)\n* Underlying medical conditions that, in the Investigator's opinion, will make the administration of pembrolizumab hazardous (e.g., interstitial lung disease, active infections requiring antibiotics, recent hospitalization with unresolved symptoms)\n* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial\n* Any active autoimmune disease or a documented history of autoimmune disease or history of a syndrome that required systemic steroids or immunosuppressive medications, except for vitiligo or resolved childhood asthma/atopy and the following scenarios below:\n\n  1. Participants with asthma who require intermittent use of bronchodilators (such as albuterol) will not be excluded from this study.\n  2. Physiologic doses of corticosteroids (≤10 mg/day of prednisone or its equivalent) or short pulses of corticosteroids (≤3 days) may be permitted.\n  3. Patients with hypothyroidism (e.g., following Hashimoto syndrome) stable on hormone replacement\n  4. Patients having any chronic skin condition that does not require systemic therapy\n  5. Patients without active disease in the last 5 years (allowed only after consultation with the study physician)\n  6. Patients with celiac disease controlled by diet alone\n* Is currently using or previously used immunosuppressive medication within 14 days before the first dose of pembrolizumab. The following medications are exceptions to this criterion:\n\n  1. intranasal, inhaled, topical steroid, or local steroid injections (e.g., intra articular injection)\n  2. Systemic corticosteroids at physiologic doses not to exceed 10mg/day of prednisone or its equivalent\n  3. steroids as premedication for hypersensitivity reactions (e.g., computer tomography \\[CT\\] scan premedication)",
   "enrollment": 24,
   "has_results": false,
@@ -99,21 +99,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
-   "prior_required": [
-    "fluoropyrimidine",
-    "irinotecan"
+   "key_exclusions_ko": [
+    "중추신경계(CNS) 전이 병력",
+    "다른 원발성 악성 종양 병력",
+    "활동성 자가면역질환",
+    "임신 또는 수유 중인 환자"
    ],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "국소 진행성 또는 전이성 췌장암 환자를 대상으로 하며, 이전 전신 치료 경험이 없거나 최대 3개월 동안 1차 치료 후 안정 병변인 환자가 참여할 수 있습니다.",
+   "prior_excluded": [],
+   "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

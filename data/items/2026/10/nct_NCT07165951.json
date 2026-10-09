@@ -19,10 +19,10 @@
  "id": "nct:NCT07165951",
  "importance": 0.89,
  "key_points_ko": [
-  "대상 질환은 전이성 췌장관암(mPDAC)이며 목표 인원은 566명입니다.",
-  "시험군은 TQB2868 주사, anlotinib hydrochloride 캡슐, 그리고 화학요법을 병용합니다.",
-  "대조군은 위약과 화학요법을 병용합니다.",
-  "주요 평가변수는 전체 생존기간(OS)이며, 1:1 무작위 배정으로 진행됩니다."
+  "대상 질환: 전이성 췌장관선암(metastatic pancreatic ductal adenocarcinoma)",
+  "주요 평가변수: 전체 생존기간(OS)",
+  "목표 인원: 566명",
+  "임상 단계: 3상(PHASE3)"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07165951"
  },
- "summary_ko": "이 연구는 전이성 췌장관암(mPDAC) 환자 566명을 대상으로 진행되는 3상 임상시험입니다. TQB2868 주사 및 anlotinib hydrochloride(안로티닙) 캡슐과 항암화학요법을 병용한 치료군의 효과를 위약과 항암화학요법을 병용한 대조군과 비교합니다. 주요 평가변수는 전체 생존기간(OS)입니다. 환자들은 1:1 비율로 무작위 배정됩니다.",
+ "summary_ko": "본 연구는 전이성 췌장관선암(metastatic pancreatic ductal adenocarcinoma, mPDAC) 환자의 1차 치료로서 TQB2868 주사 및 anlotinib hydrochloride(안로티닙) 캡슐과 화학요법을 병용하는 치료를 위약 및 화학요법 병용과 비교합니다. 연구는 무작위배정, 공개, 위약 대조, 다기관 3상 임상시험으로 진행됩니다. 전체 생존기간(OS)이 주요 평가변수이며, 환자들은 1:1 비율로 무작위 배정됩니다. 총 목표 환자 수는 566명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Clinical Trial Comparing TQB2868 Injection Combined With Anlotinib Hydrochloride Capsules With Placebo Combined With Chemotherapy as First-line Treatment for Metastatic Pancreatic Ductal Adenocarcinoma (mPDAC)",
- "title_ko": "전이성 췌장관암 환자의 1차 치료로서 TQB2868 주사 및 anlotinib hydrochloride 캡슐과 항암화학요법 병용요법을 위약 및 항암화학요법 병용요법과 비교하는 임상시험",
+ "title_ko": "전이성 췌장관선암(mPDAC) 1차 치료로서 TQB2868 주사 및 anlotinib 염산염 캡슐과 화학요법을 위약 및 화학요법과 비교하는 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Ductal Adenocarcinoma"
@@ -63,7 +63,7 @@
     "phone": "13801669875"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 자발적으로 동의서에 서명하고 순응도가 좋은 자, 2. 동의서 서명일 기준 18세에서 75세 사이, 3. 조직학적 또는 세포학적으로 진단된 췌장관암(PDAC), 4. AJCC 8판 기준 4기 전이성 췌장암 환자, 5. 전신 항종양 치료나 임상시험용 약물 치료 경험이 없는 자(선행/보조 치료의 경우 재발/진행까지 6개월 이상 경과), 6. RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상 존재, 7. ECOG 점수 0~1점 및 예상 생존기간 12주 초과. 제외 기준: 1. 첫 약물 투여 전 5년 이내 다른 악성 종양 병력, 2. 정맥 주사, 채혈, 경구 투약에 영향을 미치는 요인이 있는 자, 3. 이전 치료의 이상 반응이 NCI CTCAE v5.0 기준 1등급 이하로 회복되지 않은 자, 4. 투여 전 4주 이내 주요 수술이나 외상을 겪었거나 예정된 자, 5. 투여 전 4주 이내 3등급 이상의 출혈 사건 경험자, 6. 투여 전 6개월 이내 동맥/정맥 혈전증 사건 병력, 7. 정기적인 항바이러스 치료를 받을 수 없는 B형/C형 간염 환자, 8. 치료가 필요한 활동성 매독 환자, 9. 활동성 폐결핵 또는 임상적으로 증상이 있는 폐렴 병력, 10. 정신 장애 또는 약물 남용 병력, 11. 장기 이식 병력, 12. 중증 또는 조절되지 않는 질환 보유자, 13. 면역억제 치료가 필요한 자, 14. 조절하기 어려운 종양 관련 증상, 15. 연구 약물 성분에 알레르기가 있는 자, 16. 첫 투여 전 4주 이내 다른 항암 임상시험 약물에 참여한 자, 17. 임산부 또는 수유부.",
+  "eligibility_ko": "선정 기준:\n- 동의서를 자발적으로 제출하고 순응도가 좋은 자\n- 만 18세 이상 75세 이하\n- 조직학 또는 세포학적으로 진단된 췌장관선암(PDAC)\n- AJCC 제8판 TNM 병기 기준 4기 전이성 췌장암\n- 이전에 전신 항암 치료나 임상시험용 약물 치료를 받은 적이 없는 자 (단, 보조/선행보조 치료의 경우 마지막 투여 후 재발/진행까지의 기간이 6개월 이상이고 독성이 회복된 경우는 허용)\n- RECIST v1.1 기준 최소 1개의 측정 가능한 병변 존재\n- ECOG 수행능력 점수 0~1점\n\n제외 기준:\n- 첫 투여 전 5년 이내에 다른 악성 종양이 있었거나 현재 있는 자\n- 정맥 주사, 혈채 채취 또는 경구 투약에 영향을 미치는 질환이 있는 자\n- 이전 치료의 부작용이 NCI CTCAE v5.0 기준 1등급 이하로 회복되지 않은 자\n- 첫 투여 전 4주 이내에 주요 수술을 받았거나 임상 기간 내 받을 예정인 자\n- 첫 투여 전 4주 이내에 NCI CTCAE v5.0 기준 3등급 이상의 출혈 사건이 있었던 자\n- 첫 투여 전 6개월 이내에 동맥/정맥 혈전증 병력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. The subjects voluntarily joined this study, signed the Informed Consent Form (ICF), and showed good compliance;\n2. On the date of signing the ICF, aged between 18 and 75 years old (inclusive);\n3. Pancreatic ductal adenocarcinoma (PDAC) diagnosed by tissue or cytology;\n4. According to the American Joint Commission on Cancer (AJCC) 8th Edition Tumor, Node, Metastasis (TNM) staging system for pancreatic cancer, patients with stage IV metastatic pancreatic cancer;\n5. Have not received any systemic anti-tumor treatment or investigational drug therapy; If receiving neoadjuvant/adjuvant therapy, the time interval between the last administration and recurrence/progression must be ≥ 6 months, and the toxicity related to anti-tumor therapy has recovered to ≤ level 1 or the toxicity level specified in the inclusion criteria (excluding hair loss); According to RECIST v1.1, there is at least one measurable lesion. If the lesion has undergone local treatment (radiotherapy, ablation, interventional therapy, etc.) in the past, it must be clearly proven to have progressed in accordance with RECIST v1.1 before it can be considered a measurable lesion;\n\n7\\. Eastern Cooperative Oncology Group (ECOG) score from 0 to 1; Expected survival is greater than 12 weeks; 9. The laboratory inspection meets the protocol standards; 10. Women of childbearing age should agree to use effective contraceptive measures during the study period and within 6 months after the end of the study, and have a negative serum test within 7 days before enrollment in the study; Men should agree to use effective contraceptive measures during the study period and within 6 months after the end of the study period;\n\nExclusion Criteria:\n\n1. Have had or currently have other malignant tumors within the past 5 years prior to the first use of medication;\n2. There are various factors that affect intravenous injection, venous blood collection diseases, or oral medication (such as inability to swallow, chronic diarrhea, and intestinal obstruction);\n3. Adverse reactions from previous treatments have not recovered to NCI CTCAE v5.0 score ≤ 1, except for toxicity that has been determined by researchers to have no safety risks, such as grade 2 hair loss, grade 2 peripheral neurotoxicity, non clinically significant, and asymptomatic laboratory abnormalities;\n4. Those who have received major surgical treatment, significant traumatic injury, or are expected to undergo major surgery during the expected study treatment period within 4 weeks before the first medication, or have long-term untreated wounds or fractures;\n5. Subjects who experience any bleeding or bleeding events ≥ NCI CTCAE v5.0 grade 3 within 4 weeks prior to the first administration;\n6. Individuals who have experienced arterial/venous thrombotic events within 6 months prior to the first administration, such as cerebrovascular accidents (including transient ischemic attacks), deep vein thrombosis, pulmonary embolism, or any other history of severe thromboembolism (implantable venous infusion port or catheter-related thrombosis, or superficial vein thrombosis is not considered \"severe\" thromboembolism);\n7. hepatitis B virus (HBV) infected individuals cannot receive regular antiviral treatment throughout the entire process; HCV infected individuals (HCV Ab or HCV RNA positive): Researchers determine that they are in an unstable state or need to continue antiviral treatment. Regular antiviral treatment cannot be accepted during the study;\n8. Active syphilis infected individuals who require treatment;\n9. History of active pulmonary tuberculosis, idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonia, radiation pneumonitis requiring treatment, or clinically symptomatic active pneumonia;\n10. Individuals with a history of abuse of psychotropic drugs who are unable to quit or have mental disorders;\n11. Individuals who are preparing for or have previously undergone allogeneic bone marrow transplantation or solid organ transplantation;\n12. Subjects with any severe and/or uncontrolled illnesses;\n13. Subjects who require immunosuppressive therapy, systemic or absorbable local hormone therapy to achieve immunosuppression and continue to use it within 7 days prior to the first dose (excluding corticosteroids with a daily dose of\\<10 mg prednisone or other therapeutic hormones);\n14. Tumor related symptoms are difficult to control;\n15. Known to be allergic to the components of research drug excipients;\n16. Those who have participated in and used other anti-tumor clinical trial drugs within 4 weeks before the first medication;\n17. Pregnant or breastfeeding subjects; According to the judgment of the researchers, there are serious situations that pose a threat to the safety of the subjects or affect their ability to complete the study.",
   "enrollment": 566,
   "has_results": false,
@@ -83,19 +83,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "최근 5년 이내 다른 악성 종양 병력",
+    "첫 투여 전 4주 이내 주요 수술 이력",
+    "최근 6개월 이내 동맥 또는 정맥 혈전증 병력",
+    "활동성 B형 및 C형 간염 또는 조절되지 않는 감염 질환"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료력이 없는 18~75세의 전이성 췌장관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "adjuvant",
-    "neoadjuvant"
+    "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

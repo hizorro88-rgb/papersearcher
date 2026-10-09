@@ -1,0 +1,62 @@
+{
+ "abstract": "IntroductionPancreatic cancer is associated with substantial symptom burden, but access to supportive care medications (SCMs) may vary by socioeconomic context. We examined associations between neighborhood socioeconomic status (SES) and the receipt and timing of SCMs among older adults with pancreatic cancer in the United States.MethodsWe conducted a retrospective cohort study using SEER-Medicare data (from 2005-2020). The cohort included beneficiaries aged 65 years or older with incident pancreatic cancer and Part D coverage. SCMs included psychotropics, pain medications, anti-nausea agents, appetite stimulants, and sleep aids. Neighborhood SES was measured using Yost Index quintiles (with Q5 representing the highest SES). Multivariable logistic regression estimated associations with medication receipt, and Fine-Gray competing risk models estimated associations with the cumulative incidence of medication initiation, treating death as a competing event.ResultsAmong 81,535 beneficiaries, 69% received at least one SCM after diagnosis. Compared with beneficiaries in Q5, those in Q1 had lower adjusted odds of receiving antipsychotics (aOR 0.81; 95% CI 0.68-0.96), antidepressants (aOR 0.80; 95% CI 0.73-0.88), anxiolytics (aOR 0.87; 95% CI 0.78-0.97), anti-nausea agents (aOR 0.77; 95% CI 0.71-0.83), appetite stimulants (aOR 0.78; 95% CI 0.72-0.85), and sleep aids (aOR 0.67; 95% CI 0.60-0.76). Lower neighborhood SES was also associated with lower cumulative incidence of psychotropic, anti-nausea, appetite stimulant, and sleep aid initiation. Associations with pain medication receipt and initiation were smaller and less consistent.ConclusionLower neighborhood SES was associated with lower receipt and cumulative incidence of several SCM classes among older adults with pancreatic cancer. Because SEER-Medicare does not capture symptom burden or clinical indication, these findings describe medications dispensed through Part D rather than the adequacy of supportive care received and identify targets for research on the mechanisms underlying these differences and on interventions to improve equitable symptom management.",
+ "authors": [
+  "Khalil H",
+  "Guo Y",
+  "Bian J",
+  "Guo J",
+  "Yang S",
+  "Lou X",
+  "Scarton L",
+  "Rogers SC"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42849050",
+ "importance": 0.75,
+ "key_points_ko": [
+  "분석 대상 81,535명의 고령 췌장암 환자 중 69%가 진단 후 최소 1개 이상의 지지요법 약물을 처방받았습니다.",
+  "사회경제적 수준이 가장 낮은 그룹(Q1)은 최상위 그룹(Q5) 대비 항구토제(교차비 0.77), 식욕촉진제(교차비 0.78), 항우울제(교차비 0.80), 수면제(교차비 0.67) 처방 가능성이 유의하게 낮았습니다.",
+  "진통제 처방 및 시작 시기와 사회경제적 수준 간의 연관성은 다른 지지요법 약물군에 비해 작고 덜 일관되었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1177/10732748261491721",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42849050"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Control",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42849050/"
+ },
+ "summary_ko": "미국 65세 이상 췌장암 환자 81,535명을 대상으로 거주 지역의 사회경제적 수준(SES)과 지지요법 약물(SCM) 처방 간의 연관성을 분석한 후향적 코호트 연구입니다. 전체 환자의 69%가 진단 후 최소 한 가지 이상의 지지요법 약물을 처방받았습니다. 분석 결과 사회경제적 수준이 가장 낮은 지역의 환자는 가장 높은 지역에 비해 항우울제, 항구토제, 식욕촉진제, 수면제 등의 처방률이 유의하게 낮았습니다. 반면 통증 조절을 위한 진통제 처방 차이는 상대적으로 작고 일관성이 적었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Socioeconomic Disparities in Supportive Care Medication Use Among US Medicare Beneficiaries with Pancreatic Cancer",
+ "title_ko": "미국 메디케어 고령 췌장암 환자의 사회경제적 위치에 따른 지지요법 약물 사용 격차",
+ "trial": null,
+ "type": "paper"
+}

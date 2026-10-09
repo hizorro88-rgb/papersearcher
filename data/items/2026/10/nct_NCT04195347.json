@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "diagnosis"
+  "supportive",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -20,10 +20,10 @@
  "id": "nct:NCT04195347",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 인원은 총 42명이며, asparaginase 관련 췌장염(AAP)을 앓는 소아 및 젊은 성인을 대상으로 합니다.",
-  "CM4620의 안전성, 용량 제한 독성, 그리고 췌장 가성낭종 또는 괴사성 췌장염 예방 효과를 평가합니다.",
-  "CM4620은 급성 췌장염 관련 복통 발생 36시간 이내 및 등록 8시간 이내에 1~4일 동안 정맥 주사(IV infusion)로 투여됩니다.",
-  "초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다."
+  "대상 질환은 아스파라기나제 연관 췌장염(AAP)이 발생한 21세 이하의 소아 및 젊은 성인 환자입니다.",
+  "CM4620은 급성 췌장염 관련 복통 시작 후 36시간 이내 및 등록 후 8시간 이내에 1~4일 동안 정맥 주사로 투여됩니다.",
+  "목표 등록 환자 수는 총 42명입니다.",
+  "초록에 명시된 생존기간, 반응률, 위험비 등은 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04195347"
  },
- "summary_ko": "이 임상시험은 asparaginase(아스파라기나제)로 인해 급성 췌장염(acute pancreatitis)이 발생한 소아 및 젊은 성인을 대상으로 CM4620의 내약성과 유효성을 평가합니다. 1상 및 2상(phase I/II) 단계로 진행되며, 치료의 안전성과 용량 제한 독성을 확인합니다. 또한 췌장 가성낭종(pseudocyst) 또는 괴사성 췌장염(necrotizing pancreatitis) 예방 효과를 평가합니다. 목표 환자 수는 총 42명입니다.",
+ "summary_ko": "이 연구는 아스파라기나제(asparaginase)로 인해 급성 췌장염이 발생한 소아 및 젊은 성인 환자를 대상으로 CM4620의 내약성과 유효성을 평가하는 1/2상 임상시험입니다. 1차 화학요법을 받는 환자들에게 CM4620을 투여했을 때의 안전성과 용량 제한 독성을 확인합니다. 또한 가성낭종 또는 괴사성 췌장염 예방 효과와 중증 췌장염 및 전신 염증 반응 증후군(SIRS) 발생률에 미치는 영향을 평가합니다. 총 42명의 환자를 목표로 3개의 코호트로 나누어 진행합니다.",
  "summary_source": "llm",
  "tags": [
   "Acute Pancreatitis",
@@ -63,7 +63,7 @@
   "Young Adults"
  ],
  "title": "Study of CM4620 to Reduce the Severity of Pancreatitis Due to Asparaginase",
- "title_ko": "asparaginase로 인한 췌장염의 중증도를 줄이기 위한 CM4620 연구",
+ "title_ko": "아스파라기나제로 인한 췌장염의 중증도를 줄이기 위한 CM4620 연구",
  "trial": {
   "conditions": [
    "Acute Pancreatitis"
@@ -75,7 +75,7 @@
     "phone": "888-226-4343"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 아밀라아제(amylase) 또는 리파아제(lipase)가 정상 상한치의 3배 이상 상승한 급성 췌장염이 있으면서, 급성 췌장염에 부합하는 복통 또는 영상 소견 중 최소 1개가 있는 경우\n- 이전 49일 이내에 임의의 형태의 asparaginase를 투여받은 경우\n- 치유 목적으로 치료를 받는 22세 미만의 급성 림프모구 백혈병/림프종 환자\n제외 기준:\n- 이전 췌장염 병력이 있는 경우\n- 기저 QTc 간격이 450 msec를 초과하는 경우\n- 크레아티닌(creatinine) 또는 총 빌리루빈(total bilirubin)이 연령별 정상 상한치의 3배를 초과하는 경우\n- 이전 7일 이내에 다른 임상시험용 의약품을 투여받은 경우\n- 달걀 알레르기 병력 또는 CM4620 성분에 대한 과민반응이 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 아밀라아제 또는 리파아제가 정상 상한치의 3배 이상 상승한 급성 췌장염이면서, 급성 췌장염과 일치하는 복통 또는 영상 소견 중 최소 1가지가 있는 경우\n- 이전 49일 이내에 임의의 형태의 asparaginase를 투여받은 경우\n- 완치 목적으로 치료를 받는 22세 미만의 급성 림프모구성 백혈병/림프종 환자\n\n제외 기준:\n- 이전에 췌장염을 앓은 병력이 있는 경우\n- 기저 QTc 간격이 450 msec를 초과하는 경우\n- 백혈병 침윤이나 용혈의 증거가 없는데 크레아티닌 또는 총 빌리루빈이 연령별 정상 상한치의 3배를 초과하는 경우\n- 이전 7일 이내에 다른 임상시험용 약물을 투여받은 경우\n- 계란 알레르기 병력 또는 CM4620 성분에 대한 과민성이 알려진 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Acute pancreatitis with elevation of amylase OR lipase ≥ 3x the upper limit of normal AND at least 1 of: abdominal pain consistent with acute pancreatitis OR imaging findings consistent with acute pancreatitis.\n* Receipt of any form of asparaginase within the prior 49 days.\n* Patient with acute lymphoblastic leukemia/ lymphoma age \\< 22 years receiving therapy with curative intent.\n\nExclusion Criteria:\n\n* Prior episode of pancreatitis.\n* QTc at baseline \\> 450 msec.\n* Creatinine \\> 3x the upper limit of normal for age or total bilirubin \\>3x the upper limit for normal for age without evidence of leukemic infiltrate or hemolysis.\n* Receipt of another investigational agent within the prior 7 days.\n* History of allergy to eggs or known hypersensitivity to any component of CM4620.\n* Positive pregnancy test or breastfeeding. Females of childbearing potential must have a negative urine or serum pregnancy test prior to enrollment. Males and females of childbearing potential must agree to use effective contraception for at least twelve months following the completion of therapy.\n* Inability or unwillingness of research participant or legal guardian/representative to give written informed consent.",
   "enrollment": 42,
   "has_results": false,
@@ -91,15 +91,19 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 췌장염 병력",
+    "계란 알레르기 또는 CM4620 과민성",
+    "임신 또는 수유 중인 경우"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "아스파라기나제로 인한 급성 췌장염이 발생한 21세 이하 소아 및 젊은 성인 백혈병/림프종 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "21 Years",
   "min_age": null,

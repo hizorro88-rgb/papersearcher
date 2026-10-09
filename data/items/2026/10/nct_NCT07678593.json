@@ -20,9 +20,9 @@
  "id": "nct:NCT07678593",
  "importance": 0.9,
  "key_points_ko": [
-  "대상 질환은 RAS 변이가 있는 국소 진행성 또는 전이성 고형암 및 췌장암(PDAC)입니다.",
-  "중재 방법은 GFH276을 cetuximab, nab-paclitaxel, gemcitabine, fluorouracil, leucovorin, irinotecan, oxaliplatin 등과 병용합니다.",
-  "목표 환자 수는 222명이며, 1상(Phase Ib)과 2상(Phase II) 단계로 진행됩니다."
+  "목표 연구 대상 인원은 총 222명입니다.",
+  "참여 연령은 18세 이상입니다.",
+  "ECOG 수행능력 상태는 0 또는 1이어야 합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07678593"
  },
- "summary_ko": "이 임상시험은 RAS 변이가 있는 국소 진행성 또는 전이성 고형암 및 췌장암(PDAC) 성인 환자를 대상으로 경구용 약물 GFH276과 세툭시맙(cetuximab) 또는 표준 항암화학요법(chemotherapy) 병용 투여의 안전성과 내독성, 예비 항종양 효과를 평가합니다. 1상(Phase Ib)에서는 용량 제한 독성(DLT)을 기반으로 권장 2상 용량(RP2D)을 결정하기 위한 용량 증량이 진행됩니다. 2상(Phase II) 확장 코호트에서는 각 병용 요법의 항종양 효과와 장기 안전성을 추가로 평가합니다. 목표 인원은 총 222명이며, 환자들은 질병 진행, 허용 불가능한 독성 발생, 동의 철회 등이 발생할 때까지 치료를 지속합니다.",
+ "summary_ko": "이 연구는 RAS 변이가 있는 국소진행성 또는 전이성 고형암 및 췌장암(PDAC) 성인 환자를 대상으로 경구용 GFH276과 cetuximab 또는 표준 항암화학요법의 병용 치료를 평가하는 공개, 다기관 제1b/2상 임상시험입니다. 1b상 단계에서는 용량 제한 독성(DLT)과 안전성을 바탕으로 권장 2상 용량(RP2D)을 결정하기 위한 용량 증량이 진행됩니다. 2상 확장 코호트에서는 결정된 용량을 바탕으로 각 병용 요법의 항종양 효과와 장기 안전성을 추가로 평가합니다. 환자들은 질병 진행, 참을 수 없는 독성, 동의 철회 또는 연구 종료 시까지 배정된 치료를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "GFH276",
@@ -56,7 +56,7 @@
   "solid tumors"
  ],
  "title": "A Study of GFH276 Combined With Cetuximab or Chemotherapy in Participants With Solid Tumors and Pancreatic Ductal Adenocarcinoma (PDAC) Harboring RAS Mutation",
- "title_ko": "RAS 변이가 있는 고형암 및 췌장암(PDAC) 환자를 대상으로 GFH276과 세툭시맙(cetuximab) 또는 항암화학요법의 병용을 평가하는 임상시험",
+ "title_ko": "RAS 변이 고형암 및 췌장암(PDAC) 환자를 대상으로 GFH276과 cetuximab 또는 항암화학요법 병용을 평가하는 연구",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors Cancer",
@@ -75,7 +75,7 @@
     "phone": "18758558734"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 만 18세 이상. 2. 조직학적 또는 세포학적으로 확인된 RAS 변이 또는 KRAS 증폭이 있는 국소 진행성 또는 전이성 고형암 및 췌장암(PDAC). 3. RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상. 4. ECOG 수행 능력 상태 0 또는 1. 5. 기대 여명 3개월 초과. 6. 적절한 장기 기능. 7. 서면 동의서 제공 의사. 8. 가맹 환자는 효과적인 피임법 사용 필수. 제외 기준: 1. 3년 이내 다른 활성 악성 종양. 2. 증상성 뇌전이, 연수막 질환, 척수 압박 또는 원발성 뇌종양. 3. 임상적으로 유의한 활성 심혈관 기능 장애 병력. 4. PDAC 또는 고형암에 대한 알려진 동반 제2의 종양 드라이버(oncodriver)가 있는 경우. 5. 활성 감염(HIV, HBV, HCV, 매독) 동반. 6. 장폐색의 임상적 또는 방사선학적 증거. 7. 28일 또는 5반감기 이내의 이전 항암 치료. 8. 3개월 이내 심부정맥 혈전증 또는 폐색전증 진단. 9. 임상시험 약물에 대한 과민반응 또는 정제 삼키기 불가능 및 절차 불응. 10. 중추신경계(CNS) 질환 병력. 11. 임상적으로 유의한 간질성 폐질환, 방사선 폐렴 또는 치료가 필요한 면역 관련 폐렴. 12. 조절 불가능하거나 증상이 있는 흉수, 복수 또는 심낭 삼출.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인\n- 조직학적으로 확정된 RAS 변이 또는 KRAS 증폭이 있는 국소진행성 또는 전이성 고형암 및 췌장암(PDAC)\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상\n- ECOG 수행능력 0 또는 1\n- 예상 여명 3개월 초과\n- 적절한 장기 기능\n- 서면 동의서 제공 가능\n- 가임 환자의 효과적인 피임 방법 사용\n\n제외 기준:\n- 3년 이내의 다른 활성 악성 종양\n- 증상성 뇌전이, 연수막 질환, 척수 압박 또는 원발성 뇌종양\n- 임상적으로 유의미한 활성 심혈관 기능 장애 병력\n- PDAC 또는 고형암에 알려진 동반된 두 번째 온코드라이버(oncodriver)가 있는 경우\n- 활성 감염(HIV, HBV, HCV, 매독) 존재\n- 장폐색의 임상적 또는 방사리학적 증거\n- 28일 또는 5반감기 이내의 이전 항암 치료\n- 3개월 이내의 심부정맥 혈전증 또는 폐색전증 진단\n- 연구 약물에 대한 과민반응 또는 정제 삼킴 불가\n- 중추신경계(CNS) 질환 병력\n- 치료가 필요한 임상적으로 유의미한 간질성 폐질환, 방사선 폐렴 또는 면역 관련 폐렴\n- 조절되지 않거나 증상이 있는 흉수, 복수, 심낭 삼출",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Histologically or cytologically confirmed locally advanced or metastatic solid tumor and PDAC with RAS mutation or KRAS amplification\n3. At least one measurable lesion according to RECIST v1.1\n4. ECOG performance status 0 or 1\n5. Life expectancy \\> 3 months\n6. Adequate organ function\n7. Willing to provide written informed consent\n8. Fertile participants must use effective contraception\n\nExclusion Criteria:\n\n1. Other active malignancy within 3 years\n2. Symptomatic brain metastases, leptomeningeal disease, spinal cord compression, or primary brain tumor\n3. History of active clinically significant cardiovascular dysfunction\n4. For participants with known concomitant second oncodriver for PDAC or for solid tumors.\n5. With active infection (HIV, HBV, HCV, syphilis)\n6. The presence of clinical or radiological evidence of intestinal obstruction.\n7. Prior anticancer therapy within 28 days or 5 half-lives\n8. Diagnosis of deep vein thrombosis or pulmonary embolism within 3 months\n9. Hypersensitivity to study drugs, or inability to swallow tablets or comply with study procedures.\n10. History of central nervous system (CNS)disease\n11. Presence of clinically significant interstitial lung disease, radiation pneumonitis, or immune-related pneumonia that requires treatment.\n12. With uncontrollable or symptomatic pleural effusion, ascites, or pericardial effusion.",
   "enrollment": 222,
   "has_results": false,
@@ -101,18 +101,23 @@
     "KRAS_mutant"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "증상성 뇌전이 또는 원발성 뇌종양",
+    "3년 이내의 다른 암 병력",
+    "활성 감염(HIV, HBV, HCV, 매독)",
+    "치료가 필요한 간질성 폐질환 또는 폐렴"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "RAS 변이나 KRAS 증폭이 있는 국소진행성 또는 전이성 췌장암 및 고형암 환자를 위한 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

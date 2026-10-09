@@ -22,10 +22,10 @@
  "id": "nct:NCT07081360",
  "importance": 0.94,
  "key_points_ko": [
-  "목표 환자 수는 262명이며 1:1 무작위 배정으로 진행됩니다.",
+  "목표 환자 수는 262명이며, 수술 가능 췌장암 및 주유두부암 환자들을 1:1 무작위 배정합니다.",
+  "A군은 선행화학요법 후 췌십이지장절제술을 받고, B군은 즉각 췌십이지장절제술 후 보조화학요법을 받습니다.",
   "1차 평가변수는 전체 생존기간(overall survival)입니다.",
-  "2차 평가변수는 R0 절제율(R0 resection rate), 무병 생존기간(disease-free survival), 주위 수술 결과 등을 포함합니다.",
-  "전 세계적으로 수치상 췌장암 환자의 5년 생존율은 20%에 머물러 있습니다."
+  "2차 평가변수는 R0 절제율, 무병 생존기간(disease-free survival), 주위 수술 결과입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07081360"
  },
- "summary_ko": "이 연구는 절제 가능한 췌장암(pancreatic cancer)과 주유두부암(periampullary cancer) 환자를 대상으로 수술 전 선행화학요법(neoadjuvant chemotherapy) 후 수술을 진행하는 군과 즉각적인 수술(upfront surgery) 후 보조화학요법을 진행하는 군을 비교하는 3상 임상시험입니다. 선행화학요법은 미세 전이를 제어하고 완전 절제율(R0 resection rate)을 높이며 계획된 치료의완수율을 높이기 위해 시행됩니다. 총 262명의 환자를 대상으로 무작위 배정하여 전체 생존기간(overall survival) 등을 평가합니다.",
+ "summary_ko": "이 임상시험은 수술이 가능한 췌장암(pancreatic cancer) 및 주유두부암(periampullary cancer) 환자 262명을 대상으로 선행화학요법(neoadjuvant chemotherapy) 후 수술을 진행하는 군과 즉각 수술(upfront surgery) 후 보조화학요법을 진행하는 군의 효과를 비교합니다. 수술 후 보조화학요법의 낮은 시작률과 미세 전이 조절을 위해 선행화학요법의 효능을 전향적으로 평가합니다. 1차 평가변수는 전체 생존기간(OS)이며, 2차 평가변수로는 R0 절제율, 무병 생존기간(DFS) 등이 포함됩니다. 연구는 Minia University에서 주도하고 있습니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
@@ -58,7 +58,7 @@
   "Pancreaticoduodenectomy"
  ],
  "title": "Neoadjuvant vs Upfront Surgery for Resectable Pancreatic Cancer and Periampullary Cancer",
- "title_ko": "절제 가능한 췌장암 및 주유두부암 환자를 대상으로 한 수술 전 선행화학요법과 즉각적인 수술의 비교",
+ "title_ko": "수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -80,7 +80,7 @@
     "phone": "+201220065443"
    }
   ],
-  "eligibility_ko": "선정 기준: - 내시경 초음파(EUS) 유도하 생검으로 조직학적 또는 세포학적으로 확진된 췌장두부암 또는 주유두부암 - NCCN 기준에 따른 명백한 절제 가능 병변 - ECOG 0-1 및 ASA 점수 4 미만 - 서면 동의서 제출 - 이전 췌장 절제술이나 췌장암 병력이 없는 경우 - 적절한 장기 기능 보유(간, 신장, 골수) / 제외 기준: - 경계성 절제 가능 또는 국소 진행성 췌장암 및 주유두부암 - 췌장 체부 또는 미부의 종양 - 원격 전이 - 췌장암에 대한 이전 화학요법, 수술 또는 방사선 치료력 - 수술이나 화학요법이 불가능한 심각한 동반 질환 - 임신 또는 수유 중 - 지난 5년 이내 진단된 다른 악성 신생물 질환 - 지난 28일 이내의 대수술 또는 외상성 사건",
+  "eligibility_ko": "선정 기준:\n- 내시경 초음파(EUS) 유도하 생검으로 조직학적 또는 세포학적으로 확진된 췌장두부암 또는 주유두부암\n- NCCN 기준에 따른 명백한 수술 가능(resectable) 병변\n- ECOG 수행능력 0~1 및 ASA 점수 4 미만\n- 서면 동의서 작성\n- 이전 췌장 절제술이나 췌장암 병력이 없는 경우\n- 적절한 장기 기능 유지\n\n제외 기준:\n- 경계성 절제 가능 또는 국소 진행성 췌장암 및 주유두부암\n- 췌장 체부 또는 미부에 위치한 종양\n- 원격 전이 존재\n- 췌장암에 대한 이전 화학요법, 수술 또는 방사선 치료력\n- 수술이나 화학요법이 불가능한 심각한 동반 질환\n- 임신 중이거나 수유 중인 환자\n- 지난 5년 이내 진단된 다른 악성 신생물 질환\n- 지난 28일 이내 주요 수술 또는 외상 사건 경험",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed pancreatic head cancer or periampullary carcinoma(endoscopic ultrasound (EUS)-guided biopsy).\n* Clearly resectable disease as defined by National Comprehensive Cancer Network (NCCN) criteria on cross-sectional imaging:\n\nNo involvement or abutment of the celiac artery, common hepatic artery, superior mesenteric artery, or replaced right hepatic artery .\n\nLess than 180 degree interface between tumor and vessel wall of the portal vein or superior mesenteric vein, and patent portal vein/splenic vein confluence No evidence of metastatic disease.\n\n* Eastern Cooperative Oncology Group (ECOG)=0-1 \\& American Society of Anesthesiologists (ASA) score \\<4.\n* Written informed consent.\n* Medical history without previous pancreatic resection or pancreatic cancer.\n* Adequate organ function (liver, kidney, bone marrow) (serum creatinine ≤2.0 mg/dL,reference range 0.5-1.20 mg/dL; serum albumin ≥2.5 g/dL, reference range 3.5-5.3; aspartate aminotransferase (AST) ≤95 U/L, reference range 0-38; Alanine aminotransferase (ALT) ≤102 U/L, reference range 0-41; prothrombin time ≤1.8, reference range 0-1.20; partial thromboplastin time ≤1.8, reference range 0.82-1.25; leukocyte count greater than 3.5×109/L, reference range 4.2-9.0; platelet count greater than 100×109/L, reference range 130-400; hemoglobin ≥9 g/dL, reference range 12-16).\n\nExclusion Criteria:\n\n* Borderline resectable or locally advanced pancreatic or periampullary cancer.\n* Tumor at the body or tail of the pancreas.\n* Distant metastases.\n* Prior chemotherapy , surgery or radiotherapy for pancreatic cancer.\n* Severe comorbidities precluding surgery or chemotherapy.\n* Pregnancy or lactation.\n* Other neoplastic diseases (malignant)diagnosed in the past 5 years.\n* Major surgery or traumatic event in the past 28 days.",
   "enrollment": 262,
   "has_results": false,
@@ -97,18 +97,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "원격 전이 존재",
+    "경계성 절제 가능 또는 국소 진행성 췌장암",
+    "췌장 체부 또는 미부 종양",
+    "지난 5년 이내 다른 암 병력"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 가능한 췌장두부암 또는 주유두부암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

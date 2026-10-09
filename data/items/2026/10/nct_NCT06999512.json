@@ -21,10 +21,9 @@
  "id": "nct:NCT06999512",
  "importance": 0.86,
  "key_points_ko": [
-  "대상 질환은 췌장암을 포함한 간담췌(HPB) 암이며, 70세 이상 고령 환자 526명을 목표로 합니다.",
-  "중재 방법으로 종합적 노인 평가(CGA, Comprehensive Geriatric Assessment) 및 맞춤형 중재를 시행합니다.",
-  "주요 간절제술이나 췌십이지장절제술(Pancreaticoduodenectomy)을 받는 고령 환자의 수술 후 이병률 감소와 삶의 질 향상을 목표로 합니다.",
-  "초록에 수술 후 생존기간이나 반응률 등의 구체적인 결과 수치는 아직 명시되지 않았습니다."
+  "목표 연구 대상자는 70세 이상이며 수술을 앞둔 간담도암 및 췌장암 환자 526명입니다.",
+  "중재 방법으로 포괄적 노인 평가(Comprehensive Geriatric Assessment)를 활용한 맞춤형 관리가 시행됩니다.",
+  "주요 평가지표는 수술 후 이병률과 삶의 질 개선 여부입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06999512"
  },
- "summary_ko": "이 임상시험은 70세 이상의 고령 암 환자를 대상으로 수술 전후 종합적 노인 평가(CGA, Comprehensive Geriatric Assessment)와 맞춤형 중재가 수술 후 합병증과 삶의 질에 미치는 영향을 평가합니다. 대상 질환은 췌장암을 포함한 간담췌(HPB) 암이며, 목표 환자 수는 526명입니다. 연구자들은 포괄적인 노인 관리가 고령 환자의 수술 후 이병률을 줄이고 기능적 상태를 최적화할 수 있는지 검증하고자 합니다. 현재 아직 환자 모집을 시작하지 않았습니다(NOT_YET_RECRUITING).",
+ "summary_ko": "이 임상시험은 70세 이상의 고령 암 환자를 대상으로 수술 전 포괄적 노인 평가(Comprehensive Geriatric Assessment, CGA)와 맞춤형 관리가 수술 후 이병률과 삶의 질에 미치는 영향을 평가합니다. 대상 질환에는 췌장암(pancreatic cancer)과 간담도암이 포함됩니다. 목표 인원은 526명이며, 환자들의 신체적, 인지적, 심리적 측면을 아우르는 관리의 효과를 검증하고자 합니다. 프랑스에서 진행되며 아직 환자 모집 전 단계입니다.",
  "summary_source": "llm",
  "tags": [
   "patient over 70 years",
@@ -63,7 +62,7 @@
   "Pancreaticoduodenectomy"
  ],
  "title": "Impact of Comprehensive Geriatric Management on Morbidity and Quality of Life in Elderly Patients Undergoing Major Hepatectomy and Pancreaticoduodenectomy for Cancer",
- "title_ko": "암으로 인해 주요 간절제술 및 췌십이지장절제술을 받는 고령 환자의 이병률 및 삶의 질에 대한 종합적 노인 관리의 영향",
+ "title_ko": "고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향",
  "trial": {
   "conditions": [
    "Hepatobiliary Cancer",
@@ -76,7 +75,7 @@
     "phone": "+33145596501"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 70세 이상 환자\n- 조직학적으로 입증되었거나 임상적으로 진단된 간담췌(HPB) 암 환자(간세포암, 간내 및 간문부 담관암, 담낭암, 팽대부 주위 악성 종양, 췌장암, 대장암의 간 전이)\n- 췌십이지장절제술 또는 주요 간절제술(3개 이상 간 구역 절제)이 필요한 환자\n\n제외 기준:\n- 프랑스 건강보험 체계에 접근할 수 없는 환자\n- 사전 동의서를 작성할 수 없는 환자\n- 이중맹검 무작위 임상시험에 참여 중인 환자\n- 법적으로 보호를 받는 환자",
+  "eligibility_ko": "선정 기준:\n- 70세 이상이며 조직학적으로 증명되었거나 임상적으로 진단된 간담도췌장(HPB) 암 환자(간세포암, 간내 및 간문부 담관암, 담낭암, 팽대부 주위 악성 종양, 췌장선암, 대장암 간 전이 포함)\n- 췌십이지장절제술(Pancreaticoduodenectomy) 또는 주요 간절제술(3개 이상 간 구역 절제)이 필요한 환자\n\n제외 기준:\n- 프랑스 의료 시스템에 접근할 수 없는 환자\n- 사전 동의서에 서명할 수 없는 환자\n- 이중맹검 무작위 임상시험에 참여 중인 환자\n- 법적으로 보호를 받는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients ≥ 70 years, with histologically proven or clinical diagnosis of HPB cancer among the following:\n* hepatocellular carcinoma\n* intra-hepatic and peri-hilar cholangiocarcinoma\n* gallbladder cancer\n* peri-ampullary malignant tumors\n* pancreatic adenocarcinoma\n* colorectal liver metastases\n* Needing one of the following procedures:\n* Pancreaticoduodenectomy\n* Major Hepatectomy (≥ 3 hepatic segments)\n\nExclusion Criteria:\n\n* Patients who have no access to the French health system.\n* Patient unable to sign informed consent.\n* Patients included in a double-blind randomized trial\n* Patients legally protected",
   "enrollment": 526,
   "has_results": false,
@@ -92,17 +91,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "프랑스 의료 시스템 이용 불가 환자",
+    "동의서 작성 불능 환자",
+    "다른 이중맹검 무작위 임상시험 참여 환자",
+    "법적 보호 대상자"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "수술을 앞둔 70세 이상의 수술 가능 췌장암 및 간담도암 고령 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "70 Years",

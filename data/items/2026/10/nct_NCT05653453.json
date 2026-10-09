@@ -19,9 +19,10 @@
  "id": "nct:NCT05653453",
  "importance": 0.89,
  "key_points_ko": [
-  "대상 질환은 원격 전이가 없는 국소 진행성 췌장암(Locally Advanced Pancreatic Cancer)입니다.",
-  "중재 방법은 종양치료장전(TTFields)과 gemcitabine hydrochloride 및 albumin-bound paclitaxel의 병용 요법입니다.",
-  "목표 환자 수는 512명이며 연령은 18세부터 75세까지입니다."
+  "대상 질환은 원격 전이가 없는 국소 진행성 췌장암(locally advanced pancreatic cancer)입니다.",
+  "목표 환자 수는 총 512명이며, 연령 기준은 18세에서 75세까지입니다.",
+  "중재 방법은 종양치료전기장(tumor treating fields)과 gemcitabine(젬시타빈), albumin-bound paclitaxel(알부민 결합 파클리탁셀)의 병용입니다.",
+  "생존기간, 반응률 등의 효과 수치는 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05653453"
  },
- "summary_ko": "이 임상시험은 국소 진행성 췌장암 환자 512명을 대상으로 종양치료장전(Tumor Treating Fields, TTFields)을 gemcitabine(젬시타빈) 및 albumin-bound paclitaxel(알부민 결합 파클리탁셀)과 병용하여 1차 치료로 사용할 때의 유효성과 안전성을 평가합니다. 환자들은 종양치료장전 기기를 독자적으로 또는 보호자의 도움을 받아 조작할 수 있어야 합니다. 연구의 목표 인원은 512명이며 현재 환자를 모집 중입니다. 본 연구는 3상(PHASE3) 임상시험으로 진행됩니다.",
+ "summary_ko": "본 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 종양치료전기장(tumor treating fields, TTFields)을 젬시타빈(gemcitabine) 및 냅-파클리탁셀(albumin-bound paclitaxel)과 병용하여 1차 치료로 투여했을 때의 유효성과 안전성을 평가합니다. 18세에서 75세 사이의 조직학적 또는 세포학적으로 확진된 국소 진행성 췌장암 환자 512명을 목표로 3상(phase3) 임상시험이 진행 중입니다. 주요 중재 방법은 종양치료전기장과 젬시타빈, 냅-파클리탁셀의 병용 치료입니다. 초록에 명시된 생존기간, 반응률, 위험비 등은 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [],
  "title": "Clinical Study of Tumor Treating Fields Combined with Gemcitabine and Albumin-bound Paclitaxel in the First-line Treatment of Locally Advanced Pancreatic Cancer",
- "title_ko": "국소 진행성 췌장암 1차 치료에서 종양치료장전(TTFields)과 gemcitabine 및 albumin-bound paclitaxel 병용 요법에 대한 임상시험",
+ "title_ko": "국소 진행성 췌장암 1차 치료에서 종양치료전기장(TTFields)과 젬시타빈 및 냅-파클리탁셀 병용요법에 대한 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Cancer"
@@ -62,7 +63,7 @@
     "phone": "021-52889999"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 75세 이하의 성별 무관 환자\n- 예상 생존 기간이 3개월 이상인 환자\n- 조직학적 또는 세포학적으로 확진된 췌장 선암(Pancreatic adenocarcinoma)\n- 원격 전이가 없고 특정 혈관 침범 기준을 충족하는 국소 진행성 병변\n- 개정 RECIST 버전 1.1에 따른 측정 가능한 병변이 최소 1개 이상 존재\n- ECOG 점수 0-1점\n\n제외 기준:\n- 이전에 췌장 선암에 대한 1차 치료를 받은 적이 있는 환자\n- gemcitabine 또는 albumin-bound paclitaxel에 금기증이나 심각한 알레르기가 있는 환자\n- 골수, 심장, 간, 신장 기능이 비정상적인 환자\n- 심각한 심혈관계 질환, 활성 감염, 인간면역결핍바이러스(HIV) 감염 등의 병력이 있는 환자\n- 심박조율기 등 이식형 전자 의료기기가 있거나 TTFields 적용 부위에 금속 의료 기기 및 상처가 있는 환자",
+  "eligibility_ko": "선정 기준:\n1. 18세 이상 75세 이하의 남녀.\n2. 예상 생존 기간이 3개월 이상.\n3. 조직학적 또는 세포학적으로 확진된 췌장선암(pancreatic adenocarcinoma).\n4. 원격 전이가 없고 특정 기준을 충족하는 국소 진행성 병변.\n5. 개정 RECIST 버전 1.1에 따른 최소 1개의 측정 가능한 병변.\n6. ECOG 수행 능력 점수 0~1.\n7. 의사 권에 따라 젬시타빈 및 냅-파클리탁셀 병용 치료를 받을 수 있는 환자.\n8. 독립적으로 또는 간호 인력의 도움을 받아 종양치료전기장을 작동할 수 있는 자.\n9. 이전 치료로 인한 부작용이 정상 또는 CTCAE 1등급으로 회복된 자.\n10. 가임기 여성의 혈청 임신 테스트 결과가 음성이며 피임에 동의하는 자.\n11. 남성 환자가 피임 및 정자 기증 금지에 동의하는 자.\n12. 자발적 동의서 서명.\n\n제외 기준:\n1. 이전에 췌장선암에 대한 1차 치료를 받은 적이 있는 자.\n2. 젬시타빈 또는 냅-파클리탁셀에 금기증이나 심각한 알레르기가 있는 자.\n3. 등록 전 2년 이내에 다른 항종양 치료가 필요한 암이 있었던 자 (일부 초기암 제외).\n4. 골수, 심장, 간, 신장 기능의 심각한 이상.\n5. 등록 전 14일 이내 또는 연구 기간 동안 전신 코르티코스테로이드나 면역억제제 투여가 필요한 자.\n6. 심각한 감염이 있는 자.\n7. HIV 감염 병력.\n8. 활동성 B형 간염, C형 간염 또는 기타 활동성 감염.\n9. 신경학적 또는 정신 질환 병력.\n10. 종양치료전기장을 부착할 피부 부위에 감염, 궤양, 미치유 상처가 있는 자.\n11. 심박동기 등 이식형 전자 의료기기가 있는 자.\n12. 흉부 및 복부에 금속 의료 기기가 이식된 자.\n13. 의료용 접착제나 하이드로겔에 알레르기가 있는 자.\n14. 임신 중이거나 수유 중인 자.\n15. 등록 전 3개월 이내 다른 약물 임상시험, 1개월 이내 다른 기기 임상시험에 참여한 자.\n16. 순응도가 좋지 않거나 연구자가 부적절하다고 판단한 자.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Subjects aged between 18 and 75 (including 18 and 75) of both genders;\n2. Expected survival time ≥3 months;\n3. Pancreatic adenocarcinoma confirmed by histology/cytology;\n4. Locally advanced lesions meeting any of the following criteria without distant metastasis: ① Pancreatic head and neck tumors: a. The tumor invaded the Superior Mesenteric Artery (SMA) more than 180°; b. The tumor invaded the celiac trunk more than 180°; c. Unresectable reconstruction of superior mesenteric vein or portal vein due to tumor invasion or embolism (tumor thrombus or thrombus); d. The tumor extensively invaded the distal jejunal drainage branch of the superior mesenteric vein. ② Pancreatic body/tail tumor: a. The tumor invaded the superior mesenteric artery or celiac trunk more than 180°; b. Celiac trunk and abdominal aorta involvement; c. The superior mesenteric vein or portal vein cannot be resected and reconstructed due to tumor invasion or embolism (tumor thrombus or thrombus).\n5. At least one measurable lesion according to revised RECIST version 1.1;\n6. ECOG score 0-1;\n7. Be able to receive gemcitabine for injection and paclitaxel for injection (albumin-bound) combined therapy according to medical advice;\n8. Able to operate tumor treating fields independently or with the help of nursing staff;\n9. AE should be restored to normal or CTCAE1 grade after previous treatment;\n10. The serum pregnancy test results of female subjects of reproductive age were negative. Female subjects of reproductive age agree to use effective contraception (e.g. hormonal or barrier methods or abstinence) during the study period and for 6 months after the last dose of chemotherapy drugs;\n11. Male subjects agree to use effective birth control (such as barrier method or abstinence) and not to donate sperm during the study and within 3 months after the last chemotherapy drug administration;\n12. Voluntarily sign the informed consent.\n\nExclusion Criteria:\n\n1. The subjects has previously received first-line treatment for pancreatic adenocarcinoma;\n2. Subjects with contraindications to treatment with gemcitabine for injection and/or paclitaxel for injection (albumin-bound) or known severe allergies to gemcitabine for injection and/or paclitaxel for injection (albumin-bound);\n3. Patients had cancer requiring other antitumor therapy within 2 years before enrollment, excluding treated stage I prostate cancer, cervical cancer in situ, breast cancer in situ, and non-melanoma skin cancer;\n4. Abnormal bone marrow, heart, liver and kidney function: a. Neutrophil count \\< 1.5 × 10\\^9/L, platelet count \\< 100 × 10\\^9/L, hemoglobin \\< 90g/L; The use of blood transfusion, platelet transfusion and erythropoietin was prohibited within 14 days before C1D1, and the use of Leukocytotropic drug such as G-CSF, fegrasstim, pefegrasstim, etc., was prohibited within 7 days before C1D1.b. Total bilirubin \\> 1.5× Upper Limit of Normal (ULN); Subjects with a total bilirubin \\> 2×ULN that is elevated due to pancreatic cancer compression of the bile duct but has been fitted with a bile duct stent for drainage can be enrolled. AST and/or ALT\\> 2.5×ULN; the use of drugs that improve liver function, such as reducing transaminase was prohibited within 7 days before C1D1. c. Serum creatinine \\> 1.5×ULN; d. A history of severe cardiovascular disease, including but not limited to second or third degree heart block; Severe ischemic heart disease; New York Heart Association (NYHA) class II or higher congestive heart failure (mild physical activity limitation; Comfortable at rest, but normal activities can cause fatigue, palpitations, or difficulty breathing);\n5. Subjects who were required to receive systemic corticosteroids (doses equivalent to \\> 10 mg prednisone/day) or other immunosuppressive agents within 14 days before enrollment or during the study period. Subjects were eligible for enrollment if: a. The use of topical or inhaled glucocorticoids is permitted; b. Allow short-term (≤7 days) use of glucocorticoids for the prevention or treatment of non-autoimmune allergic diseases;\n6. Those who had severe infection before the first dose were judged ineligible for the study by the investigator;\n7. History of human immunodeficiency virus (HIV) infection (known HIV1/2 antibody positive);\n8. The presence of active hepatitis B, active hepatitis C, or other active infections that may affect the patient's treatment as determined by the investigator;\n9. Subjects with a clear history of neurological or psychiatric disorders, such as epilepsy, dementia, or substance abuse (including alcohol) within the last year, and possibly affecting compliance;\n10. Infected, ulcerated or unhealed wounds exist on the skin where the tumor treating fields is applied;\n11. Having an implantable electronic medical device, such as a pacemaker;\n12. Metal medical instruments are implanted in the chest and abdomen such as bone nails;\n13. Known allergies to medical adhesives or hydrogels;\n14. Pregnant or breastfeeding;\n15. Subjects participated in clinical trials of other drugs within 3 months before enrollment, or participated in clinical trials of other devices within 1 month before enrollment;\n16. Subjects with poor compliance or other factors as judged by the investigator.",
   "enrollment": 512,
   "has_results": false,
@@ -79,18 +80,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전에 췌장암 1차 치료를 받은 적이 있는 경우",
+    "심장 질환이나 심각한 심혈관 질환 병력",
+    "HIV 감염, 활동성 간염 등 심각한 감염 질환",
+    "심박동기 등 이식형 전자 의료기기 또는 흉복부 금속 기기 삽입자",
+    "임산부 또는 수유부"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 국소 진행성 췌장암 환자를 위한 1차 치료 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "locally_advanced",
-    "adjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

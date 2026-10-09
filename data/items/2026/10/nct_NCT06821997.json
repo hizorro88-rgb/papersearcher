@@ -22,9 +22,10 @@
  "id": "nct:NCT06821997",
  "importance": 0.85,
  "key_points_ko": [
-  "목표 환자 수는 20명이며 경계성 절제 가능 췌장관암 환자를 대상으로 합니다.",
-  "수술 전 NALIRIFOX(liposomal irinotecan, oxaliplatin, 5-fluorouracil, leucovorin) 치료를 평가합니다.",
-  "초록에 생존기간이나 반응률 등의 구체적인 수치 결과는 명시되지 않았습니다."
+  "대상 질환은 경계성 절제 가능 췌관선암(pancreatic ductal adenocarcinoma) 환자입니다.",
+  "중재 치료로 liposomal irinotecan, oxaliplatin, fluorouracil, leucovorin(NALIRIFOX) 병용요법을 수술 전후로 시행합니다.",
+  "목표 인원은 총 20명이며, 단계는 2상(phase2) 임상시험입니다.",
+  "초록에 명시되지 않음"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,17 +50,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06821997"
  },
- "summary_ko": "이 2상 임상시험은 주요 혈관에 인접해 있으나 수술적 제거가 잠재적으로 가능한 경계성 절제 가능 췌장관암(borderline resectable pancreatic ductal adenocarcinoma) 환자 20명을 대상으로 합니다. 수술 전에 NALIRIFOX(liposomal irinotecan, oxaliplatin, 5-fluorouracil, leucovorin) 치료를 시행하여 항종양 효과와 안전성을 평가합니다. 치료 후 수술을 진행하며 수술 후 추가 치료와 추적 관찰을 시행합니다. 초록에 명시되지 않은 구체적인 임상 결과나 수치는 아직 없습니다.",
+ "summary_ko": "이 2상 임상시험은 주요 혈관에 인접해 있으나 수술이 잠재적으로 가능한 경계성 절제 가능 췌관선암(pancreatic ductal adenocarcinoma) 환자들을 대상으로 수술 전 NALIRIFOX 요법(liposomal irinotecan, oxaliplatin, 5-fluorouracil, leucovorin)의 효과를 평가합니다. 치료는 14일 주기로 4~8회 진행되며, 마지막 투여 후 4~8주 후에 수술적 절제를 받습니다. 수술 후에도 최대 4회의 추가 치료를 받을 수 있습니다. 이 연구는 항종양 유효성, 임상적 유효성, 내인성 및 안전성을 평가하고 혈액 및 조직 기반 바이오마커를 탐색합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "NALIRIFOX Before Surgery for the Treatment of Borderline Resectable Pancreatic Ductal Adenocarcinoma, Nectar Trial",
- "title_ko": "경계성 절제 가능 췌장관암 환자 대상 수술 전 NALIRIFOX 요법, Nectar 임상시험",
+ "title_ko": "경계성 절제 가능 췌장암 치료를 위한 수술 전 NALIRIFOX 요법, Nectar 임상시험",
  "trial": {
   "conditions": [
    "Borderline Resectable Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: - 만 18세 이상 - 국립종합암네트워크(NCCN) 기준에 따른 경계성 절제 가능 췌장관암(PDAC)으로 조직학적 또는 세포학적으로 확진된 환자 - Eastern Cooperative Oncology Group(ECOG) 수행 상태가 1 이하인 환자 - 절대호중구수(ANC) 1,500 cells/uL 이상 - 혈소판 수 100,000 cells/uL 이상 - 혈색소 9 g/dL 이상 - 혈장 총 빌리루빈이 정상 상한(ULN) 이하 - AST 및 ALT가 정상 상한의 2.5배 이하 - 크레아틴 청소율 30 mL/min 초과 - 혈장 알부민 3 g/dL 이상 - RECIST 1.1 기준에 따른 측정 가능 또는 평가 가능한 질병 보유 - 적절한 피임 방법에 동의하는 가임기 참여자 - 연구의 시험적 성격을 이해하고 서면 동의서를 작성한 환자. 제외 기준: - 이전에 PDAC에 대한 항암화학요법이나 방사선 치료를 받은 적이 있는 환자 - 절제 가능, 절제 불가능 또는 전이성 PDAC 환자 - 통제되지 않는 동반 질환이 있는 환자 - 임산부 또는 수유 중인 여성 참여자 - 프로토콜 요구사항을 따를 의사가 없거나 따를 수 없는 환자 - 연구자의 판단에 따라 연구 약물 투여에 부적합하다고 판단되는 상태를 가진 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- NCCN 기준에 따른 경계성 절제 가능 췌관선암(PDAC)의 조직학적 또는 세포학적 확진\n- ECOG 수행능력 상태 0~1\n- 적절한 골수, 간, 신장 기능 유지 (ANC 1,500/uL 이상, 혈소판 100,000/uL 이상, 혈색소 9 g/dL 이상 등)\n- RECIST 1.1 기준에 따른 측정 가능 또는 평가 가능한 병변 존재\n\n제외 기준:\n- 이전에 PDAC에 대한 항암화학요법이나 방사선 치료를 받은 환자\n- 절제 가능, 절제 불가능 또는 전이성 PDAC 환자\n- 조절되지 않는 동반 질환(활동성 감염, 증상성 심부전, 불안정형 협심증, 심장 부정맥, 정신 질환 등)\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 old\n* Have histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC) that is borderline resectable (BR) using the National Comprehensive Cancer Network criteria\n* Have a documented Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 1\n* Absolute neutrophil count (ANC) ≥ 1,500 cells/uL without the use of hematopoietic growth factors\n* Platelet count ≥ 100,000 cells/uL\n* Hemoglobin ≥ 9 g/dL\n* Plasma total bilirubin ≤ upper limit of normal (ULN) (biliary drainage is allowed for biliary obstruction)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN\n* Creatine clearance of \\> 30 mL/min (per Cockroft-Gault equation)\n* Plasma albumin ≥ 3 g/dL\n* Have measurable or evaluable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form (ICF) prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Patients who have had previous chemotherapy or radiotherapy for PDAC\n* Patients with resectable, unresectable, or metastatic PDAC\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the investigator's opinion deems the participant an unsuitable candidate to receive study drug",
   "enrollment": 20,
   "has_results": false,
@@ -81,17 +82,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 항암화학요법 또는 방사선 치료력",
+    "전이성 또는 절제 불가능한 췌장암",
+    "조절되지 않는 동반 질환 또는 감염",
+    "임신 또는 수유 중인 여성"
+   ],
    "max_prior_lines": 0,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 경계성 절제 가능 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

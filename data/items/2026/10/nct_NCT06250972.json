@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
+  "drug",
   "diagnosis"
  ],
  "entities": [
@@ -23,10 +23,9 @@
  "id": "nct:NCT06250972",
  "importance": 0.89,
  "key_points_ko": [
-  "목표 환자 수는 총 210명이며, 연령은 18세에서 80세 사이입니다.",
-  "중재 방법은 Gemcitabine, Nab-paclitaxel, Irinotecan 및 강도조절방사선치료(IMRT)의 병행입니다.",
-  "무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 질병 조절률(DCR)을 매 4주마다 측정합니다.",
-  "초록에 생존기간이나 반응률 등 구체적인 결과 수치는 명시되지 않았습니다."
+  "대상 질환은 조직학적으로나 세포학적으로 확진된 진행성 췌관선암(pancreatic adenocarcinoma)입니다.",
+  "중재 방법으로 Gemcitabine, Nab-paclitaxel, Irinotecan 및 강도조절 방사선치료(Intensity-Modulated Radiation Therapy, IMRT)가 사용됩니다.",
+  "목표 환자 수는 210명이며, 결과 평가지표로는 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS) 등이 포함됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06250972"
  },
- "summary_ko": "이 연구는 화학항암치료에 불응성이 아닌 CA19-9 상승 진행성 췌장암(advanced pancreatic adenocarcinoma) 환자를 대상으로 화학항암치료와 방사선 치료 병행의 효과를 평가합니다. 췌장선암(pancreatic adenocarcinoma)은 5년 생존율이 10% 미만인 치명적인 악성 종양이며 대부분 진행된 단계에서 진단됩니다. 본 임상시험은 210명의 환자를 목표로 림프종 및 고형암 치료를 위한 Gemcitabine, Nab-paclitaxel, Irinotecan 및 강도조절방사선치료(Intensity-Modulated Radiation Therapy, IMRT)를 중재로 사용합니다. 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 질병 조절률(DCR)을 4주마다 측정합니다.",
+ "summary_ko": "이 연구는 화학항암치료에 불응하지 않고 CA19-9 수치가 상승한 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 항암화학요법과 방사선치료(radiotherapy)를 병행하는 치료의 효과를 평가합니다. 췌관선암(pancreatic adenocarcinoma)은 5년 생존율이 10% 미만인 치명적인 악성 종양이며, 약 80%의 환자가 진행된 단계에서 진단됩니다. 본 임상시험에서는 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 질병 조절률(DCR)을 측정합니다. 목표 환자 수는 210명이며 현재 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Radiotherapy to Patients With CA19-9-elevated Advanced Pancreatic Cancer",
- "title_ko": "CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선 치료 임상시험",
+ "title_ko": "CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
@@ -72,7 +71,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 서면 동의서를 이해하고 자발적으로 서명할 수 있는 능력.\n* 18세 이상 80세 이하.\n* 미국동부종양학협회(ECOG) 신체 상태 평가 0-2.\n* 조직학적 또는 세포학적으로 확진된 진행성 췌장선암.\n* 이전 화학항암치료에 불응성이 아니며 방사선 치료를 받은 적이 없는 환자.\n* 국소 진행성 췌장암(locally advanced pancreatic cancer).\n* 기저 혈청 CA19-9 > 37 U/mL, 그리고 화학항암치료 후 CA19-9 수치가 정상 범위(≤37 U/mL)로 회복된 환자.\n* RECIST 기준에 부합하는 측정 가능한 병변이 최소 1개 이상 존재.\n* 예상 생존 기간이 3개월 이상.\n* 혈액 검사 결과 적절한 장기 기능.\n* 가임 여성 및 남성은 연구 참여 전과 참여 기간 동안 적절한 피임법 사용에 동의.\n\n제외 기준:\n* 임산부 또는 수유부.\n* 원발성 췌장암(초록의 원문 표기에 따름).\n* 기저 혈청 CA19-9 ≤ 37 U/mL.\n* 병리학적으로 췌장 선암이 아닌 것으로 확진된 경우.\n* 췌장염, 담낭염, 담관염 등 소화기계 염증.\n* 프로토콜 순응도에 영향을 미치거나 결과 해석을 방해할 수 있는 심각하고 조절 불가능한 동반 질환.\n* 신기능 부전 또는 투석.\n* 연구자의 견해상 치료의 안전성에 심각한 악영향을 미칠 수 있는 기타 심각한 동반 질환.\n* oxaliplatin 또는 기타 화학항암제에 알레르기가 있는 환자.\n* 연구 절차를 따를 의사가 없거나 따를 수 없는 환자.",
+  "eligibility_ko": "선정 기준:\n* 서면 동의서를 이해하고 자발적으로 서명할 수 있는 자\n* 연령 18세 이상 80세 이하\n* 동부보조항암치료협력군(ECOG) 수행능력 상태 0~2\n* 조직학적 또는 세포학적으로 확진된 진행성 췌관선암\n* 이전 항암화학치료에 불응하지 않고 방사선치료를 받지 않은 환자\n* 국소 진행성 췌장암(locally advanced pancreatic cancer)\n* 기저 혈청 CA19-9 > 37 U/mL이며, 항암치료 후 CA19-9 수치가 정상 범위(≤37 U/mL)에 속하는 환자\n* RECIST 기준에 부합하는 측정 가능한 병변이 최소 1개 이상 존재\n* 기대 여명 3개월 이상\n\n제외 기준:\n* 임신 중이거나 수유 중인 여성\n* 기저 혈청 CA19-9 ≤ 37 U/mL인 환자\n* 병리학적으로 췌장의 비선암(non-adenocarcinoma)으로 진단된 경우\n* 췌장염, 담낭염, 담관염 등 소화기계 염증이 있는 경우\n* 프로토콜 순응도에 영향을 미치거나 결과 해석을 방해할 수 조절되지 않는 동반 질환\n* 신부전 또는 투석 중인 환자\n* 옥살리플라틴(oxaliplatin) 또는 기타 항암제에 알레르기가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Ability to understand and the willingness to sign a written informed consent document.\n* Age ≥ 18 years and ≤ 80 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Histologically or cytologically confirmed advanced pancreas adenocarcinoma.\n* Patients who are not refractory to previous chemotherapy and who have not received radiotherapy.\n* Locally advanced pancreatic cancer.\n* Baseline serum CA19-9 \\> 37 U/mL, and CA19-9 level within normal range (≤37 U/mL) after chemotherapy .\n* Presence of at least of one measurable lesion in agreement to RECIST criteria.\n* The expected survival ≥ 3 months.\n* Adequate organ performance based on laboratory blood tests.\n* Women of childbearing potential and men must agree to use adequate contraception prior to study entry and for the duration of study participation.\n\nExclusion Criteria:\n\n* Pregnant or nursing women.\n* Primary pancreatic cancer.\n* Baseline serum CA19-9 ≤ 37 U/mL.\n* The diagnosis was confirmed by pathology as non-adenocarcinoma of pancreas.\n* Inflammation of the digestive tract, including pancreatitis, cholecystitis, cholangitis, etc.\n* Severe and uncontrollable accompanying diseases that may affect protocol compliance or interfere with the interpretation of results.\n* Renal insufficiency or dialysis\n* Other serious accompanying illnesses, which, in the researcher's opinion, could seriously adversely affect the safety of the treatment.\n* Patients who are allergic to oxaplatin or other chemotherapy drugs.\n* Patients who are unwilling or unable to comply with study procedures.",
   "enrollment": 210,
   "has_results": false,
@@ -89,17 +88,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 여성",
+    "소화기계 염증(췌장염, 담낭염, 담관염 등)이 있는 경우",
+    "신부전 또는 투석 환자",
+    "옥살리플라틴이나 기타 항암제에 알레르기가 있는 환자"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "notes_ko": "이전 항암치료에 불응하지 않았으며 CA19-9 수치 변화가 있는 국소 진행성 췌장암 환자를 위한 시험입니다.",
+   "prior_excluded": [
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
+    "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "80 Years",
   "min_age": "18 Years",

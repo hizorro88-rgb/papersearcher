@@ -20,9 +20,9 @@
  "id": "nct:NCT07825753",
  "importance": 0.82,
  "key_points_ko": [
-  "목표 환자 수는 총 225명이며 진행성 또는 전이성 췌장암과 유방암 환자를 대상으로 합니다.",
-  "질량분석기 플랫폼을 이용해 종양 조직의 막 단백질을 절대 정량화하여 1~5개의 후보 타겟을 선정합니다.",
-  "Trastuzumab emtansine(T-DM1), Trastuzumab deruxtecan(T-DXd), Datopotamab deruxtecan(Dato-DXd), Sacituzumab govitecan(SG), Enfortumab vedotin(EV), Becotatug vedotin(MRG003), Izalontamab brengitecan(iza-bren / BL-B01D1), Mirvetuximab soravtansine(MIRV) 등의 중재 약물이 사용됩니다."
+  "목표 환자 수는 총 225명입니다.",
+  "중재 치료로 Trastuzumab emtansine(T-DM1), Trastuzumab deruxtecan(T-DXd), Datopotamab deruxtecan(Dato-DXd), Sacituzumab govitecan(SG), Enfortumab vedotin(EV), Becotatug vedotin(MRG003), Izalontamab brengitecan(iza-bren / BL-B01D1), Mirvetuximab soravtansine(MIRV) 등이 사용됩니다.",
+  "질량분석 기반 단백질 절대 정량 플랫폼을 이용해 환자별 표적 발현 프로파일을 분석합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,14 +47,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07825753"
  },
- "summary_ko": "본 임상시험은 국소 진행성 또는 전이성 췌장암 및 유방암 환자를 대상으로 질량분석기 기반 단백질 정량화 방식을 활용해 최적의 항체약물접합체(ADC) 또는 펩타이드약물접합체(PDC) 치료제를 매칭하는 2상 바스켓 임상시험입니다. 총 225명의 환자를 목표로 단일기관에서 진행되며 객관적 반응률(ORR) 등의 임상적 효능을 평가합니다. 환자 조직의 단백질 발현 프로파일을 분석하여 정량적 역치 기반의 맞춤형 치료 전략을 탐색합니다.",
+ "summary_ko": "질병이 진행된 국소 진행성 또는 전이성 췌장암 및 유방암 환자를 대상으로 질량분석 기반 단백질 절대 정량을 활용해 최적의 항체-약물 접합체(ADC) 또는 펩타이드-약물 접합체(PDC) 치료를 맞춤 선택하는 2상 우산형(umbrella) 임상시험입니다. 환자의 종양 조직에서 막 단백질 타겟 발현 프로파일을 분석하여 상위 후보 타겟에 맞는 치료를 배정하고 객관적 반응률(ORR)을 평가합니다. 총 225명의 환자를 목표로 단일기관에서 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
   "Breast Cancer"
  ],
  "title": "Protein-Matched ADC or PDC Umbrella Trial in Advanced Pancreatic and Breast Cancer",
- "title_ko": "진행성 췌장암 및 유방암 환자를 위한 단백질 맞춤형 항체약물접합체(ADC) 또는 펩타이드약물접합체(PDC) 바스켓 임상시험",
+ "title_ko": "진행성 췌장암 및 유방암 환자를 위한 단백질 맞춤형 ADC 또는 PDC 바스켓 임상시험",
  "trial": {
   "conditions": [
    "Advanced or Metastatic Pancreatic Adenocarcinoma",
@@ -72,7 +72,7 @@
     "phone": "+8664175590"
    }
   ],
-  "eligibility_ko": "선정 기준:\n1. 동의서 서명 시점 연령 만 18세 이상 75세 이하 남성 또는 여성.\n2. 동유럽협력종양학회(ECOG) 전신 수행 상태 점수 0 또는 1.\n3. 연구자가 평가한 기대 여명 3개월 이상.\n4. 조직학적으로 확인된 재발성(절제 불가능) 또는 전이성 진행성 췌장암 또는 유방암.\n5. 첫 연구 치료 투여 전 마지막 전신 치료 중 또는 치료 후 질병 진행의 영상학적 또는 객관적 증거.\n6. 재발성/전이성 설정에서 표준 치료 실패가 문서화되었으며, 최소 2차 이상의 이전 항암화학요법을 받은 경우(세부 기준 생략).\n7. 고형암 반응평가기준(RECIST) 버전 1.1에 따른 최소 1개의 두 개골 외 측정 가능 병변.\n8. 적절한 장기 및 골수 기능 (세부 혈액 및 생화학 수치 기준 충족).\n9. 가임 여성의 경우 피임 수유 관련 규정 준수 및 선별검사 7일 이내 음성 임신 테스트 결과.\n10. 연구 관련 절차 전 자발적 서면 동의서 작성.\n\n제외 기준:\n1. 연구용 약물 성분, 부형제 또는 기타 단일클론항체/펩타이드에 대한 심각한 과민반응 병력.\n2. 첫 연구 치료 투여 전 4주 이내(또는 연구용 제품 반감기의 5배 중 짧은 기간) 다른 중재적 임상시험 참여 (수술, 방사선, 항암치료 등 세부 기간 제한 존재).\n3. 연수막 전이 또는 활성 뇌 실질 전이.\n4. 다른 악성종양의 존재 또는 병력(치유된 기저세포암, 편평상피세포암 등 예외 존재).\n5. 조절되지 않는 동반 질환 (감염, 심혈관 질환, 소화기 질환, 정신 질환 등).\n6. 조절되지 않거나 임상적으로 유의한 심혈관 질환 (심근경색, 울혈성 심부전, 고혈압, 부정맥 등).",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 만 75세 이하의 남성 또는 여성\n- 동부종양학협력그룹(ECOG) 수행능력 상태 0 또는 1\n- 조직학적으로 확진된 재발성(절제 불가) 또는 전이성의 진행성 췌장암 또는 유방암\n- 마지막 전신 치료 중 또는 치료 후 질병 진행에 대한 방사선학적 또는 객관적 증거\n- 재발성/전이성 상태에서 표준 치료 실패가 확인되었고, 최소 2가지 이상의 이전 항암화학요법 치료 이력 보유\n- RECIST 1.1 기준에 따른 최소 1개 이상의 두개골 외 측정 가능한 병변\n- 적절한 장기 및 골수 기능 유지\n\n제외 기준:\n- 임상시험용 의약품 성분, 부형제 또는 기타 단일클론항체/펩타이드에 대한 중증 과민반응 이력\n- 첫 치료 전 4주 이내(또는 시험약 반감기의 5배 중 짧은 기간) 다른 중재적 임상시험 참여 이력\n- 연수막 전이 또는 활성 뇌 실질 전이\n- 기저세포암, 편평상피세포암 등을 제외한 다른 악성종양의 과거력 또는 현재 병력\n- 조절되지 않는 동반 질환(지속적/활동성 감염, 조절되지 않는 심혈관 질환 등)",
   "eligibility_text": "Inclusion Criteria:\n\n1. Male or female patients aged ≥18 years and ≤75 years at the time of informed consent.\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n3. Life expectancy of ≥3 months, as assessed by the investigator.\n4. Histologically confirmed recurrent (unresectable) or metastatic advanced pancreatic cancer or breast cancer.\n5. Radiographic or objective evidence of disease progression during or following the last systemic therapy administered prior to the first dose of study treatment.\n6. Documented failure of standard-of-care therapy in the recurrent/metastatic setting, with receipt of at least 2 prior lines of chemotherapy. If disease recurrence occurs within 6 months after completion of (neo)adjuvant chemotherapy, the adjuvant chemotherapy regimen shall be counted as 1 line of prior chemotherapy. Additionally:\n\n   For patients with hormone receptor-positive (estrogen receptor \\[ER\\]-positive and/or progesterone receptor \\[PR\\]-positive) and HER2-negative tumors: progression after at least 1 line of endocrine therapy, with the investigator's determination that the patient is unlikely to benefit from further endocrine therapy. Primary endocrine resistance in the adjuvant setting shall be counted as 1 line (disease recurrence within 24 months after completion of adjuvant endocrine therapy is considered 1 line). Prior treatment with CDK4/6 inhibitors is permitted.\n\n   For patients with HER2-positive advanced breast cancer: receipt of at least 2 prior lines of anti-HER2 therapy.\n7. At least 1 extracranial measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n8. Adequate organ and bone marrow function, as demonstrated by the following laboratory values obtained within 14 days prior to the first dose of study treatment:\n\n   1. Hemoglobin ≥90 g/L (without transfusion within 14 days prior to screening).\n   2. Absolute neutrophil count (ANC) ≥1.5 × 10⁹/L.\n   3. Platelet count ≥90 × 10⁹/L.\n   4. Total bilirubin ≤1.5 × upper limit of normal (ULN).\n   5. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤2.5 × ULN; if hepatic metastases are present, ALT and AST ≤5 × ULN.\n   6. Serum creatinine ≤1.5 × ULN, or creatinine clearance ≥60 mL/min as calculated by the Cockcroft-Gault formula.\n   7. International normalized ratio (INR)/prothrombin time (PT) and activated partial thromboplastin time (aPTT) ≤1.5 × ULN.\n   8. Left ventricular ejection fraction (LVEF) ≥50% as assessed by echocardiography or multigated acquisition (MUGA) scan; QTcF \\<470 ms for female patients.\n9. Women of childbearing potential (WOCBP) must agree to use highly effective contraceptive measures from the start of screening through 7 months after the last dose of study treatment, and must agree not to breastfeed. A negative serum pregnancy test is required within 7 days prior to the first dose of study treatment.\n10. Voluntary written informed consent signed prior to any study-specific procedures, with the expectation of good compliance and willingness to adhere to all protocol-specified study requirements.\n\nExclusion Criteria:\n\n1. Known history of severe hypersensitivity to the investigational drug substance, any excipients contained in the study drug formulation, or other monoclonal antibodies/peptides.\n2. Participation in any other interventional clinical trial (excluding observational studies) within 4 weeks (or 5 half-lives of the investigational product, whichever is shorter) prior to the first dose of study treatment. Receipt of any of the following within the specified time windows prior to the first dose of study treatment:\n\n   oSurgery (major cancer-directed surgery), radiotherapy, chemotherapy, biological therapy, or participation in another interventional clinical study within 3 weeks.\n\n   oEndocrine therapy, immunotherapy, molecularly targeted therapy, or anti-cancer traditional Chinese medicine within 2 weeks.\n3. Leptomeningeal metastases or active brain parenchymal metastases. Patients with clinically stable brain parenchymal metastases may be eligible, including those with asymptomatic brain metastases that have not received prior local therapy; or patients who have previously received treatment for CNS metastases (radiotherapy or surgery), provided that imaging-confirmed disease stability has been maintained for at least 4 weeks and symptomatic treatment (including corticosteroids and mannitol) has been discontinued for more than 2 weeks.\n4. Presence of or history of other malignancies, with the following exceptions: cured basal cell carcinoma or squamous cell carcinoma of the skin, carcinoma in situ of the cervix, papillary thyroid carcinoma, ductal carcinoma in situ of the breast, or any other malignancy with disease-free survival exceeding 3 years.\n5. Uncontrolled concurrent illness, including but not limited to: persistent or active infection, uncontrolled or clinically significant cardiovascular disease, severe chronic gastrointestinal disease associated with diarrhea, or any psychiatric illness or social situation that, in the investigator's judgment, would limit compliance with study requirements, significantly increase the risk of adverse events, or impair the ability to provide written informed consent.\n6. Uncontrolled or clinically significant cardiovascular disease, including any of the following:\n\n   1. History of myocardial infarction or symptomatic congestive heart failure (CHF) (New York Heart Association \\[NYHA\\] Class II-IV) within 6 months prior to enrollment. Patients with troponin levels above the upper limit of normal (ULN) at screening, as defined by the manufacturer, in the absence of any myocardial infarction-related symptoms, must undergo cardiology consultation prior to enrollment to rule out myocardial infarction.\n   2. Uncontrolled hypertension.\n   3. Uncontrolled and/or clinically significant cardiac arrhythmias.\n   4. QT interval corrected by the Fredericia method (QTcF) \\>470 ms for female patients, based on the mean of three 12-lead electrocardiogram (ECG) results obtained during the screening period.\n7. History of steroid-treated (non-infectious) interstitial lung disease (ILD)/pneumonitis, current ILD/pneumonitis, or suspected ILD/pneumonitis on screening imaging that cannot be ruled out.\n8. Clinically significant pulmonary comorbidities, including but not limited to: any underlying pulmonary disease (i.e., pulmonary embolism within 3 months prior to study enrollment, severe asthma, severe chronic obstructive pulmonary disease \\[COPD\\], restrictive lung disease, significant pleural effusion, etc.); any autoimmune, connective tissue, or inflammatory disease with pulmonary involvement (i.e., rheumatoid arthritis, Sjögren's syndrome, sarcoidosis, etc.); and/or prior pneumonectomy (completed).\n9. Use of immunosuppressive agents or systemic corticosteroids for immunosuppressive purposes within 2 weeks prior to the first dose of study treatment (dose \\>10 mg/day prednisone or equivalent dose of other corticosteroids). Nasal spray or inhaled corticosteroids are excluded from this criterion.\n10. Any active autoimmune disease or history of autoimmune disease with potential for relapse. Patients with skin conditions not requiring systemic treatment (e.g., vitiligo, psoriasis, alopecia), well-controlled type 1 diabetes mellitus on insulin therapy, or asthma that has completely resolved since childhood and requires no intervention in adulthood may be enrolled. Patients with asthma requiring bronchodilator therapy are not eligible.\n11. Uncontrolled infection requiring intravenous antibiotics, antiviral agents, or antifungal agents.\n12. Active primary immunodeficiency, known human immunodeficiency virus (HIV) infection, active hepatitis B (HBsAg-positive with HBV DNA ≥500 IU/mL), or active hepatitis C infection. Among patients who are hepatitis C antibody-positive, only those with negative HCV RNA by polymerase chain reaction (PCR) are eligible for enrollment.\n13. Unresolved toxicity from prior anti-cancer therapy, defined as toxicity not resolved to Grade ≤1 or baseline (excluding alopecia). Patients with chronic, stable Grade 2 toxicity that the investigator considers related to prior anti-cancer therapy (defined as no worsening to Grade ≥2 for at least 3 months prior to enrollment and manageable with standard treatment) may be enrolled (e.g., chemotherapy-induced neuropathy, fatigue). Residual toxicity from prior immune-oncology (IO) therapy: Grade 1 or Grade 2 endocrinopathies, which may include: (a) hypothyroidism/hyperthyroidism; (b) type 1 diabetes mellitus; (c) hyperglycemia; (d) adrenal insufficiency; (e) adrenalitis; (f) skin depigmentation (vitiligo).\n14. Imaging evidence of tumor invasion into major blood vessels, or, in the investigator's judgment, a very high likelihood of tumor invasion into major blood vessels during treatment that could result in fatal hemorrhage.\n15. Major surgical procedure, severe traumatic injury, fracture, or ulcer within 4 weeks prior to the first dose of study treatment.\n16. Pregnant or breastfeeding women; women of childbearing potential who are unwilling or unable to use highly effective contraceptive measures.\n17. Any other condition that, in the investigator's judgment, may interfere with the conduct of the study or the interpretation of study results.",
   "enrollment": 225,
   "has_results": false,
@@ -93,23 +93,25 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [
-    "HER2"
-   ],
+   "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "연수막 전이 또는 활성 뇌 실질 전이",
+    "다른 악성종양의 병력",
+    "조절되지 않는 심혈관 질환 또는 감염",
+    "시험약 성분에 대한 중증 알레르기 이력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 2,
-   "notes_ko": "",
+   "notes_ko": "이전 2가지 이상의 전신 항암 치료를 받은 진행성 전이성 또는 국소 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "adjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

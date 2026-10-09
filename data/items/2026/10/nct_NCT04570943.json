@@ -23,9 +23,10 @@
  "id": "nct:NCT04570943",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 절제 불가능한 국소 진행성 췌장선암(locally advanced pancreatic adenocarcinoma)입니다.",
-  "치료 중내는 Gabrinox(GEMBRAX 후 FOLFIRINOX) 순차 항암화학요법과 MRI 유도 정위적 방사선치료를 사용합니다.",
-  "목표 환자 수는 103명이며 연령 기준은 18세에서 75세입니다."
+  "대상 질환: 국소 진행성 췌관선암 (Non-metastatic locally advanced pancreatic adenocarcinoma)",
+  "중재 치료: Gabrinox 순차 화학요법(Gembrax 후 FOLFIRINOX) 및 MRI 유도 정위적 방사선 치료",
+  "목표 환자 수: 103명 (연령: 18세~75세)",
+  "연구 단계: 2상 임상시험 (Phase 2)"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,14 +51,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04570943"
  },
- "summary_ko": "이 임상시험은 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 GEMBRAX 요법(Gemcitabine-Abraxane) 후 FOLFIRINOX 요법을 시행하는 순차적 항암화학요법(Gabrinox)의 유효성을 평가합니다. 또한 항암화학요법 후 병 진행이 없는 환자를 대상으로 MRI 유도 정위적 방사선치료(MRI-guided stereotactic radiotherapy) 병행의 타당성을 평가합니다. 18세부터 75세 사이의 국소 진행성 췌장암 환자 103명을 목표로 2상 임상시험이 진행 중입니다.",
+ "summary_ko": "이 연구는 국소 진행성 췌관선암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel)을 포함하는 Gembrax 요법과 5-FU, 옥살리플라틴(oxaliplatin), 이리노테칸(irinotecan)을 포함하는 Folfirinox 요법을 순차적으로 시행하는 화학요법(Gabrinox)의 효능을 평가합니다. 또한, 이 강화된 화학요법 치료 후 병이 진행되지 않은 환자를 대상으로 자기공명영상(MRI) 유도 정위적 방사선 치료(stereotactic radiotherapy)의 타당성을 평가합니다. 총 103명의 환자를 목표로 18세에서 75세 사이의 환자가 참여합니다. 이 임상시험은 프랑스에서 진행 중이며 현재 환자를 모집하고 있습니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic",
   "cancer"
  ],
  "title": "Sequential Treatment With GEMBRAX and Then FOLFIRINOX Followed by Stereotactic MRI-guided Radiotherapy in Patients With Locally Advanced Pancreatic Cancer",
- "title_ko": "국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 MRI 유도 정위적 방사선치료",
+ "title_ko": "국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
@@ -69,7 +70,7 @@
     "phone": "0467612446"
    }
   ],
-  "eligibility_ko": "선정 기준: - 18세에서 75세의 연령 - 조직학적 또는 세포학적으로 확진된 췌장 선암 - ECOG 수행 능력 상태 0~1 - NCCN 지침에 따른 절제 불가능한 종양 - 흉부-복부-골반 CT 및 간 MRI로 확인된 비전이성 암 - 적절한 혈액학적 및 간·신장 기능 수치 - 12세 이하 환자의 경우 피임법 준수 동의 및 프랑스 건강보험 가입자. 제외 기준: - 췌장암에 대한 이전 치료 경험 - 길버트 증후군 또는 동형접합체 UGT1A1*28 - 기타 동반 암 또는 암 병력 - 연구 방사선 치료 영역과 겹칠 수 있는 이전 방사선 치료 - 심혈관 위험이 높은 환자 - 2등급 이상의 말초 신경병증 - MRI 및 MRI 유도 방사선 치료 금기 사항 - 임신부 또는 수유부 및 기타 통제되지 않는 심각한 동반 질환.",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 75세 이하의 환자\n- 조직학적 또는 세포학적으로 확진된 췌관선암\n- 동유럽종양학협력그룹(ECOG) 수행능력 상태 0~1\n- 다학제 전문가의 영상 검토를 통해 NCCN 권고안에 따라 수술 불가능한 것으로 판정된 종양\n- 흉부-복부-골반 CT 및 간 MRI를 통해 전이가 없음이 확인된 환자\n\n제외 기준:\n- 이전에 췌장암에 대한 치료(화학요법, 방사선 치료, 수술, 표적치료, 임상시험 치료 등)를 받은 경우\n- 길버트 증후군 또는 동형접합체 UGT1A1*28 유전자형\n- 3년 이내에 치료받은 적이 없는 다른 동시성 암 또는 암 병력\n- 연구 방사선 치료 영역과 겹칠 수 있는 이전 방사선 치료력\n- 2등급 이상의 말초 신경병증",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patient aged from 18 to 75 years at the date of signature of the consent form\n2. Histologically or cytologically proven pancreatic adenocarcinoma\n3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1\n4. Non-resectable tumour according to the National Comprehensive Cancer Network (NCCN) 1.2015 recommendations after external review of imaging data by multidisciplinary experts.\n5. Non-metastatic cancer confirmed by thorax-abdomen-pelvis computerized tomography (CT) scan and liver MRI\n6. SMART feasibility confirmed by centralized review\n7. Uracilemia \\< 16 ng/ml\n8. Hematological assessment within 14 days before inclusion, defined by:\n\n   * Neutrophils ≥ 2 000/mm3 (2 × 109/L);\n   * Platelets ≥ 100 000/mm3 (100 × 109/L);\n   * Hemoglobin ≥ 9 g/dl\n9. Liver function (within 14 days before inclusion) defined by:\n\n   * ASpartate Transaminase (AST) and ALanine Transaminase (ALT) ≤ 2.5 x Upper Limit of Normal (ULN);\n   * Total bilirubin ≤ 1.5 x ULN. Patients with a metallic biliary prosthesis due to biliary obstruction caused by the cancer may be included, if: a CT scan with injection of contrast medium and thin pancreas sections was performed before placing the biliary prosthesis, the bilirubin level after prosthesis fitting decreased to ≤20 mg/L (≤34 μmol/L), and in the absence of cholangitis.\n10. Creatininaemia within the reference limits, or calculated clearance ≥50 ml/min for patients with a serum creatinine value above or below the reference values (clearance calculated using the Chronic Kidney Disease EPIdemiology collaboration (CKDEPI formula).\n11. Serum calcium AND magnesium AND potassium ≥ Lower Limit Normal (LLN and ≤ 1.2 x Upper Limit Normal (ULN)\n12. Cancer Antigen (CA 19.9) \\<500 IU/mL (without cholestasis). Patients with CA 19.9 between 500 IU/mL and 1000 IU/mL can be included if the Positron Emission Tomography (PET) scan and peritoneal MRI (optional) do not detect any distant fixation, indicative of metastasis. Patients with CA 19.9 ≥ 1000 IU/mL cannot be included.\n13. Sexually active patients must use a contraceptive method considered adequate and suitable by the investigator during the entire period of administration of the study treatment and up to 6 months after the treatment end, for female and male patients.\n14. Signature of the consent form before any study-specific procedure.\n15. Covered by the French health insurance.\n\nExclusion Criteria:\n\n1. Any previous treatment for pancreatic cancer (e.g. chemotherapy, radiotherapy, surgery, targeted therapy, experimental therapy)\n2. Gilbert's syndrome or homozygous Uridine DiPhosphate Glucuronosyl Transferase 1 A1 (UGT1A1 \\* 28)\n3. Other concomitant cancer or history of cancer, except for treated in situ cancer of the cervix , basal cell or squamous cell carcinoma, superficial bladder tumour (Ta, Tis, and T1), or good-prognosis tumour cured without chemotherapy and without signs of disease in the 3 years before inclusion\n4. Prior radiotherapy likely to overlap with the planned study radiotherapy area (e.g. previous abdominal irradiation).\n5. Patients with high cardiovascular risk, including, but not limited to, coronary stent or myocardial infarction in the past 6 months.\n6. Peripheral neuropathy ≥ grade 2\n7. ECG with QTcorrected (QTc) interval longer than 450 ms for men and longer than 470 ms for women\n8. Contraindication to MRI and MRI-guided radiotherapy\n9. History of chronic inflammatory disease of the colon or rectum\n10. Any other concomitant and not controlled serious illness or disturbance that may interfere with the patient's participation in the study and safety during the study (e.g. severe liver, kidney, lung, metabolic, or psychiatric disorder)\n11. Intolerance or allergy to one of the study drugs (gemcitabine, Nab-paclitaxel, oxaliplatin, irinotecan, 5-FU) or to one of their excipients (e.g. fructose) listed in the Contraindications or Warnings sections and Special precautions of the Summary of Product Characteristics (SmPC) or prescription information\n12. Legal incapacity (patient under guardianship or wardship)\n13. Pregnant or breastfeeding woman. Fertile women must have a negative pregnancy test (serum β-hCG) performed 72 hours before inclusion\n14. Patient using vitamin K antagonists (Coumadin…) (possible modification of the treatment before inclusion)\n15. Active and uncontrolled bacterial or fungal infection that requires systemic treatment.\n16. Know active HIV infection\n17. History of peripheral arterial disease (e.g. lameness, Buerger's disease).\n18. Patient who received a attenuated live vaccine in the 10 days before inclusion\n19. Patient with history of pulmonary fibrosis or interstitial pneumonia.\n20. Inability to attend the follow-up visits due to geographic, social or mental reasons.\n21. Participation in another clinical study with a research product during the last 30 days before inclusion.",
   "enrollment": 103,
   "has_results": false,
@@ -86,19 +87,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "이전에 췌장암 치료를 받은 적이 있는 경우",
+    "3년 이내 다른 암 병력이 있는 경우",
+    "2등급 이상의 말초 신경병증이 있는 경우",
+    "MRI 및 MRI 유도 방사선 치료에 금기가 있는 경우"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 국소 진행성(수술 불가) 췌장암 환자를 위한 임상시험입니다.",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "locally_advanced",
-    "resectable"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

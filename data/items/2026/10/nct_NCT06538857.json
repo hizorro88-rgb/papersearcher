@@ -20,9 +20,9 @@
  "id": "nct:NCT06538857",
  "importance": 0.84,
  "key_points_ko": [
-  "목표 환자 수는 총 39명입니다.",
-  "환자들은 2대 1 비율로 CEB-01 병용 수술군(26명) 또는 단독 표준 수술군(13명)에 배정됩니다.",
-  "1차 안전성 및 유효성 평가를 위해 수술 후 단기(365일) 및 장기(1095일) 추적 관찰을 진행합니다."
+  "총 39명의 국소 절제 가능한 췌장암 환자가 참여합니다.",
+  "환자들은 표준 수술 후 CEB-01 임플란트를 삽입하는 군(26명)과 수술만 받는 군(13명)에 2:1로 무작위 배정됩니다.",
+  "단기 평가는 수술 후 365일, 장기 평가는 수술 후 1095일에 진행됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06538857"
  },
- "summary_ko": "본 임상시험은 국소 절제 가능한 췌장암(pancreatic cancer) 환자 39명을 대상으로 수술 후 CEB-01 임플란트 삽입의 안전성, 내인성, 약동학 및 유효성을 평가합니다. CEB-01은 항암화학요법 약물인 irinotecan의 활성 대사체인 SN-38을 포함하는 막 형태의 제제로 수술 부위에 국소적이고 지속적인 약물 방출을 유도합니다. 환자들은 표준 수술과 CEB-01 임플란트를 받는 군(26명)과 표준 수술만 받는 군(13명)에 2대 1 비율로 무작위 배정됩니다. 이 연구는 수술 후 국소 재발을 지연 또는 예방하고 허용 가능한 독성 프로필을 유지하는 것을 목표로 합니다.",
+ "summary_ko": "이 연구는 국소 절제 가능한 췌장암(pancreatic cancer) 환자를 대상으로 수술 후 CEB-01 임플란트를 수술 부위에 삽입하여 안전성과 유효성을 평가하는 초기 1상(early phase 1) 임상시험입니다. CEB-01은 irinotecan(이리노테칸)의 활성 대사물질인 SN-38을 국소적으로 지속 방출하는 막 형태의 약물입니다. 총 39명의 환자가 2대 1 비율로 무작위 배정되어 표준 수술 후 CEB-01을 삽입하는 군(26명)과 임플란트 없이 표준 수술만 받는 군(13명)으로 나뉩니다. 연구의 주요 목적은 수술 후 국소 재발을 지연 또는 예방하고 내반 가능한 독성 프로파일을 유지하는지 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "Locally advanced disease",
@@ -55,7 +55,7 @@
   "Borderline resectable pancreatic cancer"
  ],
  "title": "CEB-01 in Locally Resectable Pancreatic Cancer",
- "title_ko": "국소 절제 가능한 췌장암 환자를 위한 CEB-01 임상시험",
+ "title_ko": "국소 절제 가능한 췌장암 환자에서 수술 후 SN-38 함유 임플란트(CEB-01)의 안전성과 유효성 평가",
  "trial": {
   "conditions": [
    "Pancreatic Carcinoma"
@@ -72,7 +72,7 @@
     "phone": "+34 93 434 44 12"
    }
   ],
-  "eligibility_ko": "선정 기준: - 만 18세 이상 - 국소 진행성, 절제 가능 또는 경계성 절제 가능한 췌장암(원발성 암, 선암, 도관선암) 조직학적 또는 세포학적 진단 - 방사선학적으로 측정 가능한 병변 존재 - 췌십이지장절제술을 통해 외과적으로 제거 가능한 병변 보유 - 정상 신장 기능, 적절한 혈액학적 및 심장 기능, 간 기능 보유 - 이전 항암화학요법, 면역요법, 방사선요법의 급성 독성으로부터 완전히 회복된 환자 - Eastern Cooperative Oncology Group(ECOG) 수행능력 상태 0 또는 1 제외 기준: - 지난 2년 이내의 다른 악성 종양 - R2 절제술(수술 후 육안적 잔존 병변이 남은 경우) - irinotecan 및 SN-38 독성 증가 위험이 있는 동형접합체 UGT1A1 보유 환자 - 활동성 세균, 바이러스, 진균 감염 - 활동성 인간면역결핍바이러스(HIV), B형 간염, C형 간염 또는 만성 간질환 병력 - 임신 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인.\n- 조직학적 또는 세포학적으로 확진된 원발성 췌장암(국소 진행성, 절제 가능 또는 경계성 절제 가능).\n- 이전에 항암치료를 받은 경우 치료 중 진행성 질환이 documented되지 않았다면 참여 가능.\n- 영상 검사로 측정이 가능한 병변 보유.\n- 췌십이지장절제술을 통해 수술적 제거가 가능한 병변.\n- 정상적인 신장, 혈액, 심장 및 간 기능 보유.\n- 이전 항암, 면역, 방사선 치료의 급성 독성에서 완전히 회복된 환자.\n- ECOG 수행능력 0 또는 1.\n\n제외 기준:\n- 지난 2년 이내 다른 악성 종양 병력.\n- R2 절제 (수술 후 육안적 잔존 병변 남음).\n- irinotecan 및 SN-38 독성 위험이 알려진 동형접합 UGT1A1 보유 환자.\n- 활동성 세균, 바이러스, 진균 감염.\n- HIV, B형 간염, C형 간염 또는 만성 간질환 병력.\n- 임신부 또는 수유부.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Participants must have a diagnosis of:\n\n   1. Lesion/s of histologically or cytologically confirmed de novo carcinoma, adenocarcinoma or ductal adenocarcinoma of the pancreas with only locally advanced disease, resectable or borderline resectable.\n   2. Histopathological confirmation of the diagnosis can be done during surgery by means of intraoperative biopsy as per clinical practice.\n\n   No need of preoperative biopsy.\n3. Participants previously treated with chemotherapy will be eligible if they have not had documented progressive disease during treatment.\n4. Participants must have radiographically measurable disease; measurable disease is defined as the presence of at least one lesion obtained by a validate imaging technique (i.e., magnetic resonance imaging (MRI), computed tomography (CT) scan, PET scan, ultrasounds or others) that can be accurately measured.\n5. Participants should have surgically removable lesion/s for what they will be submitted to a pancreatoduodenectomy.\n6. Normal renal function as defined by biochemical parameters as follows: creatinine ≤2 mg/dl or creatinine clearance ≥ 60 ml/min/1.73 m2.\n7. Haematological and cardiac function as defined by biochemical and haematological parameters as follows: haemoglobin (Hb) ≥10 g/dL (with preoperative transfusion), platelets ≥80.000/mm3 with intraoperative transfusion, white blood cells (WBC) ≥3.000/mm3, neutrophil count ≥1.500/mm3.\n8. Liver function as defined by biochemical parameters as follows: alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 4 times the upper limit of normality \\[ULN\\]. Recommended serum bilirubin for eligibility is bilirubin ≤ 10 mg/dl (or equivalent value in μmol/L units). Preoperative biliary drainage to be done according to regular practice in each center. Patients in whom preoperative biliary drainage cannot be performed or biliary drainage was not completely effective, individualized decision to be made when bilirubin is ≥ 10 mg/dl (or equivalent value in μmol/L units).\n9. Participants must have fully recovered from the acute toxic effects (Grade 3 or above) of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this trial.\n10. Neoadjuvant chemotherapy is allowed in borderline and/or locally advanced cases borderline completed at least 4 weeks before surgery.\n11. Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1.\n12. Female subjects of childbearing potential must have a negative urine beta-human chorionic gonadotropin (beta-hCG) pregnancy test at time of screening.\n13. Men and women of childbearing potential must be willing to use adequate contraception throughout the study and for 6 months after surgery.\n14. The participant or a legally authorized guardian must acknowledge in writing that consent to become a study subject has been obtained prior to any protocol screening procedures.\n\nExclusion Criteria:\n\n1. Other malignancies within past 2 years.\n2. R2 resections (macroscopic disease remains after surgery).\n3. Patients with homozygous UGT1A1 known to be at risk of increased toxicity with irinotecan and SN-38.\n4. Active bacterial, viral or fungal infection.\n5. Known history of active human immunodeficiency virus (HIV) infection, hepatitis B, hepatitis C or chronic liver disease. Testing is not required in the absence of clinical findings or suspicion.\n6. Impossibility of ensuring adequate follow-up.\n7. Participants who, in the opinion of the investigator, may not be able to comply with the safety monitoring requirements of the study.\n8. Contraindication to computed tomography scan (CT).\n9. Major surgery within 14 days prior to starting study drug or still in recovery after experiencing surgical complications; neither tumour biopsy nor central line insertion are considered a major surgery.\n10. Other relevant concomitant illnesses.\n11. Participants' status post-allogeneic stem cell transplant are not eligible.\n12. Participants with disease of any major organ system that would compromise their ability to withstand therapy.\n13. Pregnancy or lactation. Pregnant women are excluded from this study; if the patient is a lactating mother, breastfeeding should be discontinued.",
   "enrollment": 39,
   "has_results": false,
@@ -89,21 +89,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "지난 2년 이내 다른 암 병력",
+    "활동성 감염",
+    "임신 또는 수유 중인 여성",
+    "이리노테칸 독성 위험이 있는 UGT1A1 변이"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "국소 절제 가능한 췌장암으로 수술을 받는 성인 환자.",
    "prior_excluded": [],
-   "prior_required": [
-    "immunotherapy"
-   ],
+   "prior_required": [],
    "setting": [
     "locally_advanced",
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

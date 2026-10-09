@@ -20,9 +20,9 @@
  "id": "nct:NCT06391892",
  "importance": 0.89,
  "key_points_ko": [
-  "목표 인원은 100명이며, 18세 이상 99세 이하의 국소성 췌장암 환자가 대상입니다.",
-  "선행수술이 권장된 환자 중 ctDNA 양성 여부에 따라 선행화학요법 또는 표준 치료(선행수술)를 비교 평가합니다.",
-  "주요 평가지표는 무병 생존기간(DFS)과 전체 생존기간(OS)입니다."
+  "목표 환자 수는 100명이며, 18세 이상의 국소성 췌장암 환자가 대상입니다.",
+  "ctDNA 양성 환자는 조기 재발 고위험군으로 간주하여 수술 대신 선행화학요법을 받습니다.",
+  "치료 그룹 간 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06391892"
  },
- "summary_ko": "이 임상시험은 국소성 췌장암(localized pancreatic cancer) 환자를 대상으로 액체생검을 통해 치료 방향을 결정하는 임상적 예후 영향을 평가합니다. 선행수술이 권장된 환자 중 순환종양 DNA(ctDNA) 양성 환자를 대상으로 표준 치료인 선행수술 대신 선행화학요법(neoadjuvant chemotherapy)을 시행하는 그룹과 비교합니다. 목표 인원은 100명이며, 무병 생존기간(DFS)과 전체 생존기간(OS)을 비교합니다.",
+ "summary_ko": "이 임상시험은 국소성 췌장암 환자를 대상으로 순환종양DNA(ctDNA) 검사를 통해 선행화학요법과 선행수술 중 적절한 치료법을 선택하고 임상적 예후 영향을 평가합니다. 종양위원회에서 선행수술을 권고받은 국소성 췌장암 환자 100명을 대상으로 합니다. ctDNA 양성 환자에게는 조기 재발 위험을 고려하여 수술 대신 선행화학요법을 시행합니다. 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery",
- "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA, ctDNA) 기반 치료: 선행화학요법 대 선행수술",
+ "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA) 기반 치료: 선행화학요법 대 선행수술",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -70,7 +70,7 @@
     "phone": "+4373276774562"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 연구 참여 동의서 작성\n- 18세 초과 연령\n- 선행수술이 예정된 국소성 췌장암 환자\n\n제외 기준:\n- 동시성 이차 악성종양(synchronous secondary malignancy)\n- 임신 상태",
+  "eligibility_ko": "선정 기준:\n- 동의서 서명 완료\n- 18세 초과\n- 선행수술이 예정된 국소성 췌장암\n\n제외 기준:\n- 동시성 이차 암\n- 임신",
   "eligibility_text": "Inclusion Criteria:\n\n* Informed consent\n* \\>18 years old\n* localized pancreatic cancer to go for upfront surgery\n\nExclusion Criteria:\n\n* synchronous secondary malignancy\n* pregnancy",
   "enrollment": 100,
   "has_results": false,
@@ -87,17 +87,21 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "동시성 이차 암",
+    "임신"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "선행수술이 권고된 국소성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "neoadjuvant"
+    "locally_advanced",
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "99 Years",
   "min_age": "18 Years",

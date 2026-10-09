@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "supportive",
-  "treatment"
+  "treatment",
+  "supportive"
  ],
  "entities": [
   "nalirifox",
@@ -24,10 +24,9 @@
  "id": "nct:NCT05482893",
  "importance": 0.85,
  "key_points_ko": [
-  "대상 질환은 수술 불가능하거나 전이성인 위암, 위식도접합부암, 담도암, 췌장관암(PDAC), 대장암입니다.",
-  "목표 환자 수는 최대 350명입니다.",
-  "국내 기관 참여 수는 초록에 명시되지 않았습니다.",
-  "Spevatamig(PT886)의 단독 투여 및 항암화학요법, 표적치료제, 면역관문억제제와의 병용 투여를 평가합니다."
+  "임상시험 단계는 제1/2상(PHASE1/PHASE2)이며, 목표 환자 수는 350명입니다.",
+  "췌장암 환자 대상으로는 Gemcitabine plus nab-Paclitaxel(Abraxane), FOLFIRINOX/mFFX, NALIRIFOX 등과 Spevatamig(PT886)의 병용 치료를 평가합니다.",
+  "환자 선정 기준에는 18세 이상, 고형암에 대한 RECIST V1.1 기준의 측정 가능 병변, ECOG 수행능력 0 또는 1 등이 포함됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -52,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05482893"
  },
- "summary_ko": "이 연구는 진행성 위장관암 환자를 대상으로 신약 Spevatamig(PT886)을 단독 투여하거나 항암화학요법, 표적치료제, 면역관문억제제(ICI)와 병용하여 안전성, 내약성, 약동학 및 예비 유효성을 평가하는 최초 인체 대상(first-in-human) 임상 1/2상 시험입니다. 췌장관암(PDAC)을 포함하여 위암, 위식도접합부암, 담도암, 대장암 환자가 대상입니다. 총 목표 환자 수는 350명이며, 국내 기관은 초록에 명시되지 않았습니다.",
+ "summary_ko": "본 임상시험은 진행성 위장관 암 환자를 대상으로 신약 Spevatamig(PT886)을 단독 투여하거나 항암화학요법, 표적치료제, 면역항암제(ICI)와 병용하여 안전성과 내인성, 약동학 및 예비 유효성을 평가하는 제1/2상 임상시험입니다. 대상 질환에는 절제 불가능하거나 전이성인 위선암, 위식도접합부 선암, 담도암, 췌장관선암(PDAC), 대장암이 포함됩니다. 총 350명의 환자를 목표로 환자 모집이 진행 중입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Spevatamig (PT886) as Monotherapy or in Combination With Chemo and/or Targeted Therapy and/or ICI, for the Treatment of Patients With Advanced Gastrointestinal Cancers, Including Gastric, Gastroesophageal Junction, Pancreatic Ductal or Biliary Tract Carcinomas (the TWINPEAK Study)",
- "title_ko": "진행성 위장관암 환자를 위한 단독 또는 병용 요법으로서의 Spevatamig (PT886) 임상 1/2상 연구 (TWINPEAK 연구)",
+ "title_ko": "진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(TWINPEAK 연구)",
  "trial": {
   "conditions": [
    "Gastric or Gastroesophageal Junction Adenocarcinoma",
@@ -71,7 +70,7 @@
     "phone": "858-766-0852"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상이며 동의서를 작성하고 프로토콜을 준수할 수 있는 환자\n- RECIST V1.1 기준에 따른 측정 가능한 고형암 병변 보유\n- 조직학적으로 확진된 수술 불가능한 진행성 또는 전이성 위암, 위식도접합부암, 담도암, 췌장암 환자 (각 파트별 치료 차수 및 병용 요법 기준에 따름)\n- CLDN18.2 발현 및 바이오마커 평가를 위한 포르말린 고정 파라핀 포묻기(FFPE) 종양 조직 제공 가능 환자\n- ECOG 수행 능력 평가 0 또는 1\n- 선별 검사 및 치료 시작 72시간 이내에 확인된 적절한 장기 기능\n\n제외 기준:\n- 임신 중이거나 수유 중인 여성\n- 적절한 피임법을 사용하지 않는 가임 여성\n- 지난 2년 이내에 전신 치료가 필요한 활동성 자가면역 질환이 있는 환자\n- 이전에 CLDN18.2, CD47 표적 치료 또는 SIRPα 표적 약물을 투여받은 적이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 18세 이상이며 동의서를 작성하고 프로토콜을 준수할 수 있는 자\n- 고형암에 대한 RECIST V1.1 기준에 따른 측정 가능 병변 존재\n- 췌장관선암(PDAC) 환자의 경우, 1차 전이성/진행성 치료로서 Gemcitabine + nab-Paclitaxel 또는 Gemcitabine + FOLFIRINOX/mFFX/NALIRIFOX 병용 투여 대상에 해당\n- CLDN18.2 발현 및 기타 바이오마커 평가를 위해 포르말린 고정 파라핀 포매(FFPE) 종양 조직 검체 제공 가능 자\n- ECOG 수행능력 0 또는 1\n- 스크리닝 시 적절한 장기 기능 확인\n\n제외 기준:\n- 임신 중이거나 수유 중인 여성\n- 적절한 피임법을 사용하지 않는 가임 여성\n- 지난 2년 이내에 전신 치료가 필요한 활동성 자가면역 질환이 있는 자\n- 이전에 CLDN18.2, CD47 표적 치료 또는 SIRPα 표적 제제를 투여받은 경력이 있는 자",
   "eligibility_text": "Key Inclusion Criteria\n\n1. 18 years or older and able to sign informed consent and comply with the protocol.\n2. Measurable disease as defined by RECIST V1.1 criteria for solid tumors.\n3. 3\\. Part A: Histologically or cytologically confirmed unresectable advanced or metastatic solid gastric, gastroesophageal junction (GEJ), biliary tract or pancreatic carcinomas previously treated for advanced (metastatic or unresectable) disease or for which treatment is not available or not tolerated.\n\n   Part B: Patients with PDAC and GC/GEJC must meet the same criteria as those in Part A depending on which indication and line of treatment are chosen for expansion. Patients considered 2L with BTC, without actionable genomic mutations. Patients considered 3L with CRC.\n\n   Part C, substudy C1: patients with 2L m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with Paclitaxel. Patients who are HER2 positive are eligible.\n\n   Part C, substudy C2: patients with 1L m/a PDAC will receive Spevatamig (PT886) in combination with Gemcitabine plus nab-Paclitaxel (Abraxane).\n\n   Part C, substudy C3: patients with 1L m/a PDAC will receive Spevatamig (PT886) in combination with Gemcitabine plus FOLFIRINOX/mFFX or NALIRIFOX.\n\n   Part C, substudy C4: Patients with m/a BTC without actionable genomic mutations who have progressed on 1L SOC chemotherapy (GemCis) ± ICI and are eligible for 2L SOC FOLFOX treatment.\n\n   Part C, substudy C5 and C7: Patients with CRC who are considered 3L, TAS-102 treatment naïve, eligible to receive 3L SOC TAS-102 treatment, and able to swallow oral tablets.\n\n   Part C, substudy C6 and C7: Patients with CRC who are considered 3L, and eligible to receive bevacizumab treatment, with no contraindication to bevacizumab\n\n   Part D, substudy D2: patients with m/a BTC with adenocarcinoma histology only, who are treatment naïve for their m/a disease and are eligible for treatment with SOC chemotherapy and ICI.\n\n   Part D, substudy D3: patients with 2L or 3L m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with KEYTRUDA® (pembrolizumab).\n\n   Part D, substudy D4: patients with 1L HER2 negative m/a GC/GEJ-C will receive Spevatamig (PT886) in combination with SOC chemotherapy and KEYTRUDA® (pembrolizumab).\n4. Able to provide a formalin fixed, paraffin embedded (FFPE) tumor tissue sample (preferably fresh biopsy or if not possible, archival tissue) to be assessed for CLDN18.2 expression and other biomarkers.\n5. ECOG performance status of 0 or 1.\n6. Adequate organ function confirmed at screening and within 72 hours of initiating treatment.\n\nKey Exclusion Criteria\n\nPatients are excluded from the study if any of the following criteria apply:\n\n1. Women who are pregnant or lactating.\n2. Women of child-bearing potential (WOCBP) who do not use adequate birth control.\n3. Has an active autoimmune disease that has required systemic treatment in the past 2 years.\n4. Prior CLDN18.2 or CD47 targeting therapies, or SIRPα (signal regulatory protein alpha) targeting agents.\n\nAdditional inclusion and exclusion criteria will apply.",
   "enrollment": 350,
   "has_results": false,
@@ -98,18 +97,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 여성",
+    "지난 2년 이내 전신 치료가 필요한 활동성 자가면역 질환",
+    "이전 CLDN18.2, CD47 또는 SIRPα 표적 치료 경력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 2,
-   "notes_ko": "",
+   "notes_ko": "전이성 또는 국소진행성 췌장관선암(PDAC) 환자를 위한 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

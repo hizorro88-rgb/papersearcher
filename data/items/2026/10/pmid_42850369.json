@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Choi GW",
+  "Seo Y",
+  "Lee I",
+  "Chae YS",
+  "Yun WG",
+  "Han Y",
+  "Jung HS",
+  "Cho YJ"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42850369",
+ "importance": 0.6,
+ "key_points_ko": [
+  "선행치료 후 췌관선암 환자의 CAP 종양 퇴행 등급 및 생존 결과를 다룬 연구에 대한 정오표입니다.",
+  "구체적인 수정 내용과 세부 연구 수치는 원문에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.1245/s10434-026-20624-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42850369"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42850369/"
+ },
+ "summary_ko": "선행치료를 받은 췌관선암(PDAC) 환자에서 미국병리학회(CAP) 병리학적 등급 체계를 이용해 종양 퇴행과 생존 결과를 평가한 원저 논문의 정오표(Correction)입니다. 기존 논문의 오류 사항을 정정하기 위해 게재되었습니다. 구체적인 정정 내역이나 세부 연구 수치는 제공된 내용에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction: Evaluating Tumor Regression and Survival Outcomes in Pancreatic Ductal Adenocarcinoma After Neoadjuvant Treatment according to CAP Grading System: Clinical Usefulness and Limitations",
+ "title_ko": "정정: CAP 등급 체계에 따른 선행치료 후 췌관선암의 종양 퇴행 및 생존 결과 평가: 임상적 유용성과 한계",
+ "trial": null,
+ "type": "paper"
+}

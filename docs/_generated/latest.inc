@@ -1,36 +1,35 @@
-최근 수집일: [2026-10-09](_generated/daily/2026/10/09.md) · 전체 474건 · 최근 7일 474건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
+최근 수집일: [2026-10-09](_generated/daily/2026/10/09.md) · 전체 480건 · 최근 7일 480건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
-#### [전이성 췌장관암 환자 대상 1차 치료로서 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교하는 임상시험](https://clinicaltrials.gov/study/NCT07490301)
+#### [1차 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
 <small>A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-24 · ClinicalTrials.gov · AbbVie · 중요도 1.00
 
 **NCT07490301** · 2상/3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07490301.md)
 
-이 연구는 전이성 췌장관암(Metastatic Pancreatic Ductal Adenocarcinoma, PDAC) 성인 환자를 대상으로 신약 telisotuzumab adizutecan과 FOLFOX(fluorouracil, folinic acid, oxaliplatin) 병용요법의 안전성과 질병 활성도 변화를 평가합니다. 2상과 3상으로 나누어 진행되며, 전 세계 약 200개 기관에서 총 900명의 환자를 모집합니다. 환자들은 telisotuzumab adizutecan 병용요법군 또는 표준 치료(SOC)군에 무작위 배정됩니다. 이 연구는 약 6년 동안 진행될 예정입니다.
+이 임상시험은 이전에 전신 치료를 받지 않은 성인 전이성 췌관선암(PDAC) 환자를 대상으로 진행됩니다. 신약 후보물질인 telisotuzumab adizutecan(텔리소투주맙 아디주테칸)과 FOLFOX 병용요법을 투여하고, 이를 기존 표준 요법(FOLFIRINOX)과 비교하여 안전성과 유효성을 평가합니다. 임상시험은 적정 용량을 탐색하는 2상과 표준 치료 대비 효과를 본격 비교하는 3상으로 순차 진행됩니다. 전 세계 약 200개 기관에서 약 900명의 환자를 모집하며 국내에서도 1개 기관이 참여합니다.
 
-- 목표 인원은 전 세계 약 900명입니다.
-- 국내 기관은 1곳이 참여합니다.
-- 임상시험은 2상과 3상 단계로 나누어 진행됩니다.
-- 대조군은 표준 치료(SOC, fluorouracil, leucovorin, oxaliplatin, irinotecan)입니다.
+- 이전에 전신 항암치료를 받지 않은 1차 전이성 췌장선암 환자 약 900명을 대상으로 하는 글로벌 2/3상 임상시험입니다.
+- 신약 후보물질 telisotuzumab adizutecan과 FOLFOX 병용요법을 기존 표준 치료(FOLFIRINOX)와 비교합니다.
+- ECOG 수행능력 평가 점수가 0 또는 1점이고 측정 가능한 병변이 있는 환자가 참여할 수 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct07491445"></a>
-#### [전이성 췌장관선암 환자의 1차 치료로서 daraxonrasib 단독 및 daraxonrasib과 GnP 병용요법에 대한 3상 임상시험](https://clinicaltrials.gov/study/NCT07491445)
+#### [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](https://clinicaltrials.gov/study/NCT07491445)
 <small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
 
-이 연구는 전이성 췌장암 환자를 대상으로 새로운 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 효과와 안전성을 평가하는 3상 임상시험입니다. 1차 치료로서 daraxonrasib 단독요법 또는 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-파클리탁셀)과의 병용요법을 표준 항암치료와 비교합니다. 총 900명의 환자를 세 군으로 무작위 배정하여 무진행 생존기간(PFS)과 전체 생존기간(OS)의 개선 여부를 확인합니다.
+이 임상시험은 전이성 췌관선암 환자의 1차 치료로 새로운 RAS 저해제인 daraxonrasib(다락소나십)의 효과와 안전성을 평가하기 위한 글로벌 무작위 배정 3상 연구입니다. 참여 환자는 다락소나십 단독 투여군, 다락소나십과 젬시타빈(gemcitabine) 및 납-파클리탁셀(nab-paclitaxel) 병용 투여군, 또는 표준 요법인 젬시타빈과 납-파클리탁셀 투여군 중 하나에 무작위로 배정됩니다. 연구진은 새로운 치료법이 기존 표준 항암화학요법 대비 무진행 생존기간(PFS) 및 전체 생존기간(OS)을 개선하는지 비교 평가합니다.
 
-- 전이성 췌장선암 환자 900명을 대상으로 진행되는 글로벌 3상 임상시험입니다.
-- daraxonrasib 단독, daraxonrasib+gemcitabine+nab-paclitaxel 병용, 표준 gemcitabine+nab-paclitaxel의 세 치료군을 비교합니다.
-- 국내 6개 기관이 참여하고 있으며, RAS 변이 여부와 무관하게 등록이 가능합니다.
+- 전이성 췌장선암 환자 약 900명을 대상으로 진행되는 다국가 임상 3상 시험입니다.
+- 표준 1차 요법(젬시타빈+납-파클리탁셀)과 다락소나십 단독 또는 병용요법의 치료 성적을 직접 비교합니다.
+- 국내 6개 기관이 참여하여 환자를 모집하고 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 

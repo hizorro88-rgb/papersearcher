@@ -19,9 +19,10 @@
  "id": "nct:NCT05013216",
  "importance": 0.81,
  "key_points_ko": [
-  "목표 환자 수는 코호트 A 25명(평가 가능 환자 20명), 코호트 B 12명(평가 가능 환자 10명)으로 총 31명 이상입니다.",
-  "1차 평가변수는 백신의 안전성 평가와 백신 투여 후 인터페론 감마(IFN-γ)를 생성하는 돌연변이 KRAS 특이적 T 세포의 최대 백분율 변화 평가입니다.",
-  "연구 대상 연령은 40세 이상이며, 국내 기관 참여는 없습니다."
+  "임상시험 단계: 제1상(Phase 1)",
+  "목표 환자 수: 총 31명 (코호트 A 25명, 코호트 B 12명 목표 등록)",
+  "주요 평가변수: 백신의 안전성 및 변이 KRAS 특이적 T 세포의 최대 백분율 변화 평가",
+  "국내 기관 수: 0곳"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05013216"
  },
- "summary_ko": "이 임상 1상 연구는 췌장암 발생 위험이 높은 환자들을 대상으로 돌연변이 KRAS(mutant-KRAS) 펩타이드 백신과 poly-ICLC 보조제의 안전성과 면역 반응을 평가합니다. 코호트 A는 췌장암 고위험군 및 췌장 이상 소견이 있는 환자 20명 평가를 목표로 총 25명을 등록합니다. 코호트 B는 췌장 낭성 신생물(pancreatic cystic neoplasm) 환자 10명 평가를 목표로 총 12명을 등록합니다. 연구는 선별 단계, 치료 단계, 그리고 장기 추적 관찰로 구성됩니다.",
+ "summary_ko": "이 1상 임상시험은 췌장암(pancreatic cancer) 발병 위험이 높은 환자들을 대상으로 변이 KRAS 펩타이드 백신(mutant-KRAS peptide vaccine)과 poly-ICLC 보조제의 안전성과 면역 반응을 평가합니다. 연구의 주요 목적은 백신 투여의 안전성을 확인하고, 백신 접종 후 인터페론-감마(IFN-γ)를 생성하는 변이 KRAS 특이적 T 세포의 최대 변화율을 평가하는 것입니다. 코호트 A에는 췌장암 고위험군 환자 25명을 등록하여 평가 가능한 환자 20명을 목표로 하며, 코호트 B에는 췌장 낭성 신생물 환자 12명을 등록하여 평가 가능한 환자 10명을 목표로 합니다. 모든 환자는 스크리닝, 치료, 추적 관찰 단계를 거치며, 마지막 백신 투여 후 약 1년부터 매년 추적 관찰을 선택할 수 있습니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS Peptide Vaccine",
@@ -56,14 +57,14 @@
   "Pancreatic Ductal Adenocarcinoma (PDAC)"
  ],
  "title": "Mutant KRAS -Targeted Long Peptide Vaccine for Patients at High Risk of Developing Pancreatic Cancer",
- "title_ko": "췌장암 고위험 환자를 위한 돌연변이 KRAS 표적 장쇄 펩타이드 백신 임상 1상",
+ "title_ko": "변이 KRAS 표적 장쇄 펩타이드 백신을 이용한 췌장암 고위험군 대상 제1상 임상시험",
  "trial": {
   "conditions": [
    "High Risk Cancer",
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 코호트 A: 췌장암 고위험군(가족성 췌장암 친족, FAMMM, BRCA2, ATM, PALB2, BRCA1, HNPCC 등 유전자 돌연변이 보유자)에 해당하며 췌장 영상 감시를 받고 있고 췌장낭(pancreatic cyst) 등 영상학적 이상 소견이 있는 환자\n- 코호트 B: 외과적 절호가 필요한 고위험 소견의 췌장 낭성 신생물이 있으며, 낭액 검사에서 연구 백신에 포함된 6가지 KRAS 돌연변이 중 하나가 확인된 환자\n- 연령 40세 이상\n- 충분한 장기 및 골수 기능 보유\n\n제외 기준:\n- 연구 기간 동안 다른 전신 또는 국소 항종양 치료가 필요한 경우\n- 첫 투여 전 4주 이내에 전신/국소 코르티코스테로이드, 면역억제제, 임상기기, 생백신, 알레르기 탈감작 치료, 대수술을 받은 경우\n- HIV, B형 간염, C형 간염 감염 환자\n- 조절되지 않는 동반 질환 또는 면역결핍 진단이 있는 경우\n- 임산부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n- 코호트 A: 췌장암 발병 고위험군(가족성 췌장암 친척 보유, FAMMM/BRCA2/ATM/PALB2/BRCA1/Lynch 증후군 등 유전자 돌연변이 보유자) 중 췌장 낭종 등 췌장 이상 소견이 있는 환자\n- 코호트 B: 수술적 절전이 필요한 고위험 특성을 가진 췌장 낭성 신생물(pancreatic cystic neoplasm)의 임상적, 방사선학적, 조직학적 증거가 있고, 낭성액 검사에서 백신에 포함된 6가지 KRAS 변이 중 하나가 확인된 환자\n- 적절한 장기 및 골수 기능 유지\n- 서면 동의서 서명 능력 및 의지\n- 가임기 여성의 경우 음성 임신 테스트 및 피임 지침 준수\n- 남성의 피임법 준수\n\n제외 기준:\n- 임상시험 중 다른 전신 또는 국소 항종양 치료가 필요한 경우\n- 첫 투여 전 4주 이내 전신/국소 코르티코스테로이드, 면역억제제, 임상시험용 기기, 생백신, 알레르겐 탈감작 치료, 대수술을 받은 경우\n- HIV, B형 간염, C형 간염 감염\n- 조절되지 않는 동반 질환(조절되지 않는 감염, 증상성 울혈성 심부전, 불안정형 협심증, 심장 부정맥, 전이성 암, 정신 질환 등)\n- 면역결핍 진단\n- 연구 일정 준수를 방해하는 의학적, 정신적, 사회적 이유\n- 임신 중이거나 모유 수유 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\nCohort A: Must fall into one of the three categories defined as high risk of developing pancreatic cancer and are undergoing pancreatic surveillance AND 2) have documented radiographic evidence of a pancreatic abnormality such as a pancreatic cyst.\n\n* High Risk Group 1 (familial pancreatic cancer relatives):\n\n  * \\>/=55 years old or 10 years younger than the age of youngest relative with pancreatic cancer, and\n  * Come from a family with 2 or more members with a history of pancreatic cancer (2 of which have a first-degree relationship consistent with familial pancreatic cancer), and\n  * Have a first-degree relationship with at least one of the relatives with pancreatic cancer.\n  * If there are 2 or more affected blood relatives, at least 1 must be a first-degree relative of the individual being screened.\n* High Risk Group 2 (Germline mutation carriers with an associated with an estimated lifetime risk of pancreatic cancer of \\~10% or higher):\n\n  * \\>/=40 years old and the Patient is a carrier of FAMMM (p16/CDKN2A) mutation regardless of family pancreas cancer history.\n\nOR\n\n* \\>/= 50 years old or 10 years younger than the age of the youngest relative with pancreatic cancer, and the Patient is a carrier of a known BRCA2, ATM, PALB2 mutation.\n* Persons with known genetic mutation should have proof of mutation status. Those who had research-related genetic testing must have confirmation by a clinical CLIA-certified laboratory.\n\n  o High Risk Group 3 (Germline mutation carriers with an associated with an estimated lifetime risk of pancreatic cancer of \\~5%):\n* \\>/= 50 years old or 10 years younger than the age of the youngest relative with pancreatic cancer, and\n* The patient is a carrier of a known, BRCA1, or HNPCC (hereditary non-polyposis colorectal cancer or Lynch syndrome, hMLH1, hMSH2, PMS1, hMSH6, EpCAM) gene mutation, and there is \\> 1 pancreatic cancer in the family, one of whom is a first- or second-degree relative of the subject to be screened.\n* Persons with known genetic mutation should have proof of mutation status. Those who had research-related genetic testing must have confirmation by a clinical CLIA-certified laboratory.\n* Cohort A: Patients must have a pancreatic imaging abnormality that is being followed by pancreatic imaging surveillance (EUS and/or MRI and /or CT), such as a pancreatic cyst consistent with an IPMN or parenchymal abnormalities consistent with PanIN.\n\n  * Cohort B: Patients must have clinical, radiographic, or histologic evidence of pancreatic cystic neoplasm with high-risk features warranting surgical resection per the discretion of the treating hepatobiliary surgeon.\n  * Cohort B: Patients must have cystic fluid testing that demonstrates the presence of one of the six KRAS mutations included in the study vaccine.\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests prior to initial study drug.\n* Ability to understand and willingness to sign a written informed consent document.\n* Woman of childbearing potential must have a negative pregnancy test and follow contraceptive guidelines as defined per protocol.\n* Men must use acceptable form of birth control while on study.\n\nExclusion Criteria:\n\n* If expected to require any other form of systemic or localized antineoplastic therapy while on study.\n* Within 4 weeks prior to first dose of study drug.\n\n  o Any systemic or topical corticosteroids at immunosuppressive agents.\n* Within 4 weeks prior to first dose of study drug.\n\n  * Any investigational device.\n  * Has received a live vaccine.\n  * Received any allergen hyposensitization therapy.\n  * Any major surgery.\n* Infection with HIV or hepatitis B or C.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements monoclonal antibody.\n* Has a diagnosis of immunodeficiency.\n* Any other sound medical, psychiatric, and/or social reason as determined by the Investigator.\n* Unwilling or unable to follow the study schedule for any reason.\n* Are pregnant or breastfeeding.",
   "enrollment": 31,
   "has_results": false,
@@ -80,17 +81,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "HIV, B형 간염 또는 C형 간염 감염",
+    "조절되지 않는 감염, 심부전, 협심증, 심장 부정맥, 전이성 암 등의 동반 질환",
+    "면역결핍 진단",
+    "임신 또는 모유 수유 중인 경우"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "췌장암 고위험군 또는 췌장 낭성 신생물이 있는 환자를 위한 백신 1상 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "40 Years",

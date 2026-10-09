@@ -4,6 +4,7 @@
  "categories": [
   "trial",
   "treatment",
+  "supportive",
   "diagnosis"
  ],
  "entities": [],
@@ -19,10 +20,9 @@
  "id": "nct:NCT07257523",
  "importance": 0.85,
  "key_points_ko": [
-  "목표 환자 수는 33명이며 전이성 없는 쇠약한 췌장암 환자를 대상으로 합니다.",
-  "중재 방법은 탄소이온방사선치료이며 총 12회 또는 4회 분할하여 진행합니다.",
-  "1차 유효성 평가지표는 전체 생존기간(overall survival)입니다.",
-  "2차 평가지표에는 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질이 포함됩니다."
+  "목표 환자 수는 33명이며 전이성 없는 췌장암 환자 중 수술이나 항암이 어려운 허약 환자를 대상으로 합니다.",
+  "중재 방법은 탄소이온방사선치료(carbon ion radiotherapy)이며 12회 또는 4회의 분할 치료를 받습니다.",
+  "주요 평가지표는 전체 생존기간(OS)이며 이차 평가지표로 무진행 생존기간, 국소 제어율, 독성, 삶의 질 등을 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,17 +47,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07257523"
  },
- "summary_ko": "본 임상시험은 수술이나 전신 항암 치료를 받을 수 없는 쇠약한 전이성 없음 췌장암 환자를 대상으로 탄소이온방사선치료(Carbon Ion Radiotherapy)의 유효성과 안전성을 평가하는 단일군 2상 연구입니다. 목표 환자 수는 33명이며 연세대학교에서 진행합니다. 주요 평가지표는 전체 생존기간(overall survival)이며 무진행 생존기간(progression-free survival), 국소 조절, 독성, 삶의 질 등을 평가합니다.",
+ "summary_ko": "이 연구는 수술이나 전신 항암 치료가 불가능하고 체력이 저하된(frail) 전이성 없는 췌장암 환자를 대상으로 탄소이온방사선치료(carbon ion radiotherapy)의 유효성과 안전성을 평가하는 전향적 단일군 2상 임상시험입니다. 대상 환자는 임상 쇠약 척도(Clinical Frailty Scale, CFS) 4점 이상이거나 중대한 동반 질환이 있는 경우에 해당합니다. 연구에서는 전체 생존기간(OS), 무진행 생존기간(PFS), 국소 제어율, 독성, 삶의 질을 평가합니다. 총 33명의 환자를 목표로 연세대학교에서 진행됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Carbon Ion Radiotherapy in Frail Patients With Pancreatic Cancer",
- "title_ko": "체외 탄소离子 방사선 치료가 쇠약한 췌장암 환자에게 미치는 효과",
+ "title_ko": "체력 저하 췌장암 환자를 위한 탄소 ion 방사선 치료",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasm"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진되었으며 원격 전이가 없는 췌장암 환자\n- 수술 또는 전신 항암 치료가 불가능하며, 임상 쇠약척도(Clinical Frailty Scale, CFS) 점수가 4점 이상이거나 표준 치료를 방해하는 유의미한 동반 질환이 있는 경우\n- 충분한 상담 후 수술 및 항암 치료를 거부한 환자\n- 만 19세 이상\n- 서면 동의서 제공이 가능한 환자\n- 탄소이온방사선치료를 받을 자격이 있고 의향이 있는 환자\n\n제외 기준:\n- 만 19세 미만\n- 기저 영상 검사에서 원격 전이가 확인된 경우\n- 치료를 방해할 수 있는 활성 또는 조절되지 않는 감염\n- 즉각적인 의학적 개입이 필요한 활성 출혈 또는 출혈 경향\n- 임신 또는 수유 중인 여성\n- 연구자의 판단에 따라 참여가 안전하지 않거나 부적절하다고 판단되는 상태\n- 연구 절차나 추적 관찰 일정을 준수할 수 없는 경우",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진되었으며 원격 전이가 없는 췌장암\n- 수술 또는 전신 항암 치료가 불가능하며, 임상 쇠약 척도(CFS) 점수 4점 이상이거나 표준 치료를 방해하는 중대한 동반 질환이 있는 경우, 또는 충분한 상담 후 수술 및 항암을 거부한 경우\n- 만 19세 이상\n- 서면 동의서 제공 가능\n- 탄소이온방사선치료 대상에 적합하고 치료를 원함\n\n제외 기준:\n- 만 19세 미만\n- 기저 영상 검사에서 원격 전이 발견\n- 치료에 지장을 줄 수 있는 활동성 또는 조절되지 않는 감염\n- 즉각적인 의학적 개입이 필요한 활동성 출혈 또는 출혈 경향\n- 임신 중이거나 수유 중인 여성\n- 연구자의 판단에 따라 참여가 안전하지 않거나 부적절한 상태\n- 연구 절차나 추적 관찰 일정 준수 불가",
   "eligibility_text": "Inclusion Criteria:\n\n\\- Histologically confirmed pancreatic cancer without distant metastasis.\n\nNot eligible for surgery or systemic chemotherapy, defined as:\n\nClinical Frailty Scale (CFS) score ≥ 4, or Significant medical comorbidities precluding standard treatment. Patients who decline surgery and chemotherapy after adequate counseling. Age ≥ 19 years. Able to provide written informed consent. Eligible and willing to receive carbon ion radiotherapy.\n\nExclusion Criteria:\n\n* Age \\< 19 years. Presence of distant metastasis at baseline imaging (CT/MRI/PET-CT). Active or uncontrolled infection that may interfere with treatment. Active bleeding or bleeding tendency requiring immediate medical intervention. Pregnant or breastfeeding women. Any condition that, in the investigator's judgment, makes participation unsafe or inappropriate (e.g., severe organ dysfunction preventing radiotherapy).\n\nInability to comply with study procedures or follow-up schedule.",
   "enrollment": 33,
   "has_results": false,
@@ -80,17 +80,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "원격 전이 존재",
+    "활동성 또는 조절되지 않는 감염",
+    "임신 또는 수유 중인 여성",
+    "연구 절차 준수 불가능"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "수술이나 전신 항암 치료가 불가능하고 체력 저하(CFS 4점 이상) 또는 동반 질환이 있는 비전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "20 Years",

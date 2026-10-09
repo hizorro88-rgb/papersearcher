@@ -1,0 +1,62 @@
+{
+ "abstract": null,
+ "authors": [
+  "Hur W",
+  "Kim G",
+  "Jang B",
+  "Shin H",
+  "Park K",
+  "Suh Y",
+  "Kim D",
+  "Lee H"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42851288",
+ "importance": 0.49,
+ "key_points_ko": [
+  "진행성 췌장암 환자에서 십이지장 폐쇄와 담도 스텐트의 십이지장 구부 노출이 동반되어 재발성 담도 패혈증이 발생했습니다.",
+  "복합적인 폐쇄 및 감염 상황을 내시경적 시술을 통해 성공적으로 관리한 증례입니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.4068/cmj.2026.62.3.136",
+  "nct": [],
+  "pmcid": "PMC13645499",
+  "pmid": "42851288"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-21",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chonnam Med J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42851288/"
+ },
+ "summary_ko": "진행성 췌장암 환자에서 담도 스텐트가 십이지장 구부로 장기간 노출되고 십이지장 폐쇄가 동반되어 발생한 재발성 담도 패혈증의 내시경적 치료 증례를 다룬 보고입니다. 십이지장 폐쇄와 담도 스텐트의 해부학적 위치 이상이 겹치면서 담즙 배액 장애 및 감염이 유발되었습니다. 의료진은 이러한 복합적인 합병증을 해결하기 위해 내시경적 접근을 통한 중재 시술을 성공적으로 시행했습니다. 이를 통해 진행성 췌장암 환자에서 복합 협착 및 스텐트 관련 감염 발생 시 내시경적 관리의 유용성을 보여주었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Endoscopic Management of Recurrent Biliary Sepsis Associated with Prolonged Biliary Stent Exposure into the Duodenal Bulb and Concurrent Duodenal Obstruction in Advanced Pancreatic Cancer",
+ "title_ko": "진행성 췌장암에서 담도 스텐트의 십이지장 구부 장기 노출 및 동반된 십이지장 폐쇄로 인한 재발성 담도 패혈증의 내시경적 관리",
+ "trial": null,
+ "type": "paper"
+}

@@ -21,8 +21,8 @@
  "importance": 0.94,
  "key_points_ko": [
   "목표 환자 수는 총 226명입니다.",
-  "환자들은 실험군(XNW28012 주사제 2.4 mg/kg) 또는 대조군(XNW28012 모방체)에 2대 1 비율로 무작위 배정됩니다.",
-  "치료제는 3주에 1회 투여됩니다."
+  "실험군은 XNW28012 주사(2.4 mg/kg)를 3주마다 1회 투여받습니다.",
+  "환자들은 2대 1 비율로 실험군 또는 대조군에 무작위 배정됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07823049"
  },
- "summary_ko": "이 연구는 두 가지 이전 표준 치료에 실패하거나 불내성인 전이성 췌장관암(metastatic pancreatic ductal carcinoma) 환자 226명을 대상으로 하는 무작위, 이중맹검, 다기관 제3상 임상시험입니다. 환자들은 2대 1 비율로 무작위 배정되어 실험군인 XNW28012 주사제 또는 대조군인 XNW28012 모방체 주사제를 3주에 1회 투여받습니다. 두 그룹 모두 최적의 지지지요법(optimal supportive care)을 함께 받습니다.",
+ "summary_ko": "이 임상시험은 이전 표준 치료에 실패하거나 불내성을 보인 전이성 췌장선암(metastatic pancreatic ductal carcinoma) 환자 226명을 대상으로 하는 무작위 배정, 이중맹검, 다기관 3상 임상시험입니다. 환자들은 2대 1의 비율로 실험군(XNW28012 주사) 또는 대조군(XNW28012 위약)에 무작위 배정됩니다. 두 그룹 모두 최적의 지지지료(optimal supportive care)를 함께 받게 됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Study of XNW28012 in Subjects With Metastatic Pancreatic Cancer Who Received Prior Systemic Therapy",
- "title_ko": "이전 치료를 받은 전이성 췌장암 환자 대상 XNW28012 임상 3상 연구",
+ "title_ko": "이전 전신 치료를 받은 전이성 췌장암 환자를 대상으로 하는 XNW28012 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -63,7 +63,7 @@
     "phone": "+86 15553136593"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 전이성 췌장관 선암종(PDAC) 환자\n- 두 가지 이전 표준 치료(젬시타빈 및 플루오로우리실 기반 항암화학요법) 후 질병 진행 또는 독성 불내성을 보인 환자\n- 동의서 서명 시점 만 18세 이상\n- RECIST 1.1 기준에 부합하는 측정 가능한 병변이 최소 1개 이상 존재\n- 미국동부암연구협력체(ECOG) 전신 수행 상태 점수 0~2인 환자\n- 무작위 배정 전 7일 이내에 적절한 장기 기능 수치를 충족한 환자\n- 가임 여성의 경우 무작위 배정 전 7일 이내 소변 또는 혈청 임신 테스트 결과가 음성인 환자\n\n제외 기준:\n- 대분자 약물(항체-약물 접합체(ADC) 또는 단일클론항체 등)에 대한 심각한 주입 반응 병력이 있거나 XNW28012의 구성 성분에 알레르기가 있는 환자\n- 이전 항종양 치료 후 충분한 휴지기(washout period)를 거치지 않은 환자\n- 본 임상시험의 연구 대상 암 외에 다른 활성 악성 종양이 있는 환자\n- 무작위 배정 전 4주 이내에 생백신을 접종받은 환자\n- 무작위 배정 전 특정 기간 내에 G-CSF, 수혈, 에스포이에틴(EPO) 등을 투여받은 환자\n- 조절되지 않는 심혈관 및 뇌혈관 질환이 있는 환자\n- 중추신경계(CNS) 전이 및/또는 암성 수막염이 있는 환자\n- 활동성 B형 간염, 활동성 C형 간염, HIV 양성 환자",
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 전이성 췌장선암(PDAC) 환자 - 두 가지 이전 표준 치료(gemcitabine 및 fluorouracil 기반 항암화학요법) 후 질병 진행 또는 독성 불내성 발생 - 18세 이상 성인 - RECIST 1.1 기준에 부합하는 측정 가능 병변이 최소 1개 이상 존재 - Eastern Cooperative Oncology Group(ECOG) 수행능력 상태 0~2\n\n제외 기준: - 항체-약물 복합체(ADC) 또는 단일클론항체 등 거대분자 약물에 대한 중증 주입 반응 병력, 또는 XNW28012 성분에 대한 알레르기 - 토포이소머라제 I 억제제 페이로드 ADC 또는 TF 표적 항종양 제제에 대한 이전 노출력 - 뇌 전이 및/또는 수막 암종증 환자 - 활성형 간염(B형, C형) 및 HIV 항체 양성 환자 - 임상적으로 유의미한 심혈관계/뇌혈관계 질환 병력 존재",
   "eligibility_text": "Inclusion Criteria:\n\n* Metastatic pancreatic ductal adenocarcinoma (PDAC), including adenosquamous carcinoma, confirmed histologically or cytologically.\n* Disease progression or toxicity intolerance after receiving two previous standard therapies (gemcitabine and fluorouracil-based chemotherapy).\n* Men and women were 18 years of age or older at the time of informed consent. At least one measurable lesion met RECIST 1.1 criteria. The region should have received no previous local treatment, such as radiotherapy, or there should be evidence of definite progression after the completion of local treatment, such as radiotherapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Subjects had to have adequate levels of organ function within 7 days before randomization.\n* Female subjects of childbearing potential had to undergo a urine pregnancy or serum pregnancy test with a negative result within 7 days before randomization. If the urine pregnancy test is positive or cannot be confirmed as negative, a serum pregnancy test must be performed.\n* Use of a medically approved, highly effective contraceptive method during the study and for 6 months after the last administration of study medication; Male subjects whose partner is a female of reproductive age should be surgically sterilized or agree to use an effective method of contraception during the study and for 6 months after the last study dose. In addition, male participants had to agree not to donate sperm during the study and for 6 months after the last study dose.\n\nI have signed the informed consent form and am willing and able to follow the study procedures required by the protocol.\n\nExclusion Criteria:\n\n* Patients with prior severe infusion reactions to macromolecular drugs such as antibody-drug conjugates (ADCs) or monoclonal antibodies, or allergic reactions to any component of XNW28012; patients with prior exposure to ADCs with a topoisomerase I inhibitor payload or TF-targeted anti-tumor agents.\n* Inadequate washout period from previous antineoplastic therapy before the first study drug, defined as follows:Chemotherapy or small molecule targeted therapy \\<2 weeks or 5 half-lives, whichever is shorter;Macromolecule monoclonal antibody treatment \\<3 weeks;Hormone therapy \\<3 weeks;Anti-tumor Chinese patent Medicine (with clear indications in the package insert) \\<2 weeks;Brain radiotherapy \\<2 weeks, palliative radiotherapy \\<2 weeks, and radical radiotherapy \\<4 weeks.\n* Any active malignancy, with the exception of the specific cancers studied in this trial and any cured localized neoplasm, e.g., eradicated noninvasive basal cell or squamous cell carcinoma, noninvasive superficial bladder cancer, carcinoma in situ of the cervix or breast, etc.\n* Receive live vaccine within 4 weeks before randomization. Note: Seasonal influenza vaccine is generally inactivated vaccine and can be used. However, intranasal influenza vaccines are not permitted if they are live attenuated.\n* Use of granulocyte colony-stimulating factor (G-CSF) or granulocyte/macrophage colony-stimulating factor within 1 week before randomization or pegylated G-CSF within 2 weeks before randomization. He had received a blood transfusion within 2 weeks before randomization. Erythropoietin (EPO) or IL-11 was administered within 1 week before randomization.\n* Hypoalbuminemia that was difficult to correct within 7 days before randomization.\n* Within 3 days before randomization, an ECOG score increase of ≥1 point from the ICF signing score or a weight loss of ≥10%.\n* Subjects who have not recovered to CTCAE grade ≤1 or stable toxicity from prior anticancer therapy, except for adverse events that are not considered to be a possible safety risk (e.g., alopecia or pigmentation).\n* Previous history of cerebral arteriovenous malformation, cerebral aneurysm, or stroke (including transient ischemic attack within 1 month before screening, except old or asymptomatic cerebral infarction).\n* Presence of any of the following hematologic risk factors:Known coagulation defects resulting in an increased risk of bleeding;Diffuse alveolar hemorrhage due to vasculitis;Known bleeding-prone constitution;Persistent heavy bleeding;Trauma that increases the risk of life-threatening bleeding;History of severe cranial trauma or intracranial surgery within 8 weeks prior to the start of the trial.\n* Subjects who are unwilling or unable to provide tumor tissue samples that meet the requirements for tissue factor (TF) expression detection.\n* Presence of clinically significant cardiovascular/cerebrovascular disease:History of unstable angina pectoris;Myocardial infarction within 6 months before screening;Angioplasty or cardiac stenting within 6 months before screening;History of New York Heart Association (NYHA) class 3-4 congestive heart failure;Abnormal QTc interval at baseline (QTcF \\> 480 ms);Occurrence of grade ≥ 2 ventricular arrhythmias and/or grade III atrioventricular block requiring clinical management within 6 months prior to screening;Poorly controlled hypertension: systolic blood pressure \\>160 mmHg or diastolic blood pressure \\>100 mmHg while using standard antihypertensive therapy;Presence of cardiac disease/history resulting in a left ventricular ejection fraction (LVEF) \\< 50%.\n* Subjects with central nervous system (CNS) metastases and/or carcinomatous meningitis.\n* Subjects with previous cicatricial conjunctivitis and active eye diseases during the screening period; Subjects with glaucoma of CTCAE grade ≥2.\n* A history of toxic epidermal necrolysis (TEN) or Steven Johnson syndrome.\n* Major surgery, except minimally invasive procedures (e.g., peripherally inserted central catheter), was performed within 4 weeks before randomization.\n* Subjects with active hepatitis B (HBsAg and/or HbcAb positive but HBV DNA\\<2000 IU/mL), active hepatitis C (HCV antibody positive but HCV RNA negative), and HIV antibody positive;\n* Use of systemic antibacterial, antifungal, or antiviral agents within 14 days prior to randomization to allow antiviral therapy for subjects with viral hepatitis.\n* The presence of immunodeficiency conditions requiring treatment or systemic use of corticosteroids (≥10 mg/ day of prednisone or another corticosteroid at a pharmacologic physiological dose) or other immunosuppressive drugs within 7 days before randomization.\n* Receipt of a strong CYP3A4 inhibitor or inducer or a strong CYP2D6 inhibitor within 2 weeks or five half-lives, whichever was shorter, before the first study drug.\n* Present with the following health conditions, including but not limited to:Clinically relevant bilateral hydronephrosis that is not relieved by ureteral or percutaneous drainage;Complete biliary obstruction;the presence of acute or chronic inflammatory skin diseases;the presence of inflammatory lung disease, including but not limited to moderate/severe asthma, chronic obstructive pulmonary disease (COPD), and interstitial lung disease;High risk of rupture and bleeding or GI/respiratory fistula due to tumor invasion of surrounding vital structures such as large blood vessels, trachea, etc.\n* Presence of clinical symptoms or signs of gastrointestinal obstruction within 4 weeks before randomization; A history of chronic diarrhoea, gastrointestinal perforation, fistula or bleeding; Inflammatory bowel diseases, including Crohn's disease and ulcerative colitis.\n* Presence of uncontrolled serous effusion requiring frequent drainage or medical intervention (e.g., pleural effusion, peritoneal effusion, pericardial effusion, etc.) within 14 days before randomization, requiring additional intervention within 2 weeks after intervention, excluding exfoliative cytology of exudate.\n* Pregnant, lactating women, or subjects who planned to become pregnant during the study period.\n\nThere are diseases that the investigator considers to be detrimental to the study treatment or interfere with the judgment of drug toxicity/adverse events; Or the presence of alcohol or drug abuse; Or subjects who, as judged by the investigator, were not compliant during the study.",
   "enrollment": 226,
   "has_results": false,
@@ -80,11 +80,16 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "뇌전이 및/또는 수막 암종증",
+    "활동성 B형 또는 C형 간염, HIV 양성",
+    "심근경색 등 임상적으로 유의미한 심혈관 질환 병력",
+    "이전 ADC 또는 특정 표적 치료제 노출력"
+   ],
+   "max_prior_lines": 2,
    "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "min_prior_lines": 2,
+   "notes_ko": "이전 2가지 표준 치료(gemcitabine 및 fluoropyrimidine 기반)를 받은 전이성 췌장선암 환자",
    "prior_excluded": [],
    "prior_required": [
     "gemcitabine",
@@ -93,7 +98,7 @@
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": null,

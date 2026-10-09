@@ -22,10 +22,9 @@
  "id": "nct:NCT04858334",
  "importance": 0.9,
  "key_points_ko": [
-  "목표 인원은 총 152명입니다.",
-  "중재 치료로 올라파립(olaparib) 또는 위약(placebo)을 28일 주기로 최대 12주기 동안 경구 투여합니다.",
-  "주요 평가지표는 올라파립 유지요법 추가에 따른 무재발 생존기간(RFS) 연장 효과입니다.",
-  "부수적 평가지표에는 전체 생존기간(OS) 및 유전자 변이 유형별 치료 효과 분석이 포함됩니다."
+  "대상 환자: BRCA1, BRCA2, 또는 PALB2 변이가 있고 수술적 절제를 마친 췌장암 환자",
+  "중재 방법: 올라파립(olaparib) 또는 위약 투여(12주기)",
+  "주요 평가지표: 무재발 생존기간(RFS) 및 전체 생존기간(OS)"
  ],
  "last_updated": "2026-10-09",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04858334"
  },
- "summary_ko": "이 2상 임상시험은 수술로 절제되었고 BRCA1, BRCA2 또는 PALB2 유전자 돌연변이가 있는 췌장암 환자를 대상으로 수술 및 항암화학요법 완료 후 유지요법으로서 올라파립(olaparib) 투여의 효과를 평가합니다. 올라파립은 DNA 복구를 돕는 효소인 PARP를 억제하여 종양 세포의 사멸을 유도하는 표적치료제입니다. 환자들은 무작위로 올라파립 군 또는 위약 군으로 배정되어 치료를 받게 됩니다. 본 연구의 주요 목적은 무재발 생존기간(RFS) 개선 여부를 확인하는 것입니다.",
+ "summary_ko": "이 2상 임상시험은 수술로 췌장암을 절제하고 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 수술 및 항암화학요법 완료 후 올라파립(olaparib) 유지요법의 효과를 평가합니다. 올라파립은 손상된 DNA 복구를 돕는 효소인 PARP를 억제하는 표적치료제입니다. 환자들은 무작위로 올라파립 군 또는 위약 군으로 배정되어 치료받게 됩니다. 주요 목적은 무재발 생존기간(RFS) 향상 여부를 확인하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "Adjuvant",
@@ -65,7 +64,7 @@
   "PARP"
  ],
  "title": "APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation",
- "title_ko": "APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 돌연변이 환자를 대상으로 올라파립과 위약을 비교하는 무작위 2상 이중맹검 연구",
+ "title_ko": "APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자에서 올라파립 대 위약을 비교하는 무작위 2상 이중맹검 연구",
  "trial": {
   "conditions": [
    "Pancreatic Acinar Cell Carcinoma",
@@ -77,7 +76,7 @@
    "Resectable Pancreatic Carcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상인 환자\n- 동부종양학협력그룹(ECOG) 수행능력 상태 0-2\n- 완치 목적의 수술적 절제를 성공적으로 마쳤고 재발 증거가 없는 췌장암 진단 환자(신경내분비종양 제외)\n- 최소 3개월(12주)에서 최대 6개월의 수술 전후(perioperative) 다제 병용 항암화학요법을 받았거나 계획 중인 환자\n- 가장 최근 치료(항암화학요법, 방사선치료 또는 수술)로부터 12주 이내인 환자\n- BRCA1, BRCA2 또는 PALB2 유전자의 병원성 또는 병원성 의심 생식세포 또는 체세포 돌연변이가 확인된 환자\n- 무작위 배정 전 4주 이내 촬영한 스캔에서 재발 또는 전이성 췌장암의 증거가 없는 환자\n- 백혈구 3,000/mcL 이상, 절대호중구수 1,500/mcL 이상, 혈소판 100,000/mcL 이상, 헤모글로빈 9.0 g/dL 이상\n\n제외 기준:\n- 백혈병(AML) 또는 골수형성이상증후군(MDS)의 개인적 병력이 있는 환자\n- 백금 기반 치료를 받는 동안 진행성 췌장암이 진행된 증거가 있었던 환자\n- 올라파립의 성분과 유사한 화학적 또는 생물학적 조성의 화합물에 알레르기 반응 병력이 있는 환자\n- 올라파립의 섭취나 흡수를 방해할 수 있는 조절되지 않는 위장관 장애가 있는 환자\n- 임신 중이거나 모유 수유 중인 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- ECOG 수행능력 상태 0-2\n- 췌장암 진단을 받고 완치 목적의 수술적 절제를 완료했으며 재발 증거가 없는 환자\n- BRCA1, BRCA2 또는 PALB2 유전자에 병원성 또는 병원성 의심 변이가 있는 환자\n- 최소 3개월(12주)에서 최대 6개월간의 수술 전후 전신 다중항암화학요법을 받은 환자\n\n제외 기준:\n- 신경내분비종양 환자\n- 백혈병(AML) 또는 골수형성이상증후군(MDS) 병력이 있는 환자\n- 백금 기반 치료 중 췌장암 진행 소견이 있었던 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* STEP 0 (PRE-REGISTRATION) INCLUSION CRITERIA\n* Patient must be \\>= 18 years of age on day of consent\n* Patient must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Patient must have a diagnosis of pancreatic cancer and have successfully undergone a curative intent surgical resection and must have no evidence of recurrent disease as determined by the investigator\n\n  * NOTE: This includes patients with adenocarcinoma, acinar carcinoma, squamous cell carcinoma adenosquamous and variants thereof. Patients with neuroendocrine tumors are excluded from enrolling\n* Patient must (1) be planning to receive, (2) be receiving or (3) have received at least three combined months (i.e., 12 weeks) of perioperative (neoadjuvant, adjuvant or a combination of both) systemic, multi-agent chemotherapy. Patients may have had up to 6 months of perioperative systemic therapy as deemed appropriate by their primary treating medical team (patients can have received radiation or chemoradiation in addition to this 6 month course)\n* Patient must be no more than 12 weeks from their most recent treatment (this may be chemotherapy, radiotherapy or surgery)\n* Patient must have a known pathogenic or likely pathogenic germline or somatic mutation in BRCA1, BRCA2, or PALB2, as determined by a Clinical Laboratory Improvement Amendments (CLIA) certified or equivalently-accredited laboratory. Mutations must be considered pathogenic or likely pathogenic by a reference database such as ClinVar or OncoKb.org\n* STEP 1 (RANDOMIZATION) INCLUSION CRITERIA\n* Patient must have met the eligibility criteria outlined above\n* Patient must have undergone at least 3 combined months (i.e., 12 weeks) of perioperative (neoadjuvant, adjuvant or a combination of both) systemic, multi-agent chemotherapy. Patients may have had up to 6 months of perioperative systemic therapy as deemed appropriate by their primary treating medical team (patients can have received radiation or chemoradiation in addition to this 6 months course)\n* Central expert reviewer must have determined the patient eligible for randomization after review of local genetic testing reports\n* If mutation in BRCA1, BRCA2 or PALB2 was identified in tumor tissue and the patient has not previously undergone germline testing, the patient must agree to undergo germline testing\n* Patient must have no evidence of recurrent or metastatic pancreatic cancer at the time of randomization as documented by baseline scans obtained =\\< 4 weeks prior to Step 1 randomization\n* Patient must not have previously had evidence of progressive pancreatic cancer while receiving platinum-based therapy\n* Patient must be \\>= 21 days (three weeks) from their last treatment (including chemotherapy radiotherapy or surgery) but =\\< 84 days (twelve weeks) from their last treatment at the time of Step 1 randomization. Patients who have received neoadjuvant and/or adjuvant radiotherapy are eligible\n* Patient must have recovered from any adverse events due to prior anti-cancer therapy (i.e., have no residual toxicities \\> grade 1 with the exception of alopecia and/or neuropathy)\n* Patient must not be receiving any other investigational agents at the time of Step 1 randomization and while on protocol treatment\n* Patient must not have any history of allergic reactions attributed to compounds of similar chemical or biological composition to olaparib\n* Patient must not have any personal history of myelodysplastic syndrome (MDS) or acute myeloid leukemia (AML). Patients with myelodysplastic syndrome/acute myeloid leukemia or with features suggestive of MDS/AML\n* Patient must not have any uncontrolled gastrointestinal disorder that would, in the opinion of the investigator, interfere with the ingestion or absorption of olaparib\n* Patient must not be pregnant or breast-feeding due the potential harm to an unborn fetus and possible risk for adverse events in nursing infants with the treatment regimens being used. All patients of childbearing potential must have a blood test or urine study within 14 days prior to Step 1 randomization to rule out pregnancy. A patient of childbearing potential is defined as anyone, regardless of whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point, 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patients must not expect to conceive or father children by using accepted and effective method(s) of contraception or by abstaining from sexual intercourse for the duration of their participation in the study and for 6 months after the last dose of protocol treatment for female patients and for 3 months after the last dose of protocol treatment for male patients. Patients must also not donate sperm while on protocol treatment and for 3 months after the last dose of protocol treatment. Patients must also not breast-feed while on protocol treatment and for 1 month after the last dose of protocol treatment\n* Leukocytes \\>= 3,000/mcL (obtained =\\< 28 days prior to Step 1 randomization)\n* Absolute neutrophil count \\>= 1,500/mcL (obtained =\\< 28 days prior to Step 1 randomization)\n* Platelets \\>= 100,000/mcL (obtained =\\< 28 days prior to Step 1 randomization)\n* Hemoglobin \\>= 9.0 g/dL with no blood transfusion in the past 28 days (obtained =\\< 28 days prior to Step 1 randomization)\n* Total bilirubin =\\< 1.5 institutional upper limit of normal (ULN) except in patients with Gilbert's syndrome. Patients with Gilbert's syndrome may enroll if direct bilirubin =\\< 2.5 x ULN of the direct bilirubin (obtained =\\< 28 days prior to Step 1 randomization)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional ULN (obtained =\\< 28 days prior to Step 1 randomization)\n* Creatinine =\\< 1.5 institutional ULN OR calculated Cockcroft Gault creatinine clearance \\> 50 mL/min/1.73 m\\^2 (obtained =\\< 28 days prior to Step 1 randomization)\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patient must not have resting electrocardiogram (ECG) indicating uncontrolled, potentially reversible cardiac conditions, as judged by the investigator (e.g. unstable ischemia, uncontrolled symptomatic arrhythmia, congestive heart failure, corrected QT \\[QTc\\] prolongation \\> 500 ms, electrolyte disturbances, etc.) or have congenital long QT syndrome\n* Concomitant use of known potent CYP3A4/5 inhibitors such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, telithromycin, clarithromycin and nelfinavir is prohibited\n* Patients who are being actively treated for an ongoing concurrent malignancy are ineligible, with the exception of those receiving adjuvant hormone therapies and those receiving topical therapies for skin cancers\n* Patient must not have, in the opinion of the investigator, any other concurrent medical condition that would prevent the patient from complying with the study procedures\n* Patient must not be considered a poor medical risk due to a serious, uncontrolled medical disorder, non-malignant systemic disease or active, uncontrolled infection. Examples include, but are not limited to, uncontrolled ventricular arrhythmia, recent (within 3 months) myocardial infarction, uncontrolled major seizure disorder, unstable spinal cord compression, superior vena cava syndrome, extensive interstitial bilateral lung disease on high resolution computed tomography (HRCT) scan or any psychiatric disorder that prohibits obtaining informed consent\n* Patient must have the ability to understand and the willingness to sign a written informed consent document, or have legally authorized representative provide authorization to participate\n* Patient must not have had major surgery within 2 weeks prior to Step 1 randomization and patients must have recovered from any effects of any major surgery",
   "enrollment": 152,
   "has_results": false,
@@ -101,19 +100,22 @@
     "BRCA_PALB2"
    ],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "key_exclusions_ko": [
+    "신경내분비종양 환자",
+    "골수형성이상증후군 또는 급성 골수성 백혈병 병력",
+    "백금 기반 치료 중 질병 진행 이력"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": false,
+   "min_prior_lines": 0,
+   "notes_ko": "수술을 마쳤고 BRCA1, BRCA2 또는 PALB2 변이가 있는 췌장암 환자를 위한 유지요법 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "resectable",
-    "adjuvant",
-    "neoadjuvant"
+    "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

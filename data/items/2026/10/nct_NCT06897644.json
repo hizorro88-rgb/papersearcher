@@ -23,10 +23,9 @@
  "id": "nct:NCT06897644",
  "importance": 0.94,
  "key_points_ko": [
-  "목표 환자 수는 총 340명입니다.",
-  "유도 FOLFIRINOX 치료를 최대 14주(약 6주기) 동안 시행합니다.",
-  "완전 반응, 부분 반응, 안정 병변 또는 비진행성 질환을 보인 환자를 1:1 비율로 무작위 배정합니다.",
-  "1차 평가지표는 전체 생존기간(OS)입니다."
+  "3개월간의 mFOLFIRINOX 유도 치료 후 질병 진행이 없는 진행성 췌장암 환자를 대상으로 합니다.",
+  "암 B군은 젬시타빈 플러스 냅-파클리탁셀로 유지치료를 받고, 암 A군은 mFOLFIRINOX 치료를 지속합니다.",
+  "목표 환자 수는 340명이며 1:1 비율로 무작위 배정됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06897644"
  },
- "summary_ko": "이 임상시험(PANThEON)은 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자를 대상으로 합니다. 유도 FOLFIRINOX 항암 치료를 3개월 동안 진행한 후 질병이 진행되지 않은 환자를 무작위로 배정합니다. A군은 FOLFIRINOX 유지 치료를 계속하고, B군은 gemcitabine(젬시타빈)과 nab-paclitaxel(냅-파클리탁셀)로 전환하여 유지 치료를 받습니다. 전체 생존기간(OS)을 비교하는 것이 목표입니다.",
+ "summary_ko": "PANThEON 임상시험은 수술 불가 국소진행성 또는 전이성 췌관선암(pancreatic adenocarcinoma) 환자를 대상으로 3개월간의 유도 mFOLFIRINOX 치료 후 질병 진행이 없는 환자에게 젬시타빈(gemcitabine) 플러스 냅-파클리탁셀(nab-paclitaxel) 유지치료(암 B군)와 mFOLFIRINOX 지속치료(암 A군)를 비교합니다. 전체 생존기간(OS)을 평가하기 위한 무작위 배정, 공개, 다기관 제3상 임상시험입니다. 총 340명의 환자를 목표로 1:1 무작위 배정합니다.",
  "summary_source": "llm",
  "tags": [
   "first line",
@@ -63,7 +62,7 @@
   "pancreatic cancer"
  ],
  "title": "Gemcitabine Plus Nab-paclitaxel as Switch Maintenance Versus Continuation of Modified FOLFIRINOX as 1st Line Chemotherapy in Patients With Advanced Pancreatic Cancer.",
- "title_ko": "진행성 췌장암 1차 치료로서 변형 FOLFIRINOX 유지 치료 대 젬시타빈+냅-파클리탁셀 전환 유지 치료를 비교하는 임상시험",
+ "title_ko": "진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma Advanced or Metastatic"
@@ -75,7 +74,7 @@
     "phone": "+3902 2390 2919"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 서면 동의서를 제공할 수 있고 연구 프로토콜을 준수할 수 있는 환자\n- 18세 이상의 성인\n- 조직학적 또는 세포학적으로 확진된, 1차 치료 대상인 절제 불가능한 국소 진행성 또는 전이성 췌장담관암(췌장 선암)\n- RECIST 1.1 기준에 따른 측정 가능 또는 측정 불가능한 병변의 존재\n- 바이오마커 분석을 위한 보관된 종양 검체(원발성 종양 또는 전이 부위) 확보 가능\n- ECOG 수행 능력 평가(PS) 0-1 (70세 미만인 경우), 70세 이상인 경우는 ECOG PS 0 필수\n- 예상 기대 여명 3개월 초과\n- 적절한 골수, 간, 신장 및 응고 기능 기준 충족 (호중구 수, 혈소판, 헤모글로빈, 빌리루빈, 크레아티닌 등 기준 충족 필요)\n- 완전한 디히드로피리미딘 탈수소효소(DPYD) 효소 결핍이 없을 것\n- 임신 가능성이 있는 여성 및 남성은 연구 기간 및 마지막 치료 후 최소 7개월 동안 피임 방법에 동의해야 함\n\n제외 기준:\n- 췌장 신경내분비종양, 선방세포종, 편평상피세포/선편평상피세포종, 또는 도세포종\n- 진행성 췌장선암에 대해 이전에 또는 동시에 받은 전신 치료(세포독성 약물, 표적 치료제, 기타 임상시험용 약물)력이 있는 경우 (단, 완치 목적의 수술과 연관된 이전 보조요법/신보조요법은 마지막 치료 후 9개월이 지난 경우 허용)\n- 무작위 배정 전 4주 이내에 시행한 주요 수술 또는 방사선 치료\n- 이전 치료로 인한 CTCAE 2등급 이상의 해결되지 않은 독성\n- 증상이 있거나 치료가 필요한 중추신경계(CNS) 전이\n- 다른 활성 악성 종양의 병력 또는 진행 중인 악성 종양 (치료된 기저세포암, 자궁경부 상피내암, 전립선암 제외)\n- 조절되지 않는 활동성 B형 또는 C형 간염, HIV 감염\n- 임신 중이거나 모유 수유 중인 환자",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 제공할 수 있고 연구 프로토콜을 준수할 수 있는 18세 이상 환자.\n- 조직학적 또는 세포학적으로 확진된 수술 불가능한 국소진행성 또는 전이성 췌관선암으로 1차 치료 대상인 환자.\n- RECIST 1.1 기준에 따른 측정 가능 또는 비측정 가능 병변 존재.\n- 생체표지자 분석을 위한 종양 조직 샘플 가용.\n- ECOG 수행능력 평가 0-1 (70세 미만) 또는 0 (70세 이상).\n- 예상 여명 3개월 초과.\n- 적절한 골수, 간, 신장 및 응고 기능 기준 충족.\n\n제외 기준:\n- 췌장 신경내분비종양, 아세포종, 편평세포/선편평세포종, 섬세포종.\n- 진행성 췌장암에 대한 이전 또는 동시 전신 항암 치료력 (단, 비전이성 수술 가능/경계성 수술 가능 췌장암에 대한 이전 (선행)보조치료는 마지막 투여 후 9개월이 경과하고 질병 진행이 없는 경우 허용됨).\n- 무작위 배정 전 4주 이내의 주요 수술 또는 방사선 치료.\n- 이전 치료로 인한 해결되지 않은 CTCAE 2등급 이상의 독성.\n- 증상이 있거나 치료가 필요한 중추신경계 전이.\n- 2년 이내의 다른 악성 종양 병력.\n- 조절되지 않는 활동성 B형 또는 C형 간염, HIV 감염.\n- 임산부 또는 수유부.",
   "eligibility_text": "Inclusion Criteria:\n\n* Patient able and willing to provide written informed consent and to comply with the study protocol.\n* Subjects must be ≥18 years.\n* Histologically or cytologically confirmed unresectable locally advanced or metastatic pancreatic adenocarcinoma eligible for treatment in the first-line setting.\n* Presence of measurable or non-measurable disease assessed by CT scan and/or MRI according to RECIST 1.1. Note: any lesion which has been subjected to percutaneous therapies or radiotherapy should not be considered measurable, unless the lesion has clearly progressed since the procedure.\n* Availability of archival tumor sample (primary tumor or metastatic site) for biomarker analysis.\n* ECOG performance status of 0-1 (if age \\< 70 years). If age ≥70 years, ECOG PS must be 0.\n* Estimated life expectancy \\> 3 months.\n* Adequate baseline hematologic function characterized by the following at screening:\n\n  * Absolute Neutrophil Count (ANC) ≥ 1.5 × 109/L.\n  * Platelets count ≥ 100 × 109/L.\n  * Hemoglobin ≥ 9 g/dl. Note: prior transfusions for patients with low hemoglobin are allowed.\n* Adequate liver function characterized by the following at screening:\n\n  * Serum total bilirubin ≤ 1.5 × ULN and \\< 2 mg/dL. Note: Subjects with Serum total bilirubin ≥ 1.5 × ULN and conjugated bilirubin ≤ ULN or \\< 40% of total bilirubin are allowed.\n  * Serum transaminases (AST and/or ALT) \\< 3 x ULN (\\< 5 x ULN in presence of liver metastasis). In participants with elevated AST or ALT, the values must be stable for at least 2 week and with no evidence of biliary obstruction by imaging.\n* Adequate renal function, i.e. serum creatinine ≤ 1.5 x institutional ULN and calculated by Cockroft-Gault formula or directly measured creatinine clearance ≥ 50 mL/min.\n* Adequate coagulation functions as defined by International Normalized Ratio (INR) ≤ 1.5, and a partial thromboplastin time (PTT) ≤ 5 seconds above the ULN (unless receiving anticoagulation therapy).\n* No presence of complete dihydropyrimidine dehydrogenase (DPYD) enzyme deficiency (homozygous of the following DPYD polymorphisms: c1679GG, c1905+1AA, c2846TT) with DPYD gene testing mandatory at screening as per national guidelines. UDP-glucuronosyltransferase 1A1 (UGT1A1) testing is not mandatory. However, if UGT test is routinely performed in the participating centers, enrolment of patients carriers of variants of DPYD and homozygous variant UGT1A1 \\[7/7\\] has to be discussed with the Sponsor.\n* Women of childbearing potential must agree to remain abstinent (refrain from sexual intercourse) or use highly effective contraceptive methods, as defined in APPENDIX V of the full protocol, during the treatment period and for at least 7 months after the last administration of study treatments.\n* Negative serum pregnancy test within 7 days of starting study treatment in pre-menopausal women and women \\<1 year after the onset of menopause.\n* Men must agree to remain abstinent (refrain from sexual intercourse) or use highly effective contraceptive methods during the treatment period and for at least 7 months after the last administration of study treatments.\n* Participants must agree not to donate eggs/sperm for future use for the purposes of assisted reproduction during the study and for a period of 7 months after receiving the last dose of study treatment. Female and male participants should consider preservation of eggs/sperm prior to study treatment as anti-cancer treatments may impair fertility.\n\nExclusion Criteria:\n\n* Pancreatic neuroendocrine, acinar, squamous/adenosquamous, or islet tumors.\n* Previous or concurrent systemic (e.g. cytotoxic or targeted or other experimental drugs) therapy for advanced pancreatic adenocarcinoma.\n\nNote: previous (neo)adjuvant or perioperative anti-cancer therapy for non-metastatic, resectable or borderline resectable PDAC, associated with surgery on the primary tumor, is allowed if \\> 9 months have elapsed from the last dose of therapy and documented disease progression or relapse.\n\n* Major surgery or radiation therapy performed within \\<4 weeks before randomization. Palliative radiotherapy to bone lesions is allowed if performed \\> 2 weeks prior to start of study treatment. Patients must have recovered from an effect from major surgery.\n* Known allergy or hypersensitivity to study drugs and/or their excipients.\n* Unresolved toxicity ≥ CTCAE grade 2 attributed to any prior therapies (e.g. grade ≥2 peripheral neurotoxicity), excluding anemia or alopecia.\n* Presence of symptomatic central nervous system (CNS) metastases, or CNS metastases that requires directed therapy (such as radiotherapy or surgery) or increasing doses of corticosteroids 2 weeks prior to study entry. Participants with treated symptomatic brain metastases should be neurologically stable for 4 weeks post-treatment and prior to study entry.\n* Any known additional malignancy that is progressing or requires active treatment, or history of other malignancy within 2 years prior to study entry except for curatively treated basal cell carcinoma of the skin, in situ carcinoma of the cervix, and prostate cancer.\n* Know active uncontrolled hepatitis B or hepatitis C. Patients with a past or resolved HBV infection are eligible. Patients with chronic disease controlled by antiviral therapy or requiring prophylactic treatment are eligible.\n* Chronic or current active infectious disease requiring systemic antibiotics or antifungal treatment within 2 weeks prior to enrollment.\n* Known uncontrolled HIV infection. HIV-positive patients are eligible if their CD4+ cell count amounts to 300 cells per μL or more; HIV viral load must be undetectable per standard of care assay, and patients must be compliant with antiretroviral treatment.\n* Pregnant or breast-feeding patient, or patient planning to become pregnant within 7 months after the end of treatment.\n* Severe or uncontrolled cardiovascular disease (congestive heart failure NYHA \\> II, unstable angina pectoris, history of myocardial infarction within 3 months before study entry, significant arrhythmia).\n* Presence of psychiatric disorder precluding understanding of information of trial related topics and giving informed consent.\n* Any serious underlying medical conditions (judged by the investigator), that could impair the ability of the patient to participate in the trial.",
   "enrollment": 340,
   "has_results": false,
@@ -96,17 +95,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "중추신경계 전이가 있는 경우",
+    "2년 이내 다른 암 병력",
+    "조절되지 않는 감염 또는 간염",
+    "임신 또는 수유 중인 경우"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "mFOLFIRINOX 1차 유도 치료 후 진행이 없는 수술 불가 국소진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
-   "prior_required": [],
-   "setting": [
-    "metastatic"
+   "prior_required": [
+    "FOLFIRINOX"
    ],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -24,9 +24,9 @@
  "id": "nct:NCT05083247",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 256명입니다.",
-  "환자들은 mFOLFIRINOX 또는 Gem-Nab-P로 4주기 초기 항암치료를 받습니다.",
-  "비진행 환자는 무작위 배정되어 A군(추가 항암치료 후 수술) 또는 B군(추가 항암치료, iHD-SBRT 및 수술)으로 나뉩니다."
+  "목표 환자 수는 총 256명이며 경계성 절제 가능 췌장암 환자를 대상으로 합니다.",
+  "초기 4주기의 mFOLFIRINOX 또는 Gem-Nab-P 항암 치료 후 비진행 환자를 대상으로 1:1 무작위 배정을 시행합니다.",
+  "대조군은 추가 항암 치료 후 수술을 받으며, 시험군은 추가 항암 치료와 고선량 정위체부방사선치료(iHD-SBRT) 후 수술을 받습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,7 +51,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05083247"
  },
- "summary_ko": "이 임상시험은 경계성 절제 가능 췌장암(borderline resectable pancreatic adenocarcinoma) 환자를 대상으로 수술 전 선행화학요법(neoadjuvant therapy)에 등독성 고선량 정위체부방사선치료(iHD-SBRT)를 추가하는 치료의 유효성을 평가합니다. 환자들은 mFOLFIRINOX 또는 gemcitabine plus nab-paclitaxel(Gem-Nab-P)로 4주기 치료를 받은 후, 질병이 진행되지 않은 경우 무작위 배정되어 수술 전 추가 항암치료 또는 방사선치료를 포함한 추가 치료를 받게 됩니다. 목표 환자 수는 256명이며, 다기관, 전향적, 무작위 비교 중재 연구로 진행됩니다.",
+ "summary_ko": "이 임상시험은 경계성 절제 가능(borderline resectable) 췌장관선암(pancreatic adenocarcinoma) 환자를 대상으로 수술 전 항암화학요법(mFOLFIRINOX 또는 Gem-Nab-P)에 동등선량 고선량 정위체부방사선치료(iHD-SBRT)를 추가하는 치료의 유효성을 평가합니다. 총 256명의 환자가 참여하며, 초기 4주기 항암 치료 후 비진행 환자를 무작위 배정하여 항암 치료만 진행하는 군과 항암 치료 및 iHD-SBRT를 병행하는 군으로 나누어 수술을 진행합니다. 초록에 명시된 최종 생존율이나 반응률 등 구체적인 임상 결과 수치는 아직 초록에 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "borderline resectable pancreatic cancer",
@@ -60,7 +60,7 @@
   "chemotherapy"
  ],
  "title": "Preoperative mFOLFIRINOX (or Gem-Nab-P) +/- Isotoxic High-dose SBRT for Borderline Resectable Pancreatic Adenocarcinoma",
- "title_ko": "경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX 또는 Gem-Nab-P 항암치료 후 등독성 고선량 정위체부방사선치료(iHD-SBRT) 병용을 평가하는 2상 임상시험",
+ "title_ko": "경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD-SBRT) 병용의 효과를 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasm",
@@ -79,7 +79,7 @@
     "phone": "003225553016"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 췌장 머리, 유구돌기, 몸통 또는 꼬리 선암의 세포학적 또는 조직학적 증거\n- cTNM 병기 T1-4 N0-2 M0\n- NCCN 기준에 따른 경계성 절제 가능 병기 확인\n- 18세 이상\n- 췌장암에 대한 이전 화학요법 또는 방사선 치료 이력 없음\n- ECOG 수행 능력 상태 0 또는 1\n- 2등급 이상의 신경병증 없음\n- 호중구 절대 수치(ANC) 1,500/mm³ 이상, 혈소판 수 100,000/mm³ 이상, 혈색소 9 g/dL 이상\n- 크레아티닌 1.5 x 정상 상한(ULN) 이하 또는 추정 GFR > 45 mL/min\n- 빌리루빈 1.5 x ULN 이하\n- AST/ALT 2.5 x ULN 이하\n- CA 19.9 < 2500 kU/l\n\n제외 기준:\n- 영상 검사나 복강경을 통해 확인된 췌장 외 질환 또는 원격 전이\n- NCCN 기준에 따른 국소 진행성 질환\n- CA 19.9 > 2500 kU/l\n- 일반적인 수술 금기증\n- FFX 또는 gemcitabine-nab-Paclitaxel 투여 금기증\n- 상복부 방사선 치료 이력\n- 옥살리플라틴, 이리노테칸, 플루오로우리실, 카페시타빈 사전 치료\n- 18세 미만 환자\n- 연구 진입 4주 이내의 주요 수술\n- 조절되지 않는 기존 질환 및 임신부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n- 췌장 머리, 유구돌기, 몸통 또는 꼬리 부위의 선암에 대한 세포학적 또는 조직학적 확진\n- cTNM 병기 T1-4 N0-2 M0\n- NCCN 기준에 따른 다학제 위원회의 경계성 절제 가능(borderline resectable) 판정\n- 18세 이상 성인\n- 췌장암에 대한 이전 항암화학요법 또는 방사선 치료력이 없음\n- ECOG 수행능력 상태 0 또는 1\n- 2등급 이상의 말초 신경병증 없음\n- 적절한 골수, 간 및 신장 기능 수치 만족\n\n제외 기준:\n- 진단 영상, 조직검사 또는 복강경을 통해 확인된 췌장 외 전이 병변 존재\n- NCCN 기준에 따른 국소 진행성(locally advanced) 췌장암\n- CA 19.9 수치가 기저치 기준 2500 kU/L 초과\n- 수술에 대한 전신적 금기증\n- FFX 또는 gemcitabine-nab-paclitaxel 투여에 대한 금기증\n- 상복부 방사선 치료 병력\n- 옥살리플라틴(oxaliplatin), 이리노테칸(irinotecan), 5-FU 또는 카페시타빈(capecitabine) 사전 치료력\n- 조절되지 않는 동반 질환 또는 활동성 감염\n- 기저 피부 기저세포암, 상피내 자궁경부암, 비전립선암을 제외한 다른 활동성 악성종양 병력\n- 임산부 또는 수유부",
   "eligibility_text": "Inclusion criteria:\n\n* Cytologic or histologic proof of adenocarcinoma of the pancreatic head or uncinated process or body or tail. Diagnosis should be verified by local pathologist\n* cTNM stage: T1-4N0-2M0\n* Confirmation of clinical and radiographic stage as borderline resectable (CT scan and/or MRI scan with contrast according to the NCCN criteria) by a multidisciplinary board, composed by a dedicated oncological surgeon, radiologist and GI oncologist)\n* Age \\> 18 years old\n* No prior chemotherapy or radiation for pancreatic cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* No grade ≥ 2 neuropathy\n* Laboratory parameters as follows:\n* Absolute neutrophil count (ANC) ≥ 1,500/mm³\n* Platelet count ≥ 100,000/mm³\n* Hemoglobin ≥ 9 g/dL\n* Creatinine ≤ 1.5 x upper limit of normal (ULN) or estimated GFR \\>45 mL/min\n* Bilirubin ≤ 1.5 x ULN, including after adequate biliary stenting with metal stent (ideally 4 cm length)\n* Aspartate aminotransferase (AST) / alanine aminotransferase (ALT) ≤ 2.5x ULN\n* CA 19.9 \\< 2500 kU/l (baseline, prior to any therapy and absence of cholestasis)\n\nExclusion Criteria:\n\n* Evidence of extrapancreatic disease on diagnostic imaging (CT, MRI or PET scan), histologically proven or at laparoscopy, including distal nodal involvement beyond the peripancreatic tissues (including non-regional lymph node involvement, ie: proven involvement of precaval lumbar lymphadenopathy(ies) and/or distant metastases\n* Locally advanced disease as defined by the NCCN criteria (version 2.2021) ie \\> 180° arterial encasement (SMA and CA) unreconstructible venous encasement (SMV/PV) due to tumor involvement or occlusion of a long segment.\n* CA 19.9 \\> 2500 kU/l (baseline and absence of cholestasis)\n* Contraindication of surgery (general)\n* Contraindications to receive FFX or gemcitabine-nab-Paclitaxel\n* History of radiotherapy of the upper abdomen\n* Prior treatment with oxaliplatin, irinotecan, fluoruouracil or capecitabin\n* Patient \\< 18 years old\n* Major surgery within 4 weeks of study entry\n* Uncontrolled pre-existing disease including, but not limited to: active infection, symptomatic congestive heart failure, unstable angina, social / psychiatric disorder that would limit compliance to treatment and good understanding of the informed consent form\n* Other concurrent anticancer therapies\n* Existence of another active neoplasia other than basal cell carcinoma of the skin, cervical carcinoma in situ or non-metastatic prostate cancer. Patients who have a history of neoplasia must have been in remission for more than 5 years to be included in the protocol\n* Pregnant or breastfeeding women; for women of childbearing potential only, a negative pregnancy test done \\< 7 days prior to registration is required. Using of reliable contraception for at least 1 month before treatment is mandatory\n* Chronic concomitant treatment with strong inhibitors of cytochrome p450, family 3, subfamily a, polypeptide 4 gene (CYP3A4) is not allowed on this study; patients on strong CYP3A4 inhibitors must discontinue the drug for 14 days prior to registration on the study\n\nAdditional exclusion criteria before randomisation:\n\n* Progressive disease (RECIST or PETCT, including non locoregional nodal involvement and increase of CA 19.9 by 20%) after receiving 4 cycles of FFX (or G/NP), including shift chemotherapy in case of early progression.\n* CA 19.9 \\> 1000 kU/l after neoadjuvant therapy.\n* Presence of unmanageable toxicity during the first part of neoadjuvant chemotherapy (first 4 cycles or 6 doses of FFX or G/NP, respectively.\n* Pancreatic tumour \\> 7.0 cm in greatest axial dimension at the time of randomization\n* Massive invasion of the stomach or intestines and/or direct intestinal invasion of the mucosae visible at ultrasoundendoscopy\n* Active gastric or duodenal ulcer disease at the time of randomization. Tolerated in case of antecedent without active ulcer (confirmation by endoscopy before iHD-SBRT)",
   "enrollment": 256,
   "has_results": false,
@@ -97,21 +97,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "췌장 외 전이 또는 국소 진행성 췌장암",
+    "상복부 방사선 치료 병력",
+    "조절되지 않는 동반 질환 또는 활동성 감염",
+    "다른 활동성 암 병력",
+    "임산부 또는 수유부"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 경계성 절제 가능 췌장관선암 환자",
    "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
     "platinum",
-    "irinotecan"
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

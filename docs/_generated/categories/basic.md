@@ -16,7 +16,7 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 41건 · 최근 30일 41건
+전체 43건 · 최근 30일 43건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
@@ -98,6 +98,21 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848148/) · [DOI](https://doi.org/10.1007/s12032-026-03421-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848148)</small>
 
 ---
+<a id="doi-10.64898-2026.10.06.757201"></a>
+#### [성별과 혈통이 췌장암 분자 유전학적 환경에 미치는 영향](https://europepmc.org/article/PPR/PPR1337069)
+<small>The impact of sex and ancestry on the molecular landscape of pancreatic adenocarcinoma</small>
+
+`프리프린트` `관찰연구` `기초연구` `진단·조기발견` `신약·치료제` · 2026-10-08 · Europe PMC (preprint) · bioRxiv · 중요도 0.69
+
+총 7,527개의 췌관선암(PDAC) 종양 데이터를 분석하여 성별과 혈통이 종양의 유전체 이질성에 미치는 영향을 평가한 연구입니다. 분석 결과 전반적인 단일염기변이(SNV) 부담은 아프리카계 종양에서 더 높았고, 아시아계 종양에서 유럽계에 비해 낮게 나타났습니다. 또한 주요 드라이버 유전자인 GNAS 변이는 아시아계 혈통에서 더 흔하게 발견되었으며 아프리카계에서는 덜 빈번했습니다. 전반적인 KRAS 변이 빈도에서는 성별이나 혈통 간 뚜렷한 연관성이 없었으나 세부 아형별로는 혈통 간 차이의 경향성을 보였습니다.
+
+- 총 5개 데이터 세트에서 수집된 7,527개의 췌관선암 종양 검체를 대상으로 혈통 및 성별에 따른 유전체 변이를 분석했습니다.
+- 전체 단일염기변이(SNV) 밀도는 유럽계 대비 아프리카계에서 높았고 아시아계에서 낮았습니다.
+- GNAS 드라이버 변이는 아시아계 혈통에서 더 빈번하게 관찰된 반면, KRAS 변이 빈도는 성별이나 혈통에 따른 유의한 연관성을 보이지 않았습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1337069) · [DOI](https://doi.org/10.64898/2026.10.06.757201) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.06.757201)</small>
+
+---
 <a id="pmid-42844287"></a>
 #### [췌장관선암종에서 조기 간 전이를 예측하기 위한 딥러닝 CT 서명](https://pubmed.ncbi.nlm.nih.gov/42844287/)
 <small>Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma</small>
@@ -111,7 +126,7 @@ search:
 - 고위험군의 전체 생존기간(OS) 위험비(HR)는 1.89 (p < 0.001)였습니다.
 - 고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001).
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13646268/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
 
 ---
 <a id="doi-10.64898-2026.10.03.26364596"></a>
@@ -157,7 +172,7 @@ search:
 - RPL11은 세포질의 EEF1A1을 안정화해 단백질 합성을 높이고, 핵 내 PARP14를 통해 DNA 손상 복구를 강화하여 약물 독성을 완화했습니다.
 - 이종이식 모델에서 젖산 생성 또는 RPL11 발현을 억제하면 GEM과 시너지를 보여 내성을 극복하고 종양 진행이 억제되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42845029/) · [DOI](https://doi.org/10.1002/advs.78160) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42845029)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42845029/) · [DOI](https://doi.org/10.1002/advs.78160) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13647039/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42845029)</small>
 
 ---
 <a id="pmid-42845577"></a>
@@ -235,6 +250,21 @@ search:
 - 초록에 명시된 임상 수치(환자 수, 생존기간, 반응률, 위험비)는 없습니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1336139) · [DOI](https://doi.org/10.64898/2026.10.06.756887) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.06.756887)</small>
+
+---
+<a id="doi-10.21203-rs.3.rs-11160033-v1"></a>
+#### [키토산 안정화 구리 나노입자의 합성, 특성 규명 및 췌장암 세포에서의 항암 잠재력](https://europepmc.org/article/PPR/PPR1336752)
+<small>Chitosan-Stabilized Copper Nanoparticles: Synthesis, Characterization, and Anticancer Potential in Pancreatic Cancer Cells</small>
+
+`프리프린트` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-08 · Europe PMC (preprint) · Research Square · 중요도 0.48
+
+본 연구는 키토산(chitosan)을 지지체로 활용하여 용액 주조법으로 구리-키토산 나노입자(CS-CuNPs)를 합성하고 특성을 분석했습니다. 연구진은 원자간력 현미경(AFM), X선 회절 분석(XRD) 등을 통해 평균 크기 62.45 nm의 안정적인 나노입자 형성을 확인했습니다. 암세포주를 대상으로 생물학적 평가를 수행한 결과 25 µL/mL 농도에서 항암 세포독성을 보였으나, 췌장암 세포에 대한 세포독성 반응은 상대적으로 덜 고무적인 것으로 나타났습니다.
+
+- 합성된 구리-키토산 나노입자의 평균 크기는 62.45 nm로 측정되었습니다.
+- 25 µL/mL 농도에서 항암 활성을 나타냈으나, 췌장암 세포에 대한 세포독성 반응은 상대적으로 낮았습니다.
+- 나노기술 기반 치료제의 항암 효능은 암세포주 종류에 따라 차이가 있음을 보여주었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1336752) · [DOI](https://doi.org/10.21203/rs.3.rs-11160033/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11160033/v1)</small>
 
 ---
 <a id="pmid-42846986"></a>

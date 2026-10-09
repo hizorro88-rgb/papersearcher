@@ -1,0 +1,58 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  It is an excellent polymer because of its high capping and stabilizing, biocompatibility, biodegradability, environmental friendliness, poly cationic, and low toxicity that has been widely utilized as a support in the synthesis of metallic nanoparticles (MNPs). The nanoparticles made of metallopolymeric chitosans may be prepared through different chemical methods, such as sol-gel, co-precipitation, and hydrothermal procedures, each possessing its own strengths of regulating particle size, shape and homogeneity. The current research used the solution-casting method to produce copper-chitosan nanoparticles (CS-CuNPs). These particles were then systematically investigated in order to test their physicochemical and biological characteristics. The produced CS-CuNPs were characterized by a stable brick-red color and a clear UV-visible absorption peak at 214 nm, which are evidence of the creation of nanomaterials and the availability of surface plasmon resonance.The X-ray diffraction (XRD) studies revealed a crystalline face-centered cubic (fcc) structure that has big diffraction peaks at 36.78°, 43.38°, 50.56°, and 74.26°. The particle size based on the atomic force microscopy (AFM) was 62.45 nm on average. Fourier transform infrared (FTIR) spectroscopy revealed the existence of strong interactions between chitosan functional groups and copper ions with distinctive absorption bands at 3370 − 3226 cm  <sup>− 1</sup>  , 1633 cm  <sup>− 1</sup>  , and 680 cm  <sup>− 1</sup>  . Further testing was done by measuring the zeta potential (ZP) and SEM analysis to determine the stability of the colloidal particle and surface integrity of the cell lines studied and revealed that when the biological evaluation was taken into account, CS-CuNPs had much anticancer efficacy. Conversely, the cytotoxic responses of the pancreatic cancer cells were a little less encouraging, which indicated that the efficiency of nanotechnology depends on the cell line. The Cs-CuNPs showed high cytotoxic and anticancer activities at a concentration of 25 µL/mL, which portrays the potential of the new nanotherapeutic agent in cancer treatment and this is against the breast cancer cells. Graphical abstract Fig. 1.  </p>",
+ "authors": [
+  "Ibrahem M",
+  "Al-Mudallal NHAL",
+  "Ahmed ME."
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-09",
+ "history": [
+  {
+   "date": "2026-10-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11160033/v1",
+ "importance": 0.48,
+ "key_points_ko": [
+  "합성된 구리-키토산 나노입자의 평균 크기는 62.45 nm로 측정되었습니다.",
+  "25 µL/mL 농도에서 항암 활성을 나타냈으나, 췌장암 세포에 대한 세포독성 반응은 상대적으로 낮았습니다.",
+  "나노기술 기반 치료제의 항암 효능은 암세포주 종류에 따라 차이가 있음을 보여주었습니다."
+ ],
+ "last_updated": "2026-10-09",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11160033/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1336752"
+ },
+ "summary_ko": "본 연구는 키토산(chitosan)을 지지체로 활용하여 용액 주조법으로 구리-키토산 나노입자(CS-CuNPs)를 합성하고 특성을 분석했습니다. 연구진은 원자간력 현미경(AFM), X선 회절 분석(XRD) 등을 통해 평균 크기 62.45 nm의 안정적인 나노입자 형성을 확인했습니다. 암세포주를 대상으로 생물학적 평가를 수행한 결과 25 µL/mL 농도에서 항암 세포독성을 보였으나, 췌장암 세포에 대한 세포독성 반응은 상대적으로 덜 고무적인 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Chitosan-Stabilized Copper Nanoparticles: Synthesis, Characterization, and Anticancer Potential in Pancreatic Cancer Cells",
+ "title_ko": "키토산 안정화 구리 나노입자의 합성, 특성 규명 및 췌장암 세포에서의 항암 잠재력",
+ "trial": null,
+ "type": "preprint"
+}

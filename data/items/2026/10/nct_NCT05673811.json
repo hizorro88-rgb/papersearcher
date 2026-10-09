@@ -22,9 +22,9 @@
  "id": "nct:NCT05673811",
  "importance": 0.87,
  "key_points_ko": [
-  "이전에 전신 치료를 받지 않은 4기 전이성 췌장 선암 환자를 대상으로 진행된 무작위 배정 임상 2b상 시험입니다.",
-  "표준 항암요법(젬시타빈 및 냅파클리탁셀) 단독 투여와 VCN-01 병용 투여의 효과 및 안전성을 비교 평가했습니다.",
-  "총 목표 등록 인원은 112명이며, 국내 참여 기관은 없습니다."
+  "이전에 치료받은 적이 없는 4기 전이성 췌관선암 환자를 대상으로 표준 화학요법(젬시타빈+냅-파클리탁셀)과 VCN-01 병용 요법을 비교 평가했습니다.",
+  "VCN-01은 종양 세포에서 선택적으로 증식하여 항종양 효과를 내도록 유전자 변형된 아데노바이러스 치료제입니다.",
+  "약 92~112명의 환자를 대상으로 안전성과 전체 생존기간(OS)을 주요 평가 요소로 진행되었습니다."
  ],
  "last_updated": "2026-10-09",
  "links": {
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05673811"
  },
- "summary_ko": "이 연구는 전이성 췌장암 환자의 1차 치료로서 표준 항암화학요법인 냅파클리탁셀(Nab-paclitaxel)과 젬시타빈(Gemcitabine)에 종양 선택적 복제 아데노바이러스 제제인 VCN-01을 병용 투여하는 효과와 안전성을 평가한 다기관 무작위 배정 임상 2b상 시험입니다. 환자들은 표준치료 단독군과 표준치료에 VCN-01을 최대 2회 추가 병용하는 군으로 1:1 무작위 배정되었습니다. 북미와 유럽에서 환자를 모집하였으며 목표 대상자 수는 총 112명(초록 본문 기준 약 92명 무작위 배정 계획)입니다. 데이터 모니터링 위원회(DMC)를 통해 안전성 및 전체 생존기간(OS)을 정기적으로 평가하도록 설계되었습니다.",
+ "summary_ko": "이 임상시험은 이전에 전신 항암 치료를 받은 적이 없는 전이성 췌장암 환자를 대상으로 종양 선택적 용해 바이러스인 VCN-01의 추가 효과를 평가하는 다기관, 무작위 배정 2b상 연구입니다. 표준 치료 요법인 nab-paclitaxel(냅-파클리탁셀) 및 gemcitabine(젬시타빈) 단독 투여군과, 여기에 VCN-01을 최대 2회 병용 투여하는 군을 1:1로 비교했습니다. 북미 및 유럽 지역에서 환자를 모집하여 안전성과 전체 생존기간(OS) 등을 평가했습니다.",
  "summary_source": "llm",
  "tags": [
   "Cancer",
@@ -61,14 +61,14 @@
   "Nab-Paclitaxel"
  ],
  "title": "Study of Nab-Paclitaxel and Gemcitabine and Plus/Minus VCN-01 in Patients With Metastatic Pancreatic Cancer",
- "title_ko": "전이성 췌장암 환자를 대상으로 한 냅파클리탁셀 및 젬시타빈에 VCN-01 병용 요법 유무를 비교하는 임상 2b상 연구",
+ "title_ko": "전이성 췌장암 환자를 대상으로 한 젬시타빈 및 냅-파클리탁셀과 VCN-01 병용 요법의 2b상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma",
    "Metastatic"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 조직학적 또는 세포학적으로 확인된 4기 전이성 췌장 선암 환자\n• 췌장암에 대해 이전에 전신 치료를 받은 적이 없는 환자\n• RECIST 1.1 기준 최소 1개 이상의 측정 가능한 병변을 가진 환자\n• 예상 기대 여명이 최소 5개월 이상인 환자\n• ECOG 수행도 점수가 0점 또는 1점인 환자\n• 적절한 혈액학적, 간, 신장 및 영양 기능(혈청 알부민 ≥30 g/L 등)을 보유한 환자\n\n제외 기준:\n• 활동성 감염, 중증 질환, 면역결핍 바이러스(HIV) 또는 활동성 B형/C형 간염 환자\n• 시험약 투여 전 3주 이내 생백신 또는 12주 이내 아데노바이러스 5형(Ad5) 기반 코로나19 백신 접종 이력이 있는 환자\n• 간경변이나 만성 간염 등 알려진 만성 간질환 환자 (간 섬유화 스캔 수치 ≥9.5 kPa)\n• 만성 면역억제 치료를 받고 있거나 면역저하자와 동거하는 등 밀접 접촉이 있는 환자\n• 치료받지 않은 뇌전이 또는 증상이 진행 중인 뇌전이 환자 (증상이 안정된 환자는 참여 가능)\n• 1등급(Grade 1)을 초과하는 기존 감각 신경병증, 간질성 폐질환 이력, 장 천공 위험 인자가 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 조직학적 또는 세포학적으로 진단된 4기 전이성 췌관선암 환자\n- 췌장암에 대해 이전에 전신 항암 치료를 받은 적이 없는 1차 치료 환자\n- RECIST 1.1 기준 최소 하나 이상의 측정 가능한 종양 병변 보유\n- 기대 여명이 최소 5개월 이상인 환자\n- ECOG 수행능력 평가 점수 0 또는 1점\n- 주요 장기(혈액, 간, 신장 등) 기능이 적절한 환자\n\n제외 기준:\n- 진행 중인 활성 감염(결핵, B형 간염, C형 간염, HIV 등) 또는 심각한 자가면역 질환 보유자\n- 치료 시작 전 3주 이내 생백신 투여 또는 12주 이내 아데노바이러스 기반 백신 접종자\n- 만성 간 질환(간경변, 만성 간염 등) 환자\n- 증상이 진행 중이거나 치료받지 않은 뇌전이 및 연수막 전이\n- 과거 폐렴 또는 간질성 폐질환 병력 보유자\n- 1등급을 초과하는 기존의 감각 신경병증 보유자\n- 좌심실 박출률 50% 미만 등 심장 기능 이상자\n- 장 천공의 위험 요인이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Written informed consent obtained prior to any study-specific procedures or assessments.\n2. Male/female patients aged 18 years or over.\n3. Patients with histologically or cytologically confirmed, first line metastatic pancreatic adenocarcinoma stage IV de novo, who never received previous systemic treatment for their pancreatic cancer for which the established therapy is nab-paclitaxel/gemcitabine (clinical SoC). All patients must have at least one measurable tumor lesion that can be imaged for assessments determined by RECIST 1.1.\n4. Patients willing to comply with the study treatment.\n5. Patients with a minimum life expectancy of 5 months.\n6. ECOG performance status of 0 or 1.\n7. Use of a reliable method of contraception in fertile men and women. Female patients of childbearing potential (i.e., female patients who are not postmenopausal or surgically sterile) must agree to use effective contraception. Male patients must agree to use effective contraception or be surgically sterile. All male patients must use a male condom.\n8. Adequate baseline organ function (hematologic, liver, renal and nutritional)verified by laboratory analyses performed within 72 hours prior to dosing\\*:\n\n   Hematology:\n\n   • Absolute neutrophil count ≥1.5xE9 /L\n\n   • Hemoglobin ≥9 g/dL\n   * Platelets ≥100xE9/L\n\n   Coagulation (\\*except in patients on anticoagulants):\n   * Prothrombin time or international normalized ratio ≤1x upper limit of normal (ULN)\n   * Activated partial thromboplastin time ≤1.2xULN\n\n   Hepatic:\n\n   • Total bilirubin ≤1.5xULN\n   * ALT and AST ≤2.5xULN (if there are no liver metastases)\n   * ALT and AST \\<5xULN, and bilirubin \\<1.5xULN (if there are liver metastases)\n\n   Renal:\n   * Serum creatinine ≤1.5xULN, and if \\>1.5xULN: Estimated creatinine clearance \\>50 mL/min using Cockcroft and Gault formula\n\n   Nutritional:\n\n   • Serum Albumin ≥30 g/L\n   * Note: Adequate organ function specified in this criterion must also be met prior to VCN-01 dosing on Cycle 4 Day 1 for ARM II.\n\n   Exclusion Criteria:\n\n<!-- -->\n\n1. Patients not willing to complete the study procedures for geographic, psychiatric, or social reasons.\n2. Active infection or other serious illness or autoimmune disease at the moment of randomization. Active infection includes tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice), Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result), Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]), or human immunodeficiency virus (positive HIV 1/2 antibodies). HBV carriers (patients positive for HBsAg) or those patients requiring antiviral therapy treatment for HBV virus or HCV are not eligible to participate.\n\n   However, the following patients are eligible to participate in the study:\n\n   o Patients with past or resolved TB are eligible;\n\n   o Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible. Blood HBV DNA must be obtained and must be negative in these patients prior to treatment;\n\n   o Patients positive for HCV antibody are eligible only if polymerase chain reaction is negative for HCV RNA.\n3. Treatment with live attenuated vaccines in the last 3 weeks and with the adenovirus type-5 (Ad5)-based COVID-vaccine in the last 12 weeks before the administration of study treatment.\n4. Known chronic liver disease (liver cirrhosis, chronic hepatitis). If there is a suspicion of hepatic fibrosis, a FibroScan must be performed; patients with a value ≥9.5 kPa will be excluded. Note: Transient elastography (Fibroscan) is a non-invasive method for the assessment of hepatic fibrosis.\n5. Treatment with another investigational agent within five of that treatment's half-lives prior to infusion of study treatment.\n6. Viral syndrome diagnosed during the 2 weeks before start of study treatment administration.\n7. Chronic immunosuppressive therapy and/or disease modifying therapy, except inhaled corticosteroids, and oral or IV corticosteroids with a dose lower than 10 mg prednisone or equivalent/day (exception: dexamethasone 1 mg/day as maximum).\n8. Concurrent malignant hematologic or solid disease. Patients with a prior history of cancer can be allowed if complete remission for at least 3 years.\n9. Patients in close contact (e.g., living in same house) with immunosuppressed patients (i.e., patients with chronic immunosuppressive therapy including high dose of corticosteroids, patients with acquired immunodeficiency syndrome (AIDS), and other chronic immune system diseases).\n10. Patients with Li Fraumeni syndrome or with previously known retinoblastoma protein pathway germline deficiency.\n11. A female patient, who is pregnant or lactating.\n12. Patients receiving full-dose anticoagulant therapy or in whom these therapies cannot be withdrawn 2 days prior and 2 days after VCN-01 administration. Patients with uncontrolled coagulopathy should be excluded.\n13. Untreated brain metastases and/or leptomeningeal carcinomatosis with progressive symptoms despite corticosteroid coverage. Patients with brain metastases with stable symptoms can be included.\n14. Any other condition, disease, metabolic dysfunction (e.g., uncontrolled diabetes mellitus), active or uncontrolled infection/inflammation, physical examination finding, mental state or clinical laboratory finding that would contraindicate participation in the clinical study due to safety concerns or compliance with clinical study procedures.\n15. Patients with previous pneumonitis or interstitial lung disease.\n16. Patients with pre-existing sensory neuropathy \\>G1.\n17. Patients with known risk factors for bowel perforation.\n18. Patients with QT interval corrected by Fridericia (QTcF) assessment \\>450 ms for men or \\>470 ms for women and left ventricular ejection fraction (LVEF) evaluation less than 50% measured by ECHO or multigated acquisition scan.\n19. Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.\n20. Subjects, for whom first line treatment options other than the combination Gemcitabine/Nab-Paclitaxel are recommended by the investigator.",
   "enrollment": 112,
   "has_results": true,
@@ -87,17 +87,32 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "증상이 조절되지 않는 뇌전이",
+    "활성 간염(B형/C형), HIV 또는 결핵 등 활성 감염",
+    "간경변 등 만성 간 질환",
+    "간질성 폐질환 또는 폐렴 병력",
+    "장 천공 위험 요인 또는 심각한 심장 질환"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "전신 항암 치료를 받은 적이 없는 1차 치료 대상 전이성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",
