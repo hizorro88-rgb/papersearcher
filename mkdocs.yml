@@ -89,18 +89,21 @@ nav:
   - 응급·증상 찾기:
       - guides/emergency/index.md
       - 증상·상황으로 찾기: guides/emergency/find-by-symptom.md
-      - 병원 연락처: guides/emergency/hospital-contacts.md
-      - 사설 구급차 연락처: guides/emergency/private-ambulance.md
-      - 항암 중 발열: guides/emergency/fever-neutropenia.md
-      - 황달·담관염·스텐트: guides/emergency/jaundice-cholangitis.md
-      - 출혈: guides/emergency/bleeding.md
-      - 장폐색·구토: guides/emergency/bowel-obstruction.md
-      - 통증 악화: guides/emergency/pain-crisis.md
-      - 혈전·호흡곤란: guides/emergency/thrombosis.md
-      - 혈당 이상: guides/emergency/glucose.md
-      - 탈수·설사: guides/emergency/dehydration-diarrhea.md
-      - 섬망·의식 변화: guides/emergency/delirium.md
-      - 부종·림프부종: guides/emergency/lymphedema.md
+      - 바로 응급실·119:
+          - 항암 중 발열: guides/emergency/fever-neutropenia.md
+          - 출혈: guides/emergency/bleeding.md
+          - 장폐색·구토: guides/emergency/bowel-obstruction.md
+          - 혈전·호흡곤란: guides/emergency/thrombosis.md
+          - 통증 악화: guides/emergency/pain-crisis.md
+      - 당일 병원 연락:
+          - 황달·담관염·스텐트: guides/emergency/jaundice-cholangitis.md
+          - 혈당 이상: guides/emergency/glucose.md
+          - 탈수·설사: guides/emergency/dehydration-diarrhea.md
+          - 섬망·의식 변화: guides/emergency/delirium.md
+          - 부종·림프부종: guides/emergency/lymphedema.md
+      - 연락처:
+          - 병원 연락처: guides/emergency/hospital-contacts.md
+          - 사설 구급차 연락처: guides/emergency/private-ambulance.md
   - 치료 알아보기:
       - guides/treatment/index.md
       - 진단 직후 체크리스트: guides/start-here.md
