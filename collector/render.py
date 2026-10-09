@@ -253,6 +253,9 @@ def render_trial_page(it: Item) -> str:
         for k in it.key_points_ko:
             s += f"- {k}\n"
         s += "\n"
+    if t.match and (t.match.setting or t.match.biomarkers_required or t.match.min_prior_lines is not None
+                    or t.match.max_prior_lines is not None or t.match.notes_ko):
+        s += render_match_section(t.match)
     if t.eligibility_ko:
         s += "## 참여 조건 (AI 정리, 원문 확인 필요)\n\n" + t.eligibility_ko + "\n\n"
     if t.eligibility_text:
@@ -263,6 +266,62 @@ def render_trial_page(it: Item) -> str:
             f"- {h.date} · {HISTORY_KO.get(h.event, h.event)}{' · ' + h.detail if h.detail else ''}\n" for h in it.history) + "\n"
     s += f"<small>출처: [ClinicalTrials.gov]({it.source.url}) · 수집 {it.first_seen} · 갱신 {it.last_updated}</small>\n"
     return s
+
+
+def render_match_section(m) -> str:
+    from .match import BIOMARKER_KO, PRIOR_KO, SETTING_KO, lines_ko
+    src = "AI 정리" if m.source == "llm" else "규칙 추출(자동)"
+    rows = [
+        ("질병 상태", ", ".join(SETTING_KO.get(k, k) for k in m.setting) or "미확인"),
+        ("이전 항암 치료", lines_ko(m)),
+    ]
+    if m.prior_required:
+        rows.append(("받았어야 하는 치료", ", ".join(PRIOR_KO.get(k, k) for k in m.prior_required)))
+    if m.prior_excluded:
+        rows.append(("받았으면 참여 불가", ", ".join(PRIOR_KO.get(k, k) for k in m.prior_excluded)))
+    if m.biomarkers_required:
+        rows.append(("필요한 유전자·표지자", ", ".join(BIOMARKER_KO.get(k, k) for k in m.biomarkers_required)))
+    if m.biomarkers_excluded:
+        rows.append(("있으면 참여 불가", ", ".join(BIOMARKER_KO.get(k, k) for k in m.biomarkers_excluded)))
+    rows.append(("ECOG 수행능력", f"{m.ecog_max} 이하" if m.ecog_max is not None else "미확인"))
+    if m.measurable_required:
+        rows.append(("측정 가능 병변", "필요"))
+    s = f"## 이 시험이 맞는 환자 ({src}, 원문 확인 필요)\n\n"
+    if m.notes_ko:
+        s += f"**{md_escape(m.notes_ko)}**\n\n"
+    s += "| 항목 | 조건 |\n|---|---|\n" + "".join(f"| {k} | {md_escape(v)} |\n" for k, v in rows) + "\n"
+    if m.key_exclusions_ko:
+        s += "주요 제외 기준: " + " · ".join(md_escape(x) for x in m.key_exclusions_ko) + "\n\n"
+    s += f"내 상황에 맞는지 한 번에 보려면 [맞춤 임상시험 찾기]({rel('guides/trials/finder.md', 2)}).\n\n"
+    return s
+
+
+def render_match_json(items: list[Item], out: Path) -> None:
+    """맞춤 찾기 페이지(브라우저)에서 읽는 경량 데이터."""
+    from .match import histology
+    recruiting = {"RECRUITING", "NOT_YET_RECRUITING", "ENROLLING_BY_INVITATION"}
+    rows = []
+    for i in items:
+        t = i.trial
+        if not t or i.review.status == "hidden":
+            continue
+        m = t.match
+        rows.append({
+            "nct": t.nct_id, "t": i.display_title, "h": histology(i), "p": phase_ko(t.phase), "s": STATUS_KO.get(t.status, t.status or ""),
+            "rec": t.status in recruiting, "kr": [f"{l.facility or ''}".strip() for l in t.locations_kr if l.facility],
+            "drug": ", ".join(t.interventions)[:80], "u": t.last_update_posted, "imp": round(i.importance, 3),
+            "m": None if m is None else {
+                "set": m.setting, "lo": m.min_prior_lines, "hi": m.max_prior_lines,
+                "preq": m.prior_required, "pexc": m.prior_excluded,
+                "breq": m.biomarkers_required, "bexc": m.biomarkers_excluded,
+                "ecog": m.ecog_max, "meas": m.measurable_required, "note": m.notes_ko,
+                "excl": m.key_exclusions_ko, "src": m.source,
+            },
+        })
+    rows.sort(key=lambda r: (-int(r["rec"]), -int(bool(r["kr"])), -r["imp"]))
+    (out / "trials").mkdir(parents=True, exist_ok=True)
+    with open(out / "trials" / "match.json", "w", encoding="utf-8") as f:
+        json.dump({"generated": date.today().isoformat(), "n": len(rows), "trials": rows}, f, ensure_ascii=False, separators=(",", ":"))
 
 
 def render_trials(items: list[Item], out: Path) -> None:
@@ -292,6 +351,9 @@ def render_trials(items: list[Item], out: Path) -> None:
     s += disclaimer(2)
     s += (f"임상시험 참여를 고려한다면 먼저 [참여 방법 안내]({rel('guides/trials/how-to-apply.md', 2)})를 읽어 주세요. "
           "각 시험 페이지에는 AI가 정리한 참여 조건과 원문, 국내 실시기관, 문의처가 있습니다.\n\n")
+    s += (f'!!! tip "내 상황에 맞는 시험만 추리기"\n'
+          f'    진단 상태, 받은 항암제, 유전자 검사 결과를 고르면 조건에 맞는 시험을 골라 주는 '
+          f'[맞춤 임상시험 찾기]({rel("guides/trials/finder.md", 2)})를 쓰세요. 입력 내용은 브라우저 밖으로 나가지 않습니다.\n\n')
     s += f"총 {len(trials)}건 · 국내 모집 중 {len(kr)}건 · 해외 모집 중 {len(world)}건\n\n"
     s += f"## 국내에서 모집 중 ({len(kr)})\n\n" + (head + "".join(row(i) for i in kr) if kr else "현재 등록된 국내 모집 시험이 없습니다.\n") + "\n"
     s += f"## 해외에서 모집 중 ({len(world)})\n\n" + (head + "".join(row(i) for i in world[:300]) if world else "없음\n") + "\n"
@@ -407,6 +469,7 @@ def render_all(items_map: dict[str, Item], state: dict, today: date) -> None:
     days = render_daily(by_day, out)
     render_categories(items, out, today)
     render_trials(items, out)
+    render_match_json(items, out)
     render_topics(items, out)
     render_latest(items, days, out, today)
     render_status(state, items, out)

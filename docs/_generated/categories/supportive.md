@@ -71,6 +71,21 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42845671/) · [DOI](https://doi.org/10.64898/2026.08.06.26359908) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13640811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42845671)</small>
 
 ---
+<a id="pmid-42843315"></a>
+#### [중장년 및 노인 췌장암 수술 후 6개월 이내의 수술 후 증상 부담과 건강 관련 삶의 질 관련 요인](https://pubmed.ncbi.nlm.nih.gov/42843315/)
+<small>Postoperative symptom burden and factors associated with health-related quality of life within six months after pancreatic cancer surgery in middle-aged and older adults</small>
+
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-10-05 · PubMed · Eur J Oncol Nurs · 중요도 0.73
+
+췌장암 수술을 받은 지 6개월 이내인 45세 이상 환자 151명을 대상으로 수술 후 통증, 불안, 수면의 질이 건강 관련 삶의 질(HRQOL)에 미치는 영향을 조사한 연구입니다. 평가 결과 환자들의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다. 다변량 분석에서 불안과 낮은 수면의 질은 기능적 삶의 질 저하, 증상 부담 증가, 전반적 건강 상태 악화와 모두 유의하게 연관되어 있었습니다. 반면 통증은 증상 부담 증가와만 유의한 연관성을 보였습니다.
+
+- 췌장암 수술 후 6개월 이내 환자 151명의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다.
+- 불안은 기능적 삶의 질 저하(β=-0.323, P<0.001), 증상 부담 증가(β=0.208, P=0.005), 전반적 건강 상태 악화(β=-0.194, P=0.019)와 모두 유의하게 연관되었습니다.
+- 수면의 질 저하 역시 기능적 삶의 질 저하(β=-0.241, P=0.003), 증상 부담 증가(β=0.326, P<0.001), 전반적 건강 상태 악화(β=-0.290, P=0.001)와 유의한 연관성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42843315/) · [DOI](https://doi.org/10.1016/j.ejon.2026.103343) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42843315)</small>
+
+---
 <a id="pmid-42848313"></a>
 #### [1999년부터 2020년까지 미국 내 췌장암과 제2형 당뇨병 동시 기재 사망률 추이](https://pubmed.ncbi.nlm.nih.gov/42848313/)
 <small>Trends in U.S. Mortality With Co-Listed Pancreatic Cancer and Type 2 Diabetes, 1999-2020</small>
@@ -87,19 +102,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848313/) · [DOI](https://doi.org/10.1096/fj.202602498R) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848313)</small>
 
 ---
-<a id="pmid-42843315"></a>
-#### [중장년 및 노인 췌장암 수술 후 6개월 이내의 수술 후 증상 부담과 건강 관련 삶의 질 관련 요인](https://pubmed.ncbi.nlm.nih.gov/42843315/)
-<small>Postoperative symptom burden and factors associated with health-related quality of life within six months after pancreatic cancer surgery in middle-aged and older adults</small>
+<a id="pmid-42846424"></a>
+#### [플라스민 생성 동역학을 통해 밝혀진 췌관선암종 환자의 과도한 섬유소용해 표현형](https://pubmed.ncbi.nlm.nih.gov/42846424/)
+<small>Plasmin Generation Kinetics Reveal a Hyperfibrinolytic Phenotype in Patients with Pancreatic Ductal Adenocarcinoma</small>
 
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-10-05 · PubMed · Eur J Oncol Nurs · 중요도 0.73
+`논문` `관찰연구` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-09-15 · PubMed · TH Open · 중요도 0.72
 
-췌장암 수술을 받은 지 6개월 이내인 45세 이상 환자 151명을 대상으로 수술 후 통증, 불안, 수면의 질이 건강 관련 삶의 질(HRQOL)에 미치는 영향을 조사한 연구입니다. 평가 결과 환자들의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다. 다변량 분석에서 불안과 낮은 수면의 질은 기능적 삶의 질 저하, 증상 부담 증가, 전반적 건강 상태 악화와 모두 유의하게 연관되어 있었습니다. 반면 통증은 증상 부담 증가와만 유의한 연관성을 보였습니다.
+진행성 췌관선암종(pancreatic ductal adenocarcinoma) 환자 18명과 건강한 대조군 18명을 대상으로 섬유소용해 활성을 평가하는 플라스민 생성(PG) 프로파일을 비교한 연구입니다. 췌장암 환자는 건강한 대조군에 비해 플라스민 생성이 지연되면서도 생성 능력 자체는 증가하는 불균형을 보였으며, 이는 항암화학요법 8주 후에도 지속되었습니다. 관찰 기간 6개월 동안 환자 중 5명(28%)에서 혈전색전증이 발생하였으며, 혈전색전증이 나타난 환자들은 응고와 섬유소용해의 균형을 나타내는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
 
-- 췌장암 수술 후 6개월 이내 환자 151명의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다.
-- 불안은 기능적 삶의 질 저하(β=-0.323, P<0.001), 증상 부담 증가(β=0.208, P=0.005), 전반적 건강 상태 악화(β=-0.194, P=0.019)와 모두 유의하게 연관되었습니다.
-- 수면의 질 저하 역시 기능적 삶의 질 저하(β=-0.241, P=0.003), 증상 부담 증가(β=0.326, P<0.001), 전반적 건강 상태 악화(β=-0.290, P=0.001)와 유의한 연관성을 나타냈습니다.
+- 진행성 췌장암 환자 18명 중 5명(28%)에서 6개월 추적 관찰 기간 동안 혈전색전성 사건이 발생했습니다.
+- 췌장암 환자는 건강한 대조군에 비해 내인성 플라스민 생성 잠재력이 기저시점 및 항암화학요법 8주 후에도 높게 유지되었습니다.
+- 플라스민 생성 수치 자체는 혈전색전증과 직접 연관되지 않았으나, 혈전색전증이 발생한 환자는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42843315/) · [DOI](https://doi.org/10.1016/j.ejon.2026.103343) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42843315)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846424/) · [DOI](https://doi.org/10.1055/a-2925-6824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13643898/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846424)</small>
 
 ---
 <a id="pmid-42848148"></a>
@@ -115,21 +130,6 @@ search:
 - 제2형 당뇨병에서는 IRS-1/PI3K/AKT 신호 전달을 방해하여 베타세포 기능 장애와 인슐린 저항성을 유발합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848148/) · [DOI](https://doi.org/10.1007/s12032-026-03421-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848148)</small>
-
----
-<a id="pmid-42846424"></a>
-#### [플라스민 생성 동역학을 통해 밝혀진 췌관선암종 환자의 과도한 섬유소용해 표현형](https://pubmed.ncbi.nlm.nih.gov/42846424/)
-<small>Plasmin Generation Kinetics Reveal a Hyperfibrinolytic Phenotype in Patients with Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `관찰연구` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-09-15 · PubMed · TH Open · 중요도 0.72
-
-진행성 췌관선암종(pancreatic ductal adenocarcinoma) 환자 18명과 건강한 대조군 18명을 대상으로 섬유소용해 활성을 평가하는 플라스민 생성(PG) 프로파일을 비교한 연구입니다. 췌장암 환자는 건강한 대조군에 비해 플라스민 생성이 지연되면서도 생성 능력 자체는 증가하는 불균형을 보였으며, 이는 항암화학요법 8주 후에도 지속되었습니다. 관찰 기간 6개월 동안 환자 중 5명(28%)에서 혈전색전증이 발생하였으며, 혈전색전증이 나타난 환자들은 응고와 섬유소용해의 균형을 나타내는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
-
-- 진행성 췌장암 환자 18명 중 5명(28%)에서 6개월 추적 관찰 기간 동안 혈전색전성 사건이 발생했습니다.
-- 췌장암 환자는 건강한 대조군에 비해 내인성 플라스민 생성 잠재력이 기저시점 및 항암화학요법 8주 후에도 높게 유지되었습니다.
-- 플라스민 생성 수치 자체는 혈전색전증과 직접 연관되지 않았으나, 혈전색전증이 발생한 환자는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846424/) · [DOI](https://doi.org/10.1055/a-2925-6824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13643898/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846424)</small>
 
 ---
 <a id="pmid-42837495"></a>

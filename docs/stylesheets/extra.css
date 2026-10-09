@@ -12,3 +12,23 @@
 #glossary-filter { width: 100%; max-width: 32rem; padding: .6rem .9rem; font-size: 1rem; border: 2px solid var(--md-primary-fg-color); border-radius: .3rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
 #glossary-count { margin-left: .6rem; color: var(--md-default-fg-color--light); font-size: .8rem; }
 .md-typeset .glossary table:not([class]) td:first-child { white-space: nowrap; font-weight: 600; }
+
+/* 맞춤 임상시험 찾기 */
+.tf-form fieldset { border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3rem; padding: .6rem .9rem; margin: 0 0 .8rem; }
+.tf-form legend { font-weight: 700; padding: 0 .3rem; }
+.tf-form label { display: block; padding: .15rem 0; cursor: pointer; }
+.tf-form label input { margin-right: .4rem; }
+.tf-form textarea { width: 100%; font-size: .8rem; padding: .5rem; border: 1px solid var(--md-default-fg-color--lighter); border-radius: .2rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
+.tf-paste { margin-bottom: 1rem; }
+.tf-hint { color: var(--md-default-fg-color--light); font-size: .75rem; }
+.tf-summary { font-size: .8rem; color: var(--md-default-fg-color--light); }
+.tf-card { border-left: 4px solid var(--md-default-fg-color--lighter); padding: .5rem .8rem; margin: .6rem 0; background: var(--md-code-bg-color); border-radius: 0 .3rem .3rem 0; font-size: .8rem; }
+.tf-card.tf-match { border-left-color: #2e7d32; }
+.tf-card.tf-check { border-left-color: #f9a825; }
+.tf-card.tf-no { border-left-color: #c62828; opacity: .8; }
+.tf-head { font-weight: 700; font-size: .85rem; }
+.tf-meta { color: var(--md-default-fg-color--light); margin: .2rem 0; }
+.tf-note { margin: .2rem 0; }
+.tf-ok { color: #2e7d32; } .tf-why { color: #c62828; } .tf-check { color: #b26a00; } .tf-excl { color: var(--md-default-fg-color--light); margin-top: .2rem; }
+.tf-links { margin-top: .3rem; }
+.tf-no summary { cursor: pointer; font-weight: 700; margin: 1rem 0 .5rem; }

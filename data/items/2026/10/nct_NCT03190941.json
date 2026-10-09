@@ -88,6 +88,30 @@
    "United States"
   ],
   "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "KRAS_G12V"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [
+    "gemcitabine",
+    "platinum",
+    "fluoropyrimidine"
+   ],
+   "setting": [
+    "metastatic",
+    "locally_advanced",
+    "adjuvant"
+   ],
+   "source": "rules"
+  },
   "max_age": "72 Years",
   "min_age": "18 Years",
   "n_locations": 1,

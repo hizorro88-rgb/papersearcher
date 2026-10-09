@@ -76,6 +76,28 @@
    "China"
   ],
   "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "CLDN18_2"
+   ],
+   "ecog_max": 2,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [
+    "gemcitabine",
+    "fluoropyrimidine"
+   ],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
   "max_age": null,
   "min_age": "18 Years",
   "n_locations": 1,

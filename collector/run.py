@@ -59,10 +59,14 @@ def collect(today: date, *, since: date | None = None, no_llm: bool = False, dry
     log.info("신규 %d, 갱신 %d, 변화 없음 %d", len(mr.new), len(mr.updated), mr.unchanged)
 
     # LLM 요약: 신규 + 요약이 아직 없는 기존 항목 (중요도 순, 상한 적용)
-    pending = [it for it in existing.values() if it.summary_source in ("pending", "excerpt")
-               and it.review.status != "hidden"]
-    # 오늘 새로 들어온 항목을 먼저, 그다음 중요도 순 (백로그가 있어도 오늘 소식은 당일 요약)
-    pending.sort(key=lambda x: (x.first_seen != today.isoformat(), -x.importance, x.published_at or ""))
+    def needs_match(it):
+        # 임상시험인데 LLM이 뽑은 '맞춤 찾기' 조건이 아직 없음 (규칙 추출만 있음)
+        return bool(it.trial and (it.trial.match is None or it.trial.match.source != "llm"))
+    pending = [it for it in existing.values() if it.review.status != "hidden"
+               and (it.summary_source in ("pending", "excerpt") or needs_match(it))]
+    # 오늘 새로 들어온 항목 → 요약이 없는 항목 → 맞춤 조건만 없는 항목 순, 각각 중요도 순
+    pending.sort(key=lambda x: (x.first_seen != today.isoformat(), x.summary_source == "llm",
+                                -x.importance, x.published_at or ""))
     limit = max_llm if max_llm is not None else int(cfg.get("llm", {}).get("max_items_per_run", 120))
     todo = pending[:limit]
     llm_stats = None
@@ -110,6 +114,7 @@ def main(argv=None):
     p.add_argument("--dry-run", action="store_true", help="저장·렌더 없이 수집만")
     p.add_argument("--render-only", action="store_true", help="수집 없이 페이지만 재생성")
     p.add_argument("--reclassify", action="store_true", help="수집 없이 기존 레코드 전체를 규칙으로 재분류하고 페이지 재생성")
+    p.add_argument("--rematch", action="store_true", help="수집 없이 임상시험의 맞춤 조건(규칙 추출분)만 다시 뽑고 페이지 재생성")
     p.add_argument("-v", "--verbose", action="store_true")
     a = p.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO,
@@ -118,6 +123,19 @@ def main(argv=None):
     today = date.fromisoformat(a.date) if a.date else date.today()
     if a.render_only:
         render.render_all(store.load_all(), store.load_state(), today)
+        return 0
+    if a.rematch:
+        from .match import extract_rules
+        items = store.load_all()
+        for it in items.values():
+            if it.trial and (it.trial.match is None or it.trial.match.source == "rules"):
+                it.trial.match = extract_rules(it)
+            elif it.trial:
+                from .match import merge_match
+                it.trial.match = merge_match(extract_rules(it), it.trial.match)
+        for it in items.values():
+            store.save(it)
+        render.render_all(items, store.load_state(), today)
         return 0
     if a.reclassify:
         items = store.load_all()

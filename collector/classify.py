@@ -145,4 +145,7 @@ def classify(item: Item, today: date) -> Item:
     item.entities = entities(item)
     item.relevance = relevance(item)
     item.importance = importance(item, today)
+    if item.trial and (item.trial.match is None or item.trial.match.source == "rules"):
+        from .match import extract_rules
+        item.trial.match = extract_rules(item)   # LLM 결과(source=llm)는 덮어쓰지 않는다
     return item

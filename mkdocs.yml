@@ -59,6 +59,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/glossary.js
+  - javascripts/trial-finder.js
 
 markdown_extensions:
   - admonition
@@ -124,6 +125,7 @@ nav:
       - 마음 돌보기와 가족: guides/living/mind-and-family.md
   - 임상시험:
       - 임상시험 목록: _generated/trials/index.md
+      - 맞춤 임상시험 찾기: guides/trials/finder.md
       - 참여 방법 안내: guides/trials/how-to-apply.md
       - 임상시험 용어: guides/trials/glossary.md
   - 연구·소식 (자동 수집):

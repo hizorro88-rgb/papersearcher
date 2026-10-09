@@ -68,21 +68,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848313/) · [DOI](https://doi.org/10.1096/fj.202602498R) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848313)</small>
 
 ---
-<a id="pmid-42848148"></a>
-#### [장-췌장 축: 당뇨병과 췌장암의 발병 요인으로서의 장내 미생물 불균형](https://pubmed.ncbi.nlm.nih.gov/42848148/)
-<small>The gut-pancreas axis: microbial dysbiosis as a pathogenic driver of diabetes and pancreatic cancer</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-08 · PubMed · Med Oncol · 중요도 0.72
-
-이 종설(review) 논문은 장내 미생물 불균형(dysbiosis)이 장과 췌장을 연결하며 당뇨병과 췌장암의 발생에 기여하는 기전을 다룹니다. 장내 미생물은 특정 대사산물을 생성하고 전신 염증 반응을 유발하여 세포 손상을 일으킵니다. 제2형 당뇨병에서는 인슐린 수용체 경로를 방해하여 인슐린 저항성을 유발하고, 췌장암에서는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT) 등을 자극하여 종양 성장을 촉진합니다. 저자들은 이러한 장-췌장 축 기반의 기전 이해가 장내 미생물을 표적으로 하는 질환 예방 및 관리 기술 개발로 이어질 수 있다고 설명합니다.
-
-- 장내 미생물 불균형은 전신 염증 반응과 대사산물 생성을 통해 당뇨병과 췌장암의 발생에 기여합니다.
-- 췌장암에서 장내 미생물 관련 염증 신호는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT), DNA 돌연변이를 유도하여 종양 성장을 자극합니다.
-- 제2형 당뇨병에서는 IRS-1/PI3K/AKT 신호 전달을 방해하여 베타세포 기능 장애와 인슐린 저항성을 유발합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848148/) · [DOI](https://doi.org/10.1007/s12032-026-03421-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848148)</small>
-
----
 <a id="pmid-42846424"></a>
 #### [플라스민 생성 동역학을 통해 밝혀진 췌관선암종 환자의 과도한 섬유소용해 표현형](https://pubmed.ncbi.nlm.nih.gov/42846424/)
 <small>Plasmin Generation Kinetics Reveal a Hyperfibrinolytic Phenotype in Patients with Pancreatic Ductal Adenocarcinoma</small>
@@ -96,6 +81,21 @@ search:
 - 플라스민 생성 수치 자체는 혈전색전증과 직접 연관되지 않았으나, 혈전색전증이 발생한 환자는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846424/) · [DOI](https://doi.org/10.1055/a-2925-6824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13643898/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846424)</small>
+
+---
+<a id="pmid-42848148"></a>
+#### [장-췌장 축: 당뇨병과 췌장암의 발병 요인으로서의 장내 미생물 불균형](https://pubmed.ncbi.nlm.nih.gov/42848148/)
+<small>The gut-pancreas axis: microbial dysbiosis as a pathogenic driver of diabetes and pancreatic cancer</small>
+
+`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-08 · PubMed · Med Oncol · 중요도 0.72
+
+이 종설(review) 논문은 장내 미생물 불균형(dysbiosis)이 장과 췌장을 연결하며 당뇨병과 췌장암의 발생에 기여하는 기전을 다룹니다. 장내 미생물은 특정 대사산물을 생성하고 전신 염증 반응을 유발하여 세포 손상을 일으킵니다. 제2형 당뇨병에서는 인슐린 수용체 경로를 방해하여 인슐린 저항성을 유발하고, 췌장암에서는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT) 등을 자극하여 종양 성장을 촉진합니다. 저자들은 이러한 장-췌장 축 기반의 기전 이해가 장내 미생물을 표적으로 하는 질환 예방 및 관리 기술 개발로 이어질 수 있다고 설명합니다.
+
+- 장내 미생물 불균형은 전신 염증 반응과 대사산물 생성을 통해 당뇨병과 췌장암의 발생에 기여합니다.
+- 췌장암에서 장내 미생물 관련 염증 신호는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT), DNA 돌연변이를 유도하여 종양 성장을 자극합니다.
+- 제2형 당뇨병에서는 IRS-1/PI3K/AKT 신호 전달을 방해하여 베타세포 기능 장애와 인슐린 저항성을 유발합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848148/) · [DOI](https://doi.org/10.1007/s12032-026-03421-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848148)</small>
 
 ---
 <a id="pmid-42844287"></a>
@@ -175,21 +175,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42845577/) · [DOI](https://doi.org/10.64898/2026.08.09.26360008) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13640819/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42845577)</small>
 
 ---
-<a id="pmid-42846490"></a>
-#### [전사체 완충 작용 탐지: 췌장암에서 필수 유전자 의존성을 식별하기 위한 전산학적 접근법](https://pubmed.ncbi.nlm.nih.gov/42846490/)
-<small>Transcriptomic buffering detection: a computational approach to identifying essential gene dependencies in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` · 2026-10-07 · PubMed · Bioinform Adv · 중요도 0.56
-
-본 연구는 필수 유전자의 기능 손실(LOF)을 보상하는 합성 치사(SL) 완충 기전을 식별하기 위해 전산학적 파이프라인을 개발했습니다. 연구진은 DepMap의 CRISPR 필수성 스크리닝 데이터와 췌장 선암(PAAD) 환자 165명의 유전체 및 RNA 발현 프로필을 통합하여 분석했습니다. 이 분석을 통해 파이프라인의 실행 가능성은 확인되었으나, 췌장암에서 특정 전사체 완충 기전을 최종 발굴하지는 못했습니다.
-
-- TCGA 데이터베이스의 췌장 선암(PAAD) 환자 165명의 유전체 변이 및 RNA 발현 데이터를 통합 분석했습니다.
-- 필수 유전자 기능 손실(LOF) 부담과 전사체 보상 작용 간의 상관관계를 산출하는 파이프라인을 개발했습니다.
-- 분석 파이프라인의 타당성은 입증했으나 췌장암 치료 표적이 될 만한 전사체 완충 인자는 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846490/) · [DOI](https://doi.org/10.1093/bioadv/vbag280) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644534/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846490)</small>
-
----
 <a id="doi-10.64898-2026.10.06.756936"></a>
 #### [Y염색체 상실이 후성유전학적 재프로그래밍을 통해 췌장암의 기저양 아형 특성과 전이 능력을 유도함](https://europepmc.org/article/PPR/PPR1336156)
 <small>Loss of the Y chromosome drives basal identity and metastatic potential via epigenetic reprogramming in pancreatic cancer</small>
@@ -203,6 +188,21 @@ search:
 - Y염색체 결손은 상피-중간엽 전이(EMT)를 유도하고 전이 능력을 강화하며 항암화학요법에 대한 감수성을 감소시켰습니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1336156) · [DOI](https://doi.org/10.64898/2026.10.06.756936) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.06.756936)</small>
+
+---
+<a id="pmid-42846490"></a>
+#### [전사체 완충 작용 탐지: 췌장암에서 필수 유전자 의존성을 식별하기 위한 전산학적 접근법](https://pubmed.ncbi.nlm.nih.gov/42846490/)
+<small>Transcriptomic buffering detection: a computational approach to identifying essential gene dependencies in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` · 2026-10-07 · PubMed · Bioinform Adv · 중요도 0.56
+
+본 연구는 필수 유전자의 기능 손실(LOF)을 보상하는 합성 치사(SL) 완충 기전을 식별하기 위해 전산학적 파이프라인을 개발했습니다. 연구진은 DepMap의 CRISPR 필수성 스크리닝 데이터와 췌장 선암(PAAD) 환자 165명의 유전체 및 RNA 발현 프로필을 통합하여 분석했습니다. 이 분석을 통해 파이프라인의 실행 가능성은 확인되었으나, 췌장암에서 특정 전사체 완충 기전을 최종 발굴하지는 못했습니다.
+
+- TCGA 데이터베이스의 췌장 선암(PAAD) 환자 165명의 유전체 변이 및 RNA 발현 데이터를 통합 분석했습니다.
+- 필수 유전자 기능 손실(LOF) 부담과 전사체 보상 작용 간의 상관관계를 산출하는 파이프라인을 개발했습니다.
+- 분석 파이프라인의 타당성은 입증했으나 췌장암 치료 표적이 될 만한 전사체 완충 인자는 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846490/) · [DOI](https://doi.org/10.1093/bioadv/vbag280) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644534/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846490)</small>
 
 ---
 <a id="pmid-42845420"></a>

@@ -40,6 +40,33 @@ class TrialContact(BaseModel):
     email: Optional[str] = None
 
 
+SETTING_KEYS = ["metastatic", "locally_advanced", "resectable", "adjuvant", "neoadjuvant"]
+PRIOR_KEYS = ["gemcitabine", "FOLFIRINOX", "platinum", "fluoropyrimidine", "irinotecan", "taxane",
+              "immunotherapy", "KRAS_inhibitor", "radiotherapy"]
+BIOMARKER_KEYS = ["KRAS_G12C", "KRAS_G12D", "KRAS_G12V", "KRAS_G12R", "KRAS_mutant", "KRAS_wild",
+                  "BRCA_PALB2", "HRD", "MSI_H", "HER2", "CLDN18_2", "NTRK", "NRG1", "TMB_high", "other"]
+
+
+class TrialMatch(BaseModel):
+    """맞춤 임상시험 찾기용 구조화 조건. 규칙(rules)으로 먼저 뽑고 LLM(llm)이 보정한다.
+
+    - min_prior_lines / max_prior_lines: 진행성(전이·국소진행) 상태에서 받은 전신 항암 요법 수의 하한/상한.
+      max 0 = 1차 치료 전용, min 1 = 이전 치료 경험 필요. None = 제한 없음/알 수 없음.
+    """
+    setting: list[str] = Field(default_factory=list)          # SETTING_KEYS
+    min_prior_lines: Optional[int] = None
+    max_prior_lines: Optional[int] = None
+    prior_required: list[str] = Field(default_factory=list)   # PRIOR_KEYS
+    prior_excluded: list[str] = Field(default_factory=list)   # PRIOR_KEYS
+    biomarkers_required: list[str] = Field(default_factory=list)  # BIOMARKER_KEYS
+    biomarkers_excluded: list[str] = Field(default_factory=list)
+    ecog_max: Optional[int] = None
+    measurable_required: Optional[bool] = None
+    notes_ko: str = ""                                        # 한 줄: 어떤 환자를 위한 시험인지
+    key_exclusions_ko: list[str] = Field(default_factory=list)
+    source: Literal["rules", "llm"] = "rules"
+
+
 class TrialInfo(BaseModel):
     """ClinicalTrials.gov에서 오는 임상시험 전용 정보."""
     nct_id: str
@@ -63,6 +90,7 @@ class TrialInfo(BaseModel):
     n_locations: int = 0
     contacts: list[TrialContact] = Field(default_factory=list)
     last_update_posted: Optional[str] = None
+    match: Optional[TrialMatch] = None       # 맞춤 찾기용 구조화 조건
 
 
 class HistoryEvent(BaseModel):

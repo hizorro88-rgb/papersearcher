@@ -22,7 +22,7 @@ from dataclasses import dataclass, field
 
 import httpx
 
-from .models import CATEGORY_KEYS, EVIDENCE_KEYS, Item
+from .models import BIOMARKER_KEYS, CATEGORY_KEYS, EVIDENCE_KEYS, PRIOR_KEYS, SETTING_KEYS, Item
 
 log = logging.getLogger(__name__)
 
@@ -45,6 +45,16 @@ SYSTEM_PROMPT = """당신은 췌장암 환자와 보호자를 위한 의학 정�
 - evidence: guideline, meta, phase3, phase2, phase1, rct, observational, review, case, preclinical, press, other 중 하나.
 - patient_relevance: 1~5. 지금 치료 중인 환자·보호자에게 얼마나 직접 관련되는지 (5=표준치료를 바꿀 수 있는 3상 결과, 1=전임상 기전 연구).
 - eligibility_ko: 임상시험일 때만. 선정 기준과 제외 기준의 핵심을 각각 불릿 3~6개로 정리한 한국어 텍스트 ("선정 기준:" / "제외 기준:" 소제목 사용). 임상시험이 아니면 빈 문자열.
+- match: 임상시험일 때만, '맞춤 찾기'용 구조화 조건. 췌장암(췌관선암) 코호트 기준으로 판단하고, 다른 암종 코호트의 조건은 무시합니다. 원문에 없으면 빈 배열 또는 -1.
+  - setting: 참여 가능한 질병 상태. metastatic(전이성/4기), locally_advanced(국소진행·수술 불가), resectable(수술 가능·경계성, 수술 전), adjuvant(수술 후 보조치료), neoadjuvant(수술 전 선행치료).
+  - min_prior_lines / max_prior_lines: 진행성 상태에서 받은 전신 항암 요법 줄 수의 하한/상한. 1차 치료 전용이면 max 0. 이전 치료 1가지 이상 필요하면 min 1. 2차 전용이면 min 1·max 1. 제한 없거나 알 수 없으면 -1. 수술 전후 보조항암은 (재발이 6개월 이후면) 줄 수에 넣지 않는 것이 보통입니다.
+  - prior_required: 반드시 받았어야 하는 이전 치료. prior_excluded: 받았으면 참여 불가인 이전 치료. 값: gemcitabine, FOLFIRINOX, platinum, fluoropyrimidine, irinotecan, taxane, immunotherapy, KRAS_inhibitor, radiotherapy. '최근 N주 이내 금지' 같은 휴약 기간 조건은 prior_excluded에 넣지 않습니다.
+  - biomarkers_required: 참여에 필요한 유전자·표지자. biomarkers_excluded: 있으면 참여 불가. 값: KRAS_G12C, KRAS_G12D, KRAS_G12V, KRAS_G12R, KRAS_mutant(아형 무관 KRAS 변이), KRAS_wild, BRCA_PALB2, HRD, MSI_H, HER2, CLDN18_2, NTRK, NRG1, TMB_high, other.
+  - ecog_max: 허용되는 ECOG 수행능력 최대값(0~3). 없으면 -1.
+  - measurable_required: 측정 가능 병변이 필요하면 "yes", 아니면 "no", 모르면 "unknown".
+  - notes_ko: 어떤 환자를 위한 시험인지 한 문장. 예: "이전 치료 1가지 이상 받은 KRAS G12D 변이 전이성 췌장암 환자".
+  - key_exclusions_ko: 환자가 스스로 확인할 수 있는 주요 제외 기준 2~5개 (뇌전이, 활동성 감염, 심장질환, 다른 암 병력 등). 혈액 수치 기준은 넣지 않습니다.
+  임상시험이 아니면 match의 배열은 비우고 숫자는 -1, 문자열은 빈 문자열로 둡니다.
 """
 
 OUTPUT_SCHEMA = {
@@ -57,9 +67,29 @@ OUTPUT_SCHEMA = {
         "evidence": {"type": "string", "enum": EVIDENCE_KEYS},
         "patient_relevance": {"type": "integer", "minimum": 1, "maximum": 5},
         "eligibility_ko": {"type": "string"},
+        "match": {
+            "type": "object",
+            "properties": {
+                "setting": {"type": "array", "items": {"type": "string", "enum": SETTING_KEYS}},
+                "min_prior_lines": {"type": "integer"},
+                "max_prior_lines": {"type": "integer"},
+                "prior_required": {"type": "array", "items": {"type": "string", "enum": PRIOR_KEYS}},
+                "prior_excluded": {"type": "array", "items": {"type": "string", "enum": PRIOR_KEYS}},
+                "biomarkers_required": {"type": "array", "items": {"type": "string", "enum": BIOMARKER_KEYS}},
+                "biomarkers_excluded": {"type": "array", "items": {"type": "string", "enum": BIOMARKER_KEYS}},
+                "ecog_max": {"type": "integer"},
+                "measurable_required": {"type": "string", "enum": ["yes", "no", "unknown"]},
+                "notes_ko": {"type": "string"},
+                "key_exclusions_ko": {"type": "array", "items": {"type": "string"}, "maxItems": 5},
+            },
+            "required": ["setting", "min_prior_lines", "max_prior_lines", "prior_required", "prior_excluded",
+                         "biomarkers_required", "biomarkers_excluded", "ecog_max", "measurable_required",
+                         "notes_ko", "key_exclusions_ko"],
+            "additionalProperties": False,
+        },
     },
     "required": ["title_ko", "summary_ko", "key_points_ko", "categories", "evidence",
-                 "patient_relevance", "eligibility_ko"],
+                 "patient_relevance", "eligibility_ko", "match"],
     "additionalProperties": False,
 }
 
@@ -344,6 +374,9 @@ def apply_result(item: Item, data: dict) -> Item:
         item.evidence = data["evidence"]
     if item.trial and (data.get("eligibility_ko") or "").strip():
         item.trial.eligibility_ko = data["eligibility_ko"].strip()
+    if item.trial and isinstance(data.get("match"), dict):
+        from .match import extract_rules, match_from_llm, merge_match
+        item.trial.match = merge_match(extract_rules(item), match_from_llm(data["match"]))
     try:
         rel = max(1, min(5, int(data.get("patient_relevance", 3))))
     except (TypeError, ValueError):

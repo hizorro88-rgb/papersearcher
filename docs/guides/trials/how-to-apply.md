@@ -14,6 +14,7 @@ comments: true
 
 | 경로 | 설명 |
 |---|---|
+| [맞춤 임상시험 찾기](finder.md) | 진단 상태, 받은 항암제, 유전자 검사 결과를 고르면 조건에 맞는 시험만 추려 줌. 입력은 브라우저 밖으로 나가지 않음 |
 | [이 사이트의 임상시험 목록](../../_generated/trials/index.md) | ClinicalTrials.gov에 등록된 췌장암 시험을 매일 갱신. **국내 실시기관이 있는 시험**을 따로 모아 둠 |
 | ClinicalTrials.gov | 전 세계 임상시험 등록소 (영어) https://clinicaltrials.gov |
 | CRIS (한국 임상연구정보서비스) | 질병관리청 운영, 국내 등록 임상연구 https://cris.nih.go.kr |

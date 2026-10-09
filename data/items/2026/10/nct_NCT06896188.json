@@ -86,6 +86,24 @@
    "United States"
   ],
   "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
   "max_age": null,
   "min_age": "18 Years",
   "n_locations": 1,
