@@ -20,9 +20,8 @@
  "importance": 0.8,
  "key_points_ko": [
   "목표 환자 수는 총 82명입니다.",
-  "참여 연령은 18세부터 75세까지입니다.",
-  "중재 치료로 Pimicotinib(ABSK021) 등이 사용됩니다.",
-  "초록에 구체적인 생존기간이나 반응률 등의 수치는 명시되지 않았습니다."
+  "만 18세에서 75세 사이의 환자가 참여할 수 있습니다.",
+  "이전 전신 치료를 받지 않은 환자를 대상으로 합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06111274"
  },
- "summary_ko": "이 임상시험은 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 Pimicotinib(ABSK021)과 항암화학요법(chemotherapy)의 병용투여(Toripalimab 병용 여부 포함)에 대한 유효성과 안전성을 평가합니다. 주요 평가 질문은 병용요법의 안전성과 유효성 확인입니다. 연구 파트 A 또는 B에서는 약물 투여를 약 24주간 받게 됩니다. 초록에 전체 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.",
+ "summary_ko": "이 임상시험은 진행성 췌장암 환자를 대상으로 Pimicotinib(ABSK021)과 항암화학요법의 병용 투여(Toripalimab 병용 여부 무관)의 유효성과 안전성을 평가합니다. 연구의 주요 목적은 해당 병용 치료법의 안전성과 임상적 유익성을 확인하는 것입니다. 환자들은 약 24주 동안 연구 프로토콜에 따라 치료를 받게 됩니다. 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Phase 2 Study of ABSK021 in Patients With Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자를 위한 ABSK021 2상 임상시험",
+ "title_ko": "진행성 췌장암 환자에서 Pimicotinib(ABSK021)에 대한 2상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Cancer"
@@ -63,7 +62,7 @@
     "phone": "+86-21-68910052"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 18세에서 75세 사이의 남성과 여성으로 자발적 서면 동의를 마친 자\n* 조직학적 또는 세포학적으로 절제 불가능한 국소 진행성 또는 전이성 췌장암으로 진단된 자\n* RECIST 1.1 기준에 따른 측정 가능한 병변이 있는 자\n* 췌장암에 대한 전신 치료력이 없는 자\n* ECOG 신체 기능 점수 0-2인 자\n* 예상 생존 기간이 3개월 이상인 자\n* 적절한 골수 기능 및 응고 기능을 가진 자\n\n제외 기준:\n* 임상시험용 의약품 성분에 알레르기나 과민반응이 알려진 자\n* 집락자극인자 1(CSF-1)/집락자극인자 1 수용체(CSF-1R)를 표적 하는 고도로 선택적인 억제제로 이전 치료를 받은 자\n* BRCA1/2 유전자 변이가 있는 자\n* 5년 이내에 다른 악성 종양 병력이 있는 자\n* 임상시험 중 다른 항종양 치료(항암화학요법, 표적치료, 호르몬치료, 면역치료, 방사선치료, 한방 치료 등)를 받는 자",
+  "eligibility_ko": "선정 기준:\n- 만 18세~75세의 남성 및 여성.\n- 조직학적 또는 세포학적으로 절제 불가능한 국소 진행성 또는 전이성 췌장암 진단.\n- RECIST 1.1 기준에 따른 측정 가능한 병변.\n- 췌장암에 대한 이전 전신 치료력이 없음.\n- ECOG 수행능력 점수 0-2.\n- 예상 생존 기간 3개월 이상.\n- 적절한 골수 및 응고 기능.\n\n제외 기준:\n- 임상시험용 의약품 성분에 알레르기나 과민반응이 있는 경우.\n- 콜로니 자극 인자 1(CSF-1)/콜로니 자극 인자 1 수용체(CSF-1R)를 타깃으로 하는 고선택적 억제제 치료 경험이 있는 경우.\n- BRCA1/2 유전자 변이가 있는 경우.\n- 5년 이내 다른 악성 종양 병력이 있는 경우.\n- 뇌전이가 있는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n* Male and female aged 18-75 years old. The subjects must have informed consent to the study, and signed the written informed consent voluntarily.\n* Diagnosis as non resectable local advanced or metastatic pancreatic cancer by histology or cytology.\n* Measurable disease as defined by RECIST 1.1.\n* Without systemic treatment for pancreatic cancer.\n* ECOG physical strength score 0-2\n* Estimated survival time \\>=3 months.\n* The adequate bone marrow fuction and coagulation function\n\nExclusion Criteria:\n\n* Known allergy or hypersensitivity to any components of the investigational drug product.\n* Previous treatment with highly selective inhibitors targeting Colony Stimulating Factor 1 (CSF-1)/Colony Stimulating Factor 1 Receptor (CSF-1R).\n* With Breast Cancer Gene 1/2 (BRCA1/2) gene mutation.\n* With a history of other malignancies within 5 years.\n* During the trial, other chemotherapy, targeted therapy, hormone therapy, immunotherapy, radiotherapy (except for local symptomatic radiotherapy) or traditional Chinese medicine must be used for anti-tumor treatment.\n* With conditions that significantly affected the absorption of oral drug.\n* Surgical treatment is required within 4 weeks before the first administration, or unhealed, infected, or dehiscence of previous surgical wounds.\n* During the 2 weeks prior to the first administration of this study, the patient was receiving chronic systemic steroid treatment or any other form of immunosuppressive treatment.\n* Concomitant use of strong inhibitors or inducers of Cytochrome P450 3A4 (CYP3A4) within 14 days prior to randomization.\n* Previous peripheral neuropathy \\> grade 1 (Common Terminology Criteria for Adverse Events, version 5.0).\n* Diagnosed with immune deficiency or interstitial lung disease.\n* The patients were vaccinated within 4 weeks before the first treatment.\n* Participated in any drug clinical trial within 4 weeks before the first treatment.\n* Active central nervous system (CNS) metastases.\n* Impaired cardiac function or clinically significant cardiac disease.\n* Known active liver or biliary disease, or other diseases that may lead to abnormal liver function test results during the study.\n* Known active infections from certain viruses, bacteria or parasites.\n* Patients with refractory/uncontrolled ascites or pleural effusion.\n* Pregnant or lactating women.\n* Any other clinically significant comorbidities, which in the judgment of the Investigator, should not be included.",
   "enrollment": 82,
   "has_results": false,
@@ -81,18 +80,24 @@
    ],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "뇌전이",
+    "BRCA1/2 유전자 변이",
+    "5년 이내 다른 암 병력",
+    "활동성 감염",
+    "심장 질환"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료를 받지 않은 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "resectable"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

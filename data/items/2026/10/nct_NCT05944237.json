@@ -17,12 +17,11 @@
   }
  ],
  "id": "nct:NCT05944237",
- "importance": 0.8,
+ "importance": 0.75,
  "key_points_ko": [
-  "목표 인원은 총 150명이며, 진행성 고형암 환자를 대상으로 합니다.",
-  "HTL0039732 단독 요법 및 atezolizumab(아테졸리주맙)과의 병용 요법을 평가합니다.",
-  "1상은 가장 안전한 용량을 찾는 용량 증량 단계이며, 2a상은 유효성을 평가하는 용량 확장 단계입니다.",
-  "췌장암은 PGE2/EP4 신호전달이 중요하다고 여겨지는 1상 파트 B 등의 대상 질환에 포함됩니다."
+  "목표 인원은 총 150명이며 진행성 고형암 환자를 대상으로 합니다.",
+  "HTL0039732 단독 요법 또는 atezolizumab과의 병용 요법으로 진행됩니다.",
+  "국내 기관은 초록에 명시되지 않음입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05944237"
  },
- "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 새로운 신약 HTL0039732를 단독 투여하거나 면역관문 억제제인 atezolizumab(아테졸리주맙)과 병용하여 안전성과 적정 용량을 평가하는 최초 인체 대상(first-in-human) 임상시험입니다. HTL0039732는 암세포의 면역 회피를 돕는 EP4 수용체를 차단하는 약물로, 면역체계가 암세포를 다시 공격할 수 있도록 돕는 기전을 가집니다. 연구는 용량을 단계적으로 늘려가는 1상(용량 증량)과 특정 암종을 대상으로 하는 2a상(용량 확장)으로 나누어 진행됩니다. 목표 환자 수는 총 150명이며, 췌장암을 포함한 다양한 고형암 환자가 임상시험의 1상 파트 B 등에 참여할 수 있습니다.",
+ "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 신약 HTL0039732의 단독 투여 및 atezolizumab(아테톨리주맙)과의 병용 투여 안전성과 적정 용량을 평가하기 위한 사람 대상 최초(first-in-human) 임상시험입니다. HTL0039732는 프로스타글란딘 E2(PGE2) 수용체인 EP4를 차단하여 면역 억제를 해제하고 항암 면역 활성을 높이는 경구용 소분자 신약입니다. 임상 1상은 용량 증량(dose escalation)을 통해 안전한 투여량을 찾고, 제2a상은 용량 확장(dose expansion) 단계로 특정 암종에서 병용 요법의 효과를 평가합니다. 본 시험의 목표 인원은 총 150명이며 국내 기관은 초록에 명시되지 않음입니다.",
  "summary_source": "llm",
  "tags": [
   "EP4 antagonist",
@@ -57,7 +56,7 @@
   "COX inhibitor"
  ],
  "title": "HTL0039732 in Participants With Advanced Solid Tumours",
- "title_ko": "진행성 고형암 환자를 위한 신약 HTL0039732 단독 및 아테졸리주맙 병용 임상시험",
+ "title_ko": "진행성 고형암 환자를 대상으로 하는 HTL0039732 단독 요법 및 아테톨리주맙 병용 요법 제1/2a상 임상시험",
  "trial": {
   "conditions": [
    "Neoplasms",
@@ -82,7 +81,7 @@
     "phone": "+44 (0) 1223 769310"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 성인.\n- 서면 동의서를 작성했으며 임상약물 투여 및 추적 관찰에 협조 가능한 자.\n- 조직학적 또는 세포학적으로 진단된 진행성 고형암 환자 (1상 파트 B 및 2a상의 경우 췌장암을 포함하여 PGE2/EP4 신호전달이 우세하다고 여겨지는 암종 포함).\n- 기대 여명이 최소 12주 이상인 자.\n- 미국동부암연구협회(ECOG) 수행능력 평가가 0 또는 1인 자.\n\n제외 기준:\n- 등록 전 4주 이내에 방사선치료, 항암화학요법, 기타 전신 항암치료 또는 임상시험용 의약품을 투여받은 자 (면역요법의 경우 첫 투여 전 12주 이내).\n- 이전 치료로 인한 독성 부작용이 CTCAE v5.0 기준 1등급을 초과하여 지속되는 자.\n- 중추신경계 전이가 있는 자 (단, 국소 치료를 받았고 무증상이자 방사선학적으로 안정적이며 등록 전 4주 이상 스테로이드를 복용하지 않은 경우는 예외).\n- 활동성 조절 불가능한 감염을 포함하여 비악성 전신 질환으로 인한 의학적 위험이 높은 자.\n- 이전에 EP4 억제제 치료를 받은 적이 있는 자.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 진행성 고형암 환자.\n- 동의서 작성 및 연구 절차 협조 가능.\n- 기대여명 12주 이상 및 Eastern Cooperative Oncology Group(ECOG) 수행능력 상태 0 또는 1.\n- 췌장암은 제1상 파트 B(Phase 1 Part B) 코호트에 포함되어 참여 가능.\n\n제외 기준:\n- 등록 전 4주 이내 방사선치료, 항암화학치료, 기타 임상시험용 의약품 투여 (면역요법은 12주 이내).\n- 치료에 따른 독성 부작용이 CTCAE v5.0 기준 1등급 초과.\n- 조절되지 않는 뇌전이 (국소 치료 후 무증상이며 방사선학적으로 안정되고 등록 전 4주 이상 스테로이드를 복용하지 않은 경우는 예외).\n- 활동성 감염을 포함한 비악성 전신 질환으로 인한 높은 의학적 위험.\n- 과거 EP4 억제제 투여 이력.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Written (signed and dated) informed consent and capable of co-operating with investigational medicinal product administration and follow-up.\n2. Phase 1, dose escalation phase\n\n   Part A (HTL0039732 monotherapy):\n   * Histologically or cytologically proven advanced solid tumour, refractory to conventional treatment, or for which no further conventional therapy is considered appropriate by the Investigator or is declined by the potential participant.\n   * At least 1 measurable lesion according to RECIST v1.1, which (in the Investigator's opinion) has had objective radiological progression on or after the last therapy, or at least one assessable lesion e.g. pleural or peritoneal thickening that does not fulfil RECIST v1.1 criteria for measurable disease.\n   * Consent to access and analysis of any available archival tissue or a fresh tumour sample at baseline, if archival tissue is unavailable.\n   * Consent for fresh tumour biopsy sample(s) at time of PD, if the participant has accessible disease and is eligible to receive atezolizumab. Optional at time of disease progression.\n\n   Phase 1 Part B:\n\n   \\- Histologically proven advanced solid tumour where PGE2/EP4 signalling is believed to be more prevalent or significant (such as microsatellite stable colorectal cancer (MSS CRC), gastro-esophageal cancer, head and neck squamous cell carcinoma (HNSCC), mCRPC, pancreatic cancer, lung cancer, bladder cancer, mesothelioma, cervical cancer, renal cancer, sarcoma, pheochromocytoma and cancers with PI3K/AKT/mTOR pathway activating mutations using a clinically-validated assay).\n\n   Phase 2a:\n\n   \\- Histologically proven advanced solid tumour, in line with indications listed below, refractory to conventional treatment, or for which no conventional therapy is considered appropriate by the Investigator or is declined by the potential participant:\n   1. MSS CRC with PIK3CA or HER2 mutation/genetic aberration, and/or other driver mutation/genetic aberration as agreed with the Sponsor (genomic alteration to have been previously identified using a validated next-generation sequencing method performed on either tumour tissue or circulating tumour DNA \\[ctDNA\\]); where applicable, results from validated immunohistochemistry are also acceptable.\n   2. Gastric or gastro-oesophageal junction (GOJ) adenocarcinoma;\n   3. Clear cell renal cell carcinoma;\n   4. mCRPC\n\n   Phase 1 Part B and Phase 2a:\n   * Consent to access and analysis of any available archival tissue.\n   * Consent for fresh tumour biopsy samples at baseline and on treatment. However, the following exceptions will be permitted if archival tissue is available at the recruiting site:\n\n     1. Patients with mCRPC: biopsies are not required for those whose only safely accessible lesions are bone metastases that lack an accessible soft tissue component.\n     2. For the first 12 participants in each indication: the on-trial biopsy is optional; and the baseline biopsy is mandatory if there is a safely accessible lesion but may be omitted for patients who have no safely accessible lesion, to permit their inclusion in the study. This will continually be assessed through the study.\n   * Disease refractory to conventional treatment, or for which no further conventional therapy is considered appropriate by the Investigator or is declined by the participant.\n   * Except for mCRPC, at least 1 measurable lesion according to RECIST v1.1, which (in the Investigator's opinion) has had objective radiological progression on or after the last therapy. Potential participants with mCRPC may instead have had PD according to PCWG3 criteria.\n\n     1. Previously irradiated lesions cannot be counted as target lesions unless clearly progressed after the radiotherapy.\n     2. Lesions that are intended to be biopsied should not be counted as target lesions (those undergoing biopsy must have at least one target lesion that is not intended to be biopsied).\n   * For indications where anti-PD-1/PD-L1 therapy is standard of care (such as clear cell renal cell carcinoma, or gastric or GOJ adenocarcinoma with elevated PD-L1 expression), patients must have received that therapy and must be considered to have had progressive disease by the Investigator either on, or within 6 months after, that treatment.\n3. Life expectancy of at least 12 weeks.\n4. Eastern Cooperative Oncology Group performance status of 0 or 1.\n5. Haematological and biochemical indices within the protocol specified ranges.\n6. Stable thyroid function tests. Stable doses of thyroxine replacement are permitted.\n7. Aged 18 years or over at the time consent is given.\n\nExclusion Criteria:\n\n1. Radiotherapy (except for palliative reasons), chemotherapy, non chemotherapy systemic anti-cancer therapy (apart from life-long hormone suppression such as luteinising hormone-releasing agents in participants with mCRPC) or investigational medicinal products during the 4 weeks prior to enrolment; or first dose of an immunotherapy during the previous 12 weeks before first dose of HTL0039732.\n2. Ongoing toxic manifestations of previous treatments that are Grade \\>1 per CTCAE v5.0.\n3. Any central nervous system metastases (unless potential participants have had local therapy and are asymptomatic, radiologically stable and have been off steroids for ≥4 weeks prior to enrolment).\n4. Women of child-bearing potential (or who are already pregnant or lactating). Exceptions apply.\n5. Men with partners of childbearing potential. Exceptions apply.\n6. Major thoracic or abdominal surgery from which the potential participant has not yet recovered.\n7. At high medical risk because of non-malignant systemic disease, including active uncontrolled infection.\n8. Known history of current or latent tuberculosis, HIV or Hepatitis B or C infection.\n9. Prior treatment with EP4 inhibitor.\n10. Treatment with selective cyclooxygenase-2 inhibitor in the 8 weeks prior to enrolment.\n11. Known hypersensitivity or intolerance to hydroxypropyl methylcellulose or any of the excipients used in HTL0039732 Tablets (microcrystalline cellulose, mannitol, hydroxypropyl cellulose, croscarmellose sodium, magnesium stearate, silicon dioxide or Opadry® QX coating \\[macrogol (PEG) polyvinyl alcohol graft copolymer, talc, iron oxide red, part hydrolysed polyvinyl alcohol, iron oxide yellow, iron oxide black, titanium dioxide\\]).\n12. Use of systemic immunosuppressive agent in the 2 weeks prior to enrolment. Exceptions apply.\n13. Current or prior malignancy that could affect safety or efficacy assessment of the IMP or compliance with the protocol or interpretation of results. Patients with curatively-treated non-melanoma skin cancer, non-muscle-invasive bladder cancer, or carcinomas-in-situ are generally eligible.\n14. Significant cardiovascular disease.\n15. Known active peptic ulcer disease, or symptoms of gastritis, dyspepsia or gastro-esophageal reflux disease (one or more episodes per week).\n16. Current or planned participation in another interventional clinical trial, whilst taking part in this trial of HTL0039732.\n17. Potential participants at increased risk of gastrointestinal bleeding (including individuals receiving concomitant anticoagulants, or with known coagulopathies or other factors predisposing them to bleeding) if intolerant to gastric protection therapy with PPIs or equivalent.\n18. Limited ability to swallow or absorb oral medications.\n19. Any other condition that, in the Investigator's opinion, would mean that the trial is not in the best interests of the potential participant.\n\n    Phase 1 Part B and Phase 2a:\n20. Clinically significant primary or secondary immunodeficiency.\n21. Active autoimmune disease requiring systemic treatment in the 2 years prior to enrolment.\n22. History or clinical suspicion of interstitial lung disease, history of (non-infectious) pneumonitis that required steroids, or current pneumonitis.\n23. Hypersensitivity to atezolizumab or any of its excipients.\n24. Prior adverse reaction to cancer immunotherapy that required steroid or other immunosuppressive treatment or led to discontinuation of that treatment.",
   "enrollment": 150,
   "has_results": false,
@@ -99,19 +98,27 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "조절되지 않는 뇌전이",
+    "활동성 감염 등 비악성 전신 질환에 따른 높은 의학적 위험",
+    "과거 EP4 억제제 투여 이력",
+    "결핵, HIV, 간염 바이러스 감염 이력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "PGE2/EP4 신호전달이 유의미하다고 여겨지는 췌장암을 포함한 진행성 고형암 환자 대상 제1/2a상 임상시험입니다.",
    "prior_excluded": [
-    "immunotherapy"
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-09](_generated/daily/2026/10/09.md) · 전체 480건 · 최근 7일 480건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
+최근 수집일: [2026-10-10](_generated/daily/2026/10/10.md) · 전체 491건 · 최근 7일 491건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
 #### [1차 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
@@ -65,19 +65,19 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846530/) · [DOI](https://doi.org/10.3389/fmicb.2026.1866794) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644726/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846530)</small>
 
 ---
-<a id="pmid-42827581"></a>
-#### [NALIRIFOX와 FOLFIRINOX의 비교: 절제 불가능하거나 전이성인 췌장관암종(PDAC)의 1차 치료에 대한 효과 및 안전성 재구성 개별 환자 데이터 메타분석](https://pubmed.ncbi.nlm.nih.gov/42827581/)
-<small>NALIRIFOX versus FOLFIRINOX: reconstructed individual patient data meta-analysis of efficacy and safety in first-line treatment of unresectable or metastatic pancreatic ductal adenocarcinoma</small>
+<a id="pmid-42853071"></a>
+#### [조발성 췌장암의 역설: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42853071/)
+<small>The early-onset pancreatic cancer paradox: a systematic review and meta-analysis</small>
 
-`논문` `메타분석` `신약·치료제` `치료 전반` `수술` `임상시험` · 2026-09-18 · PubMed · Front Oncol · 중요도 0.88
+`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-10-09 · PubMed · J Natl Cancer Inst · 중요도 0.89
 
-이 연구는 절제 불가능하거나 전이성인 췌장관암종(PDAC) 환자의 1차 치료로 사용되는 NALIRIFOX와 FOLFIRINOX(또는 mFOLFIRINOX)의 효과와 안전성을 비교하기 위한 체계적 문헌고찰 및 메타분석입니다. 총 9개의 연구에서 2,733명의 환자 데이터를 재구성하여 분석을 진행했습니다. 분석 결과, NALIRIFOX와 FOLFIRINOX 간의 전체 생존기간(OS)이나 무진행 생존기간(PFS)에서 통계적으로 유의미한 차이는 관찰되지 않았습니다. 다만 두 요법은 서로 다른 독성 프로파일을 보여, FOLFIRINOX는 혈액학적 독성이 더 컸고 NALIRIFOX는 3/4등급 설사와 저칼륨혈증이 더 높았습니다.
+이 연구는 조발성 췌장암(EOPC)과 평균 발병 연령 췌장암(AOPC)의 임상병리학적 특징, 치료 패턴, 생존 결과를 비교하기 위해 수행되었습니다. 15개국에서 1,659,432명의 환자가 포함된 48개의 관찰 연구를 분석했습니다. 조발성 췌장암 환자는 당뇨병 유병률이 낮고, 더 진행된 병기(4기)를 보였으며, 항암화학요법(chemotherapy) 이용률이 더 높았습니다. 그러나 두 그룹 간의 전체 생존기간(overall survival)은 유사한 것으로 나타났습니다.
 
-- 전체 9개 연구의 2,733명 환자를 분석한 결과, 전체 중앙값 전체 생존기간(mOS)은 12.38개월이었습니다.
-- 요법별 mOS는 FOLFIRINOX 10.98개월, mFOLFIRINOX 14.09개월, NALIRIFOX 11.81개월이었습니다.
-- NALIRIFOX와 FOLFIRINOX(통합군) 간의 전체 생존기간(OS)과 무진행 생존기간(PFS)은 통계적으로 유의한 차이가 없었습니다(p=0.6).
-- FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
+- 조발성 췌장암 환자는 평균 발병 연령 환자에 비해 당뇨병 유병률이 낮았습니다(교차비[OR], 0.39; 95% 신뢰구간[CI], 0.21~0.72).
+- 조발성 췌장암 환자는 진단 시 4기 등 더 진행된 병기를 보일 확률이 높았습니다(교차비[OR], 1.18; 95% 신뢰구간[CI], 1.02~1.36).
+- 조발성 췌장암 환자는 항암화학요법 이용률이 더 높았습니다(교차비[OR], 2.04; 95% 신뢰구간[CI], 1.69~2.45; P < .001).
+- 전체 생존기간은 두 그룹 간에 유사했습니다(위험비[HR], 1.03; 95% 신뢰구간[CI], 0.86~1.23; P = .76).
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42853071/) · [DOI](https://doi.org/10.1093/jnci/djag373) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42853071)</small>
 
 ---

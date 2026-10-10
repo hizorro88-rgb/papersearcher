@@ -20,9 +20,10 @@
  "id": "nct:NCT05786716",
  "importance": 0.79,
  "key_points_ko": [
-  "목표 평가 가능 환자 수는 30명입니다.",
-  "대상은 HER2 증폭 또는 활성화 돌연변이가 있는 12세 이상의 환자입니다.",
-  "치료는 질병 진행 또는 허용 불가능한 부작용 발생 시까지 진행됩니다."
+  "목표 평가 가능 환자 수는 총 30명입니다.",
+  "HER2 증폭 복제수 5-9는 MTB 논의가 필요하며, 10 이상은 신속 승인됩니다.",
+  "치료는 질병 진행 시 또는 허용 불가능한 부작용이 나타날 때까지 지속됩니다.",
+  "치료 완료 후 2년 동안 3개월마다 추적 관찰을 진행합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05786716"
  },
- "summary_ko": "이 임상시험은 HER2 증폭 또는 활성화 돌연변이가 있는 희귀 암 및 드문 암 환자를 대상으로 trastuzumab(트라스투주맙)과 pertuzumab(퍼투주맙) 병용 투여의 효과를 평가합니다. 성인, 소아, 청소년/청년 환자를 포함하며, 목표 평가 가능 환자 수는 30명입니다. 환자들은 질병이 진행되거나 허용할 수 없는 부작용이 발생할 때까지 치료를 받습니다. 연구의 궁극적인 목표는 긍정적인 임상 결과를 영국 국민보건서비스(NHS)와 암 약물 기금(Cancer Drugs Fund)에 연계하여 새로운 치료 옵션을 제공하는 것입니다.",
+ "summary_ko": "이 임상시험은 HER2 증폭 또는 활성화 변이가 있는 희귀암 및 드문 암 환자를 대상으로 trastuzumab(트라스투주맙)과 pertuzumab(퍼투주맙) 병용 투여의 효과를 평가합니다. 성인, 소아, 청소년 및 젊은 성인 환자를 대상으로 하며, 분자 종양 위원회(Molecular Tumour Board, MTB)의 권고에 따라 치료가 진행됩니다. 환자들은 질병이 진행되거나 허용할 수 없는 부작용이 발생할 때까지 치료를 받게 됩니다. 본 연구의 최종 목표는 긍정적인 임상 결과를 영국 국민보건서비스(NHS) 및 암 약물 기금(Cancer Drugs Fund)에 연계하여 새로운 치료 옵션을 제공하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "Adult",
@@ -62,7 +63,7 @@
   "Rare"
  ],
  "title": "DETERMINE Trial Treatment Arm 04: Trastuzumab in Combination With Pertuzumab in Adult, Paediatric and Teenage/Young Adult Patients With Cancers With HER2 Amplification or Activating Mutations",
- "title_ko": "DETERMINE 임상시험 치료군 04: HER2 증폭 또는 활성화 돌연변이가 있는 성인, 소아, 청소년/청년 환자를 대상으로 한 trastuzumab과 pertuzumab 병용요법",
+ "title_ko": "DETERMINE 임상시험 치료 팔 04: HER2 증폭 또는 활성화 변이가 있는 암 환자에서의 trastuzumab과 pertuzumab 병용 요법",
  "trial": {
   "conditions": [
    "Haematological Malignancy",
@@ -84,7 +85,7 @@
     "phone": "+44 207 242 0200"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 차세대 염기서열 분석법(next-generation sequencing method)으로 확인된 HER2 증폭 또는 분자 종양학 위원회(MTB)가 정의한 활성화 돌연변이가 있는 악성 종양 확진\n• 연령 12세 이상\n• 임신 가능 여성의 경우 등록 전 임신 테스트 음성 및 임상시험 기간 및 마지막 투여 후 7개월 동안 효과적인 피임법 사용 동의\n• 가임기 여성 파트너가 있는 남성 환자의 경우 차단 피임법 사용 및 정자 기증 중단 동의\n• 기저 시점의 신선 조직 생검 및 중개 연구를 위한 혈액 채취에 동의하고 응할 수 있는 환자\n• 프로토콜에 정의된 범위 내의 적절한 조혈 및 생화학적 지표에 따른 장기 기능 (성인 및 소아 환자 모두 해당)\n\n제외 기준:\n• HER2 양성 조기 또는 전이성 유방암 진단\n• 임신 중이거나 수유 중이거나 임상시험 중 또는 마지막 투여 후 7개월 이내에 임신을 계획 중인 여성 환자\n• 진행성 악성 종양의 합병증으로 인한 안정 시 심한 호흡곤란 또는 산소 치료가 필요한 경우\n• trastuzumab, pertuzumab, 쥐 단백질 또는 부형제에 대한 알려진 과민증\n• 등록 전 28일 이내에 생백신 또는 약독화 생백신을 투여받았거나 치료 중/치료 후 6개월 이내에 이러한 백신이 필요할 것으로 예상되는 경우\n• 임상적으로 유의미한 사전 심장 질환 (조절되지 않는 협심증, 부정맥, NYHA 클래스 III 또는 IV 울혈성 심부전, 좌심실 박출률 <55% 등)\n• 첫 투여 전 3개월 이내의 뇌혈관 사고 또는 심혈관 사고\n• 동일 계열의 약물로 이전 치료를 받은 경우 (단, 유전자 프로필이 감수성을 시사하는 경우는 제외)\n• 임상시험 진행을 방해하거나 환자에게 용납할 수 없는 위험을 초래할 수 있는 동종 질환 또는 상태\n• 안전성이나 유효성 평가를 방해할 수 있는 알려진 활동성 감염 (인간면역결핍바이러스 양성 포함, 단 조건 충족 시 예외)",
+  "eligibility_ko": "선정 기준:\n• 차세대 염기서열 분석법으로 확인된 HER2 증폭 또는 활성화 변이가 있는 악성종양 진단\n• 12세 이상의 연령\n• 기준선에서 신선 조직 생검 및 연구용 혈액 검사 채취에 동의하고 가능할 것\n• 프로토콜에 정의된 범위 내의 적절한 조혈 및 생화학적 지표에 따른 장기 기능 (성인 및 소아 환자)\n\n제외 기준:\n• HER2 양성 조기 또는 전이성 유방암 진단\n• 임신 중이거나 수유 중인 여성 환자\n• 진행성 악성종양의 합병증으로 인한 안정 시 중증 호흡곤란 또는 산소 요법 필요\n• trastuzumab, pertuzumab 또는 부형제에 대한 알려진 과민증\n• 임상시험용 의약품 투여 전 28일 이내에 생백신 또는 약독화 생백신을 투여받은 환자\n• 임상적으로 유의미한 사전 심장 질환 (조절되지 않거나 증상이 있는 협심증, NYHA 클래스 III 또는 IV 울혈성 심부전, 좌심실 구혈률 <55% 등)\n• 동일 계열의 약물로 이전 치료를 받은 경우 (단, 유전적 프로파일이 감수성을 보이는 경우는 제외)\n• 후천성면역결핍증(HIV) 양성을 포함하여 안전성 또는 유효성 평가를 방해할 수 있는 알려진 활성 감염",
   "eligibility_text": "THE PATIENT MUST FULFIL THE ELIGIBILITY CRITERIA WITHIN THE DETERMINE MASTER PROTOCOL (NCT05722886) AND WITHIN THE TREATMENT ARM 04 (TRASTUZUMAB AND PERTUZUMAB) OUTLINED BELOW\\*\n\n\\*When trastuzumab- and pertuzumab-specific inclusion/exclusion criteria or precautions below differ from those specified in the Master Protocol, the trastuzumab- and pertuzumab-specific criteria will take precedence.\n\nInclusion Criteria:\n\nA. Confirmed diagnosis of a malignancy harbouring HER2 amplification, or an appropriate activating mutation as defined by the MTB, using an analytically validated next-generation sequencing method.\n\n• A HER2 amplification copy number between 5-9 will require an MTB discussion. A HER2 amplification copy number ≥10 will be fast-tracked for an MTB recommendation, unless there are any patient-specific individualities (such as multiple gene amplifications) that require MTB discussion.\n\nB. Age 12 years or above.\n\nC. Women of childbearing potential are eligible provided that they meet the following criteria:\n\nHave a negative serum or urine pregnancy test before enrolment and;\n\nAgree to use one form of effective birth control method such as:\n\nI. combined (oestrogen and progestogen containing) hormonal contraception associated with inhibition of ovulation (oral, intravaginal or transdermal):\n\nII. progestogen-only hormonal contraception associated with or without inhibition of ovulation (oral, injectable or implantable)\n\nIII. intrauterine device (IUD)\n\nIV. intrauterine hormone-releasing system (IUS)\n\nV. bilateral tubal occlusion\n\nVI. vasectomised partner\n\nVII. sexual abstinence\n\nVIII. male or female condom with or without spermicide\n\nIX. cap, diaphragm or sponge with spermicide\n\nEffective from the first administration of trastuzumab or pertuzumab (whichever is first), throughout the trial and for seven months after the last administration of trastuzumab or pertuzumab (whichever is later).\n\nD. Male patients with partners who are women of childbearing potential are eligible provided that they agree to the following, from the first administration of trastuzumab or pertuzumab (whichever is first), throughout the trial and for seven months after the last administration of trastuzumab or pertuzumab (whichever is later):\n\n* Agree to take measures not to father children by using a barrier method of contraception (condom plus spermicide) or to sexual abstinence.\n* Non-vasectomised male patients with partners who are women of childbearing potential must also be willing to ensure that their partner uses an effective method of contraception as in C, above.\n* Male patients with pregnant or lactating partners must be advised to use barrier method contraception (e.g. condom) to prevent drug exposure of the foetus or neonate.\n\nAll male patients must refrain from donating sperm for the same period.\n\nE. Patients must be able and willing to undergo a fresh tissue biopsy at baseline and blood samples for translational research. Note that for patients with haematological malignancies or neuroblastomas, blood, bone marrow aspiration and/or trephine or lymph node biopsy samples may be taken.\n\nF. ADULT PATIENTS (≥18 years): Adequate organ function as per haematological and biochemical indices within the ranges defined in the protocol. These measurements should be performed to confirm the patient's eligibility.\n\nG. PAEDIATRIC PATIENTS (\\<18 years): Adequate organ function as per haematological and biochemical indices within the ranges defined in the protocol. These measurements should be performed to confirm the patient's eligibility.\n\nExclusion Criteria:\n\nA. Diagnosis of HER2-positive early or metastatic breast cancer.\n\nB. Female patients who are pregnant, breastfeeding or planning to become pregnant during the trial or within seven months following their last dose of trastuzumab or pertuzumab (whichever is later).\n\nC. Severe dyspnoea at rest due to complications of advanced malignancy or requiring supplementary oxygen therapy.\n\nD. Known hypersensitivity to trastuzumab or pertuzumab, murine proteins, or to any of the excipients.\n\nE. Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment, or anticipation of need for such a vaccine during trastuzumab and pertuzumab treatment or within six months after the final dose of trastuzumab and pertuzumab.\n\nF. Patients with clinically significant pre-existing cardiac conditions, including uncontrolled or symptomatic angina, uncontrolled atrial or ventricular arrhythmias (within three months), NYHA class III or IV congestive heart failure.\n\nLeft Ventricular Ejection Fraction \\<55%.\n\nPatients with a cerebrovascular event (including stroke or transient ischaemic attack \\[TIA\\]) or cardiovascular event (including acute myocardial infarction \\[MI\\]) within three months before the first dose of trastuzumab and pertuzumab.\n\n• Patients with primary CNS tumours may be considered unless intra-tumoural bleeding has occurred within 2 weeks of the first dose of trastuzumab and pertuzumab, and patients with punctate CNS haemorrhages \\<3 mm may be considered.\n\nG. Prior treatment with the same class of drug unless genetic profile demonstrates a mechanism of resistance known to be potentially sensitive to trastuzumab or pertuzumab.\n\nH. Any clinically significant concomitant disease or condition (or its treatment) that could interfere with the conduct of the trial or absorption of oral medications or that would, in the opinion of the Investigator, pose an unacceptable risk to the patient in this trial.\n\nI. Known active infections (bacterial, fungal or viral) that would interfere with the assessment of safety or efficacy of trastuzumab and pertuzumab, including human immunodeficiency virus (HIV) positivity. Patients with history of testing positive for HIV infection are eligible provided the each of the following conditions are met:\n\n* CD4 count ≥350/μL;\n* undetectable viral load;\n* receiving antiretroviral therapy (ART) that does not interact with IMP (patients should be on established ART for at least four weeks); and\n* no HIV/ acquired immune deficiency syndrome (AIDS)-associated opportunistic infection in the last 12 months.",
   "enrollment": 30,
   "has_results": false,
@@ -98,20 +99,25 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
     "HER2"
    ],
-   "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 경우",
+    "조절되지 않는 심장 질환 또는 심부전",
+    "동일 계열 약물로 이전 치료를 받은 경우",
+    "조절되지 않는 활성 감염 (HIV 포함)"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "HER2 증폭 또는 활성화 변이가 있는 12세 이상의 희귀암 또는 드문 암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "12 Years",

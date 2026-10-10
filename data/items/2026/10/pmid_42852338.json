@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer represents one of the most lethal cancers, characterized by poor survival rates and persistent therapeutic resistance. In this study, we investigated the anticancer potential and underlying mechanism of SNU523 (8-O-demethyl-9,11-didechloropestalone), a compound isolated from the marine-derived fungus Pestalotiopsis neglecta. SNU523 exhibited potent antiproliferative effects, reduced colony formation in PDAC cells, and suppressed tumor growth in a xenograft model. SNU523 demonstrated dual inhibitory activity against the STAT3 and MEK signaling pathways, suggesting the potential for overcoming therapeutic resistance driven by the inverse interplay between these cascades. This dual suppression may be attributed to its modulatory effects on the epidermal growth factor receptor (EGFR) protein and mRNA levels. Taken together, these findings suggest that SNU523 represents a highly promising candidate for targeted therapy against pancreatic cancer, and it merits extensive investigation in both preclinical and clinical settings.",
+ "authors": [
+  "Kim S",
+  "Wang W",
+  "Oh E",
+  "Roh E",
+  "Cho Y",
+  "Han S",
+  "Kang H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42852338",
+ "importance": 0.55,
+ "key_points_ko": [
+  "해양 유래 진균에서 분리한 SNU523 화합물은 췌장암 세포의 증식과 콜로니 형성을 억제했습니다.",
+  "동물 이식편 모델에서 종양 성장을 억제하는 효과를 보였습니다.",
+  "STAT3 및 MEK 신호전달 경로를 동시 억제하는 작용 기전을 확인했습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1021/acsomega.6c01271",
+  "nct": [],
+  "pmcid": "PMC13647936",
+  "pmid": "42852338"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-21",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Omega",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42852338/"
+ },
+ "summary_ko": "이 연구는 해양 유래 진균 Pestalotiopsis neglecta에서 분리한 화합물 SNU523(8-O-demethyl-9,11-didechloropestalone)의 췌장암(PDAC)에 대한 항암 효과와 작용 기전을 조사했습니다. SNU523은 췌장암 세포주에서 강력한 증식 억제 효과를 보였고, 콜로니 형성을 줄였으며, 이식편 모델(xenograft model)에서 종양 성장을 억제했습니다. 또한 STAT3와 MEK 신호전달 경로를 동시에 억제하여 치료 저항성을 극복할 잠재력을 보였습니다. 이러한 결과는 SNU523이 췌장암 표적 치료를 위한 유망한 후보 물질임을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "SNU523 Inhibits Pancreatic Cancer through the Dual Suppression of STAT3 and MEK Signaling Pathways",
+ "title_ko": "해양 진균 유래 화합물 SNU523의 STAT3 및 MEK 신호전달 경로 동시 억제를 통한 췌장암 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

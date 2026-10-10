@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -20,9 +20,9 @@
  "id": "nct:NCT06145074",
  "importance": 0.8,
  "key_points_ko": [
-  "총 30명의 췌장암 수술 예정 환자가 참여하여 propranolol군과 위약군에 1:1로 15명씩 배정됩니다.",
-  "수술 전 10일 동안 하루에 두 번 40mg의 propranolol 또는 위약을 복용합니다.",
-  "주요 평가변수는 불안 수준(HAM-A, HADS), 종양유발성 유전자 발현, 심박변이도(HRV), 수술 후 30일 및 90일 생존율과 합병증입니다."
+  "총 30명의 환자가 참여하여 propranolol 40 mg 투여군과 위장약(placebo) 투여군에 1:1로 무작위 배정됩니다.",
+  "치료 기간은 수술 전 계획된 10일 동안 하루 두 번입니다.",
+  "주요 평가지표에는 불안 수준(HAM-A, HADS), 심박변이도(HRV), 종양 전이 및 염증 유전자 발현, 30일 및 90일 생존율과 합병증이 포함됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06145074"
  },
- "summary_ko": "본 임상시험(IMPULS trial)은 수술을 앞둔 췌장암(Pancreatic Cancer) 환자 30명을 대상으로 수술 전 propranolol 투여의 효과와 안전성을 평가하는 2상(PHASE2) 무작위 대조 임상시험입니다. 환자들은 1:1 비율로 무작위 배정되어 수술 전 10일 동안 하루 두 번 propranolol 40mg 또는 위약(placebo)을 복용하게 됩니다. 주요 목표는 수술 전 불안 감소, 종양유발성 변화, 심박변이도(HRV), 90일 이내 사망률 및 수술 후 합병증을 평가하는 것입니다.",
+ "summary_ko": "IMPULS 임상시험은 수술이 예정된 췌장암 환자 30명을 대상으로 수술 전 propranolol의 유효성과 안전성을 평가하는 2상 무작위, 삼중맹검, 위장 대조군 파일럿 연구입니다. 환자들은 수술 전 10일 동안 하루 두 번 40 mg의 propranolol 또는 위장약을 1:1 비율로 투여받습니다. 주요 평가지표는 수술 전 환자의 불안 완화, 종양 조직 및 혈액의 종양 유발성 변화 평가, 그리고 90일 이내 사망률 및 합병증 등의 추적 관찰 데이터 수집입니다. 본 연구는 향후 대규모 주위수술기(perioperative) 연구를 위한 예비 데이터를 제공하기 위해 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "Propranolol",
@@ -56,7 +56,7 @@
   "Pancreatic Cancer"
  ],
  "title": "Examining Safety, Efficacy and Feasibility of Preoperative Propranolol in Patients With PDAC.",
- "title_ko": "수술 전 propranolol 투여가 췌장암(PDAC) 환자에 미치는 안전성, 유효성 및 타당성 평가",
+ "title_ko": "수술 전 propranolol 투여가 췌장암 수술 환자의 안전성, 유효성 및 타당성에 미치는 영향 평가",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -74,7 +74,7 @@
     "phone": "+4560807762"
    }
   ],
-  "eligibility_ko": "선정 기준: - 수술적 절제가 가능할 것으로 의심되는 췌장암 환자 - 근치적 목적의 수술 치료 적응증이 있는 환자 - 서면 동의서를 제출한 환자 - 만 18세 이상 환자 - 가임기 여성의 경우 임상시험 기간 동안 안전하고 고효율인 피임법을 사용할 것. 제외 기준: - 만성 저혈압(여성 수축기혈압 < 100 mmHg, 남성 < 110 mmHg) 환자 - 서맥(맥박 < 50회/분) 환자 - 천식 또는 만성 폐쇄성 폐질환 환자 - 좌심실 박출률(< 50%)에 영향이 있는 심부전 환자 - 신부전(eGFR < 20 ml/min) 또는 만성 간질환/간부전 환자 - 폐성심, 심인성 쇼크, 중증 말초순환장애 환자 - 대사성 산증 환자 - propranolol 성분에 과민증이 있는 환자 - 치료받지 않은 갈색세포종 환자 - 이형 협심증, 동기능부전 증후군, 방실차단 병력이 있는 환자 - 뇌졸중 또는 심혈관 질환 병력이 있는 환자 - 췌장암에 대한 선행항암치료(neoadjuvant oncological treatment) 병력이 있는 환자 - 최근 3개월 이내 propranolol 또는 기타 베타차단제, 항불안제, 칼슘채널차단제, 베타에너지수용체 작용제 사용 이력이 있는 환자 - 담당 의사가 쇠약하거나 부적합하다고 판단한 환자 - 최종 조직검사 결과 양성 병변으로 밝혀진 경우 - 정신 질환, 치매, 덴마크어 소통 불가 등으로 인해 순응도가 낮을 것으로 예상되는 환자",
+  "eligibility_ko": "선정 기준:\n- 수술적 절제 가능성이 의심되는 췌장암 환자\n- 근치적 목적의 수술적 치료 적응증이 있는 환자\n- 서면 동의서를 제출한 환자\n- 만 18세 이상인 환자\n\n제외 기준:\n- 만성 저혈압이 있는 환자 (여성 수축기 혈압 < 100 mmHg, 남성 수축기 혈압 < 110 mmHg)\n- 서맥이 있는 환자 (맥박 < 분당 50회)\n- 천식 또는 만성 폐쇄성 폐질환이 있는 환자\n- 좌심실 박출률(LVEF)이 50% 미만인 심부전 환자\n- 최근 3개월 이내 propranolol 또는 기타 베타차단제를 사용한 환자\n- 의심되는 원발성 췌장암에 대해 수술 전 항암 치료(neoadjuvant oncological treatment)를 받은 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients with suspected surgically resectable pancreatic cancer\n* Indication for surgical treatment with curative intend.\n* Provide written informed consent.\n* Patients minimum 18 years old.\n\nWomen of childbearing potential (WOCBP) are defined as women ranging from the period of menarche till the post-menopausal period, unless permanently sterile (e.g., hysterectomy, bilateral salpingectomy and bilateral oophorectomy). Post-menopause is defined as no menses for 12 months without an alternative medical cause.\n\nWOCBP should use a secure and highly effective birth control (as stated in the \"Recommendations related to contraception and pregnancy testing in clinical trials\", version 1.1., section 4.1, from the Clinical Trials Facilitation and Coordination Group) during the entire period of the trial. In cases of uncertainty regarding pregnancy, additional pregnancy testing either as highly sensitive serum or urine pregnancy test can be used.\n\nExclusion Criteria:\n\n* Patients with:\n* Chronic hypotension, systolic blood pressure \\< 100 mg Hg for women and \\< 110 mg Hg for men.\n* Bradycardia, pulse \\< 50 beats per minute.\n* Asthma or chronic obstructive lung disease\n* Heart insufficiency with affected (\\< 50 %) left ventricle ejection fraction (LVEF), treated or untreated.\n* Kidney insufficiency, defined as eGFR \\< 20 ml/min.\n* Liver insufficiency defined as chronically high liver enzymes or known chronic liver disease (e.g., hepatitis, steatosis, cirrhosis).\n* Cor pulmonale\n* Cardiogenic shock\n* Severe peripheral circulatory disorders\n* Known or newly diagnosed current metabolic acidosis (e.g., in recent analysis of arterial puncture).\n* Known hypersensitivity to propranolol or to one or more of the excipients.\n* Currently untreated pheochromocytoma.\n* History of Prinzmetals angina.\n* History of sick sinus syndrome or atrioventricular block.\n* History of stroke or any previous cardiovascular event.\n* History of neoadjuvant oncological treatment for suspected primary pancreatic cancer.\n* Recent or present (within 3 months) use of propranolol or any other beta-blocker.\n* Recent or present (within 3 months) use of any of the following medications: anxiolytics, calcium channel blockers, beta-adrenergic receptor agonist.\n* Medical history that classifies the patient as frail or unsuitable for inclusion by the examining physician.\n* Histopathological examination revealing benign lesion.\n* Predictable poor compliance, due to pre-existing psychiatric disease, dementia or not able to read or speak sufficient Danish, resulting in not being able to provide a well-informed written consent.",
   "enrollment": 30,
   "has_results": false,
@@ -91,18 +91,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "천식 또는 만성 폐쇄성 폐질환",
+    "심부전 (좌심실 박출률 < 50%)",
+    "신장 기능 저하 (eGFR < 20 ml/min)",
+    "최근 3개월 이내 베타차단제 사용 병력",
+    "수술 전 선행항암치료 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "수술 전 보조항암치료를 받지 않은 수술 가능 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

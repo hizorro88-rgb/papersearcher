@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -20,10 +20,9 @@
  "id": "nct:NCT06587061",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 인원은 30명의 췌장암 환자입니다.",
-  "중재 치료는 HRS-4642와 AG(gemcitabine 및 albumin-bound paclitaxel)의 병용입니다.",
-  "임상시험 단계는 2상(PHASE2)입니다.",
-  "구체적인 유효성 및 안전성 결과 수치는 초록에 명시되지 않았습니다."
+  "목표 환자 수는 총 30명이며 18세부터 80세까지의 췌관선암(ductal adenocarcinoma of the pancreas) 환자가 참여합니다.",
+  "중재 치료로 신약 HRS-4642와 AG(gemcitabine 및 albumin-bound paclitaxel) 병용 요법을 사용합니다.",
+  "초록에 구체적인 유효성 및 안전성 수치는 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,17 +47,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06587061"
  },
- "summary_ko": "이 연구는 췌장암 환자를 대상으로 수술 전 보조요법(neoadjuvant treatment) 및 수술 후 보조요법(adjuvant treatment)으로서 HRS-4642와 젬시타빈(gemcitabine), 알부민 결합 파클리탁셀(albumin-bound paclitaxel, AG) 병용 투여의 안전성과 유효성을 평가하기 위한 단일기관, 공개, 탐색적 2상 임상시험입니다. 목표 환자 수는 30명이며 18세부터 80세까지의 환자를 대상으로 합니다. 구체적인 생존기간, 반응률, 위험비 등의 결과는 초록에 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 수술 가능 및 경계성 절제 가능 췌장암(pancreatic cancer) 환자를 대상으로 HRS-4642와 젬시타빈(gemcitabine), 알부민 결합 파클탁셀(albumin-bound paclitaxel, AG) 병용 투여의 안전성과 유효성을 평가하기 위한 단일기관 공개 탐색적 2상 임상시험입니다. 총 30명의 환자를 목표로 진행되며 수술 전 선행치료(neoadjuvant treatment)와 수술 후 보조치료(adjuvant treatment)로서의 효과를 확인하고자 합니다. 초록에 구체적인 생존기간이나 반응률 수치는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "HRS-4642 in Combination With AG for Neoadjuvant and Adjuvant Treatment of Pancreatic Cancer",
- "title_ko": "췌장암의 수술 전후 보조 치료로서 HRS-4642와 AG 병용 투여에 대한 임상시험",
+ "title_ko": "췌장암의 수술 전후 보조 치료를 위한 HRS-4642와 AG 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: - 나이 18세 이상 80세 이하 - 병리학적 또는 세포학적으로 확진된 췌장관선암(ductal adenocarcinoma of the pancreas) 및 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재 - NCCN 가이드라인에 따른 절제 가능(고위험 절제 가능 포함) 및 경계성 절제 가능 췌장암 - ECOG 수행 능력 상태 0 또는 1 - 기대 여명 12주 이상 - 충분한 골수 및 장기 기능 - 피임에 동의하는 가임기 여성 및 남성 환자 - 자발적 참여와 동의서 서명. 제외 기준: - 이전에 항종양 치료를 받은 적이 있는 경우 - 영상 검사로 진단된 원격 전이 병변이 있는 경우 - 연구 약물 또는 성분에 과민성이 있는 경우 - 과거 또는 현재 다른 악성 종양 이력이 있는 경우 - 첫 투여 전 4주 이내에 다른 약물이나 의료기기 임상시험에 참여한 경우 - 첫 투여 전 4주 이내에 생백신 및 약독화 백신을 투여받은 경우 - 동종 조혈모세포 이식 또는 장기 이식 병력 - 중증 심혈관 동맥혈전증, NYHA 클래스 2 이상의 심기능 부전 등 - 간질성 폐질환, 비감염성 폐렴, 조절되지 않는 중증 질환, 최근 대수술 이력 - HIV 감염, 활동성 B형 간염, 활동성 C형 간염 등 - 임상적으로 유의미한 급성 또는 만성 췌장염, 췌장염 고위험 환자 - 연구자가 참여를 제한해야 한다고 판단하는 기타 상황",
+  "eligibility_ko": "선정 기준: \n- 18세 이상 80세 이하의 성인\n- 병리학적 또는 세포학적으로 확진된 췌장 췌관선암(ductal adenocarcinoma of the pancreas) 환자 및 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자\n- NCCN 가이드라인에 따른 절제 가능(고위험 절제 가능 포함) 또는 경계성 절제 가능 췌장암에 해당하는 자\n- ECOG 수행능력 0 또는 1\n- 기대여명이 12주 이상이며 골수 및 장기 기능이 적절한 자\n\n제외 기준: \n- 이전에 항종양 치료를 받은 적이 있는 자\n- 영상 검사로 진단된 원격 전이 병변이 있는 자\n- 연구 약물 성분에 과민반응이 있는 자\n- 과거 혹은 동반된 다른 악성 종양이 있는 자\n- 임의의 약물 또는 의료기기 임상시험에 참여한 경력이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age: ≥18 and ≤80 years old, male or female;\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n3. Imaging evaluation met the NCCN guidelines definition of resectable pancreatic cancer (including high-risk resectable) and borderline resectable pancreatic cancer.\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Life expectancy ≥ 12 weeks;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 6 months after the last study administration;\n8. Patients volunteered to participate in this study and signed informed consent;\n\nExclusion Criteria:\n\n1. Previously received any anti-tumor therapy;\n2. the presence of distant metastatic lesions diagnosed by imaging;\n3. Known hypersensitivity to the study drug or any of its components;\n4. previous or concurrent other malignant tumors;\n5. Participation in a clinical trial of any drug or medical device within 4 weeks prior to the first dose;\n6. Received live and attenuated vaccines within 4 weeks prior to the first dose of the investigational drug;\n7. previous allogeneic hematopoietic stem cell transplantation or organ transplantation;\n8. Patients with severe cardiovascular arterial thromboembolism (e.g., myocardial infarction, unstable angina, stroke), NYHA class 2 or greater cardiac insufficiency, and clinically significant supraventricular or ventricular arrhythmias requiring clinical intervention;\n9. with interstitial lung disease, non-infectious pneumonia or severe and uncontrolled medical illness, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n10. with congenital or acquired immunodeficiencies such as human immunodeficiency virus (HIV) infection, active hepatitis B (positive hepatitis B virus surface antigen \\[HBsAg\\] test result at screening together with an HBVDNA test value of ≥10,000 copies/ml \\[2000 IU/ml\\]), active hepatitis C (hepatitis C virus antigen \\[HCV-antibodies\\] at screening), or active hepatitis C (hepatitis C virus antitoxin \\[HCV-antibodies\\] at screening).antibody \\[HCV-Ab\\] positive at screening and HCV-RNA positive at the same time), or co-infection with hepatitis B and hepatitis C;\n11. Presence of clinically significant acute or chronic pancreatitis; patients at high risk for pancreatitis, e.g., serum amylase and/or lipase concentrations ≥3 times ULN (except when the investigator determines that abnormally elevated amylase and/or lipase are associated with pancreatic cancer);\n12. Other situations that the researcher felt should not be included.",
   "enrollment": 30,
   "has_results": false,
@@ -74,11 +73,16 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "원격 전이 병변이 있는 경우",
+    "과거 또는 동반된 다른 악성 종양이 있는 경우",
+    "중증 심혈관 질환 또는 동맥 혈전embolism 병력이 있는 경우",
+    "간질성 폐질환 또는 비감염성 폐렴이 있는 경우"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 가능 또는 경계성 절제 가능 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
@@ -86,7 +90,7 @@
     "adjuvant",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "80 Years",
   "min_age": "18 Years",

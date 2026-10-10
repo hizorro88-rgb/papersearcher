@@ -19,9 +19,10 @@
  "id": "nct:NCT06547736",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 160명입니다.",
-  "18세에서 75세 사이의 국소 진행성 또는 전이성 췌장암 환자가 대상입니다.",
-  "HR-S4642, ADC 약물, 면역치료제 Adebrelimab 등의 단독 또는 병용 중재를 평가합니다."
+  "대상 질환은 절제 불가능한 국소 진행성 또는 전이성 췌장암입니다.",
+  "중재 방법은 ADC 약물 단독 또는 HRS-4642 및 면역요법(adebrelimab 등)과의 병용입니다.",
+  "목표 환자 수는 총 160명입니다.",
+  "연령 기준은 18세 이상 75세 이하입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06547736"
  },
- "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 항체-약물 접합체(ADC) 단독요법 또는 HRS-4642나 면역요법과의 병용요법에 대한 안전성, 내인성, 유효성을 평가합니다. 단일 기관에서 공개, 탐색적 임상시험(phase2)으로 진행됩니다. 연구는 용량 탐색 단계와 효능 탐색 단계의 두 단계로 나누어 수행됩니다. 총 목표 환자 수는 160명입니다.",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 항체-약물 접합체(ADC) 단독요법 또는 HRS-4642 및 면역요법과의 병용요법에 대한 안전성, 내약성, 유효성을 평가하기 위한 임상시험입니다. 연구는 단일 기관에서 공개, 탐색적으로 진행됩니다. 연구는 용량 탐색 단계와 유효성 탐색 단계의 두 단계로 나누어 진행됩니다. 목표 인원은 160명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Exploratory Platform Research on Precision Therapy of Advanced Pancreatic Cancer",
@@ -62,7 +63,7 @@
     "phone": "+86-021-64179375"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 본 연구에 자발적으로 참여하고 사전 동의서에 서명한 환자. 2. 연령: 만 18세 이상 75세 이하의 남성 또는 여성. 3. 진행성(전이성 또는 절제 불가능한) 췌장암 환자로 RECIST v1.1에 따른 측정 가능한 병변이 최소 1개 이상 존재. 4. 전신 수행 상태(ECOG) 0 또는 1. 5. 기대 여명 12주 이상. 6. 골수 및 장기 기능이 적절할 것. 7. 가임기 여성의 임신 테스트 음성 및 연구 기간 동안 피임 동의.\n\n제외 기준: 1. 임상 시험용 약물 또는 성분에 알레르기가 있는 경우. 2. 연구 시작 전 4주 이내의 전신 항종양 치료 또는 첫 투여 전 14일 이내 완료된 완화적 방사선 치료. 3. 5년 이내의 다른 활동성 악성 종양 병력. 4. 치료되지 않았거나 활동성인 중추신경계(CNS) 전이. 5. 이전 치료로 인한 독성 및 합병증이 NCI-CTCAE 레벨 1 이하로 회복되지 않은 경우. 6. 간질성 폐질환, 비감염성 폐렴, 심각한 내과적 질환, 급성 감염, 최근 대수술 병력이 있는 경우. 7. 6개월 이내 위장관 폐쇄 또는 관련 증상 병력. 8. 6개월 이내 심각한 심혈관 및 뇌혈관 혈전색전증. 9. HIV 감염, 활동성 B형 또는 C형 간염. 10. 1년 이내 활동성 폐결핵 감염 병력. 11. 다른 임상 연구에 참여 중이거나 종료 후 4주가 지나지 않은 경우. 12. 췌장염 고위험군 (혈청 아밀라아제 및/또는 리파아제 농도가 정상 상한치의 3배 이상). 13. 조절되지 않는 정신 질환 또는 물질 남용. 14. 첫 투여 전 28일 이내 주요 수술(진단/생검 제외) 또는 7일 이내 외상성 소수술 경험. 15. 연구자가 참여에 부적절하다고 판단하는 기타 상황.",
+  "eligibility_ko": "선정 기준:\n- 연구 참여에 자발적으로 동의하고 서면 동의서를 작성한 환자\n- 연령: 18세 이상 75세 이하의 남성 또는 여성\n- 진행성(전이성 또는 절제 불가능한) 췌장암 환자로서 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자\n- 미국동부종양학협회(ECOG) 수행능력 상태가 0 또는 1인 자\n- 기대 여명이 12주 이상인 자\n- 골수 및 장기 기능이 적절한 자\n\n제외 기준:\n- 임상시험용 의약품 또는 그 성분에 알레르기가 있는 환자\n- 연구 시작 전 4주 이내에 전신 항종양 치료를 받았거나, 첫 투여 전 14일 이내에 완화적 방사선 치료를 완료한 환자\n- 5년 이내에 다른 활성 악성 종양이 있는 환자\n- 치료되지 않았거나 활성 상태인 중추신경계(CNS) 전이가 있는 환자\n- 간질성 폐질환, 비감염성 폐렴, 심각하고 조절되지 않는 내과 질환, 급성 감염이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients volunteered to participate in this study and signed informed consent;\n2. Age: ≥18 and ≤75 years old, male or female;\n3. Advanced (metastatic or unresectable) pancreatic cancer; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Life expectancy ≥ 12 weeks;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 6 months after the last study administration;\n\nExclusion Criteria:\n\n1. Known to be allergic to the investigational drug or any of its components;\n2. Systemic antitumor therapy was received 4 weeks before the start of the study, and palliative radiotherapy was completed within 14 days before the first dose;\n3. Have other active malignancies within 5 years;\n4. Accompanied by untreated or active central nervous system (CNS) metastases;\n5. Failure to recover toxicity and/or complications from previous interventions to NCI-CTCAE ≤ Level 1 or the levels specified by inclusion and exclusion criteria;\n6. With interstitial lung disease, non-infectious pneumonia, severe and uncontrolled internal medicine diseases, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n7. With gastrointestinal obstruction or symptoms and signs of gastrointestinal obstruction within 6 months before the start of treatment, but if surgical treatment has been performed and the obstruction is completely relieved, screening can be conducted;\n8. Within 6 months prior to entering the study, patients with severe cardiovascular and cerebrovascular thromboembolism;\n9. With congenital or acquired immune deficiency, such as people infected with HIV, active hepatitis B (defined as hepatitis B virus surface antigen \\[HBsAg\\] in screening period is positive and HBV-DNA detection value ≥ 10000 copies/ml \\[2000 IU/ml\\] or active hepatitis C (defined as hepatitis C virus antibody \\[HCV Ab\\] in screening period is positive and HCV RNA is positive);\n10. With active pulmonary tuberculosis infection within one year prior to enrollment, or those with a history of active pulmonary tuberculosis infection more than one year ago but without formal treatment;\n11. Participated in other clinical studies or whose first medication is less than 4 weeks after the end of the previous clinical study (last medication), or whose study drug has a half-life of 5, whichever is shorter;\n12. High risk of pancreatitis, serum amylase and/or lipase concentrations ≥ 3 times ULN, will be evaluated by the researchers;\n13. Uncontrollable mental illnesses and other known factors that affect the completion of research procedures, such as alcohol, drug or substance abuse, criminal detention, etc;\n14. Having undergone major surgeries other than diagnosis or biopsy within 28 days prior to the first administration; Experiencing traumatic minor surgery (biopsy, endoscopic examination, and drainage surgery) within 7 days prior to the first administration;\n15. Other situations that researchers believe should not be included.",
   "enrollment": 160,
   "has_results": false,
@@ -81,18 +82,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "5년 이내 다른 암 병력",
+    "치료되지 않았거나 활성 상태인 중추신경계(CNS) 전이",
+    "간질성 폐질환 또는 비감염성 폐렴",
+    "조절되지 않는 심혈관 및 뇌혈관 혈전색전증"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "국소 진행성 또는 전이성 췌장암 환자를 위한 ADC 및 병용요법 2상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

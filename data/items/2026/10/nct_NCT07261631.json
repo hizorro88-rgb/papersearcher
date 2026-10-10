@@ -23,7 +23,7 @@
   "중재 약물로 68Ga-NNS309와 177Lu-DFC413이 사용됩니다.",
   "초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-10",
  "links": {
   "doi": null,
   "nct": [
@@ -87,14 +87,15 @@
    "68Ga-NNS309",
    "177Lu-DFC413"
   ],
-  "last_update_posted": "2026-06-17",
+  "last_update_posted": "2026-10-09",
   "location_countries": [
    "Canada",
    "Denmark",
    "France",
    "Germany",
    "Israel",
-   "Singapore"
+   "Singapore",
+   "United States"
   ],
   "locations_kr": [],
   "match": {
@@ -119,9 +120,9 @@
    ],
    "source": "rules"
   },
-  "max_age": "100 Years",
+  "max_age": null,
   "min_age": "18 Years",
-  "n_locations": 8,
+  "n_locations": 9,
   "nct_id": "NCT07261631",
   "phase": "PHASE1",
   "primary_completion_date": "2029-05-09",

@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Globally, the rate of early-onset pancreatic cancer (EOPC) is increasing, but its clinical features and outcomes relative to average-onset pancreatic cancer (AOPC) remain uncertain. We compared clinicopathological features, treatment patterns, and survival outcomes.\nMETHODS: PubMed, Embase, Web of Science, the Cochrane Library, and Scopus were searched through January 2026 (PROSPERO: CRD420261346604). Observational studies comparing EOPC with AOPC using age-based thresholds were included. Study quality was assessed with the Newcastle-Ottawa Scale and ROBINS-E. Hazard and odds ratios were pooled using random-effects models for 39 outcomes across 9 predefined PROSPERO domains. All tests were two-sided. Certainty was assessed using GRADE.\nRESULTS: Forty-eight studies from 15 countries were included, encompassing 1,659,432 patients (non-overlapping estimate: 695,936). EOPC patients had a lower prevalence of diabetes (odds ratio [OR], 0.39; 95% confidence interval [CI], 0.21 to 0.72), more advanced disease (stage IV: OR, 1.18; 95% CI, 1.02 to 1.36), and higher chemotherapy utilization (OR, 2.04; 95% CI, 1.69 to 2.45; P < .001). Overall survival was comparable (hazard ratio, 1.03; 95% CI, 0.86 to 1.23; P = .76; prediction interval, 0.50 to 2.12). Exploratory dose-response meta-regression suggested a nonlinear (U-shaped) association between age threshold and survival (P = .008). GRADE certainty was very low for all outcomes.\nCONCLUSIONS: Patients with EOPC present with more advanced disease, receive more aggressive treatment, and achieve comparable survival, although certainty is very low. These findings support equitable access to intensive multimodal therapy and germline testing before age 50; however, stage-specific survival data are required to confirm these observations.",
+ "authors": [
+  "Ruze R",
+  "Zayier M",
+  "Aboduhelili A",
+  "Tuergan T",
+  "Abulizi A",
+  "Guo Q",
+  "Zhang R",
+  "Shalayiadang P"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42853071",
+ "importance": 0.89,
+ "key_points_ko": [
+  "조발성 췌장암 환자는 평균 발병 연령 환자에 비해 당뇨병 유병률이 낮았습니다(교차비[OR], 0.39; 95% 신뢰구간[CI], 0.21~0.72).",
+  "조발성 췌장암 환자는 진단 시 4기 등 더 진행된 병기를 보일 확률이 높았습니다(교차비[OR], 1.18; 95% 신뢰구간[CI], 1.02~1.36).",
+  "조발성 췌장암 환자는 항암화학요법 이용률이 더 높았습니다(교차비[OR], 2.04; 95% 신뢰구간[CI], 1.69~2.45; P < .001).",
+  "전체 생존기간은 두 그룹 간에 유사했습니다(위험비[HR], 1.03; 95% 신뢰구간[CI], 0.86~1.23; P = .76)."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1093/jnci/djag373",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42853071"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Natl Cancer Inst",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42853071/"
+ },
+ "summary_ko": "이 연구는 조발성 췌장암(EOPC)과 평균 발병 연령 췌장암(AOPC)의 임상병리학적 특징, 치료 패턴, 생존 결과를 비교하기 위해 수행되었습니다. 15개국에서 1,659,432명의 환자가 포함된 48개의 관찰 연구를 분석했습니다. 조발성 췌장암 환자는 당뇨병 유병률이 낮고, 더 진행된 병기(4기)를 보였으며, 항암화학요법(chemotherapy) 이용률이 더 높았습니다. 그러나 두 그룹 간의 전체 생존기간(overall survival)은 유사한 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The early-onset pancreatic cancer paradox: a systematic review and meta-analysis",
+ "title_ko": "조발성 췌장암의 역설: 체계적 문헌고찰 및 메타분석",
+ "trial": null,
+ "type": "paper"
+}

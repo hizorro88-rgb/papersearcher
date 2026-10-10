@@ -23,10 +23,9 @@
  "id": "nct:NCT06844422",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 절제 불가능한 국소 진행성 췌장암(LAPC) 환자 37명입니다.",
-  "1b상은 3+3 방법론을 사용하여 ivonescimab의 용량 제한 독성(DLT)과 2상 권장 용량(RP2D)을 결정합니다.",
-  "2상은 SBRT(25-50Gy/5F) 및 modified FOLFIRINOX 화학요법과 병용하여 무진행 생존기간 중앙값(mPFS)을 평가합니다.",
-  "환자는 최대 12개월 동안 ivonescimab 유지 치료를 받습니다."
+  "대상 질환: 국소진행성 췌장암(LAPC) 환자 37명",
+  "평가 항목: 1b상의 최대 허용 용량(MTD) 및 권장 2상 용량(RP2D) 결정, 2상의 무진행 생존기간 중앙값(mPFS) 평가",
+  "치료 방법: Ivonescimab, SBRT(25-50Gy/5F), modified FOLFIRINOX 병용 치료 후 ivonescimab 유지 치료"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06844422"
  },
- "summary_ko": "이 연구는 국소 진행성 췌장암(LAPC) 환자를 대상으로 면역관문억제제와 혈관신생억제 이중항체인 ivonescimab(이보네시맙)에 정위체부방사선치료(SBRT) 및 항암화학요법을 병용하여 안전성과 유효성을 평가합니다. 1b상에서는 최대 허용 용량(MTD), 용량 제한 독성(DLT), 2상 권장 용량(RP2D)을 결정합니다. 2상에서는 modified FOLFIRINOX 및 SBRT와 병용한 ivonescimab의 무진행 생존기간 중앙값(mPFS)을 평가합니다. 총 37명의 환자가 참여하는 단일군 임상시험입니다.",
+ "summary_ko": "본 연구는 PD-1과 VEGF를 동시에 표적하는 이중항체인 ivonescimab과 정위체부방사선치료(SBRT), 항암화학요법을 병용하여 국소진행성 췌장암(LAPC) 환자에게 투여하는 1/2상 임상시험입니다. 1b상에서는 최대 허용 용량(MTD), 용량 제한 독성(DLT), 권장 2상 용량(RP2D)을 결정합니다. 2상에서는 modified FOLFIRINOX 및 SBRT와 병용한 ivonescimab의 무진행 생존기간 중앙값(mPFS) 등 유효성과 안전성을 평가합니다. 총 37명의 환자를 대상으로 진행하며 1차 치료로 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Adapted Guided Stereotactic Body Radiotherapy",
@@ -60,7 +59,7 @@
   "Pancreatic Cancer"
  ],
  "title": "Adapted Guided Stereotactic Body Radiotherapy Combined With Chemotherapy and Enhancement of Novel Drug Ivonescimab for Pancreatic Cancer (ASCEND)",
- "title_ko": "국소 진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험(ASCEND)",
+ "title_ko": "국소진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -72,7 +71,7 @@
     "phone": "0531-67626442"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 미국암연합위원회(AJCC) 제8판 기준에 따른 병리학적 또는 세포학적으로 확인된 절제 불가능한 국소 진행성 췌장암(LAPC). 2. 18세에서 80세 사이의 연령. 3. 고형암 1.1 기준에 따른 최소 1개의 측정 가능한 췌장암 병변. 4. 동유럽종금협력그룹(ECOG) 수행 상태 0-1. 5. 기대 여명이 최소 3개월 이상. 6. 적절한 혈액학적, 신장 및 간 기능 유지. 7. 중개 연구를 위한 조직 및 혈액 샘플 제공 가능. 8. 연구 내용을 이해하고 서면 동의서 제공 가능. 제외 기준: 1. 완치된 국소 종암을 제외하고 지난 5년 이내의 악성 종양 병력. 2. 조절되지 않는 감염, 조절되지 않는 전신 질환, 심근경색이나 뇌색전증 등 지난 6개월 이내의 중증 동반 질환. 3. 다른 자극성 또는 공동억제 T세포 수용체를 표적으로 하는 약물 투여력. 4. 등록 전 2주 이내의 이전 방사선 치료. 5. Ivonescimab 또는 그 부형제에 대한 알려진 알레르기. 6. 임신 또는 수유 중. 7. 강한 CYP3A4/5 또는 CYP1A2 유도제/억제제의 현재 또는 계획된 사용. 8. 경구 비타민 K 길항제 항응고제 요법 필요. 9. 위장관 천공, 누공, 장폐색, 크론병 등 경구 약물 투여에 영향을 미치는 상태.",
+  "eligibility_ko": "선정 기준:\n- 8판 AJCC 기준에 따른 병리적 또는 세포학적으로 확진된 수술 불가능한 국소진행성 췌장암(LAPC)\n- 연령 18세 이상 80세 이하\n- RECIST 1.1 기준에 따른 측정 가능한 췌장암 병변 1개 이상\n- ECOG 수행능력 0-1\n- 기대여명 3개월 이상\n- 적절한 혈액, 신장, 간 기능 유지\n\n제외 기준:\n- 완치된 국소 종양을 제외하고 지난 5년 이내 다른 악성 종양 병력\n- 조절되지 않는 감염, 심혈관 질환 등 조절되지 않는 전신 질환\n- 다른 T세포 수용체 표적 약물 치료 경험\n- 등록 전 2주 이내 방사선치료 경험\n- Ivonescimab 성분에 대한 알레르기\n- 임신 또는 수유 중\n- 위장관 천공, 누공, 장폐색 등 경구 투여나 소화기계에 영향을 주는 상태",
   "eligibility_text": "Inclusion Criteria:\n\n1. Pathologically or cytologically confirmed unresectable LAPC, as defined by the 8th edition of the American Joint Committee on Cancer (AJCC);\n2. Age between 18 and 80 years;\n3. At least one measurable pancreatic cancer lesion, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1;\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1;\n5. Life expectancy of at least 3 months;\n6. Adequate hematological, renal, and hepatic function, as defined by the following criteria (within 14 days prior to enrollment): (1) Hemoglobin (Hb) ≥ 90 g/L; Absolute Neutrophil Count (ANC) ≥ 1.0 × 10\\^9/L; Platelet count (PLT) ≥ 75 × 10\\^9/L; (2) No significant organ dysfunction, with the following criteria: Serum total bilirubin ≤ 1.5 × upper limit of normal (ULN) or direct bilirubin ≤ ULN if total bilirubin \\> 1.5 × ULN; Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 × ULN; Alkaline phosphatase (ALP) ≤ 2.5 × ULN, or ≤ 2.5 × ULN for the liver fraction if ALP \\> 2.5 × ULN; Serum creatinine ≤ 1.5 × ULN or calculated creatinine clearance (using the MDRD formula) ≥ 40 mL/min if serum creatinine is \\> 1.5 × ULN; Urine protein \\< 2+, or if ≥ 2+ on dipstick, 24-hour urine protein must be \\< 2 g or the urine protein-to-creatinine ratio (UPC) must be \\< 2; International normalized ratio (INR) and activated partial thromboplastin time (aPTT) ≤ 1.5 × ULN;\n7. Ability to provide tissue and blood samples for translational research;\n8. Ability to comprehend study details and provide written informed consent.\n\nExclusion Criteria:\n\n1. History of any malignant tumors within the past 5 years, except for cured localized tumors;\n2. Uncontrolled infections (e.g., active tuberculosis or hepatitis), uncontrolled systemic diseases, poorly controlled hypertension or diabetes, or severe comorbidities within the past six months, including myocardial infarction, cerebral embolism, or significant arrhythmias;\n3. Previous treatment with drugs targeting other stimulatory or co-inhibitory T-cell receptors;\n4. Prior radiotherapy within 2 weeks before enrollment;\n5. Known allergy to Ivonescimab or its excipients;\n6. Pregnancy or lactation;\n7. Current or planned use of strong CYP3A4/5 or CYP1A2 inducers or strong CYP3A4/5 inhibitors;\n8. Requirement for oral vitamin K antagonists for anticoagulation. Low-dose warfarin (≤ 2 mg/day) and other low-dose anticoagulants for maintaining central venous access or preventing deep vein thrombosis are permitted. Low-molecular-weight heparin is also permitted;\n9. Conditions affecting oral medication administration, such as a history of gastrointestinal perforation or fistula within the past 6 months, history of intestinal obstruction, extensive bowel resection, Crohn's disease, ulcerative colitis, or chronic diarrhea.",
   "enrollment": 37,
   "has_results": false,
@@ -88,17 +87,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "key_exclusions_ko": [
+    "최근 5년 이내 다른 암 병력",
+    "조절되지 않는 감염이나 심각한 심혈관 질환",
+    "이전 면역항암제 치료 경험",
+    "등록 전 2주 이내 방사선치료 경험"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 국소진행성 췌장암 환자를 위한 Ivonescimab 병용 1/2상 임상시험",
+   "prior_excluded": [
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

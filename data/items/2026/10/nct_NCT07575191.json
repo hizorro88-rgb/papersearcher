@@ -20,9 +20,10 @@
  "id": "nct:NCT07575191",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 9명이며, 스웨덴의 1개 임상시험 기관에서 모집합니다.",
-  "Gemcitabine(젬시타빈) 용량은 100 mg, 200 mg, 400 mg의 세 가지 수준으로 단계적 증량합니다.",
-  "환자들은 2주 간격으로 총 4회의 치료 세션을 받으며, 치료 후 6개월간 추적 관찰을 거칩니다."
+  "대상 질환은 수술이 불가능한 국소진행성 췌장암(LAPC) 환자 9명입니다.",
+  "Extroducer® Infusion Catheter System을 이용해 젬시타빈을 종양 내 또는 주위에 직접 주입합니다.",
+  "젬시타빈 용량은 100 mg, 200 mg, 400 mg의 세 단계로 나누어 증량하며 평가합니다.",
+  "환자들은 2주 간격으로 총 4회의 치료를 받고, 치료 후 6개월 동안 추적 관찰을 거칩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07575191"
  },
- "summary_ko": "이 연구는 수술이 불가능한 국소 진행성 췌장암(Locally Advanced Pancreatic Cancer, LAPC) 환자들을 대상으로 새로운 도관 시스템인 Extroducer® Infusion Catheter System을 이용하여 항암제 Gemcitabine(젬시타빈)을 종양 주변 또는 종양 내로 직접 투여하는 임상시험입니다. 총 9명의 환자를 대상으로 3명씩 3개 그룹으로 나누어 100 mg, 200 mg, 400 mg의 용량을 단계적으로 증량하며 안전성과 타당성을 평가합니다. 환자들은 2주 간격으로 총 4회의 치료 세션을 받으며 치료 종료 후 6개월간 추적 관찰을 진행합니다. 전체 참여 기간은 약 8~9개월이 소요될 것으로 예상됩니다.",
+ "summary_ko": "이 연구는 수술이 불가능한 국소진행성 췌장암(Locally Advanced Pancreatic Cancer) 환자를 대상으로 새로운 카테터 시스템인 Extroducer® Infusion Catheter System을 이용해 젬시타빈(Gemcitabine)을 종양 내부나 주위에 직접 주입하는 치료법을 평가합니다. 총 9명의 환자를 대상으로 3명씩 3개 코호트로 나누어 2주 간격으로 총 4회의 치료 세션을 진행하며, 100 mg, 200 mg, 400 mg의 용량 증량(dose-escalation) 방식으로 안전성과 타당성을 확인합니다. 치료 완료 후 6개월간 추적 관찰을 진행하며, 환자 1인당 총 참여 기간은 약 8~9개월입니다. 주요 목표는 이 치료 접근법의 안전성과 타당성을 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Safety and Performance of a Novel Infusion Catheter System for Peri/Intratumoral Gemcitabine Delivery in Patients With Pancreatic Cancer",
- "title_ko": "국소 진행성 췌장암 환자에서 새로운 도관 시스템을 통한 젬시타빈의 종양 내 투여 안전성과 성능 평가",
+ "title_ko": "국소진행성 췌장암 환자에서 젬시타빈의 종양 내/주위 전달을 위한 새로운 카테터 시스템의 안전성 및 성능 평가",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Non-resectable"
@@ -63,7 +64,7 @@
     "phone": "+46 70 842 10 54"
    }
   ],
-  "eligibility_ko": "선정 기준: - 연령 18세 이상 - 조직학적으로 확진된 수술 불가능한 국소 진행성 췌장암 - 최소 6개월 이상의 정맥(IV) 항암화학요법 치료 경험 - 동유럽협력종양학그룹(ECOG) 활동도 평가 0 또는 1 - 고형암 반응평가기준(RECIST v1.1)에 따른 측정 가능한 표적 병변 - 적절한 골수 및 장기 기능을 가진 환자 - 피험자와 여성 파트너에 대한 엄격한 피임 조건 동의  제외 기준: - 다른 임상시험에 참여 중인 경우 - 선암(adenocarcinoma)이 아닌 췌장암 (선편평세포암은 허용) - 타 장기나 비지역 림프절로 암이 전이된 경우 - 원인 불명의 병기 또는 재발성 췌장암 - Gemcitabine 또는 요오드 조영제 금기 환자 - 종양 접근을 방해하는 구조물이 있는 경우 - 임신 중이거나 수유 중인 환자",
+  "eligibility_ko": "선정 기준:\n* 18세 이상의 성인\n* 조직학적으로 확진된 수술 불가능한 국소진행성 췌장암\n* 정맥(IV) 항암화학요법을 최소 6개월 이상 받은 경우\n* ECOG 수행능력 평가 0 또는 1\n* RECIST v1.1 기준에 따른 측정 가능한 표적 병변 존재\n* 첫 투여 전 4주 이내 다학제 팀 평가에서 절제 불가능하다고 판정된 국소진행성 췌장암\n* 허용되는 골수 및 장기 기능 기준 충족\n\n제외 기준:\n* 췌장암이 선암(adenocarcinoma)이 아닌 경우(신내분비종양, 전이 등, 단 선편평세포암은 허용됨)\n* 다른 장기나 비지역 림프절로 암이 전이된 경우\n* 알 수 없는 병기 또는 재발성 췌장암\n* 젬시타빈 또는 요오드 조영제 금기 환자\n* 종양 접근을 방해하는 구조물이 있는 경우\n* 3년 이내에 완치되지 않은 동시성 또는 이전 악성 종양\n* 임신부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Able to comply with scheduled visits, treatment plan, able to undergo catheterization, imaging procedures, laboratory tests, required follow up visits, the filling out of required forms, and have the ability to understand and give written informed consent.\n* Voluntarily agrees to participate and has duly singed the Informed Consent Form.\n* Age 18 years or older.\n* Histologically confirmed, locally advanced pancreatic cancer.\n* Systemic treatment with IV chemotherapy for at least six months.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* The target tumor is a measurable tumor according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria v1.1 prior to initiating Extroducer® Gemcitabine treatment.\n* Stable disease or locally progressive disease without signs of metastatic disease as evaluated at a multidisciplinary tumor board within 4 weeks prior to first dose.\n* Locally Advanced Pancreatic Cancer not amenable to resection as evaluated at a multidisciplinary tumor board within 4 weeks prior to first dose.\n* Have acceptable organ and marrow function as defined below:\n\n  i. Absolute neutrophil count (ANC) ≥ 1500 cells/mm³ (1.5x109 cells/L) ii. Hemoglobin ≥ 9.0 g/dL iii. Platelets ≥ 100,000/µL iv. Total bilirubin ≤ 2 × upper limit of normal (ULN). v. AST (Aspartate Aminotransferase) ≤ 3 × ULN. vi. ALT (Alanine Aminotransferase) ≤ 3 × ULN vii. Creatinine Within 1.5 x ULN OR Creatinine clearance ≥ 60 mL/min for patients with creatinine levels above 1.5 x ULN.\n* Women of childbearing potential (defined as all women who are not surgically sterile or postmenopausal for at least 1 year prior to enrollment) must have a negative urine pregnancy test at enrollment and must agree to use a medically acceptable and highly effective contraception from enrollment until 6 months after final study treatment of Gemcitabine.\n* Male subjects who are planning to father a child (i.e., planning a pregnancy with a partner) during the clinical investigation.\n\n  i. Male subjects must agree to use highly effective contraception with female partners of childbearing potential during the clinical investigation and for 3 months after the last dose of Gemcitabine and must not donate sperm during this period.\n\nii. Acceptable methods include: a condom in addition to combined hormonal contraception, progestogen-only contraception, intrauterine device (IUD), intrauterine hormone-releasing system (IUS), bilateral tubal occlusion in the female partner, or vasectomy of the male participant (confirmed azoospermia).\n\niii. Sexual abstinence is acceptable only if it is the subject's usual and preferred lifestyle; periodic abstinence and withdrawal are not acceptable.\n\nExclusion Criteria:\n\n* Participating in another clinical investigation which may interfere with the results in this clinical investigation per investigator judgement.\n* Inability to consent.\n* Pancreatic tumor is different from adenocarcinoma (e.g., neuroendocrine, metastases). Adenosquamous is allowed.\n* Cancer has spread to other organs or non-regional lymph nodes (Metastases).\n* Unknown stage or recurrent pancreatic cancer.\n* Patient contraindication to Gemcitabine treatments.\n* Patients in which iodine contrast is contraindicated.\n* Presence of structures that impede tumor access.\n* Concurrent or prior malignancy unless disease-free for ≥3 years, with exceptions for nonmelanoma skin cancer, carcinoma in situ of the cervix or bladder, or Gleason Grade \\< 7 organ-confined prostate cancer. This may be subject to investigator's judgement based on individual patient circumstances and the nature of the malignancy.\n* Unmanaged concurrent illnesses, encompassing psychiatric conditions or challenging social circumstances, that, as per the investigator's judgment, could undermine compliance to the study protocols or pose an unacceptable risk to the patient.\n* Pregnant or nursing individuals.",
   "enrollment": 9,
   "has_results": false,
@@ -80,20 +81,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "전이가 있는 경우",
+    "재발성 췌장암",
+    "선암이 아닌 췌장 종양",
+    "임신부 또는 수유부"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 1,
+   "notes_ko": "최소 6개월 이상 정맥 항암 치료를 받은 수술 불가능한 국소진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [
-    "gemcitabine"
+    "gemcitabine",
+    "fluoropyrimidine"
    ],
    "setting": [
-    "locally_advanced",
-    "resectable"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

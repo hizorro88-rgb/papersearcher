@@ -22,10 +22,9 @@
  "id": "nct:NCT06946901",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 90명이며, 연령은 18세부터 80세까지입니다.",
-  "주요 평가 항목은 1년 생존율 증가 여부와 치료 요정의 안전성 프로파일입니다.",
-  "중재 치료로 cisplatin을 이용한 HIPEC(70mg/m²)과 전신 AG 항암화학요법(nab-paclitaxel plus gemcitabine)을 시행합니다.",
-  "현재 환자를 모집 중인 2상(Phase II) 임상시험입니다."
+  "목표 인원은 총 90명입니다.",
+  "대상 연령은 18세 이상 80세 이하입니다.",
+  "주요 평가 항목은 1년 생존율 증가 여부와 안전성 프로파일입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06946901"
  },
- "summary_ko": "이 임상시험은 복막 전이 췌장암(Peritoneal Metastatic Pancreatic Cancer) 환자에게 고온 복강내 항암화학요법(Hyperthermic Intraperitoneal Chemotherapy, HIPEC)과 정맥 내 항암화학요법을 함께 적용하여 그 유효성과 안전성을 평가합니다. 주요 연구 질문은 이 병행 치료가 1년 생존율(1-year survival rates)을 높이는지, 그리고 치료의 안전성은 어떠한지 확인하는 것입니다. 참가 환자는 복강경이나 수술을 통해 복막 전이를 확인한 뒤, 수술 후 복강내 cisplatin(시스플라틴) HIPEC 치료를 2주기 받고, 이어 전신 AG 항암화학요법(nab-paclitaxel(나브파클리탁셀)과 gemcitabine(젬시타빈) 병용)을 받게 됩니다. 치료 과정은 정기적인 영상 검사와 다학제 팀(MDT)의 권고에 따라 조정됩니다.",
+ "summary_ko": "이 임상시험은 복막 전이 췌장암(peritoneal metastatic pancreatic cancer) 환자를 대상으로 온열 복강내 화학요법(HIPEC)과 정맥 내 전신 항암화학요법의 병용 치료 효과와 안전성을 평가합니다. 주요 연구 질문은 이 병용 요법이 1년 생존율을 높이는지, 그리고 치료 요법의 안전성 프로파일이 어떠한지 확인하는 것입니다. 참가자들은 복막 전이 확인을 위한 수술적 탐색 후, 수술 후 복강내 cisplatin(시스플라틴) HIPEC 2주기를 받고 이어 systemic AG chemotherapy(nab-paclitaxel plus gemcitabine, 넵파클리탁셀 플러스 젬시타빈)를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "The Safety and Effectiveness of Hyperthermic Intraperitoneal Chemotherapy Combined With Intravenous Chemotherapy for Peritoneal Metastatic Pancreatic Cancer, a Phase II Clinical Trial",
- "title_ko": "복막 전이 췌장암 환자를 대상으로 고온 복강내 항암화학요법(HIPEC)과 정맥 내 항암화학요법을 병행하는 치료의 안전성과 유효성: 2상 임상시험",
+ "title_ko": "복막 전이 췌장암 환자에서 온열 복강내 화학요법과 정맥 내 화학요법 병용의 안전성 및 유효성을 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Hyperthermic Intraperitoneal Chemotherapy",
@@ -67,7 +66,7 @@
     "phone": "86 13701874954"
    }
   ],
-  "eligibility_ko": "선정 기준: 환자 또는 법정 대리인의 서동 동의서 제출, 18세 이상 80세 이하, 수술 금기증이 없으며 ECOG 수행 능력 점수 0-1점, 영상 또는 수술 중 확인된 복막 전이 및 전이성 선암(metastatic adenocarcinoma)의 조직병리학적 확인, 이전 항암 치료 병력 없음(전신, 중재술, HIFU, 방사선, 면역, 표적, 한방 치료 등 모두 불가), 심각한 혈액학적·심장·폐 기능 장애 및 자가면역 결핍 없음, 백혈구(WBC) >=3.0 × 10⁹/L, 절대호중구수(ANC) >=1.5 × 10⁹/L, 혈소판(PLT) >=100 × 10⁹/L, 혈색소(Hgb) >=90 g/L, AST/ALT <=2.5배 정상치 상한(ULN), 총 빌리루빈 <=2배 ULN, 혈청 크레아티닌 <=1.5배 ULN, PT 및 INR <=1.5배 ULN, 연구 일정 및 프로토콜 준수 가능. 제외 기준: 난소 전이를 제외한 다른 장기(간, 뼈, 폐 등)로의 명확한 원격 전이 증거 있음, 지난 5년 이내 다른 전신 악성 종양 병력, 치료 전 4주 이내 임상 시험용 의약품 사용, 골반에서 상복부까지 확장되는 대량의 복수 동반, 최근 3개월 이내 반복적인 수혈이 필요한 상부 위장관 출혈 병력, 임신, 자가면역 질환, 중증 갑상선 질환, 중추신경계 질환, 정신 질환, 불안정형 협심증, 울혈성 심부전, 중증 부정맥 등 조절되지 않는 심각한 기저질환, 연구 약물 또는 유사 구조 약물에 대한 과민반응 병력, 장기 와파린(warfarin) 항응고 치료가 필요한 환자, 순응도가 낮거나 서면 동의 제공이 불가능/거부, 치료 기간 동안 14일 이상 추적 관찰이 누락될 가능성이 있는 환자.",
+  "eligibility_ko": "선정 기준: \n- 18세 이상 80세 이하의 환자\n- ECOG 수행능력 상태 0-1이며 수술 금기증이 없는 환자\n- 영상 검사 또는 수술 중 확인을 통해 전이성 선암(metastatic adenocarcinoma)으로 확진된 복막 전이 췌장암 환자\n- 치료 전 전신 항암화학요법, 방사선치료, 면역요법 등 어떠한 이전 항암 치료도 받지 않은 환자\n- 적절한 장기 및 골수 기능을 가진 환자\n\n제외 기준: \n- 난소 전이를 제외하고 간, 뼈, 폐 등 다른 장기로의 원격 전이가 명확한 환자\n- 지난 5년 이내 다른 전신 악성 종양 병력이 있는 환자\n- 골반에서 상복부까지 확장되는 대량의 복수(massive ascites)가 동반된 환자\n- 임신부, 자가면역질환, 조절되지 않는 심각한 내과적 질환이 있는 환자\n- 연구 약물에 대한 과민반응 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Obtain signed informed consent from the patient or their legal representative, with adherence to the study protocol and follow-up procedures;\n* Aged \\>=18 and \\<=80 years, regardless of gender;\n* No contraindications to surgery, with an ECOG performance status of 0-1;\n* Confirmed peritoneal metastasis by imaging or intraoperative detection, with rapid intraoperative histopathology indicating metastatic adenocarcinoma;\n* No prior anti-tumor therapy before treatment, including systemic chemotherapy, interventional chemotherapy, high-intensity focused ultrasound (HIFU), radiotherapy, immunotherapy, molecular targeted therapy, or traditional Chinese medicine anti-tumor treatments;\n* No severe hematological, cardiac, pulmonary dysfunction, or autoimmune deficiency (based on respective diagnostic criteria);\n* Hematological criteria: White blood cells (WBC) \\>=3.0 × 10⁹/L; Absolute neutrophil count (ANC) \\>=1.5 × 10⁹/L; Platelets (PLT) \\>=100 × 10⁹/L; Hemoglobin (Hgb) \\>=90 g/L.\n* Blood biochemistry criteria: AST (SGOT) and ALT (SGPT) \\<=2.5 × upper limit of normal (ULN); Total bilirubin (TBIL) \\<=2 × ULN; Serum creatinine (CRE) \\<=1.5 × ULN.\n* Coagulation function: Prothrombin time (PT) and international normalized ratio (INR) \\<=1.5 × ULN;\n* Compliance with study visit schedules and other protocol requirements.\n\nExclusion Criteria:\n\n* Presence of distant metastases to other organs (e.g., liver, bone, lung) with definitive evidence, except for ovarian metastases;\n* History of other systemic malignancies within the past five years;\n* Use of any non-anti-tumor investigational drugs within 4 weeks prior to treatment;\n* Accompanied by massive ascites (extending from pelvic to upper abdominal cavity);\n* History of upper gastrointestinal bleeding requiring repeated blood transfusions within the past three months;\n* Pregnancy, autoimmune diseases, severe hyperthyroidism/hypothyroidism, central nervous system disorders, psychiatric illnesses, unstable angina, congestive heart failure, severe arrhythmias, or other uncontrolled serious medical conditions;\n* History of hypersensitivity to the study drugs or medications with similar chemical structures;\n* Patients requiring long-term warfarin anticoagulation therapy;\n* Poor compliance, inability or unwillingness to provide signed informed consent;\n* Patients likely to be lost to follow-up for ≥14 days during the treatment period.",
   "enrollment": 90,
   "has_results": false,
@@ -83,17 +82,32 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "난소 전이를 제외한 다른 장기(간, 뼈, 폐)로의 원격 전이",
+    "지난 5년 이내 다른 암 병력",
+    "대량의 복수 동반",
+    "조절되지 않는 심각한 심장 질환, 중추신경계 질환 또는 정신 질환",
+    "연구 약물에 대한 과민반응 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 항암 치료를 받은 적이 없는 복막 전이 췌장암 환자를 위한 시험입니다.",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "80 Years",
   "min_age": "18 Years",

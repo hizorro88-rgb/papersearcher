@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Gastrointestinal (GI) cancers account for a substantial cancer burden, yet contemporary incidence trends and future projections across cancer sites and demographic subgroups remain incompletely characterized. We aimed to analyze incidence trends from 2000-2022 and forecast rates through 2032 for eight major GI cancers in the United States.\nMETHODS: Using SEER Research Data (17 registries, 2000-2022), we identified patients with esophageal, gastric, liver, gallbladder, pancreatic, small intestine, and colorectal cancer. Age-adjusted incidence rates were calculated and stratified by sex, age group (<60 vs. ≥60 years), and race (White, Black, Asian/Pacific Islander, American Indian/Alaska Native). Time-series forecasting models (linear regression, ARIMA, ETS, NNAR) were applied to project incidence through 2032.\nRESULTS: Incidence trends varied markedly by cancer site. Pancreatic cancer showed sustained increases across most subgroups, with projected rates rising from 4.41 to 5.11 per 100,000 by 2032. Colorectal cancer demonstrated divergent age-specific patterns: incidence among individuals ≥60 years is projected to decline (25.48 to 14.89 per 100,000), while early-onset disease (<60 years) is expected to increase (5.35 to 5.84 per 100,000). Liver cancer incidence is forecast to decline (2.18 to 1.42 per 100,000). Esophageal and gastric cancers showed modest increases, while gallbladder cancer remained stable. Substantial disparities persisted by sex (male predominance for most sites, female predominance for gallbladder) and race (highest burden among Asian/Pacific Islander populations).\nCONCLUSIONS: GI cancer incidence trajectories are highly heterogeneous. The projected rise in pancreatic and early-onset colorectal cancers signals urgent needs for targeted prevention, risk-factor modification, and improved early detection strategies in at-risk populations.",
+ "authors": [
+  "Yaseen S",
+  "Khoursheed H",
+  "Osman ASA",
+  "Abdelaziz Abdelmoneim S",
+  "Atef Ahmed B",
+  "Hamad M",
+  "Khirfan AAG",
+  "Alani Md M"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42853717",
+ "importance": 0.63,
+ "key_points_ko": [
+  "췌장암의 발생률은 인구 10만 명당 4.41명에서 2032년 5.11명으로 지속적으로 증가할 것으로 예측되었습니다.",
+  "대장암의 경우 60세 이상은 발생률이 감소할 것으로 예상되는 반면, 60세 미만의 조기 발병 대장암은 증가할 것으로 나타났습니다.",
+  "간암 발생률은 10만 명당 2.18명에서 1.42명으로 감소할 것으로 예측되었습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1159/ddi/acnag010",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42853717"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dig Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42853717/"
+ },
+ "summary_ko": "본 연구는 미국 SEER 데이터를 활용하여 2000년부터 2022년까지 8대 주요 위장관암의 발생률 추세를 분석하고 2032년까지의 전망을 예측했습니다. 분석 결과 췌장암을 비롯한 주요 암종별로 발생률 추세가 뚜렷한 차이를 보였습니다. 췌장암은 대부분의 하위 그룹에서 지속적인 증가세를 보였습니다. 연구진은 췌장암과 조기 발병 대장암의 증가에 대응하여 고위험군을 위한 맞춤형 예방과 조기 발견 전략이 시급하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Incidence Trends and Projections of Major Gastrointestinal Cancers in the United States: A SEER-Based Analysis from 2000 to 2022",
+ "title_ko": "미국 내 주요 위장관암의 발생률 추세 및 전망: 2000년부터 2022년까지의 SEER 데이터 분석",
+ "trial": null,
+ "type": "paper"
+}

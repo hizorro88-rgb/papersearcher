@@ -22,7 +22,7 @@
   "투여 후 시간에 따른 반복 PET-CT 촬영을 진행하여 안전성과 영상의 변동성을 평가합니다.",
   "단축 1cm 이상의 고형암 병변이 있고 최근 1개월 내 항암 치료를 받지 않은 환자가 참여 대상입니다."
  ],
- "last_updated": "2026-10-09",
+ "last_updated": "2026-10-10",
  "links": {
   "doi": null,
   "nct": [
@@ -76,23 +76,15 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [
-    "임신 중이거나 수유 중인 여성",
-    "18F-FAZA 성분에 알레르기 또는 금기증이 있는 환자",
-    "PET/CT 기기 이용이 불가능한 고체중 또는 고BMI 환자"
-   ],
+   "key_exclusions_ko": [],
    "max_prior_lines": 0,
-   "measurable_required": true,
+   "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "단축 1cm 이상의 병변이 있고 최근 1개월 동안 치료를 받지 않은 고형암(췌장암 등) 환자",
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [
-    "metastatic",
-    "locally_advanced",
-    "resectable"
-   ],
-   "source": "llm"
+   "setting": [],
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

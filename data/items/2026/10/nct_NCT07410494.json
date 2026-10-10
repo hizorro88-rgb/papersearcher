@@ -20,9 +20,9 @@
  "id": "nct:NCT07410494",
  "importance": 0.8,
  "key_points_ko": [
-  "임상시험 단계는 제1/2상(Phase 1/2)이며, 목표 인원은 85명입니다.",
-  "조직 생검 또는 액체 생검의 바이오마커 프로파일링을 통해 단일 표적 또는 이중 표적 CAR-NK 세포를 맞춤 배정합니다.",
-  "TROP2, Mesothelin(MSLN), B7-H3, HER2, EGFR, GD2, Claudin18.2, GPC3, PSMA 등의 표적 메뉴가 포함됩니다."
+  "목표 환자 수는 최대 85명이며, 단일 또는 이중 표적 CAR-NK 세포 치료를 평가합니다.",
+  "조직 생검 또는 액체 생검을 통해 TROP2, Mesothelin(MSLN), B7-H3, HER2, EGFR, GD2, Claudin18.2, GPC3, PSMA 등의 표적 항원을 확인합니다.",
+  "림프구 고갈(lymphodepleting) 화학요법 후 CAR-NK 세포를 주입합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07410494"
  },
- "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 동종 공여자 유래 CAR-NK 세포 치료의 안전성과 항종양 활성을 평가하는 제1/2상 연구입니다. 조직 생검(tissue biopsy) 또는 액체 생검(liquid biopsy)을 통해 종양 항원을 분석한 뒤 단일 표적 또는 이중 표적 CAR-NK 제품을 투여합니다. 환자들은 림프구 고갈 화학요법 후 CAR-NK 세포를 주입받게 되며 안전성과 반응률을 평가합니다. 총 목표 인원은 85명이며, 현재 환자를 모집 중입니다.",
+ "summary_ko": "이 임상 1/2상 시험은 진행성 고형암 환자를 대상으로 동종 공여자 유래 CAR-NK 세포 치료의 안전성과 예비 항종양 효과를 평가합니다. 조직 생검(biopsy)이나 액체 생검(liquid biopsy)을 통한 종양 프로파일링으로 표적 항원을 선정합니다. 환자는 항원 프로파일에 따라 단일 표적 또는 이중 표적 CAR-NK 치료를 받습니다.",
  "summary_source": "llm",
  "tags": [
   "CAR-NK",
@@ -62,7 +62,7 @@
   "Pancreatic ductal adenocarcinoma (PDAC)"
  ],
  "title": "Biomarker-Guided Allogeneic Single-Target or Dual-Target CAR-NK Cell Therapy for Advanced Solid Tumors",
- "title_ko": "진행성 고형암 환자를 위한 바이오마커 기반 동종 단일 표적 또는 이중 표적 CAR-NK 세포 치료 임상시험",
+ "title_ko": "진행성 고형암 환자를 위한 바이오마커 기반 동종 단일 표적 또는 이중 표적 CAR-NK 세포 치료",
  "trial": {
   "conditions": [
    "Cancer",
@@ -86,7 +86,7 @@
     "phone": "+12077706670"
    }
   ],
-  "eligibility_ko": "선정 기준:- 18세에서 75세 사이의 연령- 표준 치료 후 재발/불치이거나 가용한 표준 치료가 없는 조직학적 또는 세포학적으로 확진된 진행성/절제 불가능한 또는 전이성 고형암- 프로토콜 표적 메뉴 중 조직 생검 및/또는 액체 생검 플랫폼을 통한 표적 항원 양성 확인- ECOG 수행 능력 상태 0-1 (또는 0-2)- RECIST 1.1에 따른 측정 가능한 병변이 최소 1개 이상- 프로토콜에서 정한 기준 내의 적절한 장기 기능- 혈액 채취 및 필수 생검에 동의제외 기준:- 정해진 휴지기(washout period) 내에 유전자 수정 세포 치료(예: CAR-T, CAR-NK)를 받은 이력이 있는 경우- 정맥 항생제가 필요한 활동성 및 조절되지 않는 감염, 조절되지 않는 HIV, 바이러스 부하가 검출되는 활동성 B형/C형 간염- 증량 스테로이드나 응급 처치가 필요한 활동성 중추신경계(CNS) 전이- 전신 면역억제 또는 프로토콜 기준을 초과하는 만성 전신 스테로이드가 필요한 활동성 자가면역 질환- 임상적으로 유의미한 심혈관계 질환, 조절되지 않는 폐 질환 또는 위험을 증가시키는 기타 심각한 동반 질환- 림프구 고갈 요법에 너무 인접한 시기의 대수술 또는 항암 치료- 임신부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n* 연령 18-75세.\n* 표준 치료 후 재발/불응성이거나 표준 치료가 없는 조직학적 또는 세포학적으로 확진된 진행성/절제불능 또는 전이성 고형암.\n* 프로토콜 표적 목록 중 타깃 항원 양성.\n* ECOG 수행능력 상태 0-1 (또는 0-2).\n* RECIST 1.1 기준 최소 1개의 측정 가능한 병변.\n* 적절한 장기 기능.\n\n제외 기준:\n* 정해진 휴약 기간 내 유전자 조작 세포 치료(예: CAR-T, CAR-NK) 이력.\n* 정맥 항생제가 필요한 활동성, 조절되지 않는 감염; 조절되지 않는 HIV; 바이러스 양이 검출되는 활동성 B형/C형 간염.\n* 스테로이드 증량이 필요하거나 응급 처치가 필요한 활동성 중추신경계(CNS) 전이.\n* 전신 면역억제 또는 만성 전신 스테로이드가 필요한 활동성 자가면역 질환.\n* 임신 또는 수유 중.",
   "eligibility_text": "Inclusion Criteria:\n\n* Age 18-75 years.\n* Histologically or cytologically confirmed advanced/unresectable or metastatic solid tumor that is relapsed/refractory after standard therapy, or no standard therapy available.\n* Targetable antigen positivity from the protocol target menu based on:\n\ntissue biopsy and/or liquid biopsy platform (as defined in the lab manual).\n\n* Arm assignment rules :\n* Arm A: ≥1 antigen meets \"positive\" threshold\n* Arm B: ≥2 antigens meet \"positive\" threshold\n* ECOG performance status 0-1 (or 0-2 ).\n* At least one measurable lesion by RECIST 1.1.\n* Adequate organ function (hematologic, renal, hepatic, cardiac) within protocol-defined limits.\n* Willingness to undergo blood draws and required biopsies (when medically feasible).\n* Negative pregnancy test for participants of childbearing potential; agreement to effective contraception during and after study treatment.\n\nExclusion Criteria:\n\n* Prior treatment with gene-modified cellular therapy (e.g., CAR-T, CAR-NK) within a defined washout period .\n* Active, uncontrolled infection requiring IV antibiotics; known uncontrolled HIV; active HBV/HCV with detectable viral load (per local policy).\n* Active CNS metastases requiring escalating steroids or urgent intervention (stable treated CNS disease may be allowed ).\n* Active autoimmune disease requiring systemic immunosuppression, or chronic systemic steroids above protocol threshold.\n* Clinically significant cardiovascular disease (e.g., recent MI, unstable arrhythmia), uncontrolled pulmonary disease, or other serious comorbidity that increases risk.\n* Major surgery or anticancer therapy too close to lymphodepletion (protocol-defined washout).\n* Pregnant or breastfeeding.",
   "enrollment": 85,
   "has_results": false,
@@ -102,19 +102,24 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "활동성 중추신경계(CNS) 전이",
+    "조절되지 않는 감염 또는 활동성 간염",
+    "자가면역 질환",
+    "임신 또는 수유 중"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "표준 치료 후 진행된 TROP2, Mesothelin, Claudin18.2 등 특정 항원 양성인 진행성 고형암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "85 Years",
   "min_age": "8 Years",

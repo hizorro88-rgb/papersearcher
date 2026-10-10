@@ -22,9 +22,9 @@
  "id": "nct:NCT06359275",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 81명이며, 국소 진행성 췌장암 환자 46명과 수술 후 국소 재발 환자 35명이 참여합니다.",
-  "평가 변수로는 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 수술 전환율, 삶의 질이 포함됩니다.",
-  "중재 치료는 PD-1 항체(toripalimab), nab-paclitaxel, gemcitabine, PULSAR 방사선치료의 병용입니다."
+  "총 81명의 환자(국소 진행성 췌장암 46명, 수술 후 국소 재발 췌장암 35명)를 대상으로 합니다.",
+  "Toripalimab(PD-1 항체)과 젬시타빈, 알부민 결합 파클리탁셀, PULSAR 방사선 치료를 병용합니다.",
+  "주요 평가 지표는 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 수술 전환율 등입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06359275"
  },
- "summary_ko": "이 임상시험은 수술이 불가능한 국소 진행성 췌장암 환자와 수술 후 국소 재발한 환자를 대상으로 PD-1 항체인 toripalimab에 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel, 알부민 결합 팟클리탁셀), 그리고 PULSAR 방사선치료를 병용하는 치료법의 안전성과 유효성을 평가하는 2상 연구입니다. 총 81명의 환자(국소 진행성 46명, 국소 재발성 35명)를 대상으로 단일 기관에서 진행되며 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 수술 전환율, 삶의 질을 관찰합니다. 연구의 예상 등록 기간은 18개월이며 각 환자는 최소 18개월 동안 추적 관찰을 받습니다.",
+ "summary_ko": "이 임상시험은 수술이 불가능한 국소 진행성 췌장암 환자와 수술 후 국소 재발한 췌장암 환자를 대상으로 Toripalimab(PD-1 항체), 알부민 결합 파클리탁셀(paclitaxel), 젬시타빈(gemcitabine), 그리고 PULSAR 방사선 치료를 병용하는 치료법의 안전성과 유효성을 평가하는 2상 연구입니다. 총 81명의 환자(국소 진행성 46명, 국소 재발 35명)를 목표로 단일 기관에서 진행됩니다. 주요 관찰 항목은 무진행 생존기간(PFS), 객관적 반응률(ORR), 전체 생존기간(OS), 수술 전환율, 삶의 질 및 안전성입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "PD-1 Combined With Chemotherapy and PULSAR in LAPC and Local Recurrence Patients",
- "title_ko": "국소 진행성 또는 재발성 췌장암 환자에서 Toripalimab, 항암화학요법 및 PULSAR 방사선치료를 병용하는 2상 임상시험",
+ "title_ko": "국소 진행성 및 국소 재발 췌장암 환자에서 PD-1 항체, 화학요법, PULSAR 방사선 치료 병용 요법의 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -65,7 +65,7 @@
     "phone": "+86-021-64179375"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 연구의 목적, 내용, 예상 효능 및 위험을 이해하고 서면 동의서를 작성한 환자\n- 조직병리학적 또는 세포학적으로 확진된 국소 진행성 췌장암, 또는 수술 후 원격 전이 없이 국소 재발만 확인된 환자\n- RECIST 1.1 기준에 따라 최소 1개의 측정 가능한 병변이 있는 환자\n- ECOG 수행 능력 점수 0~1점인 환자\n- 예상 생존 기간이 3개월 이상인 환자\n- 18세에서 75세 사이의 남녀\n\n제외 기준:\n- 과거에 anti-PD-1 또는 anti-PD-L1 항체 치료를 받은 적이 있는 환자\n- 첫 연구 약물 투여 전 4주 이내에 임상시험용 의약품을 투여받은 환자\n- 과거에 상복부 방사선 치료를 받은 적이 있는 환자\n- 조절되지 않는 심각한 질병, 활동성 자가면역질환, 활동성 결핵 등이 있는 환자\n- 국소 진행성 췌장암에 대해 이전에 전신 치료를 받은 적이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 75세 이하의 남녀.\n- 조직학적 또는 세포학적으로 확진된 국소 진행성 췌장선암, 또는 수술 후 원격 전이 없이 국소 재발만 있고 수술 후 보조치료 완료 후 6개월 이상 경과한 환자.\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재.\n- ECOG 수행능력 점수 0~1점.\n- 예상 생존기간 3개월 이상.\n\n제외 기준:\n- 과거에 anti-PD-1 또는 anti-PD-L1 항체 치료를 받은 적이 있는 환자.\n- 과거 상복부 방사선 치료를 받은 적이 있는 환자.\n- 국소 진행성 췌장암에 대해 이전에 전신 치료를 받은 적이 있는 환자.\n- 조절되지 않는 심각한 의학적 질환, 활동성 자가면역 질환, 활동성 결핵 등이 있는 환자.\n- CTCAE v5.0 기준 2등급 이상의 말초 신경병증이 있는 환자.",
   "eligibility_text": "Inclusion Criteria\n\n1. Sign the informed consent form. The subject has received a full explanation and understanding of the purpose, content, predicted efficacy, pharmacological effects, and risks of this trial, and the subject has signed an informed consent form;\n2. Target group\n\n   1. Locally advanced pancreatic adenocarcinoma confirmed by histopathology or cytology, or pancreatic cancer with only local recurrence but no distant metastasis after surgery (local recurrence includes tumor bed recurrence and regional lymph node metastasis, which needs to be confirmed by biopsy pathology or PET -CT shows high metabolic activity, more than 6 months after the completion of postoperative adjuvant treatment);\n   2. There is at least one measurable objective lesion according to RECIST1.1 standards;\n   3. ECOG score 0-1 points;\n   4. Expected survival time ≥ 3 months;\n   5. Willing to comply with research procedures and able to undergo treatment (including surgery) and follow-up;\n   6. There are no contraindications for the use of PD-1, PD-L1, gemcitabine and paclitaxel for injection (albumin-bound);\n   7. There are no contraindications to radiotherapy;\n3. Abnormal physical examination and laboratory test results\n\n   1. Hematological dysfunction is defined as i) absolute neutrophil (ANC) count ≥1.5×109/L; ii) platelet (PLT) count: ≥80×109/L; iii) hemoglobin (Hb) level ≥ 90g/L.\n   2. Abnormal liver function is defined as: i) Total bilirubin (TBil) level: ≤ 1.5 times the upper limit of normal (ULN); ii) Aspartate aminotransferase (AST) and alanine; aminotransferase (ALT) levels ≤ 2.5 times the ULN, if liver metastasis is present, ≤5 times ULN;\n   3. Abnormal renal function definition: serum creatinine ≤ 1.5 times ULN, or calculated creatinine clearance ≥ 50ml/min;\n   4. Definition of abnormal coagulation function: international normalized ratio (INR) ≤ 1.5 times ULN, and prothrombin time (PT) or activated partial thromboplastin time (APTT) ≤ 1.5 times ULN, unless the subject is receiving anti- Coagulation treatment.\n4. Subjects who are positive for hepatitis B surface antigen (HBsAg) and whose peripheral blood hepatitis B virus deoxyribonucleic acid (HBV-DNA) titer is ≤1×103 copy number/L; if they are HBsAg-positive and whose peripheral blood HBV-DNA titer is detected ≥1×103 copy number/L, if the researcher believes that the subject's chronic hepatitis B is in a stable phase and will not increase the subject's risk, the subject is eligible for inclusion;\n5. Age and reproductive status\n\n   1. Men and women aged 18-75;\n   2. Subjects of childbearing age must agree to take adequate contraceptive measures during the trial; the serum or urine pregnancy test of women of childbearing age must be negative 24 hours before the start of chemotherapy;\n   3. Women must be non-lactating.\n\nExclusion criteria\n\n1. Have received anti-PD-1 or anti-PD-L1 antibody treatment in the past;\n2. Have received any investigational drugs within 4 weeks before using the investigational drugs for the first time;\n3. Enroll in another clinical study at the same time, unless it is an observational (non-interventional) clinical study or an interventional clinical study follow-up;\n4. Have received radiotherapy for the upper abdomen in the past;\n5. Medical history and concurrent diseases\n\n   1. Uncontrolled serious medical diseases that the researcher believes will affect the subject's ability to receive the treatment of the research plan, such as combined with serious medical diseases, including severe heart disease, cerebrovascular disease, uncontrolled diabetes, and uncontrolled hypertension, uncontrolled infection, active peptic ulcer, etc;\n   2. Have active, known, or suspected autoimmune disease (including but not limited to uveitis, enteritis, hepatitis, hypophysitis, nephritis, vasculitis, hyperthyroidism, hypothyroidism, and need for bronchodilators treatment of asthma, etc.). Subjects with hypothyroidism requiring only hormone replacement therapy and skin diseases not requiring systemic treatment (such as vitiligo, psoriasis, or alopecia) were eligible;\n   3. Have active tuberculosis infection. Patients with active pulmonary tuberculosis infection within 1 year before the medication will be excluded, even if they have been treated; patients with a history of active pulmonary tuberculosis infection more than one year ago will also be excluded unless it is proven that they have previously received standard anti-tuberculosis treatment;\n   4. Previous interstitial lung disease or (non-infectious) pneumonia requiring oral or intravenous steroid therapy;\n   5. Long-term systemic corticosteroids (dose equivalent to \\>10 mg prednisone/day) or any other form of immunosuppressive treatment are required. Subjects using inhaled or topical corticosteroids were eligible;\n   6. Heart disease that is not well controlled, such as:\n\n      1. New York Heart Association (NYHA) grade 2 or above heart failure\n      2. Unstable angina pectoris\n      3. Myocardial infarction occurred within 1 year\n      4. Supraventricular or ventricular arrhythmias that are clinically significant and require treatment or intervention;\n   7. Dementia, altered mental status, or any mental illness that would prevent understanding or giving informed consent or completing questionnaires;\n   8. History of allergy or hypersensitivity reaction to any component of the treatment;\n   9. Malignant tumors within 5 years, except for fully treated basal cell or squamous cell carcinoma of the skin, localized prostate cancer after radical surgery, and breast ductal carcinoma in situ after radical surgery;\n   10. Previous systemic treatment for locally advanced pancreatic cancer;\n   11. Subjects who have been pathologically diagnosed with squamous cell carcinoma (not limited to organs) and received taxane-containing regimens as neoadjuvant/adjuvant treatment;\n   12. Subjects with ≥ grade 2 peripheral neuropathy according to CTCAE version 5.0.\n6. Hepatitis C virus (HCV) antibody positive or human immunodeficiency virus (HIV) antibody positive;\n7. Active infection requiring systemic treatment;\n8. Need to be combined with other anti-tumor drug treatments;\n9. Have received any experimental drug treatment or participated in another interventional clinical trial within 30 days of the screening period;\n10. The researcher believes that other circumstances are not suitable for inclusion.",
   "enrollment": 81,
   "has_results": false,
@@ -84,17 +84,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "과거 면역항암제(PD-1/PD-L1) 치료 이력",
+    "과거 상복부 방사선 치료 이력",
+    "조절되지 않는 심각한 심장, 간, 신장 등 주요 질환",
+    "활동성 자가면역 질환"
+   ],
    "max_prior_lines": 0,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 치료력이 없는 국소 진행성 또는 수술 후 국소 재발 췌장암 환자",
+   "prior_excluded": [
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

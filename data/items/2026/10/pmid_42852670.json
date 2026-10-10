@@ -1,0 +1,64 @@
+{
+ "abstract": "Intravital imaging of cancer xenograft models enables the observation of cells in their tissue microenvironment. Application of molecular activity probes to intravital imaging, however, often poses technical difficulties. Here we sought to visualize Extracellular signal-regulated kinase (ERK) activity in an orthotopic xenograft model of pancreatic cancer. Our custom-made pancreatic imaging window (PIW) enabled long-term tracking (> 2 weeks) of cancer xenografts showing heterogeneous growth potential. Our validation approach of Förster resonance energy transfer (FRET) imaging by a kinase-dead mutant ERK biosensor suggested the local pH may affect the ratiometric interpretation of FRET efficiency. Nevertheless, our FRET analysis allowed to detect pharmacological inhibition of ERK activity, which supports the validity of the experimental model to dissect heterogeneous drug responses of cancer cells in their microenvironment. Of note, we found that collagen signal was negatively correlated with local ERK activity heterogeneity, highlighting the benefit of our imaging system to observe the intricate pharmacodynamics modified by fibrosis. Our intravital live imaging platform paves the way for a novel pre-clinical model that links the molecular dynamics to the living tissue environment of pancreatic cancer.",
+ "authors": [
+  "Al-Koussa H",
+  "Taniguchi D",
+  "Kuroda M",
+  "Inomata Y",
+  "Huaze Y",
+  "Machinaga A",
+  "Kakiuchi N",
+  "Ogawa S"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42852670",
+ "importance": 0.6,
+ "key_points_ko": [
+  "맞춤형 췌장 이미징 윈도우(PIW)를 통해 췌장암 이식편을 2주 이상 장기 추적했습니다.",
+  "포스터 공명 에너지 전달(FRET) 분석을 통해 약물에 의한 ERK 활성 억제를 확인했습니다.",
+  "콜라겐 신호는 국소 ERK 활성 이질성과 음의 상관관계를 보였습니다.",
+  "초록에 명시된 환자 수, 생존기간, 반응률은 없습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1242/jcs.265075",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42852670"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Cell Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42852670/"
+ },
+ "summary_ko": "본 연구는 췌장암(pancreatic ductal adenocarcinoma) 환자유래 동소이식편(orthotopic xenograft) 모델에서 세포외 신호조절 킬나제(ERK) 활성을 시각화하기 위해 생체 내 실시간 영상(intravital imaging) 기술을 적용했습니다. 맞춤형 췌장 이미징 윈도우(PIW)를 사용하여 암 이식편을 2주 이상 장기 추적 관찰했습니다. 포스터 공명 에너지 전달(FRET) 분석을 통해 약물에 의한 ERK 활성 억제를 감지할 수 있음을 확인했습니다. 또한 콜라겐 신호가 국소 ERK 활성 이질성과 음의 상관관계를 보여 섬유화에 따른 약력학 변화를 관찰할 수 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "FRET imaging of ERK activity in an orthotopic xenograft model of patient-derived pancreatic ductal adenocarcinoma using imaging window",
+ "title_ko": "생체 내 췌장암 환자유래 이식편 모델에서 이미징 윈도우를 이용한 ERK 활성의 FRET 이미징",
+ "trial": null,
+ "type": "paper"
+}

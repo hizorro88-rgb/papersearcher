@@ -22,10 +22,9 @@
  "id": "nct:NCT07049055",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 인원은 총 144명이며, ARM A(시험군) 92명과 ARM B(대조군) 46명으로 2:1 무작위 배정됩니다.",
-  "시험군은 E-EDV-D682/GC와 gemcitabine(젬시타빈), nab-paclitaxel(냅-파클리탁셀)을 병용 투여받습니다.",
-  "대조군은 gemcitabine, nab-paclitaxel과 위약을 투여받습니다.",
-  "1차 치료로 FOLFIRINOX 또는 NALIRIFOX 치료 후 질병이 진행된 전이성 췌장관선암(PDAC) 환자를 대상으로 합니다."
+  "대상 환자군은 FOLFIRINOX 또는 NALIRIFOX 치료 후 진행된 전이성 췌관선암(PDAC) 환자 144명입니다.",
+  "시험군은 E-EDV-D682/GC를 젬시타빈 및 냅-파클리탁셀과 함께 투여받습니다.",
+  "2상 확장 단계에서 환자들은 시험군(92명)과 대조군(46명)에 2:1로 무작위 배정됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07049055"
  },
- "summary_ko": "이 연구는 1차 치료(5-FU 기반 병용요법) 후 진행된 전이성 췌장소관암(PDAC) 환자를 대상으로 합니다. 실험 치료인 E-EDV-D682/GC는 표피성장인자수용체(EGFR)를 표적으로 하는 EDV 나노셀에 항암제를 담아 종양 세포에 직접 전달하고 면역계를 활성화하는 방식입니다. 연구는 1상 안전성 평가 코호트와 2상 무작위 배정(ARM A: 시험군 92명, ARM B: 대조군 46명) 확장 코호트로 진행됩니다. 총 목표 인원은 144명이며, 전체 생존기간(OS)과 안전성 및 내인성을 평가합니다.",
+ "summary_ko": "이 연구는 1차 치료(FOLFIRINOX 또는 NALIRIFOX) 후 진행된 전이성 췌관선암(PDAC) 환자를 대상으로 E-EDV-D682/GC와 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel) 병용 투여의 안전성, 내인성, 전체생존기간(OS)을 평가합니다. 표적형 나노세포인 E-EDV-D682와 면역 조절 나노세포인 EDV-GC를 기존 항암화학요법과 함께 투여하여 안전성과 유효성을 검증합니다. 2상 무작위 배정 확장 단계에서는 환자들을 2:1로 나누어 시험군(E-EDV-D682/GC 병용)과 대조군(위약 병용)의 효과를 비교합니다. 목표 인원은 144명이며, 연구는 1상/2a상 무작위 맹검 방식으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "PDAC",
@@ -64,14 +63,14 @@
   "Disease Progression"
  ],
  "title": "A Clinical Trial to Evaluate EDV Nanocell Therapy With Gemcitabine and Nab-paclitaxel in Pancreatic Cancer",
- "title_ko": "전이성 췌장암 환자를 위한 EDV 나노셀 치료제(E-EDV-D682/GC)와 젬시타빈 및 냅-파클리탁셀 병용 투여 임상시험",
+ "title_ko": "전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer, Metastatic",
    "PDAC - Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 전이성 췌장 선암(pancreas adenocarcinoma)의 조직학적 또는 병리학적 확진\n- 18세 이상의 남성 또는 여성\n- ECOG 수행 능력 점수 0-1\n- 연구자의 판단에 따른 기대 여명 3개월 이상\n- iRECIST 기준에 따른 측정 가능한 병변 존재\n- 종양이 EGFR을 발현할 것\n- FOLFIRINOX 또는 NALIRIFOX 1차 치료 중 또는 치료 종료 후 3개월(+/- 15일) 이내에 문서화된 질병 진행 확인\n- 전이성 PDAC에 대해 선행 전신 치료 라인이 1회 이하일 것\n- 알부민 수치 > 3.0 g/dl\n- 적절한 조혈, 신장, 간, 심장 기능 보유\n\n제외 기준:\n- 현재 다른 임상시험용 약물을 투여받고 있는 경우\n- 최대 지지요법으로 조절되지 않는 이전 항암 치료로 인한 미해결(≥ 1단계) 비혈액학적 이상 반응\n- 배액이 필요한 유의미한 심낭 삼출, 흉수, 복수가 있는 경우\n- 렙토수막 또는 뇌/중추신경계 전이 병력\n- 다른 악성 종양에 대한 진행 중인 치료\n- 전립선암 외에 스크리닝 전 2년 이내에 PDAC 외의 악성 종양 병력이 있는 경우\n- 조절되지 않는 당뇨병 또는 코르티코스테로이드 사용 금기증\n- 조절되지 않는 관상동맥 질환, 울혈성 심부전, 고혈압, 심부 부정맥 병력\n- 조절되지 않는 HIV, B형 간염, C형 간염 바이러스 감염\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 전이성 췌장 선암(pancreas adenocarcinoma)의 조직학적 또는 병리학적 확인\n- 18세 이상의 남성 또는 여성\n- Eastern Cooperative Oncology Group (ECOG) 수행능력 점수 0-1\n- 연구자의 견해에 따른 기대 여명 3개월 이상\n- iRECIST 기준에 따른 측정 가능 병변 존재\n- 표피성장인자수용체(EGFR)를 발현하는 종양 보유\n- 1차 FOLFIRINOX 또는 NALIRIFOX 치료 중 또는 치료 종료 후 3개월 이내에 문서화된 질병 진행\n- 전이성 PDAC에 대해 1차를 초과하지 않는 이전 전신 치료력\n- 알부민 수치 > 3.0 g/dl\n- 적절한 조혈, 신장, 간, 심장 기능 (기저 LVEF ≥ 50%)\n\n제외 기준:\n- 현재 다른 임상시험용 의약품을 투여받고 있는 자\n- 최대 지지요법으로 조절되지 않는 이전 항암 치료의 미해결 비혈액학적 이상반응(≥ 1등급)\n- 중재가 필요한 상당한 심낭 삼출, 흉수 또는 복수\n- 연수막 또는 뇌/중추신경계 전이 병력\n- 다른 악성 종양에 대한 진행 중인 치료\n- 조절되지 않는 당뇨병, 관상동맥질환, 고혈압, 심장 부정맥\n- 조절되지 않는 HIV, B형 간염, C형 간염 감염\n- 활성 또는 조절되지 않는 중증 감염\n- 임신 중이거나 모유 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Histological or pathological confirmation of metastatic pancreas adenocarcinoma. Cytological or histological evidence of metastatic disease is required.\n* Male or Female greater than or equal to 18 years of age.\n* Eastern Cooperative Oncology Group (ECOG) performance score of 0-1.\n* Life expectancy ≥ 3 months in the opinion of the Investigator.\n* Measurable disease as per iRECIST criteria.\n* Subjects must have tumors that express EGFR.\n* Documented disease progression with first line FOLFIRINOX or NALIRIFOX therapy, during or within 3 months (+/- 15 days) after end of therapy.\n* No more than one line of prior systemic therapy for metastatic PDAC allowed.\n* Albumin level \\> 3.0 g/dl\n* Adequate hematological function.\n* Adequate renal function.\n* Adequate hepatic function.\n* Adequate cardiac function with LVEF ≥ 50% at baseline.\n* Reproductive criteria as follows:\n* Female subjects who are of non-reproductive potential\n* Female subjects of childbearing potential must have a negative serum pregnancy test within 14 days of the first dose.\n* Female subjects must be willing to use highly effective methods of birth control during the period of therapy and for 6 months following the last study drug administration.\n* Male subjects must be willing to use highly effective methods of birth control during the period of therapy and for 6 months following the last study drug administration.\n* All study subjects must be willing to ensure that corresponding sexual partners practice these same methods of highly effective birth control for the same duration.\n* The subject (or subject's legally authorized representative) has provided voluntary signed informed consent.\n* According to the investigator's assessment, subject will be able to comply with the study protocol.\n\nExclusion Criteria:\n\n* Subjects currently receiving any other investigational agent.\n* Unresolved (≥ Grade 1) non-hematological adverse events from prior anti-cancer therapy that is not controlled on maximal supportive therapy.\n* Significant pericardial effusions, pleural effusions, or ascites that requires intervention. Subjects who require drainage within the last four weeks are ineligible.\n* History of leptomeningeal or brain/CNS metastases.\n* Ongoing treatment for other malignancies (hormone therapy acceptable).\n* Patient may not have a history of malignancy other than PDAC within two years prior to screening except in circumstances where the risk of recurrence, metastasis or death in 5-years is \\<10%.\n* Concurrent unstable diabetes mellitus or other contraindications for the use of corticosteroids that requires active titration of insulin.\n* Subject has experienced a history of uncontrolled coronary artery disease, with or without angina pectoris or myocardial infarction, symptomatic congestive heart failure (New York Heart Association \\> Class II)\n* Uncontrolled hypertension (systolic \\> 180 mmHg or diastolic \\> 100 mmHg) within two weeks.\n* Uncontrolled cardiac arrhythmias requiring anti-arrhythmic therapy within the last four weeks.\n* Baseline QTcF ≥ 450 ms (males) or ≥ 470 ms (females).\n* Uncontrolled HIV infection. Patients without a prior diagnosis of HIV infection will undergo HIV testing unless not permitted to do so under local regulations. Patients with known HIV who have controlled infection (viral load undetectable and a CD4 count \\>350 either spontaneously or on a stable antiviral regimen) are permitted.\n* Uncontrolled Hepatitis B virus (HBV) infection (chronic or acute).\n* Uncontrolled Hepatitis C virus (HCV) infection.\n* Uncontrolled arterial or venous thrombosis.\n* Active or uncontrolled severe infection.\n* Uncontrolled hypercalcemia (\\>2.6mmol/L or \\>10.3mg/dL) or symptomatic hypercalcemia requiring continued treatment for hypercalcemia.\n* Received the following procedures within 21 days to receiving their first dose (or has not recovered from the toxic effects of such therapy) including:\n* other investigational therapy\n* radiotherapy\n* any major surgery.\n* Prior other therapies or procedures prior to receiving their first dose:\n* QTc interval prolonging medicines should be reviewed and where possible their use should be minimized and alternate medicines that are not QTc interval prolonging, considered as substitutes.\n* Known allergy/hypersensitivity to investigational components or excipients (trehalose, monoclonal antibody infusions, interferon therapy, or ciprofloxacin HCl (or other quinolones).\n* Female who is pregnant or breastfeeding.\n* Subject who cannot comply with protocol scheduled study visits or procedures, to the best of the subject and Investigator's knowledge.\n* Any kind of disorder that, in the opinion of the Investigator, may compromise the ability of the subject to give written informed consent and/or to comply with all required study procedures.\n* History or evidence of any other clinically significant disorder, condition, or disease (except for those outlined above) that, in the opinion of the Investigator would pose a risk to subject safety or interfere with the study evaluation, procedures or completion.",
   "enrollment": 144,
   "has_results": false,
@@ -90,17 +89,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": 0,
+   "key_exclusions_ko": [
+    "뇌전이 또는 중추신경계 전이 병력",
+    "조절되지 않는 심장 질환 또는 고혈압",
+    "활동성 B형/C형 간염 또는 HIV 감염",
+    "다른 악성 종양 병력"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 1,
+   "notes_ko": "1차 FOLFIRINOX 또는 NALIRIFOX 치료 후 진행된 EGFR 양성 전이성 췌장암 환자",
    "prior_excluded": [],
-   "prior_required": [],
+   "prior_required": [
+    "FOLFIRINOX",
+    "platinum",
+    "irinotecan"
+   ],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -21,10 +21,9 @@
  "id": "nct:NCT06770452",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 전이성 췌장암(Metastatic Pancreatic Carcinoma) 또는 국소 진행성 췌장암이며 KRAS G12D 변이를 동반합니다.",
-  "목표 환자 수는 총 32명(1단계 최소 15명)입니다.",
-  "중재 치료로 HRS-4642, nimotuzumab, gemcitabine + nab-paclitaxel이 사용됩니다.",
-  "연령 기준은 18세부터 75세까지입니다."
+  "대상 환자 수: 총 32명의 KRAS G12D 변이 진행성 췌장암 환자",
+  "평가 항목: HRS-4642, nimotuzumab, gemcitabine + nab-paclitaxel 병용요법의 유효성 및 안전성 평가",
+  "연구 디자인: 사이먼 2단계(Simon two-stage) 디자인 적용"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06770452"
  },
- "summary_ko": "이 연구는 KRAS G12D 변이가 있는 진행성 췌장암 환자 32명을 대상으로 HRS-4642와 nimotuzumab, 그리고 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel, AG) 병용 치료의 효과를 평가하는 단일군 2상 임상시험입니다. 연구는 사이먼 2단계 디자인(Simon two-stage design)으로 진행되며, 안전성과 관해 반응을 평가합니다. 환자들은 스크리닝, 치료 및 추적 관찰 기간을 거치게 됩니다.",
+ "summary_ko": "이 연구는 KRAS G12D 변이가 있는 진행성 췌장암 환자 32명을 대상으로 HRS-4642, nimotuzumab 및 AG(gemcitabine + nab-paclitaxel) 병용요법의 1차 치료 효과를 평가하기 위한 단일군 2상 임상시험입니다. 연구는 사이먼 2단계(Simon two-stage) 디자인으로 진행되며, 안전성과 내성을 평가한 뒤 긍정적 결과가 나오면 대상자 수를 확대합니다. 스크리닝, 치료, 그리고 치료 종료 후 추적관찰 기간(안전성 및 생존 추적)으로 구성되어 있습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "HRS-4642 With Nimotuzumab and Chemotherapy for First-line Treatment of Advanced Pancreatic Cancer Patients",
- "title_ko": "진행성 췌장암 환자 1차 치료를 위한 HRS-4642, Nimotuzumab 및 항암화학요법 병용 2상 임상시험",
+ "title_ko": "진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Carcinoma"
@@ -70,7 +69,7 @@
     "phone": "86+15088682641"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 연령: 18세에서 75세\n- 암군 A는 전이성 췌장암, 암군 B는 국소 진행성 췌장암\n- 종양 조직에 KRAS G12D 변이 존재\n- 진행성 단계에서 전신 항종양 치료를 받은 적이 없음\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상\n- ECOG 수행능력 점수 0-1\n\n제외 기준:\n- 이전 KRAS G12D 표적 치료 또는 EGFR 표적 치료 이력\n- 중추신경계(CNS) 전이 존재\n- 임상적 중재가 필요한 급성 또는 만성 췌장염\n- 중증 심혈관 및 뇌혈관 질환\n- 활성 상태의 B형 간염, C형 간염, HIV 또는 매독 감염",
+  "eligibility_ko": "선정 기준:\n1. 연령 18세~75세.\n2. 암 유형: A군은 전이성 췌장암, B군은 국소 진행성 췌장암.\n3. 종양 조직에서 KRAS G12D 변이 확인.\n4. 진행성 단계에서 전신 항암 치료 이력이 없음 (단, 수술 전후 보조항암치료는 마지막 치료 후 6개월 이상 경과한 경우 허용).\n5. RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재.\n6. ECOG 수행능력 점수 0~1.\n\n제외 기준:\n1. 이전에 KRAS G12D 또는 EGFR 표적 치료를 받은 이력이 있는 경우.\n2. 중추신경계(CNS) 전이가 있는 경우.\n3. 임상적 중재가 필요한 급성 또는 만성 췌장염.\n4. 최근 4주 이내 주요 수술이나 외상, 또는 최근 2주 이내 완화적 국소 치료를 받은 경우.\n5. 활동성 B형 간염, C형 간염, HIV 감염 또는 매독 감염이 있는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1.Age: 18-75 (including 18 and 75); 2.Metastatic pancreatic cancer (from pancreatic ductal epithelium) for Arm A; Locally advanced pancreatic cancer (from pancreatic ductal epithelium) for Arm B; 3.Tumor tissue contains KRAS G12D mutation; 4.No systemic antitumor therapy in advanced stage; if previous neoadjuvant / adjuvant therapy, last treatment should be over 6 months; 5.At least one measurable lesion according to the RECIST v1.1 criteria; 6.The ECOG (Eastern Cooperative Oncology) score was 0-1; 7.Expected survival period of 3 months; 8.The functions of vital organs meets the following requirements (any blood components, cell growth factors are not allowed 2 weeks prior to enrollment):\n\n1. Neutrophil count≥1.5×10\\^9 / L;\n2. Platelet≥100×10\\^9 / L;\n3. Hemoglobin≥100 g / L;\n4. Serum albumin≥30 g / L;\n5. Total bilirubin≤1.5×ULN; ALT, AST≤3×ULN and ALP≤2.5×ULN; if the patient has liver metastasis, ALT, ALT and AST≤5×ULN; if the patient has liver or bone metastasis, ALP≤5×ULN;\n6. Creatinine clearance≥50 mL/min or serum creatinine ≤1.5×ULN;\n7. Urinary protein \\<2+; if urine protein≥2+, an additional 24 hours urine protein quantification should be tested, and if 24 hours urine protein quantification \\<1g can be enrolled;\n8. ECG: QTcF≤450 ms (male), QTcF≤470 ms (female);\n9. Cardiac color ultrasound: LVEF (left ventricular ejection fraction) ≥50%; 9.Women of childbearing age must have a blood pregnancy test within 7 days before enrollment, the result should be negative and must be non-lactating and should be willing to use appropriate contraception during the trial and within 6 months of treatment. For men, surgical sterilization or consent to use appropriate contraception during the study and within 6 months after completion of treatment.\n\n10.Volunteer to participate in the study and sign the informed consent form, good compliance, agreed to cooperate with the follow-up.\n\nExclusion Criteria:\n\n1.Previous treatment:\n\n1. Previous treatment of targeted therapy against KRAS G12D.\n2. Previous targeted therapy against EGFR.\n3. Received major surgery or major trauma within 4 weeks before enrollment, or palliative local treatment (including but not limited to palliative radiotherapy, interventional therapy) within 2 weeks prior to enrollment.\n4. Have received any other clinical study medication within 4 weeks before enrollment, except for an observational (non-interventional) clinical study or interventional clinical study follow-up.\n\n(5)14 days before enrollment with drugs that strongly inhibit or induce the hepatic drug-metabolizing enzymes CYP3A4 or CYP2C8.\n\n2.The presence of a central nervous system (CNS) metastases. 3.Acute or chronic pancreatitis requiring clinical intervention. 4.Symptoms and signs of gastrointestinal obstruction or obstruction within 6 months before initiation of study treatment but can be screened if surgery is performed and the obstruction is completely resolved.\n\n5.Within 2 weeks prior to enrollment, there is a third space effusion (such as a large amount of pleural fluid, ascites, etc.) that can not reach the stable state (no intervention treatment is needed after the removal of the drainage tube), and only a small amount of effusion on imaging and without clinical symptoms can be enrolled.\n\n6.Severe infection occurred within 4 weeks before enrollment, such as severe pneumonia, bacteremia, infectious complications, requiring hospitalization; fever of unknown cause\\> 38.5℃ within 2 weeks before enrollment (fever caused by the tumor according to the investigator); 2 weeks of enrollment (except in cases of prophylactic antibiotics).\n\n7.Severe cardiovascular and cerebrovascular disease. 8.Patients with known or suspected interstitial pneumonia except only interstitial changes on imaging.\n\n9.Prior history of clear neurological or psychiatric disorders, including epilepsy and dementia.\n\n10.Presence of non-healing wounds (severe, non-healing or split), uncured fractures.\n\n11.Adverse events due to prior treatment prior to enrollment did not return to NCI-CTCAE level 1 (except for alopecia and enrollment criteria; except AEs not affecting the study medication).\n\n12.Malignant tumors other than the primary tumor within the 5 years before enrollment, except those with low risk of metastasis and death: adequately treated cervical carcinoma in situ, skin basal cells or squamous cell carcinoma, etc.\n\n13.Combined with active hepatitis B (hepatitis B surface antigen positive and HBV DNA 500 IU / mL), hepatitis C (hepatitis C antibody positive, and HCV-RNA above the lower limit of detection of the analytical method). Those known to have acquired immunodeficiency syndrome or test positive for HIV, and those infected with active syphilis. Subjects with active tuberculosis or a history of active tuberculosis infection within 48 weeks before screening, with or without treatment.\n\n14.Known to be allergic to any component of HRS-4642; allergic to any component of nytuzumab or other monoclonal antibody / fusion proteins, albumin paclitaxel, gemcitabine.\n\n15.By the investigator, the patient had other factors that might affect the study results or lead to the forced termination of the study.",
   "enrollment": 133,
   "has_results": false,
@@ -90,18 +89,25 @@
     "KRAS_G12D"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "중추신경계(CNS) 전이",
+    "이전 KRAS G12D 또는 EGFR 표적 치료 이력",
+    "활동성 B형·C형 간염 또는 HIV 감염",
+    "최근 4주 이내 주요 수술 또는 외상"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 KRAS G12D 변이 전이성 또는 국소 진행성 췌장암 환자",
+   "prior_excluded": [
+    "KRAS_inhibitor"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

@@ -22,10 +22,9 @@
  "id": "nct:NCT07214298",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 35명이며, 진행 상태는 환자 모집 중(RECRUITING)입니다.",
-  "주요 평가목표는 mFOLFIRINOX와 pegcetacoplan 병용 요법의 안전성 및 임상적 유효성 확인입니다.",
-  "이차 평가목표로 주요 혈전증 발생률 및 합병증, 전체 생존기간(OS), 객관적 반응률(ORR) 등을 평가합니다.",
-  "치료는 최대 8사이클까지 14일 주기로 반복되며, pegcetacoplan은 정맥주사 및 피하주사로 투여됩니다."
+  "대상 질환: 새롭게 진단된 전이성 췌관선암(PDAC, Stage IV) 환자 35명",
+  "시험 치료: pegcetacoplan과 mFOLFIRINOX(oxaliplatin, irinotecan, leucovorin, fluorouracil) 병용 투여",
+  "평가 항목: 안전성, 예비 유효성(전체 반응률, 전체 생존기간, 질병 통제율), 주요 혈전증 발생률"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07214298"
  },
- "summary_ko": "이 임상시험은 전이성 췌장관암(metastatic pancreatic ductal adenocarcinoma, PDAC) 환자를 대상으로 pegcetacoplan과 mFOLFIRINOX 병용 치료의 안전성과 예비 유효성을 평가합니다. 면역 보체계(immune complement process)를 표적하는 pegcetacoplan과 항암화학요법인 mFOLFIRINOX를 함께 투여하여 치료 효과와 혈전 발생 예방 효과를 확인합니다. 목표 환자 수는 35명이며, Roswell Park Cancer Institute에서 진행 중인 1/2상 임상시험입니다.",
+ "summary_ko": "이 임상시험은 전이성 췌관선암(PDAC) 환자를 대상으로 pegcetacoplan과 mFOLFIRINOX(oxaliplatin, irinotecan, leucovorin, fluorouracil) 병용 요법의 안전성과 예비 유효성을 평가합니다. 펠세타코플란(pegcetacoplan)은 면역 보체 과정을 표적으로 하여 종양 진행을 억제하고 주요 혈전증 발생 위험을 줄이는 것을 목표로 합니다. 연구의 1상은 안전성 확인을, 2상은 전체 반응률(overall response rate), 전체 생존기간(overall survival), 질병 통제율(disease control rate) 등의 임상적 유효성을 평가합니다. 환자들은 최대 8주기 동안 14일 주기로 치료를 받으며 안전성과 부작용 등을 추적 관찰합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Pegcetacoplan in Combination With Modified FOLFIRINOX for the Treatment of Metastatic Pancreatic Ductal Adenocarcinoma",
- "title_ko": "전이성 췌장관암 환자를 위한 mFOLFIRINOX와 pegcetacoplan 병용 요법 1/2상 임상시험",
+ "title_ko": "전이성 췌장암 환자에서 펠세타코플란과 mFOLFIRINOX 병용 요법을 평가하는 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Ductal Adenocarcinoma",
@@ -67,7 +66,7 @@
     "phone": "716-845-4846"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 확진된 전이성 췌장관암(PDAC)\n* 연령 18세 이상\n* 동유럽종양협력그룹(ECOG) 활동도 0~1 이하\n* 절대호중구수(ANC) 1,500/uL 이상, 혈소판 100,000/uL 이상\n* 총 빌리루빈 1.5 x 기관 정상 상한치(ULN) 이하 (간 전이가 있는 경우 5 x ULN 이하)\n* 추정 크레아티닌 청소율 60 mL/min 이상\n* 알부민 3 g/dL 이상\n* 고형암 닯음 평가 기준(RECIST) 1.1에 따른 측정 가능한 병변 존재\n* 치료 전 종양 조직 제공 또는 신규 생검 가능\n* pegcetacoplan 자가 투여 가능 또는 보호자 투여 가능\n* 수막구균 및 폐렴구균 백신 접종 의향이 있는 자\n* 적절한 피임법 사용에 동의하는 가임기 환자\n* 연구 참여에 대한 서면 동의서 작성 가능\n\n제외 기준:\n* 췌장관암에 대한 이전 항암화학요법 이력 (단, 수술 전후 젬시타빈 기반 치료는 전이 진단 최소 6개월 전 완료 시 허용)\n* 탈모와 피로를 제외한 이전 치료의 독성이 1등급을 초과하는 경우\n* 난치성 복수 또는 흉수\n* 치료되지 않은 장 또는 위출구 폐쇄\n* 치료되지 않은 뇌 전이가 있는 경우\n* 조절되지 않는 동반 질환 또는 활성 감염\n* 연구 치료 시작 전 6개월 이내 주요 동맥 또는 정맥 혈전색전증 병력\n* 임신 중이거나 수유 중인 여성\n* 프로토콜 요구사항을 따를 수 없는 환자\n* 연구자가 부적합하다고 판단하는 조건",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 전이성 췌관선암(PDAC)\n- 만 18세 이상\n- ECOG 수행능력 상태 0~1\n- 적절한 골수, 간 및 신장 기능 보유\n- RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n- 치료 전 종양 조직 제공 또는 신규 생검 가능\n- 펠세타코플란 자가 투여 또는 보호자 투여 가능\n\n제외 기준:\n- 췌장암에 대한 이전 항암화학요법력 (단, 수술 전후 젬시타빈 기반 치료는 전이 진단 최소 6개월 전 완료된 경우 허용)\n- 탈모와 피로를 제외한 이전 치료로 인한 독성 1등급 초과\n- 난치성 복수 또는 흉수\n- 치료되지 않은 장폐색 또는 위출구 협착\n- 알려진 미치료 뇌전이\n- 조절되지 않는 동반 질환 또는 활성 감염\n- 최근 6개월 이내 주요 동맥 또는 정맥 혈전색전증 병력\n- 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic PDAC\n* Age ≥ 18 years of age\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 1\n* Absolute neutrophil count ≥ 1,500/uL\n* Platelets ≥ 100,000/uL\n* Total bilirubin ≤ 1.5 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST)(serum oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase \\[SGPT\\]) ≤ 3 x institutional ULN or \\<=5 ULN in the presence of liver metastasis\n* Estimated creatinine clearance ≥ 60 mL/min (Cockcroft-Gault equation)\n* Albumin ≥ 3 g/dL\n* Have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria present\n* All patients must either have available archival tumor tissue or undergo new tumor biopsy (if presence of a lesion that can be safely biopsied) before treatment initiation for correlative studies\n* Willing and able to self-administer pegcetacoplan (administration by caregiver will be allowed)\n* Willing to receive vaccination against Neisseria meningitidis and Streptococcus pneumoniae if not already vaccinated\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n\n  * Women of child-bearing potential taking part in this study should continue the use of birth control for 6 months after the last study treatment, and should not donate eggs during that timeframe\n  * Male participants taking part in this study should continue the use of birth control for 3 months after the last study treatment, and should not donate sperm during that timeframe\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Previous chemotherapy for PDAC. Gemcitabine-based post- or pre-operative therapy is allowed provided that the last dose and or surgical resection was at least 6 months prior to the documentation of metastatic disease, whichever occurred last\n* Toxicities from prior treatment grade \\> 1 with the exemption of alopecia and fatigue\n* Refractory ascites or pleural effusion (requiring para- or thoracentesis weekly or more frequently or use of indwelling catheter for palliation)\n* Untreated bowel or gastric outlet obstruction; patients with ≤ 6 weeks from such an event who are adequately palliated are allowed to participate\n* Participants with known untreated brain metastases will be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with major arterial thromboembolism (ATE) (coronary, cerebral, extremity or splanchnic) or venous thromboembolism (VTE) (pulmonary embolism or deep venous thrombosis) within 6 months from initiation of study treatment are not eligible for participation\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the investigator's opinion deems the participant an unsuitable candidate to receive study drug",
   "enrollment": 35,
   "has_results": false,
@@ -91,17 +90,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "미치료 뇌전이",
+    "최근 6개월 이내 주요 혈전색전증 병력",
+    "조절되지 않는 활성 감염 또는 동반 질환",
+    "임산부 또는 수유부"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료 경험이 없는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

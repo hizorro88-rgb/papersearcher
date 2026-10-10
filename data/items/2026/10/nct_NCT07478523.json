@@ -20,10 +20,10 @@
  "id": "nct:NCT07478523",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 120명이며, 현재 환자를 모집 중(RECRUITING)입니다.",
-  "중재 방법으로 68Ga-FAPI-46 PET/CT(TEP-TDM au 68Ga-FAPI-46)를 사용합니다.",
-  "췌장암은 5년 생존율이 10% 미만이며 담도암은 7%로 예후가 나쁩니다.",
-  "초기 표준 영상인 CT와 MRI는 림프절 전이 및 원격 전이 발견에 한계가 있습니다."
+  "췌장암의 5년 생존율은 10% 미만이며, 기존 영상검사는 약 30%의 환자에서 숨겨진 전이를 놓칩니다.",
+  "담도암의 기존 표준 영상검사는 림프절 전이 및 원격 전이 발견에서 제한적인 성능을 보입니다.",
+  "이 연구는 68Ga-FAPI-46 PET/CT가 기존 표준 영상검사와 비교하여 TNM 분류와 치료 계획에 변화를 주는지 평가합니다.",
+  "총 120명의 환자를 대상으로 하는 제2상(phase2) 임상시험입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07478523"
  },
- "summary_ko": "이 임상시험은 췌장암(pancreatic adenocarcinoma) 및 담도암(cholangiocarcinoma) 환자를 대상으로 초기 진단 시 표준 영상 검사 후 68Ga-FAPI-46 PET/CT의 추가적인 진단적 가치를 평가합니다. 현재 표준 영상인 CT와 MRI는 민감도와 정확도가 부족하여 숨겨진 전이를 놓치는 경우가 있습니다. 연구의 목표는 68Ga-FAPI-46 PET/CT가 TNM 분류를 변경하고 치료 계획을 바꿀 수 있음을 입증하는 것입니다. 총 120명의 환자를 목표로 2단계(PHASE2) 임상시험이 진행 중입니다.",
+ "summary_ko": "이 임상시험은 췌장암 및 담도암 환자의 초기 진단 과정에서 68Ga-FAPI-46 PET/CT의 진단적 유용성을 평가하기 위해 진행됩니다. 현재 표준 영상검사(CT, MRI)는 민감도가 부족하여 숨겨진 전이를 놓치는 경우가 많습니다. 연구진은 68Ga-FAPI-46 PET/CT가 TNM 병기 분류와 치료 방침에 변화를 이끌어낼 수 있는지 확인하고자 합니다. 총 120명의 환자를 목표로 다기관 전향적 연구가 진행됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "FAPI-PET Value for the Initial Screening of Pancreatic and Biliary Cancers",
- "title_ko": "췌장암 및 담도암의 초기 선별검사에서 FAPI-PET의 가치",
+ "title_ko": "췌장암 및 담도암 초기 선별검사에서 FAPI-PET의 유용성 평가",
  "trial": {
   "conditions": [
    "Cholangiocarcinoma",
@@ -65,7 +65,7 @@
     "phone": "05 57 65 63 35"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 성인 환자\n- 병리적으로 확진되었거나 영상 검사에서 강력히 의심되는 신규(de novo) 췌장암 중 절제 가능, 경계성 절제 가능, 혹은 국소 진행형이며 원격 전이가 없는(M0) 환자\n- 병리적으로 확진되었거나 영상 검사에서 강력히 의심되는 신규(de novo) 담도암 중 근치적 치료가 가능하며 원격 전이가 없는(M0) 환자\n- 사회보장제도 가입자\n- 동의서에 서명한 환자\n\n제외 기준:\n- 표준 병기 설정 검사에서 원격 전이(M+)가 있거나 의심되는 경우\n- 선행 보조 요법(neoadjuvant treatment)을 받은 경우\n- 다른 활성암 병력이 있는 경우\n- 임신부 또는 수유 중인 여성\n- 법적 보호(후견인 제도 등)를 받는 사람\n- 동의를 직접 제공할 수 없는 사람\n- 응급 상황에 있는 사람\n- 다른 임상시험의 배제 기간에 해당하는 사람\n- 사법적 또는 행정적 결정으로 신체의 자유가 박탈된 사람",
+  "eligibility_ko": "선정 기준:\n- 1군: 병리적으로 확진되었거나 영상 검사상 강력히 의심되는 신규(de novo) 췌관선암(pancreatic adenocarcinoma) 환자로, 수술 가능, 경계성, 또는 국소 진행성(locally advanced)이며 전이가 없는(M0) 경우\n- 2군: 근치적 치료가 가능한 신규 담도암(cholangiocarcinoma) 환자로 전이가 없는(M0) 경우\n- 만 18세 이상\n- 사회보장제도 가입자\n- 연구 참여에 대한 자발적 서면 동의서 작성\n\n제외 기준:\n- 표준 병기 설정 검사에서 원격 전이(M+)가 있거나 의심되는 경우\n- 선행항암치료(neoadjuvant treatment)를 받은 경우\n- 다른 활성 암의 병력이 있는 경우\n- 임신부 또는 수유부\n- 법적 보호 하에 있는 자, 자발적 동의 능력이 없는 자, 응급 상황인 자\n- 다른 연구 프로토콜의 배제 기간에 해당하는 자\n- 사법적 또는 행정적 결정에 의해 신체가 구속된 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Population 1: De novo pancreatic adenocarcinoma (pathological evidence) or strong suspicion of de novo pancreatic adenocarcinoma on imaging, immediately resectable, borderline or locally advanced, potentially requiring curative treatment and non-metastatic (M0), according to reference staging. - Population 2: De novo cholangiocarcinoma eligible for curative treatment (pathological evidence) or strong suspicion of de novo pancreatic adenocarcinoma on imaging, non-metastatic (M0), according to reference extension assessment. according to reference extension report\n\nCriteria common to both populations:\n\n* Age \\>18 years at the time of signing the informed consent\n* Patient affiliated to a social security system\n* Free and informed consent signed by the participant and the investigator (at the latest on the day of inclusion and before any examination required by the research)\n\nExclusion Criteria:\n\n* Tumor M+ or with suspicion of distant metastasis on standard staging.\n* Neoadjuvant treatment\n* History of other active cancer\n* Pregnant or breastfeeding woman\n* Person under legal protection (guardianship or curatorship)\n* Person unable to personally give consent\n* Person in an emergency situation\n* Exclusion period from another protocol\n* Person deprived of liberty by judicial or administrative decision",
   "enrollment": 120,
   "has_results": false,
@@ -81,18 +81,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "원격 전이가 있거나 의심되는 경우",
+    "선행항암치료를 받은 경우",
+    "다른 활성 암의 병력이 있는 경우",
+    "임신부 또는 수유부"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "수술 전이 없는(M0) 신규 췌장암 또는 담도암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "neoadjuvant"
+    "locally_advanced",
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

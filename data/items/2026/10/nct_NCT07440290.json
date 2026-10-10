@@ -20,10 +20,9 @@
  "id": "nct:NCT07440290",
  "importance": 0.79,
  "key_points_ko": [
-  "목표 평가 환자 수는 총 30명입니다.",
-  "대상은 BRAF V600 유전자 변이가 있는 성인, 소아, 청소년 및 젊은 성인의 희귀암 환자입니다.",
-  "중재 약물은 dabrafenib과 trametinib 병용 요법입니다.",
-  "국내 기관 참여 수는 초록에 명시되지 않음입니다."
+  "목표 평가 환자 수는 30명이며 소아, 청소년/청년, 성인 환자가 참여합니다.",
+  "BRAF V600 변이가 있는 희귀암 또는 드문 빈도의 암 환자를 대상으로 합니다.",
+  "환자들은 질병 진행 또는 수용 불가능한 부작용이 발생할 때까지 dabrafenib과 trametinib을 투여받습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07440290"
  },
- "summary_ko": "이 임상시험은 BRAF V600 유전자 변이가 있는 희귀암 또는 드문 암 환자들을 대상으로 dabrafenib(다브라페닙)과 trametinib(트라메티닙) 병용 요법의 유효성을 평가합니다. 성인, 소아 및 청소년 환자를 포함하며, 목표 평가 가능 환자 수는 30명입니다. 환자들은 질병이 진행되거나 허용할 수 없는 부작용이 발생할 때까지 두 약물을 투여받습니다. 연구 결과가 긍정적일 경우 향후 국민보건서비스(NHS)를 통해 환자들이 치료를 받을 수 있도록 연계하는 것을 목표로 합니다.",
+ "summary_ko": "이 임상시험은 BRAF V600 변이가 있는 희귀암 또는 드문 암 환자들을 대상으로 dabrafenib과 trametinib 병용 요법의 효과를 평가합니다. 성인, 소아 및 청소년/청년(TYA) 환자를 대상으로 하며 목표 평가 환자 수는 30명입니다. 환자들은 질병이 진행되거나 허용되지 않는 부작용이 발생할 때까지 두 약물을 투여받습니다. 연구진은 긍정적인 임상 결과를 영국 국민보건서비스(NHS) 및 암 약물 기금(Cancer Drugs Fund)에 연계하여 새로운 치료 옵션을 제공하는 것을 목표로 합니다.",
  "summary_source": "llm",
  "tags": [
   "Adult",
@@ -63,7 +62,7 @@
   "Neoplasms by Histologic Site"
  ],
  "title": "DETERMINE Trial Treatment Arm 07: Dabrafenib in Combination With Trametinib in Adult, Paediatric and Teenage/Young Adult Patients With BRAF V600 Mutation-Positive Cancers.",
- "title_ko": "DETERMINE 임상시험 치료군 07: BRAF V600 변이 양성 암 환자(성인, 소아, 청소년 및 젊은 성인)를 대상으로 한 dabrafenib과 trametinib 병용 요법",
+ "title_ko": "DETERMINE 임상시험 치료 팔 07: BRAF V600 변이 양성 암 환자에서 dabrafenib과 trametinib 병용 치료",
  "trial": {
   "conditions": [
    "Haematological Malignancy",
@@ -94,7 +93,7 @@
     "phone": "+44 207 242 0200"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 차세대 염기서열 분석법(NGS)을 통해 랑겔한스 세포 조직구증을 포함하여 BRAF V600에 온코제닉 변이가 있는 악성 종양으로 확진된 환자\n• 1세 이상이며 체중이 8 kg 이상인 환자\n• 임상 등록 전 혈청 또는 소변 임신 검사가 음성인 가임 여성 및 비호르몬적 고효율 피임법 사용에 동의한 환자\n• 차광 및 차단 피임법 사용에 동의하고 정자 기증을 하지 않기로 동의한 남성 환자\n• 기저 시점에 신선 조직 생검 및 중개 연구용 혈액 검체 채취가 가능하고 이에 동의한 환자\n• 프로토콜에 정의된 범위 내의 적절한 조혈 및 생화학적 지표에 따른 장기 기능 보유\n\n제외 기준:\n• 성인(≥18세) 환자의 대장암, 절제 불가 또는 전이성 흑색종, 진행성 비소세포폐암\n• 소아(1세~<16세) 또는 청소년(16세~<18세) 환자의 BRAF V600E 변이 양성 신경교종\n• 현재 적응증에 대해 dabrafenib과 trametinib 병용 요법(또는 기타 BRAF 및 MEK 억제제 병용)으로 이전 치료를 받은 적이 있는 환자\n• 임신 중이거나 수유 중인 여성 환자\n• dabrafenib 또는 trametinib에 알려진 과민성이 있는 환자\n• 망막 정맥 폐쇄 병력이 있는 환자\n• 약물 흡수나 투여에 유의한 영향을 미칠 수 조절되지 않는 위장관 질환이 있는 환자\n• 임상시험용 의약품 치료 전 28일 이내에 생백신을 투여받았거나 투여가 예상되는 환자",
+  "eligibility_ko": "선정 기준:\n• Next-generation sequencing(차세대 염기서열 분석) 방법으로 확인된 BRAF V600 종양 유전자 변이(Langerhans cell histiocytosis 포함)가 확진된 악성 종양 환자\n• 1세 이상 및 체중 8 kg 이상인 환자\n• 임신부 또는 수유부가 아니며 피임 지침을 준수할 수 있는 환자\n• 치료 전 기저 조직 생검 및 중개 연구용 혈액 검사 채취가 가능한 환자\n• 프로토콜에서 정의한 범위 내의 적절한 조혈 및 생화학적 장기 기능을 가진 환자\n\n제외 기준:\n• 성인 환자의 대장암, 절제 불가능 또는 전이성 흑색종, 진행성 비소세포폐암 및 소아/청소년 환자의 BRAF V600E 변이 신경교종 진단 환자\n• 현재 적응증에 대해 dabrafenib과 trametinib 병용(또는 다른 BRAF 및 MEK 억제제 병용) 치료 받은 이력이 있는 환자\n• dabrafenib, trametinib 또는 부형제에 알려진 과민증이 있는 환자\n• 망막정맥폐쇄(retinal vein occlusion) 병력이 있는 환자\n• 약물 투여나 흡수에 영향을 미칠 수 조절되지 않는 위장관 질환이 있는 환자\n• 임상적으로 유의미한 심장 질환 또는 뇌혈관 질환이 있는 환자\n• 치료 시작 전 28일 이내에 생백신을 투여받았거나 투여가 예상되는 환자",
   "eligibility_text": "THE PATIENT MUST FULFIL THE ELIGIBILITY CRITERIA WITHIN THE DETERMINE MASTER PROTOCOL (NCT05722886) AND WITHIN THE TREATMENT ARM 07 (DABRAFENIB AND TRAMETINIB) OUTLINED BELOW\\* \\*When dabrafenib- and trametinib-specific inclusion/exclusion criteria or precautions below differ from those specified in the Master Protocol, the dabrafenib- and trametinib-specific criteria will take precedence.\n\nInclusion criteria:\n\nA. Confirmed diagnosis of a malignancy harbouring an oncogenic alteration in BRAF V600, including Langerhans cell histiocytosis, using an analytically validated next-generation sequencing method.\n\nB. Patients ≥1 year old and ≥8 kg in body weight.\n\nC. Women of childbearing potential are eligible provided that they meet the following criteria:\n\n• Have a negative serum or urine pregnancy test before enrolment and;\n\n• Agree to use one form of a non-hormonal highly effective contraception method (a method that can achieve a failure rate of \\<1% when used consistently and correctly; the requirement for non-hormonal method is because dabrafenib may decrease the efficacy of oral or any systemic hormonal contraceptives), such as: i. intrauterine device (IUD), ii. bilateral tubal occlusion, bilateral tubal ligation (at least six weeks before taking trial treatment), iii. vasectomised partner, iv. total sexual abstinence. Effective from the first administration of dabrafenib and trametinib (whichever is first), throughout the trial and for two weeks following discontinuation of dabrafenib and for 16 weeks following discontinuation of trametinib (whichever is later).\n\nPatients who are breastfeeding must be willing to discontinue breastfeeding from the start of treatment, throughout the trial and for two weeks following discontinuation of dabrafenib and for 16 weeks following discontinuation of trametinib (whichever is later).\n\nD. Male patients with partners who are women of childbearing potential are eligible provided that they agree to the following, from the first administration of dabrafenib and trametinib (whichever is first), throughout the trial and for two weeks after the last administration of dabrafenib and 16 weeks after the last administration of trametinib (whichever is later):\n\n* Agree to take measures not to father children by using a barrier method of contraception (male condom plus spermicide) or to sexual abstinence.\n* Non-vasectomised male partners with partners who are women of childbearing potential should also be advised of the benefit for their partner of using a highly effective method of contraception, such as:\n\n  i. combined (oestrogen and progestogen containing) hormonal contraception associated with inhibition of ovulation \\[oral, intravaginal or transdermal\\]), ii. progestogen-only hormonal contraception associated with inhibition of ovulation (oral, injectable or implantable), iii. IUD, iv. intrauterine hormone-releasing system (IUS), v. bilateral tubal occlusion, vi. total sexual abstinence.\n* Male patients with pregnant or breastfeeding partners must be advised to use barrier method contraception (male condom) to prevent drug exposure of the foetus or neonate, even if vasectomised.\n* Male patients must refrain from donating sperm for the same period.\n\nE. Patients must be able and willing to undergo a fresh tissue biopsy at baseline and blood samples for translational research. Note that for patients with haematological malignancies or neuroblastomas, blood, bone marrow aspiration and/or trephine or lymph node biopsy samples may be taken.\n\nF. Adequate organ function as per haematological and biochemical indices within the ranges defined in the protocol. These measurements should be performed to confirm the patient's eligibility\n\nExclusion criteria:\n\nA. Diagnosis of one of the following BRAF V600E mutation-positive cancers:\n\n* Colorectal cancer in adult (≥18 years) patients;\n* Unresectable or metastatic melanoma in adult (≥18 years) patients;\n* Advanced non-small cell lung cancer in adult (≥18 years) patients;\n* Gliomas harbouring a BRAF V600E mutation in paediatric (1 to \\<16 years) or TYA (16 to \\<18 years) patients.\n\nB. Previous treatment with dabrafenib and trametinib in combination (or other BRAF and MEK inhibitors in combination) for the current indication.\n\nC. Female patients who are pregnant, breastfeeding or planning to become pregnant during the trial or for two weeks following their last dose of dabrafenib or 16 weeks following their last dose of trametinib, whichever is later.\n\nD. Known hypersensitivity to dabrafenib or trametinib or any of the excipients. See the current relevant SmPCs (UK) for the full lists.\n\nE. Patients with a history of retinal vein occlusion.\n\nF. Any impairment of gastrointestinal (GI) function of uncontrolled GI disease that may significantly alter the administration or absorption of dabrafenib and/or trametinib (e.g. history of diverticulitis, metastases to the GI tract, uncontrolled Crohn's disease, uncontrolled ulcerative diseases, uncontrolled nausea, vomiting, diarrhoea, malabsorption syndrome or short gut syndrome).\n\nG. Clinically significant cardiac or cerebrovascular disease as defined by:\n\n* Unstable angina within three months prior to screening;\n* Myocardial infarction within three months prior to screening;\n* History of documented congestive heart failure (New York Heart Association functional classification III/IV) etc.\n\nPatients with a cerebrovascular event (including stroke or transient ischaemic attack \\[TIA\\]) within three months prior to screening.\n\n• Patients with primary central nervous system (CNS) tumours may be considered unless intratumoural bleeding has occurred within two weeks prior to the first dose of dabrafenib and trametinib, and patients with punctate CNS haemorrhages \\<3 mm may be considered.\n\nH. Patients who were administered a live, attenuated vaccine within 28 days prior to initiation of treatment, or anticipation of need for such a vaccine during investigational medicinal product (IMP) treatment or within six months after the final dose of dabrafenib and trametinib.\n\nI. Known active infections (bacterial, fungal or viral) that would interfere with the assessment of safety or efficacy of dabrafenib and trametinib including human immunodeficiency virus (HIV) positivity. Patients with history of testing positive for HIV infection are eligible provided that each of the following conditions are met:\n\n* CD4 count ≥350/µL;\n* Undetectable viral load;\n* Receiving antiretroviral therapy (ART) that does not interact with IMP (patients should be on established ART for at least four weeks); and\n* No HIV/acquired immune deficiency syndrome associated opportunistic infection in the last 12 months.\n\nJ. Any clinically significant concomitant disease or condition (or its treatment) that could interfere with the conduct of the trial (including absorption of oral medications) that would, in the opinion of the Investigator, pose an unacceptable risk to the patient in this trial.",
   "enrollment": 30,
   "has_results": false,
@@ -109,17 +108,24 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [],
+   "biomarkers_required": [
+    "KRAS_wild"
+   ],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "망막정맥폐쇄 병력이 있는 경우",
+    "조절되지 않는 위장관 질환이 있는 경우",
+    "심장 질환 또는 뇌혈관 질환 병력이 있는 경우",
+    "최근 생백신을 투여받았거나 투여가 필요한 경우"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "BRAF V600 변이가 있는 희귀암 또는 드문 암 환자 대상 임상시험 (특정 흔한 암종 제외)",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "1 Year",

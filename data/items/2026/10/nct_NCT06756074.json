@@ -22,10 +22,9 @@
  "id": "nct:NCT06756074",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 100명입니다.",
-  "중재 방법은 modified cyanoacrylate 조직 접착제인 Glubran 2를 사용한 췌장공장문합술 강화입니다.",
-  "연구 단계는 2상(PHASE2) 임상시험입니다.",
-  "국내 기관 참여 정보는 초록에 명시되지 않음."
+  "목표 환자 수는 총 100명입니다.",
+  "Glubran 2(tissue adhesive glue modified cyanoacrylate)를 사용한 췌장공장문합술 보강의 효과를 평가합니다.",
+  "환자들은 Glubran 2군 또는 대조군에 1:1 비율로 무작위 배정됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06756074"
  },
- "summary_ko": "이 연구는 췌장십이지장절제술(pancreatoduodenectomy) 후 발생할 수 있는 췌장 누출(Pancreatic Fistula)을 예방하기 위한 임상시험입니다. 췌장암, 팽대부 주위 암(periampullary carcinoma), 췌관 선암(pancreatic ductal adenocarcinoma) 환자 100명을 대상으로 합니다. 글루브란2(Glubran2) 조직 접착제를 사용해 췌장공장문합술(pancreaticojejunostomy)을 강화하는 방법의 효과를 평가합니다. 환자들은 Glubran2 그룹과 대조군에 1대 1로 무작위 배정됩니다.",
+ "summary_ko": "이 연구는 췌장십이지장절제술(pancreatoduodenectomy) 후 발생할 수 있는 심각한 합병증인 췌장루(pancreatic fistula)를 줄이기 위한 임상시험입니다. 췌장암 및 주위 부근 암 환자 100명을 대상으로 췌장공장문합술(pancreaticojejunostomy) 시 조직 접착제인 Glubran 2 사용 여부에 따른 예방 효과를 비교합니다. 환자들은 컴퓨터 생성 무작위 배정에 따라 Glubran 2군과 대조군에 1:1로 배정됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Reinforced Pancreaticojejunostomy With or Without glubran2",
- "title_ko": "Glubran2 조직 접착제를 이용한 췌장공장문합술의 강화 효과 연구",
+ "title_ko": "Glubran2 조직 접착제를 이용한 췌장공장문합술 보강의 효과 평가 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Fistula",
@@ -69,7 +68,7 @@
     "phone": "01201765401"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 암으로 인해 췌장십이지장절제술을 받는 모든 환자\n* 사전 동의를 제공할 수 있는 환자\n\n제외 기준:\n* 심각한 내과적 질환으로 수술에 부적합한 환자\n* 영상 검사상 수술 불가능한 환자, 개복술 또는 진단적 복강경 검사 후 절제 불가능한 종양\n* 원격 전이가 있는 경우\n* 연구 참여를 거부한 환자",
+  "eligibility_ko": "선정 기준:\n- 암으로 인해 췌장십이지장절제술을 받는 모든 환자\n- 서면 동의를 제공할 수 있는 환자\n\n제외 기준:\n- 심각한 내과적 질환으로 수술에 부적합한 환자\n- 영상 검사상 수술이 불가능하거나 개복술 또는 진단적 복강경 검사 후 절제 불가능한 종양이 확인된 환자\n- 원격 전이가 있는 환자\n- 연구 참여를 거부한 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* All the patients undergoing pancreaticoduodenectomy for cancer\n* Patients able to give their informed consent\n\nExclusion Criteria:\n\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients by imaging studies, irresectable tumors after laparotomy or diagnostic laparoscopy.\n* Presence of distant metastasis .\n* Patients refused to participate in the study.",
   "enrollment": 100,
   "has_results": false,
@@ -86,15 +85,21 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "심각한 내과적 질환으로 수술에 부적합한 경우",
+    "절제 불가능한 종양 또는 원격 전이가 있는 경우",
+    "연구 참여를 거부한 경우"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "암으로 인해 췌장십이지장절제술을 받는 수술 가능 단계의 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "resectable"
+   ],
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

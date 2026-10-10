@@ -19,10 +19,10 @@
  "id": "nct:NCT06938282",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 60명입니다.",
-  "경계성 절제 가능 및 국소 진행성/전이성 췌장암 환자를 대상으로 합니다.",
-  "중재 치료로 HRS-4642와 면역요법 및 항암화학요법의 병용을 평가합니다.",
-  "구체적인 임상 결과는 초록에 명시되지 않았습니다."
+  "대상 질환: 경계성 절제 가능 또는 국소 진행성/전이성 췌장암",
+  "평가 항목: 안전성 및 유효성",
+  "목표 환자 수: 60명",
+  "임상 단계: 2상(phase2) 임상시험"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06938282"
  },
- "summary_ko": "본 임상시험은 경계성 절제 가능 또는 국소 진행성/전이성 췌장암(pancreatic cancer) 환자를 대상으로 HRS-4642와 면역요법(immunotherapy), 항암화학요법(chemotherapy)의 병용 투여에 대한 안전성과 유효성을 평가합니다. 상하이 중산 병원(Shanghai Zhongshan Hospital)에서 진행하며, 총 60명의 환자를 목표로 모집 중입니다. 초록에 세부적인 생존율이나 반응률 등 결과는 명시되지 않았습니다.",
+ "summary_ko": "본 임상시험은 경계성 절제 가능, 국소 진행성 및 전이성 췌장암(pancreatic cancer) 환자를 대상으로 HRS-4642와 면역요법(immunotherapy), 항암화학요법(chemotherapy) 병용 투여의 안전성과 유효성을 평가합니다. 목표 환자 수는 60명이며, 상하이 중산 병원(Shanghai Zhongshan Hospital)에서 진행하는 2상(phase2) 임상시험입니다. 환자들은 질병 상태에 따라 경계성 절제 가능 그룹과 국소 진행성/전이성 그룹으로 나뉘어 참여합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "An Exploratory Clinical Study of HRS-4642 in Combination With Immunotherapy and Chemotherapy for Pancreatic Cancer",
- "title_ko": "췌장암에 대한 HRS-4642 병용 요법의 탐색적 임상시험",
+ "title_ko": "췌장암에서 HRS-4642 병용 요법에 대한 탐색적 임상 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -63,7 +63,7 @@
     "phone": "13701874954"
    }
   ],
-  "eligibility_ko": "선정 기준: - 연령 18세 이상 남녀 - 병리학적 또는 세포학적으로 진단된 췌장 도관 선암종(ductal adenocarcinoma of the pancreas) 환자 및 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상인 자 - 제1군은 영상 평가상 국소 진행성 또는 전이성 췌장암 환자, 제2군은 경계성 절제 가능 췌장암 환자 - 동유럽종양협력그룹(ECOG) 수행능력 평가 0 또는 1 - 예상 생존기간 6개월 이상 - 골수 및 장기 기능이 충분한 자 - 가임기 여성 및 남성 파트너가 임상 기간 및 마지막 투여 후 3개월 동안 의학적으로 인정되는 피임법 사용에 동의한 자 - 자발적으로 동의서에 서명한 자. 제외 기준: - 과거 전신 화학요법, 면역요법, 표적치료, 항암 한방치료 등 전신 치료를 받은 적이 있는 자 - 연구 약물에 과민증이 있는 자 - 과거 또는 동시 다른 악성 종양이 있는 자 - 첫 투여 전 4주 이내에 약물 또는 의료기기 임상시험에 참여한 자 - 첫 투여 전 4주 이내에 생백신 또는 약독화 생백신을 투여받은 자 - 동종 조혈모세포 이식 또는 장기 이식 병력이 있는 자 - 활성 중추신경계(CNS) 전이가 있는 자 - 생명을 위협하는 합병증 위험이 있는 증상성 내장 파종 환자 - 심각한 심혈관 동맥 혈전증, 뉴욕심장협회(NYHA) 등급 2 이상의 심부전, 임상적으로 유의한 부정맥이 있는 자 - 간질성 폐질환, 비감염성 폐렴, 심각한 조절 불능의 질병, 급성 감염, 최근 주요 수술력이 있는 자 - 면역결핍, 활성 B형 간염, 활성 C형 간염, 또는 B/C형 간염 동반 감염이 있는 자 - 활성 자가면역질환 또는 자가면역질환 병력이 있는 자 - 첫 투여 전 2주 이내에 코르티코스테로이드 또는 기타 면역억제제로 전신 치료를 받은 자 - 임상적으로 유의한 급성 또는 만성 췌장염이 있거나 췌장염 고위험군인 자 - 연구자가 참여를 부적절하다고 판단하는 자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 남녀\n- 병리학적 또는 세포학적으로 확진된 췌관선암(ductal adenocarcinoma of the pancreas) 환자이며 RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있음\n- 국소 진행성/전이성 췌장암 또는 경계성 절제 가능 췌장암에 해당함\n- ECOG 수행능력 상태 0 또는 1\n- 예상 생존기간 6개월 이상\n\n제외 기준:\n- 이전에 전신 항암 치료(화학요법, 면역요법, 표적치료, 항종양 중의학 포함)를 받은 적이 있는 환자\n- 연구 약물 성분에 과민증이 있는 환자\n- 이전에 또는 동시에 다른 악성 종양이 있는 환자\n- 활성 중추신경계(CNS) 전이가 있는 환자\n- 조절되지 않는 심혈관 질환 또는 중증 의학적 질환이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age: ≥18 years old, male or female;\n2. Pathologically or cytologically confirmed ductal adenocarcinoma of the pancreas; and subjects must have at least one measurable lesion as defined by RECIST v1.1;\n3. Arm 1 included patients with locally advanced or metastatic pancreatic cancer whose imaging assessment met the guideline definition, and Arm 2 included patients with borderline resectable pancreatic cancer whose imaging assessment met the guideline definition;\n4. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1;\n5. Expected survival ≥ 6 months;\n6. Adequate marrow and organ function;\n7. Female participants of childbearing age must undergo a pregnancy test within one week before the start of the study medication, and the result is negative. They are willing to use a medically recognized and efficient contraceptive method during the study period and within three months after the last administration of the study medication; For male participants whose partners are women of childbearing age, they should agree to use effective methods of contraception during the study period and within 3 months after the last study administration;\n8. Patients volunteered to participate in this study and signed informed consent.\n\nExclusion Criteria:\n\n1. Previously received any systemic therapy, including systemic chemotherapy, immunotherapy, targeted therapy, and anti-tumor Chinese medicine;\n2. Known hypersensitivity to the study drug or any of its components;\n3. Previous or concurrent other malignant tumors;\n4. Participation in a clinical trial of any drug or medical device within 4 weeks prior to the first dose;\n5. Live and attenuated vaccines were administered within 4 weeks prior to the first dose of study drug;\n6. Previous allogeneic hematopoietic stem cell transplantation or organ transplantation;\n7. Active CNS metastases (including CNS metastases with clinical symptoms, brain edema, CNS metastases that have been treated with or required steroid medications in the last 28 days, and CNS metastases that are new or have shown disease progression);\n8. Symptomatic, advanced patients with visceral dissemination and short-term risk of life-threatening complications (including patients with uncontrolled large amounts of exudate \\[thoracic, pericardial, peritoneal\\]); if effusion is drained, those who have been stable for at least 2 weeks after drainage are eligible for enrollment (topical plasmapheresis is permitted on a routine basis prior to signing an informed consent form);\n9. Patients with severe cardiovascular arterial thromboembolism (e.g., myocardial infarction, unstable angina, stroke), NYHA class 2 or greater cardiac insufficiency, and clinically significant supraventricular or ventricular arrhythmias requiring clinical intervention;\n10. Individuals with interstitial lung disease, non-infectious pneumonia or severe and uncontrolled medical illness, acute infections, recent history of major surgery (within 28 days or not yet recovered from side effects);\n11. Individuals with congenital or acquired immunodeficiency, such as human immunodeficiency virus (HIV) infection, active hepatitis B (positive hepatitis B virus surface antigen \\[HBsAg\\] test result at screening along with a HBV-DNA test value of ≥10,000 copies/ml \\[2000 IU/ml\\]), active hepatitis C (positive hepatitis C virus antibody \\[HCV-Ab\\] test result at screening), or a combination of hepatitis B and hepatitis B and HCV-RNA. Positive HCV-Ab \\[HCV-Ab\\] test result at screening stage (also HCV-RNA positive) or co-infection with Hepatitis B and Hepatitis C;\n12. Patients with any active autoimmune disease or history of autoimmune disease (e.g., the following, but not limited to: autoimmune hepatitis, interstitial pneumonitis, uveitis, enterocolitis, hepatitis, pituitary gland inflammation, vasculitis, nephritis, and hyperthyroidism; patients with asthma that has resolved completely in childhood and does not require any intervention in adulthood may be included; patients with asthma that requires medical intervention with bronchodilators may not be included);\n13. Systemic therapy with corticosteroids (\\>10 mg/day of prednisone or other equivalent hormone) or other immunosuppressive agents within 2 weeks prior to the first dose; inhaled or topical corticosteroids are allowed in the absence of active autoimmune disease, as well as adrenal hormone replacement therapy at doses of ≤ 10 mg/day of prednisone at efficacious doses;\n14. Presence of clinically significant acute or chronic pancreatitis; patients at high risk for pancreatitis, e.g., serum amylase and/or lipase concentrations ≥3 times ULN;\n15. Other situations that the researcher felt should not be included.",
   "enrollment": 60,
   "has_results": false,
@@ -79,19 +79,32 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 전신 항암 치료력",
+    "활성 중추신경계(CNS) 전이",
+    "이전 또는 동시 다른 악성 종양",
+    "조절되지 않는 심혈관 질환"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 치료력이 없는 경계성 절제 가능 또는 국소 진행성/전이성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced",
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

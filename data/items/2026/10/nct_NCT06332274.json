@@ -20,10 +20,9 @@
  "id": "nct:NCT06332274",
  "importance": 0.79,
  "key_points_ko": [
-  "목표 환자 수는 717명이며, 췌장암을 포함한 여러 고형암 환자가 참여합니다.",
-  "수술 및 보조 치료 완료 후 혈액 내 순환 종양 DNA(ctDNA)를 이용해 분자적 잔존 질환(MRD)을 확인합니다.",
-  "중재 치료로 tislelizumab, 혈액 검사, 위약(Placebo)이 사용됩니다.",
-  "국내 기관은 참여하지 않으며, 임상시험 단계는 3상(PHASE3)입니다."
+  "목표 환자 수는 총 717명입니다.",
+  "1단계부터 3단계까지의 췌장암 환자가 참여 대상에 포함됩니다.",
+  "중재 치료로 Tislelizumab과 위약(Placebo) 등이 사용됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06332274"
  },
- "summary_ko": "이 임상시험은 수술 및 주위 치료를 마친 후 혈액에서 순환 종양 DNA(ctDNA)가 검출되어 분자적 잔존 질환(molecular residual disease, MRD) 양성 상태인 고형암 환자를 대상으로 합니다. 췌장암을 포함한 여러 고형암 환자에서 면역요법인 tislelizumab 단독 투여의 효과를 평가하기 위해 진행되는 3상 임상시험입니다. 목표 인원은 717명이며, 프랑스의 Gustave Roussy 등에서 환자를 모집하고 있습니다. 영상 검사에서는 암세포가 보이지 않지만 미세한 흔적이 남은 환자들을 대상으로 재발을 조기에 발견하고 치료하기 위한 목적을 가집니다.",
+ "summary_ko": "이 연구는 수술 및 주위 치료를 마친 고형암 환자를 대상으로 순환 종양 DNA(ctDNA)를 통해 분자적 잔존 질병(MRD)을 확인하고, 티슬렐리주맙(tislelizumab) 단독 요법의 효과를 평가하는 3상 임상시험입니다. 췌장암을 포함한 다양한 고형암 환자 717명을 목표로 진행됩니다. 영상 검사에서는 암이 보이지 않지만 혈액에서 미세한 종양 DNA가 검출되는 환자들을 대상으로 합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "tislelizUMaB in canceR Patients With molEcuLar residuaL Disease",
- "title_ko": "분자적 잔존 질환이 있는 고형암 환자를 대상으로 한 tislelizumab 단독요법 임상시험",
+ "title_ko": "분자적 잔존 질병이 있는 고형암 환자를 대상으로 한 티슬렐리주맙(tislelizumab) 임상시험",
  "trial": {
   "conditions": [
    "Cancer",
@@ -68,7 +67,7 @@
     "phone": "+33 (0)1 42 11 42 11"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 국제 가이드라인에 따른 수술 및 주위 치료 완료 후 3개월 이상 4.5개월 이하 경과\n- ctDNA 분석용 혈액 채취 최소 3주 전 표준 치료 비포함\n- ctDNA 분석용 혈액 채취 최소 3개월 전 수혈력 없음\n- 조직학적 진단: 1~3기 췌장암, 2~3기 비소세포폐암, 2~3기 대장암, 3등급 사지 또는 체벽 연조직 육종\n- 프로토콜에 따른 ctDNA 및 중개 연구 분석을 위한 충분한 원발암 조직 보관 검체 보유\n- 무작위 배정 전 유효한(양성 또는 음성) ctDNA 검사 결과 보유\n- 이전 면역요법(anti-PD-1 또는 anti-PD-L1) 치료력 없음\n- RECIST 기준 1.1에 따른 영상학적 질병 증거 없음\n- ECOG 수행 능력 상태 0 또는 1\n- 적절한 장기 기능 유지\n- 프랑스 생명의학 연구 관련 법률에 따른 사회보장 가이드라인 준수\n- 서면 동의서 서명 완료 및 연구 방문 순응 가능\n- 가임 여성 및 비임신 남성의 효과적인 피임법 사용 동의\n\n제외 기준:\n- 최근 3~4.5개월 동안 및 연구 치료 중 다른 임상시험에 참여 중인 경우\n- 임상시험 참여가 부적절하다고 판단되는 임의의 상태\n- 임산부 또는 수유부\n- 후견인 하에 있거나 사법/행정 결정으로 자유가 박탈된 자\n- 비소세포폐암 환자 중 확인된 EGFR 엑손 19 결손 또는 엑손 21 L858R 치환 변이 보유자\n- 등록 전 4주 이내 또는 약물 반감기의 5배 이내에 전신 면역자극제 치료를 받은 경우\n- 연구 치료 시작 전 2주 이내에 전신 면역억제제 치료를 받은 경우\n- 이전 면역요법 중 3등급 이상의 면역관련 이상반응(irAE) 경험 또는 1등급 초과로 회복되지 않은 irAE 보유자\n- 연구 약물 또는 부형제에 대한 알려진 과민성\n- 동종 조혈모세포 이식 또는 고형 장기 이식 병력이 있는 환자\n- 등록 전 4주 이내 생백신 투여력",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- 국제 가이드라인에 따른 수술 및 주위 치료 완료\n- 완치 목적의 표준 치료 종료 후 최소 3개월에서 최대 4.5개월 경과\n- TNM 기준 췌장암 1~3기\n- ECOG 수행능력 0 또는 1\n\n제외 기준:\n- 이전 면역요법(anti-PD-1 또는 anti-PD-L1) 치료 경험이 있는 경우\n- 임신 중이거나 수유 중인 여성\n- 연구용 의약품과 관련된 임상시험에 최근 참여한 경우",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. Completion of surgical and peri-operative treatments as per international guidelines.\n3. Subject must have completed standard curative-intent therapy (i.e: Surgery, Neoadjuvant and adjuvant therapy) for minimum 3 months and maximum 4.5 months prior to sending samples for MRD analyses.\n4. Subject must not have standard treatment at least 3 weeks before blood sampling for ctDNA analyses.\n5. Patients must not have blood transfusion at least 3 months before blood sampling for ctDNA analyses.\n6. Histology: TNM stage II-III NSCLC, Stage II-III colorectal cancer, stage I-III pancreatic cancer, grade 3 limb or trunk wall soft-tissue sarcoma.\n7. Subjects must have sufficient amount of archived primary tumor material for ctDNA and translational research analyses that will be conducted as defined in the protocol.\n8. Subjects must have a valid (positive or negative) ctDNA test result prior to randomization.\n9. Subjects must not have had prior immunotherapy (anti-PD-1 or anti-PD-L1).\n10. No evidence of disease on imaging as per RECIST criteria 1.1.\n11. Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1.\n12. Subjects must have adequate organ function as indicated by the following laboratory values (obtained within 7 days prior to randomization):\n\n    1. Absolute neutrophil count (ANC) ≥ 1.5 x 109/L, platelets ≥ 100 x 109/L, haemoglobin ≥90 g/L. Note: Patients must not have required growth factor support ≤ 14 days before sample collection.\n    2. International normalized ratio (INR) or prothrombin time (PT) ≤ 1.5 x upper limit of normal (ULN).\n    3. Activated partial thromboplastin time (aPTT) ≤ 1.5 x ULN.\n    4. Serum total bilirubin ≤ 1.5 x ULN (total bilirubin must be \\< 3 x ULN for patients with Gilbert's syndrome).\n    5. Aspartate and alanine aminotransferase (AST and ALT) ≤ 3 x ULN.\n    6. Creatinine clearance ≥60 mL/min for participants with creatinine levels above institutional normal (≥ULN). Creatinine clearance should be calculated per the Cockcroft-Gault formula (or local institutional standard method).\n13. Subjects with a social security in compliance with the French law relating to biomedical research (Article L.1121-11 of French Public Health Code).\n14. Subjects should understand, sign, and date the written informed consent form prior to any protocol-specific procedures performed. Patient should be able and willing to comply with study visits and procedures as per protocol.\n15. Females of childbearing potential must be willing to use a highly effective method of birth control for the duration of the trial, and ≥ 120 days after the last dose of the trial drug and have a negative serum pregnancy test ≤ 7 days of the first dose of the trial drug. A barrier contraceptive method (e.g., condom) is also required. A woman is considered of childbearing potential following menarche and until becoming post-menopausal (≥ 12 months of non-therapy-induced amenorrhea) unless permanently sterile. Permanent sterilization methods include hysterectomy, bilateral oophorectomy and bilateral salpingectomy with surgery at least 1 month before the first dose of study drug or confirmed by follicle stimulating hormone (FSH) test \\>40 mIU/mL and estradiol \\<40 pg/mL (\\<140 pmol/L).\n16. Nonsterile males must be willing to use a highly effective method of birth control for the duration of the study and for ≥ 120 days after the last dose of the trial drug. A barrier contraceptive method (e.g., condom) is also required.\n\nExclusion Criteria:\n\n1. Participation in another clinical trial with an investigational product during the last 3 to 4.5 months and while on study treatment\n2. Any condition which in the Investigator's opinion makes it undesirable for the subject to participate in a clinical trial or which would jeopardize compliance with the protocol,\n3. Pregnant or breastfeeding women\n4. Subjects under guardianship or deprived of his liberty by a judicial or administrative decision or incapable of giving its consent.\n5. Patients with confirmed EGFR (Epidermal Growth Factor Receptor ) exon 19 deletions or exon 21 L858R substitutions are excluded from the study, due to the potential benefit from adjuvant osimertinib treatment, which represents a standard of care for these genetic profiles in non-small cell lung cancer (NSCLC).\n6. Treatment with systemic immunostimulatory agents (including but not limited to interferons or interleukin-2) within 4 weeks or five half-lives of the drug, whichever is shorter, prior to enrolment\n7. Treatment with systemic immunosuppressive medication (including, but not limited to, corticosteroids, cyclophosphamide, azathioprine, methotrexate and thalidomide) within 2 weeks prior to initiation of study treatment, or anticipation of need for systemic immunosuppressive medication during study treatment, with the following exceptions:\n\n   * Patients who received acute, low-dose systemic immunosuppressant medication or a one-time pulse dose of systemic immunosuppressant medication (e.g., 48 hours of corticosteroids as premedication for hypersensitivity reaction (e.g., CT scan premedication)) are eligible for the study after Principal investigator approval has been obtained\n   * Patients who received mineralocorticoids (e.g., fludrocortisone), corticosteroids for chronic obstructive pulmonary disease (COPD) or asthma, or low-dose corticosteroids for orthostatic hypotension or adrenal insufficiency are eligible for the study\n   * Patients who received intranasal, inhaled, topical or local steroid injections (e.g., intra articular injection)\n8. Any prior Grade ≥3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE \\> Grade 1.\n9. Known intolerance the study drugs or any of their excipients\n10. Patients with prior allogeneic stem cell or solid organ transplantation\n11. Administration of a live, attenuated vaccine within 4 weeks prior to enrolment or anticipation that such a live, attenuated vaccine will be required during the study or within 5 months after the last dose of the study drugs (except anti-COVID-19 vaccines)\n12. Active or history of autoimmune disease or immune deficiency, with the exception of history of treated autoimmune-related hypothyroidism and Type 1 diabetes mellitus on insulin regimen\n13. History of idiopathic pulmonary fibrosis (including pneumonitis or interstitial lung disease), drug-induced pneumonitis, organizing pneumonia (i.e. bronchiolitis obliterans, cryptogenic organizing pneumonia), or evidence of active pneumonitis (history of radiation pneumonitis in the radiation field (fibrosis) is permitted).\n14. Patients who underwent major surgery within 56 days prior to inclusion or until the surgical wound is fully healed\n15. History of HIV infection\n16. Patients with active hepatitis infection (defined as having a positive hepatitis B surface antigen \\[HBsAg\\] test at screening) or hepatitis C. Patients with past hepatitis B virus (HBV) infection or resolved HBV infection (defined as having a negative HBsAg test and a positive antibody to hepatitis B core antigen \\[anti-HBc\\] antibody test) are eligible. Patients positive for hepatitis C virus (HCV) antibody are eligible only if polymerase chain reaction (PCR) is negative for HCV RNA\n17. Active tuberculosis.\n18. History of severe allergic, anaphylactic, or other hypersensitivity reactions to chimeric or humanized antibodies or fusion proteins\n19. Severe infection within 4 weeks prior to initiation of study treatment, including, but not limited to, hospitalization for complications of infection, bacteremia, or severe pneumonia\n20. Treatment with therapeutic oral or IV antibiotics within 2 weeks prior to initiation of study treatment\n21. Significant cardiovascular disease, such as:\n\n    * History of myocardial infarction, acute coronary syndromes or coronary angioplasty/stenting/bypass grafting within the past 6 months,\n    * Congestive Heart Failure (CHF) NYHA class III or IV or history of CHF NYHA class III or IV, unless an echocardiogram or multi-gated acquisition scan performed within 3 months day 1 reveals a left ventricular ejection fraction ≥ 55%\n22. Uncontrolled hypertension defined by systolic pressure \\> 150 and/or diastolic pressure \\> 110 mmHg, with or without anti-hypertensive medication. Patients with initial blood pressure elevations are eligible if initiation or adjustment of anti-hypertensive medication lowers blood pressure to meet entry criteria\n23. History of stroke or transient ischemic attack within 6 months prior to randomization",
   "enrollment": 717,
   "has_results": false,
@@ -86,19 +85,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
-   "prior_required": [
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 경우",
+    "이전 면역요법 치료 경험이 있는 경우",
+    "기타 동시 진행 중인 다른 임상시험 참여"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": false,
+   "min_prior_lines": 0,
+   "notes_ko": "수술 및 표준 치료를 마친 1~3기 췌장암 환자 중 재발 위험이 있는 환자를 대상으로 하는 3상 임상시험입니다.",
+   "prior_excluded": [
     "immunotherapy"
    ],
+   "prior_required": [],
    "setting": [
-    "metastatic"
+    "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

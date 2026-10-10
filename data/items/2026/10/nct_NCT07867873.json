@@ -1,0 +1,109 @@
+{
+ "abstract": "The primary objective of this study is to assess the added value of surgical exploration with intention for resection compared to MRI guided stereotactic ablative radiotherapy (SABR) in improving overall survival in patients with locally advanced pancreatic carcinoma (LAPC) who show a favourable biological response to systemic induction chemotherapy.\n\nThe current evidence on the added survival benefit of surgery after induction chemotherapy is limited by strong selection bias, and international guidelines state that the longterm survival benefit of surgery in locally advanced pancreatic carcinoma (LAPC) remains uncertain. In parallel, stereotactic ablative radiotherapy (SABR), particulary MRI guided SABR, had emerged as a promising less invasive alternaitve, achieving high local control rates with limited toxicity. Therefore, this international, multicentre, open-label, phase 3 superiority randomized clinical trial assesses whethersurgery improves overall survival as compared to MRI-guided SABR. Primary objective is overall survival, secondary objectives include evaluation of failure free survival, quality of life, and serious adverse events.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07867873",
+ "importance": 0.96,
+ "key_points_ko": [],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07867873"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07867873"
+ },
+ "summary_ko": "The primary objective of this study is to assess the added value of surgical exploration with intention for resection compared to MRI guided stereotactic ablative radiotherapy (SABR) in improving overall survival in patients with locally advanced pancreatic carcinoma (LAPC) who show a favourable biological response to systemic induction chemotherapy. The current evidence on the added survival benefit of surgery after induction chemotherapy is limited by strong selection bias, and international g…",
+ "summary_source": "excerpt",
+ "tags": [
+  "Locally advanced pancreatic carcinoma",
+  "surgery",
+  "radiotherapy",
+  "MRI-guided stereotactic ablative radiotherapy",
+  "stereotactic ablative radiotherapy"
+ ],
+ "title": "Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Carcinoma (LAPC)"
+  ],
+  "contacts": [
+   {
+    "email": "m.g.besselink@amsterdamumc.nl",
+    "name": "Marc Besselink, Prof. MD, Phd, surgeon",
+    "phone": "+31616767330"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age: ≥18 years.\n* Diagnosis:\n\nPatients diagnosed with pathology proven (WHO 6-7) LAPC according to the 2025 NCCN guideline. Of note, WHO-3 is allowed for inclusion in case of evidence for neoplasia by molecular analyses if cystic lesions are absent. Chemotherapy may be started without pathologyproof after a least two attempts via fine-needle biopsy if the patient has a high radiological and clinical suspicion for pancreatic adenocarcinoma and consensus has been reached in the responsible multidisciplinary conference. Furthermore, patients must meet the following established A-B-C parameters after at least three months systemic induction therapy:\n\n* Anatomy:\n* RECIST non-progressive disease on cross-sectional imaging;\n* No radiological downstaging to a borderline resectable tumour;\n* Surgical resection seems potentially feasible according to the local multidisciplinary team\\*;\n* Radiation is technically feasible according to the local multidisciplinary team;\n* Biology:\n* Serum CA19-9 reduction \\>40% with an absolute end value \\<300 U/mL after induction chemotherapy\\*\\*.\n* NB1. If non-elevated serum CA19-9 at diagnosis, metabolic response on 18F-FDG PET scan defined as ≥30% reduction of SUVmax if \\>4 at baseline#.\n* NB2. If non-elevated serum CA19-9 at diagnosis\\*\\* and on 18F-FDG PET scan an SUVmax ≤4 at baseline, non-elevated serum CEA at restaging is required (i.e., ≤5 ng/ml).\n* NB3. If serum CA19-9 after chemotherapy is \\>150 U/ml, a negative staging laparoscopy is required prior to randomization (unless a staging laparoscopy was already performed prior to starting systemic therapy). This is based on the PREOPANC-4 cohort wherein such patients had a 23% risk of peritoneal metastases (vs. 5% with \\<150 U/ml).\n* Condition:\n* ECOG/WHO performance status 0-1 at restaging, being fit for surgery and chemotherapy\n\nNB. If a systemic treatment switch is performed in the setting of induction therapy with the indication of (biochemical) disease progression, restaging according to the above-mentioned criteria are performed with using the A-B-C features between the first- and second-line systemic induction therapy as baseline.\n\n\\* Patients who require a resection of the superior mesenteric artery (SMA) are only allowed for inclusion by centres where this is routine practice, as evidenced by a volume of on average ≥15 SMA resections for periampullary cancer over the preceding three years, considering the high risks of complication-related mortality. This also means that patients with an SMA string sign (i.e. irregularity of the arterial wall) on cross-sectional imaging after systemic induction therapycannot be randomized at centers. At baseline, serum CA19-9 is measured with a total bilirubin as low as possible and measured as short as possible before the start of chemotherapy. At restaging, serum CA19-9 is ideally measured in the same lab due to different essays with widely diverging results.\n\n#Preferably, FDG-PET scan is performed with EARL reconstruction protocol 1 or 2.\n\n\\- Informed consent: Competent and willing to provide informed consent in accordance with the requirements of the ethics committee.\n\nExclusion Criteria:\n\n\\- Prior treatment: Prior systemic induction therapy combined with any type of radiother-apy. Radiotherapy is not used as induction therapy as it has not been proven beneficial and considering the potential increased risk of major morbidity, although particularly seen with external beam radiotherapy. The only other possible indication for radio-therapy that is allowed in this trial is a single fraction of 8 Gray in case of tumour bleed-ing.\n\n\\- Metastatic disease: Presence of metastatic disease\n\n\\- Comorbidities: Clinical deterioration during systemic induction therapy or increase of suspected tumour-related pain after excluding other potential causes of pain (e.g., pancreatitis, stent dysfunction).\n\n\\- History of other malignancies: A past medical history of malignancy, except under the following conditions: no evidence of disease, diagnosis more than three years ago before the diagnosis of pancreatic cancer, and life expectancy of more than five years from date of inclusion. Of note, a past medical history of non-melanoma skin cancer, pancreatic neuroendocrine tumour \\<2 cm, and gastrointestinal stroma tumour (GIST), or any other cancer with a life expectancy beyond five years are no exclusion criteria. Lastly, lesions on CT thorax that are too small to characterize are not considered met-astatic disease. The last exclusion criterium is tumours directly invading gastrointestinal hollow organs, except the duodenum.",
+  "enrollment": 230,
+  "has_results": false,
+  "interventions": [
+   "Pancreatic surgery",
+   "MRI guided stereotactic ablative radiotherapy"
+  ],
+  "last_update_posted": "2026-10-09",
+  "location_countries": [],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07867873",
+  "phase": "PHASE3",
+  "primary_completion_date": "2034-10-01",
+  "sex": "ALL",
+  "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+  "start_date": "2026-10-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

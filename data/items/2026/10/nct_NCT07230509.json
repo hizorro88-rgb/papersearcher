@@ -23,8 +23,8 @@
  "importance": 0.8,
  "key_points_ko": [
   "목표 환자 수는 90명입니다.",
-  "중재 방법은 N-butyl-2-cyanoacrylate(Histoacryl®)의 췌장 실질 주입입니다.",
-  "주요 평가지표는 수술 후 췌장 누출(POPF) 발생률입니다."
+  "중재 방법은 췌장 실질에 N-butyl-2-cyanoacrylate(Histoacryl®) 주입입니다.",
+  "주요 평가 변수는 췌장공장문합술 후 수술 후 췌장 누출(POPF) 발생률입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07230509"
  },
- "summary_ko": "본 임상시험은 췌십이지장절제술(pancreaticoduodenectomy, PD)을 받는 환자에게 N-butyl-2-cyanoacrylate(Histoacryl®)를 췌장 실질(pancreatic parenchyma)에 주입하여 췌장공장문합술(pancreaticojejunostomy, PJ)의 안전성을 높이고 수술 후 췌장 누출(postoperative pancreatic fistula, POPF) 발생률을 줄이는지 평가합니다. 연구 대상은 90명의 환자이며, 시험군과 표준 췌장공장문합술을 시행하는 대조군으로 무작위 배정합니다. 주요 평가지표는 국제췌장수술연구그룹(ISGPS) 정의에 따른 POPF 발생률입니다.",
+ "summary_ko": "본 임상시험은 췌십이지장절제술(PD) 중 N-butyl-2-cyanoacrylate(Histoacryl®)(NBCA)를 췌장 실질에 주입하여 췌장공장문합술(PJ)의 안전성을 높이고 수술 후 췌장 누출(POPF) 발생률을 줄이는지 평가합니다. 90명의 환자를 대상으로 하며, NBCA 주입군과 표준 췌장공장문합술을 받는 대조군으로 무작위 배정합니다. 주요 결과 지표는 국제 췌장수술 연구 그룹(ISGPS) 기준에 따른 POPF 발생률입니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic surgery",
@@ -75,7 +75,7 @@
     "phone": "01201765401"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 임상 지침에 따라 근치적 치료 목적으로 악성 병변에 대해 췌십이지장절제술을 받는 환자\n* 부드러운 췌장 질감\n* 작은 주췌관 직경 (<3 mm)\n* 동의서 획득\n\n제외 기준:\n* cyanoacrylate 또는 Lipiodol®에 대한 알려진 과민반응\n* 극도로 단단하고 섬유화된 췌장\n* 남은 췌장을 침범하는 심각한 췌장염\n* 수술 부위의 활성 감염\n* 조절되지 않는 응고장애\n* 심각한 내과적 질환으로 수술에 부적합한 환자\n* 복막, 간, 원격 림프절 전이 및 다른 장기 침범 등 원격 전이가 있는 수술 불가능 환자\n* 진단적 복강경 검사에서 절제 불가능한 종양\n* 좌측, 중앙, 전 췌장절제술 또는 기타 완화적 수술이 필요한 환자\n* 임신 중이거나 수유 중인 여성\n* 심각한 정신 장애가 있는 환자\n* 혈관 침간이 있어 혈관 절제가 필요한 환자\n* 연구 참여를 거부한 환자",
+  "eligibility_ko": "선정 기준:\n- 임상 가이드라인에 따른 근치적 치료 목적으로 악성 병변에 대해 췌십이지장절제술을 받는 환자\n- 부드러운 췌장 조직(Soft pancreatic texture)\n- 작은 주췌관 직경(<3 mm)\n- 동의서 획득\n\n제외 기준:\n- 시아노아크릴레이트(cyanoacrylate) 또는 리피오돌(Lipiodol®)에 알려진 과민반응이 있는 경우\n- 극도로 단단하고 섬유화된 췌장\n- 췌장 잔여부에 관련된 유의한 췌장염\n- 수술 부위의 활동성 감염\n- 조절되지 않는 응고장애",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients undergoing pancreaticoduodenectomy for malignant lesions meeting the curative treatment intent in accordance with clinical guidelines.\n* Soft pancreatic texture.\n* Small main pancreatic duct diameter (\\<3 mm).\n* Informed consent obtained.\n\nExclusion Criteria:\n\n* Known hypersensitivity to cyanoacrylate or Lipiodol®.\n* Extremely hard, fibrotic pancreas.\n* Significant pancreatitis involving the pancreatic remnant.\n* Active infection at the surgical site.\n* Uncontrolled coagulopathy.\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients with distant metastases, including peritoneal, liver, distant lymph node metastases, and involvement of other organs.\n* Irresectable tumors in diagnostic laparoscopy.\n* Patients requiring left, central or total pancreatectomy or other palliative surgery.\n* Pregnant or breastfeeding women.\n* Patients with serious mental disorders.\n* Patients with vascular invasion and requiring vascular resection.\n* Patients refused to participate in the study.",
   "enrollment": 90,
   "has_results": false,
@@ -92,17 +92,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "시아노아크릴레이트 또는 리피오돌 과민반응",
+    "원격 전이가 있는 수술 불가 환자",
+    "임신부 또는 수유부",
+    "심각한 정신 질환이 있는 환자",
+    "혈관 침존으로 혈관 절제가 필요한 환자"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "근치 목적의 췌십이지장절제술을 받는 췌장암 및 주위 부위 암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "adjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

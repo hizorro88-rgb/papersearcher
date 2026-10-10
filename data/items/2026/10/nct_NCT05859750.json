@@ -23,10 +23,10 @@
  "id": "nct:NCT05859750",
  "importance": 0.8,
  "key_points_ko": [
-  "임상시험 단계: 2상(PHASE2)",
-  "목표 환자 수: 78명",
-  "대상 환자 연령: 18세~75세",
-  "중재 치료: AK104, Gemcitabine, Nab-Paclitaxel, Liposomal Irinotecan, Oxaliplatin, 5-Fluorouracil/Calcium folinate, Oxaliplatin + Irinotecan + 5-Fluorouracil/Leucovorin"
+  "대상 질환: 진행성 절제 불가능 또는 전이성 췌관선암(pancreatic ductal adenocarcinoma)",
+  "중재 방법: AK104와 항암화학요법 병용 1차 치료",
+  "목표 인원: 78명",
+  "효과 및 결과 수치: 초록에 명시되지 않음"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05859750"
  },
- "summary_ko": "이 연구는 진행성 절제 불가능 또는 전이성 췌장관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 PD-1/CTLA-4 이중특이항체(bispecific antibody)인 AK104와 항암화학요법을 병용한 1차 치료의 안전성, 내약성, 약동학(pharmacokinetics, PK), 면역원성, 약력학(pharmacodynamics, PD) 및 항종양 활성을 평가하기 위한 다기관, 공개, 2상 임상시험입니다. 목표 환자 수는 78명이며, 연령은 18세부터 75세까지입니다. 초록에 명시되지 않음",
+ "summary_ko": "이 연구는 진행성 절제 불가능 또는 전이성 췌장선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 PD-1/CTLA-4 이중항체인 AK104와 항암화학요법을 1차 치료로 병용하여 안전성, 내약성, 약동학(pharmacokinetics, PK), 면역원성, 약력학(pharmacodynamics, PD) 및 항종양 활성을 평가하기 위한 다기관, 공개, 2상 임상시험입니다. 대상 질환은 췌장암이며, 목표 인원은 78명입니다. 구체적인 생존기간이나 반응률 등의 결과는 초록에 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study of AK104 With Chemotherapy as First-line Treatment in Patients With Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자에서 1차 치료로서 항암화학요법과 병용한 AK104 연구",
+ "title_ko": "진행성 췌장암 환자를 위한 AK104와 항암화학요법 병용 1차 치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -67,7 +67,7 @@
     "phone": "+86-0760-89873999"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 75세 이하의 성인\n- 조직학적 또는 세포학적으로 확진된 췌장관선암(PDAC)\n- 국소 진행성 또는 전이성 췌장암에 대해 이전에 전신 치료를 받지 않은 환자\n- RECIST v1.1 기준에 따른 측정 가능한 종양 병소가 최소 1개 이상인 환자\n- 동부협력종양군(ECOG) 활동도 점수가 0 또는 1인 환자\n- 예상 생존기간이 3개월 이상인 환자\n\n제외 기준:\n- 선방세포암(acinar cell carcinoma), 췌장 신경내분비종양(pancreatic neuroendocrine neoplasms), 췌장모세포종(pancreatoblastoma) 등 다른 병리학적 유형\n- 활성 또는 치료되지 않은 뇌 전이, 수막 전이, 척수 압박 등이 있는 환자\n- 알려진 생식세포 BRCA1/2 돌연변이가 있는 환자\n- 빈번한 배액이 필요한 임상적으로 증상이 있는 흉수, 심낭수, 복수가 있는 환자\n- 이전에 종양 면역 기전을 표적 하는 치료를 받은 적이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 만 75세 이하의 성인\n- 조직학적 또는 세포학적으로 확진된 췌장선암(PDAC)\n- 국소 진행성 또는 전이성 췌장암에 대한 이전 전신 치료력이 없는 환자 (근치적 목적의 유도 항암화학요법, 동시 화학방사선치료, 수술 전후 보조항암화학요법을 받은 경우 마지막 치료와 질병 진행 사이의 간격이 최소 6개월 이상이어야 함)\n- RECIST v1.1 기준 최소 1개의 측정 가능한 종양 병변 보유\n- ECOG 수행능력 상태 0 또는 1\n- 예상 생존기간 3개월 이상\n\n제외 기준:\n- 선방세포암, 췌장 신경내세포종, 췌장모세포종 등 다른 병리적 유형\n- 활동성이거나 미치료된 뇌전이, 수막전이, 척수 압박 또는 연수막 질환\n- 알려진 생식세포 BRCA1/2 변이 보유\n- 잦은 배액이 필요한 임상적 증상이 있는 흉수, 심낭수, 복수\n- 과거 3년 이내의 다른 활동성 악성종양\n- 면역 조절 기전을 타겟으로 하는 이전 치료를 받은 환자\n- 활동성 자가면역질환, B형/C형 간염, HIV 감염, 결핵 또는 기타 활동성 감염",
   "eligibility_text": "Inclusion Criteria:\n\n1. Ability to understand and voluntarily sign a written informed consent form (ICF), which must be signed before the specified study procedures required for the study are performed.\n2. Males or females aged ≥ 18 years and ≤ 75 years at the time of signing the ICF.\n3. Histologically or cytologically confirmed pancreatic ductal adenocarcinoma (PDAC).\n4. Patients have not received prior systemic therapy for locally advanced or metastatic pancreatic cancer; for patients who have received prior induction chemotherapy, concurrent chemoradiotherapy, or adjuvant/neoadjuvant chemotherapy for curative intent, the time between disease progression and last treatment should be at least 6 months.\n5. Patients have at least one measurable tumor lesion per RECIST v1.1; lesions that received radiotherapy are not selected as target lesions, unless the lesion is the only measurable lesion and has unequivocal progression as judged by imaging, it can be considered as a target lesion.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n7. Expected survival ≥ 3 months.\n8. Patients who have adequate organ function.\n9. Women of childbearing potential must have a negative serum pregnancy test within 7 days prior to the first dose and agree to take effective contraception measures during the study drug administration and within 120 days after the last dose. Male patients with female partners of childbearing potential must agree to take effective contraception measures during the study drug administration and within 120 days after the last dose.\n\nExclusion Criteria:\n\n1. Histologically or cytologically confirmed other pathological types, such as acinar cell carcinoma, pancreatic neuroendocrine neoplasms or pancreatoblastoma.\n2. Known active or untreated brain metastases, meningeal metastases, spinal cord compression, or leptomeningeal disease.\n3. Patients with known germ line BRAC1/2 mutation.\n4. Presence of clinically symptomatic pleural effusion, pericardial effusion, or ascites requiring frequent drainage (≥ 1/month).\n5. Patients who, in the opinion of the investigator, have symptoms or signs suggestive of clinically unacceptable deterioration of the primary disease at the time of screening.\n6. Active malignancies within the past 3 years, with the exception of tumors in this study and cured local tumors.\n7. Major surgery other than the diagnosis of pancreatic cancer within 28 days prior to the first dose or major surgery is expected during the study.\n8. Pregnant or lactating women.\n9. Patients who received any prior treatments targeting the mechanism of tumor immunity.\n10. Patients with known contraindications to prescribed chemotherapy regimen (see instructions for specific drug).\n11. Patients with known medical history of severe hypersensitivity reactions to other monoclonal antibodies or intravenous gamma globulin.\n12. Active autoimmune disease within 2 years prior to the start of study treatmen.\n13. Known active pulmonary tuberculosis.\n14. Patients with active hepatitis B or active hepatitis C.\n15. Known medical history of immunodeficiency or positive HIV test.\n16. Patients with active infection.\n17. Known history of allogeneic organ transplantation and allogeneic hematopoietic stem cell transplantation.\n18. Concurrent participation in another clinical study, unless it is an observational, non-interventional clinical study or the follow-up period of an interventional study.\n19. Any condition that, in the opinion of the Investigator, may result in a risk when receiving the study drug, or would interfere with the evaluation of the study drug or the safety of patients, or the interpretation of the study results.",
   "enrollment": 78,
   "has_results": false,
@@ -85,21 +85,30 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [],
+   "biomarkers_excluded": [
+    "BRCA_PALB2"
+   ],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "뇌전이, 수막전이 또는 척수 압박이 있는 경우",
+    "BRCA1/2 유전자 변이가 있는 경우",
+    "과거 3년 이내 다른 암 병력이 있는 경우",
+    "활동성 자가면역질환이나 감염이 있는 경우"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료를 받지 않은 진행성 또는 전이성 췌장선암 환자를 위한 1차 치료 임상시험입니다.",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

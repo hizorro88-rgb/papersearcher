@@ -24,10 +24,9 @@
  "id": "nct:NCT07076212",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 52명입니다.",
-  "이전에 치료받은 적이 없는 국소 진행성 및 전이성 췌장관암종(PDAC) 환자를 대상으로 합니다.",
-  "NALIRIFOX 요법과 mGAP 요법의 객관적 반응률(ORR) 등을 비교합니다.",
-  "초록에 구체적인 임상시험 최종 결과 수치는 명시되지 않았습니다."
+  "국소 진행성 및 전이성 췌장관선암(PDAC) 환자를 대상으로 NALIRIFOX와 mGAP 요법을 비교하는 2상 임상시험입니다.",
+  "목표 환자 수는 총 52명이며 국내 기관은 참여하지 않습니다.",
+  "이전 선행 치료를 받지 않은 1차 치료 환자가 대상입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -52,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07076212"
  },
- "summary_ko": "이 연구는 이전에 치료받지 않은 국소 진행성(절제 불가능) 및 전이성 췌장관암종(PDAC) 환자를 대상으로 NALIRIFOX 요법(그룹 1)과 mGAP 요법(그룹 2)의 효능을 비교하는 단일 기관, 공개, 무작위 2상 임상시험입니다. 췌장관암종(PDAC)은 치명적인 악성 종양 중 하나로, 전이성 환자에게는 증상 완화와 생존 기간 연장을 위해 전신 항암화학요법을 시행합니다. 연구진은 젬시타빈(gemcitabine) 기반의 mGAP 요법이 NALIRIFOX보다 객관적 반응률(ORR)을 더 높일 수 있는지 평가하고자 합니다. 본 임상시험의 목표 인원은 52명이며, 초록에 명시되지 않은 최종 결과는 초록에 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 이전에 치료받은 적이 없는 국소 진행성(수술 불가) 및 전이성 췌장관선암(PDAC) 환자를 대상으로 NALIRIFOX 치료와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP) 치료의 효과를 비교하는 단일 기관, 공개, 무작위 2상 임상시험입니다. 췌장암은 매우 예후가 나쁜 악성 종양 중 하나이며, 새로운 1차 전신 항암 치료 옵션을 발굴하는 것이 시급합니다. 연구진은 mGAP 요법이 NALIRIFOX에 비해 객관적 반응률(ORR)을 더 높일 수 있는지 평가하고자 합니다. 본 시험의 목표 인원은 52명이며 현재 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Evaluating NALIRIFOX vs Modified Gemcitabine, Nab-Paclitaxel and Cisplatin in Patients With Locally Advanced and Metastatic Pancreatic Adenocarcinoma",
- "title_ko": "국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·냡-파클리탁셀·시스플라틴(mGAP) 비교 임상시험",
+ "title_ko": "국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Adenocarcinoma",
@@ -69,7 +68,7 @@
     "phone": "843-792-9321"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 서면 동의서를 서명하고 날짜를 기입한 환자\n- 모든 연구 절차를 준수할 의향이 있고 연구 기간 동안 참여 가능한 환자\n- 18세 이상의 남성 또는 여성\n- 가임 여성의 경우 스크리닝 전 최소 1개월 동안 고효율 피임법을 사용하고 연구 참여 중 및 마지막 투여 후 9개월 동안 피임 유지\n- 스크리닝 시 소변 또는 혈청 임신 테스트에서 음성인 가임 여성\n- 가임 남성의 경우 연구 기간 및 마지막 투여 후 4개월 동안 파트너와 함께 콘돔 등 효과적인 피임법 사용\n- 이전에 치료받은 적이 없고 조직학적으로나 세포학적으로 확진된 국소 진행성 또는 전이성 췌장관암종(PDAC)\n- RECIST 1.1 기준에 따라 방사학적으로 확인된 측정 가능한 국소 진행성 또는 전이성 췌장관암종(PDAC)\n- 국소 진행성, 절제 불가능한 질병 또는 전이로 인해 수술 불가능한 상태\n- 동유럽종양협력그룹(ECOG) 수행능력 상태 0-2\n- 절대호중구수(ANC) ≥1500/mm3, 혈소판 수 ≥100,000/mm3, INR <1.5(항응고 치료 중인 경우는 예외), 혈청/혈장 크레아티닌 <1.6 mg/dL인 적절한 장기 기능\n\n제외 기준:\n- 임신 또는 수유 중인 환자\n- 프로토콜 시작 30일 이내에 다른 임상시험용 의약품 또는 중재 치료를 받은 환자\n- mGAP 또는 NALIRIFOX 성분에 대한 알려진 과민 반응/알레르기 반응이 있는 환자\n- 연구자의 판단에 따라 동의서 작성, 협조, 참여를 방해하거나 결과 해석에 지장을 줄 수 있는 의학적 또는 사회적 상태가 있는 환자\n- 연구 절차 및 방문을 따를 의사가 없거나 따를 수 없는 환자\n- 조절되지 않는 활성 감염이 있는 환자\n- 선암종(adenocarcinoma)이 아닌 다른 조직학적 진단을 받은 환자\n- 주요 복부 수술을 불가능하게 하는 의학적 동반 질환이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 작성하고 연구 절차를 준수할 의사가 있는 18세 이상 남녀\n- 조직학적 또는 세포학적으로 확진되었으며 이전에 치료받지 않은 국소 진행성 또는 전이성 췌장관선암(PDAC)\n- 방사선학적으로 확인된 측정 가능한(RECIST 1.1 기준) 국소 진행성 또는 전이성 병변\n- 국소 진행성 절제 불능 또는 전이로 인해 수술이 불가능한 상태\n- 동유럽종양학협력그룹(ECOG) 수행능력 상태 0~2\n- 적절한 혈액학적, 생화학적 및 장기 기능 기준 충족 (절대호중구수 ≥1500/mm3, 혈소판 ≥100,000/mm3 등)\n\n제외 기준:\n- 임신 중이거나 수유 중인 환자\n- 프로토콜 시작 30일 이내에 다른 임상시험용 의약품이나 중재 치료를 받은 경우\n- mGAP 또는 NALIRIFOX 구성 성분에 대한 알려진 과민증 또는 알레르기 반응\n- 연구 참여나 결과 해석에 방해가 될 수 있는 의학적 또는 사회적 상태\n- 조절되지 않는 활동성 감염\n- 선암(adenocarcinoma)이 아닌 다른 조직학적 진단\n- 주요 복부 수술을 방해할 수 있는 동반 질환",
   "eligibility_text": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female, aged ≥18 years\n* For females of reproductive potential: use of highly effective contraception for at least 1 month before screening and agreement to use such a method during study participation and for an additional 9 months after the end of the last dose of study medication administration\n* Female patients including WOCBP must test negative for pregnancy at the time of screening based on a urine or serum pregnancy test.\n* For males of reproductive potential: use of condoms or other methods to ensure effective contraception with a partner during the study and for 4 months after the last dose of study medication.\n* Histologically or cytologically confirmed locally advanced or metastatic PDAC that has not been previously treated\n* Radiographically confirmed measurable (per RECIST 1.1) locally advanced or metastatic PDAC per the National Comprehensive Cancer Network (NCCN) definition.\n* Inoperable status due to the presence of locally advanced, unresectable disease with or metastases.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Hematological, biochemical, and organ function inclusion criteria:\n\n  * Absolute neutrophil count (ANC) ≥1500/mm3 without the use of hemopoietic growth factors within 7 days before treatment\n  * Platelet count ≥100,000/mm3.\n  * International normalized ratio (INR) \\<1.5 unless the patient is receiving anticoagulation therapy, in which case a therapeutic INR is acceptable. Anticoagulation therapy with low-molecular weight heparin or warfarin, whether medically indicated, is permitted.\n  * Adequate renal function, as evidenced by serum/plasma creatinine level \\<1.6 mg/dL\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Treatment with another investigational drug or other intervention within 30 days of protocol initiation.\n* Known hypersensitivity/allergic reaction to any of the components of the therapeutic agents in mGAP or NALIRIFOX.\n* Any other medical or social condition deemed by the investigator to be likely to interfere with a subject's ability to sign informed consent, cooperate, and participate in the study or who is likely to interfere with the interpretation of the results.\n* Unwilling or unable to comply with study procedures and/or study visits.\n* Uncontrolled, active infection\n* Histologic diagnosis other than adenocarcinoma.\n* Medical co-morbidities, that preclude major abdominal surgery",
   "enrollment": 52,
   "has_results": false,
@@ -91,18 +90,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 환자",
+    "조절되지 않는 활동성 감염",
+    "선암(adenocarcinoma)이 아닌 다른 조직학적 진단",
+    "주요 복부 수술이 불가능한 동반 질환"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

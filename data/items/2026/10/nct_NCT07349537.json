@@ -20,9 +20,9 @@
  "id": "nct:NCT07349537",
  "importance": 0.79,
  "key_points_ko": [
-  "연구 대상 질환은 췌장암을 포함한 KRAS G12V 변이 진행성 고형암입니다.",
-  "RMC-5127 단독 요법, RMC-5127과 daraxonrasib 병용 요법, RMC-5127과 cetuximab 병용 요법을 평가합니다.",
-  "총 목표 인원은 574명입니다."
+  "대상 질환은 진행성 KRAS G12V 변이 고형암이며 췌장암 선암(PDAC)이 포함됩니다.",
+  "RMC-5127 단독 요법, RMC-5127과 daraxonrasib 병용 요법, RMC-5127과 cetuximab 병용 요법의 세 가지 치료 팔(arm)로 진행됩니다.",
+  "초록에 명시된 목표 인원은 총 574명입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07349537"
  },
- "summary_ko": "이 연구는 진행성 KRAS G12V 변이 고형암 환자를 대상으로 RMC-5127 단독 요법 및 daraxonrasib 또는 cetuximab 병용 요법의 안전성, 내약성, 약동학(PK) 및 예비 항종양 활성을 평가합니다. 췌장암 환자도 연구 대상에 포함됩니다. 임상시험은 공개, 다기관, 1/1b상으로 진행되며 용량 탐색과 용량 확장 파트로 구성됩니다. 목표 환자 수는 574명입니다.",
+ "summary_ko": "이 임상시험은 진행성 KRAS G12V 변이 고형암 성인 환자를 대상으로 RMC-5127 단독 요법 및 daraxonrasib 또는 cetuximab 병용 요법의 안전성과 내독성, 약동학(PK), 예비 항종양 활성을 평가합니다. 췌장암 선암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자도 참여 대상에 포함됩니다. 연구는 용량 탐색(Part 1)과 용량 확장(Part 2)의 두 부분으로 구성된 공개 다기관 1/1b상 시험입니다. 목표 환자 수는 574명입니다.",
  "summary_source": "llm",
  "tags": [
   "Advanced Solid Tumors",
@@ -83,7 +83,7 @@
     "phone": "1-844-2-REVMED"
    }
   ],
-  "eligibility_ko": "선정 기준: - 만 18세 이상이며 동의서를 제출한 환자 - 동유럽협력종양학그룹(ECOG) 신체 상태 평가 0 또는 1 - 병리학적으로 문서화된 국소 진행성 또는 전이성 KRAS G12V 변이 고형암 악성 종양 - 종양 유형과 병기에 적절한 이전 표준 치료에 실패했거나 불내성이 확인된 환자 - RECIST v1.1 기준에 따른 측정 가능한 병변 - 적절한 장기 기능 보유 - 경구 투여 가능자. 제외 기준: - 원발성 중추신경계(CNS) 종양 - 이전 KRAS G12V 억제제 또는 직접 RAS 표적 치료 이력 - 연구 약물의 복용 또는 흡수에 영향을 미칠 수 있는 상태 - 연구 약물 투여 전 28일 이내의 대수술 이력 - 프로토콜에 따른 방문이나 절차를 따를 수 없거나 원하지 않는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 동의서를 제출한 환자\n- Eastern Cooperative Oncology Group(ECOG) 수행능력 상태가 0 또는 1인 환자\n- 병리학적으로 진단된 국소 진행성 또는 전이성 KRAS G12V 변이 고형암 환자\n- 종양 유형 및 병기에 적합한 이전 표준 치료(표적 치료 포함)를 받았으나 진행되었거나 불내성이 있는 환자\n- RECIST v1.1 기준에 따른 측정 가능 병변이 있는 환자\n- 적절한 장기 기능을 가진 환자\n- 경구 약물 복용이 가능한 환자\n\n제외 기준:\n- 원발성 중추신경계(CNS) 종양 환자\n- KRAS G12V 억제제 또는 직접적인 RAS 표적 치료(분해제 및/또는 억제제 등)를 받은 이력이 있는 환자\n- 연구 약물의 복용 또는 흡수에 영향을 미칠 수 있는 상태가 있는 환자\n- 연구 약물 투여 전 28일 이내에 대수술을 받은 환자\n- 프로토콜에서 요구하는 연구 방문이나 절차를 따를 수 없거나 의지가 없는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Pathologically documented, locally advanced or metastatic KRAS G12V-mutated solid tumor malignancy.\n* Received and progressed or been intolerant to prior standard therapy (including targeted therapy) appropriate for tumor type and stage.\n* Measurable per RECIST v1.1\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Primary central nervous system (CNS) tumors\n* Prior therapy with KRAS G12V inhibitor or direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* Any conditions that may affect the ability to take or absorb study drug.\n* Major surgery within 28 days prior to receiving study drug(s).\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures.",
   "enrollment": 574,
   "has_results": false,
@@ -103,11 +103,16 @@
     "KRAS_G12V"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "원발성 중추신경계(CNS) 종양",
+    "이전 KRAS G12V 억제제 또는 직접 RAS 표적 치료 이력",
+    "연구 약물 복용이나 흡수에 영향을 미치는 상태",
+    "최근 28일 이내 대수술 병력"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "이전 치료 경험이 있고 국소진행성이거나 전이된 KRAS G12V 변이 췌장암 환자",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],
@@ -116,7 +121,7 @@
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

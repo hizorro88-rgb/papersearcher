@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "folfirinox"
@@ -22,9 +22,10 @@
  "id": "nct:NCT05462496",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 25명이며, 마운트 시나이 암센터(Mount Sinai Health System, Tisch Cancer Institute) 등에서 진행됩니다.",
-  "일차 평가지표는 HLA-DR, CD38, CD25, KI67, CD69 등의 T세포 마커 중 하나 이상에서 기저치 대비 20% 이상 증가한 면역 반응 달성 여부입니다.",
-  "연구에 사용되는 중재법에는 FOLFIRINOX 항암화학요법, ciprofloxacin, metronidazole, pembrolizumab, 종양 생검 및 수술적 절제 등이 포함됩니다."
+  "목표 환자 수는 총 25명이며, 다기관 공개 단일군 파일럿 연구로 진행됩니다.",
+  "주요 평가지표는 T 세포 표지자(HLA-DR, CD38, CD25, KI67, CD69 중 하나 이상)의 20% 이상 발현 증가로 정의되는 면역 반응 달성 여부입니다.",
+  "이차 평가지표에는 이상반응(CTCAE v5.0 기준), R0 절제율, 조직학적 퇴행 점수, 객관적 반응률(ORR), 전체 생존율(OS)이 포함됩니다.",
+  "시험 치료는 ciprofloxacin 및 metronidazole 항생제, pembrolizumab 면역치료, 그리고 FOLFIRINOX(5-FU, leucovorin, irinotecan, oxaliplatin) 항암화학요법으로 구성됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05462496"
  },
- "summary_ko": "본 임상시험은 수술이 가능한(resectable) 췌장암 환자 25명을 대상으로 FOLFIRINOX 항암화학요법 이후 항생제와 pembrolizumab(펨브롤리주맙)을 투여하여 면역 활성화 변화를 확인하는 다기관 단일군 파일럿 연구입니다. 주요 목적은 항생제와 펨브롤리주맙 치료 후 췌장 종양 조직 내 면역 활성화를 확인하는 것입니다. 이차 목적에는 수술 전 항생제와 펨브롤리주맙 병용 요법의 안전성과 타당성, 그리고 예비 항종양 활성을 평가하는 것이 포함됩니다.",
+ "summary_ko": "이 임상시험은 수술이 가능한(resectable) 췌장암 환자 25명을 대상으로 FOLFIRINOX 항암화학요법 이후 항생제(ciprofloxacin, metronidazole)와 면역관문억제제인 pembrolizumab(펨브롤리주맙)을 수술 전에 병용 투여하는 2상 파일럿 연구입니다. 주요 목적은 항생제와 pembrolizumab 치료 후 췌장 종양 조직 내 면역 활성화 변화를 확인하는 것입니다. 이차 및 탐색적 목적을 통해 수술 전 병용 치료의 안전성, 타당성, 예비 항종양 효과, 그리고 장내 미생물 고갈 및 면역 반응 간의 상관관계 등을 평가합니다. 환자들은 항암 치료 후 항생제와 pembrolizumab을 투여받고 최종 수술적 절제를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
@@ -60,7 +61,7 @@
   "chemotherapy"
  ],
  "title": "Modulation of the Gut Microbiome With Pembrolizumab Following Chemotherapy in Resectable Pancreatic Cancer",
- "title_ko": "수술 가능한 췌장암에서 항암화학요법 후 항생제와 펨브롤리주맙을 이용한 장내 미생물 조절",
+ "title_ko": "수술 가능 췌장암에서 항암화학요법 이후 항생제와 pembrolizumab을 이용한 장내 미생물 조절",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -77,7 +78,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 조직학적으로 확인된 췌장 선암종(pancreatic adenocarcinoma)\n• 임상 병기 T1-3, N0-2, M0 (AJCC 제8판 기준)\n• NCCN 가이드라인 2.2021 및 췌장 프로토콜 이중기 동맥조영 CT에 따른 절제 가능 췌장암\n• 18세 초과의 연령\n• 치료 전 생검, 치료 중 생검, 그리고 최종 수술적 절제에 동의한 환자\n• ECOG 전신 수행 능력 상태 0 또는 1\n• 췌장암 진단 후 이전 치료력이 없는 환자\n• 적절한 골수 및 장기 기능을 충족하는 환자\n\n제외 기준:\n• 경계성 절제 가능(borderline resectable), 국소 진행성(locally advanced) 또는 원격 전이성 질환\n• 높은 이환율/사망률 위험으로 인해 췌장암의 근치적 수술적 절제가 금기인 의학적 상태\n• 최근 2년 이내에 전신 치료가 필요했던 활성 자가면역 질환\n• 증상이 있거나 치료 관련 폐 독성 관리/발견을 방해할 수 있는 간질성 폐질환\n• 통제되지 않거나 유의미한 심혈관 질환, 활동성 감염, 만성 항생제/항진균제 치료 필요 상태, 조절되지 않는 염증성 장질환\n• 스크리닝 전 28일 이내에 생백신 또는 약독화 생백신을 투여받은 경우\n• 스크리닝 전 28일 이내 프로바이오틱스 사용\n• 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n• 조직학적으로 확정된 췌장선암(pancreatic adenocarcinoma)\n• AJCC 제8판 기준 임상 병기 T1-3, N0-2, M0\n• NCCN 가이드라인에 따른 수술 가능(resectable) 췌장암\n• 18세 초과의 연령\n• 치료 전 조직검사, 치료 중 조직검사, 확정적 수술적 절제에 동의한 환자\n• ECOG 수행능력 상태 0 또는 1\n• 췌장암 진단 후 이전 치료력이 없는 환자\n• 정상적인 장기 및 골수 기능 유지\n\n제외 기준:\n• 경계성 수술 가능(borderline resectable), 국소 진행성 또는 원격 전이성 질환\n• 고위험군으로 인해 수술적 절제가 금기인 경우\n• 최근 2년 이내 전신 치료가 필요한 활동성 자가면역질환이 있는 경우\n• 증상이 있거나 치료 관련 독성 관리에 방해되는 간질성 폐질환\n• 스크리닝 전 28일 이내에 비경구 또는 경구 항균, 항바이러스, 항진균 치료가 필요한 조절되지 않는 활동성 감염\n• 크론병, 궤양성 대장염 등 조절되지 않는 염증성 장 질환\n• 스크리닝 전 28일 이내 프로바이오틱스(유산균) 사용력이 있는 경우\n• 임신 또는 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed pancreatic adenocarcinoma. Histologies other than adenocarcinoma, or any mixed histologies, will NOT be eligible. \\*Note: histology must be confirmed prior to study treatment, however, participants may be consented to study based on imaging results consistent with pancreatic adenocarcinoma and then undergo diagnostic and research biopsy simultaneously.\n* Clinical stage T1-3, N0-2, M0 (per AJCC 8th ed)\n* Resectable pancreatic cancer as defined by NCCN Guidelines 2.2021 and based on pancreatic protocol dual-phase CT imaging. Multi-detector computed tomography (MDCT) angiography, performed by acquiring thin, preferably sub-millimeter, axial sections using a dual-phase pancreatic protocol, with images obtained in the pancreatic and portal venous phase of contrast enhancement, is required.\n\n  * No arterial tumor contact (celiac axis \\[CA\\], superior mesenteric artery \\[SMA\\], or common hepatic artery \\[CHA\\])\n  * No tumor contact with the superior mesenteric vein (SMV) or portal vein (PV) or ≤180° contact without vein contour irregularity\n* Age \\> 18 years\n* Patients must agree to pre-treatment biopsy(which may have been collected on a universal consent), on-treatment biopsy, and definitive surgical resection\n* ECOG performance status of 0 or 1\n* No prior treatment for diagnosis of pancreatic cancer\n* Normal organ and marrow function as defined below:\n\n  * Absolute neutrophil count (ANC) ≥1500/µL\n  * Platelets ≥100 000/µL\n  * Hemoglobin ≥9.0 g/dL or ≥5.6 mmol/L (Criteria must be met without erythropoietin dependency and without packed red blood cell (pRBC) transfusion within last 2 weeks. )\n  * Creatinine ≤1.5 × ULN OR Measured or calculated creatinine clearance (Creatinine clearance (CrCl) should be calculated per institutional standard., GFR can also be used in place of creatinine or CrCl) ≥30 mL/min for participant with creatinine levels \\>1.5 × institutional ULN; ; GFR=glomerular filtration rate; ULN=upper limit of normal .\n  * Total bilirubin ≤1.5 ×ULN OR direct bilirubin ≤ULN for participants with total bilirubin levels \\>1.5 × ULN AST (SGOT) and ALT (SGPT) ≤2.5 × ULN; ALT (SGPT) =alanine aminotransferase (serum glutamic pyruvic transaminase); AST (SGOT) =aspartate aminotransferase (serum glutamic oxaloacetic transaminase);\n  * International normalized ratio (INR) OR prothrombin time (PT) Activated partial thromboplastin time (aPTT) ≤1.5 × ULN unless participant is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants\n\nNote: This table includes eligibility-defining laboratory value requirements for treatment; laboratory value requirements should be adapted according to local regulations and guidelines for the administration of specific chemotherapies.\n\n* Ability to understand and sign a written informed consent document. Participant must have willingness and ability to comply with scheduled visits, treatment plans, laboratory tests and other study procedures.\n* A female participant is eligible to participate if she is not pregnant , not breastfeeding, and at least one of the following conditions applies:\n\n  * Not a woman of childbearing potential (WOCBP) OR\n  * A WOCBP who agrees to follow the study contraceptive guidance during the treatment period and for at least 120 days plus 30 days (a menstruation cycle) after the last dose of study treatment.\n* Males who are sexually active with WOCBP must agree to follow study instructions for method(s) of contraception for the duration of treatment with study treatment(s) and for a total of 180 days post treatment completion. In addition, male participants must be willing to refrain from sperm donation during this time.\n\nExclusion Criteria:\n\n* Borderline resectable, locally advanced or distant metastatic disease\n* Any medical condition which makes definitive surgical resection of the pancreatic cancer contraindicated due to high risk of morbidity/mortality\n* Has active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease-modifying agents, corticosteroids, or immunosuppressive drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment.\n* Medical history and concurrent disease as below:\n\n  -Participants with a condition requiring systemic treatment with either corticosteroids (\\> 10 mg\n* Interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected treatment-related pulmonary toxicity.\n* Uncontrolled or significant cardiovascular disease including, but not limited to, any of the following:\n\n  * Evidence of uncontrolled, active infection, requiring parenteral or oral anti-bacterial, anti-viral or anti-fungal therapy ≤ 28 days prior to screening on study.\n  * Participants with a condition requiring chronic systemic oral treatment with either antibiotics or anti-fungals\n  * Any uncontrolled inflammatory GI disease including Crohn's Disease and ulcerative colitis.\n* Participants with active, known, or suspected autoimmune disease.\n* Has received a live vaccine or live-attenuated vaccine within 30 days prior to the first dose of study drug. \\*Note: for those participants who will be undergoing planned splenectomy, vaccinations against S. pneumoniae, N. meningitidis, H. influenzae type b and influenza virus may be administered per standard practice.\n* Use of probiotics ≤ 28 days prior to screening on study.\n* Known human immunodeficiency virus (HIV), known active Hepatitis A, or known Hepatitis B\n* History of acute diverticulitis within the last 6 months or current chronic diarrhea\n* Expected to require any other form of antineoplastic or surgical therapy while on study.\n* Pre-existing peripheral neuropathy \\> Grade 1, as defined by CTCAE v5.0.\n* Pregnant or lactating women.\n* A WOCBP who has a positive urine pregnancy test within 72 hours or no pregnancy test prior to registration.\n* WOCBP who are unwilling or unable to use an acceptable method to minimize the risk of pregnancy for the entire study period and 120 days plus 30 days (a menstruation cycle) after the last dose of study treatment. WOCBP who are continuously not heterosexually active are also exempt from contraceptive requirements, but still must undergo pregnancy testing.\n* Sexually active fertile men not using effective birth control if their partners are WOCBP.\n* History of primary immunodeficiency.\n* Has a history of (non-infectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.\n* History of organ allograft or allogeneic bone marrow transplant.\n* Any prior radiation therapy, immunotherapy, or biologic ('targeted') therapy for treatment of the patient's pancreatic tumor. Biliary stent is allowed.\n* Treatment for other invasive carcinomas within the last two years who are at greater than 5% risk of recurrence at time of eligibility screening. Carcinoma in-situ and basal cell carcinoma/ squamous cell carcinoma of the skin are allowed.\n* Participation in any investigational drug study within 4 weeks preceding the start of study treatment.\n* Major surgery, excluding laparoscopy, within 4 weeks of the start of study treatment, without complete recovery.\n* History of allergy to study treatments or any of its components.",
   "enrollment": 25,
   "has_results": false,
@@ -98,19 +99,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
-   "prior_excluded": [
-    "immunotherapy"
+   "key_exclusions_ko": [
+    "전이성 또는 국소진행성 췌장암",
+    "조절되지 않는 활동성 감염",
+    "자가면역질환 병력",
+    "임신 또는 수유 중인 여성"
    ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 가능 췌장선암 환자",
+   "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "19 Years",

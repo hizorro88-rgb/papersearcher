@@ -1,0 +1,63 @@
+{
+ "abstract": "RATIONALE: Lymphangioma is a benign lymphatic malformation that occurs predominantly in children and at superficial sites. Intra-abdominal lymphangioma is uncommon, and involvement of the pancreatic tail-splenic hilum region is particularly rare. Such lesions may mimic pancreatic or peripancreatic cystic disease, making preoperative diagnosis challenging.\nPATIENT CONCERNS: We report a 43-year-old woman who presented with persistent dull left upper abdominal pain for 2 days. Laboratory tests showed nonspecific inflammatory and mild hepatobiliary abnormalities.\nDIAGNOSES: Ultrasonography and contrast-enhanced computed tomography demonstrated a giant multiloculated cystic lesion measuring approximately 160 × 110 mm and closely related to the pancreatic tail and splenic hilum. Histopathology demonstrated dilated endothelial-lined lymphatic spaces, and the written pathology report recorded D2-40 positivity, supporting the diagnosis of lymphangioma.\nINTERVENTIONS: Exploratory laparotomy was performed. Because the lesion was densely adherent to the pancreatic tail and splenic hilum without a safe dissection plane, en bloc resection with distal pancreatectomy, splenectomy, and cholecystectomy was undertaken.\nOUTCOMES: Drain amylase was 1264 U/L on postoperative day 1 and 3337 U/L on postoperative day 3. The patient had no related symptoms, required no additional intervention, and had no delayed recovery, consistent with a biochemical leak under the 2016 International Study Group of Pancreatic Surgery definition. The drain was removed after ultrasonography showed no significant fluid collection, and the patient was discharged on postoperative day 11.\nLESSONS: Lymphangioma should be considered in the differential diagnosis of giant multiloculated cystic lesions near the pancreatic tail and splenic hilum. When a symptomatic giant lesion cannot be safely separated from adjacent organs, complete en bloc resection may provide both definitive diagnosis and treatment.",
+ "authors": [
+  "Wang Y",
+  "Xiong B",
+  "Niu J",
+  "Li S"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42854074",
+ "importance": 0.64,
+ "key_points_ko": [
+  "43세 여성 환자에게서 췌장 미부와 비장 문부 영역에 걸쳐 160x110 mm 크기의 거대 낭성 림프관종이 발견되었습니다.",
+  "병변이 췌장 미부 및 비장 문부에 조밀하게 유착되어 있어 원위부 췌장 절제술과 비장 절제술을 포함한 일괄 절제술을 시행했습니다.",
+  "수술 후 1일째 배액관 아밀라아제는 1264 U/L, 3일째는 3337 U/L로 측정되어 생화학적 췌장루(biochemical leak) 소견을 보였습니다.",
+  "환자는 추가적인 치료 없이 회복하여 수술 후 11일째에 퇴원했습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1097/MD.0000000000051000",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42854074"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medicine (Baltimore)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42854074/"
+ },
+ "summary_ko": "이 논문은 췌장 미부와 비장 문부(splenic hilum) 영역에 발생한 드문 거대 다방성 낭성 림프관종(cystic lymphangioma) 환자의 증례를 보고합니다. 43세 여성이 지속적인 좌상복부 통증으로 내원했으며, 영상 검사를 통해 160x110 mm 크기의 거대 낭성 병변이 확인되었습니다. 병변이 주변 장기와 밀착되어 있어 원위부 췌장 절제술(distal pancreatectomy), 비장 절제술(splenectomy), 담낭 절제술(cholecystectomy)을 포함한 일괄 절제술(en bloc resection)을 시행했습니다. 환자는 수술 후 췌장루(biochemical leak)가 발생했으나 추가 시술 없이 회복하여 수술 후 11일째에 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Giant cystic lymphangioma in the pancreatic tail-splenic hilum region managed by en bloc resection: A case report",
+ "title_ko": "췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

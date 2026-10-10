@@ -20,10 +20,10 @@
  "id": "nct:NCT07040228",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 절제 불가능하거나 전이성인 췌장암이며, 이전 1차 및 2차 표준 치료 후 종양 진행이 확인된 환자입니다.",
-  "1b상에서는 regorafenib의 용량을 40mg, 80mg, 120mg/d로 나누어 안전성과 최대 허용 용량을 평가합니다.",
-  "모든 단계에서 toripalimab(240mg)과 albumin-bound paclitaxel(125mg/m2)이 병용 투여됩니다.",
-  "목표 인원은 총 23명이며, 국내 기관은 없습니다."
+  "대상 질환: 절제 불가능 또는 전이성 췌장암 환자 (18세~80세)",
+  "치료 위치: 3차 치료 (이전 1차 및 2차 표준 치료 후 진행된 환자)",
+  "병용 약물: Regorafenib, Toripalimab, Albumin-bound paclitaxel(알부민 결합 파클리탁셀)",
+  "목표 환자 수: 23명"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07040228"
  },
- "summary_ko": "이 임상시험은 절제 불가능하거나 전이성인 췌장암 환자의 3차 치료로서 regorafenib(레고라페닙), toripalimab(토리팔리맙), albumin-bound paclitaxel(알부민 결합 파클리탁셀) 병용요법의 유효성과 안전성을 평가합니다. 1b상에서는 최대 허용 용량(MTD)과 2상 권장 용량(RP2D)을 평가합니다. 2상에서는 해당 병용요법의 유효성과 안전성을 평가합니다. 목표 환자 수는 23명입니다.",
+ "summary_ko": "이 임상시험은 절제 불가능하거나 전이성인 췌장암 환자를 대상으로 3차 치료에서 regorafenib(레고라페닙), Toripalimab(토리팔리맙), albumin-bound paclitaxel(알부민 결합 파클리탁셀) 병용 요법의 유효성과 안전성을 평가합니다. 1b상에서는 regorafenib의 최대 허용 용량(MTD)과 2상 권장 용량(RP2D)을 평가합니다. 2상에서는 해당 병용 요법의 유효성과 안전성을 평가합니다. 환자들은 질병이 진행되거나 참기 힘든 독성이 나타날 때까지 치료를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "Efficacy",
@@ -58,7 +58,7 @@
   "Toripalimab"
  ],
  "title": "A Phase Ib/II Clinical Study of Regorafenib Combined With Toripalimab and Albumin-bound Paclitaxel for the Third-line Treatment of Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 3차 치료로서 Regorafenib, Toripalimab, 훔-결합 파클리탁셀 병용요법에 대한 제1b/2상 임상시험",
+ "title_ko": "진행성 췌장암 3차 치료로서 레고라페닙, 토리팔리맙, 알부민 결합 파클리탁셀 병용 요법에 대한 1b/2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic"
@@ -70,7 +70,7 @@
     "phone": "86+13681709736"
    }
   ],
-  "eligibility_ko": "선정 기준: - 연구에 대해 완전히 이해하고 자발적으로 동의서에 서명한 환자 - 연령 만 18세 이상 80세 이하 - 조직병리학적으로 확인된 절제 불가능/전이성 췌장암 환자 - 이전 1차 및 2차 표준 치료 후 영상학적으로 종양 진행이 확인된 환자 - RECIST 1.1 기준에 따른 측정 가능한 병소가 최소 1개 이상 있는 환자 - ECOG 신체 상태 점수 0~2점 - 예상 생존기간 2개월 이상 - 적혈구, 백혈구, 혈소판 등 주요 혈액학적 기준을 충족하는 환자 - 간 및 신장 기능이 기준치 이내인 환자 - 가임기 여성의 경우 등록 전 7일 이내 혈청 임신 검사 결과가 음성이고 피임에 동의한 환자. 제외 기준: - 연구 약물 또는 성분에 과민 반응이 있는 환자 - 심각한 조절되지 않는 감염이나 조절되지 않는 동반 질환이 있는 환자 - 심장 기능 및 질환 관련 특정 기준(QTc 간격 연장, 심부전, 심근경색 등)에 해당하는 환자 - B형 및 C형 간염의 활동성 감염 환자 - HIV 감염 환자 - 영상학적으로 확인된 장폐색 - 과거 또는 현재 다른 악성 종양을 앓고 있는 환자 - 임산부 및 수유부 - 첫 투여 전 1달 이내에 폐출혈/객혈 병력이 있는 환자 - 첫 투여 전 6개월 이내 동맥 색전증, 심각한 출혈 등이 있었던 환자 - 증상성 뇌전이, 수막 전이 등이 있는 환자 - 첫 투여 전 1달 이내에 다른 임상시험용 약물을 사용한 환자 - 연구자가 참여에 부적합하다고 판단한 환자",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 80세 이하의 연령\n- 조직병리학적으로 확진된 절제 불가능/전이성 췌장암\n- 이전 1차 및 2차 표준 치료 후 영상학적으로 종양 진행이 확인된 환자\n- RECIST 1.1 기준에 따른 최소 1개 이상의 측정 가능한 표적 병변 보유\n- ECOG 수행능력 점수 0~2점\n- 예상 생존 시간 2개월 이상\n\n제외 기준:\n- 연구 약물 또는 그 성분에 과민 반응이 있는 경우\n- 조절되지 않는 심각한 감염 또는 동반 질환, 중등도/중증 신장 손상\n- 활동성 B형 및 C형 간염 감염\n- 인간면역결핍바이러스(HIV) 감염\n- 증상성 뇌전이, 수막 전이, 척수 종양 침범, 척수 압박 증후군 동반 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. The patient fully understands this study, voluntarily participates and signs an informed consent form (ICF);\n2. Age ≥ 18 years old and ≤ 80 years old;\n3. Patients with unresectable/metastatic pancreatic cancer confirmed by histopathology;\n4. Imaging confirmation of tumor progression after previous first-line and second-line standard treatment;\n5. According to RECIST 1.1 criteria, patients must have at least one measurable target lesion;\n6. Eastern Cancer Collaboration Group (ECOG) Physical Fitness Status Score: 0-2 points;\n7. Expected survival time ≥ 2 months;\n8. Absolute neutrophil count (ANC) ≥ 1.5 × 10 \\^ 9/L, platelets ≥ 100 × 10 \\^ 9/L, and hemoglobin ≥ 90 g/L (No blood transfusion or blood products within 14 days prior to laboratory examination.\n\n   Not treated with granulocyte colony-stimulating factor or other hematopoietic stimulating factors);\n9. Liver and kidney function: serum creatinine ≤ 1.5 times the upper limit of normal value; AST and ALT ≤ 2.5 times the upper limit of normal values (≤ 5 times the upper limit of normal values for patients with liver metastases); Total bilirubin ≤ 1.5 times the upper limit of normal value (≤ 3 times the upper limit of normal value for patients with liver metastasis);\n10. Women of childbearing age must undergo a pregnancy test (serum) within 7 days before enrollment, and the result must be negative, And willing to use appropriate contraception methods during the trial period and 6 months after the last administration of the trial drug.\n\nExclusion Criteria:\n\n1. Have hypersensitivity reactions to any research drug or its components;\n2. Concurrent serious uncontrolled infections or other serious uncontrolled accompanying diseases, moderate or severe kidney injury; (such as progressive infection, uncontrollable hypertension, diabetes, etc.);\n3. Heart function and disease meet one of the following conditions:\n\n   1. Long QTc syndrome or QTc interval\\>480 ms;\n   2. Complete left bundle branch block, grade II or III atrioventricular block;\n   3. Severe and uncontrolled arrhythmias requiring medication treatment;\n   4. New York College of Cardiology classification ≥ III;\n   5. Heart ejection fraction (LVEF) below 50%;\n   6. History of myocardial infarction, unstable angina, and severe unstable ventricular arrhythmia within 6 months prior to recruitment or any other arrhythmia requiring treatment, history of clinically severe pericardial disease, or there may be electrocardiographic evidence of acute ischemic or active conduction system abnormalities.\n4. Active infection of hepatitis B and C (hepatitis B virus surface antigen is positive and hepatitis B virus DNA exceeds 1x103 copies/mL; Hepatitis C virus RNA exceeding 1x103 copies/mL).Asymptomatic chronic carriers of hepatitis B or hepatitis C excluded;\n5. Human immunodeficiency virus (HIV) infection (HIV antibody positive);\n6. Imaging confirms intestinal obstruction;\n7. Previously or currently suffering from other malignant tumors simultaneously (Except for non melanoma basal cell carcinoma and breast/cervical carcinoma in situ that have been effectively controlled and other malignant tumors that have been effectively controlled without treatment in the past five years);\n8. Pregnant and lactating women, as well as reproductive age patients who are unwilling to take contraceptive measures;\n9. Patients who require treatment for merging with other malignant tumors;\n10. History of pulmonary hemorrhage/hemoptysis ≥ grade 2 (defined as at least 2.5mL of bright red blood) within one month prior to the first administration;\n11. Within 6 months prior to the first administration, there are arterial embolism, severe bleeding (excluding bleeding caused by surgery), and a tendency for severe bleeding;\n12. Merge symptomatic brain metastases, meningeal metastases, spinal cord tumor invasion, and spinal cord compression syndrome;\n13. Have used other clinical trial drugs within one month before the first administration;\n14. The researchers have determined that patients who are not suitable to participate in this study.",
   "enrollment": 23,
   "has_results": false,
@@ -86,18 +86,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": 1,
-   "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "key_exclusions_ko": [
+    "조절되지 않는 심각한 감염 또는 동반 질환",
+    "심장 질환 및 심기능 저하",
+    "활동성 B형 또는 C형 간염 감염",
+    "인간면역결핍바이러스(HIV) 감염",
+    "증상성 뇌전이 및 수막 전이"
+   ],
+   "max_prior_lines": 2,
+   "measurable_required": true,
+   "min_prior_lines": 2,
+   "notes_ko": "이전 1, 2차 치료를 받은 전이성 또는 국소진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "80 Years",
   "min_age": "18 Years",

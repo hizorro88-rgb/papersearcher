@@ -16,12 +16,104 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 43건 · 최근 30일 43건
+전체 48건 · 최근 30일 48건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42844287"></a>
+#### [췌장관선암종에서 조기 간 전이를 예측하기 위한 딥러닝 CT 서명](https://pubmed.ncbi.nlm.nih.gov/42844287/)
+<small>Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `기초연구` · 2026-09-08 · PubMed · Nat Commun · 중요도 0.67
+
+이 연구는 췌장관선암종(PDAC) 환자를 대상으로 조기 간 전이(ELM) 위험을 예측하고 선행화학요법(NAT)의 혜택을 받을 환자를 식별하기 위한 Mamba 기반 예측 모델을 개발했습니다. 다기관 코호트의 환자 1063명을 대상으로 평가한 결과, 이 모델은 조기 간 전이 예측에서 우수한 성능을 보였습니다. 모델이 고위험군으로 분류한 환자들은 무진행 생존기간(PFS)과 전체 생존기간(OS)이 유의하게 짧았습니다. 또한 고위험군 환자에서 선행화학요법(NAT)이 전체 생존기간(OS) 연장에 큰 도움이 되는 것으로 나타났습니다.
+
+- Mamba 기반 모델은 조기 간 전이(ELM) 예측에서 0.806에서 0.890의 AUC를 기록했습니다.
+- 모델이 정의한 고위험군은 무진행 생존기간(PFS) 위험비(HR)가 1.93 (p < 0.001)이었습니다.
+- 고위험군의 전체 생존기간(OS) 위험비(HR)는 1.89 (p < 0.001)였습니다.
+- 고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13646268/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
+
+---
+<a id="pmid-42853717"></a>
+#### [미국 내 주요 위장관암의 발생률 추세 및 전망: 2000년부터 2022년까지의 SEER 데이터 분석](https://pubmed.ncbi.nlm.nih.gov/42853717/)
+<small>Incidence Trends and Projections of Major Gastrointestinal Cancers in the United States: A SEER-Based Analysis from 2000 to 2022</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-09 · PubMed · Dig Dis · 중요도 0.63
+
+본 연구는 미국 SEER 데이터를 활용하여 2000년부터 2022년까지 8대 주요 위장관암의 발생률 추세를 분석하고 2032년까지의 전망을 예측했습니다. 분석 결과 췌장암을 비롯한 주요 암종별로 발생률 추세가 뚜렷한 차이를 보였습니다. 췌장암은 대부분의 하위 그룹에서 지속적인 증가세를 보였습니다. 연구진은 췌장암과 조기 발병 대장암의 증가에 대응하여 고위험군을 위한 맞춤형 예방과 조기 발견 전략이 시급하다고 결론지었습니다.
+
+- 췌장암의 발생률은 인구 10만 명당 4.41명에서 2032년 5.11명으로 지속적으로 증가할 것으로 예측되었습니다.
+- 대장암의 경우 60세 이상은 발생률이 감소할 것으로 예상되는 반면, 60세 미만의 조기 발병 대장암은 증가할 것으로 나타났습니다.
+- 간암 발생률은 10만 명당 2.18명에서 1.42명으로 감소할 것으로 예측되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42853717/) · [DOI](https://doi.org/10.1159/ddi/acnag010) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42853717)</small>
+
+---
+<a id="pmid-42852670"></a>
+#### [생체 내 췌장암 환자유래 이식편 모델에서 이미징 윈도우를 이용한 ERK 활성의 FRET 이미징](https://pubmed.ncbi.nlm.nih.gov/42852670/)
+<small>FRET imaging of ERK activity in an orthotopic xenograft model of patient-derived pancreatic ductal adenocarcinoma using imaging window</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-10-09 · PubMed · J Cell Sci · 중요도 0.60
+
+본 연구는 췌장암(pancreatic ductal adenocarcinoma) 환자유래 동소이식편(orthotopic xenograft) 모델에서 세포외 신호조절 킬나제(ERK) 활성을 시각화하기 위해 생체 내 실시간 영상(intravital imaging) 기술을 적용했습니다. 맞춤형 췌장 이미징 윈도우(PIW)를 사용하여 암 이식편을 2주 이상 장기 추적 관찰했습니다. 포스터 공명 에너지 전달(FRET) 분석을 통해 약물에 의한 ERK 활성 억제를 감지할 수 있음을 확인했습니다. 또한 콜라겐 신호가 국소 ERK 활성 이질성과 음의 상관관계를 보여 섬유화에 따른 약력학 변화를 관찰할 수 있었습니다.
+
+- 맞춤형 췌장 이미징 윈도우(PIW)를 통해 췌장암 이식편을 2주 이상 장기 추적했습니다.
+- 포스터 공명 에너지 전달(FRET) 분석을 통해 약물에 의한 ERK 활성 억제를 확인했습니다.
+- 콜라겐 신호는 국소 ERK 활성 이질성과 음의 상관관계를 보였습니다.
+- 초록에 명시된 환자 수, 생존기간, 반응률은 없습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852670/) · [DOI](https://doi.org/10.1242/jcs.265075) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852670)</small>
+
+---
+<a id="pmid-42851713"></a>
+#### [CXCR2 발현 억제는 PANC-1 췌장암 세포에서 ERK 및 AKT 신호전달과 이동을 감소시킵니다](https://pubmed.ncbi.nlm.nih.gov/42851713/)
+<small>CXCR2 knockdown reduces ERK and AKT signaling and migration in PANC-1 pancreatic cancer cells</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-09-23 · PubMed · MicroPubl Biol · 중요도 0.57
+
+본 연구는 췌장암 세포주인 HPAF-II와 PANC-1에서 케모카인 수용체 CXCR2의 역할을 조사했습니다. siRNA를 이용해 CXCR2를 억제한 결과, PANC-1 세포에서 ERK 및 AKT 인산화가 감소하고 PI3K 소단위체 발현이 줄어들었습니다. 또한 CXCR2 억제는 PANC-1 세포의 상처 치유(이동) 능력을 유의하게 감소시켰습니다. 이러한 결과는 CXCR2가 상피간엽전이(EMT) 관련 신호전달과 세포 이동을 조절할 수 있음을 시사합니다.
+
+- siRNA를 이용한 CXCR2 억제는 PANC-1 세포에서 ERK 및 AKT 인산화를 감소시켰습니다.
+- CXCR2 억제는 PANC-1 세포의 PI3K 소단위체 발현을 감소시켰습니다.
+- CXCR2 억제는 PANC-1 세포의 이동(상처 치유)을 유의하게 줄였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42851713/) · [DOI](https://doi.org/10.17912/micropub.biology.002330) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13647129/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42851713)</small>
+
+---
+<a id="pmid-42852560"></a>
+#### [소프트웨어 보조 평가를 이용한 고충실도 췌장암 진단을 위한 Cu/SiO2 나노자임 증폭 색소 면역센서](https://pubmed.ncbi.nlm.nih.gov/42852560/)
+<small>Cu/SiO2 nanozyme-amplified colorimetric immunosensor for high-fidelity pancreatic cancer detection with software-assisted evaluation</small>
+
+`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-09 · PubMed · Anal Methods · 중요도 0.56
+
+이 연구는 췌장암 바이오마커인 CA19-9를 민감하고 정확하게 검출하기 위해 Cu/SiO2 나노자임(nanozyme)을 활용한 새로운 색소 면역분석법(colorimetric immunoassay)을 개발했습니다. 초과산화효소(peroxidase) 모방 활성을 가진 Cu/SiO2 나노자임을 이용하여 CA19-9를 정량 분석하는 간접 효소면역측정법(ELISA)을 수행했습니다. 그 결과 매우 높은 민감도를 보여주었으며, 검출한계(LOD)는 0.000771 U mL-1로 측정되었습니다. 또한 인간 혈청 샘플을 이용한 평가에서 100.18~103.15%의 회수율을 기록하며 임상적용 가능성을 확인했습니다.
+
+- Cu/SiO2 나노자임의 미하엘리스-멘텐(Michaelis-Menten) 상수(KM)는 7.43 × 10-3 M, 최대 반응속도(Vmax)는 8.65 × 10-7 M s-1, 촉매 회전율(Kcat)은 3.67 × 10-4 s-1로 확인되었습니다.
+- 개발된 색소 면역분석법의 검출한계(LOD)는 0.000771 U mL-1이며, 소프트웨어 보조 분석을 활용했을 때는 0.00139 U mL-1의 검출한계를 보였습니다.
+- 인간 혈청 샘플을 이용한 분석에서 100.18%에서 103.15%의 회수율을 달성했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852560/) · [DOI](https://doi.org/10.1039/d6ay01602b) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852560)</small>
+
+---
+<a id="pmid-42852338"></a>
+#### [해양 진균 유래 화합물 SNU523의 STAT3 및 MEK 신호전달 경로 동시 억제를 통한 췌장암 억제 효과](https://pubmed.ncbi.nlm.nih.gov/42852338/)
+<small>SNU523 Inhibits Pancreatic Cancer through the Dual Suppression of STAT3 and MEK Signaling Pathways</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-09-21 · PubMed · ACS Omega · 중요도 0.55
+
+이 연구는 해양 유래 진균 Pestalotiopsis neglecta에서 분리한 화합물 SNU523(8-O-demethyl-9,11-didechloropestalone)의 췌장암(PDAC)에 대한 항암 효과와 작용 기전을 조사했습니다. SNU523은 췌장암 세포주에서 강력한 증식 억제 효과를 보였고, 콜로니 형성을 줄였으며, 이식편 모델(xenograft model)에서 종양 성장을 억제했습니다. 또한 STAT3와 MEK 신호전달 경로를 동시에 억제하여 치료 저항성을 극복할 잠재력을 보였습니다. 이러한 결과는 SNU523이 췌장암 표적 치료를 위한 유망한 후보 물질임을 시사합니다.
+
+- 해양 유래 진균에서 분리한 SNU523 화합물은 췌장암 세포의 증식과 콜로니 형성을 억제했습니다.
+- 동물 이식편 모델에서 종양 성장을 억제하는 효과를 보였습니다.
+- STAT3 및 MEK 신호전달 경로를 동시 억제하는 작용 기전을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852338/) · [DOI](https://doi.org/10.1021/acsomega.6c01271) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13647936/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852338)</small>
+
+---
 <a id="pmid-42847802"></a>
 #### [췌장 감시 검사를 받는 비분비형(FUT2 결손) 환자에서 췌장 낭종 유병률 증가](https://pubmed.ncbi.nlm.nih.gov/42847802/)
 <small>INCREASED PREVALENCE OF PANCREATIC CYSTS IN NONSECRETOR (FUT2 NULL) INDIVIDUALS UNDER PANCREATIC SURVEILLANCE</small>
@@ -111,22 +203,6 @@ search:
 - GNAS 드라이버 변이는 아시아계 혈통에서 더 빈번하게 관찰된 반면, KRAS 변이 빈도는 성별이나 혈통에 따른 유의한 연관성을 보이지 않았습니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1337069) · [DOI](https://doi.org/10.64898/2026.10.06.757201) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.06.757201)</small>
-
----
-<a id="pmid-42844287"></a>
-#### [췌장관선암종에서 조기 간 전이를 예측하기 위한 딥러닝 CT 서명](https://pubmed.ncbi.nlm.nih.gov/42844287/)
-<small>Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma</small>
-
-`논문` `관찰연구` `진단·조기발견` `치료 전반` `기초연구` · 2026-09-08 · PubMed · Nat Commun · 중요도 0.67
-
-이 연구는 췌장관선암종(PDAC) 환자를 대상으로 조기 간 전이(ELM) 위험을 예측하고 선행화학요법(NAT)의 혜택을 받을 환자를 식별하기 위한 Mamba 기반 예측 모델을 개발했습니다. 다기관 코호트의 환자 1063명을 대상으로 평가한 결과, 이 모델은 조기 간 전이 예측에서 우수한 성능을 보였습니다. 모델이 고위험군으로 분류한 환자들은 무진행 생존기간(PFS)과 전체 생존기간(OS)이 유의하게 짧았습니다. 또한 고위험군 환자에서 선행화학요법(NAT)이 전체 생존기간(OS) 연장에 큰 도움이 되는 것으로 나타났습니다.
-
-- Mamba 기반 모델은 조기 간 전이(ELM) 예측에서 0.806에서 0.890의 AUC를 기록했습니다.
-- 모델이 정의한 고위험군은 무진행 생존기간(PFS) 위험비(HR)가 1.93 (p < 0.001)이었습니다.
-- 고위험군의 전체 생존기간(OS) 위험비(HR)는 1.89 (p < 0.001)였습니다.
-- 고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13646268/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
 
 ---
 <a id="doi-10.64898-2026.10.03.26364596"></a>

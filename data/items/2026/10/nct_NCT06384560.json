@@ -22,10 +22,10 @@
  "id": "nct:NCT06384560",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 국소, 경계성 절제 가능, 절제 가능 췌장선암(Pancreatic Adenocarcinoma)입니다.",
-  "중재 치료로 pembrolizumab, FOLFIRINOX, SABR을 사용합니다.",
-  "목표 환자 수는 66명이며, 현재 환자를 모집 중(recruiting)입니다.",
-  "초록에 명시된 생존기간, 반응률, 위험비 등의 구체적 수치는 초록에 명시되지 않음."
+  "목표 환자 수는 총 66명입니다.",
+  "대상 질환은 국소 췌장 선암종, 경계성 절제 가능 췌장 선암종, 절제 가능 췌장 선암종입니다.",
+  "mFOLFIRINOX, pembrolizumab, 정위방사선치료(SABR)를 결합한 삼중 요법을 시험합니다.",
+  "초록에 명시된 생존율이나 반응률 등의 구체적인 결과 수치는 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06384560"
  },
- "summary_ko": "이 연구는 (경계성) 절제 가능 국소 췌장선암(Localized Pancreatic Adenocarcinoma) 환자를 대상으로 합니다. mFOLFIRINOX 항암화학요법, pembrolizumab(펨브롤리주맙) 면역요법, 정위방사선치료(SABR)를 포함한 수술 전(neoadjuvant) 삼중 치료의 생존율 개선 효과를 평가합니다. 수술 전 치료 후 수술과 보조 치료를 진행하며, 총 목표 환자 수는 66명입니다.",
+ "summary_ko": "이 임상시험은 수술이 가능한(resectable) 또는 경계성 절제 가능한(borderline resectable) 췌장암 환자 66명을 대상으로 합니다. mFOLFIRINOX 항암화학요법, pembrolizumab(펨브롤리주맙) 면역항암제, 정위방사선치료(SABR)를 결합한 수술 전 선행 삼중 요법의 생존율 개선 효과를 평가합니다. 치료는 수술 전 선행치료 후 수술, 그리고 수술 후 보조 항암화학요법 및 면역항암치료로 구성됩니다.",
  "summary_source": "llm",
  "tags": [
   "neoadjuvant treatment",
@@ -65,7 +65,7 @@
   "FOLFIRINOX"
  ],
  "title": "Neoadjuvant Triple Therapy for (Borderline) Resectable Pancreatic Cancer (PREOPANC-5)",
- "title_ko": "(경계성) 절제 가능 췌장암을 위한 수술 전 삼중 요법(PREOPANC-5)",
+ "title_ko": "절제 가능 및 경계성 절제 가능 췌장암 환자를 위한 수술 전 선행치료 삼중 요법(PREOPANC-5)",
  "trial": {
   "conditions": [
    "Localized Pancreatic Adenocarcinoma",
@@ -84,7 +84,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 췌장 선암 - 동의서 서식 작성일 기준 만 18세 이상 - 일차성 절제 가능 또는 경계성 절제 가능 질환(DPCG 기준) - ECOG 전신 상태 평가 0 또는 1 - 수술, 방사선치료, 항암화학요법, 면역요법 시행 가능 - 백혈구 3.0 X 10^9/l 이상, 혈소판 100 X 10^9/l 이상, 혈색소 6 mmol/l 이상, 신장 기능 E-GFR > 50 ml/min, 빌리루빈 < 50 µmol/l 또는 담즙 배 유도 예정 - 피임 지침 준수에 동의하는 남성 및 가임기/비가임기 여성 환자 - 서면 동의서 작성 완료. 제외 기준: - 전이성 또는 국소 진행성(절제 불가능) 췌장암 - 항 PD-1, 항 PD-L1, 항 PD-L2 등 면역관문억제제 치료 이력이 있는 경우 - 췌장암에 대한 임상시험용 약물을 포함한 전신 항암 치료 이력이 있는 경우 - 연구 중재 시작 전 2주 이내 방사선치료를 받은 경우 - 다른 임상시험에 참여 중이거나 임상시험용 기기를 사용한 경우 - 완전한 디히드로피리미딘 탈수소효소(DPD) 결핍 또는 pembrolizumab 성분에 중증 과민반응이 있는 경우 - 면역결핍 진단 또는 연구 약물 투여 전 7일 이내 만성 전신 스테로이드(프레드니손 등가 10 mg/일 초과) 및 면역억제 치료를 받은 경우 - 최근 2년 이내 진행되었거나 적극적 치료가 필요한 다른 악성 종양 병력이 있는 경우 - 최근 2년 이내 전신 치료가 필요한 활동성 자가면역 질환이 있는 경우 - 스테로이드 치료가 필요했던 (비감염성) 폐렴 병력 또는 현재 폐렴이 있는 경우 - 전신 치료가 필요한 활동성 감염이 있는 경우 - B형 간염 표면항원 양성 또는 활동성 C형 간염 감염 병력이 있는 경우 - 동종 조직 또는 고형 장기 이식 병력이 있는 경우 - 환자의 안전이나 연구 완료 능력을 저해할 수 있는 심각한 동반 질환이 있는 경우 - 연구 결과에 혼란을 줄 수 있는 질환이나 실험실 이상 소견이 있는 경우 - 연구 약물 투여 전 30일 이내 생백신을 접종한 경우 - 치료 시작 전 72시간 이내 소변 임신 검사에서 양성이 나온 가임 여성 - 연구 협조를 저해할 수 있는 정신 질환 또는 약물 남용 장애 - 임신 중이거나 수유 중인 환자, 또는 임신 계획이 있는 환자 - MRI 금기 사항(심박동기, 금속 이물질, 중증 폐쇄공포증 등)이 있는 경우",
+  "eligibility_ko": "선정 기준: \n- WHO VI 또는 VII에 해당하는 조직학적으로나 세포학적으로 확진된 췌장 선암종\n- 동의서 서명일 기준 만 18세 이상\n- DPCG 기준에 따른 원발성 절제 가능 또는 경계성 절제 가능 질병\n- ECOG 수행능력 0 또는 1\n- 수술, 방사선치료, 항암화학요법, 면역항암치료를 받을 수 있는 상태\n- 적절한 골수 기능, 신장 기능 및 빌리루빈 수치 만족 \n\n제외 기준: \n- 전이성 또는 국소 진행성(절제 불가능한) 췌장암\n- 이전에 anti-PD-1, anti-PD-L1, anti-PD-L2 등 면역관문억제제 치료를 받은 경우\n- 췌장암에 대해 이전에 시험약을 포함한 전신 항암 치료를 받은 경우\n- 연구 치료 시작 전 2주 이내에 방사선치료를 받은 경우\n- 활동성 자가면역질환 또는 면역결핍 진단을 받았거나 만성 전신 스테로이드 치료를 받는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the pancreas (WHO VI or VII)\n* Male or female participants who are at least 18 years of age on the day of signing informed consent\n* Primary resectable or borderline resectable disease (DPCG criteria)\n* ECOG performance status 0 or 1\n* Ability to undergo surgery, radiotherapy, chemotherapy and immunotherapy\n* Leucocytes (WBC) ≥ 3.0 X 10\\*9/l, Platelets ≥ 100X 10\\*9 /l, Hemoglobin ≥ 6 mmol/l, Renal function: E-GFR \\> 50 ml/min, Bilirubin \\< 50 µmol/l or planned for biliary drainage\n* A male participant must agree to use a contraception as detailed in Appendix 6 of this protocol during the treatment period and for at least 18 weeks after the last dose of study treatment and refrain from donating sperm during this period.\n* A female participant is eligible to participate if she is not pregnant (see Appendix 6), not breastfeeding, and at least one of the following conditions applies: Not a:\n\nwoman of childbearing potential (WOCBP) OR WOCBP who agrees to follow the contraceptive guidance during the treatment period and for at least 18 weeks after the last dose of study treatment Written informed consent\n\nExclusion criteria\n\n* Metastatic or locally advanced (i.e. unresectable) pancreatic cancer.\n* Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PDL2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., CTLA-4, OX40, CD137).\n* Has received prior systemic anti-cancer therapy including investigational agents for pancreatic cancer.\n* Has received prior radiotherapy within 2 weeks of start of study intervention.\n* Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study intervention\n* Complete dihydropyrimidine dehydrogenase deficiency. Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients.\n* Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug\n* Has a known additional malignancy that is progressing or has required active treatment within the past 2 years. Participants with basal cell carcinoma of the skin, squamous cell carcinoma of the skin or carcinoma in situ (e.g, breast carcinoma, cervical cancer in situ) that have undergone potentially curative therapy are not excluded\n* Has active autoimmune disease that has required systemic treatment in the past 2 years (i.e. with use of disease modifying agents, corticosteroids or immunosuppressive drugs). Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid re placement therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic treatment and is allowed.\n* Has a history of (non-infectious) pneumonitis that required steroids or has current pneumonitis.\n* Has an active infection requiring systemic therapy.\n* Has a known history of Hepatitis B (defined as Hepatitis B surface antigen \\[HBsAg\\] reactive) or known active Hepatitis C virus infection.\n* Has had an allogenic tissue/solid organ transplant.\n* Serious concomitant systemic disorders that would compromise the safety of the patient or their ability to complete the study, at the discretion of the investigator.\n* Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the participant's participation for the full duration of the study, or is not in the best interest of the participant to participate, in the opinion of the treating investigator.\n* Has received a live vaccine within 30 days prior to the first dose of study drug. Examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, varicella/zoster (chicken pox), yellow fever, rabies, Bacillus Calmette-Guérin (BCG), and typhoid vaccine. Seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (e.g., FluMist) are live attenuated vaccines and are not allowed.\n* A WOCBP who has a positive urine pregnancy test within 72 hours prior to start of treatment (see Appendix 6). If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n* Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the study, starting with the screening visit until 18 weeks after the last dose of trial treatment.\n* Has contra-indications for MRI (only for Amsterdam UMC and RAKU)\n* Pacemakers or implanted defibrillators, deep brain stimulators, cochlear implants.\n* Patients who have a metallic foreign body in their eye, or who have an aneurysm clip in their brain, cannot have an MRI scan since the magnetic field may dislodge the metal.\n* Patients with severe claustrophobia not able to tolerate an MRI scan",
   "enrollment": 66,
   "has_results": false,
@@ -102,20 +102,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "전이성 또는 절제 불가능한 국소 진행성 췌장암",
+    "이전 면역항암치료 또는 항암 치료 경험",
+    "활동성 자가면역질환 또는 면역결핍",
+    "과거 2년 이내 치료가 필요한 다른 악성종양 병력"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 수술 가능 또는 경계성 절제 가능 췌장암 환자",
    "prior_excluded": [
-    "immunotherapy"
+    "immunotherapy",
+    "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
     "resectable",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

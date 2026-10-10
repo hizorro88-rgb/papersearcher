@@ -33,7 +33,7 @@
   "고위험군의 전체 생존기간(OS) 위험비(HR)는 1.89 (p < 0.001)였습니다.",
   "고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001)."
  ],
- "last_updated": "2026-10-09",
+ "last_updated": "2026-10-10",
  "links": {
   "doi": "10.1038/s41467-026-77665-z",
   "nct": [],
@@ -43,6 +43,7 @@
  "pub_types": [
   "Journal Article",
   "Multicenter Study",
+  "Observational Study",
   "Research Support, Non-U.S. Gov't"
  ],
  "published_at": "2026-09-08",

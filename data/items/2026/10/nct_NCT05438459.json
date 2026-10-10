@@ -19,9 +19,10 @@
  "id": "nct:NCT05438459",
  "importance": 0.79,
  "key_points_ko": [
-  "목표 인원은 총 176명이며, 진행성 위장관암과 췌장암 환자를 대상으로 합니다.",
-  "1상에서는 GAIA-102 단독 또는 pembrolizumab과의 병용에 대한 안전성 확인 및 권장 용량을 설정합니다.",
-  "2상에서는 췌장암 환자를 대상으로 GAIA-102와 pembrolizumab 병용을 기존 항암화학요법(표준치료)에 추가하여 유효성과 안전성을 연구합니다."
+  "악성 복수가 동반된 현미부수체 안정형(MSS) 진행성 위장관암 환자를 대상으로 GAIA-102의 복강 내 투여를 평가합니다.",
+  "1상에서는 단독 또는 pembrolizumab 병용 투여의 안전성을 확인하고 2상 권장 용량을 결정합니다.",
+  "췌장암 2상 코호트에서는 기존 표준 화학요법에 GAIA-102와 pembrolizumab 병용 요법을 추가하여 연구합니다.",
+  "총 목표 인원은 176명이며, 국내 기관 참여는 없습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05438459"
  },
- "summary_ko": "이 임상시험은 악성 복수를 동반한 현미부수체 안정형(MSS) 진행성 위장관암 및 췌장암 환자를 대상으로 GAIA-102의 복강 내 투여 안전성과 유효성을 평가합니다. 1상에서는 단독 또는 pembrolizumab(펨브롤리주맙)과의 병용 요법을 통해 안전성을 확인하고 권장 용량을 결정합니다. 2상에서는 위장관암 환자와 췌장암 환자를 대상으로 기존 표준 치료 또는 면역항암제와의 병용 효과를 비교 연구합니다. 총 목표 인원은 176명입니다.",
+ "summary_ko": "본 임상시험은 악성 복수가 동반된 현미부수체 안정형(microsatellite stable, MSS) 진행성 위장관암 환자를 대상으로 GAIA-102의 복강 내 투여 안전성과 유효성을 평가합니다. 1상 파트에서는 GAIA-102 단독 또는 pembrolizumab과의 병용 투여에 대한 안전성을 확인하고 2상 권장 용량을 결정합니다. 2상 파트(췌장암 코호트)에서는 악성 복수가 동반된 MSS 진행성 췌장암 환자를 대상으로 기존 표준 항암화학요법에 GAIA-102와 pembrolizumab 병용 요법을 추가하여 유효성과 안전성을 연구합니다. 총 목표 환자 수는 176명이며, 다기관에서 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "GAIA-102 Intraperitoneal Administration in Patients With Advanced Gastrointestinal Cancer of Microsatellite Stable With Malignant Ascites",
- "title_ko": "진행성 위장관암 및 췌장암 환자에서 GAIA-102 복강 내 투여 임상 1/2상 시험",
+ "title_ko": "진행성 위장관암 및 악성 복수가 동반된 현미부수체 안정형(MSS) 환자에서의 GAIA-102 복강 내 투여 임상시험",
  "trial": {
   "conditions": [
    "Gastric Cancer",
@@ -63,7 +64,7 @@
     "phone": "+81-92-642-5479"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 영상 검사상 명확한 복막 파종 또는 악성 복수가 있는 절제 불가능/진행성·재발성 위암, 또는 절제 불가능/진행성·재발성 췌장암\n* 1상: 위암은 3가지 이상, 췌장암은 2가지 이상의 이전 항암화학요법 치료 전력이 있는 환자\n* 2상: 위암은 면역관문억제제 포함 2가지 이상, 췌장암은 젬시타빈(gemcitabine) 포함 1가지 이상의 이전 치료 전력이 있는 환자\n* 복부 포트(port) 삽입이 가능한 환자\n* 현미부수체 불안정성(MSI) 검사에서 음성(MSS)이거나 미스매치 복구 효소 면역조직화학 검사에서 pMMR로 확인된 환자\n* ECOG 수행능력 상태(PS) 1상: 0-2, 2상: 0-1\n* 20세 이상의 성인\n\n제외 기준:\n* 치료받지 않은 뇌 전이 또는 수막 뇌암증 진단을 받은 환자\n* 다른 임상시험에 참여 중이거나 30일 이내에 임상시험용 의약품 등을 사용한 환자\n* 활동성 자가면역질환이 있거나 의심되는 환자\n* 증상이 있는 간질성 폐렴 환자\n* 임산부, 수유부, 또는 피임을 원하지 않는 환자",
+  "eligibility_ko": "선정 기준:\n- 영상 검사상 복막 파종이 명확하거나 악성 복수가 있는 절제 불가능 또는 진행성·재발성 위암, 그리고 절제 불가능 또는 진행성·재발성 췌장암\n- 1상(췌장암): 2가지 이상의 이전 항암화학요법 치료를 받았으나 불응성이거나 불내성인 환자\n- 2상(췌장암): gemcitabine(젬시타빈)을 포함하여 1가지 이상의 이전 항암화학요법 치료를 받았으나 불응성이거나 불내성인 환자\n- 복부 포트(abdominal port) 삽입이 가능할 것\n- 조직학적 또는 세포학적으로 진단된 췌장암\n- 미소위성체 불안정성(MSI) 검사에서 음성(MSS) 또는 불일치 복구 단백질 면역조직화학 검사에서 pMMR로 확인된 환자\n- 동의 철회 시점의 ECOG 수행능력(PS)이 1상에서는 0-2, 2상에서는 0-1인 환자\n- 만 20세 이상\n\n제외 기준:\n- 치료받지 않은 뇌 전이 환자\n- 수막성 암종증 진단 환자\n- 동종 조혈모세포 이식을 받은 적이 있는 환자\n- 동의서 취득 전 30일 이내에 다른 임상시험에 참여했거나 임상시험용 의약품을 사용한 환자\n- 활동성 자가면역질환이 있거나 의심되는 환자\n- 프레드니솔론 환산 기준 10 mg/day를 초과하는 전신 코르티코스테로이드 치료를 투여 중인 환자\n- 증상이 있는 간질성 폐렴 환자\n- 인간면역결핍바이러스(HIV) 항체 양성 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Unresectable or advanced recurrent gastric cancer with evident peritoneal dissemination on imaging, or with malignant ascites, as well as unresectable or advanced recurrent pancreatic cancer.\n* Phase I:\n\nPatients with gastric cancer who have received 3 or more prior chemotherapy regimens and are refractory or intolerant to these therapies, and patients with pancreatic cancer who have received 2 or more prior chemotherapy regimens and are refractory or intolerant to these therapies.\n\nPhase II:\n\nPatients with gastric cancer who have received 2 or more prior chemotherapy regimens, including at least 1 regimen containing an immune checkpoint inhibitor, and are refractory or intolerant to these therapies, and patients with pancreatic cancer who have received 1 or more prior chemotherapy regimens, including at least 1 regimen containing gemcitabine, and are refractory or intolerant to these therapies.\n\nOnly patients with HER2-negative gastric cancer are eligible.\n\n* Abdominal port placement is possible\n* Phase I:\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab (only for patients in the pembrolizumab combination cohort)\n\nPhaseⅡ(gastric cancer):\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab or trifluridine/tipiracil hydrochloride (FTD/TPI) ,or to any components of these agents.\n\nPhaseⅡ(pancreatic cancer):\n\nNo medical history of serious adverse reactions or allergic reactions to pembrolizumab, irinotecan hydrochloride hydrate, fluorouracil, or calcium levofolinate hydrate ,or to any components of these agents.\n\n* Diagnosed gastric adenocarcinoma or pancreatic cancer with by histological or cytological examination\n* The patient has been confirmed to be \"negative (not MSS = MSI-high)\" by microsatellite instability (MSI) testing, or \"proficient mismatch repair (pMMR)\" by mismatch repair protein immunohistochemistry testing\n* The Eastern Cooperative Oncology Group (ECOG) Performance Status(PS) at the time of informed consent meets the following conditions.\n\nPhase I ：0-2, Phase II ：0-1\n\n* Patient aged 20years or older\n* Adequate major organs (bone marrow, heart, lungs, liver, kidneys, etc.) function:\n\nNeutrophil ≧1,500/mm3, hemoglobin ≧8.0 g/dL, Platelet ≧75,000/mm3, PT-INR≦ 1.5 , AST, ALT≦ 3 times the upper limit of reference value, T-Bil≦ 2 times the upper limit of reference value (T-Bil ≦ 3.0mg/dL , when drainage for obstructive jaundice), eGFR ≧30mL/min/1.73m2\n\n* Expected to survive for 3 months or more at the enrollment\n* Written informed consent\n\nExclusion Criteria:\n\n* Untreated cranial metastases.\n* Diagnosed with meningeal carcinomatosis\n* Received allogeneic hematopoietic stem cell transplantation\n* Participated in other clinical trials / clinical trials within 30 days prior to obtaining written consent and used or had used the investigational product or investigational equipment.\n* Existence or suspected active autoimmune disease\n* Continued systemic immunosuppressive therapy with corticosteroids in excess of 10 mg / day in terms of prednisolone or other immunosuppressants within 14 days prior to investigational product administration\n* Symptomatic interstitial pneumonia, or even if it is not symptomatic, it may interfere with diagnostic imaging in detecting new pneumonitis caused by the investigational product used in the clinical trial.\n* Have active double cancer and need treatment for the double cancer\n* Requires treatment as shown in \"Unacceptable Combination / Supportive Therapy\" during the clinical trial period\n* Have a medical history of severe hypersensitivity to immune checkpoint inhibitors or immune-related adverse events requiring treatment\n* Have one of the following complications Complication of cerebrovascular disorder with symptoms or history within 6 months before the enrollment, Active gastrointestinal perforation, fistula, diverticulitis, Symptomatic congestive heart failure, Bleeding tendency, Presence of blood clots that may cause embolism on the image, Unhealed fractures (excluding compression fractures associated with osteoporosis) or severe wounds requiring medical treatment, Uncontrollable digestive ulcer, Active infectious diseases requiring intravenous administration of antibiotics, antifungal agents or antiviral agents, HIV antibody positive\n* At the time of the enrollment, the period from the following prior treatment or the end of treatment has not passed.\n\nSurgery (including exploratory laparotomy / examination laparoscope): 2 weeks, Palliative radiotherapy: 1 week, Thoracic drainage: 1 week, Pretreatment antineoplastic (from the last administration): 3 weeks, Biopsy with incision, thoracic biopsy, treatment for trauma (excluding patients without wound healing), etc : 2 weeks\n\n* Scheduled thoracotomy or abdominal surgery during the clinical trial period\n* It is judged that it is difficult to enroll in this study due to clinically significant mental illness.\n* Pregnant women, lactating women, women who are currently pregnant, or have no intention of contraception for 4 months after consent is obtained.\n* Allergic to antibiotics and foreign animal-derived ingredients (pig and mouse)\n* Difficult to participate in the trial by the investigator",
   "enrollment": 176,
   "has_results": false,
@@ -85,21 +86,26 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": null,
-   "key_exclusions_ko": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "치료받지 않은 뇌 전이",
+    "활동성 자가면역질환",
+    "증상이 있는 간질성 폐렴",
+    "HIV 항체 양성"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "악성 복수가 동반된 gemcitabine 치료 경험이 있는 MSS 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [
-    "gemcitabine",
-    "immunotherapy"
+    "gemcitabine"
    ],
    "setting": [
+    "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "20 Years",

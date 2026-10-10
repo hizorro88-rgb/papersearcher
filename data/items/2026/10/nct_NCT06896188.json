@@ -21,9 +21,9 @@
  "id": "nct:NCT06896188",
  "importance": 0.79,
  "key_points_ko": [
-  "대상 질환은 이전에 전신 치료를 받지 않은 진행성·재발성·전이성 췌장 선암(pancreatic adenocarcinoma)입니다.",
-  "안전성 도입 코호트(safety lead-in cohort)는 6명의 환자로 시작하며, 전체 연구의 최대 목표 인원은 12명입니다.",
-  "9-ING-41, retifanlimab, mFOLFIRINOX 병용 요법의 안전성과 내약성을 평가합니다."
+  "대상 환자: 이전 전신 치료를 받지 않은 진행성·재발성·전이성 췌장선암 환자 총 12명 목표",
+  "평가 항목: 9-ING-41과 retifanlimab 및 mFOLFIRINOX 병용 요법의 안전성 및 내인성 평가",
+  "연구 디자인: 안전성 도입 코호트 6명을 시작으로 필요 시 용량 감량 진행 후 확장 코호트 실시"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,14 +48,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06896188"
  },
- "summary_ko": "본 연구는 진행성 췌장암(pancreatic cancer) 환자를 대상으로 9-ING-41(elraglusib)과 retifanlimab, 그리고 변형 FOLFIRINOX(mFOLFIRINOX)를 병용 투여하는 1상 임상시험(phase 1 clinical trial)입니다. 이전에 진행성 질환에 대한 전신 치료를 받은 적이 없는 18세 이상의 환자를 대상으로 안전성과 내인성을 평가합니다. 전체 연구의 최대 등록 환자 수는 12명을 초과하지 않습니다. GSK-3β 억제제와 PD-1 억제제의 병용을 통해 시너지 항종양 효과를 기대하며 진행하는 연구입니다.",
+ "summary_ko": "본 연구는 진행성 췌장암(pancreatic cancer) 환자를 대상으로 신약 9-ING-41(elraglusib)과 면역관문억제제 retifanlimab, 그리고 표준 항암화학요법인 mFOLFIRINOX를 병용 투여하는 1상 임상시험(Phase 1)입니다. 이전 전신 치료 경험이 없는 진행성 췌장선암(pancreatic adenocarcinoma) 환자를 대상으로 안전성과 내인성을 평가하기 위해 진행됩니다. 안전성 도입 코호트 6명을 포함하여 전체 연구 대상자는 최대 12명으로 제한됩니다. 환자들은 연구 참여를 통해 직접적인 치료 혜택을 기대하기 어려울 수 있으나, 수집된 데이터는 미래의 암 환자들에게 도움을 줄 수 있습니다.",
  "summary_source": "llm",
  "tags": [
   "Glycogen Synthase Kinase 3-beta (GSK-3β) inhibitor",
   "PD-1 inhibitor"
  ],
  "title": "9-ING-41 Combined With Retifanlimab, Plus Modified FOLFIRINOX for Patients With Advanced Pancreatic Adenocarcinoma (RiLEY)",
- "title_ko": "진행성 췌장 선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 임상시험 (RiLEY)",
+ "title_ko": "진행성 췌장선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 (RiLEY)",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
@@ -72,7 +72,7 @@
     "phone": "412-647-8587"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 연령\n- 병리학적으로 확진된 진행성, 재발성 또는 전이성 췌장암이며 진행성/전이성 단계에서 이전에 전신 치료를 받은 적이 없는 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자\n- 연구 진입 시 이용 가능한 보관된 FFPE 종양 조직이 있거나 신선한 종양 생검 제공에 동의한 환자\n- 충분한 골수, 간, 신장 기능을 가진 환자\n- ECOG 수행 능력 평가(PS) 0~1인 환자\n\n제외 기준:\n- 임신 중이거나 수유 중인 환자\n- 9-ING-41, retifanlimab 또는 구성 성분에 과민성이 있는 환자\n- 이전에 anti-PD-1, PD-L1, PD-L2 제제로 치료받은 이력이 있는 환자\n- 내분비성 또는 아세포성 췌장 암종(endocrine or acinar pancreatic carcinoma)이 있는 환자\n- 이전 항암 치료로 인한 임상적으로 유의미한 독성에서 회복되지 않은 환자\n- 유의미한 심혈관 질환 또는 조절되지 않는 심장 질환이 있는 환자\n- 증상이 있는 급진적인 뇌 전이 또는 연수막 침범이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 병리학적으로 확진된 진행성, 재발성 또는 전이성 췌장암 환자로 진행성/전이성 단계에서 이전 전신 치료를 받지 않은 환자\n- RECIST v1.1 기준 최소 1개의 측정 가능한 병변이 있는 환자\n- 연구 참여 전 보관된 조직 또는 신선한 종양 생검 조직을 제공할 수 있는 환자\n- 적절한 골수, 간, 신장 기능을 가진 환자 (ANC ≥ 1,500/mL, 혈색소 ≥ 8.5 g/dL, 혈소판 ≥ 100,000/mL, AST/ALT 및 ALP ≤ 2.5 x ULN, 빌리루빈 ≤ 1.5 x ULN, CrCl > 60 mL/min 등)\n- ECOG 수행능력 평가(PS) 0~1인 환자\n\n제외 기준:\n- 임신 중이거나 수유 중인 여성\n- 9-ING-41, retifanlimab 또는 기타 연구 약물의 성분에 과민반응이 있는 환자\n- 과거에 anti-PD-1, PD-L1, PD-L2 억제제 치료를 받은 병력이 있는 환자\n- 내분비성 또는 선방성 췌장 암종(endocrine or acinar pancreatic carcinoma)이 있는 환자\n- 이전 항암 치료로 인한 임상적으로 유의한 독성에서 회복되지 않은 환자 (탈모, 수혈이 필요 없는 빈혈 등 제외)\n- NYHA 클래스 II를 초과하는 울혈성 심부전, 불안정형 협심증, 뇌졸중 등 유의한 심혈관 질환이 있는 환자\n- 증상이 있는 급진행성 뇌전이 또는 연수막 침범이 있는 환자\n- 췌장암 외에 다른 현재 악성 종양이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Is able to understand and voluntarily sign a written informed consent and is willing and able to comply with the protocol requirements including scheduled visits, treatment plan, laboratory tests and other study procedures.\n* Is aged ≥ 18 years.\n* Has pathologically confirmed advanced, recurrent, or metastatic pancreatic cancer AND is previously untreated with systemic agents in the advanced/metastatic setting.\n* Must have at least 1 measurable lesion per RECIST v1.1. Lesions that are radiated should not count as target lesions unless there is evidence of growth post radiation on a subsequent scan prior to trial enrollment.\n* Must have available archived FFPE tumor tissue at study entry; FFPE tissue block preferred or 10 unstained slides (metastatic tissue preferred to primary tissue) OR if FFPE archived tissue is not available, willing to provide a standard fresh tumor biopsy prior to start of study treatment for molecular profiling of the tumor using standard institutional oncomine panel. If oncomine testing has previously been completed, a repeat biopsy or testing is not required.\n* Has laboratory function within specified parameters (may be repeated):\n* Adequate bone marrow function: absolute neutrophil count (ANC) ≥ 1,500/mL; hemoglobin ≥ 8.5 g/dL, platelets ≥ 100,000/mL\n* Adequate liver function: transaminases (aspartate aminotransferase/ alanine aminotransferase, AST/ALT) and alkaline phosphatase ≤ 2.5 x ULN (≤ 5 X the upper limit of normal (ULN) in the setting of liver metastasis or infiltration with malignant cells); bilirubin ≤ 1.5 x ULN\n* Adequate renal function: CrCl \\> 60 mL/min measured or calculated by Cockcroft-Gault (C-G) equation (estimated glomerular filtration rate \\[eGFR\\] can also be used in place of CrCl)\n* Serum amylase and lipase ≤ 1.5 x ULN\n* Eastern Co-operative Oncology Group (ECOG) performance status (PS) 0 - 1 (Appendix A)\n* Has received the final dose of any of the following treatments/ procedures within the specified minimum intervals before first dose of study drug:\n* Focal radiation therapy - 7 days\n* Surgery with general anesthesia - 7 days\n* Surgery with local anesthesia - 7 days\n* May have received treatment with fluorouracil or gemcitabine as a radiation sensitizer in the adjuvant setting if the treatment was received at least 6 months before study enrollment.\n* May have received neoadjuvant chemotherapy with FOLFIRINOX if given at least 6 months before study enrollment.\n* May have received prior cytotoxic doses of systemic chemotherapy in the adjuvant setting if given at least 6 months before study enrollment.\n* Women of childbearing potential must have a negative baseline blood or urine pregnancy test within 72 hours of first study therapy. Women may be neither breastfeeding nor intending to become pregnant during study participation and must agree to use effective contraceptive methods (hormonal AND barrier method of birth control, or true abstinence) for the duration of study participation and in the following 9 months after discontinuation of study treatment.\n* Male patients with partners of childbearing potential must take appropriate precautions to avoid fathering a child from screening until 9 months after discontinuation of study treatment and use appropriate barrier contraception or true abstinence.\n* Must not be receiving any other investigational medicinal product.\n\nExclusion Criteria:\n\n* Is pregnant or lactating.\n* Is known to be hypersensitive to any of the components or metabolites of 9-ING-41 or to the excipients used in its formulation, or known sensitivity to one of the chemotherapeutic agents or to the PD-1 inhibitor.\n* History of receiving prior treatment with any anti-PD-1, PD-L1 or PD-L2 agent.\n* Has endocrine or acinar pancreatic carcinoma.\n* Has not recovered from clinically significant toxicities as a result of prior anticancer therapy, except alopecia, anemia not requiring transfusion support and infertility. Recovery is defined as ≤ Grade 1 or baseline severity per Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0 (v5.0).\n* Has significant cardiovascular impairment: history of congestive heart failure greater than New York Heart Association (NYHA) Class II, unstable angina, or stroke within 6 months of the first dose of 9-ING-41, or cardiac arrhythmia requiring medical treatment detected at screening.\n* Has had a myocardial infarction within 12 weeks of the first dose of 9-ING-41 or has electrocardiogram (ECG) abnormalities that are deemed medically relevant by the treating investigator or PI.\n* Has symptomatic rapidly progressive brain metastases or leptomeningeal involvement as assessed by computed tomography (CT) scan or magnetic resonance imaging (MRI). Patients with stable brain metastases or leptomeningeal disease or slowly progressive disease are eligible provided that they have not required new treatments for this disease in a 28-day period before the first dose of study drug, and anticonvulsants and steroids are at a stable dose for a period of 14 days prior to the first dose of study drug.\n* Has had major surgery (not including placement of central lines) within 7 days prior to study entry or is planned to have major surgery during the course of the study (major surgery may be defined as any invasive operative procedure in which an extensive resection is performed, e.g., a body cavity is entered, organs are removed, or normal anatomy is altered). In general, if a mesenchymal barrier is opened (pleural cavity, peritoneum, meninges), the surgery is considered major.\n* Has any medical and/or social condition that, in the opinion of the investigator would preclude study participation.\n* Has received an investigational anti-cancer drug in the 14-day period before the first dose of study drug (or within 5 half-lives if longer) or is currently participating in another interventional clinical trial.\n* Has a current malignancy other than pancreatic cancer.\n* Known immunodeficiency syndrome or active autoimmune disease or requiring systemic immunosuppression in excess of physiologic maintenance doses of corticosteroids (\\> 10 mg/day of prednisone or equivalent).\n* Physiologic corticosteroid replacement therapy at doses \\> 10 mg/day of prednisone or equivalent for adrenal or pituitary insufficiency and in the absence of active autoimmune disease is permitted.\n* Participants with asthma that requires intermittent use of bronchodilators, inhaled steroids, or local steroid injections may participate.\n* Participants using topical, ocular, intra-articular, or intranasal steroids (with minimal systemic absorption) may participate.\n* Brief courses of corticosteroids for prophylaxis (eg, contrast dye allergy) or study treatment-related standard premedication are permitted.\n* Evidence of interstitial lung disease, history of interstitial lung disease, or active, noninfectious pneumonitis.\n* Palliative radiation therapy administered within 1 week of first dose of study treatment or radiation therapy that is \\> 30 Gy within 6 months of the first dose of study treatment. Note: Participants must have recovered from all radiation-related toxicities, not require corticosteroids for this purpose, and not have had radiation pneumonitis.\n* Has received systemic antibiotics ≤ 7 days prior to the first dose of study drug.\n* History of organ transplant, including allogeneic stem cell transplantation.\n* Known hypersensitivity to another monoclonal antibody that cannot be controlled with standard measures (eg, antihistamines and corticosteroids).\n* Known allergy or hypersensitivity to any component of retifanlimab or formulation components.\n* Has received a live vaccine within 28 days of the planned start of study drug.\n* Patients with known history of UGT1A1 gene polymorphism.",
   "enrollment": 12,
   "has_results": false,
@@ -90,19 +90,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 경우",
+    "과거 면역관문억제제(PD-1/PD-L1) 치료 경험이 있는 경우",
+    "증상이 있는 급진행성 뇌전이 또는 연수막 침범이 있는 경우",
+    "조절되지 않는 심혈관 질환이 있는 경우",
+    "췌장암 외 다른 활성 악성 종양이 있는 경우"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 치료 경험이 없는 진행성 췌장선암 환자를 위한 1상 임상시험",
    "prior_excluded": [
     "immunotherapy"
    ],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

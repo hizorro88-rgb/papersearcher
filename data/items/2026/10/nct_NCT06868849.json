@@ -19,9 +19,9 @@
  "id": "nct:NCT06868849",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 307명이며 췌장암 악액질(pancreatic cancer cachexia) 환자가 포함됩니다.",
-  "임상 1a상에서는 안전성과 내약성을 평가하고 최대내성용량(MTD) 등을 결정합니다.",
-  "임상 2상은 50 mg 및 150 mg 용량과 위약을 12주 동안 비교하여 예비 유효성을 평가합니다."
+  "임상 1a/2상 단계로 진행되며 총 307명의 환자를 목표로 모집합니다.",
+  "2상의 췌장암 악액질 코호트(코호트 B)는 1차 표준 항암 치료를 받고 있거나 시작할 예정인 환자를 대상으로 합니다.",
+  "2상에서는 12주 동안 50 mg 및 150 mg의 JMT203과 위약을 비교하여 예비 유효성을 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06868849"
  },
- "summary_ko": "이 연구는 암 악액질(cancer cachexia) 환자를 대상으로 JMT203 주사제의 안전성, 내약성, 약동학 및 유효성을 평가하기 위한 임상 1a/2상 시험입니다. 임상 1a상은 용량증량 및 용량확대 연구로 최대내성용량(MTD)과 권장용량(RDE)을 확인합니다. 임상 2상은 3개의 코호트로 나누어 대조군과 비교하며, 코호트 B는 췌장암 악액질(pancreatic cancer cachexia) 환자를 대상으로 합니다. 총 목표 환자 수는 307명입니다.",
+ "summary_ko": "이 연구는 암 악액질(cancer cachexia) 환자를 대상으로 JMT203 주사제의 안전성과 유효성을 평가하기 위한 임상 1a/2상 시험입니다. 1a상은 용량 증량 및 확장 단계이며, 2상은 대조군과 비교하여 유효성을 평가하고 3상 권장 용량을 결정하는 무작위, 이중맹검, 위약 대조 연구입니다. 2상은 대장암 악액질, 췌장암 악액질, 기타 고형암 악액질의 세 가지 코호트로 나누어 진행됩니다. 총 목표 인원은 307명이며, 현재 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study of JMT203 in Patients With Cancer Cachexia",
- "title_ko": "암 악액질 환자를 대상으로 한 JMT203 연구",
+ "title_ko": "암 악액질 환자를 대상으로 JMT203의 안전성, 내약성, 약동학 및 유효성을 평가하는 연구",
  "trial": {
   "conditions": [
    "Non Small Cell Lung Cancer",
@@ -66,7 +66,7 @@
     "phone": "86-0311-69085587"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 자발적으로 동의서에 서명한 환자\n- 조직학적 또는 세포학적으로 확진된 악성 고형암 환자 (코호트 B는 1차 표준 항암 치료를 받거나 시작할 예정이며 3사이클 이하인 환자)\n- 2011년 국제 암 악액질 합의 기준에 따라 6개월 이내 비자발적 체중 감소 >5% 또는 체질량지수(BMI) <18.5 kg/m²일 때 체중 감소 >2%에 해당하는 환자\n- 장기 기능이 적절하고 Eastern Cooperative Oncology Group Performance Status(ECOG PS) 점수가 0~2점인 환자\n- 예상 생존기간이 4개월 이상인 환자\n\n제외 기준:\n- 식이 섭취 감소를 유발하는 가역적 원인이 있는 환자\n- 연하곤란 또는 위장관 폐쇄, 활성 염증성 장질환 등 소화 및 흡수 장애가 있는 환자\n- 다른 명확한 원인(만성 폐쇄성 폐질환, 조절되지 않는 갑상선 질환, 장기 부전, 에이즈 등)으로 인한 악액질 환자\n- 스크리닝 기간 동안 경관 영양 또는 비경구 영양 치료를 받는 환자\n- 식욕 촉진제 또는 체중 감소 개선 약물을 투여받은 경력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 연구에 자발적으로 참여하고 동의서를 서란한 환자\n- 조직학적 또는 세포학적으로 진단된 악성 고형암 환자\n- 코호트 B(췌장암 악액질)의 경우, 1차 표준 항암 치료를 현재 받고 있거나 시작할 예정이며 3사이클 이하의 1차 치료를 받은 환자 (표적 치료에 부적합한 경우)\n- 2011년 국제 합의 기준에 따른 암 악액질 진단 기준을 충족하는 환자\n- 동유럽 협력 암 그룹(ECOG) 수행능력 평가 점수가 2 이하인 환자\n- 예상 생존 기간이 4개월 이상인 환자\n\n제외 기준:\n- 음식 섭취 감소를 유발하는 가역적 원인이 있는 환자\n- 연하곤란 또는 소화 흡수 장애가 있는 환자\n- 다른 명확한 원인에 의한 악액질 환자\n- 스크리닝 기간 동안 경관 영양 또는 비경구 영양 치료를 받는 환자\n- 등록 전 28일 이내에 식욕 촉진제 또는 체중 감소 개선 처방약을 복용한 환자\n- 체질량지수(BMI)가 30 kg/m²를 초과하는 환자\n- 조절되지 않는 심혈관 질환 또는 중증 감염이 있는 환자\n- 활동성 중추신경계 전이가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\nInclusion Criteria:\n\n1. Age ≥ 18 years old;\n2. Voluntarily participate in the study and sign the informed consent form;\n\nInclusion Criteria:\n\n1. Age ≥ 18 years old;\n2. Voluntarily participate in the study and sign the informed consent form;\n3. Malignant solid tumors confirmed histologically or cytologically, with ongoing or completed anti-tumor treatment, and no significant tumor progression within 28 days prior to the first drug administration，and the investigator estimates that the participant will not require a switch to another anticancer therapy due to disease progression during the first treatment cycle (21 days). For the Phase II portion:\n\n   * Cohort A (participants with colorectal cancer cachexia): Must meet the following treatment status: currently receiving or about to initiate investigator-selected second-line standard anticancer therapy, with no more than 5 cycles of second-line therapy, and not suitable for immune checkpoint inhibitors.;\n   * Cohort B (participants with pancreatic cancer cachexia): Must meet the following treatment status: currently receiving or about to initiate investigator-selected first-line standard anticancer therapy, with no more than 3 cycles of first-line therapy, and not suitable for targeted therapy.;\n   * Cohort C (participants with cachexia from other solid tumors): Currently receiving or have completed investigator-selected standard anticancer therapy, with no more than three prior lines of therapy.\n4. Diagnosed with cancer cachexia according to the criteria of the 2011 International Consensus on Cancer Cachexia: Definition and Classification, combined with characteristics of the Chinese population, i.e., presenting with one of the following within 6 months (previous weight data must be supported by written documentation approved by the sponsor): involuntary weight loss \\>5%, or weight loss \\>2% when Body Mass Index （BMI） \\<18.5 kg/m²;\n5. Adequate organ function, meeting relevant laboratory test standards （without transfusion or hematopoietic growth factor support within 14 days prior to testing）:\n6. Eastern Cooperative Oncology Group Performance Status (ECOG PS) score: ≤1;\n7. 7\\. Eastern Cooperative Oncology Group Performance Status （ECOG PS）score: ≤2;\n8. Estimated survival ≥4 months;\n9. Fertile eligible patients must use adequate contraceptive measures from the time of signing the informed consent form until 6 months after the last drug administration; female patients of childbearing age must have a negative serum pregnancy test within 7 days before the first drug administration.\n\nExclusion Criteria:\n\n1. Presence of reversible causes leading to decreased food intake;\n2. Patients with dysphagia or poor food digestion and absorption, including gastrointestinal obstruction, active inflammatory bowel disease, or short bowel syndrome;\n3. Patients with cachexia caused by clearly identified other causes, such as severe chronic obstructive pulmonary disease, uncontrolled thyroid disease, vital organ failure, or Acquired Immune Deficiency Syndrome （AIDS）;\n4. Patients receiving tube feeding or parenteral nutrition therapy during the screening period;\n5. Patients who have taken any prescription medications for appetite enhancement or improve weight loss within 28 days or 5 half-lives (whichever is shorter) before the first study drug administration, including but not limited to anamorelin, medroxyprogesterone acetate, dronabinol, medical marijuana, etc.;\n6. Initiation of systemic glucocorticoids (prednisone \\>10 mg/day or equivalent doses of other similar drugs) or other immunosuppressive therapies within 28 days before the first study drug administration, excluding pretreatment for antitumor therapy;\n7. Patients with a BMI exceeding 30 kg/m²;\n8. Patients who have undergone major surgery within 4 weeks before the first study drug administration and have not recovered, or are expected to undergo major surgery during the study;\n9. Patients who have received other clinical study medications within 4 weeks or 5 half-lives (whichever is shorter) before the first study drug administration;\n10. Patients with severe infections requiring intravenous antibiotics, antivirals, or antifungals during the screening period;\n11. Patients with difficult-to-control moderate to large amounts of serous cavity effusion, such as pericardial effusion or pleural/abdominal/pelvic effusion, within 14 days before the first study drug administration;\n12. Patients with a second primary active malignancy within 2 years before the first study drug administration, excluding locally curable tumors that have undergone radical treatment (e.g., resected basal cell or squamous cell skin cancer, superficial bladder cancer, breast carcinoma in situ);\n13. Patients with active central nervous system metastases (brain metastases, carcinomatous meningitis, and spinal cord metastases), except for those with controlled lesions confirmed by imaging studies within 28 days before the first use of the investigational product;\n14. History of severe cardiovascular disease, including but not limited to:\n\n    1. Severe cardiac rhythm or conduction abnormalities, such as ventricular arrhythmias requiring clinical intervention, second- or third-degree atrioventricular block, etc.;\n    2. Occurrence of acute coronary syndrome, congestive heart failure, stroke, or other cardiovascular events of grade 3 or higher within 6 months before the first study drug administration;\n    3. New York Heart Association functional class ≥III or left ventricular ejection fraction (LVEF) \\<50%;\n15. Patients with severe immune deficiency or a history of organ transplantation;\n16. Patients with recent (within the past year) or current depression or suicidal ideation/tendencies;\n17. Known allergy to JMT203 or its components;\n18. History of severe allergic reactions or uncontrollable allergic asthma;\n19. Patients deemed unsuitable for participation in this clinical study by the investigator for other reasons.",
   "enrollment": 307,
   "has_results": false,
@@ -82,16 +82,24 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "체질량지수(BMI) 30 kg/m² 초과",
+    "조절되지 않는 심혈관 질환",
+    "활동성 중추신경계 전이",
+    "중증 감염"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "1차 치료를 받고 있거나 시작할 예정인 췌장암 악액질 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -22,10 +22,9 @@
  "id": "nct:NCT06572813",
  "importance": 0.8,
  "key_points_ko": [
-  "대상 질환은 전이성 췌장암(Pancreas Cancer)이며 목표 인원은 63명입니다.",
-  "중재 방법은 Bortezomib Injection, Sintilimab, mFOLFIRINOX(oxaliplatin, fluorouracil, irinotecan, leucovorin) 병용입니다.",
-  "1상에서는 내약성 평가와 용량 결정을 진행하며, 2상에서는 ORR, PFS, OS 등을 평가합니다.",
-  "초록에 명시되지 않은 구체적인 생존기간이나 반응률 결과는 초록에 명시되지 않음."
+  "대상 질환은 전이성 췌관선암(PDAC)입니다.",
+  "목표 인원은 총 63명입니다.",
+  "연령 기준은 18세부터 75세까지입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06572813"
  },
- "summary_ko": "이 임상시험은 전이성 췌장암(pancreas cancer) 환자를 대상으로 Bortezomib Injection, Sintilimab(신딜리주맙, PD-1 MAb), mFOLFIRINOX 병용 치료의 안전성과 유효성을 평가합니다. 단일 기관, 전향적, 공개 라벨 방식으로 진행됩니다. 1상에서는 내혈성과 용량을 평가하고, 2상에서는 객관적 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가합니다. 목표 환자 수는 63명이며 연령은 18세에서 75세 사이입니다.",
+ "summary_ko": "이 임상시험은 전이성 췌장암 환자를 대상으로 Bortezomib Injection(보르테조밉), Sintilimab(신틸리맙, PD-1 억제제), 그리고 mFOLFIRINOX(옥살리플라틴, 플루오로우라실, 이리노테칸, 류코보린) 병용 요법의 안전성과 유효성을 평가하기 위한 단일기관, 전향적, 공개 1/2상 연구입니다. 1상에서는 병용 요법의 내인성과 보르테조밉의 용량을 결정하고, 2상에서는 객관적 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가합니다. 목표 환자 수는 63명입니다.",
  "summary_source": "llm",
  "tags": [
   "metastatic pancreatic cancer",
@@ -76,7 +75,7 @@
     "phone": "+8615088682641"
    }
   ],
-  "eligibility_ko": "선정 기준: - 병리학적으로 확인된 췌장관선암(PDAC) - 복부 조영증강 CT, MRI, 흉부 CT 등으로 평가된 재발성 또는 전이성 질환 - 전신 치료를 받은 적이 없거나 1차 젬시타빈 기반 항암화학요법 후 진행된 경우 - ECOG 점수 0 또는 1 - 정상 혈청 크레아티닌 및 정상 상한치의 1.5배 미만인 총 빌리루빈 - 정상 상한치의 2배 미만인 ALT 및 AST - 서면 동의서 서명. 제외 기준: - 4주 이내 다른 임상시험 참여 이력 - 자가면역질환 또는 글루코코르티코이드 치료를 받는 상태 - 2주 이내 항암화학요법 치료 이력 - 2주 이내 방사선치료 및 표적치료 이력 - 활동성 결핵 이력 - 과거 악성종양 치료 이력(기저세포암, 피부 편평세포암, 자궁경부 상피내암, 유두상 갑상선암 제외) - 최근 6개월 이내 주요 심혈관 질환 - 골수형성이상증후군 등 혈액학적 전암성 질환 - 간질성 폐질환의 증거 또는 병력 - 중추신경계 질환 병력 - 기존 말초신경병증 > 1 (NCI CTCAE) - 면역결핍증후군 - 면역억제 치료가 필요한 동종 이식 - 심각한 상처, 궤양 또는 골절 - 임상적 평가가 부적절한 경우",
+  "eligibility_ko": "선정 기준:\n* 병리학적으로 확진된 췌관선암(PDAC).\n* 복부 조영증강 CT, MRI, 흉부 CT 등으로 평가된 재발성 또는 전이성 질환.\n* 전신 치료를 받은 적이 없거나 젬시타빈(gemcitabine) 기반 항암화학요법 1차 치료 후 진행한 경우.\n* ECOG 수행능력 점수 0 또는 1.\n* 혈중 크레아티닌 정상, 총 빌리루빈 1.5 x ULN 미만.\n* ALT 및 AST가 2 x ULN 미만.\n* 서면 동의서 작성.\n\n제외 기준:\n* 4주 이내 다른 임상시험 참여 병력.\n* 자가면역질환 병력 또는 글루코코르티코이드 치료를 받는 상태.\n* 2주 이내 항암화학요법 치료 병력.\n* 2주 이내 방사선치료 및 표적치료 병력.\n* 활동성 결핵 병력.\n* 과거 악성종양 치료 병력 (기저세포암, 피부 편평세포암, 자궁경부 상피내암, 유두상 갑상선암 제외).\n* 최근 6개월 이내 주요 심혈관 질환 병력.\n* 골수형성이상증후군 등 혈액학적 전암성 질환.\n* 간질성 폐질환의 임상적 증거 또는 과거력.\n* 중추신경계 질환 병력 또는 소견 (적절히 치료된 경우 제외).\n* 기존 신경병증 > 1 (NCI CTCAE).\n* 면역결핍 증후군.",
   "eligibility_text": "Inclusion Criteria:\n\n* Pathologically (histologically or cytologically) confirmed pancreatic ductal adenocarcinoma (PDAC).\n* Recurrent disease or metastatic disease (such as liver, peritoneum, lung) evaluated by abdominal contrast-enhanced CT, MRI, and chest CT. PET/CT or other imaging examinations would be used if necessary.\n* Never receive any systematic treatment or Progression after fisrt line Gemcitabine base chemotherapy\n* ECOG score 0 or 1.\n* Serum creatinine level is normal, and serum total bilirubin level is less than 1.5 x ULN.\n* ALT and AST are less than 2 x ULN.\n* Signed informed consent.\n\nExclusion Criteria:\n\n* History of participation of other clinical trails within 4 weeks\n* History of autoimmune disease or other condition receiving glucocorticoid treatment\n* History of receiving chemotherapy within 2 weeks\n* History of radiotherapy and molecular target therapy within 2 weeks\n* History if active tuberculosis\n* History of malignance treatment in the past, excluding basal and cutaneous squamous cell carcinoma, cervical carcinoma in situ, papillary thyroid carcinoma\n* Major cardiovascular diseases (including myocardial infarction, unstable angina, congestive heart failure, severe uncontrolled arrhythmia) during the past six months of enrollment.\n* Hematological precancerous diseases, such as myelodysplastic syndromes.\n* Evidence of clinical-related or previous interstitial lung disease, such as noninfectious pneumonia or pulmonary fibrosis, or baseline chest CT scan or chest X-ray findings\n* Previous or physical findings of central nervous system disease, except for adequately treated (e.g. primary brain tumors, uncontrolled seizures or strokes with standard medications)\n* Preexisting neuropathy \\> 1 (NCI CTCAE).\n* Immune deficiency syndrome, such as active tuberculosis and HIV infection.\n* Allograft requires immunosuppressive therapy or other major immunosuppressive therapies.\n* Severe serious wounds, ulcers or fractures.\n* Clinical evaluation is unacceptable",
   "enrollment": 63,
   "has_results": false,
@@ -94,17 +93,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "4주 이내 다른 임상시험 참여 병력",
+    "자가면역질환 병력",
+    "최근 6개월 이내 주요 심혈관 질환",
+    "간질성 폐질환 병력",
+    "조절되지 않는 중추신경계 질환"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "전신 치료 경험이 없거나 젬시타빈 기반 1차 치료 후 진행한 전이성 췌관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

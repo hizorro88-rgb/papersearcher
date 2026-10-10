@@ -18,9 +18,9 @@
  "id": "nct:NCT06943521",
  "importance": 0.8,
  "key_points_ko": [
-  "임상시험 단계: 1/2상 (Phase I/II)",
-  "목표 인원: 27명",
-  "대상 질환: 췌장암(PDAC)을 포함한 다양한 진행성 고형암"
+  "임상시험 단계는 제1상/제2상(PHASE1/PHASE2)입니다.",
+  "목표 등록 환자 수는 27명입니다.",
+  "초록에 명시되지 않음(수치 결과 미발표)."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06943521"
  },
- "summary_ko": "이 연구는 진행성 고형암 환자를 대상으로 신약 MT-4561의 안전성, 내인성, 약동학(Pharmacokinetics, PK), 약력학 및 효능을 평가하기 위한 최초 인체 대상(First In Human, FIH), 다기관, 공개, 1/2상 임상시험입니다. 연구는 총 3개 파트로 나누어 진행되며, 1파트에서는 안전성과 최대내반용량(Maximum Tolerated Dose, MTD)을 평가합니다. 췌관선암(Pancreatic Ductal Adenocarcinoma, PDAC)을 포함한 다양한 고형암 환자가 참여 대상입니다. 목표 인원은 27명입니다.",
+ "summary_ko": "이 연구는 진행성 고형암 환자를 대상으로 신약 MT-4561의 안전성, 내약성, 약동학(PK), 약력학 및 효능을 평가하기 위한 제1상/제2상 임상시험입니다. 췌장암(췌관선암, PDAC)을 포함한 다양한 고형암 환자들을 대상으로 진행됩니다. 초록에 세부적인 효능 및 생존기간 결과는 아직 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study of MT-4561 in Patients With Various Advanced Solid Tumors",
@@ -76,7 +76,7 @@
     "phone": "Please E-mail"
    }
   ],
-  "eligibility_ko": "선정 기준: - 만 18세 이상 성인 남녀 - 적어도 1차 이상의 이전 치료에 실패했거나 임상적 이점을 제공하는 표준 치료 옵션이 없는 환자 - RECIST v1.1 기준 측정 가능한 병변이 1개 이상 - 동유럽협력종양학그룹(ECOG) 수행능력 상태 0~1 - 기대여명이 최소 3개월 이상 - 적절한 골수, 간, 신장 기능 보유 - 1파트 참여 대상에 췌관선암(PDAC) 포함. 제외 기준: - 활성 뇌 전이 또는 연수막 전이가 있는 환자 - 탈모를 제외한 이전 항암 치료로 인한 미해결 독성 2등급 이상 - 첫 투여 전 4주 이내 또는 반감기의 5배 이내의 전신 항암 치료력 - 선천성 장 큐티 증후군(long QT syndrome) 또는 임상적으로 유의한 심실 부정맥 병력 - QT 간격 연장 위험이 알려진 약물을 투여받은 환자 - 스크리닝 시 교정된 QT 간격(QTcF) > 470 msec",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 남녀\n- RECIST v1.1 기준 측정 가능한 병변이 1개 이상\n- 동유럽협력암그룹(ECOG) 수행능력 상태 0~1\n- 예상 여명이 최소 3개월 이상\n- 췌장암(췌관선암, PDAC) 등을 포함한 조직학적으로 확진된 진행성 고형암 환자\n\n제외 기준:\n- 활성 뇌전이 또는 연수막 전이 환자\n- 탈모를 제외하고 이전 항암 치료로 인한 미회복 독성(≥ 2등급)이 있는 환자\n- 연구용 의약품 첫 투여 전 4주 이내 또는 반감기의 5배 기간 이내의 전신 항암 치료 경험\n- 선천성 장 QT 증후군 또는 임상적으로 유의한 심실성 부정맥 병력\n- 스크리닝 시 QTcF 간격이 470 msec 초과",
   "eligibility_text": "Main Inclusion Criteria:\n\nPatients who have failed at least 1 prior therapy and, who have no standard treatment options demonstrated to provide clinical benefit or who are intolerable to or refuse further standard therapies will be enrolled.\n\n* Male or female patient aged 18 years or older at the time of signing the informed consent form\n* ≥ 1 measurable lesion by the RECIST v1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status: 0 to 1\n* Life expectancy of at least 3 months\n* Adequate bone marrow function\n* Adequate hepatic function\n* Adequate renal function estimated creatinine clearance ≥ 60 mL/min calculated using the Cockcroft and Gault equation or by institutional method\n* Part 1: Patients must have a confirmed histologic or cytologic diagnosis of one of the following solid tumors for participation in the study: head and neck squamous cell carcinoma (HNSCC), non-small cell lung cancer (NSCLC), esophageal cancer, gastric cancer, biliary tract cancer, pancreatic ductal adenocarcinoma (PDAC), breast cancer, ovarian cancer, cervical cancer, endometrial cancer, prostate cancer, urothelial carcinoma, neuroendocrine tumor (NET) or neuroendocrine carcinoma (NEC), soft tissue sarcoma, and NUT carcinoma.\n\nMain Exclusion Criteria:\n\n* Patients with active brain or leptomeningeal metastases\n* Any unresolved toxicity ≥ Grade 2 from previous anticancer therapy except for alopecia\n* Prior systemic anticancer therapy within 4 weeks before first dose of investigational medicinal product (IMP) or 5 half-lives, whichever is shorter, and prior radiotherapy within 2 weeks before first dose of IMP\n* History of congenital long QT syndrome or clinically significant ventricular arrhythmias (such as ventricular tachycardia, ventricular fibrillation or Torsades de pointes)\n* Patients who received drugs with a known risk of QT interval prolongation or Torsades de pointes within 14 days or 5 half-lives, whichever is shorter, before the start of IMP administration\n* QT interval corrected for heart rate using Fridericia's correction (QTcF) \\> 470 msec at screening",
   "enrollment": 27,
   "has_results": false,
@@ -93,15 +93,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "활동성 뇌전이 또는 연수막 전이",
+    "이전 치료로 인한 미회복 독성(≥ 2등급)",
+    "선천성 장 QT 증후군 또는 심실성 부정맥 병력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "이전 치료를 1가지 이상 실패한 진행성 췌장암(췌관선암) 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

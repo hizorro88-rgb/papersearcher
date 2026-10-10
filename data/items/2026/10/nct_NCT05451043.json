@@ -22,9 +22,10 @@
  "id": "nct:NCT05451043",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 환자 수는 총 62명입니다.",
-  "췌장암 환자에게는 durvalumab, gemcitabine, nab-paclitaxel, propranolol이 병용 투여됩니다.",
-  "상세한 임상 결과와 수치는 초록에 명시되지 않았습니다."
+  "진행성 간췌담도암 환자 62명을 대상으로 하는 2상 임상시험입니다.",
+  "면역항암제(durvalumab, tremelimumab), 혈압약 계열인 propranolol, 그리고 항암화학요법을 함께 투여합니다.",
+  "치유 목적의 국소 치료나 수술이 불가능한 진행성 췌관선암, 간세포암, 담도암 환자가 참여 대상입니다.",
+  "전체 생존기간이나 객관적 반응률 등의 효능 결과는 초록에 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05451043"
  },
- "summary_ko": "이 연구는 진행성 췌장암, 간세포암, 담도암 환자를 대상으로 면역항암제 durvalumab(더발루맙) 및 tremelimumab(트레멜리무맙)과 베타차단제 propranolol(프로프라놀올), 그리고 항암화학요법을 함께 투여하는 단일군 제2상 임상시험입니다. 췌장암 코호트에서는 durvalumab, gemcitabine(젬시타빈), nab-paclitaxel(납-파클리탁셀), propranolol이 병용됩니다. 총 목표 환자 수는 62명이며 현재 환자를 모집 중입니다. 초록에 유효성이나 안전성 결과는 명시되지 않았습니다.",
+ "summary_ko": "본 임상시험은 진행성 췌장암, 간암, 담도암 환자를 대상으로 면역항암제인 durvalumab(두르발루맙)과 tremelimumab(트레멜리무맙), 베타차단제인 propranolol(프로프라놀롤), 그리고 항암화학요법의 병용 치료 효과와 안전성을 평가합니다. 췌장암 코호트에서는 두르발루맙, 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 프로프라놀롤, 트레멜리무맙을 병용 투여합니다. 총 62명의 환자를 목표로 모집하며 단일군 중재 연구로 진행됩니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)",
- "title_ko": "진행성 간·췌장·담도계 암 환자를 위한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 임상시험",
+ "title_ko": "진행성 간췌담도암 환자를 대상으로 한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -62,7 +63,7 @@
    "Cholangiocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 환자\n- 체중 30kg 초과\n- 예상 여명 12주 이상\n- 근치적 목적의 국소 치료나 수술이 불가능한 진행성 췌장 선암, 간세포암, 담도암 진단 확정\n- 첫 연구 치료 전 최소 4주 전에 방사선 치료가 완료되었고 독성이 1등급 이하로 회복된 환자\n\n제외 기준:\n- 진행성 암에 대해 이전에 완화적 전신 치료를 받은 적이 있는 환자\n- 스테로이드 치료가 필요한 폐렴 병력이 있는 환자\n- 활동성 간질성 폐질환 병력이 있는 환자\n- 임상적으로 유의미한 활동성 심혈관 질환이 있는 환자\n- 뇌转移가 활동성이거나 연수막 질환이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 체중 30kg 초과\n- 기대여명 12주 이상\n- 수술이나 근치적 국소 치료가 불가능한 진행성 췌장선암, 간세포암, 또는 담도암 진단 확정\n- ECOG 수행능력 0~2\n- RECIST v1.1 기준 측정 가능한 병변 존재\n\n제외 기준:\n- 진행성 암에 대해 이전에 전신 완화 치료를 받은 적이 있는 환자\n- 스테로이드 치료가 필요한 폐렴 병력 또는 활동성 간질성 폐질환\n- 임상적으로 유의미한 심혈관 질환 또는 조절되지 않는 동반 질환\n- 치료되지 않은 활동성 뇌전이 또는 연수막 질환\n- 다른 악성종양의 과거력 또는 동시 발생 악성종양",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients must be 18 years of age or older.\n2. Body Weight \\>30kg\n3. Life expectancy of at least 12 weeks\n4. Patients must have a diagnosis of histologically documented advanced pancreatic adenocarcinoma, hepatocellular carcinoma, or BTC not amenable to curative intent local therapy or surgery. For the histologies there must only one histology type present ie not mixed cholangiocarcinoma/HCC. For the HCC cohort if tissue biopsy if histological diagnosis is not possible, diagnosis can be made clinically by American Association for the study of liver diseases (AASLD) criteria in cirrhotic patients.\n5. Radiation therapy (palliative or curative) must have been completed at least 4 weeks prior to first study treatment and patients must have toxicities recovered to grade 1 or less.\n6. Patients must be capable of providing consent to enrolment and treatment.\n7. Patients with a performance status of ECOG 0-2(15) will be eligible for enrolment (see Appendix 1).\n8. Measurable disease must be present according to RECIST criteria V1.1(16) (see Appendix 3).\n9. Women of child-bearing potential (WOCBP) must have a negative serum (or urine) pregnancy test at the time of screening. WOCBP is defined as any female who has experienced menarche and who has not undergone surgical sterilization (hysterectomy or bilateral oophorectomy or bilateral salpingectomy) and is not postmenopausal. Menopause is defined as 12 months of amenorrhea in a woman over age 50 years in the absence of other biological or physiological causes.\n10. Patients (men and women) of childbearing / reproductive potential should use highly effective birth control methods, as defined by the investigator, during the study treatment period and for a period of 6 months after the last dose of study drug. A highly effective method of birth control is defined as those that result in low failure rate (i.e. less than 1% per year) when used consistently and correctly.\n11. Female patients who are breast-feeding should discontinue nursing prior to the first dose of study treatment and until 90 days after the last dose of durvalumab monotherapy or 180 days after the last does of durvalumab + tremelimumab combination therapy.\n12. Male patients should agree to not donate sperm during the study and for a period of at least 6 months after last dose of study drug.\n13. Absence of any condition hampering compliance with the study protocol and follow- up schedule; those conditions should be discussed with the patient before registration in the trial.\n14. The following adequate organ function laboratory values must be met:\n\nHematological:\n\n• Absolute neutrophil count (ANC) \\>1.5 x109/L\n\n* For the Hepatocellular cohort Platelet count \\>/ 1.0 x109/L is adequate • Platelet count \\>100 x109/L\n* For the Hepatocellular cohort Platelet count \\>/ 65 x109/L is adequate • Hemoglobin \\>9 g/dL (may have been transfused)\n\nRenal:\n\n• Estimated creatinine clearance ≥ 45 mL/min according to the Cockcroft-Gault formula (or local institutional standard method)\n\nHepatic:\n\n* Total serum bilirubin \\<1.5x ULN\n\n  o For the HCC cohort bilirubin ≤ 2 x ULN\n* AST and ALT \\<2.5x ULN (or ≤ 5 x ULN for patients with documented metastatic disease to the liver)\n\nExclusion Criteria:\n\n1. Patients who have received prior palliative systemic treatment for their advanced cancer.\n2. History of pneumonitis requiring treatment with steroids.\n3. History of active interstitial lung disease.\n4. For HCC patients they must have a Child Pugh status of A.\n5. Clinically significant (i.e., active) cardiovascular disease: cerebral vascular accident/stroke (\\< 6 months prior to enrollment), myocardial infarction (\\< 6 months prior to enrollment), unstable angina, congestive heart failure (≥ New York Heart Association Classification Class II), or serious cardiac arrhythmia requiring medication.\n6. Uncontrolled intercurrent illness, including but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the patient to give written informed consent\n7. Mean QT interval corrected for heart rate using Fridericia's formula (QTcF) ≥470 ms calculated from 3 ECGs (within 15 minutes at 5 minutes apart) \\<\\<for durvalumab monotherapy and durvalumab + tremelimumab combination studies this criterion can be removed. For durvalumab ±tremelimumab in combination with an agent with pro-arrhythmic potential or where effect of the combination on QT is not known if this criterion should be retained.\n8. History of another malignancy or a concurrent malignancy;\n\n   • Exceptions include patients who have been disease-free for 3 years, or patients with a history of completely resected non-melanoma skin cancer or successfully treated in situ carcinoma are eligible, for example cervical cancer in situ. As well patients with a resected malignancy that did not require systemic therapy post-surgery are allowed.\n9. Active brain metastases or leptomeningeal disease.\n\n   • Patients with treated brain metastases that have been treated, are off steroids and anticonvulsants and have imaging documenting stability of brain metastases for 6 weeks post treatment will be eligible for enrolment.\n10. Current use of immunosuppressive medication, EXCEPT for the following: a. intranasal, inhaled, topical steroids, or local steroid injection (e.g., intra-articular injection); b. Systemic corticosteroids at physiologic doses ≤ 10 mg/day of prednisone or equivalent; c. Steroids as premedication for hypersensitivity reactions (e.g., CT scan premedication).\n11. Prior organ transplantation including allogeneic stem-cell transplantation.\n12. Active autoimmune disease that might deteriorate when receiving an immuno-stimulatory agent. Patients with diabetes type I, vitiligo, psoriasis, or hypo- or hyperthyroid diseases not requiring immunosuppressive treatment are eligible.\n13. Active infection requiring systemic therapy or Active infection including tuberculosis (clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice), hepatitis B (known positive HBV surface antigen (HBsAg) result), hepatitis C, Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[anti-HBc\\] and absence of HBsAg) are eligible. Patients positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for HCV RNA. Patients known positive for HIV.\n14. Known prior severe hypersensitivity to investigational product or any component in its formulations, including known severe hypersensitivity reactions to monoclonal antibodies (CTCAE v5.0 Grade ≥ 3).\n15. Other severe acute or chronic medical conditions including inflammatory bowel disease, immune pneumonitis, pulmonary fibrosis or psychiatric conditions including recent (within the past year) or active suicidal ideation or behavior; or laboratory abnormalities that may increase the risk associated with study participation or study treatment administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study.\n16. Persisting toxicity related to prior therapy (NCI CTCAE v. 5.0 grade \\> 1); however, alopecia, sensory neuropathy ≤ grade 2, or other toxicities ≤ grade 2 not constituting a safety risk based on investigator's judgment are acceptable.\n17. Enrollment in any other clinical protocol or investigational study with an interventional agent or assessments that may interfere with study procedures.\n18. Female patients who are pregnant or breastfeeding or male or female patients of reproductive potential who are not willing to employ effective birth control from screening to 90 days after the last dose of durvalumab monotherapy or 180 days after the last dose of durvalumab + tremelimumab combination therapy.\n19. Major surgical procedure (as defined by the Investigator) within 28 days prior to the first dose of IP. Note: Local surgery of isolated lesions for palliative intent is acceptable.\n20. Receipt of live attenuated vaccine within 30 days prior to the first dose of IP. Note: Patients, if enrolled, should not receive live vaccine whilst receiving IP and up to 30 days after the last dose of IP.\n21. Prior randomisation or treatment in a previous durvalumab and/or tremelimumab clinical study regardless of treatment arm assignment.\n22. Asthma requiring corticosteroid inhalers and having been admitted within the last year for an asthma exacerbation",
   "enrollment": 62,
   "has_results": false,
@@ -83,17 +84,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "이전 전신 완화 치료 경험",
+    "활동성 뇌전이 또는 연수막 질환",
+    "조절되지 않는 심혈관 질환",
+    "활동성 간질성 폐질환"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료 경험이 없는 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

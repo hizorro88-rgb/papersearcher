@@ -1,0 +1,65 @@
+{
+ "abstract": "BackgroundSarcopenia is associated with worse outcomes in pancreatic cancer patients, but longitudinal body composition changes during neoadjuvant therapy remain poorly understood.MethodsA retrospective review identified patients who underwent pancreatectomy, either upfront or after neoadjuvant therapy, for pancreatic adenocarcinoma between 2011 and 2021. Skeletal muscle area, index, and mean attenuation were calculated from CT images throughout the treatment course to assess sarcopenia. Multivariable generalized linear and logistic regression models were used to assess associations between sarcopenia, neoadjuvant therapy, and postoperative outcomes.ResultsA total of 72 patients were included: 32 who underwent neoadjuvant therapy and 40 who underwent upfront surgery. Forty-one (57%) patients had sarcopenia at diagnosis (65% upfront surgery vs 47% neoadjuvant, P = 0.154). Post-neoadjuvant therapy, 15.6% developed and 18.8% resolved sarcopenia. Median skeletal muscle mean attenuation increased by 2.4 HU after neoadjuvant therapy (P = 0.02). Patients receiving neoadjuvant therapy were more likely to undergo nutrition consultation prior to surgery (61% vs 7%, P = 0.003). Neoadjuvant therapy was also associated with higher postoperative albumin levels (β = 0.244; 95% CI 0.041-0.446). Baseline sarcopenia diagnosed by skeletal muscle area was associated with increased postoperative complications (OR 13.696; 95% CI 2.537-73.921), while neoadjuvant therapy did not significantly impact complications (OR 0.384; 95% CI 0.12-1.226).ConclusionsPatients who completed neoadjuvant therapy and underwent resection did not have increased rates of sarcopenia and were more likely to receive preoperative nutrition consultation and have higher postoperative albumin levels. The neoadjuvant period may represent an opportunity for sarcopenia assessment, nutritional optimization, and multimodal prehabilitation prior to pancreatectomy.",
+ "authors": [
+  "Cheung DC",
+  "Deshpande AJ",
+  "Wasif N",
+  "Butterfield RJ",
+  "Korfiatis P",
+  "Klug JR",
+  "Sandrasegaran K",
+  "Fong ZV"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42852719",
+ "importance": 0.75,
+ "key_points_ko": [
+  "총 72명의 환자 중 32명은 선행치료를, 40명은 선행수술을 받았습니다.",
+  "진단 시 전체 환자의 57%에게서 근감소증이 관찰되었습니다.",
+  "선행치료 후 15.6%의 환자에게 근감소증이 새로 생겼고 18.8%는 회복되었습니다.",
+  "기저 근감소증은 수술 후 합병증 증가와 연관이 있었습니다(교차비 OR 13.696; 95% 신뢰구간 2.537-73.921)."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1177/00031348261495994",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42852719"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42852719/"
+ },
+ "summary_ko": "이 연구는 2011년부터 2021년까지 췌관선암(pancreatic adenocarcinoma)으로 췌장절제술(pancreatectomy)을 받은 환자 72명을 대상으로 선행치료(neoadjuvant therapy) 전후의 근감소증(sarcopenia) 변화를 후향적으로 분석했습니다. 전체 환자의 57%가 진단 시 근감소증을 가지고 있었으며, 선행치료 후 15.6%는 새로 발생하고 18.8%는 회복되었습니다. 선행치료를 받은 환자들은 수술 전 영양 상담 비율이 높았고 수술 후 알부민(albumin) 수치가 더 높았으며, 선행치료 자체는 수술 후 합병증을 유의하게 증가시키지 않았습니다. 초록에 명시된 바와 같이, 선행치료 기간은 췌장절제술 전 근감소증 평가와 영양적 최적화를 위한 기회를 제공할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Neoadjuvant Window: Serial Assessment of Sarcopenia During Treatment for Pancreatic Cancer",
+ "title_ko": "선행화학요법 창(The Neoadjuvant Window): 췌장암 치료 중 근감소증의 연속적 평가",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic cancer mortality is primarily driven by metastatic disease, and epithelial-mesenchymal transition (EMT) is one mechanism that promotes this process. The chemokine receptor CXCR2 has been implicated in tumor progression, but its role in pancreatic cancer remains unclear. We investigated CXCR2 in HPAF-II (epithelial-like) and PANC-1 (mesenchymal-like) pancreatic cancer cells. siRNA-mediated CXCR2 knockdown reduced ERK and AKT phosphorylation and decreased PI3K subunit expression in PANC-1 cells, but not HPAF-II cells. Furthermore, CXCR2 knockdown significantly reduced wound closure in PANC-1 cells. These findings indicate that CXCR2 may regulate EMT-associated signaling and migration in mesenchymal-like pancreatic cancer cells.",
+ "authors": [
+  "Krzeminski J",
+  "Guttilla Reed IK"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42851713",
+ "importance": 0.57,
+ "key_points_ko": [
+  "siRNA를 이용한 CXCR2 억제는 PANC-1 세포에서 ERK 및 AKT 인산화를 감소시켰습니다.",
+  "CXCR2 억제는 PANC-1 세포의 PI3K 소단위체 발현을 감소시켰습니다.",
+  "CXCR2 억제는 PANC-1 세포의 이동(상처 치유)을 유의하게 줄였습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.17912/micropub.biology.002330",
+  "nct": [],
+  "pmcid": "PMC13647129",
+  "pmid": "42851713"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "MicroPubl Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42851713/"
+ },
+ "summary_ko": "본 연구는 췌장암 세포주인 HPAF-II와 PANC-1에서 케모카인 수용체 CXCR2의 역할을 조사했습니다. siRNA를 이용해 CXCR2를 억제한 결과, PANC-1 세포에서 ERK 및 AKT 인산화가 감소하고 PI3K 소단위체 발현이 줄어들었습니다. 또한 CXCR2 억제는 PANC-1 세포의 상처 치유(이동) 능력을 유의하게 감소시켰습니다. 이러한 결과는 CXCR2가 상피간엽전이(EMT) 관련 신호전달과 세포 이동을 조절할 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CXCR2 knockdown reduces ERK and AKT signaling and migration in PANC-1 pancreatic cancer cells",
+ "title_ko": "CXCR2 발현 억제는 PANC-1 췌장암 세포에서 ERK 및 AKT 신호전달과 이동을 감소시킵니다",
+ "trial": null,
+ "type": "paper"
+}

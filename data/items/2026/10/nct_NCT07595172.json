@@ -23,9 +23,8 @@
  "importance": 0.8,
  "key_points_ko": [
   "목표 환자 수는 55명입니다.",
-  "대상 질환은 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC)입니다.",
-  "중재 방법은 NALIRIFOX, adebrelimab, PULSAR 병용 요법입니다.",
-  "생존기간, 반응률 등의 구체적인 결과 수치는 초록에 명시되지 않았습니다."
+  "1차 치료를 받지 않은 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC) 환자를 대상으로 합니다.",
+  "NALIRIFOX, adebrelimab, PULSAR를 병용하여 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07595172"
  },
- "summary_ko": "이 연구는 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC) 환자 55명을 대상으로 NALIRIFOX와 adebrelimab, 그리고 PULSAR를 1차 치료로 병용하여 안전성과 예비 유효성을 평가하는 임상시험입니다. 치료에 앞서 환자들은 방사선 치료 계획을 위한 CT 시뮬레이션을 거칩니다. 또한 치료 반응과 예측에 관련된 바이오마커를 탐색합니다. 초록에 유효성 결과 수치는 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC) 환자 55명을 대상으로 NALIRIFOX, adebrelimab(아데브렐리맙), PULSAR 병용요법의 1차 치료로서의 안전성과 예비 유효성을 평가합니다. 등록된 환자들은 방사선 CT 시뮬레이션 및 치료 계획을 거치며, 예측 인자 및 유효성 관련 바이오마커도 함께 탐색합니다. 본 연구는 1상 및 2상(phase1/phase2) 임상시험으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "chemotherapy",
@@ -59,7 +58,7 @@
   "PDAC"
  ],
  "title": "NALIRIFOX+Adebrelimab+PULSAR for Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자를 위한 NALIRIFOX, adebrelimab, PULSAR 병용 요법 임상시험",
+ "title_ko": "진행성 췌장암 환자를 위한 NALIRIFOX, adebrelimab, PULSAR 병용요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -72,7 +71,7 @@
     "phone": "+028 85423609"
    }
   ],
-  "eligibility_ko": "선정 기준: - 연령 18세에서 75세 - 조직학적으로 확진된 췌관선암(PDAC) - 이전에 치료받지 않은 국소 진행성 절제 불가능 또는 전이성 PDAC로, 방사선 조사받지 않은 측정 가능한 병변이 최소 1개 이상 존재 - ECOG 수행 능력 상태(PS) 0~1 - 예상 생존기간 3개월 이상 - 방사선 치료에 대한 금기증이 없음. 제외 기준: - 키메라, 인간화 항체 또는 융합 蛋白에 대한 심각한 과민반응 병력 - 임신부, 수유부 또는 피임을 거부하는 가임기 남녀 - 5년 이내에 다른 악성 종양 병력 - 증상이 있는 중등도/중증 흉수 또는 복수",
+  "eligibility_ko": "선정 기준:\n* 연령 18세에서 75세 사이의 성인\n* 조직학적으로 확진된 췌관선암(PDAC)\n* 이전에 치료를 받은 적 없는 국소 진행성 절제 불가능 또는 전이성 PDAC로, 방사선 치료를 받은 적 없는 측정 가능한 병변이 최소 1개 이상 존재\n* ECOG 수행능력(PS) 0-1\n* 예상 생존기간 3개월 이상\n* 적절한 장기 기능 유지\n\n제외 기준:\n* 키메라, 인간화 항체 또는 융합 단백질에 대한 중증 과민증 병력\n* 임신부, 수유부 또는 피임에 동의하지 않는 가임기 남녀\n* 5년 이내의 다른 악성 종양 병력 (치유 목적으로 치료되어 재발 위험이 낮은 경우 등은 예외)\n* 증상이 있는 중등도/중증 흉수 또는 복수\n* 활동성 출혈, 응고장애 또는 항응고제/항혈소판제 사용 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Age: 18-75 years, regardless of gender.\n* Histologically confirmed pancreatic ductal adenocarcinoma (PDAC).\n* Previously untreated, locally advanced unresectable or metastatic PDAC, with at least one measurable lesion (RECIST v1.1) not previously irradiated.\n* ECOG Performance Status (PS): 0-1.\n* Expected survival ≥ 3 months.\n* Willing and able to comply with study procedures, treatment, and follow-up.\n* No contraindications to radiotherapy.\n* Adequate organ function: WBC ≥ 2.5×10⁹/L, ANC ≥ 1.5×10⁹/L; Platelets ≥ 75×10⁹/L; Hemoglobin (HGB) ≥ 90 g/L (no transfusion or EPO dependence within 7 days); Total bilirubin (Tbil) ≤ 1.5×ULN; ALT/AST ≤ 5×ULN;Albumin ≥ 30 g/L; INR ≤ 1.5×ULN; Serum creatinine (Cr) ≤ 1.5×ULN Urine protein ≤ 1+\n* HBsAg-positive patients must have HBV-DNA ≤ 1×10³ IU/mL (copies/mL). If HBV-DNA ≥ 1×10³ IU/mL, patients may still be eligible if chronic HBV is stable and not expected to increase risk, per investigator assessment.\n* Voluntary participation with signed informed consent form.\n\nExclusion Criteria:\n\n* History of severe hypersensitivity to chimeric, human(ized) antibodies, or fusion proteins.\n* Pregnant or breastfeeding women, or men/women of childbearing potential unwilling/unable to use effective contraception during the study.\n* Other malignancies within 5 years, except: Malignancies treated with curative intent and no known active disease for ≥5 years with low recurrence risk; Adequately treated non-melanoma skin cancer or lentigo maligna without disease evidence; Adequately treated carcinoma in situ (e.g., cervical, breast) with no current disease.\n* Symptomatic moderate/severe pleural effusion or ascites.\n* Active bleeding or coagulopathy (PT \\>16s, APTT \\>43s, INR \\>1.5×ULN), bleeding tendency, or current use of thrombolytics/anticoagulants/antiplatelets.\n* GI bleeding within 6 months or high bleeding risk (e.g., active ulcer with occult blood++). If occult blood+ persists, endoscopy required.\n* High-risk esophageal/gastric varices needing intervention.\n* History of drug abuse, psychiatric disorder, or inability to abstain.\n* Solid organ/bone marrow transplant, or active autoimmune disease requiring systemic treatment within 2 years.\n* Immunodeficiency or HIV infection.\n* Objective evidence of pulmonary fibrosis, interstitial lung disease, pneumoconiosis, radiation-/drug-induced pneumonitis, or severely impaired pulmonary function.\n* Major surgery within 4 weeks or minor surgery within 1 week (e.g., tooth extraction).\n* Vaccination within 30 days before the first dose.\n* Abdominal fistula, GI perforation, or abscess within 4 weeks.\n* Any clinically significant abnormality affecting safety per investigator, including: Active infection requiring systemic therapy; Uncontrolled diabetes/hypertension (BP \\>140/90 mmHg despite ≤2 antihypertensives); Myocardial infarction within 6 months; Thyroid dysfunction (\\>NCI CTCAE v4.0 Grade 1).\n* Other conditions deemed ineligible by the investigator.",
   "enrollment": 55,
   "has_results": false,
@@ -89,18 +88,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "5년 이내 다른 암 병력",
+    "증상이 있는 흉수 또는 복수",
+    "활동성 출혈 또는 응고장애",
+    "장기/골수 이식 또는 자가면역질환",
+    "면역결핍 또는 HIV 감염"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없는 국소 진행성 또는 전이성 췌관선암 환자를 위한 1차 치료 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",
