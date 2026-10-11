@@ -20,9 +20,9 @@
  "id": "nct:NCT07630961",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 인원은 총 66명이며 국내 기관은 0곳입니다.",
-  "대상 질환에는 전이성 췌장관암(PDAC)을 비롯한 비소세포폐암, 유방암 등이 포함됩니다.",
-  "연구는 환자에게 방사성 동위원소 68Ga-DFC413 또는 68Ga-NNS309를 투여하여 FAP 발현 병소를 확인하는 방식으로 진행됩니다."
+  "국소 진행성 또는 전이성 췌장암 환자 등 다양한 고형암 환자 66명을 대상으로 합니다.",
+  "방사성 리간드 영상 검사제인 68Ga-DFC413의 안전성과 체내 분포 등을 평가합니다.",
+  "2부에서는 68Ga-DFC413과 68Ga-NNS309의 비교 평가를 진행합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07630961"
  },
- "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장관암(PDAC)을 포함한 고형암 환자를 대상으로 방사성 리간드 영상(radioligand imaging) 제제인 [68Ga]Ga-DFC413의 영상 특성, 안전성, 생체내 분포(biodistribution), 약동학을 평가하고 [68Ga]Ga-NNS309와 비교하는 최초 인체(first-in-human) 임상시험입니다. 연구는 2개의 파트로 나누어 진행되며, 1파트는 영상 특성화, 2파트는 두 영상 제제의 비교 평가를 수행합니다. 목표 환자 수는 총 66명이며, 노바티스(Novartis Pharmaceuticals)에서 스폰서로 참여합니다.",
+ "summary_ko": "이 임상시험은 국소 진행성 또는 전이성 췌장암(PDAC)을 포함한 여러 고형암 환자를 대상으로 방사성 리간드 영상 검사제인 68Ga-DFC413의 영상 특성, 안전성, 체내 분포, 약동학을 평가하고 68Ga-NNS309와 비교합니다. 1부에서는 68Ga-DFC413의 단일 투여를 통한 영상 특성화를 평가하며, 2부에서는 68Ga-DFC413과 68Ga-NNS309를 비교 평가합니다. 총 66명의 환자를 목표로 모집하며 최초 인간 대상(First-in-Human) 공개 다기관 1상 임상시험으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "metastatic pancreatic ductal adenocarcinoma (PDAC)",
@@ -60,7 +60,7 @@
   "radioligand imaging"
  ],
  "title": "Phase I Study of JFI447 [68Ga]Ga-DFC413 and Comparison to FFG233 [68Ga]Ga-NNS309 in Patients With Solid Tumors",
- "title_ko": "고형암 환자 대상 68Ga-DFC413 및 68Ga-NNS309의 제1상 임상시험",
+ "title_ko": "고형암 환자에서 68Ga-DFC413의 1상 임상시험 및 68Ga-NNS309와의 비교",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -83,7 +83,7 @@
     "phone": "+41613241111"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 연구 참여 전 서면 동의를 완료한 환자\n- 연령이 18세 이상인 환자\n- ECOG 수행 능력 상태가 2 이하인 환자\n- 국소 진행성 절제 불가능 또는 전이성 PDAC, NSCLC, HR+/HER2- BC, TNBC, CRC, STS 중 하나의 진단을 받은 환자(이전 치료 차수 무관)\n- RECIST v1.1 기준에 따라 측정 가능한 병소가 최소 1개 이상 있는 환자\n- 스크리닝 방문 시 보관 중인 종양 검체(archival tumor sample)가 있는 환자\n\n제외 기준:\n- 신기능 저하 (사구체filtration rate < 60 mL/min)\n- 고빌리루빈혈증 또는 간 효소 수치(ALT, AST)가 기준치를 초과하는 환자 (간 전이 여부에 따라 기준 상이)\n- 조절되지 않는 요로 폐쇄 또는 요실금\n- 68Ga-DFC413 또는 68Ga-NNS309 성분에 대한 과민증이 있는 환자\n- 조절되지 않는 심각한 감염이 있는 환자\n- 약물 투여 전 4주 이내에 수술이나 주요 침습적 시술을 받은 환자\n- 약물 투여 전 2주 이내에 방사선 치료나 항암 치료 변경이 있었던 환자\n- 임산부 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 연구 참여 전 서면 동의서 작성\n- 연령 18세 이상\n- ECOG 수행능력 상태 2 이하\n- 국소 진행성 절제 불가능 또는 전이성 췌장암, 비소세포폐암, HR+/HER2- 유방암, 삼중음성 유방암, 대장암, 연부조직 육종 중 하나에 해당 (이전 치료 차수 무관)\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재\n- 스크리닝 방문 시 보관된 종양 검체 제공 가능\n\n제외 기준:\n- 신장, 간, 골수 등의 장기 기능이 기준 범위를 벗어난 경우\n- 조절할 수 없는 요로 폐쇄 또는 요실금\n- 68Ga-DFC413 또는 68Ga-NNS309 성분에 대한 과민반응 병력\n- 심각하고 조절되지 않는 감염이 있는 경우\n- 투여 전 4주 이내에 수술이나 주요 침습적 시술을 받은 경우\n- 투여 전 2주 이내에 방사선 치료를 받은 경우\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\nPatients eligible for inclusion in this study must meet all of the following criteria:\n\n1. Signed informed consent must be obtained prior to participation in the study.\n2. Age ≥ 18 years old.\n3. ECOG performance status ≤ 2.\n4. Patients with one of the following indications (regardless of lines of prior therapy):\n\n   Locally advanced unresectable or metastatic PDAC, NSCLC, HR+/HER2- ductal or lobular BC, TNBC, CRC or STS.\n5. Patients must have at least one measurable lesion per RECIST v1.1 as measured by local Investigator (by conventional MRI or CT scan).\n6. Patients must have an available archival tumor sample at the screening visit. If multiple archival tumor samples are available, the most recent will be requested. Exceptions may be made after documented discussion with Novartis.\n\nExclusion Criteria:\n\nPatients meeting any of the following criteria are not eligible for inclusion in this study:\n\n1. Out-of-range laboratory values defined as:\n\n   * Estimated glomerular filtration rate \\< 60 mL/min (calculated using CKD-EPI 2021 formula, or measured based on 24-hour urine collection)\n   * Total bilirubin \\> 1.5 x ULN (except for patients with Gilbert's syndrome who are excluded if total bilirubin \\> 3.0 x ULN) or direct bilirubin \\> 1.5 x ULN\n   * Alanine aminotransferase (ALT) \\> 3.0 x ULN, except for patients with tumor involvement of the liver who are excluded if ALT \\> 5.0 x ULN\n   * Aspartate aminotransferase (AST) \\> 3.0 x ULN, except for patients with tumor involvement of the liver who are excluded if AST \\> 5.0 x ULN\n   * Absolute Neutrophil Count \\< 1.0 x 109/L\n   * Hemoglobin \\< 9 g/dL\n   * Platelet count \\< 75 x 109/L\n2. Unmanageable urinary tract obstruction or urinary incontinence. If ureteral obstruction can be managed with the placement of ureteral stents, this exclusion criterion does not apply.\n3. Known hypersensitivity to 68Ga-DFC413 or 68Ga-NNS309 or their excipients.\n4. Any serious uncontrolled infection (acute or chronic), such as, but not limited to, bacterial, viral or fungal infections, confirmed by clinical evidence, imaging, and/or relevant positive laboratory tests (e.g., blood cultures, PCR for DNA/RNA). If a serious infection develops, it must resolve or be adequately controlled prior to 68Ga-DFC413 and/or 68Ga-NNS309 initiation.\n5. Surgery or major invasive procedure within 4 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n6. Radiation therapy within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n7. Change in anticancer therapy within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n8. Radiological contrast administration within 48 hours prior to 68Ga-DFC413 or 68Ga-NNS309 administration.\n9. Initiation or increasing doses of corticosteroids, TGF-β signaling inhibitors or immunomodulators within 2 weeks prior to 68Ga-DFC413 or 68Ga-NNS309 administration or between the two imaging agents.\n10. Known additional malignancy that is progressing or requires active treatment.\n11. Inability to complete the required investigational and standard imaging examinations due to any reason (e.g., severe claustrophobia, inability to lie still for the entire imaging time).\n12. Presence of CTCAE version 5.0 ≥ Grade 2 toxicity due to prior cancer therapy, except for neuropathy (inclusion of patients with neuropathy of ≤ Grade 2 is permitted) and alopecia.\n13. Any medical condition that would, in the Investigator's judgment, prevent the patient's participation in the clinical study due to safety concerns, compliance with clinical study procedures (including radiation safety precautions), or interpretation of study results.\n14. Pregnant women, where pregnancy is defined as the state of a female after conception and until the termination of gestation, confirmed by a positive human chorionic gonadotropin (hCG) laboratory test.\n15. Nursing (breast-feeding) women. Women who do not breast feed for 12 hours after 68Ga-DFC413 and/or 68Ga-NNS309 administration, but express and discard breast milk, are eligible.\n16. Women of child-bearing potential (WOCBP), defined as all women physiologically capable of becoming pregnant, unless they use highly effective methods of contraception (failure rate \\<1% per year) for 12 hours after the administered radioactive dose of 68Ga-DFC413 and 68Ga-NNS309.\n\n    Women are considered post-menopausal if they have had 12 months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g. hormonal profile confirming menopause and/or age-appropriate history of vasomotor symptoms).\n\n    Highly effective contraception methods include:\n    * Total abstinence (when this is in line with the preferred and usual lifestyle of the patient). Note that periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception.\n    * Bilateral tubal ligation, female sterilization (have had bilateral oophorectomy with or without hysterectomy), total hysterectomy or bilateral salpingectomy at least six weeks before taking 68Ga-DFC413 or 68Ga-NNS309. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment are they considered to be not of childbearing potential.\n    * Male sterilization (at least 6 months prior to screening). For female patients on the study, the vasectomized male partner should be the sole partner for that patient.\n    * Use of oral (estrogen and progesterone), injected, or implanted hormonal methods of contraception or placement of an intrauterine device (IUD) or intrauterine system (IUS), or other forms of hormonal contraception that have comparable efficacy (failure rate \\< 1%), for example, hormone vaginal ring or transdermal hormone contraception. In case of use of oral contraception, women should have been stable on the same pill for a minimum of 3 months before taking study treatment.\n\n    If local regulations deviate from the contraception methods listed above to prevent pregnancy, local regulations apply and will be described in the informed consent (IC).\n17. Sexually active males unwilling to use a condom during intercourse for 12 hours after the administered radioactive dose of 68Ga-DFC413 and 68Ga-NNS309. A condom is required for all sexually active male patients to prevent them from fathering a child and/or to prevent delivery of study treatment via seminal fluid to their partner. In addition, male patients must not donate sperm for the time period specified above. If local regulations deviate from the contraception methods listed above to prevent pregnancy, local regulations apply and will be described in the IC.\n\nOther protocol-defined inclusion/exclusioncriteria may apply.",
   "enrollment": 66,
   "has_results": false,
@@ -101,18 +101,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "심각하고 조절되지 않는 감염",
+    "임신 또는 수유 중인 여성",
+    "조절할 수 없는 요로 폐쇄 또는 요실금",
+    "알려진 과민반응"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "이전 치료 차수와 관계없이 참여 가능한 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

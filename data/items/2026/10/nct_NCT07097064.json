@@ -22,9 +22,10 @@
  "id": "nct:NCT07097064",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 160명입니다.",
-  "대상 질환은 국소 진행성 췌장암입니다.",
-  "중재 방법으로 표준 항암화학 방사선 치료와 MRI 유도 적응형 정위적 방사선 치료(SMART)를 사용합니다."
+  "5년 생존율은 약 5.5%이며 수술이 가능한 환자는 전체의 20%에 불과합니다.",
+  "국소 진행성 암(LACC)의 표준화된 치료를 위해 FOLFIRINOX와 GEMBRAX 유도 항암화학요법이 사용됩니다.",
+  "기존 방사선치료와 비교하여 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART)는 1년 국소 제어율 최대 98%, 전체 생존기간 최대 23개월을 보였습니다.",
+  "이 임상시험의 목표 인원은 160명이며 프랑스 내 기관에서 수행됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,14 +50,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07097064"
  },
- "summary_ko": "이 임상시험은 국소 진행성 췌장암(Locally Advanced Pancreatic Adenocarcinoma) 환자 160명을 대상으로 합니다. 표준 항암화학 방사선 치료와 자기공명영상 유도 적응형 정위적 방사선 치료(SMART)의 효과를 비교 검증합니다. 프랑스에서 진행되며 아직 환자 모집 전 단계입니다.",
+ "summary_ko": "이 연구는 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 항암화학방사선치료와 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART)를 비교·평가하는 2상 임상시험입니다. 대상 질환은 전이가 없는 국소 진행성 췌장암이며, 18세 이상 성인을 대상으로 합니다. 목표 인원은 160명이며, 프랑스에서 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Adenocarcinoma",
   "adaptative radiotherapy"
  ],
  "title": "Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers",
- "title_ko": "국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선 치료(SMART)의 평가",
+ "title_ko": "국소 진행성 췌장암 환자에서 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART) 평가",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
@@ -68,7 +69,7 @@
     "phone": "+33467613102"
    }
   ],
-  "eligibility_ko": "선정 기준: 조직학적으로 증명된 췌장 선암, 18세 이상, WHO 수행능력 상태 0-1, NCCN 권고에 따른 국소 진행성, 전이가 없는 상태, CA 19-9 수치 1000 IU/mL 미만, 유도 항암화학요법(Folfirinox 및/또는 Gemzar-Abraxane) 4~8 주기 완료, 가임기 여성의 음성 임신 테스트 결과, 효과적인 피임법 사용, 연구 절차 준수 가능 여부, 서면 동의서 제출, 프랑스 건강보험 가입자. 제외 기준: 다른 동반 암 또는 암 병력(특정 예외 제외), 복부 방사선 치료 병력, MRI 및 MRI 유도 방사선 치료 금기 사항, 결장 또는 직장의 만성 염증성 질환 병력, 임신부 및 수유부, 심각한 동반 질환 또는 장기 부전, 법적 무능력자, 플루오로피리미딘 계통 약물에 대한 심각한 반응 병력, capecitabine 또는 fluorouracil 과민증, DPD 결핍, 심각한 백혈구감소증·호중구감소증·혈소판감소증, 심각한 간 및 신장 기능 저하, brivudine 최근 또는 병용 치료.",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 췌장선암(pancreatic adenocarcinoma)\n- 18세 이상\n- WHO 수행능력 평가 점수 0-1\n- NCCN 1.2015 권고사항에 따른 국소 진행성\n- TAP CT 및 간 MRI 검사 결과 원격 전이가 없음\n- CA 19-9 수치 < 1000 IU/mL\n- FOLFIRINOX 또는 Gemzar-Abraxane 유도 항암화학요법을 최소 4주기 완료하였고 최대 8주기를 넘지 않음\n- 가임기 여성의 경우 치료 시작 전 7일 이내 임신 혈액검사 결과가 음성여야 함\n- 피임 지침 준수 동의\n- 예정된 방문, 치료 계획, 검사 준수 의사 및 능력\n- 서면 동의서 제출\n- 프랑스 건강보험 가입자\n\n제외 기준:\n- 다른 동반 암 또는 암 병력 (치료된 상피내 자궁경부암, 기저세포/편평세포 피부암, 표재성 방광종양, 또는 3년 이내 완치된 예후가 좋은 종양은 예외)\n- 연구 치료와 방사선 부위가 겹칠 수 있는 복부 방사선 치료 병력\n- MRI 및 MRI 유도 방사선치료 금기증 (폐쇄공포증, 금속 물질 존재 등)\n- 만성 대장염 또는 직장염 병력\n- 임신 중이거나 수유 중인 여성\n- 연구 참여나 안전성에 영향을 미칠 수 있는 심각하고 조절되지 않는 동반 질환\n- 법적 무능력자 (피성년후견인 등)\n- 플루오로피리미딘(fluoropyrimidine) 함유 치료에 대한 심각하고 예상치 못한 반응 병력\n- capecitabine, 부형제, 또는 fluorouracil에 대한 과민반응\n- 디하이드로피리미딘 탈수소효소(DPD) 완전 결핍\n- 심각한 백혈구감소증, 호중구감소증, 혈소판감소증 환자\n- 심각한 간부전 환자\n- 심각한 신부전 환자 (크레아티닌 청소율 30 mL/min 미만)\n- brivudine 최근 또는 동시 치료",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically proven pancreatic adenocarcinoma ;\n* Age ≥ 18 years ;\n* WHO score 0-1 ;\n* Locally advanced according to NCCN 1.2015 recommendations;\n* Non-metastatic after TAP scan and MRI of the liver ;\n* CA 19.9 \\< 1000 IU/mL ;\n* Completion of at least 4 cycles of induction chemotherapy (Folfirinox and/or Gemzar-Abraxane) with a maximum of 8 courses ;\n* Women of childbearing potential must have a pregnancy blood test within a maximum of 7 days before starting the study treatment. A negative result must be documented before study treatment is started. Women without reproductive potential are postmenopausal women or women who have undergone permanent sterilisation (e.g. tubal occlusion, hysterectomy, bilateral salpingectomy) ;\n* Effective contraception for women of childbearing age ;\n* Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests and other study procedures ;\n* Patient has given informed, written and express consent ;\n* Patient affiliated to a French health insurance scheme.\n\nExclusion Criteria:\n\n* Other concomitant cancer or history of cancer, with the exception of treated cervical cancer in situ, basal or squamous cell skin carcinoma, superficial bladder tumour (Ta, Tis, and T1) or a tumour with a good prognosis treated curatively without chemotherapy and without evidence of disease in the 3 years prior to inclusion ;\n* History of radiotherapy with a foreseeable overlap with the radiotherapy treatment under study (history of abdominal irradiation) ;\n* Contraindication to MRI and MRI-guided radiotherapy (claustrophobia, presence of metallic elements etc...) ;\n* History of chronic inflammatory disease of the colon or rectum ;\n* Women who are pregnant, parturient or breastfeeding ;\n* Any other serious concomitant and unbalanced disease or disorder that may interfere with the patient's participation in the study and his/her safety during the study (e.g. severe hepatic, renal, pulmonary, metabolic, or psychiatric disorders) ;\n* Legal incapacity (patient under curatorship or guardianship) ;\n* History of severe and unexpected reactions to treatment containing a fluoropyrimidine ;\n* Hypersensitivity to capecitabine, to used excipients or to fluorouracil ;\n* Known complete deficiency of dihydropyrimidine dehydrogenase (DPD) ;\n* In patients with severe leukopenia, neutropenia or thrombocytopenia ;\n* In patients with severe hepatic insufficiency ;\n* Patients with severe renal insufficiency (creatinine clearance less than 30 mL/min) ;\n* Recent or concomitant treatment with brivudine.",
   "enrollment": 160,
   "has_results": false,
@@ -84,18 +85,29 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": null,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "과거 복부 방사선 치료 병력",
+    "MRI 검사 금기증 (폐쇄공포증, 금속 물질 등)",
+    "임신 또는 수유 중인 여성",
+    "심각한 간, 신장, 폐, 대사 또는 정신 질환",
+    "플루오로피리미딘 계열 약물 과민반응 또는 DPD 결핍"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
-   "prior_required": [],
+   "min_prior_lines": 1,
+   "notes_ko": "유도 항암화학요법 4~8주기를 마친 국소 진행성 췌장암 환자",
+   "prior_excluded": [
+    "radiotherapy"
+   ],
+   "prior_required": [
+    "gemcitabine",
+    "FOLFIRINOX"
+   ],
    "setting": [
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -22,10 +22,9 @@
  "id": "nct:NCT07594964",
  "importance": 0.74,
  "key_points_ko": [
-  "대상 질환은 췌장관암(PDAC), 담도암, 간세포암, 위암 등 고위험 재발성 고형암입니다.",
-  "중재 방법은 XH001 주사(개인화된 mRNA 종양 신항원 백신)와 표준 보조 치료(mFOLFIRINOX Treatment Regimen)의 병용입니다.",
-  "목표 환자 수는 48명이며, 1상(PHASE1) 단계의 임상시험입니다.",
-  "초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다."
+  "목표 인원은 총 48명이며, 1상 임상시험으로 진행됩니다.",
+  "대상 질환에는 췌장관선암(PDAC), 담도암, 간세포암, 위암 등 고위험 재발성 고형암이 포함됩니다.",
+  "XH001 주사(개인화된 mRNA 종양 신항원 백신)와 표준 보조 치료의 병용 요법을 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,14 +49,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07594964"
  },
- "summary_ko": "이 임상시험은 근치적 수술 후 재발 위험이 높은 고형암 환자를 대상으로 개인화된 mRNA 종양 신항원 백신인 XH001 주사와 표준 보조 치료(mFOLFIRINOX 치료고요법 포함)를 병용했을 때의 안전성과 예비 유효성을 평가합니다. 대상 질환에는 췌장관암(PDAC) 등이 포함됩니다. 연구의 주요 목적은 병용 치료 시 발생하는 부작용을 확인하고, 특정 T세포 반응을 유도하는지, 그리고 무재발 생존기간을 연장할 수 있는지 확인하는 것입니다. 목표 인원은 48명이며 현재 환자를 모집 중입니다.",
+ "summary_ko": "이 임상시험은 근치적 수술 후 고위험 재발성 고형암 환자를 대상으로 개인화된 mRNA 종양 신항원 백신(personalized mRNA tumor neoantigen vaccine)인 XH001 주사와 표준 보조 치료(standard adjuvant treatment)를 병용하여 안전성과 예비 효능을 평가합니다. 주요 대상 질환에는 췌장관선암(Pancreatic Ductal Adenocarcinoma, PDAC), 담도암, 간세포암, 위암이 포함됩니다. 연구의 목적은 병용 치료 시 발생하는 부작용을 파악하고, 특이적 T세포 반응을 유도하는지 확인하며, 무재발 생존기간(relapse-free survival)을 연장할 수 있는지 평가하는 것입니다. 목표 인원은 48명이며, 단계는 1상(PHASE1)입니다.",
  "summary_source": "llm",
  "tags": [
   "mRNA",
   "Neoantigen specific tumor vaccine"
  ],
  "title": "To Evaluate the Safety, Tolerability, and Preliminary Efficacy of XH001 Injection as Adjuvant Therapy in Patients With High-risk Recurrent Solid Tumors",
- "title_ko": "고위험 재발성 고형암 환자의 보조 치료로서 XH001 주사의 안전성, 내인성 및 예비 유효성 평가",
+ "title_ko": "고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험",
  "trial": {
   "conditions": [
    "Biliary Cancer (Cholangiocarcinoma, Gall Bladder Cancer)",
@@ -77,7 +76,7 @@
     "phone": "0086-18101388626"
    }
   ],
-  "eligibility_ko": "선정 기준: - 서면 동의서를 제공한 환자 - 연령 18세에서 70세 사이의 남성 또는 여성 - 근치적 수술 후 병리학적으로 확인된 고위험 재발성 고형암(췌장관암, 담도암, 간세포암, 위선암 등) 환자 - 예상 생존기간 12개월 이상 - ECOG 점수 0-1점 - 적절한 골수, 신장, 간 및 응고 기능 기준을 충족하는 환자. 제외 기준: - 스크리닝 중 종양 잔류, 재발 또는 전이의 증거가 있는 경우 - 간성 뇌증 또는 간 이식 병력이 있는 경우 - 임상적으로 조절되지 않는 심낭 삼출, 흉수, 중등도 또는 중증 복수가 있는 경우 - XH001 주사 및/또는 부형제에 대한 3등급 이상의 중증 과민 반응 병력이 있는 경우 - 6개월 이내의 새로운 뇌혈관 사고 또는 심혈관 질환 병력이 있는 경우 - 경계성 절제 가능한 췌장관암, 신경내세포 종양 성분이 포함된 경우 등 특정 질환별 제외 기준에 해당하는 경우 - 활동성 또는 조절되지 않는 중증 감염이 있는 경우 - 5년 이내에 다른 악성 종양 병력이 있는 경우(치료된 상피내암 등 제외) - 자가면역 질환 병력이 있는 경우 - 이전에 유사한 치료용 종양 백신을 투여받은 적이 있는 경우",
+  "eligibility_ko": "선정 기준:\n* 서면 동의서를 자발적으로 제공한 자\n* 만 18세 이상 70세 이하의 남성 또는 여성\n* 근치적 수술 후 병리학적으로 확진된 고위험 재발성 고형암(췌장관선암, 담도 악성종양, 간세포암, 위선암 등) 환자\n* 기대 생존 기간이 12개월 이상인 자\n* ECOG 수행능력 점수 0-1인 자\n* 적절한 골수 기능 및 간·신장 기능 수치를 충족하는 자\n\n제외 기준:\n* 스크리닝 중 종양 잔류, 재발 또는 전이의 증거가 있는 자\n* 간성 뇌병증 또는 간 이식 병력이 있는 자\n* 임상적으로 조절되지 않는 심한 흉수, 복수 등이 있는 자\n* XH001 주사 및 부형제에 대해 3등급 이상의 심한 과민반응 병력이 있는 자\n* 스크리닝 전 6개월 이내에 뇌혈관 사고, 급성 심근경색, 심부전 등 심혈관 질환이 있었던 자\n* 경계성 절제 가능 췌장암, 혼합형 신경내분비종양 성분이 포함된 경우 등 특정 제외 조건을 가진 췌장관선암 환자\n* 활동성 또는 조절되지 않는 심각한 감염이 있는 자\n* 5년 이내에 다른 악성 종양 병력이 있는 자 (치료된 제자리암 등은 예외)\n* 자가면역 질환 병력이 있는 자\n* 이전에 유사한 치료용 종양 백신을 투여받은 적이 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form;\n* Aged between 18 and 70 years old, male or female;\n* Patients with high-risk recurrent solid tumors confirmed by pathology after radical surgery mainly include pancreatic ductal adenocarcinoma, biliary tract malignancies, hepatocellular carcinoma, gastric adenocarcinoma, etc.\n* Expected survival duration ≥12 months;\n* ECOG score of 0-1;\n* White blood cell count≥ 3.0×10\\^9/L; Neutrophil count ≥ 1.0×10\\^9/L; Platelet count ≥75×10\\^9/L; Hemoglobin (Hb)≥ 90g/L; Creatinine clearance rate≥50mL/min \\[calculated using the Cockcroft-Gault formula\\]; Alanine aminotransferase ≤ 3×ULN (patients with hepatocellular carcinoma or biliary tract malignancy \\<5×ULN); Aspartate aminotransferase ≤ 3×ULN ((patients with hepatocellular carcinoma or biliary tract malignancy \\<5×ULN); Total bilirubin ≤ 3×ULN; Serum albumin \\> 28g/L; Coagulation: Prothrombin time prolongation ≤ 4s;\n\nExclusion Criteria:\n\n* There is evidence of tumor residue, recurrence or metastasis during screening;\n* Has a history of hepatic encephalopathy or liver transplantation;\n* Has clinical uncontrolled (requiring repeated drainage) pericardial effusion, pleural effusion and moderate or severe ascites;\n* Requires long-term systemic administration of antiallergic drugs, or has severe hypersensitivity reactions (\\>=Grade 3) to XH001 injection and/or any of its excipients;\n* New cerebrovascular accidents within 6 months before screening (including ischemic stroke, hemorrhagic stroke and transient ischemic attack)；\n* Individuals who have experienced acute myocardial infarction, or have uncontrolled angina pectoris, uncontrolled arrhythmia, severe heart failure (NYHA heart failure classification standard\\>= Grade III) and other cardiovascular diseases within 6 months before screening;\n* Patients with pancreatic ductal adenocarcinoma (PDAC) have the following conditions: 1) Borderline resectable pancreatic ductal adenocarcinoma; 2) Tumor tissue containing neuroendocrine tumor components (i.e., mixed type); 3) Pancreatic tumor types other than PDAC; 4) Persistent severe diarrhea after surgery;\n* Patients with biliary tract malignancy have the following conditions: 1) Pancreatic or ampullary cancer; 2) Unresolved biliary obstruction; 3) Insufficient surgical biliary drainage, and there are signs of infection;\n* .Subjects with hepatocellular carcinoma exhibit the following conditions: 1) The tumor contains components such as fibrolamellar hepatocellular carcinoma, sarcomatoid hepatocellular carcinoma, and biliary tract malignancy; 2) Received more than one cycle of adjuvant TACE after surgery or ablation;\n* Patients with gastric adenocarcinoma have the following conditions: severe postoperative complications (severe postoperative infection, anastomotic leakage and gastrointestinal bleeding);\n* Have active or poorly controlled severe infections;\n* .Patients with other malignancies within 5 years before enrollment, except for those with a history of appropriately treated and cured cervical carcinoma in situ, breast carcinoma in situ, or skin basal cell carcinoma;\n* Any history of autoimmune diseases (regardless of whether they are currently active),；\n* Who have previously received similar therapeutic tumor vaccines;",
   "enrollment": 48,
   "has_results": false,
@@ -94,17 +93,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "스크리닝 시점의 종양 잔류, 재발 또는 전이",
+    "자가면역 질환 병력",
+    "이전의 유사한 치료용 종양 백신 투여력",
+    "5년 이내의 다른 악성 종양 병력"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "근치적 수술을 받은 고위험 재발성 췌장관선암(PDAC) 등 고형암 환자를 위한 수술 후 보조 치료 백신 1상 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "70 Years",
   "min_age": "18 Years",

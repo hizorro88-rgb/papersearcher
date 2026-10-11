@@ -19,9 +19,9 @@
  "id": "nct:NCT07522073",
  "importance": 0.98,
  "key_points_ko": [
-  "목표 인원은 588명이며 국내 8곳의 기관에서 진행됩니다.",
-  "이전에 전이성 단계에서 전신 치료를 받지 않은 환자를 대상으로 합니다.",
-  "KRAS G12D 유전자 변이가 확인된 전이성 췌관선암(PDAC) 환자가 참여 대상입니다."
+  "KRAS G12D 변이가 있는 전이성 췌장암 환자의 1차 전신 치료를 평가하는 3상 연구입니다.",
+  "표준 항암화학요법에 INCB161734를 병용 투여하는 군과 위약을 병용 투여하는 군을 비교합니다.",
+  "총 목표 대상자 수는 588명입니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07522073"
  },
- "summary_ko": "이 연구는 이전에 전신 치료를 받은 적이 없는 KRAS G12D 변이 전이성 췌관선암(PDAC) 환자를 대상으로 표준 항암화학요법에 INCB161734 또는 위약을 병용하여 그 효과와 안전성을 평가하는 임상시험입니다. 총 588명의 환자를 대상으로 진행되는 3상 임상시험이며 국내 8개 기관이 참여합니다. 환자들은 INCB161734 병용군 또는 대조군(위약 및 연구자 선택 항암화학요법)으로 배정됩니다.",
+ "summary_ko": "이전에 전신 치료를 받지 않은 KRAS G12D 변이 전이성 췌관선암(PDAC) 환자를 대상으로 진행하는 3상 임상시험입니다. 연구진이 선택한 표준 항암화학요법에 신약 INCB161734 또는 위약을 추가 병용하여 유효성과 안전성을 비교 평가합니다. 총 588명의 환자를 모집할 계획이며 국내 8개 기관이 참여하고 있습니다.",
  "summary_source": "llm",
  "tags": [
   "INCB161734",
@@ -59,7 +59,7 @@
   "metastatic pancreatic cancer"
  ],
  "title": "A Study to Evaluate Chemotherapy With or Without INCB161734 in Previously Untreated, KRAS G12D-Mutated Metastatic Pancreatic Ductal Adenocarcinoma",
- "title_ko": "이전 치료력이 없는 KRAS G12D 변이 전이성 췌관선암 환자를 대상으로 INCB161734 병용 항암화학요법을 평가하는 연구",
+ "title_ko": "치료 이력이 없는 KRAS G12D 변이 전이성 췌관선암 환자에서 항암화학요법과 INCB161734 병용을 평가하는 3상 임상시험",
  "trial": {
   "conditions": [
    "Solid Tumors"
@@ -76,7 +76,7 @@
     "phone": "+800 00027423"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 확인된 KRAS G12D 변이 전이성 췌관선암(PDAC)\n* 전이성 단계에서 이전 전신 치료 경험 없음\n* ECOG 수행능력 0-1\n* 적절한 장기 기능\n\n제외 기준:\n* 이전에 KRAS 억제제 치료 경험이 있는 경우\n* 연구 약물 첫 투여 전 1주일 이내에 전신 치료가 필요한 만성 또는 현재 활성 감염이 있는 경우\n* 알려진 활성 중추신경계(CNS) 전이가 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확인된 KRAS G12D 변이 전이성 췌관선암\n- 전이 상태에서 이전에 전신 항암치료를 받은 적이 없는 환자\n- ECOG 수행능력 점수 0~1점\n- 적절한 장기 기능\n\n제외 기준:\n- 이전에 KRAS 억제제로 치료받은 이력\n- 첫 투약 전 1주 이내에 전신 치료가 필요한 만성 또는 현재 활동성 감염\n- 알려진 활동성 중추신경계(CNS) 전이",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic PDAC with a KRAS G12D mutation\n* No prior systemic treatment in the metastatic setting\n* ECOG Performance status 0-1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior treatment with any KRAS inhibitor\n* Chronic or current active infection requiring systemic treatment within 1 week prior to the first dose of study drug\n* Known active CNS metastases\n\nOther protocol-defined Inclusion/Exclusion Criteria may apply.",
   "enrollment": 588,
   "has_results": false,
@@ -167,14 +167,14 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 KRAS 억제제 치료력",
-    "활성 중추신경계(CNS) 전이",
-    "전신 치료가 필요한 활성 감염"
+    "알려진 활동성 뇌 및 중추신경계 전이",
+    "이전 KRAS 억제제 치료 이력",
+    "최근 1주일 이내 전신 치료가 필요한 활동성 또는 만성 감염"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 KRAS G12D 변이 전이성 췌관선암 환자",
+   "notes_ko": "전이 상태에서 항암치료를 받은 적 없는 KRAS G12D 변이 전이성 췌장암 환자",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],

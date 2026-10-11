@@ -20,9 +20,9 @@
  "id": "nct:NCT05988372",
  "importance": 0.77,
  "key_points_ko": [
-  "총 50명의 환자가 등록될 예정이며, 각 25명씩 두 그룹으로 나뉘어 치료를 받습니다.",
-  "초기 AG 요법 유도 화학요법 후 질병 진행(PD)이 없는 환자를 대상으로 연구가 진행됩니다.",
-  "R0 절제술을 받은 환자는 수술 후 최대 12주 동안 surufatinib과 serplulimab 병용 유지 요법을 받습니다."
+  "수술 불가능한 국소 진행성 췌장암 환자 50명을 대상으로 시행하는 2상 임상시험입니다.",
+  "2주기의 AG 요법 유도 치료 후 질병이 진행되지 않은 환자를 AG 요법 단독군(25명) 또는 수루파티닙+세르플루리맙+AG 병용 요법군(25명)으로 무작위 배정합니다.",
+  "수술 가능 여부를 주기적으로 평가하여 완전 절제율을 확인하고, 수술 후 maintenance(유지) 치료의 효과와 안전성을 검증합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,14 +47,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05988372"
  },
- "summary_ko": "이 연구는 절제 불가능한 국소 진행성 췌장암 환자를 대상으로 surufatinib과 serplulimab을 albumin-paclitaxel 및 gemcitabine(AG) 요법에 병용하는 전환 치료(conversion therapy)의 유효성과 안전성을 평가하는 2상 무작위 대조 파일럿 임상시험입니다. 총 50명의 환자가 참여하여 AG 요법 단독군과 surufatinib 및 serplulimab 병용 치료군으로 무작위 배정됩니다. 초기 유도 화학요법 후 질병 진행(PD)이 없는 환자들을 대상으로 수술적 절제 가능성을 평가하며, 유지 요법 등의 치료를 진행합니다.",
+ "summary_ko": "본 연구는 수술이 불가능한 국소 진행성 췌장암 환자를 대상으로 수루파티닙(surufatinib), 세르플루리맙(serplulimab), 알부민 결합 파클리탁셀(albumin-paclitaxel) 및 젬시타빈(gemcitabine, AG 요법) 병용 전환 치료의 유효성과 안전성을 평가하는 2상 임상시험입니다. 총 50명의 환자를 대상으로 AG 요법 단독 치료군과 수루파티닙+세르플루리맙+AG 요법 병용 치료군을 비교합니다. 유도 화학요법 후 질병이 진행되지 않은 환자를 무작위 배정하여 완전 절제(R0)율 및 수술 가능성을 탐색합니다.",
  "summary_source": "llm",
  "tags": [
   "Locally Advanced Pancreatic Cancer",
   "Conversion Therapy"
  ],
  "title": "Surufatinib and Serplulimab Combined With AG Regimen Compare With AG Regimen as Conversion Therapy for Patients With Locally Advanced Pancreatic Cancer (SAGE)",
- "title_ko": "국소 진행성 췌장암 환자에서 전환 치료로서 surufatinib 및 serplulimab과 AG 병용요법 대 AG 요법의 비교 (SAGE)",
+ "title_ko": "국소 진행성 췌장암 환자의 전환 치료로서 AG 요법 대비 수루파티닙 및 세르플루리맙과 AG 요법 병용 치료 비교 임상시험 (SAGE)",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Cancer"
@@ -66,7 +66,7 @@
     "phone": "008687755766"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 치료 전에 환자로부터 서면 동의를 받음.\n- 병리학적으로 확진된 절제 불가능한 국소 진행성 췌장암으로 수술 치료를 받은 적이 없음.\n- 연구 참여 당시 연령이 18세에서 75세 사이임.\n- 미국동부암연구협력그룹(ECOG) 전신 수행 상태가 1 이하임.\n- RECIST v1.1 기준에 따른 측정 가능 또는 평가 가능한 병병이 있음.\n- 예상 수명이 12주 이상임.\n- 심장, 폐, 뇌 등 주요 장기에 심각한 기질적 질환이 없음.\n- 골수 및 주요 장기 기능이 기준을 충족함 (백혈구 4x10^9/L 이상, 중성구 1.5x10^9/L 이상, 혈소판 100x10^9/L 이상, 혈색소 90 g/L 이상 등).\n\n제외 기준:\n- 원격 전이가 있는 췌장암 진단.\n- 등록 전 4주 이내에 다른 항종양 약물 임상시험에 참여한 경우.\n- 이전에 전신 항종양 치료(화학요법, 방사선 치료, 표적 치료 또는 면역 치료 등)를 받은 경우.\n- 적절히 치료된 기저세포 피부암이나 자궁경부 상피내암을 제외하고 두 번째 악성종양 진단력이 있는 경우.\n- 연구 약물 또는 부형제에 대한 알려진 알레르기나 과민 반응.\n- 활동성 또는 이전 기록이 있는 자가면역 질환 또는 염증성 질환.",
+  "eligibility_ko": "선정 기준:\n• 서면 동의를 제공하고 수술 치료를 받은 적이 없으며 병리학적으로 확진된 수술 불가능한 국소 진행성 췌장암 환자\n• 등록 시점 기준 만 18세 이상 75세 이하\n• ECOG 수행능력 평가(ECOG performance status) 점수 0~1점\n• RECIST v1.1 기준 측정 가능하거나 평가 가능한 병변 보유\n• 기대 수명 12주 이상\n• 적절한 골수, 간, 신장 및 심장 기능 보유\n\n제외 기준:\n• 원격 전이가 확인된 췌장암 환자\n• 이전에 화학요법, 방사선 치료, 표적치료, 면역치료 등 전신 항암 치료를 받은 환자\n• 활동성 자가면역 질환이 있거나 면역억제제/전신 호르몬 치료를 받고 있는 환자\n• 조절되지 않는 고혈압(수축기 150 mmHg 이상 또는 이완기 100 mmHg 이상) 또는 최근 6개월 이내 심근경색 등 주요 심혈관 질환이 있는 환자\n• 최근 3개월 이내 유의미한 출혈 경향이 있거나 4주 이내 생명을 위협하는 출혈이 있었던 환자\n• 활동성 B형/C형 간염 등 조절되지 않는 중증 감염 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Written informed consent obtained from the patient prior to treatment.\n2. Pathologically confirmed unresectable locally advanced pancreatic cancer, received no surgical therapy.\n3. Age between 18 and 75 years at the time of study entry.\n4. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1.\n5. Measurable or evaluable lesions according to RECIST v1.1 criteria.\n6. Life expectancy ≥ 12 weeks.\n7. There are no serious organic diseases of the heart, lungs, brain and other organs.\n8. Adequate functioning of the bone marrow and major organs function meeting the following criteria:\n\n   1. White blood cell count ≥ 4 × 109/L, Neutrophil count ≥ 1.5 × 109/L, Platelets count ≥ 100 × 109/L,Hemoglobin ≥ 90 g/L.\n   2. Normal coagulation function, without active bleeding or thrombotic diseases: INR ≤ 1.5 × ULN, APTT ≤ 1.5 × ULN.\n   3. Liver function: Total serum bilirubin ≤ 1.5 ×ULN, Serum aspartate aminotransferase (AST) and serum alanine aminotransferase (ALT) ≤ 3 × ULN, Obstructive Jaundice with total serum bilirub ≤ 1.5 x ULN after internal/ external drainage.\n   4. Kidney function: Serum creatinine ≤ 1.5 × upper limit of normal (ULN) or creatinine clearance ≥ 60 mL/min.\n   5. Cardiac function:left ventricular ejection fraction (LVEF) of 50%≥ on 2D cardiac ultrasound.\n9. Male or female patients of potential for childbearing who voluntarily used effective contraceptive methods such as double-barrier contraception, condoms, oral or injection avoidance or pregnancy medications, IUDs, etc during the study period and within 6 months of the last study medication . All female patients will be considered fertile unless the female patient is naturally menopausal.\n\nExclusion Criteria:\n\n1. Participants diagnosed pancreatic cancer with distant metastases.\n2. Participation in other antineoplastic drug clinical trials within 4 weeks prior to enrollment;\n3. Previous systemic antitumor therapy (chemotherapy, radiation, targeted or immunoth, etc.).\n4. Diagnosis of any second malignancy, except for adequately treated basal cell skin cancer or in situ carcinoma of the cervix uteri.\n5. Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.\n6. Active or prior documented autoimmune or inflammatory disorders.\n7. Participants are being treated with immunosuppressants, or systemic or absorbable topical hormones for immunosuppressive purposes (dose\\> 10 mg/day prednisone or other equivalent hormones) , and the use is still continued within 2 weeks before enrollment.\n8. Have undergone any surgery (other than biopsy) or invasive treatment or manipulation within 4 weeks prior to enrollment and the surgical incision has not healed completely (except intravenous catheterization, puncture drainage, internal or external drainage of obstructive jaundice, etc.)\n9. Participants with abnormal thyroid function who were unable to maintain thyroid function within the normal range with medical treatment.\n10. Hypertension that cannot be controlled in the presence of optimal treatment is defined as systolic blood pressure ≥ 150 mmHg and/or diastolic blood pressure ≥ 100 mmHg.\n11. Urinary routine showed that urinary protein ≥2+, and 24-hour urinary protein\\>1.0g.\n12. Participantst currently has any disease or condition that affects the absorption of the drug, or the participants cannot take sulfatinib orally\n13. participants with evidence or history of significant bleeding tendency within 3 months prior to enrollment (bleeding\\>30 mL within 3 months with hematemesis, melena, hematochezia), hemoptysis (fresh blood\\>5 mL within 4 weeks); Patients with history of hereditary or acquired bleeding or coagulation dysfunction, with clinically significant bleeding symptoms or definite bleeding tendency within 3 months, such as gastrointestinal bleeding and hemorrhagic gastric ulcer.\n14. Cardiovascular disease of significant clinical significance, including but not limited to acute myocardial infarction, severe/unstable angina, or coronary bypass grafting within 6 months prior to enrollment; New York Heart Association (NYHA) grade \\> 2 for congestive heart failure; ventricular arrhythmias requiring drug therapy; Electrocardiogram (ECG) showing QT interval ≥480 ms;\n15. Severe infection that is active or uncontrolled:\n\n    1. Inherited or acquired immunodeficiency disease,\n    2. Known clinically significant history of liver disease, including viral hepatitis \\[known hepatitis B virus (HBV) carriers must exclude active HBV infection , HBV DNA positive (\\>1×104 copies/mL or \\>2000 IU/ml)\\];\n    3. known hepatitis C virus infection (HCV) and positive HCV RNA (\\>1×103 copies/ml) or other hepatitis, cirrhosis.\n16. Pregnant or lactating women or participants with family planning during the trial period.\n17. Participants have a known history of psychotropic substance abuse, alcoholism, or drug abuse.\n18. The investigator believes that the participant has any clinical or laboratory abnormalities or other reasons that are unsuitable for this clinical study.",
   "enrollment": 50,
   "has_results": false,
@@ -83,17 +83,33 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "원격 전이가 있는 췌장암 환자",
+    "이전 전신 항암 치료(화학요법, 방사선, 표적/면역치료 등) 경험이 있는 경우",
+    "조절되지 않는 고혈압 또는 중증 심혈관 질환이 있는 경우",
+    "활동성 자가면역 질환이 있거나 면역억제제를 복용 중인 경우",
+    "활동성 B형 또는 C형 간염 등 중증 감염이 있는 경우"
+   ],
    "max_prior_lines": 0,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료 경험이 없는 수술 불가능한 국소 진행성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

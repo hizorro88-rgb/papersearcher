@@ -20,10 +20,10 @@
  "id": "nct:NCT06898385",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 환자 수는 총 9~12명이며, 현재 환자를 모집 중인 1상 임상시험입니다.",
-  "두 가지 용량 수준(3 × 10^9 ± 30% cells 및 1 × 10^10 ± 30% cells)으로 3+3 용량 증량 설계가 적용됩니다.",
-  "피험자는 IX001 TCR-T 주입 후 안전성과 유효성에 대해 최대 2년 동안 추적 관찰을 받습니다.",
-  "초록에 명시되지 않음: 구체적인 유효성 및 생존기간 결과는 초록에 명시되지 않음."
+  "대상 질환은 표준 치료에 실패한 절제 불가능한 국소 진행성 또는 전이성 췌장암(pancreatic ductal adenocarcinoma)입니다.",
+  "목표 환자 수는 총 9~12명이며, 3+3 용량 에스컬레이션으로 3 × 10^9 및 1 × 10^10 세포 용량군을 시험합니다.",
+  "참여를 위해 KRAS-G12V 변이 및 매칭되는 HLA-A*11:01 아형 발현이 필요합니다.",
+  "추적 관찰 기간은 투여 후 최대 2년입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06898385"
  },
- "summary_ko": "이 연구는 KRAS G12V 변이가 있는 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 IX001 TCR-T 주입의 안전성, 내약성 및 예비 유효성을 평가하는 단일군, 공개 1상 임상시험입니다. 연구에는 9~12명의 평가 가능한 환자가 등록될 예정이며, '3+3' 용량 앙상 설계에 따라 두 가지 용량군으로 나누어 시험약을 단회 투여합니다. 투여받은 모든 피험자는 안전성과 유효성을 위해 최대 2년 동안 추적 관찰됩니다.",
+ "summary_ko": "이 연구는 KRAS G12V 변이와 HLA-A*11:01 아형을 가진 진행성 췌장암(pancreatic cancer) 환자를 대상으로 IX001 TCR-T 주사제의 안전성과 내인성 유효성을 평가하는 단일군, 공개 1상 임상시험입니다. 환자들은 림프구 고갈(lymphodepletion) 요법 후 3+3 용량 에스컬레이션 디자인에 따라 두 가지 용량 군 중 하나로 IX001 TCR-T를 투여받습니다. 총 9~12명의 평가 가능한 환자가 모집될 예정입니다. 모든 피험자는 투여 후 최대 2년 동안 안전성과 유효성을 추적 관찰합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Phase I Clinical Study of IX001 TCR-T Injection in the Treatment of Advanced Pancreatic Cancer Patients With KRAS G12V Mutation",
- "title_ko": "KRAS G12V 변이를 가진 진행성 췌장암 환자에서 IX001 TCR-T 주입의 1상 임상시험",
+ "title_ko": "KRAS G12V 변이 진행성 췌장암 환자를 위한 IX001 TCR-T 주사제 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -64,7 +64,7 @@
     "phone": "87342487"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 인간 백혈구 항원(HLA) 타이핑, Tumor gene mutation test 및 주요 스크리닝을 위한 동의서 자발적 서명\n- 18~75세의 남성 또는 여성\n- 병리학적 또는 세포학적으로 확진된 췌장 导관 선암종(pancreatic ductal adenocarcinoma)\n- 표준 치료에 실패한 절제 불가능한 국소 진행성 또는 전이성 질환 환자 (gemcitabine 기반 화학요법, FOLFIRINOX 또는 NALIRIFOX 요법 이후 진행된 환자 포함)\n- RECIST 1.1 기준에 따른 최소 1개의 측정 가능한 병변 존재\n- KRAS-G12V 변이 및 매칭되는 HLA-A*11:01 아형 발현이 종양 조직 또는 말초 혈액에서 양성으로 확인된 환자\n- ECOG(Eastern Cooperative Oncology Group) 점수 1 이하\n- 기대 여명 3개월 이상\n- 적절한 장기 기능 예비능 보유\n- 가임기 여성의 혈중 HCG 임신 테스트 음성 및 피임 동의\n\n제외 기준:\n- 지난 5년 이내에 다른 치명적인 악성 종양을 앓았거나 앓고 있는 환자\n- 장기 이식 병력\n- 정신 질환 병력\n- 전신 면역억제제/면역조절제가 필요한 자가면역 질환 병력\n- 조절되지 않는 고혈압, 심부전, 심근경색, 협심증 등 임상적으로 유의미한 심장 질환 병력\n- 증상성 두 개내 전이\n- 증상 완화를 위해 배액이 필요하거나 2주 이내에 배액을 받은 복수 또는 흉수\n- 6개월 이내의 종양 관련 장폐색 병력\n- 중추신경계 질환 병력\n- HIV, HCV, HBsAg/HBV DNA, 매독 등 바이러스 검사 양성\n- 정맥 투여가 필요한 조절되지 않는 감염\n- 출혈 경향 또는 6개월 이내의 심부정맥 혈전증 병력\n- 간질성 폐질환 또는 임상적으로 유의미한 호흡기계 질환 병력\n- 과립구 M-CSF 등의 사용",
+  "eligibility_ko": "선정 기준:\n* 18세에서 75세 사이의 남성 또는 여성.\n* 병리학적 또는 세포학적으로 확진된 췌관선암(pancreatic ductal adenocarcinoma).\n* 표준 치료에 실패한 절제 불가능한 국소 진행성 또는 전이성 질환.\n* 종양 조직 또는 말초 혈액에서 KRAS-G12V 변이 양성 및 매칭되는 HLA-A*11:01 아형 발현 확인.\n* 동유럽암협동그룹(ECOG) 수행능력 0~1.\n* RECIST 1.1 기준에 따른 최소 1개의 측정 가능한 병변 존재.\n\n제외 기준:\n* 지난 5년 이내에 다른 불치성 악성 종양 병력 (치료 완료된 피부 기저세포암, 상피내암, 유방암 제외).\n* 장기 이식 병력.\n* 면역억제제/전신 질환 조절제가 필요한 자가면역 질환 병력.\n* 증상성 두 개 내 전이(brain metastases).\n* 지난 6개월 이내의 종양 관련 장 폐쇄(bowel obstruction) 경험.",
   "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Voluntary signing of an informed consent form (for Human Leukocyte Antigen (HLA) typing and tumor gene mutation test, and main screening)\n* 2\\. Males or females, aged 18-75 years (inclusive)\n* 3\\. Patients with pathologically (histopathologically) or cytologically confirmed pancreatic ductal adenocarcinoma\n* 4\\. Patients with unresectable locally advanced or metastatic disease who fail standard of care, i.e., patients who have progression after prior gemcitabine-containing chemotherapy or FOLFIRINOX (oxaliplatin + irinotecan + calcium folinate + 5-FU) or NALIRIFOX (irinotecan liposome + oxaliplatin + calcium folinate + 5-FU) regimen, including those who have progression within 6 months after the end of neoadjuvant/adjuvant therapy\n* 5\\. At least one measurable lesion (according to RECIST 1.1 criteria), specifically: longest diameter of ≥10 mm for non lymph node lesions or shortest diameter of ≥15 mm for lymph node lesions (tumor lesions situated in a previously irradiated area, or in an area subjected to other loco-regional therapy, are usually not considered measurable, unless unequivocal progression of the lesion is demonstrated by an evidence)\n* 6\\. Patients with tumor tissue or peripheral blood tested positive for KRAS-G12V mutation and expression of matching HLA-A\\*11:01 subtype\n* 7\\. Eastern Cooperative Oncology Group (ECOG) ≤ 1\n* 8\\. Life expectancy ≥3 months\n* 9\\. Adequate functional reserve of organs: A) Hematology requirements (no blood transfusion or hematopoietic stimulating factor treatment within 14 days): Absolute neutrophil count ≥ 1.5×10\\^9/L; Platelet count ≥ 75×10\\^9/L, hemoglobin \\> 90 g/dL; Absolute lymphocyte count ≥ 0.5×10\\^9/L; B) Blood Biochemistry Requirements: Alanine aminotransferase ≤ 3 × upper limit of normal（ULN） (≤ 5 × ULN for patients with liver metastases); Aspartate aminotransferase ≤ 3 × ULN (≤ 5 × ULN for patients with liver metastases); Creatinine ≤ 1.5 × ULN or creatinine clearance ≥ 50 mL/min; Serum total bilirubin ≤ 1.5 × ULN; C) Coagulation requirements: Partial thromboplastin activity time (APTT) ≤ 1.5 × ULN; International normalized ratio (INR) ≤1.5 × ULN; D) Left ventricular ejection fraction (LVEF) ≥ 50% and no clinically significant pericardial effusion as diagnosed by echocardiography; E) No clinically significant electrocardiographic abnormality; F) Basic oxygen saturation is \\>92% under the indoor natural air environment.\n* 10\\. Women of childbearing age must be negative for blood Human Chorionic Gonadotropin (HCG) pregnancy test (by immunofluorescence method) at screening and baseline periods, and agree to use effective contraception for at least 1 year after infusion; and male subjects whose partners are women of childbearing age must agree to use effective barrier contraception methods and avoid sperm donation for at least 1 year after infusion.\n\nExclusion Criteria:\n\n* 1\\. The subject is currently suffered from or have suffered from other incurable malignant tumors within previous 5 years, except in skin basal cell cancer、carcinoma in situ or breast cancer have received curative treatment with no recurrence within the past 3 years)\n* 2\\. History of organ transplantation\n* 3\\. A history of mental disorders, which may affect compliance with this protocol or lead to failure in signing the Informed Consent Forms(ICF)\n* 4\\. A history of autoimmune diseases (e.g., Crohn's disease, rheumatoid arthritis and systemic lupus erythematosus) requiring systemic immunosuppressive/systemic disease-modulating drugs\n* 5\\. Poorly controlled hypertension with drug (systolic blood pressure \\>160 mmHg and/or diastolic blood pressure \\>100 mmHg) or occurrence of grade III-IV heart failure or myocardial infarction, cardiac angioplasty or stent placement, unstable angina pectoris, or other clinically significant heart diseases within one year prior to signing the ICF; QTc interval \\>450 ms for males or QTc interval \\>470 ms for females during screening (QTc interval calculated using the Fridericia formula)\n* 6\\. Symptomatic intracranial metastases\n* 7\\. Subjects have ascites or pleural effusion requiring drainage to relieve symptoms or have received drainage within 2 weeks. Asymptomatic participants with a small amount of pleural effusion or ascites on imaging are allowed\n* 8\\. Subjects who have experienced tumor-related intestinal or bowel obstruction within 6 months. including incomplete obstruction related to underlying disease or symptoms of intestinal obstruction requiring treatment\n* 9\\. A history of or any central nervous system disorders, such as epileptic seizure, cerebrovascular ischemia/hemorrhage, dementia, cerebellar disease, or any autoimmune disease involving the central nervous system within the past 6 months\n* 10\\. A positive result obtained in any of the following virological tests: A) Antibody to human immunodeficiency virus (HIV antibody); B) Hepatitis C virus antibody (HCV antibody), with a positive result for hepatitis C virus ribonucleic acid (HCV RNA); C) Positive for hepatitis B surface antigen (HBsAg); or positive for hepatitis B core antibody (HBcAb) and positive for hepatitis B virus deoxyribonucleic acid (HBV DNA) copies ≥2000 IU/mL; D) Treponema pallidum antibody (TP antibody) and positive for unheated serum reagin test;\n* 11\\. Fungal, bacterial, viral or other infections or suspected fungal, bacterial, viral or other infections that cannot be controlled or require intravenous administration\n* 12\\. Significant tendency for bleeding, such as active gastrointestinal bleeding, coagulation disorders\n* 13\\. Deep vein thrombosis requiring treatment within the past 6 months, unless the risk of thrombosis is acceptable after treatment, as assessed by the investigator\n* 14\\. Interstitial lung disease (such as interstitial pneumonia, pulmonary fibrosis), or a history of clinically significant respiratory system diseases at screening\n* 15\\. Use of granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating factor (GM-CSF) within 2 weeks prior to leukapheresis\n* 16\\. Receipt of gene therapy or other cell therapies within the past 6 months\n* 17\\. Participation in any other clinical studies within 28 days prior to signing the master informed consent form, or the date of signing the master informed consent form still within 5 half-lives of the drug from the last dose in the last clinical study (whichever is longer)\n* 18\\. Patients with poor compliance due to physiological, family, social, geographic and other factors, and failure to follow the study protocol and the follow-up plan\n* 19\\. Patients with contraindications to drugs used in the study\n* 20\\. Comorbidities requiring treatment with systemic corticosteroids (dexamethasone at a dose of ≥ 5 mg/day or other corticosteroids at the equivalent dose) or other immunosuppressive drugs after initiation of the study treatment, as judged by the investigator\n* 21\\. Women who are breastfeeding and are unwilling to stop breastfeeding\n* 22\\. Any other conditions that are, in the opinion of the investigator, not suitable for enrollment",
   "enrollment": 9,
   "has_results": false,
@@ -84,22 +84,23 @@
     "KRAS_G12V"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "증상성 뇌전이",
+    "자가면역 질환 병력",
+    "장기 이식 병력",
+    "지난 5년 이내 다른 암 병력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 1,
+   "notes_ko": "이전 표준 치료에 실패한 KRAS G12V 변이 및 HLA-A*11:01 양성 진행성 췌장암 환자를 위한 시험입니다.",
    "prior_excluded": [],
-   "prior_required": [
-    "gemcitabine",
-    "FOLFIRINOX",
-    "platinum",
-    "irinotecan"
-   ],
+   "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

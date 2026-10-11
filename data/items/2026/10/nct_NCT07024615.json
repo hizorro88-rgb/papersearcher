@@ -23,10 +23,9 @@
  "id": "nct:NCT07024615",
  "importance": 0.74,
  "key_points_ko": [
-  "대상 질환은 수술로 제거 가능한 췌장관선암(Pancreatic Ductal Adenocarcinoma)입니다.",
-  "시험 치료인 ASP2138은 수술 2주 전에 피하 주사로 투여됩니다.",
-  "수술 후에는 mFOLFIRINOX, 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 등의 표준 항암화학요법을 받습니다.",
-  "목표 인원은 25명이며, 국내 임상 기관은 0곳입니다."
+  "대상 질환은 수술이 가능한(resectable) 췌장관선암(PDAC)입니다.",
+  "수술 전 ASP2138을 피하 주사로 1회 투여하고 수술을 진행합니다.",
+  "수술 후에는 mFOLFIRINOX, 젬시타빈(gemcitabine) 및  nab-paclitaxel, 또는 젬시타빈 및 capecitabine 등의 표준 항암화학요법을 최대 6개월간 시행합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -51,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07024615"
  },
- "summary_ko": "이 임상시험은 절제 가능한 췌장관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 합니다. 환자들은 수술 2주 전에 신약 ASP2138 피하 주사를 투여받습니다. 이후 수술을 받고, 주치의가 선택한 표준 항암화학요법으로 최대 6개월 동안 치료를 받습니다. 이 연구의 목표 인원은 25명이며, 현재 환자를 모집 중입니다.",
+ "summary_ko": "이 임상시험은 CLDN18.2 단백질이 발현되는 절제 가능 췌장관선암(PDAC) 성인 환자를 대상으로 합니다. 환자들은 수술 2주 전에 ASP2138을 피하 주사로 투여받고 수술을 진행합니다. 수술 후에는 연구 의사가 선택한 표준 항암화학요법 치료를 최대 6개월 동안 받습니다. 이 연구는 1상 단계이며 목표 인원은 25명입니다.",
  "summary_source": "llm",
  "tags": [
   "Claudin (CLDN) 18.2",
@@ -60,7 +59,7 @@
   "Tolerability"
  ],
  "title": "A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surgery, in People With Pancreatic Ductal Cancer",
- "title_ko": "수술 전 투여하는 ASP2138 및 수술 후 항암화학요법을 평가하는 췌장관암 환자 대상 임상시험",
+ "title_ko": "수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
@@ -72,7 +71,7 @@
     "phone": "800-888-7704"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 확진되었으며 다학제 검토를 통해 일차 절제 가능하다고 판단된 국소 췌장 선암(pancreatic adenocarcinoma) 환자\n* 이전에 어떠한 치료도 받은 적이 없는 환자\n* 클라우딘(Claudin) 18.2 (CLDN18.2) 양성 결과가 확인된 환자\n* 수술 및 표준 보조 항암화학요법을 받을 수 있는 환자\n* ECOG 수행능력 평가(Eastern Cooperative Oncology Group performance status) 0 또는 1인 환자\n\n제외 기준:\n* 연구 치료 시작 전 6개월 이내에 불안정형 협심증, 심근경색, 심부전 등이 있었던 환자\n* 전신 치료가 필요한 활동성 감염이 있는 환자\n* 최근 1개월 이내에 전신 면역억제 치료가 필요했던 활동성 자가면역 질환이 있는 환자\n* 간질성 폐질환의 병력이나 합병증이 있는 환자\n* 사람면역결핍바이러스(HIV) 감염이 확인된 환자",
+  "eligibility_ko": "선정 기준:\n* 조직학적으로 확진된 국소 췌장선암으로, 기관 내 다학제 검토에 따라 upfront 절제 가능하다고 판단된 경우 (이전 치료 이력이 없어야 함)\n* 첫 연구 치료 투여 전 지역 실험실을 통해 claudin(CLDN)18.2 양성 결과가 확인된 경우\n* 수술 및 기관 표준 치료에 따른 수술 후 보조항암화학요법 치료가 가능한 경우\n* 뉴욕심장협회(NYHA) 기능 분류 클래스 2B 이상인 심장 기능 환자\n* RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 경우\n* ECOG 수행능력 상태가 0 또는 1인 경우\n\n제외 기준:\n* 연구 치료 투여 전 6개월 이내에 불안정형 협심증, 심근경색, 중재술이 필요한 심실성 부정맥 또는 심부전으로 인한 입원력이 있는 경우\n* 전신 치료가 필요한 활동성 감염이 있는 경우\n* 최근 1개월 이내에 전신 면역억제 치료가 필요한 활동성 자가면역질환이 있는 경우\n* 다른 치료가 필요한 악성종양이 있는 경우\n* 간질성 폐질환의 병력 또는 합병증이 있는 경우\n* 인간면역결핍바이러스(HIV) 감염이 확인된 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Participant has histologically confirmed localized pancreatic adenocarcinoma which is deemed upfront resectable based on institutional multi-disciplinary review. Participant with localized pancreatic adenocarcinoma cannot have received any prior therapy.\n* Participant has confirmation of positive claudin (CLDN)18.2 test result by local laboratory prior to first dose of study intervention (ASP2138 dosing may be allowed after discussion with the medical monitor, if results are pending or a biopsy for CLDN18.2 testing is not clinically appropriate). Site should contact the sponsor to assess potential eligibility based on a local test result.\n* Participant has an available pretreatment tumor sample, if clinically appropriate and meets requirements.\n* Participant is able to undergo surgery and treatment with adjuvant chemotherapy per institutional standard of care.\n* Participant with a known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function of class 2B or better using the New York Heart Association Functional Classification.\n* Female participant is not pregnant and at least 1 of the following conditions apply:\n\n  * Not a woman of childbearing potential (WOCBP)\n  * WOCBP who has a negative serum pregnancy test at screening and agrees to follow the contraceptive guidance from the time of informed consent through at least 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy package insert \\[PI\\]/prescribing information, whichever is longer).\n* Female participant must not be breastfeeding or lactating starting at screening and throughout the investigational period and for 5 half-lives (6 months) after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Female participant must not donate ova starting at first administration of neoadjuvant ASP2138, throughout the investigational period, and for 6 months after final ASP2138 administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must agree to use contraception with female partner(s) of childbearing potential (including breastfeeding partner) throughout the treatment period and for 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must agree to remain abstinent or use a condom with pregnant partner(s) for the duration of the pregnancy throughout the investigational period and for 6 months after final ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Male participant must not donate sperm during the treatment period and for 6 months after ASP2138 intervention administration (or follow the contraception requirements per the adjuvant chemotherapy PI/prescribing information, whichever is longer).\n* Participant has at least 1 measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 within 28 days prior to the first dose of study intervention per investigator assessment.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Participant has a corrected QT interval by Fridericia (QTcF) ≤ 470 msec.\n* Participant must meet all of the criteria based on laboratory tests within 7 days prior to the first dose of study intervention. Participant has adequate organ and marrow function. If a participant has received a recent blood transfusion, the laboratory tests must be obtained ≥ 1 week after any blood transfusion.\n* Participant agrees not to participate in another interventional study while receiving study intervention in the present study.\n\nExclusion Criteria:\n\n* Participant has had within 6 months prior to first dose of study intervention any of the following: unstable angina, myocardial infarction, ventricular arrhythmia requiring intervention or hospitalization for heart failure.\n* Participant has active infection requiring systemic therapy that has not completely resolved within 7 days prior to the start of study intervention.\n* Participant has active autoimmune disease that has required systemic immunosuppressive treatment within the past 1 month prior to the start of study intervention.\n* Participant has uncontrolled serious psychiatric illness or social situations that would preclude study compliance.\n* Participant has another malignancy for which treatment is required.\n* Participant has a history or complication of interstitial lung disease.\n* Participant has a complete gastric outlet syndrome or a partial gastric outlet syndrome with persistent/recurrent vomiting.\n* Participant has known dihydropyrimidine dehydrogenase (DPD) deficiency. NOTE: Applicable if participant is receiving fluoropyrimidine containing chemotherapy. Screening for DPD deficiency should be conducted per local requirements.\n* Participant has known, existing uncontrolled coagulopathy. Concomitant treatment with full dose warfarin (coumadin) is not allowed.\n\n  * Participant may receive low molecular weight heparin (LMWH) (such as enoxaparin and dalteparin) and direct oral anticoagulant (DOAC) for management of deep venous thrombosis (DVT).\n* Participant has a history of bleeding diathesis or recent major bleeding events (i.e. Grade ≥ 2 bleeding events in the month prior to treatment).\n* Participant has uncontrolled intercurrent illness or infection.\n* Participant is known to have human immunodeficiency virus (HIV) infection. However, participants with cluster of differentiation (CD) 4+ T cell counts ≥ 350 cells/µL and no history of acquired immunodeficiency syndrome (AIDS) defining opportunistic infections within the past 6 months are eligible. NOTE: Screening for HIV infection should be conducted per local requirements.\n* Participant is known to have active hepatitis B (positive hepatitis B surface antigen \\[hBsAg\\]) or hepatitis C infection. Testing is required for known history of these infections or as mandated by local requirements. NOTE: Screening for these infections should be conducted per local requirements.\n\n  * For participant who is negative for hBsAg, but hepatitis B core (HBc) Ab positive, an HBV DNA test will be performed and if positive the participant will be excluded.\n  * Participant with positive hepatitis C virus (HCV) serology, but negative HCV RNA test results is eligible.\n  * Participant treated for HCV with undetectable viral load results is eligible.\n* Participant has a known history of UGT1A1 gene polymorphism resulting in complete loss of function of the UGT1A1 gene product (for participants receiving irinotecan containing chemotherapy).\n* Participant has any pre-existing severe gastric conditions such as active gastritis or ulcer that could be exacerbated by treatment.\n* Participant has received any prior chemotherapy, radiation therapy, immunotherapy, or biologic (\"targeted\") therapy or investigational therapy for treatment of the participant's pancreatic tumor.\n* Participant has received a live vaccine within 30 days of planned start of study therapy. NOTE: Seasonal influenza vaccines for injection are generally inactivated flu vaccines and are allowed.\n* Participant has any condition including clinically significant disease or co-morbidity that may adversely affect the safe delivery of treatment within this study or make the participant unsuitable for study participation.\n* Participant has prior severe allergic reaction; suspected, known immediate or delayed hypersensitivity; or intolerance or contraindication to any study intervention.\n* Participant has had a major surgical procedure 28 days before start of study intervention and has not fully recovered.",
   "enrollment": 25,
   "has_results": false,
@@ -97,21 +96,23 @@
     "CLDN18_2"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "",
-   "prior_excluded": [
-    "immunotherapy"
+   "key_exclusions_ko": [
+    "최근 6개월 이내 심장 질환 병력 (심근경색, 심부전 등)",
+    "활동성 감염 또는 활동성 자가면역질환",
+    "간질성 폐질환 병력",
+    "다른 악성종양 병력",
+    "인간면역결핍바이러스(HIV) 감염"
    ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "수술이 가능한 CLDN18.2 양성 초기 췌장관선암 환자를 위한 수술 전후 치료 임상시험입니다.",
+   "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "adjuvant",
-    "neoadjuvant"
+    "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

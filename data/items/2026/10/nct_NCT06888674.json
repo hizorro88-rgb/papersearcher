@@ -20,9 +20,9 @@
  "id": "nct:NCT06888674",
  "importance": 0.77,
  "key_points_ko": [
-  "단계: 1상 및 2상 임상시험(PHASE1/PHASE2)",
-  "목표 환자 수: 60명",
-  "중재 방법: iNeo-Vac-R01 주사, gemcitabine(젬시타빈) + capecitabine(카페시타빈), sintilimab 주사 병용"
+  "대상 질환은 수술이 가능한 췌장암(Pancreatic Cancer Resectable)이며 목표 인원은 60명입니다.",
+  "중재 치료로 개인별 맞춤 신항원 iNeo-Vac-R01 주사, gemcitabine(젬시타빈) + capecitabine(카페시타빈), sintilimab(신틸리맙) 주사가 사용됩니다.",
+  "초록에 생존기간, 반응률, 위험비 등의 유효성 수치는 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06888674"
  },
- "summary_ko": "이 연구는 수술 후 절제 가능한 췌장암(pancreatic cancer) 환자를 대상으로 맞춤형 종양 신항원(tumor neoantigen) mRNA 치료제(iNeo-Vac-R01)와 PD-1 항체(sintilimab injection), 표준 항암화학요법(gemcitabine + capecitabine)을 병용하는 보조 치료의 타당성과 안전성을 평가하기 위한 단일기관, 공개, 1상/2상 임상시험입니다. 목표 환자 수는 60명이며, 아직 환자 모집을 시작하지 않았습니다. 연구는 Zhejiang University에서 진행합니다.",
+ "summary_ko": "이 연구는 수술이 가능한 췌장암 환자를 대상으로 맞춤형 종양 신항원(tumor neoantigen) mRNA 백신(iNeo-Vac-R01)과 PD-1 항체(sintilimab), 그리고 표준 항암화학요법을 병용하는 수술 후 보조 치료의 타당성과 안전성을 평가하기 위한 단일기관, 공개, 1/2상 임상시험입니다. 총 60명의 환자를 목표로 절제술 후 보조 치료 단계에서 진행됩니다. 초록에 유효성이나 생존율 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Personalized Tumor Neoantigen MRNA Therapy Adjuvant Treatment for Postoperative Pancreatic Cancer.",
- "title_ko": "수술 후 절제 가능한 췌장암 환자를 위한 맞춤형 종로 신항원 mRNA 치료제 보조 치료 임상시험",
+ "title_ko": "수술 후 췌장암 환자를 위한 맞춤형 종양 신항원 mRNA 백신 보조 치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Resectable"
@@ -68,7 +68,7 @@
     "phone": "+8615088682641"
    }
   ],
-  "eligibility_ko": "선정 기준: - 사전 스크리닝 단계: 18세 이상, 2024 NCCN 가이드라인에 따른 절제 가능한 췌장암 진단, 근치적 수술 의사, ECOG 수행능력 평가(ECOG Performance Status) 0~1점, 전엑솜 시퀀싱(WES) 및 전사체 시퀀싱을 위한 충분한 신선 종양 조직 확보 가능, 주요 장기 기능 정상, 피임 동의. - 공식 스크리닝 단계: 수술 후 조직학적으로 확인된 췌관암(pancreatic ductal adenocarcinoma, PDAC), 수술 후 4~12주 이내에 전이성 질환이나 악성 복수·흉수 증거 없이 근치적 절제(R0 또는 R1) 완료, ECOG 0~2점(코호트에 따라 다름). 제외 기준: - 표준 수술 후 보조 치료 시작 전 21일 이내 혈청 CA 19-9 수치 >180 U/mL. - 골수 이식, 동종 장기 이식, 동종 조혈모세포 이식 병력. - 동시 면역억제 치료 중인 경우. - 전신 치료가 필요한 활성 세균/진균 감염 또는 활성/잠복 결핵. - 활성 바이러스 감염(HIV 양성, 매독 양성, 활성 C형 간염, 활성 B형 간염). - 급성 바이러스 감염(헤르페스, 호흡기 바이러스). - 조절되지 않는 동반 질환(증상성 울혈성 심부전, 불안정형 협심증, 심근경색 등). - 약물 남용, 정신 질환 병력. - 백신, 생물학적 제제 또는 연구 약물 성분에 대한 중증 과민반응 병력. - 임신 또는 수유 중인 경우.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인.\n- NCCN 가이드라인에 따라 수술 가능(resectable) 췌장암으로 진단받고 근치적 수술을 받을 의향이 있는 자(사전 스크리닝).\n- 수술 후 조직학적으로 췌관선암(PDAC)으로 확진되고 R0 또는 R1 절제가 완료된 자(본 스크리닝).\n- 전이성 질환, 악성 복수, 흉수가 없으며 수술 후 4~12주일 경과한 자.\n- ECOG 수행능력 점수 0~2점.\n- 주요 장기 기능이 정상인 자.\n\n제외 기준:\n- 표준 보조 항암 치료 시작 전 21일 이내 혈청 CA 19-9 수치가 180 U/mL 초과인 자.\n- 골수 이식, 동종 장기 이식, 조혈모세포 이식 병력이 있는 자.\n- 활동성 자가면역질환, 면역결핍, 또는 면역억제 치료를 받고 있는 자.\n- 활동성 세균성, 진균성, 바이러스성 감염(HIV, 매독, 활동성 C형 간염, 활동성 B형 간염 등)이 있는 자.\n- 조절되지 않는 심혈관 질환 등 심각한 동반 질환이 있는 자.\n- 임신 중이거나 수유 중인 여성.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Pre-Screening Phase Inclusion Criteria (for Radical Surgery and Vaccine Preparation):\n\n   * Subjects meeting all of the following criteria will enter the pre-screening phase for radical surgery and vaccine preparation:\n   * Voluntarily sign the informed consent form (ICF);\n   * Age ≥18 years, regardless of gender;\n   * Diagnosed with resectable pancreatic cancer as assessed per the 2024 NCCN Clinical Practice Guidelines and willing to undergo radical surgery;\n   * ECOG Performance Status score of 0 or 1;\n   * Ability to obtain sufficient fresh tumor tissue samples for whole-exome sequencing (WES) and transcriptome sequencing analysis;\n   * Normal function of major organs (heart, liver, kidneys):\n   * Liver function: Total bilirubin ≤1.5×ULN; ALT/AST ≤2.5×ULN;\n   * Renal function: Serum creatinine ≤1.5×ULN or creatinine clearance ≥60 mL/min (Cockcroft-Gault formula);\n   * Cardiac function: LVEF ≥50% by echocardiography;\n   * Contraception agreement: Fertile males and females of childbearing potential must agree to use effective contraception from signing the ICF until 6 months after the last dose of study treatment. Females of childbearing potential include premenopausal women and women ≤2 years postmenopausal;\n   * Ability to comply with the study protocol and follow-up procedures.\n2. Formal Screening Phase Inclusion Criteria (for Study Treatment Initiation):\n\n   * Subjects meeting all of the following criteria will enter the formal screening phase for study treatment:\n   * Voluntarily sign the informed consent form (ICF);\n   * Age ≥18 years, regardless of gender;\n   * Histologically confirmed pancreatic ductal adenocarcinoma (PDAC) post-surgery;\n   * Completion of radical resection (R0 or R1) with no evidence of metastatic disease, malignant ascites, or pleural effusion on imaging 4-12 weeks postoperatively;\n   * ECOG Performance Status score:Cohort A: 0 or 1;Cohort B: 0-2;\n   * Normal function of major organs (heart, liver, kidneys):\n   * Contraception agreement: Same as pre-screening criteria;\n   * Ability to comply with the study protocol and follow-up procedures.\n\nExclusion Criteria:\n\nSubjects meeting any of the following criteria will be excluded from the study:\n\n* Serum CA 19-9 level \\>180 U/mL within 21 days prior to initiating standard postoperative adjuvant therapy;\n* History of bone marrow transplantation, allogeneic organ transplantation, or allogeneic hematopoietic stem cell transplantation;\n* Concurrent immunosuppressive therapy, defined as regular use of immunosuppressive agents within 4 weeks prior to screening or during the study, including but not limited to:\n\n  1. Severe asthma requiring systemic corticosteroids (≥10 mg/day prednisone equivalent);\n  2. Active autoimmune disease or immunodeficiency (e.g., rheumatoid arthritis, systemic lupus erythematosus);\n  3. History of primary immunodeficiency;\n  4. Exceptions: Type 1 diabetes, autoimmune hypothyroidism managed with hormone replacement, vitiligo, or psoriasis not requiring systemic therapy;\n* Active bacterial/fungal infections requiring systemic treatment, or active/latent tuberculosis (confirmed by interferon-gamma release assay or tuberculin skin test);\n* Active viral infections:\n\n  1. HIV antibody-positive;\n  2. Syphilis (TP antibody-positive with RPR/TRUST confirmation);\n  3. Active hepatitis C (HCV RNA-positive);\n  4. Active hepatitis B (HBsAg-positive and HBV DNA ≥2000 IU/mL);\n* Acute viral infections:\n\n  1. Herpesvirus infection (unless resolved with crusting \\>4 weeks prior);\n  2. Respiratory viral infection (unless resolved \\>4 weeks prior);\n* Uncontrolled comorbidities:\n\n  1. Symptomatic congestive heart failure (NYHA Class III/IV);\n  2. Unstable angina or arrhythmia requiring treatment;\n  3. Severe coronary/cerebrovascular disease (e.g., myocardial infarction within 6 months);\n  4. Other conditions deemed exclusionary by the investigator;\n* History of drug abuse, psychiatric disorders, or psychosocial factors impairing informed consent or protocol compliance;\n* History of severe hypersensitivity to vaccines, biologics, or any component of the study drug;\n* Pregnancy or lactation;\n* Other conditions judged by the investigator to preclude safe participation.",
   "enrollment": 60,
   "has_results": false,
@@ -85,19 +85,25 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "혈청 CA 19-9 > 180 U/mL",
+    "활동성 자가면역질환 또는 면역결핍",
+    "활동성 감염 (B형/C형 간염, HIV, 매독 등)",
+    "조절되지 않는 심장 질환",
+    "임신 또는 수유 중"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": false,
+   "min_prior_lines": 0,
+   "notes_ko": "근치적 절제술을 받은 수술 가능 췌장암 환자를 위한 맞춤형 신항원 mRNA 백신 병용 보조 치료 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "resectable",
     "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

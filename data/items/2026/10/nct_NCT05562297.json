@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "gem-nabp"
@@ -22,10 +22,9 @@
  "id": "nct:NCT05562297",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 50명입니다.",
-  "대상은 18세 이상 75세 이하의 절제 가능 및 경계성 절제 가능 췌장암 환자입니다.",
-  "사용되는 약물은 sintilimab, nab-paclitaxel, gemcitabine입니다.",
-  "임상시험 단계는 2상(PHASE2)입니다."
+  "수술 가능 또는 경계성 절제 가능 췌관선암 환자 50명을 대상으로 하는 2상 임상시험입니다.",
+  "표준 항암 화학요법(젬시타빈 + 냅-파클리탁셀)에 PD-1 면역항암제인 신틸리맙을 병용합니다.",
+  "이전에 전신 항암, 방사선, 면역치료 등을 받지 않은 치료 경험이 없는 환자만 참여할 수 있습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05562297"
  },
- "summary_ko": "이 연구는 절제 가능 및 경계성 절제 가능 췌장암 환자 50명을 대상으로 sintilimab, nab-paclitaxel, gemcitabine 병용 요법의 효과와 안전성을 평가하는 2상 임상시험입니다. 화학항암제와 면역관문억제제(immune checkpoint inhibitor)를 함께 사용하여 면역 반응을 높이고 수술 전 치료 효과를 확인하고자 합니다. 상하이 중산 병원(Shanghai Zhongshan Hospital)에서 진행합니다.",
+ "summary_ko": "수술이 가능하거나 경계성 절제 가능한 췌관선암 환자 50명을 대상으로 면역관문억제제 신틸리맙(sintilimab)과 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel) 병용 선행 화학요법의 효과와 안전성을 평가하는 2상 임상시험입니다. 이전 항암 치료 경험이 없는 환자를 대상으로 수술 전 종양을 줄이고 면역 반응을 유도하여 수술 후 재발을 줄이는 것을 목표로 합니다. 중국 상하이 중산병원에서 진행되며 아직 환자 모집은 시작되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
@@ -62,7 +61,7 @@
   "Adjuvant Therapy"
  ],
  "title": "Neoadjuvant/Adjuvant Sintilimab, Nab-paclitaxel, and Gemcitabine for Resectable/Borderline Resectable Pancreatic Cancer",
- "title_ko": "절제 가능 및 경계성 절제 가능 췌장암 환자를 위한 수술 전/후 sintilimab, nab-paclitaxel, gemcitabine 병용 요법",
+ "title_ko": "수술 가능 및 경계성 절제 가능 췌장암 대상 신틸리맙, 냅-파클리탁셀, 젬시타빈 선행·보조 요법 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer, Stage IB",
@@ -77,7 +76,7 @@
     "phone": "+86 21 31587861"
    }
   ],
-  "eligibility_ko": "선정 기준: 1) 치료 전 서면 동의서를 작성한 환자, 2) 연령 18세 이상 75세 이하, 3) 동부암연구협력그룹(ECOG) 활동도 평가 0 또는 1, 4) 영상 검사로 확인된 절제 가능 또는 경계성 절제 가능 췌장선암(pancreatic adenocarcinoma) 환자 및 조직학적으로 확진된 환자, 5) 췌장암에 대해 이전에 항종양 치료를 받은 적이 없는 환자, 6) 혈액, 심장, 폐 기능 또는 자가면역계에 심각한 기능 이상이 없는 환자, 7) 적절한 골수 기능 및 간·신장 기능 수치를 충족하는 환자, 8) 연구 방문 계획 및 프로토콜 요구 사항을 준수할 수 있는 환자. 제외 기준: 1) 영상 평가에서 절제 가능한 종양의 직경이 2cm 이하인 경우, 2) 다른 악성 종양을 동반한 경우, 3) 신조절 요법 전 항종양 치료를 받은 경력이 있는 경우, 4) 다른 임상시험용 약물을 사용 중인 경우, 5) 조절되지 않는 동반 질환(감염, 출혈, 심부전, 부정맥 등)이 있는 경우, 6) 임신 중이거나 수유 중인 여성, 7) nab-paclitaxel, gemcitabine, sintilimab 성분에 알레르기 병력이 있는 경우, 8) 와파린(warfarin)을 장기간 사용해야 하는 환자, 9) 연구 절차를 따를 의사가 없거나 따를 수 없는 환자, 10) 치료 기간 중 14일 이상 관찰 기간을 벗어날 것으로 예상되는 환자.",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 75세 이하 성인\n• 영상 검사 및 조직학적으로 확인된 수술 가능 또는 경계성 절제 가능 췌관선암 환자\n• 이전에 전신 화학요법, 방사선 치료, 면역치료, 표적치료 등의 항암 치료를 전혀 받지 않은 환자\n• ECOG 수행 능력이 0 또는 1인 환자\n• 혈액학적, 간 및 신장 기능이 기준치를 충족하는 환자\n\n제외 기준:\n• 영상 검사상 종양 직경이 2cm 이하인 수술 가능 환자\n• 다른 악성 종양(암) 병력이 동반된 환자\n• 활동성 감염, 심부전, 부정맥 등 조절되지 않는 중증 동반 질환이 있는 환자\n• 임신 중이거나 수유 중인 여성\n• 신틸리맙, 냅-파클리탁셀, 젬시타빈 계열 약물에 과민 반응 병력이 있는 환자\n• 와파린을 장기 복용 중이거나 복용해야 하는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Signed informed content obtained prior to treatment\n* Age ≥ 18 years and ≤ 75 years\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Patients must have imaging evaluations to confirm that their pancreatic adenocarcinoma is resectable and borderline resectable. Patients must have histologically confirmed pancreatic adenocarcinoma, too.\n* Therapy-naïve for their pancreatic cancer. Patients should receive no anti-tumor treatment, including systemic chemotherapy, interventional chemotherapy, high-energy focused ultrasound, radiotherapy, immunotherapy, molecular targeted therapy, and anti-tumor Chinese medicine therapy.\n* No serious dysfunction in blood system, heart, lung function, or autoimmune system (refer to the respective diagnostic criteria)\n* White blood cell (WBC) ≥ 3 × 109/L; Absolute neutrophil count (ANC) ≥ 1.5 × 109/L; Platelets (PLT) ≥ 100 × 109/L; Hemoglobin (Hgb) ≥ 90 g/L\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]/ alanine aminotransferase (ALT) (serum glutamic pyruvate transaminase \\[SGPT\\]) ≤ 2.5 × institutional upper limit of normal (ULN); Total bilirubin (TBIL) ≤ ULN; Creatinine (CRE) ≤ 1.5 × ULN\n* Prothrombin time (PT) and international normalized ratio (INR) ≤ 1.5 × ULN\n* Able to comply with research visit plans and other protocol requirements.\n\nExclusion Criteria:\n\n* The diameter of the resectable tumor is ≤ 2 cm in imaging evaluation\n* Associated with other malignant tumors\n* Patients receiving anti-tumor treatment before neoadjuvant therapy, including systemic chemotherapy, interventional chemotherapy, high-energy focused ultrasound, radiotherapy, immunotherapy, molecular targeted therapy, and anti-tumor Chinese medicine therapy\n* Use of any other investigational agents\n* Patients with uncontrolled intercurrent illness including, but not limited to ongoing or active infection, internal hemorrhage, pancreatic leakage, bile leakage, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant or nursing women\n* History of allergic reactions attributed to compounds of similar chemical or biological composition to nab-paclitaxel, gemcitabine, or sintilimab\n* Patients who are using and need to use warfarin for a long period\n* Patients who are unwilling or unable to comply with study procedures\n* Patients who are expected to be out of the observation period for 14 days or more during the treatment",
   "enrollment": 50,
   "has_results": false,
@@ -95,19 +94,34 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "key_exclusions_ko": [
+    "영상 평가상 수술 가능 종양의 크기가 2cm 이하인 경우",
+    "다른 악성 종양이 동반된 경우",
+    "활동성 감염, 심부전, 불안정 협심증 등 조절되지 않는 질환이 있는 경우",
+    "와파린을 장기 복용해야 하는 환자",
+    "임신 또는 수유 중인 여성"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료 경험이 없고 종양 직경 2cm를 초과하는 수술 가능 또는 경계성 절제 가능 췌관선암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "resectable",
     "adjuvant",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

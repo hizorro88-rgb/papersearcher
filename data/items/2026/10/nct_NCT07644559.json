@@ -45,8 +45,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07644559"
  },
- "summary_ko": "이 임상시험은 KRAS G12D 변이가 확인된 전이성 췌관선암(PDAC) 환자를 대상으로 VS-7375 단독요법 및 cetuximab(세툭시맙) 병용요법의 안전성과 유효성을 평가하기 위해 진행됩니다. 이전 치료 경험이 없거나 1차 항암 치료를 받은 환자 185명을 모집합니다. 본 연구는 VS-7375를 이용한 신약 치료 효과와 안전성을 확인하는 2상 임상연구입니다.",
- "summary_source": "llm",
+ "summary_ko": "This study will assess the safety and efficacy of VS-7375 alone and in combination with cetuximab in patients with metastatic KRAS G12D - mutated Pancreatic Cancer",
+ "summary_source": "excerpt",
  "tags": [
   "KRAS G12D mutation",
   "KRAS",
@@ -96,17 +96,11 @@
     "KRAS_G12D"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [
-    "치료되지 않았거나 증상이 있는 중추신경계(뇌) 전이",
-    "이전 직접적 RAS 억제제 치료 경험",
-    "약물 유발성 간질성 폐질환 병력",
-    "최근 4주 이내의 대수술 또는 이전 항암 치료",
-    "경구 약물 복용 불가능"
-   ],
-   "max_prior_lines": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 0,
-   "notes_ko": "KRAS G12D 변이가 확인된 전이성 췌장암의 1차 또는 2차 치료 환자를 위한 임상시험",
+   "min_prior_lines": null,
+   "notes_ko": "",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],
@@ -114,7 +108,7 @@
    "setting": [
     "metastatic"
    ],
-   "source": "llm"
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

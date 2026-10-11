@@ -20,9 +20,9 @@
  "id": "nct:NCT06320990",
  "importance": 0.84,
  "key_points_ko": [
-  "목표 환자 수는 최대 15명입니다.",
-  "참가자는 tamoxifen 20mg을 경구로 최대 24주 동안 복용합니다.",
-  "연구의 주요 목적은 췌장 MCN 치료에서 tamoxifen의 타당성과 자기공명영상(MRI)으로 평가한 객관적 반응률을 확인하는 것입니다."
+  "침습 전 췌장 점액성 낭성 종양(MCN) 환자 최대 15명을 대상으로 하는 타목시펜 1상 화학예방 임상시험입니다.",
+  "참여 환자는 tamoxifen 20mg을 24주간 매일 경구 복용합니다.",
+  "수술을 대체하거나 지연시킬 수 있는지 타목시펜의 실현 가능성과 MRI 기반 종양 반응률을 평가합니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06320990"
  },
- "summary_ko": "이 연구는 즉각적인 수술을 받지 않는 췌장 점액성 낭성 종양(MCN) 환자를 대상으로 항호르몬 치료제인 tamoxifen(타목시펜)의 타당성과 객관적 반응률을 평가하는 1상 임상시험입니다. 췌장 MCN은 침윤성 췌관선암(PDA)의 전구 병변이며, 성호르몬이 발병에 영향을 미치는 것으로 알려져 있습니다. 최대 15명의 참가자가 경구로 tamoxifen 20mg을 최대 24주 동안 복용하게 됩니다. 연구진은 tamoxifen 치료가 낭종의 축소나 안정을 유도하여 수술의 필요성을 대체하거나 지연시킬 수 있을 것으로 가설을 세웠습니다.",
+ "summary_ko": "췌장 점액성 낭성 종양(MCN)은 침습성 췌장관선암의 전구 병변이며, 여성 호르몬의 영향을 받는 것으로 알려져 있습니다. 본 1상 임상시험은 즉각적인 절제 수술을 계획하지 않은 침습 전 췌장 MCN 성인 환자 최대 15명을 대상으로 진행됩니다. 참여 환자는 tamoxifen(타목시펜) 20mg을 1일 1회 최대 24주 동안 경구 복용하게 됩니다. 연구진은 자기공명영상(MRI)을 통해 낭종의 축소나 안정화 등 객관적 반응률을 확인하고 타목시펜의 치료 타당성을 평가하고자 합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Chemoprevention With Tamoxifen in Pre-Invasive Pancreas Mucinous Cystic Neoplasms Not Undergoing Immediate Resection",
- "title_ko": "즉각적인 수술을 받지 않는 침윤 전 췌장 점액성 낭성 종양 환자를 대상으로 한 tamoxifen 화학예방 임상시험",
+ "title_ko": "즉각적인 수술을 받지 않는 침습 전 췌장 점액성 낭종 환자를 대상으로 한 타목시펜 화학예방 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cyst",
@@ -64,7 +64,7 @@
     "phone": "402-559-1947"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 연령 19세 이상\n- 단면 영상으로 측정이 가능한 임상적으로 진단된 침윤 전 췌장 점액성 낭성 종양(MCN)\n- 낭종 특성, 환자 요인 또는 환자 선호도로 인해 병변의 수술적 절제가 계획되지 않은 경우\n- 임신 가능성이 있는 여성 및 가임기 파트너가 있는 남성은 연구 기간 및 치료 후 최대 3개월 동안 두 가지 피임법 사용에 동의함\n- 추정 사구체filtration율(eGFR) > 30mL/min/1.73m2\n- 연구에 동의하고 프로토콜을 준수할 의지와 능력이 있는 자\n\n제외 기준:\n- 침윤성 췌장 선암 또는 고등급 이형성증의 존재\n- 고형 성분이나 벽면 결절, 주췌장관 확장 또는 급격한 직경 변화, 폐쇄성 황달, 림프절병증의 존재\n- tamoxifen 또는 다른 에스트로겐 길항제의 현재 또는 과거 사용 (단, 마지막 사용이 등록 5년 전인 경우는 허용)\n- 에스트로겐, 프로게스테론, 안드로겐, 호르몬 대체 요법 또는 기타 호르몬 피임제의 현재 또는 계획된 사용\n- tamoxifen에 대한 금기 사항 (임신, 수유부, tamoxifen 과민증, 시력에 영향을 미치는 백내장 또는 망막병증, 현재 warfarin 사용, 심부정맥혈전증 또는 폐색전증 병력, 뇌졸중 병력, 자궁내막 증식증 또는 자궁암 병력)\n- tamoxifen 흡수를 변화시킬 수 있는 장 질환 또는 주요 위 수술 병력 또는 경구 약물 삼킴 불능\n- 정맥 항생제가 필요한 활성 감염, 증상성 울혈성 심부전, 불안정형 협심증 등 조절되지 않는 질병\n- 연구 기간 동안 계획된 선택적 수술\n- 지난 28일 이내에 다른 임상시험 참여 이력\n- 연구자가 판단하기에 치료를 견딜 수 없거나 연구 절차를 준수하기 어려운 환자",
+  "eligibility_ko": "선정 기준:\n- 만 19세 이상 성인\n- 횡단면 영상 검사로 측정 가능한 침습 전 췌장 점액성 낭성 종양(MCN)으로 임상 진단된 환자\n- 낭종 특성, 환자 요인 또는 환자 선호도로 인해 병변 절제 수술이 즉각적으로 계획되지 않은 경우\n- 연구 기간 및 치료 종료 후 최대 3개월 동안 2가지 피임법 사용에 동의한 환자\n- 신사구체여과율(eGFR) > 30mL/min/1.73m²\n\n제외 기준:\n- 침습성 췌장 선암종 또는 고등급 이형성증이 있는 경우\n- 고형 성분, 벽 결절, 주췌관 확장, 폐쇄성 황달, 림프절 비대가 동반된 경우\n- 현재 또는 최근 5년 이내에 tamoxifen 또는 기타 에스트로겐 길항제를 복용한 경우\n- 호르몬 대체요법 등 호르몬 치료제를 복용 중이거나 계획 중인 경우\n- tamoxifen 금기 대상(임신·수유, 심부정맥혈전증/폐색전증 병력, 뇌졸중 병력, 자궁내막암 병력, 백내장 등 망막/안과 질환, 와파린 투여 중)\n- 중증 심장질환(심부전, 불안정 협심증 등) 또는 조절되지 않는 활성 감염이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 19 years\n* Clinically diagnosed pre-invasive pancreatic mucinous cystic neoplasm (MCN), measurable by cross-sectional imaging\n* Surgical resection of the lesion is not planned due to cyst features, patient factors or patient preference\n* Females of reproductive potential and males with partners of reproductive potential must agree to employ two methods contraception throughout the study and for up to 3 months following treatment. Non-child-bearing potential is defined as age 45 years or older and no menses for greater than or equal to 12 months or any age with surgical removal of the uterus and/or both ovaries.\n* Estimated glomerular filtration rate (eGFR) \\> 30mL/min/1.73m2\n* Willing and able to provide informed consent to and abide by the protocol\n\nExclusion Criteria:\n\n* Presence of invasive pancreatic adenocarcinoma or high-grade dysplasia\n* Presence of a solid component or mural nodule, main pancreatic duct dilation or abrupt caliber change, obstructive jaundice, lymphadenopathy\n* Current or prior use of tamoxifen or another estrogen antagonist including, but not limited to, clomifene, raloxifene, fulvestrant, anastrazole; subjects who have previously used an estrogen antagonist are eligible provided the last use was at least 5 years prior to enrollment.\n* Current or planned use of hormonal treatments including estrogen, progesterone, androgens, hormone replacement therapy or other types of hormonal contraceptives including implants and depot injections; levonorgestrel-releasing intrauterine device (IUD) is permitted.\n* Contraindications to tamoxifen include:\n\n  * Pregnancy or nursing\n  * Known allergy or hypersensitivity to tamoxifen\n  * Cataracts which affect visual acuity (ie. symptomatic)\n  * Retinopathy which affects visual acuity (ie. symptomatic)\n  * Current warfarin use\n  * History of deep vein thrombosis or pulmonary embolism or other condition which, in the opinion of the investigator, may significantly increase the individual's risk of venous thromboembolism\n  * History of stroke\n  * Known endometrial hyperplasia or personal history of endometrial carcinoma, uterine sarcoma and uterine carcinosarcoma\n* History of intestinal disease or major gastric surgery likely to alter absorption of tamoxifen or inability to swallow oral medications\n* Uncontrolled illness including but not limited to ongoing or active infection requiring IV antibiotics, symptomatic congestive heart failure, unstable angina or uncontrolled cardiac arrhythmias, or other conditions which might jeopardize or preclude the ability of the patient to take tamoxifen or the safety of follow-up visits, scans and procedures\n* Elective surgery planned for the study period\n* Participation in another clinical study with an investigational product during the last 28 days\n* Any participant, in the opinion of the investigator, who will not be able to tolerate treatment, or the participant is unsuitable to participate in the study and is unlikely to comply with study procedures, restrictions and requirements",
   "enrollment": 15,
   "has_results": false,
@@ -81,18 +81,20 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "침윤성 췌장 선암 또는 고등급 이형성증 진단",
-    "임신 또는 수유 중인 환자",
-    "뇌졸중 또는 혈전증(심부정맥혈전증, 폐색전증) 병력",
-    "자궁내막암 등 자궁 관련 암 병력"
+    "침습성 췌장암 또는 고등급 이형성증이 동반된 경우",
+    "심부정맥혈전증, 폐색전증, 뇌졸중 병력이 있는 경우",
+    "자궁내막암 등 특정 부인과 질환 병력이 있는 경우",
+    "와파린을 복용 중이거나 시력에 영향을 주는 안과 질환(백내장 등)이 있는 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "즉각적인 수술을 받지 않는 침윤 전 췌장 점액성 낭성 종양(MCN) 환자",
+   "notes_ko": "당장 수술을 받지 않는 침습 전 췌장 점액성 낭성 종양(MCN) 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
+   "setting": [
+    "resectable"
+   ],
    "source": "llm"
   },
   "max_age": null,

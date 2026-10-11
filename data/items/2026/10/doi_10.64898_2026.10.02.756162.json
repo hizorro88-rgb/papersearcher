@@ -1,0 +1,62 @@
+{
+ "abstract": "<h4>Background: </h4> Cancer cachexia is a multifactorial syndrome characterized by substantial metabolic disturbances including systemic inflammation, and muscle atrophy, which may affect the regulation of iron metabolism in patients. This study aimed to characterize this regulation in two murine models of colorectal and pancreatic cancer, both associated with a high prevalence of cachexia.  <h4>Methods: </h4>. Histological, biochemical and molecular analyses were performed in serum, skeletal muscle, liver, spleen and tumor from UN-KC-6141 pancreatic tumor bearing mice and from ApcMin/+ mice (colorectal cancer model), both models exhibiting variable cachexia severity.  <h4>Results: </h4>. Both models induce cachexia, but diverge markedly in their regulation of iron metabolism. UNKC mice display reduced plasma iron availability (-9.6% transferrin saturation, p<0.001) without concomitant anemia, while hepatic hepcidin synthesis is upregulated (+100.6%, p<0.001) by inflammation, promoting ferroportin (FPN) downregulation (-42.4%, p<0.001) and iron sequestration in the spleen (+134% total iron content, p<0.001). In the atrophied gastrocnemius, iron concentration is preserved through increased ferritin (+86.6%, p=0.010) and hemoproteins (i.e., myoglobin, CYSC, COXIV) expression. Conversely, ApcMin/+ mice exhibit anemia together with hepatic and splenic iron depletion (-48.4%, p<0.001 and -84.9%, p<0.001, respectively). Hepcidin synthesis is downregulated (-99.9%, p<0.001) despite persistent inflammation, indicating that hypoxia and/or iron-deficiency signals probably predominate over the inflammatory pathway. FPN is markedly decreased (-94.2%, p<0.001) in the iron-depleted spleen despite low hepcidin. In the atrophied quadriceps of ApcMin/+ mice, iron deficiency is associated with decreased FPN and ferritin (-87.9%, p<0.001, and -38.4%, p=0.016, respectively), and increased TfR1 expression (+305%, p=0.107). Finally, tumor iron import may play a significant role in cachexia progression, as suggested by the association between tumor weight, tumor TfR1 protein levels and body weight loss in UNKC mice.  <h4>Conclusion: </h4> These findings reveal cancer type-specific signatures of iron regulation in cachexia, which appear to be more driven by cancer type specific features than by cachexia severity itself, with skeletal muscle iron metabolism impaired mainly when cachexia is associated with anemia. This suggests that the clinical management of iron metabolism in cachectic patients should be guided by the underlying cancer type.",
+ "authors": [
+  "Auffret M",
+  "Gasrel P",
+  "Orfila L",
+  "Martin B",
+  "Martin A",
+  "Freyssenet D",
+  "Island M",
+  "Ropert M"
+ ],
+ "categories": [
+  "supportive",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.02.756162",
+ "importance": 0.5,
+ "key_points_ko": [
+  "췌장암 마우스 모델에서는 빈혈 없이 혈장 트랜스페린 포화도가 감소(-9.6%, p<0.001)하고, 간 헵시딘 합성이 증가(+100.6%, p<0.001)하여 비장에 철분이 저류(+134%, p<0.001)되었습니다.",
+  "췌장암 모델의 위축된 비복근에서는 페리틴(+86.6%, p=0.010) 및 헴단백질 발현이 증가하여 근육 내 철분 농도가 유지되었습니다.",
+  "악액질 환자의 철분 대사 이상은 악액질의 중증도보다 기저 암종의 특성에 의해 더 크게 좌우되므로 암 유형에 맞춘 철분 관리가 필요함을 시사합니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.64898/2026.10.02.756162",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1338235"
+ },
+ "summary_ko": "암 악액질(cancer cachexia)은 전신 염증과 근육 위축을 동반하는 복합 증후군으로 철분 대사 조절에 영향을 미칠 수 있습니다. 본 연구는 악액질 발생률이 높은 췌장암(UN-KC-6141) 및 대장암(ApcMin/+) 마우스 모델을 활용하여 철분 대사 조절 특성을 비교 분석했습니다. 연구 결과 두 암종 모두 악액질을 유발하지만 철분 대사 조절 방식은 뚜렷하게 다른 양상을 보였습니다. 특히 췌장암 모델에서는 빈혈 없이 염증에 의해 헵시딘(hepcidin)이 증가하고 비장에 철분이 축적되는 반면, 대장암 모델에서는 빈혈과 함께 전신 철분 결핍이 두드러졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Distinct iron metabolism regulation during cachexia progression in murine models of intestinal and pancreatic cancer",
+ "title_ko": "장암 및 췌장암 마우스 모델의 악액질 진행 중 상이한 철분 대사 조절 양상",
+ "trial": null,
+ "type": "preprint"
+}

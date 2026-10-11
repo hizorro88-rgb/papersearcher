@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "supportive"
+  "supportive",
+  "treatment"
  ],
  "entities": [
   "gem-nabp"
@@ -22,10 +22,9 @@
  "id": "nct:NCT07864571",
  "importance": 0.87,
  "key_points_ko": [
-  "대상 질환은 치료를 받은 적이 없는 절제 불가능 또는 전이성 췌장관선암(PDAC)입니다.",
-  "중재 치료는 gemcitabine(1000 mg/m2), nab-paclitaxel 및 L-glutamine의 병용 요법입니다.",
-  "목표 환자 수는 총 200명입니다.",
-  "초록에 명시되지 않음: 생존기간, 반응률, 위험비 수치는 본 초록에 명시되지 않음."
+  "수술 불가능 또는 전이성 췌관선암 환자 200명을 대상으로 젬시타빈+냅-파클리탁셀에 L-글루타민을 추가 병용하는 요법을 평가합니다.",
+  "종양 반응률과 무진행 생존기간(PFS)뿐만 아니라 암 환자의 체중 유지 및 악액질 개선 효과를 비교합니다.",
+  "전이성 질환에 대해 전신 항암치료를 받은 적이 없는 1차 치료 대상 환자만 참여할 수 있습니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07864571"
  },
- "summary_ko": "본 연구는 이전에 전신 치료를 받지 않은 절제 불가능하거나 전이성인 진행성 췌장관선암(PDAC) 환자를 대상으로 합니다. 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 치료에 L-glutamine을 추가하는 치료 전략의 임상적 유효성을 평가하기 위한 무작위 대조 2상 임상시험입니다. 연구진은 객관적 반응률(ORR), 무진행 생존기간(PFS)뿐만 아니라 악액질(cachexia) 개선 효과 및 종양 대사, 장내 미생물 군집 등에 미치는 영향도 함께 조사합니다. 본 시험에는 총 200명의 환자가 참여할 예정입니다.",
+ "summary_ko": "이전 치료 경험이 없는 수술 불가능 또는 전이성 췌관선암 환자를 대상으로 진행되는 무작위 배정 2상 임상시험입니다. 표준 1차 요법인 gemcitabine(젬시타빈) 및 nab-paclitaxel(냅-파클리탁셀) 요법에 L-glutamine(L-글루타민)을 병용한 치료와 표준 항암 단독 치료의 임상적 유효성을 비교 평가합니다. 주요 목적은 치료 효과(객관적 반응률, 무진행 생존기간)와 안전성 외에도 체중 및 체성분 측정을 통한 악액질(cachexia) 개선 효과를 확인하는 것입니다. 총 200명의 환자가 등록될 예정이며, 대사체 및 장내 미생물 등의 바이오마커 분석도 함께 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "gemcitabine",
@@ -58,7 +57,7 @@
   "advanced pancreatic cancer"
  ],
  "title": "Trial of First-line Gemcitabine and Nab-paclitaxel With or Without L-glutamine in Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암에서 L-글루타민 병용 여부에 따른 1차 젬시타빈 및 냅-파클리탁셀 임상시험",
+ "title_ko": "진행성 췌장암 1차 치료에서 젬시타빈 및 냅-파클리탁셀 병용에 L-글루타민 추가 병용 여부를 비교하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -70,7 +69,7 @@
     "phone": "310-423-5776"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 확인된 진행성 또는 절제 불가능한 췌장관선암(PDAC)으로 1차 항암화학요법이 필요한 경우 (이전 선행화학요법이나 보조화학요법 및/또는 동시화학방사선치료는 재발 전 6개월 이상 전에 완료된 경우 허용)\n* 연령 18세 이상\n* ECOG 수행능력 상태 2 이하 또는 Karnofsky 수행능력 상태 60% 이상\n* 적절한 장기 및 골수 기능 확인\n* RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n* 임신부 또는 수유부 제외, 적절한 피임법 준수 동의\n* 연구 관련 조직, 대변, 혈액 샘플 제공에 동의\n* 피험자의 서면 동의서 확보\n\n제외 기준:\n* 첫 치료 투여 전 4주 이내에 임상시험용 약물 또는 기기 연구에 참여 중이거나 참여한 경우\n* 전이성 질환에 대해 이전에 항암화학요법을 받은 경우 (단, 수술 전후 보조요법은 재발 6개월 이상 전에 완료된 경우 허용)\n* 기존에 3등급 이상의 말초 신경병증이 있는 경우\n* 진행 중이거나 적극적인 치료가 필요한 다른 악성 종양이 있는 경우\n* 연구 약물의 성분에 과민반응이 있는 경우\n* 활동성 중추신경계(CNS) 전이 및/또는 수막 암종증이 있는 경우\n* 경구 섭취 및/또는 연구 약물 흡수를 방해할 수 있는 위장관 장애나 신경학적 상태가 있는 경우\n* 냅-파클리탁셀 투여 전 1주일 이내에 강력한 CYP2C8 또는 CYP3A4 억제제나 유도제를 복용한 경우",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 수술 불가능 또는 진행성/전이성 췌관선암(PDAC) 환자 (재발 환자의 경우 재발 부위 조직검사는 필수 아님)\n- 전이성 질환에 대해 이전에 전신 항암치료를 받은 적이 없는 환자 (수술 전/후 보조요법은 재발 6개월 이전에 완료된 경우 허용)\n- 18세 이상이며 ECOG 수행능력 평가 점수 0~2점 (또는 KPS 60% 이상)\n- RECIST 1.1 기준 측정 가능한 병변 보유\n- 적절한 장기 및 골수 기능 유지\n- 프로토콜에 따른 조직, 대변, 혈액 검체 제공에 동의한 환자\n\n제외 기준:\n- 3등급 이상의 기존 신경병증(neuropathy)이 있는 경우\n- 활성 중추신경계(뇌) 전이 또는 암성 뇌수막염 환자 (치료 후 최소 4주 이상 안정적이고 스테로이드 투여가 없는 경우는 제외)\n- 장폐색이나 연하곤란 등 경구 약물 복용이나 흡수에 장애가 있는 위장관 또는 신경계 질환이 있는 경우\n- 진행 중이거나 적극적인 치료가 필요한 다른 악성 종양이 있는 경우\n- 시험 시작 1주 이내에 강력한 CYP2C8 또는 CYP3A4 억제제/유도제를 복용한 경우\n- 시험 약물 성분에 알려진 과민반응이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Advanced or unresectable, histologically confirmed pancreatic ductal adenocarcinoma (PDAC, new diagnosis or recurrent, where recurrent tumor does not need to be histologically-confirmed) referred to Cedars-Sinai Medical Center (CSMC), Samuel Oschin Comprehensive Cancer Institute (SOCCI), USC, or UC Irvine for first-line chemotherapy. Prior neoadjuvant or adjuvant chemotherapy and/or chemoradiation is allowed but must have been completed ≥6 months prior to recurrence.\n* Age ≥18 years\n* ECOG performance status ≤2 or Karnofsky performance status ≥60%\n* Demonstrate adequate organ and marrow function\n* Have measurable disease based on RECIST 1.1\n* Female subject of childbearing potential should have a negative urine or serum pregnancy within 14 days prior to receiving the first dose of study medication for eligibility verification. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required. Note: Negative urine or serum pregnancy test is also conducted within 72 hours prior to C1D1 for study procedures and should not preclude eligibility verification, but if screening pregnancy test is done within 72 hours of C1D1, it is not required to be repeated.\n* Female subjects of childbearing potential should be willing to use adequate methods of birth control (hormonal or barrier method of birth control) or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study medication. Subjects of childbearing potential are those who have not been surgically sterilized or have not been free from menses for \\> 1 year.\n* Male subjects should agree to use an adequate method of contraception starting with the first dose of study therapy through 120 days after the last dose of study therapy.\n* Willingness to provide baseline tissue, stool, and blood samples under prespecified conditions (i.e., fasted, morning blood collections)\n* Must be willing to provide repeat stool and blood samples after 1-week lead-in (±3 day window) and optional post-progression tumor biopsy\n* Written informed consent obtained from subject and ability for subject to comply with the requirements of the study.\n\nExclusion Criteria:\n\n* Is currently participating in or has participated in a study of an investigational agent or using an investigational device within 4 weeks of the first dose of treatment.\n* Has previously received chemotherapy for metastatic disease (treatment with neoadjuvant or adjuvant therapy is allowed so long as treatment was completed ≥6 months prior to recurrence).\n* Has pre-existing grade ≥3 neuropathy.\n* Has a known additional malignancy that is progressing or requires active treatment. Exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or in situ cervical cancer that has undergone potentially curative therapy.\n* Has a known hypersensitivity to any components of the study drugs.\n* Has known active central nervous system (CNS) metastases and/or carcinomatous meningitis. Subjects with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least four weeks prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are not using steroids for at least 7 days prior to trial treatment.\n* Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n* Is pregnant or breastfeeding or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment.\n* Has any gastrointestinal disorder (e.g., bowel obstruction) or neurologic condition (e.g., oropharyngeal dysphagia) that may result in impairment of oral intake and/or absorption of study drug in the opinion of the treating investigator.\n* Patients on strong CYP2C8 or CYP3A4 inhibitors or inducers within 1 week prior to starting nab-paclitaxel (Appendix X).",
   "enrollment": 200,
   "has_results": false,
@@ -89,16 +88,19 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "활동성 중추신경계(CNS) 전이가 있는 경우",
-    "진행 중이거나 치료가 필요한 다른 암 병력이 있는 경우",
-    "경구 섭취나 약물 흡수를 방해하는 위장관 장애가 있는 경우",
-    "연구 약물 성분에 과민반응이 있는 경우"
+    "증상이 있거나 치료되지 않은 뇌전이",
+    "중증 신경병증(3등급 이상)",
+    "장폐색, 삼킴 장애 등 경구 약물 복용에 영향을 주는 질환",
+    "적극적인 치료가 필요한 다른 암 동반"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료 경험이 없는 절제 불가능 또는 전이성 췌장관선암 환자를 위한 1차 치료 임상시험입니다.",
-   "prior_excluded": [],
+   "notes_ko": "전신 항암치료 경험이 없는 진행성 또는 전이성 췌장암 환자를 위한 1차 치료 임상시험",
+   "prior_excluded": [
+    "gemcitabine",
+    "taxane"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",

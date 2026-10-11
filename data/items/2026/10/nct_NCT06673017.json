@@ -47,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06673017"
  },
- "summary_ko": "이 연구는 치료 경험이 없는 경계성 절제 가능 또는 국소 진행성 췌관선암(PDAC) 환자를 대상으로 PTM-101과 선행항암화학요법을 병용하는 다기관, 비무작위, 단일군, 공개, 1b상 용량 증량 및 확장 연구입니다. 용량 증량 단계에서는 paclitaxel을 포함하는 PTM-101의 안전성을 평가하여 예비 권장 2상 용량(RP2D)을 확립합니다. 이어서 용량 확장 단계에서는 PTM-101의 효능을 평가하기 위해 환자 수를 확대합니다. 이 임상시험의 목표 참여 인원은 26명입니다.",
- "summary_source": "llm",
+ "summary_ko": "This is a multi-center, non-randomized, single-arm, open-label, phase Ib, dose escalation/dose expansion study of PTM-101 when combined with neoadjuvant chemotherapy for the treatment of treatment-naïve subjects with borderline resectable and locally advanced pancreatic ductal adenocarcinoma (PDAC). This is a multi-center, non-randomized, single-arm, open-label, phase Ib dose escalation/dose expansion study of PTM-101 in subjects with pancreatic ductal adenocarcinoma (PDAC).",
+ "summary_source": "excerpt",
  "tags": [],
  "title": "PTM-101 in Pancreatic Ductal Adenocarcinoma (PDAC)",
  "title_ko": "경계성 및 국소 진행성 췌장암 환자를 위한 선행항암화학요법과 병용한 PTM-101의 1b상 임상시험",
@@ -83,24 +83,18 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [
-    "과거 2년 이내 다른 악성종양 진단 병력",
-    "paclitaxel 또는 프로토콜 내 항암제에 대한 알레르기나 금기증",
-    "HIV 또는 활동성 바이러스성 간염",
-    "활동성 감염 또는 자가면역 질환",
-    "임신 또는 수유 중이거나 계획 중인 경우"
-   ],
-   "max_prior_lines": 0,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
    "measurable_required": null,
-   "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 경계성 절제 가능 또는 국소 진행성 췌장암 환자",
+   "min_prior_lines": 1,
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "locally_advanced",
     "resectable"
    ],
-   "source": "llm"
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

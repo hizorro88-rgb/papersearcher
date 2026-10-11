@@ -20,9 +20,9 @@
  "id": "nct:NCT01954992",
  "importance": 0.99,
  "key_points_ko": [
-  "목표 환자 수는 480명이며 전이성 췌장암 환자를 대상으로 합니다.",
-  "젬시타빈 기반 1차 치료 실패 후 환자를 대상으로 glufosfamide와 5-FU를 비교합니다.",
-  "초록에 명시되지 않은 생존기간 및 반응률 수치는 초록에 명시되지 않음."
+  "젬시타빈 기반 1차 치료 실패 전이성 췌장암 환자를 대상으로 한 2차 치료 3상 임상시험입니다.",
+  "글루포스파미드와 5-FU의 생존 기간 개선 효과를 직접 비교 평가합니다.",
+  "목표 인원은 480명이며 현재 국내 진행 기관은 0곳입니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT01954992"
  },
- "summary_ko": "이 임상시험은 젬시타빈(gemcitabine) 기반 1차 치료 실패 후 진행된 전이성 췌장암 환자를 대상으로 합니다. 신약인 glufosfamide가 기존의 볼루스 5-FU(Fluorouracil)에 비해 추가적인 생존 이점을 제공하는지 평가합니다. 목표 환자 수는 480명이며 3상 단계로 진행 중입니다. 초록에 명시되지 않은 구체적인 생존율 결과는 초록에 명시되지 않음.",
+ "summary_ko": "젬시타빈(gemcitabine) 기반 1차 항암 치료 후 질병이 진행되었거나 치료에 실패한 전이성 췌관선암 환자를 대상으로 진행되는 3상 임상시험입니다. 글루포스파미드(glufosfamide)와 일시주사 5-FU(fluorouracil)를 비교하여 추가적인 생존 혜택을 제공하는지 평가합니다. 총 목표 환자 수는 480명이며, 현재 등록된 국내 기관은 없습니다.",
  "summary_source": "llm",
  "tags": [
   "glufosfamide",
@@ -55,7 +55,7 @@
   "metastatic pancreatic adenocarcinoma"
  ],
  "title": "Glufosfamide Versus 5-FU in Second Line Metastatic Pancreatic Cancer",
- "title_ko": "전이성 췌장암 2차 치료에서 Glufosfamide와 5-FU의 비교",
+ "title_ko": "전이성 췌장암 2차 치료에서 글루포스파미드 대 5-FU 비교 3상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Adenocarcinoma"
@@ -67,7 +67,7 @@
     "phone": "215 554 3530"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 조직검사 또는 세포검사로 확진된 췌장 선암(pancreatic adenocarcinoma)\n- 전이성 췌장암\n- 젬시타빈 치료 중 또는 치료 후 질병 진행\n- RECIST 기준에 따른 측정 가능 또는 불가능한 병변 보유\n- 이전 치료의 가역적 독성 회복\n- ECOG 수행능력 상태 0-1\n- 피임 수칙 준수 동의 및 서면 동의서 서명 완료\n\n제외 기준:\n- 전이성 췌장암에 대해 1가지를 초과하는 이전 전신 항암 치료\n- 주기 1일차 기준 14일 이내 호르몬, 방사선, 생물학적, 항암 치료 이력\n- 인슐린 의존성 당뇨병\n- 증상이 있는 뇌전이\n- 항생제가 필요한 활동성 감염, HIV 양성, 활동성 B형 또는 C형 간염\n- 최근 1년 내 심혈관 질환 병력 또는 증상(NYHA 2~4급)\n- 과거 1년 이내 다른 활동성 악성종양 병력\n- 3주 이내 주요 수술 이력",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 조직학적 또는 세포학적으로 확진된 전이성 췌관선암 환자\n- 젬시타빈(단독 또는 병용) 투여 중 또는 투여 후 질병이 진행한 환자\n- RECIST 기준에 따른 측정 가능 또는 측정 불가능한 병변이 최소 1개 이상 있는 환자\n- 이전 치료의 가역적 독성에서 회복된 환자\n- ECOG 수행능력 평가 0~1점\n\n제외 기준:\n- 전이성 질환에 대해 2가지 이상의 전신 항암요법을 받은 환자 (1차 요법 실패자만 참여 가능)\n- 1주기 1일차 전 14일 이내에 호르몬, 방사선, 생물학적 제제 또는 화학요법 등 항암 치료를 받은 환자\n- 인슐린 의존성 당뇨병 환자 (경구 혈당강하제로 조절되는 2형 당뇨는 허용)\n- 증상이 있는 뇌전이 환자\n- 항생제 치료가 필요한 중대한 활동성 감염, HIV 양성, 또는 활동성 B형·C형 간염 환자\n- 최근 1년 이내 중등도 이상의 심혈관 질환(NYHA 2~4등급, 관상동맥질환, 부정맥, 심부전 등) 또는 다른 활동성 악성 종양 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years of age\n* Pancreatic adenocarcinoma proven either by histology (surgical biopsy) or cytology (CT- or endoscopic-guided)\n* Metastatic pancreatic cancer\n* Disease progression during or after treatment with gemcitabine (alone or in combination with other agents; at regular, not radiosensitizing, doses)\n* Measurable or nonmeasurable disease by RECIST criteria (at least one target or nontarget lesion)\n* Recovered from reversible toxicities of prior therapy\n* ECOG performance status 0-1\n* All women of childbearing potential and all men must agree to use effective means of contraception (surgical sterilization or the use of barrier contraception with either a condom or diaphragm in conjunction with spermicidal gel or an IUD) from entry into the study through 6 months after the last dose of chemotherapy\n* Ability to understand the purposes and risks of the study and has signed a written informed consent form approved by the investigator's IRB/Ethics Committee\n\nExclusion Criteria:\n\n* More than one prior systemic therapy regimen for metastatic pancreatic cancer (radiosensitizing doses of 5-FU or gemcitabine at the time of initial radiotherapy do not count as a prior systemic therapy regimen)\n* Hormonal therapy, radiation therapy, biologic therapy, chemotherapy or other systemic antitumor therapy for pancreatic cancer within 14 days prior to Cycle 1 Day 1\n* Insulin-dependent diabetes mellitus (patients with type 2 diabetes controlled with oral glucose lowering agents and the occasional use of insulin are permitted in the study)\n* Symptomatic brain metastases (baseline CT scan is not required in asymptomatic patients)\n* Active clinically significant infection requiring antibiotics\n* Known HIV positive or active hepatitis B or C\n* Recent (one year) history or symptoms of cardiovascular disease (NYHA Class 2, 3, or 4), particularly coronary artery disease, arrhythmias or conduction defects with risk of cardiovascular instability, uncontrolled hypertension, clinically significant pericardial effusion, or congestive heart failure\n* No other active malignancies (other than treated non-melanoma skin cancer or treated in situ cancer) within the past year\n* Major surgery within 3 weeks of the start of study treatment, without complete recovery\n* Clinically significant abnormalities in laboratory test results (including complete blood count, chemistry panel including electrolytes, and urinalysis)\n\n  * Hemoglobin \\<9 g/dL (may receive transfusion or erythropoietin to maintain)\n  * ANC \\<1500/μL\n  * Platelet count \\<100,000/μL\n  * Total bilirubin \\> 1.5×ULN\n  * AST/ALT \\> 2.5-fold above ULN (\\>5-fold above ULN if liver metastases)\n  * Phosphorus \\< LLN\n  * Potassium \\< LLN\n  * Serum creatinine \\> 2 mg/dL\n  * Creatinine clearance \\< 60 mL/min (calculated by Cockcroft-Gault formula)\n* Females who are pregnant or breast-feeding\n* Participation in an investigational drug or device study within 14 days of the first day of dosing on this study\n* Concomitant disease or condition that could interfere with the conduct of the study, or that would, in the opinion of the investigator, pose an unacceptable risk to the patient in this study\n* Any medical history, concurrent disease or concomitant medication which could reasonably predispose the patient to renal insufficiency while on study treatment\n* Contraindication or unwillingness to undergo multiple CT scans\n* Unwillingness or inability to comply with the study protocol for any other reason",
   "enrollment": 480,
   "has_results": false,
@@ -87,14 +87,14 @@
    "key_exclusions_ko": [
     "증상이 있는 뇌전이",
     "인슐린 의존성 당뇨병",
-    "활동성 감염 (HIV, B형/C형 간염 포함)",
-    "최근 1년 이내 심혈관 질환 병력",
-    "과거 1년 이내 다른 암 병력"
+    "최근 1년 이내의 심혈관 질환(심부전, 부정맥 등)",
+    "활동성 B형/C형 간염 또는 HIV 감염",
+    "최근 1년 이내의 다른 암 병력"
    ],
    "max_prior_lines": 1,
-   "measurable_required": true,
+   "measurable_required": false,
    "min_prior_lines": 1,
-   "notes_ko": "젬시타빈 기반 1차 치료 이후 진행된 전이성 췌장암 환자",
+   "notes_ko": "젬시타빈 기반 1차 항암 치료에 실패한 전이성 췌장암 환자 대상 2차 치료 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [
     "gemcitabine"

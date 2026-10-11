@@ -21,9 +21,9 @@
  "id": "nct:NCT06835569",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 환자 수는 총 448명입니다.",
-  "KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 합니다.",
-  "ALTA3263 단독 요법 및 병용 요법의 안전성과 내약성을 평가합니다."
+  "대상 질환은 KRAS 변이가 확인된 진행성 고형암(췌장암 포함)입니다.",
+  "연구 약물인 ALTA3263은 경구 복용 가능한 KRAS 변이 선택적 저해제입니다.",
+  "임상 1상/1b상 단계로 안전성과 내용성을 평가하며 단독 및 병용 요법으로 진행됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06835569"
  },
- "summary_ko": "이 연구는 KRAS 변이가 있는 진행성 고형암(Advanced Solid Tumors) 성인 환자를 대상으로 시험 약물인 ALTA3263의 안전성과 내독성을 확인하기 위한 1/1b상 임상시험입니다. 췌장관암선암(PDAC - Pancreatic Ductal Adenocarcinoma)을 포함한 다양한 암 환자를 대상으로 단독 요법 및 병용 요법의 안전성, 내약성, 약동학(PK), 예비 임상 활성을 평가합니다. 연구는 용량 증량(Dose Escalation)과 용량 확장(Dose Expansion)의 두 부분으로 진행됩니다. 목표 환자 수는 총 448명입니다.",
+ "summary_ko": "이 임상시험은 KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 경구용 KRAS 저해제(KRAS inhibitor)인 ALTA3263의 안전성과 내용성을 평가합니다. 단독 요법 및 병용 요법으로 투여하며 용량 증량(Dose Escalation)과 용량 확장(Dose Expansion)의 두 부분으로 진행됩니다. 약동학(pharmacokinetics)과 예비 임상 활성도 함께 평가합니다. 목표 환자 수는 448명입니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS mutation",
@@ -63,7 +63,7 @@
   "KRAS"
  ],
  "title": "A Study to Learn About Study Medicine ALTA3263 in Adults With Advanced Solid Tumors With KRAS Mutations",
- "title_ko": "KRAS 변이 진행성 고형암 성인 환자를 위한 연구 약물 ALTA3263 임상시험",
+ "title_ko": "KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구",
  "trial": {
   "conditions": [
    "Cancer",
@@ -79,7 +79,7 @@
     "phone": "619-768-8189"
    }
   ],
-  "eligibility_ko": "선정 기준: - 분자 검사(NGS 또는 PCR 기반)를 통해 KRAS 변이가 확인된 조직학적으로 확진된 고형암 악성 종양. - 절제 불가능하거나 전이성인 질환. - 종양 유형과 병기에 적절한 이전 표준 치료에 실패했거나, 불내성이 있거나, 거부한 경우. - Eastern Cooperative Oncology Group(ECOG) 수행 능력 상태 0 또는 1. - 적절한 장기 기능. 제외 기준: - 이전에 KRAS 억제제로 치료받은 경우(전체 연구 프로토콜에 설명된 특정 예외 제외). - 경구 약물을 삼키거나 흡수하는 능력을 저해하는 알려진 상태.",
+  "eligibility_ko": "선정 기준:\n- 임상실험실 개선 개정(CLIA) 인증(또는 동등한) 검사를 통해 KRAS 변이가 확인된 조직학적으로 확진된 고형암 악성 종양\n- 절제 불가능하거나 전이성 질환\n- 종양 유형 및 병기에 적절한 표준 치료에 실패했거나, 불내성이 있거나, 거부한 경우\n- 동유럽종양학협력그룹(ECOG) 수행능력 상태 0 또는 1\n- 적절한 장기 기능\n\n제외 기준:\n- 이전 KRAS 저해제 치료 이력 (전체 연구 프로토콜에 설명된 특정 예외 제외)\n- 경구 약물을 삼키거나 흡수하는 능력을 방해하는 알려진 상태",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of a solid tumor malignancy harboring a KRAS mutation identified through molecular testing (NGS- or PCR-based) with a Clinical Laboratory Improvement Amendments-certified (or equivalent) diagnostic test.\n* Unresectable or metastatic disease.\n* Progressed on, intolerant to, or declined prior standard-of-care therapy (including targeted therapy, if applicable) appropriate to tumor type and stage\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior treatment with a KRAS inhibitor, certain exceptions are described in the full study protocol\n* Known condition that prohibits the ability to swallow or absorb an oral medication.\n\nOther inclusion/exclusion criteria may apply.",
   "enrollment": 448,
   "has_results": false,
@@ -104,11 +104,14 @@
     "KRAS_mutant"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "이전 KRAS 저해제 치료 이력",
+    "경구 약물 복용이나 흡수가 불가능한 상태"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 1,
+   "notes_ko": "이전 치료 경험이 있는 KRAS 변이 전이성 또는 국소진행성 췌장암 환자",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],
@@ -117,7 +120,7 @@
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

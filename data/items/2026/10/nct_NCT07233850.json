@@ -20,8 +20,8 @@
  "importance": 0.77,
  "key_points_ko": [
   "목표 환자 수는 총 300명입니다.",
-  "SSGJ-706과 표준 치료(XELOX, Bevacizumab+XELOX, AG, TP 등)의 병용 요법을 평가합니다.",
-  "대상 질환은 위암/위식도접합부 선암, 전이성 대장암, 췌장관선암, 식도암입니다."
+  "이전에 전이성 상태에서 전신 치료를 받은 적이 없는 환자를 대상으로 합니다.",
+  "안전성, 내인성, 항종양 활성을 평가합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07233850"
  },
- "summary_ko": "이 임상시험은 진행성 위장관암 환자를 대상으로 SSGJ-706과 표준 1차 화학요법의 병용 치료를 평가합니다. 췌장암 선암(pancreatic ductal adenocarcinoma, PDAC)을 포함한 4개의 코호트로 진행됩니다. 연구의 주요 목적은 SSGJ-706 병용 요법의 안전성과 유효성을 평가하는 것입니다. 목표 환자 수는 300명이며, 아직 환자 모집 전 단계입니다.",
+ "summary_ko": "본 연구는 진행성 위장관암 환자를 대상으로 SSGJ-706과 표준 치료의 병용 요법을 평가하는 다기관, 공개, 2상 임상시험입니다. 연구는 췌장암을 포함한 4개의 코호트로 나누어 진행됩니다. 주된 목적은 진행성 위장관암 환자에서 SSGJ-706 병용 요법의 안전성과 유효성을 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Phase II Clinical Study Evaluating SSGJ-706 in Combination Therapy for Advanced Gastrointestinal Cancers",
- "title_ko": "진행성 위장관암에서 SSGJ-706 병용 요법을 평가하는 2상 임상시험",
+ "title_ko": "진행성 위장관암 환자를 대상으로 한 SSGJ-706 병용 요법의 2상 임상시험",
  "trial": {
   "conditions": [
    "Gastric/Gastroesophageal Junction Adenocarcinoma",
@@ -65,7 +65,7 @@
     "phone": "13667241722"
    }
   ],
-  "eligibility_ko": "선정 기준: - 연구 참여에 자발적으로 동의하고 서면 동의서를 작성한 자 - 18세에서 75세 사이의 남성 또는 여성 - 기대 여명이 최소 3개월 이상인 자 - ECOG 수행능력 평가 점수 0-1인 자 - 근치적 절제나 방사선 치료가 불가능한 소화기계의 국소 진행성 또는 전이성 종양 환자 (위/위식도접합부 선암, 대장암, 췌장관선암, 식도암 포함) - 국소 진행성 절제 불가능/전이성 단계에서 이전 전신 치료력이 없는 자 - RECIST 버전 1.1에 따른 측정 가능한 병변이 최소 1개 이상인 자 - 파라핀 포매(FFPE) 검체 또는 염색되지 않은 조직병리 검체 제공이 가능한 자 - 프로토콜에서 요구하는 골수, 신장, 간, 혈액 및 응고 검사 결과를 충족하는 자 - 가임기 여성의 경우 첫 투여 전 7일 이내 혈청 임신 테스트 결과가 음성인 자 및 피임 지침에 동의하는 자. 제외 기준: - 위/위식도접합부 선암의 경우 HER2 양성인 환자 - 대장암의 경우 MSI-H 또는 dMMR인 환자 - 뇌간, 수막 전이, 척수 전이 또는 압박이 있는 자 - 활동성 중추신경계(CNS) 전이가 있는 자 - 이전 면역치료(면역관문억제제, 면역관문작용제, 면역세포치료 등)를 받은 경력이 있는 자 - 탈모와 피로를 제외하고 이전 항종양 치료로 인한 부작용이 NCI-CTCAE 5.0 기준 1등급 이하로 회복되지 않은 자 - 동종 장기 이식 및 동종 조혈모세포 이식 병력이 있는 자 - 전신 글루코코르티코이드 치료가 필요한 비감염성 폐렴/간질성 폐질환 병력이 있는 자 - 심각한 출혈 경향 또는 응고 장애 병력이 있는 자 - 첫 투여 전 6개월 이내 위장관 천공 및/또는 누공, 복강 내 농양이 있는 자 - 활동성 결핵(TB)이 있는 자 - 시험약 성분 또는 키메라/인간화 항체에 대한 심각한 알레르기 병력이 있는 자 - 연구 책임자가 판단하기에 연구 관련 위험을 증가시키거나 결과 해석을 방해할 수 있는 기타 조건.",
+  "eligibility_ko": "선정 기준:\n- 만 18세에서 75세의 성인\n- 예상 여명 3개월 이상\n- ECOG 수행능력 0-1\n- 수술 및 근치적 치료가 불가능한 진행성 또는 전이성 췌장관선암(PDAC) 등 위장관암\n- 전이성 상태에서 이전 전신 치료력이 없음\n- RECIST 1.1 기준 최소 1개의 측정 가능한 병변 존재\n\n제외 기준:\n- 뇌간, 수막, 척수 전이 또는 압박 존재\n- 이전에 면역치료를 받은 경력이 있는 경우\n- 동종 장기 및 조혈모세포 이식 병력\n- 전신 글루코코르티코이드 치료가 필요한 간질성 폐질환 병력",
   "eligibility_text": "Inclusion Criteria:\n\n1. Volunteer to participate in this study, willing to follow all trial procedures, and sign the informed consent form (ICF).\n2. Age 18-75 years old, male or female.\n3. Has a life expectancy of at least 3 months\n4. ECOG score of 0-1.\n5. Locally advanced or metastatic tumors of the digestive system that cannot be curatively resected and cannot be treated with radical chemoradiotherapy, including gastric/gastroesophageal junction adenocarcinoma, colorectal cancer, pancreatic ductal adenocarcinoma, and oesophageal cancer.\n6. No prior systemic therapy in the locally advanced unresectable/metastatic setting.\n7. Has at least 1 measurable lesion per RECIST version 1.1.\n8. Willing to provide a paraffin-embedded (FFPE) specimen or an unstained histopathological section (preferably a newly obtained tumor tissue sample).\n9. Has bone marrow, kidney, liver, blood and clotting test results required per protocol.\n10. Female subjects of childbearing age had a negative serum pregnancy test within 7 days before the first dose. Male and female subjects of childbearing potential must agree to use effective contraception from the time of signing the informed consent form until at least 120 days after the last use of study drug and for at least 180 days after the last use of chemotherapy drugs or bevacizumab. During this period, women are not lactating, male subjects are not allowed to freeze or donate sperm, and female subjects are not allowed to donate eggs or retrieve eggs for personal use.\n\nExclusion Criteria:\n\n1. For gastric/gastroesophageal junction adenocarcinoma: HER2-positive (defined as IHC 3+, or IHC 2+ with ISH-positive).\n2. For colorectal cancer: Patients with known MSI-H or dMMR.\n3. Presence of brainstem, meningeal metastases, spinal cord metastases, or compression.\n4. Presence of active central nervous system (CNS) metastases; Subjects with previously treated brain metastases (such as surgery, radiotherapy) are allowed to enroll if they are clinically stable for at least four weeks after treatment (until the first dose of study drug) and corticosteroids are discontinued 3 days before the first dose of study drug; Subjects with untreated, asymptomatic brain metastases can be enrolled.\n5. Previous immunotherapy, including immune checkpoint inhibitors (e.g., PD-l/L1 antibody, anti-CTLA-4 antibody, anti-TIGIT antibody, anti-LAG3 antibody, etc.), immune checkpoint agonists (e.g., ICOS, CD40, CD137, OX40 antibody, etc.), immune cell therapy and any other treatment targeting the mechanism of anti-tumor immune action.\n6. Adverse reactions caused by previous anti-tumor therapy need to be restored to grade ≤1 (as judged by NCI-CTCAE 5.0 criteria), except for alopecia and fatigue.\n7. Known history of allogeneic organ transplantation and allogeneic hematopoietic stem cell transplantation.\n8. Prior or current non-infectious pneumonitis/interstitial lung disease requiring systemic glucocorticoid therapy.\n9. History of severe bleeding tendency or coagulation dysfunction.\n10. Presence of gastrointestinal perforation and/or fistula, intra-abdominal abscess within 6 months before the first dose.\n11. Subjects with known active tuberculosis (TB).\n12. Known history of severe allergy to any component of the trial drug, or history of severe allergic reaction to chimeric or humanized antibodies.\n13. Other conditions that, in the opinion of the investigator, may increase study-related risks or interfere with the interpretation of study results.",
   "enrollment": 300,
   "has_results": false,
@@ -81,27 +81,28 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [
-    "MSI_H",
-    "HER2"
-   ],
+   "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "뇌전이 (활동성 또는 뇌간, 수막, 척수 전이)",
+    "이전 면역치료 병력",
+    "간질성 폐질환 병력",
+    "동종 장기 및 조혈모세포 이식 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 치료력이 없는 국소 진행성 또는 전이성 췌장관선암 환자",
    "prior_excluded": [
     "immunotherapy"
    ],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "adjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

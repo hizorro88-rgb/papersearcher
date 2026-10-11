@@ -19,10 +19,9 @@
  "id": "nct:NCT06233877",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 인원은 60명이며, G-FLIP은 2주마다, Mitomycin C는 4주마다 투여됩니다.",
-  "효과 평가는 반응률(Response Rate), 무진행 생존기간(Progression-Free Survival, PFS), 전체 생존기간(Overall Survival, OS), 12개월 생존율을 포함합니다.",
-  "안전성 평가는 신체검사, 증상 평가, 활력징후, ECOG 수행능력 상태 등을 포함합니다.",
-  "초록에 수치 기반의 구체적인 생존기간이나 반응률 결과는 아직 명시되지 않았습니다."
+  "1차 항암치료에 실패한 4기 전이성 췌장선암 환자 60명을 대상으로 진행하는 2상 연구입니다.",
+  "저용량 G-FLIP 복합항암요법에 마이토마이신 C를 병용 투여하여 안전성과 유효성을 평가합니다.",
+  "G-FLIP은 2주 간격, 마이토마이신 C는 4주 간격으로 투여됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,14 +46,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06233877"
  },
- "summary_ko": "본 임상시험은 진행성 전이성 췌장암(advanced metastatic pancreatic cancer) 환자를 대상으로 저용량 항암제 조합인 G-FLIP(Gemcitabine, Fluorouracil, Leucovorin, Irinotecan, Oxaliplatin)과 Mitomycin C를 함께 투여하는 치료법을 평가합니다. 연구의 목적은 이 질환에 대해 더 안전하고 효과적인 치료법을 찾는 것입니다. 60명의 평가 가능한 환자가 참여하는 공개(open-label) 연구로 진행됩니다.",
+ "summary_ko": "이 연구는 1차 항암치료에 실패한 4기 전이성 췌장선암 환자를 대상으로 저용량 G-FLIP 항암요법과 마이토마이신 C(Mitomycin C) 병용 투여의 안전성과 유효성을 평가하는 2상 임상시험입니다. G-FLIP은 Gemcitabine(젬시타빈), Fluorouracil(플루오로우라실), Leucovorin(루코보린), Irinotecan(이리노테칸), Oxaliplatin(옥살리플라틴)의 복합 항암요법입니다. 총 60명의 환자를 대상으로 G-FLIP은 2주마다, 마이토마이신 C는 4주마다 투여하여 반응률과 생존기간 등을 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic",
   "low dose"
  ],
  "title": "Clinical Trial Evaluating Low Dose G-FLIP Plus Mitomycin C for Stage IV Pancreatic Cancer",
- "title_ko": "4기 췌장암 환자를 위한 저용량 G-FLIP 및 Mitomycin C 병용 요법 평가 임상시험",
+ "title_ko": "4기 췌장암 환자를 대상으로 한 저용량 G-FLIP 및 마이토마이신 C 병용 요법 평가 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -66,7 +65,7 @@
     "phone": "7187324050"
    }
   ],
-  "eligibility_ko": "선정 기준: - 조직학적으로 확진된 전이성(4기) 췌장 선암(pancreatic adenocarcinoma) - 1차 항암화학요법 실패 - ECOG 수행능력 상태 0-2 - 예상 생존기간 3개월 초과 - 혈액 검사로 확인된 적절한 장기 기능 - 18세 이상 - 서면 동의서 작성. 제외 기준: - 알려진 뇌 전이 - 유의미한 심혈관 질환 또는 기타 조절되지 않는 질환 - 임산부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n• 조직학적으로 확진된 4기 전이성 췌장선암 환자\n• 1차 항암화학요법 치료에 실패한 환자\n• ECOG 수행능력 평가 점수가 0~2점인 환자\n• 예상 생존 기간이 3개월 이상인 환자\n• 혈액 검사 결과 적절한 장기 기능을 가진 환자\n• 만 18세 이상\n\n제외 기준:\n• 뇌전이가 확인된 환자\n• 유의미한 심혈관 질환 또는 조절되지 않는 질환이 있는 환자\n• 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically confirmed metastatic (Stage IV) pancreatic adenocarcinoma.\n\n  * Failed first-line chemotherapy.\n  * ECOG performance status of 0-2.\n  * Expected survival of more than 3 months.\n  * Adequate organ function as indicated by lab values.\n  * Age 18 or older.\n  * Signed informed consent.\n\nExclusion Criteria:\n\n* • Known brain metastases.\n\n  * Significant cardiovascular or other uncontrolled diseases.\n  * Pregnant or breastfeeding women",
   "enrollment": 60,
   "has_results": false,
@@ -82,17 +81,21 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "뇌전이 환자",
+    "유의미한 심혈관 질환 또는 조절되지 않는 질환 환자",
+    "임신 또는 수유 중인 여성"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "1차 항암치료에 실패한 4기 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

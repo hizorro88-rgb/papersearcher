@@ -16,7 +16,7 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 48건 · 최근 30일 48건
+전체 49건 · 최근 30일 49건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
@@ -112,6 +112,21 @@ search:
 - STAT3 및 MEK 신호전달 경로를 동시 억제하는 작용 기전을 확인했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852338/) · [DOI](https://doi.org/10.1021/acsomega.6c01271) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13647936/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852338)</small>
+
+---
+<a id="doi-10.64898-2026.10.02.756162"></a>
+#### [장암 및 췌장암 마우스 모델의 악액질 진행 중 상이한 철분 대사 조절 양상](https://europepmc.org/article/PPR/PPR1338235)
+<small>Distinct iron metabolism regulation during cachexia progression in murine models of intestinal and pancreatic cancer</small>
+
+`프리프린트` `전임상` `지지요법·삶의질` `기초연구` · 2026-10-08 · Europe PMC (preprint) · bioRxiv · 중요도 0.50
+
+암 악액질(cancer cachexia)은 전신 염증과 근육 위축을 동반하는 복합 증후군으로 철분 대사 조절에 영향을 미칠 수 있습니다. 본 연구는 악액질 발생률이 높은 췌장암(UN-KC-6141) 및 대장암(ApcMin/+) 마우스 모델을 활용하여 철분 대사 조절 특성을 비교 분석했습니다. 연구 결과 두 암종 모두 악액질을 유발하지만 철분 대사 조절 방식은 뚜렷하게 다른 양상을 보였습니다. 특히 췌장암 모델에서는 빈혈 없이 염증에 의해 헵시딘(hepcidin)이 증가하고 비장에 철분이 축적되는 반면, 대장암 모델에서는 빈혈과 함께 전신 철분 결핍이 두드러졌습니다.
+
+- 췌장암 마우스 모델에서는 빈혈 없이 혈장 트랜스페린 포화도가 감소(-9.6%, p<0.001)하고, 간 헵시딘 합성이 증가(+100.6%, p<0.001)하여 비장에 철분이 저류(+134%, p<0.001)되었습니다.
+- 췌장암 모델의 위축된 비복근에서는 페리틴(+86.6%, p=0.010) 및 헴단백질 발현이 증가하여 근육 내 철분 농도가 유지되었습니다.
+- 악액질 환자의 철분 대사 이상은 악액질의 중증도보다 기저 암종의 특성에 의해 더 크게 좌우되므로 암 유형에 맞춘 철분 관리가 필요함을 시사합니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1338235) · [DOI](https://doi.org/10.64898/2026.10.02.756162) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.756162)</small>
 
 ---
 <a id="pmid-42847802"></a>

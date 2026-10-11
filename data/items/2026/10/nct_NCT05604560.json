@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -20,10 +20,9 @@
  "id": "nct:NCT05604560",
  "importance": 0.9,
  "key_points_ko": [
-  "대상 질환은 새로 진단받은 수술 가능(resectable) 췌장암입니다.",
-  "중재 방법은 tislelizumab과 SX-682의 병용 선행치료(neoadjuvant treatment)입니다.",
-  "목표 등록 환자 수는 25명입니다.",
-  "초록에 명시된 생존기간, 반응률, 위험비 수치는 초록에 명시되지 않음입니다."
+  "새롭게 진단받은 수술 가능한 췌장암 환자 25명을 대상으로 진행되는 2상 임상시험입니다.",
+  "항 PD-1 항체인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682 병용 요법을 수술 전 선행요법으로 평가합니다.",
+  "이전에 췌장암에 대한 치료를 받은 적이 없는 환자만을 대상으로 합니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05604560"
  },
- "summary_ko": "이 연구는 새로 진단받고 수술이 가능한 췌장암(췌관선암, pancreatic adenocarcinoma) 환자를 대상으로 tislelizumab(티슬레주맙)과 SX-682 병용요법의 안전성과 임상적 효과를 평가하는 2상 임상시험입니다. 면역항암제인 tislelizumab(anti-PD-1 항체)과 CXCR1/2 억제제인 SX-682를 수술 전에 함께 투여합니다. 목표 환자 수는 25명입니다. 초록에 명시된 구체적인 생존기간이나 반응률 수치는 없습니다.",
+ "summary_ko": "이 임상시험은 새롭게 진단된 수술 가능한 췌관선암 환자를 대상으로 수술 전 선행요법의 효과와 안전성을 평가합니다. 면역관문억제제인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682의 병용 요법을 시험합니다. 목표 시험 대상자는 25명이며, 수술 전에 약물을 투여하여 종양 반응과 안전성을 확인합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
@@ -63,7 +62,7 @@
   "CXCR1/2 inhibitor"
  ],
  "title": "A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer",
- "title_ko": "수술 가능한 췌장암 환자를 위한 tislelizumab과 SX-682의 선행화학면역요법 임상시험",
+ "title_ko": "수술 가능한 췌장암에 대한 티슬렐리주맙과 SX-682의 수술 전 선행요법 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -80,7 +79,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- 조직학적 또는 세포학적으로 진단된 신규 췌장선암 환자\n- 수술 가능한(resectable) 종양\n- 종양 생검에 동의한 환자\n- ECOG 수행능력 상태 0 또는 1\n\n제외 기준:\n- 이전에 췌장암 치료를 받은 적이 있는 경우\n- 연구 평가에 방해될 수 있는 다른 악성 종양이 있는 경우\n- 활동성 자가면역질환이 있는 경우\n- 14일 이내 전신 스테로이드 또는 면역억제제 치료를 받은 경우\n- HIV, B형 또는 C형 간염 감염자",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인\n* 조직학적 또는 세포학적으로 새롭게 진단된 췌관선암\n* 수술로 절제 가능한 상태(resectable)\n* 종양 생검(조직검사)에 동의한 환자\n* ECOG 수행능력 점수 0 또는 1점\n* 적절한 장기 및 골수 기능\n\n제외 기준:\n* 이전에 췌장암 관련 치료를 받은 적이 있는 환자\n* 활동성 또는 의심되는 자가면역 질환이 있는 환자\n* 등록 14일 이내 전신 스테로이드(프레드니손 기준 1일 10mg 초과) 또는 면역억제 치료를 받은 환자\n* 전신 치료가 필요한 활동성 감염 또는 HIV, B형/C형 간염 환자\n* 간질성 폐질환, 비감염성 폐렴, 폐섬유증 등의 병력이 있는 환자\n* 조절되지 않는 심장질환(울혈성 심부전, 불안정 협심증, 부정맥) 또는 선천성 긴 QT 증후군(QTc 470ms 이상)\n* 동종 조혈모세포 이식 또는 장기 이식 병력이 있는 환자\n* 단클론항체 약물에 중증 과민 반응 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Ability to understand and willingness to sign a written informed consent document.\n* Age ≥18 years.\n* Newly diagnosed have histologically or cytologically proven adenocarcinoma of the pancreas.\n* Tumor must be resectable.\n* Patient's acceptance to have a tumor biopsy.\n* ECOG performance status 0 or 1\n* Patients must have adequate organ and marrow function defined by study-specified laboratory tests.\n* For both Women and Men, must use acceptable form of birth control while on study.\n\nExclusion Criteria:\n\n* Have received any anti-pancreatic cancer therapy.\n* Have been diagnosed with another malignancy whose natural history or treatment has the potential to interfere with safety or efficacy assessment of this study.\n* Conditions, including alcohol or drug dependence, intercurrent illness, or lack of sufficient peripheral venous access, that would affect the patient's ability to comply with study visits and procedures\n* Subjects with active, known or suspected autoimmune disease that may relapse.\n* Systemic steroid therapy (\\> 10mg daily prednisone equivalent) or immunosuppressive therapy within 14 days of first dose of study drug administration.\n* Active infection requiring systemic therapy.\n* Infection with HIV or hepatitis B or C at screening•\n* History of interstitial lung disease, non-infectious pneumonitis or uncontrolled diseases including pulmonary fibrosis, acute lung diseases, etc.\n* Uncontrolled intercurrent illness including, but not limited to, uncontrolled infection, pulmonary embolism, uncontrolled hypertension, symptomatic congestive heart failure, unstable angina, cardiac arrhythmia, metastatic cancer, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Prior allogeneic stem cell transplantation or organ transplantation\n* Any major surgical procedure requiring general anesthesia ≤ 28 days before first dose of study drug.\n* Have received a live vaccine ≤ 28 days before first dose of study drug.\n* Use of QT prolonging drugs within 2 weeks before the start of SX-682 dosing and for the length of the study.\n* ECG demonstrating a QTc interval ≥ 470 msec or patients with congenital long QT syndrome.\n* Severe hypersensitivity reaction to any monoclonal antibody.\n* Concurrent participation in another therapeutic clinical study\n* Pregnant or breastfeeding",
   "enrollment": 25,
   "has_results": false,
@@ -98,16 +97,27 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 췌장암 치료력",
-    "활동성 자가면역질환",
-    "HIV 또는 B/C형 간염 감염",
-    "조절되지 않는 동반 질환 또는 감염"
+    "이전 췌장암 치료 이력",
+    "활동성 자가면역 질환",
+    "간질성 폐질환 또는 폐섬유증 병력",
+    "조절되지 않는 심장질환 또는 긴 QT 증후군",
+    "전신 치료가 필요한 활동성 감염증"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 수술 가능 췌장선암 환자를 위한 선행치료 임상시험",
-   "prior_excluded": [],
+   "notes_ko": "이전에 췌장암 치료를 받지 않은 수술 가능한 췌관선암 환자를 위한 수술 전 선행요법 시험",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "resectable",

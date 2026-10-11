@@ -50,8 +50,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07562152"
  },
- "summary_ko": "이 임상시험은 전이성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 1차 치료로서 atebimetinib과 변형된 GnP(gemcitabine 및 nab-paclitaxel) 병용요법의 안전성과 유효성을 평가하기 위해 설계되었습니다. 글로벌, 무작위배정, 공개, 3상 임상시험으로 진행되며, 표준 GnP 단독 치료와 비교하여 전체 생존기간(overall survival)을 개선하는지 평가합니다. 환자들은 atebimetinib과 변형된 GnP 병용 투여군 또는 표준 GnP 단독 투여군 중 한 곳으로 무작위 배정됩니다. 목표 참여 인원은 총 510명입니다.",
- "summary_source": "llm",
+ "summary_ko": "The purpose of this study is to evaluate the safety and efficacy of atebimetinib in combination with modified GnP compared with SOC GnP alone. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with atebimetinib plus a modified schedule of gemcitabine and nab-paclitaxel will improve overall survival compared with standard gemcitabine and nab-paclitaxel when given as first-line treatment in patients with metastatic pancreatic adenocarcinoma.",
+ "summary_source": "excerpt",
  "tags": [
   "mitogen-activated protein kinase (MAPK)",
   "MAPK",
@@ -106,22 +106,17 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [
-    "뇌전이 (증상 있거나 치료받지 않았거나 활성 진행 중인 경우)",
-    "편평세포암, 선편평세포암, 신경내분비암 또는 선방세포 췌장암",
-    "국소 진행성 질환만 있는 경우",
-    "경구 약물 복용 불가"
-   ],
+   "key_exclusions_ko": [],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": 0,
-   "notes_ko": "이전 치료를 받지 않은 전이성 췌관선암 환자를 위한 3상 임상시험입니다.",
+   "min_prior_lines": null,
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "llm"
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

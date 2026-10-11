@@ -20,9 +20,9 @@
  "id": "nct:NCT06234072",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 120명입니다.",
-  "중재 방법은 황기 + gemcitabine 병용 군과 gemcitabine 단독 군을 비교합니다.",
-  "초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다."
+  "수술 전 선행치료로서 황기(Astragalus)와 gemcitabine(젬시타빈) 병용요법의 효과를 단독요법과 비교하는 2상 연구입니다.",
+  "황기는 CAF의 세포분비 물질을 줄이고 CD8+ T세포 증식을 유도하여 항암 반응을 강화합니다.",
+  "총 목표 대상 환자 수는 120명입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06234072"
  },
- "summary_ko": "이 연구는 췌장암 환자에게 수술 전 보조 치료(neoadjuvant treatment)로 황기(Astragalus)와 gemcitabine 병용 투여가 gemcitabine 단독 투여보다 효과적인지 비교하는 2상 임상시험입니다. 황기는 면역 조절 기능을 강화하고 종양 성장을 억제하는 한약재로, gemcitabine에 대한 반응을 높이는 것으로 연구되었습니다. 총 120명의 환자를 대상으로 진행됩니다. 초록에 유효성 결과 수치는 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 췌장암 환자를 대상으로 수술 전 선행치료(neoadjuvant)로서 황기(Astragalus)와 gemcitabine(젬시타빈) 병용요법의 효과를 젬시타빈 단독요법과 비교하는 2상 임상시험입니다. 황기는 면역 조절 및 암 성장 억제 작용을 하는 한약재로, 종양 미세환경을 개선하여 젬시타빈의 치료 반응을 높일 것으로 기대됩니다. 총 120명의 환자를 대상으로 무작위 비교 연구가 진행될 예정입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Comparing Astragalus Plus Gemcitabine to Gemcitabine Alone as Neoadjuvant Treatment for Pancreatic Cancer Patients",
- "title_ko": "췌장암 환자의 수술 전 보조 치료로서 황기 및 gemcitabine 병용 요법과 gemcitabine 단독 요법 비교",
+ "title_ko": "췌장암 수술 전 선행치료로서 황기(Astragalus) 및 gemcitabine(젬시타빈) 병용요법과 젬시타빈 단독요법 비교 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -68,7 +68,7 @@
     "phone": "+8613028815957"
    }
   ],
-  "eligibility_ko": "선정 기준:- 조직학적 또는 세포학적으로 확진된 췌장관암(pancreatic ductal adenocarcinoma)- 18세 이상- ECOG 수행 능력 평가 0~2- 간, 신장, 혈액 등 주요 장기 기능 검사 결과가 기준을 충족하는 환자- 예상 수술 후 생존 기간 3개월 이상- 연구 방문 및 프로토콜 요구사항을 준수할 수 있는 자- 자발적 참여 및 동의서 서명 완료. 제외 기준:- 중추신경계(CNS) 손상 또는 연막 질환- 원격 전이- 심각한 심혈관 질환, 활동성 HIV 감염, 정신 장애, 약물 남용 등 기타 중대한 질환- 황기 또는 gemcitabine에 대한 과민반응- 임산부 또는 수유부, 피임에 동의하지 않는 가인능 여성 및 남성- 췌장의 신경내분비종양- gemcitabine과 상호작용하는 약물 동시 투여- 췌장암과 완전히 다른 원발암 또는 조직학적 암 병력(완치 후 5년 지난 경우 등 제외)- 한약 복용 불가자 또는 흡수장애 증후군- 순응도가 낮은 환자",
+  "eligibility_ko": "선정 기준:\n• 조직학적 또는 세포학적으로 확진된 췌관선암 환자\n• 만 18세 이상\n• ECOG 수행능력 점수 0~2점\n• 수술 후 예상 생존기간 3개월 이상\n• 적절한 장기 기능을 가진 환자\n• 연구 임상시험 계획 및 절차에 동의하고 준수할 수 있는 환자\n\n제외 기준:\n• 원격 전이가 확인된 환자\n• 중추신경계 손상 또는 연뇌막 질환이 있는 환자\n• 췌장 신경내분비종양 환자\n• 황기 또는 gemcitabine(젬시타빈)에 대한 과민반응 병력이 있는 환자\n• 울혈성 심부전(NYHA III/IV), 불안정형 협심증, 최근 6개월 이내 심근경색 등 중증 심장 질환 환자\n• 한약 복용이 불가능하거나 거부하는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of pancreatic ductal adenocarcinoma;\n* Is 18 years of age or older;\n* ECOG performance status 0 to 2;\n\nPatient organ function tests must meet the following laboratory parameters:\n\n* Transaminases AST (SGOT) and ALT (SGPT) ≤ 2.5 times the upper limit of normal (ULN). If liver function abnormalities are due to underlying liver metastasis, then AST (SGOT) and ALT (SGPT) may be ≤ 5 times ULN.\n* Total serum bilirubin ≤ 3.0 times ULN (if due to underlying liver metastasis, then total bilirubin may be ≤ 5 times ULN),\n* Neutrophils 1,500/Ul,\n* hemoglobin \\> 8.0 gm/dL,\n* Platelet count ≥ 100,000/mm3 (IU: ≥ 100 x 109/L),\n* serum creatinine \\< 2.0 mg/dL,\n* Expected postoperative survival ≥ 3 months;\n* Ability to comply with the study visit plan and other protocol requirements;\n* Voluntary participation and signing of informed consent.\n* Is willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.\n\nExclusion Criteria:\n\n* CNS damage or soft meningeal disease;\n* Metastasis to distant sites;\n* Other serious diseases or conditions, including congestive heart failure (New York Heart Association class III or IV), unstable angina pectoris, infarction in the past 6 months, severe arrhythmia, prolonged QT interval, active HIV infection or HIV disease, mental disorders, and substance abuse;\n* Known hypersensitivity to Astragalus or gemcitabine;\n* Pregnant or lactating women. Women of childbearing potential who are unwilling or unable to use an acceptable method of contraception throughout the treatment period of this trial and for 12 weeks after the last dose of study drug. Sexually active, fertile men who are not using effective contraception themselves if their partner is a woman of childbearing potential;\n* Known neuroendocrine tumor of the pancreas;\n* Receiving a concomitant treatment with drugs interacting with gemcitabine;\n* Past or concurrent cancers with primary foci or histology completely different from pancreatic cancer, except for cervical cancer in situ, previously treated basal cell carcinoma, and superficial bladder tumors (Ta, Tis \\& T1). Any cancer cured \\>5 years prior to enrollment is allowed;\n* Inability to swallow herbal medicines or untreated malabsorption syndrome and unwillingness to take herbal medicines.\n* Patients with poor compliance",
   "enrollment": 120,
   "has_results": false,
@@ -85,19 +85,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "원격 전이가 있는 환자",
+    "중추신경계 손상 또는 연뇌막 질환 환자",
+    "울혈성 심부전, 불안정형 협심증, 최근 6개월 내 심근경색 등 중증 심장 질환 환자",
+    "황기 또는 gemcitabine(젬시타빈) 성분에 과민반응이 있는 환자",
+    "한약을 삼킬 수 없거나 복용을 거부하는 환자"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "원격 전이가 없고 수술 전 선행치료 대상인 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "adjuvant",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -20,9 +20,9 @@
  "id": "nct:NCT06866977",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 10명입니다.",
-  "중재 방법은 항암 바이러스 VRT106과 항암화학요법의 병용입니다.",
-  "안전성 추적 관찰은 마지막 투여 후 28일 동안 진행되며, 생존 추적 관찰은 3개월마다 이루어집니다."
+  "진행성 췌장암 환자를 대상으로 VRT106과 항암화학요법 병용요법을 평가합니다.",
+  "총 10명의 환자를 목표로 모집을 진행합니다.",
+  "치료 후 28일간의 안전성 추적관찰과 3개월마다의 생존 추적관찰을 시행합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06866977"
  },
- "summary_ko": "이 연구는 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 항암화학요법(chemotherapy)과 항암 바이러스(oncolytic virus) VRT106 병용요법의 유효성과 안전성을 평가하는 단일기관, 단일군, 공개 임상시험입니다. 총 10명의 환자를 목표로 하며, 스크리닝 기간, 치료 기간, 안전성 및 생존 추적 관찰 기간으로 구성됩니다. 현재 환자 모집을 시작하지 않았습니다(NOT_YET_RECRUITING).",
+ "summary_ko": "이 연구는 진행성 췌장암(advanced pancreatic cancer) 환자를 대상으로 항암화학요법(chemotherapy)과 용해성 바이러스(oncolytic virus) VRT106 병용요법의 효능과 안전성을 평가하는 단일기관, 단일군, 공개 임상시험입니다. 총 10명의 피험자를 모집할 계획입니다. 연구는 스크리닝 기간, 치료 기간, 그리고 마지막 투여 후 안전성 추적관찰 및 3개월마다의 생존 추적관찰을 포함하는 추적관찰 기간으로 구성됩니다.",
  "summary_source": "llm",
  "tags": [
   "Advanced pancreatic cancer"
  ],
  "title": "A Single-arm, Open-label Clinical Study to Evaluate the Efficacy and Safety of VRT106 in Combination With Chemotherapy for Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자를 위한 VRT106과 항암화학요법 병용요법의 유효성 및 안전성 평가를 위한 단일군, 공개 임상시험",
+ "title_ko": "진행성 췌장암 환자를 위한 VRT106과 항암화학요법 병용요법의 효능 및 안전성을 평가하는 단일군, 공개 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -65,7 +65,7 @@
     "phone": "0731-84327919"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 환자가 본 연구 참여에 자발적으로 동의하고 스크리닝 절차 전 기관생명윤리위원회(IRB) 승인 동의서에 서명한 경우\n* 스크리닝 방문 시 만 18세 이상의 남성 및 여성\n* 영상 검사 또는 수술적 탐색을 통해 절제 불가능한 췌장암으로 확인되고, 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 췌장관선암(선방상피암 포함)\n* 절제 불가능한 국소 진행성 및 전이성 췌장암에 대해 이전에 전신 치료를 받은 적이 없는 경우\n* RECIST v1.1 기준에 따라 측정 가능한 병변이 최소 1개 이상 있는 경우\n* 미국동부종양학협회(ECOG) 점수가 0 또는 1인 경우\n* 예상 생존 기간이 3개월 이상인 경우\n* 간, 신장, 심장 기능 또는 혈액 및 응고 기능에 심각한 이상이 없는 경우\n\n제외 기준:\n* 완치된 기저세포 피부암, 비흑색종 피부암, 자궁경부 상피내암을 제외하고, 지난 5년 이내에 다른 악성 종양을 앓았던 경우\n* 이전에 다른 항암 바이러스 치료를 받은 적이 있는 경우\n* 면역 결핍 환자\n* 알코올 또는 약물 의존성이 있는 경우\n* 임신 중이거나 모유 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인 남녀\n* 영상학적 또는 수술적 탐색을 통해 절제 불가능한 췌장암으로 확인되고, 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 췌장관선암(선鳞암 포함)\n* 절제 불가능한 국소 진행성 및 전이성 췌장암에 대해 이전에 전신 치료를 받지 않은 환자\n* RECIST v1.1 기준에 따라 최소 1개의 측정 가능한 병변이 있는 환자\n* 동유럽종양학협력그룹(ECOG) 수행능력 평가 점수가 0 또는 1인 환자\n* 예상 생존 기간이 3개월 이상인 환자\n\n제외 기준:\n* 완치된 기저세포 피부암, 비흑색종 피부암, 상피내 자궁경부암을 제외하고 지난 5년 이내에 다른 악성 종양을 앓은 적이 있는 환자\n* 이전에 다른 용해성 바이러스 치료를 받은 적이 있는 환자\n* 면역 결핍 환자\n* 알코올 또는 약물 의존성이 있는 환자\n* 임신 중이거나 모유 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Subject voluntarily agrees to participate in this study and signs an Institutional Review Board -approved informed consent prior to performing any of the Screening Visit procedures.\n* Males and females≥18 years of age, inclusive, at the Screening Visit.\n* Have unresectable pancreatic cancer as determined by imaging or surgical exploration and locally advanced or metastatic pancreatic ductal adenocarcinoma (including adenosquamous carcinoma) as confirmed by histology or cytology.\n* No prior systemic therapy for unresectable locally advanced and metastatic pancreatic cancer.\n* Have at least one measurable lesion according to RECIST v1.1 criteria.\n* An Eastern Cooperative Oncology Group (ECOG) score of 0 or 1.\n* Expected survival time of≥3 months.\n* No serious hematologic and cardiac abnormalities of the liver, kidneys, or coagulation functions.\n\nExclusion Criteria:\n\n* Have suffered from other malignant tumors in the past 5 years, except for cured basal cell skin cancer, non-melanoma skin cancer, and cervical cancer in situ.\n* Previous treatment with other oncolytic viruses.\n* Immunocompromised patients.\n* Known alcohol or drug dependency.\n* Women who are pregnant or breastfeeding.",
   "enrollment": 10,
   "has_results": false,
@@ -82,18 +82,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "지난 5년 이내 다른 악성 종양 병력",
+    "이전 용해성 바이러스 치료력",
+    "면역 결핍 환자",
+    "임신부 또는 수유부"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 치료력이 없는 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

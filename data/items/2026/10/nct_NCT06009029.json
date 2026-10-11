@@ -21,9 +21,9 @@
  "id": "nct:NCT06009029",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 96명이며 18세에서 75세 사이의 국소 진행성 췌장암 환자를 대상으로 합니다.",
-  "주요 평가변수는 전체 생존기간(OS)이며, 이차 평가변수로 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 통제율(DCR)을 평가합니다.",
-  "구체적인 생존기간 및 효과 수치는 초록에 명시되지 않았습니다."
+  "수술 불가 국소 진행성 췌장암 환자 96명을 대상으로 SBRT와 zimberelimab 병용 치료를 평가하는 2상 연구입니다.",
+  "주요 평가 지표는 전체 생존기간(OS)입니다.",
+  "이전에 면역항암제 치료를 받지 않은 18세~75세 환자가 대상입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06009029"
  },
- "summary_ko": "이 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자들을 대상으로 정위체부방사선치료(SBRT, Stereotactic body radiation)와 zimberelimab(GLS-010) 병용 치료의 효과와 안전성을 평가합니다. 96명의 환자를 목표로 하는 전향적, 단일군, 다기관 연구로 진행됩니다. 주요 평가변수(primary endpoint)는 전체 생존기간(OS)이며, 이차 평가변수에는 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 통제율(DCR) 및 이상반응이 포함됩니다. 구체적인 생존기간과 반응률 수치는 초록에 명시되지 않았습니다.",
+ "summary_ko": "본 연구는 수술이 불가능한 국소 진행성 췌장암 환자를 대상으로 입체정술 체외 방사선 치료(SBRT)와 면역항암제인 zimberelimab(짐베렐리맙, GLS-010) 병용 요법의 유효성과 안전성을 평가하는 단일군 2상 임상시험입니다. 총 96명의 환자를 모집하여 진행할 예정입니다. 주요 평가 지표는 전체 생존기간(OS)이며, 무진행 생존기간(PFS), 객관적 반응률(ORR), 질병 통제율(DCR) 및 부작용을 함께 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Locally Advanced Pancreatic Cancer",
@@ -56,7 +56,7 @@
   "Zimberelimab"
  ],
  "title": "SBRT Combined With Zimberelimab (GLS-010) in Locally Advanced Pancreatic Cancer (SPARK-1 Study)",
- "title_ko": "국소 진행성 췌장암에서 정위체부방사선치료(SBRT)와 zimberelimab(GLS-010) 병용 요법 (SPARK-1 연구)",
+ "title_ko": "국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법 임상시험 (SPARK-1 연구)",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Cancer"
@@ -68,7 +68,7 @@
     "phone": "+8613701076310"
    }
   ],
-  "eligibility_ko": "선정 기준: - 18세에서 75세 사이 - NCCN 가이드라인에 따라 절제 불가능하거나 수술을 거부한 조직학적으로 확진된 국소 진행성 췌장암 - ECOG 수행 능력 상태 0~2 - 예상 생존기간 3개월 이상 - RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 - 연구에서 지정한 검사 결과에 따른 적절한 장기 기능. 제외 기준: - 위장관을 침범한 췌장 종양 또는 림프절 전이 - 임신 중이거나 수유 중인 여성 - 완치된 피부암 및 상피내 자궁경부암을 제외하고 지난 5년 이내에 다른 악성 종양 병력이 있는 경우 - 항 PD-1, 항 PD-L1, 항 PD-L2, 항 PD-L4 등 면역관문억제제 치료를 이전에 받은 적이 있는 경우 - 면역요법에 대한 금기증 - 연구자가 임상시험에 부적합하다고 판단하는 기타 조건",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 75세 이하 환자\n• 조직학적으로 확진된 수술 불가능한 국소 진행성 췌장암 환자\n• ECOG 수행능력 평가 점수 0~2점\n• 예상 수명이 3개월 이상인 환자\n• RECIST v1.1 기준 최소 1개 이상의 측정 가능한 종양 병변이 있는 환자\n• 적절한 장기 기능을 보유한 환자\n\n제외 기준:\n• 췌장 종양 또는 림프절 전이가 위장관을 침범한 환자\n• 임신 중이거나 수유 중인 여성\n• 최근 5년 이내 다른 악성 종양 병력이 있는 환자 (완치된 피부암 및 자궁경부 상피내암 제외)\n• 이전에 anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 등 면역항암제 치료를 받은 적이 있는 환자\n• 면역치료에 대한 금기증이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* 18-75 years old.\n* Locally advanced pancreatic cancer confirmed histologically and defined according to the NCCN Pancreatic Cancer Guidelines v1.2022 as unresectable or surgically declined.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* The expected survival ≥ 3 months.\n* At least one tumor lesion meeting measurable disease criteria as determined by RECIST v1.1.\n* Patient must have adequate organ function defined by the study-specified laboratory tests.\n\nExclusion Criteria:\n\n* Tumor invasion of the gastrointestinal tract, specifically pancreatic tumor or lymph node metastasis invading the gastrointestinal parenchyma.\n* Woman who are pregnant or breastfeeding.\n* Has a known additional malignancy within the past 5 years, except for cured skin cancer and cervical carcinoma in situ.\n* Patients who have received prior treatment with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4, or with an agent directed to another stimulatory or co-inhibitory T-cell receptor.\n* Contraindications to immunotherapy.\n* Other conditions that investigator decides not suitable for the trial.",
   "enrollment": 96,
   "has_results": false,
@@ -83,11 +83,16 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "위장관을 침범한 종양 환자",
+    "이전 면역항암제(anti-PD-1, anti-PD-L1 등) 치료 경험이 있는 환자",
+    "최근 5년 이내 다른 암 병력 (완치된 피부암 및 자궁경부 상피내암 제외)",
+    "임신 또는 수유 중인 여성"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "이전 면역항암제 치료 경험이 없는 수술 불가 국소 진행성 췌장암 환자를 위한 임상시험입니다.",
    "prior_excluded": [
     "immunotherapy"
    ],
@@ -95,7 +100,7 @@
    "setting": [
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

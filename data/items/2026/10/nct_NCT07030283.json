@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "diagnosis",
-  "treatment"
+  "treatment",
+  "diagnosis"
  ],
  "entities": [
   "nalirifox"
@@ -22,9 +22,9 @@
  "id": "nct:NCT07030283",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 환자 수는 총 10명입니다.",
-  "정맥 내 NALIRIFOX는 14일 주기의 1일 차와 8일 차에 복강 내 paclitaxel과 함께 투여됩니다.",
-  "초록에 명시된 구체적인 생존기간이나 반응률 수치는 없습니다."
+  "대상 질환은 복막 전이가 있는 췌장관선암(pancreatic ductal adenocarcinoma) 환자 10명입니다.",
+  "중재 방법은 복강 내 paclitaxel과 정맥 내 NALIRIFOX(fluorouracil, leucovorin, oxaliplatin, liposomal irinotecan) 병용 투여입니다.",
+  "초록에 구체적인 생존기간이나 반응률 수치는 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07030283"
  },
- "summary_ko": "이 임상시험은 복막에 전이가 발생한 췌장관선암(pancreatic ductal adenocarcinoma) 성인 환자를 대상으로 복강 내 paclitaxel(파클리탁셀)과 정맥 내 NALIRIFOX 병용요법의 안전성과 치료 효과를 평가합니다. 연구진은 환자들이 이 약물 조합을 잘 견뎌내는지, 그리고 췌장암 치료에 얼마나 효과적인지 확인하고자 합니다. 환자들은 복강 내 카테터를 통해 paclitaxel을 투여받고, 2주마다 정맥 내 NALIRIFOX를 투여받습니다. 치료 후 암이 잘 반응하는 경우 일부 환자는 전환 수술(conversion surgery)을 받을 수 있습니다.",
+ "summary_ko": "이 임상시험은 복막으로 전이된 췌장관선암(pancreatic ductal adenocarcinoma) 성인 환자를 대상으로 복강 내 paclitaxel(파클리탁셀)과 정맥 내 NALIRIFOX 병용요법의 안전성과 유효성을 평가합니다. 참여 환자들은 복강 내 도관(intraperitoneal catheter)을 통해 paclitaxel을 투여받고, 2주 주기로 정맥 내 NALIRIFOX 치료를 받습니다. 연구진은 치료 후 부작용 감내 여부, 치료 효과, 생존율 등을 추적 관찰합니다. 암이 잘 반응할 경우 수술적 절제(전환 수술)를 고려할 수 있습니다.",
  "summary_source": "llm",
  "tags": [
   "Peritoneal Carcinomatosis",
@@ -76,7 +76,7 @@
     "phone": "720-278-0236"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 동의서 서명 및 날짜 기입. 2. 모든 연구 절차 준수 및 연구 기간 동안 참여 가능 의지. 3. 18세 이상. 4. 다른 장기로의 전이가 없고 복강 내 파종이 조직학적 또는 세포학적으로 확인된 췌장 선암. 5. NCCN 분류에 따른 절제 가능, 경계형 절제 가능, 또는 국소 진행성 원발 종양. 6. PCI 점수 8 이하. 7. ECOG 수행 능력 상태 0 또는 1. 8. FOLFIRINOX, 수정된 FOLFIRINOX, 또는 NALIRIFOX로 0~4개월간 이전 치료 경험이 있고 연구자의 판단에 따라 추가 치료를 받을 수 있는 경우. 9. 적절한 생물학적 매개변수 (ANC 1,500/mm3 이상, 혈소판 75,000/mm3 이상, 헤모글로빈 9 g/dL 초과). 10. 적절한 간 기능 (혈청 총 빌리루빈 ULN의 1.5배 이하, AST 및 ALT ULN의 3배 이하). 11. 적절한 신장 기능 (혈청 크레아티닌 ULN의 1.5배 미만). 제외 기준: 1. 전이성 단계의 췌장암에 대한 수술 또는 임상시험용 치료의 이전력. 2. 복강 외의 명백한 원격 전이 질환. 3. 복강 내 광범위한 전이 질환 (PCI 초과 8). 4. 이전 항암화학요법으로 인한 알려진 질병 진행. 5. paclitaxel 또는 기타 리포조말 제제에 대한 알려진 과민반응. 6. 강력한 CYP2C8 저해제 또는 유도제의 현재 사용, 또는 paclitaxel에 대한 기타 금기증. 7. 알려진 UGT1A1 결핍 또는 DPD 결핍. 8. 2등급 이상의 말초신경병증. 9. 증상이 있는 알려진 활성 코로나19 감염. 10. 췌장암 치료를 위한 방사선 치료를 받은 적이 있거나 현재 받고 있는 경우. 11. 복강 내 paclitaxel 첫 투여 전 30일 이내에 생백신 또는 약독화 생백신 투여. 12. HIV 양성, 만성 또는 활동성 B형 및 C형 간염 환자. 13. 연구 참여를 저해할 수 있는 활성 감염. 14. 연구 참여 또는 결과 해석을 방해할 수 있는 기타 의학적 또는 사회적 상태. 15. 임신 또는 수유 중인 여성, 가임기 여성의 임신 테스트 양성. 16. 선암이 아닌 조직학적 유형. 17. 스크리닝 당시 임상적으로 수용할 수 없는 1차 질환의 악화 징후나 증상이 있다고 판단되는 환자.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 조직학적 또는 세포학적으로 확진된 췌장선암 및 복강 내 파종(다른 장기 전이 없음)\n- NCCN 분류상 절제 가능, 경계성 절제 가능, 또는 국소 진행성인 원발 종양\n- 복막암토종합점수(PCI score) 8 이하\n- ECOG 수행능력 0 또는 1\n- FOLFIRINOX, 수정된 FOLFIRINOX, 또는 NALIRIFOX로 0~4개월간의 이전 치료 이력\n\n제외 기준:\n- 복막 외 원격 전이 종양 존재\n- 복강 내 광범위한 전이 (PCI > 8)\n- 이전 항암화학요법에 따른 질병 진행 확인\n- paclitaxel 또는 기타 리포좀 제제에 대한 과민반응 이력\n- 2등급 이상의 말초 신경병증",
   "eligibility_text": "Inclusion Criteria:\n\n1. Provision to sign and date the consent form.\n2. Stated willingness to comply with all study procedures and be available for the duration of the study.\n3. Be age 18 years or older.\n4. Histologically or cytologically confirmed pancreatic adenocarcinoma with histologically or cytologically proven seeding in the peritoneal cavity without metastasis to other organs.\n5. Primary tumor that is resectable, borderline resectable, or locally advanced per NCCN classification.\n6. PCI score ≤ 8.\n7. ECOG performance status of 0 or 1\n8. Prior treatment for 0-4 months with FOLFIRINOX, modified FOLFIRINOX, or NALIRIFOX and able to receive additional treatment per investigator opinion\n9. Adequate biological parameters as evidenced by all of the following blood counts:\n\n   * Absolute neutrophil count (ANC) \\>/= 1,500 per cubic millimeter without the use of hematopoietic growth factors within 14 days prior to screening\n   * Platelet count \\>/= 75,000 per cubic millimeter\n   * Hemoglobin \\> 9 g/dL\n10. Adequate hepatic function as evidenced by:\n\n    * Serum total bilirubin ≤ 1.5x ULN (biliary drainage is allowed for biliary obstruction), and\n    * AST and ALT ≤ 3 x ULN\n11. Adequate renal function as evidenced by serum creatinine \\<1.5 x ULN\n\nExclusion Criteria:\n\n1. Prior treatment of pancreatic cancer in the metastatic setting with surgery or investigational therapy (Note: biliary drainage, diagnostic laparoscopy/laparotomy, and duodenal stenting is allowed).\n2. Evident distant metastatic disease outside of the peritoneal cavity.\n3. Extensive metastatic disease in peritoneal cavity (PCI\\>8).\n4. Known disease progression with any prior chemotherapy.\n5. Known hypersensitivity to paclitaxel or other liposomal products.\n6. Current use of strong CYP2C8 inhibitors or inducers, or presence of any other contraindications for paclitaxel.\n7. Known UGT1A1 deficiency or DPD deficiency.\n8. Neuropathy Grade 2 or higher\n9. Known active COVID infection with symptoms.\n10. Has ever received or is currently receiving radiation for pancreatic cancer treatment.\n11. Receipt of live, attenuated vaccine within 30 days prior the first dose of Intraperitoneal paclitaxel. (Note: enrolled patients should not receive live vaccines during the study and up to 30 days after the last dose of intraperitoneal paclitaxel).\n12. Known positive test results for human immunodeficiency (HIV) or patients with chronic or active hepatitis B or C. Patients who have a history of hepatitis B or C who have undetectable HBV DNA or HCV RNA after anti-viral therapy may be enrolled.\n13. Active infection during screening visits or on the day of treatment, which in the investigator's opinion might compromise the patient's participation in the trial or affect the study outcome.\n14. Any other medical or social condition deemed by the Investigator to be likely to interfere with a patient's ability to sign informed consent, cooperate and participate in the study, or interfere with the interpretation of the results.\n15. Pregnant or breast feeding; females of child-bearing potential must test negative for pregnancy within 7 days prior to C1D1. Both male and female patients of reproductive potential must agree to use a highly effective method of birth control during the study and for 9 months following the last dose of both IP PTX and IV NALIRIFOX.\n16. Histologies other than adenocarcinoma, such as neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma.\n17. Patients who, in the opinion of the investigator, have symptoms or signs suggestive of clinically unacceptable deterioration of the primary disease at the time of screening.",
   "enrollment": 10,
   "has_results": false,
@@ -93,22 +93,32 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "복막 외 원격 전이",
+    "2등급 이상의 말초 신경병증",
+    "활동성 코로나19 감염",
+    "방사선 치료 이력",
+    "인간면역결핍바이러스(HIV) 또는 만성/활동성 간염 양성"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": null,
-   "min_prior_lines": 1,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "복막 전이가 있는 절제 가능, 경계성 절제 가능 또는 국소 진행성 췌장관선암 환자",
    "prior_excluded": [
-    "taxane"
+    "radiotherapy"
    ],
    "prior_required": [
-    "FOLFIRINOX"
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan"
    ],
    "setting": [
+    "metastatic",
     "locally_advanced",
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

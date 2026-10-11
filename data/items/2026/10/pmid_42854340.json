@@ -1,0 +1,63 @@
+{
+ "abstract": "OBJECTIVE: To clarify the impact of preoperative sarcopenia and muscle wasting postoperative on the short- and long-term outcomes following pancreatectomy in resectable pancreatic cancer (PC) patients.\nSUMMARY BACKGROUND DATA: Previous studies revealed that sarcopenia, defined as generalized loss of skeletal muscle mass, was a poor prognosis factor following surgery. However, research focus on postoperative muscle wasting and their influences on the prognosis in resectable PC was very limited.\nMETHODS: Retrospective analysis was performed for 284 early-stage PC patients who underwent pancreatic resection in two medical centers. Preoperative psoas major area and the degree of muscle reduction postoperative 3 months were calculated by computed tomography to define sarcopenia and drastic muscle wasting. Patients were assigned to 2 groups based on the presence or absence of sarcopenia or drastic muscle wasting and compared for postoperative morbidity and survival rate.\nRESULTS: Sarcopenia was present in 149 of 284 patients (52.4%), and a total of 88 patients (31.0%) developed muscle wasting of over 17% postoperatively. Compared with non-sarcopenia group, patients with sarcopenia had significantly greater incidence of overall or major morbidity (P = 0.001; P = 0.038, respectively), while sarcopenia status didn't correlate with poor-long term survival (DFS, P = 0.812; OS, P = 0.238). Surprisingly, patients presented drastic muscle wasting displayed poor DFS (P < 0.001) and OS (P < 0.001) and were found to be independent predictors of unfavorable DFS (P = 0.005) and OS (P < 0.001) after adjusting for clinicopathologic parameters.\nCONCLUSIONS: Sarcopenia preoperative is associated with higher risk of morbidity. Moreover, the concept of assessment in wasting muscle quantity following pancreatectomy is essential for accurate long-term prognosis in resectable PC patients.",
+ "authors": [
+  "Chen CY",
+  "Hou YC",
+  "Chao YJ",
+  "Kan NN",
+  "Wang MH",
+  "Liu YW",
+  "Lin YH",
+  "Wang CJ"
+ ],
+ "categories": [
+  "surgery",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-10",
+ "history": [
+  {
+   "date": "2026-10-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42854340",
+ "importance": 0.75,
+ "key_points_ko": [
+  "전체 환자 중 52.4%(149명)가 수술 전 근감소증을 겪었으며, 31.0%(88명)는 수술 후 17% 이상의 급격한 근육 소실을 보였습니다.",
+  "수술 전 근감소증은 전체 합병증(P=0.001) 및 주요 합병증(P=0.038) 위험을 높였으나, 무병 생존기간(P=0.812)이나 전체 생존기간(P=0.238)과는 유의한 상관이 없었습니다.",
+  "수술 후 17% 이상의 급격한 근육 소실은 무병 생존기간(P=0.005) 및 전체 생존기간(P<0.001) 단축을 독립적으로 예측하는 유의미한 불량 인자였습니다."
+ ],
+ "last_updated": "2026-10-10",
+ "links": {
+  "doi": "10.1016/j.ctarc.2026.101468",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42854340"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Treat Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42854340/"
+ },
+ "summary_ko": "수술이 가능한 조기 췌장암 환자 284명을 대상으로 수술 전 근감소증(sarcopenia)과 수술 후 근육 소실이 치료 경과에 미치는 영향을 분석했습니다. 분석 결과, 수술 전 근감소증은 수술 직후 합병증 발생 위험을 유의하게 높였습니다. 반면 장기 생존율에는 수술 전 근감소증보다 수술 후 3개월 이내에 발생한 급격한 근육 소실이 훨씬 더 결정적인 악영향을 미쳤습니다. 연구진은 수술 후 환자의 근육량 감소를 면밀히 평가하고 관리하는 것이 장기 예후에 중요하다고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Drastic muscle wasting following surgery is a strong predictor of prognosis in early-stage pancreatic cancer-a Taiwanese multicenter cohort study",
+ "title_ko": "수술 후 급격한 근육 소실은 조기 췌장암의 예후를 예측하는 강력한 인자입니다: 대만 다기관 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

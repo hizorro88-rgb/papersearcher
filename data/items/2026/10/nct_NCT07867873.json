@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "surgery",
   "treatment",
-  "diagnosis",
-  "surgery"
+  "diagnosis"
  ],
  "entities": [],
  "evidence": "phase3",
@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT07867873",
  "importance": 0.96,
- "key_points_ko": [],
+ "key_points_ko": [
+  "유도 항암화학요법 후 생물학적 반응(CA19-9 40% 이상 감소 및 300 U/mL 미만 등)을 보인 국소진행성 췌장암 환자 230명을 대상으로 수술과 MRI 유도 SABR을 비교합니다.",
+  "일차 평가지표는 전체 생존기간(OS)이며, 이차 평가지표로 무실패 생존기간, 삶의 질, 중대한 이상반응을 평가합니다.",
+  "수술과 비교되는 MRI 유도 SABR은 높은 국소 제어율과 낮은 독성을 기대하는 덜 침습적인 방사선 치료법입니다."
+ ],
  "last_updated": "2026-10-10",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07867873"
  },
- "summary_ko": "The primary objective of this study is to assess the added value of surgical exploration with intention for resection compared to MRI guided stereotactic ablative radiotherapy (SABR) in improving overall survival in patients with locally advanced pancreatic carcinoma (LAPC) who show a favourable biological response to systemic induction chemotherapy. The current evidence on the added survival benefit of surgery after induction chemotherapy is limited by strong selection bias, and international g…",
- "summary_source": "excerpt",
+ "summary_ko": "유도 항암화학요법(induction chemotherapy)에 양호한 반응을 보인 국소진행성 췌장암(LAPC) 환자를 대상으로, 절제 목적의 수술과 MRI 유도 정위적 체부 절제 방사선치료(SABR)의 효과를 비교하는 무작위 배정 3상 임상시험입니다. 최소 3개월간 항암치료를 받은 후 질병이 진행하지 않고 혈액 종양표지자(CA19-9) 감소 등 생물학적 반응이 확인된 환자 230명을 모집합니다. 환자들은 수술군 또는 MRI 유도 SABR군으로 나뉘어 치료를 받게 됩니다. 일차 목표는 전체 생존기간(OS)의 개선 여부를 평가하는 것입니다.",
+ "summary_source": "llm",
  "tags": [
   "Locally advanced pancreatic carcinoma",
   "surgery",
@@ -53,7 +57,7 @@
   "stereotactic ablative radiotherapy"
  ],
  "title": "Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy",
- "title_ko": null,
+ "title_ko": "유도 항암치료 후 생물학적 반응이 양호한 국소진행성 췌장암 환자에서 수술과 자기공명영상 유도 정위적 체부 절제 방사선치료 비교 3상 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Carcinoma (LAPC)"
@@ -65,7 +69,7 @@
     "phone": "+31616767330"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 병리학적으로 확인된 국소진행성 췌장암(LAPC) 환자\n- 최소 3개월 이상의 전신 유도 항암치료를 받은 환자\n- 해부학적 기준: 영상 검사상 질병 진행이 없고(non-progressive), 다학제 팀 판단하에 수술적 절제 및 방사선치료가 기술적으로 가능한 경우\n- 생물학적 반응 기준: 유도 항암치료 후 혈청 CA19-9 수치가 40% 이상 감소하고 최종 수치가 300 U/mL 미만인 경우 (진단 시 CA19-9가 정상이면 FDG-PET에서 SUVmax 30% 이상 감소 등 충족 필요)\n- 전신 상태: 재병기 평가 시 ECOG 수행능력 0~1점이며 수술과 항암치료가 가능한 상태\n\n제외 기준:\n- 원격 전이(metastatic disease)가 있는 경우\n- 이전에 전신 유도 항암치료와 방사선치료를 병용하여 받은 경우 (단, 종양 출혈로 인한 8 Gy 1회 방사선 조사는 허용)\n- 십이지장을 제외한 위장관 중공 장기(위, 소장 등)로 종양이 직접 침범한 경우\n- 유도 항암치료 중 임상적 악화가 발생했거나 종양 관련 통증이 증가한 경우\n- 3년 이내의 다른 암 병력이 있는 경우 (피부암, 2cm 미만 췌장 신경내분비종양 등 특정 저위험 암 제외)",
   "eligibility_text": "Inclusion Criteria:\n\n* Age: ≥18 years.\n* Diagnosis:\n\nPatients diagnosed with pathology proven (WHO 6-7) LAPC according to the 2025 NCCN guideline. Of note, WHO-3 is allowed for inclusion in case of evidence for neoplasia by molecular analyses if cystic lesions are absent. Chemotherapy may be started without pathologyproof after a least two attempts via fine-needle biopsy if the patient has a high radiological and clinical suspicion for pancreatic adenocarcinoma and consensus has been reached in the responsible multidisciplinary conference. Furthermore, patients must meet the following established A-B-C parameters after at least three months systemic induction therapy:\n\n* Anatomy:\n* RECIST non-progressive disease on cross-sectional imaging;\n* No radiological downstaging to a borderline resectable tumour;\n* Surgical resection seems potentially feasible according to the local multidisciplinary team\\*;\n* Radiation is technically feasible according to the local multidisciplinary team;\n* Biology:\n* Serum CA19-9 reduction \\>40% with an absolute end value \\<300 U/mL after induction chemotherapy\\*\\*.\n* NB1. If non-elevated serum CA19-9 at diagnosis, metabolic response on 18F-FDG PET scan defined as ≥30% reduction of SUVmax if \\>4 at baseline#.\n* NB2. If non-elevated serum CA19-9 at diagnosis\\*\\* and on 18F-FDG PET scan an SUVmax ≤4 at baseline, non-elevated serum CEA at restaging is required (i.e., ≤5 ng/ml).\n* NB3. If serum CA19-9 after chemotherapy is \\>150 U/ml, a negative staging laparoscopy is required prior to randomization (unless a staging laparoscopy was already performed prior to starting systemic therapy). This is based on the PREOPANC-4 cohort wherein such patients had a 23% risk of peritoneal metastases (vs. 5% with \\<150 U/ml).\n* Condition:\n* ECOG/WHO performance status 0-1 at restaging, being fit for surgery and chemotherapy\n\nNB. If a systemic treatment switch is performed in the setting of induction therapy with the indication of (biochemical) disease progression, restaging according to the above-mentioned criteria are performed with using the A-B-C features between the first- and second-line systemic induction therapy as baseline.\n\n\\* Patients who require a resection of the superior mesenteric artery (SMA) are only allowed for inclusion by centres where this is routine practice, as evidenced by a volume of on average ≥15 SMA resections for periampullary cancer over the preceding three years, considering the high risks of complication-related mortality. This also means that patients with an SMA string sign (i.e. irregularity of the arterial wall) on cross-sectional imaging after systemic induction therapycannot be randomized at centers. At baseline, serum CA19-9 is measured with a total bilirubin as low as possible and measured as short as possible before the start of chemotherapy. At restaging, serum CA19-9 is ideally measured in the same lab due to different essays with widely diverging results.\n\n#Preferably, FDG-PET scan is performed with EARL reconstruction protocol 1 or 2.\n\n\\- Informed consent: Competent and willing to provide informed consent in accordance with the requirements of the ethics committee.\n\nExclusion Criteria:\n\n\\- Prior treatment: Prior systemic induction therapy combined with any type of radiother-apy. Radiotherapy is not used as induction therapy as it has not been proven beneficial and considering the potential increased risk of major morbidity, although particularly seen with external beam radiotherapy. The only other possible indication for radio-therapy that is allowed in this trial is a single fraction of 8 Gray in case of tumour bleed-ing.\n\n\\- Metastatic disease: Presence of metastatic disease\n\n\\- Comorbidities: Clinical deterioration during systemic induction therapy or increase of suspected tumour-related pain after excluding other potential causes of pain (e.g., pancreatitis, stent dysfunction).\n\n\\- History of other malignancies: A past medical history of malignancy, except under the following conditions: no evidence of disease, diagnosis more than three years ago before the diagnosis of pancreatic cancer, and life expectancy of more than five years from date of inclusion. Of note, a past medical history of non-melanoma skin cancer, pancreatic neuroendocrine tumour \\<2 cm, and gastrointestinal stroma tumour (GIST), or any other cancer with a life expectancy beyond five years are no exclusion criteria. Lastly, lesions on CT thorax that are too small to characterize are not considered met-astatic disease. The last exclusion criterium is tumours directly invading gastrointestinal hollow organs, except the duodenum.",
   "enrollment": 230,
   "has_results": false,
@@ -80,18 +84,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "원격 전이 동반",
+    "이전 유도 치료 기간 중 방사선치료를 병용한 경우",
+    "십이지장을 제외한 다른 위장관 장기를 직접 침범한 종양",
+    "최근 3년 이내 다른 악성 종양 병력"
+   ],
    "max_prior_lines": 0,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "유도 항암치료를 3개월 이상 받고 암이 진행하지 않으며 CA19-9가 40% 이상 감소한 국소진행성 췌장암 환자",
+   "prior_excluded": [
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

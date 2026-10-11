@@ -19,9 +19,9 @@
  "id": "nct:NCT04900818",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 환자 수는 330명입니다.",
-  "제1상 단계로 진행성 또는 전이성 고형암 환자를 대상으로 합니다.",
-  "췌장암 환자는 수술 불가능한 국소 진행성 또는 전이성 췌장 선암(pancreatic adenocarcinoma) 병용 치료 그룹에 해당합니다."
+  "목표 인원은 총 330명입니다.",
+  "1상 단계의 임상시험으로 안전성과 내독성을 평가합니다.",
+  "국내 기관은 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04900818"
  },
- "summary_ko": "이 연구는 진행성 또는 전이성 고형암 환자를 대상으로 신약 TJ033721(givastomig)의 안전성과 내독성, 최대내성용량(MTD), 약동학(PK), 약력학(PD)을 평가하기 위한 공개, 다기관, 다회 투여 제1상 임상시험입니다. 췌장암 환자는 파트 3의 병용 치료 코호트에 해당합니다. 전체 목표 환자 수는 330명입니다.",
+ "summary_ko": "본 임상시험은 진행성 또는 전이성 고형암 환자를 대상으로 TJ033721(givastomig) 단독요법 및 병용요법의 안전성, 내뢰성, 약동학(PK), 약력학(PD)을 평가하기 위한 다기관, 공개형, 1상 임상시험입니다. 췌장암 코호트(Part 3)에서는 절제 불가능한 국소 진행성 또는 전이성 췌장암(pancreatic adenocarcinoma) 환자를 대상으로 치료를 평가합니다. 환자들은 CLDN18.2 양성 발현 등의 선정 기준을 충족해야 합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Study of TJ033721 (Givastomig) in Subjects With Advanced or Metastatic Solid Tumors",
- "title_ko": "진행성 또는 전이성 고형암 환자를 대상으로 한 TJ033721(givastomig) 연구",
+ "title_ko": "진행성 또는 전이성 고형암 환자를 대상으로 한 TJ033721(Givastomig) 연구",
  "trial": {
   "conditions": [
    "Solid Tumor",
@@ -69,7 +69,7 @@
     "phone": "(240) 745-6330"
    }
   ],
-  "eligibility_ko": "선정 기준: - 파트 3: 조직학적으로 확인된 수술 불가능한 국소 진행성 또는 전이성 췌장 선암 환자 - 동유럽 암 협력 그룹(ECOG) 수행능력 상태 0 또는 1이면서 적절한 장기 기능을 가진 환자 - 면역조직화학 검사로 확인된 PD-L1 상태 및 상응하는 복합 양성 점수(CPS) 보유 - 용량 확장 및 파트 3 병용 환자의 경우 CLDN18.2 양성 종양 발현 필수. 제외 기준: - CLDN18.2 표적 치료 경험이 있는 경우 - 4-1BB 작용제 투여 경험이 있는 경우 - 최근 3년 이내에 두 번째 악성 종양이 있는 경우 - 활동성 또는 만성 B형 또는 C형 간염이 있는 경우 - 6주 이내에 불안정/활동성 궤양 또는 소화관 출혈이 있는 경우 - 최근 2년 이내에 전신 치료가 필요한 활동성 자가면역 질환이 있는 경우 - 치료가 필요한 활동성 간질성폐질환(ILD) 또는 폐렴 병력이 있는 경우 - 활동성 중추신경계(CNS) 전이 및/또는 뇌막 암종증이 있는 경우 - 최근 6개월 이내 심각한 심혈관 질환이 있는 경우 - HIV 등 면역결핍 진단을 받은 경우 - 파트 3 병용 환자의 경우 항 PD-1 또는 PD-L1 제제로 이전 치료를 받은 경우",
+  "eligibility_ko": "선정 기준:\n- 파트 3: 절제 불가능한 국소 진행성 또는 전이성 조직학적으로 확진된 췌장 선암(pancreatic adenocarcinoma) 환자\n- ECOG 수행능력 상태 0 또는 1\n- 면역조직화학법을 통한 알려진 PD-L1 상태 및 CPS 점수 보유\n- 용량 확장 및 파트 2, 3, 4 병용 환자의 경우 CLDN18.2 양성 종양 발현 필수\n\n제외 기준:\n- CLDN18.2 표적 치료 이력 있음\n- 4-1BB 작용제(agonist) 투여 이력 있음\n- 최근 3년 이내 두 번째 악성 종양 이력 있음\n- 활동성 또는 만성 B형/C형 간염\n- 조절되지 않거나 활동성인 중추신경계(CNS) 전이 또는 수막 뇌염\n- 파트 2, 3, 4 병용 환자의 경우 이전 항 PD-1 또는 PD-L1 제제 치료 이력 있음",
   "eligibility_text": "Inclusion Criteria:\n\nPart 1 - Monotherapy Subjects with advanced or metastatic solid tumor in subjects whose disease has progressed despite standard therapy, or who has no further standard therapy, or who is unsuitable for available standard treatment options.\n\nPart 2 - Combination Therapy Subjects with treatment naïve locally advanced, unresectable or metastatic gastric, GEJ, esophageal adenocarcinoma;\n\nPart 3: Combination Therapy Subjects with unresectable, locally advanced or metastatic histologically confirmed pancreatic adenocarcinoma;\n\nPart 4: Combination Therapy Subjects with unresectable, locally advanced or metastatic histologically confirmed biliary tract cancer.\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 with adequate organ function\n* Have known PD-L1 status with prior testing by immunohistochemistry and a corresponding combined positive score (CPS)\n\nFor dose expansion and Part 2, Part 3, Part 4 Combination subjects:\n\n• Must have CLDN18.2-positive tumor expression\n\nExclusion Criteria\n\n* Prior exposure to CLDN18.2 -targeted therapy\n* Prior exposure to 4-1BB agonists\n* Second malignancy within the last 3 years with the exception of cutaneous squamous cell carcinoma or cutaneous basal cell carcinoma or cervical carcinoma in situ\n* Known active or chronic Hepatitis B or Hepatitis C, other hepatitides\n* Unstable/active ulcer or digestive tract bleeding within 6 weeks\n* Active autoimmune disease requiring systemic treatment within the past 2 years\n* Active interstitial lung disease (ILD) or pneumonitis or a history of ILD or pneumonitis requiring treatment\n* Known active CNS metastases and/or carcinomatous meningitis. Subjects with previously treated brain metastases may participate provided they are clinically stable and without requirement of steroid treatment for at least 14 days prior to first dose of study treatment;\n* New York Heart Association (NYHA) Class 3 or 4 congestive heart failure, severe/unstable angina, myocardial infarction (MI), symptomatic congestive heart failure, cerebrovascular accident, transient ischemic attack (TIA), arterial embolism, percutaneous transluminal coronary angioplasty (PTCA), or coronary artery bypass grafting (CABG) in the previous 6 months\n* Diagnosis of immunodeficiency such as known active HIV\n* Any active infection requiring parenteral treatment\n\nFor Part 2, 3, 4 Combination subjects:\n\n• Prior treatment with anti-PD-1 or PD-L1 agent",
   "enrollment": 330,
   "has_results": false,
@@ -87,13 +87,20 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [],
+   "biomarkers_required": [
+    "CLDN18_2"
+   ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "뇌전이 (치료 후 안정된 경우 제외)",
+    "활동성 B형 또는 C형 간염",
+    "최근 6개월 이내 심혈관 질환 (심부전, 심근경색, 뇌졸중 등)",
+    "조절이 필요한 활동성 자가면역 질환"
+   ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "이전 치료 경험이 있는 CLDN18.2 양성 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [
     "immunotherapy"
    ],
@@ -102,7 +109,7 @@
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

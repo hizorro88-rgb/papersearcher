@@ -23,9 +23,9 @@
  "id": "nct:NCT06991491",
  "importance": 0.77,
  "key_points_ko": [
-  "대상 질환은 재발성 전이성 진행성 췌장암입니다.",
-  "시험 치료는 GnP 요법, 정위체부방사선치료(SBRT), 그리고 이보네시맙(Ivonescimab)의 병용입니다.",
-  "목표 환자 수는 29명이며 2상 임상시험으로 진행됩니다."
+  "목표 환자 수는 총 29명이며, 연령은 18세에서 75세 사이의 전이성 췌장암 환자입니다.",
+  "중재 방법은 Ivonescimab, GnP 항암화학요법, 그리고 정위체부방사선치료(SBRT)의 병용입니다.",
+  "이전 전신 항암 치료를 받지 않았거나, 수술 후 6개월 이상 지나서 재발·전이된 환자가 대상에 포함됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,17 +50,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06991491"
  },
- "summary_ko": "이 연구는 재발성 전이성 진행성 췌장암 환자를 대상으로 GnP(gemcitabine plus nab-paclitaxel) 항암화학요법, 정위체부방사선치료(SBRT), 그리고 면역항암제 및 혈관신생억제 이중항체인 ivonescimab(이보네시맙)을 함께 투여하는 병용 요법의 유효성과 안전성을 평가합니다. 목표 환자 수는 29명이며 West China Hospital에서 진행하는 2상 임상시험입니다. 종양 면역 미세환경의 공간 분석 등을 통해 병용 요법의 효능 예측 바이오마커도 함께 탐색합니다. 현재 환자 모집 전(not yet recruiting) 단계입니다.",
+ "summary_ko": "이 연구는 재발성 전이성 진행성 췌장암 환자를 대상으로 항 PD-1/VEGF 이중항체인 ivonescimab(이보네시맙), GnP(gemcitabine plus nab-paclitaxel) 항암화학요법, 그리고 정위체부방사선치료(SBRT)를 함께 투여하는 병용 요법의 유효성과 안전성을 평가하기 위한 제2상 임상시험입니다. 연구에는 총 29명의 환자가 참여할 예정이며, 종양 면역 미세환경의 공간 분석 등을 통해 효과 예측 바이오마커도 함께 탐색합니다. 현재 환자 모집 전 단계(not yet recruiting)입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Ivonescimab With GnP and SBRT in Patients With Metastatic Pancreatic Cancer (WGOG-PAN 004)",
- "title_ko": "전이성 췌장암 환자를 대상으로 GnP, SBRT, 이보네시맙(Ivonescimab)을 병용하는 2상 임상시험",
+ "title_ko": "전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: - 병리학적으로 확진된 전이성 췌장암 환자 - 이전 전신 항암 치료를 받지 않았거나, 완치 목적의 수술 후 보조항암화학요법을 마쳤으나 마지막 보조항암화학요법 후 6개월 이상 지나 재발 또는 전이가 발생한 환자 - 만 18세에서 75세의 연령 - 동유럽 암 협력 그룹(ECOG) 활동도 점수 0~2점 - 영상 및 수술 평가상 간 병변이 절제 불가능하거나 수술을 견딜 수 없으며, 원발 병변에 심각한 합병증이 없는 환자 - 측정 가능한 종양 병변이 적어도 1개 이상 있는 환자 제외 기준: - 연구 약물에 알레르기력이 있는 자 - 중추신경계(CNS) 전이가 알려졌거나 의심되는 자 - 5년 이내에 다른 악성 종양 병력이 있는 자 - 본 연구 요법 외에 다른 항암 치료나 면역 억제 치료를 병용하는 자 - 이전에 화학요법, FAK 억제제, PD-1/PD-L1/PD-L2/CD137/CTLA-4 항체 등을 사용한 자 - 조절되지 않는 고혈압, 심각한 심장 질환, 출혈 또는 혈전성 사건 병력이 있는 자 - 임산부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n- 병리학적으로 확진된 전이성 췌장암 환자\n- 이전 전신 항암 치료를 받은 적이 없거나, 근치적 수술 후 보조항암치료를 마쳤으나 마지막 보조항암치료 6개월 이후 재발 또는 전이가 발생한 환자\n- 18세에서 75세 사이\n- ECOG 수행능력 점수 2 이하\n- 영상 및 수술 평가상 간 병변이 수술 불가이거나 수술을 견딜 수 없으며, 주요 병소에 심각한 합병증이 없는 환자\n- 적어도 하나의 측정 가능한 종양 병변이 있는 환자\n- 적절한 장기 기능을 가진 환자\n\n제외 기준:\n- 연구 약물에 알레르기력이 있는 자\n- 중추신경계(CNS) 전이가 알려졌거나 의심되는 자\n- 5년 이내 다른 악성 종양 병력자\n- 임상시험 기간 동안 허용되지 않는 다른 항암 치료나 한방 치료를 병용해야 하는 자\n- 이전에 FAK 억제제, 항 PD-1, 항 PD-L1, 항 PD-L2, 항 PD-CD137, 항 CTLA-4 항체 등을 사용한 적이 있는 자\n- 면역결핍 진단을 받았거나 첫 투여 7일 이내에 전신 스테로이드 또는 면역억제 치료를 받고 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients with pathologically confirmed metastatic pancreatic cancer;\n2. Patients who have not received any prior systemic anti-tumor therapy, or who have undergone prior radical pancreatic cancer surgery and received regular postoperative adjuvant chemotherapy, and who have developed recurrence or metastasis more than 6 months after final adjuvant chemotherapy;\n3. Aged 18 to 75 years old;\n4. Eastern Cooperative Oncology Group performance status score (ECOG) ≤ 2;\n5. According to imaging and surgical evaluation, the liver lesion is unresectable or rhe patient is unable to tolerate surgery, and the primary lesion has no serious complications (perforation, obstruction or hemorrhea that cannot be managed by medical therapy);\n6. At least one measurable tumor lesion: length and diameter of spiral CT greater than or equal to 10 mm, lymph node short diameter greater than or equal to 15 mm; maximum diameter of conventional CT or physical examination greater than or equal to 20mm;\n7. Adequate organ functions as follows:\n\n   Absolute neutrophil count ≥1500/mm3, leukocyte≥4000/mm3, platelet count ≥80,000/mm3, hemoglobin ≥9.0 g/dL; total bilirubin≤2.0 × upper limit of normal (UNL); serum creatinine ≤1.5 × UNL; alanine aminotransferase, aspartate aminotransferase ≤5 × UNL;\n8. Life expectancy of longer than 3 months;\n9. No history of autoimmune disease and no current co-morbid autoimmune disease;\n10. Participate the study voluntarily and sign the informed consent document.\n\nExclusion Criteria:\n\n1. Subjects with a known allergy to any of the study medications;\n2. Subjects with known or suspected CNS metastases, i.e., subjects with signs or symptoms suggestive of the development of CNS metastases, unless CNS metastases have been ruled out by CT or MRI;\n3. History of other malignancies within 5 years (except adequately treated basal cell carcinoma of the skin and carcinoma in situ of the cervix);\n4. Anti-tumor therapeutic measures other than the treatment regimen of this study must be used concurrently during the study period, including chemotherapy, targeted therapy, hormone therapy, immunotherapy regimens, radiotherapy, and anti-tumor herbal treatments;\n5. Prior use or ongoing use of chemotherapy, FAK inhibitor analogs, or anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti-cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) antibodies;\n6. Diagnosis of immunodeficiency or undergoing chronic systemic steroid therapy (administration of more than 10 mg of prednisone or equivalent per day) or any other form of immunosuppressive therapy within 7 days prior to administering the first dose of this study;\n7. Patients receive live vaccines (including, but not limited to: measles, mumps, rubella, varicella/herpes zoster, yellow fever, rabies, BCG, and typhoid vaccines) within 30 days prior to their first dose of study drug therapy, and the use of virus-killed vaccines such as injectable seasonal influenza vaccine is permitted, but the use of live attenuated vaccines such as intranasal influenza vaccine (e.g., fluoride mist) is not permitted;\n8. Uncontrollable hypertension (defined as systolic blood pressure \\>160 mmHg and/or diastolic blood pressure \\>100 mmHg after treatment);\n9. significant cardiac disease, including congestive heart failure (NYHA Class III-IV), previous myocardial infarction, or uncontrolled angina within 6 months;\n10. Arrhythmia requiring treatment, including atrial fibrillation, supraventricular tachycardia, ventricular tachycardia, or ventricular fibrillation, with ECG abnormalities confirmed by review and in the judgment of the Investigator requiring clinical intervention or treatment;\n11. History of a hemorrhagic or thromboembolic event within the last 6 months, e.g., cerebrovascular accident (including transient ischemic attack), pulmonary embolism, spontaneous hemorrhage from a tumor;\n12. need for surgical intervention within 28 days or within 28 days of anticipated last dose\n13. Combination of uncontrollable third cavity effusion, such as massive pleural effusion or ascites;\n14. Previous gastrointestinal perforation or suspected gastrointestinal perforation;\n15. Combinations of medications that, in the judgment of the investigator, must be used during the trial that may affect the metabolism of the product: e.g., strong CYP 3A4 inhibitors or inducers, primarily metabolized by CYP 3A4, 2C8, 2C9, 2C19, or 2D6, and medications with a low therapeutic index;\n16. Persons with severe mental disorders;\n17. Women who may be pregnant, gestating, or breastfeeding;\n18. Subjects of childbearing age who are unwilling to use contraception during the trial period up to 3 months after the last dose;\n19. Participation in a clinical trial of another drug or medical device within 4 weeks prior to the trial;\n20. those who, in the judgment of the investigator, are not suitable for enrollment.",
   "enrollment": 29,
   "has_results": false,
@@ -74,17 +74,25 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "중추신경계(CNS) 전이",
+    "5년 이내 다른 암 병력",
+    "면역항암제 치료 경험",
+    "조절되지 않는 고혈압 및 심장 질환"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료 경험이 없거나 수술 후 6개월 이상 지나 재발한 전이성 췌장암 환자",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

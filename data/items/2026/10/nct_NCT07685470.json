@@ -20,10 +20,10 @@
  "id": "nct:NCT07685470",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 27명에서 30명입니다.",
-  "1상에서는 becotatugvedotin 1.5 mg/kg 또는 2.0 mg/kg을 3주 주기로 3+3 용량증가 방식으로 평가합니다.",
-  "gemcitabine은 각 3주 주기의 1일 차와 8일 차에 1000 mg/m² 용량으로 투여됩니다.",
-  "참여 대상은 18세부터 75세 사이의 2차 치료가 필요한 진행성 췌장암 환자입니다."
+  "목표 환자 수는 총 27~30명이며 1단계(3~6명)와 2단계(24명)로 나누어 진행됩니다.",
+  "becotatugvedotin은 3주 주기(Q3W)로 1.5 mg/kg 또는 2.0 mg/kg 용량이 평가되며, gemcitabine은 각 주기의 1일 차와 8일 차에 1000 mg/m²로 투여됩니다.",
+  "선정 기준에 따라 ECOG 수행능력 점수 0-2점의 국소 진행성 절제 불가능 또는 전이성 췌관선암 환자가 참여합니다.",
+  "1차 젬시타빈(gemcitabine) 기반 치료에 실패한 환자는 제외됩니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07685470"
  },
- "summary_ko": "이 연구는 진행성 췌장암(PDAC) 2차 치료 환자를 대상으로 becotatugvedotin과 gemcitabine(젬시타빈) 병용 요법의 내약성, 권장 용량, 유효성 및 안전성을 평가하는 1상 및 2상 임상시험입니다. 총 27~30명의 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 목표로 합니다. 1상에서는 용량 제한 독성(DLTs)을 평가하고 2상 권장 용량을 결정하며, 2상은 결정된 용량으로 유효성을 평가합니다.",
+ "summary_ko": "본 연구는 이전에 1차 치료에 실패한 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC) 환자 27~30명을 대상으로 becotatugvedotin과 gemcitabine 병용요법의 내오성, 권장 용량, 유효성 및 안전성을 평가하기 위한 1b/2상 임상시험입니다. 1단계(1상)에서는 3+3 용량 증량 디자인을 통해 becotatugvedotin 1.5 mg/kg 또는 2.0 mg/kg을 3주 주기로 gemcitabine과 함께 투여하여 권장 용량을 결정합니다. 2단계(2상)에서는 결정된 권장 용량으로 유효성과 안전성을 평가하며, 질병 진행 또는 허용 불가한 독성이 나타날 때까지 치료를 지속합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "MRG003 With Gemcitabine for Second-line Advanced PDAC",
- "title_ko": "진행성 췌장암 2차 치료를 위한 becotatugvedotin과 젬시타빈 병용 요법 임상시험",
+ "title_ko": "진행성 췌관선암 2차 치료로서 becotatugvedotin과 gemcitabine 병용요법에 대한 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -65,7 +65,7 @@
     "phone": "861069158751"
    }
   ],
-  "eligibility_ko": "선정 기준: - ECOG 수행 능력 점수 0~2 - 조직학적으로 확인된 국소 진행성 절제 불가능 또는 전이성 췌장 방광 선암종(PDAC) - 이전 1차 전신 치료 실패(방사선학적 진행 또는 1차 치료 불내성) - 적절한 장기 및 골수 기능 - 예상 여명 3개월 초과 - EGFR 및 PD-L1 면역조직화학 검사, 차세대 염기서열 분석(NGS)을 위한 종양 조직 샘플 제공 동의\n\n제외 기준: - 이전 1차 젬시타빈 기반 치료 실패 - 신경내분비종양, 선방세포암종 등 다른 조직학적 형태의 췌장 종양 - 이전 MMAE 탑재 항체-약물 접합체(ADC) 치료 경험 - 선천성 또는 후천성 면역결핍, 활동성 B형 또는 C형 간염 - 연구 약물에 대한 알려진 과민반응 - 무작위 배정 전 6개월 이내 심근경색, 불안정성 협심증, 심부전 발생 - 임신 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준: - ECOG 수행능력 점수 0-2점인 환자 - 조직학적으로 확인된 국소 진행성 절제 불가능 또는 전이성 췌관선암(PDAC) - 이전에 1차 전신 치료에 실패했거나(방사선학적 진행 또는 6개월 이내 재발 등) 1차 치료에 불내성이 있는 환자 - 적절한 장기 및 골수 기능을 가진 환자 - 예상 여명이 3개월 이상인 환자 - EGFR 및 PD-L1 발현 검사, 차세대 염기서열 분석(NGS)을 위한 종양 조직 샘플 제공에 동의한 환자. 제외 기준: - 1차 젬시타빈(gemcitabine) 기반 치료 실패 환자 - 신경내분비종양, 선포세포암, 낭성암 등 다른 조직학적 형태의 췌장 종양 - MMAE 탑재 항체-약물 접합체(ADC) 사전 치료 경험이 있는 환자 - 선천성 또는 후천성 면역결핍증, 활동성 B형 또는 C형 간염 환자 - 연구 약물 또는 부형제에 대한 과민반응 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\nECOG performance status score of 0-2;\n\nHistopathologically confirmed locally advanced unresectable or metastatic pancreatic ductal adenocarcinoma (PDAC);\n\nFailure of prior first-line systemic therapy:\n\n1. Radiographic progression or worsening of clinical symptoms; disease progression occurring within 6 months after completion of neoadjuvant/adjuvant therapy is also considered first-line treatment failure.\n2. Intolerance to first-line therapy, as fully assessed by the investigator, may also allow enrollment into the study. Intolerance to prior study treatment is defined as follows:\n\ni. Any grade ≥3 hematologic toxicity (per NCI-CTCAE v5.0) that does not recover to grade 1 or pre-treatment level after 14 days of best supportive care; ii. Any grade ≥3 non-hematologic toxicity (excluding alopecia and asymptomatic laboratory abnormalities) per NCI-CTCAE v5.0 that does not recover to normal after 14 days of best supportive care.\n\nAdequate organ and bone marrow function;\n\nEstimated life expectancy \\> 3 months;\n\nSubjects must agree to provide sufficient tumor tissue samples for EGFR and PD-L1 immunohistochemistry (IHC) expression testing, next-generation sequencing (NGS), and multi-omics analysis. This includes archived tumor samples (paraffin blocks or unstained sections meeting the testing requirements specified in the study); if no archived tumor tissue sample is available, the subject agrees to undergo re-biopsy of the tumor lesion.\n\nExclusion Criteria:\n\n* Failure of first-line gemcitabine-based therapy.\n\nOther histologic types of pancreatic tumors, such as neuroendocrine tumors, acinar cell carcinoma, cystic carcinoma, etc.\n\nPrior treatment with an MMAE-loaded ADC (antibody-drug conjugate).\n\nCongenital or acquired immunodeficiency (e.g., HIV infection), active hepatitis B (HBV-DNA ≥ 10⁴ copies/mL), or hepatitis C (positive HCV antibody with HCV-RNA above the lower limit of detection of the assay).\n\nKnown hypersensitivity to the study drug or any of its excipients, or a history of severe allergic reactions to other monoclonal antibodies.\n\nOccurrence of the following within 6 months before randomization: myocardial infarction, severe/unstable angina pectoris, New York Heart Association (NYHA) Class ≥2 cardiac insufficiency, or symptomatic congestive heart failure.\n\nVaccination with a live vaccine within 4 weeks before the first dose of study drug. Inactivated virus vaccines for seasonal influenza (administered by injection) are permitted, but live attenuated influenza vaccine administered via the intranasal route is not allowed.\n\nKnown history of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n\nKnown history of substance abuse (psychoactive drugs) or drug addiction.\n\nPregnant or breastfeeding women.\n\nDiagnosis of any other malignancy within 5 years before study entry, except for curatively treated basal cell carcinoma or squamous cell carcinoma of the skin, superficial bladder cancer, carcinoma in situ of the cervix, ductal carcinoma in situ of the breast, and papillary thyroid carcinoma that have been treated with local therapy and cured.\n\nPresence of any other serious physical or psychiatric illness, or laboratory abnormalities that may increase the risk of study participation, interfere with the study results, or render the patient unsuitable for participation in the opinion of the investigator.\n\nNote: Subjects with hepatitis B meeting the following criteria may also be enrolled:\n\nHBV viral load \\< 1000 copies/mL (\\<200 IU/mL) before the first dose, and the subject must receive anti-HBV therapy during the entire study treatment period to prevent viral reactivation.\n\nFor subjects who are anti-HBc (+), HBsAg (-), anti-HBs (-), and HBV viral load (-), prophylactic anti-HBV therapy is not required, but close monitoring for viral reactivation is necessary.\n\nSubjects with active HCV infection (positive HCV antibody and HCV-RNA levels above the lower limit of detection).\n\nVaccination with a live vaccine within 30 days before the first dose (Cycle 1, Day 1).\n\nNote: Inactivated injectable vaccines for seasonal influenza are permitted within 30 days before the first dose; live attenuated influenza vaccine administered intranasally is not allowed.\n\nPresence of any serious or uncontrolled systemic disease, for example:\n\nClinically significant and severe, difficult-to-control abnormalities in cardiac rhythm, conduction, or morphology on resting ECG, such as complete left bundle branch block, second-degree or higher atrioventricular block, ventricular arrhythmia, or atrial fibrillation.\n\nUnstable angina pectoris, congestive heart failure, or chronic heart failure of NYHA Class ≥2.\n\nAny arterial thrombotic, embolic, or ischemic event (e.g., myocardial infarction, unstable angina, cerebrovascular accident, or transient ischemic attack) within 6 months before study treatment.\n\nPoorly controlled blood pressure (systolic blood pressure \\> 140 mmHg, diastolic blood pressure \\> 90 mmHg).\n\nActive tuberculosis.\n\nActive or uncontrolled infection requiring systemic therapy.\n\nClinically active diverticulitis, intra-abdominal abscess, or gastrointestinal obstruction.\n\nLiver disease such as cirrhosis, decompensated liver disease, or acute or chronic active hepatitis.\n\nPoorly controlled diabetes mellitus (fasting blood glucose \\> 10 mmol/L).\n\nUrinalysis showing proteinuria ≥ 2+, with confirmed 24-hour urine protein \\> 1.0 g.\n\nPsychiatric disorders that prevent the patient from cooperating with treatment.\n\nHistory or evidence of disease, treatment, or laboratory abnormalities that could interfere with the study results or prevent the subject from completing full participation in the study, or any other condition that, in the investigator's opinion, makes the subject unsuitable for enrollment, including potential risks that are not explicitly listed above.",
   "enrollment": 30,
   "has_results": false,
@@ -79,20 +79,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "1차 젬시타빈 기반 치료 실패 환자",
+    "MMAE 탑재 ADC 치료 경험 환자",
+    "활동성 B형 또는 C형 간염 환자",
+    "임산부 또는 수유부",
+    "최근 6개월 이내 심근경색, 불안정형 협심증 등 심장 질환 병력 환자"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "notes_ko": "이전 1차 치료(단, 젬시타빈 기반 치료 제외) 이후 진행된 국소 진행성 또는 전이성 췌관선암 환자",
+   "prior_excluded": [
+    "gemcitabine"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "adjuvant",
-    "neoadjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

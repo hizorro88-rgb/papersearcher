@@ -3,8 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
-  "treatment"
+  "treatment",
+  "surgery",
+  "drug"
  ],
  "entities": [
   "folfirinox"
@@ -21,9 +22,10 @@
  "id": "nct:NCT03484299",
  "importance": 0.74,
  "key_points_ko": [
-  "국소 진행성 췌장암 환자 20명을 대상으로 합니다.",
-  "비가역적 전기천공법(IRE)과 FOLFIRINOX 또는 gemcitabine의 병용 치료를 평가합니다.",
-  "초록에 생존기간, 반응률, 위험비는 명시되지 않았습니다."
+  "대상 질환은 3기 국소 진행성 췌장암입니다.",
+  "중재 방법은 비가역적 전기천공법(IRE)과 gemcitabine 또는 FOLFIRINOX 병용입니다.",
+  "목표 등록 환자 수는 20명입니다.",
+  "구체적인 생존기간이나 반응률 수치는 초록에 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03484299"
  },
- "summary_ko": "본 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 비가역적 전기천공법(Irreversible Electroporation, IRE)과 FOLFIRINOX 또는 gemcitabine 병용 치료의 효능과 내인성을 평가합니다. 모든 환자는 절제술 전후 치료(peri-ablation treatment)로 FOLFIRINOX 또는 gemcitabine을 투여받습니다. 목표 환자 수는 총 20명이며 현재 환자를 모집 중입니다.",
+ "summary_ko": "국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 비가역적 전기천공법(IRE)과 FOLFIRINOX 또는 gemcitabine 병행 치료의 효능과 내반성을 비교하는 1상 임상시험입니다. 3기 췌장암 진단을 받은 환자 20명을 목표로 진행합니다. 모든 환자는 절제술 전후 치료(peri-ablation treatment)로 FOLFIRINOX 또는 gemcitabine을 투여받습니다. 초록에 환자 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Chemotherapy and Irreversible Electroporation in the Treatment of Advanced Pancreatic Adenocarcinoma",
- "title_ko": "진행성 췌장 선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)",
+ "title_ko": "진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)",
  "trial": {
   "conditions": [
    "Pancreas Cancer"
@@ -64,7 +66,7 @@
     "phone": "502-629-3355"
    }
   ],
-  "eligibility_ko": "선정 기준: - 18세 이상 - 3기 췌장암 진단 - 측정 가능한 종양 - 사구체여과율(GFR) 관련 기준 충족 - 프로토콜 요구사항 준수 가능 - AST/ALT가 정상 상한치의 3배 초과 - 집도의가 정의한 안정적인 수술 후 경과. 제외 기준: - 스크리닝 시점 다른 암 임상시험 참여 중 - 임신 중이거나 수유 중 - IRE 시술 중 비활성화할 수 없는 심박동기 또는 제세동기(ICD) 장착 - 타겟 병변 1cm 이내에 금속 부품이 있는 제거 불가능한 임플란트 보유 - 등록 전 3개월 이내 심근경색 병력",
+  "eligibility_ko": "선정 기준:\n- 18세 이상\n- 3기 췌장암 진단\n- 측정 가능한 종양 있음\n- 사구체여과율(GFR) 기준 충족 (단위는 초록에 명시되지 않음)\n- 프로토콜 요구사항을 준수할 수 있는 자\n- AST/ALT가 정상 상한치의 3배 초과\n- 집도의가 정의한 안정적인 수술 후 경과\n\n제외 기준:\n- 선별 검사 당시 다른 암 치료 임상시험에 참여 중인 자\n- 임신 중이거나 모유 수유 중인 자\n- IRE 시술 중 비활성화할 수 없는 심박동기(pacemaker) 또는 제세동기(ICD)가 삽입된 자\n- 표적 병변 1cm 이내에 금속 부품이 포함된 제거 불가능한 임플란트가 있는 자\n- 등록 전 3개월 이내에 심근경색(myocardial infarction)이 있었던 자",
   "eligibility_text": "Inclusion Criteria:\n\n* greater than or equal to 18 years of age\n* diagnosed with stage III pancreatic cancer\n* tumor is measurable\n* GFR \\> mL/min/1.73m2\n* willing and able to comply with protocol requirements\n* AST/ALT \\>3 times upper limit of normal\n* stable surgical post-operative course as defined by operative surgeon\n\nExclusion Criteria:\n\n* participating in another clinical trial for the treatment of cancer at the time of screening\n* pregnant or currently breast feeding\n* have a cardiac pacemaker or ICD implanted that cannot be deactivated during IRE procedure\n* have non-removable implants with metal parts within 1 cm of the target lesion\n* had a myocardial infarction within 3 months prior to enrollment",
   "enrollment": 20,
   "has_results": false,
@@ -82,17 +84,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "심박동기 또는 제세동기(ICD) 삽입 환자",
+    "표적 병변 1cm 이내 금속 임플란트 존재",
+    "3개월 이내 심근경색 병력",
+    "임신 또는 모유 수유 중",
+    "다른 암 임상시험 동시 참여"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "3기 국소 진행성 췌장암 환자를 위한 비가역적 전기천공법(IRE) 및 항암화학요법 병행 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "adjuvant"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

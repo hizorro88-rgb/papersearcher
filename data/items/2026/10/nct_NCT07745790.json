@@ -19,10 +19,9 @@
  "id": "nct:NCT07745790",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 20명이며 현재 환자 모집 전(NOT_YET_RECRUITING) 단계입니다.",
-  "중재 치료는 Multimodal Thermal Therapy System, KRAS G12V mRNA Vaccine, Sintilimab, S-1입니다.",
-  "표준 AG 요법(Albumin-bound Paclitaxel plus Gemcitabine) 이후 진행되었거나 불내성인 환자가 대상입니다.",
-  "초록에 명시된 구체적인 유효성 및 생존기간 수치는 초록에 명시되지 않음."
+  "목표 환자 수는 총 20명입니다.",
+  "간 또는 폐 전이가 있는 전이성 췌관선암 환자가 대상입니다.",
+  "이전 AG 요법 치료 실패 또는 불내성인 환자를 대상으로 합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07745790"
  },
- "summary_ko": "본 연구는 표준 1차 항암화학요법(AG 요법) 이후 질병이 진행되었거나 불내성이 있는 간 또는 폐 전이 동반 전이성 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자 20명을 대상으로 합니다. 다중 모달 온열 치료(Multimodal Thermal Therapy, MTT) 시스템, KRAS G12V mRNA 백신, S-1, Sintilimab 병용 투여의 안전성과 유효성, 면역학적 기전을 평가하는 단일군, 단일 기관, 탐색적 임상시험입니다. 초록에 명시되지 않은 생존기간, 반응률 등의 임상 결과 수치는 아직 없습니다.",
+ "summary_ko": "이 연구는 표준 1차 치료인 AG 요법(Albumin-bound Paclitaxel plus Gemcitabine) 이후 질병 진행을 겪었거나 불내성이 있는 전이성 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자 20명을 대상으로 하는 단일군, 단일 기관, 탐색적 임상 2상 시험입니다. 환자들은 다중모달 온열 치료 시스템(Multimodal Thermal Therapy System), KRAS G12V mRNA 백신(KRAS G12V mRNA Vaccine), S-1, Sintilimab 병용 치료를 받습니다. 연구의 목적은 이 병용요법의 안전성, 유효성 및 기저 면역학적 기전을 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "Multimodal Thermal Therapy",
@@ -55,7 +54,7 @@
   "Metastatic Pancreatic Cancer"
  ],
  "title": "Safety and Efficacy of Multimodal Thermal Therapy (MTT) Combined With KRAS G12V mRNA Vaccine, S-1, and Sintilimab in Patients With Metastatic Pancreatic Cancer",
- "title_ko": "전이성 췌장암 환자에서 다중 모달 온열 치료, KRAS G12V mRNA 백신, S-1 및 Sintilimab 병용 요법의 안전성과 유효성",
+ "title_ko": "전이성 췌장암 환자에서 다중모달 온열치료, KRAS G12V mRNA 백신, S-1 및 Sintilimab 병용요법의 안전성과 유효성",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -69,7 +68,7 @@
     "phone": "+86 18817821319"
    }
   ],
-  "eligibility_ko": "선정 기준: - 성별 제한 없이 만 18세 이상 - 조직학적 또는 세포학적 검사로 확진된 진행성 췌장암 또는 수술 후 재발성 췌장암 - 염기서열 분석 및 생물정보학 분석을 통해 KRAS G12V 돌연변이 확인 (확장기에는 특정 HLA 대립유전자 보유 필수) - 이전 AG 기반 항암화학요법에 대한 내성 또는 불내성 - 간 전이 또는 폐 전이 존재 - 미국동부암연구협회 전신 수행능력 상태(ECOG PS) 점수 0 또는 1점 - 차일드-퓨(Child-Pugh) 점수 7점 이하 - 예상 생존기간 3개월 이상. 제외 기준: - 미만성 간 전이 또는 폐 전이 존재 - 전이 병변에 대한 이전 국소 치료(고주파절제술, 마이크로파절제술, 방사선치료 등) 이력 - 다른 중재적 임상시험 참여 중 - 첫 연구 약물 투여 전 5년 이내 다른 악성 종양 진단력 - 고형 장기 또는 조혈모세포 이식력 - 등록 전 14일 이내 전신 코르티코스테로이드 또는 면역억제제 치료가 필요한 질환 - 증상이 조절되지 않는 뇌 전이력 - 조절되지 않는 활동성 감염 - 신장 기능 장애 (혈청 크레아티닌 > 176.8 μmol/L 또는 크레아티닌 청소율 < 30 mL/min) - 교정할 수 없는 응고 이상 - 내시경, 중재술, 수술로 효과적 치료를 받지 못한 식도위정맥류 출혈력 - 급성기 정신질환 - 임신 중, 수유 중이거나 임신 계획이 있는 가임 여성 - 마지막 전신 치료 또는 국소 간 치료 후 첫 연구 약물 투여까지의 간격이 1개월 미만인 경우",
+  "eligibility_ko": "선정 기준:\n- 18세 이상, 성별 무관\n- 조직학적 또는 세포학적으로 진단된 진행성 또는 수술 후 재발성 췌장암\n- 시퀀싱 및 생물정보학 분석을 통해 KRAS G12V 변이가 확인된 종양 조직 (용량 확장 단계에서는 특정 HLA 대립유전자 보유 필수)\n- 이전 AG 기반 항암화학요법에 저항성이 있거나 불내성인 환자\n- 간 전이 또는 폐 전이가 있는 환자\n- Eastern Cooperative Oncology Group Performance Status (ECOG PS) 점수 0 또는 1\n- Child-Pugh 점수 7점 이하\n- 예상 생존기간이 3개월 이상\n\n제외 기준:\n- 미만성 간 또는 폐 전이가 있는 환자\n- 전이 병전에 대한 고주파 절제술, 극초단파 절제술, 방사선 치료 등 이전 국소 치료를 받은 환자\n- 현재 다른 중재적 임상시험에 참여 중인 환자\n- 첫 연구 약물 투여 전 5년 이내에 다른 악성 종양 진단을 받은 환자\n- 고형 장기 또는 조혈모세포 이식 병력이 있는 환자\n- 등록 전 14일 이내에 전신 코르티코스테로이드 또는 면역억제제 치료가 필요한 환자\n- 증상이 완전히 조절되지 않은 뇌전이 병력이 있거나 현재 진단된 환자\n- 조절되지 않는 활동성 감염이 있는 환자\n- 신장 기능 장애가 있는 환자\n- 교정할 수 없는 응고 이상이 있는 환자\n- 치료되지 않은 식도위정맥류 파열 병력이 있는 환자\n- 급성기 정신질환이 있는 환자\n- 임신 중이거나 수유 중인 가임기 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged ≥ 18 years old with no restriction on gender.\n* Patients with advanced pancreatic cancer or postoperative recurrent pancreatic cancer confirmed by histopathological or cytological examination.\n* Tumor tissues are confirmed to carry KRAS G12V mutation via sequencing and bioinformatics analysis (valid test reports obtained within the previous 12 months and recognized by the investigator are acceptable). In the dose expansion phase, patients must harbor at least one HLA allele capable of effectively presenting the corresponding antigen, including HLA-A11:01, HLA-A03:01, HLA-A30:01, HLA-A68:01, HLA-C01:02, HLA-C03:03, and HLA-C03:04.\n* Disease resistance or intolerance to prior AG-based chemotherapy regimens.\n* Presence of liver metastasis or lung metastasis.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1.\n* Child-Pugh score ≤ 7 points.\n* Expected overall survival of at least 3 months.\n\nExclusion Criteria:\n\n* Presence of diffuse hepatic or pulmonary metastases.\n* Prior local treatment including radiofrequency ablation, microwave ablation, radiotherapy or other local therapies for metastatic lesions.\n* Current participation in other interventional clinical studies and receiving investigational treatment.\n* Diagnosis of any other malignant disease within 5 years prior to the first study drug administration (excluding radically treated basal cell carcinoma, squamous cell carcinoma of the skin, and/or radically resected in situ carcinoma).\n* Prior history of solid organ or hematopoietic stem cell transplantation.\n* Any disease requiring systemic treatment with corticosteroids (prednisone or equivalent daily dose \\> 10 mg) or other immunosuppressive agents within 14 days prior to enrollment.\n* Previous or current diagnosis of brain metastases with incompletely controlled symptoms (i.e., persistent or aggravated symptoms, or requirement for adjusted symptomatic treatment to maintain symptom relief).\n* Presence of uncontrolled active infection.\n* Renal dysfunction defined as serum creatinine \\> 176.8 μmol/L or creatinine clearance \\< 30 mL/min.\n* Uncorrectable coagulation abnormalities, including platelet count \\< 50×10⁹/L, prothrombin time \\> 18 seconds, or prothrombin activity \\< 40%, which cannot be corrected.\n* History of esophagogastric variceal rupture without effective treatment via endoscopy, interventional therapy or surgery.\n* Patients with psychiatric disorders in the acute episode stage.\n* Women of childbearing potential who are pregnant, breastfeeding, or planning to become pregnant during the study treatment period or within 3 months after the end of study treatment.\n* Prior systemic pharmacotherapy, radiotherapy or local hepatic treatment with an interval of \\< 1 month from the last systemic or local hepatic treatment to the first study drug administration.",
   "enrollment": 20,
   "has_results": false,
@@ -90,18 +89,25 @@
     "KRAS_G12V"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "증상이 조절되지 않는 뇌전이",
+    "조절되지 않는 활동성 감염",
+    "5년 이내 다른 암 병력",
+    "임신 또는 수유 중인 가임기 여성"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "이전 AG 요법 실패 후 간 또는 폐 전이가 확인된 KRAS G12V 변이 전이성 췌장암 환자",
    "prior_excluded": [],
-   "prior_required": [],
-   "setting": [
-    "metastatic",
-    "adjuvant"
+   "prior_required": [
+    "gemcitabine",
+    "taxane"
    ],
-   "source": "rules"
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

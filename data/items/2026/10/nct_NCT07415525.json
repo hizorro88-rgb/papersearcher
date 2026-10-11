@@ -22,9 +22,10 @@
  "id": "nct:NCT07415525",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 40명이며, CLDN18.2 양성인 치료 이력이 없는 경계성 절제 가능 췌장암 환자를 대상으로 합니다.",
-  "수술 전 보조 치료 요법은 IBI343(6mg/kg), Gemcitabine(800mg/m²), Nab-paclitaxel(100mg/m²)을 3주 주기로 4사이클 투여합니다.",
-  "수술 전 보조 치료와 수술 후 보조 치료를 합친 전체 치료 기간은 6개월입니다."
+  "목표 환자 수는 40명이며, CLDN18.2 양성인 경계성 절제 가능 췌장암 환자를 대상으로 합니다.",
+  "환자들은 IBI343, gemcitabine, nab-paclitaxel 병용요법으로 4주기의 선행치료를 받습니다.",
+  "선행치료 후 수술이 가능한 환자는 근치적 수술을 받으며, 이후 총 6개월의 기간 동안 보조항암치료를 이어갑니다.",
+  "초록에 명시된 구체적인 유효성, 반응률, 생존기간 수치는 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07415525"
  },
- "summary_ko": "이 연구는 CLDN18.2 양성 경계성 절제 가능 췌장암(Borderline Resectable Pancreatic Cancer, BRPC) 환자 40명을 대상으로 수술 전 보조 치료(neoadjuvant therapy)로서 IBI343과 항암화학요법 병용 투여의 안전성과 유효성을 평가하는 2상 임상시험입니다. 대상 환자들은 4주기의 수술 전 보조 치료를 받으며, 다학제 팀(MDT)의 평가를 거쳐 근치적 절제술을 시행받게 됩니다. 수술 후에는 AG 요법(Gemcitabine+Nab-paclitaxel) 또는 연구자가 선택한 보조 항암화학요법을 받으며, 수술 전후 치료를 포함한 전체 치료 기간은 6개월입니다. 본 연구는 Zhejiang University에서 진행하며 현재 환자 모집 전 단계입니다.",
+ "summary_ko": "이 연구는 CLDN18.2 양성인 경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 IBI343과 항암화학요법을 병용한 선행치료(neoadjuvant therapy)의 안전성과 유효성을 평가하는 제2상 임상시험입니다. 치료 경험이 없는 40명의 환자를 목표로 하며, 4주기의 선행치료 후 다학제팀(MDT) 평가를 거쳐 근치적 절제 수술을 진행합니다. 수술 후에는 AG 요법 또는 연구자가 선택한 보조항암화학요법을 받으며, 수술 전후 치료 기간은 총 6개월입니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "borderline resectable pancreatic adenocarcinoma",
@@ -57,7 +58,7 @@
   "neoadjuvant therapy"
  ],
  "title": "IBI343 Combined With Chemotherapy as Neoadjuvant Therapy in Borderline Resectable Pancreatic Cancer",
- "title_ko": "경계성 절제 가능 췌장암 환자에서 수술 전 보조 치료로서 IBI343과 항암화학요법 병용 2상 임상시험",
+ "title_ko": "경계성 절제 가능 췌장암에서 선행화학요법으로서 IBI343 병용요법의 제2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -70,7 +71,7 @@
     "phone": "+8619941463683"
    }
   ],
-  "eligibility_ko": "선정 기준:- 서면 동의서를 자발적으로 서명하고 프로토콜 절차를 준수할 수 있는 자.- 영상 검사와 병리학적 진단으로 확진된 췌장 선암(pancreatic adenocarcinoma).- NCCN 2025.V2 지침에 따라 영상 검사로 확인된 경계성 절제 가능 췌장암.- 연구 대상 질환에 대해 수술, 방사선 치료, 항암화학요법, 표적치료, 면역치료 등 이전 항암 치료를 받은 적이 없는 자.- 연령 만 18세 이상 만 75세 이하.- 동부협력종양군(ECOG) 신체 상태 점수 0점 또는 1점.- 예상 생존 기간 12주 이상.- 충분한 골수 및 장기 기능.- 가임 여성 또는 가임 파트너가 있는 남성의 경우 치료 기간 및 치료 후 6개월 동안 효과적인 피임법 사용.- 조직 검사를 통해 Claudin18.2 면역조직화학 막 염색 강도 1+ 이상이 종세포의 50% 이상에서 확인된 CLDN18.2 양성.\n제외 기준:- 현재 다른 중재적 임상시험에 참여 중인 자.- 국소 재발성 병변인 자.- 첫 투여 전 2주 또는 반감기의 5배 기간(중 더 긴 기간) 이내에 강력한 CYP3A4 억제제를 투여받은 자.- 첫 투여 전 7일 이내에 담관 스텐트 삽입술 또는 PTCD를 받은 자.- 첫 투여 전 4주 이내에 생백신을 접종받았거나 연구 기간 동안 접종할 계획이 있는 자.- 첫 투여 전 4주 이내에 주요 외과 수술을 받았거나 치유되지 않은 상처, 궤양, 골절이 있는 자.- 과거 6개월 이내에 수술로 해결되지 않은 위장관 천공 및/또는 누공 병력.- 섭식이나 위 배출에 영향을 미치는 유문부 폐쇄.- 소화기계 또는 기관에 스텐트가 삽입된 경우.- 스테로이드 치료가 필요한 간질성 폐질환 병력 또는 폐 기능이 심하게 손상된 환자.- 조절되지 않는 질환, 다른 원발성 악성종양 병력, 면역결핍 병력, 동종 장기 이식 병력.- 토포이소머라제 억제제 기반 항체-약물 접합체(ADC) 치료를 이전에 받은 적이 있는 자.- 임신 중이거나 수유 중인 여성.",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서를 작성하고 절차를 준수할 수 있는 자\n- 조직학적으로 확진된 췌장선암(pancreatic adenocarcinoma)\n- 영상 검사상 원격 전이의 증거가 없는 자\n- NCCN 가이드라인에 따라 영상 검사로 확진된 경계성 절제 가능 췌장암(BRPC)\n- 연구 대상 질환에 대해 수술, 방사선치료, 항암화학요법 등 이전 항암 치료를 받은 적이 없는 자\n- 연령 18세 이상 75세 이하, 성별 무관\n- ECOG 수행능력 평가 점수 0점 또는 1점\n- 예상 생존기간이 12주 이상\n- 충분한 골수 및 장기 기능\n- 가임 여성 및 가임 파트너가 있는 남성의 효과적인 피임 실시\n- 병리 조직 검사로 확인된 CLDN18.2 양성\n\n제외 기준:\n- 현재 다른 중재적 임상시험에 참여 중인 자\n- 국소 재발성 병변인 자\n- 첫 투여 전 2주 또는 5반감기 내에 강력한 CYP3A4 억제제를 투여받은 자\n- 첫 투여 전 7일 이내에 담도 스텐트 삽입술 또는 PTCD를 받은 자\n- 첫 투여 전 4주 이내에 생백신을 접종받았거나 계획 중인 자\n- 첫 투여 전 4주 이내에 주요 수술을 받았거나 치유되지 않은 상처, 궤양, 골절이 있는 자\n- 과거 6개월 이내에 위장관 천루 또는 누공 병력이 있는 자\n- 공장 영양관 삽입으로 개선될 수 없는 유문 협착이 있는 자\n- 소화관 또는 기관에 스텐트가 삽입되어 있는 자\n- 스테로이드 치료가 필요한 간질성 폐질환 또는 관련 병력이 있는 자\n- 조절되지 않는 질환이 있는 자\n- 다른 원발성 악성 종양 병력\n- 면역결핍 병력이 알려진 자\n- 동종 장기 이식 또는 동종 조혈모세포 이식 병력\n- 이전에 토포이소머라제 억제제 기반 항체-약물 접합체(ADC) 치료를 받은 적이 있는 자\n- 해당 약물 또는 제형에 알레르기 병력이 있는 자\n- 해당 약물의 금기증이 있는 자\n- 이상반응으로 인해 해당 약물의 영구 중단 병력이 있는 자\n- 임신 중이거나 수유 중인 여성\n- 연구자가 참여하기에 부적합하다고 판단하는 기타 조건",
   "eligibility_text": "Inclusion Criteria:\n\n* (1)Sign a written Informed Consent Form (ICF), willing and able to comply with the visits and related procedures specified in the protocol.\n* (2)Histopathologically confirmed pancreatic adenocarcinoma.\n* (3)No evidence of distant metastasis as assessed by imaging (must include chest, abdomen, and pelvis). Bone scan or PET/CT may be performed for confirmation if necessary.\n* (4)Confirmed borderline resectable pancreatic cancer as assessed by imaging (abdominal contrast-enhanced CT or contrast-enhanced MRI), with resectability determined according to the NCCN 2025.V2 guidelines for pancreatic cancer.\n* (5)No prior anti-tumor treatment for the studied disease, including surgery, radiotherapy, chemotherapy, targeted therapy, immunotherapy, etc.\n* (6)Age ≥18 years and ≤75 years, regardless of gender.\n* (7)Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1.\n* (8)Expected survival ≥12 weeks.\n* (9)Adequate bone marrow and organ function.\n* (10)Female subjects of childbearing potential or male subjects with female partners of childbearing potential must use effective contraception throughout the treatment period and for 6 months after treatment.\n* (11)Confirmed \\*CLDN18.2 positivity by pathological tissue testing. \\*CLDN18.2 positivity is defined as Claudin18.2 immunohistochemical membrane staining intensity ≥1+ in ≥50% of tumor cells, accepting previous test results, results from the research center, or laboratory test results. Regarding the proportion of CLDN18.2 expression, the investigator and sponsor may dynamically adjust the criteria during the study based on newly generated data and data from other studies.\n\nExclusion Criteria:\n\n* (1)Currently participating in another interventional clinical study, excluding observational (non-interventional) clinical studies or being in the survival follow-up phase of an interventional study.\n* (2)The tumor is a locally recurrent lesion.\n* (3)Received treatment with a strong cytochrome P450 3A4 (CYP3A4) inhibitor within 2 weeks or 5 half-lives (whichever is longer) before the first dose of the investigational drug.\n* (4)Underwent biliary stent implantation or PTCD within 7 days before the first dose of the investigational drug.\n* (5)Received any live vaccine within 4 weeks before the first dose of the investigational drug or plans to receive one during the study period.\n* (6)Underwent major surgical procedures (craniotomy, thoracotomy, laparotomy, or other surgeries defined by the investigator, excluding needle biopsy) within 4 weeks before the first dose of the investigational drug, or has unhealed wounds, ulcers, or fractures; or plans to undergo major surgery during the study period.\n* (7)History of gastrointestinal perforation and/or fistula within the past 6 months before the first dose of the investigational drug, which has not been resolved through surgical treatment.\n* (8)Pyloric obstruction affecting eating or gastric emptying that cannot be improved by jejunal feeding tube placement.\n* (9)Post-implantation of a stent in the digestive tract (referring to the muscular tube from the mouth to the anal canal, including the mouth, pharynx, esophagus, stomach, small intestine (duodenum, jejunum, ileum), large intestine (cecum, appendix, colon, rectum), and anal canal) or trachea. (Excluding stent placement included as part of radical surgery, such as duodenal stent placement in subjects with pancreatic head cancer.)\n* (10)Interstitial lung disease requiring steroid treatment, or a history of interstitial lung disease, non-infectious pneumonia, severely impaired lung function, or uncontrolled pulmonary conditions such as pulmonary fibrosis, severe radiation pneumonitis, acute lung injury, etc., or suspicion of the above conditions during screening.\n* (11)Presence of uncontrolled diseases.\n* (12)History of other primary malignancies.\n* (13)Known history of immunodeficiency.\n* (14)History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n* (15)Previously received antibody-drug conjugate therapy based on topoisomerase inhibitors.\n* (16)For subjects receiving medication, a history of allergy to the corresponding drug or formulation.\n* (17)For subjects receiving medication, contraindications to the corresponding drug.\n* (18)For subjects receiving medication, a history of permanent discontinuation of the corresponding drug due to adverse reactions.\n* (19)Pregnant or breastfeeding female subjects.\n* (20)Other conditions considered by the investigator as not suitable for participation in this study.",
   "enrollment": 40,
   "has_results": false,
@@ -88,18 +89,31 @@
     "CLDN18_2"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "원격 전이가 있는 경우",
+    "이전에 항암 치료나 수술을 받은 경우",
+    "간질성 폐질환 또는 조절되지 않는 폐 질환이 있는 경우",
+    "다른 원발성 악성 종양 병력이 있는 경우",
+    "임신 또는 수유 중인 경우"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료력이 없고 CLDN18.2 양성인 경계성 절제 가능 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "resectable",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

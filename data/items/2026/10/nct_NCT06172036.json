@@ -20,10 +20,9 @@
  "id": "nct:NCT06172036",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 환자 수는 총 180명입니다.",
-  "중재 치료는 irinotecan liposome, oxaliplatin, 5-FU, LV 병용에 adebelizumab 병용 여부를 평가합니다.",
-  "주요 평가지표는 12개월 무사건 생존율(EFS rate)입니다.",
-  "초록에 명시되지 않음(생존기간, 반응률, 위험비 등은 아직 발표되지 않았습니다)."
+  "이전 치료 경험이 없는 수술 가능한 췌장암 환자 180명을 대상으로 진행하는 임상 2상 시험입니다.",
+  "이리노테칸 리포솜 기반 항암화학요법에 면역항암제 아데벨리주맙 병용 추가 효과를 평가합니다.",
+  "주요 평가 지표는 12개월 사건 무생존율(EFS) 및 안전성입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06172036"
  },
- "summary_ko": "이 임상시험은 수술 가능(resecatble)한 췌장암 환자 180명을 대상으로 진행됩니다. 항종양 치료 경험이 없는 환자들을 대상으로 irinotecan liposome, oxaliplatin, 5-fluorouracil(5-FU), leucovorin(LV) 병용요법에 면역관문억제제인 adebelizumab을 추가하거나 제외했을 때의 유효성과 안전성을 평가합니다. 주요 평가지표는 12개월 무사건 생존율(EFS rate)입니다.",
+ "summary_ko": "이 연구는 수술 가능한 췌장암 환자를 대상으로 수술 전 선행보조항암요법의 효과와 안전성을 평가하기 위한 임상 2상 시험입니다. 환자들은 이리노테칸 리포솜(irinotecan liposome), 옥살리플라틴(oxaliplatin), 5-플루오로우라실(5-FU)/류코보린(LV) 병용요법을 받거나, 여기에 면역항암제인 아데벨리주맙(addebelizumab)을 추가로 병용하게 됩니다. 주요 평가 지표는 12개월 사건 무생존율(EFS)입니다. 이전에 항암 치료를 받은 적이 없는 환자 총 180명을 대상으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "resectable pancreatic cancer",
@@ -56,7 +55,7 @@
   "Adebellizumab"
  ],
  "title": "Irinotecan Liposome for Resectable Pancreatic Cancer With or Without Addebelizumab",
- "title_ko": "절제 가능한 췌장암 환자를 위한 irinotecan liposome과 oxaliplatin, 5-FU/LV 병용화학요법의 아데벨리주맙(adebelizumab) 병용 여부에 따른 2상 임상시험",
+ "title_ko": "수술 가능한 췌장암 환자를 대상으로 한 이리노테칸 리포솜 기반 치료에 아데벨리주맙(Addebelizumab) 추가 투여 평가 임상 2상 시험",
  "trial": {
   "conditions": [
    "Neoadjuvant Chemotherapy",
@@ -74,7 +73,7 @@
     "phone": "+86 15088682641"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 남녀, NCCN 가이드라인 2023년 V2 버전에 따른 절제 가능한 췌장암 환자\n- 방사선치료, 절제술, 항암화학요법, 표적치료, 면역치료 등 어떠한 항종양 치료나 연구용 약물 치료도 받지 않은 자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 자\n- ECOG 수행 능력 점수 0~1점, 예상 생존기간 3개월 이상\n- 주요 장기 기능이 기준을 만족하는 자 (호중구 1.5*10^9/L 이상, 혈소판 80*10^9/L 이상, 혈색소 9g/dl 이상, 혈청 알부민 3g/dl 이상 등)\n- 임신부 또는 수유부가 아니며 피임에 동의하고 자발적으로 동의서에 서명한 자\n\n제외 기준:\n- 췌장 도관 상피 외에서 발생한 췌장암(신내분비암, 선방세포암, 췌모세포종, 고형 가유두상 종양 등)\n- 중추신경계 전이가 알려진 환자\n- 심각한 위장관 기능 장애(출혈, 폐쇄, 2등급 초과 염증, 1등급 초과 설사)\n- 무작위 배정 전 2주 이내에 제3공간 삼출액(흉수 등)이 있는 환자\n- 천자나 배액이 필요한 복수의 임상 증상이 있는 환자\n- 간질성 폐렴, 간질성 폐질환, 폐섬유증 등이 있거나 관련 병력이 있는 자\n- 활동성 자가면역질환이 있거나 재발 이력이 있는 자\n- 말초신경병증(CTCAE 3등급)이 있는 자\n- 디히드로피리미딘 탈수소효소(DPD) 결핍 또는 활성이 낮은 환자\n- 무작위 배정 전 4주 이내에 입원이 필요한 심각한 감염(CTCAE > 2)이 있었던 자\n- CYP3A4, CYP2C8 강한 저해제/유도제 또는 UGT1A1 강한 저해제를 무작위 배정 2주 이내에 사용한 자\n- 췌장암 외에 5년 이내에 다른 악성 종양이 있었던 자 (치료된 상피내암, 기저세포암, 편평상피세포암 제외)",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 남성 또는 여성\n- NCCN 가이드라인 기준 수술 가능한 췌장암으로 진단된 환자\n- 이전에 항암 치료(방사선, 절제술, 화학요법, 표적치료, 면역치료 등)를 받지 않은 환자\n- RECIST v1.1 기준 최소 1개 이상의 측정 가능한 병변을 가진 환자\n- ECOG 수행능력 평가 점수가 0~1점인 환자\n- 주요 장기 기능 및 혈액학적 수치가 적절한 환자\n\n제외 기준:\n- 췌관선암이 아닌 췌장암(신경내분비암, 선포세포암, 췌모세포종, 유두상 위점액성 종양 등) 환자\n- 중추신경계 전이가 확인된 환자\n- 중증 위장관 기능 장애, 조절되지 않는 복수 또는 흉수가 있는 환자\n- 간질성 폐질환, 활동성 자가면역질환 병력이 있는 환자\n- 최근 5년 이내에 췌장암 외 다른 악성 종양 진단을 받은 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age: 18 years old, male or female;\n2. According to the NCCN clinical practice guidelines (2023.V2 version), multidisciplinary and imaging evaluation for patients with resectable pancreatic cancer, resectable defined as: by imaging examination, the criteria of radical resection of tumor is no distant metastasis, the artery (trunk celiac, superior mesenteric artery or common hepatic artery), and the tumor did not invade the superior mesenteric vein and portal vein, or invasion but not more than 180 and the venous contour is normal.\n3. Have not received any anti-tumor therapy (including radiotherapy, ablation, chemotherapy, targeted therapy, immunotherapy, etc.) or research drug therapy; 4. At least one measurable lesion must be used as the target lesion (according to the RECIST v1.1 criteria);\n\n5\\. ECOG：0～1； 6. Expected survival period of 3 months; 7. Main organ function, meeting the following criteria (without receiving any blood components, cell growth factors within the 14 days prior to randomization):\n\n1. Neutrophils 1.5 \\* 109 / L; platelets 80 \\* 109 / L; 9 g/dl hemoglobin and 3 g/dl serum albumin;\n2. The upper limit of total bilirubin is 1.5 times (biliary obstruction allows biliary drainage); the upper limit of ALT and AST is 3 times (for patients of liver metastasis, it can be relaxed to 5 times the upper limit of normal);\n3. The upper limit of normal serum creatinine is 1.5 times, and the creatinine clearance is 60ml / min;\n4. The upper limit of INR is 1.5 times and the upper limit of APTT is 1.5 times (for stable doses of anticoagulant therapy such as low molecular weight heparin or warfarin and INR can be screened within the expected treatment range of anticoagulant);\n5. ECG: QTcF 450ms (male), 470ms (female);\n6. Cardiac color ultrasound: LVEF (left ventricular ejection fraction) 50%; 8. Women of childbearing age must have a negative blood pregnancy test within 3 days before randomization and be willing to use appropriate contraception during the trial and within 6 months of treatment. For men, it should be surgical sterilization, or consent to use appropriate methods of contraception during the study period and within 3 months after the end of treatment; 9. Subjects volunteered to join the study and signed the informed consent form.\n\nExclusion Criteria:\n\n1. Patients with pancreatic cancer arising from non-pancreatic ductal epithelium, including pancreatic neuroendocrine carcinoma, pancreatic acinar cell carcinoma, pancreatic pancreoblastoma, and solid-pseudopapillary tumors;\n2. Patients with known central nervous system metastases;\n3. Severe gastrointestinal dysfunction (bleeding, obstruction; inflammation greater than grade 2; diarrhea greater than grade 1);\n4. Within 2 weeks before randomization, the third space effusion (such as a large amount of pleural fluid) (no intervention after removing the drainage tube);\n5. Patients with clinical symptoms of ascites, requiring puncture, drainage, who have received ascites drainage within the previous 3 months (only a small amount of ascites on imaging and controllable, except those without clinical symptoms);\n6. Current subjects with interstitial pneumonia or interstitial lung disease, or a history requiring hormonal therapy, or other pulmonary fibrosis, mechanical pneumonia (e. g., bronchiolitis obliterans), pneumoconiosis, drug-related pneumonia, idiopathic pneumonia, idiopathic pneumonia or active CT during screening that may interfere with the judgment and management of immune-related pulmonary toxicity; active tuberculosis;\n7. Patients with active autoimmune disease or a history of autoimmune disease that may relapse \\[including but not limited to autoimmune hepatitis, interstitial pneumonia, uveitis, optis, enteritis, vasculitis, nephritis, hyperthyroidism, reduced thyroid function (only controlled by hormone replacement therapy can be enrolled)\\]; skin diseases without systemic treatment, such as vitiligo, psoriasis, alopecia, controlled type I diabetes or asthma in childhood has been completely alleviated in adults without any intervention;\n8. Known peripheral neuropathy (CTCAE Grade 3);\n9. Known dihydropyrimidine dehydrogenase (low activity) or deficiency;\n10. Severe infection (CTCAE\\> 2), such as severe pneumonia, bacteremia, infectious complications, requiring hospitalization, occurred within 4 weeks of randomization; symptoms and signs of infection within 2 weeks of randomization (except in cases of prophylactic antibiotics);\n11. Received any of the following treatments:\n\n(1)Concomitant medication containing CYP3A4, CYP2C8 strong inhibitor / strong inducer or strong UGT1A1 inhibitor within 2 weeks before randomization; (2)Immunosuppressants or systemic hormone therapy within 2 weeks prior to randomization to achieve immunosuppressive purposes (dose\\> 10mg prednisone / day or other efficacy hormones); (3)Received radiation therapy within 2 weeks before randomization; (4)Receiving major surgery (such as thoracotomy, laparotomy, etc.) within 4 weeks before randomization; (5)Have received any other clinical study drug treatment within 4 weeks before randomization, except for an observational (non-interventional) clinical study or interventional clinical study follow-up.\n\n12\\. Abnormal coagulation, bleeding tendency or undergoing thrombolytic or anticoagulant therapy. Prophylactic use of low-dose aspirin (100mg / day), low molecular weight heparin (enoxaparin 40mg / day and other low molecular weight heparin at its equivalent doses) is allowed; 13. cardiac clinical symptoms or diseases that are not well controlled, such as: (1) heart failure; (2) unstable angina; (3) myocardial infarction within 6 months; (4) patients with clinically significant supraventricular or ventricular arrhythmias who need treatment or intervention; 14. Malignant tumors other than pancreatic cancer within 5 years before randomization, except for adequately treated cervical carcinoma in situ, skin basal cell, or squamous epithelial cell carcinoma; 15. Those known to be allergic to PD-L1, irinotecan liposomal, other liposomal products, oxaliplatin, 5-FU, leucovorin and any of the components of the above products; 16. Those known to have acquired immune deficiency syndrome (AIDS) or HIV test positive, active syphilis; 17. A clear past history of neurological or psychiatric disorders, including epilepsy or dementia; 18. By the judgment of the investigator, the subject has other factors that may be forced to terminate the study, such as non-compliance protocol, with other serious diseases (including mental illness) need to combine treatment, clinical significant laboratory value seriously abnormal, family or social factors, may affect the safety or trial data collection of subjects.",
   "enrollment": 180,
   "has_results": false,
@@ -88,20 +87,33 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": 0,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "췌관선암이 아닌 다른 유형의 췌장암",
+    "중추신경계(뇌) 전이",
+    "활동성 자가면역질환 또는 간질성 폐질환",
+    "최근 5년 이내 다른 암 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료 경험이 없는 수술 가능한 췌장암 환자를 위한 수술 전 선행보조항암요법 임상시험",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "metastatic",
     "resectable",
     "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

@@ -18,9 +18,9 @@
  "id": "nct:NCT06244771",
  "importance": 0.75,
  "key_points_ko": [
-  "KRAS G12C 변이를 가진 진행성 고형암 환자를 대상으로 합니다.",
-  "임상시험은 1상(용량 증량 및 확장)과 2상(코호트 확장)으로 진행됩니다.",
-  "목표 환자 수는 총 403명이며, 국내 기관 5곳에서 참여합니다."
+  "대상 질환은 KRAS G12C 변이가 확인된 진행성, 국소 진행성 절제 불능 또는 전이성 고형암입니다.",
+  "연구는 1A상, 1B상, 2상의 세 부분으로 나누어 진행됩니다.",
+  "목표 환자 수는 총 403명이며, 국내 5개 기관에서 환자를 모집하고 있습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06244771"
  },
- "summary_ko": "이 임상시험은 KRAS G12C 변이가 있는 진행성 고형암 환자를 대상으로 FMC-376의 안전성과 효과를 평가합니다. 연구는 1A상 용량 증량(Dose Escalation), 1B상 용량 확장(Dose Expansion), 2상 코호트 확장(Cohort Expansion)의 3가지 부분으로 나누어 진행됩니다. 진행성 고형암 환자에서 다양한 용량 수준을 평가할 예정이며, 총 목표 환자 수는 403명이고 국내 기관 5곳이 포함됩니다.",
+ "summary_ko": "이 임상시험은 KRAS G12C 변이가 있는 진행성 고형암 환자들을 대상으로 신약 FMC-376을 평가합니다. 연구는 용량 증량(Dose Escalation)을 진행하는 1A상, 용량 확장(Dose Expansion)의 1B상, 그리고 코호트 확장(Cohort Expansion)의 2상으로 구성됩니다. 목표 환자 수는 총 403명이며 국내 5개 기관이 참여합니다. 환자들에게 여러 용량 수준의 FMC-376을 투여하여 안전성과 효과를 확인합니다.",
  "summary_source": "llm",
  "tags": [
   "Lung Cancer",
@@ -72,7 +72,7 @@
     "phone": "+1 (650) 457-1005"
    }
   ],
-  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 국소 진행성 절제 불가능 또는 전이성 KRAS G12C 변이 고형암. - 이전 표준 치료에 실패했거나 불내성을 보였거나, 표준 치료가 부적절하다고 판단되는 경우. - ECOG 수행능력 상태 0 또는 1. - 적절한 혈액학적, 신장, 간 기능. - 연구 약물을 투여받는 동안 다른 중재적 연구에 참여하지 않음에 동의. 제외 기준: - 뇌막 질환(Leptomeningeal disease) 또는 암성 수막염(Carcinomatous meningitis). - 이전 암 치료로 인한 임상적으로 유의미한 독성. - FMC-376 또는 연구 약물의 성분에 대한 알려진 과민증. - 연구 약물 흡수를 방해할 수 있는 상태. - 안전성, 순응도 또는 데이터 해석에 영향을 미칠 수 있는 질병이나 병력.",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 KRAS G12C 변이를 가진 국소 진행성 절제 불능 또는 전이성 고형암\n- 기존 표준 치료 후 진행되었거나 불내성이 있는 경우, 또는 표준 치료가 부적절하다고 판단되는 경우\n- Eastern Cooperative Oncology Group(ECOG) 수행능력 상태 0 또는 1\n- 적절한 혈액, 신장, 간 기능\n- 연구 약물 투여 중 다른 중재적 임상시험에 참여하지 않을 것\n\n제외 기준:\n- 뇌수막 질환 또는 암성 수막염\n- 이전 암 치료로 인한 임상적으로 유의한 독성\n- FMC-376 또는 연구 약물의 성분에 대한 알려진 또는 의심되는 과민증\n- 연구 약물 흡수를 방해할 수 있는 상태\n- 안전성, 순응도 또는 데이터 해석에 영향을 미칠 수 있는 질병이나 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumors with KRAS G12C mutation\n* Received and progressed or been intolerant to prior standard therapy OR standard therapy is considered inappropriate OR an investigational agent is considered standard of care\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Adequate hematological, renal, and hepatic function\n* Agrees not to participate in another interventional study while receiving study drug\n\nExclusion Criteria:\n\n* Leptomeningeal disease or carcinomatous meningitis\n* Clinically significant toxicity resulting from prior cancer therapies\n* Known or suspected hypersensitivity to FMC-376 or any components of the study drug\n* Condition that would interfere with study drug absorption\n* Any illness or medical history that would impact safety or compliance with study requirements or impact ability to interpret study data",
   "enrollment": 403,
   "has_results": false,
@@ -123,18 +123,23 @@
     "KRAS_G12C"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "뇌수막 질환 또는 암성 수막염",
+    "이전 암 치료로 인한 임상적으로 유의한 독성",
+    "FMC-376 성분에 대한 과민증",
+    "약물 흡수를 방해하는 소화기 상태"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "이전 치료 후 진행된 KRAS G12C 변이 진행성 고형암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",
