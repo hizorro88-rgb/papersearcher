@@ -22,10 +22,9 @@
  "id": "nct:NCT06913218",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 인원은 60명이며, 연령은 18세부터 75세까지입니다.",
-  "중재 방법으로 mRNA 백신 AK154, Cadonilimab(AK104), Ivonescimab(AK112), 그리고 mFOLFIRINOX가 사용됩니다.",
-  "안전성, 내인성, 유효성, 면역원성, 약동학/약력학(PK/PD) 프로필을 탐색합니다.",
-  "수술 후 보조요법으로 진행되며 국내 기관 참여 정보는 초록에 명시되지 않았습니다."
+  "수술로 절제(R0 및 R1)를 받은 췌관선암 환자 60명을 대상으로 하는 1상 임상시험입니다.",
+  "신항원 맞춤형 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINOX 보조요법을 평가합니다.",
+  "주요 평가 항목은 안전성, 내약성, 유효성, 면역원성 및 약동학/약력학적 특성입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06913218"
  },
- "summary_ko": "이 임상시험은 수술로 절제된 췌장관암(PDAC) 환자를 대상으로 신항원 맞춤형 mRNA 백신 AK154 단독 투여, AK104 또는 AK112 병용 투여, 그리고 순차적인 mFOLFIRINOX 화학요법의 수술 후 보조요법으로서의 안전성과 유효성을 탐색합니다. 대상 질환은 췌장암(Pancreas Cancer) 및 췌장관암(Pancreatic Adenocarcinoma)이며, 목표 인원은 60명입니다. 단일 기관에서 전향적, 공개, 탐색적 임상시험으로 진행됩니다. 초록에 구체적인 생존기간이나 반응률 수치는 명시되지 않았습니다.",
+ "summary_ko": "수술로 절제된 췌관선암(PDAC) 환자를 대상으로 개인맞춤형 신항원 mRNA 백신인 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINOX 항암 치료의 안전성과 효과를 평가하는 1상 임상시험입니다. 수술 후 보조요법으로서 약물의 안전성, 내약성, 유효성 및 면역원성을 확인하는 것을 목적으로 합니다. 총 60명의 환자를 대상으로 진행될 예정입니다.",
  "summary_source": "llm",
  "tags": [
   "adjuvant",
@@ -58,7 +57,7 @@
   "mRNA"
  ],
  "title": "A Study of mRNA Vaccines AK154 Monotherapy or in Combination With AK104/AK112,and Sequential mFOLFIRINOX in Surgically Resected PDAC",
- "title_ko": "수술로 절제된 췌장관암(PDAC) 환자에서 신항원 맞춤형 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINOX 요법 연구",
+ "title_ko": "수술로 절제된 췌관선암 환자에서 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINOX 요법에 관한 연구",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -71,7 +70,7 @@
     "phone": "+86 (0760) 8987 3999"
    }
   ],
-  "eligibility_ko": "선정 기준: - 자발적으로 동의서를 서면으로 제출하고 프로토콜 요구사항을 준수하는 환자 - 영상학적으로 절제 가능한 원발성 췌장 종양이 있는 환자 - 육안으로 완전 절제(R0 및 R1)된 조직병리학적 또는 세포학적으로 확진된 PDAC 환자 - AJCC 제8판 기준 췌장암 수술 병기가 T1-3, N0-2, M0인 환자 - ECOG 수행능력 0 또는 1인 환자 - 기대 여명이 6개월 이상인 환자 - 수술 합병증에서 회복된 환자 - 적절한 장기 기능이 있는 환자 - 가임기 환자가 적절한 피임법을 사용하려는 경우. 제외 기준: - 다른 병리학적 유형의 존재 - 다른 임상 연구에 참여 중인 경우 - 화학요법, 방사선 치료, 표적 치료, 면역 치료 등 췌장암 치료를 받은 적이 있는 경우 - 연구 치료 시작 전 28일 이내, 연구 치료 중, 또는 연구 치료 종료 후 90일 이내에 약독화 생백신을 접종할 계획이 있는 경우 - 첫 투여 전 4주 이내에 발생한 심각한 감염 - 초기 투여 전 14일 이내에 글루코코르티코이드 또는 기타 면역억제제 투여가 필요한 경우 - 급성 췌장염 또는 아임상적 췌장염 - 활동성 자가면역 질환 - 면역 치료제 및 관련 약물에 알레르기가 있는 경우 - 동종 장기 이식 또는 동종 조혈모세포 이식 병력 - 비장절제술 병력 - 활동성 결핵 - 간질성 폐렴의 알려진 병력 또는 강력한 의심 - 임상적으로 유의한 간 질환 - 조절되지 않거나 심각한 심혈관 질환 - 심각한 출혈 경향 또는 응고 장애 병력 - 지난 3년 이내의 활동성 악성 종양 - 활동성 매독 감염 - 연구자가 판단하기에 본 연구 참여에 부적절한 기타 상황",
+  "eligibility_ko": "선정 기준: • 영상학적으로 수술 가능했던 일차성 췌장암 환자 • 조직학 또는 세포학적으로 확진된 췌관선암으로 육안상 완전 절제(R0 및 R1)를 받은 환자 • AJCC 8판 기준 T1-3, N0-2, M0 병기 환자 • ECOG 수행능력 평가 점수 0점 또는 1점 • 수술 합병증에서 회복되고 장기 기능이 적절한 환자 제외 기준: • 이전에 췌장암에 대한 치료(항암화학요법, 방사선치료, 표적치료, 면역치료 등)를 받은 환자 • 최근 4주 이내 중증 감염 또는 14일 이내 전신 스테로이드/면역억제제 치료를 받은 환자 • 활동성 자가면역 질환, 급성 췌장염, 결핵, 간질성 폐질환 이력이 있는 환자 • 조절되지 않는 중증 심혈관 질환이 있는 환자 • 최근 3년 이내 다른 활동성 악성 종양 이력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Voluntarily signed the informed consent form and complied with protocols requirements\n* Patients with radiographically resectable primary pancreatic tumors\n* Histopathology or cytology confirmed resected PDAC with macroscopic complete resection (R0 and R1)\n* Pancreatic cancer surgical staging per AJCC 8th edition staging: T 1-3, N0-2, M0\n* ECOG 0 or 1\n* Life expectancy ≥ 6 months\n* Surgical complications have recovered,\n* Adequate organ function\n* Patients with fertility are willing to use an adequate method of contraception.\n\nExclusion Criteria:\n\n* The presence of other pathologic types\n* Participating in another clinical study\n* Have received treatment for pancreatic cancer, including chemotherapy, radiation therapy, targeted therapy, immunotherapy,etc\n* Plan to receive a live-attenuated vaccine within 28 days prior to initiation of study treatment or during the study treatment or within 90 days after the end of study treatment\n* Severe infection occurs within 4 weeks prior to the first dose\n* Requiring systemic therapy with glucocorticoids or other immunosuppressive drugs within 14 days prior to initial administration.\n* Acute pancreatitis or subclinical pancreatitis\n* Active autoimmune disease\n* Allergic to immunotherapies and related drugs\n* History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.\n* Splenectomy history\n* Active tuberculosis\n* Known or highly suspected history of interstitial pneumonia.\n* Clinically significant liver disease\n* Uncontrolled or severe cardiovascular disease.\n* Severe bleeding tendency or history of coagulopathy\n* Active malignancy within the last 3 years\n* Active syphilis infection\n* Any other situations that are not suitable for inclusion in this study judged by investigator.",
   "enrollment": 60,
   "has_results": false,
@@ -90,18 +89,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": null,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "key_exclusions_ko": [
+    "이전 췌장암 치료(항암치료, 방사선치료, 면역치료 등) 경험이 있는 경우",
+    "활동성 자가면역 질환 또는 간질성 폐질환 이력이 있는 경우",
+    "조절되지 않는 중증 심혈관 질환이 있는 경우",
+    "최근 3년 이내 다른 암 병력이 있는 경우"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": false,
+   "min_prior_lines": 0,
+   "notes_ko": "수술로 절제술을 받은 후 이전에 항암치료를 받은 적이 없는 췌관선암 환자",
+   "prior_excluded": [
+    "FOLFIRINOX",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
-    "resectable",
     "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

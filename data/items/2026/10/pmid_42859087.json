@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVE: Several benign pancreatic diseases are associated with an increased risk of PDAC; however, early detection remains challenging in these patients. We evaluated whether longitudinal changes in carbohydrate antigen 19-9 (CA19-9) could improve early detection of PDAC in patients with benign pancreatic diseases.\nMETHODS: We retrospectively reviewed 656 patients with benign pancreatic diseases (pancreatic cysts, intraductal papillary mucinous neoplasms, chronic pancreatitis, and autoimmune pancreatitis) who were regularly followed at our institution. Patients were classified into PDAC (n = 34) and control (n = 622) groups. Longitudinal changes in CA19-9 absolute values and percent changes were assessed at predefined time points up to 36 months before diagnosis. A logistic regression model incorporating these parameters was developed, and its discriminative ability and diagnostic performance were evaluated.\nRESULTS: CA19-9 levels began to increase within the normal range as early as 12-18 months before PDAC diagnosis. From 12 to 18 months before diagnosis, the logistic regression model demonstrated higher AUC values than the conventional cutoff of 37 U/mL, with significant differences at 0-3 months (0.96 vs. 0.87, P = 0.003) and 12-18 months (0.69 vs. 0.56, P = 0.004). The model showed relatively high positive predictive values at 0-3 months (78.8%) and also at earlier time points, including 6-12 months (18.5%) and 12-18 months (12.0%). Similar trends were observed in patients with stage 0-II PDAC.\nCONCLUSIONS: Longitudinal assessment of CA19-9 may support earlier detection of PDAC in patients with benign pancreatic diseases.",
+ "authors": [
+  "Abe T",
+  "Takikawa T",
+  "Kikuta K",
+  "Matsumoto R",
+  "Tanaka Y",
+  "Sano T",
+  "Hayashi H",
+  "Sekino Y"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42859087",
+ "importance": 0.77,
+ "key_points_ko": [
+  "양성 췌장 질환 환자 656명 중 췌관선암으로 진단된 34명은 진단 12~18개월 전부터 CA19-9 수치가 정상 범위 내에서 상승하기 시작했습니다.",
+  "CA19-9 변화 기반 예측 모델의 곡선하 면적(AUC)은 기존 기준치(37 U/mL) 단독 사용 대비 12~18개월 전(0.69 대 0.56, P=0.004) 및 0~3개월 전(0.96 대 0.87, P=0.003) 모두에서 유의하게 높았습니다.",
+  "해당 모델은 0~3개월 전 78.8%, 6~12개월 전 18.5%, 12~18개월 전 12.0%의 양성 예측도를 보였으며 0~II기 병기 환자에서도 유사한 경향이 나타났습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.007",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42859087"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42859087/"
+ },
+ "summary_ko": "췌장 낭종, IPMN, 만성 췌장염 등 양성 췌장 질환 환자 656명을 대상으로 진단 전 CA19-9 수치의 종단적 변화를 후향적으로 분석한 연구입니다. 분석 결과, 췌관선암(PDAC)으로 진단된 환자군(34명)에서는 진단 12~18개월 전부터 정상 범위 내에서도 CA19-9 수치가 상승하기 시작했습니다. CA19-9의 절대 수치와 백분율 변화를 반영한 예측 모델은 기존 기준치(37 U/mL)보다 진단 12~18개월 전 및 0~3개월 전 시점에서 더 우수한 진단 성능을 보였습니다. 이는 양성 췌장 질환 환자를 추적 관찰할 때 CA19-9의 장기적인 변화를 모니터링하는 것이 췌장암 조기 발견에 유용할 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Utility of longitudinal changes in CA19-9 for detection of pancreatic ductal adenocarcinoma in patients with benign pancreatic diseases",
+ "title_ko": "양성 췌장 질환 환자에서 CA19-9의 종단적 변화를 활용한 췌관선암 조기 발견의 유용성",
+ "trial": null,
+ "type": "paper"
+}

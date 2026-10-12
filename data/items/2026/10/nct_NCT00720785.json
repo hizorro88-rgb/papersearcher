@@ -20,9 +20,10 @@
  "id": "nct:NCT00720785",
  "importance": 0.7,
  "key_points_ko": [
-  "표준 치료에 불응성인 전이성 고형암 및 혈액암 환자 35명을 대상으로 진행된 1상 연구입니다.",
-  "Bortezomib 투여를 통해 암세포를 NK 세포의 세포독성에 감수성화시킨 후 자가 NK 세포를 단계별로 증량 투여합니다.",
-  "치료 21일 시점에 안전성 및 최대 내약 용량(MTD), 체내 약동학적 특성을 주 평가변수로 확인합니다."
+  "전이성 고형암 또는 혈액암 환자를 대상으로 한 1상 용량증량(dose-escalating) 임상시험입니다.",
+  "Bortezomib 투여 24시간 후 자연살해세포(NK cells)를 주입하여 안전성과 부작용, 항종양 효과를 평가합니다.",
+  "목표 인원은 35명이며, 환자 연령은 18세 이상 70세 이하여야 합니다.",
+  "초록에 명시된 구체적인 생존기간이나 반응률 수치는 없습니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -47,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT00720785"
  },
- "summary_ko": "표준 치료에 반응하지 않는 전이성 고형암(췌장선암 포함) 및 혈액암 환자를 대상으로 자가 자연살해세포(NK 세포)와 bortezomib(보르테조밉) 병용 투여의 안전성을 평가하는 1상 임상시험입니다. 체외에서 분리 및 증식한 환자 본인의 NK 세포를 주입하기 전, 종양 세포의 사멸 감수성을 높이기 위해 bortezomib을 투여합니다. 세포 주입 후 면역 활성을 유지하기 위해 인터루킨-2를 병용하며, 주입 21일 차에 최대 내약 용량과 안전성을 평가합니다.",
+ "summary_ko": "이 임상시험은 전이성 고형암 또는 혈액암 환자를 대상으로 자가 자연살해세포(NK cells)와 bortezomib(보르테조밉) 병용 치료의 안전성과 최대耐용량(maximum tolerated dose)을 평가하기 위한 1상(Phase 1) 연구입니다. 환자로부터 NK 세포를 채취 및 증식한 뒤, 면역억제제 pentostatin과 bortezomib 투여 후 NK 세포를 주입하고 Interleukin-2(인터루킨-2)를 투여하는 방식으로 진행됩니다. 초록에 따르면 bortezomib 전처치가 NK 세포의 종양 세포 사멸 능력을 높여주는 것으로 나타났습니다. 목표 인원은 35명이며 연령은 18세에서 70세 사이입니다.",
  "summary_source": "llm",
  "tags": [
   "Metastatic Solid Tumor",
@@ -57,7 +58,7 @@
   "Multiple Myeloma"
  ],
  "title": "Natural Killer Cells and Bortezomib to Treat Cancer",
- "title_ko": "진행성 암 환자를 대상으로 한 자가 자연살해세포(NK 세포) 및 보르테조밉 병용 요법 1상 임상시험",
+ "title_ko": "자연살해세포(NK 세포)와 bortezomib을 이용한 암 치료 임상시험",
  "trial": {
   "conditions": [
    "Chronic Myeloid Leukemia (CML)",
@@ -67,7 +68,7 @@
    "Carcinoma, Non-Small -Cell Lung"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 전이성 및 절제 불가능한 고형암(췌장선암, 폐암, 대장암 등) 환자로 표준 치료에 더 이상 반응하지 않는 경우\n- 만 18세 이상 70세 이하\n- 최근 3개월 이내에 질병 진행이 확인된 경우\n- 이전 전신 항암 치료 종료 후 최소 4주 이상 경과 (고식적 방사선치료는 최소 2주 경과)\n- 적혈구 수혈에 의존하지 않는 상태 (고형암 환자 기준)\n\n제외 기준:\n- 영상학적으로 평가 가능한 병변이 없는 경우 (고형암 환자 기준)\n- CT 기준 간 전이 병변이 전체 간 부피의 25%를 초과하는 경우\n- 뇌전이 환자 (단, 방사선 치료를 받은 1cm 미만의 단일 병변은 예외)\n- 2등급(Grade 2) 이상의 말초신경병증이 있는 경우\n- ECOG 수행능력 평가 점수가 2점 이상(2, 3, 4점)인 경우\n- 동종 조혈모세포이식 병력, 활동성 감염, 중증 심부전 등 불안정한 동반 질환이 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 전이성 고형암(폐암, 전립선암, 대장암, 신장암, 췌장암, 악성흑색종 등) 또는 표준 치료에 불응성인 혈액암 환자\n- 연령 18세 이상 70세 이하\n- 이전 전신 항암 치료(단독 또는 임상) 후 최소 4주 경과\n- 최근 3개월 동안 질병 진행 소견이 있는 경우\n- 고형암 환자의 경우 적혈구 수혈 비의존적 상태\n\n제외 기준:\n- 영상학적으로 평가할 수 없는 병변\n- 간의 25% 이상을 침범한 질병\n- 동종 조혈모세포 이식 병력\n- 뇌전이 (1cm 미만의 단발성 전이 제외)\n- ECOG 수행능력 점수 2, 3, 4\n- 조절되지 않는 동반 질환, 활동성 감염, 임산부 또는 수유부",
   "eligibility_text": "* INCLUSION CRITERIA:\n\n  1. Diagnosed with histologically confirmed metastatic solid tumor - cancer of the lung (small cell or non small cell), prostate (adenocarcinoma), colorectum, kidney (renal cell carcinoma), pancreas (adenocarcinoma),or malignant melanoma, metastatic Ewing's sarcoma, or metastatic epithelial neoplasms and adenocarcinoma of unknown primary, and disease confirmed to be metastatic and unresectable for which standard curative or beneficial treatments are no longer effective\n\n     OR\n\n     Diagnosed with a hematological malignancy (multiple myeloma, \\[MM\\] chronic myelogenous leukemia \\[CML\\] or chronic lymphocytic leukemia \\[CLL\\] or small lymphocytic lymphoma \\[SLL\\]) and disease resistant or refractory to standard therapy and CLL/SLL patients are required to have failed prior treatment with at least one nucleoside analogue. Myeloma patients are required to have disease which has progressed following treatment with bortezomib.\n  2. At least 4 weeks since any prior systemic therapy (excluding corticosteroid therapy) to treat the underlying malignancy (standard or investigational). NOTE: subjects on FDA-approved tyrosine kinase inhibitors or other targeted therapies for RCC such as mTOR inhibitors that have evidence of disease progression on therapy may continue these medicines until the time of study enrollment (as accelerated disease progression following discontinuation of these drugs has been described).\n  3. At least 2 weeks since prior palliative radiotherapy.\n  4. Ages greater than or equal to 18 years and less than or equal to 70 years.\n  5. Evidence of progressive disease over a 3-month interval.\n  6. RBC transfusion independent (solid tumor patients only).\n\nEXCLUSION CRITERIA:\n\n1. Disease not evaluable radiographically (applies to solid tumor patients only).\n2. Disease involving greater than 25% of the liver radiographically (estimated based on review of liver lesions seen on CT scan).\n3. History of an allogeneic hematopoietic stem cell transplant.\n4. Brain metastases (with the exception of patients with a single brain metastasis less than 1cm treated with either sterotactic or gamma knife radiotherapy) due to poor prognosis and potential for neurological dysfunction that would confound evaluation of neurological and other adverse events).\n5. Peripheral neuropathy of grade greater than 1, which would require reduction of bortezomib dose.\n6. Acute diffuse infiltrative pulmonary disease.\n7. Acute pericardial disease.\n8. Life expectancy less than 3 months.\n9. ECOG performance status 2, 3 or 4.\n10. Uncontrolled concurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, life threatening cardiac arrhythmia. Patients with symptoms of coronary artery disease, cardiac arrhythmias or an abnormal thallium stress test must be evaluated and cleared by cardiology prior to enrollment.\n11. Ongoing or active infection\n12. Contraindication for administration of pentostatin, bortezomib, and/or interleukin-2.\n13. Allergy or hypersensitivity to bortezomib, boron or mannitol by history.\n14. Concurrent use of corticosteroids.\n15. For all tumor types:\n\n    Marrow function characterized by\n\n    -Absolute neutrophil count less than 500/mcL (must be present off growth factors)\n\n    Organ function characterized by\n    * Total bilirubin greater than 3 times upper limit of normal\n    * AST (SGOT)/ALT (SGPT) greater than 4 times upper limit of normal\n    * Creatinine clearance less than 50 cc/min based on a 24 hour urine collection\n    * Left ventricular ejection fraction less than 40% by echocardiogram (ECHO)\n    * Hypercalcemia greater than 2.5 mmol/L\n\n    For all Hematologic malignancies:\n\n    Marrow function characterized by\n    * Neutrophil count less than or equal to 500/mcl\n    * Platelets less than or equal to 20,000/mcl\n16. HIV-positive patients\n17. Hepatitis C positive patients (Hep C PCR positive)\n18. Active Hepatitis B infection (Hep B surface antigen positive)\n19. Pregnant or nursing\n20. Psychiatric illness/social situations that would limit compliance with study requirements and ability to comprehend the investigational nature of the study and provide informed consent.",
   "enrollment": 35,
   "has_results": false,
@@ -83,18 +84,23 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [],
-   "ecog_max": null,
-   "key_exclusions_ko": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "뇌전이 (치료되지 않은 경우)",
+    "활동성 감염",
+    "임신 또는 수유 중",
+    "조절되지 않는 심장 질환"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "표준 치료가 효과가 없는 전이성 고형암 또는 혈액암 환자를 위한 1상 NK 세포 치료 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "70 Years",
   "min_age": "18 Years",

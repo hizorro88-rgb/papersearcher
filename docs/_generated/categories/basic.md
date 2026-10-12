@@ -16,12 +16,146 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 49건 · 최근 30일 49건
+전체 59건 · 최근 30일 59건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42857319"></a>
+#### [페롭토시스와 쿠프로프토시스 상호작용 기반 췌장암 연구 동향 (종설)](https://pubmed.ncbi.nlm.nih.gov/42857319/)
+<small>Research progress of pancreatic cancer based on ferroptosis-cuproptosis interaction (Review)</small>
+
+`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-09-24 · PubMed · Oncol Lett · 중요도 0.68
+
+이 종설 논문은 췌관선암종(PDAC)에서 철 의존성 세포사멸인 페롭토시스(ferroptosis)와 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 상호작용 기전을 정리했습니다. KRAS 변이로 인한 대사 재프로그래밍으로 인해 췌장암은 금속 이온 항상성과 항산화 시스템에 크게 의존합니다. 두 세포사멸 경로는 글루타티온, 미토콘드리아, 삼카르복실산(TCA) 회로 등을 매개로 상호작용하며 종양미세환경과 약물 내성에 영향을 미칩니다. 저자들은 이 두 금속 의존성 세포사멸을 복합적으로 조절하는 치료 전략이 췌장암의 새로운 치료법 개발을 위한 이론적 근거를 제공한다고 설명했습니다.
+
+- KRAS 변이를 지닌 췌관선암종은 금속 이온 항상성 및 항산화 시스템에 대한 의존성이 높아 페롭토시스와 쿠프로프토시스의 표적이 될 수 있습니다.
+- 페롭토시스와 쿠프로프토시스는 글루타티온, 미토콘드리아, 철-황 클러스터, GPX4 등의 핵심 인자를 통해 서로 상호작용합니다.
+- 종양미세환경 요인 및 약물 내성 극복을 위해 두 금속 의존성 세포사멸 경로를 함께 조절하는 시너지 치료 전략의 가능성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857319/) · [DOI](https://doi.org/10.3892/ol.2026.15883) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650453/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857319)</small>
+
+---
+<a id="pmid-42859340"></a>
+#### [공간 다중오믹스를 통해 밝혀낸 췌관선암의 예후 및 치료적 의의를 지닌 침습-결합조직형성 세포 군집](https://pubmed.ncbi.nlm.nih.gov/42859340/)
+<small>Spatial multi-omics uncovers an invasive-desmoplastic cellular community with prognostic and therapeutic implications in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-10 · PubMed · Adv Biotechnol (Singap) · 중요도 0.64
+
+단일세포 RNA 시퀀싱(scRNA-seq)과 공간 전사체학을 통합 분석하여 췌관선암의 침습 경계면에 위치하는 새로운 암 관련 섬유아세포인 IF-myCAF를 규명했습니다. 이 세포가 5.8배 풍부하게 존재하는 '침습-결합조직형성 세포 군집(ID-CC)'은 종양과 기질의 경계면에 위치하며 예후 불량과 독립적으로 연관되어 있었습니다. 연구진은 세포 간 신호 전달 축을 표적하기 위해 구조 기반 가상 스크리닝을 진행했습니다. 그 결과 conivaptan(코니밥탄), lonafarnib(로나파닙), rucaparib(루카파립) 등 5종의 다중 표적 약물 재창출 후보 물질을 발굴했습니다.
+
+- 단일세포 61,234개와 공간 전사체 30,430개 스팟을 분석하여 ACTA2, COL11A1 등을 발현하는 IF-myCAF 아형을 발견했습니다.
+- IF-myCAF가 5.8배 농축된 침습-결합조직형성 군집(ID-CC)의 유전자 특징은 TCGA 데이터에서 불량한 예후와 독립적으로 관련되었습니다.
+- 세포 간 신호 전달 축을 억제하기 위한 가상 스크리닝에서 conivaptan, lonafarnib, rucaparib 등 5개의 후보 약물이 도출되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859340/) · [DOI](https://doi.org/10.1007/s44307-026-00141-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859340)</small>
+
+---
+<a id="pmid-42857277"></a>
+#### [인삼 유래 진세노사이드 Rb1의 PI3K-AKT 경로 조절을 통한 대식세포 재프로그래밍 및 췌장암 진행 억제](https://pubmed.ncbi.nlm.nih.gov/42857277/)
+<small>Ginsenoside Rb1 From the Functional Food Panax ginseng Suppresses Pancreatic Cancer Progression via Macrophage Reprogramming Through the PI3K-AKT Pathway</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-10-08 · PubMed · Food Sci Nutr · 중요도 0.64
+
+본 연구는 인삼(Panax ginseng)의 주요 활성 성분인 진세노사이드 Rb1(GRB1)이 췌관선암(PDAC)의 진행에 미치는 항종양 효과와 기전을 전임상 모델을 통해 분석했습니다. 네트워크 약리학 및 분자 도킹 분석을 통해 GRB1의 주요 표적으로 PI3K-AKT 신호 전달 경로를 규명했습니다. 마우스 동소이식 및 간 전이 모델에서 GRB1 투여는 뚜렷한 독성 없이 종양 성장과 간 전이를 억제하고 생존 기간을 연장했습니다. 또한 대식세포 및 환자 유래 오가노이드(organoid) 모델에서 GRB1이 면역 억제성 M2형 대식세포 분극화를 억제하여 항종양 효과를 나타냄을 확인했습니다.
+
+- 네트워크 약리학 분석에서 진세노사이드 Rb1과 췌장암 간의 110개 공유 표적이 도출되었으며, 핵심 경로로 PI3K-AKT 신호 전달계가 확인되었습니다.
+- 췌장암 마우스 동소이식 및 간 전이 모델에서 GRB1은 명백한 독성 없이 종양 성장, 증식 표지자(Ki67) 및 간 전이 부담을 감소시키고 생존 기간을 연장했습니다.
+- GRB1은 PI3K 및 AKT 인산화를 억제하고 M2형 대식세포 표지자(CD206, CD163 등)를 감소시켜 환자 유래 오가노이드의 성장을 저해했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857277/) · [DOI](https://doi.org/10.1002/fsn3.72468) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650271/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857277)</small>
+
+---
+<a id="pmid-42856819"></a>
+#### [혈청 대사체학과 다유전자 위험 점수를 통합한 췌장암 발병 예측 모델 개발](https://pubmed.ncbi.nlm.nih.gov/42856819/)
+<small>Development of a predictive model for pancreatic cancer integrating serum metabolomics and polygenic risk score</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` · 2026-09-25 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.64
+
+영국 바이오뱅크(UK Biobank)의 등록자 157,235명을 대상으로 췌장암 고위험군을 조기에 선별하기 위한 다변량 예측 모델을 구축했습니다. 연구진은 임상 생체표지자, 다유전자 위험 점수(PRS), 143개 대사체를 분석하여 총 878건의 췌장암 발생 사례와의 연관성을 평가했습니다. 나이와 성별을 기반으로 한 기본 모델에 임상 표지자, 유전자 점수, 대사체 위험 점수(MRS)를 순차적으로 통합했을 때 예측 정확도(C-index)가 0.722에서 0.769로 향상되었습니다. 통합 모델은 1년 시점의 시간 의존 곡선하 면적(AUC) 0.812를 기록하는 등 우수한 판별 능력을 보였습니다.
+
+- UK Biobank 참가자 157,235명 중 추적 관찰 기간 동안 878건의 췌장암이 발생했습니다.
+- 기본 모델(C-index 0.722)에 임상 표지자(0.755), PRS(0.768), MRS(0.769)를 추가하면서 예측 성능이 점진적으로 향상되었습니다.
+- 통합 예측 모델의 시간 의존 AUC는 1년 0.812, 3년 0.808, 5년 0.768, 10년 0.783을 기록했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856819/) · [DOI](https://doi.org/10.3389/fendo.2026.1903036) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13649413/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856819)</small>
+
+---
+<a id="pmid-42859333"></a>
+#### [ASO 시각적 초록: 췌관선암종에서 CHMP3의 임상적 및 기능적 영향](https://pubmed.ncbi.nlm.nih.gov/42859333/)
+<small>ASO Visual Abstract: Clinical and Functional Impact of CHMP3 in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `기타` `기초연구` `치료 전반` · 2026-10-10 · PubMed · Ann Surg Oncol · 중요도 0.60
+
+본 문헌은 췌관선암종(pancreatic ductal adenocarcinoma)에서 CHMP3의 임상적 및 기능적 영향을 정리한 시각적 초록(Visual Abstract)입니다. 제공된 정보에 연구 대상, 분석 방법 및 구체적인 연구 결과는 명시되지 않았습니다. 세부적인 임상 및 기초 연구 수치는 초록에 명시되지 않았습니다.
+
+- 췌관선암종에서 CHMP3의 역할 및 영향을 다룬 시각적 초록입니다.
+- 구체적인 연구 결과, 환자 수 및 통계적 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859333/) · [DOI](https://doi.org/10.1245/s10434-026-20399-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859333)</small>
+
+---
+<a id="pmid-42858257"></a>
+#### [수술 전후 치료 연구를 위한 정상 면역 KPC 췌장암 마우스 모델의 절제 및 재발 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42858257/)
+<small>Protocol for an immunocompetent KPC mouse model of pancreatic cancer resection and recurrence for perioperative treatment studies</small>
+
+`논문` `전임상` `기초연구` `수술` `진단·조기발견` · 2026-10-10 · PubMed · STAR Protoc · 중요도 0.60
+
+췌관선암종(pancreatic ductal adenocarcinoma) 마우스 모델에서 동소 이식 종양을 절제할 때 일반적으로 비장을 함께 절제합니다. 이 연구는 비장을 보존하면서 췌장 꼬리(미부) 부위 종양을 외과적으로 절제하는 새로운 수술 프로토콜을 제시했습니다. 마우스 췌장암 세포를 이식한 뒤 종양을 확인하고 절제하는 전 과정과 종양 재발을 관찰하는 단계가 기술되어 있습니다. 또한 수술 전후(perioperative) 치료 전략을 연구하기 위한 방법론을 확립했습니다.
+
+- 비장을 절제하지 않고 보존하면서 췌장 미부 종양만을 제거하는 마우스 수술 프로토콜을 제시했습니다.
+- 정상 면역 기능을 가진 마우스 모델을 활용하여 종양 절제 및 재발 과정을 구현했습니다.
+- 췌장암의 수술 전후 치료 효과를 평가할 수 있는 전임상 연구 모델을 구축했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42858257/) · [DOI](https://doi.org/10.1016/j.xpro.2026.104897) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42858257)</small>
+
+---
+<a id="pmid-42856316"></a>
+#### [췌장암의 공격적 아형으로의 후성유전학적 진행에서 아형 중간 전구세포의 계통 재프로그래밍 경로 규명](https://pubmed.ncbi.nlm.nih.gov/42856316/)
+<small>Epigenetic progression of pancreatic cancer to aggressive subtypes involves alternate routes of lineage reprogramming in subtype-intermediate progenitor cells</small>
+
+`논문` `전임상` `기초연구` `치료 전반` · 2026-09-29 · PubMed · bioRxiv · 중요도 0.59
+
+연구진은 췌관선암 환자 39명의 원발암 33개와 전이암 7개 검체를 대상으로 단일세포 후성유전체 및 전사체 분석을 진행했습니다. 분석 결과 GATA6과 KRT17 유전자에 동시 접근성을 보이는 '아형 중간 전구세포(SIP)' 상태가 더 나은 임상 예후와 연관되어 있음을 확인했습니다. 반면 이 상태를 벗어나 신경 유사 전구세포(NRP) 특성을 획득한 고전형 암이나 기저형으로 분화된 암은 SIP에 비해 예후가 더 나빴습니다. 이 연구는 췌관선암의 후성유전학적 변화와 암세포의 분화 가소성이 질병 악화로 이어지는 구체적인 경로를 밝혔습니다.
+
+- 39명의 췌장암 환자 검체(원발암 33개, 전이암 7개)를 단일세포 ATAC-seq 및 RNA-seq으로 분석했습니다.
+- GATA6+/KRT17+ 동시 접근성을 지닌 아형 중간 전구세포(SIP) 상태는 상대적으로 양호한 임상 예후와 관련이 있었습니다.
+- SIP 세포 상태를 벗어나 신경 유사 전구세포(NRP) 특성을 보이는 고전형 암과 기저형 암은 SIP에 비해 예후가 더 불량했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856316/) · [DOI](https://doi.org/10.64898/2026.09.28.754674) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13648630/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856316)</small>
+
+---
+<a id="pmid-42856511"></a>
+#### [헤파란 황산 프로테오글리칸의 정밀 표적화를 통한 췌장암의 생존 신호전달 및 대사 적응 교란](https://pubmed.ncbi.nlm.nih.gov/42856511/)
+<small>Precision Targeting of Heparan Sulfate Proteoglycans Broadly Dysregulates Survival Signaling and Metabolic Adaptation in Pancreatic Cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-04 · PubMed · bioRxiv · 중요도 0.57
+
+췌관선암(PDAC)의 치료 저항성을 유발하는 대사 및 생존 신호는 헤파란 황산 프로테오글리칸(HSPG)에 의해 조절됩니다. 연구진은 약독화된 종양 표적 살모넬라균(Salmonella typhimurium YS1646)을 이용해 박테리아 헤파리나제 III(HepIII)를 종양 조직에만 전달하도록 설계했습니다. 종양 세포의 헤파란 황산이 분해되면서 암세포의 영양소 흡수(거대음세포작용) 감소, 생존 신호 차단, 지질 저장 고갈 등의 변화가 나타났습니다. 연구진은 이러한 치료 접근법이 기존 췌장암 치료제의 효과를 높이는 데 기여할 수 있을 것으로 제시했습니다.
+
+- 약독화 살모넬라균을 전달체로 활용하여 종양 부위에 특이적으로 헤파리나제 III(HepIII) 발현을 유도했습니다.
+- HepIII에 의한 헤파란 황산 분해는 췌장암 세포의 거대음세포작용, 생존 신호전달, 지질 저장 및 단백질 번역 기전을 억제했습니다.
+- 이러한 종양 표적 기전은 기존 승인된 췌장암 치료제의 효능을 높일 수 있는 전임상 후보 전략으로 평가되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856511/) · [DOI](https://doi.org/10.64898/2026.10.01.756059) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13648696/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856511)</small>
+
+---
+<a id="pmid-42858565"></a>
+#### [광역학 치료를 위한 저분자 FAP 표적 광과민제의 설계, 합성 및 전임상 평가](https://pubmed.ncbi.nlm.nih.gov/42858565/)
+<small>Design, synthesis and preclinical evaluation of small-molecule FAP-targeted photosensitizers for photodynamic therapy</small>
+
+`논문` `전임상` `신약·치료제` `치료 전반` `기초연구` · 2026-10-08 · PubMed · Eur J Med Chem · 중요도 0.49
+
+췌관선암(PDAC)의 암 관련 섬유아세포에 발현되는 섬유아세포 활성화 단백질(FAP)을 표적하는 광역학 치료(PDT)용 저분자 화합물 PhoFAP-01과 PhoFAP-02를 개발하고 전임상 평가를 수행했습니다. 두 물질 모두 690nm 파장의 빛 조사 시 FAP 발현 세포에 대한 세포 독성을 유도했습니다. 특히 PhoFAP-02는 더 높은 FAP 결합 친화도와 선택적 광독성을 보였으며, 빛이 없는 암실 상태나 FAP 음성 세포에서는 독성을 나타내지 않았습니다. 췌장암 마우스 모델 시험에서도 PhoFAP-02가 FAP가 풍부한 종양 기질 부위에 효과적으로 축적됨을 확인했습니다.
+
+- PhoFAP-02는 PhoFAP-01 대비 FAP에 대해 더 높은 친화도(IC50 28nM 대 76nM)와 개선된 선택적 광독성을 보였습니다.
+- 암실 조건 또는 FAP 음성 세포에서는 독성이 관찰되지 않아 표적 선택적 안전성을 나타냈습니다.
+- 동종 췌장암(PDAC299) 마우스 모델에서 PhoFAP-02는 주사 1시간 후 6.6 ± 1.1%ID/g의 종양 섭취율을 기록했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42858565/) · [DOI](https://doi.org/10.1016/j.ejmech.2026.119411) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42858565)</small>
+
+---
 <a id="pmid-42844287"></a>
 #### [췌장관선암종에서 조기 간 전이를 예측하기 위한 딥러닝 CT 서명](https://pubmed.ncbi.nlm.nih.gov/42844287/)
 <small>Deep learning CT signature for predicting early liver metastases in pancreatic ductal adenocarcinoma</small>
@@ -36,6 +170,21 @@ search:
 - 고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13646268/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
+
+---
+<a id="pmid-42854278"></a>
+#### [췌관선암의 순환 바이오마커로서 인트론 잔류에서 유래된 분비형 엔도글린 이소형 연구](https://pubmed.ncbi.nlm.nih.gov/42854278/)
+<small>An intron retention-derived secreted Endoglin Isoform as a circulating biomarker in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-09 · PubMed · Neoplasia · 중요도 0.64
+
+본 연구는 췌관선암(PDAC) 환자에서 조기 발견 및 예후 평가를 돕기 위한 새로운 혈액 바이오마커를 규명했습니다. 연구진은 인트론 잔류(intron retention) 기전을 통해 생성되어 체액으로 분비되는 절단형 엔도글린(Endoglin) 이소형을 새롭게 확인했습니다. 이 이소형은 기존 엔도글린과 구별되는 고유한 C-말단 구조를 가지며, 췌장암 세포주와 마우스 모델뿐만 아니라 환자의 종양 조직 및 혈청에서도 검출되었습니다. 연구진은 이를 선택적으로 감지할 수 있는 특이적 항체와 샌드위치 효소면역측정법(sandwich ELISA)을 개발하여 혈액 기반 바이오마커로서의 잠재력을 입증했습니다.
+
+- 기존 엔도글린과 분자적으로 구별되는 C-말단 펩타이드를 가진 새로운 분비형 엔도글린 이소형을 규명했습니다.
+- 해당 이소형은 환자의 원발성 종양 조직, 혈청, 이종이식 모델 및 KPC 마우스 모델 전반에서 일관되게 검출되었습니다.
+- 새롭게 개발된 샌드위치 효소면역측정법(sandwich ELISA)을 통해 환자 혈액 순환 내 검출 가능성을 확인하여 진단용 바이오마커로서의 가치를 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854278/) · [DOI](https://doi.org/10.1016/j.neo.2026.101379) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854278)</small>
 
 ---
 <a id="pmid-42853717"></a>

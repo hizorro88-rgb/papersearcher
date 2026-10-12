@@ -22,10 +22,9 @@
  "id": "nct:NCT07562152",
  "importance": 0.99,
  "key_points_ko": [
-  "대상 질환: 전이성 췌관선암(PDAC)",
-  "중재 방법: Atebimetinib + GnP (또는 mGnP) 대 표준 GnP 단독 치료",
-  "연구 단계: 3상 임상시험, 목표 인원 510명",
-  "이전 치료: 전신 항암 치료를 받은 적이 없는 1차 치료 환자 대상"
+  "전이성 췌관선암 1차 치료 환경에서 atebimetinib과 GnP 병용요법을 표준 GnP와 비교하는 무작위 배정 3상 임상시험입니다.",
+  "이전에 전신 항암 치료를 받지 않은 환자 총 510명을 대상으로 진행됩니다.",
+  "표준 치료군 대비 전체 생존기간 개선 및 안전성 평가를 주요 목표로 합니다."
  ],
  "last_updated": "2026-10-10",
  "links": {
@@ -50,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07562152"
  },
- "summary_ko": "The purpose of this study is to evaluate the safety and efficacy of atebimetinib in combination with modified GnP compared with SOC GnP alone. This is a global, randomized, open-label, Phase 3 study designed to evaluate whether treatment with atebimetinib plus a modified schedule of gemcitabine and nab-paclitaxel will improve overall survival compared with standard gemcitabine and nab-paclitaxel when given as first-line treatment in patients with metastatic pancreatic adenocarcinoma.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 이전에 전신 항암 치료를 받은 적이 없는 전이성 췌관선암 환자를 대상으로 하는 글로벌 3상 연구입니다. 표준 치료인 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel, GnP) 단독군과, 신약 atebimetinib(아테비메티닙)을 변형된 용량의 GnP와 병용 투여하는 군을 비교합니다. 연구의 주요 목적은 atebimetinib 병용요법이 기존 표준 치료에 비해 전체 생존기간(OS)을 향상시키는지와 안전성을 평가하는 것입니다.",
+ "summary_source": "llm",
  "tags": [
   "mitogen-activated protein kinase (MAPK)",
   "MAPK",
@@ -65,7 +64,7 @@
   "pan-RAS"
  ],
  "title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
- "title_ko": "전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용요법",
+ "title_ko": "전이성 췌관선암 환자의 1차 치료로서 아테비메티닙과 젬시타빈+냅-파클리탁셀 병용요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -84,7 +83,7 @@
     "phone": "860-321-1302"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 스크리닝 전 12주 이내에 확진된 전이성 췌관선암\n* Eastern Cooperative Oncology Group(ECOG) 수행능력 0 또는 1\n* 이전 전신 항암 치료를 받은 적이 없는 1차 치료 환자\n* RECIST v1.1 기준에 따른 측정 가능한 병변(최소 1개의 표적 병변) 존재\n* 적절한 장기 및 간 기능, 응고 검사 수치\n\n제외 기준:\n* 경구 약물 삼키기 불가능\n* 편평세포암, 선편평세포암, 신경내분비암 또는 선방세포 췌장암\n* 국소 진행성 질환만 있는 환자\n* 증상이 있거나, 치료받지 않았거나, 활성 진행 중인 중추신경계(CNS) 전이",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 성인\n• 스크리닝 전 12주 이내에 확인된 전이성 췌관선암(PDAC) 환자\n• 이전에 전신 항암 치료를 받은 적이 없는 환자(1차 치료 대상)\n• ECOG 수행능력 점수 0 또는 1점\n• RECIST v1.1 기준 최소 1개 이상의 측정 가능한 병변이 있는 환자\n• 적절한 장기 기능, 간 기능 및 혈액학적 수치를 만족하는 환자\n\n제외 기준:\n• 경구 약물을 삼킬 수 없는 환자\n• 편평세포암, 선편평세포암, 신경내분비종양, 세엽세포암 등 비선암 유형\n• 국소 진행성 병변만 있는 환자(전이가 없는 경우)\n• 증상이 있거나, 치료받지 않았거나, 활발히 진행 중인 중추신경계(CNS) 전이 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Must be ≥18 years of age\n* Must have confirmed diagnosis according to AJCC staging as follows:\n\n  * Metastatic pancreatic adenocarcinoma within 12 weeks prior to screening\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Participants must be treatment naive as follows:\n\n  * First-line PDAC participants will have received no previous systemic anti-cancer therapy\n* Must have evidence of measurable disease (at least one target lesion) per RECIST v1.1 criteria\n* Adequate organ function, hepatic function, coagulation studies and protocol determined clinical laboratory values\n\nExclusion Criteria:\n\n* Inability to swallow oral medications\n* Participant has squamous, adenosquamous, neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma\n* Participants with only locally advanced disease\n* Symptomatic, untreated, or actively progressing known central nervous system (CNS) metastases",
   "enrollment": 510,
   "has_results": false,
@@ -106,17 +105,31 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "증상이 있거나 치료받지 않은 중추신경계(뇌) 전이",
+    "경구 약물 복용 불가",
+    "신경내분비종양 등 췌관선암이 아닌 다른 조직형",
+    "전이 없는 국소 진행성 병변만 있는 경우"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료 경험이 없는 전이성 췌관선암 환자를 위한 1차 치료 3상 임상시험",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

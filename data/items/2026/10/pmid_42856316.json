@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) progression involves malignant cell state plasticity. Epigenetic changes underlie this plasticity, yet the PDAC cis -regulatory landscape remains understudied. To address this, we profiled 33 primary tumors and 7 metastases from 39 patients with single-cell ATAC-seq, paired with 10 single-cell RNA-seq profiles. We found that epigenetic GATA6 + / KRT17 + co-accessibility identifies a classical-basal subtype-intermediate progenitor state (SIP) associated with better clinical outcomes. SIP cells display limited epigenetic reprogramming from premalignant epithelium and retain gastric-intestinal differentiation reminiscent of neoplastic precursors. Lineages without GATA6 + / KRT17 + co-accessibility exhibit greater lineage and epithelial-mesenchymal plasticity. Classical PDACs that repress basal gene accessibility activate neural-like progenitor (NRP) and tuft lineage enhancers, whereas basal committed tumors display esophageal transdifferentiation. Compared to SIP, classical-NRP and basal committed tumors have poorer outcomes, and show distinct PD-1/PD-L1 immune proteomic phenotypes and prognostic myofibroblast epigenetic states, respectively. Our work reveals links between lineage reprogramming, EMT, and epigenetic progression in human PDAC.",
+ "authors": [
+  "Hawthorne KA",
+  "Eng JR",
+  "Tsuda M",
+  "Worth PJ",
+  "Fields AJ",
+  "Daniel CJ",
+  "Nishida A",
+  "Pelz C"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42856316",
+ "importance": 0.59,
+ "key_points_ko": [
+  "39명의 췌장암 환자 검체(원발암 33개, 전이암 7개)를 단일세포 ATAC-seq 및 RNA-seq으로 분석했습니다.",
+  "GATA6+/KRT17+ 동시 접근성을 지닌 아형 중간 전구세포(SIP) 상태는 상대적으로 양호한 임상 예후와 관련이 있었습니다.",
+  "SIP 세포 상태를 벗어나 신경 유사 전구세포(NRP) 특성을 보이는 고전형 암과 기저형 암은 SIP에 비해 예후가 더 불량했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.64898/2026.09.28.754674",
+  "nct": [],
+  "pmcid": "PMC13648630",
+  "pmid": "42856316"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856316/"
+ },
+ "summary_ko": "연구진은 췌관선암 환자 39명의 원발암 33개와 전이암 7개 검체를 대상으로 단일세포 후성유전체 및 전사체 분석을 진행했습니다. 분석 결과 GATA6과 KRT17 유전자에 동시 접근성을 보이는 '아형 중간 전구세포(SIP)' 상태가 더 나은 임상 예후와 연관되어 있음을 확인했습니다. 반면 이 상태를 벗어나 신경 유사 전구세포(NRP) 특성을 획득한 고전형 암이나 기저형으로 분화된 암은 SIP에 비해 예후가 더 나빴습니다. 이 연구는 췌관선암의 후성유전학적 변화와 암세포의 분화 가소성이 질병 악화로 이어지는 구체적인 경로를 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Epigenetic progression of pancreatic cancer to aggressive subtypes involves alternate routes of lineage reprogramming in subtype-intermediate progenitor cells",
+ "title_ko": "췌장암의 공격적 아형으로의 후성유전학적 진행에서 아형 중간 전구세포의 계통 재프로그래밍 경로 규명",
+ "trial": null,
+ "type": "paper"
+}

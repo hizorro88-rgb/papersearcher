@@ -1,0 +1,63 @@
+{
+ "abstract": "In mouse models of pancreatic ductal adenocarcinoma, surgical removal of orthotopic tumors typically involves removing the primary tumor along with the spleen. Here, we present a protocol for surgical removal of the tumor in the tail of the pancreas while preserving the spleen. We describe steps for implantation of mouse pancreatic cancer cells followed by the identification and removal of the orthotopic tumor. We also outline perioperative treatment strategies for tumor recurrence.",
+ "authors": [
+  "Léger JL",
+  "Amhis N",
+  "Mansouri S",
+  "Pacheco MFM",
+  "Daniel L",
+  "Giguère H",
+  "Collin Y",
+  "Tai LH"
+ ],
+ "categories": [
+  "basic",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42858257",
+ "importance": 0.6,
+ "key_points_ko": [
+  "비장을 절제하지 않고 보존하면서 췌장 미부 종양만을 제거하는 마우스 수술 프로토콜을 제시했습니다.",
+  "정상 면역 기능을 가진 마우스 모델을 활용하여 종양 절제 및 재발 과정을 구현했습니다.",
+  "췌장암의 수술 전후 치료 효과를 평가할 수 있는 전임상 연구 모델을 구축했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1016/j.xpro.2026.104897",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42858257"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-10",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "STAR Protoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42858257/"
+ },
+ "summary_ko": "췌관선암종(pancreatic ductal adenocarcinoma) 마우스 모델에서 동소 이식 종양을 절제할 때 일반적으로 비장을 함께 절제합니다. 이 연구는 비장을 보존하면서 췌장 꼬리(미부) 부위 종양을 외과적으로 절제하는 새로운 수술 프로토콜을 제시했습니다. 마우스 췌장암 세포를 이식한 뒤 종양을 확인하고 절제하는 전 과정과 종양 재발을 관찰하는 단계가 기술되어 있습니다. 또한 수술 전후(perioperative) 치료 전략을 연구하기 위한 방법론을 확립했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Protocol for an immunocompetent KPC mouse model of pancreatic cancer resection and recurrence for perioperative treatment studies",
+ "title_ko": "수술 전후 치료 연구를 위한 정상 면역 KPC 췌장암 마우스 모델의 절제 및 재발 프로토콜",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer (PC) is highly aggressive and associated with extremely poor prognosis. Due to the lack of specfic symptoms in the early stage, most patients have already lost the opportunity for curative surgical resection at the time of diagnosis. Therefore, improving the early identification of individuals at elevated risk of PC is clinically important.\nMETHODS: Using data from the UK Biobank, 157,235 participants were included. Cox proportional hazards models were applied to systematically evaluate the associations of clinical biomarkers, polygenic risk scores (PRS), and 143 metabolites with PC risk, with significant metabolites identified after false discovery rate correction. Elastic net regression was then used to construct a metabolomic risk score (MRS), which was integrated with clinical biomarkers and PRS to develop multivariable prediction models. Model performance was assessed using the C-index and time-dependent area under the curve (AUC).\nRESULTS: During the follow-up period, 878 incident PC cases were identified. In total, 15 clinical biomarkers and 55 metabolites were significantly associated with PC risk, with the majority of lipid- and lipoprotein-related metabolites showing inverse associations. Subsequently, 52 metabolites were selected to construct the MRS. The C-index increased from 0.722 in the base model including age and sex to 0.755 with the addition of clinical biomarkers and to 0.768 after further incorporating the PRS; the addition of the MRS yielded a C-index of 0.769, with improved risk reclassification. The integrated model showed good discrimination, with time-dependent AUCs of 0.812, 0.808, 0.768, and 0.783 at 1, 3, 5, and 10 years, respectively.\nCONCLUSIONS: These findings support the utility of clinical and genetic factors for PC risk assessment, while the additional predictive value of metabolomic profiling warrants further validation.",
+ "authors": [
+  "Wang X",
+  "Yang H",
+  "Li J",
+  "Wang X",
+  "Tong L",
+  "Han Z",
+  "Li Y",
+  "Liu M"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42856819",
+ "importance": 0.64,
+ "key_points_ko": [
+  "UK Biobank 참가자 157,235명 중 추적 관찰 기간 동안 878건의 췌장암이 발생했습니다.",
+  "기본 모델(C-index 0.722)에 임상 표지자(0.755), PRS(0.768), MRS(0.769)를 추가하면서 예측 성능이 점진적으로 향상되었습니다.",
+  "통합 예측 모델의 시간 의존 AUC는 1년 0.812, 3년 0.808, 5년 0.768, 10년 0.783을 기록했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.3389/fendo.2026.1903036",
+  "nct": [],
+  "pmcid": "PMC13649413",
+  "pmid": "42856819"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-25",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Endocrinol (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856819/"
+ },
+ "summary_ko": "영국 바이오뱅크(UK Biobank)의 등록자 157,235명을 대상으로 췌장암 고위험군을 조기에 선별하기 위한 다변량 예측 모델을 구축했습니다. 연구진은 임상 생체표지자, 다유전자 위험 점수(PRS), 143개 대사체를 분석하여 총 878건의 췌장암 발생 사례와의 연관성을 평가했습니다. 나이와 성별을 기반으로 한 기본 모델에 임상 표지자, 유전자 점수, 대사체 위험 점수(MRS)를 순차적으로 통합했을 때 예측 정확도(C-index)가 0.722에서 0.769로 향상되었습니다. 통합 모델은 1년 시점의 시간 의존 곡선하 면적(AUC) 0.812를 기록하는 등 우수한 판별 능력을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development of a predictive model for pancreatic cancer integrating serum metabolomics and polygenic risk score",
+ "title_ko": "혈청 대사체학과 다유전자 위험 점수를 통합한 췌장암 발병 예측 모델 개발",
+ "trial": null,
+ "type": "paper"
+}

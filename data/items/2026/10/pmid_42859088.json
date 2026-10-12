@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Obstructive sleep apnea (OSA) has been linked with increased cancer incidence and mortality. We hypothesized that OSA may be a risk factor for neoplastic progression among patients undergoing pancreatic cancer surveillance.\nMETHODS: Retrospective medical record review of two Johns Hopkins Hospital cohorts undergoing pancreas surveillance; patients with familial/genetic risk enrolled in the Cancer of the Pancreas Screening (CAPS) study and patients with incidentally detected pancreatic cysts, enrolled in the PCYST study. Time-to-progression to pancreatic ductal adenocarcinoma (PDAC) and neoplastic progression (either PDAC, high-grade dysplasia or pancreatic neuroendocrine tumor) were compared by OSA status, adjusting for covariates.\nRESULTS: OSA was diagnosed prior to or during surveillance in 174 (19.5%) of 893 patients in CAPS and 376 (23.7%) of 1585 patients in the PCYST cohort. In the combined cohorts, OSA was associated with increased risk of progression to PDAC (unadjusted HR: 3.12, 95% CI: [1.82, 5.34], p < 0.001). OSA was also associated with male sex, higher BMI, fatty liver, fatty pancreas, diabetes, and history of smoking (all p < 0.01). After covariate adjustment, OSA remained associated with PDAC risk (adjusted HR: 2.56 [1.44, 4.55], p = 0.001). Factors associated with neoplastic progression included OSA (adjusted HR: 1.93 [1.25, 2.97], p = 0.003), increasing age (age-per 5-years adjusted HR: 1.14 [1.05, 1.24], p = 0.003), fatty liver (adjusted HR: 1.76 [1.19, 2.60], p = 0.005), and diabetes (adjusted HR: 1.77 [1.16, 2.71], p = 0.008).\nCONCLUSIONS: Patients undergoing pancreatic surveillance for their familial/genetic risk and/or incidentally detected pancreatic cysts have a greater likelihood of developing pancreatic cancer if they've been diagnosed with OSA.",
+ "authors": [
+  "Sinan H",
+  "Sleiman EA",
+  "Blackford AL",
+  "Shinozuka T",
+  "Melki D",
+  "Saab J",
+  "Romanos M",
+  "Ning K"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42859088",
+ "importance": 0.77,
+ "key_points_ko": [
+  "폐쇄성 수면무호흡증(OSA)은 여러 위험 요인을 보정한 후에도 췌관선암(PDAC) 발생 위험을 유의하게 높였습니다(보정 위험비 2.56, 95% 신뢰구간 1.44~4.55, p=0.001).",
+  "종양성 진행(췌관선암, 고도 이형성증 또는 췌장 신경내분비종양) 위험 또한 OSA 환자에서 유의하게 증가했습니다(보정 위험비 1.93, 95% 신뢰구간 1.25~2.97, p=0.003).",
+  "전체 환자 중 CAPS 코호트의 19.5%(174/893명), PCYST 코호트의 23.7%(376/1585명)가 감시 이전 또는 도중에 폐쇄성 수면무호흡증을 진단받았습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.013",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42859088"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42859088/"
+ },
+ "summary_ko": "존스 홉킨스 병원의 췌장 감시 코호트 환자들을 대상으로 폐쇄성 수면무호흡증(OSA)이 췌장암 발생 위험 요인인지 후향적으로 분석했습니다. 가족력 및 유전적 위험 환자 893명(CAPS)과 우연히 발견된 췌장 낭종 환자 1,585명(PCYST)이 연구에 포함되었습니다. 교란변수를 보정한 분석 결과, 폐쇄성 수면무호흡증이 있는 고위험군 환자는 췌관선암(PDAC) 발생 위험이 약 2.56배 높았습니다. 연구진은 유전적 위험이나 췌장 낭종으로 정기 추적 관찰을 받는 환자가 수면무호흡증을 동반할 경우 췌장암 발생 가능성이 더 높다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association of obstructive sleep apnea with pancreatic cancer in high-risk patients under surveillance in CAPS and PCYST cohorts",
+ "title_ko": "췌장암 고위험 감시 코호트(CAPS 및 PCYST)에서 폐쇄성 수면무호흡증과 췌장암 발생 간의 연관성",
+ "trial": null,
+ "type": "paper"
+}

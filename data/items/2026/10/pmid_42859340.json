@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a dense desmoplastic stroma and profound spatial heterogeneity, yet the multicellular organizational principles governing its tumor microenvironment remain poorly understood. Here, we performed single-cell RNA sequencing (scRNA-seq; n = 9) and spatial transcriptomics (n = 4), integrating 61,234 single cells and 30,430 spots to identify an invasive-frontier myofibroblastic cancer-associated fibroblast (IF-myCAF), which is characterized by elevated expression of ACTA2, TAGLN, COL11A1, THBS2, CTHRC1, and POSTN. IF-myCAFs were validated in eight independent PDAC cohorts (159 samples with 67,959 CAFs), showing conserved transcriptional programs and representing a major CAF subpopulation across datasets. Spatial cellular community (CC) analysis identified five recurrent CCs that delineated the multicellular organization of PDAC. Notably, the invasive-desmoplastic CC (ID-CC), which localized to the tumor-stroma interface, was defined by a 5.8-fold enrichment of IF-myCAF; within this community, IF-myCAF colocalized with malignant ductal cells and macrophages. We also found that the ID-CC transcriptional signature was independently associated with worse outcome in TCGA-PAAD. Furthermore, ligand-receptor (LR) analysis of 4,009 IF-myCAF-associated LR pairs identified IF-myCAF as the predominant cell population mediating ECM-related intercellular signaling within ID-CC. Structure-based virtual screening against four IF-myCAF-derived ligand-receptor axes mediating intercellular communication within this community (THBS2-CD47, CTHRC1-FZD8, PPIA-BSG/CD147, MIF-CD74) identified five multi-target drug-repurposing candidates, including conivaptan, lonafarnib, rucaparib, desloratadine, and ketotifen. Collectively, this study first identified a novel CAF subpopulation, IF-myCAF, and established a CC-based organizational scheme for PDAC spatial architecture. Our findings advance our understanding of spatial ecosystem-level stromal heterogeneity in PDAC and suggest targeting IF-myCAF-driven signaling within ID-CC.",
+ "authors": [
+  "Liang CH",
+  "Ye H",
+  "Xu H",
+  "Fang C",
+  "Lian JP",
+  "Chen YQ",
+  "Wang WT",
+  "He B"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42859340",
+ "importance": 0.64,
+ "key_points_ko": [
+  "단일세포 61,234개와 공간 전사체 30,430개 스팟을 분석하여 ACTA2, COL11A1 등을 발현하는 IF-myCAF 아형을 발견했습니다.",
+  "IF-myCAF가 5.8배 농축된 침습-결합조직형성 군집(ID-CC)의 유전자 특징은 TCGA 데이터에서 불량한 예후와 독립적으로 관련되었습니다.",
+  "세포 간 신호 전달 축을 억제하기 위한 가상 스크리닝에서 conivaptan, lonafarnib, rucaparib 등 5개의 후보 약물이 도출되었습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1007/s44307-026-00141-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42859340"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Biotechnol (Singap)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42859340/"
+ },
+ "summary_ko": "단일세포 RNA 시퀀싱(scRNA-seq)과 공간 전사체학을 통합 분석하여 췌관선암의 침습 경계면에 위치하는 새로운 암 관련 섬유아세포인 IF-myCAF를 규명했습니다. 이 세포가 5.8배 풍부하게 존재하는 '침습-결합조직형성 세포 군집(ID-CC)'은 종양과 기질의 경계면에 위치하며 예후 불량과 독립적으로 연관되어 있었습니다. 연구진은 세포 간 신호 전달 축을 표적하기 위해 구조 기반 가상 스크리닝을 진행했습니다. 그 결과 conivaptan(코니밥탄), lonafarnib(로나파닙), rucaparib(루카파립) 등 5종의 다중 표적 약물 재창출 후보 물질을 발굴했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Spatial multi-omics uncovers an invasive-desmoplastic cellular community with prognostic and therapeutic implications in pancreatic ductal adenocarcinoma",
+ "title_ko": "공간 다중오믹스를 통해 밝혀낸 췌관선암의 예후 및 치료적 의의를 지닌 침습-결합조직형성 세포 군집",
+ "trial": null,
+ "type": "paper"
+}

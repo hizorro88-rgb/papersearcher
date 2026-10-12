@@ -19,9 +19,9 @@
  "id": "nct:NCT06539806",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 인원은 90명이며, 연령 기준은 50세부터 85세입니다.",
-  "중재 방법으로 Losartan 50mg Tab이 사용되었습니다.",
-  "임상시험 단계와 구체적인 결과는 초록에 명시되지 않았습니다."
+  "고혈압(140/90 mmHg 이상)을 동반한 국소 진행성 또는 전이성 췌장암 환자 90명을 대상으로 로사르탄 50mg 투여 효과를 평가했습니다.",
+  "로사르탄은 앙지오텐신 II 수용체를 억제하여 종양 내 항암제 전달을 돕고 젬시타빈(Gemcitabine) 등의 효능을 높이는 기전을 가집니다.",
+  "본 초록에는 연구의 최종 생존기간이나 객관적 반응률 수치가 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,17 +46,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06539806"
  },
- "summary_ko": "이 연구는 췌장암(pancreatic cancer) 환자를 대상으로 Losartan(로사르탄) 50mg 정제의 효과를 평가하기 위한 임상시험입니다. 탄타 대학교(Tanta University)에서 진행되었으며, 목표 인원은 90명입니다. 50세에서 85세 사이의 환자를 대상으로 완료되었습니다. 초록에 구체적인 임상시험 결과는 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 고혈압을 동반한 국소 진행성 또는 전이성 췌장암 환자를 대상으로 항고혈압제인 로사르탄(Losartan) 50mg의 치료 효과를 평가한 임상시험입니다. 로사르탄은 레닌-앙지오텐신 시스템(RAS)을 억제하여 종양 내 약물 전달을 개선하고 항암제 효과를 높일 수 있는 것으로 알려져 있습니다. 만 50세 이상 85세 이하의 환자 90명을 대상으로 수행되었습니다. 초록에 세부적인 생존율이나 반응률 등 임상 결과 수치는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Clinical Study Evaluating the Effect of Losartan",
- "title_ko": "로사르탄의 효과를 평가하는 임상 연구",
+ "title_ko": "췌장암 환자에서 로사르탄의 치료 효과를 평가하기 위한 임상 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: - 50세 이상의 남녀 췌장암 환자 - 혈압이 140/90 mm Hg 이상인 고혈압 환자 - 조직학적으로 확진된 전이성 췌장 선암 또는 국소 진행성 췌장암 환자 - 모든 참여 환자의 사전 동의서 서명 필수. 제외 기준: - 심각한 심장, 신장, 간, 폐 질환 등 동반 질환이 있는 환자 - 임산부, 수유부 및 가임기 여성 - 지난 10년 이내에 전신 플루오로피리미딘(fluoropyrimidine) 치료를 받은 환자 - 플루오로피리미딘 치료에 대한 심각한 부작용 이력이 있거나 5-FU, irinotecan, oxaliplatin, losartan 등에 과민증이 있는 환자 - 건선 등 활성 자가면역질환 환자 - B형 간염 표면 항원(HBV s Ag) 또는 C형 간염 항체(HCV antibody) 양성 환자 및 HIV/AIDS 이력이 있는 환자 - 임상 치료 시작 전 30일 이내에 생백신이나 약독화 생백신을 접종받은 환자",
+  "eligibility_ko": "선정 기준: • 만 50세 이상의 췌장암 환자 • 혈압 140/90 mmHg 이상의 고혈압 환자 • 조직학적으로 확증된 전이성 췌장선암 또는 국소 진행성 췌장암 환자 • 서면 동의서에 서명한 환자 제외 기준: • 심장, 신장, 간 또는 폐의 심각한 동반 전신 질환이 있는 환자 • 임신 중이거나 수유 중인 여성 및 임신 가능성이 있는 여성 • 지난 10년 이내에 플루오로피리미딘(fluoropyrimidine) 치료를 받은 환자 • 5-플루오로우라실, 이리노테칸, 옥살리플라틴, 로사르탄, 단클론 항체 등에 과민반응 병력이 있는 환자 • 건선 등 활성 자가면역질환 환자 • B형 간염, C형 간염 또는 HIV/AIDS 양성 환자 • 치료 시작 30일 이내에 생백신을 접종받은 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Male and female pancreatic cancer patients aged ≥ 50 years old.\n* Hypertensive patient with BP ≥ 140/90 mm Hg.\n* Histologically confirmed metastatic pancreatic adenocarcinoma; or locally advanced pancreatic cancer patients.\n* All included patients must sign an informed consent\n\nExclusion Criteria:\n\n* Patients with serious concomitant systemic disorders as significant cardiac, renal, hepatic, or pulmonary morbidity.\n* Pregnant or lactating women and women of childbearing potential.\n* Patients received prior systemic fluoropyrimidine therapy within the past 10 years.\n* Prior un-anticipated severe reaction to fluoropyrimidine therapy, or known hypersensitivity to 5-fluorouracil, irinotecan, oxaliplatin, losartan, or any monoclonal antibody.\n* Patients with an active, known, or suspected autoimmune disease such as psoriasis.\n* Patients with a known positive test for hepatitis B virus surface antigen (HBV s Ag) or hepatitis C virus (HCV antibody) and patients with a known history of testing positive for (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Patients received a live vaccine or live attenuated vaccines as intranasal influenza vaccines within 30 days of the planned start of study therapy.",
   "enrollment": 90,
   "has_results": false,
@@ -72,11 +72,16 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "심장, 신장, 간 또는 폐의 심각한 동반 질환 환자",
+    "임신 중이거나 수유 중인 여성",
+    "지난 10년 이내 플루오로피리미딘 계열 항암 치료를 받은 환자",
+    "자가면역질환(건선 등) 또는 B형/C형 간염, HIV 감염 환자"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "고혈압을 동반하고 10년 이내 플루오로피리미딘 치료 이력이 없는 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [
     "fluoropyrimidine"
    ],
@@ -85,7 +90,7 @@
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "85 Years",
   "min_age": "50 Years",

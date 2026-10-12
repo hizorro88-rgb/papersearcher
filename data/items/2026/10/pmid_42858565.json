@@ -1,0 +1,63 @@
+{
+ "abstract": "Fibroblast activation protein (FAP)-expressing cancer-associated fibroblasts are an attractive target for spatially controlled photodynamic therapy (PDT) of pancreatic ductal adenocarcinoma (PDAC). Here, we report the design, synthesis and preclinical evaluation of two FAP-targeted small molecules for application in PDT. Both compounds combine a FAP-binding motif based on FAPI-04, a DOTA chelator for indium-111 radiolabeling, and IRDye700DX as photosensitizer, but differ in the linker used for photosensitizer attachment. PhoFAP-01 was prepared via a DBCO-based SPAAC strategy, whereas PhoFAP-02 contains a compact amide linkage. Both small molecules retained FAP-mediated binding to 3T3-FAP cells and induced light-dependent cytotoxicity after 690 nm irradiation. Linker chemistry had a strong effect on performance: PhoFAP-02 showed higher apparent FAP affinity than PhoFAP-01 (IC50 28 nM versus 76 nM) and displayed improved phototoxic selectivity, with no detectable dark toxicity or light-induced toxicity in FAP-negative cells. In mice bearing orthotopic syngeneic PDAC299 tumors, 111In-labeled PhoFAP-02 reached 6.6 ± 1.1%ID/g tumor uptake at 1 h post-injection and accumulated in FAP-rich stromal regions, as shown by autoradiography and FAP immunohistochemistry. These findings identify PhoFAP-02 as a promising small-molecule photosensitizer for FAP-targeted PDT and highlight the importance of linker design for preserving target binding and phototoxic selectivity. Future studies should evaluate therapeutic efficacy after light activation in vivo.",
+ "authors": [
+  "Schenker R",
+  "de Greeff J",
+  "Franssen GM",
+  "Frielink C",
+  "Boerman F",
+  "Bonger KM",
+  "Löwik DWPM",
+  "van Lith SAM"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42858565",
+ "importance": 0.49,
+ "key_points_ko": [
+  "PhoFAP-02는 PhoFAP-01 대비 FAP에 대해 더 높은 친화도(IC50 28nM 대 76nM)와 개선된 선택적 광독성을 보였습니다.",
+  "암실 조건 또는 FAP 음성 세포에서는 독성이 관찰되지 않아 표적 선택적 안전성을 나타냈습니다.",
+  "동종 췌장암(PDAC299) 마우스 모델에서 PhoFAP-02는 주사 1시간 후 6.6 ± 1.1%ID/g의 종양 섭취율을 기록했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1016/j.ejmech.2026.119411",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42858565"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42858565/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 암 관련 섬유아세포에 발현되는 섬유아세포 활성화 단백질(FAP)을 표적하는 광역학 치료(PDT)용 저분자 화합물 PhoFAP-01과 PhoFAP-02를 개발하고 전임상 평가를 수행했습니다. 두 물질 모두 690nm 파장의 빛 조사 시 FAP 발현 세포에 대한 세포 독성을 유도했습니다. 특히 PhoFAP-02는 더 높은 FAP 결합 친화도와 선택적 광독성을 보였으며, 빛이 없는 암실 상태나 FAP 음성 세포에서는 독성을 나타내지 않았습니다. 췌장암 마우스 모델 시험에서도 PhoFAP-02가 FAP가 풍부한 종양 기질 부위에 효과적으로 축적됨을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Design, synthesis and preclinical evaluation of small-molecule FAP-targeted photosensitizers for photodynamic therapy",
+ "title_ko": "광역학 치료를 위한 저분자 FAP 표적 광과민제의 설계, 합성 및 전임상 평가",
+ "trial": null,
+ "type": "paper"
+}

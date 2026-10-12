@@ -11,10 +11,11 @@
   "Langlais PR"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-10",
  "history": [
   {
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:42854278",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "기존 엔도글린과 분자적으로 구별되는 C-말단 펩타이드를 가진 새로운 분비형 엔도글린 이소형을 규명했습니다.",
+  "해당 이소형은 환자의 원발성 종양 조직, 혈청, 이종이식 모델 및 KPC 마우스 모델 전반에서 일관되게 검출되었습니다.",
+  "새롭게 개발된 샌드위치 효소면역측정법(sandwich ELISA)을 통해 환자 혈액 순환 내 검출 가능성을 확인하여 진단용 바이오마커로서의 가치를 제시했습니다."
+ ],
  "last_updated": "2026-10-10",
  "links": {
   "doi": "10.1016/j.neo.2026.101379",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42854278/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy with few effective strategies for early detection or prognostic assessment. Endoglin (CD105) is an endothelial receptor best known for its roles in vascular development and tumor angiogenesis, and its only recognized circulating form arises through proteolytic shedding of the full-length receptor.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌관선암(PDAC) 환자에서 조기 발견 및 예후 평가를 돕기 위한 새로운 혈액 바이오마커를 규명했습니다. 연구진은 인트론 잔류(intron retention) 기전을 통해 생성되어 체액으로 분비되는 절단형 엔도글린(Endoglin) 이소형을 새롭게 확인했습니다. 이 이소형은 기존 엔도글린과 구별되는 고유한 C-말단 구조를 가지며, 췌장암 세포주와 마우스 모델뿐만 아니라 환자의 종양 조직 및 혈청에서도 검출되었습니다. 연구진은 이를 선택적으로 감지할 수 있는 특이적 항체와 샌드위치 효소면역측정법(sandwich ELISA)을 개발하여 혈액 기반 바이오마커로서의 잠재력을 입증했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "An intron retention-derived secreted Endoglin Isoform as a circulating biomarker in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암의 순환 바이오마커로서 인트론 잔류에서 유래된 분비형 엔도글린 이소형 연구",
  "trial": null,
  "type": "paper"
 }

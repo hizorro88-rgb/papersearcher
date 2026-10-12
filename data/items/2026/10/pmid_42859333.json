@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Igarashi Y",
+  "Shirai Y",
+  "Honma S",
+  "Yamahata Y",
+  "Akaoka M",
+  "Tanji Y",
+  "Taniai T",
+  "Yanagaki M"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42859333",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌관선암종에서 CHMP3의 역할 및 영향을 다룬 시각적 초록입니다.",
+  "구체적인 연구 결과, 환자 수 및 통계적 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1245/s10434-026-20399-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42859333"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-10",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42859333/"
+ },
+ "summary_ko": "본 문헌은 췌관선암종(pancreatic ductal adenocarcinoma)에서 CHMP3의 임상적 및 기능적 영향을 정리한 시각적 초록(Visual Abstract)입니다. 제공된 정보에 연구 대상, 분석 방법 및 구체적인 연구 결과는 명시되지 않았습니다. 세부적인 임상 및 기초 연구 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Clinical and Functional Impact of CHMP3 in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "ASO 시각적 초록: 췌관선암종에서 CHMP3의 임상적 및 기능적 영향",
+ "trial": null,
+ "type": "paper"
+}

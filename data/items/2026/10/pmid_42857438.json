@@ -1,0 +1,62 @@
+{
+ "abstract": "Cutaneous metastases from pancreatic ductal adenocarcinoma (PDAC) are rare and typically signify advanced disease with a poor prognosis. While umbilical involvement is the most frequently reported cutaneous manifestation, scalp metastases remain extremely unusual. This case report aims to describe an uncommon scalp metastasis from PDAC and to emphasize the importance of immunohistochemical analysis in atypical cases. We report the case of a 71-year-old woman who presented initially with a painless nodule on her scalp and chronic epigastric discomfort, as well as unintentional weight loss, for at least six months. We conducted a thorough clinical examination, followed by contrast-enhanced computed tomography (CT) to stage the cancer systemically. We performed histopathological and immunohistochemical analyses on the excised scalp lesion to determine its origin. Physical examination revealed epigastric tenderness, left supraclavicular lymphadenopathy, and an asymptomatic lesion on the scalp overlying the parietal bone. CT identified a primary tumor in the pancreatic body, with liver metastases and left supraclavicular lymphadenopathy. Immunohistochemical analysis revealed diffuse positivity for cytokeratin 7 (CK7) and cytokeratin 19 (CK19) and negative staining for CK20 and pP63. Therefore, the clinical, radiological, morphological, and immunohistochemical findings were consistent with pancreatic adenocarcinoma. The patient was subsequently diagnosed with Stage IV PDAC and commenced palliative combination chemotherapy with gemcitabine and nab-paclitaxel. At the four-month follow-up, she demonstrated radiographic stability and good local healing of the scalp biopsy site. This case underscores the rarity of scalp metastasis from pancreatic adenocarcinoma and highlights the diagnostic utility of immunohistochemical markers in confirming atypical metastatic presentations. It also reinforces that persistent, enlarging, or otherwise suspicious scalp nodules require prompt evaluation and biopsy.",
+ "authors": [
+  "Ait Ali H",
+  "Ayoub K",
+  "Bouhout T",
+  "Serji B"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42857438",
+ "importance": 0.54,
+ "key_points_ko": [
+  "통증 없는 두피 결절을 초기 증상으로 내원한 71세 여성 환자가 췌장암 4기로 최종 진단되었습니다.",
+  "두피 결절 조직검사 및 면역조직화학 검사(CK7/CK19 양성 등)를 통해 췌장 기원의 전이임을 확인했습니다.",
+  "환자는 gemcitabine과 nab-paclitaxel 병용 항암화학요법을 받았으며, 4개월 추적 관찰 시 영상학적으로 질병 안정(SD)을 보였습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.7759/cureus.116015",
+  "nct": [],
+  "pmcid": "PMC13652551",
+  "pmid": "42857438"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42857438/"
+ },
+ "summary_ko": "췌관선암종(PDAC)의 피부 전이는 매우 드물며 그중 두피 전이는 극히 이례적인 증상입니다. 본 논문은 통증 없는 두피 결절과 체중 감소를 주소로 내원하여 췌장암 4기(두피, 간 및 림프절 전이)로 진단받은 71세 여성의 사례를 보고했습니다. 환자의 두피 결절에 대한 면역조직화학 분석과 전신 전산화단층촬영(CT)을 통해 췌장 체부의 원발암을 확인했습니다. 이후 환자는 gemcitabine(젬시타빈)과 nab-paclitaxel(납-파클리탁셀) 병용 고식적 항암치료를 시작하였으며, 4개월 추적 관찰에서 영상학적 질병 안정 상태를 유지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Scalp Metastasis as the Initial Presentation of Pancreatic Adenocarcinoma: A Case Report and Review of the Literature",
+ "title_ko": "췌장선암종의 초기 증상으로 나타난 두피 전이: 증례 보고 및 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer is a highly aggressive malignancy with a poor prognosis and pancreatic ductal adenocarcinoma (PDAC) constitutes the overwhelming majority of histological subtypes. KRAS mutation-driven metabolic reprogramming renders PDAC highly dependent on metal ion homoeostasis and antioxidant systems, thereby providing a novel rationale for therapeutic strategies targeting ferroptosis and cuproptosis. Ferroptosis is a form of regulated cell death caused by the excessive accumulation of iron-dependent lipid peroxidation, whereas cuproptosis is a newly characterised mode of cell death triggered by copper binding to mitochondrial lipoylated proteins, leading to proteotoxic stress. In PDAC, these two forms of cell death are not independent; rather, they interact through multiple metabolic and stress-response pathways. This review systematically summarizes the core molecular mechanisms of ferroptosis and cuproptosis, with particular emphasis on their crosstalk mediated by key nodes, including glutathione, mitochondria, the tricarboxylic acid cycle, iron-sulfur clusters and glutathione peroxidase 4. It further analyses how tumour microenvironmental factors, such as KRAS mutation, cancer-associated fibroblasts, hypoxia and epithelial-mesenchymal transition, regulate these two death programmes, and discusses their functional significance in drug resistance, cancer stem cells and the immune microenvironment. Finally, this review outlines PDAC therapeutic strategies based on the coordinated regulation of ferroptosis and cuproptosis, with the aim of providing a theoretical basis for the development of novel synergistic therapies targeting metal-dependent cell death in pancreatic cancer.",
+ "authors": [
+  "Liu W",
+  "Ding M",
+  "Ji R",
+  "Qiao Z",
+  "Liu R",
+  "Chen P",
+  "Liu L"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42857319",
+ "importance": 0.68,
+ "key_points_ko": [
+  "KRAS 변이를 지닌 췌관선암종은 금속 이온 항상성 및 항산화 시스템에 대한 의존성이 높아 페롭토시스와 쿠프로프토시스의 표적이 될 수 있습니다.",
+  "페롭토시스와 쿠프로프토시스는 글루타티온, 미토콘드리아, 철-황 클러스터, GPX4 등의 핵심 인자를 통해 서로 상호작용합니다.",
+  "종양미세환경 요인 및 약물 내성 극복을 위해 두 금속 의존성 세포사멸 경로를 함께 조절하는 시너지 치료 전략의 가능성을 제시했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.3892/ol.2026.15883",
+  "nct": [],
+  "pmcid": "PMC13650453",
+  "pmid": "42857319"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncol Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42857319/"
+ },
+ "summary_ko": "이 종설 논문은 췌관선암종(PDAC)에서 철 의존성 세포사멸인 페롭토시스(ferroptosis)와 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 상호작용 기전을 정리했습니다. KRAS 변이로 인한 대사 재프로그래밍으로 인해 췌장암은 금속 이온 항상성과 항산화 시스템에 크게 의존합니다. 두 세포사멸 경로는 글루타티온, 미토콘드리아, 삼카르복실산(TCA) 회로 등을 매개로 상호작용하며 종양미세환경과 약물 내성에 영향을 미칩니다. 저자들은 이 두 금속 의존성 세포사멸을 복합적으로 조절하는 치료 전략이 췌장암의 새로운 치료법 개발을 위한 이론적 근거를 제공한다고 설명했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Research progress of pancreatic cancer based on ferroptosis-cuproptosis interaction (Review)",
+ "title_ko": "페롭토시스와 쿠프로프토시스 상호작용 기반 췌장암 연구 동향 (종설)",
+ "trial": null,
+ "type": "paper"
+}

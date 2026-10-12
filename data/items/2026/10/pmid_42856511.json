@@ -1,0 +1,63 @@
+{
+ "abstract": "Treatments for pancreatic ductal adenocarcinoma (PDAC) often fail because of the cancer's ability to adapt its signaling and metabolic pathways to circumvent treatment mechanisms. PDAC hallmarks that promote treatment resistance (increased fatty acid metabolism, survival signaling, desmoplasia, and macropinocytosis) are extensively regulated by heparan sulfate proteoglycans (HSPGs) and their binding partners. The pro-tumor functions of HSPGs are controlled by site-specific cleavage of their heparan sulfate chains by mammalian heparanase; however, cleavage by bacterial heparinase III (HepIII) represses these functions and prevents downstream, pro-tumor signaling. Using tumor-targeting, attenuated Salmonella typhimurium (strain YS1646), we have limited HepIII transgene expression to tumor tissue. Degradation of tumor cell heparan sulfates by HepIII resulted in decreased macropinocytosis, reduced survival signaling, lipid storage depletion, and decreased expression of translational machinery. This tumor-targeting treatment has the potential to improve the efficacy of several approved pancreatic cancer therapies, which is predicted to increase patient survival.",
+ "authors": [
+  "Ebelt ND",
+  "Loganathan S",
+  "Avsharian LC",
+  "Dabrowska K",
+  "Hansen N",
+  "Pathak KV",
+  "Pirrotte P",
+  "Manuel ER"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42856511",
+ "importance": 0.57,
+ "key_points_ko": [
+  "약독화 살모넬라균을 전달체로 활용하여 종양 부위에 특이적으로 헤파리나제 III(HepIII) 발현을 유도했습니다.",
+  "HepIII에 의한 헤파란 황산 분해는 췌장암 세포의 거대음세포작용, 생존 신호전달, 지질 저장 및 단백질 번역 기전을 억제했습니다.",
+  "이러한 종양 표적 기전은 기존 승인된 췌장암 치료제의 효능을 높일 수 있는 전임상 후보 전략으로 평가되었습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.64898/2026.10.01.756059",
+  "nct": [],
+  "pmcid": "PMC13648696",
+  "pmid": "42856511"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-04",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856511/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 치료 저항성을 유발하는 대사 및 생존 신호는 헤파란 황산 프로테오글리칸(HSPG)에 의해 조절됩니다. 연구진은 약독화된 종양 표적 살모넬라균(Salmonella typhimurium YS1646)을 이용해 박테리아 헤파리나제 III(HepIII)를 종양 조직에만 전달하도록 설계했습니다. 종양 세포의 헤파란 황산이 분해되면서 암세포의 영양소 흡수(거대음세포작용) 감소, 생존 신호 차단, 지질 저장 고갈 등의 변화가 나타났습니다. 연구진은 이러한 치료 접근법이 기존 췌장암 치료제의 효과를 높이는 데 기여할 수 있을 것으로 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Precision Targeting of Heparan Sulfate Proteoglycans Broadly Dysregulates Survival Signaling and Metabolic Adaptation in Pancreatic Cancer",
+ "title_ko": "헤파란 황산 프로테오글리칸의 정밀 표적화를 통한 췌장암의 생존 신호전달 및 대사 적응 교란",
+ "trial": null,
+ "type": "paper"
+}

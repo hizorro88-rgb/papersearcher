@@ -18,10 +18,9 @@
  "id": "nct:NCT05245500",
  "importance": 0.64,
  "key_points_ko": [
-  "대상 질환은 MTAP 유전자 결손이 있는 진행성, 절제 불가능 또는 전이성 고형암이며 췌장암이 포함됩니다.",
-  "중재(치료법)는 MRTX1719입니다.",
-  "목표 환자 수는 336명입니다.",
-  "연령 기준은 18세 이상입니다."
+  "대상 질환은 췌장선암(Pancreatic Adenocarcinoma)을 포함한 MTAP 유전자 결실 고형암입니다.",
+  "목표 인원은 총 336명입니다.",
+  "임상시험 단계는 제1상(Phase 1)입니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -46,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05245500"
  },
- "summary_ko": "본 임상시험은 MTAP 유전자 동형 접합 결손이 있는 진행성, 절제 불가능 또는 전이성 고형암 환자를 대상으로 신약 후보물질 MRTX1719의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 항종양 활성을 평가합니다. 췌장암 선암(Pancreatic Adenocarcinoma)을 포함한 다양한 고형암 환자를 대상으로 합니다. 최초의 인체 대상(first-in-human) 임상시험으로 용량 탐색 후 확장 코호트를 진행합니다. 목표 환자 수는 336명입니다.",
+ "summary_ko": "이 임상시험은 MTAP 유전자의 동형 접합 결실이 있는 진행성, 절제 불가능 또는 전이성 고형암 환자를 대상으로 MRTX1719의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 항종양 활성을 평가합니다. 최초인체(first-in-human) 임상시험으로 용량 및 투여 요법 탐색을 시작합니다. 안전성과 임상적 활성 근거를 확인하기 위해 제1상 확장 코호트가 진행될 수 있습니다.",
  "summary_source": "llm",
  "tags": [
   "MTAP Deletion",
@@ -61,7 +60,7 @@
   "PRMT5"
  ],
  "title": "Phase 1 Study of MRTX1719 in Solid Tumors With MTAP Deletion",
- "title_ko": "MTAP 유전자 결손 고형암 환자를 대상으로 하는 MRTX1719 제1상 임상시험",
+ "title_ko": "MTAP 결실이 있는 고형암 환자를 위한 MRTX1719 제1상 임상시험",
  "trial": {
   "conditions": [
    "Mesothelioma",
@@ -83,7 +82,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:- 종양 조직에서 검출된 MTAP 유전자 동형 접합 결손이 있는 고형암 악성 종양의 조직학적 확진- 절제 불가능 또는 전이성 질환- 기저 및 연구 중 약력학적 평가를 위한 필수 생검이 가능한 종양 병변 존재- 18세 이상- 동유럽종양학그룹(ECOG) 신체 상태 평가 0 또는 1- 적절한 장기 기능. 제외 기준:- PRMT5 또는 MAT2A 억제제 치료 이력- 활성 뇌전이 또는 수막 암종증- 연구 치료 첫 투여 전 4주 이내의 유의미한 객혈 또는 출혈 병력- 연구 치료 첫 투여 전 4주 이내의 주요 수술- 장 질환, 염증성 장 질환, 주요 위 수술 또는 약물 흡수를 변화시키거나 경구 약물 삼키기를 불가능하게 할 수 있는 기타 위장관 질환 병력- 심장 이상- 기타 프로토콜에 정의된 선정 및 제외 기준 적용",
+  "eligibility_ko": "선정 기준:\n- 종양 조직에서 MTAP 유전자의 동형 접합 결실이 조직학적으로 확인된 고형암\n- 절제 불가능하거나 전이성 질환\n- 기저 및 연구 중 필수 생검이 가능한 종양 병변 존재\n- 18세 이상\n- 동양협력종양그룹(ECOG) 수행능력 상태 0 또는 1\n- 적절한 장기 기능\n\n제외 기준:\n- PRMT5 또는 MAT2A 억제제 치료 경험\n- 활성 뇌전이 또는 암성 수막염\n- 임상 치료 시작 전 4주 이내 주요 객혈 또는 출혈 병력\n- 임상 치료 시작 전 4주 이내 대수술\n- 약물 흡수를 방해하거나 경구 투약을 불가능하게 할 수 있는 위장관 질환 병력\n- 심장 이상",
   "eligibility_text": "Inclusion Criteria\n\n* Histologically confirmed diagnosis of a solid tumor malignancy with homozygous deletion of the MTAP gene detected in tumor tissue.\n* Unresectable or metastatic disease.\n* Presence of a tumor lesion amenable to mandatory biopsy for pharmacodynamic evaluation at baseline and on-study unless Sponsor-confirmed as medically unsafe or infeasible.\n* Age ≥ 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria\n\n* Prior treatment with a PRMT5 or MAT2A inhibitor therapy.\n* Active brain metastases or carcinomatous meningitis.\n* History of significant hemoptysis or hemorrhage within 4 weeks of the first dose of study treatment.\n* Major surgery within 4 weeks of first dose of study treatment.\n* History of intestinal disease, inflammatory bowel disease, major gastric surgery, or other gastrointestinal conditions (eg, uncontrolled nausea, vomiting, malabsorption syndrome) likely to alter absorption of study treatment or result in inability to swallow oral medications.\n* Cardiac abnormalities.\n* Other protocol-defined Inclusion/Exclusion criteria apply.",
   "enrollment": 336,
   "has_results": false,
@@ -99,18 +98,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "활성 뇌전이 또는 암성 수막염",
+    "임상 치료 전 4주 이내 출혈 병력",
+    "임상 치료 전 4주 이내 대수술",
+    "약물 흡수에 영향을 주는 위장관 질환",
+    "심장 이상"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "MTAP 유전자 결실이 있는 진행성 전이성 또는 절제 불가능한 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

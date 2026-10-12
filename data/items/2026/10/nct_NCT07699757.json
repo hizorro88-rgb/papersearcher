@@ -21,9 +21,10 @@
  "id": "nct:NCT07699757",
  "importance": 0.71,
  "key_points_ko": [
-  "MTAP 결손이 확인된 진행성 고형암 환자를 대상으로 HSK41959와 표준 치료의 병용을 평가하는 1상 임상시험입니다.",
-  "목표 환자 수는 총 258명이며, 다기관 공개(open-label) 방식으로 진행됩니다.",
-  "평가 항목에는 안전성, 내약성, 용량제한독성(DLT), 최대내성용량(MTD), 약동학(pharmacokinetics), 약력학 및 예비 유효성이 포함됩니다."
+  "대상 질환: MTAP 결손이 확인된 전이성 췌장관선암(mPDAC) 및 비소세포폐암을 포함한 진행성 고형암",
+  "중재 방법: HSK41959 정제와 표준 치료(Nab-paclitaxel + Gemcitabine 등 포함) 병용",
+  "평가 지표: 안전성, 내약성, 용량제한독성(DLT), 최대내용량(MTD), 약동학(PK), 약력학(PD), 예비 유효성",
+  "목표 인원: 258명"
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07699757"
  },
- "summary_ko": "이 임상시험은 MTAP 결손이 있는 진행성 고형암 환자들을 대상으로 HSK41959 정제와 표준 치료의 병용 요법을 평가합니다. 대상 질환에는 췌장관암종(Pancreatic Ductal Adenocarcinoma, mPDAC)과 비소세포폐암 등이 포함됩니다. 연구는 용량 증량(dose-escalation)과 용량 확장(dose-expansion) 단계로 진행되며 안전성, 내인성, 약동학 및 예비 유효성을 평가합니다. 목표 환자 수는 총 258명입니다.",
+ "summary_ko": "이 임상시험은 MTAP 유전자가 결손된 진행성 고형암(전이성 췌장관선암 포함) 환자를 대상으로 HSK41959 정제와 표준 치료의 병용 요법을 평가하기 위한 제1b상 다기관 공개 연구입니다. 연구는 용량 증량(dose-escalation) 및 용량 확장(dose-expansion) 파트로 나뉘며, 안전성, 내약성, 용량제한독성(DLT), 최대내용량(MTD), 약동학, 약력학 및 예비 유효성을 평가합니다. 목표 환자 수는 258명이며 18세 이상 성인이 참여 대상입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "HSK41959 With Standard Therapy in Solid Tumors With MTAP Deletion",
- "title_ko": "MTAP 결손 진행성 고형암 환자를 대상으로 표준 치료와 HSK41959를 병용하는 제1상 임상시험",
+ "title_ko": "MTAP 결손 진행성 고형암 환자에서 HSK41959와 표준 치료 병용 1상 임상시험",
  "trial": {
   "conditions": [
    "Non-Small Cell Lung Cancer",
@@ -60,7 +61,7 @@
    "Advanced Solid Tumors"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 성인 환자\n- ECOG 수행 상태 점수 0에서 1\n- 기대 여명이 최소 3개월 이상\n- 검증된 검사로 확인된 MTAP 결손이 있는 조직학적 또는 세포학적으로 확진된 진행성 악성 종양\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상\n- 췌장관암종(PDAC) 코호트의 경우 프로토콜에 명시된 질환 특성 및 이전 치료 요구사항을 충족하는 진행성 또는 전이성 PDAC\n- 적절한 골수, 간, 신장 및 응고 기능\n- 종양 조직 제공 및 바이오마커 검사 참여 의지\n\n제외 기준:\n- MAT2A 또는 PRMT5 경로를 표적 하는 약물에 노출된 이력\n- 프로토콜에서 요구하는 회복 기간을 충족하지 못한 이전 항종양 치료 또는 미해결 독성\n- 약물 흡수에 영향을 미칠 수 있는 중증 위장관 질환\n- 임상적으로 유의미한 심혈관 질환 (QTc 연장, 박출률 감소, 심부전 등)\n- 조절되지 않는 대사 질환, 고혈압 또는 활동성 감염\n- 알려진 HIV 감염, 활동성 B형 간염 또는 C형 간염\n- 금지된 병용 약물 사용 (CYP3A4, P-gp, BCRP 등의 강력한 억제제 또는 유도제)",
+  "eligibility_ko": "선정 기준:\n1. 18세 이상의 성인 환자\n2. ECOG 수행능력(ECOG performance status) 0~1\n3. 기대 여명 최소 3개월 이상\n4. 검증된 검사를 통해 MTAP 결손이 조직학적 또는 세포학적으로 확인된 진행성 악성 종양\n5. RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재\n6. 췌장관선암(PDAC) 코호트의 경우, 프로토콜에 명시된 질환 특성 및 이전 치료 요건을 충족하는 진행성 또는 전이성 PDAC\n7. 적절한 골수, 간, 신장, 응고 기능\n\n제외 기준:\n1. MAT2A 또는 PRMT5 경로를 표적 하는 약물에 노출된 이력이 있는 경우\n2. 프로토콜에 정의된 휴약기/회복 요건을 충족하지 않는 이전 항암 치료 또는 미해결 독성\n3. 약물 흡수에 영향을 미칠 수 있는 중증 위장관 질환\n4. 임상적으로 유의미한 심혈관 질환 (QTc 연장, 좌심실 박출률 감소, 중증 심부전 등)\n5. 조절되지 않는 대사 질환, 조절되지 않는 고혈압 또는 활동성 감염\n6. 알려진 HIV 감염, 유의미한 바이러스 증식이 있는 활동성 B형 간염 또는 활동성 C형 간염",
   "eligibility_text": "Inclusion Criteria:\n\n1. Adult participants aged 18 years or older.\n2. ECOG performance status of 0 to 1.\n3. Life expectancy of at least 3 months.\n4. Histologically or cytologically confirmed advanced malignant tumor with MTAP deficiency identified by a validated assay.\n5. At least one measurable lesion according to RECIST version 1.1.\n6. For NSCLC cohorts: advanced or metastatic NSCLC meeting protocol-specified disease characteristics and prior treatment requirements.\n7. For PDAC cohorts: advanced or metastatic PDAC meeting protocol-specified disease characteristics and prior treatment requirements.\n8. Adequate bone marrow, hepatic, renal, and coagulation function.\n9. Willingness to provide tumor tissue and/or undergo protocol-required biomarker testing, if applicable.\n\nExclusion Criteria:\n\n1. Prior exposure to agents targeting the MAT2A or PRMT5 pathway.\n2. Prior antitumor therapy or unresolved toxicities not meeting protocol-defined washout/recovery requirements.\n3. Known actionable driver alterations or prior therapies excluded by the protocol for specific NSCLC cohorts (for example EGFR, ALK, ROS1, BRAF, NTRK, MET, RET, KRAS G12C, HER2, as applicable).\n4. Significant gastrointestinal disorders that may affect drug absorption.\n5. Clinically significant cardiovascular disease, including clinically relevant QTc prolongation, reduced left ventricular ejection fraction, or severe heart failure.\n6. Uncontrolled metabolic disease, uncontrolled hypertension, or active infection.\n7. Known HIV infection, active hepatitis B with significant viral replication, or active hepatitis C infection.\n8. Use of prohibited concomitant medications, including strong inhibitors or inducers of CYP3A4, P-gp, BCRP, or other protocol-specified transporters/enzymes within the required washout period.\n9. Other serious medical or psychiatric conditions that, in the investigator's judgment, would make study participation inappropriate.",
   "enrollment": 258,
   "has_results": false,
@@ -79,22 +80,29 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [
-    "KRAS_G12C",
-    "HER2",
-    "NTRK"
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
    ],
-   "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "활동성 감염",
+    "심장질환 (심부전, QTc 연장 등)",
+    "조절되지 않는 고혈압 또는 대사 질환",
+    "활동성 B형 또는 C형 간염, HIV 감염",
+    "MAT2A 또는 PRMT5 표적 치료 이력"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "MTAP 결손이 확인된 진행성/전이성 췌장암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

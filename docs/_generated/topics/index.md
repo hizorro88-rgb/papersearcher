@@ -21,7 +21,7 @@ search:
 | [olaparib](olaparib.md) | 약물 | 4 | 2026-10-06 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 24 | 2026-10-06 |
 | [FOLFIRINOX](folfirinox.md) | 요법 | 58 | 2026-10-06 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 80 | 2026-10-10 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 81 | 2026-10-10 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
 | [zolbetuximab](zolbetuximab.md) | 약물 | 0 | - |
 | [Whipple](whipple.md) | 시술·수술 | 10 | 2026-10-06 |

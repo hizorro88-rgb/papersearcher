@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly malignant gastrointestinal tumor, and its nutritional intervention strategies remain relatively limited. Ginseng, a representative medicinal herb officially included in China's \"Food and Medicinal Same Origin\" catalogue, is widely used in tea beverages, soups, and functional foods. Its active component, ginsenoside Rb1 (GRB1), derived from the medicine-food homology plant Panax ginseng, has been reported to possess antitumor and immunomodulatory effects, but its role in the PDAC tumor microenvironment remains unclear. This study aims to screen and identify GRB1 from the Chai-Gui-Xiaoji formula containing ginseng, experimentally validate its antitumor mechanism against PDAC, and reveal its potential as a functional food ingredient or nutritional adjuvant derived from ginseng. This work is framed within the medicine-food homology (yao shi tong yuan) paradigm, an ancient philosophy holding that many edible plants possess both nutritional value and bioactive properties, which is increasingly recognized by modern nutritional science as a framework for developing evidence-based functional food ingredients. sUsing ultra-high performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UPLC-Q-TOF-MS) technology, we screened bioactive components from Chaigui Xiaoji Formula (CGXJF) containing ginseng. Combining component analysis, blood absorption component analysis, and network pharmacology target screening, we identified ginsenoside Rb1 (GRB1) as the core candidate. Through target prediction, protein interaction analysis, KEGG enrichment, and molecular docking, we identified the PI3K-AKT signaling pathway as a potential GRB1-related pathway. Pancreatic ductal adenocarcinoma (PDAC) was established through in situ and liver metastasis mouse models, and functional validation was performed using macrophage and patient-derived organoid models. Tumor growth and liver metastasis were evaluated through in situ and liver metastasis models; PI3K/AKT phosphorylation and M2-like macrophage polarization were detected by immunoblotting and other methods. To explore the mechanistic basis of GRB1-related tumor inhibition, we used macrophage function experiments and patient-derived organoid models as complementary functional tools to evaluate the involvement of macrophage regulation. Following the screening logic of the medicine-food homology paradigm, priority was given to orally relevant bioactive constituents derived from edible botanicals with established dietary exposure. Network pharmacology identified 110 shared targets between GRB1 and pancreatic cancer from 587 candidate GRB1 targets and 905 PDAC-related targets; the PPI network contained 491 nodes and 3728 edges, with hub targets including STAT3, AKT1, CASP3, BCL2, HIF1A, MTOR, and NFκB1, and KEGG enrichment locked PI3K-AKT signaling as the priority pathway. In orthotopic and liver metastasis mouse models, GRB1 inhibited tumor growth, reduced Ki67-positive proliferation, decreased liver metastatic burden, lowered Zeb-1 and Vimentin expression, and prolonged survival without obvious toxicity. GRB1 treatment was associated with dose-dependent reductions in PI3K and AKT phosphorylation and reduced M2-like macrophage polarization, as shown by decreased CD206, CD163, ARG1, CD115, and TGFB1; molecular docking suggested possible interactions between GRB1 and AKT1 and PIK3CA. In macrophage models, GRB1 reduced M2-like polarization and PI3K/AKT phosphorylation; conditioned medium from GRB1-treated M2-like macrophages reduced patient-derived organoid growth, and co-injection with GRB1-treated M2-like macrophages reduced metastatic burden in vivo. These findings suggest that GRB1 may modulate the immunosuppressive PDAC microenvironment partly through PI3K-AKT-associated macrophage modulation. An integrated UPLC-Q-TOF-MS and network pharmacology strategy identified GRB1 from the medicine-food homology herb Panax ginseng as the principal anti-PDAC constituent. GRB1 exhibited anti-PDAC efficacy, accompanied by attenuated PI3K-AKT signaling and reduced M2-like macrophage polarization, supporting its development as a ginseng-derived functional food ingredient or nutritional adjuvant for PDAC prevention and supportive care. These findings exemplify how the medicine-food homology paradigm can bridge traditional dietary wisdom with modern nutritional oncology.",
+ "authors": [
+  "Dong CS",
+  "Wang G",
+  "Niu Y",
+  "Sun X",
+  "Ren W",
+  "Zhang J",
+  "Zhang Y",
+  "Wu RX"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42857277",
+ "importance": 0.64,
+ "key_points_ko": [
+  "네트워크 약리학 분석에서 진세노사이드 Rb1과 췌장암 간의 110개 공유 표적이 도출되었으며, 핵심 경로로 PI3K-AKT 신호 전달계가 확인되었습니다.",
+  "췌장암 마우스 동소이식 및 간 전이 모델에서 GRB1은 명백한 독성 없이 종양 성장, 증식 표지자(Ki67) 및 간 전이 부담을 감소시키고 생존 기간을 연장했습니다.",
+  "GRB1은 PI3K 및 AKT 인산화를 억제하고 M2형 대식세포 표지자(CD206, CD163 등)를 감소시켜 환자 유래 오가노이드의 성장을 저해했습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1002/fsn3.72468",
+  "nct": [],
+  "pmcid": "PMC13650271",
+  "pmid": "42857277"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Food Sci Nutr",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42857277/"
+ },
+ "summary_ko": "본 연구는 인삼(Panax ginseng)의 주요 활성 성분인 진세노사이드 Rb1(GRB1)이 췌관선암(PDAC)의 진행에 미치는 항종양 효과와 기전을 전임상 모델을 통해 분석했습니다. 네트워크 약리학 및 분자 도킹 분석을 통해 GRB1의 주요 표적으로 PI3K-AKT 신호 전달 경로를 규명했습니다. 마우스 동소이식 및 간 전이 모델에서 GRB1 투여는 뚜렷한 독성 없이 종양 성장과 간 전이를 억제하고 생존 기간을 연장했습니다. 또한 대식세포 및 환자 유래 오가노이드(organoid) 모델에서 GRB1이 면역 억제성 M2형 대식세포 분극화를 억제하여 항종양 효과를 나타냄을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Ginsenoside Rb1 From the Functional Food Panax ginseng Suppresses Pancreatic Cancer Progression via Macrophage Reprogramming Through the PI3K-AKT Pathway",
+ "title_ko": "인삼 유래 진세노사이드 Rb1의 PI3K-AKT 경로 조절을 통한 대식세포 재프로그래밍 및 췌장암 진행 억제",
+ "trial": null,
+ "type": "paper"
+}

@@ -20,10 +20,9 @@
  "id": "nct:NCT07671937",
  "importance": 0.65,
  "key_points_ko": [
-  "목표 인원은 총 2,748명이며 췌장암, 유방암, 부인암 환자를 대상으로 합니다.",
-  "INSPIRE 중재는 전자 환자 보고 결과(ePROs)를 다학제 종양 위원회(MDTB) 논의에 포함하는 것입니다.",
-  "환자들은 기준선, 3개월, 6개월 시점에 건강, 삶의 질, 치료 선호도 등에 대한 설문조사를 완료합니다.",
-  "연구 결과의 핵심 수치와 효과는 초록에 명시되지 않음."
+  "목표 인원은 총 2,748명입니다.",
+  "췌장암, 유방암, 부인암 환자(모든 병기)가 참여합니다.",
+  "환자는 기저 상태, 3개월, 6개월에 설문을 작성합니다."
  ],
  "last_updated": "2026-10-08",
  "links": {
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07671937"
  },
- "summary_ko": "본 연구는 다학제 종양 위원회(MDTB, multidisciplinary tumor board) 논의 과정에 전자 환자 보고 결과(ePROs, electronic patient-reported outcomes)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인암 환자 2,748명을 대상으로 환자 참여 코호트 관찰 및 무작위 대조 임상시험을 진행합니다. 연구 목적은 환자의 신체 상태와 초기 치료 권고 간의 관계를 파악하고, ePROs가 종양 위원회 논의 내용, 의료진 부담, 치료 결과 및 환자 보고 결과에 미치는 영향을 평가하는 것입니다.",
+ "summary_ko": "본 연구는 다학제 종양 위원회(MDTB) 논의 과정에 전자 환자 보고 결과(ePRO)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인암 환자 2,748명을 대상으로 하며, 초기 관찰 코호트 연구 후 INSPIRE 중재 무작위 대조 시험을 진행합니다. 환자들은 기저 상태, 3개월, 6개월에 건강, 기능, 삶의 질 등에 관한 설문을 완료합니다. 연구진은 의료 기록 검토와 종양 위원회 회의 녹음을 통해 치료 권고, 의료 이용 현황, 환자 보고 결과를 분석합니다.",
  "summary_source": "llm",
  "tags": [
   "PROs",
@@ -59,7 +58,7 @@
   "gynecologic cancers"
  ],
  "title": "INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study",
- "title_ko": "다학제 종양 위원회에서의 체계적인 환자 보고 평가 통합: INSPIRE 연구",
+ "title_ko": "다학제 종양 위원회에서의 체계적 환자 보고 평가 통합: INSPIRE 연구",
  "trial": {
   "conditions": [
    "Breast Cancer",
@@ -80,7 +79,7 @@
     "phone": "2058421632"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상인 환자\n- 진단 후 8주 이내의 췌장암, 유방암, 부인암(모든 병기) 의심 또는 확진 환자\n- 참여 기관에서 치료를 받을 의사가 있는 환자\n- 영어 또는 스페인어로 구두 소통이 가능한 환자\n- 다학제 종양 위원회(MDTB)에서 논의될 예정인 환자\n- 참여 기관의 다학제 종양 위원회에 참여하는 모든 임상진\n\n제외 기준:\n- 참여 기관 외의 장소에서 암 치료를 받을 계획이 있는 개인\n- 영어 또는 스페인어를 구사하지 못하는 개인\n- (임상진의 경우) 참여를 거부(opt-out)하는 경우",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 진단 후 8주 이내에 췌장암, 유방암, 부인암 진단이 의심되거나 확진된 환자 (모든 병기)\n- 참여 기관에서 치료받을 의향이 있는 환자\n- 영어 또는 스페인어로 구두 소통이 가능한 환자\n- 다학제 종양 위원회(MDTB)에서 논의될 예정인 환자\n\n제외 기준:\n- 참여 기관 외의 장소에서 암 치료를 받을 계획이 있는 환자\n- 영어 또는 스페인어로 소통할 수 없는 환자",
   "eligibility_text": "Inclusion/Exclusion Criteria: We will include two populations: (1) patients and (2) clinical team members involved in the MDTB.\n\nInclusion Criteria:\n\n* Inclusions Criteria- Patients:\n\n  1. aged 18 years or older;\n  2. with suspected or confirmed diagnosis of pancreatic, breast, and gynecologic cancer (all stages) within 8 weeks of diagnosis;\n  3. intention to be treated at a participating institution;\n  4. with verbal fluency in English or Spanish; and\n  5. scheduled to be discussed at MDTB.\n* Inclusion criteria - Clinicians:\n\nAll clinical team members participating in the pancreatic, breast, or gynecologic MDTB at a participating site will be included and have pre-emptively agreed to participation.\n\nExclusion Criteria:\n\n* Exclusion criteria - Patients:\n\nIndividuals with plans to receive cancer treatment outside the participating institution and inability to speak English or Spanish.\n\n* Exclusion criteria - Clinician:\n\nClinicians will retain the opportunity to opt-out of participation, in which case their portions of the discussion will not be included in the analysis; however, this is not anticipated based on pilot data.",
   "enrollment": 2748,
   "has_results": false,
@@ -98,15 +97,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "참여 기관 외의 장소에서 암 치료를 받을 계획인 경우",
+    "영어 또는 스페인어로 소통할 수 없는 경우"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "진단 후 8주 이내이며 참여 기관에서 치료받을 예정인 모든 병기의 췌장암, 유방암, 부인암 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced",
+    "resectable",
+    "adjuvant",
+    "neoadjuvant"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

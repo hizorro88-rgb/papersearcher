@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic cystic lesions (PCLs) represent a heterogeneous group ranging from benign cysts to lesions with malignant potential. Despite advances in imaging and endoscopic evaluation, determining which lesions warrant surgical resection remains a major challenge in hepatobiliary and pancreatic surgery. Overtreatment exposes patients to substantial operative morbidity, whereas delayed intervention may permit progression to invasive cancer. Cyst-fluid molecular profiling can improve the classification of mucinous cysts and intraductal papillary mucinous neoplasms and may reduce diagnostic uncertainty during preoperative risk stratification. However, improved diagnostic classification does not necessarily establish an indication for surgery. KRAS and GNAS mutations primarily provide information about cyst identity and should not be interpreted as independent markers of malignant transformation. Conversely, negative molecular findings should not provide reassurance when radiologic or clinical features indicate substantial risk. Molecular results are therefore best considered within a multidimensional framework that incorporates imaging characteristics, cytology, clinical risk factors, patient comorbidities, and operative fitness. Additional alterations associated with advanced neoplasia may further modify risk when interpreted alongside established clinical and radiologic findings. Prospective validation and outcome-based modeling are needed to determine whether molecularly informed management reduces unnecessary surgery, improves detection of clinically significant disease, and ultimately improves patient outcomes.",
+ "authors": [
+  "Gao R",
+  "Gao Y",
+  "Jiao Y",
+  "Liu YH"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42858026",
+ "importance": 0.67,
+ "key_points_ko": [
+  "낭종액의 KRAS 및 GNAS 변이는 낭종의 종류를 확인하는 데 유용하지만, 독립적인 악성화 지표로 해석해서는 안 됩니다.",
+  "영상이나 임상 소견상 악성 위험이 높은 경우 분자 검사 결과가 음성이더라도 안심해서는 안 됩니다.",
+  "분자 프로파일링을 통한 치료 결정이 불필요한 수술을 줄이고 환자 예후를 개선하는지 전향적 검증이 필요합니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.3791/73945",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42858026"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Video-Audio Media",
+  "Review"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Vis Exp",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42858026/"
+ },
+ "summary_ko": "점액성 췌장 낭성 신생물(mucinous pancreatic cystic neoplasms) 및 췌관내 유두상 점액종양(IPMN)에서 수술 여부를 결정하는 것은 여전히 중요한 과제입니다. 낭종액 분자 프로파일링은 낭종 감별 진단의 불확실성을 줄이는 데 도움을 줄 수 있습니다. 그러나 KRAS 및 GNAS 변이는 낭종의 종류를 구분하는 지표일 뿐 악성화 자체를 의미하지 않으므로 수술 적응증으로 바로 연결되지 않습니다. 따라서 유전자 검사 결과는 영상 소견, 세포진, 환자의 동반 질환 및 수술 적합성과 함께 종합적으로 고려되어야 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Molecular Profiling in Mucinous Pancreatic Cystic Neoplasms: Implications for Surgical Decision-Making - A Narrative Review",
+ "title_ko": "점액성 췌장 낭성 신생물의 분자 프로파일링: 수술 결정에 미치는 영향 - 서술적 검토",
+ "trial": null,
+ "type": "paper"
+}

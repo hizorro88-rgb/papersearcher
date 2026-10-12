@@ -20,10 +20,9 @@
  "id": "nct:NCT04751435",
  "importance": 0.67,
  "key_points_ko": [
-  "목표 인원은 총 445명이며, 췌장암, 유방암, 난소암, 전립선암(또는 대장암) 환자가 참여합니다.",
-  "1단계에서는 환자 의견을 반영하여 다국어 교육 자료와 임상 의사소통 자료를 개발합니다.",
-  "2단계는 LCAM 모델과 표준 치료 모델을 비교하는 무작위 임상시험(RCT)으로 진행됩니다.",
-  "2단계의 주요 평가변수는 유전자 검사 결정 만족도와 유전자 상담 만족도입니다."
+  "목표 연구 대상 환자 수는 총 445명입니다.",
+  "2단계 주요 결과 변수는 유전자 검사 결정 만족도 및 유전자 상담 만족도입니다.",
+  "초록에 생존기간이나 반응률 등의 효과 수치는 명시되지 않았습니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04751435"
  },
- "summary_ko": "이 연구는 다양한 언어적, 문화적 배경을 가진 암 환자를 위해 유전자 검사(genetic testing) 교육 자료를 개발하고 평가하기 위해 진행됩니다. 1단계에서는 환자 인터뷰를 통해 기존 교육 자료를 수정 및 보완합니다. 2단계에서는 유전성 암 다유전자 패널 검사(multigene panel testing, MGPT)를 제공하는 LCAM 모델과 표준 치료(standard-of-care) 모델을 비교하는 무작위 임상시험(RCT)을 수행합니다. 목표 인원은 총 445명이며, 췌장암(pancreatic cancer)을 포함한 여러 암 환자가 참여합니다. 주요 평가변수는 유전자 검사 결정 만족도 및 유전자 상담 만족도입니다.",
+ "summary_ko": "이 연구는 유전자 검사(genetic testing)에 대한 새로운 교육 자료를 개발하고, 유전성 암 다유전자 패널 검사(MGPT)를 위한 주류화(LCAM) 모델을 검증하기 위해 진행됩니다. 다양한 문화적, 교육적 배경을 가진 유방암, 난소암, 전립선암, 췌장암 환자 등을 대상으로 합니다. 1단계에서는 교육 자료를 수정 및 보완하고, 2단계에서는 표준 치료(standard-of-care)와 LCAM 모델을 비교하는 무작위 임상시험(RCT)을 수행합니다. 초록에 수치로 된 생존기간이나 반응률은 명시되지 않았으며, 2단계의 주요 결과 변수는 유전자 검사 결정 만족도 및 유전자 상담 만족도입니다.",
  "summary_source": "llm",
  "tags": [
   "Educational Materials",
@@ -59,7 +58,7 @@
   "20-458"
  ],
  "title": "Developing New Educational Materials About Genetic Testing for a Diverse Group of Cancer Patients",
- "title_ko": "다양한 암 환자를 위한 유전자 검사 교육 자료 개발 및 임상시험",
+ "title_ko": "다양한 암 환자를 위한 유전자 검사 교육 자료 개발 및 평가",
  "trial": {
   "conditions": [
    "Educational Materials for Genetic Testing",
@@ -81,7 +80,7 @@
     "phone": "646-888-0039"
    }
   ],
-  "eligibility_ko": "선정 기준 (Phase 1): - 18세 이상 - 유방암, 난소암, 췌장암, 전립선암의 현재 또는 과거 진단 - 흑인, 라틴계, 또는 비흑인/비라틴계 자가 식별 - 영어, 아이티 크레올어, 스페인어 중 유창성 보유 선정 기준 (Phase 2): - 18세 이상 - 유방암, 대장암, 난소암, 췌장암, 전립선암의 현재 또는 과거 진단 및 각 암종별 세부 기준 충족 (췌장암의 경우 췌장 선암종) - 영어, 아이티 크레올어, 스페인어 중 말하기 유창성 보유 - 암 위험에 대한 이전 유전자 상담이나 생식세포 검사 이력이 없음 제외 기준 (Phase 1 및 Phase 2 공통): - 임상의 또는 동의 취득 전문가의 판단에 따라 의사결정 능력이 손상된 개인 - 언어 유창성이 '전혀 아님' 또는 '잘 못함'인 피검자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 췌장암 선암(pancreatic adenocarcinoma)을 포함한 적격 암종의 현재 또는 이전 진단\n- 영어, 아이티 크레올어 또는 스페인어 유창성 보유 (스스로 잘하거나 매우 잘한다고 응답)\n- 2단계의 경우, 이전 암 유전자 상담 또는 생식세포(germline) 유전자 검사 이력이 없음\n\n제외 기준:\n- 임상의 또는 동의 취득 전문가의 판단에 따라 의사 결정 능력이 손상된 개인\n- 언어 유창성이 '전혀 아님' 또는 '잘 못함'인 대상자",
   "eligibility_text": "Inclusion Criteria:\n\nPhase 1\n\n* Age ≥ 18 years as per self-report\n* Current or previous diagnosis of breast, ovarian, pancreatic, or prostate cancer as per self-report\n* Self-identification as Black, Latino, and/or neither Black nor Latino (i.e.,non-Latino, Non black)\n* Fluency in English, Haitian Creole, or Spanish as per self-report (for Spanish, we will attempt to recruit a cohort representing a variety of regions where Spanish is spoken, as informed by current data from participating sites, to achieve neutrality in the language) Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken and reading ability.\n\nPhase 2:\n\n* Age ≥ 18 years as per the medical record and/or clinician referral\n* Current or previous diagnosis of breast, colorectal, ovarian, pancreatic, or prostate cancer meeting at least one of the applicable criteria for the cancer type as per the medical record and/or clinician referral:\n* Breast cancer criteria:\n\n  * any diagnosis age 65 or younger;\n  * diagnosis of triple negative breast cancer at any age;\n  * multiple primary breast cancers at any age;\n  * under consideration for PARP therapy;\n  * any family history (1st, 2nd, or 3rd degree relatives) of ovarian or pancreas cancer, or 1 relative with breast cancer who meets the above criteria, or 2 relatives with breast cancer at any age; or clinician discretion)\n* colorectal cancer\n* Ovarian cancer criteria:\n* invasive ovarian cancer\n* Pancreatic cancer criteria:\n* pancreatic adenocarcinoma\n* Prostate cancer criteria:\n\n  * castrate-resistant, metastatic prostate cancer;\n  * high-risk prostate cancer (pending pathology definition)\n* Fluency in English, Haitian Creole, or Spanish as per self-report. Fluency is defined as an answer of \"well\" or \"very well\" on the screening questions for spoken ability\n* No prior cancer genetic counseling or germline testing for cancer risk as per self-report clinician's note, and/or no clinical documentation\n\nExclusion Criteria:\n\nPhase 1:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".\n\nPhase 2:\n\n* Individuals of impaired decision-making capacity as per a clinician's or consenting professional's judgment.\n* Subjects who indicate level of fluency as \"not at all\" or \"not well\".",
   "enrollment": 445,
   "has_results": false,
@@ -99,17 +98,24 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "의사 결정 능력이 손상된 개인",
+    "지정된 언어 유창성이 부족한 환자"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "이전 유전자 검사나 상담 이력이 없는 췌장암 환자 대상의 교육 및 모델 평가 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced",
+    "resectable",
+    "adjuvant",
+    "neoadjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

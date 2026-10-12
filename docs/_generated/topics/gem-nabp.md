@@ -29,21 +29,21 @@ search:
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](../trials/NCT07705919.md) | 1상/2상 | 모집 중 | - |
 | [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 요법 연구](../trials/NCT07701486.md) | 1상/2상 | 모집 중 | - |
-| [MTAP 결손 진행성 고형암 환자를 대상으로 표준 치료와 HSK41959를 병용하는 제1상 임상시험](../trials/NCT07699757.md) | 1상 | 모집 예정 | - |
+| [MTAP 결손 진행성 고형암 환자에서 HSK41959와 표준 치료 병용 1상 임상시험](../trials/NCT07699757.md) | 1상 | 모집 예정 | - |
 | [국소 진행성 췌장암 환자에서 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-pac…](../trials/NCT07683221.md) | 2상 | 모집 예정 | - |
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
-| [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용요법](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
+| [전이성 췌관선암 환자의 1차 치료로서 아테비메티닙과 젬시타빈+냅-파클리탁셀 병용요법 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [국소 진행성 췌장암 환자에서 전환 치료(conversion therapy)로서 HRS-4642와 AG(nab-paclitax…](../trials/NCT07438106.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 선행화학요법으로서 IBI343 병용요법의 제2상 임상시험](../trials/NCT07415525.md) | 2상 | 모집 예정 | - |
 | [Claudin18.2 양성 췌장암 환자에서 FG-M108과 항암화학요법 대 위약과 항암화학요법을 비교하는 임상시험](../trials/NCT07383922.md) | 3상 | 모집 예정 | - |
 | [진행성 또는 전이성 췌장암 환자에서 OMTX705와 젬시타빈/앱나브-파클리탁셀 및 티슬렐주맙 병용 투여에 관한 임상시험](../trials/NCT07377045.md) | 1상 | 모집 중 | - |
-| [고형암 환자에서 HRS-4642와 다른 항종양 치료법의 병용 임상시험](../trials/NCT07296341.md) | 1상/2상 | 모집 중 | - |
+| [고형암 환자에서 HRS-4642 병용 요법의 안전성, 내인성 및 예비 유효성을 평가하는 임상시험](../trials/NCT07296341.md) | 1상/2상 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용 투여 임상시험](../trials/NCT07259317.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료로서 리포조말 이리노테칸(irinotecan hydrochloride liposome injectio…](../trials/NCT07238283.md) | 3상 | 모집 중 | - |
@@ -99,9 +99,9 @@ search:
 | [복막 전이가 있는 췌장암 치료를 위한 복강내 온열 항암화학요법(HIPEC) 제2상 임상시험](../trials/NCT04858009.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
-| [위장관·췌장 및 원발 부위 불명 전이성 3등급 저분화 신경내분비암(NEC)에 대한 화학요법](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
+| [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 
-## 타임라인 (1)
+## 타임라인 (2)
 
 <a id="pmid-42831115"></a>
 #### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
@@ -117,5 +117,20 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42857438"></a>
+#### [췌장선암종의 초기 증상으로 나타난 두피 전이: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42857438/)
+<small>Scalp Metastasis as the Initial Presentation of Pancreatic Adenocarcinoma: A Case Report and Review of the Literature</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-09-09 · PubMed · Cureus · 중요도 0.54
+
+췌관선암종(PDAC)의 피부 전이는 매우 드물며 그중 두피 전이는 극히 이례적인 증상입니다. 본 논문은 통증 없는 두피 결절과 체중 감소를 주소로 내원하여 췌장암 4기(두피, 간 및 림프절 전이)로 진단받은 71세 여성의 사례를 보고했습니다. 환자의 두피 결절에 대한 면역조직화학 분석과 전신 전산화단층촬영(CT)을 통해 췌장 체부의 원발암을 확인했습니다. 이후 환자는 gemcitabine(젬시타빈)과 nab-paclitaxel(납-파클리탁셀) 병용 고식적 항암치료를 시작하였으며, 4개월 추적 관찰에서 영상학적 질병 안정 상태를 유지했습니다.
+
+- 통증 없는 두피 결절을 초기 증상으로 내원한 71세 여성 환자가 췌장암 4기로 최종 진단되었습니다.
+- 두피 결절 조직검사 및 면역조직화학 검사(CK7/CK19 양성 등)를 통해 췌장 기원의 전이임을 확인했습니다.
+- 환자는 gemcitabine과 nab-paclitaxel 병용 항암화학요법을 받았으며, 4개월 추적 관찰 시 영상학적으로 질병 안정(SD)을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857438/) · [DOI](https://doi.org/10.7759/cureus.116015) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13652551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857438)</small>
 
 ---

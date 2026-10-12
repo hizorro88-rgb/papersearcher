@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits profound stromal heterogeneity that influences tumor progression, recurrence risk, and therapeutic response; however, stromal phenotypes are currently assessed by postoperative histopathology. Here, we developed a super-resolution MRI (srMRI)-based radiomics model to enable noninvasive tumor-stroma ratio (TSR) phenotyping in PDAC. Using multicenter cohorts comprising 737 patients, we constructed a srMRI-derived TSR-radscore capable of predicting pathological TSR with high accuracy (AUC = 0.870 and 0.791 in training and external validation cohorts). The TSR-radscore independently stratified recurrence-free survival and, when integrated with clinicopathological variables, improved early recurrence prediction in an independent surgical cohort. In a locally advanced PDAC cohort, srMRI-derived TSR was associated with distinct therapeutic outcomes, with H-TSR tumors showing improved survival under systemic therapy and an association with outcomes following immune checkpoint inhibitor-based combination therapy. Transcriptomic analyses revealed that L-TSR tumors were enriched in extracellular matrix remodeling and TGF-β-related signaling pathways. Single-cell profiling further uncovered distinct cancer-associated fibroblast and T-cell states across TSR phenotypes, linking imaging-derived TSR patterns to underlying stromal and immune microenvironmental programs. Collectively, srMRI-derived TSR phenotyping provides a noninvasive and biologically interpretable biomarker for stromal characterization in PDAC, enabling improved recurrence-risk stratification and pre-treatment clinical assessment.",
+ "authors": [
+  "Wang X",
+  "Xie Z",
+  "Li H",
+  "Tang Q",
+  "Zhou J",
+  "Huang J",
+  "Fang S",
+  "Li D"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42856962",
+ "importance": 0.77,
+ "key_points_ko": [
+  "초고해상도 MRI 기반 모델은 병리학적 종양-기질 비율을 높은 정확도(훈련 코호트 AUC 0.870, 외부 검증 코호트 AUC 0.791)로 예측했습니다.",
+  "이 모델은 737명의 다기관 환자 코호트를 바탕으로 개발 및 검증되어 조기 재발 위험 예측을 개선했습니다.",
+  "국소 진행성 췌장암 환자 중 종양 비율이 높은(H-TSR) 군은 전신 치료 및 면역치료 병용 시 더 나은 생존 결과를 보였습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.1002/mco2.71039",
+  "nct": [],
+  "pmcid": "PMC13650606",
+  "pmid": "42856962"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "MedComm (2020)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856962/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 종양-기질 비율(TSR)은 기존에 수술 후 조직검사로만 평가할 수 있었습니다. 연구팀은 737명의 다기관 코호트 데이터를 활용하여 초고해상도 MRI(srMRI) 영상 기반으로 종양-기질 비율을 비침습적으로 예측하는 인공지능 모델(TSR-radscore)을 개발했습니다. 이 모델은 수술 후 무재발 생존기간과 조기 재발 위험을 유의미하게 구분해 냈습니다. 또한 국소 진행성 췌장암 환자에서 높은 TSR(H-TSR)을 가진 환자가 전신 항암치료 및 면역관문억제제 병용요법에서 더 우수한 생존기간을 보임을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Super-Resolution MRI-Derived Tumor-Stroma Ratio Phenotyping for Prognostic and Therapeutic Stratification in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "초고해상도 MRI 기반 종양-기질 비율 분석을 통한 췌관선암의 예후 및 치료 반응 예측",
+ "trial": null,
+ "type": "paper"
+}

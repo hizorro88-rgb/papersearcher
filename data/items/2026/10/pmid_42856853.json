@@ -1,0 +1,60 @@
+{
+ "abstract": "OBJECTIVE: To evaluate the clinical diagnostic value of serum tumor markers (CEA and CA19‑9) and other blood‑based indicators in patients with advanced pancreatic cancer, and to assess their prognostic significance.\nMETHODS: A retrospective analysis of 136 patients with advanced pancreatic cancer was conducted. Preoperative blood test results and peripheral immune cell counts, clinical characteristics, and survival data were collected. Univariate and multivariate Cox regression analyses were performed, and overall survival (OS) was assessed using the Kaplan-Meier method.\nRESULTS: ROC analysis showed good diagnostic accuracy for CA19‑9 (AUC = 0.886; optimal cutoff 37.44 U/mL) and CEA (AUC = 0.858; optimal cutoff 7.16 ng/mL). During follow‑up, 98 deaths occurred. Univariate analysis identified lymph node metastasis, elevated LDH, ALP, CA19‑9, CEA, CA125, CRP, NLR, and decreased LMR and albumin as significant risk factors for OS. Multivariate analysis revealed that elevated CA19‑9 (HR = 2.059, 95% CI: 1.185-3.576, P = 0.010) was an independent risk factor for survival, whereas CEA was not (HR = 1.309, P = 0.266). No significant differences were observed between CA19‑9 groups in tumor stage or metastasis (all P > 0.05), except for a borderline difference in tumor size (P = 0.078). For CEA groups, no clinicopathological variable differed significantly (all P > 0.05). Kaplan-Meier analysis showed significantly lower OS in patients with CA19‑9 ≥ 37.44 U/mL or CEA ≥ 7.16 ng/mL (log‑rank P = 0.0004 and P = 0.006, respectively).\nCONCLUSIONS: Preoperative serum CA19‑9 is an independent prognostic factor and a valuable diagnostic biomarker in advanced pancreatic cancer. CEA shows diagnostic potential but is not an independent prognostic factor after adjusting for CA19‑9.",
+ "authors": [
+  "Song J",
+  "Kang F",
+  "Ma L",
+  "Zhang A",
+  "Yang F",
+  "Liu Q"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-12",
+ "history": [
+  {
+   "date": "2026-10-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42856853",
+ "importance": 0.68,
+ "key_points_ko": [
+  "진단 정확도(AUC)는 CA19-9가 0.886(기준값 37.44 U/mL), CEA가 0.858(기준값 7.16 ng/mL)로 두 지표 모두 양호했습니다.",
+  "다변량 분석에서 CA19-9 상승은 생존에 대한 독립적 위험 인자였으나(위험비 2.059, p = 0.010), CEA는 독립적 위험 인자가 아니었습니다(위험비 1.309, p = 0.266).",
+  "카플란-마이어 분석 결과 CA19-9 37.44 U/mL 이상 또는 CEA 7.16 ng/mL 이상인 환자군에서 전반적 생존기간이 유의하게 짧았습니다."
+ ],
+ "last_updated": "2026-10-12",
+ "links": {
+  "doi": "10.3389/fonc.2026.1893201",
+  "nct": [],
+  "pmcid": "PMC13649417",
+  "pmid": "42856853"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-25",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856853/"
+ },
+ "summary_ko": "진행성 췌장암 환자 136명을 대상으로 혈청 종양 표지자인 CEA와 CA19-9 및 혈액 기반 지표들의 진단적 가치와 예후를 후향적으로 분석했습니다. 진단 정확도 분석 결과 CA19-9와 CEA 모두 우수한 정확도를 보였습니다. 추적 관찰 기간 동안 98명이 사망했으며, 다변량 분석 결과 CA19-9 수치 상승만이 전반적 생존기간(OS)에 영향을 미치는 독립적인 위험 인자로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical diagnostic value of serum CEA and CA19-9 in patients with advanced pancreatic cancer: A prognostic cohort study",
+ "title_ko": "진행성 췌장암 환자에서 혈청 CEA 및 CA19-9의 임상적 진단 가치: 예후 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}
