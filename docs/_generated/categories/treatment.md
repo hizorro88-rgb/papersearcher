@@ -16,12 +16,86 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 394건 · 최근 30일 394건
+전체 399건 · 최근 30일 399건
 
 월별 보기: [2026-10](treatment/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42862523"></a>
+#### [경계성 절제 가능 췌장암에서 티스렐리주맙과 젬시타빈·납-파클리탁셀 병용 요법의 효능 및 내성 분석: 전향적 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42862523/)
+<small>Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study</small>
+
+`논문` `2상` `신약·치료제` `임상시험` `수술` `치료 전반` · 2026-10-12 · PubMed · Ann Surg Oncol · 중요도 0.78
+
+경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 수술 전 티스렐리주맙(tislelizumab)과 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 요법의 타당성을 평가한 전향적 연구입니다. 등록된 30명의 환자 중 24명(80.0%)이 수술 전 3주기 치료를 마치고 수술을 진행했습니다. 수술을 받은 환자 24명 전원(100%)에서 완전 절제(R0 resection)를 달성했습니다. 치료 관련 부작용은 대부분 1~2등급으로 경미했으며 심각한 이상반응은 관찰되지 않았습니다.
+
+- 등록 환자 30명 중 80.0%(24명)가 수술을 받았으며 수술 환자의 R0 절제율은 100%(24/24명)였습니다.
+- 12개월 전체 생존율(OS)은 87.5%, 12개월 무재발 생존율(RFS)은 82.8%였으며 중앙 무재발 생존기간은 28개월이었습니다.
+- 단백체 분석을 통해 NT5DC2, FAM3D, CXCL5, TMT1B가 선행항암요법 저항성과 연관된 바이오마커 후보로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862523/) · [DOI](https://doi.org/10.1245/s10434-026-20711-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862523)</small>
+
+---
+<a id="pmid-42860496"></a>
+#### [ASO 시각적 초록: 국소 췌장암에서 전체 생존기간에 대한 대리 평가변수로서의 무진행 생존기간 평가: 대서양 횡단 췌장 수술 컨소시엄 연구](https://pubmed.ncbi.nlm.nih.gov/42860496/)
+<small>ASO Visual Abstract: Evaluation of Progression-Free Survival as a Surrogate Endpoint for Overall Survival in Localized Pancreatic Cancer: Trans-Atlantic Pancreatic Surgery Consortium Study</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-10-11 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+본 논문은 국소 췌장암 환자에서 무진행 생존기간(PFS)이 전체 생존기간(OS)을 대체할 수 있는 대리 평가변수(surrogate endpoint)로 유효한지 평가한 대서양 횡단 췌장 수술 컨소시엄의 연구입니다. 제공된 정보는 시각적 초록(Visual Abstract)의 제목뿐이며, 구체적인 연구 내용과 결과 수치는 초록에 명시되지 않았습니다. 상세한 분석 결과와 결론은 원문 확인이 필요합니다.
+
+- 국소 췌장암에서 무진행 생존기간(PFS)이 전체 생존기간(OS)의 대리 평가변수로 적합한지 평가한 연구입니다.
+- 구체적인 분석 수치 및 결론은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860496/) · [DOI](https://doi.org/10.1245/s10434-026-20742-w) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860496)</small>
+
+---
+<a id="pmid-42861545"></a>
+#### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
+<small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `신약·치료제` `임상시험` · 2026-10-12 · PubMed · J Surg Oncol · 중요도 0.73
+
+네덜란드에서 2016년부터 2020년까지 췌관선암(PDAC) 수술을 받은 환자 161명을 대상으로 수술 후 보조항암요법(adjuvant chemotherapy)의 실제 치료 성적을 분석했습니다. (m)FOLFIRINOX 치료군의 전체 생존기간(OS) 중앙값은 29개월이었으며, 보조요법을 받지 않은 군은 13개월, gemcitabine(젬시타빈) 단독군은 21개월, gemcitabine 병용군은 28개월이었습니다. 기존 3상 임상시험(PRODIGE 24)에서 보고된 55개월 수준의 긴 생존 연장 효과는 실제 환자 코호트에서 관찰되지 않았습니다. 또한 실제 임상 환경에서 (m)FOLFIRINOX와 gemcitabine 병용요법 간의 생존기간 차이는 통계적으로 유의하지 않았습니다.
+
+- 수술 후 (m)FOLFIRINOX 투여군의 전체 생존기간 중앙값은 29개월로, 무치료군(13개월) 대비 사망 위험을 유의하게 낮췄습니다(HR 0.26, p<0.01).
+- (m)FOLFIRINOX는 gemcitabine 단독 요법(HR 0.62, p=0.14) 및 gemcitabine 병용 요법(HR 0.66, p=0.20)과 비교했을 때 통계적으로 유의한 생존기간 차이를 보이지 못했습니다.
+- 기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861545/) · [DOI](https://doi.org/10.1002/jso.70391) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861545)</small>
+
+---
+<a id="pmid-42862406"></a>
+#### [췌장암 세포에서 SREBF1 발현과 지질 대사 관련 특성의 연관성 및 일시적 SREBF1 억제 시 세포 사멸 증가](https://pubmed.ncbi.nlm.nih.gov/42862406/)
+<small>SREBF1 expression is associated with lipid metabolism-related signatures, and transient SREBF1 silencing is accompanied by increased apoptosis in pancreatic cancer cells</small>
+
+`논문` `전임상` `기초연구` `치료 전반` · 2026-10-12 · PubMed · Mol Biol Rep · 중요도 0.64
+
+췌관선암(PDAC)에서 지질 생성을 조절하는 전사인자를 암호화하는 SREBF1 유전자의 발현과 기능을 평가한 기초 연구입니다. 유전체 데이터 분석을 통해 정상 조직에 비해 췌장암 조직에서 SREBF1 발현이 유의하게 증가해 있으며 지방산 대사 경로와 연관됨을 확인했습니다. 췌장암 세포주 실험에서는 SREBF1을 억제했을 때 지질 합성 관련 단백질인 FASN이 감소하고 암세포 사멸이 증가하는 결과가 관찰되었습니다. 연구진은 SREBP1 관련 지질 대사가 췌장암의 잠재적 취약점 후보일 수 있으나 직접적인 치료 효능 확인을 위해서는 추가 검증이 필요하다고 밝혔습니다.
+
+- 정상 조직 대비 췌장암 조직에서 SREBF1 유전자 발현이 통계적으로 유의하게 높았습니다(TCGA/GTEx P < 0.0001, GSE62452 P < 0.05, GSE183795 P < 0.01).
+- SREBF1 발현이 높은 종양은 지방산 대사 및 콜레스테롤 항상성 관련 경로 점수가 유의하게 높았습니다.
+- 췌장암 세포주(BxPC-3, SW1990)에서 SREBF1 발현을 일시적으로 억제하자 FASN 단백질 감소와 함께 아넥신 V(Annexin V) 양성 세포 사멸이 증가했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862406/) · [DOI](https://doi.org/10.1007/s11033-026-12901-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862406)</small>
+
+---
+<a id="pmid-42860670"></a>
+#### [편집자에게 보내는 서한: 절제술을 받은 췌장암에서 자연 치아 수와 구치부 교합의 독립적 예후 가치에 대한 방법론적 우려](https://pubmed.ncbi.nlm.nih.gov/42860670/)
+<small>Letter to the Editor. Re: Independent Prognostic Value of Natural Tooth Count Versus Posterior Teeth Occlusion in Resected Pancreatic Cancer: Methodological Concerns</small>
+
+`논문` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-10-11 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.60
+
+본 논문은 절제술을 받은 췌장암 환자에서 자연 치아 수와 어금니 맞물림(구치부 교합)의 독립적 예후 가치를 분석한 기존 연구에 대한 서한(Letter)입니다. 저자들은 선행 연구의 방법론적 문제점과 한계에 대해 논의를 제기했습니다. 상세한 논의 내용과 구체적인 연구 수치는 본문에 명시되지 않았습니다.
+
+- 절제술을 받은 췌장암 환자의 치아 상태 및 예후 관련 선행 연구에 대한 방법론적 우려를 다룬 서한입니다.
+- 자연 치아 수와 구치부 교합의 예후적 가치 평가 방식에 대한 학술적 의견이 제시되었습니다.
+- 구체적인 분석 수치 및 세부 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860670/) · [DOI](https://doi.org/10.1002/jhbp.70204) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860670)</small>
+
+---
 <a id="nct-nct07867873"></a>
 #### [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT07867873)
 <small>Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy</small>
@@ -71,21 +145,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856962/) · [DOI](https://doi.org/10.1002/mco2.71039) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650606/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856962)</small>
 
 ---
-<a id="pmid-42857319"></a>
-#### [페롭토시스와 쿠프로프토시스 상호작용 기반 췌장암 연구 동향 (종설)](https://pubmed.ncbi.nlm.nih.gov/42857319/)
-<small>Research progress of pancreatic cancer based on ferroptosis-cuproptosis interaction (Review)</small>
-
-`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-09-24 · PubMed · Oncol Lett · 중요도 0.68
-
-이 종설 논문은 췌관선암종(PDAC)에서 철 의존성 세포사멸인 페롭토시스(ferroptosis)와 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 상호작용 기전을 정리했습니다. KRAS 변이로 인한 대사 재프로그래밍으로 인해 췌장암은 금속 이온 항상성과 항산화 시스템에 크게 의존합니다. 두 세포사멸 경로는 글루타티온, 미토콘드리아, 삼카르복실산(TCA) 회로 등을 매개로 상호작용하며 종양미세환경과 약물 내성에 영향을 미칩니다. 저자들은 이 두 금속 의존성 세포사멸을 복합적으로 조절하는 치료 전략이 췌장암의 새로운 치료법 개발을 위한 이론적 근거를 제공한다고 설명했습니다.
-
-- KRAS 변이를 지닌 췌관선암종은 금속 이온 항상성 및 항산화 시스템에 대한 의존성이 높아 페롭토시스와 쿠프로프토시스의 표적이 될 수 있습니다.
-- 페롭토시스와 쿠프로프토시스는 글루타티온, 미토콘드리아, 철-황 클러스터, GPX4 등의 핵심 인자를 통해 서로 상호작용합니다.
-- 종양미세환경 요인 및 약물 내성 극복을 위해 두 금속 의존성 세포사멸 경로를 함께 조절하는 시너지 치료 전략의 가능성을 제시했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857319/) · [DOI](https://doi.org/10.3892/ol.2026.15883) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650453/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857319)</small>
-
----
 <a id="pmid-42856853"></a>
 #### [진행성 췌장암 환자에서 혈청 CEA 및 CA19-9의 임상적 진단 가치: 예후 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42856853/)
 <small>Clinical diagnostic value of serum CEA and CA19-9 in patients with advanced pancreatic cancer: A prognostic cohort study</small>
@@ -99,6 +158,21 @@ search:
 - 카플란-마이어 분석 결과 CA19-9 37.44 U/mL 이상 또는 CEA 7.16 ng/mL 이상인 환자군에서 전반적 생존기간이 유의하게 짧았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856853/) · [DOI](https://doi.org/10.3389/fonc.2026.1893201) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13649417/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856853)</small>
+
+---
+<a id="pmid-42857319"></a>
+#### [페롭토시스와 쿠프로프토시스 상호작용 기반 췌장암 연구 동향 (종설)](https://pubmed.ncbi.nlm.nih.gov/42857319/)
+<small>Research progress of pancreatic cancer based on ferroptosis-cuproptosis interaction (Review)</small>
+
+`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-09-24 · PubMed · Oncol Lett · 중요도 0.68
+
+이 종설 논문은 췌관선암종(PDAC)에서 철 의존성 세포사멸인 페롭토시스(ferroptosis)와 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 상호작용 기전을 정리했습니다. KRAS 변이로 인한 대사 재프로그래밍으로 인해 췌장암은 금속 이온 항상성과 항산화 시스템에 크게 의존합니다. 두 세포사멸 경로는 글루타티온, 미토콘드리아, 삼카르복실산(TCA) 회로 등을 매개로 상호작용하며 종양미세환경과 약물 내성에 영향을 미칩니다. 저자들은 이 두 금속 의존성 세포사멸을 복합적으로 조절하는 치료 전략이 췌장암의 새로운 치료법 개발을 위한 이론적 근거를 제공한다고 설명했습니다.
+
+- KRAS 변이를 지닌 췌관선암종은 금속 이온 항상성 및 항산화 시스템에 대한 의존성이 높아 페롭토시스와 쿠프로프토시스의 표적이 될 수 있습니다.
+- 페롭토시스와 쿠프로프토시스는 글루타티온, 미토콘드리아, 철-황 클러스터, GPX4 등의 핵심 인자를 통해 서로 상호작용합니다.
+- 종양미세환경 요인 및 약물 내성 극복을 위해 두 금속 의존성 세포사멸 경로를 함께 조절하는 시너지 치료 전략의 가능성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857319/) · [DOI](https://doi.org/10.3892/ol.2026.15883) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650453/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857319)</small>
 
 ---
 <a id="pmid-42859340"></a>
@@ -476,6 +550,23 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854340/) · [DOI](https://doi.org/10.1016/j.ctarc.2026.101468) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854340)</small>
 
 ---
+<a id="nct-nct07261631"></a>
+#### [진행성 고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](https://clinicaltrials.gov/study/NCT07261631)
+<small>Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` · 2025-12-03 · ClinicalTrials.gov · Novartis Pharmaceuticals · 중요도 0.73
+
+**NCT07261631** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07261631.md)
+
+이 연구는 췌관선암(PDAC)을 포함한 진행성 고형암 환자를 대상으로 방사성 리간드 치료제인 [177Lu]Lu-DFC413의 안전성, 내약성, 흡수선량 및 예비 효능을 평가하는 1상 임상시험입니다. 환자들은 먼저 동반 진단용 표지자인 [68Ga]Ga-NNS309를 이용한 PET 영상 검사를 받아 치료 대상 여부를 평가받습니다. 검사상 적합한 환자는 [177Lu]Lu-DFC413 치료를 받게 되며 용량 증량 및 암종별 용량 확장 코호트가 진행됩니다.
+
+- 노바티스(Novartis)가 주도하는 최초 인체 대상(FIH) 1상 임상시험으로 총 180명의 고형암 환자를 모집할 예정입니다.
+- 이전 세포독성 항암화학요법에 질병이 진행했거나 불내성을 보인 국소 진행성 절제 불가능 또는 전이성 췌관선암 환자가 참여 대상에 포함됩니다.
+- 영상 검사에서 68Ga-NNS309 섭취를 보이는 병변이 확인되어야 [177Lu]Lu-DFC413 투여가 가능합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07261631) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07261631)</small>
+
+---
 <a id="nct-nct00720785"></a>
 #### [자연살해세포(NK 세포)와 bortezomib을 이용한 암 치료 임상시험](https://clinicaltrials.gov/study/NCT00720785)
 <small>Natural Killer Cells and Bortezomib to Treat Cancer</small>
@@ -508,23 +599,6 @@ search:
 - 고위험군 환자에서 선행화학요법(NAT)을 시행했을 때 전체 생존기간(OS)이 17.4개월에서 34.1개월로 유의하게 증가했습니다(p < 0.001).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844287/) · [DOI](https://doi.org/10.1038/s41467-026-77665-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13646268/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844287)</small>
-
----
-<a id="nct-nct07261631"></a>
-#### [고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](https://clinicaltrials.gov/study/NCT07261631)
-<small>Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` · 2025-12-03 · ClinicalTrials.gov · Novartis Pharmaceuticals · 중요도 0.64
-
-**NCT07261631** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07261631.md)
-
-이 연구는 고형암(Solid Tumors) 환자를 대상으로 [177Lu]Lu-DFC413의 안전성, 내약성, 선량 측정 및 예비 유효성을 평가하기 위한 임상 1상 시험입니다. 췌장관상피내암(Pancreatic Ductal Adenocarcinoma, PDAC)을 포함한 여러 고형암 환자가 대상입니다. 환자들은 먼저 [68Ga]Ga-NNS309 양전자 방출 단층촬영(PET)/컴퓨터 단층촬영(CT) 또는 자기공명영상(MRI) 스캔을 거쳐 치료 적격성을 평가받습니다. 용량 증량(Dose escalation) 및 용량 확장(Dose expansion) 단계로 진행되며 목표 인원은 180명입니다.
-
-- 목표 인원은 180명의 고형암 환자입니다.
-- 중재 약물로 68Ga-NNS309와 177Lu-DFC413이 사용됩니다.
-- 초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07261631) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07261631)</small>
 
 ---
 <a id="pmid-42853717"></a>
@@ -2446,92 +2520,5 @@ PANThEON 임상시험은 수술 불가 국소진행성 또는 전이성 췌관�
 - 대조군은 추가 항암 치료 후 수술을 받으며, 시험군은 추가 항암 치료와 고선량 정위체부방사선치료(iHD-SBRT) 후 수술을 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05083247) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05083247)</small>
-
----
-<a id="nct-nct05132504"></a>
-#### [수술 가능 췌장암 환자를 위한 펨브롤리주맙 병용 선행화학요법(FOLFIRINOX) 후 수술](https://clinicaltrials.gov/study/NCT05132504)
-<small>Neoadjuvant Folfirinox Combined With Pembrolizumab Followed by Surgery for Patients With Resectable Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-11-24 · ClinicalTrials.gov · Baylor College of Medicine · 중요도 0.80
-
-**NCT05132504** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05132504.md)
-
-이 연구는 국소적이고 수술 가능한(resectable) 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 선행화학요법으로 FOLFIRINOX(폴피리녹스)와 pembrolizumab(펨브롤리주맙)을 병용 투여한 뒤 수술을 시행하고, 수술 후 보조치료로 5FU 기반 항암화학요법과 pembrolizumab(펨브롤리주맙)을 추가 투여하는 2상 임상시험입니다. 연구진은 수술 전 FOLFIRINOX와 면역관문억제제 병용이 안전하고 타당하며, 수술로 절제한 췌장 종양 내 면역세포를 증가시켜 임상적 반응을 향상시킬 것으로 가정합니다. 목표 환자 수는 30명이며 참여 기간은 약 16개월입니다.
-
-- 목표 환자 수는 30명의 수술 가능 췌장암 환자입니다.
-- 수술 전 6주기 FOLFIRINOX와 2주기의 pembrolizumab(펨브롤리주맙)을 투여합니다.
-- 수술 후 최대 6주기의 5FU 기반 항암화학요법과 7주기의 pembrolizumab(펨브롤리주맙)을 추가로 투여합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05132504) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05132504)</small>
-
----
-<a id="nct-nct05218889"></a>
-#### [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-1) 병용 요법에 대한 임상시험](https://clinicaltrials.gov/study/NCT05218889)
-<small>Surufatinib Plus Camrelizumab and AS in First Line Treatment of Advanced Metastatic Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2022-02-01 · ClinicalTrials.gov · Chinese PLA General Hospital · 중요도 0.80
-
-**NCT05218889** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05218889.md)
-
-이 연구는 수술 불가능한 진행성 또는 전이성 췌장암 환자를 대상으로 surufatinib, camrelizumab, 그리고 AS(nab-paclitaxel 및 S-1) 병용 요법의 유효성과 안전성을 AG(nab-paclitaxel 및 gemcitabine) 요법과 비교하여 평가하기 위해 설계되었습니다. 췌장암 환자에게 항암화학요법은 여전히 주된 치료법이며, 본 시험은 1차 치료로서 새로운 병용 요법의 효과를 탐색합니다. 본 전향적, 무작위 대조 제1b/2상 임상시험은 중국에서 진행 중이며 목표 인원은 90명입니다.
-
-- 목표 인원은 90명입니다.
-- 대상 질환은 수술 불가능한 진행성 또는 전이성 췌장선암입니다.
-- 비교 군인 AG 요법과 비교하여 surufatinib, camrelizumab, AS 병용 요법의 1차 치료 효과와 안전성을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05218889) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05218889)</small>
-
----
-<a id="nct-nct05241249"></a>
-#### [췌장선암에서 젬시타빈 및 냅-파클리탁셀과 베탄에콜 병용 요법에 대한 연구](https://clinicaltrials.gov/study/NCT05241249)
-<small>Stimulation With Bethanechol in Combination With Gemcitabine and Nab-paclitaxel in Pancreatic Adenocarcinoma</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2022-02-15 · ClinicalTrials.gov · Susan E. Bates · 중요도 0.80
-
-**NCT05241249** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05241249.md)
-
-이 연구는 췌장선암 환자를 대상으로 항암제 gemcitabine(젬시타빈)과 nab-paclitaxel(냅-파클리탁셀)에 bethanechol(베탄에콜)을 함께 투여하는 임상시험입니다. 주요 목적은 베탄에콜 치료가 완전 절제인 R0 절제율에 미치는 영향을 평가하는 것입니다. 또한 약물의 안전성과 내인성을 확인하고, 부교감신경 자극과 관련된 유전체 바이오마커 및 종양 성장 억제 효과를 평가합니다. 동물 모델에서는 베탄에콜이 암의 성장과 확산을 억제하는 효과를 보였습니다.
-
-- 목표 인원은 37명이며, 2상 임상시험으로 진행됩니다.
-- 주요 평가지표는 베탄에콜 치료가 R0 절제율에 미치는 영향 평가입니다.
-- gemcitabine과 nab-paclitaxel 항암 화학요법에 bethanechol을 병용합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05241249) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05241249)</small>
-
----
-<a id="nct-nct05451043"></a>
-#### [진행성 간췌담도암 환자를 대상으로 한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상 임상시험](https://clinicaltrials.gov/study/NCT05451043)
-<small>Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2022-07-11 · ClinicalTrials.gov · AHS Cancer Control Alberta · 중요도 0.80
-
-**NCT05451043** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05451043.md)
-
-본 임상시험은 진행성 췌장암, 간암, 담도암 환자를 대상으로 면역항암제인 durvalumab(두르발루맙)과 tremelimumab(트레멜리무맙), 베타차단제인 propranolol(프로프라놀롤), 그리고 항암화학요법의 병용 치료 효과와 안전성을 평가합니다. 췌장암 코호트에서는 두르발루맙, 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 프로프라놀롤, 트레멜리무맙을 병용 투여합니다. 총 62명의 환자를 목표로 모집하며 단일군 중재 연구로 진행됩니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.
-
-- 진행성 간췌담도암 환자 62명을 대상으로 하는 2상 임상시험입니다.
-- 면역항암제(durvalumab, tremelimumab), 혈압약 계열인 propranolol, 그리고 항암화학요법을 함께 투여합니다.
-- 치유 목적의 국소 치료나 수술이 불가능한 진행성 췌관선암, 간세포암, 담도암 환자가 참여 대상입니다.
-- 전체 생존기간이나 객관적 반응률 등의 효능 결과는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
-
----
-<a id="nct-nct05462496"></a>
-#### [수술 가능 췌장암에서 항암화학요법 이후 항생제와 pembrolizumab을 이용한 장내 미생물 조절](https://clinicaltrials.gov/study/NCT05462496)
-<small>Modulation of the Gut Microbiome With Pembrolizumab Following Chemotherapy in Resectable Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2022-07-18 · ClinicalTrials.gov · Icahn School of Medicine at Mount Sinai · 중요도 0.80
-
-**NCT05462496** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05462496.md)
-
-이 임상시험은 수술이 가능한(resectable) 췌장암 환자 25명을 대상으로 FOLFIRINOX 항암화학요법 이후 항생제(ciprofloxacin, metronidazole)와 면역관문억제제인 pembrolizumab(펨브롤리주맙)을 수술 전에 병용 투여하는 2상 파일럿 연구입니다. 주요 목적은 항생제와 pembrolizumab 치료 후 췌장 종양 조직 내 면역 활성화 변화를 확인하는 것입니다. 이차 및 탐색적 목적을 통해 수술 전 병용 치료의 안전성, 타당성, 예비 항종양 효과, 그리고 장내 미생물 고갈 및 면역 반응 간의 상관관계 등을 평가합니다. 환자들은 항암 치료 후 항생제와 pembrolizumab을 투여받고 최종 수술적 절제를 받게 됩니다.
-
-- 목표 환자 수는 총 25명이며, 다기관 공개 단일군 파일럿 연구로 진행됩니다.
-- 주요 평가지표는 T 세포 표지자(HLA-DR, CD38, CD25, KI67, CD69 중 하나 이상)의 20% 이상 발현 증가로 정의되는 면역 반응 달성 여부입니다.
-- 이차 평가지표에는 이상반응(CTCAE v5.0 기준), R0 절제율, 조직학적 퇴행 점수, 객관적 반응률(ORR), 전체 생존율(OS)이 포함됩니다.
-- 시험 치료는 ciprofloxacin 및 metronidazole 항생제, pembrolizumab 면역치료, 그리고 FOLFIRINOX(5-FU, leucovorin, irinotecan, oxaliplatin) 항암화학요법으로 구성됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05462496) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05462496)</small>
 
 ---

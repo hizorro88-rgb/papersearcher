@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PAAD) is characterized by extreme malignancy and profound resistance to therapy, largely driven by a fibrotic and immunosuppressive tumour microenvironment (TME). The deubiquitinase OTU domain-containing protein 7B (OTUD7B) has been implicated in inflammatory and oncogenic signalling, but its role in PAAD and its TME remains unclear. This study integrated single-cell RNA-seq datasets from the GEO and bulk RNA-seq data from the TCGA to delineate the cellular ecosystem of PAAD, and employed cell-cell communication analysis, high-dimensional weighted gene coexpression network analysis (hdWGCNA), and nonnegative matrix factorization (NMF) to identify OTUD7B-associated modules and epithelial subpopulations, while assessing the survival and clinicopathologic correlations of OTUD7B in the TCGA-PAAD cohort. Quantitative proteomics of OTUD7B-knockout PAAD cells was performed and combined with GO/KEGG and GSEA to explore downstream pathways, and immune infiltration was inferred by deconvolution algorithms and validated by multiplex immunofluorescence staining of OTUD7B, CD4, and FOXP3. Single-cell RNA-seq revealed the expansion of epithelial cells, fibroblasts, and macrophages with dense ligand-receptor networks, alongside the depletion of effector T and NK cells, indicating a shift toward an immunosuppressive TME. hdWGCNA identified epithelial-ECM modules in which OTUD7B served as a hub gene, and NMF revealed an OTUD7B-high epithelial subset enriched in glycosylation-related metabolic programs and positioned at an early stage of the malignant trajectory. OTUD7B was significantly upregulated in PAAD and was associated with higher grade, lymph node metastasis, and advanced stage, and predicted poorer overall survival. Proteomic profiling of OTUD7B-deficient cells revealed broad remodelling of mitochondrial oxidative phosphorylation, ROS metabolism, and redox homeostasis. OTUD7B expression was positively correlated with M2 macrophage infiltration, immunomodulatory gene expression, and CD4+FOXP3+ regulatory T-cell accumulation, and tissue staining further confirmed the positive association between OTUD7B expression and Treg-rich regions. Collectively, OTUD7B acts as a key integrative node that links epithelial remodelling, mitochondrial metabolic reprogramming, and TME immunosuppression in PAAD, serving as an adverse prognostic biomarker and a potential therapeutic target to remodel tumour metabolism and enhance antitumor immunity.",
+ "authors": [
+  "Liu XL",
+  "Jing-Wang",
+  "Zhao SY",
+  "Lu-Li",
+  "Zhang MH"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42860383",
+ "importance": 0.51,
+ "key_points_ko": [
+  "OTUD7B의 높은 발현은 췌관선암 환자의 림프절 전이, 진행된 암 병기 및 불량한 전체 생존기간(OS)과 밀접하게 연관되었습니다.",
+  "OTUD7B 결손 암세포 분석에서 미토콘드리아 산화적 인산화 및 활성산소(ROS) 대사 조절 경로의 광범위한 리모델링이 확인되었습니다.",
+  "OTUD7B 발현은 M2 대식세포 침윤과 CD4+FOXP3+ 조절 T세포(Treg)의 축적과 양의 상관관계를 보여 면역억제 환경을 유도하는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1111/jcmm.71322",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42860383"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Cell Mol Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42860383/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PAAD)의 치료 저항성과 악성도에 관여하는 탈유비퀴틴화 효소 OTUD7B의 역할을 단일세포 전사체 분석 및 단백질체학 기법으로 규명했습니다. 분석 결과, OTUD7B는 상피 세포의 악성 분화와 미토콘드리아 대사 재프로그래밍을 촉진하는 핵심 유전자로 확인되었습니다. 또한 OTUD7B 발현이 높을수록 M2 대식세포 및 조절 T세포(Treg) 침윤이 증가하여 면역억제성 종양 미세환경이 형성되었습니다. 결과적으로 OTUD7B의 과발현은 림프절 전이, 진행된 병기 및 불량한 전체 생존기간(OS)과 유의미하게 연관되어 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Single-Cell Multiomics Reveals That OTUD7B Is a Central Driver of Epithelial Remodelling and the Immunosuppressive Microenvironment in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "단일세포 멀티오믹스를 통해 밝혀진 췌관선암의 상피 리모델링 및 면역억제 미세환경 핵심 인자 OTUD7B",
+ "trial": null,
+ "type": "paper"
+}

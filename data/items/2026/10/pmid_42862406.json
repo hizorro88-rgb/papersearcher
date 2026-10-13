@@ -1,0 +1,57 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy characterized by extensive metabolic adaptation. Sterol regulatory element-binding transcription factor 1 (SREBF1) encodes sterol regulatory element-binding protein 1 (SREBP1), a transcriptional regulator of lipogenic genes. This study investigated the association between SREBF1 expression and lipid metabolism-related transcriptional features in PDAC and assessed cellular responses to transient SREBF1 silencing.\nMETHODS AND RESULTS: SREBF1 expression was evaluated using RNA-sequencing data from TCGA-PAAD and GTEx and paired microarray data from GSE62452 and GSE183795. The analysis included 179 TCGA-PAAD tumors and 171 TCGA/GTEx non-tumor pancreatic samples, together with 61 matched tumor-adjacent pairs from GSE62452 and 102 matched pairs from GSE183795. TCGA-PAAD tumors were stratified at the median SREBF1 expression level for differential-expression analysis, GSEA, and GSVA. SREBF1 expression was higher in the TCGA/GTEx tumor-versus-normal comparison (P < 0.0001), with concordant increases in GSE62452 (P < 0.05) and GSE183795 (P < 0.01). SREBF1-high tumors exhibited lipid metabolism-related transcriptional features, including higher fatty-acid-metabolism and cholesterol-homeostasis pathway scores. In BxPC-3 and SW1990 cells, transient SREBF1 silencing with one selected siRNA was accompanied by decreased precursor SREBP1 (~ 122 kDa) and FASN protein levels, qualitatively reduced clonogenic outgrowth, and an increased Annexin V-positive apoptotic fraction.\nCONCLUSION: SREBF1 expression is associated with lipid metabolism-related transcriptional features in PDAC. Transient SREBF1 silencing was accompanied by reduced FASN protein levels, qualitatively reduced clonogenic outgrowth, and increased apoptosis. These findings identify SREBP1-associated lipid metabolism as a candidate vulnerability that requires further validation but do not establish a direct SREBP1-FASN-cell-survival mechanism or therapeutic efficacy.",
+ "authors": [
+  "Wu J",
+  "Ni D",
+  "Xu K"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42862406",
+ "importance": 0.64,
+ "key_points_ko": [
+  "정상 조직 대비 췌장암 조직에서 SREBF1 유전자 발현이 통계적으로 유의하게 높았습니다(TCGA/GTEx P < 0.0001, GSE62452 P < 0.05, GSE183795 P < 0.01).",
+  "SREBF1 발현이 높은 종양은 지방산 대사 및 콜레스테롤 항상성 관련 경로 점수가 유의하게 높았습니다.",
+  "췌장암 세포주(BxPC-3, SW1990)에서 SREBF1 발현을 일시적으로 억제하자 FASN 단백질 감소와 함께 아넥신 V(Annexin V) 양성 세포 사멸이 증가했습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1007/s11033-026-12901-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42862406"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Biol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42862406/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 지질 생성을 조절하는 전사인자를 암호화하는 SREBF1 유전자의 발현과 기능을 평가한 기초 연구입니다. 유전체 데이터 분석을 통해 정상 조직에 비해 췌장암 조직에서 SREBF1 발현이 유의하게 증가해 있으며 지방산 대사 경로와 연관됨을 확인했습니다. 췌장암 세포주 실험에서는 SREBF1을 억제했을 때 지질 합성 관련 단백질인 FASN이 감소하고 암세포 사멸이 증가하는 결과가 관찰되었습니다. 연구진은 SREBP1 관련 지질 대사가 췌장암의 잠재적 취약점 후보일 수 있으나 직접적인 치료 효능 확인을 위해서는 추가 검증이 필요하다고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "SREBF1 expression is associated with lipid metabolism-related signatures, and transient SREBF1 silencing is accompanied by increased apoptosis in pancreatic cancer cells",
+ "title_ko": "췌장암 세포에서 SREBF1 발현과 지질 대사 관련 특성의 연관성 및 일시적 SREBF1 억제 시 세포 사멸 증가",
+ "trial": null,
+ "type": "paper"
+}

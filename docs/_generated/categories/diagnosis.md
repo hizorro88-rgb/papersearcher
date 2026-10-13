@@ -16,12 +16,42 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 200건 · 최근 30일 200건
+전체 202건 · 최근 30일 202건
 
 월별 보기: [2026-10](diagnosis/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42861634"></a>
+#### [산화아연-팔라듐 나노볼트 기반 췌장암 바이오마커 면역분석 검출 및 소프트웨어 기반 디지털 정량화](https://pubmed.ncbi.nlm.nih.gov/42861634/)
+<small>ZnO-Pd nanobolts-based immunoanalytical detection of a pancreatic cancer biomarker and its software-assisted digital quantification</small>
+
+`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-12 · PubMed · Nanoscale Horiz · 중요도 0.56
+
+췌장암 바이오마커인 CA19-9를 조기에 정밀하게 검출하기 위해 산화아연-팔라듐(ZnO-Pd) 나노볼트 나노자임을 활용한 새로운 면역 센서가 개발되었습니다. 연구진은 효소 유사 활성을 지닌 나노볼트에 항체를 결합하고 스마트폰 소프트웨어 신호 분석을 결합하여 극미량의 CA19-9도 감지할 수 있도록 설계했습니다. 이 면역분석법은 인체 혈청 샘플에서도 100.6%~102%의 높은 회수율을 보이며 뛰어난 정확성과 재현성을 입증했습니다. 이는 향후 휴대 가능하고 경제적인 췌장암 현장 현장진단(POC) 기기로의 활용 가능성을 보여줍니다.
+
+- 새로 개발된 센서의 검출 한계(LOD)는 0.000159 U/mL, 정량 한계(LOQ)는 0.000482 U/mL로 매우 높은 민감도를 기록했습니다.
+- 소프트웨어를 통한 신호 처리 시에도 검출 한계 0.000359 U/mL, 정량 한계 0.00108 U/mL의 정밀한 측정이 가능했습니다.
+- 인체 혈청 검사에서 100.6%~102%의 회수율을 보여 복잡한 생체 시료 내에서도 우수한 정확도를 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861634/) · [DOI](https://doi.org/10.1039/d6nh00197a) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861634)</small>
+
+---
+<a id="doi-10.64898-2026.10.08.757715"></a>
+#### [나노포어 분석 기반 유방암 및 췌장암 유전체에서 unduliner를 활용한 체세포 변이와 DNA 메틸화 변화의 연계 분석](https://europepmc.org/article/PPR/PPR1338940)
+<small>Linking somatic variants to altered methylation profiles in nanopore-derived breast and pancreatic cancer genomes using unduliner</small>
+
+`프리프린트` `전임상` `기초연구` `진단·조기발견` · 2026-10-11 · Europe PMC (preprint) · bioRxiv · 중요도 0.50
+
+연구진은 나노포어 시퀀싱 데이터를 활용해 체세포 변이와 DNA 메틸화 패턴 변화 간의 연관성을 예측하는 인공신경망 기반 분석 모델 'unduliner'를 개발했습니다. 이 딥러닝 모델은 검증 데이터셋에서 80.3%, 독립 테스트 데이터셋에서 89.7%의 정확도를 기록했습니다. 췌관선암(PDAC) 검체에 적용한 결과, 종양-정상 조직 간 차등 메틸화 영역(DMR) 및 종양 내 메틸화 변화와 관련된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 식별했습니다. 이를 통해 기존 유전 변이 예측 도구를 넘어 암 유전체 변이의 기능적 영향을 폭넓게 해석할 수 있는 가능성을 제시했습니다.
+
+- 인공지능 모델 unduliner는 검증 데이터셋에서 80.3%, 별도 시험 데이터셋에서 89.7%의 예측 정확도를 보였습니다.
+- 췌관선암(PDAC) 검체에서 종양-정상 간 차등 메틸화 영역(DMR) 등과 연관된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 확인했습니다.
+- 변이 정보와 더불어 메틸화 변화의 방향(증가 또는 감소), 변화 크기, 유전체 상의 위치 정보를 함께 제공합니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1338940) · [DOI](https://doi.org/10.64898/2026.10.08.757715) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.08.757715)</small>
+
+---
 <a id="nct-nct07867873"></a>
 #### [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT07867873)
 <small>Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy</small>
@@ -56,19 +86,19 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT03245541) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03245541)</small>
 
 ---
-<a id="pmid-42859088"></a>
-#### [췌장암 고위험 감시 코호트(CAPS 및 PCYST)에서 폐쇄성 수면무호흡증과 췌장암 발생 간의 연관성](https://pubmed.ncbi.nlm.nih.gov/42859088/)
-<small>Association of obstructive sleep apnea with pancreatic cancer in high-risk patients under surveillance in CAPS and PCYST cohorts</small>
+<a id="pmid-42856962"></a>
+#### [초고해상도 MRI 기반 종양-기질 비율 분석을 통한 췌관선암의 예후 및 치료 반응 예측](https://pubmed.ncbi.nlm.nih.gov/42856962/)
+<small>Super-Resolution MRI-Derived Tumor-Stroma Ratio Phenotyping for Prognostic and Therapeutic Stratification in Pancreatic Ductal Adenocarcinoma</small>
 
-`논문` `관찰연구` `진단·조기발견` · 2026-10-09 · PubMed · Pancreatology · 중요도 0.77
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `신약·치료제` · 2026-10-09 · PubMed · MedComm (2020) · 중요도 0.77
 
-존스 홉킨스 병원의 췌장 감시 코호트 환자들을 대상으로 폐쇄성 수면무호흡증(OSA)이 췌장암 발생 위험 요인인지 후향적으로 분석했습니다. 가족력 및 유전적 위험 환자 893명(CAPS)과 우연히 발견된 췌장 낭종 환자 1,585명(PCYST)이 연구에 포함되었습니다. 교란변수를 보정한 분석 결과, 폐쇄성 수면무호흡증이 있는 고위험군 환자는 췌관선암(PDAC) 발생 위험이 약 2.56배 높았습니다. 연구진은 유전적 위험이나 췌장 낭종으로 정기 추적 관찰을 받는 환자가 수면무호흡증을 동반할 경우 췌장암 발생 가능성이 더 높다고 결론지었습니다.
+췌관선암(PDAC)의 종양-기질 비율(TSR)은 기존에 수술 후 조직검사로만 평가할 수 있었습니다. 연구팀은 737명의 다기관 코호트 데이터를 활용하여 초고해상도 MRI(srMRI) 영상 기반으로 종양-기질 비율을 비침습적으로 예측하는 인공지능 모델(TSR-radscore)을 개발했습니다. 이 모델은 수술 후 무재발 생존기간과 조기 재발 위험을 유의미하게 구분해 냈습니다. 또한 국소 진행성 췌장암 환자에서 높은 TSR(H-TSR)을 가진 환자가 전신 항암치료 및 면역관문억제제 병용요법에서 더 우수한 생존기간을 보임을 확인했습니다.
 
-- 폐쇄성 수면무호흡증(OSA)은 여러 위험 요인을 보정한 후에도 췌관선암(PDAC) 발생 위험을 유의하게 높였습니다(보정 위험비 2.56, 95% 신뢰구간 1.44~4.55, p=0.001).
-- 종양성 진행(췌관선암, 고도 이형성증 또는 췌장 신경내분비종양) 위험 또한 OSA 환자에서 유의하게 증가했습니다(보정 위험비 1.93, 95% 신뢰구간 1.25~2.97, p=0.003).
-- 전체 환자 중 CAPS 코호트의 19.5%(174/893명), PCYST 코호트의 23.7%(376/1585명)가 감시 이전 또는 도중에 폐쇄성 수면무호흡증을 진단받았습니다.
+- 초고해상도 MRI 기반 모델은 병리학적 종양-기질 비율을 높은 정확도(훈련 코호트 AUC 0.870, 외부 검증 코호트 AUC 0.791)로 예측했습니다.
+- 이 모델은 737명의 다기관 환자 코호트를 바탕으로 개발 및 검증되어 조기 재발 위험 예측을 개선했습니다.
+- 국소 진행성 췌장암 환자 중 종양 비율이 높은(H-TSR) 군은 전신 치료 및 면역치료 병용 시 더 나은 생존 결과를 보였습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859088/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.013) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859088)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856962/) · [DOI](https://doi.org/10.1002/mco2.71039) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650606/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856962)</small>
 
 ---
 <a id="pmid-42859087"></a>
@@ -86,19 +116,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859087/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.007) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859087)</small>
 
 ---
-<a id="pmid-42856962"></a>
-#### [초고해상도 MRI 기반 종양-기질 비율 분석을 통한 췌관선암의 예후 및 치료 반응 예측](https://pubmed.ncbi.nlm.nih.gov/42856962/)
-<small>Super-Resolution MRI-Derived Tumor-Stroma Ratio Phenotyping for Prognostic and Therapeutic Stratification in Pancreatic Ductal Adenocarcinoma</small>
+<a id="pmid-42859088"></a>
+#### [췌장암 고위험 감시 코호트(CAPS 및 PCYST)에서 폐쇄성 수면무호흡증과 췌장암 발생 간의 연관성](https://pubmed.ncbi.nlm.nih.gov/42859088/)
+<small>Association of obstructive sleep apnea with pancreatic cancer in high-risk patients under surveillance in CAPS and PCYST cohorts</small>
 
-`논문` `관찰연구` `진단·조기발견` `치료 전반` `신약·치료제` · 2026-10-09 · PubMed · MedComm (2020) · 중요도 0.77
+`논문` `관찰연구` `진단·조기발견` · 2026-10-09 · PubMed · Pancreatology · 중요도 0.77
 
-췌관선암(PDAC)의 종양-기질 비율(TSR)은 기존에 수술 후 조직검사로만 평가할 수 있었습니다. 연구팀은 737명의 다기관 코호트 데이터를 활용하여 초고해상도 MRI(srMRI) 영상 기반으로 종양-기질 비율을 비침습적으로 예측하는 인공지능 모델(TSR-radscore)을 개발했습니다. 이 모델은 수술 후 무재발 생존기간과 조기 재발 위험을 유의미하게 구분해 냈습니다. 또한 국소 진행성 췌장암 환자에서 높은 TSR(H-TSR)을 가진 환자가 전신 항암치료 및 면역관문억제제 병용요법에서 더 우수한 생존기간을 보임을 확인했습니다.
+존스 홉킨스 병원의 췌장 감시 코호트 환자들을 대상으로 폐쇄성 수면무호흡증(OSA)이 췌장암 발생 위험 요인인지 후향적으로 분석했습니다. 가족력 및 유전적 위험 환자 893명(CAPS)과 우연히 발견된 췌장 낭종 환자 1,585명(PCYST)이 연구에 포함되었습니다. 교란변수를 보정한 분석 결과, 폐쇄성 수면무호흡증이 있는 고위험군 환자는 췌관선암(PDAC) 발생 위험이 약 2.56배 높았습니다. 연구진은 유전적 위험이나 췌장 낭종으로 정기 추적 관찰을 받는 환자가 수면무호흡증을 동반할 경우 췌장암 발생 가능성이 더 높다고 결론지었습니다.
 
-- 초고해상도 MRI 기반 모델은 병리학적 종양-기질 비율을 높은 정확도(훈련 코호트 AUC 0.870, 외부 검증 코호트 AUC 0.791)로 예측했습니다.
-- 이 모델은 737명의 다기관 환자 코호트를 바탕으로 개발 및 검증되어 조기 재발 위험 예측을 개선했습니다.
-- 국소 진행성 췌장암 환자 중 종양 비율이 높은(H-TSR) 군은 전신 치료 및 면역치료 병용 시 더 나은 생존 결과를 보였습니다.
+- 폐쇄성 수면무호흡증(OSA)은 여러 위험 요인을 보정한 후에도 췌관선암(PDAC) 발생 위험을 유의하게 높였습니다(보정 위험비 2.56, 95% 신뢰구간 1.44~4.55, p=0.001).
+- 종양성 진행(췌관선암, 고도 이형성증 또는 췌장 신경내분비종양) 위험 또한 OSA 환자에서 유의하게 증가했습니다(보정 위험비 1.93, 95% 신뢰구간 1.25~2.97, p=0.003).
+- 전체 환자 중 CAPS 코호트의 19.5%(174/893명), PCYST 코호트의 23.7%(376/1585명)가 감시 이전 또는 도중에 폐쇄성 수면무호흡증을 진단받았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42856962/) · [DOI](https://doi.org/10.1002/mco2.71039) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650606/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42856962)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859088/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.013) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859088)</small>
 
 ---
 <a id="pmid-42856853"></a>
@@ -2490,39 +2520,5 @@ PANThEON 임상시험은 수술 불가 국소진행성 또는 전이성 췌관�
 - 2부에서는 68Ga-DFC413과 68Ga-NNS309의 비교 평가를 진행합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07630961) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07630961)</small>
-
----
-<a id="nct-nct04429542"></a>
-#### [EGFR 발현 진행성 고형암 환자를 대상으로 한 BCA101 단독 요법 및 펨브롤리주맙 병용 요법의 안전성과 내인성 평가 연구](https://clinicaltrials.gov/study/NCT04429542)
-<small>Study of Safety and Tolerability of BCA101 Monotherapy and in Combination Therapy in Patients With EGFR-driven Advanced Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-06-12 · ClinicalTrials.gov · Bicara Therapeutics · 중요도 0.73
-
-**NCT04429542** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04429542.md)
-
-이 연구는 EGFR과 TGFβ를 동시에 표적하는 최초 계열(first-in-class) 약물인 BCA101의 단독 요법 및 펨브롤리주맙(pembrolizumab) 병용 요법을 평가하기 위한 1상/1b상 임상시험입니다. 대상 질환은 두경부 편평세포암, 항문관 편평세포암, 대장암, 편평 비소세포폐암 등 EGFR 발현 진행성 고형암 환자입니다. 용량 증량(dose escalation) 및 코호트 확장(expansion cohort) 단계를 통해 안전성과 내약성을 확인합니다. 초록에 췌장암에 대한 내용은 명시되지 않았습니다.
-
-- 목표 환자 수는 총 473명입니다.
-- BCA101은 EGFR과 TGFβ를 동시에 표적하는 이중 기능 항체입니다.
-- 임상시험 단계는 1상(PHASE1)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04429542) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04429542)</small>
-
----
-<a id="nct-nct07127874"></a>
-#### [진행성 고형암 환자를 대상으로 하는 PHN-012 연구](https://clinicaltrials.gov/study/NCT07127874)
-<small>A Study of PHN-012 in Patients With Advanced Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2025-08-17 · ClinicalTrials.gov · Pheon Therapeutics · 중요도 0.73
-
-**NCT07127874** · 1상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07127874.md)
-
-이 연구는 진행성 고형암 환자를 대상으로 신규 항체-약물 접합체(ADC)인 PHN-012의 안전성, 내인성, 항종양 활성, 면역원성, 약동학 및 약력학을 평가하기 위한 최초 인체 대상(first-in-human) 1상 임상시험입니다. 췌장암(췌관선암, PDAC), 대장암, 비소세포폐암 환자가 참여 대상입니다. 목표 인원은 165명이며 국내 6개 기관이 참여합니다.
-
-- 대상 질환은 췌장암(췌관선암), 대장암, 비소세포폐암을 포함한 진행성 고형암입니다.
-- 목표 환자 수는 165명이며 국내 6곳의 기관에서 진행됩니다.
-- 최초 인체 대상 1상 임상시험으로 안전성과 약동학 등을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07127874) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07127874)</small>
 
 ---

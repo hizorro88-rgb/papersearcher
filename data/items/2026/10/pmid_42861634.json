@@ -1,0 +1,59 @@
+{
+ "abstract": "Early and reliable detection of pancreatic cancer (PC) remains a formidable clinical challenge, largely owing to the limited sensitivity, operational unreliability, and enzyme dependence of existing carbohydrate antigen 19-9 (CA19-9) immunoassays. In this work, we determine for the first time that ZnO-Pd nanobolts show intrinsic oxidase-like activity. Furthermore, this attribute was used to fabricate a colorimetric immunoanalytical sensor based on nanozymes for the sensitive and specific detection of CA19-9, a biomarker for PC. In this research, immunoreagent optimization, smartphone-assisted signal analysis, and kinetic analysis of nanozyme catalytic activity were employed to enable highly sensitive detection of CA19-9. Enzyme-kinetic studies showed low Michaelis-Menten constants (KM) of 0.99 mM, as well as high turnover numbers (kcat) and catalytic efficiencies (kcat/KM) of 4.48 × 10-4 s-1 and 0.453 M-1 s-1, respectively, indicating high substrate affinity. The optimized nanozyme was functionalized with Goat anti-mouse IgG (GAM IgG), thereby facilitating antigen recognition and signal transduction. The proposed immunoassay demonstrated high analytical sensitivity (LOD of 0.000159 U mL-1 and LOQ of 0.000482 U mL-1) and exceptional selectivity even in complex biological matrices. Software-assisted signal processing enabled precise assessment of the limit of detection (LOD) of 0.000359 U mL-1 and the limit of quantification (LOQ) of 0.00108 U mL-1. The practical utility of the fabricated immunoassay was further examined using human serum, with recovery rates ranging from 100.6% to 102%, indicating high accuracy and reproducibility. Furthermore, the successful digitalization of assay results into software-based readable data demonstrates the sensing approach's potential for portable, cost-effective, and point-of-care PC diagnostics.",
+ "authors": [
+  "Deshwal A",
+  "Rajesh",
+  "Chung SJ",
+  "Mishra P",
+  "Tripathi RM"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42861634",
+ "importance": 0.56,
+ "key_points_ko": [
+  "새로 개발된 센서의 검출 한계(LOD)는 0.000159 U/mL, 정량 한계(LOQ)는 0.000482 U/mL로 매우 높은 민감도를 기록했습니다.",
+  "소프트웨어를 통한 신호 처리 시에도 검출 한계 0.000359 U/mL, 정량 한계 0.00108 U/mL의 정밀한 측정이 가능했습니다.",
+  "인체 혈청 검사에서 100.6%~102%의 회수율을 보여 복잡한 생체 시료 내에서도 우수한 정확도를 확인했습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1039/d6nh00197a",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42861634"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nanoscale Horiz",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42861634/"
+ },
+ "summary_ko": "췌장암 바이오마커인 CA19-9를 조기에 정밀하게 검출하기 위해 산화아연-팔라듐(ZnO-Pd) 나노볼트 나노자임을 활용한 새로운 면역 센서가 개발되었습니다. 연구진은 효소 유사 활성을 지닌 나노볼트에 항체를 결합하고 스마트폰 소프트웨어 신호 분석을 결합하여 극미량의 CA19-9도 감지할 수 있도록 설계했습니다. 이 면역분석법은 인체 혈청 샘플에서도 100.6%~102%의 높은 회수율을 보이며 뛰어난 정확성과 재현성을 입증했습니다. 이는 향후 휴대 가능하고 경제적인 췌장암 현장 현장진단(POC) 기기로의 활용 가능성을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ZnO-Pd nanobolts-based immunoanalytical detection of a pancreatic cancer biomarker and its software-assisted digital quantification",
+ "title_ko": "산화아연-팔라듐 나노볼트 기반 췌장암 바이오마커 면역분석 검출 및 소프트웨어 기반 디지털 정량화",
+ "trial": null,
+ "type": "paper"
+}

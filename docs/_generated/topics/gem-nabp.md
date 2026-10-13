@@ -101,8 +101,23 @@ search:
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
+<a id="pmid-42862523"></a>
+#### [경계성 절제 가능 췌장암에서 티스렐리주맙과 젬시타빈·납-파클리탁셀 병용 요법의 효능 및 내성 분석: 전향적 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42862523/)
+<small>Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study</small>
+
+`논문` `2상` `신약·치료제` `임상시험` `수술` `치료 전반` · 2026-10-12 · PubMed · Ann Surg Oncol · 중요도 0.78
+
+경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 수술 전 티스렐리주맙(tislelizumab)과 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 요법의 타당성을 평가한 전향적 연구입니다. 등록된 30명의 환자 중 24명(80.0%)이 수술 전 3주기 치료를 마치고 수술을 진행했습니다. 수술을 받은 환자 24명 전원(100%)에서 완전 절제(R0 resection)를 달성했습니다. 치료 관련 부작용은 대부분 1~2등급으로 경미했으며 심각한 이상반응은 관찰되지 않았습니다.
+
+- 등록 환자 30명 중 80.0%(24명)가 수술을 받았으며 수술 환자의 R0 절제율은 100%(24/24명)였습니다.
+- 12개월 전체 생존율(OS)은 87.5%, 12개월 무재발 생존율(RFS)은 82.8%였으며 중앙 무재발 생존기간은 28개월이었습니다.
+- 단백체 분석을 통해 NT5DC2, FAM3D, CXCL5, TMT1B가 선행항암요법 저항성과 연관된 바이오마커 후보로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862523/) · [DOI](https://doi.org/10.1245/s10434-026-20711-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862523)</small>
+
+---
 <a id="pmid-42831115"></a>
 #### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
 <small>A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy</small>

@@ -329,6 +329,7 @@ search:
 | [경계성 절제 가능, 국소 진행성 또는 전이성 담관암 및 췌장암 환자를 위한 AB801, 항암화학요법 및 면역요법 병용 1상…](NCT07619313.md) | 1상 | 모집 중 | Biopsy Procedure, Cisplatin, Computed Tomography, Durvalumab | - | 2026-08-20 |
 | [고형암 환자에서 68Ga-DFC413의 1상 임상시험 및 68Ga-NNS309와의 비교](NCT07630961.md) | 1상 | 모집 중 | 68Ga-DFC413, 68Ga-NNS309 | - | 2026-08-27 |
 | [EGFR 발현 진행성 고형암 환자를 대상으로 한 BCA101 단독 요법 및 펨브롤리주맙 병용 요법의 안전성과 내인성 평가 연구](NCT04429542.md) | 1상 | 모집 중 | BCA101, Pembrolizumab | - | 2026-10-06 |
+| [진행성 고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](NCT07261631.md) | 1상 | 모집 중 | 68Ga-NNS309, 177Lu-DFC413 | - | 2026-10-09 |
 | [BRCA 또는 PALB2 결손 전이성 췌장암 환자를 위한 vilastobart와 retifanlimab 병용 요법 2상 임상…](NCT07765836.md) | 2상 | 모집 예정 | vilastobart (XTX101), Retifanlimab | - | 2026-08-14 |
 | [폰 히펠-린다우(VHL) 증후군 관련 췌장 신경내분비종양의 자연 경과 및 관리 연구](NCT04074135.md) | 2상 | 모집 중 | 68-Gallium DOTATATE | - | 2026-04-20 |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](NCT04325425.md) | 2상 | 모집 중 | FOLFOXIRI Protocol, Cisplatin injection | - | 2025-09-30 |
@@ -355,7 +356,6 @@ search:
 | [CD70 발현 암 환자를 위한 항-CD70 키메라 항원 수용체(CAR) 형질도입 말초혈액림프구 투여 임상시험](NCT02830724.md) | 1상/2상 | 모집 중 | Cyclophosphamide, Fludarabine, Aldesleukin, Anti-hCD70 CAR t | - | 2026-08-13 |
 | [진행성 고형암 환자에서 불변 자연살해 T세포(iNKT cell) 및 CD8+ T세포 주입의 임상적 안전성 및 효능 연구](NCT03093688.md) | 1상/2상 | 모집 중 | Infusion of iNKT cells and CD8+T cells | - | 2025-07-02 |
 | [c-Met 이상이 있는 진행성 고형암 환자를 대상으로 한 APL-101 2상 임상시험](NCT03175224.md) | 2상 | 모집 중 | APL-101 Oral Capsules | - | 2025-06-27 |
-| [진행성 또는 전이성 고형암 환자를 위한 ART0380 임상시험](NCT04657068.md) | 1상/2상 | 모집 중 | ART0380, Gemcitabine, Irinotecan | - | 2026-07-30 |
 
 ## 모집 종료·진행 중·완료 (17)
 

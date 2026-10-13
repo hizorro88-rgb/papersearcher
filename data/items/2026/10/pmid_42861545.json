@@ -1,0 +1,66 @@
+{
+ "abstract": "INTRODUCTION: The PRODIGE 24/CCTG PA.6- trial has shown an overall survival (OS) up to 55 months in patients treated with (modified) 5-fluorouracil, leucovorin, irinotecan and oxaliplatin ((m)FOLFIRINOX) chemotherapy after resection of pancreatic ductal adenocarcinoma (PDAC). The applicability of these results to a real-world patient population is, however, unknown. This study aimed to assess the efficacy of (m)FOLFIRINOX compared to other adjuvant chemotherapy regimens in a real-world cohort.\nMETHODS: We performed a post-hoc analysis in a prospectively maintained cohort of patients undergoing PDAC resection in the Regional Academic Cancer Centre Utrecht, the Netherlands, from 2016 to 2020. Median OS was evaluated using Kaplan-Meier curves, primarily stratified by adjuvant chemotherapy regimen and secondarily by eligibility for the PRODIGE 24/CCTG PA.6- trial. Multivariable Cox regression was used to assess the association between chemotherapy regimen and OS, presented as hazard ratio's (HR) with 95% confidence interval (95%CI).\nRESULTS: A total of 161 patients with a median follow-up of 51 months (interquartile range (IQR) 43-61) were included. With (m)FOLFIRINOX (n = 30), OS was 29 months (IQR 22-42; [HR 0.26, 95%CI 0.14-0.47, p < 0.01]). Comparing (m)FOLFIRINOX with gemcitabine monotherapy yielded a HR of 0.62 (95%CI 0.33-1.17, p = 0.14), while (m)FOLFIRINOX versus gemcitabine combination therapy had a HR of 0.66 (95% CI 0.35-1.24 p = 0.20). Patients without adjuvant therapy (n = 71) had a median OS of 13 months (IQR 11-23, reference group). In patients receiving gemcitabine monotherapy (n = 31), median OS was 21 months (IQR 15-31; [HR 0.41 95%CI 0.25-0.69, p < 0.01]); for gemcitabine combination therapy (n = 29), OS was 28 months (IQR 23-43; [HR 0.39, 95%CI 0.23-0.66, p < 0.01]) In patients who received (m)FOLFIRINOX and who did or did not meet trial eligibility criteria, OS was 27 months (IQR 12-NR), compared to 30 months (IQR 21-NR) (p = 0.16), respectively.\nCONCLUSION: The survival benefit of (m)FOLFIRINOX observed in the clinical trial setting was not observed in our real-world cohort, not even in the selected subset of patients who would have deemed eligible for inclusion in the PRODIGE 24/CCTG PA.6- trial. Survival was not different for patients treated with (m)FOLFIRINOX and gemcitabine combination therapy.",
+ "authors": [
+  "Biesma NC",
+  "Cirkel GA",
+  "Haj Mohammad N",
+  "Los M",
+  "Verdonk RC",
+  "Molenaar IQ",
+  "Daamen LA",
+  "van Santvoort HC"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "drug",
+  "trial"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42861545",
+ "importance": 0.73,
+ "key_points_ko": [
+  "수술 후 (m)FOLFIRINOX 투여군의 전체 생존기간 중앙값은 29개월로, 무치료군(13개월) 대비 사망 위험을 유의하게 낮췄습니다(HR 0.26, p<0.01).",
+  "(m)FOLFIRINOX는 gemcitabine 단독 요법(HR 0.62, p=0.14) 및 gemcitabine 병용 요법(HR 0.66, p=0.20)과 비교했을 때 통계적으로 유의한 생존기간 차이를 보이지 못했습니다.",
+  "기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1002/jso.70391",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42861545"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
+ },
+ "summary_ko": "네덜란드에서 2016년부터 2020년까지 췌관선암(PDAC) 수술을 받은 환자 161명을 대상으로 수술 후 보조항암요법(adjuvant chemotherapy)의 실제 치료 성적을 분석했습니다. (m)FOLFIRINOX 치료군의 전체 생존기간(OS) 중앙값은 29개월이었으며, 보조요법을 받지 않은 군은 13개월, gemcitabine(젬시타빈) 단독군은 21개월, gemcitabine 병용군은 28개월이었습니다. 기존 3상 임상시험(PRODIGE 24)에서 보고된 55개월 수준의 긴 생존 연장 효과는 실제 환자 코호트에서 관찰되지 않았습니다. 또한 실제 임상 환경에서 (m)FOLFIRINOX와 gemcitabine 병용요법 간의 생존기간 차이는 통계적으로 유의하지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population",
+ "title_ko": "췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향",
+ "trial": null,
+ "type": "paper"
+}

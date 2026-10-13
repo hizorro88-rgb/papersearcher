@@ -19,10 +19,9 @@
  "id": "nct:NCT06531291",
  "importance": 0.63,
  "key_points_ko": [
-  "목표 환자 수는 총 80명입니다.",
-  "중재 치료는 surufatinib, serplulimab, 표준 항암화학요법의 병용입니다.",
-  "진행성 췌장암을 포함한 고형암 환자들을 대상으로 합니다.",
-  "효능과 안전성을 평가하여 새로운 치료 옵션을 제공하는 것이 목적입니다."
+  "신경내분비 표지자(CgA, Syn) 양성 분화를 보이는 국소 진행성 또는 전이성 췌장암 등 고형암 환자를 대상으로 합니다.",
+  "이전에 전신 항암 치료를 받은 적이 없는 환자 대상의 1차 치료 임상시험입니다.",
+  "표준 항암화학요법에 표적치료제 surufatinib과 면역항암제 serplulimab을 추가하여 효과를 확인합니다."
  ],
  "last_updated": "2026-10-06",
  "links": {
@@ -47,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06531291"
  },
- "summary_ko": "이 임상시험은 신경내분비 분화(neuroendocrine differentiation, NED)를 동반한 진행성 고형암 환자를 대상으로 surufatinib(수루파티닙), serplulimab(설프루리맙) 및 표준 항암화학요법(standard chemotherapy) 병용요법의 유효성과 안전성을 평가합니다. 대상 질환에는 췌장암(Pancreas Cancer)이 포함됩니다. 총 80명의 환자를 목표로 하는 단일군, 다중 코호트, 공개, 단일기관, 전향적 탐색적 임상연구입니다. 초록에 수치로 된 결과는 아직 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 신경내분비 분화(NED)를 보이는 진행성 고형암(식도암, 담도암, 췌장암, 위암) 환자를 대상으로 진행되는 2상 임상시험입니다. 전신 치료 경험이 없는 환자에게 혈관신생 및 면역 조절 억제제인 surufatinib(수루파티닙), 면역관문억제제 serplulimab(세르플루리맙) 및 표준 항암화학요법을 1차 치료로 병용 투여합니다. 목표 시험 대상자는 총 80명이며, 병용요법의 유효성과 안전성을 평가하여 새로운 치료 옵션을 제시하는 것을 목표로 합니다.",
  "summary_source": "llm",
  "tags": [
   "surufatinib",
@@ -55,7 +54,7 @@
   "신경내분비종양"
  ],
  "title": "Surufatinib Combined With Serplulimab and Standard Chemotherapy as First-line Treatment in Advanced Solid Tumors With Neuroendocrine Differentiation",
- "title_ko": "신경내분비 분화를 동반한 진행성 고형암의 1차 치료로서 surufatinib, serplulimab 및 표준 항암화학요법 병용요법",
+ "title_ko": "신경내분비 분화를 동반한 진행성 고형암 환자의 1차 치료로서 수루파티닙, 세르플루리맙 및 표준 항암화학요법 병용요법",
  "trial": {
   "conditions": [
    "ESCC",
@@ -75,7 +74,7 @@
     "phone": "+86 16621086648"
    }
   ],
-  "eligibility_ko": "선정 기준: - 조직학적으로 확진된 국소 진행성 또는 전이성 절제 불가능한 식도암(ESCC), 담도암(BTC), 췌장암(PC), 위암(GC) 중 신경내분비 분화 또는 신경내분비 표현형을 보이는 경우(신경내분비 형태학적 특징이 없고 CgA, Syn 중 적어도 하나의 신경내분비 마커 면역조직화학 양성) - RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상인 경우 - ECOG 신체 상태 점수 0-1인 경우 - 이전 전신 치료력이 없는 경우 - 소변 단백질 < ++ (단, 소변 단백질 ≥ ++ 인 경우 24시간 소변 단백질 양 ≤ 1.0g) - 예상 생존기간 > 3개월. 제외 기준: - 항고혈압 치료 중에도 조절되지 않는 고혈압(수축기 혈압 > 150 mmHg 또는 이완기 혈압 > 90 mmHg) - 활동성 출혈 또는 출혈 경향이 있는 경우 - 심각한 심뇌혈관 질환 병력 - 근치적 절제술 후 기저세포암 또는 자궁경부 상피내암을 제외하고 지난 5년 이내에 진단된 다른 악성 종양.",
+  "eligibility_ko": "선정 기준:\n• 조직학적으로 확인된 절제 불가능한 국소 진행성 또는 전이성 암(식도암, 담도암, 췌장암, 위암)\n• 신경내분비 형태학적 특징은 없으나 신경내분비 표지자(CgA, Syn 중 1개 이상) 면역조직화학 염색 양성인 경우\n• RECIST v1.1 기준 1개 이상의 측정 가능한 병변 보유\n• 이전 전신 항암 치료 경험이 없는 환자\n• ECOG 수행능력 점수 0-1점\n• 기대 여명이 3개월을 초과하는 환자\n\n제외 기준:\n• 혈압약을 복용 중임에도 수축기 혈압 150mmHg 초과 또는 이완기 혈압 90mmHg 초과로 조절되지 않는 고혈압\n• 활동성 출혈 또는 출혈 경향이 있는 경우\n• 중증 심뇌혈관 질환 병력이 있는 경우\n• 최근 5년 이내 다른 악성 종양 병력이 있는 경우 (단, 근치적 절제를 거친 기저세포암 또는 자궁경부 상피내암은 제외)",
   "eligibility_text": "Inclusion Criteria:\n\n* Histopathologically confirmed locally advanced or metastatic unresectable ESCC, BTC, PC or GC with an abnormal NED or NE phenotype (without neuroendocrine morphologic features and positive immunohistochemical expression of at least one neuroendocrine marker (CgA, Syn));\n* Have at least one measurable lesion according to RECIST v1.1;\n* ECOG performance status: 0-1;\n* No previous systemic therapy;\n* Urine protein\\< ++ . If Urine protein ≥ ++ ,the amount of urine protein in 24 hours ≤1.0g;\n* Expected survival time \\&gt; 3 months;\n\nExclusion Criteria:\n\n* Have uncontrolled hypertension, defined as systolic blood pressure \\&gt;150 mmHg or diastolic blood pressure \\&gt;90 mm Hg, while under anti-hypertension treatment;\n* With active bleeding or bleeding tendency;\n* Severe history of cardiovascular and cerebrovascular diseases;\n* Other malignancies diagnosed within the previous 5 years, except basal cell carcinoma or cervical carcinoma in situ after radical resection.",
   "enrollment": 80,
   "has_results": false,
@@ -91,17 +90,27 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [],
+   "biomarkers_required": [
+    "other"
+   ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "조절되지 않는 고혈압(수축기 150mmHg 초과 또는 이완기 90mmHg 초과)",
+    "활동성 출혈 또는 출혈 경향",
+    "중증 심뇌혈관 질환 병력",
+    "5년 이내의 다른 암 병력"
+   ],
    "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "신경내분비 분화(CgA 또는 Syn 양성)를 보이는 전신 치료 경험이 없는 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

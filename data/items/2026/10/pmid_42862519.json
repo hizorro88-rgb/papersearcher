@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Wu D",
+  "Li Z",
+  "Pan Y",
+  "Lai J",
+  "Shi Y",
+  "Xu X",
+  "Tian Y",
+  "Huang L"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42862519",
+ "importance": 0.77,
+ "key_points_ko": [
+  "T3 병기 췌장 체미부암 환자에서 RAMPS 수술법과 표준 절제술을 비교한 다기관 후향적 연구입니다.",
+  "상세 생존기간, 합병증 발생률 및 수술 관련 주요 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1245/s10434-026-20755-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42862519"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42862519/"
+ },
+ "summary_ko": "T3 병기의 췌장 체부 및 미부 췌관선암 환자를 대상으로 근치적 전향적 모듈러 췌비장절제술(RAMPS)과 표준 절제술의 치료 결과를 비교한 다기관 후향적 연구입니다. 제공된 자료는 시각적 초록(Visual Abstract) 제목 정보로 구체적인 본문 내용이 포함되어 있지 않습니다. 환자 수, 생존기간, 절제 성공률 등 세부 연구 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study",
+ "title_ko": "T3 병기 췌장 체부 및 미부 췌관선암에서 근치적 전향적 모듈러 췌비장절제술(RAMPS)과 표준 절제술 비교: 다기관 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

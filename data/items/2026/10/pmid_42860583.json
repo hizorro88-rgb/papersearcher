@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal malignancies, with gemcitabine resistance remaining a major clinical challenge. Although cancer stemness and autophagy have both been implicated in PDAC chemoresistance, the mechanism by which their crosstalk governs gemcitabine resistance remains poorly understood. Here, we identify serine/threonine/tyrosine kinase 1 (STYK1) as a critical mediator of gemcitabine resistance through autophagy- dependent maintenance of pancreatic cancer stemness. Mechanistically, gemcitabine activates AMP-activated protein kinase (AMPK), which contributes to the enhancement of STYK1-mediated autophagic flux, thereby promoting stemness-associated chemoresistance. Furthermore, AMPK phosphorylates STYK1 at residues Ser91 and Ser304, thereby further potentiating STYK1-mediated autophagy and cancer stemness. Importantly, we developed SAIDP5, a therapeutic peptide disrupting STYK1-AMPK binding, which synergizes with gemcitabine to attenuate chemoresistance. This study reveals that gemcitabine-induced AMPK activation amplifies STYK1-driven autophagy and cancer stemness, thereby contributing to gemcitabine resistance, and highlights SAIDP5 as a promising peptide-based strategy to improve gemcitabine efficacy in PDAC.",
+ "authors": [
+  "Dong X",
+  "Li S",
+  "Huang C",
+  "Qian X",
+  "Guo J",
+  "Guo Y",
+  "Wu G",
+  "Zhang Q"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42860583",
+ "importance": 0.64,
+ "key_points_ko": [
+  "STYK1 단백질은 자가포식 기반의 암 줄기세포능 유지를 통해 췌장암의 젬시타빈(gemcitabine) 내성을 유도하는 핵심 인자입니다.",
+  "젬시타빈 처리는 AMPK를 활성화하며, AMPK는 STYK1의 Ser91 및 Ser304 잔기를 인산화하여 자가포식과 줄기세포능을 더욱 증폭시킵니다.",
+  "STYK1-AMPK 결합을 저해하는 신규 펩타이드 SAIDP5는 젬시타빈과의 병용 요법에서 항암제 내성을 낮추는 시너지 효과를 보였습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1002/advs.202521488",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42860583"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42860583/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)에서 젬시타빈(gemcitabine) 항암제 내성이 발생하는 새로운 분자 기전을 규명했습니다. 연구진은 단백질 인산화효소인 STYK1이 자가포식(autophagy) 활성화를 통해 암 줄기세포능을 유지시켜 내성을 유발한다는 것을 밝혔습니다. 특히 젬시타빈 처리가 AMPK를 활성화하여 STYK1을 인산화시키고 내성을 더욱 강화함을 확인했습니다. 또한 STYK1과 AMPK의 결합을 차단하는 치료용 펩타이드 'SAIDP5'를 개발하여, 젬시타빈과 병용 시 항암 내성을 극복할 수 있는 가능성을 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Phosphorylated STYK1 Promotes Gemcitabine Resistance via Autophagy-Mediated Cancer Stemness in Pancreatic Cancer",
+ "title_ko": "인산화된 STYK1이 자가포식 매개 암 줄기세포능 유도를 통해 췌장암의 젬시타빈 내성을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

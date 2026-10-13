@@ -78,8 +78,23 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
+<a id="pmid-42861545"></a>
+#### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
+<small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `신약·치료제` `임상시험` · 2026-10-12 · PubMed · J Surg Oncol · 중요도 0.73
+
+네덜란드에서 2016년부터 2020년까지 췌관선암(PDAC) 수술을 받은 환자 161명을 대상으로 수술 후 보조항암요법(adjuvant chemotherapy)의 실제 치료 성적을 분석했습니다. (m)FOLFIRINOX 치료군의 전체 생존기간(OS) 중앙값은 29개월이었으며, 보조요법을 받지 않은 군은 13개월, gemcitabine(젬시타빈) 단독군은 21개월, gemcitabine 병용군은 28개월이었습니다. 기존 3상 임상시험(PRODIGE 24)에서 보고된 55개월 수준의 긴 생존 연장 효과는 실제 환자 코호트에서 관찰되지 않았습니다. 또한 실제 임상 환경에서 (m)FOLFIRINOX와 gemcitabine 병용요법 간의 생존기간 차이는 통계적으로 유의하지 않았습니다.
+
+- 수술 후 (m)FOLFIRINOX 투여군의 전체 생존기간 중앙값은 29개월로, 무치료군(13개월) 대비 사망 위험을 유의하게 낮췄습니다(HR 0.26, p<0.01).
+- (m)FOLFIRINOX는 gemcitabine 단독 요법(HR 0.62, p=0.14) 및 gemcitabine 병용 요법(HR 0.66, p=0.20)과 비교했을 때 통계적으로 유의한 생존기간 차이를 보이지 못했습니다.
+- 기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861545/) · [DOI](https://doi.org/10.1002/jso.70391) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861545)</small>
+
+---
 <a id="pmid-42846516"></a>
 #### [전이성 췌장 선편평세포암에서 11개의 간 전이 완전 소실과 환자 탐색에서 GPT의 역할](https://pubmed.ncbi.nlm.nih.gov/42846516/)
 <small>Complete Regression of 11 Hepatic Metastases in Metastatic Pancreatic Adenosquamous Carcinoma and the Role of GPT in Patient Navigation</small>

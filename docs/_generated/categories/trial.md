@@ -16,12 +16,42 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 414건 · 최근 30일 414건
+전체 416건 · 최근 30일 416건
 
 월별 보기: [2026-10](trial/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42862523"></a>
+#### [경계성 절제 가능 췌장암에서 티스렐리주맙과 젬시타빈·납-파클리탁셀 병용 요법의 효능 및 내성 분석: 전향적 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42862523/)
+<small>Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study</small>
+
+`논문` `2상` `신약·치료제` `임상시험` `수술` `치료 전반` · 2026-10-12 · PubMed · Ann Surg Oncol · 중요도 0.78
+
+경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 수술 전 티스렐리주맙(tislelizumab)과 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 요법의 타당성을 평가한 전향적 연구입니다. 등록된 30명의 환자 중 24명(80.0%)이 수술 전 3주기 치료를 마치고 수술을 진행했습니다. 수술을 받은 환자 24명 전원(100%)에서 완전 절제(R0 resection)를 달성했습니다. 치료 관련 부작용은 대부분 1~2등급으로 경미했으며 심각한 이상반응은 관찰되지 않았습니다.
+
+- 등록 환자 30명 중 80.0%(24명)가 수술을 받았으며 수술 환자의 R0 절제율은 100%(24/24명)였습니다.
+- 12개월 전체 생존율(OS)은 87.5%, 12개월 무재발 생존율(RFS)은 82.8%였으며 중앙 무재발 생존기간은 28개월이었습니다.
+- 단백체 분석을 통해 NT5DC2, FAM3D, CXCL5, TMT1B가 선행항암요법 저항성과 연관된 바이오마커 후보로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862523/) · [DOI](https://doi.org/10.1245/s10434-026-20711-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862523)</small>
+
+---
+<a id="pmid-42861545"></a>
+#### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
+<small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `신약·치료제` `임상시험` · 2026-10-12 · PubMed · J Surg Oncol · 중요도 0.73
+
+네덜란드에서 2016년부터 2020년까지 췌관선암(PDAC) 수술을 받은 환자 161명을 대상으로 수술 후 보조항암요법(adjuvant chemotherapy)의 실제 치료 성적을 분석했습니다. (m)FOLFIRINOX 치료군의 전체 생존기간(OS) 중앙값은 29개월이었으며, 보조요법을 받지 않은 군은 13개월, gemcitabine(젬시타빈) 단독군은 21개월, gemcitabine 병용군은 28개월이었습니다. 기존 3상 임상시험(PRODIGE 24)에서 보고된 55개월 수준의 긴 생존 연장 효과는 실제 환자 코호트에서 관찰되지 않았습니다. 또한 실제 임상 환경에서 (m)FOLFIRINOX와 gemcitabine 병용요법 간의 생존기간 차이는 통계적으로 유의하지 않았습니다.
+
+- 수술 후 (m)FOLFIRINOX 투여군의 전체 생존기간 중앙값은 29개월로, 무치료군(13개월) 대비 사망 위험을 유의하게 낮췄습니다(HR 0.26, p<0.01).
+- (m)FOLFIRINOX는 gemcitabine 단독 요법(HR 0.62, p=0.14) 및 gemcitabine 병용 요법(HR 0.66, p=0.20)과 비교했을 때 통계적으로 유의한 생존기간 차이를 보이지 못했습니다.
+- 기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861545/) · [DOI](https://doi.org/10.1002/jso.70391) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861545)</small>
+
+---
 <a id="nct-nct07867873"></a>
 #### [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT07867873)
 <small>Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy</small>
@@ -327,6 +357,23 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT06532344) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06532344)</small>
 
 ---
+<a id="nct-nct07261631"></a>
+#### [진행성 고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](https://clinicaltrials.gov/study/NCT07261631)
+<small>Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` · 2025-12-03 · ClinicalTrials.gov · Novartis Pharmaceuticals · 중요도 0.73
+
+**NCT07261631** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07261631.md)
+
+이 연구는 췌관선암(PDAC)을 포함한 진행성 고형암 환자를 대상으로 방사성 리간드 치료제인 [177Lu]Lu-DFC413의 안전성, 내약성, 흡수선량 및 예비 효능을 평가하는 1상 임상시험입니다. 환자들은 먼저 동반 진단용 표지자인 [68Ga]Ga-NNS309를 이용한 PET 영상 검사를 받아 치료 대상 여부를 평가받습니다. 검사상 적합한 환자는 [177Lu]Lu-DFC413 치료를 받게 되며 용량 증량 및 암종별 용량 확장 코호트가 진행됩니다.
+
+- 노바티스(Novartis)가 주도하는 최초 인체 대상(FIH) 1상 임상시험으로 총 180명의 고형암 환자를 모집할 예정입니다.
+- 이전 세포독성 항암화학요법에 질병이 진행했거나 불내성을 보인 국소 진행성 절제 불가능 또는 전이성 췌관선암 환자가 참여 대상에 포함됩니다.
+- 영상 검사에서 68Ga-NNS309 섭취를 보이는 병변이 확인되어야 [177Lu]Lu-DFC413 투여가 가능합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07261631) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07261631)</small>
+
+---
 <a id="nct-nct00720785"></a>
 #### [자연살해세포(NK 세포)와 bortezomib을 이용한 암 치료 임상시험](https://clinicaltrials.gov/study/NCT00720785)
 <small>Natural Killer Cells and Bortezomib to Treat Cancer</small>
@@ -361,23 +408,6 @@ search:
 - 연구 치료 완료 후 환자들은 24시간 및 30일에 추적 관찰을 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT03168737) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03168737)</small>
-
----
-<a id="nct-nct07261631"></a>
-#### [고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](https://clinicaltrials.gov/study/NCT07261631)
-<small>Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` · 2025-12-03 · ClinicalTrials.gov · Novartis Pharmaceuticals · 중요도 0.64
-
-**NCT07261631** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07261631.md)
-
-이 연구는 고형암(Solid Tumors) 환자를 대상으로 [177Lu]Lu-DFC413의 안전성, 내약성, 선량 측정 및 예비 유효성을 평가하기 위한 임상 1상 시험입니다. 췌장관상피내암(Pancreatic Ductal Adenocarcinoma, PDAC)을 포함한 여러 고형암 환자가 대상입니다. 환자들은 먼저 [68Ga]Ga-NNS309 양전자 방출 단층촬영(PET)/컴퓨터 단층촬영(CT) 또는 자기공명영상(MRI) 스캔을 거쳐 치료 적격성을 평가받습니다. 용량 증량(Dose escalation) 및 용량 확장(Dose expansion) 단계로 진행되며 목표 인원은 180명입니다.
-
-- 목표 인원은 180명의 고형암 환자입니다.
-- 중재 약물로 68Ga-NNS309와 177Lu-DFC413이 사용됩니다.
-- 초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07261631) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07261631)</small>
 
 ---
 <a id="nct-nct05919238"></a>
@@ -2571,40 +2601,5 @@ IMPULS 임상시험은 수술이 예정된 췌장암 환자 30명을 대상으�
 - 복직근초 그룹은 초음파 유도하에 복직근초 내로 부피바카인과 리포소말 부피바카인 주사를 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06411795) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06411795)</small>
-
----
-<a id="nct-nct06435260"></a>
-#### [경계성 절제 가능 또는 국소 진행성 췌장암 환자에서 저분할 방사선 치료, 항암화학요법(AG), 캄렐리주맙(camrelizumab) 병용 선행치료의 2상 임상시험](https://clinicaltrials.gov/study/NCT06435260)
-<small>Hypofractionated Radiotherapy +Chemotherapy+ Camrelizumab as Neoadjuvant Therapy for Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2024-05-30 · ClinicalTrials.gov · Hebei Medical University Fourth Hospital · 중요도 0.80
-
-**NCT06435260** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06435260.md)
-
-이 연구는 경계성 절제 가능 또는 국소 진행성 췌장암(pancreatic cancer) 환자를 대상으로 저분할 방사선 치료(hypofractionated radiotherapy), AG 항암화학요법, 면역항암제 camrelizumab을 병용한 선행치료(neoadjuvant therapy)의 수술 전환율과 단기 및 장기 치료 결과를 평가하기 위한 임상시험입니다. 대상 질환은 췌관선암(pancreatic ductal adenocarcinoma) 또는 선방세포암(acinar cell carcinoma)이며, 총 30명의 환자를 목표로 모집 중(recruiting)입니다. 참가 연령은 18세부터 75세까지입니다.
-
-- 목표 환자 수는 30명이며, 경계성 절제 가능 또는 국소 진행성 췌장암 환자를 대상으로 합니다.
-- 중재 치료로 저분할 방사선 치료, AG 항암화학요법, camrelizumab 면역치료를 병용합니다.
-- 주요 평가 목적은 수술 전환율(surgical conversion rate)과 단기 및 장기 치료 결과 확인입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06435260) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06435260)</small>
-
----
-<a id="nct-nct06454448"></a>
-#### [전이성 췌장암 1차 치료로서 adebrelimab, decitabine, 알부민 결합 파클리탁셀, 젬시타빈 병용 요법에 대한 제 1b/2상 임상시험](https://clinicaltrials.gov/study/NCT06454448)
-<small>Phase Ib/II Clinical Study of Adebrelimab in Combination With Decitabine, Albumin-bound Paclitaxel, and Gemcitabine for the First-line Treatment of Metastatic Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2024-06-12 · ClinicalTrials.gov · Tianjin Medical University Cancer Institute and Hospital · 중요도 0.80
-
-**NCT06454448** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06454448.md)
-
-이 연구는 전이성 췌장암(metastatic pancreatic cancer) 환자의 1차 치료로 adebrelimab, decitabine, albumin-bound paclitaxel, gemcitabine 병용 요법의 효과와 안전성을 평가하는 전향적, 단일군, 단일기관 제1b/2상 임상시험입니다. 면역관문억제제와 화학요법의 병용 치료 효과를 높이기 위해 후성유전학적 억제제인 decitabine을 함께 사용하여 면역 반응을 촉진하는 전략을 평가합니다. 목표 인원은 20명이며, 주요 평가지표는 용량제한독성(DLT), 권장 2상 용량(RP2D), 객관적 반응률(ORR)입니다.
-
-- 대상 질환: 전이성 췌장암(1차 치료)
-- 중재 치료: adebrelimab, decitabine, albumin-bound paclitaxel, gemcitabine 병용
-- 주요 평가지표: 용량제한독성(DLT), 권장 2상 용량(RP2D), 객관적 반응률(ORR)
-- 목표 환자 수: 20명
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06454448) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06454448)</small>
 
 ---

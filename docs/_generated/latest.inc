@@ -1,4 +1,4 @@
-최근 수집일: [2026-10-12](_generated/daily/2026/10/12.md) · 전체 509건 · 최근 7일 509건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
+최근 수집일: [2026-10-13](_generated/daily/2026/10/13.md) · 전체 521건 · 최근 7일 521건 · **국내 모집 중 임상시험 [26건](_generated/trials/index.md)**
 
 <a id="nct-nct07490301"></a>
 #### [1차 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)

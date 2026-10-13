@@ -16,12 +16,57 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 54건 · 최근 30일 54건
+전체 57건 · 최근 30일 57건
 
 월별 보기: [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42861168"></a>
+#### [시알산 표적 렉틴 접합 산소 나노좀의 췌장암 세포 내 저산소증 완화 및 대식세포 활성화 효과](https://pubmed.ncbi.nlm.nih.gov/42861168/)
+<small>Sialic Acid-Targeting Lectin-Conjugated Oxygen Nanosomes Alleviate Hypoxia and Promote Macrophage Activation in Pancreatic Cancer Cells</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `지지요법·삶의질` · 2026-10-07 · PubMed · Int J Nanomedicine · 중요도 0.64
+
+이 연구는 췌관선암(PDAC)의 심각한 저산소증과 면역 억제성 미세환경을 개선하기 위해 시알산(sialic acid)을 표적하는 렉틴 접합 산소 나노좀(Lectin-ONs)을 개발하여 평가했습니다. 연구진은 SNA 및 MALII 렉틴을 결합한 산소 나노좀을 제작하고, 췌장암 세포주 및 대식세포 공동 배양 모델을 통해 저산소증 완화와 면역 반응을 측정했습니다. 실험 결과 나노좀은 췌장암 세포에 효과적으로 결합해 저산소 상태를 개선했으며, 대식세포의 종양괴사인자 알파(TNF-α) 분비를 증가시켰습니다. 본 결과는 저산소 및 면역 억제 미세환경을 조절하는 플랫폼으로서의 가능성을 보여주었으나 생체 내(in vivo) 추가 검증이 필요합니다.
+
+- 시알산 표적 렉틴 접합 산소 나노좀(Lectin-ONs)은 췌장암 세포에 안정적으로 결합하여 산소를 전달했습니다.
+- 산소 결핍 환경의 췌장암 세포 모델에서 저산소증 관련 형광 신호를 감소시켰습니다.
+- 대식세포와 췌장암 세포 공동 배양 조건에서 대식세포 활성화를 나타내는 TNF-α 분비 증가를 유도했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861168/) · [DOI](https://doi.org/10.2147/IJN.S630472) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13654269/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861168)</small>
+
+---
+<a id="pmid-42860670"></a>
+#### [편집자에게 보내는 서한: 절제술을 받은 췌장암에서 자연 치아 수와 구치부 교합의 독립적 예후 가치에 대한 방법론적 우려](https://pubmed.ncbi.nlm.nih.gov/42860670/)
+<small>Letter to the Editor. Re: Independent Prognostic Value of Natural Tooth Count Versus Posterior Teeth Occlusion in Resected Pancreatic Cancer: Methodological Concerns</small>
+
+`논문` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-10-11 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.60
+
+본 논문은 절제술을 받은 췌장암 환자에서 자연 치아 수와 어금니 맞물림(구치부 교합)의 독립적 예후 가치를 분석한 기존 연구에 대한 서한(Letter)입니다. 저자들은 선행 연구의 방법론적 문제점과 한계에 대해 논의를 제기했습니다. 상세한 논의 내용과 구체적인 연구 수치는 본문에 명시되지 않았습니다.
+
+- 절제술을 받은 췌장암 환자의 치아 상태 및 예후 관련 선행 연구에 대한 방법론적 우려를 다룬 서한입니다.
+- 자연 치아 수와 구치부 교합의 예후적 가치 평가 방식에 대한 학술적 의견이 제시되었습니다.
+- 구체적인 분석 수치 및 세부 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860670/) · [DOI](https://doi.org/10.1002/jhbp.70204) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860670)</small>
+
+---
+<a id="pmid-42860317"></a>
+#### [인간 베타세포 역분화와 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42860317/)
+<small>Human β-Cell Dedifferentiation and Diabetes</small>
+
+`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-01 · PubMed · J Diabetes · 중요도 0.54
+
+인간 췌장 베타세포(β-cell)의 역분화는 세포가 고유의 특성을 잃고 미성숙한 상태로 되돌아가는 현상으로, 베타세포 기능 부전의 주요 원인으로 꼽힙니다. 제2형 당뇨병 환자뿐만 아니라 당뇨가 없는 만성 췌장염 및 췌관선암(PDAC) 환자에서도 이러한 기능 저하 역분화 세포가 증가하는 것이 관찰되었습니다. 이는 베타세포 역분화가 췌장 질환에 따른 췌장원성 당뇨병의 주요 기전이자 고혈당 발생 이전의 초기 유발 요인임을 시사합니다. 연구진은 역분화를 예방하거나 역전시켜 베타세포 기능을 보존하는 치료 전략 개발의 가능성을 제시하고 있습니다.
+
+- 당뇨 병력이 없는 만성 췌장염 및 췌장암(췌관선암) 환자에서도 기능 장애를 동반한 역분화 베타세포의 증가가 확인되었습니다.
+- 베타세포의 역분화 비율은 당뇨 병력이 없는 대상자에서 HOMA-β 및 식후 2시간 C-펩타이드(2h-C Peptide) 수치와 반비례 관계를 보였습니다.
+- 베타세포 역분화는 고혈당이 나타나기 전부터 발생하는 베타세포 부전의 초기 촉발 요인으로 작용할 수 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860317/) · [DOI](https://doi.org/10.1111/1753-0407.70280) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860317)</small>
+
+---
 <a id="pmid-42857277"></a>
 #### [인삼 유래 진세노사이드 Rb1의 PI3K-AKT 경로 조절을 통한 대식세포 재프로그래밍 및 췌장암 진행 억제](https://pubmed.ncbi.nlm.nih.gov/42857277/)
 <small>Ginsenoside Rb1 From the Functional Food Panax ginseng Suppresses Pancreatic Cancer Progression via Macrophage Reprogramming Through the PI3K-AKT Pathway</small>

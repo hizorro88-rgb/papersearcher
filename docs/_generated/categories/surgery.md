@@ -16,12 +16,85 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 148건 · 최근 30일 148건
+전체 153건 · 최근 30일 153건
 
 월별 보기: [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42862523"></a>
+#### [경계성 절제 가능 췌장암에서 티스렐리주맙과 젬시타빈·납-파클리탁셀 병용 요법의 효능 및 내성 분석: 전향적 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42862523/)
+<small>Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study</small>
+
+`논문` `2상` `신약·치료제` `임상시험` `수술` `치료 전반` · 2026-10-12 · PubMed · Ann Surg Oncol · 중요도 0.78
+
+경계성 절제 가능 췌장암(BRPC) 환자를 대상으로 수술 전 티스렐리주맙(tislelizumab)과 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 요법의 타당성을 평가한 전향적 연구입니다. 등록된 30명의 환자 중 24명(80.0%)이 수술 전 3주기 치료를 마치고 수술을 진행했습니다. 수술을 받은 환자 24명 전원(100%)에서 완전 절제(R0 resection)를 달성했습니다. 치료 관련 부작용은 대부분 1~2등급으로 경미했으며 심각한 이상반응은 관찰되지 않았습니다.
+
+- 등록 환자 30명 중 80.0%(24명)가 수술을 받았으며 수술 환자의 R0 절제율은 100%(24/24명)였습니다.
+- 12개월 전체 생존율(OS)은 87.5%, 12개월 무재발 생존율(RFS)은 82.8%였으며 중앙 무재발 생존기간은 28개월이었습니다.
+- 단백체 분석을 통해 NT5DC2, FAM3D, CXCL5, TMT1B가 선행항암요법 저항성과 연관된 바이오마커 후보로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862523/) · [DOI](https://doi.org/10.1245/s10434-026-20711-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862523)</small>
+
+---
+<a id="pmid-42862519"></a>
+#### [T3 병기 췌장 체부 및 미부 췌관선암에서 근치적 전향적 모듈러 췌비장절제술(RAMPS)과 표준 절제술 비교: 다기관 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42862519/)
+<small>ASO Visual Abstract: Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study</small>
+
+`논문` `관찰연구` `수술` · 2026-10-12 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+T3 병기의 췌장 체부 및 미부 췌관선암 환자를 대상으로 근치적 전향적 모듈러 췌비장절제술(RAMPS)과 표준 절제술의 치료 결과를 비교한 다기관 후향적 연구입니다. 제공된 자료는 시각적 초록(Visual Abstract) 제목 정보로 구체적인 본문 내용이 포함되어 있지 않습니다. 환자 수, 생존기간, 절제 성공률 등 세부 연구 결과는 초록에 명시되지 않았습니다.
+
+- T3 병기 췌장 체미부암 환자에서 RAMPS 수술법과 표준 절제술을 비교한 다기관 후향적 연구입니다.
+- 상세 생존기간, 합병증 발생률 및 수술 관련 주요 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862519/) · [DOI](https://doi.org/10.1245/s10434-026-20755-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862519)</small>
+
+---
+<a id="pmid-42860496"></a>
+#### [ASO 시각적 초록: 국소 췌장암에서 전체 생존기간에 대한 대리 평가변수로서의 무진행 생존기간 평가: 대서양 횡단 췌장 수술 컨소시엄 연구](https://pubmed.ncbi.nlm.nih.gov/42860496/)
+<small>ASO Visual Abstract: Evaluation of Progression-Free Survival as a Surrogate Endpoint for Overall Survival in Localized Pancreatic Cancer: Trans-Atlantic Pancreatic Surgery Consortium Study</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-10-11 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+본 논문은 국소 췌장암 환자에서 무진행 생존기간(PFS)이 전체 생존기간(OS)을 대체할 수 있는 대리 평가변수(surrogate endpoint)로 유효한지 평가한 대서양 횡단 췌장 수술 컨소시엄의 연구입니다. 제공된 정보는 시각적 초록(Visual Abstract)의 제목뿐이며, 구체적인 연구 내용과 결과 수치는 초록에 명시되지 않았습니다. 상세한 분석 결과와 결론은 원문 확인이 필요합니다.
+
+- 국소 췌장암에서 무진행 생존기간(PFS)이 전체 생존기간(OS)의 대리 평가변수로 적합한지 평가한 연구입니다.
+- 구체적인 분석 수치 및 결론은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860496/) · [DOI](https://doi.org/10.1245/s10434-026-20742-w) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860496)</small>
+
+---
+<a id="pmid-42861545"></a>
+#### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
+<small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `신약·치료제` `임상시험` · 2026-10-12 · PubMed · J Surg Oncol · 중요도 0.73
+
+네덜란드에서 2016년부터 2020년까지 췌관선암(PDAC) 수술을 받은 환자 161명을 대상으로 수술 후 보조항암요법(adjuvant chemotherapy)의 실제 치료 성적을 분석했습니다. (m)FOLFIRINOX 치료군의 전체 생존기간(OS) 중앙값은 29개월이었으며, 보조요법을 받지 않은 군은 13개월, gemcitabine(젬시타빈) 단독군은 21개월, gemcitabine 병용군은 28개월이었습니다. 기존 3상 임상시험(PRODIGE 24)에서 보고된 55개월 수준의 긴 생존 연장 효과는 실제 환자 코호트에서 관찰되지 않았습니다. 또한 실제 임상 환경에서 (m)FOLFIRINOX와 gemcitabine 병용요법 간의 생존기간 차이는 통계적으로 유의하지 않았습니다.
+
+- 수술 후 (m)FOLFIRINOX 투여군의 전체 생존기간 중앙값은 29개월로, 무치료군(13개월) 대비 사망 위험을 유의하게 낮췄습니다(HR 0.26, p<0.01).
+- (m)FOLFIRINOX는 gemcitabine 단독 요법(HR 0.62, p=0.14) 및 gemcitabine 병용 요법(HR 0.66, p=0.20)과 비교했을 때 통계적으로 유의한 생존기간 차이를 보이지 못했습니다.
+- 기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861545/) · [DOI](https://doi.org/10.1002/jso.70391) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861545)</small>
+
+---
+<a id="pmid-42860670"></a>
+#### [편집자에게 보내는 서한: 절제술을 받은 췌장암에서 자연 치아 수와 구치부 교합의 독립적 예후 가치에 대한 방법론적 우려](https://pubmed.ncbi.nlm.nih.gov/42860670/)
+<small>Letter to the Editor. Re: Independent Prognostic Value of Natural Tooth Count Versus Posterior Teeth Occlusion in Resected Pancreatic Cancer: Methodological Concerns</small>
+
+`논문` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-10-11 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.60
+
+본 논문은 절제술을 받은 췌장암 환자에서 자연 치아 수와 어금니 맞물림(구치부 교합)의 독립적 예후 가치를 분석한 기존 연구에 대한 서한(Letter)입니다. 저자들은 선행 연구의 방법론적 문제점과 한계에 대해 논의를 제기했습니다. 상세한 논의 내용과 구체적인 연구 수치는 본문에 명시되지 않았습니다.
+
+- 절제술을 받은 췌장암 환자의 치아 상태 및 예후 관련 선행 연구에 대한 방법론적 우려를 다룬 서한입니다.
+- 자연 치아 수와 구치부 교합의 예후적 가치 평가 방식에 대한 학술적 의견이 제시되었습니다.
+- 구체적인 분석 수치 및 세부 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860670/) · [DOI](https://doi.org/10.1002/jhbp.70204) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860670)</small>
+
+---
 <a id="nct-nct07867873"></a>
 #### [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT07867873)
 <small>Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy</small>
@@ -2497,54 +2570,5 @@ IMPULS 임상시험은 수술이 예정된 췌장암 환자 30명을 대상으�
 - ECOG 수행 능력 상태 0~1의 환자가 참여할 수 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07623642) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07623642)</small>
-
----
-<a id="nct-nct07594067"></a>
-#### [KRAS 변이 암 환자 대상 TCR1188-ABC 세포 치료제 임상 1상](https://clinicaltrials.gov/study/NCT07594067)
-<small>TCR1188-ABC Cells in KRAS-mutated Cancers</small>
-
-`임상시험` `1상` `신약·치료제` `수술` `치료 전반` · 2026-05-18 · ClinicalTrials.gov · University of Pennsylvania · 중요도 0.66
-
-**NCT07594067** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07594067.md)
-
-이 연구는 KRAS 변이 암 환자를 대상으로 TCR1188-ABC 세포의 안전성, 제조 가능성, 예비 유효성을 평가하는 제1상 공개 용량 탐색 연구입니다. 초기에는 KRAS G12V 변이 양성인 전이성 췌장암(pancreatic adenocarcinoma), 담관암(cholangiocarcinoma), 대장암(colorectal cancer), 비소세포폐암(non-small cell lung cancer, NSCLC) 환자를 대상으로 진행합니다. 3+3 용량 증량 설계에 따라 최대 4개의 용량 단계가 평가됩니다.
-
-- KRAS G12V 변이 양성인 진행성 암 환자를 대상으로 TCR1188-ABC 세포를 평가하는 제1상 임상시험입니다.
-- 총 30명의 환자를 목표로 3+3 용량 증량 방식으로 진행됩니다.
-- 췌장암 환자는 젬시타빈(gemcitabine) 또는 5-FU 기반 치료를 포함하여 진행성 질환에 대해 최소 1차 이상의 표준 치료를 받았어야 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07594067) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07594067)</small>
-
----
-<a id="pmid-42831115"></a>
-#### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
-<small>A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy</small>
-
-`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-02 · PubMed · Surg Case Rep · 중요도 0.64
-
-이 논문은 활동성 폐결핵(pulmonary tuberculosis, TB)을 동반한 81세 남성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 치료 증례입니다. 의료진은 4주간의 항결핵 치료 후, 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel, GnP) 병용 선행화학요법(neoadjuvant chemotherapy)을 시행했습니다. 결핵 재활성화 없이 성공적으로 수술적 절제를 마쳤으며, 항결핵 치료 시작 후 33개월째 생존 상태를 유지했습니다. 초록에 명시된 환자 수는 1명입니다.
-
-- 81세 환자에게 발생한 14mm 크기의 췌장두부 종양이 항결핵 치료 기간 동안 21mm로 커졌습니다.
-- 4가지 약물로 4주간 항결핵 치료를 진행한 후 객담 도말 음전(sputum smear conversion)을 확인했습니다.
-- 선행화학요법으로 GnP 6주기를 완료한 후 문맥 절제를 동반한 췌십이지장절제술을 시행했습니다.
-- 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
-
----
-<a id="pmid-42830587"></a>
-#### [점액성 낭성 종양(MCN)과 예기치 않은 면역글로불린 G4(IgG4) 연관 비장동맥 주위염이 동반된 복강경 비장 보존 원위부 췌장 절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42830587/)
-<small>Laparoscopic Spleen-Preserving Distal Pancreatectomy for Mucinous Cystic Neoplasm With Unexpected Immunoglobulin G4-Related Periarteritis of the Splenic Artery: A Case Report</small>
-
-`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-01-01 · PubMed · Asian J Endosc Surg · 중요도 0.50
-
-이 논문은 점액성 낭성 종양(MCN) 치료를 위해 복강경 비장 보존 원위부 췌장 절제술(LSPDP)을 받은 76세 여성 환자의 증례를 보고합니다. 수술 전 컴퓨터 단층촬영(CT)에서 비장동맥을 따라 둘레의 연조직 비후가 관찰되었습니다. 수술 중 비장동맥의 심한 벽 비후로 인해 혈관 결찰이나 클립만으로는 안전한 절제가 불가능하여 혈관용 스테이플러를 사용했습니다. 조직병리학적 검사에서 저등급 MCN과 비장동맥을 침범한 IgG4 연관 주위염이 확인되었습니다.
-
-- 76세 여성 환자가 점액성 낭성 종양(MCN)으로 복강경 비장 보존 원위부 췌장 절제술(LSPDP)을 받았습니다.
-- 수술 전 CT에서 비장동맥을 따라 둘레의 연조직 비후가 관찰되었습니다.
-- 면역글로불린 G4(IgG4) 연관 비장동맥 주위염으로 인해 비장동맥 절제 시 혈관용 스테이플러를 사용했습니다.
-- 조직병리학적 검사 결과 저등급 MCN과 IgG4 연관 주위염이 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830587/) · [DOI](https://doi.org/10.1111/ases.70387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830587)</small>
 
 ---

@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Okui J",
+  "Besselink MG",
+  "Wei AC",
+  "O'Reilly EM",
+  "Koerkamp BG",
+  "Ceuppens S",
+  "Dekker EN",
+  "Paniccia A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42860496",
+ "importance": 0.77,
+ "key_points_ko": [
+  "국소 췌장암에서 무진행 생존기간(PFS)이 전체 생존기간(OS)의 대리 평가변수로 적합한지 평가한 연구입니다.",
+  "구체적인 분석 수치 및 결론은 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1245/s10434-026-20742-w",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42860496"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42860496/"
+ },
+ "summary_ko": "본 논문은 국소 췌장암 환자에서 무진행 생존기간(PFS)이 전체 생존기간(OS)을 대체할 수 있는 대리 평가변수(surrogate endpoint)로 유효한지 평가한 대서양 횡단 췌장 수술 컨소시엄의 연구입니다. 제공된 정보는 시각적 초록(Visual Abstract)의 제목뿐이며, 구체적인 연구 내용과 결과 수치는 초록에 명시되지 않았습니다. 상세한 분석 결과와 결론은 원문 확인이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Evaluation of Progression-Free Survival as a Surrogate Endpoint for Overall Survival in Localized Pancreatic Cancer: Trans-Atlantic Pancreatic Surgery Consortium Study",
+ "title_ko": "ASO 시각적 초록: 국소 췌장암에서 전체 생존기간에 대한 대리 평가변수로서의 무진행 생존기간 평가: 대서양 횡단 췌장 수술 컨소시엄 연구",
+ "trial": null,
+ "type": "paper"
+}

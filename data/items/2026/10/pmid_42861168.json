@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic ductal adenocarcinoma (PDAC) is characterized by severe hypoxia and an immunosuppressive tumor microenvironment, which contribute to poor therapeutic responses. This study developed sialic acid-targeting Lectin-conjugated oxygen nanosomes (Lectin-ONs) to combine targeted oxygen delivery with hypoxia alleviation and macrophage activation.\nMETHODS: SNA- and MALII-conjugated oxygen nanosomes (SNA-ONs and MALII-ONs) were prepared and characterized for physicochemical properties, oxygen-loading and release behavior, stability, cytocompatibility, and cellular binding. Their effects on hypoxia and macrophage activation were evaluated in pancreatic cancer cell models and macrophage-pancreatic cancer cell co-culture using hypoxia-sensitive fluorescence and TNF-α secretion, respectively.\nRESULTS: Lectin-ONs exhibited stable physicochemical properties, effective oxygen delivery, and cellular binding to pancreatic cancer cells, while reducing hypoxia-associated fluorescence under oxygen-limited conditions. Treatment with Lectin-ONs also increased TNF-α secretion in macrophage-pancreatic cancer cell co-culture, consistent with macrophage activation.\nCONCLUSION: Lectin-ONs integrate sialic acid-targeted delivery with oxygen-mediated hypoxia alleviation and were associated with increased macrophage TNF-α secretion in vitro. These findings support Lectin-ONs as a potential platform for modulating the hypoxic and immunosuppressive microenvironment of pancreatic cancer, although further mechanistic and in vivo validation is required.",
+ "authors": [
+  "Jang Y",
+  "Yang J",
+  "Kim J",
+  "Son J",
+  "Jang J",
+  "Choi Y",
+  "Lee HY",
+  "Choi J"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42861168",
+ "importance": 0.64,
+ "key_points_ko": [
+  "시알산 표적 렉틴 접합 산소 나노좀(Lectin-ONs)은 췌장암 세포에 안정적으로 결합하여 산소를 전달했습니다.",
+  "산소 결핍 환경의 췌장암 세포 모델에서 저산소증 관련 형광 신호를 감소시켰습니다.",
+  "대식세포와 췌장암 세포 공동 배양 조건에서 대식세포 활성화를 나타내는 TNF-α 분비 증가를 유도했습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.2147/IJN.S630472",
+  "nct": [],
+  "pmcid": "PMC13654269",
+  "pmid": "42861168"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Nanomedicine",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42861168/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)의 심각한 저산소증과 면역 억제성 미세환경을 개선하기 위해 시알산(sialic acid)을 표적하는 렉틴 접합 산소 나노좀(Lectin-ONs)을 개발하여 평가했습니다. 연구진은 SNA 및 MALII 렉틴을 결합한 산소 나노좀을 제작하고, 췌장암 세포주 및 대식세포 공동 배양 모델을 통해 저산소증 완화와 면역 반응을 측정했습니다. 실험 결과 나노좀은 췌장암 세포에 효과적으로 결합해 저산소 상태를 개선했으며, 대식세포의 종양괴사인자 알파(TNF-α) 분비를 증가시켰습니다. 본 결과는 저산소 및 면역 억제 미세환경을 조절하는 플랫폼으로서의 가능성을 보여주었으나 생체 내(in vivo) 추가 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Sialic Acid-Targeting Lectin-Conjugated Oxygen Nanosomes Alleviate Hypoxia and Promote Macrophage Activation in Pancreatic Cancer Cells",
+ "title_ko": "시알산 표적 렉틴 접합 산소 나노좀의 췌장암 세포 내 저산소증 완화 및 대식세포 활성화 효과",
+ "trial": null,
+ "type": "paper"
+}

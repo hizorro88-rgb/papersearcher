@@ -1,0 +1,58 @@
+{
+ "abstract": "β-cell dedifferentiation in humans is considered as a mechanism underlying β-cell failure, which is characterized by the loss of their differentiated identity and reversion to a fetal-like state. In humans, significant increases in the hormones-negative/Chromogranin A-positive endocrine cells were detected in islets from T2D individuals, which were accompanied by decreased expressions of the β-cell identity transcription factors (NKX6.1, MAFA, etc.) and reactivation of the progenitor marker, NEUROGENIN 3, and dramatic inductions of the dedifferentiation marker, ALDH1A3 and BACH2. The observation of increased dysfunctional dedifferentiated β-cells in non-diabetic patients with chronic pancreatitis or pancreatic ductal adenocarcinoma as well as in non-diabetic aged subjects proposed that β-cell dedifferentiation is not only a major mechanism of pancreatogenic diabetes and age-related diabetes but also an initial trigger for human β-cell failure before hyperglycemia occurs. Indeed, the finding that the ratio of dedifferentiated β-cells is inversely related to HOMA-β and 2h-C Peptide in subjects without a diabetes history further supports the contribution of β-cell dedifferentiation to β-cell failure in humans. Considerable efforts have been made and are still required to identify targets and pathways (in)dependent of hyperglycemia that trigger dedifferentiation in human β-cells. These findings hold promise for the development of effective therapeutic strategies aimed at preventing or reversing this process, thereby maintaining or restoring functional β-cell mass.",
+ "authors": [
+  "Sun J",
+  "Son J",
+  "Wang Q"
+ ],
+ "categories": [
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42860317",
+ "importance": 0.54,
+ "key_points_ko": [
+  "당뇨 병력이 없는 만성 췌장염 및 췌장암(췌관선암) 환자에서도 기능 장애를 동반한 역분화 베타세포의 증가가 확인되었습니다.",
+  "베타세포의 역분화 비율은 당뇨 병력이 없는 대상자에서 HOMA-β 및 식후 2시간 C-펩타이드(2h-C Peptide) 수치와 반비례 관계를 보였습니다.",
+  "베타세포 역분화는 고혈당이 나타나기 전부터 발생하는 베타세포 부전의 초기 촉발 요인으로 작용할 수 있습니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.1111/1753-0407.70280",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42860317"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Diabetes",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42860317/"
+ },
+ "summary_ko": "인간 췌장 베타세포(β-cell)의 역분화는 세포가 고유의 특성을 잃고 미성숙한 상태로 되돌아가는 현상으로, 베타세포 기능 부전의 주요 원인으로 꼽힙니다. 제2형 당뇨병 환자뿐만 아니라 당뇨가 없는 만성 췌장염 및 췌관선암(PDAC) 환자에서도 이러한 기능 저하 역분화 세포가 증가하는 것이 관찰되었습니다. 이는 베타세포 역분화가 췌장 질환에 따른 췌장원성 당뇨병의 주요 기전이자 고혈당 발생 이전의 초기 유발 요인임을 시사합니다. 연구진은 역분화를 예방하거나 역전시켜 베타세포 기능을 보존하는 치료 전략 개발의 가능성을 제시하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Human β-Cell Dedifferentiation and Diabetes",
+ "title_ko": "인간 베타세포 역분화와 당뇨병",
+ "trial": null,
+ "type": "paper"
+}

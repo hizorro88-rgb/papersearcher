@@ -1,0 +1,56 @@
+{
+ "abstract": "Research shows that genetic variation directly influences DNA methylation, and this association has generally been explored on germline SNPs and at a population level. The presence of genomic variation and base modification on sequence reads generated from a technology like nanopore sequencing offers an opportunity to link disease-specific variants to methylation changes in individual genomes. Here, we present unduliner, a framework with an embedded pretrained convolutional neural network model, that predicts somatic variants, single-nucleotide (SNVs) and structural (SVs), associated with methylation pattern changes in cancer genomes. We trained the model (accuracy = 0.803 on validation; 0.897 on held-out test) using phased sequence reads, single-nucleotide germline variants, per-base methylation probability, and variant proximity or presence in haplotype-specific differentially methylated regions (DMRs). Unduliner was applied to subline-specific variants from MCF7 breast cancer cell lines as proof-of-concept, and we demonstrated its ability to identify variant-stratified methylation differences independent of haplotype-based methylation differences. In a pancreatic ductal adenocarcinoma (PDAC) sample, we identified coding and non-coding SNVs and SVs associated with tumour-normal DMRs, allele-specific methylation, and intratumour DMRs. These observations demonstrate that integrating long-read methylation and variant information can provide additional interpretative context for both coding and non-coding genomic variation beyond the conventional variant impact prediction tools. The results from unduliner include variant information, size and direction of methylation change with respect to the variant (increase or decrease), and genomic location of methylation change. Unduliner is publicly available on GitHub at https://github.com/Chisomgold/unduliner.",
+ "authors": [
+  "Atanda HC",
+  "Ewing AD."
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-13",
+ "history": [
+  {
+   "date": "2026-10-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.08.757715",
+ "importance": 0.5,
+ "key_points_ko": [
+  "인공지능 모델 unduliner는 검증 데이터셋에서 80.3%, 별도 시험 데이터셋에서 89.7%의 예측 정확도를 보였습니다.",
+  "췌관선암(PDAC) 검체에서 종양-정상 간 차등 메틸화 영역(DMR) 등과 연관된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 확인했습니다.",
+  "변이 정보와 더불어 메틸화 변화의 방향(증가 또는 감소), 변화 크기, 유전체 상의 위치 정보를 함께 제공합니다."
+ ],
+ "last_updated": "2026-10-13",
+ "links": {
+  "doi": "10.64898/2026.10.08.757715",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1338940"
+ },
+ "summary_ko": "연구진은 나노포어 시퀀싱 데이터를 활용해 체세포 변이와 DNA 메틸화 패턴 변화 간의 연관성을 예측하는 인공신경망 기반 분석 모델 'unduliner'를 개발했습니다. 이 딥러닝 모델은 검증 데이터셋에서 80.3%, 독립 테스트 데이터셋에서 89.7%의 정확도를 기록했습니다. 췌관선암(PDAC) 검체에 적용한 결과, 종양-정상 조직 간 차등 메틸화 영역(DMR) 및 종양 내 메틸화 변화와 관련된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 식별했습니다. 이를 통해 기존 유전 변이 예측 도구를 넘어 암 유전체 변이의 기능적 영향을 폭넓게 해석할 수 있는 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Linking somatic variants to altered methylation profiles in nanopore-derived breast and pancreatic cancer genomes using unduliner",
+ "title_ko": "나노포어 분석 기반 유방암 및 췌장암 유전체에서 unduliner를 활용한 체세포 변이와 DNA 메틸화 변화의 연계 분석",
+ "trial": null,
+ "type": "preprint"
+}
