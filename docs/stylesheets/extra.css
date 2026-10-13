@@ -40,5 +40,5 @@
 .ps-stat span { font-size: .7rem; color: var(--md-default-fg-color--light); }
 .ps-stat small { font-size: .65rem; }
 @media (max-width: 30em) { .ps-stat b { font-size: 1.2rem; } .ps-stat span { font-size: .62rem; } }
-.ps-hits { text-align: right; margin: 1.5rem 0 0; opacity: .8; }
-.ps-hits img { height: 20px; }
+.ps-hits { display: inline-block; margin-right: .6rem; vertical-align: middle; }
+.ps-hits img { height: 18px; vertical-align: middle; }
