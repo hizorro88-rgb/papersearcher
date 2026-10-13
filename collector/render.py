@@ -361,7 +361,7 @@ def render_trials(items: list[Item], out: Path) -> None:
     last_day = max((h.date for i in trials for h in i.history), default=None)
     n_new = sum(1 for i in trials if any(h.event == "created" and h.date == last_day for h in i.history)) if last_day else 0
     s += (f"총 {len(trials)}건 · 국내 모집 중 {len(kr)}건 · 해외 모집 중 {len(world)}건"
-          + (f" · 최근 수집일 {last_day} 신규 {n_new}건" if last_day else "") + "\n\n")
+          + (f" · 마지막 신규 등록 {last_day} ({n_new}건)" if last_day else "") + "\n\n")
     s += f"## 국내에서 모집 중 ({len(kr)})\n\n" + (head + "".join(row(i) for i in kr) if kr else "현재 등록된 국내 모집 시험이 없습니다.\n") + "\n"
     s += f"## 해외에서 모집 중 ({len(world)})\n\n" + (head + "".join(row(i) for i in world[:300]) if world else "없음\n") + "\n"
     s += f"## 모집 종료·진행 중·완료 ({len(other)})\n\n" + (head + "".join(row(i) for i in other[:300]) if other else "없음\n") + "\n"
@@ -412,7 +412,7 @@ def stats_strip(c: dict, kr_n: int, depth: int) -> str:
     tiles = [
         (f"{c['total']:,}", f"누적 수집<br><small>논문·소식 {c['papers']:,} · 임상시험 {c['trials']:,}</small>"),
         (f"+{c['new']}", f"{label}<br><small>갱신 {c['updated']}건</small>"),
-        (f"{kr_n}", f"국내 모집 중 임상시험<br><small><a href=\"{rel('_generated/trials/index.md', depth).replace('.md', '/')}\">목록 보기</a></small>"),
+        (f"{kr_n}", f"국내 모집 중 임상시험<br><small><a href=\"{rel('_generated/trials/', depth)}\">목록 보기</a></small>"),
     ]
     return ('<div class="ps-stats">' + "".join(f'<div class="ps-stat"><b>{n}</b><span>{t}</span></div>' for n, t in tiles)
             + "</div>\n\n")
@@ -432,8 +432,7 @@ def render_latest(items: list[Item], days: list[str], out: Path, today: date, st
     s = ""
     if days:
         s += stats_strip(run_counts(state or {}, items, today), kr_n, 0)
-        s += (f"최근 수집일: [{days[0]}](_generated/daily/{days[0][:4]}/{days[0][5:7]}/{days[0][8:10]}.md) · "
-              f"최근 7일 {len(recent)}건\n\n")
+        s += (f"최근 수집일: [{days[0]}](_generated/daily/{days[0][:4]}/{days[0][5:7]}/{days[0][8:10]}.md)\n\n")
     if top:
         s += "".join(render_item(i, 0) for i in top)
     else:

@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>521</b><span>누적 수집<br><small>논문·소식 111 · 임상시험 410</small></span></div><div class="ps-stat"><b>+12</b><span>오늘 신규<br><small>갱신 0건</small></span></div><div class="ps-stat"><b>26</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/index/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>521</b><span>누적 수집<br><small>논문·소식 111 · 임상시험 410</small></span></div><div class="ps-stat"><b>+12</b><span>오늘 신규<br><small>갱신 0건</small></span></div><div class="ps-stat"><b>26</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-13](_generated/daily/2026/10/13.md) · 최근 7일 521건
+최근 수집일: [2026-10-13](_generated/daily/2026/10/13.md)
 
 <a id="nct-nct07490301"></a>
 #### [1차 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
