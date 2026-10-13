@@ -32,3 +32,13 @@
 .tf-ok { color: #2e7d32; } .tf-why { color: #c62828; } .tf-check { color: #b26a00; } .tf-excl { color: var(--md-default-fg-color--light); margin-top: .2rem; }
 .tf-links { margin-top: .3rem; }
 .tf-no summary { cursor: pointer; font-weight: 700; margin: 1rem 0 .5rem; }
+
+/* 누적·오늘 카운트 */
+.ps-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: .6rem; margin: 0 0 1rem; }
+.ps-stat { background: var(--md-code-bg-color); border-radius: .4rem; padding: .6rem .5rem; text-align: center; }
+.ps-stat b { display: block; font-size: 1.5rem; line-height: 1.2; color: var(--md-primary-fg-color); }
+.ps-stat span { font-size: .7rem; color: var(--md-default-fg-color--light); }
+.ps-stat small { font-size: .65rem; }
+@media (max-width: 30em) { .ps-stat b { font-size: 1.2rem; } .ps-stat span { font-size: .62rem; } }
+.ps-hits { text-align: right; margin: 1.5rem 0 0; opacity: .8; }
+.ps-hits img { height: 20px; }
