@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies worldwide due to late-stage diagnosis, aggressive progression, and limited therapeutic responsiveness. Although herbal-derived bioactive compounds have demonstrated promising anticancer potential, their clinical application is often restricted by poor aqueous solubility, low bioavailability, rapid metabolic degradation, and insufficient tumor targeting. Nanomedicine has emerged as a promising platform to overcome these limitations through enhanced drug delivery, improved pharmacokinetics, and controlled release capabilities. In recent years, the integration of green nanotechnology with herbal therapeutics has gained increasing attention as a sustainable and biocompatible strategy for PDAC management. Green synthesis approaches utilizing plant extracts, microbial systems, and biopolymers provide environmentally friendly alternatives to conventional physicochemical nanoparticle (NP) fabrication methods while simultaneously enhancing biological functionality. This review aims to explore green nanotechnology-based strategies for improving the therapeutic potential of herbal-derived bioactive compounds in PDAC, with particular emphasis on nanoformulation approaches that enhance solubility, bioavailability, tumor targeting, and anticancer efficacy. In addition, the review discusses the advantages of green synthesis approaches, NP characterization strategies, translational barriers, biosafety considerations, and current clinical challenges. Overall, this review highlights the growing potential of green nanomedicine to improve herbal-based therapeutic strategies against PDAC while emphasizing the key obstacles that must be addressed to facilitate successful clinical translation.",
+ "authors": [
+  "Muteeb G",
+  "Basem Y",
+  "Kotb AA",
+  "Magdy NT",
+  "Alghuwainem GY",
+  "Aatif M",
+  "Farhan M",
+  "Khafaga DSR"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42873039",
+ "importance": 0.68,
+ "key_points_ko": [
+  "천연물 유래 항암 물질의 한계인 낮은 수용성, 낮은 생체이용률, 불충분한 종양 표적성을 극복하기 위해 나노기술이 주목받고 있습니다.",
+  "식물 추출물 및 생체고분자 등을 이용한 친환경 나노입자 합성은 기존 화학적 방식보다 생체적합성이 우수하고 지속 가능한 대안으로 평가받습니다.",
+  "췌장암 치료제로서 실제 환자에게 적용되기 위해 해결해야 할 안전성 검증 및 임상 전환(Translational)의 장애물들을 종합적으로 제시했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.3390/nano16191256",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42873039"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nanomaterials (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42873039/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 치료 반응이 제한적인 치명적인 암종입니다. 천연물 유래 생리활성 물질은 항암 잠재력을 보이지만, 낮은 수용성과 체내 흡수율, 빠른 대사 분해, 종양 표적화 부족 등의 한계가 있습니다. 이 종설 논문은 식물 추출물 등을 활용하는 친환경 나노기술(Green nanotechnology)을 접목하여 천연 물질의 전달력과 체내 지속성을 높이고 췌장암에 대한 항암 효과를 극대화하는 최신 전략을 검토했습니다. 아울러 임상 적용을 위한 생체 안전성 및 주요 극복 과제들을 다루고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From Nature to Medicine: Overcoming the Limitations of Herbal Therapeutics for Pancreatic Cancer Treatment Based on Nanotechnology",
+ "title_ko": "자연에서 의학으로: 나노기술 기반 췌장암 치료에서 천연물 치료제의 한계 극복",
+ "trial": null,
+ "type": "paper"
+}

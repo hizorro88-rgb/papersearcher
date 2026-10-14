@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Kida A",
+  "Satomura K",
+  "Arihara F",
+  "Kawasaki A",
+  "Hodo Y",
+  "Shirota Y",
+  "Yamashita T"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869079",
+ "importance": 0.54,
+ "key_points_ko": [
+  "빌로스 2식(Billroth II) 수술 병력이 있어 해부학적으로 접근이 어려운 환자에서 단일 내시경으로 췌장 종괴를 진단했습니다.",
+  "구체적인 시술 기법, 조직 검사 결과 및 환자 수치는 제공된 본문에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1111/jgh.70804",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869079"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869079/"
+ },
+ "summary_ko": "본 논문은 과거 빌로스 2식(Billroth II) 부분 위절제술을 받아 소화관 구조가 변형된 환자에서 단일 내시경을 활용하여 췌장 종괴를 확인한 사례를 다룬 증례 보고입니다. 변형된 해부학적 구조를 가진 환자에서 췌장 병변에 접근하고 진단하는 내시경적 방법을 제시합니다. 제공된 원문에 상세 초록 내용이 포함되지 않아 구체적인 시술 경과나 환자 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Double Duty, Single Scope: Unmasking a Pancreatic Mass in Billroth II Anatomy",
+ "title_ko": "빌로스 2식(Billroth II) 수술 후 해부학적 구조에서 단일 내시경을 활용한 췌장 종괴의 발견",
+ "trial": null,
+ "type": "paper"
+}

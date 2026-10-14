@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: It is unclear whether recurrence-focused treatment (RFT) improves survival in all patients with recurrent pancreatic ductal adenocarcinoma (PDAC). This study aimed (1) to evaluate post-recurrence survival (PRS) in patients treated with RFT versus best supportive care (BSC)-only, and (2) to assess potential effect modification by prognosis at recurrence.\nMETHODS: This observational cohort study included patients with local or distant recurrence after PDAC resection (2014-2022) at all Dutch pancreatic surgery centers and NYU Langone Health. Patients with unknown RFT or survival status were excluded. Prognosis at recurrence was defined using a previously established PRS risk score, stratifying patients into worse (≥174.5) and better (<174.5) prognostic subgroups. Propensity score matching (PSM) was performed in the overall cohort, and within subgroups. Median PRS in RFT versus BSC-only patients was estimated and compared using Kaplan-Meier curve analysis and the log-rank test. Multivariable Cox regression with robust standard errors clustered by matched pair was used to adjust for residual imbalance after PSM, with results presented as hazard ratios (HR) and 95% confidence intervals (95%CI).\nRESULTS: Overall, 1423 patients were included. After PSM, 344 RFT patients were matched to 344 BSC-only patients. The multivariable analysis included ECOG performance score and country as a random effect. PRS was 10 (95%CI 9-12) months for RFT versus 4 (95%CI 3-4) months for BSC-only (adjusted HR0.38, 95%CI: 0.30-0.48, P < 0.001). In the worse prognosis group, PRS was 10 (95%CI 9-11) versus 3 (95%CI 3-4) months (adjusted HR0.38, 95%CI: 0.30-0.50, P < 0.001). In the better prognosis group, PRS was 18 (95%CI 12-27) months versus 8 (95%CI 4-14) months (adjusted HR0.24, 95%CI: 0.10-0.45, P < 0.001).\nCONCLUSIONS: Treatment for PDAC recurrence was associated with significantly longer PRS compared with BSC-only, irrespective of prognosis at recurrence. The survival benefit associated with RFT supports its consideration in the management of patients with PDAC recurrence.",
+ "authors": [
+  "Andel PCM",
+  "van Oosten AF",
+  "van Goor IWJM",
+  "Besselink MG",
+  "Bonsing BA",
+  "Cirkel GA",
+  "Garnier J",
+  "Groot VP"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869861",
+ "importance": 0.77,
+ "key_points_ko": [
+  "재발 후 생존기간(PRS) 중앙값은 재발 치료(RFT)군이 10개월(95% CI: 9-12), 최선 지지요법(BSC)군이 4개월(95% CI: 3-4)로 치료군이 유의하게 길었습니다(조정된 HR 0.38, P < 0.001).",
+  "재발 시 예후가 불량한 하위 그룹에서도 치료군의 생존기간이 10개월 대 3개월로 사망 위험이 유의미하게 감소했습니다(조정된 HR 0.38, P < 0.001).",
+  "재발 시 예후가 양호한 하위 그룹에서는 치료군 18개월 대 지지요법군 8개월로 가장 큰 생존 연장 효과를 보였습니다(조정된 HR 0.24, P < 0.001)."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1016/j.ejca.2026.117776",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869861"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869861/"
+ },
+ "summary_ko": "본 연구는 췌장암(PDAC) 수술 후 국소 또는 원격 재발이 발생한 환자를 대상으로 적극적인 재발 집중 치료(RFT)가 최선 지지요법(BSC) 대비 생존 기간을 연장하는지 평가했습니다. 네덜란드 전역의 췌장 수술 센터와 미국 NYU 랭건 헬스에서 등록된 1,423명 중 성향점수 매칭을 통해 재발 치료군 344명과 지지요법군 344명을 비교했습니다. 분석 결과, 재발 후 생존기간(PRS)은 재발 치료군이 10개월, 지지요법군이 4개월로 나타나 재발 치료군에서 사망 위험이 62% 유의하게 낮았습니다. 이러한 생존 개선 효과는 재발 당시 예후가 좋은 환자군뿐만 아니라 예후가 나쁜 환자군에서도 일관되게 관찰되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Survival benefit of recurrence-focused treatment after surgery for pancreatic ductal adenocarcinoma: A propensity score matched analysis of patients from a Dutch National and US institutional cohort",
+ "title_ko": "췌관선암 수술 후 재발 집중 치료의 생존 이득: 네덜란드 국가 코호트 및 미국 단일 기관 환자의 성향점수 매칭 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer characterized by profound desmoplasia and cellular heterogeneity, which cannot be fully resolved using traditional bulk sequencing approaches. To understand how this heterogeneity contributes to PDAC biology, we analyzed a large cohort of primary tumors (n = 62) profiled using single-cell RNA sequencing (443,451 single cells), including a subset of 11 tumors with matched spatial transcriptomics (53,236 spots), to map clonal, transcriptional and spatial diversity. Moreover, our sample set includes a unique cohort of matched samples from six tumors collected before and after treatment with chemotherapy. Our analysis revealed notable intratumoral heterogeneity, with multiple genetically distinct neoplastic clones coexisting within individual tumors. We observed clone-specific ligand-receptor programs that are modulated by genomic dosage: amplifications of ligands or receptors enriched corresponding interactions, while deletions suppressed them, with genetically encoded differences supported by spatial transcriptomics and multiplex immunofluorescence. Phylogenetic integration identified focal 8q24 (MYC) amplification as recurrently associated with classical-to-basal transitions occurring within tumor lineages at a frequency above chance; these transitions were accompanied by coordinated depletion of immune-response programs. Functional perturbation experiments in murine and primary human models showed that MYC knockdown reactivates classical transcriptional programs and restores immune-response pathways, supporting a role for MYC in maintaining a basal, immune-depleted state. Spatial analyses further revealed dispersed clones enriched for epithelial-to-mesenchymal transition activity and immune suppression, correlating with metastatic potential and colonization of lymph node niches. These dispersed clones shifted toward a basal phenotype, contributing to disease progression. Our findings highlight the critical role of clonal diversity, transcriptional plasticity and tumor microenvironment interactions in shaping human PDAC biology. This work provides a detailed view of the molecular and spatial heterogeneity of PDAC and offers potential avenues for therapeutic intervention targeting clonal evolution and the mechanisms driving metastasis.",
+ "authors": [
+  "Kalfakakou D",
+  "Cameron DC",
+  "Kawaler EA",
+  "Tsuda M",
+  "Wang L",
+  "Su Q",
+  "Kim S",
+  "Manolakos E"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869988",
+ "importance": 0.64,
+ "key_points_ko": [
+  "환자 62명의 종양 조직(443,451개 단일 세포)과 공간 전사체(53,236개 스팟)를 분석해 복통 및 암세포 내 다양한 클론의 공존을 규명했습니다.",
+  "8q24(MYC) 유전자 증폭이 고전형(classical)에서 공격적인 기저형(basal)으로의 형질 전환 및 면역 억제와 연관됨을 밝혔습니다.",
+  "실험 모델에서 MYC 억제 시 고전형 프로그램과 면역 반응 경로가 다시 활성화되는 것을 확인했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1038/s41588-026-02779-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869988"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Genet",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869988/"
+ },
+ "summary_ko": "췌관선암 환자 62명의 종양 조직에서 단일 세포 전사체 및 공간 전사체 분석을 시행하여 종양 내부의 유전적·공간적 이질성을 정밀하게 분석했습니다. 단일 종양 내에 유전적으로 서로 다른 여러 암세포 클론이 공존하며 주변 미세환경과 각기 다르게 상호작용함을 확인했습니다. 특히 MYC 유전자의 증폭이 공격적인 기저형(basal) 세포 상태로의 전이 및 면역 반응 저하를 유도하며, MYC 억제 시 이러한 악성 형질이 역전됨을 실험적으로 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression",
+ "title_ko": "인간 췌관선암의 클론 이질성과 이것이 종양 진행에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

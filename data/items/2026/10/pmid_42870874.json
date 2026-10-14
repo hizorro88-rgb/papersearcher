@@ -1,0 +1,62 @@
+{
+ "abstract": "INTRODUCTION: Altered N-glycosylation plays a critical role in immune regulation, yet the spatial distribution of N-glycans within immune niches of immunologically \"cold\" tumors remain poorly defined. Here, we combine matrix-assisted laser desorption/ionization mass spectrometry imaging (MALDI-MSI) with highly multiplexed immunohistochemistry using photocleavable mass tags. This integrated workflow enables spatial mapping of N-glycosylation and immune markers within lymphoid aggregates (LAs) in prostate and pancreatic ductal adenocarcinoma tissues, two malignancies that respond poorly to immunotherapy. Given the role of N-glycosylation in immune regulation, spatially resolved N-glycan profiling may provide insight into molecular heterogeneity within lymphoid aggregates and their surrounding tumor microenvironment.\nMETHODS: To assess the relationship between N_glycosylation and immune markers, candidate LAs from tissue samples collected from patients with varying stages of prostate cancer, PCa (n=49) and pancreatic ductal adenocarcinoma, PDAC (n=26) were identified via histological stains prior to enzymatic release of N-glycans and MALDI-MSI. MALDI-IHC was used to target immune cell markers and extracellular matrix proteins.\nRESULTS: In tissues with LAs, three N-glycan structural classes were identified when detectable: oligo-mannose, fucosylated tetra-antennary, and bisecting N-acetylglucosamine in fucosylated bi,- tri- and tetra- antennary structures, with some N-glycans common to both tumor types. LAs showed predominantly central CD20 and CD44 signal surrounded by CD3 signal localized along the tumor periphery.\nCONCLUSION: Our analysis revealed unique N-glycan patterns within and surrounding LAs, with variable profiles in distant regions, highlighting heterogeneity in LA-associated N-glycan profiles.",
+ "authors": [
+  "Rashford KV",
+  "Kittrell CG",
+  "Young LEA",
+  "Nietert DA",
+  "McDowell CT",
+  "Grimsley G",
+  "Sells BE",
+  "Bejar K"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42870874",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌관선암 환자 26명 및 전립선암 환자 49명의 조직 샘플을 대상으로 림프구 응집체의 N-당화 패턴을 분석했습니다.",
+  "림프구 응집체 보유 조직에서 올리고-만노오스(oligo-mannose), 푸코실화 사안테나(fucosylated tetra-antennary) 등 3가지 주요 N-당류 구조적 계열이 확인되었습니다.",
+  "림프구 응집체 내부에서는 중심부의 CD20 및 CD44 신호와 종양 주변부를 둘러싼 CD3 신호가 확인되었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.3389/fonc.2026.1935795",
+  "nct": [],
+  "pmcid": "PMC13658005",
+  "pmid": "42870874"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870874/"
+ },
+ "summary_ko": "면역요법에 반응이 좋지 않은 췌관선암(PDAC) 환자 26명과 전립선암(PCa) 환자 49명의 종양 조직을 분석한 기초 연구입니다. 연구진은 기질 보조 레이저 탈착 이온화 질량분석 이미징(MALDI-MSI)과 면역조직화학 기법을 결합하여 조직 내 림프구 응집체(LAs)의 N-당화(N-glycosylation)와 면역 지표의 공간적 분포를 매핑했습니다. 분석 결과, 림프구 응집체 및 주변 미세환경에서 올리고-만노오스 등을 포함한 세 가지 주요 N-당화 구조와 면역세포 분포 양상이 확인되었습니다. 이러한 분석은 면역학적으로 반응이 낮은 암종의 면역 미세환경 내 분자적 이질성을 이해하는 데 기초 단서를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Multi-modal spatial glycomic analysis of lymphoid aggregates in prostate and pancreatic cancer tissues",
+ "title_ko": "전립선암 및 췌장암 조직 내 림프구 응집체의 다중 모달 공간 글라이코믹스 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -21,9 +21,9 @@
  "id": "nct:NCT07870421",
  "importance": 0.71,
  "key_points_ko": [
-  "수술 전 선행 FOLFIRINOX 요법을 받는 비전이성 췌관선암 환자 216명을 대상으로 진행되는 3상 임상시험입니다.",
-  "암 환자 전용 고에너지·고단백 영양 보충제가 근육량 보존 및 항암치료 전달률을 개선하는지 평가합니다.",
-  "처음 진단 후 이전 항암 치료를 받은 적이 없는 환자를 대상으로 합니다."
+  "목표 인원은 216명입니다.",
+  "제3상 무작위 이중맹검 대조 다기관 임상시험으로 진행됩니다.",
+  "전이되지 않은 췌관선암(PDAC) 환자를 대상으로 합니다."
  ],
  "last_updated": "2026-10-14",
  "links": {
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07870421"
  },
- "summary_ko": "본 연구는 수술 전 선행 항암화학요법으로 FOLFIRINOX 치료를 시작하는 비전이성 췌관선암 환자를 대상으로 암 맞춤형 고에너지·고단백 경구 영양 보충제의 효과를 검증하는 3상 임상시험입니다. 암으로 인한 골격근 손실을 막고 항암치료에 대한 환자의 견딤성(내약성)을 향상시킬 수 있는지 대조 식품과 비교 평가합니다. 총 216명의 환자를 무작위 배정하여 이중맹검 방식으로 진행됩니다.",
+ "summary_ko": "HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료를 받는 전이되지 않은 췌관선암(PDAC) 성인 환자를 대상으로 암 전용 경구 영양 보충제의 효과를 평가하는 제3상, 무작위, 이중맹검, 대조, 다기관 임상시험입니다. 이 연구는 맞춤형 영양 중재가 암으로 인한 근육 손실을 줄이고 치료 전달률과 임상적 결과를 개선할 수 있는지 확인하는 것을 목표로 합니다. 총 216명의 환자를 목표로 하고 있습니다. 현재 아직 환자 모집을 시작하지 않았습니다(NOT_YET_RECRUITING).",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study Looking at Whether a Nutritional Composition Can Help People With Pancreatic Cancer Stay Stronger and Better Tolerate Chemotherapy",
- "title_ko": "영양 보충제가 췌장암 환자의 체력 유지와 항암화학요법 내약성을 개선하는지 확인하기 위한 3상 연구",
+ "title_ko": "췌장암 환자의 근육량 유지와 항암 치료 내성을 돕는 영양 보충제 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -64,7 +64,7 @@
     "phone": "+31 30 2095 000"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 성인 췌관선암(PDAC) 환자\n• 초기 진단 후 첫 치료로 (수정형) FOLFIRINOX 항암화학요법을 시작할 예정인 환자 (연구 중 가이드라인에 따라 NALIRIFOX가 표준치료가 될 경우 포함 가능)\n• ECOG 수행능력 평가 점수 0점 또는 1점\n• 연구 참여에 자발적으로 서면 동의한 환자\n\n제외 기준:\n• 원격 전이가 확인된 전이성 췌장암 환자\n• 췌장암에 대해 이전에 치료를 받은 적이 있는 환자\n• 예상 여명이 3개월 미만인 환자\n• 하루 2회 제품 섭취가 불가능할 정도의 연하곤란이나 위장관 폐색이 있는 환자\n• 영양 흡수에 영향을 주는 회장루 또는 회장낭을 가진 환자\n• 중증 신기능 저하(eGFR <29 mL/min/1.73m² 등) 또는 간성뇌증이 있는 환자\n• 효소 치료로 조절되지 않는 췌장 외분비 기능부전이나 조절되지 않는 당뇨병 등 대사 질환이 있는 환자\n• 중증 고칼슘혈증 환자 또는 연구 제품 성분에 알레르기가 있는 환자\n• 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 초기 진단 후 첫 치료로 (수정된) FOLFIRINOX 또는 NALIRIFOX 항암 치료를 받을 예정인 췌관선암(PDAC) 환자\n- ECOG 수행능력 점수 0 또는 1\n- 만 18세 이상\n- 서면 동의서 작성\n\n제외 기준:\n- 전이성 PDAC 환자 (원격 전이 확인 또는 국소 진료에 의해 확인된 경우)\n- 이전에 PDAC 치료를 받은 적이 있는 환자\n- 기대 여명 3개월 미만\n- 임상적으로 유의미한 연하곤란, 위장관 폐쇄 또는 연구 제품 복용을 방해하는 기타 상태\n- 회장루 또는 회장 주머니 보유자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients with pancreatic ductal adenocarcinoma (PDAC) who are scheduled to be treated with (modified) FOLFIRINOX\\* chemotherapy (\\* or NALIRIFOX if that becomes the standard of care during the study per recognized (inter)national guidelines) as first therapy after initial diagnosis of PDAC\n2. ECOG performance score 0 or 1\n3. Age 18 years or above\n4. Written informed consent\n\nExclusion Criteria:\n\n1. Patients with metastatic PDAC (i.e. confirmed distant metastases or otherwise confirmed by local practice)\n2. Patients who received prior treatment for PDAC\n3. Life expectancy \\< 3 months\n4. Clinically significant dysphagia, gastrointestinal obstruction or any other condition preventing adequate oral intake to reasonably comply with the protocol recommendation of taking 2 servings of study product per day in the opinion of the Investigator\n5. Presence of an ileostomy or ileal pouch. Participants with an ileostomy at or near the terminal ileum may be enrolled if, in the opinion of the Investigator, the ileostomy does not affect the absorption of nutrients other than sodium, potassium, and water\n6. Severe renal dysfunction (estimated Glomerular Filtration Rate (eGFR) \\<29 mL/min/1.73m2 or albumin: creatinine (ACR)\\>30) or other clinically significant renal dysfunction in the opinion of the Investigator\n7. Hepatic encephalopathy regardless of etiology, reflecting clinically significant hepatic dysfunction that may interfere with metabolic stability, cognition, or safe participation in the study in the opinion of the Investigator\n8. Pancreatic insufficiency uncontrolled by enzyme therapy or uncontrolled metabolic conditions such as diabetes mellitus or phenylketonuria, that may compromise the patient's safe participation in the study, in the opinion of the Investigator\n9. Severe hypercalcemia, i.e. total calcium level corrected for albumin \\>14.0mg/dL (\\>3.5mmol/L)\n10. Known allergy or intolerance to any of the ingredients of the study products\n11. Known pregnancy or lactation\n12. Current alcohol or drug abuse in the opinion of the Investigator\n13. Participant not capable of understanding or not willing to adhere to the study procedures and/or other protocol requirements in the opinion of the Investigator\n14. Participation in any other studies involving investigational or marketed products within 14 days prior to screening and/or during the intervention period",
   "enrollment": 216,
   "has_results": false,
@@ -80,16 +80,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "원격 전이가 있는 췌장암 환자",
-    "이전에 췌장암 치료를 받은 이력이 있는 환자",
-    "음식을 삼키기 어렵거나(연하곤란) 위장관 폐색이 있는 경우",
-    "회장루 또는 회장낭을 보유한 경우",
-    "간성뇌증 또는 효소 치료로 조절되지 않는 대사 질환(당뇨병 등)이 있는 경우"
+    "전이성 췌장암 환자",
+    "이전 췌장암 치료 이력이 있는 경우",
+    "기대 여명 3개월 미만",
+    "임신 또는 수유 중인 경우",
+    "알코올 또는 약물 남용"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "초기 진단 후 첫 치료로 선행 FOLFIRINOX 항암치료를 계획 중인 비전이성 췌장암 환자",
+   "notes_ko": "수술 전 FOLFIRINOX 치료를 앞두고 있으며 이전에 치료를 받은 적이 없는 전이되지 않은 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

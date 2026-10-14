@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic Cancer (PC) remains one of the most aggressive and lethal malignancies with an extremely low survival rate. Existing conventional therapies such as surgery, chemotherapy, radiotherapy, and immunotherapy have demonstrated limited effectiveness in significantly improving overall survival outcomes, largely due to the unique and hostile Tumour Microenvironment (TME) of PC. The TME is characterised by a desmoplastic stroma, an immunosuppressive, hypovascular, and hypoxic microenvironment, which collectively contribute to therapeutic failure. These features not only limit effective drug delivery but also promote tumour progression and treatment resistance. In recent years, the emergence of molecular targeted therapies has enabled the targeting of aberrantly activated kinases or other highly expressed targets in PC, such as KRAS, CDKN2A, TP53, SMAD4, epigenetic regulators, and signalling pathways. However, the clinical efficacy of many targeted agents remains limited, highlighting the complexity of tumour heterogeneity and adaptive resistance mechanisms. These limitations underscore the need to develop more effective therapeutic strategies for PC. Advances in precision oncology, immunotherapy, and patient derived models offer promising opportunities to improve the understanding of tumour biology, elucidate mechanisms underlying therapeutic response and resistance, and identify novel treatment strategies tailored to individual patients. Herein, this review aims to provide an updated overview of the current state of molecular therapies and the underlying molecular mechanisms and oncogenic pathways that contribute to PC initiation, development, progression and metastasis.",
+ "authors": [
+  "Pang WM",
+  "Chiam XZ",
+  "Lim WM",
+  "Mai CW",
+  "Ngai ZN",
+  "Koh RY"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42872676",
+ "importance": 0.65,
+ "key_points_ko": [
+  "결합조직형성 기질과 저혈관성 등 췌장암 특유의 종양 미세환경(TME)이 효과적인 약물 전달을 방해하고 치료 저항성을 유발합니다.",
+  "KRAS, CDKN2A, TP53, SMAD4 및 신호전달 경로를 표적으로 하는 치료제가 개발되고 있으나 적응성 내성으로 임상 효과는 아직 제한적입니다.",
+  "정밀 종양학, 면역치료, 환자 유래 모델의 발전이 환자 맞춤형 새로운 치료 전략 개발에 기여하고 있습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.2174/0115680096481382261002063656",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42872676"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Cancer Drug Targets",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42872676/"
+ },
+ "summary_ko": "췌장암은 종양 미세환경(TME)의 면역 억제 및 저산소 특성 등으로 인해 기존 수술, 항암치료, 면역치료의 효과가 제한적인 난치성 암입니다. 최근 KRAS, CDKN2A, TP53, SMAD4 등 비정상적으로 활성화된 표적을 겨냥하는 분자 표적 치료제가 등장하고 있습니다. 그러나 종양의 이질성과 적응성 내성 기전으로 인해 많은 표적 치료제의 임상적 효능이 여전히 제한적입니다. 이 논문은 췌장암의 발생 및 진행 경로와 현재 개발 중인 분자 표적 치료의 현주소를 종합적으로 정리했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Evolving Molecular Drug Targets in Pancreatic Cancer: An Updated Review",
+ "title_ko": "췌장암에서 진화하는 분자 약물 표적: 최신 종설",
+ "trial": null,
+ "type": "paper"
+}

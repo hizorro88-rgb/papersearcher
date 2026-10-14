@@ -29,8 +29,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (5)
+## 타임라인 (6)
 
+<a id="pmid-42872722"></a>
+#### [복강경 십이지장 보존 췌장 두경부 절제술](https://pubmed.ncbi.nlm.nih.gov/42872722/)
+<small>Laparoscopic Duodenum-Preserving Pancreatic Head and Neck Resection</small>
+
+`논문` `기타` `수술` · 2026-10-13 · PubMed · J Vis Exp · 중요도 0.70
+
+췌장 두경부의 양성 및 저도 악성 종양(장액성 낭선종, 신경내분비종양, 췌관내 유두상 점액종양 등)에서 기존 췌십이지장절제술은 신체적 부담과 구조 변화가 컸습니다. 십이지장과 담관을 보존하는 십이지장 보존 췌두부 절제술(DPPHR)은 장기 기능을 유지할 수 있으나 복강경으로 시행하기에는 기술적 난도가 매우 높습니다. 연구진은 수술 전 3차원 시각화 계획과 수술 중 인도시아닌그린(ICG) 형광 및 증강현실(AR) 내비게이션을 결합한 최적화된 복강경 절제술 프로토콜을 제시했습니다. 본 보고는 해당 수술 절차의 기술적 실행 가능성을 시연한 것으로, 안전성과 유효성을 입증하기 위해 향후 대규모 환자군 평가가 필요하다고 밝혔습니다.
+
+- 십이지장 및 담관을 보존하여 정상 생리적 구조와 기능을 유지하는 복강경 췌두경부 절제술 술기를 시연했습니다.
+- 수술 전 3D 시각화와 수술 중 ICG 형광 및 AR 내비게이션을 활용하여 췌십이지장 동맥궁을 보존하고 출혈 및 췌장루(POPF) 위험을 낮추고자 했습니다.
+- 췌장 절제면은 변형 Blumgart 췌장공장문합술로 재건하였으며, 안전성과 효과는 추가적인 대규모 연구 평가가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42872722/) · [DOI](https://doi.org/10.3791/74203) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42872722)</small>
+
+---
 <a id="pmid-42866548"></a>
 #### [정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42866548/)
 <small>Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review</small>

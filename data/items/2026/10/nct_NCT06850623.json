@@ -22,9 +22,10 @@
  "id": "nct:NCT06850623",
  "importance": 0.9,
  "key_points_ko": [
-  "목표 환자 수는 총 25명입니다.",
-  "중재 방법은 음향 군집 치료(Acoustic Cluster Therapy)와 변형 FOLFIRINOX(modified FOLFIRINOX)입니다.",
-  "치료의 객관적 유효성은 8주마나 시행하는 CT 검사로 평가합니다."
+  "대상 질환은 수술이 어려운 국소 진행성 췌장암(Locally Advanced Pancreatic Cancer)입니다.",
+  "중재 방법은 음향 군집 치료(Acoustic Cluster Therapy, ACT)와 변형 FOLFIRINOX 화학요법의 병행입니다.",
+  "목표 환자 수는 25명이며, 18세 이상 성인을 대상으로 합니다.",
+  "치료 효과는 8주마다 CT 스캔을 통해 평가합니다."
  ],
  "last_updated": "2026-10-14",
  "links": {
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06850623"
  },
- "summary_ko": "본 임상시험은 국소 진행성 췌장암(Locally Advanced Pancreatic Cancer) 환자를 대상으로 화학요법과 음향 군집 치료(Acoustic Cluster Therapy, ACT)를 병행했을 때의 유효성과 안전성을 평가합니다. 이전에 췌장암 치료를 받은 적이 없는 국소 진행성 췌장암 환자들을 대상으로 하며, 최대 8주기의 변형 FOLFIRINOX(modified FOLFIRINOX) 항암치료와 함께 ACT 치료를 받습니다. 치료의 객관적 유효성은 8주마다 CT 촬영을 통해 평가합니다.",
+ "summary_ko": "이 연구는 국소 진행성 췌장암(Locally Advanced Pancreatic Cancer) 환자를 대상으로 화학요법에 음향 군집 치료(Acoustic Cluster Therapy, ACT)를 추가했을 때의 유효성과 안전성을 평가하는 임상 2상 시험입니다. 이전 치료를 받지 않은 국소 진행성 췌장암 환자들을 대상으로 변형 FOLFIRINOX(modified FOLFIRINOX) 화학요법과 함께 ACT 치료(약물 PS101 및 종양에 대한 초음파 적용)를 최대 8주기 동안 시행합니다. 치료의 객관적 유효성은 8주마다 CT 촬영을 통해 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
@@ -64,13 +65,13 @@
   "mFOLFIRINOX"
  ],
  "title": "Acoustic Cluster Therapy (ACT) With Chemotherapy for the Treatment of Locally Advanced Pancreatic Cancer",
- "title_ko": "국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 군집 치료(ACT)",
+ "title_ko": "국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 군집 치료(Acoustic Cluster Therapy, ACT)",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 일차적 근치적 수술에 부적합하다고 판단되며, 수술이 불가능한 국소 진행성 췌장암(LAPC) 또는 경계성 절제 가능 췌장암에 부합하는 영상학적 및 병리학적 진단을 받은 환자\n- 연구자의 평가에 따라 mFOLFIRINOX 치료를 받기에 적합한 환자\n\n제외 기준:\n- 췌장암에 대한 이전에 받은 항암 치료(예: 화학요법, 수술, 방사선 치료)가 있는 환자(단, 완화적 우회술 및 담관 스텐트 삽입술은 허용됨)",
+  "eligibility_ko": "선정 기준:\n* 일차적 근치적 수술에 부적합하다고 판단되며, 영상학적 및 병리학적으로 수술이 불가능한 국소 진행성 췌장암(LAPC) 또는 경계성 절제 가능 췌장암에 부합하는 소견을 가진 환자\n* 연구자의 판단에 따라 mFOLFIRINOX 치료를 받기에 적합한 환자\n\n제외 기준:\n* 췌장암에 대한 이전 항암 치료(예: 화학요법, 수술, 방사선 치료)를 받은 적이 있는 환자 (단, 완화적 우회술 및 담관 스텐트 삽입술은 허용됨)",
   "eligibility_text": "Inclusion Criteria:\n\n* Not deemed suitable for primary curative surgery and have radiographic and pathological disease consistent with inoperable LAPC or borderline resectable pancreatic cancer.\n* Suitable to receive treatment with mFOLFIRINOX according to the Investigator's assessment.\n\nExclusion Criteria:\n\n• Any prior anti-cancer treatment for pancreatic cancer (e.g. chemotherapy, surgery, radiation). Palliative bypass procedure and bile duct stenting are allowed.",
   "enrollment": 25,
   "has_results": false,
@@ -89,12 +90,12 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "이전에 췌장암 관련 항암 치료, 수술, 방사선 치료를 받은 경우"
+    "이전 췌장암 항암 치료(화학요법, 수술, 방사선 치료) 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 수술 불가 국소 진행성 또는 경계성 절제 가능 췌장암 환자",
+   "notes_ko": "이전 치료를 받지 않은 수술 불가 국소 진행성 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",
@@ -103,13 +104,11 @@
     "irinotecan",
     "taxane",
     "immunotherapy",
-    "KRAS_inhibitor",
     "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
-    "locally_advanced",
-    "resectable"
+    "locally_advanced"
    ],
    "source": "llm"
   },

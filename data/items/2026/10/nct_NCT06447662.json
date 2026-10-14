@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "gem-nabp"
@@ -22,9 +22,10 @@
  "id": "nct:NCT06447662",
  "importance": 0.81,
  "key_points_ko": [
-  "모든 아형의 KRAS 변이가 확인된 진행성 고형암 환자 64명을 대상으로 진행되는 1상 임상시험입니다.",
-  "췌장암 코호트는 전이 단계에서 치료 경험이 없는 1차 환자와 이전 치료에 실패한 2~3차 환자를 모두 포함합니다.",
-  "신약 PF-07934040을 단독 경구 투여하거나 기존 전신 항암 화학요법과 병용하여 21일 또는 28일 주기로 투여합니다."
+  "목표 인원은 총 64명입니다.",
+  "KRAS 유전자 변이가 있는 진행성 고형암 환자를 대상으로 합니다.",
+  "연구 약물 PF-07934040은 하루 두 번 알약으로 복용하며, 필요시 항암제와 병용합니다.",
+  "구체적인 유효성 및 안전성 결과 수치는 초록에 명시되지 않음."
  ],
  "last_updated": "2026-10-14",
  "links": {
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06447662"
  },
- "summary_ko": "이 임상시험은 KRAS 유전자 변이를 가진 진행성 또는 전이성 고형암(췌관선암, 비소세포폐암, 대장암 등) 환자를 대상으로 신약 PF-07934040의 안전성과 최적 용량, 효과를 평가하는 1상 연구입니다. 참여 환자들은 PF-07934040을 1일 2회 경구 복용하며, 배정된 코호트에 따라 단독 또는 기존 항암치료(젬시타빈, 냅파클리탁셀 등)와 병용 투여받습니다. 췌장암 환자의 경우 이전에 치료를 받지 않은 1차 치료 코호트와 이전 표준 치료에 실패한 2~3차 치료 코호트로 나뉘어 진행됩니다. 총 목표 대상자 수는 64명이며 국내 참여 기관은 없습니다.",
+ "summary_ko": "이 임상시험은 KRAS 유전자 변이가 있는 진행성 고형암(비소세포폐암, 대장암, 췌장관선암) 환자를 대상으로 연구 약물 PF-07934040을 단독으로 또는 다른 항암 치료제와 함께 투여했을 때의 안전성과 효과를 평가하고 최적의 용량을 찾기 위해 진행됩니다. 환자들은 하루에 두 번 경구로 PF-07934040을 복용하며, 필요에 따라 정맥주사 항암제와 병용 투여받습니다. 치료는 암이 더 이상 반응하지 않을 때까지 지속되며, 최대 4년 동안 참여하게 됩니다. 초록에 명시된 생존기간이나 반응률 등의 구체적인 결과 수치는 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [
   "Carcinoma, Pancreatic Ductal",
@@ -64,7 +65,7 @@
   "Colorectal Neoplasms"
  ],
  "title": "A Study to Learn About the Study Medicine PF-07934040 When Given Alone or With Other Anti-cancer Therapies in People With Advanced Solid Tumors That Have a Genetic Mutation.",
- "title_ko": "유전자 변이를 동반한 진행성 고형암 환자를 대상으로 PF-07934040 단독 또는 병용요법을 평가하는 1상 임상시험",
+ "title_ko": "진행성 고형암 환자를 위한 단독 또는 병용 요법으로서의 연구 약물 PF-07934040에 대한 연구",
  "trial": {
   "conditions": [
    "Carcinoma, Pancreatic Ductal",
@@ -72,7 +73,7 @@
    "Carcinoma, Non-Small-Cell Lung"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 확인된 절제 불가능, 진행성 또는 전이성 고형암\n* 모든 아형의 KRAS 유전자 변이가 확인된 환자 (췌관선암의 경우 아형 무관)\n* ECOG 수행능력 평가 점수 0점 또는 1점\n* RECIST 1.1 기준 이전에 방사선 치료를 받지 않은 1개 이상의 측정 가능 병변 보유\n* 췌장암 1차 코호트: 전이성 질환에 대해 이전에 전신 화학요법을 받은 적이 없는 환자 (수술 전후 보조요법 종료 후 6개월 이후 재발)\n* 췌장암 2~3차 코호트: 전이성 질환에 대해 이전 전신 항암 치료를 받고 질병이 진행한 환자 (수술 전후 보조요법 중 또는 종료 후 6개월 이내 재발 시 이전 치료 1회로 간주)\n\n제외 기준:\n* 전신 스테로이드 치료가 필요한 활동성 또는 병력의 폐렴/간질성 폐질환(ILD) 또는 폐섬유증\n* 지난 2년 이내 전신 스테로이드나 면역억제 치료가 필요했던 면역결핍증 또는 활동성 자가면역질환\n* 2등급 이상의 감각 신경병증\n* 활동성 또는 임상적으로 유의한 위장관 질환(염증성 장질환, 소화성 궤양, 위장관 출혈, 만성 설사 등)\n* 최근 6개월 이내 토혈, 객혈, 흑색변 등 활동성 출혈 질환\n* 등록 전 4주 이내 주요 수술 또는 방사선 치료를 완료한 경우",
+  "eligibility_ko": "선정 기준:\n- 진행성, 절제 불가능 및/또는 전이성 또는 재발성/난치성 고형암의 조직학적 또는 세포학적 진단\n- ECOG 수행능력 0 또는 1\n- RECIST 버전 1.1에 따른 이전에 방사선 치료를 받지 않은 최소 1개의 측정 가능한 병변 존재\n- 변이된 KRAS 유전자의 문서화 (췌장관선암 및 대장암은 아형 무관 확인된 KRAS 변이)\n- 췌장관선암 2-3차 치료의 경우: 전이성 췌장 adenocarcinoma에 대한 이전 전신 치료 라인에서 방사선학적으로 진행을 겪었어야 함\n- 췌장관선암 1차 치료 코호트의 경우: 전이성 질환에 대해 이전에 항암화학요법을 받지 않았어야 함 (보조 또는 선행 치료 후 6개월 이내 재발한 경우는 2차로 간주)\n\n제외 기준:\n- 전신 스테로이드 치료가 필요한 활성 또는 병력이 있는 폐렴/간질성폐질환(ILD) 또는 폐섬유증\n- 면역결핍 진단 또는 지난 2년 이내 만성 전신 스테로이드(프레드니손 10mg 초과) 또는 면역억제 치료가 필요한 활성 자가면역 질환\n- 감각성 말초신경병증 2등급 이상\n- 임상적으로 유의미한 활성 또는 병력이 있는 위장관 질환\n- 최근 6개월 이내 토혈, 유의미한 객혈 또는 흑변으로 입증된 출혈성 질환",
   "eligibility_text": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of advanced, unresectable, and/or metastatic or relapsed/refractory solid tumor.\n\nECOG PS 0 or 1\n\n* Presence of at least 1 measurable lesion based on RECIST version 1.1 that has not been previously irradiated.\n* Documentation of mutated KRAS gene\n\n  1. PDAC, CRC, Other tumor types: Confirmed KRAS mutation, any variant\n  2. NSCLC: Confirmed KRAS mutation, any variant except previously treated G12C. If driver mutation, must have failed precision medicine therapy \\[eg, inhibitors of epidermal growth factor receptor (EGFR), anaplastic lymphoma kinase (ALK), c-ros oncogene 1 (ROS1), and others\\].\n* Part 1 and Part 2a: Participant must have progressed on standard treatment(s) for which no additional, effective therapy is available.\n\n  1. PDAC (2-3L): Participants must have received and radiologically progressed on prior lines of systemic therapy for metastatic pancreatic adenocarcinoma. If participants received prior neoadjuvant or adjuvant chemotherapy and progressed within 6 months of the last dose, then this should be considered as a prior line of systemic therapy.\n  2. NSCLC (2-3L): Participants must have received prior lines of anti-cancer treatment and progressed on at least a platinum-containing chemotherapy regimen or ICI. Participants may have had only one or two prior lines of therapy in the advanced/metastatic setting. For participants with EGFR, ALK, or other genomic tumor alterations, participants must have progressed on approved therapy for these alterations.\n  3. CRC (2-3L): Participants must have had one or two prior lines of therapy for mCRC. For either one or two prior treatments, these regimens must have included a fluoropyrimidine, oxaliplatin, and/or irinotecan for one prior treatment, exposure to VEGF/VEGF receptor (VEGFR) inhibitor is optional;\n  4. Other tumors: Participants, in the judgment of the investigator, must have progressed or become intolerant to all available standard therapies, or have refused such therapy.\n* Part 2b:\n\n  1. PDAC (1L) Cohort A2: Participants must not have received prior chemotherapy for metastatic disease. Participant could have received neoadjuvant therapy, adjuvant therapy, or adjuvant chemo-radiotherapy. If relapse occurred within 6 months of last dose of adjuvant treatment or neoadjuvant therapy, the participant would be considered 2L, and not 1L.\n  2. CRC (2-3L) Cohort B2: Participants must have had one or two prior systemic treatment regimens for mCRC. For either one or two prior treatments, these regimens must have included a fluoropyrimidine, irinotecan, oxaliplatin; for one prior treatment, exposure to a VEGF/VEGF receptor (VEGFR) inhibitor is optional.\n  3. CRC (1L) Cohort B3/B4: Participants must not have received prior therapy for metastatic disease and not be a candidate for other targeted therapy or immunotherapy. Participant could have received neoadjuvant therapy, adjuvant therapy, or adjuvant chemo-radiotherapy. If relapse occurred within 6 months of last dose of adjuvant or neoadjuvant therapy, then the participant would be considered 2L, and not 1L.\n  4. NSCLC (1L) Cohort C2: Participants must have a TPS ≥50% and must not have received prior systemic treatment setting.\n  5. NSCLC (1L) Cohort C3: Participants with any TPS and must not have received prior systemic treatment setting.\n\nExclusion Criteria:\n\n* Active or history of pneumonitis/ILD or pulmonary fibrosis requiring treatment with systemic steroid therapy.\n* Diagnosis of immunodeficiency or an active autoimmune disease that require systemic treatment with chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy in the past 2 years.\n* Sensory peripheral neuropathy ≥Grade 2\n* Active or history of clinically significant gastrointestinal (GI) disease (including but not limited to inflammatory GI disease \\[eg, ulcerative colitis, Crohn's disease, inflammatory bowel disease\\], immune-mediated colitis, peptic ulcer disease, GI bleeding, chronic diarrhea) and other conditions that are unresolved and/or may increase the risk associated with study participation or study treatment administration.\n* Active bleeding disorder, including GI bleeding, as evidenced by hematemesis, significant hemoptysis or melena in the past 6 months.\n* Major surgery or completion of radiation therapy ≤4 weeks prior to enrollment/randomization or radiation therapy that included \\>30% of the bone marrow.\n* Known sensitivity or contraindication to any component of study intervention (PF 07934040, gemcitabine, nab-paclitaxel, cetuximab, bevacizumab, FOLFOX, 5-FU, pembrolizumab, cisplatin, carboplatin, pemetrexed, SHP2 inhibitor(s), cyclin-dependent kinase (CDK) inhibitor(s), antibody drug conjugates (ADCs) or EGFR inhibitor(s)).\n* Hematologic abnormalities.\n* Renal impairment.\n\n  * Hepatic abnormalities.",
   "enrollment": 64,
   "has_results": false,
@@ -105,16 +106,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "전신 스테로이드 치료가 필요한 폐렴이나 간질성 폐질환 병력",
-    "면역억제제 치료가 필요한 자가면역질환",
-    "최근 6개월 이내 위장관 출혈이나 활동성 출혈 병력",
-    "2등급 이상의 말초 감각 신경병증",
-    "4주 이내의 주요 수술 또는 방사선 치료"
+    "폐렴, 간질성폐질환 또는 폐섬유증 병력",
+    "활동성 자가면역 질환 또는 면역결핍",
+    "2등급 이상의 말초신경병증",
+    "활동성 위장관 질환 또는 출혈성 질환"
    ],
-   "max_prior_lines": 2,
+   "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 0,
-   "notes_ko": "KRAS 변이가 확인된 1차 또는 2~3차 전이성/진행성 췌장암 환자",
+   "min_prior_lines": 2,
+   "notes_ko": "KRAS 변이가 있는 진행성 췌장관선암 환자를 위한 1상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

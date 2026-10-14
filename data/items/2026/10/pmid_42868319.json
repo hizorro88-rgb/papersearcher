@@ -1,0 +1,65 @@
+{
+ "abstract": "PURPOSE: Pancreatic ductal adenocarcinoma (PDAC) has high rates of early recurrence (ER), occult metastasis, and poor survival despite curative-intent therapy. Predictive factors and models span clinical, biomarker, imaging, radiomics, pathologic, and molecular domains, but clinical readiness remains uncertain.\nMETHODS: We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses. Five databases were searched for studies evaluating predictors or models of PDAC recurrence, metastasis, lymph node metastasis (LNM), occult metastatic disease, disease-free survival (DFS) or recurrence-free survival, or recurrence patterns. Studies were screened and coded for end point, modality, model type, validation, discrimination, calibration, clinical utility, and predictor timing.\nRESULTS: Of 234 full-text records, 208 studies were included, comprising 144 prediction models and 64 predictor/prognostic factor studies. Computed tomography/radiomics (141/208), clinical/electronic health record variables (104/208), and serum/urine biomarkers (46/208) were the most common modalities. External validation, calibration, and decision-curve analyses were reported in 52, 36, and 38 model studies, respectively. AUCs ranged from 0.70 to 0.92 for ER, 0.75-0.95 for LNM, and 0.71-0.88 for liver or occult metastasis; DFS/relapse-free survival models had C-indices of 0.62-0.82. One externally validated occult-metastasis model had a C-statistic of 0.56. Model maturity was limited by retrospective design, heterogeneous end points, incomplete calibration reporting, and postoperative variables in preoperative models.\nCONCLUSION: Prediction models for PDAC recurrence and metastatic progression are rapidly expanding, particularly through radiomics, machine learning, and multimodal modeling. Clinical translation requires decision-aligned design, transparent reporting, external validation, calibration, interpretability, and prospective evaluation of clinical utility.",
+ "authors": [
+  "Gong L",
+  "Chang C",
+  "Agyekum A",
+  "Aswani N",
+  "Yang JY",
+  "Shahinnian P",
+  "Manji G",
+  "Kang SK"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42868319",
+ "importance": 0.93,
+ "key_points_ko": [
+  "분석에 포함된 208건 중 144건이 예측 모델 연구였으며, CT/라디오믹스(141건)와 임상 정보(104건)가 주로 활용되었습니다.",
+  "조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.",
+  "외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1200/CCI-26-00200",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42868319"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Review"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Clin Cancer Inform",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42868319/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)의 재발, 전이, 림프절 전이 등을 예측하는 모델과 인자들을 분석한 체계적 문헌고찰 연구입니다. 총 208건의 연구(예측 모델 144건, 예후 인자 연구 64건)를 검토한 결과, 컴퓨터단층촬영(CT)/라디오믹스 및 임상 정보가 가장 흔히 활용되었습니다. 조기 재발 예측 정확도(AUC)는 0.70~0.92, 무병 생존기간(DFS) 예측 C-index는 0.62~0.82 수준으로 보고되었습니다. 연구진은 많은 모델이 후향적 연구에 기반하고 외부 검증이나 보정 평가가 부족하여 실제 임상 적용을 위해서는 전향적 평가가 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review",
+ "title_ko": "췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

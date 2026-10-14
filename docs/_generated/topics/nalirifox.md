@@ -28,9 +28,9 @@ search:
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [간동맥 탄산수소나트륨 주입, NASOX 요법 및 PD-1 억제제를 결합한 췌장암 간전이 치료의 2상 임상시험](../trials/NCT07504471.md) | 2상 | 모집 중 | - |
 | [mFOLFIRINOX 또는 NALIRIFOX 항암화학요법과 setidegrasib 병용 투여의 효과 및 안전성을 평가하기 위…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
-| [진행성 췌장암 환자의 암 악액질 치료를 위한 나노 메게스트롤 아세테이트 임상시험](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
+| [진행성 췌장암 환자의 암 악액질에 대한 나노 결정형 메게스트롤 아세테이트의 효과](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
 | [경계성 절제 가능 및 국소 진행성 췌장암 환자에서 PD-L1 항체와 병용한 AG 요법 후 FOLFIRINOX 요법을 시행하는…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
-| [Stereotactic Body Radiotherapy and NALIRIFOX for Locally Advanced Pan…](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용요법 연구](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 1차 치료로서 NALIRIFOX와 GnP의 월별 교대 투여](../trials/NCT07163273.md) | 2상 | 모집 중 | - |
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [복강 내 paclitaxel 및 NALIRIFOX 병용요법을 이용한 복막 전이 췌장암 1상 임상시험](../trials/NCT07030283.md) | 1상 | 모집 중 | - |

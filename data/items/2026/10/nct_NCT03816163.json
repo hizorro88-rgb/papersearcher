@@ -1,0 +1,201 @@
+{
+ "abstract": "Zolbetuximab is being studied as a treatment for people with pancreatic cancer. Most people with pancreatic cancer have a protein called Claudin 18.2 (CLDN18.2) in their tumor. Zolbetuximab is thought to work by attaching to CLDN 18.2 in their tumor. This switches on the body's immune system to attack the tumor. Zolbetuximab is a potential treatment for people with pancreatic cancer.\n\nThere is an unmet medical need to treat people with pancreatic cancer. This study will help find the dose of zolbetuximab to be used with chemotherapy and provide more information on this treatment in adults with metastatic pancreatic cancer. The study is currently ongoing globally. People in this study will be treated with either zolbetuximab and chemotherapy or chemotherapy by itself.\n\nThe study's main aims are to find a suitable dose of zolbetuximab to be used with chemotherapy in the second part of this study, to check if zolbetuximab and chemotherapy compared to chemotherapy by itself can improve the survival of people with pancreatic cancer, and to check the safety of zolbetuximab when given with chemotherapy and how well people cope with medical problems during the study.\n\nAdults with metastatic pancreatic cancer can take part. Their cancer is metastatic, has the CLDN18.2 marker in a tumor sample and has not previously been treated with chemotherapy. Metastatic means the cancer has spread to other parts of the body. People cannot take part are if they have recently had radiotherapy and have not recovered, need to take medicines to suppress their immune system, have history of nervous system metastases from their pancreatic cancer, or they have other active cancers that need treatment. People who have a specific heart condition or infections also cannot take part.\n\nThis study will be in 2 parts. Part 1 is called the Safety Lead-in Phase. Groups of people will receive 1 of 2 different doses of zolbetuximab: a lower dose or a higher dose, both together with chemotherapy. A medical expert panel will check the results and decide the dose to use in Part 2.\n\nPart 2 is called the Randomization Phase. People will be put in 1 of 2 groups by chance and will be given different treatments either zolbetuximab and chemotherapy or chemotherapy by itself. The chance of receiving zolbetuximab and chemotherapy is twice as high as receiving chemotherapy by itself. In both parts of the study, zolbetuximab and chemotherapy or chemotherapy by itself will be given through a vein. This is called an infusion. Each treatment cycle is 4 weeks (28 days) long and people will have either 2 infusions of zolbetuximab and 3 infusions of chemotherapy or 3 infusions of chemotherapy by itself during each treatment cycle. People will visit the clinic on certain days during their treatment. The study doctors will check for any medical problems from zolbetuximab. Also, people in the study will have a health check including blood tests. On some visits they will also have scans to check for any changes in their cancer. Tumor samples will be taken before treatment if a previous sample is not available. People will have the option of giving a tumor sample after treatment has finished. People will visit the clinic after they stop treatment. They will be asked about any medical problems and will have a health check including blood tests. The number of visits and checks done at each visit will depend on the health of each person and whether they completed their treatment or not.\n\nAstellas is terminating the zolbetuximab pancreatic development program from Dec 2025 (following the final OS analysis in Oct 2025). Active subjects may remain on treatment if the investigator determines they are receiving benefit from it. The Survival follow-up period is no longer required.\n\nThis study will have a safety lead in phase and a randomization phase.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp",
+  "zolbetuximab"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03816163",
+ "importance": 0.92,
+ "key_points_ko": [
+  "종양 세포의 75% 이상에서 CLDN18.2 발현이 확인된 전이성 췌장암 환자 393명을 대상으로 진행되었습니다.",
+  "zolbetuximab과 화학요법 병용군을 화학요법 단독군과 2:1로 비교하여 생존기간 개선 여부를 평가했습니다.",
+  "2025년 10월 최종 전체 생존기간 분석 후 2025년 12월 췌장암 개발 프로그램이 종료될 예정입니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03816163"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2019-01-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Astellas Pharma Global Development, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03816163"
+ },
+ "summary_ko": "CLDN18.2 단백질이 발현된 전이성 췌관선암 환자를 대상으로 zolbetuximab(졸베툭시맙)과 항암화학요법(nab-paclitaxel 및 gemcitabine) 병용 치료의 효과와 안전성을 평가하는 2상 임상시험입니다. 전이 상태에서 이전 항암화학요법을 받지 않은 성인 환자를 대상으로 진행되었습니다. 연구는 적정 용량을 결정하는 안전성 도입 단계(Part 1)와 zolbetuximab 병용군 대 항암화학요법 단독군을 2:1 비율로 비교하는 무작위 배정 단계(Part 2)로 진행되었습니다. 한편, 스폰서인 Astellas는 2025년 10월 최종 전체 생존기간(OS) 분석 이후 2025년 12월부로 zolbetuximab 췌장암 개발 프로그램을 종료할 예정이라고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "metastatic pancreatic cancer",
+  "IMAB362",
+  "nab-paclitaxel",
+  "gemcitabine",
+  "zolbetuximab",
+  "metastatic pancreatic adenocarcinoma",
+  "pancreatic cancer",
+  "CLDN 18.2"
+ ],
+ "title": "A Study of Zolbetuximab (IMAB362) in Adults With Pancreatic Cancer",
+ "title_ko": "전이성 췌장암 성인 환자를 대상으로 한 zolbetuximab(IMAB362) 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Metastatic Pancreatic Cancer",
+   "Metastatic Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확인된 전이성 췌관선암\n- 전이 상태에 대해 이전에 전신 항암화학요법을 받지 않은 환자 (수술 후 보조요법 완료 후 6개월 이상 경과하여 재발한 경우는 허용)\n- 중앙 면역조직화학(IHC) 검사상 종양 세포의 75% 이상에서 중등도~강도의 CLDN18.2 세포막 발현 확인\n- RECIST 1.1 기준 1개 이상의 측정 가능한 전이 병변\n- ECOG 수행능력 평가 0 또는 1점\n- 예상 기대 여명 12주 이상\n\n제외 기준:\n- 이전에 nab-paclitaxel 및 gemcitabine 치료 중 질병이 진행한 병력\n- 췌장암으로 인한 신경계 전이(뇌전이) 병력\n- 무작위 배정 전 14일 이내 방사선 치료를 받았거나 관련 독성이 회복되지 않은 경우\n- 14일 이내 전신 면역억제제 또는 전신 코르티코스테로이드 치료를 받은 경우 (생리적 대체요법 등 제외)\n- 3등급 이상의 흉막삼출액(흉수) 또는 복수\n- 간질성 폐렴 또는 폐섬유증 병력\n- 최근 6개월 이내 심부전(NYHA III/IV), 심근경색, 불안정 협심증, 뇌졸중 등 중대한 심혈관 질환 병력",
+  "eligibility_text": "Inclusion Criteria:\n\n* A female subject is eligible to participate if she is not pregnant or lactating and at least 1 of the following conditions applies:\n\n  * Not a woman of childbearing potential (WOCBP) OR\n  * WOCBP who agrees to follow the contraceptive guidance throughout the treatment period and for at least 6 months after the final study drug administration.\n* Female subject must agree not to breastfeed starting at screening and throughout the study period, and for 6 months after the final study drug administration.\n* Female subject must not donate ova starting at screening and throughout the study period, and for 6 months after the final study drug administration.\n* A male subject with female partner(s) of child-bearing potential must agree to use contraception during the treatment period and for at least 6 months after the final study drug administration.\n* A male subject must not donate sperm during the treatment period and for at least 6 months after the final study drug administration.\n* Male subject with a pregnant or breastfeeding partner(s) must agree to remain abstinent or use a condom for the duration of the pregnancy or time partner is breastfeeding throughout the study period and for 6 months after the final study drug administration.\n* Subject agrees not to participate in other interventional studies while receiving study drug in present study.\n* Subject has histologically or cytologically confirmed adenocarcinoma of pancreas.\n* Subjects must have metastatic pancreatic adenocarcinoma that has not been previously treated with chemotherapy.\n\n  * Prior treatment with fluorouracil (5-FU) or GEM administered as a radiation sensitizer during and up to 4 weeks after radiation therapy is allowed\n  * If a subject received adjuvant therapy, tumor recurrence or disease progression must have occurred at least 6 months after completing the last dose of the adjuvant therapy.\n  * Subjects whose disease progressed on prior treatment with Nab-P and GEM are not eligible.\n* Subject has a measurable lesion(s) on at least 1 metastatic site based on RECIST 1.1 within 28 days prior to randomization. For subjects with only 1 measurable lesion and prior radiotherapy, the lesion must be outside the field of prior radiotherapy or must have documented progression following radiation therapy.\n* Subject's tumor sample has CLDN18.2 expression in ≥ 75% of tumor cells demonstrating moderate to strong membranous staining as determined by central immunohistochemistry (IHC) testing\n* Subject has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Subject has predicted life expectancy ≥ 12 weeks.\n* Subject must meet all of the following criteria based on the laboratory tests that will be collected within 14 days prior to randomization. In case of multiple laboratory data within this period, the most recent data should be used.\n\n  * Hemoglobin ≥ 9 g/dl (no transfusion within 14 days of start of study treatment)\n  * Absolute neutrophil count ≥ 1.5 x 10\\^9/L\n  * Platelets ≥ 100 x 10\\^9/L\n  * Albumin ≥ 2.5 g/dL\n  * Total bilirubin ≤ 1.5 x upper limit of normal (ULN)\n  * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN without liver metastases (≤ 5 x ULN if liver metastases are present)\n  * Estimated creatinine clearance ≥ 30 mL/min\n  * Prothrombin time/international normalized ratio (INR) and partial thromboplastin time ≤ 1.5 x ULN (except for subjects receiving anticoagulation therapy)\n\nExclusion Criteria:\n\n* Subject has received other investigational treatment within 28 days prior to randomization.\n* Subject has received radiotherapy for metastatic pancreatic adenocarcinoma ≤ 14 days prior to randomization and has not recovered from any related toxicity.\n* Subject has received systemic immunosuppressive therapy, including systemic corticosteroids within 14 days prior to randomization. Subject using a physiologic replacement dose of hydrocortisone or its equivalent (defined as up to 30 mg per day of hydrocortisone or up to 10 mg per day of prednisone), receiving a single dose of systemic corticosteroids or receiving systemic corticosteroids as premedication for radiologic imaging contrast use are allowed.\n* Subject has prior severe allergic reaction or intolerance to known ingredients of zolbetuximab or other monoclonal antibody, including humanized or chimeric antibodies.\n* Subject has known immediate or delayed hypersensitivity, intolerance or contraindication to any component of study treatment.\n* Subject has a known history of a positive test for human immunodeficiency virus infection or known active hepatitis B (positive HBs antigen \\[Ag\\]) or hepatitis C infection. NOTE: Screening for these infections should be conducted per local requirements.\n\n  1. For subjects who are negative for HBs Ag, but hepatitis B core antibody positive, a hepatitis B virus DNA test will be performed and if positive, the subject will be excluded.\n  2. Subjects with positive hepatitis C serology but negative hepatitis C virus RNA test results are eligible.\n  3. Subjects treated for hepatitis C with undetectable viral load results are eligible.\n* Subject has a history of interstitial pneumonia or pulmonary fibrosis.\n* Subject has pleural effusion or ascites ≥ Grade 3.\n* Subject has an active autoimmune disease that has required systemic treatment in the past 3 months prior to randomization.\n* Subject has active infection requiring systemic therapy that has not completely resolved per investigator judgment within 7 days prior to randomization.\n* Subject has significant cardiovascular disease, including:\n\n  * Congestive heart failure (defined as New York Heart Association Class III or IV), myocardial infarction, unstable angina, coronary angioplasty, coronary stenting, coronary artery bypass graft, cerebrovascular accident or hypertensive crisis within 6 months prior to randomization;\n  * History of clinically significant ventricular arrhythmias (i.e., sustained ventricular tachycardia, ventricular fibrillation or Torsades de Pointes);\n  * QTc interval \\> 450 msec for male subjects; QTc interval \\> 470 msec for female subjects;\n  * Cardiac arrhythmias requiring anti-arrhythmic medications (Subjects with rate controlled atrial fibrillation for \\> 1 month prior to randomization.)\n* Subject has a history of central nervous system metastases and/or carcinomatous meningitis from pancreatic adenocarcinoma.\n* Subject has known peripheral sensory neuropathy ≥ Grade 2 unless the absence of deep tendon reflexes is the sole neurological abnormality.\n* Subject has had a major surgical procedure ≤ 28 days prior to randomization.\n* Subject without complete recovery from a major surgical procedure ≤ 14 days prior to randomization.\n* Psychiatric illness or social situations that would preclude study compliance.\n* Subject has another malignancy for which treatment is required.\n* Subject has any concurrent disease, infection or co-morbid condition that interferes with the ability of the subject to participate in the study, which places the subject at undue risk or complicates the interpretation of data.",
+  "enrollment": 393,
+  "has_results": false,
+  "interventions": [
+   "zolbetuximab",
+   "nab-paclitaxel",
+   "gemcitabine"
+  ],
+  "last_update_posted": "2026-10-14",
+  "location_countries": [
+   "Australia",
+   "Brazil",
+   "China",
+   "France",
+   "Ireland",
+   "Italy",
+   "Japan",
+   "Mexico",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "Turkey (Türkiye)",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Site KR82005",
+    "status": null
+   },
+   {
+    "city": "Suwon",
+    "country": "South Korea",
+    "facility": "Site KR82008",
+    "status": null
+   },
+   {
+    "city": "Daegu",
+    "country": "South Korea",
+    "facility": "Site KR82010",
+    "status": null
+   },
+   {
+    "city": "Gyeonggi-do",
+    "country": "South Korea",
+    "facility": "Site KR82009",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82001",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82003",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82004",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82007",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82002",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Site KR82006",
+    "status": null
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "CLDN18_2"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "췌장암의 중추신경계(뇌) 전이 병력",
+    "최근 6개월 이내 심부전, 심근경색, 뇌졸중 등 중증 심혈관 질환 병력",
+    "3등급 이상의 복수 또는 흉막삼출",
+    "간질성 폐렴, 폐섬유증 또는 활동성 자가면역질환 병력",
+    "전신 치료가 필요한 활동성 감염 질환"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암치료를 받지 않은 CLDN18.2 발현 75% 이상의 전이성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "taxane"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 136,
+  "nct_id": "NCT03816163",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-10-31",
+  "sex": "ALL",
+  "sponsor": "Astellas Pharma Global Development, Inc.",
+  "start_date": "2019-03-15",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

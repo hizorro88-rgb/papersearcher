@@ -1,0 +1,111 @@
+{
+ "abstract": "To learn whether an eating pattern called intermittent fasting (IF) is tolerable and feasible for individuals at high risk of pancreatic cancer and whether IF is associated with changes in biological markers, including metabolic, inflammatory, microbiome, and imaging-related markers.\n\nPrimary Objectives\n\n• To assess the tolerability and feasibility of Intermittent fasting (IF) in participants at high risk for pancreatic cancer.\n\nSecondary Objectives\n\n* To assess changes in oral and gut microbiome after IF.\n* To assess changes in metabolomic markers after IF.\n* To assess changes in inflammatory markers after IF.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07513116",
+ "importance": 0.74,
+ "key_points_ko": [
+  "췌장암 고위험군 성인 20명을 대상으로 간헐적 단식의 내약성과 실행 가능성을 평가합니다.",
+  "간헐적 단식 시행에 따른 구강 및 장내 미생물총, 대사 및 염증 표지자의 변화를 관찰합니다.",
+  "식사 시간 변경과 전용 앱을 통한 단식 시간 기록이 가능한 환자를 대상으로 합니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07513116"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-04-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07513116"
+ },
+ "summary_ko": "췌장암 발생 위험이 높은 사람들을 대상으로 간헐적 단식(IF)의 수용 가능성과 실행 가능성을 평가하는 임상시험입니다. 가족력, 유전성 변이, 췌장 낭종 등으로 췌장암 고위험군 클리닉에서 추적 관찰을 받는 성인 20명을 대상으로 진행됩니다. 간헐적 단식을 실천한 후 구강 및 장내 미생물총, 대사체 지표, 염증 지표 등의 생체표지자 변화를 분석합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Evaluating Intermittent Fasting In Individuals At High Risk ForPancreatic Cancer Undergoing Screening",
+ "title_ko": "췌장암 조기 검진을 받는 고위험군을 대상으로 한 간헐적 단식의 평가",
+ "trial": {
+  "conditions": [
+   "Evaluating",
+   "Intermittent Fasting",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "fmcallister@mdanderson.org",
+    "name": "Florencia McAllister, MD",
+    "phone": "713-745-0914"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 성인\n• 췌장암 고위험군 또는 낭종 클리닉에서 췌장암 고위험군으로 평가 및 분류된 자 (유전성 암 증후군 또는 생식세포 변이 보유자, 췌관선암 가족력, 췌장 낭종 및 췌관내유두상점액종양[IPMN]/점액성낭성종양[MCN] 등 전구 병변 보유자, 췌장암 의심 신규 당뇨병, 재발성 또는 만성 췌장염 병력자 등)\n• NCCN 가이드라인의 췌장암 고위험군 선별 검진 기준에 부합하는 자\n• 식사 시간 패턴을 변경하고 앱을 통해 단식 시간 기록을 제공할 의향이 있는 자\n\n제외 기준:\n• 체질량지수(BMI) 18.5 kg/m² 미만인 저체중 환자\n• 확인된 증상성 저혈당증 병력자\n• 임신 또는 수유 중인 여성\n• 인지 장애가 있는 자",
+  "eligibility_text": "Inclusion Criteria\n\n* Participants ≥ 18 years old. Participants under 18 are excluded due to their potential inability to understand and consent independently to the methods required for the study drug use and its potential risks and benefits.\n* Participants evaluated and classified as high risk for pancreatic cancer through a High-Risk Pancreatic Cancer Clinic or High-Risk Pancreatic Cyst Clinic, based on established clinical assessment and risk stratification.\n* High-risk status may include one or more of the following:\n\n  * Hereditary cancer syndromes or known pathogenic germline mutations associated with pancreatic cancer risk\n  * Family history of pancreatic ductal adenocarcinoma (PDAC)\n  * Presence of pancreatic cysts or precursor lesions (e.g., IPMN, MCN)\n  * New-onset diabetes mellitus is considered suspicious for pancreatic cancer\n  * History of recurrent or chronic pancreatitis\n* Eligibility and surveillance risk assessment must be consistent with NCCN (National Comprehensive Cancer Network) Guidelines for Pancreatic Cancer Screening in High- Risk Individuals.\n* Participants are able to understand and are willing to sign a written informed consent document.\n* Both English-speaking and non-English-speaking participants are eligible for participation\n* Participants are willing to make a change in eating time patterns.\n* Participants are willing to provide App-tracked fasting time data over the course of the study.\n\nExclusion Criteria\n\n* BMI \\< 18.5 Kg/m2\n* Documented history of symptomatic hypoglycemia\n* Pregnant or breastfeeding women\n* Cognitively impaired individuals",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "intermittent fasting"
+  ],
+  "last_update_posted": "2026-10-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "저체중 (체질량지수 18.5 kg/m² 미만)",
+    "증상성 저혈당증 병력",
+    "임신 또는 수유 중인 여성",
+    "인지 장애"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "췌장암 고위험군(가족력, 유전 변이, 췌장 낭종 등)에 해당하며 식단 시간 조절이 가능한 성인을 위한 연구",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07513116",
+  "phase": "NA",
+  "primary_completion_date": "2027-03-30",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2026-06-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

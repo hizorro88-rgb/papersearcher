@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Li C",
+  "Lim KH"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "drug",
+  "trial"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42871417",
+ "importance": 0.53,
+ "key_points_ko": [
+  "수술 가능 및 경계성 수술 가능 췌장암 환자를 대상으로 한 선행 FOLFIRINOX와 젬시타빈 기반 화학방사선요법 비교 3상 임상시험에 관한 논평 논문입니다.",
+  "구체적인 생존기간, 반응률, 수술 성공률 등 세부 연구 수치는 제공된 텍스트에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.21037/hbsn-2026-0282",
+  "nct": [],
+  "pmcid": "PMC13659558",
+  "pmid": "42871417"
+ },
+ "pub_types": [
+  "Editorial",
+  "Comment"
+ ],
+ "published_at": "2026-09-03",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hepatobiliary Surg Nutr",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42871417/"
+ },
+ "summary_ko": "이 글은 수술 가능 및 경계성 수술 가능 췌장암 환자를 대상으로 진행된 PREOPANC-2 3상 무작위 임상시험을 다룬 사설(Editorial)입니다. 해당 임상시험은 수술 전 선행요법으로 FOLFIRINOX(폴피리녹스)를 투여하는 방식과 젬시타빈 기반 화학방사선요법을 적용하는 방식을 비교했습니다. 구체적인 환자 수와 생존율 등 세부 연구 결과는 제공된 텍스트에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Editorial for PREOPANC-2, a multicenter, open-label, phase 3 randomized trial comparing neoadjuvant FOLFIRINOX vs. neoadjuvant gemcitabine based chemoradiotherapy in resectable and borderline resectable pancreatic cancer",
+ "title_ko": "수술 가능 및 경계성 수술 가능 췌장암에서 선행 FOLFIRINOX 대 젬시타빈 기반 화학방사선요법을 비교한 다기관 무작위 3상 임상시험(PREOPANC-2)에 관한 사설",
+ "trial": null,
+ "type": "paper"
+}

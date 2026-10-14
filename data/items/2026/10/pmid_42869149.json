@@ -1,0 +1,63 @@
+{
+ "abstract": "eEF1A is an essential non-ribosomal translation elongation factor that mediates the high-fidelity delivery of aminoacyl-tRNAs to elongating ribosomes. Like histone H3, eEF1A undergoes extensive lysine methylation, with five distinct residues targeted by dedicated lysine methyltransferases (KMTs). However, compared with histone methylation, relatively little is known about the molecular and physiological functions of eEF1A lysine methylation. Here, we focus on METTL10, the KMT that catalyzes trimethylation of eEF1A at lysine 318 (eEF1AK318me3). We show that the METTL10-eEF1AK318me3 axis modestly enhances global protein synthesis and supports pancreatic ductal adenocarcinoma (PDAC) tumorigenesis in vivo. We identify the 236 amino-acid isoform as the catalytically active endogenous form of METTL10 and demonstrate that it is required for eEF1AK318me3 generation in multiple human cell lines. Further, we provide evidence that eEF1AK318 is the principal physiologic target of METT10. Loss of eEF1AK318 modestly reduces global protein synthesis across multiple cancer cell lines without substantially impacting polysome formation. METTL10 depletion attenuates proliferation of multiple cancer cell lines, an effect that depends on its catalytic activity. Moreover, elevated eEF1AK318me3 levels in PDAC tumors are associated with poor patient outcomes. Finally, METTL10 ablation attenuates tumor growth and extends survival in a KRASG12D-driven PDAC mouse model. Together, our work identifies the METTL10-eEF1AK318me3 axis as a regulator of protein synthesis and implicates it in PDAC pathogenesis.",
+ "authors": [
+  "Buie L",
+  "Hausmann S",
+  "Park J",
+  "Ikram S",
+  "Chasan T",
+  "Yang X",
+  "Flores NM",
+  "Mazur P"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869149",
+ "importance": 0.54,
+ "key_points_ko": [
+  "METTL10에 의한 eEF1A K318 부위 삼중메틸화는 암세포의 전반적인 단백질 합성을 촉진합니다.",
+  "췌관선암 환자 조직에서 eEF1AK318me3의 발현 증가가 불량한 예후와 관련이 있었습니다.",
+  "KRAS G12D 유도 췌관선암 마우스 모델에서 METTL10을 제거하면 종양 성장이 지연되고 생존기간이 연장되었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1016/j.jbc.2026.113635",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869149"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biol Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869149/"
+ },
+ "summary_ko": "본 연구는 번역 신장 인자인 eEF1A의 특정 라이신 잔기(K318)를 삼중메틸화하는 효소 METTL10의 분자적 기능을 규명했습니다. 연구진은 METTL10-eEF1AK318me3 축이 전반적인 단백질 합성을 촉진하고 췌관선암(PDAC)의 종양 형성을 돕는다는 사실을 확인했습니다. 췌관선암 환자 종양에서 eEF1AK318me3 수치가 높을수록 불량한 예후와 연관되어 있었습니다. 또한 KRAS G12D 변이 기반 췌관선암 동물(마우스) 모델에서 METTL10을 제거했을 때 종양 성장이 억제되고 생존기간이 연장되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "METTL10 trimethylation of eEF1A at K318 enhances protein synthesis and tumorigenesis",
+ "title_ko": "METTL10에 의한 eEF1A의 K318 삼중메틸화가 단백질 합성 및 종양 형성을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

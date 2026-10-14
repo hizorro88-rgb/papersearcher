@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Delayed diagnosis and treatment worsen survival in pancreatic ductal adenocarcinoma (PDAC). Despite many potential causes, the influence of social determinants of health (SDoH) is understudied. We evaluated whether SDoH impact delays in diagnosis and treatment among patients who underwent resection for PDAC.\nPATIENTS AND METHODS: Adults resected at a high-volume center were included (January 2016-November 2024). SDoH included insurance status, census-level income and education, rural-urban residence, and Area Deprivation Index. Primary endpoints were time from first imaging to histological diagnosis and time from first imaging to treatment initiation. Delay thresholds were derived using receiver operating characteristic analysis against overall survival. Uni- and multivariable logistic regression identified factors associated with delays, adjusting for demographic and clinical covariates, stratified by outpatient (OUP) versus emergency room (ER) presentation.\nRESULTS: Among 317 patients, the median age was 67 years, and 42.3% were female; 50.1% presented through ER. The median imaging-to-diagnosis interval was 11 days (interquartile [IQR] 3-27 days), and the median imaging-to-treatment interval was 40 days (IQR 27-59 days). In the OUP cohort, Medicare insurance was associated with delayed diagnosis compared with private insurance (OR 3.34 [95% CI 1.09-11.70]), whereas higher income was associated with up to 84% lower odds of delayed treatment. In the ER cohort, higher education was associated with reduced odds of delayed diagnosis (OR 0.27 [95% CI 0.07-0.88]) and delayed treatment (OR 0.33 [95% CI 0.11-0.91]). Post-endoscopic retrograde cholangiopancreatography (ERCP) hospitalization predicted delays in the ER setting, whereas alarm symptoms reduced delays in both settings.\nCONCLUSIONS: SDoH are associated with diagnostic and treatment delays in resected PDAC. Targeted interventions may accelerate care and improve equity in outcomes.",
+ "authors": [
+  "Ali MM",
+  "Hammad YM",
+  "Zhu P",
+  "Z Al Rubaye M",
+  "Cher BA",
+  "Marcinak CT",
+  "LoConte NK",
+  "Idrees K"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42873430",
+ "importance": 0.77,
+ "key_points_ko": [
+  "첫 영상 검사에서 조직 진단까지 중앙값은 11일(사분위범위 3~27일), 치료 시작까지는 중앙값 40일(사분위범위 27~59일)이 걸렸습니다.",
+  "외래 환자에서 메디케어 보험 적용자는 사보험자에 비해 진단 지연 위험이 3.34배 높았으며, 고소득은 치료 지연 위험을 최대 84% 낮췄습니다.",
+  "응급실로 내원한 환자에서는 높은 교육 수준이 진단 지연(OR 0.27) 및 치료 지연(OR 0.33)의 위험을 낮추는 요인이었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1245/s10434-026-20419-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42873430"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42873430/"
+ },
+ "summary_ko": "이 연구는 수술을 받은 췌장관선암(PDAC) 환자에서 건강의 사회적 결정요인(SDoH)이 진단 및 치료 지연에 미치는 영향을 분석했습니다. 2016년부터 2024년까지 고용량 의료기관에서 수술을 받은 317명의 환자를 대상으로 보험 상태, 소득, 교육 수준 등의 요인을 조사했습니다. 연구 결과 첫 영상 검사부터 조직 진단까지 중앙값은 11일, 치료 시작까지는 중앙값 40일이 소요되었습니다. 외래 환자군에서는 메디케어(Medicare) 보험 환자가 사보험 환자에 비해 진단 지연 위험이 높았고, 응급실 내원 환자군에서는 교육 수준이 높을수록 진단 및 치료 지연 위험이 유의하게 낮았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association of Social Determinants of Health with Delays in Diagnosis and Treatment of Resected Pancreatic Ductal Adenocarcinoma (PDAC)",
+ "title_ko": "수술을 받은 췌장관선암 환자의 진단 및 치료 지연과 건강의 사회적 결정요인의 연관성",
+ "trial": null,
+ "type": "paper"
+}

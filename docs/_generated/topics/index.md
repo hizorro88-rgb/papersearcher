@@ -17,13 +17,13 @@ search:
 | [zoldonrasib](zoldonrasib.md) | 약물 | 3 | 2026-10-06 |
 | [elironrasib](elironrasib.md) | 약물 | 0 | - |
 | [sotorasib](sotorasib.md) | 약물 | 0 | - |
-| [adagrasib](adagrasib.md) | 약물 | 0 | - |
+| [adagrasib](adagrasib.md) | 약물 | 1 | 2026-10-14 |
 | [olaparib](olaparib.md) | 약물 | 4 | 2026-10-06 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 26 | 2026-10-06 |
-| [FOLFIRINOX](folfirinox.md) | 요법 | 63 | 2026-10-14 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 87 | 2026-10-14 |
+| [FOLFIRINOX](folfirinox.md) | 요법 | 65 | 2026-10-14 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 89 | 2026-10-14 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
-| [zolbetuximab](zolbetuximab.md) | 약물 | 0 | - |
-| [Whipple](whipple.md) | 시술·수술 | 12 | 2026-10-14 |
+| [zolbetuximab](zolbetuximab.md) | 약물 | 1 | 2026-10-14 |
+| [Whipple](whipple.md) | 시술·수술 | 13 | 2026-10-14 |
 | [distal pancreatectomy](distal-pancreatectomy.md) | 시술·수술 | 4 | 2026-10-10 |
 | [SBRT](sbrt.md) | 시술·수술 | 18 | 2026-10-06 |

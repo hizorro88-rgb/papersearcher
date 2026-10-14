@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive cancer with remarkably poor prognosis. Splicing dysregulation is emerging as a hallmark and possible therapeutic target of PDAC.\nMETHODS: We performed high-throughput RNA sequencing analyses in PANC-1 cells treated with three drugs targeting the U2 small nuclear ribonucleoprotein (U2 snRNP): Pladienolide B, Thailanstatin A and Indisulam. The efficacy of splicing inhibitors, Talazoparib, Alisertib, AZD7762 and Barisertib, alone or in combination, was assessed in PDAC cells and patient-derived organoids (PDOs) by cell viability assays. RT-PCR, western blot and cell cycle assays were performed to evaluate the expression of DNA repair and mitotic genes and the execution of mitosis. PANC-1 cells were engineered to stably co-express GFP-tagged H2b histone and RFP-tagged β-tubulin by CRISPR/Cas-9 technology and used for time-lapse confocal microscopy and immunofluorescence analyses.\nRESULTS: Genes encoding for the U2 snRNP, which recognizes the 3' splice site, are upregulated in advanced PDAC. U2 snRNP-targeting drugs impair the DNA damage response (DDR) pathway in homologous recombination-proficient PDAC cells and PDOs, thus enhancing their sensitivity to PARP inhibitors. Genes whose splicing was disrupted by all three drugs are characterized by higher expression, more exon-intron junctions, weak 5' splice sites and atypical GC content. These features are enriched in mitotic genes (e.g. AURKA, AURKB, CHEK1), whose expression is strongly deregulated by splicing perturbation. Accordingly, splicing inhibition causes severe mitotic defects, leading to the accumulation of cells with misaligned condensed chromosomes on monopolar or bipolar spindles. Notably, high expression of AURKA, AURKB and CHEK1 correlates with poor prognosis in PDAC patients, whereas combined treatments with inhibitors of these mitotic kinases strongly impair the viability of PDAC cells and PDOs.\nCONCLUSIONS: These findings uncover gene features associated with sensitivity to splicing inhibitors in PDAC cells and suggest that the DDR and mitosis are biological processes highly sensitive to splicing perturbation.",
+ "authors": [
+  "Panzeri V",
+  "Pieraccioli M",
+  "Ruta V",
+  "Manno MV",
+  "Caggiano C",
+  "Hartem D",
+  "Riente A",
+  "Milletti G"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42870295",
+ "importance": 0.54,
+ "key_points_ko": [
+  "U2 snRNP 표적 약물은 상동재조합 기능이 온전한 췌장암 세포와 오가노이드에서 DNA 손상 반응을 손상시켜 PARP 억제제(talazoparib)에 대한 감수성을 높였습니다.",
+  "스플라이싱 억제는 유사분열 조절 유전자(AURKA, AURKB, CHEK1) 발현을 교란시켜 염색체 정렬 이상 등 심각한 세포 분열 결함을 유발했습니다.",
+  "AURKA, AURKB, CHEK1의 높은 발현은 췌장암 환자의 불량한 예후와 연관되었으며, 이들 키나아제 억제제와의 병용 처리는 췌장암 세포 및 오가노이드의 생존율을 크게 저하시켰습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1186/s13046-026-03795-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42870295"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Exp Clin Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870295/"
+ },
+ "summary_ko": "이 연구는 췌관선암종(PDAC) 세포와 환자 유래 오가노이드(PDO)를 대상으로 RNA 스플라이싱 인자인 U2 snRNP 억제제의 항암 효과와 기전을 조사했습니다. U2 snRNP를 표적하는 약물은 DNA 손상 반응(DDR) 경로를 손상시켜 상동재조합 기능이 유지된 암세포에서도 PARP 억제제에 대한 민감도를 크게 높였습니다. 또한 AURKA, AURKB, CHEK1 등 세포 분열 관련 유전자의 스플라이싱을 방해하여 심각한 유사분열 결함과 세포 사멸을 유도했습니다. 연구진은 U2 snRNP 억제와 유사분열 또는 DNA 복구 억제제의 병용이 췌장암의 새로운 치료 전략이 될 수 있음을 시사했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "U2 snRNP inhibition hampers pancreatic cancer cell viability by disrupting DNA repair proficiency and mitotic checkpoint integrity",
+ "title_ko": "U2 snRNP 억제를 통한 DNA 복구 능력 및 유사분열 검문소 교란이 췌장암 세포 생존율에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

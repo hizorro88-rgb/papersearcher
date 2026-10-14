@@ -1,0 +1,116 @@
+{
+ "abstract": "This clinical trial studies a new screening program to improve the early detection of sporadic pancreatic cancer in individuals with a high risk of developing pancreatic cancer. Pancreatic cancer remains one of the deadliest solid tumors, characterized by a long phase without symptoms followed by rapid progression once clinically evident. Despite advancements in treatment, the survival rate for pancreatic cancer remains low. Research has helped to identify a subset of individuals with a markedly high short-term risk for developing pancreatic cancer, which includes adults aged 50 and older with glycemically-defined new-onset diabetes and an Enriching New-Onset Diabetes for Pancreatic Cancer (ENDPAC) score ≥ 3. However, current practice guidelines do not provide clear pathways for surveillance or early detection. The screening program in this trial combines repeated contrast-enhanced computed tomography (CT) scans using artificial intelligence (AI) and blood draws. Contrast-enhanced CT is an imaging technique which creates a series of detailed pictures of areas inside the body; the pictures are created by a computer linked to an x-ray machine and a contrast agent is used to enhance the images. The images are then reviewed using AI, which may make it easier to spot cancer earlier on the CT scans than with the human eye. Studying samples of blood in the laboratory from high-risk individuals may help doctors understand more about why they may develop pancreatic cancer. This may be an effective way to screen high-risk individuals and improve the early detection of sporadic pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07324096",
+ "importance": 0.74,
+ "key_points_ko": [
+  "등록 전 180일 이내에 신규 당뇨(gNOD)가 발생하고 ENDPAC 점수가 3점 이상인 50~85세 고위험군 성인 100명을 대상으로 합니다.",
+  "인공지능(AI) 판독 기술이 적용된 조영증강 CT와 혈액 검체 검사를 병행하여 췌장암을 조기에 발견할 수 있는지 평가합니다.",
+  "이전에 췌관선암이나 유전성 암 증후군으로 진단받은 병력이 있는 환자는 참여 대상에서 제외됩니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07324096"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-01-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mayo Clinic",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07324096"
+ },
+ "summary_ko": "이 임상시험은 췌장암 발생 위험이 높은 고위험군 성인을 대상으로 산발성 췌장암을 조기에 발견하기 위한 새로운 선별 검사 프로그램을 평가합니다. 등록 전 180일 이내에 혈당 기준으로 신규 당뇨를 진단받고 췌장암 위험도 점수인 ENDPAC 점수가 3점 이상인 50~85세 성인 100명을 모집합니다. 인공지능(AI)을 활용한 조영증강 전산화단층촬영(CT) 추적 검사와 혈액 검체 분석을 결합하여 조기 진단 효용성을 확인합니다. 고위험군에서 췌장암을 증상이 나타나기 전 조기에 포착하는 효과적인 선별 방식을 확립하는 것이 목적입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Screening Program to Improve the Early Detection of Sporadic Pancreatic Cancer in Individuals With a High-Risk of Developing Pancreatic Cancer",
+ "title_ko": "췌장암 고위험군에서 산발성 췌장암의 조기 발견을 향상시키기 위한 선별 검사 프로그램 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "mayocliniccancerstudies@mayo.edu",
+    "name": "Clinical Trials Referral Office",
+    "phone": "855-776-0015"
+   },
+   {
+    "email": null,
+    "name": "Alyssa Johnson",
+    "phone": "507-422-9721"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 50세 이상 85세 이하\n- 등록 전 180일 이내에 발생한 혈당 기준 신규 당뇨(gNOD)\n- 검증된 위험 분류 모델에 따른 ENDPAC(신규 당뇨 기반 췌장암 선별 점수) 점수 3점 이상\n- 서면 또는 비대면 동의서 제출 가능\n\n제외 기준:\n- 췌관선암(PDA) 진단 병력이 있는 경우\n- 알려진 유전성 암 증후군(예: BRCA1/2 변이, 린치 증후군, 포이츠-예거스 증후군 등)이 있는 경우\n- 췌장 수술 병력이 있는 경우\n- 등록 시점에 췌장 낭종 추적 관찰을 받고 있는 경우\n- 등록 시점 기준 조영증강 CT 검사에 대한 임상적 금기 사항이 있는 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 50 and ≤ 85 years\n* Glycemically-defined new-onset diabetes (gNOD) with onset ≤ 180 days preceding enrollment\n* Enriching New-onset Diabetes for Pancreatic Cancer (ENDPAC) score ≥ 3, based on validated risk stratification models\n* Provide written or remote informed consent\n\nExclusion Criteria:\n\n* Prior diagnosis of pancreatic ductal adenocarcinoma (PDA)\n* Known hereditary cancer syndromes (e.g., BRCA1/2, Lynch syndrome, Peutz-Jeghers)\n* Prior history of pancreatic surgery\n* Pancreatic cyst surveillance at time of registration\n* Contraindications to contrast-enhanced CT imaging per standard clinical practice at time of registration",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography with Contrast",
+   "Electronic Health Record Review"
+  ],
+  "last_update_posted": "2026-10-14",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "기존 췌장암 진단 병력",
+    "유전성 암 증후군(BRCA1/2 변이, 린치 증후군 등)",
+    "췌장 수술 병력",
+    "췌장 낭종 추적 관찰 중인 경우",
+    "조영증강 CT 촬영 금기자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "최근 6개월 이내 신규 당뇨가 진단되고 ENDPAC 위험 점수가 3점 이상인 50~85세 췌장암 고위험군 대상 조기 진단 선별 연구",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": "85 Years",
+  "min_age": "50 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07324096",
+  "phase": "NA",
+  "primary_completion_date": "2029-03-24",
+  "sex": "ALL",
+  "sponsor": "Mayo Clinic",
+  "start_date": "2026-03-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

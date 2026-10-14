@@ -25,7 +25,11 @@
  ],
  "id": "pmid:42866901",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "역형성 췌장암은 일반 췌관선암 대비 KRAS(90% vs 75%), TP53(85% vs 60%), CDKN2A(50% vs 30%)의 변이 빈도가 더 높았습니다.",
+  "반면 SMAD4 유전자 변이 비율은 역형성 암종에서 5%에 불과하여 일반 췌장암의 20%에 비해 유의하게 낮았습니다(p=0.022).",
+  "SMAD4 기능 유지와 ELF3 발현 감소가 상피간엽이행(EMT) 경로를 활성화하여 종양의 역형성 변형을 유도함을 밝혔습니다."
+ ],
  "last_updated": "2026-10-14",
  "links": {
   "doi": "10.1002/path.70136",
@@ -47,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42866901/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) with anaplastic features is a rare and highly aggressive subtype with an extremely poor prognosis. However, the molecular mechanisms underlying anaplastic transformation remain poorly understood.",
- "summary_source": "excerpt",
+ "summary_ko": "예후가 극도로 불량한 희귀 아형인 역형성(anaplastic) 췌장암의 분자적 발생 기전을 밝히기 위해 일반 췌관선암(PDAC) 5,997례와 역형성 암종 41례의 유전체 정보를 비교 분석했습니다. 추가로 공간 전사체(spatial transcriptomics) 분석과 마우스 동물 모델을 통해 종양의 미세환경 및 핵심 분자 기전을 검증했습니다. 분석 결과, 역형성 암종에서는 일반 췌장암에 비해 KRAS, TP53, CDKN2A 변이가 더 흔했으나 SMAD4 변이는 현저하게 드물었습니다. 연구진은 SMAD4 기능이 유지된 상태에서 상피 전사인자인 ELF3의 발현이 억제되며 상피간엽이행(EMT) 및 역분화가 촉진된다는 기전을 제시했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Molecular landscape of anaplastic transformation in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암에서 역형성 변형의 분자생물학적 특징 규명",
  "trial": null,
  "type": "paper"
 }

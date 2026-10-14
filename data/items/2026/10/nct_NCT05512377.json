@@ -1,0 +1,152 @@
+{
+ "abstract": "This study is open to adults with advanced cancer in the biliary tract, pancreas, lung, or bladder. This is a study for people for whom previous treatment was not successful or no treatment exists.\n\nThe purpose of this study is to find out whether a medicine called BI 907828 helps people with cancer in the biliary tract, pancreas, lung, or bladder. BI 907828 is a so-called MDM2 inhibitor that is being developed to treat cancer. All participants take BI 907828 as a tablet once every 3 weeks. Participants may continue to take BI 907828 as long as they benefit from treatment and can tolerate it. They visit the study site regularly. At the study site, doctors regularly check the size of the tumour and whether it has spread to other parts of the body. The doctors also regularly check participants' health and take note of any unwanted effects.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05512377",
+ "importance": 0.92,
+ "key_points_ko": [
+  "조직 검사를 통해 MDM2 유전자 증폭(카피 수 8 이상) 및 TP53 유전자 정상형(wild-type)이 확인된 환자를 대상으로 경구 MDM2 저해제 브리기마들린을 투여했습니다.",
+  "국소진행성 또는 전이성 췌관선암(PDAC) 환자 코호트가 포함되었으며, 기존 표준 전신 치료를 모두 받은 상태여야 했습니다.",
+  "환자는 3주에 1회 약제를 복용하며 치료 효과와 부작용 발생 여부를 지속적으로 평가받았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05512377"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-08-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Boehringer Ingelheim",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05512377"
+ },
+ "summary_ko": "이 임상시험은 이전 표준 치료를 받았으나 더 이상 치료 옵션이 없거나 질병이 진행한 국소진행성 또는 전이성 담도암, 췌장암, 폐암, 방광암 환자를 대상으로 진행되었습니다. 연구 약물인 브리기마들린(brigimadlin, BI 907828)은 암세포 성장을 억제하는 표적치료제인 MDM2 저해제입니다. 참가자들은 3주마다 1회 브리기마들린 정제를 경구 복용하며, 치료를 통해 임상적 이득이 있고 부작용을 견딜 수 있는 동안 투약을 지속했습니다. 연구진은 정기 검사를 통해 종양 크기 변화 및 전이 여부를 평가하고 약물의 안전성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Brightline-2: A Study to Test Whether Brigimadlin (BI 907828) Helps People With Cancer in the Biliary Tract, Pancreas, Lung or Bladder",
+ "title_ko": "담도암, 췌장암, 폐암, 방광암 환자를 대상으로 한 브리기마들린(BI 907828)의 유효성을 평가하는 2상 임상시험 (Brightline-2)",
+ "trial": {
+  "conditions": [
+   "Pancreatic Neoplasms",
+   "Solid Tumors",
+   "Biliary Tract Cancer",
+   "Lung Neoplasms",
+   "Bladder Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 수술이 불가능한 국소진행성 또는 전이성 췌관선암 환자로서 승인된 기존 표준 치료를 모두 받은 환자\n- 조직 검사(액체 생검 제외)를 통해 MDM2 유전자 증폭(카피 수 8 이상) 및 TP53 유전자 정상형(wild-type)이 확인된 환자\n- RECIST 1.1 기준 최소 1개 이상의 측정 가능한 병변이 있는 환자\n- ECOG 수행능력 점수(PS) 0 또는 1점\n- 예상 여명이 3개월 이상인 환자\n\n제외 기준:\n- 이전에 브리기마들린 또는 다른 MDM2/MDMX 저해제를 투여받은 병력\n- 활동성 출혈, 유의미한 출혈 위험(중증 위장관 출혈 병력, 뇌출혈 병력) 또는 출혈성 질환 보유\n- 치료 시작 전 4주 이내 대수술을 받았거나 등록 후 6개월 이내 수술 계획이 있는 경우\n- 임상적으로 유의미한 다른 악성종양 병력\n- 다른 임상시험용 의약품 또는 의료기기 임상에 참여 중인 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Diagnosis of a solid tumour which meets the criteria for an open trial cohort:\n\n  * Cohorts 1 and 1-CN (biliary tract adenocarcinoma): Locally advanced or metastatic biliary tract adenocarcinoma (intra- and extrahepatic cholangiocarcinoma, gallbladder cancer, and ampullary cancer).Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards; or (in the opinion of the investigator) patients are unlikely to tolerate or derive clinically meaningful benefit from appropriate standard of care therapy.\n  * Cohort 2 (pancreatic ductal adenocarcinoma): Locally advanced or metastatic pancreatic ductal adenocarcinoma. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n  * Cohort 3 (lung adenocarcinoma): Locally advanced or metastatic lung adenocarcinoma. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n  * Cohort 4 (urothelial bladder cancer): Locally advanced or metastatic urothelial bladder cancer. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n* Written pathology report / molecular profiling report indicating Mouse double minute 2 homolog (MDM2) amplification or a copy number ≥8 and tumor protein 53 (TP53) wild-type status. This must have been confirmed with a tissue-based test. A test with liquid biopsy is not accepted.\n* Archival tissue (formalin fixed paraffin embedded \\[FFPE\\] tumour blocks or slides) must be provided for retrospective confirmation of MDM2 amplification and TP53 status.\n* Presence of at least 1 measurable target lesion according to Response Evaluation Criteria in Solid Tumours (RECIST) version 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.\n* Patient must be willing to donate mandatory blood samples for the pharmacokinetics, pharmacodynamics, and biomarker analyses\n* Adequate organ function\n* All toxicities related to previous anti-cancer therapies have resolved to ≤Common Terminology Criteria for Adverse Events (CTCAE) Grade 1 prior to trial treatment administration (except for alopecia and amenorrhea / menstrual disorders which can be of any grade and peripheral neuropathy which must be ≤CTCAE Grade 2).\n* Life expectancy ≥3 months at the start of treatment in the opinion of the investigator.\n* Provision of signed and dated, written informed consent form (ICF) in accordance with ICH-GCP and local legislation prior to any trial-specific procedures, sampling, or analyses.\n* Male or female patients ≥18 years old at the time of signature of the ICF. Women of childbearing potential (WOCBP) and men able to father a child must be ready and able to use 2 medically acceptable methods of birth control per ICH M3 (R2) that result in a low failure rate of less than 1% per year when used consistently and correctly beginning at screening, during trial participation, and until 6 months and 12 days after last dose for women and 102 days after last dose for men. A list of contraception methods meeting these criteria is provided in the patient information.\n\nExclusion Criteria:\n\n* Previous administration of brigimadlin (BI 907828) or any other MDM2-p53 or mouse double minute 4 (MDMX, MDM4)-p53 antagonist.\n* Active bleeding, significant risk of haemorrhage (e.g. previous severe gastrointestinal bleeding, previous haemorrhagic stroke at any time), or current bleeding disorder (e.g. haemophilia, von Willebrand disease).\n* Major surgery (major according to the investigator's assessment) performed within 4 weeks prior to start of trial treatment or planned within 6 months after screening (e.g. hip replacement).\n* Clinically significant previous or concomitant malignancies in the opinion of the investigator affecting the efficacy and/or outcome of the trial.\n* Patients who must or intend to continue the intake of restricted medications or any drug considered likely to interfere with the safe conduct of the trial.\n* Currently enrolled in another investigational device or drug trial.\n* Any history of, or concomitant condition that, in the opinion of the investigator, would compromise the patient's ability to comply with the trial or interfere with the evaluation of the safety and efficacy of the trial drug.\n* Patients not expected to comply with the protocol requirements or not expected to complete the trial as scheduled (e.g. chronic alcohol or drug abuse or any other condition that, in the investigator's opinion, makes the patient an unreliable trial participant).\n\nFurther exclusion criteria apply.",
+  "enrollment": 99,
+  "has_results": true,
+  "interventions": [
+   "Brigimadlin"
+  ],
+  "last_update_posted": "2026-10-14",
+  "location_countries": [
+   "Australia",
+   "Austria",
+   "Belgium",
+   "France",
+   "Germany",
+   "Japan",
+   "Saudi Arabia",
+   "Singapore",
+   "South Africa",
+   "South Korea",
+   "Spain",
+   "Switzerland",
+   "Taiwan",
+   "Thailand",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": null
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 MDM2 저해제 또는 MDMX 저해제 치료 병력",
+    "활동성 출혈, 중증 위장관 출혈이나 뇌출혈 병력, 또는 출혈성 질환",
+    "치료 시작 전 4주 이내 대수술 또는 6개월 이내 수술 예정",
+    "임상적으로 유의미한 다른 암 병력"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "기존 표준 치료를 모두 마쳤으며 조직 검사상 MDM2 유전자 증폭 및 TP53 정상형(wild-type)이 확인된 국소진행성 또는 전이성 췌관선암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 60,
+  "nct_id": "NCT05512377",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-09-25",
+  "sex": "ALL",
+  "sponsor": "Boehringer Ingelheim",
+  "start_date": "2022-12-13",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

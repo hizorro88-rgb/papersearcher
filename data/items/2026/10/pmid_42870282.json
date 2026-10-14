@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUD: Pancreatic ductal adenocarcinoma (PDAC) is among the most aggressive and lethal malignancies, with a dismal 5-year survival rate of approximately 4%. The majority of patients with pancreatic cancer have a poor response to traditional chemotherapy due to its disadvantages, such as drug resistance and biological toxicity. Therefore, a novel therapeutic methods should be developed to improve the efficacy of chemotherapy drugs in pancreatic cancer. In this study, we developed a co-delivery system utilizing exosomes as carriers to simultaneously encapsulate a miR-221-targeting antisense oligonucleotide (anti-miR-221) and gemcitabine(Gem) for treatment of PDAC.\nMETHODS: A lentiviral plasmid carrying the green fluorescent protein (GFP) reporter gene and anti-miR-221 was constructed and used to transfect the human umbilical cord blood mesenchymal stem cell line (MSCs). Exosomes secreted by the MSCs were purified using the ExoQuick reagent kit. Gemcitabine was loaded into the exosomes via sonication. After DAPI staining, Panc-1 cells were incubated with the exosomes, and uptake of exosomes loaded with anti-miR-221 and Gem by Panc-1 cells was confirmed using fluorescence microscopy. Experimental groups were as follows: blank exosomes (blank-exo group); exosomes loaded with anti-miR-221 (exo-221 group); exosomes loaded with Gem (exo-Gem group); Gemcitabine monotherapy (Gem group); and exosomes co-loaded with anti-miR-221 and Gem (exo-Gem-221 group).The effects of drug delivery system on Panc-1 cell proliferation were assessed using the CCK-8 assay, and miR-221 expression levels in Panc-1 cells were measured via RT-PCR. For the study in vivo, treatments were administered via intratumoral injection into a nude mouse model with subcutaneous Panc-1 xenografts. The tumor volume and weight were measured to calculate the tumor inhibition rate. miR-221 expression in tumor tissues was detected by RT-PCR. Protein expression levels of VEGF and Caspase-3 in tumor tissues were evaluated by immunohistochemistry. Liver and kidney tissues from the mice were collected, subjected to H&E staining, and examined under a light microscope for pathological changes.\nRESULTS: In both in vitro and in vivo experiments, miR-221 levels were significantly lower in the exo-221 and exo-Gem-221 groups compared to the blank-exo group (P < 0.01), demonstrating that exosome-delivered anti-miR-221 effectively silenced miR-221 expression in pancreatic cancer cells. The CCK-8 assay showed that cell viability was significantly reduced in the exo-221, exo-Gem, and Gem monotherapy groups compared to the blank-exo group (P < 0.05). Furthermore, the exo-Gem-221 group exhibited a more pronounced decrease in cell viability compared to the exo-Gem, exo-221, and Gem monotherapy groups (P < 0.01). Animal experiments revealed that tumor volume and weight were significantly decreased in the exo-221, exo-Gem, and Gem monotherapy groups compared to the blank-exo group (P < 0.05). The exo-Gem-221 group showed a more significant reduction in tumor volume and weight and a higher tumor inhibition rate compared to the exo-221, exo-Gem, and Gem monotherapy groups (P < 0.01). Immunohistochemistry indicated that protein levels of Caspase-3 were significantly increased, while VEGF levels were significantly decreased, in the exo-221, exo-Gem, and Gem monotherapy groups compared to the blank-exo group (P < 0.05). These changes were even more pronounced in the exo-Gem-221 group compared to the exo-221, exo-Gem, and Gem monotherapy groups (P < 0.01). H&E staining of liver and kidney tissues from nude mice showed hepatic sinusoid atrophy and disordered hepatic plate arrangement in the liver, as well as glomerular shrinkage and peri-glomerular cell necrosis in the kidneys, only in the Gem monotherapy group. No significant pathological changes were observed in the liver or kidney tissues of the other groups.\nCONCLUSIONS: Exosomes derived from MSCs and co-loaded with anti-miR-221 and Gemcitabine significantly inhibit the proliferation of pancreatic cancer. This combined antitumor effect is superior to that of exo-221, exo-Gem, or Gemcitabine monotherapy. Furthermore, this approach demonstrates low liver and kidney toxicity, suggesting it may be a safe and effective method for treating pancreatic cancer.",
+ "authors": [
+  "Du B",
+  "Wang H",
+  "Qin X",
+  "Song X",
+  "Chen H",
+  "Song Z",
+  "Liang H",
+  "Deng W"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42870282",
+ "importance": 0.54,
+ "key_points_ko": [
+  "anti-miR-221과 젬시타빈을 함께 탑재한 엑소좀 투여군은 단일 치료군들 대비 종양 부피와 무게를 유의하게 감소시켰습니다(P < 0.01).",
+  "동시 탑재 엑소좀은 종양 조직 내 세포자멸사 관련 단백질인 Caspase-3를 증가시키고 VEGF 단백질을 감소시켰습니다(P < 0.01).",
+  "젬시타빈 단독 투여에서 나타난 간 및 신장 병리적 손상이 엑소좀 탑재군에서는 관찰되지 않아 안전성을 확인했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1186/s12967-026-08764-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42870282"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870282/"
+ },
+ "summary_ko": "본 연구는 인간 제대혈 중간엽 줄기세포(MSC)에서 유래한 엑소좀(exosome)을 운반체로 활용하여 miR-221을 억제하는 안티센스 올리고뉴클레오타이드(anti-miR-221)와 젬시타빈(gemcitabine)을 동시에 전달하는 치료법을 평가했습니다. 췌장암 세포주(Panc-1) 및 동물 모델에서 동시 탑재 엑소좀은 단독 투여군 대비 종양 세포 증식과 종양 크기를 가장 크게 억제했습니다. 또한 세포자멸사를 유도하는 Caspase-3 단백질은 증가시키고 혈관 생성을 돕는 VEGF 단백질은 감소시켰습니다. 젬시타빈 단독 투여 시 관찰된 간 및 신장 조직 손상이 엑소좀 투여군에서는 나타나지 않아 낮은 장기 독성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MSC-derived exosomes co-delivering anti-miR-221 and gemcitabine for inhibiting the proliferation of pancreatic cancer",
+ "title_ko": "췌장암 증식 억제를 위한 anti-miR-221과 젬시타빈 동시 전달 중간엽 줄기세포 유래 엑소좀 연구",
+ "trial": null,
+ "type": "paper"
+}

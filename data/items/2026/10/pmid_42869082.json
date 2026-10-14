@@ -1,0 +1,62 @@
+{
+ "abstract": "The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Pancreatic Adenocarcinoma provide multidisciplinary diagnostic workup, staging, and treatment recommendations for resectable, borderline resectable, unresectable, locally advanced, and metastatic disease. This article summarizes the studies and Panel discussion that serve as the rationale for comprehensive care recommendations included in the NCCN Guidelines for Pancreatic Adenocarcinoma.",
+ "authors": [
+  "Ko AH",
+  "Malafa MP",
+  "Aguilera T",
+  "Basturk O",
+  "Benson AB",
+  "Cardin DB",
+  "Chiorean EG",
+  "Christensen JA"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869082",
+ "importance": 0.84,
+ "key_points_ko": [
+  "수술 가능, 국소진행성, 전이성 등 질환의 모든 병기에 대한 다학제적 진단 및 치료 권고사항을 포함합니다.",
+  "NCCN 패널의 논의 내용과 최신 임상 연구 근거를 바탕으로 포괄적인 치료 지침을 제시합니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.6004/jnccn.2026.0046",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869082"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Practice Guideline"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Natl Compr Canc Netw",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869082/"
+ },
+ "summary_ko": "이 문헌은 췌장선암에 대한 미국 종합 암 네트워크(NCCN)의 임상 실무 지침 개정판을 소개합니다. 수술 가능, 경계성 수술 가능, 수술 불가능, 국소진행성 및 전이성 질환 전반에 걸친 다학제적 진단 검사, 병기 설정, 치료 권고안을 다룹니다. 가이드라인에 포함된 포괄적인 치료 권고의 근거가 되는 연구 결과들과 패널 논의 내용을 요약했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Adenocarcinoma, Version 4.2026, NCCN Clinical Practice Guidelines In Oncology",
+ "title_ko": "췌장선암 NCCN 임상 실무 지침, 버전 4.2026",
+ "trial": null,
+ "type": "paper"
+}

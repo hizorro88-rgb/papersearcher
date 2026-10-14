@@ -1,0 +1,62 @@
+{
+ "abstract": "The selection of surgical approaches for benign and low-grade malignant tumors of the pancreatic head and neck, such as serous cystadenomas, neuroendocrine tumors, and intraductal papillary mucinous neoplasms (IPMNs), has long been controversial. Traditional pancreaticoduodenectomy (PD) is associated with substantial trauma and requires gastrointestinal reconstruction, which alters normal physiological structures. With a deeper understanding of pancreatic function and the advancement of minimally invasive techniques, duodenum-preserving pancreatic head resection (DPPHR) has gained increasing attention because it preserves the integrity of the duodenum and bile duct, better maintaining physiological conditions. However, this procedure imposes extremely high technical demands on surgeons, particularly when performed laparoscopically. Laparoscopic duodenum-preserving pancreatic head resection (LDPPHR) is frequently confronted with high risks of intraoperative bleeding and postoperative pancreatic fistula (POPF). With proficiency in LDPPHR attained by the present authors and its indications extended to lesions of the pancreatic head and neck, the surgical workflow was optimized to reduce the incidence of complications. Under precise preoperative three-dimensional visualization planning and meticulous dissection guided by intraoperative ICG fluorescence and AR navigation, the anterior and posterior pancreaticoduodenal arterial arcades were preserved, and the pancreatic cut surface was reconstructed using a modified Blumgart pancreaticojejunostomy, so that curative tumor resection is accomplished while organ function is maximally preserved and patient outcomes are improved. This report is presented as a demonstration of the technical feasibility of completing each step of the protocol; its safety and effectiveness require evaluation in larger series.",
+ "authors": [
+  "Yan J",
+  "Zheng J",
+  "Wu X",
+  "Zhou F",
+  "He X",
+  "Fan Y"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42872722",
+ "importance": 0.7,
+ "key_points_ko": [
+  "십이지장 및 담관을 보존하여 정상 생리적 구조와 기능을 유지하는 복강경 췌두경부 절제술 술기를 시연했습니다.",
+  "수술 전 3D 시각화와 수술 중 ICG 형광 및 AR 내비게이션을 활용하여 췌십이지장 동맥궁을 보존하고 출혈 및 췌장루(POPF) 위험을 낮추고자 했습니다.",
+  "췌장 절제면은 변형 Blumgart 췌장공장문합술로 재건하였으며, 안전성과 효과는 추가적인 대규모 연구 평가가 필요합니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.3791/74203",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42872722"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Video-Audio Media"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Vis Exp",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42872722/"
+ },
+ "summary_ko": "췌장 두경부의 양성 및 저도 악성 종양(장액성 낭선종, 신경내분비종양, 췌관내 유두상 점액종양 등)에서 기존 췌십이지장절제술은 신체적 부담과 구조 변화가 컸습니다. 십이지장과 담관을 보존하는 십이지장 보존 췌두부 절제술(DPPHR)은 장기 기능을 유지할 수 있으나 복강경으로 시행하기에는 기술적 난도가 매우 높습니다. 연구진은 수술 전 3차원 시각화 계획과 수술 중 인도시아닌그린(ICG) 형광 및 증강현실(AR) 내비게이션을 결합한 최적화된 복강경 절제술 프로토콜을 제시했습니다. 본 보고는 해당 수술 절차의 기술적 실행 가능성을 시연한 것으로, 안전성과 유효성을 입증하기 위해 향후 대규모 환자군 평가가 필요하다고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Laparoscopic Duodenum-Preserving Pancreatic Head and Neck Resection",
+ "title_ko": "복강경 십이지장 보존 췌장 두경부 절제술",
+ "trial": null,
+ "type": "paper"
+}

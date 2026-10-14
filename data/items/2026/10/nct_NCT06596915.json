@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT06596915",
  "importance": 0.73,
- "key_points_ko": [],
+ "key_points_ko": [
+  "진행성 고형암 및 진행성 췌관선암 환자를 대상으로 신약 BA1302를 최초 투여하는 1상 임상시험입니다.",
+  "용량 증량(Part A)과 췌관선암, 비소세포폐암, 유방암, 흑색종 대상의 용량 확장(Part B)으로 구성됩니다.",
+  "총 목표 대상자 수는 167명입니다."
+ ],
  "last_updated": "2026-10-14",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06596915"
  },
- "summary_ko": "This is a first-in-human (FIH), multicenter, open-label Phase I study to evaluate the safety, tolerability, PK profile, immunogenicity, and preliminary efficacy of BA1302 in patients with advanced solid malignancies. The study includes a dose-escalation phase (Part A) and a dose-expansion phase (Part B).",
- "summary_source": "excerpt",
+ "summary_ko": "진행성 고형암 환자를 대상으로 신약 후보물질 BA1302의 안전성, 내약성, 체내 약물동태 및 예비 유효성을 평가하는 최초 인간 대상 1상 임상시험입니다. 용량을 점차 늘리는 용량 증량 단계(Part A)와 췌장암을 포함한 특정 암종을 대상으로 하는 용량 확장 단계(Part B)로 진행됩니다. 표준 치료에 실패했거나 표준 치료를 받기 어려운 환자들을 대상으로 시험이 이루어집니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Safety and Efficacy of BA1302 in Patients With Advanced Solid Tumors",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 BA1302의 안전성 및 유효성 평가 1상 임상시험",
  "trial": {
   "conditions": [
    "Non-Small Cell Lung Cancer",
@@ -62,7 +66,7 @@
     "phone": "13911233048"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 진단된 전이성 또는 수술 불가능한 진행성 악성 고형암(췌관선암 포함)\n- 표준 치료에 질병이 진행되었거나, 표준 치료에 불내약성이거나, 적절한 표준 치료법이 없는 환자\n- 바이오마커 분석을 위한 적절한 종양 조직 검체를 제공할 수 있는 환자\n- ECOG 수행능력 점수 0~1점\n- RECIST 1.1 기준 측정 가능한 병변이 확인된 환자\n\n제외 기준:\n- 첫 투약 전 5년 이내에 다른 악성 종양의 병력이 있는 환자(완치된 특정 피부암 및 상피내암 제외)\n- 첫 투약 전 28일 이내에 항암화학요법, 방사선치료, 표적치료, 면역치료, 항체-약물 접합체(ADC) 등 항암 치료를 받은 환자\n- 시험 약물 성분에 중증 과민반응 병력이 있는 환자\n- 임신 중이거나 수유 중인 여성\n- 연구자의 판단에 따라 안전성, 순응도 또는 결과 해석에 지장을 줄 수 있는 질환이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Metastatic or unresectable solid malignancy that is histologically or cytologically confirmed. Patients who have progressed on or after standard therapy, or are intolerant of standard therapy, or have no appropriate standard therapy available.\n\n  1. Part A: Advanced malignant solid tumors;\n  2. Part B: Metastatic melanoma, Advanced breast cancer, Advanced Non-small cell lung cancer (NSCLC), Advanced pancreatic adenocarcinoma.\n* 2.Participants should be able to provide adequate tumor tissue for biomarker analysis\n* 3.ECOG Performance Status ≤ 1.\n* 4.Measurable disease per Response Evaluation Criteria for Solid Tumors version 1.1 (RECIST v1.1)\n\nExclusion Criteria:\n\n* 1\\. Malignant disease within 5 years prior to the first dose of investigational drug other than that being treated in this study. Except completely resected basal cell carcinoma, cutaneous squamous cell skin carcinoma and papillary thyroid carcinoma and completely resected carcinoma in situ of any type.\n* 2\\. Received any chemotherapy, radiotherapy, targeted therapy, cell therapy, immunotherapy, ADC medication or other anti-cancer treatment within 28 days prior to the first dose.\n* 3.History of severe hypersensitivity reactions to any ingredient of study drugs.\n* 4.Pregnant or lactating women.\n* 5.Any medical condition that would, in the investigator's judgment, prevent the patient's participation in the clinical study due to safety concerns, compliance with clinical study procedures or interpretation of study results.",
   "enrollment": 167,
   "has_results": false,
@@ -78,18 +82,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "5년 이내 다른 암 병력이 있는 경우(완치된 특정 피부암 등 제외)",
+    "첫 투약 전 28일 이내에 항암치료(화학요법, 방사선, 면역치료 등)를 받은 경우",
+    "시험약 성분에 심한 알레르기/과민반응 병력이 있는 경우",
+    "임신 중이거나 수유 중인 여성"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "표준 치료에 실패했거나 내약성이 없는 전이성 또는 수술 불가능한 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

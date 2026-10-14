@@ -1,0 +1,57 @@
+{
+ "abstract": "INTRODUCTION: Despite advances in medical science, pancreatic cancer is still among the deadliest forms of cancer, and only 10% of patients survive because they are usually diagnosed late and do not respond to standard treatments. Inhibition of microtubule behaviour by disrupting their dimeric structures is a potential treatment for pancreatic cancer. This study aims to identify new inhibitors that will bind to the tubulin dimer using an integrative computational drug discovery approach.\nMATERIALS AND METHODS: An advanced series of in silico experiments was conducted using molecular docking, Density Functional Theory (DFT), Molecular Dynamics (MD) simulations, and Principal Component Analysis (PCA). Compounds from DrugBank were selected based on their strong interactions with the tubulin dimer. Moreover, DFT was utilized to investigate electronic interactions, whereas MD simulations (1 μs) were used to understand the stability and behaviour of the studied complex.\nRESULTS: The molecules Bisphosphonate-8 and Fenoldopam were selected as inhibitors, whereas Paclitaxel was chosen as a reference compound. Analysis of docking and binding free energy showed that Bisphosphonate-8 has approximately twice the binding affinity for the α-β tubulin dimer compared to Paclitaxel. The DFT calculations indicated a high interaction capacity. MD simulation showed that Bisphosphonate-8 forms a stable complex during the simulation, whereas Paclitaxel demonstrated notable instability. Principal component analysis corroborated that Bisphosphonate-8 is highly adaptable and stable.\nDISCUSSION: This computational approach successfully identified Bisphosphonate-8 as an inhibitor of the α-β tubulin dimer, with better binding affinity and stability than well-known compounds and desirable pharmacokinetic properties.\nCONCLUSION: Based on the results presented above, Bisphosphonate-8 is a promising candidate for targeting the α-β tubulin dimer in pancreatic cancer, with stronger interactions and greater conformational adaptability. The computational data provide an excellent starting point for further experiments aimed at developing novel therapeutic approaches to target the α-β tubulin heterodimer in pancreatic cancer.",
+ "authors": [
+  "Chanda HMKC",
+  "Katari SK"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42870365",
+ "importance": 0.57,
+ "key_points_ko": [
+  "컴퓨터 모델링 및 결합 자유 에너지 분석 결과, Bisphosphonate-8은 Paclitaxel 대비 알파-베타 튜불린 이량체에 약 2배 높은 결합 친화도를 나타냈습니다.",
+  "1마이크로초(1 μs) 분자 동역학 시뮬레이션에서 Paclitaxel은 뚜렷한 불안정성을 보인 반면, Bisphosphonate-8은 시뮬레이션 전반에 걸쳐 안정적인 복합체를 형성했습니다.",
+  "주성분 분석(PCA) 및 전자기적 상호작용 계산을 통해 Bisphosphonate-8이 높은 결합 적응력과 바람직한 약동학적 특성을 가짐을 확인했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.2174/0115734099490104260914114511",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42870365"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Comput Aided Drug Des",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870365/"
+ },
+ "summary_ko": "본 연구는 췌장암 치료를 목적으로 미세소관의 튜불린 이량체(tubulin dimer)를 표적하는 새로운 억제제를 발굴하기 위해 컴퓨터 기반 신약 개발(in silico) 기법을 사용했습니다. DrugBank의 화합물 데이터베이스를 대상으로 분자 도킹, 밀도범함수이론(DFT), 1마이크로초(1 μs) 분자 동역학(MD) 시뮬레이션 등을 종합적으로 수행했습니다. 분석 결과 Bisphosphonate-8과 Fenoldopam(페놀도팜)이 후보 물질로 선정되었으며, 표준 약물인 Paclitaxel(파클리탁셀)과 비교 평가되었습니다. 연구진은 Bisphosphonate-8이 Paclitaxel보다 더 우수한 결합력과 구조적 안정성을 보여 향후 추가 실험의 유망한 후보가 될 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Identification of Novel Tubulin Dimer Inhibitors for Pancreatic Cancer Using an Integrated Computational Approach",
+ "title_ko": "통합 컴퓨터 모델링 기법을 활용한 췌장암의 새로운 튜불린 이량체 억제제 발굴",
+ "trial": null,
+ "type": "paper"
+}

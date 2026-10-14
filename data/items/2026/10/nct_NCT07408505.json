@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "supportive",
   "drug",
+  "supportive",
   "treatment"
  ],
  "entities": [
@@ -23,9 +23,9 @@
  "id": "nct:NCT07408505",
  "importance": 0.74,
  "key_points_ko": [
-  "암 악액질 또는 전악액질 상태의 췌장암 환자를 대상으로 1차 항암요법에 나노 메게스트롤 아세테이트를 병용하는 무작위 배정 임상시험입니다.",
-  "목표 대상자 수는 총 56명이며, 12주 시점에 기저치 대비 체중이 5% 초과 증가한 환자 비율을 1차 평가변수로 평가합니다.",
-  "체중 및 체질량 변화뿐 아니라 식욕 척도, 삶의 질, 항암 치료 순응도 및 생존 기간을 종합적으로 분석합니다."
+  "목표 환자 수는 56명이며, 18세에서 75세 사이의 국소 진행성 또는 전이성 췌장암 악액질 환자가 참여합니다.",
+  "나노 결정형 megestrol acetate 625 mg/day를 12주 동안 표준 1차 치료와 병용 투여합니다.",
+  "12주 차 체중 5% 이상 증가 비율, 식욕(FAACT-A/CS 12), 골격근 및 지방 조직 변화를 평가합니다."
  ],
  "last_updated": "2026-10-14",
  "links": {
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07408505"
  },
- "summary_ko": "이 임상시험은 암 식욕부진-악액질 증후군을 동반한 국소진행성 또는 전이성 췌장암 환자 56명을 대상으로 진행됩니다. 흡수율을 높인 나노 결정형 메게스트롤 아세테이트(megestrol acetate) 경구 현탁액을 표준 1차 항암화학요법과 병용 투여할 때의 유효성과 안전성을 표준 치료 단독군과 비교 평가합니다. 12주간의 치료를 통해 5% 이상의 체중 증가율, 식욕 및 삶의 질 개선, 무진행 생존기간(PFS) 및 전체 생존기간(OS)에 미치는 영향을 확인합니다.",
+ "summary_ko": "본 임상시험은 국소 진행성 또는 전이성 췌관선암(pancreatic ductal adenocarcinoma)과 암 식욕부진-악액질 증후군(cancer anorexia-cachexia syndrome)을 진단받은 신규 환자 56명을 대상으로 합니다. 표준 1차 치료 단독 요법과 나노 결정형 메게스트롤 아세테이트(nanocrystalline megestrol acetate) 병용 요법의 유효성과 안전성을 비교합니다. 주요 평가지표는 12주 차에 기저치 대비 5%를 초과하는 체중 증가를 보인 환자의 비율입니다. 이를 통해 식욕, 체성분, 삶의 질, 생존 결과에 미치는 영향을 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic ductal adenocarcinoma",
@@ -60,7 +60,7 @@
   "Appetite improvement"
  ],
  "title": "Nano-Megestrol Acetate for Cancer Cachexia in Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자의 암 악액질 치료를 위한 나노 메게스트롤 아세테이트 임상시험",
+ "title_ko": "진행성 췌장암 환자의 암 악액질에 대한 나노 결정형 메게스트롤 아세테이트의 효과",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Ductal Adenocarcinoma",
@@ -73,7 +73,7 @@
     "phone": "0531-67626442"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 75세 이하의 조직학적 또는 세포학적으로 확인된 국소진행성 또는 전이성 췌관선암 환자\n- 재발 또는 전이 상태에서 이전에 전신 항암 치료를 받은 적이 없는 환자(수술 전후 보조요법 종료 후 재발 없이 6개월 이상 경과한 경우는 가능)\n- RECIST 1.1 기준 최소 1개 이상의 측정 가능 병변이 있는 환자\n- Fearon 기준에 따른 악액질 또는 전악액질 조건을 충족하고 식욕 저하(FAACT-A/CS 12 점수 ≤ 37) 또는 전신 염증(CRP > 5 mg/L)이 있는 환자\n- ECOG 수행능력 평가 점수 0-2점 및 예상 여명이 4개월 이상인 환자\n- 적절한 조혈, 간, 신장 및 심장 기능(LVEF ≥ 50%)을 보유한 환자\n\n제외 기준:\n- 활동성 또는 치료받지 않은 중추신경계(뇌 또는 연수막) 전이가 있는 환자(치료 후 2개월 이상 안정되고 스테로이드 중단 후 4주 경과 시 참여 가능)\n- 복막 전이가 있는 환자\n- 최근 6개월 이내 혈전색전증, 복수 또는 하지 부종 병력이 있는 환자\n- 통증 조절이 불량한 암 관련 통증 환자\n- 최근 5년 이내 다른 악성 종양의 병력이 있는 환자(완치된 상피내암 등 제외)\n- 활동성 B형 간염 또는 C형 간염 바이러스 감염자, 임신 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준: \n- 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 췌관선암 환자\n- 재발성 또는 전이성 질환에 대한 이전 전신 항암 치료력이 없는 환자\n- Fearon 기준에 따른 악액질 또는 전-악액질(pre-cachexia) 단계에 해당하는 환자\n- 연령 18세~75세, ECOG 수행능력 0~2\n- 장기 기능이 적절히 유지된 환자\n\n제외 기준:\n- 활성 또는 치료되지 않은 중추신경계(CNS) 전이가 있는 환자\n- 복막 전이가 있는 환자\n- 임신 중이거나 수유 중인 여성\n- B형 간염 또는 C형 간염 바이러스 활성 감염이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must meet all of the following criteria to be eligible for enrollment:\n\n  1\\. Pancreatic cancer-specific inclusion criteria:\n  1. Histologically or cytologically confirmed locally advanced or metastatic pancreatic ductal adenocarcinoma according to the TNM staging system of the International Association of Pancreatology and the 8th edition of the American Joint Committee on Cancer (AJCC);\n  2. No prior systemic antitumor therapy for recurrent or metastatic disease;\n  3. Prior adjuvant or neoadjuvant chemotherapy, radiotherapy, chemoradiotherapy, or immunotherapy for non-metastatic disease is allowed, provided that at least 6 months have elapsed since completion of the last treatment without disease recurrence;\n  4. At least one measurable lesion according to RECIST version 1.1 (previously irradiated lesions may be considered measurable only if there is clear evidence of disease progression after radiotherapy).\n\n  2\\. Fulfillment of Fearon criteria for cachexia or pre-cachexia:\n\n  (1) Cachexia stage according to Fearon criteria: fulfillment of any of the following criteria in combination with decreased appetite (FAACT-A/CS 12 score ≤ 37) or systemic inflammation (CRP \\> 5 mg/L):\n\n  ① Unintentional weight loss \\> 5% within the past 6 months;\n  * Body weight loss \\> 2% in patients with a BMI \\< 18.5 kg/m². (2) Pre-cachexia stage according to Fearon criteria: all of the following three conditions must be met:\n\n    ① Unintentional weight loss ≤ 5% within the past 6 months;\n  * Systemic inflammation (CRP \\> 5 mg/L);\n\n    ③ Decreased appetite (FAACT-A/CS 12 score ≤ 37). 3. General inclusion criteria:\n    1. Good compliance and provision of written informed consent;\n    2. Age 18-75 years, regardless of sex;\n    3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2;\n    4. Expected survival greater than 4 months;\n    5. Adequate organ function, defined as follows:\n\n       • Hematologic function: absolute neutrophil count ≥ 1.5 × 10⁹/L, hemoglobin ≥ 9 g/dL, platelet count ≥ 100 × 10⁹/L;\n\n       • Hepatic function: total bilirubin ≤ 1.5 × upper limit of normal (ULN) (patients with known Gilbert's syndrome may be enrolled if serum bilirubin ≤ 3 × ULN), AST and ALT ≤ 2.5 × ULN (≤ 5 × ULN in the presence of liver metastases), and alkaline phosphatase ≤ 3 × ULN (≤ 5 × ULN in the presence of liver or bone metastases); serum albumin ≥ 3 g/dL;\n\n       • Coagulation function: international normalized ratio (INR), prothrombin time (PT), or activated partial thromboplastin time (aPTT) ≤ 1.5 × ULN;\n\n       • Renal function: creatinine clearance ≥ 60 mL/min as calculated by the Cockcroft-Gault formula;\n       * Urinary protein: urine protein ≤ 1+ on dipstick or 24-hour urine protein \\< 1.0 g;\n       * Cardiac function: left ventricular ejection fraction (LVEF) ≥ 50%.\n    6. Women of childbearing potential must have a negative urine or serum pregnancy test within 3 days prior to first dosing (if a urine pregnancy test cannot be confirmed as negative, a serum pregnancy test is required and shall prevail). Women of childbearing potential who engage in sexual activity with non-sterilized male partners must use an acceptable method of contraception from screening and agree to continue contraception for 120 days after the last dose of study medication; decisions regarding discontinuation of contraception after this time point should be discussed with the investigator. Male patients who engage in sexual activity with women of childbearing potential must use effective contraception from screening until 120 days after the last dose of study medication; decisions regarding discontinuation of contraception after this time point should be discussed with the investigator.\n\n       Exclusion Criteria:\n* Patients meeting any of the following criteria will be excluded from this study:\n\n  1\\. Cancer-specific exclusion criteria:\n  1. Active or untreated CNS metastases (e.g., brain or leptomeningeal metastases) as determined by CT or magnetic resonance imaging (MRI) during screening or based on prior imaging assessments. Patients with previously treated brain or leptomeningeal metastases may be eligible if the disease has been stable for ≥ 2 months and systemic corticosteroid therapy (\\>10 mg/day prednisone or equivalent) has been discontinued for \\> 4 weeks prior to randomization.\n  2. Uncontrolled tumor-related pain;\n\n  (1) History of thromboembolic disease, ascites, or lower extremity edema within the past 6 months; (3) History of malignancy other than pancreatic cancer within 5 years prior to randomization, except for malignancies with negligible risk of metastasis or death (e.g., expected 5-year overall survival \\> 90%) and considered curable after appropriate treatment, such as adequately treated cervical carcinoma in situ, basal cell or squamous cell skin cancer, localized prostate cancer treated with curative surgery, and ductal carcinoma in situ treated with curative surgery; (4) Unresolved toxicity from prior anticancer therapy, defined as failure to recover to NCI CTCAE version 5.0 grade 0 or 1 (except alopecia) or failure to recover to levels specified in the inclusion/exclusion criteria; (5) Patients with peritoneal metastases will be excluded. 2. General medical exclusion criteria:\n  1. Women who are pregnant, breastfeeding, or planning to become pregnant during the study period;\n  2. Patients with hepatitis B or hepatitis C:\n\n     ① Patients with a history of hepatitis B virus (HBV) infection must undergo HBV deoxyribonucleic acid (DNA) testing; only patients with negative HBV DNA (HBV DNA \\< 1000 copies/mL or \\< 200 IU/mL or below the upper limit of normal) are eligible for participation in this study;\n\n     ② Among patients who are positive for hepatitis C virus (HCV) antibodies, only those with negative HCV ribonucleic acid (RNA) by polymerase chain reaction (PCR) testing are eligible to participate in this study;\n  3. Patients with a positive test result for human immunodeficiency virus (HIV);\n  4. Major surgery (excluding diagnostic procedures) within 28 days prior to randomization, or anticipated major surgery during the study period;\n  5. Significant cardiovascular disease, such as heart disease defined as New York Heart Association class II or higher, myocardial infarction within 3 months prior to randomization, unstable arrhythmia, unstable angina, cerebrovascular accident, or transient ischemic attack. Patients with known coronary artery disease, congestive heart failure not meeting the above criteria, or left ventricular ejection fraction \\< 50% must be receiving optimal stable therapy as determined by the treating physician; consultation with a cardiologist may be obtained if necessary;\n  6. Severe infection occurring within 4 weeks prior to first dosing, including but not limited to infections with complications requiring hospitalization, sepsis, or severe pneumonia; or active infection requiring systemic anti-infective therapy within 2 weeks prior to first dosing (excluding antiviral therapy for hepatitis B or C).\n\n  3\\. Drug-related exclusion criteria:\n  1. Conditions affecting gastrointestinal absorption, including dysphagia, malabsorption, or uncontrolled vomiting; difficulty in food intake or requirement for tube feeding or parenteral nutrition; anorexia nervosa; anorexia caused by psychiatric disorders or pain-related inability to eat;\n  2. Current or planned use of other medications that increase appetite or body weight, such as corticosteroids (except short-term dexamethasone use during chemotherapy), androgens, progestins, thalidomide, olanzapine, anamorelin, or other appetite stimulants;\n  3. Cushing's syndrome, adrenal or pituitary insufficiency; poorly controlled diabetes mellitus; or current hypertension with systolic blood pressure ≥ 160 mmHg or diastolic blood pressure ≥ 100 mmHg despite treatment with oral antihypertensive agents;\n  4. History within 6 months prior to first dosing of esophageal or gastric varices, severe ulcer disease, gastrointestinal perforation and/or fistula, gastrointestinal obstruction (including incomplete obstruction requiring parenteral nutrition), intra-abdominal abscess, or acute gastrointestinal bleeding;\n  5. Known hypersensitivity to any component of the study drug;\n  6. Any other condition that, in the investigator's judgment, makes the patient unsuitable for participation in the study.",
   "enrollment": 56,
   "has_results": false,
@@ -91,15 +91,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "활동성 또는 미치료 뇌전이",
+    "활동성 또는 치료되지 않은 중추신경계(CNS) 전이",
     "복막 전이",
-    "최근 6개월 이내 혈전색전증, 복수 또는 하지 부종 병력",
-    "조절되지 않는 암 관련 통증"
+    "임신 또는 수유 중",
+    "B형 또는 C형 간염 감염"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "식욕부진 및 악액질이 동반된 국소진행성 또는 전이성 췌장암 1차 치료 환자",
+   "notes_ko": "이전 전신 치료력이 없는 국소 진행성 또는 전이성 췌장암 및 악액질 동반 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

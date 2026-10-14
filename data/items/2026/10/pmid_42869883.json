@@ -1,0 +1,64 @@
+{
+ "abstract": "Oncolytic bacteria are microorganisms with cytotoxic activity capable of lysing cancer cells while simultaneously activating both innate and adaptive immune responses to exert anti-tumor effects. However, the innate immune activation targeting oncolytic bacteria within the tumor microenvironment (TME) is a limiting factor. Here we find that the CD11b-targeting agonist GB1275 can modulate bacteria-immune interaction and inhibit the infiltration of CD11b⁺ innate immune cells such as neutrophils and macrophages, thereby suppressing the antimicrobial immune defenses in the TME in mice. This then avoids the clearance of oncolytic bacteria and increases the efficacy of bacteria-mediated tumor immunotherapy. Furthermore, the gemcitabine-loaded bacteria combined with GB1275 treatment activate innate immune responses in tumor, as mediated by Toll-like receptors (TLR), NOD-like receptors (NLR) and cGAS-STING pathways, while simultaneously enhancing dendritic cell (DC)-dependent antigen cross-presentation; this then upregulates the adaptive anti-tumor immune response and inhibits the growth of both subcutaneous and in situ pancreatic cancers in mouse tumor models. Our results therefore demonstrate that modulating innate immune responses while subsequently strengthening adaptive immune activation can significantly improve the efficacy of bacteria-mediated tumor immunotherapy.",
+ "authors": [
+  "Zhang B",
+  "Guan M",
+  "Xie XT",
+  "Zou JH",
+  "Cheng K",
+  "Zhao YD",
+  "Liu B",
+  "Fan JX"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869883",
+ "importance": 0.46,
+ "key_points_ko": [
+  "CD11b 작용제 GB1275는 호중구와 대식세포 같은 CD11b⁺ 선천 면역세포의 침윤을 억제하여 종양 미세환경 내 항균 면역 방어를 억제합니다.",
+  "이를 통해 종양용해 세균의 제거를 막고 세균 매개 종양 면역치료의 효능을 높입니다.",
+  "젬시타빈 탑재 세균과 GB1275 병용 치료는 톨 유사 수용체(TLR), NOD 유사 수용체(NLR), cGAS-STING 경로를 매개로 종양 내 선천 면역을 활성화합니다.",
+  "수지상세포(DC) 의존적 항원 교차 제시를 강화하여 피하 및 원발성 췌장암 모델에서 암세포 성장을 억제했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1038/s41467-026-76823-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869883"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-21",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869883/"
+ },
+ "summary_ko": "이 연구는 마우스 종양 모델을 통해 CD11b 표적 작용제인 GB1275가 세균과 면역세포의 상호작용을 조절하여 종양 미세환경 내 항균 면역 방어를 억제하는지 조사했습니다. 젬시타빈(gemcitabine)을 탑재한 세균과 GB1275의 병용 치료는 종양 내 선천 면역 반응을 활성화하고 수지상세포(DC) 의존적 항원 교차 제시를 강화했습니다. 그 결과 적응 면역 항종양 반응이 상향 조절되고 피하 및 원발성 췌장암의 성장이 억제되었습니다. 본 연구 결과는 선천 면역 반응을 조절하고 적응 면역 활성을 강화하는 것이 세균 매개 종양 면역치료의 효과를 크게 향상시킬 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CD11b agonist GB1275 potentiates oncolytic bacterial therapy against pancreatic cancer in mouse tumor models",
+ "title_ko": "CD11b 작용제 GB1275는 마우스 종양 모델에서 췌장암에 대한 종양용해 세균 치료의 효과를 증강합니다",
+ "trial": null,
+ "type": "paper"
+}

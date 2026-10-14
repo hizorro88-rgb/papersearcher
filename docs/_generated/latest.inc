@@ -1,37 +1,38 @@
-<div class="ps-stats"><div class="ps-stat"><b>544</b><span>누적 수집<br><small>논문·소식 124 · 임상시험 420</small></span></div><div class="ps-stat"><b>+23</b><span>오늘 신규<br><small>갱신 19건</small></span></div><div class="ps-stat"><b>26</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>579</b><span>누적 수집<br><small>논문·소식 150 · 임상시험 429</small></span></div><div class="ps-stat"><b>+58</b><span>오늘 신규<br><small>갱신 23건</small></span></div><div class="ps-stat"><b>27</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
 최근 수집일: [2026-10-14](_generated/daily/2026/10/14.md)
 
 <a id="nct-nct07490301"></a>
-#### [1차 치료 전이성 췌관선암 성인 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
+#### [전이성 췌장암 1차 환자를 위한 telisotuzumab adizutecan과 FOLFOX 병용요법의 유효성과 안전성 평가 연구](https://clinicaltrials.gov/study/NCT07490301)
 <small>A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-24 · ClinicalTrials.gov · AbbVie · 중요도 1.00
 
 **NCT07490301** · 2상/3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07490301.md)
 
-이전에 치료받지 않은 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸(telisotuzumab adizutecan)과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험입니다. 2상 단계에서는 용량 증량 및 최적화를 통해 FOLFOX와의 적정 용량을 찾고 표준 치료군과 예비 비교합니다. 3상 단계에서는 결정된 최적 용량의 병용요법군과 표준 치료군(FOLFIRINOX 성분)으로 무작위 배정하여 치료 효과와 이상반응을 본격적으로 비교합니다. 전 세계 약 200개 기관에서 총 900명의 환자를 모집할 예정입니다.
+이 연구는 이전에 전신 치료를 받지 않은 전이성 췌관선암(Pancreatic Ductal Adenocarcinoma, PDAC) 성인 환자를 대상으로 합니다. 신약인 telisotuzumab adizutecan과 FOLFOX 병용요법의 부작용과 질병 활성도 변화를 표준 치료와 비교하여 평가합니다. 임상은 2상과 3상 단계로 나누어 진행되며, 전 세계 약 200개 기관에서 총 900명의 환자를 모집합니다. 2상에서는 용량 증가 및 최적화 단계를 거쳐 최적 용량을 찾고, 3상에서는 최적 용량의 병용요법과 표준 치료를 무작위 비교합니다.
 
-- 1차 치료 단계의 전이성 췌관선암 환자 약 900명을 대상으로 하는 글로벌 2/3상 임상시험입니다.
-- 신약 후보물질 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 기존 표준 치료와 비교합니다.
-- 국내 1개 기관이 참여하여 환자를 모집하고 있습니다.
+- 대상 질환은 수술 불가능한 전이성 췌관선암(PDAC)입니다.
+- 목표 환자 수는 약 900명이며 전 세계 약 200개 기관(국내 1곳 포함)에서 진행됩니다.
+- 시험군은 telisotuzumab adizutecan과 FOLFOX(fluorouracil, folinic acid, oxaliplatin) 병용요법을 투여받습니다.
+- 대조군은 표준 치료(SOC)인 fluorouracil, leucovorin, oxaliplatin, irinotecan 병용요법을 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
 <a id="nct-nct07683221"></a>
-#### [국소 진행성 췌장암 환자 대상 체부정위 방사선치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀 및 젬시타빈 병용요법 2상 임상시험](https://clinicaltrials.gov/study/NCT07683221)
+#### [국소진행성 췌장암에서 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-paclitaxel, gemcitabine 병용요법에 대한 2상 임상시험](https://clinicaltrials.gov/study/NCT07683221)
 <small>SBRT Followed by Ipilimumab N01, Sintilimab, Nab-Paclitaxel and Gemcitabine for Locally Advanced Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` · 2026-07-06 · ClinicalTrials.gov · Shandong Cancer Hospital and Institute · 중요도 1.00
 
 **NCT07683221** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07683221.md)
 
-이 임상시험은 원격 전이가 없는 국소 진행성 절제 불가능 췌관선암 환자 47명을 대상으로 진행되는 2상 단일군 탐색적 연구입니다. 환자들은 먼저 체부정위 방사선치료(SBRT)를 5~10 Gy 용량으로 총 5회 분할 조사받습니다. 방사선치료 완료 1주일 후부터 이필리무맙 N01(ipilimumab N01), 신틸리맙(sintilimab), 냅-파클리탁셀(nab-paclitaxel), 젬시타빈(gemcitabine) 병용 전신 요법을 순차적으로 투여받게 됩니다. 연구의 주요 목적은 무진행 생존기간(PFS)을 바탕으로 복합 치료의 유효성과 안전성을 평가하는 것입니다.
+이 연구는 국소진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-paclitaxel(납파클리탁셀), gemcitabine(젬시타빈)을 병용하는 전향적 단일군 2상 탐색적 임상시험입니다. 대상 환자는 SBRT를 먼저 받은 후 면역항암제와 항암화학요법을 포함한 순차적 전신 치료를 받게 됩니다. 1차 유효성 평가변수는 무진행 생존기간(PFS)이며, 2차 평가변수에는 전체 생존기간(OS), 질병조절율(DCR), 반응 지속기간, 객관적 반응률(ORR) 및 안전성이 포함됩니다. 초록에 명시된 구체적인 수치 결과는 아직 없습니다.
 
-- 국소 진행성 췌장암 환자 47명을 목표로 SBRT 방사선치료 후 면역항암제 2종과 세포독성 항암화학요법(AG)을 병용 투여하는 2상 시험입니다.
-- SBRT(5~10 Gy, 5회) 종료 1주일 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀, 젬시타빈을 투약합니다.
-- 1차 유효성 평가지표는 무진행 생존기간(PFS)이며, 전체 생존기간(OS), 질병통제율(DCR), 객관적 반응률(ORR) 및 안전성을 2차 지표로 평가합니다.
+- 목표 환자 수는 총 47명이며 18세부터 75세까지의 국소진행성 절제 불능 췌장암 환자가 대상입니다.
+- 1차 유효성 평가변수는 무진행 생존기간(PFS)입니다.
+- 2차 평가변수는 전체 생존기간(OS), 질병조절율(DCR), 반응 지속기간, 객관적 반응률(ORR), 안전성입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07683221) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07683221)</small>
 
@@ -52,6 +53,21 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837079/) · [DOI](https://doi.org/10.1007/s13304-026-02799-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837079)</small>
 
 ---
+<a id="pmid-42868319"></a>
+#### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
+<small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
+
+`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-13 · PubMed · JCO Clin Cancer Inform · 중요도 0.93
+
+이 연구는 췌관선암(PDAC)의 재발, 전이, 림프절 전이 등을 예측하는 모델과 인자들을 분석한 체계적 문헌고찰 연구입니다. 총 208건의 연구(예측 모델 144건, 예후 인자 연구 64건)를 검토한 결과, 컴퓨터단층촬영(CT)/라디오믹스 및 임상 정보가 가장 흔히 활용되었습니다. 조기 재발 예측 정확도(AUC)는 0.70~0.92, 무병 생존기간(DFS) 예측 C-index는 0.62~0.82 수준으로 보고되었습니다. 연구진은 많은 모델이 후향적 연구에 기반하고 외부 검증이나 보정 평가가 부족하여 실제 임상 적용을 위해서는 전향적 평가가 필요하다고 결론지었습니다.
+
+- 분석에 포함된 208건 중 144건이 예측 모델 연구였으며, CT/라디오믹스(141건)와 임상 정보(104건)가 주로 활용되었습니다.
+- 조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.
+- 외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42868319/) · [DOI](https://doi.org/10.1200/CCI-26-00200) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42868319)</small>
+
+---
 <a id="pmid-42846530"></a>
 #### [췌장관선암종에 대한 비침습적 미생물군집 기반 진단 모델: 체계적 문헌고찰 및 진단 정확도 메타분석](https://pubmed.ncbi.nlm.nih.gov/42846530/)
 <small>Noninvasive microbiota-based diagnostic models for pancreatic ductal adenocarcinoma: a systematic review and diagnostic test accuracy meta-analysis</small>
@@ -65,21 +81,5 @@
 - 근거의 확실성이 매우 낮고 양성 췌장 유사 질환에 대한 검증이 부족하여, 단독 진단 목적으로는 사용할 수 없다고 평가되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846530/) · [DOI](https://doi.org/10.3389/fmicb.2026.1866794) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644726/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846530)</small>
-
----
-<a id="pmid-42853071"></a>
-#### [조발성 췌장암의 역설: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42853071/)
-<small>The early-onset pancreatic cancer paradox: a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-10-09 · PubMed · J Natl Cancer Inst · 중요도 0.89
-
-이 연구는 조발성 췌장암(EOPC)과 평균 발병 연령 췌장암(AOPC)의 임상병리학적 특징, 치료 패턴, 생존 결과를 비교하기 위해 수행되었습니다. 15개국에서 1,659,432명의 환자가 포함된 48개의 관찰 연구를 분석했습니다. 조발성 췌장암 환자는 당뇨병 유병률이 낮고, 더 진행된 병기(4기)를 보였으며, 항암화학요법(chemotherapy) 이용률이 더 높았습니다. 그러나 두 그룹 간의 전체 생존기간(overall survival)은 유사한 것으로 나타났습니다.
-
-- 조발성 췌장암 환자는 평균 발병 연령 환자에 비해 당뇨병 유병률이 낮았습니다(교차비[OR], 0.39; 95% 신뢰구간[CI], 0.21~0.72).
-- 조발성 췌장암 환자는 진단 시 4기 등 더 진행된 병기를 보일 확률이 높았습니다(교차비[OR], 1.18; 95% 신뢰구간[CI], 1.02~1.36).
-- 조발성 췌장암 환자는 항암화학요법 이용률이 더 높았습니다(교차비[OR], 2.04; 95% 신뢰구간[CI], 1.69~2.45; P < .001).
-- 전체 생존기간은 두 그룹 간에 유사했습니다(위험비[HR], 1.03; 95% 신뢰구간[CI], 0.86~1.23; P = .76).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42853071/) · [DOI](https://doi.org/10.1093/jnci/djag373) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42853071)</small>
 
 ---

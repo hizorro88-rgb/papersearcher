@@ -1,0 +1,64 @@
+{
+ "abstract": "PURPOSE OF REVIEW: Pancreatic ductal adenocarcinoma remains among the deadliest malignancies worldwide, and effective therapies are still lacking. Actinomycetota are among the richest microbial sources of bioactive secondary metabolites, and three agents in clinical use against pancreatic malignancy derive from them - streptozotocin, everolimus and doxorubicin - though all three are indicated for neuroendocrine rather than ductal tumors. This review provides a critical narrative synthesis of Actinomycetota-derived metabolites evaluated in pancreatic cancer models, with every potency value re-derived from the primary literature and interpreted alongside assay conditions and available mechanistic and in vivo evidence.\nRECENT FINDINGS: Fifty-two compounds from 25 primary reports encompass polyketides, nonribosomal peptides, depsipeptides, RiPPs, alkaloids, ionophores and hybrid scaffolds. Rather than a simple ranking of increasingly potent cytotoxins, the literature poses a sharper question about selectivity. Two compounds are conditionally active: kigamicin D only under nutrient deprivation and BE-43547A2 only under hypoxia, exploiting the metabolic state that defines the disease rather than any intrinsic difference between malignant and normal cells. Both were recovered by screens built to detect that behavior, and neither has been shown to hold a therapeutic window in vivo. Separately, thiogochangamide B retains activity in gemcitabine-resistant models, while trienomycin A binds STAT3 directly, suppresses proliferation across eight pancreatic lines, achieves 84-98% tumor growth inhibition in xenografts at doses producing no detectable toxicity, and distributes preferentially to pancreatic tissue. Conditional activity is best read as a hypothesis about how such compounds should be sought rather than as an established route to selectivity. Despite remarkable chemical diversity, translation remains constrained by the limited use of normal-cell controls, predictive biomarkers and clinically relevant preclinical models. Screens conducted in nutrient-replete, normoxic monolayer culture will systematically miss compounds of this kind. Future efforts should prioritize compounds that exploit the metabolic liabilities of pancreatic cancer rather than pursuing greater cytotoxic potency.",
+ "authors": [
+  "Lima DDSP",
+  "Silva MDS",
+  "Soares MDR",
+  "Lima Terceiro LE",
+  "de Lima NTR",
+  "de Oliveira GD",
+  "de Souza TA",
+  "Rodrigues-Junior VS"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42873463",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 25편의 원저 논문에서 폴리케타이드, 비리보솜 펩타이드 등 52종의 방선균 유래 대사체에 관한 데이터가 분석되었습니다.",
+  "kigamicin D(영양 결핍 조건)와 BE-43547A2(저산소 조건)는 췌장암의 미세환경적 대사 특성을 이용해 조건부 활성을 나타냈습니다.",
+  "trienomycin A는 8개 췌장암 세포주 증식을 억제하고 동물 모델에서 유의한 독성 없이 84~98%의 종양 성장 억제를 보였습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1007/s11912-026-01842-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42873463"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Oncol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42873463/"
+ },
+ "summary_ko": "본 논문은 췌관선암(pancreatic ductal adenocarcinoma) 전임상 모델에서 평가된 방선균 유래 2차 대사체 연구들을 종합 검토한 종설입니다. 분석된 52종의 화합물 중 kigamicin D는 영양 결핍 상태에서, BE-43547A2는 저산소 상태에서만 선택적으로 활성을 나타내는 조건부 특성을 보였습니다. 또한 trienomycin A는 STAT3에 직접 결합하여 이종이식(xenograft) 동물 모델에서 독성 없이 84~98%의 종양 성장 억제율을 기록했습니다. 연구진은 향후 신약 개발 시 단순한 세포독성보다는 췌장암 특유의 대사적 취약성을 표적하는 접근법이 필요하다고 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Actinomycetota-Derived Metabolites in Pancreatic Cancer: Chemical Diversity, Metabolic Vulnerability, and Translational Barriers",
+ "title_ko": "췌장암에서의 방선균(Actinomycetota) 유래 대사체: 화학적 다양성, 대사적 취약성 및 임상 중개 장벽",
+ "trial": null,
+ "type": "paper"
+}

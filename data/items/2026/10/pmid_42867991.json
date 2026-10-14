@@ -1,0 +1,60 @@
+{
+ "abstract": "Reactive oxygen species (ROS) drive pro-tumorigenic signaling but also promote lipid peroxidation and ferroptosis, making ROS regulation critical during high oxidative stress stages of tumor progression, such as metastasis. Loss of the antioxidant TIGAR in pancreatic ductal adenocarcinoma (PDAC) cells raises ROS and enhances metastatic behavior but also sensitizes cells to ferroptosis. To understand how TIGAR-null cells survive to metastasize, we examine the role of macrophage infiltration, which is increased in TIGAR-null tumors. Co-culturing TIGAR-null PDAC cells with macrophages protects them from ferroptosis. The tumor cells induce macrophage IL-6 secretion, which leads to the activation of STAT3 and upregulation of the iron-sequestering protein ferritin (FTH1) in cancer cells. FTH1 depletion in TIGAR-null cells restores ferroptosis sensitivity and reduces lung metastasis. These results suggest that the outcome of increased ROS in tumors may depend on the activation of mechanisms that selectively prevent ferroptosis while preserving ROS-induced oncogenic signaling and metastasis-promoting pathways.",
+ "authors": [
+  "Cheung EC",
+  "Wu MH",
+  "Cheng WC",
+  "Coomes J",
+  "Blyth K",
+  "Vousden KH"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42867991",
+ "importance": 0.6,
+ "key_points_ko": [
+  "항산화 인자 TIGAR가 결핍된 췌장암 세포는 대식세포와의 상호작용을 통해 페롭토시스 사멸을 피합니다.",
+  "암세포가 유도한 대식세포의 IL-6 분비는 암세포 내 STAT3을 활성화하고 철 격리 단백질인 페리틴(FTH1)을 증가시킵니다.",
+  "TIGAR 결핍 암세포에서 페리틴(FTH1)을 제거하면 페롭토시스 민감성이 회복되고 폐 전이가 억제되었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1016/j.celrep.2026.118079",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42867991"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42867991/"
+ },
+ "summary_ko": "이 연구는 전이 과정에서 산화 스트레스가 높아진 췌관선암(PDAC) 세포가 대식세포의 도움으로 세포 사멸을 회피하는 기전을 조사했습니다. 항산화 단백질인 TIGAR가 결핍된 췌장암 세포는 활성산소종(ROS)이 증가하여 전이 능력이 커지지만 동시에 철분 의존성 세포사멸인 페롭토시스(ferroptosis)에 취약해집니다. 연구진은 췌장암 세포가 대식세포의 IL-6 분비를 자극하고, 이것이 암세포의 STAT3 활성화 및 페리틴(FTH1) 단백질 발현을 증가시켜 페롭토시스를 억제함을 밝혔습니다. 페리틴을 억제했을 때 췌장암 세포의 페롭토시스 감수성이 회복되고 폐 전이가 감소했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Macrophage-induced ferritin expression protects pancreatic cancer cells from ferroptosis",
+ "title_ko": "대식세포에 의해 유도된 페리틴 발현이 췌장암 세포를 페롭토시스로부터 보호하는 기전",
+ "trial": null,
+ "type": "paper"
+}

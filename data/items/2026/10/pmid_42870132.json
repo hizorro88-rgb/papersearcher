@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Next-generation sequencing (NGS) is standard practice in metastatic pancreatic ductal adenocarcinoma (PDAC), yet its prognostic utility in patients undergoing curative-intent resection remains poorly defined. Characterizing whether driver mutations independently influence post-surgical outcomes [overall survival (OS), time-to-recurrence (TTR), and pathological response (PR)] may inform perioperative risk stratification and patient selection for emerging targeted therapies.\nMETHODS: We conducted a retrospective cohort study of adults undergoing pancreatectomy for PDAC at a single high-volume academic center (2016-2025), with concurrent NGS profiling. Clinicopathologic and genomic data (KRAS, TP53, CDKN2A, SMAD4, and BRCA2 mutations) were obtained from an integrated institutional data commons. OS and TTR were evaluated using Kaplan-Meier analysis and multivariable Cox proportional hazards regression. PR (College of American Pathologists grade 0-1) was assessed using logistic regression.\nRESULTS: Of 188 eligible patients (median age: 66; 42.5% female), 83.5% received neoadjuvant chemotherapy and 12.8% achieved major pathological response. KRAS was the most prevalent mutation (84.6%), followed by TP53 (61.7%), CDKN2A (33.0%), SMAD4 (18.1%), and BRCA2 (3.2%). Median TTR and OS were 10.8 and 27.1 months, respectively. In multivariable analysis, TP53 mutation was associated with shorter OS (HR, 1.65 95% CI 1.02-2.66), and CDKN2A mutation with shorter TTR (HR 1.69, 95% CI 1.19-2.39). KRAS was associated with poorer PR compared to wild type (OR 4.45, 95% CI 1.26-15.65).\nCONCLUSION: In this exploratory analysis, TP53 and CDKN2A mutations were independently associated with poorer outcomes post-PDAC resection, supporting the potential of upfront NGS for perioperative risk stratification. Prospective, multicenter validation is needed to establish clinical utility.",
+ "authors": [
+  "Ali MM",
+  "Aragon KK",
+  "Cher BA",
+  "Ahmed KS",
+  "Marcinak CT",
+  "Acher AW",
+  "Kratz J",
+  "Murtaza M"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42870132",
+ "importance": 0.77,
+ "key_points_ko": [
+  "환자 188명 중 KRAS 돌연변이가 84.6%로 가장 흔했고, TP53(61.7%), CDKN2A(33.0%), SMAD4(18.1%), BRCA2(3.2%) 순이었습니다.",
+  "TP53 돌연변이는 사망 위험 증가(위험비 1.65, 95% CI 1.02-2.66)와 유의하게 연관되었습니다.",
+  "CDKN2A 돌연변이는 재발 위험 증가(위험비 1.69, 95% CI 1.19-2.39)와 관련이 있었으며, KRAS 돌연변이는 비돌연변이형 대비 불량한 병리학적 반응과 연관되었습니다(오즈비 4.45)."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1007/s12094-026-04564-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42870132"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Transl Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42870132/"
+ },
+ "summary_ko": "이 연구는 근치적 절제술을 받은 췌장암(췌관선암) 환자 188명을 대상으로 차세대 염기서열 분석(NGS)을 시행하여 주요 드라이버 돌연변이가 수술 후 예후에 미치는 영향을 분석했습니다. 분석 결과 대상 환자의 전체생존기간 중앙값은 27.1개월이었으며, 재발까지의 시간 중앙값은 10.8개월이었습니다. 다변량 분석에서 TP53 돌연변이는 더 짧은 전체생존기간과 관련이 있었고, CDKN2A 돌연변이는 더 짧은 재발 기간과 연관되어 있었습니다. 연구진은 수술 전후 유전자 검사가 위험군 분류에 도움을 줄 수 있으며 향후 전향적 다기관 검증이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Driver mutation profiling by next-generation sequencing predicts survival and recurrence after curative-intent resection for pancreatic ductal adenocarcinoma: a genomic cohort study",
+ "title_ko": "차세대 염기서열 분석을 통한 드라이버 돌연변이 프로파일링이 췌관선암의 근치적 절제술 후 생존 및 재발을 예측함: 유전체 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

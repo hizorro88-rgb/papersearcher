@@ -1,0 +1,207 @@
+{
+ "abstract": "Study to investigate the efficacy, safety and tolerability of systemic chemotherapy plus ponsegromab versus systemic chemotherapy plus placebo for the first-line treatment in adult participants with cachexia and metastatic pancreatic ductal adenocardinoma.\n\nA Phase 2b/3, randomized, double-blind, multicenter, multinational study to investigate the efficacy, safety and tolerability of systemic chemotherapy plus ponsegromab versus systemic chemotherapy plus placebo for the first-line treatment in adult participants with cachexia and mPDAC. The first-line chemotherapies will either be nab-paclitaxel plus gemcitabine or FOLFIRINOX (or mFOLFIRINOX). The double-blind period is followed by an optional open-label extension period.\n\nInitial enrollment will be in Phase 2b. If all eligibility criteria are met, participants will be randomized in a 1:1:1 allocation to study intervention (one of the two doses of ponsegromab, or placebo) plus first-line systemic chemotherapy. Participants must have completed their first-line pre-randomization systemic chemotherapy (1 x 28-day cycle of nab-paclitaxel and gemcitabine or 2 x 14-days cycles of FOLFIRINOX) prior to the start of receiving their first dose (Day 1) of study intervention (ponsegromab or placebo). Day 1 study intervention must be taken on the same day participants start their next cycle of nab-paclitaxel and gemcitabine chemotherapy or FOLFIRINOX chemotherapy and prior to receiving chemotherapy. All chemotherapy dosing is to be determined by the participant's health care provider in accordance with local guidelines. Study intervention will be administered Q4W SC.\n\nFollowing enrollment completion of Phase 2b, Phase 3 enrollment will begin, and eligible participants will be randomized in a 1:1:1 allocation to study intervention (one of the two doses of ponsegromab, or placebo). Participants must have completed their first-line pre-randomization systemic chemotherapy (1 x 28-day cycle of nab-paclitaxel and gemcitabine or 2 x 14-day cycles of FOLFIRINOX) prior to the start of receiving their first dose (Day 1) of study intervention (ponsegromab or placebo). Day 1 study intervention must be taken on the same day participants start their next cycle of nab-paclitaxel and gemcitabine chemotherapy or FOLFIRINOX chemotherapy and prior to receiving chemotherapy. All chemotherapy dosing is to be determined by the participant's health care provider in accordance with local guidelines. Study intervention will be administered Q4W SC.\n\nOnce all Phase 2b participants have completed Week 12 procedures, an analysis of Phase 2b will be performed, from which one of the 2 ponsegromab doses will be selected. After the Phase 3 ponsegromab dose has been selected, continuing Phase 2b participants will:\n\n* Continue the ponsegromab dose selected for Phase 3 if already randomized to that dose, OR\n* Be switched to the ponsegromab dose selected for Phase 3 if randomized to the non-selected ponsegromab dose, OR\n* Continue receiving placebo if randomized to placebo\n* Remain blinded to study treatment\n\nAfter the ponsegromab dose has been selected, continuing Phase 3 participants will:\n\n* Continue the ponsegromab dose selected for Phase 3 if already randomized to that dose, OR\n* Be switched to the ponsegromab dose selected for Phase 3 if randomized to the non-selected ponsegromab dose, OR\n* Continue receiving placebo if randomized to placebo\n* Remain blinded to study treatment Phase 3 participants enrolled after dose selection will be randomized 1:1 (ponsegromab selected dose: placebo). Participants must have completed their first-line pre-randomization systemic chemotherapy (1 x 28-day cycle of nab-paclitaxel and gemcitabine or 2 x 14-days cycles of FOLFIRINOX) prior to the start of receiving their first dose (Day 1) of study intervention (selected Phase 3 ponsegromab dose or placebo). Day 1 study intervention must be taken on the same day participants start their next cycle of nab-paclitaxel and gemcitabine chemotherapy or FOLFIRINOX chemotherapy and prior to receiving chemotherapy.\n\nDuring the Phase 3 portion of the study, there will be an optional sub-study for primary caregivers of participants with cachexia and mPDAC to evaluate the effectiveness of ponsegromab in improving the quality of life and well-being of the primary caregivers.\n\nStudy intervention (ponsegromab selected dose or placebo) will continue regardless of chemotherapy treatment until permanent discontinuation of study intervention, withdrawal of consent, death, or the end of the Phase 3 double-blind portion of the study has been reached when the approximate number of overall survival events have been accrued for the Phase 3 analysis of overall survival.\n\nParticipants will have tumor assessments performed approximately every 6 to 8 weeks during the double-blind period by blinded, independent, central reader radiologists.\n\nWhen the number of overall survival events has been accrued to terminate the Phase 3 double-blind portion of the study, active participants can continue in the optional open-label extension where they will receive ponsegromab for up to 12 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06989437",
+ "importance": 1.0,
+ "key_points_ko": [
+  "악액질을 동반한 전이성 췌관선암 환자 982명을 대상으로 표준 1차 항암요법과 ponsegromab 병용 효과를 위약과 비교합니다.",
+  "환자는 1차 항암요법 1주기(젬시타빈+nab-파클리탁셀 28일 또는 FOLFIRINOX 2회)를 마친 후 4주마다 1회 피하주사로 시험약을 투여받습니다.",
+  "2b상에서 선정한 최적 용량으로 3상을 진행하며, 환자 본인 치료 외에 주 보호자의 삶의 질 변화도 함께 평가합니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06989437"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2/PHASE3"
+ ],
+ "published_at": "2025-05-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pfizer",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06989437"
+ },
+ "summary_ko": "이 임상시험은 악액질(체중 감소)을 동반한 전이성 췌관선암 성인 환자를 대상으로, 1차 표준 항암화학요법에 신약 후보물질 ponsegromab(폰세그로맙) 또는 위약을 병용 투여하여 유효성과 안전성을 비교 평가하는 무작위 배정 2b/3상 시험입니다. 환자들은 표준 1차 항암요법(젬시타빈+nab-파클리탁셀 또는 FOLFIRINOX)을 1주기 완료한 후 참여하며, ponsegromab 또는 위약을 4주 간격으로 피하주사(SC) 투여받습니다. 2b상 단계에서 확인된 최적 용량으로 3상 확증 시험이 진행되며, 3상에서는 환자 보호자의 삶의 질을 평가하는 하위 연구도 진행됩니다. 이중맹검 기간 종료 후 적격 환자는 최대 12개월 동안 ponsegromab을 지속 투여받을 수 있는 공개연장 연구 참여가 가능합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "pancreatic cancer",
+  "metastatic cancer",
+  "cancer",
+  "anorexia",
+  "cachexia",
+  "weight loss",
+  "loss of appetite",
+  "fatigue"
+ ],
+ "title": "A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue",
+ "title_ko": "체중 감소와 피로를 동반한 전이성 췌장암 성인 환자 대상 ponsegromab(폰세그로맙) 병용요법의 2b/3상 임상시험",
+ "trial": {
+  "conditions": [
+   "Cachexia",
+   "Metastatic Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+    "name": "Pfizer CT.gov Call Center",
+    "phone": "1-800-718-1021"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인으로 전이성 췌관선암(mPDAC)이 확인된 환자\n- Fearon 기준에 부합하는 체중 감소(암 악액질)가 있는 환자\n- 1차 전신 항암화학요법으로 nab-paclitaxel + gemcitabine 1주기(28일) 또는 FOLFIRINOX 2주기(14일 주기 2회)를 완료하고 다음 주기 시작 전인 환자\n- ECOG 수행능력 평가 점수 0~1점 및 예상 기대여명이 4개월 이상인 환자\n\n제외 기준:\n- 음식 섭취 저하의 가역적 원인이 있거나 다른 원인으로 인한 악액질이 있는 환자\n- 과거 또는 현재 심부전 진단 이력이 있거나 좌심실 박출률(LVEF)이 50% 미만인 환자\n- 스크리닝 또는 무작위 배정 시점에 경관급식(튜브 영양) 또는 정맥 영양 공급(TPN)을 받고 있는 환자\n- 증상이 있는 뇌전이, 연수막 전이 또는 기타 활동성 중추신경계 전이가 있는 환자\n- 췌장 신경내분비종양 또는 선방세포암 등 비췌관선암 조직형인 환자",
+  "eligibility_text": "Key inclusion Criteria:\n\n* Signed Informed Consent Document\n* Documented active diagnosis of metastatic pancreatic ductal adenocarcinoma\n* Cachexia defined by Fearon criteria of weight loss\n* Completed 1 x 28-day cycle of first-line systemic nab-paclitaxel and gemcitabine chemotherapy or 2 x 14-day cycles of FOLFIRINOX chemotherapy and prior to receiving Cycle 2 chemotherapy\n* ECOG PS ≤1 with life expectancy of at least 4 months\n\nKey Exclusion Criteria:\n\n* Current active reversible causes of decreased food intake\n* Cachexia caused by other reasons\n* Any prior or current clinical diagnosis of heart failure, irrespective of left ventricular ejection fraction or New York Heart Association classification\n* Left ventricular ejection fraction \\<50%\n* Receiving tube feedings or parenteral nutrition at the time of Screening or Randomization\n* History of allergic or anaphylactic reaction to any therapeutic or diagnostic monoclonal antibody\n* History of allergy or hypersensitivity to any of the chemotherapeutics or any of their excipients\n* Neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma, symptomatic brain metastasis, leptomeningeal disease or other active CNS metastases\n* Inadequate liver function\n* Renal disease requiring dialysis or eGFR \\<30 mL/min/1.73m2",
+  "enrollment": 982,
+  "has_results": false,
+  "interventions": [
+   "ponsegromab",
+   "placebo"
+  ],
+  "last_update_posted": "2026-10-14",
+  "location_countries": [
+   "Australia",
+   "Belgium",
+   "Brazil",
+   "Bulgaria",
+   "Canada",
+   "China",
+   "France",
+   "Germany",
+   "India",
+   "Israel",
+   "Italy",
+   "Japan",
+   "Mexico",
+   "Poland",
+   "Puerto Rico",
+   "Slovakia",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Incheon",
+    "country": "South Korea",
+    "facility": "Inha University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seongnam",
+    "country": "South Korea",
+    "facility": "Seoul National University Bundang Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "CHA Bundang Medical Center, CHA University",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital, Yonsei University Health System",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "The Catholic Univ. of Korea Seoul St. Mary's Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Daegu",
+    "country": "South Korea",
+    "facility": "Keimyung University Dongsan Hospital",
+    "status": "RECRUITING"
+   },
+   {
+    "city": "Busan",
+    "country": "South Korea",
+    "facility": "Inje University Haeundae Paik Hospital",
+    "status": "RECRUITING"
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "심부전 병력 또는 심기능 저하(LVEF 50% 미만)",
+    "튜브 영양 공급 또는 정맥 영양 공급 진행 중",
+    "증상이 있는 뇌전이 또는 중추신경계 전이",
+    "암 이외의 다른 원인으로 인한 악액질 또는 섭식 저하"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "1차 표준 항암요법(젬시타빈+nab-파클리탁셀 또는 FOLFIRINOX)을 1주기 완료한 악액질(체중 감소) 동반 전이성 췌관선암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 230,
+  "nct_id": "NCT06989437",
+  "phase": "PHASE2/PHASE3",
+  "primary_completion_date": "2028-01-23",
+  "sex": "ALL",
+  "sponsor": "Pfizer",
+  "start_date": "2025-10-03",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

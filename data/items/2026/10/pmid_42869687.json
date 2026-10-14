@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy characterized by late diagnosis, aggressive progression, and an immunosuppressive tumor microenvironment. Biomarkers with both diagnostic value and biological relevance remain urgently needed.\nMETHODS: Five Gene Expression Omnibus cohorts comprising 548 pancreatic samples were analyzed using differential expression analysis, weighted gene co-expression network analysis, and machine learning. Spatial and single-cell transcriptomics, immune infiltration estimates, and survival analyses complemented biomarker screening. Tripartite motif-containing 29 (TRIM29) was evaluated in 80 paired clinical specimens, knockdown and re-expression experiments, and subcutaneous and orthotopic KPC tumor models.\nRESULTS: Machine learning identified eight hub genes, including S100P, SFN, TMPRSS4, GJB2, GABRP, TRIM29, SERPINB5, and LAMB3, which showed favorable diagnostic performance across cohorts. Spatial transcriptomics revealed region-specific enrichment of these genes in PDAC tissues. Among them, TRIM29 was preferentially expressed in malignant epithelial cells, markedly upregulated in PDAC tissues, and associated with poor prognosis, reduced CD8+ T-cell infiltration, and activation of PI3K-AKT-mTOR signaling. Functionally, TRIM29/Trim29 knockdown suppressed PDAC cell proliferation, migration, and invasion, reduced AKT and mTOR phosphorylation, and increased CXCL10 transcript levels and extracellular protein concentrations. TRIM29 re-expression restored AKT and mTOR phosphorylation and reversed the increase in extracellular CXCL10 concentrations. In vivo, Trim29 knockdown suppressed tumor growth and increased CD8+ T-cell infiltration in orthotopic tumors.\nCONCLUSION: This study identifies TRIM29 as a machine learning-prioritized diagnostic biomarker and functional regulator of PDAC progression and immune remodeling, suggesting its potential value for biomarker-guided risk assessment and therapeutic exploration in PDAC.",
+ "authors": [
+  "Luo S",
+  "Xu Y",
+  "Liao W",
+  "Wang J",
+  "Li Y",
+  "Yang J",
+  "Zhou P",
+  "Li E"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42869687",
+ "importance": 0.64,
+ "key_points_ko": [
+  "548개 검체 분석을 통해 TRIM29를 비롯한 8개의 핵심 진단 후보 유전자를 규명했습니다.",
+  "TRIM29의 높은 발현은 환자의 불량한 예후, PI3K-AKT-mTOR 신호 활성화, 종양 내 CD8+ T세포 침윤 감소와 유의하게 연관되었습니다.",
+  "동물 모델에서 TRIM29 발현을 억제했을 때 종양 성장이 억제되고 종양 내 CD8+ T세포 침윤이 증가했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.006",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42869687"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869687/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)에서 진단적 가치와 생물학적 중요성을 지닌 바이오마커를 찾기 위해 548개 췌장 검체 데이터와 머신러닝 분석을 수행했습니다. 분석 결과 TRIM29를 포함한 8개의 핵심 유전자가 도출되었으며, TRIM29는 암세포에서 발현이 높고 불량한 예후 및 CD8+ T세포 침윤 감소와 연관되어 있었습니다. 80쌍의 임상 검체와 세포 및 동물 실험에서 TRIM29 유전자를 억제했을 때 암세포의 증식과 침습이 줄어들고 종양 성장이 억제되며 면역세포 침윤이 증가함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "TRIM29 may facilitate progression of pancreatic ductal adenocarcinoma through immune remodeling",
+ "title_ko": "TRIM29가 면역 재구성을 통해 췌관선암의 진행을 촉진할 수 있음",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVES: The introduction of improved multi-agent systemic therapies has made restaging and treatment response assessment in patients with localized pancreatic ductal adenocarcinoma (PDAC) increasingly complex. This scoping review aims to assess and compare methods for local disease restaging and treatment response assessment in localized PDAC, with a focus on their association with resectability, overall survival (OS), and R0-resection rates.\nMATERIALS AND METHODS: This scoping review included studies on restaging in patients with PDAC following systemic therapy using CT and PET/CT from MEDLINE, Embase, and CENTRAL.\nRESULTS: Among 4680 identified studies, 20 fulfilled the eligibility criteria. Most (n = 15) studies analyzed CT, and 5 analyzed PET/CT. Groups of restaging methods included new response categories, size-based metrics, volume, vascular contact, tumor attenuation, fluorine-18 fluorodeoxyglucose (18F-FDG) PET/CT derived metabolic parameters, and resectability criteria. Dual-energy CT-derived extracellular volume (DECT-ECV) was evaluated as a baseline predictive biomarker. Associations between restaging methods and outcomes were reported inconsistently: some studies found significant associations for specific methods, whereas others did not. No restaging method showed a consistent association with both R0-resection and survival across all studies.\nCONCLUSION: Restaging of localized PDAC after systemic treatment remains challenging due to the limited accuracy of RECIST 1.1, particularly for the classifications partial response and stable disease. The current evidence suggests that integrating additional imaging features, alternative imaging modalities, and the biomarker carbohydrate antigen (CA)19-9 may improve the assessment of resectability and prognosis. These findings support a future version of RECIST 1.1 to alert clinicians to this issue.\nKEY POINTS: Question How effective are current (PET/)CT-based restaging methods in assessing local disease resectability and prognosis in localized PDAC after modern multi-agent systemic therapy? Findings Current restaging methods show inconsistent association with R0-resection and survival; RECIST 1.1 is particularly limited for the assessment of partial response and stable disease. Clinical relevance Current evidence confirms a need to integrate additional imaging features and the biomarker CA19-9, during restaging in patients with localized pancreatic cancer after modern systemic therapy to improve accuracy and reduce the risk of missed treatment options.",
+ "authors": [
+  "Lamoré AM",
+  "Kop MPM",
+  "Zamboni GA",
+  "Zins M",
+  "Revheim ME",
+  "Malekzadeh A",
+  "Stoker J",
+  "Marquering HA"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42867514",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1007/s00330-026-12954-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42867514"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42867514/"
+ },
+ "summary_ko": "OBJECTIVES: The introduction of improved multi-agent systemic therapies has made restaging and treatment response assessment in patients with localized pancreatic ductal adenocarcinoma (PDAC) increasingly complex. This scoping review aims to assess and compare methods for local disease restaging and treatment response assessment in localized PDAC, with a focus on their association with resectability, overall survival (OS), and R0-resection rates.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Restaging the primary tumor in localized pancreatic ductal adenocarcinoma after systemic therapy: a scoping review of the role of CT, FDG-PET, and CA19-9",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic adenocarcinoma is a tumor with a dismal prognosis, as the majority of patients are diagnosed when the tumor is not resectable. Neoadjuvant treatment has significantly improved prognosis, but assessing treatment response can be challenging for radiologists. Given the fibrotic nature of the primary tumor, differentiating between residual viable tumor and fibrotic response can be difficult. MRI can have a role in reassessing the primary tumor and disease spread. In this review, we discuss MR techniques that can be used for this assessment, including routinely used sequences (e.g., DWI) and sequences that are not yet routinely included in pancreatic protocols (e.g., T1 mapping, ECV imaging, and USPIO contrast for nodal staging). KEY POINTS: Question Imaging assessment of the response of pancreatic adenocarcinoma to neoadjuvant treatment is difficult and still has limited accuracy. Findings Different MRI sequences and techniques have been suggested as possibly improving this assessment, reflecting on better patient management. Critical relevance statement We summarize the available evidence on MRI for restaging pancreatic carcinoma after neoadjuvant treatment.",
+ "authors": [
+  "Zamboni GA",
+  "Omboni F",
+  "Panozzo I"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42867719",
+ "importance": 0.71,
+ "key_points_ko": [
+  "선행치료 후 종양 내 섬유화와 실제 잔여 종양을 정확히 구분하는 것은 기존 영상 검사로 한계가 있습니다.",
+  "확산강조영상(DWI)과 같은 통상적 MRI 기법 외에도 T1 매핑, 세포외액 분율(ECV) 영상 등이 정밀한 치료 반응 평가에 도움을 줄 수 있습니다.",
+  "림프절 전이 여부를 평가하기 위한 초상자성 산화철(USPIO) 조영제 기반 MRI 기법의 가능성이 논의되었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1186/s13244-026-02422-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42867719"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Insights Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42867719/"
+ },
+ "summary_ko": "췌관선암(pancreatic adenocarcinoma)은 많은 환자가 수술이 불가능한 상태로 발견되어 선행요법(neoadjuvant treatment)의 중요성이 커지고 있습니다. 그러나 종양 특유의 섬유화 반응 때문에 치료 후 남아 있는 실제 종양과 섬유화를 영상으로 구별하기는 어렵습니다. 본 논문은 선행요법 후 병기를 재평가하는 데 유용한 여러 자기공명영상(MRI) 기법을 정리한 종설입니다. 현재 사용되는 확산강조영상(DWI)뿐 아니라 T1 매핑, 세포외액 분율(ECV) 영상 등 최신 MRI 기술의 임상적 가치를 다루었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MRI for restaging pancreatic cancer",
+ "title_ko": "췌장암 재병기 설정을 위한 MRI의 역할",
+ "trial": null,
+ "type": "paper"
+}

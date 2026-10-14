@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Irreversible electroporation (IRE) is used in selected patients with Stage III pancreatic ductal adenocarcinoma (PDAC), but its association with survival relative to standard-of-care (SOC) therapy remains uncertain.\nMETHODS: This multicenter observational study included 137 patients from the DIRECT registry: 99 treated within an IRE-based strategy and 38 receiving SOC without IRE. Overall survival (OS) from diagnosis was evaluated using propensity-score overlap weighting as the principal adjusted analysis. Conventional inverse probability of treatment weighting (IPTW), propensity-score matching, 3- and 6-month landmark analyses, and a time-dependent Cox model treating IRE as a time-varying exposure were sensitivity analyses. Restricted mean survival time (RMST) at 24 months was estimated.\nRESULTS: Median time from diagnosis to enrollment was 8 months (IQR, 6-10) with IRE and 4 months (IQR, 3-6) with SOC (P < 0.0001). Unadjusted median OS was 28 months (95% CI, 23-33) and 15 months (95% CI, 12-21), respectively. Overlap weighting was associated with lower mortality with IRE (HR, 0.28; 95% bootstrap CI, 0.12-0.48). Twenty-four-month RMST was 21.22 versus 16.24 months, an absolute difference of 4.99 months (95% bootstrap CI, 1.15-8.12). The time-dependent analysis attenuated but retained the association (HR, 0.59; 95% bootstrap CI, 0.37-0.94). Other sensitivity analyses were directionally consistent.\nCONCLUSIONS: An IRE-based treatment strategy was associated with longer OS than SOC without IRE. Attenuation in the time-dependent analysis indicates that treatment timing and selection contributed to the observed difference. Given the nonrandomized design and potential residual confounding, these findings demonstrate association rather than an independent causal effect of IRE.",
+ "authors": [
+  "Martin RCG",
+  "White RR",
+  "Bilimoria MM",
+  "Narayanan G",
+  "Kluger MD",
+  "Iannitti DA",
+  "Polanco PM",
+  "Hammill CW"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42872478",
+ "importance": 0.71,
+ "key_points_ko": [
+  "보정 전 전체 생존기간(OS) 중앙값은 IRE 치료군 28개월, 표준 치료군 15개월이었습니다.",
+  "성향점수 중첩 가중 분석 결과 IRE 치료군에서 사망 위험이 낮게 나타났습니다(위험비 0.28, 95% CI 0.12-0.48).",
+  "IRE를 시간 가변 요인으로 다룬 시간 의존성 콕스 분석에서도 연관성은 유지되었으나 위험비는 0.59(95% CI 0.37-0.94)로 완화되었습니다.",
+  "24개월 시점의 제한적 평균 생존기간(RMST)은 IRE 치료군이 21.22개월로 표준 치료군(16.24개월) 대비 4.99개월 더 길었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1093/oncolo/oyag416",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42872478"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncologist",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42872478/"
+ },
+ "summary_ko": "3기 국소진행성 췌관선암(PDAC) 환자에서 비가역적 전기천공법(IRE) 치료 전략이 표준 치료(SOC) 대비 생존기간 연장과 연관이 있는지 분석한 다기관 관찰연구입니다. DIRECT 등록연구에 등록된 환자 137명 중 99명은 IRE 기반 치료를, 38명은 IRE 없는 표준 치료를 받았습니다. 보정 분석 결과 IRE 치료군은 표준 치료군에 비해 사망 위험이 낮고 24개월 제한적 평균 생존기간(RMST)이 길었습니다. 다만 시간 의존성 분석에서 효과 크기가 줄어든 점과 비무작위 연구라는 특성상 인과관계보다는 연관성을 보여주는 결과로 해석됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association of Irreversible Electroporation Treatment with Overall Survival in Stage III Pancreatic Ductal Adenocarcinoma: DIRECT Registry Results",
+ "title_ko": "3기 췌관선암 환자에서 비가역적 전기천공법(IRE) 치료와 전체 생존기간의 연관성: DIRECT 등록연구 결과",
+ "trial": null,
+ "type": "paper"
+}

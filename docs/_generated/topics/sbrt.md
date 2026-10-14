@@ -21,10 +21,10 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [국소 진행성 췌장암 환자 대상 체부정위 방사선치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀 및 젬시타빈 병…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
+| [국소진행성 췌장암에서 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-paclita…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [절제 불가능한 국소 진행성 또는 소전이성 췌장암 치료에서 Nimotuzumab과 화학방사선요법 병용](../trials/NCT07386704.md) | 2상 | 초대 모집 | - |
-| [Stereotactic Body Radiotherapy and NALIRIFOX for Locally Advanced Pan…](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용요법 연구](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 정위체부방사선치료(SBRT)와 병용하는 XER-001(비강-십이지장 투여 아미포스틴)의 안전성…](../trials/NCT07157033.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장선암에서 정위체부방사선치료와 FAK 및 RAF/MEK 억제제 병용 임상시험](../trials/NCT07126158.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
