@@ -17,11 +17,13 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (56)
+## 관련 임상시험 (59)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [KRAS G12D 변이 진행성·전이성 췌장암 및 대장암 환자에서 GDC-7035와 항암 치료 병용의 안전성 및 활성을 평가하…](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
+| [잠재적 수술 가능 국소 진행성 췌장암에서 유도 항암화학요법 후 MR-LINAC 방사선 치료 및 수술적 탐색을 통한 절제율 향…](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
+| [영양 보충제가 췌장암 환자의 체력 유지와 항암화학요법 내약성을 개선하는지 확인하기 위한 3상 연구](../trials/NCT07870421.md) | 해당 없음 | 모집 예정 | - |
+| [KRAS G12D 변이 진행성 또는 전이성 췌장관선암 및 대장암 환자에서 GDC-7035와 항암 치료의 안전성 및 활성을 평…](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
 | [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 Pentamidine 병용 요법](../trials/NCT07829185.md) | 1상 | 모집 예정 | - |
 | [전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](../trials/NCT07824960.md) | 1상/2상 | 모집 예정 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
@@ -30,6 +32,7 @@ search:
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [mFOLFIRINOX 또는 NALIRIFOX 항암화학요법과 setidegrasib 병용 투여의 효과 및 안전성을 평가하기 위…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
+| [진행성 췌장암 환자의 암 악액질 치료를 위한 나노 메게스트롤 아세테이트 임상시험](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 종양치료전자기장(TTFields)과 화학요법(modFOLFIRINOX) 병용 임상시험](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 펠세타코플란과 mFOLFIRINOX 병용 요법을 평가하는 1/2상 임상시험](../trials/NCT07214298.md) | 1상/2상 | 모집 중 | - |
@@ -47,7 +50,7 @@ search:
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [진행성 췌장선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 (RiLEY)](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 맞춤형 종양 신항원 mRNA 치료제](../trials/NCT06888648.md) | 1상/2상 | 모집 예정 | - |
-| [국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 군집 요법(ACT)](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 군집 치료(ACT)](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
 | [국소진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
@@ -78,7 +81,7 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (4)
 
 <a id="pmid-42861545"></a>
 #### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
@@ -109,6 +112,21 @@ search:
 - 담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
+
+---
+<a id="pmid-42865438"></a>
+#### [수술 불가능한 췌장암 1차 항암치료로서 변형 FOLFIRINOX와 젬시타빈+냅-파클리탁셀의 효능 및 독성 비교: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42865438/)
+<small>Efficacy and toxicities of modified FOLFIRINOX versus gemcitabine plus nab-paclitaxel as first-line chemotherapy for unresectable pancreatic cancer: a systematic review and meta-analysis</small>
+
+`논문` `메타분석` `치료 전반` `신약·치료제` `수술` `제약사·규제` · 2026-09-28 · PubMed · Front Oncol · 중요도 0.82
+
+수술이 불가능한 췌장암 환자 1,204명을 대상으로 1차 표준 치료인 변형 FOLFIRINOX(mFFX)와 젬시타빈+냅-파클리탁셀(GnP) 병용요법을 비교 분석한 메타분석 연구입니다. 분석 결과 GnP 투여군이 mFFX 투여군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다. 객관적 반응률(ORR)에는 유의한 차이가 없었으나 질병 통제율(DCR)은 GnP군에서 다소 높은 경향을 보였습니다. 부작용 측면에서 mFFX군은 심한 설사와 식욕부진 발생 위험이 높았고, GnP군은 심한 호중구 및 백혈구 감소증 빈도가 더 높았습니다.
+
+- 총 5개 연구(무작위 배정 임상시험 3건, 후향적 연구 2건)의 췌장암 환자 1,204명(mFFX군 578명, GnP군 626명)을 분석했습니다.
+- GnP군과 비교했을 때 mFFX군은 전체 생존기간(HR 1.26, P=0.002)과 무진행 생존기간(HR 1.21, P=0.01)이 유의하게 더 짧았습니다.
+- 3등급 이상의 부작용으로 mFFX군에서는 설사(OR 5.63)와 식욕부진(OR 4.44)이 많았고, GnP군에서는 호중구 감소증(OR 0.66)과 백혈구 감소증(OR 0.49)이 더 빈번했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42865438/) · [DOI](https://doi.org/10.3389/fonc.2026.1913824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655002/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42865438)</small>
 
 ---
 <a id="pmid-42827581"></a>

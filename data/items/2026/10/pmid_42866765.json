@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Obesity is a time-dependent carcinogenic exposure associated with an increased risk of hepatopancreatobiliary (HPB) cancers. Although weight-loss interventions improve metabolic status, the comparative oncologic impact and the role of cumulative obesity duration remain unclear.\nOBJECTIVES: To compare HPB cancer incidence across lifestyle-based, pharmacologic, and surgical weight-loss strategies and to assess whether differences in cumulative obesity exposure before and after weight reduction may influence cancer risk.\nSETTING: A retrospective cohort study at a tertiary university hospital in Israel.\nMETHODS: We analyzed 1131 adults who achieved weight loss between 2010 and 2024 through lifestyle modification, weight-loss medications, or bariatric surgery. For each patient, the duration of obesity before and after weight loss, the magnitude of BMI reduction, and follow-up intervals were recorded. HPB cancers - including hepatocellular carcinoma, pancreatic ductal adenocarcinoma, cholangiocarcinoma, and gallbladder carcinoma - were identified through national registry linkage. Group differences were evaluated using analysis of variance, Kruskal-Wallis, χ2 tests, and unadjusted risk ratios and odds ratios.\nRESULTS: Twenty-seven HPB cancers were identified. Incidence did not differ significantly among lifestyle (2.05%), medication-induced (3.24%), and surgery-induced (1.05%) groups (P = 0.334). Bariatric surgery had the lowest numerical incidence, whereas pharmacologic therapy had higher numerical rates; however, these differences were not statistically significant and should be interpreted cautiously. Obesity duration before weight loss differed significantly across groups (P < 0.001), and post-weight-loss duration showed a borderline difference (P = 0.050). BMI reduction was similar across interventions.\nCONCLUSIONS: Although no statistically significant differences in HPB cancer incidence were observed among weight-loss strategies, exploratory numerical differences were noted, with the lowest crude incidence in the bariatric surgery group. Given the limited number of events, these findings should be interpreted cautiously and viewed as hypothesis-generating only. Further adequately powered prospective studies are required before any clinical inference can be made.",
+ "authors": [
+  "Kukeev I",
+  "Arnon Y",
+  "Quint E",
+  "Freih SA",
+  "Osyntsov A",
+  "Dukhno O"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866765",
+ "importance": 0.66,
+ "key_points_ko": [
+  "체중 감량을 성공한 성인 1,131명 중 총 27건의 간담도췌장암이 발생했습니다.",
+  "암 발생률은 생활습관군(2.05%), 약물군(3.24%), 수술군(1.05%) 간에 통계적으로 유의미한 차이가 없었습니다(P=0.334).",
+  "체중 감량 전 비만 지속 기간은 치료군 간에 유의미한 차이를 보였습니다(P<0.001)."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1097/MS9.0000000000005470",
+  "nct": [],
+  "pmcid": "PMC13657611",
+  "pmid": "42866765"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Med Surg (Lond)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866765/"
+ },
+ "summary_ko": "체중 감량을 달성한 성인 1,131명을 대상으로 생활습관 개선, 약물 치료, 비만대사수술 등 중재 방식에 따른 간담도췌장(HPB) 암 발생 위험을 비교한 후향적 연구입니다. 총 27건의 암이 확인되었으며, 암 발생률은 생활습관군 2.05%, 약물군 3.24%, 수술군 1.05%로 치료 방법 간에 통계적으로 유의한 차이가 없었습니다(P=0.334). 비만대사수술군에서 수치상 가장 낮은 발생률을 보였으나 통계적 유의성은 없었습니다. 연구진은 암 발생 사례가 적어 가설 생성 수준의 결과이며, 확정적인 임상적 결론을 내리기 위해서는 추가 전향적 연구가 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cumulative obesity exposure and hepato-pancreato-biliary cancer risk following different weight-loss interventions: retrospective cohort study",
+ "title_ko": "다양한 체중 감량 중재 후 누적 비만 노출 기간과 간담도췌장암 발생 위험: 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

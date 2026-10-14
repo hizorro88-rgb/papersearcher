@@ -1,0 +1,58 @@
+{
+ "abstract": "Borderline resectable (BR) pancreatic ductal adenocarcinoma (PDAC) is a well-recognized entity with specific characteristics. Previously considered inoperable, these tumors are now increasingly resectable due to advances in neoadjuvant chemotherapy. This review synthesizes current knowledge on diagnostic, therapeutic, and management approaches for pancreatic ductal adenocarcinoma, especially for BR disease. It covers the definition, criteria, and surgical management, along with various clinical challenges in the diagnosis of borderline disease. Neoadjuvant therapy is the treatment of choice before surgery, but there are still limited data on the selection of optimal therapy and on the early identification of non-responders. Multidetector computed tomography, along with CA19-9 and positron emission tomography, are being used to evaluate resectability after neoadjuvant therapy. Pancreatic resection for PDAC is one of the most complex procedures in abdominal surgery due to the technical and oncological challenges associated with its aggressive growth. Despite these options, management remains challenging.",
+ "authors": [
+  "Thapa Chhetri R",
+  "Maharjan K"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866755",
+ "importance": 0.62,
+ "key_points_ko": [
+  "경계성 절제 가능 췌장암은 선행 화학요법의 발전에 힘입어 절제율이 점차 향상되고 있습니다.",
+  "수술 전 선행 치료가 최선의 선택이지만, 최적 치료 요법 선택과 불응군 조기 식별을 위한 근거는 아직 제한적입니다.",
+  "선행 치료 후 절제 가능성 평가는 MDCT, CA19-9, PET 등을 종합적으로 활용하여 진행됩니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1097/MS9.0000000000005565",
+  "nct": [],
+  "pmcid": "PMC13657568",
+  "pmid": "42866755"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Med Surg (Lond)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866755/"
+ },
+ "summary_ko": "이 종설 논문은 경계성 절제 가능(Borderline Resectable) 췌관선암(PDAC)의 진단, 치료 및 관리 접근법에 대한 최신 지견을 종합했습니다. 과거에는 수술이 불가능한 것으로 여겨졌으나, 선행 화학요법(neoadjuvant chemotherapy)의 발전으로 수술적 절제 가능성이 점차 높아지고 있습니다. 수술 전 선행 치료가 우선적으로 고려되지만, 최적의 치료법 선택 및 치료 불응 환자의 조기 선별에 관한 데이터는 여전히 제한적입니다. 선행 치료 후 절제 가능성을 평가하기 위해 다중검출기 컴퓨터단층촬영(MDCT), CA19-9, 양전자 방출 단층촬영(PET) 등이 활용되고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Borderline resectable pancreatic ductal adenocarcinoma: a narrative review",
+ "title_ko": "경계성 절제 가능 췌관선암: 서술적 고찰",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: Pancreatic TB is extremely rare, even in endemic areas. Clinically and radiographically, it may resemble a malignant process. Herein, we present a case of pancreatic TB who underwent surgery with a preoperative diagnosis of pancreatic malignancy.\nCASE PRESENTATION: A 34-year-old Afghan man presented with a one-year history of intermittent epigastric pain, accompanied by nausea and vomiting. Physical examination showed stable vital signs with mild epigastric tenderness. Laboratory examinations revealed mild anemia with mildly increased liver enzymes and lipase. The CA19-9 level in serum was mildly elevated, and the serologic test for HIV antibody was negative. An abdominal CT scan revealed a 57×30 mm multiloculated hypoattenuating mass-like lesion in the head of the pancreas with no evidence of biliary system dilation. As EUS-guided fine-needle aspiration/biopsy (EUS-FNA/FNB) was not available at our institution and the lesion was highly suspicious for pancreatic malignancy, the patient underwent Whipple resection. On macroscopic examination, a well-defined creamy soft mass with necrotic consistency was found in the head of the pancreas. Microscopic examination showed significant caseating granulomatous inflammation containing Langhans giant cells, and the Ziehl-Neelsen staining revealed a large number of acid-fast positive bacilli in favor of Mycobacterium tuberculosis. Anti-TB medicine was administered. No clinical or radiologic deficits were discovered during the 10-month follow-up visits.\nCONCLUSION: Pancreatic TB should be considered a differential diagnosis in pancreatic lesions, particularly in young patients from tuberculosis-endemic areas. Whenever feasible, preoperative EUS-guided FNA/FNB combined with microbiologic study may help avoid unnecessary invasive surgeries.",
+ "authors": [
+  "Kazemi K",
+  "Soleimani N",
+  "Jafari M",
+  "Pouraminaee F",
+  "Dehghani Z",
+  "Mohammadzadeh S",
+  "Dehbanizadeh S"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866548",
+ "importance": 0.72,
+ "key_points_ko": [
+  "복부 CT에서 췌장 머리에 57×30 mm 크기의 다낭성 저음영 종괴와 경미한 CA19-9 상승을 보여 수술 전 췌장암으로 강하게 의심되었습니다.",
+  "휘플 수술 후 시행된 조직 검사 및 질-닐슨(Ziehl-Neelsen) 염색을 통해 결핵균 양성 췌장 결핵으로 확진되었습니다.",
+  "결핵 유행 지역 출신의 젊은 환자에서 췌장 종괴가 관찰될 경우 내시경 초음파 유도하 세침흡인/생검(EUS-FNA/FNB) 등을 통해 불필요한 침습적 수술을 피할 수 있습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.2147/IMCRJ.S638587",
+  "nct": [],
+  "pmcid": "PMC13656929",
+  "pmid": "42866548"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports",
+  "Review"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int Med Case Rep J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866548/"
+ },
+ "summary_ko": "결핵 유행 지역에서도 극히 드문 질환인 췌장 결핵(Pancreatic TB)이 임상적 및 영상의학적으로 췌장 악성 종양과 매우 유사하게 나타난 증례 보고입니다. 34세 아프가니스탄 남성이 췌장 머리 부분에 57×30 mm 크기의 종괴가 발견되어 췌장암 의심 하에 휘플 수술(Whipple resection)을 받았습니다. 수술 후 조직 검사에서 결핵균(Mycobacterium tuberculosis)에 의한 건락성 육아종성 염증으로 최종 진단되었으며 항결핵제 치료가 시작되었습니다. 환자는 10개월간의 추적 관찰 동안 재발 없이 안정적인 상태를 유지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review",
+ "title_ko": "정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

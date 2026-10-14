@@ -1,0 +1,56 @@
+{
+ "abstract": null,
+ "authors": [
+  "Okabayashi T"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866405",
+ "importance": 0.58,
+ "key_points_ko": [
+  "췌장암 절제 수술 후 조기 재발 위험을 평가할 때 숙주(환자)의 영양 상태(nutritional status)가 중요한 예측 인자가 될 수 있는지 고찰했습니다.",
+  "종양의 생물학적 특성과 환자의 전반적인 영양 지표를 통합적으로 고려하는 접근법을 다루었습니다.",
+  "구체적인 분석 수치와 환자 통계는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.21037/gs-2026-0422",
+  "nct": [],
+  "pmcid": "PMC13657731",
+  "pmid": "42866405"
+ },
+ "pub_types": [
+  "Editorial",
+  "Comment"
+ ],
+ "published_at": "2026-09-16",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gland Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866405/"
+ },
+ "summary_ko": "췌장암 수술 후 조기 재발을 예측할 때 종양 자체의 생물학적 특성 외에 환자의 영양 상태가 미치는 역할을 다룬 사설 및 논평(Editorial/Comment)입니다. 환자의 전신 영양 지표를 함께 평가하는 것이 수술 후 예후 및 조기 재발 예측의 정확도를 높일 수 있는지 논의합니다. 구체적인 환자 코호트와 수치 데이터는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond tumor biology: can host nutritional status refine prediction of early recurrence after pancreatic cancer surgery?",
+ "title_ko": "종양 생물학을 넘어: 환자의 영양 상태가 췌장암 수술 후 조기 재발 예측을 개선할 수 있는가?",
+ "trial": null,
+ "type": "paper"
+}

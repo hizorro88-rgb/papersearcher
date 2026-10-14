@@ -1,0 +1,110 @@
+{
+ "abstract": "This prospective, multicenter clinical study evaluates the efficacy and safety of NALIRIFOX in combination with Stereotactic Body Radiation Therapy (SBRT) for patients with locally advanced unresectable pancreatic cancer. The primary endpoint is progression-free survival (PFS), with secondary endpoints including objective response rate (ORR), disease control rate (DCR), overall survival (OS), and safety assessment. The study involves two cohorts: Cohort 1 (early SBRT after 1 cycle of NALIRIFOX) and Cohort 2 (late SBRT after 6-8 cycles of NALIRIFOX). A total of 42 participants are expected to be enrolled, with a follow-up period of at least 24 months. This trial aims to provide a novel therapeutic option for this patient population.\n\nThe study will assess the combination of NALIRIFOX (a chemotherapy regimen including liposomal irinotecan) and SBRT in patients with locally advanced unresectable pancreatic cancer. NALIRIFOX consists of liposomal irinotecan, oxaliplatin, 5-FU, and leucovorin, administered in 10-12 cycles every two weeks. SBRT will be applied after a variable period of chemotherapy, randomzing either early or late in the treatment course. The study's main endpoint is progression-free survival (PFS), which is the time from the start of treatment to disease progression or death. Secondary endpoints include ORR, DCR, and OS, providing a comprehensive evaluation of the treatment's effectiveness. Furthermore, the safety profile of the combination will be evaluated, focusing on adverse events using the NCI-CTCAE version 5.0. A total of 42 patients will be enrolled, with an expected follow-up duration of 24 months. The study is designed to explore whether this combined modality can improve outcomes for patients.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "nalirifox",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07173387",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07173387"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2025-09-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Shandong Cancer Hospital and Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07173387"
+ },
+ "summary_ko": "This prospective, multicenter clinical study evaluates the efficacy and safety of NALIRIFOX in combination with Stereotactic Body Radiation Therapy (SBRT) for patients with locally advanced unresectable pancreatic cancer. The primary endpoint is progression-free survival (PFS), with secondary endpoints including objective response rate (ORR), disease control rate (DCR), overall survival (OS), and safety assessment.",
+ "summary_source": "excerpt",
+ "tags": [
+  "NALIRIFOX",
+  "liposomal irinotecan",
+  "SBRT"
+ ],
+ "title": "Stereotactic Body Radiotherapy and NALIRIFOX for Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "jbyue@sdfmu.edu.cn",
+    "name": "Jinbo Yue, Doctor",
+    "phone": "0531-67626442"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nAdults aged 18-75 years, both male and female. Histologically or cytologically confirmed locally advanced unresectable pancreatic cancer.\n\nNo prior chemotherapy or radiatiotherapy for pancreatic cancer. ECOG performance status of 0-1.\n\nAdequate organ function as defined by the following criteria:\n\nAbsolute neutrophil count (ANC) ≥ 1,500/μL Platelet count ≥ 100,000/μL Hemoglobin ≥ 9 g/dL Total bilirubin ≤ 1.5 times the upper limit of normal (ULN) Serum creatinine ≤ 1.5 times the ULN AST/ALT ≤ 2.5 times the ULN Ability to provide written informed consent.\n\nExclusion Criteria:\n\nPrior history of other malignancies (except for curatively treated non-melanoma skin cancer or other cancers with a 5-year disease-free survival).\n\nActive infections or severe medical conditions that would interfere with the study.\n\nPregnancy or breastfeeding. Known hypersensitivity to any of the study drugs. History of severe allergic reactions to liposomal formulations. Uncontrolled comorbid conditions (e.g., heart failure, chronic kidney disease, or uncontrolled diabetes).\n\nParticipation in other clinical trials involving investigational treatments within 30 days of enrollment.",
+  "enrollment": 42,
+  "has_results": false,
+  "interventions": [
+   "NALIRIFOX (liposomal irinotecan-based chemotherapy).",
+   "Stereotactic Body Radiation Therapy (SBRT)."
+  ],
+  "last_update_posted": "2026-10-13",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07173387",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-10-01",
+  "sex": "ALL",
+  "sponsor": "Shandong Cancer Hospital and Institute",
+  "start_date": "2025-10-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

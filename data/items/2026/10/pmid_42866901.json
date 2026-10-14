@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) with anaplastic features is a rare and highly aggressive subtype with an extremely poor prognosis. However, the molecular mechanisms underlying anaplastic transformation remain poorly understood. To characterize the anaplastic transformation molecular landscape, we analyzed genomic alterations in 5,997 conventional PDAC and 41 anaplastic carcinoma cases from the Memorial Sloan Kettering-Integrated Mutation Profiling of Actionable Cancer Targets (MSK-IMPACT) cohort. Additionally, four PDAC samples from the Kyorin cohort with both tubular and anaplastic components were subjected to spatial transcriptomics using the Visium platform. Differential gene expression and pathway enrichment analyses were performed to identify key molecular drivers. Genomic analysis revealed higher KRAS (90 versus 75%), TP53 (85 versus 60%), and CDKN2A (50 versus 30%) mutation frequencies, but notably fewer SMAD4 mutations (5 versus 20%; p = 0.022), in anaplastic carcinoma than in conventional PDAC. Spatial transcriptomics identified distinct molecular signatures, with epithelial-mesenchymal transition (EMT) pathways significantly enriched in anaplastic regions. Levels of ELF3, an epithelial transcription factor, were consistently downregulated in all anaplastic components. Importantly, we detected a strong inverse correlation between SMAD4 and ELF3 expression in both the bulk RNA sequencing cohort and spatial transcriptomic data. Functional validation using the KC-shSmad4 mouse model demonstrated that increased Smad4 suppressed Elf3 expression and promoted mesenchymal reprogramming. Our findings suggest a novel SMAD4-ELF3 regulatory axis that may contribute to anaplastic transformation in PDAC. The retention of SMAD4 functions coupled with ELF3 downregulation may promote EMT and contribute to tumor dedifferentiation. This SMAD4-ELF3 regulatory axis may provide a framework for identifying therapeutic vulnerabilities in this aggressive PDAC variant and further highlight the utility of spatial transcriptomics for understanding tumor heterogeneity. © 2026 The Pathological Society of Great Britain and Ireland.",
+ "authors": [
+  "Hayashi A",
+  "Sasagawa S",
+  "Shibayama T",
+  "Tsanov KM",
+  "Umeda S",
+  "Ho YJ",
+  "Tanabe K",
+  "Park W"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866901",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1002/path.70136",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42866901"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866901/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) with anaplastic features is a rare and highly aggressive subtype with an extremely poor prognosis. However, the molecular mechanisms underlying anaplastic transformation remain poorly understood.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Molecular landscape of anaplastic transformation in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

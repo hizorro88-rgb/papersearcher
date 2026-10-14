@@ -1,0 +1,59 @@
+{
+ "abstract": "OBJECTIVE: To assess photon counting CT (PCCT) spectral parameters in the differentiation of locally recurrent pancreatic adenocarcinoma (PDAC) from benign postsurgical fibrosis after PDAC surgical resection.\nMETHODS: Twenty-two patients [12 male, mean±SD: age 71 (8) y] who underwent pancreas protocol PCCT following surgery for PDAC were retrospectively identified. Local recurrence required tissue histopathology or enlarging FDG-avid soft tissue. Nonrecurrence required soft-tissue reduction with stable or decreased CA 19-9. Two blinded radiologists independently drew regions of interest within the surgical bed soft tissue to determine iodine density (I), I normalized to aortic enhancement (I%), fat fraction, and extracellular volume (ECV), which were compared using the Mann-Whitney U test. A P<0.05 indicated statistical significance. The intraclass correlation coefficient was used to assess inter-reader reliability. ROC analysis was performed using mean measurements.\nRESULTS: On pancreatic parenchymal phase imaging, median [IQR] postcontrast attenuation for patients with nonrecurrence (n=10) and recurrence (n=11) was 32.3 (16.4 to 42.9 HU) and 57.0 (50.2 to 65.5 HU)(P=0.001); enhancement was 23.7 (10.2 to 26.0 HU) and 40.0 (34.4 to 44.5 HU) (P=0.001); I was 0.6 (0.5 to 0.90 mg/mL) and 1.8 (1.5 to 2.0 mg/mL) (P<0.001); I% was 8.3 (6.3% to 11.1%) and 34.3 (29.8% to 40.9%) (P<0.001); and ECV was 5.8 (4.4 to 6.9 mL) and 23.0 (18.0 to 25.8 mL) (P<0.001), respectively. To differentiate nonrecurrent from recurrent soft tissue, a postcontrast 45.7 HU threshold had 100% sensitivity and 80% specificity [AUC=0.92 (0.80-1.00)]; enhancement of 31.9 HU had 81.8% sensitivity and 100% specificity [AUC=0.98 (0.93-1.00)]; 14.0 mL ECV had 100% sensitivity and 100% specificity [AUC=1.00 (1.00-1.00)]; 1.27 mg/mL I had 90.9% sensitivity and 100% specificity [AUC=0.99 (0.98-1.00)]; and 20.3% I% had 100% sensitivity and 100% specificity (AUC=1.00). Inter-reader agreement was near-perfect (ICCs 0.86 to 0.96).\nCONCLUSIONS: PCCT spectral parameters demonstrated excellent diagnostic performance in differentiating locally recurrent PDAC from postsurgical fibrosis on pancreatic parenchymal phase imaging.",
+ "authors": [
+  "Platt S",
+  "Bansal B",
+  "Bagga B",
+  "O'Donnell T",
+  "Dane B"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42863132",
+ "importance": 0.77,
+ "key_points_ko": [
+  "췌장 실질기 영상에서 요오드 밀도 중앙값은 비재발군 0.6 mg/mL, 재발군 1.8 mg/mL로 재발군에서 유의하게 높았습니다(P<0.001).",
+  "세포외용적(ECV) 14.0 mL 기준값과 표준화 요오드 밀도(I%) 20.3% 기준값은 각각 민감도 100%, 특이도 100%(AUC=1.00)의 우수한 감별 진단 성능을 보였습니다.",
+  "판독자 간 일치도(ICC)는 0.86~0.96으로 거의 완벽한 일치 수준을 나타냈습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1097/RCT.0000000000001935",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42863132"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Comput Assist Tomogr",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42863132/"
+ },
+ "summary_ko": "췌관선암(PDAC) 수술 후 수술 부위에 생긴 연부조직이 국소 재발인지 양성 수술 후 섬유화인지 감별하기 위해 광자 계수 CT(PCCT)의 스펙트럼 지표를 평가한 후향적 연구입니다. 수술 후 PCCT를 시행한 환자 22명을 대상으로 요오드 밀도, 대동맥 대비 표준화 요오드 밀도(I%), 세포외용적(ECV) 등의 지표를 분석했습니다. 췌장 실질기 영상에서 재발군은 비재발군에 비해 조영 증강, 요오드 밀도, 세포외용적 수치가 유의하게 높았습니다. 연구진은 PCCT 스펙트럼 지표가 수술 후 국소 재발과 섬유화를 감별하는 데 우수한 진단 성능을 보였다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Pilot Study of Photon Counting CT Spectral Analysis Following Pancreatic Adenocarcinoma Resection to Differentiate Local Recurrence From Postsurgical Fibrosis",
+ "title_ko": "췌관선암 수술 후 국소 재발과 수술 후 섬유화를 감별하기 위한 광자 계수 CT 스펙트럼 분석 예비 연구",
+ "trial": null,
+ "type": "paper"
+}

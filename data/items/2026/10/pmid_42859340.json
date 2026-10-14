@@ -32,11 +32,11 @@
   "IF-myCAF가 5.8배 농축된 침습-결합조직형성 군집(ID-CC)의 유전자 특징은 TCGA 데이터에서 불량한 예후와 독립적으로 관련되었습니다.",
   "세포 간 신호 전달 축을 억제하기 위한 가상 스크리닝에서 conivaptan, lonafarnib, rucaparib 등 5개의 후보 약물이 도출되었습니다."
  ],
- "last_updated": "2026-10-12",
+ "last_updated": "2026-10-14",
  "links": {
   "doi": "10.1007/s44307-026-00141-8",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13653914",
   "pmid": "42859340"
  },
  "pub_types": [

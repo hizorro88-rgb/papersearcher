@@ -19,11 +19,11 @@ search:
 | [sotorasib](sotorasib.md) | 약물 | 0 | - |
 | [adagrasib](adagrasib.md) | 약물 | 0 | - |
 | [olaparib](olaparib.md) | 약물 | 4 | 2026-10-06 |
-| [NALIRIFOX](nalirifox.md) | 요법 | 24 | 2026-10-06 |
-| [FOLFIRINOX](folfirinox.md) | 요법 | 59 | 2026-10-13 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 82 | 2026-10-13 |
+| [NALIRIFOX](nalirifox.md) | 요법 | 26 | 2026-10-06 |
+| [FOLFIRINOX](folfirinox.md) | 요법 | 63 | 2026-10-14 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 87 | 2026-10-14 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
 | [zolbetuximab](zolbetuximab.md) | 약물 | 0 | - |
-| [Whipple](whipple.md) | 시술·수술 | 10 | 2026-10-06 |
+| [Whipple](whipple.md) | 시술·수술 | 12 | 2026-10-14 |
 | [distal pancreatectomy](distal-pancreatectomy.md) | 시술·수술 | 4 | 2026-10-10 |
-| [SBRT](sbrt.md) | 시술·수술 | 17 | 2026-10-06 |
+| [SBRT](sbrt.md) | 시술·수술 | 18 | 2026-10-06 |

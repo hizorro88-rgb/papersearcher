@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic adenocarcinoma with distant metastases is associated with a poor prognosis, and exceptionally durable responses to systemic chemotherapy are uncommon. We report a rare case of pancreatic adenocarcinoma with radiologically suspected multiple liver metastases that achieved a prolonged response to first-line tegafur/gimeracil/oteracil (S-1) monotherapy. A 76-year-old man with a history of cerebral infarction and diabetes mellitus was referred to our department because of rapidly worsening diabetes. Imaging revealed an approximately 3-cm pancreatic head tumor and multiple hepatic lesions highly suspicious for metastases. Serum carbohydrate antigen 19-9 (CA19-9) was markedly elevated. Endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) of the pancreatic head tumor demonstrated adenocarcinoma on both cytological and histopathological examinations. Gemcitabine plus nanoparticle albumin-bound paclitaxel (nab-paclitaxel) was proposed; however, the patient preferred oral treatment. Considering his age, quality of life, and treatment preference, S-1 monotherapy was initiated at 100 mg/day on a 2-week-on/2-week-off schedule. Following initiation of S-1, the pancreatic and hepatic lesions progressively regressed, accompanied by rapid normalization of CA19-9. By approximately 14 months after treatment initiation, the previously identifiable pancreatic primary tumor and hepatic lesions were no longer clearly visualized on computed tomography (CT). S-1 monotherapy was continued with few interruptions, and no apparent radiological progression was documented for approximately 47 months. Approximately two and a half months after the last CT showing no apparent progression, the patient developed fever and dyspnea. CT demonstrated newly developed bilateral ground-glass and interstitial pulmonary opacities, along with new-onset ascites, without evidence of regrowth of the pancreatic or hepatic lesions. S-1-induced interstitial lung disease (ILD) was clinically suspected; however, occult malignant progression could not be definitively excluded. His respiratory condition deteriorated despite treatment, and he subsequently died. This case demonstrates that an exceptionally durable response may rarely occur with first-line S-1 monotherapy even in pancreatic adenocarcinoma with radiologically suspected metastatic disease.",
+ "authors": [
+  "Ota T",
+  "Iinuma S",
+  "Suyama Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866363",
+ "importance": 0.54,
+ "key_points_ko": [
+  "76세 전이성 췌장암 의심 환자에게 1차 치료로 S-1 경구 단독요법(100 mg/일, 2주 투약 2주 휴약)을 시행했습니다.",
+  "치료 후 종양 축소 및 CA19-9 정상화를 보였으며, 약 47개월 동안 방사선학적 질병 진행이 없었습니다.",
+  "치료 14개월 시점에는 CT 검사에서 원발 췌장 종양과 간 전이 의심 병변이 뚜렷하게 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.7759/cureus.116149",
+  "nct": [],
+  "pmcid": "PMC13657664",
+  "pmid": "42866363"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866363/"
+ },
+ "summary_ko": "다발성 간 전이가 의심되는 전이성 췌관선암 환자에게 경구 항암제인 S-1(tegafur/gimeracil/oteracil) 단독요법을 1차 치료로 시행한 드문 증례 보고입니다. 76세 남성 환자에게 S-1을 투여한 결과, 췌장 종양과 간 병변이 점차 축소되었고 종양표지자 CA19-9가 빠르게 정상화되었습니다. 치료 시작 약 14개월 후 CT상 병변이 뚜렷하게 관찰되지 않았으며, 약 47개월 동안 질병 진행 없이 유의미한 반응이 유지되었습니다. 환자는 이후 약제 유발 간질성 폐질환(ILD) 등이 의심되는 호흡 부전으로 사망하였으나, 전이성 췌장암에서 S-1 단독요법으로도 극히 예외적인 장기 반응이 나타날 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Exceptionally Durable Response to First-Line S-1 Monotherapy in Metastatic Pancreatic Adenocarcinoma: A Case Report",
+ "title_ko": "전이성 췌관선암에서 1차 S-1 단독요법에 매우 긴 기간 반응을 보인 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

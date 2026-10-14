@@ -16,12 +16,36 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 66건 · 최근 30일 66건
+전체 68건 · 최근 30일 68건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42866901"></a>
+#### [Molecular landscape of anaplastic transformation in pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42866901/)
+`논문` `관찰연구` `기초연구` · 2026-10-13 · PubMed · J Pathol · 중요도 0.77
+
+Pancreatic ductal adenocarcinoma (PDAC) with anaplastic features is a rare and highly aggressive subtype with an extremely poor prognosis. However, the molecular mechanisms underlying anaplastic transformation remain poorly understood.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866901/) · [DOI](https://doi.org/10.1002/path.70136) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866901)</small>
+
+---
+<a id="pmid-42859340"></a>
+#### [공간 다중오믹스를 통해 밝혀낸 췌관선암의 예후 및 치료적 의의를 지닌 침습-결합조직형성 세포 군집](https://pubmed.ncbi.nlm.nih.gov/42859340/)
+<small>Spatial multi-omics uncovers an invasive-desmoplastic cellular community with prognostic and therapeutic implications in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-10 · PubMed · Adv Biotechnol (Singap) · 중요도 0.64
+
+단일세포 RNA 시퀀싱(scRNA-seq)과 공간 전사체학을 통합 분석하여 췌관선암의 침습 경계면에 위치하는 새로운 암 관련 섬유아세포인 IF-myCAF를 규명했습니다. 이 세포가 5.8배 풍부하게 존재하는 '침습-결합조직형성 세포 군집(ID-CC)'은 종양과 기질의 경계면에 위치하며 예후 불량과 독립적으로 연관되어 있었습니다. 연구진은 세포 간 신호 전달 축을 표적하기 위해 구조 기반 가상 스크리닝을 진행했습니다. 그 결과 conivaptan(코니밥탄), lonafarnib(로나파닙), rucaparib(루카파립) 등 5종의 다중 표적 약물 재창출 후보 물질을 발굴했습니다.
+
+- 단일세포 61,234개와 공간 전사체 30,430개 스팟을 분석하여 ACTA2, COL11A1 등을 발현하는 IF-myCAF 아형을 발견했습니다.
+- IF-myCAF가 5.8배 농축된 침습-결합조직형성 군집(ID-CC)의 유전자 특징은 TCGA 데이터에서 불량한 예후와 독립적으로 관련되었습니다.
+- 세포 간 신호 전달 축을 억제하기 위한 가상 스크리닝에서 conivaptan, lonafarnib, rucaparib 등 5개의 후보 약물이 도출되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859340/) · [DOI](https://doi.org/10.1007/s44307-026-00141-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13653914/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859340)</small>
+
+---
 <a id="pmid-42860583"></a>
 #### [인산화된 STYK1이 자가포식 매개 암 줄기세포능 유도를 통해 췌장암의 젬시타빈 내성을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42860583/)
 <small>Phosphorylated STYK1 Promotes Gemcitabine Resistance via Autophagy-Mediated Cancer Stemness in Pancreatic Cancer</small>
@@ -34,7 +58,50 @@ search:
 - 젬시타빈 처리는 AMPK를 활성화하며, AMPK는 STYK1의 Ser91 및 Ser304 잔기를 인산화하여 자가포식과 줄기세포능을 더욱 증폭시킵니다.
 - STYK1-AMPK 결합을 저해하는 신규 펩타이드 SAIDP5는 젬시타빈과의 병용 요법에서 항암제 내성을 낮추는 시너지 효과를 보였습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860583/) · [DOI](https://doi.org/10.1002/advs.202521488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860583)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860583/) · [DOI](https://doi.org/10.1002/advs.202521488) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655253/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860583)</small>
+
+---
+<a id="pmid-42860317"></a>
+#### [인간 베타세포 역분화와 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42860317/)
+<small>Human β-Cell Dedifferentiation and Diabetes</small>
+
+`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-01 · PubMed · J Diabetes · 중요도 0.54
+
+인간 췌장 베타세포(β-cell)의 역분화는 세포가 고유의 특성을 잃고 미성숙한 상태로 되돌아가는 현상으로, 베타세포 기능 부전의 주요 원인으로 꼽힙니다. 제2형 당뇨병 환자뿐만 아니라 당뇨가 없는 만성 췌장염 및 췌관선암(PDAC) 환자에서도 이러한 기능 저하 역분화 세포가 증가하는 것이 관찰되었습니다. 이는 베타세포 역분화가 췌장 질환에 따른 췌장원성 당뇨병의 주요 기전이자 고혈당 발생 이전의 초기 유발 요인임을 시사합니다. 연구진은 역분화를 예방하거나 역전시켜 베타세포 기능을 보존하는 치료 전략 개발의 가능성을 제시하고 있습니다.
+
+- 당뇨 병력이 없는 만성 췌장염 및 췌장암(췌관선암) 환자에서도 기능 장애를 동반한 역분화 베타세포의 증가가 확인되었습니다.
+- 베타세포의 역분화 비율은 당뇨 병력이 없는 대상자에서 HOMA-β 및 식후 2시간 C-펩타이드(2h-C Peptide) 수치와 반비례 관계를 보였습니다.
+- 베타세포 역분화는 고혈당이 나타나기 전부터 발생하는 베타세포 부전의 초기 촉발 요인으로 작용할 수 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860317/) · [DOI](https://doi.org/10.1111/1753-0407.70280) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13654652/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860317)</small>
+
+---
+<a id="pmid-42864388"></a>
+#### [정정: 표면 뉴클레올린 표적화는 AMPK 활성화를 통해 췌장암에서 자가포식 의존성 세포 사멸을 유도합니다](https://pubmed.ncbi.nlm.nih.gov/42864388/)
+<small>Correction: Targeting surface nucleolin induces autophagy-dependent cell death in pancreatic cancer via AMPK activation</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-12 · PubMed · Oncogene · 중요도 0.54
+
+본문은 Oncogene 저널에 발표된 논문의 정정(Correction) 안내입니다. 초록에 명시되지 않음. 초록에 명시되지 않음. 초록에 명시되지 않음.
+
+- 초록에 명시되지 않음.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42864388/) · [DOI](https://doi.org/10.1038/s41388-026-04005-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42864388)</small>
+
+---
+<a id="pmid-42860383"></a>
+#### [단일세포 멀티오믹스를 통해 밝혀진 췌관선암의 상피 리모델링 및 면역억제 미세환경 핵심 인자 OTUD7B](https://pubmed.ncbi.nlm.nih.gov/42860383/)
+<small>Single-Cell Multiomics Reveals That OTUD7B Is a Central Driver of Epithelial Remodelling and the Immunosuppressive Microenvironment in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` · 2026-10-01 · PubMed · J Cell Mol Med · 중요도 0.51
+
+본 연구는 췌관선암(PAAD)의 치료 저항성과 악성도에 관여하는 탈유비퀴틴화 효소 OTUD7B의 역할을 단일세포 전사체 분석 및 단백질체학 기법으로 규명했습니다. 분석 결과, OTUD7B는 상피 세포의 악성 분화와 미토콘드리아 대사 재프로그래밍을 촉진하는 핵심 유전자로 확인되었습니다. 또한 OTUD7B 발현이 높을수록 M2 대식세포 및 조절 T세포(Treg) 침윤이 증가하여 면역억제성 종양 미세환경이 형성되었습니다. 결과적으로 OTUD7B의 과발현은 림프절 전이, 진행된 병기 및 불량한 전체 생존기간(OS)과 유의미하게 연관되어 있었습니다.
+
+- OTUD7B의 높은 발현은 췌관선암 환자의 림프절 전이, 진행된 암 병기 및 불량한 전체 생존기간(OS)과 밀접하게 연관되었습니다.
+- OTUD7B 결손 암세포 분석에서 미토콘드리아 산화적 인산화 및 활성산소(ROS) 대사 조절 경로의 광범위한 리모델링이 확인되었습니다.
+- OTUD7B 발현은 M2 대식세포 침윤과 CD4+FOXP3+ 조절 T세포(Treg)의 축적과 양의 상관관계를 보여 면역억제 환경을 유도하는 것으로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860383/) · [DOI](https://doi.org/10.1111/jcmm.71322) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655224/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860383)</small>
 
 ---
 <a id="pmid-42861168"></a>
@@ -80,36 +147,6 @@ search:
 - 인체 혈청 검사에서 100.6%~102%의 회수율을 보여 복잡한 생체 시료 내에서도 우수한 정확도를 확인했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861634/) · [DOI](https://doi.org/10.1039/d6nh00197a) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861634)</small>
-
----
-<a id="pmid-42860317"></a>
-#### [인간 베타세포 역분화와 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42860317/)
-<small>Human β-Cell Dedifferentiation and Diabetes</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-01 · PubMed · J Diabetes · 중요도 0.54
-
-인간 췌장 베타세포(β-cell)의 역분화는 세포가 고유의 특성을 잃고 미성숙한 상태로 되돌아가는 현상으로, 베타세포 기능 부전의 주요 원인으로 꼽힙니다. 제2형 당뇨병 환자뿐만 아니라 당뇨가 없는 만성 췌장염 및 췌관선암(PDAC) 환자에서도 이러한 기능 저하 역분화 세포가 증가하는 것이 관찰되었습니다. 이는 베타세포 역분화가 췌장 질환에 따른 췌장원성 당뇨병의 주요 기전이자 고혈당 발생 이전의 초기 유발 요인임을 시사합니다. 연구진은 역분화를 예방하거나 역전시켜 베타세포 기능을 보존하는 치료 전략 개발의 가능성을 제시하고 있습니다.
-
-- 당뇨 병력이 없는 만성 췌장염 및 췌장암(췌관선암) 환자에서도 기능 장애를 동반한 역분화 베타세포의 증가가 확인되었습니다.
-- 베타세포의 역분화 비율은 당뇨 병력이 없는 대상자에서 HOMA-β 및 식후 2시간 C-펩타이드(2h-C Peptide) 수치와 반비례 관계를 보였습니다.
-- 베타세포 역분화는 고혈당이 나타나기 전부터 발생하는 베타세포 부전의 초기 촉발 요인으로 작용할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860317/) · [DOI](https://doi.org/10.1111/1753-0407.70280) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860317)</small>
-
----
-<a id="pmid-42860383"></a>
-#### [단일세포 멀티오믹스를 통해 밝혀진 췌관선암의 상피 리모델링 및 면역억제 미세환경 핵심 인자 OTUD7B](https://pubmed.ncbi.nlm.nih.gov/42860383/)
-<small>Single-Cell Multiomics Reveals That OTUD7B Is a Central Driver of Epithelial Remodelling and the Immunosuppressive Microenvironment in Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` · 2026-10-01 · PubMed · J Cell Mol Med · 중요도 0.51
-
-본 연구는 췌관선암(PAAD)의 치료 저항성과 악성도에 관여하는 탈유비퀴틴화 효소 OTUD7B의 역할을 단일세포 전사체 분석 및 단백질체학 기법으로 규명했습니다. 분석 결과, OTUD7B는 상피 세포의 악성 분화와 미토콘드리아 대사 재프로그래밍을 촉진하는 핵심 유전자로 확인되었습니다. 또한 OTUD7B 발현이 높을수록 M2 대식세포 및 조절 T세포(Treg) 침윤이 증가하여 면역억제성 종양 미세환경이 형성되었습니다. 결과적으로 OTUD7B의 과발현은 림프절 전이, 진행된 병기 및 불량한 전체 생존기간(OS)과 유의미하게 연관되어 있었습니다.
-
-- OTUD7B의 높은 발현은 췌관선암 환자의 림프절 전이, 진행된 암 병기 및 불량한 전체 생존기간(OS)과 밀접하게 연관되었습니다.
-- OTUD7B 결손 암세포 분석에서 미토콘드리아 산화적 인산화 및 활성산소(ROS) 대사 조절 경로의 광범위한 리모델링이 확인되었습니다.
-- OTUD7B 발현은 M2 대식세포 침윤과 CD4+FOXP3+ 조절 T세포(Treg)의 축적과 양의 상관관계를 보여 면역억제 환경을 유도하는 것으로 나타났습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860383/) · [DOI](https://doi.org/10.1111/jcmm.71322) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860383)</small>
 
 ---
 <a id="doi-10.64898-2026.10.08.757715"></a>
@@ -170,21 +207,6 @@ search:
 - GRB1은 PI3K 및 AKT 인산화를 억제하고 M2형 대식세포 표지자(CD206, CD163 등)를 감소시켜 환자 유래 오가노이드의 성장을 저해했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857277/) · [DOI](https://doi.org/10.1002/fsn3.72468) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650271/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857277)</small>
-
----
-<a id="pmid-42859340"></a>
-#### [공간 다중오믹스를 통해 밝혀낸 췌관선암의 예후 및 치료적 의의를 지닌 침습-결합조직형성 세포 군집](https://pubmed.ncbi.nlm.nih.gov/42859340/)
-<small>Spatial multi-omics uncovers an invasive-desmoplastic cellular community with prognostic and therapeutic implications in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-10 · PubMed · Adv Biotechnol (Singap) · 중요도 0.64
-
-단일세포 RNA 시퀀싱(scRNA-seq)과 공간 전사체학을 통합 분석하여 췌관선암의 침습 경계면에 위치하는 새로운 암 관련 섬유아세포인 IF-myCAF를 규명했습니다. 이 세포가 5.8배 풍부하게 존재하는 '침습-결합조직형성 세포 군집(ID-CC)'은 종양과 기질의 경계면에 위치하며 예후 불량과 독립적으로 연관되어 있었습니다. 연구진은 세포 간 신호 전달 축을 표적하기 위해 구조 기반 가상 스크리닝을 진행했습니다. 그 결과 conivaptan(코니밥탄), lonafarnib(로나파닙), rucaparib(루카파립) 등 5종의 다중 표적 약물 재창출 후보 물질을 발굴했습니다.
-
-- 단일세포 61,234개와 공간 전사체 30,430개 스팟을 분석하여 ACTA2, COL11A1 등을 발현하는 IF-myCAF 아형을 발견했습니다.
-- IF-myCAF가 5.8배 농축된 침습-결합조직형성 군집(ID-CC)의 유전자 특징은 TCGA 데이터에서 불량한 예후와 독립적으로 관련되었습니다.
-- 세포 간 신호 전달 축을 억제하기 위한 가상 스크리닝에서 conivaptan, lonafarnib, rucaparib 등 5개의 후보 약물이 도출되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42859340/) · [DOI](https://doi.org/10.1007/s44307-026-00141-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42859340)</small>
 
 ---
 <a id="pmid-42858257"></a>

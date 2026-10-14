@@ -1,0 +1,112 @@
+{
+ "abstract": "This clinical trial tests the safety and feasibility of endoscopic ultrasound-guided pulsed electric field ablation for the treatment of pancreatic neoplasms. Pancreatic cancer is a fatal disease that is difficult to diagnose at an early stage. The approach for pancreatic neoplasm treatment has changed and the recognition of minimally invasive treatments is growing. One such minimally invasive treatment, known as endoscopic ultrasound-guided pulsed electric field ablation, offers an alternative to surgery for managing certain precancerous or high-risk pancreatic cysts. The Aliya Pulsed Electric Field system uses brief, strong bursts of electricity, delivered through a thin needle, to destroy targeted tissue, such as tumors, without using heat. These electric pulses damage only the cells inside the treatment zone, leaving the healthy tissues and important nearby structures unharmed. This makes the treatment safer and less likely to cause harm to sensitive areas around the tumor. Endoscopic ultrasound-guided pulsed electric field ablation may be safe and feasible for the treatment of pancreatic neoplasms.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate the safety of endoscopic ultrasound (EUS)-guided pulsed electric field (PEF) ablation for the treatment of pancreatic neoplasms, measured by the rate and severity of adverse events (graded according to American Gastrointestinal Endoscopy Event \\[AGREE\\] classification and ATLANTA classification for pancreatitis).\n\nSECONDARY OBJECTIVE:\n\nI. To determine the feasibility and technical success of using an endoscopic platform to deliver PEF energy for focal ablation of pancreatic neoplasms.\n\nOUTLINE:\n\nPatients undergo standard of care endoscopic ultrasound-guided fine needle aspiration followed by endoscopic ultrasound-guided pulsed electric field ablation on day 0.\n\nAfter completion of study treatment, patients are followed up at 3 and 6 months and then in years 1, 2 and 3.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07619417",
+ "importance": 0.64,
+ "key_points_ko": [
+  "수술 위험이 높거나 비수술적 치료를 원하는 췌장 낭성 병변(직경 2cm 이상) 및 WHO 1등급 신경내분비종양(직경 1cm 이상) 환자 12명을 모집합니다.",
+  "열 손상 없이 표적 세포만 파괴하는 펄스 전기장(PEF) 시스템의 내시경적 전달 및 기술적 실현 가능성을 평가합니다.",
+  "주요 목표는 시술 후 췌장염 등 이상반응의 발생률과 중증도를 측정하여 안전성을 확인하는 것입니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07619417"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-06-02",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ohio State University Comprehensive Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07619417"
+ },
+ "summary_ko": "이 임상시험은 췌장 낭성 병변(예: 췌관내 유두상 점액종양)이나 WHO 1등급 신경내분비종양 환자를 대상으로 내시경 초음파(EUS) 유도하 펄스 전기장(PEF) 소작술의 안전성과 시술 성공 가능성을 평가합니다. 펄스 전기장 소작술은 열을 쓰지 않고 미세 바늘을 통해 짧고 강한 전기 자극을 주어 주변 정상 조직 손상을 줄이면서 종양 부위만 선택적으로 파괴하는 최소 침습 치료법입니다. 고령, 간경변, 심폐 질환 등으로 수술이 어렵거나 비수술적 치료를 원하는 환자 총 12명을 대상으로 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Endoscopic Ultrasound-Guided Pulsed Electric Field Ablation for the Treatment of Pancreatic Neoplasms",
+ "title_ko": "췌장 신생물 치료를 위한 내시경 초음파 유도하 펄스 전기장 소작술의 안전성 및 실현 가능성 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Neoplasm",
+   "Pancreatic Neuroendocrine Tumor"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상\n* EUS 세침흡인검사(FNA)로 확인된 췌장 낭성 병변(IPMN 등, 직경 2cm 이상) 또는 WHO 1등급 신경내분비종양(직경 1cm 이상)\n* 수술이 부적합하거나 비수술 치료를 원하는 환자(간경변, 75세 이상 고령, 고도 비만, 심폐 질환, 간담췌외과 상담 후 비수술 선호 등)\n* 예상 수명이 최소 1년 이상인 환자\n* 가임기 여성의 경우 시술 당일 임신 검사 음성\n\n제외 기준:\n* 연구 참여가 안전하지 않다고 판단되는 중증 또는 조절되지 않는 전신 질환\n* 임신 또는 수유 중인 여성\n* 수술 전 평가에서 전신마취 금기인 환자 및 심각한 임상적 쇠약 상태",
+  "eligibility_text": "Inclusion Criteria:\n\n* Age \\> 18 years\n* A diagnosis of a pancreatic neoplasm confirmed by EUS-fine needle aspiration (FNA) - (a) pancreatic cystic lesion such as intraductal papillary-mucinous neoplasm (IPMN), (b) World Health Organization (WHO) grade I neuroendocrine tumor\n* Lesion size estimation by computed tomography (CT) or magnetic resonance imaging (MRI)/magnetic resonance cholangiopancreatography (MRCP) or EUS: (a) pancreatic cystic lesion such as IPMN - at least 2 cm in diameter. (b) WHO grade I neuroendocrine tumor - at least 1 cm in diameter\n* The patient is not a surgical candidate. Common clinical scenarios include -\n\n  * Cirrhosis of the liver (common clinical scenario)\n  * Advanced (≥ 75 years) age (common clinical scenario)\n  * Morbid obesity\n  * Significant cardiorespiratory comorbidity\n  * Patient's choice (patient elects for non-surgical management)\n  * Other significant comorbid conditions that impose prohibitive surgical risks\n  * The patient prefers non-surgical management after consultation with hepato-pancreato-biliary (HPB) surgery\n* For pancreatic neuroendocrine tumor (PNET) and all pancreatic cystic lesions (PCLs): Estimated life expectancy of at least 1 year\n* Capable of giving written informed consent or has a legally authorized representative (LAR) to consent for them\n* Women of childbearing potential must have a negative pregnancy test (serum/urine) on the day of treatment. Pregnancy testing is the routine standard of care practice in the endoscopy laboratory for all patients undergoing endoscopy and sedation for endoscopy\n* The patient is not a surgical candidate and has had prior attempts at ablation of the PCN by EUS-RFA (Ohio State University \\[OSU\\] Institutional Review Board \\[IRB\\] protocol: 2023C0004)\n\nExclusion Criteria:\n\n* Any evidence of severe or uncontrolled systemic diseases, or laboratory findings that, in the investigator's opinion, make it unsafe for the patient to participate in the study study\n* Pregnancy or breast-feeding\n* Clinical frailty scale\n* Contraindication to general anesthesia after review by OSU Preoperative Assessment Clinic (OPAC)",
+  "enrollment": 12,
+  "has_results": false,
+  "interventions": [
+   "Clinical Intervention or Procedure",
+   "Electronic Health Record Review",
+   "Endoscopic Ultrasound-Guided Fine-Needle Aspiration of the Pancreas",
+   "PEF-ablation of pancreatic cyst"
+  ],
+  "last_update_posted": "2026-10-13",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "전신마취가 불가능한 환자",
+    "임신 또는 수유 중인 환자",
+    "중증의 조절되지 않는 전신 질환 환자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "수술이 어렵거나 비수술 치료를 원하는 췌장 낭성 병변(2cm 이상) 또는 WHO 1등급 신경내분비종양(1cm 이상) 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced",
+    "resectable"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07619417",
+  "phase": "NA",
+  "primary_completion_date": "2028-12-31",
+  "sex": "ALL",
+  "sponsor": "Ohio State University Comprehensive Cancer Center",
+  "start_date": "2027-10-01",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

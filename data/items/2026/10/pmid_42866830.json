@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Internal pancreatic duct stents are commonly used during pancreaticojejunostomy (PJ) reconstruction following pancreaticoduodenectomy to facilitate drainage and potentially reduce postoperative pancreatic fistula (POPF). These stents are typically expected to migrate distally and pass without consequence. However, rare complications related to stent migration may occur and can present with atypical clinical and biochemical findings, creating diagnostic challenges.\nCASE DESCRIPTION: A 63-year-old woman underwent pancreaticoduodenectomy for pancreatic adenocarcinoma with placement of an internal PJ stent. Her initial postoperative course was uneventful, with normal drain amylase levels. On postoperative day (POD) eight, she presented with fever, leukocytosis, and abdominal pain. Computed tomography (CT) demonstrated peripancreatic fluid and gas collections suspicious for POPF; however, drain amylase levels remained low, creating diagnostic uncertainty. Despite initial nonoperative management, the patient's clinical status deteriorated, prompting exploratory laparotomy. Intraoperatively, the PJ anastomosis was intact, but diffuse enteric contamination was present. Intraoperative ultrasound revealed transmural migration of the pancreatic duct stent through the jejunal wall into the mesentery, resulting in a concealed perforation with extraluminal leakage of enteric contents. The stent was retrieved via controlled enterotomy, the defect was repaired, and the abdomen was irrigated. The patient subsequently improved with resolution of sepsis and was discharged in stable condition.\nCONCLUSIONS: Transmural migration of an internal PJ stent is a rare but serious complication that may present with intra-abdominal sepsis in the absence of elevated drain amylase levels. This case highlights an important diagnostic pitfall, as enteric contamination rather than pancreatic leakage may predominate. In patients with unexplained postoperative deterioration following pancreaticoduodenectomy, particularly when imaging is equivocal and biochemical markers are discordant, stent-related complications should be considered. Early recognition and prompt surgical intervention are critical for optimal outcomes.",
+ "authors": [
+  "Abi Mosleh K",
+  "Saleem IM",
+  "Burns C",
+  "Orsi C",
+  "Ismael H"
+ ],
+ "categories": [
+  "surgery",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866830",
+ "importance": 0.54,
+ "key_points_ko": [
+  "63세 여성 환자가 췌십이지장절제술 후 내부 췌장공장문합술 스텐트의 장벽 통과 이동(transmural migration)으로 인한 합병증을 겪었습니다.",
+  "수술 후 8일째에 발열, 백혈구 증가증, 복통과 함께 복강 내 패혈증이 발생했습니다.",
+  "배액관 아밀라아제 수치가 정상이었음에도 불구하고 탐색적 개복술을 통해 스텐트에 의한 장 천공과 장 내용물 누출이 확인되었습니다.",
+  "스텐트 제거 및 수술적 치료 후 환자의 패혈증이 해결되고 안정된 상태로 퇴원했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.21037/gs-2026-0237",
+  "nct": [],
+  "pmcid": "PMC13657713",
+  "pmid": "42866830"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-08-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gland Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866830/"
+ },
+ "summary_ko": "췌장선암(pancreatic adenocarcinoma)으로 췌십이지장절제술(pancreaticoduodenectomy)을 받고 내부 췌장공장문합술(pancreaticojejunostomy, PJ) 스텐트를 삽입한 63세 여성 환자의 증례입니다. 수술 후 8일째에 발열, 백혈구 증가증, 복통이 발생하여 복부 컴퓨터단층촬영(CT)에서 췌장 주위 체액 및 가스 저류가 관찰되었습니다. 초음파 검사를 통해 췌관 스텐트가 공장 벽을 뚫고 장간막으로 이동하여 장 내용물이 유출되는 천공이 확인되었습니다. 스텐트 제거 및 결손 부위 수술 후 환자는 패혈증이 호전되어 안정된 상태로 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Transmural migration of an internal pancreaticojejunostomy stent causing delayed intra-abdominal sepsis: a case report",
+ "title_ko": "췌십이지장절제술 후 췌장공장문합술 내부 스텐트의 장벽 통과 이동으로 인한 지연성 복강 내 패혈증: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

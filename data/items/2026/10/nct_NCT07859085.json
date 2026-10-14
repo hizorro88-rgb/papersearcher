@@ -22,12 +22,11 @@
  "id": "nct:NCT07859085",
  "importance": 0.81,
  "key_points_ko": [
-  "KRAS G12D 변이가 확인된 진행성 또는 전이성 췌관선암(PDAC) 환자를 대상으로 합니다.",
-  "GDC-7035의 단독 요법 및 항암제 병용 요법의 안전성과 활성을 평가합니다.",
-  "연구는 안전성 확인 기간에 이어 무작위 배정 및 확대 기간으로 진행됩니다.",
-  "총 목표 참여 인원은 388명입니다."
+  "대상 질환은 KRAS G12D 변이가 있는 절제 불가능한 진행성 또는 전이성 췌장관선암 및 대장암입니다.",
+  "중재 치료로 GDC-7035, Panitumumab, mFOLFOX6, FOLFIRI, mFOLFIRINOX, Gem-nabP가 사용됩니다.",
+  "전체 목표 환자 수는 388명입니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-14",
  "links": {
   "doi": null,
   "nct": [
@@ -50,13 +49,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07859085"
  },
- "summary_ko": "이 연구는 KRAS G12D 변이가 확인된 전이성 췌관선암(PDAC) 또는 대장암 환자를 대상으로 GDC-7035 단독 및 다른 항암 치료와의 병용 투여 시 안전성을 평가하기 위한 임상 1상 시험입니다. 연구는 안전성 도출 기간(safety run-in period)과 무작위 배정/확대 기간(randomized/expansion period)으로 구성됩니다. 대상 질환은 췌관선암 등을 포함하며 목표 인원은 388명입니다.",
+ "summary_ko": "이 연구는 KRAS G12D 변이가 확인된 진행성 또는 전이성 췌장관선암(PDAC) 및 대장암 환자를 대상으로 GDC-7035 단독 및 병용 요법의 안전성을 평가하기 위한 임상시험입니다. 연구는 안전성 검토 기간(safety run-in)과 무작위 배정 및 확장 기간으로 구성됩니다. 목표 인원은 388명이며 Genentech, Inc.에서 스폰서로 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS G12D-mutation"
  ],
  "title": "A Study to Evaluate the Safety and Activity of GDC-7035 With Anti-Cancer Therapies in Participants With KRAS G12D-Mutated Unresectable Advanced or Metastatic Colorectal Cancer or Pancreatic Ductal Adenocarcinoma",
- "title_ko": "KRAS G12D 변이 진행성·전이성 췌장암 및 대장암 환자에서 GDC-7035와 항암 치료 병용의 안전성 및 활성을 평가하는 연구",
+ "title_ko": "KRAS G12D 변이 진행성 또는 전이성 췌장관선암 및 대장암 환자에서 GDC-7035와 항암 치료의 안전성 및 활성을 평가하는 연구",
  "trial": {
   "conditions": [
    "Colorectal Neoplasms",
@@ -74,7 +73,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 중앙 실험실 또는 이전 지역 실험실 검사를 통해 Kirsten rat sarcoma viral oncogene homolog (KRAS) G12D 변이의 존재가 확인된 환자\n- 프로토콜에 명시된 피임 요건을 준수하기로 동의한 환자\n\n제외 기준:\n- 흡수장애 증후군 또는 장내 흡수를 방해하는 기타 상태\n- 알려졌으나 치료되지 않았거나 활성 상태인 중추신경계(CNS) 전이\n- 임상적으로 유의미한 간 질환이 알려진 환자\n- 임상적으로 유의미한 심혈관 기능 장애 병력이 있거나 현재 있는 환자",
+  "eligibility_ko": "선정 기준: - 중앙 실험실 또는 이전 지역 실험실 검사를 통해 KRAS G12D 유전자 변이 존재가 확정된 자 - 프로토콜에 기술된 피임 요구사항을 준수하기로 동의한 자. 제외 기준: - 흡수장애 증후군 또는 장관 흡수를 방해할 수 있는 기타 질환 - 알려졌거나 치료되지 않은, 또는 활동성 중추신경계(CNS) 전이 - 임상적으로 유의한 간 질환 병력이 있거나 현재 앓고 있는 자 - 임상적으로 유의한 심혈관 기능 장애 병력이 있거나 현재 앓고 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Confirmed presence of the Kirsten rat sarcoma viral oncogene homolog (KRAS) G12D mutation as documented through central laboratory testing or prior local laboratory testing\n* Agreement to adhere to the contraception requirements described in the protocol for participants of childbearing potential and participants who produce sperm\n\nExclusion Criteria:\n\n* Malabsorption syndrome or other conditions that would interfere with enteral absorption\n* Known and untreated, or active central nervous system (CNS) metastases\n* Known clinically significant liver disease\n* History of or active clinically significant cardiovascular dysfunction\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
   "enrollment": 388,
   "has_results": false,
@@ -86,7 +85,7 @@
    "mFOLFIRINOX",
    "Gem-nabP"
   ],
-  "last_update_posted": "2026-10-05",
+  "last_update_posted": "2026-10-13",
   "location_countries": [],
   "locations_kr": [],
   "match": {
@@ -96,14 +95,14 @@
    ],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "알려졌으나 치료되지 않았거나 활성 상태인 중추신경계(CNS) 전이",
-    "임상적으로 유의미한 간 질환",
-    "심혈관 기능 장애 병력 또는 활성 상태"
+    "치료되지 않거나 활동성인 뇌전이",
+    "임상적으로 유의한 간 질환",
+    "임상적으로 유의한 심혈관 질환"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "KRAS G12D 변이가 있는 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "KRAS G12D 변이가 있는 절제 불가능한 진행성 또는 전이성 췌장관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

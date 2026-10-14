@@ -1,39 +1,39 @@
-<div class="ps-stats"><div class="ps-stat"><b>521</b><span>누적 수집<br><small>논문·소식 111 · 임상시험 410</small></span></div><div class="ps-stat"><b>+12</b><span>오늘 신규<br><small>갱신 0건</small></span></div><div class="ps-stat"><b>26</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>544</b><span>누적 수집<br><small>논문·소식 124 · 임상시험 420</small></span></div><div class="ps-stat"><b>+23</b><span>오늘 신규<br><small>갱신 19건</small></span></div><div class="ps-stat"><b>26</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-13](_generated/daily/2026/10/13.md)
+최근 수집일: [2026-10-14](_generated/daily/2026/10/14.md)
 
 <a id="nct-nct07490301"></a>
-#### [1차 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
+#### [1차 치료 전이성 췌관선암 성인 환자를 대상으로 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
 <small>A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-24 · ClinicalTrials.gov · AbbVie · 중요도 1.00
 
 **NCT07490301** · 2상/3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07490301.md)
 
-이 임상시험은 이전에 전신 치료를 받지 않은 성인 전이성 췌관선암(PDAC) 환자를 대상으로 진행됩니다. 신약 후보물질인 telisotuzumab adizutecan(텔리소투주맙 아디주테칸)과 FOLFOX 병용요법을 투여하고, 이를 기존 표준 요법(FOLFIRINOX)과 비교하여 안전성과 유효성을 평가합니다. 임상시험은 적정 용량을 탐색하는 2상과 표준 치료 대비 효과를 본격 비교하는 3상으로 순차 진행됩니다. 전 세계 약 200개 기관에서 약 900명의 환자를 모집하며 국내에서도 1개 기관이 참여합니다.
+이전에 치료받지 않은 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸(telisotuzumab adizutecan)과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험입니다. 2상 단계에서는 용량 증량 및 최적화를 통해 FOLFOX와의 적정 용량을 찾고 표준 치료군과 예비 비교합니다. 3상 단계에서는 결정된 최적 용량의 병용요법군과 표준 치료군(FOLFIRINOX 성분)으로 무작위 배정하여 치료 효과와 이상반응을 본격적으로 비교합니다. 전 세계 약 200개 기관에서 총 900명의 환자를 모집할 예정입니다.
 
-- 이전에 전신 항암치료를 받지 않은 1차 전이성 췌장선암 환자 약 900명을 대상으로 하는 글로벌 2/3상 임상시험입니다.
-- 신약 후보물질 telisotuzumab adizutecan과 FOLFOX 병용요법을 기존 표준 치료(FOLFIRINOX)와 비교합니다.
-- ECOG 수행능력 평가 점수가 0 또는 1점이고 측정 가능한 병변이 있는 환자가 참여할 수 있습니다.
+- 1차 치료 단계의 전이성 췌관선암 환자 약 900명을 대상으로 하는 글로벌 2/3상 임상시험입니다.
+- 신약 후보물질 텔리소투주맙 아디주테칸과 FOLFOX 병용요법을 기존 표준 치료와 비교합니다.
+- 국내 1개 기관이 참여하여 환자를 모집하고 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
-<a id="nct-nct07491445"></a>
-#### [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](https://clinicaltrials.gov/study/NCT07491445)
-<small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
+<a id="nct-nct07683221"></a>
+#### [국소 진행성 췌장암 환자 대상 체부정위 방사선치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀 및 젬시타빈 병용요법 2상 임상시험](https://clinicaltrials.gov/study/NCT07683221)
+<small>SBRT Followed by Ipilimumab N01, Sintilimab, Nab-Paclitaxel and Gemcitabine for Locally Advanced Pancreatic Cancer</small>
 
-`임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-07-06 · ClinicalTrials.gov · Shandong Cancer Hospital and Institute · 중요도 1.00
 
-**NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
+**NCT07683221** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07683221.md)
 
-이 임상시험은 전이성 췌관선암 환자의 1차 치료로 새로운 RAS 저해제인 daraxonrasib(다락소나십)의 효과와 안전성을 평가하기 위한 글로벌 무작위 배정 3상 연구입니다. 참여 환자는 다락소나십 단독 투여군, 다락소나십과 젬시타빈(gemcitabine) 및 납-파클리탁셀(nab-paclitaxel) 병용 투여군, 또는 표준 요법인 젬시타빈과 납-파클리탁셀 투여군 중 하나에 무작위로 배정됩니다. 연구진은 새로운 치료법이 기존 표준 항암화학요법 대비 무진행 생존기간(PFS) 및 전체 생존기간(OS)을 개선하는지 비교 평가합니다.
+이 임상시험은 원격 전이가 없는 국소 진행성 절제 불가능 췌관선암 환자 47명을 대상으로 진행되는 2상 단일군 탐색적 연구입니다. 환자들은 먼저 체부정위 방사선치료(SBRT)를 5~10 Gy 용량으로 총 5회 분할 조사받습니다. 방사선치료 완료 1주일 후부터 이필리무맙 N01(ipilimumab N01), 신틸리맙(sintilimab), 냅-파클리탁셀(nab-paclitaxel), 젬시타빈(gemcitabine) 병용 전신 요법을 순차적으로 투여받게 됩니다. 연구의 주요 목적은 무진행 생존기간(PFS)을 바탕으로 복합 치료의 유효성과 안전성을 평가하는 것입니다.
 
-- 전이성 췌장선암 환자 약 900명을 대상으로 진행되는 다국가 임상 3상 시험입니다.
-- 표준 1차 요법(젬시타빈+납-파클리탁셀)과 다락소나십 단독 또는 병용요법의 치료 성적을 직접 비교합니다.
-- 국내 6개 기관이 참여하여 환자를 모집하고 있습니다.
+- 국소 진행성 췌장암 환자 47명을 목표로 SBRT 방사선치료 후 면역항암제 2종과 세포독성 항암화학요법(AG)을 병용 투여하는 2상 시험입니다.
+- SBRT(5~10 Gy, 5회) 종료 1주일 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀, 젬시타빈을 투약합니다.
+- 1차 유효성 평가지표는 무진행 생존기간(PFS)이며, 전체 생존기간(OS), 질병통제율(DCR), 객관적 반응률(ORR) 및 안전성을 2차 지표로 평가합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07683221) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07683221)</small>
 
 ---
 <a id="pmid-42837079"></a>

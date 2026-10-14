@@ -1,0 +1,53 @@
+{
+ "abstract": null,
+ "authors": [],
+ "categories": [
+  "drug",
+  "industry",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "press",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42864489",
+ "importance": 0.53,
+ "key_points_ko": [
+  "레볼루션 메디슨스(RevMed)의 췌장암 신약에 관한 뉴스 기사입니다.",
+  "상세한 약물 정보 및 임상 시험 수치는 제공된 텍스트에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1038/s41587-026-03363-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42864489"
+ },
+ "pub_types": [
+  "News"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Biotechnol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42864489/"
+ },
+ "summary_ko": "네이처 바이오테크놀로지(Nat Biotechnol)에 게재된 레볼루션 메디슨스(RevMed)의 췌장암 약물 관련 뉴스 소식입니다. 제공된 자료에 상세 본문이 포함되어 있지 않아 구체적인 연구 내용과 치료 성적은 초록에 명시되지 않았습니다. 추가적인 임상 결과 확인을 위해서는 원문 확인이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "RevMed's pancreatic cancer drug first",
+ "title_ko": "레볼루션 메디슨스(RevMed)의 첫 췌장암 치료제",
+ "trial": null,
+ "type": "paper"
+}

@@ -29,8 +29,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (5)
 
+<a id="pmid-42866548"></a>
+#### [정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42866548/)
+<small>Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review</small>
+
+`논문` `종설` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-10-08 · PubMed · Int Med Case Rep J · 중요도 0.72
+
+결핵 유행 지역에서도 극히 드문 질환인 췌장 결핵(Pancreatic TB)이 임상적 및 영상의학적으로 췌장 악성 종양과 매우 유사하게 나타난 증례 보고입니다. 34세 아프가니스탄 남성이 췌장 머리 부분에 57×30 mm 크기의 종괴가 발견되어 췌장암 의심 하에 휘플 수술(Whipple resection)을 받았습니다. 수술 후 조직 검사에서 결핵균(Mycobacterium tuberculosis)에 의한 건락성 육아종성 염증으로 최종 진단되었으며 항결핵제 치료가 시작되었습니다. 환자는 10개월간의 추적 관찰 동안 재발 없이 안정적인 상태를 유지했습니다.
+
+- 복부 CT에서 췌장 머리에 57×30 mm 크기의 다낭성 저음영 종괴와 경미한 CA19-9 상승을 보여 수술 전 췌장암으로 강하게 의심되었습니다.
+- 휘플 수술 후 시행된 조직 검사 및 질-닐슨(Ziehl-Neelsen) 염색을 통해 결핵균 양성 췌장 결핵으로 확진되었습니다.
+- 결핵 유행 지역 출신의 젊은 환자에서 췌장 종괴가 관찰될 경우 내시경 초음파 유도하 세침흡인/생검(EUS-FNA/FNB) 등을 통해 불필요한 침습적 수술을 피할 수 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866548/) · [DOI](https://doi.org/10.2147/IMCRJ.S638587) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13656929/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866548)</small>
+
+---
 <a id="pmid-42834181"></a>
 #### [최소침습 췌십이지장절제술의 도입 및 결과에 대한 보정 추세 분석: 미국에서 지난 10년간의 최신 데이터](https://pubmed.ncbi.nlm.nih.gov/42834181/)
 <small>Adjusted trend analysis in the adoption and outcomes of minimally invasive pancreaticoduodenectomy approaches: over a decade of contemporary U.S. data</small>
@@ -77,5 +92,21 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42866830"></a>
+#### [췌십이지장절제술 후 췌장공장문합술 내부 스텐트의 장벽 통과 이동으로 인한 지연성 복강 내 패혈증: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866830/)
+<small>Transmural migration of an internal pancreaticojejunostomy stent causing delayed intra-abdominal sepsis: a case report</small>
+
+`논문` `증례` `수술` `지지요법·삶의질` `진단·조기발견` · 2026-08-11 · PubMed · Gland Surg · 중요도 0.54
+
+췌장선암(pancreatic adenocarcinoma)으로 췌십이지장절제술(pancreaticoduodenectomy)을 받고 내부 췌장공장문합술(pancreaticojejunostomy, PJ) 스텐트를 삽입한 63세 여성 환자의 증례입니다. 수술 후 8일째에 발열, 백혈구 증가증, 복통이 발생하여 복부 컴퓨터단층촬영(CT)에서 췌장 주위 체액 및 가스 저류가 관찰되었습니다. 초음파 검사를 통해 췌관 스텐트가 공장 벽을 뚫고 장간막으로 이동하여 장 내용물이 유출되는 천공이 확인되었습니다. 스텐트 제거 및 결손 부위 수술 후 환자는 패혈증이 호전되어 안정된 상태로 퇴원했습니다.
+
+- 63세 여성 환자가 췌십이지장절제술 후 내부 췌장공장문합술 스텐트의 장벽 통과 이동(transmural migration)으로 인한 합병증을 겪었습니다.
+- 수술 후 8일째에 발열, 백혈구 증가증, 복통과 함께 복강 내 패혈증이 발생했습니다.
+- 배액관 아밀라아제 수치가 정상이었음에도 불구하고 탐색적 개복술을 통해 스텐트에 의한 장 천공과 장 내용물 누출이 확인되었습니다.
+- 스텐트 제거 및 수술적 치료 후 환자의 패혈증이 해결되고 안정된 상태로 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866830/) · [DOI](https://doi.org/10.21037/gs-2026-0237) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657713/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866830)</small>
 
 ---

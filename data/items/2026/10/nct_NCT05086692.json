@@ -1,5 +1,5 @@
 {
- "abstract": "This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion study to evaluate safety and tolerability, PK, pharmacodynamic, and early signal of anti-tumor activity of MDNA11 alone or in combination with a checkpoint inhibitor in patients with advanced solid tumors.\n\nThe study drug, MDNA11, long-acting \"beta-only\" recombinant interleukin-2 (rIL-2). MDNA11 specifically engineered to overcome the shortcomings of rhIL-2 (aldesleukin) by preferentially activating immune effector cells (CD8+ T- and NK cells) responsible for killing cancer cells, with minimal or no stimulation of immunosuppressive Tregs. It is designed to potentially enhance host immune response and fusion to albumin increases the half-life further avoiding frequent dosing required with rhIL-2.\n\nThe study will be conducted at up to 30 clinical sites following regulatory authority and institutional review board / independent ethics committee (IRB/ IEC) approval and completion of informed consent. The study will be conducted in multiple parts:\n\n* Monotherapy (MDNA11 alone) dose escalation\n* Monotherapy (MDNA11 alone) dose expansion in select tumor types\n* Combination (MDNA11 + pembrolizumab) dose escalation\n* Combination (MDNA11 + pembrolizumab) dose expansion in select tumor types\n\nApproximately 115 patients will be enrolled.\n\nAfter commencing treatment (first exposure of MDNA11 alone or MDNA11 + pembrolizumab), tumor assessment by CT/MRI will be performed every 8 weeks ± 1 week until immune confirmed progressive disease (\"iCPD\") by iRECIST, discontinuation of study drug(s), withdrawal of consent or loss to follow-up. Treatment beyond progression may be permitted if criteria are met. Patients can withdraw from participation at any time.",
+ "abstract": "This is a Phase 1/2, multi-center, open-label, dose-escalation and expansion study to evaluate safety and tolerability, PK, pharmacodynamic, and early signal of anti-tumor activity of MDNA11 alone or in combination with a checkpoint inhibitor in patients with advanced solid tumors.\n\nThe study drug, MDNA11, long-acting \"beta-only\" recombinant interleukin-2 (rIL-2). MDNA11 specifically engineered to overcome the shortcomings of rhIL-2 (aldesleukin) by preferentially activating immune effector cells (CD8+ T- and NK cells) responsible for killing cancer cells, with minimal or no stimulation of immunosuppressive Tregs. It is designed to potentially enhance host immune response and fusion to albumin increases the half-life further avoiding frequent dosing required with rhIL-2.\n\nThe study will be conducted at up to 30 clinical sites following regulatory authority and institutional review board / independent ethics committee (IRB/ IEC) approval and completion of informed consent. The study will be conducted in multiple parts:\n\n* Monotherapy (MDNA11 alone) dose escalation\n* Monotherapy (MDNA11 alone) dose expansion in select tumor types\n* Combination (MDNA11 + pembrolizumab) dose escalation\n* Combination (MDNA11 + pembrolizumab) dose expansion in select tumor types\n\nApproximately 160 patients will be enrolled.\n\nAfter commencing treatment (first exposure of MDNA11 alone or MDNA11 + pembrolizumab), tumor assessment by CT/MRI will be performed every 8 weeks ± 1 week until immune confirmed progressive disease (\"iCPD\") by iRECIST, discontinuation of study drug(s), withdrawal of consent or loss to follow-up. Treatment beyond progression may be permitted if criteria are met. Patients can withdraw from participation at any time.",
  "authors": [],
  "categories": [
   "trial",
@@ -18,13 +18,13 @@
   }
  ],
  "id": "nct:NCT05086692",
- "importance": 0.75,
+ "importance": 0.85,
  "key_points_ko": [
-  "연구 대상은 진행성 고형암 환자 약 115명입니다.",
-  "중재 치료는 MDNA11 단독 또는 pembrolizumab 병용 요법입니다.",
-  "종양 평가는 CT 또는 MRI를 이용하여 8주 간격으로 진행됩니다."
+  "진행성 고형암 환자를 대상으로 MDNA11 단독 및 펨브롤리주맙(pembrolizumab) 병용 요법을 평가합니다.",
+  "총 목표 인원은 약 160명이며, 국내 4곳의 임상 기관이 참여합니다.",
+  "치료 후 CT 또는 MRI를 통한 종양 평가는 iRECIST 기준에 따라 8주마다 진행됩니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-14",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05086692"
  },
- "summary_ko": "본 임상시험은 진행성 고형암 환자를 대상으로 지속형 베타 전용 인터루킨-2(IL-2) 면역치료제인 MDNA11 단독 또는 펨브롤리주맙(pembrolizumab)과의 병용 요법의 안전성, 내뢰성, 약동학 및 항종양 활성을 평가합니다. 연구는 용량 맹검 증량 및 확장 단계로 진행되며 약 115명의 환자를 대상으로 합니다. 치료 시작 후 CT 또는 MRI를 통해 8주마다 종양 평가를 수행합니다.",
+ "summary_ko": "본 연구는 진행성 고형암 환자를 대상으로 지속형 베타 전용 재조합 인터루킨-2(rIL-2)인 MDNA11의 단독 투여 또는 면역관문억제제(pembrolizumab)와의 병용 투여 시 안전성, 내약성, 약동학 및 항종양 효과의 초기 신호를 평가하는 1/2상 다기관 임상시험입니다. 연구는 용량 증량 및 적응증별 용량 확장 단계로 나누어 진행됩니다. 총 목표 환자 수는 약 160명이며, 국내 4곳의 기관이 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "IL-2",
@@ -62,7 +62,7 @@
   "GEJ"
  ],
  "title": "A Beta-only IL-2 ImmunoTherapY Study",
- "title_ko": "진행성 고형암 환자를 위한 MDNA11 단독 또는 pembrolizumab 병용 임상시험",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MDNA11 단독 요법 및 펨브롤리주맙 병용 요법의 1/2상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Solid Tumor",
@@ -115,15 +115,15 @@
     "phone": "267-476-2313"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상\n- ECOG 수행능력 0~1\n- 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 고형암\n- 적절한 장기 기능 보유\n- RECIST v1.1 기준에 따른 측정 가능 병변 존재\n- 예상 여명 12주 이상\n\n제외 기준:\n- 치료 시작 전 4주 이내의 전신 항암 치료 또는 임상시험용 의약품 투여\n- 활동성 중추신경계(CNS) 전이 및/또는 수막 암종증\n- 최근 3년 이내의 다른 활동성 악성 종양\n- 7일 이내에 프레드니손(prednisone) 일일 10mg 초과 용량 또는 기타 면역억제제 치료가 필요한 상태\n- 임상적으로 유의미한 활동성 자가면역질환",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 동부종양학협력그룹(ECOG) 수행능력 상태 0~1\n- 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 고형암\n- 적절한 장기 기능 보유\n- RECIST v1.1 기준에 따른 측정 가능한 병변 존재\n- 기대여명 12주 이상\n\n제외 기준:\n- 치료 시작 전 4주 이내의 전신 항암 치료 또는 임상시험용 의약품 투여\n- 알려진 활성 중추신경계(CNS) 전이 및/또는 수막 암종증\n- 최근 3년 이내의 다른 활성 악성 종양 (완치 가능한 암 제외)\n- 7일 이내에 프레드니손 등가 용량으로 일일 10mg을 초과하는 장기 전신 코르티코스테로이드 또는 면역억제제 치료 필요 조건\n- 임상적으로 유의미한 자가면역질환 또는 B형/C형 간염 바이러스 감염",
   "eligibility_text": "Key Inclusion Criteria:\n\n1. Aged at least 18 years (inclusive at the time of informed consent).\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1.\n3. Must be able and willing to provide written informed consent prior to start of any study procedures and assessments and must be willing to comply with all study procedures.\n4. Histologically or cytologically confirmed locally advanced or metastatic solid tumor (see tumor types listed under conditions)\n5. Demonstrated adequate organ function\n6. Measurable disease as per Response Evaluation Criteria in Solid Tumors, (RECIST v1.1) and documented by CT and/or MRI.\n7. Life expectancy of ≥ 12 weeks.\n8. Women of childbearing potential (WOCBP) must have a negative pregnancy test at screening and within 72 hours before the first dose of study drug(s). Women must not be breastfeeding.\n9. Agree to use highly effective contraception methods. WOCBP must agree to use highly effective birth control.\n\nKey Exclusion Criteria:\n\n1. Last administration of prior antitumor therapy:\n\n   * Prior systemic anti-cancer therapy including investigational agents within 4 weeks (could consider shorter interval for kinase inhibitors or other short half-life drugs) prior to start of treatment.\n   * Prior radiotherapy within 2 weeks prior to start of treatment or has had a history of radiation pneumonitis. A 1-week washout is required for palliative radiation (\\<2 weeks of radiotherapy) to non-CNS disease.\n   * Radiation therapy to the lung that is \\> 30Gy within 6 months prior to start of treatment.\n   * Currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to start of treatment. Concomitant participation in an observational study must be discussed on a case-by-case basis with the MM for approval.\n2. Has known active CNS metastases and/or carcinomatous meningitis. Patients with previously treated brain metastases may participate provided they are radiologically stable, i.e., without evidence of progression for at least 4 weeks by repeat imaging (note that the repeat imaging should be performed during study screening), clinically stable and without requirement of steroid treatment for at least 14 days prior to start of treatment, subject to discussion with MM.\n3. Active malignancy (other than the disease under treatment in the study) within the previous 3 years except for curable cancers.\n4. Condition requiring long-term systemic treatment with either corticosteroids \\> 10 mg daily prednisone equivalent or any other form of immunosuppressive therapy within 7 days prior to start of treatment.\n5. Clinically significant active, known or suspected autoimmune disease, or diseases that can be exacerbated with immunotherapy.\n6. Severe pulmonary, cardiac or other systemic disease.\n7. Known hepatitis B or C virus infection.\n8. Females who are pregnant or lactating or planning to become pregnant during the study.\n9. Has had an allogeneic tissue/solid organ transplant.\n10. Active infection requiring systemic therapy.\n11. Any medical, emotional or psychiatric condition that interfere with the patient's ability to adhere to the protocol\n12. Any other underlying medical conditions that, in the Investigator's opinion, will make the administration of study drug(s) unsafe or obscure the interpretation of toxicity determination or adverse events.\n13. Known severe hypersensitivity to any component of study drug(s).\n14. Inability to comply with study and follow up procedures as judged by the Investigator.",
-  "enrollment": 115,
+  "enrollment": 160,
   "has_results": false,
   "interventions": [
    "MDNA11",
    "Pembrolizumab (KEYTRUDA®)"
   ],
-  "last_update_posted": "2025-07-09",
+  "last_update_posted": "2026-10-13",
   "location_countries": [
    "Australia",
    "Canada",
@@ -131,6 +131,7 @@
    "Portugal",
    "South Korea",
    "Spain",
+   "Switzerland",
    "United States"
   ],
   "locations_kr": [
@@ -150,7 +151,7 @@
     "city": "Suwon",
     "country": "South Korea",
     "facility": "The Catholic University of Korea St. Vincent Hospital",
-    "status": "ACTIVE_NOT_RECRUITING"
+    "status": "WITHDRAWN"
    },
    {
     "city": "Seoul",
@@ -164,15 +165,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "활동성 뇌전이",
+    "활성 중추신경계(CNS) 전이",
     "최근 3년 이내 다른 암 병력",
-    "활동성 자가면역질환",
-    "활동성 감염"
+    "자가면역질환 또는 면역치료로 악화될 수 있는 질환",
+    "활동성 감염",
+    "B형 또는 C형 간염 바이러스 감염"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "국소 진행성 또는 전이성 고형암 환자를 대상으로 하는 MDNA11 단독 또는 병용 임상시험",
+   "notes_ko": "진행성 고형암 환자를 대상으로 하는 초기 임상시험으로 췌장암 전용 코호트는 초록에 명시되지 않음.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
@@ -183,10 +185,10 @@
   },
   "max_age": null,
   "min_age": "18 Years",
-  "n_locations": 27,
+  "n_locations": 28,
   "nct_id": "NCT05086692",
   "phase": "PHASE1/PHASE2",
-  "primary_completion_date": "2026-06-30",
+  "primary_completion_date": "2026-11-30",
   "sex": "ALL",
   "sponsor": "Medicenna Therapeutics, Inc.",
   "start_date": "2021-08-27",

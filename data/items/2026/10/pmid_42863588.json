@@ -1,0 +1,61 @@
+{
+ "abstract": "CONTEXT: Pancreatic cancer is characterized by high symptom burden, rapid deterioration, and poor survival. Despite this complexity, specialist palliative care (SPC) is often integrated late or not at all. The first unscheduled hospitalization may represent a point for SPC assessment.\nOBJECTIVES: To characterize frequency, clinical features, and outcomes of the first unscheduled hospitalization in pancreatic adenocarcinoma, explore factors associated with subsequent survival, and describe the timing of SPC assessment.\nMETHODS: We conducted a retrospective cohort study of consecutive adults with pancreatic adenocarcinoma managed by medical oncology at three tertiary hospitals during 2022-2023, with follow-up through 2025. Overall survival (OS) from hospitalization was estimated with Kaplan-Meier methods; univariable Cox regression assessed associations with survival.\nRESULTS: Among 125 patients, 105 (84%) experienced a first unscheduled hospitalization at a median of 4.1 months after diagnosis (IQR, 1.9-8.0). Median OS was 3.8 months (95% CI, 2.1-7.1); 21/104 (20%) died in hospital, and 62/80 (78%) were readmitted after discharge. ECOG performance status 2-4 (HR, 3.30), metastatic disease (HR, 3.05), liver metastases (HR, 2.58), and strong opioid use (HR, 2.10) were associated with shorter survival. Only 11 (10%) underwent SPC assessment before hospitalization; 31 (30%) were first assessed during hospitalization, 40 (38%) afterward, and 23 (22%) remained unassessed.\nCONCLUSION: A first unscheduled hospitalization occurred in most patients, marking limited survival, high in-hospital mortality, and frequent readmission. Most lacked prior SPC assessment. This event may serve as a pragmatic safety net for palliative care integration, complementing earlier needs- and prognosis-based referral strategies.",
+ "authors": [
+  "Torres-Tenor JL",
+  "García-Leal A",
+  "Aguilera MG",
+  "Redondo IM",
+  "Santos RM",
+  "Bruera E",
+  "Babarro AA"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42863588",
+ "importance": 0.73,
+ "key_points_ko": [
+  "췌관선암 환자의 84%(105명)가 진단 후 중앙값 4.1개월 만에 첫 계획되지 않은 입원을 겪었습니다.",
+  "입원 후 중앙 전체 생존기간(OS)은 3.8개월이었으며, 20%는 입원 중 사망했고 퇴원 환자의 78%는 다시 입원했습니다.",
+  "입원 환자 중 입원 전에 전문 완화의료 평가를 받은 비율은 10%에 불과했으며, 22%는 끝내 평가를 받지 못했습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.1016/j.jpainsymman.2026.10.009",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42863588"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Pain Symptom Manage",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42863588/"
+ },
+ "summary_ko": "췌관선암 환자 125명을 대상으로 첫 계획되지 않은 입원의 임상적 특징과 예후, 전문 완화의료(SPC) 연계 시점을 후향적으로 분석한 연구입니다. 전체 환자의 84%가 진단 후 중앙값 4.1개월 시점에 예정에 없던 첫 입원을 경험했으며, 입원 발생 후 중앙 전체 생존기간(OS)은 3.8개월이었습니다. 입원 환자의 20%는 원내에서 사망했고 퇴원 환자의 78%가 재입원했으나, 입원 전에 전문 완화의료 평가를 받은 환자는 10%에 불과했습니다. 연구진은 첫 비계획 입원이 조기 완화의료를 체계적으로 연계하기 위한 실질적인 안전망 역할을 할 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "First Unscheduled Hospitalization in Pancreatic Cancer: A Point for Palliative Care Integration",
+ "title_ko": "췌장암 환자의 첫 계획되지 않은 입원: 완화의료 연계의 중요한 전환점",
+ "trial": null,
+ "type": "paper"
+}

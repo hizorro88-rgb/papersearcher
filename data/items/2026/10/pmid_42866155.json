@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic panniculitis (PP) is an uncommon manifestation of pancreatic disorders and usually presents as painful erythematous subcutaneous nodules involving the lower extremities. We describe a 79-year-old man with a pancreatic head tumor clinically suspected to represent pancreatic cancer who developed a painful, erythematous, approximately 10-cm abdominal wall lesion. Contrast-enhanced computed tomography showed inflammatory changes involving the subcutaneous and abdominal wall adipose tissue. Despite the extensive lesion, pancreatic enzyme elevation was modest, with a lipase level of 157 IU/L and pancreatic amylase level of 86 IU/L. Malignant involvement and soft-tissue infection were initially considered because of the lesion's location and appearance. Histopathological examination demonstrated lobular panniculitis, fat necrosis, and anucleated adipocytes with thickened borders and eosinophilic material, consistent with ghost-like adipocytes of PP. Klebsiella pneumoniae was isolated from the aspirated material, raising the possibility of secondary bacterial infection. Cefmetazole was administered at 1 g twice daily for five days; subsequent susceptibility testing showed cefmetazole resistance. After the histopathological diagnosis of PP was established, symptomatic treatment with oral loxoprofen was initiated. The pain, erythema, and swelling gradually improved, and the lesion had markedly resolved by day 60, with corresponding improvement of the abdominal wall inflammatory changes on follow-up computed tomography. This case illustrates that PP may occur at an atypical abdominal site despite only modest pancreatic enzyme elevation and may mimic infection or malignant involvement. Histopathological evaluation of a subcutaneous lesion can be particularly valuable when clinical and biochemical findings are atypical, and a definitive pathological diagnosis of the underlying pancreatic lesion is not obtained.",
+ "authors": [
+  "Ota T",
+  "Suyama Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42866155",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장성 지방층염은 주로 하지에 발생하나, 본 증례에서는 복벽에 약 10cm 크기의 비전형적인 병변으로 나타났습니다.",
+  "광범위한 복벽 병변에도 불구하고 리파아제(157 IU/L) 및 췌장 아밀라아제(86 IU/L) 상승은 경미했습니다.",
+  "조직학적 검사를 통해 확진 후 경구 소염진통제(loxoprofen) 투여로 60일 차에 병변이 현저하게 호전되었습니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": "10.7759/cureus.116124",
+  "nct": [],
+  "pmcid": "PMC13655839",
+  "pmid": "42866155"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42866155/"
+ },
+ "summary_ko": "췌장 질환의 드문 합병증인 췌장성 지방층염(PP)이 복부 벽에 발생한 79세 췌장암 의심 남성 환자의 사례를 보고했습니다. 환자는 복벽에 약 10cm 크기의 통증을 동반한 홍반성 병변을 보였으며, 췌장 효소 수치(리파아제 157 IU/L, 췌장 아밀라아제 86 IU/L)의 상승 폭은 비교적 미미했습니다. 조직 생검을 통해 지방 괴사 및 유령 세포(ghost-like adipocytes) 소견을 확인하여 췌장성 지방층염으로 확진했습니다. 경구 loxoprofen(록소프로펜)을 투여한 대증 치료를 통해 통증과 부종이 서서히 호전되었으며 60일째에 병변이 뚜렷하게 호전되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "An Atypical Abdominal Presentation of Pancreatic Panniculitis in a Patient With Suspected Pancreatic Cancer: A Case Report",
+ "title_ko": "췌장암 의심 환자에서 복부에 비전형적으로 발생한 췌장성 지방층염 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

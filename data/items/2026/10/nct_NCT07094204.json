@@ -1,0 +1,132 @@
+{
+ "abstract": "Genes contain genetic code which tell the body which proteins to make. Many types of cancer are caused by changes, or mutations, in a gene called KRAS. Researchers are looking for ways to stop the actions of abnormal proteins made from the mutated KRAS gene.\n\nASP5834 is being studied in people with solid tumors who have certain KRAS gene mutations. Some people with solid tumors of the colon or rectum (colorectal cancer), will be given ASP5834 with panitumumab. Panitumumab is a treatment for colorectal cancer. In this study, the researchers will learn how ASP5834 is processed by and acts upon the body. This information will help find a suitable dose of ASP5834 and check for any potential medical problems from the treatment.\n\nThe main aims of this study are to check the safety of ASP5834 given by itself or given with panitumumab, and how well it is tolerated; and to find a suitable dose of ASP5834 given by itself or given with panitumumab.\n\nPeople in this study will be adults with locally advanced, unresectable, or metastatic solid tumors with certain KRAS gene mutations. Locally advanced means the cancer has spread to nearby tissue. Unresectable means the cancer cannot be removed by surgery. Metastatic means the cancer has spread to other parts of the body. They either haven't responded to standard treatment or couldn't be given standard treatment. The key reasons people cannot take part are if they have specific uncontrollable cancers such as symptomatic or untreated cancers in nervous system, have specific heart conditions, swelling and irritation of lung tissues (pneumonitis or interstitial lung disease, also called ILD), infections, or have recently had a stroke or a bleed on the brain.\n\nIn this study, ASP5834 is being given to humans for the first time. This is an open-label study. This means that people in this study and clinic staff will know that they will receive ASP5834 by itself or ASP5834 with panitumumab.\n\nThis study will be in 2 parts:\n\nPart 1 is called Dose Escalation. Different small groups of people will receive lower to higher doses of either: ASP5834 by itself or ASP5834 with panitumumab. Only people who have colorectal cancer will receive ASP5834 with panitumumab. People with any type of solid tumor will receive ASP5834 by itself. For each dose, all medical problems will be recorded. A medical expert panel will check the results and decide if the next group can receive a higher dose of ASP5834. The panel will do this until the planned maximum number of people are treated or until suitable doses have been selected for Part 2.\n\nPart 2 is called Dose Expansion. Other different small groups of people will receive ASP5834 or ASP5834 with panitumumab. They will receive the most suitable doses worked out from Part 1.\n\nIn both parts of the study, the study treatments ASP5834 and panitumumab will be given through a vein. This is called an infusion. Each study treatment cycle is either 21 days or 28 days long. People will continue study treatment until: they have medical problems from the study treatment they can't tolerate; their cancer gets worse; they start other cancer treatment; or they ask to stop study treatment.\n\nPeople will visit the clinic on certain days during their study treatment, with extra visits during the first 2 cycles of study treatment. The study doctors will check for any medical problems from ASP5834. Also, people in the study will have a health check. On some visits they will also have scans to check for any changes in their cancer. Tumor samples will be taken at certain visits during study treatment with the option of a tumor sample being taken if people's cancer gets worse or the cancer comes back.\n\nPeople will visit the clinic shortly after stopping treatment for a health check. After this, people will have health checks every couple of months to check the condition of their cancer. The number of visits and checks done will depend on the health of each person and whether they completed their study treatment or not. It is expected that people will be in this study for about 1 year.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-14",
+ "history": [
+  {
+   "date": "2026-10-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07094204",
+ "importance": 0.73,
+ "key_points_ko": [
+  "KRAS 변이(G12V, G12D, G12C, G12R, G12A, G13D)를 가진 국소 진행성 또는 전이성 췌관선암 환자를 포함합니다.",
+  "췌장암 코호트는 진행성 병기에서 젬시타빈(gemcitabine) 또는 플루오로피리미딘(fluoropyrimidine) 기반 요법을 포함해 최대 2차 이하의 전신 치료를 받은 환자를 대상으로 합니다.",
+  "ASP5834의 체내 반응, 안전성, 내약성을 확인하여 향후 2상 연구에 사용할 적정 용량을 도출하는 것이 주요 목적입니다."
+ ],
+ "last_updated": "2026-10-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07094204"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-07-30",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Astellas Pharma Inc",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07094204"
+ },
+ "summary_ko": "특정 KRAS 유전자 변이를 동반한 수술 불가능한 국소 진행성 또는 전이성 고형암 환자를 대상으로 신약 후보물질 ASP5834의 안전성과 적정 용량을 평가하기 위한 최초 인간 대상 1상 임상시험입니다. 췌장암 환자는 ASP5834 단독 요법을 정맥 주사로 투여받게 됩니다. 표준 치료를 받았거나 표준 치료를 받을 수 없는 환자를 대상으로 용량 증량 및 확장 코호트가 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Solid Tumor",
+  "Cancer",
+  "Malignancy",
+  "Metastasis",
+  "Pharmacokinetics",
+  "ASP5834",
+  "KRAS G12V",
+  "KRAS G12D",
+  "KRAS G12C",
+  "KRAS G12R"
+ ],
+ "title": "A Study to Find a Suitable Dose of ASP5834 in Adults With Solid Tumors",
+ "title_ko": "KRAS 변이 고형암 환자를 대상으로 한 ASP5834의 적정 용량 탐색 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Solid Tumor",
+   "Non-Small-Cell Lung Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Colorectal Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "Astellas.registration@astellas.com",
+    "name": "Astellas Pharma Global Development, Inc.",
+    "phone": "800-888-7704"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 수술 불가능한 국소 진행성 또는 전이성 췌관선암(PDAC) 환자\n- 국소 검사로 확인된 KRAS 변이(G12V, G12D, G12C, G12R, G12A, G13D) 보유\n- 진행성 병기에서 젬시타빈 또는 플루오로피리미딘 기반 요법을 포함한 표준 치료를 받았거나 해당 치료가 부적합한 환자\n- 진행성 병기에서 이전 전신 항암 치료를 2차 이하로 받은 환자 (수술 전후 보조항암 후 6개월 이내 재발 시 1차 치료로 간주)\n- 만 18세 이상의 성인\n\n제외 기준:\n- 증상이 있거나 치료받지 않은 중추신경계(뇌) 전이\n- 특정 심장 질환 병력\n- 폐렴(pneumonitis) 또는 간질성 폐질환(ILD) 병력\n- 활동성 감염\n- 최근 발생한 뇌졸중 또는 뇌출혈 병력",
+  "eligibility_text": "Inclusion Criteria:\n\n* Participant has histologically confirmed locally advanced (unresectable) or metastatic solid tumor malignancy with a documented Kirsten rat sarcoma viral oncogene homolog (KRAS) G12V, G12D, G12C, G12R, G12A or G13D mutation or KRAS amplification (copy number \\>/= 4) determined by local testing.\n\n  * For a participant with a documented KRAS amplification, only those with no other co-occurring KRAS mutation or those with a co-occurring KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation are eligible.\n  * Unique to Europe (EU): Only participants who have pre-existing local results can be enrolled.\n* For the ASP5834 monotherapy dose escalation part, participant with any histologically confirmed locally advanced (unresectable) or metastatic solid tumor malignancy is eligible. Participant must have received prior standard therapy in the advanced setting, and the investigator does not see any further clinical benefit from continuing such therapy or the participant is ineligible to receive standard approved therapies.\n* For the ASP5834 monotherapy dose expansion part, the following criteria apply:\n\n  * \\[pancreatic ductal adenocarcinoma (PDAC) Expansion Cohort(s)\\] Participant has histologically confirmed locally advanced (unresectable) or metastatic PDAC.\n  * \\[PDAC Expansion Cohort(s)\\] Participant has a documented KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation determined by local testing.\n  * \\[PDAC Expansion Cohort(s)\\] Participant must have received standard therapy in the advanced setting, including prior therapy with a gemcitabine-based or fluoropyrimidine-based regimen or is ineligible for these therapies.\n  * \\[PDAC Expansion Cohort(s)\\] No more than 2 prior lines of systemic therapy are allowed in the advanced setting (note: maintenance therapy does not count as a separate line of therapy).\n  * \\[PDAC Expansion Cohort(s)\\] For a participant who received prior neoadjuvant or adjuvant chemotherapy and had recurrence on or within 6 months of completion of therapy, the neoadjuvant or adjuvant chemotherapy should be counted as a regimen in the advanced setting.\n  * \\[non-small cell lung cancer (NSCLC) Expansion Cohort(s)\\] Participant has histologically confirmed locally advanced (unresectable) or metastatic NSCLC.\n  * \\[NSCLC Expansion Cohort(s)\\] Participant has a documented KRAS G12V, G12D, G12R, G12A or G13D mutation determined by local testing.\n  * \\[NSCLC Expansion Cohort(s)\\] Participant must have received standard therapy in the advanced setting, including prior platinum-based chemotherapy and checkpoint inhibitor therapy or is ineligible for these therapies. Participants with known actionable genomic alterations (AGA) must have received prior therapy with an approved targeted therapy in accordance with local requirements.\n  * \\[NSCLC Expansion Cohort(s)\\] For a participant who has received prior neoadjuvant or adjuvant therapy and had recurrence during or within 6 months of completion of therapy, the neoadjuvant or adjuvant therapy should be counted as a regimen in the advanced setting (for those who received perioperative therapy, the entire course should be counted as therapy in the advanced setting).\n  * \\[NSCLC Expansion Cohort(s)\\] For a participant with a history of unresectable Stage III disease who received prior multi-modal therapy and had recurrence on or within 6 months of completion of therapy, the multi-modal therapy should be counted as a therapy in the advanced setting. If chemoradiation was followed by treatment with checkpoint inhibitor therapy without documented progression between chemoradiation and checkpoint inhibitor therapy, the entire treatment course should be counted as therapy in the advanced setting.\n  * \\[Other Solid Tumor Expansion Cohort\\] Participant has a histologically confirmed locally advanced (unresectable) or metastatic solid tumor type other than PDAC, colorectal cancer (CRC) or NSCLC.\n  * \\[Other Solid Tumor Expansion Cohort\\] Participant has a documented KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation or KRAS amplification (copy number \\>/=4) determined by local testing.\n  * \\[Other Solid Tumor Expansion Cohort\\] Participant must have received prior standard therapy in the advanced setting, and the investigator does not see any further clinical benefit from continuing such therapy or is ineligible to receive standard approved therapies.\n* For ASP5834 combination therapy dose escalation and dose expansion parts, the following criteria apply:\n\n  * \\[CRC Dose Escalation and Dose Expansion Parts\\] Participant has histologically confirmed locally advanced (unresectable) or metastatic adenocarcinoma of the colon or rectum.\n  * \\[CRC Dose Escalation and Dose Expansion Parts\\] Participant has a documented KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation determined by local testing.\n  * \\[CRC Dose Escalation and Dose Expansion Parts\\] Participant must have received standard therapy in the advanced setting, including prior therapy with fluoropyrimidine, oxaliplatin and irinotecan and anti-vascular endothelial growth factor (VEGF) therapy or is ineligible for these therapies.\n  * \\[CRC Dose Escalation and Dose Expansion Parts\\] For a participant who has received neoadjuvant or adjuvant chemotherapy and had recurrence during or within 6 months of completion of therapy, the neoadjuvant or adjuvant chemotherapy should be counted as a regimen in the advanced setting.\n  * \\[CRC Dose Escalation and Dose Expansion Parts\\] Participant with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) must have also received prior treatment with immune checkpoint inhibitors or is ineligible for these therapies.\n* Participant consents to provide tumor specimen in a tissue block or unstained serial slides or a baseline tumor biopsy obtained after the last interventional treatment, but not more than 90 days prior to the start of study intervention. Participant also consents to provide a tumor biopsy during the treatment period as indicated in the schedules of assessments. If a participant cannot provide a tumor specimen or undergo a baseline tumor biopsy procedure no more than 90 days prior to the start of study intervention, contact the medical monitor. Submission of an archival tumor tissue specimen to the central laboratory in addition to the baseline specimen is highly encouraged.\n* Participant has at least 1 measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. Lesions situated in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Participant's adverse event (AEs) (excluding alopecia) from prior anti-cancer therapy have improved to Grade 1 or baseline at least 14 days prior to the start of study intervention. Persistent Grade 2 or higher toxicities from prior anti-cancer therapy that are considered clinically irreversible, may be allowed if they are not otherwise described in the exclusion criteria AND there is agreement to allow by both the investigator and sponsor.\n* Participant has adequate organ function as indicated by laboratory values (if a participant has received a recent blood transfusion, the laboratory tests must be obtained \\>/= 14 days after any blood transfusion).\n* Female participant is not pregnant confirmed by pregnancy test and medical evaluation by interview, and at least 1 of the following conditions apply:\n\n  * Not a woman of childbearing potential (WOCBP)\n  * WOCBP who has a negative urine or serum pregnancy test within 7 days prior to day 1 and agrees to follow the contraceptive guidance from the time of informed consent through at least 6 months after final investigational study intervention administration.\n* Female participant must not be breastfeeding or lactating starting at screening and throughout the investigational period and for 6 months after final investigational study intervention administration.\n* Female participant must not donate ova starting at first administration of study intervention and throughout the investigational period and for 6 months after final investigational study intervention administration.\n* Male participant must agree to use contraception with female partner(s) of childbearing potential (including breastfeeding partner) throughout the treatment period and for 3 months after final investigational study intervention administration.\n* Male participant must agree to remain abstinent or use a condom with pregnant partner(s) for the duration of the pregnancy throughout the investigational period and for 3 months after final investigational study intervention administration.\n* Male participant must not donate sperm during the treatment period and for 3 months after final investigational study intervention administration.\n* Participant agrees not to participate in another interventional study while receiving study intervention in the present study/participating in the present study.\n\nExclusion Criteria:\n\n* Participant has symptomatic or untreated central nervous system (CNS) metastases. Participants with stable, asymptomatic and treated CNS metastases are eligible.\n* Participant has leptomeningeal disease as a manifestation of the current malignancy.\n* Participant has another prior malignancy active (i.e., requiring treatment or intervention) within the previous 2 years different from the primary malignancy for this study, except for local malignancies that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of the cervix or breast, which are allowed.\n* Participant with active hepatitis B (including acute hepatitis B virus (HBV) or chronic HBV) or hepatitis C virus (HCV) (Ribonucleic acid (RNA) detected by qualitative assay). HCV RNA testing is not required in participants with negative HCV antibody testing.\n* Participant has a known history of human immunodeficiency virus (HIV) infection with Acquired Immune Deficiency Syndrome (AIDS) related complications. No HIV testing is required unless mandated by a local health authority.\n* Participant has had a myocardial infarction or unstable angina within 6 months prior to the start of study intervention or currently has an uncontrolled illness including, but not limited to symptomatic congestive heart failure, clinically significant cardiac disease, unstable angina pectoris, cardiac arrhythmia (including but not limited to uncontrolled atrial fibrillation, recent restoration of rhythm after atrial fibrillation, clinically significant conduction disorder within 6 months prior to the start of study intervention, or ventricular arrhythmias), obligate use of a cardiac pacemaker, or long QT syndrome.\n* Resting heart rate \\< 50 bpm at screening, unless clinically appropriate (e.g., well-conditioned participant) and deemed not clinically significant.\n* Known family history of sudden cardiac death before 50 years of age.\n* Hypokalemia that is not corrected to within the institutional normal range prior to first dose of study intervention.\n* Participants with clinically significant electrolyte abnormalities (e.g., hypomagnesemia or hypocalcemia) that are not corrected to within the institutional normal range prior to first dose of study intervention.\n* Participant has had major surgery within 4 weeks prior to first dose of study intervention.\n* Participant has acute neurological events (e.g., intracranial or subarachnoid hemorrhage, stroke, intracranial trauma) within 6 months prior to the first dose of study intervention.\n* Participant has received any radiotherapy (including stereotactic radiosurgery) within 14 days prior to the first dose of study intervention.\n* Participant has received prior KRAS targeting agents (including but not limited to KRAS directed inhibitors, degraders, small interfering RNA \\[siRNA\\] therapies, vaccines and cellular therapies), with the following exceptions:\n\n  * In the dose escalation part, a participant with PDAC or NSCLC who has received prior RMC-6236 or RMC-9805 or a participant with NSCLC who has received prior KRAS G12C inhibitors but no other KRAS targeting agents will be eligible.\n* Participant has an active infection requiring any systemic anti-infectious agents within 14 days prior to study intervention.\n* Participant is expected to require another form of anticancer therapy while on study treatment.\n* Participant requires treatment with concomitant drugs that are strong or moderate inhibitors or inducers of Cytochrome P450 family 3 subfamily A (CYP3A).\n* Participant has received any investigational therapy within 28 days or 5 half-lives, whichever is longer, prior to the start of study intervention.\n* Participant has any condition that makes the participant unsuitable for study participation.\n* Participant has a known or suspected hypersensitivity to the protocol specified study intervention(s) or any components of the formulation used.\n* Participant has a corrected QT interval by Fridericia (QTcF) value (single electrocardiogram (ECG)) of \\> 450 msec (men) or \\> 470 msec (women) during screening.\n* Participant has a left ventricular ejection fraction (LVEF) \\< 50% as assessed by echocardiogram (ECHO) (or multigated acquisition (MUGA)) performed at screening.\n* Participant with a known history of an acquired KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation or KRAS amplification identified as a resistance mechanism to prior systemic therapy (note: if a participant has more than 1 relevant KRAS alteration \\[KRAS G12V, G12D, G12C, G12R, G12A or G13D mutation or KRAS amplification\\], only those with a known history of acquired resistance to all relevant KRAS alterations would be excluded). Participant will not be excluded if it is not known whether the KRAS alteration(s) were acquired as a resistance mechanism.\n* UNIQUE to EU: Participant who is the subject of any legal protection measures under local legislation will not be allowed.\n* Participant has a history of pneumonitis/interstitial lung disease (ILD) or has current pneumonitis/ILD. Note that a participant with resolved pulmonary infections is eligible.\n* \\[ASP5834 combination therapy\\] Participant had prior discontinuation of panitumumab treatment due to toxicity or intolerance of panitumumab.",
+  "enrollment": 404,
+  "has_results": false,
+  "interventions": [
+   "ASP5834",
+   "panitumumab"
+  ],
+  "last_update_posted": "2026-10-13",
+  "location_countries": [
+   "France",
+   "Japan",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "KRAS_mutant"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "증상이 있거나 치료받지 않은 뇌전이",
+    "간질성 폐질환(ILD) 또는 폐렴 병력",
+    "특정 심장 질환",
+    "활동성 감염",
+    "최근 발생한 뇌졸중 또는 뇌출혈"
+   ],
+   "max_prior_lines": 2,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "KRAS 변이가 있고 이전 전신 항암 치료를 2차 이하로 받은 국소 진행성 또는 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 20,
+  "nct_id": "NCT07094204",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-11-30",
+  "sex": "ALL",
+  "sponsor": "Astellas Pharma Inc",
+  "start_date": "2025-07-25",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

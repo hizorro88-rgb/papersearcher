@@ -17,23 +17,25 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (79)
+## 관련 임상시험 (82)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [잠재적 수술 가능 국소 진행성 췌장암에서 유도 항암화학요법 후 MR-LINAC 방사선 치료 및 수술적 탐색을 통한 절제율 향…](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료에서 젬시타빈 및 냅-파클리탁셀 병용에 L-글루타민 추가 병용 여부를 비교하는 2상 임상시험](../trials/NCT07864571.md) | 2상 | 모집 예정 | - |
 | [국소 진행성 또는 전이성 췌장암의 1차 치료로서 대변 미생물 이식(FMT) 및 SHR-1701과 냅-파클리탁셀/젬시타빈 병용…](../trials/NCT07845565.md) | 2상 | 모집 예정 | - |
 | [췌장암에 대한 알부민 결합 파클리탁셀 기반 병용 요법 임상시험](../trials/NCT07828756.md) | 2상 | 모집 예정 | - |
 | [수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Ge…](../trials/NCT07814859.md) | 2상 | 모집 예정 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib 및 daraxonrasib 병용요법 대 gemcit…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 예정 | - |
+| [성인 췌담도암 환자를 대상으로 텔리소투주맙 아디주테칸 병용요법의 안전성 및 질병 활성 변화를 평가하는 2상 임상시험](../trials/NCT07769502.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](../trials/NCT07705919.md) | 1상/2상 | 모집 중 | - |
 | [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 요법 연구](../trials/NCT07701486.md) | 1상/2상 | 모집 중 | - |
 | [MTAP 결손 진행성 고형암 환자에서 HSK41959와 표준 치료 병용 1상 임상시험](../trials/NCT07699757.md) | 1상 | 모집 예정 | - |
-| [국소 진행성 췌장암 환자에서 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-pac…](../trials/NCT07683221.md) | 2상 | 모집 예정 | - |
+| [국소 진행성 췌장암 환자 대상 체부정위 방사선치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 냅-파클리탁셀 및 젬시타빈 병…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
-| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
+| [KRAS G12D 변이 전이성 췌관선암 1차 치료로서 zoldonrasib(졸돈라십)과 항암화학요법 병용의 3상 임상시험 (…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
 | [전이성 췌관선암 환자의 1차 치료로서 아테비메티닙과 젬시타빈+냅-파클리탁셀 병용요법 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
@@ -73,6 +75,7 @@ search:
 | [전이성 췌장암 환자를 대상으로 ONO-7475, ONO-4538 및 젬시타빈/납-파클리탁셀(GnP) 병용요법의 내인성 및 안…](../trials/NCT06532331.md) | 1상 | 진행 중(모집 종료) | - |
 | [진행성 췌장암 1차 치료로서 리포조말 이리노테칸, 켑시타빈/ nab-paclitaxel, gemcitabine 병용요법에 대…](../trials/NCT06513455.md) | 1상/2상 | 모집 예정 | - |
 | [기저형 췌장암(Basal-like PDAC) 환자를 대상으로 젬시타빈(Gemcitabine), 엘로티닙(Erlotinib),…](../trials/NCT06483555.md) | 1상/2상 | 모집 중 | - |
+| [유전자 변이를 동반한 진행성 고형암 환자를 대상으로 PF-07934040 단독 또는 병용요법을 평가하는 1상 임상시험](../trials/NCT06447662.md) | 1상 | 진행 중(모집 종료) | - |
 | [수술 가능 또는 경계성 수술 가능 췌장암 환자를 위한 수술 전 선행치료로서 젬시타빈, 시스플라틴, 냅-파클리탁셀 요법](../trials/NCT06423326.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 surufatinib(수루파티닙), camrelizumab(캄렐리주맙), nab-paclitax…](../trials/NCT06361888.md) | 2상/3상 | 모집 중 | - |
 | [국소 진행성 및 국소 재발 췌장암 환자에서 PD-1 항체, 화학요법, PULSAR 방사선 치료 병용 요법의 2상 임상시험](../trials/NCT06359275.md) | 2상 | 모집 중 | - |
@@ -101,7 +104,7 @@ search:
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (5)
 
 <a id="pmid-42862523"></a>
 #### [경계성 절제 가능 췌장암에서 티스렐리주맙과 젬시타빈·납-파클리탁셀 병용 요법의 효능 및 내성 분석: 전향적 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42862523/)
@@ -132,6 +135,36 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42865438"></a>
+#### [수술 불가능한 췌장암 1차 항암치료로서 변형 FOLFIRINOX와 젬시타빈+냅-파클리탁셀의 효능 및 독성 비교: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42865438/)
+<small>Efficacy and toxicities of modified FOLFIRINOX versus gemcitabine plus nab-paclitaxel as first-line chemotherapy for unresectable pancreatic cancer: a systematic review and meta-analysis</small>
+
+`논문` `메타분석` `치료 전반` `신약·치료제` `수술` `제약사·규제` · 2026-09-28 · PubMed · Front Oncol · 중요도 0.82
+
+수술이 불가능한 췌장암 환자 1,204명을 대상으로 1차 표준 치료인 변형 FOLFIRINOX(mFFX)와 젬시타빈+냅-파클리탁셀(GnP) 병용요법을 비교 분석한 메타분석 연구입니다. 분석 결과 GnP 투여군이 mFFX 투여군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다. 객관적 반응률(ORR)에는 유의한 차이가 없었으나 질병 통제율(DCR)은 GnP군에서 다소 높은 경향을 보였습니다. 부작용 측면에서 mFFX군은 심한 설사와 식욕부진 발생 위험이 높았고, GnP군은 심한 호중구 및 백혈구 감소증 빈도가 더 높았습니다.
+
+- 총 5개 연구(무작위 배정 임상시험 3건, 후향적 연구 2건)의 췌장암 환자 1,204명(mFFX군 578명, GnP군 626명)을 분석했습니다.
+- GnP군과 비교했을 때 mFFX군은 전체 생존기간(HR 1.26, P=0.002)과 무진행 생존기간(HR 1.21, P=0.01)이 유의하게 더 짧았습니다.
+- 3등급 이상의 부작용으로 mFFX군에서는 설사(OR 5.63)와 식욕부진(OR 4.44)이 많았고, GnP군에서는 호중구 감소증(OR 0.66)과 백혈구 감소증(OR 0.49)이 더 빈번했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42865438/) · [DOI](https://doi.org/10.3389/fonc.2026.1913824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655002/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42865438)</small>
+
+---
+<a id="pmid-42866363"></a>
+#### [전이성 췌관선암에서 1차 S-1 단독요법에 매우 긴 기간 반응을 보인 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866363/)
+<small>Exceptionally Durable Response to First-Line S-1 Monotherapy in Metastatic Pancreatic Adenocarcinoma: A Case Report</small>
+
+`논문` `증례` `신약·치료제` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-09-12 · PubMed · Cureus · 중요도 0.54
+
+다발성 간 전이가 의심되는 전이성 췌관선암 환자에게 경구 항암제인 S-1(tegafur/gimeracil/oteracil) 단독요법을 1차 치료로 시행한 드문 증례 보고입니다. 76세 남성 환자에게 S-1을 투여한 결과, 췌장 종양과 간 병변이 점차 축소되었고 종양표지자 CA19-9가 빠르게 정상화되었습니다. 치료 시작 약 14개월 후 CT상 병변이 뚜렷하게 관찰되지 않았으며, 약 47개월 동안 질병 진행 없이 유의미한 반응이 유지되었습니다. 환자는 이후 약제 유발 간질성 폐질환(ILD) 등이 의심되는 호흡 부전으로 사망하였으나, 전이성 췌장암에서 S-1 단독요법으로도 극히 예외적인 장기 반응이 나타날 수 있음을 보여줍니다.
+
+- 76세 전이성 췌장암 의심 환자에게 1차 치료로 S-1 경구 단독요법(100 mg/일, 2주 투약 2주 휴약)을 시행했습니다.
+- 치료 후 종양 축소 및 CA19-9 정상화를 보였으며, 약 47개월 동안 방사선학적 질병 진행이 없었습니다.
+- 치료 14개월 시점에는 CT 검사에서 원발 췌장 종양과 간 전이 의심 병변이 뚜렷하게 관찰되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866363/) · [DOI](https://doi.org/10.7759/cureus.116149) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657664/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866363)</small>
 
 ---
 <a id="pmid-42857438"></a>
