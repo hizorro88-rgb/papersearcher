@@ -19,24 +19,24 @@ search:
 !!! tip "내 상황에 맞는 시험만 추리기"
     진단 상태, 받은 항암제, 유전자 검사 결과를 고르면 조건에 맞는 시험을 골라 주는 [맞춤 임상시험 찾기](../../guides/trials/finder.md)를 쓰세요. 입력 내용은 브라우저 밖으로 나가지 않습니다.
 
-총 429건 · 국내 모집 중 27건 · 해외 모집 중 378건 · 마지막 신규 등록 2026-10-14 (19건)
+총 438건 · 국내 모집 중 27건 · 해외 모집 중 383건 · 마지막 신규 등록 2026-10-15 (9건)
 
 ## 국내에서 모집 중 (27)
 
 | 시험명 | 단계 | 상태 | 시험 약물 | 국내 기관 | 갱신 |
 |---|---|---|---|---|---|
-| [전이성 췌장암 1차 환자를 위한 telisotuzumab adizutecan과 FOLFOX 병용요법의 유효성과 안전성 평가…](NCT07490301.md) | 2상/3상 | 모집 중 | Telisotuzumab adizutecan, Fluorouracil, Folinic acid/ Leucov | 1곳 | 2026-10-13 |
+| [체중 감소와 피로가 동반된 전이성 췌장암 환자 대상 ponsegromab(폰세그로맙) 2b/3상 임상시험](NCT06989437.md) | 2상/3상 | 모집 중 | ponsegromab, placebo | 10곳 | 2026-10-14 |
+| [1차 치료 전이성 췌관선암 환자를 대상으로 텔리소투주맙 아디주테칸과 폴폭스(FOLFOX) 병용 요법을 표준 치료와 비교 평가…](NCT07490301.md) | 2상/3상 | 모집 중 | Telisotuzumab adizutecan, Fluorouracil, Folinic acid/ Leucov | 1곳 | 2026-10-13 |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](NCT07491445.md) | 3상 | 모집 중 | daraxonrasib, gemcitabine, nab-paclitaxel | 6곳 | 2026-10-02 |
-| [체중 감소와 피로를 동반한 전이성 췌장암 성인 환자 대상 ponsegromab(폰세그로맙) 병용요법의 2b/3상 임상시험](NCT06989437.md) | 2상/3상 | 모집 중 | ponsegromab, placebo | 10곳 | 2026-10-14 |
 | [절제된 췌장암 환자를 대상으로 daraxonrasib(다락소나십)을 평가하는 임상시험](NCT07252232.md) | 3상 | 모집 중 | daraxonrasib | 4곳 | 2026-09-23 |
 | [mFOLFIRINOX 또는 NALIRIFOX 항암화학요법과 setidegrasib 병용 투여의 효과 및 안전성을 평가하기 위…](NCT07409272.md) | 3상 | 모집 중 | Setidegrasib, Oxaliplatin, Leucovorin, Irinotecan, fluoroura | 8곳 | 2026-09-22 |
 | [치료 이력이 없는 KRAS G12D 변이 전이성 췌관선암 환자에서 항암화학요법과 INCB161734 병용을 평가하는 3상 임…](NCT07522073.md) | 3상 | 모집 중 | INCB161734, Placebo, Investigator's choice of chemotherapy | 8곳 | 2026-10-08 |
 | [전이성 췌장암 환자에서 SBP-101과 Nab-Paclitaxel 및 Gemcitabine 병용요법의 효과를 평가하는 임상시험](NCT05254171.md) | 2상/3상 | 모집 중 | SBP-101, Nab-paclitaxel, Gemcitabine, Placebo | 6곳 | 2024-11-06 |
 | [수술 가능 췌장암 환자에서 수술 전후 mFOLFIRINOX 치료 비교를 위한 3상 임상시험(NeoFOL-R)](NCT05529940.md) | 3상 | 모집 중 | Folfirinox | 2곳 | 2024-11-27 |
 | [국소 진행성 또는 전이성 신경내분비종양 환자에서 zanzalintinib과 everolimus 비교 임상시험](NCT06943755.md) | 2상/3상 | 모집 중 | Zanzalintinib, Everolimus | 5곳 | 2026-09-29 |
-| [진행성 췌장 신경내분비종양 및 기타 고형암 환자를 위한 belzutifan 임상시험](NCT04924075.md) | 2상 | 모집 중 | Belzutifan | 2곳 | 2026-10-13 |
+| [진행성 췌장 신경내분비종양 및 기타 종양 환자를 위한 belzutifan(벨주티판) 치료 임상시험](NCT04924075.md) | 2상 | 모집 중 | Belzutifan | 2곳 | 2026-10-13 |
 | [국소 진행성 또는 전이성 췌장암 환자에서 BEY1107 단독요법 및 gemcitabine 병용요법의 안전성 및 유효성 평가](NCT03579836.md) | 1상/2상 | 모집 중 | BEY1107, Gemcitabine | 1곳 | 2025-03-10 |
-| [베타 전용 인터루킨-2 면역요법인 MDNA11의 임상 1/2상 연구](NCT05086692.md) | 1상/2상 | 모집 중 | MDNA11, Pembrolizumab (KEYTRUDA®) | 4곳 | 2026-10-13 |
+| [베타 전용 인터루킨-2 면역요법인 MDNA11 단독 또는 펨브롤리주맙 병용 임상시험](NCT05086692.md) | 1상/2상 | 모집 중 | MDNA11, Pembrolizumab (KEYTRUDA®) | 4곳 | 2026-10-13 |
 | [위장관암 치료를 위한 sacituzumab tirumotecan 단독 또는 병용 임상시험 (MK-9999-02A)](NCT06428409.md) | 1상/2상 | 모집 중 | Sacituzumab tirumotecan, Fluorouracil (5-FU), Leucovorin (LV | 4곳 | 2026-10-06 |
 | [mFOLFIRINOX와 병용하는 KN510713 연구](NCT07114861.md) | 1상/2상 | 모집 중 | Study drug: KN510 120mg/day + KN713 90mg/day, Combination Ch | 1곳 | 2026-04-13 |
 | [체력 저하 췌장암 환자를 위한 탄소 ion 방사선 치료](NCT07257523.md) | 2상 | 모집 중 | Carbon Ion Radiotherapy | 1곳 | 2025-12-02 |
@@ -53,16 +53,16 @@ search:
 | [전이성 췌장선암 환자에서 BR2021과 BR2021-1 투여 간의 약동학적 특성 및 안전성 비교 평가](NCT06867497.md) | 1상 | 모집 중 | BR2021, BR2021-1 | 2곳 | 2025-04-10 |
 | [KRAS 변이 또는 증폭 진행성 고형암 환자를 대상으로 하는 PT0511 임상시험](NCT07300150.md) | 1상 | 모집 중 | PT0511, Cetuximab | 4곳 | 2026-07-06 |
 
-## 해외에서 모집 중 (378)
+## 해외에서 모집 중 (383)
 
 | 시험명 | 단계 | 상태 | 시험 약물 | 국내 기관 | 갱신 |
 |---|---|---|---|---|---|
-| [국소진행성 췌장암에서 정위체부방사선치료(SBRT) 후 ipilimumab N01, sintilimab, nab-paclita…](NCT07683221.md) | 2상 | 모집 중 | SBRT + Ipilimumab N01 + Sintilimab + AG Chemotherapy | - | 2026-10-13 |
+| [국소 진행성 췌장암 환자를 위한 체부 정위 방사선 치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 납-파클리탁셀 및 젬시타…](NCT07683221.md) | 2상 | 모집 중 | SBRT + Ipilimumab N01 + Sintilimab + AG Chemotherapy | - | 2026-10-13 |
 | [전이성 췌장암 2차 치료에서 글루포스파미드 대 5-FU 비교 3상 임상시험](NCT01954992.md) | 3상 | 모집 중 | Glufosfamide, Fluorouracil | - | 2026-10-07 |
 | [소수전이성 췌장암 환자를 위한 전이 병변 국소 치료(EXPAND) 3상 무작위 배정 임상시험](NCT06593431.md) | 3상 | 모집 중 | Consolidative Radiation | - | 2026-10-06 |
 | [이전 치료를 받은 클라우딘(CLDN) 18.2 양성 췌장암 환자 대상 IBI343 단독요법 대 위약 비교 3상 임상시험](NCT07066098.md) | 3상 | 모집 중 | IBI343, Placebo | - | 2026-10-05 |
 | [전이성 췌관선암 환자의 1차 치료로서 아테비메티닙과 젬시타빈+냅-파클리탁셀 병용요법 임상시험](NCT07562152.md) | 3상 | 모집 중 | Atebimetinib, GnP, mGnP | - | 2026-10-09 |
-| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 졸돈라시브(zoldonrasib)와 항암화학요법 병용요법에 대한 3상 임…](NCT07621718.md) | 3상 | 모집 중 | Zoldonrasib, Placebo, Oxaliplatin, Leucovorin (Calcium Folin | - | 2026-10-13 |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험(RAS…](NCT07621718.md) | 3상 | 모집 중 | Zoldonrasib, Placebo, Oxaliplatin, Leucovorin (Calcium Folin | - | 2026-10-13 |
 | [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교…](NCT07867873.md) | 3상 | 모집 예정 | Pancreatic surgery, MRI guided stereotactic ablative radioth | - | 2026-10-09 |
 | [전이성 췌장암 1차 치료에서 surufatinib(수루파티닙), camrelizumab(캄렐리주맙), nab-paclitax…](NCT06361888.md) | 2상/3상 | 모집 중 | Surufatinib Combined With Camrelizumab, Nab-paclitaxel, and | - | 2026-09-17 |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](NCT06897644.md) | 3상 | 모집 중 | Oxaliplatin, Irinotecan (CPT-11), Leucovorin, 5-FU (5-fluoro | - | 2026-09-09 |
@@ -70,19 +70,21 @@ search:
 | [췌장관선암(PDAC) 환자의 전이성 병변 발견을 위한 18F-FAPI PET 검사](NCT07217717.md) | 3상 | 모집 중 | [18F]FAPI-74 PET/CT | - | 2026-09-17 |
 | [이전 전신 치료를 받은 전이성 췌장암 환자를 대상으로 하는 XNW28012 연구](NCT07823049.md) | 3상 | 모집 중 | XNW28012 for injection, XNW28012 Mimetic for Injection | - | 2026-09-16 |
 | [국소 진행성 췌장암 환자에서 방사선 치료와 신약 M3814(페포세르팁) 병용 요법을 평가하는 1/2상 임상시험](NCT04172532.md) | 1상/2상 | 모집 중 | Biopsy Procedure, Biospecimen Collection, Computed Tomograph | - | 2026-10-07 |
-| [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자에서 올라파립 대 위약을 비교하는 무작…](NCT04858334.md) | 2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Magnetic Resona | - | 2026-10-14 |
+| [수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 변이 환자에서 올라파립(olaparib) 대 위약의 무작위…](NCT04858334.md) | 2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Magnetic Resona | - | 2026-10-15 |
 | [수술 가능한 췌장암에 대한 티슬렐리주맙과 SX-682의 수술 전 선행요법 2상 임상시험](NCT05604560.md) | 2상 | 모집 중 | Tislelizumab, SX-682 | - | 2026-10-07 |
-| [진행성 췌장암 및 대장암 환자에서의 의료용 대마초 임상시험](NCT06605430.md) | 2상 | 모집 중 | Medical Cannabis | - | 2026-10-14 |
-| [백금 기반 항암화학요법 후 진행이 없는 전이성 췌장암 환자에서 니라파립 및 이필리무맙 유지지요법](NCT06747845.md) | 2상 | 모집 중 | Niraparib, FOLFIRI, Ipilimumab | - | 2026-10-13 |
+| [수술 불가 췌장암 환자에서 Sintilimab, 화학요법, 방사선 치료 병용요법](NCT06050317.md) | 2상 | 모집 중 | Sintilimab Plus mFFN or NALIRIFOX and Radiation | - | 2026-10-15 |
+| [진행성 췌장암 및 대장암 환자에서의 의료용 대마초 연구](NCT06605430.md) | 2상 | 모집 중 | Medical Cannabis | - | 2026-10-14 |
+| [백금 기반 항암화학요법 후 진행이 없는 전이성 췌장암 환자에서 niraparib과 ipilimumab 유지 치료를 평가하는…](NCT06747845.md) | 2상 | 모집 중 | Niraparib, FOLFIRI, Ipilimumab | - | 2026-10-13 |
 | [국소 진행성 절제 불가능 및 전이성 췌관선암 환자를 대상으로 한 초음파내시경 유도 고주파 열치료술과 면역항암제 pembrol…](NCT06831136.md) | 2상 | 모집 중 | Neoadjuvant Chemotherapy (NAC), Immunotherapy (pembrolizumab | - | 2026-10-08 |
-| [국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 군집 치료(Acoustic Cluster Therapy, ACT)](NCT06850623.md) | 2상 | 모집 중 | Acoustic Cluster Therapy, Modified FOLFIRINOX | - | 2026-10-13 |
-| [국소 진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용요법 연구](NCT07173387.md) | 2상 | 모집 중 | NALIRIFOX (liposomal irinotecan-based chemotherapy)., Stereo | - | 2026-10-13 |
+| [국소 진행성 췌장암 치료를 위한 화학요법과 병행하는 음향 클러스터 치료(ACT)](NCT06850623.md) | 2상 | 모집 중 | Acoustic Cluster Therapy, Modified FOLFIRINOX | - | 2026-10-13 |
+| [국소진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용 요법](NCT07173387.md) | 2상 | 모집 중 | NALIRIFOX (liposomal irinotecan-based chemotherapy)., Stereo | - | 2026-10-13 |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](NCT07283705.md) | 2상 | 모집 중 | BMS-986504, Gemcitabine, Nab-paclitaxel, mFOLFIRINOX | - | 2026-10-05 |
 | [KRAS G12D 변이 췌장암 환자에서 VS-7375에 대한 2상 임상시험](NCT07644559.md) | 2상 | 모집 중 | VS-7375, cetuximab (or panitumumab if α-gal IgE+ or cetuxima | - | 2026-10-13 |
 | [RAS 변이 고형암 및 췌장암(PDAC) 환자를 대상으로 GFH276과 cetuximab 또는 항암화학요법 병용을 평가하는…](NCT07678593.md) | 1상/2상 | 모집 중 | GFH276, Cetuximab, Nab paclitaxel, Gemcitabine, Fluorouracil | - | 2026-10-05 |
 | [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](NCT07705919.md) | 1상/2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Dynamic Contras | - | 2026-10-05 |
 | [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여의 안전성 및 질병 활성도 변화를 평가하…](NCT07769502.md) | 2상 | 모집 중 | Telisotuzumab Adizutecan, Gemcitabine, Nab-Paclitaxel | - | 2026-10-13 |
 | [KRAS G12D 변이 전이성 또는 국소진행성 췌장암 환자에서 GFH375 단독요법 대비 GFH375와 GFS202A 또는…](NCT07784374.md) | 2상 | 모집 중 | GFH375, GFH276, GFS202A | - | 2026-10-02 |
+| [췌관선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법의 2상 임상시험](NCT04926467.md) | 2상 | 모집 중 | Anakinra | - | 2026-10-15 |
 | [췌장암에 대한 선행항암치료(Neoadjuvant Chemotherapy) 후 GS 요법 및 GnP 요법 비교](NCT05268692.md) | 2상/3상 | 모집 중 | GS, GnP | - | 2022-03-07 |
 | [절제된 췌장암 환자에서 전사체 시그니처 기반 보조 항암화학요법 배정을 평가하는 3상 임상시험](NCT05314998.md) | 3상 | 모집 중 | Oxaliplatin, Irinotecan, Folinic acid, 5-fluorouracil, Gemci | - | 2026-08-27 |
 | [국소 진행성 췌장암 1차 치료에서 종양치료전기장(TTFields)과 젬시타빈 및 냅-파클리탁셀 병용요법에 대한 임상시험](NCT05653453.md) | 3상 | 모집 중 | Tumor treating fields combined with Gemcitabine hydrochlorid | - | 2025-03-24 |
@@ -104,9 +106,9 @@ search:
 | [전이성 췌장암 1차 치료로서 리포조말 이리노테칸(irinotecan hydrochloride liposome injectio…](NCT07238283.md) | 3상 | 모집 중 | Irinotecan Hydrochloride Liposome Injection (II); Oxaliplati | - | 2025-12-09 |
 | [KRAS G12D 변이 전이성 췌장암 환자에서 GFH375와 항암화학요법을 비교하는 3상 임상시험](NCT07262567.md) | 3상 | 모집 중 | GFH375, Chemotherapy | - | 2026-08-14 |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib 및 daraxonrasib 병용요법 대 gemcit…](NCT07805954.md) | 3상 | 모집 중 | daraxonrasib, gemcitabine, nab-paclitaxel, zoldonrasib | - | 2026-09-08 |
-| [상동재결합결손 췌장선암 환자에서 Lorigerlimab (MGD019) 임상시험](NCT07565155.md) | 2상 | 모집 예정 | Lorigerlimab | - | 2026-10-13 |
+| [상동재결합결손 췌장선암 환자에서 Lorigerlimab(MGD019)의 2상 임상시험](NCT07565155.md) | 2상 | 모집 예정 | Lorigerlimab | - | 2026-10-13 |
 | [진행성 췌장암 1차 치료에서 젬시타빈 및 냅-파클리탁셀 병용에 L-글루타민 추가 병용 여부를 비교하는 2상 임상시험](NCT07864571.md) | 2상 | 모집 예정 | Gemcitabine (1000 mg/m2), Nab-paclitaxel, L-glutamine | - | 2026-10-08 |
-| [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색을 결합한 2상 임상시험](NCT07871461.md) | 2상 | 모집 예정 | Induction Chemotherapy - FOLFIRINOX, Induction Chemotherapy | - | 2026-10-13 |
+| [국소 진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료 및 수술적 탐색술의 절제율 향상 효과를 평가하는 2상…](NCT07871461.md) | 2상 | 모집 예정 | Induction Chemotherapy - FOLFIRINOX, Induction Chemotherapy | - | 2026-10-13 |
 | [수술을 받은 췌장암 환자에서 HR070803+oxaliplatin+5-fluorouracil/LV 병용요법과 gemcitab…](NCT06217042.md) | 3상 | 모집 예정 | HR070803; Oxaliplatin; 5Fluorouracil; Calcium folinate, gemc | - | 2024-01-22 |
 | [췌장암 수술 후 보조치료로서 리포조말 이리노테칸+옥살리플라틴+S-1 병용요법과 젬시타빈+카페시타빈 병용요법을 비교하는 3상…](NCT06571461.md) | 3상 | 모집 예정 | Liposomal Irinotecan, Oxaliplatin, S-1, Gemcitabine, Capecit | - | 2024-08-27 |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](NCT06999512.md) | 2상/3상 | 모집 예정 | Comprehensive Geriatric Assessment | - | 2025-05-31 |
@@ -115,7 +117,6 @@ search:
 | [국소진행성 췌장암 환자에서 보조 치료로서의 내시경 초음파 유도 국소 지역 항암화학요법 주사](NCT07429643.md) | 2상/3상 | 모집 예정 | endoscopic ultrasonograhy guided chemptherapy injection | - | 2026-02-24 |
 | [젬시타빈 기반 치료 실패 후 전이성 췌장암 환자에서 YL201과 표준 화학요법의 효능 및 안전성을 비교하는 임상시험](NCT07803783.md) | 3상 | 모집 예정 | Tambotatug pelitecan, Liposomal irinotecan, 5 Fluorouracil, | - | 2026-09-04 |
 | [수술 불가, 경계성 수술 가능, 또는 의학적으로 수술이 어려운 췌장암에 대한 양성자 방사선 치료](NCT02598349.md) | 2상 | 모집 중 | Proton Radiation, Capecitabine, Surgical resection | - | 2026-09-29 |
-| [복막 전이가 있는 췌장암 치료를 위한 복강내 온열 항암화학요법(HIPEC) 제2상 임상시험](NCT04858009.md) | 2상 | 모집 중 | Cisplatin, Hyperthermic Intraperitoneal Chemotherapy, Nab-pa | - | 2026-09-14 |
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](NCT05482893.md) | 1상/2상 | 모집 중 | Spevatamig (PT886), Paclitaxel, Gemcitabine, Abraxane, KEYTR | - | 2026-09-28 |
 | [수술 가능 또는 경계성 수술 가능 췌장암 환자를 위한 수술 전 선행치료로서 젬시타빈, 시스플라틴, 냅-파클리탁셀 요법](NCT06423326.md) | 2상 | 모집 중 | Biopsy, Biospecimen Collection, Cisplatin, Computed Tomograp | - | 2026-09-30 |
 | [경계성 절제 가능 췌장암 치료를 위한 수술 전 NALIRIFOX 요법, Nectar 임상시험](NCT06821997.md) | 2상 | 모집 중 | Biospecimen Collection, Computed Tomography, Fluorouracil, I | - | 2026-09-21 |
@@ -125,12 +126,14 @@ search:
 | [특정 RAS 변이를 가진 진행성 고형암 환자를 위한 BPI-572270 연구](NCT07435038.md) | 1상/2상 | 모집 중 | BPI-572270 | - | 2026-09-18 |
 | [진행성 췌장암 환자를 위한 selumetinib과 trastuzumab deruxtecan(DS-8201a) 병용 요법 임상…](NCT07619521.md) | 1상/2상 | 모집 중 | Biospecimen Collection, Diagnostic Imaging Testing, Echocard | - | 2026-09-22 |
 | [절제 불가능한 췌장암에 대한 Padeliporfin 혈관 표적 광역학 치료(VTP) 1상 임상시험](NCT05919238.md) | 1상 | 모집 중 | Padeliporfin Vascular Targeted Photodynamic (VTP) therapy | - | 2026-10-08 |
+| [진행성 고형암 환자를 대상으로 한 KO-2806 단독요법 및 병용요법 임상시험](NCT06026410.md) | 1상 | 모집 중 | Darlifarnib, Cabozantinib, Adagrasib | - | 2026-10-14 |
 | [즉각적인 수술을 받지 않는 침습 전 췌장 점액성 낭종 환자를 대상으로 한 타목시펜 화학예방 1상 임상시험](NCT06320990.md) | 1상 | 모집 중 | Tamoxifen 20mg | - | 2026-10-08 |
 | [경계성 절제 가능 및 국소 진행성 췌장암 환자를 대상으로 한 PTM-101의 1b상 임상시험](NCT06673017.md) | 1상 | 모집 중 | PTM-101 | - | 2026-10-08 |
 | [국소 진행성 또는 전이성 췌장암 환자를 위한 Myc 저해제 OMO-103 초기 임상시험](NCT07089940.md) | 초기 1상 | 모집 중 | Biopsy Procedure, Biospecimen Collection, Computed Tomograph | - | 2026-10-06 |
-| [진행성 고형암 환자를 대상으로 한 시험용 약물 PF-08046876 연구](NCT07090499.md) | 1상 | 모집 중 | PF-08046876, Pembrolizumab, Cisplatin, Carboplatin | - | 2026-10-13 |
+| [진행성 고형암 환자를 대상으로 한 연구 치료제 PF-08046876에 대한 연구](NCT07090499.md) | 1상 | 모집 중 | PF-08046876, Pembrolizumab, Cisplatin, Carboplatin | - | 2026-10-13 |
+| [진행성/전이성 췌장암 환자를 위한 OMTX705 병용 투여(gemcitabine/nab-paclitaxel 및 tisleli…](NCT07377045.md) | 1상 | 모집 중 | OMTX705, Nab-paclitaxel + Gemcitabine, Tislelizumab (i.v. 20 | - | 2026-10-15 |
 | [진행성 또는 전이성 고형암 환자를 대상으로 한 AVA6103 1상 임상시험](NCT07454642.md) | 1상 | 모집 중 | AVA6103 | - | 2026-10-05 |
-| [진행성 고형암 환자를 대상으로 한 KO-2806 단독요법 및 병용요법 1상 임상시험](NCT06026410.md) | 1상 | 모집 중 | Darlifarnib, Cabozantinib, Adagrasib | - | 2026-10-14 |
+| [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 용량 확장 임상시험](NCT07458347.md) | 1상 | 모집 중 | KST-6051, Gemcitabine/nab-paclitaxel, Cetuximab, Pembrolizum | - | 2026-10-15 |
 | [췌장암 환자를 대상으로 하는 EF-009의 제1/2a상 임상시험](NCT04381130.md) | 1상/2상 | 모집 예정 | EF-009 | - | 2026-09-11 |
 | [수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Ge…](NCT07814859.md) | 2상 | 모집 예정 | Retlirafusp alfa Injection, Famitinib, AG | - | 2026-09-11 |
 | [전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](NCT07824960.md) | 1상/2상 | 모집 예정 | Avutometinib (VS-6766) + Defactinib (VS-6063) | - | 2026-09-17 |
@@ -140,7 +143,10 @@ search:
 | [진행성 위장관 췌장 신경내분비종양 환자에서 Lutetium (177Lu) Oxodotreotide 주사의 공개 3상 임상시험](NCT05884255.md) | 3상 | 모집 중 | Lutetium (177Lu) Oxodotreotide Injection；long-acting Octreot | - | 2026-05-19 |
 | [[18F]AlF-FAPI-74 PET/CT를 이용한 암세포 관련 섬유아세포 다기관 검증 임상시험](NCT06782412.md) | 2상/3상 | 모집 중 | [18F]AlF-FAPI-74 PET/CT | - | 2025-02-07 |
 | [KRAS 변이가 있는 진행성 고형암 환자를 위한 BLU-924(SAR449336) 최초 인체 대상 임상시험](NCT07629960.md) | 1상/2상 | 모집 중 | BLU-924 | - | 2026-09-21 |
-| [KRAS G12D 변이 진행성 또는 전이성 대장암 및 췌장암 환자에서 GDC-7035의 안전성과 항암 효과를 평가하는 연구](NCT07859085.md) | 1상 | 모집 예정 | GDC-7035, Panitumumab, mFOLFOX6, FOLFIRI, mFOLFIRINOX, Gem-n | - | 2026-10-13 |
+| [KRAS G12D 변이 진행성 또는 전이성 췌장관선암 환자를 위한 GDC-7035 병용 투여 임상시험](NCT07859085.md) | 1상 | 모집 예정 | GDC-7035, Panitumumab, mFOLFOX6, FOLFIRI, mFOLFIRINOX, Gem-n | - | 2026-10-13 |
+| [KRAS G12V 변이 진행성 고형암 환자를 대상으로 한 NW-301V TCR-T 세포 치료제 1상 임상시험](NCT07875920.md) | 1상 | 모집 예정 | Fludarabine, Cyclophosphamide, NW-301V | - | 2026-10-15 |
+| [간 전이가 있는 고형암 환자를 대상으로 한 장 저선량 방사선 치료와 면역관문억제제 및 항암화학요법 병용 임상 2상 시험](NCT07875465.md) | 2상 | 모집 예정 | Intestinal Low-Dose Radiotherapy (ILDR), PD-1/PD-L1 inhibito | - | 2026-10-15 |
+| [췌장암 치료를 위한 항말라리아제 메플로퀸의 약물 재창출 1상 임상시험](NCT07875907.md) | 1상 | 모집 예정 | Mefloquine, Modified FOLFIRINOX, gemcitabine and nab paclita | - | 2026-10-15 |
 | [수술을 받는 췌장암 환자에서 Panitumumab-IRDye800을 이용한 형광 영상 임상시험](NCT03384238.md) | 1상/2상 | 모집 중 | Fluorescence Imaging, Panitumumab, Panitumumab-IRDye800 | - | 2026-03-17 |
 | [R0 절제술을 받은 췌장암 환자에서 젬시타빈(gemcitabine)과 콕시브(celecoxib) 병용 요법](NCT03498326.md) | 2상 | 모집 중 | Gemcitabine, Gemcitabine | - | 2018-05-30 |
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](NCT04084496.md) | 2상 | 모집 중 | Folfirinox | - | 2025-05-30 |
@@ -165,13 +171,13 @@ search:
 | [전이성 췌장암 환자를 위한 저용량 옥시리(LD-OXIRI) 요법의 2상 임상시험](NCT05929885.md) | 2상 | 모집 중 | Low Dose OXIRI (LD-OXIRI) | - | 2026-06-23 |
 | [진행성/재발성 전이성 췌장암 환자를 위한 C3(메트포르민, 심바스타틴, 디고신) 병용요법 제2A상 파일럿 임상시험](NCT06030622.md) | 1상/2상 | 모집 중 | Gemcitabine and C3 (Metformin, Simvastatin, and Digoxin), C3 | - | 2026-08-03 |
 | [국소 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료 병용 임상시험](NCT06048484.md) | 2상 | 모집 중 | Stereotactic body radiotherapy (SBRT), Zimberelimab, Quemlic | - | 2026-02-27 |
-| [수술 불가 췌장암 환자에서 Sintilimab과 항암화학요법 및 방사선 치료 병용 요법](NCT06050317.md) | 2상 | 모집 중 | Sintilimab Plus mFFN or NALIRIFOX and Radiation | - | 2026-05-01 |
 | [중간엽 단백질(MSLN) 발현 및 HLA-A*02 손실이 있는 고형암 환자 대상 A2B694 또는 A2B543 Tmod CA…](NCT06051695.md) | 1상/2상 | 모집 중 | A2B694, A2B543, xT CDx with HLA-LOH Assay | - | 2026-06-12 |
 | [진행성 췌장암 환자에서 Pimicotinib(ABSK021)에 대한 2상 임상시험](NCT06111274.md) | 2상 | 모집 중 | Pimicotinib (ABSK021) | - | 2024-04-11 |
 | [수술 전 propranolol 투여가 췌장암 수술 환자의 안전성, 유효성 및 타당성에 미치는 영향 평가](NCT06145074.md) | 2상 | 모집 중 | Propranolol, Placebo | - | 2024-03-28 |
 | [진행성 췌장암 환자에서 Trilaciclib와 mFOLFIRINOX 병용 치료에 관한 연구](NCT06151262.md) | 2상 | 모집 중 | Trilaciclib+mFOLFIRINOX | - | 2024-02-23 |
 | [BRAF 융합/재배열이 있는 저등급 교종 또는 췌장암 환자 대상 binimetinib (비니메티닙) 임상 2상 연구 (Per…](NCT06159478.md) | 2상 | 모집 중 | Binimetinib 15 MG | - | 2023-12-13 |
 | [진행성 췌장암 환자를 위한 경동맥 주입술과 정맥 주사 병행 치료](NCT06196788.md) | 2상 | 모집 중 | Gemcitabine, Nab paclitaxel | - | 2024-03-21 |
+| [진행성 고형암 환자를 대상으로 하는 MDX2001의 용량 증량 및 용량 확장 연구](NCT06239194.md) | 1상/2상 | 모집 중 | MDX2001 | - | 2026-10-15 |
 | [국소 진행성 절제 불가능 또는 전이성 췌관선암 환자에서 1차 치료로서 gemcitabine/nab-paclitaxel과 병용…](NCT06261359.md) | 2상 | 모집 중 | CEND-1, Gemcitabine, Nab paclitaxel | - | 2024-09-04 |
 | [국소 진행성 및 국소 재발 췌장암 환자에서 PD-1 항체, 화학요법, PULSAR 방사선 치료 병용 요법의 2상 임상시험](NCT06359275.md) | 2상 | 모집 중 | PD-1, Nab-paclitaxel, Gemcitabine, PULSAR | - | 2024-06-25 |
 | [절제 가능 및 경계성 절제 가능 췌장암 환자를 위한 수술 전 선행치료 삼중 요법(PREOPANC-5)](NCT06384560.md) | 1상/2상 | 모집 중 | Pembrolizumab, Folfirinox, SABR | - | 2026-02-13 |
@@ -237,6 +243,7 @@ search:
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](NCT07640295.md) | 1상/2상 | 모집 중 | JAB-23E73 tablet，nab-paclitaxel，gemcitabine | - | 2026-08-27 |
 | [진행성 췌장암에서 IBI343과 항암화학요법 병용요법에 대한 임상 1b/2상 시험](NCT07692750.md) | 1상/2상 | 모집 중 | IBI343+ capecitabine, IBI343+Capecitabine+oxaliplatin | - | 2026-07-09 |
 | [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 요법 연구](NCT07701486.md) | 1상/2상 | 모집 중 | VCN-01 oncolytic adenovirus (zabilugene almadenorepvec), Nab | - | 2026-07-27 |
+| [KRAS G12D 변이 고형암 환자를 대상으로 한 VS-7375의 1/2상 임상시험](NCT07020221.md) | 1상/2상 | 모집 중 | VS-7375, Cetuximab, Carboplatin + Pemetrexed + Pembrolizumab | - | 2026-10-15 |
 | [진행성 위장관암 및 악성 복수가 동반된 현미부수체 안정형(MSS) 환자에서의 GAIA-102 복강 내 투여 임상시험](NCT05438459.md) | 1상/2상 | 모집 중 | GAIA-102, GAIA-102, Pembrolizumab, Pembrolizumab, Trifluridi | - | 2026-09-15 |
 | [DETERMINE 임상시험 치료 팔 04: HER2 증폭 또는 활성화 변이가 있는 암 환자에서의 trastuzumab과 pe…](NCT05786716.md) | 2상/3상 | 모집 중 | Trastuzumab, Pertuzumab | - | 2025-12-02 |
 | [경계성 절제 가능 및 국소 진행성 췌장암에서 TTI-101과 정위체부방사선치료(SBRT) 병용 임상시험](NCT06141031.md) | 1상 | 모집 중 | TTI-101, Stereotactic body radiation therapy | - | 2026-09-11 |
@@ -246,6 +253,7 @@ search:
 | [DETERMINE 임상시험 치료 팔 07: BRAF V600 변이 양성 암 환자에서 dabrafenib과 trametinib…](NCT07440290.md) | 2상/3상 | 모집 중 | Dabrafenib, Trametinib | - | 2026-08-17 |
 | [수술 가능, 경계성 절제 가능 또는 국소진행성 기저형(Basal) 췌장암 환자를 대상으로 한 사무라시클립(Samuracicl…](NCT07645651.md) | 1상 | 모집 중 | Samuraciclib, Computed Tomography, Endoscopic Ultrasound Bio | - | 2026-09-21 |
 | [위장관 암 탐지를 위한 LUM 이미징 시스템의 타당성 평가](NCT02584244.md) | 1상/2상 | 모집 중 | LUM015, LUM 2.6 Imaging Device | - | 2026-01-16 |
+| [CA19-9 발현 진행성 고형암 환자를 대상으로 한 연구용 약물 BNT329의 안전성 및 잠재적 유익성을 평가하는 임상시험](NCT07186842.md) | 1상/2상 | 모집 중 | BNT329, CA19-9-targeting monoclonal antibody | - | 2026-10-15 |
 | [Exelixis 주관 임상시험 참여자를 위한 장기 연장 임상시험](NCT07620574.md) | 3상 | 초대 모집 | Cabozantinib, Zanzalintinib, Atezolizumab, Nivolumab, Abirat | - | 2026-08-18 |
 | [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](NCT01174121.md) | 2상 | 모집 중 | Pembrolizumab (Keytruda), Fludarabine, Cyclophosphamide, Ald | - | 2026-10-13 |
 | [만성 췌장염 및 양성 췌장 종양 치료를 위한 췌장 전절제술 및 췌도 세포 자가이식술 임상시험](NCT05453851.md) | 1상/2상 | 모집 예정 | Pancreatectomy, Quality-of-Life Assessment, Treatment Planni | - | 2025-11-25 |
@@ -293,7 +301,7 @@ search:
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](NCT07802184.md) | 1상/2상 | 모집 예정 | SHR-1701, Apatinib, gemcitabine, Nab-paclitaxel | - | 2026-09-03 |
 | [방사선 유발 조직 손상 진단을 위한 PET 프로브 [68Ga]CBP8 평가](NCT04485286.md) | 2상 | 모집 중 | [68Ga]CBP8 | - | 2026-02-27 |
 | [메소텔린(mesothelin) 발현 고형암 환자를 위한 Anti-Mesothelin TNaive/SCM hYP218 CAR…](NCT06885697.md) | 1상 | 모집 중 | cyclophosphamide, fludarabine, TNhYP218 CAR T Cells, mesothe | - | 2026-10-06 |
-| [KRAS 변이 암 환자를 위한 TCR1188-ABC 세포 치료제 1상 임상시험](NCT07594067.md) | 1상 | 모집 중 | TCR1188-ABC cells, Fludarabine + Cyclophosphamide combinatio | - | 2026-10-14 |
+| [KRAS 변이 암 환자를 위한 TCR1188-ABC 세포 치료제 제1상 임상시험](NCT07594067.md) | 1상 | 모집 중 | TCR1188-ABC cells, Fludarabine + Cyclophosphamide combinatio | - | 2026-10-14 |
 | [절제 불가능한 췌장암 환자를 위한 Lm-LLO-TT와 젬시타빈 병용 1상 임상시험](NCT07828236.md) | 1상 | 모집 예정 | Lm-LLO-TT | - | 2026-09-18 |
 | [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 Pentamidine 병용 요법](NCT07829185.md) | 1상 | 모집 예정 | modified FOLFIRINOX, Pentamidine 300 MG Injection | - | 2026-09-18 |
 | [전이성 고형암 환자를 대상으로 하는 Metarrestin (ML-246) 제1상 임상시험](NCT04222413.md) | 1상 | 모집 중 | Metarrestin | - | 2026-09-23 |
@@ -308,6 +316,7 @@ search:
 | [진행성 및/또는 전이성 고형암 환자를 대상으로 OATD-02의 안전성, 내뢰성 및 항종양 활성을 평가하기 위한 최초 인체 대…](NCT05759923.md) | 1상 | 모집 중 | OATD-02 | - | 2026-07-31 |
 | [췌장암 수술 후 보조항암화학요법 이후 CT041의 유효성과 안전성을 평가하는 임상시험](NCT05911217.md) | 1상 | 모집 중 | CT041 autologous CAR T-cell injection | - | 2024-05-28 |
 | [전이성 췌장암 환자에서 ProAgio와 젬시타빈, 팹클탁셀 및 아테톨리주맙 병용 투여의 제1상 임상시험](NCT06182072.md) | 1상 | 모집 중 | ProAgio Dose Levels (DL) 1,2,3,4, Gemcitabine, nab paclitaxe | - | 2025-10-01 |
+| [Pancreatic Cancer Screening in a Population at High Risk](NCT06330441.md) | 해당 없음 | 모집 중 | endoscopic ultrasonography, magnetic resonance, laboratory e | - | 2026-10-14 |
 | [변이 KRAS 백신과 balstilimab 및 botensilimab 병용요법의 1상 임상시험](NCT06411691.md) | 1상 | 모집 중 | KRAS Vaccine with Poly-ICLC adjuvant, Balstilimab, Botensili | - | 2026-07-31 |
 | [진행성 암 환자(췌장암 포함)를 대상으로 한 DSB2455의 안전성, 내약성, 활성을 평가하는 임상시험](NCT06458712.md) | 1상 | 모집 중 | DSB2455 | - | 2026-09-02 |
 | [[177Lu]Lu-NNS309의 췌장암, 폐암, 유방암, 대장암 환자 대상 1상 임상시험](NCT06562192.md) | 1상 | 모집 중 | [68Ga]Ga-NNS309, [177Lu]Lu-NNS309 | - | 2026-07-29 |
@@ -324,23 +333,20 @@ search:
 | [진행성/전이성 암 성인 환자를 대상으로 한 STRO-004 연구](NCT07227168.md) | 1상 | 모집 중 | STRO-004, Pembrolizumab | - | 2026-08-27 |
 | [1차 AG 치료 실패 후 국소 진행성 췌장암 환자에서 가역적 전기천공술(IRE)과 이중 기능 항체 PD-1/CTLA-4 병용…](NCT07306273.md) | 2상 | 모집 중 | Irreversible electroporation, Dual-Function Antibody PD-1/CT | - | 2025-12-29 |
 | [1차 AG 치료 실패 후 국소진행성 췌장암에서 냉동절제술과 PD-1/CTLA-4 이중기능 항체 병용 요법](NCT07306286.md) | 2상 | 모집 중 | Cryoablation, Dual-Function Antibody PD-1/CTLA-4 | - | 2025-12-29 |
-| [진행성 또는 전이성 췌장암 환자에서 OMTX705와 젬시타빈/앱나브-파클리탁셀 및 티슬렐주맙 병용 투여에 관한 임상시험](NCT07377045.md) | 1상 | 모집 중 | OMTX705, Nab-paclitaxel + Gemcitabine, Tislelizumab (i.v. 20 | - | 2026-01-29 |
-| [진행성 췌장암 환자의 암 악액질에 대한 나노 결정형 메게스트롤 아세테이트의 효과](NCT07408505.md) | 해당 없음 | 모집 중 | Nano-crystalline megestrol acetate, First-line Chemotherapy | - | 2026-10-13 |
+| [산발성 췌장암 고위험군에서 조기 진단 향상을 위한 스크리닝 프로그램](NCT07324096.md) | 해당 없음 | 모집 중 | Biospecimen Collection, Computed Tomography with Contrast, E | - | 2026-10-14 |
+| [진행성 췌장암 환자의 암 악액질 치료를 위한 나노결정 메게스트롤 아세테이트 임상시험](NCT07408505.md) | 해당 없음 | 모집 중 | Nano-crystalline megestrol acetate, First-line Chemotherapy | - | 2026-10-13 |
 | [췌장암 환자 대상 CAR-NK 세포 치료제(CL-NK-003) 1상 임상시험](NCT07425483.md) | 1상 | 모집 중 | CL-NK-003 | - | 2026-02-23 |
-| [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 제1상 용량 증량 임상시험](NCT07458347.md) | 1상 | 모집 중 | KST-6051 | - | 2026-06-29 |
 | [수술 불가 췌장암 환자에서 젬시타빈을 탑재한 이식형 이온영동 화학요법 전달 장치의 안전성을 평가하는 최초 인체 대상 임상시험](NCT07481383.md) | 1상 | 모집 중 | ACT Implantable Iontophoresis Chemotherapy Delivery Device w | - | 2026-07-06 |
+| [췌장암 고위험군을 대상으로 선별검사를 받으면서 간헐적 단식을 평가하기](NCT07513116.md) | 해당 없음 | 모집 중 | intermittent fasting | - | 2026-10-14 |
 | [절제 불가능한 췌장선암 환자에서 젬시타빈(Gemcitabine) 및 냅-파클탁셀(nab-paclitaxel)에 피타바스타틴(…](NCT07549958.md) | 1상 | 모집 중 | Pitavastatin | - | 2026-05-04 |
 | [위장관 고형암 완전 관해 후 지속성 단독 항암화학요법 유도 혈소판감소증 환자를 대상으로 Romiplostim N01과 ATR…](NCT07586813.md) | 2상 | 모집 중 | Romiplostim N01, All-trans retinoic acid | - | 2026-05-14 |
 | [고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험](NCT07594964.md) | 1상 | 모집 중 | XH001 Injection, mFOLFIRINOX Treatment Regimen | - | 2026-05-19 |
 | [경계성 절제 가능, 국소 진행성 또는 전이성 담관암 및 췌장암 환자를 위한 AB801, 항암화학요법 및 면역요법 병용 1상…](NCT07619313.md) | 1상 | 모집 중 | Biopsy Procedure, Cisplatin, Computed Tomography, Durvalumab | - | 2026-08-20 |
 | [고형암 환자에서 68Ga-DFC413의 1상 임상시험 및 68Ga-NNS309와의 비교](NCT07630961.md) | 1상 | 모집 중 | 68Ga-DFC413, 68Ga-NNS309 | - | 2026-08-27 |
-| [췌장암 환자를 대상으로 한 비열성 집속 초음파(히스토트립시) 임상시험](NCT07873606.md) | 해당 없음 | 모집 중 | Histotripsy | - | 2026-10-14 |
-| [Pancreatic Cancer Screening in a Population at High Risk](NCT06330441.md) | 해당 없음 | 모집 중 | endoscopic ultrasonography, magnetic resonance, laboratory e | - | 2026-10-14 |
-| [췌장암 고위험군에서 산발성 췌장암의 조기 발견을 향상시키기 위한 선별 검사 프로그램 연구](NCT07324096.md) | 해당 없음 | 모집 중 | Biospecimen Collection, Computed Tomography with Contrast, E | - | 2026-10-14 |
-| [췌장암 조기 검진을 받는 고위험군을 대상으로 한 간헐적 단식의 평가](NCT07513116.md) | 해당 없음 | 모집 중 | intermittent fasting | - | 2026-10-14 |
+| [췌장암 치료를 위한 히스토트리프시](NCT07873606.md) | 해당 없음 | 모집 중 | Histotripsy | - | 2026-10-14 |
 | [EGFR 발현 진행성 고형암 환자를 대상으로 한 BCA101 단독 요법 및 펨브롤리주맙 병용 요법의 안전성과 내인성 평가 연구](NCT04429542.md) | 1상 | 모집 중 | BCA101, Pembrolizumab | - | 2026-10-06 |
-| [진행성 고형암 환자를 대상으로 한 BA1302의 안전성 및 유효성 평가 1상 임상시험](NCT06596915.md) | 1상 | 모집 중 | BA1302 | - | 2026-10-13 |
-| [진행성 고형암 환자를 위한 ASP5834 단독 또는 병용 투여 1상 임상시험](NCT07094204.md) | 1상 | 모집 중 | ASP5834, panitumumab | - | 2026-10-13 |
+| [진행성 고형암 환자를 위한 BA1302의 안전성 및 유효성 평가](NCT06596915.md) | 1상 | 모집 중 | BA1302 | - | 2026-10-13 |
+| [고형암 환자 대상 ASP5834 단독 또는 병용 투여 용량 탐색 임상시험](NCT07094204.md) | 1상 | 모집 중 | ASP5834, panitumumab | - | 2026-10-13 |
 | [진행성 고형암 환자를 대상으로 한 [177Lu]Lu-DFC413의 1상 임상시험](NCT07261631.md) | 1상 | 모집 중 | 68Ga-NNS309, 177Lu-DFC413 | - | 2026-10-09 |
 | [BRCA 또는 PALB2 결손 전이성 췌장암 환자를 위한 vilastobart와 retifanlimab 병용 요법 2상 임상…](NCT07765836.md) | 2상 | 모집 예정 | vilastobart (XTX101), Retifanlimab | - | 2026-08-14 |
 | [폰 히펠-린다우(VHL) 증후군 관련 췌장 신경내분비종양의 자연 경과 및 관리 연구](NCT04074135.md) | 2상 | 모집 중 | 68-Gallium DOTATATE | - | 2026-04-20 |
@@ -351,25 +357,23 @@ search:
 | [진행성 고형암 환자를 대상으로 LM-108 ± 펜풀리맙(Penpulimab) 및 항암화학요법 병용의 안전성, 내약성, 예비…](NCT06821503.md) | 1상/2상 | 모집 중 | LM-108 injection, Penpulimab injection, Paclitaxel for injec | - | 2026-03-10 |
 | [순환 종양 DNA(ctDNA)가 검출되지 않는 전이성 상부 위장관 선암 환자에서 표준 치료와 순차적 세포감축술을 비교하는 임…](NCT07282912.md) | 2상 | 모집 중 | Sequential cytoreductive intervention, Signatera Genome ultr | - | 2026-09-08 |
 | [간 전이가 있는 췌장 신경내분비종양 환자 대상 렌바티닙(Lenvatinib) 및 항암화학요법 병용 임상 2상](NCT07835893.md) | 2상 | 모집 중 | Lenvatinib, Chemotherapy | - | 2026-09-23 |
-| [수술 가능한 췌장암 환자에서 수술 전후 NP137과 FOLFIRINOX 병용요법 연구](NCT06203821.md) | 1상 | 모집 예정 | NP137 | - | 2026-02-05 |
-| [국소 진행성 췌장암 환자 대상 체부 정위 방사선 치료(SBRT) 및 PCX12 면역치료 종양 내 주사 병용 요법의 안전성 및…](NCT06217666.md) | 1상 | 모집 예정 | PCX-12 | - | 2026-02-05 |
-| [경계성 수술 가능 췌장암 환자를 대상으로 한 방사선 치료, Tislelizumab 및 Thymalfasin 병용 순차적 항암…](NCT06573398.md) | 2상 | 모집 예정 | SBRT with Sequential AG regimen +Tislelizumab+Thymalfasin | - | 2024-08-27 |
-| [수술로 절제된 췌관선암 환자에서 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINO…](NCT06913218.md) | 1상 | 모집 예정 | AK154, Cadonilimab, Ivonescimab (SMT112 or AK112) Injection, | - | 2025-04-06 |
-| [전이성 췌장관선암 환자를 대상으로 한 cosibelimab(코시벨리맙) 및 balixafortide(발릭사포티드) 병용 요법…](NCT06981806.md) | 1상 | 모집 예정 | Balixafortide, Balixafortide, Cosibelimab, Balixafortide | - | 2025-11-19 |
-| [진행성 췌장암에서 화학요법과 병행하는 NH002 기반 소노포레이션 1상 임상시험](NCT07314385.md) | 1상 | 모집 예정 | nanoliposomal irinotecan+5-FU+leucovorin, NH002 (Perflutren | - | 2026-01-02 |
 
-## 모집 종료·진행 중·완료 (24)
+## 모집 종료·진행 중·완료 (28)
 
 | 시험명 | 단계 | 상태 | 시험 약물 | 국내 기관 | 갱신 |
 |---|---|---|---|---|---|
-| [국소 절제 가능한 췌장암 환자에서 표준 수술 후 CEB-01 임플란트의 안전성과 효능 평가 임상시험](NCT06538857.md) | 초기 1상 | 진행 중(모집 종료) | Standard surgery, CEB-01 | - | 2026-10-14 |
-| [B7-H6 양성 진행성 고형암 아시아인 환자를 대상으로 BI 765049 단독 및 에자벤리맙(Ezabenlimab) 병용 요…](NCT06091930.md) | 1상 | 조기 종료 | BI 765049, Ezabenlimab | - | 2026-10-14 |
-| [전이성 췌장암 성인 환자를 대상으로 한 zolbetuximab(IMAB362) 2상 임상시험](NCT03816163.md) | 2상 | 진행 중(모집 종료) | zolbetuximab, nab-paclitaxel, gemcitabine | 10곳 | 2026-10-14 |
-| [담도암, 췌장암, 폐암, 방광암 환자를 대상으로 한 브리기마들린(BI 907828)의 유효성을 평가하는 2상 임상시험 (Br…](NCT05512377.md) | 2상 | 완료 | Brigimadlin | 4곳 | 2026-10-14 |
-| [자연살해세포와 bortezomib을 이용한 암 치료 임상시험](NCT00720785.md) | 1상 | 완료 | Bortezomib, NK cells | - | 2026-10-13 |
-| [수술 가능한 췌장 선암 환자를 위한 수술 전후 면역요법 플랫폼 임상시험](NCT02451982.md) | 2상 | 진행 중(모집 종료) | Cyclophosphamide, GVAX pancreatic cancer, Nivolumab, Ureluma | - | 2026-10-13 |
+| [복막 전이가 있는 췌장암 치료를 위한 복강내 온열 항암화학요법(HIPEC)](NCT04858009.md) | 2상 | 진행 중(모집 종료) | Cisplatin, Hyperthermic Intraperitoneal Chemotherapy, Nab-pa | - | 2026-10-15 |
+| [경구용 일일 투여 팔투소틴 요법을 이용한 카르시노이드 증후군 유효성 평가 3상 임상시험](NCT07087054.md) | 3상 | 진행 중(모집 종료) | Paltusotine, Placebo | - | 2026-10-15 |
+| [국소 췌장암 환자를 위한 수술 전 간동맥 화학요법 임상시험](NCT05634720.md) | 4상 | 진행 중(모집 종료) | HA Chemotherapy | - | 2026-10-15 |
+| [Organoid-Guided Adjuvant Chemotherapy for Pancreatic Cancer](NCT04931394.md) | 3상 | 완료 | Adjuvant chemotherapy guided by organoid drug sensitivity te | - | 2026-10-15 |
+| [전이성 췌장암 성인 환자를 대상으로 한 졸베툭시맙(Zolbetuximab) 연구](NCT03816163.md) | 2상 | 진행 중(모집 종료) | zolbetuximab, nab-paclitaxel, gemcitabine | 10곳 | 2026-10-14 |
+| [담도암, 췌장암, 폐암, 방광암 환자를 대상으로 brigimadlin(BI 907828)을 평가하는 Brightline-2…](NCT05512377.md) | 2상 | 완료 | Brigimadlin | 4곳 | 2026-10-14 |
+| [B7-H6 양성 진행성 고형암 아시아 환자에서 BI 765049 단독 및 ezabenlimab 병용 투여의 용량 1상 임상시험](NCT06091930.md) | 1상 | 조기 종료 | BI 765049, Ezabenlimab | - | 2026-10-14 |
+| [국소 절제 가능한 췌장암에서 수술 후 CEB-01 임플란트 평가 임상시험](NCT06538857.md) | 초기 1상 | 진행 중(모집 종료) | Standard surgery, CEB-01 | - | 2026-10-14 |
+| [진행성 암 및 혈액암 환자를 위한 자연살해세포(NK cell) 및 bortezomib 병용 요법 제1상 임상시험](NCT00720785.md) | 1상 | 완료 | Bortezomib, NK cells | - | 2026-10-13 |
+| [수술 가능한 췌장 췌관선암 환자를 위한 선행 및 보조 면역요법 플랫폼 임상시험](NCT02451982.md) | 2상 | 진행 중(모집 종료) | Cyclophosphamide, GVAX pancreatic cancer, Nivolumab, Ureluma | - | 2026-10-13 |
 | [진행성 췌장암 또는 대장암 환자를 위한 맞춤형 펩타이드 백신 치료 임상시험](NCT02600949.md) | 1상 | 진행 중(모집 종료) | Imiquimod, Pembrolizumab, Sotigalimab, Synthetic Tumor-Assoc | - | 2026-10-13 |
-| [진행성 고형암 환자를 위한 단독 또는 병용 요법으로서의 연구 약물 PF-07934040에 대한 연구](NCT06447662.md) | 1상 | 진행 중(모집 종료) | PF-07934040, Gemcitabine, Nab-paclitaxel, Cetuximab, Fluorou | - | 2026-10-13 |
+| [진행성 고형암 환자를 위한 연구 약물 PF-07934040 단독 또는 병용 요법 임상시험](NCT06447662.md) | 1상 | 진행 중(모집 종료) | PF-07934040, Gemcitabine, Nab-paclitaxel, Cetuximab, Fluorou | - | 2026-10-13 |
 | [국소진행성 및 경계성 절제 가능 췌장암 환자를 위한 더발루맙과 정위 체부 방사선 치료(SABR) 병용요법 1/2상 임상시험](NCT03245541.md) | 1상/2상 | 진행 중(모집 종료) | Durvalumab, Stereotactic Ablative Body Radiotherapy (SABR) | - | 2026-10-09 |
 | [고형암 환자 진단을 위한 18F-Fluoroazomycin Arabinoside PET-CT 임상시험](NCT03168737.md) | 1상 | 진행 중(모집 종료) | Computed Tomography, Fluorine F 18-fluoroazomycin Arabinosid | - | 2026-10-08 |
 | [전이성 췌장암 환자 대상 젬시타빈 및 냅-파클리탁셀과 VCN-01 병용 요법 2b상 임상시험](NCT05673811.md) | 2상 | 완료 | Nab-paclitaxel, Gemcitabine, VCN-01 | - | 2026-10-08 |

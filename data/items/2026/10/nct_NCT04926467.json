@@ -1,0 +1,132 @@
+{
+ "abstract": "Based on a central role of inflammation in pancreas cancer, the role of IL 1 in acute and chronic inflammation , the inhibitory effect of IL 1 alfa and beta by anakinra and preliminary experience with anakinra in combination with chemotherapy in metastasis (with FOLFIRINOX) and localized disease (with gemcitabine/abraxane/cisplatin), a phase 2 study with anakinra in combination with perioperative chemotherapy for patients with PDAC is being proposed.\n\nThis is an open-label, single-arm, prospective phase II study conducted by Baylor Scott and White Research Institute in Dallas.\n\nThe study will enroll patients with pancreatic adenocarcinoma that are planned to receive pre-operative chemotherapy followed by surgical resection and post operative treatment. Local surgical/biopsy and pathology reports will constitute adequate documentation of histology/cytology for study inclusion.\n\nPatients will receive pre- and post-operative chemotherapy plus Anakinra. Specifically, the pre-operative chemotherapy regimen will be a combination of Nab-paclitaxel, gemcitabine and cisplatin, while post-operative chemotherapy will use 5-Fluorouracil, oxaliplatin, and irinotecan. Patients will also receive growth factor (Neupogen followed by Neulasta) for safety and to ensure that treatment is not delayed due to neutropenic effects of chemotherapy.\n\nAnakinra will be self-administered by the participants through out the treatment period. A treatment break of 2 days will be given prior to the surgery day.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04926467",
+ "importance": 0.9,
+ "key_points_ko": [
+  "수술 전후 전신 항암치료에 인터루킨-1(IL-1) 억제제인 아나킨라(Anakinra)를 추가하는 단일군 2상 연구입니다.",
+  "수술 가능, 경계성 수술 가능, 또는 국소진행성 췌장암(1~3기) 환자 24명을 대상으로 진행됩니다.",
+  "췌장암으로 이전에 항암화학요법이나 방사선치료를 받은 적이 없는 환자만 참여할 수 있습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04926467"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2021-06-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Baylor Research Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04926467"
+ },
+ "summary_ko": "수술 전 선행 항암치료 및 수술 후 보조치료가 예정된 췌관선암(PDAC) 환자를 대상으로 염증 억제제인 아나킨라(Anakinra)와 항암화학요법의 병용 효과를 평가하는 2상 임상시험입니다. 환자들은 수술 전에 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 시스플라틴(cisplatin)과 함께 아나킨라를 투여받습니다. 수술 후에는 5-플루오로우라실(5-FU), 옥살리플라틴(oxaliplatin), 이리노테칸(irinotecan) 조합과 아나킨라를 병용하게 됩니다. 아나킨라는 환자가 직접 자가 투여하는 방식으로 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Chemotherapy + Anakinra in Patients With Pancreatic Adenocarcinoma (PDAC)",
+ "title_ko": "췌관선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법의 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "page.blas@bswhealth.org",
+    "name": "Page Blas, MA",
+    "phone": "(214) 818-7879"
+   },
+   {
+    "email": "Joyce.Ghormley@BSWHealth.org",
+    "name": "Joyce Ghormley",
+    "phone": "(214) 818-8961"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 조직학적 또는 세포학적으로 확인된 췌관선암 환자\n- 수술 가능, 잠재적 수술 가능(경계성), 또는 국소진행성 췌장암(AJCC 병기 1~3기)\n- ECOG 수행능력 점수 0~1점\n- 적절한 골수, 간, 신장 기능 보유자\n- 연구 기간 동안 피임에 동의한 남성 및 가임기 여성\n\n제외 기준:\n- 4기(전이성) 췌장암 환자 또는 췌장 섬세포종양 환자\n- 이전에 췌장암에 대한 항암화학요법 또는 방사선치료를 받은 환자\n- 아나킨라, 카나키누맙(canakinumab) 등 IL-1 억제제 치료를 받은 경험이 있는 환자\n- 장기 이식 병력이 있거나 면역억제제를 복용 중인 환자\n- 활동성 B형/C형 간염, HIV 감염 또는 전신 치료가 필요한 중증 감염 환자\n- 최근 6개월 이내 중대한 심장 질환 병력 또는 기저 말초 감각신경병증 2등급 이상인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* A patient will be eligible for inclusion in this study if he or she meets all of the following criteria:\n\n  1. 18 years of age or older\n  2. Histologically or Cytologically confirmed pancreatic ductal adenocarcinoma. Mixed subtypes of adenocarcinoma are acceptable as long as majority of cells are ductal adenocarcinoma.\n  3. Resectable, locally advanced or potentially resectable pancreatic adenocarcinoma\n  4. American Joint Committee on Cancer (AJCC) Stage I-III Pancreatic carcinoma.\n  5. Patient has Eastern Cooperative Oncology Group( ECOG ) Performance Status 0 to 1\n  6. Serum albumin ≥2.0 g/dL.\n  7. Adequate hematologic function as defined by:\n\n     1. Absolute neutrophil count (ANC) ≥1500/mm3;\n     2. Platelets ≥70,000 x 10\\^3/µl;\n     3. Hemoglobin ≥9 g/dL (in the absence of red blood transfusion).\n  8. Adequate liver function, as defined by:\n\n     1. Serum total bilirubin ≤2 x ULN mg/dL, prior to initiation of treatment.\n     2. ALT (SGPT) and AST (SGOT) ≤2.5 x upper limit of normal (ULN).\n  9. Adequate renal function, as defined by serum creatinine≤ 1.5 x ULN, or creatinine clearance ≥50 mL/min\n  10. Women of child bearing potential and men must agree to use contraception throughout the study and for one month after the last anakinra administration.\n  11. Subjects must understand and sign the informed consent form\n  12. Patients must be accessible for treatment and follow-up.\n\nExclusion Criteria:\n\n* A patient will be ineligible for inclusion in this study if he or she meets any of the following criteria:\n\n  1. \\<18 years of age\n  2. History of organ transplant.\n  3. Patients with islet cell neoplasms\n  4. Patients with stage IV pancreatic carcinoma\n  5. Active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy\n  6. Known active infection with hepatitis B or hepatitis C\n  7. Presence of clinically significant cirrhosis as determined by the investigator\n  8. Known HIV positive status.\n  9. Current, active immunosuppressive therapy such as cyclosporine, tacrolimus, etc.\n  10. Major surgery or vascular device placement within 2 weeks prior to Day 1 of treatment in study\n  11. Prior chemotherapy or radiation for pancreatic cancer\n  12. History of allergy or hypersensitivity to the study drugs\n  13. Patient is enrolled in any outside therapeutic clinical protocol or investigational trial with an investigational drug within 5 half-lives prior to Study ID assignment\n  14. Previous or current treatment with anakinra, canakinumab or any other IL-1 inhibitor\n  15. Other malignancy within five years(except cutaneous, non-melanoma malignancies or cervical carcinoma in site), unless the probability of recurrence of the prior malignancy is \\<5% as determined by the Principal Investigator based on available information.\n  16. Significant cardiac disease (uncontrolled congestive heart failure (CHF), myocardial infarction or significant ventricular arrhythmias) within the last six months.\n  17. Other severe and/or uncontrolled medical conditions (e.g: prior gastrointestinal (GI) disease or history of prior pelvic or abdominal radiation) or other conditions deemed by investigator as unsuitable for participation/enrollment\n  18. Peripheral sensory neuropathy \\> or equal to grade 2 at baseline\n  19. Abnormal liver function tests as follows:\n\n      1. Total bilirubin of \\> 2 x ULN\n      2. AST or ALT \\> 5x ULN\n  20. Serum albumin ˂ 2.0 g/dL.\n  21. Abnormal hematologic function as follows :\n\n      1. Absolute neutrophil count (ANC) ˂ 1500/mm3;\n      2. Platelets ˂ 70,000 x 10\\^3/µl;\n      3. Hemoglobin ˂ 9 g/dL (in the absence of red blood transfusion).\n  22. Pregnant or nursing women\n  23. No signed Informed consent form",
+  "enrollment": 24,
+  "has_results": false,
+  "interventions": [
+   "Anakinra"
+  ],
+  "last_update_posted": "2026-10-15",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "전이성(4기) 췌장암 환자",
+    "이전에 췌장암으로 항암치료나 방사선치료를 받은 병력",
+    "장기 이식 병력 또는 면역억제제 투여 환자",
+    "최근 6개월 이내 심부전, 심근경색 등 중대한 심장 질환 병력",
+    "활동성 B형 간염, C형 간염, HIV 감염 또는 중증 감염 환자"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "항암치료 병력이 없는 수술 전후 1~3기 췌장암 환자를 위한 항암화학요법 및 아나킨라 병용 시험",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "radiotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced",
+    "resectable",
+    "adjuvant",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04926467",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-06",
+  "sex": "ALL",
+  "sponsor": "Baylor Research Institute",
+  "start_date": "2021-07-23",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

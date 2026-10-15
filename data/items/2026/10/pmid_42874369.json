@@ -1,0 +1,67 @@
+{
+ "abstract": "INTRODUCTION: The optimal duration and clinical benefit of neoadjuvant gemcitabine plus nab-paclitaxel (GnP) for resectable pancreatic cancer (RPC) remain uncertain.\nMETHODS: We conducted a prospective single-arm phase II study evaluating neoadjuvant GnP in RPC. The primary end point was 2-y relapse-free survival (RFS). Secondary end points included R0 resection rate, safety, overall survival, and the impact of treatment duration on survival outcomes. Survival outcomes were compared with those of a propensity score-matched historical cohort that underwent upfront surgery.\nRESULTS: Twenty-eight patients were analyzed. The objective response rate was 17.9%, and curative resection was achieved in 85.7%. Grade ≥3 neutropenia occurred in 64.3% without febrile neutropenia, indicating manageable toxicity. The median RFS was 15.7 mo (95% confidence interval, 12.3-19.2), with a 2-y RFS rate of 29.9%, and the median overall survival was 32.9 mo (95% confidence interval, 30.0-38.8). Propensity score-matched analysis demonstrated survival comparable to historical controls treated with upfront surgery. However, patients who completed four cycles of GnP showed a trend toward longer survival than those receiving two cycles.\nCONCLUSIONS: Neoadjuvant GnP provides acceptable safety and tumor control but limited survival benefit in RPC. Prolonged preoperative GnP may improve outcomes, suggesting that treatment duration may be a key determinant of efficacy.",
+ "authors": [
+  "Ishido K",
+  "Kimura N",
+  "Nagase H",
+  "Wakasa Y",
+  "Wakiya T",
+  "Tsuruta S",
+  "Miura T",
+  "Hakamada K"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "drug",
+  "trial"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42874369",
+ "importance": 0.78,
+ "key_points_ko": [
+  "수술 가능한 췌장암 환자 28명에서 수술 전 GnP 요법의 객관적 반응률은 17.9%, 근치적 절제율은 85.7%였습니다.",
+  "중앙 무재발 생존기간(RFS)은 15.7개월(2년 RFS율 29.9%), 중앙 전체 생존기간(OS)은 32.9개월이었습니다.",
+  "3등급 이상의 호중구 감소증이 64.3%에서 발생했으나 발열성 호중구 감소증은 없었습니다.",
+  "수술 전 바로 수술을 진행한 환자군과 비교해 생존 이득은 제한적이었으나, 4주기를 완료한 환자에서 생존 개선 경향이 관찰되었습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1016/j.jss.2026.08.063",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42874369"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874369/"
+ },
+ "summary_ko": "수술 가능한 췌장암 환자 28명을 대상으로 수술 전 젬시타빈(gemcitabine)과 납-파클리탁셀(nab-paclitaxel, GnP) 선행보조요법을 시행한 전향적 2상 연구 결과입니다. 치료 후 객관적 반응률은 17.9%였으며 환자의 85.7%에서 근치적 절제가 이루어졌습니다. 중앙 무재발 생존기간(RFS)은 15.7개월, 중앙 전체 생존기간(OS)은 32.9개월로 나타났습니다. 성향 점수 매칭을 통해 곧바로 수술을 받은 과거 대조군과 비교했을 때 생존 기간은 유사한 수준이었으나, 선행 항암 치료를 4주기 완료한 환자가 2주기만 받은 환자보다 생존 기간이 더 긴 경향을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Limited Survival Benefit of Short-Course Neoadjuvant Gemcitabine Plus Nab-Paclitaxel for Resectable Pancreatic Cancer: A Prospective Phase II Study With a Propensity Score-Matched Analysis",
+ "title_ko": "수술 가능한 췌장암에서 단기 선행보조 젬시타빈+납-파클리탁셀 요법의 제한적인 생존 이득: 성향 점수 매칭 분석을 포함한 전향적 2상 연구",
+ "trial": null,
+ "type": "paper"
+}

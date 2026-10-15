@@ -11,7 +11,8 @@
   "Marquering HA"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "review",
@@ -25,7 +26,12 @@
  ],
  "id": "pmid:42867514",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 4,680건의 문헌 중 기준을 충족한 20건의 연구(CT 연구 15건, PET/CT 연구 5건)를 종합 분석했습니다.",
+  "기존의 RECIST 1.1 기준은 부분 반응 및 안정 병변 환자의 실제 반응 평가에 정확도 한계를 보였습니다.",
+  "모든 연구에서 R0 완전 절제 및 생존기간 모두와 일관된 연관성을 입증한 단일 재병기 평가법은 확인되지 않았습니다.",
+  "수술 기회를 놓치지 않고 예후를 정밀하게 예측하기 위해 추가 영상 특성과 CA19-9 수치의 통합적 활용이 필요합니다."
+ ],
  "last_updated": "2026-10-14",
  "links": {
   "doi": "10.1007/s00330-026-12954-1",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42867514/"
  },
- "summary_ko": "OBJECTIVES: The introduction of improved multi-agent systemic therapies has made restaging and treatment response assessment in patients with localized pancreatic ductal adenocarcinoma (PDAC) increasingly complex. This scoping review aims to assess and compare methods for local disease restaging and treatment response assessment in localized PDAC, with a focus on their association with resectability, overall survival (OS), and R0-resection rates.",
- "summary_source": "excerpt",
+ "summary_ko": "다제 병용 항암화학요법의 발전으로 국소 췌관선암 환자에서 항암치료 후 병기를 다시 평가하는 과정이 점차 복잡해지고 있습니다. 본 연구는 선행 치료를 받은 국소 췌장암 환자에서 CT와 양전자방출단층촬영(PET/CT) 등을 활용한 재병기 평가 방법이 수술 가능성, 전체 생존기간(OS), 완전 절제(R0 절제)율과 어떤 연관이 있는지 분석한 20편의 연구를 종합 검토했습니다. 분석 결과, 기존의 고형종양 반응평가기준(RECIST 1.1)은 부분 반응(PR) 및 안정 병변(SD) 평가에서 한계를 보였으며 단독으로 생존율과 R0 절제율을 일관되게 예측하는 단일 평가법은 없었습니다. 연구진은 수술 가능성과 예후를 보다 정확히 평가하기 위해 추가적인 영상 지표 및 CA19-9 종양표지자를 통합 평가해야 한다고 제시했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Restaging the primary tumor in localized pancreatic ductal adenocarcinoma after systemic therapy: a scoping review of the role of CT, FDG-PET, and CA19-9",
- "title_ko": null,
+ "title_ko": "전신 항암화학요법 후 국소 췌관선암의 원발 종양 재병기 설정: CT, FDG-PET 및 CA19-9의 역할에 관한 주제 범위 문헌고찰",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,61 @@
+{
+ "abstract": "Cancer cells within a single pancreatic ductal adenocarcinoma (PDAC) are most often heterogeneous in their expression of the basal or classical transcriptional program. Predominance of the basal subtype has been associated with poorer patient outcomes and increased resistance to chemotherapy. Based on this, we predicted that basal subtype would be enriched in tumors previously treated with chemotherapy, and in metastases derived from primary PDAC tumors with a mixed basal/classical population. To create matched classical and basal cell lines, we stably transduced two classical PDAC cell lines (AsPC1 and HPAFII) with the basal program transcriptional driver ∆Np63α or an mCherry control and assessed their growth, metastasis, and response to chemotherapy both in vitro and in vivo. Forced expression of ∆Np63α successfully converted both cell lines to basal transcriptomic subtype, yet the basal program failed to drive increased cell growth or chemoresistance in culture and did not affect tumor growth of AsPC1 in the murine pancreas. In mice orthotopically engrafted with ∆Np63α-expressing cells, no statistically significant increase in spontaneous pulmonary metastases was observed for AsPC1 or HPAFII, however, pulmonary metastases were enriched for ∆Np63 expression as compared to established primary tumors, including expression of endogenous ∆Np63 in the mCherry control. Increased resistance to irinotecan chemotherapy was observed in ∆Np63α + HPAFII, yet treatment selected for ∆Np63-negative cells in both HPAFII and ASPC1. In summary, our data show that PDAC metastases are enriched for basal subtype, but chemotherapy treatment does not preferentially select for basal-type cells.",
+ "authors": [
+  "Ryan DH",
+  "Ohara Y",
+  "Kruhlak MJ",
+  "Zhang X",
+  "Lin M",
+  "Tai CH",
+  "Alewine C"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42876041",
+ "importance": 0.59,
+ "key_points_ko": [
+  "∆Np63α 발현을 통해 췌장암 세포주를 기저양 아형으로 전환했으나, 배양 세포의 증식 속도나 췌장 내 종양 성장은 유의하게 증가하지 않았습니다.",
+  "동물 모델의 폐 전이 병변은 원발 종양에 비해 ∆Np63 발현이 풍부하게 나타났습니다.",
+  "∆Np63α를 발현하는 HPAFII 세포에서 이리노테칸(irinotecan) 내성이 관찰되었으나, 실제 항암 치료 후에는 두 세포주 모두에서 오히려 ∆Np63 음성 세포가 선택되었습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1002/cam4.72322",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42876041"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42876041/"
+ },
+ "summary_ko": "췌관선암종(PDAC)의 기저양(basal) 아형은 일반적으로 나쁜 예후 및 항암제 내성과 연관된 것으로 알려져 있습니다. 연구진은 기저양 전사 조절 인자인 ∆Np63α를 클래시컬(classical) 췌장암 세포주에 주입하여 체외 및 동물 모델에서 종양 성장, 전이, 항암 반응을 평가했습니다. 실험 결과 췌장암 폐 전이 병변에서는 원발 종양에 비해 기저양 표지자 발현이 유의하게 증가했으나, 체외 항암치료는 기저양 세포를 우선적으로 남기지 않았습니다. 종합적으로 췌장암 전이 병변에는 기저양 아형이 더 많이 분포하지만 항암치료 자체가 기저양 세포를 선택적으로 증가시키는 것은 아니었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Basal Marker ΔNp63α Is Enriched in Pancreatic Cancer Metastases but Not in Primary Tumors Post-Chemotherapy",
+ "title_ko": "기저양 아형 표지자 ΔNp63α는 항암치료 후 원발 종양이 아닌 췌장암 전이 병변에 풍부하게 나타납니다",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer and type 2 diabetes mellitus (T2DM) are closely linked through complex epidemiological and biological interactions. However, the development, knowledge structure, and research trends of this field have not been systematically characterized. This study aimed to investigate the research landscape and knowledge structure of pancreatic cancer and T2DM research from 2006 to 2025.\nMETHODS: We conducted the primary bibliometric analysis using WOSCC records, and separately analyzed PubMed-indexed clinical trials as a supplementary dataset. A total of 1,989 WOSCC publications were included in the bibliometric analysis, while 54 PubMed-indexed Clinical Trial records were included in the supplementary clinical trial assessment. CiteSpace was used to perform collaboration, co-citation, keyword, timeline, and burst analyses of the WOSCC dataset.\nRESULTS: The number of publications increased steadily over the study period, particularly after 2015. The United States and China were the leading contributors, while the University of California System and Harvard University were among the most productive institutions. Major research themes included cancer risk, insulin resistance, metabolic inflammation, incretin-based therapies, and new-onset diabetes. Keyword evolution and burst analyses indicated increasing attention to mechanistic investigation, biomarker discovery, risk stratification, and precision medicine approaches.\nCONCLUSION: This study characterizes the development and knowledge structure of research on the relationship between pancreatic cancer and T2DM and highlights major research themes, emerging hotspots, and future directions for mechanistic investigation and clinical translation.",
+ "authors": [
+  "Dong Z",
+  "Zhou T",
+  "Ma S",
+  "Chen X",
+  "Lai Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "supportive",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42876703",
+ "importance": 0.86,
+ "key_points_ko": [
+  "2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.",
+  "논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.",
+  "주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.3389/fendo.2026.1945735",
+  "nct": [],
+  "pmcid": "PMC13661381",
+  "pmid": "42876703"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review"
+ ],
+ "published_at": "2026-09-30",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Endocrinol (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42876703/"
+ },
+ "summary_ko": "이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis",
+ "title_ko": "췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석",
+ "trial": null,
+ "type": "paper"
+}

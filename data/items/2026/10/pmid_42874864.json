@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVE: To evaluate the safety of the four types of portal vein reconstruction (PVR) as defined by the International Study Group of Pancreatic Surgery (ISGPS) and to analyse long-term survival outcomes in patients with pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: A prospectively collected pancreatic surgery registry that was supplemented retrospectively was used. Patients who underwent open pancreatic resection with PVR between 2005 and 2024 were included. Clinicopathological characteristics, outcomes, and computed tomography images were analysed and tested in multivariate and survival analyses. For survival analyses, patients with PDAC who underwent pancreatectomy without PVR served as controls.\nRESULTS: Pancreatectomies with PVR (n=386) comprised 63 tangential resections with venorrhaphy (ISGPS type I), 25 patch reconstructions (type II), 147 end-to-end anastomoses (type III), and 151 resections with graft interposition (type IV). Most type IV reconstructions (98.7%) used spiral grafts, predominantly made from the great saphenous vein (GSV). PVR thrombosis rate was 3.1% at 30 days and 5.7% at 90 days following surgery. There were no significant differences between PVR types I-IV in the incidence of PVR thromboses, complications, or mortality. Median survival for PDAC patients with PVR was 22.8 months, with no survival differences between types I-IV, compared with 31.7 months in patients without PVR, p=.003.\nCONCLUSIONS: In this setting, where PVR was performed using GSV spiral grafts for interposition, the type of PVR did not associate with pancreatic surgery outcomes or portal vein patency. The rate of PVR thrombosis was low, and other complication rates and long-term survival outcomes were comparable with international standards.",
+ "authors": [
+  "Virtanen J",
+  "Aro E",
+  "Heinola I",
+  "Kokkola A",
+  "Haglund C",
+  "Kantonen I",
+  "Seppänen H",
+  "Vikatmaa P"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42874864",
+ "importance": 0.77,
+ "key_points_ko": [
+  "문맥 재건술 후 문맥 혈전 발생률은 수술 후 30일에 3.1%, 90일에 5.7%로 낮게 유지되었습니다.",
+  "재건 유형(I형 63명, II형 25명, III형 147명, IV형 151명)에 따른 합병증, 사망률 및 혈전 발생 위험의 차이는 없었습니다.",
+  "중앙 생존기간은 문맥 재건군이 22.8개월로, 문맥 침범이 없어 재건을 하지 않은 군의 31.7개월에 비해 통계적으로 유의하게 짧았습니다(p=0.003)."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1016/j.avsg.2026.09.062",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42874864"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Vasc Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874864/"
+ },
+ "summary_ko": "본 연구는 췌장암(PDAC) 수술 중 시행되는 4가지 유형의 문맥 재건술(PVR)의 안전성과 장기 생존 결과를 비교 분석했습니다. 2005년부터 2024년까지 문맥 재건술을 동반한 췌장 절제술을 받은 386명의 환자 데이터를 분석했습니다. 재건 방식(단순 봉합, 패치, 단단 문합, 인조/자가혈관 간치술)에 따른 혈전 발생률, 합병증 및 사망률에는 유의미한 차이가 없었습니다. 문맥 재건술을 받은 환자의 중앙 생존기간은 22.8개월이었으며, 재건 유형 간의 생존율 차이는 나타나지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The type of portal vein reconstruction does not affect the outcomes of pancreatic surgery or the patency of the portal vein",
+ "title_ko": "문맥 재건술의 방식은 췌장 수술 결과나 문맥 개통성에 영향을 미치지 않습니다",
+ "trial": null,
+ "type": "paper"
+}

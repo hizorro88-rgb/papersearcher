@@ -16,12 +16,134 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 80건 · 최근 30일 80건
+전체 84건 · 최근 30일 84건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42876703"></a>
+#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
+<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
+
+이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
+
+- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
+- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
+- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
+
+---
+<a id="pmid-42873039"></a>
+#### [자연에서 의학으로: 나노기술 기반 췌장암 치료에서 천연물 치료제의 한계 극복](https://pubmed.ncbi.nlm.nih.gov/42873039/)
+<small>From Nature to Medicine: Overcoming the Limitations of Herbal Therapeutics for Pancreatic Cancer Treatment Based on Nanotechnology</small>
+
+`논문` `종설` `신약·치료제` `기초연구` `치료 전반` · 2026-10-04 · PubMed · Nanomaterials (Basel) · 중요도 0.68
+
+췌관선암(PDAC)은 치료 반응이 제한적인 치명적인 암종입니다. 천연물 유래 생리활성 물질은 항암 잠재력을 보이지만, 낮은 수용성과 체내 흡수율, 빠른 대사 분해, 종양 표적화 부족 등의 한계가 있습니다. 이 종설 논문은 식물 추출물 등을 활용하는 친환경 나노기술(Green nanotechnology)을 접목하여 천연 물질의 전달력과 체내 지속성을 높이고 췌장암에 대한 항암 효과를 극대화하는 최신 전략을 검토했습니다. 아울러 임상 적용을 위한 생체 안전성 및 주요 극복 과제들을 다루고 있습니다.
+
+- 천연물 유래 항암 물질의 한계인 낮은 수용성, 낮은 생체이용률, 불충분한 종양 표적성을 극복하기 위해 나노기술이 주목받고 있습니다.
+- 식물 추출물 및 생체고분자 등을 이용한 친환경 나노입자 합성은 기존 화학적 방식보다 생체적합성이 우수하고 지속 가능한 대안으로 평가받습니다.
+- 췌장암 치료제로서 실제 환자에게 적용되기 위해 해결해야 할 안전성 검증 및 임상 전환(Translational)의 장애물들을 종합적으로 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42873039/) · [DOI](https://doi.org/10.3390/nano16191256) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13666960/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42873039)</small>
+
+---
+<a id="pmid-42877588"></a>
+#### [췌장암에서 선천 면역-기질 간 상호작용: 면역치료에 대한 공간적·대사적 장벽 극복 전략](https://pubmed.ncbi.nlm.nih.gov/42877588/)
+<small>Innate immunity-stroma crosstalk in pancreatic cancer: overcoming spatial and metabolic barriers to immunotherapy</small>
+
+`논문` `종설` `치료 전반` `기초연구` · 2026-09-30 · PubMed · Front Immunol · 중요도 0.64
+
+췌관선암(PDAC)은 면역억제성과 섬유화가 극심한 종양 미세환경(TME)으로 인해 기존 면역항암치료에 강한 저항성을 보입니다. 본 종설은 종양 연관 대식세포(TAM), 종양 연관 호중구(TAN) 등 선천 면역 세포와 암 연관 섬유아세포(CAF) 간의 상호작용이 어떻게 공간적 및 대사적 장벽을 형성하는지 정리했습니다. 이들 상호작용은 치밀한 콜라겐 기질 형성 및 젖산·아데노신 축적 등을 유발하여 면역세포의 종양 침투를 차단하고 기능을 마비시킵니다. 저자들은 이러한 장벽을 해체하기 위한 기질 조절, 대사 억제, 대식세포 재프로그래밍 등의 병용 치료 전략과 '3D+R' 개념적 프레임워크를 제시했습니다.
+
+- 선천 면역 세포(TAM, TAN)와 섬유아세포(CAF)의 상호작용이 췌장암의 면역치료 저항성을 유발하는 핵심 기전입니다.
+- 치밀한 콜라겐 기질과 호중구 세포외 덫(NETs)이 CD8+ T세포와 NK세포의 종양 침투를 물리적으로 차단합니다.
+- 젖산 증가, 아데노신 축적 등 대사적 변화가 효과 림프구의 기능을 억제하고 면역억제 환경을 강화합니다.
+- 저항성을 극복하기 위해 섬유화 완화, 아데노신 제거, 항원 제시 촉진 등을 결합한 새로운 병용 전략(3D+R)이 논의되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877588/) · [DOI](https://doi.org/10.3389/fimmu.2026.1942345) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13662915/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877588)</small>
+
+---
+<a id="pmid-42876041"></a>
+#### [기저양 아형 표지자 ΔNp63α는 항암치료 후 원발 종양이 아닌 췌장암 전이 병변에 풍부하게 나타납니다](https://pubmed.ncbi.nlm.nih.gov/42876041/)
+<small>Basal Marker ΔNp63α Is Enriched in Pancreatic Cancer Metastases but Not in Primary Tumors Post-Chemotherapy</small>
+
+`논문` `전임상` `기초연구` `치료 전반` · 2026-10-01 · PubMed · Cancer Med · 중요도 0.59
+
+췌관선암종(PDAC)의 기저양(basal) 아형은 일반적으로 나쁜 예후 및 항암제 내성과 연관된 것으로 알려져 있습니다. 연구진은 기저양 전사 조절 인자인 ∆Np63α를 클래시컬(classical) 췌장암 세포주에 주입하여 체외 및 동물 모델에서 종양 성장, 전이, 항암 반응을 평가했습니다. 실험 결과 췌장암 폐 전이 병변에서는 원발 종양에 비해 기저양 표지자 발현이 유의하게 증가했으나, 체외 항암치료는 기저양 세포를 우선적으로 남기지 않았습니다. 종합적으로 췌장암 전이 병변에는 기저양 아형이 더 많이 분포하지만 항암치료 자체가 기저양 세포를 선택적으로 증가시키는 것은 아니었습니다.
+
+- ∆Np63α 발현을 통해 췌장암 세포주를 기저양 아형으로 전환했으나, 배양 세포의 증식 속도나 췌장 내 종양 성장은 유의하게 증가하지 않았습니다.
+- 동물 모델의 폐 전이 병변은 원발 종양에 비해 ∆Np63 발현이 풍부하게 나타났습니다.
+- ∆Np63α를 발현하는 HPAFII 세포에서 이리노테칸(irinotecan) 내성이 관찰되었으나, 실제 항암 치료 후에는 두 세포주 모두에서 오히려 ∆Np63 음성 세포가 선택되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876041/) · [DOI](https://doi.org/10.1002/cam4.72322) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876041)</small>
+
+---
+<a id="pmid-42870282"></a>
+#### [췌장암 증식 억제를 위한 anti-miR-221과 젬시타빈 동시 전달 중간엽 줄기세포 유래 엑소좀 연구](https://pubmed.ncbi.nlm.nih.gov/42870282/)
+<small>MSC-derived exosomes co-delivering anti-miR-221 and gemcitabine for inhibiting the proliferation of pancreatic cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-08-26 · PubMed · J Transl Med · 중요도 0.54
+
+본 연구는 인간 제대혈 중간엽 줄기세포(MSC)에서 유래한 엑소좀(exosome)을 운반체로 활용하여 miR-221을 억제하는 안티센스 올리고뉴클레오타이드(anti-miR-221)와 젬시타빈(gemcitabine)을 동시에 전달하는 치료법을 평가했습니다. 췌장암 세포주(Panc-1) 및 동물 모델에서 동시 탑재 엑소좀은 단독 투여군 대비 종양 세포 증식과 종양 크기를 가장 크게 억제했습니다. 또한 세포자멸사를 유도하는 Caspase-3 단백질은 증가시키고 혈관 생성을 돕는 VEGF 단백질은 감소시켰습니다. 젬시타빈 단독 투여 시 관찰된 간 및 신장 조직 손상이 엑소좀 투여군에서는 나타나지 않아 낮은 장기 독성을 보였습니다.
+
+- anti-miR-221과 젬시타빈을 함께 탑재한 엑소좀 투여군은 단일 치료군들 대비 종양 부피와 무게를 유의하게 감소시켰습니다(P < 0.01).
+- 동시 탑재 엑소좀은 종양 조직 내 세포자멸사 관련 단백질인 Caspase-3를 증가시키고 VEGF 단백질을 감소시켰습니다(P < 0.01).
+- 젬시타빈 단독 투여에서 나타난 간 및 신장 병리적 손상이 엑소좀 탑재군에서는 관찰되지 않아 안전성을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870282/) · [DOI](https://doi.org/10.1186/s12967-026-08764-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663053/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870282)</small>
+
+---
+<a id="pmid-42870295"></a>
+#### [U2 snRNP 억제를 통한 DNA 복구 능력 및 유사분열 검문소 교란이 췌장암 세포 생존율에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42870295/)
+<small>U2 snRNP inhibition hampers pancreatic cancer cell viability by disrupting DNA repair proficiency and mitotic checkpoint integrity</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-31 · PubMed · J Exp Clin Cancer Res · 중요도 0.54
+
+이 연구는 췌관선암종(PDAC) 세포와 환자 유래 오가노이드(PDO)를 대상으로 RNA 스플라이싱 인자인 U2 snRNP 억제제의 항암 효과와 기전을 조사했습니다. U2 snRNP를 표적하는 약물은 DNA 손상 반응(DDR) 경로를 손상시켜 상동재조합 기능이 유지된 암세포에서도 PARP 억제제에 대한 민감도를 크게 높였습니다. 또한 AURKA, AURKB, CHEK1 등 세포 분열 관련 유전자의 스플라이싱을 방해하여 심각한 유사분열 결함과 세포 사멸을 유도했습니다. 연구진은 U2 snRNP 억제와 유사분열 또는 DNA 복구 억제제의 병용이 췌장암의 새로운 치료 전략이 될 수 있음을 시사했습니다.
+
+- U2 snRNP 표적 약물은 상동재조합 기능이 온전한 췌장암 세포와 오가노이드에서 DNA 손상 반응을 손상시켜 PARP 억제제(talazoparib)에 대한 감수성을 높였습니다.
+- 스플라이싱 억제는 유사분열 조절 유전자(AURKA, AURKB, CHEK1) 발현을 교란시켜 염색체 정렬 이상 등 심각한 세포 분열 결함을 유발했습니다.
+- AURKA, AURKB, CHEK1의 높은 발현은 췌장암 환자의 불량한 예후와 연관되었으며, 이들 키나아제 억제제와의 병용 처리는 췌장암 세포 및 오가노이드의 생존율을 크게 저하시켰습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870295/) · [DOI](https://doi.org/10.1186/s13046-026-03795-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13660249/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870295)</small>
+
+---
+<a id="pmid-42878069"></a>
+#### [데이터 부족 한계를 극복하기 위한 전이학습 기반 전과정 자동 방사선 치료 계획 수립](https://pubmed.ncbi.nlm.nih.gov/42878069/)
+<small>End-to-end automated radiotherapy planning using transfer learning to overcome data scarcity</small>
+
+`논문` `기타` `치료 전반` `기초연구` · 2026-10-01 · PubMed · Med Phys · 중요도 0.53
+
+데이터가 부족한 환경에서 두경부암과 췌장암 환자의 방사선 치료 선량을 정확히 예측하고 치료 계획을 전자동으로 세우는 딥러닝 모델 연구입니다. 공개된 3,232건의 치료 계획으로 사전 학습한 후 두경부암 환자 256명과 췌장암 환자 72명의 데이터로 미세조정을 진행했습니다. 췌장암 코호트에서 기존 대비 선량 예측 오차를 14.6% 줄였으며 척수 및 우측 신장의 피폭을 감소시켰습니다. 생성된 모든 자동화 치료 계획은 실제 임상에서 안전하게 조사 가능한 것으로 확인되었습니다.
+
+- 췌장암 코호트(72명)에서 전이학습 미세조정을 통해 평균 절대 오차 1.35 Gy를 기록하며 기존 방식 대비 오차를 14.6% 줄였습니다.
+- 자동화된 췌장암 방사선 계획은 치료 목표를 만족하면서 척수와 우측 신장에 조사되는 선량을 낮추는 결과를 보였습니다.
+- 환자별 정도관리(PSQA) 검증 결과, 인공지능이 세운 모든 전자동 치료 계획이 실제 임상 치료에 전달 가능한 수준임을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42878069/) · [DOI](https://doi.org/10.1002/mp.70704) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42878069)</small>
+
+---
+<a id="pmid-42869883"></a>
+#### [CD11b 작용제 GB1275는 마우스 종양 모델에서 췌장암에 대한 종양용해 세균 치료의 효과를 증강합니다](https://pubmed.ncbi.nlm.nih.gov/42869883/)
+<small>CD11b agonist GB1275 potentiates oncolytic bacterial therapy against pancreatic cancer in mouse tumor models</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-08-21 · PubMed · Nat Commun · 중요도 0.46
+
+이 연구는 마우스 종양 모델을 통해 CD11b 표적 작용제인 GB1275가 세균과 면역세포의 상호작용을 조절하여 종양 미세환경 내 항균 면역 방어를 억제하는지 조사했습니다. 젬시타빈(gemcitabine)을 탑재한 세균과 GB1275의 병용 치료는 종양 내 선천 면역 반응을 활성화하고 수지상세포(DC) 의존적 항원 교차 제시를 강화했습니다. 그 결과 적응 면역 항종양 반응이 상향 조절되고 피하 및 원발성 췌장암의 성장이 억제되었습니다. 본 연구 결과는 선천 면역 반응을 조절하고 적응 면역 활성을 강화하는 것이 세균 매개 종양 면역치료의 효과를 크게 향상시킬 수 있음을 보여줍니다.
+
+- CD11b 작용제 GB1275는 호중구와 대식세포 같은 CD11b⁺ 선천 면역세포의 침윤을 억제하여 종양 미세환경 내 항균 면역 방어를 억제합니다.
+- 이를 통해 종양용해 세균의 제거를 막고 세균 매개 종양 면역치료의 효능을 높입니다.
+- 젬시타빈 탑재 세균과 GB1275 병용 치료는 톨 유사 수용체(TLR), NOD 유사 수용체(NLR), cGAS-STING 경로를 매개로 종양 내 선천 면역을 활성화합니다.
+- 수지상세포(DC) 의존적 항원 교차 제시를 강화하여 피하 및 원발성 췌장암 모델에서 암세포 성장을 억제했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869883/) · [DOI](https://doi.org/10.1038/s41467-026-76823-7) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661619/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869883)</small>
+
+---
 <a id="pmid-42866901"></a>
 #### [췌관선암에서 역형성 변형의 분자생물학적 특징 규명](https://pubmed.ncbi.nlm.nih.gov/42866901/)
 <small>Molecular landscape of anaplastic transformation in pancreatic ductal adenocarcinoma</small>
@@ -50,21 +172,6 @@ search:
 - trienomycin A는 8개 췌장암 세포주 증식을 억제하고 동물 모델에서 유의한 독성 없이 84~98%의 종양 성장 억제를 보였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42873463/) · [DOI](https://doi.org/10.1007/s11912-026-01842-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42873463)</small>
-
----
-<a id="pmid-42873039"></a>
-#### [자연에서 의학으로: 나노기술 기반 췌장암 치료에서 천연물 치료제의 한계 극복](https://pubmed.ncbi.nlm.nih.gov/42873039/)
-<small>From Nature to Medicine: Overcoming the Limitations of Herbal Therapeutics for Pancreatic Cancer Treatment Based on Nanotechnology</small>
-
-`논문` `종설` `신약·치료제` `기초연구` `치료 전반` · 2026-10-04 · PubMed · Nanomaterials (Basel) · 중요도 0.68
-
-췌관선암(PDAC)은 치료 반응이 제한적인 치명적인 암종입니다. 천연물 유래 생리활성 물질은 항암 잠재력을 보이지만, 낮은 수용성과 체내 흡수율, 빠른 대사 분해, 종양 표적화 부족 등의 한계가 있습니다. 이 종설 논문은 식물 추출물 등을 활용하는 친환경 나노기술(Green nanotechnology)을 접목하여 천연 물질의 전달력과 체내 지속성을 높이고 췌장암에 대한 항암 효과를 극대화하는 최신 전략을 검토했습니다. 아울러 임상 적용을 위한 생체 안전성 및 주요 극복 과제들을 다루고 있습니다.
-
-- 천연물 유래 항암 물질의 한계인 낮은 수용성, 낮은 생체이용률, 불충분한 종양 표적성을 극복하기 위해 나노기술이 주목받고 있습니다.
-- 식물 추출물 및 생체고분자 등을 이용한 친환경 나노입자 합성은 기존 화학적 방식보다 생체적합성이 우수하고 지속 가능한 대안으로 평가받습니다.
-- 췌장암 치료제로서 실제 환자에게 적용되기 위해 해결해야 할 안전성 검증 및 임상 전환(Translational)의 장애물들을 종합적으로 제시했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42873039/) · [DOI](https://doi.org/10.3390/nano16191256) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42873039)</small>
 
 ---
 <a id="pmid-42870874"></a>
@@ -112,21 +219,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860583/) · [DOI](https://doi.org/10.1002/advs.202521488) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655253/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860583)</small>
 
 ---
-<a id="pmid-42869988"></a>
-#### [인간 췌관선암의 클론 이질성과 이것이 종양 진행에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42869988/)
-<small>Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-10-13 · PubMed · Nat Genet · 중요도 0.64
-
-췌관선암 환자 62명의 종양 조직에서 단일 세포 전사체 및 공간 전사체 분석을 시행하여 종양 내부의 유전적·공간적 이질성을 정밀하게 분석했습니다. 단일 종양 내에 유전적으로 서로 다른 여러 암세포 클론이 공존하며 주변 미세환경과 각기 다르게 상호작용함을 확인했습니다. 특히 MYC 유전자의 증폭이 공격적인 기저형(basal) 세포 상태로의 전이 및 면역 반응 저하를 유도하며, MYC 억제 시 이러한 악성 형질이 역전됨을 실험적으로 입증했습니다.
-
-- 환자 62명의 종양 조직(443,451개 단일 세포)과 공간 전사체(53,236개 스팟)를 분석해 복통 및 암세포 내 다양한 클론의 공존을 규명했습니다.
-- 8q24(MYC) 유전자 증폭이 고전형(classical)에서 공격적인 기저형(basal)으로의 형질 전환 및 면역 억제와 연관됨을 밝혔습니다.
-- 실험 모델에서 MYC 억제 시 고전형 프로그램과 면역 반응 경로가 다시 활성화되는 것을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869988/) · [DOI](https://doi.org/10.1038/s41588-026-02779-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869988)</small>
-
----
 <a id="pmid-42869687"></a>
 #### [TRIM29가 면역 재구성을 통해 췌관선암의 진행을 촉진할 수 있음](https://pubmed.ncbi.nlm.nih.gov/42869687/)
 <small>TRIM29 may facilitate progression of pancreatic ductal adenocarcinoma through immune remodeling</small>
@@ -142,18 +234,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869687/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.006) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869687)</small>
 
 ---
-<a id="pmid-42870567"></a>
-#### [편집자 서한: 췌장암의 번역 후 변형 연구 검토에 대한 과학적 엄격성 강화: 개념적 및 방법론적 고찰](https://pubmed.ncbi.nlm.nih.gov/42870567/)
-<small>Letter to the Editor: Strengthening Scientific Rigor in Reviews of Post-Translational Modifications in Pancreatic Cancer: Conceptual and Methodological Considerations</small>
+<a id="pmid-42869988"></a>
+#### [인간 췌관선암의 클론 이질성과 이것이 종양 진행에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42869988/)
+<small>Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression</small>
 
-`논문` `기타` `기초연구` `치료 전반` · 2026-10-14 · PubMed · J Gastroenterol Hepatol · 중요도 0.60
+`논문` `전임상` `기초연구` `치료 전반` · 2026-10-13 · PubMed · Nat Genet · 중요도 0.64
 
-본 논문은 췌장암 연구에서 단백질의 번역 후 변형(PTM)을 다룬 문헌들을 검토할 때 과학적 엄격성을 강화하기 위한 개념적·방법론적 고려사항을 제시하는 편집자 서한(Letter to the Editor)입니다. 췌장암 관련 기초 연구의 분석 방법 및 해석 기준 개선을 목적으로 합니다. 구체적인 환자 대상 임상 결과나 세부 분석 내용은 원문에 명시되지 않았습니다.
+췌관선암 환자 62명의 종양 조직에서 단일 세포 전사체 및 공간 전사체 분석을 시행하여 종양 내부의 유전적·공간적 이질성을 정밀하게 분석했습니다. 단일 종양 내에 유전적으로 서로 다른 여러 암세포 클론이 공존하며 주변 미세환경과 각기 다르게 상호작용함을 확인했습니다. 특히 MYC 유전자의 증폭이 공격적인 기저형(basal) 세포 상태로의 전이 및 면역 반응 저하를 유도하며, MYC 억제 시 이러한 악성 형질이 역전됨을 실험적으로 입증했습니다.
 
-- 췌장암의 단백질 번역 후 변형(PTM) 관련 종설에 대한 방법론적 개선을 논의한 서한입니다.
-- 구체적인 임상 수치나 세부 연구 결과는 원문에 명시되지 않았습니다.
+- 환자 62명의 종양 조직(443,451개 단일 세포)과 공간 전사체(53,236개 스팟)를 분석해 복통 및 암세포 내 다양한 클론의 공존을 규명했습니다.
+- 8q24(MYC) 유전자 증폭이 고전형(classical)에서 공격적인 기저형(basal)으로의 형질 전환 및 면역 억제와 연관됨을 밝혔습니다.
+- 실험 모델에서 MYC 억제 시 고전형 프로그램과 면역 반응 경로가 다시 활성화되는 것을 확인했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870567/) · [DOI](https://doi.org/10.1111/jgh.70819) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870567)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869988/) · [DOI](https://doi.org/10.1038/s41588-026-02779-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869988)</small>
 
 ---
 <a id="pmid-42867991"></a>
@@ -169,6 +262,20 @@ search:
 - TIGAR 결핍 암세포에서 페리틴(FTH1)을 제거하면 페롭토시스 민감성이 회복되고 폐 전이가 억제되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42867991/) · [DOI](https://doi.org/10.1016/j.celrep.2026.118079) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42867991)</small>
+
+---
+<a id="pmid-42870567"></a>
+#### [편집자 서한: 췌장암의 번역 후 변형 연구 검토에 대한 과학적 엄격성 강화: 개념적 및 방법론적 고찰](https://pubmed.ncbi.nlm.nih.gov/42870567/)
+<small>Letter to the Editor: Strengthening Scientific Rigor in Reviews of Post-Translational Modifications in Pancreatic Cancer: Conceptual and Methodological Considerations</small>
+
+`논문` `기타` `기초연구` `치료 전반` · 2026-10-14 · PubMed · J Gastroenterol Hepatol · 중요도 0.60
+
+본 논문은 췌장암 연구에서 단백질의 번역 후 변형(PTM)을 다룬 문헌들을 검토할 때 과학적 엄격성을 강화하기 위한 개념적·방법론적 고려사항을 제시하는 편집자 서한(Letter to the Editor)입니다. 췌장암 관련 기초 연구의 분석 방법 및 해석 기준 개선을 목적으로 합니다. 구체적인 환자 대상 임상 결과나 세부 분석 내용은 원문에 명시되지 않았습니다.
+
+- 췌장암의 단백질 번역 후 변형(PTM) 관련 종설에 대한 방법론적 개선을 논의한 서한입니다.
+- 구체적인 임상 수치나 세부 연구 결과는 원문에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870567/) · [DOI](https://doi.org/10.1111/jgh.70819) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870567)</small>
 
 ---
 <a id="pmid-42870365"></a>
@@ -214,36 +321,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42864388/) · [DOI](https://doi.org/10.1038/s41388-026-04005-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42864388)</small>
 
 ---
-<a id="pmid-42870295"></a>
-#### [U2 snRNP 억제를 통한 DNA 복구 능력 및 유사분열 검문소 교란이 췌장암 세포 생존율에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42870295/)
-<small>U2 snRNP inhibition hampers pancreatic cancer cell viability by disrupting DNA repair proficiency and mitotic checkpoint integrity</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-31 · PubMed · J Exp Clin Cancer Res · 중요도 0.54
-
-이 연구는 췌관선암종(PDAC) 세포와 환자 유래 오가노이드(PDO)를 대상으로 RNA 스플라이싱 인자인 U2 snRNP 억제제의 항암 효과와 기전을 조사했습니다. U2 snRNP를 표적하는 약물은 DNA 손상 반응(DDR) 경로를 손상시켜 상동재조합 기능이 유지된 암세포에서도 PARP 억제제에 대한 민감도를 크게 높였습니다. 또한 AURKA, AURKB, CHEK1 등 세포 분열 관련 유전자의 스플라이싱을 방해하여 심각한 유사분열 결함과 세포 사멸을 유도했습니다. 연구진은 U2 snRNP 억제와 유사분열 또는 DNA 복구 억제제의 병용이 췌장암의 새로운 치료 전략이 될 수 있음을 시사했습니다.
-
-- U2 snRNP 표적 약물은 상동재조합 기능이 온전한 췌장암 세포와 오가노이드에서 DNA 손상 반응을 손상시켜 PARP 억제제(talazoparib)에 대한 감수성을 높였습니다.
-- 스플라이싱 억제는 유사분열 조절 유전자(AURKA, AURKB, CHEK1) 발현을 교란시켜 염색체 정렬 이상 등 심각한 세포 분열 결함을 유발했습니다.
-- AURKA, AURKB, CHEK1의 높은 발현은 췌장암 환자의 불량한 예후와 연관되었으며, 이들 키나아제 억제제와의 병용 처리는 췌장암 세포 및 오가노이드의 생존율을 크게 저하시켰습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870295/) · [DOI](https://doi.org/10.1186/s13046-026-03795-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870295)</small>
-
----
-<a id="pmid-42870282"></a>
-#### [췌장암 증식 억제를 위한 anti-miR-221과 젬시타빈 동시 전달 중간엽 줄기세포 유래 엑소좀 연구](https://pubmed.ncbi.nlm.nih.gov/42870282/)
-<small>MSC-derived exosomes co-delivering anti-miR-221 and gemcitabine for inhibiting the proliferation of pancreatic cancer</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-08-26 · PubMed · J Transl Med · 중요도 0.54
-
-본 연구는 인간 제대혈 중간엽 줄기세포(MSC)에서 유래한 엑소좀(exosome)을 운반체로 활용하여 miR-221을 억제하는 안티센스 올리고뉴클레오타이드(anti-miR-221)와 젬시타빈(gemcitabine)을 동시에 전달하는 치료법을 평가했습니다. 췌장암 세포주(Panc-1) 및 동물 모델에서 동시 탑재 엑소좀은 단독 투여군 대비 종양 세포 증식과 종양 크기를 가장 크게 억제했습니다. 또한 세포자멸사를 유도하는 Caspase-3 단백질은 증가시키고 혈관 생성을 돕는 VEGF 단백질은 감소시켰습니다. 젬시타빈 단독 투여 시 관찰된 간 및 신장 조직 손상이 엑소좀 투여군에서는 나타나지 않아 낮은 장기 독성을 보였습니다.
-
-- anti-miR-221과 젬시타빈을 함께 탑재한 엑소좀 투여군은 단일 치료군들 대비 종양 부피와 무게를 유의하게 감소시켰습니다(P < 0.01).
-- 동시 탑재 엑소좀은 종양 조직 내 세포자멸사 관련 단백질인 Caspase-3를 증가시키고 VEGF 단백질을 감소시켰습니다(P < 0.01).
-- 젬시타빈 단독 투여에서 나타난 간 및 신장 병리적 손상이 엑소좀 탑재군에서는 관찰되지 않아 안전성을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870282/) · [DOI](https://doi.org/10.1186/s12967-026-08764-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870282)</small>
-
----
 <a id="pmid-42869149"></a>
 #### [METTL10에 의한 eEF1A의 K318 삼중메틸화가 단백질 합성 및 종양 형성을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42869149/)
 <small>METTL10 trimethylation of eEF1A at K318 enhances protein synthesis and tumorigenesis</small>
@@ -272,22 +349,6 @@ search:
 - OTUD7B 발현은 M2 대식세포 침윤과 CD4+FOXP3+ 조절 T세포(Treg)의 축적과 양의 상관관계를 보여 면역억제 환경을 유도하는 것으로 나타났습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860383/) · [DOI](https://doi.org/10.1111/jcmm.71322) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655224/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860383)</small>
-
----
-<a id="pmid-42869883"></a>
-#### [CD11b 작용제 GB1275는 마우스 종양 모델에서 췌장암에 대한 종양용해 세균 치료의 효과를 증강합니다](https://pubmed.ncbi.nlm.nih.gov/42869883/)
-<small>CD11b agonist GB1275 potentiates oncolytic bacterial therapy against pancreatic cancer in mouse tumor models</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-08-21 · PubMed · Nat Commun · 중요도 0.46
-
-이 연구는 마우스 종양 모델을 통해 CD11b 표적 작용제인 GB1275가 세균과 면역세포의 상호작용을 조절하여 종양 미세환경 내 항균 면역 방어를 억제하는지 조사했습니다. 젬시타빈(gemcitabine)을 탑재한 세균과 GB1275의 병용 치료는 종양 내 선천 면역 반응을 활성화하고 수지상세포(DC) 의존적 항원 교차 제시를 강화했습니다. 그 결과 적응 면역 항종양 반응이 상향 조절되고 피하 및 원발성 췌장암의 성장이 억제되었습니다. 본 연구 결과는 선천 면역 반응을 조절하고 적응 면역 활성을 강화하는 것이 세균 매개 종양 면역치료의 효과를 크게 향상시킬 수 있음을 보여줍니다.
-
-- CD11b 작용제 GB1275는 호중구와 대식세포 같은 CD11b⁺ 선천 면역세포의 침윤을 억제하여 종양 미세환경 내 항균 면역 방어를 억제합니다.
-- 이를 통해 종양용해 세균의 제거를 막고 세균 매개 종양 면역치료의 효능을 높입니다.
-- 젬시타빈 탑재 세균과 GB1275 병용 치료는 톨 유사 수용체(TLR), NOD 유사 수용체(NLR), cGAS-STING 경로를 매개로 종양 내 선천 면역을 활성화합니다.
-- 수지상세포(DC) 의존적 항원 교차 제시를 강화하여 피하 및 원발성 췌장암 모델에서 암세포 성장을 억제했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869883/) · [DOI](https://doi.org/10.1038/s41467-026-76823-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869883)</small>
 
 ---
 <a id="pmid-42861168"></a>

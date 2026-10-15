@@ -1,0 +1,64 @@
+{
+ "abstract": "Patients with resected pancreatic ductal adenocarcinoma (PDAC) can have different outcomes despite similar TNM stage. We developed TIGERS (Tumor Intelligence Grading and Evaluation Risk Score), a nine-feature prognostic biomarker derived from routine hematoxylin and eosin (H&E) whole-slide images. TIGERS quantifies tumor burden, glandular and nuclear morphology, chromatin texture, and tumor-stroma topology. The score was trained in 644 treatment-naive cases and evaluated in an internal validation cohort (n = 385), a separate post-neoadjuvant cohort (n = 275), two external cohorts (n = 260 and n = 235), the TCGA-PAAD cohort (n = 133), and a prospectively accrued external cohort (n = 155) with subsequent offline inference. Overall survival was the primary endpoint; the same formula and locked cutoff were applied throughout. The cutoff stratified survival in the internal validation cohort and three of four retrospective test cohorts. In the remaining external cohort, 226 of 235 patients (96.2%) were classified as high risk, showing limited transportability of the fixed threshold. Adding TIGERS to the clinicopathologic model increased Harrell's C-index in all six retrospective cohorts (range 0.015-0.047). In the prospectively accrued cohort, mortality was 47.5% in the high-risk group and 22.7% in the low-risk group; high risk remained associated with worse survival after adjustment (hazard ratio, 4.45; 95% confidence interval, 2.28-8.70; P < .001). Automated quality control passed 92.3% of screened cases, and scoring was completed in all included cases with a median turnaround time of 13.5 minutes. TIGERS assigned 43.2% of patients to a different risk category than the prespecified stage-based definition. Higher TIGERS correlated with a more basal-like proteomic profile in both the training and internal validation cohorts, supporting a molecular basis for its prognostic value. Routine H&E histology may therefore provide prognostic information complementary to conventional clinicopathologic assessment. Prospective interventional studies are needed before TIGERS can guide treatment or surveillance.",
+ "authors": [
+  "Shen Y",
+  "Chen C",
+  "Jiang H",
+  "Liu W",
+  "Zhang Y",
+  "Yang Y",
+  "Yang M",
+  "Zheng D"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42874742",
+ "importance": 0.71,
+ "key_points_ko": [
+  "전향적 코호트에서 TIGERS 고위험군의 사망률은 47.5%로 저위험군의 22.7%보다 유의하게 높았으며, 다변량 보정 위험비(HR)는 4.45였습니다.",
+  "기존 임상병리학적 모델에 TIGERS를 추가했을 때 6개 후향적 코호트 전체에서 C-index가 0.015~0.047 향상되었습니다.",
+  "기존 병기 기반 분류와 비교했을 때 환자의 43.2%가 다른 위험군으로 재분류되었습니다.",
+  "자동화 분석 품질 관리 통과율은 92.3%, 분석 소요 시간 중앙값은 13.5분이었으며 높은 점수는 예후가 불량한 기저형(basal-like) 단백체 양상과 일치했습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1016/j.modpat.2026.101099",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42874742"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mod Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874742/"
+ },
+ "summary_ko": "연구진은 수술로 절제된 췌관선암(PDAC) 환자의 일반 헤마톡실린-에오신(H&E) 병리 디지털 슬라이드를 분석하여 수술 후 예후를 예측하는 인공지능 기반 점수 체계인 TIGERS를 개발했습니다. TIGERS는 종양 부담, 세포핵 형태, 종양-기질 관계 등 9가지 조직학적 특징을 수치화하여 전체 생존기간(OS)을 예측하도록 설계되었습니다. 총 2,000명 이상의 다양한 다기관 코호트에서 검증한 결과, 전향적 코호트에서 고위험군 환자는 저위험군에 비해 사망 위험이 4.45배 높았습니다. 이 점수는 기존 병기 분류 대비 43.2%의 환자에서 위험군 구분을 재조정하여 보완적인 예후 정보를 제시했으나, 실제 치료나 추적 관찰을 변경하기 위해서는 전향적 중재 연구가 더 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Routine H&E Histology Encodes Postoperative Risk Heterogeneity in Resected Pancreatic Ductal Adenocarcinoma: A Multicohort Evaluation of TIGERS",
+ "title_ko": "절제 수술을 받은 췌관선암 환자에서 일반 H&E 병리 조직을 활용한 수술 후 예후 예측: 다기관 코호트 TIGERS 모델 평가",
+ "trial": null,
+ "type": "paper"
+}

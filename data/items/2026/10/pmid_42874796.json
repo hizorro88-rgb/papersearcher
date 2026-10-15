@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Surgical timing after neoadjuvant therapy for borderline resectable pancreatic cancer remains difficult because post-treatment imaging may not reliably distinguish residual tumor from fibrosis, whereas tumor biology and patient fitness strongly influence surgical benefit.\nMETHODS: We performed a critical narrative review of studies and guidelines addressing surgical timing, radiological response, tumor-marker dynamics, pathological response, and physiological readiness after neoadjuvant therapy for borderline resectable pancreatic cancer.\nRESULTS: Current evidence supports a multidimensional approach rather than reliance on anatomical imaging alone. Informative tumor-marker trajectories, especially carbohydrate antigen 19-9 when reliable and alternative markers such as Duke pancreatic monoclonal antigen type 2 when carbohydrate antigen 19-9 is non-informative, are central to assessing systemic disease control. Selective use of liver magnetic resonance imaging, diffusion-weighted magnetic resonance imaging, and positron emission tomography-based modalities may help clarify discordant scenarios or detect occult metastatic disease. Patient fitness, including performance status, nutritional reserve, organ function, and recovery from treatment-related toxicity, remains essential before exploration.\nCONCLUSION: Surgical timing after neoadjuvant therapy for borderline resectable pancreatic cancer should integrate biology, anatomy, and patient condition. A biology-first multidisciplinary framework may help avoid futile pancreatectomy while preserving timely surgical opportunities for appropriate candidates.",
+ "authors": [
+  "Ho W",
+  "Xu W",
+  "Zhang J",
+  "Guo J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42874796",
+ "importance": 0.72,
+ "key_points_ko": [
+  "선행항암요법 후 영상 검사만으로는 잔여 종양과 치료로 인한 섬유화 조직을 신뢰성 있게 구분하기 어렵습니다.",
+  "CA19-9 및 대체 종양표지자의 수치 변화 추이는 전신적 질환 조절 상태를 평가하는 데 핵심적인 역할을 합니다.",
+  "간 자기공명영상(MRI), 확산강조 MRI, 양전자방출단층촬영(PET)의 선택적 활용은 숨겨진 미세 전이를 확인하는 데 도움을 줍니다.",
+  "불필요한 췌장 절제술을 피하고 적절한 환자에게 수술 기회를 제공하기 위해서는 생물학적 지표, 해부학적 영상, 환자의 신체 회복 상태를 통합한 다학제적 평가가 필수적입니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1016/j.gassur.2026.102640",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42874796"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874796/"
+ },
+ "summary_ko": "경계성 절제 가능(borderline resectable) 췌장암 환자가 선행항암요법(neoadjuvant therapy)을 받은 후 수술 시점을 결정하는 것은 영상 검사만으로 잔여 종양과 섬유화를 구분하기 어려워 매우 까다롭습니다. 본 논문은 방사선학적 반응, 종양표지자 변화, 병리학적 반응, 환자의 신체적 준비도를 다룬 연구와 가이드라인을 종합적으로 검토했습니다. 분석 결과 단순 영상 검사에만 의존하기보다 CA19-9 등 종양표지자의 추이와 간 MRI 또는 PET 등을 통합적으로 평가하는 다차원적 접근이 필요하다고 제안했습니다. 또한 전신 수행능력, 영양 상태, 장기 기능 및 항암 독성으로부터의 회복 등 환자의 전신 상태 평가가 필수적이라고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "When to Operate After Neoadjuvant Therapy for Borderline Resectable Pancreatic Cancer: A Critical Review and Multidimensional Decision Framework",
+ "title_ko": "경계성 절제 가능 췌장암에서 선행항암요법 후 수술 시점 결정: 비판적 고찰 및 다차원적 의사결정 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,138 @@
+{
+ "abstract": "A Phase 3, randomized, double-blinded, placebo-controlled study to evaluate the efficacy and safety of paltusotine treatment vs placebo as well as the long-term safety of paltusotine in adults with carcinoid syndrome due to well-differentiated neuroendocrine tumors. The purpose of this study is to continue the evaluation of the safety, efficacy, and pharmacokinetics (PK) of paltusotine in participants with carcinoid syndrome.\n\nThis is a global, randomized, parallel-group, placebo-controlled study to evaluate the efficacy and safety of paltusotine in adults with carcinoid syndrome. The study includes a screening period of up to 11 weeks, a double-blinded randomized control period of 16 weeks, an open label extension period of 104 weeks, and a follow-up period of 4 weeks.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07087054",
+ "importance": 0.82,
+ "key_points_ko": [
+  "고분화 신경내분비종양에 의한 카르시노이드 증후군 환자 141명을 대상으로 팔투소틴과 위약을 비교하는 무작위 3상 시험입니다.",
+  "16주간의 이중맹검 위약 대조 기간 이후 최대 104주간의 공개 확장 치료를 통해 장기 안전성을 평가합니다.",
+  "소마토스타틴 수용체 작용제 치료 경험 여부와 관계없이 하루 1회 초과의 홍조 증상이 있는 환자를 포함합니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07087054"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2025-07-25",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Crinetics Pharmaceuticals Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07087054"
+ },
+ "summary_ko": "고분화 신경내분비종양(NET)으로 인한 카르시노이드 증후군 성인 환자를 대상으로 경구용 약물인 paltusotine(팔투소틴)의 유효성과 안전성을 위약과 비교 평가하는 글로벌 3상 임상시험입니다. 16주의 무작위 배정 위약 대조 치료 기간 후 104주의 공개 연장 투여 기간을 거쳐 약물의 장기 안전성과 약동학을 지속적으로 평가합니다. 총 141명의 환자 등록을 목표로 진행 중입니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Neuroendocrine tumor",
+  "Paltusotine",
+  "CRN00808",
+  "Carcinoid syndrome",
+  "Lanreotide",
+  "Octreotide",
+  "Somatostatin agonist",
+  "신경내분비종양"
+ ],
+ "title": "Carcinoid Syndrome Efficacy Study Featuring an Oral Daily Paltusotine Regimen",
+ "title_ko": "경구용 일일 투여 팔투소틴 요법을 이용한 카르시노이드 증후군 유효성 평가 3상 임상시험",
+ "trial": {
+  "conditions": [
+   "Carcinoid Syndrome",
+   "Carcinoid",
+   "Carcinoid Tumor",
+   "Carcinoid Tumor of Ileum",
+   "Carcinoid Tumor of Cecum",
+   "Carcinoid Tumor of Liver",
+   "Carcinoid Tumor of Pancreas",
+   "Carcinoid Syndrome Diarrhea",
+   "Carcinoid Intestine Tumor"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 성인\n- 약물 치료가 필요한 카르시노이드 증후군이 확인되고 일평균 1회 초과의 안면 홍조 증상을 보이는 환자\n- 국소 진행성 또는 전이성이며 조직학적으로 확인된 고분화 신경내분비종양(NET) 환자\n- 무작위 배정 전 최근 6개월 이내에 의미 있는 질병 진행이 없었던 환자\n\n제외 기준:\n- 카르시노이드 증후군 이외의 원인으로 인한 설사 또는 심각한 탈수·저혈압을 동반한 중증 설사\n- 증상 조절을 위해 텔로트리스타트(telotristat) 등 2차 치료가 필요한 경우\n- 스크리닝 전 4주 이내 everolimus(에베롤리무스)나 sunitinib(수니티닙) 등 특정 NET 치료를 받았거나 12주 이내 간색전술, 방사선 치료, PRRT 치료 등을 받은 경우\n- 스크리닝 전 8주 이내 대수술을 받은 경우\n- 최근 3년 이내 다른 원발암 병력이 있는 경우(완치된 피부암 등 제외)\n- 당화혈색소(HbA1c) 8.5% 이상의 조절되지 않는 당뇨병 환자\n- 증상이 있는 담석증 또는 심각한 심혈관 질환이 동반된 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Male or female ≥18 years of age, at the time of Screening.\n* Willing and able to comply with the study procedures as specified in the protocol, including at least 70% compliance with the study diary for the 2-week period.\n* Documented carcinoid syndrome requiring medical therapy. Participants must exhibit symptoms of flushing with or without frequent BMs as follows:\n\n  * For participants who are naïve/not currently treated with somatostatin receptors ligands (SRL), they must exhibit an average of \\>1 flushing episode/day over a period of 14 days\n  * For participants who will wash out from SRL treatment, they must be symptomatically controlled and exhibit an increase in daily average flushing episodes and an average of \\>1 flushing episode/day over a period of 14 days during the Washout Period.\n* Evaluable documentation of locally advanced or metastatic histopathologically confirmed well-differentiated neuroendocrine tumor(s) \\[NETs\\].\n* No significant disease progression as assessed by the Investigator within the last 6 months before randomization.\n\nExclusion Criteria:\n\n* Diarrhea attributed to any condition(s) other than carcinoid syndrome.\n* Uncontrolled/severe diarrhea associated with significant volume contraction, dehydration, or hypotension.\n* Requires second line treatments (eg, telotristat) for control of carcinoid syndrome symptoms in the opinion of the Investigator.\n* Treatment with specific NET therapy \\<4 weeks before Screening (such as everolimus or sunitinib) or hepatic embolization, radiotherapy, peptide receptor radionuclide therapy (PRRT), and/or tumor debulking \\<12 weeks before Screening.\n* Major surgery within 8 weeks before Screening.\n* History of another primary malignancy \\<3 years prior to the date of randomization, except for adequately treated basal or squamous cell carcinoma of the skin, cancer of the breast has been completely locally excised and carcinoma in situ of the cervix has also been resected, previously treated malignancy, if all treatment for that malignancy was completed at least 3 years prior to first dose of study treatment, and no current evidence of disease, concurrent malignancy determined to be clinically stable and not requiring treatment.\n* Diabetes mellitus treated with insulin for less than 6 weeks prior to the study entry.\n* Poorly controlled diabetes mellitus defined as having a hemoglobin A1c (HbA1c) ≥8.5%\n* Unable to administer short-acting (SA) octreotide (octreotide acetate injection), or prior nonresponse documented with somatostatin agonists.\n* Clinically significant concomitant disease or indicator of disease that is not a result of the primary disease under study, including but not limited to cardiovascular disease, estimated glomerular filtration rate 2×upper limit of normal \\[ULN\\], and/or total bilirubin (TB) \\>1.5×ULN. (Participants with previously diagnosed Gilbert's syndrome not accompanied by other hepatobiliary disorders and associated with TB\n* Alcohol or drug abuse is not permitted at any time during the study\n* Diagnosed with symptomatic cholelithiasis",
+  "enrollment": 141,
+  "has_results": false,
+  "interventions": [
+   "Paltusotine",
+   "Placebo"
+  ],
+  "last_update_posted": "2026-10-15",
+  "location_countries": [
+   "Argentina",
+   "Belgium",
+   "Brazil",
+   "Chile",
+   "Colombia",
+   "France",
+   "Germany",
+   "Italy",
+   "Mexico",
+   "Poland",
+   "Romania",
+   "Spain",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "최근 3년 이내 다른 원발암 병력(완치된 피부암 등 제외)",
+    "카르시노이드 증후군 외의 다른 원인으로 인한 설사 또는 중증 탈수",
+    "증상이 있는 담석증",
+    "조절되지 않는 당뇨병(HbA1c 8.5% 이상) 또는 최근 6주 미만 인슐린 투여 시작",
+    "스크리닝 전 8주 이내 주요 수술 병력"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "홍조 등의 증상을 동반한 국소 진행성 또는 전이성 고분화 신경내분비종양(카르시노이드 증후군) 성인 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 72,
+  "nct_id": "NCT07087054",
+  "phase": "PHASE3",
+  "primary_completion_date": "2027-08",
+  "sex": "ALL",
+  "sponsor": "Crinetics Pharmaceuticals Inc.",
+  "start_date": "2025-11-19",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

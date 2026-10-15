@@ -1,0 +1,55 @@
+{
+ "abstract": "INTRODUCTION: Emphysematous gastritis is a rare, frequently fatal infection of the gastric wall caused by gas-forming organisms. Gastric outlet obstruction is well recognised as a cause of benign gastric emphysema but is seldom reported as a precipitant of emphysematous gastritis. This report adds a rare presentation of emphysematous gastritis with malignant gastric outlet obstruction as a risk factor.\nCASE DESCRIPTION: An 86-year-old man with locally advanced pancreatic ductal adenocarcinoma presented after a fall preceded by generalised weakness, abdominal bloating, diarrhoea, nausea and fever. He was hypotensive and tachycardic, with acute kidney injury and severe high anion gap metabolic acidosis. Computed tomography scan demonstrated a markedly distended stomach with intramural gas and distal obstruction from progressive pancreatic malignancy; blood cultures were negative. He was managed non-operatively with aggressive resuscitation, broad-spectrum intravenous antibiotics and gastric decompression, with subsequent clinical, biochemical and radiological improvement.\nCONCLUSION: Malignant gastric outlet obstruction, compounded by chemotherapy-related immunosuppression, can precipitate emphysematous gastritis. In selected patients without perforation or ischaemia, even those who are frail and immunocompromised, conservative management can achieve resolution.\nLEARNING POINTS: Malignant gastric outlet obstruction from advanced pancreatic cancer can precipitate emphysematous gastritis, a rare and often fatal infection, particularly when compounded by chemotherapy-related immunosuppression.This case adds to the growing evidence that carefully selected patients without perforation or ischaemia can be managed conservatively with antibiotics and gastric decompression rather than surgery.",
+ "authors": [
+  "Lim YY"
+ ],
+ "categories": [
+  "treatment",
+  "supportive",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42877802",
+ "importance": 0.5,
+ "key_points_ko": [
+  "진행성 췌장암에 의한 위출구 폐쇄와 항암치료 관련 면역저하는 치명적인 기종성 위염을 유발할 수 있습니다.",
+  "천공이나 조직 허혈이 없는 선별된 환자에서는 수술 없이 광범위 항생제 투여와 위 감압술 등 보존적 치료만으로도 호전을 기대할 수 있습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.12890/2026_007418",
+  "nct": [],
+  "pmcid": "PMC13666637",
+  "pmid": "42877802"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-14",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Case Rep Intern Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42877802/"
+ },
+ "summary_ko": "국소 진행성 췌장암 환자에서 악성 위출구 폐쇄로 인해 드물고 치명적인 위벽 감염인 기종성 위염(Emphysematous gastritis)이 발생한 증례 보고입니다. 86세 남성 환자가 복부 팽만, 발열, 저혈압 및 급성 신손상으로 내원하였으며, CT 검사상 위벽 내 가스와 진행성 췌장암에 의한 폐쇄가 확인되었습니다. 천공이나 허혈 징후가 없어 수술 대신 적극적인 수액 소생술, 광범위 정맥 항생제 투여, 위 감압술 등 보존적 치료를 시행하여 임상적 호전을 얻었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Emphysematous Gastritis Precipitated by Malignant Gastric Outlet Obstruction from Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "진행성 췌관선암의 악성 위출구 폐쇄로 인해 유발된 기종성 위염 증례",
+ "trial": null,
+ "type": "paper"
+}

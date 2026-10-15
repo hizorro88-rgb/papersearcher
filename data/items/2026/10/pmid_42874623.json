@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies. Conventional immunotherapies have shown little clinical benefit, largely due to the low neoantigenicity and profoundly immunosuppressive microenvironment of this cancer. Therapeutic cancer vaccines have emerged as a rational strategy to prime or amplify antitumour immunity, supported by advances in antigen discovery, genomic profiling, and vaccine engineering. Here, we report a review of clinical trials evaluating therapeutic cancer vaccines in PDAC. Eligible studies were identified through searches of ClinicalTrials.gov from database inception to Aug 31, 2025, with manual screening of trial-linked publications up to Jan 31, 2026. 135 records were identified, of which 120 met the eligibility criteria and were included in the qualitative synthesis. Across vaccine platforms-cell-based, nucleic acid-based, protein and peptide-based, microorganism-based, and multiplatform strategies-early-phase clinical studies consistently show feasibility, favourable safety profiles, and the induction of tumour-specific immune responses. However, immune activation has rarely translated into durable clinical benefit. To date, the most compelling biological signals derive from personalised neoantigen vaccines, particularly mRNA-based approaches, which can elicit high-magnitude CD8+ T-cell responses and long-lived clonal persistence in postoperative PDAC. Emerging evidence also supports the potential of shared neoantigens, such as KRASmut, as biologically relevant and scalable targets. Collectively, our findings highlight a shift towards rational vaccine combination strategies aimed at overcoming stromal and myeloid-mediated immunosuppression. Future progress will depend on integrating therapeutic vaccination into multimodal regimens and evaluating these approaches in adequately powered, biomarker-selected clinical trials.",
+ "authors": [
+  "Coppi MM",
+  "Graciotti M",
+  "Digklia A",
+  "Kandalaft LE"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42874623",
+ "importance": 0.71,
+ "key_points_ko": [
+  "120건의 치료용 백신 임상시험 분석 결과, 우수한 안전성과 면역 반응 유도에도 불구하고 지속적인 치료 효과로 이어진 경우는 제한적이었습니다.",
+  "수술 후 췌장암 환자에서 개인 맞춤형 mRNA 신생항원 백신이 강력한 CD8+ T세포 반응과 장기 면역 지속성을 보였습니다.",
+  "KRAS 변이(KRASmut)와 같은 공유 신생항원 백신 및 간질과 골수세포성 면역억제를 극복하는 복합 병용 치료 전략이 강조됩니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.1016/S2468-1253(26)00149-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42874623"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Lancet Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42874623/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 낮은 신생항원성과 강력한 면역억제 미세환경으로 인해 기존 면역항암치료의 효과가 제한적이었습니다. 본 논문은 임상시험 등록 데이터베이스를 바탕으로 치료용 암 백신 임상시험 120건을 체계적으로 종합 분석했습니다. 다양한 플랫폼의 백신들이 안전성과 종양 특이적 면역 반응 유도를 입증했으나, 실제 장기적인 임상적 이득으로 이어진 사례는 드물었습니다. 현재까지는 수술 후 환자를 대상으로 한 개인 맞춤형 mRNA 백신과 KRAS 변이 표적 백신이 가장 유망한 면역학적 반응을 보였으며, 면역억제 환경을 극복하기 위한 병용 요법이 핵심 과제로 제시되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Strategies to develop therapeutic cancer vaccines for pancreatic cancer",
+ "title_ko": "췌장암 치료용 암 백신 개발 전략",
+ "trial": null,
+ "type": "paper"
+}

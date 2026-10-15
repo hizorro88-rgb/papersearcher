@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits profound resistance to current immunotherapies, a challenge largely attributed to its uniquely immunosuppressive and desmoplastic tumor microenvironment (TME). At the heart of this therapeutic recalcitrance lies the dynamic, bidirectional crosstalk between innate immune cells-particularly tumor-associated macrophages (TAMs) and tumor-associated neutrophils (TANs)-and stromal components, notably cancer-associated fibroblasts (CAFs). This review comprehensively delineates how the innate immunity-stroma axis establishes formidable spatial and metabolic barriers that thwart effective antitumor immunity. Spatially, dense collagen matrices, periductal fibroblast organization, and neutrophil extracellular traps (NETs) create physical checkpoints that exclude cytotoxic CD8+ T cells and natural killer (NK) cells from tumor nests. Metabolically, elevated lactate, cholesterol dysregulation, adenosine accumulation, and altered polyamine metabolism synergistically paralyze effector lymphocytes while driving immunosuppressive myeloid polarization. We highlight the key molecular networks orchestrating this pathological crosstalk, including the NF-κB, IL-1β, JAK/STAT3, and TGF-β signaling pathways. Furthermore, we summarize emerging therapeutic strategies designed to dismantle these barriers, encompassing macrophage reprogramming, CAF modulation, and metabolic interventions. Finally, we discuss the multidimensional \"3D+R\" framework-integrating de-desmoplasia, de-adenosine, de-novo antigen presentation, and rational sequencing-as a conceptual roadmap for rationally designed combination therapies to overcome PDAC immunotherapy resistance.",
+ "authors": [
+  "Hou Y",
+  "Tan Z"
+ ],
+ "categories": [
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42877588",
+ "importance": 0.64,
+ "key_points_ko": [
+  "선천 면역 세포(TAM, TAN)와 섬유아세포(CAF)의 상호작용이 췌장암의 면역치료 저항성을 유발하는 핵심 기전입니다.",
+  "치밀한 콜라겐 기질과 호중구 세포외 덫(NETs)이 CD8+ T세포와 NK세포의 종양 침투를 물리적으로 차단합니다.",
+  "젖산 증가, 아데노신 축적 등 대사적 변화가 효과 림프구의 기능을 억제하고 면역억제 환경을 강화합니다.",
+  "저항성을 극복하기 위해 섬유화 완화, 아데노신 제거, 항원 제시 촉진 등을 결합한 새로운 병용 전략(3D+R)이 논의되었습니다."
+ ],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1942345",
+  "nct": [],
+  "pmcid": "PMC13662915",
+  "pmid": "42877588"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-30",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42877588/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 면역억제성과 섬유화가 극심한 종양 미세환경(TME)으로 인해 기존 면역항암치료에 강한 저항성을 보입니다. 본 종설은 종양 연관 대식세포(TAM), 종양 연관 호중구(TAN) 등 선천 면역 세포와 암 연관 섬유아세포(CAF) 간의 상호작용이 어떻게 공간적 및 대사적 장벽을 형성하는지 정리했습니다. 이들 상호작용은 치밀한 콜라겐 기질 형성 및 젖산·아데노신 축적 등을 유발하여 면역세포의 종양 침투를 차단하고 기능을 마비시킵니다. 저자들은 이러한 장벽을 해체하기 위한 기질 조절, 대사 억제, 대식세포 재프로그래밍 등의 병용 치료 전략과 '3D+R' 개념적 프레임워크를 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Innate immunity-stroma crosstalk in pancreatic cancer: overcoming spatial and metabolic barriers to immunotherapy",
+ "title_ko": "췌장암에서 선천 면역-기질 간 상호작용: 면역치료에 대한 공간적·대사적 장벽 극복 전략",
+ "trial": null,
+ "type": "paper"
+}

@@ -32,7 +32,7 @@
   "조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.",
   "외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다."
  ],
- "last_updated": "2026-10-14",
+ "last_updated": "2026-10-15",
  "links": {
   "doi": "10.1200/CCI-26-00200",
   "nct": [],
@@ -41,8 +41,7 @@
  },
  "pub_types": [
   "Journal Article",
-  "Systematic Review",
-  "Review"
+  "Systematic Review"
  ],
  "published_at": "2026-10-13",
  "relevance": 0.9,

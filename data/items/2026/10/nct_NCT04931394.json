@@ -1,0 +1,102 @@
+{
+ "abstract": "The purpose of this study is to explore whether adjuvant chemotherapy regimens guided by organoid drug sensitivity test can improve the outcomes of pancreatic cancer. At the same time, this study will evaluate the successful establishment rate of organoid from fresh surgical specimens , and explore the concordance between drug sensitivity test results and patients' treatment response.\n\nThe poor prognosis of pancreatic cancer is not just because of the high malignancy of the tumor itself, but also its poor response to chemotherapy. At present, patient's drug-sensitivity is assessed by progression time after treatment. Therefore, it is difficult to judge a patient's sensitivity to a drug before adjuvant chemotherapy. Organoid is a new tumor model, which has the potential to test the drug sensitivity before chemotherapy.\n\nOur center's previous experience has shown that the success rate of pancreatic cancer organoid culture is 77.6%. The previous research has confirmed that pancreatic cancer organoid was highly consistent with the original tissue in terms of genomics and histomorphology. More importantly, the investigators have tested the five first-line drug-sensitivity in 39 pancreatic cancer organoids, and compared the test results with the clinical treatment response of these patients, confirming that organoid can accurately evaluate the chemotherapy drug-sensitivity.\n\nThis is a single-center, prospective, open-label, randomized, controlled clinical trial, designed to explore whether adjuvant chemotherapy regimens guided by organoid drug sensitivity test can improve outcomes in pancreatic cancer patients. At the same time, the consistency between the drug sensitivity test results and the treatment response of patients will be analyzed. Also, the radiosensitivity of organoid will be tested, and be compared with the patients' response to radiotherapy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase3",
+ "first_seen": "2026-10-15",
+ "history": [
+  {
+   "date": "2026-10-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04931394",
+ "importance": 0.96,
+ "key_points_ko": [],
+ "last_updated": "2026-10-15",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04931394"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2021-06-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Changhai Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04931394"
+ },
+ "summary_ko": "The purpose of this study is to explore whether adjuvant chemotherapy regimens guided by organoid drug sensitivity test can improve the outcomes of pancreatic cancer. At the same time, this study will evaluate the successful establishment rate of organoid from fresh surgical specimens , and explore the concordance between drug sensitivity test results and patients' treatment response.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Pancreatic Cancer",
+  "Organoid",
+  "Drug Sensitivity Test",
+  "Chemotherapy"
+ ],
+ "title": "Organoid-Guided Adjuvant Chemotherapy for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age≥18 years old and ≤80 years old.\n* Complete R0 resection for pancreatic cancer with no evidence of malignant ascites, peritoneal metastases or distant metastases.\n* Histology confirmed pancreatic adenocarcinoma.\n* Eligible histologic variants include adenocarcinoma or variants to include mucinous adenocarcinoma or adenosquamous carcinoma.\n* No metastases are found in preoperative examination.\n* No prior chemotherapy or radiotherapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Life expectancy of greater than 90 days, as judged by the investigator.\n* Routine blood test: absolute neutrophil count\\>1500/mm3, platelet\\>100000/mm3.\n* Normal liver function: serum total bilirubin≤2.0mg/dl, aminotransferase (ALT) and aspertate aminotransferase (AST) \\<2.5 times of the upper limit of normal value.\n* Normal kidney function: serum creatinine\\<1.5 times of the upper limit of normal value or creatinine clearance rate\\>45ml/min.\n* The pancreatic cancer organoid were cultured successfully.\n* No severe comorbidities.\n\nExclusion Criteria:\n\n* Patients with poor condition can not tolerate chemotherapy and targeted therapy.\n* Impaired organ functions: heart failure (New York Heart Association III-IV), coronary heart disease, myocardial infarction within 6 months, severe cardiac arrhythmia and respiratory failure.\n* Patients diagnosed with other cancer within 5 years.\n* Patients who are pregnant or breastfeeding.\n* Patients enrolled in other clinical trials or incompliant of regular follow up.\n* Patients who did not provide an informed consent.",
+  "enrollment": 240,
+  "has_results": false,
+  "interventions": [
+   "Adjuvant chemotherapy guided by organoid drug sensitivity test"
+  ],
+  "last_update_posted": "2026-10-15",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "adjuvant"
+   ],
+   "source": "rules"
+  },
+  "max_age": "80 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04931394",
+  "phase": "PHASE3",
+  "primary_completion_date": "2024-05-31",
+  "sex": "ALL",
+  "sponsor": "Changhai Hospital",
+  "start_date": "2021-06-01",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}
