@@ -1,0 +1,63 @@
+{
+ "abstract": "Circulating tumor DNA (ctDNA) is a minimally invasive biomarker in pancreatic ductal adenocarcinoma (PDAC), but the prognostic information added by multigene ctDNA metrics beyond KRAS and carbohydrate antigen 19-9 (CA19-9) is uncertain. In this prospective observational pilot study, 51 patients with advanced PDAC receiving 5-fluorouracil-based chemotherapy underwent 118-gene ctDNA profiling at baseline and 4 and 8 weeks after treatment initiation. ctDNA burden was summarized with variant allele frequency (VAF) metrics: Sum VAF and Top4 VAF (KRAS, TP53, CDKN2A, SMAD4). Twelve-month progression-free survival (PFS) areas under the curve were 0.816 for Top4 VAF, 0.812 for Sum VAF, 0.788 for KRAS VAF, and 0.687 for CA19-9; the Top4-KRAS difference was not statistically significant (95% confidence interval, -0.120 to 0.131). Baseline ctDNA detection and high Top4 VAF remained associated with shorter PFS and overall survival after adjustment for clinical covariates. Detectable Top4 VAF at 4 weeks was associated with shorter PFS (hazard ratio, 5.739; p < 0.001). Top4 VAF changes differed across radiologic response categories at 8 but not 4 weeks; CA19-9 showed no significant paired change. These exploratory findings suggest that baseline and early on-treatment multigene ctDNA carries prognostic information in advanced PDAC, although superiority over KRAS or CA19-9 was not established.",
+ "authors": [
+  "Lee GY",
+  "Chun JW",
+  "Lee DE",
+  "Jang JH",
+  "Lee WJ",
+  "Kim HP",
+  "Lee ST",
+  "Woo SM"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883913",
+ "importance": 0.7,
+ "key_points_ko": [
+  "치료 4주 차에 혈액 내 주요 4대 유전자(Top4) ctDNA가 검출된 환자는 그렇지 않은 환자에 비해 질병 진행 위험이 5.7배 이상 높았습니다(위험비 5.739, p < 0.001).",
+  "12개월 무진행 생존율 예측력(AUC)은 Top4 VAF(0.816)와 전체 변이 합계(Sum VAF, 0.812)가 KRAS 단독(0.788) 및 CA19-9(0.687)보다 수치상 높았으나 통계적 우월성은 확인되지 않았습니다.",
+  "치료 8주 차 시점의 Top4 유전자 변이량 변화는 영상의학적 종양 반응과 일치하는 양상을 보였습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198668",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883913"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883913/"
+ },
+ "summary_ko": "이 연구는 5-플루오로우라실(5-fluorouracil) 기반 항암치료를 받는 진행성 췌관선암 환자 51명을 대상으로 순환 종양 DNA(ctDNA)의 예후 예측 가치를 평가한 전향적 관찰 연구입니다. 치료 시작 전과 시작 후 4주, 8주 시점에 118개 유전자 ctDNA 검사를 시행하여 변이 대립유전자 빈도(VAF)를 분석했습니다. 치료 전 ctDNA 검출과 치료 4주 차의 높은 Top4 유전자(KRAS, TP53, CDKN2A, SMAD4) 변이 검출은 유의하게 짧은 무진행 생존기간과 관련이 있었습니다. 다중 유전자 ctDNA 분석은 예후 정보를 제공하지만 기존 KRAS 단독 검사나 CA19-9 대비 명확한 우월성은 입증되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prognostic Value and Longitudinal Dynamics of Multigene Circulating Tumor DNA in Advanced Pancreatic Cancer Treated with 5-Fluorouracil-Based Chemotherapy",
+ "title_ko": "5-플루오로우라실 기반 항암요법을 받는 진행성 췌장암 환자에서 다중 유전자 순환 종양 DNA의 예후 가치 및 종단적 변화",
+ "trial": null,
+ "type": "paper"
+}

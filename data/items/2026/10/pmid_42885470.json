@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND AND AIMS: We previously developed multiple machine-learning and regression-based risk prediction models using retrospective electronic health records (EHR) to estimate near-term risk of pancreatic cancer (PC). This pilot study aimed to assess the feasibility of an early detection strategy combining initial EHR-based risk prediction with downstream imaging and blood-based testing.\nMETHODS: This prospective study included adults aged 50-84 years with an estimated ≥ 1% 18-month risk of PC, identified between January 2021 and March 2023 using four previously validated models. Patients with a history or active suspicion of PC were excluded. Participants completed cross-sectional imaging and CA19-9 Labs at baseline and again at 18 months. Outcomes included enrollment rates, test completion rate, and burden of incidental findings.\nRESULTS: Of 1251 eligible patients, 102 (8.2%) enrolled (median age 69 years [IQR 62-75]; 58% women; 48% Hispanic, 34% White, 11% Black, and 7% Asian). At baseline, 89 (87%) completed imaging and 98 (96%) completed CA19-9. At 18 months, 79% completed both imaging and CA19-9. Ten (10%) participants underwent additional clinical evaluations triggered by imaging findings. Evaluations included an endoscopic ultrasound, renal imaging, and FibroScan. CA19-9 results were normal in most participants, though 18% had elevated levels at baseline.\nCONCLUSIONS: Real-time EHR-based ML algorithms can be combined with blood- and imaging-based surveillance for early detection of PC with acceptable burden of incidental findings. However, improved patient engagement is a key aspect that will need to be addressed in order to successfully scale an AI-guided strategy for early detection.",
+ "authors": [
+  "Wu BU",
+  "Luong TQ",
+  "Lustigova E",
+  "Jeon C",
+  "Puttock EJ",
+  "Moon RH",
+  "Munis MA",
+  "Chen W"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885470",
+ "importance": 0.64,
+ "key_points_ko": [
+  "위험군으로 선별된 1,251명 중 102명(8.2%)이 연구에 등록했습니다.",
+  "기저 시점에서 87%가 영상 검사를, 96%가 CA19-9 검사를 완료했으며 18개월 시점에는 79%가 두 검사를 모두 완료했습니다.",
+  "영상 검사 이상 소견으로 내시경 초음파(EUS), 신장 영상, 간 섬유화 스캔 등의 추가 정밀 평가를 받은 참가자는 10명(10%)이었습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1002/cam4.72368",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885470"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885470/"
+ },
+ "summary_ko": "전자의무기록(EHR) 기반 인공지능 머신러닝 위험 예측 모델과 영상 검사, 혈액 검사를 결합한 췌장암 조기 발견 전략의 실행 가능성을 평가한 전향적 연구입니다. 예측 모델상 18개월 내 췌장암 발생 위험이 1% 이상으로 평가된 50~84세 성인 102명이 등록되어 기저 시점과 18개월 시점에 단면 영상 검사와 CA19-9 검사를 받았습니다. 기저 시점에서 영상 검사는 87%, CA19-9 검사는 96%가 완료했고, 18개월 시점에는 79%가 두 검사를 모두 마쳤습니다. 영상 소견으로 인해 추가 정밀 검사를 받은 비율은 10% 수준이었으며, 전자의무기록 기반 조기 선별 전략의 타당성을 확인했으나 환자 참여율 제고가 과제로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Implementation of Risk Prediction Models Using Electronic Health Data for Early Detection of Pancreatic Cancer: A Prospective Pilot Feasibility Study",
+ "title_ko": "췌장암 조기 발견을 위한 전자의무기록 데이터 기반 위험 예측 모델의 적용: 전향적 파일럿 타당성 연구",
+ "trial": null,
+ "type": "paper"
+}

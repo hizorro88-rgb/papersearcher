@@ -1,0 +1,61 @@
+{
+ "abstract": "Pain is one of the most frequent and burdensome symptoms of pancreatic cancer and may substantially impair quality of life throughout the disease trajectory. Its complex and evolving etiology, involving visceral, neuropathic, somatic, and treatment-related mechanisms, frequently makes adequate pain control challenging. This critical narrative review provides a multidisciplinary overview of pancreatic cancer-associated pain management, integrating oncological treatment, palliative and pharmacological care, and interventional pain management into a practical clinical framework. Anticancer therapies, including chemotherapy and radiotherapy, may provide clinically meaningful analgesia in addition to their disease-controlling effect. Early integration of palliative care enables repeated symptom assessment, individualized pharmacological treatment, and management of the psychological, social, and spiritual dimensions of total pain. When conventional analgesic strategies provide insufficient relief or cause intolerable adverse effects, interventional techniques such as coeliac plexus neurolysis, splanchnic neurolysis, or intrathecal drug delivery can complement ongoing oncological and palliative treatment. Rather than following a rigid stepwise analgesic approach, pancreatic cancer-associated pain management should be individualized according to pain mechanism, disease stage and anatomy, previous treatments, functional status, expected survival, and patient preferences. Based on the available evidence and multidisciplinary clinical considerations, we propose a practical patient-centered pathway that dynamically integrates disease-directed, pharmacological, supportive, and interventional strategies throughout the disease course. Early multidisciplinary collaboration and continuous reassessment may facilitate timely treatment escalation and improve pain control while minimizing treatment burden.",
+ "authors": [
+  "Zelenai F",
+  "Bakos E",
+  "Süller-Torma V",
+  "Dank M",
+  "Madurka I",
+  "Horváth O"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42882821",
+ "importance": 0.64,
+ "key_points_ko": [
+  "항암화학요법과 방사선치료는 암의 진행 조절 외에도 의미 있는 통증 완화 효과를 제공할 수 있습니다.",
+  "일반적인 진통제 치료로 충분한 효과를 보지 못하거나 부작용이 심할 경우 복강신경총 신경차단술 등의 중재적 통증 시술을 활용할 수 있습니다.",
+  "정형화된 단계적 진통제 사용보다는 통증 기전과 환자 상태를 고려한 조기 완화의료와 다학제적 통합 치료가 권장됩니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/cancers18193127",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42882821"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-27",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882821/"
+ },
+ "summary_ko": "췌장암 환자에게 통증은 삶의 질을 크게 떨어뜨리는 대표적 증상이며 내장통, 신경병증성 통증, 치료 관련 통증 등 복합적인 원인으로 발생합니다. 본 리뷰 논문은 항암화학요법 및 방사선치료와 같은 항암 치료, 완화의료 및 약물요법, 중재적 통증 치료를 아우르는 다학제적 통증 관리 방안을 제시합니다. 기존 진통제 요법으로 조절되지 않거나 부작용이 심한 경우 복강신경총 신경차단술(coeliac plexus neurolysis), 내장신경 차단술(splanchnic neurolysis), 척수강 내 약물 주입 펌프(intrathecal drug delivery) 등의 중재적 시술을 병용할 수 있습니다. 환자의 통증 기전, 질병 단계, 신체 기능, 기대 수명 및 선호도를 반영하여 개별 맞춤형으로 통증을 관리하는 통합 경로를 제안하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Cancer-Associated Pain Management Beyond Opioids: Integrating Oncological Treatment, Palliative Care, and Interventional Pain Medicine",
+ "title_ko": "마약성 진통제를 넘어서는 췌장암 관련 통증 관리: 종양학적 치료, 완화의료, 중재적 통증의학의 통합",
+ "trial": null,
+ "type": "paper"
+}

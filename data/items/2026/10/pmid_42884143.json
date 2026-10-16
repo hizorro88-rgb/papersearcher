@@ -1,0 +1,62 @@
+{
+ "abstract": "Multimodal prehabilitation aims to enhance resilience to cancer therapy through exercise, nutrition, and psychological optimization. While prehabilitation can improve physical condition and functional status, its biologic influence on the tumor microenvironment (TME) remains poorly characterized. In pancreatic ductal adenocarcinoma (PDAC), the TME is dominated by immunosuppressive and desmoplastic features that limit immune cell infiltration and therapeutic efficacy. As an exploratory pilot analysis, this study characterized the cellular composition, spatial relationships, and functional signaling of the pancreatic TME in patients who underwent prehabilitation prior to surgical resection and those who did not. Tumor samples from eight patients (four prehabilitation, four control) were analyzed with a 34-plex protein panel using Imaging Mass Cytometry (IMC), categorizing the tumor-immune landscape and functional status at the single-cell resolution. Prehabilitation tumors demonstrated reduced neutrophil and epithelial/tumor cell density and enrichment of Natural Killer (NK), CD4+, and CD8+ T cells. Spatial analysis revealed an immune-permissive architecture in prehabilitation tumors, in contrast to immune-resistant patterns in controls. Functional marker analysis showed reduced activation and pro-tumor signaling in immunosuppressive populations, including Tregs (HLADR, pAkt, pNFκB) and Collagen+ CAFs (NOS2, pERK, pNFκB, pSTAT3). These preliminary findings raise the possibility that prehabilitation is associated with an immune-permissive TME in PDAC, supporting further investigation of its immunomodulatory potential in larger, prospectively designed cohorts.",
+ "authors": [
+  "Sandeep S",
+  "Schutt J",
+  "Allenson K",
+  "Stubbins R",
+  "Zheng J",
+  "Chen SH",
+  "Dhala A"
+ ],
+ "categories": [
+  "supportive",
+  "surgery",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42884143",
+ "importance": 0.7,
+ "key_points_ko": [
+  "수술 전 사전재활군(4명)과 대조군(4명)의 췌장암 조직을 단일 세포 수준(34개 단백질 패널)으로 비교한 파일럿 연구입니다.",
+  "사전재활을 진행한 환자의 종양에서 자연살해(NK) 세포, CD4+ 및 CD8+ T세포 침윤이 증가하고 호중구와 종양 세포 밀도는 감소했습니다.",
+  "조절 T세포(Treg)와 암 연관 섬유아세포(CAF)의 종양 촉진 신호 활성이 감소하여 면역 반응에 유리한 미세환경 구조가 관찰되었습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198900",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42884143"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42884143/"
+ },
+ "summary_ko": "본 연구는 수술 전 운동, 영양, 심리적 지원을 결합한 사전재활(prehabilitation)이 췌관선암(PDAC)의 종양 미세환경(TME)에 미치는 생물학적 영향을 조사했습니다. 수술 전 사전재활을 받은 환자 4명과 받지 않은 환자 4명 등 총 8명의 종양 조직을 영상 질량 분석법(IMC)을 이용해 단일 세포 수준에서 비교 분석했습니다. 분석 결과 사전재활을 받은 환자의 종양에서 종양 세포 및 호중구 밀도가 감소하고 자연살해(NK) 세포와 CD4+, CD8+ T세포 침윤이 풍부해졌습니다. 또한 면역억제 세포와 암 연관 섬유아세포(CAF)의 친종양성 활성 신호가 감소하여 사전재활이 면역 친화적인 종양 미세환경 형성에 기여할 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prehabilitation as a Strategy to Modulate the Tumor Microenvironment in Pancreatic Cancer",
+ "title_ko": "췌장암에서 종양 미세환경 조절 전략으로서의 수술 전 사전재활",
+ "trial": null,
+ "type": "paper"
+}

@@ -23,11 +23,11 @@
  "id": "nct:NCT06989437",
  "importance": 1.0,
  "key_points_ko": [
-  "악액질(암으로 인한 체중 감소)을 겪는 전이성 췌관선암 환자 약 982명을 대상으로 진행되는 2b/3상 시험입니다.",
-  "1차 항암치료(젬시타빈+냅-파클리탁셀 1주기 또는 FOLFIRINOX 2주기)를 마친 직후 연구 치료를 시작하며 4주 간격으로 피하 주사합니다.",
-  "2b상에서 선별된 최적 용량으로 3상 무작위 배정을 진행해 위약 대비 치료 유효성을 최종 확인합니다."
+  "목표 인원은 총 982명이며, 국내 10곳의 기관이 참여합니다.",
+  "환자들은 1차 항암 치료(nab-paclitaxel plus gemcitabine 또는 FOLFIRINOX)를 일정 기간 마친 후 연구 치료를 시작합니다.",
+  "치료는 ponsegromab 또는 위약을 4주 간격으로 피하 주사(SC)하는 방식으로 진행됩니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06989437"
  },
- "summary_ko": "악액질(심한 체중 감소)을 동반한 전이성 췌관선암 환자를 대상으로 1차 항암화학요법과 함께 ponsegromab(폰세그로맙) 또는 위약을 병용 투여하는 2b/3상 임상시험입니다. 환자들은 표준 1차 항암치료인 젬시타빈+냅-파클리탁셀(1주기 완료) 또는 FOLFIRINOX(2주기 완료)를 막 시작한 상태에서 등록됩니다. 폰세그로맙 또는 위약은 4주마다 피하 주사로 투여되며, 악액질 개선과 생존기간 연장 효과 및 안전성을 위약군과 비교 평가합니다.",
+ "summary_ko": "이 임상시험은 체중 감소와 피로를 동반한 전이성 췌관선암(metastatic pancreatic ductal adenocarcinoma, mPDAC) 및 악액질(cachexia) 성인 환자를 대상으로 합니다. 1차 전신 항암 치료(nab-paclitaxel plus gemcitabine 또는 FOLFIRINOX)와 함께 폰세그로맙(ponsegromab) 또는 위약(placebo)을 병용 투여하여 유효성, 안전성, 내약성을 평가합니다. 연구는 제2b상과 제3상 단계로 나누어 진행되며, 무작위 배정 및 이중맹검 방식으로 수행됩니다. 국내 10곳의 기관을 포함하여 대규모 환자를 대상으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "pancreatic cancer",
@@ -63,7 +63,7 @@
   "fatigue"
  ],
  "title": "A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue",
- "title_ko": "체중 감소와 피로가 동반된 전이성 췌장암 환자 대상 ponsegromab(폰세그로맙) 2b/3상 임상시험",
+ "title_ko": "전이성 췌장암 및 악액질 환자 대상 폰세그로맙(ponsegromab)의 효과와 안전성을 평가하는 임상시험",
  "trial": {
   "conditions": [
    "Cachexia",
@@ -76,7 +76,7 @@
     "phone": "1-800-718-1021"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 전이성 췌관선암으로 진단된 만 18세 이상 환자\n- Fearon 기준에 부합하는 암 악액질(체중 감소)이 확인된 환자\n- 1차 전신 항암화학요법으로 젬시타빈+냅-파클리탁셀 1주기(28일) 또는 FOLFIRINOX 2주기(각 14일)를 완료하고 다음 주기 투여 전인 환자\n- ECOG 수행능력 점수 0~1점 및 최소 4개월 이상의 기대 여명\n\n제외 기준:\n- 음식 섭취 감소의 가역적인 다른 원인이 있거나 암 외의 다른 원인으로 인한 악액질\n- 심부전 병력(박출률 무관) 또는 좌심실 구출률(LVEF) 50% 미만인 심장 질환\n- 스크리닝 또는 배정 시점에 경관 영양(튜브 공급) 또는 정맥 영양(TPN)을 투여받고 있는 환자\n- 단클론항체 또는 사용 예정인 항암제 성분에 대한 중증 알레르기 반응 병력\n- 신경내분비암 또는 선방세포암(acinar carcinoma)\n- 증상이 있는 뇌전이, 연수막 질환 등 중추신경계 전이\n- 투석이 필요한 신장 질환 또는 심각한 간 기능 저하",
+  "eligibility_ko": "선정 기준:\n- 서면 동의서 작성 완료\n- 전이성 췌관선암(metastatic pancreatic ductal adenocarcinoma)의 확진 기록\n- Fearon 기준에 따른 체중 감소로 정의된 악액질(cachexia)\n- 1차 전신 항암 치료인 nab-paclitaxel plus gemcitabine 28일 주기 1회 또는 FOLFIRINOX 14일 주기 2회를 완료하고 2주기 항암 치료 전인 환자\n- ECOG 수행능력 0-1이며 예상 여명이 최소 4개월 이상인 환자\n\n제외 기준:\n- 현재 음식 섭취 감소를 초래하는 가역적 원인이 있는 경우\n- 다른 원인으로 인한 악액질\n- 좌심실 박출률이나 뉴욕 심장협회(NYHA) 분류와 상관없이 심부전의 과거력이 있거나 현재 진단된 경우\n- 좌심실 박출률 < 50%\n- 스크리닝 또는 무작위 배정 시점에 경관 영양(tube feeding) 또는 비경구 영양(parenteral nutrition)을 받고 있는 경우\n- 단일클론항체 제제에 대한 알레르기 또는 아나필락시스 반응 병력\n- 항암제 또는 부형제에 대한 알레르기나 과민반응 병력\n- 신경내분비(카르시노이드, 도세포) 또는 선포세포 췌장암, 증상이 있는 뇌전이, 연수막 질환 또는 기타 활성 중추신경계 전이\n- 간 기능 부전\n- 투석이 필요한 신장 질환 또는 사구체filtration rate(eGFR) < 30 mL/min/1.73m2",
   "eligibility_text": "Key inclusion Criteria:\n\n* Signed Informed Consent Document\n* Documented active diagnosis of metastatic pancreatic ductal adenocarcinoma\n* Cachexia defined by Fearon criteria of weight loss\n* Completed 1 x 28-day cycle of first-line systemic nab-paclitaxel and gemcitabine chemotherapy or 2 x 14-day cycles of FOLFIRINOX chemotherapy and prior to receiving Cycle 2 chemotherapy\n* ECOG PS ≤1 with life expectancy of at least 4 months\n\nKey Exclusion Criteria:\n\n* Current active reversible causes of decreased food intake\n* Cachexia caused by other reasons\n* Any prior or current clinical diagnosis of heart failure, irrespective of left ventricular ejection fraction or New York Heart Association classification\n* Left ventricular ejection fraction \\<50%\n* Receiving tube feedings or parenteral nutrition at the time of Screening or Randomization\n* History of allergic or anaphylactic reaction to any therapeutic or diagnostic monoclonal antibody\n* History of allergy or hypersensitivity to any of the chemotherapeutics or any of their excipients\n* Neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma, symptomatic brain metastasis, leptomeningeal disease or other active CNS metastases\n* Inadequate liver function\n* Renal disease requiring dialysis or eGFR \\<30 mL/min/1.73m2",
   "enrollment": 982,
   "has_results": false,
@@ -175,15 +175,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "심부전 병력 또는 심장 기능 저하(좌심실 구출률 50% 미만)",
-    "튜브 영양 공급 또는 정맥 영양(수액 영양제)을 공급받는 상태",
-    "증상이 있는 뇌전이 또는 연수막 전이",
-    "신경내분비종양 또는 선방세포암"
+    "심부전 병력",
+    "좌심실 박출률 50 미만",
+    "경관 영양 또는 비경구 영양 투여 중",
+    "증상이 있는 뇌전이 또는 중추신경계 전이"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "1차 항암치료(FOLFIRINOX 또는 젬시타빈+냅-파클리탁셀) 1주기를 막 완료한 악액질(체중 감소) 동반 전이성 췌장암 환자",
+   "notes_ko": "1차 전신 항암 치료를 시작하고 악액질을 동반한 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

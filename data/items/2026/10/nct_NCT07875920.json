@@ -20,11 +20,11 @@
  "id": "nct:NCT07875920",
  "importance": 0.81,
  "key_points_ko": [
-  "KRAS G12V 변이 및 HLA-A*11:01 양성을 가진 진행성 고형암 환자 총 66명을 모집할 예정입니다.",
-  "췌관선암(PDAC)의 경우 최소 1차 이상의 이전 전신 항암 요법에 실패하거나 질병이 진행된 환자가 대상입니다.",
-  "자가 유래 TCR-T 세포치료제 투약 전 림프구 고갈을 위해 fludarabine과 cyclophosphamide 투여가 병행됩니다."
+  "목표 대상 인원은 최대 66명의 환자입니다.",
+  "1a상 용량증량과 1b상 질환별 확장 코호트로 진행됩니다.",
+  "췌장암 코호트(Cohort A)는 1차 이상의 이전 전신 항암 치료에 실패하거나 진행된 진행성 또는 국소진행성 절제 불가능 환자를 대상으로 합니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07875920"
  },
- "summary_ko": "KRAS G12V 유전자 변이와 HLA-A*11:01 유전형을 가진 진행성 고형암(췌관선암, 대장암, 폐선암 등) 성인 환자를 대상으로 자가 T세포 수용체 T세포(TCR-T) 치료제인 NW-301V의 안전성, 예비 항종양 효과 및 약동학적 특성을 평가하는 다기관, 단일군, 공개 1a/1b상 임상시험입니다. 1a상 용량 증량 코호트에서 권장 용량을 탐색한 뒤, 1b상 용량 확장 코호트에서 1차 이상 전신 항암 치료를 받은 진행성 췌관선암 환자 등을 대상으로 안전성과 유효성을 추가 평가합니다. 참여 환자는 백혈구 성분채집술을 통해 세포치료제를 제작하며, 투여 전 플루다라빈(fludarabine)과 사이클로포스파미드(cyclophosphamide)를 이용한 림프구 제거 요법을 받습니다.",
+ "summary_ko": "이 연구는 KRAS G12V 변이가 있는 진행성 고형암 환자(췌장암, 대장암, 폐암 등)를 대상으로 자가 T세포 수용체 유전자 조작 T세포(TCR-T) 치료제인 NW-301V의 안전성과 예비 항종양 활성을 평가하는 단일군, 다기관, 공개 1a/1b상 용량증량 및 확장 임상시험입니다. 1a상에서는 용량증량을 통해 안전성과 내약성을 평가하고 임상 2상 권장 용량(RP2D)을 결정합니다. 1b상에서는 췌장암(PDAC), 대장암, 폐암 환자군을 나누어 유효성과 안전성을 추가로 평가합니다. 환자들은 백혈구 성분채집술(leukapheresis)을 거쳐 NW-301V를 제조받고, 투여 전 fludarabine과 cyclophosphamide로 림프구 고갈(lymphodepletion) 전처치를 받습니다.",
  "summary_source": "llm",
  "tags": [
   "TCR-T",
@@ -62,7 +62,7 @@
   "KRAS G12V"
  ],
  "title": "Phase 1 Study of NW-301V TCR-T Cells in Advanced Solid Tumors With KRAS G12V Mutation",
- "title_ko": "KRAS G12V 변이 진행성 고형암 환자를 대상으로 한 NW-301V TCR-T 세포 치료제 1상 임상시험",
+ "title_ko": "KRAS G12V 변이 진행성 고형암 환자를 위한 NW-301V TCR-T 세포 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Solid Cancer",
@@ -80,7 +80,7 @@
     "phone": "+86-512-67991566"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 75세 이하 성인\n- HLA-A*11:01 양성 확인\n- 종양의 KRAS G12V 변이 확인\n- RECIST 1.1 기준 측정 가능한 병변이 1개 이상 존재\n- ECOG 수행능력 점수 0~1점\n- 백혈구 성분채집술 전 기대 여명 3개월 초과\n- 백혈구 성분채집술 및 림프구 제거 요법 전 적절한 장기 기능 유지\n- 췌장암(1b상 코호트 A): 조직학적 또는 병리학적으로 확인된 진행성 또는 국소 진행성 절제 불가능 췌관선암으로, 최소 1차 이상의 이전 전신 치료 후 실패했거나 진행한 환자\n\n제외 기준:\n- 백혈구 성분채집술 전 2주 이내 또는 림프구 제거 요법 전 1주 이내 세포독성 항암화학요법이나 면역억제제를 투여받은 경우\n- 백혈구 성분채집술 전 3주 이내 또는 림프구 제거 요법 전 2주 이내 항체 또는 기타 생물학적 제제를 투여받은 경우\n- cyclophosphamide, fludarabine 또는 시험 약물의 구성 성분에 알레르기 반응 병력이 있는 경우\n- 성분채집술 또는 림프구 제거 요법 전 1년 이내 스테로이드나 면역억제제 치료가 필요했던 만성, 재발성 중증 자가면역질환 또는 활동성 면역질환 병력\n- 증상이 있는 중추신경계 전이, 연수막 질환 또는 암성 뇌막염\n- 활동성 또는 진행 중인 감염\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 연령 18~75세\n- HLA-A*11:01 양성\n- KRAS G12V 변이 확인된 종양\n- RECIST 1.1 기준 최소 1개의 측정 가능한 병변\n- ECOG 수행능력 0~1\n- 췌장암 코호트(1b상 코호트 A): 적어도 1가지 이상의 이전 전신 치료 후 실패하거나 진행된 진행성 또는 국소진행성 절제 불가능 췌장관선암(PDAC)\n\n제외 기준:\n- 백혈구 성분채집술 전 2주 이내(또는 림프구 고갈 전 1주 이내) 세포독성 항암화학요법 또는 면역억제제 투여 이력\n- cyclophosphamide, fludarabine 또는 임상 약물 성분에 대한 알레르기 병력\n- 증상성 중추신경계(CNS) 전이\n- 연수막 질환 또는 암성 수막염\n- 진행 중이거나 활동성 감염\n- 모유 수유 중이거나 임신 중인 경우",
   "eligibility_text": "Key Inclusion Criteria:\n\nApplicable to both Phase 1a and 1b:\n\n* Age between 18-75 years\n* HLA-A\\*11:01 positive\n* Tumor confirmed to have KRAS G12V mutation\n* At least one measurable lesion according to RECIST 1.1\n* ECOG 0-1\n* Life expectancy \\> 3 months before leukapheresis\n* Adequate organ functions prior to leukapheresis and lymphodepletion\n\nFor Phase 1a only:\n\n* Histologically or pathologically confirmed, advanced or unresectable solid tumors including, but not limited to, pancreatic ductal adenocarcinoma (PDAC), colorectal adenocarcinoma (CRC), and lung adenocarcinoma (LUAD)\n* Participants must have no standard treatment options available or are unable to tolerate currently available standard treatment\n\nFor Phase 1b only:\n\n* Cohort A: Histologically or pathologically confirmed advanced or locally advanced unresectable PDAC that had failed or progressed after at least 1 line of prior systemic therapy\n* Cohort B: Histologically or pathologically confirmed advanced CRC that had failed or progressed after at least 2 lines of prior systemic therapies\n* Cohort C: Histologically or pathologically confirmed advanced LUAD that had failed or progressed after at least 1 line of prior systemic therapy\n\n(Additional protocol-defined Inclusion criteria may apply)\n\nKey Exclusion Criteria:\n\nApplicable to both Phase 1a and 1b:\n\n* Received the following treatments: Cytotoxic chemotherapy or immunosuppressive agents within 2 weeks prior to leukapheresis, or within 1 week prior to lymphodepletion; Antibodies or other biologic therapy within 3 weeks prior to leukapheresis, or within 2 weeks prior to lymphodepletion;\n* History of allergic reactions to cyclophosphamide, fludarabine, or any other chemical or biological components of the drugs used in this study\n* History of chronic or recurrent severe autoimmune disease, or active immune disease requiring treatment with steroids or other immunosuppressive agents within 1 year prior to leukapheresis or lymphodepletion\n* Have symptomatic CNS metastases\n* Have leptomeningeal disease or carcinomatous meningitis\n* Have ongoing or active infection\n* Breastfeeding or pregnant\n\n(Additional protocol-defined Inclusion criteria may apply)",
   "enrollment": 66,
   "has_results": false,
@@ -97,21 +97,19 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [
-    "KRAS_G12V",
-    "other"
+    "KRAS_G12V"
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "증상이 있는 뇌 전이 또는 연수막 질환",
-    "활동성 또는 진행 중인 감염",
-    "최근 1년 이내 치료가 필요했던 중증 자가면역질환",
-    "플루다라빈(fludarabine) 또는 사이클로포스파미드(cyclophosphamide) 과민반응 병력",
-    "임신 또는 수유 중"
+    "증상성 뇌전이",
+    "활동성 감염",
+    "임신 또는 모유 수유 중",
+    "자가면역질환 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 전신 치료를 1차 이상 받고 실패하거나 진행한 KRAS G12V 변이 및 HLA-A*11:01 양성 진행성 췌관선암 환자",
+   "notes_ko": "이전 치료를 1가지 이상 받은 HLA-A*1101 양성 및 KRAS G12V 변이 진행성 췌장암 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,62 @@
+{
+ "abstract": "In the original publication [...].",
+ "authors": [
+  "Danese E",
+  "Esposito A",
+  "De Pastena M",
+  "Del Ben F",
+  "Lionetto G",
+  "Scirpoli A",
+  "Rizza M",
+  "Salvia R"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42882940",
+ "importance": 0.55,
+ "key_points_ko": [
+  "췌장암 환자의 혈중 담즙산 프로파일과 담즙정체 관리를 다룬 연구 논문에 대한 공식 정정(Correction)입니다.",
+  "구체적인 정정 세부 사항은 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/cancers18193144",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42882940"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882940/"
+ },
+ "summary_ko": "이 문헌은 췌장암 환자의 혈중 담즙산 프로파일 및 담즙정체(cholestasis)의 역할과 관리에 대해 다룬 기존 출판 논문의 정정(Erratum) 공지입니다. 원문 논문의 오류나 수정 사항을 공식적으로 바로잡기 위해 게시되었습니다. 구체적인 수정 내용의 세부 수치는 제공된 본문에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction: Danese et al. Interpreting Circulating Bile Acid Profiles in Pancreatic Cancer: The Role of Cholestasis and Its Management. Cancers 2026, 18, 2481",
+ "title_ko": "정정: 췌장암에서 혈중 담즙산 프로파일 해석: 담즙정체의 역할과 관리 (Danese 등, Cancers 2026, 18, 2481)",
+ "trial": null,
+ "type": "paper"
+}

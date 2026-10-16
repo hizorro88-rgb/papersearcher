@@ -16,12 +16,72 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 13건 · 최근 30일 13건
+전체 17건 · 최근 30일 17건
 
 월별 보기: [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42883736"></a>
+#### [췌관선암종에서 CD74 발현의 예후 및 임상병리학적 의의: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42883736/)
+<small>Prognostic and Clinicopathological Significance of CD74 Expression in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-09-23 · PubMed · Int J Mol Sci · 중요도 0.90
+
+이 연구는 췌관선암종(PDAC) 환자 조직에서 CD74 단백질의 발현과 병리학적 특징 및 생존율 간의 연관성을 평가한 체계적 문헌고찰 및 메타분석입니다. 총 5개 연구 데이터를 종합 분석한 결과, CD74 발현 양성 환자는 신경 침윤, 림프관 침윤, 림프절 전이 위험이 유의하게 높았습니다. 또한 CD74 양성은 더 나쁜 전체 생존기간(OS)과 연관되어 있는 것으로 나타났습니다. 연구진은 포함된 연구 수가 적고 기준이 표준화되지 않아, CD74를 확립된 지표로 보기는 어렵고 향후 대규모 전향적 검증이 필요한 후보 표지자로 평가했습니다.
+
+- CD74 양성 발현 환자는 음성 환자에 비해 신경 침윤 위험이 약 3.69배 높았습니다(4개 코호트 351명, OR=3.69, p<0.00001).
+- CD74 양성은 림프관 침윤(OR=2.05, p=0.007) 및 림프절 전이(4개 코호트 462명, OR=1.94, p=0.002) 위험 증가와 유의하게 연관되었습니다.
+- CD74 발현 양성은 전체 생존기간(OS) 단축과 유의한 관련을 보였습니다(3개 코호트 293명, 위험비 HR=2.04, 95% CI: 1.45-2.88, p<0.00001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883736/) · [DOI](https://doi.org/10.3390/ijms27198488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883736)</small>
+
+---
+<a id="pmid-42882871"></a>
+#### [죽음과의 타협: 질병 전 과정에 걸친 췌장암의 심리사회적 경험에 대한 정성적 체계적 문헌고찰 및 주제별 통합](https://pubmed.ncbi.nlm.nih.gov/42882871/)
+<small>Negotiating Mortality: A Qualitative Systematic Review and Thematic Synthesis of the Psychosocial Experiences of Pancreatic Cancer Across the Illness Trajectory</small>
+
+`논문` `종설` `지지요법·삶의질` `제약사·규제` `진단·조기발견` · 2026-10-01 · PubMed · Cancers (Basel) · 중요도 0.66
+
+이 연구는 진단부터 투병 및 임종에 이르는 췌장암 질병 궤적 전반에서 환자가 겪는 심리사회적(psychosocial) 경험을 파악하기 위해 진행된 정성적 체계적 문헌고찰입니다. 연구진은 7개 학술 데이터베이스를 검색하여 총 28개 연구(30편의 논문)를 선별해 분석했습니다. 분석 결과 환자들은 진단의 충격, 복잡한 치료 및 정보 탐색, 신체적·관계적 변화에 따른 일상 재구성, 삶의 불확실성과 죽음에 대한 대처 등 4가지 주요 영역에서 깊은 삶의 단절과 혼란을 경험했습니다. 연구진은 병기 전반에 걸쳐 환자와 가족의 심리종양학적 및 지지요법(supportive care)에 대한 미충족 수요가 매우 크다고 결론지었습니다.
+
+- 총 4,357건의 초록과 412건의 전문 검토를 거쳐 췌장암 환자의 경험을 다룬 28개 연구(30편)가 최종 분석에 포함되었습니다.
+- 환자의 심리사회적 경험은 진단의 충격, 의료 및 정보 탐색, 일상과 관계의 변화, 불확실성과 죽음에 직면하는 과정의 4가지 주요 주제로 도출되었습니다.
+- 복합적인 신체 증상과 기능 저하, 재발 및 진행에 대한 불안감이 겹쳐 환자와 가족을 위한 심리적 지지요법의 필요성이 강조되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882871/) · [DOI](https://doi.org/10.3390/cancers18193177) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882871)</small>
+
+---
+<a id="pmid-42882807"></a>
+#### [이전에 치료받은 전이성 RAS 변이 췌관선암 환자에서 다락소나십(Daraxonrasib, RMC-6236)의 유효성 및 안전성: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42882807/)
+<small>Efficacy and Safety of Daraxonrasib (RMC-6236) in Previously Treated Metastatic RAS-Mutated Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-09-25 · PubMed · Cancers (Basel) · 중요도 0.66
+
+이 논문은 이전에 치료를 받은 전이성 RAS 변이 췌관선암(PDAC) 환자를 대상으로 새로운 RAS 억제제인 daraxonrasib(다락소나십, RMC-6236)의 치료 효과와 안전성을 분석한 체계적 문헌고찰 연구입니다. 총 668명이 포함된 1/2상 시험(RMC-6236-001)과 3상 무작위 배정 시험(RASolute 302) 데이터를 종합하여 분석했습니다. 3상 시험 결과 RAS G12 변이 환자에서 daraxonrasib 투여군은 기존 화학요법군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)을 두 배가량 유의하게 연장시켰습니다. 부작용은 주로 1~2등급의 피부 및 소화기 증상으로 나타났으며 기존 항암화학요법 대비 혈액학적 부작용과 치료 중단율이 낮았습니다.
+
+- 3상 임상시험(RASolute 302)에서 daraxonrasib 투여군은 기존 항암치료군 대비 중앙 전체 생존기간(13.2개월 vs 6.6개월, 위험비 0.40)과 중앙 무진행 생존기간(7.3개월 vs 3.5개월, 위험비 0.45)을 유의하게 향상시켰습니다.
+- 객관적 반응률(ORR)은 daraxonrasib 투여군이 33.2%로 기존 화학요법군(11.8%)보다 유의미하게 높았습니다(p < 0.001).
+- 부작용은 주로 가벼운 1~2등급의 피부 및 위장관 독성이었으며 통증 발생과 삶의 질 악화를 늦추는 효과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882807/) · [DOI](https://doi.org/10.3390/cancers18193112) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882807)</small>
+
+---
+<a id="pmid-42882835"></a>
+#### [췌장관선암에서 RAS 억제제의 대립유전자별 활성: 체계적 문헌고찰 및 탐색적 메타분석](https://pubmed.ncbi.nlm.nih.gov/42882835/)
+<small>Allele-Stratified Activity of RAS Inhibitors in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Exploratory Meta-Analysis</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `제약사·규제` `진단·조기발견` · 2026-09-28 · PubMed · Cancers (Basel) · 중요도 0.64
+
+췌장관선암(PDAC) 환자를 대상으로 KRAS 변이 유형별 RAS 억제제의 효과를 확인하기 위해 24건의 연구(전임상 20건, 초기 단일군 임상시험 4건)를 종합 분석했습니다. KRAS G12C 억제제 관련 3건의 단일군 임상시험을 메타분석한 결과, 객관적 반응률(ORR)은 36.9%, 질병 조절률(DCR)은 85.9%로 집계되었습니다. 3등급 이상의 치료 관련 이상반응 발생률은 23.8%였으며 전반적인 근거 수준(GRADE)은 매우 낮음으로 평가되었습니다. 연구진은 대립유전자별 표적 치료의 가능성을 지지하면서도, KRAS G12D 표적 치료의 임상 검증은 G12C에 비해 아직 매우 초기 단계라고 결론지었습니다.
+
+- KRAS G12C 억제제 단일군 임상시험 3건의 통합 객관적 반응률(ORR)은 36.9%(95% CI, 9.8-75.7%)였습니다.
+- 통합 질병 조절률(DCR)은 85.9%(95% CI, 62.1-95.8%), 3등급 이상의 중대한 치료 관련 부작용 발생률은 23.8%였습니다.
+- KRAS G12D 표적 치료는 전임상 연구 규모가 큼에도 불구하고 임상적 검증 단계는 G12C보다 현저히 초기 수준에 머물러 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882835/) · [DOI](https://doi.org/10.3390/cancers18193139) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882835)</small>
+
+---
 <a id="pmid-42868319"></a>
 #### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
 <small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>

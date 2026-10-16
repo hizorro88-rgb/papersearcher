@@ -23,11 +23,11 @@
  "id": "nct:NCT03816163",
  "importance": 0.92,
  "key_points_ko": [
-  "목표 인원은 393명이었습니다.",
-  "연구는 안전성 용량증량 단계(Safety Lead-in Phase)와 무작위 배정 단계(Randomization Phase)의 2가지 부분으로 진행되었습니다.",
-  "치료 주기는 28일(4주) 단위였습니다."
+  "암세포의 75% 이상에서 CLDN18.2 단백질이 발현된 이전 치료 경험이 없는 전이성 췌장암 환자 393명을 대상으로 진행됩니다.",
+  "졸베투시맙과 항암화학요법 병용 투여 시의 적정 용량, 생존기간 연장 효과 및 안전성을 무작위 배정을 통해 평가합니다.",
+  "개발사인 아스텔라스는 2025년 12월부로 췌장암에 대한 졸베투시맙 임상 개발 프로그램을 종료한다고 밝혔습니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03816163"
  },
- "summary_ko": "이 임상시험은 Claudin 18.2(CLDN18.2) 단백질이 발현된 전이성 췌장암 성인 환자를 대상으로 zolbetuximab과 항암화학요법 병용요법의 안전성과 유효성을 평가하기 위해 진행되었습니다. 환자들은 zolbetuximab과 항암화학요법 병용 또는 항암화학요법 단독 치료를 받도록 무작위 배정되었습니다. 연구의 주요 목적은 적절한 용량을 찾고 생존율 및 안전성을 확인하는 것이었습니다. 스폰서의 결정에 따라 2025년 12부로 zolbetuximab 췌장암 개발 프로그램은 종료될 예정입니다.",
+ "summary_ko": "이 연구는 CLDN18.2 표적 항체 치료제인 zolbetuximab(졸베투시맙)과 항암화학요법(nab-paclitaxel 및 gemcitabine)의 병용 투여 효과 및 안전성을 평가하는 2상 임상시험입니다. 이전 치료 경험이 없는 전이성 췌장암 환자 중 종양 조직에서 CLDN18.2 단백질 발현이 확인된 환자를 대상으로 합니다. 연구는 적정 용량을 확인하는 1단계와 졸베투시맙 병용군을 대조군과 비교하는 2단계 무작위 배정으로 진행됩니다. 다만, 제약사(Astellas)는 2025년 10월 최종 전체생존기간 분석 후 2025년 12월부로 췌장암 대상 졸베투시맙 개발 프로그램을 종료할 예정입니다.",
  "summary_source": "llm",
  "tags": [
   "metastatic pancreatic cancer",
@@ -63,7 +63,7 @@
   "CLDN 18.2"
  ],
  "title": "A Study of Zolbetuximab (IMAB362) in Adults With Pancreatic Cancer",
- "title_ko": "전이성 췌장암 성인 환자를 대상으로 한 졸베툭시맙(Zolbetuximab) 연구",
+ "title_ko": "성인 전이성 췌장암 환자를 대상으로 한 졸베투시맙(Zolbetuximab) 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -71,7 +71,7 @@
    "Metastatic Pancreatic Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 췌장 선암(adenocarcinoma) 환자\n- 이전에 항암화학요법 치료를 받지 않은 전이성 췌장암 환자\n- 종양 조직 검사에서 CLDN18.2 발현율이 75% 이상인 환자\n- ECOG 수행능력 상태가 0 또는 1인 환자\n- RECIST 1.1 기준에 따라 적어도 1개의 측정 가능한 전이 병변이 있는 환자\n\n제외 기준:\n- 28일 이내에 다른 임상시험 치료를 받은 환자\n- 무작위 배정 14일 이내에 방사선 치료를 받았거나 독성에서 회복되지 않은 환자\n- 전신 면역억제 치료를 받은 역사가 있는 환자\n- zolbetuximab 또는 단클론항체 성분에 중증 알레르기 반응이 있는 환자\n- 간질성 폐렴 또는 폐섬유증 병력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n• 병리학적으로 확진된 전이성 췌장선암 환자\n• 전이성 질환에 대해 이전 전신 항암화학요법 치료 경험이 없는 환자 (수술 후 보조항암요법 완료 6개월 이후 재발한 경우는 참여 가능)\n• 중앙 검사(IHC)에서 암세포의 75% 이상에 CLDN18.2 발현이 확인된 환자\n• RECIST 1.1 기준 1개 이상의 측정 가능한 전이성 병변이 있는 환자\n• ECOG 수행능력 평가 점수가 0점 또는 1점인 환자\n• 예상 수명이 12주 이상인 환자\n\n제외 기준:\n• 췌장암의 중추신경계(뇌) 전이 병력이 있는 환자\n• 무작위 배정 전 14일 이내 전신 면역억제제 또는 스테로이드 치료를 받은 환자\n• 무작위 배정 전 14일 이내 전이성 췌장암에 대한 방사선 치료를 받고 부작용이 회복되지 않은 환자\n• 최근 6개월 이내 심근경색, 울혈성 심부전, 불안정 형통 등 중증 심혈관 질환 병력이 있는 환자\n• 최근 3개월 이내 전신 치료가 필요했던 활동성 자가면역 질환 또는 활동성 감염이 있는 환자\n• 3등급(Grade 3) 이상의 흉수 또는 복수가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* A female subject is eligible to participate if she is not pregnant or lactating and at least 1 of the following conditions applies:\n\n  * Not a woman of childbearing potential (WOCBP) OR\n  * WOCBP who agrees to follow the contraceptive guidance throughout the treatment period and for at least 6 months after the final study drug administration.\n* Female subject must agree not to breastfeed starting at screening and throughout the study period, and for 6 months after the final study drug administration.\n* Female subject must not donate ova starting at screening and throughout the study period, and for 6 months after the final study drug administration.\n* A male subject with female partner(s) of child-bearing potential must agree to use contraception during the treatment period and for at least 6 months after the final study drug administration.\n* A male subject must not donate sperm during the treatment period and for at least 6 months after the final study drug administration.\n* Male subject with a pregnant or breastfeeding partner(s) must agree to remain abstinent or use a condom for the duration of the pregnancy or time partner is breastfeeding throughout the study period and for 6 months after the final study drug administration.\n* Subject agrees not to participate in other interventional studies while receiving study drug in present study.\n* Subject has histologically or cytologically confirmed adenocarcinoma of pancreas.\n* Subjects must have metastatic pancreatic adenocarcinoma that has not been previously treated with chemotherapy.\n\n  * Prior treatment with fluorouracil (5-FU) or GEM administered as a radiation sensitizer during and up to 4 weeks after radiation therapy is allowed\n  * If a subject received adjuvant therapy, tumor recurrence or disease progression must have occurred at least 6 months after completing the last dose of the adjuvant therapy.\n  * Subjects whose disease progressed on prior treatment with Nab-P and GEM are not eligible.\n* Subject has a measurable lesion(s) on at least 1 metastatic site based on RECIST 1.1 within 28 days prior to randomization. For subjects with only 1 measurable lesion and prior radiotherapy, the lesion must be outside the field of prior radiotherapy or must have documented progression following radiation therapy.\n* Subject's tumor sample has CLDN18.2 expression in ≥ 75% of tumor cells demonstrating moderate to strong membranous staining as determined by central immunohistochemistry (IHC) testing\n* Subject has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Subject has predicted life expectancy ≥ 12 weeks.\n* Subject must meet all of the following criteria based on the laboratory tests that will be collected within 14 days prior to randomization. In case of multiple laboratory data within this period, the most recent data should be used.\n\n  * Hemoglobin ≥ 9 g/dl (no transfusion within 14 days of start of study treatment)\n  * Absolute neutrophil count ≥ 1.5 x 10\\^9/L\n  * Platelets ≥ 100 x 10\\^9/L\n  * Albumin ≥ 2.5 g/dL\n  * Total bilirubin ≤ 1.5 x upper limit of normal (ULN)\n  * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN without liver metastases (≤ 5 x ULN if liver metastases are present)\n  * Estimated creatinine clearance ≥ 30 mL/min\n  * Prothrombin time/international normalized ratio (INR) and partial thromboplastin time ≤ 1.5 x ULN (except for subjects receiving anticoagulation therapy)\n\nExclusion Criteria:\n\n* Subject has received other investigational treatment within 28 days prior to randomization.\n* Subject has received radiotherapy for metastatic pancreatic adenocarcinoma ≤ 14 days prior to randomization and has not recovered from any related toxicity.\n* Subject has received systemic immunosuppressive therapy, including systemic corticosteroids within 14 days prior to randomization. Subject using a physiologic replacement dose of hydrocortisone or its equivalent (defined as up to 30 mg per day of hydrocortisone or up to 10 mg per day of prednisone), receiving a single dose of systemic corticosteroids or receiving systemic corticosteroids as premedication for radiologic imaging contrast use are allowed.\n* Subject has prior severe allergic reaction or intolerance to known ingredients of zolbetuximab or other monoclonal antibody, including humanized or chimeric antibodies.\n* Subject has known immediate or delayed hypersensitivity, intolerance or contraindication to any component of study treatment.\n* Subject has a known history of a positive test for human immunodeficiency virus infection or known active hepatitis B (positive HBs antigen \\[Ag\\]) or hepatitis C infection. NOTE: Screening for these infections should be conducted per local requirements.\n\n  1. For subjects who are negative for HBs Ag, but hepatitis B core antibody positive, a hepatitis B virus DNA test will be performed and if positive, the subject will be excluded.\n  2. Subjects with positive hepatitis C serology but negative hepatitis C virus RNA test results are eligible.\n  3. Subjects treated for hepatitis C with undetectable viral load results are eligible.\n* Subject has a history of interstitial pneumonia or pulmonary fibrosis.\n* Subject has pleural effusion or ascites ≥ Grade 3.\n* Subject has an active autoimmune disease that has required systemic treatment in the past 3 months prior to randomization.\n* Subject has active infection requiring systemic therapy that has not completely resolved per investigator judgment within 7 days prior to randomization.\n* Subject has significant cardiovascular disease, including:\n\n  * Congestive heart failure (defined as New York Heart Association Class III or IV), myocardial infarction, unstable angina, coronary angioplasty, coronary stenting, coronary artery bypass graft, cerebrovascular accident or hypertensive crisis within 6 months prior to randomization;\n  * History of clinically significant ventricular arrhythmias (i.e., sustained ventricular tachycardia, ventricular fibrillation or Torsades de Pointes);\n  * QTc interval \\> 450 msec for male subjects; QTc interval \\> 470 msec for female subjects;\n  * Cardiac arrhythmias requiring anti-arrhythmic medications (Subjects with rate controlled atrial fibrillation for \\> 1 month prior to randomization.)\n* Subject has a history of central nervous system metastases and/or carcinomatous meningitis from pancreatic adenocarcinoma.\n* Subject has known peripheral sensory neuropathy ≥ Grade 2 unless the absence of deep tendon reflexes is the sole neurological abnormality.\n* Subject has had a major surgical procedure ≤ 28 days prior to randomization.\n* Subject without complete recovery from a major surgical procedure ≤ 14 days prior to randomization.\n* Psychiatric illness or social situations that would preclude study compliance.\n* Subject has another malignancy for which treatment is required.\n* Subject has any concurrent disease, infection or co-morbid condition that interferes with the ability of the subject to participate in the study, which places the subject at undue risk or complicates the interpretation of data.",
   "enrollment": 393,
   "has_results": false,
@@ -165,15 +165,16 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "최근 방사선 치료 후 미회복",
-    "면역억제제 투여 필요 환자",
-    "간질성 폐렴 또는 폐섬유증 병력",
-    "조절되지 않는 심혈관 질환"
+    "췌장암의 뇌/중추신경계 전이 병력",
+    "전신 면역억제제 또는 스테로이드 치료 복용 환자",
+    "최근 6개월 이내 심근경색, 심부전 등 중증 심혈관 질환 병력",
+    "3등급 이상의 복수 또는 흉수가 있는 경우",
+    "치료가 필요한 활동성 감염 또는 자가면역 질환"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 CLDN18.2 양성 전이성 췌장암 환자",
+   "notes_ko": "이전 전신 항암 치료 경험이 없고 CLDN18.2 발현 양성인 전이성 췌장암 환자 대상 1차 치료 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

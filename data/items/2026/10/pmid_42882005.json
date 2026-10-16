@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Aldehyde dehydrogenase 2 (ALDH2) detoxifies acetaldehyde, and impaired ALDH2 activity has been implicated in carcinogenesis. The acetaldehyde breath test (ABT) enables noninvasive functional assessment of ALDH2 activity, but its association with pancreatic disease remains unclear. We examined associations between ABT-assessed ALDH2 activity and pancreatic disease outcomes. Methods: This case-control study included 287 health checkup participants, 131 patients with benign pancreatic disease, and 65 patients with pancreatic cancer. Participants underwent ABT, and the acetaldehyde-to-ethanol (A/E) ratio was calculated. The ALDH2 inactive phenotype was defined as an A/E ratio ≥ 23.3. Multinomial logistic regression used health checkup participants as the reference. Results: The median A/E ratio was higher in patients with benign pancreatic disease and pancreatic cancer than in health checkup participants (21.7 and 24.2 vs. 13.6; p < 0.001). The ALDH2 inactive phenotype was associated with benign pancreatic disease (relative risk ratio [RRR], 3.55; 95% confidence interval [CI], 1.85-6.83) and pancreatic cancer (RRR, 4.82; 95% CI, 2.13-10.88). The highest A/E ratio category was also associated with benign pancreatic disease (RRR, 8.77; 95% CI, 3.59-21.39) and pancreatic cancer (RRR, 12.79; 95% CI, 4.41-37.09). Exploratory spline analyses showed associations between higher A/E ratios and pancreatic disease outcomes without clear evidence of nonlinearity. Conclusions: A higher ABT-derived A/E ratio was associated with benign pancreatic disease and pancreatic cancer in this selected case-control study. Prospective studies are needed to determine whether functional assessment of aldehyde metabolism provides clinically useful information for pancreatic disease risk assessment. Trial registration number: UMIN Clinical Trials Registry (UMIN-CTR), UMIN000052609; registered 1 November 2023.",
+ "authors": [
+  "Kamikihara Y",
+  "Tanoue S",
+  "Oda K",
+  "Sasaki F",
+  "Yamazato Y",
+  "Shibata R",
+  "Kojima I",
+  "Morinaga Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42882005",
+ "importance": 0.72,
+ "key_points_ko": [
+  "호흡 검사를 통한 아세트알데히드/에탄올(A/E) 비율 중앙값은 건강검진군 13.6에 비해 양성 췌장 질환군 21.7, 췌장암군 24.2로 유의하게 높았습니다(p < 0.001).",
+  "ALDH2 비활성 표현형(A/E 비율 23.3 이상)을 보인 경우 췌장암 위험비(RRR)가 4.82(95% 신뢰구간 2.13-10.88)로 나타났습니다.",
+  "A/E 비율이 가장 높은 그룹에서는 정상 대조군 대비 췌장암 위험비가 12.79(95% 신뢰구간 4.41-37.09)까지 상승했습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/jcm15197543",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42882005"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882005/"
+ },
+ "summary_ko": "알데히드 탈수소효소 2(ALDH2)는 발암물질인 아세트알데히드를 분해하는 효소로, 효소 활성 저하가 암 발생과 연관된 것으로 알려져 있습니다. 본 연구는 건강검진 수검자 287명, 양성 췌장 질환 환자 131명, 췌장암 환자 65명을 대상으로 비침습적인 아세트알데히드 호흡 검사(ABT)를 시행하여 연관성을 분석했습니다. 연구 결과, ALDH2 활성이 떨어진 비활성 표현형은 정상 대조군에 비해 양성 췌장 질환 및 췌장암 발생 위험과 유의한 연관성을 보였습니다. 저자들은 알데히드 대사의 기능적 평가가 췌장 질환 위험도 평가에 유용한지 확인하기 위해 추가 전향적 연구가 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Aldehyde Dehydrogenase 2 Activity Assessed Using the Acetaldehyde Breath Test Is Associated with Benign Pancreatic Disease and Pancreatic Cancer: A Case-Control Study",
+ "title_ko": "아세트알데히드 호흡 검사로 평가한 알데히드 탈수소효소 2(ALDH2) 활성과 양성 췌장 질환 및 췌장암 간의 연관성: 환자-대조군 연구",
+ "trial": null,
+ "type": "paper"
+}

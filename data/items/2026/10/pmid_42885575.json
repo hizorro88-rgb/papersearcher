@@ -1,0 +1,64 @@
+{
+ "abstract": "Postoperative management of pancreatic ductal adenocarcinoma (PDAC) remains hindered by two closely linked challenges: the harmful effects of pancreatic fistula and the high risk of local tumor recurrence. Although leaked pancreatic fluid (PF) is generally regarded as a postoperative complication, its abundance of digestive enzymes also suggests an underexplored therapeutic opportunity. Here, we developed a localized therapeutic strategy that converts the enzyme-rich fistula microenvironment from a pathological burden into an antitumor resource. To achieve this, we nano-engineered Bacteroides thetaiotaomicron (B.t.) and integrated it with TRPV1 antagonist-loaded nanomicelles in a GelMA hydrogel, generating the platform TNPs-N@B.t. + Gel. Mechanistically, this system acts in a coordinated manner within the postoperative PDAC microenvironment. B.t. degrades tumor-associated mucins, thereby dismantling the protective barrier that shields PDAC cells from pancreatic enzymes and restoring their vulnerability to enzymatic attack. Meanwhile, PF forms an in situ digestive enzyme corona on the nanoengineered bacterial surface, which promotes deeper tumor penetration by disrupting intercellular adhesion. In parallel, delivery of the TRPV1 antagonist (TRPV1a) suppresses CGRP release, attenuates cancer-associated fibroblast (CAF) activation, and facilitates NK-cell-associated antitumor responses. In postoperative PDAC models, TNPs-N@B.t. + Gel showed durable local retention, enhanced tumor accumulation, suppressed recurrence, prolonged survival, and alleviated pain-related behaviors without evident systemic toxicity.",
+ "authors": [
+  "Ding M",
+  "Zhou B",
+  "Zhang Y",
+  "Zhang Y",
+  "Liu X",
+  "Hu Y",
+  "Du T",
+  "Kang Y"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885575",
+ "importance": 0.64,
+ "key_points_ko": [
+  "수술 후 합병증인 누출 췌액의 소화 효소를 역이용하여 잔존 종양 세포를 공격하는 나노 엔지니어링 박테리아 하이드로겔 시스템을 구축했습니다.",
+  "박테리아가 종양 보호 점액 장벽을 분해하고, 췌액 소화 효소와 결합하여 종양 침투력을 높이며, TRPV1 차단으로 면역 억제 환경을 개선했습니다.",
+  "췌관선암 수술 후 동물 모델에서 뚜렷한 전신 독성 없이 종양 재발 억제, 생존기간 연장 및 통증 완화 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1002/adma.75411",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885575"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Mater",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885575/"
+ },
+ "summary_ko": "췌관선암(PDAC) 수술 후 발생하는 췌장루(췌액 누출 합병증)와 국소 재발 위험을 해결하기 위해, 누출된 췌액 속 소화 효소를 역으로 항암 자원으로 활용하는 국소 치료 플랫폼이 개발되었습니다. 연구팀은 나노 엔지니어링된 박테리아(Bacteroides thetaiotaomicron)와 TRPV1 길항제를 탑재한 하이드로겔 플랫폼(TNPs-N@B.t. + Gel)을 설계했습니다. 이 플랫폼은 종양 보호 점액질을 분해하여 췌액 효소 공격을 가능하게 하고, 암 관련 섬유아세포 활성을 줄이며 자연살해(NK) 세포 면역 반응을 촉진합니다. 췌장암 수술 후 동물 모델에서 이 플랫폼은 전신 독성 없이 국소 재발을 억제하고 생존기간을 연장했으며 통증 완화 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Self-Fueling Nanobacteria Harnesses Leaked Pancreatic Fluid to Eradicate Residual Tumors After Surgery",
+ "title_ko": "수술 후 누출된 췌액을 활용하여 잔존 종양을 제거하는 자가 추진 나노 박테리아 시스템 개발",
+ "trial": null,
+ "type": "paper"
+}

@@ -23,11 +23,12 @@
  "id": "nct:NCT04926467",
  "importance": 0.9,
  "key_points_ko": [
-  "수술 전후 전신 항암치료에 인터루킨-1(IL-1) 억제제인 아나킨라(Anakinra)를 추가하는 단일군 2상 연구입니다.",
-  "수술 가능, 경계성 수술 가능, 또는 국소진행성 췌장암(1~3기) 환자 24명을 대상으로 진행됩니다.",
-  "췌장암으로 이전에 항암화학요법이나 방사선치료를 받은 적이 없는 환자만 참여할 수 있습니다."
+  "대상 질환은 수술 가능, 국소 진행성 또는 잠재적 수술 가능 췌장관선암(PDAC)입니다.",
+  "목표 환자 수는 24명이며 공개, 단일군, 전향적 2상 임상시험으로 진행됩니다.",
+  "치료 요법으로 수술 전후 항암화학요법과 함께 anakinra를 자가 투여합니다.",
+  "효과 및 생존 기간 수치 등의 임상 결과는 초록에 명시되지 않았습니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -50,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04926467"
  },
- "summary_ko": "수술 전 선행 항암치료 및 수술 후 보조치료가 예정된 췌관선암(PDAC) 환자를 대상으로 염증 억제제인 아나킨라(Anakinra)와 항암화학요법의 병용 효과를 평가하는 2상 임상시험입니다. 환자들은 수술 전에 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 시스플라틴(cisplatin)과 함께 아나킨라를 투여받습니다. 수술 후에는 5-플루오로우라실(5-FU), 옥살리플라틴(oxaliplatin), 이리노테칸(irinotecan) 조합과 아나킨라를 병용하게 됩니다. 아나킨라는 환자가 직접 자가 투여하는 방식으로 진행됩니다.",
+ "summary_ko": "이 연구는 췌장관선암(PDAC) 환자를 대상으로 수술 전후 항암화학요법과 인터루킨-1(IL-1) 억제제인 anakinra(아나킨라)를 병용 투여하는 2상 임상시험입니다. Baylor Scott and White Research Institute에서 진행하며 목표 환자 수는 24명입니다. 환자들은 수술 전 nab-paclitaxel(납파클탁셀), gemcitabine(젬시타빈), cisplatin(시스플라틴) 병용 요법과 수술 후 5-Fluorouracil(5-FU), oxaliplatin(옥살리플라틴), irinotecan(이리노테칸) 병용 요법을 anakinra와 함께 투여받습니다. 현재 초록 단계로 구체적인 생존기간이나 반응률 등 임상 결과 수치는 초록에 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Chemotherapy + Anakinra in Patients With Pancreatic Adenocarcinoma (PDAC)",
- "title_ko": "췌관선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법의 2상 임상시험",
+ "title_ko": "췌장관선암(PDAC) 환자 대상 항암화학요법과 아나킨라(anakinra) 병용 요법",
  "trial": {
   "conditions": [
    "Pancreatic Adenocarcinoma"
@@ -71,7 +72,7 @@
     "phone": "(214) 818-8961"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 조직학적 또는 세포학적으로 확인된 췌관선암 환자\n- 수술 가능, 잠재적 수술 가능(경계성), 또는 국소진행성 췌장암(AJCC 병기 1~3기)\n- ECOG 수행능력 점수 0~1점\n- 적절한 골수, 간, 신장 기능 보유자\n- 연구 기간 동안 피임에 동의한 남성 및 가임기 여성\n\n제외 기준:\n- 4기(전이성) 췌장암 환자 또는 췌장 섬세포종양 환자\n- 이전에 췌장암에 대한 항암화학요법 또는 방사선치료를 받은 환자\n- 아나킨라, 카나키누맙(canakinumab) 등 IL-1 억제제 치료를 받은 경험이 있는 환자\n- 장기 이식 병력이 있거나 면역억제제를 복용 중인 환자\n- 활동성 B형/C형 간염, HIV 감염 또는 전신 치료가 필요한 중증 감염 환자\n- 최근 6개월 이내 중대한 심장 질환 병력 또는 기저 말초 감각신경병증 2등급 이상인 환자",
+  "eligibility_ko": "선정 기준: 1. 18세 이상 2. 조직학적 또는 세포학적으로 확진된 췌장관선암 3. 수술 가능, 국소 진행성 또는 잠재적 수술 가능 췌장암 4. AJCC 1-3기 5. ECOG 수행능력 0~1 6. 혈중 알부민 2.0 g/dL 이상 7. 적절한 조혈 기능 (ANC 1500/mm3 이상, 혈소판 70,000 x 10^3/µl 이상, 혈색소 9 g/dL 이상) 8. 적절한 간 기능 (총 빌리루빈 2 x ULN 이하, ALT 및 AST 2.5 x ULN 이하) 9. 적절한 신장 기능 (혈중 크레아티닌 1.5 x ULN 이하 또는 크레아티닌 청소율 50 mL/min 이상) 10. 피임 동의 11. 서면 동의서 서명 12. 치료 및 추적 관찰 가능. 제외 기준: 1. 18세 미만 2. 장기 이식 병력 3. 도세포 신생물 4. 4기 췌장암 5. 활동성 감염 6. B형 또는 C형 간염 7. 임상적으로 유의한 간경변 8. HIV 양성 9. 면역억제 치료 중인 환자 10. 연구 시작 전 2주 이내 주요 수술 11. 췌장암에 대한 이전 항암화학요법 또는 방사선 치료 병력 12. 연구 약물 알레르기 13. 다른 임상시험 참여 중인 환자 14. 이전 anakinra 등 IL-1 억제제 치료 병력 15. 5년 이내 다른 악성종양 병력 16. 최근 6개월 이내 심각한 심장 질환 17. 기타 조절되지 않는 심각한 질환 18. 2등급 이상의 말초 감각 신경병증 19. 간 기능 이상 (빌리루빈 > 2 x ULN, AST/ALT > 5 x ULN) 20. 혈중 알부민 < 2.0 g/dL 21. 조혈 기능 이상 22. 임신 또는 수유부 23. 동의서 미서명",
   "eligibility_text": "Inclusion Criteria:\n\n* A patient will be eligible for inclusion in this study if he or she meets all of the following criteria:\n\n  1. 18 years of age or older\n  2. Histologically or Cytologically confirmed pancreatic ductal adenocarcinoma. Mixed subtypes of adenocarcinoma are acceptable as long as majority of cells are ductal adenocarcinoma.\n  3. Resectable, locally advanced or potentially resectable pancreatic adenocarcinoma\n  4. American Joint Committee on Cancer (AJCC) Stage I-III Pancreatic carcinoma.\n  5. Patient has Eastern Cooperative Oncology Group( ECOG ) Performance Status 0 to 1\n  6. Serum albumin ≥2.0 g/dL.\n  7. Adequate hematologic function as defined by:\n\n     1. Absolute neutrophil count (ANC) ≥1500/mm3;\n     2. Platelets ≥70,000 x 10\\^3/µl;\n     3. Hemoglobin ≥9 g/dL (in the absence of red blood transfusion).\n  8. Adequate liver function, as defined by:\n\n     1. Serum total bilirubin ≤2 x ULN mg/dL, prior to initiation of treatment.\n     2. ALT (SGPT) and AST (SGOT) ≤2.5 x upper limit of normal (ULN).\n  9. Adequate renal function, as defined by serum creatinine≤ 1.5 x ULN, or creatinine clearance ≥50 mL/min\n  10. Women of child bearing potential and men must agree to use contraception throughout the study and for one month after the last anakinra administration.\n  11. Subjects must understand and sign the informed consent form\n  12. Patients must be accessible for treatment and follow-up.\n\nExclusion Criteria:\n\n* A patient will be ineligible for inclusion in this study if he or she meets any of the following criteria:\n\n  1. \\<18 years of age\n  2. History of organ transplant.\n  3. Patients with islet cell neoplasms\n  4. Patients with stage IV pancreatic carcinoma\n  5. Active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy\n  6. Known active infection with hepatitis B or hepatitis C\n  7. Presence of clinically significant cirrhosis as determined by the investigator\n  8. Known HIV positive status.\n  9. Current, active immunosuppressive therapy such as cyclosporine, tacrolimus, etc.\n  10. Major surgery or vascular device placement within 2 weeks prior to Day 1 of treatment in study\n  11. Prior chemotherapy or radiation for pancreatic cancer\n  12. History of allergy or hypersensitivity to the study drugs\n  13. Patient is enrolled in any outside therapeutic clinical protocol or investigational trial with an investigational drug within 5 half-lives prior to Study ID assignment\n  14. Previous or current treatment with anakinra, canakinumab or any other IL-1 inhibitor\n  15. Other malignancy within five years(except cutaneous, non-melanoma malignancies or cervical carcinoma in site), unless the probability of recurrence of the prior malignancy is \\<5% as determined by the Principal Investigator based on available information.\n  16. Significant cardiac disease (uncontrolled congestive heart failure (CHF), myocardial infarction or significant ventricular arrhythmias) within the last six months.\n  17. Other severe and/or uncontrolled medical conditions (e.g: prior gastrointestinal (GI) disease or history of prior pelvic or abdominal radiation) or other conditions deemed by investigator as unsuitable for participation/enrollment\n  18. Peripheral sensory neuropathy \\> or equal to grade 2 at baseline\n  19. Abnormal liver function tests as follows:\n\n      1. Total bilirubin of \\> 2 x ULN\n      2. AST or ALT \\> 5x ULN\n  20. Serum albumin ˂ 2.0 g/dL.\n  21. Abnormal hematologic function as follows :\n\n      1. Absolute neutrophil count (ANC) ˂ 1500/mm3;\n      2. Platelets ˂ 70,000 x 10\\^3/µl;\n      3. Hemoglobin ˂ 9 g/dL (in the absence of red blood transfusion).\n  22. Pregnant or nursing women\n  23. No signed Informed consent form",
   "enrollment": 24,
   "has_results": false,
@@ -88,16 +89,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "전이성(4기) 췌장암 환자",
-    "이전에 췌장암으로 항암치료나 방사선치료를 받은 병력",
-    "장기 이식 병력 또는 면역억제제 투여 환자",
-    "최근 6개월 이내 심부전, 심근경색 등 중대한 심장 질환 병력",
-    "활동성 B형 간염, C형 간염, HIV 감염 또는 중증 감염 환자"
+    "4기(전이성) 췌장암",
+    "이전에 췌장암 항암화학요법이나 방사선 치료를 받은 경우",
+    "활동성 감염 또는 B형/C형 간염",
+    "최근 6개월 이내 심각한 심장 질환",
+    "5년 이내 다른 암 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "항암치료 병력이 없는 수술 전후 1~3기 췌장암 환자를 위한 항암화학요법 및 아나킨라 병용 시험",
+   "notes_ko": "이전 치료력이 없는 수술 가능 또는 국소 진행성 췌장암 환자를 위한 수술 전후 항암화학요법 및 anakinra 병용 임상시험입니다.",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",
@@ -110,9 +111,7 @@
    "prior_required": [],
    "setting": [
     "locally_advanced",
-    "resectable",
-    "adjuvant",
-    "neoadjuvant"
+    "resectable"
    ],
    "source": "llm"
   },

@@ -19,11 +19,12 @@
  "id": "nct:NCT07873606",
  "importance": 0.74,
  "key_points_ko": [
-  "히스토트리프시는 방사선이나 열 손상 없이 초음파 유도로 종양을 기계적으로 액화시키는 비열성 치료법입니다.",
-  "목표 환자 수는 20명이며 절제 불가능한 췌장암 환자를 대상으로 합니다.",
-  "전임상 모델에서 주요 혈관과 관을 보존하면서 안전하게 종양을 절제하고 면역세포 침투를 증가시키는 효과가 관찰되었습니다."
+  "5년 생존율이 약 12%인 췌장관선암(PDAC) 환자들을 대상으로 합니다.",
+  "열이나 전리辐射(ionizing radiation) 없는 비열적 집속초음파인 히스토트리프시(histotripsy)의 안전성과 효과를 평가합니다.",
+  "초음파 유도를 통해 주요 혈관과 관을 보존하면서 종양 조직을 안전하게 표적 치료합니다.",
+  "목표 인원은 20명이며 홍콩에서 진행됩니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07873606"
  },
- "summary_ko": "본 임상시험은 절제 불가능한 췌장암(pancreatic cancer) 환자를 대상으로 비열성 집중 초음파(non-thermal focused ultrasound) 기술인 히스토트리프시(histotripsy)의 안전성, 국소 종양 조절 및 면역학적 효과를 평가합니다. 히스토트리프시는 열 응고나 전리 방사선 없이 조절된 공동현상(cavitation)을 이용해 기계적으로 조직을 액화시키는 새로운 국소 치료법입니다. 전임상 연구에서는 주요 혈관과 관을 보존하면서 췌장 조직을 안전하게 절제하고 종양 미세환경을 변화시킬 수 있음이 확인되었습니다. 이번 연구는 20명의 환자를 목표로 진행되며 현대의 전신 치료법에 대한 반응성을 높이는 플랫폼으로 평가하고자 합니다.",
+ "summary_ko": "이 임상시험은 수술이 불가능한 췌장암(PDAC) 환자를 대상으로 비열적 집속초음파인 히스토트리프시(histotripsy)의 안전성, 국소 종양 조절, 그리고 면역학적 효과를 평가합니다. 히스토트리프시는 열이나 방사선 없이 제어된 공동화 현상을 이용하여 종양 조직을 기계적으로 액화시키는 치료법입니다. 전임상 연구에서 이 치료법은 주요 혈관과 관을 보존하면서 췌장 조직을 안전하게 제거하고 종양 미세환경을 변화시키는 것으로 나타났습니다. 이번 연구는 홍콩대학교에서 진행되며 목표 인원은 20명입니다.",
  "summary_source": "llm",
  "tags": [
   "pancreatic tumours",
@@ -56,7 +57,7 @@
   "pancreatic neoplasm"
  ],
  "title": "Histotripsy x Pancreatic Cancer",
- "title_ko": "췌장암 치료를 위한 히스토트리프시",
+ "title_ko": "췌장암 치료를 위한 히스토트리프시(Histotripsy)",
  "trial": {
   "conditions": [
    "Pancreatic Tumours"
@@ -68,7 +69,7 @@
     "phone": "+85222553025"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 성인\n- 전신 마취가 가능한 상태\n- 혈관 침범 여부와 관계없이 절제 불가능한 췌장암\n- 원격 전이 유무와 관계없이 참여 가능\n- 문맥 혈전(portal vein thrombosis)이 없는 경우\n- 초음파로 종양이 잘 보이고 타겟팅이 가능한 경우\n- 적절한 혈액, 간, 신장 기능 보유\n\n제외 기준:\n- 임상시험 참여 거부\n- 문맥 혈전이 있는 경우\n- 전신 마취를 받을 수 없는 상태\n- 기대 여명이 제한적인 불량한 전신 상태\n- 조절되지 않는 응고장애\n- 안전한 타겟팅을 방해하는 광범위한 장(bowel) 끼어듦이 있는 경우",
+  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 전신 마취 가능\n* 혈관 침범 여부와 관계없이 절제 불가능한 췌장암\n* 원격 전이 유무와 관계없음\n* 문맥 혈전증(portal vein thrombosis)이 없음\n* 초음파로 종양이 보이고 적절한 음향 창(acoustic window)으로 타겟팅 가능\n* 적절한 혈액, 간, 신장 기능\n\n제외 기준:\n* 임상시험 참여 거부\n* 문맥 혈전증(portal vein thrombosis) 있음\n* 전신 마취 부적합\n* 기대 여명이 제한적인 불량한 전신 상태\n* 조절되지 않는 응고장애\n* 안전한 타겟팅을 방해하는 광범위한 장간막 끼임(extensive bowel interposition)",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Fit for general anaesthesia\n* Unresectable pancreatic cancer with, or without vascular encasement\n* With or without distant metastasis\n* Without portal vein thrombosis\n* Good performance status:\n\n  1. Tumour visible and targetable by ultrasound with acceptable acoustic windows\n  2. Adequate hematologic, hepatic, and renal function\n\nExclusion Criteria:\n\n* Refusal to take part in clinical trial\n* Portal vein thrombosis present\n* Not fit for general anaesthesia\n* Poor general condition with limited life expectancy\n* Uncontrolled coagulopathy\n* Extensive bowel interposition preventing safe targeting, per recent porcine safety data linking mis-targeting to bowel injury",
   "enrollment": 20,
   "has_results": false,
@@ -85,14 +86,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "문맥 혈전이 있는 경우",
-    "전신 마취를 받을 수 없는 상태",
-    "기대 여명이 제한적인 불량한 전신 상태"
+    "임상시험 참여 거부",
+    "문맥 혈전증 존재",
+    "전신 마취 부적합",
+    "기대 여명이 제한적인 불량한 전신 상태",
+    "조절되지 않는 응고장애"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "전이 유무와 상관없이 혈관 침범이 있는 절제 불가능한 췌장암 환자",
+   "notes_ko": "수술이 불가능한 전이성 또는 국소진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

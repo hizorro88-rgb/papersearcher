@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누출(pancreatic fistula) 예방에 미치는 영향 비교…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (4)
 
 <a id="pmid-42854074"></a>
 #### [췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42854074/)
@@ -55,6 +55,21 @@ search:
 - AJCC 병기는 전체 생존기간 예측에서 C-index 0.70으로 PANAMA 점수의 0.64보다 더 우수한 성능을 보였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42830225/) · [DOI](https://doi.org/10.1111/ans.70999) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42830225)</small>
+
+---
+<a id="pmid-42886037"></a>
+#### [기존 Xi 플랫폼과 비교한 da Vinci SP 기반 단일공 플러스 원포트 로봇 원위부 췌장절제술의 타당성: 다기관 경험](https://pubmed.ncbi.nlm.nih.gov/42886037/)
+<small>Feasibility of Single-Site Plus One-Port Robotic Distal Pancreatectomy Using the da Vinci SP in Comparison With the Conventional Xi Platforms: A Multicenter Experience</small>
+
+`논문` `관찰연구` `수술` · 2026-10-01 · PubMed · Int J Med Robot · 중요도 0.66
+
+본 연구는 최소 침습 수술의 일환으로 da Vinci SP 플랫폼을 이용한 단일공 플러스 원포트 로봇 원위부 췌장절제술(SSRDP)의 타당성을 기존 Xi 플랫폼과 비교 평가했습니다. 2015년 2월부터 2023년 9월까지 2개 3차 병원에서 해당 수술을 받은 환자 32명(SP군 20명, Xi군 12명)의 데이터를 후향적으로 분석했습니다. 분석 결과 SP군은 기존 Xi군에 비해 수술 시간이 더 짧았으며, 출혈량, 비장 보존율, 합병증 발생률 등은 유사했습니다. 결론적으로 da Vinci SP 플랫폼을 활용한 단일공 플러스 원포트 원위부 췌장절제술은 실행 가능하며 만족스러운 수술 전후 성적을 보였습니다.
+
+- 총 32명의 환자(SP군 20명, Xi군 12명)를 후향적으로 비교 분석했습니다.
+- 수술 시간은 da Vinci SP군에서 기존 Xi군에 비해 더 짧았습니다.
+- 출혈량, 비장 보존율, 개복 전환율, 수술 후 췌장 누공(POPF) 및 전반적인 합병증 발생률은 두 군 간에 유의미한 차이 없이 비슷했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886037/) · [DOI](https://doi.org/10.1002/rcs.70245) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886037)</small>
 
 ---
 <a id="pmid-42830587"></a>

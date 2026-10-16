@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic diseases, including acute pancreatitis (AP) and chronic pancreatitis (CP), pancreatogenic diabetes mellitus (T3cDM), autoimmune pancreatitis (AIP), and pancreatic cancer (PDAC), are associated with metabolic, inflammatory, and nutritional disturbances. Increasing evidence indicates a bidirectional relationship between pancreatic diseases and the gut microbiota. On the one hand, alterations in microbial composition and function, intestinal barrier dysfunction, and bacterial translocation may contribute to their pathogenesis and progression. On the other hand, pancreatic diseases and associated changes in nutrition and treatment may affect the composition and function of the gut microbiota. This narrative review aimed to discuss the role of the gut microbiota and nutritional aspects in selected pancreatic diseases. PubMed/MEDLINE was searched up to May 2026 for English-language publications, with emphasis on studies from the previous 10 years, while earlier relevant studies were also considered. Google Scholar was used as a supplementary source. Human observational, experimental and mechanistic studies, as well as secondary literature, were considered, addressing pancreatic microbiota, intestinal permeability, bacterial translocation, nutrition, and microbiota-targeted interventions. Available evidence indicates that pancreatic diseases are associated with alterations in gut and pancreatic microbial communities, although the reported patterns vary between diseases and studies. These changes may be relevant to intestinal barrier integrity, inflammatory signaling, microbial metabolite production, and, in pancreatic cancer, the tumor microenvironment and treatment response. Nutritional management remains an important component of care, particularly in patients with exocrine pancreatic insufficiency and those at risk of malnutrition. However, the causal relationships between pancreatic diseases and microbiota alterations remain incompletely established, and evidence for microbiota-targeted interventions is limited and heterogeneous. Further clinical studies are needed to clarify these interactions and their potential diagnostic and therapeutic relevance.",
+ "authors": [
+  "Szwarc K",
+  "Witkowska J",
+  "Dobrowolska A",
+  "Zawada A"
+ ],
+ "categories": [
+  "supportive",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42884748",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌장암을 포함한 췌장 질환은 장 및 췌장의 미생물 군집 변화와 유의미한 연관성을 보입니다.",
+  "장내 미생물총의 변화는 염증 신호 전달, 장벽 유지, 그리고 췌장암 종양 미세환경 및 치료 반응에 관여할 수 있습니다.",
+  "영양실조 및 췌장 외분비 기능 부전 위험 환자에게 영양 관리는 필수적이나, 장내 미생물 표적 치료에 대한 임상적 근거는 아직 초기 단계입니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/nu18193297",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42884748"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nutrients",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42884748/"
+ },
+ "summary_ko": "이 논문은 췌장암(PDAC)을 포함한 다양한 췌장 질환과 장내 미생물총 및 영양 상태 간의 양방향 관계를 다룬 고찰(리뷰) 연구입니다. 장내 미생물 구성 변화와 장벽 기능 장애, 세균 전위는 췌장 질환의 발생과 진행에 영향을 줄 수 있으며, 반대로 질환과 영양 치료가 미생물에 영향을 미치기도 합니다. 췌장암의 경우 미생물 변화가 종양 미세환경 및 치료 반응과 연관될 가능성이 제시되었습니다. 영양 관리는 외분비 췌장 기능 부전과 영양실조 위험 환자 치료에 매우 중요한 요소이지만, 장내 미생물을 표적으로 하는 중재 치료의 근거는 아직 제한적입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gut Microbiota and Nutritional Aspects in Pancreatic Diseases: A Narrative Review",
+ "title_ko": "췌장 질환에서의 장내 미생물총과 영양학적 측면: 서술적 고찰",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,159 @@
+{
+ "abstract": "The purpose of this study is to find out whether the study drug, LY4052031, is safe, tolerable and effective in participants with advanced, or metastatic solid tumors including urothelial cancer. The study is conducted in two parts - phase Ia (dose-escalation, dose-optimization) and phase Ib (dose-expansion). The study will last up to approximately 4 years.\n\nThis is a Phase 1a/1b multicenter, open-label study in participants with advanced or metastatic solid tumor malignancies known to express Nectin 4. This study evaluates an antibody-drug conjugate that binds to the protein nectin-4, which is expressed on certain cancer cells, delivering the drug to the cancer. This study is comprised of two phases: Dose Escalation and Dose Optimization (1a), and Dose expansion (1b). Phase 1a will assess the safety, tolerability, and pharmacokinetics of LY4052031 to determine the recommended phase 2 dose (RP2D)/optimal dose. Phase 1b will evaluate efficacy and safety of LY4052031 as monotherapy or in combination with pembrolizumab at the RP2D/optimal dose in expansion cohorts based on tumor type and/or treatment history.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06465069",
+ "importance": 0.78,
+ "key_points_ko": [
+  "넥틴-4(Nectin-4) 단백질을 표적으로 암세포에 약물을 전달하는 신약 항체-약물 접합체(ADC)의 1상 시험입니다.",
+  "표준 치료를 모두 받았거나 적합한 표준 치료가 없는 진행성 또는 전이성 췌장암 환자가 코호트에 포함됩니다.",
+  "약물의 단독 투여 및 pembrolizumab(펨브롤리주맙) 면역항암제와의 병용 투여 효과와 안전성을 함께 평가합니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06465069"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-06-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eli Lilly and Company",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06465069"
+ },
+ "summary_ko": "넥틴-4(Nectin-4)를 표적하는 항체-약물 접합체(ADC) 신약 후보물질 LY4052031의 안전성과 유효성을 평가하는 임상 1a/1b상 시험입니다. 진행성 또는 전이성 췌장암을 포함한 고형암 및 요로상피암 환자를 대상으로 진행됩니다. 1a상에서는 약물의 용량을 단계적으로 증량하여 안전성, 내약성 및 권장 2상 용량을 확인합니다. 1b상에서는 단독요법 또는 pembrolizumab(펨브롤리주맙)과의 병용요법으로 치료 반응과 안전성을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Bladder Cancer",
+  "Bladder Neoplasm",
+  "Bladder Urothelial Carcinoma",
+  "Urinary Bladder Cancer",
+  "Urinary Tract Cancer",
+  "Urothelial Neoplasms",
+  "Renal Pelvis Cancer",
+  "Ureter Cancer",
+  "Nectin-4",
+  "Antibody Drug Conjugate (ADC)"
+ ],
+ "title": "A Study of LY4052031 in Participants With Advanced or Metastatic Urothelial Cancer or Other Solid Tumors",
+ "title_ko": "진행성 또는 전이성 요로상피암 및 기타 고형암 환자를 대상으로 한 LY4052031 임상 1상 시험",
+ "trial": {
+  "conditions": [
+   "Metastatic Solid Tumor",
+   "Recurrent Solid Tumor",
+   "Advanced Solid Tumor",
+   "Urinary Bladder Neoplasm",
+   "Triple Negative Breast Cancer",
+   "Non-small Cell Lung Cancer",
+   "Esophageal Cancer",
+   "Pancreatic Cancer",
+   "Ovarian Cancer",
+   "Cervical Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Prostate Cancer",
+   "Renal Pelvis Cancer",
+   "Bladder Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "LillyTrials@Lilly.com",
+    "name": "Trial questions or participation questions: 1-877-CTLILLY (1-877-285-4559) or",
+    "phone": "1-317-615-4559"
+   },
+   {
+    "email": "clinical_inquiry_hub@lilly.com",
+    "name": "Physicians interested in becoming principal investigators please contact",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 넥틴-4 발현이 알려진 진행성 또는 전이성 췌장암 등 대상 고형암 환자\n- 담당 의사의 판단에 따라 환자에게 적합한 모든 표준 항암 치료를 완료했거나 사용 가능한 표준 치료가 없는 환자 (이전 전신 치료 횟수 제한 없음)\n- ECOG 수행능력 점수 0~1점\n- 보관된 종양 조직 검체 제공 또는 스크리닝 생검이 가능한 환자\n- 코호트 확장의 경우 RECIST 1.1 기준 측정 가능한 병변 보유 환자\n\n제외 기준:\n- 조절되지 않거나 활동성인 중추신경계(뇌) 전이\n- 조절되지 않는 고칼슘혈증 또는 당뇨병\n- 각막병증, 각막염 활동성 증거 또는 각막 이식의 병력\n- 중증의 심혈관 질환 또는 최근의 혈전색전증, 임상적으로 유의한 출혈 장애\n- 폐렴 또는 간질성 폐질환의 병력\n- 과거 enfortumab vedotin(엔포투맙 베도틴) 투약 후 치료 중단이 필요했던 3등급 이상의 중증 피부 독성 병력",
+  "eligibility_text": "Inclusion Criteria:\n\n* Have one of the following solid tumor cancers:\n\n  * Cohort A1: urothelial carcinoma, triple negative breast cancer, non-small cell lung cancer, esophageal cancer, pancreatic cancer, ovarian cancer, cervical cancer (squamous cell carcinoma), head and neck squamous cell carcinoma or prostate cancer\n  * Cohort A2/B/D: urothelial carcinoma\n  * Cohort C: triple negative breast cancer, non-small cell lung cancer, ovarian cancer, cervical cancer, HNSCC (head and neck squamous cell carcinoma), esophageal cancer, pancreatic cancer, or prostate cancer\n* Prior Systemic Therapy Criteria:\n\n  * Cohort A1/C: Individual has received all standard therapies for which the participant was deemed to be an appropriate candidate by the treating investigator; OR there is no standard therapy available for the disease. There is no restriction on number of prior therapies\n  * Cohort A2/B1/B2: Individual must have received at least one prior regimen in the advanced or metastatic setting. There is no restriction on number of prior therapies.\n  * Cohort D: Treatment-naive for locally advanced or metastatic urothelial cancer.\n* Prior enfortumab vedotin specific requirements:\n\n  * Cohorts A1/A2/C/D: prior treatment with enfortumab vedotin is allowed, but not required\n  * Cohort B1: individual must be enfortumab vedotin naive in the advanced/metastatic setting\n  * Cohort B2: individual must have received enfortumab vedotin in the metastatic/advanced setting.\n* Measurability of disease\n\n  * Cohort A1: measurable or non-measurable disease as defined by Response Evaluation Criteria in Solid Tumors v1.1 (RECIST 1.1)\n  * Measurable disease is required as defined by Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1) for all Cohorts. Cohort A1 may permit non-measurable disease as defined by RECIST v1.1\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Have adequate archival tumor tissue sample available or undergo a screening biopsy if allowed per country specific regulations\n\nExclusion Criteria:\n\n* Individual with known or suspected uncontrolled CNS metastases\n* Individual with uncontrolled hypercalcemia\n* Individual with uncontrolled diabetes\n* Individual with evidence of corneal keratopathy or keratitis, and history of corneal transplant\n* Any serious unresolved toxicities from prior therapy\n* Significant cardiovascular disease\n* Recent thromboembolic event and/or clinically significant bleeding disorder\n* Prolongation of QT interval corrected for heart rate using Fridericia's formula (QTcF) ≥ 470 ms\n* History of pneumonitis/interstitial lung disease\n* History of Grade ≥3 skin toxicity associated with enfortumab vedotin that required treatment discontinuation\n* Individuals who are pregnant, breastfeeding or plan to breastfeed during study or within 30 days of last dose of study intervention",
+  "enrollment": 460,
+  "has_results": false,
+  "interventions": [
+   "LY4052031",
+   "Pembrolizumab"
+  ],
+  "last_update_posted": "2026-10-16",
+  "location_countries": [
+   "Australia",
+   "China",
+   "France",
+   "Japan",
+   "South Korea",
+   "Spain",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center",
+    "status": "RECRUITING"
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "조절되지 않는 뇌 전이",
+    "각막염, 각막병증 또는 각막 이식 병력",
+    "중대한 심혈관 질환 또는 최근의 혈전색전증",
+    "간질성 폐질환 또는 폐렴 병력",
+    "조절되지 않는 당뇨병"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "표준 치료를 완료한 후 진행한 넥틴-4(Nectin-4) 발현 진행성·전이성 췌장암 환자를 위한 표적 ADC 1상 임상시험",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 40,
+  "nct_id": "NCT06465069",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-05",
+  "sex": "ALL",
+  "sponsor": "Eli Lilly and Company",
+  "start_date": "2024-07-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

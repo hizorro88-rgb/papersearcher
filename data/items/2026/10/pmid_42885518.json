@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a lethal malignancy with limited targeted therapeutic options. Mitogen-activated protein kinase kinase kinase kinase 4 (MAP4K4) has been implicated in PDAC progression, but the development of effective MAP4K4 inhibitors requires further improvement in potency, selectivity, and mechanistic characterisation. We previously identified F389-0746 as a selective benzoxazine-based MAP4K4 inhibitor with anti-cancer activity in pancreatic cancer. Here, we used the F389-0746 scaffold to guide the selection and evaluation of benzoxazine-based analogs, followed by biochemical, structural, selectivity, and cellular characterisation of the most potent analogue. Among the identified analogs, F389-0736 showed the strongest MAP4K4 inhibitory activity, with an IC50 value of 44.0 nM, representing an approximately threefold improvement over F389-0746. Docking and structure-activity relationship analyses identified key binding interactions that support the enhanced potency of F389-0736 within the MAP4K4 binding pocket. Kinase profiling further demonstrated the selectivity of F389-0736 for MAP4K4 across the tested kinase panel. CETSA further demonstrated F389-0736-induced thermal stabilisation of MAP4K4, supporting intracellular target engagement. In pancreatic cancer cells, F389-0736 suppressed TAK1, JNK, and p38 phosphorylation and significantly reduced cell viability and proliferation, with IC50 and GI50 values of 4.41-4.65 μM and 4.03-5.12 μM, respectively. F389-0736 also inhibited clonogenic growth and induced sub-G1 accumulation with activation of apoptotic signalling. RNA sequencing identified 398 differentially expressed genes and revealed enrichment of inflammatory and stress response pathways, programmed cell death programs, oncogenic signalling perturbation, and metabolic reprogramming. These findings identify F389-0736 as a potent and selective benzoxazine-based MAP4K4 inhibitor and support its use as a chemical probe and lead scaffold for investigating MAP4K4-dependent signalling and therapeutic vulnerability in pancreatic cancer.",
+ "authors": [
+  "Wu YW",
+  "Yang CL",
+  "Fang-Chin YT",
+  "Yeh YH",
+  "Chen BJ",
+  "Sung TY",
+  "Chu JC",
+  "Lin TE"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885518",
+ "importance": 0.64,
+ "key_points_ko": [
+  "새로 최적화된 F389-0736은 MAP4K4에 대해 44.0 nM의 반수 억제 농도(IC50)를 보여 기존 물질보다 약 3배 개선된 효능과 우수한 선택성을 입증했습니다.",
+  "췌장암 세포주에서 IC50 4.41~4.65 μM 및 성장 저해 농도(GI50) 4.03~5.12 μM로 암세포의 생존과 증식을 유의하게 억제했습니다.",
+  "TAK1, JNK, p38 경로의 인산화를 억제하고 sub-G1기 세포 축적 및 세포사멸(아포토시스) 신호를 활성화했습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1080/14756366.2026.2743434",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885518"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Enzyme Inhib Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885518/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 진행에 관여하는 MAP4K4 효소를 표적하기 위해 선택적 억제제 F389-0736을 최적화하고 평가한 전임상 세포 연구입니다. F389-0736은 이전 선도 물질 대비 억제력이 약 3배 향상되었으며 MAP4K4에 대해 높은 선택성을 보였습니다. 췌장암 세포에서 이 물질은 TAK1, JNK, p38 신호전달을 억제하고 세포 증식을 줄이며 세포사멸을 유도했습니다. 연구진은 F389-0736이 췌장암 치료 표적으로서 MAP4K4를 연구하기 위한 유용한 화학적 탐침이자 신약 후보 골격이 될 수 있다고 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Optimisation and mechanistic characterization of a selective benzoxazine-based MAP4K4 inhibitor in pancreatic cancer cells",
+ "title_ko": "췌장암 세포에서 선택적 벤족사진 기반 MAP4K4 억제제의 최적화 및 작용 기전 규명",
+ "trial": null,
+ "type": "paper"
+}

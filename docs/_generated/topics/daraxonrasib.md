@@ -23,14 +23,14 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib 및 daraxonrasib 병용요법 대 gemcit…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 Zoldonrasib 및 Daraxonrasib 병용요법 대 Gemcit…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [절제된 췌장암 환자를 대상으로 daraxonrasib(다락소나십)을 평가하는 임상시험](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
 | [TNG462 병용 투여의 안전성, 내인성 및 효능을 평가하는 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (4)
 
 <a id="pmid-42836673"></a>
 #### [췌장암에서 RAS 표적 치료](https://pubmed.ncbi.nlm.nih.gov/42836673/)
@@ -60,6 +60,21 @@ search:
 - 현재 3상 임상시험 단계로 진입한 치료법들이 췌장관암(PDAC) 치료 환경을 변화시킬 것으로 기대됩니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42836735/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-25-4177) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644853/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42836735)</small>
+
+---
+<a id="pmid-42882807"></a>
+#### [이전에 치료받은 전이성 RAS 변이 췌관선암 환자에서 다락소나십(Daraxonrasib, RMC-6236)의 유효성 및 안전성: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42882807/)
+<small>Efficacy and Safety of Daraxonrasib (RMC-6236) in Previously Treated Metastatic RAS-Mutated Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-09-25 · PubMed · Cancers (Basel) · 중요도 0.66
+
+이 논문은 이전에 치료를 받은 전이성 RAS 변이 췌관선암(PDAC) 환자를 대상으로 새로운 RAS 억제제인 daraxonrasib(다락소나십, RMC-6236)의 치료 효과와 안전성을 분석한 체계적 문헌고찰 연구입니다. 총 668명이 포함된 1/2상 시험(RMC-6236-001)과 3상 무작위 배정 시험(RASolute 302) 데이터를 종합하여 분석했습니다. 3상 시험 결과 RAS G12 변이 환자에서 daraxonrasib 투여군은 기존 화학요법군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)을 두 배가량 유의하게 연장시켰습니다. 부작용은 주로 1~2등급의 피부 및 소화기 증상으로 나타났으며 기존 항암화학요법 대비 혈액학적 부작용과 치료 중단율이 낮았습니다.
+
+- 3상 임상시험(RASolute 302)에서 daraxonrasib 투여군은 기존 항암치료군 대비 중앙 전체 생존기간(13.2개월 vs 6.6개월, 위험비 0.40)과 중앙 무진행 생존기간(7.3개월 vs 3.5개월, 위험비 0.45)을 유의하게 향상시켰습니다.
+- 객관적 반응률(ORR)은 daraxonrasib 투여군이 33.2%로 기존 화학요법군(11.8%)보다 유의미하게 높았습니다(p < 0.001).
+- 부작용은 주로 가벼운 1~2등급의 피부 및 위장관 독성이었으며 통증 발생과 삶의 질 악화를 늦추는 효과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882807/) · [DOI](https://doi.org/10.3390/cancers18193112) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882807)</small>
 
 ---
 <a id="pmid-42827491"></a>

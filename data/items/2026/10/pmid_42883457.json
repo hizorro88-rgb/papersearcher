@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic diseases, particularly pancreatic ductal adenocarcinoma (PDAC), remain among the most challenging disorders to diagnose and treat owing to a series of interconnected biological barriers, including dense stromal desmoplasia, profound immunosuppression, hypoxia, therapeutic resistance, and the lack of effective early-detection strategies. Overcoming these barriers requires multifunctional platforms capable of integrating diagnosis, microenvironment regulation, and precision therapy within a single system. Metal-organic frameworks (MOFs), a class of highly tunable porous crystalline materials, have emerged as uniquely suited candidates for this purpose because of their programmable composition, structural versatility, catalytic activity, and capacity for multifunctional integration. Notably, MOFs have evolved from passive drug carriers into active regulators of disease-associated biological processes, enabling enhanced drug delivery, extracellular matrix remodeling, ferroptosis- and cuproptosis-based precision therapy, energy-triggered reactive oxygen species generation, immune microenvironment reprogramming, and imaging-guided theranostics. Beyond pancreatic cancer, emerging evidence further supports their potential applications in pancreatitis management and interventional therapeutic enhancement. In this review, we systematically summarize recent advances in the rational engineering of MOFs for pancreatic diseases, focusing on how material design strategies are leveraged to overcome key pathological barriers and improve therapeutic outcomes. We further discuss current challenges associated with biosafety, biodegradation, large-scale manufacturing, and clinical translation, while highlighting future opportunities for the development of next-generation MOF-based precision nanomedicines. By integrating advances across materials science, nanomedicine, and pancreatic disease biology, this review provides a comprehensive framework for the design and translational development of MOF-enabled diagnostic and therapeutic platforms.",
+ "authors": [
+  "Li H",
+  "Hou J",
+  "He C",
+  "Liu C",
+  "Ran B",
+  "Song X",
+  "Lin L",
+  "Bao L"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883457",
+ "importance": 0.68,
+ "key_points_ko": [
+  "금속-유기 골격체(MOF)는 구조 조절이 용이하고 촉매 활성을 가져 췌장암의 치밀한 기질과 면역억제 환경 극복에 유용한 플랫폼입니다.",
+  "MOF는 효율적인 약물 전달뿐만 아니라 철사멸(ferroptosis)·구리사멸(cuproptosis) 유도, 활성산소종 생성, 영상 유도 치료(테라노스틱스) 등에 응용될 수 있습니다.",
+  "실제 임상 적용을 위해서는 생체 안전성, 생체 분해성, 대규모 제조 공정 확립 등의 기술적 한계 극복이 필요합니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/biology15191783",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883457"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biology (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883457/"
+ },
+ "summary_ko": "췌관선암(PDAC)을 포함한 췌장 질환은 치밀한 기질 형성, 면역억제, 저산소증 및 치료 저항성과 같은 복합적인 생물학적 장벽으로 인해 치료가 어렵습니다. 본 종설 논문은 다공성 결정 재료인 금속-유기 골격체(MOF)를 활용하여 이러한 병리학적 장벽을 극복하는 최신 연구 동향을 정리했습니다. MOF는 단순한 약물 전달체를 넘어 세포외기질 리모델링, 면역 미세환경 재프로그래밍, 정밀 치료 및 영상 진단 융합 등 다양한 기능을 수행할 수 있는 플랫폼으로 발전하고 있습니다. 연구진은 생체 안전성, 생분해성, 대량 생산 및 임상 적용을 위한 도전 과제와 차세대 나노의약품의 개발 전망도 함께 논의했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Rewiring Biological Barriers in Pancreatic Diseases with Metal-Organic Frameworks",
+ "title_ko": "금속-유기 골격체(MOF)를 활용한 췌장 질환의 생물학적 장벽 극복 및 재구성",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,55 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  <bold>Background.</bold>  KRAS-mutant cancers upregulate FSP1 (AIFM2) through NRF2 and MAPK activation, conferring ferroptosis resistance parallel to ACSL4. Both enzymes connect to the ferro-aging senescence programme in wild-type tissue. Whether KRAS mutation disrupts their senescence co-regulatory connections, and whether the pattern holds across cancer types and codon variants, has not been examined.  <bold>Methods.</bold>  Spearman co-expression correlations between FSP1 or ACSL4 and seven senescence genes were computed in KRAS codon-stratified TCGA-COAD (n = 397; WT n = 337, G12D n = 53, G12V n = 38, G13D n = 30) and TCGA-PAAD (n = 151; WT n = 66, G12D n = 39, G12V n = 26, G12R n = 20). BH-FDR correction was applied within each variant group. The Orphan State Score (OSS) was defined as mean expression / (FDR-significant senescence edges + 0.5).  <bold>Results.</bold>  In TCGA-COAD, both FSP1 and ACSL4 lose all FDR-significant senescence co-expression in every KRAS-mutant group (OSS ˜1.1–1.3 in WT vs ˜9.2–9.6 in mutant groups). The decoupling is convergent: both enzymes lose senescence co-regulation simultaneously. In TCGA-PAAD, the pattern diverges by codon. FSP1 decouples in G12D (OSS 8.35, 0 edges) while ACSL4 retains three senescence edges (OSS 1.47). G12V and G12R show the inverse: ACSL4 decouples while FSP1 retains partial or full senescence co-expression. The FSP1–KEAP1 ferroptosis co-expression edge is preserved in WT, G12D and G12V in both cohorts.  <bold>Conclusions.</bold>  KRAS mutation disrupts FSP1 and ACSL4 senescence co-expression in both CRC and PAAD, but the enzyme specificity and codon selectivity differ by cancer type. CRC shows convergent dual escape; PAAD shows codon-matched enzyme-selective escape. PAAD G12D may represent a selective FSP1 inhibition opportunity, consistent with published organoid data. All findings are correlational and require functional validation.  </p>",
+ "authors": [
+  "Ekmekci CG."
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11345491/v1",
+ "importance": 0.46,
+ "key_points_ko": [
+  "TCGA 췌관선암 코호트(151명)에서 KRAS G12D 변이는 FSP1의 노화 공발현이 완전히 분리(고립 상태 점수 OSS 8.35, 유의미한 연결 0개)된 반면 ACSL4는 노화 유전자와의 연결을 3개 유지(OSS 1.47)했습니다.",
+  "반대로 KRAS G12V 및 G12R 변이 췌관선암에서는 ACSL4가 분리되고 FSP1은 노화 조절 연결을 유지하는 상반된 선택성을 보였습니다.",
+  "대장암에서는 모든 KRAS 변이군에서 FSP1과 ACSL4가 동시에 노화 연결을 상실(OSS 변이군 약 9.2~9.6 vs 야생형 약 1.1~1.3)하는 수렴적 양상을 나타냈습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11345491/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1340912"
+ },
+ "summary_ko": "KRAS 변이 암에서 페롭토시스(ferroptosis, 철 의존성 세포사멸) 저항성에 관여하는 FSP1과 ACSL4가 세포 노화 유전자들과 맺는 연결을 분석한 생물정보학 기초 연구입니다. TCGA 대장암 환자 397명과 췌관선암 환자 151명의 유전자 발현 데이터를 KRAS 변이 코돈별로 나누어 분석했습니다. 분석 결과 대장암에서는 변이 유형과 상관없이 두 효소 모두 노화 유전자와의 연결이 동시에 소실되는 반면, 췌관선암에서는 변이 유형(코돈)에 따라 특정 효소만 선택적으로 분리되는 현상이 확인되었습니다. 특히 KRAS G12D 변이 췌장암에서는 FSP1이 선택적으로 분리되어 향후 FSP1 억제 치료의 표적이 될 가능성을 시사했으나 기능 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Codon-Specific Divergence of FSP1 and ACSL4 Senescence Co-expression Decoupling in KRAS-Driven Cancers: Convergent Dual Escape in Colorectal Cancer, Enzyme-Selective Escape in Pancreatic Adenocarcinoma",
+ "title_ko": "KRAS 변이 암에서 FSP1과 ACSL4 노화 공발현 분리의 코돈별 차이: 대장암의 수렴적 이중 탈출과 췌관선암의 효소 선택적 탈출",
+ "trial": null,
+ "type": "preprint"
+}

@@ -1,0 +1,64 @@
+{
+ "abstract": "Introduction: Pancreatic ductal adenocarcinoma (PDAC) is associated with a poor prognosis, and RAS gene mutations are present in more than 90% of cases. For this reason, direct RAS inhibition is a promising, but thus far difficult to achieve, therapeutic strategy. Daraxonrasib (RMC-6236) is a first-in-class, oral, non-covalent, multiselective inhibitor of the active form of RAS. It forms an intracellular trimeric complex with cyclophilin A, blocking both mutant and wild-type variants of the KRAS, NRAS, and HRAS genes. The aim of this systematic review was to evaluate the efficacy and safety of daraxonrasib in previously treated patients with RAS-mutated PDAC. Methods: This review was conducted in accordance with the PRISMA 2020 guidelines. A systematic search was conducted in PubMed, Web of Science, and ClinicalTrials.gov for studies published between January 2020 and July 2026. Two studies met the inclusion criteria and were analyzed: the Phase 1-2 RMC-6236-001 (n = 168) and the Phase 3 RASolute 302 trial (n = 500), involving a total of 668 patients. The risk of bias was assessed using the Cochrane RoB 2.0 tool for the randomized trial and the Methodological Index for Non-Randomized Studies (MINORS) tool. Results: In the RASolute 302 trial, daraxonrasib out performed investigator-selected chemotherapy in a population of patients with the RAS G12 mutation, improving median overall survival (13.2 vs. 6.6 months; HR 0.40), progression-free survival (7.3 vs. 3.5 months; HR 0.45), and objective response rate (33.2% vs. 11.8%; all p < 0.001), and also delayed the onset of pain and deterioration in quality of life. These results were consistent with the earlier RMC-6236-001 study (objective response rate [ORR] 35%, median overall survival [OS] 13.1 months in patients with RAS G12 mutation treated in the second-line setting). Daraxonrasib exhibited a predictable toxicity profile, consisting mainly of Grade 1-2 dermatologic and gastrointestinal symptoms, with lower rates of hematologic toxicity and treatment discontinuation than with chemotherapy. Conclusions: Daraxonrasib demonstrates clinically relevant and statistically significant efficacy with an acceptable safety profile in previously treated patients with metastatic RAS G12-mutated PDAC, the population for which the strongest randomized evidence is currently available. These findings support its potential as a promising new treatment option in this setting. Further studies are needed regarding rare RAS gene variants and forms of the disease with wild-type RAS.",
+ "authors": [
+  "Gierulska N",
+  "Jankowska N",
+  "Dąbrowska Z",
+  "Piekarz J",
+  "Skórzewska M"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "supportive",
+  "industry"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42882807",
+ "importance": 0.66,
+ "key_points_ko": [
+  "3상 임상시험(RASolute 302)에서 daraxonrasib 투여군은 기존 항암치료군 대비 중앙 전체 생존기간(13.2개월 vs 6.6개월, 위험비 0.40)과 중앙 무진행 생존기간(7.3개월 vs 3.5개월, 위험비 0.45)을 유의하게 향상시켰습니다.",
+  "객관적 반응률(ORR)은 daraxonrasib 투여군이 33.2%로 기존 화학요법군(11.8%)보다 유의미하게 높았습니다(p < 0.001).",
+  "부작용은 주로 가벼운 1~2등급의 피부 및 위장관 독성이었으며 통증 발생과 삶의 질 악화를 늦추는 효과를 보였습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/cancers18193112",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42882807"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-25",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882807/"
+ },
+ "summary_ko": "이 논문은 이전에 치료를 받은 전이성 RAS 변이 췌관선암(PDAC) 환자를 대상으로 새로운 RAS 억제제인 daraxonrasib(다락소나십, RMC-6236)의 치료 효과와 안전성을 분석한 체계적 문헌고찰 연구입니다. 총 668명이 포함된 1/2상 시험(RMC-6236-001)과 3상 무작위 배정 시험(RASolute 302) 데이터를 종합하여 분석했습니다. 3상 시험 결과 RAS G12 변이 환자에서 daraxonrasib 투여군은 기존 화학요법군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)을 두 배가량 유의하게 연장시켰습니다. 부작용은 주로 1~2등급의 피부 및 소화기 증상으로 나타났으며 기존 항암화학요법 대비 혈액학적 부작용과 치료 중단율이 낮았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Efficacy and Safety of Daraxonrasib (RMC-6236) in Previously Treated Metastatic RAS-Mutated Pancreatic Ductal Adenocarcinoma: A Systematic Review",
+ "title_ko": "이전에 치료받은 전이성 RAS 변이 췌관선암 환자에서 다락소나십(Daraxonrasib, RMC-6236)의 유효성 및 안전성: 체계적 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

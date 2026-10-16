@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: This study investigated relationships between the skeletal muscle index (SMI) and the tumor immune microenvironment (TIME), peripheral immune phenotypes, and serum biomarkers in advanced pancreatic ductal adenocarcinoma (PDAC) and evaluated the prognostic significance of these parameters.\nMETHODS: A retrospective analysis of 119 advanced PDAC patients was performed. Sarcopenia was diagnosed using sex-specific SMI cut-offs from baseline L3-level computed tomography (CT) images. The TIME was characterized by multiplex immunofluorescence (mIF; n = 31), peripheral immunity by flow cytometry, and serum biomarkers by routine testing. Associations with SMI were examined using Spearman correlation; prognostic relevance was assessed using Cox proportional hazards models.\nRESULTS: Sarcopenia (56/119, 47.1%) was associated with shorter progression-free survival (PFS) (8.83 vs. 12.03 months, p = 0.016) and overall survival (OS) (10.20 vs. 17.33 months, p = 0.014). SMI correlated most strongly with stromal CD8+ T cells (ρ = 0.52), stromal total T cells (ρ = 0.52), and stromal M2 macrophages (ρ = 0.50) in the TIME; with circulating Th2-like cells (ρ = -0.58) and CD4+ memory T cells (ρ = 0.45) peripherally; and with hemoglobin (ρ = 0.32) among serum markers. In multivariable Cox regression, stromal CD4+ Treg percentage independently predicted OS (hazard ratio [HR] = 7.60, 95% confidence interval [CI] 1.60-36.22, p = 0.011), stromal CD56dim natural killer (NK)-cell density predicted PFS (HR = 1.015, 95% CI 1.001-1.028, p = 0.031), and the lymphocyte-to-monocyte ratio (LMR) predicted both PFS (HR = 0.86, p = 0.023) and OS (HR = 0.83, p = 0.009). No peripheral lymphocyte subset reached prognostic significance.\nCONCLUSION: SMI is broadly associated with local and systemic immune phenotypes in advanced PDAC. Stromal CD4+ regulatory T cells (Tregs), CD56dim NK cells, and LMR carry independent prognostic information and may complement body-composition assessment.",
+ "authors": [
+  "Ma Y",
+  "Jia R",
+  "Fan M",
+  "Deng G",
+  "Liu T",
+  "Wang Y",
+  "Li Y",
+  "Zhang N"
+ ],
+ "categories": [
+  "supportive",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885341",
+ "importance": 0.7,
+ "key_points_ko": [
+  "근감소증 환자군(47.1%)의 무진행 생존기간(PFS)은 8.83개월로 비근감소증 환자군의 12.03개월보다 짧았고, 전체 생존기간(OS)도 10.20개월 대 17.33개월로 유의하게 짧았습니다.",
+  "골격근 지수는 종양 미세환경 내 기질 CD8+ T세포(상관계수 0.52), 기질 총 T세포(0.52), 기질 M2 대식세포(0.50) 등과 유의미한 양의 상관관계를 나타냈습니다.",
+  "다변량 회귀분석 결과 기질 CD4+ 조절 T세포 비율은 전체 생존기간의 독립적 위험 인자였으며(위험비 7.60, p=0.011), 림프구 대 단핵구 비율(LMR)은 무진행 생존기간(위험비 0.86)과 전체 생존기간(위험비 0.83) 모두에 유리한 예후 인자였습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1002/cam4.72378",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885341"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885341/"
+ },
+ "summary_ko": "진행성 췌관선암(PDAC) 환자 119명을 대상으로 치료 시작 전 골격근 지수(SMI)와 종양 면역 미세환경, 말초 면역 표현형, 혈청 생체표지자의 연관성 및 예후를 후향적으로 분석했습니다. 전체 환자의 47.1%에서 근감소증(sarcopenia)이 확인되었으며, 근감소증이 있는 환자는 그렇지 않은 환자에 비해 유의하게 짧은 생존기간을 보였습니다. 분석 결과 골격근 지수는 종양 내 기질 T세포 및 말초 면역세포와 유의한 상관관계를 보였습니다. 다변량 분석에서 종양 기질 내 CD4+ 조절 T세포 비율, CD56dim 자연살해(NK) 세포 밀도, 림프구 대 단핵구 비율(LMR)이 독립적인 예후 인자로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Skeletal Muscle Index, Tumor and Systemic Immunity, and Survival in Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "진행성 췌관선암에서 골격근 지수, 종양 및 전신 면역, 그리고 생존율 간의 연관성",
+ "trial": null,
+ "type": "paper"
+}

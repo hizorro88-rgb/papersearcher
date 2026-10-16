@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is the predominant histological form of pancreatic cancer and remains one of the most aggressive and therapeutically challenging malignancies [...].",
+ "authors": [
+  "Vilardo C",
+  "Di Domenico A",
+  "Delle Cave D"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883977",
+ "importance": 0.61,
+ "key_points_ko": [
+  "췌관선암(PDAC)은 췌장암의 가장 대표적인 조직형으로 치료가 매우 까다로운 악성 종양입니다.",
+  "췌장암의 분자 수준 기전 규명 및 이를 표적으로 하는 새로운 치료법 관련 연구들을 종합하여 소개합니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198735",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883977"
+ },
+ "pub_types": [
+  "Editorial",
+  "Introductory Journal Article"
+ ],
+ "published_at": "2026-09-30",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883977/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 분자 생물학적 기전과 치료법 개발을 다루는 학술지 특별호의 소개글입니다. 췌관선암은 췌장암의 주된 조직학적 형태이며, 매우 공격적이고 치료가 어려운 악성 종양으로 남아 있습니다. 본 특별호에서는 췌장암의 발생 기전과 이에 대응하기 위한 최신 치료 전략 연구들을 모아 다룹니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Special Issue \"Molecular Mechanisms and Therapies of Pancreatic Cancer: 2nd Edition\"",
+ "title_ko": "특별호 \"췌장암의 분자적 기전 및 치료법: 제2판\"",
+ "trial": null,
+ "type": "paper"
+}

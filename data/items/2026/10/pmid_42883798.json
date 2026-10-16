@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal malignancies, and approximately 15% of cases arise from intraductal papillary mucinous neoplasms (IPMNs). These precursor lesions can progress to invasive cancer through the accumulation of molecular alterations. To identify pathways associated with this transition, we performed comparative transcriptomic analyses of patient-derived IPMN and PDAC samples, followed by protein-level validation in tissue specimens and pancreatic cancer cell lines. Functional studies were conducted using the selective p38α inhibitor ralimetinib in two-dimensional cultures, three-dimensional tumorspheres, and patient-derived tumor organoids (PDTOs). Transcriptomic profiling revealed significant downregulation of the p38 pathway in IPMNs compared with PDAC, suggesting progressive pathway activation during pancreatic tumorigenesis. Immunohistochemical analyses confirmed increased phospho-activated p38α in PDAC tissues, particularly in lesions with advanced malignant features, while PDAC cell lines displayed higher levels of activated p38α than non-tumorigenic pancreatic epithelial cells. Pharmacological inhibition of p38α suppressed downstream MAPKAPK2 phosphorylation, induced apoptotic cell death, and reduced tumorsphere growth and viability. Consistently, PDTOs exhibiting elevated p38α activation showed increased sensitivity to ralimetinib treatment. Collectively, these findings identify p38α signaling as a pathway activated during PDAC progression and support further investigation of p38α-targeted therapies as a potential precision medicine strategy for pancreatic cancer.",
+ "authors": [
+  "Grassi I",
+  "Di Nicola E",
+  "Candela E",
+  "Cavalcanti E",
+  "Valentini A",
+  "Vincenti L",
+  "Santoiemma C",
+  "Grossi V"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883798",
+ "importance": 0.59,
+ "key_points_ko": [
+  "전구 병변(IPMN)에 비해 침습성 췌관선암종(PDAC) 조직에서 활성화된 인산화 p38α 수치가 유의하게 증가했습니다.",
+  "선택적 p38α 억제제인 ralimetinib은 하위 신호전달(MAPKAPK2)을 억제하고 암세포의 사멸을 유도했습니다.",
+  "p38α 활성화가 높은 환자 유래 오가노이드(PDTO) 모델에서 ralimetinib 치료에 대한 반응성이 높게 나타났습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198550",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883798"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883798/"
+ },
+ "summary_ko": "췌관선암종(PDAC)은 전구 병변인 췌관내 유두상 점액종양(IPMN)에서 침습성 암으로 진행되기도 합니다. 연구진은 전사체 분석 및 조직 검사를 통해 암 진행 과정에서 p38α 신호전달 경로가 점진적으로 활성화됨을 확인했습니다. 선택적 p38α 억제제인 ralimetinib(랄리메티닙)을 사용한 실험 결과, 암세포의 세포자멸사가 유도되고 환자 유래 오가노이드의 성장이 억제되었습니다. 이 결과는 p38α 표적 치료가 췌장암의 잠재적인 정밀 의학 전략이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "p38α Signaling Is Associated with Pancreatic Ductal Adenocarcinoma Progression and Represents a Potential Therapeutic Vulnerability",
+ "title_ko": "p38α 신호전달은 췌관선암종의 진행과 연관되어 있으며 잠재적인 치료 표적이 될 수 있습니다",
+ "trial": null,
+ "type": "paper"
+}

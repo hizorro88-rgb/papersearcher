@@ -21,10 +21,10 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [국소 진행성 췌장암 환자를 위한 체부 정위 방사선 치료(SBRT) 후 이필리무맙 N01, 신틸리맙, 납-파클리탁셀 및 젬시타…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [절제 불가능한 국소 진행성 또는 소전이성 췌장암 치료에서 Nimotuzumab과 화학방사선요법 병용](../trials/NCT07386704.md) | 2상 | 초대 모집 | - |
-| [국소진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용 요법](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
+| [국소 진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용 임상시험](../trials/NCT07173387.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 정위체부방사선치료(SBRT)와 병용하는 XER-001(비강-십이지장 투여 아미포스틴)의 안전성…](../trials/NCT07157033.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장선암에서 정위체부방사선치료와 FAK 및 RAF/MEK 억제제 병용 임상시험](../trials/NCT07126158.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
@@ -38,8 +38,24 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
+<a id="pmid-42886001"></a>
+#### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
+<small>Radiotherapy combined with serplulimab, and chemotherapy as first-line treatment for metastatic pancreatic adenocarcinoma: a multicenter, single-arm, phase II trial</small>
+
+`논문` `2상` `신약·치료제` `치료 전반` `임상시험` · 2026-10-16 · PubMed · Clin Cancer Res · 중요도 0.86
+
+이 연구는 전이성 췌관선암(mPDAC) 환자의 1차 치료로서 면역관문억제제 serplulimab(서플루리맙), gemcitabine(젬시타빈) 및 nab-paclitaxel(나브파클리탁셀), 그리고 정위체부방사선치료(SBRT)를 함께 병용하는 2상 임상시험입니다. 총 46명의 환자가 치료를 받았으며, 6개월 무진행 생존율 78.3%를 기록하여 사전 목표였던 60%를 달성했습니다. 중앙 무진행 생존기간(PFS)은 8.5개월, 중앙 전체 생존기간(OS)은 14.0개월로 양호한 치료 효과를 보였습니다. 치료 관련 사망이나 예상치 못한 이상반응은 관찰되지 않아 내약성이 확인되었습니다.
+
+- 6개월 무진행 생존율은 78.3%(95% CI, 67.2%-91.1%)로 목표치인 60%를 초과 달성했습니다.
+- 객관적 반응률(ORR)은 73.9%(95% CI, 58.9%-85.7%)였으며, 중앙 무진행 생존기간(PFS)은 8.5개월이었습니다.
+- 중앙 전체 생존기간(OS)은 14.0개월(95% CI, 12.0개월-미도달)이었고 치료 관련 사망은 없었습니다.
+- 치료 전 순환 종양 DNA(ctDNA)가 음성인 환자에서 유의하게 더 나은 생존 결과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886001/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-26-1824) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886001)</small>
+
+---
 <a id="pmid-42832634"></a>
 #### [췌장 재방사선 치료: 타당성, 내성, 임상적 결과에 대한 다기관 후향적 분석](https://pubmed.ncbi.nlm.nih.gov/42832634/)
 <small>Pancreatic Reirradiation: A Multi-Institutional Retrospective Analysis of Feasibility, Tolerability, and Clinical Outcomes</small>

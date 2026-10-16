@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Purpose  Pancreatic cancer (PC) remains a global burden with low overall survival yet a distinct group referred to as early-onset (EOPC) remains poorly observed. This review aims to investigate survival outcomes, metastatic risk, and clinicopathologic features of EOPC compared with non-early-onset PC using meta analysis, meta regression, and individual patient data (IPD) reconstruction. Methods  Literature search was conducted on January 9, 2026, in PubMed, Scopus, and ScienceDirect. Random-effects meta-analysis conducted using risk ratios or mean differences. IPD was reconstructed under Guyot’s protocol. Results  22 articles comprising 364,319 patients were analyzed. EOPC observed in 6.1% of total PC patients. EOPC had a 25% lower hazard of death than non-EOPC (HR = 0.75, p < 0.001). EOPC was higher in males (RR 1.09, p = 0.004), with smoking history (RR 1.22, p < 0.001), but lower diabetes mellitus (RR 0.34, p = 0.001). EOPC were likely to be presented with pain (RR 1.39, p = 0.017), higher metastasis risk (RR = 1.11, p = 0.02), higher T3/T4 stage (RR 1.06, p = 0.002), and higher III/IV stage (RR 1.08, p = 0.008). Using meta regression, metastasis of EOPC was associated with smoking status (ꞵ = 3.06, p < 0.001, residual I² = 11%), but neither with each study country's SDI, tumor location, proportion of obesity, patient’s mean age, nor proportion of alcohol intake. Conclusions  EOPC was distinct to non-EOPC with 25% lower hazard of death. Early detection should target younger patients with risk factors such as active smoking to avoid advanced stages of disease.</p>",
+ "authors": [
+  "Kynaya EM",
+  "Tristan CD",
+  "Salfistra NR",
+  "Hanun J’‘",
+  "Sukmagautama C",
+  "Sunggoro AJ."
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11100651/v1",
+ "importance": 0.79,
+ "key_points_ko": [
+  "조기 발병 췌장암 환자는 일반 췌장암 환자에 비해 사망 위험이 25% 낮았습니다(위험비 0.75, p < 0.001).",
+  "진단 시점에 통증 동반(위험비 1.39), 원격 전이 위험(위험비 1.11), III/IV기 진행성 병기(위험비 1.08)일 가능성이 더 높았습니다.",
+  "조기 발병 환자군에서 남성(위험비 1.09)과 흡연력(위험비 1.22)의 비율이 높았고, 흡연은 조기 발병 췌장암의 전이 위험 증가와 유의하게 연관되었습니다(p < 0.001)."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11100651/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1340548"
+ },
+ "summary_ko": "이 연구는 젊은 나이에 진단되는 조기 발병 췌장암(EOPC) 환자의 생존율과 임상병리학적 특성을 일반 췌장암 환자와 비교 분석한 메타분석 연구입니다. 총 22개 연구에서 364,319명의 환자 데이터를 통합하여 분석했습니다. 분석 결과 전체 췌장암 환자 중 조기 발병 췌장암은 6.1%를 차지했으며, 일반 췌장암 대비 사망 위험이 25% 낮았습니다. 하지만 진단 당시 진행성 병기(III/IV기)이거나 전이가 동반된 비율은 더 높았으며, 특히 흡연 상태가 원격 전이 위험과 유의한 연관을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "10-Year Survivorship, Metastatic Risk, and Clinicopathologic Characteristics of Early- Onset Pancreatic Cancer: A Meta-Analysis and Meta-Regression",
+ "title_ko": "조기 발병 췌장암의 10년 생존율, 전이 위험 및 임상병리학적 특성: 메타분석 및 메타회귀분석",
+ "trial": null,
+ "type": "preprint"
+}

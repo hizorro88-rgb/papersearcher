@@ -1,0 +1,59 @@
+{
+ "abstract": "Following the publication of the above article, an interested reader drew the authors' attention to the fact that, for the western blots shown in Fig. 5 on p. 914, the β‑actin blots shown in the rightmost lanes for the 'BcPc3 OSIR' blots (the 'Crixotinib' and 'Af+Cr' lanes of the gel) were strikingly similar to the β‑actin blots shown in Fig. 2B (for the 'BxPc3 parental' blots), albeit with horizontal and vertical resizing of the bands concerned. Upon contacting the authors, they realized that Fig. 5 had inadvertently been assembled incorrectly (the same β‑actin cropped image was used for both samples in question after the files had erroneously being saved under the same name). The authors were able to consult their original data, and provided the Editorial Office with access to the images of the relevant full‑length original blots. The revised version of Fig. 5, now showing the correct data for the β‑actin blots for the 'BcPc3 OSIR' experiments, is shown on the next page. Note that this error did not affect the overall conclusions reported in the study. The authors are grateful to the Editor of International Journal of Oncology for allowing them this opportunity to publish a Corrigendum, and all the authors agree with its publication. Furthermore, the authors thank the interested reader for drawing this error in their paper to their attention, and apologize to the readership for any inconvenience caused. [International Journal of Oncology 48: 908‑918, 2016; DOI: 10.3892/ijo.2016.3320].",
+ "authors": [
+  "Ioannou N",
+  "Seddon AM",
+  "Dalgleish A",
+  "Mackintosh D",
+  "Solca F",
+  "Modjtahedi H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885304",
+ "importance": 0.6,
+ "key_points_ko": [
+  "논문 내 그림 5의 실험 이미지 조립 오류를 원본 데이터로 바로잡은 정정 공지입니다.",
+  "이러한 오류 수정은 논문에서 보고된 전체적인 연구 결과 및 결론에는 영향을 미치지 않습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3892/ijo.2026.5948",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885304"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885304/"
+ },
+ "summary_ko": "본 문서는 기존에 발표된 췌장암 세포 실험 연구 논문의 그림 오류를 바로잡는 정정 공지입니다. 독자의 지적으로 그림 5의 웨스턴 블롯(western blot) 내부 베타-액틴(β-actin) 이미지가 중복으로 잘못 배치된 사실이 확인되었습니다. 저자들은 원본 데이터를 확인하여 올바른 이미지로 교체 수정을 진행했습니다. 해당 오류는 연구의 전반적인 결론에는 영향을 미치지 않는다고 설명했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Corrigendum] Acquired resistance of pancreatic cancer cells to treatment with gemcitabine and HER‑inhibitors is accompanied by increased sensitivity to STAT3 inhibition",
+ "title_ko": "[정정] 젬시타빈 및 HER 억제제 치료에 대한 췌장암 세포의 획득 내성과 STAT3 억제제 감수성 증가",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic adenocarcinoma (PAAD) is a highly aggressive malignancy. This study aimed to investigate the clinical significance and biological functions of SERPINB5 in PAAD.\nMETHODS: Differentially expressed genes were screened from the TCGA-PAAD, GSE32676, and GSE101448 datasets. The candidate gene SERPINB5 was identified using LASSO Cox regression and receiver operating characteristic (ROC) curve analysis. SERPINB5 expression in PAAD cell lines was validated via in vitro experiments. The effects of silencing SERPINB5 on cellular phenotypes and epithelial-mesenchymal transition (EMT) were assessed using CCK-8, colony formation, and Transwell assays, as well as immunofluorescence and Western blotting. Co-immunoprecipitation (Co-IP) and rescue experiments were conducted to explore the relationship between SERPINB5 and FBXO32.\nRESULTS: A risk model identified seven candidate prognostic genes, including SERPINB5. Independent single-gene ROC analysis assessed its ability to discriminate PAAD tumors from normal pancreatic tissues across three transcriptomic datasets, with areas under the curve (AUC) values of 0.851, 0.966, and 0.965. Expression analysis revealed consistently high SERPINB5 levels in both PAAD tissues and cell lines. Functional studies showed that silencing SERPINB5 inhibited PAAD cell proliferation, colony formation, migration, and invasion. Mechanistic studies indicated that SERPINB5 knockdown upregulated E-cadherin expression while downregulating Vimentin and N-cadherin levels. Co-IP experiments confirmed a physical interaction between SERPINB5 and FBXO32, and SERPINB5 knockdown resulted in reduced FBXO32 expression. Furthermore, FBXO32 overexpression reversed the malignant phenotypes and EMT-related changes caused by SERPINB5 silencing.\nCONCLUSION: Our findings indicate that SERPINB5 may be a candidate diagnostic and prognostic marker for PAAD. Functionally, the SERPINB5/FBXO32 axis appears to promote PAAD progression, at least partly, through epithelial-mesenchymal transition regulation.",
+ "authors": [
+  "Jiang H",
+  "Zhang PJ",
+  "Li W",
+  "Zhang HF"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42878980",
+ "importance": 0.57,
+ "key_points_ko": [
+  "SERPINB5는 3개 전사체 데이터셋에서 췌관선암과 정상 조직을 구분하는 높은 진단 예측도(AUC 0.851, 0.966, 0.965)를 보였습니다.",
+  "세포 실험에서 SERPINB5 발현을 억제하자 암세포 증식, 이동, 침습이 유의하게 감소했습니다.",
+  "SERPINB5는 FBXO32 단백질과 결합하며 상피-중간엽 전이(EMT)를 조절하여 암 진행을 유도하는 기전이 규명되었습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1007/s11033-026-12945-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42878980"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Biol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42878980/"
+ },
+ "summary_ko": "췌관선암(PAAD)에서 SERPINB5 단백질의 임상적 유용성과 생물학적 기전을 밝힌 기초 연구입니다. 데이터 분석 결과 SERPINB5는 정상 조직과 암 조직을 높은 정확도(곡선하면적 0.851~0.966)로 구분하는 진단 및 예후 예측 후보 물질로 나타났습니다. 실험실 세포 연구에서 SERPINB5의 발현을 낮추자 암세포의 증식, 이동, 침습 및 상피-중간엽 전이(EMT) 과정이 억제되었습니다. 결론적으로 SERPINB5는 FBXO32와의 상호작용을 통해 암의 진행을 촉진하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "SERPINB5 promotes pancreatic adenocarcinoma progression through FBXO32-mediated regulation of epithelial-mesenchymal transition",
+ "title_ko": "SERPINB5가 FBXO32 매개 상피-중간엽 전이 조절을 통해 췌관선암의 진행을 촉진한다",
+ "trial": null,
+ "type": "paper"
+}

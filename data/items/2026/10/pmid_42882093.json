@@ -1,0 +1,62 @@
+{
+ "abstract": "Background/Objectives: First-line treatment selection for advanced (locally advanced or metastatic) pancreatic ductal adenocarcinoma (PDAC) is currently based on clinical characteristics rather than predictive biomarkers. While homologous recombination deficiency (HRD) is associated with increased sensitivity to platinum-based chemotherapy, established predictive biomarkers, such as pathogenic alterations in BRCA1, BRCA2, and PALB2, identify only a small subset of patients who are likely to benefit from platinum-based first-line treatment. The Genomic Instability Score (GIS) may capture broader HRD-associated genomic scarring beyond single-gene testing and support biomarker-guided platinum selection. However, the clinical utility of the GIS in PDAC remains uncertain, and no PDAC-specific GIS cutoff has yet been established. Methods: In this retrospective multicenter cohort, 127 patients with advanced PDAC underwent TruSight Oncology 500 HRD testing between 2022 and 2025. GIS was evaluable in 99 patients; 80 received first-line therapy. The primary endpoint was time to failure of the first-line strategy (TFS). An exploratory candidate GIS cutoff for platinum sensitivity was identified using maximally selected log-rank statistics, and survival was analyzed using Kaplan-Meier estimates and Cox regression. Results: In the first-line platinum cohort, an exploratory GIS threshold of 39 showed the greatest discrimination for treatment failure-free survival (TFS) within this cohort. Patients with GIS ≥ 39 had significantly longer TFS than those with GIS < 39 (9.9 vs. 5.9 months; HR 0.33, 95% CI 0.13-0.80; p = 0.015), and this association remained significant after multivariable adjustment. Among individual genes, BRCA2-mutated tumors exhibited significantly higher GIS than BRCA2-wild-type tumors (median 54 vs. 19; FDR-adjusted p = 0.002), although 30% of GIS-high tumors lacked BRCA1/2 mutations. Combined stratification by GIS and first-line treatment demonstrated a stepwise improvement in overall survival, with median OS of 8.2 months in non-platinum/GIS < 39 patients, 15.1 months in platinum/GIS < 39 patients, and 30.7 months in platinum/GIS ≥ 39 patients (p = 0.002). Conclusions: GIS may identify patients with advanced PDAC who experience favorable outcomes during first-line platinum-based chemotherapy. The observed association between higher GIS and improved treatment outcomes supports further investigation of GIS as a biomarker for treatment stratification in advanced PDAC and warrants prospective validation.",
+ "authors": [
+  "Leinhos J",
+  "Malli T",
+  "Gabler A",
+  "Nothdurfter D",
+  "Reichinger A",
+  "Burghofer J",
+  "Schwarz S",
+  "Mandl J"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42882093",
+ "importance": 0.72,
+ "key_points_ko": [
+  "백금 기반 항암치료를 받은 환자 중 유전체 불안정성 점수(GIS)가 39점 이상인 환자는 39점 미만인 환자 대비 치료 전략 실패까지의 기간(TFS)이 9.9개월 대 5.9개월로 유의하게 연장되었습니다(위험비 0.33, p=0.015).",
+  "GIS가 높은 환자의 30%는 BRCA1 또는 BRCA2 변이가 발견되지 않아, 기존 단일 유전자 검사로 놓칠 수 있는 상동재조합결핍(HRD) 특성을 GIS로 추가 선별할 수 있었습니다.",
+  "전체 생존기간(OS) 중앙값은 비백금 요법/GIS 39점 미만 환자군에서 8.2개월, 백금 요법/GIS 39점 미만 환자군에서 15.1개월, 백금 요법/GIS 39점 이상 환자군에서 30.7개월로 단계적 향상을 보였습니다(p=0.002)."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/jcm15197632",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42882093"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882093/"
+ },
+ "summary_ko": "진행성(국소진행성 또는 전이성) 췌장암 환자 127명을 대상으로 유전체 불안정성 점수(GIS)가 1차 백금 기반 항암치료 반응을 예측할 수 있는지 후향적으로 분석한 연구입니다. 분석 결과, 백금 기반 요법을 받은 환자 중 탐색적 기준점인 GIS 39점 이상인 환자는 39점 미만인 환자에 비해 1차 치료 전략 실패까지의 기간(TFS)이 유의하게 길었습니다(9.9개월 대 5.9개월). 또한 높은 GIS(39점 이상)를 가지면서 백금 기반 치료를 받은 군의 전체 생존기간(OS) 중앙값은 30.7개월로 가장 우수한 예후를 보였습니다. 단일 유전자 변이 검사를 넘어선 GIS 측정이 백금 기반 항암제 감수성 환자를 선별하는 바이오마커가 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Understanding Genomic Instability Score in Platinum-Treated Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "백금 기반 항암치료를 받은 진행성 췌장암 환자에서 유전체 불안정성 점수(GIS)의 유용성 평가",
+ "trial": null,
+ "type": "paper"
+}

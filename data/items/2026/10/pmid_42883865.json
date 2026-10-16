@@ -1,0 +1,62 @@
+{
+ "abstract": "Chronic pancreatitis (CP) is a clinically heterogeneous condition that may occur with a broad clinical spectrum, including cases of cystic fibrosis (CF), cystic fibrosis transmembrane regulator (CFTR)-related disorder (CFTR-RD), acute recurrent pancreatitis (ARP), and CP, including cases of idiopathic CP (iCP) and hereditary pancreatitis (HP). The specific contribution of CFTR variants and pancreatitis-predisposing genes (PPG), i.e., genes responsible for intrapancreatic activation of trypsinogen or pancreatic secretion pathways to CP susceptibility in these different contexts remains incompletely understood. We investigated the occurrence of CP and mutations in PPG genes in: (i) 377 subjects with CF and (ii) 217 subjects with CFTR-RD (including cases expressing with CP alone). Moreover, we studied 136 subjects with iCP. CP occurred in 33/377 subjects (8.8%) with CF carrying CFTR genotypes other than homozygous p.Phe508del and was mainly associated with pancreatic sufficiency (24/33, 72.7%) and at least one residual-function CFTR variant (25/33, 75.8%). Chronic pancreatitis also occurred in 8 CF subjects carrying both CFTR mutations classified as no residual function, and 7 of them also had PPG variants. Subjects with CFTR-RD expressing with ARP/CP alone (n = 92) are genetically indistinguishable from CFTR-RD subjects with diffuse bronchiectasis (n = 45) or congenital bilateral absence of vas deferens (n = 92). In fact, all CFTR-RD subjects had at least one residual-function CFTR variant, all had pancreatic sufficiency, and the sweat chloride was not significantly different between the three subgroups. Finally, 66/136 (48.5%) subjects with iCP harbored pathogenic variants in PPG, with 26/66 cases (i.e., 39.4%) with multiple gene mutations (consistent with a potential role of oligogenic inheritance in CP susceptibility). Idiopathic CP subjects with mutations in PPG (48.5% in our series) are known to be at higher risk to develop pancreatic adenocarcinoma. Our study revealed such mutations also in subjects with CF (with both CFTR mutations classified as no residual function and with pancreatic insufficiency) and in subjects with CFTR-RD, supporting the use of multigene testing and genetic counselling. To conclude: The early diagnosis of CF by NBS enhanced the number of CF subjects who develop ARP and/or CP, independently by the pancreatic status and by the CFTR genotype. Mutations in PGP genes further increase such risk. Thus, we suggest: (i) to test for PGP genes and counseling all cases of CF with pancreatitis; (ii) large multicenter studies to investigate why a subset of CFTR-RD appear with ARP/CP alone; and (iii) a careful investigation of familiarity and the analysis of a large panel of PPG genes to better define the profile of risk for HP in all cases of idiopathic ARP/CP.",
+ "authors": [
+  "Vincenzo C",
+  "Antonella T",
+  "Alice C",
+  "Cristina F",
+  "Marika C",
+  "Monica G",
+  "Paola I",
+  "Angela S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883865",
+ "importance": 0.72,
+ "key_points_ko": [
+  "낭포성 섬유증(CF) 환자 377명 중 8.8%(33명)에서 만성 췌장염이 발생했으며, 주로 췌장 외분비 기능이 보존된 환자(72.7%) 및 잔류 기능 CFTR 변이 보유자(75.8%)에서 나타났습니다.",
+  "특발성 만성 췌장염(iCP) 환자 136명 중 48.5%(66명)에서 췌장염 소인 유전자(PPG) 병원성 변이가 확인되었고, 이 중 39.4%(26명)는 여러 유전자 변이를 복합적으로 보유했습니다.",
+  "췌장염 소인 유전자 변이를 가진 특발성 만성 췌장염 환자는 췌장선암(pancreatic adenocarcinoma) 발생 위험이 더 높은 것으로 알려져 있습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198620",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883865"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883865/"
+ },
+ "summary_ko": "본 연구는 만성 췌장염(CP)과 낭포성 섬유증(CF), CFTR 관련 질환(CFTR-RD), 그리고 원인 불명의 특발성 만성 췌장염(iCP) 환자에서 CFTR 유전자 변이와 췌장염 소인 유전자(PPG)의 역할을 분석했습니다. 연구진은 CF 환자 377명, CFTR-RD 환자 217명, iCP 환자 136명을 대상으로 유전자 변이와 췌장염 발생 양상을 평가했습니다. 분석 결과 특발성 만성 췌장염 환자의 48.5%에서 췌관선암 발생 위험을 높이는 것으로 알려진 췌장염 소인 유전자(PPG) 병원성 변이가 확인되었습니다. 연구진은 췌장염이 발생한 CF 및 CFTR-RD 환자, 특발성 만성 췌장염 환자에서 다중 유전자 패널 검사와 유전 상담이 중요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical and Genetic Interplay Between Chronic Pancreatitis, Cystic Fibrosis and CFTR-Related Disorders",
+ "title_ko": "만성 췌장염, 낭포성 섬유증 및 CFTR 관련 질환 사이의 임상적·유전적 상호작용",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "BackgroundWhen pancreatic adenocarcinoma is found unresectable during surgery, the decision to perform palliation must balance symptom relief against recovery and subsequent cancer treatment. We compared clinical outcomes after palliative procedures and nontherapeutic exploration.Patients and MethodsWe retrospectively studied 201 patients with intraoperatively unresectable pancreatic adenocarcinoma treated from 2006 to 2023. Operative findings and procedures were described, and postoperative outcomes, systemic-therapy receipt, and survival were compared using propensity-score overlap weighting.ResultsOf 201 patients, 54 underwent palliation and 147 underwent nontherapeutic exploration. Palliation more often accompanied locally advanced disease and vascular invasion. Observed major complications occurred in 18.5% vs 4.8%, ICU admission in 20.4% vs 3.4%, and 30-day mortality in 11.1% vs 3.4%. Adjusted estimates did not exclude clinically important differences; the ICU-admission odds ratio was 4.40 (95% CI, 0.997-19.43). Systemic-therapy receipt was 46.3% vs 46.9% (weighted odds ratio, 0.78; 95% CI, 0.35-1.71). The weighted survival hazard ratio was 1.43 (95% CI, 0.99-2.07).DiscussionPatients selected for palliation experienced more postoperative complications and ICU use, without clearly greater systemic-therapy receipt. Selection differences and uncertainty in adjusted estimates prevent causal conclusions. Operative decisions should prioritize the patient's symptoms, functional status, expected survival, anatomy, and available less-invasive alternatives.",
+ "authors": [
+  "Orbach L",
+  "Levenberg G",
+  "Gosher N",
+  "Lessing Y",
+  "Lubezky N",
+  "Lahat G"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42886160",
+ "importance": 0.71,
+ "key_points_ko": [
+  "수술 중 절제 불가 환자에서 완화 수술군은 단순 탐색술군 대비 주요 합병증(18.5% 대 4.8%) 및 30일 사망률(11.1% 대 3.4%)이 더 높게 관찰되었습니다.",
+  "중환자실 입원율 역시 완화 수술군(20.4%)이 단순 탐색술군(3.4%)보다 높았습니다(보정 오즈비 4.40).",
+  "수술 후 전신 항암치료 시행률은 완화 수술군 46.3%, 단순 탐색술군 46.9%로 유사했습니다(가중 오즈비 0.78)."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1177/00031348261499335",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42886160"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886160/"
+ },
+ "summary_ko": "수술 중 절제가 불가능한 것으로 확인된 췌관선암 환자 201명을 대상으로 완화적 수술(54명)과 단순 탐색술(147명)의 임상 경과를 비교한 연구입니다. 완화적 수술을 시행한 환자군은 국소 진행성 질환과 혈관 침범이 더 흔했습니다. 완화 수술군은 단순 탐색술군에 비해 주요 합병증 발생률(18.5% 대 4.8%)과 중환자실 입원율(20.4% 대 3.4%)이 더 높았습니다. 수술 후 전신 항암화학요법을 받은 비율은 두 군 간에 차이가 없었으며(46.3% 대 46.9%), 생존 기간의 유의한 개선은 확인되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Intraoperative Management Strategies for Unresectable Pancreatic Adenocarcinoma: A Propensity-Weighted Cohort Study",
+ "title_ko": "수술 중 절제 불가능으로 판정된 췌관선암의 수술 중 치료 전략: 성향점수 가중 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

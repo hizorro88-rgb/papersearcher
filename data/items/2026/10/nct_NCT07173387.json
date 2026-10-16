@@ -22,11 +22,11 @@
  "id": "nct:NCT07173387",
  "importance": 0.9,
  "key_points_ko": [
-  "수술 불가능한 국소진행성 췌장암 환자 42명을 대상으로 합니다.",
-  "주요 평가변수는 무진행 생존기간(PFS)이며, 객관적 반응률(ORR)과 전체 생존기간(OS) 등을 함께 평가합니다.",
-  "치료는 NALIRIFOX(liposomal irinotecan 기반 항암제)와 정위체부방사선치료(SBRT)의 병용으로 진행됩니다."
+  "목표 환자 수는 총 42명이며 최소 24개월 동안 추적 관찰합니다.",
+  "1차 평가변수는 무진행 생존기간(PFS)입니다.",
+  "2차 평가변수에는 객관적 반응률(ORR), 질병 조절률(DCR), 전체 생존기간(OS) 및 안전성이 포함됩니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07173387"
  },
- "summary_ko": "이 전향적 다기관 임상시험은 수술이 불가능한 국소진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 NALIRIFOX 항암 화학요법과 정위체부방사선치료(SBRT)를 병용하여 유효성과 안전성을 평가합니다. 환자들은 NALIRIFOX 1주기 후 조기 SBRT를 받는 코호트 1 또는 6~8주기 후 후기 SBRT를 받는 코호트 2로 나뉩니다. 주요 목표는 무진행 생존기간(PFS)이며, 객관적 반응률(ORR), 질병 통제율(DCR), 전체 생존기간(OS) 및 안전성을 부수적으로 평가합니다. 총 42명의 환자가 참여하며 최소 24개월 동안 추적 관찰합니다.",
+ "summary_ko": "이 전향적 다기관 임상시험은 수술이 불가능한 국소 진행성 췌장암 환자에게 NALIRIFOX 항암화학요법과 정위체부방사선치료(SBRT)를 병용하여 유효성과 안전성을 평가합니다. 환자들은 NALIRIFOX 1주기 후 조기 SBRT를 받는 코호트 1과 6-8주기 후 후기 SBRT를 받는 코호트 2로 나뉩니다. 총 42명의 환자가 참여하며 1차 평가변수는 무진행 생존기간(PFS)입니다. 2차 평가변수로는 객관적 반응률(ORR), 질병 조절률(DCR), 전체 생존기간(OS) 및 안전성 평가가 포함됩니다.",
  "summary_source": "llm",
  "tags": [
   "NALIRIFOX",
@@ -57,7 +57,7 @@
   "SBRT"
  ],
  "title": "Stereotactic Body Radiotherapy and NALIRIFOX for Locally Advanced Pancreatic Cancer",
- "title_ko": "국소진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용 요법",
+ "title_ko": "국소 진행성 췌장암 환자를 위한 정위체부방사선치료(SBRT)와 NALIRIFOX 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -69,7 +69,7 @@
     "phone": "0531-67626442"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세에서 75세 사이의 성인 남녀\n- 조직학적 또는 세포학적으로 확진된 수술 불가능한 국소진행성 췌장암\n- 췌장암에 대한 이전 화학요법 또는 방사선 치료력이 없음\n- ECOG 수행능력 상태 0-1\n- 충분한 장기 기능 (호중구, 혈색소, 혈소판, 빌리루빈, 크레아티닌, AST/ALT 기준 충족)\n- 서면 동의서 제공 가능\n\n제외 기준:\n- 다른 악성 종양의 병력 (완치된 비흑색종 피부암 또는 5년 무병 생존을 보인 암 제외)\n- 활동성 감염 또는 연구에 방해가 될 수 있는 심각한 의학적 상태\n- 임신 또는 수유 중\n- 연구 약물에 대한 알려진 과민반응\n- 리포조말 제제에 대한 심각한 알레르기 반응력\n- 조절되지 않는 동반 질환 (심부전, 만성 콩팥병, 조절되지 않는 당뇨병 등)\n- 등록 후 30일 이내에 다른 임상시험 참여 경험",
+  "eligibility_ko": "선정 기준: - 18세에서 75세 사이의 성인 남녀 - 조직학적 또는 세포학적으로 확진된 수술 불가능한 국소 진행성 췌장암 - 췌장암에 대한 이전 항암화학요법이나 방사선치료력이 없음 - ECOG 수행능력 0-1 - 적절한 장기 기능을 보유한 환자 - 서면 동의서를 제공할 수 있는 능력. 제외 기준: - 다른 악성종양의 병력이 있는 경우(치료된 비흑색종 피부암 등은 예외) - 활동성 감염 또는 연구를 방해할 수 있는 중증 질환 - 임신 또는 수유 중 - 연구 약물에 대한 알려진 과민반응 - 조절되지 않는 동반 질환 - 등록 30일 이내에 다른 임상시험에 참여한 경우",
   "eligibility_text": "Inclusion Criteria:\n\nAdults aged 18-75 years, both male and female. Histologically or cytologically confirmed locally advanced unresectable pancreatic cancer.\n\nNo prior chemotherapy or radiatiotherapy for pancreatic cancer. ECOG performance status of 0-1.\n\nAdequate organ function as defined by the following criteria:\n\nAbsolute neutrophil count (ANC) ≥ 1,500/μL Platelet count ≥ 100,000/μL Hemoglobin ≥ 9 g/dL Total bilirubin ≤ 1.5 times the upper limit of normal (ULN) Serum creatinine ≤ 1.5 times the ULN AST/ALT ≤ 2.5 times the ULN Ability to provide written informed consent.\n\nExclusion Criteria:\n\nPrior history of other malignancies (except for curatively treated non-melanoma skin cancer or other cancers with a 5-year disease-free survival).\n\nActive infections or severe medical conditions that would interfere with the study.\n\nPregnancy or breastfeeding. Known hypersensitivity to any of the study drugs. History of severe allergic reactions to liposomal formulations. Uncontrolled comorbid conditions (e.g., heart failure, chronic kidney disease, or uncontrolled diabetes).\n\nParticipation in other clinical trials involving investigational treatments within 30 days of enrollment.",
   "enrollment": 42,
   "has_results": false,
@@ -87,15 +87,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "다른 악성 종양 병력",
-    "활동성 감염 또는 심각한 동반 질환",
+    "다른 악성종양 병력",
+    "활동성 감염 또는 중증 질환",
     "임신 또는 수유부",
-    "조절되지 않는 심장질환이나 만성 콩팥병 등"
+    "조절되지 않는 심장질환 등 동반 질환",
+    "최근 30일 이내 다른 임상시험 참여"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 국소진행성 췌장암 환자를 위한 SBRT 및 NALIRIFOX 병용 임상시험입니다.",
+   "notes_ko": "이전 치료력이 없는 수술 불가능한 국소 진행성 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",

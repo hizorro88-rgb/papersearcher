@@ -1,0 +1,67 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal solid malignancies, and reliable prognostic biomarkers are urgently needed to guide risk stratification and treatment. CD74 has been implicated in tumor progression, invasion, and pro-inflammatory signaling in various cancers. This systematic review and meta-analysis aimed to evaluate the association between CD74 expression and key clinicopathological features and survival outcomes in patients with PDAC. A systematic literature search was conducted in PubMed, Web of Science, and Scopus to identify eligible studies reporting on CD74 expression in PDAC tissues (PROSPERO: CRD420261402709). Studies were selected following the PRISMA 2020 guidelines. The methodological quality of the included studies was assessed using the QUIPS tool. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were calculated for the associations between CD74 expression and perineural invasion (PNI), lymphatic invasion, lymph node metastasis (pN), vascular permeation, pTNM stage, and overall survival. Statistical analyses were performed using Review Manager v5.4. DerSimonian-Laird random-effects models were applied as sensitivity analysis for every outcome, with Mantel-Haenszel fixed-effects models as the primary analysis according to the level of heterogeneity, which was quantified using the I2 statistic. A total of 83 records were initially identified, of which five studies met the inclusion criteria and were included in the quantitative synthesis. CD74-positive expression was significantly associated with an increased risk of perineural invasion (four cohorts, 351 patients; OR = 3.69; 95% CI: 2.27-5.99; p < 0.00001; I2 = 0%), lymphatic invasion (four cohorts, 351 patients; OR = 2.05; 95% CI: 1.21-3.46; p = 0.007; I2 = 0%), and lymph node metastasis (four cohorts, 462 patients; OR = 1.94; 95% CI: 1.27-2.96; p = 0.002; I2 = 0%). A non-significant trend toward increased vascular permeation (three cohorts, 181 patients; OR = 1.99; 95% CI: 0.84-4.68; p = 0.12; I2 = 0%) and advanced pTNM stage (three cohorts, 284 patients; OR = 1.62; 95% CI: 0.93-2.82; p = 0.09; I2 = 0%) was also observed. Importantly, CD74 positivity was significantly associated with worse overall survival (three cohorts, 293 patients; HR = 2.04, 95% CI: 1.45-2.88; p < 0.00001; I2 = 0%). This analysis was structured into two subgroups: HR = 2.21 (95% CI: 1.50-3.25) in the two cohorts contributing multivariable-adjusted, immunohistochemistry-based estimates, and HR = 1.52 (95% CI: 0.72-3.21) in the single cohort contributing a univariable estimate reconstructed from transcript-level data, with no significant difference between the subgroups (p = 0.38). Because the estimated between-study variance was zero for every outcome, random-effects estimates were almost identical to the fixed-effects estimates throughout. As the pooled survival estimate combines adjusted with unadjusted estimates, it describes a prognostic association rather than established independent prognostic value. This meta-analysis demonstrates that elevated CD74 expression in PDAC is significantly associated with perineural invasion, lymphatic invasion, lymph node metastasis, and poorer overall survival, supporting an association with an adverse prognostic. Because the evidence base comprises few retrospective cohorts that used different, non-standardized thresholds to define CD74 positivity and different definitions of several outcomes, these findings should be regarded as hypothesis-generating: they identify CD74 as a candidate for prospective validation and mechanistic investigation rather than as an established biomarker for risk stratification or therapeutic decision-making. Further large-scale prospective studies are warranted to validate these results and explore the clinical utility of CD74-targeted strategies.",
+ "authors": [
+  "Vacariu IA",
+  "Ilie SM",
+  "Vere CC",
+  "Turcu-Stiolica A",
+  "Manthopoulou E",
+  "Pahomeanu MR",
+  "Tcaciuc E",
+  "Toma SC"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42883736",
+ "importance": 0.9,
+ "key_points_ko": [
+  "CD74 양성 발현 환자는 음성 환자에 비해 신경 침윤 위험이 약 3.69배 높았습니다(4개 코호트 351명, OR=3.69, p<0.00001).",
+  "CD74 양성은 림프관 침윤(OR=2.05, p=0.007) 및 림프절 전이(4개 코호트 462명, OR=1.94, p=0.002) 위험 증가와 유의하게 연관되었습니다.",
+  "CD74 발현 양성은 전체 생존기간(OS) 단축과 유의한 관련을 보였습니다(3개 코호트 293명, 위험비 HR=2.04, 95% CI: 1.45-2.88, p<0.00001)."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/ijms27198488",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42883736"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Meta-Analysis",
+  "Review"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42883736/"
+ },
+ "summary_ko": "이 연구는 췌관선암종(PDAC) 환자 조직에서 CD74 단백질의 발현과 병리학적 특징 및 생존율 간의 연관성을 평가한 체계적 문헌고찰 및 메타분석입니다. 총 5개 연구 데이터를 종합 분석한 결과, CD74 발현 양성 환자는 신경 침윤, 림프관 침윤, 림프절 전이 위험이 유의하게 높았습니다. 또한 CD74 양성은 더 나쁜 전체 생존기간(OS)과 연관되어 있는 것으로 나타났습니다. 연구진은 포함된 연구 수가 적고 기준이 표준화되지 않아, CD74를 확립된 지표로 보기는 어렵고 향후 대규모 전향적 검증이 필요한 후보 표지자로 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prognostic and Clinicopathological Significance of CD74 Expression in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis",
+ "title_ko": "췌관선암종에서 CD74 발현의 예후 및 임상병리학적 의의: 체계적 문헌고찰 및 메타분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT06330441",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "가족력이나 유전 질환, 만성 췌장염이 있는 췌장암 고위험군 700명을 대상으로 시행하는 선별검사 연구입니다.",
+  "초음파 내시경(EUS), MRI, 혈액 검사를 활용하여 정기적으로 추적 관찰을 진행합니다.",
+  "췌장암을 조기에 발견하여 근치적 수술 절제율을 높이고 장기 생존율을 개선하고자 합니다."
+ ],
  "last_updated": "2026-10-14",
  "links": {
   "doi": null,
@@ -42,15 +46,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06330441"
  },
- "summary_ko": "Pancreatic cancer is one of the diseases with the worst prognosis, which is mainly due to the initial asymptomatic prognosis. Unfortunately, the incidence of this disease in the Czech Republic is still increasing.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장암 발병 위험이 높은 고위험군을 대상으로 췌장암을 조기에 발견하기 위한 SCREPAN 임상시험입니다. 가족력, 유전성 증후군, 만성 췌장염 등이 있는 성인 참가자 700명을 모집합니다. 정기적인 초음파 내시경(EUS), MRI, 혈액 검사를 통해 조기 진단 및 수술적 절제 가능성을 높이는 것을 목표로 합니다.",
+ "summary_source": "llm",
  "tags": [
   "pancreatic ductal adenocarcinoma",
   "screening programme",
   "high-risk population"
  ],
  "title": "Pancreatic Cancer Screening in a Population at High Risk",
- "title_ko": null,
+ "title_ko": "고위험군을 대상으로 한 췌장암 선별검사 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -69,7 +73,7 @@
     "phone": "+420543136236"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: • 연구 참여에 동의한 18세 이상 성인 • 만성 췌장염 또는 낭성 섬유증이 있는 50세 이상 • Peutz-Jeghers 증후군, FAMMM, 세습성 췌장염 유전 변이 보유자 • 린치 증후군, HBOC(BRCA1/2, PALB2, ATM 등), FAP, Li-Fraumeni 증후군 보유자 중 췌장암 가족력이 있는 경우 • 유전 증후군 없이 1차 친족 중 췌장암 가족력이 있는 경우 / 제외 기준: • 근치적 췌장 절제 수술을 받지 못하는 건강 상태인 경우 • 정기적인 영상 검사를 받을 수 없는 경우 • 치료 불가능한 악성 종양이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* willing to participate in the study\n* age 18+\n* arms specific criteria:\n\nA:\n\n* chronic pancreatic disease in the context of cystic fibrosis or chronic pancreatitis\n* age 50+\n\nB1:\n\n* confirmed Peutz-Jegherson syndrome (mutSTK11) + age over 35 years or 10 years earlier than pancreatic ductal adenocarcinoma was diagnosed in the youngest family member\n* familial melanoma syndrome (mutCDKN2A) + age over 40 years or 10 years before pancreatic ductal adenocarcinoma was diagnosed in the youngest family member\n* confirmed hereditary pancreatitis (mutPRSS1) + age over 40 years or 20 years after the first attack\n\nB2:\n\n* confirmed diagnosis of hereditary syndrome (Lynch syndrome /mutMLH1, mutMSH2, mutMSH6, mutPMS2, mutEPCAM/, HBOC /mutBRCA1, mutBRCA2, mutPALB2, mutATM/, familial adenomatous polyposis /mutAPC/, Li-Fraumeni syndrome /mutTP53/)\n* at least one relative with a diagnosis of pancreatic ductal adenocarcinoma in family anamnesis at the same time (Grade I or II relative)\n* age over 50 years, or 10 years before the pancreatic ductal adenocarcinoma was diagnosed in the youngest relative - which comes first\n\nC:\n\n* positive family anamnesis of pancreatic ductal adenocarcinoma without hereditary syndrome context\n* age 50+ or 10 years earlier than the youngest relative with pancreatic ductal adenocarcinoma - screening is recommended for all first-degree relatives of affected family members\n\nExclusion Criteria:\n\n* Inability to undergo radical curative surgery for a pancreatic tumor.\n* Inability to undergo scheduled imaging examinations.\n* Incurable malignant cancer.",
   "enrollment": 700,
   "has_results": false,
@@ -87,11 +91,15 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "근치적 췌장 수술을 받을 수 없는 상태",
+    "정기적인 영상 검사 진행이 불가능한 경우",
+    "치료 불가능한 악성 종양 보유"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "췌장암 가족력, 유전성 증후군, 만성 췌장염 등이 있는 고위험군 대상 조기 진단 선별검사 연구입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
@@ -99,7 +107,7 @@
     "locally_advanced",
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

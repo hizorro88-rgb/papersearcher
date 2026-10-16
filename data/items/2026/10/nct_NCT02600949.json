@@ -25,11 +25,10 @@
  "id": "nct:NCT02600949",
  "importance": 0.91,
  "key_points_ko": [
-  "대상 질환은 전이성 췌장관선암 및 대장암을 포함한 진행성 암입니다.",
-  "목표 연구 참여 인원은 총 119명입니다.",
-  "맞춤형 펩타이드 백신과 함께 imiquimod, pembrolizumab, sotigalimab 등의 병용 투여 안전성과 유효성을 평가합니다."
+  "목표 연구 대상 인원은 총 119명입니다.",
+  "환자들은 백신 단독 또는 imiquimod, pembrolizumab, sotigalimab와의 병용 요법을 포함하는 코호트에 배정됩니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -52,7 +51,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02600949"
  },
- "summary_ko": "이 1상 임상시험은 전이성 췌장관선암(metastatic pancreatic ductal adenocarcinoma) 또는 대장암 환자를 대상으로 환자 자신의 종로 세포와 혈액으로 만든 맞춤형 펩타이드 백신(personalized peptide vaccine)의 안전성과 타당성을 평가합니다. 임상시험에는 imiquimod, pembrolizumab(펨브롤리주맙), sotigalimab(APX005M) 등 면역치료제가 백신과 병용 또는 단독으로 사용됩니다. 연구의 주요 목적은 환자 맞춤형 백신 제조의 실현 가능성과 병용 요법의 안전성을 입증하는 것입니다.",
+ "summary_ko": "이 1상 임상시험은 전이성 췌관선암(metastatic pancreatic ductal adenocarcinoma) 또는 대장암 환자를 대상으로 맞춤형 펩타이드 백신(personalized peptide vaccine) 치료의 부작용과 최적의 투여 방법을 평가합니다. 환자들은 종래의 백신 단독 치료 또는 imiquimod, pembrolizumab(펨브롤리주맙), sotigalimab(APX005M)과의 병용 치료를 받습니다. 주요 목적은 환자 맞춤형 백신 제조의 실현 가능성과 다양한 병용 요법의 안전성을 입증하는 것입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Personalized Peptide Vaccine in Treating Patients With Advanced Pancreatic Cancer or Colorectal Cancer",
@@ -67,7 +66,7 @@
    "Stage IVB Colorectal Cancer AJCC v7"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 전이성 대장암 또는 췌장관선암으로 완전한 수술적 절제(전이 절제술)를 받았거나 계획 중인 경우, 또는 국소 질환이 있는 췌장관선암 환자의 원발암 절제가 예정된 경우\n- 조직 채취 전 이전 치료 차수 제한 없음 (0차 포함)\n- 충분한 종양 조직 가용성\n- 성인 (18세 이상)\n- ECOG 수행능력(PS) 0-1\n- 적절한 장기 및 골수 기능\n\n제외 기준:\n- HIV 또는 에이즈(AIDS) 병력\n- 뇌전이 환자\n- 심각한 자가면역 질환\n- 만성 면역억제제 복용 중인 경우\n- 조절되지 않는 동반 질환 (활동성 감염, 심부전, 심근경색 등)\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 전이성 대장암 또는 전이성 췌관선암으로 완전 수술적 절제(전이절제술)를 받았거나 계획 중인 환자, 또는 국소 질환이 있어 원발종양 절제를 계획 중인 췌관선암 환자\n- 조직 채취 전 이전 치료 차수 제한 없음(0차 포함)\n- 충분한 종양 조직 확보\n- 만 18세 이상 성인\n- ECOG 수행능력 0-1\n- 적절한 장기 및 골수 기능\n\n제외 기준:\n- HIV 또는 에이즈 병력\n- 뇌전이 환자\n- 심각한 자가면역 질환\n- 만성 면역억제제 투여 중인 경우\n- 조절되지 않는 동반 질환(활동성 감염, 증상성 울혈성 심부전, 불안정형 협심증, 심장 부정맥 등)\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Metastatic CRC or PDA planned to or have undergone complete surgical resection (metastatectomy) and also for PDA participants with localized disease planned for primary tumor resection.\n* Any lines (including zero) of therapy prior to tissue harvest.\n* Adequate tumor tissue availability\n* Adults (age ≥ 18)\n* ECOG PS 0-1\n* Life expectancy \\>12 months for Cohort C and \\>9 months for Cohort D\n* Adequate organ and marrow function\n* Ability to understand and the willingness to sign a written informed consent document.\n* As the effects of a peptide based vaccine, pembrolizumab or APX005M on the developing human fetus are unknown, women of child-bearing potential and men must agree to use adequate contraception at study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant, she should inform her treating physician immediately. Unless surgically sterile by bilateral tubal ligation or vasectomy of partner(s), sexually active participants must use birth control during and for \\>120 days after the study. Abstinence is also an acceptable form of birth control.\n* For Cohort C only: participants must have metastatic CRC and are planned to or have undergone complete metastecomy/ies and agree to have post-operative blood draw for ctDNA testing within 6 weeks following surgical resection.\n\nExclusion Criteria:\n\n* History of HIV or AIDS\n* Patients with brain metastasis\n* Serious autoimmune conditions\n* Use of chronic immune suppressive medications.\n* Uncontrolled concurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Women of child bearing potential who are pregnant or breastfeeding. Women with a positive pregnancy test at enrollment or prior to administration of vaccine. .\n* Has history of (non-infectious) pneumonitis that required steroids, evidence of interstitial lung disease or active, non-infectious pneumonitis.\n* Known history of active TB (Bacillus Tuberculosis).\n* Hypersensitivity to therapy drugs or their components.\n* Has a known additional malignancy that is progressing or requires active treatment.\n* Active coagulopathy.\n* History of arterial thrombosis within 3 months prior to starting study treatment.\n* History of New York Heart Association Class 3-4 heart failure or myocardial infarction within 6 months prior to starting therapy.\n* Known history of Hepatitis B or known active Hepatitis C.",
   "enrollment": 119,
   "has_results": false,
@@ -91,13 +90,13 @@
    "key_exclusions_ko": [
     "뇌전이",
     "심각한 자가면역 질환",
-    "활동성 감염 등 조절되지 않는 동반 질환",
+    "활동성 감염 또는 조절되지 않는 심장 질환",
     "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "수술 예정이거나 수술을 받은 전이성 또는 국소 췌장암 환자",
+   "notes_ko": "수술적 절제를 받았거나 계획 중인 전이성 또는 국소 췌장암(췌관선암) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

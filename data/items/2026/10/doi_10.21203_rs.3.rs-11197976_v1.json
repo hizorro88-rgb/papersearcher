@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Background  Pancreatic ductal adenocarcinoma (PDAC) is frequently driven by oncogenic KRAS and remains highly refractory to therapy. Ferroptosis represents a therapeutically exploitable vulnerability in KRAS-mutant PDAC, yet the molecular mechanisms that sustain ferroptosis resistance remain incompletely understood. Methods  An in vivo CRISPR/Cas9 screen was performed in KRAS-mutant and KRAS-wild-type PDAC models under erastin treatment to identify genotype-selective ferroptosis regulators. The function and mechanism of OTUD7B were investigated using PDAC cell lines, patient tissues, biochemical and ubiquitination assays, and spontaneous PDAC mouse models. An OTUD7B-targeting antisense oligonucleotide (ASO) was further evaluated alone or in combination with erastin or anti-PD-1 therapy. Results  OTUD7B was identified as a selective determinant of erastin resistance in KRAS-mutant PDAC. OTUD7B was preferentially upregulated in KRAS-mutant PDAC, and oncogenic KRAS enhanced OTUD7B transcription through STAT3 activation. Mechanistically, OTUD7B directly interacted with dihydroorotate dehydrogenase (DHODH) and stabilized DHODH by removing K48-linked ubiquitin chains at K169 and K254, thereby reinforcing ferroptosis defense. OTUD7B depletion increased reactive oxygen species, iron accumulation and lipid peroxidation, reduced glutathione levels, and markedly potentiated erastin-induced ferroptosis in vitro and in spontaneous PDAC models. Therapeutic OTUD7B-ASO recapitulated these effects and enhanced the antitumor efficacy of anti-PD-1 therapy, accompanied by increased intratumoral CD8  <sup>+</sup>  T-cell infiltration. Conclusions  These findings establish the KRAS–STAT3–OTUD7B–DHODH axis as a key ferroptosis-protective pathway in KRAS-mutant PDAC and identify OTUD7B as a potential therapeutic target for sensitizing tumors to ferroptosis induction and immunotherapy.  </p>",
+ "authors": [
+  "Tang L",
+  "Zeng Z",
+  "Lei S",
+  "Huang F",
+  "Sun Y",
+  "Zeng H",
+  "Tai H",
+  "Li H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11197976/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "KRAS 변이 췌장암 세포 및 마우스 모델에서 OTUD7B가 페롭토시스 유도제인 erastin(에라스틴)에 대한 저항성을 유발하는 핵심 인자로 확인되었습니다.",
+  "OTUD7B 억제 시 활성산소와 철 축적, 지질 과산화가 증가하여 페롭토시스 반응이 크게 촉진되었습니다.",
+  "치료용 OTUD7B-ASO는 종양 내 CD8+ T세포 침윤을 늘려 항-PD-1 면역치료의 종양 억제 효능을 높였습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11197976/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1340563"
+ },
+ "summary_ko": "본 연구는 KRAS 변이 췌장암에서 철 의존성 세포사멸인 페롭토시스(ferroptosis)에 대한 저항성을 일으키는 분자 기전을 규명했습니다. 연구진은 KRAS 변이가 STAT3를 활성화하여 OTUD7B 발현을 높이고, 이것이 DHODH 단백질을 안정화하여 페롭토시스를 방어함을 확인했습니다. 세포 및 마우스 모델에서 OTUD7B를 억제하는 안티센스 올리고뉴클레오타이드(ASO)를 투여했을 때 페롭토시스가 유도되었으며, 항-PD-1 면역항암제의 항암 효과 또한 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeted inhibition of OTUD7B enhances therapeutic sensitivity in KRAS- mutant pancreatic ductal adenocarcinoma by promoting ubiquitination of DHODH",
+ "title_ko": "OTUD7B 표적 억제를 통한 DHODH 유비퀴틴화 촉진 및 KRAS 변이 췌장암 치료 감수성 증대",
+ "trial": null,
+ "type": "preprint"
+}

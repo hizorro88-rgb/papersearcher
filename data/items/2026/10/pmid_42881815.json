@@ -1,0 +1,61 @@
+{
+ "abstract": "Background/Objectives: Biomarkers that can facilitate early detection of pancreatic cancer and extend patient survival are a significant unmet need. PancreaSure is a serum biomarker signature that performed well at distinguishing Stage I and II pancreatic ductal adenocarcinoma (PDAC) from both high-risk and non-high-risk controls in two previous validations. The goal of this study was to perform a secondary analysis of test performance exclusively in individuals at high risk of PDAC due to a pathogenic variant in a susceptibility gene or strong family history of the disease. To this end, we extracted and analyzed raw data from appropriate samples used in the prior validations. Methods: Data from the two prior validations were pooled at the participant level, and sensitivity and specificity were estimated as pooled proportions with exact binomial 95% confidence intervals. One-sided exact binomial tests were used to compare the performance of the PancreaSure test to the performance goals of 65% sensitivity and 90% specificity. Results: PancreaSure detected early-stage PDAC with 77.5% sensitivity (95% CI, 66.0-86.5) and 93.6% specificity (95% CI, 91.8-95.1), significantly outperforming predefined success criteria. Test performance was consistent between Stage I (80.0% sensitivity) and Stage II (75.6% sensitivity) PDAC cases. PancreaSure also demonstrated favorable performance in individuals with only genetic susceptibility to PDAC (84.8% sensitivity, 94.5% specificity), with only a family history of the disease (79.2% sensitivity, 93.7% specificity), and with high-penetrance variants. Conclusions: The performance demonstrated by PancreaSure in genetic/familial high-risk individuals further suggests that it has the potential to facilitate early detection of PDAC in surveillance populations and warrants prospective evaluation as an adjunct to imaging.",
+ "authors": [
+  "Gonda T",
+  "Paiella S",
+  "Sears RC",
+  "Borazanci E",
+  "Polanco PM",
+  "Kupfer SS",
+  "Kastrinos F",
+  "Park WG"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42881815",
+ "importance": 0.72,
+ "key_points_ko": [
+  "PancreaSure 검사는 초기(1·2기) 췌관선암을 77.5%의 민감도와 93.6%의 특이도로 감별했습니다.",
+  "병기별 민감도는 1기에서 80.0%, 2기에서 75.6%로 일관된 성능을 보였습니다.",
+  "유전적 감수성만 있는 군(민감도 84.8%, 특이도 94.5%) 및 가족력만 있는 군(민감도 79.2%, 특이도 93.7%)에서도 우수한 성능을 나타냈습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.3390/jcm15197355",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42881815"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42881815/"
+ },
+ "summary_ko": "본 연구는 유전적 변이나 강한 가족력으로 인해 췌장암 발생 위험이 높은 인구에서 혈액 기반 바이오마커 검사인 PancreaSure의 초기 췌관선암(PDAC) 감별 성능을 평가했습니다. 이전 두 건의 검증 연구 데이터를 통합하여 1기와 2기 초기 췌장암 환자와 고위험 대조군 데이터를 후향적으로 분석했습니다. 분석 결과, PancreaSure 검사는 민감도 77.5%, 특이도 93.6%를 보여 사전 설정된 성능 기준(민감도 65%, 특이도 90%)을 유의하게 상회했습니다. 연구진은 이 혈액 검사가 고위험군 감시 인구에서 영상 검사의 보조 수단으로 조기 발견에 기여할 가능성이 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The PancreaSure Multianalyte Blood Test Performs Well at Distinguishing Early-Stage Pancreatic Ductal Adenocarcinoma from High-Risk Controls: A Retrospective Secondary Analysis",
+ "title_ko": "초기 췌관선암과 고위험 대조군을 구별하는 PancreaSure 다중분석 혈액 검사의 성능: 후향적 2차 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Low-abundance exosomal proteins from trace plasma volumes remain challenging to profile by mass spectrometry. Here, we report a lanthanide metal-organic framework (Ln-MOF) functionalized with boronic acid and carboxylate dual ligands, which captures exosomal proteins via synergistic phosphate coordination, boronate-diol complexation, and cation-π interactions. Compared with traditional ultracentrifugation, which identifies 1003 proteins from 200 µL of plasma, the Ln-MOF method identifies 1523 proteins from only 50 µL of plasma. Notably, the method enriches glycoproteins and phosphoproteins by 2.1-fold and 1.8-fold, respectively. Applying this platform to pancreatic ductal adenocarcinoma (PDAC) patients and healthy controls, we delineate tumor tissue hypermetabolism vs. systemic immune suppression.",
+ "authors": [
+  "Wang R",
+  "Li C",
+  "Liu W",
+  "Cai Z",
+  "Ding X",
+  "Jiang C"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42885237",
+ "importance": 0.57,
+ "key_points_ko": [
+  "기존 초원심분리법이 혈장 200 µL에서 1003개의 단백질을 찾아낸 반면, 새 방식은 단 50 µL의 혈장으로 1523개의 단백질을 식별했습니다.",
+  "당단백질과 인산화단백질의 농축 효율이 각각 2.1배 및 1.8배 향상되었습니다.",
+  "췌관선암 환자와 정상 대조군 검체 분석을 통해 종양의 대사 항진 및 전신 면역 억제 특성을 규명했습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1002/smll.76296",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42885237"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Small",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885237/"
+ },
+ "summary_ko": "극미량의 혈장에서 세포외소포체(exosome) 단백질을 효과적으로 분석하기 위한 새로운 나노 소재 플랫폼(Ln-MOF) 연구 결과입니다. 개발된 소재는 보론산과 카복실산 이중 리간드를 활용하여 엑소좀 단백질을 높은 효율로 포획하도록 설계되었습니다. 기존 초원심분리법 대비 4분의 1 수준인 50 µL의 혈장만으로 더 많은 종류의 단백질을 식별했습니다. 연구진은 이를 췌관선암(PDAC) 환자와 건강인의 혈액에 적용하여 암 조직의 과대사 및 전신 면역 억제 양상을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Ultrasensitive Trace Sample Proteomics for Pancreatic Ductal Adenocarcinoma Diagnosis Empowered by Dual-Affinity Spherical Ln-MOFs",
+ "title_ko": "이중 친화성 구형 Ln-MOF를 활용한 췌관선암 진단용 극미량 검체 초민감 단백체 분석",
+ "trial": null,
+ "type": "paper"
+}

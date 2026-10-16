@@ -1,0 +1,58 @@
+{
+ "abstract": "Accurate identification of immunogenic neoantigens remains a bottleneck in personalized cancer vaccine development, particularly in low-mutation-burden tumors such as pancreatic ductal adenocarcinoma (PDAC). We developed NeoBridge, a hybrid ensemble integrating gradient boosting and a deep neural network across four biologically grounded feature dimensions: HLA binding and processing, differential agretopicity, tumor neoantigen abundance, and TCR recognition potential. Trained on 11,188 experimentally validated neoantigens, NeoBridge achieved an area under the receiver operating characteristic curve (AUC-ROC) of 0.904 on held-out data, with cross-cancer generalization (AUC: 0.73-0.82), including 0.82 in pancreatic cancer, and outperformed established tools. Differential agretopicity emerged as the dominant predictive feature. In 118 PDAC patients with resolved phylogenies and complete follow up, subclonal neoantigen load was associated with worse progression-free survival (p < 0.001) and overall survival (p = 0.038). These findings are hypothesis generating and require prospective immunopeptidomic and functional validation.",
+ "authors": [
+  "Mediavilla AL",
+  "Cardoso JP",
+  "Álvarez-Benayas J",
+  "Sánchez-Arévalo Lobo VJ"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-16",
+ "history": [
+  {
+   "date": "2026-10-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42880248",
+ "importance": 0.61,
+ "key_points_ko": [
+  "NeoBridge 모델은 테스트 데이터셋에서 AUC-ROC 0.904, 췌장암 코호트에서 AUC 0.82의 높은 신생항원 예측 성능을 보였습니다.",
+  "차등적 아그레토프성(differential agretopicity)이 신생항원 예측에서 가장 중요한 특성으로 확인되었습니다.",
+  "118명의 췌장암 환자 분석 결과, 서브클론 신생항원 부하가 높을수록 무진행 생존기간(PFS, p < 0.001) 및 전체 생존기간(OS, p = 0.038)이 더 나빴습니다."
+ ],
+ "last_updated": "2026-10-16",
+ "links": {
+  "doi": "10.1016/j.xgen.2026.101397",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42880248"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Genom",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42880248/"
+ },
+ "summary_ko": "췌관선암종(PDAC)과 같이 돌연변이 부담이 낮은 암에서는 개인 맞춤형 암 백신 개발에 필요한 면역원성 신생항원을 정확하게 선별하기가 어렵습니다. 연구진은 생물물리학적 특성을 결합한 인공지능 기반 모델인 NeoBridge를 개발하여 면역원성 신생항원을 예측했습니다. 이 모델은 11,188개의 검증된 신생항원 데이터를 바탕으로 췌장암에서 0.82의 곡선하면적(AUC) 성능을 보이며 기존 예측 도구보다 우수한 성과를 나타냈습니다. 또한 118명의 췌장암 환자 분석에서 서브클론(subclonal) 신생항원의 양이 많을수록 무진행 생존기간(PFS)과 전체 생존기간(OS)이 유의하게 짧아지는 연관성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "NeoBridge: Biophysics-informed neoantigen prioritization and clonal architecture profiling in pancreatic cancer",
+ "title_ko": "NeoBridge: 췌장암에서의 생물물리학 기반 신생항원 우선순위화 및 클론 구조 프로파일링",
+ "trial": null,
+ "type": "paper"
+}

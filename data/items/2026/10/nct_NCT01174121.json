@@ -20,11 +20,11 @@
  "id": "nct:NCT01174121",
  "importance": 0.77,
  "key_points_ko": [
-  "목표 인원은 최대 332명이며, 전이성 췌장암을 포함한 다양한 고형암 환자를 대상으로 합니다.",
-  "자가 종양 침윤 림프구(TIL)와 pembrolizumab, 고용량 aldesleukin을 병용 투여합니다.",
-  "연구의 주요 평가지표는 객관적 반응률(ORR) 등 종양 퇴행(tumor regression) 비율입니다."
+  "목표 환자 수는 최대 332명이며, 전이성 췌장암을 포함한 여러 고형암 환자가 참여합니다.",
+  "치료법은 자가 종양 침윤 림프구(TIL) 세포 주입과 pembrolizumab, aldesleukin, 림프구 고갈성 항암화학 전처치를 결합한 형태입니다.",
+  "1군당 초기 21명을 대상으로 평가를 진행하며, 2명 이상에서 임상적 반응이 관찰되면 41명까지 확대하여 목표 객관적 반응률 20%를 검증합니다."
  ],
- "last_updated": "2026-10-15",
+ "last_updated": "2026-10-16",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT01174121"
  },
- "summary_ko": "본 임상시험은 표준 항암 치료에 실패한 전이성 소화기암(췌장암 포함), 유방암, 난소암 등의 환자를 대상으로 자가 종양 침윤 림프구(TIL) 세포치료제와 펨브롤리주맙(pembrolizumab), 알데스루킨(aldesleukin) 병용 요법의 안전성과 종양 축소 효과를 평가합니다. 18세부터 72세 사이의 환자가 참여 대상이며, 전신 항암 치료 전력이 있는 환자들을 대상으로 합니다. 환자들은 종양 조직을 채취하여 TIL을 배양한 뒤, 림프구 고갈 전처치 항암요법과 함께 TIL과 면역관문억제제, 인터루킨-2(알데스루킨)를 투여받습니다. 연구의 주 목적은 이러한 세포치료가 종양 크기를 줄이고 안전한지 확인하는 것입니다.",
+ "summary_ko": "이 임상시험은 표준 항암화학요법에 불응한 전이성 암 환자들을 대상으로 자가 종양 침윤 림프구(TIL) 세포치료제와 pembrolizumab(펨브롤리주맙, 상품명 Keytruda), 고용량 aldesleukin(알데스류킨), 림프구 고갈성 전처치 요법의 병행 치료 효과와 안전성을 평가합니다. 췌장암을 포함한 상·하부 소화기계, 간담도계, 비뇨기계, 유방암, 난소암/자궁내막암, 신경내분비종양 등의 전이성 암 환자 총 332명을 목표로 진행됩니다. 환자의 종양 조직에서 분리·배양한 TIL 세포를 환자에게 다시 주입하여 종양 축소 효과를 확인하는 2상 임상시험입니다.",
  "summary_source": "llm",
  "tags": [
   "Digestive Tract Cancers",
@@ -74,7 +74,7 @@
     "phone": "(866) 820-4505"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상 72세 이하의 성인.\n- RECIST v1.0 기준에 따른 측정 가능한 전이성 암(상/하부 위장관, 간담도, 비뇨기과, 유방, 난소/자궁내막, 또는 내분비 종양/신경내분비종양).\n- 승인된 표준 전신 치료에 불응성인 환자.\n- ECOG 수행능력 0 또는 1.\n- 1cm 미만이며 무증상이고 3개 이하인 뇌 전이는 허용됨.\n\n제외 기준:\n- 임신 중이거나 수유 중인 환자.\n- 동시 전신 스테로이드 치료를 받는 환자.\n- 항감염 치료가 필요한 활동성 전신 감염 또는 조절되지 않는 주요 질환.\n- 원발 부위의 폐쇄 임박, 천공, 출혈 위험이 있는 경우.\n- 원발성 면역결핍증의 과거력.\n- 주요 장기의 자가면역 질환력.\n- cyclophosphamide, fludarabine, aldesleukin에 대한 중증 과민반응력.\n- 관상동맥 재개통술 또는 허혈성 증상력.",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 72세 이하의 성인.\n- 표준 항암화학요법에 불응한 전이성 상·하부 소화기계, 간담도계, 비뇨기계, 유방암, 난소암/자궁내막암, 신경내분비종양 등.\n- RECIST v1.0 기준에 따른 측정 가능한 전이성 병변 존재.\n- ECOG 수행능력 0 또는 1.\n- TIL 생성을 위한 최소 침습 수술 등으로 절제 가능한 병변 보유.\n- HIV, B형 간염, C형 간염 음성.\n- 적절한 조혈모세포 및 간·신장 기능 유지.\n\n제외 기준:\n- 임신 중이거나 수유 중인 환자.\n- 동시 전신 스테로이드 치료를 받는 환자.\n- 항감염 치료가 필요한 활동성 전신 감염, 응고 장애, 조절되지 않는 중대 질환.\n- 폐색, 천공, 출혈의 위험이 있는 진행성 원발암.\n- 일차성 면역결핍증의 병력.\n- 주요 장기 자가면역질환 병력.\n- 면역항암제(anti-PD-1/PD-L1) 치료에 기인한 3~4등급 면역관련 이상반응(irAE) 병력.\n- cyclophosphamide, fludarabine, aldesleukin에 대한 중증 과민반응 병력.\n- 관상동맥 재개통술 또는 허혈성 증상 병력.\n- 기타 임상시험용 약물을 투여 중인 환자.",
   "eligibility_text": "* INCLUSION CRITERIA:\n* Measurable (per RECIST v1.0 criteria), metastatic cancer of one of the following types: upper or lower gastrointestinal, hepatobiliary, genitourinary, breast, ovarian/endometrial, or endocrine tumors including neuroendocrine tumors. Patients must have at least one lesion that is resectable for TIL generation with minimal morbidity, preferentially using minimal invasive laparoscopic or thoracoscopic surgery for removal of superficial tumor deposit.\n* Confirmation of diagnosis of metastatic cancer by the NCI Laboratory of Pathology.\n* Refractory to approved standard systemic therapy. Specifically:\n\n  * Patients with metastatic colorectal cancer must have received oxaliplatin or irinotecan.\n  * Patients with hepatocellular carcinoma must have received sorafenib (Nexavar(R)), since level 1 data support a survival benefit with this agent.\n  * Patients with breast and ovarian cancer must be refractory to both first- and second-line treatments and must have received at least one second-line chemotherapy regimen.\n* Patients with 3 or fewer brain metastases that are \\< 1 cm in diameter and asymptomatic are eligible. Lesions that have been treated with stereotactic radiosurgery must be clinically stable for one month after treatment for the patient to be eligible. Patients with surgically resected brain metastases are eligible.\n* Age greater than or equal to 18 years and less than or equal to 72 years.\n* Clinical performance status of ECOG 0 or 1.\n* Patients of both sexes must be willing to practice birth control from the time of enrollment on this study and 12 months after the last dose of combined chemotherapy for individuals of child-bearing potential (IOCBP) and for four months after treatment for individuals that can father children.\n* IOCBP must have a negative pregnancy test be a pregnancy test prior to the start of treatment because of the potentially dangerous effects of the treatment on the fetus.\n\nSerology\n\n* Seronegative for HIV antibody. (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who are HIV seropositive may have decreased immune-competence and thus may be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* Seronegative for hepatitis B antigen, and seronegative for hepatitis C antibody. If hepatitis C antibody test is positive, then the patient must be tested for the presence of antigen by RT-PCR and be HCV RNA negative.\n\nHematology\n\n* ANC \\> 1000/mm\\^3 without the support of filgrastim\n* WBC greater than or equal to 2500/mm\\^3\n* Platelet count greater than or equal to 80,000/mm\\^3\n* Hemoglobin \\> 8.0 g/dL. Subjects may be transfused to reach this cut-off.\n\nChemistry\n\n* Serum ALT/AST less than or equal to 5.0 x ULN\n* Serum creatinine less than or equal to 1.5 x ULN\n* Total bilirubin less than or equal to 2.0 mg/dL, except in patients with Gilbert s Syndrome, who must have a total bilirubin \\< 3.0 mg/dL.\n* Patients must have completed any prior systemic therapy at the time of enrollment.\n\nNote: Patients may have undergone minor surgical procedures or limited field radiotherapy within the four weeks prior to enrollment, as long as related major organ toxicities have recovered to less than or equal to grade 1.\n\n* Ability of subject to understand and the willingness to sign a written informed consent document.\n* Willing to sign a durable power of attorney.\n* Subjects must be co-enrolled on protocol 03-C-0277.\n\nEXCLUSION CRITERIA:\n\n* Participants who are pregnant or nursing because of the potentially dangerous effects of the treatment on the fetus or infant.\n* Concurrent systemic steroid therapy.\n* Active systemic infections requiring anti-infective treatment, coagulation disorders, or any other active or uncompensated major medical illnesses.\n* Advanced primary with impeding occlusion, perforation or bleeding, dependent on transfusion.\n* Any form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease and AIDS).\n* History of major organ autoimmune disease.\n* Grade 3 or 4 major organ irAEs clinically attributed to anti-PD-1/PD-L1 therapy.\n* Concurrent opportunistic infections (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who have decreased immunecompetence may be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* History of severe immediate hypersensitivity reaction to cyclophosphamide, fludarabine, or aldesleukin.\n* History of coronary revascularization or ischemic symptoms.\n* For select patients with a clinical history prompting cardiac evaluation: last known LVEF less than or equal to 45%.\n* Documented Child-Pugh score of B or C for hepatocellular carcinoma patients with known underlying liver dysfunction.\n* For select patients with a clinical history prompting pulmonary evaluation: known FEV1 less than or equal to 50%.\n* Patients who are receiving any other investigational agents.",
   "enrollment": 332,
   "has_results": false,
@@ -85,7 +85,7 @@
    "Aldesleukin",
    "Young TIL"
   ],
-  "last_update_posted": "2026-10-13",
+  "last_update_posted": "2026-10-16",
   "location_countries": [
    "United States"
   ],
@@ -95,15 +95,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "임신 또는 수유 중인 환자",
-    "조절되지 않는 심장 질환 또는 허혈성 증상",
-    "활동성 감염 또는 면역결핍증",
-    "자가면역 질환력"
+    "임신 또는 수유 중인 경우",
+    "활동성 전신 감염이나 조절되지 않는 중대 질환이 있는 경우",
+    "자가면역질환 병력이 있는 경우",
+    "심장 질환 또는 허혈성 증상 병력이 있는 경우"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "표준 치료에 불응성인 전이성 췌장암을 포함한 소화기암 환자를 위한 TIL 세포치료 임상시험입니다.",
+   "notes_ko": "표준 치료에 불응한 전이성 췌장암을 포함한 고형암 환자를 위한 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
