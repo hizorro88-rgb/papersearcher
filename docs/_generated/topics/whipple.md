@@ -29,7 +29,7 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (6)
+## 타임라인 (7)
 
 <a id="pmid-42872722"></a>
 #### [복강경 십이지장 보존 췌장 두경부 절제술](https://pubmed.ncbi.nlm.nih.gov/42872722/)
@@ -107,6 +107,21 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42888870"></a>
+#### [다발성 R1 절제연은 짧은 전체 생존기간과 연관됨: 췌장암에 관한 전국 등록부 기반 연구](https://pubmed.ncbi.nlm.nih.gov/42888870/)
+<small>Multiple R1 margins are associated with shorter overall survival: national register-based study on pancreatic cancer</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-09-04 · PubMed · BJS Open · 중요도 0.67
+
+스웨덴 전국 췌장 등록부(2017~2024년)에 등록된 원발성 절제 가능 췌관선암(PDAC)으로 췌십이지장절제술을 받은 성인 환자 1043명을 분석한 연구입니다. 전체 환자 중 완전 절제(R0)는 38.2%(398명), 현미경적 잔존암이 있는 절제(R1)는 61.8%(645명)였습니다. R1 절제 환자는 R0 환자에 비해 보정된 중앙 생존기간이 8.2개월 더 짧았으며, 침범된 R1 절제연 수가 많을수록 생존기간이 점진적으로 짧아졌습니다. 연구진은 단순히 R0와 R1으로만 구분하는 기존 관행을 넘어, 절제연 침범 개수를 포함한 표준화되고 상세한 평가 프로토콜을 도입해야 한다고 제안했습니다.
+
+- 췌십이지장절제술을 받은 췌장암 환자 1043명 중 R0 절제는 38.2%(398명), R1 절제는 61.8%(645명)였습니다.
+- R1 절제 환자의 보정된 중앙 생존기간은 R0 절제 환자보다 8.2개월(95% 신뢰구간 -12.0~-4.3개월) 유의하게 짧았습니다.
+- R0 절제 대비 보정된 중앙 생존기간은 침범 절제연이 1곳일 때 4.6개월, 2곳일 때 6.7개월, 3곳 이상일 때 12.4개월 더 짧아 침범 부위 수가 많을수록 예후가 나빴습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888870/) · [DOI](https://doi.org/10.1093/bjsopen/zrag155) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888870)</small>
 
 ---
 <a id="pmid-42866830"></a>

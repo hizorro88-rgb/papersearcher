@@ -1,0 +1,64 @@
+{
+ "abstract": "Celiac axis involvement has long defined unresectability in pancreatic ductal adenocarcinoma (PDAC) due to its association with adverse tumor biology and the risk of hepatic ischemia after arterial sacrifice. Contemporary neoadjuvant regimens and refined vascular techniques have challenged this paradigm. We report a 65-year-old woman with locally advanced PDAC of the pancreatic body encasing the celiac trunk, splenic artery, and proximal common hepatic artery. Following FOLFIRINOXbased neoadjuvant therapy, restaging demonstrated a marked biochemical and radiologic response, with no evidence of systemic disease. Given this favorable tumor biology, the patient underwent distal pancreatectomy with en bloc celiac axis resection (modified Appleby procedure) combined with a totally laparoscopic aortohepatic bypass to ensure reliable antegrade hepatic inflow. R0 resection was achieved without intraoperative morbidity. Final pathology revealed a moderately differentiated adenocarcinoma (ypT2N0) with perineural invasion. Postoperative recovery was uneventful, with preserved hepatic function and no ischemic or vascular complications. At 11 months, the patient remains recurrence-free, with sustained graft patency. This report demonstrates that, in highly selected responders to neoadjuvant therapy, radical arterial resection supplemented by minimally invasive vascular reconstruction is feasible, oncologically sound, and may extend the boundaries of curative-intent surgery in locally advanced PDAC within experienced multidisciplinary programs.",
+ "authors": [
+  "Garcias LM",
+  "Contreras Y",
+  "Reimondes S",
+  "Alcaraz Á",
+  "Marani M",
+  "Obeide L",
+  "Giordano E"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42886975",
+ "importance": 0.54,
+ "key_points_ko": [
+  "FOLFIRINOX 기반 선행요법 후 복강경하 대동맥-간동맥 우회술을 병행한 변형 애플비 수술로 R0 완전 절제를 달성했습니다.",
+  "최종 병리는 중등도 분화도의 췌장선암(ypT2N0)으로 확인되었으며, 수술 후 혈관이나 허혈성 합병증은 발생하지 않았습니다.",
+  "수술 후 11개월 동안 재발이 없었으며 이식 혈관의 개통성도 지속되었습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42886975"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medicina (B Aires)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886975/"
+ },
+ "summary_ko": "복강동맥(celiac axis) 침범으로 수술이 어려웠던 65세 국소진행성 췌장체부암 여성 환자의 수술 사례입니다. 환자는 FOLFIRINOX(폴피리녹스) 기반 선행항암치료 후 뚜렷한 종양 반응을 보여 원격 전이가 없음을 확인했습니다. 이후 복강동맥을 함께 절제하는 변형 애플비 수술(modified Appleby procedure)과 간으로의 혈류를 유지하기 위한 완전 복강경하 대동맥-간동맥 우회술을 시행받아 R0 완전 절제를 달성했습니다. 수술 후 간 기능은 정상적으로 유지되었으며, 11개월 추적 관찰 시점까지 재발 없이 혈관 개통성이 유지되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Modified Appleby with laparoscopic aorto-hepatic bypass for pancreatic adenocarcinoma: expanding the limits",
+ "title_ko": "복강경하 대동맥-간동맥 우회술을 동반한 변형 애플비 수술을 시행한 췌장선암 환자 증례",
+ "trial": null,
+ "type": "paper"
+}

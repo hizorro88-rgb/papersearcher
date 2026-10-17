@@ -1,0 +1,61 @@
+{
+ "abstract": "Dietary polyunsaturated fatty acids (PUFAs) shape inflammatory signaling within the pancreatic tumor microenvironment (TME), but the cellular mechanisms underlying their effects on tumor progression remain unclear. Using orthotopic models of pancreatic ductal adenocarcinoma (PDAC), we show that omega-3 (n-3) and omega-6 (n-6) PUFAs are differentially incorporated into tumor lipid pools, generating spatially heterogeneous lipid microenvironments. While an n-6-enriched diet accelerated PDAC growth, an n-3-enriched diet suppressed tumor growth in a T cell-independent manner. Examining inflammatory effects in PDAC tumors, the n-3 PUFA-enriched diet reduced pro-inflammatory cytokines, including IL-6 family members, and single-cell and spatial analyses identified tumor-associated macrophages (TAMs) as the primary diet-responsive population. Indeed, selective conversion of n-6 to n-3 fatty acids within myeloid cells using an inducible fat-1 transgene, which encodes an n-3 desaturase that converts n-6 to n-3 PUFAs in vivo, was sufficient to suppress tumor growth, whereas fibroblast-restricted conversion had no effect. This finding is the first to formally establish that cellular origin of PUFA metabolism within the TME is a key determinant of tumor progression and identifies TAMs as critical mediators of n-3-dependent tumor suppression. Furthermore, the n-3 PUFA-enriched diet reduced Arg1+ immunosuppressive TAMs and promoted C1q+ and MHC-II+ antigen-presenting TAM populations enriched for antigen processing machinery and T cell-recruiting chemokines, alongside reduced IL-6 family cytokine production. Together, these findings establish macrophages as key mediators of n-3-driven tumor control and define a mechanism by which dietary lipids remodel cytokine signaling in the PDAC microenvironment.",
+ "authors": [
+  "Sakuma S",
+  "Zhao S",
+  "Hildreth A",
+  "Liu G",
+  "Shah V",
+  "Sun M",
+  "Tan S",
+  "Jacobs E"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42886691",
+ "importance": 0.64,
+ "key_points_ko": [
+  "동물 모델에서 오메가-3가 풍부한 식이는 T세포와 무관하게 췌장암 성장을 억제한 반면 오메가-6 풍부 식이는 성장을 가속했습니다.",
+  "골수계 세포에서 오메가-6를 오메가-3로 전환하는 것만으로 종양 성장이 억제되어 종양 관련 대식세포(TAM)가 핵심 매개체임을 입증했습니다.",
+  "오메가-3 식이는 IL-6 계열 사이토카인 및 면역억제성 Arg1+ 대식세포를 줄이고 항원 제시 기능의 C1q+/MHC-II+ 대식세포를 증가시켰습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.1073/pnas.2618288123",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42886691"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Proc Natl Acad Sci U S A",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886691/"
+ },
+ "summary_ko": "췌관선암(PDAC) 동물 모델을 통해 식이 다불포화지방산(PUFA)이 종양 미세환경에 미치는 영향을 규명한 기초 연구입니다. 오메가-6가 풍부한 식이는 종양 성장을 촉진한 반면, 오메가-3가 풍부한 식이는 T세포와 무관하게 종양 성장을 억제했습니다. 단일세포 및 공간 분석 결과 오메가-3는 종양 관련 대식세포(TAM)에 주로 작용하여 면역억제성 대식세포와 IL-6 계열 염증 사이토카인을 줄이고 항원 제시 대식세포를 유도했습니다. 이를 통해 대식세포가 오메가-3의 종양 억제 작용을 매개하는 핵심 세포임이 밝혀졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Omega-3 fatty acids reprogram tumor-associated macrophage cytokine signaling and suppress pancreatic cancer growth",
+ "title_ko": "오메가-3 지방산이 종양 관련 대식세포의 사이토카인 신호를 재프로그래밍하여 췌장암 성장을 억제함",
+ "trial": null,
+ "type": "paper"
+}

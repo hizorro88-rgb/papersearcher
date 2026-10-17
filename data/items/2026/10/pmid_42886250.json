@@ -1,0 +1,56 @@
+{
+ "abstract": null,
+ "authors": [
+  "Huang B",
+  "Shen Y"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42886250",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌관선암 조기 치료 반응 평가에 쓰이는 정량적 DCE-MRI 기법의 한계와 주의점을 다룬 서신입니다.",
+  "방법론적 및 생물물리학적 관점의 우려 사항을 논의하였습니다.",
+  "세부 분석 데이터 및 구체적 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.1007/s00330-026-12984-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42886250"
+ },
+ "pub_types": [
+  "Letter",
+  "Comment"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886250/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 조기 치료 반응을 평가하기 위해 활용되는 정량적 동적 조영증강 자기공명영상(DCE-MRI)에 대한 의견 서신입니다. 해당 영상 평가 기법의 방법론적 및 생물물리학적 측면에서 제기되는 우려 사항을 다루고 있습니다. 구체적인 환자 분석 결과나 통계 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Letter to the Editor: Methodological and biophysical concerns on quantitative DCE-MRI for early PDAC response assessment",
+ "title_ko": "편집자 앞 편지: 췌관선암(PDAC) 조기 치료 반응 평가를 위한 정량적 동적 조영증강 자기공명영상(DCE-MRI)의 방법론적 및 생물물리학적 고찰",
+ "trial": null,
+ "type": "paper"
+}

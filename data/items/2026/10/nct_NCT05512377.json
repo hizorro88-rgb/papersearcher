@@ -19,12 +19,11 @@
  "id": "nct:NCT05512377",
  "importance": 0.92,
  "key_points_ko": [
-  "담도암, 췌장암, 폐암, 방광암 환자를 대상으로 한 2상 임상시험입니다.",
-  "중재 약물인 brigimadlin(BI 907828)은 MDM2 억제제(MDM2 inhibitor)로 경구 복용(태블릿) 방식으로 투여되었습니다.",
-  "목표 인원은 총 99명이었습니다.",
-  "국내 4개 기관이 참여했습니다."
+  "MDM2 유전자 증폭 및 TP53 정상형(wild-type)을 지닌 진행성 췌장암, 담도암 등 고형암 환자 99명을 목표로 한 2상 임상시험입니다.",
+  "시험 약물인 브리기마들린(brigimadlin)은 3주 간격으로 경구 투여하는 MDM2 억제제입니다.",
+  "수술이 불가능하고 기존 승인된 표준 항암 치료를 모두 받은 환자를 대상으로 진행되었습니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05512377"
  },
- "summary_ko": "이 연구는 담도, 췌장, 폐, 방광에 진행성 암이 있는 성인 환자를 대상으로 합니다. 이전 치료가 성공적이지 않았거나 표준 치료가 없는 환자들이 참여했습니다. 이 시험의 목적은 Brigimadlin(BI 907828)이라는 약물이 이들 암 환자에게 도움이 되는지 알아보기 위함입니다. Brigimadlin은 MDM2 억제제(MDM2 inhibitor)로 개발 중인 약물입니다. 모든 참가자는 3주마다 한 번씩 알약 형태로 약을 복용했습니다.",
+ "summary_ko": "이 연구는 이전 치료에 실패했거나 더 이상 가능한 표준 치료가 없는 진행성 담도암, 췌장암, 폐암, 방광암 성인 환자를 대상으로 진행된 임상시험입니다. MDM2 억제제 계열의 표적치료제인 brigimadlin(브리기마들린, BI 907828)의 유효성과 안전성을 평가했습니다. 참여 환자들은 조직 검사상 MDM2 증폭 및 TP53 정상형(wild-type)을 확인받아야 했습니다. 브리기마들린은 3주에 1회 경구 복용하는 방식으로 투여되었습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Brightline-2: A Study to Test Whether Brigimadlin (BI 907828) Helps People With Cancer in the Biliary Tract, Pancreas, Lung or Bladder",
- "title_ko": "Brightline-2 임상시험: 담도암, 췌장암, 폐암, 방광암 환자를 위한 Brigimadlin (BI 907828) 연구",
+ "title_ko": "Brightline-2: 담도암, 췌장암, 폐암, 방광암 환자를 대상으로 브리기마들린(BI 907828)의 효과를 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasms",
@@ -61,7 +60,7 @@
    "Bladder Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 국소 진행성 또는 전이성 췌장관선암(pancreatic ductal adenocarcinoma) 진단을 받은 환자\n* 절제 불가능하며, 지역 승인 표준에 따라 임상적 이점이 있다고 알려진 모든 가용 가능한 재래식 치료를 받은 환자\n* MDM2 증폭 또는 카피 수 8 이상 및 TP53 야생형(wild-type) 상태를 나타내는 조직 기반 병리 보고서 또는 분자 프로파일링 보고서 제출\n* RECIST 버전 1.1에 따른 최소 1개 이상의 측정 가능한 표적 병변 존재\n* Eastern Cooperative Oncology Group(ECOG) 수행능력 상태(PS) 0 또는 1\n* 18세 이상의 성인 남성 또는 여성\n\n제외 기준:\n* brigimadlin(BI 907828) 또는 기타 MDM2-p53 혹은 MDM4-p53 길항제를 이전에 투여받은 적이 있는 경우\n* 활동성 출혈, 출혈 위험이 유의미한 경우, 또는 현재 출혈 질환이 있는 경우\n* 시험 치료 시작 전 4주 이내에 주요 수술을 받았거나 스크리닝 후 6개월 이내에 계획되어 있는 경우\n* 임상시험의 안전성 및 유효성 평가에 방해가 될 수 있는 임상적으로 유의미한 과거 또는 동반 악성 종양\n* 기타 제한된 약물을 계속 복용해야 하거나 복용할 의도가 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 국소 진행성 또는 전이성으로 수술이 불가능하며, 기존 표준 치료를 모두 받은 췌관선암 환자 (또는 담도암, 폐암, 방광암)\n- 조직 검사를 통해 확인된 MDM2 증폭(amplification 또는 카피 수 ≥ 8) 및 TP53 정상형(wild-type) 상태 (액체생검 불가)\n- RECIST 1.1 기준 최소 1개 이상의 측정 가능한 병변\n- ECOG 수행능력 점수 0점 또는 1점\n- 예상 수명 3개월 이상인 만 18세 이상 성인\n\n제외 기준:\n- 이전에 brigimadlin 또는 다른 MDM2-p53/MDMX-p53 억제제 치료를 받은 이력\n- 활동성 출혈, 심각한 출혈 위험(위장관 출혈 또는 뇌출혈 병력 등), 출혈성 질환\n- 시험 치료 시작 전 4주 이내 주요 수술을 받았거나 6개월 이내 수술 예정인 경우\n- 시험 평가에 영향을 미칠 수 있는 임상적으로 유의한 다른 암 병력\n- 다른 시험용 약물 또는 기기 임상시험에 참여 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Diagnosis of a solid tumour which meets the criteria for an open trial cohort:\n\n  * Cohorts 1 and 1-CN (biliary tract adenocarcinoma): Locally advanced or metastatic biliary tract adenocarcinoma (intra- and extrahepatic cholangiocarcinoma, gallbladder cancer, and ampullary cancer).Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards; or (in the opinion of the investigator) patients are unlikely to tolerate or derive clinically meaningful benefit from appropriate standard of care therapy.\n  * Cohort 2 (pancreatic ductal adenocarcinoma): Locally advanced or metastatic pancreatic ductal adenocarcinoma. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n  * Cohort 3 (lung adenocarcinoma): Locally advanced or metastatic lung adenocarcinoma. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n  * Cohort 4 (urothelial bladder cancer): Locally advanced or metastatic urothelial bladder cancer. Patients must have unresectable disease and have received all available conventional therapies known to confer clinical benefit for their disease based on local approved standards.\n* Written pathology report / molecular profiling report indicating Mouse double minute 2 homolog (MDM2) amplification or a copy number ≥8 and tumor protein 53 (TP53) wild-type status. This must have been confirmed with a tissue-based test. A test with liquid biopsy is not accepted.\n* Archival tissue (formalin fixed paraffin embedded \\[FFPE\\] tumour blocks or slides) must be provided for retrospective confirmation of MDM2 amplification and TP53 status.\n* Presence of at least 1 measurable target lesion according to Response Evaluation Criteria in Solid Tumours (RECIST) version 1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1.\n* Patient must be willing to donate mandatory blood samples for the pharmacokinetics, pharmacodynamics, and biomarker analyses\n* Adequate organ function\n* All toxicities related to previous anti-cancer therapies have resolved to ≤Common Terminology Criteria for Adverse Events (CTCAE) Grade 1 prior to trial treatment administration (except for alopecia and amenorrhea / menstrual disorders which can be of any grade and peripheral neuropathy which must be ≤CTCAE Grade 2).\n* Life expectancy ≥3 months at the start of treatment in the opinion of the investigator.\n* Provision of signed and dated, written informed consent form (ICF) in accordance with ICH-GCP and local legislation prior to any trial-specific procedures, sampling, or analyses.\n* Male or female patients ≥18 years old at the time of signature of the ICF. Women of childbearing potential (WOCBP) and men able to father a child must be ready and able to use 2 medically acceptable methods of birth control per ICH M3 (R2) that result in a low failure rate of less than 1% per year when used consistently and correctly beginning at screening, during trial participation, and until 6 months and 12 days after last dose for women and 102 days after last dose for men. A list of contraception methods meeting these criteria is provided in the patient information.\n\nExclusion Criteria:\n\n* Previous administration of brigimadlin (BI 907828) or any other MDM2-p53 or mouse double minute 4 (MDMX, MDM4)-p53 antagonist.\n* Active bleeding, significant risk of haemorrhage (e.g. previous severe gastrointestinal bleeding, previous haemorrhagic stroke at any time), or current bleeding disorder (e.g. haemophilia, von Willebrand disease).\n* Major surgery (major according to the investigator's assessment) performed within 4 weeks prior to start of trial treatment or planned within 6 months after screening (e.g. hip replacement).\n* Clinically significant previous or concomitant malignancies in the opinion of the investigator affecting the efficacy and/or outcome of the trial.\n* Patients who must or intend to continue the intake of restricted medications or any drug considered likely to interfere with the safe conduct of the trial.\n* Currently enrolled in another investigational device or drug trial.\n* Any history of, or concomitant condition that, in the opinion of the investigator, would compromise the patient's ability to comply with the trial or interfere with the evaluation of the safety and efficacy of the trial drug.\n* Patients not expected to comply with the protocol requirements or not expected to complete the trial as scheduled (e.g. chronic alcohol or drug abuse or any other condition that, in the investigator's opinion, makes the patient an unreliable trial participant).\n\nFurther exclusion criteria apply.",
   "enrollment": 99,
   "has_results": true,
@@ -116,20 +115,19 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [
-    "KRAS_wild",
     "other"
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전에 brigimadlin 등 유사 약물을 투여받은 적이 있는 경우",
-    "활동성 출혈 또는 출혈 위험이 있는 경우",
-    "최근 4주 이내에 주요 수술을 받았거나 수술이 예정된 경우",
-    "기타 동반된 악성 종양이나 임상시험 진행에 방해가 되는 질환이 있는 경우"
+    "이전 MDM2 또는 MDMX 억제제 치료 이력",
+    "활동성 출혈 또는 출혈 위험 병력(뇌출혈, 중증 위장관 출혈 등)",
+    "4주 이내의 주요 수술 이력",
+    "임상적으로 유의한 다른 암 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "표준 치료 이후 진행한, MDM2 증폭 및 TP53 야생형인 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "표준 치료를 완료한 MDM2 증폭 및 TP53 정상형을 가진 진행성·전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

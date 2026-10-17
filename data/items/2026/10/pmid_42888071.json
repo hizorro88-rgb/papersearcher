@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: The radiomic feature Statistical Percentile 10% (p10%), extracted from [¹⁸F]FDG-PET images, has been previously identified and validated as a robust predictor of distant progression-free survival (DPFS) in unresectable pancreatic cancer (LAPC). This study aimed to maximize its prognostic potential by combining p10% with CA19.9 serum levels and assessing its generalizability across distinct clinical settings.\nMETHODS: We analyzed 287 LAPC patients treated with chemoradiotherapy (CRT) and a validation cohort of 72 patients enrolled in the CASSANDRA trial (resectable/borderline-resectable PDAC). Cox models combined p10% with CA19.9 levels measured before RT in LAPC patients, and before surgery for CASSANDRA patients.\nRESULTS: p10% was independently prognostic in both cohorts and its integration with CA19.9 significantly improved the prediction. In the LAPC cohort, the combined model achieved C-index=0.71, with median DPFS of 4.0-vs-15.0 months (p<0.0001;HR=3.22). In the pre-surgery setting (CASSANDRA trial), the model showed good rank-order discrimination (C-index=0.65), with median survival of 11.6 months vs not-reached (p=0.0018). However, the calibration slope of 0.54 suggests that absolute risk prediction requires recalibration in the surgical cohort.\nCONCLUSIONS: Integrating p10% with CA19.9 provides a broader representation of tumor aggressiveness. The combined biomarkers demonstrate consistent performance across different disease stages supporting their use for treatment personalization.",
+ "authors": [
+  "Mori M",
+  "Fois M",
+  "Vincenzi MM",
+  "Tummineri R",
+  "Giannini L",
+  "Palazzo G",
+  "Parma G",
+  "Torrisi M"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42888071",
+ "importance": 0.71,
+ "key_points_ko": [
+  "국소진행성 췌장암 환자군에서 결합 모델의 C-index는 0.71이었으며, 위험군 간 중앙 원격 무진행 생존기간(DPFS)은 4.0개월 대 15.0개월로 유의한 차이를 보였습니다(HR 3.22, p<0.0001).",
+  "수술 전 환자군(CASSANDRA 임상시험)에서도 C-index 0.65, 중앙 생존기간 11.6개월 대 미도달로 유의한 예측력을 나타냈습니다(p=0.0018).",
+  "수술 환자군에서는 보정 기울기(calibration slope)가 0.54로 나타나 절대적인 위험 예측을 위해서는 모델의 재보정이 필요한 것으로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.1016/j.dld.2026.09.026",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42888071"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dig Liver Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42888071/"
+ },
+ "summary_ko": "본 연구는 [¹⁸F]FDG-PET 영상에서 추출한 라디오믹스(radiomics) 지표인 p10%와 혈청 CA19-9 수치를 결합하여 췌장암 환자의 원격 무진행 생존기간(DPFS) 예측 성능을 평가했습니다. 방사선화학요법(CRT)을 받은 국소진행성 췌장암(LAPC) 환자 287명과 CASSANDRA 임상시험에 등록된 절제 가능 및 경계성 절제 가능 췌장암 환자 72명을 대상으로 분석을 진행했습니다. 분석 결과 두 집단 모두에서 p10%와 CA19-9 결합 모델이 원격 재발 위험을 유의하게 구분해 냈습니다. 연구진은 이 복합 바이오마커가 다양한 병기에서 종양의 공격성을 파악하고 개인 맞춤 치료를 계획하는 데 기여할 수 있다고 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A robust biomarker combining radiomic and CA19.9 information to predict distant relapse-free survival after radiochemotherapy in pancreatic cancer",
+ "title_ko": "췌장암에서 방사선화학요법 후 원격 재발 없는 생존기간을 예측하기 위한 영상유전체학(라디오믹스) 및 CA19-9 결합 바이오마커",
+ "trial": null,
+ "type": "paper"
+}

@@ -22,11 +22,11 @@
  "id": "nct:NCT07875907",
  "importance": 0.81,
  "key_points_ko": [
-  "대상 질환은 조직학적으로 확진된 절제 불가능 또는 전이성 췌관선암(PDAC)입니다.",
-  "목표 환자 수는 총 36명이며, 3개 그룹(mFFX 병용, GnP 병용, 단독요법)으로 진행됩니다.",
-  "주요 목표는 추천 2상 용량 결정 및 종양 축소에 대한 초기 신호 확인입니다."
+  "목표 환자 수는 총 36명입니다.",
+  "mefloquine은 3+3 설계를 통해 mFFX 병용, GnP 병용, 단독요법(표준 치료 소진 후)의 세 개 군에서 평가됩니다.",
+  "주요 목표는 권장 2상 용량(recommended Phase 2 dose)을 결정하고 종양 제어 효과를 확인하는 것입니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07875907"
  },
- "summary_ko": "이 연구는 절제 불가능하거나 전이성인 췌관선암(PDAC) 환자를 대상으로 항말라리아제인 mefloquine(메플로퀸)의 안전한 용량을 찾고 기존 항암화학요법과의 병용 가능성을 평가하는 1상 임상시험입니다. 환자들은 modified FOLFIRINOX(mFFX) 병용, gemcitabine과 nab-paclitaxel(GnP) 병용, 또는 표준 치료 소진 후 단독요법의 세 그룹으로 나뉘어 참여합니다. 연구의 주된 목표는 추천 2상 용량을 결정하고 종양 축소 효과를 확인하는 것입니다. 목표 환자 수는 36명이며, 미국 플로리다 대학교(University of Florida)에서 진행됩니다.",
+ "summary_ko": "본 연구는 절제 불가능하거나 전이성인 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자를 대상으로 항말라리아 약물인 mefloquine의 안전한 용량을 찾고 항종양 효과를 평가하는 1상 임상시험입니다. 연구는 3+3 설계에 따라 modified FOLFIRINOX(mFFX) 병용, gemcitabine + nab-paclitaxel(GnP) 병용, 그리고 표준 치료 후 단독요법의 세 가지 코호트로 나누어 진행됩니다. 목표 인원은 36명이며, 권장 2상 용량 결정과 종양 축소 신호 확인을 목표로 합니다.",
  "summary_source": "llm",
  "tags": [
   "pancreatic ductal adenocarcinoma",
@@ -57,13 +57,13 @@
   "TYMS"
  ],
  "title": "Repurposing Mefloquine for Pancreatic Cancer Treatment",
- "title_ko": "말기 췌장암 치료를 위한 항말라리아제 mefloquine 재배치 임상시험",
+ "title_ko": "췌장암 치료를 위한 말라리아 치료제 mefloquine의 재창출 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 18세 이상의 조직학적으로 확진된 절제 불가능 또는 전이성 췌관선암(PDAC) 환자\n* RECIST 1.1 기준에 따른 측정 가능한 병변 보유\n* mFFX 또는 GnP지요법을 시작할 예정이거나, 표준 치료 후 재발/불응성인 경우 단독요법군 참여 가능\n* ECOG 수행능력 상태 0-2\n* 적절한 장기 및 혈액학적 기능 유지\n\n제외 기준:\n* 불안정성 또는 활성 중추신경계(CNS) 전이 환자\n* 경구 약물 복용 및 흡수에 영향을 미치는 위장관 장애 또는 연하곤란 환자\n* mefloquine 또는 관련 화합물에 대한 과민반응 병력\n* 정신질환, 간질 또는 발작 병력\n* 6개월 이내의 심근경색, 불안정성 협심증 또는 조절되지 않는 심장 질환 병력",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 절제 불가능 또는 전이성 PDAC 성인 환자 (18세 이상)\n- RECIST 1.1 기준 측정 가능한 병변 보유\n- mFFX 또는 GnP 치료를 시작할 예정이거나, 단독요법군의 경우 표준 치료 후 재발/불응성이거나 표준 치료 부적격/불내성인 환자\n- ECOG 수행능력 0~2\n- 장기 및 조혈 기능 기준 충족 (총 빌리루빈, AST, ALT, 알부민, 크레아티닌, ANC, 혈소판, 헤모글로빈 기준 만족)\n\n제외 기준:\n- 불안정하거나 활성 상태인 중추신경계(CNS) 전이\n- 경구 약물 복용 및 흡수에 영향을 미치는 연하 곤란 또는 위장관 장애\n- Mefloquine 또는 관련 화합물(퀴닌, 퀴니딘 등)에 대한 과민반응\n- 정신병, 주요 우울증, 불안 장애 등 정신과적 독성 위험이 높은 병력\n- 간질 또는 만성 발작 병력, 혹은 항경련제 복용 중인 환자\n- 최근 6개월 이내 심근경색 또는 불안정성 협심증, 심부전, 유의한 심장 질환 병력\n- QTcF 간격 연장 (남성 > 450 msec, 여성 > 470 msec)\n- CYP3A4 강력한 저해제 또는 유도제 사용 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Adults (≥ 18 years old) with histologically confirmed, unresectable or metastatic PDAC.\n* Subjects must have measurable disease per RECIST 1.1.\n* Subjects must be about to initiate a treatment regimen containing either mFFX or GnP, OR (for monotherapy arm) have relapsed/refractory disease following standard therapies, not candidates for standard-of-care therapies, or are intolerant of such therapies.\n* Subjects must plan to continue cancer care at UF Health for at least the next three months.\n* Subjects with known or suspected Gilbert's disease must be formally tested for UGT1A1\\*28 with results available to study team prior to treatment initiation\n* Adequate organ and hematologic function, as defined by:\n\n  1. Serum total bilirubin within 1.5 upper limit of normal (ULN) for the institution, with a trend downwards (biliary drainage is allowed for biliary obstruction)\n  2. AST and ALT ≤ 2.5 × ULN\n  3. Albumin ≥ 3.0 g/dL\n  4. Serum creatinine ≤ 1.5 × ULN\n  5. ANC \\> 1,500 cells/µl without the use of hematopoietic growth factors\n  6. Platelets ≥ 100,000/mm³\n  7. Hemoglobin ≥ 9 g/dL (blood transfusions are permitted for patients with hemoglobin levels below 9 g/dL)\n  8. Normal ECG or ECG without any clinically significant findings as defined by the treating physician\n* Subjects of childbearing potential (SOCBP) must be using an adequate method of contraception to avoid pregnancy throughout the study and for at least 7 months after the last dose of study drug (and for at least 9 months after the last dose of Oxaliplatin, for those receiving mFOLFIRINOX) to minimize the risk of pregnancy. Prior to study enrollment, SOCBP must be advised of the importance of avoiding pregnancy during trial participation and the potential risk factors for an unintentional pregnancy. SOCBP include any participant who has experienced menarche and who has not undergone successful surgical sterilization (hysterectomy, bilateral tubal ligation, or bilateral oophorectomy) or who is not post-menopausal. Post-menopause is defined as:\n\n  * Amenorrhea that has lasted for ≥ 12 consecutive months without another cause, or\n  * For women with irregular menstrual periods who are taking hormone replacement therapy (HRT), a documented serum follicle-stimulating hormone (FSH) level of greater than 35 mIU/mL.\n* Because of the potential for serious adverse reactions in nursing infants from study treatment, participants must not breastfeed during study participation and for 6 months after the End of Treatment Visit.\n* Partners of SOCBP must agree to use physician-approved contraceptive methods (e.g., abstinence, condoms, vasectomy) throughout the study and should avoid conceiving children for 6 months following the last dose of study drug.\n* Subjects must not have more than one active invasive malignancy at the time of enrollment (Subjects with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen or primary endpoint \\[as determined by the treating physician and approved by the PI\\] are eligible for this trial).\n* Written informed consent obtained from the subject and the subject agrees to comply with all the study-related procedures.\n* ECOG Performance Status of 0-2\n\nExclusion Criteria:\n\n* Patients with unstable or active CNS metastases\n* Patients with swallowing problems or any gastrointestinal disorder or malabsorption that may affect a patient's ability to take and absorb an oral medication\n* Known hypersensitivity to Mefloquine or related compounds (e.g., quinine and quinidine), or to any of the excipients contained in the formulation.\n* Use of strong CYP3A4 inhibitors or inducers which cannot be discontinued prior to study entry.\n* Known history of psychosis, major depression, major anxiety disorder or other psychiatric disorder that the PI believes will place the patient at higher risk of psychiatric toxicity\n* Any history of seizures, even if actively treated or remote in history\n* Planned Ketoconazole or Halofantrine use within 15 weeks of the last dose of Mefloquine\n* Current use of anticonvulsant medication at time of enrollment, including valproic acid, carbamazepine, phenobarbital, or phenytoin\n* Current use of quinine (Qualaquin) or quinidine at time of enrollment\n* History of, or active, epilepsy or chronic seizures per medical record or patient report.\n* Participant has had a myocardial infarction or unstable angina within 6 months prior to the start of study intervention, an LVEF \\< 50% as determined by MUGA scan or ECHO or currently has an uncontrolled illness including, but not limited to symptomatic congestive heart failure, clinically significant cardiac disease, unstable angina pectoris, cardiac arrhythmia, obligate use of a cardiac pacemaker, known family history of sudden cardiac death or long QT syndrome. ECHO or MUGA may be considered at the treating physician's discretion based upon clinical symptomatology or concerns for reduced LVEF even if the above criteria are not present.\n* Participant has a corrected QT interval (single ECG) using Fridericia's formula (QTcF) \\> 450 msec (men) or \\> 470 msec (women) during screening.\n* Participant requires treatment with concomitant drugs, herbal supplements or dietary products that are strong inhibitors or inducers of CYP3A4. If taking any of these, must be discontinued \\>14 days prior to start of investigational therapy.\n* Uncontrolled diarrhea, active infection requiring systemic antibiotics, known interstitial lung disease or other medical condition that precludes safe administration of this combination therapy consistent with manufacturer recommendations.\n* Unwilling/unable to comply with birth control requirements while on study.\n* Subjects who are confirmed to be pregnant\n* Known dihydrypyrimidine (DPD) deficiency\n* History of any other disease, metabolic dysfunction, clinical examination finding, or clinical laboratory finding giving reasonable suspicion of a disease or condition that contraindicates the use of protocol therapy or that might affect the interpretation of the results of the study or that puts the subject at high risk for treatment complications, in the opinion of the treating physician and as confirmed by the PI.\n* Prisoners or subjects who are involuntarily incarcerated, or subjects who are compulsorily detained for treatment of either a psychiatric or physical illness.",
   "enrollment": 36,
   "has_results": false,
@@ -80,15 +80,16 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "중추신경계(CNS) 전이가 있거나 불안정한 경우",
+    "중추신경계(CNS) 전이",
     "간질 또는 발작 병력",
-    "심근경색이나 조절되지 않는 심장 질환 병력",
-    "mefloquine 약물에 대한 과민반응"
+    "최근 6개월 이내 심근경색 또는 불안정성 협심증",
+    "정신과 질환 병력",
+    "Mefloquine 과민반응"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "절제 불가능 또는 전이성 췌관선암 환자를 대상으로 하며 표준 치료 전후의 다양한 상태에서 참여할 수 있습니다.",
+   "notes_ko": "절제 불가능 또는 전이성 췌관선암 환자를 대상으로 mFFX, GnP 병용 또는 단독요법으로 mefloquine을 평가하는 1상 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

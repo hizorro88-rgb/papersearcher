@@ -1,0 +1,63 @@
+{
+ "abstract": "<h4>Background: </h4> /Objectives: Pancreatic cancer carries a five-year relative survival of 13%. Polygenic risk scores (PRS) rank inherited susceptibility across common variants. Prior syntheses pooled PRS association and discrimination, but none asked whether a PRS changes a clinical decision. We synthesized evidence on the clinical utility of PRS for pancreatic cancer risk assessment. <h4>Methods:</h4> In this PROSPERO-registered review (CRD42024511326), we searched four databases through May 11, 2026, for studies evaluating a PRS for primary pancreatic cancer risk in adults, alone or with clinical predictors. We recorded discrimination as the prerequisite for utility and organized utility across five prespecified domains: threshold-based accuracy, incremental value, calibrated absolute risk, decision-analytic output, and economic impact. We synthesized narratively and appraised risk of bias with PROBAST. <h4>Results:</h4> Forty-three studies met the inclusion and exclusion criteria, including 25 from the UK Biobank. Ten of 16 standalone discrimination estimates fell between 0.56 and 0.64. Adding PRS to a clinical model increased discrimination by at most 0.05 in general populations. Combined PRS and clinical models exceeded 0.80 only in three diabetes-focused studies. Six studies reported calibration, four reclassification, two decision-curve net benefit, none cost-effectiveness, and 20 had no translational milestone. Thirteen studies were at high risk of bias, with 11 in the analysis domain. <h4>Conclusions:</h4> Pancreatic cancer PRS discriminates modestly alone and adds most where prior risk is highest. Actionable use awaits an externally validated absolute-risk model with a prespecified threshold and a decision analysis.",
+ "authors": [
+  "Elsaid MI",
+  "Kweon Y",
+  "Bhattacharyya O",
+  "Alish Y",
+  "Chung D",
+  "Fernández S",
+  "Tounkara F",
+  "Alahmadi A"
+ ],
+ "categories": [
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.20944/preprints202610.1580.v1",
+ "importance": 0.63,
+ "key_points_ko": [
+  "총 43건의 연구 중 단독 다유전자 위험 점수(PRS) 변별도 추정치 16건 가운데 10건이 0.56~0.64 수준으로 보통에 머물렀습니다.",
+  "일반 인구에서 기존 임상 예측 모델에 PRS를 추가했을 때 변별도 상승은 최대 0.05에 불과했습니다.",
+  "PRS와 임상 인자를 결합한 모델이 변별도 0.80을 초과한 경우는 당뇨병 환자에 초점을 맞춘 3개 연구에 불과했습니다.",
+  "포함된 연구 중 비용 효과성을 평가한 연구는 전혀 없었으며, 13건의 연구는 비뚤림 위험(Risk of Bias)이 높은 것으로 평가되었습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.20944/preprints202610.1580.v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Preprints.org",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1343383"
+ },
+ "summary_ko": "이 연구는 흔한 유전 변이들을 종합해 암 감수성을 평가하는 다유전자 위험 점수(PRS)가 췌장암 위험 평가 및 조기 발견에 실질적으로 유용한지 분석한 체계적 문헌고찰입니다. 성인의 원발성 췌장암 위험을 평가한 총 43건의 연구를 종합하여 분석했습니다. 단독 PRS 모델은 변별력이 0.56~0.64 수준으로 다소 낮았으며 일반 인구 집단에서 기존 임상 모델에 추가했을 때 변별력 상승폭은 최대 0.05에 그쳤습니다. 연구진은 당뇨병 환자와 같은 고위험군에서 가장 큰 부가 가치가 나타났으며, 실제 임상 적용을 위해서는 외부 검증된 절대 위험 모델과 의사결정 분석이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Polygenic Risk Scores for Pancreatic Cancer Risk Prediction and Early Detection: A Systematic Evidence Review of Clinical Utility",
+ "title_ko": "췌장암 위험 예측 및 조기 발견을 위한 다유전자 위험 점수의 임상적 유용성에 관한 체계적 문헌고찰",
+ "trial": null,
+ "type": "preprint"
+}

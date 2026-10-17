@@ -19,11 +19,11 @@
  "id": "nct:NCT06091930",
  "importance": 0.72,
  "key_points_ko": [
-  "목표 인원은 21명이며 아시아 환자를 대상으로 진행되었습니다.",
-  "BI 765049 단독 또는 ezabenlimab과의 병용 투여 시 환자가 견딜 수 있는 최고 용량을 찾기 위한 제1상(PHASE1) 임상시험입니다.",
-  "종양 조직에서 B7-H6 발현이 확인된 환자가 참여 대상입니다."
+  "참여 대상은 B7-H6 양성인 진행성 고형암(췌장암 포함) 아시아 성인 환자 21명 목표입니다.",
+  "BI 765049 단독 및 ezabenlimab(에자벤리맙) 병용 투여의 내복 용량과 안전성을 평가합니다.",
+  "치료는 3주 주기로 정맥 주사 투여 방식으로 진행됩니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06091930"
  },
- "summary_ko": "이 연구는 위암, 대장암, 췌장암, 간암, 두경부암, 비소세포폐암 등 진행성 고형암을 가진 아시아 성인 환자를 대상으로 합니다. 이전 치료에 실패했거나 마땅한 표준 치료가 없는 환자 중 B7-H6 표지자가 확인된 경우 참여할 수 있습니다. 면역체계를 돕는 약물인 BI 765049를 단독 또는 ezabenlimab과 병용하여 투여하며, 최대 3년 동안 주기적으로 투약하고 안전성과 종근 축소 효과를 평가합니다. 해당 임상시험은 현재 종료(TERMINATED) 상태입니다.",
+ "summary_ko": "이 연구는 B7-H6 단백질이 발현되는 진행성 고형암을 가진 아시아 성인 환자를 대상으로 합니다. 위암, 대장암, 췌장암, 간암, 두경부암, 비소세포폐암 환자 중 기존 치료에 실패했거나 대안이 없는 환자들이 참여 대상입니다. 연구의 목적은 BI 765049를 단독으로 또는 ezabenlimab과 함께 투여했을 때의 최고 용량과 안전성을 확인하고 종양 축소 효과를 평가하는 것입니다. 약물은 정맥 주사로 투여되며, 환자는 3년 동안 주기적으로 상태를 점검받습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study to Test Different Doses of BI 765049 Alone and in Combination With Ezabenlimab in Asian People With Advanced Cancer (Solid Tumours) Positive for B7-H6",
- "title_ko": "B7-H6 양성 진행성 암 환자를 대상으로 BI 765049 단독 투여 및 ezabenlimab 병용 투여의 용량을 평가하는 제1상 임상시험",
+ "title_ko": "B7-H6 양성 진행성 암 환자를 대상으로 BI 765049 단독 투여 및 ezabenlimab 병용 투여를 평가하는 1상 임상시험",
  "trial": {
   "conditions": [
    "Gastrointestinal Cancer",
@@ -61,7 +61,7 @@
    "Liver Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인.\n- 진행성, 절제 불가능 및/또는 전이성 췌장암 등 조직학적 또는 세포학적으로 확진된 환자.\n- 기존 치료에도 불구하고 질병이 진행되었거나, 기존 치료를 견딜 수 없거나 부적합하며, 혹은 마땅한 표준 치료가 없는 환자.\n- B7-H6 발현 확인을 위한 종양 조직 제출에 동의한 환자.\n- 종양 조직 검사에서 B7-H6 발현이 확인된 환자.\n- ECOG 수행능력 평가 0 또는 1.\n- 중추신경계 외에 RECIST v1.1 기준에 따라 평가 가능한 표적 병병이 최소 1개 이상 있는 환자.\n\n제외 기준:\n- 첫 투여 전 28일 이내에 주요 수술을 받은 이력이 있는 환자.\n- 최근 3년 이내에 본 임상시험 대상 암 외에 다른 악성 종양 이력이 있는 환자 (효과적으로 치료된 피부암, 자궁경부 상피내암 등 제외).\n- 연수막 질환(leptomeningeal disease) 또는 척수 압박이 있는 환자.\n- 안전하게 중단할 수 없는 항응고제 치료가 필요한 환자.\n- C형간염 바이러스(HCV) 또는 B형간염 바이러스(HBV) 감염이 있는 환자.\n- 첫 투여 전 7일 이내에 전신 항균 치료가 필요한 감염이 있는 환자.\n- 인간면역결핍바이러스(HIV) 감염 이력이 기준에 부합하는 환자.",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- 진행성, 절제 불가능 및/또는 전이성 췌장암 등의 조직학적 또는 세포학적으로 확진된 환자\n- 기존 치료에 질병 진행을 보였거나, 기존 치료에 불내성이거나 적합하지 않거나, 대안 치료가 없는 환자\n- B7-H6 발현이 확인된 종양 조직 검체 제공에 동의한 환자\n- ECOG 수행능력 평가 0 또는 1\n- 중추신경계 외에 평가 가능한 표적 병변이 최소 1개 이상 존재\n\n제외 기준:\n- 첫 투여 전 28일 이내 주요 수술을 받은 병력\n- 최근 3년 이내에 본 임상시험 대상 암 외의 다른 악성종양 병력\n- 软막 질환(leptomeningeal disease) 또는 척수 압박\n- 조절되지 않는 B형 간염, C형 간염, 또는 HIV 감염\n- 임상시험용 의약품 첫 투여 전 7일 이내에 전신 항균 치료가 필요한 감염이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Signed and dated, written inform consent form (ICF) (ICF1 for B7-H6 testing for all patients except those with colorectal cancer (CRC); ICF2 for all patients) describing the study in accordance with International Council on Harmonisation Good Clinical Practice (ICH-GCP) and local legislation prior to any trial-specific procedures, sampling, or analyses.\n* ≥18 years of age at the time of signature on the ICFs (ICF1 and ICF2).\n* Histologically or cytologically confirmed diagnosis of an advanced, unresectable, and/or metastatic gastrointestinal cancer, colorectal cancer, pancreatic cancer, liver cancer, head and neck cancer, or lung cancer.\n* Disease progression despite conventional treatment, intolerant to or not a candidate for conventional treatment, or with a tumour for which no conventional treatment exists.\n* Agree to the collection of tumour samples (as slides from archival diagnostic samples or fresh tumour biopsies) for confirmation of B7-H6 expression at Screening Visit 02 for colorectal cancer (CRC) patients or at Screening Visit 01 for all other patients.\n* Confirmed B7-H6 expression on tumour tissue sample (archived or fresh tumour biopsy) based on central pathology review except for patients diagnosed with advanced or metastatic colorectal cancer (CRC).\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* At least one evaluable target lesion as defined per response evaluation criteria in solid tumors (RECIST v1.1), outside of the central nervous system (CNS), separate from any lesion(s) identified for tumour biopsy. Tumour lesions that have been irradiated ≥28 days before the start of treatment, and have subsequently had documented progression, may be chosen as target lesions only in the absence of measurable lesions that have not been irradiated.\n* Further inclusion criteria apply\n\nExclusion Criteria:\n\n* History of a major surgery within 28 days prior to first dose of BI 765049 (major according to the Investigator's assessment).\n* Previous or concomitant malignancies other than the one treated in this trial within the last 3 years except:\n\n  * Effectively treated non-melanoma skin cancers\n  * Effectively treated carcinoma in situ of the cervix\n  * Effectively treated ductal carcinoma in situ\n  * Other effectively treated malignancy that is considered cured by local treatment\n* Known leptomeningeal disease or spinal cord compression due to disease.\n* Require anticoagulant treatment which cannot be safely interrupted, if medically needed for a study procedure (e.g., biopsy) based on the opinion of the Investigator.\n* Hepatitis C virus (HCV) infection, defined as:\n\n  * Currently receiving curative antiviral treatment for HCV infection, and/or\n  * HCV viral load is above the limit of quantification (HCV Ribonucleic acid (RNA) positive)\n* Hepatitis B virus (HBV) infection with the following laboratory evidence: positive results of hepatitis B surface (HBs) antigen and presence of Hepatitis B core (HBc) antibody together with HBV-deoxyribonucleic acid (DNA).\n* Presence of any infection requiring systemic antimicrobial treatment within 7 days prior to first dose of trial medication. Patients who have any clinical signs of infection (e.g. fever or leukocytosis) within 48 hours prior to first dose of trial medication are not eligible.\n* Patients with known history of human immunodeficiency virus (HIV) infection who meet one or more of the following criteria:\n\n  * Cluster of differentiation 4 (CD4+) count \\<350 cells/μL (local lab assessment)\n  * Viral load \\>400 copies/mL (local lab assessment)\n  * Not receiving antiretroviral therapy\n  * Receiving established antiretroviral therapy for less than four weeks prior to the start of study treatment\n  * History of acquired immunodeficiency syndrome (AIDS)-defining opportunistic infections within 12 months prior to start of study treatment Patients with a history of HIV who do not meet any of the criteria above are eligible to participate, but the patient must be under the care of a HIV/Infectious Diseases specialist, or a HIV/Infectious Diseases specialist must be consulted prior to inclusion.\n* Further exclusion criteria apply",
   "enrollment": 21,
   "has_results": false,
@@ -81,15 +81,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
+    "중추신경계 전이(뇌막 질환 또는 척수 압박)",
+    "활동성 B형, C형 간염 또는 HIV 감염",
     "최근 3년 이내 다른 암 병력",
-    "뇌전이 또는 척수 압박",
-    "B형 또는 C형 간염 바이러스 감염",
-    "활동성 감염 질환"
+    "최근 28일 이내 주요 수술 이력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "B7-H6 발현이 확인된 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "기존 치료에 실패한 B7-H6 양성 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

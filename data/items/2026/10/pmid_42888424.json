@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is one of the most fatal malignancies with the lowest 5-year survival worldwide. Radioresistance remains the major challenge for pancreatic cancer treatment. The aim of this study is to unravel the mechanism underlying PAFAH1B1-regulated radiosensitivity in pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: Immunohistochemistry (IHC), western blot or qRT-PCR were employed to detect the expression of PAFAH1B1, PUM2 and other molecules. Two radiation-resistant (RR) PDAC cell lines and a xenograft mouse model were established. CCK-8, colony formation assays and flow cytometry analysis were used to assess cell proliferation and apoptosis in PDAC cells, respectively. Ferroptosis was evaluated using commercial kits and BODIPY 581/591 C11 staining. The association between PUM2 and PAFAH1B1 3'UTR, as well as between miR-421/miR-301a-3p and PAFAH1B1 3'UTR, were detected by luciferase and RNA immunoprecipitation (RIP) assays.\nRESULTS: PAFAH1B1 was downregulated in PDAC, and it was associated with unfavorable prognosis and radiotherapy response of PDAC patients. PAFAH1B1 overexpression enhanced the radiosensitivity to 125I particle in BxPC-3-RR, PANC-1-RR cells and PANC-1-RR xenograft tumors. Overexpression of PAFAH1B1 potentiated radiation-impaired cell viability and proliferation via triggering ferroptosis in PDAC cells. Mechanistically, PUM2 increased PAFAH1B1 expression via competitively binding to PAFAH1B1 3'UTR with miR-421 and miR-301a-3p. Moreover, PUM2 promoted radiation-induced ferroptosis in a PAFAH1B1-dependent manner.\nCONCLUSION: PUM2/PAFAH1B1 axis decreased the radioresistance to 125I radioactive particles in PDAC via triggering ferroptosis.",
+ "authors": [
+  "Bi Y",
+  "Shen W",
+  "Ma C",
+  "Tang A",
+  "Jian K",
+  "Jiang L",
+  "Liu Y",
+  "Min M"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42888424",
+ "importance": 0.59,
+ "key_points_ko": [
+  "췌관선암에서 PAFAH1B1 단백질의 발현 감소는 환자의 불량한 예후 및 방사선 치료 반응 저하와 관련이 있었습니다.",
+  "방사선 저항성 암세포 및 동물 모델에서 PAFAH1B1 과발현 시 페롭토시스가 유도되어 125I 방사선 감수성이 향상되었습니다.",
+  "PUM2는 miR-421 및 miR-301a-3p와의 경쟁적 결합을 통해 PAFAH1B1을 안정화시켜 방사선 저항성을 줄였습니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.1186/s12967-026-08948-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42888424"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42888424/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)의 주요 치료 난제인 방사선 저항성을 극복하기 위해 PAFAH1B1 단백질의 조절 기전을 규명한 전임상 기초 연구입니다. 연구진은 방사선 저항성 췌장암 세포주와 마우스 이종이식 모델을 제작하여 세포 증식, 사멸 및 페롭토시스(ferroptosis, 철 의존성 세포사멸) 변화를 분석했습니다. 연구 결과, 췌관선암 조직에서 PAFAH1B1 발현이 낮을수록 환자의 예후 및 방사선 치료 반응이 불량했습니다. PUM2 단백질이 마이크로RNA(miR-421, miR-301a-3p)와의 경쟁적 결합을 통해 PAFAH1B1 발현을 안정화시키고, 페롭토시스를 유발하여 125I 방사선 입자에 대한 감수성을 높였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PAFAH1B1 stabilization, through PUM2-mediated competitive binding with miRNAs on its' 3'-UTR, takes active actions on ferroptosis to overcome the radioresistance to 125I radioactive particles of pancreatic ductal adenocarcinoma",
+ "title_ko": "PUM2 매개 조절을 통한 PAFAH1B1 안정화가 페롭토시스를 유도하여 췌관선암의 125I 방사선 입자 저항성을 극복함",
+ "trial": null,
+ "type": "paper"
+}

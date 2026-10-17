@@ -23,11 +23,11 @@
  "id": "nct:NCT07807956",
  "importance": 0.83,
  "key_points_ko": [
-  "목표 환자 수는 약 130명입니다.",
-  "ABBV-253을 정맥(IV) 주사로 투여합니다.",
-  "초록에 생존기간이나 반응률 등의 효과 수치는 명시되지 않음."
+  "목표 인원은 약 130명이며 전 세계 약 11개 기관에서 진행됩니다.",
+  "췌장관선암(PDAC)을 포함한 진행성 고형암 성인 환자가 참여 대상입니다.",
+  "정맥 주사(IV infusion) 방식으로 ABBV-253이 투여됩니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07807956"
  },
- "summary_ko": "이 연구는 진행성 고형암 성인 환자를 대상으로 신약 ABBV-253의 안전성과 체내 약동학을 평가하기 위한 1상 임상시험입니다. 췌장관선암(PDAC)을 포함한 진행성 고형암 환자들을 대상으로 ABBV-253의 용량을 단계적으로 증량하며 투여합니다. 전 세계 약 11개 기관에서 약 130명의 환자를 모집합니다. 환자들은 정맥 주사를 통해 ABBV-253을 투여받으며, 정기적인 검사와 부작용 모니터링을 거치게 됩니다.",
+ "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 신약 ABBV-253의 안전성과 체내 약동학을 평가하기 위해 진행됩니다. 췌장관선암(PDAC)을 포함한 진행성 고형암 성인 환자들을 대상으로 정맥 주사 형태로 ABBV-253을 투여합니다. 연구는 용량 증량(Dose Escalation) 단계와 용량 최적화(Dose Optimization) 단계로 나뉘어 진행됩니다. 총 목표 인원은 약 130명이며, 전 세계 약 11개 기관에서 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "Advanced Solid Tumors",
@@ -65,7 +65,7 @@
   "ABBV-253"
  ],
  "title": "A Study to Assess Adverse Events, Change in Disease Activity and How Intravenous ABBV-253 Moves Through the Body in Adult Participants With Advanced Solid Tumors",
- "title_ko": "진행성 고형암 성인 환자를 대상으로 정맥 투여하는 ABBV-253의 부작용, 질병 활성도 변화 및 체내 이동을 평가하는 연구",
+ "title_ko": "진행성 고형암 성인 환자를 대상으로 정맥 투여용 ABBV-253의 이상반응, 질병 활성도 변화 및 체내 이동을 평가하는 연구",
  "trial": {
   "conditions": [
    "Advanced Solid Tumors",
@@ -85,7 +85,7 @@
     "phone": "844-663-3742"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 진단된 악성 고형암(비소세포폐암, 대장암, 두경부암, 췌장관선암(PDAC), 위식도 선암, 난소암, 담도암 등 포함) 환자 (파트 1 단독요법 용량 증량에 한함)\n* ECOG 수행능력 0 또는 1\n* RECIST v1.1 기준 평가 가능하고 측정 가능한 병변 보유\n\n제외 기준:\n* 다른 악성肿瘤 병력 (단, 첫 투여 3년 이내에 활성 질환이 없고 재발 위험이 낮은 경우 등은 예외)\n* 고등급 장액성 난소암 외의 다른 조직학적 난소암 환자\n* 치료받지 않은 뇌전이 또는 수막 전이 환자\n* 전신 스테로이드 치료가 필요했던 간질성 폐질환(ILD) 또는 폐렴 병력이나 소견",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 진단된 악성 고형암(비소세포폐암, 대장암, 두경부암, 췌장관선암, 위식도암, 난소암, 담도암 등 포함)\n- ECOG 수행능력 0 또는 1\n- RECIST Version 1.1에 따른 평가 및 측정 가능한 병변 보유\n\n제외 기준:\n- 다른 악성 종양의 병력(단, 3년 이내 활성 질환이 없고 재발 위험이 낮은 경우, 제자리암, 기저세포암 등은 예외)\n- 고등급 장액성 난소암이 아닌 다른 조직학적 난소암\n- 치료받지 않은 뇌전이 또는 수막전이\n- 전신 스테로이드 치료가 필요했거나 흉부 CT에서 확인된 간질성폐질환(ILD) 또는 폐렴 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Part 1 monotherapy dose escalation only: Participants with a diagnosis of a malignant solid tumor by histology (WHO criteria), including, but not limited to non-small cell lung cancer (NSCLC), colorectal cancer (CRC), head and neck squamous cell carcinoma (HNSCC), PDAC, gastroesophageal adenocarcinoma (GEA), ovarian cancer (OC), and biliary tract cancer (BTC)\n* ECOG performance status of 0 or 1\n* Participants with evaluable and measurable disease per RECIST Version 1.1.\n\nExclusion Criteria:\n\n* History of other malignancies, with the following exceptions:\n\n  * No known active disease present within 3 years prior to first dose of study treatment and felt to be at low risk of recurrence by the treating investigator.\n  * Adequately treated in situ carcinoma without evidence of disease.\n  * Basal cell carcinoma of the skin or localized squamous cell carcinoma of the skin without evidence of disease.\n* Participants with ovarian cancer with histologies other than high grade serous ovarian cancer including endometrioid, low grade, clear cell, mucinous, or borderline ovarian tumor.\n* Untreated brain or meningeal metastases (i.e., subjects with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy).\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids or any evidence of ILD or pneumonitis on Screening chest CT scan.",
   "enrollment": 130,
   "has_results": false,
@@ -102,14 +102,14 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "치료받지 않은 뇌전이 또는 수막 전이",
-    "간질성 폐질환(ILD) 또는 폐렴 병력",
-    "다른 악성 종양 병력"
+    "치료받지 않은 뇌전이 또는 수막전이",
+    "간질성폐질환(ILD) 또는 폐렴 병력",
+    "3년 이내 다른 악성 종양 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "진행성 췌장관선암을 포함한 고형암 환자를 위한 1상 용량 증량 임상시험입니다.",
+   "notes_ko": "진행성 췌장관선암을 포함한 고형암 환자를 위한 1상 용량 증량 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

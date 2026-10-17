@@ -20,11 +20,11 @@
  "id": "nct:NCT07186842",
  "importance": 0.78,
  "key_points_ko": [
-  "목표 인원은 총 245명입니다.",
-  "연구의 주요 목적은 BNT329의 안전성 확인 및 최적 용량 설정입니다.",
+  "목표 환자 수는 최대 245명입니다.",
+  "Part D는 2차 치료 이상을 받은 췌장암(PDAC) 환자를 대상으로 합니다.",
   "치료 기간은 최대 2년입니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07186842"
  },
- "summary_ko": "이 연구는 CA19-9를 발현하는 진행성 고형암 환자를 대상으로 시험약 BNT329의 안전성을 평가하고 최적의 용량을 찾기 위한 1/2상 임상시험입니다. 연구의 주요 목적은 부작용의 발생 횟수와 심각도를 측정하여 안전성을 확인하는 것입니다. 또한 치료에 반응하는 환자 수와 종양이 성장하거나 확산되지 않는 기간을 측정하여 BNT329의 효과를 평가합니다. 연구는 용량 증량을 위한 파트 A, B, C와 췌장암(PDAC) 환자를 대상으로 한 파트 D로 구성되어 있습니다.",
+ "summary_ko": "이 연구는 종양 표지자 CA19-9를 발현하는 진행성 고형암 환자를 대상으로 연구용 신약 BNT329의 안전성을 평가하고 최적의 용량을 찾기 위한 1/2상 임상시험입니다. 시험은 용량 증량(Parts A, B, C)과 용량 최적화 및 개념 증명(Part D) 단계로 구성되며, 췌장암(PDAC)을 포함한 다양한 고형암 환자가 참여합니다. 주요 평가지표는 부작용 발생 건수와 심각도, 치료 반응률, 종양 성장이 멈추거나 퍼지지 않는 기간입니다. 목표 환자 수는 245명입니다.",
  "summary_source": "llm",
  "tags": [
   "Anti-drug conjugate (ADC)",
@@ -62,7 +62,7 @@
   "Pancreatic ductal adenocarcinoma"
  ],
  "title": "A Clinical Trial to Test if the Investigational Drug BNT329 is Safe and Potentially Beneficial for People With Advanced Solid Tumors Known to Express the Tumor Marker CA19-9",
- "title_ko": "진행성 고형암 환자를 위한 시험약 BNT329의 안전성과 유효성을 평가하는 임상시험",
+ "title_ko": "CA19-9 발현 진행성 고형암 환자를 대상으로 한 연구용 약물 BNT329의 안전성 및 유효성 평가 임상시험",
  "trial": {
   "conditions": [
    "Advanced Solid Cancers"
@@ -74,7 +74,7 @@
     "phone": "+49 6131 9084"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 동부종양학협력그룹(ECOG) 수행능력 평가 0에서 1인 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자\n- 연구자의 견해에 따라 기대여명이 3개월 이상인 환자\n- 적절한 장기, 응고 및 혈액학적 기능을 가진 환자\n- CA19-9를 발현하는 것으로 알려진 진행성/전이성 암 진단을 받고 표준 치료에 실패한 환자\n\n제외 기준:\n- 다른 연구용 임상시험에 참여 중인 환자\n- 첫 번째 임상시험용 의약품(IMP) 투여 전 2주 이내에 전신 스테로이드나 기타 면역억제 치료를 받은 환자\n- 첫 번째 IMP 투여 전 4주 이내에 생백신을 접종받았거나 접종할 계획이 있는 환자\n- 뇌전이 또는 척수 압박이 있는 환자(증상이 없거나 치료 후 안정된 경우는 예외)\n- 간질성 폐질환(ILD)/폐렴 병력이 있거나 현재 앓고 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 동유럽종양학협력그룹(ECOG) 수행능력 평가 점수 0에서 1인 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자(난소암은 다른 기준 적용)\n- 연구자의 견해에 따라 기대여명이 3개월 이상인 환자\n- 프로토콜에 정의된 적절한 장기, 응고, 혈액학적 기능을 가진 환자\n- CA19-9를 발현하는 조직학적으로 확진된 진행성/전이성 암(췌장암 포함)을 가진 환자\n\n제외 기준:\n- 다른 임상시험에 참여 중이거나 제외 기간에 있는 환자\n- 첫 투여 전 2주 이내에 전신 스테로이드(프레드니손 기준 10 mg/일 초과) 또는 기타 면역억제 치료를 받은 환자\n- 첫 투여 전 4주 이내에 생백신을 투여받았거나 투여받을 예정인 환자\n- 증상이 있거나 치료 후 안정화되지 않은 뇌전이 또는 척수 압박이 있는 환자\n- 스테로이드 치료가 필요한 간질성 폐질환(ILD)/폐렴 병력이 있거나 현재 진행 중인 환자",
   "eligibility_text": "Key Inclusion Criteria\n\nAll participants and parts:\n\n* Have an Eastern Cooperative Oncology Group performance score of 0 to 1\n* Have measurable disease per RECIST v1.1, except for ovarian cancer where participants will be evaluated according to Gynecologic Cancer InterGroup criteria.\n* Have a life expectancy of ≥3 months in the opinion of the investigator.\n* Have adequate organ, coagulation, and hematologic function as defined in the protocol.\n\nParts A, B, and C:\n\n* Have a histologically confirmed advanced/metastatic tumor type that is known to express CA19-9: PDAC, carcinoma of the bile ducts, invasive urothelial carcinoma of the bladder and urinary tract, colorectal adenocarcinoma, adenocarcinoma of the esophagogastric junction, gastric adenocarcinoma, endometrial carcinoma, and epithelial ovarian cancer (including adenocarcinoma of the fallopian tube and peritoneal epithelial cancer \\[except mesothelioma\\]).\n* Have no available standard of care therapy likely to confer clinical benefit in the opinion of the investigator. Participants must have received all available standard therapies, including targeted therapies based on mutation status (per guidelines from the Food and Drug Administration, American Society of Clinical Oncology, European Society for Medical Oncology, or local guidelines used at the site), and failed at least first-line standard of care therapy prior to enrollment.\n\nPart D:\n\n* Have a histologically confirmed diagnosis of PDAC.\n* Must have been offered all available standard therapies including targeted therapies based on mutation status. Established second-line therapies available must not be withheld.\n* Have radiographic disease progression and no available standard of care therapy likely to confer clinical benefit in the opinion of the investigator.\n\nKey Exclusion Criteria\n\nAll participants and parts:\n\n* Are enrolled in another investigational study or are subject to exclusion periods from another investigational study.\n* Have had an inadequate washout period for prior anticancer treatment prior to the first dose of investigational medicinal product (IMP) as defined in the protocol.\n* Have received systemic steroids (\\>10 mg/day of prednisone or its equivalent) or other immunosuppressive therapy within 2 weeks prior to the first dose of IMP. The following are exceptions to this criterion:\n\n  * Inhaled sprays, topical steroids, or local steroid injections (e.g., intra-articular injection).\n  * Systemic steroids at physiological doses as replacement therapy (e.g., physiological corticosteroid replacement therapy for adrenal or pituitary insufficiency).\n  * Steroids as pre-medication for hypersensitivity reactions (e.g., computed tomography (CT) scan pre-medication).\n* Have received any live vaccine within 4 weeks prior to the first dose of IMP or intend to receive a live vaccine during the study.\n* Have brain metastases or spinal cord compression unless asymptomatic or treated and stable off steroids and anticonvulsants for at least 2 weeks prior to the first dose of IMP.\n* Have a history of (noninfectious) interstitial lung disease (ILD)/pneumonitis that required steroids, current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening.\n* Have active gastric and duodenal ulcers, ulcerative colitis, or other gastrointestinal conditions that may cause bleeding or perforation in the opinion of the treating investigator.\n* Have an active infection that requires systemic therapy within 1 week prior to the first dose of IMP. Participants receiving prophylactic anti-infective therapy (e.g., to prevent a urinary tract infection or chronic obstructive pulmonary disease exacerbation) may be eligible after discussion with the sponsor.\n* Have unresolved toxicities from previous anticancer therapy as defined in the protocol.\n\nNOTE: Other protocol defined inclusion/exclusion criteria apply.",
   "enrollment": 245,
   "has_results": false,
@@ -96,16 +96,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "다른 임상시험 참여 중",
-    "최근 2주 이내 전신 스테로이드 또는 면역억제제 투여",
-    "최근 4주 이내 생백신 접종",
-    "치료되지 않은 뇌전이 또는 척수 압박",
-    "간질성 폐질환(ILD) 병력 또는 현재 발생"
+    "뇌전이 또는 척수 압박",
+    "간질성 폐질환(ILD)/폐렴 병력",
+    "활동성 감염",
+    "출혈이나 천공을 유발할 수 있는 위장관 질환"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료를 받았으나 반응이 없고 CA19-9를 발현하는 진행성 췌장암을 포함한 고형암 환자를 위한 임상시험입니다.",
+   "notes_ko": "이전 치료를 실패한 CA19-9 발현 진행성 고형암 및 췌장암 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

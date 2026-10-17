@@ -20,11 +20,11 @@
  "id": "nct:NCT06084481",
  "importance": 0.84,
  "key_points_ko": [
-  "목표 환자 수는 전 세계적으로 약 325명이며 국내 6개 기관이 참여합니다.",
-  "ABBV-400 단독 요법(코호트 1-8) 및 itraconazole 또는 bevacizumab 병용 요법(코호트 9-10)으로 진행됩니다.",
-  "치료 기간은 최대 3년이며, 추가로 최대 2년의 안전성 추적 관찰이 이루어집니다."
+  "목표 환자 수는 전 세계 약 325명이며 국내 6개 기관이 참여합니다.",
+  "환자들은 ABBV-400 단독 투여 또는 itraconazole(ITZ), bevacizumab과의 병용 투여를 받습니다.",
+  "연구의 주요 목적은 부작용(안전성)과 질병 활성도의 변화를 평가하는 것입니다."
  ],
- "last_updated": "2026-10-16",
+ "last_updated": "2026-10-17",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06084481"
  },
- "summary_ko": "이 연구는 진행성 고형암을 앓고 있는 성인 환자를 대상으로 시험약 ABBV-400 투여 시 발생하는 부작용과 질병 활성도의 변화를 평가하기 위한 1상 임상시험입니다. 췌관선암(PDAC)을 포함한 다양한 고형암 환자들이 참여하며, ABBV-400 단독 요법 또는 itraconazole(ITZ) 혹은 bevacizumab과의 병용 요법으로 정맥 투여를 받습니다. 전 세계 약 54개 기관에서 총 325명의 환자 등록을 목표로 진행되며, 국내 6개 기관이 포함되어 있습니다. 환자들은 최대 3년 동안 치료 기간을 거치고 최대 2년의 안전성 추적 관찰 기간을 갖습니다.",
+ "summary_ko": "이 연구는 진행성 고형암 환자를 대상으로 신약 ABBV-400을 단독 투여하거나 다른 약물과 병용 투여할 때의 부작용과 질병 활성도 변화를 평가하기 위한 1상 임상시험입니다. 췌장관선암(PDAC)을 포함한 여러 진행성 고형암 환자 약 325명을 대상으로 전 세계 약 54개 기관에서 진행되며, 국내 기관도 6곳 포함됩니다. 환자들은 ABBV-400 단독요법, itraconazole(ITZ) 병용요법, 또는 bevacizumab 병용요법 중 한 그룹에 배정됩니다.",
  "summary_source": "llm",
  "tags": [
   "Hepatocellular Carcinoma",
@@ -62,7 +62,7 @@
   "Advanced Solid Tumors"
  ],
  "title": "Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400",
- "title_ko": "진행성 고형암 환자를 대상으로 ABBV-400의 부작용 및 질병 활성도 변화를 평가하는 임상시험",
+ "title_ko": "진행성 고형암 환자에서 ABBV-400 투여의 부작용 및 질병 활성도 변화를 평가하기 위한 임상시험",
  "trial": {
   "conditions": [
    "Hepatocellular Carcinoma",
@@ -81,7 +81,7 @@
     "phone": "844-663-3742"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 프로토콜에 명시된 기준을 충족하는 실험실 검사 수치\n- 고형암 반응평가기준(RECIST) 버전 1.1에 따른 측정 가능한 병변 존재\n- WHO 기준에 따른 국소 진행성 또는 전이성 췌관선암(PDAC)을 포함한 지정된 진행성 고형암 진단 기록\n- 프로토콜에 명시된 질병 활성도 기준 충족\n\n제외 기준:\n- ABBV-400 첫 투여 전 28일 이내 또는 약물의 5반감기 이내(짧은 기간 적용)에 항암화학요법, 방사선치료, 면역요법, 생물학적 제제 등 항암 치료를 받은 경우\n- 이전 항암 치료로 인한 1등급을 초과하는 임상적으로 유의미한 미회복 부작용\n- 전신 스테로이드 치료가 필요했던 간질성 폐질환(ILD) 또는 폐렴 병력이 있거나 현재 활성 상태인 경우\n- 뇌 또는 수막 전이가 치료되지 않은 경우 (단, 방사선 치료 후 14일 이상 임상적 및 영상학적 안정성을 보이고 스테로이드 투여가 필요 없는 경우는 허용)\n- 폐 침범이 의심되거나 확인된 자가면역질환, 결합조직질환, 염증성 질환이 있는 경우",
+  "eligibility_ko": "선정 기준:\n* 프로토콜에 명시된 기준을 충족하는 실험실 검사 수치\n* RECIST v1.1 기준에 따른 측정 가능한 병변\n* 국소 진행성 또는 전이성 췌장관선암(PDAC)을 포함한 지정된 진행성 고형암의 문서화된 진단\n\n제외 기준:\n* 첫 투여 전 28일 또는 약물의 5 반감기 이내에 항암 치료를 받은 경우 (완화 목적 방사선 치료는 예외)\n* 이전 항암 치료로 인한 회복되지 않은 1등급 초과의 임상적으로 유의미한 부작용\n* 전신 스테로이드 치료가 필요했던 간질성 폐질환(ILD) 또는 폐렴 병력, 혹은 활동성 ILD/폐렴의 증거\n* 치료되지 않은 뇌 전이 또는 수막 전이\n* 기타 활동성 악성종양 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Laboratory values meeting the criteria laid out in the protocol.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Documented diagnosis of locally advanced or metastatic hepatocellular carcinoma (HCC), pancreatic ductal adenocarcinoma (PDAC), biliary tract cancers (BTC), squamous cell carcinoma of the esophagus, (ESCC), triple negative breast cancer (TNBC), hormone receptor+/HER2-breast cancer (HR+/HER2-BC), head and neck squamous-cell-carcinoma (HNSCC), or Platinum Resistant High Grade Epithelial Ovarian Cancer (PROC)/primary peritoneal/fallopian tube cancer (by World Health Organization \\[WHO\\] criteria). Participant meets the criteria for disease activity laid out in the protocol.\n\nExclusion Criteria:\n\n* Have received anticancer therapy including chemotherapy, radiation therapy, immunotherapy, biologic, or any investigational therapy within 28 days or 5 half-lives of the drug (whichever is shorter) prior to the first dose of ABBV-400. Palliative radiation therapy for bone, skin, or subcutaneous metastases with 10 fractions or less is permitted and not subject to a washout period.\n* Unresolved clinically significant AEs \\> Grade 1 from prior anticancer therapy.\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, or any evidence of active ILD or pneumonitis, including but not limited to those listed in the protocol.\n* History of clinically significant, intercurrent lung-specific illnesses, including those laid out in the protocol.\n* Untreated brain or meningeal metastases (i.e., participants with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy). Participants may continue on antiepileptic therapy if required.\n* History of other active malignancy, with the exception of those laid out in the protocol.\n* Any autoimmune, connective tissue or inflammatory disorders with documented or suspicious pulmonary involvement at screening (i.e., rheumatoid arthritis, Sjogren's, sarcoidosis etc.), and prior pneumonectomy.",
   "enrollment": 325,
   "has_results": false,
@@ -144,15 +144,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "최근 28일 이내 항암 치료(화학, 방사선, 면역 등)를 받은 경우",
-    "간질성 폐질환(ILD) 또는 폐렴 병력이 있는 경우",
-    "치료되지 않은 뇌전이가 있는 경우",
-    "폐 침범이 있는 자가면역질환 또는 염증성 질환이 있는 경우"
+    "간질성 폐질환(ILD) 또는 폐렴 병력",
+    "치료되지 않은 뇌 전이 또는 수막 전이",
+    "기타 활동성 악성종양 병력",
+    "임상적으로 유의미한 폐 질환 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "국소 진행성 또는 전이성 췌관선암(PDAC) 환자를 포함한 진행성 고형암 1상 임상시험",
+   "notes_ko": "국소 진행성 또는 전이성 췌장관선암 환자를 위한 1상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

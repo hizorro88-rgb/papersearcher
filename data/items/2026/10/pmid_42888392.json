@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by aggressive metastatic progression and poor clinical outcomes. During metastatic dissemination, detached tumor cells must overcome anoikis, a form of apoptosis induced by loss of extracellular matrix attachment. Although anoikis resistance is considered a critical prerequisite for metastasis, the adaptive mechanisms supporting detached survival in pancreatic cancer remain incompletely understood. In this study, anoikis-resistant (AR) pancreatic cancer cell models were established through repeated long-term suspension culture using Capan-1 and PSN-1 cells. Transcriptomic profiling was performed to identify conserved molecular programs associated with anoikis resistance in PDAC. Gene set variation analysis (GSVA) demonstrated consistent transcriptomic enrichment of autophagy-associated and suppression of cell cycle-related pathways in both AR models. Differential expression and integrative pathway analyses further identified several core genes associated with autophagy regulation and cytokine signaling. Survival analysis revealed that elevated expression of UBC and ATG14 was associated with poor prognosis in pancreatic cancer patients. Our findings suggest that suspension-selected pancreatic cancer cells undergo coordinated stress-adaptive transcriptional remodeling characterized by enriched autophagy- and ubiquitin-associated transcriptional programs.",
+ "authors": [
+  "Lin L",
+  "Bauden M",
+  "Andersson R",
+  "Ansari D"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-17",
+ "history": [
+  {
+   "date": "2026-10-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42888392",
+ "importance": 0.64,
+ "key_points_ko": [
+  "부유 상태에서 살아남은 아노이키스 저항성 췌장암 세포는 자가포식 관련 경로가 활성화되고 세포 주기 경로는 억제되었습니다.",
+  "UBC 및 ATG14 유전자의 높은 발현은 췌장암 환자의 불량한 예후와 유의하게 연관되었습니다.",
+  "이 연구는 췌장암 세포가 전이 중 살아남기 위해 자가포식 및 유비퀴틴 관련 전사 조절을 활용한다는 점을 시사합니다."
+ ],
+ "last_updated": "2026-10-17",
+ "links": {
+  "doi": "10.1186/s12885-026-17107-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42888392"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42888392/"
+ },
+ "summary_ko": "본 연구는 전이 과정에서 암세포가 부착을 잃고 죽는 현상인 아노이키스(anoikis)에 저항하는 췌장암의 적응 메커니즘을 규명하기 위해 진행되었습니다. 연구진은 Capan-1과 PSN-1 췌장암 세포주를 이용해 아노이키스 저항성 세포 모델을 제작하고 전사체 분석을 시행했습니다. 분석 결과, 아노이키스 저항성 세포에서는 자가포식(autophagy) 관련 경로가 활성화되고 세포 주기 관련 경로는 억제되는 공통된 변화가 확인되었습니다. 또한 환자 데이터 분석에서 UBC 및 ATG14 유전자의 높은 발현이 췌장암 환자의 불량한 예후와 연관되어 있음을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Transcriptomic profiling reveals autophagy-associated programs and prognostic biomarkers in anoikis-resistant pancreatic cancer cells",
+ "title_ko": "전사체 프로파일링을 통해 밝혀낸 아노이키스 저항성 췌장암 세포의 자가포식 관련 프로그램 및 예후 바이오마커",
+ "trial": null,
+ "type": "paper"
+}

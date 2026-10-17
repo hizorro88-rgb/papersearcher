@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누출(pancreatic fistula) 예방에 미치는 영향 비교…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
-## 타임라인 (4)
+## 타임라인 (5)
 
 <a id="pmid-42854074"></a>
 #### [췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42854074/)
@@ -70,6 +70,21 @@ search:
 - 출혈량, 비장 보존율, 개복 전환율, 수술 후 췌장 누공(POPF) 및 전반적인 합병증 발생률은 두 군 간에 유의미한 차이 없이 비슷했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886037/) · [DOI](https://doi.org/10.1002/rcs.70245) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886037)</small>
+
+---
+<a id="pmid-42886975"></a>
+#### [복강경하 대동맥-간동맥 우회술을 동반한 변형 애플비 수술을 시행한 췌장선암 환자 증례](https://pubmed.ncbi.nlm.nih.gov/42886975/)
+<small>Modified Appleby with laparoscopic aorto-hepatic bypass for pancreatic adenocarcinoma: expanding the limits</small>
+
+`논문` `증례` `수술` `치료 전반` · 2026-01-01 · PubMed · Medicina (B Aires) · 중요도 0.54
+
+복강동맥(celiac axis) 침범으로 수술이 어려웠던 65세 국소진행성 췌장체부암 여성 환자의 수술 사례입니다. 환자는 FOLFIRINOX(폴피리녹스) 기반 선행항암치료 후 뚜렷한 종양 반응을 보여 원격 전이가 없음을 확인했습니다. 이후 복강동맥을 함께 절제하는 변형 애플비 수술(modified Appleby procedure)과 간으로의 혈류를 유지하기 위한 완전 복강경하 대동맥-간동맥 우회술을 시행받아 R0 완전 절제를 달성했습니다. 수술 후 간 기능은 정상적으로 유지되었으며, 11개월 추적 관찰 시점까지 재발 없이 혈관 개통성이 유지되었습니다.
+
+- FOLFIRINOX 기반 선행요법 후 복강경하 대동맥-간동맥 우회술을 병행한 변형 애플비 수술로 R0 완전 절제를 달성했습니다.
+- 최종 병리는 중등도 분화도의 췌장선암(ypT2N0)으로 확인되었으며, 수술 후 혈관이나 허혈성 합병증은 발생하지 않았습니다.
+- 수술 후 11개월 동안 재발이 없었으며 이식 혈관의 개통성도 지속되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886975/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886975)</small>
 
 ---
 <a id="pmid-42830587"></a>
