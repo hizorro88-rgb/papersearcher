@@ -1,0 +1,67 @@
+{
+ "abstract": "INTRODUCTION: Obesity is an established risk factor for pancreatic ductal adenocarcinoma. As laparoscopic sleeve gastrectomy (LSG) has become increasingly prevalent, pancreatic surgeons may encounter malignancies in patients with a surgically altered gastric anatomy. Pancreaticoduodenectomy (PD) after an LSG is rare and requires meticulous preoperative planning to prevent ischemic and anastomotic complications.\nCASE PRESENTATION: A 47-year-old man with morbid obesity (BMI 59.1 kg/m2) underwent LSG. Twenty-three days later, obstructive jaundice led to the diagnosis of pancreatic head adenocarcinoma. After neoadjuvant chemotherapy and substantial weight reduction (BMI 34.9 kg/m2), subtotal stomach-preserving pancreaticoduodenectomy with wedge resection of the superior mesenteric vein was performed. Preoperative CT confirmed the preservation and patency of both the left and right gastric arteries. The left gastric artery was preserved intraoperatively. Gastrojejunostomy was performed using a hand-sewn anastomosis between the greater curvature side of the sleeve stomach and the jejunum. The patient developed a grade B postoperative pancreatic fistula but was discharged with no ischemic complications.\nCONCLUSIONS: PD after an LSG is feasible, but careful vascular assessment, a preplanned reconstruction strategy, consideration of the patient's metabolic and nutritional status, and careful intraoperative assessment of the remnant stomach may enhance surgical safety.",
+ "authors": [
+  "Yoshioka Y",
+  "Kozuki A",
+  "Shinzeki M",
+  "Abe K",
+  "Omine T",
+  "Tsuyu N",
+  "Takahashi K",
+  "Nishikawa T"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42890554",
+ "importance": 0.64,
+ "key_points_ko": [
+  "위소매절제술 후 23일 만에 폐쇄성 황달로 췌장두부암이 진단된 47세 고도비만 환자의 치료 사례입니다.",
+  "선행항암치료 후 위 동맥 혈류(좌위동맥)를 보존하며 췌십이지장절제술을 성공적으로 시행했습니다.",
+  "수술 후 B등급 췌장루가 발생했으나 위벽 허혈 등의 합병증 없이 퇴원했습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.70352/scrj.cr.26-0456",
+  "nct": [],
+  "pmcid": "PMC13673516",
+  "pmid": "42890554"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42890554/"
+ },
+ "summary_ko": "비만 치료 목적으로 복강경 위소매절제술(LSG)을 받은 뒤 췌장두부선암이 발견된 47세 남성의 수술 증례입니다. 환자는 선행항암치료와 체중 감량(BMI 59.1 kg/m²에서 34.9 kg/m²로 감소) 후 상장간막정맥(SMV) 쐐기 절제를 포함한 아전위보존 췌십이지장절제술(PD)을 받았습니다. 수술 전 및 수술 중 좌위동맥 혈류를 보존하고 소매 위의 대만측과 공장을 수기 문합하는 방식으로 재건했습니다. 환자는 B등급 췌장루가 발생했으나 허혈성 합병증 없이 무사히 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreaticoduodenectomy after Laparoscopic Sleeve Gastrectomy with Preservation of Gastric Arterial Inflow: A Case Report",
+ "title_ko": "위 동맥 혈류 보존을 동반한 복강경 위소매절제술 후 췌십이지장절제술: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

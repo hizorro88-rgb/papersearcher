@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) has limited immunotherapeutic effect because of poor drug penetration and tumor immunosuppression. Activation of the stimulator of interferon genes (STING) pathway may promote antitumor immunity, but systemic administration of STING agonists is constrained by inadequate tumor accumulation. Epidermal growth factor receptor (EGFR) is frequently overexpressed in PDAC and is closely associated with tumor growth, invasion, and treatment resistance. Herein, we developed an EGFR-antibody-decorated cancer-cell-membrane-coated metal-organic framework (MOF) nanoplatform loaded with the STING agonist diamidobenzimidazole (diABZI) (EM@MOF/diABZI) for targeted pancreatic cancer immunotherapy. This nanoplatform consists of an acid-responsive diABZI loaded MOF core and an EGFR-antibody-functionalized pancreatic cancer-cell-membrane shell. The nanoplatform displayed preserved membrane-associated proteins and EGFR-binding activity, pH-dependent diABZI release, significantly enhanced cellular uptake and preferential tumor accumulation. In a subcutaneous Pan02 pancreatic cancer mouse model, EM@MOF/diABZI produced greater tumor-growth inhibition and improved survival. Mechanistically, targeted diABZI delivery increased intratumoral p-STING expression and elevated the levels of IFN-β, CXCL10, TNF-α, IL-6, and IFN-γ, accompanied by enhanced infiltration of CD4+ and CD8+ T cells. No obvious histopathological abnormalities or substantial systemic toxicity were observed. Therefore, this nanoplatform provides a promising strategy for enhancing the therapeutic effect of STING agonists for pancreatic cancer immunotherapy.",
+ "authors": [
+  "Chen Q",
+  "Zhang B",
+  "Chen J",
+  "Li Z",
+  "Cai H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42892943",
+ "importance": 0.59,
+ "key_points_ko": [
+  "EGFR 항체와 암세포막을 활용한 나노 전달체를 통해 STING 작용제(diABZI)의 종양 표적 축적과 세포 내 흡수를 개선했습니다.",
+  "췌장암 동물 모델에서 대조군 대비 더 우수한 종양 성장 억제 및 생존 기간 연장 효과를 확인했습니다.",
+  "종양 내 STING 경로를 활성화하여 IFN-β, CXCL10 등 면역 신호물질 분비와 CD4+, CD8+ T세포 침윤을 촉진하면서 뚜렷한 전신 독성은 나타나지 않았습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.1016/j.ijpx.2026.100678",
+  "nct": [],
+  "pmcid": "PMC13675922",
+  "pmid": "42892943"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Pharm X",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42892943/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 약물 침투가 어렵고 면역 억제 환경이 강해 면역치료 효과가 제한적입니다. 연구진은 표피성장인자수용체(EGFR)를 표적하는 항체와 암세포막으로 둘러싼 나노 전달체(EM@MOF/diABZI)를 개발하여 STING 작용제인 diABZI를 종양 부위에 정밀하게 전달했습니다. 췌장암 쥐 모델(Pan02)에 투여한 결과, 종양 축적이 증가하고 산성 환경에서 약물이 방출되면서 종양 성장이 억제되고 생존율이 개선되었습니다. 또한 종양 내 면역 활성 신호 물질 분비와 CD4+, CD8+ T세포 침윤이 유의미하게 유도되었으며 전신 독성은 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "EGFR-antibody-decorated cancer-cell-membrane-coated MOF nanoplatform enables targeted delivery of the STING agonist diABZI for pancreatic cancer immunotherapy",
+ "title_ko": "EGFR 항체 표지 암세포막 코팅 MOF 나노플랫폼을 활용한 췌장암 면역치료용 STING 작용제 diABZI의 표적 전달",
+ "trial": null,
+ "type": "paper"
+}

@@ -27,11 +27,11 @@
  "id": "nct:NCT04858009",
  "importance": 0.97,
  "key_points_ko": [
-  "복막 전이 병변의 범위 지표(PCI)가 7 이하이고 복막 외 다른 장기 전이가 없는 환자 40명을 모집합니다.",
-  "선행 전신 항암치료를 완료하고 혈액 검사(CA 19-9 50% 이상 감소) 또는 영상 검사에서 종양 감소 반응을 보인 환자만 참여할 수 있습니다.",
-  "복강경을 통해 가열된 nab-paclitaxel과 cisplatin을 90분간 복강 내로 순환 주입하는 치료를 최대 5회 시행합니다."
+  "복막 전이 지수(PCI) 7 이하 또는 복강 세포진 양성인 전이성 췌장암 환자 40명을 대상으로 합니다.",
+  "nab-paclitaxel 및 cisplatin을 활용한 90분간의 온열 복강 내 항암치료(HIPEC)를 최대 5회까지 시행합니다.",
+  "수술 전 전신 항암치료 후 CA 19-9 수치가 50% 이상 감소했거나 영상학적·대사적 반응을 보인 환자만 등록 가능합니다."
  ],
- "last_updated": "2026-10-17",
+ "last_updated": "2026-10-18",
  "links": {
   "doi": null,
   "nct": [
@@ -54,11 +54,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04858009"
  },
- "summary_ko": "이 2상 임상시험은 복강 내부로 전이(복막 전이)된 췌장선암 환자를 대상으로 복강내 온열 항암화학요법(HIPEC)의 효과와 안전성을 평가합니다. 참여 환자는 전신 항암치료 후 종양 표지자나 영상에서 반응을 보인 상태여야 하며, 복강경을 통해 가열된 nab-paclitaxel(알부민 결합 파클리탁셀)과 cisplatin(시스플라틴)을 90분 동안 투여받습니다. 질병 진행이나 심각한 부작용이 없다면 최대 5회까지 추가 HIPEC 치료를 진행할 수 있습니다. 연구의 주요 목표는 국소 복막 전이 환자에서 전체 생존기간(OS)과 무병 생존기간(DFS)을 확인하는 것입니다.",
+ "summary_ko": "이 임상시험은 복막 전이가 있는 췌장암 환자를 대상으로 온열 복강 내 항암화학요법(HIPEC)의 효과와 안전성을 평가하는 2상 연구입니다. 복강경을 통해 가온된 nab-paclitaxel과 cisplatin 항암제를 복강 내로 직접 주입하여 90분간 치료를 진행합니다. 복막 파종 정도가 경미하거나 복강 세척 세포진 검사 양성인 환자 중, 수술 전 전신 항암치료에 반응을 보인 환자가 참여 대상입니다. 주요 목표는 전체 생존기간(OS)과 무질병 생존기간(DFS)을 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Hyperthermic Intraperitoneal Chemotherapy for the Treatment of Pancreatic Cancer and Peritoneal Metastasis",
- "title_ko": "췌장암 및 복막 전이 환자를 대상으로 한 복강내 온열 항암화학요법(HIPEC) 2상 임상시험",
+ "title_ko": "복막 전이가 동반된 췌장암 치료를 위한 온열 복강 내 항암화학요법(HIPEC) 2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Carcinoma",
@@ -66,7 +66,7 @@
    "Metastatic Malignant Neoplasm in the Peritoneum"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상 80세 이하의 췌장선암 환자\n• ECOG 수행능력 점수 0~2점\n• 복막 전이(복강 세척 세포진 검사 양성 또는 복강경/개복술로 확인된 국소 복막 파종)만 확인된 환자\n• 복막 파종 지표(PCI) 7 이하이며 수술로 종양을 완전히 제거할 수 있을 것으로 판단되는 환자\n• 선행 전신 항암치료 후 CA 19-9 50% 초과 감소 또는 영상 평가(RECIST 또는 PERCIST 기준)상 반응을 보인 환자\n• 골수 및 신장 기능이 적절한 환자(백혈구 3,000/uL 이상, 호중구 1,500/uL 이상, 혈소판 60,000/uL 이상, 혈청 크레아티닌 1.5 mg/dL 이하)\n\n제외 기준:\n• 간, 폐, 중추신경계 등 복막 이외의 고형 장기 원격 전이가 있는 환자\n• 폐렴이나 상처 감염 등 치료 진행을 방해하는 활동성 감염이 있는 환자\n• 임신 중이거나 수유 중인 여성(가임기 여성은 적절한 피임 필요)\n• 연구 프로토콜 화학요법 약물에 심각한 과민반응 병력이 있는 환자\n• 연구 및 추적 관찰 절차를 준수하기 어렵다고 판단되는 환자",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 80세 이하 환자\n• 췌장선암으로 세포학적 또는 조직학적으로 진단된 환자\n• 복강 세척 세포진 양성이거나 진단적 복강경/개복술상 제한된 복막 파종이 확인된 환자\n• 복막 전이 지수(PCI) 7 이하이며 완전 종양감축술 가능성이 높다고 판단된 환자\n• 수술 전 전신 항암치료 후 CA 19-9 50% 초과 감소, 또는 영상학적(RECIST)/대사적(PERCIST) 반응을 달성한 환자\n• ECOG 수행도 0~2\n\n제외 기준:\n• 복막 외 다른 원격 장기 전이(간, 폐, 중추신경계 등)가 있는 환자\n• 폐렴, 상처 감염 등 치료를 방해할 수 있는 활동성 감염이 있는 환자\n• 임신 중이거나 수유 중인 여성\n• 시험 약물(전신 항암제)에 생명을 위협할 정도의 중증 과민반응 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Age \\>= 18 but =\\< 80\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2\n* Cytologic or histologic proof of adenocarcinoma of the pancreas\n* Leukocytes \\>= 3,000/uL\n* Absolute neutrophil count \\>= 1,500/uL\n* Platelets \\>= 60,000/Ul\n* Serum creatinine =\\< 1.5 mg/dL\n* Distant metastatic disease of peritoneum may be visualized on imaging:\n\n  * Positive peritoneal cytology\n  * Limited carcinomatosis on diagnostic laparoscopy or laparotomy\n  * KRASD assay positive peritoneal washings/cytology\n* Completion of preoperative systemic chemotherapy with biochemical, metabolic, and/or radiographic response defined as a reduction in the baseline CA 19-9 by \\> 50% or radiographic response as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 or metabolic response on positron emission tomography (PET)-magnetic resonance imaging (MRI) defined by PET Response Criteria in Solid Tumors (PERCIST) criteria\n* Peritoneal Carcinomatosis Index (PCI) =\\< 7 and surgeons deems high likelihood for a complete cytoreduction\n\nExclusion Criteria:\n\n* Distant metastatic disease not limited to peritoneum:\n\n  * Solid organ metastases (liver, central nervous system, lung)\n* Infections such as pneumonia or wound infections that would preclude protocol therapy\n* Women with a positive urine or serum pregnancy test are excluded from this study; women of childbearing potential (defined as those who have not undergone a hysterectomy or who have not been postmenopausal for at least 24 consecutive months) must agree to refrain from breast feeding and practice adequate contraception as specified in the informed consent. Adequate contraception consists of oral contraceptive, implantable contraceptives, injectable contraceptives, a double barrier method, or abstinence\n* Subjects deemed unable to comply with study and/or follow-up procedures\n* Subjects with a known hypersensitivity to protocol systemic chemotherapy that was life-threatening, required hospitalization or prolongation of existing hospitalization, or resulted in persistent or significant disability or incapacity",
   "enrollment": 40,
   "has_results": false,
@@ -88,15 +88,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "간, 폐, 뇌 등 복막 이외의 장기 전이",
-    "폐렴 또는 상처 감염 등 치료가 불가능한 활동성 감염",
-    "임신 또는 수유 중인 여성",
-    "연구 항암제(nab-paclitaxel, cisplatin)에 심각한 과민반응 병력"
+    "복막 이외의 장기(간, 폐, 뇌 등) 전이",
+    "폐렴이나 상처 감염 등 치료를 방해할 수 있는 감염 질환",
+    "연구 항암제에 대한 중증 과민반응 병력",
+    "임신 또는 수유 중"
    ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": 1,
-   "notes_ko": "선행 전신 항암치료에 반응을 보였으며 복막 이외의 장기 전이가 없고 복막 파종 지표(PCI)가 7 이하인 췌장선암 환자",
+   "notes_ko": "선행 전신 항암치료에 반응을 보였으며 복막 이외의 장기 전이가 없는 제한적 복막 전이 췌장암 환자 대상",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

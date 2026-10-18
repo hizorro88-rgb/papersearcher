@@ -1,0 +1,64 @@
+{
+ "abstract": "Cigarette smoking is a well-established risk factor for the development of pancreatic ductal adenocarcinoma (PDAC), yet the mechanisms by which tobacco carcinogens, such as Nicotine-Derived Nitrosamine Ketone (NNK), drive pancreatic carcinogenesis remain incompletely understood. We investigated the impact of NNK on pancreatic epithelium by treating human pancreatic ductal epithelial cells (HPDE6-E6E7; H6c7) with NNK for 5 or 50 days followed by genome-wide RNA sequencing, qRT-PCR, immunofluorescence, comet assay, and γH2AX ELISA. We assessed γH2AX by immunohistochemistry in human PDAC tissue microarrays and in TCGA-PAAD datasets to identify clinical correlates. Acute NNK exposure (5 days) induced DNA double-strand breaks and activated ATM-γH2AX signaling, accompanied by increased RAD51 and BRCA2 recruitment, consistent with activation of homologous recombination (HR)-mediated DNA repair. In contrast, chronic NNK exposure (50 days) resulted in persistent DNA damage signaling and transcriptional upregulation of HR-associated genes, including RAD51, BRCA1, BRCA2, FANCD2, and PLK1. Despite sustained accumulation of RAD51- and BRCA2-positive repair foci, chronic NNK exposure was associated with altered RAD51 localization, persistent DNA damage, and chromosomal instability, suggesting dysregulation of HR repair fidelity during prolonged genotoxic stress. γH2AX expression was significantly elevated in NNK-treated cells, KRAS-driven premalignant pancreatic lesions, and pancreatic tissues from smokers. Increased γH2AX expression correlated with tumor progression and poor overall survival, while elevated RAD51 expression was associated with adverse outcomes in patients with PDAC. Collectively, these findings reveal a biphasic DNA damage response to NNK characterized by early activation of ATM-γH2AX-dependent DNA repair followed by persistent DNA damage signaling, dysregulated HR repair, and genomic instability during chronic exposure. Tobacco-induced disruption of DNA repair homeostasis may represent a key mechanism driving pancreatic carcinogenesis and supports γH2AX as a clinically relevant prognostic biomarker in tobacco-associated PDAC.",
+ "authors": [
+  "Krishnamoorthy V",
+  "Gupta VK",
+  "Jinka S",
+  "Srinivasan S",
+  "M KH",
+  "Shi C",
+  "Poorva P",
+  "Chen SX"
+ ],
+ "categories": [
+  "basic",
+  "supportive",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42892765",
+ "importance": 0.64,
+ "key_points_ko": [
+  "NNK 만성 노출은 RAD51, BRCA1, BRCA2 등 복구 유전자의 전사를 증가시켰으나, RAD51의 위치 변화와 지속적인 DNA 손상 및 염색체 불안정성을 초래했습니다.",
+  "γH2AX 발현은 NNK 처리 세포, KRAS 기반 전암 병변, 흡연자의 췌장 조직에서 유의하게 상승했습니다.",
+  "췌관선암 환자 분석에서 높은 γH2AX 발현은 종양 진행 및 불량한 전체 생존기간(OS)과 연관되었고, RAD51 발현 증가 역시 불량한 예후와 관련이 있었습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.64898/2026.10.13.758888",
+  "nct": [],
+  "pmcid": "PMC13674594",
+  "pmid": "42892765"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42892765/"
+ },
+ "summary_ko": "담배 발암물질인 NNK(Nicotine-Derived Nitrosamine Ketone)가 췌장 상피세포에 미치는 영향을 확인하기 위해 5일(급성) 및 50일(만성) 노출 실험을 진행했습니다. 급성 노출 시에는 DNA 복구 기전인 상동 재조합(HR)이 활성화되었으나, 만성 노출 시에는 지속적인 DNA 손상 신호와 함께 상동 재조합 복구 기능에 이상이 발생하고 염색체 불안정성이 유도되었습니다. 또한 인체 췌관선암(PDAC) 조직 및 환자 데이터 분석 결과, DNA 손상 지표인 γH2AX와 복구 단백질 RAD51의 발현 증가가 질환 진행 및 불량한 생존율과 연관되어 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Tobacco Carcinogen Induces Persistent DNA Damage and Homologous Recombination Dysregulation in Pancreatic Ductal Carcinogenesis",
+ "title_ko": "담배 발암물질이 췌관 발암 과정에서 지속적인 DNA 손상과 상동 재조합 이상을 유발함",
+ "trial": null,
+ "type": "paper"
+}

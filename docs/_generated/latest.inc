@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>651</b><span>누적 수집<br><small>논문·소식 210 · 임상시험 441</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 42건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>662</b><span>누적 수집<br><small>논문·소식 221 · 임상시험 441</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 28건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-17](_generated/daily/2026/10/17.md)
+최근 수집일: [2026-10-18](_generated/daily/2026/10/18.md)
 
 <a id="nct-nct06989437"></a>
 #### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
@@ -66,19 +66,18 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883736/) · [DOI](https://doi.org/10.3390/ijms27198488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883736)</small>
 
 ---
-<a id="pmid-42853071"></a>
-#### [조발성 췌장암의 역설: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42853071/)
-<small>The early-onset pancreatic cancer paradox: a systematic review and meta-analysis</small>
+<a id="pmid-42876703"></a>
+#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
+<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
 
-`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-10-09 · PubMed · J Natl Cancer Inst · 중요도 0.89
+`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
 
-이 연구는 조발성 췌장암(EOPC)과 평균 발병 연령 췌장암(AOPC)의 임상병리학적 특징, 치료 패턴, 생존 결과를 비교하기 위해 수행되었습니다. 15개국에서 1,659,432명의 환자가 포함된 48개의 관찰 연구를 분석했습니다. 조발성 췌장암 환자는 당뇨병 유병률이 낮고, 더 진행된 병기(4기)를 보였으며, 항암화학요법(chemotherapy) 이용률이 더 높았습니다. 그러나 두 그룹 간의 전체 생존기간(overall survival)은 유사한 것으로 나타났습니다.
+이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
 
-- 조발성 췌장암 환자는 평균 발병 연령 환자에 비해 당뇨병 유병률이 낮았습니다(교차비[OR], 0.39; 95% 신뢰구간[CI], 0.21~0.72).
-- 조발성 췌장암 환자는 진단 시 4기 등 더 진행된 병기를 보일 확률이 높았습니다(교차비[OR], 1.18; 95% 신뢰구간[CI], 1.02~1.36).
-- 조발성 췌장암 환자는 항암화학요법 이용률이 더 높았습니다(교차비[OR], 2.04; 95% 신뢰구간[CI], 1.69~2.45; P < .001).
-- 전체 생존기간은 두 그룹 간에 유사했습니다(위험비[HR], 1.03; 95% 신뢰구간[CI], 0.86~1.23; P = .76).
+- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
+- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
+- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42853071/) · [DOI](https://doi.org/10.1093/jnci/djag373) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42853071)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
 
 ---

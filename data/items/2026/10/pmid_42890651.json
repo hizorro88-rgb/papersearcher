@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) exhibits profound molecular and metabolic heterogeneity associated with distinct phenotypic states. However, the contribution of transcription factor (TF)-driven regulatory programs to metabolic subtype stratification remains poorly understood. This study aims to determine whether TF-based classification can identify prognostically relevant glycolytic and lipogenic PDAC subtypes.\nMETHODS: Bulk transcriptomic data from multiple PDAC cohorts and single-cell RNA sequencing data were integrated to characterize TF-associated metabolic heterogeneity. Metabolic signatures and TFs were quantified using single-sample gene set enrichment analysis (ssGSEA) and AddModule Score (AMS). Differential expression, enrichment analysis, integrative bulk and single-cell transcriptomic analysis, and deep neural network-based metabolic flux modeling were performed to investigate metabolic programs and functional differences between TF-defined subtypes. Additionally, RNA interference, RT-qPCR, lipid droplets staining, lactate assay, and transwell assays were used to evaluate the roles of TP63 in metabolic regulation.\nRESULTS: Glycolytic and lipogenic TF-defined metabolic subtypes were identified across multiple independent PDAC cohorts. These subtypes exhibited distinct metabolic programs, differentiation states, and prognostic outcomes. The glycolytic TF-defined subtype was associated with worse prognosis and differentiation, whereas the lipogenic TF-defined subtype exhibited more favorable clinical features. Integration of public bulk and single-cell transcriptomic analyses, together with deep neural network-based metabolic flux modeling, revealed consistent metabolic heterogeneity at both cellular and functional levels. Notably, TP63 was identified as a potential regulator of glycolytic-lipogenic metabolic reprogramming in PDAC.\nCONCLUSIONS: TF-based classification delineates glycolytic and lipogenic subtypes in PDAC, underscoring the critical role of TF-regulated metabolic programs in patient stratification. These findings highlight the prognostic significance of glycolytic and lipogenic metabolic heterogeneity and support the development of metabolism-targeted therapeutic strategies.",
+ "authors": [
+  "Ke J",
+  "Liu S",
+  "Xu J",
+  "Wu F"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42890651",
+ "importance": 0.59,
+ "key_points_ko": [
+  "췌관선암(PDAC) 데이터를 통합 분석하여 전사인자 기반의 해당작용(glycolytic) 및 지질생성(lipogenic) 대사 아형을 규명했습니다.",
+  "해당작용 중심 아형은 불량한 분화도 및 더 나쁜 예후와 연관되었으며, 지질생성 중심 아형은 보다 양호한 임상 결과를 보였습니다.",
+  "세포 실험을 통해 TP63이 췌장암 세포의 대사 재프로그래밍을 조절하는 주요 인자임을 확인했습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.3389/fonc.2026.1900370",
+  "nct": [],
+  "pmcid": "PMC13672013",
+  "pmid": "42890651"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42890651/"
+ },
+ "summary_ko": "다양한 췌장암 환자 코호트의 유전체 데이터와 단일세포 전사체 데이터를 분석하여 전사인자(TF) 기반의 대사 아형을 분류한 기초 연구입니다. 연구진은 췌장암 조직을 포도당을 주로 분해해 에너지를 얻는 해당작용(glycolytic) 아형과 지방을 합성하는 지질생성(lipogenic) 아형으로 구분했습니다. 분석 결과 해당작용 아형은 암세포 분화도가 낮고 예후가 더 나빴던 반면, 지질생성 아형은 상대적으로 양호한 임상적 예후를 보였습니다. 또한 분자생물학적 실험을 통해 TP63 전사인자가 이러한 대사 재프로그래밍을 조절하는 핵심 인자임을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Transcription factor-driven metabolic stratification reveals glycolytic and lipogenic subtypes with distinct prognostic and functional features in pancreatic cancer",
+ "title_ko": "전사인자 기반 대사 분류를 통한 췌장암의 해당작용형 및 지질생성형 아형 규명: 예후 및 기능적 특성 분석",
+ "trial": null,
+ "type": "paper"
+}

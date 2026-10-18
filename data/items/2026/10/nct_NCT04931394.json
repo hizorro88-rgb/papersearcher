@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
+  "drug",
   "surgery"
  ],
  "entities": [],
@@ -20,11 +20,11 @@
  "id": "nct:NCT04931394",
  "importance": 0.96,
  "key_points_ko": [
-  "췌장암 완전 절제(R0) 후 환자 240명을 대상으로 오가노이드 약물 감수성 맞춤 항암치료의 효과를 검증하는 3상 시험입니다.",
-  "사전 연구에서 췌장암 오가노이드 배양 성공률은 77.6%였으며 실제 환자의 1차 항암제 반응과 높은 일치도를 보였습니다.",
-  "이전에 항암화학요법이나 방사선치료를 받은 적이 없고 수술 검체에서 오가노이드 배양에 성공한 환자만 참여할 수 있습니다."
+  "완전 절제 수술(R0)을 받고 이전 항암이나 방사선 치료 병력이 없는 췌장암 환자 240명을 대상으로 한 3상 임상시험입니다.",
+  "선행 연구에서 췌장암 오가노이드 배양 성공률은 77.6%였으며, 39개 오가노이드를 통해 약물 감수성 평가의 정확도를 확인한 바 있습니다.",
+  "오가노이드 기반 맞춤형 항암제 선택이 치료 성적을 개선하는지 및 오가노이드 방사선 감수성과 실제 치료 반응의 일치 여부도 함께 분석합니다."
  ],
- "last_updated": "2026-10-17",
+ "last_updated": "2026-10-18",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04931394"
  },
- "summary_ko": "췌장암 수술(R0 완전 절제)을 받은 환자 240명을 대상으로 환자 조직에서 배양한 오가노이드(organoid)의 약물 감수성 검사를 활용해 수술 후 보조 항암화학요법을 시행하고 치료 성적 개선 여부를 평가하는 무작위 배정 3상 임상시험입니다. 이전 연구에서 췌장암 오가노이드 배양 성공률은 77.6%였으며 1차 항암제 반응을 정확하게 반영하는 것으로 나타났습니다. 이번 시험에서는 오가노이드 검사 결과와 환자의 실제 치료 반응 일치도를 분석하고 방사선 감수성도 함께 평가합니다.",
+ "summary_ko": "본 임상시험은 수술을 받은 췌장암 환자를 대상으로 환자의 종양 조직으로 제작한 오가노이드(organoid) 약물 감수성 검사 결과를 바탕으로 수술 후 보조항암화학요법을 선택하는 전략의 효과를 평가하는 3상 연구입니다. 신선 수술 검체로부터의 오가노이드 배양 성공률과 약물 감수성 시험 결과와 실제 환자 치료 반응 간의 일치도도 함께 확인합니다. 완전 절제(R0)를 받은 18~80세 췌장선암 환자 240명을 대상으로 단일 기관에서 무작위 배정 비교 연구로 진행되었습니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
@@ -56,13 +56,13 @@
   "Chemotherapy"
  ],
  "title": "Organoid-Guided Adjuvant Chemotherapy for Pancreatic Cancer",
- "title_ko": "오가노이드 약물 감수성 검사 기반 췌장암 수술 후 보조 항암화학요법 3상 임상시험",
+ "title_ko": "췌장암에서 오가노이드 기반 약물 감수성 검사를 통한 수술 후 보조항암화학요법",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 80세 이하의 성인\n- 악성 복수, 복막 전이, 원격 전이 없이 췌장암 완전 절제(R0 절제)를 받은 환자\n- 조직학적으로 확인된 췌관선암(점액성 선암 또는 선편평세포암 포함)\n- 수술 전 검사에서 전이가 없었던 환자\n- 이전에 항암화학요법이나 방사선치료를 받지 않은 환자\n- ECOG 수행능력 점수 0 또는 1점\n- 기대 여명 90일 이상\n- 수술 검체를 통한 췌장암 오가노이드 배양이 성공한 환자\n- 적절한 골수, 간, 신장 기능을 보유한 환자\n\n제외 기준:\n- 항암화학요법 및 표적치료를 견디기 어려운 상태의 환자\n- 심부전(NYHA III-IV), 관상동맥질환, 6개월 이내 심근경색, 중증 부정맥, 호흡부전 등 주요 장기 기능 부전\n- 5년 이내 다른 암을 진단받은 병력이 있는 환자\n- 임신 중이거나 수유 중인 여성\n- 다른 임상시험에 참여 중이거나 정기적인 추적관찰이 불가능한 환자",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 80세 이하의 성인\n• 복막 전이, 악성 복수, 원격 전이 증거가 없고 수술 전 검사에서도 전이가 없는 췌장암 완전 절제(R0) 환자\n• 조직학적으로 확인된 췌관선암(점액성 선암, 선편평세포암 포함)\n• 이전에 항암화학요법 또는 방사선 치료를 받은 적이 없는 환자\n• 수술 검체로부터 췌장암 오가노이드 배양이 성공한 환자\n• ECOG 수행능력 점수 0점 또는 1점이며 기대 여명이 90일 이상인 환자\n\n제외 기준:\n• 전신 상태가 불량하여 항암화학요법 및 표적치료를 견딜 수 없는 환자\n• 심부전(NYHA III-IV), 관상동맥질환, 6개월 이내 심근경색, 중증 부정맥, 호흡부전 등 중증 장기 기능 부전 환자\n• 5년 이내에 다른 암을 진단받은 환자\n• 임신 중이거나 수유 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Age≥18 years old and ≤80 years old.\n* Complete R0 resection for pancreatic cancer with no evidence of malignant ascites, peritoneal metastases or distant metastases.\n* Histology confirmed pancreatic adenocarcinoma.\n* Eligible histologic variants include adenocarcinoma or variants to include mucinous adenocarcinoma or adenosquamous carcinoma.\n* No metastases are found in preoperative examination.\n* No prior chemotherapy or radiotherapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Life expectancy of greater than 90 days, as judged by the investigator.\n* Routine blood test: absolute neutrophil count\\>1500/mm3, platelet\\>100000/mm3.\n* Normal liver function: serum total bilirubin≤2.0mg/dl, aminotransferase (ALT) and aspertate aminotransferase (AST) \\<2.5 times of the upper limit of normal value.\n* Normal kidney function: serum creatinine\\<1.5 times of the upper limit of normal value or creatinine clearance rate\\>45ml/min.\n* The pancreatic cancer organoid were cultured successfully.\n* No severe comorbidities.\n\nExclusion Criteria:\n\n* Patients with poor condition can not tolerate chemotherapy and targeted therapy.\n* Impaired organ functions: heart failure (New York Heart Association III-IV), coronary heart disease, myocardial infarction within 6 months, severe cardiac arrhythmia and respiratory failure.\n* Patients diagnosed with other cancer within 5 years.\n* Patients who are pregnant or breastfeeding.\n* Patients enrolled in other clinical trials or incompliant of regular follow up.\n* Patients who did not provide an informed consent.",
   "enrollment": 240,
   "has_results": false,
@@ -79,15 +79,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "심부전(NYHA III-IV), 6개월 이내 심근경색, 중증 부정맥 등 주요 심장질환",
-    "호흡부전",
-    "5년 이내 다른 암을 진단받은 병력",
-    "임신 중이거나 수유 중인 경우"
+    "6개월 이내 심근경색, 심부전(NYHA III-IV) 등 중증 심장질환",
+    "5년 이내 다른 암 병력",
+    "항암화학요법을 견디기 어려운 중증 전신 상태",
+    "임신 또는 수유 중"
    ],
    "max_prior_lines": 0,
    "measurable_required": false,
    "min_prior_lines": 0,
-   "notes_ko": "이전 항암치료 경험이 없고 수술 후 완전 절제(R0)를 받았으며 오가노이드 배양에 성공한 췌장암 환자",
+   "notes_ko": "완전 절제 수술(R0)을 받고 항암 치료 경험이 없으며 오가노이드 배양에 성공한 보조치료 대상 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",

@@ -16,12 +16,76 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 91건 · 최근 30일 91건
+전체 93건 · 최근 30일 93건
 
 월별 보기: [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07087054"></a>
+#### [경구용 1일 1회 팔투소틴 요법을 평가하는 카르시노이드 증후군 3상 유효성 임상시험](https://clinicaltrials.gov/study/NCT07087054)
+<small>Carcinoid Syndrome Efficacy Study Featuring an Oral Daily Paltusotine Regimen</small>
+
+`임상시험` `3상` `신약·치료제` `지지요법·삶의질` `신경내분비종양` · 2025-07-25 · ClinicalTrials.gov · Crinetics Pharmaceuticals Inc. · 중요도 0.82
+
+**NCT07087054** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07087054.md)
+
+잘 분화된 신경내분비종양으로 인한 카르시노이드 증후군(Carcinoid Syndrome) 성인 환자를 대상으로 경구용 약물 paltusotine(팔투소틴)의 유효성과 안전성을 위약과 비교 평가하는 3상 임상시험입니다. 16주간의 이중맹검 위약 대조 시험을 거쳐 104주간의 공개 연장 기간 동안 팔투소틴의 장기 안전성 및 약동학(PK)을 추적합니다. 목표 대상자 수는 141명이며, 현재 대상자 모집이 완료된 상태입니다.
+
+- 잘 분화된 국소 진행성 또는 전이성 신경내분비종양으로 인한 카르시노이드 증후군 환자 141명을 대상으로 paltusotine의 효과를 위약과 비교합니다.
+- 16주간의 이중맹검 무작위 배정 치료 후 104주 동안 공개 연장 치료를 통해 장기 안전성을 평가합니다.
+- 한국 내 임상시험 실시 기관은 없습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07087054) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07087054)</small>
+
+---
+<a id="nct-nct05044065"></a>
+#### [췌장암, 담도암, 간암 환자를 대상으로 한 혈류 제한 운동 연구 (PREV-Ex)](https://clinicaltrials.gov/study/NCT05044065)
+<small>Blood Flow Restriction Exercise in Patients With Pancreatic, Biliary Tract, and Liver Cancer (PREV-Ex)</small>
+
+`임상시험` `기타` `지지요법·삶의질` `수술` · 2021-09-14 · ClinicalTrials.gov · Karolinska Institutet · 중요도 0.71
+
+**NCT05044065** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05044065.md)
+
+이 연구는 수술이 가능한 췌장암, 담도암, 간암 환자를 대상으로 혈류 제한(BFR) 저항 운동의 효과를 평가한 다기관 무작위 배정 비교 임상시험입니다. 수술 전(사전재활) 및 수술 후(재활) 기간 동안 운동을 진행하여 통상적인 치료를 받는 대조군과 비교했습니다. 근육량과 근력을 증가시키고 암 관련 피로 및 악액질을 완화하여 골격근과 건강 관련 지표를 개선하는지 확인하고자 했습니다. 총 52명의 환자가 등록되었으며 현재 연구는 완료된 상태입니다.
+
+- 수술 가능한 췌장암, 담도암, 간암 환자 52명을 대상으로 혈류 제한 저항 운동의 효과를 평가했습니다.
+- 수술 전 사전재활 및 수술 후 재활 시기에 운동을 적용하여 통상적 관리군과 근육량 및 건강 지표를 비교했습니다.
+- 암 환자의 근육량 및 근력 증가, 피로 및 악액질 완화를 목표로 하였습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05044065) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05044065)</small>
+
+---
+<a id="pmid-42892765"></a>
+#### [담배 발암물질이 췌관 발암 과정에서 지속적인 DNA 손상과 상동 재조합 이상을 유발함](https://pubmed.ncbi.nlm.nih.gov/42892765/)
+<small>Tobacco Carcinogen Induces Persistent DNA Damage and Homologous Recombination Dysregulation in Pancreatic Ductal Carcinogenesis</small>
+
+`논문` `전임상` `기초연구` `지지요법·삶의질` `신약·치료제` · 2026-10-15 · PubMed · bioRxiv · 중요도 0.64
+
+담배 발암물질인 NNK(Nicotine-Derived Nitrosamine Ketone)가 췌장 상피세포에 미치는 영향을 확인하기 위해 5일(급성) 및 50일(만성) 노출 실험을 진행했습니다. 급성 노출 시에는 DNA 복구 기전인 상동 재조합(HR)이 활성화되었으나, 만성 노출 시에는 지속적인 DNA 손상 신호와 함께 상동 재조합 복구 기능에 이상이 발생하고 염색체 불안정성이 유도되었습니다. 또한 인체 췌관선암(PDAC) 조직 및 환자 데이터 분석 결과, DNA 손상 지표인 γH2AX와 복구 단백질 RAD51의 발현 증가가 질환 진행 및 불량한 생존율과 연관되어 있었습니다.
+
+- NNK 만성 노출은 RAD51, BRCA1, BRCA2 등 복구 유전자의 전사를 증가시켰으나, RAD51의 위치 변화와 지속적인 DNA 손상 및 염색체 불안정성을 초래했습니다.
+- γH2AX 발현은 NNK 처리 세포, KRAS 기반 전암 병변, 흡연자의 췌장 조직에서 유의하게 상승했습니다.
+- 췌관선암 환자 분석에서 높은 γH2AX 발현은 종양 진행 및 불량한 전체 생존기간(OS)과 연관되었고, RAD51 발현 증가 역시 불량한 예후와 관련이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892765/) · [DOI](https://doi.org/10.64898/2026.10.13.758888) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674594/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892765)</small>
+
+---
+<a id="pmid-42890554"></a>
+#### [위 동맥 혈류 보존을 동반한 복강경 위소매절제술 후 췌십이지장절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42890554/)
+<small>Pancreaticoduodenectomy after Laparoscopic Sleeve Gastrectomy with Preservation of Gastric Arterial Inflow: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-16 · PubMed · Surg Case Rep · 중요도 0.64
+
+비만 치료 목적으로 복강경 위소매절제술(LSG)을 받은 뒤 췌장두부선암이 발견된 47세 남성의 수술 증례입니다. 환자는 선행항암치료와 체중 감량(BMI 59.1 kg/m²에서 34.9 kg/m²로 감소) 후 상장간막정맥(SMV) 쐐기 절제를 포함한 아전위보존 췌십이지장절제술(PD)을 받았습니다. 수술 전 및 수술 중 좌위동맥 혈류를 보존하고 소매 위의 대만측과 공장을 수기 문합하는 방식으로 재건했습니다. 환자는 B등급 췌장루가 발생했으나 허혈성 합병증 없이 무사히 퇴원했습니다.
+
+- 위소매절제술 후 23일 만에 폐쇄성 황달로 췌장두부암이 진단된 47세 고도비만 환자의 치료 사례입니다.
+- 선행항암치료 후 위 동맥 혈류(좌위동맥)를 보존하며 췌십이지장절제술을 성공적으로 시행했습니다.
+- 수술 후 B등급 췌장루가 발생했으나 위벽 허혈 등의 합병증 없이 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890554/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0456) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673516/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890554)</small>
+
+---
 <a id="nct-nct06989437"></a>
 #### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
 <small>A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue</small>
@@ -90,23 +154,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT06084481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06084481)</small>
 
 ---
-<a id="nct-nct07087054"></a>
-#### [경구용 일일 펠투소티딘(paltusotine) 요법을 평가하는 카르시노이드 증후군 유효성 연구](https://clinicaltrials.gov/study/NCT07087054)
-<small>Carcinoid Syndrome Efficacy Study Featuring an Oral Daily Paltusotine Regimen</small>
-
-`임상시험` `3상` `신약·치료제` `지지요법·삶의질` `신경내분비종양` · 2025-07-25 · ClinicalTrials.gov · Crinetics Pharmaceuticals Inc. · 중요도 0.82
-
-**NCT07087054** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07087054.md)
-
-본 연구는 잘 분화된 신경내분비종양(neuroendocrine tumor)으로 인한 카르시노이드 증후군(carcinoid syndrome) 성인 환자를 대상으로 경구용 약물인 paltusotine(펠투소티딘)과 위약(placebo)의 유효성 및 안전성을 평가하기 위한 3상 임상시험입니다. 연구에는 16주의 이중맹검 무작위 대조 기간과 104주의 공개 연장 기간이 포함됩니다. 총 목표 인원은 141명이며, 전 세계적으로 진행됩니다.
-
-- 목표 인원은 141명입니다.
-- 이중맹검 무작위 대조 기간은 16주 동안 진행됩니다.
-- 공개 연장 기간은 104주 동안 진행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07087054) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07087054)</small>
-
----
 <a id="nct-nct07513116"></a>
 #### [췌장암 고위험군 선별검사 대상자를 위한 간헐적 단식 평가](https://clinicaltrials.gov/study/NCT07513116)
 <small>Evaluating Intermittent Fasting In Individuals At High Risk ForPancreatic Cancer Undergoing Screening</small>
@@ -122,23 +169,6 @@ search:
 - 초록에 명시되지 않음
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07513116) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07513116)</small>
-
----
-<a id="nct-nct05044065"></a>
-#### [췌장암, 담도암, 간암 환자에서의 혈류 제한 운동](https://clinicaltrials.gov/study/NCT05044065)
-<small>Blood Flow Restriction Exercise in Patients With Pancreatic, Biliary Tract, and Liver Cancer (PREV-Ex)</small>
-
-`임상시험` `기타` `지지요법·삶의질` `수술` · 2021-09-14 · ClinicalTrials.gov · Karolinska Institutet · 중요도 0.71
-
-**NCT05044065** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05044065.md)
-
-이 연구는 수술이 가능한 췌장암, 담도암, 간암 환자를 대상으로 수술 전후 혈류 제한 저항 운동(blood flow restricted resistance training)이 골격근 및 건강 관련 지표에 미치는 영향을 평가하는 무작위 대조 임상시험(randomized controlled trial)입니다. 환자 52명을 목표로 하여 운동 중재군과 통상적 치료군을 비교합니다. 초록에 따르면 저항 운동은 제지방 근육량과 근력을 증가시키고 암 관련 피로를 완화하는 안전하고 효과적인 방법입니다.
-
-- 목표 인원은 52명이며, 다기관 무작위 대조 임상시험(multicenter randomized controlled trial)으로 진행되었습니다.
-- 수술 전(재활 전 단계)과 수술 후(재활 단계)에 혈류 제한 저항 운동 중재를 시행합니다.
-- 통상적 치료와 비교하여 골격근 및 기타 건강 관련 결과에 미치는 영향을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05044065) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05044065)</small>
 
 ---
 <a id="pmid-42885341"></a>

@@ -18,11 +18,11 @@
  "id": "nct:NCT07760012",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 환자 수는 총 50명입니다.",
-  "주요 평가 항목은 68Ga-SorB의 안전성, 내약성, 영상 타당성 및 SUVmax와 TBR 등의 정량적 PET 매개변수 특성입니다.",
-  "이차 탐색적 목표에는 68Ga-SorB PET/CT와 18F-FDG PET/CT 간의 병소 검출 비교, 진단 민감도 및 특이도 평가가 포함됩니다."
+  "Sortilin을 표적으로 하는 새로운 조영제 68Ga-SorB의 안전성, 내약성 및 체내 분포를 평가합니다.",
+  "췌장암, 폐암, 간암 등 고형암 환자 약 40~50명을 대상으로 진행됩니다.",
+  "기존 표준 영상인 18F-FDG PET/CT와 비교하여 병변 검출 능력 및 진단 정확도를 평가합니다."
  ],
- "last_updated": "2026-10-17",
+ "last_updated": "2026-10-18",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07760012"
  },
- "summary_ko": "이 연구는 고형암 환자를 대상으로 새로운 Sortilin 표적 양전자 방출 단층촬영(PET) 추적자(tracer)인 68Ga-SorB의 안전성, 타당성 및 진단 성능을 평가하기 위한 전향적, 단일 기관, 공개 탐색적 진단 연구입니다. 췌장암을 포함한 확정 또는 의심되는 고형암 환자 50명을 목표로 68Ga-SorB PET/CT 영상을 촬영합니다. 영상 결과는 표준 치료인 18F-FDG PET/CT와 비교되며, 병리 결과 및 임상 추적 관찰을 기준 표준으로 사용합니다. 주요 목표는 68Ga-SorB의 안전성, 내약성, 영상 타당성을 평가하고 최대 표준섭취지수(SUVmax)와 종양 대 배경비(TBR)를 포함한 정량적 PET 매개변수를 특성화하는 것입니다.",
+ "summary_ko": "이 연구는 췌장암을 포함한 다양한 고형암 환자를 대상으로 새로운 Sortilin 표적 방사성의약품인 68Ga-SorB를 이용한 PET/CT 영상 검사의 안전성과 진단 성능을 평가하는 전향적 임상시험입니다. 악성종양에서 높게 발현되는 Sortilin을 표적으로 하여 기존 18F-FDG PET/CT 검사와 병변 검출 능력을 비교합니다. 참여 환자는 68Ga-SorB PET/CT를 촬영하며, 병리 결과 및 임상 추적 관찰을 바탕으로 진단 민감도와 특이도를 평가받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "Sortilin",
@@ -58,7 +58,7 @@
   "Oncology"
  ],
  "title": "68Ga-SorB PET/CT Imaging in Patients With Solid Tumors",
- "title_ko": "고형암 환자에서 68Ga-SorB PET/CT 영상 검사",
+ "title_ko": "고형암 환자를 대상으로 한 68Ga-SorB PET/CT 영상 검사 임상시험",
  "trial": {
   "conditions": [
    "Melanoma (Skin Cancer)",
@@ -76,7 +76,7 @@
     "phone": "86-10-82264936"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 성인\n- 조직학적으로 확정되었거나 임상적으로 의심되는 흑색종, 간세포암, 폐암, 유방암, 췌장암, 난소암 또는 담관암\n- 동유럽협력종양학그룹(ECOG) 수행능력 상태 0 또는 1\n- 적절한 조혈, 간, 신장 및 응고 기능\n- RECIST 버전 1.1에 따른 최소 1개의 측정 가능한 표적 병변\n- 연구 절차 및 추적 관찰을 준수할 의지와 능력이 있는 자\n\n제외 기준:\n- 임신 중이거나 수유 중인 여성\n- 연구자의 판단에 따라 참여가 부적절하다고 판단되는 주요 장기(심장, 간, 신장 등)의 심각한 기능 장애\n- PET/CT 영상을 견딜 수 없거나 연구 추적 관찰을 완료할 수 없는 경우\n- 연구자의 판단에 따라 연구에 부적합하다고 판단되는 기타 상태",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 성인 환자\n• 조직학적으로 확인되었거나 임상적으로 의심되는 췌장암, 흑색종, 간암, 폐암, 유방암, 난소암, 담관암 환자\n• ECOG 수행능력 점수 0~1점\n• RECIST 1.1 기준 최소 1개 이상의 측정 가능한 표적 병변 보유\n• 종양 평가를 위해 18F-FDG PET/CT 촬영이 임상적으로 예정되거나 지시된 환자\n• 예상 여명이 최소 12주 이상이며 주요 장기 기능이 적절한 환자\n\n제외 기준:\n• 임신 중이거나 모유 수유 중인 여성\n• 심장, 간, 신장 등 주요 장기의 중증 기능 장애가 있는 환자\n• PET/CT 영상 검사를 견디기 어렵거나 추적 관찰을 완료할 수 없는 환자\n• 연구진 판단하에 임상시험 참여가 부적절하다고 여겨지는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Adults aged 18 or older.\n* Histologically confirmed or clinically suspected melanoma, hepatocellular carcinoma, lung cancer, breast cancer, pancreatic cancer, ovarian cancer, or cholangiocarcinoma.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematologic, hepatic, renal, and coagulation function:\n* White blood cell count ≥ 4.0 × 10\\^9/L or absolute neutrophil count ≥ 1.5 × 10\\^9/L;\n* Platelet count ≥ 100 × 10\\^9/L;\n* Hemoglobin ≥ 90 g/L;\n* PT or APTT ≤ 1.5 × upper limit of normal (ULN);\n* Total bilirubin ≤ 1.5 × ULN;\n* ALT and AST ≤ 2.5 × ULN (or ≤ 5 × ULN for participants with liver metastases);\n* ALP ≤ 2.5 × ULN (or ≤ 4.5 × ULN for participants with bone or liver metastases);\n* Blood urea nitrogen and serum creatinine ≤ 1.5 × ULN.\n* Normal cardiac function.\n* Estimated life expectancy of at least 12 weeks.\n* Willing and able to comply with study procedures and follow-up.\n* At least one measurable target lesion according to RECIST version 1.1.\n* Participants of childbearing potential agree to use effective contraception during the study and for 3 months after PET/CT imaging.\n* Clinically indicated to undergo 18F-FDG PET/CT for tumor evaluation.\n* Able to understand the study procedures and provide written informed consent.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women.\n* Severe dysfunction of major organs (including heart, liver, or kidney) that, in the investigator's judgment, would make participation inappropriate.\n* Inability to tolerate PET/CT imaging or complete study follow-up.\n* Any other condition that, in the investigator's judgment, makes the participant unsuitable for the study.",
   "enrollment": 50,
   "has_results": false,
@@ -93,18 +93,20 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "임신 중이거나 수유 중인 여성",
-    "주요 장기(심장, 간, 신장)의 심각한 기능 장애",
-    "PET/CT 영상 검사를 견딜 수 없거나 추적 관찰을 완료할 수 없는 경우"
+    "임신 또는 수유 중인 여성",
+    "심장, 간, 신장 등 주요 장기의 중증 기능 부전",
+    "PET/CT 촬영 검사를 견디지 못하는 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "진단 목적의 68Ga-SorB PET/CT 영상 연구에 참여 가능한 췌장암 포함 고형암 환자",
+   "notes_ko": "기존 FDG PET/CT가 필요한 진단 또는 의심 단계의 췌장암 등 고형암 환자를 위한 표적 영상 진단 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced",
+    "resectable"
    ],
    "source": "llm"
   },

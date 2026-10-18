@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: This study aimed to examine whether preoperative serum total iron-binding capacity (TIBC), which is directly proportional to transferrin level, correlates with long-term outcomes after pancreatectomy.\nMETHODS: Preoperative TIBC levels, calculated by summing serum iron and unsaturated iron binding capacity, were evaluated in 158 patients who underwent pancreatectomy for pancreatic cancer. We defined TIBC < 258 μg/dL calculated by receiver-operating characteristic (ROC) analysis as low TIBC. We evaluated the relationship between preoperative TIBC levels and long-term outcomes after pancreatectomy.\nRESULTS: Low preoperative TIBC levels were correlated with lower body mass index, higher rate of preoperative chemotherapy, lower albumin, and higher amount of intraoperative blood loss compared to those in high TIBC levels (p = 0.041, 0.046, 0.0002, 0.0032, respectively). Patients with low preoperative TIBC levels had significantly poorer overall survival (OS) and recurrence-free survival (RFS) compared to that in high TIBC level in Kaplan-Meier analysis (p < 0.0001, p = 0.0031). Furthermore, these patients were significantly correlated with worse OS and RFS in univariate and multivariate analyses (OS; hazard ratio [HR] 6.22, 95% confidence interval [CI] 1.770-21.838, p = 0.0044/RFS; HR 3.24, 95% CI 1.012-13.206, p = 0.048).\nCONCLUSION: Preoperative low serum TIBC levels may be a potential surrogate marker of long-term survival after pancreatectomy for pancreatic cancer.",
+ "authors": [
+  "Yamane T",
+  "Hayashi H",
+  "Sawayama H",
+  "Matsumoto T",
+  "Takematsu T",
+  "Yamao T",
+  "Kitano Y",
+  "Miyata T"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42892783",
+ "importance": 0.77,
+ "key_points_ko": [
+  "췌장암 수술 환자 158명 중 수술 전 TIBC가 258 μg/dL 미만인 환자는 유의하게 더 짧은 전체 생존기간과 무재발 생존기간을 보였습니다(p < 0.0001, p = 0.0031).",
+  "다변량 분석 결과 낮은 TIBC는 전체 생존기간 악화(위험비[HR] 6.22, 95% CI 1.770-21.838, p = 0.0044) 및 무재발 생존기간 악화(HR 3.24, 95% CI 1.012-13.206, p = 0.048)와 연관되었습니다.",
+  "낮은 TIBC군은 체질량지수(BMI) 및 알부민 수치가 낮았고, 수술 중 출혈량은 더 많은 경향을 보였습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.1002/ags3.70297",
+  "nct": [],
+  "pmcid": "PMC13675135",
+  "pmid": "42892783"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Gastroenterol Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42892783/"
+ },
+ "summary_ko": "췌장암으로 췌절제술을 받은 환자 158명을 대상으로 수술 전 혈청 총철결합능(TIBC)과 장기 예후 사이의 연관성을 분석한 연구입니다. 혈청 철과 불포화 철결합능의 합으로 계산된 TIBC 수치가 258 μg/dL 미만인 저TIBC군은 전체 생존기간(OS)과 무재발 생존기간(RFS)이 유의하게 불량했습니다. 다변량 분석에서도 낮은 TIBC는 사망 및 재발 위험을 높이는 독립적인 요인으로 확인되었습니다. 연구진은 수술 전 낮은 TIBC가 췌절제술 후 장기 생존을 예측하는 유용한 지표가 될 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Preoperative Total Iron-Binding Capacity Is a Potential Surrogate Marker of Long-Term Outcomes After Pancreatectomy for Pancreatic Cancer",
+ "title_ko": "수술 전 총철결합능(TIBC), 췌장암 췌절제술 후 장기 예후를 예측하는 잠재적 대리 지표",
+ "trial": null,
+ "type": "paper"
+}

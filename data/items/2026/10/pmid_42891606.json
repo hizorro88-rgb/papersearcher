@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreaticoduodenectomy is a technically demanding procedure associated with substantial surgical risk. Conventional laparoscopic approaches have several limitations, including restricted visualization, which can make exposure of the superior mesenteric artery and identification of vessels and lymph nodes challenging. In patients with vascular adhesion or tumor invasion, surgical dissection is particularly difficult and may increase the risk of intraoperative vascular injury and hemorrhage. In addition, poor delineation of anatomical planes may result in incomplete tumor dissection, inadequate lymphadenectomy, and difficult mobilization of the pancreatic head and duodenum, potentially compromising surgical safety and oncological outcomes. To optimize the surgical workflow, this protocol describes a three-dimensional laparoscopic artery-first pancreaticoduodenectomy with the infracolic artery-first approach as the principal technical modification. By combining early arterial exposure and clear delineation of anatomical planes with the stereoscopic visualization of three-dimensional laparoscopy, this technique facilitates identification of vessel-tissue relationships, vascular control, lymphadenectomy, tumor dissection, and tissue mobilization. These features may help reduce inadvertent vascular injury and intraoperative blood loss while enabling complete tumor resection. The protocol provides a standardized surgical approach, particularly applicable to pancreatic head lesions adjacent to or involving major vessels, and is intended to improve the safety and reproducibility of laparoscopic pancreaticoduodenectomy.",
+ "authors": [
+  "Chen Z",
+  "Zhang Y"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42891606",
+ "importance": 0.7,
+ "key_points_ko": [
+  "결장하부 동맥 우선 접근법(infracolic artery-first approach)을 결합한 3차원 복강경 췌십이지장절제술 수술 표준 프로토콜을 제시했습니다.",
+  "상장간막동맥(SMA)의 조기 노출과 3차원 입체 시야를 활용하여 수술 중 우발적인 혈관 손상 및 출혈 위험 감소를 도모했습니다.",
+  "주요 혈관에 인접하거나 침범이 있는 췌장두부 악성 종양 환자에서 종양의 완전 절제와 림프절 절제술의 안전성을 높이기 위해 고안되었습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.3791/74248",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42891606"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Video-Audio Media"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Vis Exp",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42891606/"
+ },
+ "summary_ko": "췌십이지장절제술은 수술 위험이 높은 복잡한 수술이며 기존 복강경 방식은 혈관 노출 및 박리가 까다롭다는 한계가 있었습니다. 본 연구에서는 결장하부 접근법을 주요 술기로 결합한 3차원 복강경 동맥 우선 췌십이지장절제술 프로토콜을 제시했습니다. 3차원 복강경의 입체적인 시야와 동맥 우선 노출 방식을 통해 주요 혈관 손상과 출혈 위험을 낮추면서 안전하고 완전한 종양 절제를 목표로 합니다. 특히 주요 혈관에 인접하거나 침범이 있는 췌장 머리 병변 환자에게 적용 가능한 표준화된 수술법을 설명하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical Application of Three-dimensional Laparoscopic Artery-first Pancreaticoduodenectomy in Treating Pancreatic Head Malignant Tumors",
+ "title_ko": "췌장두부 악성 종양 치료에서 3차원 복강경 동맥 우선 췌십이지장절제술의 임상 적용",
+ "trial": null,
+ "type": "paper"
+}

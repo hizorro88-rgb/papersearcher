@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is a highly aggressive malignancy with a poor prognosis, and its molecular pathogenesis remains incompletely understood, with effective therapeutic options still limited. Establishment of sister chromatid cohesion N-acetyltransferase 1 (ESCO1) has been implicated in the development and progression of several malignancies; however, its biological role and underlying mechanisms in pancreatic cancer remain largely unknown. This study aimed to elucidate the clinical significance and molecular mechanisms of the ESCO1/NUFIP2 axis in pancreatic cancer.\nMETHODS: TCGA, CPTAC, and other publicly available datasets were used to evaluate the expression patterns, diagnostic value, and prognostic significance of ESCO1 and NUFIP2 in pancreatic cancer. In vitro and in vivo experiments were subsequently performed to characterize the biological functions of the ESCO1/NUFIP2 axis and elucidate its underlying molecular mechanisms.\nRESULTS: ESCO1 and NUFIP2 were significantly upregulated in pancreatic cancer and were associated with poor prognosis. Functional assays demonstrated that the ESCO1/NUFIP2 axis promoted pancreatic cancer cell proliferation and migration, enhanced tumor growth in vivo, and suppressed apoptosis. Mechanistically, ESCO1 promoted NUFIP2 acetylation and limited its K48-linked ubiquitination and subsequent degradation, thereby maintaining NUFIP2 protein stability. Stabilized NUFIP2 preserved mitochondrial function and suppressed mitochondrial apoptosis, whereas NUFIP2 overexpression or trichostatin A (TSA) treatment partially reversed the effects of ESCO1 depletion. Moreover, the ESCO1/NUFIP2 axis was associated with immune cell infiltration, and depletion of either ESCO1 or NUFIP2 enhanced dendritic cell (DC)-mediated cytotoxic T lymphocyte (CTL) antitumor responses.\nCONCLUSION: ESCO1 stabilizes NUFIP2 through acetylation-dependent regulation, thereby preserving mitochondrial function, suppressing mitochondrial apoptosis, and promoting pancreatic cancer progression. The ESCO1/NUFIP2 axis may also contribute to the regulation of antitumor immunity, highlighting its potential as a biomarker and therapeutic target in pancreatic cancer.",
+ "authors": [
+  "Chen L",
+  "Yan Z",
+  "Rao Y",
+  "Fu X",
+  "Fang K",
+  "Zhou Z",
+  "Peng X",
+  "Zou Y"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42890791",
+ "importance": 0.59,
+ "key_points_ko": [
+  "ESCO1과 NUFIP2는 췌장암 조직에서 유의하게 과발현되어 있으며 불량한 환자 예후와 관련이 있었습니다.",
+  "ESCO1은 NUFIP2 단백질의 아세틸화를 촉진하고 분해를 막아 미토콘드리아 세포사멸을 억제하고 종양 성장을 도왔습니다.",
+  "ESCO1 또는 NUFIP2를 결핍시키면 수지상세포(DC)에 의한 세포독성 T 림프구(CTL)의 항암 면역 반응이 증가했습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1929713",
+  "nct": [],
+  "pmcid": "PMC13672342",
+  "pmid": "42890791"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42890791/"
+ },
+ "summary_ko": "본 연구는 췌장암에서 ESCO1과 NUFIP2 유전자의 발현과 임상적 의의, 작용 기전을 분석한 기초 연구입니다. 공공 데이터베이스 분석 결과 췌장암에서 ESCO1과 NUFIP2의 발현이 높았으며 이는 불량한 예후와 연관되었습니다. 세포 및 동물 실험을 통해 ESCO1이 NUFIP2를 안정화하여 미토콘드리아 세포사멸을 억제하고 암 성장을 촉진함을 확인했습니다. 또한 이 축을 억제했을 때 수지상세포 매개 세포독성 T 림프구의 항암 면역 반응이 강화되어 치료 표적으로서의 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ESCO1 stabilizes NUFIP2 through acetylation-ubiquitination crosstalk to promote pancreatic cancer progression",
+ "title_ko": "ESCO1이 아세틸화-유비퀴틴화 상호작용을 통해 NUFIP2를 안정화하여 췌장암 진행을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

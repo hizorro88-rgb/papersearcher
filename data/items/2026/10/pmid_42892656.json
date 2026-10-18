@@ -1,0 +1,59 @@
+{
+ "abstract": "Oncogenic mutations in the K-RAS small GTPase occur in more than 90% of human PDACs and cause dysregulation of multiple metabolic pathways, including polyamine metabolism. The goal of this study was to determine whether blocking polyamine synthesis with the irreversible inhibitor α-difluoromethylornithine (DFMO) provides a valid approach to targeting metabolic dependency in mutant K-RAS pancreatic tumors, compared with direct suppression of the oncogenic K-RAS protein. The anti-tumor activity of DFMO was evaluated in vitro and in vivo in the MIA PaCa-2 pancreatic cell line (K-RASG12C) and its isogenic clonally selected line M-27, which does not express a functional GTP-bound RAS protein. MIA PaCa-2 and M-27 cells had comparable intracellular polyamine levels, and DFMO treatment effectively suppressed total polyamine levels in both cell lines (p < 0.01). DFMO reduced the protein levels of phosphorylated extracellular signal-regulated kinases 1 and 2 (ERK1/2) and RAS-like small GTPase A (RalA) but induced the phosphoinositide 3-phosphate kinase (PI3K) signaling pathway. Additionally, the intracellular levels of K-RAS and hypusinated eukaryotic initiation factor 5 A (eIF5AHyp) proteins were suppressed in DFMO-treated MIA PaCa-2 cells. DFMO therapy regimen (500 mg/kg/day by oral gavage) significantly improved survival rates of SCID mice with orthotopically implanted MIA PaCa-2 cell line (MIA PaCa-2 control vs. MIA PaCa-2 DFMO, p = 0.0184), with median survival time comparable to animals implanted with M-27 cell line (MIA PaCa-2 control vs. M-27 control, p = 0.0204). DFMO treatment did not significantly improve survival of mice bearing M-27 tumors (M-27 control vs. M-27 DFMO, p = 0.6055). These data indicate that DFMO treatment suppresses pancreatic tumorigenesis driven by the mutant K-RAS oncogene similarly to the targeted elimination of the active GTP-bound RAS protein.",
+ "authors": [
+  "Chen H",
+  "Stringer DE",
+  "Cui H",
+  "Gerner EW",
+  "Ignatenko NA"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42892656",
+ "importance": 0.52,
+ "key_points_ko": [
+  "DFMO 투여는 시험관 내 췌장암 세포에서 총 폴리아민 수치를 유의하게 감소시켰습니다(p < 0.01).",
+  "MIA PaCa-2 세포주를 이식한 동물 모델에서 DFMO(500 mg/kg/일 경구) 치료는 대조군 대비 생존율을 유의하게 향상시켰습니다(p = 0.0184).",
+  "기능성 RAS 단백질이 결여된 M-27 종양 모델에서는 DFMO 치료에 따른 유의한 생존율 개선이 나타나지 않았습니다(p = 0.6055)."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.1007/s00726-026-03559-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42892656"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-16",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Amino Acids",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42892656/"
+ },
+ "summary_ko": "이 연구는 폴리아민 합성 억제제인 DFMO(α-difluoromethylornithine)가 K-RAS 돌연변이 췌관선암(PDAC)의 대사 의존성을 표적 치료할 수 있는지 전임상 모델에서 평가했습니다. KRAS G12C 변이를 가진 MIA PaCa-2 췌장암 세포주와 비교 세포주를 대상으로 시험관 및 동물 실험을 진행했습니다. DFMO 투여는 폴리아민 합성을 억제하고 ERK1/2 및 RalA 신호를 낮추었으며, K-RAS 돌연변이 종양을 가진 쥐 모델의 생존 기간을 유의하게 연장시켰습니다. 연구진은 DFMO가 활성 RAS 단백질 억제와 유사하게 K-RAS 돌연변이에 의한 췌장 종양 형성을 억제한다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Difluoromethylornithine modulates mutant K-RAS signaling pathways in pancreatic cancer cells",
+ "title_ko": "다이플루오로메틸오르니틴(DFMO)의 췌장암 세포 내 돌연변이 K-RAS 신호 전달 경로 조절 효과",
+ "trial": null,
+ "type": "paper"
+}

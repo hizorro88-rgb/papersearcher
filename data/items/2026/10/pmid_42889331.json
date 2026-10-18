@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Neurons can regulate cancer cells to modulate their survival and growth, the interplay between calcitonin gene-related peptide (CGRP) and the acidic tumor microenvironment (TME) in pancreatic ductal adenocarcinoma (PDAC) remains unknown.\nMETHODS AND RESULTS: Here, we reported that CGRP expression and neuronal activation markers p-ERK/p-CREB were significantly elevated in PDAC tissues. Exogenous CGRP promoted PANC02 cell proliferation and migration, whereas CGRP knockout suppressed orthotopic tumor growth. Mechanistically, CGRP upregulated the proton transporters NHE1 and CA9, facilitating H+ efflux and reducing extracellular pH, thereby exacerbating TME acidification. Clinical analysis revealed that high expression of NHE1 and CA9 correlated with poor prognosis in PDAC patients. Rimegepant, a CGRP receptor antagonist, inhibited orthotopic tumor growth and exhibited synergistic effects with gemcitabine.\nCONCLUSION AND DISCUSSION: In conclusion, our findings uncover a functional connection between CGRPergic sensory neurons and the acidic TME, identifying the CGRP signaling pathway as a potential therapeutic target for PDAC. Despite these findings, the mechanistic conclusions remain correlative and require further validation, and the generalizability to human PDAC warrants future investigation.",
+ "authors": [
+  "Liu S",
+  "Wei S",
+  "Sun T",
+  "Li D",
+  "Li Y",
+  "Zhang B",
+  "Xie Y",
+  "Li W"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42889331",
+ "importance": 0.59,
+ "key_points_ko": [
+  "CGRP는 췌장암 세포의 증식과 이동을 촉진하며 양성자 수송체인 NHE1과 CA9를 조절해 종양 미세환경을 산성화했습니다.",
+  "임상 분석에서 NHE1 및 CA9의 높은 발현은 췌장암 환자의 불량한 예후와 연관되어 있었습니다.",
+  "CGRP 수용체 길항제인 rimegepant는 동물 모델에서 종양 성장을 억제하고 gemcitabine과의 병용 항암 시너지 효과를 나타냈습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.3389/fphar.2026.1928812",
+  "nct": [],
+  "pmcid": "PMC13669720",
+  "pmid": "42889331"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42889331/"
+ },
+ "summary_ko": "췌관선암종(PDAC) 조직에서 신경 펩타이드인 칼시토닌 유전자 관련 펩타이드(CGRP)와 신경 활성화 지표의 발현이 유의하게 증가한 것으로 나타났습니다. 연구진은 CGRP가 양성자 수송체인 NHE1과 CA9의 발현을 높여 종양 미세환경의 산성화를 촉진하고 암세포 증식 및 이동을 유도함을 확인했습니다. 또한 CGRP 수용체 길항제인 rimegepant(리메게판트)가 동물 모델에서 종양 성장을 억제하고 gemcitabine(젬시타빈)과의 병용 시너지 효과를 보였습니다. 이 연구는 CGRP 신호전달 경로가 췌장암 치료의 새로운 잠재적 표적이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CGRP remodels the acidic microenvironment and promotes pancreatic carcinoma progression by regulating NHE1 and CA9",
+ "title_ko": "CGRP가 NHE1과 CA9 조절을 통해 산성 미세환경을 재형성하고 췌장암 진행을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

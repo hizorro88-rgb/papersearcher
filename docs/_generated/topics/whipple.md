@@ -29,8 +29,38 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (7)
+## 타임라인 (9)
 
+<a id="pmid-42891606"></a>
+#### [췌장두부 악성 종양 치료에서 3차원 복강경 동맥 우선 췌십이지장절제술의 임상 적용](https://pubmed.ncbi.nlm.nih.gov/42891606/)
+<small>Clinical Application of Three-dimensional Laparoscopic Artery-first Pancreaticoduodenectomy in Treating Pancreatic Head Malignant Tumors</small>
+
+`논문` `기타` `수술` `치료 전반` · 2026-10-16 · PubMed · J Vis Exp · 중요도 0.70
+
+췌십이지장절제술은 수술 위험이 높은 복잡한 수술이며 기존 복강경 방식은 혈관 노출 및 박리가 까다롭다는 한계가 있었습니다. 본 연구에서는 결장하부 접근법을 주요 술기로 결합한 3차원 복강경 동맥 우선 췌십이지장절제술 프로토콜을 제시했습니다. 3차원 복강경의 입체적인 시야와 동맥 우선 노출 방식을 통해 주요 혈관 손상과 출혈 위험을 낮추면서 안전하고 완전한 종양 절제를 목표로 합니다. 특히 주요 혈관에 인접하거나 침범이 있는 췌장 머리 병변 환자에게 적용 가능한 표준화된 수술법을 설명하고 있습니다.
+
+- 결장하부 동맥 우선 접근법(infracolic artery-first approach)을 결합한 3차원 복강경 췌십이지장절제술 수술 표준 프로토콜을 제시했습니다.
+- 상장간막동맥(SMA)의 조기 노출과 3차원 입체 시야를 활용하여 수술 중 우발적인 혈관 손상 및 출혈 위험 감소를 도모했습니다.
+- 주요 혈관에 인접하거나 침범이 있는 췌장두부 악성 종양 환자에서 종양의 완전 절제와 림프절 절제술의 안전성을 높이기 위해 고안되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891606/) · [DOI](https://doi.org/10.3791/74248) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891606)</small>
+
+---
+<a id="pmid-42890554"></a>
+#### [위 동맥 혈류 보존을 동반한 복강경 위소매절제술 후 췌십이지장절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42890554/)
+<small>Pancreaticoduodenectomy after Laparoscopic Sleeve Gastrectomy with Preservation of Gastric Arterial Inflow: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-16 · PubMed · Surg Case Rep · 중요도 0.64
+
+비만 치료 목적으로 복강경 위소매절제술(LSG)을 받은 뒤 췌장두부선암이 발견된 47세 남성의 수술 증례입니다. 환자는 선행항암치료와 체중 감량(BMI 59.1 kg/m²에서 34.9 kg/m²로 감소) 후 상장간막정맥(SMV) 쐐기 절제를 포함한 아전위보존 췌십이지장절제술(PD)을 받았습니다. 수술 전 및 수술 중 좌위동맥 혈류를 보존하고 소매 위의 대만측과 공장을 수기 문합하는 방식으로 재건했습니다. 환자는 B등급 췌장루가 발생했으나 허혈성 합병증 없이 무사히 퇴원했습니다.
+
+- 위소매절제술 후 23일 만에 폐쇄성 황달로 췌장두부암이 진단된 47세 고도비만 환자의 치료 사례입니다.
+- 선행항암치료 후 위 동맥 혈류(좌위동맥)를 보존하며 췌십이지장절제술을 성공적으로 시행했습니다.
+- 수술 후 B등급 췌장루가 발생했으나 위벽 허혈 등의 합병증 없이 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890554/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0456) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673516/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890554)</small>
+
+---
 <a id="pmid-42872722"></a>
 #### [복강경 십이지장 보존 췌장 두경부 절제술](https://pubmed.ncbi.nlm.nih.gov/42872722/)
 <small>Laparoscopic Duodenum-Preserving Pancreatic Head and Neck Resection</small>

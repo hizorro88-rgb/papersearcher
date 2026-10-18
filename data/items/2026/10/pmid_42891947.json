@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) cell lines resist transfection, limiting gene-editing experiments. Here, we present a protocol for delivering CRISPR-Cas9 or prime editors into PDAC cell lines using retrovirus-derived engineered virus-like particles (eVLPs). We describe steps for generating eVLPs, packaging CRISPR-Cas9 ribonucleoproteins or prime editors with engineered prime-editing guide RNAs (epegRNAs), and transducing human PDAC cells. We use the HEK3 locus and NQO1 (NAD(P)H quinone dehydrogenase 1) exon 6 as example edits and controls, respectively. This protocol adapts readily to other genomic sites.",
+ "authors": [
+  "Timmins-Young C",
+  "Cordani M",
+  "Giovannetti E",
+  "Aslanoglou D",
+  "Gutierrez A",
+  "Costello E",
+  "Glenn M"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-18",
+ "history": [
+  {
+   "date": "2026-10-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42891947",
+ "importance": 0.61,
+ "key_points_ko": [
+  "유전자 전달이 어려운 췌관선암 세포주를 위한 조작된 바이러스 유사 입자(eVLP) 기반 유전자 교정 프로토콜이 개발되었습니다.",
+  "CRISPR-Cas9 리보핵산단백질 및 조작된 가이드 RNA(epegRNA)를 포함한 프라임 에디터를 세포 내로 전달하는 단계를 정립했습니다.",
+  "HEK3 부위 및 NQO1 엑손 6 교정을 통해 검증되었으며 다른 유전체 부위에도 쉽게 적용할 수 있습니다."
+ ],
+ "last_updated": "2026-10-18",
+ "links": {
+  "doi": "10.1016/j.xpro.2026.104904",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42891947"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-17",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "STAR Protoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42891947/"
+ },
+ "summary_ko": "췌관선암(PDAC) 세포주는 형질주입(transfection) 저항성을 보여 유전자 교정 실험에 어려움이 있습니다. 본 논문에서는 레트로바이러스 유래 조작된 바이러스 유사 입자(eVLP)를 사용하여 PDAC 세포주에 CRISPR-Cas9 또는 프라임 에디터(prime editors)를 전달하는 실험 프로토콜을 제시합니다. 연구진은 eVLP 생성, 리보핵산단백질 또는 프라임 에디터 패키징, 인간 PDAC 세포 형질도입 과정을 단계별로 설명했습니다. 이 프로토콜은 HEK3 유전자 부위와 NQO1 엑손 6을 예시로 적용하였으며 다른 유전체 부위에도 적용 가능합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Protocol for eVLP-mediated CRISPR-Cas9 and prime editing in pancreatic cancer cell lines",
+ "title_ko": "췌장암 세포주에서 eVLP를 매개로 한 CRISPR-Cas9 및 프라임 에디팅 프로토콜",
+ "trial": null,
+ "type": "paper"
+}

@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
+  "treatment",
   "surgery",
-  "treatment"
+  "drug"
  ],
  "entities": [],
  "evidence": "phase3",
@@ -20,11 +20,11 @@
  "id": "nct:NCT05634720",
  "importance": 0.96,
  "key_points_ko": [
-  "절제 가능 또는 경계성 절제 가능 췌장암 환자 23명을 대상으로 수술 전 1회 간동맥 항암치료(FUDR/oxaliplatin)를 시험합니다.",
-  "일차 평가변수는 시술 및 수술 후 30일까지의 안전성과 실행 타당성입니다.",
-  "수술 후 최대 3년 동안 3개월 간격으로 무질병 생존기간(DFS), 간 전이 무진행 생존기간(LMFS), 전체 생존기간(OS)을 추적합니다."
+  "수술 가능 또는 경계성 수술 가능 췌관선암 환자 23명을 대상으로 수술 전 간동맥 화학요법 1회 투여의 안전성을 평가합니다.",
+  "간동맥 항암요법(FUDR/옥살리플라틴) 시행 약 14일 후 표준 췌장 종양 절제술 및 전신 항암치료(FOLFIRINOX 등)를 진행합니다.",
+  "1차 평가변수는 안전성과 타당성이며, 2차 평가변수로 최장 3년간 간 전이 없는 생존기간(LMFS) 및 전체 생존기간(OS)을 추적합니다."
  ],
- "last_updated": "2026-10-17",
+ "last_updated": "2026-10-18",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05634720"
  },
- "summary_ko": "수술 및 전신 항암치료가 가능한 국소 췌관선암(PDAC) 환자 23명을 대상으로 수술 전 단회 간동맥(HA) 화학요법(FUDR/옥살리플라틴)의 안전성과 실현 가능성을 평가하는 임상시험입니다. 췌장암의 흔한 재발 부위인 간 전이를 줄이기 위해, 표준 수술 전 기회 창(window-of-opportunity) 기간 동안 간동맥을 통해 항암제를 투여합니다. 참여 환자는 진단 복강경 검사 후 2일 차에 간동맥 화학요법을 받고, 약 14일 차에 췌장암 절제 수술을 받게 됩니다. 일차 목표는 수술 후 30일까지의 안전성과 치료 절차의 실현 가능성이며, 장기적으로 무질병 생존기간(DFS)과 간 전이 무진행 생존기간(LMFS), 전체 생존기간(OS)을 추적 관찰합니다.",
+ "summary_ko": "수술이 가능한 국소 췌관선암(PDAC) 환자를 대상으로 수술 전 간동맥 화학요법(FUDR 및 옥살리플라틴 단회 투여)의 안전성과 실행 가능성을 평가하는 임상시험입니다. 환자들은 진단적 복강경을 통해 전이가 없음을 확인한 뒤 간동맥 항암치료를 받고 약 2주 후 표준 췌장 절제술을 받습니다. 수술 후 30일간 단기 안전성을 추적하고, 이후 최장 3년까지 무질병 생존기간(DFS)과 간 전이 없는 생존기간(LMFS), 전체 생존기간(OS)을 관찰합니다. 표준 치료인 수술 및 전신 항암치료에 더해 간 전이를 조기에 억제할 수 있는지 확인하는 연구입니다.",
  "summary_source": "llm",
  "tags": [
   "PDAC",
@@ -56,13 +56,13 @@
   "oxaliplatin"
  ],
  "title": "Hepatic Artery Chemotherapy for Patients With Localized Pancreas Cancer",
- "title_ko": "국소 췌장암 환자를 위한 수술 전 간동맥 화학요법 연구",
+ "title_ko": "국소 췌장암 환자를 위한 수술 전 간동맥 화학요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 조직학적 또는 세포학적으로 확진된 절제 가능 또는 경계성 절제 가능 췌관선암(PDAC)\n• 만 18세 이상 및 기대 수명 3개월 초과\n• ECOG 수행능력 평가 점수 0~1점\n• FOLFIRINOX(폴피리녹스) 전신 항암치료 적격 환자\n• 적절한 간, 신장 및 골수 기능 보유\n\n제외 기준:\n• 카테터 접근이나 약물 주입이 어려운 간동맥 해부학적 이상(복강동맥·상장간막동맥 폐색 등)\n• 수술 예정일 기준 4주 이내 CA 19-9 수치 500 초과\n• 간경변증 환자 또는 이전 간 절제술·간 이식 병력 보유자\n• 최근 2년 이내 다른 암 병력(완치된 일부 피부암·상피내암·전립선암 등 제외)\n• 활동성 B형/C형 간염, 조절되지 않는 HIV 등 전신 치료가 필요한 활동성 감염\n• 등록 전 28일 이내 주요 수술 병력 또는 심각한 심장 질환",
+  "eligibility_ko": "선정 기준: • 조직학적 또는 세포학적으로 확진된 수술 가능(resectable) 또는 경계성 수술 가능(borderline resectable) 췌관선암 • 만 18세 이상 및 ECOG 수행능력 평가 0~1점 • 폴피리녹스(FOLFIRINOX) 전신 화학요법 투여 적격자 • 예상 기대 여명 3개월 이상 • 적절한 골수, 간, 신장 기능 수치 충족. 제외 기준: • 카테터 삽입 및 약물 전달이 불가능한 간동맥 혈관 구조 변이 • 계획된 수술 전 4주 이내 CA 19-9 수치 500 초과 • 간경변증 또는 이전 간 절제술 및 간 이식 병력 • 활동성 B형/C형 간염, 치료되지 않은 담도 폐색 또는 조절되지 않는 중증 감염증 • 2년 이내 다른 악성 종양 병력(완치된 특정 피부암/상피내암 등 제외) • 최근 28일 이내 대수술 병력 또는 심각한 심장 질환",
   "eligibility_text": "Inclusion Criteria:\n\nPatients are eligible to be included in the study only if they meet all of the following criteria:\n\n1. Histologically or cytologically confirmed diagnosis of PDAC, which is clinically staged as either resectable or borderline resectable after multidisciplinary evaluation.\n2. Age \\>= 18 yo\n3. ECOG Performance Status 0-1\n4. Eligibility for FOLFIRINOX as determined by medical oncology.\n5. Women of child-bearing potential (i.e., women who are pre-menopausal or not surgically sterile) must use accepted contraceptive methods (abstinence, intrauterine device \\[IUD\\], oral contraceptive or double barrier device) during the study and must have a negative serum or urine pregnancy test within 1 week of neoadjuvant HA chemotherapy as well as during adjuvant chemotherapy as per SOC practices.\n6. Fertile men must practice effective contraceptive methods during the study, unless documentation of infertility exists.\n7. Expected survival \\>3 months.\n8. Adequate laboratory parameters and organ function, namely:\n\n   1. Absolute neutrophil count (ANC) ≥ 1.5 x 109/L\n   2. Platelets ≥ 100 x 109/L\n   3. Hemoglobin (Hgb) ≥ 8 g/dL\n   4. Total bilirubin ≤ 1.5 x upper limit of normal (ULN)\n   5. ALT and AST ≤ 2.5 x ULN\n   6. Serum creatinine ≤ 1.5 x ULN or creatinine clearance (estimated) ≥ 50 cc/min by Cockroft-Gault Formula (Appendix C)\n9. Provide written, informed consent to participate in the study and follow the study procedures.\n\nExclusion Criteria:\n\nPatients will be excluded from the study if they meet any of the following criteria:\n\n1. Hepatic arterial anatomy not amenable to percutaneous access, and/or delivery of HA chemotherapy, as determined by the principal investigator and treating interventional radiologist. These may include any of the following: celiac or superior mesenteric artery occlusion; accessory or replaced hepatic arteries that cannot be ligated, divided, or embolized per the treating surgeon/interventional radiologist and would thus require more than two hepatic artery branch cannulations to treat the entire liver; any other variant anatomy deemed to have a risk of non-target GI infusion or incomplete hepatic perfusion.\n2. CA 19-9 \\>500 within 4 weeks of planned surgical resection.\n3. Pregnancy or breastfeeding.\n4. Not willing to use an effective method of birth control.\n5. History of other carcinomas diagnosed within the last two years, except cured non-melanoma skin cancer, curatively treated in-situ cervical cancer, curatively treated localized thyroid cancer, or localized prostate cancer treated curatively with no evidence of biochemical or imaging recurrence.\n6. Liver cirrhosis.\n7. Prior liver surgery including partial hepatectomy or transplantation.\n8. Active hepatitis or unresolved biliary obstruction at the time of diagnostic laparoscopy, as evidenced by:\n\n   1. Total bilirubin \\> 1.5 x ULN\n   2. ALT and AST \\> 2.5 x ULN\n9. Recent or current active infectious disease requiring systemic antivirals, antibiotics or antifungals, or treatment within 2 weeks prior to the start of study drug, including acute or chronic active hepatitis B or hepatitis C infection, or uncontrolled HIV/AIDS. Patients with well controlled HIV are permitted. Patients receiving prophylactic antibiotics (e.g., for prevention of urinary tract infection or chronic obstructive pulmonary disease) are eligible.\n10. Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to the start of study or anticipation of need for major surgical procedure during the course of the study other than surgical resection of the pancreatic tumor.\n11. Serious, non-healing wound, ulcer, or bone fracture.\n12. History of allogenic hematopoietic stem cell transplantation.\n13. Known hepatitis B virus (HBV) infection (e.g., positive hepatitis B surface antigen \\[HBsAg\\]) or hepatitis C virus (HCV) infection (e.g., positive HCV ribonucleic acid \\[RNA\\]).\n14. Chronic treatment with systemic corticosteroids (\\> 10 mg daily prednisone equivalents) or immunosuppressive medications\n\n    * Intermittent steroids (\\< 10 mg daily prednisone equivalents) may be used on an as needed basis (e.g. for treatment of nausea, anorexia, and fatigue)\n    * Physiologic replacement doses of steroids due to adrenal insufficiency are permitted in the absence of active autoimmune disease.\n    * Topical, inhaled, or intra-articular corticosteroids are allowed.\n15. Participation in other interventional research protocols during the screening to 30 day follow up time-point.\n16. Concurrent severe and/or uncontrolled medical conditions, which may compromise participation in the study, including impaired heart function or clinically significant heart disease",
   "enrollment": 23,
   "has_results": true,
@@ -79,16 +79,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "간동맥 해부학적 변이로 카테터 접근이나 약물 주입이 어려운 경우",
-    "수술 전 4주 이내 CA 19-9 수치가 500 U/mL 초과인 경우",
-    "간경변증 또는 이전 간 절제술·간 이식 병력",
-    "최근 2년 이내 다른 암 병력",
-    "활동성 B형/C형 간염 또는 중증 심장질환"
+    "약물 전달이 불가능한 간 혈관 구조 이상",
+    "수술 전 4주 이내 CA 19-9 수치 500 U/mL 초과",
+    "간경변증 또는 이전 간 수술(간 절제술, 간 이식) 병력",
+    "활동성 간염 바이러스 감염 또는 조절되지 않는 감염 질환",
+    "최근 2년 이내 다른 암 병력(완치된 특정 암 제외)"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "수술 및 폴피리녹스 항암치료가 가능한 절제 가능 또는 경계성 절제 가능 췌장암 환자",
+   "notes_ko": "FOLFIRINOX 항암요법이 가능한 수술 전 국소 췌관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

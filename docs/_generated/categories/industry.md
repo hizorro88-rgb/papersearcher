@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 18건 · 최근 30일 18건
+전체 19건 · 최근 30일 19건
 
 월별 보기: [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42891339"></a>
+#### [마이크로바이옴과 췌장암의 상호작용: 종양 생물학부터 치료적 개입까지](https://pubmed.ncbi.nlm.nih.gov/42891339/)
+<small>Microbiome-pancreatic cancer crosstalk: From tumor biology to therapeutic intervention</small>
+
+`논문` `종설` `기초연구` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-07-29 · PubMed · IMetaOmics · 중요도 0.59
+
+본 종설 논문은 췌장암 종양 내 마이크로바이옴(intratumoral microbiome)이 암 발생, 종양 미세환경(TME) 재구성 및 기존 치료 반응에 미치는 영향을 종합적으로 정리했습니다. 췌장암 내부에는 Pseudomonas 및 Bacteroides와 같은 친종양성 균종과 Lactobacillus와 같은 보호 균종이 공존하며 질병 진행 및 면역억제 환경을 조절합니다. 또한 단쇄지방산 및 트립토판 대사산물인 3-인돌아세트산(3-IAA) 등 미생물 대사산물이 대사 재프로그래밍과 기질 활성화에 관여함을 설명했습니다. 더불어 타액 미생물 시그니처, 혈중 순환 미생물 DNA 등 진단 및 예후 예측 바이오마커와 이를 표적으로 하는 치료적 개입 가능성 및 임상 적용 과제를 다루었습니다.
+
+- 췌장암 종양 내 미생물총은 Pseudomonas, Bacteroides 등 발암 유진 균종과 Lactobacillus 등 보호 균종으로 구성되며 병기와 치료력에 따라 변화합니다.
+- 골수유래 억제세포(MDSC) 및 조절 T세포(Treg)를 통한 면역 억제, 3-인돌아세트산(3-IAA) 대사물질, 암 연관 섬유아세포(CAF) 활성화를 통해 암 진행을 촉진합니다.
+- 타액 미생물 시그니처 및 순환 미생물 DNA 등 진단·예후 예측 지표와 함께 치료 효과를 저해하는 미생물 기전을 표적하는 치료 전략이 연구되고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891339/) · [DOI](https://doi.org/10.1002/imo2.70126) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674442/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891339)</small>
+
+---
 <a id="doi-10.20944-preprints202610.1580.v1"></a>
 #### [췌장암 위험 예측 및 조기 발견을 위한 다유전자 위험 점수의 임상적 유용성에 관한 체계적 문헌고찰](https://europepmc.org/article/PPR/PPR1343383)
 <small>Polygenic Risk Scores for Pancreatic Cancer Risk Prediction and Early Detection: A Systematic Evidence Review of Clinical Utility</small>
