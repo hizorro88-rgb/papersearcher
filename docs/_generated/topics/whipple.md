@@ -151,7 +151,7 @@ search:
 - R1 절제 환자의 보정된 중앙 생존기간은 R0 절제 환자보다 8.2개월(95% 신뢰구간 -12.0~-4.3개월) 유의하게 짧았습니다.
 - R0 절제 대비 보정된 중앙 생존기간은 침범 절제연이 1곳일 때 4.6개월, 2곳일 때 6.7개월, 3곳 이상일 때 12.4개월 더 짧아 침범 부위 수가 많을수록 예후가 나빴습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888870/) · [DOI](https://doi.org/10.1093/bjsopen/zrag155) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888870)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888870/) · [DOI](https://doi.org/10.1093/bjsopen/zrag155) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13675251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888870)</small>
 
 ---
 <a id="pmid-42866830"></a>

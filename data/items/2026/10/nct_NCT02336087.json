@@ -1,0 +1,118 @@
+{
+ "abstract": "This pilot phase I trial studies the side effects of gemcitabine hydrochloride, nab-paclitaxel, metformin hydrochloride, and a standardized dietary supplement in treating patients with pancreatic cancer that cannot be removed by surgery. Drugs used in chemotherapy, such as gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Metformin hydrochloride, used for diabetes, may also help kill cancer cells. Dietary supplements (curcumin, vitamin D, vitamin K2, vitamin K1, B-6, high selenium broccoli sprouts, epigallocatechin gallate, L-carnitine, garlic extract, genistein, zinc amino chelate, mixed toxopherols, ascorbic acid, D-limonene) can block different targets in the cancer cell simultaneously and may slow down cancer growth. Giving gemcitabine hydrochloride, paclitaxel albumin-stabilized nanoparticle formulation, and metformin hydrochloride with a dietary supplement may work better in treating patients with pancreatic cancer that cannot be removed by surgery.\n\nPRIMARY OBJECTIVES:\n\nI. To assess the compliance, toxicity and feasibility of administering gemcitabine hydrochloride (gemcitabine), nab-paclitaxel (abraxane), metformin hydrochloride (metformin), and the dietary supplement (DS).\n\nSECONDARY OBJECTIVES:\n\nI. To assess the response rate associated with this combination therapy in pancreatic cancer patients.\n\nII. To assess the progression-free survival and overall survival of all patients who start protocol therapy, and describe the outcomes based on measures of compliance during the lead-in week, and compliance with supplement during chemotherapy.\n\nIII. To collect and analyze peripheral blood and pre-treatment biopsy samples for an exploratory analysis of biological correlatives.\n\nIV. To assess quality of life utilizing the Functional Assessment of Cancer Therapy-General (FACT-G) questionnaire.\n\nOUTLINE:\n\nPatients receive gemcitabine hydrochloride and paclitaxel albumin-stabilized nanoparticle formulation intravenously (IV) on days 1, 8, and 15. Patients also receive metformin hydrochloride orally (PO) twice daily (BID) starting day -6 and dietary supplement PO BID starting day -3. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up every 6 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02336087",
+ "importance": 0.81,
+ "key_points_ko": [
+  "수술 불가능 췌장암 환자 21명을 대상으로 병용요법의 독성, 안전성 및 순응도를 평가하는 1상 임상시험입니다.",
+  "정맥 항암치료(젬시타빈, 냅-파클리탁셀)와 경구 메트포르민 및 복합 식이보충제를 28일 주기로 병용합니다.",
+  "이차 평가변수로 반응률, 무진행 생존기간(PFS), 전체 생존기간(OS) 및 삶의 질(QoL)을 관찰합니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02336087"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2015-01-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "City of Hope Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02336087"
+ },
+ "summary_ko": "수술로 절제가 불가능한 진행성 또는 전이성 췌장암 환자 21명을 대상으로 진행되는 파일럿 1상 임상시험입니다. 표준 항암치료인 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel)과 함께 당뇨병 약제인 메트포르민(metformin hydrochloride), 표준화된 복합 식이보충제(dietary supplement)를 병용 투여합니다. 항암제에 암세포 증식 억제 가능성이 있는 메트포르민과 항산화·영양 보충제를 추가했을 때의 부작용, 안전성 및 복약 순응도를 확인하는 연구입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gemcitabine Hydrochloride, Paclitaxel Albumin-Stabilized Nanoparticle Formulation, Metformin Hydrochloride, and a Standardized Dietary Supplement in Treating Patients With Pancreatic Cancer That Cannot be Removed by Surgery",
+ "title_ko": "수술이 불가능한 췌장암 환자를 대상으로 한 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화 식이보충제 병용요법 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma",
+   "Unresectable Pancreatic Carcinoma",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 췌장선암(pancreatic adenocarcinoma) 환자\n- 수술로 절제가 불가능한 상태\n- 진행성 질환에 대한 이전 항암치료 경험이 없는 환자 (단, 수술 후 보조요법 완료 후 6개월 이상 지나서 재발한 경우는 참여 가능)\n- 4주 이내 CT 또는 MRI 영상 검사를 시행한 환자\n- ECOG 수행능력 점수 0~2점\n- 경구 약제 복용이 가능하고 흡수장애나 심한 구역·구토가 없는 환자\n\n제외 기준:\n- 계란 알레르기가 있는 환자\n- 와파린(warfarin) 복용이 필요한 환자\n- 시험용 식이보충제 외에 다른 건강보조식품 복용을 중단할 수 없는 환자\n- 중증 감염증으로 치료 중이거나 대수술 후 회복 중인 환자\n- 5년 이내 다른 악성 종양 병력이 있는 환자 (완치된 비흑색종 피부암, 상피내암 등 제외)\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have a histologic diagnosis of pancreatic adenocarcinoma\n* Patient must have unresectable disease\n* Patients must not have received prior chemotherapy except for the following circumstances; gemcitabine and capecitabine chemotherapy given in the adjuvant setting is allowed if the recurrence is greater than 6 months from the completion of chemotherapy; radiation sensitizing doses of 5-fluororuracil or capecitabine are allowed as part of adjuvant treatment and recurrence must be documented greater than 6 months from the completion of adjuvant therapy\n* Computed tomography (CT) or magnetic resonance imaging (MRI) scan must be obtained within 4 weeks prior to study entry\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Absolute neutrophil count \\> 1,500/mcl\n* Platelet count \\> 100,000/mcl\n* Creatinine \\< 1.4 mg/dl and/or a measured creatinine clearance \\> 60 cc/min\n* Bilirubin \\< 1.4 mg/dl\n* Alanine aminotransferase (ALT), aspartate aminotransferase (AST) no greater than 3.0 times the upper limit of normal\n* Patients currently being treated for severe infections or who are recovering from major surgery or other intercurrent illnesses are ineligible until recovery is deemed complete by the investigator\n* Patients must not be pregnant or nursing; women and men of reproductive potential must have agreed to use an effective contraceptive method\n* All patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines\n* Patients must be able to swallow pills and must not have malabsorption problems or ongoing nausea and vomiting that would affect oral treatment\n* No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for five years\n* Patients currently taking metformin will be eligible\n* Patients allergic to eggs are not eligible\n* Patients taking additional dietary/herbal supplements (excluding Senekot) outside of this protocol and refusing to stop are not eligible\n* Patients requiring warfarin are not eligible",
+  "enrollment": 21,
+  "has_results": false,
+  "interventions": [
+   "Gemcitabine Hydrochloride",
+   "Paclitaxel Albumin-Stabilized Nanoparticle Formulation",
+   "Metformin Hydrochloride",
+   "Therapeutic Dietary Intervention",
+   "Laboratory Biomarker Analysis",
+   "Quality-of-Life Assessment"
+  ],
+  "last_update_posted": "2026-10-19",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "계란 알레르기 병력",
+    "와파린 항응고제 복용 필요 환자",
+    "기타 건강보조식품 복용 중단 불가",
+    "활동성 중증 감염 또는 대수술 회복 중",
+    "5년 이내 다른 암 병력"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "진행성 질환에 대해 항암치료를 받은 적이 없는 수술 불가 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT02336087",
+  "phase": "PHASE1",
+  "primary_completion_date": "2020-10-04",
+  "sex": "ALL",
+  "sponsor": "City of Hope Medical Center",
+  "start_date": "2016-03-17",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

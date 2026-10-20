@@ -1,0 +1,62 @@
+{
+ "abstract": "Malignant ascites provides a window into cancer-immune interactions in the peritoneal cavity. Using Cytometry by Time of Flight (CyTOF), we analyzed ascitic immune cells collected from patients with advanced gastrointestinal cancers, nonmalignant forms of hepatitis (NMH), and healthy control peripheral blood mononuclear cells (HC PBMCs). Compositionally, ascitic immune cells shared a myeloid-rich, B and naïve T cell-low signature relative to HC PBMCs. Underneath the shared ascitic compositional signature, three major functional immunophenotypes emerged in response to exogenous stimulation along a suppressive to cytotoxic axis, aligning with Luminex measurements of ascitic cytokine levels: IL-10 enriched, Nonpolarized, and Granzyme B (GZMB) enriched. In our cohort, the IL-10 enriched functional immunophenotype was exclusive to samples from patients with cancer while the GZMB enriched response was dominated by NMH samples. Ascites from patients with pancreatic ductal adenocarcinoma (PDAC) contained a persistent anti-cancer humoral response characterized by IgG that bound to autologous ascitic PDAC cells and multiple allogeneic PDAC cell lines.",
+ "authors": [
+  "Shaw ER",
+  "Hernandez AG",
+  "Huang L",
+  "Szeglin BC",
+  "Wang Y",
+  "Merwanji CM",
+  "Golloshi R",
+  "Dunworth M"
+ ],
+ "categories": [
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42896121",
+ "importance": 0.65,
+ "key_points_ko": [
+  "악성 복수 면역세포는 골수계 세포가 풍부하고 B세포와 순수 T세포 비율이 낮았습니다.",
+  "IL-10이 풍부한 면역 억제 기능 표현형은 암 환자의 복수 샘플에서만 독점적으로 나타났습니다.",
+  "췌관선암 환자의 복수 내에는 자가 암세포 및 여러 동종 췌장암 세포주에 결합하는 IgG 항체 반응이 유지되고 있었습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1158/2326-6066.CIR-26-0305",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42896121"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Immunol Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42896121/"
+ },
+ "summary_ko": "이 연구는 진행성 소화기암 환자의 악성 복수(Malignant ascites) 내 면역세포 특성을 단일세포 질량분석법(CyTOF)으로 분석했습니다. 복수 내 면역세포는 건강인의 혈액에 비해 골수계 세포가 많고 B세포와 순수 T세포는 적은 특징을 공유했습니다. 특히 암 환자의 복수에서는 면역 억제성 사이토카인인 인터루킨-10(IL-10)이 풍부한 면역 억제 표현형이 독점적으로 관찰되었습니다. 췌관선암(PDAC) 환자의 복수에서는 환자 본인의 암세포뿐 아니라 다른 췌장암 세포주에도 결합하는 면역글로불린 G(IgG) 항체 반응이 지속적으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Malignant Ascites Harbors Immune Niche with IL-10 Enriched Effector Dysfunction and Persistent Cancer-Binding IgG",
+ "title_ko": "악성 복수는 IL-10이 풍부한 면역세포 기능 장애와 지속적인 암 결합 IgG 항체 환경을 나타냅니다",
+ "trial": null,
+ "type": "paper"
+}

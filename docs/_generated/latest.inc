@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>662</b><span>누적 수집<br><small>논문·소식 221 · 임상시험 441</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 28건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>673</b><span>누적 수집<br><small>논문·소식 225 · 임상시험 448</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 6건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-18](_generated/daily/2026/10/18.md)
+최근 수집일: [2026-10-20](_generated/daily/2026/10/20.md)
 
 <a id="nct-nct06989437"></a>
 #### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)

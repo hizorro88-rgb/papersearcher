@@ -16,12 +16,87 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 117건 · 최근 30일 117건
+전체 120건 · 최근 30일 120건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42896131"></a>
+#### [다양한 인종 코호트의 공간 전사체 분석을 통해 밝힌 췌장암 아형 및 면역 미세환경의 인종별 차이](https://pubmed.ncbi.nlm.nih.gov/42896131/)
+<small>Spatial Transcriptomics on a Diverse Pancreatic Cancer Cohort Reveals Race-Related Differences in Tumor Subtypes and Immune Microenvironments</small>
+
+`논문` `관찰연구` `기초연구` · 2026-10-19 · PubMed · Cancer Res · 중요도 0.77
+
+흑인 아프리카계 미국인은 비아프리카계에 비해 췌관선암(PDAC) 발병 위험이 20% 더 높게 나타납니다. 연구진은 전장 엑솜 염기서열 분석, 공간 전사체학(ST), 공간 단백체학을 통해 인종 간 종양 세포 및 미세환경 차이를 다중오믹스로 비교 분석했습니다. 분석 결과 두 인종 간 주요 암 유발 유전자 변이에는 차이가 없었으나, 흑인 환자의 종양에서 전형적(classical) 아형 세포가 적고 중간/혼합형(intermediate/hybrid) 아형 세포가 유의하게 많았습니다. 또한 흑인 환자 종양에서는 B세포 상호작용이 증가하고 더 크고 많은 수의 3차 림프구 구조(TLS)가 관찰되는 등 뚜렷한 면역학적 차이를 보였습니다.
+
+- 흑인 아프리카계 미국인 환자는 비아프리카계에 비해 췌장암 발병률이 20% 높으나, 주요 암 유발 드라이버 유전자 변이에는 유의한 차이가 없었습니다.
+- 흑인 환자의 종양 조직은 전형적(classical) 아형 세포가 적은 대신 중간/혼합형(intermediate/hybrid) 아형 세포가 유의하게 풍부했습니다.
+- 흑인 환자의 종양 미세환경에서는 B세포 상호작용이 증가하고 3차 림프구 구조(TLS)의 크기와 개수가 더 큰 것으로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896131/) · [DOI](https://doi.org/10.1158/0008-5472.CAN-25-2748) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896131)</small>
+
+---
+<a id="pmid-42896121"></a>
+#### [악성 복수는 IL-10이 풍부한 면역세포 기능 장애와 지속적인 암 결합 IgG 항체 환경을 나타냅니다](https://pubmed.ncbi.nlm.nih.gov/42896121/)
+<small>Malignant Ascites Harbors Immune Niche with IL-10 Enriched Effector Dysfunction and Persistent Cancer-Binding IgG</small>
+
+`논문` `관찰연구` `기초연구` `지지요법·삶의질` · 2026-10-19 · PubMed · Cancer Immunol Res · 중요도 0.65
+
+이 연구는 진행성 소화기암 환자의 악성 복수(Malignant ascites) 내 면역세포 특성을 단일세포 질량분석법(CyTOF)으로 분석했습니다. 복수 내 면역세포는 건강인의 혈액에 비해 골수계 세포가 많고 B세포와 순수 T세포는 적은 특징을 공유했습니다. 특히 암 환자의 복수에서는 면역 억제성 사이토카인인 인터루킨-10(IL-10)이 풍부한 면역 억제 표현형이 독점적으로 관찰되었습니다. 췌관선암(PDAC) 환자의 복수에서는 환자 본인의 암세포뿐 아니라 다른 췌장암 세포주에도 결합하는 면역글로불린 G(IgG) 항체 반응이 지속적으로 확인되었습니다.
+
+- 악성 복수 면역세포는 골수계 세포가 풍부하고 B세포와 순수 T세포 비율이 낮았습니다.
+- IL-10이 풍부한 면역 억제 기능 표현형은 암 환자의 복수 샘플에서만 독점적으로 나타났습니다.
+- 췌관선암 환자의 복수 내에는 자가 암세포 및 여러 동종 췌장암 세포주에 결합하는 IgG 항체 반응이 유지되고 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896121/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0305) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896121)</small>
+
+---
+<a id="pmid-42888424"></a>
+#### [PUM2 매개 조절을 통한 PAFAH1B1 안정화가 페롭토시스를 유도하여 췌관선암의 125I 방사선 입자 저항성을 극복함](https://pubmed.ncbi.nlm.nih.gov/42888424/)
+<small>PAFAH1B1 stabilization, through PUM2-mediated competitive binding with miRNAs on its&#x27; 3&#x27;-UTR, takes active actions on ferroptosis to overcome the radioresistance to 125I radioactive particles of pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `치료 전반` `진단·조기발견` · 2026-09-17 · PubMed · J Transl Med · 중요도 0.59
+
+본 연구는 췌관선암(PDAC)의 주요 치료 난제인 방사선 저항성을 극복하기 위해 PAFAH1B1 단백질의 조절 기전을 규명한 전임상 기초 연구입니다. 연구진은 방사선 저항성 췌장암 세포주와 마우스 이종이식 모델을 제작하여 세포 증식, 사멸 및 페롭토시스(ferroptosis, 철 의존성 세포사멸) 변화를 분석했습니다. 연구 결과, 췌관선암 조직에서 PAFAH1B1 발현이 낮을수록 환자의 예후 및 방사선 치료 반응이 불량했습니다. PUM2 단백질이 마이크로RNA(miR-421, miR-301a-3p)와의 경쟁적 결합을 통해 PAFAH1B1 발현을 안정화시키고, 페롭토시스를 유발하여 125I 방사선 입자에 대한 감수성을 높였습니다.
+
+- 췌관선암에서 PAFAH1B1 단백질의 발현 감소는 환자의 불량한 예후 및 방사선 치료 반응 저하와 관련이 있었습니다.
+- 방사선 저항성 암세포 및 동물 모델에서 PAFAH1B1 과발현 시 페롭토시스가 유도되어 125I 방사선 감수성이 향상되었습니다.
+- PUM2는 miR-421 및 miR-301a-3p와의 경쟁적 결합을 통해 PAFAH1B1을 안정화시켜 방사선 저항성을 줄였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888424/) · [DOI](https://doi.org/10.1186/s12967-026-08948-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673625/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888424)</small>
+
+---
+<a id="pmid-42892656"></a>
+#### [다이플루오로메틸오르니틴(DFMO)의 췌장암 세포 내 돌연변이 K-RAS 신호 전달 경로 조절 효과](https://pubmed.ncbi.nlm.nih.gov/42892656/)
+<small>Difluoromethylornithine modulates mutant K-RAS signaling pathways in pancreatic cancer cells</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-09-16 · PubMed · Amino Acids · 중요도 0.52
+
+이 연구는 폴리아민 합성 억제제인 DFMO(α-difluoromethylornithine)가 K-RAS 돌연변이 췌관선암(PDAC)의 대사 의존성을 표적 치료할 수 있는지 전임상 모델에서 평가했습니다. KRAS G12C 변이를 가진 MIA PaCa-2 췌장암 세포주와 비교 세포주를 대상으로 시험관 및 동물 실험을 진행했습니다. DFMO 투여는 폴리아민 합성을 억제하고 ERK1/2 및 RalA 신호를 낮추었으며, K-RAS 돌연변이 종양을 가진 쥐 모델의 생존 기간을 유의하게 연장시켰습니다. 연구진은 DFMO가 활성 RAS 단백질 억제와 유사하게 K-RAS 돌연변이에 의한 췌장 종양 형성을 억제한다고 보고했습니다.
+
+- DFMO 투여는 시험관 내 췌장암 세포에서 총 폴리아민 수치를 유의하게 감소시켰습니다(p < 0.01).
+- MIA PaCa-2 세포주를 이식한 동물 모델에서 DFMO(500 mg/kg/일 경구) 치료는 대조군 대비 생존율을 유의하게 향상시켰습니다(p = 0.0184).
+- 기능성 RAS 단백질이 결여된 M-27 종양 모델에서는 DFMO 치료에 따른 유의한 생존율 개선이 나타나지 않았습니다(p = 0.6055).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892656/) · [DOI](https://doi.org/10.1007/s00726-026-03559-5) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13676551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892656)</small>
+
+---
+<a id="pmid-42894010"></a>
+#### [내피세포 유래 엑소좀에 의한 암세포의 염색질 접근성 및 슈퍼인핸서 리모델링과 간 전이 촉진 기전](https://pubmed.ncbi.nlm.nih.gov/42894010/)
+<small>Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization</small>
+
+`논문` `전임상` `기초연구` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · Signal Transduct Target Ther · 중요도 0.49
+
+이 연구는 포도막 흑색종 및 췌관선암(PDAC) 환자에서 간 전이 부위에 암세포가 안착하여 증식하는 기전을 규명한 기초 연구입니다. 연구진은 주변 내피세포에서 분비된 엑소좀이 전사인자 KLF4를 증가시키고 염색질 접근성 및 슈퍼인핸서를 리모델링함을 확인했습니다. 이로 인해 MCL1 및 RASGRP3 등 전이 관련 유전자의 발현이 촉진되어 암세포의 증식과 전이가 일어났습니다. 실제 췌관선암 및 포도막 흑색종 환자 데이터에서도 이들 신호 전달 단백질의 과발현이 짧은 무전이 생존기간 및 전체 생존기간과 연관되어 있었습니다.
+
+- 내피세포 유래 엑소좀 신호축(exoRN7SL2-STAT1-KLF4)이 암세포의 염색질과 슈퍼인핸서를 변화시켜 간 전이 정착을 촉진함을 밝혔습니다.
+- 이 과정에서 전이 관련 유전자인 MCL1 및 RASGRP3의 전사가 유의하게 증가했습니다.
+- 임상 데이터 분석 결과 췌관선암 및 포도막 흑색종 환자에서 RIG-I, STAT1, KLF4, RASGRP3의 과발현은 불량한 생존율과 관련이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42894010/) · [DOI](https://doi.org/10.1038/s41392-026-02876-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42894010)</small>
+
+---
 <a id="pmid-42888392"></a>
 #### [전사체 프로파일링을 통해 밝혀낸 아노이키스 저항성 췌장암 세포의 자가포식 관련 프로그램 및 예후 바이오마커](https://pubmed.ncbi.nlm.nih.gov/42888392/)
 <small>Transcriptomic profiling reveals autophagy-associated programs and prognostic biomarkers in anoikis-resistant pancreatic cancer cells</small>
@@ -67,49 +142,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891947/) · [DOI](https://doi.org/10.1016/j.xpro.2026.104904) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891947)</small>
 
 ---
-<a id="pmid-42892943"></a>
-#### [EGFR 항체 표지 암세포막 코팅 MOF 나노플랫폼을 활용한 췌장암 면역치료용 STING 작용제 diABZI의 표적 전달](https://pubmed.ncbi.nlm.nih.gov/42892943/)
-<small>EGFR-antibody-decorated cancer-cell-membrane-coated MOF nanoplatform enables targeted delivery of the STING agonist diABZI for pancreatic cancer immunotherapy</small>
+<a id="pmid-42889331"></a>
+#### [CGRP가 NHE1과 CA9 조절을 통해 산성 미세환경을 재형성하고 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42889331/)
+<small>CGRP remodels the acidic microenvironment and promotes pancreatic carcinoma progression by regulating NHE1 and CA9</small>
 
-`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-02 · PubMed · Int J Pharm X · 중요도 0.59
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-01 · PubMed · Front Pharmacol · 중요도 0.59
 
-췌관선암(PDAC)은 약물 침투가 어렵고 면역 억제 환경이 강해 면역치료 효과가 제한적입니다. 연구진은 표피성장인자수용체(EGFR)를 표적하는 항체와 암세포막으로 둘러싼 나노 전달체(EM@MOF/diABZI)를 개발하여 STING 작용제인 diABZI를 종양 부위에 정밀하게 전달했습니다. 췌장암 쥐 모델(Pan02)에 투여한 결과, 종양 축적이 증가하고 산성 환경에서 약물이 방출되면서 종양 성장이 억제되고 생존율이 개선되었습니다. 또한 종양 내 면역 활성 신호 물질 분비와 CD4+, CD8+ T세포 침윤이 유의미하게 유도되었으며 전신 독성은 관찰되지 않았습니다.
+췌관선암종(PDAC) 조직에서 신경 펩타이드인 칼시토닌 유전자 관련 펩타이드(CGRP)와 신경 활성화 지표의 발현이 유의하게 증가한 것으로 나타났습니다. 연구진은 CGRP가 양성자 수송체인 NHE1과 CA9의 발현을 높여 종양 미세환경의 산성화를 촉진하고 암세포 증식 및 이동을 유도함을 확인했습니다. 또한 CGRP 수용체 길항제인 rimegepant(리메게판트)가 동물 모델에서 종양 성장을 억제하고 gemcitabine(젬시타빈)과의 병용 시너지 효과를 보였습니다. 이 연구는 CGRP 신호전달 경로가 췌장암 치료의 새로운 잠재적 표적이 될 수 있음을 시사합니다.
 
-- EGFR 항체와 암세포막을 활용한 나노 전달체를 통해 STING 작용제(diABZI)의 종양 표적 축적과 세포 내 흡수를 개선했습니다.
-- 췌장암 동물 모델에서 대조군 대비 더 우수한 종양 성장 억제 및 생존 기간 연장 효과를 확인했습니다.
-- 종양 내 STING 경로를 활성화하여 IFN-β, CXCL10 등 면역 신호물질 분비와 CD4+, CD8+ T세포 침윤을 촉진하면서 뚜렷한 전신 독성은 나타나지 않았습니다.
+- CGRP는 췌장암 세포의 증식과 이동을 촉진하며 양성자 수송체인 NHE1과 CA9를 조절해 종양 미세환경을 산성화했습니다.
+- 임상 분석에서 NHE1 및 CA9의 높은 발현은 췌장암 환자의 불량한 예후와 연관되어 있었습니다.
+- CGRP 수용체 길항제인 rimegepant는 동물 모델에서 종양 성장을 억제하고 gemcitabine과의 병용 항암 시너지 효과를 나타냈습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892943/) · [DOI](https://doi.org/10.1016/j.ijpx.2026.100678) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13675922/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892943)</small>
-
----
-<a id="pmid-42891339"></a>
-#### [마이크로바이옴과 췌장암의 상호작용: 종양 생물학부터 치료적 개입까지](https://pubmed.ncbi.nlm.nih.gov/42891339/)
-<small>Microbiome-pancreatic cancer crosstalk: From tumor biology to therapeutic intervention</small>
-
-`논문` `종설` `기초연구` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-07-29 · PubMed · IMetaOmics · 중요도 0.59
-
-본 종설 논문은 췌장암 종양 내 마이크로바이옴(intratumoral microbiome)이 암 발생, 종양 미세환경(TME) 재구성 및 기존 치료 반응에 미치는 영향을 종합적으로 정리했습니다. 췌장암 내부에는 Pseudomonas 및 Bacteroides와 같은 친종양성 균종과 Lactobacillus와 같은 보호 균종이 공존하며 질병 진행 및 면역억제 환경을 조절합니다. 또한 단쇄지방산 및 트립토판 대사산물인 3-인돌아세트산(3-IAA) 등 미생물 대사산물이 대사 재프로그래밍과 기질 활성화에 관여함을 설명했습니다. 더불어 타액 미생물 시그니처, 혈중 순환 미생물 DNA 등 진단 및 예후 예측 바이오마커와 이를 표적으로 하는 치료적 개입 가능성 및 임상 적용 과제를 다루었습니다.
-
-- 췌장암 종양 내 미생물총은 Pseudomonas, Bacteroides 등 발암 유진 균종과 Lactobacillus 등 보호 균종으로 구성되며 병기와 치료력에 따라 변화합니다.
-- 골수유래 억제세포(MDSC) 및 조절 T세포(Treg)를 통한 면역 억제, 3-인돌아세트산(3-IAA) 대사물질, 암 연관 섬유아세포(CAF) 활성화를 통해 암 진행을 촉진합니다.
-- 타액 미생물 시그니처 및 순환 미생물 DNA 등 진단·예후 예측 지표와 함께 치료 효과를 저해하는 미생물 기전을 표적하는 치료 전략이 연구되고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891339/) · [DOI](https://doi.org/10.1002/imo2.70126) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674442/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891339)</small>
-
----
-<a id="pmid-42890791"></a>
-#### [ESCO1이 아세틸화-유비퀴틴화 상호작용을 통해 NUFIP2를 안정화하여 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42890791/)
-<small>ESCO1 stabilizes NUFIP2 through acetylation-ubiquitination crosstalk to promote pancreatic cancer progression</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-02 · PubMed · Front Immunol · 중요도 0.59
-
-본 연구는 췌장암에서 ESCO1과 NUFIP2 유전자의 발현과 임상적 의의, 작용 기전을 분석한 기초 연구입니다. 공공 데이터베이스 분석 결과 췌장암에서 ESCO1과 NUFIP2의 발현이 높았으며 이는 불량한 예후와 연관되었습니다. 세포 및 동물 실험을 통해 ESCO1이 NUFIP2를 안정화하여 미토콘드리아 세포사멸을 억제하고 암 성장을 촉진함을 확인했습니다. 또한 이 축을 억제했을 때 수지상세포 매개 세포독성 T 림프구의 항암 면역 반응이 강화되어 치료 표적으로서의 가능성을 제시했습니다.
-
-- ESCO1과 NUFIP2는 췌장암 조직에서 유의하게 과발현되어 있으며 불량한 환자 예후와 관련이 있었습니다.
-- ESCO1은 NUFIP2 단백질의 아세틸화를 촉진하고 분해를 막아 미토콘드리아 세포사멸을 억제하고 종양 성장을 도왔습니다.
-- ESCO1 또는 NUFIP2를 결핍시키면 수지상세포(DC)에 의한 세포독성 T 림프구(CTL)의 항암 면역 반응이 증가했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890791/) · [DOI](https://doi.org/10.3389/fimmu.2026.1929713) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13672342/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890791)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42889331/) · [DOI](https://doi.org/10.3389/fphar.2026.1928812) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13669720/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42889331)</small>
 
 ---
 <a id="pmid-42890651"></a>
@@ -127,34 +172,49 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890651/) · [DOI](https://doi.org/10.3389/fonc.2026.1900370) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13672013/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890651)</small>
 
 ---
-<a id="pmid-42889331"></a>
-#### [CGRP가 NHE1과 CA9 조절을 통해 산성 미세환경을 재형성하고 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42889331/)
-<small>CGRP remodels the acidic microenvironment and promotes pancreatic carcinoma progression by regulating NHE1 and CA9</small>
+<a id="pmid-42890791"></a>
+#### [ESCO1이 아세틸화-유비퀴틴화 상호작용을 통해 NUFIP2를 안정화하여 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42890791/)
+<small>ESCO1 stabilizes NUFIP2 through acetylation-ubiquitination crosstalk to promote pancreatic cancer progression</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-01 · PubMed · Front Pharmacol · 중요도 0.59
+`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-02 · PubMed · Front Immunol · 중요도 0.59
 
-췌관선암종(PDAC) 조직에서 신경 펩타이드인 칼시토닌 유전자 관련 펩타이드(CGRP)와 신경 활성화 지표의 발현이 유의하게 증가한 것으로 나타났습니다. 연구진은 CGRP가 양성자 수송체인 NHE1과 CA9의 발현을 높여 종양 미세환경의 산성화를 촉진하고 암세포 증식 및 이동을 유도함을 확인했습니다. 또한 CGRP 수용체 길항제인 rimegepant(리메게판트)가 동물 모델에서 종양 성장을 억제하고 gemcitabine(젬시타빈)과의 병용 시너지 효과를 보였습니다. 이 연구는 CGRP 신호전달 경로가 췌장암 치료의 새로운 잠재적 표적이 될 수 있음을 시사합니다.
+본 연구는 췌장암에서 ESCO1과 NUFIP2 유전자의 발현과 임상적 의의, 작용 기전을 분석한 기초 연구입니다. 공공 데이터베이스 분석 결과 췌장암에서 ESCO1과 NUFIP2의 발현이 높았으며 이는 불량한 예후와 연관되었습니다. 세포 및 동물 실험을 통해 ESCO1이 NUFIP2를 안정화하여 미토콘드리아 세포사멸을 억제하고 암 성장을 촉진함을 확인했습니다. 또한 이 축을 억제했을 때 수지상세포 매개 세포독성 T 림프구의 항암 면역 반응이 강화되어 치료 표적으로서의 가능성을 제시했습니다.
 
-- CGRP는 췌장암 세포의 증식과 이동을 촉진하며 양성자 수송체인 NHE1과 CA9를 조절해 종양 미세환경을 산성화했습니다.
-- 임상 분석에서 NHE1 및 CA9의 높은 발현은 췌장암 환자의 불량한 예후와 연관되어 있었습니다.
-- CGRP 수용체 길항제인 rimegepant는 동물 모델에서 종양 성장을 억제하고 gemcitabine과의 병용 항암 시너지 효과를 나타냈습니다.
+- ESCO1과 NUFIP2는 췌장암 조직에서 유의하게 과발현되어 있으며 불량한 환자 예후와 관련이 있었습니다.
+- ESCO1은 NUFIP2 단백질의 아세틸화를 촉진하고 분해를 막아 미토콘드리아 세포사멸을 억제하고 종양 성장을 도왔습니다.
+- ESCO1 또는 NUFIP2를 결핍시키면 수지상세포(DC)에 의한 세포독성 T 림프구(CTL)의 항암 면역 반응이 증가했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42889331/) · [DOI](https://doi.org/10.3389/fphar.2026.1928812) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13669720/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42889331)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890791/) · [DOI](https://doi.org/10.3389/fimmu.2026.1929713) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13672342/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890791)</small>
 
 ---
-<a id="pmid-42892656"></a>
-#### [다이플루오로메틸오르니틴(DFMO)의 췌장암 세포 내 돌연변이 K-RAS 신호 전달 경로 조절 효과](https://pubmed.ncbi.nlm.nih.gov/42892656/)
-<small>Difluoromethylornithine modulates mutant K-RAS signaling pathways in pancreatic cancer cells</small>
+<a id="pmid-42891339"></a>
+#### [마이크로바이옴과 췌장암의 상호작용: 종양 생물학부터 치료적 개입까지](https://pubmed.ncbi.nlm.nih.gov/42891339/)
+<small>Microbiome-pancreatic cancer crosstalk: From tumor biology to therapeutic intervention</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-09-16 · PubMed · Amino Acids · 중요도 0.52
+`논문` `종설` `기초연구` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-07-29 · PubMed · IMetaOmics · 중요도 0.59
 
-이 연구는 폴리아민 합성 억제제인 DFMO(α-difluoromethylornithine)가 K-RAS 돌연변이 췌관선암(PDAC)의 대사 의존성을 표적 치료할 수 있는지 전임상 모델에서 평가했습니다. KRAS G12C 변이를 가진 MIA PaCa-2 췌장암 세포주와 비교 세포주를 대상으로 시험관 및 동물 실험을 진행했습니다. DFMO 투여는 폴리아민 합성을 억제하고 ERK1/2 및 RalA 신호를 낮추었으며, K-RAS 돌연변이 종양을 가진 쥐 모델의 생존 기간을 유의하게 연장시켰습니다. 연구진은 DFMO가 활성 RAS 단백질 억제와 유사하게 K-RAS 돌연변이에 의한 췌장 종양 형성을 억제한다고 보고했습니다.
+본 종설 논문은 췌장암 종양 내 마이크로바이옴(intratumoral microbiome)이 암 발생, 종양 미세환경(TME) 재구성 및 기존 치료 반응에 미치는 영향을 종합적으로 정리했습니다. 췌장암 내부에는 Pseudomonas 및 Bacteroides와 같은 친종양성 균종과 Lactobacillus와 같은 보호 균종이 공존하며 질병 진행 및 면역억제 환경을 조절합니다. 또한 단쇄지방산 및 트립토판 대사산물인 3-인돌아세트산(3-IAA) 등 미생물 대사산물이 대사 재프로그래밍과 기질 활성화에 관여함을 설명했습니다. 더불어 타액 미생물 시그니처, 혈중 순환 미생물 DNA 등 진단 및 예후 예측 바이오마커와 이를 표적으로 하는 치료적 개입 가능성 및 임상 적용 과제를 다루었습니다.
 
-- DFMO 투여는 시험관 내 췌장암 세포에서 총 폴리아민 수치를 유의하게 감소시켰습니다(p < 0.01).
-- MIA PaCa-2 세포주를 이식한 동물 모델에서 DFMO(500 mg/kg/일 경구) 치료는 대조군 대비 생존율을 유의하게 향상시켰습니다(p = 0.0184).
-- 기능성 RAS 단백질이 결여된 M-27 종양 모델에서는 DFMO 치료에 따른 유의한 생존율 개선이 나타나지 않았습니다(p = 0.6055).
+- 췌장암 종양 내 미생물총은 Pseudomonas, Bacteroides 등 발암 유진 균종과 Lactobacillus 등 보호 균종으로 구성되며 병기와 치료력에 따라 변화합니다.
+- 골수유래 억제세포(MDSC) 및 조절 T세포(Treg)를 통한 면역 억제, 3-인돌아세트산(3-IAA) 대사물질, 암 연관 섬유아세포(CAF) 활성화를 통해 암 진행을 촉진합니다.
+- 타액 미생물 시그니처 및 순환 미생물 DNA 등 진단·예후 예측 지표와 함께 치료 효과를 저해하는 미생물 기전을 표적하는 치료 전략이 연구되고 있습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892656/) · [DOI](https://doi.org/10.1007/s00726-026-03559-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892656)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891339/) · [DOI](https://doi.org/10.1002/imo2.70126) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674442/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891339)</small>
+
+---
+<a id="pmid-42892943"></a>
+#### [EGFR 항체 표지 암세포막 코팅 MOF 나노플랫폼을 활용한 췌장암 면역치료용 STING 작용제 diABZI의 표적 전달](https://pubmed.ncbi.nlm.nih.gov/42892943/)
+<small>EGFR-antibody-decorated cancer-cell-membrane-coated MOF nanoplatform enables targeted delivery of the STING agonist diABZI for pancreatic cancer immunotherapy</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-02 · PubMed · Int J Pharm X · 중요도 0.59
+
+췌관선암(PDAC)은 약물 침투가 어렵고 면역 억제 환경이 강해 면역치료 효과가 제한적입니다. 연구진은 표피성장인자수용체(EGFR)를 표적하는 항체와 암세포막으로 둘러싼 나노 전달체(EM@MOF/diABZI)를 개발하여 STING 작용제인 diABZI를 종양 부위에 정밀하게 전달했습니다. 췌장암 쥐 모델(Pan02)에 투여한 결과, 종양 축적이 증가하고 산성 환경에서 약물이 방출되면서 종양 성장이 억제되고 생존율이 개선되었습니다. 또한 종양 내 면역 활성 신호 물질 분비와 CD4+, CD8+ T세포 침윤이 유의미하게 유도되었으며 전신 독성은 관찰되지 않았습니다.
+
+- EGFR 항체와 암세포막을 활용한 나노 전달체를 통해 STING 작용제(diABZI)의 종양 표적 축적과 세포 내 흡수를 개선했습니다.
+- 췌장암 동물 모델에서 대조군 대비 더 우수한 종양 성장 억제 및 생존 기간 연장 효과를 확인했습니다.
+- 종양 내 STING 경로를 활성화하여 IFN-β, CXCL10 등 면역 신호물질 분비와 CD4+, CD8+ T세포 침윤을 촉진하면서 뚜렷한 전신 독성은 나타나지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892943/) · [DOI](https://doi.org/10.1016/j.ijpx.2026.100678) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13675922/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892943)</small>
 
 ---
 <a id="pmid-42886691"></a>
@@ -170,21 +230,6 @@ search:
 - 오메가-3 식이는 IL-6 계열 사이토카인 및 면역억제성 Arg1+ 대식세포를 줄이고 항원 제시 기능의 C1q+/MHC-II+ 대식세포를 증가시켰습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886691/) · [DOI](https://doi.org/10.1073/pnas.2618288123) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886691)</small>
-
----
-<a id="pmid-42888424"></a>
-#### [PUM2 매개 조절을 통한 PAFAH1B1 안정화가 페롭토시스를 유도하여 췌관선암의 125I 방사선 입자 저항성을 극복함](https://pubmed.ncbi.nlm.nih.gov/42888424/)
-<small>PAFAH1B1 stabilization, through PUM2-mediated competitive binding with miRNAs on its&#x27; 3&#x27;-UTR, takes active actions on ferroptosis to overcome the radioresistance to 125I radioactive particles of pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `치료 전반` `진단·조기발견` · 2026-09-17 · PubMed · J Transl Med · 중요도 0.59
-
-본 연구는 췌관선암(PDAC)의 주요 치료 난제인 방사선 저항성을 극복하기 위해 PAFAH1B1 단백질의 조절 기전을 규명한 전임상 기초 연구입니다. 연구진은 방사선 저항성 췌장암 세포주와 마우스 이종이식 모델을 제작하여 세포 증식, 사멸 및 페롭토시스(ferroptosis, 철 의존성 세포사멸) 변화를 분석했습니다. 연구 결과, 췌관선암 조직에서 PAFAH1B1 발현이 낮을수록 환자의 예후 및 방사선 치료 반응이 불량했습니다. PUM2 단백질이 마이크로RNA(miR-421, miR-301a-3p)와의 경쟁적 결합을 통해 PAFAH1B1 발현을 안정화시키고, 페롭토시스를 유발하여 125I 방사선 입자에 대한 감수성을 높였습니다.
-
-- 췌관선암에서 PAFAH1B1 단백질의 발현 감소는 환자의 불량한 예후 및 방사선 치료 반응 저하와 관련이 있었습니다.
-- 방사선 저항성 암세포 및 동물 모델에서 PAFAH1B1 과발현 시 페롭토시스가 유도되어 125I 방사선 감수성이 향상되었습니다.
-- PUM2는 miR-421 및 miR-301a-3p와의 경쟁적 결합을 통해 PAFAH1B1을 안정화시켜 방사선 저항성을 줄였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888424/) · [DOI](https://doi.org/10.1186/s12967-026-08948-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888424)</small>
 
 ---
 <a id="pmid-42883736"></a>

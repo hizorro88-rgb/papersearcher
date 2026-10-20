@@ -1,0 +1,121 @@
+{
+ "abstract": "The overall study objective of this trial study is to identify and evaluate strategies to improve the accessibility of the video education with result dependent disclosure (VERDI) model, increasingly utilized as a pre-genetic testing (pretest) education alternative in clinical practice, to better serve a more diverse patient population at risk for hereditary cancers.\n\nThis study consists of two parts:\n\n* Qualitative assessment:\n\n  * This part of the research study involves watching a brief educational video about genetic testing for inherited cancer risk (about 8 minutes) before completing a short interview by video or telephone with trained researchers. This interview will be digitally recorded for later review. Participation in the study will be considered complete after the interview is finished. The qualitative assessment study will recruit 20 total participants.\n  * The data gathered from this study will inform the refinement and adaptation of the VERDI model for the subsequent randomized controlled trial.\n* Randomized control trial:\n\n  * A randomized controlled trial (RCT) will evaluate the VERDI model vs. standard genetic counseling in 1000 participants",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05225428",
+ "importance": 0.61,
+ "key_points_ko": [
+  "유전자 검사 전 비디오 교육 및 결과 공개(VERDI) 모델과 표준 유전 상담의 효과를 비교하는 임상시험입니다.",
+  "췌장암, 유방암, 난소암 등 유전성 암 위험 환자를 대상으로 하였으며, 무작위 대조군 시험에는 1,000명의 환자가 배정되었습니다.",
+  "이전에 유전자 검사를 받은 적이 없는 환자들을 대상으로 검사 전 교육의 접근성을 높이기 위해 수행되었습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05225428"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2022-02-04",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dana-Farber Cancer Institute",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05225428"
+ },
+ "summary_ko": "이 연구는 유전성 암 위험이 있는 환자를 대상으로 유전자 검사 전 비디오 교육 및 결과 연계 공개(VERDI) 모델의 접근성을 개선하고 효용을 평가하기 위해 진행되었습니다. 총 1,334명의 환자 등록을 목표로 하며 질적 평가와 무작위 대조 시험(RCT)의 두 단계로 구성되었습니다. 질적 평가 단계에서는 약 8분의 교육 비디오를 시청한 후 인터뷰를 진행했고, 무작위 대조 시험에서는 VERDI 모델을 기존의 표준 유전 상담과 직접 비교 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Genetic Testing",
+  "Breast Cancer",
+  "Ovarian Cancer",
+  "Pancreatic Cancer",
+  "Prostate Cancer",
+  "Colorectal Cancer",
+  "Renal Cancer",
+  "Melanoma",
+  "Sarcoma"
+ ],
+ "title": "Video Education With Result Dependent dIsclosure",
+ "title_ko": "유전자 검사 전 비디오 교육 및 결과 연계 공개(VERDI) 모델 평가 임상시험",
+ "trial": {
+  "conditions": [
+   "Genetic Testing",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Pancreatic Cancer",
+   "Prostate Cancer",
+   "Colorectal Cancer",
+   "Renal Cancer",
+   "Melanoma",
+   "Sarcoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 성인\n• 췌장암, 유방암, 난소암, 전립선암, 대장암, 신장암, 흑색종, 육종을 현재 진단받았거나 과거에 진단받은 병력\n• 의료 환경에서 영어 또는 스페인어를 구어 또는 문어로 이해할 수 있는 환자\n• 연구 참여 서면 동의가 가능한 환자\n• (질적 평가 연구 한정) 흑인 또는 라틴계 환자\n\n제외 기준:\n• 이전에 암 관련 유전자 검사를 받은 경험이 있는 환자\n• 이전에 생식세포계열(germline) 유전자 검사를 받은 경험이 있는 환자\n• 만성 림프구성 백혈병 등 활동성 혈액암이 있는 환자\n• 현재 임신 중인 환자\n• 현재 수감 중인 상태",
+  "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Current or prior diagnosis of breast cancer, ovarian cancer, pancreatic cancer, prostate cancer, colorectal cancer, renal cancer, melanoma, or sarcoma\n* Ability to understand spoken or written English or Spanish in a healthcare context\n* Ability to understand and the willingness to sign a written informed consent document\n* Black or Latinx (qualitative assessment study only)\n\nExclusion Criteria:\n\n* Prior cancer genetic testing\n* Prior germline genetic testing\n* Active hematologic malignancy (e.g. chronic lymphocytic leukemia)\n* Currently pregnant\n* Currently incarcerated",
+  "enrollment": 1334,
+  "has_results": false,
+  "interventions": [
+   "Video Education",
+   "Genetic Counseling"
+  ],
+  "last_update_posted": "2026-10-19",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "이전 암 유전자 검사 또는 생식세포계열 유전자 검사 병력",
+    "만성 림프구성 백혈병 등 활동성 혈액암",
+    "임신 중이거나 수감 상태"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "이전에 암 유전자 검사를 받은 적이 없는 췌장암 등 암 환자 대상의 유전자 검사 비디오 교육 임상시험",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05225428",
+  "phase": "NA",
+  "primary_completion_date": "2026-09-01",
+  "sex": "ALL",
+  "sponsor": "Dana-Farber Cancer Institute",
+  "start_date": "2022-08-04",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

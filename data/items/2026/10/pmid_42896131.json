@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy 20% more likely to develop in Black African Americans (BAA) compared to Non-African Americans (NAA). Large-scale gene expression analysis of tumor subtypes and cellular microenvironments in a diverse PDAC cohort could help provide insights into cell and molecular differences in BAA cancer cells. Here, we conducted a multi-omics interrogation of BAA versus NAA PDAC using whole exome sequencing, spatial transcriptomics (ST), and spatial proteomics. Whole exome sequencing confirmed patient ancestry and showed no significant differences in driver mutations between race groups. BAA PDAC tumors had significantly fewer classical molecular subtype cells with no change in more aggressive basal-like cells. Instead, BAA patients showed a significant enrichment of the intermediate/hybrid subtype compared to NAA patients. BAA tumors also displayed increased B cell and reduced myeloid cell interactions compared to NAA tumors. Analysis of tertiary lymphoid structures in a validation cohort revealed that tumors in BAA patients displayed larger TLS size and number compared to NAA. In conclusion, these findings identify an increased intermediate molecular subtype signature in BAA tumors at the expense of cells with a classical subtype, accompanied by a distinct immune cell composition and spatial distribution. This study highlights that health disparities in patients of different ancestries may have a molecular basis that influences tumor aggressiveness and the immune response, which may inform therapeutic strategies.",
+ "authors": [
+  "Wu Y",
+  "Sålas-Escabillas DJ",
+  "Xie A",
+  "Loveless IM",
+  "Baca Y",
+  "Hartway K",
+  "Shankar R",
+  "Zwernik SD"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42896131",
+ "importance": 0.77,
+ "key_points_ko": [
+  "흑인 아프리카계 미국인 환자는 비아프리카계에 비해 췌장암 발병률이 20% 높으나, 주요 암 유발 드라이버 유전자 변이에는 유의한 차이가 없었습니다.",
+  "흑인 환자의 종양 조직은 전형적(classical) 아형 세포가 적은 대신 중간/혼합형(intermediate/hybrid) 아형 세포가 유의하게 풍부했습니다.",
+  "흑인 환자의 종양 미세환경에서는 B세포 상호작용이 증가하고 3차 림프구 구조(TLS)의 크기와 개수가 더 큰 것으로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-25-2748",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42896131"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42896131/"
+ },
+ "summary_ko": "흑인 아프리카계 미국인은 비아프리카계에 비해 췌관선암(PDAC) 발병 위험이 20% 더 높게 나타납니다. 연구진은 전장 엑솜 염기서열 분석, 공간 전사체학(ST), 공간 단백체학을 통해 인종 간 종양 세포 및 미세환경 차이를 다중오믹스로 비교 분석했습니다. 분석 결과 두 인종 간 주요 암 유발 유전자 변이에는 차이가 없었으나, 흑인 환자의 종양에서 전형적(classical) 아형 세포가 적고 중간/혼합형(intermediate/hybrid) 아형 세포가 유의하게 많았습니다. 또한 흑인 환자 종양에서는 B세포 상호작용이 증가하고 더 크고 많은 수의 3차 림프구 구조(TLS)가 관찰되는 등 뚜렷한 면역학적 차이를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Spatial Transcriptomics on a Diverse Pancreatic Cancer Cohort Reveals Race-Related Differences in Tumor Subtypes and Immune Microenvironments",
+ "title_ko": "다양한 인종 코호트의 공간 전사체 분석을 통해 밝힌 췌장암 아형 및 면역 미세환경의 인종별 차이",
+ "trial": null,
+ "type": "paper"
+}

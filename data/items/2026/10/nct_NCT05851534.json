@@ -1,0 +1,123 @@
+{
+ "abstract": "The goal of this stepped-wedge randomized controlled trial is to investigate whether implementation of a best practice program for preoperative optimisation (prehabilitation program) with a focus on screening, assessment, and intervention of 8 potentially (partly) modifiable risk factors in patients with (suspected) pancreatic cancer will improve outcome. The main questions it will aim to answer are:\n\n1. Does a prehabilitation program improve the time to functional recovery after pancreatic surgery?\n2. Does a prehabilitation program lead to a reduction in the Comprehensive Complication Index after pancreatic surgery?\n\nBackground In the past, little attention has been given in the daily practice to the patient's condition before an operation. Recent studies have shown the benefit of preoperative optimisation programs. However, these studies consisted only of smaller studies and were mainly performed in patients who underwent colorectal surgery. Although promising, unfortunately, strong evidence to support the contribution of prehabilitation to optimize the functional outcome after surgery is still lacking and consequently it is not included in the Dutch basic health insurance package.\n\nObjective To investigate whether implementation of a best practice program for preoperative optimisation of patients with a focus on screening, assessment, and intervention of 8 potentially (partly) modifiable risk factors (low (aerobic) fitness level, malnutrition, low psychological resilience, comorbidities (iron deficiency (anaemia), impaired glucose control and frailty), and intoxications (alcohol and smoking behaviour)) will improve the time to functional recovery.\n\nStudy design A nationwide stepped-wedge cluster randomized trial. In this design all participating centres will cross over from current practice to the best practice program, in a randomised order. At the end of the study, all centres will have implemented the best practice program.\n\nStudy population 13 centres performing major pancreatic surgery in the Netherlands collaborating within the Dutch Pancreatic Cancer Group (DPCG).\n\nIntervention Preoperative screening of all patients scheduled for pancreatic resection on (aerobic) fitness level, malnutrition risk, psychological resilience, haemoglobin, iron and HbA1c concentration, frailty, and alcohol and smoking behaviour. All patients are provided with a patient-tailored, multimodal prehabilitation program, in which these potentially (partly) modifiable factors are preoperatively addressed. This program is based on findings in previous screening and prehabilitation programs, a national inventory of current preoperative care protocols and expert opinion. Consensus upon this program was reached with pancreatic surgeons from all centres of the DPCG. The final program was critically reviewed by the advisory committee of internationally respected experts in the field of prehabilitation and pancreatology.\n\nComparison Preoperative care according to current practice.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05851534",
+ "importance": 0.74,
+ "key_points_ko": [
+  "네덜란드 췌장암 그룹(DPCG) 소속 13개 주요 췌장 수술 센터에서 총 2,575명을 대상으로 진행하는 계단식 쐐기형 클러스터 무작위 배정 연구입니다.",
+  "체력, 영양실조, 심리 상태, 철분 결핍/빈혈, 혈당, 노쇠, 음주 및 흡연 습관 등 8가지 위험 요인을 집중 평가하고 사전 중재합니다.",
+  "기존의 표준 수술 전 관리 방식과 비교하여 수술 후 기능 회복 시간 및 합병증 발생률 감소 효과를 검증합니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05851534"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2023-05-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Maastricht University Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05851534"
+ },
+ "summary_ko": "본 연구는 췌장암(의심 환자 포함)으로 근치적 절제술을 앞둔 성인 환자 약 2,575명을 대상으로 진행되는 네덜란드 전국 규모의 무작위 배정 임상시험입니다. 수술 전 신체 기능, 영양 상태, 심리적 회복탄력성, 동반 질환(빈혈, 혈당 조절, 노쇠), 음주 및 흡연 등 8가지 교정 가능한 위험 요인을 선별하고 맞춤형 사전재활(prehabilitation) 중재를 제공합니다. 이를 통해 수술 후 환자의 기능적 회복 기간 단축 및 종합 합병증 지수(CCI) 감소 여부를 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Prehabilitation",
+  "Pancreas",
+  "Preoperative optimisation"
+ ],
+ "title": "Preoperative Optimisation of Modifiable Risk Factors in Surgery of the Pancreas",
+ "title_ko": "췌장 수술 환자에서 교정 가능한 위험 요인의 수술 전 최적화 프로그램에 관한 임상연구",
+ "trial": {
+  "conditions": [
+   "Prehabilitation",
+   "Pancreas Cancer",
+   "Surgery",
+   "Postoperative Complications"
+  ],
+  "contacts": [
+   {
+    "email": "marcel.den.dulk@mumc.nl",
+    "name": "Marcel den Dulk, MD PhD",
+    "phone": "+3143 3875492"
+   },
+   {
+    "email": "h.driessens@umcg.nl",
+    "name": "Heleen Driessens, MD",
+    "phone": "+316 83058108"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n* 네덜란드 췌장암 그룹(DPCG) 참여 병원에서 선행 치료(neoadjuvant) 유무와 관계없이 근치적 목적의 정규 췌장 절제술이 예정된 모든 환자\n\n제외 기준:\n* 18세 미만 소아 및 청소년\n* 2주 이내로 긴급하게 수술이 예정된 급성/응급 췌장 절제술 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* All patients who are planned for a curative treatment with or without neoadjuvant treatment and elective pancreatic resection in one of the centres of the Dutch Pancreatic Cancer Group (i.e. all centres performing major pancreatic surgery)\n\nExclusion Criteria:\n\n* age \\< 18 years\n* acute pancreatic resections (resection scheduled within two weeks)",
+  "enrollment": 2575,
+  "has_results": false,
+  "interventions": [
+   "Preoperative optimisation program"
+  ],
+  "last_update_posted": "2026-10-19",
+  "location_countries": [
+   "Netherlands"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "18세 미만",
+    "2주 이내 수술이 진행되는 응급 수술"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "선행치료 유무와 관계없이 근치적 목적의 정규 췌장 절제술을 앞둔 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 13,
+  "nct_id": "NCT05851534",
+  "phase": "NA",
+  "primary_completion_date": "2027-09-02",
+  "sex": "ALL",
+  "sponsor": "Maastricht University Medical Center",
+  "start_date": "2024-09-02",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

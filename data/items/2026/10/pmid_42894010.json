@@ -1,0 +1,63 @@
+{
+ "abstract": "Liver-organotropic metastasis occurs in cancers such as uveal melanoma (UM) and pancreatic ductal adenocarcinoma (PDAC) and is a leading cause of mortality at the terminal stage. Colonization is a rate-limiting and converging step in the metastatic cascade. The drivers underlying liver colonization have largely remained elusive. In this report, we hypothesized that pioneer transcription factors (TFs) increase chromatin accessibility and superenhancer (SE) remodeling, which subsequently promote colonization-associated cellular features [e.g., proliferation, survival, cancer stem cells (CSCs), motility] by driving the transcription of the respective SE-associated genes. We tested this hypothesis and discovered that the pioneer TF KLF4 promoted chromatin accessibility and SE remodeling by ATAC-seq and ChIP-seq. Chromatin accessibility and SE remodeling significantly increased the transcription of the SE-associated genes MCL1 and RASGRP3, which consequently promoted proliferation, motility, and metastasis. Furthermore, the upregulation of KLF4 expression in UM cells was promoted by RN7SL2-containing exosomes from surrounding endothelial cells. Analysis of clinical datasets revealed that the overexpression of RIG-I, STAT1, KLF4, and RASGRP3 was individually correlated with shorter metastasis-free survival or overall survival in patients with UM and PDAC. In conclusion, the identification of the exoRN7SL2-STAT1-KLF4-SEs-RASGRP3 signaling axis may help elucidate metastatic colonization through interactions between tumor cells and the endothelial niche and may yield novel and viable therapeutic targets.",
+ "authors": [
+  "Jin B",
+  "Liu S",
+  "Huang H",
+  "Yang L",
+  "Wei D",
+  "Dai W",
+  "Zhou J",
+  "Wang Y"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42894010",
+ "importance": 0.49,
+ "key_points_ko": [
+  "내피세포 유래 엑소좀 신호축(exoRN7SL2-STAT1-KLF4)이 암세포의 염색질과 슈퍼인핸서를 변화시켜 간 전이 정착을 촉진함을 밝혔습니다.",
+  "이 과정에서 전이 관련 유전자인 MCL1 및 RASGRP3의 전사가 유의하게 증가했습니다.",
+  "임상 데이터 분석 결과 췌관선암 및 포도막 흑색종 환자에서 RIG-I, STAT1, KLF4, RASGRP3의 과발현은 불량한 생존율과 관련이 있었습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1038/s41392-026-02876-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42894010"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Signal Transduct Target Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42894010/"
+ },
+ "summary_ko": "이 연구는 포도막 흑색종 및 췌관선암(PDAC) 환자에서 간 전이 부위에 암세포가 안착하여 증식하는 기전을 규명한 기초 연구입니다. 연구진은 주변 내피세포에서 분비된 엑소좀이 전사인자 KLF4를 증가시키고 염색질 접근성 및 슈퍼인핸서를 리모델링함을 확인했습니다. 이로 인해 MCL1 및 RASGRP3 등 전이 관련 유전자의 발현이 촉진되어 암세포의 증식과 전이가 일어났습니다. 실제 췌관선암 및 포도막 흑색종 환자 데이터에서도 이들 신호 전달 단백질의 과발현이 짧은 무전이 생존기간 및 전체 생존기간과 연관되어 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization",
+ "title_ko": "내피세포 유래 엑소좀에 의한 암세포의 염색질 접근성 및 슈퍼인핸서 리모델링과 간 전이 촉진 기전",
+ "trial": null,
+ "type": "paper"
+}

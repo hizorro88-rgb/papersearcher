@@ -17,7 +17,7 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (88)
+## 관련 임상시험 (90)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -87,6 +87,7 @@ search:
 | [CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선치료 임상시험](../trials/NCT06250972.md) | 3상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 경동맥 주입술과 정맥 주사 병행 치료](../trials/NCT06196788.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 ProAgio와 젬시타빈, 팹클탁셀 및 아테톨리주맙 병용 투여의 제1상 임상시험](../trials/NCT06182072.md) | 1상 | 모집 중 | - |
+| [PLATINUM 임상시험: BRCA1/2 또는 PALB2 변이 전이성 췌장암의 2차 치료를 위한 화학요법 최적화 연구 (2/…](../trials/NCT06115499.md) | 2상/3상 | 진행 중(모집 종료) | - |
 | [진행성/재발성 전이성 췌장암 환자를 위한 C3(메트포르민, 심바스타틴, 디고신) 병용요법 제2A상 파일럿 임상시험](../trials/NCT06030622.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 및 전이성 췌관선암 환자를 대상으로 한 시타글립틴, 젬시타빈, 냅-파클리탁셀 병용요법 2상 임상시험](../trials/NCT05947825.md) | 2상 | 초대 모집 | - |
 | [진행성 췌장암 환자를 위한 AK104와 항암화학요법 병용 1차 치료 임상시험](../trials/NCT05859750.md) | 2상 | 모집 중 | - |
@@ -109,8 +110,9 @@ search:
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 zolbetuximab 병용요법의 유효성 및 안전성을 평가하는 2상 임상시험](../trials/NCT03816163.md) | 2상 | 진행 중(모집 종료) | 10 |
+| [수술이 불가능한 췌장암 환자를 대상으로 한 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화 식이보충제 병용요법 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (8)
+## 타임라인 (9)
 
 <a id="pmid-42886001"></a>
 #### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
@@ -187,6 +189,21 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-42894458"></a>
+#### [췌장 미분화 암종에서 횡문근양 특징의 임상병리학적 특성 및 예후적 가치](https://pubmed.ncbi.nlm.nih.gov/42894458/)
+<small>Clinicopathologic Characteristics and Prognostic Value of Rhabdoid Features in Pancreatic Undifferentiated Carcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` · 2026-10-01 · PubMed · Pathol Int · 중요도 0.68
+
+췌장의 미분화 암종(UC)은 매우 공격적인 희귀 암이며, 횡문근양 특징(RF)을 동반한 경우 예후가 특히 불량한 것으로 알려져 있습니다. 본 연구는 2017년부터 2024년까지 초음파 내시경 유도하 조직 생검(EUS-guided tissue acquisition)으로 진단받은 췌장 미분화 암종 환자들을 후향적으로 분석했습니다. 전체 환자 코호트에서 횡문근양 특징 여부에 따른 전체 생존기간(OS)은 통계적으로 유의미한 차이를 보이지 않았으나(3.9개월 대 12.9개월), 파골세포양 거대세포 동반 환자 2명을 제외했을 때는 횡문근양 특징이 있는 환자의 생존기간이 유의하게 짧았습니다. 연구진은 횡문근양 특징이 췌장 미분화 암종에서 잠재적인 불량 예후 인자일 수 있음을 제시했습니다.
+
+- 전체 췌장 미분화 암종 환자 중 6명에서 횡문근양 특징(UCRF)이 확인되었습니다.
+- 전체 코호트의 중앙 전체 생존기간은 횡문근양 특징군 3.9개월, 비동반군 12.9개월이었습니다(p=0.188).
+- 파골세포양 거대세포 미분화 암종 환자 2명을 제외했을 때, 횡문근양 특징이 동반된 경우 전체 생존기간이 유의하게 더 짧았습니다(p=0.009).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42894458/) · [DOI](https://doi.org/10.1111/pin.70200) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42894458)</small>
 
 ---
 <a id="pmid-42865438"></a>
