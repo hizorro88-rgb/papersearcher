@@ -1,4 +1,4 @@
-<div class="ps-stats"><div class="ps-stat"><b>673</b><span>누적 수집<br><small>논문·소식 225 · 임상시험 448</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 6건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>704</b><span>누적 수집<br><small>논문·소식 243 · 임상시험 461</small></span></div><div class="ps-stat"><b>+42</b><span>오늘 신규<br><small>갱신 11건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
 최근 수집일: [2026-10-20](_generated/daily/2026/10/20.md)
 
@@ -36,6 +36,21 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
 
 ---
+<a id="pmid-42899395"></a>
+#### [췌장암 환자의 췌장 효소 대체 요법(PERT): 용량 설정, 관리 및 의료진 관성에 대한 최초의 미국 다학제 합의안](https://pubmed.ncbi.nlm.nih.gov/42899395/)
+<small>Pancreatic Enzyme Replacement Therapy (PERT) in Pancreatic Cancer: First U.S. Consensus Highlights on Dosing, Management, and Provider Inertia</small>
+
+`논문` `가이드라인` `지지요법·삶의질` `치료 전반` · 2026-10-20 · PubMed · Oncologist · 중요도 0.95
+
+췌장암 환자에서 흔하게 발생하는 췌장 외분비 기능부전(EPI)을 관리하기 위해 미국 최초의 다학제 합의안이 수립되었습니다. 환자와 의료진 포커스 그룹 및 17명의 다학제 전문가가 참여한 델파이 합의 과정을 통해 총 15개의 최종 권고안이 도출되었습니다. 권고안은 식사당 48,000~72,000 리파아제 단위의 표준 시작 용량, 근거 기반 용량 조절법, 환자 교육, 약값 및 복약 부담 완화 전략을 제시했습니다. 이를 통해 임상 현장의 치료 편차를 줄이고 환자의 영양 상태 안정과 삶의 질, 항암 치료 지속성을 개선하는 것을 목표로 합니다.
+
+- 췌장 효소 대체 요법(PERT)의 표준 시작 용량으로 식사당 48,000~72,000 리파아제 단위가 권장되었습니다.
+- 임상 적용을 다룬 6개 핵심 권고안은 94%~100%의 높은 전문가 일치율을 기록했습니다.
+- 도출된 15개 전체 권고안 모두 81% 이상의 합의를 달성하여 근거 중심 표준 관리 지침을 마련했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
+
+---
 <a id="pmid-42868319"></a>
 #### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
 <small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
@@ -64,20 +79,5 @@
 - CD74 발현 양성은 전체 생존기간(OS) 단축과 유의한 관련을 보였습니다(3개 코호트 293명, 위험비 HR=2.04, 95% CI: 1.45-2.88, p<0.00001).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883736/) · [DOI](https://doi.org/10.3390/ijms27198488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883736)</small>
-
----
-<a id="pmid-42876703"></a>
-#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
-<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
-
-이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
-
-- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
-- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
-- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
 
 ---

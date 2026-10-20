@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is characterized by a dense stromal microenvironment that restricts nutrient availability and contributes to tumor adaptation. Cancer-associated fibroblasts (CAFs), extracellular matrix components, and tumor cells participate in reciprocal interactions that influence the metabolic state of PDAC tumors.\nOBJECTIVE: This study investigated nutrient-associated proteomic changes in three-dimensional (3D) bioprinted PDAC-CAF tumor constructs and examined alterations in metabolic and cell-junction-related pathways under nutrient-avid and nutrient-deprived conditions.\nMETHODS: Three-dimensional bioprinted pancreatic tumor constructs composed primarily of PANC1 cells and cancer-associated fibroblasts (CAFs) were cultured under nutrient-avid (N) and nutrient-deprived (N-) conditions. Constructs were monitored at Days 0, 6, and 12, and Day 6 was selected for comparative proteomic analysis as an intermediate stage at which nutrient-associated structural divergence was evident while both tumor and stromal compartments remained detectable. Label-free high-resolution LC-MS/MS proteomic profiling was followed by KEGG pathway enrichment and complementary bioinformatic analyses. Selected junction-associated findings were further examined by quantitative real-time PCR.\nRESULTS: Distinct nutrient-associated proteomic signatures were observed in the bioprinted tumor constructs. Nutrient-avid conditions were associated with enrichment of pathways including pantothenate and CoA biosynthesis, β-alanine metabolism, and arginine and proline metabolism. Nutrient-deprived conditions showed enrichment of pathways related to unsaturated fatty-acid biosynthesis, fatty-acid elongation, riboflavin metabolism, folate-associated metabolism, and terpenoid backbone biosynthesis. Nutrient-associated differences were also observed among proteins assigned to gap-junction, adherens-junction, focal-adhesion, tight-junction, and central-carbon-metabolism pathways. Selected junction-associated proteomic observations were supported at the transcript level by qPCR, although concordance between mRNA and protein abundance varied among targets.\nCONCLUSION: Nutrient availability was associated with distinct metabolic and junction-related proteomic signatures in 3D bioprinted PDAC-CAF constructs. These findings provide hypothesis-generating evidence of nutrient-dependent molecular remodeling within a multicellular PDAC model. Functional perturbation studies will be required to determine the causal and therapeutic relevance of the candidate proteins and pathways identified here.",
+ "authors": [
+  "Buyuk B",
+  "Li M",
+  "Song X",
+  "Ye K"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42898989",
+ "importance": 0.59,
+ "key_points_ko": [
+  "영양분이 풍부한 조건과 결핍된 조건에서 3D 바이오프린팅된 종양 구조물은 뚜렷한 단백체 특성을 보였습니다.",
+  "영양 풍부 조건은 판토텐산 및 CoA 생합성, 베타-알라닌 대사, 아르기닌 및 프롤린 대사 경로의 풍부화와 관련이 있었습니다.",
+  "영양 결핍 조건은 불포화 지방산 생합성, 지방산 신장, 리보플라빈 대사, 엽산 관련 대사 경로의 풍부화를 보였습니다.",
+  "갭 결합, 부착 결합, 밀착 결합 등 세포 접합 관련 단백질에서도 영양 조건에 따른 차이가 관찰되었습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.3389/fbioe.2026.1921652",
+  "nct": [],
+  "pmcid": "PMC13678492",
+  "pmid": "42898989"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Bioeng Biotechnol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42898989/"
+ },
+ "summary_ko": "이 연구는 영양분이 풍부한 조건과 결핍된 조건에서 3차원(3D) 바이오프린팅된 췌장암세포(PDAC)와 암보조섬유모세포(CAF) 종양 구조물의 단백체 변화를 조사했습니다. PANC1 세포와 CAF로 구성된 3D 구조물을 배양하여 LC-MS/MS 단백체 프로파일링을 수행했습니다. 영양분이 풍부한 조건에서는 판토텐산 및 CoA 생합성 등의 경로가 활성화되었고, 영양 결핍 조건에서는 불포화 지방산 생합성 등의 경로가 활성화되었습니다. 저자들은 영양 가용성이 다세포 췌장암 모델 내에서 영양소 의존적 분자 리모델링과 연관되어 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Proteomic analysis of bioprinted pancreatic tumor models under different nutrient conditions",
+ "title_ko": "다양한 영양 조건 하에서 3차원 바이오프린팅된 췌장 종양 모델의 단백체 분석",
+ "trial": null,
+ "type": "paper"
+}

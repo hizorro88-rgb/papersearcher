@@ -1,0 +1,58 @@
+{
+ "abstract": "Extracellular-vesicle populations average molecular signals across particles and can conceal rare, co-expressing phenotypes. We developed a dual-channel digital surface-enhanced Raman spectroscopy platform that partitions individual CD63-captured vesicles and identifies glypican-1 (GPC1) and mucin 4 (MUC4) with 4-mercaptobenzoic acid and 5,5'-dithiobis(2-nitrobenzoic acid) nanotags. The method was evaluated with eight independent batches from each of PANC-1, BxPC-3, HPDE and hTERT-HPNE cell models, seven blinded PANC-1/BxPC-3 mixtures, artificial-serum spikes and defined interferents. Across 49 256 single-vesicle events, beta-binomial modelling estimated GPC1+MUC4+ fractions of 13.8% for PANC-1 and 37.8% for BxPC-3. The adjusted between-model difference was 24.1 percentage points (batch-cluster bootstrap 95% confidence interval, 21.6-26.5; P = 5.47 × 10-9). The response was linear against log10 concentration from 1.0 × 105 to 1.0 × 109 particles per mL; the extrapolated detection-limit estimate was 1.0 × 104 particles per mL, the overall precision was 6.49% coefficient of variation, and the mean artificial-serum recovery was 100.5%. Blinded mixture estimates tracked the nominal BxPC-3 fraction, while grouped nested cross-validation classified the four cell sources with 90.6% accuracy. Digital SERS agreed with nanoflow cytometry, giving a concordance correlation coefficient of 0.980 and a mean relative bias of 1.51%. These results show that marker co-occurrence, rather than bulk abundance alone, can distinguish pancreatic-cell vesicle phenotypes and provide a quantitative route for studying source-dependent vesicle heterogeneity.",
+ "authors": [
+  "Wang X",
+  "Zhang Z",
+  "Zheng B"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42900490",
+ "importance": 0.56,
+ "key_points_ko": [
+  "베타-이항 모델링을 통한 GPC1+MUC4+ 분율은 PANC-1 13.8%, BxPC-3 37.8%였습니다.",
+  "두 모델 간 조정된 차이는 24.1 퍼센트포인트(95% 신뢰구간 21.6-26.5, P = 5.47 × 10^-9)였습니다.",
+  "검출 한계 추정치는 밀리리터당 1.0 × 10^4 개이며, 전체 정밀도의 변동 계수는 6.49%였습니다.",
+  "나노유세포분석(nanoflow cytometry)과의 일치 상관계수는 0.980, 평균 상대 편향은 1.51%를 기록했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1039/d6ay01831a",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42900490"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anal Methods",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900490/"
+ },
+ "summary_ko": "연구진은 개별 엑소좀을 분리하여 glypican-1(GPC1)과 mucin 4(MUC4)를 동시 발현하는 드문 표현형을 식별하는 이중 채널 디지털 표면증강 라만 분광법(digital surface-enhanced Raman spectroscopy) 플랫폼을 개발했습니다. 세포주 모델과 혼합물 실험을 통해 49,256개의 단일 소포 이벤트를 분석한 결과 GPC1+MUC4+ 분율은 PANC-1에서 13.8%, BxPC-3에서 37.8%로 추정되었습니다. 이 방법은 높은 정확도와 선형성을 보이며 세포 출처에 따른 엑소좀의 이질성을 정량적으로 분석할 수 있음을 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual-channel digital surface-enhanced Raman spectroscopy resolves GPC1+MUC4+ single-exosome heterogeneity released by PANC-1 and BxPC-3 pancreatic cancer cells",
+ "title_ko": "이중 채널 디지털 표면증강 라만 분광법을 통한 췌장암 세포 PANC-1 및 BxPC-3의 GPC1+MUC4+ 단일 엑소좀 이질성 분석",
+ "trial": null,
+ "type": "paper"
+}

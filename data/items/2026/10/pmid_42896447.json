@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic development is a tightly orchestrated process driven by the concerted action of multiple signaling pathways. Fibroblast growth factors (FGFs) serve as pivotal cues across its stages: they engage FGF receptors (FGFRs) to activate downstream ERK/MAPK, PI3K-AKT, and PLCγ cascades, thereby governing pancreatic progenitor proliferation, differentiation, and functional maturation. The spatiotemporal expression of FGFs is precisely coupled to developmental milestones and intertwined with Notch, Wnt, and Hedgehog signaling in a complex regulatory network. This review systematically summarizes the molecular architecture and signal transduction of the FGF family, delineates its roles in pancreatic spatiotemporal dynamics, cell-fate determination, and maturation, examines how aberrant FGF signaling contributes to pancreatic cancer, diabetes, and pancreatitis, and reviews current FGF/FGFR-targeted therapies alongside their challenges. Future work must surmount technical bottlenecks and dissect cell-specific FGF mechanisms to underpin precision medicine for pancreatic disorders.",
+ "authors": [
+  "Dou Z",
+  "Jiang Y",
+  "Liu X",
+  "Liu Z",
+  "Liu H",
+  "Lin H",
+  "Guo Y"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42896447",
+ "importance": 0.72,
+ "key_points_ko": [
+  "섬유아세포 성장 인자(FGF)는 FGF 수용체(FGFR)와 결합하여 ERK/MAPK, PI3K-AKT, PLCγ 신호전달 경로를 활성화합니다.",
+  "FGF 신호전달 이상은 췌장암, 당뇨병, 췌장염 발생에 기여합니다.",
+  "초록에 구체적인 환자 수, 반응률, 생존기간 등의 수치는 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1016/j.cytogfr.2026.101535",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42896447"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cytokine Growth Factor Rev",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42896447/"
+ },
+ "summary_ko": "이 논문은 췌장 발생과 항상성, 그리고 질환에서 섬유아세포 성장 인자(FGF, fibroblast growth factor)의 역할을 체계적으로 정리한 종설(review) 연구입니다. 췌장 전구세포의 증식과 분화, 기능적 성숙을 조절하는 FGF 신호전달 경로의 분자적 구조를 설명합니다. 또한 비정상적인 FGF 신호가 췌장암, 당뇨병, 췌장염 발생에 미치는 영향과 현재 개발 중인 FGF/FGFR 표적 치료제 및 한계점을 검토했습니다. 향후 정밀 의학을 위해 세포 특이적인 FGF 기전을 밝혀야 한다고 결론짓습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Fibroblast growth factor in pancreatic development, homeostasis, and disease",
+ "title_ko": "췌장의 발생, 항상성 및 질환에서의 섬유아세포 성장 인자",
+ "trial": null,
+ "type": "paper"
+}

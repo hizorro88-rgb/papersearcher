@@ -16,27 +16,154 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 96건 · 최근 30일 96건
+전체 105건 · 최근 30일 105건
 
 월별 보기: [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42899395"></a>
+#### [췌장암 환자의 췌장 효소 대체 요법(PERT): 용량 설정, 관리 및 의료진 관성에 대한 최초의 미국 다학제 합의안](https://pubmed.ncbi.nlm.nih.gov/42899395/)
+<small>Pancreatic Enzyme Replacement Therapy (PERT) in Pancreatic Cancer: First U.S. Consensus Highlights on Dosing, Management, and Provider Inertia</small>
+
+`논문` `가이드라인` `지지요법·삶의질` `치료 전반` · 2026-10-20 · PubMed · Oncologist · 중요도 0.95
+
+췌장암 환자에서 흔하게 발생하는 췌장 외분비 기능부전(EPI)을 관리하기 위해 미국 최초의 다학제 합의안이 수립되었습니다. 환자와 의료진 포커스 그룹 및 17명의 다학제 전문가가 참여한 델파이 합의 과정을 통해 총 15개의 최종 권고안이 도출되었습니다. 권고안은 식사당 48,000~72,000 리파아제 단위의 표준 시작 용량, 근거 기반 용량 조절법, 환자 교육, 약값 및 복약 부담 완화 전략을 제시했습니다. 이를 통해 임상 현장의 치료 편차를 줄이고 환자의 영양 상태 안정과 삶의 질, 항암 치료 지속성을 개선하는 것을 목표로 합니다.
+
+- 췌장 효소 대체 요법(PERT)의 표준 시작 용량으로 식사당 48,000~72,000 리파아제 단위가 권장되었습니다.
+- 임상 적용을 다룬 6개 핵심 권고안은 94%~100%의 높은 전문가 일치율을 기록했습니다.
+- 도출된 15개 전체 권고안 모두 81% 이상의 합의를 달성하여 근거 중심 표준 관리 지침을 마련했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
+
+---
+<a id="nct-nct05336266"></a>
+#### [진행성 췌관선암 환자의 악액질에 대한 케토롤락 치료의 타당성 연구](https://clinicaltrials.gov/study/NCT05336266)
+<small>A Feasibility Study of Ketorolac Treatment for Cachexia in Patients With Advanced Pancreatic Ductal Adenocarcinoma</small>
+
+`임상시험` `1상` `지지요법·삶의질` `신약·치료제` `진단·조기발견` · 2022-04-20 · ClinicalTrials.gov · Andrew Hendifar, MD · 중요도 0.81
+
+**NCT05336266** · 초기 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05336266.md)
+
+이 연구는 진행성 및 불응성 췌관선암 환자의 악액질(cachexia) 치료를 위해 비스테로이드성 소염진통제(NSAID)인 ketorolac(케토롤락)을 투여하는 초기 1상 임상시험입니다. 환자들은 5일 동안 ketorolac을 투여받으며 안전성, 체중 안정화 또는 증가 여부, 삶의 질 변화를 평가받습니다. 참여자는 연구에서 제공하는 핏빗(FitBit)과 스마트 체중계를 사용하여 신체 활동, 수면, 체중을 지속적으로 모니터링합니다. 총 28명의 환자를 대상으로 진행됩니다.
+
+- 진행성 및 불응성 췌장암 관련 악액질 환자 28명을 대상으로 한 초기 1상 임상시험입니다.
+- ketorolac을 5일간 투여하여 체중 안정화, 삶의 질, 안전성 및 타당성을 평가합니다.
+- 선별 전 6개월 이내 5% 이상의 체중 감소가 있는 환자가 대상입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05336266) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05336266)</small>
+
+---
+<a id="nct-nct05247905"></a>
+#### [진행성 췌장 신경내분비종양 환자 대상 카페시타빈+테모졸로미드 병용요법과 루테튬 Lu 177 도타테이트 비교 2상 임상시험 (ComPareNET)](https://clinicaltrials.gov/study/NCT05247905)
+<small>Comparing Capecitabine and Temozolomide in Combination to Lutetium Lu 177 Dotatate in Patients With Advanced Pancreatic Neuroendocrine Tumors, the ComPareNET Trial</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` `신경내분비종양` · 2022-02-21 · ClinicalTrials.gov · Alliance for Clinical Trials in Oncology · 중요도 0.79
+
+**NCT05247905** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05247905.md)
+
+이 2상 임상시험은 수술이 불가능하거나 전이된 진행성 췌장 신경내분비종양(pNET) 환자를 대상으로 항암화학요법인 capecitabine(카페시타빈) 및 temozolomide(테모졸로미드, CAPTEM) 병용 치료와 방사성 리간드 치료제인 lutetium Lu 177 dotatate(루테튬 Lu 177 도타테이트, PRRT)를 직접 비교합니다. 환자들은 8주 간격으로 최대 4주기 투여하는 lutetium Lu 177 dotatate 투여군과 경구 항암제를 4주 간격으로 최대 12주기 복용하는 CAPTEM 투여군 중 하나로 무작위 배정됩니다. 연구의 일차 목표는 두 치료군 간의 무진행 생존기간(PFS) 차이를 확인하는 것입니다.
+
+- 소마토스타틴 수용체(SSTR) 양성인 국소 절제 불가능 또는 전이성 잘 분화된(G1~G3) 췌장 신경내분비종양 환자 31명을 대상으로 합니다.
+- 일차 평가변수는 무진행 생존기간(PFS)이며, 전체 생존기간(OS), 객관적 반응률(ORR), 삶의 질(QoL) 및 부작용을 함께 비교합니다.
+- 이전에 카페시타빈, 5-FU, 테모졸로미드 또는 PRRT 치료를 받은 환자는 참여할 수 없습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05247905) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05247905)</small>
+
+---
+<a id="pmid-42900762"></a>
+#### [활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌 멘델 무작위 배정을 통한 췌장암 후보 유전자 SMDT1 및 CMTM7 발굴](https://pubmed.ncbi.nlm.nih.gov/42900762/)
+<small>Dynamic Expression Quantitative Trait Locus Mendelian Randomization in Activated CD4-Positive T Cells Nominates SMDT1 and CMTM7 as Candidate Genes in Pancreatic Cancer</small>
+
+`논문` `관찰연구` `기초연구` `지지요법·삶의질` · 2026-10-20 · PubMed · Mol Carcinog · 중요도 0.75
+
+연구진은 활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌(eQTL)를 활용해 췌관선암종(PDAC) 위험과 관련된 유전자를 탐색했습니다. 4개 코호트 메타분석 및 유럽인 데이터 분석을 활용한 2단계 멘델 무작위 배정(MR) 기법이 적용되었습니다. 분석 결과 SMDT1과 CMTM7 유전자가 췌관선암종 감수성과 관련된 후보 유전자로 도출되었습니다. 다만 보정 유의수준(FDR)을 통과한 유전자는 없어 추가적인 실험적 검증이 필요합니다.
+
+- 통합 탐색 스크리닝에서 67개 유전자가 유의성(FDR < 0.05)을 보였고, 그중 65개 유전자가 일관된 방향성을 나타냈습니다.
+- 유럽인 1차 분석에서 SMDT1은 교차비(OR) 0.603(p = 0.009), CMTM7은 교차비 1.208(p = 0.023)로 명목상 유의한 연관성을 보였습니다.
+- 유럽인 대상 분석에서 다중 비교 보정(FDR) 기준을 통과한 유전자는 없었으며, 결과 검증을 위한 추가 연구가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900762/) · [DOI](https://doi.org/10.1002/mc.70198) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900762)</small>
+
+---
 <a id="nct-nct05851534"></a>
-#### [췌장 수술 환자에서 교정 가능한 위험 요인의 수술 전 최적화 프로그램에 관한 임상연구](https://clinicaltrials.gov/study/NCT05851534)
+#### [췌장 수술 전 수정 가능한 위험 요소의 수술 전 최적화](https://clinicaltrials.gov/study/NCT05851534)
 <small>Preoperative Optimisation of Modifiable Risk Factors in Surgery of the Pancreas</small>
 
 `임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2023-05-09 · ClinicalTrials.gov · Maastricht University Medical Center · 중요도 0.74
 
 **NCT05851534** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05851534.md)
 
-본 연구는 췌장암(의심 환자 포함)으로 근치적 절제술을 앞둔 성인 환자 약 2,575명을 대상으로 진행되는 네덜란드 전국 규모의 무작위 배정 임상시험입니다. 수술 전 신체 기능, 영양 상태, 심리적 회복탄력성, 동반 질환(빈혈, 혈당 조절, 노쇠), 음주 및 흡연 등 8가지 교정 가능한 위험 요인을 선별하고 맞춤형 사전재활(prehabilitation) 중재를 제공합니다. 이를 통해 수술 후 환자의 기능적 회복 기간 단축 및 종합 합병증 지수(CCI) 감소 여부를 평가합니다.
+이 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 위험 요소 선별 및 중재를 포함하는 프리해빌리테이션(prehabilitation) 프로그램이 수술 후 회복에 미치는 영향을 조사합니다. 네덜란드 췌장암 그룹(Dutch Pancreatic Cancer Group) 소속 13개 센터에서 진행되는 전국 단위의 단계적 쐐기 집단 무작위 대조 시험(stepped-wedge cluster randomized trial)입니다. 목표 인원은 2575명이며, 환자 맞춤형 다모달 프리해빌리테이션(multimodal prehabilitation) 프로그램이 수술 후 기능적 회복 시간 및 합병증 지수(Comprehensive Complication Index)를 개선하는지 평가합니다.
 
-- 네덜란드 췌장암 그룹(DPCG) 소속 13개 주요 췌장 수술 센터에서 총 2,575명을 대상으로 진행하는 계단식 쐐기형 클러스터 무작위 배정 연구입니다.
-- 체력, 영양실조, 심리 상태, 철분 결핍/빈혈, 혈당, 노쇠, 음주 및 흡연 습관 등 8가지 위험 요인을 집중 평가하고 사전 중재합니다.
-- 기존의 표준 수술 전 관리 방식과 비교하여 수술 후 기능 회복 시간 및 합병증 발생률 감소 효과를 검증합니다.
+- 목표 연구 대상 환자 수는 총 2575명입니다.
+- 체력, 영양실조, 심리적 회복력, 빈혈, 혈당 조절, 허약, 음주 및 흡연 등 8가지 위험 요소를 중재합니다.
+- 주요 평가변수는 수술 후 기능적 회복까지 걸리는 시간과 종합 합병증 지수(Comprehensive Complication Index)의 감소 여부입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05851534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05851534)</small>
+
+---
+<a id="nct-nct07883161"></a>
+#### [국소진행성 췌장암 환자에서 HMB, 아르기닌, 글루타민을 이용한 표적 영양 중재 연구(NUTRI-MYO)](https://clinicaltrials.gov/study/NCT07883161)
+<small>Targeted Nutritional Intervention (HMB, Arginine, Glutamine) in Patients With Pancreatic Cancer</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2026-10-20 · ClinicalTrials.gov · Fondazione Policlinico Universitario Agostino Gemelli IRCCS · 중요도 0.71
+
+**NCT07883161** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07883161.md)
+
+본 연구는 1차 전신 항암 치료를 시작하는 국소진행성 췌장관선암(PDAC) 환자들을 대상으로 베타-하이드록시-베타-메틸부티레이트(HMB), L-아르기닌, L-글루타민이 포함된 경구용 영양 보충제가 골격근량 유지 및 증가에 미치는 영향을 평가합니다. 총 24명의 환자가 무작위로 배정되어 실험군은 표준 식이 상담과 함께 60일 동안 영양 보충제를 섭취하고, 대조군은 표준 식이 상담만 받습니다. 연구의 주요 평가변수는 제3요추(L3) CT 스캔을 통한 골격근 지수(SMI)의 변화입니다. 추가로 근육 질량, 신체 기능, 삶의 질, 혈액 및 대변 바이오마커 등을 60일 동안 평가합니다.
+
+- 목표 환자 수는 총 24명이며 1:1로 무작위 배정됩니다.
+- 실험군은 Abound(HMB, L-아르기닌, L-글루타민 포함) 보충제를 60일 동안 섭취합니다.
+- 주요 평가변수는 기저 시점부터 60일째까지의 골격근 지수(SMI, cm²/m²) 변화입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07883161) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07883161)</small>
+
+---
+<a id="pmid-42899602"></a>
+#### [췌장관선암에서의 치료 전 예방: 상류 자원 배분의 임상적, 경제적, 인적 타당성](https://pubmed.ncbi.nlm.nih.gov/42899602/)
+<small>Prevention Before Therapy in Pancreatic Ductal Adenocarcinoma: The Clinical, Economic, and Human Case for Weighting Resources Upstream</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-10-20 · PubMed · Cancer Prev Res (Phila) · 중요도 0.67
+
+이 논문은 췌장관선암(PDAC) 환자와 보호자를 위한 예방 및 조기 발견의 중요성을 다룬 주제별 문헌 고찰(topical review)입니다. 초기 단계의 생존율은 국소 병변일 때 약 44%인 반면 원격 전이가 있으면 약 3%로 생존율이 진단 병기에 크게 좌우됩니다. 저자들은 일차 예방, 고위험군 조기 발견, 치료로 구성된 3단계 프레임워크를 제안하며 연구와 정책 투자가 상류(예방) 단계로 향해야 한다고 주장합니다. 초록에 명시된 환자 수나 임상시험 결과 수치는 없습니다.
+
+- 췌장관선암은 진단 당시 병기에 따라 생존율이 극명하게 갈리며, 국소 병변은 5년 생존율이 약 44%인 반면 원격 전이는 약 3%입니다.
+- 국소 단계에서 발견되는 경우는 전체의 약 15%에 불과하며, 평균 위험군 성인을 위한 검증된 선별 검사는 존재하지 않습니다.
+- 초기 돌연변이 발생과 침습성 질환 사이의 긴 시간 간격은 예방과 개입(interception)의 생물학적 근거를 제공합니다.
+- 연구자들은 일차 예방, 고위험군 조기 발견, 치료의 3단계 프레임워크를 제안하며 예방에 자원을 더 배분할 것을 주장합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899602/) · [DOI](https://doi.org/10.1158/1940-6207.CAPR-26-0197) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899602)</small>
+
+---
+<a id="pmid-42899906"></a>
+#### [췌장암의 발생과 진행에서 정신적 및 신체적 스트레스의 역할](https://pubmed.ncbi.nlm.nih.gov/42899906/)
+<small>The Role of Mental and Physical Stress in the Occurrence and Development of Pancreatic Cancer</small>
+
+`논문` `종설` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-10-01 · PubMed · Stress Health · 중요도 0.66
+
+본 논문은 췌장암의 발생과 진행에 있어 정신적, 신체적 스트레스가 미치는 영향을 체계적으로 검토했습니다. 신경내분비 조절(neuroendocrine modulation), 면역 조절 장애(immune dysregulation), 행동 변화 등의 기전을 통해 스트레스와 췌장암 발생의 연관성을 분석했습니다. 또한 조기 개입과 종합 치료를 위한 새로운 통찰을 제공하고자 환자 맞춤형 스트레스 관리 전략을 탐색했습니다. 초록에 환자 대상 수치나 구체적인 생존율 결과는 명시되지 않았습니다.
+
+- 정신적 및 신체적 스트레스는 췌장암의 시작과 발달에 중요한 역할을 합니다.
+- 스트레스가 췌장암에 미치는 영향은 신경내분비 조절, 면역 조절 장애, 행동 변화 등의 기전을 통해 이루어집니다.
+- 본 연구는 조기 개입과 종합 치료를 위한 맞춤형 스트레스 관리 전략을 다룹니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899906/) · [DOI](https://doi.org/10.1002/smi.70235) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899906)</small>
+
+---
+<a id="pmid-42897094"></a>
+#### [핀란드 췌장암 환자의 당뇨병: 유병률, 당뇨병과 암 진단 간격, 그리고 전체 생존기간](https://pubmed.ncbi.nlm.nih.gov/42897094/)
+<small>Diabetes Among Finnish Pancreatic Cancer Patients: Prevalence, Time Interval Between Diabetes and Cancer Diagnosis, and Overall Survival</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-10-01 · PubMed · Cancer Med · 중요도 0.66
+
+이 연구는 14,712명의 췌장암(pancreatic cancer, PC) 환자를 대상으로 전국 등록 데이터를 활용하여 당뇨병(diabetes mellitus, DM)의 유병률과 생존기간에 미치는 영향을 조사했습니다. 18년 동안의 추적 관찰 결과, 전체 췌장암 환자의 18%가 당뇨병을 앓고 있었으며, 당뇨병과 췌장암 진단 사이의 중앙값 간격은 4.8개월이었습니다. 다변량 콕스 회귀 분석(multivariable Cox regression analysis) 결과, 췌장암 진단 후에 진단된 당뇨병만이 완화적 치료(palliative intent) 그룹(위험비(HR) 1.12, 95% 신뢰구간 1.03-1.23, p=0.011)과 근치적 치료(curative intent) 그룹(위험비(HR) 1.44, 95% 신뢰구간 1.14-1.81, p=0.002) 모두에서 더 나쁜 생존율과 연관되었습니다. 췌장암 진단 전에 진단된 장기 당뇨병이나 신규 발병 당뇨병(new-onset diabetes, NOD)은 생존기간에 유의미한 영향을 미치지 않았습니다.
+
+- 전체 췌장암 환자의 18%가 당뇨병을 가지고 있었으며, 당뇨병과 췌장암 진단 간의 중앙값은 4.8개월이었습니다.
+- 췌장암 진단 후에 진단된 당뇨병은 완화적 치료 그룹(위험비 1.12)과 근치적 치료 그룹(위험비 1.44) 모두에서 불리한 생존율과 연관되었습니다.
+- 췌장암 진단 전의 장기 당뇨병이나 신규 발병 당뇨병은 생존기간에 유의미한 영향을 미치지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897094/) · [DOI](https://doi.org/10.1002/cam4.72380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897094)</small>
 
 ---
 <a id="pmid-42896121"></a>
@@ -55,20 +182,36 @@ search:
 
 ---
 <a id="nct-nct05225428"></a>
-#### [유전자 검사 전 비디오 교육 및 결과 연계 공개(VERDI) 모델 평가 임상시험](https://clinicaltrials.gov/study/NCT05225428)
+#### [결과 종속적 공개를 통한 동영상 교육(VERDI) 모델 평가 임상시험](https://clinicaltrials.gov/study/NCT05225428)
 <small>Video Education With Result Dependent dIsclosure</small>
 
 `임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2022-02-04 · ClinicalTrials.gov · Dana-Farber Cancer Institute · 중요도 0.61
 
 **NCT05225428** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05225428.md)
 
-이 연구는 유전성 암 위험이 있는 환자를 대상으로 유전자 검사 전 비디오 교육 및 결과 연계 공개(VERDI) 모델의 접근성을 개선하고 효용을 평가하기 위해 진행되었습니다. 총 1,334명의 환자 등록을 목표로 하며 질적 평가와 무작위 대조 시험(RCT)의 두 단계로 구성되었습니다. 질적 평가 단계에서는 약 8분의 교육 비디오를 시청한 후 인터뷰를 진행했고, 무작위 대조 시험에서는 VERDI 모델을 기존의 표준 유전 상담과 직접 비교 평가했습니다.
+다나파버 암센터(Dana-Farber Cancer Institute)는 유전성 암 위험이 있는 다양한 환자군을 위해 유전자 검사 전 교육 대안으로 사용되는 VERDI 모델의 접근성을 평가하고 개선하기 위한 연구를 진행했습니다. 이 연구는 20명의 환자가 참여하는 질적 평가와 1000명의 참가자를 대상으로 표준 유전 상담과 VERDI 모델을 비교하는 무작위 대조 임상시험(RCT)으로 구성되었습니다. 참여 대상에는 췌장암을 포함한 여러 암 진단 이력이 있는 환자들이 포함되었습니다.
 
-- 유전자 검사 전 비디오 교육 및 결과 공개(VERDI) 모델과 표준 유전 상담의 효과를 비교하는 임상시험입니다.
-- 췌장암, 유방암, 난소암 등 유전성 암 위험 환자를 대상으로 하였으며, 무작위 대조군 시험에는 1,000명의 환자가 배정되었습니다.
-- 이전에 유전자 검사를 받은 적이 없는 환자들을 대상으로 검사 전 교육의 접근성을 높이기 위해 수행되었습니다.
+- 연구의 전체 목표는 유전성 암 위험 환자를 위한 VERDI 모델의 접근성을 개선하기 위한 전략을 평가하는 것입니다.
+- 질적 평가는 20명의 참가자를 대상으로 교육 영상 시청 및 인터뷰를 진행하여 VERDI 모델을 보완하는 데 활용되었습니다.
+- 무작위 대조 임상시험(RCT)은 1000명의 참가자를 대상으로 VERDI 모델과 표준 유전 상담을 비교 평가했습니다.
+- 초록에 명시되지 않음
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05225428) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05225428)</small>
+
+---
+<a id="pmid-42897170"></a>
+#### [췌장암 전임상 모델 및 관련 악액질에서의 시공간적 대사 네트워크](https://pubmed.ncbi.nlm.nih.gov/42897170/)
+<small>Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia</small>
+
+`논문` `전임상` `기초연구` `지지요법·삶의질` `진단·조기발견` · 2026-09-18 · PubMed · Nat Commun · 중요도 0.52
+
+본 연구는 췌장암 발달 과정에서 나타나는 인간 악액질(cachexia)의 종단적 진행을 재현하는 마우스 모델을 특성화했습니다. 연구진은 수컷과 암컷의 췌장, 간, 지방 조직, 골격근 등 다양한 조직에서 암 연관 악액질의 단계별 대사체를 분석했습니다. 그 결과 각 조직은 고유한 대사체와 진행 경로를 가지며 종양 간질액(interstitial fluid, IF)에서 현저한 지질(lipid) 축적이 관찰되었습니다. 또한 체중 감소 이전에 전신 대사 변화가 나타남을 확인하여 조기 진단 표지자를 발굴할 수 있는 가능성을 제시했습니다.
+
+- 췌장암 발달에 따른 전임상 모델의 다중 조직 대사체 프로파일링을 수행했습니다.
+- 종양 간질액에서 현저한 지질 축적이 확인되었습니다.
+- 체중 감소가 발생하기 전에 전신 대사 변화가 선행하는 것을 발견했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897170/) · [DOI](https://doi.org/10.1038/s41467-026-77745-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897170)</small>
 
 ---
 <a id="nct-nct07087054"></a>

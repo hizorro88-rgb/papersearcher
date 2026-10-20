@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is projected to become the second-leading cause of US cancer death by 2030, and survival is dominated by stage at diagnosis: roughly 44% at five years for localized disease versus about 3% with distant metastases. Only about 15% of cases are detected while localized, surgery reaches a minority of patients, and no validated screening test exists for average-risk adults. This topical review examines the biologic, clinical, economic, psychological, equity, and therapeutic evidence bearing on where scarce resources should be directed. The long interval between initiating mutation and invasive disease provides a mechanistic rationale for prevention and interception, and the modifiable exposures of obesity, tobacco, type 2 diabetes, and alcohol act largely within that window. We consider innovations that extend prevention beyond lifestyle advice-incretin-based weight management, risk stratification anchored in new-onset diabetes and biomarkers, and immunoprevention-together with early-onset disease, implementation and policy, and the barriers and evidentiary limits that temper these arguments. We propose a three-tier framework of primary prevention, early detection in high-risk groups, and therapy, and argue that research, policy, and clinical investment should be weighted upstream, because every case prevented spares the cost, capacity, and suffering that the downstream tiers must otherwise absorb.",
+ "authors": [
+  "Eibl G",
+  "Hines OJ",
+  "Rozengurt E"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42899602",
+ "importance": 0.67,
+ "key_points_ko": [
+  "췌장관선암은 진단 당시 병기에 따라 생존율이 극명하게 갈리며, 국소 병변은 5년 생존율이 약 44%인 반면 원격 전이는 약 3%입니다.",
+  "국소 단계에서 발견되는 경우는 전체의 약 15%에 불과하며, 평균 위험군 성인을 위한 검증된 선별 검사는 존재하지 않습니다.",
+  "초기 돌연변이 발생과 침습성 질환 사이의 긴 시간 간격은 예방과 개입(interception)의 생물학적 근거를 제공합니다.",
+  "연구자들은 일차 예방, 고위험군 조기 발견, 치료의 3단계 프레임워크를 제안하며 예방에 자원을 더 배분할 것을 주장합니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1158/1940-6207.CAPR-26-0197",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42899602"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Prev Res (Phila)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42899602/"
+ },
+ "summary_ko": "이 논문은 췌장관선암(PDAC) 환자와 보호자를 위한 예방 및 조기 발견의 중요성을 다룬 주제별 문헌 고찰(topical review)입니다. 초기 단계의 생존율은 국소 병변일 때 약 44%인 반면 원격 전이가 있으면 약 3%로 생존율이 진단 병기에 크게 좌우됩니다. 저자들은 일차 예방, 고위험군 조기 발견, 치료로 구성된 3단계 프레임워크를 제안하며 연구와 정책 투자가 상류(예방) 단계로 향해야 한다고 주장합니다. 초록에 명시된 환자 수나 임상시험 결과 수치는 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prevention Before Therapy in Pancreatic Ductal Adenocarcinoma: The Clinical, Economic, and Human Case for Weighting Resources Upstream",
+ "title_ko": "췌장관선암에서의 치료 전 예방: 상류 자원 배분의 임상적, 경제적, 인적 타당성",
+ "trial": null,
+ "type": "paper"
+}

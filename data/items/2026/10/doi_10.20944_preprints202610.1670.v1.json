@@ -1,0 +1,55 @@
+{
+ "abstract": "Dendritic cells (DCs) play an important role in coordinating innate and adaptive immunity through antigen processing, presentation and activation of immune effectors. However, DC vaccine-induced immune activation has not consistently translated into clinical benefit. In this review, we discuss the potential of engineered allogeneic DC vaccines, with emphasis on CD34+ progenitor-derived DCs expressing CD93, CD40 ligand (CD40L) and CXCL13. These preparations were found to enhance lymphocyte activation and reduce pancreatic tumor burden in humanized mouse models. Vector optimization retained tumor-inhibitory activity, although small cohorts and substantial attrition limit interpretation of the advanced-disease findings. We also discuss the differential effects of osteoclasts and DCs on natural killer (NK)-cell function and CD4+ and CD8+ T-cell expansion, and the importance of separating donor-directed alloreactivity from tumor-antigen-specific responses. Clinical studies in pancreatic cancer support the induction of antigen-specific immunity, whereas randomized DC studies in prostate cancer, melanoma and mesothelioma demonstrate the continuing challenge of translating immune activation into improved outcomes. We propose that further development should focus on recipient-human leukocyte antigen (HLA)-compatible tumor recognition, the contribution of individual transgenes, reproducible product potency, post-thaw function and product-specific safety. Together, these findings support continued investigation of engineered allogeneic DC vaccination as a strategy to coordinate antitumor immune responses, while clinical benefit remains to be established in controlled studies.",
+ "authors": [
+  "Kaur K."
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.20944/preprints202610.1670.v1",
+ "importance": 0.59,
+ "key_points_ko": [
+  "CD93, CD40L, CXCL13을 발현하는 유전자 조작 동종 수지상세포 백신은 인간화 마우스 모델에서 림프구 활성화를 강화하고 종양 부담을 줄였습니다.",
+  "소규모 코호트와 상당한 환자 이탈로 인해 진행성 질환에서의 임상 결과 해석에는 한계가 있습니다.",
+  "전립선암, 흑색종, 중피종에서의 무작위 수지상세포 연구는 면역 활성화를 개선된 치료 결과로 연결하는 것의 지속적인 어려움을 보여줍니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.20944/preprints202610.1670.v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Preprints.org",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1344670"
+ },
+ "summary_ko": "이 문헌은 췌장암 치료를 위한 유전자 조작 동종 수지상세포(DC) 백신의 잠재력과 임상적 과제를 다룬 리뷰 논문입니다. CD93, CD40 리간드(CD40L), CXCL13을 발현하는 CD34+ 전구체 유래 수지상세포가 인간화 마우스 모델에서 림프구 활성화를 높이고 췌장 종양 부담을 줄이는 것으로 나타났습니다. 그러나 임상적 이점을 입증하기 위해서는 대조군 연구를 통한 추가적인 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Engineered Allogeneic Dendritic Cell Vaccines: Coordinating Antitumor Immunity and Advancing Translation in Pancreatic Cancer",
+ "title_ko": "유전자 조작 동종 수지상세포 백신: 췌장암에서 항종양 면역 조율 및 임상 적용 발전",
+ "trial": null,
+ "type": "preprint"
+}

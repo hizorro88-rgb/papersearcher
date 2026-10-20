@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic ductal adenocarcinoma (PDAC) responds poorly to immune-checkpoint blockade, and the metabolic organization of its myeloid barrier is incompletely understood.\nMETHODS: We integrated imaging mass cytometry from the phase II trial NCT04177810, three single-cell RNA-seq datasets, two spatial transcriptomic cohorts (12 sections), three survival cohorts, and in vitro siRNA perturbation of MYC, LDHA and SLC16A3 with conditioned-medium assays on THP-1-derived macrophage-like cells and primary human CD8+ T cells.\nRESULTS: CD8+ T-cell infiltration increased without objective responses while macrophages remained abundant. Patient-level epithelial MYC and glycolysis programs correlated with SLC16A3 (MCT4) and a macrophage lactate-reception program. Across 12 spatial sections, macrophage-receiver scores were higher around MCT4-high cores (ring 1: 12/12 positive; median difference 0.433; FDR = 0.010), with the strongest state-resolved signal for SPP1/TREM2 macrophages (median difference 0.613; FDR = 0.006); the composition-adjusted effect remained positive (10/12) but was non-significant (FDR = 0.071). Silencing MYC, LDHA or SLC16A3 reduced extracellular lactate and altered conditioned-medium effects, with partial rescue by lactate add-back. Survival associations were cohort-dependent with substantial heterogeneity.\nDISCUSSION: These results define an exploratory, expression-based spatial association between a tumor MYC-LDHA-MCT4 program and an SPP1/TREM2-centered macrophage state, constituting a testable hypothesis rather than evidence of lactate transfer.",
+ "authors": [
+  "Ma Q",
+  "He H",
+  "Liu T",
+  "Li Y",
+  "Mao C",
+  "Shi C",
+  "Yao Q"
+ ],
+ "categories": [
+  "basic",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42898383",
+ "importance": 0.53,
+ "key_points_ko": [
+  "공간 전사체 분석에서 MCT4 고발현 종양 부위 주변에 대식세포 수용 점수가 유의하게 높았으며(중앙값 차이 0.433, FDR = 0.010), 특히 SPP1/TREM2 대식세포에서 가장 강한 연관성을 보였습니다(중앙값 차이 0.613, FDR = 0.006).",
+  "종양 세포에서 MYC, LDHA, SLC16A3 유전자를 억제했을 때 세포 밖 젖산 분비가 감소하고 대식세포에 미치는 배양액 매개 효과가 변화했습니다.",
+  "CD8+ T세포 침윤이 증가하더라도 풍부한 대식세포가 유지되는 환경에서 객관적 종양 반응은 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1978427",
+  "nct": [
+   "NCT04177810"
+  ],
+  "pmcid": "PMC13677877",
+  "pmid": "42898383"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42898383/"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자에서 면역관문억제제 치료 시 CD8+ T세포 침윤이 증가해도 객관적 반응이 나타나지 않는 기전을 분석한 연구입니다. 연구진은 임상시험 검체와 단일세포 전사체, 공간 전사체 분석 및 세포 실험을 통합하여 종양 세포의 대사 프로그램과 면역 장벽의 관계를 조사했습니다. 분석 결과 암세포의 MYC 및 해당과정 경로가 젖산 수송체인 MCT4(SLC16A3) 발현과 연결되며, 주변의 SPP1/TREM2 대식세포 상태와 밀접하게 연관되어 있음을 확인했습니다. 이는 종양의 젖산 대사 관련 신호가 면역억제성 대식세포 환경 형성에 관여할 수 있음을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A MYC-LDHA-MCT4 expression program marks an SPP1/TREM2-centered macrophage state in pancreatic ductal adenocarcinoma",
+ "title_ko": "MYC-LDHA-MCT4 발현 프로그램과 췌장암의 SPP1/TREM2 중심 대식세포 상태의 연관성",
+ "trial": null,
+ "type": "paper"
+}

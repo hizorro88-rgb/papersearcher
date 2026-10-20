@@ -1,0 +1,62 @@
+{
+ "abstract": "PURPOSE: Exocrine pancreatic insufficiency (EPI) is a highly prevalent, yet modifiable determinant of treatment tolerance in pancreatic cancer (PC). Despite its clinical significance, management remains inconsistent due to a lack of oncology-specific guidelines. This project aimed to establish the first U.S. multidisciplinary consensus to standardize pancreatic enzyme replacement therapy (PERT) dosing, education, and longitudinal management in pancreatic oncology.\nMETHODS: A mixed-methods design was employed, integrating a parallel literature review, six virtual focus groups with patients and clinicians (n = 28), and a formal modified Delphi process. A multidisciplinary panel of 17 experts, including medical, surgical, and radiation oncologists, advanced practice providers, and oncology dietitians, independently rated and refined draft statements over two iterative rounds. Consensus was defined a priori as ≥ 70% agreement.\nRESULTS: The process yielded 15 final Consensus Statements, all achieving ≥ 81% agreement. This manuscript highlights a critical subset of six statements focusing on clinical application (CS 10-15), which achieved 94%-100% consensus. Recommendations define standardized starting doses (48,000-72,000 lipase units per meal), evidence-based titration protocols, multi-level patient education requirements, and strategies to mitigate financial toxicity and pill burden.\nCONCLUSION: These consensus statements provide a practical, evidence-based framework to reduce provider inertia and practice variability. Broad implementation of these standards offers a vital opportunity to stabilize nutritional status, improve quality of life, and optimize treatment continuity for patients with PC.",
+ "authors": [
+  "Gallagher D",
+  "Yaceczko S",
+  "Kitagawa M",
+  "Cox A",
+  "Hardy S",
+  "Irvin B",
+  "Lauterbach K",
+  "Hacker-Prietz A"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42899395",
+ "importance": 0.95,
+ "key_points_ko": [
+  "췌장 효소 대체 요법(PERT)의 표준 시작 용량으로 식사당 48,000~72,000 리파아제 단위가 권장되었습니다.",
+  "임상 적용을 다룬 6개 핵심 권고안은 94%~100%의 높은 전문가 일치율을 기록했습니다.",
+  "도출된 15개 전체 권고안 모두 81% 이상의 합의를 달성하여 근거 중심 표준 관리 지침을 마련했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1093/oncolo/oyag389",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42899395"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncologist",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42899395/"
+ },
+ "summary_ko": "췌장암 환자에서 흔하게 발생하는 췌장 외분비 기능부전(EPI)을 관리하기 위해 미국 최초의 다학제 합의안이 수립되었습니다. 환자와 의료진 포커스 그룹 및 17명의 다학제 전문가가 참여한 델파이 합의 과정을 통해 총 15개의 최종 권고안이 도출되었습니다. 권고안은 식사당 48,000~72,000 리파아제 단위의 표준 시작 용량, 근거 기반 용량 조절법, 환자 교육, 약값 및 복약 부담 완화 전략을 제시했습니다. 이를 통해 임상 현장의 치료 편차를 줄이고 환자의 영양 상태 안정과 삶의 질, 항암 치료 지속성을 개선하는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Enzyme Replacement Therapy (PERT) in Pancreatic Cancer: First U.S. Consensus Highlights on Dosing, Management, and Provider Inertia",
+ "title_ko": "췌장암 환자의 췌장 효소 대체 요법(PERT): 용량 설정, 관리 및 의료진 관성에 대한 최초의 미국 다학제 합의안",
+ "trial": null,
+ "type": "paper"
+}

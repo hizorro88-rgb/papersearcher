@@ -20,9 +20,9 @@
  "id": "nct:NCT05851534",
  "importance": 0.74,
  "key_points_ko": [
-  "네덜란드 췌장암 그룹(DPCG) 소속 13개 주요 췌장 수술 센터에서 총 2,575명을 대상으로 진행하는 계단식 쐐기형 클러스터 무작위 배정 연구입니다.",
-  "체력, 영양실조, 심리 상태, 철분 결핍/빈혈, 혈당, 노쇠, 음주 및 흡연 습관 등 8가지 위험 요인을 집중 평가하고 사전 중재합니다.",
-  "기존의 표준 수술 전 관리 방식과 비교하여 수술 후 기능 회복 시간 및 합병증 발생률 감소 효과를 검증합니다."
+  "목표 연구 대상 환자 수는 총 2575명입니다.",
+  "체력, 영양실조, 심리적 회복력, 빈혈, 혈당 조절, 허약, 음주 및 흡연 등 8가지 위험 요소를 중재합니다.",
+  "주요 평가변수는 수술 후 기능적 회복까지 걸리는 시간과 종합 합병증 지수(Comprehensive Complication Index)의 감소 여부입니다."
  ],
  "last_updated": "2026-10-20",
  "links": {
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05851534"
  },
- "summary_ko": "본 연구는 췌장암(의심 환자 포함)으로 근치적 절제술을 앞둔 성인 환자 약 2,575명을 대상으로 진행되는 네덜란드 전국 규모의 무작위 배정 임상시험입니다. 수술 전 신체 기능, 영양 상태, 심리적 회복탄력성, 동반 질환(빈혈, 혈당 조절, 노쇠), 음주 및 흡연 등 8가지 교정 가능한 위험 요인을 선별하고 맞춤형 사전재활(prehabilitation) 중재를 제공합니다. 이를 통해 수술 후 환자의 기능적 회복 기간 단축 및 종합 합병증 지수(CCI) 감소 여부를 평가합니다.",
+ "summary_ko": "이 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 위험 요소 선별 및 중재를 포함하는 프리해빌리테이션(prehabilitation) 프로그램이 수술 후 회복에 미치는 영향을 조사합니다. 네덜란드 췌장암 그룹(Dutch Pancreatic Cancer Group) 소속 13개 센터에서 진행되는 전국 단위의 단계적 쐐기 집단 무작위 대조 시험(stepped-wedge cluster randomized trial)입니다. 목표 인원은 2575명이며, 환자 맞춤형 다모달 프리해빌리테이션(multimodal prehabilitation) 프로그램이 수술 후 기능적 회복 시간 및 합병증 지수(Comprehensive Complication Index)를 개선하는지 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Prehabilitation",
@@ -55,7 +55,7 @@
   "Preoperative optimisation"
  ],
  "title": "Preoperative Optimisation of Modifiable Risk Factors in Surgery of the Pancreas",
- "title_ko": "췌장 수술 환자에서 교정 가능한 위험 요인의 수술 전 최적화 프로그램에 관한 임상연구",
+ "title_ko": "췌장 수술 전 수정 가능한 위험 요소의 수술 전 최적화",
  "trial": {
   "conditions": [
    "Prehabilitation",
@@ -75,7 +75,7 @@
     "phone": "+316 83058108"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 네덜란드 췌장암 그룹(DPCG) 참여 병원에서 선행 치료(neoadjuvant) 유무와 관계없이 근치적 목적의 정규 췌장 절제술이 예정된 모든 환자\n\n제외 기준:\n* 18세 미만 소아 및 청소년\n* 2주 이내로 긴급하게 수술이 예정된 급성/응급 췌장 절제술 환자",
+  "eligibility_ko": "선정 기준:\n- 네덜란드 췌장암 그룹(Dutch Pancreatic Cancer Group) 소속 센터 중 한 곳에서 선행치료 여부와 관계없이 근치적 치료 및 예정된 췌장 절제술(elective pancreatic resection)이 계획된 모든 환자\n\n제외 기준:\n- 18세 미만\n- 응급 췌장 절제술(2주 이내에 수술이 잡힌 경우)",
   "eligibility_text": "Inclusion Criteria:\n\n* All patients who are planned for a curative treatment with or without neoadjuvant treatment and elective pancreatic resection in one of the centres of the Dutch Pancreatic Cancer Group (i.e. all centres performing major pancreatic surgery)\n\nExclusion Criteria:\n\n* age \\< 18 years\n* acute pancreatic resections (resection scheduled within two weeks)",
   "enrollment": 2575,
   "has_results": false,
@@ -92,16 +92,17 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "18세 미만",
-    "2주 이내 수술이 진행되는 응급 수술"
+    "18세 미만 소아",
+    "2주 이내에 급하게 잡힌 응급 췌장 수술"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "선행치료 유무와 관계없이 근치적 목적의 정규 췌장 절제술을 앞둔 췌장암 환자",
+   "notes_ko": "근치적 목적의 췌장 절제술이 예정된 (의심되는) 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
+    "locally_advanced",
     "resectable",
     "neoadjuvant"
    ],

@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic cancer is an aggressive malignancy driven largely by mutant KRAS and constitutively active downstream NF-κB pathway. Molecular docking of phenolic bioflavonoids identified a few lead compounds targeting KRAS G12D mutant protein. Gossypin exhibited better molecular docking, where MD simulation depicted a stable energetically favorable gossypin-KRAS complex, compared to other molecules. Isothermal titration calorimetry analysis confirmed the existence of thermodynamically favorable interaction between KRAS G12D and the ligand gossypin. Influence of gossypin on pancreatic cancer was not explored till date. This study aimed to address the role of KRAS downstream target NF-κB in mediating anti-oncogenic and lipid metabolic effects of gossypin in pancreatic cancer. Gossypin treatment significantly inhibited cell proliferation, migration, invasion, and stemness potential in pancreatic PANC-1 and MIA PaCa-2 cancer cells. This lead molecule blocked PI3K/AKT/mTOR and ERK signaling with concomitant inhibition of NF-κB activity. P65 (a subunit of NF-κB) overexpression was found to efficiently rescue the inhibitory effect of gossypin on oncogenic and adipogenic activities, including lipid accumulation, cholesterol and triacylglyceride contents in PANC-1 cells. This suppressed adipogenic potential was accompanied by downregulation of lipid regulatory genes (e.g., SREBF1, HMGCoR, and Perilipin-1) upon gossypin treatment. SREBF1 transcription was directly regulated by NF-κB as evidenced in ChIP assay. Moreover, down-regulated adipogenic potential-mediated by knocking down of SREBF1 gene was retained upon forced expression of p65, suggesting that NF-κB-stimulated lipogenic activity is dependent on SREBP1. These findings, for the first time, unravel KRAS/NF-κB/SREBP1 signaling as a central mediator for gossypin-inhibited lipid metabolic activity and subsequent oncogenic potential in pancreatic cancer.",
+ "authors": [
+  "Poswal J",
+  "Tejavath KK",
+  "Kushwaha V",
+  "Vidya RS",
+  "Banavath HN",
+  "Dey SK",
+  "Mandal CC"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42896806",
+ "importance": 0.64,
+ "key_points_ko": [
+  "고시핀(gossypin)은 분자 도킹 및 열적 적정 열량 측정법(ITC)을 통해 KRAS G12D 돌연변이 단백질과 안정적인 상호작용을 확인했습니다.",
+  "고시핀 치료는 PANC-1 및 MIA PaCa-2 췌장암 세포에서 세포 증식, 이동, 침윤, 줄기세포성능을 유의하게 억제했습니다.",
+  "고시핀은 PI3K/AKT/mTOR 및 ERK 신호전달을 차단하고 NF-κB 활동을 함께 억제했습니다.",
+  "고시핀 투여는 SREBF1, HMGCoR, Perilipin-1 등 지방 조절 유전자의 발현을 감소시켜 지방 생성 잠재력을 억제했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1016/j.bbalip.2026.159779",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42896806"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42896806/"
+ },
+ "summary_ko": "본 연구는 돌연변이 KRAS G12D 단백질을 타겟하는 새로운 선도 물질로 고시핀(gossypin)의 효과를 조사했습니다. PANC-1 및 MIA PaCa-2 췌장암 세포주를 대상으로 한 실험에서 고시핀 치료는 세포 증식, 이동, 침윤, 줄기세포성을 유의하게 억제했습니다. 또한 PI3K/AKT/mTOR 및 ERK 신호전달과 NF-κB 활성을 차단하며, 지방 생성 관련 유전자를 하향 조절하는 것으로 나타났습니다. 이번 결과는 고시핀이 KRAS/NF-κB/SREBP1 경로를 통해 췌장암의 암세포 성장과 지방 대사 활성을 억제함을 규명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gossypin suppresses mutant KRAS G12D driven oncogenic and adipogenic activity via NF-κB signaling in pancreatic cancer",
+ "title_ko": "고시핀(Gossypin)은 췌장암에서 NF-κB 신호 전달을 통해 돌연변이 KRAS G12D 유도성 암 및 지방 생성 활성을 억제합니다.",
+ "trial": null,
+ "type": "paper"
+}

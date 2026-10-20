@@ -1,0 +1,62 @@
+{
+ "abstract": "PURPOSE: In this study, the dosimetric effect of baseline shift (BLS) in a magnetic resonance linear accelerator was investigated and compared with adapt-to-position (ATP), adapt-to-shape (ATS), and an uncorrected plan without adaptation.\nMETHODS: In a simulation dataset consisting of 30 patients (10 prostate, 10 liver, 10 pancreatic), all structures were rigidly shifted by 1, 3, 5, and 10 mm separately in the superior-inferior and posterior directions, and four plans (ATS reoptimization, ATP reoptimization, BLS using the segment aperture morphing algorithm, and an uncorrected plan without adaptation) were generated for each shift condition. Planning target volume (PTV) coverage and PTV maximum dose (Dmax) were then compared. The dosimetric effects of BLS on the targets and organs at risk (OARs) under non-rigid anatomic changes were also evaluated using a clinical dataset based on magnetic resonance imaging acquired during treatment.\nRESULTS: In the simulation analysis of superior-inferior shifts, target coverage using BLS was comparable to that using ATS and ATP across all disease sites and improved compared with that using the uncorrected plan. For posterior shifts, target coverage remained comparable to that using ATS and ATP; however, BLS increased the PTV Dmax at all posterior shift magnitudes (1-10 mm) in prostate and pancreatic cases, with limited increases in liver cases. In the clinical dataset, OAR doses upon left-right or anterior-posterior displacement were greater using BLS than using ATP, ATS, and uncorrected plans in the prostate and pancreatic cases, with limited increases in the liver cases.\nCONCLUSIONS: The dosimetric impact of BLS relies on motion direction and plan characteristics. BLS was stable for superior-inferior shifts, whereas posterior shifts may increase PTV hotspots and OAR doses. Therefore, clinical application of BLS should consider motion direction and plan design rather than applying a uniform strategy.",
+ "authors": [
+  "Tanaka S",
+  "Kadoya N",
+  "Takahashi Y",
+  "Koga S",
+  "Katsuta Y",
+  "Arai K",
+  "Hoshino T",
+  "Xiao Y"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42900567",
+ "importance": 0.56,
+ "key_points_ko": [
+  "상하지 방향 이동 시 BLS를 이용한 표적 커버리지는 ATS 및 ATP와 유사하며 미보정 계획에 비해 향상되었습니다.",
+  "후방 이동 시 BLS는 췌장암 및 전립선암 사례에서 모든 이동 크기(1-10 mm)에 걸쳐 PTV 최고선량(Dmax)을 증가시켰습니다.",
+  "임상 데이터셋에서 좌우 또는 전후 변위 시 BLS는 ATP, ATS, 미보정 계획에 비해 췌장암과 전립선암에서 장기 위험선량(OAR)을 더 증가시켰습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1002/acm2.70861",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42900567"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Appl Clin Med Phys",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900567/"
+ },
+ "summary_ko": "이 연구는 자기공명 선형가속기(magnetic resonance linear accelerator)에서 기준선 이동(baseline shift, BLS)이 선량에 미치는 영향을 조사하고, 적응형 위치 지정(adapt-to-position, ATP), 적응형 형태 지정(adapt-to-shape, ATS), 그리고 적응이 없는 미보정 계획과 비교했습니다. 췌장암을 포함한 30명의 환자 시뮬레이션 데이터셋과 임상 자기공명영상(MRI) 데이터셋을 활용하여 표적 체적(PTV) 커버리지와 장기 위험선량(OAR)을 평가했습니다. 연구 결과, BLS는 상하지 방향 이동 시 우수한 표적 커버리지를 보였으나 후방 이동 시 PTV 최고선량(Dmax)과 일부 장기 위험선량이 증가했습니다. 결론적으로 BLS의 선량학적 영향은 움직임 방향과 계획 특성에 의존하므로 획일적인 적용보다는 주의가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dosimetric impact of baseline shift plan in a magnetic resonance linear accelerator according to target motion and plan characteristics",
+ "title_ko": "자기공명 선형가속기에서 표적 움직임과 계획 특성에 따른 기준선 이동(baseline shift) 계획의 선량학적 영향",
+ "trial": null,
+ "type": "paper"
+}

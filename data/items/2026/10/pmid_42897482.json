@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal solid tumours. Alterations in Hippo, NF-κB and interferon (IFN)-related signalling have each been implicated in its biology, but the extent to which these transcriptional programmes are coordinately dysregulated in tumour tissue remains incompletely defined. This study therefore set out to determine whether these programmes are coordinately upregulated in PDAC tissue, and whether individual transcripts discriminate tumour from non-tumour tissue reproducibly in an independent cohort.\nMETHODS: In this retrospective study we profiled 17 mRNA targets by real-time quantitative PCR in 50 formalin-fixed paraffin-embedded PDAC specimens and 35 non-tumoural pancreatic tissue samples, covering the Hippo pathway core and output, the inflammation/IL-6 module, the IFN-related axis and the NF-κB cascade, normalised to GAPDH using the 2 - ΔΔCt method. Discrimination was assessed by full-cohort receiver-operating-characteristic analysis without resampling and by nested cross-validation, and associations with clinicopathological variables were tested with Benjamini-Hochberg correction. Findings were evaluated externally in GSE62452 and TCGA-PAAD.\nRESULTS: All 17 transcripts were significantly upregulated in PDAC (FDR < 0.05), with median fold-changes from 3.4 (WWTR1) to 18.4 (LATS1). MYD88, ANKRD1, ISG15 and YY1 discriminated best (AUC 0.853-0.911), and nested cross-validation gave a signature AUC of 0.890 (95% CI 0.821-0.959), only marginally better than MYD88 alone. No clinicopathological variable was associated with transcript abundance after correction. In GSE62452 (69 PDAC, 61 adjacent non-tumour tissues) eight transcripts replicated with concordant direction, led by YAP1 (AUC 0.791), TEAD1 (0.760) and MYD88 (0.755), and the fixed four-gene discovery signature retained discrimination (AUC 0.798, 95% CI 0.719-0.877). Replication was gene-specific rather than module-wide: IL6, the remaining NF-κB transcripts and four Hippo members did not replicate, and IFNB1 was discordant. Hippo output genes tracked the basal-like subtype in both external cohorts. In TCGA-PAAD, high YY1 (HR 2.01; p = 0.001) and high YAP1 (HR 1.72; p = 0.010) predicted shorter survival, but both associations lost significance when the analysis was restricted to ductal-type histology.\nCONCLUSIONS: PDAC tissue shows coordinated upregulation across these four modules, but only eight of the seventeen transcripts replicated externally, most strongly within the Hippo effector axis and for MYD88. YAP1, TEAD1, MYD88 and STK4 reached validation AUCs above 0.70 and are prioritised for prospective study. Because transcript abundance does not measure pathway activity and all data derive from bulk tissue, these associations are hypothesis-generating rather than mechanistic.",
+ "authors": [
+  "Balkan E",
+  "Kızılkaya M",
+  "Özmen S",
+  "Altundaş N",
+  "Yüksel M",
+  "Aktürk M",
+  "Aktepe A",
+  "Aksungur N"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42897482",
+ "importance": 0.72,
+ "key_points_ko": [
+  "17개의 표적 전사체 모두 췌관선암종(PDAC) 조직에서 유의하게 상향 조절되었습니다(FDR < 0.05).",
+  "중앙값 배수 변화(fold-change)는 WWTR1의 3.4배에서 LATS1의 18.4배 사이였습니다.",
+  "MYD88, ANKRD1, ISG15, YY1은 0.853에서 0.911의 AUC로 종양 조직을 가장 잘 구별했습니다.",
+  "TCGA-PAAD 분석에서 높은 YY1(위험비 2.01, p=0.001)과 높은 YAP1(위험비 1.72, p=0.010)은 더 짧은 생존기간을 예측했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1186/s12876-026-05259-6",
+  "nct": [],
+  "pmcid": "PMC13679222",
+  "pmid": "42897482"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42897482/"
+ },
+ "summary_ko": "이 연구는 췌관선암종(PDAC) 조직에서 히포(Hippo), NF-κB, 인터페론(IFN) 관련 유전자들의 발현 변화를 후향적으로 분석했습니다. 50개의 췌관선암종 검체와 35개의 비종양성 췌장 조직을 대상으로 한 실시간 정량 역전사 중합효소 연쇄반응(qRT-PCR) 분석 결과, 17개 전사체 모두 종양 조직에서 유의하게 상향 조절되었습니다. 외부 코호트 검증에서는 8개의 전사체만 일치하는 방향으로 재현되었으며, 그중 YAP1, TEAD1, MYD88, STK4가 0.70 이상의 검증 곡선 아래 면적(AUC)을 보였습니다. TCGA-PAAD 데이터 분석에서 높은 YY1과 YAP1 발현은 생존기간 단축과 관련이 있었으나 덕탈형(ductal-type) 조직학으로 제한했을 때는 유의성이 사라졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Coordinated upregulation of Hippo, NF-κB and interferon pathway genes in pancreatic ductal adenocarcinoma: a retrospective tissue qRT-PCR profiling study with external tumour-versus-non-tumour validation, molecular subtype and survival analyses",
+ "title_ko": "췌장관선암종에서 히포(Hippo), NF-κB 및 인터페론 경로 유전자의 동조적 상향 조절",
+ "trial": null,
+ "type": "paper"
+}

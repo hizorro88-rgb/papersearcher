@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer remains one of the deadliest malignancies because of late diagnosis, rapid metastasis, and poor response to conventional therapies. Localized drug delivery systems based on electrospun nanofibers may improve therapeutic outcomes by enabling sustained local drug release while minimizing systemic toxicity. This study developed harmine (HAR)-loaded multilayer nanofibers using polycaprolactone (PCL) and polyvinyl alcohol (PVA) and evaluated their physicochemical characteristics and anti-cancer effects against ASPC-1 pancreatic cancer cells.\nRESULTS: Bilayer and trilayer HAR-loaded nanofibers were successfully fabricated with uniform, bead-free morphology. Morphology was characterized by FE-SEM, and drug incorporation was confirmed by FTIR analysis. The multilayer architecture demonstrated favorable swelling behavior, controlled degradation, and regulated water vapor transmission. Drug release studies showed an initial burst release (~ 16% within 6 h), followed by sustained HAR release reaching approximately 68% over 72 h. Blank nanofibers exhibited high biocompatibility (> 97% cell viability). Compared with free HAR, HAR-loaded nanofibers (NFs) significantly enhanced anti-cancer efficacy and achieved nearly complete suppression of viability in ASPC-1 cells after 72 h. Functional analyses demonstrated substantial inhibition of cell migration and colony formation. Molecular evaluation revealed significant apoptosis induction through upregulation of BAX and CASP3 and downregulation of BCL-2, with the PCL/PVAHAR formulation showing the strongest response (BAX ≈ 4.8-fold, CASP3 ≈ 3.9-fold, BCL-2 ≈ 0.35-fold; BAX/BCL-2 ratio ≈ 13.7). STRING analysis further supported the involvement of apoptosis-associated signaling pathways.\nCONCLUSIONS: HAR-loaded PCL/PVA nanofibers provide an effective localized drug-delivery platform with sustained release and enhanced anti-pancreatic-cancer activity compared with free HAR. These findings support the further development of this system as a potential implantable therapeutic strategy for post-resection pancreatic cancer management.",
+ "authors": [
+  "Zamanzadeh Z",
+  "Khansarinejad B",
+  "Mondanizadeh M",
+  "Masodii S",
+  "Karami H"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42897560",
+ "importance": 0.52,
+ "key_points_ko": [
+  "약물 방출 실험에서 처음 6시간 동안 약 16%가 방출된 후, 72시간 동안 약 68%의 지속적인 하르민(harmine) 방출을 보였습니다.",
+  "빈 나노섬유는 97% 이상의 높은 세포 생존율로 우수한 생체 적합성을 보였습니다.",
+  "하르민(harmine) 탑재 나노섬유는 ASPC-1 세포에서 72시간 후 세포 생존력을 거의 완전히 억제했습니다.",
+  "세포사멸과 관련된 BAX는 약 4.8배, CASP3는 약 3.9배 증가했고, BCL-2는 약 0.35배 감소하여 BAX/BCL-2 비율이 약 13.7을 기록했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1186/s13036-026-00737-7",
+  "nct": [],
+  "pmcid": "PMC13679269",
+  "pmid": "42897560"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-23",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biol Eng",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42897560/"
+ },
+ "summary_ko": "이 연구는 폴리카프로락톤(polycaprolactone, PCL)과 폴리비닐알코올(polyvinyl alcohol, PVA)을 이용해 항암제 하르민(harmine, HAR)을 탑재한 다층 나노섬유를 개발하고 ASPC-1 췌장암 세포주를 대상으로 항암 효과를 평가했습니다. 실험 결과, 다층 나노섬유는 약물을 지속적으로 방출하며 ASPC-1 세포의 생존력을 거의 완전히 억제했습니다. 또한 세포 이동과 콜로니 형성을 억제하고, BAX와 CASP3의 발현을 높이며 BCL-2의 발현을 낮추어 세포사멸(apoptosis)을 유도하는 것으로 나타났습니다. 초록에 명시된 바에 따르면, 이 나노섬유는 수술 후 췌장암 관리를 위한 잠재적인 이식형 치료 전략으로 지지됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Harmine-loaded PCL/PVA multilayer nanofibers for targeted pancreatic cancer therapy",
+ "title_ko": "하르민(harmine)을 탑재한 PCL/PVA 다층 나노섬유를 이용한 표적 췌장암 치료",
+ "trial": null,
+ "type": "paper"
+}

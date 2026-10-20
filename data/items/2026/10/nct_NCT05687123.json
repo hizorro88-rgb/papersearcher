@@ -1,0 +1,121 @@
+{
+ "abstract": "This phase I trial tests the safety, side effects, and best dose of sunitinib malate in combination with lutetium Lu 177 dotatate in treating patients with pancreatic neuroendocrine tumors. Sunitinib malate is in a class of medications called kinase inhibitors and a form of targeted therapy that blocks the action of abnormal proteins called VEGFRs that signal tumor cells to multiply. This helps stop or slow the spread of tumor cells. Radioactive drugs, such as lutetium Lu 177 dotatate, may carry radiation directly to tumor cells and not harm normal cells. It is also a form of targeted therapy because it works by attaching itself to specific molecules (receptors) on the surface of tumor cells, known as somatostatin receptors, so that radiation can be delivered directly to the tumor cells and kill them. Giving sunitinib malate and lutetium Lu 177 dotatate in combination may be safer and more effective in treating pancreatic neuroendocrine tumors than giving either drug alone.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate the safety and maximum tolerated dose (MTD) for the combination of sunitinib malate with lutetium Lu 177 dotatate in metastatic unresectable pancreatic neuroendocrine tumors (NETS).\n\nSECONDARY OBJECTIVES:\n\nI. To observe and record anti-tumor activity. II. To assess objective response rate (ORR) of the combination by the Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1.\n\nIII. To assess progression-free survival (PFS) and overall survival (OS) of the combination.\n\nIV. To determine the duration of response (DOR) from the combination. V. To determine lutetium Lu 177 dotatate dosimetry in the combination. VI. To associate somatostatin receptor (SSR) positron emission tomography (PET) triage imaging with lutetium Lu 177 dotatate dosimetry.\n\nVII. To assess the correlation of chromogranin A (CgA) with disease response in patients being treated with lutetium Lu 177 dotatate.\n\nOUTLINE: This is a dose-escalation study of sunitinib malate followed by a dose-expansion study.\n\nPatients receive sunitinib malate orally (PO) daily (QD) from day 1 of lutetium 177 dotatate therapy to 28 days after the last dose of lutetium 177 dotatate in the absence of unacceptable toxicity. Patients also receive lutetium Lu 177 dotatate intravenously (IV) over 30 minutes on day 1 of each cycle. Cycles repeat every 8 weeks (Q8W) for 4 cycles in the absence of unacceptable toxicity. Patients undergo a computed tomography (CT) scan and/or magnetic resonance imaging (MRI) throughout the trial. Patients also undergo a SSR PET/CT scan during screening and blood sample collection on study.\n\nAfter completion of study treatment, patients are followed for up to 4 weeks.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05687123",
+ "importance": 0.76,
+ "key_points_ko": [
+  "절제 불가능 또는 전이성 췌장 신경내분비종양(1~3등급) 환자 24명을 대상으로 진행되는 1상 임상시험입니다.",
+  "소마토스타틴 수용체(SSR) 양성이며 측정 가능한 병변이 있는 환자에게 수니티닙과 루테튬 Lu 177 도타테이트 병용요법을 평가합니다.",
+  "이전 치료 경험이 없거나 소마토스타틴 유사체를 제외한 전신 항암 치료를 1차 이하로 받은 환자가 참여 가능합니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05687123"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-01-18",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05687123"
+ },
+ "summary_ko": "절제 불가능하거나 전이된 췌장 신경내분비종양(pNET) 환자를 대상으로 수니티닙 말레산염(sunitinib malate)과 방사성동위원소 표적치료제인 루테튬 Lu 177 도타테이트(lutetium Lu 177 dotatate, 루타테라)의 병용 투여에 대한 안전성과 최대 내약 용량을 평가하는 1상 임상시험입니다. 수니티닙은 혈관내피성장인자수용체(VEGFR)를 차단하는 표적치료제이며, 루타테라는 종양 표면의 소마토스타틴 수용체에 결합해 방사선을 전달하는 약물입니다. 이 연구는 용량 증량 및 용량 확장 단계로 구성되어 약 24명의 환자를 모집합니다. 연구진은 병용요법의 안전성 확인과 더불어 객관적 반응률(ORR), 무진행 생존기간(PFS) 등 항종양 활성도 함께 관찰합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Testing the Addition of Sunitinib Malate to Lutetium Lu 177 Dotatate (Lutathera) in Pancreatic Neuroendocrine Tumors",
+ "title_ko": "췌장 신경내분비종양 환자 대상 루테튬 Lu 177 도타테이트(루타테라)와 수니티닙 병용요법 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Neuroendocrine Tumor",
+   "Pancreatic Neoplasm",
+   "Stage III Pancreatic Neuroendocrine Tumor AJCC v8",
+   "Stage IV Pancreatic Neuroendocrine Tumor AJCC v8",
+   "Unresectable Pancreatic Neuroendocrine Tumor"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 조직학적 또는 세포학적으로 진단된 절제 불가능하거나 전이성인 1~3등급 췌장 신경내분비종양(pNET)\n• SSR PET/CT 영상에서 양성으로 확인된 RECIST 1.1 기준 측정 가능 병변 보유\n• 이전 전신 항암 치료 경험이 없거나 소마토스타틴 유사체 치료를 제외하고 1차 이하의 전신 치료 후 질병 진행 또는 불내성을 겪은 환자\n• 만 18세 이상\n• ECOG 수행 능력 점수 0~2점\n\n제외 기준:\n• 치료되지 않았거나 치료 후 4주간 안정화되지 않은 중추신경계 뇌전이\n• 조절되지 않는 고혈압(140/90 mmHg 초과) 또는 중증 심장 질환(좌심실 박출률 50% 미만 등)\n• 치료 목적 용량의 와파린 등 쿠마린 유도체 항응고제 복용 환자\n• 경구 약제 복용을 방해하는 위장관 질환 보유 환자\n• 이전 치료로 인한 2등급 이상의 중증 잔여 독성(탈모 제외)",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed metastatic or unresectable well- or moderately-differentiated pancreatic neuroendocrine tumors (PNETs) of all grades (Grade 1, grade 2 and grade 3)\n* Patients with measurable disease per RECIST 1.1 appropriate for lutetium Lu 177 dotatate treatment, as determined by positive screening with SSR PET/CT and appropriate theranostics consultation (nuclear medicine or radiation oncology consultation)\n* Patients may be treatment naïve or have disease progression on or intolerance of up to one line of systemic therapy other than somatostatin analog therapy (somatostatin analog therapy is not considered a line of systemic therapy). Systemic therapy is considered therapy for unresectable or metastatic disease. Any prior adjuvant therapy with curative intent will not be considered a line unless relapse occurs within 6 months. Prior and/or concurrent use of somatostatin analogs are allowed\n* Patients who have have received a prior line of therapy must have documented disease progression per RECIST 1.1 within 12 months of initiation of the study protocol\n* Age \\>= 18 years. Because no dosing or adverse event data are currently available on the use of sunitinib malate in combination with lutetium Lu 177 dotatate in patients \\< 18 years of age, children are excluded from this study\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Absolute neutrophil count \\>= 1,000/mcL\n* Platelets \\>= 75,000/mcL\n* Total bilirubin =\\< 1.5 institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 3 × institutional ULN\n* Creatinine clearance \\> 50 ml/min OR Glomerular filtration rate (GFR) \\>= 60 mL/min/1.73 m\\^2\n* Hemoglobin \\> 8.0 g/dL\n* White blood cell count \\> 2000/mL\n* Serum calcium =\\< 12.0 mg/dL\n* International normalized ratio (INR) =\\< 1.5\n* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification. To be eligible for this trial, patients should be class 2B or better and have left ventricular ejection fraction of 50% or more. (Patients with no known history and no current symptoms of cardiac disease do not require left ventricular ejection fraction \\[LVEF\\] evaluation at screening)\n* Patients must have blood pressure (BP) no greater than 140 mmHg (systolic) and 90 mmHg (diastolic) for eligibility. Initiation or adjustment of BP medication is permitted prior to study entry, provided that the average of three BP readings at a visit prior to enrollment is less than 140/90 mmHg\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Patients with treated brain metastases are eligible if follow-up brain imaging after central nervous system (CNS)-directed therapy shows no evidence of progression, as determined by a repeat imaging study at least 4 weeks following the completion of treatment. Patients with treated brain metastases must also be off steroids for at least 1 month and stable\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial after consultation with the study chair\n* The effects of lutetium Lu 177 dotatate and sunitinib malate on the developing human fetus at the recommended therapeutic dose are unknown. For this reason and because radionucleotides and anti-angiogenic agents are known to be teratogenic, women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. All women of childbearing potential must have a negative pregnancy test prior to receiving sunitinib malate. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately. Men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and 4 months after completion of lutetium Lu 177 dotatate and sunitinib malate administration\n\nExclusion Criteria:\n\n* Patients who have not recovered from acute clinically significant adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> grade 1) with the exception of alopecia\n* Patients who are receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to sunitinib malate or lutetium Lu 177 dotatate\n* Patients who require use of therapeutic doses of coumarin-derivative anticoagulants such as warfarin are excluded, although doses of up to 2 mg daily are permitted for prophylaxis of thrombosis. Note: Low molecular weight heparin is permitted provided the patient's INR is =\\< 1.5 and is the preferred anticoagulant in this trial. Other non-coumarin-derivative anticoagulants including direct oral anticoagulants may be used with caution\n* Patients with any condition (e.g., gastrointestinal tract disease resulting in an inability to take oral medication or a requirement for IV alimentation, prior surgical procedures affecting absorption, or active peptic ulcer disease) that impairs their ability to swallow and retain sunitinib tablets are excluded\n* Patients with any of the following conditions are excluded:\n\n  * Serious or non-healing wound, ulcer, or bone fracture\n  * History of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within 28 days of treatment\n  * Any history of cerebrovascular accident (CVA) or transient ischemic attack within 12 months prior to study entry\n  * History of myocardial infarction, cardiac arrhythmia, stable/unstable angina, symptomatic congestive heart failure, or coronary/peripheral artery bypass graft or stenting within 12 months prior to study entry\n  * History of pulmonary embolism within the past 12 months\n  * Class III or IV heart failure as defined by the New York Heart Association Class (NYHA) functional classification system\n* Patients receiving any medications or substances that are strong CYP3A4 inhibitors within 7 days before dosing, or strong CYP3A4 inducers within 12 days before dosing, are ineligible as sunitinib is a major substrate of CYP3A4. Because the lists of these agents are constantly changing, it is important to regularly consult a frequently-updated medical reference. As part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product\n* Patients with a pre-existing thyroid abnormality who are unable to maintain thyroid function in the normal range with medication are ineligible\n* Patients with uncontrolled intercurrent illness\n* Pregnant women are excluded from this study because sunitinib malate is an anti-angiogenic agent and lutetium Lu 177 dotatate is a peptide receptor radionuclide therapy with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with sunitinib malate and lutetium Lu 177 dotatate, breastfeeding should be discontinued if the mother is treated with sunitinib malate and lutetium Lu 177 dotatate. Breastfeeding should be discontinued for 2.5 months following the last lutetium Lu 177 dotatate treatment. These potential risks may also apply to other agents used in this study\n* Patients who have had prior treatment with sunitinib malate or lutetium Lu 177 dotatate therapy or other radiopharmaceuticals (including, but not limited to, metaiodobenzylguanidine \\[MIBG\\], yttrium-90 \\[Y-90\\], radioactive iodide \\[RAI\\]), as MIBG and RAI could potentially increase risk of myelodysplastic syndrome or irreversible hematologic toxicities",
+  "enrollment": 24,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Lutetium Lu 177 Dotatate",
+   "Magnetic Resonance Imaging",
+   "Positron Emission Tomography",
+   "Sunitinib Malate"
+  ],
+  "last_update_posted": "2026-10-20",
+  "location_countries": [
+   "Canada",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
+   ],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "치료되지 않았거나 증상이 있는 뇌전이",
+    "조절되지 않는 고혈압 또는 중증 심장 질환",
+    "치료 목적 용량의 와파린 등 쿠마린계 항응고제 복용",
+    "경구 약물 복용이 불가능한 중증 위장 질환"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 치료 1회 이하 또는 치료 경험이 없으며 SSR PET/CT 양성인 절제 불가능 또는 전이성 췌장 신경내분비종양 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 10,
+  "nct_id": "NCT05687123",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12-14",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2024-08-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

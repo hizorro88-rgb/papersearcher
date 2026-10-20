@@ -20,9 +20,9 @@
  "id": "nct:NCT01191684",
  "importance": 0.81,
  "key_points_ko": [
-  "p53 과발현을 보이는 진행성 고형암 환자 12명을 대상으로 진행된 백신 요법의 1상 용량 증량 임상시험입니다.",
-  "0일, 21일, 42일 차에 MVAp53 백신을 피하 투여하여 2가지 용량 수준에서의 안전성과 면역 반응을 평가했습니다.",
-  "췌장암의 경우 최소 1가지 이상의 항암화학요법에 실패한 환자가 대상이었습니다."
+  "p53 과발현 고형암 환자를 대상으로 MVAp53 백신의 안전성과 용량을 평가하는 1상 임상시험입니다.",
+  "목표 인원은 총 12명입니다.",
+  "환자들은 0일, 21일, 42일에 MVAp53 백신을 피하 투여받습니다."
  ],
  "last_updated": "2026-10-20",
  "links": {
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT01191684"
  },
- "summary_ko": "이 임상시험은 수술이 불가능하거나 항암치료에 저항성을 보이는 대장암, 위암, 췌장암 환자를 대상으로 유전자 변형 백신(MVAp53)의 안전성과 적정 용량을 평가한 1상 연구입니다. p53 단백질이 과발현된 종양을 가진 환자 12명을 대상으로 백신 투여 후의 내약성과 부작용을 확인했습니다. 환자들은 0일, 21일, 42일에 MVAp53 백신을 피하 주사로 투여받았습니다. 백신 투여를 통해 p53에 대한 체액성 및 세포성 면역 반응이 유도되는지도 함께 관찰했습니다.",
+ "summary_ko": "이 임상시험은 p53 유전자를 발현하는 변형 백시니아 바이러스 앙카라 백신(MVAp53)의 안전성과 최적 용량을 평가하기 위한 1상 시험입니다. 절제 불가능하고 항암화학요법에 저항성을 보이는 대장암, 위암, 췌장암 환자를 대상으로 합니다. 연구의 주요 목적은 백신의 안전성과 내성을 확인하고, p53에 대한 세포성 및 체액성 면역 반응의 증가를 평가하는 것입니다. 환자들은 MVAp53 백신을 피하로 투여받고 치료 종료 후 5년간 추적 관찰을 받습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Vaccine Therapy in Treating Patients With Colorectal, Stomach, or Pancreatic Cancer",
- "title_ko": "대장암, 위암 또는 췌장암 환자를 대상으로 한 p53 발현 백신 치료 1상 임상시험",
+ "title_ko": "대장암, 위암, 췌장암 환자를 위한 백신 치료 임상시험",
  "trial": {
   "conditions": [
    "Recurrent Colon Cancer",
@@ -68,7 +68,7 @@
    "Stage IV Rectal Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 수술이 불가능하고 기존 항암치료에 내성을 보인 대장암, 위암, 췌장암 환자 (췌장암의 경우 최소 1개 이상의 항암화학요법 치료 실패)\n- 영상 검사(CT) 또는 신체 검진에서 확인 가능한 연조직 종양 병변이 있는 환자\n- 면역조직화학염색(IHC) 검사상 종양 세포의 10% 초과에서 p53 과발현이 확인된 환자\n- 카르노프스키 수행능력(KPS) 점수 80~100점 (양호한 전신 상태) 및 예상 여명이 3개월 이상인 환자\n\n제외 기준:\n- 증상이 있는 뇌전이 또는 면역결핍 질환(HIV 감염 포함)\n- 자가면역질환 또는 장기 이식 병력\n- 조절되지 않는 심부전이나 관상동맥질환 등 중증 심혈관 질환\n- 전신 코르티코스테로이드 투여 중이거나 계란 단백질에 알레르기가 있는 환자\n- 리-프라우메니 증후군(Li-Fraumeni syndrome) 가족력이 있거나 최근 2년 이내 다른 원발암 병력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n* 절제 불가능하고 항암화학요법에 저항성이 있는 대장암, 위암, 췌장암 원발성 또는 재발성 암 환자\n* CT 영상 또는 신체 검진에서 확인되는 연조직 종양 병변이 있는 환자\n* 면역조직화학검사에서 종양세포의 10% 이상이 p53을 강하게 과발현하는 환자\n* 췌장암 환자의 경우 적어도 1가지 이상의 항암화학요법에 반응하지 않은 환자\n* 예상 생존 기간이 3개월 이상인 환자\n* Karnofsky 수행능력(Performance status) 80-100인 환자\n\n제외 기준:\n* HIV를 포함한 면역결핍 진단 이력\n* 임신 또는 수유 중인 환자\n* 임상적으로 명백한 뇌전이\n* 자가면역 질환\n* 등록 전 4주 이내의 항암화학요법 또는 방사선 치료",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients with unresectable and chemotherapy resistant primary or recurrent carcinoma of colorectal, gastric or pancreatic origin\n* There must be pathologic evidence for malignancy with a soft tissue component of tumor evident on CT scan imaging or physical examination\n* Patient must be able to give informed consent\n* There must be an anticipated survival of at least 3 months\n* Performance status of 80-100 (Karnofsky performance status)\n* WBC count \\>= 3,000uL\n* Platelet count \\>= 100,000uL\n* Prothrombin time and partial thromboplastin time of \\<= 1.5 times the upper limit of normal\n* Women of childbearing potential must have a negative pregnancy test; women and men of childbearing potential must agree to use adequate contraception (hormonal or barrier method of birth control or abstinence) prior to study entry and for six months following duration of study participation; should a woman become pregnant during or suspect that she is pregnant while participating on the trial, she should inform her treating physician immediately\n* Patients with asymptomatic small volume bone disease not likely to require radiation therapy during the period of the vaccine trial will be eligible\n* Hemoglobin level \\> 9g/dL\n* There must be evidence of p53 over expression by immunohistochemistry with \\> 10% of cells within the tumor strongly positive\n* Patients with colorectal cancer will need to have failed to respond to 5-FU based therapy with oxaliplatin, irinotecan as well as epidermal growth factor receptor (EGFR) directed therapies (if appropriate); patients with gastric cancer will need to have progressed on standard first line chemotherapy or chemoradiotherapy and Herceptin based therapy (if appropriate); patients with pancreatic cancer who have failed to respond to at least 1 chemotherapy regimen\n\nExclusion Criteria:\n\n* Diagnosis which has been associated with immunodeficiency, including HIV\n* Prior radiation to more than 50% of all nodal groups\n* Concurrent use of corticosteroids\n* History of another malignancy, other than nonmelanoma skin cancer in the past 2 years\n* Recent major surgery\n* Serious intercurrent illness\n* Temperature \\>= 101F within 3 days prior to the initial injection\n* Pregnancy or lactation\n* Clinically evident brain metastasis\n* Autoimmune disease\n* HIV seropositivity or refusal to hear the results of the HIV test\n* Receipt of organ grafts\n* History of severe environmental allergies\n* History of severe neurological, cardiovascular, renal, hepatic, endocrine, respiratory, or bone marrow dysfunction requiring frequent re-evaluation, and management by a physician\n* Patients with a history of congestive heart failure or coronary artery disease which has not been resolved by bypass or stent\n* History of myopericarditis\n* Known family history of Li-Fraumeni syndrome\n* Allergy to egg proteins\n* Chemotherapy or radiation within the 4 weeks preceding enrollment",
   "enrollment": 12,
   "has_results": false,
@@ -89,18 +89,17 @@
    "biomarkers_required": [
     "other"
    ],
-   "ecog_max": 1,
+   "ecog_max": null,
    "key_exclusions_ko": [
-    "증상이 있는 뇌전이",
-    "자가면역질환 또는 장기 이식 병력",
-    "심부전 등 중증 심혈관 질환",
-    "계란 단백질 알레르기",
+    "임상적으로 명백한 뇌전이",
+    "자가면역 질환",
+    "HIV 감염",
     "최근 2년 이내 다른 암 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "1차 이상의 표준 항암화학요법에 실패하고 p53 과발현이 확인된 절제 불가능 또는 재발성 췌장암 환자",
+   "notes_ko": "이전 치료에 실패한 p53 과발현 전이성 또는 국소진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

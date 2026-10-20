@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic cancer is a highly aggressive malignancy of the digestive tract, often associated with poor prognosis, short survival, and diminished quality of life upon diagnosis. To improve clinical outcomes and extend patient survival, early intervention at the etiological level is essential to reduce the risk of onset and progression. Recent studies have highlighted the significant roles of both psychological and physical stress in the initiation and development of pancreatic cancer. This article systematically examines the link between stress and pancreatic carcinogenesis from the dual dimensions of psychological and physical stress, incorporating mechanisms such as neuroendocrine modulation, immune dysregulation, and behavioural changes. Furthermore, it explores individualised stress management strategies for pancreatic cancer patients, aiming to offer new insights for early intervention and comprehensive treatment.",
+ "authors": [
+  "Lin Q",
+  "Bao L",
+  "Wang J",
+  "Zhou S",
+  "Lian Z",
+  "Cui W",
+  "Li C",
+  "Sun H"
+ ],
+ "categories": [
+  "basic",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42899906",
+ "importance": 0.66,
+ "key_points_ko": [
+  "정신적 및 신체적 스트레스는 췌장암의 시작과 발달에 중요한 역할을 합니다.",
+  "스트레스가 췌장암에 미치는 영향은 신경내분비 조절, 면역 조절 장애, 행동 변화 등의 기전을 통해 이루어집니다.",
+  "본 연구는 조기 개입과 종합 치료를 위한 맞춤형 스트레스 관리 전략을 다룹니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1002/smi.70235",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42899906"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Stress Health",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42899906/"
+ },
+ "summary_ko": "본 논문은 췌장암의 발생과 진행에 있어 정신적, 신체적 스트레스가 미치는 영향을 체계적으로 검토했습니다. 신경내분비 조절(neuroendocrine modulation), 면역 조절 장애(immune dysregulation), 행동 변화 등의 기전을 통해 스트레스와 췌장암 발생의 연관성을 분석했습니다. 또한 조기 개입과 종합 치료를 위한 새로운 통찰을 제공하고자 환자 맞춤형 스트레스 관리 전략을 탐색했습니다. 초록에 환자 대상 수치나 구체적인 생존율 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Role of Mental and Physical Stress in the Occurrence and Development of Pancreatic Cancer",
+ "title_ko": "췌장암의 발생과 진행에서 정신적 및 신체적 스트레스의 역할",
+ "trial": null,
+ "type": "paper"
+}

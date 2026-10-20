@@ -1,0 +1,61 @@
+{
+ "abstract": "INTRODUCTION: New-onset diabetes (NOD) potentially associated with pancreatic cancer (PC) requires further investigation to assess its potential as a tool for PC screening.\nMATERIAL AND METHODS: In this longitudinal nationwide register study, which includes 14,712 PC patients and 18 years of follow-up time (2000-2018), we aimed to assess the prevalence of diabetes by using a large national registry. Survival was analyzed according to diabetes status and duration (long-term diabetes, i.e., DM diagnosed > 3 years prior to PC, NOD, i.e., DM diagnosed 0-3 years prior to PC, or DM diagnosed after PC diagnosis) and treatment status (curative intent vs. palliative) using multivariable Cox regression analysis.\nRESULTS: Overall, 18% of PC patients had diabetes. The median time interval between DM and PC diagnoses was 4.8 months. In the multivariable Cox regression analysis, only DM diagnosed after PC was associated with worse survival, both in the palliative intent treatment group (HR 1.12, 95% CI 1.03-1.23, p = 0.011) and in the curative intent treatment group (HR 1.44, 95% CI 1.14-1.81, p = 0.002). Among patients diagnosed with diabetes prior to PC, neither long-term nor NOD significantly affected survival.\nCONCLUSIONS: Most of the diabetic PC-patients have been diagnosed with DM within a close proximity of cancer diagnosis. The progression from diabetes to clinically detectable cancer seems to be rapid-less than 6 months. Given the aggressive nature of PC and the fact that NOD can be an early sign, screening may need to begin at the time of diabetes diagnosis. The fact that a DM diagnosis made after a PC diagnosis is associated with worse survival may suggest that pancreatic tumors that cause hyperglycemia are particularly aggressive.",
+ "authors": [
+  "Roosa S",
+  "Panu A",
+  "Harri M",
+  "Malin S",
+  "Hanna S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42897094",
+ "importance": 0.66,
+ "key_points_ko": [
+  "전체 췌장암 환자의 18%가 당뇨병을 가지고 있었으며, 당뇨병과 췌장암 진단 간의 중앙값은 4.8개월이었습니다.",
+  "췌장암 진단 후에 진단된 당뇨병은 완화적 치료 그룹(위험비 1.12)과 근치적 치료 그룹(위험비 1.44) 모두에서 불리한 생존율과 연관되었습니다.",
+  "췌장암 진단 전의 장기 당뇨병이나 신규 발병 당뇨병은 생존기간에 유의미한 영향을 미치지 않았습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1002/cam4.72380",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42897094"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42897094/"
+ },
+ "summary_ko": "이 연구는 14,712명의 췌장암(pancreatic cancer, PC) 환자를 대상으로 전국 등록 데이터를 활용하여 당뇨병(diabetes mellitus, DM)의 유병률과 생존기간에 미치는 영향을 조사했습니다. 18년 동안의 추적 관찰 결과, 전체 췌장암 환자의 18%가 당뇨병을 앓고 있었으며, 당뇨병과 췌장암 진단 사이의 중앙값 간격은 4.8개월이었습니다. 다변량 콕스 회귀 분석(multivariable Cox regression analysis) 결과, 췌장암 진단 후에 진단된 당뇨병만이 완화적 치료(palliative intent) 그룹(위험비(HR) 1.12, 95% 신뢰구간 1.03-1.23, p=0.011)과 근치적 치료(curative intent) 그룹(위험비(HR) 1.44, 95% 신뢰구간 1.14-1.81, p=0.002) 모두에서 더 나쁜 생존율과 연관되었습니다. 췌장암 진단 전에 진단된 장기 당뇨병이나 신규 발병 당뇨병(new-onset diabetes, NOD)은 생존기간에 유의미한 영향을 미치지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Diabetes Among Finnish Pancreatic Cancer Patients: Prevalence, Time Interval Between Diabetes and Cancer Diagnosis, and Overall Survival",
+ "title_ko": "핀란드 췌장암 환자의 당뇨병: 유병률, 당뇨병과 암 진단 간격, 그리고 전체 생존기간",
+ "trial": null,
+ "type": "paper"
+}

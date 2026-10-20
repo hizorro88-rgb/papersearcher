@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is largely refractory to immune checkpoint blockade. Conventional Mendelian randomization (MR) using steady-state expression quantitative trait loci (eQTLs) may miss regulatory effects that emerge during CD4 + T-cell activation. We used a two-stage genetic framework. Fixed-effect meta-analysis across four PDAC GWAS served as an exploratory cross-cohort discovery screen, followed by GCST90041814 as the ancestry-matched European primary analysis. Associations were assessed by colocalization, summary-data-based MR with HEIDI testing, and DICE/eQTLGen replication. Paired sample-level pseudobulk analysis evaluated tumor-adjacent CD4 + T cells. Bulk transcriptomic, mediation, virtual perturbation, survival and phenome-wide analyses were treated as exploratory. The pooled discovery screen identified 67 genes at FDR < 0.05; 65 also showed concordant effect directions across all four cohorts and constituted the main discovery set. In the European primary analysis, 66 of 1247 genes had nominal p < 0.05, but none survived cohort-wide FDR correction. SMDT1 (European OR = 0.603, 95% CI 0.412-0.884, p = 0.009, FDR = 0.754) and CMTM7 (European OR = 1.208, 95% CI 1.026-1.424, p = 0.023, FDR = 0.754) retained directionally consistent nominal associations and were prioritized as exploratory candidates. In six paired GSE212966 samples, pseudobulk changes were directionally consistent but not significant (SMDT1 log2FC = -0.381, p = 0.250; CMTM7 log2FC = 0.493, p = 0.199). Dynamic CD4 + T-cell eQTL MR nominates SMDT1 and CMTM7 as candidate genes associated with PDAC susceptibility. The pooled discovery evidence and directionally consistent nominal European associations support prioritization, but no gene survived FDR correction in the European analysis. Transcriptomic and downstream functional findings remain exploratory and require experimental validation.",
+ "authors": [
+  "Wang H",
+  "Wang B",
+  "Duan X",
+  "Jiao G",
+  "Chen M",
+  "Guan X",
+  "Cao J",
+  "Cui L"
+ ],
+ "categories": [
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42900762",
+ "importance": 0.75,
+ "key_points_ko": [
+  "통합 탐색 스크리닝에서 67개 유전자가 유의성(FDR < 0.05)을 보였고, 그중 65개 유전자가 일관된 방향성을 나타냈습니다.",
+  "유럽인 1차 분석에서 SMDT1은 교차비(OR) 0.603(p = 0.009), CMTM7은 교차비 1.208(p = 0.023)로 명목상 유의한 연관성을 보였습니다.",
+  "유럽인 대상 분석에서 다중 비교 보정(FDR) 기준을 통과한 유전자는 없었으며, 결과 검증을 위한 추가 연구가 필요합니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1002/mc.70198",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42900762"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Carcinog",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900762/"
+ },
+ "summary_ko": "연구진은 활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌(eQTL)를 활용해 췌관선암종(PDAC) 위험과 관련된 유전자를 탐색했습니다. 4개 코호트 메타분석 및 유럽인 데이터 분석을 활용한 2단계 멘델 무작위 배정(MR) 기법이 적용되었습니다. 분석 결과 SMDT1과 CMTM7 유전자가 췌관선암종 감수성과 관련된 후보 유전자로 도출되었습니다. 다만 보정 유의수준(FDR)을 통과한 유전자는 없어 추가적인 실험적 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dynamic Expression Quantitative Trait Locus Mendelian Randomization in Activated CD4-Positive T Cells Nominates SMDT1 and CMTM7 as Candidate Genes in Pancreatic Cancer",
+ "title_ko": "활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌 멘델 무작위 배정을 통한 췌장암 후보 유전자 SMDT1 및 CMTM7 발굴",
+ "trial": null,
+ "type": "paper"
+}

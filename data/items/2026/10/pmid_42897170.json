@@ -1,0 +1,63 @@
+{
+ "abstract": "Cachexia or body wasting is a significant contributing factor to the morbidity and mortality of pancreatic cancer. Despite an unmet need, its metabolic underpinnings remain poorly understood. Here, we characterize a mouse model that recaptures the longitudinal progression of human cachexia during pancreatic cancer development. We profile the metabolomes of pre-, early- and late-stage cancer-associated cachexia in male and female pancreas, its interstitial fluid (IF), plasma, liver, adipose tissue and skeletal muscle. We find that each tissue has a unique metabolome and trajectory across stages and reveal a marked lipid enrichment in the tumor IF. Using mathematical modeling, we identify metabolites participating in cross-tissue networks and in vivo validate a lactate-glucose conversion. We find systemic metabolic changes prior to weight loss and use feature selection algorithms to identify early detection markers. Our study provides a resource for system-wide metabolic evolution of pancreatic cancer and associated cachexia, highlighting the potential for timely diagnostics and interventions.",
+ "authors": [
+  "Majem B",
+  "Lee MS",
+  "Shin KC",
+  "Naqvi I",
+  "Dennis C",
+  "Dailey L",
+  "Jeanfavre S",
+  "Mino-Kenudson M"
+ ],
+ "categories": [
+  "basic",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-20",
+ "history": [
+  {
+   "date": "2026-10-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42897170",
+ "importance": 0.52,
+ "key_points_ko": [
+  "췌장암 발달에 따른 전임상 모델의 다중 조직 대사체 프로파일링을 수행했습니다.",
+  "종양 간질액에서 현저한 지질 축적이 확인되었습니다.",
+  "체중 감소가 발생하기 전에 전신 대사 변화가 선행하는 것을 발견했습니다."
+ ],
+ "last_updated": "2026-10-20",
+ "links": {
+  "doi": "10.1038/s41467-026-77745-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42897170"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-18",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42897170/"
+ },
+ "summary_ko": "본 연구는 췌장암 발달 과정에서 나타나는 인간 악액질(cachexia)의 종단적 진행을 재현하는 마우스 모델을 특성화했습니다. 연구진은 수컷과 암컷의 췌장, 간, 지방 조직, 골격근 등 다양한 조직에서 암 연관 악액질의 단계별 대사체를 분석했습니다. 그 결과 각 조직은 고유한 대사체와 진행 경로를 가지며 종양 간질액(interstitial fluid, IF)에서 현저한 지질(lipid) 축적이 관찰되었습니다. 또한 체중 감소 이전에 전신 대사 변화가 나타남을 확인하여 조기 진단 표지자를 발굴할 수 있는 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia",
+ "title_ko": "췌장암 전임상 모델 및 관련 악액질에서의 시공간적 대사 네트워크",
+ "trial": null,
+ "type": "paper"
+}
