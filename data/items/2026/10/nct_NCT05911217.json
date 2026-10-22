@@ -15,17 +15,21 @@
    "date": "2026-10-06",
    "detail": null,
    "event": "created"
+  },
+  {
+   "date": "2026-10-21",
+   "detail": "참여 조건 변경",
+   "event": "eligibility_changed"
   }
  ],
  "id": "nct:NCT05911217",
- "importance": 0.74,
+ "importance": 0.84,
  "key_points_ko": [
-  "대상 질환: CLDN18.2 양성 췌장암 환자",
-  "중재 방법: CT041 자가 CAR T세포 주사(CT041 autologous CAR T-cell injection)",
-  "목표 인원: 20명",
-  "연구 단계: 1b상 임상시험(Phase Ib)"
+  "수술 후 표준 보조 화학요법을 완료한 CLDN18.2 양성 췌장암 환자를 대상으로 합니다.",
+  "CLDN18.2를 표적으로 하는 자가 CAR-T 세포치료제 CT041의 유효성과 안전성을 평가합니다.",
+  "목표 대상자 수는 총 20명이며 단일군 1b상 임상시험으로 진행됩니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +52,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05911217"
  },
- "summary_ko": "이 연구는 CLDN18.2 양성 췌장암 환자 중 수술 후 보조항암화학요법(adjuvant chemotherapy)을 마친 환자를 대상으로 자가 CAR T세포 치료제인 CT041의 유효성과 안전성을 평가하는 공개, 단일군, 다기관 1b상 임상시험입니다. 대상 질환은 췌관선암(pancreatic ductal adenocarcinoma)이며, 목표 인원은 20명입니다. 본 연구는 CLDN18.2 단백질을 표적하는 세포치료제 투여의 효과를 확인하고자 합니다.",
+ "summary_ko": "본 임상시험은 수술 및 보조 화학요법을 완료한 클라우딘 18.2(CLDN18.2) 양성 췌장암 환자를 대상으로 자가 CAR-T 세포 치료제인 CT041의 유효성과 안전성을 평가하는 1b상 연구입니다. 육안상 완전 절제를 받은 pTNM 병기 T1-3, N0-2, M0 단계의 췌관선암(PDAC) 환자 20명을 대상으로 진행됩니다. CLDN18.2 표적 치료로서 수술 및 표준 보조 요법 이후 치료 효과를 확인하는 것을 목표로 합니다.",
  "summary_source": "llm",
  "tags": [
   "Adjuvant therapy",
@@ -58,7 +62,7 @@
   "CAR T cell"
  ],
  "title": "A Study to Evaluate the Efficacy and Safety of CT041 After Adjuvant Chemotherapy for Pancreatic Cancer",
- "title_ko": "췌장암 수술 후 보조항암화학요법 이후 CT041의 유효성과 안전성을 평가하는 임상시험",
+ "title_ko": "췌장암 수술 후 보조 화학요법을 받은 환자 대상 CT041의 유효성 및 안전성 평가 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -75,14 +79,14 @@
     "phone": "86-21-54489926"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 18세에서 79세 사이의 연령. 2. 조직학적으로 확진된 췌관선암(pancreatic ductal adenocarcinoma). 3. 육안적 완전 절제술 시행 및 수술 후 병리학적 병기 T1-3, N0-2, M0. 4. 종양 조직의 면역조직화학(IHC) 검사에서 CLDN18.2 양성. 5. 수술 후 회복되어 3개월간의 표준 보조요법을 완료함. 6. ECOG 수행능력 점수 0-1점. 제외 기준: 1. 수술 전 선행항암치료(neoadjuvant therapy)를 받은 이력이 있는 경우. 2. 경계성 절제 가능(borderline resectable) 췌장암 환자. 3. 전이성 또는 국소 재발성 췌장암의 현재 또는 과거력. 4. 악성 복수가 있는 경우. 5. 이전에 유전자 조작 세포 치료제(CAR T, TCR T 등)를 투여받은 적이 있는 경우.",
-  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntary participation in the clinical trial; fully understand, be informed about this study and have signed the ICF; willing to follow and able to complete all study procedures;\n2. Aged 18 to 79 years;\n3. Histologically confirmed pancreatic ductal adenocarcinoma;\n4. Macroscopic complete tumor removal (R0 or R1 resection);\n5. Postoperative pathological stage (pTNM): T1-3, N0-2, M0;\n6. Immunohistochemistry (IHC) staining of subject's tumor tissue sample is CLDN18.2-positive;\n7. Subjects had recovered from surgery and had received 3 months of standard adjuvant therapy;\n8. Abnormal CA19-9 level;\n9. With sufficient venous access for leukapheresis collection;\n10. ECOG performance status score 0-1;\n11. Adequate organ function;\n12. Men and women of childbearing potential must be willing to use effective methods of contraception to prevent pregnancy;\n\nExclusion Criteria:\n\n1. Prior neoadjuvant therapy for pancreatic cancer;\n2. Subjects with borderline resectable pancreatic cancer;\n3. Present or past history of metastatic or locally recurrent pancreatic cancer;\n4. Evidence of malignant ascites;\n5. Subjects had diseases that may interfere with CA19-9 level, including but not limited to cholangitis, pancreatitis, obstructive jaundice, etc.\n6. Toxicities caused by previous treatment have not recovered to CTCAE ≤ grade 2, except alopecia and other tolerable events as judged by the investigator or laboratory abnormalities allowed in this study;\n7. Pregnant or lactating women;\n8. Positive serology for HIV, Treponema pallidum or HCV;\n9. Any active infections, including but not limited to active tuberculosis, HBV, EBV, CMV, COVID-19 infections;\n10. Clinically significant thyroid dysfunction;\n11. Previous allergy to immunotherapy and related drugs, allergy to CT041 ingredients and other serious allergic history;\n12. Subjects who may be at high risk for potential digestive tract bleeding or perforation;\n13. Known active autoimmune disease, including but not limited to, psoriasis or rheumatoid arthritis, or other conditions requiring long-term immunosuppressive therapy;\n14. Subjects who have a history of organ transplantation or are awaiting organ transplantation;\n15. Subjects who require anticoagulant therapy;\n16. Subjects who are receiving or are expected to require long-term antiplatelet therapy during the study;\n17. Subjects who have experienced major surgery or have significant trauma within 4 weeks before apheresis, or who are expected to undergo major surgery during the study period;\n18. Previously received any gene-modified cell therapies (including CAR T, TCR T);\n19. Subjects who have other serious diseases that may restrict them from participating in the study assessed by investigators;\n20. Subjects with oxygen saturation ≤ 95%;\n21. Subjects who have signs of central nervous system diseases or clinically significant neurological examination abnormalities;\n22. Subjects who have other uncured malignant tumors in the past 3 years or at the same time, except those with very low degree of malignancy such as cervical cancer in situ and basal cell carcinoma of skin;\n23. Vaccination with live attenuated vaccines within 4 weeks prior to apheresis or planned during the study;\n24. Subjects who are unable to or unwilling to comply with the requirements of the study protocol as assessed by investigators.",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 79세 이하 환자\n- 조직학적으로 확진된 췌관선암\n- 육안상 완전 절제(pTNM 병기 T1-3, N0-2, M0)를 받은 환자\n- 면역조직화학(IHC) 검사상 CLDN18.2 양성 환자\n- 수술에서 회복되었으며 표준 보조 화학요법을 완료한 환자\n- ECOG 수행능력 점수 0~1점\n\n제외 기준:\n- 수술 전 선행 보조 치료(neoadjuvant)를 받은 환자\n- 경계성 절제 가능, 전이성 또는 국소 재발성 췌장암 환자\n- 악성 복수가 확인된 환자\n- 이전 유전자 변형 세포 치료(CAR-T, TCR-T)를 받은 적이 있는 환자\n- 소화관 출혈 또는 천공 위험이 높은 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Voluntary participation in the clinical trial; fully understand, be informed about this study and have signed the ICF; willing to follow and able to complete all study procedures;\n2. Aged 18 to 79 years;\n3. Histologically confirmed pancreatic ductal adenocarcinoma;\n4. Macroscopic complete tumor removal ;\n5. Postoperative pathological stage (pTNM): T1-3, N0-2, M0;\n6. Immunohistochemistry (IHC) staining of subject's tumor tissue sample is CLDN18.2-positive;\n7. Subjects had recovered from surgery and had received months of standard adjuvant therapy;\n8. Abnormal of Specific tumor marker level;\n9. With sufficient venous access for leukapheresis collection;\n10. ECOG performance status score 0-1;\n11. Adequate organ function;\n12. Men and women of childbearing potential must be willing to use effective methods of contraception to prevent pregnancy;\n\nExclusion Criteria:\n\n1. Prior neoadjuvant therapy for pancreatic cancer;\n2. Subjects with borderline resectable pancreatic cancer;\n3. Present or past history of metastatic or locally recurrent pancreatic cancer;\n4. Evidence of malignant ascites;\n5. Subjects had diseases that may interfere with CA19-9 level.\n6. Toxicities caused by previous treatment have not recovered to CTCAE ≤ grade 2, except alopecia and other tolerable events as judged by the investigator or laboratory abnormalities allowed in this study;\n7. Pregnant or lactating women;\n8. Positive serology for HIV, Treponema pallidum or HCV;\n9. Any active infections;\n10. Clinically significant thyroid dysfunction;\n11. Previous allergy to immunotherapy and related drugs, allergy to CT041 ingredients and other serious allergic history;\n12. Subjects who may be at high risk for potential digestive tract bleeding or perforation;\n13. Known active autoimmune disease, including but not limited to, psoriasis or rheumatoid arthritis, or other conditions requiring long-term immunosuppressive therapy;\n14. Subjects who have a history of organ transplantation or are awaiting organ transplantation;\n15. Subjects who require anticoagulant therapy;\n16. Subjects who are receiving or are expected to require long-term antiplatelet therapy during the study;\n17. Subjects who have experienced major surgery or have significant trauma within 4 weeks before apheresis, or who are expected to undergo major surgery during the study period;\n18. Previously received any gene-modified cell therapies (including CAR T, TCR T);\n19. Subjects who have other serious diseases that may restrict them from participating in the study assessed by investigators;\n20. Subjects with oxygen saturation ≤ 95%;\n21. Subjects who have signs of central nervous system diseases or clinically significant neurological examination abnormalities;\n22. Subjects who have other uncured malignant tumors in the past 3 years or at the same time, except those with very low degree of malignancy such as cervical cancer in situ and basal cell carcinoma of skin;\n23. Vaccination with live attenuated vaccines within 4 weeks prior to apheresis or planned during the study;\n24. Subjects who are unable to or unwilling to comply with the requirements of the study protocol as assessed by investigators.",
   "enrollment": 20,
   "has_results": false,
   "interventions": [
    "CT041 autologous CAR T-cell injection"
   ],
-  "last_update_posted": "2024-05-28",
+  "last_update_posted": "2026-10-21",
   "location_countries": [
    "China"
   ],
@@ -94,15 +98,16 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "수술 전 선행항암치료 이력",
-    "전이성 또는 국소 재발성 췌장암 병력",
-    "이전 유전자 조작 세포 치료제 투여력",
-    "활동성 감염 질환"
+    "수술 전 선행 보조 치료(neoadjuvant)를 받은 환자",
+    "전이성 또는 국소 재발성 췌장암 환자",
+    "이전에 CAR-T 등 유전자 변형 세포 치료를 받은 환자",
+    "소화관 출혈 또는 천공 위험이 높은 환자",
+    "활동성 자가면역 질환이 있거나 장기 이식 이력이 있는 환자"
    ],
    "max_prior_lines": 0,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": 0,
-   "notes_ko": "수술 후 보조항암화학요법을 마친 CLDN18.2 양성 췌장암 환자",
+   "notes_ko": "수술 및 표준 보조 화학요법을 마친 CLDN18.2 양성 췌장암 환자 대상 CAR-T 세포치료제 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

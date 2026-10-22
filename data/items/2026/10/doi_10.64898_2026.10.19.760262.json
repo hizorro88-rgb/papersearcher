@@ -1,0 +1,62 @@
+{
+ "abstract": "Transcription replication conflicts (TRCs) arise from spatiotemporal interference between replication and transcription machinery and contribute to genome instability in cancer cells. In pancreatic ductal adenocarcinoma (PDAC) cells, oncogenic KRAS drives TRC formation, and base excision repair (BER) contributes to TRC resolution as an adaptive response. Here, we show that TRCs are enriched in pancreatic tumor sections from patients and are associated with malignant progression. We identify NEIL2, a bifunctional DNA glycosylase in the BER pathway, as a critical regulator of TRCs in PDAC cells. Mechanistically, NEIL2 loss causes aberrant RNA polymerase II (RNAPII) occupancy at transcription start sites and downstream of transcription end sites. Dysregulated RNAPII dynamics promote R-loop-dependent and -independent TRCs contributing to replication stress, DNA damage, and impaired cancer cell proliferation. Notably, the DNA-binding motif of NEIL2 necessary for canonical BER function is dispensable for TRC regulation. Together, these findings reveal an unrecognized role for NEIL2 in regulating RNAPII dynamics and mitigating TRCs in pancreatic cancer cells.",
+ "authors": [
+  "Meng F",
+  "Fernandez A",
+  "Luan C",
+  "Attiyeh MA",
+  "Feng Q",
+  "Lee A",
+  "Feng H",
+  "Li T"
+ ],
+ "categories": [
+  "basic",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.19.760262",
+ "importance": 0.56,
+ "key_points_ko": [
+  "췌장암 환자의 종양 조직에서 전사-복제 충돌(TRC)의 증가가 관찰되었으며 이는 악성 진행과 연관되었습니다.",
+  "NEIL2가 결손되면 RNA 중합효소 II의 동역학 이상으로 TRC와 복제 스트레스, DNA 손상이 증가하여 암세포 증식이 억제되었습니다.",
+  "NEIL2의 전사-복제 충돌 조절 기능은 기존의 전형적인 염기 절제 복구(BER) 활성에 필수적인 DNA 결합 모티프와는 독립적으로 작용했습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.64898/2026.10.19.760262",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1346259"
+ },
+ "summary_ko": "췌관선암(PDAC) 세포에서 종양유전자 KRAS에 의해 유발되는 전사-복제 충돌(TRC)과 이를 억제하는 NEIL2 효소의 기전을 규명한 전임상 연구입니다. 환자의 췌장암 조직 검체에서 TRC가 다수 관찰되었으며 이는 암의 악성 진행과 연관되어 있었습니다. 염기 절제 복구(BER) 경로의 DNA 글리코실화효소인 NEIL2가 결핍되면 RNA 중합효소 II(RNAPII)의 비정상적 축적으로 인해 복제 스트레스와 DNA 손상이 유발되고 암세포 증식이 억제되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "NEIL2 regulates RNA polymerase II dynamics to suppress transcription replication conflicts in pancreatic cancer",
+ "title_ko": "췌장암에서 전사-복제 충돌 억제를 위한 NEIL2의 RNA 중합효소 II 동역학 조절 기전",
+ "trial": null,
+ "type": "preprint"
+}

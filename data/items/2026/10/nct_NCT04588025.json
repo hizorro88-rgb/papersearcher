@@ -18,11 +18,10 @@
  "id": "nct:NCT04588025",
  "importance": 0.74,
  "key_points_ko": [
-  "휴대용 관류 팬텀(P4)을 사용하여 DCE-MRI 기반 췌장암 치료 반응 평가의 정확도를 높이기 위한 연구입니다.",
-  "건강인 대조군과 생검으로 확진된 국소진행성 췌장암 환자 총 55명이 참여합니다.",
-  "가돌리늄 조영제 사용에 따른 신원성 전신 섬유증 위험으로 인해 혈액투석 환자 및 급성 신부전 환자는 제외됩니다."
+  "휴대용 관류 팬텀(P4)을 활용하여 DCE-MRI 촬영의 오차를 줄이고 치료 반응을 평가합니다.",
+  "건강한 자원자와 췌장암 환자가 참여하며 목표 인원은 55명입니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -45,11 +44,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04588025"
  },
- "summary_ko": "이 임상시험은 현장 휴대용 관류 팬텀(P4)을 적용하여 정량적 동적 조영증강 자기공명영상(DCE-MRI)의 기기 간 측정 오차를 줄이고 췌장암 환자의 치료 반응을 정확하게 평가할 수 있는지 확인하기 위한 연구입니다. 건강한 자원자 5명과 조직검사로 확진된 국소진행성 췌장암 환자를 포함하여 총 55명을 대상으로 진행됩니다. 참가자는 환자 맞춤형 품질 관리를 위해 P4 팬텀과 함께 MRI 검사를 받게 됩니다.",
+ "summary_ko": "이 연구는 휴대용 관류 팬텀(P4)을 사용하여 동적 조영증강 자기공명영상(DCE-MRI)의 장비 간 및 장비 내 오차를 줄이고 췌장암 치료 반응을 정확하게 평가할 수 있는지 조사합니다. 건강한 지원자를 대조군으로 하여 세 곳의 다른 MRI 장비에서 기저 결과를 확립합니다. 췌장암 환자군은 한 곳의 장비에서 DCE-MRI 촬영을 진행합니다. 총 목표 인원은 55명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Disposable Perfusion Phantom for Accurate DCE (Dynamic Contrast Enhanced)-MRI Measurement of Pancreatic Cancer Therapy Response",
- "title_ko": "췌장암 치료 반응의 정확한 동적 조영증강 MRI 측정을 위한 일회용 관류 팬텀 연구",
+ "title_ko": "췌장암 치료 반응의 정확한 동적 조영증강 자기공명영상(DCE-MRI) 측정을 위한 일회용 관류 팬텀 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -66,7 +65,7 @@
     "phone": "614-293-8315"
    }
   ],
-  "eligibility_ko": "선정 기준: • 만 19세 이상 성인 • 생검(조직검사)을 통해 확인된 국소진행성 췌장암 환자. 제외 기준: • MRI 검사의 안전상 금기 사유가 있는 환자 • 혈액투석 중이거나 급성 신부전이 있는 환자 • 임신 중이거나 수유 중인 여성 • 연구 기간 및 종료 후 6개월간 효과적인 피임을 시행하지 않는 환자",
+  "eligibility_ko": "선정 기준: - 조직검사로 확진된 국소 진행성 췌장암 환자 - 19세 이상 - 모든 인종 및 성별 참여 가능. 제외 기준: - MRI 검사 금기 사항이 있는 환자 - 혈액투석 중이거나 급성 신부전이 있는 환자 - 임신 중이거나 수유 중인 환자",
   "eligibility_text": "Healthy Volunteer - a small number of healthy volunteers (5) will be used as the control group.\n\nInclusion Criteria:\n\n* Targeted/planned enrollment in the study will include all racial/ethnic groups with no groups excluded on the basis of race, ethnicity or gender.\n* Participants should be 19 years of age or older\n* Participants should not have any known major health problems including but not limited to cancers, heart diseases, diabetes, high blood pressure and/or cholesterol, stroke, respiratory problems, and arthritis.\n\nExclusion Criteria:\n\n* Participants having any known major health problems will be excluded.\n* Participants with safety contraindications to MRI examination (determined by standard clinical screening).\n* Participants on hemodialysis or with acute renal failure will be excluded. (Participants on hemodialysis and those with renal failure who receive intravenous gadolinium may be at increased risk for a condition called Nephrogenic systemic fibrosis/ Nephrogenic fibrosing dystrophy and thus will be excluded.)\n* Participants may not be pregnant or lactating.\n* Participants may not father a child while on this study as the treatment may indirectly affect an unborn child.\n* Unless participants cannot have children because of surgery or other medical reasons, participants must have been using an effective form of birth control before starting the study.\n* Participants must also agree to continue to use an effective form of birth control for 6 months after taking the study. Effective birth control includes birth control pills, patch, IUD (intrauterine device), condom, sponge, diaphragm with spermicide, or avoiding sexual activity that could cause pregnancy.\n\nPancreatic Cancer Participants:\n\nInclusion Criteria:\n\n* Patients having biopsy proven locally advanced pancreatic cancer will be asked to participate in this study.\n* Targeted/planned enrollment in the study will include all racial/ethnic groups, with no groups excluded on the basis of race, ethnicity or gender.\n* Participants should be 19 years of age or older.\n\nExclusion Criteria:\n\n* Participants with safety contraindications to MRI examination (determined by standard clinical screening).\n* Participants on hemodialysis or with acute renal failure will be excluded.\n* Participants on hemodialysis and those with renal failure who receive intravenous gadolinium may be at increased risk for a condition called Nephrogenic systemic fibrosis/ Nephrogenic fibrosing dystrophy and thus will be excluded.\n* Participants may not be pregnant or lactating.\n* Participants may not father a child while on this study as the treatment may indirectly affect an unborn child.\n* Unless participants cannot have children because of surgery or other medical reasons, participants must have been using an effective form of birth control before starting the study.\n* Participants must also agree to continue to use an effective form of birth control for 6 months after taking the study. Effective birth control includes birth control pills, patch, IUD, condom, sponge, diaphragm with spermicide, or avoiding sexual activity that could cause pregnancy.",
   "enrollment": 55,
   "has_results": false,
@@ -83,14 +82,14 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "MRI 검사 금기 대상자",
-    "혈액투석 환자 또는 급성 신부전 환자",
-    "임신 또는 수유 중인 여성"
+    "MRI 검사 금기 사항",
+    "혈액투석 또는 급성 신부전",
+    "임신 또는 수유 중"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "DCE-MRI를 통한 치료 반응 평가를 받는 국소진행성 췌장암 환자",
+   "notes_ko": "조직검사로 확진된 국소 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

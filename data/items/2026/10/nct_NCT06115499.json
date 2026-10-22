@@ -23,12 +23,11 @@
  "id": "nct:NCT06115499",
  "importance": 0.96,
  "key_points_ko": [
-  "1차 FOLFIRINOX 치료 후 진행된 BRCA1/2 또는 PALB2 변이 전이성 췌장암 환자 대상 2상/3상 임상시험입니다.",
-  "3제 병용요법(nab-paclitaxel, gemcitabine, cisplatin)과 2제 병용요법(nab-paclitaxel, gemcitabine)의 전체 반응률(ORR)과 전체 생존기간(OS)을 비교합니다.",
-  "무진행 생존기간(PFS), 반응 지속기간(DoR), CA19-9 반응 및 독성 프로파일을 부차적으로 평가합니다.",
-  "초록에 명시되지 않음(목표 인원 10명, 국내 기관 0곳)."
+  "BRCA1/2 또는 PALB2 유전자 변이가 존재하고 1차 FOLFIRINOX 치료 후 진행된 전이성 췌장암 환자 10명을 대상으로 진행합니다.",
+  "nab-paclitaxel, gemcitabine, cisplatin 3제 요법과 nab-paclitaxel, gemcitabine 2제 요법의 효과와 안전성을 비교합니다.",
+  "주요 평가지표는 객관적 반응률(ORR) 및 전체 생존기간(OS)이며, 무진행 생존기간(PFS)과 반응 지속기간(DoR)도 함께 평가합니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -51,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06115499"
  },
- "summary_ko": "이 2상/3상 임상시험은 1차 FOLFIRINOX 치료 후 진행된 BRCA1/2 또는 PALB2 유전자 변이가 있는 전이성 췌장암 환자를 대상으로 합니다. nab-paclitaxel(납파클리탁셀), gemcitabine(젬시타빈), cisplatin(시스플라틴) 3제 병용요법과 nab-paclitaxel, gemcitabine 2제 병용요법의 효과를 비교합니다. 주요 평가지표는 전체 반응률(ORR)과 전체 생존기간(OS)입니다. 환자들은 두 그룹 중 한 곳에 무작위 배정되어 치료를 받습니다.",
+ "summary_ko": "이 연구는 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 전이성 췌장암 환자를 대상으로 진행되는 2/3상 임상시험입니다. 1차 치료로 FOLFIRINOX(폴피리녹스) 항암요법을 받은 후 병이 진행된 환자에게 nab-paclitaxel(납-팍리탁셀), gemcitabine(젬시타빈), cisplatin(시스플라틴) 3제 병용요법과 nab-paclitaxel, gemcitabine 2제 병용요법의 효과를 비교합니다. 2상 단계에서는 객관적 반응률(ORR)을, 3상 단계에서는 전체 생존기간(OS)을 주요 평가지표로 비교 평가합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "The PLATINUM Trial: Optimizing Chemotherapy for the Second-Line Treatment of Metastatic BRCA1/2 or PALB2-Associated Metastatic Pancreatic Cancer",
- "title_ko": "PLATINUM 임상시험: 전이성 BRCA1/2 또는 PALB2 변이 췌장암 환자의 2차 치료를 위한 화학요법 최적화",
+ "title_ko": "BRCA1/2 또는 PALB2 변이 전이성 췌장암 2차 치료에서 NABPLAGEM 3제 요법을 평가하는 2/3상 PLATINUM 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Acinar Cell Carcinoma",
@@ -67,7 +66,7 @@
    "Stage IV Pancreatic Cancer AJCC v8"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 전이성 췌장선암(선인세포암, 선鳞암종 등도 허용)\n- CLIA 인증 패널을 통해 확인된 병원성 또는 잠재적 병원성 BRCA1/2 또는 PALB2 변이\n- 측정 가능한 병변 존재\n- 1차 FOLFIRINOX(또는 NALIRIFOX) 치료 후 임상적 또는 방사선학적 진행\n- 18세 이상\n- ECOG 수행능력 상태 0-2\n\n제외 기준:\n- 초록에 명시되지 않음",
+  "eligibility_ko": "선정 기준:\n- BRCA1, BRCA2 또는 PALB2 유전자 변이(동반성 또는 생식세포)가 확인된 전이성 췌장암 환자\n- 1차 FOLFIRINOX(또는 NALIRIFOX) 치료 중 또는 치료 후 질병 진행이 확인된 환자\n- 측정이 가능한 병변(Measurable disease)을 보유한 환자\n- ECOG 수행능력 평가 점수 0~2점인 환자\n- 만 18세 이상의 성인 환자\n\n제외 기준:\n- 췌장암 치료 목적으로 이전에 cisplatin(시스플라틴) 치료를 받은 적이 있는 환자\n- Grade 2를 초과하는 말초감각신경병증이 있는 환자\n- 조절되지 않거나 새롭게 발생한 활성 뇌전이 또는 뇌수막 질환이 있는 환자\n- CYP3A4 강력한 억제제 또는 유도제를 병용 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Metastatic pancreatic adenocarcinoma. Adenosquamous carcinoma, squamous carcinoma, acinar cell carcinoma, and carcinoma not otherwise specified are also acceptable\n* BRCA1/2 or PALB2 mutation (somatic or germline) identified on any Clinical Laboratory Improvement Amendments (CLIA)-certified gene panel. Mutations must be considered pathogenic or likely pathogenic by a reference database such as ClinVar or OncoKb.org. (Submission of mutation report will be required)\n* Measurable disease\n* Potential trial participants should have recovered from clinically significant adverse events of their most recent therapy/intervention prior to enrollment\n* Clinical or radiographic progression on first-line FOLFIRINOX (or nanoliposomal irinotecan, fluorouracil, leucovorin, and oxaliplatin \\[NALIRIFOX\\]) for metastatic disease\n\n  * Patients whose front-line chemotherapy was required to be simplified due to toxicity associated with any of the constituent components of FOLFIRINOX/NALIRIFOX (e.g. simplified to leucovorin calcium, fluorouracil, and oxaliplatin \\[FOLFOX\\], leucovorin calcium, fluorouracil, and irinotecan \\[FOLFIRI\\], fluorouracil \\[5-FU\\] \\[including capecitabine\\]) will be eligible\n  * Patients with progressive disease while on maintenance PARP inhibitor treatment after FOLFIRINOX (or NALIRIFOX), irrespective of how long ago they received FOLFIRINOX/NALIRIFOX, will also be eligible\n  * Patients who develop metastatic disease during or within 6 months after completing FOLFIRINOX/NALIRIFOX in either the locally advanced or adjuvant/neoadjuvant settings will be eligible\n* Patients may not have received prior cisplatin for their pancreatic cancer in any setting\n\n  \\* Note: Patients may have previously received gemcitabine +/- nab-paclitaxel for resectable (neoadjuvant/adjuvant) or locally advanced disease if (1) treatment was completed \\> 1 year ago and (2) in the opinion of the treating provider, re-treatment with gemcitabine/nab-paclitaxel is appropriate\n* Age \\>= 18 years\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2 (Karnofsky performance status \\>= 60)\n* Absolute neutrophil count \\>= 1,500/mm\\^3\n* Platelet count \\>= 100,000/mm\\^3\n* Hemoglobin \\>= 8.0 g/dL\n* Creatinine =\\< 1.8 x institutional upper limit of normal (ULN) or calculated creatinine clearance (Calc. CrCl) \\> 40 mL/min\n* Total bilirubin =\\< 2.0 x institutional ULN\n\n  \\* Any elevated bilirubin should be asymptomatic at enrollment (except for participants with documented Gilbert's syndrome who may only be included if the total bilirubin =\\< 3 x ULN or direct bilirubin =\\< 1.5 x ULN)\n* Aspartate transaminase (AST)/alanine transaminase (ALT) =\\< 3 x institutional ULN\n\n  \\* AST/ALT of =\\< 5 x ULN if liver metastases are present\n* Not pregnant and not nursing, because this study involves an agent that has known genotoxic, mutagenic and teratogenic effects\n\n  \\* Therefore, for women of childbearing potential only, a negative pregnancy test done =\\< 14 days prior to registration is required\n* Patients with \\> grade 2 peripheral sensory neuropathy are not eligible\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patients with treated brain metastases are eligible if follow-up brain imaging after central nervous system (CNS)-directed therapy shows no evidence of progression for at least 8-weeks.\n\n  \\* Patients with known, new or progressive brain metastases (active brain metastases) or leptomeningeal disease are ineligible\n* Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral therapy with undetectable viral load anytime within 6 months prior to registration are eligible for this trial\n* For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated.\n\n  \\* Patients with a history of hepatitis C virus (HCV) infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Concomitant chronic concomitant treatment with strong inhibitors of CYP3A4 is not allowed on this study. Patients on strong CYP3A4 inhibitors must discontinue the drug for 14 days prior to registration on the study\n* Chronic concomitant treatment with strong CYP3A4 inducers is not allowed. Patients must discontinue the drug 14 days prior to the start of study treatment\n\nExclusion Criteria:\n\n* N/A",
   "enrollment": 10,
   "has_results": false,
@@ -91,22 +90,17 @@
    ],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "활동성 뇌전이 또는 연수막 질환",
-    "2등급을 초과하는 말초 감각 신경병증",
-    "치료되지 않은 활성형 뇌전이"
+    "이전에 시스플라틴(cisplatin) 항암 치료를 받은 경험이 있는 경우",
+    "2등급(Grade 2) 초과의 심한 말초감각신경병증이 있는 경우",
+    "치료되지 않았거나 진행 중인 활성 뇌전이 또는 뇌수막 질환이 있는 경우"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "1차 FOLFIRINOX 치료 후 진행된 BRCA1/2 또는 PALB2 변이 전이성 췌장암 환자",
-   "prior_excluded": [
-    "platinum"
-   ],
+   "notes_ko": "1차 FOLFIRINOX 치료 후 진행된 BRCA1/2 또는 PALB2 변이 전이성 췌장암 환자를 위한 2차 치료 임상시험입니다.",
+   "prior_excluded": [],
    "prior_required": [
-    "FOLFIRINOX",
-    "platinum",
-    "fluoropyrimidine",
-    "irinotecan"
+    "FOLFIRINOX"
    ],
    "setting": [
     "metastatic"

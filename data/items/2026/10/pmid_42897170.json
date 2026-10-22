@@ -32,15 +32,16 @@
   "종양 간질액에서 현저한 지질 축적이 확인되었습니다.",
   "체중 감소가 발생하기 전에 전신 대사 변화가 선행하는 것을 발견했습니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": "10.1038/s41467-026-77745-0",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13680358",
   "pmid": "42897170"
  },
  "pub_types": [
-  "Journal Article"
+  "Journal Article",
+  "Research Support, N.I.H., Extramural"
  ],
  "published_at": "2026-09-18",
  "relevance": 0.9,

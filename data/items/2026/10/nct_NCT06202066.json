@@ -20,12 +20,11 @@
  "id": "nct:NCT06202066",
  "importance": 0.73,
  "key_points_ko": [
-  "임상시험 단계: 2상 (Phase IIa)",
-  "목표 환자 수: 60명",
-  "주요 평가목표: 무진행 생존기간(PFS) 및 안전성과 독성 평가",
-  "중재 치료: Temozolomide 및 SurVaxM 펩타이드 백신 병용"
+  "임상시험 목표 인원은 총 60명입니다.",
+  "주요 평가지표는 무진행 생존기간(PFS)과 안전성 및 독성 평가입니다.",
+  "치료 효과 평가는 3개월, 6개월, 9개월, 12개월 시점에 이루어집니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -48,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06202066"
  },
- "summary_ko": "이 임상 2a상 시험은 진행성 전이성 신경내분비종양(NET, neuroendocrine tumor) 및 신경내분비암(NEC, neuroendocrine carcinoma) 환자를 대상으로 temozolomide 단독 요법과 temozolomide 및 survivin 장 펩타이드 백신(SurVaxM) 병용 요법의 안전성과 효과를 비교합니다. temozolomide는 DNA를 손상시켜 종양 세포를 파괴하는 약물이며, SurVaxM은 암세포에 발현되는 survivin에 대한 면역 반응을 유도합니다. 연구의 주요 목적은 무진행 생존기간(PFS)을 평가하고 두 치료법 병용의 안전성과 독성을 확인하는 것입니다. 총 60명의 환자를 목표로 진행되며 생체 수집, CT 또는 MRI 검사 등이 포함됩니다.",
+ "summary_ko": "이 2상 임상시험은 진행성 전이성 신경내분비종양(NET) 및 신경내분비암(NEC) 환자를 대상으로 temozolomide(테모졸로마이드) 단독 치료와 temozolomide 및 SurVaxM 백신 병용 치료의 안전성과 효과를 비교합니다. 환자 60명을 목표로 하며, 주요 평가지표는 무진행 생존기간(PFS)과 안전성입니다. SurVaxM 백신은 암세포의 survivin 단백질을 표적으로 하여 면역 반응을 유도하도록 설계되었습니다.",
  "summary_source": "llm",
  "tags": [
   "신경내분비종양"
  ],
  "title": "Temozolomide and Survivin Long Peptide Vaccine (SurVaxM) for the Treatment of Patients With Progressing Metastatic Neuroendocrine Carcinomas",
- "title_ko": "진행성 전이성 신경내분비암 환자에서 temozolomide와 SurVaxM 백신 병용 요법을 평가하는 2상 임상시험",
+ "title_ko": "진행성 전이성 신경내분비암 환자를 위한 테모졸로마이드와 SurVaxM 백신 병용 임상시험",
  "trial": {
   "conditions": [
    "Digestive System Neuroendocrine Neoplasm",
@@ -63,7 +62,7 @@
    "Pancreatic Neuroendocrine Neoplasm"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- Karnofsky 수행능력 지수 ≥ 80 또는 ECOG 수행능력 지수 ≤ 1\n- 위장관, 췌장, 흉부 기원의 ki67>20%인 잘 분화된 G3 NET 또는 소세포폐암을 제외한 신경내분비암 진단 및 측정 가능한 병변\n- 지난 12개월 이내에 RECIST v1.1 기준에 따라 문서화된 방사선학적 진행 확인\n- 최소 1가지 이상의 이전 전신 치료 실패\n- 조직검사에서 survivin 양성 확인\n\n제외 기준:\n- 진행성 질환 상태에서 temozolomide 치료 중 질병이 진행된 경우\n- 이전에 SurVaxM 치료를 받은 적이 있는 경우\n- 등록 전 30일 이내에 임상시험용 의약품을 투여받은 경우\n- 등록 전 3개월 이내에 면역관문억제제(checkpoint inhibitor)를 투여받았거나 회복되지 않은 경우\n- 조절되지 않는 동반 질환, 활동성 감염, 심각한 심장 질환 또는 자가면역 질환 병력이 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인 환자\n- Karnofsky 수행능력 80 이상 또는 ECOG 수행능력 1 이하\n- 위장관, 췌장, 흉부 기원의 측정 가능한 신경내분비종양 또는 소세포폐암을 제외한 신경내분비암 진단\n- 최근 12개월 이내에 2차례의 CT 또는 MRI 검사로 방사선학적 진행이 확인된 경우\n- 적어도 1가지 이상의 이전 전신 치료에 실패한 경우\n- 종양 조직 검사에서 survivin 양성 확인\n\n제외 기준:\n- 진행성 질환 상태에서 temozolomide 치료 중 병이 진행했던 경우\n- 이전에 SurVaxM 치료를 받은 적이 있는 경우\n- 등록 전 30일 이내에 임상시험용 의약품을 투여받은 경우\n- 등록 전 3개월 이내에 면역관문억제제를 투여받았거나 회복되지 않은 환자\n- 조절되지 않는 동반 질환, 활성 감염, 심혈관 질환 또는 자가면역 질환이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years of age\n* Have a Karnofsky performance status ≥ 80 or Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1 (i.e. the patient must be able to care for himself/ herself with occasional help from others)\n* Measurable, pathologically confirmed diagnosis of neuroendocrine tumor of gastrointestinal, pancreatic, or thoracic origin with ki67\\>20% (well-differentiated G3 NETs) or neuroendocrine carcinoma of any origin excluding small cell lung carcinoma\n* Patients must have documented radiographic progression, determined as clinically significant by the treating provider, within the last twelve months on two CT or MRI scans performed at least four weeks apart per RECIST v1.1 criteria. In the case of retreatment, progression may be defined by the treating provider (e.g., clinical, radiographic, biochemical)\n* Patients must have failed at least one prior systemic therapy\n* Patients who have been on somatostatin analogues (SSA) may continue to take SSA while on study treatment\n* Archival neuroendocrine tumor tissue must test positive for survivin presence by clinical immunohistochemistry prior to study enrollment\n* Absolute neutrophil count (ANC) ≥ 1.5 x 10\\^9/L (obtained within 14 days prior to enrollment)\n* Platelets ≥ 100 x 10\\^9/L (obtained within 14 days prior to enrollment)\n* Hemoglobin (Hgb) \\> 9g/dL (obtained within 14 days prior to enrollment)\n* Plasma total bilirubin: ≤ 1.5 x upper limit of normal (ULN) (obtained within 14 days prior to enrollment)\n* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 4 x ULN (obtained within 14 days prior to enrollment)\n* Creatinine clearance ≥ 60 mL/min (per Cockroft-Gault equation) (obtained within 14 days prior to enrollment)\n* Patients on full-dose anticoagulants (e.g., warfarin or low molecular weight \\[LMW\\] heparin) must meet the following criteria:\n\n  * No active bleeding or pathological condition that carries a high risk of bleeding (e.g., tumor involving major vessels or known varices, which carries a significant risk of bleeding in investigator's opinion)\n* Participants of child-bearing potential must agree to use adequate contraceptive methods (e.g., hormonal or barrier method of birth control; abstinence) prior to study entry. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Patients who have received temozolomide in the advanced disease setting either alone or as part of a combination therapy will be excluded if they progressed while on it\n* Has received prior treatment with SurVaxM\n* Received an investigational agent within 30 days prior to enrollment\n* Participants who have received checkpoint inhibitors within 3 months prior to study enrollment or, those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, bradycardia, tachycardia or psychiatric illness/social situations that would limit compliance with study requirements and, which in the treating physicians' opinion would jeopardize the ability of the patient to receive the treatment outlined in this protocol with reasonable safety\n* Patients with a concurrent or prior malignancy are ineligible unless they are patients with curatively treated carcinoma-in-situ or basal cell carcinoma of the skin. Patients who have been free of disease (any prior malignancy) for at least 3 years are eligible for this study\n* Known history of an autoimmune disorder\n* Known human immunodeficiency virus (HIV) positivity or acquired immunodeficiency syndrome (AIDS) related illness or other serious medical illness\n* Systemic corticosteroid therapy \\> 2mg of dexamethasone or equivalent per day at study entry\n* Pregnant or nursing female participants\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the Investigator's opinion deems the participant an unsuitable candidate to receive study drug\n* Patients with Hepatitis B or Hepatitis C may be included if there are adequately controlled viral titers and no drug-drug interactions, testing not required",
   "enrollment": 60,
   "has_results": false,
@@ -86,16 +85,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 temozolomide 치료 중 진행된 경우",
-    "이전 SurVaxM 치료 경험",
-    "활동성 감염 또는 조절되지 않는 심장 질환",
-    "자가면역 질환 병력",
-    "임신 또는 수유 중인 여성"
+    "테모졸로마이드 치료 중 진행한 경력이 있는 경우",
+    "이전에 SurVaxM 백신을 투여받은 경우",
+    "조절되지 않는 심혈관 질환 또는 감염이 있는 경우",
+    "자가면역 질환 병력이 있는 경우"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료를 1가지 이상 받은 진행성 전이성 췌장 신경내분비종양/암 환자",
+   "notes_ko": "이전 전신 치료를 1가지 이상 받은 진행성 신경내분비암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

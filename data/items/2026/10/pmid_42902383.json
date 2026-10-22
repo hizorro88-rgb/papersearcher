@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy characterized by late diagnosis, rapid progression, and resistance to conventional therapies. Mutations in the tumor suppressor gene TP53 are prevalent in this cancer and have been associated with gain-of-function activities that promote tumor survival. Ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation, represents a potential therapeutic vulnerability. However, the influence of mutant p53 on ferroptosis susceptibility remains poorly understood.\nMETHODS: We employed isogenic pancreatic cancer cell models, including CRISPR-Cas9-mediated TP53 Knockout (TP53-KO) and transient overexpression of common mutant TP53 variants, to examine ferroptosis sensitivity. Cell viability, reactive oxygen species accumulation, lipid peroxidation, mitochondrial integrity, and metabolic profiling were assessed following treatment with ferroptosis inducers. Transcriptional changes were analysed by RNA sequencing, and functional contributions of glycolysis and mitochondrial respiration were evaluated using metabolic flux assays. Pharmacological reactivation of wild-type p53 was tested in combination with ferroptosis inducers in vitro and in orthotopic murine models.\nRESULTS: Deletion of mutant TP53 sensitized pancreatic cancer cells to ferroptosis, accompanied by increased oxidative stress, lipid peroxidation and mitochondrial dysfunction. Mutant TP53 expression preserved mitochondrial integrity and sustained bioenergetic flexibility under ferroptotic stress. Transcriptomic analyses revealed a multi-layered adaptive program, including upregulation of antioxidant and metabolic genes, and activation of PI3K-AKT signaling, which is associated to a selective glycolytic shift to maintain ATP levels. Functional modulation confirmed that glucose supplementation enhanced, whereas glycolytic inhibition impaired, survival under ferroptotic conditions in mutant TP53-expressing cells, but not in TP53-KO cells. Pharmacological reactivation of wild-type p53 disrupted this adaptive network, abrogating glycolytic reprogramming and significantly increasing ferroptotic cell death both in vitro and in vivo.\nCONCLUSIONS: Mutant p53 orchestrates transcriptional and metabolic plasticity that confers ferroptosis resistance in pancreatic cancer. Reactivating wild-type p53 in combination with ferroptosis induction overcomes this resistance, highlighting a therapeutically actionable vulnerability and supporting the development of combinatorial strategies for this aggressive malignancy.",
+ "authors": [
+  "Celesia A",
+  "Piccoli F",
+  "Wang T",
+  "Hu Y",
+  "Danzi F",
+  "Aparo A",
+  "Cisterna B",
+  "Pacchiana R"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42902383",
+ "importance": 0.54,
+ "key_points_ko": [
+  "변이 TP53을 제거하면 지질 과산화와 미토콘드리아 기능 장애가 증가하여 췌장암 세포가 페롭토시스에 민감해졌습니다.",
+  "변이 p53은 PI3K-AKT 신호와 해당작용을 선택적으로 활성화하여 세포사멸 스트레스 속에서도 ATP 생성을 유지했습니다.",
+  "정상 야생형 p53을 재활성화하는 약물과 페롭토시스 유도제를 병용하자 세포 및 동물 모델 모두에서 암세포 사멸이 유의미하게 증가했습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.1186/s12943-026-02746-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42902383"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42902383/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 흔히 발견되는 변이 TP53 유전자가 철 의존성 세포사멸 기전인 페롭토시스(ferroptosis)에 미치는 영향을 규명한 전임상 연구입니다. 연구진은 변이 p53이 항산화 유전자 발현 및 포도당 해당작용을 촉진하는 대사 가소성을 통해 페롭토시스 저항성을 획득함을 확인했습니다. 또한 약리학적으로 야생형 p53 기능을 재활성화하면 이러한 대사 적응이 차단되어 페롭토시스 유도제에 의한 암세포 사멸이 세포 및 마우스 모델에서 크게 증가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma",
+ "title_ko": "변이 p53에 의한 대사 가소성이 췌관선암의 페롭토시스 저항성을 유발한다",
+ "trial": null,
+ "type": "paper"
+}

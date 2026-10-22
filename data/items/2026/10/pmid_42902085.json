@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Cryoablation is emerging as a potential treatment option for locally advanced pancreatic cancer (LAPC). The aim of this study was to retrospectively evaluate the safety and efficacy of cryoablation in patients with LAPC. The study has been prospectively registered in the Chinese Clinical Trial Registry (ID: ChiCTR2300068376).\nPATIENTS AND METHODS: Adult patients with LAPC were stratified based on the treatment modality (cryoablation versus systemic therapy). The cryoablation was performed using a single cryoprobe under ultrasound guidance. The Kaplan-Meier method was utilized to evaluate and compare overall survival (OS) among the groups. Cox proportional hazards regression analysis was employed to identify independent predictors of overall survival.\nRESULTS: Of 186 enrolled patients with LAPC between August 2022 and December 2024, 142 were in the cryoablation group and 44 in the systemic therapy alone group. The median OS was 17.8 months with systemic therapy alone and 18.7 months with cryoablation alone. Combined cryoablation and systemic therapy yielded a median OS of 22.1 months. Among patients receiving cryoablation combined with chemotherapy median OS was 19.8 months, and for combination systemic therapy group (chemotherapy + immunotherapy ± targeted therapy), it was 25.4 months. Multivariate analysis identified age, tumor location, treatment type, and jaundice as independent OS predictors. Additionally, nearly all patients experienced marked pain relief after cryoablation treatment.\nCONCLUSIONS: When combined with systemic therapy, cryoablation has a more significant survival advantage than systemic therapy alone. However, due to the heterogeneity of the cohort and potential immortal time bias, these survival outcomes should be interpreted with caution. Additionally, cryoablation offers effective benefits for relieving cancer pain and preserving functional quality of life in patients with LAPC.",
+ "authors": [
+  "Shao S",
+  "Wang L",
+  "Tan F",
+  "Hou S",
+  "Xue K",
+  "Huang X",
+  "Cao D",
+  "Xiong J"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42902085",
+ "importance": 0.69,
+ "key_points_ko": [
+  "총 186명의 환자 중 냉동소작술 시행군은 142명, 전신 치료 단독군은 44명이었습니다.",
+  "전체 생존기간 중앙값은 전신 치료 단독 17.8개월, 냉동소작술 단독 18.7개월, 냉동소작술과 전신 치료 병용 시 22.1개월이었습니다.",
+  "냉동소작술과 병용 전신 요법(항암치료+면역치료±표적치료)을 받은 환자군의 전체 생존기간 중앙값은 25.4개월로 가장 길었습니다.",
+  "다변량 분석 결과 연령, 종양 위치, 치료 방식, 황달이 독립적인 전체 생존기간 예측 인자로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.1245/s10434-026-20731-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42902085"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42902085/"
+ },
+ "summary_ko": "국소 진행성 췌장암(LAPC) 환자 186명을 대상으로 초음파 유도하 냉동소작술(cryoablation)의 안전성과 유효성을 후향적으로 분석한 연구입니다. 냉동소작술과 전신 치료(항암치료 등)를 병용한 환자군의 전체 생존기간(OS) 중앙값은 22.1개월로, 전신 치료 단독(17.8개월)이나 냉동소작술 단독(18.7개월)보다 길었습니다. 특히 냉동소작술에 항암치료, 면역치료, 표적치료 등을 함께 병용한 환자군은 전체 생존기간 중앙값이 25.4개월에 달했습니다. 또한 거의 모든 환자가 냉동소작술 시행 후 뚜렷한 암성 통증 완화 효과를 경험했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Analysis of the Safety and Efficacy of Cryoablation in Patients with Locally Advanced Pancreatic Cancer",
+ "title_ko": "국소 진행성 췌장암 환자에서 냉동소작술의 안전성과 유효성 분석",
+ "trial": null,
+ "type": "paper"
+}

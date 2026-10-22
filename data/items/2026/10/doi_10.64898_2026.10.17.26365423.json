@@ -1,0 +1,61 @@
+{
+ "abstract": "<h4>Background: </h4> The organization of pancreatic cancer care may be associated with survival. Using health administrative claims data, we reconstructed the pathway from diagnosis to first-line therapy and examined associations of multidisciplinary team review and treatment at specialized centers with overall survival. <h4>Methods:</h4> Longitudinal historical cohort study using anonymized health administrative claims data from six Czech health insurance funds, covering approximately 17% of patients diagnosed with pancreatic cancer nationally between 2018 and 2020. Adults with an incident ICD-10 C25 record confirmed by imaging and histopathology were followed from the index date (the date of the first qualifying imaging or histopathological examination) until death, censoring, or 31 December 2021. Overall survival was analyzed using Kaplan-Meier methods and Cox regression adjusted for age and first-line therapy type. <h4>Results:</h4> Of 1,255 patients, 920 (73.3%) received first-line therapy and 266 (21.2%) died untreated. Among treated patients, 436 (47.4%) underwent multidisciplinary team review, 335 (36.4%) underwent surgery, and 667 (72.5%) were treated at a complex oncological center. Surgery was associated with longer overall survival than chemotherapy (age-adjusted hazard ratio [HR] 0.32, P < 0.001). Treatment at a complex oncological center was associated with longer overall survival (adjusted HR 0.77, 95% confidence interval [CI] 0.64-0.92, P = 0.004; crude median 532 versus 394 days). Multidisciplinary team review was not significantly associated with overall survival (adjusted HR 0.86, 95% CI 0.73-1.01, P = 0.073). <h4>Conclusions:</h4> Treatment at a complex oncological center was associated with longer survival, while fewer than half of patients had a recorded multidisciplinary team review. How care is organized, not only which therapy is delivered, is associated with outcome. The observational design and absence of key clinical covariates limit causal interpretation.",
+ "authors": [
+  "Laubr D",
+  "Tichopad A",
+  "Rybar M",
+  "Bielcikova Z",
+  "Lovecek M",
+  "Rozanek M",
+  "Donin G."
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.17.26365423",
+ "importance": 0.64,
+ "key_points_ko": [
+  "전문 암센터에서 치료를 받은 환자는 그렇지 않은 환자에 비해 사망 위험이 23% 낮았으며(조정 HR 0.77, 95% CI 0.64-0.92, P = 0.004), 단순 중앙 생존기간은 532일 대 394일이었습니다.",
+  "수술을 받은 환자는 항암화학요법만 받은 환자에 비해 유의하게 긴 생존기간을 보였습니다(연령 조정 HR 0.32, P < 0.001).",
+  "다학제 진료 검토(MDT)는 전체 생존기간 개선과 통계적으로 유의한 연관성을 보이지 못했습니다(조정 HR 0.86, 95% CI 0.73-1.01, P = 0.073)."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.64898/2026.10.17.26365423",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1346373"
+ },
+ "summary_ko": "체코의 건강보험 청구 데이터를 바탕으로 2018년부터 2020년 사이에 진단된 췌장암 환자 1,255명의 진단부터 1차 치료까지의 치료 경로를 분석한 후향적 코호트 연구입니다. 전체 환자 중 73.3%(920명)가 1차 치료를 받았으며, 21.2%(266명)는 치료를 받지 못하고 사망했습니다. 치료를 받은 환자 중 전문 암센터(complex oncological center)에서 치료를 받은 경우 전체 생존기간(OS)이 유의하게 연장되었습니다. 다학제 진료 검토는 치료 환자의 47.4%에서 시행되었으나 생존기간 연장과 통계적으로 유의미한 연관성은 보이지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Claims-based reconstruction of the pancreatic cancer care pathway links centralization of care to survival",
+ "title_ko": "건강보험 청구 데이터를 통한 췌장암 치료 경로 재구성: 전문 치료 집중화와 생존기간의 연관성",
+ "trial": null,
+ "type": "preprint"
+}

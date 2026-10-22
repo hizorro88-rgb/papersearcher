@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Patients with pancreatic ductal adenocarcinoma (PDAC) and concurrent diabetes mellitus frequently exhibit poor outcomes. This study aims to elucidate the molecular mechanism linking diabetes with therapeutic failure.\nMETHODS: We integrated clinical analysis, diabetic-KPC mouse models, multi-omics approaches including scRNA-seq and eCLIP-seq analysis, and functional validations to investigate the mechanisms of therapy resistance in PDAC associated with diabetes.\nRESULTS: It was found that pancreatic cancer with concurrent diabetes is prone to chemoresistance, which is accompanied by Serine/arginine-rich splicing factor 1(SRSF1)-driven altered splicing and expression of Dihydrolipoamide S-Acetyltransferase(DLAT). Our results showed that lactate accumulation in the diabetic tumor microenvironment induces K48-lactylation and stabilization of SRSF1. Crucially, stabilized SRSF1 directly binds to DLAT pre-mRNA, promoting the retention of Exon 5. This enhanced exon retention prevents nonsense-mediated decay (NMD) of DLAT, thereby elevating DLAT protein levels.The resulting SRSF1/DLAT axis drives mitochondrial hyperfusion, conferring chemoresistance by inhibiting senescence and apoptosis. Furthermore, the hyperfusion of mitochondria facilitates immune evasion by promoting the acetylation and stabilization of PD-L1. Notably, pharmacological intervention with Berberine effectively suppressed this SRSF1-DLAT axis, thereby re-sensitizing diabetes-associated PDAC tumors to combined chemo- and immunotherapy in vivo.\nCONCLUSIONS: Our findings reveal that the SRSF1-DLAT-mitochondrial fusion axis drives therapeutic resistance in diabetes-associated PDAC. Targeting this metabolic-immune crosstalk offers a promising strategy for PDAC treatment.",
+ "authors": [
+  "Wang Z",
+  "Chen Y",
+  "Lu J",
+  "Zhang H",
+  "Pan Y",
+  "Zhu S",
+  "Lin H",
+  "Li G"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42901085",
+ "importance": 0.64,
+ "key_points_ko": [
+  "당뇨 동반 췌장암 환경의 젖산 축적이 SRSF1 및 DLAT 발현을 증가시켜 미토콘드리아 과융합과 항암제 저항성을 유발했습니다.",
+  "미토콘드리아 과융합은 PD-L1 단백질을 안정화하여 종양의 면역 회피를 촉진했습니다.",
+  "베르베린(Berberine) 처리는 생체 내(in vivo) 모델에서 SRSF1-DLAT 축을 억제해 화학·면역요법 병용 치료의 감수성을 재감작시켰습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.1016/j.drup.2026.101489",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42901085"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Drug Resist Updat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42901085/"
+ },
+ "summary_ko": "당뇨병을 동반한 췌장암 환자는 예후가 불량한 경우가 많으며, 본 연구는 당뇨병과 항암치료 실패를 잇는 분자적 기전을 규명했습니다. 당뇨 미세환경에서 축적된 젖산은 SRSF1 단백질을 안정화하고, 이는 DLAT의 발현을 높여 미토콘드리아 과융합을 유도합니다. 그 결과 세포사멸이 억제되고 PD-L1이 안정화되어 항암제 저항성과 면역 회피가 나타났습니다. 동물 실험에서 베르베린(Berberine) 약물 치료가 이 축을 억제하여 화학요법 및 면역요법에 대한 치료 반응을 회복시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "SRSF1-DLAT axis drives mitochondrial fusion to confer therapy resistance in diabetes-associated pancreatic ductal adenocarcinoma",
+ "title_ko": "SRSF1-DLAT 축이 미토콘드리아 융합을 유도하여 당뇨 동반 췌관선암의 치료 저항성을 유발함",
+ "trial": null,
+ "type": "paper"
+}

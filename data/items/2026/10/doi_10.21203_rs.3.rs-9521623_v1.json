@@ -1,0 +1,61 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Background  Pancreatic cancer is a highly aggressive malignancy with an extremely low five-year survival rate, underscoring an urgent need to identify novel molecular targets. ASCC1, a key component of the ASC-1 complex, plays a critical role in transcriptional regulation and DNA repair. Recent studies have suggested that ASCC1 might be involved in tumorigenesis; however, its function in pancreatic cancer remains largely undefined. Methods  In this study, we utilized the TCGA-PAAD dataset to screen for prognostically relevant genes using Cox regression and LASSO regression analyses, which identified ASCC1 as a candidate marker. The expression of ASCC1 in pancreatic cancer tissues was subsequently validated by immunohistochemistry and Western blot analyses. ASCC1 knockdown cell lines were established to assess cellular proliferation, migration, and invasion via CCK-8, Transwell, and wound healing assays, respectively. Changes in NF-κB and EMT-related protein expression were evaluated by Western blot. In vivo, a subcutaneous xenograft model in nude mice was employed to validate the functional impact of ASCC1 knockdown. Additionally, GSEA and ssGSEA were applied to explore the involvement of related signaling pathways and immune characteristics. Results  ASCC1 was significantly overexpressed in pancreatic cancer and correlated with poor clinical outcomes. Knockdown of ASCC1 markedly inhibited cell proliferation, migration, and invasion, accompanied by reduced expression levels of phosphorylated p65 and phosphorylated IκBα, and suppression of the EMT process. In the nude mouse xenograft model, ASCC1 knockdown significantly retarded tumor growth. Furthermore, GSEA revealed enrichment of the NF-κB signaling pathway, while immune analyses indicated that high ASCC1 expression was associated with increased infiltration of various immune cell subsets and a positive correlation with immune checkpoint molecules. Conclusions  The findings indicate that high ASCC1 expression in pancreatic cancer is associated with adverse prognosis and may promote tumor progression by activating the NF-κB pathway, inducing EMT, and modulating the tumor immune microenvironment. ASCC1 may thus serve as a promising prognostic biomarker and therapeutic target for pancreatic cancer.</p>",
+ "authors": [
+  "Wang N",
+  "feng R",
+  "Zhou H",
+  "Li C",
+  "Cui J",
+  "Wang F",
+  "Wang F",
+  "Cui Y"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-9521623/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "ASCC1은 췌장암 조직에서 유의하게 과발현되어 환자의 불량한 예후와 연관성을 보였습니다.",
+  "ASCC1을 억제(knockdown)했을 때 암세포 증식, 이동 및 침습이 억제되었고, 마우스 이종이식 모델에서 종양 성장이 지연되었습니다.",
+  "ASCC1은 인산화된 p65 및 IκBα 발현을 매개하는 NF-κB 신호전달 경로 활성화와 상피간엽이행(EMT) 과정을 조절하는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.21203/rs.3.rs-9521623/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1345856"
+ },
+ "summary_ko": "본 연구는 전사 조절 및 DNA 복구에 관여하는 유전자인 ASCC1이 췌장암에서 미치는 역할을 규명하고자 진행된 기초 전임상 연구입니다. 연구진은 췌장암 조직 및 공공 데이터 분석을 통해 ASCC1이 췌장암에서 높게 발현되며 불량한 예후와 연관되어 있음을 확인했습니다. 세포 및 마우스 동물 실험에서 ASCC1 발현을 억제했을 때 췌장암 세포의 증식, 이동, 침습이 크게 줄어들고 종양 성장이 지연되었습니다. 결론적으로 ASCC1은 NF-κB 경로 활성화와 상피간엽이행(EMT)을 유도하여 종양 진행을 촉진하며, 향후 예후 예측 표지자 및 치료 표적으로서의 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASCC1 Promotes Malignant Progression of Pancreatic Cancer by Regulating the NF-κB Signaling Pathway",
+ "title_ko": "ASCC1이 NF-κB 신호전달 경로를 조절하여 췌장암의 악성 진행을 촉진함",
+ "trial": null,
+ "type": "preprint"
+}

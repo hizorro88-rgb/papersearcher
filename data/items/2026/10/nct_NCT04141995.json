@@ -1,0 +1,116 @@
+{
+ "abstract": "The purpose of this study is to determine the feasibility and safety of combining digoxin as a modulator of the hypoxia pathway in combination with FOLinic acid, 5-Fluorouracil, IRINotecan and OXaliplatin (FOLFIRINOX) in participants with resectable pancreatic cancer.\n\nParticipants with resectable pancreatic cancer will be treated with oxaliplatin 85 mg/m² IV over 2 hours, irinotecan 150 mg/m² given concurrently with folinic acid 400 mg/m² IV over 90 min, followed by a 46-hour infusion of 5-fluorouracil 2400 mg/m². Slow oral digitalization will be used starting with a daily dose of 0.125 (participants over age 65) or 0.25 mg (participants 65 or younger) per mouth daily. A steady-state will be achieved after five half-lives, which is about 7 to 10 days in the average participant. The initial blood level will be obtained one week after starting digoxin. Assuming the digoxin level is at steady-state and the renal function is stable, there is a linear relationship between digoxin dose and serum concentration. The target digoxin level is between 0.8 to 1.2 ng/mL. Participants will receive IV chemotherapy at 2 week intervals. Re-staging imaging will be performed after 4 doses. If the participants has stable or responsive disease, an additional 4 doses will be given followed by re-staging imaging. The participant will then undergo surgical exploration \\~ 4 weeks after the last dose of chemotherapy.\n\nThe primary endpoint is clinical toxicity. Other endpoints are status of pathologic margins, response rate, pathologic stage, progression-free survival, and overall survival. The correlative endpoint is baseline exome sequencing of circulating cell free tumor DNA. Measurement of quantity of circulating cell free tumor DNA at 4 week intervals while on chemotherapy and prior to surgery; resume at 3 month intervals after surgery. Genomic DNA will be collected at baseline for pharmacogenetic studies of polymorphisms that may be pertinent for the drugs used in the study. Blood will be collected for analysis of possible biomarkers of response to digoxin modulation.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04141995",
+ "importance": 0.87,
+ "key_points_ko": [
+  "수술 가능한 췌관선암 환자를 대상으로 수술 전 디곡신과 FOLFIRINOX 병용 치료의 안전성을 평가하고자 했습니다.",
+  "목표 등록 인원은 11명이었으나 임상시험이 조기 종료(TERMINATED)되었습니다.",
+  "초록에 구체적인 유효성 및 독성 수치는 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04141995"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2019-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Nebraska",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04141995"
+ },
+ "summary_ko": "수술이 가능한 췌관선암 환자를 대상으로 저산소증 경로 조절제인 디곡신(digoxin)과 FOLFIRINOX 항암 화학요법을 수술 전 병용 투여하는 치료법의 타당성과 안전성을 평가한 2상 임상시험입니다. 환자들은 2주 간격으로 항암 화학요법과 경구 디곡신을 복용하며, 종양의 안정적 유지 또는 반응 여부에 따라 추가 치료 후 수술을 진행하도록 설계되었습니다. 1차 평가변수는 임상적 독성이며, 반응률, 절제연 상태, 무진행 생존기간(PFS) 등도 함께 조사하고자 했습니다. 다만 해당 임상시험은 조기 종료(TERMINATED)되었습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Resectable"
+ ],
+ "title": "FOLFIRINOX With Digoxin in Patients With Resectable Pancreatic Cancer",
+ "title_ko": "수술 가능한 췌장암 환자 대상 FOLFIRINOX와 디곡신(Digoxin) 병용 요법 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Adenocarcinoma of the Pancreas"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n* 병리학적으로 확인된 원격 전이가 없는 수술 가능한 췌관선암\n* 19세 이상\n* ECOG 수행능력 평가 점수 0~1점\n* 췌장암에 대한 이전 화학요법 치료를 받은 적이 없는 환자\n* 방사선학적으로 평가 가능한 병변이 있는 환자\n* 적절한 골수, 간 및 신장 기능 수치 (ANC 1,000/μL 이상, 혈소판 100,000/μL 이상, 혈청 크레아티닌 2.0 mg/dL 이하 등)\n\n제외 기준:\n* 디곡신(digoxin) 투여 금기 환자 (방실차단, 동기능부전증후군, 서맥, 디곡신 과민증 등)\n* 복강경 병기 설정 수술이 불가능한 환자 (다발성 복부 수술 병력 등)\n* 조절되지 않는 중대한 전신 질환 (정맥 항생제가 필요한 감염, 울혈성 심부전, 불안정 협심증, 심각한 부정맥 등)\n* 5년 이내 다른 암 병력 (치료된 피부 기저세포암 등 제외)\n* 활동성 자가면역 질환 또는 선천성/후천성 면역결핍 질환\n* 활동성 B형/C형 간염 또는 HIV 감염 환자, 임신 및 수유부",
+  "eligibility_text": "Inclusion Criteria:\n\n* Pathologically confirmed pancreatic adenocarcinoma. Participants must have resectable disease with no evidence of distant metastasis.\n* 19 years of age or older.\n* Eastern Cooperative Oncology Group (ECOG) Performance Scale (PS) of 0-1 (fully active to restricted in strenuous activity).\n* Chemotherapy for malignancies other than pancreatic cancer completed \\> 5 years ago and is no evidence of the prior malignancy at time of study entry.\n* Radiographically assessable disease.\n* Initial absolute neutrophil count (ANC) greater than or equal to 1000/μL and platelet count greater than or equal to 100,000/μL.\n* Normal serum potassium, magnesium and corrected calcium level.\n* Serum creatinine less than or equal to 2.0 mg/dL.\n* Total bilirubin \\<= 1.5 mg/dL \\[unless the participant has Gilbert disease with elevated non-conjugated (indirect) bilirubin; in such cases, the indirect bilirubin should be \\<= 1.0 mg/dL\\].\n* If participant has biliary obstruction, biliary decompression will be required. Either endoscopic placement of biliary stent or percutaneous transhepatic drainage are acceptable. Once biliary drainage has been established, institution of FOLFOX therapy may proceed when the total bilirubin falls to \\<= 5.0 mg/dL. The addition of irinotecan will be delayed until the total bilirubin is 1.5 mg/dL or lower.\n* Awareness of the neoplastic nature of his/her disease and willingly provide written, informed consent after being informed of the procedure to be followed, the experimental nature of the therapy, alternatives, potential benefits, side-effects, risks, and discomforts.\n* No prior chemotherapy for pancreatic cancer.\n\nExclusion Criteria:\n\n* Unable to undergo staging laparoscopy, such as a prior history of multiple abdominal operations in which laparoscopy may not be technically feasible or might be potentially harmful.\n* A contra-indication to receiving digoxin therapy (e.g., AV block, sick sinus syndrome, bradycardia, hypersensitivity to digoxin or digitalis preparations).\n* Uncontrolled inter-current illness including, but not limited to ongoing or active infection requiring intravenous antibiotics, symptomatic congestive heart failure, unstable angina pectoris, or serious, uncontrolled cardiac arrhythmia, that might jeopardize the ability of the participant to receive the therapy in this study with reasonable safety.\n* Pregnant and nursing women (risk posed by chemotherapy agents). Female participants of childbearing potential must have a negative urine pregnancy test before receiving the first dose of study drug.\n* Prior malignancy except for adequately treated basal cell or squamous cell skin cancer, adequately treated non-invasive carcinomas, or other cancers from which the participant has been disease-free least 5 years.\n* Known HIV infection or active hepatitis B or C infection (concern for increased toxicity).\n* Active autoimmune disease \\[e.g., rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), ulcerative colitis (UC), Crohn's Disease, multiple sclerosis (MS), ankylosing spondylitis (AS)\\].\n* Recognized acquired, hereditary, or congenital immunodeficiency disease including cellular immunodeficienciess, hypogammaglobulinemia, or dysgammaglobulinemia.",
+  "enrollment": 11,
+  "has_results": true,
+  "interventions": [
+   "Digoxin",
+   "5Fluorouracil",
+   "Calcium Leucovorin",
+   "Irinotecan",
+   "Oxaliplatin"
+  ],
+  "last_update_posted": "2026-10-21",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "디곡신 투여 금기 심장 질환(방실차단, 서맥, 심부전, 부정맥 등)",
+    "복강경 병기 설정 수술이 불가능한 다발성 복부 수술 병력",
+    "5년 이내 다른 암 병력",
+    "활동성 감염, 활동성 자가면역 질환 또는 면역결핍 질환"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전 항암 치료를 받은 적이 없는 수술 가능한 췌관선암 환자 대상",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "19 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04141995",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-05-13",
+  "sex": "ALL",
+  "sponsor": "University of Nebraska",
+  "start_date": "2021-02-12",
+  "status": "TERMINATED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

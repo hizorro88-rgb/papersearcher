@@ -20,11 +20,11 @@
  "id": "nct:NCT06454383",
  "importance": 0.84,
  "key_points_ko": [
-  "수술 불가능한 진행성 췌장암 환자 19명을 대상으로 젬시타빈과 레플루노마이드 병용의 안전성과 2상 권장 용량을 확인합니다.",
-  "류마티스 관절염 치료제로 쓰이던 레플루노마이드의 췌장암 치료 효과 및 젬시타빈 병용 시 약동학적 특성을 탐색합니다.",
-  "2차 평가변수로 무진행 생존기간, 전체 생존기간, 반응률 및 설문지(FACT-G)를 통한 삶의 질을 평가합니다."
+  "진행성 절제불가능 췌장암 환자 19명을 목표로 진행되는 1상 임상시험입니다.",
+  "Leflunomide와 gemcitabine 병용 투여의 안전성, 내인성 및 권장 2상 용량(RP2D)을 평가합니다.",
+  "이차 목적은 무진행 생존기간(PFS), 전체 생존기간(OS), 전체 반응률(ORR) 및 환자의 삶의 질(FACT-G) 평가입니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06454383"
  },
- "summary_ko": "수술이 불가능한 진행성 또는 전이성 췌관선암 환자를 대상으로 젬시타빈(gemcitabine)과 류마티스 관절염 치료제인 레플루노마이드(leflunomide) 병용 요법의 안전성과 권장 용량을 평가하는 1b상 임상시험입니다. 젬시타빈 단독 요법을 받을 계획이 있는 환자 총 19명을 등록하여 치료의 부작용과 최대 내약 용량을 확인합니다. 2차적으로 무진행 생존기간(PFS), 전체 생존기간(OS), 객관적 반응률(ORR) 및 삶의 질을 함께 평가합니다.",
+ "summary_ko": "이 1상 임상시험(phase Ib trial)은 진행성 절제불가능 췌장암(advanced unresectable pancreatic cancer) 환자를 대상으로 leflunomide와 gemcitabine을 병용 투여하는 치료의 안전성, 부작용, 그리고 권장 2상 용량(RP2D)을 평가합니다. gemcitabine은 췌장암의 흔한 1차 항암화학요법이며, 류머티즘 관절염 치료제인 leflunomide를 항암 목적으로 함께 사용하여 효과를 높이고자 합니다. 연구진은 병용 치료의 안전성과 내인성을 확인하고, 무진행 생존기간(PFS) 및 전체 생존기간(OS), 전체 반응률(ORR), 삶의 질을 평가합니다. 환자들은 주기적으로 gemcitabine 정맥 투여와 leflunomide 경구 투여를 받으며 치료 경과를 관찰받습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Gemcitabine and Leflunomide in Patients With Advanced Unresectable Pancreatic Cancer",
- "title_ko": "진행성 절제 불가능 췌장암 환자를 대상으로 한 젬시타빈과 레플루노마이드 병용 요법 1상 임상시험",
+ "title_ko": "진행성 절제불가능 췌장암 환자에서 gemcitabine과 leflunomide 병용요법 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Pancreatic Adenocarcinoma",
@@ -60,7 +60,7 @@
    "Unresectable Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 조직학적 또는 세포학적으로 확인된 진행성 절제 불가능 췌관선암 환자\n- ECOG 수행능력 점수 0~1점\n- 젬시타빈(gemcitabine) 단독 요법 투여 계획이 있는 환자\n- RECIST 1.1 기준 측정 가능하거나 평가 가능한 병변이 있는 환자\n- 이전 항암 치료 독성에서 회복된 환자(탈모, 신경병증 제외 1등급 이하)\n- 적절한 골수, 간, 신장 기능 수치를 충족하는 환자\n\n제외 기준:\n- 첫 투약 전 21일 이내에 항암화학요법, 방사선치료, 생물학적제제, 면역요법을 받은 경우\n- 알약 복용 곤란, 흡수 장애, 지속적인 구역/구토 등 경구 약물 복용이 어려운 경우\n- 활동성 결핵 또는 잠복 결핵 환자\n- 활동성 설사 또는 항생제 치료가 필요한 활동성 감염 환자\n- 조절되지 않는 중대한 전신 질환이 있는 경우\n- 5년 이내 다른 암 병력이 있는 경우(완치된 자궁경부 상피내암, 비흑색종 피부암, 저위험 전립선암 등 예외)",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상의 성인.\n* 동유럽종양학협력그룹(ECOG) 수행능력 0-1.\n* 조직학적 또는 세포학적으로 확진된 진행성 절제불가능 췌장관선암(PDA) 진단.\n* 고형암 반응평가기준(RECIST v1.1)에 따른 측정 가능 또는 평가 가능 병변 존재.\n* 단일제제 gemcitabine 치료 계획이 있는 환자.\n* 절대호중구수(ANC) 1,500/mm^3 이상, 혈소판 100,000/mm^3 이상, 혈색소 9 g/dL 이상.\n* 총 빌리루빈 1.5 x 정상치 상한(ULN) 이하 등 적절한 간 및 신장 기능.\n\n제외 기준:\n* 프로토콜 치료 1일 전 21일 이내에 화학요법, 방사선요법, 생물학적요법, 면역요법을 받은 경우.\n* 경구 약물 복용 장애(알약 삼키기 불능, 흡수 장애, 지속적인 구토 등)가 있는 경우.\n* 결핵 또는 잠복결핵(TB) 양성.\n* 활동성 설사.\n* 인간면역결핍바이러스(HIV) 또는 B형/C형 간염 바이러스 감염 병력(바이러스 부하가 검출되지 않는 경우는 예외).\n* 임신 중이거나 수유 중인 여성.",
   "eligibility_text": "Inclusion Criteria:\n\n* Documented informed consent of the participant and/or legally authorized representative.\n\n  * Adult patients lacking capacity to consent may participate if they have a caretaker that could ensure oral medication compliance.\n* Agreement to allow the use of archival tissue from diagnostic tumor biopsies.\n\n  * If unavailable, exceptions may be granted with study principal investigator (PI) approval.\n* Age: ≥ 18 years.\n* Eastern Cooperative Oncology Group (ECOG) ≤ 1.\n* Subjects must have histologically or cytologically confirmed diagnosis of advanced unresectable pancreatic ductal adenocarcinoma (PDA).\n* Measurable or evaluable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1\n* Potential patients must have plans of receiving single agent gemcitabine.\n* Fully recovered from the acute toxic effects (except alopecia or neuropathy) to ≤ grade 1 to prior anti-cancer therapy.\n* Without bone marrow involvement: Absolute neutrophil count (ANC) ≥ 1,500/mm\\^3 NOTE: Growth factor is not permitted within 14 days of ANC assessment unless cytopenia is secondary to disease involvement.\n* Without bone marrow involvement: Platelets ≥ 100,000/mm\\^3 NOTE: Platelet transfusions are not permitted within 14 days of platelet assessment unless cytopenia is secondary to disease involvement.\n* Hemoglobin ≥ 9g/dL NOTE: Red blood cell transfusions are not permitted within 14 days of hemoglobin assessment unless cytopenia is secondary to disease involvement.\n* Total bilirubin ≤ 1.5 x upper limit of normal (ULN) OR direct bilirubin ≤ ULN for participants with total bilirubin levels \\> 1.5 x ULN (unless has Gilbert's disease total bilirubin ≤ 3 x ULN)\n* Aspartate aminotransferase (AST) ≤ 1.5 x ULN OR if liver metastases ≤ 3 x ULN\n* Alanine aminotransferase (ALT) ≤ 1.5 x ULN OR if liver metastases ≤ 2 x ULN\n* Creatinine ≤ 1.5 x ULN OR creatinine clearance (Cockcroft Gault) of ≥ 50 mL/min for participants with a creatinine level of \\> 1.5 x ULN.\n* Women of childbearing potential (WOCBP): negative urine or serum pregnancy test If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n* Agreement by females and males of childbearing potential to use an effective method of birth control or abstain from heterosexual activity for the course of the study through at least 6 months after the last dose of gemcitabine therapy for women and at least 3 months after the last dose of gemcitabine therapy for men, and/or undergo drug elimination of leflunomide at end of treatment until leflunomide is undetectable in the plasma.\n\n  * Childbearing potential defined as not being surgically sterilized (men and women) or have not been free from menses for \\> 1 year (women only).\n\nExclusion Criteria:\n\n* Chemotherapy, radiation therapy, biological therapy, immunotherapy within 21 days prior to day 1 of protocol therapy.\n* Drugs metabolized by CYP2C8, CYP1A2, BCRP, OATP1B1/B3, and OAT3 transporters within 21 days prior to day 1 of protocol therapy.\n* Herbal medications (excluding cannabidiol \\[CBD\\]).\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to study agent.\n* Issues with tolerating oral medication (e.g. inability to swallow pills, malabsorption issues, ongoing nausea or vomiting).\n* Positive for tuberculosis or latent tuberculosis (TB).\n* Active diarrhea.\n* Clinically significant uncontrolled illness.\n* Active infection requiring antibiotics.\n* Known history of immunodeficiency virus (HIV) or hepatitis B or hepatitis C infection. (\\*If seropositive for HIV, HCV or HBV, nucleic acid quantitation must be performed. Viral load must be undetectable.)\n* Diagnosis of Gilbert's disease.\n* Prior malignancy other than carcinoma in situ of the cervix, or nonmelanoma skin cancer, unless that prior malignancy was diagnosed and definitively treated 5 or more years prior to study entry with no subsequent evidence of recurrence. Patients with a history of low grade (Gleason score ≤ 6 = Gleason group 1) localized prostate cancer will be eligible even if diagnosed less than 5 years prior to study entry. Other malignancies with low probability of recurrence may be allowed with PI approval.\n* Females only: Pregnant or breastfeeding.\n* Any other condition that would, in the Investigator's judgment, contraindicate the patient's participation in the clinical study due to safety concerns with clinical study procedures.\n* Prospective participants who, in the opinion of the investigator, may not be able to comply with all study procedures (including compliance issues related to feasibility/logistics).",
   "enrollment": 19,
   "has_results": false,
@@ -83,15 +83,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "활동성 결핵 또는 잠복 결핵",
-    "항생제 치료가 필요한 활동성 감염 또는 조절되지 않는 전신 질환",
-    "알약을 삼키지 못하거나 흡수 장애가 있는 경우",
-    "5년 이내의 다른 암 병력"
+    "21일 이내 항암화학·방사선·면역치료 받은 경우",
+    "경구 약물 복용 곤란(연하곤란, 흡수장애 등)",
+    "활동성 감염 또는 결핵 양성",
+    "HIV, B형 또는 C형 간염 감염력",
+    "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 0,
-   "notes_ko": "젬시타빈 단독 요법 치료 계획이 있는 진행성 절제 불가능 췌장암 환자",
+   "min_prior_lines": null,
+   "notes_ko": "이전 항암치료를 21일 이내에 받지 않은 진행성 절제불가능 췌장암 환자.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -19,11 +19,11 @@
  "id": "nct:NCT05227326",
  "importance": 0.73,
  "key_points_ko": [
-  "대상 질환은 표준 치료에 실패한 불응성 악성 고형 신생물 등으로, 목표 환자 수는 92명입니다.",
-  "AOH1996은 28일 주기를 1코스로 하여 매일 2회 경구 투여됩니다.",
-  "연구의 주요 목적은 최대 허용 용량(MTD)과 용량 제한 독성(DLT)을 확인하고 2상 권장 용량을 설정하는 것입니다."
+  "목표 연구 대상 인원은 최대 92명입니다.",
+  "환자들은 AOH1996을 1일~28일 동안 하루 두 번 경구로 투여받으며, 28일 주기로 반복합니다.",
+  "최대 용인 용량(MTD), 용량 제한 독성(DLT), 그리고 2상 권장 용량을 확립하는 것이 주된 목적입니다."
  ],
- "last_updated": "2026-10-20",
+ "last_updated": "2026-10-21",
  "links": {
   "doi": null,
   "nct": [
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05227326"
  },
- "summary_ko": "이 1상 임상시험은 표준 치료에 반응하지 않는 불응성 고형암(solid tumors) 환자들을 대상으로 신약 AOH1996의 부작용을 확인하고 최적의 용량을 찾기 위해 진행됩니다. AOH1996은 세포 성장에 필요한 효소를 차단하여 종양 세포의 성장을 멈추게 할 수 있는 PCNA 억제제입니다. 환자들은 28일 주기로 AOH1996을 경구 복용하게 됩니다. 본 연구에서는 최대 허용 용량(MTD), 용량 제한 독성(DLT), 그리고 2상 권장 용량을 결정하는 것을 주요 목표로 합니다.",
+ "summary_ko": "이 임상 1상 시험은 표준 치료에 반응하지 않는 고형암(solid tumor) 환자를 대상으로 PCNA 억제제인 AOH1996의 부작용과 최적 용량을 평가합니다. AOH1996은 세포 성장에 필요한 효소를 차단하여 종양 세포의 성장을 멈추는 기전을 가집니다. 본 연구는 최대 용인 용량(MTD)과 용량 제한 독성(DLT)을 확인하고, 2상 권장 용량을 설정하는 것을 목적으로 합니다. 환자들은 AOH1996을 28일 주기로 경구 복투여받습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "AOH1996 for the Treatment of Refractory Solid Tumors",
- "title_ko": "불응성 고형암 환자를 위한 AOH1996 1상 임상시험",
+ "title_ko": "불응성 고형암 환자를 위한 AOH1996 임상 1상 시험",
  "trial": {
   "conditions": [
    "Refractory Malignant Solid Neoplasm",
@@ -68,7 +68,7 @@
     "phone": "6262184673"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 18세 이상 성인 환자\n* ECOG 수행능력 상태 2 이하\n* 예상 여명이 3개월 초과\n* 표준 치료에 실패했거나 표준 치료를 거부한 고형암 환자\n* 적절한 장기 기능 및 실험실 수치 충족 (ANC 1,500/mm3 이상, 혈소판 100,000/mm3 이상 등)\n\n제외 기준:\n* 식이 보조제 및 한방 보조제 복용\n* 다른 임상시험용 의약품이나 항암화학요법 병용 (NSCLC 확장 코호트의 EGFR TKI 예외)\n* 와파린(Warfarin) 등 금지된 약물 복용\n* 알약 삼킴 곤란, 흡수 장애 등 경구 약물 복용을 견디지 못하는 상태\n* 임신 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- ECOG 수행능력 상태 2 이하\n- 기대여명 3개월 초과\n- 표준 치료에 실패했거나 거부한 고형암 환자\n- 가임 여성 및 남성의 적절한 피임 동의\n- 충분한 골수, 간, 신장 기능 (ANC 1,500/mm3 이상, 혈소판 100,000/mm3 이상 등)\n\n제외 기준:\n- 식이/한방 보조제 복용\n- 다른 임상시험용 의약품 또는 항암제 병용 (NSCLC TKI 예외)\n- 와파린(Warfarin) 복용\n- 강한 CYP3A4 유도제, CYP2C9 및 CYP3A의 강한 저해제 또는 유도제 사용\n- 경구 약물 복용 곤란 (연하곤란, 흡수 장애 등)\n- 임신 중이거나 수유 중인 여성\n- 연구 약물 성분에 알레르기가 있는 경우\n- 3년 이내에 완치되지 않은 다른 악성 종양 병력",
   "eligibility_text": "Inclusion Criteria:\n\nInformed Consent and Willingness to Participate\n\n* 1\\. Documented informed consent by the participant\n* 2\\. Willingness to permit study team to obtain and use archival tissue, if already existing\n\nAge Criteria, Performance Status and Life Expectancy\n\n* 3\\. Age: ≥ 18 years\n* 4\\. ECOG performance status ≤ 2\n* 5\\. Life expectancy of \\> 3 months\n\nNature of Illness and Treatment History \\_\\_6. Patients with solid tumors failing standard therapies or patients refusing standard treatments (exception: Part B NSCLC combination (EGFR TKI + AOH1996) cohort: patients with stable disease or better on EGFR TKI for at least 2 months)\n\nContraception\n\n\\_\\_7. Agreement by females and males of childbearing potential\\* to use an adequate method of birth control (hormonal contraception is inadequate) or abstain from heterosexual activity for the course of the study through 30 days after the last dose of study medication. See Appendix B for guidelines.\n\n\\- Childbearing potential defined as not being surgically sterilized (men and women) or have not been free from menses for \\> 1 year (women only).\n\nLaboratory Criteria (to be performed within 14 days prior to Day 1)\n\n* 8\\. ANC ≥ 1,500/mm3\n* 9\\. Platelets ≥ 100,000/mm3 :\n* 10\\. Total serum bilirubin ≤ 1.5 x ULN\n* 11\\. AST =\\< 1.5 x ULN or =\\< 3 x ULN with liver metastases\n* 12\\. ALT =\\< 1.5 x ULN or =\\< 3 x ULN with liver metastases\n* 13\\. Creatinine clearance of ≥ 60 mL/min per 24 hour urine or the Cockcroft-Gault\n* 14\\. Women of childbearing potential (WOCBP): negative urine or serum pregnancy test If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required\n\nExclusion Criteria\n\nConcomitant Medications/Therapies \\_\\_1. Dietary/herbal supplements\n\n* 2\\. Other investigational products or chemotherapy. Exception: EGFR TKI in the NSCLC expansion cohort is allowed.\n* 3\\. Warfarin\n* 4\\. Current or planned use of agents contraindicated for use with strong CYP3A4 inducers\n* 5\\. Strong inhibitors or inducers of CYP2C9\n* 6\\. Strong inhibitors or inducers of CYP3A\n\nOther Illnesses and Conditions\n\n* 7\\. Issues with tolerating oral medication (e.g., inability to swallow pills, malabsorption issues, ongoing nausea or vomiting).\n* 8\\. Women who are or are planning to become pregnant or breastfeed\n* 9\\. Known allergy to any of the components within the study agents and/or their excipients.\n* 10\\. No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease free for three years.\n* 11\\. Intercurrent or historic medical condition that increases subject risk in the opinion of the Investigator. Eligibility may be revisited for intercurrent medical conditions once resolution/recovery is deemed adequate by the investigator (e.g. recovery from major surgery, completion of treatment for severe infection).\n\nNoncompliance\n\n\\_\\_12. Prospective participants who, in the opinion of the investigator, may not be able to comply with all study procedures (including compliance issues related to feasibility/logistics).\n\n\\*\\*Eligibility should be confirmed per institutional policies.",
   "enrollment": 92,
   "has_results": false,
@@ -85,15 +85,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "경구 약물 복용을 견디지 못하는 상태 (알약 삼킴 곤란 등)",
+    "경구 약물 복용이 불가능한 경우",
     "임신 또는 수유 중인 여성",
-    "연구 약물 성분에 알레르기가 있는 경우",
-    "현재 다른 항암제나 임상시험용 의약품을 투여 중인 경우"
+    "약물 성분에 알레르기가 있는 경우",
+    "3년 이내의 다른 악성 종양 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "표준 치료에 실패한 고형암 환자를 위한 PCNA 억제제 AOH1996 단독요법 1상 임상시험입니다.",
+   "notes_ko": "표준 치료에 실패하거나 거부한 고형암 환자를 대상으로 하는 1상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

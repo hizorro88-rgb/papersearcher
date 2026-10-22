@@ -1,0 +1,60 @@
+{
+ "abstract": "INTRODUCTION: Perineural invasion (PNI) is a high-risk feature of pancreatic ductal adenocarcinoma (PDAC) and is associated with aggressive behavior and poor outcomes. The biological programs associated with PNI in PDAC remain incompletely characterized.\nMETHODS: PDAC patients in The Cancer Genome Atlas were stratified by PNI status. Gene set enrichment analysis using Hallmark gene sets was performed to characterize transcriptomic differences between PNI-positive and PNI-negative tumors. Established immune, proliferative, and genomic annotations curated from prior The Cancer Genome Atlas analyses were used for downstream comparisons.\nRESULTS: A total of 101 PNI-positive and 26 PNI-negative tumors were identified. PNI was associated with higher grade (P < 0.05). Gene set enrichment analysis demonstrated enrichment of multiple gene sets in PNI-positive tumors, including pathways related to cell proliferation (G2M checkpoint, mTORC1 signaling, E2F targets, MYC targets, and mitotic spindle), immune signaling (tumor necrosis factor-α signaling via NF-κB, interferon-α, and γ responses), and epithelial-mesenchymal transition (EMT). Yet, no differences were observed in measures of tumor proliferation, aggressiveness, mutational burden, immune response, or immune cell infiltration within the tumor microenvironment. In contrast, EMT enrichment was supported by concordant biological features, including increased infiltration of mesenchymal cells and elevated expression of EMT-associated genes in PNI-positive tumors.\nCONCLUSIONS: PNI-positive PDAC demonstrate enrichment of EMT-related transcriptional programs with concordant microenvironmental and gene-level support.",
+ "authors": [
+  "Khan A",
+  "Kawashima K",
+  "Seavey C",
+  "Olecki E",
+  "Takabe K",
+  "Dhir M"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-21",
+ "history": [
+  {
+   "date": "2026-10-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42900966",
+ "importance": 0.77,
+ "key_points_ko": [
+  "TCGA 췌관선암 환자 중 신경 주위 침윤(PNI) 양성 종양 101개와 음성 종양 26개를 비교 분석했습니다.",
+  "신경 주위 침윤은 더 높은 종양 등급(P < 0.05)과 통계적으로 유의미한 연관성을 보였습니다.",
+  "신경 주위 침윤 양성 종양에서는 상피-중간엽 전이(EMT) 관련 유전자 발현과 중간엽 세포 침윤이 일관되게 증가해 있었습니다."
+ ],
+ "last_updated": "2026-10-21",
+ "links": {
+  "doi": "10.1016/j.jss.2026.09.014",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42900966"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900966/"
+ },
+ "summary_ko": "이 연구는 미국 암 유전체 아틀라스(TCGA) 데이터베이스를 활용하여 췌관선암(PDAC) 환자에서 신경 주위 침윤(PNI) 유무에 따른 전사체적 차이를 분석했습니다. 신경 주위 침윤이 있는 종양 101개와 없는 종양 26개를 비교한 결과, 침윤이 있는 경우 암세포의 분화도가 더 나쁜 고등급과 관련이 있었습니다(P < 0.05). 또한 유전자 분석 결과 상피-중간엽 전이(EMT) 관련 전사 프로그램이 유의하게 활성화되어 있었으며, 실제 중간엽 세포 침윤 및 관련 유전자 발현도 높게 나타났습니다. 연구진은 췌관선암의 신경 주위 침윤이 상피-중간엽 전이 과정과 밀접하게 연관되어 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Epithelial-Mesenchymal Transition Is Associated With Perineural Invasion in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌관선암에서 상피-중간엽 전이와 신경 주위 침윤의 연관성",
+ "trial": null,
+ "type": "paper"
+}
