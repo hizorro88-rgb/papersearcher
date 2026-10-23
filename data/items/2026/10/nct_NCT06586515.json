@@ -21,11 +21,12 @@
  "id": "nct:NCT06586515",
  "importance": 0.7,
  "key_points_ko": [
-  "임상시험 단계: 1상(PHASE1)",
-  "대상 질환: 췌관선암을 포함한 KRAS G12D 변이 진행성 고형암",
-  "목표 인원: 630명"
+  "대상 질환: KRAS G12D 변이 진행성 고형암 (췌장관선암 포함)",
+  "평가 항목: 안전성, 내인성, 항종양 효과",
+  "목표 환자 수: 630명",
+  "연구 기간: 약 5년"
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06586515"
  },
- "summary_ko": "이 연구는 KRAS G12D 변이가 있는 진행성 고형암 환자를 대상으로 단독 요법 및 항암화학요법 병용 시 LY3962673의 안전성, 내약성 및 항종양 효과를 평가합니다. 췌관선암(Pancreatic Ductal Adenocarcinoma)을 포함한 다양한 암환자를 대상으로 하며, 약 5년 동안 진행될 예정입니다. 목표 참여 인원은 630명입니다.",
+ "summary_ko": "이 연구는 KRAS G12D 변이가 있는 진행성 고형암 환자를 대상으로 신약 LY3962673을 단독으로 또는 다른 항암화학요법과 병용하여 투여했을 때의 안전성, 내인성, 항종양 효과를 평가합니다. 췌장관선암(Pancreatic Ductal Adenocarcinoma), 비소세포폐암, 대장암 환자를 대상으로 진행됩니다. 연구는 약 5년 동안 진행될 것으로 예상됩니다. 목표 인원은 총 630명입니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS G12D",
@@ -63,7 +64,7 @@
   "5-fluorouracil"
  ],
  "title": "MOONRAY-01, A Study of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors",
- "title_ko": "KRAS G12D 변이 고형암 환자를 대상으로 한 LY3962673 연구 (MOONRAY-01)",
+ "title_ko": "KRAS G12D 변이 고형암 환자를 대상으로 하는 LY3962673 연구 (MOONRAY-01)",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -71,7 +72,7 @@
    "Colorectal Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 진단된 국소 진행성, 절제 불능 및/또는 전이성 암이며, RECIST v1.1 기준에 따른 측정 가능 병변이 있는 환자\n* 종양 조직 또는 순환 종양 DNA에서 KRAS G12D 변이가 확인된 환자\n* ECOG 수행능력이 1 이하인 환자\n* 진행성 또는 전이성 질환에 대해 1가지 이상의 이전 전신 항암화학요법을 받은 환자\n* 무증상이거나 치료된 중추신경계(CNS) 질환이 있는 환자는 참여 가능함\n\n제외 기준:\n* 알려진 활성 중추신경계 전이 및/또는 수막 암종증이 있는 환자\n* 이전 치료로 인한 독성이 NCI CTCAE v5.0 기준 1등급 초과로 회복되지 않은 환자\n* 불안정형 협심증, 급성 관동맥 증후군, 심근경색 병력, 좌심실 박출률 저하 등 유의미한 심혈관 질환이 있는 환자\n* 활성 상태의 조절되지 않는 전신 세균, 바이러스, 진균 또는 기생충 감염이 있는 환자\n* 활성 B형 간염 바이러스(HBV) 및 C형 간염 바이러스(HCV) 감염이 있는 환자\n* 관해 상태가 아니며 기대 여명이 2년 이하인 다른 활동성 악성 종양이 있는 환자",
+  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 진단된 국소 진행성, 절제 불가능 및/또는 전이성 암과 RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자\n* 종양 조직 또는 순환 종양 DNA에서 KRAS G12D 변이 증거가 있는 환자\n* ECOG 수행능력 상태가 1 이하인 환자\n* 진행성 또는 전이성 질환에 대해 1차 이상의 이전 전신 항암화학요법을 받은 환자\n* 무증상 또는 치료된 중추신경계(CNS) 질환이 있는 환자는 참여할 수 있음\n\n제외 기준:\n* 알려진 활동성 중추신경계(CNS) 전이 및/또는 수막암종증이 있는 환자\n* 이전 치료로 인한 NCI CTCAE v5.0 기준 1등급을 초과하는 회복되지 않은 독성이 있는 환자\n* 불안정형 협심증, 급성 관동맥 증후군, 심근경색 병력, 좌심실 박출률 저하 등 주요 심혈관 질환이 있는 환자\n* 활동성 조절되지 않는 전신 세균, 바이러스, 진균 또는 기생충 감염이 있는 환자\n* 알려진 활동성 B형 간염 바이러스(HBV) 및 C형 간염 바이러스(HCV) 감염이 있는 환자\n* 2년 초과의 기대 여명으로 관해 상태가 아닌 한 다른 활동성 악성 종양이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Have Histological or cytologically proven diagnosis of locally advanced, unresectable, and/or metastatic cancer and measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Have evidence of KRAS G12D mutation in tumor tissue or circulating tumor DNA\n* Have an ECOG performance status of ≤ 1\n* Must have received ≥ 1 prior line of systemic chemotherapy for advanced or metastatic disease\n* Participants with asymptomatic or treated CNS disease may be eligible.\n\nExclusion Criteria:\n\n* Have known active CNS metastases and/or carcinomatous meningitis.\n* Have any unresolved toxicities from prior therapy greater than National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0 Grade 1.\n* Have significant cardiovascular disease as unstable angina or acute coronary syndrome, history of myocardial infarction, known reduced left ventricular ejection fraction.\n* Have active uncontrolled systemic bacterial, viral, fungal, or parasitic infection.\n* Have known active hepatitis B virus (HBV) and hepatitis C virus (HCV).\n* Have other active malignancy unless in remission with life expectancy greater than (\\>) 2 years.",
   "enrollment": 630,
   "has_results": false,
@@ -105,9 +106,9 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "활동성 뇌전이 및/또는 수막 암종증",
-    "심혈관 질환 병력",
-    "조절되지 않는 활성 감염",
+    "활동성 중추신경계(CNS) 전이 및/또는 수막암종증",
+    "중요한 심혈관 질환 (심근경색, 불안정형 협심증 등)",
+    "활동성 감염 (세균, 바이러스, 진균, 기생충)",
     "활동성 B형 및 C형 간염",
     "다른 활동성 악성 종양"
    ],

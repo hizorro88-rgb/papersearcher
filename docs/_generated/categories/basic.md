@@ -16,12 +16,89 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 140건 · 최근 30일 140건
+전체 144건 · 최근 30일 144건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42903681"></a>
+#### [CAF 아형에서 임상적으로 관련된 상태로: 췌장관선암종의 암 관련 섬유아세포](https://pubmed.ncbi.nlm.nih.gov/42903681/)
+<small>From CAF subtypes to clinically relevant states: cancer-associated fibroblasts in pancreatic ductal adenocarcinoma</small>
+
+`논문` `종설` `기초연구` `치료 전반` · 2026-10-06 · PubMed · Front Immunol · 중요도 0.62
+
+이 논문은 췌장관선암종(PDAC)의 종양 미세환경에서 암 관련 섬유아세포(CAF)의 다양성과 기능적 상태를 다룬 리뷰 논문입니다. 단일세포 및 공간 연구를 통해 밝혀진 다양한 CAF 아형과 이들의 가소성, 대사 및 면역 조절 역할을 종합했습니다. 또한 무차별적인 기질 고갈 치료의 한계와 새로운 치료 전략을 평가했습니다. 임상 적용을 위해서는 기능, 공간적 맥락, 치료 이력을 통합한 상태 정의가 필요함을 강조했습니다.
+
+- 암 관련 섬유아세포(CAF)는 근섬유아세포성, 염증성, 항원 제시형 등 다양한 상태와 가소성을 보입니다.
+- 종양 억제성 섬유아세포와 보호적 콜라겐 풀의 존재로 인해 무차별적인 기질 고갈 전략은 실패를 겪었습니다.
+- Hedgehog 및 히알루로난 표적 치료의 실패는 표적의 양만으로는 환자를 선별할 수 없음을 보여줍니다.
+- 임상적용을 위해서는 재현 가능한 마커와 전향적 검증을 통한 상태 정의가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42903681/) · [DOI](https://doi.org/10.3389/fimmu.2026.1971880) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13681366/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42903681)</small>
+
+---
+<a id="doi-10.64898-2026.10.14.758481"></a>
+#### [자발적 쳇바퀴 운동은 지속적인 전신 이상에도 불구하고 췌장암 악액질 상태에서 골격근을 선택적으로 보존함](https://europepmc.org/article/PPR/PPR1347441)
+<small>Voluntary wheel running selectively preserves skeletal muscle during pancreatic cancer cachexia despite persistent systemic alterations</small>
+
+`프리프린트` `전임상` `기초연구` `지지요법·삶의질` · 2026-10-20 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+췌장 암 악액질(pancreatic cancer cachexia) 쥐 모델에서 자발적 쳇바퀴 운동(VWR)과 트레드밀 운동(TR)의 생체 영향을 비교 평가했습니다. 연구 결과, 자발적 쳇바퀴 운동은 종양 성장을 늦추고 체중 감소를 완화하며 골격근 질량을 선택적으로 보존했습니다. 반면 트레드밀 운동은 근육 보존 효과를 보이지 않았고 지방 손실이 더 크게 나타났습니다. 이번 연구는 췌장암 악액질에서 운동 방식에 따라 조직별 반응성이 다르게 나타남을 보여줍니다.
+
+- 자발적 쳇바퀴 운동(VWR)은 췌장암 악액질 쥐 모델에서 종양 성장을 늦추고 근육량을 선택적으로 보존했습니다.
+- 종양 크기 영향을 보정한 후에도 근육 보존 효과가 유지되어 운동 자체의 이점이 확인되었습니다.
+- 트레드밀 운동(TR)은 근육 보존 효과를 나타내지 못했으며 오히려 체중 감소와 지방 손실을 악화시켰습니다.
+- 전신 염증, 간 대사 변화, 지방 조직 감소 등의 악액질 상태는 운동 진행 중에도 대부분 유지되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1347441) · [DOI](https://doi.org/10.64898/2026.10.14.758481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.14.758481)</small>
+
+---
+<a id="pmid-42902383"></a>
+#### [변이 p53에 의한 대사 가소성이 췌관선암의 페롭토시스 저항성을 유발한다](https://pubmed.ncbi.nlm.nih.gov/42902383/)
+<small>Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-23 · PubMed · Mol Cancer · 중요도 0.54
+
+췌관선암(PDAC)에서 흔히 발견되는 변이 TP53 유전자가 철 의존성 세포사멸 기전인 페롭토시스(ferroptosis)에 미치는 영향을 규명한 전임상 연구입니다. 연구진은 변이 p53이 항산화 유전자 발현 및 포도당 해당작용을 촉진하는 대사 가소성을 통해 페롭토시스 저항성을 획득함을 확인했습니다. 또한 약리학적으로 야생형 p53 기능을 재활성화하면 이러한 대사 적응이 차단되어 페롭토시스 유도제에 의한 암세포 사멸이 세포 및 마우스 모델에서 크게 증가했습니다.
+
+- 변이 TP53을 제거하면 지질 과산화와 미토콘드리아 기능 장애가 증가하여 췌장암 세포가 페롭토시스에 민감해졌습니다.
+- 변이 p53은 PI3K-AKT 신호와 해당작용을 선택적으로 활성화하여 세포사멸 스트레스 속에서도 ATP 생성을 유지했습니다.
+- 정상 야생형 p53을 재활성화하는 약물과 페롭토시스 유도제를 병용하자 세포 및 동물 모델 모두에서 암세포 사멸이 유의미하게 증가했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42902383/) · [DOI](https://doi.org/10.1186/s12943-026-02746-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685200/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42902383)</small>
+
+---
+<a id="doi-10.64898-2026.10.20.760599"></a>
+#### [고환 특이적 MAGEA3/6의 당분해 조절을 통한 췌장암 세포의 대사 유연성 촉진 및 치료적 취약점 규명](https://europepmc.org/article/PPR/PPR1347256)
+<small>Testis-Specific MAGEA3/6 Regulate Glycolysis to Promote Metabolic Flexibility and Reveal Therapeutic Vulnerabilities in Pancreatic Cancer Cells</small>
+
+`프리프린트` `전임상` `기초연구` `치료 전반` · 2026-10-21 · Europe PMC (preprint) · bioRxiv · 중요도 0.54
+
+본 연구는 암-고환 항원(CTA)인 MAGEA3/6 단백질이 췌관선암(PDAC) 세포의 대사 적응 및 저항성에 미치는 영향을 분석했습니다. MAGEA3/6 발현은 당분해 억제제인 2-deoxy-D-glucose(2-DG)에 대한 저항성을 유의하게 높였습니다. 반대로 MAGEA3/6을 억제하면 암세포의 증식과 이동 능력이 감소하고 2-DG에 대한 감수성이 증가했습니다. 당분해 억제에 저항성을 보인 MAGEA6 발현 세포는 과산화수소에 의한 산화적 스트레스에는 오히려 취약해지는 대사적 약점을 나타냈습니다.
+
+- MAGEA6를 발현하는 MIA PaCa-2 췌장암 세포는 당분해 억제제 2-DG에 대한 반수 최대 억제 농도(IC50)가 2.5배 이상 증가했습니다.
+- MAGEA3/6 단백질을 억제했을 때 췌장암 세포의 집락 형성 및 이동 능력이 감소하고 2-DG 감수성이 높아졌습니다.
+- MAGEA6 발현 세포는 당분해 억제 저항성에도 불구하고 과산화수소로 인한 산화적 스트레스에 높은 감수성을 나타내는 대사적 취약점을 보였습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1347256) · [DOI](https://doi.org/10.64898/2026.10.20.760599) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.20.760599)</small>
+
+---
+<a id="doi-10.64898-2026.10.20.760559"></a>
+#### [췌장암에서 종양 유전자 KRAS-MAPK 신호 전달이 유지하는 CD73 의존적 치료적 취약점](https://europepmc.org/article/PPR/PPR1347239)
+<small>Oncogenic KRAS-MAPK signaling sustains a CD73 dependent therapeutic vulnerability in pancreatic cancer</small>
+
+`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-10-21 · Europe PMC (preprint) · bioRxiv · 중요도 0.54
+
+본 연구는 췌장관선암(PDAC)에서 KRAS-MAPK 신호 전달 경로와 CD73 매개 아데노신 신호의 상호작용을 분석한 전임상 연구입니다. 연구진은 KRAS 억제가 CD73 발현을 감소시키는 한편, CD73 억제제 투여 시 적응적으로 MAPK가 활성화되는 현상을 확인했습니다. 마우스 모델에서 CD73 억제제인 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제를 병용 투여했을 때 가장 강력한 종양 감소 및 면역 환경 개선 효과가 나타났습니다.
+
+- KRAS 억제는 MAPK 경로를 통해 CD73 발현을 줄이고, CD73 억제는 적응적 ERK 인산화를 유도했습니다.
+- CD73 억제제와 RAS(ON) 억제제 병용 투여 시 단일 요법 대비 종양 크기가 유의하게 감소했습니다.
+- 병용 치료는 섬유화 기질과 CD163 양성 대식세포를 줄이고, CD8 양성 T 세포 및 그랜자임 B(granzyme B) 침윤을 증가시켰습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1347239) · [DOI](https://doi.org/10.64898/2026.10.20.760559) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.20.760559)</small>
+
+---
 <a id="pmid-42900966"></a>
 #### [췌관선암에서 상피-중간엽 전이와 신경 주위 침윤의 연관성](https://pubmed.ncbi.nlm.nih.gov/42900966/)
 <small>Epithelial-Mesenchymal Transition Is Associated With Perineural Invasion in Pancreatic Ductal Adenocarcinoma</small>
@@ -67,19 +144,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42901085/) · [DOI](https://doi.org/10.1016/j.drup.2026.101489) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42901085)</small>
 
 ---
-<a id="pmid-42900567"></a>
-#### [자기공명 선형가속기에서 표적 움직임과 계획 특성에 따른 기준선 이동(baseline shift) 계획의 선량학적 영향](https://pubmed.ncbi.nlm.nih.gov/42900567/)
-<small>Dosimetric impact of baseline shift plan in a magnetic resonance linear accelerator according to target motion and plan characteristics</small>
+<a id="doi-10.21203-rs.3.rs-9521623-v1"></a>
+#### [ASCC1이 NF-κB 신호전달 경로를 조절하여 췌장암의 악성 진행을 촉진함](https://europepmc.org/article/PPR/PPR1345856)
+<small>ASCC1 Promotes Malignant Progression of Pancreatic Cancer by Regulating the NF-κB Signaling Pathway</small>
 
-`논문` `기타` `기초연구` `치료 전반` · 2026-11-01 · PubMed · J Appl Clin Med Phys · 중요도 0.56
+`프리프린트` `전임상` `기초연구` · 2026-10-20 · Europe PMC (preprint) · Research Square · 중요도 0.56
 
-이 연구는 자기공명 선형가속기(magnetic resonance linear accelerator)에서 기준선 이동(baseline shift, BLS)이 선량에 미치는 영향을 조사하고, 적응형 위치 지정(adapt-to-position, ATP), 적응형 형태 지정(adapt-to-shape, ATS), 그리고 적응이 없는 미보정 계획과 비교했습니다. 췌장암을 포함한 30명의 환자 시뮬레이션 데이터셋과 임상 자기공명영상(MRI) 데이터셋을 활용하여 표적 체적(PTV) 커버리지와 장기 위험선량(OAR)을 평가했습니다. 연구 결과, BLS는 상하지 방향 이동 시 우수한 표적 커버리지를 보였으나 후방 이동 시 PTV 최고선량(Dmax)과 일부 장기 위험선량이 증가했습니다. 결론적으로 BLS의 선량학적 영향은 움직임 방향과 계획 특성에 의존하므로 획일적인 적용보다는 주의가 필요합니다.
+본 연구는 전사 조절 및 DNA 복구에 관여하는 유전자인 ASCC1이 췌장암에서 미치는 역할을 규명하고자 진행된 기초 전임상 연구입니다. 연구진은 췌장암 조직 및 공공 데이터 분석을 통해 ASCC1이 췌장암에서 높게 발현되며 불량한 예후와 연관되어 있음을 확인했습니다. 세포 및 마우스 동물 실험에서 ASCC1 발현을 억제했을 때 췌장암 세포의 증식, 이동, 침습이 크게 줄어들고 종양 성장이 지연되었습니다. 결론적으로 ASCC1은 NF-κB 경로 활성화와 상피간엽이행(EMT)을 유도하여 종양 진행을 촉진하며, 향후 예후 예측 표지자 및 치료 표적으로서의 가능성을 제시했습니다.
 
-- 상하지 방향 이동 시 BLS를 이용한 표적 커버리지는 ATS 및 ATP와 유사하며 미보정 계획에 비해 향상되었습니다.
-- 후방 이동 시 BLS는 췌장암 및 전립선암 사례에서 모든 이동 크기(1-10 mm)에 걸쳐 PTV 최고선량(Dmax)을 증가시켰습니다.
-- 임상 데이터셋에서 좌우 또는 전후 변위 시 BLS는 ATP, ATS, 미보정 계획에 비해 췌장암과 전립선암에서 장기 위험선량(OAR)을 더 증가시켰습니다.
+- ASCC1은 췌장암 조직에서 유의하게 과발현되어 환자의 불량한 예후와 연관성을 보였습니다.
+- ASCC1을 억제(knockdown)했을 때 암세포 증식, 이동 및 침습이 억제되었고, 마우스 이종이식 모델에서 종양 성장이 지연되었습니다.
+- ASCC1은 인산화된 p65 및 IκBα 발현을 매개하는 NF-κB 신호전달 경로 활성화와 상피간엽이행(EMT) 과정을 조절하는 것으로 나타났습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900567/) · [DOI](https://doi.org/10.1002/acm2.70861) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13682616/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900567)</small>
+<small>[원문](https://europepmc.org/article/PPR/PPR1345856) · [DOI](https://doi.org/10.21203/rs.3.rs-9521623/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-9521623/v1)</small>
 
 ---
 <a id="doi-10.64898-2026.10.19.760262"></a>
@@ -97,34 +174,19 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1346259) · [DOI](https://doi.org/10.64898/2026.10.19.760262) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.19.760262)</small>
 
 ---
-<a id="doi-10.21203-rs.3.rs-9521623-v1"></a>
-#### [ASCC1이 NF-κB 신호전달 경로를 조절하여 췌장암의 악성 진행을 촉진함](https://europepmc.org/article/PPR/PPR1345856)
-<small>ASCC1 Promotes Malignant Progression of Pancreatic Cancer by Regulating the NF-κB Signaling Pathway</small>
+<a id="pmid-42900567"></a>
+#### [자기공명 선형가속기에서 표적 움직임과 계획 특성에 따른 기준선 이동(baseline shift) 계획의 선량학적 영향](https://pubmed.ncbi.nlm.nih.gov/42900567/)
+<small>Dosimetric impact of baseline shift plan in a magnetic resonance linear accelerator according to target motion and plan characteristics</small>
 
-`프리프린트` `전임상` `기초연구` · 2026-10-20 · Europe PMC (preprint) · Research Square · 중요도 0.56
+`논문` `기타` `기초연구` `치료 전반` · 2026-11-01 · PubMed · J Appl Clin Med Phys · 중요도 0.56
 
-본 연구는 전사 조절 및 DNA 복구에 관여하는 유전자인 ASCC1이 췌장암에서 미치는 역할을 규명하고자 진행된 기초 전임상 연구입니다. 연구진은 췌장암 조직 및 공공 데이터 분석을 통해 ASCC1이 췌장암에서 높게 발현되며 불량한 예후와 연관되어 있음을 확인했습니다. 세포 및 마우스 동물 실험에서 ASCC1 발현을 억제했을 때 췌장암 세포의 증식, 이동, 침습이 크게 줄어들고 종양 성장이 지연되었습니다. 결론적으로 ASCC1은 NF-κB 경로 활성화와 상피간엽이행(EMT)을 유도하여 종양 진행을 촉진하며, 향후 예후 예측 표지자 및 치료 표적으로서의 가능성을 제시했습니다.
+이 연구는 자기공명 선형가속기(magnetic resonance linear accelerator)에서 기준선 이동(baseline shift, BLS)이 선량에 미치는 영향을 조사하고, 적응형 위치 지정(adapt-to-position, ATP), 적응형 형태 지정(adapt-to-shape, ATS), 그리고 적응이 없는 미보정 계획과 비교했습니다. 췌장암을 포함한 30명의 환자 시뮬레이션 데이터셋과 임상 자기공명영상(MRI) 데이터셋을 활용하여 표적 체적(PTV) 커버리지와 장기 위험선량(OAR)을 평가했습니다. 연구 결과, BLS는 상하지 방향 이동 시 우수한 표적 커버리지를 보였으나 후방 이동 시 PTV 최고선량(Dmax)과 일부 장기 위험선량이 증가했습니다. 결론적으로 BLS의 선량학적 영향은 움직임 방향과 계획 특성에 의존하므로 획일적인 적용보다는 주의가 필요합니다.
 
-- ASCC1은 췌장암 조직에서 유의하게 과발현되어 환자의 불량한 예후와 연관성을 보였습니다.
-- ASCC1을 억제(knockdown)했을 때 암세포 증식, 이동 및 침습이 억제되었고, 마우스 이종이식 모델에서 종양 성장이 지연되었습니다.
-- ASCC1은 인산화된 p65 및 IκBα 발현을 매개하는 NF-κB 신호전달 경로 활성화와 상피간엽이행(EMT) 과정을 조절하는 것으로 나타났습니다.
+- 상하지 방향 이동 시 BLS를 이용한 표적 커버리지는 ATS 및 ATP와 유사하며 미보정 계획에 비해 향상되었습니다.
+- 후방 이동 시 BLS는 췌장암 및 전립선암 사례에서 모든 이동 크기(1-10 mm)에 걸쳐 PTV 최고선량(Dmax)을 증가시켰습니다.
+- 임상 데이터셋에서 좌우 또는 전후 변위 시 BLS는 ATP, ATS, 미보정 계획에 비해 췌장암과 전립선암에서 장기 위험선량(OAR)을 더 증가시켰습니다.
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1345856) · [DOI](https://doi.org/10.21203/rs.3.rs-9521623/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-9521623/v1)</small>
-
----
-<a id="pmid-42902383"></a>
-#### [변이 p53에 의한 대사 가소성이 췌관선암의 페롭토시스 저항성을 유발한다](https://pubmed.ncbi.nlm.nih.gov/42902383/)
-<small>Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-23 · PubMed · Mol Cancer · 중요도 0.54
-
-췌관선암(PDAC)에서 흔히 발견되는 변이 TP53 유전자가 철 의존성 세포사멸 기전인 페롭토시스(ferroptosis)에 미치는 영향을 규명한 전임상 연구입니다. 연구진은 변이 p53이 항산화 유전자 발현 및 포도당 해당작용을 촉진하는 대사 가소성을 통해 페롭토시스 저항성을 획득함을 확인했습니다. 또한 약리학적으로 야생형 p53 기능을 재활성화하면 이러한 대사 적응이 차단되어 페롭토시스 유도제에 의한 암세포 사멸이 세포 및 마우스 모델에서 크게 증가했습니다.
-
-- 변이 TP53을 제거하면 지질 과산화와 미토콘드리아 기능 장애가 증가하여 췌장암 세포가 페롭토시스에 민감해졌습니다.
-- 변이 p53은 PI3K-AKT 신호와 해당작용을 선택적으로 활성화하여 세포사멸 스트레스 속에서도 ATP 생성을 유지했습니다.
-- 정상 야생형 p53을 재활성화하는 약물과 페롭토시스 유도제를 병용하자 세포 및 동물 모델 모두에서 암세포 사멸이 유의미하게 증가했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42902383/) · [DOI](https://doi.org/10.1186/s12943-026-02746-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42902383)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900567/) · [DOI](https://doi.org/10.1002/acm2.70861) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13682616/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900567)</small>
 
 ---
 <a id="pmid-42897170"></a>

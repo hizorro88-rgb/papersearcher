@@ -1,0 +1,127 @@
+{
+ "abstract": "This study will test a remote approach to help people who may be at higher risk for pancreatic cancer learn about and decide whether to get genetic testing and a blood test that looks for signs of several cancers (MCED testing). The study is focused on Black, Latino/a, and Medicaid-enrolled individuals who may have had less access to cancer genetics and early detection services. About 80 participants, who reside in Massachusetts, will be assigned by chance to receive either online education alone or online education plus a phone call with a trained educator from the Pancreatic Cancer Action Network (PanCAN). After the education, participants can choose whether or not to have genetic testing and/or MCED testing. The main goal is to learn whether this approach is practical to carry out, acceptable to participants, and delivered as planned. Participants will complete 3 surveys during study participation.\n\nPancreatic ductal adenocarcinoma (PDAC) is frequently diagnosed at advanced stages and has poor survival. Approximately 10% of patients with PDAC have a pathogenic germline variant in a cancer gene, and national guidelines recommend genetic testing in patients with PDAC and their at-risk relatives. Surveillance in individuals at risk for PDAC has been associated with earlier-stage detection and improved survival. However, uptake of genetic testing among individuals at risk for hereditary cancer syndromes is often low, and this gap is especially pronounced in Black, Latino/a, and Medicaid-enrolled populations. This study is designed to address this gap by evaluating a lower-cost, patient-driven remote model for PDAC genetic education/testing and multi-cancer early detection (MCED) education/testing.\n\nThe REGENERATE Feasibility Trial is a randomized feasibility study evaluating a novel intervention consisting of phone-based navigation delivered through a trusted national pancreatic cancer organization, PanCAN, compared with routine online educational materials alone. The study will assess whether this approach can improve uptake of germline genetic testing and MCED testing among individuals at risk for PDAC who have obstacles to healthcare access. The trial specifically focuses on Black, Latino/a, and Medicaid-enrolled individuals at risk for PDAC who reside in Massachusetts, reflecting the study goal of improving access to cancer genetics and early detection services.\n\nThe study plans to randomize 80 individuals at risk for PDAC, approximately 40 per arm, and will enroll until 80 participants have been randomized. This is a single-site HCC study with collaborating partners assisting with study outreach. Participants must live in Massachusetts, speak English, have internet access, and be willing to travel to Dana-Farber Cancer Institute in Boston for diagnostic testing if an MCED result indicates possible malignancy. Eligible participants must be aged 50 years or older or within 10 years of the earliest PDAC diagnosis in the family, and must be currently enrolled in Medicaid and/or identify as Black and/or Latino/a, with no prior PDAC-related genetic testing.\n\nAfter consent and completion of the baseline survey, participants will be randomized through REDCap to 1 of 2 study arms. In the online education arm, participants will receive links to the testing company's educational websites and review materials at their own pace. In the PanCAN telephone education arm, a trained PanCAN educator will conduct a scheduled telephone session. The telephone session includes approximately 10 minutes of education about pancreatic cancer, genetic risk, and genetic testing, followed during the same call by approximately 10 minutes of education about the risks, benefits, and limitations of MCED testing. After either the phone session or online review, participants complete a post-education survey assessing satisfaction, knowledge, and preparation for decision-making. Receipt of genetic testing and/or MCED testing is optional, and participants may take up to 3 months to opt in to testing if accrual remains open.\n\nFor participants who choose genetic testing, the study team will facilitate ordering through the testing company, which will mail a saliva kit to the participant's home. For participants who choose MCED testing, the testing company will arrange either home phlebotomy or blood collection at a local facility based on participant preference. Genetic and MCED results are returned directly to the study team. Negative results are generally communicated by email and mail. Positive genetic results trigger telephone follow-up from a Dana-Farber clinical genetic counselor for clinical navigation. Participants with a positive MCED result will be contacted for phone, virtual, or in-person follow-up with a Dana-Farber provider familiar with MCED testing and invited to Dana-Farber for diagnostic workup until resolution. Recommended workup may include contrast-enhanced CT imaging and, if needed, PET-CT or other targeted follow-up procedures or labs based on clinical context.\n\nThe primary objectives for both the genetic education and MCED education components are feasibility, acceptability, and fidelity. Feasibility outcomes include completion of germline genetic testing, completion of MCED testing, provision of a testing decision, study enrollment, and retention. Acceptability will be measured with the 3-item Client Satisfaction Questionnaire (CSQ-3). Fidelity will be assessed only in the telephone education arm using session checklists evaluating adherence to planned content and duration; selected sessions will be audio-recorded to validate checklist completion and monitor adherence. Exploratory aims will summarize patient-reported outcomes related to genetic risk, genetic testing, and MCED testing, with no formal hypothesis testing planned for these exploratory analyses.\n\nThe study defines the intervention as feasible if at least 30% of enrolled participants complete germline genetic testing and at least 30% complete MCED testing. Enrollment feasibility will be considered promising if at least 60% of eligible participants enroll, and decision-making feasibility if at least 60% of enrolled participants provide a testing decision. Retention will be considered promising if at least 60% of enrolled participants complete follow-up. Acceptability will be considered adequate if the mean CSQ-3 score is at least 3, and fidelity will be considered adequate if at least 90% of participants in the telephone arm complete a session in which at least 90% of required educational content is reviewed.\n\nStudy activities are conducted primarily remotely. Recruitment will use social media advertisements and outreach through PanCAN, Dana-Farber Cancer Institute, Boston-area community health clinics, and community organizations serving target populations. Participant-related data, including screening information, surveys, and test results, will be stored in a secure password-protected REDCap database with access restricted to study personnel. Participants will be assigned unique study IDs, and no data or specimens will be banked as part of this study. The protocol anticipates no greater than minimal risk, although risks include distress related to genetic findings, blood draw-related discomfort, questionnaire-related emotional distress, false-positive MCED results, and risks related to follow-up procedures and labs after a positive MCED result.\n\nThe expected duration of participation is approximately 6 to 9 months and includes consent, baseline assessment, education, specimen return and testing, result disclosure, and follow-up. All participants, including those who decline testing, will be asked to complete a follow-up survey 3 to 4 months after their last study step. Enrollment is expected to take about 18 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-22",
+ "history": [
+  {
+   "date": "2026-10-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07787156",
+ "importance": 0.74,
+ "key_points_ko": [
+  "췌장암 가족력이 있거나 유전 변이가 있는 가계 구성원 80명을 대상으로 원격 교육 방식을 비교 평가합니다.",
+  "온라인 교육 단독군과 전문 교육자의 전화 교육 병행군으로 무작위 배정됩니다.",
+  "교육 후 타액 채취를 통한 유전자 검사 및 혈액을 통한 다중암 조기 검진을 선택적으로 진행할 수 있습니다.",
+  "참여자의 30% 이상이 생식세포 유전자 검사 및 다중암 검사를 완료하는 것을 주요 타당성 지표로 평가합니다."
+ ],
+ "last_updated": "2026-10-22",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07787156"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-08-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Brigham and Women's Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07787156"
+ },
+ "summary_ko": "이 연구는 췌장암 가족력이 있어 발생 위험이 높은 사람들을 대상으로 유전자 검사와 다중암 조기 발견(MCED) 혈액 검사에 대한 원격 교육의 실행 가능성을 평가하는 임상시험입니다. 매사추세츠주에 거주하는 흑인, 라틴계 또는 메디케이드(Medicaid) 가입자 80명을 대상으로 온라인 교육 단독군과 췌장암 환자 지원단체(PanCAN) 전문 상담원의 전화 교육을 병행하는 군으로 무작위 배정합니다. 교육 후 참여자는 타액을 이용한 생식세포 유전자 검사나 혈액 기반 다중암 검사를 받을지 자율적으로 결정할 수 있습니다. 3회의 설문 조사를 통해 원격 교육 방식의 실현 가능성과 수용도 등을 주로 확인합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Pancreatic cancer",
+  "Pancreas cancer",
+  "Family history of pancreatic cancer",
+  "Pancreatic ductal adenocarcinoma (PDAC)",
+  "Genetic testing",
+  "Genetic education",
+  "Multi-cancer Early Detection (MCED) education"
+ ],
+ "title": "Reach and Engagement of GENetic Education, Risk Assessment, and TEsting Feasibility Trial",
+ "title_ko": "유전 교육 및 다중암 조기 발견 검사 접근성 향상을 위한 REGENERATE 타당성 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Family History of Pancreas Cancer",
+   "Genetic Testing",
+   "Multi-cancer Early Detection"
+  ],
+  "contacts": [
+   {
+    "email": "tial_kauffman@dfci.harvard.edu",
+    "name": "Tia Kauffman, MPH",
+    "phone": "857-215-1892"
+   },
+   {
+    "email": "JennaB_Beckwith@dfci.harvard.edu",
+    "name": "Jenna Beckwith, MPH",
+    "phone": "857-215-1892"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 50세 이상이거나 가족 중 췌장암이 가장 먼저 진단된 연령보다 10년 이전인 사람\n- 현재 메디케이드(Medicaid) 수혜자이거나 흑인 또는 라틴계인 사람\n- 미국 매사추세츠주 거주자이며 영어 구사 및 인터넷 접속이 가능한 사람\n- 췌장암 진단을 받은 1차 직계가족이 최소 1명 있거나, 췌장암 관련 암 감수성 유전자(ATM, BRCA1, BRCA2 등)의 병원성 변이가 확인된 혈족이 있는 사람\n- 이전에 췌장암 위험도 관련 다유전자 패널 검사를 받은 적이 없는 사람\n- 다중암 검진 결과 양성 의심 시 보스턴 소재 다나-파버 암 연구소로 정밀검사를 위해 방문할 의향이 있는 사람\n\n제외 기준:\n- 최근 3년 이내 암 진단을 받은 경우(비흑색종 피부암 제외)\n- 췌장암 위험 관련 유전자 검사를 이전에 받았거나 최근 3년 내 유전 상담을 받은 경우\n- 현재 임신 중인 경우\n- 매사추세츠주 외 타 지역 거주자\n- 동일 가족 내 이미 3명의 구성원이 본 연구에 등록된 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Aged 50 years or older OR 10 years younger than the earliest PDAC diagnosis in a family member\n* Current Medicaid enrollment and/or Black and/or Latino/a\n* Willingness to travel to Dana-Farber Cancer Institute in Boston, MA, for diagnostic testing if MCED screening test indicates possible malignancy\n* Living in the state of Massachusetts\n* No prior multi-gene panel genetic testing related to PDAC genetic risk\n* Internet access to complete study surveys\n* English speaking\n* Willing to complete study surveys\n* At least one first-degree relative with a PDAC diagnosis by participant report OR Any blood relative with a known pathogenic or likely pathogenic variant in a cancer susceptibility gene related to PDAC by participant report (e.g. ATM, BRCA1, BRCA2, CDKN2A, EPCAM, MLH1, MSH2, MSH6, PALB2, STK11, or TP53)\n\nExclusion Criteria:\n\n* Less than age 50 years or age not within 10 years of the earliest PDAC diagnosis in their family\n* Cancer diagnosis in the last 3 years (excluding non-melanoma skin cancers)\n* Currently pregnant\n* Insurance other than Medicaid or race/ethnicity other than Black or Latino/a\n* Prior genetic testing related to PDAC genetic risk\n* Genetic counseling in the last 3 years\n* Living in a state other than Massachusetts\n* Language other than English\n* Three members of the same family already enrolled in the study",
+  "enrollment": 80,
+  "has_results": false,
+  "interventions": [
+   "Telephone education session",
+   "Online educational materials"
+  ],
+  "last_update_posted": "2026-10-22",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "최근 3년 이내 암 진단 이력(비흑색종 피부암 제외)",
+    "과거 췌장암 위험 관련 유전자 검사 또는 최근 3년 내 유전 상담 이력",
+    "임신 중인 경우",
+    "미국 매사추세츠주 외 거주자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "췌장암 가족력이 있는 고위험군 성인을 위한 유전 교육 및 조기 검진 타당성 임상시험",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07787156",
+  "phase": "NA",
+  "primary_completion_date": "2028-09",
+  "sex": "ALL",
+  "sponsor": "Brigham and Women's Hospital",
+  "start_date": "2026-10-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

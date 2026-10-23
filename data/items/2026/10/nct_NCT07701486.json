@@ -20,14 +20,14 @@
   }
  ],
  "id": "nct:NCT07701486",
- "importance": 0.8,
+ "importance": 0.9,
  "key_points_ko": [
-  "대상 질환: 새로 진단된 4기 전이성 췌관선암(metastatic pancreatic ductal adenocarcinoma)",
-  "중재 치료: VCN-01 oncolytic adenovirus 및 gemcitabine + nab-paclitaxel 병용",
-  "목표 인원: 6명",
-  "평가 항목: 안전성, 내약성, VCN-01의 체내 거동 및 치료 유익성"
+  "대상 질환: 새로 진단된 전이성(4기) 췌장 선암(PDAC) 환자 6명",
+  "치료 중재: VCN-01과 gemcitabine 및 nab-paclitaxel 병용 투여",
+  "투여 방식: 56일 주기로 VCN-01을 투여하고 1주일 뒤 표준 항암화학요법 2주기 시행",
+  "목표: 새로운 투여 요법의 안전성, 내약성 및 약물 체내 거동 평가"
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07701486"
  },
- "summary_ko": "이 임상시험은 새로 진단받은 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 새로운 VCN-01 투여 요법과 표준 항암화학요법인 gemcitabine 및 nab-paclitaxel(GnP) 병용 투여의 안전성과 내어성을 평가합니다. VCN-01 oncolytic adenovirus(자빌루겐 알마데노렙벡)는 56일마다 한 번씩 총 3회 투여되며, 각 투여 후 1주일 뒤에 gemcitabine과 nab-paclitaxel 표준 화학요법 2주기가 이어집니다. 본 연구의 목표 인원은 6명이며, 환자 체내에서의 VCN-01 거동과 치료 유익성을 함께 평가합니다.",
+ "summary_ko": "이 임상시험은 새로 진단된 전이성 췌장 선암(PDAC) 환자를 대상으로 항암제 gemcitabine(젬시타빈) 및 nab-paclitaxel(나브-패클탁셀)과 함께 새로운 투여 요법의 용광선암 용해성 아데노바이러스(oncolytic adenovirus) VCN-01(zabilugene almadenorepvec)을 병용 투여할 때의 안전성과 내성을 평가합니다. 이 연구는 VCN-01의 체내 거동 및 잠재적 치료 유익성을 평가하는 것을 목표로 합니다. 참여 환자는 56일마다 한 번씩 총 3회의 VCN-01을 투여받으며, 각 투여 후 1주일 뒤 표준 항암화학요법 2주기를 받습니다. 목표 환자 수는 6명입니다.",
  "summary_source": "llm",
  "tags": [
   "VCN-01",
@@ -59,7 +59,7 @@
   "nab-paclitaxel"
  ],
  "title": "A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients With Newly Diagnosed Metastatic Pancreatic Cancer",
- "title_ko": "새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 요법 연구",
+ "title_ko": "새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 병용한 VCN-01의 빈번한 투여 요법 연구",
  "trial": {
   "conditions": [
    "Pancreas Cancer, Metastatic",
@@ -73,7 +73,7 @@
     "phone": "+93936899365"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 등록 전 임상시험 관련 절차나 평가 전에 서면 동의를 완료한 환자\n* 만 18세 이상의 남성 또는 여성 환자\n* 진단 시 전이성(4기)이며 췌장암에 대해 이전 치료를 받은 적이 없는 조직학적 또는 세포학적으로 확진된 췌장 선암 환자\n* 전이성 췌장암 진단 후 6주 이내에 첫 번째 VCN-01 투여를 받을 수 있는 환자\n* RECIST 1.1 기준에 따라 영상 평가가 가능한 적어도 1개의 측정 가능한 종양 병변이 있는 환자\n* 등록 시 ECOG 수행능력(performance status) 0 또는 1인 환자\n\n제외 기준:\n* 지리적, 정신적, 사회적 이유로 임상시험 절차를 완료할 수 없는 환자\n* 수술, 방사선 치료, 항암화학요법 또는 임상시험용 약물로 이전 치료를 받은 전이성 췌장암 환자 (통증 완화 목적의 방사선 치료 및 담도 스텐트/관 삽입은 예외)\n* 선별 기간 동안 임상적으로 허용되지 않는 악화를 시사하는 증상이나 징후가 있다고 연구자가 판단한 환자\n* 등록 시점에 활동성 감염, 기타 심각한 질환 또는 자가면역 질환이 있는 환자\n* 이전 폐렴 또는 간질성 폐질환이 있는 환자",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인 남녀.\n* 조직학적 또는 세포학적으로 진단 당시 전이성(4기) 췌장 선암(PDAC)이 확인되었고 췌장암에 대한 이전 치료를 받지 않은 환자.\n* 전이성 췌장암 진단 후 6주 이내에 첫 번째 VCN-01 투여를 받을 수 있는 환자.\n* RECIST 1.1 기준에 따라 영상 평가가 가능한 적어도 1개의 측정 가능한 종양 병변이 있는 환자.\n* 등록 시 ECOG 수행능력 상태가 0 또는 1인 환자.\n* 골수, 간, 신장 등 적절한 기저 장기 기능을 가진 환자.\n\n제외 기준:\n* 이전에 수술, 방사선 치료, 항암화학요법 또는 임상시험용 치료로 전이성 췌장암 치료를 받은 환자 (통증 완화 목적의 방사선 치료 및 담관 스텐트/튜브 삽입은 허용).\n* 스크리닝 기간 동안 임상적으로 수용할 수 없는 악화를 시사하는 증상이나 징후가 있는 환자.\n* 등록 시점에 활동성 감염, 기타 심각한 질환 또는 자가면역 질환이 있는 환자.\n* B형 간염, C형 간염 또는 HIV 양성 환자 중 프로토콜 기준에 부합하지 않는 경우.\n* 뇌전이 및/또는 연막성 수막암종증이 치료되지 않았고 코르티코스테로이드 투여에도 진행성 증상이 있는 환자.\n* 이전 폐렴 또는 간질성 폐질환 병력이 있는 환자.",
   "eligibility_text": "Inclusion Criteria:\n\n* Written informed consent obtained prior to initiating any trial-specific procedures or assessments.\n* Male or female patients aged 18 years or over.\n* Patients with histologically or cytologically confirmed pancreatic adenocarcinoma that is metastatic (stage IV) at diagnosis and who have not received any treatment for their pancreatic cancer.\n* Patients must be able to receive their first dose of VCN-01 ≤6 weeks after their metastatic pancreatic cancer diagnosis.\n* Patients must have at least one measurable tumor lesion that can be imaged for assessments according to RECIST 1.1.\n* ECOG performance status of 0 or 1 at enrollment.\n* Must be willing to comply with the trial intervention, including prophylactic medications, and procedures.\n* Adequate baseline organ function (hematologic, liver, renal) within the 7 days prior to enrollment:\n\nHematology:\n\n* Leukocytes ≥3.0x103 mcL\n* Absolute neutrophil count ≥1.5x10⁹/L\n* Hemoglobin ≥9 g/dL\n* Platelets ≥100x10⁹/L\n\nCoagulation:\n\n* Prothrombin time or international normalized ratio ≤1x upper limit of normal (ULN)\n* Activated partial thromboplastin time ≤1.2xULN\n\nHepatic:\n\n* Total bilirubin ≤1.5xULN\n* ALT and AST ≤2.5xULN (\\<5xULN is acceptable if liver metastases are present)\n\nRenal:\n\n* Serum creatinine ≤1.5xULN; or,\n* If serum creatinine \\>1.5xULN, an estimated creatinine clearance \\>50 mL/min using the Cockcroft and Gault formula\n\nNutritional:\n\n• Serum Albumin ≥30 g/L\n\n\\- Adequate left ventricular ejection fraction (LVEF) ≥ 50% measured by ECHO or MUGA and QT interval corrected by Fridericia (QTcF) assessment ≤ 450 ms for men or ≤ 470 ms for women.\n\nExclusion Criteria:\n\n* Unwillingness to complete the trial procedures for geographic, psychiatric, or social reasons.\n* Patient has previously received treatment for their metastatic pancreatic cancer with surgery, radiotherapy, chemotherapy or investigational therapy; except that:\n* Palliative radiotherapy for pain is permitted;\n* Placement of a biliary stent/tube is permitted.\n* Patients who, in the opinion of the investigator, have symptoms or signs suggesting clinically unacceptable deterioration during the Screening Period.\n* Active infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n  • Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n* Patients with past or resolved TB are eligible to participate.\n\n  • Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n* HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n* Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n* Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n\n  • Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n* Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n* Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n\n  * Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\nActive infection or other serious illness or autoimmune disease at the moment of enrollment. Active infection includes:\n\n* Tuberculosis (TB; clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice.\n\n  \\- Patients with past or resolved TB are eligible to participate.\n* Hepatitis B Virus (HBV; positive HBV surface antigen \\[HBsAg\\] result).\n\n  * HBV carriers (patients positive for HBsAg without an active infection) are not eligible to participate;\n  * Patients requiring antiviral medicines for HBV prophylaxis or treatment are not eligible to participate;\n  * Patients with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[HBcAb\\] and absence of HBsAg) are eligible to participate provided that blood HBV DNA is negative at enrollment.\n* Hepatitis C Virus (HCV; positive HCV Ribonucleic acid \\[RNA\\]).\n\n  * Patients requiring antiviral medicines for HCV prophylaxis or treatment are not eligible to participate;\n  * Patients positive for HCV antibody are eligible to participate (only if polymerase chain reaction is negative for HCV RNA).\n* Human immunodeficiency virus (positive HIV 1/2 antibodies)\n\n  * Known chronic liver disease (e.g. liver cirrhosis, liver fibrosis, chronic hepatitis); except that:\n  * Patients with fatty liver disease are eligible to participate if their liver transaminases meet inclusion criterion 8.\n  * Concurrent malignant hematologic or solid disease; except that:\n  * Patients with a prior history of cancer are eligible to participate if they are in complete remission from their prior cancer for at least 3 years.\n  * Patients with Li Fraumeni syndrome or with previously known retinoblastoma protein pathway germline deficiency.\n  * Patients with untreated brain metastases and/or leptomeningeal carcinomatosis with progressive symptoms despite corticosteroid coverage; except that:\n  * Patients with brain metastases with stable symptoms are eligible to participate.\n  * Patients with previous pneumonitis or interstitial lung disease.\n  * Patients with pre-existing sensory neuropathy \\>G1\n  * Clinical evidence of deep vein thrombosis, pulmonary embolism or arterial thromboembolic event during the Screening Period.\n  * Patients with superficial vein thrombosis are eligible to participate.\n  * Patients with uncontrolled coagulopathy.\n  * Any other condition, disease, metabolic dysfunction (e.g., uncontrolled diabetes mellitus), active or uncontrolled infection/inflammation, physical examination finding, mental state or clinical laboratory finding that would contraindicate participation in the clinical trial due to concerns over safety or potential non-compliance with clinical trial procedures.\n  * A female patient, who is pregnant or lactating.\n  * Female patients of reproductive potential must agree to use a highly effective method of birth control. Male patients must agree to use condoms.\n  * Treatment with live attenuated vaccines in the last 3 weeks before the administration of the IMP.\n  * Treatment with an adenovirus type-5 (Ad5)-based COVID-vaccine in the last 12 weeks before the administration of the IMP.\n  * Treatment with another investigational agent within five of that investigational agent's half-lives prior to the administration of the IMP.\n  * Chronic immunosuppressive therapy; except that:\n  * Inhaled corticosteroids are permitted;\n  * Oral or IV corticosteroids with a dose lower than 10 mg prednisone or equivalent/day are permitted;\n  * Dexamethasone up to a maximum dose of 1 mg/day is permitted.\n  * Known allergy or hypersensitivity to any of the trial-specific interventions or any of their excipients.\n  * Subjects, for whom first line treatment options other than the combination nab-paclitaxel/gemcitabine are recommended by the investigator.",
   "enrollment": 6,
   "has_results": false,
@@ -81,7 +81,7 @@
    "VCN-01 oncolytic adenovirus (zabilugene almadenorepvec)",
    "Nab-paclitaxel + Gemcitabine"
   ],
-  "last_update_posted": "2026-07-27",
+  "last_update_posted": "2026-10-22",
   "location_countries": [
    "Spain"
   ],
@@ -91,21 +91,24 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 췌장암 치료 이력(수술, 방사선, 항암 등)",
-    "활동성 감염 (결핵, B형/C형 간염, HIV 등)",
-    "치료받지 않은 뇌전이 및 연수막 암종증",
+    "이전 전이성 췌장암 치료력",
+    "활동성 감염 또는 심각한 동반 질환",
+    "치료되지 않은 진행성 뇌전이",
     "이전 폐렴 또는 간질성 폐질환 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료를 받은 적이 없는 새로 진단된 전이성 췌장암 환자",
+   "notes_ko": "이전 치료력이 없는 새로 진단된 전이성 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
+    "FOLFIRINOX",
     "platinum",
     "fluoropyrimidine",
     "irinotecan",
     "taxane",
+    "immunotherapy",
+    "KRAS_inhibitor",
     "radiotherapy"
    ],
    "prior_required": [],
@@ -122,7 +125,7 @@
   "primary_completion_date": "2027-08-01",
   "sex": "ALL",
   "sponsor": "Theriva Biologics SL",
-  "start_date": "2026-08-03",
+  "start_date": "2026-07-31",
   "status": "RECRUITING",
   "study_type": "INTERVENTIONAL"
  },

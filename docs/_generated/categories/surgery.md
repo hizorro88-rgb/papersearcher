@@ -16,93 +16,95 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 200건 · 최근 30일 200건
+전체 199건 · 최근 30일 199건
 
 월별 보기: [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct04858334"></a>
+#### [수술 후 BRCA1, BRCA2 또는 PALB2 변이가 있는 췌장암 환자를 대상으로 한 올라파립 대 위약 유지요법의 2상 임상시험](https://clinicaltrials.gov/study/NCT04858334)
+<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
+
+**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
+
+이 임상시험은 절제 수술 및 수술 전후 항암화학요법을 마친 췌장암 환자 중 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 합니다. 환자들은 수술 후 재발을 방지하기 위한 유지요법으로 표적치료제인 olaparib(올라파립) 또는 위약을 복용하게 됩니다. 연구의 주요 목적은 올라파립 투여가 무재발 생존기간(RFS)을 연장하는지 평가하는 것입니다.
+
+- 절제 수술 후 최소 3개월에서 최대 6개월 동안 항암치료를 완료하고 재발 소견이 없는 환자를 대상으로 합니다.
+- BRCA1, BRCA2 또는 PALB2 유전자의 생식선 또는 체세포 병원성 변이가 확인되어야 합니다.
+- 올라파립 또는 위약을 하루 2회 매일 복용하며 28일 주기로 총 12주기 동안 투여하여 재발 방지 효과를 비교합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
+
+---
 <a id="nct-nct07619521"></a>
-#### [수술 불가능한 또는 전이성 췌장암 환자를 대상으로 한 selumetinib과 DS-8201a 병용요법 임상시험](https://clinicaltrials.gov/study/NCT07619521)
+#### [진행성 췌장암 환자를 위한 selumetinib과 DS-8201a(Trastuzumab Deruxtecan) 병용 요법 제1/2상 임상시험](https://clinicaltrials.gov/study/NCT07619521)
 <small>Testing the Combination of Anti-Cancer Drugs, Selumetinib and DS-8201a (Trastuzumab Deruxtecan), for Advanced Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-06-02 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
 
 **NCT07619521** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07619521.md)
 
-이 임상 1/2상 연구는 수술이 불가능하거나 전이된 췌장암(췌관선암) 환자를 대상으로 selumetinib(셀루메티닙)과 DS-8201a(trastuzumab deruxtecan; 트라스투주맙 데룩스테칸) 병용요법의 안전성과 효과를 평가합니다. 셀루메티닙은 암세포 성장에 필요한 효소를 차단하고, DS-8201a는 HER2 표적 항체-약물 접합체(ADC)입니다. 1상 단계에서 용량 제한 독성을 평가하여 2상 권장 용량을 결정한 후, 2상 단계에서 객관적 반응률(ORR)을 평가합니다.
+이 임상시험은 수술이 불가능하거나 전이된 진행성 췌장선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 selumetinib과 DS-8201a(trastuzumab deruxtecan) 병용 투여의 안전성, 부작용, 적정 용량 및 효과를 평가하기 위한 1/2상 연구입니다. 초록에 명시된 목표 인원은 31명입니다. 환자들은 경구용 selumetinib과 정맥주사형 DS-8201a를 21일 주기로 투여받습니다.
 
-- KRAS 변이 및 HER2 양성(IHC 2+ 이상)인 전이성 또는 수술 불가능한 췌장암 환자 31명을 대상으로 합니다.
-- selumetinib과 DS-8201a 병용 투여의 안전성, 약물 권장 용량 및 객관적 반응률(ORR)을 확인합니다.
-- 이전 전신 항암 치료를 받은 적이 있는 췌장암 환자를 대상으로 시행되는 1/2상 임상시험입니다.
+- 초록에 명시된 목표 환자 수는 31명입니다.
+- 1상에서는 용량 제한 독성(DLTs)을 평가하고 2상 권장 용량(RP2D)을 결정합니다.
+- 2상에서는 고형암 반응 평가 기준(RECIST v1.1)에 따른 객관적 반응률(ORR)을 평가합니다.
+- 연구의 이차 목적에는 무진행 생존기간(PFS)과 전체 생존기간(OS) 등이 포함됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07619521) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07619521)</small>
 
 ---
 <a id="nct-nct04141995"></a>
-#### [수술 가능한 췌장암 환자 대상 FOLFIRINOX와 디곡신(Digoxin) 병용 요법 2상 임상시험](https://clinicaltrials.gov/study/NCT04141995)
+#### [수술 가능한 췌장암 환자에서 FOLFIRINOX와 디곡신 병용 요법 임상시험](https://clinicaltrials.gov/study/NCT04141995)
 <small>FOLFIRINOX With Digoxin in Patients With Resectable Pancreatic Cancer</small>
 
-`임상시험` `2상` `신약·치료제` `수술` `진단·조기발견` · 2019-10-28 · ClinicalTrials.gov · University of Nebraska · 중요도 0.87
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2019-10-28 · ClinicalTrials.gov · University of Nebraska · 중요도 0.87
 
 **NCT04141995** · 2상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04141995.md)
 
-수술이 가능한 췌관선암 환자를 대상으로 저산소증 경로 조절제인 디곡신(digoxin)과 FOLFIRINOX 항암 화학요법을 수술 전 병용 투여하는 치료법의 타당성과 안전성을 평가한 2상 임상시험입니다. 환자들은 2주 간격으로 항암 화학요법과 경구 디곡신을 복용하며, 종양의 안정적 유지 또는 반응 여부에 따라 추가 치료 후 수술을 진행하도록 설계되었습니다. 1차 평가변수는 임상적 독성이며, 반응률, 절제연 상태, 무진행 생존기간(PFS) 등도 함께 조사하고자 했습니다. 다만 해당 임상시험은 조기 종료(TERMINATED)되었습니다.
+이 연구는 수술 가능(resectable)한 췌장암 환자를 대상으로 저산소증 경로 조절제인 digoxin(디곡신)을 FOLFIRINOX(포피리녹스) 항암화학요법과 병용하여 투여할 때의 타당성과 안전성을 평가하기 위한 제2상 임상시험입니다. 환자들은 oxaliplatin(옥살리플라틴), irinotecan(이리노테칸), folinic acid(폴리닌산), 5-fluorouracil(5-플루오로우라실)로 구성된 항암치료와 함께 경구 디곡신을 투여받습니다. 연구의 주요 평가변수(primary endpoint)는 임상적 독성(clinical toxicity)이며, 절제면 상태, 반응률, 무진행 생존기간(PFS) 등이 함께 평가됩니다.
 
-- 수술 가능한 췌관선암 환자를 대상으로 수술 전 디곡신과 FOLFIRINOX 병용 치료의 안전성을 평가하고자 했습니다.
-- 목표 등록 인원은 11명이었으나 임상시험이 조기 종료(TERMINATED)되었습니다.
-- 초록에 구체적인 유효성 및 독성 수치는 명시되지 않았습니다.
+- 대상 환자: 수술 가능한 병기에 해당하는 병리학적으로 확진된 췌장암 환자 11명 목표.
+- 치료 방법: FOLFIRINOX 화학요법과 함께 저산소증 경로 조절 목적으로 digoxin을 경구 투여.
+- 평가 변수: 주요 평가변수는 임상적 독성이며, 병리학적 절제면 상태, 반응률, 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04141995) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04141995)</small>
 
 ---
-<a id="nct-nct05908747"></a>
-#### [췌장암의 수술 전후 치료에서 수루파티닙과 젬시타빈 및 나브-파클리탁셀 병용 요법의 유효성 및 안전성 평가](https://clinicaltrials.gov/study/NCT05908747)
-<small>Efficacy and Safety of Surufatinib Combined With Gemcitabine and Albumin-bound Paclitaxel in the Peri-operative Treatment of Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `진단·조기발견` `수술` · 2023-06-18 · ClinicalTrials.gov · Tianjin Medical University Cancer Institute and Hospital · 중요도 0.87
-
-**NCT05908747** · 2상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05908747.md)
-
-국소 진행성 또는 경계성 절제 가능 췌장암 환자를 대상으로 수술 전후 기간에 surufatinib(수루파티닙), gemcitabine(젬시타빈), nab-paclitaxel(알부민 결합 파클리탁셀) 병용 요법의 유효성과 안전성을 평가하는 2상 임상시험입니다. 이전에 전신 치료나 방사선 치료를 받지 않은 환자 29명을 목표로 진행되었습니다. 경구 표적치료제인 surufatinib과 표준 세포독성 항암제를 병용 투여하여 치료 반응과 잠재적 바이오마커를 탐색했습니다. 치료 결과에 대한 구체적인 수치는 초록에 명시되지 않았습니다.
-
-- 국소 진행성 또는 경계성 절제 가능 췌장암 환자 29명을 대상으로 진행된 2상 다기관 오픈라벨 임상시험입니다.
-- 이전 전신 치료를 받지 않은 환자에게 surufatinib 경구제와 gemcitabine, nab-paclitaxel 정맥주사를 병용 투여했습니다.
-- 유효성 및 안전성에 대한 최종 수치 결과는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05908747) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05908747)</small>
-
----
 <a id="nct-nct05911217"></a>
-#### [췌장암 수술 후 보조 화학요법을 받은 환자 대상 CT041의 유효성 및 안전성 평가 임상시험](https://clinicaltrials.gov/study/NCT05911217)
+#### [췌장암 수술 후 보조항암치료 이후 CT041의 효능 및 안전성을 평가하기 위한 연구](https://clinicaltrials.gov/study/NCT05911217)
 <small>A Study to Evaluate the Efficacy and Safety of CT041 After Adjuvant Chemotherapy for Pancreatic Cancer</small>
 
 `임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2023-06-20 · ClinicalTrials.gov · CARsgen Therapeutics Co., Ltd. · 중요도 0.84
 
 **NCT05911217** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05911217.md)
 
-본 임상시험은 수술 및 보조 화학요법을 완료한 클라우딘 18.2(CLDN18.2) 양성 췌장암 환자를 대상으로 자가 CAR-T 세포 치료제인 CT041의 유효성과 안전성을 평가하는 1b상 연구입니다. 육안상 완전 절제를 받은 pTNM 병기 T1-3, N0-2, M0 단계의 췌관선암(PDAC) 환자 20명을 대상으로 진행됩니다. CLDN18.2 표적 치료로서 수술 및 표준 보조 요법 이후 치료 효과를 확인하는 것을 목표로 합니다.
+이 연구는 췌장암 수술 후 보조항암치료(adjuvant chemotherapy)를 마친 환자를 대상으로 CLDN18.2 양성인 경우 자가 CAR T세포 주사제인 CT041의 효능과 안전성을 평가하는 공개, 단일군, 다기관, 제1b상 임상시험입니다. 대상 질환은 췌장관선암(pancreatic ductal adenocarcinoma)이며, 목표 인원은 20명입니다. 초록에 구체적인 효능 및 안전성 결과 수치는 명시되지 않았습니다.
 
-- 수술 후 표준 보조 화학요법을 완료한 CLDN18.2 양성 췌장암 환자를 대상으로 합니다.
-- CLDN18.2를 표적으로 하는 자가 CAR-T 세포치료제 CT041의 유효성과 안전성을 평가합니다.
-- 목표 대상자 수는 총 20명이며 단일군 1b상 임상시험으로 진행됩니다.
+- 목표 인원은 20명이며, 연령은 18세에서 79세 사이의 췌장암 환자를 대상으로 합니다.
+- Claudin18.2(CLDN18.2) 양성 발현을 보이는 췌장관선암 환자가 참여합니다.
+- 치료 중내는 CT041 자가 CAR T세포 주사(CT041 autologous CAR T-cell injection)입니다.
+- 구체적인 생존기간, 반응률, 위험비 등의 결과는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05911217) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05911217)</small>
 
 ---
 <a id="nct-nct06454383"></a>
-#### [진행성 절제불가능 췌장암 환자에서 gemcitabine과 leflunomide 병용요법 1상 임상시험](https://clinicaltrials.gov/study/NCT06454383)
+#### [진행성 절제불능 췌장암 환자에서 gemcitabine과 leflunomide 병용요법 1상 임상시험](https://clinicaltrials.gov/study/NCT06454383)
 <small>Gemcitabine and Leflunomide in Patients With Advanced Unresectable Pancreatic Cancer</small>
 
 `임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2024-06-12 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.84
 
 **NCT06454383** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06454383.md)
 
-이 1상 임상시험(phase Ib trial)은 진행성 절제불가능 췌장암(advanced unresectable pancreatic cancer) 환자를 대상으로 leflunomide와 gemcitabine을 병용 투여하는 치료의 안전성, 부작용, 그리고 권장 2상 용량(RP2D)을 평가합니다. gemcitabine은 췌장암의 흔한 1차 항암화학요법이며, 류머티즘 관절염 치료제인 leflunomide를 항암 목적으로 함께 사용하여 효과를 높이고자 합니다. 연구진은 병용 치료의 안전성과 내인성을 확인하고, 무진행 생존기간(PFS) 및 전체 생존기간(OS), 전체 반응률(ORR), 삶의 질을 평가합니다. 환자들은 주기적으로 gemcitabine 정맥 투여와 leflunomide 경구 투여를 받으며 치료 경과를 관찰받습니다.
+이 1상 임상시험은 수술로 제거할 수 없는 진행성 췌장암 환자를 대상으로 gemcitabine과 leflunomide를 함께 투여했을 때의 안전성, 부작용 및 권장 2상 용량(RP2D)을 평가합니다. Gemcitabine은 췌장암의 1차 항암화학요법으로 흔히 사용되며, 류머티즘 관절염 치료제인 leflunomide를 병용하여 효과를 높이고자 합니다. 연구진은 두 약물 병용의 안전성과 함께 무진행 생존기간(PFS), 전체 생존기간(OS), 전체 반응률(ORR) 및 삶의 질을 평가합니다. 총 19명의 환자를 목표로 진행되며, 환자들은 정맥 투여되는 gemcitabine과 경구 투여되는 leflunomide를 복용합니다.
 
-- 진행성 절제불가능 췌장암 환자 19명을 목표로 진행되는 1상 임상시험입니다.
-- Leflunomide와 gemcitabine 병용 투여의 안전성, 내인성 및 권장 2상 용량(RP2D)을 평가합니다.
-- 이차 목적은 무진행 생존기간(PFS), 전체 생존기간(OS), 전체 반응률(ORR) 및 환자의 삶의 질(FACT-G) 평가입니다.
+- 진행성 절제불능 췌장암 환자를 대상으로 gemcitabine과 leflunomide의 병용 투여 안전성과 권장 2상 용량을 평가하는 1상 임상시험입니다.
+- 2차 평가변수로는 무진행 생존기간(PFS), 전체 생존기간(OS), 전체 반응률(ORR), 그리고 삶의 질(FACT-G)이 포함됩니다.
+- 목표 환자 수는 19명이며, 국내 기관 참여는 없습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06454383) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06454383)</small>
 
@@ -115,29 +117,29 @@ search:
 
 **NCT05851534** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05851534.md)
 
-이 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 최적화 프로그램(재활 사전 준비 프로그램, prehabilitation program)을 시행하여 수술 결과가 개선되는지 조사하는 무작위 대조 시험입니다. 주요 연구 질문은 췌장 수술 후 기능적 회복까지의 시간을 단축하는지와 종합 합병증 지수(Comprehensive Complication Index)를 감소시키는지 확인하는 것입니다. 네덜란드 전역의 13개 센터에서 총 2,575명의 환자를 목표로 진행됩니다. 환자들은 체력, 영양실조, 심리적 회복력, 빈혈, 혈당 조절, 허약, 음주 및 흡연 습관 등 8가지 위험 요소에 대한 선별 검사와 맞춤형 중재를 받게 됩니다.
+본 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 8가지 위험 요소를 선별하고 개입하는 재활 프로그램(prehabilitation program)이 수술 결과에 미치는 영향을 조사합니다. 목표 인원은 2575명이며 네덜란드의 13개 의료기관에서 진행되는 단계적 쐐기형 무작위 대조 시험(stepped-wedge randomized controlled trial)입니다. 주요 연구 질문은 췌장 수술 후 기능적 회복까지의 시간 단축 및 종합 합병증 지수(Comprehensive Complication Index)의 감소 여부입니다.
 
-- 목표 인원은 총 2,575명입니다.
-- 네덜란드 췌장암 그룹(Dutch Pancreatic Cancer Group) 소속 13개 센터가 참여합니다.
-- 수술 전 8가지 위험 요소(체력, 영양, 심리, 빈혈, 혈당, 허약, 음주, 흡연)를 관리하는 다중모달 사전 재활 프로그램을 평가합니다.
-- 주요 평가지표는 수술 후 기능적 회복 시간과 종합 합병증 지수 감소 여부입니다.
+- 목표 인원은 2575명이며 네덜란드 췌장암 그룹(DPCG) 소속 13개 센터가 참여합니다.
+- 수술 전 운동 능력, 영양 불량, 심리적 회복력, 빈혈, 당뇨 조절, 허약, 음주 및 흡연 등 8가지 위험 요소를 최적화합니다.
+- 대조군은 현재 진료 지침에 따른 수술 전 관리입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05851534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05851534)</small>
 
 ---
 <a id="nct-nct06173310"></a>
-#### [경계성 절제 가능 췌장암 환자를 위한 DCE-MRI 유도 선행항암화학요법](https://clinicaltrials.gov/study/NCT06173310)
+#### [경계성 절제 가능 췌장암 환자에서 동적 조영증강 자기공명영상(DCE-MRI) 유도 선행화학요법](https://clinicaltrials.gov/study/NCT06173310)
 <small>DCE-MRI Guided Neoadjuvant Chemotherapy for Borderline Resectable Pancreatic Cancer</small>
 
-`임상시험` `기타` `치료 전반` `진단·조기발견` `수술` · 2023-12-15 · ClinicalTrials.gov · Ohio State University · 중요도 0.74
+`임상시험` `기타` `진단·조기발견` `치료 전반` `수술` · 2023-12-15 · ClinicalTrials.gov · Ohio State University · 중요도 0.74
 
 **NCT06173310** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06173310.md)
 
-이 연구는 동적 조영증강 자기공명영상(DCE-MRI)을 활용한 새로운 영상 유도 방식이 경계성 절제 가능 췌장암(borderline resectable pancreatic cancer) 환자에게 기존 방법보다 종양을 더 효과적으로 줄여 완치 목적의 수술을 가능하게 하는지 시험합니다. 연구진은 치료 초기 종양의 혈류량 변화를 측정하여 현재 진행 중인 치료가 효과적인지 판단하고 치료 지속 여부를 결정하고자 합니다. 본 임상시험의 목표 인원은 50명이며 현재 환자를 모집 중입니다. 중재 방법으로는 현장 진단용 휴대용 관류 팬텀(P4)이 사용됩니다.
+이 연구는 동적 조영증강 자기공명영상(DCE-MRI)이라는 새로운 영상 검사법을 활용해 췌장암 치료 효과를 더 효과적으로 측정할 수 있는지 확인합니다. 새로 진단받고 치료받지 않은 경계성 절제 가능 췌장암 환자를 대상으로 합니다. 종내 혈류 변화를 측정한 뒤 치료 효과를 조기에 판정하여 수술 가능성을 높이는 것을 목표로 합니다. 총 목표 인원은 50명이며 현재 환자 모집 중입니다.
 
-- 대상 질환은 새롭게 진단되었으며 치료를 받지 않은 경계성 절제 가능 췌장암입니다.
-- 동적 조영증강 자기공명영상(DCE-MRI)을 통해 종양의 혈류량 변화를 측정하여 치료 효과를 평가합니다.
-- 목표 연구 참여 인원은 총 50명입니다.
+- 대상 질환은 경계성 절제 가능 췌장암(Borderline-resectable Pancreatic Cancer)입니다.
+- 목표 연구 참여 인원은 50명입니다.
+- 중재 방법은 현장 진료용 휴대용 관류 팬텀(P4)을 이용하는 DCE-MRI입니다.
+- 초록에 생존기간이나 반응률 등의 수치는 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06173310) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06173310)</small>
 
@@ -237,23 +239,6 @@ search:
 - 1차 평가변수는 안전성과 타당성이며, 2차 평가변수로 최장 3년간 간 전이 없는 생존기간(LMFS) 및 전체 생존기간(OS)을 추적합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05634720) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05634720)</small>
-
----
-<a id="nct-nct04858334"></a>
-#### [APOLLO: BRCA1, BRCA2 또는 PALB2 변이가 있는 절제된 췌장암 환자에서 근치적 치료 후 올라파립 대 위약을 비교하는 무작위 2상 임상시험](https://clinicaltrials.gov/study/NCT04858334)
-<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
-
-**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
-
-이 임상시험은 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 췌장암 환자를 대상으로 수술과 수술 전후 항암화학요법을 마친 후 PARP 억제제인 olaparib(올라파립)을 투여해 재발 방지 효과를 평가하는 2상 연구입니다. 환자들은 근치적 절제술과 최소 3개월 이상의 다제 병용 항암화학요법을 완료해야 하며, 암의 재발이나 전이 증거가 없어야 합니다. 참여자는 올라파립 복용군 또는 위약 복용군으로 1:1 무작위 배정되어 28일 주기로 최대 12주기(약 1년) 동안 약물을 복용합니다. 본 연구는 올라파립 유지요법이 위약 대비 무재발 생존기간(RFS)을 유의미하게 연장할 수 있는지 확인하는 것을 주 목적으로 합니다.
-
-- 근치적 수술 및 최소 3개월 이상의 수술 전후 항암치료를 마친 BRCA1, BRCA2, PALB2 변이 췌장암 환자 152명을 대상으로 진행됩니다.
-- PARP 억제제인 올라파립과 위약을 비교하여 무재발 생존기간(RFS) 및 전체 생존기간(OS) 개선 여부를 평가합니다.
-- 이전 백금 기반 항암화학요법 중 질병이 진행했던 환자는 참여 대상에서 제외됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
 
 ---
 <a id="nct-nct04926467"></a>
@@ -2496,5 +2481,22 @@ IMPULS 임상시험은 수술이 예정된 췌장암 환자 30명을 대상으�
 - 환자들은 2주 간격으로 총 4회의 치료를 받고, 치료 후 6개월 동안 추적 관찰을 거칩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07575191) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07575191)</small>
+
+---
+<a id="nct-nct07692750"></a>
+#### [진행성 췌장암에서 IBI343과 항암화학요법 병용요법에 대한 임상 1b/2상 시험](https://clinicaltrials.gov/study/NCT07692750)
+<small>IBI343 Combined With Chemotherapy in Advanced Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-09 · ClinicalTrials.gov · Zhejiang Cancer Hospital · 중요도 0.80
+
+**NCT07692750** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07692750.md)
+
+본 임상시험은 CLDN18.2 양성 진행성 췌장선암(PAC) 환자를 대상으로 IBI343과 항암화학요법(capecitabine 또는 capecitabine+oxaliplatin)을 병용하여 안전성, 내인성, 유효성을 평가하기 위한 1b/2상 연구입니다. 1차 젬시타빈(gemcitabine) 기반 전신 치료 후 진행 또는 불내성을 보인 환자들이 등록 대상입니다. 1b상은 용량 팽창 및 안전성 도입(safety introduction) 단계로 진행되며, 이어서 2상 확장 단계에서 유효성을 평가합니다. 총 목표 인원은 56명입니다.
+
+- 목표 인원은 총 56명이며 국내 기관은 0곳입니다.
+- 1b/2상 임상시험으로 IBI343과 capecitabine 또는 oxaliplatin의 병용 투여 안전성과 용량을 평가합니다.
+- 참여 대상은 1차 젬시타빈 기반 치료 경험이 있는 CLDN18.2 양성 진행성 췌장선암 환자입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07692750) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07692750)</small>
 
 ---

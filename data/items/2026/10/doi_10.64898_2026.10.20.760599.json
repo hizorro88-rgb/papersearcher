@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive tumor characterized by metabolic plasticity that enables cancer cells to survive nutrient deprivation and therapeutic stress. Melanoma-associated antigens A3 and A6 (MAGEA3/6), members of the cancer-testis antigen family with a previously identified protective role in spermatogenesis during nutritional stress, have been implicated in cancer progression and metabolic regulation. However, their contribution to metabolic adaptation in pancreatic cancer remains poorly understood. Here, we investigated the molecular mechanisms underlying MAGEA3/6-mediated resistance to glycolytic inhibition using complementary gain- and loss-of-function models, pharmacological inhibition of metabolic pathways, cellular metabolic assays, and integrated transcriptomic, proteomic, metabolomic, and lipidomic analyses. MAGEA3/6 expression enhanced resistance to 2-deoxy-D-glucose (2-DG), with MAGEA6-expressing MIA PaCa-2 cells exhibiting a greater than 2.5-fold increase in the half-maximal inhibitory concentration (IC50). Conversely, MAGEA3/6 depletion reduced clonogenic growth and migration and increased sensitivity to 2-DG. Resistance persisted despite pharmacological inhibition of mTORC1, the pentose phosphate pathway, or glutaminase, suggesting metabolic adaptations beyond these pathways. Unexpectedly, MAGEA6 expression was associated with increased rather than decreased AMPKα1 protein abundance, contrasting with previously reported MAGEA3/6-mediated AMPK degradation and suggesting context-dependent regulation of this master regulator of cellular metabolism. MAGEA6 also reduced hexokinase HK1 and HK2 abundance while increasing several downstream glycolytic enzymes, revealing discordant regulation of glycolysis. Seahorse analyses and integrated multi-omics profiling identified extensive remodeling of mitochondrial metabolism, glutamine-aspartate metabolism, phospholipid composition, lipid storage, and redox homeostasis. Interestingly, despite enhanced resistance to glycolytic inhibition, MAGEA6-expressing cells exhibited increased sensitivity to hydrogen peroxide-induced oxidative stress, revealing a potential metabolic vulnerability. Given that MAGEA3/6 are physiologically expressed primarily in the male germline during early spermatogenesis, a process highly sensitive to metabolic and oxidative stress, these findings also raise important questions about their physiological roles in protecting developing germ cells and maintaining metabolic and redox homeostasis. Together, our findings recognize MAGEA3/6 as regulators of metabolic plasticity in PDAC and highlight how understanding their molecular functions in both spermatogenesis and cancer may uncover previously unrecognized metabolic vulnerabilities and potential therapeutic opportunities.",
+ "authors": [
+  "Tozandehjani S",
+  "Jurjevic V",
+  "Stepihar D",
+  "Hoyos Sanchez MC",
+  "Uhan S",
+  "Koren J",
+  "Florke Gee RR",
+  "Solano-Gutierrez JS"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-22",
+ "history": [
+  {
+   "date": "2026-10-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.20.760599",
+ "importance": 0.54,
+ "key_points_ko": [
+  "MAGEA6를 발현하는 MIA PaCa-2 췌장암 세포는 당분해 억제제 2-DG에 대한 반수 최대 억제 농도(IC50)가 2.5배 이상 증가했습니다.",
+  "MAGEA3/6 단백질을 억제했을 때 췌장암 세포의 집락 형성 및 이동 능력이 감소하고 2-DG 감수성이 높아졌습니다.",
+  "MAGEA6 발현 세포는 당분해 억제 저항성에도 불구하고 과산화수소로 인한 산화적 스트레스에 높은 감수성을 나타내는 대사적 취약점을 보였습니다."
+ ],
+ "last_updated": "2026-10-22",
+ "links": {
+  "doi": "10.64898/2026.10.20.760599",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1347256"
+ },
+ "summary_ko": "본 연구는 암-고환 항원(CTA)인 MAGEA3/6 단백질이 췌관선암(PDAC) 세포의 대사 적응 및 저항성에 미치는 영향을 분석했습니다. MAGEA3/6 발현은 당분해 억제제인 2-deoxy-D-glucose(2-DG)에 대한 저항성을 유의하게 높였습니다. 반대로 MAGEA3/6을 억제하면 암세포의 증식과 이동 능력이 감소하고 2-DG에 대한 감수성이 증가했습니다. 당분해 억제에 저항성을 보인 MAGEA6 발현 세포는 과산화수소에 의한 산화적 스트레스에는 오히려 취약해지는 대사적 약점을 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Testis-Specific MAGEA3/6 Regulate Glycolysis to Promote Metabolic Flexibility and Reveal Therapeutic Vulnerabilities in Pancreatic Cancer Cells",
+ "title_ko": "고환 특이적 MAGEA3/6의 당분해 조절을 통한 췌장암 세포의 대사 유연성 촉진 및 치료적 취약점 규명",
+ "trial": null,
+ "type": "preprint"
+}

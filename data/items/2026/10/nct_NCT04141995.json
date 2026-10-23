@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "diagnosis"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "folfirinox"
@@ -22,11 +22,11 @@
  "id": "nct:NCT04141995",
  "importance": 0.87,
  "key_points_ko": [
-  "수술 가능한 췌관선암 환자를 대상으로 수술 전 디곡신과 FOLFIRINOX 병용 치료의 안전성을 평가하고자 했습니다.",
-  "목표 등록 인원은 11명이었으나 임상시험이 조기 종료(TERMINATED)되었습니다.",
-  "초록에 구체적인 유효성 및 독성 수치는 명시되지 않았습니다."
+  "대상 환자: 수술 가능한 병기에 해당하는 병리학적으로 확진된 췌장암 환자 11명 목표.",
+  "치료 방법: FOLFIRINOX 화학요법과 함께 저산소증 경로 조절 목적으로 digoxin을 경구 투여.",
+  "평가 변수: 주요 평가변수는 임상적 독성이며, 병리학적 절제면 상태, 반응률, 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가."
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -49,20 +49,20 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04141995"
  },
- "summary_ko": "수술이 가능한 췌관선암 환자를 대상으로 저산소증 경로 조절제인 디곡신(digoxin)과 FOLFIRINOX 항암 화학요법을 수술 전 병용 투여하는 치료법의 타당성과 안전성을 평가한 2상 임상시험입니다. 환자들은 2주 간격으로 항암 화학요법과 경구 디곡신을 복용하며, 종양의 안정적 유지 또는 반응 여부에 따라 추가 치료 후 수술을 진행하도록 설계되었습니다. 1차 평가변수는 임상적 독성이며, 반응률, 절제연 상태, 무진행 생존기간(PFS) 등도 함께 조사하고자 했습니다. 다만 해당 임상시험은 조기 종료(TERMINATED)되었습니다.",
+ "summary_ko": "이 연구는 수술 가능(resectable)한 췌장암 환자를 대상으로 저산소증 경로 조절제인 digoxin(디곡신)을 FOLFIRINOX(포피리녹스) 항암화학요법과 병용하여 투여할 때의 타당성과 안전성을 평가하기 위한 제2상 임상시험입니다. 환자들은 oxaliplatin(옥살리플라틴), irinotecan(이리노테칸), folinic acid(폴리닌산), 5-fluorouracil(5-플루오로우라실)로 구성된 항암치료와 함께 경구 디곡신을 투여받습니다. 연구의 주요 평가변수(primary endpoint)는 임상적 독성(clinical toxicity)이며, 절제면 상태, 반응률, 무진행 생존기간(PFS) 등이 함께 평가됩니다.",
  "summary_source": "llm",
  "tags": [
   "Resectable"
  ],
  "title": "FOLFIRINOX With Digoxin in Patients With Resectable Pancreatic Cancer",
- "title_ko": "수술 가능한 췌장암 환자 대상 FOLFIRINOX와 디곡신(Digoxin) 병용 요법 2상 임상시험",
+ "title_ko": "수술 가능한 췌장암 환자에서 FOLFIRINOX와 디곡신 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
    "Adenocarcinoma of the Pancreas"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 병리학적으로 확인된 원격 전이가 없는 수술 가능한 췌관선암\n* 19세 이상\n* ECOG 수행능력 평가 점수 0~1점\n* 췌장암에 대한 이전 화학요법 치료를 받은 적이 없는 환자\n* 방사선학적으로 평가 가능한 병변이 있는 환자\n* 적절한 골수, 간 및 신장 기능 수치 (ANC 1,000/μL 이상, 혈소판 100,000/μL 이상, 혈청 크레아티닌 2.0 mg/dL 이하 등)\n\n제외 기준:\n* 디곡신(digoxin) 투여 금기 환자 (방실차단, 동기능부전증후군, 서맥, 디곡신 과민증 등)\n* 복강경 병기 설정 수술이 불가능한 환자 (다발성 복부 수술 병력 등)\n* 조절되지 않는 중대한 전신 질환 (정맥 항생제가 필요한 감염, 울혈성 심부전, 불안정 협심증, 심각한 부정맥 등)\n* 5년 이내 다른 암 병력 (치료된 피부 기저세포암 등 제외)\n* 활동성 자가면역 질환 또는 선천성/후천성 면역결핍 질환\n* 활동성 B형/C형 간염 또는 HIV 감염 환자, 임신 및 수유부",
+  "eligibility_ko": "선정 기준:\n- 병리학적으로 확진된 췌장암 선암(pancreatic adenocarcinoma) 환자로, 원격 전이의 증거가 없고 수술 가능한 상태\n- 19세 이상\n- 동유럽 항암연구 협력그룹(ECOG) 수행능력 평가 0~1\n- 영상 검사로 평가 가능한 병변 존재\n- 췌장암에 대한 이전 항암화학요법 치료력이 없음\n\n제외 기준:\n- 복강경 병기 설정 수술을 받을 수 없는 경우 (복부 수술 이력 등으로 인한 기술적 한계 등)\n- 디곡신(digoxin) 치료에 대한 금기 사항이 있는 경우 (방실 차단, 서맥 등)\n- 조절되지 않는 동반 질환 또는 심각한 심장 질환\n- 임신 중이거나 수유 중인 여성\n- 5년 이내의 다른 악성 종양 병력 (적절히 치료된 기저세포암, 편평세포 피부암, 상피내암 제외)\n- 알려진 HIV 감염 또는 활동성 B형/C형 간염\n- 활동성 자가면역 질환",
   "eligibility_text": "Inclusion Criteria:\n\n* Pathologically confirmed pancreatic adenocarcinoma. Participants must have resectable disease with no evidence of distant metastasis.\n* 19 years of age or older.\n* Eastern Cooperative Oncology Group (ECOG) Performance Scale (PS) of 0-1 (fully active to restricted in strenuous activity).\n* Chemotherapy for malignancies other than pancreatic cancer completed \\> 5 years ago and is no evidence of the prior malignancy at time of study entry.\n* Radiographically assessable disease.\n* Initial absolute neutrophil count (ANC) greater than or equal to 1000/μL and platelet count greater than or equal to 100,000/μL.\n* Normal serum potassium, magnesium and corrected calcium level.\n* Serum creatinine less than or equal to 2.0 mg/dL.\n* Total bilirubin \\<= 1.5 mg/dL \\[unless the participant has Gilbert disease with elevated non-conjugated (indirect) bilirubin; in such cases, the indirect bilirubin should be \\<= 1.0 mg/dL\\].\n* If participant has biliary obstruction, biliary decompression will be required. Either endoscopic placement of biliary stent or percutaneous transhepatic drainage are acceptable. Once biliary drainage has been established, institution of FOLFOX therapy may proceed when the total bilirubin falls to \\<= 5.0 mg/dL. The addition of irinotecan will be delayed until the total bilirubin is 1.5 mg/dL or lower.\n* Awareness of the neoplastic nature of his/her disease and willingly provide written, informed consent after being informed of the procedure to be followed, the experimental nature of the therapy, alternatives, potential benefits, side-effects, risks, and discomforts.\n* No prior chemotherapy for pancreatic cancer.\n\nExclusion Criteria:\n\n* Unable to undergo staging laparoscopy, such as a prior history of multiple abdominal operations in which laparoscopy may not be technically feasible or might be potentially harmful.\n* A contra-indication to receiving digoxin therapy (e.g., AV block, sick sinus syndrome, bradycardia, hypersensitivity to digoxin or digitalis preparations).\n* Uncontrolled inter-current illness including, but not limited to ongoing or active infection requiring intravenous antibiotics, symptomatic congestive heart failure, unstable angina pectoris, or serious, uncontrolled cardiac arrhythmia, that might jeopardize the ability of the participant to receive the therapy in this study with reasonable safety.\n* Pregnant and nursing women (risk posed by chemotherapy agents). Female participants of childbearing potential must have a negative urine pregnancy test before receiving the first dose of study drug.\n* Prior malignancy except for adequately treated basal cell or squamous cell skin cancer, adequately treated non-invasive carcinomas, or other cancers from which the participant has been disease-free least 5 years.\n* Known HIV infection or active hepatitis B or C infection (concern for increased toxicity).\n* Active autoimmune disease \\[e.g., rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), ulcerative colitis (UC), Crohn's Disease, multiple sclerosis (MS), ankylosing spondylitis (AS)\\].\n* Recognized acquired, hereditary, or congenital immunodeficiency disease including cellular immunodeficienciess, hypogammaglobulinemia, or dysgammaglobulinemia.",
   "enrollment": 11,
   "has_results": true,
@@ -83,20 +83,20 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "디곡신 투여 금기 심장 질환(방실차단, 서맥, 심부전, 부정맥 등)",
-    "복강경 병기 설정 수술이 불가능한 다발성 복부 수술 병력",
-    "5년 이내 다른 암 병력",
-    "활동성 감염, 활동성 자가면역 질환 또는 면역결핍 질환"
+    "디곡신 치료 금기증(방실 차단, 서맥 등)",
+    "조절되지 않는 심장 질환 또는 심각한 동반 질환",
+    "임신 또는 수유 중",
+    "다른 암 병력",
+    "활동성 감염 또는 자가면역 질환"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 항암 치료를 받은 적이 없는 수술 가능한 췌관선암 환자 대상",
+   "notes_ko": "이전 항암 치료력이 없는 수술 가능 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
    "source": "llm"
   },

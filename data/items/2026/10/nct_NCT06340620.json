@@ -19,10 +19,10 @@
  "importance": 0.74,
  "key_points_ko": [
   "목표 환자 수는 140명입니다.",
-  "표준 초음파내시경과 새로 개발된 EndoSound Visual System을 비교합니다.",
-  "췌장, 담도, 종격동 또는 복강 내 림프절, 위장관 병변 평가를 위해 내시경초음파(EUS) 검사를 받는 환자가 대상입니다."
+  "표준 초음파내시경과 새로운 EndoSound Visual System을 비교하는 무작위 임상시험입니다.",
+  "췌장, 담도, 종격동 또는 복강내 림프절, 위장관 병변 평가를 위해 EUS 검사를 받는 환자가 대상입니다."
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06340620"
  },
- "summary_ko": "이 연구는 위장관 및 췌담도 병변 평가를 위해 새로 개발된 EndoSound Visual System과 표준 초음파내시경(echoendoscope)을 비교하는 무작위 임상시험입니다. 초음파내시경은 높은 민감도와 특이도로 췌담도 질환 등의 진단에 표준으로 사용됩니다. 새로 개발된 EndoSound Visual System은 상부 위장관 내시경에 외장형으로 부착하여 일반 내시경을 초음파내시경으로 변환하는 장비입니다. 본 연구는 이 두 시스템의 성능을 비교하기 위해 140명의 환자를 대상으로 진행됩니다.",
+ "summary_ko": "이 임상시험은 위장관 및 췌담도 병변 평가를 위해 표준 초음파내시경과 새로 개발된 EndoSound Vision System을 비교하는 무작위 연구입니다. 초음파내시경(EUS)은 높은 민감도와 특이도로 췌담도 질환 등의 평가와 생검에 표준으로 사용됩니다. EndoSound Visual System은 일반 상부 위장관 내시경에 외부 부착하여 초음파내시경으로 전환할 수 있는 새로운 장치입니다. 본 연구는 140명의 환자를 대상으로 두 시스템의 성능을 비교합니다.",
  "summary_source": "llm",
  "tags": [
   "Endoscopic ultrasound",
@@ -53,7 +53,7 @@
   "Randomized trial"
  ],
  "title": "EUS Examination Using EndoSound Vision System vs. Standard Echoendoscope",
- "title_ko": "EndoSound Vision System과 표준 초음파내시경을 비교하는 내시경초음파(EUS) 검사",
+ "title_ko": "표준 초음파내시경과 EndoSound Visual System의 내시경 초음파 검사 비교",
  "trial": {
   "conditions": [
    "Pancreatic Disease",
@@ -78,7 +78,7 @@
     "phone": "321-841-4356"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 췌장, 담도, 종격동 또는 복강 내 림프절, 식도, 위, 십이지장, 대장의 병변 평가를 위해 내시경초음파(EUS) 검사를 받는 모든 환자\n\n제외 기준:\n* 18세 미만\n* 환자 또는 대리인으로부터 시술 동의를 받을 수 없는 경우\n* 자궁내 임신",
+  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 췌장, 담도, 종격동 또는 복강내 림프절, 식도, 위, 십이지장, 대장의 병변 평가를 위해 EUS 검사를 받는 모든 환자\n\n제외 기준:\n* 18세 미만\n* 환자 또는 대리인으로부터 시술 동의를 받을 수 없는 경우\n* 자궁 내 임신",
   "eligibility_text": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Any patient undergoing EUS examination for evaluation of the pancreas, bile duct, mediastinal or intraabdominal lymph nodes, or luminal lesions in the esophagus, stomach, duodenum or colon.\n\nExclusion Criteria:\n\n* Age \\< 18 years.\n* Unable to obtain consent for the procedure from either the patient or LAR.\n* Intrauterine pregnancy.",
   "enrollment": 140,
   "has_results": false,
@@ -97,12 +97,12 @@
    "key_exclusions_ko": [
     "18세 미만",
     "시술 동의 불가",
-    "자궁내 임신"
+    "자궁 내 임신"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "초음파내시경(EUS) 검사가 필요한 췌장, 담도 등 위장관 질환 환자",
+   "notes_ko": "췌장 질환 등을 포함하여 내시경 초음파(EUS) 검사가 필요한 18세 이상 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

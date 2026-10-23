@@ -20,11 +20,12 @@
  "id": "nct:NCT02432963",
  "importance": 0.7,
  "key_points_ko": [
-  "대상 질환에는 췌장암을 포함한 다양한 진행성 고형암이 포함됩니다.",
-  "중재 치료로 p53MVA 백신(modified vaccinia virus Ankara vaccine expressing p53)과 펨브롤리주맙(pembrolizumab)이 사용됩니다.",
-  "1차 목적은 병용 요법의 안전성과 내뢰성을 확인하는 것입니다."
+  "목표 환자 수는 11명입니다.",
+  "p53MVA 백신과 펨브롤리주맙(pembrolizumab)을 병용 투여했습니다.",
+  "1차 목적은 안전성과 내인성 평가입니다.",
+  "임상시험 단계는 1상(PHASE1)입니다."
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02432963"
  },
- "summary_ko": "본 임상시험은 표준 치료에 실패한 진행성 고형암 환자들을 대상으로 p53MVA 백신과 펨브롤리주맙(pembrolizumab) 병용 투여의 안전성과 내뢰성을 평가하는 1상 연구입니다. p53 단백질이 과발현되거나 변이가 있는 환자들을 대상으로 하며, 백신 요법과 면역관문억제제의 병용을 통해 면역 반응을 유도하고자 합니다. 연구에는 총 11명의 목표 인원이 참여하도록 설계되었습니다.",
+ "summary_ko": "이 1상 임상시험은 표준 치료에 실패한 진행성 고형암 환자를 대상으로 p53MVA 백신과 펨브롤리주맙(pembrolizumab) 병용 투여의 안전성과 내인성을 평가합니다. 유전자 조작된 바이러스 백신과 면역관문억제제를 함께 사용하여 면역 반응을 유도합니다. 췌장암을 포함한 다양한 고형암 환자 11명을 목표로 진행되었습니다. 초록에 유효성 결과 수치는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Vaccine Therapy and Pembrolizumab in Treating Patients With Solid Tumors That Have Failed Prior Therapy",
- "title_ko": "진행성 고형암 환자를 위한 백신 치료와 펨브롤리주맙 병용 임상 1상 시험",
+ "title_ko": "진행성 고형암 환자를 위한 백신 치료와 펨브롤리주맙 병용 임상시험",
  "trial": {
   "conditions": [
    "Adult Solid Neoplasm",
@@ -73,7 +74,7 @@
    "Unresectable Solid Neoplasm"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 췌장암을 포함하여 p53 변이 또는 과발현이 확인된 진행성(절제 불가능한) 고형암 환자\n- 최소 1가지 이상의 표준 치료에 실패 또는 불내성이거나 표준 치료를 거부한 환자\n- 동유럽암연구협력그룹(ECOG) 수행능력 2 이하\n- 절대호중구수(ANC) 1,500/uL 이상, 혈소판 100,000/uL 이상, 헤모글로빈 9 g/dL 초과\n- 신장 기능, 간 기능 검사 기준 충족\n\n제외 기준:\n- 뇌전이 병력이 있는 환자\n- 이전에 항 PD-1 또는 항 PD-L1 치료를 받은 적이 있는 환자\n- 자가면역 질환 또는 면역결핍 병력이 있는 환자\n- 임신 중이거나 수유 중인 여성\n- 심장 질환 병력 또는 비정상적인 심전도/트로포닌 수치",
+  "eligibility_ko": "선정 기준: \n- 췌장암을 포함한 진행성 고형암 환자\n- 최소 1가지 이상의 표준 치료에 실패 또는 불내성이거나 표준 치료를 거부한 경우\n- Eastern Cooperative Oncology Group(ECOG) 수행능력 2 이하\n- p53 과발현 또는 p53 변이가 확인된 경우\n\n제외 기준: \n- 임상시험용 약물 또는 방사선 치료를 추가로 받는 환자\n- 임산부 또는 수유부\n- 뇌전이가 있는 환자\n- 이전에 anti-PD-1 또는 anti-PD-L1 치료를 받은 적이 있는 환자\n- 면역결핍 또는 자가면역질환 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Since p53 mutations occur in a wide variety of tumor types, this is a mixed histology study for incurable tumors; subjects with the following solid tumors are eligible for screening: non-small cell lung cancer, squamous cell carcinoma of the head and neck, hepatocellular carcinoma, renal cell carcinoma, melanoma, bladder, soft tissue sarcoma, triple-negative breast cancer, and colorectal carcinoma displaying microsatellite instability and pancreatic cancer\n* Advanced (unresectable) solid tumors: patients must have failed or been intolerant to at least one line of standard therapy or refuse standard treatment\n* Performance status: patients must have an Eastern Cooperative Oncology Group (ECOG) =\\< 2 (Karnofsky \\>= 60%)\n* Informed consent: all subjects must have the ability to understand and the willingness to sign an Institutional Review Board (IRB) approved consent form\n* Absolute neutrophil count: \\>= 1,500/ul\n* Platelets \\>= 100,000/ul\n* Hemoglobin level: must be greater than 9 g/dL\n* Renal function: calculated or measured creatinine clearance \\>= 50 ml/min and/or serum creatinine =\\< 1.6 mg/dl\n* Total bilirubin =\\< 1.5 x institutional upper limit of normal\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =\\< 3 times institutional upper normal level (AST and ALT =\\< 5 times institutional upper normal level, if there is evidence of liver metastasis)\n* Confirmed p53 involvement: patients with p53 over-expression by immunohistochemistry (\\>= 10% of cells within the tumor staining positive) or those with a p53 mutation as determined by mutational analysis of tumor tissue will be eligible; patients with prior exposure to p53-based vaccines will be eligible\n* Agreement to use adequate contraception: women of child-bearing potential must use contraception prior to study entry and for six months after study participation; men that are sexually active whose partners are women of childbearing age must use condoms\n\nExclusion Criteria:\n\n* Patients may not be receiving any additional investigational agents or radiation therapy\n* Pregnancy: pregnant women are excluded from this study; should a woman become pregnant or suspect that she is pregnant while participating on the trial, she should inform her treating physician immediately; women who are pregnant or breastfeeding are excluded\n* Patients with known brain metastasis\n* Radiotherapy within 4 weeks prior to entering the study\n* Patients with previous exposure to anti-programmed cell death (PD)-1 or anti-programmed cell death ligand 1 (PDL-1) will not be eligible\n* History of allergy to egg proteins\n* Patients who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Concurrent use of systemic corticosteroids (nasal corticosteroids, inhaled steroids, adrenal replacement steroids, and topical steroids are allowed)\n* History of immunodeficiency or autoimmune disease: patients with a history of immunodeficiency, including organ grafts and human immunodeficiency virus (HIV), will not be eligible\n* Patients with a history of autoimmune disease will also be excluded, specifically those with any active autoimmune disease or a condition that requires systemic corticosteroids; exceptions to this are subjects with vitiligo and type I diabetes mellitus, who will be permitted to enroll\n* Patients with a history of severe immune-mediated adverse reactions with ipilimumab: this will be defined as any grade 4 toxicity requiring treatment with corticosteroids (greater than 10 mg/day prednisone or equivalent dose) for greater than 12 weeks\n* Patients with a history of cardiac disease are excluded; baseline electrocardiography and assessment of serum troponin (I) are included the screening exams; subjects in whom these assays are abnormal (electrocardiogram \\[EKG\\] excluding 1st degree bundle branch block, sinus bradycardia, sinus tachycardia or non-specific T wave changes, serum troponin \\>= grade 2) are ineligible\n* Non-compliance: if it is the opinion of the investigator that a subject may be unable to comply with the safety monitoring requirements of the study, they will be excluded",
   "enrollment": 11,
   "has_results": false,
@@ -94,16 +95,15 @@
    ],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "뇌전이 병력",
-    "이전 면역항암제(PD-1/PD-L1 차단제) 투여 경험",
-    "자가면역 질환 또는 면역결핍 병력",
-    "심장 질환 병력",
+    "뇌전이",
+    "자가면역질환 또는 면역결핍 병력",
+    "이전 면역항암제(PD-1/PD-L1) 투여력",
     "임신 또는 수유 중인 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 경험이 있고 p53 과발현 또는 변이가 확인된 전이성 또는 국소진행성 췌장암 환자",
+   "notes_ko": "이전 치료 경험이 있고 p53 변이 또는 과발현이 있는 진행성 췌장암 환자",
    "prior_excluded": [
     "immunotherapy"
    ],

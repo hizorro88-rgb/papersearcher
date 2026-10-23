@@ -19,11 +19,12 @@
  "id": "nct:NCT06582017",
  "importance": 0.76,
  "key_points_ko": [
-  "대상 질환에는 췌장암을 포함한 국소 진행성 절제 불가능 및/또는 전이성 고형암과 다발성 골수종이 포함됩니다.",
-  "연구는 용량 증량(Part A)과 용량 확장(Part B)의 두 단계로 나누어 진행됩니다.",
-  "목표 인원은 최대 100명이며, QXL138AM을 2주 간격(Q2W)으로 정맥 주입합니다."
+  "임상시험 단계: 1상(Phase 1a/1b)",
+  "대상 질환: 췌장암을 포함한 진행성 고형암 및 다발성 골수종",
+  "목표 인원: 100명",
+  "중재 방법: QXL138AM 2주 간격 정맥 주사"
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06582017"
  },
- "summary_ko": "본 연구는 국소 진행성 절제 불가능 및/또는 전이성 고형암 및 다발성 골수종 환자를 대상으로 신약 QXL138AM을 정맥 투여하여 안전성과 약동학, 예비 활성을 평가하는 최초 인체 적용(First-in-Human) 1a/1b상 임상시험입니다. 췌장암을 포함한 여러 고형암 환자를 대상으로 용량 증량(Dose Escalation) 및 용량 확장(Dose Expansion) 코호트가 진행됩니다. 총 목표 환자 수는 100명이며, 약물은 2주 간격으로 정맥 주입됩니다.",
+ "summary_ko": "본 연구는 국소 진행성 절제 불가능 및/또는 전이성 고형암 및 다발성 골수종 성인 환자를 대상으로 신약 QXL138AM을 정맥 투여하여 안전성과 약동학, 예비 항종양 활성을 평가하는 최초 인체 적용(First-in-Human) 1a/1b상 임상시험입니다. 연구는 용량 증량(Part A)과 용량 팽창(Part B) 단계로 나누어 진행되며, 췌장암을 포함한 여러 고형암 환자가 참여 대상에 포함됩니다. 총 목표 환자 수는 100명이며, 2주 간격으로 정맥 주사(IV infusion)가 시행됩니다. 현재 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [
   "QXL138AM-001",
@@ -55,7 +56,7 @@
   "Nammi Therapeutics Inc."
  ],
  "title": "Safety, PK and Efficacy of QXL138AM in Patients With Solid Tumors and Multiple Myeloma",
- "title_ko": "진행성 고형암 및 다발성 골수종 환자에서 QXL138AM의 안전성, 약동학 및 유효성을 평가하는 1상 임상시험",
+ "title_ko": "진행성 고형암 및 다발성 골수종 환자를 대상으로 한 QXL138AM의 안전성, 약동학 및 유효성 평가 1상 임상시험",
  "trial": {
   "conditions": [
    "Ovarian Cancer",
@@ -75,7 +76,7 @@
     "phone": "818-926-3428"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 진행성, 절제 불가능 또는 전이성 고형암(난소암, 췌장암, 요로상피암, 신장암, 간세포암, 위장관암, 폐암, 전립선암, 유방암) 환자\n- 표준 치료에도 불구하고 진행되었거나, 연구자의 판단에 따라 기존 치료가 효과 없거나 내성이 생긴 환자\n- 만 18세 이상 성인 남녀\n- 선별 검사 시 동유럽종양학그룹(ECOG) 수행능력 상태가 0, 1 또는 2인 환자\n- RECIST v1.1 기준에 따른 최소 1개의 측정 가능한 병변 보유\n\n제외 기준:\n- 뉴욕심장협회(NYHA) 클래스 III 또는 IV의 심장 질환, 최근 6개월 이내 심근경색, 불안정형 부정맥\n- 전신 치료가 필요한 활동성 및 조절되지 않는 세균, 바이러스 또는 진균 감염\n- 임상시험용 의약품 또는 성분에 대한 알려진 과민반응\n- 수유 중인 여성\n- B형 또는 C형 간염, 자가면역성 간염, 간경화 등 활동성 및 임상적으로 유의미한 간 질환",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 진행성, 절제 불가능 또는 전이성 고형암(난소암, 췌장암, 요로상피암, 신세포암, 간세포암, 위장관암, 폐암, 전립선암, 유방암) 환자\n- 표준 치료에도 불구하고 진행되었거나, 기존 치료가 효과가 없거나 견딜 수 없는 환자\n- 만 18세 이상 성인 남녀\n- 선별 검사 시 ECOG 수행능력 평가 0, 1, 2\n- RECIST v1.1 기준 최소 1개 이상의 측정 가능한 병변 보유\n- 적절한 장기 기능 및 골수 기능 보유\n- 피임 지침을 준수하는 가임 여성 및 남성\n\n제외 기준:\n- 뉴욕심장협회(NYHA) 3도 또는 4도의 심장 질환, 최근 6개월 이내 심근경색, 불안정성 부정맥 등 심혈관 질환\n- QT/QTc 간격을 연장할 수 있는 동종 병용 약물 복용자\n- 전신 치료가 필요한 활동성 및 조절되지 않는 감염\n- 임상시험용 의약품 또는 성분에 대한 과민반응력\n- 수유부\n- 28일 이내 또는 반감기의 5배 이내에 항암 치료를 받은 환자\n- 30일 이내에 대수술을 받은 환자\n- 조절되지 않는 활동성 자가면역 질환 또는 간 질환",
   "eligibility_text": "Inclusion Criteria:\n\n1. Participants with Solid Tumors\n\n   * Histopathologically confirmed diagnosis of an advanced, unresectable, or metastatic solid tumor (ovarian, pancreatic, urothelial, renal, hepatocellular, gastrointestinal (GI), lung, prostate, and breast cancer).\n   * Have progressed despite standard therapies, or for whom conventional therapy is not effective or tolerable, as judged by the Investigator. Patients must have no available therapeutic options known to confer clinical benefit for their tumor type.\n2. Participants with Multiple Myeloma\n\n   * Have progressed despite standard therapies, or for whom conventional therapy is not effective or tolerable, as judged by the Investigator.\n   * Patients must have failed at least 3 prior therapies for myeloma and should have had prior exposure to a proteosome inhibitor, an IMiD, and an anti-CD38-directed therapy.\n\n2\\. Male or female participants ≥18 years of age at the time of informed consent 3. An Eastern Cooperative Oncology Group (ECOG) performance status scale of 0, 1, or 2 at Screening 4. Must have at least 1 measurable lesion by RECIST version 1.1 (solid tumors only), or evaluable disease by IMWG Uniform Response Criteria (multiple myeloma only) 5. Adequate organ function and bone marrow reserve 6. Adequate cardiac function as estimated by left ventricular ejection fraction 7. Female participants of child-bearing potential must:\n\n* Have a negative serum pregnancy test at screening and a negative pregnancy test at Week 1 Day 1 prior to first dose of QXL138AM, AND\n* Agree to use at least 1 highly effective method of contraception for the duration of study participation, and for 120 days after last dose of QXL138AM.\n\n  8\\. Male participants of child-bearing potential must:\n* Agree to use at least 1 highly effective method of contraception for the duration of study participation, and for 120 days after last dose of QXL138AM, AND\n* Refrain from sperm donation prior to the first dose of investigational product through 120 days following the last dose of QXL138AM.\n\nExclusion Criteria:\n\n1. New York Heart Association Class III or IV cardiac disease, myocardial infarction within the past 6 months, unstable arrhythmia, a history of risk factors for Torsades de Pointes (TdP), including heart failure, hypokalemia, and family history of long QTc syndrome, or evidence of ischemia on ECG.\n\n   Symptomatic ischemic heart disease or unstable angina pectoris; or history of cardiac angioplasty, cardiac stenting, or coronary artery bypass graft. A clinically significant baseline prolongation of QT/QTcF interval at screening.\n2. The use of concomitant medications that may significantly prolong the QT/QTc interval.\n3. Active, uncontrolled bacterial, viral, or fungal infections requiring systemic therapy.\n4. Known hypersensitivity to the investigational product or components (anti-CD138 IgG1 antibody, Interferon A2a and/or the formulation excipients: histidine, sucrose, arginine, polysorbate 80).\n5. Female participant is lactating.\n6. Any other clinically significant comorbidities.\n7. Received prior anticancer therapy within 28 days or 5x the half-life (whichever is shorter) prior to the first dose of investigational product.\n8. Participants who received wide-field radiation therapy within 4 weeks prior to first dose of investigational product, (2 weeks for limited field radiation therapy)\n9. Major surgery within 30 days before first dose of investigational product\n10. Chronic use of systemic corticosteroids of more than 20 mg/day of prednisone or equivalent.\n11. Active, clinically significant liver disease such as Hepatitis B or C, autoimmune hepatitis, or cirrhosis (Child Hugh Stage B or C).\n12. Current or history of mood disorder such as major depression per DSM-5 within past two years not controlled with current therapy.\n13. Active autoimmune disorders not controlled with current therapy.\n14. Active endocrine disorders including hypothyroidism, hyperthyroidism, hypoglycemia, hyperglycemia, and diabetes mellitus not controlled with current therapy.",
   "enrollment": 100,
   "has_results": false,
@@ -92,15 +93,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "심장 질환 (심근경색, 불안정형 심부전 등)",
-    "활동성 감염 (세균, 바이러스, 진균)",
-    "활동성 간 질환 (B형·C형 간염, 간경화)",
-    "조절되지 않는 자가면역 질환"
+    "심장 질환 병력 (심근경색, 심부전 등)",
+    "활동성 감염 (세균, 바이러스, 곰팡이)",
+    "조절되지 않는 자가면역 질환",
+    "활동성 간 질환 (B형/C형 간염, 간경변 등)"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "표준 치료에 실패한 진행성 전이성 또는 국소 진행성 췌장암 환자",
+   "notes_ko": "표준 치료에 실패한 진행성, 절제 불가능 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

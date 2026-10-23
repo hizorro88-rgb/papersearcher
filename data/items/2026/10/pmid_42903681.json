@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) develops within a dense, poorly perfused tumor microenvironment (TME) in which cancer-associated fibroblasts (CAFs) are prominent cellular and structural components. Once viewed as a uniform population of activated matrix-producing cells, CAFs now include myofibroblastic, inflammatory, antigen-presenting and other populations identified by single-cell and spatial studies. These categories sharpen experimental resolution but do not form a stable hierarchy. CAF phenotypes overlap across spatial niches and disease stages, and they change under metabolic stress or treatment. We frame this heterogeneity as a set of context-dependent functional states. This review synthesizes evidence on fibroblast origins, canonical and recently reported states, and the signals that drive state transitions. It then examines CAF functions in extracellular matrix organization, tumor-cell plasticity and dissemination, metabolic support and immune regulation. Findings on tumor-restraining fibroblasts and protective collagen pools challenge indiscriminate stromal depletion. We also assess CAF states as prognostic and predictive biomarkers, their roles in treatment resistance and therapeutic strategies based on depletion, pathway blockade or stromal normalization. Failures of Hedgehog and hyaluronan-directed therapies show that target abundance alone cannot select patients. Clinical translation will require state definitions that integrate function, spatial context and treatment history, supported by reproducible markers, prospective validation and models that retain human stromal diversity.",
+ "authors": [
+  "Hao Y",
+  "Wang Y",
+  "Du Q",
+  "Li G"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-22",
+ "history": [
+  {
+   "date": "2026-10-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42903681",
+ "importance": 0.62,
+ "key_points_ko": [
+  "암 관련 섬유아세포(CAF)는 근섬유아세포성, 염증성, 항원 제시형 등 다양한 상태와 가소성을 보입니다.",
+  "종양 억제성 섬유아세포와 보호적 콜라겐 풀의 존재로 인해 무차별적인 기질 고갈 전략은 실패를 겪었습니다.",
+  "Hedgehog 및 히알루로난 표적 치료의 실패는 표적의 양만으로는 환자를 선별할 수 없음을 보여줍니다.",
+  "임상적용을 위해서는 재현 가능한 마커와 전향적 검증을 통한 상태 정의가 필요합니다."
+ ],
+ "last_updated": "2026-10-22",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1971880",
+  "nct": [],
+  "pmcid": "PMC13681366",
+  "pmid": "42903681"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42903681/"
+ },
+ "summary_ko": "이 논문은 췌장관선암종(PDAC)의 종양 미세환경에서 암 관련 섬유아세포(CAF)의 다양성과 기능적 상태를 다룬 리뷰 논문입니다. 단일세포 및 공간 연구를 통해 밝혀진 다양한 CAF 아형과 이들의 가소성, 대사 및 면역 조절 역할을 종합했습니다. 또한 무차별적인 기질 고갈 치료의 한계와 새로운 치료 전략을 평가했습니다. 임상 적용을 위해서는 기능, 공간적 맥락, 치료 이력을 통합한 상태 정의가 필요함을 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From CAF subtypes to clinically relevant states: cancer-associated fibroblasts in pancreatic ductal adenocarcinoma",
+ "title_ko": "CAF 아형에서 임상적으로 관련된 상태로: 췌장관선암종의 암 관련 섬유아세포",
+ "trial": null,
+ "type": "paper"
+}

@@ -19,11 +19,11 @@
  "id": "nct:NCT07217717",
  "importance": 0.99,
  "key_points_ko": [
-  "병리학적으로 확진된 췌관선암 환자 200명을 대상으로 [¹⁸F]FAPI-74 PET/CT의 전이 진단 성능(민감도 및 특이도)을 평가합니다.",
-  "등록 전후 21일 이내에 표준 흉부·복부·골반 조영증강 CT(ceCT)를 시행해야 합니다.",
-  "등록 시점에 수술이 완전히 불가능할 정도로 명백한 원격 전이가 확인되지 않은 병기 설정 단계의 환자를 대상으로 합니다."
+  "목표 환자 수는 200명이며 [¹⁸F]FAPI-74 PET/CT의 민감도와 특이도를 평가합니다.",
+  "참여 환자는 표준 투여 프로토콜에 따라 [¹⁸F]FAPI-74 PET/CT 스크리닝을 받습니다.",
+  "안전성 추적 관찰은 투여 후 24~72시간 동안 진행됩니다."
  ],
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-22",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07217717"
  },
- "summary_ko": "이 임상시험은 췌관선암(PDAC)으로 확진된 환자를 대상으로 전이 여부를 발견하는 데 있어 [¹⁸F]FAPI-74 PET/CT 영상 검사의 진단적 유용성을 평가하는 다기관, 공개 3상 연구입니다. 참여 환자는 [¹⁸F]FAPI-74 PET/CT 검사를 1회 시행받고 이후 3개월 동안 표준 치료 절차 및 경과를 추적 관찰받게 됩니다. 연구의 주요 목적은 복합 표준 진단 기준을 바탕으로 해당 PET/CT의 민감도와 특이도를 평가하는 것입니다. 약 200명의 환자를 모집하며, 검사 후 24~72시간 동안 안전성을 추적합니다.",
+ "summary_ko": "본 임상시험은 병리학적으로 확인된 췌장관선암(PDAC) 환자에서 전이성 병변을 발견하기 위해 [¹⁸F]FAPI-74 PET/CT의 임상적 유용성을 평가합니다. 다기관, 공개, 무작위 배정 없음, 단일 용량 연구로 진행되며 목표 인원은 200명입니다. 주요 목적은 복합 표준치료(SOT) 패널을 사용하여 [¹⁸F]FAPI-74 PET/CT의 민감도와 특이도를 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "PDAC",
@@ -57,7 +57,7 @@
   "Fibroblast Activation Protein Inhibitor"
  ],
  "title": "Using 18F-FAPI PET to Detect Metastatic Disease in Patients That Have Pancreatic Ductal Adenocarcinoma (PDAC)",
- "title_ko": "췌관선암 환자의 전이 병변 진단을 위한 18F-FAPI PET/CT의 유용성 평가 3상 임상시험",
+ "title_ko": "췌장관선암(PDAC) 환자의 전이성 병변 발견을 위한 18F-FAPI PET 사용",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -74,7 +74,7 @@
     "phone": "1-800-753-5368"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 성인 남녀\n- 치료 계획 수립을 위한 병기 설정 검사를 진행 중인 병리학적 췌관선암(PDAC) 확진 환자\n- ECOG 수행능력 점수 0~2점\n- 등록 전 21일 이내에 시행했거나 [¹⁸F]FAPI-74 투여 후 21일 이내 시행 예정인 흉부, 복부, 골반 조영증강 CT(ceCT) 결과가 있는 환자\n- 가임기 여성의 경우 임상시험 기간 동안 효과적인 피임법 사용 동의\n\n제외 기준:\n- 등록 시점에 수술적 절제를 완전히 배제할 만한 명백한 전이 소견이 있는 경우\n- 췌관선암에 대해 완치 목적의 화학요법, 방사선치료, 수술 등의 치료를 이미 받은 병력이 있는 경우\n- [¹⁸F]FAPI-74 약물에 알려진 과민반응이 있는 경우\n- 5년 이내의 다른 암 병력(완치된 피부 기저세포암 또는 자궁경부/자궁 상피내암 제외)\n- 염증성 장질환(크론병, 궤양성 대장염) 또는 유육종증(sarcoidosis) 진단 병력\n- 간 기능 저하(총 빌리루빈 정상 상한치의 1.5배 초과, 또는 ALP/ALT/AST 정상 상한치의 5배 초과) 또는 신장 기능 저하(사구체여과율 30 mL/min 미만)\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n* 18세 이상의 성인 남녀\n* 치료 계획을 위한 병기 설정 평가를 받는, 확진된 췌장관선암(PDAC) 환자\n* 미국동부종양학협회(ECOG) 수행능력 상태 2 이하\n* 연구 관련 절차 전에 서면 동의서 제출\n* 등록 전 21일 이내 또는 [¹⁸F]FAPI-74 투여 후 21일 이내에 흉부, 복부, 골반의 조영증강 CT(ceCT) 촬영 예정 또는 완료\n\n제외 기준:\n* 수술적 치료를 배제할 만한 명백한 전이 증거가 있는 경우\n* [¹⁸F]FAPI-74에 대한 과민반응 병력\n* [¹⁸F]FAPI-74 투여 전 30일 이내에 다른 임상 시험용 치료제 또는 진단 제품 투여\n* 5년을 초과하여 완치 목적으로 치료받고 무병 상태인 경우를 제외한 이전 암 진단 병력\n* 염증성 장질환(크론병 또는 궤양성 대장염)\n* 사르코도시스\n* PDAC에 대한 완치 목적의 항암화학요법, 방사선치료, 수술을 포함한 치료 이력",
   "eligibility_text": "Inclusion Criteria:\n\n* Male and female adults ≥ 18 years.\n* Participants with confirmed PDAC, undergoing staging evaluation for treatment planning.\n* Eastern Cooperative Oncology Group (ECOG) performance status ≤2:\n* Provided signed, written informed consent obtained prior to any study-related procedures.\n* Participants are required to have a ceCT scan of chest, abdomen and pelvis as per standard clinical practice and practice guidelines either 21 days or less prior to entry or planned within 21 days of \\[¹⁸F\\]FAPI-74 administration.\n* For women who are not postmenopausal (two years of amenorrhea) or surgically sterile (absence of ovaries and/or uterus): agreement to use medically accepted, highly effective methods of contraception (e.g., hormonal implants, combined oral contraceptives, vasectomized partner , during the trial intervention period.\n\nExclusion Criteria:\n\n* Unequivocal evidence of metastases at the time of enrollment that would preclude surgery as a treatment option.\n* Known hypersensitivity to \\[¹⁸F\\]FAPI-74.\n* Administration of another investigational therapeutic or diagnostic product within 30 days prior to \\[¹⁸F\\]FAPI-74 administration.\n* Prior administration of a radiopharmaceutical within 10 half-lives of that product from the time of \\[¹⁸F\\]FAPI-74 administration.\n* Previous cancer diagnosis (except basal cell carcinoma of the skin or in situ carcinoma of the cervix/uterus). Participants treated with curative intent and disease-free for more than 5 years are permitted.\n* Hepatic function: T. bili \\>1.5X ULN or alk phos, ALT, or AST \\>5X ULN\n* Renal function: GFR \\< 30 mL/min\n* Pregnant or breast feeding (a negative pregnancy test is required in women of childbearing potential)\n* Inability to undergo the PET/CT scanning procedure.\n* Inflammatory bowel disease (Crohn's disease or ulcerative colitis)\n* Sarcoidosis\n* Treatment, including chemotherapy, radiation or surgery for curative intent of PDAC.",
   "enrollment": 200,
   "has_results": false,
@@ -91,16 +91,16 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "등록 시점에 이미 확인된 명백한 원격 전이 병변",
-    "췌장암에 대한 이전 항암화학요법, 방사선치료 또는 수술 이력",
-    "5년 이내의 다른 악성 종양(암) 병력",
-    "크론병, 궤양성 대장염 등 염증성 장질환 또는 유육종증",
-    "임신 또는 수유 중"
+    "[¹⁸F]FAPI-74에 대한 과민반응",
+    "다른 암 병력",
+    "염증성 장질환",
+    "사르코도시스",
+    "PDAC에 대한 완치 목적의 치료 이력"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "치료 전 병기 설정을 진행 중이며 이전 치료 경험이 없고 명백한 원격 전이가 아직 확인되지 않은 췌장암 환자 대상 진단 임상시험",
+   "notes_ko": "치료 계획을 위한 병기 설정 평가를 받는 췌장관선암 환자를 위한 시험입니다.",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",
@@ -108,6 +108,7 @@
     "fluoropyrimidine",
     "irinotecan",
     "taxane",
+    "immunotherapy",
     "radiotherapy"
    ],
    "prior_required": [],

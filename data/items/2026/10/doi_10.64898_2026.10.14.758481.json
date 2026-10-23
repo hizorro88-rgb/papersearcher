@@ -1,0 +1,63 @@
+{
+ "abstract": "Abstract Background Pancreatic ductal adenocarcinoma (PDAC) is frequently associated with cancer cachexia, involving alterations across multiple physiological systems. Whether distinct exercise paradigms similarly influence these compartments remains unclear. We compared voluntary wheel running (VWR) and treadmill running (TR) using an integrative physiological approach in a murine model of pancreatic cancer cachexia. Methods Male C57BL/6J mice bearing UN-KC-6141 pancreatic tumor cells were allocated to inactive control (CaCTL), VWR or TR groups and compared with healthy controls. Tumor progression, body composition, skeletal muscle, adipose tissue, hepatic metabolism, systemic inflammation, energy expenditure and behavior were assessed. Analysis of covariance determined whether tissue-mass differences remained evident after adjustment for tumor burden. Results UN-KC-6141 tumors induced a systemic cachectic phenotype involving skeletal muscle and adipose tissue wasting, hepatic metabolic remodeling, systemic inflammation and behavioral alterations. VWR slowed tumor growth, reduced final tumor mass, improved the body-weight trajectory and preserved lean and skeletal muscle mass, whereas TR did not reproduce these adaptations. Greater gastrocnemius mass with VWR remained evident after adjustment for tumor mass, indicating that reduced tumor burden alone was insufficient to account for muscle preservation. In contrast, adipose tissue wasting, hepatic metabolic remodeling and systemic inflammation remained largely unaffected. TR was also associated with a less favorable body-weight trajectory and greater fat mass loss than in inactive tumor-bearing mice. Exploratory metabolic phenotyping revealed distinct feeding, sleep and resting energy expenditure patterns between the two exercise paradigms. Conclusions VWR selectively preserved skeletal muscle within a persistently altered systemic environment, whereas the TR protocol used here did not reproduce these adaptations. These findings reveal tissue-specific exercise responsiveness during pancreatic cancer cachexia and highlight exercise paradigm characteristics as determinants of tumor-host adaptation.",
+ "authors": [
+  "Richard C",
+  "Dieumegard A",
+  "Cavrois L",
+  "Lefeuvre-Orfila L",
+  "Martin B",
+  "Rouviere L",
+  "Servais S",
+  "Vlach M"
+ ],
+ "categories": [
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-22",
+ "history": [
+  {
+   "date": "2026-10-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.14.758481",
+ "importance": 0.56,
+ "key_points_ko": [
+  "자발적 쳇바퀴 운동(VWR)은 췌장암 악액질 쥐 모델에서 종양 성장을 늦추고 근육량을 선택적으로 보존했습니다.",
+  "종양 크기 영향을 보정한 후에도 근육 보존 효과가 유지되어 운동 자체의 이점이 확인되었습니다.",
+  "트레드밀 운동(TR)은 근육 보존 효과를 나타내지 못했으며 오히려 체중 감소와 지방 손실을 악화시켰습니다.",
+  "전신 염증, 간 대사 변화, 지방 조직 감소 등의 악액질 상태는 운동 진행 중에도 대부분 유지되었습니다."
+ ],
+ "last_updated": "2026-10-22",
+ "links": {
+  "doi": "10.64898/2026.10.14.758481",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1347441"
+ },
+ "summary_ko": "췌장 암 악액질(pancreatic cancer cachexia) 쥐 모델에서 자발적 쳇바퀴 운동(VWR)과 트레드밀 운동(TR)의 생체 영향을 비교 평가했습니다. 연구 결과, 자발적 쳇바퀴 운동은 종양 성장을 늦추고 체중 감소를 완화하며 골격근 질량을 선택적으로 보존했습니다. 반면 트레드밀 운동은 근육 보존 효과를 보이지 않았고 지방 손실이 더 크게 나타났습니다. 이번 연구는 췌장암 악액질에서 운동 방식에 따라 조직별 반응성이 다르게 나타남을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Voluntary wheel running selectively preserves skeletal muscle during pancreatic cancer cachexia despite persistent systemic alterations",
+ "title_ko": "자발적 쳇바퀴 운동은 지속적인 전신 이상에도 불구하고 췌장암 악액질 상태에서 골격근을 선택적으로 보존함",
+ "trial": null,
+ "type": "preprint"
+}
