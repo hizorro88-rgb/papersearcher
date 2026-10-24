@@ -1,0 +1,57 @@
+{
+ "abstract": "The development of effective allele-specific and RAS-ON multiselective direct RAS inhibitors for pancreatic ductal adenocarcinoma (PDAC) represents unprecedented progress in systemic therapy for a devastating disease. These drugs are already changing the standard of care in PDAC, and their development raises important questions about how ongoing and future trials of local therapies such as radiotherapy (RT) may be affected. Although RT remains part of the therapeutic armamentarium for pancreatic ductal adenocarcinoma (PDAC), particularly in locally advanced disease and the adjuvant setting, decades of clinical trials have raised more questions than they have answered. One major challenge has been the concurrent evolution of systemic therapies, complicating the design, interpretation, and clinical relevance of RT trials. Here, we review how changes in systemic therapy have influenced seminal trials of RT for PDAC and will consider implications for ongoing and future trials in this space. These considerations, already relevant when options were more limited, are even more critical with the emergence of novel RAS-targeted therapies.",
+ "authors": [
+  "Ellsworth SG",
+  "Olivier T"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42913256",
+ "importance": 0.62,
+ "key_points_ko": [
+  "직접 RAS 억제제의 개발은 췌장암의 전신 치료 표준을 변화시키고 있습니다.",
+  "전신 치료법의 발전은 기존 및 향후 방사선 치료(RT) 임상시험의 설계와 해석에 복잡성을 더합니다.",
+  "새로운 RAS 표적 치료제 시대에 맞춘 방사선 치료 임상시험의 기회와 전략적 재평가가 필요합니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1016/j.ejca.2026.117790",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42913256"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913256/"
+ },
+ "summary_ko": "췌장암(PDAC)에서 대립유전자 특이적 및 RAS-ON 다중선택적 직접 RAS 억제제의 개발은 전신 치료 분야에서 전례 없는 진전을 나타내고 있습니다. 이러한 약물의 발전은 방사선 치료(RT)와 같은 국소 치료 임상시험의 설계, 해석 및 임상적 유용성에 직접적인 영향을 미칩니다. 본 검토 논문은 전신 치료의 변화가 췌장암 방사선 치료의 주요 임상시험에 미친 영향을 살펴봅니다. 또한 신규 RAS 표적 치료제의 등장에 따라 향후 방사선 치료 임상시험이 직면할 과제와 기회를 조명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A new era in anti-RAS therapy: Unique challenges and opportunities for radiotherapy clinical trials",
+ "title_ko": "항 RAS 치료의 새로운 시대: 방사선 치료 임상시험의 독특한 과제와 기회",
+ "trial": null,
+ "type": "paper"
+}

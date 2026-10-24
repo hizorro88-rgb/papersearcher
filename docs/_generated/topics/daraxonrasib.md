@@ -26,12 +26,35 @@ search:
 | [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
-| [절제된 췌장암 환자를 대상으로 daraxonrasib(다락소나십)을 평가하는 임상시험](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
-| [TNG462 병용 투여의 안전성, 내인성 및 효능을 평가하는 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
+| [PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내인성, 약동학 및 유효성을 평가하기 위한 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (4)
+## 타임라인 (6)
 
+<a id="pmid-42906097"></a>
+#### [Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer. Reply](https://pubmed.ncbi.nlm.nih.gov/42906097/)
+`논문` `기타` `신약·치료제` `치료 전반` · 2026-10-22 · PubMed · N Engl J Med · 중요도 0.65
+
+원문을 확인하세요.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906097/) · [DOI](https://doi.org/10.1056/NEJMc2611022) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906097)</small>
+
+---
+<a id="pmid-42906096"></a>
+#### [이전에 치료받은 전이성 췌장암에서의 daraxonrasib(다락소나십)](https://pubmed.ncbi.nlm.nih.gov/42906096/)
+<small>Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer</small>
+
+`논문` `기타` `신약·치료제` `치료 전반` · 2026-10-22 · PubMed · N Engl J Med · 중요도 0.65
+
+본 자료는 이전에 치료받은 전이성 췌장암 환자를 대상으로 한 daraxonrasib(다락소나십) 관련 서신 및 논평입니다. 본문 및 초록 텍스트가 제공되지 않았습니다. 구체적인 치료 결과나 수치는 초록에 명시되지 않았습니다.
+
+- 이전에 치료받은 전이성 췌장암 환자 대상 daraxonrasib(다락소나십) 관련 논문입니다.
+- 상세한 연구 결과 및 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906096/) · [DOI](https://doi.org/10.1056/NEJMc2611022) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906096)</small>
+
+---
 <a id="pmid-42836673"></a>
 #### [췌장암에서 RAS 표적 치료](https://pubmed.ncbi.nlm.nih.gov/42836673/)
 <small>Targeting RAS in pancreatic cancer</small>

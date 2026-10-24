@@ -1,0 +1,57 @@
+{
+ "abstract": null,
+ "authors": [
+  "Park JJ"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906096",
+ "importance": 0.65,
+ "key_points_ko": [
+  "이전에 치료받은 전이성 췌장암 환자 대상 daraxonrasib(다락소나십) 관련 논문입니다.",
+  "상세한 연구 결과 및 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1056/NEJMc2611022",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906096"
+ },
+ "pub_types": [
+  "Letter",
+  "Comment"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "N Engl J Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906096/"
+ },
+ "summary_ko": "본 자료는 이전에 치료받은 전이성 췌장암 환자를 대상으로 한 daraxonrasib(다락소나십) 관련 서신 및 논평입니다. 본문 및 초록 텍스트가 제공되지 않았습니다. 구체적인 치료 결과나 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer",
+ "title_ko": "이전에 치료받은 전이성 췌장암에서의 daraxonrasib(다락소나십)",
+ "trial": null,
+ "type": "paper"
+}

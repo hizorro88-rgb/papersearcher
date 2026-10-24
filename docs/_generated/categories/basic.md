@@ -16,12 +16,131 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 144건 · 최근 30일 144건
+전체 152건 · 최근 30일 152건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42906825"></a>
+#### [메발로네이트 생합성 경로는 젬시타빈 내성 췌장암의 대사적 취약점입니다](https://pubmed.ncbi.nlm.nih.gov/42906825/)
+<small>Mevalonate Biosynthesis is a Metabolic Vulnerability of Gemcitabine-resistant Pancreatic Cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` `제약사·규제` · 2026-10-21 · PubMed · Gastroenterology · 중요도 0.66
+
+연구진은 췌장관선암종(PDAC)에서 젬시타빈(gemcitabine) 내성 획득에 따른 대사 적응 과정을 밝히고 치료 가능한 취약점을 탐색했습니다. 연구 결과, 젬시타빈 내성 세포는 메발로네이트(mevalonate) 생합성 경로에 선택적으로 의존하게 되며 스타틴(statin) 투여에 높은 민감도를 나타냈습니다. 마우스 모델 실험에서 스타틴 치료는 젬시타빈 내성 종양의 성장을 선택적으로 억제했습니다. 아울러 낮은 HMGCR 발현량은 췌장암 환자에서 젬시타빈 기반 치료의 불량한 반응을 예측하는 지표로 나타났습니다.
+
+- 젬시타빈(gemcitabine) 내성을 획득한 췌장암 세포는 피리미딘 회수 경로 억제로 인해 메발로네이트(mevalonate) 경로에 선택적 의존성을 보였습니다.
+- 스타틴(statin) 투여는 면역 정상 마우스 모델에서 젬시타빈 내성 종양의 성장을 선택적으로 억제했습니다.
+- 환자 분석에서 HMGCR 발현 감소는 젬시타빈 기반 치료에 대한 불량한 반응과 연관되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906825/) · [DOI](https://doi.org/10.1053/j.gastro.2026.09.027) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906825)</small>
+
+---
+<a id="pmid-42906692"></a>
+#### [ID3 mRNA 전달을 통한 종양 관련 대식세포 재프로그래밍으로 췌장암의 면역치료 효과 증대](https://pubmed.ncbi.nlm.nih.gov/42906692/)
+<small>Reprogramming tumor-associated macrophages via ID3 mRNA delivery for enhanced immunotherapy in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-21 · PubMed · J Control Release · 중요도 0.64
+
+본 연구는 췌관선암(PDAC)의 면역 억제 미세환경을 개선하기 위해 대식세포를 표적하는 mRNA 전달 기술을 평가한 전임상 연구입니다. 연구진은 대식세포의 SIRPα 발현을 낮추고 염증성 재프로그래밍을 유도하기 위해 ID3 mRNA를 탑재한 만노스 변형 지질나노입자(MLNP-ID3)를 개발했습니다. 동소이식 췌장암 동물 모델에서 해당 제형은 대식세포의 식균 작용을 촉진하고 종양 내 T세포 및 자연살해(NK) 세포 침윤을 유도하여 종양 성장을 억제했습니다. 또한 항 PD-1(anti-PD-1) 면역항암제와의 병용 투여 시 향상된 항종양 효과를 보였습니다.
+
+- 종양 관련 대식세포(TAM)의 CD206을 표적하는 만노스 변형 지질나노입자(MLNP)를 통해 ID3 mRNA를 전달했습니다.
+- ID3 발현 유도로 대식세포의 SIRPα 수치가 감소하고 식균 작용 및 종양 내 T세포와 NK세포 침윤이 증가하여 종양 성장이 억제되었습니다.
+- 동물 모델에서 항 PD-1 치료와 병용 투여했을 때 향상된 복합 항암 활성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906692/) · [DOI](https://doi.org/10.1016/j.jconrel.2026.115472) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906692)</small>
+
+---
+<a id="pmid-42907040"></a>
+#### [췌장암 치료에서 천연 다당류의 역할: 면역 조절, 장내 미생물 조절부터 대사 개입까지](https://pubmed.ncbi.nlm.nih.gov/42907040/)
+<small>Natural polysaccharides in pancreatic cancer therapy: From immunomodulation and gut microbiota regulation to metabolic intervention</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `기초연구` · 2026-10-07 · PubMed · Carbohydr Polym · 중요도 0.62
+
+본 연구는 식물, 버섯, 해양 미생물 등에서 유래한 천연 다당류(polysaccharides)의 췌장암 치료 보조제 가능성을 종합한 종설 논문입니다. 천연 다당류는 암세포 직접 억제, 면역계 활성화, 장내 미생물 환경 개선, 비만 및 당뇨 개선을 통해 췌장암을 억제합니다. 20가지 이상의 다당류가 연구되었으며, 기존 화학항암제와 함께 사용할 때 시너지 효과를 보였습니다. 하지만 현재까지의 결과는 전임상 연구 중심이므로, 실제 환자 적용을 위해서는 체내 흡수율 개선과 임상 검증이 필요합니다.
+
+- 천연 다당류(polysaccharides)는 암세포 사멸 유도, 면역 활성화, 장내 미생물 균형 회복, 대사 개선의 4가지 주요 기전으로 항암 효과를 나타냅니다.
+- 20가지 이상의 천연 다당류가 정리되었으며, 화학항암제와 함께 투여 시 치료 효과가 높아지는 시너지 작용이 확인되었습니다.
+- 낮은 분자량이나 황산화(sulfation) 등 특정 구조적 특성이 항암 활성에 영향을 미치는 것으로 분석되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42907040/) · [DOI](https://doi.org/10.1016/j.carbpol.2026.125917) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42907040)</small>
+
+---
+<a id="pmid-42909037"></a>
+#### [췌관선암종에서 맥락 의존적 치료 병목 구간으로서의 골수성 세포 주도 면역억제](https://pubmed.ncbi.nlm.nih.gov/42909037/)
+<small>Myeloid-driven immunosuppression as a context-dependent therapeutic bottleneck in pancreatic ductal adenocarcinoma</small>
+
+`논문` `종설` `기초연구` `치료 전반` · 2026-10-07 · PubMed · Front Immunol · 중요도 0.58
+
+본 논문은 췌관선암(PDAC)에서 골수성 세포에 의해 유도되는 면역억제 작용이 치료에 미치는 영향에 대해 다룹니다. 제공된 텍스트에는 논문의 제목과 저널 정보 외에 세부 초록 내용이 포함되어 있지 않습니다. 따라서 구체적인 연구 방법, 데이터 및 수치적 결과는 초록에 명시되지 않았습니다. 자세한 정보는 원문 확인이 필요합니다.
+
+- 췌관선암(PDAC)의 골수성 세포 주도 면역억제 기전을 다룬 논문입니다.
+- 제공된 정보에 세부 수치 및 구체적 연구 결과는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42909037/) · [DOI](https://doi.org/10.3389/fimmu.2026.1936958) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13683673/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42909037)</small>
+
+---
+<a id="pmid-42906152"></a>
+#### [항암 효능을 높이고 골수억제 부작용을 줄이도록 설계된 이중 작용 CXCR4 표적 펩타이드-약물 접합체 연구](https://pubmed.ncbi.nlm.nih.gov/42906152/)
+<small>A Dual-Action CXCR4-Targeted Peptide-Drug Conjugate Engineered to Enhance Antitumor Efficacy and Mitigate Myelosuppression in Pancreatic Cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-05 · PubMed · Mol Pharm · 중요도 0.57
+
+췌장암 세포에 높게 발현되는 CXCR4 수용체를 표적하는 펩타이드와 gemcitabine(젬시타빈)을 결합한 신약 후보물질 P12-GEM에 대한 전임상 연구입니다. 췌장암 세포주 및 동물 모델 실험에서 P12-GEM은 gemcitabine 단독 투여 대비 더 우수한 종양 억제 효과와 생존 기간 연장을 나타냈습니다. 또한 종양 미세환경 내 면역억제 세포를 줄이고 CD8+ T 세포 침윤을 늘리는 동시에 기존 gemcitabine의 주된 부작용인 골수 독성을 줄였습니다.
+
+- CXCR4 표적 펩타이드와 gemcitabine(젬시타빈)을 결합한 P12-GEM은 동종이식 마우스 모델에서 gemcitabine 대비 우수한 항암 효과와 생존 기간 연장을 보였습니다.
+- P12-GEM은 종양 관련 거식세포(TAM)를 줄이고 CD8+ T 세포 침윤을 증가시켜 면역억제적 종양 미세환경을 개선했습니다.
+- 말초 혈액 내 백혈구 및 혈소판 수치를 감소시키지 않아 기존 gemcitabine의 주요 독성인 골수억제(myelosuppression)를 완화했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906152/) · [DOI](https://doi.org/10.1021/acs.molpharmaceut.6c00292) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906152)</small>
+
+---
+<a id="pmid-42904842"></a>
+#### [신경내분비 및 선세포 분화를 보이는 췌장의 양비선 암종: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42904842/)
+<small>Amphicrine Carcinomas of the Pancreas Showing Neuroendocrine and Acinar Cell Differentiation: A Case Report and Literature Review</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` `신경내분비종양` · 2026-10-01 · PubMed · Pathol Int · 중요도 0.55
+
+본 연구는 증례 분석과 문헌 고찰을 통해 췌장 양비선 암종(AmpCA)의 임상병리적 및 분자적 특성을 규명했습니다. 단일 종양 세포 내에서 선세포 표지자와 신경내분비 표지자가 동시에 발현된 73세 여성 환자의 췌장 양비선 암종 증례를 제시했습니다. 분자 프로파일링 분석 결과 KRAS G12V, TP53, RB1의 고위험 변이와 높은 Ki-67 지수(85%)가 확인되었습니다. 연구진은 양비선 암종이 혼합 신경내분비-비신경내분비 종양(MiNEN)과 구분되는 독자적인 악성 종양 형태라고 결론지었습니다.
+
+- 73세 여성 환자의 췌장 양비선 암종(AmpCA) 단일 세포 내에서 선세포 및 신경내분비 표지자가 동시 발현되었습니다.
+- 분자 프로파일링에서 KRAS G12V, TP53, RB1 유전자 변이와 85%의 높은 Ki-67 지수가 관찰되었습니다.
+- 양비선 암종은 MiNEN의 두 가지 세포 구성과 달리 단일 세포 단위의 양방향 분화 특성을 갖는 별개의 악성 종양입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42904842/) · [DOI](https://doi.org/10.1111/pin.70182) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42904842)</small>
+
+---
+<a id="pmid-42909229"></a>
+#### [소화기계 암에서 장내 진균총 불균형: 면역 재구성 및 임상적 시사점](https://pubmed.ncbi.nlm.nih.gov/42909229/)
+<small>Gut mycobiome dysbiosis in digestive system cancers: immune remodeling and translational implications</small>
+
+`논문` `종설` `기초연구` `치료 전반` · 2026-10-07 · PubMed · Front Cell Infect Microbiol · 중요도 0.54
+
+본 종설 논문은 대장암, 위암, 췌장관선암(PDAC)에서 장내 진균총(mycobiome) 불균형의 역할과 한계점을 종합했습니다. 췌장암 조직 연구에서 진균 신호가 보고되었으나 인과관계 기전은 주로 쥐 모델에서 입증되었습니다. 연구진은 진균 검출이 해당 균의 생체 내 생존이나 암 발병 원인을 직접 의미하는 것은 아니라고 강조했습니다. 향후 임상 적용을 위해서는 진균 검사법의 표준화와 추가적인 정밀 검증이 필요합니다.
+
+- 췌장관선암에서 진균과 면역 반응 간의 인과관계 기전은 주로 동물 모델을 통해 보고되었습니다.
+- 진균이 검출되었다고 해서 균의 생존성이나 암 발생의 직접 원인임을 입증하는 것은 아닙니다.
+- 낮은 진균량, 샘플 오염, 분석 표준화 부족 등의 한계가 있어 결과 해석에 주의가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42909229/) · [DOI](https://doi.org/10.3389/fcimb.2026.1902754) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13684329/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42909229)</small>
+
+---
+<a id="pmid-42910299"></a>
+#### [HMGA2, hnRNPK를 안정화하여 췌장암의 YAP 의존적 간전이 유도](https://pubmed.ncbi.nlm.nih.gov/42910299/)
+<small>HMGA2 Stabilizes hnRNPK to Drive YAP-Dependent Liver Metastasis in Pancreatic Cancer</small>
+
+`논문` `전임상` `기초연구` `치료 전반` · 2026-10-02 · PubMed · Int J Biol Sci · 중요도 0.51
+
+본 연구는 췌장암 환자의 간전이 조직과 순환 종양 세포(CTC)에서 HMGA2 단백질 발현이 크게 증가해 있음을 확인했습니다. 분자 기전 분석 결과 HMGA2는 hnRNPK 단백질과 결합해 단백질 분해를 막고 안정화시켰습니다. 안정화된 hnRNPK는 YAP의 전사를 촉진하여 췌장암의 간전이 능력을 강화하는 것으로 나타났습니다.
+
+- HMGA2 단백질은 췌장암 환자의 간전이 조직 및 순환 종양 세포(CTC)에서 유의하게 증가해 있었습니다.
+- HMGA2는 hnRNPK의 유비퀴틴화를 억제하고 단백질 분해를 막아 YAP 유전자 발현을 촉진시켰습니다.
+- HMGA2/hnRNPK-YAP 신호 축이 췌장암 간전이의 핵심 조절자이며 새로운 치료 표적이 될 수 있음을 규명했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42910299/) · [DOI](https://doi.org/10.7150/ijbs.133139) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13686062/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42910299)</small>
+
+---
 <a id="pmid-42903681"></a>
 #### [CAF 아형에서 임상적으로 관련된 상태로: 췌장관선암종의 암 관련 섬유아세포](https://pubmed.ncbi.nlm.nih.gov/42903681/)
 <small>From CAF subtypes to clinically relevant states: cancer-associated fibroblasts in pancreatic ductal adenocarcinoma</small>
@@ -54,19 +173,19 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1347441) · [DOI](https://doi.org/10.64898/2026.10.14.758481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.14.758481)</small>
 
 ---
-<a id="pmid-42902383"></a>
-#### [변이 p53에 의한 대사 가소성이 췌관선암의 페롭토시스 저항성을 유발한다](https://pubmed.ncbi.nlm.nih.gov/42902383/)
-<small>Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma</small>
+<a id="doi-10.64898-2026.10.20.760559"></a>
+#### [췌장암에서 종양 유전자 KRAS-MAPK 신호 전달이 유지하는 CD73 의존적 치료적 취약점](https://europepmc.org/article/PPR/PPR1347239)
+<small>Oncogenic KRAS-MAPK signaling sustains a CD73 dependent therapeutic vulnerability in pancreatic cancer</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-23 · PubMed · Mol Cancer · 중요도 0.54
+`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-10-21 · Europe PMC (preprint) · bioRxiv · 중요도 0.54
 
-췌관선암(PDAC)에서 흔히 발견되는 변이 TP53 유전자가 철 의존성 세포사멸 기전인 페롭토시스(ferroptosis)에 미치는 영향을 규명한 전임상 연구입니다. 연구진은 변이 p53이 항산화 유전자 발현 및 포도당 해당작용을 촉진하는 대사 가소성을 통해 페롭토시스 저항성을 획득함을 확인했습니다. 또한 약리학적으로 야생형 p53 기능을 재활성화하면 이러한 대사 적응이 차단되어 페롭토시스 유도제에 의한 암세포 사멸이 세포 및 마우스 모델에서 크게 증가했습니다.
+본 연구는 췌장관선암(PDAC)에서 KRAS-MAPK 신호 전달 경로와 CD73 매개 아데노신 신호의 상호작용을 분석한 전임상 연구입니다. 연구진은 KRAS 억제가 CD73 발현을 감소시키는 한편, CD73 억제제 투여 시 적응적으로 MAPK가 활성화되는 현상을 확인했습니다. 마우스 모델에서 CD73 억제제인 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제를 병용 투여했을 때 가장 강력한 종양 감소 및 면역 환경 개선 효과가 나타났습니다.
 
-- 변이 TP53을 제거하면 지질 과산화와 미토콘드리아 기능 장애가 증가하여 췌장암 세포가 페롭토시스에 민감해졌습니다.
-- 변이 p53은 PI3K-AKT 신호와 해당작용을 선택적으로 활성화하여 세포사멸 스트레스 속에서도 ATP 생성을 유지했습니다.
-- 정상 야생형 p53을 재활성화하는 약물과 페롭토시스 유도제를 병용하자 세포 및 동물 모델 모두에서 암세포 사멸이 유의미하게 증가했습니다.
+- KRAS 억제는 MAPK 경로를 통해 CD73 발현을 줄이고, CD73 억제는 적응적 ERK 인산화를 유도했습니다.
+- CD73 억제제와 RAS(ON) 억제제 병용 투여 시 단일 요법 대비 종양 크기가 유의하게 감소했습니다.
+- 병용 치료는 섬유화 기질과 CD163 양성 대식세포를 줄이고, CD8 양성 T 세포 및 그랜자임 B(granzyme B) 침윤을 증가시켰습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42902383/) · [DOI](https://doi.org/10.1186/s12943-026-02746-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685200/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42902383)</small>
+<small>[원문](https://europepmc.org/article/PPR/PPR1347239) · [DOI](https://doi.org/10.64898/2026.10.20.760559) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.20.760559)</small>
 
 ---
 <a id="doi-10.64898-2026.10.20.760599"></a>
@@ -84,19 +203,19 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1347256) · [DOI](https://doi.org/10.64898/2026.10.20.760599) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.20.760599)</small>
 
 ---
-<a id="doi-10.64898-2026.10.20.760559"></a>
-#### [췌장암에서 종양 유전자 KRAS-MAPK 신호 전달이 유지하는 CD73 의존적 치료적 취약점](https://europepmc.org/article/PPR/PPR1347239)
-<small>Oncogenic KRAS-MAPK signaling sustains a CD73 dependent therapeutic vulnerability in pancreatic cancer</small>
+<a id="pmid-42902383"></a>
+#### [변이 p53에 의한 대사 가소성이 췌관선암의 페롭토시스 저항성을 유발한다](https://pubmed.ncbi.nlm.nih.gov/42902383/)
+<small>Metabolic plasticity underlies ferroptosis resistance driven by mutant p53 in pancreatic ductal adenocarcinoma</small>
 
-`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-10-21 · Europe PMC (preprint) · bioRxiv · 중요도 0.54
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-23 · PubMed · Mol Cancer · 중요도 0.54
 
-본 연구는 췌장관선암(PDAC)에서 KRAS-MAPK 신호 전달 경로와 CD73 매개 아데노신 신호의 상호작용을 분석한 전임상 연구입니다. 연구진은 KRAS 억제가 CD73 발현을 감소시키는 한편, CD73 억제제 투여 시 적응적으로 MAPK가 활성화되는 현상을 확인했습니다. 마우스 모델에서 CD73 억제제인 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제를 병용 투여했을 때 가장 강력한 종양 감소 및 면역 환경 개선 효과가 나타났습니다.
+췌관선암(PDAC)에서 흔히 발견되는 변이 TP53 유전자가 철 의존성 세포사멸 기전인 페롭토시스(ferroptosis)에 미치는 영향을 규명한 전임상 연구입니다. 연구진은 변이 p53이 항산화 유전자 발현 및 포도당 해당작용을 촉진하는 대사 가소성을 통해 페롭토시스 저항성을 획득함을 확인했습니다. 또한 약리학적으로 야생형 p53 기능을 재활성화하면 이러한 대사 적응이 차단되어 페롭토시스 유도제에 의한 암세포 사멸이 세포 및 마우스 모델에서 크게 증가했습니다.
 
-- KRAS 억제는 MAPK 경로를 통해 CD73 발현을 줄이고, CD73 억제는 적응적 ERK 인산화를 유도했습니다.
-- CD73 억제제와 RAS(ON) 억제제 병용 투여 시 단일 요법 대비 종양 크기가 유의하게 감소했습니다.
-- 병용 치료는 섬유화 기질과 CD163 양성 대식세포를 줄이고, CD8 양성 T 세포 및 그랜자임 B(granzyme B) 침윤을 증가시켰습니다.
+- 변이 TP53을 제거하면 지질 과산화와 미토콘드리아 기능 장애가 증가하여 췌장암 세포가 페롭토시스에 민감해졌습니다.
+- 변이 p53은 PI3K-AKT 신호와 해당작용을 선택적으로 활성화하여 세포사멸 스트레스 속에서도 ATP 생성을 유지했습니다.
+- 정상 야생형 p53을 재활성화하는 약물과 페롭토시스 유도제를 병용하자 세포 및 동물 모델 모두에서 암세포 사멸이 유의미하게 증가했습니다.
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1347239) · [DOI](https://doi.org/10.64898/2026.10.20.760559) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.20.760559)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42902383/) · [DOI](https://doi.org/10.1186/s12943-026-02746-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685200/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42902383)</small>
 
 ---
 <a id="pmid-42900966"></a>
@@ -2166,35 +2285,5 @@ KRAS 변이 암에서 페롭토시스(ferroptosis, 철 의존성 세포사멸) �
 - 초록에 명시되지 않음
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831809/) · [DOI](https://doi.org/10.36233/0507-4088-409) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831809)</small>
-
----
-<a id="doi-10.21203-rs.3.rs-10614363-v1"></a>
-#### [미토콘드리아 동역학 관련 유전자에 기반한 췌장암 예후 모델 구축: 다중 머신러닝 방법의 적용](https://europepmc.org/article/PPR/PPR1333448)
-<small>Construction of a Prognostic Model for Pancreatic Cancer Based on mitochondrial dynamics-Related Genes: Application of Multiple Machine Learning Methods</small>
-
-`프리프린트` `전임상` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-04 · Europe PMC (preprint) · Research Square · 중요도 0.50
-
-이 연구는 췌장암(PAAD) 환자의 예후를 예측하기 위해 미토콘드리아 동역학 관련 유전자를 분석했습니다. 다중 머신러닝 알고리즘을 사용하여 7개의 유전자(ALDH3A1, CD36, CKB, FOXM1, IGF2BP3, INS, MET)로 구성된 예후 모델을 구축했습니다. 위험 점수가 높은 환자군은 생존 결과가 불리했으며 암 진행, 면역억제 특성, 항암제 감수성 저하와 연관되었습니다. 이 모델은 예후 분류와 치료 반응 예측을 위한 잠재적 도구를 제공하지만 임상 적용을 위해서는 전향적 검증이 필요합니다.
-
-- 총 32개의 예후 관련 미토콘드리아 동역학 유전자 중 7개의 유전자가 최종 예후 시그니처로선택되었습니다.
-- 구축된 위험 점수는 임상병리학적 변수를 보정한 후에도 독립적인 예후 인자로 확인되었습니다.
-- 고위험군 종양은 세포 주기 및 운동성 경로 활성화, 면역억제 특성, 그리고 여러 항암제에 대한 낮은 감수성과 연관되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1333448) · [DOI](https://doi.org/10.21203/rs.3.rs-10614363/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-10614363/v1)</small>
-
----
-<a id="pmid-42828053"></a>
-#### [피브리노겐-약물 나노입자를 통한 췌장암 및 유방암 마우스 모델에서의 지속적인 반응 달성](https://pubmed.ncbi.nlm.nih.gov/42828053/)
-<small>Fibrinogen-Drug Nanoparticles Achieve Durable Responses in Pancreatic and Breast Cancer Murine Models</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-08-21 · PubMed · ACS Pharmacol Transl Sci · 중요도 0.46
-
-이 연구는 고형 종암 내에 약물을 선택적이고 지속적으로 전달하기 위해 피브리노겐-약물 나노입자(fibrinogen-drug nanoparticles, FDNs) 전략을 개발했습니다. 혈관 파괴 약물로 종양 특이적 내피세포 손상을 유도하고, 전신 투여된 FDNs가 활성화된 혈소판에 결합하여 종양 혈관 내에 고정되도록 했습니다. 이를 통해 종양 내 약물 저장소가 형성되어 세포독성 수준 이상의 약물 농도를 10일 이상 유지했습니다. 삼중음성 유방암 또는 췌장암 피하 종양을 가진 대부분의 마우스에서 단 한 번의 20분 치료로 지속적인 완전 관해가 유도되었습니다.
-
-- 피브리노겐-약물 나노입자(FDNs)는 활성화된 혈소판에 다가 결합하여 종양 혈관 내에 고정됩니다.
-- 종양 내 약물 저장소가 형성되어 세포독성 수준 이상의 약물 농도를 10일 이상 유지했습니다.
-- 단 한 번의 20분 치료로 췌장암 및 유방암 마우스 모델 대부분에서 지속적인 완전 관해가 유도되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42828053/) · [DOI](https://doi.org/10.1021/acsptsci.6c00337) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13632883/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42828053)</small>
 
 ---

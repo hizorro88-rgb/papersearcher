@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic cancer (PC) is a highly aggressive malignant neoplasm with a propensity for liver metastasis (LM), which significantly contributes to poor patient prognosis, but its molecular mechanism remains incompletely elucidated. In this study, we demonstrated that high mobility group protein A2 (HMGA2) is markedly elevated in LM tissues and circulating tumor cells (CTCs) of PC patients. Mechanistically, HMGA2 binds to heterogeneous nuclear ribonucleoprotein K (hnRNPK) via \"AT-hook\" functional motif, suppressing its ubiquitination to block proteasomal degradation. This interaction promotes the transcriptional activation of Yes-associated protein (YAP) by facilitating hnRNPK binding to the YAP promoter and thereby enhancing metastatic potential of PC. Functional assays validate that hnRNPK mediates HMGA2's pro-metastatic function, and YAP acts as the indispensable downstream effector of this cascade. Our findings establish the HMGA2/hnRNPK-YAP axis as a critical regulator of LM and propose targeting this pathway as a promising therapeutic strategy for metastatic PC.",
+ "authors": [
+  "Xie Y",
+  "Hang H",
+  "Liu H",
+  "Wang N",
+  "Wang C",
+  "Yang Y",
+  "Fang L",
+  "Qiu Y"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42910299",
+ "importance": 0.51,
+ "key_points_ko": [
+  "HMGA2 단백질은 췌장암 환자의 간전이 조직 및 순환 종양 세포(CTC)에서 유의하게 증가해 있었습니다.",
+  "HMGA2는 hnRNPK의 유비퀴틴화를 억제하고 단백질 분해를 막아 YAP 유전자 발현을 촉진시켰습니다.",
+  "HMGA2/hnRNPK-YAP 신호 축이 췌장암 간전이의 핵심 조절자이며 새로운 치료 표적이 될 수 있음을 규명했습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.7150/ijbs.133139",
+  "nct": [],
+  "pmcid": "PMC13686062",
+  "pmid": "42910299"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Biol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42910299/"
+ },
+ "summary_ko": "본 연구는 췌장암 환자의 간전이 조직과 순환 종양 세포(CTC)에서 HMGA2 단백질 발현이 크게 증가해 있음을 확인했습니다. 분자 기전 분석 결과 HMGA2는 hnRNPK 단백질과 결합해 단백질 분해를 막고 안정화시켰습니다. 안정화된 hnRNPK는 YAP의 전사를 촉진하여 췌장암의 간전이 능력을 강화하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "HMGA2 Stabilizes hnRNPK to Drive YAP-Dependent Liver Metastasis in Pancreatic Cancer",
+ "title_ko": "HMGA2, hnRNPK를 안정화하여 췌장암의 YAP 의존적 간전이 유도",
+ "trial": null,
+ "type": "paper"
+}

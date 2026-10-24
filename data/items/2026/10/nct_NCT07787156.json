@@ -4,6 +4,7 @@
  "categories": [
   "trial",
   "diagnosis",
+  "supportive",
   "treatment"
  ],
  "entities": [],
@@ -19,12 +20,11 @@
  "id": "nct:NCT07787156",
  "importance": 0.74,
  "key_points_ko": [
-  "췌장암 가족력이 있거나 유전 변이가 있는 가계 구성원 80명을 대상으로 원격 교육 방식을 비교 평가합니다.",
-  "온라인 교육 단독군과 전문 교육자의 전화 교육 병행군으로 무작위 배정됩니다.",
-  "교육 후 타액 채취를 통한 유전자 검사 및 혈액을 통한 다중암 조기 검진을 선택적으로 진행할 수 있습니다.",
-  "참여자의 30% 이상이 생식세포 유전자 검사 및 다중암 검사를 완료하는 것을 주요 타당성 지표로 평가합니다."
+  "목표 인원은 매사추세츠주에 거주하는 흑인, 라틴계, 메디케이드 가입자 등 고위험군 80명입니다.",
+  "참가자는 온라인 교육 단독 또는 PanCAN 전화 교육 세션 중 한 가지로 무작위 배정됩니다.",
+  "주요 평가변수는 유전자 검사 및 MCED 검사의 완료율, 검사 결정 여부, 연구 등록 및 유지율을 통한 타당성입니다."
  ],
- "last_updated": "2026-10-22",
+ "last_updated": "2026-10-23",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07787156"
  },
- "summary_ko": "이 연구는 췌장암 가족력이 있어 발생 위험이 높은 사람들을 대상으로 유전자 검사와 다중암 조기 발견(MCED) 혈액 검사에 대한 원격 교육의 실행 가능성을 평가하는 임상시험입니다. 매사추세츠주에 거주하는 흑인, 라틴계 또는 메디케이드(Medicaid) 가입자 80명을 대상으로 온라인 교육 단독군과 췌장암 환자 지원단체(PanCAN) 전문 상담원의 전화 교육을 병행하는 군으로 무작위 배정합니다. 교육 후 참여자는 타액을 이용한 생식세포 유전자 검사나 혈액 기반 다중암 검사를 받을지 자율적으로 결정할 수 있습니다. 3회의 설문 조사를 통해 원격 교육 방식의 실현 가능성과 수용도 등을 주로 확인합니다.",
+ "summary_ko": "이 연구는 췌장암 고위험군을 대상으로 원격 교육과 유전자 검사 및 다암종 조기 검사(MCED testing)의 타당성을 평가하는 임상시험입니다. 의료 접근성이 낮은 흑인, 라틴계, 메디케이드(Medicaid) 가입자 80명을 대상으로 온라인 교육 단독 또는 췌장암 행동 네트워크(PanCAN) 교육자와의 전화 교육을 무작위 배정합니다. 주요 목표는 이 접근법의 실현 가능성, 수용성, 순응도를 평가하는 것입니다. 참가자는 교육 후 자발적으로 유전자 검사나 MCED 검사를 선택할 수 있으며, 3번의 설문조사를 완료합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
@@ -59,7 +59,7 @@
   "Multi-cancer Early Detection (MCED) education"
  ],
  "title": "Reach and Engagement of GENetic Education, Risk Assessment, and TEsting Feasibility Trial",
- "title_ko": "유전 교육 및 다중암 조기 발견 검사 접근성 향상을 위한 REGENERATE 타당성 연구",
+ "title_ko": "유전 교육, 위험 평가 및 검사 타당성 연구(REGENERATE Feasibility Trial)의 참여 및 도달",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -79,7 +79,7 @@
     "phone": "857-215-1892"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 50세 이상이거나 가족 중 췌장암이 가장 먼저 진단된 연령보다 10년 이전인 사람\n- 현재 메디케이드(Medicaid) 수혜자이거나 흑인 또는 라틴계인 사람\n- 미국 매사추세츠주 거주자이며 영어 구사 및 인터넷 접속이 가능한 사람\n- 췌장암 진단을 받은 1차 직계가족이 최소 1명 있거나, 췌장암 관련 암 감수성 유전자(ATM, BRCA1, BRCA2 등)의 병원성 변이가 확인된 혈족이 있는 사람\n- 이전에 췌장암 위험도 관련 다유전자 패널 검사를 받은 적이 없는 사람\n- 다중암 검진 결과 양성 의심 시 보스턴 소재 다나-파버 암 연구소로 정밀검사를 위해 방문할 의향이 있는 사람\n\n제외 기준:\n- 최근 3년 이내 암 진단을 받은 경우(비흑색종 피부암 제외)\n- 췌장암 위험 관련 유전자 검사를 이전에 받았거나 최근 3년 내 유전 상담을 받은 경우\n- 현재 임신 중인 경우\n- 매사추세츠주 외 타 지역 거주자\n- 동일 가족 내 이미 3명의 구성원이 본 연구에 등록된 경우",
+  "eligibility_ko": "선정 기준: \n- 50세 이상이거나 가족 중 가장 이른 췌장암 진단 연령보다 10년 어린 연령\n- 현재 메디케이드(Medicaid) 가입자 및/또는 흑인 및/또는 라틴계\n- MCED 검사 결과 악성 종양이 의심될 경우 보스턴의 다나파버 암센터(Dana-Farber Cancer Institute)로 방문 의향이 있는 자\n- 매사추세츠주 거주자\n- 췌장암 유전적 위험과 관련된 이전 다유전자 패널 유전자 검사 경험이 없는 자\n- 연구 설문조사 완료를 위한 인터넷 접근성 보유\n- 영어 구사자\n- 최소 1명의 1촌 이내 친족이 췌장암 진단을 받았거나 췌장암 관련 유전자에 병원성 변이가 있는 혈연이 있는 자\n\n제외 기준: \n- 50세 미만이거나 가족의 가장 이른 췌장암 진단 연령보다 10년 이내에 해당하지 않는 자\n- 최근 3년 이내 암 진단 이력(비흑색종 피부암 제외)\n- 현재 임신 중인 자\n- 메디케이드 외의 보험 가입자 또는 흑인/라틴계가 아닌 인종/민족\n- 췌장암 유전적 위험과 관련된 이전 유전자 검사 이력\n- 최근 3년 이내 유전 상담 이력\n- 매사추세츠주 외 거주자\n- 영어가 아닌 언어 사용자\n- 동일 가족에서 이미 3명이 연구에 등록된 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 50 years or older OR 10 years younger than the earliest PDAC diagnosis in a family member\n* Current Medicaid enrollment and/or Black and/or Latino/a\n* Willingness to travel to Dana-Farber Cancer Institute in Boston, MA, for diagnostic testing if MCED screening test indicates possible malignancy\n* Living in the state of Massachusetts\n* No prior multi-gene panel genetic testing related to PDAC genetic risk\n* Internet access to complete study surveys\n* English speaking\n* Willing to complete study surveys\n* At least one first-degree relative with a PDAC diagnosis by participant report OR Any blood relative with a known pathogenic or likely pathogenic variant in a cancer susceptibility gene related to PDAC by participant report (e.g. ATM, BRCA1, BRCA2, CDKN2A, EPCAM, MLH1, MSH2, MSH6, PALB2, STK11, or TP53)\n\nExclusion Criteria:\n\n* Less than age 50 years or age not within 10 years of the earliest PDAC diagnosis in their family\n* Cancer diagnosis in the last 3 years (excluding non-melanoma skin cancers)\n* Currently pregnant\n* Insurance other than Medicaid or race/ethnicity other than Black or Latino/a\n* Prior genetic testing related to PDAC genetic risk\n* Genetic counseling in the last 3 years\n* Living in a state other than Massachusetts\n* Language other than English\n* Three members of the same family already enrolled in the study",
   "enrollment": 80,
   "has_results": false,
@@ -97,15 +97,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "최근 3년 이내 암 진단 이력(비흑색종 피부암 제외)",
-    "과거 췌장암 위험 관련 유전자 검사 또는 최근 3년 내 유전 상담 이력",
-    "임신 중인 경우",
-    "미국 매사추세츠주 외 거주자"
+    "최근 3년 이내 암 진단 이력",
+    "현재 임신 중",
+    "매사추세츠주 외 거주자",
+    "영어 구사 불가자"
    ],
    "max_prior_lines": null,
-   "measurable_required": false,
+   "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "췌장암 가족력이 있는 고위험군 성인을 위한 유전 교육 및 조기 검진 타당성 임상시험",
+   "notes_ko": "췌장암 가족력이나 유전적 위험이 있는 매사추세츠주 거주 흑인, 라틴계, 메디케이드 가입자 고위험군",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

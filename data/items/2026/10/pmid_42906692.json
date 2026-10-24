@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) features a profoundly immunosuppressive tumor microenvironment dominated by tumor-associated macrophages (TAMs), which facilitate immune evasion and compromise immunotherapeutic efficacy. The interaction between signal regulatory protein α (SIRPα) on macrophages and cluster of differentiation 47 (CD47) on tumor cells delivers a \"don't-eat-me\" signal that inhibits the phagocytosis of tumor cells by macrophages. Here, we present a macrophage-directed mRNA delivery strategy to reprogram TAMs in PDAC. Lipid nanoparticles (LNPs) were engineered to deliver inhibitor of DNA binding 3 (ID3) mRNA, whose expression was associated with reduced SIRPα expression and pro-inflammatory macrophage reprogramming. To promote preferential uptake by TAMs, mannose-modified LNPs (MLNPs) were developed by exploiting elevated CD206 expression on these cells. In an orthotopic PDAC model, MLNP-mediated ID3 mRNA delivery enhanced macrophage phagocytosis, promoted pro-inflammatory immune remodeling, and increased intratumoral T cell and natural killer cell (NK) infiltration, accompanied by tumor-growth suppression. Furthermore, MLNP-ID3 showed enhanced combination activity with anti-PD-1 therapy. Collectively, these findings establish a macrophage-targeted mRNA strategy for transcriptional reprogramming of TAMs and present a promising immunotherapeutic framework for PDAC.",
+ "authors": [
+  "Zhou W",
+  "Wang H",
+  "Li Y",
+  "Zhao J",
+  "Huang Q",
+  "Deng K",
+  "Wang E",
+  "Yang H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906692",
+ "importance": 0.64,
+ "key_points_ko": [
+  "종양 관련 대식세포(TAM)의 CD206을 표적하는 만노스 변형 지질나노입자(MLNP)를 통해 ID3 mRNA를 전달했습니다.",
+  "ID3 발현 유도로 대식세포의 SIRPα 수치가 감소하고 식균 작용 및 종양 내 T세포와 NK세포 침윤이 증가하여 종양 성장이 억제되었습니다.",
+  "동물 모델에서 항 PD-1 치료와 병용 투여했을 때 향상된 복합 항암 활성을 나타냈습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1016/j.jconrel.2026.115472",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906692"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Control Release",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906692/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)의 면역 억제 미세환경을 개선하기 위해 대식세포를 표적하는 mRNA 전달 기술을 평가한 전임상 연구입니다. 연구진은 대식세포의 SIRPα 발현을 낮추고 염증성 재프로그래밍을 유도하기 위해 ID3 mRNA를 탑재한 만노스 변형 지질나노입자(MLNP-ID3)를 개발했습니다. 동소이식 췌장암 동물 모델에서 해당 제형은 대식세포의 식균 작용을 촉진하고 종양 내 T세포 및 자연살해(NK) 세포 침윤을 유도하여 종양 성장을 억제했습니다. 또한 항 PD-1(anti-PD-1) 면역항암제와의 병용 투여 시 향상된 항종양 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Reprogramming tumor-associated macrophages via ID3 mRNA delivery for enhanced immunotherapy in pancreatic cancer",
+ "title_ko": "ID3 mRNA 전달을 통한 종양 관련 대식세포 재프로그래밍으로 췌장암의 면역치료 효과 증대",
+ "trial": null,
+ "type": "paper"
+}

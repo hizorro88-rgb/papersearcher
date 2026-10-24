@@ -22,12 +22,11 @@
  "id": "nct:NCT05908747",
  "importance": 0.87,
  "key_points_ko": [
-  "대상 질환은 국소 진행성 또는 경계성 절제 가능 췌장암입니다.",
-  "중재 치료는 surufatinib, gemcitabine, nab-paclitaxel 병용 요법입니다.",
-  "목표 환자 수는 29명입니다.",
-  "연령 기준은 18세에서 75세 사이입니다."
+  "목표 인원은 29명이며 18세에서 75세 사이의 환자를 대상으로 했습니다.",
+  "중재 치료로 surufatinib, gemcitabine, nab-paclitaxel 병용 요법이 사용되었습니다.",
+  "대상 질환은 국소 진행성 또는 경계성 절제 가능 췌장암입니다."
  ],
- "last_updated": "2026-10-22",
+ "last_updated": "2026-10-23",
  "links": {
   "doi": null,
   "nct": [
@@ -50,17 +49,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05908747"
  },
- "summary_ko": "이 연구는 국소 진행성 또는 경계성 절제 가능 췌장암 환자를 대상으로 surufatinib과 gemcitabine, nab-paclitaxel 병용 요법을 수술 전후 치료(peri-operative treatment)로 투여했을 때의 효과와 안전성을 평가하기 위한 2상 임상시험입니다. 18세에서 75세 사이의 환자 29명을 목표로 진행되었습니다. 중재 치료로는 surufatinib, gemcitabine, nab-paclitaxel이 사용되었습니다. 잠재적인 치료 바이오마커도 함께 탐색합니다.",
+ "summary_ko": "이 연구는 국소 진행성 또는 경계성 절제 가능 췌장암 환자를 대상으로 surufatinib(수루파티닙)과 gemcitabine(젬시타빈), nab-paclitaxel(나브-파클리탁셀) 병용 수술 전후(peri-operative) 치료의 유효성과 안전성을 평가하기 위한 2상 임상시험입니다. 다기관, 공개(open-label) 방식으로 진행되었으며 목표 인원은 29명입니다. 잠재적인 치료 바이오마커도 함께 탐색합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Efficacy and Safety of Surufatinib Combined With Gemcitabine and Albumin-bound Paclitaxel in the Peri-operative Treatment of Pancreatic Cancer",
- "title_ko": "국소 진행성 또는 경계성 절제 가능 췌장암에서 수루파티닙(surufatinib)과 젬시타빈(gemcitabine),  nab-paclitaxel 병용 수술 전후 치료의 효과와 안전성",
+ "title_ko": "국소 진행성 또는 경계성 절제 가능 췌장암에서 surufatinib과 gemcitabine 및 nab-paclitaxel 병용 수술 전후 치료의 유효성 및 안전성 평가",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n* 조직학적 또는 세포학적으로 확진된 고위험 절제 가능 또는 경계성 절제 가능 췌장암\n* 18세~75세\n* BRCA1/2 또는 PALB2 변이가 없음\n* 이전 전신 치료 또는 방사선 치료력이 없음\n* 동유럽임상종합연구그룹(ECOG) 수행능력 0~1\n* 기대여명 6개월 이상\n* RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상\n* 적절한 장기 및 골수 기능\n* 가임기 여성의 효과적인 피임 조치\n\n제외 기준:\n* 원격 전이가 있는 경우\n* 등록 전 14일 이내 수혈, 혈액 제제, 조혈인자 투여력을 가짐\n* 등록 전 4주 이내 수술 또는 침습적 치료를 받음\n* 연구 약물 또는 보조제에 알레르기가 있는 경우\n* 심각한 심혈관 및 뇌혈관 질환 병력\n* 활동성 궤양, 장 척수 또는 장폐색이 있는 경우\n* 조절되지 않는 악성 복수\n* 약물로 조절되지 않는 고혈압\n* 임신 중이거나 수유 중인 여성\n* 5년 이내 동시성 암 병력",
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확진된 고위험 절제 가능 또는 경계성 절제 가능 췌장암 환자 - 18세~75세 - BRCA1/2 또는 PALB2 변이가 없는 환자 - 이전 전신 치료 또는 방사선 치료를 받지 않은 환자 - ECOG 수행능력 0~1 - 예상 수명 6개월 이상 - RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상 - 적절한 장기 및 골수 기능 보유 - 가맹 여성의 효과적인 피임 조치. 제외 기준: - 원격 전이가 있는 환자 - 등록 전 14일 이내 수혈, 혈액 제제, 조혈인자 투여 받은 환자 - 등록 전 4주 이내 수술 또는 침습적 치료를 받은 환자 - 연구 약물에 알레르기가 있는 환자 - 심각한 심혈관 및 뇌혈관 질환 병력 - 조절되지 않는 고혈압 - 임신 중이거나 수유 중인 여성 - 5년 이내 동시성 암 병력 - 알려진 HIV 감염 또는 임상적으로 유의미한 간 질환 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed high-risk resectable or borderline resectable pancreatic cancer;\n* 18-75 years old (including 18 and 75 years old);\n* No BRCA1/2 or PALB2 mutation;\n* No previous systematic treatment or radiotherapy;\n* Eastern Cooperation Oncology Group (ECOG) performance status of 0-1;\n* Life expectancy ≥ 6 months;\n* At least one measurable lesion according to RECIST version 1.1;\n* Adequate organ and bone marrow functions: -Absolute neutrophil count≥1.5x10\\^9/L; -Platelet count≥100x10\\^9/L; -Hemoglobin≥9g/dL; -Serum bilirubin≤1.5x the upper limit of normal (ULN); -Alanine aminotransferase (ALT) and aspartate aminotransferase (AST)≤2.5x ULN; -Serum creatinine≤1.5x ULN or endogenous creatinine clearance rate ≥ 60ml / min; -INR≤1.5×ULN, PT and APTT≤1.5×ULN；\n* Women of childbearing age need to take effective contraceptive measures.\n\nExclusion Criteria:\n\n* With distant metastasis;\n* Have received blood transfusion treatment, blood products and hematopoietic factors, such as albumin and granulocyte colony-stimulating factor (G-CSF) within 14 days before enrollment;\n* Have received any surgery or invasive treatment or operation within 4 weeks before enrollment (except venous catheterization, puncture and drainage, etc.);\n* Allergic to the study drug or any of its adjuvants;\n* researchers judged clinically significant electrolyte abnormalities;\n* History of serious cardiovascular and cerebrovascular diseases: -Cerebrovascular accident (excluding lacunar cerebral infarction, minor cerebral ischemia or transient ischemic attack), myocardial infarction, unstable angina pectoris, and poorly controlled arrhythmia (including QTc interval ≥ 450ms for male and ≥ 470ms for female) occurred within 6 months before the first administration of the study drug (QTc interval was calculated by fridericia formula); -New York Heart Association (NYHA) cardiac function classification \\> grade II or left ventricular ejection fraction (LVEF) \\< 50%;\n* With active ulcer, intestinal perforation and intestinal obstruction;\n* Uncontrollable malignant ascites (defined as ascites that cannot be controlled by diuretics or puncture according to the judgment of the investigator);\n* Clinically significant electrolyte abnormalities judged by researchers;\n* With active bleeding or obvious evidence of bleeding tendency;\n* Hypertension that cannot be controlled by drugs: systolic blood pressure ≥ 150 mmHg and / or diastolic blood pressure ≥ 100 mmHg;\n* Women who are pregnant or lactating;\n* Urinary protein ≥ ++, or the 24-hour urine protein quantification is greater than 1.0g;\n* Concurrent tumors within 5 years (except treated cervical carcinoma in situ, basal cell carcinoma);\n* Any disease or state that affects the absorption of drugs, or the subject cannot take oral drugs;\n* Known human immunodeficiency virus (HIV) infection;\n* History of clinically significant hepatic disease, including, but not limited to, known hepatitis B virus (HBV) infection with HBV DNA positive (copies ≥1×10\\^4/ml or \\>2000 IU/ml); known hepatitis C virus infection with HCV RNA positive (copies ≥1×10\\^3/m); hepatitis and cirrhosis;\n* Have any other disease, metabolic disorder, physical examination anomaly, abnormal laboratory result, or any other conditions that makes the subject not suitable for enrolling according to the judgment of the investigator.",
   "enrollment": 29,
   "has_results": false,
@@ -79,20 +78,26 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "원격 전이 존재",
+    "원격 전이가 있는 경우",
     "심각한 심혈관 및 뇌혈관 질환 병력",
-    "임신 또는 수유 중",
-    "5년 이내 다른 암 병력"
+    "조절되지 않는 고혈압",
+    "5년 이내 다른 암 병력",
+    "임신 또는 수유 중인 경우"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 경계성 절제 가능 또는 고위험 절제 가능 췌장암 환자",
-   "prior_excluded": [],
+   "notes_ko": "이전 치료가 없는 국소 진행성 또는 경계성 절제 가능 췌장암 환자를 위한 시험입니다.",
+   "prior_excluded": [
+    "gemcitabine",
+    "taxane",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "locally_advanced",
     "resectable",
+    "adjuvant",
     "neoadjuvant"
    ],
    "source": "llm"

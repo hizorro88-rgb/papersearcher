@@ -1,0 +1,113 @@
+{
+ "abstract": "The goal of this clinical trial is to assess the safety and efficacy of ANO31905 in combination with chemotherapy as the first-line treatment for subjects with CLDN18.2-positive locally advanced unresectable or metastatic pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07444541",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07444541"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-03-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anova Innovation Limited",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07444541"
+ },
+ "summary_ko": "The goal of this clinical trial is to assess the safety and efficacy of ANO31905 in combination with chemotherapy as the first-line treatment for subjects with CLDN18.2-positive locally advanced unresectable or metastatic pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "ANO31905 in Combination With Chemotherapy for CLDN18.2-Positive Locally Advanced Unresectable or Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "tiana.zhao@qilu-pharma.com",
+    "name": "Tiana Zhao",
+    "phone": "210-450-5798"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Patients voluntarily participate in the study and sign the written ICF;\n2. Males or females aged ≥ 18 at the time of signing the ICF;\n3. Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1;\n4. Expected survival ≥ 3 months;\n5. Histologically or cytologically confirmed diagnosis of pancreatic ductal adenocarcinoma (including adenosquamous cell carcinoma) which is locally advanced unresectable or metastatic with the first diagnosis within 3 months before the first dose (clinical staging criteria are based on AJCC 8th edition);\n6. Those who have not received any anti-tumor treatment for locally advanced unresectable or metastatic pancreatic ductal adenocarcinoma, including but not limited to surgery, radiotherapy, and chemotherapy; however, if they have received palliative radiotherapy for metastases to bone and/or pain ≥14 days before the first dose of the study treatment and have recovered from all acute toxicities, they can be included. For previous systemic therapy in the neoadjuvant and/or adjuvant stage, the time of disease recurrence or progression must be ≥ 6 months after the last dose and within 3 months before the first study dose;\n7. At least one measurable lesion according to RECIST v1.1;\n8. Tumor tissue samples are determined to be CLDN18.2-positive by immunohistochemistry (IHC) in the central laboratory, defined as ≥1% of tumor cells with membranous staining intensity ≥1+ determined by IHC;\n9. Patients with sufficient organ function within 7 days before the first study dose;\n10. Non-pregnant or -lactating women; patients of childbearing potential (male and female) must agree to use a reliable method of contraception with their partner from the signing of the ICF until at least 3 months for Cohort A or 6 months for Cohort B (for males) or 6 months for Cohort A or 9 months for Cohort B (for females) after the last dose; female patients of childbearing age must have a negative serum pregnancy test within 7 days before the first study dose.\n\nExclusion Criteria:\n\n1. Patients with other malignant tumors except pancreatic adenocarcinoma within 5 years before the first dose of the study treatment (except for in situ cancer of the cervix, basal cell or squamous epithelial cell skin cancer, localized prostate cancer, or ductal carcinoma in situ of the breast);\n2. Patients who have previously received an organ transplant/allogeneic bone marrow transplant or are awaiting an organ transplant/allogeneic bone marrow transplant during the expected study period;\n3. Patients who have received treatment with herbal medicines with well documented anti-tumor effects or indications within 14 days before the first study dose;\n4. Patients who have participated in other interventional clinical trials and used interventional measures (such as drugs or devices) within 28 days before the first study dose;\n5. Patients who have undergone major organ surgery (excluding aspiration biopsy and venous catheterization) or experienced significant trauma within 28 days before the first study dose;\n6. Patients who have received attenuated live vaccines within 28 days before the first study dose or are expected to receive attenuated live vaccines during study treatment;\n7. Patients with toxic reactions to previous anti-tumor therapy which haven't recovered to Grade ≤ 1 according to NCI-CTCAE v6.0 criteria (for CRS and ICANS, Grade ≤ 1 as per the ASTCT)),) excluding alopecia (any grade) or other toxic reactions with no safety risk considered by the investigator;\n8. Patients who have previously received treatment targeting CLDN18.2, including but not limited to monoclonal antibodies, bispecific antibodies, chimeric antigen receptor T-cell immunotherapy (CAR-T), or antibody-drug conjugate (ADC);\n9. Patients who have received corticosteroids for systemic use (\\> 10 mg/day prednisone or equivalent) or other immunosuppressants (including but not limited to cyclophosphamide, methotrexate, and thalidomide) within 14 days before the first study dose or expected to receive during study treatment, except that substitution therapy with physiological doses of corticosteroids (ie, ≤ 10 mg/day prednisone or equivalent) is allowed for insufficiency adrenal cortex in the absence of active autoimmune disorders, topical, ocular, intra-articular, intranasal and inhalation use of glucocorticoids are allowed, and the use of glucocorticoids to prevent contrast media allergy is allowed;\n10. Patients with a history of active autoimmune disorders or autoimmune disorders requiring systemic treatment;\n11. Patients who have previously experienced serious adverse reactions related to immunotherapy, or intolerance to immunotherapy;\n12. Patients with known hypersensitivity to any component or excipient of ANO31905, gemcitabine, and nanoparticle albumin-bound paclitaxel;\n13. For Cohort B, use of strong inhibitors or inducers of CYP3A or use of strong inhibitors of UGT1A1.\n14. For Cohort B, known low or absent dihydropyrimidine dehydrogenase (DPD) activity. Where required by local regulations, testing for DPD deficiency must be performed using a validated method which is recommended by local health authorities.\n15. Patients with known metastases to the central nervous system;\n16. Patients with a poor nutrition condition of indicated by a weight ≤40 kg or body mass index (BMI) \\<18.0 kg/m2; if symptomatic nutritional support is provided and the condition is corrected before the first study dose, continued screening for enrollment may be considered after assessment by the investigator;\n17. Patients a with serious systemic infection or a medically unexplained fever ≥ 38.5°C (101.3°F) within 28 days before the first study dose;\n18. Patients with severe cardiovascular and cardiovascular diseases;\n19. Presence risks of thrombosis or bleeding:\n20. Patients having severe advanced diseases with comorbidities that may be life-threatening in the short term;\n21. Patients with gastrointestinal diseases that are not suitable for enrollment as judged by the investigator;\n22. Patients with known or suspected interstitial pneumonitis, moderate to severe lung diseases that seriously affect respiratory function\n23. Patients with hepatitis B, hepatitis C, or a known HIV positive history or positive HIV screening;\n24. Patients with other conditions that may place the patients at increased undue study-related risks.",
+  "enrollment": 84,
+  "has_results": false,
+  "interventions": [
+   "ANO31905",
+   "AG [gemcitabine+nab-paclitaxel]",
+   "mFOLFIRINOX [Oxaliplatin+irinotecan+leucovorin+fluorouracil]"
+  ],
+  "last_update_posted": "2026-10-23",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "CLDN18_2"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 3,
+  "nct_id": "NCT07444541",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-08",
+  "sex": "ALL",
+  "sponsor": "Anova Innovation Limited",
+  "start_date": "2026-12",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

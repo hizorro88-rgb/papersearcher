@@ -1,0 +1,62 @@
+{
+ "abstract": "Gemcitabine (GEM) is a first-line therapeutic option for pancreatic cancer; however, it has low efficacy due to rapidly developed drug resistance and severe dose-limiting myelosuppression. To enhance its therapeutic effect, this study developed a novel peptide-drug conjugate using a CXCR4 antagonistic peptide as the targeting head and gemcitabine as the drug payload, based on the characteristics of pancreatic tumor cells highly expressing CXCR4 that mediates immunosuppression and tumor progression through interaction with its specific ligand CXCL12. The therapeutic effect of the conjugate (P12-GEM) was investigated using pancreatic ductal adenocarcinoma cell lines and an orthotopic pancreatic cancer mouse model. Its myelosuppressive effect was assessed from the perspective of hematological toxicity profiles. The results showed that P12-GEM maintained a cell-killing capability comparable to that of GEM while effectively inhibiting the phosphorylation of Erk and P38, thereby reducing CXCL12-mediated tumor cell migration and adhesion to stromal cells. In a tumor-bearing mouse model, P12-GEM demonstrated superior antitumor efficacy compared to GEM and significantly extended animal survival. Moreover, P12-GEM reduced the proportion of tumor-associated macrophages and increased the infiltration of CD8+ T cells in the tumor microenvironment without reducing platelet and white blood cell counts in the peripheral blood. In summary, P12-GEM possesses dual functions of CXCR4 antagonism and tumor cell killing, contributing to reversal of the immunosuppressive microenvironment and alleviation of myelotoxicity.",
+ "authors": [
+  "Zhu K",
+  "Liu X",
+  "Li D",
+  "Wang T",
+  "Wen T",
+  "Fang X",
+  "Yang Y",
+  "Liu J"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906152",
+ "importance": 0.57,
+ "key_points_ko": [
+  "CXCR4 표적 펩타이드와 gemcitabine(젬시타빈)을 결합한 P12-GEM은 동종이식 마우스 모델에서 gemcitabine 대비 우수한 항암 효과와 생존 기간 연장을 보였습니다.",
+  "P12-GEM은 종양 관련 거식세포(TAM)를 줄이고 CD8+ T 세포 침윤을 증가시켜 면역억제적 종양 미세환경을 개선했습니다.",
+  "말초 혈액 내 백혈구 및 혈소판 수치를 감소시키지 않아 기존 gemcitabine의 주요 독성인 골수억제(myelosuppression)를 완화했습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1021/acs.molpharmaceut.6c00292",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906152"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Pharm",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906152/"
+ },
+ "summary_ko": "췌장암 세포에 높게 발현되는 CXCR4 수용체를 표적하는 펩타이드와 gemcitabine(젬시타빈)을 결합한 신약 후보물질 P12-GEM에 대한 전임상 연구입니다. 췌장암 세포주 및 동물 모델 실험에서 P12-GEM은 gemcitabine 단독 투여 대비 더 우수한 종양 억제 효과와 생존 기간 연장을 나타냈습니다. 또한 종양 미세환경 내 면역억제 세포를 줄이고 CD8+ T 세포 침윤을 늘리는 동시에 기존 gemcitabine의 주된 부작용인 골수 독성을 줄였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Dual-Action CXCR4-Targeted Peptide-Drug Conjugate Engineered to Enhance Antitumor Efficacy and Mitigate Myelosuppression in Pancreatic Cancer",
+ "title_ko": "항암 효능을 높이고 골수억제 부작용을 줄이도록 설계된 이중 작용 CXCR4 표적 펩타이드-약물 접합체 연구",
+ "trial": null,
+ "type": "paper"
+}

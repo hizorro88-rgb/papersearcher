@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>723</b><span>누적 수집<br><small>논문·소식 254 · 임상시험 469</small></span></div><div class="ps-stat"><b>+10</b><span>오늘 신규<br><small>갱신 38건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>747</b><span>누적 수집<br><small>논문·소식 272 · 임상시험 475</small></span></div><div class="ps-stat"><b>+24</b><span>오늘 신규<br><small>갱신 39건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-22](_generated/daily/2026/10/22.md)
+최근 수집일: [2026-10-23](_generated/daily/2026/10/23.md)
 
 <a id="nct-nct06989437"></a>
 #### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
@@ -19,21 +19,21 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT06989437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06989437)</small>
 
 ---
-<a id="nct-nct07490301"></a>
-#### [1차 전이성 췌관선암 환자를 대상으로 telisotuzumab adizutecan과 FOLFOX 병용요법을 표준 치료와 비교 평가하는 2/3상 임상시험](https://clinicaltrials.gov/study/NCT07490301)
-<small>A Study to Assess Intravenous (IV) Telisotuzumab Adizutecan in Combination With Fluorouracil, Folinic Acid, and Oxaliplatin (FOLFOX) Compared to Standard of Care in Adult Participants With First-Line Metastatic Pancreatic Ductal Adenocarcinoma</small>
+<a id="nct-nct07252232"></a>
+#### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
+<small>Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
 
-`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-24 · ClinicalTrials.gov · AbbVie · 중요도 1.00
+`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-11-26 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
-**NCT07490301** · 2상/3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07490301.md)
+**NCT07252232** · 3상 · 모집 중 · 국내 4곳 · [참여 조건·기관 보기](_generated/trials/NCT07252232.md)
 
-이 임상시험은 이전 치료 경험이 없는 1차 전이성 췌관선암 성인 환자를 대상으로 진행됩니다. 신약 후보물질인 telisotuzumab adizutecan(텔리소투주맙 아디주테칸)을 FOLFOX 항암요법과 병용 투여하여 안전성과 치료 효과를 표준 치료법과 비교 평가합니다. 연구는 2상(용량 증량 및 최적화 단계)과 3상 단계로 구성되며 총 900명의 환자가 참여합니다.
+이 연구는 근치적 절제 수술 후 선행 또는 보조 항암화학요법을 마친 췌장관선암(PDAC) 환자를 대상으로 진행되는 글로벌 3상 임상시험입니다. 신약 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 유효성과 안전성을 표준 치료인 경과 관찰과 비교 평가합니다. 총 500명의 환자를 대상으로 무병 생존기간(DFS)의 개선 효과를 확인합니다. 국내 4개 기관이 이번 임상시험에 참여합니다.
 
-- 1차 전이성 췌관선암 환자를 대상으로 telisotuzumab adizutecan과 FOLFOX 병용요법을 평가하는 2/3상 연구입니다.
-- 2상 단계에서 적정 용량을 탐색 및 최적화한 후, 3상 단계에서 표준 치료법과 비교하여 효과를 검증합니다.
-- 전 세계 약 200개 기관에서 총 900명의 환자를 모집합니다.
+- 근치적 수술(R0/R1) 및 항암치료를 마친 환자 500명을 대상으로 하는 임상 3상 연구입니다.
+- 표준 경과 관찰 대비 daraxonrasib(다락소나십)의 무병 생존기간(DFS) 개선 효과를 검증합니다.
+- 국내 4개 기관에서 환자를 모집하고 있습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07490301) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07490301)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
 
 ---
 <a id="pmid-42899395"></a>
@@ -51,21 +51,6 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
 
 ---
-<a id="pmid-42868319"></a>
-#### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
-<small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
-
-`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-13 · PubMed · JCO Clin Cancer Inform · 중요도 0.93
-
-이 연구는 췌관선암(PDAC)의 재발, 전이, 림프절 전이 등을 예측하는 모델과 인자들을 분석한 체계적 문헌고찰 연구입니다. 총 208건의 연구(예측 모델 144건, 예후 인자 연구 64건)를 검토한 결과, 컴퓨터단층촬영(CT)/라디오믹스 및 임상 정보가 가장 흔히 활용되었습니다. 조기 재발 예측 정확도(AUC)는 0.70~0.92, 무병 생존기간(DFS) 예측 C-index는 0.62~0.82 수준으로 보고되었습니다. 연구진은 많은 모델이 후향적 연구에 기반하고 외부 검증이나 보정 평가가 부족하여 실제 임상 적용을 위해서는 전향적 평가가 필요하다고 결론지었습니다.
-
-- 분석에 포함된 208건 중 144건이 예측 모델 연구였으며, CT/라디오믹스(141건)와 임상 정보(104건)가 주로 활용되었습니다.
-- 조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.
-- 외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42868319/) · [DOI](https://doi.org/10.1200/CCI-26-00200) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42868319)</small>
-
----
 <a id="pmid-42883736"></a>
 #### [췌관선암종에서 CD74 발현의 예후 및 임상병리학적 의의: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42883736/)
 <small>Prognostic and Clinicopathological Significance of CD74 Expression in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis</small>
@@ -79,5 +64,21 @@
 - CD74 발현 양성은 전체 생존기간(OS) 단축과 유의한 관련을 보였습니다(3개 코호트 293명, 위험비 HR=2.04, 95% CI: 1.45-2.88, p<0.00001).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883736/) · [DOI](https://doi.org/10.3390/ijms27198488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883736)</small>
+
+---
+<a id="pmid-42886001"></a>
+#### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
+<small>Radiotherapy combined with serplulimab, and chemotherapy as first-line treatment for metastatic pancreatic adenocarcinoma: a multicenter, single-arm, phase II trial</small>
+
+`논문` `2상` `신약·치료제` `치료 전반` `임상시험` · 2026-10-16 · PubMed · Clin Cancer Res · 중요도 0.86
+
+이 연구는 전이성 췌관선암(mPDAC) 환자의 1차 치료로서 면역관문억제제 serplulimab(서플루리맙), gemcitabine(젬시타빈) 및 nab-paclitaxel(나브파클리탁셀), 그리고 정위체부방사선치료(SBRT)를 함께 병용하는 2상 임상시험입니다. 총 46명의 환자가 치료를 받았으며, 6개월 무진행 생존율 78.3%를 기록하여 사전 목표였던 60%를 달성했습니다. 중앙 무진행 생존기간(PFS)은 8.5개월, 중앙 전체 생존기간(OS)은 14.0개월로 양호한 치료 효과를 보였습니다. 치료 관련 사망이나 예상치 못한 이상반응은 관찰되지 않아 내약성이 확인되었습니다.
+
+- 6개월 무진행 생존율은 78.3%(95% CI, 67.2%-91.1%)로 목표치인 60%를 초과 달성했습니다.
+- 객관적 반응률(ORR)은 73.9%(95% CI, 58.9%-85.7%)였으며, 중앙 무진행 생존기간(PFS)은 8.5개월이었습니다.
+- 중앙 전체 생존기간(OS)은 14.0개월(95% CI, 12.0개월-미도달)이었고 치료 관련 사망은 없었습니다.
+- 치료 전 순환 종양 DNA(ctDNA)가 음성인 환자에서 유의하게 더 나은 생존 결과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886001/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-26-1824) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886001)</small>
 
 ---

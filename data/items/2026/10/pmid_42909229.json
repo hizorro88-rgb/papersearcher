@@ -1,0 +1,58 @@
+{
+ "abstract": "Fungal dysbiosis has been reported in colorectal cancer (CRC), gastric cancer (GC), and pancreatic ductal adenocarcinoma (PDAC), but evidence strength differs substantially by tumor type and model system. Human CRC studies provide the broadest ecological evidence, including altered fungal community structure and fungal-bacterial networks. Human GC evidence is mainly cross-sectional and identifies Candida albicans as a candidate tissue-associated signal rather than a proven driver. In PDAC, human tissue studies report fungal signals, whereas causal support for Malassezia-mannose-binding lectin (MBL)-complement and fungal IL-33/type 2 immunity derives principally from mouse perturbation models. This narrative review synthesizes cancer-specific observations, fungal sensing, epithelial injury, immune remodeling, cross-kingdom interactions, and translational implications. We emphasize that low fungal biomass, contamination, transient dietary or environmental fungi, non-standardized sequencing, spatial uncertainty, and reverse causation limit interpretation. Fungal detection does not establish viability, colonization, or tumor causation. Clinical translation will require standardized controls, absolute fungal-load measurements, spatial confirmation, longitudinal cohorts, functional validation, and external testing of whether fungal features add value beyond established clinical, bacterial, metabolic, imaging, and immune markers.",
+ "authors": [
+  "Ma L",
+  "Wang Z",
+  "Mao J"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42909229",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장관선암에서 진균과 면역 반응 간의 인과관계 기전은 주로 동물 모델을 통해 보고되었습니다.",
+  "진균이 검출되었다고 해서 균의 생존성이나 암 발생의 직접 원인임을 입증하는 것은 아닙니다.",
+  "낮은 진균량, 샘플 오염, 분석 표준화 부족 등의 한계가 있어 결과 해석에 주의가 필요합니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.3389/fcimb.2026.1902754",
+  "nct": [],
+  "pmcid": "PMC13684329",
+  "pmid": "42909229"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Cell Infect Microbiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42909229/"
+ },
+ "summary_ko": "본 종설 논문은 대장암, 위암, 췌장관선암(PDAC)에서 장내 진균총(mycobiome) 불균형의 역할과 한계점을 종합했습니다. 췌장암 조직 연구에서 진균 신호가 보고되었으나 인과관계 기전은 주로 쥐 모델에서 입증되었습니다. 연구진은 진균 검출이 해당 균의 생체 내 생존이나 암 발병 원인을 직접 의미하는 것은 아니라고 강조했습니다. 향후 임상 적용을 위해서는 진균 검사법의 표준화와 추가적인 정밀 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gut mycobiome dysbiosis in digestive system cancers: immune remodeling and translational implications",
+ "title_ko": "소화기계 암에서 장내 진균총 불균형: 면역 재구성 및 임상적 시사점",
+ "trial": null,
+ "type": "paper"
+}

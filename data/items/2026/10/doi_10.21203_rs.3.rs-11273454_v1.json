@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Background:  Adequate tissue acquisition is important for histological assessment and ancillary testing in pancreatic ductal adenocarcinoma (PDAC). We primarily explored the association between operator-rated puncture performance and first-pass lesion tissue area during endoscopic ultrasound-guided tissue acquisition (EUS-TA) in patients with PDAC. A secondary analysis examined whether this association was observed in the overall cohort, irrespective of final diagnosis. <h4>Methods:</h4> This exploratory single-center sub-analysis used prospective data from a multicenter randomized trial of 22-gauge fine-needle biopsy needles. Endoscopists rated overall puncture performance on a five-point scale after EUS-TA. Ratings were analyzed using two post hoc dichotomizations: very easy/easy versus indeterminate/difficult/very difficult, and very easy versus all other ratings. First-pass lesion tissue area was quantified automatically on histological slides using a digital microscope with image-analysis software. Multivariable linear regression assessed associations between ratings and tissue areas in each cohort, adjusting for needle type, puncture route, operator experience, and lesion size. Firth logistic regression assessed associations between ratings and exploratory ≥ 4-mm² benchmark attainment in the PDAC cohort. Trends in tissue area across very easy, easy, and remaining ratings were assessed using the Jonckheere–Terpstra test. Comprehensive genomic profiling (CGP) suitability was summarized descriptively. <h4>Results:</h4> Of 62 patients, 48 had PDAC. In the PDAC cohort, the very easy/easy comparison yielded inconclusive adjusted associations with tissue area and benchmark attainment. A very easy rating was associated with greater tissue area (median, 5.45 vs. 1.90 mm²; adjusted difference, 1.93 mm²; 95% confidence interval [CI], 0.12–3.74) and benchmark attainment (57.7% vs. 22.7%; adjusted odds ratio, 4.44; 95% CI, 1.17–21.06). Tissue area decreased with less favorable ratings (p for trend = 0.016). Two of six patients assessed for CGP were considered suitable. In the overall cohort, lesion size remained associated with tissue area, whereas adjusted associations for both rating dichotomizations were inconclusive. Tissue area decreased with less favorable ratings (p for trend = 0.034). <h4>Conclusions:</h4> In patients with PDAC, an endoscopist’s very easy rating was associated with greater first-pass lesion tissue area after adjustment for lesion size and procedural factors. Prospective pass-by-pass studies are needed to validate this exploratory association and determine its utility in EUS-TA. Trial registration:  Parent trial: Japan Registry of Clinical Trials (jRCT), jRCT1042220099, registered on 25 November 2022.</p>",
+ "authors": [
+  "Takada Y",
+  "Ishikawa T",
+  "Yamao K",
+  "Mizutani Y",
+  "Iida T",
+  "Aoi H",
+  "Kumano R",
+  "Kuwatsuka Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11273454/v1",
+ "importance": 0.69,
+ "key_points_ko": [
+  "시술자가 천자를 '매우 쉬움'으로 평가한 경우 첫 번째 천자의 조직 면적 중앙값은 5.45 mm²로, 그 외 평가군(1.90 mm²)에 비해 유의하게 컸습니다(보정 차이 1.93 mm²).",
+  "4 mm² 이상의 조직 확보 기준을 달성한 비율은 '매우 쉬움' 군에서 57.7%, 그 외 군에서 22.7%였습니다(보정 오즈비 4.44).",
+  "천자 난이도 평가가 덜 수월하다고 보고될수록 획득된 병변 조직의 면적이 유의하게 감소하는 경향을 보였습니다(경향성 p=0.016)."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11273454/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1348148"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자 48명을 포함한 총 62명을 대상으로 초음파 내시경 유도하 조직 획득(EUS-TA) 시 시술자의 천자 용이성 체감도와 채취된 조직 면적 간의 관계를 분석했습니다. 시술자가 천자 과정을 '매우 쉬움(very easy)'으로 평가했을 때 첫 번째 천자에서 얻은 병변 조직 면적이 유의하게 더 컸습니다. 조직 면적이 4 mm² 이상 확보된 비율 또한 '매우 쉬움' 군에서 57.7%로 다른 군(22.7%)보다 높았습니다. 연구진은 시술자의 체감 평가가 유효한 조직 획득 여부를 파악하는 데 참고가 될 수 있으며, 향후 추가적인 전향적 연구 검증이 필요하다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Operator-rated puncture performance and first-pass lesion tissue area in pancreatic ductal adenocarcinoma: an exploratory single-center sub-analysis of endoscopic ultrasound- guided tissue acquisition",
+ "title_ko": "췌관선암에서 시술자의 천자 난이도 평가와 첫 번째 천자 병변 조직 면적의 연관성: 초음파 내시경 유도하 조직 획득의 탐색적 단일 기관 하위 분석",
+ "trial": null,
+ "type": "preprint"
+}

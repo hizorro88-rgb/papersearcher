@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND & AIMS: Gemcitabine remains a cornerstone of systemic therapy for pancreatic ductal adenocarcinoma (PDAC) but acquired resistance limits its efficacy. While both microenvironment-derived metabolites and intrinsic metabolic reprogramming have been implicated in gemcitabine resistance, the relationship between these mechanisms remains poorly understood. We investigated the metabolic adaptations accompanying acquired gemcitabine resistance and identified therapeutically actionable vulnerabilities.\nMETHODS: Acquired gemcitabine-resistant PDAC models were generated and characterized. The effects of physiological pyrimidines on gemcitabine response were evaluated alongside changes in pyrimidine metabolism. Sensitivity to inhibition of the mevalonate pathway was assessed in vitro and in immunocompetent mouse models. Metabolite rescue experiments were performed to identify critical downstream mediators of statin activity and HMGCR expression was analyzed for its association with clinical response to gemcitabine.\nRESULTS: PDAC cells with acquired gemcitabine resistance exhibited diminished sensitivity to physiological extracellular pyrimidines due to suppression of the pyrimidine salvage pathway. This metabolic rewiring created a selective dependency on the mevalonate biosynthesis pathway, rendering gemcitabine resistant cells highly sensitive to statins. Statin treatment selectively inhibited the growth of gemcitabine-resistant tumors in mice. Metabolite rescue studies identified geranylgeranyl pyrophosphate depletion, not cholesterol limitation, as a principal mediator of statin sensitivity. HMGCR expression declined progressively during the acquisition of gemcitabine resistance and low HMGCR expression levels predicted poor response to gemcitabine-based therapy in PDAC patients.\nCONCLUSIONS: Acquired gemcitabine resistance drives metabolic reprogramming that suppresses pyrimidine salvage while creating a therapeutically exploitable dependence on the mevalonate pathway. These findings identify pharmacological inhibition of HMGCR as a metabolic vulnerability in gemcitabine resistance and support HMGCR expression as a candidate biomarker for treatment stratification in PDAC patients.",
+ "authors": [
+  "Michels AK",
+  "Calderon S",
+  "Nghiem E",
+  "Zimmer E",
+  "Santana LS",
+  "Singh R",
+  "Eiseler T",
+  "Allgöwer C"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906825",
+ "importance": 0.66,
+ "key_points_ko": [
+  "젬시타빈(gemcitabine) 내성을 획득한 췌장암 세포는 피리미딘 회수 경로 억제로 인해 메발로네이트(mevalonate) 경로에 선택적 의존성을 보였습니다.",
+  "스타틴(statin) 투여는 면역 정상 마우스 모델에서 젬시타빈 내성 종양의 성장을 선택적으로 억제했습니다.",
+  "환자 분석에서 HMGCR 발현 감소는 젬시타빈 기반 치료에 대한 불량한 반응과 연관되었습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1053/j.gastro.2026.09.027",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906825"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gastroenterology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906825/"
+ },
+ "summary_ko": "연구진은 췌장관선암종(PDAC)에서 젬시타빈(gemcitabine) 내성 획득에 따른 대사 적응 과정을 밝히고 치료 가능한 취약점을 탐색했습니다. 연구 결과, 젬시타빈 내성 세포는 메발로네이트(mevalonate) 생합성 경로에 선택적으로 의존하게 되며 스타틴(statin) 투여에 높은 민감도를 나타냈습니다. 마우스 모델 실험에서 스타틴 치료는 젬시타빈 내성 종양의 성장을 선택적으로 억제했습니다. 아울러 낮은 HMGCR 발현량은 췌장암 환자에서 젬시타빈 기반 치료의 불량한 반응을 예측하는 지표로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mevalonate Biosynthesis is a Metabolic Vulnerability of Gemcitabine-resistant Pancreatic Cancer",
+ "title_ko": "메발로네이트 생합성 경로는 젬시타빈 내성 췌장암의 대사적 취약점입니다",
+ "trial": null,
+ "type": "paper"
+}

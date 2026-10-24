@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Current guidelines do not recommend routine sampling of lymph node stations (LNS) 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic ductal adenocarcinoma (PDAC) and other periampullary cancers because prospective multicentre studies are lacking. This study evaluated the association between the involvement of these LNS and overall survival (OS).\nMETHODS: This prospective multicentre study included patients undergoing pancreatoduodenectomy for PDAC, distal cholangiocarcinoma, ampullary cancer, or duodenal cancer between October 2015 and April 2020. Associations between involvement of LNS 16b1, 9, and 8a and OS were analysed using multivariable Cox regression analyses.\nRESULTS: Among 1218 included patients, 673 had PDAC, 228 had distal cholangiocarcinoma, 212 had ampullary cancer, and 105 had duodenal cancer. LNS 16b1 involvement was associated with worse OS in PDAC (10 versus 24 months; adjusted hazard ratio (aHR) 2.33; 95% confidence interval (c.i.) 1.62 to 3.35), distal cholangiocarcinoma (7 versus 28 months; aHR 6.95; 95% c.i. 2.88 to 16.77), ampullary cancer (9 versus 62 months; aHR 4.35; 95% c.i. 1.73 to 10.94), and duodenal cancer (13 months versus endpoint not reached; aHR 3.95; 95% c.i. 1.15 to 13.47). LNS 8a involvement was associated with worse OS in PDAC (13 versus 22 months; aHR 1.38; 95% c.i. 1.03 to 1.86), distal cholangiocarcinoma (16 versus 26 months; aHR 1.68; 95% c.i. 1.00 to 2.81), and ampullary cancer (16 versus 62 months; aHR 2.89; 95% c.i. 1.51 to 5.53). LNS 9 involvement was associated with worse OS only in ampullary cancer (4 versus 35 months; aHR 8.19; 95% c.i. 2.34 to 28.57).\nCONCLUSION: LNS 16b1 involvement was associated with poor OS in PDAC and periampullary cancer. Future studies should assess routine preoperative and intraoperative sampling of LNS 16b1 and the impact of neoadjuvant treatment.",
+ "authors": [
+  "Suurmeijer JA",
+  "Pranger BK",
+  "Seelen LWF",
+  "Ali M",
+  "van Rijssen LB",
+  "Tseng DS",
+  "Mackay TM",
+  "van Dam JL"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42905970",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1093/bjsopen/zrag157",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42905970"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-09-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BJS Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42905970/"
+ },
+ "summary_ko": "BACKGROUND: Current guidelines do not recommend routine sampling of lymph node stations (LNS) 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic ductal adenocarcinoma (PDAC) and other periampullary cancers because prospective multicentre studies are lacking. This study evaluated the association between the involvement of these LNS and overall survival (OS).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Survival impact of involvement of lymph node stations 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic and periampullary cancers (PANODE): prospective multicentre study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

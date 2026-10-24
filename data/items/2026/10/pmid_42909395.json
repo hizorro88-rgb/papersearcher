@@ -1,0 +1,63 @@
+{
+ "abstract": "OBJECTIVE: Severe postoperative complications (Clavien-Dindo grade ≥3) occur in 10%-30% of patients after curative resection of pancreatic ductal adenocarcinoma (PDAC). Whether adjuvant chemotherapy modifies their impact on long-term survival remains unclear. This study aimed to systematically evaluate the interaction between severe complications and adjuvant chemotherapy after PDAC resection.\nMETHODS: We retrospectively analyzed 383 patients with pathologically confirmed PDAC who underwent upfront curative-intent resection at our center between January 2018 and January 2024. Our institutional database initially contained 398 surgical records; 15 records meeting the R2 margin-status or M1-metastasis exclusion criteria were excluded, leaving 383 patients for the primary analysis. Median overall survival (OS) was estimated using the Kaplan-Meier method, and group comparisons were performed with the log-rank test. Covariates adjusted for in the multivariable Cox regression model included age, sex, BMI, tumor differentiation, margin status, vascular invasion, perineural invasion, lymph node ratio, and tumor size. Stratified Cox regression and interaction-effect models were further constructed. Exploratory recurrence-free survival (RFS) analyses defined an event as recurrence or death from any cause. Sensitivity analyses excluded patients with OS <60 days and, additionally, evaluated a 90-day threshold.\nRESULTS: Severe complications occurred in 40 of 383 patients (10.4%). Adjuvant chemotherapy was received by 16 of 40 patients (40.0%) in the severe-complication group and 205 of 343 patients (59.8%) in the non-severe-complication group (P = 0.026). Among patients who did not receive chemotherapy, median OS was significantly shorter in the severe-complication group than in the non-severe-complication group (7.9 vs. 14.6 months, P < 0.001); among those who received chemotherapy, the difference was not statistically significant (18.8 vs. 20.5 months, P = 0.445). In the interaction model, severe complications were associated with increased mortality in the no-chemotherapy stratum (HR: 4.18, 95% CI: 2.49-7.01, P < 0.001) but not in the chemotherapy stratum (HR: 1.24, 95% CI: 0.66-2.34, P = 0.511). In separate stratified Cox models adjusted for the same covariates, adjuvant chemotherapy was associated with lower mortality in the severe-complication group (HR: 0.15, 95% CI: 0.04-0.57, P = 0.005), whereas the association was not statistically significant in the non-severe-complication group (HR: 0.76, 95% CI: 0.56-1.03, P = 0.075). Exploratory RFS analysis showed shorter RFS among patients with severe complications (median 6.4 vs. 11.1 months; adjusted HR: 1.58, 95% CI: 1.09-2.28, P = 0.016).\nCONCLUSIONS: In this retrospective cohort, severe complications were associated with worse OS among patients who did not receive adjuvant chemotherapy, whereas the association was not statistically significant among those who received chemotherapy. Because the severe-complication subgroup was small and treatment receipt was subject to postoperative selection, the interaction should be considered hypothesis-generating. These findings do not establish that adjuvant chemotherapy offsets the adverse prognostic association of severe complications and require prospective validation before informing treatment decisions.",
+ "authors": [
+  "Wu S",
+  "Wang D",
+  "Zhang D",
+  "Zou J",
+  "Hu X",
+  "He J",
+  "Xue X",
+  "Qin L"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42909395",
+ "importance": 0.7,
+ "key_points_ko": [
+  "보조 항암치료를 받지 않은 경우 중증 합병증 발생군의 중앙 전체 생존기간(OS)은 7.9개월로 합병증이 없던 군의 14.6개월에 비해 현저히 낮았습니다(P<0.001).",
+  "보조 항암치료를 시행한 경우 중증 합병증 군의 중앙 전체 생존기간은 18.8개월, 비중증 군은 20.5개월로 통계적 차이가 없었습니다(P=0.445).",
+  "중증 합병증 환자군 내에서 보조 항암화학요법은 사망 위험을 크게 낮추는 것과 관련이 있었습니다(위험비 0.15, P=0.005).",
+  "중증 합병증 환자의 중앙 무재발 생존기간(RFS)은 6.4개월로 비합병증 군(11.1개월)에 비해 유의하게 짧았습니다(P=0.016)."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.3389/fmed.2026.1968161",
+  "nct": [],
+  "pmcid": "PMC13684324",
+  "pmid": "42909395"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Med (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42909395/"
+ },
+ "summary_ko": "근치적 절제술을 받은 췌장암(췌관선암) 환자 383명을 대상으로 중증 수술 합병증과 수술 후 보조 항암화학요법이 전체 생존기간(OS)에 미치는 영향을 후향적으로 분석했습니다. 전체 환자 중 중증 합병증(Clavien-Dindo 3등급 이상)은 40명(10.4%)에서 발생했습니다. 보조 항암치료를 받지 않은 환자군에서는 중증 합병증이 있는 환자의 중앙 생존기간이 7.9개월로 비중증 환자(14.6개월)보다 유의하게 짧았습니다. 반면 수술 후 보조 항암치료를 받은 환자군에서는 중증 합병증이 있더라도 중앙 생존기간이 18.8개월로 비중증 환자(20.5개월)와 통계적으로 유의미한 차이가 없었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Interaction between severe postoperative complications and adjuvant chemotherapy on overall survival after upfront resection of pancreatic ductal adenocarcinoma",
+ "title_ko": "췌관선암 근치적 절제술 후 중증 수술 합병증과 보조 항암화학요법 간의 상호작용이 전체 생존기간에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

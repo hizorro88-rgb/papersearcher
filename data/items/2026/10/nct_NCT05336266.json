@@ -20,11 +20,11 @@
  "id": "nct:NCT05336266",
  "importance": 0.81,
  "key_points_ko": [
-  "목표 인원은 28명이며, 현재 환자 모집은 완료되지 않고 유지 중입니다.",
-  "환자들은 5일 동안 ketorolac을 투여받으며 체중과 삶의 질 변화 등을 평가받습니다.",
-  "생존기간, 반응률, 위험비 등의 유효성 수치는 초록에 명시되지 않았습니다."
+  "대상 질환은 진행성 및 난치성 췌장관선암(pancreatic ductal adenocarcinoma)입니다.",
+  "중재 치료로 5일 동안 ketorolac Tromethamine을 투여합니다.",
+  "목표 인원은 28명입니다."
  ],
- "last_updated": "2026-10-22",
+ "last_updated": "2026-10-23",
  "links": {
   "doi": null,
   "nct": [
@@ -47,13 +47,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05336266"
  },
- "summary_ko": "본 연구는 진행성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 악액질(cachexia) 치료로서 비스테로이드성 소염진통제(NSAID)인 ketorolac의 타당성과 안전성, 그리고 체중 및 삶의 질 안정화 또는 증가 효과를 평가하기 위한 임상시험입니다. 환자들은 5일 동안 ketorolac을 투여받으며, 채혈, 설문지 작성, 그리고 제공된 핏비트(FitBit)와 스마트 체중계를 통한 신체활동, 수면, 체중 모니터링을 진행합니다. 목표 환자 수는 28명이며, 현재 적극적 환자 모집은 종료된 상태입니다. 초록에 유효성 결과 수치는 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 진행성 췌장관선암(pancreatic ductal adenocarcinoma, PDAC) 환자를 대상으로 비스테로이드성 소염진통제(NSAID)인 ketorolac(케토롤락) 투여가 체중과 삶의 질을 안정시키거나 증가시키는지 확인하기 위한 조기 1상 임상시험입니다. 환자들은 5일 동안 ketorolac을 투여받으며, 채혈, 설문지 작성, 그리고 제공된 FitBit과 스마트 체중계를 통한 신체활동 및 수면, 체중 모니터링을 진행합니다. 목표 환자 수는 28명입니다.",
  "summary_source": "llm",
  "tags": [
   "ketorolac"
  ],
  "title": "A Feasibility Study of Ketorolac Treatment for Cachexia in Patients With Advanced Pancreatic Ductal Adenocarcinoma",
- "title_ko": "진행성 췌관선암 환자의 악액질에 대한 케토롤락 치료 타당성 연구",
+ "title_ko": "진행성 췌장관선암 환자의 악액질에 대한 케토롤락 치료 타당성 연구",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -61,7 +61,7 @@
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- Cedars-Sinai Medical Center(CSMC)에 의뢰된 진전되고 불응성인 진행성 췌관선암(PDAC) 진단\n- 선별 전 6개월 이내 임의의 기간 동안 만성 질환으로 인해 5% 이상의 체중 감소로 정의되는 악액질 또는 의사의 표준 진단에 따른 악액질\n- Eastern Cooperative Oncology Group(ECOG) 수행능력 상태 2 이하 또는 Karnofsky 수행능력 상태 50% 초과\n- 규정된 기준을 충족하는 적절한 신장 기능\n- 스마트 체중계를 위한 Wi-Fi 접속 가능\n\n제외 기준:\n- 조절되지 않는 동반 질환(활성 감염, 울혈성 심부전, 불안정형 협심증, 심장 부정맥, 정신 질환 등)\n- 임신, 수유 중이거나 피임법 사용을 원하지 않는 가임기 여성\n- 연구 약물, 수술용 강철, 엘라스토머/고무에 대한 알러지나 과민반응 병력\n- 임상 결과에 혼선을 주거나 참여를 방해할 수 있는 상태, 치료, 실험실 이상 소견\n- 협조를 방해하는 정신 질환 또는 약물 남용 장애\n- 연구 중 다른 NSAID 병용 투여\n- 활동성 소화성 궤양 질환, 최근의 위장관 출혈 또는 천공, 소화성 궤양 및 위장관 출혈 병력\n- 의심되거나 확정된 뇌혈관 출혈, 출혈 경향, 불완전 지혈, 고위험 출혈 상태",
+  "eligibility_ko": "선정 기준: \n- 세다스-시나이 의료센터에 의뢰된 진행성 및 난치성 췌장관선암(PDAC) 진단\n- 선별 전 6개월 이내에 만성 질환으로 인한 5% 이상의 체중 감소로 정의되는 악액질 또는 의사의 진단\n- 동유럽종양협력그룹(ECOG) 수행능력 2 이하 또는 카노프스키(Karnofsky) 수행능력 50% 초과\n- 적절한 신장 기능 유지\n- 스마트 체중계를 위한 와이파이(WiFi) 접속 가능\n\n제외 기준: \n- 조절되지 않는 동반 질환 또는 활동성 감염\n- 임신, 수유 중이거나 피임에 동의하지 않는 가임기 여성\n- 연구 약물, 수술용 강철, 엘라스토머/고무에 대한 알려진 알레르기 또는 과민반응\n- 연구 결과에 혼선을 줄 수 있는 병력이나 상태\n- 정신질환 또는 약물 남용 장애\n- 연구 중 다른 NSAID 병용\n- 활동성 소화성 궤양 질환, 최근 위장관 출혈 또는 천공 병력\n- 뇌혈관 출혈 의심 또는 확정, 출혈 경향이 높고 지혈이 불완전한 경우",
   "eligibility_text": "Inclusion Criteria:\n\n1. Diagnosis of advanced and refractory pancreatic ductal adenocarcinoma (PDAC) referred to Cedars-Sinai Medical Center (CSMC).\n2. Cachexia defined as ≥5% weight loss in the presence of chronic illness, within any 6-month period prior to screening or as documented by the medical physician based on standard diagnosis of cachexia.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2 or Karnofsky performance status \\>50%.\n4. Patient must have adequate renal function per below lab values:\n\n   * Creatinine OR measured or calculated creatinine clearance (glomerular filtration rate can also be used in place of creatinine or CrCl) ≤1.5 × upper limit of normal OR ≥30 mL/min for participant with creatinine levels \\>1.5 × institutional ULN.\n5. Patient must have access to WiFi for the Smart Scale.\n\nExclusion Criteria:\n\n1. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements in the opinion of the investigator.\n2. Pregnancy, breastfeeding, or of childbearing potential and not willing to use adequate methods of contraception during the study.\n3. Has any known allergies or hypersensitivity to the study drug or allergic reactions to surgical steel or elastomer/rubber.\n4. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n5. Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n6. Concurrent use of any other NSAIDs while on study.\n7. Active peptic ulcer disease, recent gastrointestinal bleeding or perforation, or a history of peptic ulcer disease or gastrointestinal bleeding.\n8. Have suspected or confirmed cerebrovascular bleeding, tendency to bleed or bruise easily, incomplete hemostasis (how you body stops bleeding), and at high risk of bleeding.",
   "enrollment": 28,
   "has_results": false,
@@ -78,16 +78,16 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "활동성 감염 또는 조절되지 않는 심장 질환",
-    "임신 또는 수유 중인 여성",
-    "연구 약물 또는 관련 소재 알레르기",
-    "소화성 궤양 또는 위장관 출혈 병력",
-    "출혈 경향이 있거나 출혈 고위험군"
+    "조절되지 않는 감염 등 동반 질환",
+    "임신 또는 수유 중인 경우",
+    "연구 약물 및 관련 소재에 알레르기가 있는 경우",
+    "소화성 궤양 또는 최근 위장관 출혈 병력",
+    "출혈 위험이 높거나 지혈이 불완전한 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "악액질이 동반된 진행성 불응성 췌관선암 환자",
+   "notes_ko": "진행성 및 난치성 췌장관선암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

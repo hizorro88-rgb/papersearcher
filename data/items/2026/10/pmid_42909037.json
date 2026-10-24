@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Sun K",
+  "Yang L",
+  "Li J",
+  "Jia B",
+  "Fu M",
+  "Zhang Q",
+  "Yang W"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42909037",
+ "importance": 0.58,
+ "key_points_ko": [
+  "췌관선암(PDAC)의 골수성 세포 주도 면역억제 기전을 다룬 논문입니다.",
+  "제공된 정보에 세부 수치 및 구체적 연구 결과는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1936958",
+  "nct": [],
+  "pmcid": "PMC13683673",
+  "pmid": "42909037"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42909037/"
+ },
+ "summary_ko": "본 논문은 췌관선암(PDAC)에서 골수성 세포에 의해 유도되는 면역억제 작용이 치료에 미치는 영향에 대해 다룹니다. 제공된 텍스트에는 논문의 제목과 저널 정보 외에 세부 초록 내용이 포함되어 있지 않습니다. 따라서 구체적인 연구 방법, 데이터 및 수치적 결과는 초록에 명시되지 않았습니다. 자세한 정보는 원문 확인이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Myeloid-driven immunosuppression as a context-dependent therapeutic bottleneck in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌관선암종에서 맥락 의존적 치료 병목 구간으로서의 골수성 세포 주도 면역억제",
+ "trial": null,
+ "type": "paper"
+}

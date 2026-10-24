@@ -1,0 +1,65 @@
+{
+ "abstract": "INTRODUCTION: With rising life expectancy, the number of elderly patients undergoing pancreatoduodenectomy is steadily increasing. This study aimed to assess peri- and postoperative outcomes in patients aged ≥ 80 years undergoing pancreatoduodenectomy, using data from the DGAV|registry pancreas.\nMETHODS: All pancreatoduodenectomies performed between September 2013 and April 2024 and recorded in the DGAV|registry pancreas were retrospectively analyzed. Patients were divided into two groups: <80 and ≥80 years. Demographic, perioperative, and postoperative data were compared. A multivariate analysis was conducted to identify independent risk factors for in-hospital mortality.\nRESULTS: Out of 12,305 pancreatoduodenectomies, 1,566 (12.7%) were performed in patients aged ≥ 80 years. The proportion of very elderly patients more than doubled from 6.9% in 2014 to a peak of 17.3% in 2021. Malignant diseases, particularly pancreatic ductal adenocarcinoma, were more common in this group. While overall complication rates were slightly higher in the elderly (64.0% vs. 60.7%, p = 0.013), there was no significant difference in severe complications (Clavien-Dindo grades 3 and 4). However, 30-day mortality (7.2% vs. 3.6%) and in-hospital mortality (8.2% vs. 4.4%) were significantly higher in patients aged ≥ 80 years. Cardiopulmonary complications were also more frequent. Multivariate analysis identified age ≥ 80, male sex, ASA class 3 or 4, obesity, COPD, anticoagulant therapy, the need for intraoperative blood transfusions, and extended resections as independent predictors of in-hospital mortality.\nCONCLUSION: Chronological age ≥ 80 years is associated with increased postoperative morbidity and mortality after pancreatoduodenectomy. However, age alone should not be considered an exclusion criterion. Careful patient selection, taking biological age, comorbidities, and functional status into account, is essential. Integrating geriatric expertise and prehabilitation strategies may improve outcomes in this growing patient population.",
+ "authors": [
+  "Scherber P",
+  "Holländer S",
+  "Gäbelein G",
+  "Igna D",
+  "Jacob P",
+  "Pascher A",
+  "Ghadimi M",
+  "Reissfelder C"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42910254",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 12,305건의 췌십이지장절제술 중 80세 이상 환자가 1,566건(12.7%)을 차지했습니다.",
+  "중증 합병증 발생률에는 유의한 차이가 없었으나, 30일 사망률(7.2% vs. 3.6%)과 병원 내 사망률(8.2% vs. 4.4%)은 80세 이상 환자에서 유의하게 높았습니다.",
+  "다변량 분석 결과 80세 이상의 나이, 남성, ASA 3~4등급, 비만, 만성 폐쇄성 폐질환(COPD), 항응고 치료, 수술 중 수혈, 확대 절제가 병원 내 사망의 독립적인 위험 인자로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1159/vis/aeyag003",
+  "nct": [],
+  "pmcid": "PMC13685811",
+  "pmid": "42910254"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Visc Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42910254/"
+ },
+ "summary_ko": "이 연구는 독일 췌장 등록소 데이터를 활용하여 2013년 9월부터 2024년 4월까지 췌십이지장절제술(pancreatoduodenectomy)을 받은 환자 12,305명을 80세 미만과 80세 이상으로 나누어 수술 후 결과를 비교 분석했습니다. 전체 환자 중 80세 이상 고령 환자는 1,566명(12.7%)이었으며, 그 비율은 2014년 6.9%에서 2021년 17.3%로 두 배 이상 증가했습니다. 80세 이상 환자는 전반적인 합병증 발생률(64.0% 대 60.7%)과 30일 사망률(7.2% 대 3.6%), 병원 내 사망률(8.2% 대 4.4%)이 80세 미만 환자보다 유의하게 높았습니다. 연구진은 나이 자체가 수술의 절대적인 제외 기준이 되어서는 안 되며, 생물학적 나이와 동반 질환 등을 종합적으로 고려한 신중한 환자 선별이 중요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Outcomes following Pancreatoduodenectomy in Patients ≥80 Years: An Analysis of the Prospective Pancreas Registry of the German Society for General and Visceral Surgery (DGAV|Registry Pancreas)",
+ "title_ko": "80세 이상 고령 환자의 췌십이지장절제술 후 치료 결과: 독일 일반 및 내장외과학회 전향적 췌장 등록소 분석",
+ "trial": null,
+ "type": "paper"
+}

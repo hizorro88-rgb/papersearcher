@@ -29,8 +29,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (9)
+## 타임라인 (12)
 
+<a id="pmid-42905299"></a>
+#### [췌십이지장절제술을 받은 팽대부 주위 악성종양 환자의 식이 섭취량 및 임상·영양 바이오마커에 관한 전향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42905299/)
+<small>A prospective cohort study of dietary intake and clinical-nutritional biomarkers in patients with periampullary malignancies undergoing pancreatoduodenectomy in Southeast Brazil</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `수술` `진단·조기발견` · 2026-10-21 · PubMed · Support Care Cancer · 중요도 0.71
+
+팽대부 주위 악성종양으로 췌십이지장절제술을 받은 환자 24명을 대상으로 수술 전과 퇴원 후 3개월, 6개월 시점의 식이 섭취량과 영양 바이오마커의 변화를 추적 관찰했습니다. 수술 후 전신 염증 수치는 전반적으로 완화되었으나, 에너지 및 주요 영양소의 섭취량 감소는 수술 후 6개월까지 지속되었습니다. 환자들의 에너지 섭취량 중앙값은 수술 전 하루 2625 kcal에서 6개월 후 1948 kcal로 감소했습니다. 연구진은 수술 후 전신 염증 완화와 무관하게 식이 섭취 감소가 장기간 이어질 수 있으므로 면밀한 영양 관리가 필요함을 확인했습니다.
+
+- 환자들의 일일 에너지 섭취량 중앙값은 수술 전 2625 kcal에서 3개월 후 2011 kcal, 6개월 후 1948 kcal로 지속해서 감소했습니다.
+- 다량영양소, 식이섬유, 칼슘, 철, 셀레늄의 섭취량이 감소한 반면 아연과 비타민 A, E 섭취량은 유의한 변화를 보이지 않았습니다.
+- 수술 후 C-반응성 단백(CRP)과 글래스고 예후 점수(GPS) 등 염증 지표는 감소했으나, 식사 섭취 저하는 6개월 동안 지속되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905299/) · [DOI](https://doi.org/10.1007/s00520-026-11357-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905299)</small>
+
+---
 <a id="pmid-42891606"></a>
 #### [췌장두부 악성 종양 치료에서 3차원 복강경 동맥 우선 췌십이지장절제술의 임상 적용](https://pubmed.ncbi.nlm.nih.gov/42891606/)
 <small>Clinical Application of Three-dimensional Laparoscopic Artery-first Pancreaticoduodenectomy in Treating Pancreatic Head Malignant Tumors</small>
@@ -74,6 +89,21 @@ search:
 - 췌장 절제면은 변형 Blumgart 췌장공장문합술로 재건하였으며, 안전성과 효과는 추가적인 대규모 연구 평가가 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42872722/) · [DOI](https://doi.org/10.3791/74203) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42872722)</small>
+
+---
+<a id="pmid-42910254"></a>
+#### [80세 이상 고령 환자의 췌십이지장절제술 후 치료 결과: 독일 일반 및 내장외과학회 전향적 췌장 등록소 분석](https://pubmed.ncbi.nlm.nih.gov/42910254/)
+<small>Outcomes following Pancreatoduodenectomy in Patients ≥80 Years: An Analysis of the Prospective Pancreas Registry of the German Society for General and Visceral Surgery (DGAV|Registry Pancreas)</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-10 · PubMed · Visc Med · 중요도 0.72
+
+이 연구는 독일 췌장 등록소 데이터를 활용하여 2013년 9월부터 2024년 4월까지 췌십이지장절제술(pancreatoduodenectomy)을 받은 환자 12,305명을 80세 미만과 80세 이상으로 나누어 수술 후 결과를 비교 분석했습니다. 전체 환자 중 80세 이상 고령 환자는 1,566명(12.7%)이었으며, 그 비율은 2014년 6.9%에서 2021년 17.3%로 두 배 이상 증가했습니다. 80세 이상 환자는 전반적인 합병증 발생률(64.0% 대 60.7%)과 30일 사망률(7.2% 대 3.6%), 병원 내 사망률(8.2% 대 4.4%)이 80세 미만 환자보다 유의하게 높았습니다. 연구진은 나이 자체가 수술의 절대적인 제외 기준이 되어서는 안 되며, 생물학적 나이와 동반 질환 등을 종합적으로 고려한 신중한 환자 선별이 중요하다고 결론지었습니다.
+
+- 총 12,305건의 췌십이지장절제술 중 80세 이상 환자가 1,566건(12.7%)을 차지했습니다.
+- 중증 합병증 발생률에는 유의한 차이가 없었으나, 30일 사망률(7.2% vs. 3.6%)과 병원 내 사망률(8.2% vs. 4.4%)은 80세 이상 환자에서 유의하게 높았습니다.
+- 다변량 분석 결과 80세 이상의 나이, 남성, ASA 3~4등급, 비만, 만성 폐쇄성 폐질환(COPD), 항응고 치료, 수술 중 수혈, 확대 절제가 병원 내 사망의 독립적인 위험 인자로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42910254/) · [DOI](https://doi.org/10.1159/vis/aeyag003) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42910254)</small>
 
 ---
 <a id="pmid-42866548"></a>
@@ -152,6 +182,15 @@ search:
 - R0 절제 대비 보정된 중앙 생존기간은 침범 절제연이 1곳일 때 4.6개월, 2곳일 때 6.7개월, 3곳 이상일 때 12.4개월 더 짧아 침범 부위 수가 많을수록 예후가 나빴습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888870/) · [DOI](https://doi.org/10.1093/bjsopen/zrag155) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13675251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888870)</small>
+
+---
+<a id="pmid-42905970"></a>
+#### [Survival impact of involvement of lymph node stations 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic and periampullary cancers (PANODE): prospective multicentre study](https://pubmed.ncbi.nlm.nih.gov/42905970/)
+`논문` `관찰연구` `수술` `치료 전반` · 2026-09-04 · PubMed · BJS Open · 중요도 0.67
+
+BACKGROUND: Current guidelines do not recommend routine sampling of lymph node stations (LNS) 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic ductal adenocarcinoma (PDAC) and other periampullary cancers because prospective multicentre studies are lacking. This study evaluated the association between the involvement of these LNS and overall survival (OS).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905970/) · [DOI](https://doi.org/10.1093/bjsopen/zrag157) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905970)</small>
 
 ---
 <a id="pmid-42866830"></a>

@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Total pancreatectomy with islet autotransplantation (TPIAT) is an established treatment for refractory chronic pancreatitis (CP). Genetically associated CP presents earlier, progresses over longer durations, and carries an increased risk of pancreatic cancer, potentially influencing operative complexity, islet preservation, and metabolic outcomes. This study compared perioperative and long-term outcomes between genetically associated and non-genetically characterised CP patients undergoing TPIAT at a specialist UK centre.\nMETHODS: A retrospective review was conducted of all TPIAT procedures performed between 1994 and 2025. Patients were classified as having genetically associated (n=15) or non-genetically characterised CP (n=68) based on clinical assessment and genetic testing. Demographic, operative, postoperative, and islet isolation outcomes were compared using Mann-Whitney U and Fisher's exact tests.\nRESULTS: Eighty-three patients were included. Patients with genetically associated CP were younger at surgery (median 30 vs. 43 years; p=0.014) and underwent longer operations (657 vs. 480minutes; p=0.018). Islet yield was significantly lower in genetically associated CP (48,070 vs. 149,073 IEQ; p=0.015). No major postoperative complications (Clavien-Dindo grade III-V) occurred in the genetically associated cohort. Insulin independence was lower at follow-up (12% vs. 21%; p=0.724), while opioid cessation at one year was comparable between groups (53% vs. 60%; p=0.808).\nCONCLUSION: Genetically associated CP was associated with substantially lower islet yield and reduced long-term metabolic resilience despite broadly comparable pain-related outcomes following TPIAT. These findings support earlier genetic assessment and multidisciplinary referral to optimise timing of intervention and preserve long-term endocrine function.",
+ "authors": [
+  "Latif J",
+  "Pollard C",
+  "Issa E",
+  "Isherwood J",
+  "Choudhary P",
+  "Garcea G",
+  "Dennison A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906812",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1016/j.gassur.2026.102645",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906812"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906812/"
+ },
+ "summary_ko": "BACKGROUND: Total pancreatectomy with islet autotransplantation (TPIAT) is an established treatment for refractory chronic pancreatitis (CP). Genetically associated CP presents earlier, progresses over longer durations, and carries an increased risk of pancreatic cancer, potentially influencing operative complexity, islet preservation, and metabolic outcomes.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Comparative Outcomes of Total Pancreatectomy with Islet Autotransplantation in Genetically Associated Versus Non-Genetically Characterised Chronic Pancreatitis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

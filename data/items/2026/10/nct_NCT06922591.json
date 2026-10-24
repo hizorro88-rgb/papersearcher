@@ -22,13 +22,12 @@
   }
  ],
  "id": "nct:NCT06922591",
- "importance": 0.8,
+ "importance": 0.9,
  "key_points_ko": [
   "목표 환자 수는 총 183명입니다.",
-  "연구는 용량 증량(Phase 1)과 용량 확장(Phase 2) 단계로 진행됩니다.",
-  "초록에 명시되지 않음"
+  "초록에 구체적인 유효성 및 생존율 수치는 명시되지 않았습니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-23",
  "links": {
   "doi": null,
   "nct": [
@@ -51,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06922591"
  },
- "summary_ko": "이 연구는 췌관선암(PDAC) 및 비소세포폐암(NSCLC) 환자를 대상으로 먹는 약 TNG462를 RMC-6236, RMC-9805, mFOLFIRINOX 또는 젬시타빈(gemcitabine)/냅-파클리탁셀(nab-paclitaxel)과 병용 투여했을 때의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 항종양 활성을 평가하기 위한 임상 1/2상 연구입니다. 연구는 용량 증량 단계와 용량 확장 단계로 나뉘어 진행됩니다. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_ko": "이 연구는 진행성 췌장관선암(PDAC) 및 비소세포폐암(NSCLC) 환자를 대상으로 경구용 TNG462를 RMC-6236, RMC-9805, mFOLFIRINOX 또는 젬시타빈(gemcitabine)/냅-파클리탁셀(nab-paclitaxel)과 병용 투여하는 제1/2상 임상시험입니다. 연구는 용량 증량 단계와 용량 확장 단계로 나누어 진행됩니다. 초록에 전체 환자 수나 구체적인 생존율 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "PRMT5 inhibitor",
@@ -63,7 +62,7 @@
   "Targeted therapy"
  ],
  "title": "Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Combination in PDAC & NSCLC Patients",
- "title_ko": "TNG462 병용 투여의 안전성, 내인성 및 효능을 평가하는 임상시험",
+ "title_ko": "PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내인성, 약동학 및 유효성을 평가하기 위한 연구",
  "trial": {
   "conditions": [
    "PDAC",
@@ -82,7 +81,7 @@
     "phone": "857-320-4899"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- ECOG 수행능력(PS) 0 또는 1\n- MTAP 단백질 손실 또는 MTAP 유전자 양측성 결실이 있는 종양\n- (A군 및 B군만 해당) RAS 변이가 있는 종양\n- 병리학적으로 진단된 전이성 PDAC 또는 국소 진행성, 재발성, 전이성 비소세포폐암(NSCLC)\n- 이전에 표준 치료를 받은 경험이 있는 환자\n- (A군 및 B군만 해당) 이전에 RAS 표적 치료를 받은 적이 없어야 함\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자\n\n제외 기준:\n- 이전에 PRMT5 억제제 또는 MAT2A 억제제 치료를 받은 적이 있는 환자\n- (A군 및 B군만 해당) RMC-6236 또는 RMC-9805의 3상 임상시험에 참여한 이력이 있는 환자\n- 약물 또는 부형제에 알려진 알레르기, 과민반응, 불내성이 있는 환자\n- 조절되지 않는 동반 질환, 활동성 감염, 임상적으로 유의미한 심혈관계 질환이 있는 환자\n- 중추신경계(CNS) 전이가 알려졌거나 의심되는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- ECOG 수행능력(PS) 0 또는 1\n- MTAP 단백질 소실 또는 MTAP 유전자의 양측 대립유전자 결손이 있는 종양\n- (A군 및 B군만 해당) RAS 유전자 변이가 있는 종양\n- 병리학적으로 확진된 전이성 PDAC 또는 국소 진행성, 재발성 또는 전이성 NSCLC\n- 이전 표준 치료를 받은 경험이 있는 환자\n- (A군 및 B군만 해당) 이전에 RAS 표적 치료를 받은 적이 없어야 함\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 있는 환자\n\n제외 기준:\n- 이전에 PRMT5 억제제 또는 MAT2A 억제제로 치료받은 적이 있는 환자\n- (A군 및 B군만 해당) RMC-6236 또는 RMC-9805의 제3상 임상시험에 참여한 이력이 있는 환자\n- 약물 또는 그 부형제에 대한 알려진 알레르기, 과민증 또는 불내성이 있는 환자\n- 알려졌거나 의심되는 활동성 또는 미치료 중추신경계(CNS) 전이가 있는 환자\n- 활동성 감염, 임신 중이거나 수유 중인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Is ≥18 years of age at the time of signature of the main study ICF.\n2. Has an ECOG PS of 0 or 1.\n3. Has a tumor with loss of MTAP protein or bi-allelic deletion of the MTAP gene\n4. Arms A and B only: Has a tumor with a RAS mutation\n5. Pathologically documented metastatic PDAC or locally advanced, recurrent or metastatic NSCLC\n6. Has received prior standard therapy\n7. Arms A and B only: Must not have received prior RAS-targeted therapy\n8. Has evidence of measurable disease based on RECIST v1.1.\n9. Adequate organ function\n10. Must be able to swallow tablets.\n11. Negative pregnancy test at screening\n12. Written informed consent must be obtained according to local guidelines\n\nExclusion Criteria:\n\n1. Has received prior treatment with a PRMT5 inhibitor, or MAT2A inhibitor\n2. Arms A and B only: Prior enrollment in any phase 3 clinical trial of RMC-6236 or RMC-9805\n3. Known allergy, hypersensitivity or intolerance to TNG462 (all arms), RMC-6236 Arm A), RMC-9805 (Arm B), mFOLFIRINOX (Arm C), gemcitabine/nab-paclitaxel (Arm D) or their excipients\n4. Has uncontrolled intercurrent illness that will limit compliance with the study requirements.\n5. Has an active infection requiring systemic therapy.\n6. Is currently participating in or has planned concurrent participation in a study of another investigational agent or device.\n7. Has impairment of GI function or disease that may significantly alter the absorption of the oral medications\n8. Has known or suspected active or untreated CNS metastases associated with progressive neurological symptoms\n9. Has current active liver disease from any cause\n10. Is known to be HIV positive, unless all the following criteria are met:\n\n    1. CD4+ count ≥300/µL.\n    2. Undetectable viral load.\n    3. Receiving highly active antiretroviral therapy\n11. Has clinically relevant cardiovascular disease\n12. History of or presence of active interstitial lung disease\n13. Is a female patient who is pregnant or lactating\n14. Is unwilling or unable to comply with the scheduled visits, study treatment administration plan, laboratory tests or other study procedures and study restrictions.\n15. Has a prior or ongoing clinically significant illness, medical condition, surgical history, physical finding, or laboratory abnormality that, in the investigator's opinion may affect the safety of the patient or impair the ability to assess study results",
   "enrollment": 183,
   "has_results": false,
@@ -93,7 +92,7 @@
    "mFOLFIRINOX",
    "gemcitabine/nab-paclitaxel"
   ],
-  "last_update_posted": "2026-05-14",
+  "last_update_posted": "2026-10-23",
   "location_countries": [
    "United States"
   ],
@@ -105,14 +104,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
+    "이전에 PRMT5 억제제 또는 MAT2A 억제제 치료 이력",
+    "알려졌거나 의심되는 활동성 또는 미치료 중추신경계(CNS) 전이",
     "활동성 감염",
-    "뇌전이",
-    "심장질환"
+    "임신 또는 수유 중인 환자"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 경험이 있고 MTAP 결실 및 RAS 변이가 있는 전이성 또는 국소 진행성 췌장암(PDAC) 환자",
+   "notes_ko": "MTAP 결손 및 RAS 변이가 있거나 MTAP 결손이 있는 국소 진행성 또는 전이성 췌장암(PDAC) 환자",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],

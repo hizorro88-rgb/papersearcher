@@ -1,0 +1,61 @@
+{
+ "abstract": "PURPOSE: Patients undergoing pancreatoduodenectomy for periampullary malignancies are at high nutritional risk. The aim was to characterize longitudinal changes in reported dietary intake, clinical-nutritional biomarkers, and inflammatory-nutritional indices after surgery and contextualize them through cross-sectional comparisons with age- and sex-similar controls.\nMETHODS: This prospective longitudinal cohort included 24 patients and 20 contextual controls. Patients were assessed preoperatively and at 3 and 6 months after discharge; controls were assessed once. Dietary intake was estimated using an adapted food frequency questionnaire (FFQ). FFQ-reported energy surplus was intake minus the 25 kcal/kg/day requirement based on the European Society for Clinical Nutrition and Metabolism (ESPEN). Longitudinal analyses, contextual comparisons, and exploratory adjusted diet-biomarker regressions were performed.\nRESULTS: Of 24 patients assessed preoperatively, 18 and 16 were reassessed at 3 and 6 months. Median reported energy intake decreased from 2625 to 2011 and 1948 kcal/day, respectively. FFQ-reported energy surplus and intakes of macronutrients, fiber, calcium, iron, and selenium decreased, whereas zinc and vitamins A and E showed no detected longitudinal change. C-reactive protein, ferritin, liver enzymes, and serum vitamin E decreased. Glasgow Prognostic Score (GPS) and C-reactive protein-to-albumin ratio (CAR) decreased, the C-reactive protein-albumin-lymphocyte (CALLY) index increased, and the Prognostic Nutritional Index (PNI) showed no detected longitudinal change. Diet-biomarker associations were limited and inconsistent, although iron intake was positively associated with hemoglobin preoperatively in both adjusted models.\nCONCLUSION: During the first 6 months after pancreatoduodenectomy, reduced reported dietary intake persisted despite attenuation of systemic inflammation, while biochemical and inflammatory-nutritional indices followed divergent trajectories. These trajectories describe patients alive and available for follow-up.",
+ "authors": [
+  "Ribeiro MA",
+  "Dos Santos JS",
+  "da Silva Castro Perdoná G",
+  "Navarro AM"
+ ],
+ "categories": [
+  "supportive",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42905299",
+ "importance": 0.71,
+ "key_points_ko": [
+  "환자들의 일일 에너지 섭취량 중앙값은 수술 전 2625 kcal에서 3개월 후 2011 kcal, 6개월 후 1948 kcal로 지속해서 감소했습니다.",
+  "다량영양소, 식이섬유, 칼슘, 철, 셀레늄의 섭취량이 감소한 반면 아연과 비타민 A, E 섭취량은 유의한 변화를 보이지 않았습니다.",
+  "수술 후 C-반응성 단백(CRP)과 글래스고 예후 점수(GPS) 등 염증 지표는 감소했으나, 식사 섭취 저하는 6개월 동안 지속되었습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1007/s00520-026-11357-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42905299"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Support Care Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42905299/"
+ },
+ "summary_ko": "팽대부 주위 악성종양으로 췌십이지장절제술을 받은 환자 24명을 대상으로 수술 전과 퇴원 후 3개월, 6개월 시점의 식이 섭취량과 영양 바이오마커의 변화를 추적 관찰했습니다. 수술 후 전신 염증 수치는 전반적으로 완화되었으나, 에너지 및 주요 영양소의 섭취량 감소는 수술 후 6개월까지 지속되었습니다. 환자들의 에너지 섭취량 중앙값은 수술 전 하루 2625 kcal에서 6개월 후 1948 kcal로 감소했습니다. 연구진은 수술 후 전신 염증 완화와 무관하게 식이 섭취 감소가 장기간 이어질 수 있으므로 면밀한 영양 관리가 필요함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A prospective cohort study of dietary intake and clinical-nutritional biomarkers in patients with periampullary malignancies undergoing pancreatoduodenectomy in Southeast Brazil",
+ "title_ko": "췌십이지장절제술을 받은 팽대부 주위 악성종양 환자의 식이 섭취량 및 임상·영양 바이오마커에 관한 전향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

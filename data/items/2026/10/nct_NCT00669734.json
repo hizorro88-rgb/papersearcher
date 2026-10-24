@@ -1,0 +1,105 @@
+{
+ "abstract": "This phase I trial studies the side effects and best dose of vaccine therapy when given together with sargramostim in treating patients with locally advanced or metastatic pancreatic cancer that cannot be removed by surgery. Vaccines made from a gene-modified virus may help the body build an effective immune response to kill tumor cells. Colony-stimulating factors, such as sargramostim, may increase the number of immune cells found in bone marrow or peripheral blood. Giving vaccine therapy directly into the tumor together with sargramostim may cause a stronger immune response and kill more tumor cells.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the tolerability of delivering two standard doses of the PANVAC-F (fowlpox) (falimarev) vaccine administered intratumorally in conjunction with subcutaneous injections of PANVAC-V (vaccinia) (inalimarev) followed by PANVAC-F (fowlpox) in conjunction with rH-GM-CSF (sargramostim) versus (vs.) subcutaneously injected PANVAC-V or PANVAC-F in conjunction with rH-GM-CSF in patients with incurable pancreatic cancer based on local unresectability or with small volume metastases.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the toxicity of the vaccine injections. II. To assess evidence of tumor response by imaging and tumor marker response. III. To assess gene transfer to pancreatic tissue. IV. To assess immunologic response to PANVACTM.\n\nOUTLINE: This is a dose-escalation study of falimarev.\n\nPatients receive falimarev vaccine intratumorally using endoscopic ultrasound guidance on day 1. Patients also receive inalimarev vaccine subcutaneously (SC) on day 1 and sargramostim SC on days 1-4. Patients then receive falimarev vaccine SC on days 15 and 29 and sargramostim SC on days 15-18 and 29-32 in the absence of unacceptable toxicity. Beginning on day 43, patients with stable or improving pancreatic cancer receive falimarev vaccine SC and sargramostim SC (given on the day of and for 3 days after each falimarev vaccination) monthly in the absence of disease progression or unacceptable toxicity. Beginning on day 71, patients with no irreversible or dose limiting toxicity, receive falimarev vaccine SC and sargramostim SC (given on the day of and for 3 days after each falimarev vaccination) monthly in the absence of disease progression or unacceptable toxicity.\n\nPatients undergo biopsy periodically for correlative studies.\n\nAfter completion of study treatment, patients are followed every 3 months.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT00669734",
+ "importance": 0.81,
+ "key_points_ko": [],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT00669734"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2008-04-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT00669734"
+ },
+ "summary_ko": "This phase I trial studies the side effects and best dose of vaccine therapy when given together with sargramostim in treating patients with locally advanced or metastatic pancreatic cancer that cannot be removed by surgery. Vaccines made from a gene-modified virus may help the body build an effective immune response to kill tumor cells.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Vaccine Therapy and Sargramostim in Treating Patients With Pancreas Cancer That Cannot Be Removed By Surgery",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Pancreatic Acinar Cell Carcinoma",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed pancreatic adenocarcinoma\n* Patients may have locally advanced disease, not amenable to curative resection; the site of pancreatic cancer must be amenable to endoscopic ultrasound (EUS) injection; patients with newly diagnosed metastatic disease of small volume may be included in the study at the investigator's discretion; such patients would be limited to those with:\n\n  * Liver involvement \\< 10% of volume and no metastasis \\> 2 cm, and/or\n  * Pulmonary involvement with no respiratory compromise and no metastasis \\> 2cm and/or\n  * Peritoneal disease and no metastasis \\> 2 cm and without ascites (as might be found on exploratory laparoscopy)\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1 (Karnofsky \\>= 80%)\n* Patients (in the opinion of the principal investigator) should be able to complete a full 3-month course of vaccination preferably with an anticipated survival of 6 months or longer\n* Leukocytes \\>= 3,000/mcL\n* Hemoglobin \\>= 8 gms/dL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin =\\< 1.5 X institutional upper limit of normal\n* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT)(serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 X institutional upper limit of normal\n* Prothrombin time (PT)/partial thromboplastin time (PTT) within normal institutional limits\n* Amylase/lipase =\\< 1.5 X institutional upper limit of normal\n* Creatinine =\\< 1.5 X institutional upper limit of normal\n* Urine Protein =\\< grade 1 or 24-hour urine protein =\\< 1000 mg for patients with proteinuria above 1+\n* Urinalysis: No evidence of casts\n* The effects of PANVAC-V (vaccinia) and/or PANVAC-F (fowlpox) on the developing human fetus are unknown; for this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for four months following the last vaccine dose; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Patients may not have any other active illness (e.g., uncontrolled infection, uncontrolled cardiac disease) that would preclude safe therapy\n* Patients must sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients may not have had radiotherapy to the pancreas\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients may not be receiving nor have received any other investigational agents within 28 days prior to registration\n* Patients with known brain metastases should be excluded from this clinical trial\n* History of allergic reactions or severe adverse reactions attributed to compounds of similar chemical or biologic composition to PANVAC-V (vaccinia) and/or PANVAC-F (fowlpox) which include but are not limited to the viral vectors vaccinia (small pox vaccination) and fowlpox, allergy to GM-CSF or to eggs which are used for the production of the vaccine\n* Systemic corticosteroid therapy within 28 days of registration; topical steroids, steroid eye drops or inhaled steroids are contraindicated for at least 2 weeks before vaccinia vaccination and at least 4 weeks post vaccinia vaccination\n* Uncontrolled intercurrent illness including, but not limited to active infection, symptomatic congestive heart failure or documented cardiomyopathy, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements; patients with symptomatic cardiac disease or congestive heart failure who are not stable on current medications or have significant impairment of function such as class III New York Heart Association (NYHA), recent cardiac events including myocardial infarction or cerebrovascular accident within six months of entry, and/or unstable or uncontrolled arrhythmia or angina\n* Active pancreatitis defined as clinically symptomatic hyperamylasemia and/or hyperlipasemia\n* Pregnant women are excluded from this study; breast-feeding should not occur for at least 4 months following completion of therapy with the recombinant vaccine\n* Human immunodeficiency virus (HIV)-positive patients and patients with hepatitis B and C are ineligible because of likely reduced immune competence which could affect the ability to respond to the vaccine\n* Evidence of immunodeficiency or immune suppression; autoimmune diseases such as the following: autoimmune neutropenia, thrombocytopenia, or hemolytic anemia, systemic lupus erythematosus, Sjogren's syndrome, or scleroderma, myasthenia gravis, Goodpasture's syndrome, Addison's disease, Hashimoto's thyroiditis, or active Graves' disease\n* Prior or concurrent extensive eczema or acute, chronic, or exfoliative skin disorders (e.g., extensive psoriasis, burns, impetigo, or disseminated zoster, varicella zoster, severe acne, or other open rashes or wounds)\n* Unable to avoid close contact or household contact with the following high-risk individuals for 3 weeks after the PANVAC-V (vaccinia) vaccination:\n\n  * Children under the age of 3 year\n  * Pregnant or nursing women\n  * Individuals with active or a history of eczema or atopic dermatitis, or Darier's disease; those with other acute, chronic or exfoliative skin conditions (e.g., burns, impetigo, varicella zoster, severe acne, contact dermatitis, psoriasis, herpes or other open rashes or wounds) until the condition resolves\n  * Immunocompromised individuals (by disease or therapy) such as those with acquired immune deficiency syndrome (AIDS)\n* Concurrent malignancy (i.e., malignancy other than adenocarcinoma of the pancreas), unless the subject has been curatively treated and disease free for \\>= 2 years, except non-melanoma skin cancer or in-situ cervical cancer\n* Splenectomy",
+  "enrollment": 18,
+  "has_results": false,
+  "interventions": [
+   "Falimarev",
+   "Inalimarev",
+   "Laboratory Biomarker Analysis",
+   "Sargramostim"
+  ],
+  "last_update_posted": "2026-10-23",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT00669734",
+  "phase": "PHASE1",
+  "primary_completion_date": "2021-09-02",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2010-02-01",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

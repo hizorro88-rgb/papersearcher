@@ -18,11 +18,10 @@
  "id": "nct:NCT04588025",
  "importance": 0.74,
  "key_points_ko": [
-  "휴대용 관류 팬텀(P4)을 이용해 DCE-MRI 측정 시 발생하는 장비 간 및 장비 내 변동성을 줄이고자 합니다.",
-  "건강한 자원봉사자 5명을 포함하여 총 55명의 참가자를 대상으로 합니다.",
-  "췌장암 환자는 한 곳의 MRI 기관에서 DCE-MRI를 촬영합니다."
+  "목표 인원은 총 55명입니다.",
+  "건강한 자원자와 췌장암 환자가 연구에 참여합니다."
  ],
- "last_updated": "2026-10-22",
+ "last_updated": "2026-10-23",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +44,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04588025"
  },
- "summary_ko": "이 연구는 휴대용 관류 팬텀(P4, Point-of-care Portable Perfusion Phantom)을 사용하여 장비 간 또는 장비 내 변동성을 줄이고, 췌장암 환자의 치료 반응을 동적 조영증강 자기공명영상(DCE-MRI)으로 정확하게 평가할 수 있는지 조사합니다. 건강한 지원자들을 대상으로 기준선을 설정한 후 췌장암 환자를 대상으로 DCE-MRI 촬영을 진행합니다. 이 연구는 총 55명의 목표 인원을 대상으로 진행되는 임상시험입니다.",
+ "summary_ko": "이 연구는 휴대용 관류 팬텀(P4, Point-of-care Portable Perfusion Phantom)을 사용하여 장비 간 또는 장비 내 변동성을 줄이고, 췌장암 치료 반응을 동적 조영증강 자기공명영상(DCE-MRI)으로 정확하게 평가할 수 있는지 조사합니다. 건강한 자원자와 췌장암 환자를 대상으로 DCE-MRI 검사를 진행하여 영상 품질 보증 및 정확도를 확인합니다. 초록에 명시되지 않음. 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [],
  "title": "Disposable Perfusion Phantom for Accurate DCE (Dynamic Contrast Enhanced)-MRI Measurement of Pancreatic Cancer Therapy Response",
@@ -66,7 +65,7 @@
     "phone": "614-293-8315"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직검사로 확진된 국소 진행성 췌장암 환자\n* 19세 이상의 성인\n* 모든 인종 및 성별 참여 가능\n제외 기준:\n* 자기공명영상(MRI) 검사에 대한 안전성 금기 사항이 있는 환자\n* 혈액투석 중이거나 급성 신부전이 있는 환자\n* 임산부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n- 생검으로 진단된 국소 진행성 췌장암 환자\n- 연령 19세 이상\n- 인종, 민족, 성별에 따른 제한 없음\n\n제외 기준:\n- MRI 검사에 대한 안전성 금기 사항이 있는 경우\n- 혈액투석 중이거나 급성 신부전이 있는 경우\n- 임신 중이거나 수유 중인 경우",
   "eligibility_text": "Healthy Volunteer - a small number of healthy volunteers (5) will be used as the control group.\n\nInclusion Criteria:\n\n* Targeted/planned enrollment in the study will include all racial/ethnic groups with no groups excluded on the basis of race, ethnicity or gender.\n* Participants should be 19 years of age or older\n* Participants should not have any known major health problems including but not limited to cancers, heart diseases, diabetes, high blood pressure and/or cholesterol, stroke, respiratory problems, and arthritis.\n\nExclusion Criteria:\n\n* Participants having any known major health problems will be excluded.\n* Participants with safety contraindications to MRI examination (determined by standard clinical screening).\n* Participants on hemodialysis or with acute renal failure will be excluded. (Participants on hemodialysis and those with renal failure who receive intravenous gadolinium may be at increased risk for a condition called Nephrogenic systemic fibrosis/ Nephrogenic fibrosing dystrophy and thus will be excluded.)\n* Participants may not be pregnant or lactating.\n* Participants may not father a child while on this study as the treatment may indirectly affect an unborn child.\n* Unless participants cannot have children because of surgery or other medical reasons, participants must have been using an effective form of birth control before starting the study.\n* Participants must also agree to continue to use an effective form of birth control for 6 months after taking the study. Effective birth control includes birth control pills, patch, IUD (intrauterine device), condom, sponge, diaphragm with spermicide, or avoiding sexual activity that could cause pregnancy.\n\nPancreatic Cancer Participants:\n\nInclusion Criteria:\n\n* Patients having biopsy proven locally advanced pancreatic cancer will be asked to participate in this study.\n* Targeted/planned enrollment in the study will include all racial/ethnic groups, with no groups excluded on the basis of race, ethnicity or gender.\n* Participants should be 19 years of age or older.\n\nExclusion Criteria:\n\n* Participants with safety contraindications to MRI examination (determined by standard clinical screening).\n* Participants on hemodialysis or with acute renal failure will be excluded.\n* Participants on hemodialysis and those with renal failure who receive intravenous gadolinium may be at increased risk for a condition called Nephrogenic systemic fibrosis/ Nephrogenic fibrosing dystrophy and thus will be excluded.\n* Participants may not be pregnant or lactating.\n* Participants may not father a child while on this study as the treatment may indirectly affect an unborn child.\n* Unless participants cannot have children because of surgery or other medical reasons, participants must have been using an effective form of birth control before starting the study.\n* Participants must also agree to continue to use an effective form of birth control for 6 months after taking the study. Effective birth control includes birth control pills, patch, IUD, condom, sponge, diaphragm with spermicide, or avoiding sexual activity that could cause pregnancy.",
   "enrollment": 55,
   "has_results": false,
@@ -83,14 +82,14 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "MRI 검사 금기 사항",
+    "MRI 검사 안전성 금기 사항",
     "혈액투석 또는 급성 신부전",
-    "임신 또는 수유 중인 경우"
+    "임신 또는 수유 중"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "조직검사로 확진된 국소 진행성 췌장암 환자를 위한 임상시험입니다.",
+   "notes_ko": "생검으로 진단된 국소 진행성 췌장암 환자 대상",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,64 @@
+{
+ "abstract": "This study clarifies the distinct clinicopathological and molecular features of amphicrine pancreatic carcinoma (AmpCA) through a case analysis and literature review. We present a case of AmpCA in a 73-year-old female, characterized by co-expression of acinar cell markers and neuroendocrine markers within individual tumor cells. Molecular profiling revealed high-risk mutations in KRAS G12V, TP53, and RB1, along with a high Ki-67 index (85%). Literature comparison confirms that AmpCA exhibits a unique bidirectional, single-cell differentiation pattern, fundamentally distinguishing it from the bicellular composition of mixed neuroendocrine-non-neuroendocrine neoplasms (MiNEN). We conclude that AmpCA is a distinct malignant entity requiring specific diagnostic criteria, and its molecular profile suggests potential for targeted therapies.",
+ "authors": [
+  "Huang Y",
+  "Hu H",
+  "Zheng C",
+  "Lv K",
+  "Jiang H",
+  "He T"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42904842",
+ "importance": 0.55,
+ "key_points_ko": [
+  "73세 여성 환자의 췌장 양비선 암종(AmpCA) 단일 세포 내에서 선세포 및 신경내분비 표지자가 동시 발현되었습니다.",
+  "분자 프로파일링에서 KRAS G12V, TP53, RB1 유전자 변이와 85%의 높은 Ki-67 지수가 관찰되었습니다.",
+  "양비선 암종은 MiNEN의 두 가지 세포 구성과 달리 단일 세포 단위의 양방향 분화 특성을 갖는 별개의 악성 종양입니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1111/pin.70182",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42904842"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pathol Int",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42904842/"
+ },
+ "summary_ko": "본 연구는 증례 분석과 문헌 고찰을 통해 췌장 양비선 암종(AmpCA)의 임상병리적 및 분자적 특성을 규명했습니다. 단일 종양 세포 내에서 선세포 표지자와 신경내분비 표지자가 동시에 발현된 73세 여성 환자의 췌장 양비선 암종 증례를 제시했습니다. 분자 프로파일링 분석 결과 KRAS G12V, TP53, RB1의 고위험 변이와 높은 Ki-67 지수(85%)가 확인되었습니다. 연구진은 양비선 암종이 혼합 신경내분비-비신경내분비 종양(MiNEN)과 구분되는 독자적인 악성 종양 형태라고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Amphicrine Carcinomas of the Pancreas Showing Neuroendocrine and Acinar Cell Differentiation: A Case Report and Literature Review",
+ "title_ko": "신경내분비 및 선세포 분화를 보이는 췌장의 양비선 암종: 증례 보고 및 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

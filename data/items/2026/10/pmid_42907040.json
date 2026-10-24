@@ -1,0 +1,62 @@
+{
+ "abstract": "Natural polysaccharides derived from plants, fungi, macroalgae, cyanobacteria, and other marine microorganisms have attracted increasing interest as adjuvant candidates for pancreatic cancer management due to their biocompatibility, structural diversity, and multi-target activities. This review consolidates current knowledge on their anti-pancreatic cancer activities, integrating findings from in vitro, in vivo, and mechanistic studies. We delineate the multi-level regulatory networks through which polysaccharides exert anti-tumor effects via four interconnected mechanisms: direct actions on cancer cells including proliferation inhibition, apoptosis and ferroptosis induction, cell cycle arrest, metastasis suppression, and autophagy modulation; immunomodulation via M1 macrophage polarization, natural killer cell activation, and cytotoxic T lymphocyte mediated killing; restoration of gut microbial homeostasis through beneficial taxa enrichment, intestinal barrier integrity enhancement, short-chain fatty acid elevation, and lipopolysaccharide driven inflammation reduction; and indirect tumor suppression by ameliorating obesity and type 2 diabetes mellitus. The polysaccharide gut microbiota axis emerges as a critical hub integrating these pathways. Structure-activity relationship analysis indicates that low molecular weight, high galacturonic acid content, arabinose and galactose richness, and sulfation may influence activity, although robust attribution requires structurally defined polysaccharides. More than twenty well characterized polysaccharides are documented, with several showing synergistic effects with chemotherapeutics. Despite encouraging preclinical evidence, challenges remain in structural characterization, bioavailability, and clinical validation.",
+ "authors": [
+  "Lu D",
+  "Du R",
+  "Yang K",
+  "Guo L",
+  "Kuang H",
+  "Wang Z"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42907040",
+ "importance": 0.62,
+ "key_points_ko": [
+  "천연 다당류(polysaccharides)는 암세포 사멸 유도, 면역 활성화, 장내 미생물 균형 회복, 대사 개선의 4가지 주요 기전으로 항암 효과를 나타냅니다.",
+  "20가지 이상의 천연 다당류가 정리되었으며, 화학항암제와 함께 투여 시 치료 효과가 높아지는 시너지 작용이 확인되었습니다.",
+  "낮은 분자량이나 황산화(sulfation) 등 특정 구조적 특성이 항암 활성에 영향을 미치는 것으로 분석되었습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1016/j.carbpol.2026.125917",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42907040"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Carbohydr Polym",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42907040/"
+ },
+ "summary_ko": "본 연구는 식물, 버섯, 해양 미생물 등에서 유래한 천연 다당류(polysaccharides)의 췌장암 치료 보조제 가능성을 종합한 종설 논문입니다. 천연 다당류는 암세포 직접 억제, 면역계 활성화, 장내 미생물 환경 개선, 비만 및 당뇨 개선을 통해 췌장암을 억제합니다. 20가지 이상의 다당류가 연구되었으며, 기존 화학항암제와 함께 사용할 때 시너지 효과를 보였습니다. 하지만 현재까지의 결과는 전임상 연구 중심이므로, 실제 환자 적용을 위해서는 체내 흡수율 개선과 임상 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Natural polysaccharides in pancreatic cancer therapy: From immunomodulation and gut microbiota regulation to metabolic intervention",
+ "title_ko": "췌장암 치료에서 천연 다당류의 역할: 면역 조절, 장내 미생물 조절부터 대사 개입까지",
+ "trial": null,
+ "type": "paper"
+}

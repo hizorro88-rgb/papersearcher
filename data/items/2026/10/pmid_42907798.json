@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Solid-pseudopapillary neoplasm (SPN) of the pancreas is a rare tumor with low malignant potential, most commonly occurring in the pancreatic body or tail of young women. Atypical presentations, particularly in male patients and cases involving the pancreatic head, may pose diagnostic and therapeutic challenges. This report highlights surgical management considerations in a patient with inconclusive preoperative findings.\nCASE PRESENTATION: We report the case of a 37-year-old man with a large lesion initially interpreted as a retroperitoneal mass closely associated with the pancreatic head. Preoperative imaging could not definitively establish the tumor origin. Following multidisciplinary team (MDT) evaluation, a diagnostic resection strategy was adopted. Robot-assisted laparoscopic exploration revealed that the tumor originated from the pancreatic head with an exophytic growth pattern. Local tumor excision combined with limited pancreatic resection was successfully performed while preserving the main pancreatic duct. Histopathological examination confirmed the diagnosis of SPN. The patient recovered uneventfully and remained clinically stable at follow-up.\nCONCLUSIONS: This case illustrates the clinical decision-making process and surgical strategy selection in an atypical presentation of SPN with preoperative diagnostic uncertainty. The report underscores the potential role of robot-assisted surgery in facilitating precise dissection and parenchyma preservation in complex anatomical settings.",
+ "authors": [
+  "Ma R",
+  "Liu W",
+  "Yang Y",
+  "Tian X"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42907798",
+ "importance": 0.54,
+ "key_points_ko": [
+  "37세 남성 환자의 췌장 두부에서 발생한 비전형적 고형 위유두상 종양(SPN) 사례입니다.",
+  "로봇 보조 복강경 수술을 통해 주췌관을 보존하면서 종양 국소 절제 및 제한적 췌장 절제를 완료했습니다.",
+  "수술 후 환자는 합병증 없이 회복하였으며 추적 관찰에서 안정적인 상태를 유지했습니다."
+ ],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1186/s12893-026-03986-x",
+  "nct": [],
+  "pmcid": "PMC13688811",
+  "pmid": "42907798"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-07-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42907798/"
+ },
+ "summary_ko": "본 증례 보고는 췌장 두부에 종양이 발생한 37세 남성 환자의 수술적 치료 사례를 다룹니다. 사전 영상 검사에서는 종양의 정확한 기원을 확정하기 어려웠으나 다학제 진료를 통해 수술적 절제 전략을 결정했습니다. 로봇 보조 복강경 수술을 시행하여 주췌관(main pancreatic duct)을 보존하면서 종양 절제 및 제한적 췌장 절제를 성공적으로 마쳤습니다. 조직검사 결과 고형 위유두상 종양(SPN)으로 확진되었으며 환자는 합병증 없이 회복했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic head solid-pseudopapillary neoplasm in a man treated by robot-assisted laparoscopic partial pancreatectomy: a case report",
+ "title_ko": "로봇 보조 복강경 부분 췌장 절제술로 치료한 남성 환자의 췌장 두부 고형 위유두상 종양: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

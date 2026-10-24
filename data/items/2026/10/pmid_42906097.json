@@ -1,0 +1,56 @@
+{
+ "abstract": null,
+ "authors": [
+  "O'Reilly EM",
+  "Wolpin BM",
+  "Wainberg ZA"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-23",
+ "history": [
+  {
+   "date": "2026-10-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42906097",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-23",
+ "links": {
+  "doi": "10.1056/NEJMc2611022",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42906097"
+ },
+ "pub_types": [
+  "Letter",
+  "Comment"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "N Engl J Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906097/"
+ },
+ "summary_ko": "원문을 확인하세요.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer. Reply",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
