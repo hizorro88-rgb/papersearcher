@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "drug",
+  "treatment",
   "surgery"
  ],
  "entities": [],
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT06492915",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 수술이 불가능한 국소 진행성 또는 전이성 췌관선암(pancreatic ductal adenocarcinoma)입니다.",
+  "치료 요법은 chiauranib, albumin-paclitaxel Injection, gemcitabine Injection 병용 1차 치료입니다.",
+  "초록에 생존기간(PFS, OS) 및 반응률(ORR) 등의 구체적인 임상 결과 수치는 초록에 명시되지 않음으로 기재되어 있습니다.",
+  "본 임상시험의 목표 참여 인원은 총 42명입니다."
+ ],
  "last_updated": "2026-10-23",
  "links": {
   "doi": null,
@@ -43,17 +48,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06492915"
  },
- "summary_ko": "Chiauranib , which simultaneously targets against VEGFR/Aurora B/CSF-1R, several key kinases involved in tumor angiogenesis, tumor cell mitosis, and chronic inflammatory microenvironment. Chiauranib is a novel orally active multi-target inhibitor that simultaneously inhibits the angiogenesis-related kinases (VEGFR2, VEGFR1, VEGFR3, PDGFRa and c-Kit), mitosis-related kinase Aurora B and chronic inflammationrelated kinase CSF-1R in a high potency manner with the IC50 at a single-digit nanomolar ra…",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 국소 진행성 또는 전이성 췌관선암(pancreatic ductal adenocarcinoma) 환자의 1차 치료로서 키우라닙(chiauranib)과 맙테라(albumin-paclitaxel), 젬시타빈(gemcitabine) 병용요법의 유효성과 안전성을 평가하기 위한 다기관, 단일군, 공개 2상 임상시험입니다. 키우라닙은 종양 신생혈관, 세포 분열, 만성 염증 미세환경에 관여하는 여러 핵심 키나아제를 동시에 차단하는 경구용 표적 치료제입니다. 이번 임상시험의 목표 인원은 42명이며, 현재 적극적인 환자 모집은 완료되지 않은 상태입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Chiauranib in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성 췌장암 환자 대상 키우라닙 병용요법 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18세에서 75세 사이의 남성 또는 여성.\n- 조직학적 또는 세포학적으로 확정된 절제 불가능한 국소 진행성 또는 전이성 췌관선암(pancreatic ductal adenocarcinoma).\n- 절제 불가능한 국소 진행성 또는 전이성 질환에 대해 이전 전신 항암 치료를 받은 적이 없음.\n- RECIST v1.1 기준에 따른 최소 1개 이상의 측정 가능한 병변 존재.\n- ECOG 수행능력 평가 0 또는 1.\n- 주요 장기 기능이 기준을 충족함.\n\n제외 기준:\n- 선방세포암(acinar cell carcinoma), 신경내분비암(neuroendocrine carcinoma) 등 다른 병리학적 유형.\n- 이전에 Aurora 키나아제 억제제 또는 VEGF/VEGFR 억제제(bevacizumab, sorafenib, sunitinib 등)로 전신 치료를 받은 경우.\n- 첫 투여 전 28일 이내에 방사선 치료, 항암화학요법, 면역요법, 표적 치료를 받은 경우.\n- 활성 또는 치료되지 않은 뇌전이, 수막 전이 등이 있는 경우.\n- 조절되지 않는 심혈관 질환 또는 심각한 심장 기능 장애가 있는 경우.\n- 첫 투여 전 6개월 이내에 심각한 동맥/정맥 혈전전동성 사건이 있었던 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Understand and voluntarily sign the written informed consent form.\n2. Age 18-75 years on the day of signing the informed consent form, male or female.\n3. Histologically or cytologically confirmed unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma.\n4. No prior systemic therapy for unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma. Subjects who have received prior induction chemotherapy, concurrent radiotherapy, or adjuvant/neoadjuvant chemotherapy with curative intent, the interval of recurrence or metastasis must be at least 6 months after the last treatment.\n5. At least one measurable lesion according to RECIST v1.1. Previously irradiated lesions should not be selected as target lesions unless the previously irradiated lesion as the only measurable lesion and is unequivocally progressive based on imaging.\n6. ECOG score 0 or 1.\n7. Life expectancy≥3 months.\n8. Major organ functions meet the following criteria: Hematology: hemoglobin≥90g/L, absolute neutrophil count (ANC) ≥1.5×10\\^9/L, platelets≥100×10\\^9/L(no haematopoietic growth factors or blood transfusions and other medications considered by the investigator to be corrective therapy, within 2 weeks before enrollment). Biochemistry: serum creatinine≤1.5×ULN, total bilirubin≤1.5×ULN, AST/ALT≤2.5×ULN (≤5×ULN for patients with hepatic metastasis). Coagulation Function: INR \\< 1.5×ULN.\n\nExclusion Criteria:\n\n1. Histological or cytological confirmed other pathological types, such as acinar cell carcinoma, neuroendocrine carcinoma, pancreablastoma, etc.\n2. Previous received Aurora kinase inhibitors or systemic treatment of VEGF/VEGFR inhibitors such as bevacizumab, sorafenib, sunitinib, amlotinib, apatinib, and endostar.\n3. Previous radiation therapy, chemotherapy, immunotherapy, targeted therapy within 28 days prior to the first dose. Traditional Chinese medicine (except for Chinese herbal medicine) witn anti-malignancy effect judged by the investigator within 14 days prior to the first dose.\n4. Presence of active or untreated brain metastases, meningeal metastases, spinal cord compression, or molluscum contagiosum disease during the screening period. However, enrolment is permitted for subjects who meet the following requirements and have measurable lesion outside the CNS: asymptomatic after treatment and stable on imaging for at least 4 weeks prior to the first dose (e.g., no new or enlarging brain metastases) and have been off systemic glucocorticosteroids and anticonvulsant medications for at least 2 weeks prior to the first dose.\n5. Presence of clinically symptomatic pleural effusion, pericardial effusion or ascites requiring frequent drainage (≥1 time/month) during the screening period.\n6. Major surgery (craniotomy, thoracotomy, or laparotomy) or serious unhealed wounds, ulcers, or fractures within 4 weeks prior to the first dose. Needle biopsy or other minor surgery (except for intravenous infusion) within 7 days prior to the first dose.\n7. Significant arterial/venous thrombotic events within 6 months prior to first dose, such as deep vein thrombosis and pulmonary embolism. Superficial vein thrombosis without safety risk judged by the investigator is permitted.\n8. Cardiac dysfunction or clinically meaningful cardiovascular disease, including: (1)New York Heart Association (NYHA) grade II or higher congestive cardiac failure, unstable angina pectoris, and/or myocardial infarction within the 6 months prior to the first dose of the investigational drug, clinically significant arrhythmia unable to be controlled with medical treatment or left ventricular ejection fraction (LVEF) \\< 50% at screening. (2)Primary cardiomyopathies (e.g., dilated cardiomyopathy, hypertrophic cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy, restrictive cardiomyopathy, indeterminate cardiomyopathy). (3)Clinically significant history of prolonged QTc interval, or QTcF interval \\>470ms for females or \\>450 ms for males during the screening period. (4)Coronary heart disease with symptoms requiring medication. (5)Documentation of hypertension treatment with≥3 antihypertensive medications simultaneously within 14 days before the first dose of medication or systolic blood pressure≥140 mmHg and/or diastolic blood pressure≥90 mmHg during the screening period (resting state, measured approximately every 5 minutes, averaged after three consecutive measurements, rounded to the nearest integer). (6)History of hypertensive crisis or hypertensive encephalopathy. (7)Other cardiovascular disease judged by the investigator to be unsuitable for enrolment.\n9. Active bleeding within 2 months prior to the first dose, or taking anticoagulants, such as warfarin, phenprocoumon (prophylactic low-dose aspirin and low-molecular heparin are permitted) during the screening period, or at high risk of bleeding judged by the investigator during screening period (e.g., esophageal varix associated with bleeding risk, locally active ulcer lesions, positive fecal occult blood that can not exclude gastrointestinal bleeding, intermittent haemoptysis) .\n10. Presence of significant gastrointestinal abnormalities during the screening period that may interfere with drug intake, transit or absorption (e.g. inability to swallow, chronic diarrhoea, post-small bowel resection or total gastrectomy), according to the investigator's judgment.\n11. History of gastrointestinal perforation and/or fistula, peptic ulcer disease, intestinal obstruction (including incomplete intestinal obstruction that requires parenteral nutrition), or biliary obstruction within 6 months prior to the first dose.\n12. History of other malignant tumors within 3 years prior to the first dose, except for those treated with expected curative outcomes, such as basal cell carcinoma, squamous cell carcinoma of the skin, superficial bladder cancer, carcinoma in situ of the cervix, ductal carcinoma in situ of the breast, localized prostate cancer, and papillary thyroid microcarcinoma.\n13. For urine protein≥2+ by urinalysis during the screening period, a 24-hour urine protein quantification test should be performed. The subject cannot be enrolled if the quantified urine protein is≥1g/24 h. If the quantified urine protein is \\<1 g/24 h, the subject can still be enrolled.\n14. Presence of peripheral neuropathy of CTCAE v5.0 criteria, Grade 2 or higher.\n15. Known contraindications to albumin-paclitaxel and gemcitabine chemotherapy (see descriptions for albumin-paclitaxel and gemcitabine).\n16. Adverse effects of prior antineoplastic therapy that have not returned to ≤grade 1 of CTCAE v5.0 criteria (except for alopecia without safety risk judged by the investigator and laboratory tests specified in Inclusion Criterion 8).\n17. Presence of clinically active haemoptysis, active diverticulitis during the screening period.\n18. Presence of active tuberculosis during the screening period. Suspected subjects should be excluded by a combination of chest imaging, sputum, and through clinical signs and symptoms.\n19. Presence of active hepatitis of positive HBsAg with positive viral replication or positive HBcAb with positive viral replication during the screening period. Positive HCV-Ab with positive viral replication. Positive of HIV. Active syphilis infection (syphilis-specific antibody and nonspecific antibody positive). (Note: Priority for qualitative detection and quantitative detection of viral replication when needed).\n20. Previous or screening chest imaging showing the presence of interstitial lung disease or pulmonary fibrosis or non-infectious pneumonitis requiring treatment, and immune-associated pneumonia after previous treatment with PD-1/PD-L1 inhibitor.\n21. Active infection during the screening period, including systemic anti-infective therapy requiring oral or intravenous infusion within 2 weeks prior to the first dose, unexplained fever (≥38°C, except for tumor causes judged by the investigator) during the screening period.\n22. Screening period or history of allogeneic organ transplantation and allogeneic haematopoietic stem cell transplantation.\n23. Unexplained weight loss of 5% or more between signing the ICF and the first dose.\n24. NRS pain score 4 after analgesic medication during the screening period.\n25. Severe central nervous system or psychiatric illness during the screening period.\n26. Pregnant or lactating females. Female subjects of childbearing potential or male subjects whose partners of childbearing potential are unable or unwilling to use effective contraception (e.g., IUDs, Subcutaneous implant, sterilisation, long-acting contraceptive injections, compound of short-acting oral contraceptives, etc.) from 7 days prior to the first dose until 6 months after the end of treatment. Female subjects of childbearing potential must have a blood pregnancy test negative witnin 7days prior to the first dose.\n27. During the screening period, the investigator deems other conditions unsuitable for participation in this trial, such as clinically unacceptable worsening symptoms or signs of pancreatic cancer progression, comorbidities, concurrent treatments, or any laboratory abnormalities that may interfere with the assessment of efficacy and safety outcomes.",
   "enrollment": 42,
   "has_results": false,
@@ -71,20 +76,26 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "활동성 또는 치료되지 않은 뇌전이",
+    "조절되지 않는 심혈관 질환 및 심장 기능 장애",
+    "이전 VEGF/VEGFR 억제제 치료력",
+    "최근 6개월 이내 혈전증 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "이전 전신 항암 치료력이 없는 국소 진행성 또는 전이성 췌장암 환자를 위한 1차 치료 임상시험",
    "prior_excluded": [
-    "immunotherapy"
+    "immunotherapy",
+    "radiotherapy"
    ],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "75 Years",
   "min_age": "18 Years",

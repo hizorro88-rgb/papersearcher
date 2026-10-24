@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a dense desmoplastic stroma and early metastatic dissemination, both of which contribute to its poor prognosis. While forkhead box protein 3 (FOXP3) is best known as a lineage-defining transcription factor in regulatory T cells (Tregs), its aberrant expression in cancer cell-specific FOXP3 (c-FOXP3) may also support tumor-cell-intrinsic progression. Our findings suggest that high c-FOXP3 expression is closely linked to aggressive disease behavior and metastatic progression in PDAC. c-FOXP3 enhanced migration, invasion within three-dimensional collagen-rich matrices, and dissemination in orthotopic models. Integrated transcriptomic analysis, chromatin immunoprecipitation, and wild-type versus binding-site-mutant promoter assays identified matrix metalloproteinase 19 (MMP19) as a direct transcriptional target of c-FOXP3. MMP19 silencing significantly attenuated c-FOXP3-driven migration, matrix invasion, and metastasis. Single-cell sequencing further showed that MMP19 is abundant in cancer-associated fibroblasts but also defines a distinct epithelial pool that is reduced after epithelial Foxp3 deletion. Pharmacological profiling did not identify a validated MMP19-selective inhibitor, whereas the FOXP3-targeting antisense oligonucleotide AZD8701 reduced FOXP3 together with MMP19 mRNA and was accompanied by lower PDAC-cell migration and invasion in vitro. Together, these findings extend the known functions of FOXP3 beyond its classical role in immune tolerance and define a tumor-cell-intrinsic c-FOXP3-MMP19 program that supports matrix-invasive behavior in PDAC and provide preliminary evidence that c-FOXP3 is pharmacologically accessible.",
+ "authors": [
+  "Wang J",
+  "Lan C",
+  "Xing Y",
+  "Jing Y",
+  "Wang X",
+  "Gao C",
+  "Gong R",
+  "Ren H"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42919853",
+ "importance": 0.64,
+ "key_points_ko": [
+  "암세포 특이적 FOXP3(c-FOXP3)는 삼차원 콜라겐 환경 내 침습 및 동소이식 동물 모델에서의 전이를 촉진했습니다.",
+  "c-FOXP3의 직접적인 하위 표적으로 MMP19가 규명되었으며, MMP19 억제 시 c-FOXP3에 의한 전이 능력이 유의하게 감소했습니다.",
+  "FOXP3 표적 안티센스 올리고뉴클레오티드인 AZD8701 투여 시 시험관 내(in vitro)에서 췌장암 세포의 이동과 침습이 감소했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1038/s41388-026-04025-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42919853"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncogene",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919853/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 암세포 특이적으로 발현되는 FOXP3(c-FOXP3)가 종양의 침습과 전이를 촉진한다는 전임상 연구 결과입니다. 연구진은 전사체 분석 등을 통해 기질금속단백질분해효소 19(MMP19)가 c-FOXP3의 직접적인 표적 유전자임을 밝혔습니다. MMP19 발현을 억제했을 때 암세포의 이동과 전이가 유의하게 감소했습니다. 또한 FOXP3를 표적하는 안티센스 올리고뉴클레오티드(ASO) 물질인 AZD8701이 FOXP3와 MMP19 발현을 낮추고 암세포 침습을 억제함을 세포 실험에서 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cancer cell-specific FOXP3 licenses MMP19-dependent matrix remodeling and metastatic dissemination in pancreatic ductal adenocarcinoma",
+ "title_ko": "암세포 특이적 FOXP3에 의한 MMP19 의존적 기질 리모델링 및 췌관선암의 전이 촉진 기전",
+ "trial": null,
+ "type": "paper"
+}

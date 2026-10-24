@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer (PC) remains an extremely lethal malignancy due to its dense desmoplastic stroma and aberrant tumor microenvironment (TME), which severely impedes the efficacy of conventional therapies. Herein, a biomimetic dual-driven Janus nanorobot (rCeGLI@PM) is strategically constructed via the asymmetric decoration of l-arginine (l-Arg)-functionalized and indocyanine green (ICG)-loaded poly(amidoamine) dendrimers onto CeOx nanozymes, followed by homologous Panc02 cell membrane camouflage. The formed nanorobots exhibit precise tumor accumulation via homologous targeting and deep penetration through NIR-induced thermophoresis and gas generation propulsion. Within the TME, nanorobots initiate cascade catalysis that generates toxic hydroxyl radicals and depletes glutathione to exaggerate oxidative stress while replenishing oxygen to alleviate tumor hypoxia and amplify photodynamic therapy (PDT). Meanwhile, NIR-triggered photothermal therapy (PTT) accelerates the nanozymatic activity for enhanced catalytic therapy, and PDT-triggered NO forms peroxynitrite (ONOO-) to degrade the extracellular matrix. This establishes a self-amplifying feedback loop for enhanced intratumoral infiltration and overall therapeutic efficacy. Comprehensive evaluations in subcutaneous and orthotopic PC models confirmed that rCeGLI@PM achieved superior therapeutic outcomes through synergistic PTT/PDT/gas/catalytic therapy. In summary, the strategic asymmetrical decoration of multifunctional dendrimers on nanozymes establishes a facile and versatile paradigm for engineering self-propelled nanorobots capable of multimodal synergistic therapies.",
+ "authors": [
+  "Ni C",
+  "Sun H",
+  "Wang J",
+  "Wang N",
+  "Bányai I",
+  "Cao X",
+  "Shi X",
+  "Guo R"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42916100",
+ "importance": 0.46,
+ "key_points_ko": [
+  "근적외선 자극을 통한 열영동과 기체 발생 추진력으로 췌장암 기질을 효과적으로 뚫고 심부 침투합니다.",
+  "종양 미세환경 내 활성산소 생성, 글루타티온 고갈 및 산소 보충을 통해 광동역학 치료 효과를 증대시킵니다.",
+  "산화질소(NO) 생성을 통해 세포외 기질을 분해함으로써 약물 침투와 치료 효능의 자가 증폭 순환을 형성합니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acsnano.6c09872",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42916100"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Nano",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42916100/"
+ },
+ "summary_ko": "췌장암의 조밀한 기질과 종양 미세환경을 극복하기 위해 생체모사 이중 구동 야누스(Janus) 나노로봇(rCeGLI@PM)이 개발되었습니다. 이 나노로봇은 근적외선(NIR) 유도 열영동 및 기체 발생 추진력을 활용해 종양 심부까지 침투합니다. 마우스 피하 및 원위치 췌장암 모델 평가에서 광열, 광동역학, 기체, 촉매 치료의 다중 시너지 효과를 통해 뛰어난 치료 성과를 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Biomimetic Dual-Driven Janus Nanorobots for Enhanced Penetration and Combined Gas/Photothermal/Photodynamic/Catalytic Therapy of Pancreatic Cancer",
+ "title_ko": "췌장암 침투력 향상 및 기체/광열/광동역학/촉매 복합 치료를 위한 생체모사 이중 구동 야누스 나노로봇",
+ "trial": null,
+ "type": "paper"
+}

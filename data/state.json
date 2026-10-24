@@ -792,24 +792,46 @@
    "new": 24,
    "total": 747,
    "updated": 0
+  },
+  {
+   "date": "2026-10-24",
+   "llm": {
+    "attempted": 57,
+    "cache_read_tokens": 0,
+    "errors": [],
+    "failed": 0,
+    "input_tokens": 118551,
+    "model": "gemini-3.5-flash-lite",
+    "models_used": {
+     "gemini-3.5-flash-lite": 28,
+     "gemini-3.6-flash": 10,
+     "gemini-3.8-flash": 19
+    },
+    "output_tokens": 40681,
+    "provider": "gemini",
+    "succeeded": 57
+   },
+   "new": 25,
+   "total": 772,
+   "updated": 0
   }
  ],
  "sources": {
   "clinicaltrials": {
-   "at": "2026-10-23T23:40:16+00:00",
-   "count": 53,
+   "at": "2026-10-24T22:47:29+00:00",
+   "count": 32,
    "error": null,
    "ok": true
   },
   "europepmc": {
-   "at": "2026-10-23T23:40:18+00:00",
-   "count": 7,
+   "at": "2026-10-24T22:47:30+00:00",
+   "count": 4,
    "error": null,
    "ok": true
   },
   "pubmed": {
-   "at": "2026-10-23T23:40:16+00:00",
-   "count": 49,
+   "at": "2026-10-24T22:47:28+00:00",
+   "count": 59,
    "error": null,
    "ok": true
   }

@@ -1,0 +1,63 @@
+{
+ "abstract": "Extracellular vesicles (EVs) have the potential to be used as a liquid biopsy for cancer detection and treatment response assessment. Although the potential of EVs as disease-specific biomarkers has been promising, the rapid and specific enrichment of EVs from body fluids in a clinical setting remains challenging. To address this limitation, we developed a microfluidic electrophoresis (MEP) device for the label-free, charge-based enrichment of EVs from the serum of patients with pancreatic cancer (PaCa). We first validated the principle of charge-based cancer EV enrichment using cell-line-derived EVs, demonstrating that increased signaling through mutant Kirsten rat sarcoma viral oncogene homologue (KRAS), particularly KrasG12D, was associated with enhanced EV secretion and a shift toward more negative ζ-potential values. We then evaluated EVs derived from the serum of patients with PaCa to assess the clinical relevance and translational potential of the MEP platform. Further analyses identified phosphatidylserine and extraluminal DNA as part of the molecular determinants of the enhanced anionic nature of the PaCa-derived EVs. Overall, this proof-of-concept study introduces a promising microfluidic platform for enriching circulating cancer EVs with potential applications in the rapid detection of PaCa.",
+ "authors": [
+  "Spezza PA",
+  "Kapoor KS",
+  "Pforr BP",
+  "Luo X",
+  "Church KA",
+  "Bell MM",
+  "Fan B",
+  "Kong S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42915039",
+ "importance": 0.46,
+ "key_points_ko": [
+  "돌연변이 KRAS(KRAS G12D)는 췌장암 세포외 소포체(EV) 분비를 촉진하고 제타 전위(ζ-potential)를 더 강한 음전하로 변화시킵니다.",
+  "포스파티딜세린과 루멘 외부 DNA가 췌장암 유래 세포외 소포체의 음전하 특성을 결정하는 핵심 분자적 요인입니다.",
+  "표지자 없이 전하 차이를 이용하여 환자 혈청에서 췌장암 세포외 소포체를 신속하게 분리하는 미세유체 전기영동(MEP) 장치를 검증했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acsnano.6c08263",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42915039"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-15",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Nano",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915039/"
+ },
+ "summary_ko": "본 연구는 췌장암 환자의 혈청에서 세포외 소포체(EV)를 전하 기반으로 분리하는 미세유체 전기영동(MEP) 기술을 개발했습니다. 돌연변이 KRAS(특히 KRAS G12D) 유전자가 세포외 소포체 분비를 늘리고 표면 전하를 더 강한 음전하로 변화시킴을 확인했습니다. 분석 결과 포스파티딜세린(phosphatidylserine)과 루멘 외부 DNA가 이러한 음전하 강화의 주요 원인으로 밝혀졌습니다. 이 연구는 췌장암의 신속한 액체 생검(liquid biopsy) 및 진단을 위한 기술적 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Oncogenic KRAS Regulates Secretion of Extracellular Vesicles and Surface Membrane Charge via Regulation of Phosphatidylserine in Pancreatic Cancer",
+ "title_ko": "췌장암에서 종양 유전자 KRAS의 포스파티딜세린 조절을 통한 세포외 소포체 분비 및 표면 막 전하 조절",
+ "trial": null,
+ "type": "paper"
+}

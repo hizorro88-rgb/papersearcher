@@ -32,7 +32,7 @@ search:
 | [고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
-| [ANO31905 in Combination With Chemotherapy for CLDN18.2-Positive Local…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
+| [CLDN18.2 양성 국소 진행성 수술 불가능 또는 전이성 췌장암 환자를 대상으로 한 ANO31905 및 항암화학요법 병용요…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
 | [mFOLFIRINOX 또는 NALIRIFOX 항암화학요법과 setidegrasib 병용 투여의 효과 및 안전성을 평가하기 위…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [진행성 췌장암 환자의 암 악액질 치료를 위한 나노결정 메게스트롤 아세테이트 임상시험](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
@@ -48,7 +48,7 @@ search:
 | [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
 | [치료 전이가 없는 전이성 췌장암 환자에서 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
-| [PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내인성, 약동학 및 유효성을 평가하기 위한 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [TNG462 병용 투여의 안전성, 내약성 및 유효성을 평가하기 위한 임상 1/2상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [수술로 절제된 췌관선암 환자에서 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINO…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [진행성 췌장선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 (RiLEY)](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
@@ -85,12 +85,42 @@ search:
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
-| [수술 가능 췌장암 환자를 위한 FOLFIRINOX와 디곡신 병용 임상시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
+| [수술 가능한 췌장암 환자에서 FOLFIRINOX와 Digoxin 병용 요법 임상시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (5)
+## 타임라인 (7)
 
+<a id="pmid-42914998"></a>
+#### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
+<small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
+
+`논문` `2상` `치료 전반` `임상시험` `수술` `진단·조기발견` · 2026-10-23 · PubMed · Lancet Oncol · 중요도 0.91
+
+고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.
+
+- 12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).
+- 3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).
+- 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+
+---
+<a id="pmid-42919655"></a>
+#### [절제 가능 및 경계성 절제 가능 췌관선암에서 생존 예측 인자로서의 종양 퇴행 등급: 수술 후 예후 지표의 한계](https://pubmed.ncbi.nlm.nih.gov/42919655/)
+<small>Tumour Regression Grade as a Predictor of Survival in Resectable and Borderline Resectable Pancreatic Ductal Adenocarcinoma: Limitations of a Post-Surgical Indicator of Prognosis</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-10-23 · PubMed · ANZ J Surg · 중요도 0.75
+
+본 연구는 절제 가능 및 경계성 절제 가능 췌장암 환자 152명을 대상으로 선행항암화학요법(NAC)과 즉각적인 수술(UFS)의 치료 경과 및 종양 퇴행 등급(TRG)과 전체 생존기간(OS)의 상관관계를 후향적으로 분석했습니다. 가장 흔히 사용된 선행항암요법은 FOLFIRINOX(57.3%)였으나, 전체 선행항암요법 완수율은 53.3%에 불과했습니다. 선행항암화학요법을 받는 동안 환자의 33.3%(수술 가능 환자의 20% 포함)에서 질환이 진행되었습니다. 본 코호트에서는 즉각적인 수술을 받은 환자군의 생존기간이 선행항암화학요법군보다 유의하게 길었습니다(25.2개월 대 18.2개월).
+
+- 선행항암화학요법(NAC)의 전체 완수율은 53.3%였으며, 치료 중 33.3%의 환자(수술 가능 환자의 20% 포함)에서 질병 진행이 발생했습니다.
+- 전체 생존기간(OS) 중앙값은 즉각적인 수술군(UFS)이 25.2개월로, 선행항암화학요법군(18.2개월)에 비해 유의하게 높았습니다(p=0.03).
+- 종양 퇴행 등급(TRG)과 전체 생존기간 간에는 유의미한 상관관계가 확인되었습니다(rs=-0.53, p=0.005).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919655/) · [DOI](https://doi.org/10.1111/ans.71001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919655)</small>
+
+---
 <a id="pmid-42861545"></a>
 #### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
 <small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>

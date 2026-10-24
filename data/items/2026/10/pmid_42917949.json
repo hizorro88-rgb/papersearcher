@@ -1,0 +1,62 @@
+{
+ "abstract": "Integrin αvβ6 is an attractive theranostic target for pancreatic ductal adenocarcinoma (PDAC). Existing αvβ6-targeting tracers are limited by relatively low tumor uptake and rapid tumor washout, compromising theranostic efficacy. In this study, a series of αvβ6-targeting ligands with different hydrophilic linkers and/or albumin-binding moiety were designed and evaluated with molecular docking and MD simulations. Among them, NOTA-Asp2-IPB-αvβ6L was selected for further theranostic evaluation due to its favorable targeting capability, enhanced tumor uptake and favorable pharmacokinetic properties. NOTA-Asp2-IPB-αvβ6L was labeled with 18F, 68Ga, and 177Lu, and showed favorable in vitro properties, including high hydrophilicity, αvβ6 affinity, and albumin binding. In PET/CT imaging, [18F]AlF/[68Ga]Ga-Asp2-IPB-αvβ6L exhibited enhanced tumor uptake and prolonged retention while maintaining favorable pharmacokinetics, showing favorable diagnostic efficiency. In therapeutic studies, [177Lu]Lu-Asp2-IPB-αvβ6L effectively inhibited tumor growth with no apparent toxicity. These results demonstrated [18F]AlF/[68Ga]Ga-Asp2-IPB-αvβ6L and [177Lu]Lu-Asp2-IPB-αvβ6L as promising radiotheranostic pairs for PDAC.",
+ "authors": [
+  "Zhang X",
+  "Huang J",
+  "Ye X",
+  "Lan T",
+  "Chen K",
+  "Liu Y",
+  "Tang G"
+ ],
+ "categories": [
+  "drug",
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42917949",
+ "importance": 0.45,
+ "key_points_ko": [
+  "알부민 결합 부위 개량을 통해 αvβ6 표적 물질(NOTA-Asp2-IPB-αvβ6L)의 종양 내 체류 시간을 늘렸습니다.",
+  "[18F]AlF 및 [68Ga]Ga 표지 진단제는 PET/CT 영상에서 향상된 종양 섭취와 우수한 진단 효율을 보였습니다.",
+  "[177Lu]Lu 표지 치료제는 전임상 모델에서 명확한 독성 없이 종양 성장을 효과적으로 억제했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acs.jmedchem.6c02002",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42917949"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42917949/"
+ },
+ "summary_ko": "인테그린 αvβ6(Integrin αvβ6)을 표적으로 하는 췌장암 방사선 진단 및 치료제(Theranostics) 개발 전임상 연구입니다. 기존 표적 물질의 낮은 종양 섭취와 빠른 배출 문제를 극복하기 위해 알부민 결합 부위를 도입한 NOTA-Asp2-IPB-αvβ6L을 설계했습니다. 진단용 [18F]/[68Ga] 표지 물질은 PET/CT 영상에서 종양 섭취 증가와 체류 시간 연장을 나타냈습니다. 치료용 [177Lu] 표지 물질은 뚜렷한 독성 없이 종양 성장을 효과적으로 억제했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Albumin-Binding Modification Improves Tumor Retention of Hydrophilic αvβ6-Targeting Radiotheranostic Tracers",
+ "title_ko": "알부민 결합 개량을 통한 친수성 αvβ6 표적 방사선 진단 및 치료용 추적자의 종양 내 체류 향상",
+ "trial": null,
+ "type": "paper"
+}

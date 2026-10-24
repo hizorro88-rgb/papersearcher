@@ -28,12 +28,16 @@
  ],
  "id": "pmid:42905970",
  "importance": 0.67,
- "key_points_ko": [],
- "last_updated": "2026-10-23",
+ "key_points_ko": [
+  "췌장관선암 환자에서 16b1 림프절 침범은 전체 생존기간 단축과 유의한 연관이 있었습니다(10개월 대 24개월, 보정 위험비 2.33).",
+  "췌장관선암 환자에서 8a 림프절 침범 역시 전체 생존기간 감소와 관련이 있었습니다(13개월 대 22개월, 보정 위험비 1.38).",
+  "본 연구에는 췌장관선암 환자 673명을 포함해 총 1,218명의 절제술 환자가 분석되었습니다."
+ ],
+ "last_updated": "2026-10-24",
  "links": {
   "doi": "10.1093/bjsopen/zrag157",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13686085",
   "pmid": "42905970"
  },
  "pub_types": [
@@ -51,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42905970/"
  },
- "summary_ko": "BACKGROUND: Current guidelines do not recommend routine sampling of lymph node stations (LNS) 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic ductal adenocarcinoma (PDAC) and other periampullary cancers because prospective multicentre studies are lacking. This study evaluated the association between the involvement of these LNS and overall survival (OS).",
- "summary_source": "excerpt",
+ "summary_ko": "췌장관선암(PDAC) 및 팽대부위암 환자를 대상으로 췌두십이지장절제술 시 림프절 구역(LNS) 16b1, 9, 8a의 침범이 전체 생존기간(OS)에 미치는 영향을 평가한 전향적 다기관 연구입니다. 총 1,218명의 환자(췌장관선암 673명 포함)를 분석한 결과, 16b1 림프절 침범은 췌장관선암 환자의 생존기간을 현저히 단축시켰습니다. 림프절 8a 침범 역시 췌장관선암 환자의 생존기간 감소와 연관이 있었습니다. 연구진은 수술 전 또는 수술 중 16b1 림프절 검사의 필요성을 평가해야 한다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Survival impact of involvement of lymph node stations 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic and periampullary cancers (PANODE): prospective multicentre study",
- "title_ko": null,
+ "title_ko": "췌장암 및 팽대부위암의 췌두십이지장절제술 중 림프절 16b1, 9, 8a 구역 침범이 생존에 미치는 영향 (PANODE): 전향적 다기관 연구",
  "trial": null,
  "type": "paper"
 }

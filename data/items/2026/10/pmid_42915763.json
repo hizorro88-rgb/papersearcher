@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic cancer (PC) is a highly lethal malignancy, characterized by frequent late-stage diagnosis and limited response to available treatments. Photoimmunotherapy, which combines the localized tumor ablation of phototherapy with the systemic immune activation of immunotherapy, presents a promising strategy. However, its success is often hampered by insufficient accumulation of therapeutic agents at the tumor site. To address this challenge, we developed a novel antibody-photosensitizer conjugate, named αPD-L1@AIE, by conjugating a multifunctional phototheranostic agent with αPD-L1 antibody for targeted photoimmunotherapy of PC. The incorporation of αPD-L1 not only facilitates tumor-specific targeting but also acts as an immune checkpoint inhibitor. Upon 660 nm laser irradiation, this phototheranostic agent enables NIR-II fluorescence imaging and simultaneously induces potent immunogenic cell death (ICD) via combined photodynamic and photothermal therapy. Following localized phototherapy, the released tumor-associated antigens from ICD initiate a robust antitumor immune response. Such a response is synergistically amplified by αPD-L1, which together alleviates immunosuppression via Treg cell depletion and M2-like macrophage repolarization, thereby promoting a marked increase in cytotoxic T lymphocyte infiltration and granzyme B production. Consequently, the aforementioned photoimmunotherapy approach effectively suppresses tumor growth and inhibits spontaneous metastasis, demonstrating a powerful and transformative paradigm for advanced PC management.",
+ "authors": [
+  "Yan D",
+  "Wu J",
+  "Tong Y",
+  "Sheng Z",
+  "Lin D",
+  "Zhou F",
+  "Wang D",
+  "Tang BZ"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42915763",
+ "importance": 0.51,
+ "key_points_ko": [
+  "αPD-L1 항체와 다기능 광진단치료제를 결합한 αPD-L1@AIE 접합체를 새로 개발했습니다.",
+  "660nm 레이저 조사를 통해 NIR-II 형광 영상화와 광역학·광열 치료에 의한 면역성 세포사멸(ICD)을 동시에 유도했습니다.",
+  "조절 T 세포(Treg) 감소와 M2 대식세포 재편극으로 면역억제 환경을 완화하고 세포독성 T 세포 침윤을 유동했습니다.",
+  "전임상 모델에서 진행성 췌장암의 종양 성장을 억제하고 자발적인 암 전이를 방지하는 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acsnano.6c11768",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42915763"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Nano",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915763/"
+ },
+ "summary_ko": "진행성 췌장암의 치료 한계를 극복하기 위해 표적 광면역치료(Photoimmunotherapy)용 항체-광감작제 접합체인 αPD-L1@AIE가 개발되었습니다. 이 접합체는 αPD-L1 항체를 활용해 췌장암을 정확히 표적하는 동시에 면역관문 억제 작용을 수행합니다. 660nm 레이저 조사 시 근적외선-II(NIR-II) 형광 영상화와 함께 광역학 및 광열 치료를 통해 종양 세포의 강력한 면역성 세포사멸(ICD)을 유도합니다. 이 과정에서 방출된 항원이 면역 반응을 촉발하고 αPD-L1과 시너지를 일으켜 종양 성장을 효과적으로 억제하고 자발적 전이를 방지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Near-Infrared-II Antibody-Photosensitizer Conjugate for Photoimmunotherapy of Advanced Pancreatic Cancer",
+ "title_ko": "진행성 췌장암의 광면역치료를 위한 근적외선-II 항체-광감작제 접합체 연구",
+ "trial": null,
+ "type": "paper"
+}

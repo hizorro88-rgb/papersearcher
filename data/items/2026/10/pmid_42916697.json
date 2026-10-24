@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) features dense desmoplastic stroma that impedes drug penetration and immune infiltration, and promotes therapeutic resistance. As a central driver of stromal fibrosis and immunosuppression, TGF-β represents an attractive target for overcoming these barriers. Herein, we report novel Pt(IV) prodrugs conjugated with TGF-β inhibitors (hydronidone/4-hydroxyphenylacetic acid), which simultaneously achieve chemotherapy and tumor microenvironment remodeling. Biological screening identified HP-12C and AP as lead compounds with tumor-selective cytotoxicity and substantial activity in patient-derived organoids. In vitro, these prodrugs suppressed tumor-cell-derived TGF-β-associated profibrotic signaling, attenuated cancer-associated fibroblasts (CAFs) activation, improved platinum penetration across a fibrotic barrier model; and partially relieved tumor-mediated immunosuppression in PBMC co-culture assays. In vivo, HP-12C showed superior tumor accumulation and antitumor efficacy, reduced fibrosis, favorable tolerability relative to conventional platinum drugs, and increased CD8+ T-cell infiltration. Collectively, these findings identify TGF-β-modulated Pt(IV) prodrugs as a promising chemotherapy strategy to overcome fibrosis and immunosuppressive barriers in PDAC.",
+ "authors": [
+  "Li Z",
+  "Liu XM",
+  "Wang XY",
+  "Zhang SH",
+  "Li JQ",
+  "Guo WH",
+  "Ding BW",
+  "Zhou YM"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42916697",
+ "importance": 0.55,
+ "key_points_ko": [
+  "TGF-β 억제제와 결합된 새로운 백금 전구약물 HP-12C와 AP가 환자 유래 오가노이드 및 암세포에서 종양 선택적 항암 활성을 나타냈습니다.",
+  "섬유화 장벽 모델에서 암 연관 섬유아세포 활성을 줄여 백금 약물의 조직 침투력을 높이고 종양의 면역 억제를 일부 완화했습니다.",
+  "동물 실험에서 HP-12C는 기존 백금계 항암제 대비 섬유화를 감소시키고 종양 내 CD8+ T세포 침투를 증가시키며 우수한 내약성을 보였습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acs.jmedchem.6c01687",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42916697"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-24",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42916697/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 치밀한 섬유성 기질은 약물 전달과 면역 세포 침투를 방해하는 주요 원인입니다. 연구진은 항암 화학요법과 종양 미세환경 개선을 동시에 유도하기 위해 TGF-β 억제제와 결합된 새로운 백금(IV) 전구약물(Pt(IV) prodrugs)을 개발했습니다. 세포 및 환자 유래 오가노이드 실험에서 선도 물질인 HP-12C와 AP는 종양 선택적 세포 독성을 보였으며 암 연관 섬유아세포(CAF) 활성화 억제 및 백금 투과율 향상을 나타냈습니다. 동물 실험(in vivo)에서 HP-12C는 기존 백금계 약물 대비 우수한 종양 내 축적, 종양 억제 효과, 섬유화 감소 및 CD8+ T세포 침투 증가를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "TGF-β-Targeting Platinum(IV) Prodrugs Remodel Tumor Microenvironment of Pancreatic Cancer via Antifibrotic and Immunomodulatory Effects",
+ "title_ko": "섬유화 억제 및 면역 조절을 통해 췌장암의 종양 미세환경을 개선하는 TGF-β 표적 백금(IV) 전구약물",
+ "trial": null,
+ "type": "paper"
+}

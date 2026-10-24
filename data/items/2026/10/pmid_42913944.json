@@ -1,0 +1,62 @@
+{
+ "abstract": "PURPOSE: To evaluate the efficacy and safety of carbon ion radiotherapy (CIRT) in patients with non-metastatic, inoperable pancreatic cancer in a prospective phase 2 setting.\nMETHODS: In this single-center investigator-initiated phase 2 trial, 25 patients with locally advanced or locally recurrent pancreatic cancer were included. CIRT was performed using an intensity-controlled rasterscanning system for beam application [total dose: 48 Gy (RBE), 12 fractions]. Concurrent chemotherapy with Gemcitabine 300 mg/m2 was administered weekly. The primary endpoint was the 1-year OS rate, defined as time from study inclusion. 1y- and 2y-OS and -PFS were calculated using the Kaplan-Meier method, 95 % confidence intervals are shown. Toxicity was evaluated using CTCAEv5.0.\nRESULTS: Twenty-three patients were included in the final analysis. After the completed 12-month follow-up of the last patient, the 1- and 2-year OS rates were 78 % [CI 63 %; 97 %] and 59 % [CI 41 %; 84 %]. The median OS was 26.5 months. The 1- and 2-year PFS rates were 26 % [CI 13 %; 52 %] and 10 % [CI 3 %; 37 %] with a median PFS of 8.1 months. Study treatment was well tolerated with three treatment-related CTCAE grade 3 toxicities, including one case of abdominal pain, one upper gastrointestinal hemorrhage and one ureteric stricture. No treatment-related CTCAE grade 4-5 toxicities were observed.\nCONCLUSION: Chemoradiation with carbon ions demonstrated encouraging overall survival and acceptable toxicity in non-metastatic pancreatic cancer patients. A subsequent randomized Phase 3 trial should investigate OS superiority of CIRT compared to conventional chemoradiotherapy or chemotherapy.",
+ "authors": [
+  "Liermann J",
+  "Naumann P",
+  "Jäkel C",
+  "Baumann L",
+  "Koczur B",
+  "Röhrich M",
+  "Englert FH",
+  "Jessen I"
+ ],
+ "categories": [
+  "treatment",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42913944",
+ "importance": 0.82,
+ "key_points_ko": [
+  "비전이성 췌장암 환자 23명에서 탄소이온 방사선치료 후 1년 및 2년 전체 생존율(OS)은 각각 78%와 59%였고 중앙 생존기간은 26.5개월이었습니다.",
+  "중앙 무진행 생존기간(PFS)은 8.1개월이었으며, 1년 및 2년 무진행 생존율은 각각 26%와 10%였습니다.",
+  "치료 관련 3등급 독성은 복통, 상부위장관 출혈, 요관 협착 각 1건(총 3건) 보고되었고 4등급 이상의 이상반응은 없었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.radonc.2026.111836",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42913944"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiother Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913944/"
+ },
+ "summary_ko": "수술이 불가능한 비전이성 국소 진행성 또는 국소 재발 췌장암 환자 23명을 대상으로 탄소이온 방사선치료(CIRT)와 gemcitabine(젬시타빈) 병용 요법의 효과와 안전성을 평가한 전향적 2상 임상시험 결과입니다. 환자들은 총 48 Gy(RBE)의 탄소이온 방사선을 12회에 나누어 조사받았으며 매주 저용량 젬시타빈을 병용 투여받았습니다. 분석 결과 1년 전체 생존율은 78%, 중앙 생존기간은 26.5개월로 고무적인 생존 연장 효과를 보였습니다. 치료 관련 중증 부작용(3등급)은 복통, 상부위장관 출혈, 요관 협착 각 1건씩 발생하였으며 4등급 이상의 심각한 독성은 관찰되지 않아 내약성이 양호했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Carbon ion radiotherapy for non-metastatic pancreatic cancer: final results of the prospective phase 2 PACK-study (NCT04194268)",
+ "title_ko": "비전이성 췌장암 환자를 위한 탄소이온 방사선치료: 전향적 2상 PACK 임상시험 최종 결과",
+ "trial": null,
+ "type": "paper"
+}

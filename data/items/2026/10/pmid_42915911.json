@@ -1,0 +1,60 @@
+{
+ "abstract": "Metabolic crosstalk between cell types is critical to our mechanistic understanding of pancreatic cancer. The lack of methods to investigate metabolic crosstalk has impeded the comprehensive OMIC characterization of these complex cellular systems. To address this need, an NMR metabolomics method employing a selective isotope-labeling strategy is presented to study metabolic crosstalk in routine cell cultures. 2D 1H-13C HSQC NMR experiments were used to simultaneously monitor pancreatic cancer cells and stromal cells, which revealed a cancer-cell-induced metabolic remodeling of stromal cells. Cancer-cell-conditioned medium was used to stimulate stromal cells, which identified a unique and divergent metabolism in stromal cells in contrast to the classical Warburg metabolism in cancer cells. The two phenotypically different stromal cells exhibited distinct stimulated metabolic profiles; however, the exo-metabolome from both stimulated stromal cells revealed that 13C6-glucose-derived carbon is excreted as alanine and pyruvate. Furthermore, intracellular 13C6-glucose was converted to a variety of tricarboxylic acid cycle-linked and redox metabolites. Stromal cells, unlike cancer cells, mainly convert 13C3-pyruvate to alanine and lactate at an early growth time point, followed by the incorporation of 13C3-pyruvate-derived carbon into multiple amino acids. Interestingly, unstimulated stromal cells depend on pyruvate for survival, whereas cancer cells do not. Simply put, efficient metabolic crosstalk between cancer and stromal cells enables the cells to utilize different metabolic pathways and nutrient sources. Although presented to study cancer-stromal crosstalk, the method can be easily adapted to a variety of cellular crosstalk systems, such as neuron-astrocyte, host-pathogen, or host-microbiota systems.",
+ "authors": [
+  "Bhinderwala F",
+  "Souchek J",
+  "Chaika NV",
+  "Abdullatif F",
+  "Singh PK",
+  "Powers R",
+  "Gebregiworgis T"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42915911",
+ "importance": 0.47,
+ "key_points_ko": [
+  "선택적 동위원소 표지 전략을 적용한 NMR 대사체학 방법이 제시되었습니다.",
+  "자극된 기질 세포는 13C6-포도당(13C6-glucose) 유래 탄소를 알라닌(alanine)과 피루브산(pyruvate)으로 배출했습니다.",
+  "자극되지 않은 기질 세포는 생존을 위해 피루브산(pyruvate)에 의존하는 반면 암세포는 그렇지 않았습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1021/acs.analchem.6c02205",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42915911"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anal Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42915911/"
+ },
+ "summary_ko": "이 연구는 선택적 동위원소 표지 전략을 활용한 핵자기공명(NMR) 대사체학 방법을 제시하여 췌장암 세포와 기질 세포(stromal cells) 간의 대사적 상호작용을 조사했습니다. 2D 1H-13C HSQC NMR 실험을 통해 암세포가 기질 세포의 대사 리모델링을 유도함을 밝혔습니다. 암세포에 의해 자극된 기질 세포는 암세포의 전형적인 바르부르크 대사(Warburg metabolism)와는 다른 독특하고 상반된 대사 양상을 보였습니다. 기질 세포와 암세포 간의 효율적인 대사 상호작용을 통해 두 세포는 서로 다른 대사 경로와 영양원을 활용할 수 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Metabolic Analyses of Crosstalk between Pancreatic Stromal and Cancer Cells",
+ "title_ko": "췌장 기질 세포와 암세포 간의 상호작용에 대한 대사 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,55 @@
+{
+ "abstract": null,
+ "authors": [
+  "Barzola E",
+  "Padillo J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42918325",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암 수술 품질 지표 연구 논문에 대한 독자 서신(Letter)입니다.",
+  "상세 내용 및 구체적인 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.cireng.2026.800408",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42918325"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cir Esp (Engl Ed)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918325/"
+ },
+ "summary_ko": "본 문헌은 카탈루냐 지역의 췌장암 수술 핵심 품질 지표에 관한 연구 논문에 대해 작성된 독자 서신입니다. 상세한 요약 내용이나 수치적 결과는 초록에 명시되지 않았습니다. 본문에 대한 의견 및 디스커션을 다루고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Re: \"Consensus-based validation of key quality indicators in pancreatic cancer surgery in Catalonia: A modified Delphi study\"",
+ "title_ko": "\"카탈루냐 지역 췌장암 수술의 핵심 품질 지표에 대한 합의 기반 검증: 수정된 델파이 연구\"에 대한 서신",
+ "trial": null,
+ "type": "paper"
+}

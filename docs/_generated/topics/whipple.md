@@ -29,7 +29,7 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (12)
+## 타임라인 (13)
 
 <a id="pmid-42905299"></a>
 #### [췌십이지장절제술을 받은 팽대부 주위 악성종양 환자의 식이 섭취량 및 임상·영양 바이오마커에 관한 전향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42905299/)
@@ -43,7 +43,22 @@ search:
 - 다량영양소, 식이섬유, 칼슘, 철, 셀레늄의 섭취량이 감소한 반면 아연과 비타민 A, E 섭취량은 유의한 변화를 보이지 않았습니다.
 - 수술 후 C-반응성 단백(CRP)과 글래스고 예후 점수(GPS) 등 염증 지표는 감소했으나, 식사 섭취 저하는 6개월 동안 지속되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905299/) · [DOI](https://doi.org/10.1007/s00520-026-11357-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905299)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905299/) · [DOI](https://doi.org/10.1007/s00520-026-11357-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13687123/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905299)</small>
+
+---
+<a id="pmid-42920464"></a>
+#### [췌십이지장절제술 후 발생한 잔위암에 대한 인도시아닌 그린 형광 유도 복강경 아전위절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42920464/)
+<small>Indocyanine Green Fluorescence-Guided Laparoscopic Subtotal Gastrectomy for Remnant Gastric Cancer after Pancreaticoduodenectomy: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-10-20 · PubMed · Surg Case Rep · 중요도 0.60
+
+췌장암으로 췌십이지장절제술(PD)을 받은 지 24년 후 잔위암이 발생한 75세 남성 환자의 수술 사례를 보고한 증례입니다. 환자는 뇌경색과 천포창 등 복합 질환을 앓고 있는 고위험군이었습니다. 의료진은 인도시아닌 그린(ICG) 형광 기술을 활용하여 유착이 심한 상태에서도 종양의 위치와 혈류를 실시간으로 확인하며 복강경 아전위절제술을 시행했습니다. 수술 후 2등급(Grade B) 췌장 누공이 발생했으나 보존적 치료 후 퇴원했습니다.
+
+- 췌장암 수술(PD) 후 24년간 장기 생존한 75세 환자에게 발생한 조기 잔위암(35mm, 점막하층 침윤) 사례입니다.
+- ICG 형광 클립과 근적외선 시각화를 통해 안전한 절제 경계를 확보하고 위를 보존하는 아전위절제술을 성공적으로 마쳤습니다.
+- 수술 후 2등급 췌장 누공 합병증이 있었으나 보존적으로 호전되어 무사히 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42920464/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0512) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13690491/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42920464)</small>
 
 ---
 <a id="pmid-42891606"></a>
@@ -185,12 +200,18 @@ search:
 
 ---
 <a id="pmid-42905970"></a>
-#### [Survival impact of involvement of lymph node stations 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic and periampullary cancers (PANODE): prospective multicentre study](https://pubmed.ncbi.nlm.nih.gov/42905970/)
+#### [췌장암 및 팽대부위암의 췌두십이지장절제술 중 림프절 16b1, 9, 8a 구역 침범이 생존에 미치는 영향 (PANODE): 전향적 다기관 연구](https://pubmed.ncbi.nlm.nih.gov/42905970/)
+<small>Survival impact of involvement of lymph node stations 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic and periampullary cancers (PANODE): prospective multicentre study</small>
+
 `논문` `관찰연구` `수술` `치료 전반` · 2026-09-04 · PubMed · BJS Open · 중요도 0.67
 
-BACKGROUND: Current guidelines do not recommend routine sampling of lymph node stations (LNS) 16b1, 9, and 8a during pancreatoduodenectomy for pancreatic ductal adenocarcinoma (PDAC) and other periampullary cancers because prospective multicentre studies are lacking. This study evaluated the association between the involvement of these LNS and overall survival (OS).
+췌장관선암(PDAC) 및 팽대부위암 환자를 대상으로 췌두십이지장절제술 시 림프절 구역(LNS) 16b1, 9, 8a의 침범이 전체 생존기간(OS)에 미치는 영향을 평가한 전향적 다기관 연구입니다. 총 1,218명의 환자(췌장관선암 673명 포함)를 분석한 결과, 16b1 림프절 침범은 췌장관선암 환자의 생존기간을 현저히 단축시켰습니다. 림프절 8a 침범 역시 췌장관선암 환자의 생존기간 감소와 연관이 있었습니다. 연구진은 수술 전 또는 수술 중 16b1 림프절 검사의 필요성을 평가해야 한다고 결론지었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905970/) · [DOI](https://doi.org/10.1093/bjsopen/zrag157) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905970)</small>
+- 췌장관선암 환자에서 16b1 림프절 침범은 전체 생존기간 단축과 유의한 연관이 있었습니다(10개월 대 24개월, 보정 위험비 2.33).
+- 췌장관선암 환자에서 8a 림프절 침범 역시 전체 생존기간 감소와 관련이 있었습니다(13개월 대 22개월, 보정 위험비 1.38).
+- 본 연구에는 췌장관선암 환자 673명을 포함해 총 1,218명의 절제술 환자가 분석되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905970/) · [DOI](https://doi.org/10.1093/bjsopen/zrag157) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13686085/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905970)</small>
 
 ---
 <a id="pmid-42866830"></a>

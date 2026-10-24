@@ -1,0 +1,66 @@
+{
+ "abstract": "INTRODUCTION: Remnant gastric cancer (RGC) is rare after pancreaticoduodenectomy (PD). Surgical management of such cases is technically challenging because of postoperative adhesions and altered anatomy due to reconstruction. Although a completion total gastrectomy is the standard treatment for RGC, it can be highly invasive, particularly in elderly patients with significant comorbidities. While function-preserving subtotal gastrectomy or minimally invasive approaches have been considered, they remain technically demanding. Recent advances in indocyanine green (ICG) fluorescence imaging have facilitated precise tumor localization and real-time tissue perfusion assessment in complex surgical settings.\nCASE PRESENTATION: A 75-year-old man with a 24-year survival history after PD for pancreatic cancer presented with early-stage RGC (0-IIa, size 35 mm, invading the submucosa). The patient was at high risk, with a history of cerebral infarction requiring dual antiplatelet therapy and long-term corticosteroid therapy for pemphigus vulgaris. A laparoscopic subtotal gastrectomy was performed. Preoperative endoscopic ICG fluorescent clipping guided the determination of an adequate surgical margin under near-infrared visualization, despite dense adhesions. ICG fluorescence enabled precise tumor localization and confirmation of adequate perfusion, thereby facilitating stomach-preserving resection. Although the postoperative course was complicated by a Grade B pancreatic fistula that was managed conservatively, the patient was discharged.\nCONCLUSIONS: Laparoscopic subtotal gastrectomy with ICG fluorescence guidance can be considered a technically useful surgical option for RGC, even 24 years after PD. This technique provides precise tumor localization and real-time perfusion assessment, assisting surgical resection in high-risk patients with multiple comorbidities and complex reoperative anatomy.",
+ "authors": [
+  "Inamoto O",
+  "Sakamoto S",
+  "Fujimoto T",
+  "Nishiyama K",
+  "Ogawa R",
+  "Yoshizawa A",
+  "Taki Y",
+  "Komoto I"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42920464",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암 수술(PD) 후 24년간 장기 생존한 75세 환자에게 발생한 조기 잔위암(35mm, 점막하층 침윤) 사례입니다.",
+  "ICG 형광 클립과 근적외선 시각화를 통해 안전한 절제 경계를 확보하고 위를 보존하는 아전위절제술을 성공적으로 마쳤습니다.",
+  "수술 후 2등급 췌장 누공 합병증이 있었으나 보존적으로 호전되어 무사히 퇴원했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.70352/scrj.cr.26-0512",
+  "nct": [],
+  "pmcid": "PMC13690491",
+  "pmid": "42920464"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42920464/"
+ },
+ "summary_ko": "췌장암으로 췌십이지장절제술(PD)을 받은 지 24년 후 잔위암이 발생한 75세 남성 환자의 수술 사례를 보고한 증례입니다. 환자는 뇌경색과 천포창 등 복합 질환을 앓고 있는 고위험군이었습니다. 의료진은 인도시아닌 그린(ICG) 형광 기술을 활용하여 유착이 심한 상태에서도 종양의 위치와 혈류를 실시간으로 확인하며 복강경 아전위절제술을 시행했습니다. 수술 후 2등급(Grade B) 췌장 누공이 발생했으나 보존적 치료 후 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Indocyanine Green Fluorescence-Guided Laparoscopic Subtotal Gastrectomy for Remnant Gastric Cancer after Pancreaticoduodenectomy: A Case Report",
+ "title_ko": "췌십이지장절제술 후 발생한 잔위암에 대한 인도시아닌 그린 형광 유도 복강경 아전위절제술: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

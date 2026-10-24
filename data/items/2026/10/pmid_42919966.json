@@ -1,0 +1,64 @@
+{
+ "abstract": "Camupepimut (ELI-002 7P) drives mutated KRAS (mKRAS)-specific T cell responses that correlated with disease-free survival (DFS) and overall survival (OS) in patients with mKRAS pancreatic adenocarcinoma (PDAC) in the phase 1 AMPLIFY-201 trial. In the phase 2 AMPLIFY-7P trial, patients with stage I-III KRAS-mutated PDAC without recurrence within 6 months of standard therapy were randomized 2:1 to camupepimut (n = 96) or standard-of-care/observation (n = 48). Stratification balanced nodal status. The primary DFS endpoint was not met (median 23.8 versus 21.2 months; HR 0.85, P = 0.5329). However, prespecified and exploratory analyses were informative. A numerical DFS advantage at 6 months of 14.0% (75.7% versus 61.7%; HR 0.55, P = 0.0557) corresponded to camupepimut dosing. Post hoc multivariate Cox regression analysis of DFS indicated an improved outcome for camupepimut (adjusted HR 0.47, P = 0.0086), a worse outcome for stage III disease (adjusted HR 2.29, P = 0.0127), an elevated baseline CA19-9 (adjusted HR 3.16, P < 0.0001) and baseline circulating tumor DNA (ctDNA) positivity (adjusted HR 5.99, P < 0.0001). Prespecified subgroup analyses addressing prognostic and predictive factors suggested DFS benefit for camupepimut (ctDNA negative: HR 0.51, P = 0.0280; no prior radiation: HR 0.59, P = 0.0221). Exploratory analysis demonstrated that ex vivo mKRAS-specific T cell responses were robust (98.9%, 89/90) and associated with antigen spreading (86.7%, 13/15). In camupepimut-treated patients, mKRAS-specific T cell response >9.17-fold over baseline (82.2%, 74/90) correlated with improved DFS (HR 0.22, P < 0.0001), with the median DFS not reached versus 6.08 months for above and below 9.17-fold, respectively. Camupepimut safety was similar to observation, with grade ≥3 adverse events in 10.4% (10/96) versus 14.6% (7/48), and few serious AEs (6.3%, 6/96 versus 8.3%, 4/48; reflecting progression/surgical complication). These efficacy and immunogenicity signals will inform a refined strategy for a confirmatory phase 3 trial. ClinicalTrials.gov identifier: NCT05726864 .",
+ "authors": [
+  "George B",
+  "Singh H",
+  "Devoe CE",
+  "Chung V",
+  "Hosein PJ",
+  "Hendifar A",
+  "Kim DW",
+  "Valerin JB"
+ ],
+ "categories": [
+  "drug",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42919966",
+ "importance": 0.86,
+ "key_points_ko": [
+  "1차 평가변수인 무질병 생존기간(DFS) 중앙값은 camupepimut 투여군 23.8개월, 관찰군 21.2개월로 유의한 차이를 입증하지 못했습니다(위험비 0.85, P=0.5329).",
+  "백신 투여 후 mKRAS 특이 T세포 반응이 기준선 대비 9.17배 이상 크게 증가한 환자(82.2%)는 무질병 생존기간이 유의하게 연장되었습니다(중앙값 미도달 대 6.08개월, 위험비 0.22).",
+  "3등급 이상의 이상반응 발생률은 백신 투여군 10.4%(10/96명), 관찰군 14.6%(7/48명)로 양호한 안전성을 확인했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1038/s41591-026-04734-7",
+  "nct": [
+   "NCT05726864"
+  ],
+  "pmcid": null,
+  "pmid": "42919966"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919966/"
+ },
+ "summary_ko": "표준 치료 후 6개월 동안 재발이 없었던 1~3기 KRAS 변이 췌장암 환자를 대상으로 암 백신인 camupepimut(카뮤페피무트, ELI-002 7P)의 재발 방지 효과를 평가한 2상 임상시험 결과입니다. 총 144명의 환자가 백신 투여군(96명) 또는 관찰군(48명)으로 2:1 무작위 배정되었습니다. 1차 평가변수인 무질병 생존기간(DFS) 중앙값은 백신군 23.8개월, 관찰군 21.2개월로 통계적 유의성에 도달하지 못했습니다. 다만 강력한 면역반응(T세포 반응)이 유도된 환자군에서는 무질병 생존기간이 크게 연장되는 경향을 보였으며, 중대한 부작용 발생률은 관찰군과 유사했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+ "title_ko": "췌장암에서 림프절 표적 mKRAS 특이 양친매성 백신의 무작위 2상 임상시험(AMPLIFY-7P)",
+ "trial": null,
+ "type": "paper"
+}

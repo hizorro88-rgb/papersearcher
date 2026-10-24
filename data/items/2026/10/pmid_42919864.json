@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) develops chemoresistance through dynamic cell-state transitions, yet the regulatory network architecture governing drug-tolerant states remains poorly characterised, because static expression snapshots cannot capture how interaction topology evolves along treatment-induced trajectories. We established a 3D PANC-1 tissue model on decellularised porcine intestinal matrix, which reaches patient-like proliferation indices and tissue-niche-specific drug responses, and performed single-cell RNA sequencing across four conditions: control, gemcitabine (GEM), TGF-β1, and their combination. Coupling pseudotime trajectory inference to dynamic protein-protein interaction network analysis, we tracked betweenness centrality continuously across cell-state transitions rather than comparing discrete states. GEM survivors engaged a proliferative programme (E2F1, CDK1, AURKA, TPX2, TOP2A, BIRC5), whereas TGF-β1 induced an independent EMT attractor (SPOCK1, MBOAT2, COL5A1, THBS1, FN1). Where the two converged, an emergent bottleneck appeared: CDK1 betweenness centrality spiked selectively, restrained by CDKN1A (p21) and WEE1, defining an S-phase-persistence state enriched for GEM survivors. Cross-examination in a PDAC atlas of 726,107 cells from 231 patients showed 8.7-fold metastatic enrichment of triple-positive cells. This framework, linking controlled 3D tissue experimentation, single-cell systems analysis and clinical-scale patient data, is applicable to drug resistance across cancer types.",
+ "authors": [
+  "Almasi M",
+  "Nieves Pereira JG",
+  "Dandekar T",
+  "Dandekar G",
+  "Balkenhol J"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42919864",
+ "importance": 0.6,
+ "key_points_ko": [
+  "3D 조직 모델을 통해 젬시타빈 생존 암세포가 증식 프로그램과 S기 지속 상태를 거쳐 내성을 획득하는 과정을 확인했습니다.",
+  "내성 형성의 핵심 병목으로 CDK1의 매개 중심성 급증과 CDKN1A(p21) 및 WEE1의 조절 작용을 규명했습니다.",
+  "231명의 췌장암 환자 유래 단일세포 아틀라스에서 해당 내성 관련 세포가 원발암 대비 전이 병변에서 8.7배 풍부하게 관찰되었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1038/s41540-026-00830-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42919864"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "NPJ Syst Biol Appl",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919864/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)이 항암제에 내성을 갖는 과정을 규명하기 위해 실제 환자와 유사한 3D 세포 조직 모델을 구축하여 분석했습니다. 젬시타빈(gemcitabine)과 TGF-β1 처치 조건에서 단일세포 RNA 시퀀싱과 동적 단백질 상호작용 네트워크 분석을 수행했습니다. 그 결과 항암제 생존 세포가 S기 지속 상태에 머무르는 핵심 병목 지점으로 CDK1과 관련 조절 인자들(CDKN1A, WEE1)이 확인되었습니다. 231명의 췌장암 환자 데이터(726,107개 세포)와 비교 검증한 결과, 이러한 내성 특성을 가진 세포가 전이 부위에서 8.7배 더 많이 존재하는 것을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "3D tissue model to patient atlas: dynamic network topology reveals PDAC chemoresistance bottlenecks",
+ "title_ko": "3D 조직 모델에서 환자 아틀라스까지: 동적 네트워크 분석을 통해 밝힌 췌장관선암의 항암제 내성 병목 기전",
+ "trial": null,
+ "type": "paper"
+}

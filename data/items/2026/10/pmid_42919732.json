@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a highly aggressive malignancy characterized by a dismal prognosis and profound resistance to conventional therapies. Emerging evidence highlights systemic metabolic dysfunctions including obesity, dyslipidemia, type 2 diabetes mellitus (T2DM), and non-alcoholic fatty pancreatic disease (NAFPD) as critical drivers of PDAC initiation, progression and chemoresistance. This review integrates current knowledge on the intricate interplay between metabolic alterations and PDAC biology, focusing on the therapeutic and chemopreventive potential of repurposed metabolic modulators (specifically statins and antidiabetic agents) and novel metabolic pathway inhibitors currently under clinical evaluation. Statins exert prominent antitumor effects in preclinical models by disrupting the mevalonate pathway, impairing Ras prenylation, and reprogramming cholesterol metabolism; however, epidemiological data regarding risk reduction remain inconsistent. Parallel to lipid pathways, glucose homeostasis dictates tumor behavior. T2DM acts as both a potent risk factor and an early paraneoplastic indicator through new-onset diabetes. Among antidiabetic drugs, metformin attenuates PDAC progression via insulin-lowering and AMPK-mediated pathways, though its survival benefits are often obscured in clinical trials by methodological challenges. Conversely, hyperinsulinemia driven by exogenous insulin or secretagogues exacerbates PDAC risk, while incretin-based therapies yield conflicting outcomes. Notably, novel strategies targeting metabolic vulnerabilities, such as SGLT2 inhibition combined with metformin, show promise in targeting chemoresistant, nutrient-deprived tumor zones. Ultimately, integrating metabolic profiling, prescription history, and molecular biomarkers into clinical practice is essential to advance risk stratification and precision oncology. Overcoming tumor metabolic plasticity in contemporary clinical trials will require a shift from single-node therapies towards rational, biomarker-guided combination strategies.",
+ "authors": [
+  "Rodrigues R",
+  "Soares R",
+  "Vasconcelos MH",
+  "Xavier CPR"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42919732",
+ "importance": 0.72,
+ "key_points_ko": [
+  "비만, 이상지질혈증, 제2형 당뇨병 등의 대사 이상은 췌관선암종의 발생, 진행 및 항암 치료 저항성을 유발하는 주요 요인입니다.",
+  "스타틴과 메트포르민은 전임상 연구에서 항암 효과를 나타냈으나, 실제 임상 연구 및 역학 데이터에서는 생존율 개선이나 위험 감소 효과가 엇갈리거나 일관되지 않았습니다.",
+  "종양의 대사적 적응성을 극복하기 위해 SGLT2 억제제와 메트포르민 병용요법 등 바이오마커에 기반한 대사 복합 치료 전략이 요구됩니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.025",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42919732"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919732/"
+ },
+ "summary_ko": "이 논문은 비만, 이상지질혈증, 제2형 당뇨병 등 전신 대사 이상이 췌장암의 발생과 진행, 항암제 내성에 미치는 영향을 정리한 종설(Review) 논문입니다. 스타틴(statin)과 메트포르민(metformin) 등 기존 대사 조절 약물의 약물 재창출 가능성과 최신 대사 경로 억제제를 집중적으로 검토했습니다. 스타틴은 전임상 모델에서 항종양 효과를 보였으나 역학 연구 결과는 일관되지 않았으며, 메트포르민 또한 기전적 가능성에도 불구하고 임상시험에서 생존 이점이 뚜렷하게 증명되지 못했습니다. 저자들은 SGLT2 억제제와 메트포르민 병용 등 종양의 대사적 취약점을 공략하는 바이오마커 기반의 병용 치료 전략이 필요하다고 제안했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Metabolic dysfunctions in pancreatic ductal adenocarcinoma: Pathogenic mechanisms and therapeutic implications",
+ "title_ko": "췌관선암종에서의 대사 기능 이상: 발병 기전 및 치료적 시사점",
+ "trial": null,
+ "type": "paper"
+}

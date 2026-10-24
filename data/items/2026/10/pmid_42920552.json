@@ -1,0 +1,60 @@
+{
+ "abstract": "Increasing evidence shows that cancer-associated fibroblasts (CAFs) contribute to tumor progression, create an immunosuppressive microenvironment, and promote resistance to immunotherapy. However, the CAF-related gene signature in pancreatic ductal adenocarcinoma (PDAC) remains largely unexplored. In our study, we constructed a nine-gene CAF-related signature and found that it strongly correlated with the prognosis of PDAC patients in different cohorts. Subsequently, we found that the CAF-related gene signature was associated with the genomic alteration landscape, immune infiltration landscape and responsiveness to immunotherapy. GJB2 had the highest coefficient in our CAF-related gene signature, thus we explored the role of GJB2 in the interactions between CAFs and PDAC cells. The results showed that conditioned medium (CM) derived from the GJB2 knockdown group could suppress the malignant phenotype of PANC1 and MIAPaCa2 cells. In summary, this CAF-related gene signature is useful for prognosis prediction and precision therapy of PDAC patients.",
+ "authors": [
+  "Du X",
+  "Li Z",
+  "Wang Y",
+  "Han L",
+  "Sun J",
+  "Gong W"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42920552",
+ "importance": 0.59,
+ "key_points_ko": [
+  "암 연관 섬유아세포(CAF)와 관련된 9개 유전자 기반 시그니처를 개발하여 췌관선암(PDAC) 환자의 예후를 예측했습니다.",
+  "해당 유전자 시그니처는 환자의 유전체 변이, 종양 내 면역세포 침윤 및 면역치료 반응성과 연관성을 나타냈습니다.",
+  "시그니처 내 주요 유전자인 GJB2를 억제한 섬유아세포의 배양액이 췌장암 세포주의 악성도를 억제함을 실험적으로 확인했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.3389/fphar.2026.1873756",
+  "nct": [],
+  "pmcid": "PMC13690558",
+  "pmid": "42920552"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42920552/"
+ },
+ "summary_ko": "본 연구는 암 연관 섬유아세포(CAF) 관련 유전자 분석을 통해 췌장암 환자의 예후와 면역치료 반응을 예측하고자 진행되었습니다. 연구진은 단일세포 및 벌크 RNA 시퀀싱 데이터를 활용하여 9개의 유전자로 구성된 시그니처를 개발했습니다. 이 유전자 시그니처는 여러 코호트에서 환자의 예후, 유전체 변이 양상, 면역세포 침윤 및 면역치료 반응성과 유의한 연관성을 보였습니다. 특히 시그니처에서 가장 높은 가중치를 보인 GJB2 유전자를 억제했을 때 췌장암 세포(PANC1, MIAPaCa2)의 악성 표현형이 감소함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A novel CAF-related gene signature for prognostic and immunotherapy response prediction in PDAC based on single-cell RNA-seq and bulk RNA-seq data",
+ "title_ko": "단일세포 및 벌크 RNA 시퀀싱 기반 췌장암 환자의 예후 및 면역치료 반응 예측을 위한 새로운 암 연관 섬유아세포 관련 유전자 시그니처",
+ "trial": null,
+ "type": "paper"
+}

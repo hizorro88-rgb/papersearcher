@@ -1,0 +1,62 @@
+{
+ "abstract": "Approximately half of all pancreatic cancers cannot be explained by known risk factors. Here we present the results of mutational signature analysis in 495 cases of pancreatic cancer from nine countries to explore whether there are previously unknown mutagenic exposures acting on pancreatic cancer genomes. The mutational signature landscape was consistent between countries. We identified one signature not previously found in pancreatic cancer, SBS111, which does not have a confirmed aetiology but is present in >99% of cases and contributes on average 26% of the total mutation burden. No evidence was found for mutational signatures known to be caused by exogenous exposures, nor was any mutational signature capable of explaining differences in incidence rates between countries. These results suggest that the unexplained causes of pancreatic cancer are unlikely to be strongly mutagenic and that non-mutagenic mechanisms may have a prominent role in explaining pancreatic cancer incidence.",
+ "authors": [
+  "Moody S",
+  "Cattiaux T",
+  "Pang J",
+  "Zhang H",
+  "Nunn C",
+  "Fitzgerald S",
+  "Gallego-Garcia P",
+  "Chopard P"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.21.26365999",
+ "importance": 0.69,
+ "key_points_ko": [
+  "9개국 495례의 췌장암 유전체 분석에서 국가 간 돌연변이 시그니처 양상이 일관되게 유지되었습니다.",
+  "췌장암 환자의 99% 이상에서 전체 돌연변이 부담(mutation burden)의 평균 26%를 차지하는 신규 시그니처 SBS111을 발견했습니다.",
+  "외부 요인에 의한 돌연변이 흔적이 확인되지 않아 돌연변이 유발 외의 기전이 췌장암 발생에 중요한 역할을 할 가능성이 제시되었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.64898/2026.10.21.26365999",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1349185"
+ },
+ "summary_ko": "알려진 위험 요인으로 설명되지 않는 췌장암의 원인을 규명하기 위해 9개국 495례의 췌장암 유전체 돌연변이 시그니처(mutational signature)를 분석했습니다. 분석 결과 돌연변이 시그니처 양상은 국가 간에 일관되게 나타났으며, 99% 이상의 환자에서 평균 26%의 돌연변이 부담을 차지하는 신규 시그니처인 SBS111이 확인되었습니다. 반면 외부 환경 노출에 의한 돌연변이 시그니처나 국가별 발생률 차이를 설명하는 시그니처는 발견되지 않았습니다. 이는 췌장암의 설명되지 않는 원인이 강한 돌연변이 유발 요인보다는 비돌연변이성 기전과 더 깊이 연관되어 있을 가능성을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mutational signature landscape of pancreatic cancer genomes from nine countries",
+ "title_ko": "9개국 췌장암 유전체 분석을 통한 돌연변이 시그니처 특성 규명",
+ "trial": null,
+ "type": "preprint"
+}

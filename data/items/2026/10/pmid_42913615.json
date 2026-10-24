@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVES: Pre-operative radiological or laboratory evaluations can provide some insight into resectability in pancreatic ductal adenocarcinoma (PDAC). However, these methods still fall short, as patients may be deemed unresectable during perioperative exploration. Our study seeks to identify novel predictors that can accurately determine the resectability status of PDAC patients.\nMETHODS: Patients who underwent surgical exploration for potentially resectable PDAC were retrospectively analyzed and categorized into two groups: resectable and unresectable during exploration. Univariate and multivariate analyses were employed to predict resectability based on the identified predictors.\nRESULTS: Out of the 120 patients who underwent surgical exploration, 30 (25%) were found to be unresectable during the surgical procedure. Multivariate analysis disclosed that tumor size ≥ 4 cm, carbohydrate antigen (CA) 19-9 > 500 U/mL, and lymphocyte count ≤ 1.55 × 103/uL (p = 0.013, 0.014, 0.031, respectively) were associated with non-resectability.\nCONCLUSIONS: Tumor size, CA 19-9 levels, and lymphopenia have correlations with unresectability in PDAC patients. These factors can be valuable in preoperatively predicting the presence of an unresectable tumor.",
+ "authors": [
+  "Ceylan C",
+  "Cengiz E",
+  "Kayaalp C",
+  "Aydin C"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42913615",
+ "importance": 0.67,
+ "key_points_ko": [
+  "수술 전 절제 가능군으로 평가되어 수술을 시도한 120명 중 30명(25%)이 실제 수술 중 절제 불가능한 상태로 확인되었습니다.",
+  "다변량 분석에서 종양 크기 4cm 이상(p = 0.013)과 CA 19-9 수치 500 U/mL 초과(p = 0.014)가 절제 불가와 유의한 연관성을 보였습니다.",
+  "림프구 수 1.55 × 10³/uL 이하(p = 0.031)인 림프구 감소증 역시 수술 전 절제 불가를 시사하는 예측 인자로 나타났습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.24875/CIRU.23000503",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42913615"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cir Cir",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913615/"
+ },
+ "summary_ko": "수술 전 절제가 가능할 것으로 예상되었으나 실제 수술 중 절제 불가능으로 판정되는 췌관선암(PDAC) 환자를 예측하기 위한 후향적 연구입니다. 수술 전 잠재적으로 절제 가능하다고 판단되어 수술적 탐색을 진행한 120명의 환자를 분석했습니다. 이 중 30명(25%)이 실제 수술 과정에서 절제 불가능한 상태인 것으로 확인되었습니다. 분석 결과 종양 크기 4cm 이상, CA 19-9 수치 500 U/mL 초과, 림프구 수 1.55 × 10³/uL 이하가 수술 중 절제 불가를 예측하는 유의미한 인자로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Is it possible to predict resectability in pancreatic cancers? A retrospective study in a tertiary center",
+ "title_ko": "췌장암에서 절제 가능성을 예측할 수 있는가? 3차 의료기관 후향적 연구",
+ "trial": null,
+ "type": "paper"
+}

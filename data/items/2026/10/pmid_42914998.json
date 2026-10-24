@@ -1,0 +1,70 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has poor outcomes and high rates of locoregional recurrence. MASTERPLAN evaluated whether stereotactic body radiotherapy (SBRT) reduced locoregional recurrence in patients with high-risk, localised PDAC.\nMETHODS: MASTERPLAN was an open-label, randomised, phase 2 trial conducted across 14 hospitals in Australia and New Zealand. Eligible participants were aged 18 years or older with an Eastern Cooperative Oncology Group performance status of 0-1, and had previously untreated localised PDAC with at least one high-risk feature, including tumour size more than 4 cm, extrapancreatic extension, node-positive disease, borderline resectable disease, or locally advanced disease. Participants were randomly assigned (2:1) using the method of minimisation to investigator-choice chemotherapy, with or without SBRT, stratified by participant cohort (potentially operable vs inoperable), planned chemotherapy regimen, randomisation before or within the first 28 days of chemotherapy, and institution. Chemotherapy consisted of mFOLFIRINOX (day 1 oxaliplatin 85 mg/m2, irinotecan 150 mg/m2, leucovorin 50 mg, and fluorouracil 2400 mg/m2 over 46 h every 14 days for six cycles; all intravenous) or gemcitabine plus nab-paclitaxel (gemcitabine 1000 mg/m2 and nab-paclitaxel 125 mg/m2 on days 1, 8, and 15 every 28 days for three cycles; both intravenous). SBRT was delivered as 40 Gy in five fractions, with two to four fractions delivered per week, with real-time radiotherapy quality assurance. Surgical resection was considered following induction therapy, followed by a planned further 12 weeks of adjuvant chemotherapy with either mFOLFIRINOX or gemcitabine plus capecitabine (28-day cycles of 1000 mg/m2 intravenous gemcitabine administered on days 1, 8, and 15 with 830 mg/m2 oral capecitabine twice daily administered on days 1-21). Participants deemed not suitable for surgery continued the same chemotherapy for an additional 12 weeks with reassessment for surgical suitability permitted, for a total planned duration of chemotherapy of 24 weeks. The primary endpoint was 12-month locoregional recurrence in the intention-to-treat population, with safety endpoints analysed by treatment received. The trial planned to recruit 120 patients but due to slow accrual closed to recruitment early on Jan 6, 2025. Trial closure and database lock occurred on July 21, 2026. This trial was registered with the Australian New Zealand Clinical Trial Registry (ACTRN12619000409178) and ClinicalTrials.gov (NCT04089150), and is complete.\nFINDINGS: Between Feb 26, 2020, and Jan 6, 2025, 74 participants (43 [58%] male, 31 [42%] female) were randomly assigned to chemotherapy and SBRT (n=49) or chemotherapy alone (n=25). After a median follow-up of 3·2 years (IQR 1·9-4·3), 12-month locoregional recurrence was 20·2% (95% CI 9·9-33·1) in the SBRT group and 52·0% (30·3-69·9) in the chemotherapy alone group (subdistribution hazard ratio 0·44 [95% CI 0·22-0·88]; p=0·022). Grade 3 or higher adverse events occurred in 33 (70%) of 47 participants in the SBRT group and 16 (64%) of 25 participants in the chemotherapy alone group (p=0·27), with one (4%) treatment-related death secondary to biliary tract infection in the chemotherapy alone group. The most common grade 3-4 adverse events were diarrhoea (seven [15%] in the SBRT group vs five [20%] in the chemotherapy alone group), and thromboembolic events (three [6%]) vs one [4%]). Overall grade 3 or higher serious adverse events occurred in 30 (64%) of 47 participants in the SBRT group, and 14 (56%) of 25 participants in the chemotherapy alone group (p=0·24). There were two serious adverse events attributable to SBRT; grade 2 small bowel obstruction and grade 3 pancreatitis.\nINTERPRETATION: In patients with high-risk, localised PDAC, the addition of SBRT to chemotherapy was associated with significantly reduced locoregional recurrence without a significant increase in toxicity and warrants further investigation in larger studies.\nFUNDING: Medical Research Future Fund, Australasian Gastro-Intestinal Trials Group, National Health and Medical Research Council Clinical Trials Centre (University of Sydney), and Gut Cancer Foundation, New Zealand.",
+ "authors": [
+  "Oar A",
+  "Kneebone A",
+  "Sjoquist KM",
+  "Espinoza D",
+  "Lee M",
+  "Le H",
+  "Gholamrezaei L",
+  "Chu J"
+ ],
+ "categories": [
+  "treatment",
+  "trial",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42914998",
+ "importance": 0.91,
+ "key_points_ko": [
+  "12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).",
+  "3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).",
+  "치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/S1470-2045(26)00532-2",
+  "nct": [
+   "NCT04089150"
+  ],
+  "pmcid": null,
+  "pmid": "42914998"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Lancet Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42914998/"
+ },
+ "summary_ko": "고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group",
+ "title_ko": "고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains refractory to immunotherapy, largely due to the dense fibrotic stroma that promotes immune evasion and restricts drug penetration. Here, we report a multifunctional biomimetic nanoplatform (RPm@CC-LY) that simultaneously remodels the fibrotic tumor microenvironment and potentiates antitumor immunity. RPm@CC-LY achieves efficient tumor accumulation and effectively attenuates fibrosis through sustained release of Transforming growth factor-β (TGF-β) inhibitor LY2157299 (LY). Concurrently, intracellular acid-triggered degradation induces Cu+-mediated Fenton-like reactions and Ca2+ overload, leading to oxidative stress, mitochondrial dysfunction, and tumor cell apoptosis. In parallel, RPm@CC-LY reprograms tumor-associated macrophages (TAMs) toward an M1 phenotype and enhances dendritic cell maturation, thereby promoting robust CD8+ T cell infiltration. Notably, when combined with anti-PD-1 (αPD1) therapy, RPm@CC-LY induces a systemic immune response in mice. This work establishes a synergistic nanotherapeutic strategy that integrates fibrosis remodeling with ion interference therapy to overcome the immunotherapeutic barriers posed by fibrosis in PDAC.",
+ "authors": [
+  "Li J",
+  "Wen Q",
+  "Dai J",
+  "Yang L",
+  "Xiong F",
+  "Wei Z",
+  "Peng X"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42919437",
+ "importance": 0.6,
+ "key_points_ko": [
+  "TGF-β 억제제 LY2157299 방출을 통해 췌장암의 조밀한 섬유화를 완화했습니다.",
+  "구리 및 칼슘 이온 대사 이상을 유도하여 산화 스트레스와 미토콘드리아 기능 장애를 통한 종양 세포 사멸을 확인했습니다.",
+  "마우스 실험에서 CD8+ T세포 침윤을 늘리고 항-PD-1 면역항암제 병용을 통해 전신 항암 면역 반응을 유도했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1002/advs.78436",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42919437"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919437/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 두터운 섬유성 기질로 인한 면역 회피와 약물 전달 한계를 극복하기 위해 다기능 생체 모사 나노플랫폼(RPm@CC-LY)을 평가한 전임상 연구입니다. 이 나노플랫폼은 형질전환성장인자-베타(TGF-β) 억제제인 LY2157299를 서서히 방출하여 종양의 섬유화를 완화했습니다. 동시에 세포 내 산성 환경에서 분해되며 구리 이온(Cu+) 펜톤 유사 반응과 칼슘 이온(Ca2+) 과부하를 일으켜 암세포 사멸을 유도했습니다. 또한 마우스 모델에서 종양미세환경 내 대식세포와 수지상세포를 활성화하고, 항-PD-1 치료와 병용 시 전신 항암 면역 반응을 촉진했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Biomimetic Nanoplatform for Fibrosis Remodeling and Anti-PD-1 Potentiation via Cu+/Ca2+ Ion Dysregulation and TGF-β Inhibition in PDAC",
+ "title_ko": "구리/칼슘 이온 불균형 및 TGF-β 억제를 통한 섬유화 완화와 항-PD-1 면역치료 효과를 향상시키는 생체 모사 나노플랫폼",
+ "trial": null,
+ "type": "paper"
+}

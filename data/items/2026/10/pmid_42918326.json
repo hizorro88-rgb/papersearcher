@@ -1,0 +1,57 @@
+{
+ "abstract": null,
+ "authors": [
+  "Manchon-Walsh P",
+  "Sánchez-Velázquez P",
+  "Espín-Álvarez F",
+  "Guarga L"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42918326",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암 수술의 핵심 질 지표 합의에 관한 이전 연구와 관련된 학술 서신 논의입니다.",
+  "상세한 분석 결과와 구체적 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.cireng.2026.800425",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42918326"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cir Esp (Engl Ed)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918326/"
+ },
+ "summary_ko": "본 문헌은 카탈루냐 지역의 췌장암 수술 질 관리 지표 검증 연구에 대해 제기된 독자 의견에 대한 저자들의 답변 서신(Letter)입니다. 서신 형식의 문헌으로 세부 초록 본문은 제공되지 않았습니다. 구체적인 논의 내용과 세부 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Response to: \"Re: 'Consensus-based validation of key quality indicators in pancreatic cancer surgery in Catalonia: a modified Delphi study'\"",
+ "title_ko": "'카탈루냐의 췌장암 수술 핵심 질 지표에 대한 합의 기반 검증: 수정된 델파이 연구'에 대한 의견에 대한 답글",
+ "trial": null,
+ "type": "paper"
+}

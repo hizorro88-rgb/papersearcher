@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVE: The presence of extra-pancreatic nerve plexus invasion (EPNI) in pancreatic ductal adenocarcinoma (PDAC) is known to correlate with aggressive disease, however, it is unknown whether specific pathways or morphologies carry different prognostic implications. This study evaluates whether distinct CT-defined patterns of EPNI predict mortality in PDAC.\nMATERIALS AND METHODS: This retrospective, single-center study included 89 patients with pathologically confirmed PDAC who underwent preoperative pancreatic protocol multidetector CT (MDCT) followed by surgical resection. Patients were identified from an institutional database and required available preoperative CT and histopathology. Two blinded, experienced radiologists reviewed MDCT images to assess EPNI, which was categorized by anatomic pathway and morphologic pattern. Overall survival was compared between EPNI-positive and EPNI-negative groups and among EPNI subtypes using log-rank testing, with stratification by tumor stage. Cox proportional hazards models adjusted for age, sex, and surgical margin were performed.\nRESULTS: A total of 89 patients (M/F: 54/35), median age: 66 years (IQR, 60-70 years), were evaluated. CT evidence of EPNI was present in 65 patients (73%) and was associated with decreased overall survival (p < 0.001). This association remained significant in Stage I tumors (p < 0.001). PPC2 pathway involvement (p < 0.001) and mass-with-stranding morphology (p < 0.001) were each associated with reduced overall survival. PPC2 (p = 0.003) and mass-with-stranding (p < 0.001) remained significant in stage I tumors.\nCONCLUSION: Preoperative CT detection of EPNI, especially PPC2 pathway involvement and mass-with-stranding morphology, identifies high-risk PDAC patients.\nKEY POINTS: Question Extra pancreatic nerve plexus invasion in pancreatic adenocarcinoma is associated with aggressive disease, but the prognostic significance of specific pathways or morphologies remains unknown. Findings Plexus pancreaticus capitalis 2 involvement and mass-with-stranding morphology in EPNI of pancreatic adenocarcinoma are associated with decreased overall survival. Clinical relevance Identifying high-risk EPNI features on CT may facilitate early prognostic stratification and inform surgical and neoadjuvant treatment planning in pancreatic adenocarcinoma.",
+ "authors": [
+  "Truong K",
+  "Herrington T",
+  "Pavlovic A",
+  "Djuric-Stefanovic A",
+  "Gore RM",
+  "Alessandrino F",
+  "Ivanovic AM"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42918883",
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술 전 CT를 시행한 췌장암 환자 89명 중 73%(65명)에서 췌장외 신경총 침범(EPNI)이 확인되었습니다.",
+  "CT상 EPNI 소견은 1기 환자를 포함한 전체 환자군에서 전체 생존기간(OS) 감소와 밀접한 관련이 있었습니다(p < 0.001).",
+  "세부적으로 PPC2 경로 침범(p < 0.001)과 종괴-줄무늬 형태(p < 0.001)가 관찰된 환자군에서 사망 위험이 더욱 유의하게 증가했습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1007/s00330-026-13005-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42918883"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918883/"
+ },
+ "summary_ko": "수술 전 CT 검사를 받고 절제 수술을 시행한 췌관선암(PDAC) 환자 89명을 대상으로 췌장외 신경총 침범(EPNI)의 CT 소견이 예후에 미치는 영향을 분석한 후향적 연구입니다. 분석 결과, 전체 환자의 73%(65명)에서 CT상 EPNI가 관찰되었으며 이는 전체 생존기간 단축과 유의한 연관성을 보였습니다. 특히 1기 병기 환자에서도 췌두신경총 2(PPC2) 경로 침범 및 종괴-줄무늬(mass-with-stranding) 형태가 관찰된 경우 생존율이 유의하게 낮았습니다. 연구진은 수술 전 CT로 고위험군을 조기에 선별하여 수술 및 선행보조요법 계획을 수립하는 데 활용할 수 있다고 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CT features of extra-pancreatic nerve plexus invasion predict mortality in early-stage pancreatic cancer",
+ "title_ko": "췌장외 신경총 침범의 CT 영상 소견을 통한 조기 췌장암 사망률 예측",
+ "trial": null,
+ "type": "paper"
+}

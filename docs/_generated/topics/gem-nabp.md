@@ -31,7 +31,7 @@ search:
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 예정 | - |
 | [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여를 평가하는 임상시험](../trials/NCT07769502.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](../trials/NCT07705919.md) | 1상/2상 | 모집 중 | - |
-| [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 결합한 VCN-01의 빈번한 투여 요법 연구](../trials/NCT07701486.md) | 1상/2상 | 모집 중 | - |
+| [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 병용한 VCN-01의 빈번한 투여 요법 연구](../trials/NCT07701486.md) | 1상/2상 | 모집 중 | - |
 | [MTAP 결손 진행성 고형암 환자에서 HSK41959와 표준 치료 병용 1상 임상시험](../trials/NCT07699757.md) | 1상 | 모집 예정 | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
@@ -39,12 +39,12 @@ search:
 | [KRAS G12D 변이 전이성 췌관선암 환자의 1차 치료로서 Zoldonrasib과 연구자 선택 항암화학요법 병용투여 대 위…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
-| [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌장관선암 환자의 1차 치료로서 아테비메티닙(atebimetinib)과 GnP 병용요법의 3상 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
+| [ODM-212에 관한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
+| [전이성 췌장암 환자의 1차 치료로서 Atebimetinib과 GnP 병용요법](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 용량 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
-| [ANO31905 in Combination With Chemotherapy for CLDN18.2-Positive Local…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
+| [CLDN18.2 양성 국소 진행성 수술 불가능 또는 전이성 췌장암 환자를 대상으로 한 ANO31905 및 항암화학요법 병용요…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 전환 치료(conversion therapy)로서 HRS-4642와 AG(nab-paclitax…](../trials/NCT07438106.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 선행화학요법으로서 IBI343 병용요법의 제2상 임상시험](../trials/NCT07415525.md) | 2상 | 모집 예정 | - |
 | [Claudin18.2 양성 췌장암 환자에서 FG-M108과 항암화학요법 대 위약과 항암화학요법을 비교하는 임상시험](../trials/NCT07383922.md) | 3상 | 모집 예정 | - |
@@ -61,7 +61,7 @@ search:
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
 | [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
-| [KRAS G12D 변이 진행성 고형암 환자를 대상으로 하는 VS-7375의 1/2상 임상시험](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
+| [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 연구](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
@@ -69,7 +69,7 @@ search:
 | [복막 전이 췌장암 환자에서 온열 복강내 화학요법과 정맥 내 화학요법 병용의 안전성 및 유효성을 평가하는 2상 임상시험](../trials/NCT06946901.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자를 위한 선행치료로서 Ivonescimab 및 항암화학요법 병용 연구](../trials/NCT06944106.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 AG 요법과 nimotuzumab 병용 후 비가역적 전기천공술(IRE) Ablation 순차 치료](../trials/NCT06938503.md) | 2상 | 모집 예정 | - |
-| [PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내인성, 약동학 및 유효성을 평가하기 위한 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [TNG462 병용 투여의 안전성, 내약성 및 유효성을 평가하기 위한 임상 1/2상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
@@ -93,7 +93,7 @@ search:
 | [PLATINUM 임상시험: BRCA1/2 또는 PALB2 변이 전이성 췌장암의 2차 치료를 위한 항암화학요법 최적화](../trials/NCT06115499.md) | 2상/3상 | 진행 중(모집 종료) | - |
 | [진행성/재발성 전이성 췌장암 환자를 위한 C3(메트포르민, 심바스타틴, 디고신) 병용요법 제2A상 파일럿 임상시험](../trials/NCT06030622.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 및 전이성 췌관선암 환자를 대상으로 한 시타글립틴, 젬시타빈, 냅-파클리탁셀 병용요법 2상 임상시험](../trials/NCT05947825.md) | 2상 | 초대 모집 | - |
-| [국소 진행성 또는 경계성 절제 가능 췌장암에서 surufatinib과 gemcitabine 및 nab-paclitaxel 병…](../trials/NCT05908747.md) | 2상 | 완료 | - |
+| [국소 진행성 또는 경계성 절제 가능 췌장암에서 수루파티닙(surufatinib)과 젬시타빈(gemcitabine),  nab…](../trials/NCT05908747.md) | 2상 | 완료 | - |
 | [진행성 췌장암 환자를 위한 AK104와 항암화학요법 병용 1차 치료 임상시험](../trials/NCT05859750.md) | 2상 | 모집 중 | - |
 | [이전 치료력이 없는 전이성 췌장암 환자에서 gemcitabine/nab-paclitaxel 기반지요법에 valproic ac…](../trials/NCT05821556.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암에서 진폭 변조 무선주파수 전자기장과 항암화학요법 병용 연구](../trials/NCT05776524.md) | 2상 | 모집 중 | - |
@@ -117,8 +117,23 @@ search:
 | [전이성 췌장암 1차 치료에서 zolbetuximab 병용요법의 유효성 및 안전성을 평가하는 2상 임상시험](../trials/NCT03816163.md) | 2상 | 진행 중(모집 종료) | 10 |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (9)
+## 타임라인 (10)
 
+<a id="pmid-42914998"></a>
+#### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
+<small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
+
+`논문` `2상` `치료 전반` `임상시험` `수술` `진단·조기발견` · 2026-10-23 · PubMed · Lancet Oncol · 중요도 0.91
+
+고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.
+
+- 12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).
+- 3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).
+- 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+
+---
 <a id="pmid-42886001"></a>
 #### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
 <small>Radiotherapy combined with serplulimab, and chemotherapy as first-line treatment for metastatic pancreatic adenocarcinoma: a multicenter, single-arm, phase II trial</small>

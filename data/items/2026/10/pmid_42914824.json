@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is highly resistant to immune checkpoint inhibitor (ICI) therapy due to its highly immunosuppressive tumor microenvironment (TME).\nMETHODS: Key regulatory genes were screened using bioinformatics analysis of TCGA and KEGG datasets. The expression patterns of HK2 were analyzed by single-cell sequencing and immunohistochemistry. The HK2-CCL5-CD8+ T-cell axis was evaluated using mouse pancreatic cancer models, in vitro co-culture systems, Transwell assays, RNA sequencing, and flow cytometry. The relationship between HK2 and anti-PD-1 therapy was also assessed.\nRESULTS: Hexokinase 2 (HK2), a rate-limiting enzyme of glycolysis, is a key regulator in tumor immune evasion. HK2 is highly expressed in PDAC tumor cells. Its expression is significantly associated with CD8+ T-cell infiltration in the tumor microenvironment and disease progression. Inhibiting HK2 expression significantly promotes CC motif chemokine ligand 5 (CCL5) secretion by pancreatic cancer cells, which enhances the recruitment of CD8+ T-cell. Moreover, inhibiting HK2 enhance antitumor efficacy of anti-PD-1 therapy in PDAC. Mechanistically, ROS scavenging with NAC reverses the CCL5 upregulation caused by HK2 inhibition, which in turn affects CD8+ T-cell infiltration.\nCONCLUSION: Our study reveals a novel HK2-CCL5 axis that regulates CD8+ T-cell recruitment and shapes the immune microenvironment in PDAC.",
+ "authors": [
+  "Li M",
+  "Wang Z",
+  "Shen X",
+  "Chen C",
+  "Wang X",
+  "Tan Q",
+  "Ke N"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42914824",
+ "importance": 0.64,
+ "key_points_ko": [
+  "HK2는 췌관선암 세포에서 높게 발현되며 종양 미세환경 내 CD8+ T세포 침윤 및 질병 진행과 유의한 연관성을 보였습니다.",
+  "HK2를 억제하면 암세포의 CCL5 분비가 촉진되어 CD8+ T세포의 동원이 증가했습니다.",
+  "HK2 억제는 전임상 췌장암 모델에서 항 PD-1 치료의 항종양 효과를 증대시켰습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.intimp.2026.117602",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42914824"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int Immunopharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42914824/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 면역억제성 종양 미세환경으로 인해 면역관문억제제에 강한 저항성을 보입니다. 본 연구진은 생물정보학 분석과 동물 실험을 통해 해당과정의 핵심 효소인 헥소키나아제 2(HK2)가 면역 회피에 중요한 역할을 한다는 점을 규명했습니다. 연구 결과, 암세포에서 HK2 발현을 억제하면 케모카인 CCL5 분비가 증가하여 CD8+ T세포의 종양 내 유입이 촉진되었습니다. 또한 HK2 억제는 췌장암 모델에서 항 PD-1 면역항암치료의 항종양 효과를 유의하게 향상시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeted inhibition of HK2 expression in pancreatic ductal adenocarcinoma reprogrammes the immune microenvironment by regulating CCL5-mediated CD8+ T cell infiltration",
+ "title_ko": "췌관선암에서 HK2 발현의 표적 억제를 통한 CCL5 매개 CD8+ T세포 침윤 조절 및 면역 미세환경 재프로그래밍",
+ "trial": null,
+ "type": "paper"
+}

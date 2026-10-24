@@ -38,8 +38,38 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 
-## 타임라인 (3)
+## 타임라인 (5)
 
+<a id="pmid-42914998"></a>
+#### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
+<small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
+
+`논문` `2상` `치료 전반` `임상시험` `수술` `진단·조기발견` · 2026-10-23 · PubMed · Lancet Oncol · 중요도 0.91
+
+고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.
+
+- 12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).
+- 3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).
+- 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+
+---
+<a id="pmid-42913947"></a>
+#### [윤곽 묘사의 변동성부터 선량학적 영향까지: 췌장암 환자 대상 온라인 적응형 자기공명유도 체부정위방사선치료(MRgSBRT)의 종합적 평가](https://pubmed.ncbi.nlm.nih.gov/42913947/)
+<small>From contouring variability to dosimetric impact: a comprehensive assessment of online adaptive MR-guided SBRT for pancreatic cancer</small>
+
+`논문` `관찰연구` `치료 전반` · 2026-10-22 · PubMed · Radiother Oncol · 중요도 0.77
+
+본 연구는 1.5 T MR-Linac 장비로 일일 온라인 적응형 자기공명유도 체부정위방사선치료(MRgSBRT)를 받은 췌장암 환자 10명(총 50회 치료 세션)을 대상으로 치료 부위 윤곽 묘사의 의사 간 차이와 방사선량 전달에 미친 영향을 후향적으로 분석했습니다. 치료 당일 실시간(온라인)으로 7명의 의사가 그린 종양 및 주변 위험 장기 윤곽을 췌장암 전문 방사선종양학과 의사가 다시 검토한 기준 윤곽과 비교했습니다. 분석 결과, 위와 십이지장 윤곽은 일치도가 높았으나 육안적 종양 용적(GTV)이나 담관 등 복잡한 구조물은 의사 간 차이가 더 컸고 실시간 종양 용적이 기준보다 다소 크게 설정되었습니다. 그럼에도 불구하고 목표 종양에 대한 방사선량 전달은 적절히 유지되었으며, 위장관 장기들이 받은 방사선량 또한 거의 모든 환자에서 임상적 허용 범위 내로 유지되어 안전성을 확인했습니다.
+
+- 1.5 T MR-Linac으로 5회에 걸쳐 총 50 Gy의 방사선치료를 받은 췌관선암(PDAC) 환자 10명의 50개 치료 세션을 분석했습니다.
+- 실시간 윤곽 묘사에서 종양 용적(GTV)이 기준보다 다소 크게 잡혔으나 목표 종양에 대한 선량 적용률(V50Gy, V35Gy)은 안정적으로 유지되었습니다.
+- 위장관(GI) 방사선량의 분할별 최악 조건 분석 결과, 거의 모든 환자에서 임상 허용 기준을 만족하여 다수의사가 참여하는 실시간 윤곽 묘사의 안전성이 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42913947/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111834) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42913947)</small>
+
+---
 <a id="pmid-42886001"></a>
 #### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
 <small>Radiotherapy combined with serplulimab, and chemotherapy as first-line treatment for metastatic pancreatic adenocarcinoma: a multicenter, single-arm, phase II trial</small>

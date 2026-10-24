@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Systemic inflammation and nutritional deterioration are common in advanced pancreatic cancer (APC); however, the prognostic significance of their longitudinal changes remains unclear.\nOBJECTIVES: To evaluate whether longitudinal changes in inflammatory and nutritional measures are associated with survival.\nMETHODS: We retrospectively analyzed 120 patients with unresectable APC who reached third-line treatment or best supportive care after second-line chemotherapy. Changes in the C-reactive protein-to-albumin ratio (ΔCAR) and body weight were evaluated.\nRESULTS: High ΔCAR and body weight loss were associated with shorter overall survival. Patients with both high ΔCAR and body weight loss had the poorest survival; those with neither had the longest survival (1.38 vs. 4.67 months). Eastern Cooperative Oncology Group (ECOG) performance status (PS), ΔCAR, and body weight loss were independent prognostic factors. ΔCAR and weight loss were associated with appetite loss and worsening PS.\nCONCLUSIONS: Longitudinal deterioration in inflammatory and nutritional measures was associated with poor survival and clinical decline in APC.",
+ "authors": [
+  "Nagata K",
+  "Yasuda I",
+  "Ueda Y",
+  "Kawanaka H",
+  "Sakamoto J",
+  "Ogino B",
+  "Entani T",
+  "Motoo I"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42918737",
+ "importance": 0.69,
+ "key_points_ko": [
+  "2차 치료 후 3차 치료 또는 지지요법으로 전환된 진행성 췌장암 환자 120명을 분석했습니다.",
+  "높은 ΔCAR과 체중 감소를 모두 보인 환자군의 생존기간이 1.38개월로 가장 짧았으며, 둘 다 없었던 환자군은 4.67개월이었습니다.",
+  "ECOG 수행능력 평가 점수, ΔCAR, 체중 감소는 독립적인 예후 예측 인자로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1177/10966218261500247",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42918737"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Palliat Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918737/"
+ },
+ "summary_ko": "본 연구는 2차 항암화학요법 이후 3차 치료 또는 최선의 지지요법(BSC)에 도달한 수술 불가능한 진행성 췌장암 환자 120명을 후향적으로 분석했습니다. 연구진은 C-반응성 단백질 대 알부민 비율의 변화량(ΔCAR)과 체중 변화를 추적하여 생존율과의 연관성을 평가했습니다. 분석 결과, 높은 ΔCAR과 체중 감소는 전반적인 생존기간 단축 및 식욕 부진, 전신 수행능력 악화와 유의미하게 연관되어 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Longitudinal Changes in Inflammatory and Nutritional Status Are Associated With Survival in Advanced Pancreatic Cancer",
+ "title_ko": "진행성 췌장암 환자에서 염증 및 영양 상태의 종단적 변화와 생존율의 연관성",
+ "trial": null,
+ "type": "paper"
+}

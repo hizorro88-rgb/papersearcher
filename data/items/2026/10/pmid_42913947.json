@@ -1,0 +1,63 @@
+{
+ "abstract": "PURPOSE: To quantify inter-physician contouring variability and evaluate its dosimetric impact in pancreatic ductal adenocarcinoma (PDAC) patients treated with daily online adaptive MR-guided stereotactic body radiotherapy (MRgSBRT), to assess safety and clinical robustness of online contouring.\nMETHODS: Fifty treatment sessions from ten PDAC patients treated with 50 Gy in five fractions on a 1.5 T MR-Linac were retrospectively analyzed. During each treatment session (\"online\"), targets and organs-at-risk (OARs) within 3 cm of the tumor were delineated by seven physicians working on the MR-Linac. All structures were re-contoured offline by a single pancreatic-expert radiation oncologist (\"reference\"). Geometric agreement was assessed using Dice Similarity Coefficient (DSC), Mean Distance to Agreement (MDA), and 95 % Hausdorff Distance (HD95). Dosimetric analyses were performed on delivered treatment plans using both online and reference contours, with evaluation based on fraction-wise worst-case dose metrics.\nRESULTS: High geometric concordance was observed for stomach and duodenum, whereas smaller or anatomically complex structures (GTV, major vessels, bile duct) showed greater variability. Online GTVs were larger than reference contours. Despite these differences, target coverage (V50Gy and V35Gy) was maintained with online contours. While occasional per-fraction gastrointestinal (GI) dose constraint exceedances were identified using reference contours, fraction-wise worst-case analysis showed GI doses remained within clinical tolerance for nearly all patients.\nCONCLUSION: Daily online adaptive MRgSBRT for PDAC provides robust target coverage and clinically acceptable OAR sparing, despite contouring variability. Multi-physician online contouring appears safe in clinical practice, although further improvements may be achieved through standardized contouring guidelines and harmonization strategies.",
+ "authors": [
+  "Poeta S",
+  "Gulyban A",
+  "Paquier Z",
+  "Michel M",
+  "Bodson E",
+  "den Begin RV",
+  "Jullian N",
+  "Reynaert N"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-24",
+ "history": [
+  {
+   "date": "2026-10-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42913947",
+ "importance": 0.77,
+ "key_points_ko": [
+  "1.5 T MR-Linac으로 5회에 걸쳐 총 50 Gy의 방사선치료를 받은 췌관선암(PDAC) 환자 10명의 50개 치료 세션을 분석했습니다.",
+  "실시간 윤곽 묘사에서 종양 용적(GTV)이 기준보다 다소 크게 잡혔으나 목표 종양에 대한 선량 적용률(V50Gy, V35Gy)은 안정적으로 유지되었습니다.",
+  "위장관(GI) 방사선량의 분할별 최악 조건 분석 결과, 거의 모든 환자에서 임상 허용 기준을 만족하여 다수의사가 참여하는 실시간 윤곽 묘사의 안전성이 확인되었습니다."
+ ],
+ "last_updated": "2026-10-24",
+ "links": {
+  "doi": "10.1016/j.radonc.2026.111834",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42913947"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiother Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913947/"
+ },
+ "summary_ko": "본 연구는 1.5 T MR-Linac 장비로 일일 온라인 적응형 자기공명유도 체부정위방사선치료(MRgSBRT)를 받은 췌장암 환자 10명(총 50회 치료 세션)을 대상으로 치료 부위 윤곽 묘사의 의사 간 차이와 방사선량 전달에 미친 영향을 후향적으로 분석했습니다. 치료 당일 실시간(온라인)으로 7명의 의사가 그린 종양 및 주변 위험 장기 윤곽을 췌장암 전문 방사선종양학과 의사가 다시 검토한 기준 윤곽과 비교했습니다. 분석 결과, 위와 십이지장 윤곽은 일치도가 높았으나 육안적 종양 용적(GTV)이나 담관 등 복잡한 구조물은 의사 간 차이가 더 컸고 실시간 종양 용적이 기준보다 다소 크게 설정되었습니다. 그럼에도 불구하고 목표 종양에 대한 방사선량 전달은 적절히 유지되었으며, 위장관 장기들이 받은 방사선량 또한 거의 모든 환자에서 임상적 허용 범위 내로 유지되어 안전성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From contouring variability to dosimetric impact: a comprehensive assessment of online adaptive MR-guided SBRT for pancreatic cancer",
+ "title_ko": "윤곽 묘사의 변동성부터 선량학적 영향까지: 췌장암 환자 대상 온라인 적응형 자기공명유도 체부정위방사선치료(MRgSBRT)의 종합적 평가",
+ "trial": null,
+ "type": "paper"
+}

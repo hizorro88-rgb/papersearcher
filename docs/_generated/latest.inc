@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>747</b><span>누적 수집<br><small>논문·소식 272 · 임상시험 475</small></span></div><div class="ps-stat"><b>+24</b><span>오늘 신규<br><small>갱신 39건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>772</b><span>누적 수집<br><small>논문·소식 297 · 임상시험 475</small></span></div><div class="ps-stat"><b>+25</b><span>오늘 신규<br><small>갱신 27건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-23](_generated/daily/2026/10/23.md)
+최근 수집일: [2026-10-24](_generated/daily/2026/10/24.md)
 
 <a id="nct-nct06989437"></a>
 #### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
@@ -20,18 +20,19 @@
 
 ---
 <a id="nct-nct07252232"></a>
-#### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
+#### [절제된 췌장암 환자에서 daraxonrasib(다락소나십)을 평가하는 임상시험](https://clinicaltrials.gov/study/NCT07252232)
 <small>Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-11-26 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07252232** · 3상 · 모집 중 · 국내 4곳 · [참여 조건·기관 보기](_generated/trials/NCT07252232.md)
 
-이 연구는 근치적 절제 수술 후 선행 또는 보조 항암화학요법을 마친 췌장관선암(PDAC) 환자를 대상으로 진행되는 글로벌 3상 임상시험입니다. 신약 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 유효성과 안전성을 표준 치료인 경과 관찰과 비교 평가합니다. 총 500명의 환자를 대상으로 무병 생존기간(DFS)의 개선 효과를 확인합니다. 국내 4개 기관이 이번 임상시험에 참여합니다.
+이 연구는 수술로 절제된 췌관선암(PDAC) 환자를 대상으로 신약 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 안전성과 유효성을 표준 치료인 관찰 요법과 비교하여 평가합니다. 전 세계적으로 진행되는 무작위 배정, 공개, 3상 임상시험입니다. 수술 전후 항암 치료를 완료한 환자를 대상으로 무병 생존기간(DFS) 개선 여부를 확인합니다. 목표 환자 수는 500명이며 국내 4개 기관이 참여합니다.
 
-- 근치적 수술(R0/R1) 및 항암치료를 마친 환자 500명을 대상으로 하는 임상 3상 연구입니다.
-- 표준 경과 관찰 대비 daraxonrasib(다락소나십)의 무병 생존기간(DFS) 개선 효과를 검증합니다.
-- 국내 4개 기관에서 환자를 모집하고 있습니다.
+- 대상 질환은 수술로 절제된 췌관선암(PDAC)입니다.
+- 중재 치료는 RAS(ON) 억제제인 daraxonrasib(다락소나십)입니다.
+- 대조군은 표준 치료인 관찰(observation only) 요법입니다.
+- 주요 평가지표는 무병 생존기간(DFS)입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
 
@@ -51,34 +52,34 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
 
 ---
-<a id="pmid-42883736"></a>
-#### [췌관선암종에서 CD74 발현의 예후 및 임상병리학적 의의: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42883736/)
-<small>Prognostic and Clinicopathological Significance of CD74 Expression in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis</small>
+<a id="pmid-42914928"></a>
+#### [췌관선암에서 마이크로RNA 발현의 예후적 가치: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42914928/)
+<small>Prognostic value of microRNA expression in pancreatic ductal adenocarcinoma: a systematic review and meta-analysis</small>
 
-`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-09-23 · PubMed · Int J Mol Sci · 중요도 0.90
+`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-10-23 · PubMed · EBioMedicine · 중요도 0.95
 
-이 연구는 췌관선암종(PDAC) 환자 조직에서 CD74 단백질의 발현과 병리학적 특징 및 생존율 간의 연관성을 평가한 체계적 문헌고찰 및 메타분석입니다. 총 5개 연구 데이터를 종합 분석한 결과, CD74 발현 양성 환자는 신경 침윤, 림프관 침윤, 림프절 전이 위험이 유의하게 높았습니다. 또한 CD74 양성은 더 나쁜 전체 생존기간(OS)과 연관되어 있는 것으로 나타났습니다. 연구진은 포함된 연구 수가 적고 기준이 표준화되지 않아, CD74를 확립된 지표로 보기는 어렵고 향후 대규모 전향적 검증이 필요한 후보 표지자로 평가했습니다.
+췌관선암(PDAC) 환자에서 마이크로RNA(miRNA) 발현 수준이 생존기간에 미치는 영향을 평가하기 위해 142개 연구, 총 13,824명의 데이터를 종합 분석했습니다. 분석 결과 발암성 및 항암제 내성 관련 miRNA가 높게 발현될수록 전체 생존기간(OS)과 무진행 생존기간(PFS)이 유의미하게 단축되었습니다. 특히 miRNA-21은 불량한 생존 예후와 가장 일관된 연관성을 보였습니다. 연구 간 이질성이 존재하여 임상 현장에서의 실제 적용을 위해서는 추가 검증과 표준화 작업이 필요합니다.
 
-- CD74 양성 발현 환자는 음성 환자에 비해 신경 침윤 위험이 약 3.69배 높았습니다(4개 코호트 351명, OR=3.69, p<0.00001).
-- CD74 양성은 림프관 침윤(OR=2.05, p=0.007) 및 림프절 전이(4개 코호트 462명, OR=1.94, p=0.002) 위험 증가와 유의하게 연관되었습니다.
-- CD74 발현 양성은 전체 생존기간(OS) 단축과 유의한 관련을 보였습니다(3개 코호트 293명, 위험비 HR=2.04, 95% CI: 1.45-2.88, p<0.00001).
+- 총 142개 연구의 췌관선암 환자 13,824명을 대상으로 miRNA의 예후적 가치를 체계적으로 분석했습니다.
+- 발암성 miRNA의 높은 발현은 전체 생존기간 악화(위험비 1.70) 및 무진행 생존기간 악화(위험비 2.25)와 관련이 있었습니다.
+- 항암제 내성 관련 miRNA의 높은 발현 역시 불량한 전체 생존기간(위험비 2.11) 및 무진행 생존기간(위험비 2.51)과 연관되었습니다.
+- 가장 빈번하게 분석된 miRNA-21은 다변량 전체 생존기간 악화(위험비 2.24)와 일관된 연관성을 보여 향후 임상 도입 가능성이 가장 높은 표지자로 제시되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883736/) · [DOI](https://doi.org/10.3390/ijms27198488) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883736)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914928/) · [DOI](https://doi.org/10.1016/j.ebiom.2026.106528) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914928)</small>
 
 ---
-<a id="pmid-42886001"></a>
-#### [전이성 췌장암 1차 치료로서 serplulimab, 화학요법, 방사선치료 병용 요법에 대한 다기관 단일군 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42886001/)
-<small>Radiotherapy combined with serplulimab, and chemotherapy as first-line treatment for metastatic pancreatic adenocarcinoma: a multicenter, single-arm, phase II trial</small>
+<a id="pmid-42914998"></a>
+#### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
+<small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
 
-`논문` `2상` `신약·치료제` `치료 전반` `임상시험` · 2026-10-16 · PubMed · Clin Cancer Res · 중요도 0.86
+`논문` `2상` `치료 전반` `임상시험` `수술` `진단·조기발견` · 2026-10-23 · PubMed · Lancet Oncol · 중요도 0.91
 
-이 연구는 전이성 췌관선암(mPDAC) 환자의 1차 치료로서 면역관문억제제 serplulimab(서플루리맙), gemcitabine(젬시타빈) 및 nab-paclitaxel(나브파클리탁셀), 그리고 정위체부방사선치료(SBRT)를 함께 병용하는 2상 임상시험입니다. 총 46명의 환자가 치료를 받았으며, 6개월 무진행 생존율 78.3%를 기록하여 사전 목표였던 60%를 달성했습니다. 중앙 무진행 생존기간(PFS)은 8.5개월, 중앙 전체 생존기간(OS)은 14.0개월로 양호한 치료 효과를 보였습니다. 치료 관련 사망이나 예상치 못한 이상반응은 관찰되지 않아 내약성이 확인되었습니다.
+고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.
 
-- 6개월 무진행 생존율은 78.3%(95% CI, 67.2%-91.1%)로 목표치인 60%를 초과 달성했습니다.
-- 객관적 반응률(ORR)은 73.9%(95% CI, 58.9%-85.7%)였으며, 중앙 무진행 생존기간(PFS)은 8.5개월이었습니다.
-- 중앙 전체 생존기간(OS)은 14.0개월(95% CI, 12.0개월-미도달)이었고 치료 관련 사망은 없었습니다.
-- 치료 전 순환 종양 DNA(ctDNA)가 음성인 환자에서 유의하게 더 나은 생존 결과를 보였습니다.
+- 12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).
+- 3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).
+- 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886001/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-26-1824) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886001)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
 
 ---
