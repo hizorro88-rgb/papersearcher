@@ -21,11 +21,11 @@
  "id": "nct:NCT07563738",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 인원은 총 229명이며 국내 기관은 0곳입니다.",
-  "췌장암 코호트는 젬시타빈(gemcitabine) 및 nab-paclitaxel(납-파클리탁셀) 치료가 가능한 전이성 췌관선암 환자를 대상으로 합니다.",
-  "초록에 효과 및 생존기간 수치는 명시되지 않았습니다."
+  "목표 인원은 총 229명입니다.",
+  "대상 질환은 췌장암, 중피종, 비소세포폐암(NSCLC)을 포함한 진행성 고형암입니다.",
+  "췌장암 코호트에서는 nab-paclitaxel과 gemcitabine 치료가 예정되어 있습니다."
  ],
- "last_updated": "2026-10-24",
+ "last_updated": "2026-10-25",
  "links": {
   "doi": null,
   "nct": [
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07563738"
  },
- "summary_ko": "본 임상시험은 진행성 또는 전이성 고형암 환자를 대상으로 ODM-212를 평가하는 2부로 구성된 제1/2상 공개 다기관 코호트 임상시험입니다. 췌장암 환자의 경우 젬시타빈(gemcitabine) 및  nab-paclitaxel(납-파클리탁셀) 치료가 적합한 전이성 췌관선암 환자를 대상으로 합니다. 용량 증량 및 용량 확장/최적화 단계로 진행되며 총 229명의 환자를 목표로 합니다. 초록에 전체 생존기간이나 반응률 등의 결과는 명시되지 않았습니다.",
+ "summary_ko": "본 임상시험은 진행성 또는 전이성 고형암 환자를 대상으로 ODM-212를 평가하는 2부로 구성된 제1/2상 공개 임상시험입니다. 췌장암 코호트에서는 전이성 췌관선암(metastatic adenocarcinoma of the pancreas) 환자를 대상으로 nab-paclitaxel(나브-파클리탁셀)과 gemcitabine(젬시타빈) 병용 치료와 함께 시험을 진행합니다. 전체 목표 인원은 229명이며, 용량 증량 및 용량 확장/최적화 단계로 나누어 진행됩니다. 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [],
  "title": "A 2-part Phase 1/2 Open-label Trial on ODM-212",
- "title_ko": "ODM-212에 관한 제1/2상 공개 임상시험",
+ "title_ko": "ODM-212를 평가하는 제1/2상 공개 임상시험",
  "trial": {
   "conditions": [
    "Mesothelioma",
@@ -66,7 +66,7 @@
     "phone": "+358104261"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 남성 또는 여성.\n- 동부종양학협력군(ECOG) 수행능력 평가 0~1.\n- 연구자의 견해에 따라 기대여명이 12주 초과.\n- 경구 약물 복용이 가능하고 순응도를 기록할 의향이 있는 환자.\n- 췌장암 코호트: 조직학적 또는 세포학적으로 확진된 전이성 췌관선암 환자로 젬시타빈(gemcitabine) 및 nab-paclitaxel(납-파클리탁셀) 치료 대상이 되는 환자.\n\n제외 기준:\n- 지난 2년 이내에 활성 상태였던 다른 악성 종양 (치료 완료된 기저세포암, 편평세포피부암, 표재성 방광암, 자궁경부 또는 유방 상피내암 제외).\n- 임상시험 치료 투여 전 2주 이내의 이전 항암화학요법, 면역요법 또는 기타 항암 치료.\n- 뇌전이 또는 경막하 전이가 있으나 무증상이고 국소 치료로 적절히 조절되지 않은 경우.\n- 1주일 이내의 심각한 활성 감염.\n- B형 간염 표면 항원 또는 C형 간염 바이러스 RNA 양성, 또는 인간면역결핍바이러스(HIV) 감염.",
+  "eligibility_ko": "선정 기준:\n* 18세 이상 성인 남녀.\n* 동부외과종양학회(ECOG) 수행능력 평가 0-1.\n* 연구자의 판단에 따른 12주를 초과하는 기대 여명.\n* 경구 투여제 복용 가능자.\n* 췌장암의 경우, nab-paclitaxel 및 gemcitabine 치료 대상이 되는 조직학적 또는 세포학적으로 확진된 전이성 췌관선암 환자.\n\n제외 기준:\n* 지난 2년 이내에 활성 상태였던 다른 악성 종양.\n* 시험 치료 시작 전 2주 이내의 이전 항암화학요법, 면역요법 또는 기타 항암 치료.\n* 뇌 전이 또는 경막하 전이가 있는 환자 (단, 무증상이거나 국소 치료를 잘 받은 경우는 예외).\n* B형 간염 표면 항원 또는 C형 간염 바이러스(HCV) RNA 양성, 또는 인간면역결핍바이러스(HIV) 감염.\n* ODM-212의 생체 이용률에 영향을 줄 수 있는 경구 약물 복용 불능 또는 소화기 장애.",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female participants ≥18 years old.\n* Performance status 0-1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale.\n* Life expectancy of \\>12 weeks, in the opinion of the investigator.\n* Ability to take oral medications and willing to record daily adherence to investigational product.\n* Part 1: Participants with histologically or cytologically confirmed advanced or metastatic, unresectable solid tumors and who are able and willing to receive one of the anti-cancer therapies studied in this trial according to the investigator.\n\n  * Arm A: Participants with histologically or cytologically confirmed diagnosis of advanced (unresectable or metastatic) mesothelioma who are eligible to receive treatment with ipilimumab/nivolumab; participants must not have undergone surgical therapy for mesothelioma.\n  * Arm B: Participants with histologically or cytologically confirmed metastatic adenocarcinoma of the pancreas who are eligible to receive treatment with nab-paclitaxel and gemcitabine.\n  * Arm C: Participants with histologically or cytologically confirmed diagnosis of locally advanced or metastatic NSCLC and a KRAS G12C-mutation, confirmed using a validated test, who have received the available 1st line treatment and who are eligible for a treatment with sotorasib and have not received a KRAS G12C inhibitor as prior treatment.\n\nPart 2:\n\n* Ipilimumab/nivolumab cohort: Participants with histologically or cytologically confirmed diagnosis of advanced (unresectable or metastatic) mesothelioma who are eligible to receive a treatment with ipilimumab/nivolumab. Prior treatment with ipilimumab, nivolumab and/or other PD-1/PD-L1/CTLA-4 inhibitors for advanced or metastatic disease is not allowed.\n* Nab-paclitaxel/gemcitabine cohort: Participants with histologically or cytologically confirmed metastatic adenocarcinoma of the pancreas who are eligible to receive a treatment with nab-paclitaxel and gemcitabine. Previous treatments with nab-paclitaxel and/or gemcitabine for metastatic disease are not allowed.\n* Sotorasib cohort, treatment naïve: Participants with histologically or cytologically confirmed diagnosis of locally advanced or metastatic NSCLC and a KRAS G12C-mutation, confirmed using a validated test, who are eligible for a treatment with sotorasib and have not received a KRAS G12C inhibitor as prior treatment.\n* Sotorasib cohort, pretreated: Participants with histologically or cytologically confirmed diagnosis of locally advanced or metastatic NSCLC and a KRAS G12C mutation, confirmed using a validated test, who have documented progression on a prior KRAS G12C inhibitor (approved or investigational).\n\n  * Part 2 only: Participants must have measurable disease by response evaluation criteria in solid tumours (RECIST) v. 1.1 (modified RECIST for MPM).\n  * A recent (taken up to 1 year ago), representative tumour tissue sample (from primary tumour or from metastasis) must be available. Tissue must be a core needle biopsy, excisional or incisional biopsy. Biopsies of bone lesions that do not have a soft tissue component or decalcified bone tumour samples are also not acceptable.\n  * Amenable for paired fresh tumour biopsy at screening period and on-treatment.\n\nExclusion Criteria:\n\n* Other malignancy active within the previous 2 years except for basal cell or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the cervix or breast, for which the participants has completed curative therapy.\n* Prior chemotherapy, immunotherapy (immune checkpoint inhibitor, tumour vaccine, cytokine or growth factor given to control the cancer) or other anti-cancer therapy within less than 2 weeks before trial treatment administration.\n* Any persistent unresolved toxicity from previous anti-cancer therapies of CTCAE Grade ≥ 2 (except for peripheral neuropathy, alopecia, endocrine disorders that are controlled with replacement hormone therapy and asymptomatic laboratory abnormalities). Ongoing adjuvant treatments for previous cancers are allowed as concomitant treatments if they do not have direct anti-tumour effect on the index tumour (e.g. hormone-suppressing agents).\n* Prior definitive radiation therapy within less than 4 weeks and prior palliative radiotherapy within less than 2 weeks before trial treatment administration. Radiopharmaceuticals should be expected to have cleared sufficiently from the participant's body before trial treatment administration.\n* Participants with brain or subdural metastases are not eligible, unless the metastases are asymptomatic and have been adequately treated with local therapy.\n* Any severe active infection within 1 week of trial enrolment.\n* Known positive tests for hepatitis B surface antigen or hepatitis C virus (HCV) RNA; known human immunodeficiency virus (HIV) infection. Screening test is not required unless participant has clinical findings suggestive of HIV, HBV or HCV infection.\n* Major surgery within 4 weeks before the first dose of trial treatment or minor surgery within 1 week (participant must also have recovered from any surgery-related toxicities to less than CTCAE Grade 2).\n* Immunosuppressive doses of systemic medications, such as steroids or absorbed topical steroids (doses \\>10 mg/day prednisone or equivalent) within 2 days before trial treatment administration.\n* Inability to take oral medication, or malabsorption syndrome or any other uncontrolled gastrointestinal condition (e.g. nausea, diarrhoea, or vomiting) that might impair the bioavailability of ODM-212.\n* Use of other investigational medicinal products within 2 weeks or at least 5 half-lives (whichever is longer) before trial treatment administration, or any persistent unresolved toxicity from such treatment that, according to the judgement of the investigator, may pose a health risk for the participant, if taking part in the trial. For drugs such as investigational monoclonal antibodies with half-lives \\>10 days, at least 8 weeks is required. In addition, all visits (apart from survival follow-up) related to the use of another IMP must be completed before dosing with trial treatments may commence.\n* Use of any live or live-attenuated vaccines (e.g., intranasal influenza, measles, mumps, rubella, shingles, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) within 28 days prior to the first dose of study drug.\n* Any clinically important abnormalities in rhythm, conduction, or morphology of resting ECG; e.g., complete left bundle branch block, third degree heart block, second degree heart block, PR interval \\>250 ms, a prolonged QTc interval (QTcF/B \\>470 ms) as demonstrated by 2 out of 3 repeated ECG at screening, performed according to local practice. A history of risk factors for torsade de pointes (e.g. heart failure, hypokalaemia, family history of long QT Syndrome) or the use of drugs that prolong the QT interval and are clearly associated with a known risk of torsade de pointes, even when taken as recommended per Crediblemeds.org QTdrugs list.\n* Significant cardiovascular impairment: history of congestive heart failure of New York Heart Association (NYHA) Class III-IV, uncontrolled arterial hypertension, unstable angina, myocardial infarction, or stroke, left ventricular ejection fraction (LVEF) \\<50%, cardiac arrhythmia requiring medical treatment (including oral anticoagulation) within 6 months prior to the first dose of trial treatment.\n* Female participants who are breastfeeding or pregnant at screening or baseline. A separate baseline assessment for pregnancy is required if a negative screening pregnancy test was obtained more than 72 hours before the first dose of study drug.",
   "enrollment": 229,
   "has_results": false,
@@ -92,15 +92,14 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "최근 2년 이내 다른 암 병력",
-    "증상이 있거나 치료되지 않은 뇌전이",
-    "심각한 활성 감염",
-    "B형·C형 간염 또는 HIV 감염"
+    "뇌전이가 있고 증상이 있거나 치료받지 않은 경우",
+    "지난 2년 이내 다른 암 병력이 있는 경우",
+    "활동성 감염이 있는 경우"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전이성 단계에서 젬시타빈과 nab-paclitaxel 치료를 받은 적이 없는 전이성 췌장암 환자",
+   "notes_ko": "이전 치료를 받지 않은 전이성 췌장암 환자를 위한 nab-paclitaxel/gemcitabine 병용 임상시험",
    "prior_excluded": [
     "gemcitabine",
     "taxane"

@@ -1,0 +1,55 @@
+{
+ "abstract": "IntroductionZenocutuzumab-zbco is the first approved therapy for NRG1 fusion-positive cancer, indicated for non-small cell lung cancer (NSCLC), pancreatic ductal adenocarcinoma (PDAC), and cholangiocarcinoma (CCA). At the pivotal analyses, overall survival (OS) was unreported for NSCLC and PDAC, whereas a later publication reported observed OS and progression-free survival (PFS) for CCA. Cost-effectiveness was evaluated from a US payer perspective.MethodsA three-state partitioned survival model estimated incremental costs and quality-adjusted life-years (QALYs) over 5 years. For NSCLC and PDAC, OS was modeled as a threshold variable across prespecified scenarios, with an incremental cost-effectiveness ratio (ICER) per scenario. For CCA, OS and PFS were reconstructed from published Kaplan-Meier curves and used directly, with a base-case ICER and extrapolation sensitivity. The wholesale acquisition cost was $24,155.46/infusion. Probabilistic, one-way, and threshold analyses were performed.ResultsFor NSCLC and PDAC, ICERs ranged from approximately $665,000 (PDAC, OS 18 months) to $2.79 million per QALY (NSCLC, OS 10 months). For CCA, using observed data, the base-case ICER was approximately $397,000 per QALY (extrapolation range $349,000-$430,000). No indication was cost-effective at $150,000 or $200,000 per QALY. Drug acquisition cost, comparator OS, and utilities were the dominant drivers. Cost-effectiveness required acquisition-cost reductions of 60% to 91%.ConclusionsAt its current price, zenocutuzumab is not cost-effective for any approved indication, whether OS is unobserved (NSCLC, PDAC) or observed (CCA). Cost-effectiveness is achievable only through substantial price reduction. NSCLC and PDAC findings are conditional on the prespecified OS scenarios; CCA findings rest on observed survival with extrapolation.",
+ "authors": [
+  "Weiss GJ"
+ ],
+ "categories": [
+  "drug",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42921926",
+ "importance": 0.6,
+ "key_points_ko": [
+  "zenocutuzumab의 1회 투여당 도매 획득 비용(WAC)은 24,155.46달러였습니다.",
+  "췌관선암(PDAC)의 점증적 비용-효과비(ICER)는 전체 생존기간(OS) 18개월 가정 시 질보정수명(QALY)당 약 66만 5,000달러였습니다.",
+  "QALY당 15만 달러 또는 20만 달러 기준을 충족하는 적응증은 없었으며, 비용-효과성 달성을 위해 60%~91%의 가격 인하가 필요합니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1177/10781552261496856",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42921926"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Oncol Pharm Pract",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42921926/"
+ },
+ "summary_ko": "zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관선암(PDAC), 담관암(CCA) 등 NRG1 융합 양성 암에 승인된 최초의 치료제입니다. 연구진은 미국 지불자 관점에서 5년간의 점증적 비용 및 질보정수명(QALY)을 산출하여 비용-효과성을 평가했습니다. 분석 결과, 췌관선암을 포함한 어떤 적응증에서도 일반적인 기준(QALY당 15만~20만 달러)에 부합하는 비용-효과성을 입증하지 못했습니다. 현재 가격에서 비용-효과성을 확보하려면 60%에서 91% 수준의 대폭적인 약가 인하가 필요하다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cost-effectiveness of zenocutuzumab-zbco across three NRG1 fusion-positive indications",
+ "title_ko": "세 가지 NRG1 융합 양성 적응증에서 zenocutuzumab-zbco의 비용-효과성 평가",
+ "trial": null,
+ "type": "paper"
+}

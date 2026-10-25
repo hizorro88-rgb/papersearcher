@@ -1,0 +1,61 @@
+{
+ "abstract": "A 75-year-old man presented with bilateral ground-glass opacities (GGOs) and consolidation on computed tomography (CT). Bronchoalveolar lavage revealed no pathogens or malignant cells. Acute exacerbation of interstitial lung disease was suspected because of rapidly progressive respiratory failure, but steroid pulse therapy was ineffective. After cyclophosphamide treatment, CT showed transient improvement of GGOs and consolidation. Subsequently, worsening bilateral opacities and abnormalities of the main pancreatic duct were detected on CT and magnetic resonance imaging. These radiological findings and sputum cytology indicated lung metastases from pancreatic adenocarcinoma. The autopsy demonstrated lung metastases of pancreatic ductal carcinoma with extensive organizing pneumonia (OP). Although lung metastases from pancreatic cancer are occasional, diffuse bilateral opacities mimicking interstitial lung disease are rare. Improvement after prednisolone and cyclophosphamide may have reflected effects on both OP and metastases. Lung metastases should remain an important differential diagnosis even when bilateral GGOs and consolidation respond to treatment.",
+ "authors": [
+  "Kusunoki S",
+  "Tasato M",
+  "Sokai A",
+  "Iwata T",
+  "Hayashi Y",
+  "Yasuda N",
+  "Kashiwagi I",
+  "Nishimura T"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42924177",
+ "importance": 0.61,
+ "key_points_ko": [
+  "75세 남성 환자에서 간질성 폐질환처럼 보이는 양측 미만성 간유리음영이 cyclophosphamide 치료 후 일시적으로 호전되었습니다.",
+  "추가 영상 검사 및 객담 세포진 검사를 통해 췌장암에 의한 폐 전이로 진단되었습니다.",
+  "부검 결과 광범위한 기질화폐렴을 동반한 췌관선암의 폐 전이가 최종 확인되었습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1002/rcr2.70795",
+  "nct": [],
+  "pmcid": "PMC13689714",
+  "pmid": "42924177"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Respirol Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42924177/"
+ },
+ "summary_ko": "75세 남성 환자가 컴퓨터단층촬영(CT)에서 양측 간유리음영(GGO)과 폐경화 소견을 보였습니다. 빠르게 악화되는 호흡부전으로 간질성 폐질환(ILD)의 급성 악화가 의심되었으며, 스테로이드 치료에는 반응이 없었으나 cyclophosphamide(사이클로포스파미드) 치료 후 일시적인 폐 병변 호전이 관찰되었습니다. 이후 폐음영이 다시 악화되고 주췌관 이상이 발견되어 추가 검사를 시행한 결과 췌관선암의 폐 전이로 진단되었습니다. 부검 결과 광범위한 기질화폐렴(OP)을 동반한 췌관선암의 폐 전이로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Lung Metastases of Pancreatic Adenocarcinoma Masquerading as Temporary Improvement of Bilateral Diffuse Lung Opacities Following Treatment for Interstitial Lung Disease",
+ "title_ko": "간질성 폐질환 치료 후 일시적 호전을 보여 오인되었던 췌관선암의 양측 미만성 폐 전이 증례",
+ "trial": null,
+ "type": "paper"
+}

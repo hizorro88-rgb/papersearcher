@@ -1,0 +1,61 @@
+{
+ "abstract": "Developing physiologically relevant 3D tumor models is critical to study cell-stroma interactions driving cancer progression. In pancreatic ductal adenocarcinoma (PDAC), pancreatic stellate cells (PSCs) are key stromal actors that acquire pro-tumoral functions upon activation into cancer-associated fibroblasts (CAFs). We aimed to create a 3D co-culture model combining PSCs (or CAFs) and tumor organoids (or spheroids) that reproduces the tumor microenvironment while preserving the viability of fragile stroma cells. Gelatin methacryloyl (GelMA) was selected as a biocompatible scaffold with mechanical properties comparable to pancreatic tissue. However, fragile stromal cells, such as PSCs, displayed extensive photopolymerization-induced cell death when embedded in GelMA, preventing long-term culture. We developed a simple preconditioning protocol with an antioxidant (N-acetylcysteine, NAC) that protects sensitive cells prior to GelMA encapsulation. This approach allowed long-term 3D culture of healthy PSCs and CAFs, alone or in co-culture with tumor spheroids or organoids. Cells self-organized, maintained physiological morphology, secreted extracellular matrix, and formed stromal networks around tumor structures, closely mimicking the PDAC tissue architecture. This straightforward and reproducible approach enables sensitive stromal cells to thrive in 3D GelMA, providing a robust platform to study tumor-stroma crosstalk and to support drug testing in PDAC-relevant models.",
+ "authors": [
+  "Lac C",
+  "Petsophonsakul P",
+  "Foncy J",
+  "Fanjul M",
+  "Ferri-Angulo D",
+  "Aigoin J",
+  "Pattou F",
+  "Martineau Y"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42926891",
+ "importance": 0.59,
+ "key_points_ko": [
+  "광중합 시 취약한 췌장 기질 세포가 사멸하던 문제를 N-아세틸시스테인(NAC) 항산화 전처리 기법으로 해결했습니다.",
+  "정상 췌장 성상세포(PSC)와 암 연관 섬유아세포(CAF), 종양 오가노이드의 장기 3D 공배양을 안정적으로 유지했습니다.",
+  "세포들이 자가 조직화되어 세포외기질을 분비하고 기질 망을 형성하여 실제 췌장암 조직 구조를 재현함으로써 신약 평가 플랫폼으로서의 가능성을 입증했습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1016/j.bbiosy.2026.100150",
+  "nct": [],
+  "pmcid": "PMC13694989",
+  "pmid": "42926891"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomater Biosyst",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42926891/"
+ },
+ "summary_ko": "췌장관선암종(PDAC)의 복잡한 미세환경을 재현하기 위해 췌장 성상세포(PSC)나 암 연관 섬유아세포(CAF)를 종양 오가노이드와 함께 배양하는 3D 공배양 모델을 구축했습니다. 연구진은 췌장 조직과 물성이 유사한 젤라틴 메타크릴로일(GelMA) 소재를 사용했으나 광중합 과정에서 민감한 기질 세포가 사멸하는 문제에 직면했습니다. 이를 극복하기 위해 항산화제인 N-아세틸시스테인(NAC) 전처리 기법을 도입하여 세포 손상 없이 기질 세포와 종양의 장기 공배양을 성공적으로 구현했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity",
+ "title_ko": "췌장암 미세환경을 모사하는 GelMA 3D 공배양에서 세포 손상을 방지하는 산화환원 차폐 기술",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,67 @@
+{
+ "abstract": "Although chemoradiotherapy (CRT) has exhibited activity against locally advanced pancreatic cancer (LAPC), no standard regimen has been established. We previously completed a Phase I trial of CRT with gemcitabine plus nab-paclitaxel (GnP) and established the recommended dose. This prospective, single-arm, Phase II study evaluated the safety and efficacy of GnP-based CRT in patients with LAPC. They received the NUPAT-05 trial protocol treatment (UMIN000028116). Conversion surgery (CS) was considered for patients who achieved favorable local disease control and tumor markers normalization. To evaluate the efficacy of multidisciplinary treatment, the primary endpoint was the 2-year overall survival (OS) rate, with a predefined threshold of 15%, and the key secondary endpoint was the CS rate. The other secondary endpoints included OS, progression free survival (PFS), time to treatment failure (TTF), and adverse events. Twenty-five patients were enrolled in the trial. The 2-year OS rate was 36.0%, meeting the primary endpoint. The CS rate was 32.0%, and the 2-year OS rate reached 75.0% among patients who underwent CS. Postoperative major complications occurred in 37.5% of patients. The median OS, PFS, and TTF were 20.8, 13.8, and 7.9 months, respectively. Although adverse events (Grade ≥ 3) occurred in 92.0% of patients, no treatment-related Grade 5 events occurred. In conclusion, our findings suggested that GnP-based CRT showed encouraging clinical activity with manageable toxicity in patients with LAPC. Future studies are needed to validate the additional benefits of radiotherapy. Trial Registration: UMIN-CTR: UMIN000028116.",
+ "authors": [
+  "Yamada H",
+  "Tanaka H",
+  "Yamada S",
+  "Takami H",
+  "Hayashi M",
+  "Nakagawa N",
+  "Kurimoto K",
+  "Inokawa Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "surgery",
+  "trial"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42922112",
+ "importance": 0.78,
+ "key_points_ko": [
+  "전체 환자의 2년 전체 생존율(OS)은 36.0%, 중앙 전체 생존기간은 20.8개월이었습니다.",
+  "전환 수술(CS)을 받은 환자 비율은 32.0%였으며, 수술을 받은 환자의 2년 OS는 75.0%에 달했습니다.",
+  "중앙 무진행 생존기간(PFS)은 13.8개월, 치료 실패까지의 시간(TTF)은 7.9개월이었습니다.",
+  "3등급 이상의 이상반응은 92.0%에서 관찰되었으나 치료 관련 사망(5등급)은 없었으며, 수술 후 주요 합병증은 수술 환자의 37.5%에서 발생했습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1002/ijc.70801",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42922112"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42922112/"
+ },
+ "summary_ko": "국소 진행성 췌장암(LAPC) 환자 25명을 대상으로 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 병용 화학방사선요법(CRT)의 안전성과 유효성을 평가한 전향적 2상 임상시험 결과입니다. 국소 질환 제어와 종양표지자 정상화를 달성한 환자에게는 전환 수술(CS)을 고려하는 다학제적 치료가 시행되었습니다. 1차 평가변수인 2년 전체 생존율(OS)은 36.0%로 기준치를 충족하였으며, 전환 수술률은 32.0%였습니다. 화학방사선요법 기반 치료는 관리 가능한 독성을 보이며 고무적인 임상적 유효성을 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical Outcomes of Gemcitabine Plus Nab-Paclitaxel-Based Chemoradiotherapy in a Multidisciplinary Treatment Strategy for Locally Advanced Pancreatic Cancer (NUPAT-05): A Prospective, Single-Arm, Phase II Study",
+ "title_ko": "국소 진행성 췌장암에 대한 젬시타빈 및 냅-파클리탁셀 기반 화학방사선요법의 다학제 치료 임상 결과 (NUPAT-05): 전향적 단일군 2상 임상시험",
+ "trial": null,
+ "type": "paper"
+}

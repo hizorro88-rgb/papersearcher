@@ -18,11 +18,11 @@
  "id": "nct:NCT02000089",
  "importance": 0.99,
  "key_points_ko": [
-  "임상시험 단계는 3상(Phase 3)입니다.",
-  "목표 인원은 9000명입니다.",
-  "중재 방법으로 secretin, MRI, CA19-9 검사를 사용합니다."
+  "유전성 췌장염, 펩츠-제거스 증후군, 췌장암 가족력 또는 생식세포 유전자 변이(BRCA1, BRCA2, PALB2, ATM 등) 보유자 9,000명을 대상으로 합니다.",
+  "MRI, 내시경, CA19-9 혈액 검사 및 유전자 검사를 통해 췌장 암 및 전암성 병변을 조기에 선별합니다.",
+  "18세 이상의 췌장암 고위험군을 대상으로 조기 진단 가능성을 평가합니다."
  ],
- "last_updated": "2026-10-24",
+ "last_updated": "2026-10-25",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02000089"
  },
- "summary_ko": "본 연구는 유전성 췌장암 고위험군을 대상으로 췌장암 선별검사의 효과를 평가하는 3상 임상시험입니다. 대상 질환은 췌장암(Pancreas Cancer), 포이츠-예거 증후군(Peutz-Jeghers Syndrome), 유전자 돌연변이 보인자 등입니다. 중재 방법으로는 secretin(세크레틴), 자기공명영상(MRI), CA19-9 종양표지자 유전자 검사를 사용합니다. 목표 등록 환자 수는 9000명입니다.",
+ "summary_ko": "이 연구는 췌장암 발생 위험이 높은 고위험군을 대상으로 췌장암을 조기에 발견하기 위한 제3상 선별 검사 임상시험입니다. 췌장암 가족력이 있거나 유전성 유전자 변이를 가진 환자를 대상으로 자기공명영상(MRI), 내시경 검사, CA19-9 종양 표지자 및 유전자 검사를 실시합니다. 존스 홉킨스 대학교(Johns Hopkins University) 주도로 진행되며 총 9,000명의 대상자를 추적 관찰합니다.",
  "summary_source": "llm",
  "tags": [
   "familial pancreas cancer",
@@ -60,7 +60,7 @@
   "hereditary pancreatitis"
  ],
  "title": "The Cancer of the Pancreas Screening-5 CAPS5)Study",
- "title_ko": "췌장암 선별검사-5(CAPS5) 연구",
+ "title_ko": "췌장암 선별검사 연구-5 (CAPS5)",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -76,7 +76,7 @@
     "phone": null
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 유전성 췌장염 또는 포이츠-예거 증후군 환자\n* 가계도 한쪽에서 췌장암의 강한 가족력이 있는 경우\n* 확진된 생식세포 유전자 돌연변이 보인자 (BRCA2, CDKN2A/p16, PALB2, BRCA1, ATM, Lynch 증후군 관련 유전자, PRSS1, SPINK1, CFTR 등)\n* 췌장 내시경 검사가 예정된 자\n\n제외 기준:\n* 내시경을 금기하는 의학적 동반질환 또는 응고장애\n* 빌로트 또는 루앙와 문합술을 동반한 위 부분 또는 전체 절제술 등 최적의 내시경 초음파를 방해하는 이전 수술력\n* 에코내시경의 통과를 방해하는 상부 위장관의 협착 또는 폐쇄\n* 불량한 전신 수행능력\n* 사전 동의 제공 불능\n* 임신",
+  "eligibility_ko": "선정 기준:\n- 유전성 췌장염(Hereditary Pancreatitis) 환자\n- 펩츠-제거스 증후군(Peutz-Jeghers Syndrome) 환자\n- 가계 내 한쪽에 명확하고 강한 췌장암 가족력이 있는 경우\n- 생식세포 유전자 변이(BRCA2, CDKN2A/p16, PALB2, BRCA1, ATM, 린치 증후군 유전자 등) 보균자로 확인된 경우\n- 췌장 내시경 평가가 예정되어 있는 환자\n\n제외 기준:\n- 내시경 시행을 금기시하는 의학적 동반질환 또는 혈액응고장애가 있는 경우\n- 내시경 초음파 검사를 방해하는 이전 수술(Billroth 또는 Roux-en-Y 방식의 부분/전체 위절제술 등)을 받은 경우\n- 상부 위장관의 협착이나 폐쇄로 내시경 통과가 불가능한 경우\n- 수행 능력이 불량한 경우\n- 동의서 작성이 불가능한 경우\n- 임신 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Hereditary Pancreatitis or\n* Peutz-Jeghers Syndrome or\n* Strong family history of pancreas cancer on one side of the family tree or\n* Confirmed germline mutation carrier (BRCA2, FAMMM (CDKN2A/p16), PALB2, BRCA1, ATM, HNPCC, Lynch Syndrome (hMLH1, hMSH2, PMS2, hMSH6, EpCAM) PRSS1, PRSS2, R122H, N291l, SPINK1, CFTR\n* Endoscopic evaluation of pancreas scheduled\n\nExclusion Criteria:\n\n* Medical comorbidities or coagulopathy that contraindicate endoscopy\n* Prior surgery that prevent optimal endoscopic ultrasound such as partial or complete gastrectomy with Bilroth or Roux-en-Y anastomosis\n* Stricture or obstruction in the upper GI tract that does not allow passage of the echoendoscope\n* Poor performance status\n* Inability to provide informed consent\n* Pregnancy.",
   "enrollment": 9000,
   "has_results": false,
@@ -92,22 +92,18 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [
-    "BRCA_PALB2",
-    "MSI_H",
-    "other"
-   ],
+   "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "내시경 검사를 할 수 없는 의학적 상태",
-    "상부 위장관 협착 또는 폐쇄",
-    "전신 수행능력이 나쁜 경우",
-    "임신 중인 경우"
+    "위절제술(Billroth 또는 Roux-en-Y 재건술) 등 내시경 관찰을 방해하는 수술 이력",
+    "내시경 통과가 불가능한 상부 위장관 협착 또는 폐쇄",
+    "내시경 검사가 불가능한 동반 질환 또는 응고장애",
+    "임신 중인 여성"
    ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": null,
-   "notes_ko": "유전성 췌장암 고위험군 및 유전자 돌연변이 보인자 대상 선별검사 연구",
+   "notes_ko": "췌장암 가족력이 있거나 BRCA1/2, PALB2 등 관련 유전자 변이를 가진 췌장암 고위험군 대상 조기 선별 연구",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) arises within an extensively remodeled microenvironment, yet tissue markers that distinguish invasive carcinoma from precursor lesions remain limited. Integrating four single-cell RNA-sequencing atlases comprising 324,662 cells from 26 patients, we identified cancer-associated fibroblast expansion, accumulation of C1QA+ immunoregulatory macrophages, and depletion of a dendritic-cell compartment expressing plasmacytoid markers. Fibroblasts were enriched for extracellular-matrix and PI3K-AKT programs and macrophages for an antigen-presentation program. We then examined the protein-level correlates of these populations in a tissue proteomic reference framework of 356 samples spanning non-diseased pancreas, normal-adjacent tissue, low- and high-grade intraductal papillary mucinous neoplasms (IPMNs), IPMN-associated invasive carcinoma, and PDAC, prioritizing proteins that changed monotonically across the six histopathologic reference groups or marked tumor-enriched cell types. Despite depletion of plasmacytoid dendritic cells, the principal source of type I interferon, the interferon-stimulated protein ISG15, expressed by both fibroblasts and macrophages, increased monotonically toward PDAC. In exploratory cross-validated benchmarking of PDAC versus low- and high-grade IPMN, excluding IPMN-associated invasive carcinoma (145 versus 56 samples), CATB+EPIPL achieved an AUC of 0.98, with a sensitivity of 92% at an achieved specificity of 92%, exceeding protein-abundance models of diagnostic IHC-associated markers (S100P+IMP3+maspin+MSLN, 0.79) and refitted published IPMN-progression combinations (≤0.91). Against non-diseased pancreas, candidate and comparator panels performed similarly (AUC 0.99-1.00). These biologically informed tissue protein panels warrant independent validation, including immunohistochemical evaluation of EUS-guided fine-needle biopsy specimens and measurement in blood.",
+ "authors": [
+  "Tran TT",
+  "Nguyen-Hoang PU",
+  "Fahrmann JF",
+  "Pham DT",
+  "Bui H",
+  "Bui L",
+  "Schmidt CM"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42926779",
+ "importance": 0.72,
+ "key_points_ko": [
+  "26명의 환자에서 얻은 324,662개 세포 분석을 통해 암 관련 섬유아세포 및 C1QA+ 대식세포 증가와 수지상세포 감소 등의 미세환경 변화를 규명했습니다.",
+  "췌관선암(145개)과 IPMN(56개)을 구별하는 검증에서 CATB+EPIPL 단백질 조합이 AUC 0.98, 민감도 92%, 특이도 92%를 나타냈습니다.",
+  "새로운 표지자 조합은 기존 임상 진단 표지자 조합(S100P+IMP3+maspin+MSLN, AUC 0.79)보다 뛰어난 구별 성능을 보였습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.64898/2026.10.02.26364030",
+  "nct": [],
+  "pmcid": "PMC13692355",
+  "pmid": "42926779"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42926779/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)과 전암 병변인 췌관내유두상점액종양(IPMN)을 구별할 수 있는 새로운 조직 단백질 표지자를 발굴하고자 진행되었습니다. 연구진은 26명 환자의 단일세포 전사체 데이터와 356개 조직 검체의 단백체 데이터를 통합 분석하여 암 미세환경의 세포 변화와 단백질 발현 양상을 추적했습니다. 분석 결과, CATB와 EPIPL 단백질 조합은 췌관선암과 IPMN을 구별하는 데 있어 곡선하면적(AUC) 0.98, 민감도 92%, 특이도 92%의 높은 정확도를 기록했습니다. 이는 기존에 사용되던 면역조직화학 진단 표지자 조합(AUC 0.79)보다 우수한 성능으로, 향후 초음파 내시경 유도 세침생검 조직 검증 등이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Integrated single-cell and proteomic profiling of pancreatic neoplasia identifies tissue markers that outperform established diagnostic markers in distinguishing cancer from precursor lesions",
+ "title_ko": "단일세포 및 단백체 통합 프로파일링을 통한 전암 병변과 췌장암 감별 진단 조직 표지자 발굴",
+ "trial": null,
+ "type": "paper"
+}

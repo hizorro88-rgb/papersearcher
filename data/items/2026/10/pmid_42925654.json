@@ -1,0 +1,62 @@
+{
+ "abstract": "This study investigated the role of IL-37 in PDAC and its association with lipid metabolic reprogramming and tumour immune suppression. Bioinformatic analyses, paired clinical specimens, IL-37 gain- and loss-of-function models, and in vitro and in vivo functional assays were used to characterize the role of IL-37 in PDAC. Tumour immune profiles and metabolic alterations were assessed by flow cytometry, immunofluorescence, molecular analyses, and untargeted metabolomics. Bone marrow-derived MDSC assays and pharmacological AKT inhibition were used for mechanistic validation, and the effects of ACLY inhibition and Gr-1 blockade were further evaluated in vivo. IL-37 was upregulated in PDAC tissues and cell lines and was associated with shorter overall survival. IL-37 overexpression enhanced cell viability, clonogenicity, migration, invasion, and tumour growth, whereas IL-37 knockdown produced the opposite effects. IL-37 overexpression was also associated with increased CD11b+Gr-1+ myeloid-derived suppressor cell accumulation and impaired CD8+ T-cell infiltration. Tumour-derived IL-37-associated signals further promoted MDSC generation and preferentially shifted the population toward M-MDSCs in vitro. Metabolomic and molecular analyses revealed an ACLY-centred lipid metabolic programme involving increased ACLY, FASN, and SPHK1 expression and alterations in acetyl-CoA, palmitate, and sphingosine-1-phosphate. IL-37 enhanced AKT phosphorylation, whereas AKT inhibition attenuated the upregulation of ACLY, FASN, and SPHK1, supporting a functional role for AKT signalling in this metabolic phenotype. ACLY inhibition, particularly in combination with Gr-1 blockade, reduced lipid accumulation and myeloid-cell infiltration, restored CD8+ T-cell responses, and suppressed tumour growth. IL-37 promotes PDAC progression in association with AKT-related signalling, ACLY-centred lipid metabolic reprogramming and an immunosuppressive tumour microenvironment. Combined targeting of lipid metabolism and immunosuppressive myeloid cells may represent a therapeutic strategy for IL-37-high PDAC.",
+ "authors": [
+  "Liu Z",
+  "Sun G",
+  "Xu N",
+  "Chen Y",
+  "Dong M",
+  "Geng X",
+  "Chen B",
+  "Liu W"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42925654",
+ "importance": 0.64,
+ "key_points_ko": [
+  "IL-37은 췌장암 조직 및 세포주에서 발현이 증가되어 있었으며 짧은 전체 생존기간(OS)과 연관되었습니다.",
+  "IL-37은 골수유래 억제세포(MDSC)의 축적을 늘리고 항암 작용을 하는 CD8+ T세포 침윤을 억제했습니다.",
+  "동물 실험에서 ACLY 억제와 Gr-1 차단 병용 치료는 골수세포 침윤을 줄이고 종양 성장을 유의하게 억제했습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1016/j.intimp.2026.117589",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42925654"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int Immunopharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42925654/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)에서 인터루킨-37(IL-37)이 지질 대사 재프로그래밍 및 종양 면역 억제에 미치는 역할을 조사했습니다. 환자 검체 및 세포·동물 실험 결과, IL-37의 과발현은 불량한 생존율 및 종양 성장, 골수유래 억제세포(MDSC)의 축적과 연관되었습니다. 기전적으로 IL-37은 AKT 신호를 통해 ACLY 중심의 지질 대사를 유도했습니다. 동물 모델에서 ACLY 억제와 골수세포(Gr-1) 차단을 병용했을 때 지질 축적이 감소하고 항암 T세포 반응이 회복되어 종양 성장이 억제되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "IL-37 links ACLY-centered lipid metabolic reprogramming to myeloid immunosuppression in pancreatic ductal adenocarcinoma",
+ "title_ko": "IL-37과 ACLY 중심 지질 대사 재프로그래밍 및 골수성 면역억제의 연관성 규명",
+ "trial": null,
+ "type": "paper"
+}

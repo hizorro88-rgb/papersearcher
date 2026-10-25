@@ -1,0 +1,55 @@
+{
+ "abstract": "Single-cell glycan and RNA sequencing (scGR-seq) enables characterization of cellular glycan heterogeneity. Here, we present scGlycoAI, an interpretable machine learning framework that integrates scGR-seq data for glycan-centered biological discovery. Using lectin-binding profiles as input, scGlycoAI employs hierarchical machine learning to accurately classify cell types and subtypes within complex tumor microenvironments. Applied to pancreatic ductal adenocarcinoma (PDAC) datasets, scGlycoAI achieved an overall eight-class classification accuracy of 90.3% under leave-one-patient-out validation using glycan features alone. These results demonstrate that glycan signatures, despite their lower dimensionality compared with transcriptomic profiles, are sufficient for robust cell-type annotation and represent cell-type-specific molecular signatures. Feature importance analysis identified PVL lectin binding, which reflects recognition of sialylated and/or GlcNAc-containing glycans, as a key feature of aggressive cancer states. A neural-network model combined with SHAP-based interpretation further revealed that elevated PVL binding was associated with transcriptional programs linked to epithelial-mesenchymal transition, KRAS signaling, extracellular matrix remodeling, and inflammatory responses. Higher expression of the PVL-associated gene signature was associated with poorer overall survival in the TCGA pancreatic adenocarcinoma cohort. Collectively, these findings suggest that glycan-based machine learning enables accurate cell classification while providing biological insights into malignancy-associated glycan states at single-cell resolution. This framework provides a foundation for glycan-centered biomarker discovery and glycan-targeted therapeutic development.",
+ "authors": [
+  "Anh DXT",
+  "Tateno H"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42925266",
+ "importance": 0.49,
+ "key_points_ko": [
+  "췌장관선암 환자 교차 검증에서 당사슬 특징만을 활용해 90.3%의 정확도로 8개 세포 유형을 분류했습니다.",
+  "시알화 및 GlcNAc 함유 당사슬을 인식하는 PVL 렉틴 결합이 상피간엽이행(EMT), KRAS 신호전달, 염증 반응 등 공격적인 암 상태의 주요 특징으로 확인되었습니다.",
+  "TCGA 췌장암 환자 코호트 분석 결과, PVL 관련 유전자 시그니처 발현이 높을수록 전체 생존기간이 더 나빴습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1093/glycob/cwag100",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42925266"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Glycobiology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42925266/"
+ },
+ "summary_ko": "단일 세포 수준의 당사슬과 유전자 발현을 동시에 분석하는 scGR-seq 데이터를 활용하여 세포 유형을 분류하고 악성 종양 관련 특성을 발굴하는 머신러닝 모델 'scGlycoAI'가 개발되었습니다. 연구진이 이 모델을 췌장관선암(PDAC) 환자 데이터에 적용한 결과, 당사슬 특징만을 사용해 90.3%의 높은 정확도로 8가지 세포 유형을 분류했습니다. 특히 PVL 렉틴 결합으로 식별되는 특정 당사슬 패턴이 암의 공격적인 악성 상태와 연관되어 있음을 규명했습니다. 이와 관련된 유전자 발현 패턴이 높을수록 췌장암 환자의 전체 생존기간(OS)이 유의하게 짧아지는 경향을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "scGlycoAI: Machine learning analysis of single-cell glycan and RNA sequencing data for cell-type annotation and malignancy-associated glycan discovery",
+ "title_ko": "scGlycoAI: 세포 유형 주석 및 악성 종양 관련 당사슬 발굴을 위한 단일 세포 당사슬 및 RNA 시퀀싱 데이터 머신러닝 분석",
+ "trial": null,
+ "type": "paper"
+}

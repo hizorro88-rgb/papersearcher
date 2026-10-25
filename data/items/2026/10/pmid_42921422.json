@@ -1,0 +1,63 @@
+{
+ "abstract": "Boron carbon oxynitride (BCNO) nanoparticles are attractive boron-rich agents for boron neutron capture therapy (BNCT), yet their polymer-directed self-assembly, structural regulation, and delivery-function relationships remain insufficiently explored. Here, we report a stimuli-responsive polymer-BCNO nanoassembly, mPEG/PS-b-PEI@BCNO, that integrates macromolecular self-assembly with efficient boron utilization for BNCT against pancreatic cancer. The amphiphilic mPEG/PS-b-PEI copolymer was constructed by coupling methoxy poly-(ethylene glycol) (mPEG), polystyrene (PS), and poly-(ethylenimine) (PEI) through acid-labile Schiff-base linkages. Electrostatic complexation between negatively charged BCNO nanoparticles and cationic PEI, combined with solvent-driven amphiphilic assembly, generated spherical nanoassemblies with tunable morphology, size, and surface charge. Systematic variation of the mPEG/PS ratio revealed that the hydrophobic-hydrophilic balance of the copolymer governs BCNO packing and nanoassembly formation. The optimized mPEG/PS-b-PEI@BCNO nanoassemblies exhibited a uniform diameter of approximately 61 nm, positive surface charge, PEG-mediated colloidal stabilization, and acid-triggered disassembly into smaller BCNO-containing fragments under tumor-relevant acidic conditions. Despite a relatively low BCNO content of approximately 8 wt %, mPEG/PS-b-PEI@BCNO markedly improved boron delivery in UN-KC-6141 pancreatic cancer cells; the nanoassemblies achieved higher boron uptake efficiency than bare BCNO and boronophenylalanine (BPA). In 3D pancreatic tumor spheroids, mPEG/PS-b-PEI@BCNO delivered boron concentrations above the therapeutic threshold for BNCT and exhibited boron utilization efficiencies of 16.64% at pH 7.4 and 10.89% at pH 6.5. Under equivalent 10B dosing, the nanoassemblies produced the strongest BNCT response in 3D spheroids, inducing approximately 52% cell death and significantly outperforming bare BCNO and BPA. These findings demonstrate that polymer-controlled nanoassembly architecture enhances boron utilization without relying solely on high intrinsic boron loading, establishing a design framework for the next-generation BNCT nanodrugs.",
+ "authors": [
+  "Chan WH",
+  "Chen LA",
+  "Huang WY",
+  "Yu LS",
+  "Sun TC",
+  "Chen FH",
+  "Chen CS",
+  "Wang TW"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42921422",
+ "importance": 0.45,
+ "key_points_ko": [
+  "최적화된 나노조립체는 약 61 nm의 직경을 가지며 종양 산성 환경에서 선택적으로 분해됩니다.",
+  "약 8 wt %의 낮은 붕소 함량에도 기존 붕소소체(BPA) 및 순수 BCNO보다 뛰어난 붕소 전달 효율을 나타냈습니다.",
+  "3차원 췌장암 종양 스페로이드 모델에서 약 52%의 세포 사멸을 유도하여 가장 강한 BNCT 치료 반응을 보였습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1021/acsnanoscienceau.6c00088",
+  "nct": [],
+  "pmcid": "PMC13693259",
+  "pmid": "42921422"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-26",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ACS Nanosci Au",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42921422/"
+ },
+ "summary_ko": "붕소 옥시질화탄소(BCNO) 나노입자와 지능형 고분자를 결합하여 췌장암에 대한 붕소 중성자 포획 치료(BNCT) 효율을 높이는 나노조립체(mPEG/PS-b-PEI@BCNO) 연구 결과입니다. 이 나노조립체는 약 61 nm 크기로 종양 미세환경의 산성 조건에서 분해되도록 설계되었습니다. 췌장암 세포 및 3차원 종양 스페로이드 실험에서 기존 붕소 전달체인 BPA보다 우수한 붕소 전달력을 보렸습니다. 세포 실험에서 약 52%의 세포 사멸을 유도하며 뛰어난 항암 효과를 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Polymer-Directed Self-Assembly of BCNO Nanoparticles for Efficient Boron Utilization in Boron Neutron Capture Therapy",
+ "title_ko": "붕소 중성자 포획 치료의 붕소 활용 효율 향상을 위한 고분자 유도 BCNO 나노입자의 자가조립",
+ "trial": null,
+ "type": "paper"
+}

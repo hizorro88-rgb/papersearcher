@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Early recurrence after pancreatic resection is a major cause of treatment failure in pancreatic cancer. We evaluated whether a score combining carbohydrate antigen 125 (CA125) with the lymphocyte-to-monocyte ratio (LMR) could stratify recurrence risk across clinically relevant time windows.\nMETHODS: This retrospective cohort included 1,618 patients who underwent pancreatic cancer surgery. Recurrence within 6, 12, and 24 months was defined as ER6, ER12, and ER24, respectively, with ER12 prespecified as the primary endpoint. ER12-derived cutoffs were 44.760 U/mL for CA125 and 5.764 for LMR; one point was assigned for elevated CA125 and one for low LMR, yielding a 0-2 score. Discrimination was assessed using receiver operating characteristic curves and pairwise DeLong tests, and disease-free survival was evaluated using Kaplan-Meier analysis.\nRESULTS: ER12 occurred in 779 patients (48.1%). For ER12, the CA125-LMR score yielded an area under the curve (AUC) of 0.742 [95% confidence interval (CI), 0.720-0.764], with 91.4% sensitivity and 44.3% specificity. Its AUC exceeded those of CA125 alone (0.698; p < 0.001) and the CA19-9-LMR score (0.692; p < 0.001), but did not differ significantly from that of LMR alone (0.735; p = 0.463). The score showed AUCs of 0.694 for ER6 and 0.809 for ER24; at 24 months, LMR alone performed better (AUC, 0.835; p = 0.003). Disease-free survival decreased stepwise across scores 0, 1, and 2 (log-rank p < 0.001).\nCONCLUSION: The CA125-LMR score is a simple, interpretable tool for recurrence-risk stratification after pancreatic cancer surgery, with its clearest utility in early and intermediate time windows. External validation is required before clinical implementation.",
+ "authors": [
+  "Yi B",
+  "Tang X",
+  "Chen X",
+  "Tian Q"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42924252",
+ "importance": 0.7,
+ "key_points_ko": [
+  "전체 1,618명 중 48.1%(779명)에서 수술 후 12개월 이내 조기 재발이 발생했습니다.",
+  "12개월 내 재발 예측에서 CA125-LMR 점수의 AUC는 0.742로 CA125 단독(0.698) 및 CA19-9-LMR 점수(0.692)보다 유의하게 높았습니다(p < 0.001).",
+  "CA125-LMR 점수(0점, 1점, 2점)가 높아질수록 무병 생존기간(DFS)이 단계적으로 유의하게 감소했습니다(log-rank p < 0.001)."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.3389/fmed.2026.1971334",
+  "nct": [],
+  "pmcid": "PMC13689726",
+  "pmid": "42924252"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Med (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42924252/"
+ },
+ "summary_ko": "췌장암 절제 수술을 받은 환자 1,618명을 대상으로 당원항원 125(CA125)와 림프구 대 단핵구 비율(LMR)을 결합한 점수의 재발 예측 능력을 평가했습니다. 수술 후 12개월 이내 재발(ER12)을 주요 평가변수로 설정했을 때, CA125-LMR 점수의 곡선하면적(AUC)은 0.742로 높은 민감도(91.4%)를 나타냈습니다. 결합 점수는 CA125 단독 또는 CA19-9-LMR 결합 점수보다 예측 성능이 우수했으며, 점수가 높을수록 무병 생존기간(DFS)이 유의하게 감소했습니다. 연구진은 CA125-LMR 점수가 수술 후 조기 및 중기 재발 위험을 분류하는 간단한 도구이지만 임상 적용 전 외부 검증이 필요하다고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A combined carbohydrate antigen 125 and lymphocyte-to-monocyte ratio score stratifies time-window-specific recurrence after pancreatic cancer surgery",
+ "title_ko": "췌장암 수술 후 시기별 재발 위험을 계층화하는 CA125 및 림프구 대 단핵구 비율 결합 점수",
+ "trial": null,
+ "type": "paper"
+}

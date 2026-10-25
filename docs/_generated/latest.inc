@@ -1,40 +1,39 @@
-<div class="ps-stats"><div class="ps-stat"><b>772</b><span>누적 수집<br><small>논문·소식 297 · 임상시험 475</small></span></div><div class="ps-stat"><b>+25</b><span>오늘 신규<br><small>갱신 27건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>793</b><span>누적 수집<br><small>논문·소식 318 · 임상시험 475</small></span></div><div class="ps-stat"><b>+21</b><span>오늘 신규<br><small>갱신 29건</small></span></div><div class="ps-stat"><b>28</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-24](_generated/daily/2026/10/24.md)
+최근 수집일: [2026-10-25](_generated/daily/2026/10/25.md)
 
-<a id="nct-nct06989437"></a>
-#### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
-<small>A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue</small>
-
-`임상시험` `3상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2025-05-25 · ClinicalTrials.gov · Pfizer · 중요도 1.00
-
-**NCT06989437** · 2상/3상 · 모집 중 · 국내 10곳 · [참여 조건·기관 보기](_generated/trials/NCT06989437.md)
-
-전이성 췌관선암(mPDAC)과 악액질(체중 감소)을 진단받은 성인 환자를 대상으로 1차 표준 항암화학요법에 폰세그로맙(ponsegromab) 또는 위약을 추가 투여하여 유효성과 안전성을 비교하는 2b/3상 임상시험입니다. 환자들은 젬시타빈(gemcitabine)+나브파클리탁셀(nab-paclitaxel) 1주기 또는 폴피리녹스(FOLFIRINOX) 2주기를 완료한 직후 등록되어 4주 간격으로 피하 주사(SC) 치료를 받게 됩니다. 2b상 단계에서 최적 용량을 선정한 후 3상 단계로 확장하여 전체생존기간(OS) 등을 최종 평가합니다.
-
-- 악액질 기준을 충족하고 1차 항암화학요법의 첫 주기를 마친 전이성 췌관선암 환자 982명을 목표로 모집합니다.
-- 표준 항암요법(젬시타빈+나브파클리탁셀 또는 폴피리녹스)과 함께 4주마다 폰세그로맙 또는 위약을 피하 주사합니다.
-- 2b상에서 용량을 확정한 뒤 3상 이중맹검 연구를 진행하며, 종료 후 최대 12개월간의 오픈라벨 연장 투여 기회가 주어집니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06989437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06989437)</small>
-
----
 <a id="nct-nct07252232"></a>
-#### [절제된 췌장암 환자에서 daraxonrasib(다락소나십)을 평가하는 임상시험](https://clinicaltrials.gov/study/NCT07252232)
+#### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
 <small>Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-11-26 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07252232** · 3상 · 모집 중 · 국내 4곳 · [참여 조건·기관 보기](_generated/trials/NCT07252232.md)
 
-이 연구는 수술로 절제된 췌관선암(PDAC) 환자를 대상으로 신약 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 안전성과 유효성을 표준 치료인 관찰 요법과 비교하여 평가합니다. 전 세계적으로 진행되는 무작위 배정, 공개, 3상 임상시험입니다. 수술 전후 항암 치료를 완료한 환자를 대상으로 무병 생존기간(DFS) 개선 여부를 확인합니다. 목표 환자 수는 500명이며 국내 4개 기관이 참여합니다.
+수술 후 선행 및/또는 보조 항암화학요법을 마친 췌장관선암 환자를 대상으로 daraxonrasib(다락소나십)의 효과와 안전성을 표준 관찰 치료와 비교 평가하는 임상 3상 연구입니다. 신규 RAS(ON) 억제제인 daraxonrasib이 무질병 생존기간(DFS)을 향상시킬 수 있는지 확인합니다. 총 500명의 환자를 대상으로 진행되며 국내 4개 기관이 참여합니다.
 
-- 대상 질환은 수술로 절제된 췌관선암(PDAC)입니다.
-- 중재 치료는 RAS(ON) 억제제인 daraxonrasib(다락소나십)입니다.
-- 대조군은 표준 치료인 관찰(observation only) 요법입니다.
-- 주요 평가지표는 무병 생존기간(DFS)입니다.
+- 수술 및 수술 전후 다제 항암화학요법 치료를 마친 췌장관선암 환자 500명을 대상으로 하는 3상 임상시험입니다.
+- 표준 관찰 치료 대비 daraxonrasib(다락소나십) 치료의 무질병 생존기간(DFS) 개선 효과를 평가합니다.
+- 국내 4개 기관을 포함하여 글로벌 임상으로 환자를 모집 중입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
+
+---
+<a id="nct-nct02000089"></a>
+#### [췌장암 선별검사 연구-5 (CAPS5)](https://clinicaltrials.gov/study/NCT02000089)
+<small>The Cancer of the Pancreas Screening-5 CAPS5)Study</small>
+
+`임상시험` `3상` `진단·조기발견` · 2013-12-03 · ClinicalTrials.gov · Johns Hopkins University · 중요도 0.99
+
+**NCT02000089** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT02000089.md)
+
+이 연구는 췌장암 발생 위험이 높은 고위험군을 대상으로 췌장암을 조기에 발견하기 위한 제3상 선별 검사 임상시험입니다. 췌장암 가족력이 있거나 유전성 유전자 변이를 가진 환자를 대상으로 자기공명영상(MRI), 내시경 검사, CA19-9 종양 표지자 및 유전자 검사를 실시합니다. 존스 홉킨스 대학교(Johns Hopkins University) 주도로 진행되며 총 9,000명의 대상자를 추적 관찰합니다.
+
+- 유전성 췌장염, 펩츠-제거스 증후군, 췌장암 가족력 또는 생식세포 유전자 변이(BRCA1, BRCA2, PALB2, ATM 등) 보유자 9,000명을 대상으로 합니다.
+- MRI, 내시경, CA19-9 혈액 검사 및 유전자 검사를 통해 췌장 암 및 전암성 병변을 조기에 선별합니다.
+- 18세 이상의 췌장암 고위험군을 대상으로 조기 진단 가능성을 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02000089) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02000089)</small>
 
 ---
 <a id="pmid-42899395"></a>

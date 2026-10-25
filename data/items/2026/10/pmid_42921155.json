@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most challenging malignancies due to profound biological heterogeneity, complex stromal organization, and limited responsiveness to current immunotherapies. Recent advances in single-cell sequencing, spatial omics, digital pathology, and multimodal profiling have revealed that PDAC immune states are shaped not only by cellular composition but also by spatial organization, treatment context, and patient-specific evolutionary trajectories. However, the increasing complexity and fragmentation of biomedical evidence create substantial challenges for conventional artificial intelligence (AI) approaches that are typically optimized for predefined analytical tasks. Autonomous AI research agents represent an emerging paradigm that extends beyond predictive modeling by integrating scientific reasoning, retrieval of heterogeneous biomedical knowledge, computational tool orchestration, workflow adaptation, and evidence traceability. In this Review, we examine how agentic AI systems may contribute to PDAC immunology research, from characterization of immune ecosystems and spatial cellular interactions to biomarker discovery, neoantigen prioritization, and experimental protocol design. We distinguish AI agents from conventional task-specific models and discuss essential capabilities required for reliable biomedical research, including planning, tool use, verification, memory, provenance tracking, and human oversight. Despite promising technical demonstrations in biomedical domains, direct evidence supporting fully autonomous AI-driven discovery and validation in PDAC remains limited. Therefore, we propose a disease-oriented evaluation framework emphasizing benchmark task design, appropriate human and computational comparators, reproducibility assessment, and experimental validation. Future PDAC-specific AI research agents should prioritize evidence-aware reasoning, multimodal integration, calibrated uncertainty, and transparent computational-experimental workflows. Such systems may ultimately accelerate mechanistic discovery and precision immunology, while maintaining rigorous standards for biological validity, reproducibility, and responsible scientific practice.",
+ "authors": [
+  "Li Y",
+  "Li Y",
+  "Huang R",
+  "San ZQ",
+  "Ye JF"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42921155",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌장암의 면역 생태계와 복합 데이터를 종합 추론하기 위한 자율형 AI 연구 에이전트의 적용 가능성을 검토했습니다.",
+  "바이오마커 발굴 및 신항원 우선순위화 등 잠재력은 크지만, 췌장암에서 완전 자율 AI의 실제 검증 근거는 현재 부족합니다.",
+  "향후 안정적인 도입을 위해 엄격한 벤치마크 평가, 재현성 검증 및 인간 감독 프레임워크가 필수적임을 강조했습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1983838",
+  "nct": [],
+  "pmcid": "PMC13691739",
+  "pmid": "42921155"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42921155/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 복잡한 면역 미세환경과 면역치료 불응성을 분석하기 위해 자율형 인공지능(AI) 연구 에이전트의 활용 가능성을 다룬 종설 논문입니다. 기존의 단일 분석용 AI와 달리 과학적 추론, 지식 검색, 분석 도구 제어 능력을 갖춘 AI 에이전트가 신항원(neoantigen) 선별 및 바이오마커 발굴에 기여할 수 있음을 설명했습니다. 다만 현재 췌장암 분야에서 완전 자율형 AI를 통한 직접적인 발견과 실험적 검증 근거는 아직 제한적입니다. 연구진은 향후 재현성과 생물학적 신뢰성을 확보하기 위해 질환 맞춤형 벤치마크와 인간 연구자의 감독 체계가 필요하다고 제언했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Autonomous AI research agents in pancreatic ductal adenocarcinoma immunology: from multimodal evidence to experimental validation",
+ "title_ko": "췌관선암 면역학에서의 자율형 AI 연구 에이전트: 다중 모달 증거에서 실험적 검증까지",
+ "trial": null,
+ "type": "paper"
+}

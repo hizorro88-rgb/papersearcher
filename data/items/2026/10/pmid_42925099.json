@@ -1,0 +1,60 @@
+{
+ "abstract": "GalNAc-modified extracellular vesicles (EVs) derived from hypoxic pancreatic cancer cells and loaded with ANXA2 siRNA were developed to modulate the immunosuppressive tumor microenvironment (TME). Characterization confirmed successful surface modification and efficient siRNA loading in EVs with a diameter of approximately 100-120 nm. In vitro, these engineered EVs inhibited pancreatic cancer cell proliferation, migration, and invasion and promoted apoptosis. Additional cargo-matched comparison showed that GalNAc-modified hypoxic EVs carrying ANXA2 siRNA produced stronger ANXA2 silencing and more pronounced anti-migratory, anti-invasive, and pro-apoptotic effects than unmodified hypoxic EVs carrying the same siRNA, whereas GalNAc modification alone did not show an obvious independent antitumor effect. In a xenograft model, treatment reduced tumor volume by approximately 50% at week 4 and prolonged median survival from 45 to 60 days. Multi-omics and immune analyses suggested suppression of the PI3K/AKT signaling pathway and remodeling of the immunosuppressive TME, as reflected by increased CD8+ T-cell infiltration, reduced tissue-associated immunoreactivity for IL-6, IL-10, and TNF-α, and increased soluble IFN-γ, IL-2, and GM-CSF levels. These findings indicate that GalNAc-modified hypoxic EVs carrying ANXA2 siRNA can inhibit tumor progression and modulate the TME in pancreatic cancer, supporting their potential as a therapeutic delivery platform.",
+ "authors": [
+  "Ren D",
+  "Lu F",
+  "Zhang G",
+  "Yan S",
+  "Li T",
+  "Liu Z"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42925099",
+ "importance": 0.5,
+ "key_points_ko": [
+  "동물 모델에서 치료 4주 차에 종양 부피를 약 50% 감소시켰습니다.",
+  "동물 모델의 중앙 생존기간(median survival)을 45일에서 60일로 연장했습니다.",
+  "CD8+ T세포 침윤을 늘리고 조직 내 IL-6, IL-10, TNF-α 발현을 줄여 면역억제 미세환경을 재구성했습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1080/1061186X.2026.2730297",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42925099"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-22",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Drug Target",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42925099/"
+ },
+ "summary_ko": "저산소 췌장암 세포에서 유래하고 ANXA2 siRNA를 탑재한 GalNAc 개조 세포외 소포체(EVs) 전달 시스템에 대한 전임상 연구입니다. 세포 실험에서 이 치료제는 췌장암 세포의 증식, 이동, 침윤을 억제하고 세포 사멸을 촉진했습니다. 이식종 동물 모델에서는 4주 차에 종양 크기를 약 50% 감소시키고 중앙 생존기간을 45일에서 60일로 연장했습니다. 또한 CD8+ T세포 침윤을 늘리고 PI3K/AKT 신호 전달 경로를 억제하여 면역억제 종양 미세환경을 개선했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Glycosylated Hypoxic Tumor-Derived Extracellular Vesicles as a Targeted siRNA Delivery System to Remodel the Immunosuppressive Microenvironment in Pancreatic Cancer",
+ "title_ko": "당화된 저산소 종양 유래 세포외 소포체를 이용한 췌장암 면역억제 미세환경 개선 표적 siRNA 전달 시스템",
+ "trial": null,
+ "type": "paper"
+}

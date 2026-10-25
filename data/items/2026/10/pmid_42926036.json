@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) responds poorly to immune checkpoint blockade (ICB), largely because of its immunosuppressive and T-cell-excluded tumor microenvironment. While inducing immunogenic cell death (ICD) offers a promising strategy to enhance tumor immunogenicity, redox-targeted ICD inducers with defined molecular targets remain limited in PDAC. Here, a functional screen of natural compounds identified erianin as a potent ICD inducer in PDAC. Erianin triggered canonical ICD hallmarks, including cell-surface calreticulin exposure, extracellular release of HMGB1 and ATP, thereby promoting dendritic-cell maturation, antigen cross-presentation and CD8+ T-cell activation. Target-engagement assays together with genetic perturbation supported glutathione reductase (GSR) as a functionally important erianin target. Erianin decreased the GSH/GSSG ratio, accompanied by increased oxidative stress and preferential activation of the PERK-eIF2α-ATF4-CHOP branch of the endoplasmic reticulum (ER) stress response. Mutational and rescue experiments identified residue ARG-233 as an important residue required for GSR-dependent protection against erianin-induced redox stress and ICD. In syngeneic PDAC models, erianin-treated tumor cells elicited protective antitumor immunity in a tumor-challenge setting, while a therapeutic regimen combining erianin with anti-PD-1 antibody suppressed tumor growth and was associated with increased dendritic-cell activation and enhanced cytotoxic CD8+ T-cell infiltration. These findings define a GSR-associated redox-immune axis that links glutathione metabolism to immunogenic ER stress and provide a rationale for combining erianin with PD-1 blockade in immunologically cold PDAC.",
+ "authors": [
+  "Zhang C",
+  "Liu Y",
+  "Chen Y",
+  "Xu X",
+  "Sun Z",
+  "Tan R",
+  "Li Z",
+  "Zhang H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42926036",
+ "importance": 0.64,
+ "key_points_ko": [
+  "천연 성분인 에리아닌(erianin)이 글루타티온 환원효소(GSR)를 억제하여 췌장암 세포의 면역원성 세포 사멸(ICD)을 유도함을 확인했습니다.",
+  "에리아닌 투여는 칼레티쿨린 노출 및 HMGB1, ATP 방출을 통해 수지상세포 성숙과 CD8+ T세포 활성화를 유도했습니다.",
+  "췌장암 동물 모델에서 에리아닌과 항-PD-1 항체 병용 치료 시 종양 성장이 유의하게 억제되었습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218914",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42926036"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42926036/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 면역억제성 종양 미세환경으로 인해 면역관문억제제(ICB)의 치료 효과가 낮습니다. 본 전임상 연구에서는 천연 화합물인 에리아닌(erianin)이 글루타티온 환원효소(GSR)를 표적하여 산화 스트레스와 소포체(ER) 스트레스를 유발하고 면역원성 세포 사멸(ICD)을 일으킴을 규명했습니다. 마우스 동물 모델에서 에리아닌과 항-PD-1(anti-PD-1) 면역항암제를 병용했을 때 수지상세포 활성화와 세포독성 CD8+ T세포 침윤이 증가하며 종양 성장이 억제되었습니다. 이는 면역 반응이 차가운 췌장암에서 에리아닌과 면역항암제 병용 요법의 가능성을 제시하는 기초 연구 결과입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Erianin Targets Glutathione Reductase to Trigger Immunogenic Cell Death and Sensitize Pancreatic Cancer to PD-1 Blockade",
+ "title_ko": "에리아닌(Erianin)의 글루타티온 환원효소 표적을 통한 면역원성 세포 사멸 유도 및 췌장암의 PD-1 억제제 감수성 증대",
+ "trial": null,
+ "type": "paper"
+}

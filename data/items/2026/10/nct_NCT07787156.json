@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "diagnosis",
   "supportive",
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -20,12 +20,11 @@
  "id": "nct:NCT07787156",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 인원은 80명이며, 매사추세츠주에 거주하는 흑인, 라틴계, 메디케이드 가입자 80명이 무작위 배정됩니다.",
-  "참가자들은 온라인 교육 단독 또는 PanCAN(Pancreatic Cancer Action Network) 교육자의 전화 교육을 받습니다.",
-  "교육 후 유전자 검사 또는 다암종 조기 검사(MCED)를 선택적으로 진행할 수 있습니다.",
-  "연구의 주요 평가 변수는 유전자 검사 및 MCED 검사 완료율, 검사 결정 제공 여부, 연구 등록 및 유지율 등입니다."
+  "목표 인원은 매사추세츠주에 거주하는 80명의 참가자입니다.",
+  "참가자는 온라인 교육 단독 군 또는 PanCAN 전화 교육 군으로 무작위 배정됩니다.",
+  "주요 평가 항목은 유전자 검사 및 다암 조기 검출(MCED) 검사의 타당성, 수용성, 충실도입니다."
  ],
- "last_updated": "2026-10-24",
+ "last_updated": "2026-10-25",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07787156"
  },
- "summary_ko": "이 연구는 췌장암(PDAC) 위험이 높을 수 있는 사람들을 대상으로 유전자 검사와 다암종 조기 검사(MCED)에 대한 원격 교육 및 검사 접근성을 평가하는 임상시험입니다. 매사추세츠주에 거주하며 의료 접근성이 상대적으로 낮았던 흑인, 라틴계, 메디케이드(Medicaid) 가입자 80명을 대상으로 합니다. 참가자들은 온라인 교육 단독 군 또는 PanCAN 교육자와의 전화 교육이 포함된 군으로 무작위 배정됩니다. 연구의 주된 목적은 이 원격 접근 방식의 타당성, 수용성, 충실도를 확인하는 것입니다.",
+ "summary_ko": "이 연구는 췌장암(PDAC) 위험이 높을 수 있는 사람들을 대상으로 유전자 검사 및 다암 조기 검출(MCED) 검사에 대한 원격 교육과 검사 접근성을 평가하는 임상시험입니다. 매사추세츠주에 거주하며 의료 접근성이 상대적으로 낮았던 흑인, 라틴계, 메디케이드 가입자 80명을 대상으로 합니다. 참가자들은 무작위로 온라인 교육 단독 군 또는 췌장암 행동 네트워크(PanCAN) 교육자의 전화 교육이 포함된 군으로 배정됩니다. 주요 목표는 이 접근 방식의 타당성, 수용성, 충실도를 확인하는 것입니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic cancer",
@@ -60,7 +59,7 @@
   "Multi-cancer Early Detection (MCED) education"
  ],
  "title": "Reach and Engagement of GENetic Education, Risk Assessment, and TEsting Feasibility Trial",
- "title_ko": "췌장암 유전 교육, 위험 평가 및 검사 타당성 연구(REGENERATE Feasibility Trial)",
+ "title_ko": "유전성 췌장암 교육, 위험도 평가 및 검사 타당성 연구의 도달 및 참여(REGENERATE Feasibility Trial)",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -80,7 +79,7 @@
     "phone": "857-215-1892"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 50세 이상이거나 가족 중 가장 이른 췌장암(PDAC) 진단 연령보다 10년 어린 연령\n- 현재 메디케이드(Medicaid) 가입자 및/또는 흑인 및/또는 라틴계\n- MCED 검사에서 악성 가능성이 나타날 경우 보스턴의 다나파버 암센터(Dana-Farber Cancer Institute)로 진단 검사를 받으러 올 의향이 있는 자\n- 매사추세츠주 거주자\n- 췌장암 유전적 위험과 관련된 이전 다유전자 패널 유전자 검사 경험이 없는 자\n- 연구 설문조사를 완료하기 위한 인터넷 접속 가능자\n- 영어 구사자\n- 연구 설문조사 완료에 동의한 자\n- 본인 보고 기준 췌장암 진단을 받은 1촌 친족이 최소 1명 이상 있거나, 췌장암 관련 암 감수성 유전자에 병원성 또는 병원성 의심 변이가 있는 혈족이 있는 자\n\n제외 기준:\n- 50세 미만이거나 가족 내 가장 이른 췌장암 진단 연령의 10년 이내에 해당하지 않는 자\n- 최근 3년 이내 암 진단 이력이 있는 자 (비흑색종 피부암 제외)\n- 현재 임신 중인 자\n- 메디케이드 외의 보험 가입자이거나 흑인 또는 라틴계가 아닌 자\n- 췌장암 유전적 위험과 관련된 이전 유전자 검사 이력이 있는 자\n- 최근 3년 이내 유전 상담을 받은 자\n- 매사추세츠주 외 거주자\n- 영어가 아닌 다른 언어를 사용하는 자\n- 동일 가족에서 이미 3명이 연구에 등록된 자",
+  "eligibility_ko": "선정 기준:\n- 50세 이상이거나 가족 중 가장 이른 췌장암 진단 연령보다 10년 어린 나이\n- 현재 메디케이드(Medicaid) 가입자 및/또는 흑인 및/또는 라틴계\n- 다암 조기 검출(MCED) 검사에서 악성 종양 가능성이 의심될 경우 보스턴의 다나파버 암 센터(Dana-Farber Cancer Institute)로 방문할 의향이 있는 자\n- 매사추세츠주 거주자\n- 췌장암 유전 위험과 관련된 이전 다유전자 패널 유전자 검사 경험이 없는 자\n- 연구 설문조사를 완료하기 위한 인터넷 접속 가능자\n- 영어 구사자\n- 연구 설문조사 완료에 동의한 자\n- 참가자 보고 기준 췌장암 진단을 받은 직계 가족이 1명 이상 있거나, 췌장암 관련 암 감수성 유전자에 병원성 또는 병원성 의심 변이가 있는 혈연이 있는 자\n\n제외 기준:\n- 50세 미만이거나 가족 내 가장 이른 췌장암 진단 연령의 10년 범위 내에 속하지 않는 자\n- 최근 3년 이내 암 진단 이력이 있는 자(비흑색종 피부암 제외)\n- 현재 임신 중인 자\n- 메디케이드 외의 보험 가입자이거나 흑인 또는 라틴계가 아닌 인종/민족\n- 췌장암 유전 위험과 관련된 이전 유전자 검사 경험이 있는 자\n- 최근 3년 이내 유전 상담 이력이 있는 자\n- 매사추세츠주 외 거주자\n- 영어가 아닌 다른 언어 구사자\n- 동일 가족에서 이미 3명이 연구에 등록된 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged 50 years or older OR 10 years younger than the earliest PDAC diagnosis in a family member\n* Current Medicaid enrollment and/or Black and/or Latino/a\n* Willingness to travel to Dana-Farber Cancer Institute in Boston, MA, for diagnostic testing if MCED screening test indicates possible malignancy\n* Living in the state of Massachusetts\n* No prior multi-gene panel genetic testing related to PDAC genetic risk\n* Internet access to complete study surveys\n* English speaking\n* Willing to complete study surveys\n* At least one first-degree relative with a PDAC diagnosis by participant report OR Any blood relative with a known pathogenic or likely pathogenic variant in a cancer susceptibility gene related to PDAC by participant report (e.g. ATM, BRCA1, BRCA2, CDKN2A, EPCAM, MLH1, MSH2, MSH6, PALB2, STK11, or TP53)\n\nExclusion Criteria:\n\n* Less than age 50 years or age not within 10 years of the earliest PDAC diagnosis in their family\n* Cancer diagnosis in the last 3 years (excluding non-melanoma skin cancers)\n* Currently pregnant\n* Insurance other than Medicaid or race/ethnicity other than Black or Latino/a\n* Prior genetic testing related to PDAC genetic risk\n* Genetic counseling in the last 3 years\n* Living in a state other than Massachusetts\n* Language other than English\n* Three members of the same family already enrolled in the study",
   "enrollment": 80,
   "has_results": false,
@@ -99,13 +98,13 @@
    "ecog_max": null,
    "key_exclusions_ko": [
     "최근 3년 이내 암 진단 이력",
-    "현재 임신 중인 경우",
+    "현재 임신 중",
     "매사추세츠주 외 거주자"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "이전 췌장암 유전자 검사 이력이 없는 고위험군 참가자 대상의 원격 교육 및 검사 타당성 연구입니다.",
+   "notes_ko": "췌장암 고위험군이면서 매사추세츠주에 거주하는 흑인, 라틴계, 메디케이드 가입자 대상 유전자 검사 타당성 연구.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

@@ -22,12 +22,11 @@
  "id": "nct:NCT07252232",
  "importance": 1.0,
  "key_points_ko": [
-  "대상 질환은 수술로 절제된 췌관선암(PDAC)입니다.",
-  "중재 치료는 RAS(ON) 억제제인 daraxonrasib(다락소나십)입니다.",
-  "대조군은 표준 치료인 관찰(observation only) 요법입니다.",
-  "주요 평가지표는 무병 생존기간(DFS)입니다."
+  "수술 및 수술 전후 다제 항암화학요법 치료를 마친 췌장관선암 환자 500명을 대상으로 하는 3상 임상시험입니다.",
+  "표준 관찰 치료 대비 daraxonrasib(다락소나십) 치료의 무질병 생존기간(DFS) 개선 효과를 평가합니다.",
+  "국내 4개 기관을 포함하여 글로벌 임상으로 환자를 모집 중입니다."
  ],
- "last_updated": "2026-10-24",
+ "last_updated": "2026-10-25",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07252232"
  },
- "summary_ko": "이 연구는 수술로 절제된 췌관선암(PDAC) 환자를 대상으로 신약 RAS(ON) 억제제인 daraxonrasib(다락소나십)의 안전성과 유효성을 표준 치료인 관찰 요법과 비교하여 평가합니다. 전 세계적으로 진행되는 무작위 배정, 공개, 3상 임상시험입니다. 수술 전후 항암 치료를 완료한 환자를 대상으로 무병 생존기간(DFS) 개선 여부를 확인합니다. 목표 환자 수는 500명이며 국내 4개 기관이 참여합니다.",
+ "summary_ko": "수술 후 선행 및/또는 보조 항암화학요법을 마친 췌장관선암 환자를 대상으로 daraxonrasib(다락소나십)의 효과와 안전성을 표준 관찰 치료와 비교 평가하는 임상 3상 연구입니다. 신규 RAS(ON) 억제제인 daraxonrasib이 무질병 생존기간(DFS)을 향상시킬 수 있는지 확인합니다. 총 500명의 환자를 대상으로 진행되며 국내 4개 기관이 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
@@ -65,7 +64,7 @@
   "Resectable Pancreatic Ductal Adenocarcinoma"
  ],
  "title": "Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)",
- "title_ko": "절제된 췌장암 환자에서 daraxonrasib(다락소나십)을 평가하는 임상시험",
+ "title_ko": "수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -81,7 +80,7 @@
     "phone": "1-844-2-REVMED"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상이며 동의서를 제출한 환자\n- ECOG 수행능력 상태가 0 또는 1인 환자\n- 근치적 목적의 수술적 절제(R0/R1)가 성공적으로 이루어졌고 재발이나 전이 증거가 없는 조직학적으로 확진된 췌관선암(PDAC)\n- 수술 전후(선행, 보조, 또는 병용) 다제 항암화학요법을 받은 환자\n- 가장 최근의 치료를 12주 이내에 완료한 환자\n- 문서화된 RAS 변이 상태\n\n제외 기준:\n- 직접적인 RAS 표적 치료(예: 분해제 및/또는 억제제)를 받은 이력이 있는 환자\n- 임상시험용 의약품의 복용이나 흡수에 영향을 미칠 수 있는 상태\n- 무작위 배정 28일 이내에 대수술을 받은 환자\n- 프로토콜에서 요구하는 임상시험 방문이나 절차를 따를 수 없거나 거부하는 환자",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상\n• ECOG 수행능력 평가 점수 0점 또는 1점\n• 근치적 수술(R0/R1 절제)을 완료하고 재발이나 전이 소견이 없는 췌장관선암 확진 환자\n• 수술 전후(선행, 보조 또는 둘 다) 다제 항암화학요법을 받은 환자\n• 가장 최근 치료를 지난 12주 이내에 완료한 환자\n• RAS 변이 상태가 확인된 환자\n• 경구 약물 복용이 가능한 환자\n\n제외 기준:\n• 이전에 직접적인 RAS 표적 치료제(억제제 또는 분해제)를 투여받은 적이 있는 경우\n• 약물 복용이나 흡수 능력에 영향을 주는 질환이 있는 경우\n• 무작위 배정 전 28일 이내에 주요 수술을 받은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Histologically confirmed PDAC with successful (R0/R1) curative intent surgical resection and no evidence of recurrent or metastatic disease.\n* Must have received perioperative (neoadjuvant, adjuvant, or a combination of both) multi-agent chemotherapy.\n* Must have completed most recent treatment within the past 12 weeks.\n* Adequate organ function (bone marrow, liver, kidney, coagulation).\n* Documented RAS mutation status.\n* Able to take oral medications.\n\nExclusion Criteria:\n\n* Prior therapy with direct RAS-targeted therapy (eg. degraders and/or inhibitors).\n* Any conditions that may affect the ability to take or absorb study drug.\n* Major surgery within 28 days prior to randomization.\n* Patient is unable or unwilling to comply with protocol-required study visits or procedures.",
   "enrollment": 500,
   "has_results": false,
@@ -134,15 +133,17 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "직접적인 RAS 표적 치료 이력이 있는 경우",
-    "임상시험용 의약품 복용이나 흡수에 영향을 미치는 상태가 있는 경우",
-    "무작위 배정 28일 이내에 대수술을 받은 경우"
+    "이전 RAS 표적 치료제(억제제 또는 분해제) 투여 이력",
+    "약물 복용 및 흡수에 지장을 주는 질환",
+    "최근 28일 이내 주요 수술 이력"
    ],
-   "max_prior_lines": 0,
+   "max_prior_lines": null,
    "measurable_required": false,
-   "min_prior_lines": 0,
-   "notes_ko": "수술 후 보조치료를 마친 RAS 변이 절제된 췌장암 환자",
-   "prior_excluded": [],
+   "min_prior_lines": null,
+   "notes_ko": "수술 및 수술 전후 항암치료를 완료하고 재발이 없는 췌장암 환자 대상 3상 임상시험",
+   "prior_excluded": [
+    "KRAS_inhibitor"
+   ],
    "prior_required": [],
    "setting": [
     "adjuvant"

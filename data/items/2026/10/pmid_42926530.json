@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is projected to become the second leading cause of cancer-related mortality, with an increasing incidence and dismal 10% survival at 5 years despite best available care. PDAC is characterized by low tumour cellularity, recurrent driver mutation alterations, and substantial inter and intra-tumoural heterogeneity. The influence of individual genetic features such as sex and ancestry on tumour heterogeneity remains poorly understood.\nMETHODS: We assembled a cohort of PDAC across five datasets for a total of 7,527 tumours. Measures of genomic instability were assessed across sex and ancestry on a global level (SNV density and percent genome altered by copy number events), and at a gene level for recurrent events. KRAS variant frequencies, ploidy and mRNA abundance were also evaluated. Ancestry was assigned using ADMIXTURE from germline genotypes where available, and patient reported otherwise.\nRESULTS: We observed ancestry-specific mutation patterns in global point mutation density, with higher SNV burden in African PDAC tumours and lower SNV burden in Asian PDAC tumours as compared to European tumours. We also identified an ancestry bias in the driver gene, GNAS , in which driver SNVs in GNAS was detected more frequently in those of Asian ancestry, and less frequently in those of African ancestry. No sex- or ancestry-associations were found for KRAS , but individual KRAS variants showed a trend towards ancestry-related variation.\nCONCLUSIONS: These findings demonstrate that ancestry contributes to the genomic heterogeneity of PDAC, shaping both global and gene-specific mutation patterns. This work underscores the importance of including diverse ancestries in PDAC molecular profiling efforts which may inform the development of tailored molecular diagnostics and targeted therapies.",
+ "authors": [
+  "Chen CY",
+  "Arbet J",
+  "Zhu C",
+  "Oh J",
+  "Boutros PC"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42926530",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 5개 데이터셋에서 수집된 7,527건의 췌장암 종양 데이터를 바탕으로 유전체 변이 양상을 분석했습니다.",
+  "유럽계 대비 아프리카계 종양에서 단일염기변이(SNV) 밀도가 높았고, 아시아계 종양에서는 변이 밀도가 낮게 나타났습니다.",
+  "암 유발 유전자인 GNAS 변이는 아시아계 혈통 환자에서 더 자주 발견되었고, 아프리카계 환자에서는 덜 빈번하게 발견되었습니다.",
+  "KRAS 유전자 전체 변이 빈도는 성별이나 혈통에 따른 유의한 차이가 없었으나 개별 변이 아형별로는 혈통 간 차이 경향을 보였습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.64898/2026.10.06.757201",
+  "nct": [],
+  "pmcid": "PMC13692231",
+  "pmid": "42926530"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42926530/"
+ },
+ "summary_ko": "총 7,527건의 췌관선암(PDAC) 종양 데이터를 분석하여 성별과 인종적 혈통이 암의 유전체 불안정성과 변이 특성에 미치는 영향을 평가한 연구입니다. 연구 결과 전반적인 단일염기변이(SNV) 밀도에서 혈통별 차이가 확인되었으며, 유럽계에 비해 아프리카계는 변이 부담이 높고 아시아계는 낮았습니다. 또한 주요 암 유발 유전자인 GNAS 변이는 아시아계에서 더 흔하게 나타났습니다. 이번 연구는 혈통적 배경이 췌장암의 유전적 이질성에 기여하며 맞춤형 진단 및 표적 치료 개발 시 다양한 혈통을 고려해야 함을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The impact of sex and ancestry on the molecular landscape of pancreatic adenocarcinoma",
+ "title_ko": "성별 및 조상 혈통이 췌장암의 분자적 특성에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

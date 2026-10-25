@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is often diagnosed after the opportunity for curative treatment has passed. Blood-based biomarkers offer opportunities for earlier detection and serial molecular assessment, but their value depends on the intended clinical use. This nonsystematic narrative review critically examines circulating tumor DNA (ctDNA), circulating tumor cells, extracellular vesicles, circulating RNAs, proteins and multimodal panels, including models developed using artificial intelligence. We distinguish population screening, high-risk surveillance, diagnostic evaluation, molecular profiling, treatment monitoring and postoperative recurrence assessment. High discrimination in selected case-control cohorts does not establish performance in asymptomatic populations or clinical benefit. Differences in disease stage, comparator groups, sample handling and validation design preclude reliable ranking of biomarker classes using published area-under-the-curve values. ctDNA has a more established role in selected molecular-profiling situations than in early detection; postoperative detection and longitudinal changes provide prognostic information, but do not by themselves justify treatment modification. Multimodal assays require comparison with clinical assessment and CA19-9 at prespecified thresholds, external validation, calibration and evaluation of downstream harms and costs. This review presents an intended-use framework and a summary of representative prospective studies. Limitations include purposive, non-exhaustive evidence selection and the absence of formal risk-of-bias or certainty grading. Clinical translation requires reproducible assays and evidence that biomarker-informed decisions improve outcomes. Liquid biopsy should therefore be evaluated within defined clinical pathways alongside imaging, pathology and established molecular testing.",
+ "authors": [
+  "Kossenas K",
+  "Garmpis N",
+  "Karountzos N",
+  "Damaskos C"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42921021",
+ "importance": 0.62,
+ "key_points_ko": [
+  "ctDNA는 조기 암 발견보다는 특정 분자 프로파일링 상황에서 상대적으로 역할이 더 확립되어 있습니다.",
+  "수술 후 ctDNA 검출과 종단적 변화는 예후 예측에 도움을 주지만, 그 자체만으로 치료 변경을 결정하기에는 근거가 부족합니다.",
+  "다중 바이오마커 검사가 실제 임상에 적용되려면 CA19-9 및 표준 임상 평가와의 비교, 외부 검증, 그리고 환자 예후 개선에 대한 명확한 입증이 필요합니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.3389/fonc.2026.1962181",
+  "nct": [],
+  "pmcid": "PMC13691545",
+  "pmid": "42921021"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42921021/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 조기 발견 및 분자적 평가를 위한 혈액 기반 액체생검 기술의 임상적 유용성을 종합적으로 검토한 논문입니다. 순환종양DNA(ctDNA), 순환종양세포, 세포외소포체, 다중 바이오마커 패널 등의 임상적 적용 가능성을 선별검사, 진단, 분자 프로파일링, 치료 반응 모니터링, 수술 후 재발 평가 등으로 나누어 분석했습니다. 분석 결과 ctDNA는 조기 발견보다는 특정 분자 프로파일링 분야에서 역할이 더 확립되어 있었습니다. 수술 후 검출이나 시계열적 변화가 예후 정보를 제공하지만, 이 수치만으로 치료법을 변경하는 근거가 되지는 못하며 영상 및 병리 검사와 함께 평가되어야 함을 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Liquid biopsy in pancreatic ductal adenocarcinoma from diagnostic accuracy to clinical utility",
+ "title_ko": "췌관선암에서 액체생검: 진단 정확도부터 임상적 유용성까지",
+ "trial": null,
+ "type": "paper"
+}

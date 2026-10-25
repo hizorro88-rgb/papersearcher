@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: This case series describes 2 patients with locally advanced pancreatic ductal adenocarcinoma deemed unsuitable for surgical resection because of significant vascular involvement.\nCASE PRESENTATIONS: Both patients underwent trans-arterial micro perfusion (TAMP), a locoregional chemotherapy delivery technique utilizing the RenovoCath device, following prior multimodality therapy. We describe the clinical considerations that led to TAMP selection, technical aspects of treatment delivery, and subsequent biochemical and radiographic findings. Both patients demonstrated favorable local imaging changes and reductions in carbohydrate antigen 19-9 levels without major procedural complications. Given the small sample size and confounding effects of prior therapies, these observations should be interpreted cautiously.\nCONCLUSION: These cases illustrate the technical feasibility of TAMP administration in selected patients and underscore the need for prospective studies to better define its safety, efficacy, and role in the management of locally advanced pancreatic cancer.",
+ "authors": [
+  "Tiesi G",
+  "Sebastian W",
+  "Biswal R"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42924051",
+ "importance": 0.47,
+ "key_points_ko": [
+  "주요 혈관 침범이 있는 국소 진행성 췌장관선암 환자 2명을 대상으로 TAMP 치료를 시행했습니다.",
+  "두 환자 모두 주요 시술 합병증 없이 유리한 국소 영상학적 변화와 CA 19-9 수치 감소를 보였습니다.",
+  "이 관찰 결과는 소규모 증례와 이전 치료의 교란 효과로 인해 신중하게 해석되어야 합니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1159/cro/abzag013",
+  "nct": [],
+  "pmcid": "PMC13688632",
+  "pmid": "42924051"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-08-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Case Rep Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42924051/"
+ },
+ "summary_ko": "이 논문은 주요 혈관 침범으로 수술이 어려운 국소 진행성 췌장관선암(pancreatic ductal adenocarcinoma) 환자 2명을 대상으로 경동맥 미세 관류(trans-arterial micro perfusion, TAMP) 치료를 시행한 증례를 보고합니다. 두 환자는 RenovoCath 장비를 이용한 지역 국소 항암 화학요법(locoregional chemotherapy)을 받았으며 주요 시술 합병증 없이 영상학적 호전과 탄수화물 항원 19-9(carbohydrate antigen 19-9, CA 19-9) 수치 감소를 보였습니다. 소규모 증례이므로 안전성과 유효성을 확인하기 위한 전향적 연구가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Trans-Arterial Micro Perfusion in Locally Advanced Pancreatic Cancer: A Case Series and Review of Evidence",
+ "title_ko": "국소 진행성 췌장암에서의 경동맥 미세 관류: 증례 시리즈 및 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

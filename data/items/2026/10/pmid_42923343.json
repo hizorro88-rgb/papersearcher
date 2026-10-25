@@ -1,0 +1,61 @@
+{
+ "abstract": "INTRODUCTION: Prostate cancer (PCa) and pancreatic cancer (PC) are distinct malignancies with diverging epidemiological and prognostic profiles. PCa often mimics benign prostatic hyperplasia, while PC remains asymptomatic until advanced stages, complicating early detection. As cancer survivorship and screening improve, the incidence of synchronous multiple primary malignancies (MPMs) is rising, with emerging data suggesting a potential biological link between PCa and PC. Managing such cases requires a delicate balance of treatment sequencing and toxicity management. Reporting these rare encounters is vital for refining clinical strategies in complex oncologic presentations.\nCASE PRESENTATION: This report details the clinical course of a 76-year-old male diagnosed synchronously with high-grade ductal PCa and pancreatic adenocarcinoma. Staging via PSMA PET-CT incidentally identified a pancreatic tail mass with an unusually high SUVmax of 5.2. Despite initiating standard androgen deprivation therapy, the aggressive ductal variant exhibited a \"PSA escape\" following treatment interruption. As the pancreatic lesion progressed metastatically, the patient's refusal of conventional chemotherapy and a lack of genomic profiling prompted a salvage, \"last-resort\" combination of pembrolizumab and olaparib. While this strategy achieved temporary biochemical stabilization and slowed tumor growth, the patient eventually succumbed to metabolic dysregulation and multi-organ failure.\nCONCLUSIONS: This case highlights the diagnostic challenges of MPM management, specifically rare PSMA-avidity in primary pancreatic tumors which can mimic metastatic spread. While empirical immunotherapy and PARP inhibitor combinations may offer temporary clinical benefit in resource-limited settings, they cannot substitute for biomarker-guided precision medicine. Success depends on strict therapeutic adherence and early multidisciplinary coordination.",
+ "authors": [
+  "Herawati F",
+  "Kantono K",
+  "Indrawan T"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [
+  "olaparib"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42923343",
+ "importance": 0.54,
+ "key_points_ko": [
+  "PSMA PET-CT 검사에서 췌장 꼬리 부위 종양이 최대 표준섭취계수(SUVmax) 5.2를 보였습니다.",
+  "유전자 프로파일링 없이 경험적으로 펨브롤리주맙과 올라파립 병용 요법을 시도하여 일시적인 반응을 얻었습니다.",
+  "동시성 다발성 원발암에서는 유전체 기반 정밀 의료와 다학제 진료가 필수적임을 보여줍니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1159/cro/abzag052",
+  "nct": [],
+  "pmcid": "PMC13688330",
+  "pmid": "42923343"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Case Rep Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42923343/"
+ },
+ "summary_ko": "76세 남성 환자에서 고등급 관상 전립선암과 췌관선암이 동시에 진단된 희귀 증례입니다. PSMA PET-CT 검사를 통해 췌장 꼬리 부위의 종양이 우연히 발견되었습니다. 환자의 화학요법 거부로 펨브롤리주맙(pembrolizumab)과 올라파립(olaparib) 병용 구제 치료를 시도했습니다. 이 치료로 일시적인 종양 성장 지연 효과를 얻었으나 결국 다장기 부전으로 사망했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Challenges in Managing Synchronous Advanced Prostate and Pancreatic Cancers: A Case Report",
+ "title_ko": "동시성 진행성 전립선암과 췌장암 치료 관리의 과제: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

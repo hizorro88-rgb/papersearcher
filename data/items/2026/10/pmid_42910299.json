@@ -31,7 +31,7 @@
   "HMGA2는 hnRNPK의 유비퀴틴화를 억제하고 단백질 분해를 막아 YAP 유전자 발현을 촉진시켰습니다.",
   "HMGA2/hnRNPK-YAP 신호 축이 췌장암 간전이의 핵심 조절자이며 새로운 치료 표적이 될 수 있음을 규명했습니다."
  ],
- "last_updated": "2026-10-23",
+ "last_updated": "2026-10-25",
  "links": {
   "doi": "10.7150/ijbs.133139",
   "nct": [],
@@ -39,7 +39,8 @@
   "pmid": "42910299"
  },
  "pub_types": [
-  "Journal Article"
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
  ],
  "published_at": "2026-10-02",
  "relevance": 0.6,

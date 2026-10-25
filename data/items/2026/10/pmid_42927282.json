@@ -1,0 +1,61 @@
+{
+ "abstract": "The five-year survival rate for pancreatic cancer patients remains at 13%. Acute pancreatitis and chronic pancreatitis are risk factors for developing pancreatic cancer, suggesting a strong inflammatory role for disease initiation. Recently, we found that activin a (activin), a TGFβ superfamily member, drives inflammation in acute pancreatitis via recruitment of macrophages and activation of neutrophils. Here, we expand our studies in pancreatic cancer in the setting of inflammation and activin signaling. We performed digital spatial profiling (DSP) on a tissue section of human chronic pancreatitis with suspicion of pancreatic cancer to quantify more than 50 proteins relative to activin expression in situ. We found that activin co-localization is associated with reduced T cell activation and increased MAPK and PI3K signaling. These data suggest a previously underappreciated immunomodulatory role for activin in the setting of pancreatic cancer.",
+ "authors": [
+  "Jung B",
+  "Wiley MB",
+  "Bauer J",
+  "Wang Y",
+  "Intihar S",
+  "Fors R",
+  "Bialkowska A"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42927282",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장암 의심 만성 췌장염 조직에서 디지털 공간 프로파일링(DSP)을 사용해 50개 이상의 단백질을 분석했습니다.",
+  "액티빈 A 발현 부위에서는 T세포 활성화가 유의하게 감소해 면역 억제 환경이 형성되었습니다.",
+  "액티빈 A는 암 진행과 관련된 MAPK 및 PI3K 신호전달 증가와 상관관계를 보였습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": "PMC13695175",
+  "pmid": "42927282"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Trans Am Clin Climatol Assoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42927282/"
+ },
+ "summary_ko": "급성 및 만성 췌장염은 췌장암의 주요 위험 인자로 알려져 있습니다. 연구진은 이전 연구에서 액티빈 A(activin A)가 대식세포를 모으고 호중구를 활성화해 췌장염의 염증을 유발한다는 점을 확인했습니다. 이번 연구에서는 췌장암이 의심되는 만성 췌장염 환자 조직을 분석하여 액티빈 신호전달의 역할을 조사했습니다. 그 결과 액티빈 발현 부위에서 T세포 활성화가 감소하고 암 성장 신호인 MAPK 및 PI3K 경로가 활성화되는 연관성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ACTIVIN A PROMOTES PROGRESSION OF PANCREATITIS INTO PANCREATIC CANCER",
+ "title_ko": "액티빈 A는 췌장염의 췌장암 진행을 촉진합니다",
+ "trial": null,
+ "type": "paper"
+}

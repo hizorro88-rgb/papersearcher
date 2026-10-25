@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Rallis KS",
+  "Dionisio LM",
+  "Tarannum M",
+  "Romee R",
+  "Cancelas JA"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-25",
+ "history": [
+  {
+   "date": "2026-10-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42921225",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암을 대상으로 한 CAR-NK 세포 치료의 표적화 전략을 고찰한 뉴스 기사입니다.",
+  "이중 표적화에서 동적 표적화 전략으로의 연구 방향 전환을 다루고 있습니다.",
+  "세부적인 환자 수치나 치료 효과 지표는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-25",
+ "links": {
+  "doi": "10.1016/j.omton.2026.201358",
+  "nct": [],
+  "pmcid": "PMC13692148",
+  "pmid": "42921225"
+ },
+ "pub_types": [
+  "News"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Ther Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42921225/"
+ },
+ "summary_ko": "본 기사는 췌장암 치료를 위한 키메라 항원 수용체 자연살해(CAR-NK) 세포 치료 분야의 접근법 변화를 다룬 논평입니다. 기존의 이중 표적화 방식에서 벗어나 동적 표적화로 전환하는 최신 연구 동향을 재조명하고 있습니다. 구체적인 연구 데이터나 세부 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From dual targeting to dynamic targeting: Rethinking CAR-NK cell therapy for pancreatic cancer",
+ "title_ko": "이중 표적화에서 동적 표적화로: 췌장암에 대한 CAR-NK 세포 치료의 재고",
+ "trial": null,
+ "type": "paper"
+}
