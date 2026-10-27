@@ -16,12 +16,47 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 219건 · 최근 30일 219건
+전체 221건 · 최근 30일 221건
 
 월별 보기: [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct04858334"></a>
+#### [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자를 대상으로 올파라립(olaparib)과 위약을 비교하는 무작위 2상 이중맹검 연구](https://clinicaltrials.gov/study/NCT04858334)
+<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
+
+**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
+
+이 2상 임상시험은 수술로 췌장암을 절제하고 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 수술 및 항암화학요법 이후 유지 치료로서 olaparib(올파라립)의 효과를 평가합니다. 환자들은 무작위로 나누어져 olaparib 또는 위약(placebo)을 경구 투여받으며, 재발 없는 생존기간(RFS)과 전체 생존기간(OS) 등을 비교합니다. 연구의 주요 목적은 백금 기반 항암화학요법을 포함한 치료 후 olaparib 유지 요법이 재발 없는 생존기간에 미치는 이점을 확인하는 것입니다.
+
+- 목표 환자 수는 152명이며, 절제된 췌장암 및 병원성 BRCA1, BRCA2, PALB2 변이를 가진 환자가 참여합니다.
+- 환자들은 olaparib 투여군 또는 위약군으로 무작위 배정되며, 28일 주기로 최대 12주기 동안 약물을 복용합니다.
+- 주요 평가 변수는 무치유 목적의 수술 및 항암화학요법 완료 후 olaparib 추가에 따른 재발 없는 생존기간(RFS) 개선 여부입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
+
+---
+<a id="pmid-42932121"></a>
+#### [Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42932121/)
+`논문` `기타` `치료 전반` `수술` `진단·조기발견` · 2026-10-26 · PubMed · Ann Surg Oncol · 중요도 0.68
+
+PURPOSE: Our objective was to investigate the prognostic utility of combined carbohydrate antigen (CA) 19-9 and Duke pancreatic monoclonal antigen type 2 (DUPAN-2) levels in patients undergoing curative-intent surgery for initially unresectable locally advanced (URLA) pancreatic ductal adenocarcinoma (PDAC). METHODS: Data from patients who underwent curative-intent surgery for URLA PDAC from June 2010 to December 2024 were investigated.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42932121/) · [DOI](https://doi.org/10.1245/s10434-026-20710-4) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42932121)</small>
+
+---
+<a id="pmid-42929985"></a>
+#### [Differential Prognostic Associations of Monocyte-Containing and Traditional Systemic Inflammatory Indices with Overall Survival After Resection or Palliative Bypass for Pancreatic Cancer: A Retrospective Cohort Study](https://pubmed.ncbi.nlm.nih.gov/42929985/)
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-09-28 · PubMed · Diseases · 중요도 0.66
+
+BACKGROUND/OBJECTIVES: Systemic inflammatory indices may differ prognostically between resectable and palliative pancreatic cancer. We compared associations of the aggregate index of systemic inflammation (AISI), systemic inflammation response index (SIRI), neutrophil-to-lymphocyte ratio (NLR), systemic immune-inflammation index (SII), and monocyte-to-lymphocyte ratio (MLR) with overall survival after pancreatic resection or palliative bypass.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42929985/) · [DOI](https://doi.org/10.3390/diseases14100358) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42929985)</small>
+
+---
 <a id="nct-nct07252232"></a>
 #### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
 <small>Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
@@ -37,23 +72,6 @@ search:
 - 국내 4개 기관을 포함하여 글로벌 임상으로 환자를 모집 중입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
-
----
-<a id="nct-nct04858334"></a>
-#### [APOLLO: 절제술을 받은 BRCA1, BRCA2 또는 PALB2 변이 췌장암 환자에서 근치적 치료 후 올라파립 대 위약을 비교하는 무작위 배정 2상 이중맹검 연구](https://clinicaltrials.gov/study/NCT04858334)
-<small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
-
-**NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
-
-이 연구는 수술 및 항암화학요법을 완료한 췌장암 환자를 대상으로 올라파립(Olaparib) 유지요법의 효과를 평가하는 2상 임상시험입니다. 대상은 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있고 근치적 수술 및 최소 12주의 수술 전후 항암치료를 마친 환자입니다. 환자들은 올라파립 복용군과 위약 복용군으로 무작위 배정되어 28일 주기로 최대 12주기 동안 치료를 받습니다. 본 연구의 주요 목적은 올라파립 유지요법이 무재발 생존기간(RFS)을 개선하는지 확인하는 것입니다.
-
-- BRCA1, BRCA2 또는 PALB2 유전자 변이가 있고 수술을 성공적으로 받은 췌장암 환자 152명을 대상으로 합니다.
-- 최소 3개월(12주) 이상의 수술 전후 항암화학요법을 완료하고 재발 소견이 없는 상태에서 참여합니다.
-- 올라파립 또는 위약을 하루 2회, 28일 주기로 최대 12주기(약 1년) 동안 복용하며 무재발 생존기간(RFS)을 비교 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
 
 ---
 <a id="nct-nct07444541"></a>
@@ -2421,40 +2439,5 @@ IMPULS 임상시험은 수술이 예정된 췌장암 환자 30명을 대상으�
 - 연구는 미국 버지니아 대학교(University of Virginia)에서 진행합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06479239) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06479239)</small>
-
----
-<a id="nct-nct06483555"></a>
-#### [기저형 췌장암(Basal-like PDAC) 환자를 대상으로 젬시타빈(Gemcitabine), 엘로티닙(Erlotinib), 냅-파클리탁셀(Nab-paclitaxel)을 평가하는 임상시험](https://clinicaltrials.gov/study/NCT06483555)
-<small>Basal-like PDAC Treated With Gemcitabine, Erlotinib, and Nab-paclitaxel</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2024-07-03 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.80
-
-**NCT06483555** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06483555.md)
-
-이 1상 및 2상 임상시험은 진행성 췌장암 환자를 대상으로 표준 항암화학요법인 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab paclitaxel) 조합에 저용량 표피성장인자수용체(EGFR) 차단제를 추가하는 치료의 안전성과 효과를 평가합니다. 모든 참가자는 PurIST 검사를 통해 종양을 '기저형(basal-like)'과 '전형형(classical)'으로 분류하며, 기저형 환자들은 erlotinib이 포함된 치료를 받게 됩니다. 연구진은 전체 생존기간(overall survival), 무진행 생존기간(progression-free survival), 그리고 종양 반응률을 추적 관찰합니다. 전형형 환자들은 의사가 권장하는 표준 치료나 다른 임상시험을 계속 진행합니다.
-
-- 임상시험의 목표 인원은 총 104명 이상입니다.
-- 참가자들은 PurIST 도구를 사용하여 종양 아형(기저형 또는 전형형)을 먼저 검사받습니다.
-- 기저형 췌장암 환자를 대상으로 젬시타빈, 냅-파클리탁셀, 엘로티닙 병용요법의 안전성과 효과를 평가합니다.
-- 전체 생존기간, 무진행 생존기간, 종양 반응률 등의 장기적 결과를 추적합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06483555) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06483555)</small>
-
----
-<a id="nct-nct06587061"></a>
-#### [췌장암의 수술 전후 보조 치료를 위한 HRS-4642와 AG 병용 요법 임상시험](https://clinicaltrials.gov/study/NCT06587061)
-<small>HRS-4642 in Combination With AG for Neoadjuvant and Adjuvant Treatment of Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2024-09-19 · ClinicalTrials.gov · Ruijin Hospital · 중요도 0.80
-
-**NCT06587061** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06587061.md)
-
-이 연구는 수술 가능 및 경계성 절제 가능 췌장암(pancreatic cancer) 환자를 대상으로 HRS-4642와 젬시타빈(gemcitabine), 알부민 결합 파클탁셀(albumin-bound paclitaxel, AG) 병용 투여의 안전성과 유효성을 평가하기 위한 단일기관 공개 탐색적 2상 임상시험입니다. 총 30명의 환자를 목표로 진행되며 수술 전 선행치료(neoadjuvant treatment)와 수술 후 보조치료(adjuvant treatment)로서의 효과를 확인하고자 합니다. 초록에 구체적인 생존기간이나 반응률 수치는 명시되지 않았습니다.
-
-- 목표 환자 수는 총 30명이며 18세부터 80세까지의 췌관선암(ductal adenocarcinoma of the pancreas) 환자가 참여합니다.
-- 중재 치료로 신약 HRS-4642와 AG(gemcitabine 및 albumin-bound paclitaxel) 병용 요법을 사용합니다.
-- 초록에 구체적인 유효성 및 안전성 수치는 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06587061) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06587061)</small>
 
 ---

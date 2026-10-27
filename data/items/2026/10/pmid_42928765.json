@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic adenocarcinoma is one of the deadliest types of cancer, with a very gloomy prognosis, especially if the cancer is at an advanced stage at the time of diagnosis. Among young adults, the vague symptoms that are usual with pancreatic cancer can be confused with those of a benign biliary condition, so the diagnosis is often late. It may be quite challenging to recognize that a bile duct obstruction with jaundice is due to a periampullary tumor, which is similar to a bile duct stone, unless one suspects it very strongly. We present the case of a 38-year-old man who suffered from increasing abdominal pain, significant weight loss, and obstructive jaundice. An initial triphasic CT showed the presence of dilated intrahepatic biliary ducts and a dilated common bile duct (CBD) with duodenal spots that were thought to be passed gallstones. At the same time, a liver lesion was identified as a probable hemangioma. The diagnosis was postponed even though the liver function tests were progressively deteriorating (total bilirubin increased to 10.4 mg/dL and alkaline phosphatase to 1394 U/L). Further endoscopic retrograde cholangiopancreatography (ERCP) revealed a distal CBD stricture without stones; therefore, a plastic stent was placed. No tissue sampling was obtained during ERCP. Five months later, an extremely high carbohydrate antigen 19-9 (CA 19-9) (>500 U/mL) and a repeat triphasic CT showed a 43 × 45 mm pancreatic head tumor with liver and lung metastases. These findings supported a clinical-radiological diagnosis of metastatic pancreatic malignancy, presumed pancreatic adenocarcinoma; histopathological confirmation of the pancreatic or hepatic lesions was not obtained. Subsequent ascitic fluid cytology showed malignant cells consistent with adenocarcinoma, but immunocytochemistry was not available, so the pancreatic primary was not independently established. This case highlights that if a biliary stricture occurs without a stone that can be identified in a patient with progressive obstructive jaundice, the stricture should be considered malignant until demonstrated otherwise. Early obtaining of tissue for diagnosis and appropriate use of tumor markers as supportive rather than definitive tests are the main elements to steer clear of a long diagnostic odyssey.",
+ "authors": [
+  "Farooq A",
+  "Saud J",
+  "Sisay HE",
+  "Hanif H",
+  "Subhan M",
+  "Alfadhli A"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928765",
+ "importance": 0.54,
+ "key_points_ko": [
+  "진단 지연 과정에서 총빌리루빈 수치가 10.4 mg/dL, 알칼리성 포스파타제(ALP) 수치가 1394 U/L까지 악화되었습니다.",
+  "ERCP 시행 당시 결석 없는 원위부 총담관 협착을 확인하고 플라스틱 스텐트를 유치했으나 조직 검사는 시행되지 않았습니다.",
+  "5개월 후 탄수화물 항원 19-9(CA 19-9) 수치가 500 U/mL 초과로 상승하였고 췌장 두부에 43 × 45 mm 크기의 종양과 간 및 폐 전이가 발견되었습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.7759/cureus.116897",
+  "nct": [],
+  "pmcid": "PMC13695861",
+  "pmid": "42928765"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928765/"
+ },
+ "summary_ko": "복통, 체중 감소 및 폐쇄성 황달을 보인 38세 남성 환자에서 전이성 췌장암 진단이 지연된 증례를 보고합니다. 초기 검사에서 담도 확장 및 간 혈관종 의심 소견이 관찰되었으며 내시경 역행 췌담관 조영술(ERCP) 중 조직 검사를 시행하지 않아 진단이 지연되었습니다. 5개월 후 CA 19-9 수치 상승과 함께 췌장 두부의 종양 및 간, 폐 전이가 확인되었습니다. 결석 없이 담도 협착과 진행성 황달이 나타나는 경우 조기 조직 검사를 통한 진단이 매우 중요함을 강조합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From Choledocholithiasis to Metastatic Pancreatic Adenocarcinoma: A Diagnostic Odyssey Highlighting Missed Red Flags",
+ "title_ko": "담도결석에서 전이성 췌장암으로: 간과된 경고 신호를 조명하는 진단 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

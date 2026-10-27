@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic cancer (PC) is among the most lethal malignancies with slower progress in overall survival and treatment options compared to other cancers. The 2025 Canadian National Pancreas Conference (NPC)-the third biennial event of its kind-was hosted by Craig's Cause Pancreatic Cancer Society and the Baker Centre for Pancreatic Cancer in November 2025 in London, Ontario, co-organized by the Canadian Association of General Surgeons (CAGS) with accreditation through the Royal College of Physicians and Surgeons of Canada. The event brought together experts across healthcare disciplines as well as researchers, students, and allied professionals to discuss the latest advances in treatment and management of this complex disease. The conference featured presentations, workshops, and discussions on the current landscape of treatment and management of PC with an emphasis on the increasing significance of genomic sequencing, equitable care, and a multidisciplinary approach.",
+ "authors": [
+  "Nickerson JL",
+  "Condon-Oldreive S",
+  "Tsang E",
+  "Zogopoulos G",
+  "Ouellette R",
+  "Haçariz O",
+  "Pascual BA",
+  "Serrano PE"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42930196",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.3390/curroncol33100629",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42930196"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42930196/"
+ },
+ "summary_ko": "Pancreatic cancer (PC) is among the most lethal malignancies with slower progress in overall survival and treatment options compared to other cancers. The 2025 Canadian National Pancreas Conference (NPC)-the third biennial event of its kind-was hosted by Craig's Cause Pancreatic Cancer Society and the Baker Centre for Pancreatic Cancer in November 2025 in London, Ontario, co-organized by the Canadian Association of General Surgeons (CAGS) with accreditation through the Royal College of Physician…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Canadian National Pancreas Conference 2025: Recent Advances in Patient-Centred Management of Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

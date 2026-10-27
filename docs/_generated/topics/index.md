@@ -13,7 +13,7 @@ search:
 
 | 주제 | 종류 | 항목 수 | 최근 갱신 |
 |---|---|---|---|
-| [daraxonrasib](daraxonrasib.md) | 약물 | 12 | 2026-10-23 |
+| [daraxonrasib](daraxonrasib.md) | 약물 | 13 | 2026-10-27 |
 | [zoldonrasib](zoldonrasib.md) | 약물 | 3 | 2026-10-18 |
 | [elironrasib](elironrasib.md) | 약물 | 0 | - |
 | [sotorasib](sotorasib.md) | 약물 | 1 | 2026-10-25 |

@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer remains one of the most fatal tumors, with a 5-year survival rate of less than 10%, owing mostly to late-stage detection and inadequate treatment efficiency. The pressing need for novel diagnostic and therapeutic approaches has sparked interest in genetic biomarkers and ultrasound-based precision therapies. Circular RNAs (circRNAs) have recently been identified as intriguing regulatory molecules with diagnostic, prognostic, and therapeutic applications.\nMETHODS: A comprehensive study of transcriptome and clinical datasets revealed that hsa_circ_0004870 is significantly elevated in pancreatic cancer tissues and is linked with poor patient outcomes. Functional tests, including colony formation, cell counting kit-8, flow cytometry, wound healing, and Transwell invasion studies, were used to evaluate its biological roles. Bioinformatic predictions, along with dual-luciferase reporter assays, revealed the hsa_circ_0004870/miR-3124-3p/TRIM24 regulatory axis. In vivo xenograft research and immunohistochemistry analyses supported these findings. In addition, the authors developed an ultrasound-mediated biophysical modulation model to investigate the potential therapeutic control of this axis.\nRESULTS: hsa_circ_0004870 was highly overexpressed in pancreatic cancer cells, which increased proliferation, migration, and invasion. It acts as a competitive endogenous RNA, sequestering miR-3124-3p, resulting in increased TRIM24 and tumorigenic behavior. In vivo, silencing hsa_circ_0004870 reduced tumor development significantly. Combining these findings with developments in ultrasound-targeted gene and molecular delivery technology suggests that ultrasound-mediated manipulation of the hsa_circ_0004870 axis might provide a precise and noninvasive therapeutic method to overcome resistance and enhance localized cancer management.\nCONCLUSIONS: hsa_circ_0004870 was overexpressed in pancreatic cancer cells, resulting in enhanced proliferation, migration, and invasion. It works as a competitive endogenous RNA, sequestering miR-3124-3p, leading to enhanced TRIM24 and tumorigenic behavior. In vivo, suppressing hsa_circ_0004870 dramatically decreased tumor growth. Combining these findings with advances in ultrasound-targeted gene and molecular delivery technology, it appears that ultrasound-mediated manipulation of the hsa_circ_0004870 axis could provide a precise and noninvasive therapeutic method for overcoming resistance and improving localized cancer management.",
+ "authors": [
+  "Lv C",
+  "Fan X",
+  "Wang G",
+  "Sun H",
+  "Chen D",
+  "Shen T",
+  "Zhu T",
+  "Xia C"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928620",
+ "importance": 0.52,
+ "key_points_ko": [
+  "hsa_circ_0004870은 췌장암 조직에서 유의하게 높게 발현되며 예후 불량과 연관되어 있습니다.",
+  "hsa_circ_0004870은 miR-3124-3p를 억제하고 TRIM24를 증가시켜 종양 유발 성질을 강화합니다.",
+  "생체 내(in vivo) 실험에서 hsa_circ_0004870의 발현을 억제했을 때 종양 성장이 크게 감소했습니다.",
+  "초음파 매개 전달 기술을 결합하면 이 경로를 조절하여 국소 암 치료를 개선할 수 있는 가능성이 확인되었습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.1177/10849785251412134",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42928620"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-10",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Biother Radiopharm",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928620/"
+ },
+ "summary_ko": "이 연구는 췌장암 조직에서 과발현되는 환상 RNA(circRNA)인 hsa_circ_0004870의 예후 및 치료적 역할을 조사했습니다. 연구진은 전사체 데이터 분석과 실험을 통해 hsa_circ_0004870이 세포 증식, 이동, 침윤을 촉진하는 기전을 규명했습니다. 또한 초음파를 이용한 생물물리학적 조절 모델을 통해 이 경로를 비침습적으로 제어할 수 있는 가능성을 제시했습니다. 췌장암의 5년 생존율은 10% 미만입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Ultrasound-Mediated Modulation of circRNA hsa_circ_0004870 as a Prognostic and Therapeutic Biomarker in Pancreatic Cancer",
+ "title_ko": "췌장암에서 예후 및 치료 바이오마커로서 환상 RNA hsa_circ_0004870의 초음파 매개 조절",
+ "trial": null,
+ "type": "paper"
+}

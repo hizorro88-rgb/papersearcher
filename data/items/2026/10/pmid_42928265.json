@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer patients demonstrate elevated vulnerability to depression and anxiety relative to other gastrointestinal malignancies, attributable to the disease's dismal prognosis and substantial symptom burden. However, symptom-level relationships among anxiety, depression, and resilience in pancreatic cancer remain insufficiently understood. Therefore, this study employed network analysis to investigate the interrelationships among anxiety, depression, and psychological resilience in the population. Additionally, a comparative analysis of the network structure was conducted to explore gender differences. Ultimately, this study aims to provide theory-driven intervention strategies and practical guidelines for supporting the mental health of patients diagnosed with pancreatic cancer.\nMETHOD: This cross-sectional study enrolled 759 patients with pancreatic cancer from Guangzhou, China, between June 2024 and July 2025. Anxiety, depression, and resilience were assessed using the Hospital Anxiety and Depression Scale (HADS) and Brief Resilience Scale (BRS). A regularized partial correlation network was constructed based on the survey data, and the bridge expected influence index was applied to quantify the bridge components. We also compared the network structures of male and female samples to explore sex differences.\nRESULTS: The prevalence rates of anxiety and depression were 24.2% and 30.3%, respectively. A7 \"Panic\" (0.903) was the core symptom in the anxiety, depression, and resilience symptom networks. R1 \"Bounce back quickly\" (-3.342) was the core bridge symptom connecting the three network clusters. A comparison of male and female networks indicated that the overall network structure exhibited no significant sex differences; however, the global strength of the female network was significantly higher. The strongest positive associations remained consistent across the male and female networks (R1 \"Bounce back quickly\" and R3 \"Recover from stress quickly\"). A7 \"Panic\" emerged as a shared core symptom in both male and female networks.\nCONCLUSION: \"Panic\" was identified as the central symptom in the anxiety-depression-resilience symptom networks, while \"Bounce back quickly\" served as the key bridge node connecting these three symptom clusters. These findings provide potential symptom-level targets for future psychological assessments and intervention research. Additionally, there were significant differences in global strength between male and female networks, with gender-specific strategies recommended for each.",
+ "authors": [
+  "Cheng H",
+  "Zhuang X",
+  "Zhao Y",
+  "He Q",
+  "Zhang H",
+  "Han Y"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928265",
+ "importance": 0.65,
+ "key_points_ko": [
+  "췌장암 환자의 불안 유병률은 24.2%, 우울 유병률은 30.3%로 측정되었습니다.",
+  "증상 분석 결과 '공포감'이 우울·불안·회복탄력성 네트워크의 가장 중심적인 증상이었습니다.",
+  "'빠르게 털고 일어남'이라는 회복탄력성 항목이 심리적 위험 증상과 회복력을 잇는 핵심 매개체로 나타났습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.1186/s40359-026-05266-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42928265"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-29",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Psychol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928265/"
+ },
+ "summary_ko": "본 연구는 중국 광저우에서 췌장암 환자 759명을 대상으로 불안, 우울, 심리적 회복탄력성 간의 상호작용과 성별 차이를 분석했습니다. 연구 결과 췌장암 환자의 불안 유병률은 24.2%, 우울 유병률은 30.3%로 나타났습니다. 증상 네트워크 분석에서 '공포감(Panic)'이 핵심 증상이었으며, '빠르게 털고 일어남(Bounce back quickly)'이 주요 매개 증상으로 확인되었습니다. 남녀 간 전체 네트워크 구조는 유사했으나 여성 환자군에서 네트워크 연결 강도가 더 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Network analysis of the relationship between anxiety, depression and resilience in patients with pancreatic cancer and gender differences",
+ "title_ko": "췌장암 환자의 불안, 우울, 회복탄력성 간의 관계 및 성별 차이에 대한 네트워크 분석",
+ "trial": null,
+ "type": "paper"
+}

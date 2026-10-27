@@ -1,0 +1,58 @@
+{
+ "abstract": "Endoscopic ultrasound-guided tissue acquisition for pancreatic solid tumors has become essential in diagnostic practice. Although endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) has demonstrated high diagnostic accuracy, its cytology-based samples often limit histologic evaluation, immunohistochemistry, and molecular testing. To overcome these limitations, end-cutting fine-needle biopsy (EUS-FNB) needles-notably Franseen and fork-tip designs-were developed to obtain well-preserved core tissue. These needles improve diagnostic accuracy, tissue adequacy, and sampling efficiency compared with FNA or reverse-bevel devices. Technical refinements have also improved outcomes. Fanning and torque maneuvers enhance tissue sampling across heterogeneous tumors, while aspiration strategies such as slow-pull, wet suction, and heparinized wet suction optimize core tissue preservation and reduce blood contamination. Macroscopic on-site evaluation confirms specimen adequacy, often reducing required needle passes without cytopathology support. Although generally safe, endoscopic ultrasound-guided sampling may cause bleeding, infection, pancreatitis, or rare needle-tract seeding. Careful needle selection, minimizing needle passes, and attention to anatomical relationships are crucial to mitigating these risks. Current evidence does not support routine prophylactic antibiotic use for solid lesions. As precision oncology increasingly relies on molecular profiling and next-generation sequencing, reliable procurement of high-quality tissue has become more important. This review summarizes advances in needle design, sampling techniques, on-site evaluation, antibiotic considerations, and complication management in endoscopic ultrasound-guided tissue sampling of pancreatic solid tumors.",
+ "authors": [
+  "Kim WJ",
+  "Han SY"
+ ],
+ "categories": [
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928003",
+ "importance": 0.69,
+ "key_points_ko": [
+  "프란신(Franseen) 및 포크팁(fork-tip) 디자인의 미세침 생검(EUS-FNB) 바늘은 기존 미세침 흡인술(EUS-FNA)보다 진단 정확도와 조직 적절성을 개선합니다.",
+  "완만 흡인법(slow-pull) 및 습식 흡인법(wet suction) 등의 흡인 기술은 혈액 오염을 줄이고 고품질 코어 조직 보존을 최적화합니다.",
+  "육안적 현장 평가(MOSE)를 활용하면 조직의 적절성을 즉시 확인하여 불필요한 바늘 천자 횟수를 줄일 수 있습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.4166/kjg.2025.148",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42928003"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-25",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Korean J Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928003/"
+ },
+ "summary_ko": "췌장 고형 종양의 진단을 위한 초음파내시경 유도하 조직 채취(EUS-guided tissue acquisition) 기술의 최신 동향을 정리한 종설 논문입니다. 기존 미세침 흡인술(EUS-FNA)은 세포학적 검사에 치중되어 조직학적 검사나 정밀 분자 검사에 한계가 있었으나, 절단형 미세침 생검(EUS-FNB) 바늘의 도입으로 우수한 조직 절편을 확보할 수 있게 되었습니다. 부채꼴 기법(fanning)과 완만 흡인법(slow-pull), 습식 흡인법(wet suction) 등의 기술적 개선을 통해 혈액 오염을 줄이고 고품질 조직 채취가 가능해졌습니다. 출혈, 췌장염, 바늘 경로 파종(needle-tract seeding) 등의 합병증 위험을 낮추기 위해 미세침 천자 횟수를 최소화하는 조치가 중요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Endoscopic Ultrasound-Guided Tissue Acquisition of Pancreatic Solid Tumors]",
+ "title_ko": "췌장 고형 종양의 초음파내시경 유도하 조직 채취법",
+ "trial": null,
+ "type": "paper"
+}

@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 26건 · 최근 30일 26건
+전체 27건 · 최근 30일 27건
 
 월별 보기: [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42928003"></a>
+#### [췌장 고형 종양의 초음파내시경 유도하 조직 채취법](https://pubmed.ncbi.nlm.nih.gov/42928003/)
+<small>[Endoscopic Ultrasound-Guided Tissue Acquisition of Pancreatic Solid Tumors]</small>
+
+`논문` `종설` `진단·조기발견` `제약사·규제` · 2026-10-25 · PubMed · Korean J Gastroenterol · 중요도 0.69
+
+췌장 고형 종양의 진단을 위한 초음파내시경 유도하 조직 채취(EUS-guided tissue acquisition) 기술의 최신 동향을 정리한 종설 논문입니다. 기존 미세침 흡인술(EUS-FNA)은 세포학적 검사에 치중되어 조직학적 검사나 정밀 분자 검사에 한계가 있었으나, 절단형 미세침 생검(EUS-FNB) 바늘의 도입으로 우수한 조직 절편을 확보할 수 있게 되었습니다. 부채꼴 기법(fanning)과 완만 흡인법(slow-pull), 습식 흡인법(wet suction) 등의 기술적 개선을 통해 혈액 오염을 줄이고 고품질 조직 채취가 가능해졌습니다. 출혈, 췌장염, 바늘 경로 파종(needle-tract seeding) 등의 합병증 위험을 낮추기 위해 미세침 천자 횟수를 최소화하는 조치가 중요합니다.
+
+- 프란신(Franseen) 및 포크팁(fork-tip) 디자인의 미세침 생검(EUS-FNB) 바늘은 기존 미세침 흡인술(EUS-FNA)보다 진단 정확도와 조직 적절성을 개선합니다.
+- 완만 흡인법(slow-pull) 및 습식 흡인법(wet suction) 등의 흡인 기술은 혈액 오염을 줄이고 고품질 코어 조직 보존을 최적화합니다.
+- 육안적 현장 평가(MOSE)를 활용하면 조직의 적절성을 즉시 확인하여 불필요한 바늘 천자 횟수를 줄일 수 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928003/) · [DOI](https://doi.org/10.4166/kjg.2025.148) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928003)</small>
+
+---
 <a id="pmid-42921926"></a>
 #### [세 가지 NRG1 융합 양성 적응증에서 zenocutuzumab-zbco의 비용-효과성 평가](https://pubmed.ncbi.nlm.nih.gov/42921926/)
 <small>Cost-effectiveness of zenocutuzumab-zbco across three NRG1 fusion-positive indications</small>

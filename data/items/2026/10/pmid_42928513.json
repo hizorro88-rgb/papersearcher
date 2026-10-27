@@ -1,0 +1,58 @@
+{
+ "abstract": "Irreversible electroporation (IRE) is increasingly used for locally advanced pancreatic ductal adenocarcinoma (PDAC), yet electric-field heterogeneity leaves a low-field rim where residual cells survive, and recurrence is frequent, compounded by a profoundly immunosuppressive tumor microenvironment. Here, an electroporation-synchronized adjuvant strategy is developed that integrates intratumoral Ca2+ delivery with nanoparticle-mediated inhibition of mitochondrial NCLX using CGP37157 (mPEG-PCL@CGP37157). This regimen markedly enhances cytotoxicity in PDAC cell lines and patient-derived organoids and significantly improves local control and survival in syngeneic subcutaneous and orthotopic PDAC models, without overt systemic toxicity. Reduced therapeutic efficacy in T cell-deficient hosts demonstrates the importance of adaptive immunity. Mechanistically, EP-resistant PDAC cells upregulate NCLX to buffer mitochondrial Ca2+ stress. Concurrent Ca2+ delivery and pharmacological NCLX inhibition induce sustained mitochondrial Ca2+ overload, triggering immunogenic GSDMD-dependent pyroptosis. This is accompanied by enhanced dendritic cell activation and CD8+ T-cell responses, as well as suppression of a tumor-myeloid SPP1-CD44 axis, promoting pro-inflammatory macrophage polarization. Collectively, targeting NCLX potentiates the immunogenic effects of IRE and provides a translatable strategy for eliminating residual disease in PDAC.",
+ "authors": [
+  "Zhao C",
+  "He L",
+  "Lu Y",
+  "Deng Z",
+  "Wei H",
+  "Zhang Y",
+  "Yang M",
+  "Yin T"
+ ],
+ "categories": [
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928513",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.1002/advs.78288",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42928513"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928513/"
+ },
+ "summary_ko": "Irreversible electroporation (IRE) is increasingly used for locally advanced pancreatic ductal adenocarcinoma (PDAC), yet electric-field heterogeneity leaves a low-field rim where residual cells survive, and recurrence is frequent, compounded by a profoundly immunosuppressive tumor microenvironment. Here, an electroporation-synchronized adjuvant strategy is developed that integrates intratumoral Ca2+ delivery with nanoparticle-mediated inhibition of mitochondrial NCLX using CGP37157 (mPEG-PCL@CG…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "NCLX Inhibition plus Ca2+ Delivery Potentiates Electroporation and Antitumor Immunity in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

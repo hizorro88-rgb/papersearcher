@@ -1,0 +1,53 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) progression is driven by complex cellular interactions within the tumor microenvironment (TME), where endothelial cell (EC)-tumor-associated macrophage (TAM) crosstalk significantly influences angiogenesis and immune modulation, although the specific subsets and consequences remain unclear. Here, we integrated four single-cell RNA sequencing datasets (50 PDAC; 21 normal adjacent tissues) to profile EC and macrophage subpopulations, subsequently employing CellChat to decipher intercellular communication networks and identify altered ligand-receptor interactions in PDAC. Correlation and Kaplan-Meier survival analyses (TCGA-PAAD) assessed associations and prognostic value, while functional validation used EdU, CCK-8, and Transwell assays on PDAC cells. We identified a distinct endothelial subset (EC0) and macrophage subset (Mac2) with enhanced interaction signals in PDAC. This EC0-Mac2 crosstalk correlated with significant S100A6 upregulation, which was associated with poor patient prognosis. Exogenous S100A6 treatment markedly enhanced PDAC cell proliferation and migration in vitro. In conclusion, EC-Mac crosstalk may promote PDAC progression via S100A6, and this interaction pattern warrants further investigation as a candidate prognostic biomarker and potential target for disrupting stromal communication.",
+ "authors": [
+  "Zhou Y",
+  "Guo S",
+  "Zhou W",
+  "Wang W"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42929817",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.3390/cells15201844",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42929817"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cells",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42929817/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) progression is driven by complex cellular interactions within the tumor microenvironment (TME), where endothelial cell (EC)-tumor-associated macrophage (TAM) crosstalk significantly influences angiogenesis and immune modulation, although the specific subsets and consequences remain unclear. Here, we integrated four single-cell RNA sequencing datasets (50 PDAC; 21 normal adjacent tissues) to profile EC and macrophage subpopulations, subsequently employing C…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "SPP1-CD44-Mediated Crosstalk Between Endothelial and Macrophage Subpopulations Promotes Pancreatic Ductal Adenocarcinoma Progression Through S100A6 Upregulation",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

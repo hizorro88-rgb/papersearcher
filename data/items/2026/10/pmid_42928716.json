@@ -1,0 +1,61 @@
+{
+ "abstract": "Pathogenic germline variants in BRCA2 are associated with increased susceptibility to pancreatic ductal adenocarcinoma and may prompt pancreatic surveillance in selected high-risk individuals. Whether BRCA2 status increases the prevalence or alters the biological behavior of intraductal papillary mucinous neoplasms (IPMNs) remains uncertain. We report a 71-year-old Latin American woman with a reported heterozygous pathogenic BRCA2 variant and a remote history of stage IA hormone receptor-positive, HER2-negative breast carcinoma. The original molecular genetics report was unavailable; therefore, the exact variant designation, testing platform, laboratory classification, and American College of Medical Genetics and Genomics (ACMG)/Association of Molecular Pathology (AMP) evidence could not be independently verified. In June 2025, during long-term oncologic follow-up, positron emission tomography-computed tomography incidentally identified a 21×21 mm pancreatic tail cyst. Magnetic resonance cholangiopancreatography (MRCP) in July 2025 demonstrated a 22×20 mm cyst communicating with the main pancreatic duct (MPD), which measured 5 mm. Endoscopic ultrasound (EUS) demonstrated a 20×23 mm septated cyst without mural nodules or a solid component. Serum carbohydrate antigen 19-9 (CA 19-9) was 21.4 U/mL. Cyst fluid glucose was 12 mg/dL, amylase 316 U/L, and carcinoembryonic antigen (CEA) 247 ng/mL. Cytologic examination and an adequate cell-block specimen obtained by EUS-guided fine-needle aspiration (EUS-FNA) demonstrated papillary mucinous epithelium with gastric-type features, favoring a low-grade IPMN. No immunohistochemical studies were performed, and the specimens were evaluated by a gastrointestinal pathologist. The case was reviewed by a multidisciplinary team in August 2025. The 5 mm MPD represented a relative indication for surgery under the 2018 European evidence-based guidelines and a worrisome feature under contemporary international criteria, but no absolute or high-risk indication for resection was identified. Surveillance was selected. Computed tomography (CT) in December 2025 showed a stable 22×20 mm cyst and a 5 mm MPD; serum CA 19-9 was 24.7 U/mL. In May 2026, the cyst measured 22×21 mm, and the MPD remained 5 mm. The patient remained clinically stable and asymptomatic without pancreatitis, obstructive jaundice, abdominal pain, weight loss, or other symptoms attributable to the lesion. This case illustrates the integration of lesion-specific morphology, ductal anatomy, pathology, longitudinal imaging, and hereditary-risk context without using reported BRCA2 status alone as an indication for pancreatic resection.",
+ "authors": [
+  "Balderas-Ortega JC",
+  "Escandon-Espinoza Y",
+  "Lopez Garcia K",
+  "Jasso Guerrero G"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42928716",
+ "importance": 0.54,
+ "key_points_ko": [
+  "BRCA2 변이 보유 환자에서 22 mm 크기의 췌장 낭종과 5 mm 주췌관 확장이 발견되었습니다.",
+  "낭종 액체 분석 및 세포진 검사를 통해 저등급 유두상 점액 종양(IPMN)으로 진단되었습니다.",
+  "BRCA2 변이 유무와 관계없이 가이드라인 기준에 맞춰 수술 대신 추적 관찰을 선택했으며 1년간 안정적 상태를 보였습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.7759/cureus.116881",
+  "nct": [],
+  "pmcid": "PMC13695697",
+  "pmid": "42928716"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928716/"
+ },
+ "summary_ko": "본 증례는 BRCA2 병원성 변이를 보유한 71세 여성 환자에서 발견된 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 관리 과정을 다룹니다. 내시경 초음파(EUS) 및 미세침 흡인술(EUS-FNA) 검사 결과 5 mm 주췌관 확장을 동반한 저등급 IPMN으로 진단되었습니다. 다학제 진료를 통해 절대적 수술 적응증이 없음을 확인하고 추적 관찰을 결정했으며, 1년간의 추적 검사에서 병변은 안정적으로 유지되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Intraductal Papillary Mucinous Neoplasm in a Carrier of a Reported Pathogenic BRCA2 Variant: Diagnostic Considerations and Management Using European and International Guidelines",
+ "title_ko": "BRCA2 병원성 변이 보유자에서 발생한 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 유럽·국제 가이드라인 기반 관리 증례",
+ "trial": null,
+ "type": "paper"
+}

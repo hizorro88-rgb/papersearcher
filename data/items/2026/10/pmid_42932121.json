@@ -1,0 +1,59 @@
+{
+ "abstract": "PURPOSE: Our objective was to investigate the prognostic utility of combined carbohydrate antigen (CA) 19-9 and Duke pancreatic monoclonal antigen type 2 (DUPAN-2) levels in patients undergoing curative-intent surgery for initially unresectable locally advanced (URLA) pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: Data from patients who underwent curative-intent surgery for URLA PDAC from June 2010 to December 2024 were investigated. Eligible patients were grouped into normal/normal (N/N), normal/high (N/H), high/normal (H/N), and high/high (H/H) groups according to CA19-9 and DUPAN-2 levels. Grouping was performed before and after preoperative induction chemotherapy, and survival was compared among the groups.\nRESULTS: In total, 39 patients were included. Before preoperative chemotherapy, the N/N, N/H, H/N, and H/H groups accounted for 10.3%, 20.5%, 30.8%, and 38.5%, respectively; the H/H group was the largest. After chemotherapy, the four groups accounted for 48.7%, 15.4%, 25.6%, and 10.3%, respectively; the N/N group was the largest. Pre-chemotherapy 5-year overall survival rates were 75.0%, 31.3%, 0%, and 44.9%, respectively (p = 0.427). Among the post-chemotherapy groups, the corresponding rates were 44.3%, 16.7%, 44.4%, and 0%, respectively (p < 0.001); the H/H group had significantly lower survival than the other groups. Multivariate analysis identified the post-chemotherapy H/H group as an independent predictor of poor survival (p = 0.004).\nCONCLUSIONS: Patient grouping using the two markers after preoperative chemotherapy was associated with overall survival and may be useful for prognostic stratification. In patients being considered for curative-intent surgery, the post-chemotherapy H/H group may warrant careful attention.",
+ "authors": [
+  "Sumiyoshi T",
+  "Uemura K",
+  "Shintakuya R",
+  "Okada K",
+  "Harada T",
+  "Tazuma S",
+  "Watanabe R",
+  "Ishii Y"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42932121",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.1245/s10434-026-20710-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42932121"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42932121/"
+ },
+ "summary_ko": "PURPOSE: Our objective was to investigate the prognostic utility of combined carbohydrate antigen (CA) 19-9 and Duke pancreatic monoclonal antigen type 2 (DUPAN-2) levels in patients undergoing curative-intent surgery for initially unresectable locally advanced (URLA) pancreatic ductal adenocarcinoma (PDAC). METHODS: Data from patients who underwent curative-intent surgery for URLA PDAC from June 2010 to December 2024 were investigated.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

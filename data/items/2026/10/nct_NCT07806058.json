@@ -1,0 +1,116 @@
+{
+ "abstract": "This is a Phase IB/II clinical trial designed to evaluate HRS-7172 in combination with antitumor drugs in participants with advanced pancreatic cancer harboring RAS mutations or amplifications.\n\nThe study process includes a screening period (from signed informed consent to first dose), a treatment period (from first dose to last dose), and a follow-up period (safety and survival follow-up after last dose). A Safety Monitoring Committee (SMC), composed of the principal investigator and sponsor representatives, will be established during the study to review the safety and efficacy data generated. The SMC will make decisions on study-related matters, including but not limited to combination regimen dose exploration, combination regimen selection, efficacy expansion cohort selection, expansion initiation timing, and recommended dose for expansion (RDE).\n\nThis study aims to evaluate the safety, tolerability, and efficacy of HRS-7172 in combination with other antitumor therapies in participants with advanced or metastatic pancreatic cancer harboring RAS mutations or amplifications.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07806058",
+ "importance": 0.84,
+ "key_points_ko": [],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07806058"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-09-08",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Jiangsu HengRui Medicine Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07806058"
+ },
+ "summary_ko": "This is a Phase IB/II clinical trial designed to evaluate HRS-7172 in combination with antitumor drugs in participants with advanced pancreatic cancer harboring RAS mutations or amplifications. The study process includes a screening period (from signed informed consent to first dose), a treatment period (from first dose to last dose), and a follow-up period (safety and survival follow-up after last dose).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "An Open-Label, Multicenter, Phase IB/II Clinical Study of HRS-7172 in Combination With Antitumor Therapy in Participants With Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ning.dou@hengrui.com/yirong.cheng.yc58@hengrui.com",
+    "name": "Ning/Yirong Dou/Cheng, PhD/MD",
+    "phone": "0518-82342973"
+   },
+   {
+    "email": "mengbo.zhao@hengrui.com/pengjun.xiang.px6@hengrui.com",
+    "name": "Mengbo/Pengjun Zhao/Xiang",
+    "phone": "0518-82342973"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Capable of giving informed consent, have signed and dated the IRB/EC-approved informed consent form, and are willing and able to comply with scheduled visits, examination requirements, and other study procedures.\n2. Aged 18 to 70 years (inclusive) at the time of signing the informed consent form, regardless of sex.\n3. ECOG performance status of 0 or 1.\n4. Locally advanced or metastatic pancreatic cancer confirmed by histology and cytology, with RAS mutation/amplification detected by tissue or blood genetic testing.\n5. Participants who have received at most one prior line of standard therapy.\n6. Life expectancy ≥ 12 weeks.\n7. At least one measurable lesion as defined by RECIST v1.1.\n8. Participants must provide formalin-fixed, paraffin-embedded tumor tissue blocks or unstained tumor specimens.\n9. Adequate organ and bone marrow function.\n10. Female participants of childbearing potential must agree to use contraception and refrain from donating eggs from the time of signing the informed consent form until 6 months after the last dose of the study drug; serum human chorionic gonadotropin (HCG) test must be negative within 7 days prior to the first dose, and must not be breastfeeding. Male participants whose partners are women of childbearing potential must agree to use contraception and refrain from donating sperm from the time of signing the informed consent form until 5 months after the last dose of the study drug.\n\nExclusion Criteria:\n\n1. Participants with untreated or active central nervous system (CNS) metastases or leptomeningeal metastases (including history thereof).\n2. Concurrent other malignancies ≤ 3 years prior to the first dose, with the following exceptions: adequately treated carcinoma in situ of the cervix, basal cell or squamous cell skin carcinoma, localized prostate cancer after radical surgery, ductal carcinoma in situ after radical surgery, and papillary thyroid carcinoma after radical surgery (hormonal therapy for non-metastatic prostate cancer or breast cancer is permitted).\n3. Participants with uncontrollable tumor-related pain as determined by the investigator. Participants requiring analgesic therapy must have a stable analgesic regimen at study entry; symptomatic lesions eligible for palliative radiotherapy should have completed treatment before study entry.\n4. Severe cardiovascular or cerebrovascular diseases.\n5. Gastrointestinal diseases affecting drug administration/absorption, including but not limited to dysphagia, malabsorption syndrome, refractory nausea, vomiting, diarrhea, Crohn's disease, and ulcerative colitis; intestinal obstruction or related symptoms and signs within 6 months prior to the start of study treatment, unless surgically treated with complete resolution; clinically significant acute or chronic pancreatitis; other gastrointestinal conditions deemed unsuitable for enrollment by the investigator.\n6. Clinically significant bleeding events (including but not limited to hematemesis, melena, hematochezia, etc., excluding hemorrhoidal bleeding or isolated fecal occult blood positive) within 6 months prior to the start of study treatment, or a definite bleeding tendency, high bleeding risk, coagulation disorder, or thrombotic tendency.\n7. Clinically symptomatic moderate or severe ascites (i.e., requiring therapeutic paracentesis or drainage within 2 weeks prior to the start of study treatment; participants with only small-volume ascites on imaging without clinical symptoms may be enrolled); uncontrolled or moderate or greater pleural effusion or pericardial effusion.\n8. Severe infection within 4 weeks prior to the start of study treatment, including but not limited to bacteremia, severe pneumonia, or other serious infectious complications requiring hospitalization; active infection of CTCAE ≥ Grade 2 requiring systemic antibiotic therapy within 2 weeks prior to the first dose; excluding participants receiving prophylactic antibiotic therapy (e.g., for prevention of urinary tract infection).\n9. History of immunodeficiency, including HIV positive; active hepatitis B (positive HBsAg at screening with HBV DNA quantification ≥ 1000 copies/mL or 500 IU/mL) or hepatitis C (anti-HCV positive with HCV RNA positive).\n10. Active pulmonary tuberculosis infection within 1 year prior to enrollment as determined by history or imaging, or a history of active pulmonary tuberculosis infection more than 1 year ago without standard treatment.\n11. Adverse reactions from prior antitumor therapy that have not recovered to CTCAE ≤ Grade 1 (except alopecia, Grade 2 peripheral neurotoxicity, laboratory values meeting enrollment criteria, or other conditions determined by the investigator not to affect study drug treatment).\n12. Systemic antitumor therapy (including chemotherapy, biological therapy, targeted therapy, immunotherapy, radical radiotherapy, etc.) within 4 weeks prior to the start of study treatment.\n13. Major organ surgery (excluding needle biopsy), significant trauma within 4 weeks prior to the first dose of study drug, or planned elective surgery during the study; minor traumatic procedures (biopsy, endoscopy, and drainage) within 7 days prior to the first dose.\n14. Receipt of live attenuated vaccines within 28 days prior to the first dose of study drug, or anticipated need for live attenuated vaccines during the study treatment period.\n15. Pregnant or lactating women, or female participants planning to become pregnant during the study period or within 7 months after the last dose of study drug.\n16. History of severe allergic reactions to any component of any study drug to be received, or to other monoclonal antibodies.\n17. Participants judged by the investigator to have other factors that may affect study results or lead to premature study termination, such as alcoholism, drug abuse, other serious diseases (including mental illness) requiring concomitant treatment, severely abnormal laboratory values, family or social factors, and other circumstances that may affect participant safety or the collection of study data.",
+  "enrollment": 140,
+  "has_results": false,
+  "interventions": [
+   "HRS-7172 + AG + SHR-1316",
+   "HRS-7172 + AG + SHR-1316;",
+   "HRS-7172 + AG;",
+   "HRS-7172 + AG + SHR-1316;",
+   "HRS-717 + HRS-4642+SHR-1316;",
+   "HRS-717 + HRS-4642+SHR-1316;",
+   "HRS-717 + HRS-4642;",
+   "HRS-717 + HRS-4642+SHR-1316;"
+  ],
+  "last_update_posted": "2026-10-26",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "KRAS_mutant"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": "70 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07806058",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2028-12-31",
+  "sex": "ALL",
+  "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+  "start_date": "2026-10-15",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

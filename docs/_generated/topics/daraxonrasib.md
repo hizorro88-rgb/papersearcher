@@ -19,10 +19,11 @@ search:
 - 표적/기전: RAS(ON) multi-selective inhibitor
 - 개발사: Revolution Medicines
 
-## 관련 임상시험 (6)
+## 관련 임상시험 (7)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [A Study of Standard of Care Drugs With or Without Ivermectin for Dara…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |

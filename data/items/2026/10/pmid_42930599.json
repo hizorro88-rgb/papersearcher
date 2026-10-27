@@ -1,0 +1,65 @@
+{
+ "abstract": "Background/Objectives: To analyse trends in online information-seeking behaviour for five major cancers in Hungary, compare them with global trends, and assess changes during the COVID-19 pandemic, cancer-related awareness campaigns, and major cancer-related events on search activity. Methods: A retrospective observational infodemiological study was conducted using Google Trends™ (GT) data for lung, colorectal, breast, prostate, and pancreatic cancers between 2013 and 2022. Search intensity was assessed using uncorrected relative search volume (RSVraw) as the primary measure, complemented by RSVsens, as an Internet penetration-adjusted sensitivity analysis. Descriptive statistics, parametric tests, time-series and seasonality analyses, Mann-Kendall tests, and joinpoint regression were performed using IBM SPSS Statistics 22.0, PAST 4.03, and Joinpoint 5.3.0 (α: 0.05; 95% confidence interval [CI]). Benjamini-Hochberg (BH) false discovery rate (FDR) correction was applied for multiple testing. Results: Among the cancer types relevant to our study, lung and breast cancer showed the highest reference-adjusted RSV (RSVref: 61) in Hungary, followed by prostate (RSVref: 59), colorectal (RSVref: 52), and pancreatic cancer (RSVref: 11); whereas globally, breast cancer ranked first (RSVref: 49). RSVsens showed significant decreasing trends for all five cancer types (Mann-Kendall, all p < 0.05), with average annual percentage changes (AAPCs) of -5.39% for lung, -4.06% for breast, -3.56% for colorectal, -3.59% for prostate, and -5.23% for pancreatic cancer, respectively (all p < 0.05). Breast and prostate cancers exhibited significant (p < 0.001) and recurring seasonal peaks. During COVID-19 (vs. the pre-pandemic period), mean RSV values decreased by 10-30% across all cancers; only colorectal cancer-related campaigns were associated with a notable increase in search intensity (+66.9%, p = 0.013, q = 0.058), although this association did not remain significant after FDR correction.. Symptom-related searches predominated, whereas screening- and prevention-related queries were infrequent during the study period. Conclusions: GT may be a useful complementary tool for monitoring public interest and evaluating public health communication. The absence of consistent increases in search activity during most campaign periods, together with the predominance of symptom-related queries, suggests that current communication initiatives may have limited measurable visibility in GT search behaviour and highlights the need to strengthen communication on cancer prevention and early detection.",
+ "authors": [
+  "Gajdács M",
+  "Ilić I",
+  "Szabó-Kurucz D",
+  "Molnár R",
+  "Paulik E",
+  "Elmer D",
+  "Csákvári T",
+  "Kívés Z"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-27",
+ "history": [
+  {
+   "date": "2026-10-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42930599",
+ "importance": 0.58,
+ "key_points_ko": [
+  "헝가리 내 암종별 검색량(RSVref)은 유방암과 폐암이 61로 가장 높았고 전립선암(59), 대장암(52), 췌장암(11)이 뒤를 이었습니다.",
+  "인터넷 보급률 조정 검색량(RSVsens) 분석에서 췌장암 검색량은 연평균 -5.23% 감소했습니다(p < 0.05).",
+  "코로나19 팬데믹 기간 동안 모든 암의 평균 검색량이 팬데믹 이전 대비 10~30% 감소했습니다.",
+  "연구 기간 동안 암 검진 및 예방 관련 검색은 드물었고 증상 관련 검색이 주를 이루었습니다."
+ ],
+ "last_updated": "2026-10-27",
+ "links": {
+  "doi": "10.3390/medsci14060681",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42930599"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-10-17",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Sci (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42930599/"
+ },
+ "summary_ko": "2013년부터 2022년까지 헝가리에서 폐암, 대장암, 유방암, 전립선암, 췌장암의 온라인 정보 검색 행태를 구글 트렌드(Google Trends™) 데이터로 분석했습니다. 분석 결과 인터넷 보급률을 조정한 검색량(RSVsens)은 5개 암종 모두에서 연평균 변화율(AAPC) -3.56%에서 -5.39% 수준으로 유의하게 감소했습니다. 췌장암은 참조 조정 검색량(RSVref)이 11로 조사 대상 암종 중 가장 낮았으며 연평균 -5.23%의 감소세를 보였습니다. 또한 코로나19 팬데믹 동안 암 관련 검색량이 10~30% 감소했고 예방이나 검진보다는 증상 관련 검색이 대부분을 차지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Online Information-Seeking Behaviour for Major Cancers: A 10-Year Infodemiological Study to Inform Public Health and Health Promotion Priorities in Hungary",
+ "title_ko": "주요 암에 대한 온라인 정보 검색 행태: 헝가리의 공중보건 및 건강 증진 우선순위를 위한 10년간의 정보역학 연구",
+ "trial": null,
+ "type": "paper"
+}
