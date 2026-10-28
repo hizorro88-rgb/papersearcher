@@ -24,12 +24,28 @@ search:
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [진행성 또는 전이성 고형암 환자를 위한 경구용 MOMA-313 연구](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
-| [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자를 대상으로 올파라립(olaparib)…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
+| [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이가 있는 환자에서 올라파립 대 위약을 비교하…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
 | [유전성 BRCA 변이 전이성 췌장암 환자에서 올라파립 단독 대비 면역항암제 펨브롤리주맙 병용 유지요법을 평가하는 2상 임상시험](../trials/NCT04548752.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 고형암에서 DNA 손상, 신생혈관생성, PD-L1 억제제를 평가하는 연구](../trials/NCT03851614.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (1)
+## 타임라인 (2)
 
+<a id="pmid-42938317"></a>
+#### [공유된 BRIP1 변이와 연관된 가족성 췌장암: 상동 재조합 결핍 및 표적 치료에 대한 시사점](https://pubmed.ncbi.nlm.nih.gov/42938317/)
+<small>Familial Pancreatic Cancer Associated with a Shared BRIP1 Variant: Implications for Homologous Recombination Deficiency and Targeted Therapy</small>
+
+`논문` `증례` `기초연구` `치료 전반` `신약·치료제` · 2026-09-29 · PubMed · Genes (Basel) · 중요도 0.59
+
+이 논문은 동일한 BRIP1 p.K159E 임상적 의미 불명 변이(VUS)를 가진 부자(아버지와 아들)의 췌관선암(PDAC) 사례를 보고합니다. 아버지는 70세, 아들은 39세의 나이에 췌관선암을 진단받았으며 두 환자 모두 백금 기반 항암화학요법에 임상적으로 유의미한 반응을 보였습니다. 아버지는 FOLFIRINOX 치료에 부분 반응을 보였으나 1년 이내에 사망했고, 아들은 수술 및 국소 치료를 포함한 복합 치료와 백금 기반 항암화학요법으로 약 5년간 생존했습니다. 저자들은 백금 민감성만으로는 상동 재조합 결핍(HRD)의 증거로 볼 수 없으며, 유전자 변이의 임상적 활용성을 판단하기 위해서는 추가적인 연구가 필요하다고 결론지었습니다.
+
+- 아버지와 아들이 각각 70세와 39세에 췌관선암(PDAC)을 진단받았으며 동일한 BRIP1 p.K159E 변이를 가지고 있었습니다.
+- 두 환자 모두 백금 기반 항암화학요법에 임상적으로 의미 있는 민감성을 보였습니다.
+- 아버지는 FOLFIRINOX 치료 후 진단 1년 이내에 사망했고, 아들은 수술과 백금 기반 치료 등으로 약 5년 동안 생존했습니다.
+- 유지 요법으로 투여된 olaparib은 혈액학적 독성과 질병 진행으로 중단되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938317/) · [DOI](https://doi.org/10.3390/genes17101201) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938317)</small>
+
+---
 <a id="pmid-42923343"></a>
 #### [동시성 진행성 전립선암과 췌장암 치료 관리의 과제: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42923343/)
 <small>Challenges in Managing Synchronous Advanced Prostate and Pancreatic Cancers: A Case Report</small>

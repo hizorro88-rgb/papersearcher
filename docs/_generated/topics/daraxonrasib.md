@@ -19,12 +19,14 @@ search:
 - 표적/기전: RAS(ON) multi-selective inhibitor
 - 개발사: Revolution Medicines
 
-## 관련 임상시험 (7)
+## 관련 임상시험 (9)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [A Study of Standard of Care Drugs With or Without Ivermectin for Dara…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
+| [수술 가능한 췌관선암 환자를 대상으로 한 daraxonrasib(다락소나십)의 1상 임상시험](../trials/NCT07898813.md) | 1상 | 모집 예정 | - |
+| [췌장암 환자의 daraxonrasib 유발 피부 독성에 대한 ivermectin 병용 표준 치료 연구](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [진행성 췌장암 환자를 대상으로 한 SNV1521 및 RAS 억제제 병용 요법의 최초 인체 대상 1상 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |

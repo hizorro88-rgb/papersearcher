@@ -1,0 +1,64 @@
+{
+ "abstract": "Background/Objectives: The gut microbiome modulates chemotherapy efficacy in pancreatic ductal adenocarcinoma (PDAC), yet its relationship with the clinically relevant endpoint of post-chemotherapy surgical eligibility remains poorly characterised. We explored whether baseline gut microbiome composition and metagenomically predicted metabolic function differ between chemotherapy responders and non-responders in PDAC. Methods: In this prospective single-centre exploratory cohort study, faecal samples were collected from 15 patients with non-immediately resectable PDAC at diagnosis, before chemotherapy. Whole-genome shotgun metagenomics was performed, and microbial functional capacity was inferred through an assembly-based pipeline. Patients were classified as responders (achieved surgical eligibility, n = 6) or non-responders (n = 9). Results: At baseline, responders showed enrichment of Collinsella aerofaciens (p = 0.026) and Butyrivibrio fibrisolvens (p = 0.012), while non-responders were enriched in oral-origin bacteria (Streptococcus gordonii, Actinomyces spp., Rothia dentocariosa). Predicted butyrate showed the largest effect size difference between groups but did not reach significance (p = 0.179); responders also had broadly elevated predicted SCFAs and bile acids. However, chemotherapy regimen (mFOLFIRINOX in 5/6 responders vs. 2/9 non-responders; Fisher p = 0.041) and disease stage were unevenly distributed between groups. Conclusions: This exploratory study identifies the compositional and functional microbiome features distinguishing PDAC chemotherapy responders from non-responders. These associations are confounded by disease stage and regimen and require validation in larger, regimen-stratified cohorts before predictive or mechanistic claims can be made.",
+ "authors": [
+  "Pizzocaro E",
+  "Soverini M",
+  "Salvagno GL",
+  "Lotfollahzadeh A",
+  "Santacroce B",
+  "Bruno G",
+  "Frigerio I",
+  "Di Renzo L"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42941196",
+ "importance": 0.72,
+ "key_points_ko": [
+  "항암 치료 반응군(6명)은 Collinsella aerofaciens(p=0.026)와 Butyrivibrio fibrisolvens(p=0.012)의 유의한 증가를 보였습니다.",
+  "비반응군(9명)은 구강 유래 세균(Streptococcus gordonii, Actinomyces spp., Rothia dentocariosa)이 풍부했습니다.",
+  "반응군의 5/6, 비반응군의 2/9가 mFOLFIRINOX 치료를 받았으며, 이는 그룹 간에 고르지 않게 분포했습니다(Fisher p=0.041)."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/metabo16100720",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42941196"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Metabolites",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42941196/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자에서 항암화학요법 반응 여부와 치료 전 장내 미생물 군집 및 대사 기능 간의 연관성을 탐색했습니다. 즉각적인 수술이 불가능한 췌장암 환자 15명을 대상으로 항암 치료 전 대변 샘플을 수집하여 전유전체 샷건 메타게놈 분석을 시행했습니다. 수술 가능성을 획득한 반응군(6명)과 비반응군(9명)을 비교한 결과, 반응군에서는 Collinsella aerofaciens와 Butyrivibrio fibrisolvens가 풍부했으며, 비반응군에서는 구강 유래 세균이 풍부했습니다. 그러나 이러한 연관성은 질병 병기와 항암 치료 요법에 의해 교란되었으므로 더 큰 규모의 후속 연구가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gut Microbiome Compositional and Functional Signatures Associated with Chemotherapy Response in Pancreatic Ductal Adenocarcinoma: An Exploratory Cohort Study",
+ "title_ko": "췌장관선암 환자의 항암화학요법 반응성과 관련된 장내 미생물 군집 및 기능적 특징: 탐색적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

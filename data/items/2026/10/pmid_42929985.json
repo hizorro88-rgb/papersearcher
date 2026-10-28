@@ -10,8 +10,9 @@
   "Bacârea V"
  ],
  "categories": [
-  "surgery",
   "treatment",
+  "diagnosis",
+  "surgery",
   "supportive"
  ],
  "entities": [],
@@ -26,12 +27,16 @@
  ],
  "id": "pmid:42929985",
  "importance": 0.66,
- "key_points_ko": [],
- "last_updated": "2026-10-27",
+ "key_points_ko": [
+  "전체 환자 240명 중 215명이 사망했으며, 전체 생존기간 중앙값은 절제술 후 17.9개월, 완화적 우회술 후 5.4개월이었습니다.",
+  "AISI가 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.54였으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.003).",
+  "SIRI 역시 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.60이었으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.001)."
+ ],
+ "last_updated": "2026-10-28",
  "links": {
   "doi": "10.3390/diseases14100358",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13703576",
   "pmid": "42929985"
  },
  "pub_types": [
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42929985/"
  },
- "summary_ko": "BACKGROUND/OBJECTIVES: Systemic inflammatory indices may differ prognostically between resectable and palliative pancreatic cancer. We compared associations of the aggregate index of systemic inflammation (AISI), systemic inflammation response index (SIRI), neutrophil-to-lymphocyte ratio (NLR), systemic immune-inflammation index (SII), and monocyte-to-lymphocyte ratio (MLR) with overall survival after pancreatic resection or palliative bypass.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장암 환자 240명(절제술 99명, 완화적 우회술 141명)을 대상으로 전신 염증 지수들이 수술 후 전체 생존기간(OS)에 미치는 영향을 비교했습니다. 연구 결과, 전신 염증 지수인 AISI와 SIRI는 완화적 우회술 후 사망 위험 증가와 유의하게 연관된 반면, 절제술 후에는 연관성이 나타나지 않았습니다. 저자들은 임상적용 전에 독립적인 외부 검증이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Differential Prognostic Associations of Monocyte-Containing and Traditional Systemic Inflammatory Indices with Overall Survival After Resection or Palliative Bypass for Pancreatic Cancer: A Retrospective Cohort Study",
- "title_ko": null,
+ "title_ko": "췌장암 절제술 또는 완화적 우회술 후 전체 생존기간에 대한 단핵구를 포함한 전신 염증 지수와 전통적 전신 염증 지수의 예후적 연관성 차이: 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

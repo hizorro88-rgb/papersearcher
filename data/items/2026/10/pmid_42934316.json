@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Weight loss is common in individuals with pancreatic cancer. The aim of the present study was to address how body image distress and weight worries change over time as death approaches in patients with pancreatic cancer, and whether there are gender differences.\nMETHODS: Post-hoc analyses were performed using data from the MISTRAL-trial. Body image distress and weight worries were assessed using the European Organisation for Research and Treatment of Cancer (EORTC) QLQ-PAN-26-questionnaire as part of the original trial. Data were used to assess body image distress and weight worries at time points corresponding to 1, 2, 3, 4, 5, and 6 months prior to death. Mixed-effects linear models with random intercepts were used to examine trajectories of body image distress and weight worries in women and men.\nRESULTS: We analysed data from 125 participants, of whom 64 (51.2%) were women. Both body image distress and weight worries increased over time during the 6 months preceding death, β = 3.54, 95%CI: 1.67- 5.41; and β = 2.98, 95%CI: 0.53- 5.44, respectively. There were no statistically significant sex differences in the rate of change although women tended to report higher body image distress closer to death and men higher weight worries across all time points.\nCONCLUSION: Increased body image distress and weight loss concerns observed in both women and men with pancreatic cancer at the end of life highlight the importance of addressing these issues in palliative care.",
+ "authors": [
+  "Goodrose-Flores C",
+  "Bonn SE",
+  "Björkhem-Bergman L",
+  "Wode K"
+ ],
+ "categories": [
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "rct",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934316",
+ "importance": 0.86,
+ "key_points_ko": [
+  "총 125명의 진행성 췌장암 환자(여성 51.2%)를 대상으로 사망 전 1개월에서 6개월까지의 신체 변화 고통을 분석했습니다.",
+  "사망 전 6개월 동안 신체 이미지 고통(β = 3.54, 95% CI: 1.67-5.41)과 체중 걱정(β = 2.98, 95% CI: 0.53-5.44)이 유의하게 증가했습니다.",
+  "변화 속도에서 남녀 간 통계적으로 유의한 차이는 없었으나, 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 호소하는 경향을 보였습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1007/s00520-026-11420-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934316"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Support Care Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934316/"
+ },
+ "summary_ko": "본 연구는 진행성 췌장암 환자가 사망에 임박함에 따라 신체 이미지 고통과 체중 관련 걱정이 어떻게 변화하는지 및 성별 차이를 조사한 MISTRAL 임상시험의 사후 분석입니다. MISTRAL 임상시험에 참여한 환자 125명(여성 64명, 51.2%)의 EORTC QLQ-PAN-26 설문 데이터를 바탕으로 사망 전 1개월부터 6개월까지의 변화를 분석했습니다. 분석 결과, 사망 전 6개월 동안 신체 이미지 고통과 체중 관련 걱정이 모두 유의하게 증가했습니다. 남녀 간 변화 속도의 통계적 차이는 없었으나, 사망에 가까워질수록 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 보고하는 경향을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Body image distress in women and men with advanced pancreatic cancer approaching death - post-hoc analyses from the MISTRAL-trial",
+ "title_ko": "사망에 임박한 진행성 췌장암 남녀 환자의 신체 이미지 고통 - MISTRAL 임상시험 사후 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Ionizing radiation (IR) elicits both cytotoxic and immunomodulatory effects, yet the precise link between mitochondrial remodeling and immunogenic cell death (ICD) remains elusive. Here, we report that IR triggers robust mitophagy in pancreatic cancer cells, marked by mitochondrial damage, Parkin/BNIP3 upregulation, and increased autophagic flux. In parallel, IR induces key hallmarks of ICD, including calreticulin exposure, HMGB1 translocation, and the release of ATP and IFN-β. Notably, genetic or pharmacological inhibition of mitophagy attenuated this immunogenic profile, whereas mitophagy induction amplified it. We further demonstrate that mitophagy triggers the cytosolic release of mitochondrial DNA (mtDNA) to activate immune signaling, which can be reversed by blocking mtDNA replication. In murine models, Parkin overexpression enhanced mitophagy and ICD marker expression, leading to reduced tumor burden and prolonged survival following irradiation. Collectively, our findings indicate that mtDNA leakage downstream of mitophagy links mitochondrial remodeling to radiation-induced ICD, suggesting that modulation of mitochondrial dynamics may represent a strategy to enhance both radiosensitivity and the immunogenic potential of radiotherapy in pancreatic cancer.",
+ "authors": [
+  "Li C",
+  "Ren Y",
+  "Chen Y",
+  "Yu H",
+  "Cui J",
+  "Wang F",
+  "Li J",
+  "Sun A"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934237",
+ "importance": 0.47,
+ "key_points_ko": [
+  "전리방사선(IR)은 췌장암 세포에서 마이토파지와 면역원성 세포사멸(ICD)의 주요 특징(칼레티큘린 노출, HMGB1 이동, ATP 및 IFN-β 방출)을 유도했습니다.",
+  "마이토파지의 유전적 또는 약리학적 억제는 면역원성 프로파일을 약화시켰고, 유도 시 강화되었습니다.",
+  "마이토파지는 미토콘드리아 DNA(mtDNA)의 세포질 방출을 유발하여 면역 신호를 활성화했습니다.",
+  "마우스 모델에서 Parkin 과발현은 마이토파지와 ICD 마커 발현을 증가시켜 종양 부담을 줄이고 생존 기간을 연장했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1038/s41420-026-03269-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934237"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-30",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Death Discov",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934237/"
+ },
+ "summary_ko": "본 연구는 췌장암 세포에서 전리방사선(ionizing radiation, IR)이 마이토파지(mitophagy)를 유발하여 면역원성 세포사멸(immunogenic cell death, ICD)을 유도하는 기전을 밝혔습니다. 방사선은 미토콘드리아 손상과 마이토파지를 촉진하며, 이 과정에서 미토콘드리아 DNA(mtDNA)가 세포질로 방출되어 면역 신호를 활성화합니다. 마이토파지를 억제하면 이러한 면역원성 프로파일이 약화되었고, 마이토파지를 유도하면 강화되었습니다. 마우스 모델에서 마이토파지 유도 단백질인 Parkin 과발현은 방사선 조사 후 종양 부담을 줄이고 생존 기간을 연장했습니다. 본 결과는 미토콘드리아 역학 조절이 췌장암 방사선 치료의 감수성과 면역원성을 높이는 전략이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mitophagy-dependent mitochondrial DNA release links ionizing radiation to immunogenic cell death in pancreatic cancer",
+ "title_ko": "마이토파지 의존적 미토콘드리아 DNA 방출은 췌장암에서 전리방사선과 면역원성 세포사멸을 연결합니다",
+ "trial": null,
+ "type": "paper"
+}

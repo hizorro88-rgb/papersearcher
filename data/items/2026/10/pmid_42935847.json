@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma remains among the most lethal solid tumors, with 5-year survival near 13% despite decades of incremental change, and current management continues to be organized around anatomic resectability and a chemotherapy backbone applied largely without regard to tumor biology. This article advances the thesis that the dominant paradigm underperforms because it treats a systemic, molecularly convergent, multi-compartment disease as though it were a local one. We first summarize the real advances of the past decade-in surgery, systemic therapy, molecular profiling, and immunotherapy-and then identify five interlocking failure points that persist despite them: (i) selection by vessel anatomy, judged on imaging criteria that are read inconsistently and that classify inaccurately even where read consistently, and applied to splanchnic veins without accounting for their baseline variability and tumor-associated thrombosis; (ii) occult metastasis and the resulting limits of local cure for the systemic majority, evidenced by the gap between complete resection and durable survival and by early distant recurrence; (iii) the addition of radiotherapy, which improves local control without extending survival; (iv) chemotherapy chosen without reference to a validated prognostic classical/basal-like distinction, although prospective subtype-directed regimen selection has not yet improved outcomes in randomized testing; and (v) a sequential, non-integrated structure in which systemic and immune therapy are deferred and no definitive path exists for the roughly 80% who are not surgical candidates. We then propose a multimodal, biology-guided framework that answers each failure point, with every component graded on an explicit evidence scale: corrected tumor-suppressor gene therapy matched to lesion type, a systemic backbone combining renin-angiotensin system-pathway inhibition with immunogenically sequenced chemotherapy and personalized neoantigen vaccination, in-situ immune conversion of an accessible tumor by cryoablation with local priming and natural killer (NK) cell delivery, and front-end biological patient selection. The framework is conceptual rather than product-specific; we specify its rationale, its integration in time, a staged first-in-human development program, and the studies required to test it. The objective is to convert local disease into systemic benefit-a step the current paradigm is not designed to take.",
+ "authors": [
+  "Sewell PE"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935847",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌관선암의 5년 생존율은 수십 년간의 발전에도 불구하고 약 13%에 머물러 있습니다.",
+  "현재 치료 관리의 지속되는 5가지 실패 지점으로는 해부학적 혈관 기준에 따른 환자 선택, 숨겨진 전이의 존재, 생존율 연장 없는 방사선 치료 추가, 아형을 고려하지 않은 항암 화학요법, 순차적이고 통합되지 않은 치료 구조를 꼽았습니다.",
+  "제안된 프레임워크는 유전자 치료, 레닌-안지오텐신 시스템 경로 억제, 면역 순차적 항암화학요법, 신항원 백신, 국소 냉동절제술 및 자연살해세포(NK cell) 전달을 포함합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3389/fonc.2026.1941793",
+  "nct": [],
+  "pmcid": "PMC13696316",
+  "pmid": "42935847"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935847/"
+ },
+ "summary_ko": "췌관선암(pancreatic ductal adenocarcinoma)은 5년 생존율이 약 13%에 달하는 가장 치명적인 고형암 중 하나입니다. 이 논문은 현재의 치료 패러다임이 전신 질환을 국소 질환으로 취급하기 때문에 성과가 낮다고 주장합니다. 저자들은 현재 치료의 5가지 실패 지점을 분석하고, 유전자 치료, 전신 항암 화학요법, 면역요법, 생물학적 환자 선별 등을 결합한 새로운 다모달 생물학 기반 프레임워크를 제안합니다. 이 프레임워크의 목적은 국소 치료를 넘어 전신적인 치료 이득을 도모하는 것입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Treating a systemic disease as a local one: failure points of current pancreatic cancer management and a multimodal, biology-guided framework for redesign",
+ "title_ko": "전신 질환을 국소 질환으로 다루기: 현재 췌장암 치료의 실패 지점과 다모달, 생물학 기반 개편 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

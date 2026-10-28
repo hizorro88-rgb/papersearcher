@@ -11,10 +11,11 @@
   "Serrano PE"
  ],
  "categories": [
-  "treatment"
+  "treatment",
+  "diagnosis"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-10-27",
  "history": [
   {
@@ -24,13 +25,17 @@
   }
  ],
  "id": "pmid:42930196",
- "importance": 0.65,
- "key_points_ko": [],
- "last_updated": "2026-10-27",
+ "importance": 0.68,
+ "key_points_ko": [
+  "2025년 캐나다 국립 췌장 컨퍼런스는 췌장암(PC) 치료의 최신 발전 사항을 논의하기 위해 개최되었습니다.",
+  "유전체 시퀀싱(genomic sequencing)의 중요성이 강조되었습니다.",
+  "공평한 치료와 다학제적 접근 방식이 주요 논의 주제였습니다."
+ ],
+ "last_updated": "2026-10-28",
  "links": {
   "doi": "10.3390/curroncol33100629",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13703088",
   "pmid": "42930196"
  },
  "pub_types": [
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42930196/"
  },
- "summary_ko": "Pancreatic cancer (PC) is among the most lethal malignancies with slower progress in overall survival and treatment options compared to other cancers. The 2025 Canadian National Pancreas Conference (NPC)-the third biennial event of its kind-was hosted by Craig's Cause Pancreatic Cancer Society and the Baker Centre for Pancreatic Cancer in November 2025 in London, Ontario, co-organized by the Canadian Association of General Surgeons (CAGS) with accreditation through the Royal College of Physician…",
- "summary_source": "excerpt",
+ "summary_ko": "본 문헌은 2025년 11월 온타리오주 런던에서 개최된 제3회 캐나다 국립 췌장 컨퍼런스(NPC)의 내용을 다룹니다. Craig's Cause Pancreatic Cancer Society와 Baker Centre for Pancreatic Cancer가 주최하고 캐나다 일반외과의사회(CAGS)가 공동 조직했습니다. 이 행사에서는 의료 전문가, 연구자, 학생들이 모여 췌장암(pancreatic cancer, PC) 치료 및 관리의 최신 발전 사항을 논의했습니다. 특히 유전체 시퀀싱(genomic sequencing), 공평한 치료, 다학제적 접근의 중요성이 강조되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Canadian National Pancreas Conference 2025: Recent Advances in Patient-Centred Management of Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "2025년 캐나다 국립 췌장 컨퍼런스: 췌장암 환자 중심 치료의 최근 발전",
  "trial": null,
  "type": "paper"
 }

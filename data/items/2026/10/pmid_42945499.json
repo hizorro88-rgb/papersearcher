@@ -1,0 +1,65 @@
+{
+ "abstract": "PURPOSE: The clinical utility of genomic profiling in gastroenteropancreatic neuroendocrine neoplasms (GEP-NENs) remains incompletely defined, particularly for clinically relevant annotated alterations and prognostic stratification. We performed a multi-institutional analysis to characterize genomic alterations across GEP-NEN subtypes, generate prevalence estimates to inform precision oncology efforts, and evaluate associations with clinical actionability and survival.\nMETHODS: We performed a retrospective analysis of 1,691 GEP-NENs from the American Association for Cancer Research Project Genomics Evidence Neoplasia Information Exchange database. Tumors were classified into neuroendocrine tumors (NETs) or neuroendocrine carcinomas (NECs) and stratified by primary site. Genomic alterations, including single-nucleotide variants, insertions/deletions, copy number alterations, and structural variants, were analyzed using a panel-adjusted approach. Alterations were annotated for clinical relevance using multiple knowledge bases. Overall survival was evaluated in a subset (n = 502) with available data.\nRESULTS: Genomic alterations were identified in 86.5% of patients. NETs were enriched for alterations in chromatin-remodeling genes (MEN1, DAXX) and mTOR pathway regulator TSC2, whereas NECs were characterized by canonical drivers (TP53, RB1, KRAS, APC, and BRAF). Annotated alterations were identified in 34.1% of all patients, with higher rates in NECs compared with NETs (74.4% v 28.5%, P < .001). Notable annotated targets included BRAF V600E (2.2%; 14.8% of all colorectal NECs), KRAS-activating mutations (6.8%; 0.35% G12C), and NTRK fusions (0.2%). Annotation rates varied by primary site with the highest rates observed in colorectal, gastric, and esophageal NECs. In NETs, the presence of NEC-associated driver alterations was associated with worse overall survival (hazard ratio, 3.67 [95% CI, 2.49 to 5.42], P < .001).\nCONCLUSION: Genomic profiling reveals meaningful differences in biomarker prevalence and prognosis across GEP-NEN subtypes. These findings support integrating genomic profiling with histologic classification to refine risk stratification and inform biomarker-driven clinical trials.",
+ "authors": [
+  "Zaidi A",
+  "Titmuss E",
+  "Peixoto RD",
+  "Gill S",
+  "Gorski S",
+  "Schaeffer D",
+  "Solar Vasconcelos JP",
+  "Loree JM"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42945499",
+ "importance": 0.64,
+ "key_points_ko": [
+  "전체 GEP-NEN 환자의 86.5%에서 유전체 변이가 확인되었습니다.",
+  "임상적으로 의미 있는 주석 변이는 전체 환자의 34.1%에서 나타났으며 NEC(74.4%)가 NET(28.5%)보다 높았습니다.",
+  "NET에서 NEC 관련 드라이버 변이가 발견된 경우 전체 생존기간이 더 짧았습니다(위험비 3.67, 95% CI 2.49~5.42, P < .001)."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1200/PO-26-00601",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42945499"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Precis Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945499/"
+ },
+ "summary_ko": "미국암연구소(AACR) GENIE 데이터베이스를 활용하여 1,691명의 위장관췌장 신경내분비종양(GEP-NEN) 환자를 대상으로 후향적 유전체 분석을 진행했습니다. 신경내분비종양(NET)은 크로마틴 리모델링 유전자와 mTOR 경로 조절자 변이가 흔했고, 신경내분비암종(NEC)은 TP53, RB1, KRAS 등의 주요 드라이버 변이가 특징이었습니다. 전체 환자의 86.5%에서 유전체 변이가 확인되었으며, 임상적으로 의미 있는 주석 변이는 34.1%에서 관찰되었습니다. 신경내분비종양에서 신경내분비암종 연관 드라이버 변이가 있는 경우 전체 생존 기간이 더 불리한 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Genomic Landscape of Gastroenteropancreatic Neuroendocrine Neoplasms Using Panel Sequencing",
+ "title_ko": "패널 시퀀싱을 이용한 위장관췌장 신경내분비종양의 유전체 프로파일 분석",
+ "trial": null,
+ "type": "paper"
+}

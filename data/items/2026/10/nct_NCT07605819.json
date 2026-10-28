@@ -1,0 +1,115 @@
+{
+ "abstract": "This nationwide, multicenter, prospective, single-arm interventional feasibility study evaluates the Enzeavour Pancreatic Cancer assay in routine health checkups and cancer screening in Japan. Approximately 10,000 asymptomatic adults will be enrolled. Participants with an Enzeavour Score above 0.369 will undergo diagnostic work-up as clinically indicated. The primary outcome is pancreatic cancer detection rate within 12 months after the index blood draw, and the secondary outcome is positive predictive value.\n\nPancreatic cancer is often diagnosed at an advanced stage, and an effective population-based screening strategy has not been established. The Enzeavour Pancreatic Cancer assay is a blood-based test that quantifies the activity of three specific enzymes at a single-molecule level and integrates four biomarkers into a composite Enzeavour Score.\n\nThis nationwide, multicenter, prospective, single-arm feasibility study evaluates the Enzeavour assay in routine health checkups and cancer screening in Japan. Approximately 10,000 asymptomatic adults will be enrolled. Participants with an Enzeavour Score greater than 0.369 will be referred for diagnostic work-up as clinically indicated. This study uses a partial verification design with 12-month follow-up for pre-specified subgroups and aims to generate real-world estimates of pancreatic cancer detection rate and positive predictive value for future trial planning.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07605819",
+ "importance": 0.74,
+ "key_points_ko": [
+  "무증상 성인 약 10,000명을 대상으로 혈액 기반 엔데버(Enzeavour) 진단법의 췌장암 조기 발견 타당성을 검증합니다.",
+  "엔데버 점수가 0.369 초과인 참여자를 대상으로 정밀 영상 검사를 실시하여 진단을 진행합니다.",
+  "혈액 채취 후 12개월간 추적 관찰하여 췌장암 발견율과 양성 예측도를 주요 지표로 산출합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07605819"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-05-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cosomil, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07605819"
+ },
+ "summary_ko": "일본의 정기 건강검진 및 암 검진에 참여하는 무증상 성인 약 10,000명을 대상으로 엔데버(Enzeavour) 췌장암 진단법의 타당성을 평가하는 단일군 전향적 임상시험입니다. 엔데버 진단법은 단일 분자 수준에서 3가지 효소 활성을 측정하고 4가지 바이오마커를 통합하여 엔데버 점수(Enzeavour Score)를 산출하는 혈액 검사입니다. 검사 점수가 0.369 초과인 참여자는 진단적 영상 검사를 받게 되며, 혈액 채취 후 12개월 동안 췌장암 발견율과 양성 예측도를 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "pancreatic cancer screening",
+  "liquid biopsy",
+  "blood-based biomarker",
+  "early detection",
+  "Enzeavour",
+  "single-molecule enzyme activity"
+ ],
+ "title": "Pancreatic Cancer Screening Using the Enzeavour Assay in Japan",
+ "title_ko": "일본에서 엔데버(Enzeavour) 진단법을 활용한 췌장암 선별검사 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Pancreatic Neoplasms"
+  ],
+  "contacts": [
+   {
+    "email": "f-study@cosomil.com",
+    "name": "Yu Kagami, Ph.D.",
+    "phone": "+81-3-6823-2260"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n* 정기 건강검진 또는 암 검진에 참여하는 무증상 성인(20세 이상)\n* 연구 절차를 이해하고 서면 동의서를 제공할 수 있는 자\n\n제외 기준:\n* 췌장암 진단 병력이 명확히 기록되어 있는 경우\n* 혈액 검사 양성 결과 후 필요한 진단적 영상 검사(MRCP, EUS, 조영증강 CT)를 받을 수 없거나 거부하는 경우\n* 연구자의 판단으로 연구 참여가 부적절하거나 연구 신뢰성을 저하시킬 수 있는 의학적, 정신적, 사회적 상태가 있는 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Asymptomatic adults attending participating facilities for routine health checkups, organized cancer screening, or both\n* Able to understand the study procedures and provide written informed consent before enrollment\n\nExclusion Criteria:\n\n* Documented clinical history of pancreatic cancer\n* Considered unable or unwilling to undergo any required diagnostic imaging modality (MRCP, EUS, or contrast-enhanced CT) after a positive index test result\n* Any medical, psychological, or social condition that, in the opinion of the principal investigator at each participating site, makes participation inappropriate or compromises study integrity",
+  "enrollment": 10000,
+  "has_results": false,
+  "interventions": [
+   "Enzeavour Pancreatic Cancer Assay"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [
+   "Japan"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "췌장암 진단 병력이 있는 경우",
+    "양성 결과 후 필요한 정밀 영상 검사(MRCP, EUS, CT)를 받을 수 없거나 거부하는 경우",
+    "연구 참여에 부적절한 의학적·정신적·사회적 조건이 있는 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "일본에서 정기 검진을 받는 20세 이상 무증상 성인을 대상으로 한 췌장암 조기 진단 혈액 검사(Enzeavour 진단법) 임상시험입니다.",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "20 Years",
+  "n_locations": 69,
+  "nct_id": "NCT07605819",
+  "phase": "NA",
+  "primary_completion_date": "2027-12-31",
+  "sex": "ALL",
+  "sponsor": "Cosomil, Inc.",
+  "start_date": "2026-02-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

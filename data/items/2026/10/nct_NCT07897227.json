@@ -1,0 +1,114 @@
+{
+ "abstract": "This study is a multicenter, open-label, dose-escalation, PK expansion, and cohort expansion, first-in-human phase I/II study to evaluate the safety, tolerability, PK profile, and preliminary antitumor efficacy of SYS6062, a CEACAM5-targeted antibody-conjugate drug, in patients with advanced solid tumors.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07897227",
+ "importance": 0.87,
+ "key_points_ko": [
+  "CEACAM5를 표적으로 하는 항체-약물 접합체(ADC) 신약 SYS6062의 안전성과 효과를 평가하는 첫 인체 대상 임상 1/2상 시험입니다.",
+  "표준 치료 후 진행되었거나 투여가 불가능한 진행성 또는 전이성 췌관선암 등 고형암 환자 총 260명을 대상으로 진행됩니다.",
+  "이전 치료로 CEACAM5 표적 치료제나 TOP1 표적 ADC 약물을 투여받은 적이 없는 환자가 대상입니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07897227"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07897227"
+ },
+ "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 CEACAM5 표적 항체-약물 접합체(ADC)인 SYS6062의 안전성, 내약성, 약동학 및 초기 항암 효과를 평가하는 1/2상 연구입니다. 췌장암(췌관선암), 위암, 대장암 등을 포함한 진행성 또는 전이성 고형암 환자를 대상으로 수행됩니다. 표준 치료에 실패했거나 적합한 표준 치료가 없는 18세 이상 75세 이하의 환자 260명을 모집할 예정입니다. 용량 증량 및 코호트 확장 단계를 통해 약물의 적정 용량과 효과를 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "SYS6062, CEACAM5, Advanced solid tumors"
+ ],
+ "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Efficacy of SYS6062 in Patients With Advanced Solid Tumors.",
+ "title_ko": "진행성 고형암 환자를 대상으로 SYS6062의 안전성, 내약성, 약동학 및 유효성을 평가하는 1/2상 연구",
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumors",
+   "Gastric Cancer (GC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "ctr-contact@mail.ecspc.com",
+    "name": "Clinical Trials Information Group officer",
+    "phone": "86-0311-69085587"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 75세 이하의 성인 환자\n• 조직학적 또는 세포학적으로 확진된 진행성, 수술 불가능 또는 전이성 고형암(췌관선암 포함) 환자\n• 표준 전신 치료 후 재발/진행되었거나 표준 치료에 내약성이 없거나 가능한 표준 치료가 없는 환자\n• RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상 있는 환자 (용량 증량 단계에서는 필수 아님)\n• ECOG 수행능력 평가 점수 0~1점\n• 예상 생존 기간이 3개월 이상인 환자\n\n제외 기준:\n• 이전 CEACAM5 표적 치료제 또는 TOP1 표적 ADC 약물 치료 이력이 있는 환자\n• 증상성이 있는 울혈성 심부전(NYHA II-IV등급) 또는 치료가 필요한 심각한 부정맥 이력이 있는 환자\n• 등록 전 6개월 이내 심근경색 또는 불안정형 협심증 이력이 있는 환자\n• 간질성 폐질환 이력 또는 현재 해당 질환이 있거나 의심되는 환자\n• 조절되지 않는 활동성 뇌전이 또는 척수 압박이 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Aged 18-75 years (inclusive) (based on the day of signing the informed consent form).\n2. Histologically or cytologically confirmed advanced/unresectable, or metastatic solid tumors that have relapsed or progressed on or after standard systemic treatment, or are intolerant to standard treatment, or no standard treatment is available.\n3. At least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) (not required in the dose escalation phase).\n4. ECOG score 0-1.\n5. Participant is expected to survive ≥ 3 months.\n6. The vital organ functions (hematology, liver and kidney function, coagulation function, etc.) meet the protocol requirements within 7 days prior to enrollment.\n7. Toxicity caused by any previous treatment has recovered to CTCAE 6.0 ≤ Grade 1 or baseline level.\n8. Adequate treatment washout period for prior antineoplastic therapy prior to the first dose.\n9. Able to provide a prior resected tumor sample or willing to undergo a fresh tumor biopsy.\n10. Female participants of childbearing potential have a negative serum pregnancy test within 7 days prior to enrollment. Male and female participants of childbearing potential must agree to use adequate contraception during the study and for at least 7 months after the last dose of study drug; During this period, women must not be breastfeeding, male participants must not freeze or donate sperm, and female participants must not donate or retrieve ova for their own use.\n11. Fully understand this clinical trial and voluntarily sign a written informed consent form.\n\nExclusion Criteria:\n\n1. Prior treatment with CEACAM5-targeted therapy or TOP1 ADC agents.\n2. History of symptomatic congestive heart failure (CHF) (New York Heart Association \\[NYHA\\] Class II-IV) or serious arrhythmia requiring treatment.\n3. History of myocardial infarction or unstable angina within 6 months prior to enrollment.\n4. Male and female mean QT interval corrected by Fredericia's formula (QTcF) prolongation to \\> 470 msec in females or \\> 450 msec in males based on triplicate 12-lead electrocardiograms (ECGs).\n5. Inability or unwillingness to discontinue concomitant medications known to prolong the QT interval.\n6. Has a history of interstitial lung disease (e.g., non-infectious interstitial pneumonitis, pulmonary fibrosis, and severe radiation pneumonitis) or current interstitial lung disease or is suspected to have this disease by imaging at screening.\n7. History of underlying pulmonary disease, including but not limited to pulmonary embolism within 3 months of starting study treatment, severe asthma, severe COPD, restrictive lung disease, and other clinically significant pulmonary compromise or requirement for supplemental oxygen.\n8. Any autoimmune, connective tissue or inflammatory disorders (eg, rheumatoid arthritis, Sjögren's syndrome, sarcoidosis, etc.) where there is documented, or a suspicion of pulmonary involvement at the time of screening.\n9. Uncontrolled infection requiring IV antibiotics, antivirals, or antifungals.\n10. Known human immunodeficiency virus (HIV) infection.\n11. Current active syphilis infection (i.e., positive for Treponema pallidum antibodies (RPR or TRUST) or requiring systemic treatment)\n12. Participants with active viral (any etiology) hepatitis are excluded.\n13. Breastfeeding women (women who are willing to temporarily interrupt breastfeeding will also be excluded), or those who are pregnant as confirmed by pregnancy test within 7 days prior to enrollment.\n14. Has spinal cord compression or clinically active brain metastases, defined as untreated, symptomatic, or requiring corticosteroids or anticonvulsants to control associated symptoms. Participants with asymptomatic CNS metastases who are radiologically and neurologically stable for at least 4 weeks following CNS-directed therapy and are on stable or tapering doses of corticosteroids equivalent to ≤10 mg/day prednisone are eligible.\n15. Has multiple primary malignancies within 3 years prior to enrollment, except adequately resected non-melanoma skin cancer (e.g., resected basal or squamous cell skin cancer), curatively treated in situ disease (e.g., carcinoma in situ of the cervix or breast), or other solid tumors curatively treated (e.g., superficial bladder cancer).\n16. Substance abuse or any other medical condition that, in the opinion of the investigator, may increase the safety risk of the participant or interfere with the participant's participation in the clinical study or the evaluation of the clinical study.\n17. Participants who have received strong CYP3A4 inhibitors or inducers within 14 days prior to the first dose of study drug or will continue to use such drugs during the trial, or participants who receive OATP1B1 or OATP1B3 inhibitors.\n18. History of toxic epidermal necrolysis, Steven Johnson syndrome.\n19. Known hypersensitivity to study drug substance or excipients.\n20. Participants who, in the opinion of the investigator, have other reasons that make them unsuitable for the study.",
+  "enrollment": 260,
+  "has_results": false,
+  "interventions": [
+   "SYS6062"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 CEACAM5 표적 치료 또는 TOP1 표적 ADC 약물 치료 경험이 있는 환자",
+    "간질성 폐질환 병력이 있거나 현재 해당 질환이 의심되는 환자",
+    "조절되지 않는 활동성 뇌전이 또는 척수 압박이 있는 환자",
+    "등록 전 6개월 이내 심근경색, 불안정형 협심증 또는 중증 심부전 이력이 있는 환자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "표준 치료에 실패했거나 가능한 치료법이 없는 진행성 또는 전이성 췌장암 환자를 위한 CEACAM5 표적 ADC 임상 1/2상 시험",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07897227",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-05-01",
+  "sex": "ALL",
+  "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+  "start_date": "2026-11-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

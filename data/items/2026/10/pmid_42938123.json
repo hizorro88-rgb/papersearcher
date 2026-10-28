@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) has exceptionally high mortality, largely because of late diagnosis, while established blood biomarkers such as CA19-9 have limited sensitivity for early detection. We evaluated whether modelling serum proteomic measurements as supervised pairwise statistical graphs using synolitic graph neural networks (SGNNs) could provide a useful framework for pre-diagnostic PDAC classification. Methods: We analysed 217 pre-diagnostic serum samples from UKCTOCS, comprising 100 PDAC samples from 75 women and 117 control samples, profiled for 97 proteins. Samples were divided into a development set collected 0-1 year before diagnosis (n = 110) and a temporal holdout set collected 1-2 years before diagnosis (n = 107); 25 PDAC participants contributed samples to both windows. The final SGNN used fold-internal mutual-information selection of 30 proteins, pairwise RBF-SVM-derived edge information, minimum-connected sparsification, and a 10-member GATv2 ensemble per cross-validation fold. Conventional machine-learning comparators were tuned using development data only. Results: The SGNN achieved a mean 5-fold development ROC-AUC of 75.33 ± 10.43%, lower than the tuned Random Forest (81.67%); the other tuned comparators achieved 77.67% (XGBoost), 77.17% (logistic regression), and 73.17% (SVM). Averaging predictions across the five-fold-specific SGNN ensembles yielded a temporal-holdout ROC-AUC of 64.35% (95% CI 52.6-74.6%). In the participant-independent subset of 25 PDAC cases not represented in development and 57 controls, ROC-AUC was 66.04% (95% CI 52.56-78.88%). Conclusions: SGNNs provide a feasible graph-based representation of pre-diagnostic proteomic data but did not outperform optimised conventional machine-learning methods within development cross-validation. The temporal and participant-independent performance estimates warrant further investigation in larger fully independent cohorts. A graph-specific predictive advantage was not directly tested-no such advantage was demonstrated in this dataset-and the clinical utility has not been established.",
+ "authors": [
+  "Zaikin A",
+  "Gentry-Maharaj A",
+  "Apostolidou S",
+  "Menon U",
+  "Trukhanov A",
+  "Oganezova JG",
+  "Whitwell HJ",
+  "Blyuss O"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938123",
+ "importance": 0.72,
+ "key_points_ko": [
+  "그래프 신경망(SGNN)의 5분할 교차 검증 평균 수신기 Operating Characteristic 아래 면적(ROC-AUC)은 75.33 ± 10.43%였습니다.",
+  "최적화된 랜덤 포레스트(Random Forest)는 개발 세트에서 81.67%의 ROC-AUC를 기록했습니다.",
+  "진단 1~2년 전 샘플을 이용한 시간적 유예 세트에서 SGNN의 ROC-AUC는 64.35%(95% 신뢰구간 52.6-74.6%)였습니다.",
+  "개발 세트에 포함되지 않은 독립 환자 하위 집합에서의 ROC-AUC는 66.04%(95% 신뢰구간 52.56-78.88%)였습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/diagnostics16203283",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938123"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938123/"
+ },
+ "summary_ko": "연구진은 진단 전 혈청 단백질 측정을 지도 방식의 쌍대 통계 그래프로 모델링하는 시냅틱 그래프 신경망(SGNN)이 췌관선암(PDAC)의 진단 전 분류에 유용한지 평가했습니다. 영국 여성 코호트(UKCTOCS)의 217개 진단 전 혈청 샘플(PDAC 100개, 대조군 117개)을 분석하여 97개의 단백질을 프로파일링했습니다. 개발 세트에서 SGNN은 평균 5분할 수신기 Operating Characteristic 아래 면적(ROC-AUC) 75.33 ± 10.43%를 기록하여 최적화된 전통적 머신러닝 기법보다 우수하지 않았습니다. 시간적 유예 세트에서의 ROC-AUC는 64.35%였습니다. 결론적으로 SGNN은 타당한 표현 방식을 제공했으나 기존 방법을 능가하지는 못했으며 임상적 유용성은 아직 확립되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Graph Neural Network Modelling of Pre-Diagnostic Serum Proteomics for Pancreatic Cancer Detection",
+ "title_ko": "췌장암 진단 전 혈청 단백질체학의 그래프 신경망 모델링",
+ "trial": null,
+ "type": "paper"
+}

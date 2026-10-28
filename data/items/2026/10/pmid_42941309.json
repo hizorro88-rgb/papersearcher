@@ -1,0 +1,63 @@
+{
+ "abstract": "Background: This study aimed to define the clinical significance of pretreatment serum growth differentiation factor-15 (GDF-15), including its associations with clinical vulnerability, survival, and chemotherapy outcomes in advanced pancreatic ductal adenocarcinoma (PDAC). Methods: Pretreatment serum samples were prospectively collected from 80 patients with locally advanced or metastatic PDAC. GDF-15 was measured using an enzyme-linked immunosorbent assay and analyzed continuously and according to the cohort median. Associations with clinicopathological characteristics and overall survival (OS) were evaluated in the overall cohort. Treatment effectiveness, delivery, and safety were additionally assessed among 68 patients who received systemic chemotherapy. Results: The median GDF-15 concentration was 362.6 pg/mL. Higher GDF-15 was associated with poor performance status, involvement of multiple metastatic organ sites, an elevated neutrophil-to-lymphocyte ratio, and hypoalbuminemia. Eleven of the 12 patients unable to receive chemotherapy because of clinical deterioration had high GDF-15. The high GDF-15 group had shorter OS than the low GDF-15 group in the overall cohort (median, 6.1 vs. 13.9 months; hazard ratio [HR] = 1.96; 95% CI, 1.23-3.13; p = 0.002). The association between continuous GDF-15 and OS was attenuated and no longer statistically significant after multivariable adjustment (HR per doubling = 1.22; 95% CI, 0.97-1.52; p = 0.085). Among treated patients, progression-free survival and objective response did not differ significantly between groups, whereas high GDF-15 was associated with shorter OS (median, 8.7 vs. 14.2 months; HR = 1.72; 95% CI, 1.02-2.90; p = 0.025) and treatment duration (median, 3.2 vs. 6.3 months; p = 0.007). Relative dose intensity and subsequent treatment rates were similar. Febrile neutropenia occurred exclusively in the high GDF-15 group, which also accounted for four of five treatment-related deaths. Conclusions: Elevated pretreatment GDF-15 was associated with limited treatment fitness and inferior survival in patients with advanced PDAC, without clear evidence of intrinsic chemotherapy resistance. GDF-15 may represent a potential marker of systemic vulnerability in advanced PDAC, although its clinical utility requires external validation.",
+ "authors": [
+  "Lee JH",
+  "Shin K",
+  "Hong TH",
+  "Kim IH",
+  "Hong SH",
+  "Lee M",
+  "Park SJ"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42941309",
+ "importance": 0.72,
+ "key_points_ko": [
+  "전체 환자 코호트에서 GDF-15가 높은 그룹은 낮은 그룹에 비해 전체 생존기간(OS)이 짧았습니다 (중앙값 6.1개월 대 13.9개월, 위험비 1.96, p=0.002).",
+  "항암 치료를 받은 환자군에서도 높은 GDF-15 그룹은 전체 생존기간이 짧았으며 (중앙값 8.7개월 대 14.2개월, 위험비 1.72, p=0.025), 치료 기간도 짧았습니다 (중앙값 3.2개월 대 6.3개월, p=0.007).",
+  "임상적 악화로 항암 치료를 받지 못한 환자 12명 중 11명이 높은 GDF-15 수치를 보였습니다.",
+  "발열성 호중구감소증은 높은 GDF-15 그룹에서만 발생했으며, 치료 관련 사망 5건 중 4건도 이 그룹에서 발생했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/jcm15207789",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42941309"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42941309/"
+ },
+ "summary_ko": "이 연구는 진행성 췌장관선암(PDAC) 환자 80명을 대상으로 치료 전 혈청 성장 분화 인자-15(GDF-15)의 임상적 의미를 조사했습니다. 높은 GDF-15 수치는 불량한 전신 상태, 다발성 전이, 영양 실조 등 임상적 취약성 및 짧은 전체 생존기간(OS)과 연관을 보였습니다. 전신 항암 치료를 받은 환자 중에서도 GDF-15가 높은 그룹은 전체 생존기간이 더 짧고 발열성 호중구감소증 등의 부작용이 관찰되었습니다. 연구진은 GDF-15가 진행성 췌장암에서 전신 취약성을 나타내는 잠재적 표지자가 될 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pretreatment Serum GDF-15 and Features of Clinical Vulnerability in Advanced Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "진행성 췌장관선암에서 치료 전 혈청 GDF-15와 임상적 취약성 특성",
+ "trial": null,
+ "type": "paper"
+}

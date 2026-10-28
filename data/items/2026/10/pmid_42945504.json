@@ -1,0 +1,57 @@
+{
+ "abstract": "PURPOSE: Optimal care for patients with metastatic pancreatic ductal adenocarcinoma (PDAC) requires coordination across multiple providers, creating substantial time toxicity-the time patients spend engaged with the health care system. This study quantified total time toxicity and identified predictors of prolonged time toxicity in patients with metastatic PDAC.\nMETHODS: We retrospectively analyzed patients with metastatic PDAC treated at a high-volume center from 2018 to 2022, excluding those who did not receive cancer-directed therapy or received care at multiple facilities. Time toxicity was defined as the proportion of overall survival (OS) spent in cancer-related health care encounters, with hospice time excluded. Beta regression identified predictors of time toxicity, incorporating OS as a scaling factor. Secondary outcomes included systemic therapy in the last 30 days of life, hospice transition after hospitalization, and inpatient death.\nRESULTS: Among 177 patients (median age 66 years; 57.1% male; 81.9% White), the majority received chemotherapy (n = 175) and palliative care consultation (n = 107). Median total time toxicity was 20% (IQR, 15%-28%), including 7% inpatient (IQR, 3%-16%) and 10% ambulatory (IQR, 8%-13%). Overall, 39% (n = 69) received systemic therapy in the last 30 days of life, 42.4% (n = 75) transitioned to hospice after hospitalization, and 14.8% (n = 21) died inpatient. On multivariable analysis, older age, rural/urban residence, and chemotherapy regimen predicted time toxicity (all P < .05). Each additional year of age was associated with a reduced time toxicity of 0.29%; urban residence was associated with a 3.3% increase in time toxicity compared with rural; and receiving multiple chemotherapy regimens was associated with 8.65% decrease compared with 5-fluorouracil-based regimens only.\nCONCLUSION: Patients with metastatic PDAC spend roughly 1 in 5 days of survival engaged in health care interactions. Demographic, socioeconomic, and treatment-related factors all influence time toxicity.",
+ "authors": [
+  "Quinn PL",
+  "Schaefer M",
+  "Ejaz A"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42945504",
+ "importance": 0.77,
+ "key_points_ko": [
+  "전이성 췌장암 환자는 전체 생존기간의 중앙값 20%(약 5일 중 1일)를 의료 기관 이용에 소비했습니다.",
+  "전체 환자의 39%(69명)가 임종 전 30일 이내에 전신 항암 치료를 받았으며, 42.4%(75명)는 입원 치료 후 호스피스로 전원되었습니다.",
+  "도시 거주자는 시골 거주자에 비해 시간 독성이 3.3% 증가했고, 연령이 1세 증가할 때마다 시간 독성은 0.29% 감소했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1200/OP-26-00413",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42945504"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Oncol Pract",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945504/"
+ },
+ "summary_ko": "본 연구는 2018년부터 2022년까지 상급 병원에서 치료받은 전이성 췌관선암(PDAC) 환자 177명을 대상으로 의료 시스템 이용에 소요되는 시간 독성(time toxicity)을 분석했습니다. 연구 결과 전이성 췌장암 환자들은 전체 생존기간(OS)의 중앙값 20%를 병원 방문 및 입원 등 의료 관련 활동에 소비했습니다. 전체 환자의 39%는 임종 전 30일 이내에도 전신 항암 치료를 받았으며, 14.8%는 입원 중 사망했습니다. 고령일수록 시간 독성이 감소한 반면, 도시 거주 환자는 시골 거주 환자에 비해 시간 독성이 더 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Time Toxicity and End-of-Life Treatment of Metastatic Pancreatic Cancer",
+ "title_ko": "전이성 췌장암 환자의 시간 독성과 임종기 치료 실태",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,118 @@
+{
+ "abstract": "This study is being done to test the safety and effectiveness of combining ZN-c3 and Gemcitabine in participants with pancreatic cancer.\n\nThe names of the study drugs involved in this study are:\n\n* ZN-c3 (a small molecule inhibitor of the WEE1 tyrosine kinase)\n* Gemcitabine (a nucleoside metabolic inhibitor)\n\nThis is an open label, single arm phase 2 trial evaluating ZN-c3 combined with gemcitabine in second-line advanced pancreatic cancer. There are lab experiments that show that pancreatic cancer cells can respond to a combination of ZN-c3, an experimental drug, with gemcitabine.\n\nThe U.S. Food and Drug Administration (FDA) has not approved ZN-c3 as a treatment for any disease. The FDA has approved gemcitabine as a treatment option for advanced pancreatic cancer.\n\nThe research study procedures include screening for eligibility, study treatment including evaluations and follow up visits, radiological scans (Computerized Tomography, Magnetic Resonance Imaging, or Positron Emission Tomography), blood tests, electrocardiogram, and tumor biopsy.\n\nIt is expected that about 34 people will take part in this research study.\n\nThe Lustgarten Foundation for Pancreatic Research and Stand Up to Cancer are supporting this research study by providing funding to conduct the study. Zentalis is supplying the study drug, ZN-c3.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06015659",
+ "importance": 0.87,
+ "key_points_ko": [
+  "백금(Platinum) 기반 항암 치료 후 진행했거나 내약성이 없는 진행성 췌장암 환자의 2차 치료 임상시험입니다.",
+  "WEE1 억제제인 ZN-c3와 젬시타빈(Gemcitabine) 병용 요법의 효과와 안전성을 평가했습니다.",
+  "현재 이 임상시험은 조기 종료(TERMINATED)되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06015659"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2023-08-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Brandon Huffman, MD",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06015659"
+ },
+ "summary_ko": "이 임상시험은 진행성 췌장암 환자를 대상으로 ZN-c3와 젬시타빈(Gemcitabine) 병용 요법의 안전성과 효과를 평가하기 위해 기획된 단일군 2상 연구입니다. 백금 기반 항암 치료 후 질병이 진행했거나 부작용으로 치료를 중단한 2차 치료 환자를 대상으로 시행되었습니다. ZN-c3는 WEE1 티로신 키나아제(WEE1 tyrosine kinase)를 억제하는 표적치료제 후보물질입니다. 현재 해당 임상시험은 조기 종료(TERMINATED)된 상태입니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Advanced Pancreatic Adenocarcinoma",
+  "Pancreatic Cancer",
+  "Pancreatic Ductal Adenocarcinoma"
+ ],
+ "title": "ZN-c3 + Gemcitabine in Pancreatic Cancer",
+ "title_ko": "진행성 췌장암 환자를 대상으로 한 ZN-c3 및 젬시타빈(Gemcitabine) 병용 요법 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Adenocarcinoma",
+   "Pancreatic Cancer",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 병리학적으로 확진된 표준 치료가 불가능한 진행성 또는 전이성 췌관선암 환자\n• 이전 전이성 단계에서 백금 기반(Platinum-based) 항암 치료를 1차례 받고 진행했거나 부작용으로 중단한 환자\n• 만 18세 이상\n• ECOG 수행능력 평가 점수 0점 또는 1점 (지난 2주간 악화가 없는 상태)\n• 적절한 골수, 간, 신장 장기 기능을 보유한 환자\n• RECIST v1.1 기준 측정 가능한 병변이 있고 종양 생검에 동의한 환자\n\n제외 기준:\n• 이전에 WEE1 억제제를 투여받은 적이 있는 환자\n• 진행성/불치성 췌장암 상태에서 젬시타빈(Gemcitabine)을 투여받았거나 보조항암 젬시타빈 완료 후 6개월 이내 재발한 환자\n• 경구 약물 복용이 불가능하거나 위루관(PEG) 또는 총비경구영양(TPN)을 제공받는 환자\n• 안정되지 않은 뇌전이 환자\n• CYP3A4, P-gp 상호작용 관련 강력한 억제제 또는 유도제를 복용 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Participants must have a pathologically confirmed advanced pancreatic adenocarcinoma that is not curable with standard approaches based on the judgement of the treating investigator. Patients with metastatic pancreatic cancer and unresectable pancreatic cancer are eligible.\n* Patients must have progressed or not tolerated a platinum-based regimen prior to enrolling on the trial.\n* Patients must have received no more than 1 prior lines of platinum-based chemotherapy in the metastatic setting. Therapy given in the adjuvant or neoadjuvant setting is counted as a prior therapy if it occurred less than 6 months before cancer recurrence or progression.\n* Age ≥ 18 years. As no dosing or adverse event data are currently available in participants \\< 18 years of age, children and adolescents are excluded from this study.\n* ECOG performance status of 0 or 1 (see Appendix A) with no deterioration over the previous 2 weeks prior to day of first dosing (Cycle 1, Day 1).\n* Participants must have adequate organ and marrow function as defined below:\n\n  * Absolute neutrophil count ≥ 1,500/mm3\n  * Platelets ≥ 100,000/mm3 excluding measurements obtained within 3 days after transfusion of platelets\n  * Hemoglobin ≥ 9 g/dL\n  * Total bilirubin ≤ 1.5 × institutional upper limit of normal (ULN); or total bilirubin ≤3.0 x ULN with direct bilirubin WNL in patients with documented Gilbert's Syndrome.\n  * Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) Albumin ≤2.5 x institutional ULN; ≤ 5 × institutional ULN if liver metastases ≥ 2.7 g/dL\n  * Creatinine clearance (CrCl) ≥ 50 ml/min based on Cockroft-Gault method\n* Participants must have measurable disease by RECIST v. 1.1 criteria and be willing to undergo a pre-treatment and on-treatment tumor biopsy. The biopsy requirement can be waived only with approval from the sponsor-investigator.\n* For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated, unless there is a drug-drug interaction with study medication.\n* Patient has read and understands the informed consent form (ICF) and has been given written ICF prior to any study procedures which includes compliance with the requirements and restrictions listed in the ICF and in this protocol.\n* Female patients who are not of child-bearing potential\\* and women of childbearing potential who agree to use adequate contraceptive measures prior to the first dose and for 90 days after the last dose of ZN-c3, and who have a negative serum or urine pregnancy test within 14 days prior to the start of study treatment.\n\n  --Evidence of non-childbearing status, defined as below:\n  * Women who are surgically sterile (i.e., have undergone bilateral salpingectomy, bilateral oophorectomy, or complete hysterectomy).\n  * Age ≥50 years with any one or more of the conditions below:\n\n    * Amenorrheic for 12 months or more following cessation of all hormonal replacement therapy\n    * Had radiation-induced menopause with last menses \\>1 year ago\n    * Had chemotherapy-induced menopause with last menses \\>1 year ago\n  * Age \\<50 if amenorrhoeic for 12 months or more following cessation of all hormonal replacement therapy and if luteinizing hormone and follicle- stimulating hormone levels are in the post-menopausal range per institutional standards of practice.\n* Male patients should be willing to abstain or use barrier contraception (i.e., condoms) for the duration of the study drug exposure and for 90 days after the last dose of ZN- c3 after study treatment discontinuation.\n* Participants with a history of hepatitis C virus (HCV) infection must have been treated and cured. For participants with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load, unless there is a drug-drug interaction with study medication.\n\nExclusion Criteria:\n\n* Patients who have previously received a WEE1 inhibitor are not eligible.\n* Patients who received gemcitabine for incurable pancreatic cancer (locally advanced unresectable or metastatic) or patients progressing within 6 months of receiving neoadjuvant/adjuvant gemcitabine.\n* Use of an anti-cancer treatment drug ≤ 21 days or 5 half-lives (whichever is shorter) prior to the first dose of ZN-c3.\n* Active use of treatment prescription or non-prescription drugs, or food and herbal supplements, that are strong/moderate CYP3A4 inhibitors, P-gp inhibitors, or strong CYP3A4 inducers.\n* Any prior palliative radiation to ≥5% of the bone marrow, and must have been completed and recovered from adverse effects of therapy at least 21 days prior to the first dose of ZN-c3.\n* Participants who have undergone major surgical procedures ≤ 28 days, or minor surgical procedures ≤ 7 days, of the first dose of ZN-c3. No waiting period is required following port-a-cath or other central venous access placement.\n* Presence of CTCAE v5.0 Grade \\>1 toxicity from prior therapy (except alopecia, anorexia or CTCAE grade 2 peripheral neuropathy).\n* Patient is unable to swallow oral medications. Note: Patient may not have a percutaneous endoscopic gastrostomy (PEG) tube or be receiving total parenteral nutrition (TPN).\n* Participants with known malignant central nervous system (CNS) disease other than neurologically stable, treated brain metastases - defined as metastasis having no evidence of progression or hemorrhage for at least 2 weeks after the completion of treatment (including brain radiotherapy). Must be off any systemic corticosteroids for the treatment of brain metastases for at least 14 days prior to enrollment.\n* History of hypersensitivity to compounds of similar chemical or biologic composition to gemcitabine or ZN-c3.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection\\*, uncontrolled major seizure disorder, unstable spinal cord compression, superior vena cava syndrome, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Recurrent, active or suspected infection and/or patients who are predisposed to an increased risk of severe infection. Patients with infections that require antibiotics or antifungal agents may be eligible, provided that infection is resolved and treatment is completed at least 7 days prior to study treatment start.\n* Participants with a clinically significant gastrointestinal disorder that in the opinion of the treating investigator could impact the absorption of the study drugs, including but not limited to refractory nausea and vomiting, chronic gastrointestinal disease, inability to swallow the formulated product, or previous significant bowel resection that would preclude adequate absorption, distribution, metabolism, or excretion of ZN-c3.\n* Participants with a history of a clinically relevant second primary malignancy within the past 2 years. Exceptions include: resected basal and squamous cell carcinomas of the skin and completely resected carcinoma in situ of any type.\n* Administration of strong or moderate CYP3A4 inhibitors or inducers and P-gp inhibitors. (See Appendix B)\n* Pregnant or lactating women are excluded from this study because gemcitabine/ZN- c3 are anti-cancer agents with the potential for teratogenic or abortifacient effects. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with gemcitabine/ZN-c3, breastfeeding should be discontinued if the mother is treated with gemcitabine/ZN-c3.\n* Any of the following cardiac diseases currently or within 6 months of the first dose of ZN-c3:\n\n  * 12-lead ECG demonstrating a corrected QT interval using Fridericia's formula (QTcF) of \\>470 ms, except for subjects with atrioventricular pacemakers or other conditions (e.g., right bundle branch block) that render the QT measurement invalid.",
+  "enrollment": 12,
+  "has_results": true,
+  "interventions": [
+   "Zentalis",
+   "Gemzar"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전에 젬시타빈(Gemcitabine) 또는 WEE1 억제 치료를 받은 병력",
+    "경구 약물 복용 불가 및 위루관/비경구영양 공급 환자",
+    "치료되지 않거나 조절되지 않는 뇌전이",
+    "약물 상호작용 우려가 있는 CYP3A4/P-gp 관련 약물 복용 중인 환자"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "백금 기반 항암 요법을 1차 치료로 받은 진행성 또는 전이성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine"
+   ],
+   "prior_required": [
+    "platinum"
+   ],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06015659",
+  "phase": "PHASE2",
+  "primary_completion_date": "2025-08-06",
+  "sex": "ALL",
+  "sponsor": "Brandon Huffman, MD",
+  "start_date": "2023-11-16",
+  "status": "TERMINATED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

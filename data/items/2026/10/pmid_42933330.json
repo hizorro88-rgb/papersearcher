@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Home time, conceptualized as days alive outside of inpatient medical settings, captures dimensions of care obscured by traditional measures such as morbidity and mortality. For patients with pancreatic ductal adenocarcinoma (PDAC), home time loss is particularly meaningful given the poor prognosis and substantial morbidity following pancreatectomy. The relation between frailty and home time loss in this population has not been evaluated.\nMATERIALS AND METHODS: Using SEER-Medicare data (2013-2022), we identified patients ≥66-years-old undergoing pancreatectomy for non-metastatic PDAC. We classified patients preoperatively as non-frail, pre-frail, or frail using the Claims-Based Frailty Index. We defined home time loss as cumulative days lost to hospitalization, skilled nursing facility (SNF) admission, or death in the year post-pancreatectomy. We used negative binomial regression to estimate the association between frailty and home time loss, adjusting for sociodemographic and clinical factors.\nRESULTS: Among 4553 patients (median age 74), 44.3% were non-frail, 47.9% pre-frail, and 7.8% frail. One-year mortality was 31.7% (non-frail: 26.9%; pre-frail: 33%; frail: 51.1%). Mean home time loss was 83.8 days (hospitalization: 19.0; SNF: 7.4; death: 57.5). Among days alive, the percentage spent hospitalized was 3.6% in non-frail, 4.7% in pre-frail, and 7.7% in frail patients (p < 0.001). Compared with non-frail patients, pre-frail patients lost 23% more days at home (p < 0.001) and frail patients lost 86% more days (p < 0.001); this association persisted across hospital and SNF use.\nDISCUSSION: Frailty is strongly associated with home time loss in the year after curative-intent pancreatectomy and warrants careful consideration during shared decision-making for patients with non-metastatic PDAC contemplating surgery.",
+ "authors": [
+  "Raymond-King L",
+  "McGrath S",
+  "Mukherjee B",
+  "Parikh H",
+  "Rothen J",
+  "Dinan MA",
+  "Soulos PR",
+  "Gross CP"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42933330",
+ "importance": 0.77,
+ "key_points_ko": [
+  "분석 대상 환자는 총 4553명이며 중앙 연령은 74세였습니다.",
+  "환자의 44.3%는 비쇠약, 47.9%는 전구쇠약, 7.8%는 쇠약 상태였습니다.",
+  "1년 전체 사망률은 31.7%였으며 비쇠약 26.9%, 전구쇠약 33%, 쇠약 51.1%였습니다.",
+  "비쇠약 환자에 비해 전구쇠약 환자는 집에서 보낸 시간을 23% 더 잃었고 쇠약 환자는 86% 더 잃었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1016/j.jgo.2026.104663",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42933330"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Geriatr Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933330/"
+ },
+ "summary_ko": "본 연구는 SEER-Medicare 데이터를 이용하여 66세 이상의 비전이성 췌장관암(PDAC)으로 췌장절제술을 받은 환자 4553명을 분석했습니다. 수술 전 쇠약 상태에 따라 환자를 분류하고 수술 후 1년 동안 입원, 요양시설 입소, 사망으로 인해 집에서 보내지 못한 일수인 재택 시간 손실을 평가했습니다. 분석 결과, 쇠약한 환자는 비쇠약 환자에 비해 재택 시간 손실이 86% 더 많았으며, 이러한 연관성은 입원 및 요양시설 이용 모두에서 지속되었습니다. 초록에 명시된 1년 전체 사망률은 31.7%였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Frailty and home time loss after surgical resection for patients with non-metastatic pancreatic cancer",
+ "title_ko": "전이가 없는 췌장암 환자의 수술 후 쇠약과 재택 시간 손실",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Intraductal papillary mucinous neoplasm (IPMN), a grossly visible precursor of pancreatic ductal adenocarcinoma, is classified into gastric, intestinal, and pancreatobiliary subtypes, each associated with distinct clinicopathological features and biological aggressiveness. We hypothesised that the tumour microenvironment can explain the association between histological subtypes and clinical outcomes. We first enrolled 116 IPMN resection cases, with or without associated invasive carcinoma, and then sequenced four single-nucleus RNA-sequencing (snRNA-seq) libraries from those with distinct histological grades and subtypes. The snRNA-seq revealed that fibroblasts were the main source of cell-cell communication, whereas myeloid and mast cells were the main receivers. Therefore, we subclassified fibroblasts into inflammatory (iCAF), myofibroblast (myCAF), and reticular-like (rCAF) subpopulations, and myeloid cells into monocytes, neutrophils, macrophages, and dendritic cell subpopulations. Cell-cell interaction analysis revealed that iCAF and rCAF mainly communicated with SPP1High macrophages via the C3-integrin pathway and with neutrophils via the CXCL12-CXCR4 pathway, whereas myCAF mainly communicated with monocytes and mast cells via ECM-related pathways. Subsequently, we performed two panels of Opal multiplex immunohistochemistry and Elastic van Gieson staining to evaluate fibroblast and myeloid subpopulations and collagen, respectively, in all enrolled cases. Quantitative image analyses revealed that iCAF, neutrophils, and SPP1+ macrophages were associated with higher histological grade, whereas myCAF, collagen, monocytes, and mast cells were associated with lower histological grade. No decrease in myCAF or increase in neutrophils was observed in the invasive intestinal type. Finally, we classified the cases into three groups based on the density of fibroblast and myeloid subpopulations: iCAF/SPP1+ macrophage-rich (I-stroma), neutrophil-rich (N-stroma), and myCAF/mast cell-rich (M-stroma). These stromal groups were associated with distinct clinicopathological features. In conclusion, we revealed that the heterogeneous microenvironment of IPMN, associated with distinct clinicopathological features, may explain the clinical significance of histological subtypes. © 2026 The Pathological Society of Great Britain and Ireland.",
+ "authors": [
+  "Kodama T",
+  "Abe E",
+  "Omori M",
+  "Nakanishi T",
+  "Shigeoka M",
+  "Koma YI",
+  "Horie M"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934856",
+ "importance": 0.71,
+ "key_points_ko": [
+  "총 116건의 IPMN 절제 케이스와 단일핵 RNA 시퀀싱(snRNA-seq) 라이브러리 4개를 분석했습니다.",
+  "iCAF, 중성구(neutrophil), SPP1+ 대식세포는 더 높은 조직학적 등급과 연관되었습니다.",
+  "myCAF, 콜라겐(collagen), 단핵구(monocyte), 비만세포(mast cell)는 더 낮은 조직학적 등급과 연관되었습니다.",
+  "세 가지 기질 그룹(iCAF/SPP1+ 대식세포 풍부, 중성구 풍부, myCAF/비만세포 풍부)은 각각 뚜렷한 임상병리학적 특징을 보였습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1002/path.70148",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934856"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934856/"
+ },
+ "summary_ko": "본 연구는 췌장 췌관내유두상점액종양(IPMN)의 조직학적 아형과 임상적 결과 사이의 연관성을 종양 미세환경(tumor microenvironment)을 통해 분석했습니다. 116건의 IPMN 절제 케이스와 단일핵 RNA 시퀀싱(snRNA-seq)을 활용하여 섬유아세포와 골수계 세포(myeloid cell) 간의 세포 간 상호작용을 조사했습니다. 그 결과 섬유아세포와 골수계 세포의 하위 집군 밀도에 따라 종양이 세 가지 기질 그룹(I-stroma, N-stroma, M-stroma)으로 분류되었으며, 이는 서로 다른 임상병리학적 특징과 연관성을 보였습니다. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Fibroblast-myeloid stromal crosstalk is associated with clinicopathological diversity in intraductal papillary mucinous neoplasms of the pancreas",
+ "title_ko": "췌장 췌관내유두상점액종양(IPMN)의 임상병리학적 다양성과 연관된 섬유아세포-골수계 기질 상호작용",
+ "trial": null,
+ "type": "paper"
+}

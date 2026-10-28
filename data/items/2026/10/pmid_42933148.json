@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: FOLFIRINOX and gemcitabine/nab-paclitaxel are widely used first-line regimens in metastatic pancreatic cancer (mPC); however, direct real-world comparisons and clear criteria for selecting between the two remain limited.\nMETHODS: In this retrospective cohort study, we used a multicenter real-world data registry to compare outcomes between patients with mPC treated with FOLFIRINOX and gemcitabine/nab-paclitaxel and explore associations between genomic alterations and survival outcomes. The cohort included patients with mPC treated with FOLFIRINOX (n = 272) or gemcitabine/nab-paclitaxel (n = 280) between 2010 and 2022 at tertiary referral cancer centers. The primary outcomes were overall and progression-free survival. Available next-generation sequencing results were used to explore potential prognostic biomarkers.\nFINDINGS: The FOLFIRINOX group was significantly younger than the gemcitabine/nab-paclitaxel group. Before propensity score matching, the FOLFIRINOX group showed significantly longer median overall and progression-free survival. Afterward, survival outcomes no longer significantly differed. Next-generation sequencing panel data were available for 57 and 29 patients in the FOLFIRINOX and gemcitabine/nab-paclitaxel groups, respectively. In the gemcitabine/nab-paclitaxel group, ARID1A and RNF43 mutations were correlated with shorter progression-free survival. Genomic alterations in the TGF-β pathway were associated with longer overall survival with gemcitabine/nab-paclitaxel.\nINTERPRETATION: No statistically significant differences in OS or PFS were observed between FOLFIRINOX and gemcitabine/nab-paclitaxel after propensity score matching. The exploratory genomic associations require validation in larger prospective cohorts before their potential role in treatment selection can be established.\nFUNDING: This work was supported by grants from the National Research Foundation of Korea (RS-2024-00,335,625, RS-2024-00,342,475, and NRF-2021R1A2C1008898), Korea Evaluation Institute of Industrial Technology (20,023,781), and Korea Health Technology R&D Project through the Korea Health Industry Development Institute (HI22C047400).",
+ "authors": [
+  "Kim JH",
+  "Lee SY",
+  "Leem G",
+  "Lee HS",
+  "Jang SI",
+  "Chung MJ",
+  "Park JY",
+  "Bang S"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42933148",
+ "importance": 0.69,
+ "key_points_ko": [
+  "총 552명의 전이성 췌장암 환자(FOLFIRINOX 군 272명, gemcitabine/nab-paclitaxel 군 280명)가 분석에 참여했습니다.",
+  "성향 점수 매칭 전에는 FOLFIRINOX 군이 중앙 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다.",
+  "성향 점수 매칭 후에는 두 치료 요법 간의 생존 결과에 유의한 차이가 없었습니다.",
+  "gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 유전자 변이는 짧은 무진행 생존기간과 상관관계가 있었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1016/j.tranon.2026.103085",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42933148"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Transl Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933148/"
+ },
+ "summary_ko": "연구진은 다기관 실제 임상 데이터(real-world data)를 활용하여 전이성 췌장암(metastatic pancreatic cancer, mPC) 환자에게 사용된 1차 치료 요법인 FOLFIRINOX와 gemcitabine/nab-paclitaxel의 치료 성적을 비교했습니다. FOLFIRINOX 치료군은 gemcitabine/nab-paclitaxel 치료군보다 연령이 유의하게 낮았습니다. 성향 점수 매칭(propensity score matching) 전에는 FOLFIRINOX 군의 전체 생존기간(OS)과 무진행 생존기간(PFS)이 더 길었으나, 매칭 후에는 두 치료 간 생존 결과에 통계적으로 유의한 차이가 없었습니다. 탐색적 유전체 분석에서는 gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 변이가 짧은 무진행 생존기간과 연관된 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "FOLFIRINOX vs. gemcitabine/nab-paclitaxel for metastatic pancreatic cancer: A real-world study",
+ "title_ko": "전이성 췌장암에서 FOLFIRINOX 대 gemcitabine/nab-paclitaxel: 실제 임상 데이터 연구",
+ "trial": null,
+ "type": "paper"
+}

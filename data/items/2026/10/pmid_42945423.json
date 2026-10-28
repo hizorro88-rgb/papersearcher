@@ -1,0 +1,60 @@
+{
+ "abstract": "Background Substance P (SP), a neuropeptide acting mainly through its high-affinity neurokinin-1 receptor (NK-1R), is a key signaling molecule in the pancreas. It is integral to the neuro-pancreatic axis, but its role shifts dramatically between physiological and pathological states. Summary Acting through NK-1R, SP plays various roles in the pancreatic physiological state and disease state. Under physiological conditions, SP contributes to the regulation of exocrine and endocrine functions. In pathological settings, SP signaling exerts effects on modulation of immunity, β-cell preservation and insulin sensitivity in diabetes, triggers neurogenic inflammation and chronic pain in pancreatitis, and enhances malignant behaviours and perineural invasion in pancreatic cancer. Key Messages Functioning as an important regulator, SP maintains physiological balance in health yet drives disease progression in diabetes, pancreatitis, and pancreatic cancer. The SP/NK-1R axis has therapeutic potential with its beneficial actions.",
+ "authors": [
+  "Wang Z",
+  "Liu Y",
+  "Sha L"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42945423",
+ "importance": 0.72,
+ "key_points_ko": [
+  "Substance P(SP)는 주로 고친화성 신경키닌-1 수용체(NK-1R)를 통해 작용하는 신경펩티드입니다.",
+  "정상 상태에서 SP는 췌장의 외분비 및 내분비 기능을 조절하는 역할을 합니다.",
+  "질병 상태에서 SP/NK-1R 축은 당뇨병, 췌장염, 췌장암의 병증 진행을 유도합니다.",
+  "SP/NK-1R 축은 유익한 작용을 통해 치료적 잠재력을 가지고 있습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1159/nen/advag015",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42945423"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Neuroendocrinology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945423/"
+ },
+ "summary_ko": "이 논문은 신경펩티드인 Substance P(SP)와 그 수용체인 NK-1R이 췌장에서 하는 역할을 정리한 리뷰 논문입니다. 생리적 상태에서 SP는 외분비 및 내분비 기능을 조절합니다. 병리적 상태에서 SP 신호전달은 면역 조절, 당뇨병에서의 베타세포 보존 및 인슐린 감수성에 영향을 미칩니다. 또한 췌장염에서 신경성 염증과 만성 통증을 유발하며, 췌장암에서는 악성 행태와 신경외막 침윤을 촉진합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Role of Substance P in physiological and pathological states of the pancreas",
+ "title_ko": "췌장의 생리적 및 병리적 상태에서 Substance P의 역할",
+ "trial": null,
+ "type": "paper"
+}

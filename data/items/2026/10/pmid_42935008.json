@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND AND OBJECTIVES: The association between time to treatment initiation (TTI) and metastatic progression in pancreatic ductal adenocarcinoma (PDAC) remains poorly characterized. We evaluated the association between TTI and subsequent metastasis among patients undergoing curative-intent resection for PDAC.\nMETHODS: Medicare Fee-for-Service beneficiaries aged ≥ 66 years with nonmetastatic PDAC who underwent curative-intent resection from 2017 to 2021 were identified. TTI was defined as the interval from diagnosis to first cancer-directed treatment and modeled continuously per 30-day increase. Three-year metastatic progression was evaluated using Fine-Gray competing-risks regression, with death before metastasis as a competing event.\nRESULTS: Each 30-day increase in TTI was independently associated with a 14.2% higher subhazard of metastasis (subdistribution hazard ratio [sHR], 1.142; 95% CI, 1.119-1.166; p < 0.001). The association persisted across surgery alone (sHR, 1.130), neoadjuvant therapy followed by surgery (sHR, 1.187), surgery followed by adjuvant therapy (sHR, 1.144), and trimodality therapy (sHR, 1.125) (all p < 0.001). In sensitivity analysis restricted to TTI ≤ 90 days, the association was attenuated and not statistically significant (sHR, 1.064; 95% CI, 0.964-1.174; p = 0.22).\nCONCLUSIONS: Longer TTI was associated with increased metastatic progression across treatment pathways, although this association was attenuated among patients with TTI ≤ 90 days. Further studies are needed to determine whether treatment timing independently influences metastatic progression.",
+ "authors": [
+  "Ali A",
+  "Angez M",
+  "Chatzipanagiotou OP",
+  "Hussain K",
+  "Faizan MA",
+  "Yuza K",
+  "Charalampous CM",
+  "Pawlik TM"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935008",
+ "importance": 0.75,
+ "key_points_ko": [
+  "치료 시작까지의 시간(TTI)이 30일 증가할 때마다 전이의 위험비(sHR)는 1.142 (95% CI, 1.119-1.166, p < 0.001)로 14.2% 증가했습니다.",
+  "이러한 연관성은 수술 단독, 선행화학요법 후 수술, 수술 후 보조치료, 삼면요법 등 모든 치료 경로에서 일관되게 나타났습니다.",
+  "TTI를 90일 이하로 제한한 민감도 분석에서는 연관성이 약화되어 통계적으로 유의하지 않았습니다 (sHR, 1.064; 95% CI, 0.964-1.174; p = 0.22)."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1002/jso.70435",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42935008"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935008/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자를 대상으로 치료 시작까지의 시간(TTI)과 전이 진행 사이의 연관성을 평가했습니다. 2017년부터 2021년까지 근치적 목적의 절제술을 받은 66세 이상의 비전이성 췌관선암 메디케어(Medicare) 수급자를 대상으로 분석을 진행했습니다. 분석 결과, TTI가 30일 증가할 때마다 전이 위험비(sHR)가 14.2%씩 독립적으로 증가했습니다. 다만 TTI가 90일 이하인 환자군에서는 이러한 연관성이 약화되어 통계적 유의성이 없었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Time to Treatment Initiation and Risk of Metastatic Progression in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌관선암에서 치료 시작까지의 시간과 전이 진행 위험",
+ "trial": null,
+ "type": "paper"
+}

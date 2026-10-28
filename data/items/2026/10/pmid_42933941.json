@@ -1,0 +1,58 @@
+{
+ "abstract": "There are multiple genetic defects associated with hereditary pancreatitis, which have variable penetrance. Important genes include PRSS1, serine protease inhibitor Kazal type 1, and cystic fibrosis transmembrane conductance regulator. Disease pathogenesis is typically through trypsin dysregulation, intracellular stress, or altered pancreatic duct physiology. There is considerable variability in epidemiology, clinical manifestation, and prognosis between the known variants. Management should include environmental risk factor modification, monitoring for endocrine and exocrine insufficiency and malnutrition, screening for pancreatic cancer if appropriate, and a multidisciplinary approach to address long-term complications and quality of life for patients and families.",
+ "authors": [
+  "Sehmbhi M",
+  "Lucas AL"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42933941",
+ "importance": 0.59,
+ "key_points_ko": [
+  "유전성 췌장염과 관련된 주요 유전자에는 PRSS1, serine protease inhibitor Kazal type 1, cystic fibrosis transmembrane conductance regulator가 포함됩니다.",
+  "질병의 발병 기전은 트립신 조절 장애, 세포 내 스트레스, 변경된 췌관 생리학을 통해 발생합니다.",
+  "관리에는 환경 위험 요인 수정, 기능 부전 및 영양실조 모니터링, 췌장암 선별검사, 다학제적 접근이 포함됩니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1016/j.gtc.2026.06.002",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42933941"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-07-10",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gastroenterol Clin North Am",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933941/"
+ },
+ "summary_ko": "유전성 췌장염(hereditary pancreatitis)과 관련된 여러 유전적 결함과 이들의 다양한 침투율을 다룹니다. 주요 유전자로는 PRSS1, 세린 프로테아제 억제제 카잘 타입 1(serine protease inhibitor Kazal type 1), 낭성 섬유증 막횡단 전도 조절자(cystic fibrosis transmembrane conductance regulator)가 있습니다. 질병의 발병 기전은 주로 트립신(trypsin) 조절 장애, 세포 내 스트레스, 또는 변경된 췌관 생리학을 통해 이루어집니다. 치료는 환경 위험 요인 수정, 내분비 및 외분비 기능 부전과 영양실조 모니터링, 적절한 경우 췌장암 선별검사, 그리고 환자와 가족의 장기적인 합병증과 삶의 질을 다루기 위한 다학제적 접근을 포함해야 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Hereditary Pancreatitis",
+ "title_ko": "유전성 췌장염",
+ "trial": null,
+ "type": "paper"
+}

@@ -29,7 +29,7 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (13)
+## 타임라인 (14)
 
 <a id="pmid-42905299"></a>
 #### [췌십이지장절제술을 받은 팽대부 주위 악성종양 환자의 식이 섭취량 및 임상·영양 바이오마커에 관한 전향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42905299/)
@@ -59,6 +59,22 @@ search:
 - 수술 후 2등급 췌장 누공 합병증이 있었으나 보존적으로 호전되어 무사히 퇴원했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42920464/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0512) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13690491/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42920464)</small>
+
+---
+<a id="pmid-42941632"></a>
+#### [동시성 근위부 위선암과 췌장두부 췌장관선암 환자에서 단계적 수술을 통한 초기 양호한 결과: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42941632/)
+<small>Staged Surgery for Synchronous Proximal Gastric Adenocarcinoma and Pancreatic Head Ductal Adenocarcinoma with an Early Favorable Outcome: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · J Clin Med · 중요도 0.59
+
+초록에 따르면 동시성 원발성 위암과 췌장관선암(PDAC)은 드물며 치료 경험이 제한적입니다. 62세 남성 환자가 근위부 위선암과 췌장두부 PDAC 진단을 받고 선행화학요법(neoadjuvant chemotherapy)으로 6회의 FOLFIRINOX 치료를 받았습니다. 이후 근위 위절제술과 유문보존 췌십이지장절제술을 단계적으로 시행받았습니다. 수술 후 합병증이 있었으나 두 종양 모두 절제면 음성(R0)을 확인했으며, 두 번째 수술 후 10개월째 진행 소견 없이 추적 관찰 중입니다.
+
+- 62세 남성 환자가 근위부 위선암과 췌장두부 췌장관선암(PDAC)을 동시에 진단받았습니다.
+- 선행화학요법으로 FOLFIRINOX 6회를 투여받은 후 단계적인 절제 수술을 시행했습니다.
+- 두 종양 모두 현미경적 절제면 음성(R0)을 달성했습니다.
+- 두 번째 수술 후 10개월 시점에서 질병 진행 소견 없이 ECOG 수행능력 0을 유지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941632/) · [DOI](https://doi.org/10.3390/jcm15208119) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941632)</small>
 
 ---
 <a id="pmid-42891606"></a>

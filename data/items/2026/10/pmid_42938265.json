@@ -1,0 +1,56 @@
+{
+ "abstract": "Background: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with limited survival despite advances in diagnosis and treatment. Dysregulation of apoptosis and tumor cell proliferation is a fundamental feature of cancer biology. M30, BCL-2, and BAX reflect different aspects of apoptotic activity and regulation, whereas Ki-67 is a widely used marker of cellular proliferation. However, the clinicopathological significance of these markers in PDAC remains incompletely characterized. This study aimed to evaluate the immunohistochemical expression of M30, BCL-2, BAX, and Ki-67 in PDAC and to investigate their associations with established clinicopathological features. Methods: This retrospective study included 50 patients with surgically resected PDAC treated at Afyon Kocatepe University Medical Faculty Hospital between January 2003 and May 2015. Archived tumor specimens were evaluated by immunohistochemistry for M30, BCL-2, BAX, and Ki-67. M30 and Ki-67 expression were quantified according to the percentage of positive tumor cells, while BCL-2 and BAX expression were assessed using semiquantitative staining scores based on staining intensity and the proportion of positive tumor cells. Immunohistochemical findings were compared with sex, tumor differentiation, tumor size, lymphovascular invasion, perineural invasion, surgical margin status, tumor stage, lymph node metastasis, and clinical stage. Results: The study cohort comprised 30 male and 20 female patients, with a mean age of 62.12 ± 10.93 years. M30 expression was detected in 39 (78%) cases, whereas Ki-67 expression ranged from 10% to 85% of tumor cells. BCL-2 and BAX expression showed variable staining patterns. None of the four markers demonstrated a statistically significant association with tumor differentiation, tumor size, lymphovascular invasion, perineural invasion, surgical margin status, tumor stage, lymph node metastasis, or clinical stage. Conclusions: In this cohort of surgically resected PDAC, immunohistochemical expression of M30, BCL-2, BAX, and Ki-67 was not significantly associated with conventional clinicopathological indicators of tumor aggressiveness. These findings indicate that immunohistochemical assessment of individual apoptosis- and proliferation-related markers may not adequately reflect tumor aggressiveness or clinicopathological heterogeneity in PDAC. Further studies incorporating larger cohorts, standardized immunohistochemical assessment, and clinical outcome data are warranted to clarify their potential biological and prognostic significance.",
+ "authors": [
+  "Demirciler Yavaş B",
+  "Yılmaz S"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938265",
+ "importance": 0.77,
+ "key_points_ko": [
+  "총 50명의 수술적 절제 췌장관선암종(PDAC) 환자 조직이 분석에 포함되었습니다.",
+  "M30 발현은 39명(78%)의 환자에서 관찰되었고, Ki-67 발현율은 10%에서 85% 범위를 보였습니다.",
+  "네 가지 마커(M30, BCL-2, BAX, Ki-67) 모두 종양 크기, 병기, 림프절 전이 등과 통계적으로 유의한 연관성이 없었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/diagnostics16203426",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938265"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938265/"
+ },
+ "summary_ko": "이 연구는 수술적으로 절제된 췌장관선암종(PDAC) 환자 50명을 대상으로 M30, BCL-2, BAX, Ki-67 단백질의 면역조직화학적 발현을 평가했습니다. 세포 사멸(apoptosis) 및 세포 증식과 관련된 이 마커들과 종양의 임상병리학적 특징 간의 연관성을 조사했습니다. 연구 결과, 조사된 네 가지 마커 모두 종양 분화도, 크기, 침습, 병기 등과 통계적으로 유의한 연관성을 보이지 않았습니다. 저자들은 개별 아폽토시스 및 증식 마커의 면역조직화학적 평가는 췌장관선암종의 종양 공격성이나 이질성을 충분히 반영하지 못할 수 있음을 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immunohistochemical Expression of M30, BCL-2, BAX, and Ki-67 in Pancreatic Ductal Adenocarcinoma: Association with Clinicopathological Features",
+ "title_ko": "췌장관선암종에서 M30, BCL-2, BAX, Ki-67의 면역조직화학적 발현과 임상병리학적 특성의 연관성",
+ "trial": null,
+ "type": "paper"
+}

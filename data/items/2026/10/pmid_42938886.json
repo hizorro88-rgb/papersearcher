@@ -1,0 +1,58 @@
+{
+ "abstract": "Aim: Estrone (E1) is of particular interest as most breast cancers are diagnosed after menopause, the period in which E1 becomes the dominant estrogen. Triple-negative breast cancer (TNBC) is a highly invasive cancer that lacks hormone receptors for estrogen (ER), progesterone (PR), and HER2 (human epidermal growth factor receptor-2). TNBC management remains clinically challenging despite recent advances in targeted and immunotherapeutic approaches. This study investigated the effects of the estrogen hormone estrone sulfate (E1S) on cancer cells. Here, E1S engages in non-classical biased G protein-coupled estrogen receptor (GPER) signaling in TNBC MDA-MB-231 cells, estrogen receptor-positive MCF-7 breast cancer cells, and pancreatic PANC-1 cancer cells, which express estrogen, progesterone, and androgen receptors. Methods: We performed sialidase and colocalization assays in breast MDA-MB-231 and MCF-7 cells and pancreatic PANC-1 cancer cells. An epithelial-to-mesenchymal (EMT) transition, a tunneling nanotube assay, and a scratch wound assay were conducted to elucidate the cellular behaviors of E1S. We used a RawBlue reporter macrophage cell line to measure NFκB activity using the secreted embryonic alkaline phosphatase (SEAP) assay, and we measured cellular viability and metabolic activity using the AlamarBlue assay. Results: E1S induced NMBR/MMP9/Neu1 signaling in MDA-MB-231, MCF-7, PANC-1 and RawBlue cells. E1S increased E-cadherin expression, reduced N-cadherin and vimentin expression, decreased tunneling nanotube density, and reduced scratch wound migration. E1S increased SEAP activity, suggestive of increased nuclear factor-κB (NF-κB) and activator protein-1 (AP-1)-mediated transcription. E1S treatment did not affect cell viability and metabolic activity in triple-negative MDA-MB-231 breast cells using the AlamarBlue assay in a dose-dependent manner. Conclusions: E1S binding to GPER potentiates a biased heterodimerization with the GPCR neuromedin B receptor (NMBR) to activate matrix metalloproteinase 9 (MMP9) and neuraminidase 1 (Neu1), a signaling paradigm with previously established receptor tyrosine kinase (RTK) and Toll-like (TLR) receptors. Biased, temporal GPER signaling has significant implications for breast and pancreatic cancer cellular behavior, which may be leveraged to inform therapeutic strategies for aggressive forms of breast and pancreatic cancers. This research study is mechanistic in nature and may have potential translational implications.",
+ "authors": [
+  "Wahab I",
+  "Li Y",
+  "Szewczuk MR"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938886",
+ "importance": 0.57,
+ "key_points_ko": [
+  "E1S는 췌장암 PANC-1 세포 등에서 NMBR/MMP9/Neu1 신호전달을 유도했습니다.",
+  "E1S 처리는 상피-간질 전이(EMT) 관련 마커 중 E-cadherin 발현을 증가시키고, N-cadherin과 vimentin 발현을 감소시켰습니다.",
+  "E1S는 터널링 나노튜브 밀도와 스크래치 상처 이동(scratch wound migration)을 줄였습니다.",
+  "용량에 따른 E1S 처리는 세포 생존력과 대사 활동에 영향을 주지 않았습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203354",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938886"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938886/"
+ },
+ "summary_ko": "본 연구는 에스트론 황산염(estrone sulfate, E1S)이 췌장암 PANC-1 세포를 비롯한 암세포에 미치는 영향을 조사했습니다. 연구진은 E1S가 G 단백질 결합 에스트로겐 수용체(GPER) 신호전달을 통해 상피-간질 전이(EMT), 터널링 나노튜브(tunneling nanotube) 밀도, 그리고 세포 이동을 감소시키는 것을 확인했습니다. 또한 E1S 처리는 세포 생존력과 대사 활동에 영향을 미치지 않는 것으로 나타났습니다. 이번 연구는 기전 연구(mechanistic study)로서 향후 공격적인 췌장암 치료 전략 수립에 시사점을 줄 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Sex Hormone Estrone Sulfate Serendipitously Downregulates Intercellular Tunneling Nanotube Conduits, EMT, and Migration in Breast and Pancreatic Cancer Cells",
+ "title_ko": "성호르몬 에스트론 황산염이 유방암 및 췌장암 세포의 세포 간 터널링 나노튜브 도관, 상피-간질 전이 및 이동을 우연히 하향 조절함",
+ "trial": null,
+ "type": "paper"
+}

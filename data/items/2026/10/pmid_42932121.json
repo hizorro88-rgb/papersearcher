@@ -11,12 +11,12 @@
   "Ishii Y"
  ],
  "categories": [
+  "diagnosis",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-10-27",
  "history": [
   {
@@ -26,8 +26,12 @@
   }
  ],
  "id": "pmid:42932121",
- "importance": 0.68,
- "key_points_ko": [],
+ "importance": 0.75,
+ "key_points_ko": [
+  "총 39명의 환자가 연구에 포함되었습니다.",
+  "수술 전 항암화학요법 후 두 표지자가 모두 높은 H/H 그룹의 5년 전체 생존율은 0%였습니다(p < 0.001).",
+  "수술 전 항암화학요법 후 H/H 그룹은 불량한 생존을 예측하는 독립적인 예후 인자였습니다(p = 0.004)."
+ ],
  "last_updated": "2026-10-27",
  "links": {
   "doi": "10.1245/s10434-026-20710-4",
@@ -49,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42932121/"
  },
- "summary_ko": "PURPOSE: Our objective was to investigate the prognostic utility of combined carbohydrate antigen (CA) 19-9 and Duke pancreatic monoclonal antigen type 2 (DUPAN-2) levels in patients undergoing curative-intent surgery for initially unresectable locally advanced (URLA) pancreatic ductal adenocarcinoma (PDAC). METHODS: Data from patients who underwent curative-intent surgery for URLA PDAC from June 2010 to December 2024 were investigated.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 처음에는 수술이 불가능했던 국소 진행성 췌관선암(PDAC) 환자들을 대상으로 수술 전후 혈중 CA19-9와 DUPAN-2 수치 조합이 생존율에 미치는 영향을 조사했습니다. 2010년부터 2024년까지 근치적 목적의 수술을 받은 환자 39명의 데이터를 분석했습니다. 연구 결과, 수술 전 항암화학요법 후 두 표지자 모두 높은(high/high, H/H) 그룹은 다른 그룹에 비해 전체 생존율이 유의하게 낮았습니다. 다변량 분석에서 수술 후 H/H 그룹은 불량한 생존을 예측하는 독립적인 요인으로 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "처음에는 수술이 불가능했던 국소 진행성 췌장암에서 CA19-9와 DUPAN-2 병용 사용의 예후적 영향",
  "trial": null,
  "type": "paper"
 }

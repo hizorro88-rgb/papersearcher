@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) comprises distinct cellular states characterized by different differentiation programs and therapeutic responses. How a cell-surface receptor adapts its function across these states remains poorly understood. Here, we investigated whether the spatial organization and functional output of CD44 vary across PDAC cellular states. Methods: CD44 expression and spatial distribution were examined in human PDAC tissues and PDAC cell models representing different differentiation states. The functional roles of CD44 were investigated using genetic depletion, transcriptomic analysis, migration and invasion assays, and xenograft and orthotopic models. Hyaluronan (HA) responsiveness and downstream signaling were assessed following exogenous HA stimulation, and the therapeutic effects of HA synthesis inhibition with 4-methylumbelliferone (4-MU) were evaluated alone or in combination with gemcitabine. Results: In differentiated PDAC tissues and classical PDAC models, CD44 was predominantly localized to the basolateral membrane and spatially segregated from E-cadherin at cell-cell junctions, consistent with a role in epithelial organization and cell-matrix interactions. In contrast, poorly differentiated PDAC tissues and basal-like models exhibited increased CD44 abundance, E-cadherin loss, and redistribution of CD44 along the cell periphery. Genetic depletion of CD44 preferentially impaired malignant phenotypes in basal-like models. Mechanistically, basal-like cells exhibited enhanced CD44-dependent responsiveness to extracellular HA, accompanied by activation of EMT-associated signaling and destabilization of E-cadherin. Inhibition of HA synthesis with 4-MU preferentially suppressed basal-like PDAC models and enhanced gemcitabine sensitivity, with these effects further supported in orthotopic models. Conclusions: These findings suggest that the functional output of CD44 in PDAC is influenced not only by its expression level but also by cellular context and spatial organization. The context-dependent responsiveness of the HA-CD44 axis may contribute to functional heterogeneity among PDAC states and represents a potential therapeutic vulnerability of basal-like PDAC.",
+ "authors": [
+  "Fu B",
+  "Tan Y",
+  "Chen Y",
+  "Su Y",
+  "Cao M",
+  "Tan D",
+  "Zhang M",
+  "Chen X"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938942",
+ "importance": 0.64,
+ "key_points_ko": [
+  "분화된 췌장관선암종(PDAC) 조직과 고전적 모델에서 CD44는 주로 기저측 막(basal-lateral membrane)에 국한되었습니다.",
+  "미분화 췌장관선암종 조직과 기저 유사(basal-like) 모델에서는 CD44 양이 증가하고 세포 주변부로 재배치되었습니다.",
+  "기저 유사 세포는 세포외 히알루로난(HA)에 대한 CD44 의존적 반응성이 증가하고 상피간엽이행(EMT) 신호가 활성화되었습니다.",
+  "HA 합성 억제제인 4-methylumbelliferone(4-MU)은 기저 유사 췌장관선암종 모델을 억제하고 gemcitabine 감수성을 높였습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203410",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938942"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938942/"
+ },
+ "summary_ko": "이 연구는 췌장관선암종(PDAC)의 세포 상태에 따라 세포 표면 수용체인 CD44의 공간적 조직과 기능적 출력이 어떻게 달라지는지 조사했습니다. 연구진은 인간 PDAC 조직과 다양한 분화 상태를 나타내는 세포 모델을 사용하여 CD44의 발현, 히알루로난(HA) 반응성, 4-MU를 이용한 HA 합성 억제 효과를 평가했습니다. 분석 결과, 분화된 모델에서는 CD44가 상피 조직화와 연관된 반면, 미분화 및 기저 유사(basal-like) 모델에서는 CD44 발현이 증가하고 상피간엽이행(EMT) 관련 신호가 활성화되었습니다. HA 합성 억제제인 4-methylumbelliferone(4-MU)은 기저 유사 췌장관선암종(basal-like PDAC) 모델을 우선적으로 억제하고 gemcitabine(젬시타빈) 감수성을 향상시키는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Context-Dependent Spatial and Functional Roles of CD44 Across Pancreatic Ductal Adenocarcinoma States",
+ "title_ko": "췌장관선암종 상태에 따른 CD44의 맥락 의존적 공간적 및 기능적 역할",
+ "trial": null,
+ "type": "paper"
+}

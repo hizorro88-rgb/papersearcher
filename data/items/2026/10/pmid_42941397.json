@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Malnutrition is among the most consequential yet inconsistently addressed comorbidities in hepatopancreatobiliary (HPB) cancer, arising at the intersection of cachexia, sarcopenia, systemic inflammation, hepatic dysfunction, and biliary obstruction. The Patient-Generated Subjective Global Assessment (PG-SGA), the Global Leadership Initiative on Malnutrition (GLIM) framework, and the Controlling Nutritional Status (CONUT) score are often used interchangeably, but they serve different purposes: nutritional assessment, malnutrition diagnosis, and prognostic risk stratification, respectively. This narrative review compares what the three tools measure, summarizes the HPB-specific evidence for each, and proposes a framework for matching the tool to the clinical question.\nMETHODS: A structured narrative review was performed. PubMed, Scopus, and Google Scholar were searched for studies applying PG-SGA, GLIM, or CONUT in pancreatic cancer, hepatocellular carcinoma, or biliary tract cancer. HPB-specific evidence was prioritized and the evidence supporting each tool-tumor combination was classified by directness and study design.\nRESULTS: Applied to the same populations, the tools report different prevalences and classify different patients. In the few HPB cohorts that directly compare tools, PG-SGA classified the largest proportion of patients as malnourished and is the only one of the three designed to record nutrition-impact symptoms and to guide intervention, but it is effort-dependent and may underdetect occult sarcopenia in cirrhosis. GLIM yields a criteria-based diagnosis with severity grading whose prevalence and prognostic value depend on how the muscle mass criterion is operationalized, for example from staging computed tomography. CONUT, computed from three routine laboratory values, is the least resource-intensive and is associated with survival across HPB tumor types in predominantly retrospective cohorts, but its components are confounded by hepatic dysfunction, cholestasis, and inflammation.\nCONCLUSIONS: PG-SGA, GLIM, and CONUT are complementary rather than interchangeable. Because direct comparative evidence in HPB cancer is limited, we propose a framework for matching each tool to the clinical question, tumor subtype, treatment phase and available resources, which requires prospective validation.",
+ "authors": [
+  "Stefanoudakis D",
+  "Frountzas M",
+  "Karaniki E",
+  "Vouros D",
+  "Emmanouil A",
+  "Lidoriki I",
+  "Kokala-Dimitropoulou V",
+  "Theodorou D"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42941397",
+ "importance": 0.62,
+ "key_points_ko": [
+  "동일한 환자군에 적용했을 때 세 도구는 서로 다른 유병률을 보이며 서로 다른 환자들을 영양 불량으로 분류합니다.",
+  "PG-SGA는 가장 많은 환자를 영양 불량으로 분류하며 영양 영향 증상을 기록하고 중재를 유도하는 유일한 도구입니다.",
+  "CONUT 점수는 세 가지 정기 혈액 검사 값으로 계산되어 자원이 가장 적게 들며 예후 예측과 연관이 있습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/jcm15207883",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42941397"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42941397/"
+ },
+ "summary_ko": "이 논문은 간담췌암(hepatopancreatobiliary cancer) 환자에서 영양 상태 평가를 위해 사용되는 세 가지 도구인 PG-SGA, GLIM, CONUT의 특성과 증거를 비교 분석한 서사적 문헌고찰(narrative review)입니다. 환자-생성 주관적 영양평가(PG-SGA)는 영양 증상 파악과 중재에 유용하고, 영양부족 글로벌 리더십 이니셔티브(GLIM) 프레임워크는 진단 및 심각도 평가를 제공하며, 통제된 영양 상태(CONUT) 점수는 혈액 검사로 예후를 예측하는 데 적합합니다. 세 도구는 서로 상호 교환해서 쓸 수 없으며, 임상적 질문과 자원에 따라 보완적으로 활용해야 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PG-SGA, GLIM, and CONUT in Hepatopancreatobiliary Cancer: Complementary Tools for Different Clinical Questions",
+ "title_ko": "간담췌암에서의 PG-SGA, GLIM, CONUT: 서로 다른 임상적 질문을 위한 상호 보완적 도구",
+ "trial": null,
+ "type": "paper"
+}

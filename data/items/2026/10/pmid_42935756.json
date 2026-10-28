@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the deadliest malignancies due to its late diagnosis, extensive desmoplasia, and strong chemoresistance. Recent advances in three-dimensional (3D) in vitro modelling have provided new insights into tumor-stroma interactions and metabolic adaptations that drive disease progression. This review summarizes the pathogenesis and tumor microenvironment (TME) hallmarks of PDAC, emphasizing the metabolic heterogeneity characterized by altered pH, oxygen, and lactate gradients. It discusses conventional and emerging therapeutic strategies, the molecular basis of drug resistance, and the role of the TME in treatment failure. Furthermore, it highlights the evolution of 3D experimental models as physiologically relevant tools to study PDAC biology and evaluate drug efficacy. Special attention is given to the integration of optical biosensors for non-invasive spatio-temporal monitoring of pH and metabolic fluctuations. These sensing technologies, coupled with advanced bioengineered models, are paving the way for precision oncology and patient-tailored strategies in pancreatic cancer.",
+ "authors": [
+  "Siciliano AC",
+  "Forciniti S",
+  "Iuele H",
+  "Carnevali F",
+  "Gigli G",
+  "Del Mercato LL"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935756",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌장관선암(PDAC)은 늦은 진단과 강한 항암화학저항성으로 인해 치명적인 암 중 하나입니다.",
+  "3차원(3D) 체외 모델은 종양-기질 상호작용과 대사 적응을 연구하는 생리학적 도구로 발전하고 있습니다.",
+  "광학 바이오센서를 이용한 비침습적 pH 및 대사 모니터링은 환자 맞춤형 정밀 종양학의 길을 열고 있습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3389/fbioe.2026.1926254",
+  "nct": [],
+  "pmcid": "PMC13696932",
+  "pmid": "42935756"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Bioeng Biotechnol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935756/"
+ },
+ "summary_ko": "이 논문은 췌장관선암(PDAC)의 발병 기전과 종양미세환경(TME)의 특징을 다룬 리뷰 논문입니다. 3차원(3D) 체외 모델을 활용하여 pH, 산소, 젖산 구배 등 대사 이질성을 연구하는 최신 동향을 요약했습니다. 또한 광학 바이오센서를 결합하여 대사 변동을 모니터링하는 기술과 정밀 의료 적용 가능성을 조명합니다. 초록에 환자 대상 임상시험 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Metabolic sensing in 3D models of pancreatic ductal adenocarcinoma: probing pH, oxygen, and lactate dynamics to decode chemoresistance",
+ "title_ko": "췌장관선암의 3차원 모델에서의 대사 센싱: 항암화학저항성 해독을 위한 pH, 산소, 젖산 동역학 탐구",
+ "trial": null,
+ "type": "paper"
+}

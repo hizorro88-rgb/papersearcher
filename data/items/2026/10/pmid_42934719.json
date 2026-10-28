@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Chitinase-3-like-protein 1 (CHI3L1), a low-abundance protein in normal tissues, is markedly upregulated in the pancreatic tumor microenvironment (TME), where it promotes fibrosis and immune evasion. Spatial transcriptomics revealed enrichment of CHI3L1 at tumor-stroma interfaces, suggesting that cell-cell interactions regulate CHI3L1 expression.\nMETHODS: We employed 2D and 3D multicellular culture models, incorporating pancreatic cancer cells, macrophages, and pancreatic stellate cells (PSCs), to recapitulate TME-mediated CHI3L1 induction. Mechanistic insights were gained through secretome profiling, chromatin immunoprecipitation (ChIP), and methylation-specific PCR. The therapeutic potential of targeting identified axes was evaluated in an orthotopic pancreatic adenocarcinoma (PDAC) mouse model.\nRESULTS: We identified CCL2, CXCL10, and SPARC as key secreted mediators during tumor-stroma crosstalk that cooperatively induced CHI3L1 expression in cancer cells via activation of NF-κB and STAT3. Specifically, inflammatory cytokines within the TME recruited macrophages to induce CCL2, which, in concert with PSCs, enhances CXCL10 and SPARC secretion. Mechanistically, NF-κB directly bound the CHI3L1 promoter, while STAT3 reduced DNA methyltransferase 1 levels, leading to promoter hypomethylation and epigenetic activation of CHI3L1. Clinically, high CHI3L1 expression correlated with the upregulated stromal CCL2, CXCL10, and SPARC levels, and the combined four-marker signature was an independent prognostic factor for both overall and disease-free survival in multivariable analysis. In vivo, blockade of the upstream stromal pathways (CCR2/CXCR3/TGFβR1) coupled with CHI3L1 neutralization reduced tumor growth and remodeled the immunosuppressive microenvironment in immunocompetent PDAC models.\nCONCLUSIONS: Our findings uncover a cooperative multicellular signaling network that orchestrates CHI3L1 expression in cancer via transcriptional and epigenetic reprogramming. Disrupting these upstream stromal pathways concurrently with CHI3L1 neutralization was associated with reduced T-cell exhaustion, offering a promising combinatorial approach for PDAC immunotherapy.",
+ "authors": [
+  "Su PC",
+  "Shan YS",
+  "Hou YC",
+  "Huang PH",
+  "Liao PC",
+  "Wang YC"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934719",
+ "importance": 0.64,
+ "key_points_ko": [
+  "CCL2, CXCL10, SPARC는 NF-κB와 STAT3 경로를 활성화하여 암세포에서 CHI3L1 발현을 협력적으로 유도합니다.",
+  "높은 CHI3L1 발현은 다변량 분석에서 전체 생존기간과 무병 생존기간 모두에 대한 독립적인 예후 인자였습니다.",
+  "동물 모델에서 상위 기질 경로 차단과 CHI3L1 중화를 병행했을 때 종양 성장이 감소하고 면역억제성 미세환경이 재조절되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1186/s12929-026-01295-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934719"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biomed Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934719/"
+ },
+ "summary_ko": "본 연구는 췌장암(pancreatic cancer) 미세환경에서 CHI3L1 단백질의 발현을 유도하는 세포 간 신호 전달 네트워크를 조사했습니다. 2차원 및 3차원 세포 배양 모델과 쥐 모델을 활용하여, 종양과 기질 세포 간의 상호작용이 NF-κB와 STAT3를 통해 CHI3L1 발현을 높이는 과정을 분석했습니다. 연구 결과, 상위 기질 경로를 차단하고 CHI3L1을 중화하면 종양 성장이 줄어들고 면역억제성 미세환경이 개선되었습니다. 임상적으로 높은 CHI3L1 발현은 전체 생존기간 및 무병 생존기간과 연관된 독립적 예후 인자임을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Stromal CCL2/CXCL10/SPARC axes drive pro-tumor CHI3L1 expression for microenvironmental modulation in pancreatic cancer progression and therapeutic innovation",
+ "title_ko": "기질(stroma)의 CCL2/CXCL10/SPARC 축이 췌장암 진행 및 치료 혁신을 위한 미세환경 조절에서 종양 촉진성 CHI3L1 발현을 유도합니다",
+ "trial": null,
+ "type": "paper"
+}

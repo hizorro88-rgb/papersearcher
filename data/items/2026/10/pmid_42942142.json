@@ -1,0 +1,65 @@
+{
+ "abstract": "Photodynamic therapy (PDT) is a minimally invasive treatment whose efficacy is strongly influenced by tumor oxygenation and the tumor microenvironment (TME). Pancreatic ductal adenocarcinoma (PDAC) is characterized by severe hypoxia, dense stroma, and immune suppression, limiting therapeutic responsiveness. In this study, we investigated how Bremachlorin-based PDT remodels the TME in two murine PDAC models with distinct immune phenotypes (T-cell-high and T-cell-low) and compared them with the immunogenic MC38 colon carcinoma model. Single-fiber reflectance and fluorescence spectroscopy were used to monitor tumor physiology and photosensitizer dynamics during PDT, while multiplex immunohistochemistry enabled spatial profiling of stromal and immune components post-treatment. PDAC tumors exhibited significantly lower baseline oxygenation than MC38 tumors, which was not substantially improved by reducing the PDT fluence rate from 116 to 50 mW·cm-2. Nevertheless, PDT reduced collagen type I content in both PDAC models, indicating stromal remodeling. Importantly, illumination with a moderate fluence rate of 50 mW·cm-2 significantly increased CD8+ T-cell infiltration and improved the CD8+/neutrophil ratio in T-cell-high PDAC tumors, suggesting a shift toward a less immunosuppressive immune landscape. These findings demonstrate that Bremachlorin-PDT can modulate the PDAC tumor microenvironment and highlight the importance of immune context in shaping PDT outcomes, supporting rational optimization of PDT-based combination therapies.",
+ "authors": [
+  "McMorrow R",
+  "de Bruijn HS",
+  "Que I",
+  "Lila K",
+  "van den Bosch TPP",
+  "Doukas M",
+  "Löwik CWGM",
+  "Mezzanotte L"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42942142",
+ "importance": 0.64,
+ "key_points_ko": [
+  "PDAC 종양은 대조군인 MC38 종양보다 기저 산소화가 유의하게 낮았습니다.",
+  "PDT 광선량률을 116에서 50 mW·cm-2로 줄여도 산소화는 크게 개선되지 않았습니다.",
+  "PDT는 두 PDAC 모델 모두에서 제1형 콜라겐 함량을 감소시켜 기질 재조형을 나타냈습니다.",
+  "50 mW·cm-2의 광선량률로 조명한 T세포 풍부 PDAC 종양에서는 CD8+ T세포 침투가 유의하게 증가했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/ijms27209374",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42942142"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42942142/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)의 저산소 및 면역 억제 환경에서 Bremachlorin 기반 광역학 치료(Photodynamic therapy, PDT)가 종양 미세환경(TME)을 어떻게 재조형하는지 조사했습니다. 두 가지 면역 표현형을 가진 쥐의 PDAC 모델을 사용하여 PDT 후 기질 및 면역 성분의 공간적 프로파일링을 분석했습니다. 연구 결과, 50 mW·cm-2의 중간 광선량률로 조명했을 때 T세포가 풍부한 PDAC 종양에서 CD8+ T세포 침투가 유의하게 증가하고 CD8+/호중구 비율이 개선되었습니다. 이러한 결과는 Bremachlorin-PDT가 PDAC 종양 미세환경을 조절하여 덜 면역 억제적인 환경으로 전환할 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bremachlorin-Based Photodynamic-Therapy-Induced Effects in Low-Oxygenated Pancreatic Ductal Adenocarcinoma (PDAC) Tumor Microenvironment",
+ "title_ko": "저산소 상태의 췌관선암(PDAC) 종양 미세환경에서 Bremachlorin 기반 광역학 치료(PDT)가 유발하는 영향",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>810</b><span>누적 수집<br><small>논문·소식 330 · 임상시험 480</small></span></div><div class="ps-stat"><b>+17</b><span>오늘 신규<br><small>갱신 5건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>873</b><span>누적 수집<br><small>논문·소식 382 · 임상시험 491</small></span></div><div class="ps-stat"><b>+63</b><span>오늘 신규<br><small>갱신 12건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-27](_generated/daily/2026/10/27.md)
+최근 수집일: [2026-10-28](_generated/daily/2026/10/28.md)
 
 <a id="nct-nct07252232"></a>
 #### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
@@ -36,21 +36,6 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT02000089) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02000089)</small>
 
 ---
-<a id="pmid-42899395"></a>
-#### [췌장암 환자의 췌장 효소 대체 요법(PERT): 용량 설정, 관리 및 의료진 관성에 대한 최초의 미국 다학제 합의안](https://pubmed.ncbi.nlm.nih.gov/42899395/)
-<small>Pancreatic Enzyme Replacement Therapy (PERT) in Pancreatic Cancer: First U.S. Consensus Highlights on Dosing, Management, and Provider Inertia</small>
-
-`논문` `가이드라인` `지지요법·삶의질` `치료 전반` · 2026-10-20 · PubMed · Oncologist · 중요도 0.95
-
-췌장암 환자에서 흔하게 발생하는 췌장 외분비 기능부전(EPI)을 관리하기 위해 미국 최초의 다학제 합의안이 수립되었습니다. 환자와 의료진 포커스 그룹 및 17명의 다학제 전문가가 참여한 델파이 합의 과정을 통해 총 15개의 최종 권고안이 도출되었습니다. 권고안은 식사당 48,000~72,000 리파아제 단위의 표준 시작 용량, 근거 기반 용량 조절법, 환자 교육, 약값 및 복약 부담 완화 전략을 제시했습니다. 이를 통해 임상 현장의 치료 편차를 줄이고 환자의 영양 상태 안정과 삶의 질, 항암 치료 지속성을 개선하는 것을 목표로 합니다.
-
-- 췌장 효소 대체 요법(PERT)의 표준 시작 용량으로 식사당 48,000~72,000 리파아제 단위가 권장되었습니다.
-- 임상 적용을 다룬 6개 핵심 권고안은 94%~100%의 높은 전문가 일치율을 기록했습니다.
-- 도출된 15개 전체 권고안 모두 81% 이상의 합의를 달성하여 근거 중심 표준 관리 지침을 마련했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
-
----
 <a id="pmid-42914928"></a>
 #### [췌관선암에서 마이크로RNA 발현의 예후적 가치: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42914928/)
 <small>Prognostic value of microRNA expression in pancreatic ductal adenocarcinoma: a systematic review and meta-analysis</small>
@@ -80,5 +65,20 @@
 - 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+
+---
+<a id="pmid-42919966"></a>
+#### [췌장암에서 림프절 표적 mKRAS 특이 양친매성 백신의 무작위 2상 임상시험(AMPLIFY-7P)](https://pubmed.ncbi.nlm.nih.gov/42919966/)
+<small>Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial</small>
+
+`논문` `2상` `신약·치료제` `임상시험` · 2026-10-23 · PubMed · Nat Med · 중요도 0.86
+
+표준 치료 후 6개월 동안 재발이 없었던 1~3기 KRAS 변이 췌장암 환자를 대상으로 암 백신인 camupepimut(카뮤페피무트, ELI-002 7P)의 재발 방지 효과를 평가한 2상 임상시험 결과입니다. 총 144명의 환자가 백신 투여군(96명) 또는 관찰군(48명)으로 2:1 무작위 배정되었습니다. 1차 평가변수인 무질병 생존기간(DFS) 중앙값은 백신군 23.8개월, 관찰군 21.2개월로 통계적 유의성에 도달하지 못했습니다. 다만 강력한 면역반응(T세포 반응)이 유도된 환자군에서는 무질병 생존기간이 크게 연장되는 경향을 보였으며, 중대한 부작용 발생률은 관찰군과 유사했습니다.
+
+- 1차 평가변수인 무질병 생존기간(DFS) 중앙값은 camupepimut 투여군 23.8개월, 관찰군 21.2개월로 유의한 차이를 입증하지 못했습니다(위험비 0.85, P=0.5329).
+- 백신 투여 후 mKRAS 특이 T세포 반응이 기준선 대비 9.17배 이상 크게 증가한 환자(82.2%)는 무질병 생존기간이 유의하게 연장되었습니다(중앙값 미도달 대 6.08개월, 위험비 0.22).
+- 3등급 이상의 이상반응 발생률은 백신 투여군 10.4%(10/96명), 관찰군 14.6%(7/48명)로 양호한 안전성을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919966/) · [DOI](https://doi.org/10.1038/s41591-026-04734-7) · [NCT05726864](https://clinicaltrials.gov/study/NCT05726864) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919966)</small>
 
 ---

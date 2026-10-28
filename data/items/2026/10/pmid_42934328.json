@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Xu C",
+  "Mannucci A",
+  "Han H",
+  "Munoz RM",
+  "Cridebring D",
+  "Darabi S",
+  "Toiyama Y",
+  "Okugawa Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934328",
+ "importance": 0.66,
+ "key_points_ko": [
+  "Nat Med 저널에 실린 췌장관선암 조기 진단 관련 논문의 저자 정정 내용입니다.",
+  "초록에 명시되지 않음."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1038/s41591-026-04775-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934328"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934328/"
+ },
+ "summary_ko": "Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 진단을 위한 액체 생검(liquid biopsy) 논문에 대한 저자 정정(Author Correction) 공고입니다. 초록에 명시되지 않은 임상 결과나 수치는 없습니다. 이 문서는 단순 정정 안내입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Author Correction: Liquid biopsy for early detection of pancreatic ductal adenocarcinoma",
+ "title_ko": "저자 정정: 췌장관선암의 조기 진단을 위한 액체 생검",
+ "trial": null,
+ "type": "paper"
+}

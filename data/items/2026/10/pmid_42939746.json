@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is rarely detected before the disease is advanced, and existing serum markers are insufficient for early detection. Its systemic immune alterations are incompletely characterized and rarely examined by sex. We measured 19 serum cytokines by bead-based multiplex assay in 22 patients with PDAC and 16 controls, comparing groups overall and separately in women and men, and examined co-regulation among them. In the full cohort, interleukin-7 (IL-7) was the only cytokine to discriminate patients from controls after correction for multiple testing. Adjustment for age strengthened this association, and IL-7 matched the discrimination of carbohydrate antigen 19-9 (CA19-9). After stratification by sex, IL-7 remained the only cytokine higher in women, though it did not survive correction within that subgroup, whereas in men, eight innate, T-helper 17 (Th17) and type I interferon cytokines (IL-1α, IL-1RA, IL-31, IFN-α, IL-17A, IL-17F, TNF-α, and TNF-β) separated patients from controls, although the male control group was small. The correlation network present in controls was largely absent in patients, which instead showed few associations centered on IL-2, IL-5 and IL-6. These findings identify IL-7 as a candidate discriminator of PDAC and show that the cytokines separating patients from controls differed by sex, warranting validation in a larger, sex-balanced cohort that also measures sex hormones.",
+ "authors": [
+  "García-Gómez J",
+  "Agredano-Pérez S",
+  "Rubio-Delgado DA",
+  "Aguilar-Lemarroy A",
+  "Jave-Suárez LF",
+  "Guevara-Hernández SN",
+  "Bravo-Cuéllar A",
+  "Méndez-Clemente AS"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42939746",
+ "importance": 0.7,
+ "key_points_ko": [
+  "전체 코호트 22명의 췌관선암(PDAC) 환자와 16명의 대조군을 비교했습니다.",
+  "interleukin-7(IL-7)은 다중 검정 보정 후 환자와 대조군을 구별하는 유일한 사이토카인이었습니다.",
+  "IL-7의 구별력은 carbohydrate antigen 19-9(CA19-9)와 일치했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/biom16101492",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42939746"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomolecules",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42939746/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC) 환자 22명과 대조군 16명을 대상으로 19가지 혈청 사이토카인을 측정하여 질병 구별자 및 성별 차이를 분석했습니다. 전체 코호트에서 interleukin-7(IL-7)만이 환자와 대조군을 유의하게 구별하였으며 carbohydrate antigen 19-9(CA19-9)와 유사한 구별력을 보였습니다. 성별에 따른 분석에서는 남성의 경우 여러 선천 면역 및 T-helper 17(Th17) 사이토카인들이 환자와 대조군을 구분했습니다. 대조군에서 관찰된 사이토카인 간의 상관관계 네트워크는 환자군에서는 거의 소실되었습니다. 저자들은 더 큰 규모의 성별 균형 코호트에서 검증이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Serum Cytokine Profiling in Pancreatic Ductal Adenocarcinoma: A Pilot Study of Candidate Discriminators, Sex Differences and Altered Co-Regulation",
+ "title_ko": "췌관선암의 혈청 사이토카인 프로파일링: 후보 구별자, 성별 차이 및 변경된 상호 조절에 대한 파일럿 연구",
+ "trial": null,
+ "type": "paper"
+}

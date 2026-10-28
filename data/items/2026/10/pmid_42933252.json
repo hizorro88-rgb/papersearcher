@@ -1,0 +1,61 @@
+{
+ "abstract": "PURPOSE: To develop and externally validate a CT-based clinicoradiological model for preoperative differentiation of pancreatic adenosquamous carcinoma (PASC) from pancreatic ductal adenocarcinoma (PDAC).\nMATERIALS AND METHODS: This dual-center retrospective study included 397 patients with surgically confirmed PASC or PDAC and preoperative contrast-enhanced CT. In the development cohort, patients with PASC were matched 1:2 to patients with PDAC by age, sex, and tumor location. At the second center, consecutive eligible patients with PASC and PDAC identified during prespecified diagnosis-specific study periods constituted the external validation cohort. Least absolute shrinkage and selection operator regression followed by multivariable logistic regression was used for model development.\nRESULTS: In the development cohort, the integrated model achieved an AUC of 0.919. In the external cohort, discrimination was preserved (AUC, 0.846; 95% CI, 0.781-0.910), but calibration was poor (slope, 0.445; 95% CI, 0.309-0.603). Calibration-in-the-large was 0.152 (95% CI, -0.358 to 0.656), with an observed-to-expected ratio of 1.03. The integrated model outperformed the clinical-only model (ΔAUC, 0.179; p < 0.001), whereas incremental discrimination beyond the imaging-only model was not demonstrated (ΔAUC, -0.004; p = 0.85). Decision curve analysis in the development cohort suggested potential net benefit across selected threshold probabilities.\nCONCLUSION: The CT-based clinicoradiological model showed good external discrimination but substantial miscalibration, supporting its potential for preoperative risk stratification rather than individual probability estimation. Further recalibration and prospective validation in unselected, prevalence-representative populations are required before clinical use.",
+ "authors": [
+  "Li Y",
+  "Kuang T",
+  "Zins M",
+  "Wang Y",
+  "Liu B",
+  "Ren W",
+  "Huang Z",
+  "Song B"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42933252",
+ "importance": 0.77,
+ "key_points_ko": [
+  "개발 코호트에서 통합 모델의 곡선아래면적(AUC)은 0.919를 기록했습니다.",
+  "외부 검증 코호트에서 AUC 0.846(95% 신뢰구간 0.781-0.910)으로 판별 능력은 유지되었으나 보정 기울기는 0.445로 보정 불일치가 관찰되었습니다.",
+  "통합 모델은 임상 정보 단독 모델보다 우수했으나(ΔAUC 0.179, p < 0.001), 영상 단독 모델과 비교했을 때는 추가적인 판별 향상을 보이지 않았습니다(ΔAUC -0.004, p = 0.85)."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1016/j.ejrad.2026.113329",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42933252"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933252/"
+ },
+ "summary_ko": "본 연구는 수술 전 컴퓨터단층촬영(CT) 영상을 활용하여 췌장 선편평암(PASC)과 췌관선암(PDAC)을 구분하는 임상-영상 모델을 개발하고 외부 검증했습니다. 총 397명의 환자 데이터를 바탕으로 개발된 통합 모델은 수술 전 두 암종을 판별하는 데 뛰어난 성과를 보였습니다. 외부 기관 검증에서도 우수한 판별 능력을 보였으나 보정 정확도에는 한계가 관찰되었습니다. 따라서 연구진은 개별 확률 예측보다는 수술 전 위험도 분류 도구로서의 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development and external validation of a CT-based clinicoradiological model for preoperative differentiation of pancreatic adenosquamous carcinoma from ductal adenocarcinoma",
+ "title_ko": "수술 전 췌장 선편평암과 췌관선암을 구분하기 위한 CT 기반 임상-영상 모델의 개발 및 외부 검증",
+ "trial": null,
+ "type": "paper"
+}

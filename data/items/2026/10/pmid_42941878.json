@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by extensive neural remodeling and a profoundly immunosuppressive tumor microenvironment, both of which contribute to disease progression and therapeutic resistance. However, whether nociceptor-derived signals directly reprogram PDAC cells to promote immune evasion remains poorly understood. Here, we identify a previously unrecognized tumor-intrinsic neuroimmune mechanism driven by calcitonin gene-related peptide (CGRP) signaling through the receptor complex RAMP1/CALCRL on PDAC cells. CRISPR/Cas9-mediated deletion of Ramp1 or Calcrl did not alter PDAC cell proliferation in vitro but markedly suppressed tumor growth and prolonged survival in immunocompetent mice. These antitumor effects were lost in immunodeficient hosts, indicating that the pro-tumorigenic function of CGRP signaling depends on an intact host immune system. Consistently, tumor cell-specific loss of Ramp1 or Calcrl remodeled the tumor immune microenvironment, enhancing CD4+ and CD8+ T-cell effector activity. Mechanistically, CGRP stimulation promoted TGF-β2 expression and secretion by PDAC cells in a RAMP1-dependent manner. Tumor-derived TGF-β2 subsequently acted in a paracrine fashion to suppress CD8+ T-cell activation and cytotoxic function, whereas genetic disruption of RAMP1 or pharmacological inhibition of TGF-β signaling relieved this immunosuppression. Together, these findings define a CGRP-RAMP1/CALCRL-TGF-β2 signaling axis through which nociceptive input is converted into tumor-driven adaptive immune evasion in PDAC. This pathway reveals a previously underappreciated mechanism linking neural signaling to PDAC progression and identifies CGRP receptor signaling as a potential therapeutic vulnerability for restoring antitumor immunity and improving the responsiveness of PDAC to immunotherapy.",
+ "authors": [
+  "Zhang B",
+  "Li Y",
+  "Fan S",
+  "Zhang J",
+  "Zhang Y",
+  "Wang W",
+  "Luo L",
+  "Xiao W"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42941878",
+ "importance": 0.59,
+ "key_points_ko": [
+  "Ramp1 또는 Calcrl의 유전자 결손은 면역 능력이 있는 마우스에서 종양 성장을 억제하고 생존기간을 연장했습니다.",
+  "CGRP 신호전달의 종양 촉진 기능은 면역계가 온전할 때만 작용하는 것으로 확인되었습니다.",
+  "CGRP 자극은 RAMP1 의존적으로 TGF-β2 발현을 촉진하여 CD8+ T세포의 활성화를 억제했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/ijms27209108",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42941878"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42941878/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 세포에서 CGRP(calcitonin gene-related peptide) 신호전달과 수용체 복합체인 RAMP1/CALCRL이 면역 회피와 암 진행에 미치는 영향을 조사했습니다. 면역 능력이 있는 마우스 모델에서 Ramp1 또는 Calcrl의 유전자 결손은 종양 성장을 크게 억제하고 생존기간을 연장했습니다. 이러한 항종양 효과는 면역 결핍 숙주에서는 나타나지 않아, CGRP 신호전달의 종양 촉진 기능이 면역계에 의존함을 보였습니다. 기전적으로 CGRP 자극은 PDAC 세포에서 TGF-β2 발현과 분비를 촉진하였으며, 이는 CD8+ T세포의 활성화와 세포 독성 기능을 억제하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CGRP-RAMP1/CALCRL Signaling Drives TGF-β2-Mediated Immune Evasion and Pancreatic Cancer Progression",
+ "title_ko": "CGRP-RAMP1/CALCRL 신호전달이 TGF-β2를 매개로 한 면역 회피 및 췌장암 진행을 촉진합니다",
+ "trial": null,
+ "type": "paper"
+}

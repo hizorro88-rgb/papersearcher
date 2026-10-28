@@ -1,0 +1,56 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Abstract—Pancreatic ductal adenocarcinoma (PDAC) is usually diagnosed late, and the only widely used blood marker, CA19-9, is neither sensitive nor specific enough for screening. This paper asks whether a machine learning model that combines four urinary proteins (LYVE1, REG1A, REG1B, TFF1), urinary creatinine, plasma CA19-9, age and sex can separate PDAC from non-PDAC samples (healthy controls and benign hepatobiliary disease) in the public Debernardi et al. dataset of 590 participants (199 PDAC, 391 non-PDAC). The pipeline combines median imputation with missingness indicators, three engineered features, an 80/20 stratified split, SMOTE oversampling of the training data, and a comparison of six classifiers by five-fold cross-validated ROC-AUC. Random Forest performed best (CV ROC-AUC 0.967 ± 0.014) and was tuned by grid search. On a held-out test set of 118 participants the tuned model reached accuracy 0.924, precision 0.878, recall 0.900, F1-score 0.889, ROC-AUC 0.967 and average precision 0.948, detecting 36 of 40 PDAC cases with 5 false positives. Plasma CA19-9, urinary LYVE1 and a CA19-9/creatinine ratio had the highest feature importance. These results come from a single split of a single-source dataset, were not stratified by tumor stage, and were not compared with a CA19- 9-only model; they are therefore a proof of concept, not evidence of early-stage screening performance. The limitations and the validation still required are discussed.</p>",
+ "authors": [
+  "Navgire S."
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11474245/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "Random Forest 모델은 교차 검증 ROC-AUC 0.967을 기록하며 가장 좋은 성능을 보였습니다.",
+  "118명의 테스트 세트에서 정확도 0.924, ROC-AUC 0.967, 평균 정밀도 0.948을 달성했습니다.",
+  "테스트 세트에서 40개의 췌관선암(PDAC) 사례 중 36개를 감지했으며 5개의 위양성이 발생했습니다.",
+  "혈장 CA19-9, 소변 LYVE1, CA19-9/크레아티닌 비율이 가장 중요한 특성으로 확인되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11474245/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1350210"
+ },
+ "summary_ko": "이 연구는 소변 단백질 4종(LYVE1, REG1A, REG1B, TFF1), 소변 크레아티닌, 혈장 CA19-9, 연령, 성별을 결합한 머신러닝 모델이 췌관선암(PDAC) 환자와 비-PDAC 대조군을 구별할 수 있는지 평가했습니다. 공개된 590명의 데이터셋을 활용했으며, 그중 Random Forest 모델이 가장 우수한 성능을 보였습니다. 118명의 테스트 세트에서 모델은 ROC-AUC 0.967, 정확도 0.924, 민감도(재현율) 0.900, 정밀도 0.878을 기록했습니다. 혈장 CA19-9, 소변 LYVE1, CA19-9/크레아티닌 비율이 가장 높은 변수 중요도를 나타냈습니다. 다만 단일 데이터셋의 단일 분할에서 나온 결과로 초기 암 선별 검사 성능에 대한 증거가 아닌 개념 증명 단계입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Toward Early Detection of Pancreatic Cancer: A Machine Learning Study on Urinary and Plasma Biomarker Data",
+ "title_ko": "췌장암 조기 진단을 향하여: 소변 및 혈장 바이오마커 데이터를 활용한 머신러닝 연구",
+ "trial": null,
+ "type": "preprint"
+}

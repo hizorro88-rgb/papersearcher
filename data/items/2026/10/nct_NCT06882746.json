@@ -1,0 +1,110 @@
+{
+ "abstract": "This study is open to adults with advanced cancer of the colon, rectum, stomach, or pancreas, that is the cancer cannot be removed by surgery or has spread. People can take part in this study if their previous treatment was not successful, or no other treatment exists.\n\nThe study aims to find the highest dose for the study medicine called BI 765049 that people with advanced cancer can tolerate. Another purpose is to find the most suitable dose and best way of administration of BI 765049 for further clinical development. BI 765049 may help the immune system fight cancer.\n\nParticipants receive BI 765049 at least once every 3 weeks. Participants may continue to get BI 765049 treatment as long as they benefit from treatment and can tolerate it. Participants in this study also get additional medication before and after treatment with BI 765049 for better tolerability. If participants take this medication at home, they have daily phone visits.\n\nParticipants regularly visit the study site. The study visits include several overnight stays at the hospital. At the visits, study doctors check participants' health, take necessary laboratory tests, and note any unwanted effects. Unwanted effects are any health problems that the doctors think were caused by the study medicine or treatment. To find the highest dose of BI 765049 that participants can tolerate, researchers look at the number of participants with certain severe health problems. These are severe health problems that happen within the time from when a person first receives the intended target dose, until one week after they receive it for the second time.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06882746",
+ "importance": 0.81,
+ "key_points_ko": [
+  "수술 불가능한 진행성 또는 전이성 췌관선암, 대장암, 위암 환자 14명을 목표로 계획된 1상 임상시험입니다.",
+  "BI 765049는 최소 3주에 한 번씩 투여하는 면역 관련 연구용 약물입니다.",
+  "현재 이 임상시험은 조기 종료(TERMINATED)되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06882746"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2025-03-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Boehringer Ingelheim",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06882746"
+ },
+ "summary_ko": "이 연구는 수술이 불가능하거나 전이된 진행성 대장암, 직장암, 위암, 췌관선암(PDAC) 성인 환자를 대상으로 신약 후보물질 BI 765049를 평가하는 1상 임상시험입니다. 이전 치료가 성공적이지 않았거나 이용 가능한 다른 치료법이 없는 환자가 참여 대상입니다. 연구의 주요 목적은 환자가 견딜 수 있는 최대 투여 용량과 최적의 투여 방법을 확인하는 것입니다. 해당 임상시험은 현재 종료(TERMINATED)되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Study to Test Different Doses of BI 765049 in People With Advanced Cancer of the Colon, Rectum, Stomach, or Pancreas",
+ "title_ko": "진행성 대장암, 직장암, 위암 또는 췌장암 환자를 대상으로 BI 765049의 용량을 평가하는 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Colorectal Carcinoma",
+   "Gastric Carcinoma",
+   "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 미국: 조직학적 또는 세포학적으로 확진된 대장암, 위암 또는 췌관선암(PDAC) 환자\n- 수술로 제거 불가능하거나 전이된 진행성 암 환자\n- 이전 치료가 성공적이지 않았거나 이용 가능한 다른 치료법이 없는 환자\n\n제외 기준:\n- 첫 투여 전 28일 이내에 주요 수술을 받은 이력이 있는 환자\n- 최근 5년 이내에 완치되지 않은 다른 악성 종양의 병력이 있는 환자\n- 뇌수막 질환(leptomeningeal disease) 또는 척수 압박 병력이 있는 환자\n- 안전하게 중단할 수 없는 항응고제 치료가 필요한 환자",
+  "eligibility_text": "Inclusion criteria:\n\n* For all patients, signed and dated informed consent form (ICF)2/main ICF describing the study in accordance with International Council on Harmonisation Good Clinical Practice (ICH-GCP) and local legislation prior to any trial-specific procedures, sampling, or analyses.\n* Patient must be ≥18 years of age and at least at the legal age of consent in countries where it is greater than 18 years at the time of signature on the ICFs (ICF1/screening ICF and ICF2/main ICF).\n* In US: Patients with a histologically or cytologically confirmed diagnosis of colorectal carcinoma (CRC), gastric carcinoma (GC), or pancreatic ductal adenocarcinoma (PDAC).\n* In Europe: Patients with a histologically or cytologically confirmed diagnosis of CRC.\n* Patients with advanced, unresectable, and/or metastatic disease. Further inclusion criteria apply.\n\nExclusion criteria:\n\n* Patient with a history of a major surgery within 28 days prior to first dose of BI 765049 (major according to the Investigator's and/or Medical Monitor's assessment).\n* Previous or concomitant malignancies other than the one treated in this trial within the last 5 years except:\n\n  * Effectively treated non-melanoma skin cancers\n  * Effectively treated carcinoma in situ of the cervix\n  * Effectively treated ductal carcinoma in situ\n  * Other effectively treated malignancy that is considered cured by local treatment\"\n* Patient with known leptomeningeal disease or spinal cord compression due to disease.\n* Patient requiring anticoagulant treatment which cannot be safely interrupted, if medically needed based on the opinion of the Investigator.\n\nFurther exclusion criteria apply.",
+  "enrollment": 14,
+  "has_results": false,
+  "interventions": [
+   "BI 765049"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [
+   "Germany",
+   "Spain",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "첫 투여 전 28일 이내 주요 수술 병력",
+    "최근 5년 이내 다른 암 병력",
+    "뇌수막 질환 또는 척수 압박",
+    "중단 불가능한 항응고제 치료 필요"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "이전 치료에 실패하거나 다른 치료법이 없는 진행성/전이성 췌장암 환자 대상 1상 시험입니다.",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 6,
+  "nct_id": "NCT06882746",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-09-08",
+  "sex": "ALL",
+  "sponsor": "Boehringer Ingelheim",
+  "start_date": "2025-03-28",
+  "status": "TERMINATED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

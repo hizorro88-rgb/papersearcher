@@ -1,0 +1,62 @@
+{
+ "abstract": "An 80-year-old female was referred to our hospital 6 years earlier with an abnormal plasma apolipoprotein A2 isoform (ApoA2-i) index, which is a promising biomarker for pancreatic cancer. Endoscopic ultrasonography (EUS) revealed a single small cystic lesion in the pancreatic head. Subsequently, the patient was followed up regularly. Two years after the initial visit, her ApoA2-i index was 50.2 μg/mL, and her plasma CA19-9 level was 42.5 U/mL. Magnetic resonance cholangiopancreatography (MRCP) performed 3 years after the initial visit also demonstrated small cystic lesions in the pancreatic head, consistent with the findings of the initial EUS, and a signal defect in the main pancreatic duct (MPD) in the pancreatic body, with a normal upstream MPD diameter. Her ApoA2-i index was 52.4 μg/mL, and her plasma CA19-9 level was 42.0 U/mL. Follow-up MRCP indicated similar cystic lesions in the pancreatic head and a signal defect in the MPD in the pancreatic body, with a normal upstream MPD diameter. However, her serial ApoA2-i indices gradually decreased from 52.1 to 35.7 μg/mL, correlated with an increase in plasma CA19-9. The latest MRCP demonstrated a similar signal defect and dilatation of the upstream MPD diameter compared with the previous MPD diameters. Her ApoA2-i index slightly decreased to 35.2 μg/mL, whereas her CA19-9 level remarkably increased to 1320 U/mL. Endoscopic retrograde pancreatography with cytology demonstrated adenocarcinoma cells. In the present case, we observed longitudinal changes in ApoA2-i indices correlated with CA19-9 and MRCP findings.",
+ "authors": [
+  "Kuwatani M",
+  "Sugiura R",
+  "Nakajima K",
+  "Kawakubo K",
+  "Kashiro A",
+  "Honda K",
+  "Sakamoto N"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935000",
+ "importance": 0.64,
+ "key_points_ko": [
+  "80세 여성 환자에서 췌장암 발생 과정 동안 ApoA2-i 지수, CA19-9, MRI 소견의 변화를 추적했습니다.",
+  "혈중 ApoA2-i 지수는 52.1에서 35.7 μg/mL로 점차 감소했습니다.",
+  "혈장 CA19-9 수치는 초기 42.5 U/mL에서 최종적으로 1320 U/mL로 현저히 증가했습니다.",
+  "내시경 역행성 췌관조영술 세포검사를 통해 선암종 진단이 이루어졌습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1111/jgh.70857",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42935000"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935000/"
+ },
+ "summary_ko": "이 논문은 췌장암 발생 전후에 걸쳐 아포지단백 A2 이소폼(apolipoprotein A2 isoform, ApoA2-i) 지수, 종양 표지자 CA19-9, 그리고 자기공명담췌관조영술(MRCP) 소견의 종단적 변화를 관찰한 80세 여성 환자의 증례를 보고합니다. 환자는 초기 추적 관찰 기간 동안 췌장 두부에 작은 낭성 병변이 발견되었으며, 시간이 지남에 따라 주췌관(main pancreatic duct, MPD)의 신호 결손 및 확장 소견이 나타났습니다. 혈중 ApoA2-i 지수는 점차 감소한 반면, CA19-9 수치는 1320 U/mL로 현저히 증가했습니다. 최종적으로 내시경 역행성 췌관조영술 및 세포검사를 통해 선암종(adenocarcinoma) 세포가 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Case With Longitudinal Changes in Apolipoprotein A2 Isoform Indices Associated With CA19-9 and MRI Findings Until Pancreatic Cancer Development",
+ "title_ko": "췌장암 발생까지 아포지단백 A2 이소폼 지수, CA19-9 및 MRI 소견의 시간적 변화를 보인 증례",
+ "trial": null,
+ "type": "paper"
+}

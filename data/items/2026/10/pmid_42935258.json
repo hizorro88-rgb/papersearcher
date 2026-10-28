@@ -1,0 +1,52 @@
+{
+ "abstract": null,
+ "authors": [],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935258",
+ "importance": 0.6,
+ "key_points_ko": [
+  "초록에 명시되지 않음.",
+  "초록에 명시되지 않음."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1002/anie.7928414",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42935258"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Angew Chem Int Ed Engl",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935258/"
+ },
+ "summary_ko": "본문은 Angew Chem Int Ed Engl에 게재된 \"정위성 췌장암의 심부 조직 소노 면역요법을 위한 활성화형 반도체 고분자 프로-나노조절제\" 논문과 관련된 정오표(Published Erratum)입니다. 초록에 명시되지 않음. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction to \"Activatable Semiconducting Polymer Pro-Nanomodulators for Deep-Tissue Sono-Immunotherapy of Orthotopic Pancreatic Cancer\"",
+ "title_ko": "\"정위성 췌장암의 심부 조직 소노 면역요법을 위한 활성화형 반도체 고분자 프로-나노조절제\" 논문 정오표",
+ "trial": null,
+ "type": "paper"
+}

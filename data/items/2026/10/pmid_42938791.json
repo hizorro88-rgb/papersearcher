@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Artificial intelligence (AI) is now applied across the pancreatic ductal adenocarcinoma (PDAC) pathway, yet the literature has grown faster than the evidence needed to act on it. The question is not whether an algorithm can predict an endpoint, but whether it yields information reliable, generalizable, and actionable enough to change a clinically meaningful decision.\nMETHODS: In this narrative, in a non-systematic review of PDAC-specific literature, we grade applications on an author-defined evidence-readiness framework (development, internal, external, prospective validation, clinical impact, and implementation) and on four dimensions-validation, comparator, actionability, and impact.\nFINDINGS: Contemporary meta-analyses show high pooled accuracy for AI-based early detection and for distinguishing PDAC from mass-forming pancreatitis (sensitivity ~0.88-0.92, specificity ~0.90-0.93), but with extreme heterogeneity, low radiomics quality, scarce external validation, and-for electronic health-record risk models-positive predictive values often below 1% at population prevalence. Computed tomography (CT)-based detection and risk enrichment are among the more mature applications identified, yet none has been shown to improve stage distribution, resection rate, or survival. Treatment prediction is held to a strict standard, distinguishing prognostic association from a validated treatment-by-biomarker interaction.\nCONCLUSIONS: The rate-limiting steps are no longer algorithmic but translational-external and prospective validation, calibration, appropriate comparators, and workflow integration.",
+ "authors": [
+  "Khan I",
+  "Belhaj A",
+  "Gemini A",
+  "Ibis KA",
+  "Darsif N",
+  "Rouani N",
+  "Vanlander A",
+  "Messaoudi N"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938791",
+ "importance": 0.68,
+ "key_points_ko": [
+  "인공지능 기반 조기 발견 및 췌장암과 췌장염 감별의 민감도는 약 0.88에서 0.92, 특이도는 약 0.90에서 0.93입니다.",
+  "전자건강기록(electronic health-record) 기반 위험 모델의 양성 예측값은 인구 유병률 기준 종종 1% 미만입니다.",
+  "컴퓨터단층촬영(CT) 기반 검출 및 위험 보정이 성숙한 응용 분야에 속합니다.",
+  "현재까지 임상 단계에서 병기 분포, 절제율, 생존율을 개선한 AI 모델은 확인되지 않았습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203253",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938791"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938791/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC) 진료 과정 전반에 걸쳐 적용되는 인공지능(AI)의 현황을 검토한 서술적 문헌 고찰(narrative review)입니다. 저자들은 췌장암 관련 AI 연구들을 증거 준비성 프레임워크와 네 가지 차원에 따라 평가했습니다. 인공지능 기반의 조기 발견 및 췌장암과 췌장염 감별은 높은 정확도를 보였으나, 극심한 이질성과 외부 검증 부족 등의 한계가 있습니다. 현재까지 임상 단계에서 병기 분포, 절제율, 생존율을 향상시킨 AI 모델은 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Artificial Intelligence in Pancreatic Cancer: From Predictive Performance to Clinical Translation",
+ "title_ko": "췌장암에서의 인공지능: 예측 성능에서 임상 적용까지",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "Metastatic pancreatic ductal adenocarcinoma (PDAC) has historically been managed with systemic therapy, and local therapies have, in general, been avoided in the absence of symptoms directly related to a specific metastasis. Even if a specific site of disease, such as a local recurrence, had the potential to cause symptoms in the future, there was a bias against prophylactic palliation. It was well-established that most patients die of systemic progression. This approach is now under pressure from four directions. Retrospective case series have reported survival durations longer than anticipated in highly selected patients with low-volume, single-organ disease. A randomized phase II trial reported that metastasis-directed therapy prolonged progression-free survival. Biologic data indicate that the site of metastatic relapse is encoded in gene expression profiles already present in the primary tumor. Second-line systemic therapy has become substantially more effective, which lengthens the interval over which control of an untreated metastasis may become clinically important. We trace the oligometastatic concept from the 1995 Hellman and Weichselbaum hypothesis to the 2026 OligoPanc consensus definition of up to three lesions confined to a single organ, examine the criteria proposed for patient selection, summarize the surgical and ablative radiotherapy literature, and consider the trials that will determine whether this is a treatable disease state or a favorable prognostic phenotype. We conclude that induction systemic therapy, followed by response assessment that weighs the absence of disease progression, Carbohydrate Antigen 19-9 (CA19-9) kinetics, and performance status, is a defensible route to local therapy directed at the metastases and the primary tumor, and warrants prospective study.",
+ "authors": [
+  "Gaur KS",
+  "Hall WA",
+  "Kamgar M",
+  "McFall T",
+  "Evans DB",
+  "Seo YD"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938908",
+ "importance": 0.62,
+ "key_points_ko": [
+  "소수전이성 췌관선암(PDAC)은 단일 장기에 국한된 최대 3개의 병변으로 2026년 OligoPanc 합의에서 정의되었습니다.",
+  "한 무작위 2상 임상시험에서 전이 지향 치료가 무진행 생존기간을 연장했다고 보고되었습니다.",
+  "유도 전신 치료 후 질병 진행 부재, CA19-9 동역학, 전신 수행능력을 평가하여 국소 치료를 고려하는 방법이 지지되고 있습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203376",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938908"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938908/"
+ },
+ "summary_ko": "전이성 췌관선암(PDAC)은 전통적으로 전신 치료를 중심으로 관리되었으나 최근 이러한 접근법에 변화가 생기고 있습니다. 후향적 연구, 무작위 2상 임상시험, 발전된 생물학적 데이터 및 향상된 2차 전신 치료 등이 소수전이 개념에 대한 인식을 바꾸고 있습니다. 저자들은 1995년의 가설부터 2026년 OligoPanc 합의 정의까지 소수전이 개념의 발전을 추적하고 수술 및 절제 방사선 치료 문헌을 검토했습니다. 결론적으로 유도 전신 치료 후 반응 평가를 거쳐 원격 전이와 원발암에 대한 국소 치료를 고려하는 것이 타당하며 전향적 연구가 필요하다고 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Evolution of Oligometastatic Pancreatic Ductal Adenocarcinoma: From Anatomic Description to Biologically Informed Patient Selection",
+ "title_ko": "소수전이성 췌관선암의 진화: 해부학적 기술에서 생물학적 정보에 기반한 환자 선별까지",
+ "trial": null,
+ "type": "paper"
+}

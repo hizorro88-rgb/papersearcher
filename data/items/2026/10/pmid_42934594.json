@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer in China exhibits high incidence and mortality rates, and they have been on a continuous upward trend over time, imposing a significant disease burden. It is essential to clarify the trends in pancreatic cancer from 1990 to 2021 and predict future trends up to 2050, which can provide valuable information for planning effective management and prevention strategies.\nMETHODS: The pancreatic cancer data from 1990 to 2021 were obtained from the Global Health Data Exchange (GHDx) query tool. In this study, the incidence rate, mortality rate, disability-adjusted life years (DALYs), and related risk factor data of pancreatic cancer in China from 1990 to 2021 were extracted. The age-period-cohort (BAPC) Bayesian model was adopted to predict the age-standardized rate trend of the disease burden from 2021 to 2050, and the uncertainty of the historical estimation of GBD was incorporated into the prediction. Trend analysis uses Joinpoint regression to calculate the average annual percentage change. The model parameter Settings (such as the maximum number of connection points and prior distribution) and the standard population basis all follow the norms to ensure the comparability and repeatability of the results.\nRESULTS: In 2021, the number of incident cases, deaths, and Disability-Adjusted Life Years (DALYs) showed an increasing trend, reaching 118,665.43 cases (94,622.75-144,663.08), 119,601.86 cases (95,653.59-145,218.13), and 2,930,317.01 cases (2,301,048.70-3,575,078.95) person-years, respectively. Over the 30-year period, the Average Annual Percentage Change (AAPC) for incidence, deaths, and DALYs were 3.13% (3.08-3.18), 3.06% (2.79-3.33), and 2.53% (2.31-2.75), respectively. The Age-Standardized Incidence Rate (ASIR), Age-Standardized Death Rate (ASMR), and Age-Standardized DALY Rate were 5.64 per 100,000 (4.52-6.84), 5.72 per 100,000 (4.59-6.91), and 137.23 per 100,000 (108.15-166.74), respectively. However, from 1990 to 2021, the average age-standardized incidence, death, and DALY rates in China increased by 2.14% (1.27-3.19), 2.08% (1.22-3.10), and 1.62% (0.87-2.52), respectively. Analysis of risk factors for pancreatic cancer revealed that from 1990 to 2021, high fasting plasma glucose surpassed smoking as the leading risk factor, with high body-mass index ranking third. Gender-specific analysis showed that incidence, mortality, and DALY rates were higher in males than females. Population data projections from 2021 to 2050 indicate that the actual disease burden of pancreatic cancer in the next 30 years may be higher than the predicted value in this study.\nCONCLUSION: This study comprehensively compares differences in the disease burden across populations and over time, providing further evidence for the development of pancreatic cancer prevention and control policies and etiological research.",
+ "authors": [
+  "Yang F",
+  "Bian J",
+  "He X",
+  "Xu D"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42934594",
+ "importance": 0.67,
+ "key_points_ko": [
+  "2021년 중국의 췌장암 신규 환자는 118,665.43명, 사망자는 119,601.86명, DALYs는 2,930,317.01인년이었습니다.",
+  "1990년부터 2021년까지 발생률, 사망률, DALYs의 평균 연간 백분율 변화(AAPC)는 각각 3.13%, 3.06%, 2.53%였습니다.",
+  "2021년 연령표준화 발생률(ASIR)은 인구 10만 명당 5.64명, 사망률(ASMR)은 5.72명이었습니다.",
+  "고혈당이 흡연을 제치고 가장 주된 위험 요인으로 나타났으며, 높은 체질량지수(high body-mass index)가 3위를 차지했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1186/s12885-026-16616-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42934594"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934594/"
+ },
+ "summary_ko": "이 연구는 1990년부터 2021년까지 중국의 췌장암 발생률, 사망률, 장애보정생존연수(DALYs) 및 관련 위험 요인의 추세를 분석하고 2050년까지의 미래를 예측했습니다. 전 세계 질병 부담(GBD) 연구 데이터와 베이지안 연령-기간-코호트(BAPC) 모델을 활용하여 분석을 수행했습니다. 2021년 중국의 췌장암 신규 환자는 118,665.43명, 사망자는 119,601.86명, DALYs는 2,930,317.01인년으로 나타났습니다. 30년 동안 발생률, 사망률, DALYs의 평균 연간 백분율 변화(AAPC)는 각각 3.13%, 3.06%, 2.53%로 증가세를 보였습니다. 고혈당(high fasting plasma glucose)이 흡연을 제치고 가장 주된 위험 요인으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Burdens of pancreatic cancer from 1990 to 2021 and projection to 2050 in China: findings from the 2021 global burden of disease study",
+ "title_ko": "중국의 1990년부터 2021년까지의 췌장암 부담 및 2050년까지의 예측: 2021 전 세계 질병 부담 연구 결과",
+ "trial": null,
+ "type": "paper"
+}

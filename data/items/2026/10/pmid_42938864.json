@@ -1,0 +1,64 @@
+{
+ "abstract": "Background: Evidence regarding EUS-guided intratumoral phosphorus-32 (P-32) microparticle implantation for locally advanced pancreatic cancer (LAPC) remains limited. This prospective pilot study evaluated its technical feasibility, preliminary safety, and early disease-control outcomes when administered in combination with gemcitabine plus nab-paclitaxel. Methods: Seventeen patients with unresectable LAPC underwent EUS-guided intratumoral P-32 microparticle implantation through a 22-gauge fine-needle aspiration needle during the fourth week of systemic chemotherapy. Intratumoral distribution was assessed using Bremsstrahlung SPECT/CT. Tumour response was evaluated according to RECIST version 1.1, and treatment-emergent adverse events were graded according to CTCAE version 4.0. The main secondary endpoint was local disease control rate at approximately 16 weeks (LDCR16w). All analyses were descriptive. Results: Implantation was technically successful in all 17 patients (100.0%; exact 95% CI, 80.5-100.0%), and SPECT/CT confirmed intratumoral distribution in every case. No implantation-related procedural complications were recorded (0/17; exact 95% CI, 0.0-19.5%). At approximately 16 weeks, CT assessment was available for 16 patients: seven had a partial response and nine had stable disease. The LDCR16w was 16/16 among evaluable patients (100.0%; exact 95% CI, 79.4-100.0%) and 16/17 in the all-treated analysis (94.1%; exact 95% CI, 71.3-99.9%). A reduction in CA19-9 of at least 50% was observed in 13/16 evaluable patients. Four patients underwent subsequent R0 resection (4/17, 23.5%; exact 95% CI, 6.8-49.9%). Adverse events were predominantly grade 1-2; one grade 3 abdominal pain event and no grade 4-5 events were recorded. Only three deaths occurred during a median OS follow-up of 15.6 months, making survival estimates exploratory and statistically immature. Conclusions: In this small, single-center pilot cohort of highly selected patients, EUS-guided intratumoral P-32 microparticle implantation combined with gemcitabine plus nab-paclitaxel was technically feasible and provided preliminary safety information. Because of the absence of a chemotherapy-only comparator, the small sample size, and the limited follow-up, the radiographic, biomarker, resection, and survival outcomes cannot be attributed specifically to P-32 implantation and should be considered descriptive and hypothesis-generating. Larger controlled studies with longer follow-up are required to determine clinical efficacy.",
+ "authors": [
+  "Kontos A",
+  "Riris I",
+  "Kypraios D",
+  "Alexakis N",
+  "Zografos G",
+  "Toutouzas K"
+ ],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938864",
+ "importance": 0.64,
+ "key_points_ko": [
+  "총 17명의 환자 중 17명 모두에게서 P-32 미립자 삽입 시술이 기술적으로 성공했습니다 (100.0%).",
+  "약 16주 차 국소 질환 조절률(LDCR16w)은 평가 가능한 환자 기준 16/16명으로 100.0%였습니다.",
+  "CA19-9 수치가 50% 이상 감소한 환자는 평가 가능 환자 16명 중 13명이었습니다.",
+  "후속으로 R0 절제술을 받은 환자는 4명(23.5%)이었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203331",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938864"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938864/"
+ },
+ "summary_ko": "이 연구는 국소 진행성 췌장암(LAPC) 환자 17명을 대상으로 전신 항암화학요법(gemcitabine plus nab-paclitaxel)과 병행하여 초음파 내시경(EUS) 유도 하 종양 내 인-32(phosphorus-32, P-32) 미립자 삽입술을 시행한 전향적 단일기관 파일럿 연구입니다. 치료 결과, 17명 모두에게서 시술이 기술적으로 성공했으며 시술 관련 합병증은 보고되지 않았습니다. 약 16주 시점에서 평가 가능한 환자 16명 모두에게서 국소 질환 조절이 관찰되었고, 4명은 R0 절제술을 받았습니다. 이상 반응은 대부분 1~2등급이었으며, 3등급 복통 1건 외에 4~5등급은 없었습니다. 초록에 명시된 제한사항으로 대조군이 없고 표본 크기가 작아 결과는 기술적 및 가설 생성 단계에 해당합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Early Local Tumour Control and Feasibility of Intratumoral P-32 Microparticle Implantation in Patients with Locally Advanced Pancreatic Cancer: A Prospective Single-Center Observational Cohort Study",
+ "title_ko": "국소 진행성 췌장암 환자에서 초음파 내시경 유도 하 종양 내 P-32 미립자 삽입술의 초기 국소 종양 조절 및 타당성: 전향적 단일기관 관찰 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) is a malignancy with poor prognosis, where SMAD4 protein loss is closely associated with increased tumor aggressiveness and metastatic potential. Current assessment of SMAD4 expression relies on IHC of tumor tissue obtained by biopsy or resection, in which limited sampling may not represent intratumoral heterogeneity. T1ρ-weighted imaging, an emerging functional MRI technique, shows promise in characterizing tumor microstructural properties. This study aimed to evaluate the value of T1ρ imaging combined with conventional MRI sequences and clinical parameters for non-invasive prediction of SMAD4 protein expression status in PDAC. Methods: This retrospective single-center study included 57 patients with histologically confirmed PDAC who underwent pretreatment MRI with T1ρ imaging between September 2024 and May 2025. Immunohistochemical analysis revealed SMAD4 intact in 28 tumors (49.1%) and SMAD4 loss in 29 tumors (50.9%). T1ρ values were measured and compared between SMAD4 intact and SMAD4 loss tumors. A multiparametric predictive model incorporating T1ρ values, lymph node metastasis status, and carbohydrate antigen 19-9 (CA19-9) levels was developed. Results: SMAD4 intact tumors demonstrated significantly higher T1ρ values compared to SMAD4 loss tumors (96.34 ± 14.12 vs. 71.93 ± 10.24 ms, p < 0.001). T1ρ achieved an AUC of 0.901 (95% CI: 0.817-0.986), with 82.14% sensitivity and 89.66% specificity, for predicting SMAD4 expression status. A multiparametric model combining T1ρ values, lymph node metastasis status, and CA19-9 levels yielded a numerically higher AUC of 0.932 (95% CI: 0.862-1.000), although the difference from T1ρ alone was not statistically significant (DeLong test, p > 0.05). Conclusions: T1ρ imaging showed potential for predicting SMAD4 status in PDAC.",
+ "authors": [
+  "Li K",
+  "Guo R",
+  "Li J",
+  "Wu Q",
+  "Liu X",
+  "Chen J",
+  "Wang X",
+  "Chen W"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938108",
+ "importance": 0.72,
+ "key_points_ko": [
+  "SMAD4가 유지된 췌관선암(PDAC) 환자 군은 소실된 군에 비해 T1ρ 값이 유의하게 높았습니다(96.34 ± 14.12 ms vs. 71.93 ± 10.24 ms, p < 0.001).",
+  "T1ρ 영상은 SMAD4 발현 상태 예측에서 0.901의 AUC(95% CI: 0.817-0.986), 82.14%의 민감도, 89.66%의 특이도를 기록했습니다.",
+  "T1ρ 값, 림프절 전이 상태, CA19-9 수치를 결합한 다중 파라미터 모델은 0.932의 AUC(95% CI: 0.862-1.000)를 보였습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/diagnostics16203270",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938108"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938108/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자 57명을 대상으로 T1ρ 가중 자기공명영상(MRI)과 임상 지표를 결합하여 SMAD4 단백질 발현 상태를 비침습적으로 예측하고자 했습니다. 연구 결과, SMAD4가 유지된 종양은 SMAD4가 소실된 종양에 비해 유의하게 높은 T1ρ 값을 보였습니다. T1ρ 단독으로 SMAD4 발현을 예측했을 때 곡선 아래 면적(AUC)은 0.901, 민감도는 82.14%, 특이도는 89.66%였습니다. T1ρ 값, 림프절 전이 여부, CA19-9 수치를 결합한 다중 평가지표 모델은 0.932의 AUC를 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Non-Invasive Assessment of SMAD4 Expression Status in Pancreatic Ductal Adenocarcinoma: Diagnostic Value of T1ρ-Weighted Imaging Combined with Clinical Parameters",
+ "title_ko": "췌관선암에서 T1ρ 가중 영상을 이용한 SMAD4 발현 상태의 비침습적 평가",
+ "trial": null,
+ "type": "paper"
+}

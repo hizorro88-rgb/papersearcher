@@ -17,7 +17,7 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (67)
+## 관련 임상시험 (68)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -55,8 +55,9 @@ search:
 | [진행성 췌장암 환자를 위한 맞춤형 종양 신항원 mRNA 치료제](../trials/NCT06888648.md) | 1상/2상 | 모집 예정 | - |
 | [국소 진행성 췌장암 치료를 위한 화학요법 병용 음향 군집 요법(ACT)](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
 | [국소진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
-| [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 한 ALTA3263의 1상 임상시험](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
+| [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
+| [국소 진행성 및 전이성 췌장암 환자를 위한 항암화학요법과 알파선 방출선원(DaRT) 병용 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [치료 전적이 없는 전이성 췌장관선암 환자에서 zunsemetinib과 mFOLFIRINOX 병용 요법을 평가하는 1상 임상시험](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 Bortezomib, PD-1 단일클론항체, mFOLFIRINOX 병용 요법](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 표준 요법인 mFOLFIRINOX와 ONO-7913 및 ONO-4538 병용요법에 대한 공개,…](../trials/NCT06532344.md) | 1상 | 진행 중(모집 종료) | - |
@@ -89,8 +90,24 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (7)
+## 타임라인 (12)
 
+<a id="pmid-42933148"></a>
+#### [전이성 췌장암에서 FOLFIRINOX 대 gemcitabine/nab-paclitaxel: 실제 임상 데이터 연구](https://pubmed.ncbi.nlm.nih.gov/42933148/)
+<small>FOLFIRINOX vs. gemcitabine/nab-paclitaxel for metastatic pancreatic cancer: A real-world study</small>
+
+`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-10-26 · PubMed · Transl Oncol · 중요도 0.69
+
+연구진은 다기관 실제 임상 데이터(real-world data)를 활용하여 전이성 췌장암(metastatic pancreatic cancer, mPC) 환자에게 사용된 1차 치료 요법인 FOLFIRINOX와 gemcitabine/nab-paclitaxel의 치료 성적을 비교했습니다. FOLFIRINOX 치료군은 gemcitabine/nab-paclitaxel 치료군보다 연령이 유의하게 낮았습니다. 성향 점수 매칭(propensity score matching) 전에는 FOLFIRINOX 군의 전체 생존기간(OS)과 무진행 생존기간(PFS)이 더 길었으나, 매칭 후에는 두 치료 간 생존 결과에 통계적으로 유의한 차이가 없었습니다. 탐색적 유전체 분석에서는 gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 변이가 짧은 무진행 생존기간과 연관된 것으로 나타났습니다.
+
+- 총 552명의 전이성 췌장암 환자(FOLFIRINOX 군 272명, gemcitabine/nab-paclitaxel 군 280명)가 분석에 참여했습니다.
+- 성향 점수 매칭 전에는 FOLFIRINOX 군이 중앙 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다.
+- 성향 점수 매칭 후에는 두 치료 요법 간의 생존 결과에 유의한 차이가 없었습니다.
+- gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 유전자 변이는 짧은 무진행 생존기간과 상관관계가 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933148/) · [DOI](https://doi.org/10.1016/j.tranon.2026.103085) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933148)</small>
+
+---
 <a id="pmid-42914998"></a>
 #### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
 <small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
@@ -121,6 +138,22 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919655/) · [DOI](https://doi.org/10.1111/ans.71001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919655)</small>
 
 ---
+<a id="pmid-42941632"></a>
+#### [동시성 근위부 위선암과 췌장두부 췌장관선암 환자에서 단계적 수술을 통한 초기 양호한 결과: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42941632/)
+<small>Staged Surgery for Synchronous Proximal Gastric Adenocarcinoma and Pancreatic Head Ductal Adenocarcinoma with an Early Favorable Outcome: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · J Clin Med · 중요도 0.59
+
+초록에 따르면 동시성 원발성 위암과 췌장관선암(PDAC)은 드물며 치료 경험이 제한적입니다. 62세 남성 환자가 근위부 위선암과 췌장두부 PDAC 진단을 받고 선행화학요법(neoadjuvant chemotherapy)으로 6회의 FOLFIRINOX 치료를 받았습니다. 이후 근위 위절제술과 유문보존 췌십이지장절제술을 단계적으로 시행받았습니다. 수술 후 합병증이 있었으나 두 종양 모두 절제면 음성(R0)을 확인했으며, 두 번째 수술 후 10개월째 진행 소견 없이 추적 관찰 중입니다.
+
+- 62세 남성 환자가 근위부 위선암과 췌장두부 췌장관선암(PDAC)을 동시에 진단받았습니다.
+- 선행화학요법으로 FOLFIRINOX 6회를 투여받은 후 단계적인 절제 수술을 시행했습니다.
+- 두 종양 모두 현미경적 절제면 음성(R0)을 달성했습니다.
+- 두 번째 수술 후 10개월 시점에서 질병 진행 소견 없이 ECOG 수행능력 0을 유지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941632/) · [DOI](https://doi.org/10.3390/jcm15208119) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941632)</small>
+
+---
 <a id="pmid-42861545"></a>
 #### [췌관선암 수술 후 항암화학요법: 실제 임상 환자군에서 다양한 치료 요법의 영향](https://pubmed.ncbi.nlm.nih.gov/42861545/)
 <small>Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population</small>
@@ -134,6 +167,21 @@ search:
 - 기존 PRODIGE 24 임상시험 적격 기준을 충족한 환자군만 따로 분석하더라도 (m)FOLFIRINOX군의 생존기간은 30개월로 임상시험 결과만큼 연장되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861545/) · [DOI](https://doi.org/10.1002/jso.70391) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861545)</small>
+
+---
+<a id="pmid-42935668"></a>
+#### [증례 보고: PALB2 변이 췌장암에서 전신 치료 후 발생한 단독 연수막 재발](https://pubmed.ncbi.nlm.nih.gov/42935668/)
+<small>Case Report: Isolated leptomeningeal relapse after systemic control in PALB2-altered pancreatic cancer</small>
+
+`논문` `증례` `치료 전반` `기초연구` `신약·치료제` `수술` · 2026-10-12 · PubMed · Front Med (Lausanne) · 중요도 0.59
+
+이 논문은 PALB2 변이가 있는 전이성 췌관선암(PDAC) 환자에서 장기간 전신 치료 및 전환 수술 후 발생한 드문 연수막 전이(Leptomeningeal metastasis) 증례를 보고합니다. 51세 남성 환자는 항암 치료와 수술로 완전 관해에 도달했으나, 이후 신경학적 증상이 나타나며 단독 연수막 전이가 확인되었습니다. 뇌척수액 유전자 검사에서 KRAS G12D, ARID1A, PALB2 변이가 검출되었습니다. 환자는 뇌척수액 션트 삽입술 및 약물 치료를 받았으나, 연수막 전이 진단 후 3.5개월, 최초 진단 후 약 30개월을 생존했습니다.
+
+- 연수막 전이는 췌장암에서 드물며 진단 후 중앙 생존기간은 1-2개월에 불과합니다.
+- 본 증례의 환자는 초기 진단 후 약 30개월, 연수막 전이 진단 후 3.5개월 생존했습니다.
+- 치료에 반응하는 상동조합복구(HRR) 경로 변이 췌장암 환자가 장기 생존하면서 중추신경계 재발이 나타날 수 있음을 시사합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935668/) · [DOI](https://doi.org/10.3389/fmed.2026.1927688) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13696221/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935668)</small>
 
 ---
 <a id="pmid-42846516"></a>
@@ -152,6 +200,22 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
 
 ---
+<a id="pmid-42938317"></a>
+#### [공유된 BRIP1 변이와 연관된 가족성 췌장암: 상동 재조합 결핍 및 표적 치료에 대한 시사점](https://pubmed.ncbi.nlm.nih.gov/42938317/)
+<small>Familial Pancreatic Cancer Associated with a Shared BRIP1 Variant: Implications for Homologous Recombination Deficiency and Targeted Therapy</small>
+
+`논문` `증례` `기초연구` `치료 전반` `신약·치료제` · 2026-09-29 · PubMed · Genes (Basel) · 중요도 0.59
+
+이 논문은 동일한 BRIP1 p.K159E 임상적 의미 불명 변이(VUS)를 가진 부자(아버지와 아들)의 췌관선암(PDAC) 사례를 보고합니다. 아버지는 70세, 아들은 39세의 나이에 췌관선암을 진단받았으며 두 환자 모두 백금 기반 항암화학요법에 임상적으로 유의미한 반응을 보였습니다. 아버지는 FOLFIRINOX 치료에 부분 반응을 보였으나 1년 이내에 사망했고, 아들은 수술 및 국소 치료를 포함한 복합 치료와 백금 기반 항암화학요법으로 약 5년간 생존했습니다. 저자들은 백금 민감성만으로는 상동 재조합 결핍(HRD)의 증거로 볼 수 없으며, 유전자 변이의 임상적 활용성을 판단하기 위해서는 추가적인 연구가 필요하다고 결론지었습니다.
+
+- 아버지와 아들이 각각 70세와 39세에 췌관선암(PDAC)을 진단받았으며 동일한 BRIP1 p.K159E 변이를 가지고 있었습니다.
+- 두 환자 모두 백금 기반 항암화학요법에 임상적으로 의미 있는 민감성을 보였습니다.
+- 아버지는 FOLFIRINOX 치료 후 진단 1년 이내에 사망했고, 아들은 수술과 백금 기반 치료 등으로 약 5년 동안 생존했습니다.
+- 유지 요법으로 투여된 olaparib은 혈액학적 독성과 질병 진행으로 중단되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938317/) · [DOI](https://doi.org/10.3390/genes17101201) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938317)</small>
+
+---
 <a id="pmid-42865438"></a>
 #### [수술 불가능한 췌장암 1차 항암치료로서 변형 FOLFIRINOX와 젬시타빈+냅-파클리탁셀의 효능 및 독성 비교: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42865438/)
 <small>Efficacy and toxicities of modified FOLFIRINOX versus gemcitabine plus nab-paclitaxel as first-line chemotherapy for unresectable pancreatic cancer: a systematic review and meta-analysis</small>
@@ -165,6 +229,21 @@ search:
 - 3등급 이상의 부작용으로 mFFX군에서는 설사(OR 5.63)와 식욕부진(OR 4.44)이 많았고, GnP군에서는 호중구 감소증(OR 0.66)과 백혈구 감소증(OR 0.49)이 더 빈번했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42865438/) · [DOI](https://doi.org/10.3389/fonc.2026.1913824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655002/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42865438)</small>
+
+---
+<a id="pmid-42941196"></a>
+#### [췌장관선암 환자의 항암화학요법 반응성과 관련된 장내 미생물 군집 및 기능적 특징: 탐색적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42941196/)
+<small>Gut Microbiome Compositional and Functional Signatures Associated with Chemotherapy Response in Pancreatic Ductal Adenocarcinoma: An Exploratory Cohort Study</small>
+
+`논문` `관찰연구` `기초연구` `치료 전반` · 2026-09-28 · PubMed · Metabolites · 중요도 0.72
+
+이 연구는 췌관선암(PDAC) 환자에서 항암화학요법 반응 여부와 치료 전 장내 미생물 군집 및 대사 기능 간의 연관성을 탐색했습니다. 즉각적인 수술이 불가능한 췌장암 환자 15명을 대상으로 항암 치료 전 대변 샘플을 수집하여 전유전체 샷건 메타게놈 분석을 시행했습니다. 수술 가능성을 획득한 반응군(6명)과 비반응군(9명)을 비교한 결과, 반응군에서는 Collinsella aerofaciens와 Butyrivibrio fibrisolvens가 풍부했으며, 비반응군에서는 구강 유래 세균이 풍부했습니다. 그러나 이러한 연관성은 질병 병기와 항암 치료 요법에 의해 교란되었으므로 더 큰 규모의 후속 연구가 필요합니다.
+
+- 항암 치료 반응군(6명)은 Collinsella aerofaciens(p=0.026)와 Butyrivibrio fibrisolvens(p=0.012)의 유의한 증가를 보였습니다.
+- 비반응군(9명)은 구강 유래 세균(Streptococcus gordonii, Actinomyces spp., Rothia dentocariosa)이 풍부했습니다.
+- 반응군의 5/6, 비반응군의 2/9가 mFOLFIRINOX 치료를 받았으며, 이는 그룹 간에 고르지 않게 분포했습니다(Fisher p=0.041).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941196/) · [DOI](https://doi.org/10.3390/metabo16100720) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941196)</small>
 
 ---
 <a id="pmid-42827581"></a>

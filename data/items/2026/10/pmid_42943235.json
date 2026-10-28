@@ -1,0 +1,60 @@
+{
+ "abstract": "Background/Objectives: Irinotecan is a component of standard first-line regimens for advanced pancreatic ductal adenocarcinoma (PDAC), yet cells that survive irinotecan treatment may retain the capacity to re-establish growth. Most anticancer drug screens use short-term growth inhibition as an initial criterion for compound selection, potentially excluding compounds with limited acute activity. We asked whether some of these excluded candidates might nevertheless show substantial long-term activity and enhance irinotecan responses in combination. Methods: We first screened 3524 compounds for short-term growth inhibition and advanced compounds with limited acute activity to a 10-day colony-growth screen. Long-term hits were narrowed to clinically relevant anticancer agents and then screened with irinotecan. Talazoparib showed the lowest combination-to-single-agent score and was selected for further evaluation. The combination was evaluated across multiple BRCA1/2-wild-type PDAC cell lines and further validated using additional PARP inhibitors and a xenograft model. RNA sequencing and γH2AX analysis were used to examine associated DNA damage-response features. Results: Of the 1877 compounds advanced from the initial 3-day screen, 334 (17.8%) met the long-term hit criterion. In short- versus long-term comparisons, irinotecan plus talazoparib produced greater growth suppression and higher Bliss synergy scores in 10-day than in 72 h assays. Enhanced long-term responses were observed across five BRCA1/2-wild-type PDAC cell lines, and similar long-term effects were observed with three additional PARP inhibitors. The combination also showed synergistic antitumor activity in an MIA PaCa-2 subcutaneous xenograft model. Transcriptomic and γH2AX analyses provided findings consistent with replication-stress and DNA-damage-response processes. Conclusions: A substantial subset of compounds with limited acute activity showed substantial long-term activity. PARP inhibition enhanced irinotecan responses and emerged as a candidate combination strategy in BRCA1/2-wild-type PDAC.",
+ "authors": [
+  "Jang H",
+  "Jang H",
+  "Yun HY",
+  "Lee KY",
+  "Jang H"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42943235",
+ "importance": 0.59,
+ "key_points_ko": [
+  "초기 3일 스크리닝을 통과한 1877개 화합물 중 334개(17.8%)가 장기 효과 기준을 충족했습니다.",
+  "Talazoparib와 irinotecan 병용은 72시간보다 10일 배양 검사에서 더 큰 성장 억제와 높은 시너지 점수를 나타냈습니다.",
+  "이러한 장기 병용 효과는 5개의 BRCA1/2 야생형 췌관선암 세포주와 MIA PaCa-2 이종이식(xenograft) 모델에서 확인되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/ph19101538",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42943235"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmaceuticals (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42943235/"
+ },
+ "summary_ko": "이 연구는 급성 활성은 낮지만 장기적인 억제 효과를 보이는 화합물을 찾기 위해 3524개 화합물을 스크리닝했습니다. 그 결과 급성기에는 효과가 제한적이었던 talazoparib(탈라조파립) 등의 PARP 억제제가 irinotecan(이리노테칸)과의 병용에서 우수한 장기 억제 효과를 보였습니다. 이러한 병용 효과는 BRCA1/2 야생형(wild-type) 췌관선암(PDAC) 세포주와 동물 모델(xenograft model)에서 확인되었습니다. RNA 시퀀싱 및 γH2AX 분석을 통해 DNA 손상 반응과 복제 스트레스 관련 기전이 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Long-Term Drug Screening Identifies PARP Inhibitors as Irinotecan Combination Partners in BRCA1/2-Wild-Type Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "장기 약물 스크리닝을 통해 BRCA1/2 야생형 췌관선암에서 irinotecan 병용 파트너로 PARP 억제제 발굴",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Background: Tertiary lymphoid structures (TLSs) may identify immunologically active pancreatic ductal adenocarcinoma (PDAC), but clinical definitions and spatial analyses have been inconsistent. Methods: We integrated a systematic review of 21 studies (22 reports) with patient-aware secondary analyses of seven public molecular datasets. Results: Pathology-defined TLS presence was associated with longer overall survival in five cohorts (1019 patients; random-effects hazard ratio 0.544, 95% confidence interval 0.398-0.743). In pathology-annotated spatial data, a mature-TLS program was enriched in TLS-positive regions at the patient level. B-cell and Tfh/CXCL13 programs showed reproducible positive associations with continuous TLS burden, whereas other program associations were less directionally consistent. An independent spatial cohort supported an rCAF-over-myCAF association with lymphoid probability. Chemokine-axis co-enrichment was observed but did not establish direct signaling. Conclusions: TLSs mark a favorable, spatially organized immune state in PDAC. The evidence supports biomarker and biological hypotheses while retaining boundaries on causality, treatment induction, and clinical prediction.",
+ "authors": [
+  "Jia Y",
+  "Zhang M",
+  "Yang H",
+  "Shi Y",
+  "Zhang S"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42940093",
+ "importance": 0.86,
+ "key_points_ko": [
+  "병리적으로 확인된 삼차 림프구 구조(TLS)의 존재는 5개 코호트(1,019명 환자)에서 전체 생존기간(OS) 연장과 연관되었습니다(위험비 0.544, 95% 신뢰구간 0.398-0.743).",
+  "공간적 데이터 분석 결과 TLS 부담이 높을수록 B세포 및 Tfh/CXCL13 프로그램과의 긍정적 연관성이 일관되게 나타났습니다.",
+  "TLS는 췌관선암(PDAC)에서 우수하고 공간적으로 조직화된 면역 반응 상태를 나타냅니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/biomedicines14102287",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42940093"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42940093/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자에서 삼차 림프구 구조(TLS)의 예후적 가치와 공간적 특징을 분석했습니다. 총 21개 연구와 7개의 공개 분자 데이터셋을 통합 분석한 결과 병리학적으로 TLS가 존재하는 환자군에서 전체 생존기간(OS)이 유의하게 길어졌습니다. 또한 TLS 면적이 높을수록 B세포 및 Tfh/CXCL13 면역 프로그램의 활성이 지속적으로 높아지는 공간적 연관성이 확인되었습니다. 결론적으로 TLS는 췌장암에서 예후에 긍정적인 면역 상태를 반영하는 유용한 지표입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prognostic and Spatial Organization of Tertiary Lymphoid Structures in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌관선암에서 삼차 림프구 구조(TLS)의 예후적 의의 및 공간적 조직화",
+ "trial": null,
+ "type": "paper"
+}

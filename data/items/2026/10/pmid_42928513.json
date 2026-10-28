@@ -11,8 +11,9 @@
   "Yin T"
  ],
  "categories": [
-  "treatment",
-  "basic"
+  "basic",
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "preclinical",
@@ -26,12 +27,17 @@
  ],
  "id": "pmid:42928513",
  "importance": 0.64,
- "key_points_ko": [],
- "last_updated": "2026-10-27",
+ "key_points_ko": [
+  "전기천공법(IRE) 저항성 PDAC 세포는 미토콘드리아 칼슘 스트레스를 조절하기 위해 NCLX를 상향 조절합니다.",
+  "칼슘 전달과 NCLX 억제 병행은 미토콘드리아 칼슘 과부하를 유도하여 면역원성 GSDMD존속 세포사멸(pyroptosis)을 유발합니다.",
+  "동물 모델에서 뚜렷한 전신 독성 없이 국소 제어 및 생존율이 유의미하게 향상되었습니다.",
+  "T세포 결핍 숙주에서는 치료 효능이 감소하여 적응면역의 중요성이 입증되었습니다."
+ ],
+ "last_updated": "2026-10-28",
  "links": {
   "doi": "10.1002/advs.78288",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13696882",
   "pmid": "42928513"
  },
  "pub_types": [
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42928513/"
  },
- "summary_ko": "Irreversible electroporation (IRE) is increasingly used for locally advanced pancreatic ductal adenocarcinoma (PDAC), yet electric-field heterogeneity leaves a low-field rim where residual cells survive, and recurrence is frequent, compounded by a profoundly immunosuppressive tumor microenvironment. Here, an electroporation-synchronized adjuvant strategy is developed that integrates intratumoral Ca2+ delivery with nanoparticle-mediated inhibition of mitochondrial NCLX using CGP37157 (mPEG-PCL@CG…",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 췌장관선암(PDAC)에서 비가역적 전기천공법(IRE) 치료 후 남는 잔존 세포를 제거하기 위한 새로운 보조 전략을 개발했습니다. CGP37157을 탑재한 나노파티클(mPEG-PCL@CGP37157)을 이용해 미토콘드리아 NCLX를 억제하고 칼슘을 전달하는 방식을 사용했습니다. PDAC 세포주, 환자 유래 오가노이드, 동물 모델에서 전신 독성 없이 세포독성과 생존율을 현저히 개선했습니다. 이 치료법은 면역원성 세포사멸을 유도하고 수지상세포 활성화 및 CD8+ T세포 반응을 증강시켰습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "NCLX Inhibition plus Ca2+ Delivery Potentiates Electroporation and Antitumor Immunity in Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "NCLX 억제와 칼슘 전달의 병행을 통한 췌장관선암의 전기천공법 및 항종양 면역 증강",
  "trial": null,
  "type": "paper"
 }

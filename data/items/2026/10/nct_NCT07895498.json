@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "supportive"
  ],
  "entities": [
   "daraxonrasib"
@@ -19,7 +20,12 @@
  ],
  "id": "nct:NCT07895498",
  "importance": 0.9,
- "key_points_ko": [],
+ "key_points_ko": [
+  "daraxonrasib 치료로 인한 피부 독성 완화를 목표로 ivermectin과 표준 치료 예방요법(SOCP)의 병용 효과를 평가합니다.",
+  "표준 치료 예방요법 단독 요법과 ivermectin 병용 요법의 효과를 비교합니다.",
+  "질문지를 통해 환자의 삶의 질 변화를 측정합니다.",
+  "목표 연구 참여 인원은 122명입니다."
+ ],
  "last_updated": "2026-10-27",
  "links": {
   "doi": null,
@@ -43,15 +49,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07895498"
  },
- "summary_ko": "The researchers are doing this study to find out whether the combination of ivermectin and standard of care prophylaxis (SOCP; drugs given to prevent the development of a disease or condition) is an effective treatment approach for people with skin side effects caused by daraxonrasib treatment (daraxonrasib-induced skin toxicity). The researchers will compare the combination of ivermectin and SOCP with SOCP alone to see which treatment approach is more effective.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 daraxonrasib(다락소나십) 치료로 인해 발생하는 피부 부작용(daraxonrasib-induced skin toxicity)을 예방 및 치료하기 위해 ivermectin(이버메크틴)과 표준 치료 예방요법(standard of care prophylaxis, SOCP)의 병용 효과를 평가합니다. 연구자들은 ivermectin과 SOCP 병용 요법을 SOCP 단독 요법과 비교하여 어느 쪽이 더 효과적인지 확인하고자 합니다. 또한 설문지를 통해 연구 치료가 환자의 삶의 질에 미치는 영향도 조사합니다. 본 연구는 2단계(PHASE2) 임상시험으로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Ivermectin",
   "Daraxonrasib",
   "26-384"
  ],
  "title": "A Study of Standard of Care Drugs With or Without Ivermectin for Daraxonrasib-Induced Skin Toxicity in People With Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암 환자의 daraxonrasib 유발 피부 독성에 대한 ivermectin 병용 표준 치료 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -69,7 +75,7 @@
     "phone": "646-888-4182"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* daraxonrasib 표준 단독 요법 치료 예정인 진행성 췌관선암(advanced pancreatic ductal adenocarcinoma) 환자\n* 등록 시점 기준 만 18세 이상의 성남 및 여성\n* 임신 또는 수유 중이 아닌 환자\n* 비경구 항생제가 필요한 활동성 감염이 없는 환자\n* daraxonrasib 외에 다른 항암 치료를 받을 의도가 없는 환자\n* 연구 약물 또는 유사 성분에 알레르기 병력이 없는 환자\n* 서면 동의서에 동의할 수 있거나 법적 대리인이 동의할 수 있는 환자\n\n제외 기준:\n* 연구 치료 중 또는 치료 전 4주 이내에 daraxonrasib 유발 피부 독성을 위해 다른 임상시험용 약물이나 기기를 동원한 경우\n* daraxonrasib 피부 독성 관리 외의 목적으로 무작위 배정 시점에 프레드니손(prednisone) 10 mg/day 이상(또는 동등한 약물)을 투여 중인 환자\n* 테트라사이클린(tetracyclines), ivermectin 또는 daraxonrasib 발진 발현을 마스크(mask)할 수 있는 기타 전신 약물을 투여 중인 환자\n* 임신 중이거나 연구 기간 동안 임신을 계획 중인 환자\n* 경구 ivermectin 및/또는 minocycline에 대한 알레르기 병력이 기록된 환자\n* 연구자의 판단에 따라 임상시험 참여에 부적합하다고 판단되는 상태인 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must have advanced pancreatic ductal adenocarcinoma with intent to daraxonrasib as standard of care monotherapy\n* Female or male aged 18 years and older at the time of enrollment.\n* Not pregnant and not nursing.\n* No active infection requiring parenteral antibiotic(s).\n* Patients have no intent to receive other anti-cancer therapy beyond daraxonrasib\n* No history of allergic reaction to the study agent(s), compounds of similar chemical or biologic composition to the study agent(s) (or any of its excipients).\n* Patients who are able to understand and willing to sign the written informed consent form or patients who have impaired decision-making capacity but have a legally authorized representative who can consent on their behalf are eligible. A signed informed consent form must be appropriately obtained prior to the conduct of any trial-specific procedure.\n\nExclusion Criteria:\n\n* Concurrent use of another investigational drug or device for the daraxonrasib-induced skin toxicity (i.e., outside of study treatment) during, or within 4 weeks of study treatment.\n* Patients receiving prednisone 10 mg/day or higher (or equivalent) at the time of randomization for indications other than daraxonrasib skin toxicity management.\n* Patients receiving tetracyclines, ivermectin or other systemic medication that could mask daraxonrasib rash development.\n* Pregnancy or planned pregnancy during the study period.\n* Documented allergy to oral ivermectin and / or minocycline\n* Any condition which, in the investigator's opinion, makes the patient unsuitable for trial participation.",
   "enrollment": 122,
   "has_results": false,
@@ -91,15 +97,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "임신 또는 수유 중인 경우",
+    "비경구 항생제가 필요한 활동성 감염이 있는 경우",
+    "연구 약물에 대한 알레르기 병력이 있는 경우",
+    "임신을 계획 중인 경우"
+   ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "daraxonrasib 표준 치료를 받는 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [],
-   "source": "rules"
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

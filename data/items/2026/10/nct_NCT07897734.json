@@ -1,0 +1,123 @@
+{
+ "abstract": "TNG462-C103 is a Phase 1/2 study to investigate the safety and antitumor activity of vopimetostat (TNG462) combined with ERAS-0015 in patients with MTAP-null pancreatic or MTAP-null non-small cell lung cancer with RAS mutation.\n\nTNG462-C103 is a Phase 1/2, Multicenter, Open-Label Study to Evaluate the Safety, Tolerability, and Antitumor Activity of Vopimetostat (PRMT5 inhibitor) in Combination with ERAS-0015 (pan-RAS molecular glue) in Patients with MTAP-null Pancreatic Cancer and MTAP-null Non-Small Cell Lung Cancer with RAS Mutation.\n\nThe study will be conducted in patients with MTAP- null pancreatic adenocarcinoma (PDAC) or locally advanced or metastatic MTAP loss non-small cell lung cancer (NSCLC) with RAS mutation in 2 parts: Phase 1 (dose escalation) and Phase 2 (dose expansion).\n\nIndividual arms in dose expansion may open once the MTD and/or RD(s) has been determined for the corresponding combination in dose escalation.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07897734",
+ "importance": 0.87,
+ "key_points_ko": [
+  "MTAP 결손 및 RAS 변이를 동반한 1차 또는 2차 전이성 췌장암 환자 등을 대상으로 합니다.",
+  "PRMT5 억제제인 vopimetostat(보피메토스타트)와 pan-RAS 분자 접착제인 ERAS-0015 병용 치료의 안전성 및 효과를 평가합니다.",
+  "총 188명의 목표 대상자를 모집하여 1상 용량 증량 및 2상 용량 확장으로 진행됩니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07897734"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tango Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07897734"
+ },
+ "summary_ko": "이 연구는 MTAP(메틸티오아데노신 포스포릴라아제) 유전자 결손 및 RAS 변이가 있는 췌관선암(PDAC) 및 비소세포폐암(NSCLC) 환자를 대상으로 vopimetostat(보피메토스타트)와 ERAS-0015 병용요법의 안전성과 항암 효과를 평가하는 1/2상 임상시험입니다. 보피메토스타트는 PRMT5 억제제이며 ERAS-0015는 pan-RAS 분자 접착제 표적 치료제입니다. 췌장암 코호트에는 1차 또는 2차 전이성 췌관선암 환자가 참여할 수 있습니다. 연구는 안전한 용량을 찾는 1상 용량 증량 단계와 치료 효과를 확인하는 2상 용량 확장 단계로 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "TNG462-C103: Study to Evaluate the Safety, Tolerability, and Antitumor Activity of Vopimetostat in Combination With ERAS-0015 in PDAC and NSCLC Patients",
+ "title_ko": "MTAP 결손 췌장암 및 비소세포폐암 환자 대상 보피메토스타트와 ERAS-0015 병용요법의 임상 1/2상 연구",
+ "trial": {
+  "conditions": [
+   "PDAC",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "NSCLC",
+   "RAS Mutation",
+   "MTAP Deletion",
+   "Lung Cancer",
+   "Pancreatic Cancer Metastatic",
+   "Thoracic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "clinicaltrials@tangotx.com",
+    "name": "Maxim Pimkin, MD, PhD",
+    "phone": "857-320-4899"
+   }
+  ],
+  "eligibility_ko": "선정 기준: 1. 만 18세 이상 환자. 2. ECOG 수행능력 평가 점수 0점 또는 1점. 3. 검증된 검사로 확인된 MTAP 유전자 결손 보유. 4. 1차 또는 2차 전이성 췌관선암(PDAC) 환자. 5. RECIST v1.1 기준 측정 가능한 병변 보유. 6. 적절한 장기 기능 보유. 제외 기준: 1. 이전에 PRMT5 억제제, MAT2A 억제제 또는 RAS 억제제 치료를 받은 환자. 2. 전신 치료가 필요한 활동성 감염 환자. 3. 약물 복용 및 흡수에 영향을 주는 질환 보유자. 4. 증상이 있거나 치료되지 않은 활동성 중추신경계(CNS) 뇌전이 환자.",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Is ≥18 years of age at the time of signature of the main study ICF.\n2. Has an ECOG PS of 0 or 1.\n3. Has loss of the MTAP gene, documented by a validated assay\n4. Has one of the following disease characteristics:\n\n   * 1L or 2L metastatic PDAC\n   * Locally advanced, recurrent or metastatic NSCLC (no more than 2 prior lines of therapy) with documented KRAS mutation at G12X or G13X locally obtained via an analytically validated assay (Dose expansion only).\n5. Has evidence of measurable disease based on RECIST v1.1.\n6. Adequate organ function\n\nExclusion Criteria:\n\n1. Has received prior treatment with a PRMT5 inhibitor, MAT2A inhibitor or RAS inhibitor.\n2. Has an active infection requiring systemic therapy.\n3. Any condition that may impact the ability to take or absorb study drugs\n4. Has known or suspected active or untreated CNS metastases associated with progressive neurological symptoms",
+  "enrollment": 188,
+  "has_results": false,
+  "interventions": [
+   "vopimetostat",
+   "ERAS-0015"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "KRAS_mutant",
+    "other"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전에 PRMT5, MAT2A, RAS 억제제를 투여받은 환자",
+    "전신 치료가 필요한 활동성 감염 환자",
+    "증상이 있거나 치료되지 않은 뇌전이 환자",
+    "약물 흡수에 장애가 있는 질환 보유자"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "MTAP 유전자 결손 및 RAS 변이가 있는 1차 또는 2차 전이성 췌장암 환자",
+   "prior_excluded": [
+    "KRAS_inhibitor"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07897734",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2031-11",
+  "sex": "ALL",
+  "sponsor": "Tango Therapeutics, Inc.",
+  "start_date": "2026-11",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

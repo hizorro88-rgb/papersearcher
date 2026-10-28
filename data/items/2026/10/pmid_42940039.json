@@ -1,0 +1,64 @@
+{
+ "abstract": "Background: Epithelial-derived carcinomas exhibit genomic instability due to genetic mutation and epigenetic dysregulation. Mechanisms such as DNA methylation, histone modifications, and noncoding RNA regulation may lead to tumor progression, immune evasion, and treatment resistance. Presently, gene-based and epigenetic therapies, including CRISPR systems, RNA interference, and chromatin-modifying agents, are reported to be effective in targeted cancer treatment. Objectives: This scoping review aims to map the evidence on gene-based technologies in epithelial-derived carcinomas, including therapeutic, diagnostic, prognostic, screening, and disease-modeling applications, and to identify molecular targets, translational outcomes, and gaps in the current evidence base. The review will characterize the molecular targets, gene-based approaches, cancer types, translational applications, and reported outcomes to identify evidence gaps, translational challenges, and priorities for future research. Methods: The scoping review was conducted as per PRISMA-ScR by conducting a literature search in databases such as PubMed, Embase, and Google Scholar, covering studies published between 2016 and 2026. In the inclusion criteria, all studies and reviews related to investigating gene-based, RNA-mediated, and epigenetic therapies in epithelial cancers were included. Thirty-six studies met the eligibility criteria. Results: Amongst the studies reviewed, the most common epithelial cancers reported were hepatocellular carcinoma, ovarian carcinoma, lung carcinoma, and pancreatic ductal adenocarcinoma. Among the epithelial-derived carcinomas identified in this review, HCC was the most frequently represented cancer; epigenetic alterations and therapies used were RNA-based therapies, CRISPR diagnostics, and epigenetic drugs. Ovarian and breast cancers targeting BRCA pathways and chromatin remodeling produced clinical translation outcomes. Lung and colorectal cancers showed moderate epigenetic involvement, often managed through combined therapeutic strategies. Pancreatic cancer therapies were limited by challenges in drug delivery despite identifiable molecular targets. Gene therapies such as CRISPR-based gene editing, RNAi/siRNA therapies, miRNA/lncRNA targeting, and HDAC inhibition were commonly reported. Conclusions: The present study indicates that the majority of epithelial-derived carcinomas can benefit from gene-based and epigenetic therapies. Though the majority of carcinomas, such as hepatocellular, have good clinical outcomes, pancreatic cancer has limited clinical translation.",
+ "authors": [
+  "Thomas JG",
+  "Ayyub M",
+  "Annamma LM",
+  "Prasad P",
+  "Azim SA",
+  "Varma S",
+  "George BT",
+  "Khair AMB"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42940039",
+ "importance": 0.54,
+ "key_points_ko": [
+  "총 36개의 연구가 선정 기준을 충족하여 분석에 포함되었습니다.",
+  "CRISPR 기반 유전자 편집, RNAi/siRNA 치료, miRNA/lncRNA 표적화, HDAC 억제 등이 주로 보고되었습니다.",
+  "췌장암은 확인된 분자적 표적에도 불구하고 약물 전달의 어려움으로 인해 임상적용이 제한적이었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/biomedicines14102234",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42940039"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42940039/"
+ },
+ "summary_ko": "이 연구는 상피 유래 암종에서 유전자 기반 및 후성유전학적 기술의 치료, 진단, 예후 등의 적용을 조사한 범위 문헌고찰(scoping review)입니다. 2016년부터 2026년까지 발표된 문헌 중 선정 기준을 충족한 36개의 연구를 분석했습니다. 간암, 난소암, 폐암, 췌장관선암(pancreatic ductal adenocarcinoma) 등이 주요 상피암으로 확인되었습니다. 췌장암 치료는 분자적 표적은 식별 가능하나 약물 전달의 어려움으로 인해 임상적용에 제한이 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Current Evidence on Gene-Based and Epigenetic Therapeutic, Diagnostic, and Prognostic Strategies in Epithelial-Derived Carcinomas: A Scoping Review",
+ "title_ko": "상피 유래 암종에서의 유전자 및 후성유전학적 치료, 진단, 예후 전략에 관한 최신 근거: 범위 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

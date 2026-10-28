@@ -17,7 +17,7 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (95)
+## 관련 임상시험 (96)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -71,11 +71,12 @@ search:
 | [국소 진행성 췌장암 환자에서 AG 요법과 nimotuzumab 병용 후 비가역적 전기천공술(IRE) Ablation 순차 치료](../trials/NCT06938503.md) | 2상 | 모집 예정 | - |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
-| [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 한 ALTA3263의 1상 임상시험](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
+| [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 고분자 미셀 파클리탁셀과 젬시타빈 병용 요법의 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
 | [EGFR 양성 췌장암에서 수술 후 님오투주맙과 냅파클리탁셀+젬시타빈 병용 보조치료 연구](../trials/NCT06722911.md) | 2상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
+| [국소 진행성 및 전이성 췌장암 환자를 위한 항암화학요법과 알파선 방출선원(DaRT) 병용 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [전이성 췌장암 환자를 위한 YL-13027 및/또는 HY-0102와 AG 요법 병용 임상 1/2상 시험](../trials/NCT06662669.md) | 1상/2상 | 모집 예정 | - |
 | [수술 가능 췌장관선암 환자에서의 수술 전후 fostamatinib, gemcitabine, nab-paclitaxel 병용…](../trials/NCT06639724.md) | 1상 | 모집 중 | - |
 | [KRAS G12D 변이 진행성 고형암 환자를 대상으로 한 LY3962673 단독 요법 및 항암화학요법 병용 투여 연구 (MO…](../trials/NCT06586515.md) | 1상 | 진행 중(모집 종료) | - |
@@ -117,8 +118,24 @@ search:
 | [전이성 췌장암 1차 치료에서 zolbetuximab 병용요법의 유효성 및 안전성을 평가하는 2상 임상시험](../trials/NCT03816163.md) | 2상 | 진행 중(모집 종료) | 10 |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (11)
+## 타임라인 (14)
 
+<a id="pmid-42933148"></a>
+#### [전이성 췌장암에서 FOLFIRINOX 대 gemcitabine/nab-paclitaxel: 실제 임상 데이터 연구](https://pubmed.ncbi.nlm.nih.gov/42933148/)
+<small>FOLFIRINOX vs. gemcitabine/nab-paclitaxel for metastatic pancreatic cancer: A real-world study</small>
+
+`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-10-26 · PubMed · Transl Oncol · 중요도 0.69
+
+연구진은 다기관 실제 임상 데이터(real-world data)를 활용하여 전이성 췌장암(metastatic pancreatic cancer, mPC) 환자에게 사용된 1차 치료 요법인 FOLFIRINOX와 gemcitabine/nab-paclitaxel의 치료 성적을 비교했습니다. FOLFIRINOX 치료군은 gemcitabine/nab-paclitaxel 치료군보다 연령이 유의하게 낮았습니다. 성향 점수 매칭(propensity score matching) 전에는 FOLFIRINOX 군의 전체 생존기간(OS)과 무진행 생존기간(PFS)이 더 길었으나, 매칭 후에는 두 치료 간 생존 결과에 통계적으로 유의한 차이가 없었습니다. 탐색적 유전체 분석에서는 gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 변이가 짧은 무진행 생존기간과 연관된 것으로 나타났습니다.
+
+- 총 552명의 전이성 췌장암 환자(FOLFIRINOX 군 272명, gemcitabine/nab-paclitaxel 군 280명)가 분석에 참여했습니다.
+- 성향 점수 매칭 전에는 FOLFIRINOX 군이 중앙 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다.
+- 성향 점수 매칭 후에는 두 치료 요법 간의 생존 결과에 유의한 차이가 없었습니다.
+- gemcitabine/nab-paclitaxel 군에서 ARID1A 및 RNF43 유전자 변이는 짧은 무진행 생존기간과 상관관계가 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933148/) · [DOI](https://doi.org/10.1016/j.tranon.2026.103085) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933148)</small>
+
+---
 <a id="pmid-42914998"></a>
 #### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
 <small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
@@ -180,6 +197,22 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888162/) · [DOI](https://doi.org/10.1016/j.redox.2026.104395) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888162)</small>
 
 ---
+<a id="pmid-42938864"></a>
+#### [국소 진행성 췌장암 환자에서 초음파 내시경 유도 하 종양 내 P-32 미립자 삽입술의 초기 국소 종양 조절 및 타당성: 전향적 단일기관 관찰 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42938864/)
+<small>Early Local Tumour Control and Feasibility of Intratumoral P-32 Microparticle Implantation in Patients with Locally Advanced Pancreatic Cancer: A Prospective Single-Center Observational Cohort Study</small>
+
+`논문` `관찰연구` `임상시험` `치료 전반` `진단·조기발견` · 2026-10-15 · PubMed · Cancers (Basel) · 중요도 0.64
+
+이 연구는 국소 진행성 췌장암(LAPC) 환자 17명을 대상으로 전신 항암화학요법(gemcitabine plus nab-paclitaxel)과 병행하여 초음파 내시경(EUS) 유도 하 종양 내 인-32(phosphorus-32, P-32) 미립자 삽입술을 시행한 전향적 단일기관 파일럿 연구입니다. 치료 결과, 17명 모두에게서 시술이 기술적으로 성공했으며 시술 관련 합병증은 보고되지 않았습니다. 약 16주 시점에서 평가 가능한 환자 16명 모두에게서 국소 질환 조절이 관찰되었고, 4명은 R0 절제술을 받았습니다. 이상 반응은 대부분 1~2등급이었으며, 3등급 복통 1건 외에 4~5등급은 없었습니다. 초록에 명시된 제한사항으로 대조군이 없고 표본 크기가 작아 결과는 기술적 및 가설 생성 단계에 해당합니다.
+
+- 총 17명의 환자 중 17명 모두에게서 P-32 미립자 삽입 시술이 기술적으로 성공했습니다 (100.0%).
+- 약 16주 차 국소 질환 조절률(LDCR16w)은 평가 가능한 환자 기준 16/16명으로 100.0%였습니다.
+- CA19-9 수치가 50% 이상 감소한 환자는 평가 가능 환자 16명 중 13명이었습니다.
+- 후속으로 R0 절제술을 받은 환자는 4명(23.5%)이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938864/) · [DOI](https://doi.org/10.3390/cancers18203331) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938864)</small>
+
+---
 <a id="pmid-42874369"></a>
 #### [수술 가능한 췌장암에서 단기 선행보조 젬시타빈+납-파클리탁셀 요법의 제한적인 생존 이득: 성향 점수 매칭 분석을 포함한 전향적 2상 연구](https://pubmed.ncbi.nlm.nih.gov/42874369/)
 <small>Limited Survival Benefit of Short-Course Neoadjuvant Gemcitabine Plus Nab-Paclitaxel for Resectable Pancreatic Cancer: A Prospective Phase II Study With a Propensity Score-Matched Analysis</small>
@@ -209,6 +242,21 @@ search:
 - 단백체 분석을 통해 NT5DC2, FAM3D, CXCL5, TMT1B가 선행항암요법 저항성과 연관된 바이오마커 후보로 확인되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42862523/) · [DOI](https://doi.org/10.1245/s10434-026-20711-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42862523)</small>
+
+---
+<a id="pmid-42935668"></a>
+#### [증례 보고: PALB2 변이 췌장암에서 전신 치료 후 발생한 단독 연수막 재발](https://pubmed.ncbi.nlm.nih.gov/42935668/)
+<small>Case Report: Isolated leptomeningeal relapse after systemic control in PALB2-altered pancreatic cancer</small>
+
+`논문` `증례` `치료 전반` `기초연구` `신약·치료제` `수술` · 2026-10-12 · PubMed · Front Med (Lausanne) · 중요도 0.59
+
+이 논문은 PALB2 변이가 있는 전이성 췌관선암(PDAC) 환자에서 장기간 전신 치료 및 전환 수술 후 발생한 드문 연수막 전이(Leptomeningeal metastasis) 증례를 보고합니다. 51세 남성 환자는 항암 치료와 수술로 완전 관해에 도달했으나, 이후 신경학적 증상이 나타나며 단독 연수막 전이가 확인되었습니다. 뇌척수액 유전자 검사에서 KRAS G12D, ARID1A, PALB2 변이가 검출되었습니다. 환자는 뇌척수액 션트 삽입술 및 약물 치료를 받았으나, 연수막 전이 진단 후 3.5개월, 최초 진단 후 약 30개월을 생존했습니다.
+
+- 연수막 전이는 췌장암에서 드물며 진단 후 중앙 생존기간은 1-2개월에 불과합니다.
+- 본 증례의 환자는 초기 진단 후 약 30개월, 연수막 전이 진단 후 3.5개월 생존했습니다.
+- 치료에 반응하는 상동조합복구(HRR) 경로 변이 췌장암 환자가 장기 생존하면서 중추신경계 재발이 나타날 수 있음을 시사합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935668/) · [DOI](https://doi.org/10.3389/fmed.2026.1927688) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13696221/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935668)</small>
 
 ---
 <a id="pmid-42831115"></a>

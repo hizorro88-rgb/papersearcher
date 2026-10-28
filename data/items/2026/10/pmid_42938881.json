@@ -1,0 +1,66 @@
+{
+ "abstract": "Liquid biopsy is an emerging approach for the molecular characterization of hepatopancreatobiliary (HPB) malignancies through the analysis of circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and extracellular vesicles (EVs). These biomarkers may complement conventional imaging and serum markers by providing additional information on tumor biology and disease evolution. This narrative review examines the available evidence concerning the potential applications of liquid biopsy in HPB surgical practice, with particular emphasis on preoperative prognostic assessment, postoperative molecular residual disease detection, recurrence monitoring, and treatment adaptation. Among the different circulating biomarkers, ctDNA currently has the most developed perioperative evidence base. Studies involving pancreatic ductal adenocarcinoma, hepatocellular carcinoma, and biliary tract cancers have demonstrated associations between ctDNA detection and unfavorable oncological outcomes, particularly postoperative recurrence. Nevertheless, the available evidence remains predominantly observational, with considerable heterogeneity in patient populations, sampling protocols, analytical platforms, and outcome definitions. Although the integration of circulating biomarkers with conventional anatomical criteria has generated interest in the concept of \"biological resectability\", this framework remains hypothetical and has not been prospectively validated for surgical treatment selection. Similarly, ctDNA-guided modifications of neoadjuvant therapy, adjuvant treatment, or postoperative surveillance have not yet demonstrated clinical benefit in HPB malignancies. Liquid biopsy should therefore currently be regarded as a promising investigational prognostic tool rather than an established determinant of surgical or oncological management. Standardized methodologies and prospective interventional trials are required before its routine clinical implementation.",
+ "authors": [
+  "Caringi S",
+  "Delvecchio A",
+  "Casella A",
+  "Ferraro V",
+  "Stasi M",
+  "Tralli N",
+  "Manzia TM",
+  "Inchingolo R"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938881",
+ "importance": 0.62,
+ "key_points_ko": [
+  "액체 생검은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV)를 분석하여 종양 생물학에 대한 정보를 제공합니다.",
+  "췌장관선암(pancreatic ductal adenocarcinoma) 등을 포함한 연구에서 ctDNA 검출은 수술 후 재발 등 불리한 결과와 연관성을 보였습니다.",
+  "생물학적 절제 가능성 개념이나 ctDNA 기반 치료 수정은 아직 전향적으로 검증되지 않았으며 임상적 이점이 입증되지 않았습니다.",
+  "현재 액체 생검은 표준 치료 결정 인자가 아닌 유망한 연구용 예후 도구로 간주되어야 합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203349",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938881"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938881/"
+ },
+ "summary_ko": "이 문헌은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV) 분석을 통한 간담췌 악성종양의 액체 생검(liquid biopsy) 적용 가능성을 다룬 서사적 고찰(narrative review)입니다. 수술 전 예후 평가, 수술 후 미세 잔존 질환 탐지, 재발 모니터링, 치료 조정에 초점을 맞추었습니다. 특히 ctDNA는 수술 전후 예후와 불리한 종양학적 결과, 특히 수술 후 재발 간의 연관성이 입증되었습니다. 그러나 현재의 근거는 주로 관찰 연구에 기반하며, 임상적 유용성을 확립하기 위해서는 표준화된 방법론과 전향적 중재 임상시험이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Liquid Biopsy in Hepatobiliary and Pancreatic Malignancies: Current Evidence and Implications for Surgical Practice",
+ "title_ko": "간담췌 악성종양에서의 액체 생검: 현재 근거와 수술 임상에서의 시사점",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) presents a stringent drug-delivery environment in which tumor accumulation does not necessarily translate into target-cell exposure or cargo activity. This critical narrative review develops a barrier-informed framework for evaluating nanoimmunotherapies across systemic exposure, tumor access, target-cell delivery, cargo release, target engagement, and pharmacological activity. The framework links vascular, stromal, immune, metabolic, and intracellular barriers to cargo-carrier selection, administration route, biological identity, pharmacokinetics, biodistribution, and intracellular trafficking. Platforms discussed include nanovaccines and nucleic-acid therapeutics, engineered extracellular vesicles, nanoengineered oncolytic-virus delivery, nanoparticle-assisted immune-cell programming, checkpoint modulation, and stromal or metabolic strategies relevant to immune-directed therapy. Functional-delivery evidence is integrated with critical quality attributes, mechanism-based potency, manufacturing comparability, biosafety, repeat-dose performance, and biomarker-guided clinical development. We propose a qualitative stage-gating framework based on concordant evidence of target-site exposure, target-cell activity, reproducible product quality, acceptable repeat-dose performance, and a testable biomarker strategy. This framework supports formulation selection, cross-platform comparison, and translational prioritization of PDAC nanoimmunotherapies.",
+ "authors": [
+  "Xu B",
+  "Wei D",
+  "Tao K",
+  "Wang Y"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42942836",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌장관선암(PDAC)은 종양 축적이 실제 표적 세포 노출이나 약물 활성으로 이어지기 어려운 엄격한 약물 전달 환경을 가지고 있습니다.",
+  "혈관, 기질, 면역, 대사, 세포 내 장벽을 고려한 나노면역치료제 평가 프레임워크를 제시합니다.",
+  "나노백신, 핵산 치료제, 세포외소포, 종양용해 바이러스 전달 등 여러 플랫폼을 다룹니다.",
+  "표적 부위 노출, 표적 세포 활성, 재현 가능한 품질, 반복 투여 성능 등을 포함하는 정성적 단계별 관문 프레임워크를 제안합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/pharmaceutics18101305",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42942836"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmaceutics",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42942836/"
+ },
+ "summary_ko": "이 논문은 췌장관선암(PDAC)의 특수한 약물 전달 환경을 극복하기 위한 장벽 기반 프레임워크를 다룬 서사적 문헌 고찰입니다. 전신 노출부터 종양 접근, 표적 세포 전달, 약물 방출 및 약리학적 활성까지의 과정을 평가합니다. 나노백신, 핵산 치료제, 조작된 세포외소포, 나노엔지니어링된 종양용해 바이러스 등 다양한 플랫폼을 논의합니다. 이를 통해 PDAC 나노면역치료제의 제형 선택과 중개 연구 우선순위를 지원합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Functional Delivery of Nanoimmunotherapies in Pancreatic Ductal Adenocarcinoma: A Barrier-Informed Pharmaceutics Framework",
+ "title_ko": "췌장관선암에서 나노면역치료제의 기능적 전달: 장벽 기반 약제학적 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

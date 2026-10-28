@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives. Triple-negative breast cancer (TNBC) and pancreatic ductal adenocarcinoma (PDAC) are two of the deadliest adult cancers. High-dose acetaminophen (AAP) has anti-cancer activity when given in conjunction with CYP2E1 inhibitors to block liver toxicity. However, the administration of high doses of AAP presents practical challenges stemming from limited water solubility, making it difficult to create a concentrated treatment solution in limited volume. Propacetamol (PROP) is a water-soluble AAP pro-drug that has been used clinically as an IV AAP formulation for analgesia. Methods. We sought to investigate the pharmacokinetics, safety and anti-cancer activity of PROP in comparison to AAP using transplantable syngeneic models of TNBC and PDAC. Results. In vivo, PROP was rapidly converted to AAP within minutes of administration. PROP demonstrated enhanced effectiveness in suppressing tumor growth in the TNBC and PDAC syngeneic murine tumor models compared to AAP. The enhanced efficacy of PROP appears to stem from increased cellular uptake, leading to intracellular AAP concentrations that are 2.7-fold higher within 5 min compared to cells treated with unmodified AAP. PROP demonstrated enhanced modulation of intracellular JAK/STAT signaling, a key mediator of AAP anti-cancer activity, using both murine and humanized models. STAT3 and STAT6 inhibition by PROP led to modulation of macrophage polarization, likely contributing to its anti-TNBC and anti-PDAC activity. While parenteral administration is the preferred route of administration for PROP in anti-cancer indications, we also evaluated the safety and efficacy of oral PROP in comparison to AAP. High-dose PROP demonstrated improved safety following oral administration compared to AAP in the BALB/c murine model while maintaining anti-cancer activity in vivo. Conclusions. PROP, an AAP pro-drug, demonstrates enhanced intracellular delivery of AAP and in vivo anti-cancer activity compared to unmodified AAP, setting the stage for investigation as an anti-cancer drug across different indications.",
+ "authors": [
+  "Bryan A",
+  "Pangeni R",
+  "Akakpo JY",
+  "Wendling A",
+  "Isbell M",
+  "Martin RK",
+  "Weistroffer G",
+  "Jaeschke H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938922",
+ "importance": 0.59,
+ "key_points_ko": [
+  "PROP 투여 시 세포 내 아세트아미노펜(AAP) 농도가 기존 AAP 치료 세포에 비해 5분 이내에 2.7배 더 높게 나타났습니다.",
+  "PROP은 쥐의 췌장관선암(PDAC) 및 삼중음성 유방암 모델에서 기존 AAP보다 향상된 종양 성장 억제 효과를 보였습니다.",
+  "PROP은 세포 내 JAK/STAT 신호전달을 조절하며, STAT3 및 STAT6 억제를 통해 대식세포 분극화에 영향을 주었습니다.",
+  "경구 투여 시 고용량 PROP은 기존 AAP에 비해 향상된 안전성을 보이면서도 항암 활성을 유지했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203390",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938922"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938922/"
+ },
+ "summary_ko": "이 연구는 삼중음성 유방암(TNBC)과 췌장관선암(PDAC) 동물 모델에서 수용성 아세트아미노펜(acetaminophen, AAP) 전구약물인 propacetamol(PROP)의 약동학, 안전성, 항암 효과를 평가했습니다. 연구 결과, PROP은 투여 후 수 분내에 AAP로 빠르게 전환되었습니다. PROP은 기존 AAP에 비해 종주 억제 효과가 더 뛰어났으며, 세포 내 AAP 농도를 2.7배 더 높게 전달했습니다. 저자들은 PROP이 다양한 암 적응증에 대한 항암제로 연구될 수 있는 기반을 마련했다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Water-Soluble Pro-Drug of Acetaminophen Has Increased Intracellular Delivery of Active Drug and Anti-Cancer Activity in Triple-Negative Breast Cancer and Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "아세트아미노펜의 수용성 전구약물은 삼중음성 유방암과 췌장관선암에서 활성 약물의 세포 내 전달을 증가시키고 항암 활성을 나타냅니다",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Surveillance of intraductal papillary mucinous neoplasms (IPMNs) provides a clinically relevant window in which biological changes associated with pancreatic ductal adenocarcinoma (PDAC) development may potentially be investigated before advanced disease occurs. Nanoparticle-enabled protein corona (PC) fingerprinting has shown analytical potential in PDAC, but the extent to which different nanoplatforms recover distinct information across the biologically proximate IPMN-PDAC spectrum remains unclear. This exploratory study compared three nanoplatform configurations to identify a candidate workflow for subsequent validation. Methods: Plasma from 22 patients with de novo PDAC (n = 11), IPMN (n = 6), or IPMN-derived PDAC (n = 5) was incubated with graphene oxide (GO) nanosheets, gold nanoparticles (AuNPs), or cationic DOTAP-DOPE liposomes. Wash-resistant PCs were analyzed by SDS-PAGE, quantified across predefined molecular weight (MW) regions, and evaluated using exploratory linear discriminant analysis with repeated stratified cross-validation. Results: The three nanoplatforms generated non-equivalent electrophoretic PC architectures. In this small exploratory cohort, GO showed the broadest pattern of nominal clinical-group-associated variation in relative MW-region contributions and yielded internal cross-validation AUC estimates of 0.955 for IPMN versus de novo PDAC, 0.767 for IPMN versus IPMN-derived PDAC, and 0.927 for IPMN-derived versus de novo PDAC. Corresponding AUCs were 0.606-0.700 for AuNPs and 0.621-0.691 for liposomes. Conclusions: GO provided the broadest group-associated variation and numerically highest internal discrimination estimates, supporting its prioritization for independent validation and prospective longitudinal evaluation in IPMN surveillance.",
+ "authors": [
+  "Aita SE",
+  "La Vaccara V",
+  "Cammarata R",
+  "Talarico M",
+  "Giordano F",
+  "Coppola R",
+  "Caputo D"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938812",
+ "importance": 0.65,
+ "key_points_ko": [
+  "총 22명의 환자(신규 PDAC 11명, IPMN 6명, IPMN 유래 PDAC 5명)의 혈장 샘플이 분석에 사용되었습니다.",
+  "그래핀 옥사이드(graphene oxide, GO)는 IPMN 대 신규 PDAC 비교에서 내부 교차 검증 AUC 0.955를 기록했습니다.",
+  "IPMN 대 IPMN 유래 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.767이었습니다.",
+  "IPMN 유래 PDAC 대 신규 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.927이었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/cancers18203275",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938812"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938812/"
+ },
+ "summary_ko": "이 연구는 관내유두상점액성종양(IPMN)과 췌장암(PDAC) 환자 22명의 혈장을 이용하여 세 가지 나노플랫폼 구성의 단백질 코로나(PC) 지문 분석 능력을 비교했습니다. 그래핀 옥사이드(graphene oxide, GO) nanosheet(나노시트), 금 나노입자(AuNP), 양이온성 지질소포체(liposome)를 사용해 세 가지 나노플랫폼이 서로 다른 단백질 코로나 구조를 생성함을 확인했습니다. 소규모 탐색적 코호트에서 그래핀 옥사이드(graphene oxide, GO)는 가장 넓은 범위의 임상군 간 변동을 보였으며 IPMN 대 신규 PDAC 비교에서 0.955의 교차 검증 AUC를 기록했습니다. 초록에 명시되지 않은 추가 결과는 없습니다. 초록에 명시되지 않은 제한 사항 및 후속 연구 계획이 언급되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Plasma Protein Corona Fingerprinting Across Intraductal Papillary Mucinous Neoplasms and Pancreatic Ductal Adenocarcinoma: A Comparative Proof-of-Concept Study",
+ "title_ko": "관내유두상점액성종양(IPMN)과 췌장암(PDAC) 간의 혈장 단백질 코로나 지문 분석: 비교 개념증명 연구",
+ "trial": null,
+ "type": "paper"
+}

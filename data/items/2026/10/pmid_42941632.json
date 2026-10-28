@@ -1,0 +1,68 @@
+{
+ "abstract": "Background. Synchronous primary gastric cancer and pancreatic ductal adenocarcinoma (PDAC) are uncommon, and published experience with their combined treatment is limited. Proximal gastric adenocarcinoma combined with pancreatic head PDAC presents a particular challenge because resection and reconstruction must address two anatomically separate primary tumors. Materials and Methods. A 62-year-old man with poorly differentiated proximal gastric adenocarcinoma (cT3N0M0) and pancreatic head PDAC (cT3N1M0) received six cycles of neoadjuvant FOLFIRINOX. Preoperative ECOG performance status was 0. Treatment comprised proximal gastrectomy with D2 lymphadenectomy and double-tract reconstruction and, approximately 10 weeks later, pylorus-preserving pancreatoduodenectomy. Contrast-enhanced CT before the second stage showed no disease progression. Results. Intra-abdominal hemorrhage after proximal gastrectomy required relaparotomy. Histopathological examination confirmed microscopically negative resection margins (R0) for both tumors. Gastric tumor regression was Becker grade 3, indicating minimal or no regression; pancreatic regression was Modified Ryan score 3, indicating a poor or absent response. Six cycles of adjuvant modified FOLFIRINOX were reported. At the last reported follow-up, 10 months after the second operation, the patient had no evidence of progression and an ECOG performance status of 0. Conclusions. This case documents the technical feasibility of staged gastric and pancreatic resection after neoadjuvant chemotherapy in a patient with preoperative ECOG performance status 0, with histologically negative resection margins and an early favorable outcome despite a postoperative complication. The reported R0 status describes the morphological assessment of resection margins. Longer follow-up is required to assess durable disease control.",
+ "authors": [
+  "Sokolov PV",
+  "Potievskiy MB",
+  "Podluzhniy DV",
+  "Ryabov AB",
+  "Rozhkov ME",
+  "Skoropad VY",
+  "Nevolskikh AA",
+  "Ivanov SA"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42941632",
+ "importance": 0.59,
+ "key_points_ko": [
+  "62세 남성 환자가 근위부 위선암과 췌장두부 췌장관선암(PDAC)을 동시에 진단받았습니다.",
+  "선행화학요법으로 FOLFIRINOX 6회를 투여받은 후 단계적인 절제 수술을 시행했습니다.",
+  "두 종양 모두 현미경적 절제면 음성(R0)을 달성했습니다.",
+  "두 번째 수술 후 10개월 시점에서 질병 진행 소견 없이 ECOG 수행능력 0을 유지했습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/jcm15208119",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42941632"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42941632/"
+ },
+ "summary_ko": "초록에 따르면 동시성 원발성 위암과 췌장관선암(PDAC)은 드물며 치료 경험이 제한적입니다. 62세 남성 환자가 근위부 위선암과 췌장두부 PDAC 진단을 받고 선행화학요법(neoadjuvant chemotherapy)으로 6회의 FOLFIRINOX 치료를 받았습니다. 이후 근위 위절제술과 유문보존 췌십이지장절제술을 단계적으로 시행받았습니다. 수술 후 합병증이 있었으나 두 종양 모두 절제면 음성(R0)을 확인했으며, 두 번째 수술 후 10개월째 진행 소견 없이 추적 관찰 중입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Staged Surgery for Synchronous Proximal Gastric Adenocarcinoma and Pancreatic Head Ductal Adenocarcinoma with an Early Favorable Outcome: A Case Report",
+ "title_ko": "동시성 근위부 위선암과 췌장두부 췌장관선암 환자에서 단계적 수술을 통한 초기 양호한 결과: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

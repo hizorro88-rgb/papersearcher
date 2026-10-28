@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Leptomeningeal metastasis (LM) is an uncommon manifestation of pancreatic ductal adenocarcinoma (PDAC) and has a median survival of only 1-2 months after diagnosis. Isolated LM after prolonged extracranial disease control is particularly rare and may be overlooked when systemic imaging results look stable.\nCASE PRESENTATION: We describe a 51-year-old man with metastatic PDAC who initially received a treatment regimen comprising KN046 and gemcitabine and nab-paclitaxel, followed by a prolonged course of folinic acid, fluorouracil, irinotecan, and oxaliplatin (FOLFIRINOX), and subsequently underwent conversion surgery with a pathological complete response (ypT0N0, R0). Several months after completing adjuvant FOLFIRINOX, the patient developed a new right lower limb weakness. Brain MRI and cerebrospinal fluid (CSF) cytology results confirmed the presence of isolated LM, but there was no evidence of active extracranial disease. CSF sequencing identified Kirsten rat sarcoma viral oncogene homolog G12D, an AT-rich interaction domain 1A frameshift alteration, and a truncating partner and localizer of BRCA2 p.L920* alteration involving the homologous recombination repair (HRR) pathway. Then, the patient underwent ventriculoperitoneal shunt and Ommaya reservoir placement, followed by treatment with serial intrathecal methotrexate plus dexamethasone and systemic toripalimab with bevacizumab. This multimodal approach was followed by temporary neurological stabilization, but the disease eventually progressed. He survived approximately 30 months since the initial PDAC diagnosis and 3.5 months after LM diagnosis.\nCONCLUSION: Together with our review of 29 published PDAC-LM cases, this report suggests two recurring clinical patterns: fulminant presentation at/or near initial diagnosis and delayed central nervous system (CNS) relapse after prolonged systemic disease control. The repeated detection of Fanconi anemia/homologous recombination repair pathway alterations in several genomically characterized cases gives rise to the possibility that treatment-responsive, HRR pathway-altered PDAC may survive long enough for CNS sanctuary relapse to become clinically apparent. CSF genomic profiling may help characterize rare CNS relapse in molecularly defined PDAC, and new neurological symptoms in long-surviving patients warrant prompt evaluation even when extracranial disease appears controlled.",
+ "authors": [
+  "Yuan J",
+  "Xu Y",
+  "Zhou Q",
+  "Yuan G",
+  "Ye M"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42935668",
+ "importance": 0.59,
+ "key_points_ko": [
+  "연수막 전이는 췌장암에서 드물며 진단 후 중앙 생존기간은 1-2개월에 불과합니다.",
+  "본 증례의 환자는 초기 진단 후 약 30개월, 연수막 전이 진단 후 3.5개월 생존했습니다.",
+  "치료에 반응하는 상동조합복구(HRR) 경로 변이 췌장암 환자가 장기 생존하면서 중추신경계 재발이 나타날 수 있음을 시사합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3389/fmed.2026.1927688",
+  "nct": [],
+  "pmcid": "PMC13696221",
+  "pmid": "42935668"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Med (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935668/"
+ },
+ "summary_ko": "이 논문은 PALB2 변이가 있는 전이성 췌관선암(PDAC) 환자에서 장기간 전신 치료 및 전환 수술 후 발생한 드문 연수막 전이(Leptomeningeal metastasis) 증례를 보고합니다. 51세 남성 환자는 항암 치료와 수술로 완전 관해에 도달했으나, 이후 신경학적 증상이 나타나며 단독 연수막 전이가 확인되었습니다. 뇌척수액 유전자 검사에서 KRAS G12D, ARID1A, PALB2 변이가 검출되었습니다. 환자는 뇌척수액 션트 삽입술 및 약물 치료를 받았으나, 연수막 전이 진단 후 3.5개월, 최초 진단 후 약 30개월을 생존했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Case Report: Isolated leptomeningeal relapse after systemic control in PALB2-altered pancreatic cancer",
+ "title_ko": "증례 보고: PALB2 변이 췌장암에서 전신 치료 후 발생한 단독 연수막 재발",
+ "trial": null,
+ "type": "paper"
+}

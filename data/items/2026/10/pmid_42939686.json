@@ -1,0 +1,64 @@
+{
+ "abstract": "Nerve growth factor (NGF) signaling is involved in pancreatic ductal adenocarcinoma (PDAC) neurotropism, perineural invasion, pain, and tumor-stromal crosstalk, but its value as a circulating biomarker remains poorly defined. We retrospectively analyzed 51 patients with PDAC who underwent serial liquid-biopsy assessment across perioperative and advanced-disease timepoints. Circulating β-NGF was assessed in plasma, and samples without measurable NGF were classified as non-detectable. NGF was analyzed as both a zero-inflated continuous variable and a binary detectable/non-detectable biomarker. Phase-aligned associations with recurrence, disease-free survival, first-line progression-free survival, CA19-9, CEA, TGFβ, PD-L1, pain, and pathological perineural invasion were evaluated using non-parametric and permutation-based methods with false-discovery-rate adjustment. NGF availability was highest at first-line treatment initiation, where 9 of 40 patients had detectable NGF (22.5%). The clearest signal emerged postoperatively: patients who subsequently recurred had higher NGF values than those who did not (median 25.5 pg/mL vs. non-detectable; nominal p = 0.038). Detectable postoperative NGF was directionally associated with recurrence, while detectable NGF at first-line treatment initiation was associated with numerically shorter progression-free survival. Pooled active-disease measurements did not show a clear NGF increase versus postoperative samples, arguing against a generic disease-burden signal. No association remained significant after false-discovery-rate correction; therefore, all observed signals should be interpreted as exploratory and hypothesis-generating. These findings support prospective validation of circulating NGF within multimarker liquid-biopsy strategies focused on postoperative recurrence, perineural invasion-related biology, and treatment resistance in PDAC.",
+ "authors": [
+  "Garajová I",
+  "Digiacomo G",
+  "Cavazzoni A",
+  "Wang B",
+  "Verze M",
+  "Minari R",
+  "Agnetti V",
+  "Giovannetti E"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42939686",
+ "importance": 0.7,
+ "key_points_ko": [
+  "1차 치료 시작 시점의 NGF 검출률은 22.5%(40명 중 9명)였습니다.",
+  "수술 후 재발 환자의 NGF 수치는 중앙값 25.5 pg/mL로, 비검출군에 비해 높았습니다(명목 p = 0.038).",
+  "위조양발견율(FDR) 보정 후 통계적으로 유의한 연관성은 남지 않았습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/biom16101433",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42939686"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-02",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomolecules",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42939686/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자 51명을 대상으로 수술 전후 및 진행성 병기 시점에서 혈중 베타 신경성장인자(β-NGF)의 임상적 가치를 후향적으로 분석했습니다. 1차 치료 시작 시점의 NGF 검출률은 22.5%(40명 중 9명)였습니다. 수술 후 재발한 환자들은 재발하지 않은 환자들에 비해 NGF 수치가 더 높았으나, 다중검정 보정 후에는 통계적 유의성이 남지 않았습니다. 본 연구 결과는 향후 다중바이오마커 액체생검 전략에서 순환 혈중 NGF의 전향적 검증을 뒷받침합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Longitudinal Circulating Nerve Growth Factor in Pancreatic Ductal Adenocarcinoma: An Exploratory Study of Postoperative Recurrence and First-Line Disease Control",
+ "title_ko": "췌관선암에서 혈중 신경성장인자의 종단적 변화: 수술 후 재발 및 1차 치료 조절에 관한 탐색적 연구",
+ "trial": null,
+ "type": "paper"
+}

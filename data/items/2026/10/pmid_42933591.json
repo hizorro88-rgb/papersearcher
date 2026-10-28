@@ -1,0 +1,62 @@
+{
+ "abstract": "Mucin-16 (MUC16) is overexpressed in >60% of pancreatic ductal adenocarcinoma (PDAC) cases and correlates with poor outcomes, yet its role in regulating tumor-immune interactions remains incompletely defined. Using KPC and KPC-MUC16 knockout (KPC-MUC16KO) genetically engineered and orthotopic mouse models, we show that loss of MUC16 markedly reduces tumor burden and reprograms the tumor microenvironment (TME) toward a less immunosuppressive state. MUC16 deficiency significantly decreased CD206+ and Ym1/2+ M2-like macrophages, increased the M1/M2 ratio, and improved survival. Cytokine profiling identified CCL2 and Serpin-E1 as MUC16- dependent secreted factors that promote macrophage recruitment and polarization; neutralization of these cytokines reduced macrophage migration in vitro. Bone marrow-derived macrophages (BMDM) exposed to MUC16-expressing tumor cells or conditioned media adopted a CD206+Arg1+ M2-like phenotype, whereas MUC16KO tumor signals favored inflammatory CD86+iNOS+ M1-like polarization. Macrophage depletion using clodronate liposomes significantly impaired tumor growth in MUC16-competent tumors but had minimal effect in KPC-MUC16KO tumors, indicating dependence on macrophage-mediated immunosuppression in the former group. Spatial transcriptomics revealed a globally distinct TME in MUC16KO tumors, including enhanced antigen-presentation programs, increased complement activation, and fibroblast states skewed toward pro-inflammatory signaling. These findings establish MUC16 as a key orchestrator of macrophage-driven immunosuppression in PDAC and support therapeutic strategies combining MUC16-targeted interventions with TME-reprogramming approaches.",
+ "authors": [
+  "Rajesh C",
+  "Sagar S",
+  "Huang Y",
+  "Mundry CS",
+  "Chaitankar V",
+  "Shah OS",
+  "Sumeet C",
+  "Caffrey T"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42933591",
+ "importance": 0.6,
+ "key_points_ko": [
+  "MUC16은 췌장관선암(PDAC) 환자의 60% 이상에서 과발현되며 예후 불량과 연관이 있습니다.",
+  "MUC16 결손(MUC16KO)은 CD206+ 및 Ym1/2+ M2형 대식세포를 유의하게 감소시키고 생존율을 향상시켰습니다.",
+  "CCL2와 Serpin-E1이 MUC16 의존성 분비 인자로 확인되어 대식세포의 유입과 분극화를 촉진했습니다.",
+  "공간 전사체 분석 결과 MUC16 결손 종양에서 항원 제시 프로그램 강화와 프로염증성 신호 전달이 관찰되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218927",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42933591"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933591/"
+ },
+ "summary_ko": "뮤신-16(MUC16)이 췌장관선암(PDAC)의 종양 미세환경과 면역 상호작용에 미치는 영향을 규명하기 위해 유전자 조작 및 동소이식 마우스 모델을 활용한 연구입니다. 연구 결과 MUC16을 결손시키면 종양 부담이 현저히 감소하고, 면역 억제성 대식세포가 줄어들며 생존 기간이 연장되었습니다. 이는 MUC16이 대식세포를 통한 면역 억제의 핵심 조절자임을 시사하며 MUC16 표적 치료 전략의 근거를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MUC16 drives macrophage-mediated immunosuppression in pancreatic cancer",
+ "title_ko": "MUC16은 췌장암에서 대식세포 매개 면역 억제를 유도합니다",
+ "trial": null,
+ "type": "paper"
+}

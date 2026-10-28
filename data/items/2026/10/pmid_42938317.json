@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with a subset occurring in the context of hereditary cancer predisposition. BRIP1 is involved in homologous recombination repair, and pathogenic germline variants are established risk factors for ovarian cancer. However, its role in pancreatic cancer susceptibility and treatment response remains poorly defined. We report PDAC in a father and son whose tumors independently harbored the same BRIP1 p.K159E variant of uncertain significance (VUS), with clinical features suggestive of potential homologous recombination deficiency (HRD). A father and son developed PDAC at 70 and 39 years, respectively. Tumor profiling identified the same BRIP1 p.K159E VUS in both, alongside canonical PDAC-associated alterations. Germline testing was not performed. Both patients showed clinically meaningful sensitivity to platinum-based chemotherapy. The father achieved a partial response to FOLFIRINOX for early metastatic recurrence but subsequently deteriorated and died within one year of diagnosis. The son achieved prolonged disease control with platinum-based chemotherapy and multimodal treatment, including surgery and local therapies for oligoprogression, surviving approximately five years. Maintenance olaparib was briefly administered but discontinued because of hematological toxicity and subsequent disease progression. The occurrence of PDAC in two first-degree relatives, including early-onset disease in the son, together with the same BRIP1 p.K159E VUS in both tumors, represents an unusual familial and molecular observation. Although germline status and pathogenicity cannot be established, the shared alteration and platinum sensitivity raise the hypothesis that this BRIP1 variant may warrant further investigation in the context of homologous recombination repair. However, platinum sensitivity alone cannot be considered evidence of homologous recombination deficiency. The uncertain benefit from PARP inhibition further highlights the limitations of inferring therapeutic actionability from an individual HRR gene VUS. Further germline and functional investigation of BRIP1 alterations in PDAC is warranted.",
+ "authors": [
+  "Degrauwe N",
+  "Dei Tos G",
+  "Trimech M",
+  "Homicsko K",
+  "Digklia A"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "olaparib",
+  "folfirinox"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42938317",
+ "importance": 0.59,
+ "key_points_ko": [
+  "아버지와 아들이 각각 70세와 39세에 췌관선암(PDAC)을 진단받았으며 동일한 BRIP1 p.K159E 변이를 가지고 있었습니다.",
+  "두 환자 모두 백금 기반 항암화학요법에 임상적으로 의미 있는 민감성을 보였습니다.",
+  "아버지는 FOLFIRINOX 치료 후 진단 1년 이내에 사망했고, 아들은 수술과 백금 기반 치료 등으로 약 5년 동안 생존했습니다.",
+  "유지 요법으로 투여된 olaparib은 혈액학적 독성과 질병 진행으로 중단되었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/genes17101201",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42938317"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Genes (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42938317/"
+ },
+ "summary_ko": "이 논문은 동일한 BRIP1 p.K159E 임상적 의미 불명 변이(VUS)를 가진 부자(아버지와 아들)의 췌관선암(PDAC) 사례를 보고합니다. 아버지는 70세, 아들은 39세의 나이에 췌관선암을 진단받았으며 두 환자 모두 백금 기반 항암화학요법에 임상적으로 유의미한 반응을 보였습니다. 아버지는 FOLFIRINOX 치료에 부분 반응을 보였으나 1년 이내에 사망했고, 아들은 수술 및 국소 치료를 포함한 복합 치료와 백금 기반 항암화학요법으로 약 5년간 생존했습니다. 저자들은 백금 민감성만으로는 상동 재조합 결핍(HRD)의 증거로 볼 수 없으며, 유전자 변이의 임상적 활용성을 판단하기 위해서는 추가적인 연구가 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Familial Pancreatic Cancer Associated with a Shared BRIP1 Variant: Implications for Homologous Recombination Deficiency and Targeted Therapy",
+ "title_ko": "공유된 BRIP1 변이와 연관된 가족성 췌장암: 상동 재조합 결핍 및 표적 치료에 대한 시사점",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) has a five-year relative survival of 8%. Feature selection optimizes accuracy, survival concordance, and network structure separately; whether uniting them matters has not been determined. The BIMS-GA optimizes the cross-validated AUC, Cox concordance, and STRING v11.0 protein-protein interaction coherence in one fitness function and was compared against fourteen alternative methods on GSE62452 (n = 130) and eight external evaluation sets. Using a nested protocol, the fifteen methods had pooled out-of-fold AUCs spanning 0.877-0.900; the BIMS-GA ranked thirteenth with 0.8855. No DeLong comparisons survived correction. Stability did not persist either: the ten-seed Jaccard index of 0.804 exceeded every comparator but fell to 0.521 in a second seed block. Network coherence separated them by two orders of magnitude, 0.480 against 0.005-0.192, in an ordering unbroken across twenty runs. Removing the network term raised the discovery AUC by 0.0117 and lowered external prognostic concordance by 0.0149 in all ten runs, acting as a regularizer. The twenty-gene panel comprises one laminin-332 and an integrin adhesion program with no isolated member, stratifying survival in four cohorts (hazard ratios of 2.92-4.13 fitted within each cohort; 1.02-2.17 transferred). Network coherence, not discrimination, is the axis that remained separate in every run examined, while short-run stability did not.",
+ "authors": [
+  "Saeheaw T"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42942302",
+ "importance": 0.53,
+ "key_points_ko": [
+  "췌장관선암(PDAC)의 5년 상대 생존율은 초록에 명시된 바와 같이 8%입니다.",
+  "BIMS-GA의 풀링된 교차 검증 AUC는 0.8855로 15개 방법 중 13위를 기록했습니다.",
+  "20개 유전자 패널은 각 코호트 내에서 2.92-4.13의 위험비(HR)로 생존을 계층화했습니다.",
+  "외부 코호트로 이전되었을 때의 위험비(HR)는 1.02-2.17이었습니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.3390/life16101716",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42942302"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Life (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42942302/"
+ },
+ "summary_ko": "췌장관선암(PDAC)의 5년 상대 생존율은 8%입니다. 연구진은 정확도, 생존 일치도, 네트워크 구조를 통합한 BIMS-GA 알고리즘을 개발하여 GSE62452(환자 수 130명) 및 8개의 외부 평가 세트에서 14가지 대안 방법과 비교했습니다. BIMS-GA는 교차 검증된 AUC 0.8855를 기록하며 13위를 차지했습니다. 20개 유전자 패널은 네 가지 코호트에서 생존을 계층화했으며, 각 코호트 내에서 적합된 위험비(HR)는 2.92-4.13, 이전된 위험비는 1.02-2.17이었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "BIMS-GA: Adaptive Multi-Objective Optimization for Network-Aware Pancreatic Ductal Adenocarcinoma Biomarker Discovery",
+ "title_ko": "BIMS-GA: 네트워크 인식 췌장관선암 생체표지자 발굴을 위한 적응형 다목적 최적화",
+ "trial": null,
+ "type": "paper"
+}

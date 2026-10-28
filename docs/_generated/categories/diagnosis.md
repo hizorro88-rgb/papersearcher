@@ -16,94 +16,697 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 324건 · 최근 30일 324건
+전체 358건 · 최근 30일 358건
 
 월별 보기: [2026-10](diagnosis/2026-10.md)
 
 ## 최근 30일
 
-<a id="nct-nct03375320"></a>
-#### [Testing Cabozantinib in Patients With Advanced Pancreatic Neuroendocrine and Carcinoid Tumors](https://clinicaltrials.gov/study/NCT03375320)
-`임상시험` `3상` `치료 전반` `진단·조기발견` `신경내분비종양` · 2017-12-18 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.88
+<a id="nct-nct06943755"></a>
+#### [국소 진행성 또는 전이성 신경내분비종양 환자에서 zanzalintinib과 everolimus의 비교 연구](https://clinicaltrials.gov/study/NCT06943755)
+<small>Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors</small>
 
-**NCT03375320** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03375320.md)
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` `신경내분비종양` · 2025-04-24 · ClinicalTrials.gov · Exelixis · 중요도 0.96
 
-This phase III trial studies cabozantinib to see how well it works compared with placebo in treating patients with neuroendocrine or carcinoid tumors that may have spread from where it first started to nearby tissue, lymph nodes, or distant parts of the body (advanced). Cabozantinib is a chemotherapy drug known as a tyrosine kinase inhibitor, and it targets specific tyrosine kinase receptors, that when blocked, may slow tumor growth.
+**NCT06943755** · 2상/3상 · 모집 중 · 국내 5곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06943755.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03375320) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03375320)</small>
+이 임상시험은 이전에 치료를 받은 적이 있는 수술 불가능한 국소 진행성 또는 전이성 신경내분비종양 환자를 대상으로 zanzalintinib과 everolimus의 효과를 비교 평가합니다. 췌장 기원 및 췌장 외 기원의 잘 분화된 1등급, 2등급, 3등급 신경내분비종양 환자 440명을 목표로 모집합니다. 연구 중재 약물로는 zanzalintinib과 everolimus가 사용됩니다.
+
+- 목표 환자 수는 총 440명입니다.
+- zanzalintinib과 everolimus의 효과를 비교하는 2/3상 임상시험입니다.
+- 이전에 치료를 받은 적이 있는 국소 진행성 또는 전이성 신경내분비종양 환자를 대상으로 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
 
 ---
 <a id="nct-nct02465060"></a>
-#### [진행성 난치성 고형암, 림프종 또는 다발성 골수종 환자를 대상으로 한 유전자 검사 기반 표적 치료 임상시험 (MATCH 치료 임상시험)](https://clinicaltrials.gov/study/NCT02465060)
+#### [진행성 불응성 고형암, 림프종, 다발성 골수종 환자를 대상으로 유전자 검사 기반 맞춤형 치료를 평가하는 임상시험 (MATCH 스크리닝 임상시험)](https://clinicaltrials.gov/study/NCT02465060)
 <small>Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (The MATCH Screening Trial)</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2015-06-08 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.87
 
 **NCT02465060** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02465060.md)
 
-유전자 검사(genetic testing) 결과에 따라 진행성 난치성 고형암, 림프종, 다발성 골수종 환자에게 맞춤형 표적 치료제를 투여하는 NCI-MATCH 2상 임상시험입니다. 최소 1차 이상의 표준 항암 치료 후 질환이 진행했거나 승인된 표준 치료법이 없는 18세 이상 환자 6,452명을 대상으로 진행했습니다. 종양 생검(biopsy) 조직 분석을 통해 특정 유전자 변이가 확인되면 그에 맞는 38개 치료 하위 세부군 중 하나에 배정되어 치료를 받습니다. 주요 목적은 맞춤 표적 치료제 투여 시의 객관적 반응률(OR)과 6개월 무진행 생존율을 평가하는 것입니다.
+본 2상 MATCH 스크리닝 및 다중 하위 임상시험은 표준 치료에 실패하거나 표준 치료가 없는 진행성 불응성 고형암, 림프종, 다발성 골수종 환자들을 대상으로 합니다. 환자들의 종양 세포 유전자를 검사하여 발견된 특정 유전자 이상에 따라 38가지 표적 치료 하위 프로토콜 중 하나에 배정하여 치료 효과를 평가합니다. 1차 평가지표는 표적 치료제에 대한 객관적 반응률(objective response)이며, 2차 평가지표로는 6개월 무진행 생존율, 생존 기간 등이 포함됩니다. 본 연구는 유전자 검사 결과에 기반한 맞춤형 표적 치료가 환자들의 치료 계획 수립에 도움을 주는지 평가하기 위해 진행되었습니다.
 
-- 유전자 변이 분석 결과를 바탕으로 38개의 하위 치료군 중 적합한 표적 치료제를 배정합니다.
-- 최소 1차 이상의 표준 항암 치료 후 진행한 만 18세 이상 환자 6,452명을 대상으로 실시합니다.
-- 주요 평가 지표는 객관적 반응률(OR)과 6개월 무진행 생존율, 질병 진행까지의 시간입니다.
+- 진행성 및 불응성 고형암, 림프종, 다발성 골수종 환자 6,452명을 목표로 진행된 2상 임상시험입니다.
+- 환자들은 종양 유전자 검사를 통해 확인된 유전자 이상(변이, 증폭, 전위 등)에 따라 38개의 표적 치료 하위 프로토콜 중 하나에 배정됩니다.
+- 1차 목적은 표적 연구 약물에 대한 객관적 반응률(objective response)을 평가하는 것입니다.
+- 초록에 명시되지 않은 구체적인 생존기간 수치나 반응률 결과는 초록에 명시되지 않음.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT02465060) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02465060)</small>
 
 ---
-<a id="nct-nct06172478"></a>
-#### [A Study of HER3-DXd in Subjects With Locally Advanced or Metastatic Solid Tumors](https://clinicaltrials.gov/study/NCT06172478)
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2023-12-15 · ClinicalTrials.gov · Daiichi Sankyo · 중요도 0.87
+<a id="pmid-42940093"></a>
+#### [췌관선암에서 삼차 림프구 구조(TLS)의 예후적 의의 및 공간적 조직화](https://pubmed.ncbi.nlm.nih.gov/42940093/)
+<small>Prognostic and Spatial Organization of Tertiary Lymphoid Structures in Pancreatic Ductal Adenocarcinoma</small>
 
-**NCT06172478** · 2상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06172478.md)
+`논문` `메타분석` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-09 · PubMed · Biomedicines · 중요도 0.86
 
-This is a proof-of-concept study designed to investigate HER3-DXd monotherapy in locally advanced unresectable or metastatic solid tumors. The study is enrolling cohorts of participants with melanoma \[cutaneous/acral\], squamous cell carcinomas of the head and neck (SCCHN), HER2-negative gastric cancer ovarian carcinoma, cervical cancer, endometrial cancer, bladder cancer, esophageal carcinoma, pancreatic carcinoma, prostate cancer, second-line gastric cancer, lung cancer, and breast cancer.
+본 연구는 췌장관선암(PDAC) 환자에서 삼차 림프구 구조(TLS)의 예후적 가치와 공간적 특징을 분석했습니다. 총 21개 연구와 7개의 공개 분자 데이터셋을 통합 분석한 결과 병리학적으로 TLS가 존재하는 환자군에서 전체 생존기간(OS)이 유의하게 길어졌습니다. 또한 TLS 면적이 높을수록 B세포 및 Tfh/CXCL13 면역 프로그램의 활성이 지속적으로 높아지는 공간적 연관성이 확인되었습니다. 결론적으로 TLS는 췌장암에서 예후에 긍정적인 면역 상태를 반영하는 유용한 지표입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06172478) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06172478)</small>
+- 병리적으로 확인된 삼차 림프구 구조(TLS)의 존재는 5개 코호트(1,019명 환자)에서 전체 생존기간(OS) 연장과 연관되었습니다(위험비 0.544, 95% 신뢰구간 0.398-0.743).
+- 공간적 데이터 분석 결과 TLS 부담이 높을수록 B세포 및 Tfh/CXCL13 프로그램과의 긍정적 연관성이 일관되게 나타났습니다.
+- TLS는 췌관선암(PDAC)에서 우수하고 공간적으로 조직화된 면역 반응 상태를 나타냅니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42940093/) · [DOI](https://doi.org/10.3390/biomedicines14102287) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42940093)</small>
 
 ---
-<a id="nct-nct07806058"></a>
-#### [An Open-Label, Multicenter, Phase IB/II Clinical Study of HRS-7172 in Combination With Antitumor Therapy in Participants With Solid Tumors](https://clinicaltrials.gov/study/NCT07806058)
-`임상시험` `2상` `진단·조기발견` · 2026-09-08 · ClinicalTrials.gov · Jiangsu HengRui Medicine Co., Ltd. · 중요도 0.84
+<a id="nct-nct07898683"></a>
+#### [수술 불가능한 췌장암 환자를 대상으로 한 동맥 내 이트륨-90(Yttrium-90) 방사선색전술의 1상 임상연구](https://clinicaltrials.gov/study/NCT07898683)
+<small>A Phase I Study of Intra-Arterial Yttrium-90 Radioembolization for Unresectable Pancreatic Cancer</small>
 
-**NCT07806058** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07806058.md)
+`임상시험` `1상` `치료 전반` `수술` `진단·조기발견` · 2026-10-27 · ClinicalTrials.gov · National Medical Research Radiological Centre of the Ministry of Health of Russia · 중요도 0.84
 
-This is a Phase IB/II clinical trial designed to evaluate HRS-7172 in combination with antitumor drugs in participants with advanced pancreatic cancer harboring RAS mutations or amplifications. The study process includes a screening period (from signed informed consent to first dose), a treatment period (from first dose to last dose), and a follow-up period (safety and survival follow-up after last dose).
+**NCT07898683** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07898683.md)
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07806058) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07806058)</small>
+이 연구는 수술이 불가능한 췌장선암 환자를 대상으로 동맥 내 이트륨-90(Yttrium-90) 유리 마이크로스피어 치료의 안전성과 내약성을 평가하기 위한 1상 임상시험입니다. 연구진은 선택적 동맥 방사선색전술(Transarterial Radioembolization) 후 방사선 용량 분포, 부작용 및 초기 치료 효과를 평가합니다. 환자는 시술 전 영상 검사로 마이크로스피어 분포를 확인한 후 방사선색전술을 받게 됩니다. 총 12명의 환자를 대상으로 진행되며 치료 반응과 장기 방사선 노출을 분석합니다.
+
+- 수술 불가능한 췌장선암 환자 12명을 대상으로 이트륨-90 방사선색전술의 안전성을 평가합니다.
+- 시술 전 SPECT/CT 영상 검사를 통해 방사선 동위원소 분포 및 용량을 사전에 계획합니다.
+- ECOG 수행능력 평가 점수 0~1점 및 예상 수명 12주 이상인 환자가 대상입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07898683) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07898683)</small>
+
+---
+<a id="nct-nct06882746"></a>
+#### [진행성 대장암, 직장암, 위암 또는 췌장암 환자를 대상으로 BI 765049의 용량을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT06882746)
+<small>A Study to Test Different Doses of BI 765049 in People With Advanced Cancer of the Colon, Rectum, Stomach, or Pancreas</small>
+
+`임상시험` `1상` `신약·치료제` `진단·조기발견` · 2025-03-19 · ClinicalTrials.gov · Boehringer Ingelheim · 중요도 0.81
+
+**NCT06882746** · 1상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06882746.md)
+
+이 연구는 수술이 불가능하거나 전이된 진행성 대장암, 직장암, 위암, 췌관선암(PDAC) 성인 환자를 대상으로 신약 후보물질 BI 765049를 평가하는 1상 임상시험입니다. 이전 치료가 성공적이지 않았거나 이용 가능한 다른 치료법이 없는 환자가 참여 대상입니다. 연구의 주요 목적은 환자가 견딜 수 있는 최대 투여 용량과 최적의 투여 방법을 확인하는 것입니다. 해당 임상시험은 현재 종료(TERMINATED)되었습니다.
+
+- 수술 불가능한 진행성 또는 전이성 췌관선암, 대장암, 위암 환자 14명을 목표로 계획된 1상 임상시험입니다.
+- BI 765049는 최소 3주에 한 번씩 투여하는 면역 관련 연구용 약물입니다.
+- 현재 이 임상시험은 조기 종료(TERMINATED)되었습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06882746) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06882746)</small>
 
 ---
 <a id="nct-nct02830724"></a>
-#### [CD70 발현 암 환자를 대상으로 한 CD70 결합 키메라 항원 수용체(CAR) 변형 말초혈액 림프구 투여 1/2상 임상시험](https://clinicaltrials.gov/study/NCT02830724)
+#### [CD70 발현 암 환자를 위한 항-CD70 CAR 형질도입 말초혈액 림프구 투여 임상시험](https://clinicaltrials.gov/study/NCT02830724)
 <small>Administering Peripheral Blood Lymphocytes Transduced With a CD70-Binding Chimeric Antigen Receptor to People With CD70 Expressing Cancers</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2016-07-13 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.80
 
 **NCT02830724** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02830724.md)
 
-본 임상시험은 CD70 단백질이 발현된 전이성 또는 수술 불가능한 암 환자를 대상으로 진행하는 1/2상 연구입니다. 환자의 말초혈액 림프구(PBL)를 채취하여 CD70을 표적으로 하는 키메라 항원 수용체(CAR) 유전자를 도입한 뒤 환자에게 다시 투여합니다. 치료 전 림프구 제거 항암요법과 함께 고용량 aldesleukin(알데스류킨)을 병용 투여하여 치료의 안전성과 종양 축소 효과를 평가합니다. 이전 표준 치료를 1가지 이상 받은 췌장암, 신장암 등의 고형암 환자를 대상으로 합니다.
+이 연구는 CD70을 발현하는 진행성 암 환자를 대상으로 환자의 백혈구를 채취하여 항-CD70 키메라 항원 수용체(CAR)를 발현하도록 유전자 조작한 세포를 투여하는 1/2상 임상시험입니다. 췌장암을 포함한 다양한 고형암 환자를 대상으로 치료의 안전성을 평가하고 종양 축소 효과를 확인합니다. 환자들은 림프구 고갈 전처치 화학요법 후 조작된 세포와 고용량 aldesleukin(알데스루킨)을 투여받습니다. 총 목표 인원은 최대 124명입니다.
 
-- CD70 표적 CAR 세포치료제의 안전성과 종양 축소 효과를 평가하는 1/2상 임상시험입니다.
-- 최대 124명의 환자를 대상으로 진행되며, 림프구 제거 항암요법(cyclophosphamide, fludarabine) 및 aldesleukin 병용 치료가 포함됩니다.
-- 이전 표준 치료를 최소 1가지 이상 받고 진행되었거나 재발한 CD70 발현 암 환자가 참여 대상입니다.
+- 목표 인원은 최대 124명이며 췌장암을 포함한 CD70 발현 고형암 환자를 대상으로 합니다.
+- 항-CD70 CAR 형질도입 말초혈액 림프구(PBL) 치료의 안전성과 종양 퇴축 효과를 평가합니다.
+- 환자들은 cyclophosphamide와 fludarabine으로 림프구 고갈 전처치를 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT02830724) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02830724)</small>
 
 ---
+<a id="pmid-42933252"></a>
+#### [수술 전 췌장 선편평암과 췌관선암을 구분하기 위한 CT 기반 임상-영상 모델의 개발 및 외부 검증](https://pubmed.ncbi.nlm.nih.gov/42933252/)
+<small>Development and external validation of a CT-based clinicoradiological model for preoperative differentiation of pancreatic adenosquamous carcinoma from ductal adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` · 2026-10-23 · PubMed · Eur J Radiol · 중요도 0.77
+
+본 연구는 수술 전 컴퓨터단층촬영(CT) 영상을 활용하여 췌장 선편평암(PASC)과 췌관선암(PDAC)을 구분하는 임상-영상 모델을 개발하고 외부 검증했습니다. 총 397명의 환자 데이터를 바탕으로 개발된 통합 모델은 수술 전 두 암종을 판별하는 데 뛰어난 성과를 보였습니다. 외부 기관 검증에서도 우수한 판별 능력을 보였으나 보정 정확도에는 한계가 관찰되었습니다. 따라서 연구진은 개별 확률 예측보다는 수술 전 위험도 분류 도구로서의 가능성을 확인했습니다.
+
+- 개발 코호트에서 통합 모델의 곡선아래면적(AUC)은 0.919를 기록했습니다.
+- 외부 검증 코호트에서 AUC 0.846(95% 신뢰구간 0.781-0.910)으로 판별 능력은 유지되었으나 보정 기울기는 0.445로 보정 불일치가 관찰되었습니다.
+- 통합 모델은 임상 정보 단독 모델보다 우수했으나(ΔAUC 0.179, p < 0.001), 영상 단독 모델과 비교했을 때는 추가적인 판별 향상을 보이지 않았습니다(ΔAUC -0.004, p = 0.85).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933252/) · [DOI](https://doi.org/10.1016/j.ejrad.2026.113329) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933252)</small>
+
+---
+<a id="pmid-42935008"></a>
+#### [췌관선암에서 치료 시작까지의 시간과 전이 진행 위험](https://pubmed.ncbi.nlm.nih.gov/42935008/)
+<small>Time to Treatment Initiation and Risk of Metastatic Progression in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `관찰연구` `치료 전반` `수술` `진단·조기발견` · 2026-10-26 · PubMed · J Surg Oncol · 중요도 0.75
+
+이 연구는 췌관선암(PDAC) 환자를 대상으로 치료 시작까지의 시간(TTI)과 전이 진행 사이의 연관성을 평가했습니다. 2017년부터 2021년까지 근치적 목적의 절제술을 받은 66세 이상의 비전이성 췌관선암 메디케어(Medicare) 수급자를 대상으로 분석을 진행했습니다. 분석 결과, TTI가 30일 증가할 때마다 전이 위험비(sHR)가 14.2%씩 독립적으로 증가했습니다. 다만 TTI가 90일 이하인 환자군에서는 이러한 연관성이 약화되어 통계적 유의성이 없었습니다.
+
+- 치료 시작까지의 시간(TTI)이 30일 증가할 때마다 전이의 위험비(sHR)는 1.142 (95% CI, 1.119-1.166, p < 0.001)로 14.2% 증가했습니다.
+- 이러한 연관성은 수술 단독, 선행화학요법 후 수술, 수술 후 보조치료, 삼면요법 등 모든 치료 경로에서 일관되게 나타났습니다.
+- TTI를 90일 이하로 제한한 민감도 분석에서는 연관성이 약화되어 통계적으로 유의하지 않았습니다 (sHR, 1.064; 95% CI, 0.964-1.174; p = 0.22).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935008/) · [DOI](https://doi.org/10.1002/jso.70435) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935008)</small>
+
+---
+<a id="nct-nct07605819"></a>
+#### [일본에서 엔데버(Enzeavour) 진단법을 활용한 췌장암 선별검사 임상시험](https://clinicaltrials.gov/study/NCT07605819)
+<small>Pancreatic Cancer Screening Using the Enzeavour Assay in Japan</small>
+
+`임상시험` `기타` `진단·조기발견` · 2026-05-26 · ClinicalTrials.gov · Cosomil, Inc. · 중요도 0.74
+
+**NCT07605819** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07605819.md)
+
+일본의 정기 건강검진 및 암 검진에 참여하는 무증상 성인 약 10,000명을 대상으로 엔데버(Enzeavour) 췌장암 진단법의 타당성을 평가하는 단일군 전향적 임상시험입니다. 엔데버 진단법은 단일 분자 수준에서 3가지 효소 활성을 측정하고 4가지 바이오마커를 통합하여 엔데버 점수(Enzeavour Score)를 산출하는 혈액 검사입니다. 검사 점수가 0.369 초과인 참여자는 진단적 영상 검사를 받게 되며, 혈액 채취 후 12개월 동안 췌장암 발견율과 양성 예측도를 평가합니다.
+
+- 무증상 성인 약 10,000명을 대상으로 혈액 기반 엔데버(Enzeavour) 진단법의 췌장암 조기 발견 타당성을 검증합니다.
+- 엔데버 점수가 0.369 초과인 참여자를 대상으로 정밀 영상 검사를 실시하여 진단을 진행합니다.
+- 혈액 채취 후 12개월간 추적 관찰하여 췌장암 발견율과 양성 예측도를 주요 지표로 산출합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07605819) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07605819)</small>
+
+---
+<a id="nct-nct05334836"></a>
+#### [췌장 지방변성 유병률 및 고위험 췌장 낭종 특성과의 상관관계 분석 연구](https://clinicaltrials.gov/study/NCT05334836)
+<small>Determination of Pancreatic Steatosis Prevalence and Correlation With High-risk Cyst Features</small>
+
+`임상시험` `기타` `진단·조기발견` `치료 전반` `수술` · 2022-04-19 · ClinicalTrials.gov · Chinese University of Hong Kong · 중요도 0.74
+
+**NCT05334836** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05334836.md)
+
+본 연구는 췌장 지방변성(Pancreatic Steatosis)의 유병률을 조사하고 고위험 췌장 낭종 특성과의 상관관계를 분석하기 위한 연구입니다. 홍콩 쿵후 대학교(Chinese University of Hong Kong)에서 진행하며 총 236명의 연구 대상자를 모집합니다. 자기공명영상(MRI)을 통해 췌장 및 간의 지방량을 정량 측정하여 췌장암 전구 병변인 낭종의 위험도와 췌장 지방변성의 연관성을 평가합니다.
+
+- 목표 연구 참가자 수는 총 236명입니다.
+- 크기 5mm 이상의 췌장 낭종 환자 및 건강한 대조군을 대상으로 자기공명영상(MRI)을 통한 지방 정량 측정을 진행합니다.
+- 췌장 지방변성과 고위험 췌장 낭종 간의 상관관계를 규명하는 것을 목적으로 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05334836) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05334836)</small>
+
+---
+<a id="nct-nct07213791"></a>
+#### [FAP 양성 고형암 환자를 대상으로 하는 LY4337713 연구](https://clinicaltrials.gov/study/NCT07213791)
+<small>A Study of LY4337713 in Participants With FAP-Positive Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `진단·조기발견` · 2025-10-09 · ClinicalTrials.gov · Eli Lilly and Company · 중요도 0.73
+
+**NCT07213791** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07213791.md)
+
+이 연구는 진행성 또는 전이성 암 환자를 대상으로 신약 LY4337713의 안전성, 부작용, 효능을 평가하기 위한 임상시험입니다. 참가자는 섬유아세포 활성화 단백질(FAP) 발현이 높은 암을 가지고 있어야 합니다. 연구 기간은 각 참가자마다 약 5년입니다. 초록에 환자 수, 구체적인 반응률이나 생존기간 수치는 명시되지 않았습니다.
+
+- 섬유아세포 활성화 단백질(FAP) 양성인 진행성 또는 전이성 고형암 환자를 대상으로 합니다.
+- LY4337713의 안전성, 부작용, 약동학 및 효능을 평가합니다.
+- 각 참가자의 연구 참여 기간은 약 5년입니다.
+- 초록에 구체적인 치료 효과나 생존기간 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07213791) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07213791)</small>
+
+---
+<a id="pmid-42941309"></a>
+#### [진행성 췌장관선암에서 치료 전 혈청 GDF-15와 임상적 취약성 특성](https://pubmed.ncbi.nlm.nih.gov/42941309/)
+<small>Pretreatment Serum GDF-15 and Features of Clinical Vulnerability in Advanced Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `기초연구` · 2026-10-09 · PubMed · J Clin Med · 중요도 0.72
+
+이 연구는 진행성 췌장관선암(PDAC) 환자 80명을 대상으로 치료 전 혈청 성장 분화 인자-15(GDF-15)의 임상적 의미를 조사했습니다. 높은 GDF-15 수치는 불량한 전신 상태, 다발성 전이, 영양 실조 등 임상적 취약성 및 짧은 전체 생존기간(OS)과 연관을 보였습니다. 전신 항암 치료를 받은 환자 중에서도 GDF-15가 높은 그룹은 전체 생존기간이 더 짧고 발열성 호중구감소증 등의 부작용이 관찰되었습니다. 연구진은 GDF-15가 진행성 췌장암에서 전신 취약성을 나타내는 잠재적 표지자가 될 수 있다고 결론지었습니다.
+
+- 전체 환자 코호트에서 GDF-15가 높은 그룹은 낮은 그룹에 비해 전체 생존기간(OS)이 짧았습니다 (중앙값 6.1개월 대 13.9개월, 위험비 1.96, p=0.002).
+- 항암 치료를 받은 환자군에서도 높은 GDF-15 그룹은 전체 생존기간이 짧았으며 (중앙값 8.7개월 대 14.2개월, 위험비 1.72, p=0.025), 치료 기간도 짧았습니다 (중앙값 3.2개월 대 6.3개월, p=0.007).
+- 임상적 악화로 항암 치료를 받지 못한 환자 12명 중 11명이 높은 GDF-15 수치를 보였습니다.
+- 발열성 호중구감소증은 높은 GDF-15 그룹에서만 발생했으며, 치료 관련 사망 5건 중 4건도 이 그룹에서 발생했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941309/) · [DOI](https://doi.org/10.3390/jcm15207789) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941309)</small>
+
+---
+<a id="pmid-42938123"></a>
+#### [췌장암 진단 전 혈청 단백질체학의 그래프 신경망 모델링](https://pubmed.ncbi.nlm.nih.gov/42938123/)
+<small>Graph Neural Network Modelling of Pre-Diagnostic Serum Proteomics for Pancreatic Cancer Detection</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` · 2026-10-09 · PubMed · Diagnostics (Basel) · 중요도 0.72
+
+연구진은 진단 전 혈청 단백질 측정을 지도 방식의 쌍대 통계 그래프로 모델링하는 시냅틱 그래프 신경망(SGNN)이 췌관선암(PDAC)의 진단 전 분류에 유용한지 평가했습니다. 영국 여성 코호트(UKCTOCS)의 217개 진단 전 혈청 샘플(PDAC 100개, 대조군 117개)을 분석하여 97개의 단백질을 프로파일링했습니다. 개발 세트에서 SGNN은 평균 5분할 수신기 Operating Characteristic 아래 면적(ROC-AUC) 75.33 ± 10.43%를 기록하여 최적화된 전통적 머신러닝 기법보다 우수하지 않았습니다. 시간적 유예 세트에서의 ROC-AUC는 64.35%였습니다. 결론적으로 SGNN은 타당한 표현 방식을 제공했으나 기존 방법을 능가하지는 못했으며 임상적 유용성은 아직 확립되지 않았습니다.
+
+- 그래프 신경망(SGNN)의 5분할 교차 검증 평균 수신기 Operating Characteristic 아래 면적(ROC-AUC)은 75.33 ± 10.43%였습니다.
+- 최적화된 랜덤 포레스트(Random Forest)는 개발 세트에서 81.67%의 ROC-AUC를 기록했습니다.
+- 진단 1~2년 전 샘플을 이용한 시간적 유예 세트에서 SGNN의 ROC-AUC는 64.35%(95% 신뢰구간 52.6-74.6%)였습니다.
+- 개발 세트에 포함되지 않은 독립 환자 하위 집합에서의 ROC-AUC는 66.04%(95% 신뢰구간 52.56-78.88%)였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938123/) · [DOI](https://doi.org/10.3390/diagnostics16203283) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938123)</small>
+
+---
+<a id="pmid-42938108"></a>
+#### [췌관선암에서 T1ρ 가중 영상을 이용한 SMAD4 발현 상태의 비침습적 평가](https://pubmed.ncbi.nlm.nih.gov/42938108/)
+<small>Non-Invasive Assessment of SMAD4 Expression Status in Pancreatic Ductal Adenocarcinoma: Diagnostic Value of T1ρ-Weighted Imaging Combined with Clinical Parameters</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-09 · PubMed · Diagnostics (Basel) · 중요도 0.72
+
+이 연구는 췌관선암(PDAC) 환자 57명을 대상으로 T1ρ 가중 자기공명영상(MRI)과 임상 지표를 결합하여 SMAD4 단백질 발현 상태를 비침습적으로 예측하고자 했습니다. 연구 결과, SMAD4가 유지된 종양은 SMAD4가 소실된 종양에 비해 유의하게 높은 T1ρ 값을 보였습니다. T1ρ 단독으로 SMAD4 발현을 예측했을 때 곡선 아래 면적(AUC)은 0.901, 민감도는 82.14%, 특이도는 89.66%였습니다. T1ρ 값, 림프절 전이 여부, CA19-9 수치를 결합한 다중 평가지표 모델은 0.932의 AUC를 나타냈습니다.
+
+- SMAD4가 유지된 췌관선암(PDAC) 환자 군은 소실된 군에 비해 T1ρ 값이 유의하게 높았습니다(96.34 ± 14.12 ms vs. 71.93 ± 10.24 ms, p < 0.001).
+- T1ρ 영상은 SMAD4 발현 상태 예측에서 0.901의 AUC(95% CI: 0.817-0.986), 82.14%의 민감도, 89.66%의 특이도를 기록했습니다.
+- T1ρ 값, 림프절 전이 상태, CA19-9 수치를 결합한 다중 파라미터 모델은 0.932의 AUC(95% CI: 0.862-1.000)를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938108/) · [DOI](https://doi.org/10.3390/diagnostics16203270) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938108)</small>
+
+---
+<a id="pmid-42934856"></a>
+#### [췌장 췌관내유두상점액종양(IPMN)의 임상병리학적 다양성과 연관된 섬유아세포-골수계 기질 상호작용](https://pubmed.ncbi.nlm.nih.gov/42934856/)
+<small>Fibroblast-myeloid stromal crosstalk is associated with clinicopathological diversity in intraductal papillary mucinous neoplasms of the pancreas</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` · 2026-10-26 · PubMed · J Pathol · 중요도 0.71
+
+본 연구는 췌장 췌관내유두상점액종양(IPMN)의 조직학적 아형과 임상적 결과 사이의 연관성을 종양 미세환경(tumor microenvironment)을 통해 분석했습니다. 116건의 IPMN 절제 케이스와 단일핵 RNA 시퀀싱(snRNA-seq)을 활용하여 섬유아세포와 골수계 세포(myeloid cell) 간의 세포 간 상호작용을 조사했습니다. 그 결과 섬유아세포와 골수계 세포의 하위 집군 밀도에 따라 종양이 세 가지 기질 그룹(I-stroma, N-stroma, M-stroma)으로 분류되었으며, 이는 서로 다른 임상병리학적 특징과 연관성을 보였습니다. 초록에 명시되지 않음. 초록에 명시되지 않음.
+
+- 총 116건의 IPMN 절제 케이스와 단일핵 RNA 시퀀싱(snRNA-seq) 라이브러리 4개를 분석했습니다.
+- iCAF, 중성구(neutrophil), SPP1+ 대식세포는 더 높은 조직학적 등급과 연관되었습니다.
+- myCAF, 콜라겐(collagen), 단핵구(monocyte), 비만세포(mast cell)는 더 낮은 조직학적 등급과 연관되었습니다.
+- 세 가지 기질 그룹(iCAF/SPP1+ 대식세포 풍부, 중성구 풍부, myCAF/비만세포 풍부)은 각각 뚜렷한 임상병리학적 특징을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934856/) · [DOI](https://doi.org/10.1002/path.70148) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934856)</small>
+
+---
 <a id="nct-nct00720785"></a>
-#### [암 치료를 위한 자가 자연살해 세포 및 bortezomib(보르테조밉) 병용 요법 임상연구](https://clinicaltrials.gov/study/NCT00720785)
+#### [진행성 고형암 및 혈액암 환자를 위한 자연살해세포(NK cells)와 bortezomib 병용 1상 임상시험](https://clinicaltrials.gov/study/NCT00720785)
 <small>Natural Killer Cells and Bortezomib to Treat Cancer</small>
 
 `임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2008-07-23 · ClinicalTrials.gov · National Heart, Lung, and Blood Institute (NHLBI) · 중요도 0.70
 
 **NCT00720785** · 1상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT00720785.md)
 
-표준 치료에 더 이상 반응하지 않는 전이성 췌장암 등 고형암 및 혈액암 환자를 대상으로 자가 자연살해(NK) 세포와 bortezomib(보르테조밉) 병용 요법의 안전성을 평가하는 1상 임상시험입니다. 항암제인 bortezomib을 먼저 투여하여 암세포를 NK 세포 공격에 민감하게 만든 뒤, 체외에서 증식시킨 자가 NK 세포를 주입합니다. 본 연구는 자가 NK 세포 투여의 안전한 최대 내약 용량(MTD)과 부작용 및 치료 효과를 확인하기 위해 진행되었습니다.
+본 임상시험은 표준 치료에 반응하지 않는 전이성 고형암 또는 혈액암 환자를 대상으로 자가 자연살해세포(NK cells) 치료와 bortezomib(보르테조밉) 병용요법의 안전성과 최대내반용량(maximum tolerated dose)을 평가하기 위한 1상 용량증량(dose-escalating) 연구입니다. 환자들은 면역억제를 위한 pentostatin(펜토스타틴), NK 세포 기능을 높이기 위한 bortezomib, 체외 증식된 자가 NK 세포 주입, 그리고 NK 세포 활성 유지를 위한 interleukin-2(인터루킨-2) 치료를 받게 됩니다. 초록에 명시된 환자 수 목표는 35명이며, 1차 평가지표는 주입 후 3일째(Day 21)에 평가됩니다. 구체적인 생존기간, 반응률, 위험비 수치는 본 초록에 명시되지 않았습니다.
 
-- 표준 치료에 불응하거나 진행된 전이성 췌장암 등 고형암 환자를 대상으로 한 1상 용량 증량 임상시험입니다.
-- bortezomib(보르테조밉)으로 암세포를 감작시킨 후 체외 확증시킨 자가 NK 세포를 단계별 용량으로 주입했습니다.
-- 자가 NK 세포의 안전한 최대 내약 용량 확인과 치료 효과 및 부작용 평가를 목표로 했습니다.
+- 목표 인원은 최대 35명이며, 전이성 고형암 또는 혈액암 환자를 대상으로 합니다.
+- Bortezomib 전처치와 pentostatin 면역억제 후 자가 NK 세포를 주입하고 interleukin-2를 투여합니다.
+- 1차 목적은 점진적으로 증량되는 자가 NK 세포 주입의 안전성과 최대내반용량을 확인하는 것입니다.
+- 구체적인 생존기간, 반응률, 위험비 수치는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT00720785) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT00720785)</small>
+
+---
+<a id="pmid-42939746"></a>
+#### [췌관선암의 혈청 사이토카인 프로파일링: 후보 구별자, 성별 차이 및 변경된 상호 조절에 대한 파일럿 연구](https://pubmed.ncbi.nlm.nih.gov/42939746/)
+<small>Serum Cytokine Profiling in Pancreatic Ductal Adenocarcinoma: A Pilot Study of Candidate Discriminators, Sex Differences and Altered Co-Regulation</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` · 2026-10-14 · PubMed · Biomolecules · 중요도 0.70
+
+본 연구는 췌관선암(PDAC) 환자 22명과 대조군 16명을 대상으로 19가지 혈청 사이토카인을 측정하여 질병 구별자 및 성별 차이를 분석했습니다. 전체 코호트에서 interleukin-7(IL-7)만이 환자와 대조군을 유의하게 구별하였으며 carbohydrate antigen 19-9(CA19-9)와 유사한 구별력을 보였습니다. 성별에 따른 분석에서는 남성의 경우 여러 선천 면역 및 T-helper 17(Th17) 사이토카인들이 환자와 대조군을 구분했습니다. 대조군에서 관찰된 사이토카인 간의 상관관계 네트워크는 환자군에서는 거의 소실되었습니다. 저자들은 더 큰 규모의 성별 균형 코호트에서 검증이 필요하다고 결론지었습니다.
+
+- 전체 코호트 22명의 췌관선암(PDAC) 환자와 16명의 대조군을 비교했습니다.
+- interleukin-7(IL-7)은 다중 검정 보정 후 환자와 대조군을 구별하는 유일한 사이토카인이었습니다.
+- IL-7의 구별력은 carbohydrate antigen 19-9(CA19-9)와 일치했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42939746/) · [DOI](https://doi.org/10.3390/biom16101492) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42939746)</small>
+
+---
+<a id="pmid-42939686"></a>
+#### [췌관선암에서 혈중 신경성장인자의 종단적 변화: 수술 후 재발 및 1차 치료 조절에 관한 탐색적 연구](https://pubmed.ncbi.nlm.nih.gov/42939686/)
+<small>Longitudinal Circulating Nerve Growth Factor in Pancreatic Ductal Adenocarcinoma: An Exploratory Study of Postoperative Recurrence and First-Line Disease Control</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` `수술` · 2026-10-02 · PubMed · Biomolecules · 중요도 0.70
+
+이 연구는 췌관선암(PDAC) 환자 51명을 대상으로 수술 전후 및 진행성 병기 시점에서 혈중 베타 신경성장인자(β-NGF)의 임상적 가치를 후향적으로 분석했습니다. 1차 치료 시작 시점의 NGF 검출률은 22.5%(40명 중 9명)였습니다. 수술 후 재발한 환자들은 재발하지 않은 환자들에 비해 NGF 수치가 더 높았으나, 다중검정 보정 후에는 통계적 유의성이 남지 않았습니다. 본 연구 결과는 향후 다중바이오마커 액체생검 전략에서 순환 혈중 NGF의 전향적 검증을 뒷받침합니다.
+
+- 1차 치료 시작 시점의 NGF 검출률은 22.5%(40명 중 9명)였습니다.
+- 수술 후 재발 환자의 NGF 수치는 중앙값 25.5 pg/mL로, 비검출군에 비해 높았습니다(명목 p = 0.038).
+- 위조양발견율(FDR) 보정 후 통계적으로 유의한 연관성은 남지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42939686/) · [DOI](https://doi.org/10.3390/biom16101433) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42939686)</small>
+
+---
+<a id="pmid-42935641"></a>
+#### [전 세계 및 등록 기반 췌장암 패턴: GLOBOCAN 2020, CI5plus 추세(2000-2017), 그리고 2040년까지의 인구통계학적 전망](https://pubmed.ncbi.nlm.nih.gov/42935641/)
+<small>Global and registry-based patterns of pancreatic cancer: GLOBOCAN 2020, CI5plus trends (2000-2017), and demographic projections to 2040</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-12 · PubMed · Front Oncol · 중요도 0.70
+
+이 연구는 GLOBOCAN 2020과 CI5plus 종단적 암 등록 데이터를 결합하여 전 세계 췌장암의 현재 부담, 최근 발병률 추세, 그리고 2040년까지의 인구통계학적 전망을 분석했습니다. 2020년 전 세계적으로 약 495,773건의 췌장암 환자가 발생하고 466,003명이 사망했으며, 사망률과 발생률의 비율은 0.94로 나타났습니다. 2000년부터 2017년까지 췌장암 발병률은 꾸준히 증가했으며, 50세 미만의 성인에서 상대적 증가 폭이 가장 컸습니다. 고정 위험 인구통계 시나리오에 따르면, 전 세계 신규 췌장암 환자는 2020년 대비 70.2% 증가한 843,772명에 이를 것으로 전망됩니다.
+
+- 2020년 전 세계 췌장암 신규 환자는 약 495,773명, 사망자는 약 466,003명이며 사망 대 발생 비율은 0.94였습니다.
+- 북미와 유럽의 연령표준화 발생률(ASIR)이 가장 높았고, 아시아는 가장 많은 환자 수(233,701명)를 기록했습니다.
+- 2000년부터 2017년까지 발병률은 2000-2006년 연간 변화율(APC) 1.43%, 2006-2017년 APC 1.02%로 꾸준히 증가했습니다.
+- 고정 위험 시나리오 기준, 2040년 전 세계 췌장암 신규 환자는 2020년 대비 70.2% 증가한 843,772명에 달할 것으로 예측됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935641/) · [DOI](https://doi.org/10.3389/fonc.2026.1850604) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13696200/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935641)</small>
+
+---
+<a id="pmid-42930196"></a>
+#### [2025년 캐나다 국립 췌장 컨퍼런스: 췌장암 환자 중심 치료의 최근 발전](https://pubmed.ncbi.nlm.nih.gov/42930196/)
+<small>Canadian National Pancreas Conference 2025: Recent Advances in Patient-Centred Management of Pancreatic Cancer</small>
+
+`논문` `종설` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · Curr Oncol · 중요도 0.68
+
+본 문헌은 2025년 11월 온타리오주 런던에서 개최된 제3회 캐나다 국립 췌장 컨퍼런스(NPC)의 내용을 다룹니다. Craig's Cause Pancreatic Cancer Society와 Baker Centre for Pancreatic Cancer가 주최하고 캐나다 일반외과의사회(CAGS)가 공동 조직했습니다. 이 행사에서는 의료 전문가, 연구자, 학생들이 모여 췌장암(pancreatic cancer, PC) 치료 및 관리의 최신 발전 사항을 논의했습니다. 특히 유전체 시퀀싱(genomic sequencing), 공평한 치료, 다학제적 접근의 중요성이 강조되었습니다.
+
+- 2025년 캐나다 국립 췌장 컨퍼런스는 췌장암(PC) 치료의 최신 발전 사항을 논의하기 위해 개최되었습니다.
+- 유전체 시퀀싱(genomic sequencing)의 중요성이 강조되었습니다.
+- 공평한 치료와 다학제적 접근 방식이 주요 논의 주제였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42930196/) · [DOI](https://doi.org/10.3390/curroncol33100629) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13703088/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42930196)</small>
+
+---
+<a id="pmid-42938791"></a>
+#### [췌장암에서의 인공지능: 예측 성능에서 임상 적용까지](https://pubmed.ncbi.nlm.nih.gov/42938791/)
+<small>Artificial Intelligence in Pancreatic Cancer: From Predictive Performance to Clinical Translation</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-09 · PubMed · Cancers (Basel) · 중요도 0.68
+
+이 논문은 췌관선암(PDAC) 진료 과정 전반에 걸쳐 적용되는 인공지능(AI)의 현황을 검토한 서술적 문헌 고찰(narrative review)입니다. 저자들은 췌장암 관련 AI 연구들을 증거 준비성 프레임워크와 네 가지 차원에 따라 평가했습니다. 인공지능 기반의 조기 발견 및 췌장암과 췌장염 감별은 높은 정확도를 보였으나, 극심한 이질성과 외부 검증 부족 등의 한계가 있습니다. 현재까지 임상 단계에서 병기 분포, 절제율, 생존율을 향상시킨 AI 모델은 초록에 명시되지 않았습니다.
+
+- 인공지능 기반 조기 발견 및 췌장암과 췌장염 감별의 민감도는 약 0.88에서 0.92, 특이도는 약 0.90에서 0.93입니다.
+- 전자건강기록(electronic health-record) 기반 위험 모델의 양성 예측값은 인구 유병률 기준 종종 1% 미만입니다.
+- 컴퓨터단층촬영(CT) 기반 검출 및 위험 보정이 성숙한 응용 분야에 속합니다.
+- 현재까지 임상 단계에서 병기 분포, 절제율, 생존율을 개선한 AI 모델은 확인되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938791/) · [DOI](https://doi.org/10.3390/cancers18203253) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938791)</small>
+
+---
+<a id="pmid-42934594"></a>
+#### [중국의 1990년부터 2021년까지의 췌장암 부담 및 2050년까지의 예측: 2021 전 세계 질병 부담 연구 결과](https://pubmed.ncbi.nlm.nih.gov/42934594/)
+<small>Burdens of pancreatic cancer from 1990 to 2021 and projection to 2050 in China: findings from the 2021 global burden of disease study</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` `치료 전반` · 2026-07-31 · PubMed · BMC Cancer · 중요도 0.67
+
+이 연구는 1990년부터 2021년까지 중국의 췌장암 발생률, 사망률, 장애보정생존연수(DALYs) 및 관련 위험 요인의 추세를 분석하고 2050년까지의 미래를 예측했습니다. 전 세계 질병 부담(GBD) 연구 데이터와 베이지안 연령-기간-코호트(BAPC) 모델을 활용하여 분석을 수행했습니다. 2021년 중국의 췌장암 신규 환자는 118,665.43명, 사망자는 119,601.86명, DALYs는 2,930,317.01인년으로 나타났습니다. 30년 동안 발생률, 사망률, DALYs의 평균 연간 백분율 변화(AAPC)는 각각 3.13%, 3.06%, 2.53%로 증가세를 보였습니다. 고혈당(high fasting plasma glucose)이 흡연을 제치고 가장 주된 위험 요인으로 확인되었습니다.
+
+- 2021년 중국의 췌장암 신규 환자는 118,665.43명, 사망자는 119,601.86명, DALYs는 2,930,317.01인년이었습니다.
+- 1990년부터 2021년까지 발생률, 사망률, DALYs의 평균 연간 백분율 변화(AAPC)는 각각 3.13%, 3.06%, 2.53%였습니다.
+- 2021년 연령표준화 발생률(ASIR)은 인구 10만 명당 5.64명, 사망률(ASMR)은 5.72명이었습니다.
+- 고혈당이 흡연을 제치고 가장 주된 위험 요인으로 나타났으며, 높은 체질량지수(high body-mass index)가 3위를 차지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934594/) · [DOI](https://doi.org/10.1186/s12885-026-16616-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934594)</small>
+
+---
+<a id="pmid-42929985"></a>
+#### [췌장암 절제술 또는 완화적 우회술 후 전체 생존기간에 대한 단핵구를 포함한 전신 염증 지수와 전통적 전신 염증 지수의 예후적 연관성 차이: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42929985/)
+<small>Differential Prognostic Associations of Monocyte-Containing and Traditional Systemic Inflammatory Indices with Overall Survival After Resection or Palliative Bypass for Pancreatic Cancer: A Retrospective Cohort Study</small>
+
+`논문` `관찰연구` `치료 전반` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-09-28 · PubMed · Diseases · 중요도 0.66
+
+이 연구는 췌장암 환자 240명(절제술 99명, 완화적 우회술 141명)을 대상으로 전신 염증 지수들이 수술 후 전체 생존기간(OS)에 미치는 영향을 비교했습니다. 연구 결과, 전신 염증 지수인 AISI와 SIRI는 완화적 우회술 후 사망 위험 증가와 유의하게 연관된 반면, 절제술 후에는 연관성이 나타나지 않았습니다. 저자들은 임상적용 전에 독립적인 외부 검증이 필요하다고 결론지었습니다.
+
+- 전체 환자 240명 중 215명이 사망했으며, 전체 생존기간 중앙값은 절제술 후 17.9개월, 완화적 우회술 후 5.4개월이었습니다.
+- AISI가 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.54였으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.003).
+- SIRI 역시 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.60이었으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42929985/) · [DOI](https://doi.org/10.3390/diseases14100358) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13703576/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42929985)</small>
+
+---
+<a id="pmid-42934328"></a>
+#### [저자 정정: 췌장관선암의 조기 진단을 위한 액체 생검](https://pubmed.ncbi.nlm.nih.gov/42934328/)
+<small>Author Correction: Liquid biopsy for early detection of pancreatic ductal adenocarcinoma</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` · 2026-10-26 · PubMed · Nat Med · 중요도 0.66
+
+Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 진단을 위한 액체 생검(liquid biopsy) 논문에 대한 저자 정정(Author Correction) 공고입니다. 초록에 명시되지 않은 임상 결과나 수치는 없습니다. 이 문서는 단순 정정 안내입니다.
+
+- Nat Med 저널에 실린 췌장관선암 조기 진단 관련 논문의 저자 정정 내용입니다.
+- 초록에 명시되지 않음.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934328/) · [DOI](https://doi.org/10.1038/s41591-026-04775-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934328)</small>
+
+---
+<a id="pmid-42938812"></a>
+#### [관내유두상점액성종양(IPMN)과 췌장암(PDAC) 간의 혈장 단백질 코로나 지문 분석: 비교 개념증명 연구](https://pubmed.ncbi.nlm.nih.gov/42938812/)
+<small>Plasma Protein Corona Fingerprinting Across Intraductal Papillary Mucinous Neoplasms and Pancreatic Ductal Adenocarcinoma: A Comparative Proof-of-Concept Study</small>
+
+`논문` `기타` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-11 · PubMed · Cancers (Basel) · 중요도 0.65
+
+이 연구는 관내유두상점액성종양(IPMN)과 췌장암(PDAC) 환자 22명의 혈장을 이용하여 세 가지 나노플랫폼 구성의 단백질 코로나(PC) 지문 분석 능력을 비교했습니다. 그래핀 옥사이드(graphene oxide, GO) nanosheet(나노시트), 금 나노입자(AuNP), 양이온성 지질소포체(liposome)를 사용해 세 가지 나노플랫폼이 서로 다른 단백질 코로나 구조를 생성함을 확인했습니다. 소규모 탐색적 코호트에서 그래핀 옥사이드(graphene oxide, GO)는 가장 넓은 범위의 임상군 간 변동을 보였으며 IPMN 대 신규 PDAC 비교에서 0.955의 교차 검증 AUC를 기록했습니다. 초록에 명시되지 않은 추가 결과는 없습니다. 초록에 명시되지 않은 제한 사항 및 후속 연구 계획이 언급되었습니다.
+
+- 총 22명의 환자(신규 PDAC 11명, IPMN 6명, IPMN 유래 PDAC 5명)의 혈장 샘플이 분석에 사용되었습니다.
+- 그래핀 옥사이드(graphene oxide, GO)는 IPMN 대 신규 PDAC 비교에서 내부 교차 검증 AUC 0.955를 기록했습니다.
+- IPMN 대 IPMN 유래 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.767이었습니다.
+- IPMN 유래 PDAC 대 신규 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.927이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938812/) · [DOI](https://doi.org/10.3390/cancers18203275) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938812)</small>
+
+---
+<a id="pmid-42945499"></a>
+#### [패널 시퀀싱을 이용한 위장관췌장 신경내분비종양의 유전체 프로파일 분석](https://pubmed.ncbi.nlm.nih.gov/42945499/)
+<small>Genomic Landscape of Gastroenteropancreatic Neuroendocrine Neoplasms Using Panel Sequencing</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` `신약·치료제` `신경내분비종양` · 2026-10-27 · PubMed · JCO Precis Oncol · 중요도 0.64
+
+미국암연구소(AACR) GENIE 데이터베이스를 활용하여 1,691명의 위장관췌장 신경내분비종양(GEP-NEN) 환자를 대상으로 후향적 유전체 분석을 진행했습니다. 신경내분비종양(NET)은 크로마틴 리모델링 유전자와 mTOR 경로 조절자 변이가 흔했고, 신경내분비암종(NEC)은 TP53, RB1, KRAS 등의 주요 드라이버 변이가 특징이었습니다. 전체 환자의 86.5%에서 유전체 변이가 확인되었으며, 임상적으로 의미 있는 주석 변이는 34.1%에서 관찰되었습니다. 신경내분비종양에서 신경내분비암종 연관 드라이버 변이가 있는 경우 전체 생존 기간이 더 불리한 것으로 나타났습니다.
+
+- 전체 GEP-NEN 환자의 86.5%에서 유전체 변이가 확인되었습니다.
+- 임상적으로 의미 있는 주석 변이는 전체 환자의 34.1%에서 나타났으며 NEC(74.4%)가 NET(28.5%)보다 높았습니다.
+- NET에서 NEC 관련 드라이버 변이가 발견된 경우 전체 생존기간이 더 짧았습니다(위험비 3.67, 95% CI 2.49~5.42, P < .001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42945499/) · [DOI](https://doi.org/10.1200/PO-26-00601) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42945499)</small>
+
+---
+<a id="pmid-42938864"></a>
+#### [국소 진행성 췌장암 환자에서 초음파 내시경 유도 하 종양 내 P-32 미립자 삽입술의 초기 국소 종양 조절 및 타당성: 전향적 단일기관 관찰 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42938864/)
+<small>Early Local Tumour Control and Feasibility of Intratumoral P-32 Microparticle Implantation in Patients with Locally Advanced Pancreatic Cancer: A Prospective Single-Center Observational Cohort Study</small>
+
+`논문` `관찰연구` `임상시험` `치료 전반` `진단·조기발견` · 2026-10-15 · PubMed · Cancers (Basel) · 중요도 0.64
+
+이 연구는 국소 진행성 췌장암(LAPC) 환자 17명을 대상으로 전신 항암화학요법(gemcitabine plus nab-paclitaxel)과 병행하여 초음파 내시경(EUS) 유도 하 종양 내 인-32(phosphorus-32, P-32) 미립자 삽입술을 시행한 전향적 단일기관 파일럿 연구입니다. 치료 결과, 17명 모두에게서 시술이 기술적으로 성공했으며 시술 관련 합병증은 보고되지 않았습니다. 약 16주 시점에서 평가 가능한 환자 16명 모두에게서 국소 질환 조절이 관찰되었고, 4명은 R0 절제술을 받았습니다. 이상 반응은 대부분 1~2등급이었으며, 3등급 복통 1건 외에 4~5등급은 없었습니다. 초록에 명시된 제한사항으로 대조군이 없고 표본 크기가 작아 결과는 기술적 및 가설 생성 단계에 해당합니다.
+
+- 총 17명의 환자 중 17명 모두에게서 P-32 미립자 삽입 시술이 기술적으로 성공했습니다 (100.0%).
+- 약 16주 차 국소 질환 조절률(LDCR16w)은 평가 가능한 환자 기준 16/16명으로 100.0%였습니다.
+- CA19-9 수치가 50% 이상 감소한 환자는 평가 가능 환자 16명 중 13명이었습니다.
+- 후속으로 R0 절제술을 받은 환자는 4명(23.5%)이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938864/) · [DOI](https://doi.org/10.3390/cancers18203331) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938864)</small>
+
+---
+<a id="pmid-42935000"></a>
+#### [췌장암 발생까지 아포지단백 A2 이소폼 지수, CA19-9 및 MRI 소견의 시간적 변화를 보인 증례](https://pubmed.ncbi.nlm.nih.gov/42935000/)
+<small>A Case With Longitudinal Changes in Apolipoprotein A2 Isoform Indices Associated With CA19-9 and MRI Findings Until Pancreatic Cancer Development</small>
+
+`논문` `증례` `진단·조기발견` `지지요법·삶의질` · 2026-10-26 · PubMed · J Gastroenterol Hepatol · 중요도 0.64
+
+이 논문은 췌장암 발생 전후에 걸쳐 아포지단백 A2 이소폼(apolipoprotein A2 isoform, ApoA2-i) 지수, 종양 표지자 CA19-9, 그리고 자기공명담췌관조영술(MRCP) 소견의 종단적 변화를 관찰한 80세 여성 환자의 증례를 보고합니다. 환자는 초기 추적 관찰 기간 동안 췌장 두부에 작은 낭성 병변이 발견되었으며, 시간이 지남에 따라 주췌관(main pancreatic duct, MPD)의 신호 결손 및 확장 소견이 나타났습니다. 혈중 ApoA2-i 지수는 점차 감소한 반면, CA19-9 수치는 1320 U/mL로 현저히 증가했습니다. 최종적으로 내시경 역행성 췌관조영술 및 세포검사를 통해 선암종(adenocarcinoma) 세포가 확인되었습니다.
+
+- 80세 여성 환자에서 췌장암 발생 과정 동안 ApoA2-i 지수, CA19-9, MRI 소견의 변화를 추적했습니다.
+- 혈중 ApoA2-i 지수는 52.1에서 35.7 μg/mL로 점차 감소했습니다.
+- 혈장 CA19-9 수치는 초기 42.5 U/mL에서 최종적으로 1320 U/mL로 현저히 증가했습니다.
+- 내시경 역행성 췌관조영술 세포검사를 통해 선암종 진단이 이루어졌습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935000/) · [DOI](https://doi.org/10.1111/jgh.70857) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935000)</small>
+
+---
+<a id="pmid-42934719"></a>
+#### [기질(stroma)의 CCL2/CXCL10/SPARC 축이 췌장암 진행 및 치료 혁신을 위한 미세환경 조절에서 종양 촉진성 CHI3L1 발현을 유도합니다](https://pubmed.ncbi.nlm.nih.gov/42934719/)
+<small>Stromal CCL2/CXCL10/SPARC axes drive pro-tumor CHI3L1 expression for microenvironmental modulation in pancreatic cancer progression and therapeutic innovation</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `수술` `진단·조기발견` · 2026-10-26 · PubMed · J Biomed Sci · 중요도 0.64
+
+본 연구는 췌장암(pancreatic cancer) 미세환경에서 CHI3L1 단백질의 발현을 유도하는 세포 간 신호 전달 네트워크를 조사했습니다. 2차원 및 3차원 세포 배양 모델과 쥐 모델을 활용하여, 종양과 기질 세포 간의 상호작용이 NF-κB와 STAT3를 통해 CHI3L1 발현을 높이는 과정을 분석했습니다. 연구 결과, 상위 기질 경로를 차단하고 CHI3L1을 중화하면 종양 성장이 줄어들고 면역억제성 미세환경이 개선되었습니다. 임상적으로 높은 CHI3L1 발현은 전체 생존기간 및 무병 생존기간과 연관된 독립적 예후 인자임을 확인했습니다.
+
+- CCL2, CXCL10, SPARC는 NF-κB와 STAT3 경로를 활성화하여 암세포에서 CHI3L1 발현을 협력적으로 유도합니다.
+- 높은 CHI3L1 발현은 다변량 분석에서 전체 생존기간과 무병 생존기간 모두에 대한 독립적인 예후 인자였습니다.
+- 동물 모델에서 상위 기질 경로 차단과 CHI3L1 중화를 병행했을 때 종양 성장이 감소하고 면역억제성 미세환경이 재조절되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934719/) · [DOI](https://doi.org/10.1186/s12929-026-01295-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934719)</small>
+
+---
+<a id="pmid-42938881"></a>
+#### [간담췌 악성종양에서의 액체 생검: 현재 근거와 수술 임상에서의 시사점](https://pubmed.ncbi.nlm.nih.gov/42938881/)
+<small>Liquid Biopsy in Hepatobiliary and Pancreatic Malignancies: Current Evidence and Implications for Surgical Practice</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `기초연구` `지지요법·삶의질` · 2026-10-16 · PubMed · Cancers (Basel) · 중요도 0.62
+
+이 문헌은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV) 분석을 통한 간담췌 악성종양의 액체 생검(liquid biopsy) 적용 가능성을 다룬 서사적 고찰(narrative review)입니다. 수술 전 예후 평가, 수술 후 미세 잔존 질환 탐지, 재발 모니터링, 치료 조정에 초점을 맞추었습니다. 특히 ctDNA는 수술 전후 예후와 불리한 종양학적 결과, 특히 수술 후 재발 간의 연관성이 입증되었습니다. 그러나 현재의 근거는 주로 관찰 연구에 기반하며, 임상적 유용성을 확립하기 위해서는 표준화된 방법론과 전향적 중재 임상시험이 필요합니다.
+
+- 액체 생검은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV)를 분석하여 종양 생물학에 대한 정보를 제공합니다.
+- 췌장관선암(pancreatic ductal adenocarcinoma) 등을 포함한 연구에서 ctDNA 검출은 수술 후 재발 등 불리한 결과와 연관성을 보였습니다.
+- 생물학적 절제 가능성 개념이나 ctDNA 기반 치료 수정은 아직 전향적으로 검증되지 않았으며 임상적 이점이 입증되지 않았습니다.
+- 현재 액체 생검은 표준 치료 결정 인자가 아닌 유망한 연구용 예후 도구로 간주되어야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938881/) · [DOI](https://doi.org/10.3390/cancers18203349) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938881)</small>
+
+---
+<a id="pmid-42943235"></a>
+#### [장기 약물 스크리닝을 통해 BRCA1/2 야생형 췌관선암에서 irinotecan 병용 파트너로 PARP 억제제 발굴](https://pubmed.ncbi.nlm.nih.gov/42943235/)
+<small>Long-Term Drug Screening Identifies PARP Inhibitors as Irinotecan Combination Partners in BRCA1/2-Wild-Type Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-09-28 · PubMed · Pharmaceuticals (Basel) · 중요도 0.59
+
+이 연구는 급성 활성은 낮지만 장기적인 억제 효과를 보이는 화합물을 찾기 위해 3524개 화합물을 스크리닝했습니다. 그 결과 급성기에는 효과가 제한적이었던 talazoparib(탈라조파립) 등의 PARP 억제제가 irinotecan(이리노테칸)과의 병용에서 우수한 장기 억제 효과를 보였습니다. 이러한 병용 효과는 BRCA1/2 야생형(wild-type) 췌관선암(PDAC) 세포주와 동물 모델(xenograft model)에서 확인되었습니다. RNA 시퀀싱 및 γH2AX 분석을 통해 DNA 손상 반응과 복제 스트레스 관련 기전이 확인되었습니다.
+
+- 초기 3일 스크리닝을 통과한 1877개 화합물 중 334개(17.8%)가 장기 효과 기준을 충족했습니다.
+- Talazoparib와 irinotecan 병용은 72시간보다 10일 배양 검사에서 더 큰 성장 억제와 높은 시너지 점수를 나타냈습니다.
+- 이러한 장기 병용 효과는 5개의 BRCA1/2 야생형 췌관선암 세포주와 MIA PaCa-2 이종이식(xenograft) 모델에서 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42943235/) · [DOI](https://doi.org/10.3390/ph19101538) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42943235)</small>
+
+---
+<a id="pmid-42941632"></a>
+#### [동시성 근위부 위선암과 췌장두부 췌장관선암 환자에서 단계적 수술을 통한 초기 양호한 결과: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42941632/)
+<small>Staged Surgery for Synchronous Proximal Gastric Adenocarcinoma and Pancreatic Head Ductal Adenocarcinoma with an Early Favorable Outcome: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · J Clin Med · 중요도 0.59
+
+초록에 따르면 동시성 원발성 위암과 췌장관선암(PDAC)은 드물며 치료 경험이 제한적입니다. 62세 남성 환자가 근위부 위선암과 췌장두부 PDAC 진단을 받고 선행화학요법(neoadjuvant chemotherapy)으로 6회의 FOLFIRINOX 치료를 받았습니다. 이후 근위 위절제술과 유문보존 췌십이지장절제술을 단계적으로 시행받았습니다. 수술 후 합병증이 있었으나 두 종양 모두 절제면 음성(R0)을 확인했으며, 두 번째 수술 후 10개월째 진행 소견 없이 추적 관찰 중입니다.
+
+- 62세 남성 환자가 근위부 위선암과 췌장두부 췌장관선암(PDAC)을 동시에 진단받았습니다.
+- 선행화학요법으로 FOLFIRINOX 6회를 투여받은 후 단계적인 절제 수술을 시행했습니다.
+- 두 종양 모두 현미경적 절제면 음성(R0)을 달성했습니다.
+- 두 번째 수술 후 10개월 시점에서 질병 진행 소견 없이 ECOG 수행능력 0을 유지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941632/) · [DOI](https://doi.org/10.3390/jcm15208119) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941632)</small>
+
+---
+<a id="pmid-42933941"></a>
+#### [유전성 췌장염](https://pubmed.ncbi.nlm.nih.gov/42933941/)
+<small>Hereditary Pancreatitis</small>
+
+`논문` `종설` `진단·조기발견` `지지요법·삶의질` `기초연구` · 2026-07-10 · PubMed · Gastroenterol Clin North Am · 중요도 0.59
+
+유전성 췌장염(hereditary pancreatitis)과 관련된 여러 유전적 결함과 이들의 다양한 침투율을 다룹니다. 주요 유전자로는 PRSS1, 세린 프로테아제 억제제 카잘 타입 1(serine protease inhibitor Kazal type 1), 낭성 섬유증 막횡단 전도 조절자(cystic fibrosis transmembrane conductance regulator)가 있습니다. 질병의 발병 기전은 주로 트립신(trypsin) 조절 장애, 세포 내 스트레스, 또는 변경된 췌관 생리학을 통해 이루어집니다. 치료는 환경 위험 요인 수정, 내분비 및 외분비 기능 부전과 영양실조 모니터링, 적절한 경우 췌장암 선별검사, 그리고 환자와 가족의 장기적인 합병증과 삶의 질을 다루기 위한 다학제적 접근을 포함해야 합니다.
+
+- 유전성 췌장염과 관련된 주요 유전자에는 PRSS1, serine protease inhibitor Kazal type 1, cystic fibrosis transmembrane conductance regulator가 포함됩니다.
+- 질병의 발병 기전은 트립신 조절 장애, 세포 내 스트레스, 변경된 췌관 생리학을 통해 발생합니다.
+- 관리에는 환경 위험 요인 수정, 기능 부전 및 영양실조 모니터링, 췌장암 선별검사, 다학제적 접근이 포함됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933941/) · [DOI](https://doi.org/10.1016/j.gtc.2026.06.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933941)</small>
+
+---
+<a id="pmid-42933936"></a>
+#### [유전성 췌장암](https://pubmed.ncbi.nlm.nih.gov/42933936/)
+<small>Hereditary Pancreatic Cancer</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `기초연구` · 2026-08-25 · PubMed · Gastroenterol Clin North Am · 중요도 0.59
+
+췌장암은 대부분 진행된 단계에서 발견되며 생존율이 낮은 가장 치명적인 암 중 하나입니다. 전체 환자의 약 10%에서 15%는 유전적 소인과 관련이 있어 생식세포 유전자 검사(germline genetic testing)와 가족력 평가가 중요합니다. BRCA1, BRCA2, ATM, PALB2, CDKN2A, STK11, TP53 및 린치 증후군(Lynch syndrome) 관련 유전자 등 여러 유전성 암 증후군이 췌장암 위험을 높입니다. 보편적인 유전자 검사와 고위험 가족에 대한 연쇄 검사(cascade testing)는 정밀 의료와 조기 진단을 가능하게 합니다. 선별된 영상 검사를 이용한 췌장암 선별검사는 더 초기 단계의 진단을 가능하게 하고 생존율을 향상시킵니다.
+
+- 췌장암 환자의 약 10%~15%는 유전적 소인과 연관되어 있습니다.
+- BRCA1, BRCA2, ATM, PALB2, CDKN2A, STK11, TP53 및 린치 증후군 관련 유전자가 췌장암 위험을 증가시킵니다.
+- 생식세포 유전자 검사와 가족력 평가는 정밀 종양학과 조기 발견을 촉진합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933936/) · [DOI](https://doi.org/10.1016/j.gtc.2026.07.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933936)</small>
+
+---
+<a id="pmid-42930599"></a>
+#### [주요 암에 대한 온라인 정보 검색 행태: 헝가리의 공중보건 및 건강 증진 우선순위를 위한 10년간의 정보역학 연구](https://pubmed.ncbi.nlm.nih.gov/42930599/)
+<small>Online Information-Seeking Behaviour for Major Cancers: A 10-Year Infodemiological Study to Inform Public Health and Health Promotion Priorities in Hungary</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-17 · PubMed · Med Sci (Basel) · 중요도 0.58
+
+2013년부터 2022년까지 헝가리에서 폐암, 대장암, 유방암, 전립선암, 췌장암의 온라인 정보 검색 행태를 구글 트렌드(Google Trends™) 데이터로 분석했습니다. 분석 결과 인터넷 보급률을 조정한 검색량(RSVsens)은 5개 암종 모두에서 연평균 변화율(AAPC) -3.56%에서 -5.39% 수준으로 유의하게 감소했습니다. 췌장암은 참조 조정 검색량(RSVref)이 11로 조사 대상 암종 중 가장 낮았으며 연평균 -5.23%의 감소세를 보였습니다. 또한 코로나19 팬데믹 동안 암 관련 검색량이 10~30% 감소했고 예방이나 검진보다는 증상 관련 검색이 대부분을 차지했습니다.
+
+- 헝가리 내 암종별 검색량(RSVref)은 유방암과 폐암이 61로 가장 높았고 전립선암(59), 대장암(52), 췌장암(11)이 뒤를 이었습니다.
+- 인터넷 보급률 조정 검색량(RSVsens) 분석에서 췌장암 검색량은 연평균 -5.23% 감소했습니다(p < 0.05).
+- 코로나19 팬데믹 기간 동안 모든 암의 평균 검색량이 팬데믹 이전 대비 10~30% 감소했습니다.
+- 연구 기간 동안 암 검진 및 예방 관련 검색은 드물었고 증상 관련 검색이 주를 이루었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42930599/) · [DOI](https://doi.org/10.3390/medsci14060681) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13706818/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42930599)</small>
+
+---
+<a id="doi-10.21203-rs.3.rs-11474245-v1"></a>
+#### [췌장암 조기 진단을 향하여: 소변 및 혈장 바이오마커 데이터를 활용한 머신러닝 연구](https://europepmc.org/article/PPR/PPR1350210)
+<small>Toward Early Detection of Pancreatic Cancer: A Machine Learning Study on Urinary and Plasma Biomarker Data</small>
+
+`프리프린트` `전임상` `진단·조기발견` `기초연구` · 2026-10-26 · Europe PMC (preprint) · Research Square · 중요도 0.56
+
+이 연구는 소변 단백질 4종(LYVE1, REG1A, REG1B, TFF1), 소변 크레아티닌, 혈장 CA19-9, 연령, 성별을 결합한 머신러닝 모델이 췌관선암(PDAC) 환자와 비-PDAC 대조군을 구별할 수 있는지 평가했습니다. 공개된 590명의 데이터셋을 활용했으며, 그중 Random Forest 모델이 가장 우수한 성능을 보였습니다. 118명의 테스트 세트에서 모델은 ROC-AUC 0.967, 정확도 0.924, 민감도(재현율) 0.900, 정밀도 0.878을 기록했습니다. 혈장 CA19-9, 소변 LYVE1, CA19-9/크레아티닌 비율이 가장 높은 변수 중요도를 나타냈습니다. 다만 단일 데이터셋의 단일 분할에서 나온 결과로 초기 암 선별 검사 성능에 대한 증거가 아닌 개념 증명 단계입니다.
+
+- Random Forest 모델은 교차 검증 ROC-AUC 0.967을 기록하며 가장 좋은 성능을 보였습니다.
+- 118명의 테스트 세트에서 정확도 0.924, ROC-AUC 0.967, 평균 정밀도 0.948을 달성했습니다.
+- 테스트 세트에서 40개의 췌관선암(PDAC) 사례 중 36개를 감지했으며 5개의 위양성이 발생했습니다.
+- 혈장 CA19-9, 소변 LYVE1, CA19-9/크레아티닌 비율이 가장 중요한 특성으로 확인되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1350210) · [DOI](https://doi.org/10.21203/rs.3.rs-11474245/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11474245/v1)</small>
+
+---
+<a id="pmid-42940039"></a>
+#### [상피 유래 암종에서의 유전자 및 후성유전학적 치료, 진단, 예후 전략에 관한 최신 근거: 범위 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42940039/)
+<small>Current Evidence on Gene-Based and Epigenetic Therapeutic, Diagnostic, and Prognostic Strategies in Epithelial-Derived Carcinomas: A Scoping Review</small>
+
+`논문` `종설` `기초연구` `치료 전반` `진단·조기발견` · 2026-10-02 · PubMed · Biomedicines · 중요도 0.54
+
+이 연구는 상피 유래 암종에서 유전자 기반 및 후성유전학적 기술의 치료, 진단, 예후 등의 적용을 조사한 범위 문헌고찰(scoping review)입니다. 2016년부터 2026년까지 발표된 문헌 중 선정 기준을 충족한 36개의 연구를 분석했습니다. 간암, 난소암, 폐암, 췌장관선암(pancreatic ductal adenocarcinoma) 등이 주요 상피암으로 확인되었습니다. 췌장암 치료는 분자적 표적은 식별 가능하나 약물 전달의 어려움으로 인해 임상적용에 제한이 있었습니다.
+
+- 총 36개의 연구가 선정 기준을 충족하여 분석에 포함되었습니다.
+- CRISPR 기반 유전자 편집, RNAi/siRNA 치료, miRNA/lncRNA 표적화, HDAC 억제 등이 주로 보고되었습니다.
+- 췌장암은 확인된 분자적 표적에도 불구하고 약물 전달의 어려움으로 인해 임상적용이 제한적이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42940039/) · [DOI](https://doi.org/10.3390/biomedicines14102234) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42940039)</small>
+
+---
+<a id="pmid-42942302"></a>
+#### [BIMS-GA: 네트워크 인식 췌장관선암 생체표지자 발굴을 위한 적응형 다목적 최적화](https://pubmed.ncbi.nlm.nih.gov/42942302/)
+<small>BIMS-GA: Adaptive Multi-Objective Optimization for Network-Aware Pancreatic Ductal Adenocarcinoma Biomarker Discovery</small>
+
+`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-14 · PubMed · Life (Basel) · 중요도 0.53
+
+췌장관선암(PDAC)의 5년 상대 생존율은 8%입니다. 연구진은 정확도, 생존 일치도, 네트워크 구조를 통합한 BIMS-GA 알고리즘을 개발하여 GSE62452(환자 수 130명) 및 8개의 외부 평가 세트에서 14가지 대안 방법과 비교했습니다. BIMS-GA는 교차 검증된 AUC 0.8855를 기록하며 13위를 차지했습니다. 20개 유전자 패널은 네 가지 코호트에서 생존을 계층화했으며, 각 코호트 내에서 적합된 위험비(HR)는 2.92-4.13, 이전된 위험비는 1.02-2.17이었습니다.
+
+- 췌장관선암(PDAC)의 5년 상대 생존율은 초록에 명시된 바와 같이 8%입니다.
+- BIMS-GA의 풀링된 교차 검증 AUC는 0.8855로 15개 방법 중 13위를 기록했습니다.
+- 20개 유전자 패널은 각 코호트 내에서 2.92-4.13의 위험비(HR)로 생존을 계층화했습니다.
+- 외부 코호트로 이전되었을 때의 위험비(HR)는 1.02-2.17이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42942302/) · [DOI](https://doi.org/10.3390/life16101716) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42942302)</small>
+
+---
+<a id="pmid-42935085"></a>
+#### [엑소좀 모방 프로테오지질 나노입자를 통한 콜레스테롤 프리, 종양 선호적 전달 기반의 안전한 간 외 RNAi-화학 병용 치료](https://pubmed.ncbi.nlm.nih.gov/42935085/)
+<small>Exosome-Inspired Proteolipid Nanoparticles Enable Safe, Extrahepatic RNAi-Chemo Therapy Through Cholesterol-Free, Tumor-Preferential Delivery</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-10-26 · PubMed · Adv Healthc Mater · 중요도 0.49
+
+이 연구에서는 췌관선암(PDAC)과 같은 난치성 고형암을 안전하게 치료하기 위해 엑소좀을 모방한 프로테오지질 나노입자(Em-pLNP)를 개발했습니다. 이 나노입자는 간에 집중되는 기존 지질나노입자(LNP)의 한계를 극복하고, 췌장암 동물 모델에서 종양 조직에 선택적으로 약물을 전달하도록 설계되었습니다. KRAS 억제 RNA(siKRAS), 인터루킨-6 억제 RNA(siIL-6), 그리고 gemcitabine(젬시타빈)을 함께 탑재하여 반복 정맥 투여한 결과, 강력하고 시너지 효과가 있는 종양 퇴축을 유도하고 항암제 내성을 완화했습니다. 초록에 환자 수나 구체적인 임상 수치는 명시되지 않았습니다.
+
+- 엑소좀 막 단백질을 지질 매트릭스에 통합한 Em-pLNP 나노입자를 개발하여 간 외 종양 조직으로의 약물 전달을 개선했습니다.
+- 췌장암 동물 모델에서 siKRAS, siIL-6, gemcitabine(젬시타빈)을 함께 탑재한 RNAi-화학 복합 치료제를 반복 투여하여 종양 퇴축과 항암제 내성 완화를 확인했습니다.
+- 기존 임상용 LNP에 비해 조직 내약성을 현저히 개선하고 종양 기질 깊숙이 침투하는 능력을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935085/) · [DOI](https://doi.org/10.1002/adhm.71909) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935085)</small>
+
+---
+<a id="nct-nct03375320"></a>
+#### [진행성 췌장 신경내분비 및 카르시노이드 종양 환자에서 카보잔티닙(cabozantinib) 임상시험](https://clinicaltrials.gov/study/NCT03375320)
+<small>Testing Cabozantinib in Patients With Advanced Pancreatic Neuroendocrine and Carcinoid Tumors</small>
+
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` `신경내분비종양` · 2017-12-18 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.88
+
+**NCT03375320** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03375320.md)
+
+이 3상 임상시험은 이전에 치료를 받은 후 병이 진행된 진행성 췌장 신경내분비종양(NET) 및 카르시노이드 종양 환자들을 대상으로 카보잔티닙(cabozantinib S-malate)과 위약(placebo)의 효과를 비교합니다. 주요 목적은 카보잔티닙이 무진행 생존기간(PFS)을 위약 대비 유의하게 개선할 수 있는지 확인하는 것입니다. 또한 전체 생존기간(OS), 안전성, 내인성, 방사선학적 반응률을 평가합니다. 환자들은 무작위로 배정되어 28일 주기로 카보잔티닙 또는 위약을 경구 투여받습니다.
+
+- 목표 인원은 298명이며, 진행성 췌장 신경내분비종양 및 카르시노이드 종양 환자를 대상으로 합니다.
+- 카보잔티닙군과 위약군의 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교 평가합니다.
+- 질병 진행 시 위약군 환자들은 카보잔티닙으로 교차(crossover) 투여가 허용됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03375320) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03375320)</small>
+
+---
+<a id="nct-nct06172478"></a>
+#### [국소 진행성 또는 전이성 고형암 환자를 대상으로 한 HER3-DXd 단독요법 연구](https://clinicaltrials.gov/study/NCT06172478)
+<small>A Study of HER3-DXd in Subjects With Locally Advanced or Metastatic Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2023-12-15 · ClinicalTrials.gov · Daiichi Sankyo · 중요도 0.87
+
+**NCT06172478** · 2상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06172478.md)
+
+이 연구는 국소 진행성 절제 불가능 또는 전이성 고형암 환자를 대상으로 HER3-DXd 단독요법의 안전성과 유효성을 평가하기 위한 개념 증명(proof-of-concept) 임상 2상 시험입니다. 췌장암을 포함한 여러 고형암 환자들을 대상으로 하며, 이전에 1가지 이상의 전신 항암 치료를 받은 환자들이 등록 대상입니다. 주요 목적은 각 종양 유형별 HER3-DXd의 유효성, 안전성, 내약성 및 약동학을 평가하는 것입니다.
+
+- 임상시험 단계는 2상(PHASE2)이며, 목표 환자 수는 740명이고 국내 8개 기관이 참여합니다.
+- 이전에 1차 이상의 전신 항암 치료를 받은 난치성 국소 진행성 또는 전이성 고형암 환자를 대상으로 합니다.
+- 췌장암의 경우, 절제 불가능하거나 전이성인 췌장선암(pancreatic adenocarcinoma) 환자가 참여 대상입니다.
+- 초록에 구체적인 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06172478) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06172478)</small>
+
+---
+<a id="nct-nct07806058"></a>
+#### [진행성 췌장암 환자를 위한 HRS-7172 병용 요법 제1b/2상 임상시험](https://clinicaltrials.gov/study/NCT07806058)
+<small>An Open-Label, Multicenter, Phase IB/II Clinical Study of HRS-7172 in Combination With Antitumor Therapy in Participants With Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-09-08 · ClinicalTrials.gov · Jiangsu HengRui Medicine Co., Ltd. · 중요도 0.84
+
+**NCT07806058** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07806058.md)
+
+본 임상시험은 RAS 유전자 변이 또는 증폭이 있는 진행성 또는 전이성 췌장암 환자를 대상으로 항암제와 병용한 HRS-7172의 안전성, 내인성, 유효성을 평가하기 위한 제1b/2상 연구입니다. 연구는 스크리닝, 치료, 추적 관찰 기간으로 구성되며 안전성 모니터링 위원회(SMC)가 용량 탐색 및 권장 용량을 결정합니다. 목표 환자 수는 140명이며, 연령은 18세부터 70세까지입니다. 초록에 유효성이나 생존기간 수치는 명시되지 않았습니다.
+
+- 목표 환자 수는 총 140명입니다.
+- 참여 연령은 18세에서 70세까지입니다.
+- 이전 표준 치료를 최대 1차까지만 받은 환자가 대상입니다.
+- 생존기간, 반응률, 위험비 등은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07806058) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07806058)</small>
+
+---
+<a id="pmid-42932121"></a>
+#### [처음에는 수술이 불가능했던 국소 진행성 췌장암에서 CA19-9와 DUPAN-2 병용 사용의 예후적 영향](https://pubmed.ncbi.nlm.nih.gov/42932121/)
+<small>Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `수술` · 2026-10-26 · PubMed · Ann Surg Oncol · 중요도 0.75
+
+이 연구는 처음에는 수술이 불가능했던 국소 진행성 췌관선암(PDAC) 환자들을 대상으로 수술 전후 혈중 CA19-9와 DUPAN-2 수치 조합이 생존율에 미치는 영향을 조사했습니다. 2010년부터 2024년까지 근치적 목적의 수술을 받은 환자 39명의 데이터를 분석했습니다. 연구 결과, 수술 전 항암화학요법 후 두 표지자 모두 높은(high/high, H/H) 그룹은 다른 그룹에 비해 전체 생존율이 유의하게 낮았습니다. 다변량 분석에서 수술 후 H/H 그룹은 불량한 생존을 예측하는 독립적인 요인으로 확인되었습니다.
+
+- 총 39명의 환자가 연구에 포함되었습니다.
+- 수술 전 항암화학요법 후 두 표지자가 모두 높은 H/H 그룹의 5년 전체 생존율은 0%였습니다(p < 0.001).
+- 수술 전 항암화학요법 후 H/H 그룹은 불량한 생존을 예측하는 독립적인 예후 인자였습니다(p = 0.004).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42932121/) · [DOI](https://doi.org/10.1245/s10434-026-20710-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42932121)</small>
 
 ---
 <a id="pmid-42928003"></a>
@@ -121,29 +724,19 @@ This is a Phase IB/II clinical trial designed to evaluate HRS-7172 in combinatio
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928003/) · [DOI](https://doi.org/10.4166/kjg.2025.148) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928003)</small>
 
 ---
-<a id="pmid-42932121"></a>
-#### [Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42932121/)
-`논문` `기타` `치료 전반` `수술` `진단·조기발견` · 2026-10-26 · PubMed · Ann Surg Oncol · 중요도 0.68
+<a id="pmid-42928716"></a>
+#### [BRCA2 병원성 변이 보유자에서 발생한 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 유럽·국제 가이드라인 기반 관리 증례](https://pubmed.ncbi.nlm.nih.gov/42928716/)
+<small>Pancreatic Intraductal Papillary Mucinous Neoplasm in a Carrier of a Reported Pathogenic BRCA2 Variant: Diagnostic Considerations and Management Using European and International Guidelines</small>
 
-PURPOSE: Our objective was to investigate the prognostic utility of combined carbohydrate antigen (CA) 19-9 and Duke pancreatic monoclonal antigen type 2 (DUPAN-2) levels in patients undergoing curative-intent surgery for initially unresectable locally advanced (URLA) pancreatic ductal adenocarcinoma (PDAC). METHODS: Data from patients who underwent curative-intent surgery for URLA PDAC from June 2010 to December 2024 were investigated.
+`논문` `증례` `치료 전반` `진단·조기발견` `신약·치료제` `지지요법·삶의질` · 2026-09-24 · PubMed · Cureus · 중요도 0.54
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42932121/) · [DOI](https://doi.org/10.1245/s10434-026-20710-4) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42932121)</small>
+본 증례는 BRCA2 병원성 변이를 보유한 71세 여성 환자에서 발견된 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 관리 과정을 다룹니다. 내시경 초음파(EUS) 및 미세침 흡인술(EUS-FNA) 검사 결과 5 mm 주췌관 확장을 동반한 저등급 IPMN으로 진단되었습니다. 다학제 진료를 통해 절대적 수술 적응증이 없음을 확인하고 추적 관찰을 결정했으며, 1년간의 추적 검사에서 병변은 안정적으로 유지되었습니다.
 
----
-<a id="pmid-42930599"></a>
-#### [주요 암에 대한 온라인 정보 검색 행태: 헝가리의 공중보건 및 건강 증진 우선순위를 위한 10년간의 정보역학 연구](https://pubmed.ncbi.nlm.nih.gov/42930599/)
-<small>Online Information-Seeking Behaviour for Major Cancers: A 10-Year Infodemiological Study to Inform Public Health and Health Promotion Priorities in Hungary</small>
+- BRCA2 변이 보유 환자에서 22 mm 크기의 췌장 낭종과 5 mm 주췌관 확장이 발견되었습니다.
+- 낭종 액체 분석 및 세포진 검사를 통해 저등급 유두상 점액 종양(IPMN)으로 진단되었습니다.
+- BRCA2 변이 유무와 관계없이 가이드라인 기준에 맞춰 수술 대신 추적 관찰을 선택했으며 1년간 안정적 상태를 보였습니다.
 
-`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-17 · PubMed · Med Sci (Basel) · 중요도 0.58
-
-2013년부터 2022년까지 헝가리에서 폐암, 대장암, 유방암, 전립선암, 췌장암의 온라인 정보 검색 행태를 구글 트렌드(Google Trends™) 데이터로 분석했습니다. 분석 결과 인터넷 보급률을 조정한 검색량(RSVsens)은 5개 암종 모두에서 연평균 변화율(AAPC) -3.56%에서 -5.39% 수준으로 유의하게 감소했습니다. 췌장암은 참조 조정 검색량(RSVref)이 11로 조사 대상 암종 중 가장 낮았으며 연평균 -5.23%의 감소세를 보였습니다. 또한 코로나19 팬데믹 동안 암 관련 검색량이 10~30% 감소했고 예방이나 검진보다는 증상 관련 검색이 대부분을 차지했습니다.
-
-- 헝가리 내 암종별 검색량(RSVref)은 유방암과 폐암이 61로 가장 높았고 전립선암(59), 대장암(52), 췌장암(11)이 뒤를 이었습니다.
-- 인터넷 보급률 조정 검색량(RSVsens) 분석에서 췌장암 검색량은 연평균 -5.23% 감소했습니다(p < 0.05).
-- 코로나19 팬데믹 기간 동안 모든 암의 평균 검색량이 팬데믹 이전 대비 10~30% 감소했습니다.
-- 연구 기간 동안 암 검진 및 예방 관련 검색은 드물었고 증상 관련 검색이 주를 이루었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42930599/) · [DOI](https://doi.org/10.3390/medsci14060681) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42930599)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928716/) · [DOI](https://doi.org/10.7759/cureus.116881) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13695697/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928716)</small>
 
 ---
 <a id="pmid-42928765"></a>
@@ -159,21 +752,6 @@ PURPOSE: Our objective was to investigate the prognostic utility of combined car
 - 5개월 후 탄수화물 항원 19-9(CA 19-9) 수치가 500 U/mL 초과로 상승하였고 췌장 두부에 43 × 45 mm 크기의 종양과 간 및 폐 전이가 발견되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928765/) · [DOI](https://doi.org/10.7759/cureus.116897) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13695861/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928765)</small>
-
----
-<a id="pmid-42928716"></a>
-#### [BRCA2 병원성 변이 보유자에서 발생한 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 유럽·국제 가이드라인 기반 관리 증례](https://pubmed.ncbi.nlm.nih.gov/42928716/)
-<small>Pancreatic Intraductal Papillary Mucinous Neoplasm in a Carrier of a Reported Pathogenic BRCA2 Variant: Diagnostic Considerations and Management Using European and International Guidelines</small>
-
-`논문` `증례` `치료 전반` `진단·조기발견` `신약·치료제` `지지요법·삶의질` · 2026-09-24 · PubMed · Cureus · 중요도 0.54
-
-본 증례는 BRCA2 병원성 변이를 보유한 71세 여성 환자에서 발견된 췌장 췌관내 유두상 점액 종양(IPMN)의 진단 및 관리 과정을 다룹니다. 내시경 초음파(EUS) 및 미세침 흡인술(EUS-FNA) 검사 결과 5 mm 주췌관 확장을 동반한 저등급 IPMN으로 진단되었습니다. 다학제 진료를 통해 절대적 수술 적응증이 없음을 확인하고 추적 관찰을 결정했으며, 1년간의 추적 검사에서 병변은 안정적으로 유지되었습니다.
-
-- BRCA2 변이 보유 환자에서 22 mm 크기의 췌장 낭종과 5 mm 주췌관 확장이 발견되었습니다.
-- 낭종 액체 분석 및 세포진 검사를 통해 저등급 유두상 점액 종양(IPMN)으로 진단되었습니다.
-- BRCA2 변이 유무와 관계없이 가이드라인 기준에 맞춰 수술 대신 추적 관찰을 선택했으며 1년간 안정적 상태를 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928716/) · [DOI](https://doi.org/10.7759/cureus.116881) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13695697/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928716)</small>
 
 ---
 <a id="pmid-42928620"></a>
@@ -224,23 +802,6 @@ PURPOSE: Our objective was to investigate the prognostic utility of combined car
 - 이전 전신 항암 치료 경험이 없고 측정 가능한 병변이 있는 환자를 대상으로 합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
-
----
-<a id="nct-nct06943755"></a>
-#### [국소 진행성 또는 전이성 신경내분비종양 환자에서 zanzalintinib과 everolimus 비교 임상시험](https://clinicaltrials.gov/study/NCT06943755)
-<small>Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` `신경내분비종양` · 2025-04-24 · ClinicalTrials.gov · Exelixis · 중요도 0.96
-
-**NCT06943755** · 2상/3상 · 모집 중 · 국내 5곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06943755.md)
-
-이 연구는 이전 치료 경험이 있는 절제 불가능한 국소 진행성 또는 전이성 신경내분비종양 환자를 대상으로 zanzalintinib과 everolimus의 효과를 비교 평가합니다. 췌장 신경내분비종양(pNET) 및 췌장 외 신경내분비종양(epNET) 환자 440명을 목표로 진행되는 2/3상 임상시험입니다. 환자들은 무작위 배정을 통해 zanzalintinib 또는 everolimus 치료를 받게 됩니다. 국내 5개 기관이 참여합니다.
-
-- 목표 환자 수는 총 440명입니다.
-- 국내 5개 기관에서 참여 환자를 모집 중입니다.
-- 치료 경험이 있는 국소 진행성 또는 전이성 신경내분비종양 환자를 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06943755) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06943755)</small>
 
 ---
 <a id="nct-nct06710132"></a>
@@ -1865,521 +2426,5 @@ KRAS 변이를 동반한 진행성 또는 전이성 고형암(췌관선암, 비�
 - 실제 임상 적용을 위해서는 생체 안전성, 생체 분해성, 대규모 제조 공정 확립 등의 기술적 한계 극복이 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42883457/) · [DOI](https://doi.org/10.3390/biology15191783) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42883457)</small>
-
----
-<a id="pmid-42882871"></a>
-#### [죽음과의 타협: 질병 전 과정에 걸친 췌장암의 심리사회적 경험에 대한 정성적 체계적 문헌고찰 및 주제별 통합](https://pubmed.ncbi.nlm.nih.gov/42882871/)
-<small>Negotiating Mortality: A Qualitative Systematic Review and Thematic Synthesis of the Psychosocial Experiences of Pancreatic Cancer Across the Illness Trajectory</small>
-
-`논문` `종설` `지지요법·삶의질` `제약사·규제` `진단·조기발견` · 2026-10-01 · PubMed · Cancers (Basel) · 중요도 0.66
-
-이 연구는 진단부터 투병 및 임종에 이르는 췌장암 질병 궤적 전반에서 환자가 겪는 심리사회적(psychosocial) 경험을 파악하기 위해 진행된 정성적 체계적 문헌고찰입니다. 연구진은 7개 학술 데이터베이스를 검색하여 총 28개 연구(30편의 논문)를 선별해 분석했습니다. 분석 결과 환자들은 진단의 충격, 복잡한 치료 및 정보 탐색, 신체적·관계적 변화에 따른 일상 재구성, 삶의 불확실성과 죽음에 대한 대처 등 4가지 주요 영역에서 깊은 삶의 단절과 혼란을 경험했습니다. 연구진은 병기 전반에 걸쳐 환자와 가족의 심리종양학적 및 지지요법(supportive care)에 대한 미충족 수요가 매우 크다고 결론지었습니다.
-
-- 총 4,357건의 초록과 412건의 전문 검토를 거쳐 췌장암 환자의 경험을 다룬 28개 연구(30편)가 최종 분석에 포함되었습니다.
-- 환자의 심리사회적 경험은 진단의 충격, 의료 및 정보 탐색, 일상과 관계의 변화, 불확실성과 죽음에 직면하는 과정의 4가지 주요 주제로 도출되었습니다.
-- 복합적인 신체 증상과 기능 저하, 재발 및 진행에 대한 불안감이 겹쳐 환자와 가족을 위한 심리적 지지요법의 필요성이 강조되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882871/) · [DOI](https://doi.org/10.3390/cancers18193177) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882871)</small>
-
----
-<a id="nct-nct07619417"></a>
-#### [췌장 신생물 치료를 위한 내시경 초음파 유도 펄스 전기장 절제술](https://clinicaltrials.gov/study/NCT07619417)
-<small>Endoscopic Ultrasound-Guided Pulsed Electric Field Ablation for the Treatment of Pancreatic Neoplasms</small>
-
-`임상시험` `기타` `치료 전반` `수술` `진단·조기발견` `신경내분비종양` · 2026-06-02 · ClinicalTrials.gov · Ohio State University Comprehensive Cancer Center · 중요도 0.64
-
-**NCT07619417** · 해당 없음 · 초대 모집 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07619417.md)
-
-이 임상시험은 췌장 신생물(pancreatic neoplasms) 환자를 대상으로 내시경 초음파 유도 펄스 전기장 절제술(endoscopic ultrasound-guided pulsed electric field ablation)의 안전성과 타당성을 평가합니다. Aliya Pulsed Electric Field 시스템을 사용하여 열을 사용하지 않고 표적 조직을 파괴합니다. 연구의 주요 목적은 부작용의 발생률과 심각도를 측정하여 안전성을 평가하는 것입니다. 목표 인원은 12명이며, 초록에 구체적인 수치 결과는 명시되지 않았습니다.
-
-- 치료 대상은 췌장 신생물을 진단받은 수술 부적격 환자 12명입니다.
-- 내시경 초음파(EUS)를 통해 펄스 전기장(PEF) 에너지를 전달하여 국소 절제를 시행합니다.
-- 안전성은 미국 위장관 내시경 학회(AGREE) 분류 및 췌장염에 대한 ATLANTA 분류에 따른 이상반응의 빈도와 심각도로 측정합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07619417) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07619417)</small>
-
----
-<a id="pmid-42880885"></a>
-#### [췌장암에서 세포외기질 리모델링과 리포솜-엑소좀 하이브리드 표적 화학요법을 결합한 순차적 이중 나노입자 접근법](https://pubmed.ncbi.nlm.nih.gov/42880885/)
-<small>Sequential Dual Nanoparticle Approach for Extracellular Matrix Remodeling and Targeted Chemotherapy through Liposome-Exosome Hybridization in Pancreatic Cancer</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` `치료 전반` `진단·조기발견` · 2026-10-16 · PubMed · ACS Appl Mater Interfaces · 중요도 0.64
-
-췌장암의 단단한 세포외기질(ECM)과 불충분한 약물 침투 한계를 극복하기 위해 두 종류의 나노입자를 순차적으로 투여하는 전임상 연구가 진행되었습니다. 먼저 히알루론산 분해효소를 담은 리포솜(LH)을 투여해 촘촘한 기질을 분해한 뒤, 췌장암 세포 유래 엑소좀과 융합해 암 표적능을 높이고 doxorubicin(독소루비신)을 탑재한 하이브리드 나노입자(HLD)를 투여했습니다. 췌장암 이종이식 동물 모델에서 이 순차적 병용 요법은 전신 독성 없이 단일 치료군 대비 우수한 종양 성장 억제 효과를 나타냈습니다. 연구진은 기질 리모델링과 엑소좀 기반 표적 전달을 결합한 이 전략이 기질이 풍부한 고형암의 치료 효과를 높이는 유망한 접근법임을 보여주었다고 설명했습니다.
-
-- 히알루론산 분해효소 탑재 리포솜(LH) 투여를 통해 기질을 분해하여 뒤이어 투여된 표적 나노입자(HLD)의 종양 내 축적 및 침투를 개선했습니다.
-- doxorubicin(독소루비신)을 탑재한 리포솜-엑소좀 하이브리드 나노입자는 암세포 내 흡수율 증가, 세포 독성 및 강한 면역원성 세포 사멸(ICD)을 유도했습니다.
-- 췌장암 동물 모델에서 LH와 HLD의 순차 치료는 전신 독성 유발 없이 단일 요법 대비 유의미하게 종양 성장을 억제했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42880885/) · [DOI](https://doi.org/10.1021/acsami.6c14250) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42880885)</small>
-
----
-<a id="pmid-42881000"></a>
-#### [췌장암 세포와 성상세포 유래 엑소좀 간의 상호작용이 매개하는 췌장암 관련 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42881000/)
-<small>Pancreatic cancer cell and stellate cell-derived exosome crosstalk mediates pancreatic cancer-related diabetes</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` `지지요법·삶의질` · 2026-10-13 · PubMed · Pancreatology · 중요도 0.64
-
-췌장암 진단 수년 전에 선행하는 췌장암 관련 당뇨병(PCRD)의 발병 기전을 규명하기 위해 동물 및 세포 모델을 분석한 전임상 연구입니다. 고과당 식이를 섭취한 유전자 변형 생쥐 모델에서 성상세포(PSC) 활성화와 췌장암 전구 병변 진행, 포도당 내인성 장애가 확인되었습니다. 암세포 및 성상세포에서 분비된 엑소좀(exosome)은 췌장 베타세포의 인슐린 분비를 억제하고 간세포의 인슐린 신호 전달을 저해했습니다. 특히 엑소좀 내 포도당-6-인산탈수소효소(G6PD)를 억제했을 때 간세포 인슐린 신호 기능이 일부 회복됨을 확인했습니다.
-
-- 췌장암 관련 당뇨병은 통상 췌장암 진단보다 3~5년 앞서 발생하며 잠재적 조기 발견의 지표가 될 수 있습니다.
-- 암세포와 췌장 성상세포에서 분비된 엑소좀은 베타세포의 포도당 자극 인슐린 분비를 유의하게 억제했습니다.
-- 해당 엑소좀은 간세포의 주요 인슐린 신호 전달 단백질(IR, IRS, AKT, FOXO1, GLUT2)을 감소시켰으며, 엑소좀 내 G6PD 침묵 시 신호가 부분적으로 회복되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42881000/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.015) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42881000)</small>
-
----
-<a id="pmid-42882835"></a>
-#### [췌장관선암에서 RAS 억제제의 대립유전자별 활성: 체계적 문헌고찰 및 탐색적 메타분석](https://pubmed.ncbi.nlm.nih.gov/42882835/)
-<small>Allele-Stratified Activity of RAS Inhibitors in Pancreatic Ductal Adenocarcinoma: A Systematic Review and Exploratory Meta-Analysis</small>
-
-`논문` `종설` `신약·치료제` `치료 전반` `제약사·규제` `진단·조기발견` · 2026-09-28 · PubMed · Cancers (Basel) · 중요도 0.64
-
-췌장관선암(PDAC) 환자를 대상으로 KRAS 변이 유형별 RAS 억제제의 효과를 확인하기 위해 24건의 연구(전임상 20건, 초기 단일군 임상시험 4건)를 종합 분석했습니다. KRAS G12C 억제제 관련 3건의 단일군 임상시험을 메타분석한 결과, 객관적 반응률(ORR)은 36.9%, 질병 조절률(DCR)은 85.9%로 집계되었습니다. 3등급 이상의 치료 관련 이상반응 발생률은 23.8%였으며 전반적인 근거 수준(GRADE)은 매우 낮음으로 평가되었습니다. 연구진은 대립유전자별 표적 치료의 가능성을 지지하면서도, KRAS G12D 표적 치료의 임상 검증은 G12C에 비해 아직 매우 초기 단계라고 결론지었습니다.
-
-- KRAS G12C 억제제 단일군 임상시험 3건의 통합 객관적 반응률(ORR)은 36.9%(95% CI, 9.8-75.7%)였습니다.
-- 통합 질병 조절률(DCR)은 85.9%(95% CI, 62.1-95.8%), 3등급 이상의 중대한 치료 관련 부작용 발생률은 23.8%였습니다.
-- KRAS G12D 표적 치료는 전임상 연구 규모가 큼에도 불구하고 임상적 검증 단계는 G12C보다 현저히 초기 수준에 머물러 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882835/) · [DOI](https://doi.org/10.3390/cancers18193139) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882835)</small>
-
----
-<a id="pmid-42878980"></a>
-#### [SERPINB5가 FBXO32 매개 상피-중간엽 전이 조절을 통해 췌관선암의 진행을 촉진한다](https://pubmed.ncbi.nlm.nih.gov/42878980/)
-<small>SERPINB5 promotes pancreatic adenocarcinoma progression through FBXO32-mediated regulation of epithelial-mesenchymal transition</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-15 · PubMed · Mol Biol Rep · 중요도 0.57
-
-췌관선암(PAAD)에서 SERPINB5 단백질의 임상적 유용성과 생물학적 기전을 밝힌 기초 연구입니다. 데이터 분석 결과 SERPINB5는 정상 조직과 암 조직을 높은 정확도(곡선하면적 0.851~0.966)로 구분하는 진단 및 예후 예측 후보 물질로 나타났습니다. 실험실 세포 연구에서 SERPINB5의 발현을 낮추자 암세포의 증식, 이동, 침습 및 상피-중간엽 전이(EMT) 과정이 억제되었습니다. 결론적으로 SERPINB5는 FBXO32와의 상호작용을 통해 암의 진행을 촉진하는 것으로 확인되었습니다.
-
-- SERPINB5는 3개 전사체 데이터셋에서 췌관선암과 정상 조직을 구분하는 높은 진단 예측도(AUC 0.851, 0.966, 0.965)를 보였습니다.
-- 세포 실험에서 SERPINB5 발현을 억제하자 암세포 증식, 이동, 침습이 유의하게 감소했습니다.
-- SERPINB5는 FBXO32 단백질과 결합하며 상피-중간엽 전이(EMT)를 조절하여 암 진행을 유도하는 기전이 규명되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42878980/) · [DOI](https://doi.org/10.1007/s11033-026-12945-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42878980)</small>
-
----
-<a id="pmid-42885237"></a>
-#### [이중 친화성 구형 Ln-MOF를 활용한 췌관선암 진단용 극미량 검체 초민감 단백체 분석](https://pubmed.ncbi.nlm.nih.gov/42885237/)
-<small>Ultrasensitive Trace Sample Proteomics for Pancreatic Ductal Adenocarcinoma Diagnosis Empowered by Dual-Affinity Spherical Ln-MOFs</small>
-
-`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-15 · PubMed · Small · 중요도 0.57
-
-극미량의 혈장에서 세포외소포체(exosome) 단백질을 효과적으로 분석하기 위한 새로운 나노 소재 플랫폼(Ln-MOF) 연구 결과입니다. 개발된 소재는 보론산과 카복실산 이중 리간드를 활용하여 엑소좀 단백질을 높은 효율로 포획하도록 설계되었습니다. 기존 초원심분리법 대비 4분의 1 수준인 50 µL의 혈장만으로 더 많은 종류의 단백질을 식별했습니다. 연구진은 이를 췌관선암(PDAC) 환자와 건강인의 혈액에 적용하여 암 조직의 과대사 및 전신 면역 억제 양상을 확인했습니다.
-
-- 기존 초원심분리법이 혈장 200 µL에서 1003개의 단백질을 찾아낸 반면, 새 방식은 단 50 µL의 혈장으로 1523개의 단백질을 식별했습니다.
-- 당단백질과 인산화단백질의 농축 효율이 각각 2.1배 및 1.8배 향상되었습니다.
-- 췌관선암 환자와 정상 대조군 검체 분석을 통해 종양의 대사 항진 및 전신 면역 억제 특성을 규명했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42885237/) · [DOI](https://doi.org/10.1002/smll.76296) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42885237)</small>
-
----
-<a id="pmid-42882940"></a>
-#### [정정: 췌장암에서 혈중 담즙산 프로파일 해석: 담즙정체의 역할과 관리 (Danese 등, Cancers 2026, 18, 2481)](https://pubmed.ncbi.nlm.nih.gov/42882940/)
-<small>Correction: Danese et al. Interpreting Circulating Bile Acid Profiles in Pancreatic Cancer: The Role of Cholestasis and Its Management. Cancers 2026, 18, 2481</small>
-
-`논문` `기타` `진단·조기발견` `지지요법·삶의질` `치료 전반` · 2026-09-29 · PubMed · Cancers (Basel) · 중요도 0.55
-
-이 문헌은 췌장암 환자의 혈중 담즙산 프로파일 및 담즙정체(cholestasis)의 역할과 관리에 대해 다룬 기존 출판 논문의 정정(Erratum) 공지입니다. 원문 논문의 오류나 수정 사항을 공식적으로 바로잡기 위해 게시되었습니다. 구체적인 수정 내용의 세부 수치는 제공된 본문에 명시되지 않았습니다.
-
-- 췌장암 환자의 혈중 담즙산 프로파일과 담즙정체 관리를 다룬 연구 논문에 대한 공식 정정(Correction)입니다.
-- 구체적인 정정 세부 사항은 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882940/) · [DOI](https://doi.org/10.3390/cancers18193144) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882940)</small>
-
----
-<a id="pmid-42868319"></a>
-#### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
-<small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
-
-`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-13 · PubMed · JCO Clin Cancer Inform · 중요도 0.93
-
-이 연구는 췌관선암(PDAC)의 재발, 전이, 림프절 전이 등을 예측하는 모델과 인자들을 분석한 체계적 문헌고찰 연구입니다. 총 208건의 연구(예측 모델 144건, 예후 인자 연구 64건)를 검토한 결과, 컴퓨터단층촬영(CT)/라디오믹스 및 임상 정보가 가장 흔히 활용되었습니다. 조기 재발 예측 정확도(AUC)는 0.70~0.92, 무병 생존기간(DFS) 예측 C-index는 0.62~0.82 수준으로 보고되었습니다. 연구진은 많은 모델이 후향적 연구에 기반하고 외부 검증이나 보정 평가가 부족하여 실제 임상 적용을 위해서는 전향적 평가가 필요하다고 결론지었습니다.
-
-- 분석에 포함된 208건 중 144건이 예측 모델 연구였으며, CT/라디오믹스(141건)와 임상 정보(104건)가 주로 활용되었습니다.
-- 조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.
-- 외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42868319/) · [DOI](https://doi.org/10.1200/CCI-26-00200) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42868319)</small>
-
----
-<a id="pmid-42876703"></a>
-#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
-<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
-
-이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
-
-- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
-- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
-- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
-
----
-<a id="pmid-42867719"></a>
-#### [췌장암 재병기 설정을 위한 MRI의 역할](https://pubmed.ncbi.nlm.nih.gov/42867719/)
-<small>MRI for restaging pancreatic cancer</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `수술` · 2026-10-13 · PubMed · Insights Imaging · 중요도 0.71
-
-췌관선암(pancreatic adenocarcinoma)은 많은 환자가 수술이 불가능한 상태로 발견되어 선행요법(neoadjuvant treatment)의 중요성이 커지고 있습니다. 그러나 종양 특유의 섬유화 반응 때문에 치료 후 남아 있는 실제 종양과 섬유화를 영상으로 구별하기는 어렵습니다. 본 논문은 선행요법 후 병기를 재평가하는 데 유용한 여러 자기공명영상(MRI) 기법을 정리한 종설입니다. 현재 사용되는 확산강조영상(DWI)뿐 아니라 T1 매핑, 세포외액 분율(ECV) 영상 등 최신 MRI 기술의 임상적 가치를 다루었습니다.
-
-- 선행치료 후 종양 내 섬유화와 실제 잔여 종양을 정확히 구분하는 것은 기존 영상 검사로 한계가 있습니다.
-- 확산강조영상(DWI)과 같은 통상적 MRI 기법 외에도 T1 매핑, 세포외액 분율(ECV) 영상 등이 정밀한 치료 반응 평가에 도움을 줄 수 있습니다.
-- 림프절 전이 여부를 평가하기 위한 초상자성 산화철(USPIO) 조영제 기반 MRI 기법의 가능성이 논의되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42867719/) · [DOI](https://doi.org/10.1186/s13244-026-02422-1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661870/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42867719)</small>
-
----
-<a id="pmid-42874623"></a>
-#### [췌장암 치료용 암 백신 개발 전략](https://pubmed.ncbi.nlm.nih.gov/42874623/)
-<small>Strategies to develop therapeutic cancer vaccines for pancreatic cancer</small>
-
-`논문` `종설` `신약·치료제` `치료 전반` `임상시험` `진단·조기발견` · 2026-10-14 · PubMed · Lancet Gastroenterol Hepatol · 중요도 0.71
-
-췌관선암(PDAC)은 낮은 신생항원성과 강력한 면역억제 미세환경으로 인해 기존 면역항암치료의 효과가 제한적이었습니다. 본 논문은 임상시험 등록 데이터베이스를 바탕으로 치료용 암 백신 임상시험 120건을 체계적으로 종합 분석했습니다. 다양한 플랫폼의 백신들이 안전성과 종양 특이적 면역 반응 유도를 입증했으나, 실제 장기적인 임상적 이득으로 이어진 사례는 드물었습니다. 현재까지는 수술 후 환자를 대상으로 한 개인 맞춤형 mRNA 백신과 KRAS 변이 표적 백신이 가장 유망한 면역학적 반응을 보였으며, 면역억제 환경을 극복하기 위한 병용 요법이 핵심 과제로 제시되었습니다.
-
-- 120건의 치료용 백신 임상시험 분석 결과, 우수한 안전성과 면역 반응 유도에도 불구하고 지속적인 치료 효과로 이어진 경우는 제한적이었습니다.
-- 수술 후 췌장암 환자에서 개인 맞춤형 mRNA 신생항원 백신이 강력한 CD8+ T세포 반응과 장기 면역 지속성을 보였습니다.
-- KRAS 변이(KRASmut)와 같은 공유 신생항원 백신 및 간질과 골수세포성 면역억제를 극복하는 복합 병용 치료 전략이 강조됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42874623/) · [DOI](https://doi.org/10.1016/S2468-1253(26)00149-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42874623)</small>
-
----
-<a id="pmid-42874742"></a>
-#### [절제 수술을 받은 췌관선암 환자에서 일반 H&E 병리 조직을 활용한 수술 후 예후 예측: 다기관 코호트 TIGERS 모델 평가](https://pubmed.ncbi.nlm.nih.gov/42874742/)
-<small>Routine H&amp;E Histology Encodes Postoperative Risk Heterogeneity in Resected Pancreatic Ductal Adenocarcinoma: A Multicohort Evaluation of TIGERS</small>
-
-`논문` `관찰연구` `진단·조기발견` `치료 전반` `수술` · 2026-10-14 · PubMed · Mod Pathol · 중요도 0.71
-
-연구진은 수술로 절제된 췌관선암(PDAC) 환자의 일반 헤마톡실린-에오신(H&E) 병리 디지털 슬라이드를 분석하여 수술 후 예후를 예측하는 인공지능 기반 점수 체계인 TIGERS를 개발했습니다. TIGERS는 종양 부담, 세포핵 형태, 종양-기질 관계 등 9가지 조직학적 특징을 수치화하여 전체 생존기간(OS)을 예측하도록 설계되었습니다. 총 2,000명 이상의 다양한 다기관 코호트에서 검증한 결과, 전향적 코호트에서 고위험군 환자는 저위험군에 비해 사망 위험이 4.45배 높았습니다. 이 점수는 기존 병기 분류 대비 43.2%의 환자에서 위험군 구분을 재조정하여 보완적인 예후 정보를 제시했으나, 실제 치료나 추적 관찰을 변경하기 위해서는 전향적 중재 연구가 더 필요합니다.
-
-- 전향적 코호트에서 TIGERS 고위험군의 사망률은 47.5%로 저위험군의 22.7%보다 유의하게 높았으며, 다변량 보정 위험비(HR)는 4.45였습니다.
-- 기존 임상병리학적 모델에 TIGERS를 추가했을 때 6개 후향적 코호트 전체에서 C-index가 0.015~0.047 향상되었습니다.
-- 기존 병기 기반 분류와 비교했을 때 환자의 43.2%가 다른 위험군으로 재분류되었습니다.
-- 자동화 분석 품질 관리 통과율은 92.3%, 분석 소요 시간 중앙값은 13.5분이었으며 높은 점수는 예후가 불량한 기저형(basal-like) 단백체 양상과 일치했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42874742/) · [DOI](https://doi.org/10.1016/j.modpat.2026.101099) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42874742)</small>
-
----
-<a id="pmid-42877528"></a>
-#### [췌장암 조기 진단 전략](https://pubmed.ncbi.nlm.nih.gov/42877528/)
-<small>Strategy for early diagnosis of pancreatic cancer</small>
-
-`논문` `종설` `진단·조기발견` `지지요법·삶의질` · 2026-09-30 · PubMed · Front Gastroenterol (Lausanne) · 중요도 0.68
-
-췌장암(PDAC)은 초기 증상이 모호하여 대부분 완치 목적의 수술이 불가능한 진행성 단계에서 발견됩니다. 만성 췌장염, 흡연, 비만, 유전적 변이(BRCA1/2 등), 신규 발병 당뇨병 등이 주요 위험 요인으로 꼽히지만 일반 인구 대상의 선별검사는 아직 비침습적 진단 표지자의 부족으로 실용적이지 않습니다. 널리 쓰이는 CA 19-9 혈액 검사의 한계를 극복하기 위해 순환 종양 DNA(ctDNA), 엑소좀, 마이크로RNA 등의 새로운 분자적 기법이 연구되고 있습니다. 최근에는 고위험군을 대상으로 한 인공지능(AI) 기반 영상 기술과 다중 오믹스 바이오마커의 결합이 조기 진단 가능성을 높이고 있습니다.
-
-- 췌장은 복부 깊은 곳에 위치하여 초기 증상이 모호하므로 진단 시 수술이 가능한 환자는 소수에 불과합니다.
-- 만성 췌장염, 비만, 흡연, 유전 변이(BRCA1/2)와 함께 신규 발병 당뇨병(NOD)이 주요 위험 인자이자 경고 징후로 주목받고 있습니다.
-- 기존 CA 19-9의 한계를 보완하기 위해 순환 종양 DNA, 엑소좀 표지자, 인공지능 영상 기술을 융합한 조기 진단 전략이 개발되고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877528/) · [DOI](https://doi.org/10.3389/fgstr.2026.1731223) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13662742/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877528)</small>
-
----
-<a id="pmid-42870282"></a>
-#### [췌장암 증식 억제를 위한 anti-miR-221과 젬시타빈 동시 전달 중간엽 줄기세포 유래 엑소좀 연구](https://pubmed.ncbi.nlm.nih.gov/42870282/)
-<small>MSC-derived exosomes co-delivering anti-miR-221 and gemcitabine for inhibiting the proliferation of pancreatic cancer</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-08-26 · PubMed · J Transl Med · 중요도 0.54
-
-본 연구는 인간 제대혈 중간엽 줄기세포(MSC)에서 유래한 엑소좀(exosome)을 운반체로 활용하여 miR-221을 억제하는 안티센스 올리고뉴클레오타이드(anti-miR-221)와 젬시타빈(gemcitabine)을 동시에 전달하는 치료법을 평가했습니다. 췌장암 세포주(Panc-1) 및 동물 모델에서 동시 탑재 엑소좀은 단독 투여군 대비 종양 세포 증식과 종양 크기를 가장 크게 억제했습니다. 또한 세포자멸사를 유도하는 Caspase-3 단백질은 증가시키고 혈관 생성을 돕는 VEGF 단백질은 감소시켰습니다. 젬시타빈 단독 투여 시 관찰된 간 및 신장 조직 손상이 엑소좀 투여군에서는 나타나지 않아 낮은 장기 독성을 보였습니다.
-
-- anti-miR-221과 젬시타빈을 함께 탑재한 엑소좀 투여군은 단일 치료군들 대비 종양 부피와 무게를 유의하게 감소시켰습니다(P < 0.01).
-- 동시 탑재 엑소좀은 종양 조직 내 세포자멸사 관련 단백질인 Caspase-3를 증가시키고 VEGF 단백질을 감소시켰습니다(P < 0.01).
-- 젬시타빈 단독 투여에서 나타난 간 및 신장 병리적 손상이 엑소좀 탑재군에서는 관찰되지 않아 안전성을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870282/) · [DOI](https://doi.org/10.1186/s12967-026-08764-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13663053/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870282)</small>
-
----
-<a id="pmid-42869082"></a>
-#### [췌장선암 NCCN 임상 실무 지침, 버전 4.2026](https://pubmed.ncbi.nlm.nih.gov/42869082/)
-<small>Pancreatic Adenocarcinoma, Version 4.2026, NCCN Clinical Practice Guidelines In Oncology</small>
-
-`논문` `가이드라인` `치료 전반` `진단·조기발견` · 2026-10-01 · PubMed · J Natl Compr Canc Netw · 중요도 0.84
-
-이 문헌은 췌장선암에 대한 미국 종합 암 네트워크(NCCN)의 임상 실무 지침 개정판을 소개합니다. 수술 가능, 경계성 수술 가능, 수술 불가능, 국소진행성 및 전이성 질환 전반에 걸친 다학제적 진단 검사, 병기 설정, 치료 권고안을 다룹니다. 가이드라인에 포함된 포괄적인 치료 권고의 근거가 되는 연구 결과들과 패널 논의 내용을 요약했습니다.
-
-- 수술 가능, 국소진행성, 전이성 등 질환의 모든 병기에 대한 다학제적 진단 및 치료 권고사항을 포함합니다.
-- NCCN 패널의 논의 내용과 최신 임상 연구 근거를 바탕으로 포괄적인 치료 지침을 제시합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869082/) · [DOI](https://doi.org/10.6004/jnccn.2026.0046) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869082)</small>
-
----
-<a id="pmid-42863132"></a>
-#### [췌관선암 수술 후 국소 재발과 수술 후 섬유화를 감별하기 위한 광자 계수 CT 스펙트럼 분석 예비 연구](https://pubmed.ncbi.nlm.nih.gov/42863132/)
-<small>A Pilot Study of Photon Counting CT Spectral Analysis Following Pancreatic Adenocarcinoma Resection to Differentiate Local Recurrence From Postsurgical Fibrosis</small>
-
-`논문` `관찰연구` `진단·조기발견` `수술` · 2026-10-12 · PubMed · J Comput Assist Tomogr · 중요도 0.77
-
-췌관선암(PDAC) 수술 후 수술 부위에 생긴 연부조직이 국소 재발인지 양성 수술 후 섬유화인지 감별하기 위해 광자 계수 CT(PCCT)의 스펙트럼 지표를 평가한 후향적 연구입니다. 수술 후 PCCT를 시행한 환자 22명을 대상으로 요오드 밀도, 대동맥 대비 표준화 요오드 밀도(I%), 세포외용적(ECV) 등의 지표를 분석했습니다. 췌장 실질기 영상에서 재발군은 비재발군에 비해 조영 증강, 요오드 밀도, 세포외용적 수치가 유의하게 높았습니다. 연구진은 PCCT 스펙트럼 지표가 수술 후 국소 재발과 섬유화를 감별하는 데 우수한 진단 성능을 보였다고 결론지었습니다.
-
-- 췌장 실질기 영상에서 요오드 밀도 중앙값은 비재발군 0.6 mg/mL, 재발군 1.8 mg/mL로 재발군에서 유의하게 높았습니다(P<0.001).
-- 세포외용적(ECV) 14.0 mL 기준값과 표준화 요오드 밀도(I%) 20.3% 기준값은 각각 민감도 100%, 특이도 100%(AUC=1.00)의 우수한 감별 진단 성능을 보였습니다.
-- 판독자 간 일치도(ICC)는 0.86~0.96으로 거의 완벽한 일치 수준을 나타냈습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42863132/) · [DOI](https://doi.org/10.1097/RCT.0000000000001935) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42863132)</small>
-
----
-<a id="pmid-42867593"></a>
-#### [임상적 무전이(M0) 췌장암에서 잠재 전이의 예측 인자: 병기 결정 복강경에 대한 전향적 다기관 분석](https://pubmed.ncbi.nlm.nih.gov/42867593/)
-<small>Predictive Factors for Occult Metastases in Clinically M0 Pancreatic Cancer: A Prospective Multicenter Analysis of Staging Laparoscopy</small>
-
-`논문` `관찰연구` `수술` `진단·조기발견` · 2026-10-13 · PubMed · Ann Surg Oncol · 중요도 0.77
-
-영상 검사에서 전이가 보이지 않는 췌장암 환자 199명을 대상으로 진단적 복강경 검사(SL)를 시행하여 숨겨진 잠재 전이를 예측하는 인자를 전향적으로 분석했습니다. 복강경 검사를 통해 전체 환자의 25.1%에서 잠재 전이가 발견되었으며, 절제 가능 췌장암은 20.6%, 경계성 절제 가능 또는 국소진행 췌장암은 33.8%였습니다. 선행치료를 받지 않은 환자군에서는 경계성 절제 가능 또는 국소진행 상태와 췌장 체부·미부 병변이 잠재 전이의 독립적인 위험 인자였습니다. 연구진은 진행성 병기에서 진단적 복강경의 중요성을 강조하면서, 절제 가능 췌두부암이면서 종양표지자가 정상인 환자는 복강경 생략을 고려해 볼 수 있다고 보고했습니다.
-
-- 영상에서 전이가 확인되지 않았던 췌장암 환자의 25.1%에서 진단적 복강경 검사를 통해 잠재 전이가 확인되었습니다.
-- 선행치료를 받지 않은 환자에서 경계성 절제 가능/국소진행 병기(위험비 3.261)와 췌장 체부/미부 위치(위험비 2.653)가 잠재 전이의 독립적인 위험 요인이었습니다.
-- 절제 가능 췌장암(107명)에서는 체부/미부 위치, 큰 종양 크기, 종양표지자(CA19-9) 상승이 잠재 전이와 유의하게 연관되어 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42867593/) · [DOI](https://doi.org/10.1245/s10434-026-20728-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42867593)</small>
-
----
-<a id="pmid-42870132"></a>
-#### [차세대 염기서열 분석을 통한 드라이버 돌연변이 프로파일링이 췌관선암의 근치적 절제술 후 생존 및 재발을 예측함: 유전체 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42870132/)
-<small>Driver mutation profiling by next-generation sequencing predicts survival and recurrence after curative-intent resection for pancreatic ductal adenocarcinoma: a genomic cohort study</small>
-
-`논문` `관찰연구` `진단·조기발견` `수술` `치료 전반` `신약·치료제` · 2026-10-13 · PubMed · Clin Transl Oncol · 중요도 0.77
-
-이 연구는 근치적 절제술을 받은 췌장암(췌관선암) 환자 188명을 대상으로 차세대 염기서열 분석(NGS)을 시행하여 주요 드라이버 돌연변이가 수술 후 예후에 미치는 영향을 분석했습니다. 분석 결과 대상 환자의 전체생존기간 중앙값은 27.1개월이었으며, 재발까지의 시간 중앙값은 10.8개월이었습니다. 다변량 분석에서 TP53 돌연변이는 더 짧은 전체생존기간과 관련이 있었고, CDKN2A 돌연변이는 더 짧은 재발 기간과 연관되어 있었습니다. 연구진은 수술 전후 유전자 검사가 위험군 분류에 도움을 줄 수 있으며 향후 전향적 다기관 검증이 필요하다고 결론지었습니다.
-
-- 환자 188명 중 KRAS 돌연변이가 84.6%로 가장 흔했고, TP53(61.7%), CDKN2A(33.0%), SMAD4(18.1%), BRCA2(3.2%) 순이었습니다.
-- TP53 돌연변이는 사망 위험 증가(위험비 1.65, 95% CI 1.02-2.66)와 유의하게 연관되었습니다.
-- CDKN2A 돌연변이는 재발 위험 증가(위험비 1.69, 95% CI 1.19-2.39)와 관련이 있었으며, KRAS 돌연변이는 비돌연변이형 대비 불량한 병리학적 반응과 연관되었습니다(오즈비 4.45).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870132/) · [DOI](https://doi.org/10.1007/s12094-026-04564-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870132)</small>
-
----
-<a id="pmid-42873430"></a>
-#### [수술을 받은 췌장관선암 환자의 진단 및 치료 지연과 건강의 사회적 결정요인의 연관성](https://pubmed.ncbi.nlm.nih.gov/42873430/)
-<small>Association of Social Determinants of Health with Delays in Diagnosis and Treatment of Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
-
-`논문` `관찰연구` `수술` `진단·조기발견` `치료 전반` · 2026-10-14 · PubMed · Ann Surg Oncol · 중요도 0.77
-
-이 연구는 수술을 받은 췌장관선암(PDAC) 환자에서 건강의 사회적 결정요인(SDoH)이 진단 및 치료 지연에 미치는 영향을 분석했습니다. 2016년부터 2024년까지 고용량 의료기관에서 수술을 받은 317명의 환자를 대상으로 보험 상태, 소득, 교육 수준 등의 요인을 조사했습니다. 연구 결과 첫 영상 검사부터 조직 진단까지 중앙값은 11일, 치료 시작까지는 중앙값 40일이 소요되었습니다. 외래 환자군에서는 메디케어(Medicare) 보험 환자가 사보험 환자에 비해 진단 지연 위험이 높았고, 응급실 내원 환자군에서는 교육 수준이 높을수록 진단 및 치료 지연 위험이 유의하게 낮았습니다.
-
-- 첫 영상 검사에서 조직 진단까지 중앙값은 11일(사분위범위 3~27일), 치료 시작까지는 중앙값 40일(사분위범위 27~59일)이 걸렸습니다.
-- 외래 환자에서 메디케어 보험 적용자는 사보험자에 비해 진단 지연 위험이 3.34배 높았으며, 고소득은 치료 지연 위험을 최대 84% 낮췄습니다.
-- 응급실로 내원한 환자에서는 높은 교육 수준이 진단 지연(OR 0.27) 및 치료 지연(OR 0.33)의 위험을 낮추는 요인이었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42873430/) · [DOI](https://doi.org/10.1245/s10434-026-20419-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42873430)</small>
-
----
-<a id="pmid-42866548"></a>
-#### [정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42866548/)
-<small>Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review</small>
-
-`논문` `종설` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-10-08 · PubMed · Int Med Case Rep J · 중요도 0.72
-
-결핵 유행 지역에서도 극히 드문 질환인 췌장 결핵(Pancreatic TB)이 임상적 및 영상의학적으로 췌장 악성 종양과 매우 유사하게 나타난 증례 보고입니다. 34세 아프가니스탄 남성이 췌장 머리 부분에 57×30 mm 크기의 종괴가 발견되어 췌장암 의심 하에 휘플 수술(Whipple resection)을 받았습니다. 수술 후 조직 검사에서 결핵균(Mycobacterium tuberculosis)에 의한 건락성 육아종성 염증으로 최종 진단되었으며 항결핵제 치료가 시작되었습니다. 환자는 10개월간의 추적 관찰 동안 재발 없이 안정적인 상태를 유지했습니다.
-
-- 복부 CT에서 췌장 머리에 57×30 mm 크기의 다낭성 저음영 종괴와 경미한 CA19-9 상승을 보여 수술 전 췌장암으로 강하게 의심되었습니다.
-- 휘플 수술 후 시행된 조직 검사 및 질-닐슨(Ziehl-Neelsen) 염색을 통해 결핵균 양성 췌장 결핵으로 확진되었습니다.
-- 결핵 유행 지역 출신의 젊은 환자에서 췌장 종괴가 관찰될 경우 내시경 초음파 유도하 세침흡인/생검(EUS-FNA/FNB) 등을 통해 불필요한 침습적 수술을 피할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866548/) · [DOI](https://doi.org/10.2147/IMCRJ.S638587) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13656929/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866548)</small>
-
----
-<a id="pmid-42867514"></a>
-#### [전신 항암화학요법 후 국소 췌관선암의 원발 종양 재병기 설정: CT, FDG-PET 및 CA19-9의 역할에 관한 주제 범위 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42867514/)
-<small>Restaging the primary tumor in localized pancreatic ductal adenocarcinoma after systemic therapy: a scoping review of the role of CT, FDG-PET, and CA19-9</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` · 2026-10-13 · PubMed · Eur Radiol · 중요도 0.72
-
-다제 병용 항암화학요법의 발전으로 국소 췌관선암 환자에서 항암치료 후 병기를 다시 평가하는 과정이 점차 복잡해지고 있습니다. 본 연구는 선행 치료를 받은 국소 췌장암 환자에서 CT와 양전자방출단층촬영(PET/CT) 등을 활용한 재병기 평가 방법이 수술 가능성, 전체 생존기간(OS), 완전 절제(R0 절제)율과 어떤 연관이 있는지 분석한 20편의 연구를 종합 검토했습니다. 분석 결과, 기존의 고형종양 반응평가기준(RECIST 1.1)은 부분 반응(PR) 및 안정 병변(SD) 평가에서 한계를 보였으며 단독으로 생존율과 R0 절제율을 일관되게 예측하는 단일 평가법은 없었습니다. 연구진은 수술 가능성과 예후를 보다 정확히 평가하기 위해 추가적인 영상 지표 및 CA19-9 종양표지자를 통합 평가해야 한다고 제시했습니다.
-
-- 총 4,680건의 문헌 중 기준을 충족한 20건의 연구(CT 연구 15건, PET/CT 연구 5건)를 종합 분석했습니다.
-- 기존의 RECIST 1.1 기준은 부분 반응 및 안정 병변 환자의 실제 반응 평가에 정확도 한계를 보였습니다.
-- 모든 연구에서 R0 완전 절제 및 생존기간 모두와 일관된 연관성을 입증한 단일 재병기 평가법은 확인되지 않았습니다.
-- 수술 기회를 놓치지 않고 예후를 정밀하게 예측하기 위해 추가 영상 특성과 CA19-9 수치의 통합적 활용이 필요합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42867514/) · [DOI](https://doi.org/10.1007/s00330-026-12954-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42867514)</small>
-
----
-<a id="pmid-42870874"></a>
-#### [전립선암 및 췌장암 조직 내 림프구 응집체의 다중 모달 공간 글라이코믹스 분석](https://pubmed.ncbi.nlm.nih.gov/42870874/)
-<small>Multi-modal spatial glycomic analysis of lymphoid aggregates in prostate and pancreatic cancer tissues</small>
-
-`논문` `관찰연구` `기초연구` `진단·조기발견` · 2026-09-29 · PubMed · Front Oncol · 중요도 0.68
-
-면역요법에 반응이 좋지 않은 췌관선암(PDAC) 환자 26명과 전립선암(PCa) 환자 49명의 종양 조직을 분석한 기초 연구입니다. 연구진은 기질 보조 레이저 탈착 이온화 질량분석 이미징(MALDI-MSI)과 면역조직화학 기법을 결합하여 조직 내 림프구 응집체(LAs)의 N-당화(N-glycosylation)와 면역 지표의 공간적 분포를 매핑했습니다. 분석 결과, 림프구 응집체 및 주변 미세환경에서 올리고-만노오스 등을 포함한 세 가지 주요 N-당화 구조와 면역세포 분포 양상이 확인되었습니다. 이러한 분석은 면역학적으로 반응이 낮은 암종의 면역 미세환경 내 분자적 이질성을 이해하는 데 기초 단서를 제공합니다.
-
-- 췌관선암 환자 26명 및 전립선암 환자 49명의 조직 샘플을 대상으로 림프구 응집체의 N-당화 패턴을 분석했습니다.
-- 림프구 응집체 보유 조직에서 올리고-만노오스(oligo-mannose), 푸코실화 사안테나(fucosylated tetra-antennary) 등 3가지 주요 N-당류 구조적 계열이 확인되었습니다.
-- 림프구 응집체 내부에서는 중심부의 CD20 및 CD44 신호와 종양 주변부를 둘러싼 CD3 신호가 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870874/) · [DOI](https://doi.org/10.3389/fonc.2026.1935795) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13658005/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870874)</small>
-
----
-<a id="pmid-42869687"></a>
-#### [TRIM29가 면역 재구성을 통해 췌관선암의 진행을 촉진할 수 있음](https://pubmed.ncbi.nlm.nih.gov/42869687/)
-<small>TRIM29 may facilitate progression of pancreatic ductal adenocarcinoma through immune remodeling</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-07 · PubMed · Pancreatology · 중요도 0.64
-
-본 연구는 췌관선암(PDAC)에서 진단적 가치와 생물학적 중요성을 지닌 바이오마커를 찾기 위해 548개 췌장 검체 데이터와 머신러닝 분석을 수행했습니다. 분석 결과 TRIM29를 포함한 8개의 핵심 유전자가 도출되었으며, TRIM29는 암세포에서 발현이 높고 불량한 예후 및 CD8+ T세포 침윤 감소와 연관되어 있었습니다. 80쌍의 임상 검체와 세포 및 동물 실험에서 TRIM29 유전자를 억제했을 때 암세포의 증식과 침습이 줄어들고 종양 성장이 억제되며 면역세포 침윤이 증가함을 확인했습니다.
-
-- 548개 검체 분석을 통해 TRIM29를 비롯한 8개의 핵심 진단 후보 유전자를 규명했습니다.
-- TRIM29의 높은 발현은 환자의 불량한 예후, PI3K-AKT-mTOR 신호 활성화, 종양 내 CD8+ T세포 침윤 감소와 유의하게 연관되었습니다.
-- 동물 모델에서 TRIM29 발현을 억제했을 때 종양 성장이 억제되고 종양 내 CD8+ T세포 침윤이 증가했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869687/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.006) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869687)</small>
-
----
-<a id="pmid-42866755"></a>
-#### [경계성 절제 가능 췌관선암: 서술적 고찰](https://pubmed.ncbi.nlm.nih.gov/42866755/)
-<small>Borderline resectable pancreatic ductal adenocarcinoma: a narrative review</small>
-
-`논문` `종설` `수술` `치료 전반` `진단·조기발견` · 2026-09-02 · PubMed · Ann Med Surg (Lond) · 중요도 0.62
-
-이 종설 논문은 경계성 절제 가능(Borderline Resectable) 췌관선암(PDAC)의 진단, 치료 및 관리 접근법에 대한 최신 지견을 종합했습니다. 과거에는 수술이 불가능한 것으로 여겨졌으나, 선행 화학요법(neoadjuvant chemotherapy)의 발전으로 수술적 절제 가능성이 점차 높아지고 있습니다. 수술 전 선행 치료가 우선적으로 고려되지만, 최적의 치료법 선택 및 치료 불응 환자의 조기 선별에 관한 데이터는 여전히 제한적입니다. 선행 치료 후 절제 가능성을 평가하기 위해 다중검출기 컴퓨터단층촬영(MDCT), CA19-9, 양전자 방출 단층촬영(PET) 등이 활용되고 있습니다.
-
-- 경계성 절제 가능 췌장암은 선행 화학요법의 발전에 힘입어 절제율이 점차 향상되고 있습니다.
-- 수술 전 선행 치료가 최선의 선택이지만, 최적 치료 요법 선택과 불응군 조기 식별을 위한 근거는 아직 제한적입니다.
-- 선행 치료 후 절제 가능성 평가는 MDCT, CA19-9, PET 등을 종합적으로 활용하여 진행됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866755/) · [DOI](https://doi.org/10.1097/MS9.0000000000005565) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657568/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866755)</small>
-
----
-<a id="pmid-42866155"></a>
-#### [췌장암 의심 환자에서 복부에 비전형적으로 발생한 췌장성 지방층염 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866155/)
-<small>An Atypical Abdominal Presentation of Pancreatic Panniculitis in a Patient With Suspected Pancreatic Cancer: A Case Report</small>
-
-`논문` `증례` `진단·조기발견` `지지요법·삶의질` · 2026-09-12 · PubMed · Cureus · 중요도 0.54
-
-췌장 질환의 드문 합병증인 췌장성 지방층염(PP)이 복부 벽에 발생한 79세 췌장암 의심 남성 환자의 사례를 보고했습니다. 환자는 복벽에 약 10cm 크기의 통증을 동반한 홍반성 병변을 보였으며, 췌장 효소 수치(리파아제 157 IU/L, 췌장 아밀라아제 86 IU/L)의 상승 폭은 비교적 미미했습니다. 조직 생검을 통해 지방 괴사 및 유령 세포(ghost-like adipocytes) 소견을 확인하여 췌장성 지방층염으로 확진했습니다. 경구 loxoprofen(록소프로펜)을 투여한 대증 치료를 통해 통증과 부종이 서서히 호전되었으며 60일째에 병변이 뚜렷하게 호전되었습니다.
-
-- 췌장성 지방층염은 주로 하지에 발생하나, 본 증례에서는 복벽에 약 10cm 크기의 비전형적인 병변으로 나타났습니다.
-- 광범위한 복벽 병변에도 불구하고 리파아제(157 IU/L) 및 췌장 아밀라아제(86 IU/L) 상승은 경미했습니다.
-- 조직학적 검사를 통해 확진 후 경구 소염진통제(loxoprofen) 투여로 60일 차에 병변이 현저하게 호전되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866155/) · [DOI](https://doi.org/10.7759/cureus.116124) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655839/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866155)</small>
-
----
-<a id="pmid-42866363"></a>
-#### [전이성 췌관선암에서 1차 S-1 단독요법에 매우 긴 기간 반응을 보인 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866363/)
-<small>Exceptionally Durable Response to First-Line S-1 Monotherapy in Metastatic Pancreatic Adenocarcinoma: A Case Report</small>
-
-`논문` `증례` `신약·치료제` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-09-12 · PubMed · Cureus · 중요도 0.54
-
-다발성 간 전이가 의심되는 전이성 췌관선암 환자에게 경구 항암제인 S-1(tegafur/gimeracil/oteracil) 단독요법을 1차 치료로 시행한 드문 증례 보고입니다. 76세 남성 환자에게 S-1을 투여한 결과, 췌장 종양과 간 병변이 점차 축소되었고 종양표지자 CA19-9가 빠르게 정상화되었습니다. 치료 시작 약 14개월 후 CT상 병변이 뚜렷하게 관찰되지 않았으며, 약 47개월 동안 질병 진행 없이 유의미한 반응이 유지되었습니다. 환자는 이후 약제 유발 간질성 폐질환(ILD) 등이 의심되는 호흡 부전으로 사망하였으나, 전이성 췌장암에서 S-1 단독요법으로도 극히 예외적인 장기 반응이 나타날 수 있음을 보여줍니다.
-
-- 76세 전이성 췌장암 의심 환자에게 1차 치료로 S-1 경구 단독요법(100 mg/일, 2주 투약 2주 휴약)을 시행했습니다.
-- 치료 후 종양 축소 및 CA19-9 정상화를 보였으며, 약 47개월 동안 방사선학적 질병 진행이 없었습니다.
-- 치료 14개월 시점에는 CT 검사에서 원발 췌장 종양과 간 전이 의심 병변이 뚜렷하게 관찰되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866363/) · [DOI](https://doi.org/10.7759/cureus.116149) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657664/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866363)</small>
-
----
-<a id="pmid-42866830"></a>
-#### [췌십이지장절제술 후 췌장공장문합술 내부 스텐트의 장벽 통과 이동으로 인한 지연성 복강 내 패혈증: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866830/)
-<small>Transmural migration of an internal pancreaticojejunostomy stent causing delayed intra-abdominal sepsis: a case report</small>
-
-`논문` `증례` `수술` `지지요법·삶의질` `진단·조기발견` · 2026-08-11 · PubMed · Gland Surg · 중요도 0.54
-
-췌장선암(pancreatic adenocarcinoma)으로 췌십이지장절제술(pancreaticoduodenectomy)을 받고 내부 췌장공장문합술(pancreaticojejunostomy, PJ) 스텐트를 삽입한 63세 여성 환자의 증례입니다. 수술 후 8일째에 발열, 백혈구 증가증, 복통이 발생하여 복부 컴퓨터단층촬영(CT)에서 췌장 주위 체액 및 가스 저류가 관찰되었습니다. 초음파 검사를 통해 췌관 스텐트가 공장 벽을 뚫고 장간막으로 이동하여 장 내용물이 유출되는 천공이 확인되었습니다. 스텐트 제거 및 결손 부위 수술 후 환자는 패혈증이 호전되어 안정된 상태로 퇴원했습니다.
-
-- 63세 여성 환자가 췌십이지장절제술 후 내부 췌장공장문합술 스텐트의 장벽 통과 이동(transmural migration)으로 인한 합병증을 겪었습니다.
-- 수술 후 8일째에 발열, 백혈구 증가증, 복통과 함께 복강 내 패혈증이 발생했습니다.
-- 배액관 아밀라아제 수치가 정상이었음에도 불구하고 탐색적 개복술을 통해 스텐트에 의한 장 천공과 장 내용물 누출이 확인되었습니다.
-- 스텐트 제거 및 수술적 치료 후 환자의 패혈증이 해결되고 안정된 상태로 퇴원했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866830/) · [DOI](https://doi.org/10.21037/gs-2026-0237) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657713/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866830)</small>
-
----
-<a id="pmid-42869079"></a>
-#### [빌로스 2식(Billroth II) 수술 후 해부학적 구조에서 단일 내시경을 활용한 췌장 종괴의 발견](https://pubmed.ncbi.nlm.nih.gov/42869079/)
-<small>Double Duty, Single Scope: Unmasking a Pancreatic Mass in Billroth II Anatomy</small>
-
-`논문` `증례` `진단·조기발견` `치료 전반` · 2026-10-13 · PubMed · J Gastroenterol Hepatol · 중요도 0.54
-
-본 논문은 과거 빌로스 2식(Billroth II) 부분 위절제술을 받아 소화관 구조가 변형된 환자에서 단일 내시경을 활용하여 췌장 종괴를 확인한 사례를 다룬 증례 보고입니다. 변형된 해부학적 구조를 가진 환자에서 췌장 병변에 접근하고 진단하는 내시경적 방법을 제시합니다. 제공된 원문에 상세 초록 내용이 포함되지 않아 구체적인 시술 경과나 환자 수치는 명시되지 않았습니다.
-
-- 빌로스 2식(Billroth II) 수술 병력이 있어 해부학적으로 접근이 어려운 환자에서 단일 내시경으로 췌장 종괴를 진단했습니다.
-- 구체적인 시술 기법, 조직 검사 결과 및 환자 수치는 제공된 본문에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869079/) · [DOI](https://doi.org/10.1111/jgh.70804) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869079)</small>
-
----
-<a id="pmid-42869149"></a>
-#### [METTL10에 의한 eEF1A의 K318 삼중메틸화가 단백질 합성 및 종양 형성을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42869149/)
-<small>METTL10 trimethylation of eEF1A at K318 enhances protein synthesis and tumorigenesis</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-13 · PubMed · J Biol Chem · 중요도 0.54
-
-본 연구는 번역 신장 인자인 eEF1A의 특정 라이신 잔기(K318)를 삼중메틸화하는 효소 METTL10의 분자적 기능을 규명했습니다. 연구진은 METTL10-eEF1AK318me3 축이 전반적인 단백질 합성을 촉진하고 췌관선암(PDAC)의 종양 형성을 돕는다는 사실을 확인했습니다. 췌관선암 환자 종양에서 eEF1AK318me3 수치가 높을수록 불량한 예후와 연관되어 있었습니다. 또한 KRAS G12D 변이 기반 췌관선암 동물(마우스) 모델에서 METTL10을 제거했을 때 종양 성장이 억제되고 생존기간이 연장되었습니다.
-
-- METTL10에 의한 eEF1A K318 부위 삼중메틸화는 암세포의 전반적인 단백질 합성을 촉진합니다.
-- 췌관선암 환자 조직에서 eEF1AK318me3의 발현 증가가 불량한 예후와 관련이 있었습니다.
-- KRAS G12D 유도 췌관선암 마우스 모델에서 METTL10을 제거하면 종양 성장이 지연되고 생존기간이 연장되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869149/) · [DOI](https://doi.org/10.1016/j.jbc.2026.113635) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869149)</small>
-
----
-<a id="pmid-42861634"></a>
-#### [산화아연-팔라듐 나노볼트 기반 췌장암 바이오마커 면역분석 검출 및 소프트웨어 기반 디지털 정량화](https://pubmed.ncbi.nlm.nih.gov/42861634/)
-<small>ZnO-Pd nanobolts-based immunoanalytical detection of a pancreatic cancer biomarker and its software-assisted digital quantification</small>
-
-`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-12 · PubMed · Nanoscale Horiz · 중요도 0.56
-
-췌장암 바이오마커인 CA19-9를 조기에 정밀하게 검출하기 위해 산화아연-팔라듐(ZnO-Pd) 나노볼트 나노자임을 활용한 새로운 면역 센서가 개발되었습니다. 연구진은 효소 유사 활성을 지닌 나노볼트에 항체를 결합하고 스마트폰 소프트웨어 신호 분석을 결합하여 극미량의 CA19-9도 감지할 수 있도록 설계했습니다. 이 면역분석법은 인체 혈청 샘플에서도 100.6%~102%의 높은 회수율을 보이며 뛰어난 정확성과 재현성을 입증했습니다. 이는 향후 휴대 가능하고 경제적인 췌장암 현장 현장진단(POC) 기기로의 활용 가능성을 보여줍니다.
-
-- 새로 개발된 센서의 검출 한계(LOD)는 0.000159 U/mL, 정량 한계(LOQ)는 0.000482 U/mL로 매우 높은 민감도를 기록했습니다.
-- 소프트웨어를 통한 신호 처리 시에도 검출 한계 0.000359 U/mL, 정량 한계 0.00108 U/mL의 정밀한 측정이 가능했습니다.
-- 인체 혈청 검사에서 100.6%~102%의 회수율을 보여 복잡한 생체 시료 내에서도 우수한 정확도를 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42861634/) · [DOI](https://doi.org/10.1039/d6nh00197a) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42861634)</small>
-
----
-<a id="doi-10.64898-2026.10.08.757715"></a>
-#### [나노포어 분석 기반 유방암 및 췌장암 유전체에서 unduliner를 활용한 체세포 변이와 DNA 메틸화 변화의 연계 분석](https://europepmc.org/article/PPR/PPR1338940)
-<small>Linking somatic variants to altered methylation profiles in nanopore-derived breast and pancreatic cancer genomes using unduliner</small>
-
-`프리프린트` `전임상` `기초연구` `진단·조기발견` · 2026-10-11 · Europe PMC (preprint) · bioRxiv · 중요도 0.50
-
-연구진은 나노포어 시퀀싱 데이터를 활용해 체세포 변이와 DNA 메틸화 패턴 변화 간의 연관성을 예측하는 인공신경망 기반 분석 모델 'unduliner'를 개발했습니다. 이 딥러닝 모델은 검증 데이터셋에서 80.3%, 독립 테스트 데이터셋에서 89.7%의 정확도를 기록했습니다. 췌관선암(PDAC) 검체에 적용한 결과, 종양-정상 조직 간 차등 메틸화 영역(DMR) 및 종양 내 메틸화 변화와 관련된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 식별했습니다. 이를 통해 기존 유전 변이 예측 도구를 넘어 암 유전체 변이의 기능적 영향을 폭넓게 해석할 수 있는 가능성을 제시했습니다.
-
-- 인공지능 모델 unduliner는 검증 데이터셋에서 80.3%, 별도 시험 데이터셋에서 89.7%의 예측 정확도를 보였습니다.
-- 췌관선암(PDAC) 검체에서 종양-정상 간 차등 메틸화 영역(DMR) 등과 연관된 코딩 및 비코딩 단일염기변이(SNV)와 구조변이(SV)를 확인했습니다.
-- 변이 정보와 더불어 메틸화 변화의 방향(증가 또는 감소), 변화 크기, 유전체 상의 위치 정보를 함께 제공합니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1338940) · [DOI](https://doi.org/10.64898/2026.10.08.757715) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.08.757715)</small>
-
----
-<a id="nct-nct07867873"></a>
-#### [유도 항암치료 후 양호한 생물학적 반응을 보인 국소진행성 췌장암 환자에서 수술 대 MRI 유도 정위적 절제 방사선치료 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT07867873)
-<small>Surgery Versus Stereotactic Ablative Radiotherapy for Patients With Locally Advanced Pancreatic Cancer With Favourable Biological Response Following Induction Chemotherapy</small>
-
-`임상시험` `3상` `수술` `치료 전반` `진단·조기발견` · 2026-10-09 · ClinicalTrials.gov · Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA) · 중요도 0.96
-
-**NCT07867873** · 3상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07867873.md)
-
-유도 항암화학요법(induction chemotherapy)에 양호한 반응을 보인 국소진행성 췌관선암(LAPC) 환자를 대상으로 수술적 절제술과 MRI 유도 정위적 절제 방사선치료(SABR)의 효과를 비교하는 다국가 3상 무작위 배정 임상시험입니다. 최소 3개월 동안 전신 유도 항암치료를 받은 후 질환이 진행하지 않고 종양 표지자(CA19-9) 감소 등 생물학적 반응이 나타난 환자 230명을 대상으로 진행됩니다. 환자들은 수술적 절제군 또는 MRI 유도 SABR군으로 무작위 배정되어 전체 생존기간(OS) 개선 여부를 평가받게 됩니다.
-
-- 최소 3개월의 유도 전신 항암치료 후 질환이 진행하지 않고 생물학적 반응을 보인 국소진행성 췌장암 환자 230명을 대상으로 합니다.
-- 수술적 탐색 및 절제술과 MRI 유도 정위적 절제 방사선치료(SABR)를 직접 비교하여 전체 생존기간(OS) 향상 여부를 검증합니다.
-- 이차 평가변수로는 무실패 생존기간, 환자의 삶의 질, 중대한 이상반응 발생률을 조사합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07867873) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07867873)</small>
-
----
-<a id="nct-nct03245541"></a>
-#### [국소진행성 및 경계성 절제 가능 췌장암 환자를 위한 더발루맙과 정위 체부 방사선 치료(SABR) 병용요법 1/2상 임상시험](https://clinicaltrials.gov/study/NCT03245541)
-<small>Radiation Therapy in Combination With Durvalumab for People With Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2017-08-10 · ClinicalTrials.gov · Memorial Sloan Kettering Cancer Center · 중요도 0.87
-
-**NCT03245541** · 1상/2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03245541.md)
-
-이 임상시험은 국소진행성 또는 경계성 절제 가능 췌장암 환자를 대상으로 표준 정위 체부 방사선 치료(SABR)와 면역관문억제제인 durvalumab(더발루맙)을 병용 투여할 때의 유효성과 안전성을 평가합니다. 참여 대상은 사전에 3~6개월간 FOLFIRINOX(폴피리녹스) 항암치료를 받고 질병이 진행하지 않고 안정(SD 이상)된 상태를 유지한 성인 환자입니다. 연구진은 병용 치료의 종양 억제 효과와 발생 가능한 부작용을 확인하고자 합니다.
-
-- 국소진행성 또는 경계성 절제 가능 췌장암 환자 18명을 대상으로 진행되는 1/2상 연구입니다.
-- 등록 전 3~6개월간 FOLFIRINOX 항암치료를 받고 질병 진행이 없었던 환자만을 대상으로 합니다.
-- 정위 체부 방사선 치료(SABR)와 durvalumab(더발루맙) 병용의 안전성 및 효과를 탐색합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT03245541) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03245541)</small>
 
 ---

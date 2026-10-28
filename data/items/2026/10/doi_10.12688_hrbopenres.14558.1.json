@@ -1,0 +1,62 @@
+{
+ "abstract": "Background Pancreatic cancer is an aggressive malignancy, with a five-year survival rate of approximately 10%. It carries a high symptom burden across all stages of disease and treatment trajectories. Rehabilitation, which has demonstrated benefits in other cancer populations, remains a relatively underexplored concept in pancreatic cancer. Emerging studies suggest that structured interventions may improve function, treatment tolerance, and quality of life; however, heterogeneity in study design, outcome measurement, and reporting hampers evidence synthesis and the formulation of clinical recommendations. To address this gap, the development of a Core Outcome Set (COS) for pancreatic cancer rehabilitation is warranted. Methods This protocol follows the Core Outcome Set – STandardised Protocol Statement (COS-STAP) guidance and the Core Outcome Set Standards for development (COS-STAD) recommendations. The COS will apply to adults with histologically confirmed pancreatic ductal adenocarcinoma undergoing any rehabilitative intervention across the cancer continuum. The COS will be developed in three sequential phases. In Phase 1, potential outcomes will be identified through a systematic review of existing rehabilitative studies, and semi-structured interviews with key stakeholders (patients, family members/caregivers, and healthcare professionals/researchers). In Phase 2, outcomes identified in Phase 1 will be prioritised using a multi-round electronic Delphi survey. In Phase 3, a consensus meeting with representatives from all stakeholder groups will finalise the COS. Discussion This study will deliver the first COS specific to pancreatic cancer rehabilitation, addressing the current inconsistency in outcome reporting and ensuring that future research captures domains relevant to all stakeholders. The COS will support the generation of high-quality, comparable evidence to inform clinical practice, improve patient-centred care, and optimise resource allocation. Ultimately, it will provide a unifying framework to guide rehabilitation research and care in this high-need population.  Registration: COMET database https://www.comet-initiative.org/Studies/Details/3383, PROSPERO database (CRD420250645743).",
+ "authors": [
+  "Brennan L",
+  "Smith V",
+  "Kirkham J",
+  "Lucey N",
+  "Sheill G",
+  "Deasy P",
+  "Doran P",
+  "O'Kane G"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.12688/hrbopenres.14558.1",
+ "importance": 0.63,
+ "key_points_ko": [
+  "췌장암의 5년 생존율은 약 10%이며 모든 단계에서 증상 부담이 큽니다.",
+  "연구는 문헌고찰, 환자와 의료진 인터뷰, 델파이 설문조사, 합의 미팅의 3단계로 진행됩니다.",
+  "이번 연구는 췌장암 재활 분야에서 최초로 핵심 결과 집합(COS)을 개발하여 연구의 일관성을 높이고자 합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": "10.12688/hrbopenres.14558.1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HRB Open Res",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1349737"
+ },
+ "summary_ko": "이 논문은 췌장암 재활 연구에서 일관성 없는 결과 보고 문제를 해결하기 위해 핵심 결과 집합(Core Outcome Set, COS)을 개발하는 프로토콜을 설명합니다. 췌장암 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 재활 중재 전반에 적용할 수 있는 표준화된 지표를 도출합니다. 연구는 문헌고찰과 인터뷰(1단계), 델파이 설문조사(2단계), 합의 미팅(3단계)의 세 단계로 진행됩니다. 궁극적으로 환자 중심의 돌봄을 개선하고 향후 임상 연구를 위한 통합적인 틀을 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development of a Core Outcome Set for Pancreatic Cancer Rehabilitation – A Study Protocol",
+ "title_ko": "췌장암 재활을 위한 핵심 결과 집합(COS) 개발 - 연구 프로토콜",
+ "trial": null,
+ "type": "preprint"
+}

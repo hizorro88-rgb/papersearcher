@@ -1,0 +1,112 @@
+{
+ "abstract": "Pancreatic cancer is the fifth leading cause of cancer mortality in Hong Kong and the seventh leading cause of cancer mortality worldwide. In 2020, approximately 496000 new cases of pancreatic cancers were diagnosed globally . Pancreatic cancer is a highly fatal cancer with a case-fatality rate of 94.0% globally. In Hong Kong, both the incidence and mortality of pancreatic cancer have increased over the past decade.\n\nDue to the deep-seated location of pancreas, it is difficult to diagnose pancreatic cancer at an early stage, which in turn leads to delays in cancer treatment and poorer survival. Despite advances in oncologic treatment, the 5-year survival rate of metastatic pancreatic cancer remains poor (\\~2.9%). As such, there has been growing interest to improve pancreatic cancer prevention and survival by:\n\n1. reduction of modifiable risk factors (eg, cigarette smoking, obesity, diabetes),\n2. screening for early detection of high-risk pre-malignant lesions in selected high-risks patients with strong family history of pancreatic cancer and/or certain germline mutations of pancreatic cancer susceptibility genes (eg, BRCA1, BRAC2, DNA mismatch repair genes in Lynch Syndrome, etc) by magnetic resonance imaging (MRI) or endoscopic ultrasound (EUS), and\n3. surveillance of pre-malignant precursor lesions such as mucinous pancreatic cystic neoplasms (PCN) by imaging and/or EUS to identify high-risk neoplastic progression indicated for surgical resection.\n\nPancreatic cancer is the fifth leading cause of cancer mortality in Hong Kong and the seventh leading cause of cancer mortality worldwide. In 2020, approximately 496000 new cases of pancreatic cancers were diagnosed globally . Pancreatic cancer is a highly fatal cancer with a case-fatality rate of 94.0% globally. In Hong Kong, both the incidence and mortality of pancreatic cancer have increased over the past decade.\n\nDue to the deep-seated location of pancreas, it is difficult to diagnose pancreatic cancer at an early stage, which in turn leads to delays in cancer treatment and poorer survival. Despite advances in oncologic treatment, the 5-year survival rate of metastatic pancreatic cancer remains poor (\\~2.9%). As such, there has been growing interest to improve pancreatic cancer prevention and survival by:\n\n1. reduction of modifiable risk factors (eg, cigarette smoking, obesity, diabetes),\n2. screening for early detection of high-risk pre-malignant lesions in selected high-risks patients with strong family history of pancreatic cancer and/or certain germline mutations of pancreatic cancer susceptibility genes (eg, BRCA1, BRAC2, DNA mismatch repair genes in Lynch Syndrome, etc) by magnetic resonance imaging (MRI) or endoscopic ultrasound (EUS), and\n3. surveillance of pre-malignant precursor lesions such as mucinous pancreatic cystic neoplasms (PCN) by imaging and/or EUS to identify high-risk neoplastic progression indicated for surgical resection\n\nThe prevalence of incidentally found pancreatic cystic lesions ranges from 2.1% to 13.5% in patients undergoing CT or MRI for non-pancreatic indications. In patients with pre-malignant mucinous PCN (intraductal papillary mucinous neoplasms (IPMN) and mucinous cystic neoplasms (MCN)), pancreatic cancer can originate from the pre-malignant PCN, or develop in other parts of the pancreas uninvolved by the original PCN due to \"field-defect\". While the malignant potentials of different PCNs vary, the frequency of invasive carcinoma and high-grade dysplasia in IPMN remains substantial, ranging from 36-100% in the main duct type (MD-IPMN) and from 14-48% in the branch duct type (BD-IPMN).\n\nMultiple consensus guidelines and society guidelines have been developed based on cyst structural characteristics and cyst related symptoms to guide management between surgical resection or surveillance of pre-malignant PCN. The 2017 revised international consensus guidelines (Fukuoka guidelines) recommend surgical resection for all MD-IPMN and BD-IPMN with high-risk stigmata of malignancy or worrisome features confirmed by EUS (definite mural nodule \\> 5mm, main pancreatic duct involvement (dilation / abrupt change in calibre), cytology suspicious or positive for malignancy on EUS guided fine needle aspiration). On the other hand, surveillance of asymptomatic BD-IPMN without high-risk stigmata or worrisome features would be performed with cross-sectional imaging and/or EUS periodically, with intervals tailored to the size of the BD-IPMN.\n\nAlthough the consensus guidelines and society guidelines have been widely applied in clinical practice, considerable variations in their sensitivity, specificity, positive and negative predictive values in predicting advanced neoplasia (high-grade dysplasia and invasive cancer) in pre-malignant PCN were reported in validation studies. As such, false-positive (recommending patients with low-risk PCN for a major surgery with considerable risks of morbidity/ mortality) or false-negative (missing a high-risk PCN with indication for surgery to prevent cancer development) prediction of malignant progression of mucinous PCN can still occur with significant clinical ramification. In addition, while cyst structural characteristics are traditional risk factors for neoplastic progression of PCN, these are not easily modifiable unless invasive procedures such as surgical resection or cyst ablation is performed. Therefore, it is of clinical importance to identify novel risk factors in pancreas that are potentially modifiable and may improve the current risk stratification algorithm for detection of high-risk lesions.\n\nPancreatic steatosis is an increasingly recognized important metabolic condition with a prevalence of 16% to 35% in Asian populations. Recent retrospective studies have suggested an increased risk of pancreatic cancer, IPMN and progression of BD-IPMN in patients with pancreatic steatosis. However, despite its potential role as a modifiable risk factor for pancreatic cancer and progression of pre-malignant PCN such as IPMN, the actual prevalence of pancreatic steatosis in patients with PCN is not known.\n\nWhile ultrasound, CT and MRI have been used for fat quantitation in organs, MRI is best suited for this purpose since its signal is dependent on fat content. In contrast to fat content assessment by ultrasound in which interobserver variability may undermine its reliability, the fat fraction measurements by MRI are reproducible and accurate, and have been validated against histology in animal models. In addition, MRI also has an advantage over CT since there is no risk of radiation exposure.\n\nPrevious work by our group has defined the normal range of fat content in pancreas (1.8% -10.4%) in the healthy Hong Kong population using MRI for fat quantification. The prevalence of fatty pancreas in healthy volunteers was found to be 16.1% when a pancreatic fat upper limit of normal of 10.4% was adopted. Our group has also shown that patients with fatty liver do not always have fatty pancreas. Among the 195 patients with fatty liver in our prior study, 82/195 (42.1%) had both fatty liver and fatty pancreas and 113/195 (57.9%) had fatty liver alone. Such observation suggested that pancreatic steatosis is likely a separate metabolic condition that deserves further investigation for its potential impact on important pancreatic pathologies such as pre-malignant PCN (eg, IPMN) and pancreatic cancer.\n\nBecause little is known about the prevalence of pancreatic steatosis in patients with PCN, we would like to propose a prospective, matched case-control study to determine the prevalence of pancreatic steatosis using MRI in patients with presumed IPMN or MCN and compare with that of age and sex matched healthy subjects in the general population.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-28",
+ "history": [
+  {
+   "date": "2026-10-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05334836",
+ "importance": 0.74,
+ "key_points_ko": [
+  "목표 연구 참가자 수는 총 236명입니다.",
+  "크기 5mm 이상의 췌장 낭종 환자 및 건강한 대조군을 대상으로 자기공명영상(MRI)을 통한 지방 정량 측정을 진행합니다.",
+  "췌장 지방변성과 고위험 췌장 낭종 간의 상관관계를 규명하는 것을 목적으로 합니다."
+ ],
+ "last_updated": "2026-10-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05334836"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2022-04-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chinese University of Hong Kong",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05334836"
+ },
+ "summary_ko": "본 연구는 췌장 지방변성(Pancreatic Steatosis)의 유병률을 조사하고 고위험 췌장 낭종 특성과의 상관관계를 분석하기 위한 연구입니다. 홍콩 쿵후 대학교(Chinese University of Hong Kong)에서 진행하며 총 236명의 연구 대상자를 모집합니다. 자기공명영상(MRI)을 통해 췌장 및 간의 지방량을 정량 측정하여 췌장암 전구 병변인 낭종의 위험도와 췌장 지방변성의 연관성을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Determination of Pancreatic Steatosis Prevalence and Correlation With High-risk Cyst Features",
+ "title_ko": "췌장 지방변성 유병률 및 고위험 췌장 낭종 특성과의 상관관계 분석 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Steatosis",
+   "Pancreatic Cyst"
+  ],
+  "contacts": [
+   {
+    "email": "felixsia@cuhk.edu.hk",
+    "name": "Felix Sia",
+    "phone": "26370428"
+   }
+  ],
+  "eligibility_ko": "선정 기준: • 만 18세 이상 성인 • CT, MRI, 내시경초음파(EUS) 검사에서 췌관내 유두상 점액 종양(IPMN) 또는 점액성 낭성 종양(MCN)으로 추정되는 5mm 이상의 췌장 낭성 병변이 있는 환자 또는 건강한 지원자 • 연구 동의서 작성이 가능한 자 제외 기준: • 금속 이식물 보유 등 MRI 검사 금기사항이 있는 경우 • 동반 질환으로 내시경 검사가 불가능한 경우 • 췌장암 진단 병력 또는 췌장 절제술을 받은 적이 있는 경우 • 유의미한 음주력이 있는 경우(남성 하루 20g 초과, 여성 하루 10g 초과)",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 or older\n2. Patients with at least 1 pancreatic cystic lesion presumed to be IPMN or MCN based on CT, MRI or EUS features, with a cyst size ≥ 5mm; or healthy subjects.\n3. Patients who are able to provide written informed consent to participate in the study and comply with the study procedures.\n\nExclusion Criteria:\n\n1. Unable to provide written informed consent\n2. Patients with metallic implants or other contraindications to MRI\n3. Patients with contraindications for endoscopy due to comorbidities\n4. Patients with known pancreatic cancer or prior pancreatic resection\n5. Patients with significant alcohol consumption, defined as alcohol intake of over 20 g daily (140 g weekly) for men and 10 g daily (70 g weekly) for women",
+  "enrollment": 236,
+  "has_results": false,
+  "interventions": [
+   "MRI for pancreatic fat and liver fat quantitation"
+  ],
+  "last_update_posted": "2026-10-27",
+  "location_countries": [
+   "Hong Kong"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "금속 이식물 등 MRI 검사 금기사항이 있는 경우",
+    "췌장암 진단 병력 또는 췌장 절제술 이력이 있는 경우",
+    "과도한 음주 습관이 있는 경우(남성 일 20g, 여성 일 10g 초과)"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "5mm 이상의 췌장 낭종 환자 또는 건강한 성인을 대상으로 췌장 지방변성과 낭종 위험도의 연관성을 평가하는 연구입니다.",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05334836",
+  "phase": "NA",
+  "primary_completion_date": "2027-04-30",
+  "sex": "ALL",
+  "sponsor": "Chinese University of Hong Kong",
+  "start_date": "2022-04-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}
