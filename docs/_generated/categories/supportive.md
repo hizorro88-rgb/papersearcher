@@ -16,12 +16,29 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 131건 · 최근 30일 131건
+전체 134건 · 최근 30일 134건
 
 월별 보기: [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07895498"></a>
+#### [췌장암 환자에서 daraxonrasib(다락소나십) 유발 피부 독성에 대한 ivermectin(이베르멕틴) 병용 표준 예방 치료의 효과 연구](https://clinicaltrials.gov/study/NCT07895498)
+<small>A Study of Standard of Care Drugs With or Without Ivermectin for Daraxonrasib-Induced Skin Toxicity in People With Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `지지요법·삶의질` · 2026-10-26 · ClinicalTrials.gov · Memorial Sloan Kettering Cancer Center · 중요도 0.90
+
+**NCT07895498** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07895498.md)
+
+본 연구는 daraxonrasib(다락소나십) 치료로 발생하는 피부 부작용(피부 독성)을 완화하기 위해 ivermectin(이베르멕틴)과 표준 예방 치료(SOCP)의 병용 효과를 평가하는 2상 임상시험입니다. 진행성 췌장관선암 환자를 대상으로 ivermectin과 표준 예방 치료 병용군을 표준 예방 치료 단독군과 비교합니다. 연구진은 설문 조사를 통해 치료법이 환자의 삶의 질에 미치는 영향도 함께 측정합니다.
+
+- daraxonrasib(다락소나십) 치료로 인한 피부 독성 예방 및 완화를 위해 ivermectin(이베르멕틴) 병용요법의 효과를 평가하는 2상 임상시험입니다.
+- 진행성 췌장관선암 환자 총 122명을 대상으로 표준 예방 치료 단독군과 비교합니다.
+- 치료에 따른 부작용 완화 정도와 함께 환자의 삶의 질 평가를 수행합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07895498) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07895498)</small>
+
+---
 <a id="pmid-42934316"></a>
 #### [사망에 임박한 진행성 췌장암 남녀 환자의 신체 이미지 고통 - MISTRAL 임상시험 사후 분석](https://pubmed.ncbi.nlm.nih.gov/42934316/)
 <small>Body image distress in women and men with advanced pancreatic cancer approaching death - post-hoc analyses from the MISTRAL-trial</small>
@@ -34,7 +51,82 @@ search:
 - 사망 전 6개월 동안 신체 이미지 고통(β = 3.54, 95% CI: 1.67-5.41)과 체중 걱정(β = 2.98, 95% CI: 0.53-5.44)이 유의하게 증가했습니다.
 - 변화 속도에서 남녀 간 통계적으로 유의한 차이는 없었으나, 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 호소하는 경향을 보였습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934316/) · [DOI](https://doi.org/10.1007/s00520-026-11420-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934316)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934316/) · [DOI](https://doi.org/10.1007/s00520-026-11420-4) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13710564/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934316)</small>
+
+---
+<a id="pmid-42946425"></a>
+#### [췌장암 환자의 사회인구학적 특성, 진단 시 병기 및 치료 접근성의 지역적 차이](https://pubmed.ncbi.nlm.nih.gov/42946425/)
+<small>Regional Differences in Sociodemographic Characteristics, Stage at Diagnosis, and Access to Care Among Patients With Pancreatic Cancer</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `진단·조기발견` · 2026-11-01 · PubMed · Anticancer Res · 중요도 0.75
+
+미국 국립암데이터베이스(NCDB)를 활용하여 2004년부터 2020년 사이에 췌장암으로 진단받은 환자 417,942명을 대상으로 지역별 격차를 분석한 연구입니다. 환자들을 미국 6개 지역으로 나누어 인구통계학적 특성, 소득 수준, 보험 상태, 진단 병기 및 치료를 위해 이동한 거리를 비교했습니다. 모든 지역에서 4기 췌장암 진단 비율이 약 절반으로 가장 높았으나, 인종 분포, 저소득 가구 비율, 무보험률 및 치료를 위한 이동 거리에서 뚜렷한 지역적 차이가 관찰되었습니다. 연구진은 이러한 결과가 전문적인 췌장암 치료에 대한 공평한 접근성을 개선하기 위한 기초 자료를 제공한다고 결론지었습니다.
+
+- 총 417,942명의 췌장암 환자를 분석했으며, 평균 연령은 69.0세였고 남성이 50.9%였습니다.
+- 모든 지역에서 진단 시 4기(Stage IV) 질환의 비율이 가장 높았으며, 전체 환자의 약 절반에 해당했습니다.
+- 치료를 위한 평균 이동 거리는 로키산맥(Mountain) 지역이 62.7마일로 가장 길었고, 북동부(Northeast) 지역이 26.8마일로 가장 짧았습니다.
+- 저소득 가구 비율은 남서부(82.0%)에서 가장 높고 북동부(50.7%)에서 가장 낮았으며, 무보험 비율도 남서부(5.3%)에서 가장 높았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42946425/) · [DOI](https://doi.org/10.21873/anticanres.18446) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42946425)</small>
+
+---
+<a id="nct-nct07901582"></a>
+#### [Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.](https://clinicaltrials.gov/study/NCT07901582)
+`임상시험` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-10-28 · ClinicalTrials.gov · National and Kapodistrian University of Athens · 중요도 0.67
+
+**NCT07901582** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07901582.md)
+
+Introduction:
+
+Major abdominal surgery encompasses a broad range of surgical procedures in heterogeneous patient populations.Management of postoperative pain has received keen attention in recent years with considerable concurrent advancement in the field.Despite this improvement,postoperative pain continues to be a challenge since suboptimal postoperative pain control is a risk factor for persistent surgical pain,increased morbidity,poorer functional recovery and reduced quality of life.Therefo…
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07901582) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07901582)</small>
+
+---
+<a id="pmid-42938881"></a>
+#### [간담췌 악성종양에서의 액체 생검: 현재 근거와 수술 임상에서의 시사점](https://pubmed.ncbi.nlm.nih.gov/42938881/)
+<small>Liquid Biopsy in Hepatobiliary and Pancreatic Malignancies: Current Evidence and Implications for Surgical Practice</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `기초연구` `지지요법·삶의질` · 2026-10-16 · PubMed · Cancers (Basel) · 중요도 0.62
+
+이 문헌은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV) 분석을 통한 간담췌 악성종양의 액체 생검(liquid biopsy) 적용 가능성을 다룬 서사적 고찰(narrative review)입니다. 수술 전 예후 평가, 수술 후 미세 잔존 질환 탐지, 재발 모니터링, 치료 조정에 초점을 맞추었습니다. 특히 ctDNA는 수술 전후 예후와 불리한 종양학적 결과, 특히 수술 후 재발 간의 연관성이 입증되었습니다. 그러나 현재의 근거는 주로 관찰 연구에 기반하며, 임상적 유용성을 확립하기 위해서는 표준화된 방법론과 전향적 중재 임상시험이 필요합니다.
+
+- 액체 생검은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV)를 분석하여 종양 생물학에 대한 정보를 제공합니다.
+- 췌장관선암(pancreatic ductal adenocarcinoma) 등을 포함한 연구에서 ctDNA 검출은 수술 후 재발 등 불리한 결과와 연관성을 보였습니다.
+- 생물학적 절제 가능성 개념이나 ctDNA 기반 치료 수정은 아직 전향적으로 검증되지 않았으며 임상적 이점이 입증되지 않았습니다.
+- 현재 액체 생검은 표준 치료 결정 인자가 아닌 유망한 연구용 예후 도구로 간주되어야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938881/) · [DOI](https://doi.org/10.3390/cancers18203349) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13702558/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938881)</small>
+
+---
+<a id="pmid-42941397"></a>
+#### [간담췌암에서의 PG-SGA, GLIM, CONUT: 서로 다른 임상적 질문을 위한 상호 보완적 도구](https://pubmed.ncbi.nlm.nih.gov/42941397/)
+<small>PG-SGA, GLIM, and CONUT in Hepatopancreatobiliary Cancer: Complementary Tools for Different Clinical Questions</small>
+
+`논문` `종설` `지지요법·삶의질` `치료 전반` · 2026-10-13 · PubMed · J Clin Med · 중요도 0.62
+
+이 논문은 간담췌암(hepatopancreatobiliary cancer) 환자에서 영양 상태 평가를 위해 사용되는 세 가지 도구인 PG-SGA, GLIM, CONUT의 특성과 증거를 비교 분석한 서사적 문헌고찰(narrative review)입니다. 환자-생성 주관적 영양평가(PG-SGA)는 영양 증상 파악과 중재에 유용하고, 영양부족 글로벌 리더십 이니셔티브(GLIM) 프레임워크는 진단 및 심각도 평가를 제공하며, 통제된 영양 상태(CONUT) 점수는 혈액 검사로 예후를 예측하는 데 적합합니다. 세 도구는 서로 상호 교환해서 쓸 수 없으며, 임상적 질문과 자원에 따라 보완적으로 활용해야 합니다.
+
+- 동일한 환자군에 적용했을 때 세 도구는 서로 다른 유병률을 보이며 서로 다른 환자들을 영양 불량으로 분류합니다.
+- PG-SGA는 가장 많은 환자를 영양 불량으로 분류하며 영양 영향 증상을 기록하고 중재를 유도하는 유일한 도구입니다.
+- CONUT 점수는 세 가지 정기 혈액 검사 값으로 계산되어 자원이 가장 적게 들며 예후 예측과 연관이 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941397/) · [DOI](https://doi.org/10.3390/jcm15207883) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13706593/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941397)</small>
+
+---
+<a id="pmid-42948302"></a>
+#### [췌관내 유두상 점액 종양의 확진을 위한 eyeMAX 및 ERCP 활용 생검 병용: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42948302/)
+<small>A combination of biopsy using eyeMAX and ERCP for the definitive diagnosis of intraductal papillary mucinous neoplasm: A case report</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `제약사·규제` `지지요법·삶의질` · 2026-10-09 · PubMed · Exp Ther Med · 중요도 0.49
+
+췌장암 전구 병변인 췌관내 유두상 점액 종양(IPMN) 의심 환자에게 eyeMAX를 활용한 내시경 역행 췌담관 조영술(ERCP) 기반 생검을 시행한 증례입니다. 환자는 수술 위험성에 대한 우려로 수술적 치료를 거부했으나, eyeMAX ERCP를 통해 주췌관(MPD) 내부의 유두상 돌기를 직접 관찰하고 조직 생검을 진행했습니다. 병리 검사 결과 악성도가 낮은 저등급 이형성증으로 확인되어 수술 대신 추적 관찰을 결정했습니다.
+
+- eyeMAX를 사용한 ERCP로 주췌관 내부 병변을 직접 관찰하고 4개의 조직을 채취하여 생검을 시행했습니다.
+- 병리 조직 검사 결과 저등급 이형성증(low-grade dysplasia)으로 확인되어 수술을 피하고 추적 관찰 치료 계획을 수립했습니다.
+- 추적 관찰 동안 환자는 황달, 췌장염, 복통 등의 증상 없이 양호한 상태를 유지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42948302/) · [DOI](https://doi.org/10.3892/etm.2026.13332) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13712098/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42948302)</small>
 
 ---
 <a id="pmid-42945504"></a>
@@ -129,37 +221,6 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1349737) · [DOI](https://doi.org/10.12688/hrbopenres.14558.1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.12688/hrbopenres.14558.1)</small>
 
 ---
-<a id="pmid-42941397"></a>
-#### [간담췌암에서의 PG-SGA, GLIM, CONUT: 서로 다른 임상적 질문을 위한 상호 보완적 도구](https://pubmed.ncbi.nlm.nih.gov/42941397/)
-<small>PG-SGA, GLIM, and CONUT in Hepatopancreatobiliary Cancer: Complementary Tools for Different Clinical Questions</small>
-
-`논문` `종설` `지지요법·삶의질` `치료 전반` · 2026-10-13 · PubMed · J Clin Med · 중요도 0.62
-
-이 논문은 간담췌암(hepatopancreatobiliary cancer) 환자에서 영양 상태 평가를 위해 사용되는 세 가지 도구인 PG-SGA, GLIM, CONUT의 특성과 증거를 비교 분석한 서사적 문헌고찰(narrative review)입니다. 환자-생성 주관적 영양평가(PG-SGA)는 영양 증상 파악과 중재에 유용하고, 영양부족 글로벌 리더십 이니셔티브(GLIM) 프레임워크는 진단 및 심각도 평가를 제공하며, 통제된 영양 상태(CONUT) 점수는 혈액 검사로 예후를 예측하는 데 적합합니다. 세 도구는 서로 상호 교환해서 쓸 수 없으며, 임상적 질문과 자원에 따라 보완적으로 활용해야 합니다.
-
-- 동일한 환자군에 적용했을 때 세 도구는 서로 다른 유병률을 보이며 서로 다른 환자들을 영양 불량으로 분류합니다.
-- PG-SGA는 가장 많은 환자를 영양 불량으로 분류하며 영양 영향 증상을 기록하고 중재를 유도하는 유일한 도구입니다.
-- CONUT 점수는 세 가지 정기 혈액 검사 값으로 계산되어 자원이 가장 적게 들며 예후 예측과 연관이 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42941397/) · [DOI](https://doi.org/10.3390/jcm15207883) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42941397)</small>
-
----
-<a id="pmid-42938881"></a>
-#### [간담췌 악성종양에서의 액체 생검: 현재 근거와 수술 임상에서의 시사점](https://pubmed.ncbi.nlm.nih.gov/42938881/)
-<small>Liquid Biopsy in Hepatobiliary and Pancreatic Malignancies: Current Evidence and Implications for Surgical Practice</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `기초연구` `지지요법·삶의질` · 2026-10-16 · PubMed · Cancers (Basel) · 중요도 0.62
-
-이 문헌은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV) 분석을 통한 간담췌 악성종양의 액체 생검(liquid biopsy) 적용 가능성을 다룬 서사적 고찰(narrative review)입니다. 수술 전 예후 평가, 수술 후 미세 잔존 질환 탐지, 재발 모니터링, 치료 조정에 초점을 맞추었습니다. 특히 ctDNA는 수술 전후 예후와 불리한 종양학적 결과, 특히 수술 후 재발 간의 연관성이 입증되었습니다. 그러나 현재의 근거는 주로 관찰 연구에 기반하며, 임상적 유용성을 확립하기 위해서는 표준화된 방법론과 전향적 중재 임상시험이 필요합니다.
-
-- 액체 생검은 순환 종양 DNA(ctDNA), 순환 종양 세포(CTC), 세포외 소포체(EV)를 분석하여 종양 생물학에 대한 정보를 제공합니다.
-- 췌장관선암(pancreatic ductal adenocarcinoma) 등을 포함한 연구에서 ctDNA 검출은 수술 후 재발 등 불리한 결과와 연관성을 보였습니다.
-- 생물학적 절제 가능성 개념이나 ctDNA 기반 치료 수정은 아직 전향적으로 검증되지 않았으며 임상적 이점이 입증되지 않았습니다.
-- 현재 액체 생검은 표준 치료 결정 인자가 아닌 유망한 연구용 예후 도구로 간주되어야 합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42938881/) · [DOI](https://doi.org/10.3390/cancers18203349) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42938881)</small>
-
----
 <a id="pmid-42935847"></a>
 #### [전신 질환을 국소 질환으로 다루기: 현재 췌장암 치료의 실패 지점과 다모달, 생물학 기반 개편 프레임워크](https://pubmed.ncbi.nlm.nih.gov/42935847/)
 <small>Treating a systemic disease as a local one: failure points of current pancreatic cancer management and a multimodal, biology-guided framework for redesign</small>
@@ -188,24 +249,6 @@ search:
 - 관리에는 환경 위험 요인 수정, 기능 부전 및 영양실조 모니터링, 췌장암 선별검사, 다학제적 접근이 포함됩니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933941/) · [DOI](https://doi.org/10.1016/j.gtc.2026.06.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933941)</small>
-
----
-<a id="nct-nct07895498"></a>
-#### [췌장암 환자의 daraxonrasib 유발 피부 독성에 대한 ivermectin 병용 표준 치료 연구](https://clinicaltrials.gov/study/NCT07895498)
-<small>A Study of Standard of Care Drugs With or Without Ivermectin for Daraxonrasib-Induced Skin Toxicity in People With Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `지지요법·삶의질` · 2026-10-26 · ClinicalTrials.gov · Memorial Sloan Kettering Cancer Center · 중요도 0.90
-
-**NCT07895498** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07895498.md)
-
-이 연구는 daraxonrasib(다락소나십) 치료로 인해 발생하는 피부 부작용(daraxonrasib-induced skin toxicity)을 예방 및 치료하기 위해 ivermectin(이버메크틴)과 표준 치료 예방요법(standard of care prophylaxis, SOCP)의 병용 효과를 평가합니다. 연구자들은 ivermectin과 SOCP 병용 요법을 SOCP 단독 요법과 비교하여 어느 쪽이 더 효과적인지 확인하고자 합니다. 또한 설문지를 통해 연구 치료가 환자의 삶의 질에 미치는 영향도 조사합니다. 본 연구는 2단계(PHASE2) 임상시험으로 진행됩니다.
-
-- daraxonrasib 치료로 인한 피부 독성 완화를 목표로 ivermectin과 표준 치료 예방요법(SOCP)의 병용 효과를 평가합니다.
-- 표준 치료 예방요법 단독 요법과 ivermectin 병용 요법의 효과를 비교합니다.
-- 질문지를 통해 환자의 삶의 질 변화를 측정합니다.
-- 목표 연구 참여 인원은 122명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07895498) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07895498)</small>
 
 ---
 <a id="pmid-42928716"></a>

@@ -1,0 +1,62 @@
+{
+ "abstract": "The chorioallantoic membrane (CAM) model resembles a preclinical in vivo platform for the engraftment of different tumors and is especially well-suited for the development and evaluation of novel cancer therapies. Due to the CAM's extensive vascular network, it can sustain engrafted human tumor tissue, which can be used for therapy testing and analysis throughout the experimental process. Although numerous studies have demonstrated successful tumor engraftment and vascular integration into the CAM's blood vessel network, the accurate and sequential measurement of tumor volume remains a significant challenge. Current imaging modalities, such as positron emission tomography/computed tomography, magnetic resonance imaging or three-dimensional (3D) digital microscopy are limited by cost, complexity, and potential harm due to injected agents or radiation. This study introduces an innovative imaging approach by utilizing ultrahigh frequency (UHF) ultrasound combined with 3D ultrasound reconstruction of pancreatic ductal adenocarcinoma (PDAC) on the CAM. By utilizing ultrasound frequencies of up to 71 MHz, two-dimensional (2D) imaging of PDAC tumors was transformed into comprehensive 3D reconstructions. This innovative approach provides a more detailed tissue resolution and enables noninvasive, longitudinal volumetric monitoring of tumor growth in vivo, and in principle provides a platform for future studies assessing angiogenesis and therapy response. In this study the accuracy of 3D UHF ultrasound was tested by comparing it with established imaging techniques such as 3D digital microscopy. In summary, the 3D ultrasound reconstruction resembles a more versatile noninvasive alternative for in vivo tumor volume measurement. This advanced imaging approach adds a valuable methodology for the investigation of tumor biology in the CAM model by providing noninvasive volumetric and morphological characterization of engrafted tumor tissue, thereby linking preclinical research and clinical applications.",
+ "authors": [
+  "Ettner-Sitter A",
+  "Kuenzel J",
+  "Heidenreich M",
+  "Mahl L",
+  "Pohnert L",
+  "Srinivasan D",
+  "Pion E",
+  "Bauer R"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42948223",
+ "importance": 0.49,
+ "key_points_ko": [
+  "최대 71MHz의 초고주파 초음파(UHF-US)를 적용하여 췌장암 종양의 정밀한 3D 재구성에 성공했습니다.",
+  "닭 배아 유융막(CAM) 모델에서 조영제나 방사선 노출 없이 비침습적으로 종양 부피를 지속 관찰할 수 있습니다.",
+  "전임상 연구에서 신약 반응 및 혈관 신생을 평가하는 유용한 기법이 될 수 있음을 입증했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1155/ijbi/8763250",
+  "nct": [],
+  "pmcid": "PMC13710809",
+  "pmid": "42948223"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Biomed Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42948223/"
+ },
+ "summary_ko": "본 연구는 닭 배아 유융막(CAM) 생체 내 종양 모델에서 췌장관선암(PDAC)의 정밀한 부피 측정을 위해 초고주파 초음파(UHF-US) 기반 3D 재구성 기법을 도입했습니다. 최대 71MHz의 주파수를 사용하여 2차원 종양 영상 시스템을 상세한 3차원 입체 영상으로 전환했습니다. 이 방식은 기존 영상 기법에 비해 비침습적이며 종양 성장을 연속적으로 관찰할 수 있는 가능성을 보여주었습니다. 또한 3D 디지털 현미경 등 기존 영상 기법과 비교하여 검증을 거쳤습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "High-Resolution Imaging via UHF-US-Based 3D Reconstruction in a 3D In Vivo Tumor Model",
+ "title_ko": "3D 생체 내 종양 모델에서 초고주파 초음파 기반 3D 재구성을 통한 고해상도 영상화",
+ "trial": null,
+ "type": "paper"
+}

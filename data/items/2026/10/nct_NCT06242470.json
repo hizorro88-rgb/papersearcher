@@ -1,0 +1,138 @@
+{
+ "abstract": "The study is designed to understand the safety, tolerability, pharmacokinetics, immunogenicity, and preliminary antitumor activity of vobramitamab tavatecan (MGC026) in participants with relapsed or refractory, unresectable, locally advanced or metastatic solid tumors The study has a dose escalation portion and a cohort expansion portion in Module A of the study. Combination therapy with pembrolizumab will occur in Module B of the study Participants will receive vobramitamab tavatecan by intravenous (IV) infusion. The dose of vobramitamab tavatecan will be assigned at the time of enrollment. Pembrolizumab will be administered at 200 mg every 3 weeks. Participants may receive up to 35 treatments if there are no severe side effects and as long as the cancer does not get worse. Participants will be monitored for side effects, and progression of cancer, have blood samples collected for routing laboratory work, and blood and tumor samples collected for research purposes.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06242470",
+ "importance": 0.73,
+ "key_points_ko": [
+  "재발성 또는 불응성 진행성 고형암(췌장암 포함) 환자 394명을 목표로 모집하는 초기 1상 임상시험입니다.",
+  "B7-H3 표적 항체-약물 접합체(ADC)인 MGC026 단독 투여 및 펨브롤리주맙 병용요법의 안전성, 내약성, 예비 약효를 확인합니다.",
+  "과거 B7-H3 표적 치료제나 토포이소머라제 페이로드를 사용한 ADC 치료를 받은 환자는 참여할 수 없습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06242470"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2024-02-05",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "MacroGenics",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06242470"
+ },
+ "summary_ko": "수술이 불가능한 국소진행성 또는 전이성 진행성 고형암(췌장암 포함) 환자를 대상으로 신약 항체-약물 접합체(ADC)인 vobramitamab tavatecan(보브라미타맙 타바테칸, MGC026)의 안전성과 항종양 효과를 평가하는 1상 임상시험입니다. 연구는 MGC026 단독요법의 용량 증량 및 용량 확장 코호트(모듈 A)와 pembrolizumab(펨브롤리주맙) 병용요법(모듈 B)으로 구성됩니다. 환자들은 정맥 주사로 MGC026을 투여받으며 병용군에서는 펨브롤리주맙을 3주 간격으로 병용 투약합니다. 질병이 진행하지 않고 중대한 부작용이 없다면 최대 35주기까지 치료를 지속할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Study of MGC026 in Participants With Advanced Solid Tumors",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MGC026의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Advanced Cancer",
+   "Metastatic Cancer",
+   "Squamous Cell Carcinoma of Head and Neck",
+   "Non Small Cell Lung Cancer",
+   "Small-cell Lung Cancer",
+   "Bladder Cancer",
+   "Sarcoma",
+   "Endometrial Cancer",
+   "Melanoma",
+   "Castration Resistant Prostatic Cancer",
+   "Cervical Cancer",
+   "Colorectal Cancer",
+   "Gastric Cancer",
+   "Gastro-esophageal Cancer",
+   "Pancreas Cancer",
+   "Clear Cell Renal Cell Carcinoma",
+   "Hepatocellular Carcinoma",
+   "Platinum-resistant Ovarian Cancer",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Esophageal Squamous Cell Cancer (SCC)"
+  ],
+  "contacts": [
+   {
+    "email": "info@macrogenics.com",
+    "name": "Global Trial Manager",
+    "phone": "301-251-5172"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 환자\n- 수술이 불가능한 국소진행성 또는 전이성 고형암 환자(췌장암, 두경부암, 비소세포폐암, 소세포폐암, 식도암, 방광암, 유방암, 난소암, 대장암, 위암 등 포함)\n- RECIST v1.1 기준 측정 가능한 병변 보유 (전립선암의 경우 예외 인정 가능)\n- 이전 보관 종양 조직 검체 제공 가능자 (보관 검체가 없는 경우 안전하게 신선 생검을 시행할 수 있는 자)\n- 적절한 전신 신체 수행능력 및 주요 장기 혈액검사 수치를 만족하는 환자\n- 연구 참여 기간 동안 효과적인 피임법 사용에 동의한 환자\n\n제외 기준:\n- 최근 2년 이내 치료가 필요했던 다른 암의 병력이 있는 경우 (단, 완치된 비흑색종 피부암, 저위험 전립선암, 상피내암 등 제외)\n- 치료되지 않았거나, 증상이 있거나, 영상 검사에서 진행 중인 중추신경계(뇌) 전이 또는 연수막 질환, 척수 압박 병력이 있는 경우\n- 과거 B7-H3 표적 항암제 또는 토포이소머라제(topoisomerase) 페이로드를 함유한 ADC(항체-약물 접합체) 치료를 받은 경험이 있는 경우\n- 자가 또는 동종 조혈모세포 이식 또는 고형 장기 이식을 받은 적이 있는 경우\n- 임상적으로 유의한 심혈관 질환, 폐 질환, 위장관 장애를 앓고 있는 경우\n- 1주 이내 정맥 투여 치료가 필요한 활동성 감염 또는 B형/C형 간염, HIV 감염 병력이 있는 경우\n- 연구 약물 첫 투여 전 4주 이내 주요 외상이나 대수술을 받은 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Adults ≥ 18 years old, able to provide informed consent\n* Adequate performance and laboratory parameters\n* Availability of archival or formalin-fixed paraffin-embedded tumor tissue sample. Participants may undergo a fresh tumor biopsy to obtain a specimen for testing if an archival tumor sample is not available. Participants with no available archival tissue sample who cannot safely undergo a fresh biopsy as determined by consultation between the sponsor and investigator are eligible\n* Unresectable, locally advanced or metastatic solid tumors including: squamous cell cancer (SCC) of the head and neck, esophageal SCC, squamous and non-squamous non-small cell lung cancer, small cell lung cancer, bladder cancer, sarcoma, endometrial cancer, melanoma, castration resistant prostate cancer, breast cancer, ovarian cancer, cervical cancer, colorectal cancer gastric or gastroesophageal cancer, pancreatic carcinoma, clear cell renal cell cancer or hepatocellular cancer.\n* Measurable disease per RECIST v1.1. Participants with metastatic CRPC without measurable disease are eligible.\n* Must be willing to use highly effective methods of birth control from the time of consent through 7 months after discontinuation of MGC026.\n* Not pregnant or breastfeeding.\n\nExclusion Criteria:\n\n* Any underlying medical or psychiatric condition impairing participant's ability to receive, tolerate, or comply with the planned treatment or study procedures.\n* Another cancer that required treatment within the past 2 years, with the exception of those with low risk of cancer spreading or death such as adequately treated non melanomatous skin cancer, localized prostate cancer (Gleason Score \\< 6), or carcinoma in situ.\n* Patients with history of prior central nervous system (CNS) metastasis must have been treated, be asymptomatic, and not have concurrent treatment for CNS disease, progression of CNS metastases on magnetic resonance imaging, computed tomography or positron emission tomography, or history of leptomeningeal disease or cord compression at the time of enrollment.\n* Treatment with surgery, systemic cancer therapy, immunotherapy, chimeric antigen receptor-T therapy, or anti-hormonal within protocol specified intervals.\n* Prior treatment with any B7-H3 targeted agent for cancer or any ADC with a topoisomerase payload.\n* Prior autologous or allogeneic stem cell or solid organ transplant.\n* Clinically significant cardiovascular, pulmonary, or gastrointestinal disorders.\n* Active viral, bacterial, or systemic fungal infection requiring parenteral treatment within 1 week of first study drug administration.\n* Known history of hepatitis B or C infection or known positive test for hepatitis B surface antigen or core antigen, or hepatitis C polymerase chain reaction.\n* Known positive testing for human immunodeficiency virus or history of acquired immune deficiency syndrome.\n* History of primary immunodeficiency.\n* Major trauma or major surgery within 4 weeks of first study drug administration.\n* Known hypersensitivity to recombinant proteins.",
+  "enrollment": 394,
+  "has_results": false,
+  "interventions": [
+   "MGC026 Dose Escalation",
+   "MGC026 Dose for Expansion",
+   "Pembrollizumab",
+   "vobramitamab tavatecan"
+  ],
+  "last_update_posted": "2026-10-28",
+  "location_countries": [
+   "Australia",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "과거 B7-H3 표적 치료제 또는 토포이소머라제 계열 ADC 치료 경험",
+    "증상이 있거나 치료되지 않은 뇌전이 및 연수막 전이",
+    "최근 2년 이내 치료가 필요했던 다른 암 병력",
+    "장기 이식 또는 조혈모세포 이식 병력",
+    "중대한 심혈관·폐 질환 또는 활동성 감염"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "이전 치료 후 재발하거나 불응한 수술 불가능한 국소진행성 또는 전이성 췌장암 등 진행성 고형암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 12,
+  "nct_id": "NCT06242470",
+  "phase": "PHASE1",
+  "primary_completion_date": "2028-10",
+  "sex": "ALL",
+  "sponsor": "MacroGenics",
+  "start_date": "2024-03-06",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

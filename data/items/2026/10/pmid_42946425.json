@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND/AIM: Patient demographics, socioeconomic factors, and access to care vary across the United States and may contribute to differences in pancreatic cancer presentation and treatment. This study examined regional variation in demographic characteristics, socioeconomic status, stage at diagnosis, and distance traveled for care among patients with pancreatic cancer.\nPATIENTS AND METHODS: We performed a cross-sectional analysis of the National Cancer Database, including patients diagnosed with pancreatic cancer between 2004 and 2020. Patients were categorized into six geographic regions based on the location of the treating facility: Northeast, Southeast, Midwest, Southwest, Mountain, and Pacific. Demographic, socioeconomic, clinical, and travel-distance characteristics were compared across regions. Missing values were excluded from analyses of the corresponding variables.\nRESULTS: A total of 417,942 patients were included (mean age=69.0 years; 50.9% male). Regional differences were observed in race, income, insurance status, stage at diagnosis, and distance traveled for care. The proportion of Black patients ranged from 2.6% in the Mountain region to 19.9% in the Southeast. Low-income households were most common in the Southwest (82.0%) and least common in the Northeast (50.7%). Uninsured status was most frequent in the Southwest (5.3%). Stage IV disease was the most common presentation in all regions, affecting approximately half of all patients at diagnosis. Patients in the Mountain region traveled the greatest distance for treatment (mean, 62.7 miles), whereas those in the Northeast traveled the shortest distance (mean, 26.8 miles).\nCONCLUSION: These findings identify important regional differences in access to pancreatic cancer care and provide a national benchmark for future interventions aimed at improving equitable access to specialized care.",
+ "authors": [
+  "Demirors B",
+  "Brock LF",
+  "Bowers JC",
+  "Yadav A",
+  "Puri R",
+  "Mahesh VA",
+  "Manaise HK",
+  "Veenstra B"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42946425",
+ "importance": 0.75,
+ "key_points_ko": [
+  "총 417,942명의 췌장암 환자를 분석했으며, 평균 연령은 69.0세였고 남성이 50.9%였습니다.",
+  "모든 지역에서 진단 시 4기(Stage IV) 질환의 비율이 가장 높았으며, 전체 환자의 약 절반에 해당했습니다.",
+  "치료를 위한 평균 이동 거리는 로키산맥(Mountain) 지역이 62.7마일로 가장 길었고, 북동부(Northeast) 지역이 26.8마일로 가장 짧았습니다.",
+  "저소득 가구 비율은 남서부(82.0%)에서 가장 높고 북동부(50.7%)에서 가장 낮았으며, 무보험 비율도 남서부(5.3%)에서 가장 높았습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.21873/anticanres.18446",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42946425"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anticancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946425/"
+ },
+ "summary_ko": "미국 국립암데이터베이스(NCDB)를 활용하여 2004년부터 2020년 사이에 췌장암으로 진단받은 환자 417,942명을 대상으로 지역별 격차를 분석한 연구입니다. 환자들을 미국 6개 지역으로 나누어 인구통계학적 특성, 소득 수준, 보험 상태, 진단 병기 및 치료를 위해 이동한 거리를 비교했습니다. 모든 지역에서 4기 췌장암 진단 비율이 약 절반으로 가장 높았으나, 인종 분포, 저소득 가구 비율, 무보험률 및 치료를 위한 이동 거리에서 뚜렷한 지역적 차이가 관찰되었습니다. 연구진은 이러한 결과가 전문적인 췌장암 치료에 대한 공평한 접근성을 개선하기 위한 기초 자료를 제공한다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Regional Differences in Sociodemographic Characteristics, Stage at Diagnosis, and Access to Care Among Patients With Pancreatic Cancer",
+ "title_ko": "췌장암 환자의 사회인구학적 특성, 진단 시 병기 및 치료 접근성의 지역적 차이",
+ "trial": null,
+ "type": "paper"
+}

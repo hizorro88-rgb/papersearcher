@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND/AIM: Although Claudin 18.2 (CLDN18.2) is a promising therapeutic target in pancreatic ductal adenocarcinoma (PDAC), its longitudinal expression dynamics after chemotherapy remain unclear. In this study, we aimed to evaluate CLDN18.2 expression changes in paired pre- and post-chemotherapy specimens and to examine its clinicopathological and prognostic significance.\nPATIENTS AND METHODS: We retrospectively analyzed 74 patients with PDAC who underwent pancreatectomy after preoperative chemotherapy at Kumamoto University Hospital between 2017 and 2024. CLDN18.2 protein expression was evaluated using immunohistochemistry assays in fine-needle aspiration biopsy (FNAB) samples obtained prior to chemotherapy and in corresponding resected specimens. The associations between CLDN18.2 expression levels and clinicopathological features were analyzed, along with longitudinal changes in CLDN18.2 expression.\nRESULTS: CLDN18.2 positivity was observed in 31 (41.9%) pre-treatment specimens and 18 (24.3%) post-treatment specimens. CLDN18.2 expression was not associated with any clinicopathological factor in the pre-treatment specimens. However, in the post-treatment specimens, CLDN18.2 positivity was significantly associated with well-differentiated tumors and lower pre-chemotherapy CA19-9 levels compared with CLDN18.2-negative cases. Neither overall survival nor recurrence-free survival differed significantly between the CLDN18.2-positive and CLDN18.2-negative groups. Paired analysis demonstrated that CLDN18.2 expression levels were significantly decreased in post-treatment specimens compared with pre-treatment specimens.\nCONCLUSION: In our PDAC patient cohort, CLDN18.2 expression levels were significantly reduced following preoperative chemotherapy. These findings suggest that chemotherapy may alter CLDN18.2 expression patterns and may have implications for reassessing the CLDN18.2 status after treatment when considering future CLDN18.2 targeted therapy.",
+ "authors": [
+  "Tsubakihara H",
+  "Yamashita K",
+  "Yamao T",
+  "Hisano Y",
+  "Yumoto S",
+  "Kitano Y",
+  "Miyata T",
+  "Okabe H"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42946432",
+ "importance": 0.77,
+ "key_points_ko": [
+  "CLDN18.2 양성 비율은 치료 전 생검 검체에서 41.9%(31명)였으나 선행 항암치료 후 절제 검체에서는 24.3%(18명)로 유의미하게 감소했습니다.",
+  "CLDN18.2 양성군과 음성군 간에 전체 생존기간(OS) 및 무재발 생존기간(RFS)의 통계적 차이는 없었습니다.",
+  "치료 후 검체의 CLDN18.2 양성은 고분화도 종양 및 치료 전 낮은 CA19-9 수치와 유의미한 연관성을 보였습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.21873/anticanres.18442",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42946432"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anticancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946432/"
+ },
+ "summary_ko": "수술 전 선행 항암화학요법을 받고 췌장 절제술을 시행한 췌관선암 환자 74명을 대상으로 항암치료 전후의 클라우딘 18.2(CLDN18.2) 발현 변화를 후향적으로 분석한 연구입니다. 분석 결과 CLDN18.2 양성률은 치료 전 41.9%에서 선행 항암치료 후 24.3%로 유의미하게 감소했습니다. 전체 생존기간과 무재발 생존기간은 CLDN18.2 발현 여부에 따른 유의미한 차이를 보이지 않았습니다. 연구진은 항암치료가 종양의 CLDN18.2 발현을 감소시킬 수 있으므로, 향후 표적 치료 적용 시 치료 후 상태를 재평가할 필요가 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Evaluation of Claudin 18.2 Expression Changes Following Chemotherapy in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌관선암에서 항암화학요법 후 클라우딘 18.2(CLDN18.2) 발현 변화 평가",
+ "trial": null,
+ "type": "paper"
+}

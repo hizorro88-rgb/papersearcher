@@ -1,0 +1,55 @@
+{
+ "abstract": null,
+ "authors": [
+  "Chuong MD",
+  "O'Reilly EM"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42949859",
+ "importance": 0.62,
+ "key_points_ko": [
+  "RAS 억제제 시대에 맞춘 췌장암 방사선 치료 전략의 재검토를 다룹니다.",
+  "상세한 연구 결과 및 임상 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1093/oncolo/oyag433",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42949859"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncologist",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949859/"
+ },
+ "summary_ko": "본 논문은 RAS 억제제(RAS inhibitor) 개발 시대에 췌장암 치료에서 방사선 치료(radiation therapy)의 역할과 가치를 재검토합니다. 타깃 치료제 등장에 따른 방사선 치료의 병용 및 전략적 변화 가능성을 논의합니다. 상세한 수치나 구체적인 연구 결과는 제공된 텍스트에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Rethinking Radiation Therapy in the Era of RAS Inhibition for Pancreatic Cancer",
+ "title_ko": "RAS 억제제 시대의 췌장암 방사선 치료에 대한 재고",
+ "trial": null,
+ "type": "paper"
+}

@@ -20,11 +20,12 @@
  "id": "nct:NCT05334836",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 연구 참가자 수는 총 236명입니다.",
-  "크기 5mm 이상의 췌장 낭종 환자 및 건강한 대조군을 대상으로 자기공명영상(MRI)을 통한 지방 정량 측정을 진행합니다.",
-  "췌장 지방변성과 고위험 췌장 낭종 간의 상관관계를 규명하는 것을 목적으로 합니다."
+  "목표 인원은 236명이며 현재 환자 모집 중입니다.",
+  "중재 방법은 췌장 지방과 간 지방 정량화를 위한 MRI 촬영입니다.",
+  "초록에 명시된 전 세계 전이성 췌장암의 5년 생존율은 약 2.9%입니다.",
+  "아시아 인구에서 췌장 지방증의 유병률은 16%에서 35%로 보고됩니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05334836"
  },
- "summary_ko": "본 연구는 췌장 지방변성(Pancreatic Steatosis)의 유병률을 조사하고 고위험 췌장 낭종 특성과의 상관관계를 분석하기 위한 연구입니다. 홍콩 쿵후 대학교(Chinese University of Hong Kong)에서 진행하며 총 236명의 연구 대상자를 모집합니다. 자기공명영상(MRI)을 통해 췌장 및 간의 지방량을 정량 측정하여 췌장암 전구 병변인 낭종의 위험도와 췌장 지방변성의 연관성을 평가합니다.",
+ "summary_ko": "홍콩중문대학교는 췌장 낭종 환자 또는 건강한 성인 236명을 대상으로 자기공명영상(MRI)을 이용해 췌장 및 간의 지방량을 정량화하고, 췌장 지방증(pancreatic steatosis)의 유병률과 고위험 낭종 특징 사이의 상관관계를 평가하는 임상시험을 진행하고 있습니다. 본 연구는 췌장암의 전구 병변인 점액성 췌장 낭성 종양(PCN)의 악성 진행 위험을 예측하는 새로운 위험인자로서 췌장 지방증의 임상적 가치를 확인하고자 합니다. 이를 통해 기존의 췌장암 조기 발견 및 위험도 층화 알고리즘을 개선하는 데 기여하고자 합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Determination of Pancreatic Steatosis Prevalence and Correlation With High-risk Cyst Features",
- "title_ko": "췌장 지방변성 유병률 및 고위험 췌장 낭종 특성과의 상관관계 분석 연구",
+ "title_ko": "췌장 지방간(췌장 지방증) 유병률 및 고위험 낭종 특성과과의 상관관계 규명",
  "trial": {
   "conditions": [
    "Pancreatic Steatosis",
@@ -64,7 +65,7 @@
     "phone": "26370428"
    }
   ],
-  "eligibility_ko": "선정 기준: • 만 18세 이상 성인 • CT, MRI, 내시경초음파(EUS) 검사에서 췌관내 유두상 점액 종양(IPMN) 또는 점액성 낭성 종양(MCN)으로 추정되는 5mm 이상의 췌장 낭성 병변이 있는 환자 또는 건강한 지원자 • 연구 동의서 작성이 가능한 자 제외 기준: • 금속 이식물 보유 등 MRI 검사 금기사항이 있는 경우 • 동반 질환으로 내시경 검사가 불가능한 경우 • 췌장암 진단 병력 또는 췌장 절제술을 받은 적이 있는 경우 • 유의미한 음주력이 있는 경우(남성 하루 20g 초과, 여성 하루 10g 초과)",
+  "eligibility_ko": "선정 기준:\n- 18세 이상\n- CT, MRI, EUS 소견상 IPMN(간내 유두상 점액성 종양) 또는 MCN(점액성 낭성 종양)으로 추정되는 크기 5mm 이상의 췌장 낭종이 최소 1개 이상 있는 환자, 또는 건강한 피험자\n- 연구 참여에 대한 서면 동의를 제공하고 절차를 준수할 수 있는 자\n\n제외 기준:\n- 서면 동의를 제공할 수 없는 자\n- 금속 임플란트 또는 기타 MRI 금기 사항이 있는 환자\n- 동반 질환으로 인해 내시경 검사가 금기인 환자\n- 알려진 췌장암 환자 또는 이전 췌장 절제술을 받은 환자\n- 남성의 경우 하루 20g(주당 140g), 여성의 경우 하루 10g(주당 70g)을 초과하는 과도한 음주를 하는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 or older\n2. Patients with at least 1 pancreatic cystic lesion presumed to be IPMN or MCN based on CT, MRI or EUS features, with a cyst size ≥ 5mm; or healthy subjects.\n3. Patients who are able to provide written informed consent to participate in the study and comply with the study procedures.\n\nExclusion Criteria:\n\n1. Unable to provide written informed consent\n2. Patients with metallic implants or other contraindications to MRI\n3. Patients with contraindications for endoscopy due to comorbidities\n4. Patients with known pancreatic cancer or prior pancreatic resection\n5. Patients with significant alcohol consumption, defined as alcohol intake of over 20 g daily (140 g weekly) for men and 10 g daily (70 g weekly) for women",
   "enrollment": 236,
   "has_results": false,
@@ -81,14 +82,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "금속 이식물 등 MRI 검사 금기사항이 있는 경우",
-    "췌장암 진단 병력 또는 췌장 절제술 이력이 있는 경우",
-    "과도한 음주 습관이 있는 경우(남성 일 20g, 여성 일 10g 초과)"
+    "MRI 검사 금기 사항(금속 임플란트 등)",
+    "내시경 검사 금기 사항이 있는 경우",
+    "알려진 췌장암 진단 병력 또는 췌장 절제술 병력",
+    "과도한 음주 습관"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "5mm 이상의 췌장 낭종 환자 또는 건강한 성인을 대상으로 췌장 지방변성과 낭종 위험도의 연관성을 평가하는 연구입니다.",
+   "notes_ko": "췌장 낭종이 있거나 췌장 지방증 연구에 참여 가능한 18세 이상 성인 환자 및 건강한 자.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

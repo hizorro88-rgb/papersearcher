@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Pancreatic acinar cell carcinoma (PACC) is a rare pancreatic malignancy with a molecular profile distinct from pancreatic ductal adenocarcinoma (PDAC) but is commonly treated using extrapolated paradigms.\nMETHODS: We retrospectively identified patients with histologically confirmed PACC at a tertiary academic center and abstracted clinical, pathologic, treatment, and outcome data. Next-generation sequencing (NGS) was reviewed for microsatellite status, tumor mutational burden, and actionable genomic alterations.\nRESULTS: Seven patients were identified (median age, 64 years; 57% male). Most presented with metastatic disease (71%), yet outcomes were heterogeneous, including prolonged progression-free survival exceeding 7 years and 16 years in select patients. Carbohydrate antigen 19-9 (CA 19-9) was normal in all cases, and jaundice was absent despite frequent pancreatic head involvement. All tumors were KRAS wild-type. NGS revealed recurrent alterations including CDKN2A/B and MTAP co-deletion, BRAF fusion, IKZF1 loss, and BAP1 mutation. Tumors were microsatellite stable with low-to-intermediate tumor mutational burden. One patient received matched targeted therapy through a precision oncology trial.\nCONCLUSION: PACC demonstrates substantial clinical heterogeneity with a subset of patients exhibiting prolonged survival despite metastatic disease. Recurrent actionable genomic alterations support routine molecular profiling and prioritization for biomarker-driven trials. These findings challenge extrapolation from PDAC and support a precision oncology framework for this ultra-rare malignancy.",
+ "authors": [
+  "Farhoud N",
+  "Al-Rajabi R",
+  "Baranda J",
+  "Li H",
+  "Hamza A",
+  "Zhang W",
+  "Paluri R",
+  "Manne A"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42947894",
+ "importance": 0.72,
+ "key_points_ko": [
+  "분석 대상 환자 7명 중 71%가 전이암이었으나, 일부 환자에서 무진행 생존기간(PFS)이 7년 및 16년을 초과하는 장기 생존을 보였습니다.",
+  "모든 환자에서 CA 19-9 수치가 정상 범위였고 황달이 없었으며, 전원 KRAS 야생형(KRAS wild-type)으로 확인되었습니다.",
+  "차세대 염기서열 분석(NGS)을 통해 CDKN2A/B 및 MTAP 동시 결손, BRAF 융합 등 표적 치료가 가능한 유전적 변이가 확인되었습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.3389/fcell.2026.1913398",
+  "nct": [],
+  "pmcid": "PMC13710092",
+  "pmid": "42947894"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Cell Dev Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947894/"
+ },
+ "summary_ko": "희귀 췌장 악성종양인 췌장 세엽세포암(PACC) 환자 7명의 임상 경과와 유전체 프로파일을 후향적으로 분석한 연구입니다. 환자의 71%가 전이 상태로 진단되었으나, 일부 환자는 무진행 생존기간(PFS)이 7년 또는 16년을 초과하는 등 다양한 예후를 보였습니다. 일반적인 췌관선암(PDAC)과 달리 모든 환자에서 CA 19-9 수치가 정상이었고 KRAS 변이가 없는 야생형(KRAS wild-type)이었습니다. CDKN2A/B 결손, BRAF 융합 등 표적 치료가 가능한 유전 변이가 발견되어 차세대 염기서열 분석(NGS) 기반 정밀 치료의 중요성을 보여주었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic acinar cell carcinoma demonstrates marked clinical heterogeneity and recurrent actionable genomic alterations",
+ "title_ko": "췌장 세엽세포암의 뚜렷한 임상적 다양성과 치료 표적 가능한 반복적 유전체 변이 분석",
+ "trial": null,
+ "type": "paper"
+}

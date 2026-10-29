@@ -32,11 +32,11 @@
   "기저 유사 세포는 세포외 히알루로난(HA)에 대한 CD44 의존적 반응성이 증가하고 상피간엽이행(EMT) 신호가 활성화되었습니다.",
   "HA 합성 억제제인 4-methylumbelliferone(4-MU)은 기저 유사 췌장관선암종 모델을 억제하고 gemcitabine 감수성을 높였습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/cancers18203410",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13702738",
   "pmid": "42938942"
  },
  "pub_types": [

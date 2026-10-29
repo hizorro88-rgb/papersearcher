@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Background  Pancreatic ductal adenocarcinoma (PDAC) shows marked clinical heterogeneity and extensive tumor microenvironment (TME) remodeling. Protein palmitoylation regulates membrane-associated signaling and tumor-related biological processes, but its transcriptional relevance to PDAC molecular stratification and microenvironmental states remains unclear. Methods  Integrated GEO and TCGA transcriptomic cohorts were used to characterize palmitoylation-related expression patterns in PDAC. Consensus clustering, ssGSEA, pathway analysis, immune infiltration estimation, and LASSO-Cox regression were applied to define molecular subtypes, construct a palmitoylation score, and develop a prognostic model. scRNA-seq, CellChat analysis, multiplex immunofluorescence, in vitro assays, western blotting, and xenograft models were used to investigate the cellular context and biological role of FNDC3B. Results  Palmitoylation-related genes stratified PDAC patients into three molecular subtypes with distinct survival outcomes and biological programs. Cluster B showed the poorest prognosis and was enriched for proliferative, DNA repair, epithelial-mesenchymal transition, and TME-remodeling features. A patient-level palmitoylation score captured adverse subtype-associated transcriptional patterns and was associated with shorter overall survival. A five-gene prognostic model comprising FNDC3B, ALDH9A1, CAPRIN2, TTC9, and GPR133 robustly stratified patient survival across validation cohorts. FNDC3B was associated with unfavorable prognosis and macrophage-enriched immune infiltration. Functionally, FNDC3B knockdown impaired PDAC cell proliferation, colony formation, migration, and xenograft tumor growth, accompanied by reduced mTOR pathway phosphorylation. Single-cell and spatial analyses identified tumor-enriched FNDC3B-positive macrophages linked to adverse prognosis, an SPP1-centered communication program, and SPP1-rich tumor niches. Conclusions  This study defines a palmitoylation-associated transcriptional framework for PDAC stratification and prognostic assessment. FNDC3B emerges as a risk-associated molecule linking tumor-cell malignant phenotypes, mTOR-related signaling, macrophage-enriched immune features, and spatial microenvironmental remodeling.</p>",
+ "authors": [
+  "Liu J",
+  "Zhang E",
+  "Liu W",
+  "Liu G",
+  "Zhang F",
+  "Zhang C",
+  "Deng Y",
+  "Yang Y"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11101218/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "팔미토일화 관련 유전자 발현 패턴에 따라 췌장암 환자를 3개 아형으로 구분했으며, Cluster B 환자군이 가장 나쁜 생존율을 나타냈습니다.",
+  "FNDC3B, ALDH9A1, CAPRIN2, TTC9, GPR133으로 구성된 5개 유전자 기반 예후 모델을 수립했습니다.",
+  "FNDC3B 발현을 억제한 결과 췌장암 세포 증식, 이동 및 동물 모델에서의 종양 성장이 저해되고 mTOR 경로 신호가 감소했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11101218/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1351235"
+ },
+ "summary_ko": "본 연구는 대규모 공공 유전체 데이터를 활용하여 단백질 팔미토일화(palmitoylation) 관련 유전자를 바탕으로 췌관선암(PDAC) 환자를 세 가지 분자 아형으로 분류했습니다. 분석 결과, 특정 아형(Cluster B)과 높은 팔미토일화 점수는 증식 및 상피간엽이행(EMT) 활성화와 함께 불량한 생존율을 보였습니다. 연구진은 FNDC3B를 포함한 5개 유전자 기반의 예후 예측 모델을 구축하였으며, FNDC3B가 대식세포 풍부 미세환경 및 불량한 예후와 연관됨을 확인했습니다. 세포 및 동물 실험에서 FNDC3B 발현을 억제했을 때 췌장암 세포의 증식, 이동 및 종양 성장이 감소하고 mTOR 경로 인산화가 억제되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Palmitoylation-associated molecular states implicate FNDC3B in tumor progression and macrophage-associated microenvironmental remodeling in pancreatic cancer",
+ "title_ko": "팔미토일화 관련 분자 상태를 통한 췌장암 진행 및 대식세포 미세환경 리모델링에서 FNDC3B의 역할 규명",
+ "trial": null,
+ "type": "preprint"
+}

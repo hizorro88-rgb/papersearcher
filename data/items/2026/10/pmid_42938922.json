@@ -32,11 +32,11 @@
   "PROP은 세포 내 JAK/STAT 신호전달을 조절하며, STAT3 및 STAT6 억제를 통해 대식세포 분극화에 영향을 주었습니다.",
   "경구 투여 시 고용량 PROP은 기존 AAP에 비해 향상된 안전성을 보이면서도 항암 활성을 유지했습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/cancers18203390",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13702662",
   "pmid": "42938922"
  },
  "pub_types": [

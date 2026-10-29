@@ -19,12 +19,11 @@
  "id": "nct:NCT07213791",
  "importance": 0.73,
  "key_points_ko": [
-  "섬유아세포 활성화 단백질(FAP) 양성인 진행성 또는 전이성 고형암 환자를 대상으로 합니다.",
-  "LY4337713의 안전성, 부작용, 약동학 및 효능을 평가합니다.",
+  "목표 환자 수는 최대 340명입니다.",
   "각 참가자의 연구 참여 기간은 약 5년입니다.",
-  "초록에 구체적인 치료 효과나 생존기간 수치는 명시되지 않았습니다."
+  "초록에 명시되지 않은 생존기간, 반응률, 위험비 등의 결과는 초록에 명시되지 않음."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07213791"
  },
- "summary_ko": "이 연구는 진행성 또는 전이성 암 환자를 대상으로 신약 LY4337713의 안전성, 부작용, 효능을 평가하기 위한 임상시험입니다. 참가자는 섬유아세포 활성화 단백질(FAP) 발현이 높은 암을 가지고 있어야 합니다. 연구 기간은 각 참가자마다 약 5년입니다. 초록에 환자 수, 구체적인 반응률이나 생존기간 수치는 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 진행성 또는 전이성 고형암 환자를 대상으로 신약 LY4337713의 안전성, 부작용, 효능을 평가하기 위한 1상 임상시험입니다. 췌장선암을 포함한 특정 암 환자들을 대상으로 약물의 체내 흡수, 대사, 배설 과정을 함께 평가합니다. 각 참가자는 약 5년 동안 연구에 참여하게 됩니다. 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [
   "Cancer-associated fibroblasts (CAF)",
@@ -56,7 +55,7 @@
   "Lu-177-FAP"
  ],
  "title": "A Study of LY4337713 in Participants With FAP-Positive Solid Tumors",
- "title_ko": "FAP 양성 고형암 환자를 대상으로 하는 LY4337713 연구",
+ "title_ko": "섬유아세포 활성 단백질(FAP) 양성 고형암 환자를 위한 LY4337713 연구",
  "trial": {
   "conditions": [
    "Ovarian Neoplasms",
@@ -80,7 +79,7 @@
     "phone": "clinical_inquiry_hub@lilly.com"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 현지 평가에 따른 섬유아세포 활성화 단백질(FAP) 발현에 대한 임상 또는 영상학적 증거가 있어야 합니다.\n- 췌장 선암종(adenocarcinoma of the pancreas) 등 조직학적 또는 세포학적으로 확진된 암이어야 합니다.\n- 췌장 선암종의 경우, 국소 진행성 절제 불가능 또는 전이성 질환에 대해 최소 1개, 최대 2개 이하의 이전지요법을 받았어야 합니다.\n- 동유럽종양학그룹(ECOG) 수행능력 상태(PS)가 0에서 1 사이여야 합니다.\n\n제외 기준:\n- 알려진 활성 중추신경계(CNS) 전이 또는 수막 암종증이 있는 경우\n- 유의미한 심혈관 질환이 있는 경우\n- 스크리닝 중 교정된 QTcF >470 밀리초(msec) 연장이 있는 경우\n- 진행 중이고 치료되지 않은 요로 폐쇄의 증거가 있는 경우\n- 이전의 반신 또는 전신 방사선 치료를 받은 경우",
+  "eligibility_ko": "선정 기준:\n* 지역 평가에 따른 섬유아세포 활성 단백질(FAP) 발현에 대한 임상 또는 영상학적 증거가 있어야 합니다.\n* 췌장선암(Adenocarcinoma of the pancreas), 유방암, 난소암, 위암, 대장암, 식도암, 담관암 등 조직학적 또는 세포학적으로 확진된 고형암이어야 합니다.\n* 췌장선암의 경우, 국소 진행성 절제 불가능 또는 전이성 질환에 대해 최소 1개, 최대 2개의 이전고요법을 받았어야 합니다.\n* 동유럽종양학협력그룹 수행능력(ECOG PS) 점수가 0에서 1 사이여야 합니다.\n\n제외 기준:\n* 알려진 활성 중추신경계(CNS) 전이 또는 수막 암종증이 있는 경우\n* 중대한 심혈관 질환이 있는 경우\n* 스크리닝 중 QTcF 연장이 470 msec를 초과하는 경우\n* 진행 중이며 치료되지 않은 요로 폐쇄 증거가 있는 경우\n* 이전 전신 또는 반신 방사선 치료를 받은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Must have clinical or imaging evidence of fibroblast activation protein (FAP) expression per local assessment\n* Must have histologically or cytologically confirmed diagnosis of one of the following:\n\n  * Adenocarcinoma of the pancreas\n  * Hormone receptor (HR)-positive human epidermal growth factor 2 (HER2)-negative breast cancer\n  * HER2-positive breast cancer\n  * Triple negative breast cancer (TNBC)\n  * Platinum-resistant or refractory ovarian cancer (including ovarian carcinosarcoma)\n\n    * Gastric cancer (adenocarcinoma)\n    * Colorectal cancer (CRC)\n    * Esophageal cancer (squamous cell carcinoma or adenocarcinoma)\n    * Cholangiocarcinoma\n    * Other non- central nervous system (CNS) solid tumors, which have demonstrated FAP uptake via positron emission tomography (PET),\n* Must have received prior treatments as indicated below:\n\n  * Phase 1a\n\n    * Adenocarcinoma of the pancreas: Participants must have received at least 1, but no more than 2 prior regimens for locally advanced unresectable or metastatic disease.\n    * HR-positive HER2-negative breast cancer: Participants must have received less than or equal to (≤)5 prior lines of treatment for advanced or metastatic disease, which must include a cyclin-dependent kinase 4/6 inhibitor.\n    * HER2-positive breast cancer: Participants must have received at least 2 lines of HER2-targeted therapy, which should include at least 1 antibody-drug conjugate (ADC) for metastatic disease (if locally available).\n    * TNBC: Participants must have received at least 1 prior line of therapy for metastatic disease, and must have received an ADC unless unavailable, ineligible, or refused.\n    * Platinum-resistant or refractory ovarian cancer: Participants must have received or after at least 1 platinum-based therapy.\n    * Gastric cancer, CRC, esophageal cancer (squamous cell carcinoma or adenocarcinoma), and cholangiocarcinoma: Participants must have received greater than or equal to (≥)1 prior line of systemic therapy for advanced or metastatic disease; this may include, but does not require, prior line(s) in combination with immunotherapy or vascular endothelial growth factor inhibitor.\n    * Other non-CNS solid tumors: Participants must have exhausted, be ineligible for, or refused all standard-of-care therapy appropriate for their disease.\n  * Phase 1b:\n\n    * Participants must have advanced or metastatic solid tumors and have received ≥1 prior line of therapy.\n* Must have an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 to 1.\n* Measured creatinine clearance ≥60 milliliters per minute (mL/min)\n\nExclusion Criteria:\n\n* Have known active central nervous system (CNS) metastases or carcinomatous meningitis.\n* Have significant cardiovascular disease\n* Have prolongation of the corrected QTcF \\>470 milliseconds (msec) during screening. QTcF is calculated using Fridericia's Formula: QTcF = QT/(RR0.33)\n* Have evidence of ongoing and untreated urinary tract obstruction\n* Had previous hemi- or total-body radiation.\n* Had previous adoptive T-cell therapy (e.g., chimeric antigen receptor T-cell \\[CAR-T therapy, T-cell receptor \\[TCR\\] therapy, etc.)\n* Unable to lie flat during, or otherwise tolerate, single photon emission computed tomography (SPECT), positron emission tomography (PET), computed tomography (CT) or magnetic resonance imaging (MRI).",
   "enrollment": 340,
   "has_results": false,
@@ -103,14 +102,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "알려진 활성 중추신경계(CNS) 전이 또는 수막 암종증",
-    "유의미한 심혈관 질환",
-    "이전 반신 또는 전신 방사선 치료력"
+    "활동성 뇌전이 또는 수막 암종증",
+    "중대한 심혈관 질환",
+    "치료되지 않은 요로 폐쇄",
+    "이전의 전신 또는 반신 방사선 치료"
    ],
    "max_prior_lines": 2,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 1~2가지를 받은 FAP 양성 국소진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "이전 치료를 1~2가지 받은 FAP 양성 진행성 췌장암 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

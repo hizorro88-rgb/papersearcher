@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND/AIM: Cell surface CD39 and CD73 degrade adenosine triphosphate (ATP) into adenosine, promoting immune tolerance in tumor immunity. In this study, we aimed to characterize regulatory B cells (Bregs) and adenosine-producing B cells in pancreatic cancer (PC) and elucidate the underlying mechanisms of immune evasion.\nMATERIALS AND METHODS: Ten patients with PC were recruited, then peripheral blood mononuclear cells (PBMCs) were collected pre-neoadjuvant chemotherapy (NAC), post-NAC, and postoperatively. The frequencies of CD73+CD39+ B cells and Bregs were analyzed by flow cytometry. The prognostic significance of CD73 expression in the tumor stroma was evaluated in 106 PC patients through immunohistochemistry (IHC) staining.\nRESULTS: IHC analysis demonstrated that CD73 was significantly overexpressed in tumor-infiltrating lymphocytes compared with adjacent normal tissues. Furthermore, high CD73 expression was significantly associated with poorer prognosis compared with low CD73 expression. The frequency of CD19+CD73+CD39+ B cells among PBMCs was significantly lower postoperatively compared with pre-NAC and post-NAC. In PC patients, the frequency of CD73+CD39+ B cells correlated with that of IL-10-producing B cells, with a significant decrease in Bregs observed postoperatively.\nCONCLUSION: Adenosine-producing immune cells in PC tissues were associated with poor prognosis, whereas CD73+CD39+ B cells decreased during treatment in patients with PC. These findings provide preliminary evidence that adenosine-producing B cells may be associated with clinical outcomes in PC, warranting further investigation in larger cohorts.",
+ "authors": [
+  "Kishino M",
+  "Murakami Y",
+  "Urakami K",
+  "Uehira K",
+  "Yoshida J",
+  "Yagyu T",
+  "Shimizu S",
+  "Morimoto M"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42946444",
+ "importance": 0.69,
+ "key_points_ko": [
+  "췌장암 환자 106명의 조직 분석에서 종양 기질 내 높은 CD73 발현은 낮은 발현에 비해 유의하게 불량한 예후와 연관되었습니다.",
+  "선행화학요법(NAC) 전후와 비교했을 때 수술 후 말초혈액 내 CD19+CD73+CD39+ B 세포의 비율이 유의하게 감소했습니다.",
+  "CD73+CD39+ B 세포의 비율은 인터루킨-10(IL-10) 생성 B 세포와 연관성을 보였으며 수술 후 조절 B 세포가 현저히 감소했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.21873/anticanres.18437",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42946444"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anticancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946444/"
+ },
+ "summary_ko": "이 연구는 췌장암 환자에서 아데노신을 생성하는 CD73+CD39+ B 세포와 조절 B 세포(Bregs)가 면역 회피에 미치는 영향을 분석했습니다. 췌장암 환자 10명의 말초혈액 단핵구(PBMC) 분석 결과, CD19+CD73+CD39+ B 세포의 비율이 수술 후 유의하게 감소했습니다. 또한 106명의 환자 조직을 분석한 결과, 종양 조직 내 높은 CD73 발현은 안 좋은 예후와 연관되어 있었습니다. 아데노신 생성 B 세포가 췌장암 환자의 임상 경과와 연관되어 있음을 보여주는 기초 연구입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Impact of CD73+CD39+ B Cells on Immune Evasion in Pancreatic Cancer",
+ "title_ko": "췌장암에서 CD73+CD39+ B 세포가 면역 회피에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

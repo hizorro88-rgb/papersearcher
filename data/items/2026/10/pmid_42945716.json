@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer is a highly aggressive malignancy with late diagnosis, early metastasis, poor prognosis, and limited therapeutic options. To address this unmet clinical need, we employed JOA as a lead compound and developed its derivative, JDW312, through structural optimization. The effects and underlying mechanisms of JDW312 were investigated using cell proliferation assays, flow cytometry, Western blotting, immunohistochemistry, and SW1990 xenograft models. In vitro, JDW312 exhibited potent and moderately selective anti-proliferative activity against pancreatic cancer cells SW1990 (IC50 = 0.93 ± 0.08 μM), primarily through activation of the ROS/MEK/ERK signaling pathway, leading to apoptosis and autophagy induction and suppression of cell proliferation. In vivo, JDW312 (20 mg/kg, tumor inhibition rate 53.04%) showed significantly greater anti-tumor efficacy than oridonin (20 mg/kg, tumor inhibition rate 25.16%). Moreover, its combination with gemcitabine markedly enhanced anti-tumor activity while maintaining a tolerable safety profile. Collectively, these findings identify JDW312 as a promising therapeutic candidate for pancreatic cancer, either alone or in combination with standard chemotherapy.",
+ "authors": [
+  "Wang W",
+  "Ding X",
+  "Liu H",
+  "Miao Y",
+  "Geng M",
+  "Huang Q",
+  "Cui Y",
+  "Gao F"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42945716",
+ "importance": 0.55,
+ "key_points_ko": [
+  "JDW312는 췌장암 세포주(SW1990)에서 반수 최대 억제 농도(IC50) 0.93 ± 0.08 μM로 강력한 세포 증식 억제 효과를 나타냈습니다.",
+  "동물 이식 모델에서 JDW312(20 mg/kg)의 종양 억제율은 53.04%로, oridonin(20 mg/kg)의 25.16%보다 우수한 항암 효과를 보였습니다.",
+  "JDW312와 gemcitabine(젬시타빈)의 병용 투여는 내약 가능한 안전성을 유지하면서 항암 활성을 유의하게 강화했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1016/j.bioorg.2026.110656",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42945716"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Bioorg Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945716/"
+ },
+ "summary_ko": "본 연구는 오리도닌(oridonin) 유도체 구조 최적화를 통해 개발된 신규 화합물 JDW312의 췌장암 치료 효과와 작용 기전을 평가했습니다. 세포 실험에서 JDW312는 활성산소(ROS)/MEK/ERK 신호 전달 경로를 활성화하여 췌장암 세포의 사멸과 자가포식을 유도하고 증식을 억제했습니다. 동물 이식 모델 연구 결과 JDW312 단독 투여 및 gemcitabine(젬시타빈)과의 병용 투여 시 종양 억제 효과가 현저히 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "JDW312 enhances gemcitabine efficacy in pancreatic cancer through ROS/MEK/ERK activation",
+ "title_ko": "ROS/MEK/ERK 활성화를 통해 췌장암에서 젬시타빈의 효능을 향상시키는 JDW312",
+ "trial": null,
+ "type": "paper"
+}

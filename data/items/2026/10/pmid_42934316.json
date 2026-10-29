@@ -26,16 +26,16 @@
   "사망 전 6개월 동안 신체 이미지 고통(β = 3.54, 95% CI: 1.67-5.41)과 체중 걱정(β = 2.98, 95% CI: 0.53-5.44)이 유의하게 증가했습니다.",
   "변화 속도에서 남녀 간 통계적으로 유의한 차이는 없었으나, 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 호소하는 경향을 보였습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.1007/s00520-026-11420-4",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13710564",
   "pmid": "42934316"
  },
  "pub_types": [
   "Journal Article",
-  "Randomized Controlled Trial"
+  "Observational Study"
  ],
  "published_at": "2026-10-27",
  "relevance": 0.8,

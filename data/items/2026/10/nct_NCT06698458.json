@@ -23,10 +23,11 @@
  "importance": 0.71,
  "key_points_ko": [
   "목표 환자 수는 최대 50명입니다.",
-  "주요 목적은 치료 관련 이상반응 평가를 통한 안전성 확인입니다.",
-  "부수적 목적으로 전체 생존기간과 무진행 생존기간 등 유효성을 평가합니다."
+  "국소 진행성(코호트 1) 및 전이성(코호트 2) 췌장암 환자를 대상으로 합니다.",
+  "화학요법(mFOLFIRINOX 또는 Gemcitabine/Abraxane) 1~4주기 진행 후 알파 다트(Alpha DaRT) 삽입 시술을 병용합니다.",
+  "평가 지표는 이상반응 안전성, 전체 생존기간(OS), 무진행 생존기간(PFS), 통증 조절 및 수술적 절제율입니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06698458"
  },
- "summary_ko": "이 연구는 새로 진단된 국소 진행성 또는 전이성 췌장암 환자 50명을 대상으로 항암화학요법과 알파선 방출선원(Alpha DaRT) 치료를 병용하는 임상시험입니다. 주요 목적은 기기 관련 이상반응(AE)의 누적 발생률, 심각도, 결과를 바탕으로 병용 치료의 안전성을 평가하는 것입니다. 부수적 목적에는 전체 생존기간(OS)과 무진행 생존기간(PFS)을 통한 유효성 평가, 통증 조절 평가, 코호트 1에서의 수술적 절제율 평가가 포함됩니다. 환자들은 질병 상태에 따라 코호트 1(국소 진행성) 또는 코호트 2(전이성)로 나뉘며, mFOLFIRINOX 또는 Gemcitabine/Abraxane 치료와 함께 DaRT 삽입 시술을 받게 됩니다.",
+ "summary_ko": "이 연구는 새로 진단된 국소 진행성 및 전이성 췌장암 환자 50명을 대상으로 화학요법과 알파 다트(Alpha DaRT) 방사선 치료를 병용하는 다기관 임상시험입니다. 1차 목적은 장치 관련 이상반응의 발생률과 심각도를 평가하여 안전성을 확인하는 것입니다. 2차 목적은 전체 생존기간(OS)과 무진행 생존기간(PFS)을 통한 유효성 평가, 통증 조절, 그리고 코호트 1에서의 수술적 절제율 평가를 포함합니다. 환자들은 mFOLFIRINOX 또는 Gemcitabine/Abraxane 치료를 시작하고 항암 치료의 첫 4주기 내에 DaRT 삽입 시술을 받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "Alpha radiation",
@@ -58,7 +59,7 @@
   "Unresectable Pancreatic Cancer"
  ],
  "title": "Alpha Radiation Emitters (DaRT) With Chemotherapy for the Treatment of Locally Advanced and Metastatic Pancreatic Cancer",
- "title_ko": "국소 진행성 및 전이성 췌장암 환자를 위한 항암화학요법과 알파선 방출선원(DaRT) 병용 임상시험",
+ "title_ko": "국소 진행성 및 전이성 췌장암 치료를 위한 화학요법과 알파선 방사선 방출기(DaRT) 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -66,7 +67,7 @@
    "Metastatic Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: \n- 조직학적 및/또는 세포학적으로 확진된 새로 진단된 국소 진행성 절제 불가 췌관선암(코호트 1) 또는 전이성 췌관선암(코호트 2)\n- DaRT 삽입 전 mFOLFIRINOX 1~4주기 치료 시작 환자\n- 알파 DaRT 선원 삽입이 기술적으로 가능한 표적 병변\n- RECIST 1.1 기준에 따른 측정 가능 병변 존재\n- 가장 긴 직경이 5 cm 이하인 병변\n- ECOG 수행능력 0~2\n\n제외 기준: \n- 코호트 1의 경우 경계성 절제 불가 췌장암 또는 수술 가능 환자\n- mFOLFIRINOX 1~4주기를 제외하고 췌장암에 대한 이전 치료를 받은 경우\n- 임상적으로 유의미한 심혈관 질환\n- 전신 치료가 필요한 활동성 감염 등 조절되지 않는 동반 질환\n- 진행 중이거나 적극적인 치료가 필요한 알려진 추가 악성 종양",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 새로 진단된 국소 진행성 수술 불가 췌장선암(코호트 1) 또는 전이성 췌장선암(코호트 2)\n- DaRT 삽입 전 mFOLFIRINOX(최대 4주기) 치료 시작\n- 알파 다트(Alpha DaRT) 소스 삽입이 기술적으로 가능한 표적 병변\n- RECIST 1.1 기준에 따른 측정 가능한 병변\n- 최장 직경 5 cm 이하의 병변\n- 다학제 팀에 의해 승인된 간질성 방사선 치료 적응증\n- ECOG 수행능력 0~2\n- 기대여명 6개월 초과\n- 연령 18세 이상\n\n제외 기준:\n- 코호트 1의 경우: 경계성 절제 불가능 췌장암이거나 환자가 수술을 거부하지 않는 한 수술 탐색이 가능한 경우\n- 코호트 1 및 2: 1~4주기의 mFOLFIRINOX를 제외한 항암화학요법, 방사선 치료, 면역요법 등 췌장암에 대한 이전 치료력\n- 치료 성분에 대한 알려진 과민반응\n- 전신성 면역억제 치료를 받는 환자(간헐적인 단기 전신 코르티코스테로이드 제외)\n- 임상적으로 유의미한 심혈관계 질환 (뉴욕심장협회 분류 III-IV 등)\n- 조절되지 않는 감염이나 연구 협조를 방해할 수 있는 정신 질환 또는 약물 남용 장애\n- 진행 중이거나 적극적인 치료가 필요한 추가 악성 종양 병력\n- 방사선 합병증 위험이 높은 유전적 질환, 염증성 장질환 또는 결합조직 질환이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically and/or cytologically proven newly diagnosed locally advanced inoperable pancreatic adenocarcinoma (Cohort 1) OR histologically and/or cytologically proven newly diagnosed metastatic pancreatic adenocarcinoma (Cohort 2).\n* Patients will start treatment with mFOLFIRINOX (up to 4 cycles) before DaRT insertion\n* Target lesion is technically amenable for Alpha DaRT sources implantation.\n* Measurable lesion per RECIST (version 1.1) criteria\n* Lesion size ≤ 5 cm in the longest diameter\n* Interstitial radiation indication validated by a multidisciplinary team.\n* ECOG Performance Status Scale 0 -2\n* Life expectancy is more than 6 months\n* WBC ≥ 3500/μl, granulocyte ≥ 1500/μl\n* Platelet count ≥60,000/μl\n* Creatinine ≤1.9 mg/dL\n* AST and ALT ≤ 2.5 X upper limit of normal (ULN)\n* INR \\< 1.4 for patients not on Warfarin\n* Age ≥18 years old\n* Subjects are willing and able to sign an informed consent form\n* Women of childbearing potential (WOCBP) will have evidence of negative pregnancy test before the Ra-224 implantation and are required to use an acceptable contraceptive method to prevent pregnancy for 3 months after initiation of Alpha DaRT therapy.\n* Patients must agree to use adequate contraception (vasectomy or barrier method of birth control) prior to study entry, for the duration of study participation and for 3 months after DaRT insertion.\n\nExclusion Criteria:\n\n* For Cohort 1 only: Borderline unresectable pancreatic cancer, and/or fit for surgical exploration unless patient refuses surgery.\n* For Cohort 1 and Cohort 2: Prior treatment for pancreatic cancer, including chemotherapy except for 1 - 4 cycles of mFOLFIRINOX, radiation therapy, immunotherapy, etc.\n* Known hypersensitivity to any of the components of the treatment.\n* Patients undergoing systemic immunosuppressive therapy excepting intermittent, brief use of systemic corticosteroids.\n* Clinically significant cardiovascular disease, e.g. cardiac failure of New York Heart Association classes III-IV, uncontrolled coronary artery disease, cardiomyopathy, uncontrolled arrhythmia, uncontrolled hypertension, or history of myocardial infarction in the last 12 months.\n* Patients with uncontrolled intercurrent illnesses including, but not limited to an active infection requiring systemic therapy or a known psychiatric or substance abuse disorder(s) that would interfere with cooperation with the requirements of the trial or interfere with the study endpoints.\n* Has a known additional malignancy that is progressing or requires active treatment.\n\nExceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the skin that has undergone potentially curative therapy, low risk prostate cancer, or in situ cervical cancer.\n\n* Patient requires treatment not specified in this protocol which may conflict with the endpoints of this study including evaluation of response or toxicity of DaRT.\n* Patients do not agree to use adequate contraception (vasectomy or barrier method of birth control) prior to study entry, for the duration of study participation and for 3 months after DaRT insertion.\n* Volunteers participating in another interventional study in the past 30 days which might conflict with the endpoints of this study or the evaluation of response or toxicity of DaRT.\n* High probability of protocol non-compliance (in opinion of investigator).\n* Breastfeeding women or women of childbearing potential unwilling or unable to use an acceptable contraceptive method to prevent pregnancy for 3 months after DaRT insertion\n* Patients who are at high risk of complications from radiation due to genetic conditions/mutations, inflammatory bowel disease, or connective tissue disease.",
   "enrollment": 50,
   "has_results": false,
@@ -85,14 +86,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "조절되지 않는 심혈관 질환",
-    "활동성 감염",
-    "진행 중인 다른 암 병력"
+    "이전 췌장암 치료력(단, mFOLFIRINOX 최대 4주기까지는 허용)",
+    "조절되지 않는 심혈관계 질환",
+    "조절되지 않는 감염 또는 정신 질환",
+    "다른 진행성 악성 종양 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "새로 진단된 국소 진행성 또는 전이성 췌장암 환자 (mFOLFIRINOX 1-4주기 이외 이전 치료력이 없어야 함)",
+   "notes_ko": "새로 진단된 국소 진행성 또는 전이성 췌장암 환자를 위한 임상시험입니다.",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",

@@ -1,5 +1,5 @@
 {
- "abstract": "BOLD-100 is an intravenously administered sterile solution containing the ruthenium-based small molecule. BOLD-100 has been shown to preferentially decrease the expression of GRP78 in tumour cells and ER stressed cells when compared to normal cells. BOLD-100 will be combined with cytotoxic FOLFOX chemotherapy in this study, with a dose escalation cohort to ensure tolerability and safety, followed by a cohort expansion phase.\n\nBOLD-100 is a novel, targeted anti-cancer therapy which is an intravenously administered small molecule drug. In a previous Phase 1 study (NCT01415297) BOLD-100 showed low toxicity with minimal hematological issues as well as some potential anti-tumour activity. The lack of observed hematological toxicity and neurotoxicity position BOLD-100 well for use in combination with a broad range of standard-of-care (SOC) chemotherapy regimens.\n\nThis is a prospective, multicenter non-randomized Phase 1b/2a dose escalation \\& expanded cohort study of BOLD-100 in patients with advanced gastrointestinal malignancies (colorectal, pancreatic, gastric cancers, and cholangiocarcinoma) receiving standard-of-care FOLFOX chemotherapy. Enrollment in Arms I - VI is closed to enrollment.\n\nColorectal cancer (ARM VII) for patients who are oxaliplatin naïve and have received only 1 prior line of therapy in the metastatic setting. Within this arm, participants will be randomized to one of two dose levels of BOLD-100 - either 500 mg/m2 or 625 mg/m2 in combination with FOLFOX or FOLFOX alone, in a 1:1:1 ratio. Participants enrolled into Arm VII will complete quality of life questionnaires examining general quality of life and neuropathy associated quality of life parameters.",
+ "abstract": "BOLD-100 is an intravenously administered sterile solution containing the ruthenium-based small molecule. BOLD-100 has been shown to preferentially decrease the expression of GRP78 in tumour cells and ER stressed cells when compared to normal cells. BOLD-100 will be combined with cytotoxic FOLFOX ± Bevacizumab chemotherapy in this study, with a dose escalation cohort to ensure tolerability and safety, followed by a cohort expansion phase. This study now includes as a treatment intervention the SOC combination FOLFOX ± Bevacizumab, if indicated.\n\nBOLD-100 is a novel, targeted anti-cancer therapy which is an intravenously administered small molecule drug. In a previous Phase 1 study (NCT01415297) BOLD-100 showed low toxicity with minimal hematological issues as well as some potential anti-tumour activity. The lack of observed hematological toxicity and neurotoxicity position BOLD-100 well for use in combination with a broad range of standard-of-care (SOC) chemotherapy regimens.\n\nThis is a prospective, multicenter non-randomized Phase 1b/2a dose escalation \\& expanded cohort study of BOLD-100 in patients with advanced gastrointestinal malignancies (colorectal, pancreatic, gastric cancers, and cholangiocarcinoma) receiving standard-of-care FOLFOX chemotherapy. Enrollment in Arms I - VI is closed to enrollment.\n\nColorectal cancer (ARM VII) for patients who are oxaliplatin naïve and have received only 1 prior line of therapy in the metastatic setting. Within this arm, participants will be randomized to one of two dose levels of BOLD-100 - either 500 mg/m2 or 625 mg/m2 in combination with FOLFOX ± Bevacizumab or FOLFOX alone, in a 1:1:1 ratio. Participants enrolled into Arm VII will complete quality of life questionnaires examining general quality of life and neuropathy associated quality of life parameters. Participants will be eligible to receive the monoclonal antibody Bevacizumab as part of the standard of care treatment regimen (FOLFOX) if indicated.",
  "authors": [],
  "categories": [
   "trial",
@@ -14,16 +14,20 @@
    "date": "2026-10-06",
    "detail": null,
    "event": "created"
+  },
+  {
+   "date": "2026-10-29",
+   "detail": "참여 조건 변경",
+   "event": "eligibility_changed"
   }
  ],
  "id": "nct:NCT04421820",
- "importance": 0.77,
+ "importance": 0.87,
  "key_points_ko": [
-  "BOLD-100은 암세포의 스트레스 관련 단백질 GRP78 발현을 억제하는 표적 기전의 정맥 주사제입니다.",
-  "목표 시험 대상자 수는 총 220명이며, 한국 내 5개 기관을 포함하여 진행 중입니다.",
-  "1차 또는 이전 치료 경험이 있는 진행성 소화기암 환자에서 FOLFOX 병용 시의 내약성 및 안전성을 평가합니다."
+  "임상시험 단계는 1b/2a상이며 목표 인원은 220명입니다.",
+  "국내 5개 기관이 참여하고 있습니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": null,
   "nct": [
@@ -46,11 +50,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04421820"
  },
- "summary_ko": "루테늄 기반의 신약 후보물질 BOLD-100을 표준 세포독성 항암요법인 FOLFOX와 병용 투여하는 임상 1b/2a상 연구입니다. 췌장암, 대장암, 위암, 담관암 등 진행성 소화기암 환자를 대상으로 용량 증량 및 확장 코호트를 진행합니다. 이전 1상 연구에서 혈액학적 독성이나 신경독성이 적어 다른 항암제와의 병용 가능성을 확인했습니다. 현재 췌장암이 포함된 초기 코호트(Arms I-VI)는 등록이 마감되었으며, 대장암 코호트(Arm VII) 중심으로 진행 중입니다.",
+ "summary_ko": "이 연구는 진행성 소화기암(대장암, 췌장암, 위암, 담관암) 환자를 대상으로 신규 항암제인 BOLD-100을 표준 치료인 FOLFOX(± bevacizumab)와 병용 투여하여 안전성과 내인성을 평가하는 제1b/2a상 임상시험입니다. 루테늄(ruthenium) 기반의 소분자 약물인 BOLD-100은 종양 세포에서 GRP78 발현을 감소시키는 기전을 가지고 있습니다. 현재 대장암 환자를 대상으로 한 ARM VII 코호트가 진행 중입니다. 목표 인원은 220명이며 국내 5개 기관이 참여합니다.",
  "summary_source": "llm",
  "tags": [],
- "title": "BOLD-100 in Combination With FOLFOX for the Treatment of Advanced Solid Tumours",
- "title_ko": "진행성 고형암 환자를 대상으로 한 BOLD-100과 FOLFOX 병용요법의 임상 1/2상 시험",
+ "title": "BOLD-100 in Combination With FOLFOX With or Without Bevacizumab for the Treatment of Advanced, Solid Tumours",
+ "title_ko": "진행성 고형암 환자를 위한 BOLD-100과 FOLFOX(± Bevacizumab) 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -70,15 +74,15 @@
     "phone": "604-262-9934"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 전이성 또는 절제 불가능한 소화기암(췌장암, 대장암, 위암, 담관암) 환자\n- RECIST v1.1 기준 측정 가능한 병변이 있는 환자\n- 기대 여명이 16주 이상인 환자\n- ECOG 수행능력 점수 0 또는 1점\n- 적절한 장기 기능 보유자\n\n제외 기준:\n- 2등급 초과의 말초신경병증이 있는 경우\n- 플루오로우라실(fluorouracil) 또는 옥살리플라틴(oxaliplatin)에 대한 불내성 또는 중대한 과민반응 병력\n- 중추신경계(CNS) 전이 또는 연수막 전이 병력\n- 등록 전 6개월 이내의 뇌혈관 질환, 심각한 위장관 출혈, 또는 중대한 심장 질환 병력\n- 등록 전 3년 이내의 다른 악성종양 병력\n- 흡수장애 증후군을 동반한 활동성 위장관 질환",
-  "eligibility_text": "Inclusion Criteria:\n\n1. Be 18 years or older.\n2. Be male or non-pregnant females who agree to comply with applicable contraceptive requirements of the protocol.\n3. Histologically and/or cytologically confirmed gastrointestinal tumours that are metastatic or unresectable. (ARM VII): Patients must have received only 1 prior line of therapy in the metastatic setting.\n4. Have measurable disease according to RECIST v1.1.\n5. Have an anticipated survival of at least 16 weeks.\n6. Be ambulatory, with an ECOG performance score of 0 or 1.\n7. Have adequate organ function.\n8. Be on stable doses of any drugs that may affect hepatic drug metabolism or renal drug excretion.\n9. Be fully informed about their illness and the investigational nature of the study protocol, and sign a REB-approved Informed Consent Form (ICF).\n10. (ARM VII): BRAF wild-type tumour status.\n\nExclusion Criteria:\n\n1. Neuropathy \\> grade 2\n2. Previous intolerance to or significant reaction secondary to fluorouracil or oxaliplatin.\n3. Cerebrovascular accident within the past 6 months before the start of treatment.\n4. History or presence of central nervous system (CNS) metastasis or leptomeningeal tumours.\n5. Any serious medical conditions that might be aggravated by treatment or limit compliance.\n6. Any history of serious cardiac illness.\n7. Hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months before the start of treatment.\n8. Any other known malignancy within 3 years before the start of treatment.\n9. Active gastrointestinal tract disease with malabsorption syndrome.\n10. Non-healing wound, fracture, or ulcer, or presence of symptomatic peripheral vascular disease.\n11. Treatment with radiation therapy or surgery within 4 weeks prior to starting treatment.\n12. Recent history of weight loss \\> 10% of current body weight in past 3 months before the start of treatment.\n13. HIV-positive subjects on combination anti-retroviral therapy due to the potential for PK interactions with the study agent.\n14. Concurrent use of another investigational therapy or anti-cancer therapy within 4 weeks before the start of treatment.\n15. Currently breastfeeding\n16. Dihydropyrimidine Dehydrogenase (DPD) deficiency\n17. Current or prior treatment with potent inhibitors of Dihydropyrimidine Dehydrogenase (DPD)\n18. (ARM VII): Prior exposure to BOLD-100\n19. (ARM VII): Subjects with microsatellite-high (MSI-H) Tumours\n20. (ARM VII): Concurrent monoclonal antibody therapy for mCRC (anti-EGFR, anti-VEGF or anti-HER2)",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인.\n- 전이성이거나 수술 불가능하며 FOLFOX ± bevacizumab 치료 대상이 되는 조직학적으로 확진된 소화기암 환자(ARM VII의 경우 전이성 단계에서 1차 치료만 받았어야 함).\n- RECIST v1.1 기준 측정 가능한 병변이 있는 환자.\n- 예상 생존 기간이 16주 이상인 환자.\n- ECOG 수행능력 점수가 0 또는 1인 환자.\n- (ARM VII) BRAF 야생형(wild-type) 종양 상태.\n\n제외 기준:\n- 2등급 초과의 말초신경병증(neuropathy)이 있는 환자.\n- 5-FU, oxaliplatin, bevacizumab에 대한 이전 불내성이 있거나 심각한 부작용이 있었던 환자.\n- 최근 6개월 이내 뇌졸중(cerebrovascular accident) 병력이 있는 환자.\n- 중추신경계(CNS) 전이 또는 연수막 종양의 병력이나 현재 상태가 있는 환자.\n- 3년 이내에 다른 악성 종양의 병력이 있는 환자.",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Be 18 years or older.\n2. Be male or non-pregnant females who agree to comply with applicable contraceptive requirements of the protocol.\n3. Histologically and/or cytologically confirmed gastrointestinal tumours that are metastatic or unresectable, and are subject to receive FOLFOX ± Bevacizumab. (ARM VII): Patients must have received only 1 prior line of therapy in the metastatic setting.\n4. Have measurable disease according to RECIST v1.1.\n5. Have an anticipated survival of at least 16 weeks.\n6. Be ambulatory, with an ECOG performance score of 0 or 1.\n7. Have adequate organ function.\n8. Be on stable doses of any drugs that may affect hepatic drug metabolism or renal drug excretion.\n9. Be fully informed about their illness and the investigational nature of the study protocol, and sign a REB-approved Informed Consent Form (ICF).\n10. (ARM VII): BRAF wild-type tumour status.\n\nExclusion Criteria:\n\n1. Neuropathy \\> grade 2\n2. Previous intolerance to or significant reaction secondary to fluorouracil, oxaliplatin, or bevacizumab.\n3. Cerebrovascular accident within the past 6 months before the start of treatment.\n4. History or presence of central nervous system (CNS) metastasis or leptomeningeal tumours.\n5. Any serious medical conditions that might be aggravated by treatment or limit compliance.\n6. Any history of serious cardiac illness.\n7. Hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months before the start of treatment.\n8. Any other known malignancy within 3 years before the start of treatment.\n9. Active gastrointestinal tract disease with malabsorption syndrome.\n10. Non-healing wound, fracture, or ulcer, or presence of symptomatic peripheral vascular disease.\n11. Treatment with radiation therapy or surgery within 4 weeks prior to starting treatment.\n12. Recent history of weight loss \\> 10% of current body weight in past 3 months before the start of treatment.\n13. HIV-positive subjects on combination anti-retroviral therapy due to the potential for PK interactions with the study agent.\n14. Concurrent use of another investigational therapy or anti-cancer therapy within 4 weeks before the start of treatment.\n15. Currently breastfeeding\n16. Dihydropyrimidine Dehydrogenase (DPD) deficiency\n17. Current or prior treatment with potent inhibitors of Dihydropyrimidine Dehydrogenase (DPD)\n18. (ARM VII): Prior exposure to BOLD-100\n19. (ARM VII): Subjects with microsatellite-high (MSI-H) Tumours\n20. (ARM VII): Concurrent monoclonal antibody therapy for mCRC (anti-EGFR, anti-VEGF or anti-HER2)",
   "enrollment": 220,
   "has_results": false,
   "interventions": [
-   "BOLD-100 +/- FOLFOX Chemotherapy (Arm VII)",
+   "BOLD-100 ± FOLFOX ± Bevacizumab Chemotherapy (Arm VII)",
    "BOLD-100 in combination with FOLFOX Chemotherapy (Arms I-VI)"
   ],
-  "last_update_posted": "2026-05-18",
+  "last_update_posted": "2026-10-28",
   "location_countries": [
    "Canada",
    "Germany",
@@ -86,6 +90,7 @@
    "Italy",
    "South Korea",
    "Spain",
+   "United Kingdom",
    "United States"
   ],
   "locations_kr": [
@@ -126,15 +131,14 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "2등급 초과의 말초신경병증",
-    "중추신경계(뇌) 전이 또는 뇌수막 전이",
-    "최근 6개월 이내 뇌혈관 질환 또는 중대한 심장 질환 병력",
-    "최근 3년 이내 다른 암 병력",
-    "옥살리플라틴 또는 5-FU 계열 약물에 심각한 부작용 병력"
+    "최근 6개월 이내 뇌졸중 병력이 있는 경우",
+    "중추신경계(CNS) 전이 병력",
+    "3년 이내 다른 악성 종양 병력"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "진행성 또는 전이성 췌장암 및 소화기암 환자를 대상으로 BOLD-100과 FOLFOX 병용 효과를 평가하는 시험 (췌장암 코호트 등록 마감 여부 확인 필요)",
+   "notes_ko": "전이성 또는 수술 불가능한 진행성 소화기암 환자를 위한 BOLD-100 병용 요법 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
@@ -145,10 +149,10 @@
   },
   "max_age": null,
   "min_age": "18 Years",
-  "n_locations": 24,
+  "n_locations": 28,
   "nct_id": "NCT04421820",
   "phase": "PHASE1/PHASE2",
-  "primary_completion_date": "2026-06-01",
+  "primary_completion_date": "2027-07-01",
   "sex": "ALL",
   "sponsor": "Bold Therapeutics, Inc.",
   "start_date": "2020-08-28",

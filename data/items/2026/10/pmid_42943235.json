@@ -29,11 +29,11 @@
   "Talazoparib와 irinotecan 병용은 72시간보다 10일 배양 검사에서 더 큰 성장 억제와 높은 시너지 점수를 나타냈습니다.",
   "이러한 장기 병용 효과는 5개의 BRCA1/2 야생형 췌관선암 세포주와 MIA PaCa-2 이종이식(xenograft) 모델에서 확인되었습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/ph19101538",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13708644",
   "pmid": "42943235"
  },
  "pub_types": [

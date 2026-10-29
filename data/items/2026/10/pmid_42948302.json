@@ -1,0 +1,62 @@
+{
+ "abstract": "As a well-established precursor lesion of pancreatic cancer, intraductal papillary mucinous neoplasm (IPMN) of the pancreas remains characterized by notable challenges with regard to diagnosis and treatment. Owing to its heterogeneous biological behavior, which can range from benign lesions to invasive carcinomas, IPMN represents a marked clinical challenge in management. Biopsy in addition to endoscopic retrograde cholangiopancreatography (ERCP) using eyeMAX can aid in the development of an individualized treatment plan. The present report outlines the case of a patient with suspected IPMN who was admitted to Shandong Provincial Hospital Affiliated to Shandong First Medical University (Jinan, China). Endoscopic ultrasound examination revealed a dilated main pancreatic duct (MPD). The duodenal papilla showed signs of a fish mouth covered with mucus through observation by a duodenoscope. The patient refused the surgical treatment due to concerns regarding the risks of surgery. Subsequently, aided by ERCP using eyeMAX, the villus-like and papillary protrusions were visualized intuitively in the MPD wall of the pancreatic head segment. A total of four pieces of tissue were taken from the pancreatic duct for biopsy, with pathology revealing low-grade dysplasia. Furthermore, direct observation revealed that the wall of the body-tail portion of the MPD was smooth. Given that the pathology revealed a low malignant transformation tendency, it was decided that a follow-up strategy would be conducted for the patient. The most recent follow-up occurred in July 2026. The patient was generally in good condition without jaundice, pancreatitis or abdominal pain. Therefore, biopsies based on ERCP using eyeMAX may be helpful in developing individualized treatment plans for patients with IPMNs in the future.",
+ "authors": [
+  "Wang W",
+  "Li T",
+  "Hu J",
+  "Luan Z",
+  "Yu Y"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42948302",
+ "importance": 0.49,
+ "key_points_ko": [
+  "eyeMAX를 사용한 ERCP로 주췌관 내부 병변을 직접 관찰하고 4개의 조직을 채취하여 생검을 시행했습니다.",
+  "병리 조직 검사 결과 저등급 이형성증(low-grade dysplasia)으로 확인되어 수술을 피하고 추적 관찰 치료 계획을 수립했습니다.",
+  "추적 관찰 동안 환자는 황달, 췌장염, 복통 등의 증상 없이 양호한 상태를 유지했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.3892/etm.2026.13332",
+  "nct": [],
+  "pmcid": "PMC13712098",
+  "pmid": "42948302"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Exp Ther Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42948302/"
+ },
+ "summary_ko": "췌장암 전구 병변인 췌관내 유두상 점액 종양(IPMN) 의심 환자에게 eyeMAX를 활용한 내시경 역행 췌담관 조영술(ERCP) 기반 생검을 시행한 증례입니다. 환자는 수술 위험성에 대한 우려로 수술적 치료를 거부했으나, eyeMAX ERCP를 통해 주췌관(MPD) 내부의 유두상 돌기를 직접 관찰하고 조직 생검을 진행했습니다. 병리 검사 결과 악성도가 낮은 저등급 이형성증으로 확인되어 수술 대신 추적 관찰을 결정했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A combination of biopsy using eyeMAX and ERCP for the definitive diagnosis of intraductal papillary mucinous neoplasm: A case report",
+ "title_ko": "췌관내 유두상 점액 종양의 확진을 위한 eyeMAX 및 ERCP 활용 생검 병용: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

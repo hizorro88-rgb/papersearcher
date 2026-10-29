@@ -1,0 +1,57 @@
+{
+ "abstract": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with limited therapeutic options and an urgent need for novel treatment strategies. This study presented a network-based computational framework for in silico genome-wide therapeutic target identification and drug discovery.\nMETHODS: A network-based computational framework was developed that integrates transcriptomic data from multiple independent PDAC cohorts to construct gene co-expression networks. Prognostic gene signatures were incorporated to identify feature modules via hypergeometric enrichment analysis. Key regulatory genes within these modules were prioritized using multi-metric centrality analysis. Functional relevance of candidate targets was assessed using single-cell ribonucleic acid (RNA) sequencing, genome-wide clustered regularly interspaced short palindromic repeats (CRISPR) dependency datasets, and clinical survival analyses. To enable therapeutic translation, this study implemented a transcriptome-guided drug discovery strategy to systematically match pancreatic ductal adenocarcinoma (PDAC)-specific gene expression signatures with compound-induced transcriptional profiles from the Library of Integrated Network-based Cellular Signatures (LINCS) database. Candidate compounds were ranked using a cross-cohort consensus scoring approach and subsequently evaluated in vitro using quantitative reverse transcription polymerase chain reaction (qRT-PCR), Western blotting, and cell viability assays.\nRESULTS: Comprehensive analysis of multi-cohort PDAC transcriptomic data identified 14 key genes with high network centrality, including three potential oncogenic drivers: Cytoskeleton associated protein 2 like (CKAP2L), kinesin family member 18A (KIF18A), and minichromosome maintenance 10 replication initiation factor (MCM10), which exhibited tumor-specific overexpression and poor prognostic associations. Single-cell RNA sequencing (ScRNA-seq) revealed their predominant expression in epithelial tumor cells, while CRISPR screening confirmed functional essentiality. The transcriptome-guided drug discovery approach matched these targets with LINCS perturbation profiles, identifying mitoxantrone/OTSSP167 (CKAP2L inhibitors), PF-3758309 (KIF18A inhibitors), and vorinostat (MCM10 inhibitors) as candidate therapeutics. Experimental validation using qRT-PCR, Western blotting, and cell counting kit-8 (CCK-8) assays collectively demonstrated the dose-dependent therapeutic effects of these compounds, showing significant mRNA suppression, corresponding decreases in protein levels, and potent anti-proliferative activity in PDAC cells.\nCONCLUSION: This study establishes a robust, network-based framework for therapeutic target discovery and transcriptome-driven drug prediction in PDAC. It identifies three novel, functionally essential oncogenic drivers and proposes clinically actionable compounds, offering a scalable approach for addressing undruggable targets in cancer therapy.",
+ "authors": [
+  "Lu J",
+  "Liang W",
+  "Liang Y",
+  "Ren J",
+  "Guo C",
+  "Li X",
+  "Pan J",
+  "Zhang W"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42948742",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1016/j.chmed.2026.03.006",
+  "nct": [],
+  "pmcid": "PMC13712358",
+  "pmid": "42948742"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-03-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chin Herb Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42948742/"
+ },
+ "summary_ko": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with limited therapeutic options and an urgent need for novel treatment strategies. This study presented a network-based computational framework for in silico genome-wide therapeutic target identification and drug discovery.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prediction of therapeutic targets and drug candidates for pancreatic ductal adenocarcinoma by network-based computational framework",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

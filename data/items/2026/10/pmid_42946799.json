@@ -1,0 +1,62 @@
+{
+ "abstract": "Failure of cancer vaccines in clinical trials has been linked to poor preclinical translatability, immunosuppressive tumor microenvironments (TMEs), suboptimal antigen delivery to antigen-presenting cells, limited human MHC antigenicity, and insufficiently safe immune adjuvants. Therefore, this study aimed to design an integrated cancer vaccine and evaluate its efficacy in a KPC orthotopic pancreatic cancer model containing the G12D mutation. A novel immune adjuvant, C-VAX, was developed from the natural Toll-like receptor 2/6 agonist UNE-C1 and covalently linked to a KRASG12D neoantigen and WNT5a, a tumor-associated antigen upregulated in resistant tumors. This integrated vaccine enhanced CD8⁺ T-cell infiltration and reduced α-SMA expression in the TME. The therapeutic effects were further enhanced following anti-PD-1 checkpoint blockade. These findings suggest that vaccines targeting tumor antigens and resistance-associated TME components may promote an immune-responsive TME in refractory cancers.",
+ "authors": [
+  "Cho S",
+  "Kim HY",
+  "Kim N",
+  "Park J",
+  "Kim S",
+  "Song EC",
+  "Lee HS",
+  "Kim U"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42946799",
+ "importance": 0.56,
+ "key_points_ko": [
+  "KRAS G12D 변이 및 WNT5a 항원을 표적으로 하는 새로운 통합 암 백신 전임상 연구입니다.",
+  "종양 내 CD8+ T 세포 침윤을 촉진하고 섬유화 관련 alpha-SMA 발현을 감소시켰습니다.",
+  "항-PD-1 면역항암제와 병용 시 치료 효과가 더욱 강화되는 것을 확인했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1038/s41423-026-01480-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42946799"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Mol Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946799/"
+ },
+ "summary_ko": "본 연구는 KRAS G12D 변이를 가진 췌장암 마우스 모델에서 새로운 암 백신의 치료 효과를 평가했습니다. 연구진은 Toll 유사 수용체 2/6(TLR2/6) 작용제 기반 면역 보조제(C-VAX)에 KRASG12D 신생항원과 WNT5a 항원을 결합한 백신을 개발했습니다. 이 백신은 종양 내 CD8+ T 세포 침윤을 늘리고 섬유화 지표를 감소시키는 것으로 나타났습니다. 또한 항-PD-1(anti-PD-1) 면역항암제와 병용 투여했을 때 치료 효과가 더욱 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
+ "title_ko": "난치성 췌장암 치료를 위해 독창적인 TLR2/6 작용제를 활용한 종양 미세환경 조절 백신 설계",
+ "trial": null,
+ "type": "paper"
+}

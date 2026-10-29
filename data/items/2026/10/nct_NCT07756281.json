@@ -20,10 +20,11 @@
  "id": "nct:NCT07756281",
  "importance": 0.84,
  "key_points_ko": [
-  "수술 불가능 또는 전이성 췌장암 환자 40명을 대상으로 진행되는 1상 임상시험입니다.",
-  "경구 신약 SNV1521과 RAS 표적 치료제 daraxonrasib(다락소나십)의 병용 투여 안전성 및 효능을 평가합니다."
+  "대상 질환은 수술 불가 또는 전이성 췌장암이며 목표 환자 수는 40명입니다.",
+  "중재 치료로 경구용 약물 SNV1521과 daraxonrasib(다락소나십)을 함께 투여합니다.",
+  "주요 평가지표는 안전성과 내약성 용량 확인 및 초기 항종양 효과 평가입니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07756281"
  },
- "summary_ko": "수술이 불가능하거나 전이된 췌장암 환자를 대상으로 임상시험용 경구 약물인 SNV1521과 RAS 표적 치료제인 daraxonrasib(다락소나십)을 함께 투여하는 1상 임상시험입니다. 이 연구의 주요 목적은 병용 요법의 안전성과 내약성을 확인하고 종양 억제 효과의 초기 신호를 평가하는 것입니다. 참여 환자는 반복적인 치료 주기에 따라 약물을 복용하며, 정기적인 혈액 검사와 영상 검사를 통해 부작용과 치료 반응을 평가받게 됩니다.",
+ "summary_ko": "이 연구는 수술로 제거할 수 없거나 전이된 췌장암 환자를 대상으로 경구용 시험약 SNV1521과 RAS 표적 항암제(daraxonrasib)의 병용 요법을 평가하는 1상 임상시험입니다. 주요 목표는 병용 요법의 안전성과 내성 용량을 찾고 암 조절 효과의 초기 징후를 확인하는 것입니다. 참가자들은 반복되는 주기에 따라 연구 약물을 투여받고 부작용과 암 반응을 모니터링하기 위한 검사를 받습니다.",
  "summary_source": "llm",
  "tags": [
   "daraxonrasib",
@@ -55,7 +56,7 @@
   "pancreatic cancer"
  ],
  "title": "First in Human Study of SNV1521 With a RAS Inhibitor for People With Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 환자를 대상으로 한 SNV1521 및 RAS 억제제 병용 요법의 최초 인체 대상 1상 임상시험",
+ "title_ko": "진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용 투여 최초 인간 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -68,7 +69,7 @@
     "phone": "919-451-6590"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상의 성인 환자\n- 수술로 절제할 수 없거나 다른 부위로 전이된 췌장암 진단\n- 조직학적 또는 세포학적으로 확진된 췌장암\n- 영상 검사상 1개 이상의 측정 가능한 종양이 있는 환자\n- 연구 치료를 받기에 충분한 전신 상태 및 장기 기능을 가진 환자\n- 경구 약물 복용이 가능한 환자\n\n제외 기준:\n- 심장, 폐, 간 등에 심각한 질환이 있어 치료가 안전하지 않은 환자\n- 조절되지 않는 활성 감염이 있는 환자\n- 평가를 방해할 수 있는 다른 활성 암이 있는 환자\n- 임상시험 계획서에서 허용하지 않는 이전 치료 또는 약물을 복용한 환자\n- 조절되지 않거나 불안정한 뇌 또는 신경계 전이가 있는 환자\n- 임신 중이거나 수유 중인 환자",
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 성인\n- 수술로 제거할 수 없거나 전이된 췌장암 진단\n- 조직검사 또는 세포검사로 확진된 암\n- 스캔상 최소 1개 이상의 측정 가능한 종양\n- 연구 치료를 받기에 충분한 전반적인 건강 상태 및 장기 기능\n- 경구 약물 복용 가능\n\n제외 기준:\n- 연구 치료를 안전하지 않게 만드는 심각한 심장, 폐, 간 또는 기타 질환\n- 활동성 및 조절되지 않는 감염\n- 연구 평가에 방해될 수 있는 다른 활동성 암\n- 프로토콜에서 허용되지 않는 이전 치료 또는 약물\n- 안정화되거나 조절되지 않는 뇌 또는 신경계 전이\n- 임신 중이거나 모유 수유 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Adults (18 years and older).\n* Diagnosis of pancreatic cancer that cannot be removed by surgery or has spread to other parts of the body.\n* Cancer confirmed by tissue or cell examination (histology or cytology).\n* At least one measurable tumor on scans.\n* Good enough general health and organ function to receive study treatment, as judged by the study doctor.\n* Able to swallow oral medicines.\n* Willing to follow study visit schedule and contraception requirements.\n\nExclusion Criteria:\n\n* Serious heart, lung, liver, or other medical problems that would make study treatment unsafe.\n* Active, uncontrolled infections.\n* Other active cancers that could interfere with study assessments (except certain early-stage cancers that have been treated).\n* Prior treatments or medicines that are not allowed by the protocol (for example, some strong drug interactions).\n* Known brain or nervous system involvement from the cancer that is not stable or controlled.\n* Pregnant or breastfeeding, or unwilling to use required birth control during and after the study.",
   "enrollment": 40,
   "has_results": false,
@@ -86,15 +87,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "조절되지 않거나 불안정한 뇌 전이",
     "심각한 심장, 폐, 간 질환",
-    "조절되지 않는 활성 감염",
-    "다른 활성 암 병력"
+    "활동성 및 조절되지 않는 감염",
+    "조절되지 않는 뇌 또는 신경계 전이",
+    "임신 또는 모유 수유 중인 환자"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "수술이 불가능하거나 전이된 췌장암 환자를 대상으로 SNV1521과 daraxonrasib 병용 요법을 평가하는 1상 임상시험입니다.",
+   "notes_ko": "수술 불가 또는 전이성 췌장암 성인 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

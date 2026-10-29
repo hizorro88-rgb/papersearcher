@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a lethal cancer characterized by a high abundance of cancer-associated fibroblasts (CAFs), which influence therapy response, tumor biology and tumor aggressiveness. CAFs are a heterogeneous cell type and previous single-cell RNA sequencing (scRNAseq) of PDAC tumors identified three main CAF subtypes: myofibroblastic, inflammatory and antigen-presenting CAFs (myCAF, iCAF, apCAF, respectively). However, scRNAseq on large patient cohorts is often not feasible due to costs and technical constraints. Therefore, bulk RNAseq deconvolution can be used to computationally infer cell types within the tumor microenvironment. Here, Statescope deconvolution was used to identify different cell types of the tumor microenvironment within an early-onset PDAC cohort, comprising 74 patients aged under 60. Three CAF states were detected (iCAFs, myCAFs and desmoplastic CAFs), and their correlations with microenvironmental components, mutational signatures and survival were explored. iCAFs were associated with classical-like tumor cells, whereas myCAFs and desmoplastic CAFs were correlated with basal-like tumor cells. Desmoplastic CAFs are associated with inflammatory granulocytes/neutrophils, while negatively associating with monocyte-derived macrophages and immature/transitional B cells. No associations were observed between mutational signatures and the abundance of CAF and epithelial tumor subtypes. Interestingly, a high abundance of CAFs, and specifically increased iCAF abundance, was associated with improved survival. Deconvolution of bulk RNA sequencing data, followed by its integration with clinical and biological parameters, provides insights into the heterogeneity of CAF subpopulations in the tumor microenvironment of early-onset PDAC patients and explores potential associations with clinical outcomes.",
+ "authors": [
+  "Dam N",
+  "Steketee MFB",
+  "Strijk G",
+  "de Koning W",
+  "Hawinkels LJAC",
+  "Kemp V",
+  "van Eijck CHJ",
+  "Kim Y"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42945720",
+ "importance": 0.77,
+ "key_points_ko": [
+  "60세 미만 조기 발병 췌관선암 환자 74명을 대상으로 종양 미세환경 내 암 관련 섬유아세포(CAF) 아형을 규명했습니다.",
+  "염증성 CAF(iCAF)는 classical형 종양 세포와, myCAF 및 결합조직형성 CAF는 basal형 종양 세포와 상관관계를 보였습니다.",
+  "높은 CAF 비율, 특히 iCAF 비율의 증가는 환자의 개선된 생존율과 유의하게 연관되어 있었습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1016/j.ctarc.2026.101490",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42945720"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Treat Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945720/"
+ },
+ "summary_ko": "본 연구는 60세 미만 조기 발병 췌관선암(PDAC) 환자 74명의 대량 RNA 시퀀싱(bulk RNAseq) 데이터를 전산적으로 분해(deconvolution)하여 종양 미세환경 내 암 관련 섬유아세포(CAF) 아형을 분석했습니다. 분석 결과 염증성 CAF(iCAF), 근섬유아세포성 CAF(myCAF), 결합조직형성 CAF 세 가지 상태가 확인되었습니다. iCAF는 클래식형(classical-like) 종양 세포와 연관되었고, myCAF 및 결합조직형성 CAF는 기저형(basal-like) 종양 세포와 상관관계를 보였습니다. 흥미롭게도 전체 CAF의 높은 비율 및 특히 iCAF 비율의 증가는 환자의 생존율 향상과 유의미한 연관성을 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bulk RNA sequencing deconvolution of early-onset pancreatic ductal adenocarcinoma identifies cancer-associated fibroblast subsets associated with survival and tumor microenvironment composition",
+ "title_ko": "조기 발병 췌관선암의 대량 RNA 시퀀싱 디컨볼루션을 통한 생존율 및 종양 미세환경 관련 암 관련 섬유아세포 아형 분석",
+ "trial": null,
+ "type": "paper"
+}

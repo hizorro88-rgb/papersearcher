@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies with dismal prognosis and limited treatment options. The complex interplay between tumor cells and their microenvironment contributes significantly to treatment resistance, yet technological challenges have hindered comprehensive spatial characterization of immune components in PDAC tissues. Here, we performed high-dimensional spatial proteomics using multiplexed ion beam imaging (MIBI) to quantify 27 protein markers across tissues from twelve treatment-naïve PDAC patients who subsequently underwent adjuvant chemotherapy. We achieved confident single-cell phenotypic mapping of the PDAC ecosystem through deep-learning based segmentation and expert-validated phenotypic annotation. Our analysis revealed significant enrichment of immunosuppressive myeloid populations in patients who eventually experienced disease relapse. Conversely, cytotoxic CD8+ T cells were depleted in these relapse-prone tumors. Using spatial probabilistic topic modeling, we identified eight distinct cellular neighborhoods with unique compositions and functional states, including the enrichment of an immune suppressive neighborhood in relapsed patients. While immunogenic cell neighborhoods were present in both patient populations, analysis of the tumor-immune neighborhoods demonstrated altered functional marker expression profiles, suggesting distinct immune activation in patients who relapsed versus those who did not. Our findings provide a high-resolution spatial atlas of the PDAC immune landscape and identify prognostic microenvironmental signatures that may inform the development of novel immunotherapeutic strategies for this recalcitrant disease.",
+ "authors": [
+  "Yeung J",
+  "Bai Y",
+  "Qiu H",
+  "Yeo YY",
+  "Chang Y",
+  "Ng MSF",
+  "Heij LR",
+  "Shah EA"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42946214",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1016/j.mcpro.2026.101697",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42946214"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Cell Proteomics",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946214/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies with dismal prognosis and limited treatment options. The complex interplay between tumor cells and their microenvironment contributes significantly to treatment resistance, yet technological challenges have hindered comprehensive spatial characterization of immune components in PDAC tissues.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Spatial Proteomics Uncovers Immune Cell Neighborhoods and Tumor-Immune Interfaces in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

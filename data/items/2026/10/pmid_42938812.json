@@ -32,11 +32,11 @@
   "IPMN 대 IPMN 유래 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.767이었습니다.",
   "IPMN 유래 PDAC 대 신규 PDAC 비교에서 그래핀 옥사이드(graphene oxide, GO)의 AUC는 0.927이었습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/cancers18203275",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13702717",
   "pmid": "42938812"
  },
  "pub_types": [

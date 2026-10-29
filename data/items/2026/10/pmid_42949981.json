@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer remains one of the most lethal malignancies, largely due to the lack of reliable biomarkers for early detection. Aberrant glycosylation presents a promising source of diagnostic signatures, yet polysialic acid (polySia), a distinctive glycan, has remained underexplored, primarily owing to limitations in detection methods and recognition tools. Here, we report the development of a polySia \"superbinder,\" a nanoscale molecularly imprinted polymer (nanoMIP) that exhibits superior specificity and affinity for polySia over monoclonal antibodies, enabling precise recognition and quantification of this glycan. Leveraging this superbinder, we uncover a previously unrecognized association between polySia and pancreatic cancer and establish polysialylated CD56 (polySia-CD56) as a specific and robust biomarker. PolySia-CD56 outperforms multiple previously reported pancreatic cancer biomarkers, including the clinical standard carbohydrate antigen 19-9 (CA19-9). Notably, its expression pattern is complementary to that of CA19-9, and the combined use of both biomarkers significantly enhances diagnostic accuracy to 94.1%, effectively addressing the limitation of CA19-9 in detecting CA19-9-negative patients. Together, this study not only identifies polySia-CD56 as a precise biomarker for pancreatic cancer but also highlights the potential of antiglycan nanoMIPs as transformative reagents for decoding glycosylated targets and advancing clinical translation.",
+ "authors": [
+  "Huang L",
+  "Gao S",
+  "Li Q",
+  "Jin F",
+  "Zhang A",
+  "Lin X",
+  "Wen Y",
+  "Guan W"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42949981",
+ "importance": 0.61,
+ "key_points_ko": [
+  "폴리시알산(polySia)을 기존 항체보다 정밀하게 포착하는 나노 분자 각인 중합체 기술을 개발했습니다.",
+  "신규 바이오마커인 polySia-CD56은 표준 진단 지표인 CA19-9보다 뛰어난 단독 진단 성능을 나타냈습니다.",
+  "polySia-CD56과 CA19-9를 병용했을 때 진단 정확도가 94.1%로 유의미하게 향상되었습니다.",
+  "CA19-9 수치가 올라가지 않는 음성 환자를 진단하는 데 효과적인 보완책이 될 수 있음을 확인했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1073/pnas.2611747123",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42949981"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Proc Natl Acad Sci U S A",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949981/"
+ },
+ "summary_ko": "췌장암의 조기 진단 한계를 극복하기 위해 특정 당사슬인 폴리시알산(polySia)을 정밀하게 감지하는 나노 결합 기술을 개발했습니다. 연구진은 이를 통해 polysialylated CD56(polySia-CD56)이 췌장암의 강력하고 특이적인 바이오마커임을 규명했습니다. polySia-CD56은 기존 임상 표준 지표인 CA19-9보다 우수한 진단 성능을 보였으며 상호 보완적인 발현 양상을 나타냈습니다. 두 바이오마커를 함께 활용했을 때 진단 정확도는 94.1%까지 향상되어, CA19-9가 정상 수치로 나오는 환자의 진단 한계를 보완했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A glycan superbinder reveals polysialylated-CD56 as a precision biomarker for pancreatic cancer",
+ "title_ko": "당사슬 초결합체를 통해 밝혀낸 췌장암 정밀 바이오마커 polysialylated-CD56",
+ "trial": null,
+ "type": "paper"
+}

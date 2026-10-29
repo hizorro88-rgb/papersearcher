@@ -29,11 +29,11 @@
   "공간적 데이터 분석 결과 TLS 부담이 높을수록 B세포 및 Tfh/CXCL13 프로그램과의 긍정적 연관성이 일관되게 나타났습니다.",
   "TLS는 췌관선암(PDAC)에서 우수하고 공간적으로 조직화된 면역 반응 상태를 나타냅니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/biomedicines14102287",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13701594",
   "pmid": "42940093"
  },
  "pub_types": [

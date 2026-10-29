@@ -1,0 +1,54 @@
+{
+ "abstract": "Cuproptosis arises from mitochondrial copper overload, yet how tumour cells evade this metabolic vulnerability remains unclear. We identify ATP7B as the central barrier to cuproptosis in pancreatic ductal adenocarcinoma (PDAC). ATP7B is aberrantly upregulated in PDAC and predicts poor prognosis. Its depletion increases intracellular copper, activates FDX1, DLAT/DLST lipoylation, disrupts tricarboxylic acid (TCA) metabolism, and reinstates cuproptosis in vitro and in vivo. Mechanistically, ATP7B undergoes ZBTB10-driven K63-linked ubiquitination, recognized by NBR1 for selective autophagic degradation. Leveraging this, we developed an ATP7B-targeting autophagy-targeting chimera (ATAUTAC) that promotes ATP7B clearance, amplifies copper-driven mitochondrial metabolic perturbations, triggers cuproptosis, and inhibits tumour growth with favourable tolerability. Notably, ATAUTAC sensitizes PDAC to gemcitabine, overcoming resistance by exposing latent metabolic fragility. These findings establish ATP7B as a mechanistic hub of cuproptosis tolerance and demonstrate that autophagy-based ATP7B degradation is a druggable strategy for copper-dependent tumour eradication. ATAUTAC offers a promising avenue for precision therapy in PDAC and other refractory malignancies.",
+ "authors": [
+  "Zhang Z",
+  "Li M",
+  "Feng J",
+  "Li JA",
+  "Zhang L"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42947336",
+ "importance": 0.64,
+ "key_points_ko": [],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.1002/ctm2.70848",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42947336"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947336/"
+ },
+ "summary_ko": "Cuproptosis arises from mitochondrial copper overload, yet how tumour cells evade this metabolic vulnerability remains unclear. We identify ATP7B as the central barrier to cuproptosis in pancreatic ductal adenocarcinoma (PDAC).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Selective AUTAC-mediated ATP7B degradation unlocks cuproptosis vulnerability in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

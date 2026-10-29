@@ -32,11 +32,11 @@
   "CRISPR 기반 유전자 편집, RNAi/siRNA 치료, miRNA/lncRNA 표적화, HDAC 억제 등이 주로 보고되었습니다.",
   "췌장암은 확인된 분자적 표적에도 불구하고 약물 전달의 어려움으로 인해 임상적용이 제한적이었습니다."
  ],
- "last_updated": "2026-10-28",
+ "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3390/biomedicines14102234",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13701598",
   "pmid": "42940039"
  },
  "pub_types": [

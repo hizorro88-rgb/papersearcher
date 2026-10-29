@@ -1,0 +1,62 @@
+{
+ "abstract": "<h4>Background: </h4> Successful generation of patient-derived organoids (PDOs) from pancreatic ductal adenocarcinoma (PDAC) depends on an adequate amount of viable tissue. After routine endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) yields tissue for pathological diagnosis, additional needle passes are typically required to obtain organoid-culture material. This study examined whether air-flush tissue recovery (ATR) of residual needle-tract tissue can derive pancreatic cancer organoids without extra passes. <h4>Methods:</h4> We enrolled 10 PDAC patients who underwent EUS-FNA at two centers (The Ninth Medical Center of Chinese PLA General Hospital and the Second Hospital of Hebei Medical University) between February and June 2026. Using a self-controlled design, conventional FNA tissue strips (FNA group) and air-flush-recovered needle-tract residuals (ATR group) were collected from each patient and used to establish organoids. The two groups were compared for P3-generation passage rate, histological features, and molecular characteristics. <h4>Results:</h4> The ≥P3 success rate was 60.0% (6/10) in both the FNA and ATR groups. The overall organoid establishment rate (at least one method) was 80.0% (8/10). Hematoxylin and eosin (HE) staining and immunohistochemistry showed that organoids from both sources retained the histological morphology and key molecular features of the primary tumor, with consistent expression patterns. <h4>Conclusions:</h4> Harvesting residual tissue from the EUS-FNA needle tract by air flushing enables successful establishment of pancreatic cancer PDOs. The establishment success rate is comparable to that of organoids derived from conventional FNA specimens. In high-risk patients who cannot tolerate additional passes, a single ATR sample can still provide material for organoid generation; simultaneously culturing FNA tissue strips together with ATR residuals improved the overall organoid establishment rate from one puncture. This minimally invasive protocol is straightforward to perform and merits validation in larger cohorts.",
+ "authors": [
+  "Xu Y",
+  "Zhang L",
+  "Wang M",
+  "Huang X",
+  "Zheng S",
+  "Zhou K",
+  "Hou S",
+  "Liu N"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.20944/preprints202610.2607.v1",
+ "importance": 0.69,
+ "key_points_ko": [
+  "3세대 이상(≥P3) 오가노이드 수립 성공률은 기존 FNA 검체와 공기 플러시 잔류 조직(ATR) 검체 모두 60.0%(6/10명)로 동일했습니다.",
+  "기존 FNA 검체와 ATR 검체를 함께 활용했을 때 전체 오가노이드 수립 성공률은 80.0%(8/10명)로 향상되었습니다.",
+  "ATR 조직으로 수립된 오가노이드는 원발암의 조직학적 형태와 주요 분자 특성 발현 패턴을 잘 유지했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.20944/preprints202610.2607.v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Preprints.org",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1350615"
+ },
+ "summary_ko": "본 연구는 췌장암(PDAC) 환자의 초음파내시경 하 세침흡인술(EUS-FNA) 후 바늘 통로에 남은 잔류 조직을 공기 플러시 회수법(ATR)으로 채취하여 오가노이드를 성공적으로 배양할 수 있는지 평가했습니다. 총 10명의 췌장암 환자를 대상으로 기존 FNA 조직 검체와 ATR 검체를 각각 수집하여 자가 대조 연구를 진행했습니다. 3세대 이상 계대 배양(≥P3) 성공률은 기존 FNA 그룹과 ATR 그룹 모두 60.0%로 동일하였으며, 두 방법을 함께 활용한 전체 성공률은 80.0%에 달했습니다. ATR로 얻은 오가노이드는 원발암의 조직학적 형태와 주요 분자적 특성을 유지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "<span data-teams=\"true\">Value of Air-Flush Recovery (ATR) of Needle-Tract Residual Tissue for Establishing Pancreatic Cancer Organoids via EUS-FNA",
+ "title_ko": "초음파내시경 하 세침흡인술(EUS-FNA) 바늘 내 잔류 조직의 공기 플러시 회수법(ATR)을 통한 췌장암 오가노이드 수립의 유용성",
+ "trial": null,
+ "type": "preprint"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Background  Pancreatic ductal adenocarcinoma (PDAC) has a five-year survival rate of approximately 8%, largely because most patients are diagnosed at an advanced stage. Effective population-level screening strategies remain unavailable, and existing approaches are costly, invasive, or impractical for broad implementation. Objective  To develop and temporally validate a layered multimodal risk stratification framework for early PDAC detection using routinely collected clinical data. Methods  We conducted a retrospective cohort study using longitudinal electronic health record (EHR) data from Mayo Clinic. Adults with histologically confirmed PDAC diagnosed between 2000 and 2020 were propensity-score matched to cancer-free controls using age, sex, race, year of encounter, and healthcare utilization. Machine learning models progressively incorporated demographics, vital signs and laboratory measurements, medications, and Clinical Classifications Software (CCS) diagnostic categories to predict PDAC at 3, 6, 12, and 36 months before diagnosis. Models were developed using patients diagnosed between 2000 and 2013 and evaluated in a temporally held-out validation cohort from 2014 to 2020. Two complementary analyses were conducted according to laboratory data availability: the Biomarker-Cohort Analysis included patients with at least one blood-based biomarker measurement within the observation window, while the Full-Cohort Analysis retained eligible patients regardless of laboratory availability and used extreme gradient boosting (XGBoost) to natively accommodate missing values. Additional analyses evaluated ensemble learning, model explainability using Shapley Additive Explanations (SHAP), and CT-derived body composition as an opportunistic imaging enrichment layer. Results  At the 3-month prediction horizon, the Biomarker-Cohort Analysis included 11,965 patients (1,570 PDAC cases and 10,395 controls), while the Full-Cohort Analysis included 17,720 patients (3,332 cases and 14,388 controls). Progressive enrichment of structured EHR information improved PDAC discrimination, with the largest incremental gain occurring after incorporation of CCS diagnostic history (ΔAUC, 0.13–0.17 across horizons). The best-performing structured EHR enrichment layer, incorporating demographics, vital signs, laboratory measurements, medications, and CCS diagnostic history, achieved temporal validation AUCs of 0.84, 0.86, 0.81, and 0.79 at 3, 6, 12, and 36 months, respectively, when modeled using XGBoost. Corresponding AUCs in the Full-Cohort Analysis were 0.83, 0.82, 0.80, and 0.77 despite substantial laboratory missingness. Ensemble learning further increased AUCs to 0.88, 0.91, 0.89, and 0.89, corresponding to absolute improvements of 0.04, 0.05, 0.08, and 0.10 over the individual XGBoost models. SHAP analysis identified diagnostic history as a prominent source of predictive information, with additional contributions from demographic, metabolic, physiologic, hematologic, and treatment-related features. Adding CT-derived body composition to structured EHR data provided further multimodal enrichment, increasing AUC by approximately 0.02–0.03 across prediction horizons. Conclusions  PDAC risk can be progressively enriched using increasingly informative layers of routinely acquired healthcare data across prediction horizons extending to 36 months before diagnosis. Structured EHR information provided substantial discrimination, with additional gains from ensemble learning and complementary information from opportunistically available CT-derived body composition. This approach provides a scalable risk-enrichment strategy using data already generated during routine care to identify individuals who may benefit from targeted PDAC evaluation. External validation and prospective evaluation are required before clinical implementation.</p>",
+ "authors": [
+  "Ngufor C",
+  "Patel S",
+  "Weston AD",
+  "Bogdanski AM",
+  "Wijsman KJ",
+  "Li J",
+  "Wallace MB",
+  "Bi Y."
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11265358/v1",
+ "importance": 0.69,
+ "key_points_ko": [
+  "구조화된 전자의무기록(EHR) 데이터 기반 최적 모델의 예측 성능(AUC)은 진단 3개월 전 0.84, 6개월 전 0.86, 12개월 전 0.81, 36개월 전 0.79였습니다.",
+  "앙상블 머신러닝 기법을 적용했을 때 AUC가 각각 0.88, 0.91, 0.89, 0.89로 단일 모델 대비 0.04~0.10 향상되었습니다.",
+  "CT에서 추출한 신체 구성 분석 정보를 추가했을 때 모든 예측 시점에서 AUC가 약 0.02~0.03 추가로 증가했습니다."
+ ],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11265358/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1351418"
+ },
+ "summary_ko": "메이요 클리닉의 전자의무기록(EHR) 데이터를 활용하여 췌관선암(PDAC)을 조기에 예측하기 위한 다중 모달 머신러닝 위험도 계층화 모델을 개발하고 검증한 후향적 코호트 연구입니다. 인구통계학적 특성, 활력징후, 검사 수치, 투약 기록, 진단 이력 및 CT 영상 기반 신체 구성 정보를 단계별로 결합하여 진단 3개월, 6개월, 12개월, 36개월 전의 췌장암 발생 위험을 예측했습니다. 분석 결과, 진단 이력을 추가했을 때 예측력이 가장 크게 향상되었으며, 앙상블 학습을 적용했을 때 각 시점별 곡선하면적(AUC)이 0.88~0.91에 달하는 높은 변별력을 보였습니다. 일상 진료 중 축적되는 데이터를 활용해 진단 최대 36개월 전부터 췌장암 고위험군을 선별할 수 있는 확장 가능한 조기 발견 전략의 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Early Detection of Pancreatic Ductal Adenocarcinoma through Layered Multimodal Risk Enrichment of Routine Clinical Data",
+ "title_ko": "일상적 임상 데이터의 다중 모달 계층화 위험도 강화를 통한 췌관선암의 조기 발견",
+ "trial": null,
+ "type": "preprint"
+}

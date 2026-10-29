@@ -1,0 +1,141 @@
+{
+ "abstract": "The goal of this clinical trial is to learn whether the Ad5.F35-hGCC-PADRE vaccine is safe and can stimulate an immune response against gastrointestinal (GI) cancers in patients with pancreatic, colorectal, esophageal, gastric, or small bowel adenocarcinomas who have completed surgical resection and standard adjuvant therapy. An additional goal is to evaluate whether the vaccine may help eliminate minimal residual disease (MRD) in ctDNA-positive colon cancer patients.\n\nThe main questions it aims to answer are:\n\nIs the Ad5.F35-hGCC-PADRE vaccine safe and tolerable at different dose levels? Does the vaccine induce GCC-specific T-cell immune responses in patients with GI malignancies? In ctDNA-positive colon cancer patients, can the vaccine promote ctDNA clearance as a marker of MRD elimination?\n\nThe investigators will compare immune responses across different vaccine dose levels (10¹¹, 10¹², and 5 × 10¹² virus particles) to determine the optimal dose.\n\nParticipants will:\n\nReceive the Ad5.F35-hGCC-PADRE vaccine by intramuscular injection. Be assigned to one of three dose levels during the dose-finding phase or receive a prespecified dose in the dose-expansion cohort.\n\nUndergo safety assessments, including monitoring for adverse events, injection-site reactions, and laboratory test abnormalities.\n\nHave blood samples collected to evaluate GCC-specific T-cell immune responses. For ctDNA-positive colon cancer patients, undergo ctDNA testing to assess clearance of minimal residual disease.\n\nThis is an open-label, dose-finding, single-center, study of Ad5.F35-hGCC-PADRE vaccine delivered intramuscularly in subjects with colorectal, pancreatic, gastric, esophageal, or small bowel cancers who are at high risk of relapse without evidence of disease post definitive surgery and standard therapy.\n\nStudy treatment will start after surgery and standard therapy. Subjects who meet the eligibility criteria can participate in this study at least four and no more than 24 weeks ± one week post-completion of standard treatment, after they have recovered from the side effects from previous therapies.\n\nEligible subjects will be sequentially randomized into three treatment arms of 10¹¹, 10¹², and 5 × 10¹² virus particles Ad5.F35-hGCC-PADRE administered by IM injection once every four weeks (± one week) for a total of three administrations. An initial safety lead-in group of 9 subjects (3 in each group) will be randomized sequentially and further enrollment will be paused until they have completed 4 weeks of follow-up to ensure no dose-limiting toxicities (DLT). Moreover, the enrollment of the first 3 subjects will be staggered by an interval of 3 weeks to monitor for acute and subacute toxicities.\n\nFollowing the completion of assessment of the initial safety lead-in group, a meeting will be held with the PI and the TJU Medical Monitor to review the safety information. If no excessive rates of DLT are observed, enrollment will continue in each dosing arm with continuous monitoring of adverse events. A total of 27 subjects are planned to be randomized to each treatment arm. If it is determined safe to continue enrollment in each dosing arm, a formal letter from the Medical Monitor will be issued.\n\nAfter 15 patients in each cohort have completed treatment, a futility analysis will be conducted, and information will be informally reviewed with the Medical Monitor.\n\nIn the expansion cohort, subjects with colon cancer who meet eligibility criteria will be enrolled after completing surgery and standard of care adjuvant chemotherapy. There is no limit to the amount of time since completing adjuvant therapies to enroll on this cohort. Subjects who are ctDNA+ by CLIA-certified standard of care assay and fulfil other eligibility criteria can enroll at any point post adjuvant therapies. Subjects will receive single IM vaccination with Ad5.F35-hGCC-PADRE at 5 × 10¹² vp. This dose is selected based upon preliminary efficacy data from first part of this study. Patients will be monitored for adverse events over the course of four weeks. Labs will be collected for immunomonitoring and ctDNA will be collected immediately prior to vaccination, at 4 weeks, 12 weeks and up to 52 weeks post-vaccination. Standard of care ctDNA assessments performed post-vaccination will be collected. Optional research blood samples will be collected for patients who opt in and will be collected every 3 months for up to 24 months or until disease recurrence or death whichever comes first.\n\nPRIMARY OBJECTIVES:\n\n1. Evaluate the safety and tolerability of sequential Ad5.F35-hGCC-PADRE vaccine administration, delivered intramuscularly (IM) at three dose levels (10¹¹, 10¹², and 5 × 10¹² virus particles) four weeks apart in subjects with high-risk colorectal, pancreatic, gastric, esophageal, or small bowel adenocarcinomas with no evidence of disease after surgery and standard therapy.\n2. For Cohort 2B, evaluate the safety and tolerability of single Ad5.F35-hGCC-PADRE vaccine at 5 × 10¹² vp dose level in MRD+ colon cancer patients with no evidence of radiographic disease\n3. Evaluate the cellular (T-cell) responses to Ad5.F35-hGCCPADRE at three different dose levels (10¹¹, 10¹², and 5 × 10¹² virus particles) administered intramuscularly (IM) as three sequential doses four weeks apart in subjects with high-risk colorectal, pancreatic, gastric, esophageal, or small bowel adenocarcinomas with no evidence of disease after surgery and standard therapy.\n4. For cohort 2B, evaluate the cellular (T-cell) responses to Ad5.F35-hGCC-PADRE vaccine at 5 × 10¹² vp dose administered IM as one dose in subjects with MRD+ colon cancer with no evidence of radiographic disease after surgery and standard therapy.\n\nEXPLORATORY OBJECTIVES:\n\n* Evaluate the humoral (antibody) responses to Ad5.F35-hGCC-PADRE at three different dose levels (10¹¹, 10¹², and 5 × 10¹² virus particles) administered IM as three sequential doses four weeks apart in subjects with high-risk colorectal, pancreatic, gastric, esophageal, or small bowel adenocarcinomas with no evidence of disease after surgery and standard therapy\n* Evaluate the association of neutralizing antibodies to Ad5 with immunologic response\n* Evaluate the correlation of the immune response to the GCC protein expression in tumors to assess immune tolerance\n* Evaluate disease-free survival (DFS)\n* Evaluate overall survival (OS), where feasible\n* Evaluate the circulatory tumor DNA (ctDNA) status and correlation with clinical recurrence, where feasible\n* Evaluate the ctDNA dynamics after single dose of 5 × 10¹² vp Ad5.F35-hGCC-PADRE vaccine in an expansion cohort of ctDNA+ colon cancer patients",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-29",
+ "history": [
+  {
+   "date": "2026-10-29",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04111172",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-10-29",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04111172"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2019-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Thomas Jefferson University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04111172"
+ },
+ "summary_ko": "The goal of this clinical trial is to learn whether the Ad5.F35-hGCC-PADRE vaccine is safe and can stimulate an immune response against gastrointestinal (GI) cancers in patients with pancreatic, colorectal, esophageal, gastric, or small bowel adenocarcinomas who have completed surgical resection and standard adjuvant therapy. An additional goal is to evaluate whether the vaccine may help eliminate minimal residual disease (MRD) in ctDNA-positive colon cancer patients.",
+ "summary_source": "excerpt",
+ "tags": [
+  "circulating tumor DNA",
+  "Guanylyl cyclase C",
+  "GCC",
+  "GUCY2C",
+  "ctDNA"
+ ],
+ "title": "A Vaccine (Ad5.F35-hGCC-PADRE) for the Treatment of Gastrointestinal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Colorectal Adenocarcinoma",
+   "Gastric Adenocarcinoma",
+   "Clinical Stage II Gastric Cancer AJCC v8",
+   "Clinical Stage IIA Gastric Cancer AJCC v8",
+   "Clinical Stage IIB Esophageal Adenocarcinoma AJCC v8",
+   "Clinical Stage IIB Gastric Cancer AJCC v8",
+   "Clinical Stage III Esophageal Adenocarcinoma AJCC v8",
+   "Clinical Stage III Gastric Cancer AJCC v8",
+   "Malignant Solid Neoplasm",
+   "Pathologic Stage II Gastric Cancer AJCC v8",
+   "Pathologic Stage IIB Esophageal Adenocarcinoma AJCC v8",
+   "Pathologic Stage IIB Gastric Cancer AJCC v8",
+   "Pathologic Stage III Esophageal Adenocarcinoma AJCC v8",
+   "Pathologic Stage III Gastric Cancer AJCC v8",
+   "Pathologic Stage IIIA Esophageal Adenocarcinoma AJCC v8",
+   "Pathologic Stage IIIB Esophageal Adenocarcinoma AJCC v8",
+   "Pathologic Stage IIIA Gastric Cancer AJCC v8",
+   "Pathologic Stage IIIB Gastric Cancer AJCC v8",
+   "Pathologic Stage IIIC Gastric Cancer AJCC v8",
+   "Stage I Pancreatic Cancer AJCC v8",
+   "Stage IA Pancreatic Cancer AJCC v8",
+   "Stage IB Pancreatic Cancer AJCC v8",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage IIA Pancreatic Cancer AJCC v8",
+   "Stage IIB Pancreatic Cancer AJCC v8",
+   "Stage III Colorectal Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IIIA Colorectal Cancer AJCC v8",
+   "Stage IIIB Colorectal Cancer AJCC v8",
+   "Stage IIIC Colorectal Cancer AJCC v8",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IVA Colorectal Cancer AJCC v8",
+   "Stage IVB Colorectal Cancer AJCC v8",
+   "Malignant Digestive System Neoplasm",
+   "Small Intestinal Adenocarcinoma",
+   "Stage III Small Intestinal Adenocarcinoma AJCC v8",
+   "Stage IIIA Small Intestinal Adenocarcinoma AJCC v8",
+   "Minimal Residual Disease"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nIndividuals must meet all of the following inclusion criteria in order to be eligible to participate in the study:\n\n1\\. Males or females aged ≥ 18 years 2. Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 3. Subjects with tumors specified below, who are at high risk of relapse, have been treated with curative intent, and have no evidence of disease (NED) following front-line therapy with surgery, radiation therapy, and/or chemotherapy. NED includes, where applicable, surgical (macroscopic tumor margin, at the time of surgery), and radiological evidence of disease. Residual lesions identified by microscopic/frozen margins and biochemical markers are permitted. Therapy must have been completed no fewer than four weeks, and no later than 25 weeks, before the first dose of Ad5.F35-hGCC-PADRE. For expansion cohort (2B), colon cancer patients may be enrolled four weeks after completion of standard adjuvant therapies, however there is no upper limit to enrollment as long as patients fulfil other eligibility requirements are ctDNA+.\n\n4\\. For tumor-specific criteria, please refer to the information below:\n\na. Pancreatic ductal adenocarcinoma i. Stage I, II, III\n\n* Neuroendocrine tumors of the pancreas are not permitted b. Colorectal adenocarcinoma i. Stage III; Stage IV following metastasectomy ii. High risk stage II colon cancer defined as (any of):\n\n  1. T4\n  2. Grade ≥ 3\n  3. Clinical presentation with bowel obstruction or perforation\n  4. Histological signs of vascular, lymphatic or perineural invasion\n  5. \\< 12 lymph nodes examined c. Gastric adenocarcinoma i. Stage IIA, IIB, III\n* Gastrointestinal stromal tumors of the stomach are not permitted d. Esophageal adenocarcinoma i. Stage IIB, III\n* Esophageal squamous cell carcinomas are not permitted e. Small bowel adenocarcinomas i. Stage III ii. High risk stage II defined as (any of):\n* T4\n* Grade ≥ 3\n* Clinical presentation with perforation or bowel obstruction\n* Histological signs of vascular, lymphatic or perineural invasion\n* \\<5 lymph nodes for duodenal or \\<8 lymph nodes for jejunal/ ileal tumor location 5. Have an anticipated life expectancy of greater than 12 weeks 6. Have adequate organ function at screening\n\n  1. ANC ≥ 1000 cells/mL\n  2. Platelets ≥ 75,000 /mL\n  3. Hemoglobin ≥ 9.0 g/dL\n  4. Serum creatinine \\< 2.0 mg/dL\n  5. For other blood and urine tests including blood chemistry, hepatic and renal functions, test results should not be worse than Grade 1 levels of abnormalities defined by CTCAE, NCI version 5 issued by the US Department of Health and Human Services.\n\n     7\\. For women and men of childbearing potential, a medically acceptable method of highly effective contraception (oral hormonal contraceptive, condom plus spermicide, or hormonal implants) or abstinence must be used throughout the study period and for 28 days after their final vaccine administration (A barrier method of contraception must be employed by all subjects \\[male and female\\], regardless of other methods unless abstinent). A negative serum or urine pregnancy test is required as part of screening.\n\n     Women of childbearing potential is defined as any female who has experienced menarche and who has not undergone surgical sterilization (hysterectomy or bilateral oophorectomy) or who is not postmenopausal. Menopause is defined clinically as 12 months of amenorrhea in a woman over 45 in the absence of other biological or physiological causes. In addition, women under the age of 55 must have a documented serum follicle stimulating hormone (FSH) level less than 40 mIU/ml.\n\n     8\\. Be willing to comply with all the study procedures. 9. All subjects must be able to comprehend and sign a written informed consent document 10. For expansion cohort (2B) only, colon cancer patients must be ctDNA positive using CLIA-certified commercially available assays obtained as part of standard of care.\n\n     Exclusion Criteria:\n\n     An individual who meets any of the following criteria will be excluded from participation in this study:\n     1. Have a known history or evidence of residual disease after definitive surgery\n     2. Have a known metastasis in the brain or central nervous system\n     3. Have a history of splenectomy\n     4. Have a history of distal pancreatectomy\n     5. Concurrent use of systemic steroids or immunosuppressive drugs (use of topical or inhaled steroids will be allowed, see Section 5.7)\n     6. Have any immunodeficiency disease or immunocompromised state (e.g., use of immunosuppressive agents, chemotherapy or radiation therapy within four weeks of study treatment)\n     7. Have active autoimmune disease or history of autoimmune disease or a transplant recipient requiring systemic steroids or other immunosuppressive treatment\n     8. Have received a diagnosis of HIV, hepatitis B, or hepatitis C (subjects who are hepatitis C positive may be enrolled if they are confirmed with negative viral load at screening)\n     9. Other malignancy within last 5 years except curatively treated non-melanomatous skin cancer and curatively treated carcinoma in situ of the uterine cervix, or early-stage (stage A or B1) prostate cancer\n     10. Have a history of inflammatory bowel disease\n     11. Have a history of serious reaction to adenovirus\n     12. Have an intercurrent illness that is either life-threatening or of clinical importance such that it might limit study compliance (such illnesses include, but are not limited to, ongoing or active infection, metabolic or neurologic disease, peripheral vascular disease, or psychiatric illness)\n     13. Have insufficient peripheral venous access to permit completion of the study phlebotomy regimen\n     14. Consumes greater than three glasses of alcoholic beverages (1 glass is approximately equivalent to: beer \\[354 mL/12 ounces\\], wine \\[118 mL/4 ounces\\], or distilled spirits \\[29.5 mL/1 ounce\\]) per day and cannot refrain from alcohol for the duration of the trial\n     15. Has a history of use of illicit drugs (e.g., opioids, cocaine, amphetamines, hallucinogens, etc.) that could potentially interfere with adherence to study procedures or requirements\n     16. Be a woman who is pregnant or breastfeeding\n     17. Have an unhealed surgical wound\n     18. Have had major surgery or significant traumatic injury occurring within 28 days before treatment or anticipated surgery or procedure requiring general anesthesia during the study participation (including four weeks after last dose of vaccine).\n     19. Toxicities from previous anti-cancer therapies that have not resolved to baseline levels or to Grade 1 or less except for alopecia and peripheral neuropathy\n     20. Patients are currently enrolled in an ongoing clinical trial or trial that could interfere with the protocol-specified requirements",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "Adenovirus 5/F35-Human Guanylyl Cyclase C-PADRE"
+  ],
+  "last_update_posted": "2026-10-28",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04111172",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-04",
+  "sex": "ALL",
+  "sponsor": "Thomas Jefferson University",
+  "start_date": "2020-11-10",
+  "status": "SUSPENDED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}
