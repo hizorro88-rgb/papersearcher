@@ -1,0 +1,65 @@
+{
+ "abstract": "INTRODUCTION: Neoadjuvant chemotherapy (NAC) is increasingly recommended in recent years to treat pancreatic adenocarcinoma (PDAC), even those tumors that are upfront resectable. Utilization across different hospital systems based on patient factors, tumor location, and tumor stage is not clear. We aimed to evaluate changes in NAC use for PDAC over the past decade using a nationwide cancer database.\nMETHODS: The National Cancer Database was queried for patients with stage I-III PDAC treated with surgery between 2012 and 2021. Patients were only included if they were documented to have chemotherapy at any point before or after surgery. Multivariable logistic regression controlling for patient clinical and demographic characteristics evaluated associations with NAC use.\nRESULTS: During the study period, 28,458 patients were treated with NAC and surgery or surgery and adjuvant chemotherapy. The percentage of all patients receiving NAC significantly increased year after year from 28% in 2012 to 65% in 2021 (P < 0.001). A significant increase in NAC was seen for patients when stratified by type of surgical resection (pancreatoduodenectomy, total pancreatectomy, or distal pancreatectomy; P < 0.001, all). A significant increase in NAC for stage I and II PDAC was noted during the study period (P < 0.01) but not for stage III (P > 0.05). This increase in NAC for stage I and II PDAC patients was similarly noted when stratified by surgery type (P < 0.001, all). Patients receiving care at an academic research facility had a higher proportion of patients undergoing NAC compared to those seen at a comprehensive community facility (51% versus 37%, P < 0.001). A multivariable logistic regression model demonstrated that younger age, Charlson-Deyo Score three or higher, non-Spanish Hispanic ethnicity, receipt of care at academic research facility, patients in a rural or urban location (versus metro), positive lymph nodes, and higher tumor T stage were independent predictors of NAC use (P < 0.05, all). Patients without insurance, poor grade, and tumors in the tail of the pancreas were likewise significantly less likely to receive NAC (P < 0.05, all).\nCONCLUSIONS: NAC use has significantly increased in the past 10 y, especially for stage I and II tumors. NAC has increased for all types of pancreas resection for PDAC. Key patient, tumor, and location differences determine whether or not a patient is treated with NAC.",
+ "authors": [
+  "Poruk KE",
+  "Day C",
+  "Spaulding A",
+  "Lew R",
+  "Tice M",
+  "Thiels C",
+  "Fong ZV",
+  "Stauffer JA"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "whipple",
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42950589",
+ "importance": 0.77,
+ "key_points_ko": [
+  "전체 환자 중 선행보조항암화학요법(NAC)을 받은 비율이 2012년 28%에서 2021년 65%로 크게 증가했습니다(P < 0.001).",
+  "병기 1기와 2기 췌장암 환자에서 NAC 치료 비율이 유의하게 증가했습니다(P < 0.01).",
+  "학술 연구 기관에서 치료받은 환자의 NAC 비율(51%)이 지역 종합 병원(37%)보다 유의하게 높았습니다(P < 0.001)."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1016/j.jss.2026.09.037",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42950589"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42950589/"
+ },
+ "summary_ko": "본 연구는 2012년부터 2021년까지 수술을 받은 병기 I~III기 췌장선암(PDAC) 환자 28,458명의 미국 전국 암 데이터베이스 자료를 분석했습니다. 분석 결과 수술 전 선행보조항암화학요법(NAC)을 받은 환자의 비율이 2012년 28%에서 2021년 65%로 유의하게 증가했습니다. 이러한 증가세는 특히 1기와 2기 췌장암 환자에서 두드러졌습니다. 학술 연구 기관 치료 여부, 젊은 연령, 높은 T 병기 등이 NAC 치료를 받을 가능성을 높이는 주요 요인으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021",
+ "title_ko": "2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향",
+ "trial": null,
+ "type": "paper"
+}

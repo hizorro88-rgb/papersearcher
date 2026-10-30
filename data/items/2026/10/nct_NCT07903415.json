@@ -1,0 +1,126 @@
+{
+ "abstract": "The purpose of this clinical study is to learn about the safety and effects of the study medicine (called PF-08098488) in people with advanced solid tumors (cancer that cannot be removed with surgery or has spread to other parts of the body). PF-08098488 is being studied as a possible treatment for certain types of cancer. These include non-small cell lung cancer, pancreatic cancer, stomach or gastroesophageal junction cancer, and esophageal cancer. This study will also help researchers learn how the study medicine moves through and affects the body.\n\nThis study is seeking adults who:\n\n* Have advanced non-small cell lung cancer, pancreatic cancer, stomach or gastroesophageal junction cancer, or esophageal cancer.\n* Have received at least 1 previous treatment for their cancer.\n* Have cancer that has grown, returned, or is no longer responding to available treatments.\n\nAll participants in this study will receive PF-08098488 as an IV infusion (given directly into a vein) at the study clinic. Researchers will study different dose levels and dosing schedules to find the dose that is safe and may work best. Participants will be monitored closely during treatment, especially after their first infusion. They may continue receiving the study medicine as long as their cancer is not getting worse and they are tolerating treatment.\n\nThe study includes a screening period of up to 28 days. Participants will have regular visits to the study clinic for treatment and health assessments. These assessments include scans to monitor the cancer and blood sample collection. Tumor tissue samples will also be collected when available or medically feasible. After treatment ends, participants will have a follow-up visit about 1 month later. They will then be contacted about every 12 weeks to check on their health.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07903415",
+ "importance": 0.78,
+ "key_points_ko": [
+  "진행성 췌장암 및 기타 고형암 환자 약 280명을 대상으로 신약 PF-08098488의 안전성과 내약성을 평가하는 1상 연구입니다.",
+  "이전에 최소 1회 이상의 승인된 표준 전신 치료를 받았던 환자를 대상으로 합니다.",
+  "약물 투여는 정맥 주사 방식으로 진행되며, 적정 용량 및 반응을 면밀히 관찰합니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07903415"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pfizer",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07903415"
+ },
+ "summary_ko": "진행성 또는 전이성 췌관선암, 비소세포폐암, 위암 및 식도암 환자를 대상으로 신약 PF-08098488의 안전성과 효과를 평가하는 1상 임상시험입니다. 이전에 1가지 이상의 항암 치료를 받았으나 암이 진행하거나 재발한 환자 280명을 모집합니다. 참여자들은 정맥 주사(IV)로 시험약을 투여받으며, 연구진은 안전하고 가장 효과적인 용량과 투약 일정을 확인합니다. 질병이 진행되지 않고 부작용을 견딜 수 있는 한 투여를 지속합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "NSCLC",
+  "Pancreatic Cancer",
+  "Stomach Cancer",
+  "Gastric Cancer",
+  "Esophageal Cancer",
+  "metastatic cancer",
+  "advanced cancer",
+  "solid tumors",
+  "Lung Cancer"
+ ],
+ "title": "A Study to Learn About the Study Medicine Called PF-08098488 in People With Advanced Solid Tumors.",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 PF-08098488의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Esophageal Cancer",
+   "Carcinoma, Non-Small-Cell Lung (NSCLC)",
+   "Gastric Carcinoma",
+   "Gastroesophageal Junction Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+    "name": "Pfizer CT.gov Call Center",
+    "phone": "1-800-718-1021"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 성인\n• 진행성 비소세포폐암, 췌관선암(PDAC), 위암(위식도접합부암 포함) 또는 식도암\n• ECOG 수행능력 점수 0 또는 1점\n• RECIST 기준 측정 가능한 병변 보유\n• 이전에 1가지 이상의 승인된 전신 치료를 받은 환자 (파트 1은 표준 치료 후 진행/재발하여 다른 표준 치료 옵션이 없는 환자, 파트 2는 진행성 단계에서 최대 2차 이하의 전신 치료 이력)\n• 이전 항암 치료로 인한 급성 부작용이 기저 상태 또는 1등급(Grade 1) 이하로 회복된 환자\n• 의학적으로 가능한 경우 치료 전 종양 조직 검체 제출에 동의한 환자\n\n제외 기준:\n• 오리스타틴(auristatin) 또는 미세소관 억제제를 페이로드로 사용하는 항체-약물 접합체(ADC) 치료를 받은 이력\n• 기존에 존재하는 감각 또는 운동 신경병증\n• 조절되지 않는 당뇨병\n• 임상적으로 유의하거나 증상이 있는 안과 질환\n• 심각한 폐 질환\n• 주요 장기 기능(신장, 간, 혈액, 심장 등)의 부적격 소견",
+  "eligibility_text": "Inclusion Criteria:\n\n* 18 years of age or older\n* Advanced non-small cell lung cancer, pancreatic ductal adenocarcinoma, gastric cancer (including gastroesophageal junction carcinoma), or esophageal cancer.\n* Eastern Cooperative Oncology Group (ECOG) Performance status 0-1\n* Measurable disease\n* Must have received at least 1 prior approved systemic therapy:\n* Part 1: progression or relapse following standard treatments and have no other appropriate standard of care option.\n* Part 2: maximum of 2 prior lines of systemic therapy in the advanced setting.\n* Resolution of acute effects of prior anticancer therapy to baseline or Grade 1\n* Consent to submit required pre-treatment tumor tissue as medically feasible\n\nExclusion Criteria:\n\n* Received prior treatment with an antibody drug conjugate with an auristatin or microtubule inhibitor payload.\n* Unacceptable renal, hepatic, hematologic, cardiologic, pulmonary, or abnormalities as defined by the protocol.\n* Pre-existing sensory or motor neuropathy.\n* Uncontrolled diabetes mellitus.\n* Clinically significant and/ or symptomatic eye disease meeting protocol exclusion criteria.\n* Pulmonary (lung) disease meeting protocol exclusion criteria.",
+  "enrollment": 280,
+  "has_results": false,
+  "interventions": [
+   "PF-08098488"
+  ],
+  "last_update_posted": "2026-10-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "특정 항체-약물 접합체(오리스타틴 또는 미세소관 억제제 기반 ADC) 치료 이력",
+    "기존의 감각 또는 운동 신경병증",
+    "조절되지 않는 당뇨병",
+    "증상이 있거나 유의한 안과 질환",
+    "활동성 폐 질환"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "이전에 1가지 이상의 전신 항암 치료를 받은 진행성 또는 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07903415",
+  "phase": "PHASE1",
+  "primary_completion_date": "2031-01-26",
+  "sex": "ALL",
+  "sponsor": "Pfizer",
+  "start_date": "2026-10-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

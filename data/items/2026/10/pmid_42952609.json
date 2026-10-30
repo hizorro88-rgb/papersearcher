@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: The limited immune infiltration observed in pancreatic ductal adenocarcinoma (PDAC) is a major factor contributing to immunotherapy resistance and the consistently poor prognosis. Hence, identifying novel therapeutic targets and developing effective combination strategies to overcome immunotherapy resistance represent urgent and unmet clinical needs.\nMETHODS: The gene expression datasets and corresponding clinical information were collected from TCGA, GEO and ICGC. The immune cell infiltration (ICI) contents were evaluated by \"CIBERSORT\". PDAC subtypes based on ICI pattern were obtained from consensus clustering. Their prognostic value was validated by the Kaplan-Meier survival curves. Then, we employed an integrated multi-dataset approach to systematically identify pivotal regulators of PDAC progression. The functional role of ACTG1 was specifically validated through in vivo and in vitro models. The tumor immune microenvironment was characterized by flow cytometry and immunohistochemistry (IHC). Potential molecular mechanisms were further investigated using RNA sequencing and tumor cell-macrophage co-culture experiments.\nRESULTS: Three distinct immune infiltration subtypes with different prognoses and immunological features were identified in the 608-sample GEO/ICGC training cohort and the 177-sample TCGA-PAAD validation cohort. The ICI pattern with a better prognosis was characterized by high level of plasma cells, activated NK cells, activated DC cells, M1 macrophages and CD8+ T cells, low level of M0 macrophages, M2 macrophages. ACTG1 drives immunosuppression and predicts poor prognosis in PDAC. Mechanistically, ACTG1 promotes tumor cell-derived CSF3 secretion, which upregulates TIM-3 expression on tumor-associated macrophages (TAMs) via the CSF3/CSF3R signaling pathway. This cascade reinforces M2-like TAMs polarization and induces CD8+ T cell exhaustion, thereby fostering an immunosuppressive niche. Strikingly, ACTG1 knockdown combined with TIM-3 blockade exerts an enhanced effect in reversing immunosuppression, restoring anti-tumor immunity, and markedly prolonging survival.\nCONCLUSIONS: ACTG1 promotes PDAC progression by orchestrating an immunosuppressive tumor microenvironment through the CSF3/CSF3R/TIM-3 axis. Thus, combining genetic suppression of ACTG1 with TIM-3 blockade represents a potent therapeutic approach to overcome immune evasion and curb tumor progression.",
+ "authors": [
+  "Zhu L",
+  "Guo Y",
+  "Ling X",
+  "Tao Y",
+  "Wang S",
+  "Han S",
+  "Ni M",
+  "Mao H"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42952609",
+ "importance": 0.59,
+ "key_points_ko": [
+  "GEO 및 ICGC 코호트 608명과 TCGA 코호트 177명의 데이터 분석을 통해 면역 세포 침윤 패턴에 따른 예후 차이를 확인했습니다.",
+  "ACTG1 유전자는 종양 세포의 CSF3 분비를 촉진하고 CSF3/CSF3R 경로를 통해 M2형 거대식세포 분극화를 유도합니다.",
+  "동물 모델에서 ACTG1 노크다운(knockdown)과 TIM-3 차단제를 병용했을 때 항종양 면역이 회복되고 생존 기간이 크게 연장되었습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1820470",
+  "nct": [],
+  "pmcid": "PMC13713472",
+  "pmid": "42952609"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952609/"
+ },
+ "summary_ko": "췌관선암종(PDAC)의 면역 억제 미세환경을 극복하기 위해 ACTG1 유전자의 역할을 연구한 전임상 결과입니다. 연구진은 GEO, ICGC, TCGA 데이터베이스 및 세포·동물 모델을 활용하여 ACTG1의 기전을 분석했습니다. 연구 결과, ACTG1은 CSF3/CSF3R 축을 통해 종양 관련 거대식세포(TAM)의 TIM-3 발현을 유도하고 CD8+ T 세포 고갈을 일으키는 것으로 나타났습니다. ACTG1 억제와 TIM-3 차단 항체를 병용 처리했을 때 면역 억제 미세환경이 개선되고 생존 기간이 유의하게 연장되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Disruption of ACTG1 potentiates anti-TIM-3 immunotherapy by reprogramming the immunosuppressive microenvironment via the CSF3/CSF3R axis in pancreatic cancer",
+ "title_ko": "ACTG1 억제를 통한 CSF3/CSF3R 축 재편 및 췌장암 항-TIM-3 면역치료 효과 증대",
+ "trial": null,
+ "type": "paper"
+}

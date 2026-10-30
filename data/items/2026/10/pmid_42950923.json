@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a major public health challenge worldwide, marked by difficulties in early diagnosis and a dismal prognosis. The overtly immunosuppressive nature of its tumor microenvironment (TME) renders PDAC largely refractory to existing immunotherapies. Tumor-associated macrophages, the predominant immune infiltrate in the TME, are pivotal in facilitating immune escape. While m6A RNA methylation, the most abundant eukaryotic post-transcriptional modification, is known to contribute to PDAC progression, its specific function in mediating tumor-immune interactions has yet to be fully elucidated. We identify RBM15, a core m6A methyltransferase component, as a key regulator of macrophage phagocytosis in PDAC. RBM15 is notably upregulated in PDAC tissues and is associated with immunosuppressive macrophage infiltration and poor prognosis. Mechanistically, RBM15 binds CSF2 mRNA and enhances its stability in an m6A-dependent manner, thereby increasing CSF2 secretion from pancreatic cancer cells. Tumor-derived CSF2 then activates STAT3 signaling in macrophages, thereby impairing their phagocytic function. In vivo orthotopic models further demonstrate that RBM15 promotes PDAC progression and is accompanied by activation of the CSF2/STAT3 axis and increased immunosuppressive macrophage infiltration. Collectively, our findings reveal a novel non-cell-autonomous mechanism whereby tumor cell m6A modification regulates macrophage function, and provide experimental evidence supporting a potential role of the RBM15/CSF2/STAT3 axis in the immunosuppressive remodeling of the PDAC microenvironment.",
+ "authors": [
+  "Liu Z",
+  "He Y",
+  "Fang T",
+  "Zhang Y",
+  "Mou Z",
+  "Ma P",
+  "Yu K",
+  "Wang W"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42950923",
+ "importance": 0.64,
+ "key_points_ko": [
+  "RBM15는 췌장암 조직에서 발현이 증가되어 있으며, 면역억제성 대식세포 침윤 및 불량한 예후와 연관성을 보였습니다.",
+  "RBM15는 CSF2 분비를 늘려 대식세포의 STAT3 경로를 자극하고 대식세포의 암세포 탐식(phagocytosis) 능력을 억제했습니다.",
+  "생체 내(in vivo) 동물 모델에서 RBM15/CSF2/STAT3 축이 췌장암 진행과 면역억제 미세환경 형성을 촉진함을 입증했습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1016/j.ijbiomac.2026.155048",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42950923"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Biol Macromol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42950923/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 RNA 변형 조절 단백질인 RBM15가 면역세포인 대식세포의 암세포 탐식 작용을 억제하는 기전을 밝힌 전임상 기초 연구입니다. 연구진에 따르면 RBM15는 m6A RNA 변형을 통해 CSF2 메신저 리보핵산(mRNA)을 안정화시키고 암세포의 CSF2 분비를 증가시킵니다. 분비된 CSF2는 대식세포의 STAT3 신호를 활성화하여 대식세포의 탐식 기능을 저해하고 종양의 면역 회피를 유도했습니다. 동물 동소이식 모델에서도 RBM15가 CSF2/STAT3 축 활성화와 면역억제성 대식세포 침윤을 유도해 췌장암 진행을 촉진함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "RNA binding motif protein 15 (RBM15) inhibits macrophage phagocytosis via m6A-dependent colony stimulating factor 2 (CSF2)/STAT3 pathway in pancreatic cancer",
+ "title_ko": "RBM15 단백질의 m6A 의존적 CSF2/STAT3 경로를 통한 췌장암 대식세포 탐식 작용 억제 기전 규명",
+ "trial": null,
+ "type": "paper"
+}

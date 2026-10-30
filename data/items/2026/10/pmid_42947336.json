@@ -8,6 +8,7 @@
   "Zhang L"
  ],
  "categories": [
+  "basic",
   "drug"
  ],
  "entities": [],
@@ -22,12 +23,16 @@
  ],
  "id": "pmid:42947336",
  "importance": 0.64,
- "key_points_ko": [],
- "last_updated": "2026-10-29",
+ "key_points_ko": [
+  "ATP7B는 췌장관선암(PDAC)에서 구리 세포사멸을 막는 중심 장벽으로 확인되었습니다.",
+  "ATP7B를 표적하는 자가포식 유도 화합물인 ATAUTAC은 ATP7B 분해를 촉진하고 구리 세포사멸을 유발합니다.",
+  "ATAUTAC은 종양 성장을 억제하고 췌장관선암이 gemcitabine에 대한 내성을 극복하도록 돕습니다."
+ ],
+ "last_updated": "2026-10-30",
  "links": {
   "doi": "10.1002/ctm2.70848",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13714097",
   "pmid": "42947336"
  },
  "pub_types": [
@@ -44,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42947336/"
  },
- "summary_ko": "Cuproptosis arises from mitochondrial copper overload, yet how tumour cells evade this metabolic vulnerability remains unclear. We identify ATP7B as the central barrier to cuproptosis in pancreatic ductal adenocarcinoma (PDAC).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장관선암(PDAC)에서 ATP7B가 구리 세포사멸(cuproptosis)을 막는 핵심 요인임을 밝혔습니다. 연구진은 ATP7B를 표적하는 자가포식 유도 화합물(ATAUTAC)을 개발하여 ATP7B 분해를 촉진했습니다. ATAUTAC은 미토콘드리아 대사회사를 교란하고 구리 세포사멸을 유발하여 종양 성장을 억제했습니다. 또한 ATAUTAC은 췌장관선암을 gemcitabine(젬시타빈)에 민감하게 만들어 내성을 극복했습니다. 초록에 환자 수나 임상시험 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Selective AUTAC-mediated ATP7B degradation unlocks cuproptosis vulnerability in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "선택적 AUTAC를 통한 ATP7B 분해는 췌장관선암에서 구리 세포사멸 취약성을 활성화합니다",
  "trial": null,
  "type": "paper"
 }

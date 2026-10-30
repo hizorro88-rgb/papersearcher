@@ -1,0 +1,109 @@
+{
+ "abstract": "This is a multi- centered two-stage Pilot Study assessing the tolerability and toxicity of an alternating regimen of FOLFOX and FOLFIRI for the treatment of newly diagnosed and untreated metastatic pancreatic cancer in patients over the age of 65 years.\n\nThis is a multi-centered two-stage Pilot Study assessing the tolerability and toxicity of an alternating regimen of FOLFOX and FOLFIRI for the treatment of newly diagnosed and untreated metastatic pancreatic cancer in patients over the age of 65 years. Treatment will be given in the outpatient infusion room or clinical research unit. Reported adverse events and potential risks of these agents are described below. No investigational or commercial agents or therapies other than those described below may be administered with the intent to treat the patient's malignancy.\n\nThe study will accrue 37 patients who will be evaluated by correlating their daily activity via use of FitBit that will be provided to the patients, blood markers and progression of the disease with the toxicity grades observed during the treatment. Patients will be treated with standard of care doses of all the chemotherapeutic drugs. The study will be analyzed for futility after treatment of 20 patients. Each cycle consists of 28 days during which patient treatment will alternate between FOLFOX and FOLFIRI on day 1 and day 14 respectively. Patients will be treated until disease progression or any of the conditions listed in Section 4.4 that applies. Patient's response to treatment will be evaluated by CT scans every 8 weeks and the tumor will be assessed using RECIST v1.1 criteria.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05360732",
+ "importance": 0.87,
+ "key_points_ko": [
+  "65세 이상의 미치료 전이성 췌장암 환자 37명을 대상으로 FOLFOX와 FOLFIRI를 14일 간격으로 교차 투여하는 요법을 평가합니다.",
+  "웨어러블 기기(FitBit)를 활용해 환자의 일상 활동량과 혈액 지표, 치료 독성 간의 상관관계를 추적합니다.",
+  "20명의 환자가 치료를 받은 후 치료 지속 가치를 검토하는 중간 무용성 분석을 진행합니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05360732"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2022-05-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Fox Chase Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05360732"
+ },
+ "summary_ko": "만 65세 이상의 이전에 전신 치료를 받지 않은 전이성 췌장암 환자를 대상으로 FOLFOX와 FOLFIRI를 교대로 투여하는 요법의 내약성과 안전성을 평가하는 2상 임상시험입니다. 환자들은 28일을 한 주기로 하여 1일 차에는 FOLFOX, 14일 차에는 FOLFIRI를 표준 용량으로 교대 투여받습니다. 연구진은 참가자에게 스마트 밴드(FitBit)를 지급하여 일상 활동량을 기록하고, 혈액 지표 및 질병 진행 경과를 치료 독성 발생과 연관 지어 분석합니다. 질병이 진행되거나 부작용이 발생할 때까지 치료를 지속하며 8주마다 반응을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Redefining FOLFIORINOX in Older Pancreatic Cancer Patients",
+ "title_ko": "고령 전이성 췌장암 환자에서 FOLFOX와 FOLFIRI 교대 투여 요법을 평가하는 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "[선정 기준] - 만 65세 이상 - 조직학적 또는 세포학적으로 진단된 미치료 전이성 췌관선암 (수술 후 국소 재발 포함) - RECIST v1.1 기준 측정 가능한 병변 보유 - ECOG 수행능력 점수 0~2점 - 등록 6개월 이전 완료된 보조항암화학요법 및 2주 이전 완료된 방사선 치료 허용 - 포괄적 노인 평가(Comprehensive Geriatric Assessment) 수행 가능 및 적절한 주요 장기 기능 보유 [제외 기준] - 전이성 또는 국소진행성(수술 불가) 병기에서 전신 항암치료를 받은 병력 - 뇌전이 병력 (치료 여부 무관) - 3등급 이상의 기저 감각 말초신경병증 또는 2주 이상 지속되는 만성 설사 - 울혈성 심부전, 불안정 협심증, 부정맥 등 조절되지 않는 심장질환이나 활동성 감염 - 포괄적 노인 평가상 최근 1개월 내 2회 이상 낙상 병력 또는 체질량지수(BMI) 18 미만",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age 65 years or older\n2. The treating physician will use their discretion when assessing if the patient is eligible for this treatment.\n3. Patients must have newly diagnosed and previously untreated, histologically or cytologically confirmed adenocarcinoma of the pancreas, with at least one site of metastatic disease (local recurrences after surgery allowed), with lesions that are measurable by RECIST v1.1 criteria. In patients with mixed histology tumors, the predominant feature must be adenocarcinoma.\n4. Eastern Cooperative Oncology Group Performance status of 0-2.\n5. Previous surgery, adjuvant chemotherapy and/or radiation therapy will be allowed, provided radiation therapy is completed at least 2 weeks prior to signing consent and adjuvant therapy was administered more than 6 months prior to signing consent.\n6. Patients must have bone marrow and organ function as defined below:\n\n   * Absolute Neutrophil Count ≥ 1,500/μL\n   * Platelets ≥ 100,000/μL\n   * Total Bilirubin ≤2 X ULN\n   * AST(SGOT)/ALT(SGPT)/\n\n     o Alkaline Phasphatase ≤3 X ULN\n\n     o Or ≤5x ULN if liver metastasis present\n   * Creatinine ≤2.0 mg/dL And\n   * eGFR (using Cockcroft Gault equation) \\> 40ml/min\n7. Patients must be fluent in English and must be able and willing to undergo Comprehensive Geriatric Assessment\n8. Chemotherapy is harmful to the human fetus. For this reason, sexually active males with partners of childbearing potential must agree to use an accepted and effective method of contraception prior to study entry and for the duration of the study.\n9. Patients must demonstrate ability to understand and the willingness to sign a written informed consent document.\n10. Men and women, regardless of race, ethnic group or sexual orientation are eligible for this study.\n\nExclusion Criteria:\n\n1\\. Endocrine or acinar pancreatic carcinoma\n\n2 Patients who have had any systemic chemotherapy in the metastatic or locally advanced inoperable setting (adjuvant or neoadjuvant therapy is allowed)\n\n3 Patients who have received radiation therapy within 2 weeks of signing consent.\n\n4 Patients who are currently receiving or have previously received any other investigational therapy for metastatic pancreatic cancer.\n\n5 Patients with known brain metastases - treated or untreated, are excluded from this study because of their poor prognosis and frequent development of progressive neurological dysfunction that would confound the evaluation of neurologic and other adverse events.\n\n6 Any patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy, known HIV-positive patients and those with known active or inactive hepatitis B, untreated HCV or treated HCV without a documented sustained virologic response are excluded from the study.\n\n7 Patients with uncontrolled intercurrent illness including, but not limited to, ongoing or active bacterial infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n\n8 Patients with evidence of active malignancy within 2 years of enrollment without definitive treatment. Patients with localized prostate cancer status-post surgical resection or definitive radiation, localized ER/PR+/HER2- breast cancer status-post definitive local treatment with a low OncotypeDx® on adjuvant hormonal therapy, or local skin cancers that were previously resected will be eligible for inclusion. Patients with a history of in situ cancers treated with definitive local therapy will also be eligible.\n\n9 Patients with grade 3 or higher baseline sensory neuropathy\n\n10 Patients with chronic diarrhea (\\>4 bowel movements/day) unresolved despite best supportive care for greater than 2 weeks.\n\n11 Patients with any of the following results on the Comprehensive Geriatric Assessment:\n\n* \\>2 falls in the past month\n* BMI \\<18",
+  "enrollment": 37,
+  "has_results": false,
+  "interventions": [
+   "FOLFIRINOX"
+  ],
+  "last_update_posted": "2026-10-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "뇌전이 병력",
+    "3등급 이상의 말초신경병증 또는 조절되지 않는 만성 설사",
+    "심부전, 불안정 협심증 등 심장 질환 또는 활동성 감염",
+    "최근 1개월 내 2회 이상 낙상 병력 또는 저체중(BMI 18 미만)",
+    "최근 2년 이내 다른 활동성 암 병력"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "전이 단계에서 전신 항암치료를 받은 적이 없는 65세 이상 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "65 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05360732",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-03-01",
+  "sex": "ALL",
+  "sponsor": "Fox Chase Cancer Center",
+  "start_date": "2022-04-22",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,64 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic acinar cell carcinoma (PACC) is a rare exocrine pancreatic neoplasm that differs from pancreatic ductal adenocarcinoma (PDAC) in its histogenetic origin and oncological behavior. Although recurrence is common after curative-intent resection, the optimal management of recurrent PACC remains undefined. Furthermore, although a certain number of pancreatic tumors have been reported in association with familial adenomatous polyposis (FAP), the relationship with PACC in particular remains poorly understood. The present case may help address this issue.\nCASE PRESENTATION: At age 22, the patient underwent distal pancreatectomy for a pancreatic tumor, which was diagnosed as PACC. A local recurrence occurred in the fourth postoperative year and achieved complete response with chemotherapy. From the tenth postoperative year onward, the patient developed repeated liver metastases, for which a total of 5 hepatectomies were performed; the patient has remained recurrence-free for 72 months since the last surgery. During the clinical course, a pathogenic adenomatous polyposis coli (APC) variant was identified, leading to a definitive diagnosis of FAP.\nCONCLUSIONS: We experienced a case in which an aggressive surgical approach-repeated hepatectomy for multiple recurrent liver metastases from PACC-achieved long-term recurrence-free survival. This supports active surgical resection as a viable strategy for PACC liver metastases. Furthermore, this rare case of PACC arising in a patient with FAP also raises the hypothesis that the APC/β-catenin pathway may be biologically involved in PACC tumorigenesis; however, a single case cannot establish an epidemiological association between FAP and PACC incidence, and further investigation is warranted.",
+ "authors": [
+  "Takahashi A",
+  "Ogura T",
+  "Yamada N",
+  "Kumano K",
+  "Fujinuma I",
+  "Kanda H",
+  "Takahashi A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42953875",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌장 선포세포암(PACC) 수술 후 발생한 재발성 간 전이에 대해 총 5회의 간 절제술을 시행했습니다.",
+  "마지막 수술 후 72개월 동안 재발이 없는 상태로 장기 생존을 달성했습니다.",
+  "임상 경과 중 유전성 질환인 가족성 선종성 용종증(FAP) 원인 유전자(APC) 변이가 확인되었습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.70352/scrj.cr.26-0605",
+  "nct": [],
+  "pmcid": "PMC13716534",
+  "pmid": "42953875"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42953875/"
+ },
+ "summary_ko": "가족성 선종성 용종증(FAP)을 진단받은 22세 환자의 췌장 선포세포암(PACC) 치료 증례입니다. 환자는 원발암 수술 후 국소 재발과 반복적인 간 전이를 경험했으나 항암화학요법과 총 5회의 간 절제술을 받았습니다. 환자는 마지막 간 절제 수술 후 72개월 동안 재발 없이 장기 생존을 유지하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Acinar Cell Carcinoma in a Patient with Familial Adenomatous Polyposis Who Achieved Long-Term Survival after Repeated Resection of Liver Metastases: A Case Report",
+ "title_ko": "간 전이 재발에 대한 반복적 절제술 후 장기 생존을 달성한 가족성 선종성 용종증 환자의 췌장 선포세포암 1례",
+ "trial": null,
+ "type": "paper"
+}

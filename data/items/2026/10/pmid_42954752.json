@@ -1,0 +1,57 @@
+{
+ "abstract": "KRAS inhibitors (KRASi) are reshaping the treatment of aggressive tumors such as pancreatic ductal adenocarcinoma (PDAC), but it is appreciated that patients will eventually acquire resistance through multiple pathways. To avoid this outcome, there is much effort to identify combination therapies that take advantage of the 'window-of-opportunity' permitted from KRAS inhibition. Tumor cell-intrinsic targeting - as a result of KRASi - results in altered immune and stromal features within the PDAC tumor site that could allow for improved, non-KRAS-targeted, treatment efficacy. Qiang and colleagues investigate the potential of pairing KRASi with immunotherapy - here, an IL-21 mimic - for therapeutic benefit during this 'open window' phase of the KRASi-induced tumor debulking. IL-21 promotes a CD4 T cell response that requires both conventional type 2 dendritic cells (cDC2s) and interferon (IFN)-γ, but not direct tumor cell recognition via major histocompatibility complex (MHC). This work fits in a series of studies highlighting the ability to drive PDAC tumor rejection through cytokines derived from CD4, but not CD8, T cells. These findings highlight a divergence from more 'traditional' immunotherapeutic responses, where cytotoxic CD8 T cells have historically dominated tumor control. Identifying alternative paths towards targeting PDAC may be beneficial - and points towards cell types and modalities that could be leveraged for clinical benefit as the field identifies potential combinatorial partners for KRASi and more patients start receiving these drugs.",
+ "authors": [
+  "Haerr ME",
+  "Byrne KT"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42954752",
+ "importance": 0.64,
+ "key_points_ko": [
+  "KRAS 억제제 치료 후 종양이 줄어드는 시기에 면역치료를 결합하는 병용 전략의 가능성을 탐색했습니다.",
+  "IL-21 모방체는 주요조직적합복합체(MHC)를 통한 직접적인 종양 인식 없이 CD4 T세포 반응을 촉진했습니다.",
+  "이번 연구는 CD8 T세포 중심의 전통적인 면역 반응과 다른 CD4 T세포 및 사이토카인 기반의 췌장암 종양 거부 기전을 강조합니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-26-4570",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42954752"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42954752/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC) 치료에서 KRAS 억제제(KRASi) 사용으로 열리는 치료적 기회 창에 주목했습니다. Qiang 연구팀은 KRASi로 종양 부피가 줄어드는 시기에 IL-21 모방체(IL-21 mimic) 면역치료를 병용하는 가능성을 조사했습니다. 연구 결과 IL-21은 기존 세포독성 CD8 T세포가 아닌 CD4 T세포와 통상형 제2형 수지상세포(cDC2s), 인터페론-γ를 통해 종양 거부를 유도함을 확인했습니다. 이는 기존의 면역치료 반응과 다른 새로운 치료적 조합 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Opening the window for immunotherapy in pancreatic cancer",
+ "title_ko": "췌장암에서 면역치료의 기회를 열다",
+ "trial": null,
+ "type": "paper"
+}

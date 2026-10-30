@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [Implementation of a Pain Management Plan in Major Open Abdominal Surg…](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
+| [주요 개복 복부 수술에서 통증 관리 계획의 적용 및 비교 연구](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
@@ -30,15 +30,36 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (15)
+## 타임라인 (16)
 
+<a id="pmid-42950589"></a>
+#### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
+<small>Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-10-28 · PubMed · J Surg Res · 중요도 0.77
+
+본 연구는 2012년부터 2021년까지 수술을 받은 병기 I~III기 췌장선암(PDAC) 환자 28,458명의 미국 전국 암 데이터베이스 자료를 분석했습니다. 분석 결과 수술 전 선행보조항암화학요법(NAC)을 받은 환자의 비율이 2012년 28%에서 2021년 65%로 유의하게 증가했습니다. 이러한 증가세는 특히 1기와 2기 췌장암 환자에서 두드러졌습니다. 학술 연구 기관 치료 여부, 젊은 연령, 높은 T 병기 등이 NAC 치료를 받을 가능성을 높이는 주요 요인으로 나타났습니다.
+
+- 전체 환자 중 선행보조항암화학요법(NAC)을 받은 비율이 2012년 28%에서 2021년 65%로 크게 증가했습니다(P < 0.001).
+- 병기 1기와 2기 췌장암 환자에서 NAC 치료 비율이 유의하게 증가했습니다(P < 0.01).
+- 학술 연구 기관에서 치료받은 환자의 NAC 비율(51%)이 지역 종합 병원(37%)보다 유의하게 높았습니다(P < 0.001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42950589/) · [DOI](https://doi.org/10.1016/j.jss.2026.09.037) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42950589)</small>
+
+---
 <a id="pmid-42949101"></a>
-#### [Body Composition and Treatment Resilience After Pancreaticoduodenectomy](https://pubmed.ncbi.nlm.nih.gov/42949101/)
+#### [췌십이지장절제술 후 체성분과 치료 회복력](https://pubmed.ncbi.nlm.nih.gov/42949101/)
+<small>Body Composition and Treatment Resilience After Pancreaticoduodenectomy</small>
+
 `논문` `종설` `수술` `치료 전반` · 2026-10-27 · PubMed · J Vis Exp · 중요도 0.65
 
-Pancreaticoduodenectomy remains a cornerstone of curative-intent treatment for periampullary malignancies. Postoperative recovery, receipt of adjuvant therapy, and long-term outcomes vary even among patients with comparable tumor stage and surgical care.
+본 리뷰 논문은 팽대부위 악성종양 환자에서 췌십이지장절제술(pancreaticoduodenectomy) 후 체성분(body composition)이 수술 후 회복 및 보조 치료 진행에 미치는 영향을 분석했습니다. 기존 체질량지수(BMI)와 달리 컴퓨터단층촬영(CT) 기반의 근육량 및 근육 음영 측정을 통해 근육의 양과 질을 파악할 수 있습니다. 후향적 연구들에서 비정상적인 근육 형질이 수술 후 합병증 및 항암 치료 중단 등 치료 회복력 저하와 연관성이 보고되었으나 연구 간 결과 차이가 존재합니다. 체성분 평가를 실제 치료 의사결정에 활용하기 위해서는 표준화된 평가 기법과 전향적 검증 연구가 요구됩니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42949101/) · [DOI](https://doi.org/10.3791/74133) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42949101)</small>
+- CT 기반 근육 면적 및 음영 측정은 단순 BMI보다 근육의 양과 질을 정확하게 평가할 수 있습니다.
+- 이상 근육 형질은 수술 후 합병증, 보조 항암 치료 지연 및 중단 등 치료 회복력 저하와 연관성을 보였습니다.
+- 체성분 지표가 환자의 임상 치료 지침에 직접 적용되기 위해서는 표준화 및 전향적 임상 검증이 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42949101/) · [DOI](https://doi.org/10.3791/74133) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42949101)</small>
 
 ---
 <a id="pmid-42905299"></a>

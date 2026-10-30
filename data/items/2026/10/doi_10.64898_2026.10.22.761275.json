@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal cancers worldwide. It has a five-year survival rate of approximately 13%, largely due to late diagnosis, rapid metastasis, and limited therapeutic options. The tumor microenvironment (TME), including immune and non-immune cells, plays a role in PDAC progression and drug resistance. However, molecular characteristics of PDAC based on TME-based subtypes are not well studied. To address this, we developed a multi-layered Graph Convolutional Network (GCN) to identify TME-guided PDAC subtypes. First, we constructed a TME reference atlas using single-cell RNA-seq data comprising immune and non-immune cell types. Second, we applied in silico cytometry to estimate cell-type proportions in bulk tumor RNA-seq samples from the Cancer Genome Atlas PDAC patients. Third, we constructed the GCN model integrating the estimated patient-specific cellular proportions with multi-omics datasets, such as gene expression, DNA methylation, copy number variation, and clinical data. Finally, we predicted PDAC subtypes using an unsupervised clustering method on the GCN-based embedding matrices. Our method identified seven PDAC subtypes, which we further grouped into two ecological tumor families. These subtypes exhibited distinct immune infiltration, stromal activity, and malignant epithelial cell abundance. Differential gene expression analysis revealed subtype-specific molecular programs. Survival analysis demonstrated significant differences in overall survival across ecological families and subtypes, highlighting their prognostic relevance. Thus, our method provides a biologically informed framework for patient stratification, with potential implications for advancing precision oncology approaches.",
+ "authors": [
+  "Bose S",
+  "Upama PB",
+  "Ahamed SI."
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.22.761275",
+ "importance": 0.56,
+ "key_points_ko": [
+  "단일세포 RNA 시퀀싱 및 다중오믹스 데이터를 통합 분석하는 다층 그래프 합성곱 네트워크(GCN) 인공지능 모델을 구축했습니다.",
+  "췌장암의 종양 미세환경(TME) 특성에 따라 7개의 아형과 2개의 생태학적 종양 패밀리를 식별했습니다.",
+  "식별된 아형 및 패밀리 간에 면역 침윤과 기질 활성도가 달랐으며 전체 생존기간(OS)에서도 통계적으로 유의미한 예후 차이를 확인했습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.64898/2026.10.22.761275",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1352392"
+ },
+ "summary_ko": "췌장암은 5년 생존율이 약 13% 수준에 불과하며 종양 미세환경(TME)이 질환 진행과 약물 저항성에 중요한 역할을 합니다. 연구진은 단일세포 RNA 시퀀싱 및 다중오믹스 데이터와 임상 정보를 통합하는 다층 그래프 합성곱 네트워크(GCN) 모델을 개발했습니다. 이 모델을 통해 췌장암의 종양 미세환경 특성을 반영하는 7가지 세부 아형과 2가지 생태학적 종양 패밀리를 구별해냈습니다. 도출된 아형들은 면역 세포 침윤, 기질 활성화 정도, 환자의 전체 생존기간(OS) 등에서 명확한 차이를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Multiplex-GCN Predicts Clinically Actionable Tumor Microenvironment Subtypes in Pancreatic Cancer",
+ "title_ko": "다중 그래프 합성곱 네트워크(Multiplex-GCN)를 활용한 췌장암의 종양 미세환경 아형 예측",
+ "trial": null,
+ "type": "preprint"
+}

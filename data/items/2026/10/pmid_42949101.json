@@ -23,7 +23,11 @@
  ],
  "id": "pmid:42949101",
  "importance": 0.65,
- "key_points_ko": [],
+ "key_points_ko": [
+  "CT 기반 근육 면적 및 음영 측정은 단순 BMI보다 근육의 양과 질을 정확하게 평가할 수 있습니다.",
+  "이상 근육 형질은 수술 후 합병증, 보조 항암 치료 지연 및 중단 등 치료 회복력 저하와 연관성을 보였습니다.",
+  "체성분 지표가 환자의 임상 치료 지침에 직접 적용되기 위해서는 표준화 및 전향적 임상 검증이 필요합니다."
+ ],
  "last_updated": "2026-10-29",
  "links": {
   "doi": "10.3791/74133",
@@ -47,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42949101/"
  },
- "summary_ko": "Pancreaticoduodenectomy remains a cornerstone of curative-intent treatment for periampullary malignancies. Postoperative recovery, receipt of adjuvant therapy, and long-term outcomes vary even among patients with comparable tumor stage and surgical care.",
- "summary_source": "excerpt",
+ "summary_ko": "본 리뷰 논문은 팽대부위 악성종양 환자에서 췌십이지장절제술(pancreaticoduodenectomy) 후 체성분(body composition)이 수술 후 회복 및 보조 치료 진행에 미치는 영향을 분석했습니다. 기존 체질량지수(BMI)와 달리 컴퓨터단층촬영(CT) 기반의 근육량 및 근육 음영 측정을 통해 근육의 양과 질을 파악할 수 있습니다. 후향적 연구들에서 비정상적인 근육 형질이 수술 후 합병증 및 항암 치료 중단 등 치료 회복력 저하와 연관성이 보고되었으나 연구 간 결과 차이가 존재합니다. 체성분 평가를 실제 치료 의사결정에 활용하기 위해서는 표준화된 평가 기법과 전향적 검증 연구가 요구됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Body Composition and Treatment Resilience After Pancreaticoduodenectomy",
- "title_ko": null,
+ "title_ko": "췌십이지장절제술 후 체성분과 치료 회복력",
  "trial": null,
  "type": "paper"
 }

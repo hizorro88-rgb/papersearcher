@@ -18,11 +18,11 @@
  "id": "nct:NCT07432633",
  "importance": 0.84,
  "key_points_ko": [
-  "췌장관선암을 포함한 주요 고형암 환자 71명을 대상으로 [18F]FPyQCP PET의 진단 성능 및 안전성을 평가하는 1/2상 임상시험입니다.",
-  "초기 치료를 받지 않은 환자, 선행요법 후 수술 예정인 환자, 완치 목적 치료 후 재발 의심 환자 등이 포함됩니다.",
-  "소수 전이(5개 이하 전이)인 경우 전이 단계(4기) 환자도 참여가 가능합니다."
+  "목표 인원은 최대 71명입니다.",
+  "대상 질환에는 췌장관선암(PDAC)이 포함됩니다.",
+  "연구의 목적은 [18F]FPyQCP의 안전성과 진단 성능을 평가하는 것입니다."
  ],
- "last_updated": "2026-10-29",
+ "last_updated": "2026-10-30",
  "links": {
   "doi": null,
   "nct": [
@@ -45,14 +45,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07432633"
  },
- "summary_ko": "이 임상시험은 췌장관선암(PDAC), 대장암, 위암 등 선별된 암 환자를 대상으로 [18F]FPyQCP PET의 안전성, 방사선 선량 측정 및 예비 진단 능력을 평가하는 1/2상 연구입니다. 총 71명의 환자를 모집하여 섬유아세포 활성화 단백질(FAP)을 표적하는 새로운 영상 조영 기술을 시험합니다. 췌장암 환자는 세포학 또는 조직학적으로 확진되었으며 병기 I-III기 또는 소수 전이(5개 이하 전이) 병변을 가진 환자 등이 참여 대상입니다.",
+ "summary_ko": "이 임상시험은 췌장관선암(PDAC)을 포함한 여러 암종에서 [18F]FPyQCP의 안전성, 방사선 선량 측정, 예비 진단 성능을 평가하기 위한 다기관, 공개, 단일군 1/2상 연구입니다. 췌장암 환자 등에게 [18F]FPyQCP 방사성의약품을 투여하여 PET/CT 영상 검사를 진행합니다. 목표 인원은 총 71명입니다.",
  "summary_source": "llm",
  "tags": [
   "Positron emission tomography",
   "Fibroblast activation protein"
  ],
  "title": "[18F]FPyQCP PET Imaging of Fibroblast Activation Protein in Selected Oncology Indications",
- "title_ko": "선별된 암종에서 섬유아세포 활성화 단백질 표적 [18F]FPyQCP PET 영상에 대한 1/2상 임상시험",
+ "title_ko": "[18F]FPyQCP PET 영상 검사를 이용한 섬유아세포 활성화 단백질(FAP) 평가 임상 1/2상 시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -73,7 +73,7 @@
     "phone": "+19139576499"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 80세 미만\n- 세포학적 또는 조직학적으로 확인된 췌장관선암(PDAC) 환자\n- ECOG 수행능력 점수 0~2점\n- 병기 I-III기 또는 5개 이하의 소수 전이를 동반한 4기 환자\n- 치료 전 최소 IIB기 이상으로 생검/수술 예정인 환자, 선행요법 후 생검/수술 예정인 환자, 또는 완치 목적 치료 후 재발이 의심되는 환자\n\n제외 기준:\n- 최근 3개월 이내에 복부, 골반 또는 유방 부위에 방사선 치료를 받은 이력\n- 중증의 폐소공포증 또는 공황장애 병력\n- 영상 판독을 방해할 수 있는 체내 이식된 이물질(스텐트, 수술용 클립 등) 또는 자가면역·염증성 질환\n- 중대한 신장 또는 간 기능 저하\n- 과거 5년 이내 다른 암 병력(근치적 치료 후 5년 무병 상태인 경우 등 제외)",
+  "eligibility_ko": "선정 기준:\n1. 18세 이상 80세 미만의 자발적 동의 능력이 있는 환자.\n2. 동부종양학협력그룹(ECOG) 수행능력 상태 2 이하.\n3. 세포학적 또는 조직병리학적으로 확진된 췌장관선암(PDAC).\n4. 가임기 여성의 스크리닝 및 영상 검사 전 임신 테스트 음성.\n\n제외 기준:\n1. [18F]FPyQCP 투여 전 5반감기 이내에 방사성 동위원소를 투여받은 환자.\n2. [18F]FPyQCP 또는 성분에 과민증이 있는 환자.\n3. 심각한 폐쇄공포증 또는 공황 발작 병력이 있는 환자.\n4. 수유 중인 여성 (단, 투여 후 24시간 동안 모유를 유축하여 버리는 경우 예외).",
   "eligibility_text": "Inclusion Criteria:\n\n1. Participants provide informed consent and confirm that they are able and willing to comply with all protocol requirements.\n2. Participants must be ≥ 18 years and \\< 80 years of age and competent to give informed consent.\n3. Eastern Cooperative Oncology Group performance status ≤ 2.\n4. Diagnosis of either CRC (confirmed by histopathology), GC (confirmed by histopathology), PDAC (confirmed by cytology or histopathology), ILC (confirmed by histopathology), or EOC (suspected or confirmed by cytology or histopathology).\n5. Women of childbearing potential (WOCBP) should have a negative serum test at screening (Visit 1) and a negative urine pregnancy test at the PET/CT imaging visit (Visit 2) prior to \\[18F\\]FPyQCP administration.\n6. WOCBP, and men who are sexually active with WOCBP, must agree to use a highly effective method(s) of contraception for the duration of the study\n7. Cohort A specific: Participants with stage I-III (see Appendix 3) CRC, GC, PDAC, ILC, or EOC (stage IV disease is allowed in the setting of oligometastatic disease \\[5 or fewer known metastases) as assessed by conventional imaging within 8 weeks of \\[18F\\]FPyQCP administration.\n8. Cohort B specific: Conventional imaging performed within 8 weeks of screening and no later than 24 hours before \\[18F\\]FPyQCP administration and available for upload to the central imaging vendor, including, at a minimum, a contrast-enhanced CT that includes the abdomen and pelvis.\n9. Either:\n\n   1. Treatment-naïve with at least stage IIB disease. Available biopsy sample or scheduled biopsy or surgical resection no later than Day 42.\n   2. Following neoadjuvant therapy (with at least stage IIB disease at initial presentation) with scheduled biopsy or surgical resection no later than Day 42. \\[18F\\]FPyQCP PET/CT imaging should be performed as close to scheduled procedure as clinically feasible.\n   3. Suspected recurrence after definitive therapy\n\nExclusion Criteria:\n\n1. Participants administered any radioisotope within 5 physical half-lives prior to \\[18F\\]FPyQCP administration.\n2. Participants administered any other IMP within 2 weeks or 5 half-lives, whichever is longest, prior to \\[18F\\]FPyQCP administration.\n3. Participants who have recently received any other contrast agent (\\< 24 hours for intravenous agents and \\< 5 days for oral agents) before the day of \\[18F\\]FPyQCP administration.\n4. Participants with a history of severe claustrophobia or panic attacks when in confined spaces.\n5. Known hypersensitivity to \\[18F\\]FPyQCP or any of its constituents.\n6. Participants with any medical condition or other circumstances at screening or in their past medical history that, in the opinion of the investigator, compromise obtaining reliable data, achieving study objectives, or study completion.\n7. Known diagnosis of an autoimmune or inflammatory disorder that is expected to confound image interpretation per investigator judgment, excluding disorders directly related to the index cancer (e.g. tumor-associated pancreatitis or biliary stasis for PDAC).\n8. Medical history of abdomino-pelvic or breast irradiation in the last 3 months.\n9. Presence of any current implanted foreign material (e.g. stents, surgical clips) that may confound image interpretation per investigator judgment.\n10. Significant renal or hepatic impairment.\n11. Female participants who are breastfeeding, unless the participant commits to pumping breast milk and discarding it from injection to ≥ 24 hours from the time of the \\[18F\\]FPyQCP administration.\n12. Cohort A Specific Exclusion Criteria: 12. No prior history of any other cancer, unless treated with curative-intent and disease-free for at least 5 years before Visit 1 (at least 1 year before Visit 1 for basal cell carcinoma, localized squamous cell carcinoma of the skin and in situ carcinoma of cervix).",
   "enrollment": 71,
   "has_results": false,
@@ -90,22 +90,20 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "최근 3개월 이내 복부 또는 골반 부위 방사선 치료 병력",
-    "중증 폐소공포증 병력",
-    "영상 판독을 저해할 수 있는 체내 이식 이물질(스텐트 등)",
-    "과거 5년 이내 다른 암 병력"
+    "폐쇄공포증 또는 공황 발작 병력",
+    "약물 성분에 대한 과민증",
+    "수유부"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "초치료 전, 선행치료 후 수술 예정, 혹은 재발 의심 상태의 췌장관선암 환자를 위한 FAP 표적 PET 진단 영상 임상시험",
+   "notes_ko": "방사성의약품 진단 성능을 평가하는 초기 임상시험으로 다양한 병기의 췌장관선암 환자가 참여할 수 있습니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced",
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
    "source": "llm"
   },

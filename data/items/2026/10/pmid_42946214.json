@@ -11,10 +11,11 @@
   "Shah EA"
  ],
  "categories": [
+  "basic",
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-10-29",
  "history": [
   {
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:42946214",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.77,
+ "key_points_ko": [
+  "치료 받은 적이 없는 췌장암 환자 12명의 조직에서 27개 단백질 표지자를 고해상도로 분석했습니다.",
+  "암이 재발한 환자의 조직에서는 면역억제성 골수성 세포가 증가하고 세포독성 CD8+ T 세포가 감소한 특징을 보였습니다.",
+  "공간적 분석 기법을 통해 서로 다른 기능적 상태를 가진 8개의 세포 이웃 영역을 발견했습니다."
+ ],
  "last_updated": "2026-10-29",
  "links": {
   "doi": "10.1016/j.mcpro.2026.101697",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42946214/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies with dismal prognosis and limited treatment options. The complex interplay between tumor cells and their microenvironment contributes significantly to treatment resistance, yet technological challenges have hindered comprehensive spatial characterization of immune components in PDAC tissues.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 수술 후 보조 항암치료를 받은 치료 이력이 없는 췌장관선암(PDAC) 환자 12명의 조직을 대상으로 다중 이온 빔 영상화(MIBI) 기술을 활용해 고차원 공간 단백체학 분석을 시행했습니다. 분석 결과 재발을 경험한 환자 군에서는 면역억제성 골수성 세포 집단이 유의하게 증가했고 세포독성 CD8+ T 세포는 감소해 있었습니다. 연구진은 세포들의 공간적 위치 관계를 분석하여 8개의 고유한 세포 이웃 영역을 식별했습니다. 이 연구는 췌장암 면역 미세환경의 공간 지도를 제공하며 새로운 면역치료법 개발에 기여할 수 있습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Spatial Proteomics Uncovers Immune Cell Neighborhoods and Tumor-Immune Interfaces in Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "공간 단백체학을 통해 밝혀낸 췌장관선암의 면역 세포 이웃 및 종양-면역 계면",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND This report describes a 61-year-old patient with locally advanced pancreatic adenocarcinoma involving the portal vein and common hepatic artery, managed with neoadjuvant chemotherapy with leucovorin, fluorouracil, irinotecan, and oxaliplatin (FOLFIRINOX), total pancreatectomy, splenectomy, portal vein and common hepatic artery resection, and combined arterial and portal vein reconstruction. CASE REPORT The patient presented with progressive jaundice and an elevated carbohydrate antigen 19-9 (CA 19-9) level of 210 U/mL. Endoscopic ultrasound-guided biopsy confirmed pancreatic ductal adenocarcinoma, and imaging demonstrated major vascular involvement without distant metastases. After 12 cycles of FOLFIRINOX, restaging showed persistent portal vein and common hepatic artery involvement without metastatic disease. Total pancreatectomy and splenectomy were performed with resection of a 4-cm portal vein segment and the common hepatic artery. Portal venous continuity was restored by primary end-to-end anastomosis, and hepatic arterial inflow was reconstructed by splenic artery transposition to the proper hepatic artery. Final pathology demonstrated a 1.3-cm moderately differentiated pancreatic ductal adenocarcinoma, with 2 out of 41 lymph nodes involved and negative surgical margins. A postoperative chylous fistula was managed with percutaneous drainage and parenteral nutrition. At 15 months, a solitary pulmonary metastasis was resected. The patient died 27 months after surgery from severe pneumonia without locoregional recurrence. CONCLUSIONS This case illustrates the technical management of simultaneous portal vein and hepatic artery resection during total pancreatectomy, using primary portal vein anastomosis and splenic artery transposition to restore arterial inflow.",
+ "authors": [
+  "Chapochnick J",
+  "Derosas C",
+  "Gonzalez JA"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42952105",
+ "importance": 0.64,
+ "key_points_ko": [
+  "12주기의 선행 FOLFIRINOX 치료 후 문맥 및 공통간동맥을 절제하는 전췌장절제술을 시행했습니다.",
+  "비장동맥 전위술(Splenic Artery Transposition)을 이용해 간동맥 혈류를 복원하고 절제 단면 음성을 확보했습니다.",
+  "수술 후 15개월에 단일 폐 전이 절제술을 받았으며, 수술 27개월 후 국소 재발 없이 중증 폐렴으로 사망했습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.12659/AJCR.953367",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42952105"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am J Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952105/"
+ },
+ "summary_ko": "문맥과 공통간동맥을 침범한 국소 진행성 췌장관선암(PDAC) 61세 여성 환자의 치료 증례입니다. 환자는 12주기의 FOLFIRINOX(폴피리녹스) 선행 항암화학요법을 받은 후, 전췌장절제술, 비장절제술, 문맥 및 공통간동맥 절제술을 시행받았습니다. 비장동맥 전위술을 이용한 간동맥 혈류 재건을 통해 수술 단면 음성(R0 절제)을 달성했습니다. 환자는 수술 후 27개월에 국소 재발 없이 중증 폐렴으로 사망했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A 61-Year-Old Woman With Locally Advanced Pancreatic Adenocarcinoma Managed With Neoadjuvant FOLFIRINOX, Total Pancreatectomy, Splenectomy, Portal Vein and Common Hepatic Artery Resection, and Combined Vascular Reconstruction Using Splenic Artery Transposition: A Case Report",
+ "title_ko": "선행 FOLFIRINOX 항암요법 및 비장동맥 전위술을 통한 복합 혈관 재건술 후 전췌장절제술을 시행한 61세 국소 진행성 췌장암 환자 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

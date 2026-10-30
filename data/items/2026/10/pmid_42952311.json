@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) displays profound metabolic plasticity that sustains rapid proliferation through heightened demands for nucleotide biosynthesis. Here, we characterize HOSU-53 (JBZ-001), a dihydroorotate dehydrogenase (DHODH) inhibitor demonstrating potent antitumor activity in preclinical PDAC models and define the metabolic determinants of sensitivity and resistance. In HOSU-53-sensitive PDAC cells, DHODH inhibition induces G₂/M cell cycle arrest and triggers apoptotic and ferroptotic cell death. In contrast, resistant cells evade metabolic stress by activating compensatory nucleoside transport and macropinocytosis pathways. Integrated functional and genetic analyses reveal that nucleoside salvage via the equilibrative nucleoside transporter SLC29A1 constitutes a dominant resistance mechanism, enabling uptake of extracellular nucleosides to bypass de novo pyrimidine synthesis. Unbiased metabolomic profiling demonstrates that combined inhibition of DHODH and SLC29A1 precipitates mitochondrial dysfunction, oxidative stress, lipid remodeling, and amino acid depletion, culminating in metabolic collapse and energetic failure. Consistent with these findings, dual inhibition markedly suppresses tumor growth and metastatic burden in xenograft and syngeneic orthotopic PDAC models while reprogramming the tumor microenvironment toward a pro inflammatory, immune activated state. Furthermore, co targeting DHODH and SLC29A1 synergizes with anti-PD 1 immune checkpoint blockade, enhancing immunotherapeutic efficacy. Together, these results establish dual targeting of de novo and salvage nucleotide metabolism as a compelling strategy to overcome metabolic resistance, remodel tumor-immune interactions and potentiate therapeutic responses in PDAC.",
+ "authors": [
+  "Govindarajan R",
+  "Vij S",
+  "Joshi A",
+  "Vibhute SM",
+  "Gao C",
+  "Shakya R",
+  "Patrick J",
+  "Bennett CE"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42952311",
+ "importance": 0.64,
+ "key_points_ko": [
+  "DHODH 억제제 HOSU-53은 민감한 췌장암 세포에서 세포주기 정지, 아포토시스 및 페롭토시스 사멸을 유도했습니다.",
+  "암세포는 SLC29A1 수송체를 이용해 외부 뉴클레오시드를 흡수함으로써 DHODH 억제에 대한 저항성을 얻었습니다.",
+  "DHODH와 SLC29A1의 이중 억제는 동물 모델에서 종양 성장과 전이를 억제하고 면역 미세환경을 활성화했습니다.",
+  "DHODH 및 SLC29A1 동시 억제는 anti-PD-1 면역항암제 치료의 효과를 유의하게 향상시켰습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1158/1535-7163.MCT-26-0461",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42952311"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Cancer Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952311/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 전임상 모델에서 디하이드로오로테이트 탈수소효소(DHODH) 억제제인 HOSU-53(JBZ-001)의 항종양 효과와 저항성 기전을 분석했습니다. DHODH 억제 시 암세포는 등평형 뉴클레오시드 수송체 1(SLC29A1)을 통한 구원 경로를 활성화하여 치료에 저항했습니다. DHODH와 SLC29A1을 동시 억제하면 암세포의 대사 붕괴를 유도하고 종양 성장과 전이를 크게 억제했습니다. 또한 이중 억제 치료는 anti-PD-1 면역항암치료와의 시너지 효과를 통해 항종양 면역 반응을 강화했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual targeting of DHODH and SLC29A1 overcomes metabolic resistance and enhances antitumor immune responses in PDAC",
+ "title_ko": "DHODH 및 SLC29A1 이중 표적화를 통한 췌장암의 대사성 저항성 극복 및 항종양 면역 반응 증진",
+ "trial": null,
+ "type": "paper"
+}

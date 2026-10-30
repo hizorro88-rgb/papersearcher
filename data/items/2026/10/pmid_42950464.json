@@ -1,0 +1,51 @@
+{
+ "abstract": "AIM: Preoperative assessment of the pathological grade of pancreatic ductal adenocarcinoma (PDAC) is critical for determining therapeutic strategies, yet conventional imaging often lacks sensitivity. This study investigated the incremental value of multiparametric spectral computed tomography (CT) imaging in the noninvasive prediction of PDAC differentiation.\nMATERIALS AND METHODS: We retrospectively analysed 125 patients with pathologically confirmed PDAC (77 poorly differentiated, 48 nonpoorly differentiated). All patients underwent triple-phase contrast-enhanced spectral CT. Quantitative parameters, including virtual monoenergetic images (VMI) at 40 to 140 keV, iodine concentration (IC), effective atomic number (Zeff), and the slope of the spectral curve (λHU), were measured. A multiparametric logistic regression model was developed to integrate these biomarkers, and a nomogram was constructed to visualise the predictive performance.\nRESULTS: Poorly differentiated tumours exhibited significantly lower values in 40 keV VMI, IC, Zeff, and λHU compared to nonpoorly differentiated tumours (P < .05). While individual spectral parameters showed moderate diagnostic ability, the exploratory three-phase combined model achieved the highest predictive performance (area under the curve [AUC] = 0.75). For clinical application, a simplified venous-phase nomogram based on four independent predictors was constructed, yielding an AUC of 0.68 with good calibration (Hosmer-Lemeshow P = .61).\nCONCLUSION: Spectral CT-derived quantitative parameters differ significantly between PDAC differentiation grades. A multiparametric approach integrating these parameters yields moderate discriminative performance (AUC 0.75) for preoperative grading-superior to single-parameter analysis but insufficient for stand-alone decision-making. Thus, it may serve as a complementary tool to assist risk stratification, requiring cautious interpretation alongside established clinical and pathological assessments.",
+ "authors": [
+  "Wang B",
+  "Wei W"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42950464",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1016/j.crad.2026.107492",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42950464"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42950464/"
+ },
+ "summary_ko": "AIM: Preoperative assessment of the pathological grade of pancreatic ductal adenocarcinoma (PDAC) is critical for determining therapeutic strategies, yet conventional imaging often lacks sensitivity. This study investigated the incremental value of multiparametric spectral computed tomography (CT) imaging in the noninvasive prediction of PDAC differentiation.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Preoperative prediction of pathological grading in pancreatic ductal adenocarcinoma: the incremental value of multiparametric spectral computed tomography",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

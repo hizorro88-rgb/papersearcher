@@ -1,0 +1,119 @@
+{
+ "abstract": "Background:\n\nFibroblast-activation protein (FAP) is an enzyme that appears in high numbers in cancer-associated fibroblasts of certain cancer types. \\[18F\\]FAPI-74 is a new PET (positron emission tomography) tracer, a substance that is injected into a person s body before an imaging scan. Researchers believe that \\[18F\\]FAPI-74 PET imaging may be able to visualize cancer more effectively than the approved tracers. If so, the new tracer would make it easier to find FAP-positive tumors in the body.\n\nObjective:\n\nTo see if \\[18F\\]FAPI-74 PET scan is as good or better than other imaging methods for detecting certain cancers.\n\nEligibility:\n\nPeople aged 18 years or older with one of these cancer types: pancreatic ductal adenocarcinoma (PDAC), cholangiocarcinoma, hepatocellular carcinoma (HCC), gastric cancer, bladder cancer, ovarian cancer, pheochromocytoma/paraganglioma (PPGL), small cell lung cancer (SCLC) or extrapulmonary neuroendocrine cancer (EP-NEC), mesothelioma or sarcoma. Participants must be scheduled or intended to receive treatment for cancer.\n\nDesign:\n\nParticipants will have 2 baseline scans: an \\[18F\\]FAPI-74, and the approved tracer \\[18F\\]-FDG.\n\nThe \\[18F\\]FAPI-74 will be infused through a needle inserted into a vein. About 1 hour later, the participant will undergo imaging.\n\nWithin 1 week, participants will undergo the same scanning procedures with the approved tracer.\n\nIf the baseline scan with \\[18F\\]FAPI-74 shows the tumor(s), scans with this tracer will be repeated when their regular treatment regimen calls for scans again. If the scan with the regular FDG also show tumors, this scan will be repeated within the same week as the repeated \\[18F\\]FAPI-74 scan. If \\[18F\\]-FAPi PET scan shows no tumor(s), scans will not be repeated.\n\nIf the participant's cancer progresses within 2 years, scans may be repeated.\n\nFollow-up calls will continue for 2 years.\n\nBackground:\n\n* Fibroblast-activation protein (FAP) is a transmembrane type 2 serine protease with dipeptidyl peptidase and endopeptidase activity that is overexpressed on the surface of cancer-associated fibroblasts (CAFs), a major constituent of the tumor stroma, which correlates with a poor prognosis.\n* FAP-positive CAFs are present in the stromal tissue of more than 90% of epithelial carcinomas, including pancreatic, colorectal, ovarian, lung, and breast cancer among others.\n* FAP has emerged in recent years as a promising target for molecular imaging with PET/Computed Tomography (CT), using radiolabeled FAP inhibitors (FAPI). FAPI labeled with 68Ga or 18F has shown great promise in cancer detection demonstrating high tumor-to-background ratios in patients across a wide array of cancers.\n* While there is much clinical data with 68Ga-FAPI, there is much less data on the efficacy of \\[18F\\]FAPI-74, which is a more practical version of this PET agent due to its longer half-life.\n\nObjective:\n\n-To compare \\[18F\\]FAPI-74 PET imaging to 18F-fluorodeoxyglucose (18F-FDG) PET imaging and other imaging considered standard of care (SOC) (e.g., CT, and/or magnetic resonance imaging \\[MRI\\]) to detect sites of cancer in several malignancies.\n\nEligibility:\n\n* \\>= 18 years old.\n* Histologically confirmed pancreatic ductal adenocarcinoma (PDAC), cholangiocarcinoma, hepatocellular carcinoma (HCC), gastric cancer, bladder cancer, ovarian cancer, or pheochromocytoma/paraganglioma (PPGL), small cell lung or extrapulmonary neuroendocrine cancer, mesothelioma or sarcoma.\n* Eastern Cooperative Oncology Group (ECOG) Performance score \\<= 2.\n\nDesign:\n\n* This is a single-site imaging study enrolling participants with PDAC, cholangiocarcinoma, HCC, gastric cancer, bladder cancer, ovarian cancer, pheochromocytoma/paraganglioma, small cell lung or extrapulmonary neuroendocrine cancers, mesothelioma or sarcoma.\n* All participants will undergo baseline \\[18F\\]FAPI-74 PET and 18F-FDG PET imaging.\n* Participants with a positive baseline \\[18F\\]FAPI-74 PET scan (i.e., with the presence of FAPIpositive tumor/s) will undergo the second \\[18F\\]FAPI-74 PET imaging at the time of the next re-staging. Participants with a negative baseline \\[18F\\]FAPI-74 PET scan will not have post-treatment \\[18F\\]FAPI-74 PET or 18F-FDG PET scans performed on this protocol but will remain in follow-up.\n* Participants with a negative baseline 18F-FDG PET scan will not be re-scanned with 18F-FDG PET but may be re-scanned with \\[18F\\]FAPI-74 PET if baseline \\[18F\\]FAPI-74 PET imaging is positive.\n* All participants will be followed for 2 years following the first \\[18F\\]FAPI-74 PET scan to assess progression-free survival and 2-year overall survival. During this period, participants may undergo the additional \\[18F\\]FAPI-74 and 18F-FDG PET imaging in case of suspicion for recurrence/disease progression. These scans may be done even if the baseline \\[18F\\]FAPI-74 and/or 18F-FDG PET imaging are negative.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06503146",
+ "importance": 0.9,
+ "key_points_ko": [],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06503146"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-07-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06503146"
+ },
+ "summary_ko": "Background:\n\nFibroblast-activation protein (FAP) is an enzyme that appears in high numbers in cancer-associated fibroblasts of certain cancer types. \\[18F\\]FAPI-74 is a new PET (positron emission tomography) tracer, a substance that is injected into a person s body before an imaging scan.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Fluorodeoxyglucose F18",
+  "PET Imaging",
+  "18F-Fibroblast Activation Protein Inhibitor"
+ ],
+ "title": "18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detection",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Sarcoma",
+   "Small Cell Lung Cancer or Extrapulmonary Neuroendocrine Cancer (EP-NEC)",
+   "Mesothelioma",
+   "Pheochromocytoma/Paraganglioma (PPGL)",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Ovarian Cancer",
+   "Hepatocellular Carcinoma",
+   "Gastric Cancer",
+   "Cholangiocarcinoma",
+   "Bladder Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "ymckinney@mail.nih.gov",
+    "name": "Yolanda L McKinney, R.N.",
+    "phone": "(240) 760-6095"
+   },
+   {
+    "email": "esther.menagonzalez@nih.gov",
+    "name": "Esther Mena Gonzalez, M.D.",
+    "phone": "(240) 760-6111"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "* INCLUSION CRITERIA:\n* Histologically confirmed pancreatic ductal adenocarcinoma (PDAC), cholangiocarcinoma, hepatocellular carcinoma (HCC), gastric cancer, bladder cancer, ovarian cancer, pheochromocytoma/paraganglioma (PPGL), small cell lung cancer (SCLC) or extrapulmonary neuroendocrine cancer (EP-NEC), mesothelioma or sarcoma.\n* Participants must be scheduled or intended to receive treatment for their cancer.\n* Evaluable disease\n* \\>= 18 years old.\n* Eastern Cooperative Oncology Group (ECOG) performance score \\<= 2.\n* Individuals of child-bearing potential (IOCBP) and individuals that can father children must agree to use effective contraception (barrier, hormonal, intrauterine device (IUD), surgical sterilization, abstinence) at the study entry and for 2 months after each (18F) FAPI-74 imaging. Sperm may not be frozen or donated within the same period.\n* Must be willing to discontinue breastfeeding for 2 months after each study imaging.\n* The ability of participant to understand and the willingness to sign a written informed consent document.\n\nEXCLUSION CRITERIA:\n\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to \\[18F\\]FAPI-74 or other agents used in the study.\n* History of severe claustrophobia unresponsive to oral anxiolytics or history of any other condition preventing the ability to lie on the imaging scanner for up to 45 minutes.\n* Weight \\> 350 lbs., or inability to fit within the imaging gantry.\n* Positive Beta-human chorionic gonadotropin (Beta-HCG) serum or urine pregnancy test performed in IOCBP at screening.\n* Uncontrolled intercurrent illness, or medical condition(s) including but not limited to renal failure, liver failure, or psychiatric illness/social situations evaluated by medical history and physical exam that would limit compliance with study requirements and potentially increase risk for the participant.\n* Serum creatinine \\> 2 times the upper limit of normal.\n* Liver transaminases (ALT, AST) greater than 3 times the upper limit of normal.",
+  "enrollment": 320,
+  "has_results": false,
+  "interventions": [
+   "[18F]FAPI-74",
+   "[18F]FDG"
+  ],
+  "last_update_posted": "2026-10-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "rules"
+  },
+  "max_age": "120 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06503146",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-06-01",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2025-09-09",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

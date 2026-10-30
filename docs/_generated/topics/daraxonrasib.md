@@ -23,17 +23,17 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [수술 가능한 췌장관선암(PDAC) 환자를 대상으로 한 다락소나십(daraxonrasib) 1상 임상시험](../trials/NCT07898813.md) | 1상 | 모집 예정 | - |
+| [수술 가능 췌관선암 환자를 대상으로 하는 daraxonrasib 1상 임상시험](../trials/NCT07898813.md) | 1상 | 모집 예정 | - |
 | [췌장암 환자에서 daraxonrasib(다락소나십) 유발 피부 독성에 대한 ivermectin(이베르멕틴) 병용 표준 예방…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
-| [진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용 투여 최초 인간 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
+| [진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용요법의 최초 인체 대상 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (6)
+## 타임라인 (7)
 
 <a id="pmid-42906097"></a>
 #### [이전 치료를 받은 전이성 췌장암에서의 daraxonrasib: 답변](https://pubmed.ncbi.nlm.nih.gov/42906097/)
@@ -61,6 +61,22 @@ search:
 - 상세한 연구 결과 및 수치는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906096/) · [DOI](https://doi.org/10.1056/NEJMc2611022) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906096)</small>
+
+---
+<a id="pmid-42956271"></a>
+#### [국소 진행성 또는 전이성 췌관선암에서 KRAS 표적 치료의 유효성 및 안전성: 최신 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42956271/)
+<small>Efficacy and Safety of KRAS-Targeted Therapy in Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma: An Updated Systematic Review and Meta-Analysis of Pooled Proportions</small>
+
+`논문` `메타분석` `신약·치료제` `치료 전반` `제약사·규제` · 2026-10-20 · PubMed · Am J Clin Oncol · 중요도 0.88
+
+국소 진행성 또는 전이성 췌관선암 환자를 대상으로 KRAS 표적 치료제의 치료 반응과 안전성을 평가한 체계적 문헌고찰 및 메타분석 연구입니다. 총 7건의 임상시험에서 1,008명의 환자 데이터가 분석에 포함되었습니다. 전체 객관적 반응률(ORR)은 38.9%, 질병 조절률(DCR)은 87.6%로 집계되었습니다. 특히 단독요법보다 병용요법에서, 그리고 이전 치료 차수가 적을수록 더 높은 반응률을 보였습니다.
+
+- KRAS 표적 치료의 전체 객관적 반응률(ORR)은 38.9%였으며 병용요법에서 60.5%, G12D 선택적 억제제에서 31.0%를 나타냈습니다.
+- 반응률은 이전 치료 경험이 없는 환자(72.5%)에서 3차 이상 치료 환자(32.5%)로 진행될수록 감소했습니다.
+- 3상 임상시험인 RASolute 302에서 daraxonrasib(다락소나십)은 화학요법 대비 전체 생존기간(OS) 중앙값을 13.2개월 대 6.6개월로 약 2배 연장했습니다.
+- 전체 환자군에서 3등급 이상의 치료 관련 부작용은 47.3%에서 발생했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956271/) · [DOI](https://doi.org/10.1097/COC.0000000000001387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956271)</small>
 
 ---
 <a id="pmid-42836673"></a>

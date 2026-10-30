@@ -23,8 +23,38 @@ search:
 |---|---|---|---|
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누출(pancreatic fistula) 예방에 미치는 영향 비교…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
-## 타임라인 (5)
+## 타임라인 (7)
 
+<a id="pmid-42950589"></a>
+#### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
+<small>Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-10-28 · PubMed · J Surg Res · 중요도 0.77
+
+본 연구는 2012년부터 2021년까지 수술을 받은 병기 I~III기 췌장선암(PDAC) 환자 28,458명의 미국 전국 암 데이터베이스 자료를 분석했습니다. 분석 결과 수술 전 선행보조항암화학요법(NAC)을 받은 환자의 비율이 2012년 28%에서 2021년 65%로 유의하게 증가했습니다. 이러한 증가세는 특히 1기와 2기 췌장암 환자에서 두드러졌습니다. 학술 연구 기관 치료 여부, 젊은 연령, 높은 T 병기 등이 NAC 치료를 받을 가능성을 높이는 주요 요인으로 나타났습니다.
+
+- 전체 환자 중 선행보조항암화학요법(NAC)을 받은 비율이 2012년 28%에서 2021년 65%로 크게 증가했습니다(P < 0.001).
+- 병기 1기와 2기 췌장암 환자에서 NAC 치료 비율이 유의하게 증가했습니다(P < 0.01).
+- 학술 연구 기관에서 치료받은 환자의 NAC 비율(51%)이 지역 종합 병원(37%)보다 유의하게 높았습니다(P < 0.001).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42950589/) · [DOI](https://doi.org/10.1016/j.jss.2026.09.037) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42950589)</small>
+
+---
+<a id="pmid-42953875"></a>
+#### [간 전이 재발에 대한 반복적 절제술 후 장기 생존을 달성한 가족성 선종성 용종증 환자의 췌장 선포세포암 1례](https://pubmed.ncbi.nlm.nih.gov/42953875/)
+<small>Pancreatic Acinar Cell Carcinoma in a Patient with Familial Adenomatous Polyposis Who Achieved Long-Term Survival after Repeated Resection of Liver Metastases: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` · 2026-10-28 · PubMed · Surg Case Rep · 중요도 0.64
+
+가족성 선종성 용종증(FAP)을 진단받은 22세 환자의 췌장 선포세포암(PACC) 치료 증례입니다. 환자는 원발암 수술 후 국소 재발과 반복적인 간 전이를 경험했으나 항암화학요법과 총 5회의 간 절제술을 받았습니다. 환자는 마지막 간 절제 수술 후 72개월 동안 재발 없이 장기 생존을 유지하고 있습니다.
+
+- 췌장 선포세포암(PACC) 수술 후 발생한 재발성 간 전이에 대해 총 5회의 간 절제술을 시행했습니다.
+- 마지막 수술 후 72개월 동안 재발이 없는 상태로 장기 생존을 달성했습니다.
+- 임상 경과 중 유전성 질환인 가족성 선종성 용종증(FAP) 원인 유전자(APC) 변이가 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42953875/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0605) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13716534/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42953875)</small>
+
+---
 <a id="pmid-42854074"></a>
 #### [췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42854074/)
 <small>Giant cystic lymphangioma in the pancreatic tail-splenic hilum region managed by en bloc resection: A case report</small>

@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Neoadjuvant therapy (NAT) has shown promising results in borderline and locally advanced pancreatic ductal adenocarcinoma (PDAC). Together with the concept of biological resectability, this has raised interest in extending NAT to anatomically resectable PDAC (AR-PDAC).\nMETHODS: An international online survey was conducted among surgeons, oncologists, radiotherapists, and gastroenterologists to assess current perspectives on NAT in AR-PDAC.\nRESULTS: A total of 391 responses from 61 countries were collected. Overall, 77% reported discussing all pancreatic cancer cases in multidisciplinary meetings. NAT was recommended only for selected AR-PDAC patients by 47% of respondents. The main selection criteria were elevated CA19-9 (74.6%), suspicious regional lymph nodes (63.4%), and suspected occult micro-metastases (55.6%). Disease progression during therapy, potentially precluding surgery, was a concern for 26.5%. However, 93.3% agreed that NAT can help assess tumor biology and avoid futile surgery in rapidly progressing disease. Regarding future practice, 53.6% anticipated NAT becoming standard care for all AR-PDAC, while 34.6% supported its use only in selected cases.\nCONCLUSION: NAT for AR-PDAC attracts interest among surveyed clinicians worldwide. Although currently reserved mainly for selected patients, its potential to refine patient selection, avoid futile surgery, and support more aggressive surgical strategies in responders may encourage evaluation and adoption.",
+ "authors": [
+  "D'Alterio C",
+  "Lai Q",
+  "Lanzone M",
+  "Valente R",
+  "da Correggio MF",
+  "Iannone I",
+  "Coppola A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42950772",
+ "importance": 0.77,
+ "key_points_ko": [
+  "61개국 391명의 의료진 중 47%는 절제 가능한 췌장암 환자 중 선별된 경우에만 수술 전 선행치료(NAT)를 권고했습니다.",
+  "선행치료를 고려하는 주요 기준은 높은 CA19-9 수치(74.6%), 국소 림프절 전이 의심(63.4%), 잠재적 미세전이 의심(55.6%)이었습니다.",
+  "의료진의 93.3%는 선행치료가 급속히 진행하는 환자에서 불필요한 수술을 방지하는 데 도움을 준다고 동의했습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1016/j.suronc.2026.102580",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42950772"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42950772/"
+ },
+ "summary_ko": "해부학적으로 절제 가능한 췌관선암(AR-PDAC) 환자에서 수술 전 선행치료(NAT)에 대한 전 세계 의료진의 견해를 조사한 국제 설문 연구입니다. 61개국 391명의 전문가가 참여했으며, 응답자의 47%는 선별된 특정 환자에게만 선행치료를 권고한다고 답했습니다. 선행치료 대상 선별 기준으로는 높은 CA19-9 수치(74.6%), 의심스러운 국소 림프절(63.4%), 잠재적 미세전이 의심(55.6%) 등이 꼽혔습니다. 의료진의 93.3%는 선행치료가 종양의 생물학적 특성을 파악하고 불필요한 수술을 피하는 데 도움이 된다고 응답했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "International survey on neoadjuvant treatments in anatomically resectable pancreatic adenocarcinoma (INSPIRA): a real-life snapshot",
+ "title_ko": "해부학적으로 절제 가능한 췌관선암에서 수술 전 선행치료에 관한 국제 설문조사(INSPIRA): 실제 임상 현황",
+ "trial": null,
+ "type": "paper"
+}

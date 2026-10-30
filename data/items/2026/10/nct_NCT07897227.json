@@ -18,11 +18,11 @@
  "id": "nct:NCT07897227",
  "importance": 0.87,
  "key_points_ko": [
-  "임상 단계는 1상/2상 임상시험입니다.",
-  "목표 환자 수는 총 260명입니다.",
-  "대상 질환은 진행성 고형암, 위암, 대장암, 췌장관선암(PDAC)입니다."
+  "SYS6062는 CEACAM5를 표적으로 하는 항체-약물 접합체 신약입니다.",
+  "진행성 고형암 환자 260명을 대상으로 안전성과 유효성을 평가합니다.",
+  "초록에 명시되지 않음."
  ],
- "last_updated": "2026-10-29",
+ "last_updated": "2026-10-30",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07897227"
  },
- "summary_ko": "본 연구는 CEACAM5 표적 항체-약물 접합체(antibody-conjugate drug)인 SYS6062를 진행성 고형암 환자에게 투여하는 최초인체(first-in-human) 임상 1/2상 시험입니다. 진행성 고형암, 위암(Gastric Cancer, GC), 대장암(Colorectal Cancer, CRC), 췌장관선암(Pancreatic Ductal Adenocarcinoma, PDAC) 환자를 대상으로 안전성과 내약성, 약동학(PK) 프로파일 및 예비 항종양 효과를 평가합니다. 다기관, 공개(open-label), 용량 증량(dose-escalation), 약동학 확장 및 코호트 확장 연구로 진행되며 목표 인원은 260명입니다.",
+ "summary_ko": "본 연구는 CEACAM5 표적 항체-약물 접합체(antibody-conjugate drug)인 SYS6062를 진행성 고형암 환자에게 투여하여 안전성, 내약성, 약동학 프로파일 및 예비 항종양 효과를 평가하는 다기관, 공개, 용량 증량 및 코호트 확장 제1/2상 임상시험입니다. 대상 질환에는 췌장관선암(Pancreatic Ductal Adenocarcinoma, PDAC) 등이 포함됩니다. 목표 인원은 260명이며, 연령은 18세에서 75세 사이입니다. 초록에 명시되지 않음.",
  "summary_source": "llm",
  "tags": [
   "SYS6062, CEACAM5, Advanced solid tumors"
@@ -66,7 +66,7 @@
     "phone": "86-0311-69085587"
    }
   ],
-  "eligibility_ko": "선정 기준:\n1. 18세에서 75세 사이의 성인 (동의서 서명일 기준).\n2. 표준 전신 치료 후 재발 또는 진행되었거나, 표준 치료에 불내성이거나, 가용한 표준 치료가 없는 조직학적 또는 세포학적으로 확진된 진행성/절제 불가능 또는 전이성 고형암.\n3. 고형암 반응평가기준(RECIST v1.1)에 따른 최소 1개의 측정 가능한 병변 (용량 증량 단계에서는 요구되지 않음).\n4. ECOG 수행능력 점수 0-1.\n5. 예상 생존 기간이 3개월 이상인 자.\n6. 등록 전 7일 이내에 프로토콜 요구 사항을 충족하는 주요 장기 기능(혈액학, 간 및 신장 기능, 응고 기능 등) 보유.\n7. 이전 치료로 인한 독성이 CTCAE 6.0 기준 Grade 1 이하 또는 기저 수준으로 회복된 자.\n8. 첫 투여 전 이전 항종양 치료에 대한 충분한 치료 휴약 기간(washout period) 충족.\n9. 이전 절제된 종양 검체를 제공할 수 있거나 신선한 종양 생검에 동의한 자.\n10. 가임 여성의 경우 등록 전 7일 이내 혈청 임신 검사 결과가 음성여야 하며, 연구 기간 및 마지막 투여 후 최소 7개월 동안 적절한 피임에 동의한 자.\n11. 이 임상시험을 완전히 이해하고 자발적으로 서면 동의서에 서명한 자.\n\n제외 기준:\n1. CEACAM5 표적 치료 또는 TOP1 ADC 제제로 이전 치료를 받은 경험이 있는 자.\n2. 증상성 울혈성 심부전(NYHA Class II-IV) 병력 또는 치료가 필요한 심각한 부정맥.\n3. 등록 전 6개월 이내에 심근경색 또는 불안정형 협심증 병력.\n4. 12유도 심전도(ECG)에서 Fredericia 공식으로 보정한 평균 QT 간격(QTcF)이 여성 > 470 msec 또는 남성 > 450 msec 초과.\n5. QT 간격을 연장하는 것으로 알려진 동반 약물의 중단이 불가능하거나 거부하는 자.\n6. 간질성 폐질환 병력 또는 현재 간질성 폐질환이 있거나 스크리닝 시 영상 검사에서 이 질환이 의심되는 자.\n7. 연구 치료 시작 전 3개월 이내의 폐색전증을 포함한 기저 폐 질환, 중증 천식, 중증 COPD, 제한성 폐질환 등의 병력이 있는 자.\n8. 스크리닝 당시 폐 침범이 기록되었거나 의심되는 자가면역, 결합조직 또는 염증성 질환.\n9. IV 항생제, 항바이러스제 또는 항진균제가 필요한 조절되지 않는 감염.\n10. 인간면역결핍바이러스(HIV) 감염 확인된 자.\n11. 현재 활동성 매독 감염자.\n12. 활동성 바이러스성 간염 환자.\n13. 수유부 또는 임신부.\n14. 척수 압박 또는 치료를 받지 않았거나, 증상이 있거나, 관련 증상을 조절하기 위해 코르티코스테로이드나 항경련제가 필요한 임상적으로 활동성인 뇌 전이가 있는 자.\n15. 등록 전 3년 이내에 여러 개의 원발성 악성 종양 병력이 있는 자 (적절히 절제된 비흑색종 피부암, 완치된 상피내암 등 제외).\n16. 연구자의 의견상 안전성 위험을 증가시키거나 임상시험 참여/평가를 방해할 수 있는 약물 남용 또는 기타 의학적 상태.\n17. 연구 약물 첫 투여 전 14일 이내에 강력한 CYP3A4 저해제나 유도제를 투여받았거나 임상 중 계속 사용할 예정인 자, 또는 OATP1B1/OATP1B3 저해제를 투여받는 자.\n18. 독성 표피 괴사용해, 스티븐스-존슨 증후군 병력.\n19. 연구 약물 성분 또는 부형제에 알려진 과민증.\n20. 연구자의 의견상 본 연구에 부적합한 기타 사유가 있는 자.",
+  "eligibility_ko": "선정 기준:\n- 18세에서 75세 사이의 연령\n- 표준 치료 후 재발/진행되었거나, 표준 치료에 불내성이거나, 가용한 표준 치료가 없는 진행성/절제 불능 또는 전이성 고형암\n- RECIST v1.1 기준 최소 1개의 측정 가능 병변 (용량 증량 단계 제외)\n- ECOG 수행능력 점수 0-1\n- 예상 생존 기간 3개월 이상\n\n제외 기준:\n- 이전 CEACAM5 표적 치료 또는 TOP1 ADC 제제 투료력\n- 증상성 울혈성 심부전 또는 치료가 필요한 심각한 부정맥 병력\n- 간질성 폐질환 병력 또는 현재 간질성 폐질환\n- 치료가 필요한 조절되지 않는 감염\n- 치료되지 않거나 증상이 있는 뇌전이",
   "eligibility_text": "Inclusion Criteria:\n\n1. Aged 18-75 years (inclusive) (based on the day of signing the informed consent form).\n2. Histologically or cytologically confirmed advanced/unresectable, or metastatic solid tumors that have relapsed or progressed on or after standard systemic treatment, or are intolerant to standard treatment, or no standard treatment is available.\n3. At least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) (not required in the dose escalation phase).\n4. ECOG score 0-1.\n5. Participant is expected to survive ≥ 3 months.\n6. The vital organ functions (hematology, liver and kidney function, coagulation function, etc.) meet the protocol requirements within 7 days prior to enrollment.\n7. Toxicity caused by any previous treatment has recovered to CTCAE 6.0 ≤ Grade 1 or baseline level.\n8. Adequate treatment washout period for prior antineoplastic therapy prior to the first dose.\n9. Able to provide a prior resected tumor sample or willing to undergo a fresh tumor biopsy.\n10. Female participants of childbearing potential have a negative serum pregnancy test within 7 days prior to enrollment. Male and female participants of childbearing potential must agree to use adequate contraception during the study and for at least 7 months after the last dose of study drug; During this period, women must not be breastfeeding, male participants must not freeze or donate sperm, and female participants must not donate or retrieve ova for their own use.\n11. Fully understand this clinical trial and voluntarily sign a written informed consent form.\n\nExclusion Criteria:\n\n1. Prior treatment with CEACAM5-targeted therapy or TOP1 ADC agents.\n2. History of symptomatic congestive heart failure (CHF) (New York Heart Association \\[NYHA\\] Class II-IV) or serious arrhythmia requiring treatment.\n3. History of myocardial infarction or unstable angina within 6 months prior to enrollment.\n4. Male and female mean QT interval corrected by Fredericia's formula (QTcF) prolongation to \\> 470 msec in females or \\> 450 msec in males based on triplicate 12-lead electrocardiograms (ECGs).\n5. Inability or unwillingness to discontinue concomitant medications known to prolong the QT interval.\n6. Has a history of interstitial lung disease (e.g., non-infectious interstitial pneumonitis, pulmonary fibrosis, and severe radiation pneumonitis) or current interstitial lung disease or is suspected to have this disease by imaging at screening.\n7. History of underlying pulmonary disease, including but not limited to pulmonary embolism within 3 months of starting study treatment, severe asthma, severe COPD, restrictive lung disease, and other clinically significant pulmonary compromise or requirement for supplemental oxygen.\n8. Any autoimmune, connective tissue or inflammatory disorders (eg, rheumatoid arthritis, Sjögren's syndrome, sarcoidosis, etc.) where there is documented, or a suspicion of pulmonary involvement at the time of screening.\n9. Uncontrolled infection requiring IV antibiotics, antivirals, or antifungals.\n10. Known human immunodeficiency virus (HIV) infection.\n11. Current active syphilis infection (i.e., positive for Treponema pallidum antibodies (RPR or TRUST) or requiring systemic treatment)\n12. Participants with active viral (any etiology) hepatitis are excluded.\n13. Breastfeeding women (women who are willing to temporarily interrupt breastfeeding will also be excluded), or those who are pregnant as confirmed by pregnancy test within 7 days prior to enrollment.\n14. Has spinal cord compression or clinically active brain metastases, defined as untreated, symptomatic, or requiring corticosteroids or anticonvulsants to control associated symptoms. Participants with asymptomatic CNS metastases who are radiologically and neurologically stable for at least 4 weeks following CNS-directed therapy and are on stable or tapering doses of corticosteroids equivalent to ≤10 mg/day prednisone are eligible.\n15. Has multiple primary malignancies within 3 years prior to enrollment, except adequately resected non-melanoma skin cancer (e.g., resected basal or squamous cell skin cancer), curatively treated in situ disease (e.g., carcinoma in situ of the cervix or breast), or other solid tumors curatively treated (e.g., superficial bladder cancer).\n16. Substance abuse or any other medical condition that, in the opinion of the investigator, may increase the safety risk of the participant or interfere with the participant's participation in the clinical study or the evaluation of the clinical study.\n17. Participants who have received strong CYP3A4 inhibitors or inducers within 14 days prior to the first dose of study drug or will continue to use such drugs during the trial, or participants who receive OATP1B1 or OATP1B3 inhibitors.\n18. History of toxic epidermal necrolysis, Steven Johnson syndrome.\n19. Known hypersensitivity to study drug substance or excipients.\n20. Participants who, in the opinion of the investigator, have other reasons that make them unsuitable for the study.",
   "enrollment": 260,
   "has_results": false,
@@ -81,15 +81,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "CEACAM5 표적 치료 또는 TOP1 ADC 치료 이력이 있는 경우",
-    "간질성 폐질환 병력 또는 현재 관련 질환이 있는 경우",
-    "활동성 뇌전이가 있는 경우",
-    "조절되지 않는 감염이나 활동성 간염이 있는 경우"
+    "CEACAM5 표적 치료 또는 TOP1 ADC 치료 경험",
+    "간질성 폐질환 병력",
+    "치료가 필요한 활동성 뇌전이",
+    "조절되지 않는 심장 질환"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "표준 치료 후 진행되었거나 가용한 표준 치료가 없는 진행성/절제 불가능 또는 전이성 고형암(췌장관선암 포함) 환자",
+   "notes_ko": "표준 치료에 실패하거나 대안이 없는 진행성 췌장관선암을 포함한 고형암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

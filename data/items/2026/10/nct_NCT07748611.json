@@ -1,0 +1,131 @@
+{
+ "abstract": "This phase II trial tests the impact of using SMAD4-mutant status to personalize chemotherapy in treating patients with pancreatic ductal adenocarcinoma (PDAC) that can be removed by surgery (resectable) or that may be between resectable and unresectable (borderline resectable) before undergoing surgery (neoadjuvant). PDAC is one of the most aggressive and fastest growing tumors. SMAD4, a tumor suppressor gene, acts like a brake on cell growth and helps to prevent tumor cells from growing. However, losing it makes the tumor more aggressive and often resistant to standard of care (SOC) treatments regimens, such as gemcitabine with nab-paclitaxel and fluorouracil, leucovorin, irinotecan, and oxaliplatin (FOLFIRINOX). Gemcitabine is a chemotherapy drug that blocks the cells from making deoxyribonucleic (DNA) and may kill tumor cells. Paclitaxel is in a class of medications called antimicrotubule agents. It stops tumor cells from growing and dividing and may kill them. Nab-paclitaxel is an albumin-stabilized nanoparticle formulation of paclitaxel which may have fewer side effects and work better than other forms of paclitaxel. Fluorouracil, a type of antimetabolite, stops cells from making DNA and it may kill tumor cells. Leucovorin is a form of folic acid. It is a type of chemoprotective agent and a type of chemosensitizing agent. Irinotecan is in a class of antineoplastic medications called topoisomerase I inhibitors. It blocks a certain enzyme needed for cell division and DNA repair and may kill tumor cells. Oxaliplatin is in a class of medications called platinum-containing antineoplastic agents. It damages the cell's DNA and may kill tumor cells. Instead of a one-sized fits all treatment approach with SOC therapies, matching therapy based on SMAD4 mutation status may use this specific genetic weakness against the tumor. This approach to neoadjuvant therapy may dramatically alter the path of treatment and improve outcomes, including complete resection rates, in patients with resectable or borderline resectable PDAC.\n\nPRIMARY OBJECTIVE:\n\nI. To determine the R0/R1 surgical resection rate among patients with SMAD4-mutant pancreatic cancer treated with gemcitabine/nab-paclitaxel (Cohort A).\n\nSECONDARY OBJECTIVES:\n\nI. To estimate the trial participation rate among patients approached for enrollment, defined as the proportion of patients who consent and enroll among those approached, with a target participation rate of ≥ 70%, and to monitor this rate continuously during accrual.\n\nII. To estimate the R0/R1 surgical resection rate among SMAD4 wild-type patients treated with physician choice chemotherapy (Cohort B).\n\nIII. To determine pathologic response rates, among the subset of patients who reach surgical resection.\n\nIV. To determine the progression free survival (PFS). V. To determine the overall survival (OS).\n\nEXPLORATORY OBJECTIVES:\n\nI. To estimate the proportion of R0 resections among patients with SMAD4-mutant pancreatic cancer treated with gemcitabine/nab-paclitaxel (Cohort A) who undergo surgical resection (R0/R1).\n\nII. To estimate the proportion of R0 resections among patients with SMAD4 wild-type patients treated with physician choice chemotherapy (Cohort B) who undergo surgical resection (R0/R1).\n\nIII. To compare R0/R1 resection rates between Cohort A (SMAD4-mutant, gemcitabine/nab-paclitaxel) and Cohort B (SMAD4 wild-type, physician choice) in a descriptive, exploratory manner; the study is not powered for formal non-inferiority or superiority testing of this comparison.\n\nIV. To determine the preoperative/neoadjuvant ca19-9 dynamics in both cohorts. V. To determine the preoperative/neoadjuvant circulating tumor DNA (ctDNA) dynamics in both cohorts.\n\nVI. To assess reason for failure to reach surgical resection, categorized by clinical deterioration, patient withdrawal/refusal of surgery, metastatic progression, or local disease progression precluding surgery.\n\nOUTLINE: Patients with SMAD4 alterations are assigned to Cohort A and patients without SMAD4 mutations are assigned to Cohort B.\n\nCOHORT A: Patients receive gemcitabine and nab-paclitaxel with or without radiation therapy per SOC. Treatment continues for 8 weeks in the absence of disease progression or unacceptable toxicity. After 8 week restaging, patients may continue to receive treatment for up to 16 or 24 weeks at the discretion of the multidisciplinary tumor board. Starting 21 days after last dose of chemotherapy, patients undergo surgical resection. Additionally, patients undergo blood sample collection and computed tomography (CT) or magnetic resonance imaging (MRI) as clinically indicated throughout the study.\n\nCOHORT B: Patients receive either physicians choice of either fluorouracil, leucovorin, irinotecan, and oxaliplatin or gemcitabine and nab-paclitaxel with or without radiation therapy per SOC. Treatment continues for 8 weeks in the absence of disease progression or unacceptable toxicity. After 8 week restaging, patients may continue to receive treatment for up to 16 or 24 weeks at the discretion of the multidisciplinary tumor board. Starting 21 days after last dose of chemotherapy, patients undergo surgical resection. Additionally, patients undergo blood sample collection and CT or MRI as clinically indicated throughout the study.\n\nAfter completion of study treatment, patients are followed up at 30 days from surgical resection then every 3 months for up to 2 years from study enrollment.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07748611",
+ "importance": 0.9,
+ "key_points_ko": [
+  "수술 가능 또는 경계성 절제 가능 췌장암 환자 125명을 대상으로 SMAD4 유전자 변이 유무에 따라 선행 항암화학요법을 맞춤 제공하는 2상 연구입니다.",
+  "SMAD4 변이 환자군은 gemcitabine과 nab-paclitaxel을 투여받고, 정상형 환자군은 의료진 선택에 따라 FOLFIRINOX 또는 gemcitabine/nab-paclitaxel을 투여받습니다.",
+  "선행 항암요법 후 수술적 완전 절제율(R0/R1 절제율), 병리학적 반응률, 무진행 생존기간(PFS) 및 전체 생존기간(OS)을 평가합니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07748611"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-08-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Northwestern University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07748611"
+ },
+ "summary_ko": "이 2상 임상시험은 수술 전 선행 치료(Neoadjuvant)가 필요한 수술 가능 및 경계성 절제 가능 췌관선암(PDAC) 환자를 대상으로, 종양 억제 유전자인 SMAD4 변이 상태에 따라 최적의 항암화학요법을 맞춤 배정하는 효과를 평가합니다. 차세대 염기서열 분석(NGS)을 통해 SMAD4 변이가 확인된 환자(코호트 A)는 gemcitabine(젬시타빈)과 nab-paclitaxel(납-파클리탁셀) 요법을 투여받으며, 정상형(wild-type)인 환자(코호트 B)는 의료진 재량으로 FOLFIRINOX 또는 gemcitabine/nab-paclitaxel 요법을 투여받습니다. 환자들은 수술 전 선행 항암 치료를 최소 8주에서 최대 24주까지 진행한 후 수술을 시행받게 됩니다. 연구의 주요 목표는 SMAD4 변이 환자군에서 완전 절제(R0/R1)율을 확인하는 것입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "SMAD4 Tailored Neoadjuvant Therapy for the Treatment of Resectable and Borderline Resectable Pancreatic Ductal Adenocarcinoma, SMART-PANC Trial",
+ "title_ko": "수술 가능 및 경계성 절제 가능 췌관선암 환자를 위한 SMAD4 변이 맞춤형 선행 화학요법 2상 임상시험 (SMART-PANC)",
+ "trial": {
+  "conditions": [
+   "Borderline Resectable Pancreatic Ductal Adenocarcinoma",
+   "Resectable Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "cancer@northwestern.edu",
+    "name": "Study Coordinator",
+    "phone": "3126951301"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n* 조직학적으로 확인된 수술 가능(Resectable) 또는 경계성 절제 가능(Borderline Resectable) 췌관선암 환자 (원격 전이 없음)\n* 치료 전 종양 조직 검체에 대한 차세대 염기서열 분석(NGS)을 완료하여 SMAD4 변이형 또는 정상형 여부가 확인된 환자\n* 이전에 췌장암으로 전신 치료를 받은 적이 없는 환자(치료 경험 없음)\n* FOLFIRINOX 또는 gemcitabine/nab-paclitaxel 요법을 투여하기에 적합한 신체 및 장기 기능을 보유한 환자\n* 만 18세 이상이며 ECOG 수행능력 평가 점수가 0 또는 1점인 환자\n\n제외 기준:\n* 고빈도 현미부수체 불안정성(MSI-H), 불일치 복구 결함(MMR-d), 또는 상동 재조합 결핍(HRD) 변이가 확인된 환자\n* 조절되지 않는 심장 질환(울혈성 심부전, 불안정 협심증, 부정맥 등) 또는 조절되지 않는 고혈압이 있는 환자\n* 치료가 필요한 활동성 감염이 있는 환자\n* 임상시험 평가에 영향을 줄 수 있는 다른 암의 병력이 있는 환자\n* 임신 중이거나 수유 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically confirmed pancreas ductal adenocarcinoma\n\n  * Most recent cross-sectional imaging of the chest, abdomen and pelvis will be used to rule out distant metastases (this will have been completed within standard of care timelines which will typically fall within 90 days of registration)\n* Patients must have undergone next generation sequencing (NGS) testing on the pre-treatment tumor tissue and must have either SMAD4 mutant or SMAD4 wild-type mutation identified before consenting for this study\n\n  * Note: Before consenting to this study, standard of care NGS procedure will be performed on pre-treatment tumor biopsies that are routinely collected through endoscopic biopsy specimens (in-house Oncomine Precision NGS). The results will be documented for this study from clinic notes\n* Patients must have resectable/borderline-resectable disease\n\n  * Note: National Comprehensive Cancer Network (NCCN) definitions of resectability will be used\n* Patients must be treatment-naïve and clinically fit and eligible for either FOLFIRINOX or gemcitabine/nab-paclitaxel chemotherapy regimens (per treating physician's determination)\n* Patients must be ≥ 18 years of age\n* Patients must exhibit an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Patients must have adequate organ and bone marrow function as determined by the treating physician to be considered to be clinically fit for the physician-determined chemotherapy regimen\n* Patients must agree to use adequate contraception: (e.g. hormonal or barrier method of birth control for a patient of child-bearing potential (POCBP), prior to study entry, and for the duration of study participation. Should a female patient, or a female partner of a patient become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician and study doctor immediately. Male patients with a female partner(s) of childbearing potential must agree to use highly effective contraceptive measures throughout the study starting with the screening visit through the time period indicated for standard of care drugs , after the last dose of study treatment is received. Males with pregnant partners must agree to use a condom; no additional method of contraception is required for the pregnant partner. Note: A POCBP is any patient (regardless of gender, sexual orientation, having undergone a tubal ligation, or remaining celibate by choice) with an egg-producing reproductive tract who meets the following criteria:\n\n  * Has not undergone a hysterectomy or bilateral oophorectomy\n  * Has had menses at any time in the preceding 12 consecutive months (and therefore has not been naturally postmenopausal for \\> 12 months)\n* POCBP must have a negative pregnancy test prior to registration on study\n* Patients must have the ability to understand and the willingness to sign a written informed consent document and comply with the study requirements\n\nExclusion Criteria:\n\n* Patients with the presence of any of the following genetic or molecular abnormalities:\n\n  * Mismatch repair (MMR)-deficiency/Lynch syndrome\n  * High-frequency microsatellite instability (MSI-H)\n  * Homologous recombination deficiency (HRD)\n* Patients who are currently participating in another study and receiving a study drug\n* Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities \\> grade 1) with the exception of alopecia, neuropathy and other non-significant adverse events per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 6.0\n* Patients with a prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the safety or efficacy assessment of the investigational regimen (per treating physician's determination)\n* Patients who are pregnant or nursing\n* Patients who have an uncontrolled intercurrent illness (as determined by treating physician), including, but not limited to any of the following:\n\n  * Hypertension that is not controlled on medication\n  * Active infection requiring treatment\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n* Patient with presence of any concurrent medical or psychiatric condition/social situations which would make them inappropriate candidates for entry into this study or that would limit compliance with study requirements, or would compromise the patient's safety or study endpoints, in the treating investigator's judgment",
+  "enrollment": 125,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Computed Tomography",
+   "Electronic Health Record Review",
+   "Fluorouracil",
+   "Gemcitabine",
+   "Irinotecan",
+   "Leucovorin",
+   "Magnetic Resonance Imaging",
+   "Nab-paclitaxel",
+   "Oxaliplatin",
+   "Radiation Therapy",
+   "Surgical Procedure"
+  ],
+  "last_update_posted": "2026-10-29",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [
+    "HRD",
+    "MSI_H"
+   ],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "원격 전이가 있는 환자",
+    "MSI-H, MMR-d 또는 HRD 유전자 변이를 보유한 환자",
+    "조절되지 않는 심장 질환(울혈성 심부전, 불안정 협심증, 부정맥) 또는 활동성 감염",
+    "평가에 영향을 줄 수 있는 다른 암 병력 보유 환자"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "치료 이력이 없는 수술 가능 또는 경계성 절제 가능 췌장암 환자 중 SMAD4 유전자 검사를 완료한 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07748611",
+  "phase": "PHASE2",
+  "primary_completion_date": "2030-02-03",
+  "sex": "ALL",
+  "sponsor": "Northwestern University",
+  "start_date": "2026-10-26",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most devastating malignancies with high lethality despite the current therapeutic interventions. Circular RNAs (circRNAs) play important roles in many biological processes and disease development. However, the underlying mechanism remains largely unexplored. To identify novel druggable targets, we aimed to elucidate the mechanisms contributing to the critical roles of circRNAs in PDAC. We performed a genome-wide and multi-omics investigation on the circFOXK2-DNA interaction in PDAC progression. Single-cell ATAC-sequencing analysis using the publicly available dataset revealed the importance of the circFOXK2-DNA interaction network in intratumoral heterogeneity. Through circRNA-DNA interaction by complementary base pairing, circFOXK2 recognizes targets at different genomic locations: enhancer, promoter, and intragenic region. CircFOXK2 forms a docking pocket by intramolecular base pairing for the N-terminal RNA-recognition motif of PPIE, disrupting the PPIE-MLL1 interaction. This removes the PPIE inhibitory effects on MLL1 for gene-activating H3K4 methylation. Specifically, circFOXK2 promotes TMSB15B and BCAS1 expressions by enhancing H3K4me3 at the promoter. At the gene body, circFOXK2 facilitates transcription elongation of TRIO and LAMA4 by intragenic H3K4me3. At the distal intergenic enhancer, circFOXK2 promotes H3K4me1 of CYP26A1 and TCP11 for gene activation. These results highlight the importance and therapeutic potential of circRNA-DNA interaction in gene regulation.",
+ "authors": [
+  "Wong CH",
+  "Peña-Paladines JJ",
+  "Leung SYV",
+  "To KF",
+  "Chok KSH",
+  "Chen Y"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42953949",
+ "importance": 0.61,
+ "key_points_ko": [
+  "circFOXK2는 DNA의 프로모터, 증폭자, 유전자 내부 영역에 상보적 염기쌍 결합으로 직접 작용합니다.",
+  "circFOXK2는 PPIE와 MLL1의 결합을 방해하여 MLL1에 의한 H3K4 메틸화 및 유전자 활성화를 촉진합니다.",
+  "이 기전을 통해 TMSB15B, BCAS1, TRIO, LAMA4, CYP26A1, TCP11 등의 유전자 발현이 증가합니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1002/advs.77107",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42953949"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42953949/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)의 진행에서 환상 RNA(circRNA)인 circFOXK2의 역할과 작용 기전을 다중옴믹스 분석으로 규명했습니다. 연구진은 circFOXK2가 염기쌍 결합을 통해 DNA의 프로모터, 증폭자, 유전자 내부 영역 등 다양한 위치에 결합하는 것을 확인했습니다. circFOXK2는 PPIE와 MLL1 단백질 간의 상호작용을 방해함으로써 MLL1의 억제를 해제하고 히스톤 H3K4 메틸화를 촉진합니다. 결과적으로 TMSB15B, BCAS1, TRIO, LAMA4 등 종양 진행 관련 유전자들의 발현을 증가시킵니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Genome-Wide and Multi-Omics Analysis Identified DNA-Interacting Circular RNA circFOXK2 as MLL1 Regulator for Histone H3K4 Methylation in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "게놈 전반 및 다중옴믹스 분석을 통한 췌장관선암종에서 히스톤 H3K4 메틸화의 MLL1 조절자로서 DNA 상호작용 환상 RNA circFOXK2 규명",
+ "trial": null,
+ "type": "paper"
+}

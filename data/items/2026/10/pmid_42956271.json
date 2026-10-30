@@ -1,0 +1,64 @@
+{
+ "abstract": "OBJECTIVES: Kirsten rat sarcoma viral oncogene homolog mutations drive over 90% of pancreatic ductal adenocarcinoma (PDAC). Direct RAS inhibitors have shown early activity, but the only prior meta-analysis pooled early-phase monotherapy cohorts and predates the first phase 3 randomized trial and newer combination regimens. We estimated the objective response rate (ORR), disease control rate (DCR), and safety of Kirsten rat sarcoma viral oncogene homolog-targeted therapy in locally advanced or metastatic PDAC.\nMETHODS: PubMed/MEDLINE, Embase, and SCOPUS were searched from inception through July 2026. Single-arm proportions were pooled using a random-effects generalized linear mixed model; RASolute 302 was analyzed separately. Prespecified subgroups stratified ORR by mechanistic class and line of therapy.\nRESULTS: A total of 1008 patients from 16 cohorts across 7 trials were included; 15 single-arm cohorts (507 patients) contributed to pooled estimates. Pooled ORR was 38.9% (95% CI: 29.9%-48.8%; I2=75.7%) and varied significantly by mechanism (P<0.0001): combination regimens showed the highest activity (60.5%), followed by G12D-selective (31.0%), pan-RAS(ON) (26.6%), and G12C-selective monotherapy (25.4%). Response declined with successive lines of therapy (P=0.0102), from 72.5% in treatment-naive patients to 32.5% after ≥3 prior lines. Pooled DCR was 87.6% (95% CI: 82.8%-91.2%). Grade ≥3 treatment-related adverse events occurred in 47.3%. In RASolute 302, daraxonrasib nearly doubled median overall survival versus chemotherapy (13.2 vs. 6.6 mo).\nCONCLUSIONS: Kirsten rat sarcoma viral oncogene homolog-directed therapy produces meaningful antitumor activity in previously treated PDAC, greatest for combination regimens and earlier treatment; the evidence remains heterogeneous and largely early-phase, and randomized trials are needed before routine adoption.",
+ "authors": [
+  "Fatima F",
+  "Javed MA",
+  "Mirza A",
+  "Ahmad S",
+  "Shahzad Z",
+  "Murad A"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "industry"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "meta",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42956271",
+ "importance": 0.88,
+ "key_points_ko": [
+  "KRAS 표적 치료의 전체 객관적 반응률(ORR)은 38.9%였으며 병용요법에서 60.5%, G12D 선택적 억제제에서 31.0%를 나타냈습니다.",
+  "반응률은 이전 치료 경험이 없는 환자(72.5%)에서 3차 이상 치료 환자(32.5%)로 진행될수록 감소했습니다.",
+  "3상 임상시험인 RASolute 302에서 daraxonrasib(다락소나십)은 화학요법 대비 전체 생존기간(OS) 중앙값을 13.2개월 대 6.6개월로 약 2배 연장했습니다.",
+  "전체 환자군에서 3등급 이상의 치료 관련 부작용은 47.3%에서 발생했습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1097/COC.0000000000001387",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42956271"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am J Clin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42956271/"
+ },
+ "summary_ko": "국소 진행성 또는 전이성 췌관선암 환자를 대상으로 KRAS 표적 치료제의 치료 반응과 안전성을 평가한 체계적 문헌고찰 및 메타분석 연구입니다. 총 7건의 임상시험에서 1,008명의 환자 데이터가 분석에 포함되었습니다. 전체 객관적 반응률(ORR)은 38.9%, 질병 조절률(DCR)은 87.6%로 집계되었습니다. 특히 단독요법보다 병용요법에서, 그리고 이전 치료 차수가 적을수록 더 높은 반응률을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Efficacy and Safety of KRAS-Targeted Therapy in Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma: An Updated Systematic Review and Meta-Analysis of Pooled Proportions",
+ "title_ko": "국소 진행성 또는 전이성 췌관선암에서 KRAS 표적 치료의 유효성 및 안전성: 최신 체계적 문헌고찰 및 메타분석",
+ "trial": null,
+ "type": "paper"
+}

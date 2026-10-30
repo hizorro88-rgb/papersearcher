@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Treatment of metastatic pancreatic ductal adenocarcinoma (mPDAC) relies on chemotherapy. Although NALIRIFOX (Nal-IRI, oxaliplatin, 5-fluorouracil [5-FU], leucovorin) improves survival, cumulative toxicity may limit duration, and maintenance strategies remain unexplored. Intratumoral microbiota, particularly Gammaproteobacteria expressing cytidine deaminase, may inactivate gemcitabine and contribute to resistance, a process potentially reversible with antibiotics. We aim to assess maintenance 5-FU after NALIRIFOX and microbiota modulation with fluoroquinolones to enhance gemcitabine sensitivity.\nMETHODS: PANORAMIX is a multicenter, proof-of-concept, non-comparative phase II trial conducted across 18 French centers with two sequential randomizations. After 8 cycles of NALIRIFOX, patients with mPDAC are randomized (2:1) to either maintenance 5-FU or continuation of NALIRIFOX (Step 1). In Step 2, patients are randomized (1:1) to ciprofloxacin or placebo combined with gemcitabine-based chemotherapy (± paclitaxel). A total of 108 and 92 patients will be enrolled in Steps 1 and 2, respectively. Main inclusion criteria include age >18 years, confirmed mPDAC, ECOG performance status 0-1, and adequate organ function. Primary endpoints are 6-month progression-free survival (Step 1) and 6-month overall survival (Step 2). Secondary endpoints include toxicity and quality of life.\nCONCLUSIONS: This two-step trial will address key therapeutic questions in mPDAC and support translational research.",
+ "authors": [
+  "Delaye M",
+  "Hilmi M",
+  "Gougis P",
+  "Engremont C",
+  "Lavole J",
+  "Vaflard P",
+  "Bouché O",
+  "Bachet JB"
+ ],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42951709",
+ "importance": 0.86,
+ "key_points_ko": [
+  "NALIRIFOX 8주기 후 5-FU 유지요법 또는 NALIRIFOX 지속군으로 2:1 무작위 배정하여 6개월 무진행 생존기간(PFS)을 평가합니다.",
+  "2차 치료에서 젬시타빈 기반 항암요법에 ciprofloxacin 또는 위약을 1:1로 병용 투여하여 6개월 전체 생존기간(OS)을 평가합니다.",
+  "1단계에는 108명, 2단계에는 92명의 전이성 췌장암 환자가 등록될 예정입니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1016/j.dld.2026.10.006",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42951709"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dig Liver Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951709/"
+ },
+ "summary_ko": "전이성 췌관선암(mPDAC) 환자를 대상으로 1차 NALIRIFOX 요법 후 독성을 줄이기 위한 유지요법과 2차 치료 시 항생제를 통한 효과 증대를 검증하는 임상 2상 프로토콜입니다. 환자들은 NALIRIFOX 8주기 투여 후 5-FU(플루오로우라실) 유지요법군과 NALIRIFOX 지속군으로 배정됩니다. 질병 진행 후 2차 젬시타빈 치료 단계에서는 종양 내 세균의 약물 비활성화를 억제하기 위해 ciprofloxacin(시프로플록사신) 또는 위약을 병용합니다. 프랑스 18개 기관에서 1단계 108명, 2단계 92명의 환자를 대상으로 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Optimizing first-line NALIRIFOX and exploring the role of the microbiota in second-line pancreatic cancer treatment: the PRODIGE 105-GERCOR 116 PANORAMIX trial",
+ "title_ko": "1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험",
+ "trial": null,
+ "type": "paper"
+}

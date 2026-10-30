@@ -20,11 +20,12 @@
  "id": "nct:NCT06943755",
  "importance": 0.96,
  "key_points_ko": [
-  "이전에 치료받은 국소 진행성 또는 전이성 췌장 및 췌장 외 신경내분비종양 환자 440명을 대상으로 합니다.",
-  "신약 후보물질 zanzalintinib(잔잘린티닙)과 기존 치료제 everolimus(에베롤리무스)의 효능을 비교 평가합니다.",
-  "참여 전 12개월 이내에 영상검사에서 질병 진행이 입증된 환자만 참여할 수 있습니다."
+  "대상 질환은 췌장 및 췌장 외 기원의 잘 분화된 1, 2, 3등급 신경내분비종양(NET)입니다.",
+  "대조 약물인 everolimus와 비교하여 zanzalintinib의 효과를 평가합니다.",
+  "목표 연구 대상자 수는 총 440명입니다.",
+  "국내 5개 기관에서 환자를 모집하고 있습니다."
  ],
- "last_updated": "2026-10-29",
+ "last_updated": "2026-10-30",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06943755"
  },
- "summary_ko": "이 연구는 이전에 치료받은 적이 있는 절제 불가능한 국소 진행성 또는 전이성 신경내분비종양(NET) 환자를 대상으로 진행됩니다. 췌장 신경내분비종양(pNET) 및 췌장 외 신경내분비종양 환자에게 zanzalintinib(잔잘린티닙)과 everolimus(에베롤리무스)의 효과를 비교 평가합니다. 이전 치료 후 영상의학적으로 질병 진행이 확인된 환자를 대상으로 2/3상 임상시험으로 진행됩니다.",
+ "summary_ko": "이 임상시험은 이전에 치료를 받은 적이 있는 수술 불가능한 국소 진행성 또는 전이성 신경내분비종양(NET) 환자를 대상으로 zanzalintinib과 everolimus의 효과를 비교합니다. 췌장 기원 및 췌장 외 기원의 신경내분비종양 환자 440명을 대상으로 합니다. 연구는 zanzalintinib의 유효성을 평가하는 것을 주된 목적으로 합니다. 국내 5개 기관이 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "Metastatic Cancer",
@@ -56,7 +57,7 @@
   "신경내분비종양"
  ],
  "title": "Zanzalintinib Versus Everolimus in Participants With Locally Advanced or Metastatic Neuroendocrine Tumors",
- "title_ko": "국소 진행성 또는 전이성 신경내분비종양 환자 대상 잔잘린티닙(Zanzalintinib) 대 에베롤리무스(Everolimus) 비교 임상시험",
+ "title_ko": "국소 진행성 또는 전이성 신경내분비종양 환자를 대상으로 zanzalintinib과 everolimus를 비교하는 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Neuroendocrine Tumor (pNET)",
@@ -74,7 +75,7 @@
     "phone": "650-837-7400"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 확진된 절제 불가능한 국소 진행성 또는 전이성 신경내분비종양(1, 2, 3등급) 환자 (췌장 원발 또는 췌장 외 원발)\n* 무작위 배정 전 12개월 이내에 RECIST 1.1 기준에 따른 영상의학적 질병 진행이 입증된 환자\n* RECIST 1.1 기준에 따른 측정 가능 병변이 있는 환자\n* 보관된 종양 조직 또는 생검 조직 제출이 가능한 환자\n\n제외 기준:\n* 신경내분비암종(소세포폐암 포함), 갑상선 수질암, 크롬친화세포종, 방절종, 메르켈세포암, 혼합 신경내분비-비신경내분비 신생물(MiNEN) 환자\n* 이전 VEGFR 표적 타이로신 키나아제 억제제(TKI) 또는 mTOR 억제제 치료 경험이 있는 환자\n* 무작위 배정 전 4주 이내에 전신 화학요법, 간 표적 치료 또는 기타 절제술 치료를 받은 환자\n* 무작위 배정 전 6주 이내에 전신 방사성핵종 치료를 받은 환자\n* 무작위 배정 전 2주 이내(뼈 전이) 또는 4주 이내(기타)에 방사선 치료를 받은 환자",
+  "eligibility_ko": "선정 기준:\n- 췌장 또는 췌장 외 기원의 조직학적으로 확진된 국소 진행성/수술 불가 또는 전이성, 잘 분화된 1, 2, 3등급 신경내분비종양(NET)\n- 신경내분비종양의 발생 부위와 기능적 상태에 따라 허용된 이전 치료 차수\n- 무작위 배정 전 12개월 이내에 영상 검사(CT 또는 MRI)를 통해 RECIST 1.1 기준으로 확인된 방사선학적 질병 진행\n- 연구자가 판단한 RECIST 1.1 기준의 측정 가능한 병변\n- 가능하지 않은 경우 신선 생검을 제출할 수 있는 조직 검체 확보\n\n제외 기준:\n- 조직학적으로 확진된 신경내분비암종, 수질성 갑상선암, 갈색세포종, 부신경절종, 메르켈세포암, 혼합 신경내분비-비신경내분비 신생물(MiNEN)\n- 혈관내피성장인자 수용체(VEGFR) 표적 티로신 키나아제 억제제 또는 mTOR 억제제 투여 이력\n- 무작위 배정 전 4주 이내의 전신 항암화학요법 및 간 유도 또는 기타 절제술\n- 무작위 배정 전 6주 이내의 전신 방사성 핵종 치료\n- 무작위 배정 전 2주 이내의 뼈 전이 방사선 치료 또는 4주 이내의 기타 방사선 치료",
   "eligibility_text": "Key Inclusion Criteria:\n\n* Histologically confirmed, locally advanced/unresectable or metastatic, well-differentiated Grade 1, 2, or 3 NETs of pancreatic origin or extra-pancreatic origin.\n* Allowed prior lines of therapy, based on the site of NET and functional status.\n* Documented radiographic disease progression per RECIST 1.1, as assessed by the Investigator based on imaging assessments (computed tomography \\[CT\\] or magnetic resonance imaging \\[MRI\\]) within 12 months before randomization.\n* Measurable disease according to RECIST 1.1 as determined by the Investigator.\n* Archival tumor tissue is required, if available. If archival tumor tissue is not available, a fresh biopsy may be submitted if it can be safely and feasibly obtained. Every attempt should be made to provide tumor tissue.\n\nKey Exclusion Criteria:\n\n* Histologically confirmed neuroendocrine carcinomas (including small cell lung cancer), medullary thyroid cancer, pheochromocytoma, paraganglioma, Merkel cell carcinoma, and mixed neuroendocrine non-neuroendocrine neoplasm (MiNEN).\n* Prior treatment with a vascular endothelial growth factor receptor (VEGFR) -targeting tyrosine kinase inhibitor or a mammalian target of rapamycin (mTOR) inhibitor.\n* Systemic chemotherapy and any liver-directed or other ablative therapy within 4 weeks before randomization.\n* Systemic radionuclide therapy within 6 weeks before randomization.\n* Radiation therapy for bone metastases within 2 weeks, any other radiation therapy, except as indicated above, within 4 weeks before randomization.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
   "enrollment": 440,
   "has_results": false,
@@ -139,15 +140,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "이전 VEGFR 표적 치료제 또는 mTOR 억제제(에베롤리무스 등) 치료 경험이 있는 경우",
-    "신경내분비암종 등 대상 외 종양 조직형을 가진 경우",
-    "최근 4주 이내에 전신 화학요법이나 간 치료를 받은 경우",
-    "최근 6주 이내에 전신 방사성핵종 치료를 받은 경우"
+    "신경내분비암종 등 다른 특정 종양 진단 이력",
+    "VEGFR 억제제 또는 mTOR 억제제 치료 이력",
+    "최근 4주 이내 전신 항암화학요법 또는 간 유도 치료 이력",
+    "최근 방사성 핵종 치료 또는 방사선 치료 이력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "이전 치료 경험이 있고 진행된 국소 진행성 또는 전이성 췌장 신경내분비종양(pNET) 환자",
+   "min_prior_lines": null,
+   "notes_ko": "이전 치료력이 있는 국소 진행성 또는 전이성 췌장 신경내분비종양(pNET) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

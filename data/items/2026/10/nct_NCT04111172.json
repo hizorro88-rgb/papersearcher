@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT04111172",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 100명이며, 단계는 제2상(PHASE2) 임상시험입니다.",
+  "백신은 세 가지 용량 수준(10¹¹, 10¹², 5 × 10¹² virus particles)으로 투여됩니다.",
+  "수술 후 재발 위험이 높고 영상학적 병터가 없는 환자들을 대상으로 안전성과 세포성 면역 반응을 평가합니다."
+ ],
  "last_updated": "2026-10-29",
  "links": {
   "doi": null,
@@ -43,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04111172"
  },
- "summary_ko": "The goal of this clinical trial is to learn whether the Ad5.F35-hGCC-PADRE vaccine is safe and can stimulate an immune response against gastrointestinal (GI) cancers in patients with pancreatic, colorectal, esophageal, gastric, or small bowel adenocarcinomas who have completed surgical resection and standard adjuvant therapy. An additional goal is to evaluate whether the vaccine may help eliminate minimal residual disease (MRD) in ctDNA-positive colon cancer patients.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 수술 및 표준 보조치료를 마친 위장관 선암 환자들을 대상으로 Ad5.F35-hGCC-PADRE 백신의 안전성과 면역원성을 평가하기 위해 진행됩니다. 대상 질환에는 췌장관선암(Pancreatic Ductal Adenocarcinoma) 등이 포함됩니다. 연구의 주요 목적은 백신의 안전성, 내인성 T세포 면역 반응 유도 여부, 그리고 대장암 환자에서의 미세잔존질환(MRD) 소실 효과를 확인하는 것입니다. 환자들은 근육 주사(intramuscular injection)로 백신을 투여받으며 용량 증량 및 확장 코호트로 나누어 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "circulating tumor DNA",
   "Guanylyl cyclase C",
@@ -53,7 +57,7 @@
   "ctDNA"
  ],
  "title": "A Vaccine (Ad5.F35-hGCC-PADRE) for the Treatment of Gastrointestinal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "위장관 선암 환자를 위한 백신(Ad5.F35-hGCC-PADRE) 치료 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -97,7 +101,7 @@
    "Minimal Residual Disease"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 남성 또는 여성\n- 동부협력종양학그룹(ECOG) 수행능력 상태 0 또는 1\n- 수술, 방사선치료 및/또는 항암화학요법 이후 질병 증거(NED)가 없는 고위험군 췌장관선암(1기, 2기, 3기) 등 위장관 선암 환자\n- 기대 여명이 12주 이상인 환자\n- 적절한 장기 기능 보유 (ANC ≥ 1000 cells/mL, 혈소판 ≥ 75,000 /mL, 혈색소 ≥ 9.0 g/dL, 혈청 크레아티닌 < 2.0 mg/dL 등)\n- 가임기 여성과 남성의 적절한 피임법 사용 동의\n\n제외 기준:\n- 근치적 수술 후 잔존 질환의 기왕력 또는 증거가 있는 경우\n- 뇌 또는 중추신경계 전이가 있는 경우\n- 비장절제술 기왕력이 있는 경우\n- 원위부 췌장절제술 기왕력이 있는 경우\n- 전신 스테로이드 또는 면역억제제를 동시 투여 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\nIndividuals must meet all of the following inclusion criteria in order to be eligible to participate in the study:\n\n1\\. Males or females aged ≥ 18 years 2. Have Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 3. Subjects with tumors specified below, who are at high risk of relapse, have been treated with curative intent, and have no evidence of disease (NED) following front-line therapy with surgery, radiation therapy, and/or chemotherapy. NED includes, where applicable, surgical (macroscopic tumor margin, at the time of surgery), and radiological evidence of disease. Residual lesions identified by microscopic/frozen margins and biochemical markers are permitted. Therapy must have been completed no fewer than four weeks, and no later than 25 weeks, before the first dose of Ad5.F35-hGCC-PADRE. For expansion cohort (2B), colon cancer patients may be enrolled four weeks after completion of standard adjuvant therapies, however there is no upper limit to enrollment as long as patients fulfil other eligibility requirements are ctDNA+.\n\n4\\. For tumor-specific criteria, please refer to the information below:\n\na. Pancreatic ductal adenocarcinoma i. Stage I, II, III\n\n* Neuroendocrine tumors of the pancreas are not permitted b. Colorectal adenocarcinoma i. Stage III; Stage IV following metastasectomy ii. High risk stage II colon cancer defined as (any of):\n\n  1. T4\n  2. Grade ≥ 3\n  3. Clinical presentation with bowel obstruction or perforation\n  4. Histological signs of vascular, lymphatic or perineural invasion\n  5. \\< 12 lymph nodes examined c. Gastric adenocarcinoma i. Stage IIA, IIB, III\n* Gastrointestinal stromal tumors of the stomach are not permitted d. Esophageal adenocarcinoma i. Stage IIB, III\n* Esophageal squamous cell carcinomas are not permitted e. Small bowel adenocarcinomas i. Stage III ii. High risk stage II defined as (any of):\n* T4\n* Grade ≥ 3\n* Clinical presentation with perforation or bowel obstruction\n* Histological signs of vascular, lymphatic or perineural invasion\n* \\<5 lymph nodes for duodenal or \\<8 lymph nodes for jejunal/ ileal tumor location 5. Have an anticipated life expectancy of greater than 12 weeks 6. Have adequate organ function at screening\n\n  1. ANC ≥ 1000 cells/mL\n  2. Platelets ≥ 75,000 /mL\n  3. Hemoglobin ≥ 9.0 g/dL\n  4. Serum creatinine \\< 2.0 mg/dL\n  5. For other blood and urine tests including blood chemistry, hepatic and renal functions, test results should not be worse than Grade 1 levels of abnormalities defined by CTCAE, NCI version 5 issued by the US Department of Health and Human Services.\n\n     7\\. For women and men of childbearing potential, a medically acceptable method of highly effective contraception (oral hormonal contraceptive, condom plus spermicide, or hormonal implants) or abstinence must be used throughout the study period and for 28 days after their final vaccine administration (A barrier method of contraception must be employed by all subjects \\[male and female\\], regardless of other methods unless abstinent). A negative serum or urine pregnancy test is required as part of screening.\n\n     Women of childbearing potential is defined as any female who has experienced menarche and who has not undergone surgical sterilization (hysterectomy or bilateral oophorectomy) or who is not postmenopausal. Menopause is defined clinically as 12 months of amenorrhea in a woman over 45 in the absence of other biological or physiological causes. In addition, women under the age of 55 must have a documented serum follicle stimulating hormone (FSH) level less than 40 mIU/ml.\n\n     8\\. Be willing to comply with all the study procedures. 9. All subjects must be able to comprehend and sign a written informed consent document 10. For expansion cohort (2B) only, colon cancer patients must be ctDNA positive using CLIA-certified commercially available assays obtained as part of standard of care.\n\n     Exclusion Criteria:\n\n     An individual who meets any of the following criteria will be excluded from participation in this study:\n     1. Have a known history or evidence of residual disease after definitive surgery\n     2. Have a known metastasis in the brain or central nervous system\n     3. Have a history of splenectomy\n     4. Have a history of distal pancreatectomy\n     5. Concurrent use of systemic steroids or immunosuppressive drugs (use of topical or inhaled steroids will be allowed, see Section 5.7)\n     6. Have any immunodeficiency disease or immunocompromised state (e.g., use of immunosuppressive agents, chemotherapy or radiation therapy within four weeks of study treatment)\n     7. Have active autoimmune disease or history of autoimmune disease or a transplant recipient requiring systemic steroids or other immunosuppressive treatment\n     8. Have received a diagnosis of HIV, hepatitis B, or hepatitis C (subjects who are hepatitis C positive may be enrolled if they are confirmed with negative viral load at screening)\n     9. Other malignancy within last 5 years except curatively treated non-melanomatous skin cancer and curatively treated carcinoma in situ of the uterine cervix, or early-stage (stage A or B1) prostate cancer\n     10. Have a history of inflammatory bowel disease\n     11. Have a history of serious reaction to adenovirus\n     12. Have an intercurrent illness that is either life-threatening or of clinical importance such that it might limit study compliance (such illnesses include, but are not limited to, ongoing or active infection, metabolic or neurologic disease, peripheral vascular disease, or psychiatric illness)\n     13. Have insufficient peripheral venous access to permit completion of the study phlebotomy regimen\n     14. Consumes greater than three glasses of alcoholic beverages (1 glass is approximately equivalent to: beer \\[354 mL/12 ounces\\], wine \\[118 mL/4 ounces\\], or distilled spirits \\[29.5 mL/1 ounce\\]) per day and cannot refrain from alcohol for the duration of the trial\n     15. Has a history of use of illicit drugs (e.g., opioids, cocaine, amphetamines, hallucinogens, etc.) that could potentially interfere with adherence to study procedures or requirements\n     16. Be a woman who is pregnant or breastfeeding\n     17. Have an unhealed surgical wound\n     18. Have had major surgery or significant traumatic injury occurring within 28 days before treatment or anticipated surgery or procedure requiring general anesthesia during the study participation (including four weeks after last dose of vaccine).\n     19. Toxicities from previous anti-cancer therapies that have not resolved to baseline levels or to Grade 1 or less except for alopecia and peripheral neuropathy\n     20. Patients are currently enrolled in an ongoing clinical trial or trial that could interfere with the protocol-specified requirements",
   "enrollment": 100,
   "has_results": false,
@@ -113,17 +117,22 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "수술 후 잔존 질환이 있는 경우",
+    "뇌 또는 중추신경계 전이가 있는 경우",
+    "비장절제술 또는 원위부 췌장절제술 기왕력",
+    "면역결핍 질환 또는 면역억제제 사용 중인 경우"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": false,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "수술 및 표준 치료 후 재발 위험이 있으나 잔존 질환 증거가 없는 1~3기 췌장관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "adjuvant"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

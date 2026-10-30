@@ -19,11 +19,11 @@
  "id": "nct:NCT06882746",
  "importance": 0.81,
  "key_points_ko": [
-  "대상 질환은 수술 불가 또는 전이성 대장암, 위암, 췌장암이며, 본 임상시험의 목표 인원은 14명입니다.",
-  "연구의 주요 목적은 진행성 암 환자가 견딜 수 있는 BI 765049의 최고 용량과 가장 적절한 투여 방식을 찾는 것입니다.",
-  "참가자들은 3주마다 최소 1회 BI 765049를 투여받았으며, 내약성이 좋고 혜택이 있는 경우 치료를 지속했습니다."
+  "목표 환자 수는 14명이며, 대장암, 위암, 췌장암 환자가 대상입니다.",
+  "BI 765049 약물의 최고 용량과 내성을 평가하는 1상 임상시험입니다.",
+  "참가자들은 3주마다 최소 1회 치료를 받으며 부작용과 안전성을 모니터링합니다."
  ],
- "last_updated": "2026-10-29",
+ "last_updated": "2026-10-30",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06882746"
  },
- "summary_ko": "이 연구는 수술이 불가능하거나 전이된 진행성 대장암, 위암, 췌장암 성인 환자를 대상으로 면역 체계를 돕는 약물인 BI 765049의 안전성과 최고 허용 용량을 찾기 위해 진행된 1상 임상시험입니다. 환자들은 3주마다 최소 한 번 BI 765049를 투여받았으며, 치료 효과가 있고 부작용을 견딜 수 있는 동안 치료를 지속했습니다. 연구의 목적은 향후 임상 개발을 위해 환자가 견딜 수 있는 가장 높은 용량과 가장 적절한 투여 방식을 확인하는 것이었습니다. 목표 인원은 14명이었으며 현재 상태는 종료(TERMINATED)되었습니다.",
+ "summary_ko": "이 임상시험은 수술로 제거할 수 없거나 전이된 진행성 대장암, 위암, 췌장암 성인 환자를 대상으로 합니다. 연구의 목적은 면역계가 암과 싸우도록 돕는 약물인 BI 765049의 최대 허용 용량과 가장 적절한 투여 방식을 찾는 것입니다. 참가자들은 3주에 최소 1회 BI 765049를 투여받으며, 치료 효과가 있고 견딜 수 있는 한 계속 치료를 받을 수 있습니다. 이 연구는 종료(TERMINATED)되었습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study to Test Different Doses of BI 765049 in People With Advanced Cancer of the Colon, Rectum, Stomach, or Pancreas",
@@ -58,7 +58,7 @@
    "Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인.\n- 미국 내 환자의 경우 조직학적 또는 세포학적으로 확진된 대장암, 위암 또는 췌장선암(PDAC) 진단 (유럽 내 환자의 경우 대장암으로 한정됨).\n- 진행성, 절제 불가능 및/또는 전이성 질환.\n- 서면 동의서 작성 가능.\n\n제외 기준:\n- 첫 투여 전 28일 이내에 주요 수술을 받은 병력이 있는 환자.\n- 최근 5년 이내에 본 임상시험 대상 암 외의 다른 악성 종양 병력이 있는 환자 (치료된 비흑색종 피부암, 자궁경부 상피내암 등은 예외).\n- 연수막 질환(leptomeningeal disease) 또는 척수 압박이 있는 환자.\n- 안전하게 중단할 수 없는 항응고제 치료가 필요한 환자.",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인 환자.\n* 미국 환자의 경우 조직학적으로 확진된 대장암, 위암, 췌장암(PDAC) 환자 (유럽은 대장암만 해당).\n* 진행성, 수술 불가 및/또는 전이성 질환.\n\n제외 기준:\n* 첫 투여 전 28일 이내에 주요 수술을 받은 이력이 있는 환자.\n* 최근 5년 이내에 다른 악성 종양 병력이 있는 환자 (효과적으로 치료된 피부암, 자궁경부 상피내암 등 제외).\n* 연수막 질환(leptomeningeal disease) 또는 척수 압박이 있는 환자.\n* 안전하게 중단할 수 없는 항응고제 치료가 필요한 환자.",
   "eligibility_text": "Inclusion criteria:\n\n* For all patients, signed and dated informed consent form (ICF)2/main ICF describing the study in accordance with International Council on Harmonisation Good Clinical Practice (ICH-GCP) and local legislation prior to any trial-specific procedures, sampling, or analyses.\n* Patient must be ≥18 years of age and at least at the legal age of consent in countries where it is greater than 18 years at the time of signature on the ICFs (ICF1/screening ICF and ICF2/main ICF).\n* In US: Patients with a histologically or cytologically confirmed diagnosis of colorectal carcinoma (CRC), gastric carcinoma (GC), or pancreatic ductal adenocarcinoma (PDAC).\n* In Europe: Patients with a histologically or cytologically confirmed diagnosis of CRC.\n* Patients with advanced, unresectable, and/or metastatic disease. Further inclusion criteria apply.\n\nExclusion criteria:\n\n* Patient with a history of a major surgery within 28 days prior to first dose of BI 765049 (major according to the Investigator's and/or Medical Monitor's assessment).\n* Previous or concomitant malignancies other than the one treated in this trial within the last 5 years except:\n\n  * Effectively treated non-melanoma skin cancers\n  * Effectively treated carcinoma in situ of the cervix\n  * Effectively treated ductal carcinoma in situ\n  * Other effectively treated malignancy that is considered cured by local treatment\"\n* Patient with known leptomeningeal disease or spinal cord compression due to disease.\n* Patient requiring anticoagulant treatment which cannot be safely interrupted, if medically needed based on the opinion of the Investigator.\n\nFurther exclusion criteria apply.",
   "enrollment": 14,
   "has_results": false,
@@ -77,15 +77,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "최근 28일 이내 주요 수술 병력",
-    "최근 5년 이내 다른 악성 종양 병력",
-    "연수막 질환 또는 척수 압박",
+    "최근 28일 이내 주요 수술 이력",
+    "최근 5년 이내 다른 암 병력",
+    "뇌수막 전이 또는 척수 압박",
     "중단할 수 없는 항응고제 치료 필요"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "미국 지역의 진행성 췌장선암 환자를 대상으로 하였으나 현재 종료된 1상 임상시험입니다.",
+   "notes_ko": "이전 치료에 실패했거나 대안이 없는 진행성 췌장암 환자(미국 지역 한정)를 위한 1상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

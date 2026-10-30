@@ -11,10 +11,12 @@
   "Zhang W"
  ],
  "categories": [
+  "basic",
+  "drug",
   "treatment"
  ],
  "entities": [],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-10-29",
  "history": [
   {
@@ -24,8 +26,12 @@
   }
  ],
  "id": "pmid:42948742",
- "importance": 0.67,
- "key_points_ko": [],
+ "importance": 0.54,
+ "key_points_ko": [
+  "다중 전사체 분석을 통해 네트워크 중심성이 높은 14개 핵심 유전자와 주요 표적 3개(CKAP2L, KIF18A, MCM10)를 발굴했습니다.",
+  "단일세포 RNA 시퀀싱(scRNA-seq) 및 CRISPR 스크리닝 분석으로 이 표적들이 췌장암 세포 생존에 필수적임을 확인했습니다.",
+  "표적 저해 후보 물질인 mitoxantrone, OTSSP167, PF-3758309, vorinostat이 췌장암 세포의 발현을 억제하고 증식을 저해하는 전임상 효과를 입증했습니다."
+ ],
  "last_updated": "2026-10-29",
  "links": {
   "doi": "10.1016/j.chmed.2026.03.006",
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42948742/"
  },
- "summary_ko": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with limited therapeutic options and an urgent need for novel treatment strategies. This study presented a network-based computational framework for in silico genome-wide therapeutic target identification and drug discovery.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장관선암(PDAC)의 새로운 치료 표적과 후보 약물을 발굴하기 위해 네트워크 기반 computational 프레임워크를 개발했습니다. 연구진은 다중 전사체 데이터 분석과 유전자 스크리닝을 통해 CKAP2L, KIF18A, MCM10이라는 3가지 주요 종양 유발 유전자를 새로 지정했습니다. 또한 이 유전자들을 표적으로 하는 mitoxantrone(미톡산트론), OTSSP167, PF-3758309, vorinostat(보리노스타트) 등의 후보 약물들을 도출했습니다. 세포 실험(in vitro) 검증에서 해당 화합물들이 췌장암 세포의 증식을 억제하고 목표 유전자의 발현을 유의하게 줄이는 것을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Prediction of therapeutic targets and drug candidates for pancreatic ductal adenocarcinoma by network-based computational framework",
- "title_ko": null,
+ "title_ko": "네트워크 기반 계산 프레임워크를 통한 췌장관선암의 치료 표적 및 후보 약물 예측",
  "trial": null,
  "type": "paper"
 }

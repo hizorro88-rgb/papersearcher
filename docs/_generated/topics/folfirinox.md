@@ -17,18 +17,20 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (69)
+## 관련 임상시험 (72)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [MTAP 결손 국소 췌장암 환자를 대상으로 한 수술 전후 나블리메토스타트와 mFOLFIRINOX 병용요법의 1b/2상 임상시험](../trials/NCT07905131.md) | 1상/2상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
 | [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색술을 통한 절제율 향상 제2상 임상시험](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자의 근육량 유지와 항암 치료 내성을 돕는 영양 보조제 임상시험](../trials/NCT07870421.md) | 해당 없음 | 모집 예정 | - |
 | [KRAS G12D 변이 진행성·전이성 대장암 및 췌장암 환자를 위한 GDC-7035 병용 투여 안전성 및 효과 연구](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
 | [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 Pentamidine 병용 요법](../trials/NCT07829185.md) | 1상 | 모집 예정 | - |
 | [전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](../trials/NCT07824960.md) | 1상/2상 | 모집 예정 | - |
+| [수술 가능 및 경계성 절제 가능 췌관선암 환자를 위한 SMAD4 변이 맞춤형 선행 화학요법 2상 임상시험 (SMART-PAN…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
-| [췌장암 환자를 대상으로 한 ELI-002 7P 및 티슬렐리주맙 병용 요법 연구](../trials/NCT07671339.md) | 1상 | 모집 중 | - |
+| [절제 가능 또는 경계성 절제 가능 췌장암 환자에서 mFOLFIRINOX와 KRAS 암 면역요법 ELI-002 7P(tisle…](../trials/NCT07671339.md) | 1상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
@@ -58,7 +60,7 @@ search:
 | [국소진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
-| [국소 진행성 및 전이성 췌장암 치료를 위한 화학요법과 알파선 방사선 방출기(DaRT) 병용 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
+| [국소진행성 및 전이성 췌장암 환자에서 항암화학요법과 알파선 방출선원(DaRT) 병용 치료](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [치료 전적이 없는 전이성 췌장관선암 환자에서 zunsemetinib과 mFOLFIRINOX 병용 요법을 평가하는 1상 임상시험](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 Bortezomib, PD-1 단일클론항체, mFOLFIRINOX 병용 요법](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 표준 요법인 mFOLFIRINOX와 ONO-7913 및 ONO-4538 병용요법에 대한 공개,…](../trials/NCT06532344.md) | 1상 | 진행 중(모집 종료) | - |
@@ -78,6 +80,7 @@ search:
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
 | [수술 가능 췌장암에서 항암화학요법 이후 항생제와 pembrolizumab을 이용한 장내 미생물 조절](../trials/NCT05462496.md) | 2상 | 모집 중 | - |
 | [위암, 위식도접합부암, 췌장암 성인 환자를 대상으로 ASP2138 단독 또는 병용 투여하는 임상시험](../trials/NCT05365581.md) | 1상 | 모집 중 | 5 |
+| [고령 전이성 췌장암 환자에서 FOLFOX와 FOLFIRI 교대 투여 요법을 평가하는 2상 임상시험](../trials/NCT05360732.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [수술 가능 췌장암 환자를 위한 펨브롤리주맙 병용 선행화학요법(FOLFIRINOX) 후 수술](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
@@ -91,8 +94,23 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (12)
+## 타임라인 (13)
 
+<a id="pmid-42952105"></a>
+#### [선행 FOLFIRINOX 항암요법 및 비장동맥 전위술을 통한 복합 혈관 재건술 후 전췌장절제술을 시행한 61세 국소 진행성 췌장암 환자 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42952105/)
+<small>A 61-Year-Old Woman With Locally Advanced Pancreatic Adenocarcinoma Managed With Neoadjuvant FOLFIRINOX, Total Pancreatectomy, Splenectomy, Portal Vein and Common Hepatic Artery Resection, and Combined Vascular Reconstruction Using Splenic Artery Transposition: A Case Report</small>
+
+`논문` `증례` `수술` `치료 전반` `신약·치료제` `진단·조기발견` · 2026-10-29 · PubMed · Am J Case Rep · 중요도 0.64
+
+문맥과 공통간동맥을 침범한 국소 진행성 췌장관선암(PDAC) 61세 여성 환자의 치료 증례입니다. 환자는 12주기의 FOLFIRINOX(폴피리녹스) 선행 항암화학요법을 받은 후, 전췌장절제술, 비장절제술, 문맥 및 공통간동맥 절제술을 시행받았습니다. 비장동맥 전위술을 이용한 간동맥 혈류 재건을 통해 수술 단면 음성(R0 절제)을 달성했습니다. 환자는 수술 후 27개월에 국소 재발 없이 중증 폐렴으로 사망했습니다.
+
+- 12주기의 선행 FOLFIRINOX 치료 후 문맥 및 공통간동맥을 절제하는 전췌장절제술을 시행했습니다.
+- 비장동맥 전위술(Splenic Artery Transposition)을 이용해 간동맥 혈류를 복원하고 절제 단면 음성을 확보했습니다.
+- 수술 후 15개월에 단일 폐 전이 절제술을 받았으며, 수술 27개월 후 국소 재발 없이 중증 폐렴으로 사망했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42952105/) · [DOI](https://doi.org/10.12659/AJCR.953367) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42952105)</small>
+
+---
 <a id="pmid-42933148"></a>
 #### [전이성 췌장암에서 FOLFIRINOX 대 gemcitabine/nab-paclitaxel: 실제 임상 데이터 연구](https://pubmed.ncbi.nlm.nih.gov/42933148/)
 <small>FOLFIRINOX vs. gemcitabine/nab-paclitaxel for metastatic pancreatic cancer: A real-world study</small>

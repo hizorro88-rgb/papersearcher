@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "folfirinox"
@@ -22,11 +22,11 @@
  "id": "nct:NCT07671339",
  "importance": 0.84,
  "key_points_ko": [
-  "KRAS 변이(G12D, G12V, G12R, G12C, G12A, G12S, G13D)가 확인된 수술 가능 또는 경계성 수술 가능 췌장암 환자 20명을 대상으로 합니다.",
-  "수술 전 선행 요법으로 mFOLFIRINOX와 KRAS 암 백신 ELI-002 7P, 면역관문억제제 티슬렐리주맙(선택적 병용)의 안전성과 효과를 평가합니다.",
-  "등록 전 선행 mFOLFIRINOX 치료를 최대 4회까지 허용합니다."
+  "대상 질환은 G12D, G12V, G12R, G12C, G12A, G12S, G13D 중 하나의 KRAS 변이가 있는 절제 가능 또는 경계성 절제 가능한 췌관선암(PDAC)입니다.",
+  "중재 치료는 선행화학요법 mFOLFIRINOX와 ELI-002 7P 백신(tislelizumab 병용 또는 단독)입니다.",
+  "목표 참여 인원은 총 20명입니다."
  ],
- "last_updated": "2026-10-29",
+ "last_updated": "2026-10-30",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07671339"
  },
- "summary_ko": "KRAS 변이가 있는 수술 가능 또는 경계성 수술 가능 췌관선암 환자를 대상으로 수술 전 보조요법을 평가하는 1상 임상시험입니다. 환자들은 수술 전 선행 치료로 mFOLFIRINOX와 지질 결합 KRAS 치료 백신인 ELI-002 7P를 병용하며, 티슬렐리주맙(tislelizumab)의 병용 여부에 따른 안전성과 유효성을 시험합니다. 목표 시험 대상자 수는 총 20명이며 다기관 공개 방식으로 진행됩니다.",
+ "summary_ko": "이 연구는 KRAS 변이가 있는 췌관선암(PDAC) 환자를 대상으로 mFOLFIRINOX 항암화학요법과 지질 결합 KRAS 치료용 암 면역요법인 ELI-002 7P 백신(tislelizumab 병용 또는 단독)의 안전성과 유효성을 평가하기 위한 공개, 다기관 파일럿 1상 임상시험입니다. 대상은 수술이 가능하거나 경계성 절제 가능한 국소 국한성 병기를 가진 환자이며, 등록 전 최대 4회의 선행화학요법(neoadjuvant) mFOLFIRINOX 투여가 허용됩니다. 연구의 주요 목표는 해당 병용 치료 접근법의 안전성을 확인하고 췌장암에 대한 효과를 알아보는 것입니다. 목표 인원은 20명이며 국내 기관은 포함되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "ELI-002 7P",
@@ -57,7 +57,7 @@
   "25-386"
  ],
  "title": "A Study of ELI-002 7P, With or Without Tislelizumab, in People With Pancreatic Cancer",
- "title_ko": "췌장암 환자를 대상으로 한 ELI-002 7P 및 티슬렐리주맙 병용 요법 연구",
+ "title_ko": "절제 가능 또는 경계성 절제 가능 췌장암 환자에서 mFOLFIRINOX와 KRAS 암 면역요법 ELI-002 7P(tislelizumab 병용 또는 단독)의 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -74,7 +74,7 @@
     "phone": "646-888-4182"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 병리학적으로 확진된 췌장 선암종\n• 7가지 KRAS 변이(G12D, G12V, G12R, G12C, G12A, G12S, G13D) 중 1개 보유\n• NCCN 기준에 따른 수술 가능(resectable) 또는 경계성 수술 가능(borderline resectable) 국소 질환 (전이 병변 없음)\n• 등록 전 선행 mFOLFIRINOX 치료를 최대 4회까지 투여받은 경우 참여 가능\n• 18세 이상 및 ECOG 수행능력 점수 0-1점\n• 적절한 골수, 신장, 간 기능 유지\n\n제외 기준:\n• 국소진행성 수술 불가능 또는 전이성 췌관선암\n• 이전에 TNF 수용체 작용제 또는 면역관문억제제(anti-PD-1, anti-PD-L1, anti-CTLA-4 등) 치료를 받은 환자\n• 활동성 감염(결핵, B형 간염, C형 간염 등) 또는 전신 항생제 치료가 필요한 감염\n• 활동성 또는 병력이 확인된 자가면역 질환\n• 심부전, 불안정 협심증, 간질성 폐질환 등 조절되지 않는 중증 동반 질환\n• 첫 투약 전 14일 이내 전신 면역억제제 투여 또는 30일 이내 생백신 접종\n• 최근 3년 이내의 다른 암 병력 (일부 조기 암 제외) 또는 동종 장기 이식 병력",
+  "eligibility_ko": "선정 기준:\n- 췌장의 선암종이 병리학적으로 확인된 환자\n- 7가지 KRAS 변이(G12D, G12V, G12R, G12C, G12A, G12S, G13D) 중 하나 이상 보유\n- NCCN 가이드라인 v2.2025에 따른 절제 가능 또는 경계성 절제 가능한 국소 질환\n- 등록 전 최대 4회의 선행 mFOLFIRINOX 투여 허용\n- 연령 18세 이상 및 ECOG 수행능력 0-1\n\n제외 기준:\n- 국소 진행성 절제 불가능한 PDAC 또는 전이성 PDAC\n- TNF 수용체 작용제 또는 면역관문억제제(anti-CTLA-4, anti-PD-1, anti-PD-L1) 치료 이력\n- 활동성 감염(결핵, 활동성 B형/C형 간염 등) 또는 알려진 HIV 감염\n- 활성형 또는 과거 기록이 있는 자가면역/염증성 질환\n- 최근 3년 이내의 다른 악성 종양 병력(적절히 치료된 일부 암 제외)",
   "eligibility_text": "Inclusion Criteria:\n\n\\- Documentation of Disease\n\n* Pathologically confirmed adenocarcinoma of the pancreas.\n* Presence of one of seven KRAS mutations: G12D, G12V, G12R, G12C, G12A, G12S, or G13D.\n\n  * Definition of Disease\n* Patients must have resectable or borderline resectable localized disease as defined by NCCN Guidelines v2.2025. Staging CT or MRI of the chest/abdomen/pelvis at enrollment must be negative for metastatic disease.\n\n  * Prior Treatment\n* Up to 4 doses of neoadjuvant mFOLFIRINOX are allowed prior to enrollment. Resolution of all toxicities of prior therapy or surgical procedures to baseline or Grade\n\n  1 (except for hypothyroidism requiring medication, which must have resolved to Grade ≤2), alopecia, and other toxicities considered clinically nonsignificant and/or stable on supportive therapy as determined by the investigator).\n  * Age ≥18 years.\n  * ECOG Performance Status 0-1\n  * Pregnancy and Nursing\n* Not pregnant or breastfeeding.\n* Evidence of post-menopausal status or a negative urinary or serum pregnancy test for females of child-bearing potential within 28 days prior to initiation of treatment.\n\n  * Required Organ Function\n  * Hematologic function:\n* ANC ≥1,500/mm³\n* Platelets ≥100,000/mm³\n* Hemoglobin ≥8.0 g/dL\n\n  * Renal function:\n* Creatinine clearance ≥50 mL/min (Cockcroft-Gault formula or 24-hour urine collection).\n\n  * Hepatic function:\n* Total bilirubin ≤1.5 × ULN (Gilbert's syndrome allowed up to ≤3 × ULN)\n* AST and ALT ≤3 × ULN Albumin: ≥2.5 g/dL\n\n  * Cardiac function: Patients with known cardiac disease or prior exposure to cardiotoxic agents should undergo risk assessment per NYHA classification; patients must be class or better. Compliance and Life Expectancy\n  * Patient is willing and able to comply with protocol procedures, treatment, and follow-up.\n* Estimated life expectancy of at least 12 weeks per treating physician.\n\n  * Comorbid Conditions\n* No active infection requiring parenteral antibiot ic(s)\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial.\n\n  * Allergies: No history of allergic reaction to the study agent(s), compounds of similar chemical or biologic composition to the study agent (s) (or any of its excipients).\n  * Concomitant Medications\n* Concomitant medication use should only exclude patients when clinically relevant drug-drug interactions or overlapping toxicities are expected to impact safety or efficacy. All concomitant medications from 7 days prior to screening through 12 weeks after the last dose of investigational product must be documented in the medical record.\n\n  * Contraception Requirements\n* Patients of reproductive potential must use highly effective contraception from screening through 90 days after the last dose of immunotherapy.\n\nExclusion Criteria:\n\n* Locally advanced unresectable PDAC (per NCCN v2.2025), including unreconstructable venous anatomy, arterial tumor contact ≥180° (superior mesenteric, celiac, or hepatic artery), or aortic invasion\n* Metastatic PDAC.\n* Prior treatment with TNF receptor agonists (OX40, CD27, CD137/4-1BB, GITR) or prior checkpoint inhibitor therapy (anti-CTLA-4, anti-PD-1, anti-PD-L1).\n* Active infection including tuberculosis, hepatitis A, active HBV (HBsAg+), or active HCV. Patients with resolved HBV (anti-HBc+, HBsAg-) may enroll. HCV Ab+ patients are eligible if HCV RNA PCR is negative. Successfully treated cholangitis is not exclusionary if no active infection remains.\n* Known HIV infection not meeting the on-study guideline criteria above.\n* Active or prior documented autoimmune/inflammatory disorders including: IBD, systemic lupus erythematosus, sarcoidosis, granulomatosis with polyangiitis, Graves' disease, rheumatoid arthritis, hypophysitis, uveitis, systemic sclerosis, CNS or motor neuropathy of autoimmune origin (e.g., Guillain-Barré, myasthenia gravis, multiple sclerosis). Exceptions: vitiligo, alopecia, stable hypothyroidism on replacement, remote (\\>5 years) inactive autoimmune disease, or celiac disease controlled by diet.\n* Uncontrolled intercurrent illness including, but not limited to, symptomatic CHF, unstable angina, uncontrolled arrhythmia, uncontrolled hypertension, interstitial lung disease, serious GI conditions with chronic diarrhea, or psychiatric/social situations limiting compliance.\n* Current or prior systemic immunosuppressive medication within 14 days of first ELI-002 7P dose.\n* Exceptions: intranasal/inhaled/topical steroids, local steroid injections, physiologic replacement doses (≤10 mg prednisone/day or equivalent), steroids as premedication for imaging contrast allergy, or limited steroid use as anti-emetic with mFOLFIRINOX.\n* Receipt of a live attenuated vaccine within 30 days prior to first dose of immunotherapy.\n* Pregnancy, breastfeeding, or unwillingness to use effective contraception during treatment and for 90 days after last immunotherapy dose.\n* Allergy or hypersensitivity to study drugs or excipients.\n* Any other malignancy within 3 years except adequately treated cervical carcinoma in situ, non-muscle-invasive bladder cancer, localized prostate cancer, or non-melanoma skin cancers.\n* Prior allogeneic organ transplantation.",
   "enrollment": 20,
   "has_results": false,
@@ -89,23 +89,21 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [
-    "KRAS_wild"
-   ],
+   "biomarkers_excluded": [],
    "biomarkers_required": [
     "KRAS_mutant"
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "전이성 또는 국소진행성 수술 불가 췌장암",
-    "이전 면역관문억제제(키트루다, 옵디보 등) 치료 병력",
-    "활동성 자가면역 질환 또는 장기 이식 병력",
-    "심부전 등 중증 심장 질환 또는 활동성 감염"
+    "전이성 또는 수술 불가능한 국소 진행성 췌장암",
+    "이전 면역관문억제제 치료 이력",
+    "활동성 감염 또는 자가면역 질환",
+    "최근 3년 이내 다른 암 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "KRAS 변이를 보유한 수술 가능 또는 경계성 수술 가능 췌장암 환자 대상의 수술 전 백신 병용 요법 시험",
+   "notes_ko": "수술 전 치료(선행화학요법) 단계에 있는 절제 가능 또는 경계성 절제 가능한 KRAS 변이 췌장암 환자",
    "prior_excluded": [
     "immunotherapy"
    ],

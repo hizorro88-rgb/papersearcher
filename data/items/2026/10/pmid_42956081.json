@@ -1,0 +1,57 @@
+{
+ "abstract": "Treatment approaches for pancreatic adenocarcinoma, an aggressive disease with poor prognosis, are evolving beyond cytotoxic chemotherapy. Recent advances in RAS targeting with small molecules are redefining therapeutic paradigms.",
+ "authors": [
+  "Soff SP",
+  "O'Reilly EM"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-30",
+ "history": [
+  {
+   "date": "2026-10-30",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42956081",
+ "importance": 0.65,
+ "key_points_ko": [
+  "췌관선암은 예후가 나쁜 공격적인 질환입니다.",
+  "소분자 물질을 이용한 RAS 표적 치료의 최근 발전이 이루어지고 있습니다.",
+  "치료 접근법이 기존 세포독성 항암화학요법을 넘어 변화하고 있습니다."
+ ],
+ "last_updated": "2026-10-30",
+ "links": {
+  "doi": "10.1371/journal.pmed.1005283",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42956081"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "PLoS Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42956081/"
+ },
+ "summary_ko": "예후가 좋지 않은 공격적인 질환인 췌관선암(pancreatic adenocarcinoma)의 치료 접근법이 세포독성 항암화학요법(cytotoxic chemotherapy)을 넘어 진화하고 있습니다. 소분자 물질을 이용한 RAS 표적 치료의 최근 발전은 치료 패러다임을 재정립하고 있습니다. 초록에 세부 임상 결과나 환자 수는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic cancer: The RAS paradigm shift",
+ "title_ko": "췌장암: RAS 패러다임의 전환",
+ "trial": null,
+ "type": "paper"
+}
