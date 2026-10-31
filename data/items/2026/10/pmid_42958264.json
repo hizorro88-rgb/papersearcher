@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer is a highly immunosuppressive \"cold\" tumor that typically fails to achieve satisfactory immunotherapy outcomes. Photoimmunotherapy represents a preeminent cancer treatment strategy that combines the advantages of noninvasive phototherapy and drug-free immunotherapy. However, recently reported phototherapeutic materials predominantly respond to visible light via the oxygen-dependent pathway, severely weakening their efficacy in hypoxic and deep-seated tumors. Herein, a dimerization strategy for a near-infrared II (NIR-II)-emissive luminophore is developed for efficient image-guided photoimmunotherapy of \"cold\" pancreatic tumors. Owing to their dimeric design, the nanoparticles (NPs) of the dimeric luminophore (d-NBT) exhibited improved absorption and NIR-II fluorescence emission, along with efficient type-I reactive oxygen species (ROS) generation and sufficient photothermal conversion performance under 808 nm light irradiation. With NIR-II imaging, d-NBT NPs have been demonstrated to provide high-resolution whole-body angiography beyond 1500 nm and efficient tumor accumulation. The complete ablation of pancreatic tumors in primary and KPC tumor models were achieved via the photoimmunotherapy effect of d-NBT NPs. This study provides a dimerization strategy for high-performance NIR-II emissive luminophores for imaging-guided photoimmunotherapy of \"cold\" pancreatic cancer.",
+ "authors": [
+  "Cen C",
+  "Yang Y",
+  "Gao Y",
+  "Yu J",
+  "Wang H",
+  "Qian X",
+  "Ma Y",
+  "Chen H"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42958264",
+ "importance": 0.52,
+ "key_points_ko": [
+  "d-NBT 나노입자는 808 nm 빛 조사 하에 효율적인 제1형 활성산소 생성과 광열 전환 성능을 보였습니다.",
+  "NIR-II 영상 유도를 통해 1500 nm 이상의 고해상도 전신 혈관조영과 효율적인 종양 축적이 확인되었습니다.",
+  "1차 및 KPC 췌장암 동물 모델에서 d-NBT 나노입자의 광면역치료 효과로 종양이 완전히 제거되었습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s12951-026-04873-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42958264"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-31",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Nanobiotechnology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958264/"
+ },
+ "summary_ko": "이 연구는 면역반응이 낮은 췌장암을 치료하기 위해 근적외선-II(NIR-II) 발광 나노입자인 d-NBT를 개발했습니다. 이 나노입자는 808 nm 빛을 조사했을 때 활성산소(ROS)를 생성하고 광열 효과를 내어 종양을 제거합니다. 1차 및 KPC 췌장암 동물 모델에서 광면역치료 효과를 통해 종양이 완전 절제되었습니다. 이는 저산소 환경의 깊은 종양에서도 효과적인 고성능 근적외선-II 발광 물질의 전략을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "NIR-II emissive nanomedicine of dimer-structured conjugated oligomer induces immunogenic cell death for photoimmunotherapy of pancreatic cancer",
+ "title_ko": "이량체 구조의 공액 올리고머 기반 근적외선-II 발광 나노의약품을 통한 췌장암 광면역치료",
+ "trial": null,
+ "type": "paper"
+}

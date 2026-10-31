@@ -1,0 +1,63 @@
+{
+ "abstract": "The biological and clinical significance of the intratumoral microbiota in pancreatic ductal adenocarcinoma (PDAC) remains poorly defined. Using oncogenic Kras-driven mouse models of pancreatic tumorigenesis and human pancreatic tissue from patients with non-metastatic PDAC treated with neoadjuvant (n = 62) or adjuvant therapy (n = 101), along with samples from intraductal papillary mucinous neoplasms (IPMN, n = 24), chronic pancreatitis (CP, n = 33), and healthy donors (n = 9), we determined tissue lipopolysaccharide (LPS), 16S rRNA sequencing, high-resolution quantitative multiplex immunofluorescence of autophagy markers (LAMP2, LC3B) and LPS, 16S rRNA fluorescence in situ hybridization (FISH) staining, and TLR4 signaling. In KrasCre mice, we identified significant bacterial accumulation in the pancreas, indicated by elevated LPS, increased FISH signals, enhanced TLR4 signaling, and activation of autophagy. Administration of exogenous LPS further amplified autophagy and TLR4 signaling, supporting a mechanistic link between microbial sensing and autophagy. In human tissue, both adjuvant and neoadjuvant PDAC samples showed significantly increased bacterial alpha- and beta diversity compared with controls, while CP showed a similar enrichment pattern that IPMN lacks; the underlying microbial diversity differs fundamentally across these conditions. Increased LPS levels, along with elevated autophagy markers and abundant FISH-positive bacteria, support the presence of intratumoral bacteria. Across four independent transcriptomic datasets, PDAC samples showed elevated expression of bacteria-associated pathways (including TLR4) and autophagy-related genes. Clinically, higher autophagy-associated LAMP2-LC3B colocalization and increased densities of FISH-positive cells were independently associated with prolonged survival in both adjuvant and neoadjuvant or combined PDAC patients. Collectively, these findings link intratumoral microbial enrichment to increased autophagy-associated signaling and improved patient outcomes, suggesting that microbial signals within the tumor microenvironment were associated with favorable survival.",
+ "authors": [
+  "Zhang Y",
+  "Gobin TL",
+  "Huang Z",
+  "Miao B",
+  "Kurilov R",
+  "Sun H",
+  "Tjaden C",
+  "Heger U"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957626",
+ "importance": 0.77,
+ "key_points_ko": [
+  "마우스 모델과 인간 췌관선암(PDAC) 조직에서 상당한 세균 축적과 자가포식 활성화가 확인되었습니다.",
+  "PDAC 샘플은 대조군에 비해 세균의 알파 및 베타 다양성이 유의하게 증가했습니다.",
+  "자가포식과 관련된 LAMP2-LC3B 공동 국소화와 세균(FISH 양성 세포) 밀도 증가가 환자의 연장된 생존 기간과 독립적으로 연관되었습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1038/s41419-026-09256-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957626"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Death Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957626/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자의 조직 내 미생물과 자가포식(autophagy)의 생물학적 및 임상적 연관성을 분석했습니다. 비전이성 PDAC 환자의 수술 전 보조치료(neoadjuvant) 및 수술 후 보조치료(adjuvant) 조직 등을 활용하여 리포폴리사카라이드(LPS), 16S rRNA 시퀀싱, 자가포식 마커(LAMP2, LC3B) 등을 조사했습니다. 분석 결과, 종양 내 미생물 증식과 자가포식 관련 신호의 활성화가 관찰되었습니다. 또한, 높은 자가포식 마커와 세균 밀도는 수술 후 보조치료 및 수술 전 보조치료를 받은 환자 모두에서 독립적으로 연장된 생존 기간과 연관성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Autophagy and intratumoral bacteria abundance influence the prognosis of patients with pancreatic carcinoma",
+ "title_ko": "자가포식과 종양 내 세균 풍부도가 췌장암 환자의 예후에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

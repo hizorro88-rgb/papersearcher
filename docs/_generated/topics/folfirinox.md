@@ -21,14 +21,14 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [MTAP 결손 국소 췌장암 환자를 대상으로 한 수술 전후 나블리메토스타트와 mFOLFIRINOX 병용요법의 1b/2상 임상시험](../trials/NCT07905131.md) | 1상/2상 | 모집 예정 | - |
+| [MTAP 결손 췌장암 환자에서 수술 전후 navlimetostat와 변형 FOLFIRINOX 병용요법에 대한 1b/2상 공개…](../trials/NCT07905131.md) | 1상/2상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
 | [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색술을 통한 절제율 향상 제2상 임상시험](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자의 근육량 유지와 항암 치료 내성을 돕는 영양 보조제 임상시험](../trials/NCT07870421.md) | 해당 없음 | 모집 예정 | - |
 | [KRAS G12D 변이 진행성·전이성 대장암 및 췌장암 환자를 위한 GDC-7035 병용 투여 안전성 및 효과 연구](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
 | [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 Pentamidine 병용 요법](../trials/NCT07829185.md) | 1상 | 모집 예정 | - |
 | [전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](../trials/NCT07824960.md) | 1상/2상 | 모집 예정 | - |
-| [수술 가능 및 경계성 절제 가능 췌관선암 환자를 위한 SMAD4 변이 맞춤형 선행 화학요법 2상 임상시험 (SMART-PAN…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
+| [수술 가능 및 경계성 수술 가능 췌장암 환자에서 SMAD4 유전자 맞춤형 수술 전 선행치료 연구(SMART-PANC)](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [절제 가능 또는 경계성 절제 가능 췌장암 환자에서 mFOLFIRINOX와 KRAS 암 면역요법 ELI-002 7P(tisle…](../trials/NCT07671339.md) | 1상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
@@ -74,13 +74,13 @@ search:
 | [PLATINUM 임상시험: BRCA1/2 또는 PALB2 변이 전이성 췌장암의 2차 치료를 위한 항암화학요법 최적화](../trials/NCT06115499.md) | 2상/3상 | 진행 중(모집 종료) | - |
 | [진행성 췌장암 환자에서 OT-101과 mFOLFIRINOX 병용요법을 평가하는 임상시험](../trials/NCT06079346.md) | 2상/3상 | 모집 중 | - |
 | [국소 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료 병용 임상시험](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
-| [경계성 절제 가능 및 국소 진행성 췌장암 환자에서 화학요법과 병용한 zimberelimab 및 quemliclustat 임상…](../trials/NCT05688215.md) | 1상/2상 | 모집 중 | - |
+| [경계성 절제 가능 및 국소 진행성 췌장암 환자에서 화학요법과 병용한 짐베렐리맙(zimberelimab) 및 켐리클루스타트(q…](../trials/NCT05688215.md) | 1상/2상 | 모집 중 | - |
 | [진행성 또는 전이성 고형암 환자에서 IMM-1-104의 제1/2a상 연구](../trials/NCT05585320.md) | 1상/2상 | 진행 중(모집 종료) | - |
 | [수술 가능 췌장암 환자에서 수술 전후 mFOLFIRINOX 치료 비교를 위한 3상 임상시험(NeoFOL-R)](../trials/NCT05529940.md) | 3상 | 모집 중 | 2 |
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
 | [수술 가능 췌장암에서 항암화학요법 이후 항생제와 pembrolizumab을 이용한 장내 미생물 조절](../trials/NCT05462496.md) | 2상 | 모집 중 | - |
 | [위암, 위식도접합부암, 췌장암 성인 환자를 대상으로 ASP2138 단독 또는 병용 투여하는 임상시험](../trials/NCT05365581.md) | 1상 | 모집 중 | 5 |
-| [고령 전이성 췌장암 환자에서 FOLFOX와 FOLFIRI 교대 투여 요법을 평가하는 2상 임상시험](../trials/NCT05360732.md) | 2상 | 진행 중(모집 종료) | - |
+| [65세 이상 전이성 췌장암 환자를 위한 FOLFOX와 FOLFIRI 교대 투여 2상 임상시험](../trials/NCT05360732.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [수술 가능 췌장암 환자를 위한 펨브롤리주맙 병용 선행화학요법(FOLFIRINOX) 후 수술](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
@@ -94,7 +94,7 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (13)
+## 타임라인 (14)
 
 <a id="pmid-42952105"></a>
 #### [선행 FOLFIRINOX 항암요법 및 비장동맥 전위술을 통한 복합 혈관 재건술 후 전췌장절제술을 시행한 61세 국소 진행성 췌장암 환자 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42952105/)
@@ -293,5 +293,21 @@ search:
 - 구체적인 생존기간, 반응률, 수술 성공률 등 세부 연구 수치는 제공된 텍스트에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42871417/) · [DOI](https://doi.org/10.21037/hbsn-2026-0282) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13659558/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42871417)</small>
+
+---
+<a id="pmid-42958068"></a>
+#### [췌장관선암의 유일한 임상 양상으로 나타난 췌장성 지방조직염: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42958068/)
+<small>Pancreatic panniculitis as the sole manifestation of pancreatic ductal adenocarcinoma: a case report</small>
+
+`논문` `증례` `진단·조기발견` `수술` `치료 전반` `지지요법·삶의질` · 2026-08-01 · PubMed · BMC Gastroenterol · 중요도 0.54
+
+이 논문은 복통이나 체중 감소 없이 림프절 결절 형태의 피부 증상만으로 내원한 79세 여성 환자의 증례를 보고합니다. 혈중 리파제(lipase) 수치가 상승해 있었고, 피부 조직검사와 복부 영상 검사를 통해 췌장두부의 췌장관선암(pancreatic ductal adenocarcinoma)과 동반된 췌장성 지방조직염(pancreatic panniculitis)으로 진단되었습니다. 환자는 총췌장절제술(total pancreatectomy)을 받았고 수술 후 보조항암치료로 mFOLFIRINOX를 시행했으며, 피부 병변은 수술 후 첫 주 이내에 소실되었습니다.
+
+- 79세 여성 환자가 복통이나 체중 감소 없이 하지의 통증을 동반한 피하 결절을 유일한 증상으로 내원했습니다.
+- 혈중 리파제 수치가 1000 U/L 이상으로 상승해 있었고, 피부 생검에서 췌장성 지방조직염의 특징적인 소견이 확인되었습니다.
+- 복부 영상 검사에서 췌장두부에 14mm 크기의 종괴가 발견되었고, 수술 후 조직검사에서 25mm 크기의 췌장관선암(pT2N2R0)으로 확진되었습니다.
+- 환자는 총췌장절제술과 mFOLFIRINOX 보조항암치료를 받았으며, 피부 병변은 수술 후 첫 주 안에 사라졌습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958068/) · [DOI](https://doi.org/10.1186/s12876-026-05174-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718008/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958068)</small>
 
 ---

@@ -29,11 +29,11 @@
   "circFOXK2는 PPIE와 MLL1의 결합을 방해하여 MLL1에 의한 H3K4 메틸화 및 유전자 활성화를 촉진합니다.",
   "이 기전을 통해 TMSB15B, BCAS1, TRIO, LAMA4, CYP26A1, TCP11 등의 유전자 발현이 증가합니다."
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": "10.1002/advs.77107",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13717413",
   "pmid": "42953949"
  },
  "pub_types": [

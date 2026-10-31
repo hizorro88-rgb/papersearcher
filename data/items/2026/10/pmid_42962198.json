@@ -1,0 +1,60 @@
+{
+ "abstract": "Neutrophil extracellular traps (NETs), DNA-protein complexes released by neutrophils, promote metastasis and immunosuppression in various cancers, but the prognostic value of NETs-related genes in pancreatic cancer (PC) remains unclear. We integrated multiple PC transcriptomic datasets from GEO with a curated NETs gene set. Differential expression analysis and WGCNA identified candidates, and three feature-selection methods (LASSO, SVM-RFE, random forest) selected core genes. A four-gene risk score model was constructed and validated in an independent cohort, with additional immune infiltration and drug-gene network analyses. In vitro experiments validated that SLC2A1 promotes PANC-1 cell proliferation, invasion, and NETs formation in neutrophil co-cultures. Four NETs-related genes (LAMC2, LAMB3, SLC2A1, ITGA2) were key prognostic markers for PC survival. The risk model showed strong predictive performance (AUC ~ 0.89 in training, > 0.90 in validation). High-risk tumors had more immunosuppressive cells and fewer effector T cells. Unsupervised clustering defined two PC subtypes with distinct metabolic and immune profiles. In vitro, elevated SLC2A1 in PANC-1 cells promoted proliferation, invasion, and NETs formation in neutrophil co-cultures. This multi-cohort analysis identifies a novel NETs-related four-gene signature and establishes a prognostic risk model for PC, highlighting the critical role of NETs biology in PC progression and provide a potential prognostic tool to facilitate patient stratification and guide precision oncology applications, with a foundation for future validation.",
+ "authors": [
+  "Zheng K",
+  "Gong W",
+  "Li M",
+  "Chen K",
+  "Zhang Q",
+  "Gou Z"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42962198",
+ "importance": 0.46,
+ "key_points_ko": [
+  "네 개의 NETs 관련 유전자(LAMC2, LAMB3, SLC2A1, ITGA2)가 췌장암 생존의 핵심 예후 마커로 확인되었습니다.",
+  "위험 모델의 예측 성능은 훈련 세트에서 AUC 약 0.89, 검증 세트에서 0.90 이상으로 나타났습니다.",
+  "고위험군 종양은 더 많은 면역억제 세포와 더 적은 이펙터 T세포(effector T cell)를 보였습니다.",
+  "체외 실험에서 SLC2A1 발현 증가가 PANC-1 세포의 증식, 침윤, NETs 형성을 촉진하는 것으로 검증되었습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1615/JEnvironPatholToxicolOncol.2025061067",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42962198"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Environ Pathol Toxicol Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962198/"
+ },
+ "summary_ko": "본 연구는 췌장암(Pancreatic Cancer, PC) 환자를 대상으로 호중구 세포외 트랩(Neutrophil extracellular traps, NETs) 관련 유전자의 예후적 가치를 분석했습니다. 여러 전사체 데이터셋을 통합하여 네 개의 유전자(LAMC2, LAMB3, SLC2A1, ITGA2)로 구성된 위험 점수 모델을 구축하고 검증했습니다. 모델의 예측 성능은 훈련 세트에서 AUC 약 0.89, 검증 세트에서 0.90 이상을 기록했습니다. 또한 실험을 통해 SLC2A1이 PANC-1 세포의 증식, 침윤 및 호중구 공동 배양에서의 NETs 형성을 촉진함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development of a NETs-Related Gene Signature in Pancreatic Cancer and Validation of SLC2A1's Potential in NETs Formation",
+ "title_ko": "췌장암에서 호중구 세포외 트랩(NETs) 관련 유전자 시그니처 개발 및 NETs 형성에 있어 SLC2A1의 잠재력 검증",
+ "trial": null,
+ "type": "paper"
+}

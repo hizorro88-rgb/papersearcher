@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic adenocarcinoma (PAC) remains the most lethal malignancies, with a 5-year survival rate of only around 12%. The dismal prognosis is largely attributable to late diagnosis, as early PAC is frequently asymptomatic and radiologically inconspicuous. Contemporary international guidelines recommend surveillance for well-defined high-risk groups, particularly carriers of pathogenic germline mutations such as BRCA2, STK11, and CDKN2A, as well as familial pancreatic cancer kindreds. In these settings, endoscopic ultrasound and magnetic resonance imaging are the recommended surveillance modalities. Recent advances in biomarker discovery, including circulating tumor DNA, methylation signatures of cell-free DNA, and extracellular vesicles, have demonstrated encouraging results, particularly when combined with CA19-9. Paraneoplastic phenomena such as pancreatic cancer-associated diabetes and cancer-induced cachexia provide additional opportunities for earlier clinical recognition. Parallel progress has been achieved in artificial intelligence-driven radiomics analysis and deep learning algorithms, which can increase the sensitivity of cross-sectional imaging for small or otherwise occult lesions. The integration of clinical risk stratification, molecular biomarkers, and AI-enhanced imaging represents a promising framework to shift diagnosis toward surgically resectable stages. This review synthesizes the current evidence, highlights recent advances, and discusses practical considerations for physicians to facilitate earlier detection of PAC.",
+ "authors": [
+  "Liao WC"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957528",
+ "importance": 0.69,
+ "key_points_ko": [
+  "췌장암은 초기 증상이 없고 영상으로 발견하기 어려워 진단이 늦어지며 5년 생존율은 약 12% 수준입니다.",
+  "유전자 변이(BRCA2, STK11, CDKN2A) 보유자 및 가족성 췌장암 고위험군은 내시경 초음파(EUS)와 자기공명영상(MRI)을 통한 정기적 감시 검사가 권장됩니다.",
+  "혈중 순환 종양 DNA(ctDNA), 세포외 소포체 등 새로운 바이오마커와 CA19-9 결합 검사, 인공지능(AI) 영상 분석 기법이 조기 진단 가능성을 높이고 있습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.jfma.2026.10.024",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957528"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Formos Med Assoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957528/"
+ },
+ "summary_ko": "본 종설 논문은 5년 생존율이 약 12%에 불과한 췌장암의 조기 진단률을 높이기 위한 최신 전략과 기술을 정리했습니다. BRCA2, STK11, CDKN2A 유전자 변이 보유자나 가족성 췌장암 고위험군을 대상으로 내시경 초음파(EUS) 및 자기공명영상(MRI) 감시 검사가 권장됩니다. 또한 혈중 순환 종양 DNA(ctDNA) 등 최신 생체 표지자(바이오마커)와 인공지능(AI) 기반 영상 분석, 췌장암 관련 당뇨병 등 당뇨·악액질 증상을 종합 활용하는 방안을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Strategies and tools for enhancing early detection of pancreatic cancer",
+ "title_ko": "췌장암 조기 진단 향상을 위한 전략 및 도구",
+ "trial": null,
+ "type": "paper"
+}

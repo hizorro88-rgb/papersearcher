@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Pancreatic panniculitis is a rare form of lobular panniculitis characterized by subcutaneous fat necrosis occurring at cutaneous sites distant from the pancreas. It is most often associated with pancreatitis, while pancreatic malignancies - dominated by acinar cell carcinoma - represent a minority of cases. Recognizing this cutaneous manifestation is important, as it may be the primary and sole manifestation of an underlying pancreatic neoplasm.\nCASE PRESENTATION: A 79-year-old female presented with a one-month history of painful subcutaneous nodules of the lower limbs without abdominal pain, weight loss, or other symptoms. Laboratory workup revealed elevated serum lipase levels (> 1000 U/L). Skin biopsy showed lobular panniculitis with characteristic \"ghost cells\", consistent with pancreatic panniculitis. Abdominal imaging identified a 14-mm mass in the head of the pancreas and endoscopic ultrasound-guided fine-needle aspiration suggested a well-differentiated adenocarcinoma. Given the resectable nature of the tumor and a favorable geriatric assessment, the patient underwent total pancreatectomy, which confirmed a 25-mm well-differentiated pancreatic ductal adenocarcinoma staged pT2N2R0, followed by adjuvant chemotherapy with mFOLFIRINOX. The cutaneous lesions resolved within the first postoperative week.\nCONCLUSIONS: Pancreatic panniculitis can be the sole manifestation of an underlying pancreatic malignancy; therefore, clinicians should consider this rare but important association. Serum lipase measurement should be included in the workup of any unexplained panniculitis, and pancreatic imaging should be promptly performed in case of high levels. Early recognition can lead to timely diagnosis and effective treatment.",
+ "authors": [
+  "Garcia A",
+  "Faye V",
+  "Jullien D",
+  "Billioud C",
+  "Benzoni L"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42958068",
+ "importance": 0.54,
+ "key_points_ko": [
+  "79세 여성 환자가 복통이나 체중 감소 없이 하지의 통증을 동반한 피하 결절을 유일한 증상으로 내원했습니다.",
+  "혈중 리파제 수치가 1000 U/L 이상으로 상승해 있었고, 피부 생검에서 췌장성 지방조직염의 특징적인 소견이 확인되었습니다.",
+  "복부 영상 검사에서 췌장두부에 14mm 크기의 종괴가 발견되었고, 수술 후 조직검사에서 25mm 크기의 췌장관선암(pT2N2R0)으로 확진되었습니다.",
+  "환자는 총췌장절제술과 mFOLFIRINOX 보조항암치료를 받았으며, 피부 병변은 수술 후 첫 주 안에 사라졌습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s12876-026-05174-w",
+  "nct": [],
+  "pmcid": "PMC13718008",
+  "pmid": "42958068"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-08-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958068/"
+ },
+ "summary_ko": "이 논문은 복통이나 체중 감소 없이 림프절 결절 형태의 피부 증상만으로 내원한 79세 여성 환자의 증례를 보고합니다. 혈중 리파제(lipase) 수치가 상승해 있었고, 피부 조직검사와 복부 영상 검사를 통해 췌장두부의 췌장관선암(pancreatic ductal adenocarcinoma)과 동반된 췌장성 지방조직염(pancreatic panniculitis)으로 진단되었습니다. 환자는 총췌장절제술(total pancreatectomy)을 받았고 수술 후 보조항암치료로 mFOLFIRINOX를 시행했으며, 피부 병변은 수술 후 첫 주 이내에 소실되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic panniculitis as the sole manifestation of pancreatic ductal adenocarcinoma: a case report",
+ "title_ko": "췌장관선암의 유일한 임상 양상으로 나타난 췌장성 지방조직염: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

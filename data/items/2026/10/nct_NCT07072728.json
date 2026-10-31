@@ -20,12 +20,12 @@
  "id": "nct:NCT07072728",
  "importance": 0.8,
  "key_points_ko": [
-  "목표 인원은 최소 87명의 성인 환자입니다.",
-  "환자들은 25 mg, 10 mg, 1 mg의 NPX-5 용량군에 1:1:1로 무작위 배정됩니다.",
-  "10주 차에 비반응자인 경우 최대 2회의 치료 주기(PAP cycle)까지 추가로 진행할 수 있습니다.",
-  "기대 여명이 최소 6개월 이상이고 ECOG 수행능력 0~2인 환자가 참여 대상입니다."
+  "목표 환자 수: 최소 87명의 성인 환자",
+  "투여 용량: NPX-5 25mg, 10mg, 1mg(저용량 대조군)",
+  "기대 여명: 담당 의사의 판단에 따라 최소 6개월 이상",
+  "ECOG 수행 능력: 0에서 2 사이"
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07072728"
  },
- "summary_ko": "이 연구는 암 진단으로 인해 적응장애(adjustment disorder)를 겪는 환자들을 대상으로 실로시빈(psilocybin) 기반 치료제인 NPX-5의 유효성과 안전성을 평가하는 제2b상 임상시험입니다. 18세에서 80세 사이의 성인 환자 약 87명을 대상으로 하며, 25 mg, 10 mg, 1 mg(저용량 비교군)의 NPX-5 용량군에 무작위 배정됩니다. 환자들은 투여 세션 전 준비 세션과 투여 후 통합 세션을 거치며, 10주 차에 비반응자인 경우 추가 치료 주기를 진행할 수 있습니다. 이를 통해 암 진단 후 발생하는 불안과 우울에 대한 새로운 치료법의 과학적 근거를 마련하고자 합니다.",
+ "summary_ko": "이 연구는 암 진단으로 인한 적응장애(adjustment disorder)를 겪는 암 환자를 대상으로 NPX-5를 활용한 실로시빈 보조 정신요법(psilocybin-assisted psychotherapy, PAP)의 유효성과 안전성을 평가합니다. 18세에서 80세 사이의 암 환자 87명을 목표로 하며, 25mg, 10mg, 1mg(저용량 대조군)의 NPX-5 용량군에 1:1:1로 무작위 배정됩니다. 참여자들은 투여 세션 전 준비 세션과 투여 후 통합 세션을 거치며, 10주 차에 비반응자일 경우 추가적인 PAP 주기를 진행할 수 있습니다. 본 연구는 암 진단 후 발생하는 불안과 우울에 대한 새로운 치료법의 과학적 근거를 마련하고자 합니다.",
  "summary_source": "llm",
  "tags": [
   "Cancer",
@@ -58,7 +58,7 @@
   "Psilocin"
  ],
  "title": "Psilocybin-Assisted Psychotherapy in Cancer Patients With Adjustment Disorder",
- "title_ko": "암 진단 후 적응장애 환자를 위한 실로시빈 보조 정신요법(PAP) 임상시험",
+ "title_ko": "암 환자의 적응장애 치료를 위한 실로시빈 보조 정신요법(PAP) 제2b상 임상시험",
  "trial": {
   "conditions": [
    "Adjustment Disorder",
@@ -80,7 +80,7 @@
     "phone": "+61481354373"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 스크리닝 시 ICD-11 기준 적응장애 진단 (ADNM-20 점수 ≥ 47.5, 고통 온도계 점수 ≥ 4)\n- 스크리닝 HAM-A 점수 ≥ 18 (중등도 불안)\n- 스크리닝 당시 18세에서 80세 사이의 성인\n- 암 진단 및 담당 주치의 판단상 최소 6개월의 기대 여명, ECOG 수행능력 0~2\n- 스크리닝부터 10주 차까지 새로운 정신과 약물이나 정신요법을 시작하지 않음에 동의\n- 영어 소통 및 연구 절차 수행이 가능하며 낮은 자살 위험을 보인 환자\n\n제외 기준:\n- 암 진단과 무관한 주요우울장애(MDD), 조현병, 조울증 등 중증 정신질환 병력\n- 1급 친족 중 진단된 정신증(psychotic disorder) 환자가 있는 경우\n- 12개월 이내 자살 시도력이 있거나 임상적으로 유의한 자살 위험이 있는 경우\n- 뇌전이, 교모세포종, 갈색세포종, 장폐색, 활동성 카르시노이드 증후군 등이 진단된 환자\n- 항정신병 약물, 단일아민산화효소 억제제, 항경련제, 기분 안정제를 복용 중이거나 투여가 필요한 환자",
+  "eligibility_ko": "선정 기준:\n- 스크리닝 시 ICD-11 기준 적응장애(AjD) 진단 (ADNM-20 점수 ≥ 47.5, 디스트레스 온도계 ≥ 4)\n- 스크리닝 시 HAM-A 점수 ≥ 18 (중등도 불안)\n- 18세에서 80세 사이의 성인\n- 암 진단 및 담당 의사 판단 기준 최소 6개월 이상의 기대 여명, ECOG 수행 능력 0~2\n- 스크리닝부터 10주 차까지 새로운 정신과 약물이나 정신요법을 시작하지 않기로 동의\n- 영어 소통 및 연구 절차 수행 가능\n\n제외 기준:\n- 암 진단과 무관한 현재 주요우울장애(MDD) 또는 정신조절 장애, 조현병, 조울증 등의 병력\n- 정신질환 진단받은 1촌 가족 있음\n- 임상적으로 유의미한 자살 위험이 있거나 스크리닝 전 12개월 이내 자살 시도 병력\n- 뇌전이, 교모세포종, 갈색세포종, 장폐색, 활동성 카르시노이드 증후군 등 진단\n- 전형적/비전형적 항정신병 약물 또는 단일아민산화효소 억제제(MAOI) 복용 중이거나 복용 계획이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\nTo be eligible for study entry participants must satisfy all of the following criteria:\n\n1. Screening AjD diagnosis (ICD-11), as defined by an ADNM-20 score ≥ 47.5, a score of ≥ 4 on the Distress Thermometer.\n2. Screening HAM-A Score ≥18 (moderate anxiety).\n3. Adults aged 18 to 80 years (inclusive) at screening.\n4. Diagnosed with cancer (exempting those cancers listed in the exclusion criteria) and a minimum life-expectancy of 6 months in the opinion of the treating physician, with performance status of 0-2 on the Eastern Cooperative Oncology Group (ECOG) scale performed at screening.\n5. Agrees not to commence any new psychiatric medications or psychotherapies from Screening to Week 10.\n6. Able to communicate well and follow study procedures, judged as sufficiently competent with the English language by the investigator, able to build adequate rapport with study staff.\n7. Judged to be of low suicide risk based on Sheehan-Suicide Tracking Scale (S-STS) and the opinion of a research team psychiatrist.\n8. Be medically suitable in the opinion of the investigator as determined by screening for medical problems via a personal interview, a medical questionnaire, a physical examination, an electrocardiogram (ECG), and blood tests.\n9. Have access to a device that is compatible to use the digital technology, i.e smart-phone device or tablet.\n10. Agree not to take any sedating medications for a minimum of 12 hours before the dosing session including benzodiazepines, zopiclone, eszopiclone, zaleplon and zolpidem. Medications for cancer-related pain are permitted.\n11. Must be willing and able to refrain from smoking throughout the duration of the dosing session. Nicotine replacement therapies may be permitted with the agreement of the medical monitor.\n12. Agree that for 1 week before the psilocybin dosing session, participants will refrain from taking any illegal drugs or non-prescription medication (including cannabis, or CBD or THC containing products), nutritional supplement, or herbal supplement except when approved by the study investigators. Additionally, agree not to take any form of psilocybin outside of the study, including microdosing, from baseline through Day 70/Week 10 (Visit 11).\n13. Participants taking any other medication that is not explicitly detailed as an excluded medication will be discussed with the investigator and medical monitor as appropriate. Decisions on inclusion will be based on clinical judgement and with sufficient justification provided.\n\nExclusion Criteria\n\nParticipants will be excluded from the study if one or more of the following criteria are applicable:\n\nPsychiatric Exclusion Criteria:\n\n1. Current Major Depressive Disorder MDD (or within 12 months of Screening) deemed independent from the cancer diagnosis, current or past diagnosis of schizophrenia, psychotic disorder, unless this was resulting from a medical condition (e.g. lupus or malaria etc.), bipolar disorder I and II, delusional disorder, paranoid personality disorder, schizoaffective disorder, borderline personality disorder, anti-social personality disorder or judged to be incompatible with establishment of rapport or safe exposure to psilocybin, as determined using clinical judgement of past and present medical and psychiatric history by any specialist psychiatrist or registered medical professional under the authorized delegation of a specialist psychiatrist.\n2. First-degree relative with a diagnosed psychotic disorder.\n3. Scores from the screening psychiatrist (or registered medical professional under the authorized delegation of a specialist psychiatrist) and baseline (S-STS) that indicate that the participant is of clinically significant risk of suicide. A decision will be formed based on S-STS scores and used in combination with other clinically significant data at screening. Sites should refer to the medical monitor if required.\n4. Has attempted suicide in the twelve months preceding the screening visit.\n5. Current (\\< 1 year) alcohol or drug misuse as identified as moderate or severe during screening in accordance with Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria, using the MINI 7.0.2, not able or willing to abstain from alcohol consumption in the period 12 hours prior to the dosing session.\n6. Any other reason that might prevent a participant from engaging in therapeutic preparation and integration sessions.\n7. Anyone who has taken a microdose of psilocybin within 5 days of baseline, taken a higher dose of psilocybin (e.g., dried mushrooms or capsules) within 30 days of baseline and experienced euphoria, hallucinations, or altered mental status, or used any classic psychedelics (LSD, ibogaine, ayahuasca, DMT, mescaline) within 3 months prior to baseline.\n\nMedical Exclusion Criteria:\n\n1. Diagnosed with brain metastases, glioblastoma, phaeochromocytoma, bowel obstruction or intestinal failure, active carcinoid syndrome, uncontrolled hypercalcaemia, or uncontrolled diabetes mellitus or insipidus.\n2. Currently taking or planning to take any of the following: any typical or atypical antipsychotic and monoamine-oxidase inhibitors. Participants with prior use of these medications must be willing to discontinue their use for at least 2 weeks prior to the baseline visit and to Day 28.\n3. Currently taking or planning to take any anticonvulsant or mood stabilizer, including carbamazepine, lithium, phenytoin, and valproate. Participants with prior use of these medications must be willing to discontinue their use for at least 1 week prior to the baseline visit and to Day 28.\n4. Any form of fungal allergy.\n5. Positive pregnancy test at screening, women who are breastfeeding or of childbearing potential who are unwilling or unable to use an effective form of contraception (or abstinence) for the study period and for 1 month post NPX-5 dose will be excluded. Women will be required to conduct a serum pregnancy test at the in-person screening visit and urine test prior to dosing session. Male participants who do not agree to use contraception for the study period and for 90 days post NPX-5 dose to mitigate the risk of pregnancy will also be excluded. Note: Refer to Section 4.3.2.1 for further details about contraception.\n6. A diagnosis of epilepsy or at significant risk of seizures based on medical history.\n7. Cardiovascular conditions including stroke and/or myocardial infarction (less than one year before providing informed consent), uncontrolled hypertension (blood pressure \\> 140/90 mmHg) or clinically significant arrhythmia at screening. Results are exempt if they are a direct result of the participant's cancer diagnosis and do not present a risk to administration of psilocybin, following discretion of the investigator.\n8. Anyone who, at screening, has clinically significant findings on physical examination, including resting vital signs (HR below 40 or above 120 bpm, blood pressure below 90/60 or above 140/90), ECG (QTcF \\> 450 msec for males and \\>470 for females), and positive alcohol breath test. Note: Inclusion of individuals with any out-of-range values, including blood pressure, is at the discretion of the Investigator.\n9. Liver dysfunction at screening as defined by AST and/or ALT \\> 1.5 times the upper level of normal or upper reference range. Results are exempt if they are a direct result of the participant's cancer diagnosis and do not present a risk to the administration of psilocybin, following discretion of the investigator.\n10. Renal Function: estimated glomerular filtration rate \\<60 mL/min (calculated using Chronic Kidney Disease Epidemiology Collaboration) unless this is a direct result of the cancer diagnosis and does not present a risk to the administration of psilocybin, following the discretion of the investigator.\n11. Any clinically significant laboratory abnormality(s) that in the opinion of the investigator would present a risk to the administration of psilocybin.\n12. Any clinically significant renal, pulmonary, gastrointestinal, hepatic, or other illness that could affect the interpretation of results or be a potential health risk for the person if they were to be included in the study. Results are exempt if they are a direct result of the participant's cancer diagnosis and do not present a risk to administration of psilocybin, following discretion of the investigator.\n13. Below 18 or above 32kg/m2 Body Mass Index (BMI) score at Screening.\n14. Anyone with organic brain injury or diagnosed with any cognitive impairment.\n15. Positive urine drug test for non-prescribed psychoactive substances at the dosing session visit. Positive urine drug test for psychoactive substances at the in-person screening should be referred to the medical monitor. Note: Testing may be repeated once at the discretion of the Investigator.\n16. Anyone on a research study of an investigational drug or who has been on a clinical trial within 3 months of enrolment.",
   "enrollment": 87,
   "has_results": false,
@@ -97,15 +97,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "뇌전이 등 특정 동반 질환이 있는 경우",
-    "조현병, 양극성 장애 등 중증 정신질환 병력",
-    "최근 12개월 이내 자살 시도 병력",
-    "항정신병 약물 또는 항경련제 복용 중인 경우"
+    "뇌전이 및 기타 주요 합병증(교모세포종, 장폐색 등) 진단",
+    "조현병, 조울증 등 주요 정신질환 병력",
+    "임상적으로 유의미한 자살 위험",
+    "금지된 정신과 약물(항정신병 약물, MAOI 등) 복용"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "암 진단 후 적응장애(불안/우울)를 겪고 있는 18~80세 암 환자",
+   "notes_ko": "암 진단 후 적응장애를 겪고 있는 18~80세의 암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

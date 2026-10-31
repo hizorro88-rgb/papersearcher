@@ -1,0 +1,67 @@
+{
+ "abstract": "BACKGROUND: Pancreatic neuroendocrine tumors (PNETs) are rare neoplasms of the digestive system, with variable prognoses and biological behaviors. Surgical resection remains the mainstay of treatment. Objective: To evaluate the clinicopathological characteristics and surgical outcomes of patients with PNETs who underwent resection at the Hospital de Clínicas, UNICAMP.\nMETHODS: This is a retrospective cohort study including 24 patients who underwent surgical resection between 2013 and 2023. Clinical, demographic, histopathological, and survival data were analyzed. The primary outcome was overall survival.\nRESULTS: The mean age was 53.9 ± 14.4 years, with a predominance of female patients (66.7%). Most tumors were nonfunctioning (79.1%), with abdominal pain (79.2%) and weight loss (50%) being the most common symptoms. The surgical procedures performed were distal pancreatectomy (54.2%), pancreaticoduodenectomy (41.6%), and enucleation (4.2%). Histological classification revealed 62.5% grade 2 tumors, 33.3% grade 1, and 4.2% MiNEN. Mean overall survival was 70.4 ± 58 months. There was a trend toward longer survival in grade 1 tumors (98 ± 68.1 months) compared to grade 2 (59.1 ± 49.5 months; P=0.06). Postoperative mortality was 8.3%, associated with pancreaticoduodenectomy.\nCONCLUSION: Histological grading remains a key prognostic factor in PNETs. Surgical resection remains the cornerstone of treatment. Multicenter studies are necessary to validate these findings on a larger scale.",
+ "authors": [
+  "Ferreira MMS",
+  "Tafner PFDA",
+  "Gestic MA",
+  "Utrini MP",
+  "Callejas-Neto F",
+  "Cazzo E"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "whipple",
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42961246",
+ "importance": 0.68,
+ "key_points_ko": [
+  "총 24명의 환자가 수술적 절제를 받았으며, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월입니다.",
+  "조직학적 분류는 2등급(grade 2)이 62.5%, 1등급(grade 1)이 33.3%, MiNEN이 4.2%였습니다.",
+  "1등급 종양의 평균 생존기간은 98 ± 68.1개월, 2등급은 59.1 ± 49.5개월로 1등급에서 더 긴 생존 경향을 보였습니다(P=0.06).",
+  "수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1590/S0004-2803.24612025-089",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42961246"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.54,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Arq Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42961246/"
+ },
+ "summary_ko": "이 연구는 2013년부터 2023년까지 췌장 신경내분비종양(PNET)으로 수술적 절제를 받은 환자 24명을 대상으로 한 후향적 코호트 연구입니다. 환자들의 임상병리학적 특징과 수술 후 결과를 분석했습니다. 연구 결과, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월이었으며, 1등급 종양이 2등급에 비해 더 긴 생존 경향을 보였습니다. 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 연관되었습니다. 저자들은 조직학적 등급이 PNET의 핵심 예후 인자라고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "PANCREATIC NEUROENDOCRINE TUMORS: CLINICOPATHOLOGICAL ANALYSIS AND POSTOPERATIVE SURVIVAL FOLLOWING SURGICAL RESECTION-A DECADE OF EXPERIENCE AT A TERTIARY UNIVERSITY HOSPITAL",
+ "title_ko": "췌장 신경내분비종양: 수술적 절제 후 임상병리학적 분석 및 수술 후 생존율 - 3차 대학병원에서의 10년간 경험",
+ "trial": null,
+ "type": "paper"
+}

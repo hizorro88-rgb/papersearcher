@@ -33,8 +33,23 @@ search:
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (7)
+## 타임라인 (8)
 
+<a id="pmid-42956743"></a>
+#### [췌장암에서 KRAS G12D 표적 치료 감수성은 인터페론 신호전달 활성화에 의존합니다](https://pubmed.ncbi.nlm.nih.gov/42956743/)
+<small>KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-29 · PubMed · Cancer Cell · 중요도 0.60
+
+본 연구는 242개의 환자 유래 오가노이드(PDO)와 종양 조직을 분석하여 KRAS G12D 표적 치료에 대한 내성 기전을 조사했습니다. 면역 신호전달 경로의 저발현이 내성과 연관되어 있음을 밝혔습니다. 민감한 모델에서 인터페론 신호전달을 억제하면 내성이 유도되었고, 저항성 모델에서 인터페론 신호전달을 활성화하면 감수성이 증가했습니다. 인터페론 베타(IFN-β)와 KRAS 억제제(MRTX1133, HRS-4642, RMC-6236)를 병용했을 때 내성 췌장암 모델에서 시너지 항종양 효과가 관찰되었습니다.
+
+- 242개의 환자 유래 오가노이드(PDO) 분석을 통해 내성 아집단을 규명했습니다.
+- 인터페론 베타(IFN-β)와 KRAS 억제제의 병용 투여는 내성 췌장암에서 시너지 항종양 효과를 보였습니다.
+- 지속적인 MYC 활성은 KRAS 억제에 대한 감수성 감소 및 인터페론 신호전달 억제와 연관되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956743/) · [DOI](https://doi.org/10.1016/j.ccell.2026.10.003) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956743)</small>
+
+---
 <a id="pmid-42906097"></a>
 #### [이전 치료를 받은 전이성 췌장암에서의 daraxonrasib: 답변](https://pubmed.ncbi.nlm.nih.gov/42906097/)
 <small>Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer. Reply</small>

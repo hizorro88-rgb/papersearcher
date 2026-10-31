@@ -1,0 +1,64 @@
+{
+ "abstract": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and matched tumor tissues reveals a KRASG12D-mutant subset intrinsically resistant to KRASG12D-targeted therapeutics, characterized by marked downregulation of innate immune signaling pathways. Functional validation demonstrates that suppressing interferon signaling in sensitive models induces resistance, whereas activation of interferon signaling, particularly interferon beta (IFN-β), increases sensitivity in resistant models. Combining IFN-β with KRAS inhibitors (MRTX1133, HRS-4642, and RMC-6236) exhibits synergistic antitumor effects in intrinsically resistant pancreatic cancer. Mechanistically, sustained MYC activity is associated with attenuated sensitivity to KRAS inhibition and correlates with repressed interferon signaling, suggesting a potential role in promoting intrinsic resistance. These findings identify interferon signaling as a candidate determinant of KRAS-targeted therapy response and support interferon-based combinations as a potential strategy for intrinsically resistant pancreatic cancer.",
+ "authors": [
+  "Zhang Y",
+  "Tang S",
+  "Zhang Y",
+  "Liu J",
+  "Shi X",
+  "Li Y",
+  "Li Y",
+  "Wang H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42956743",
+ "importance": 0.6,
+ "key_points_ko": [
+  "242개의 환자 유래 오가노이드(PDO) 분석을 통해 내성 아집단을 규명했습니다.",
+  "인터페론 베타(IFN-β)와 KRAS 억제제의 병용 투여는 내성 췌장암에서 시너지 항종양 효과를 보였습니다.",
+  "지속적인 MYC 활성은 KRAS 억제에 대한 감수성 감소 및 인터페론 신호전달 억제와 연관되었습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.ccell.2026.10.003",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42956743"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Cell",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42956743/"
+ },
+ "summary_ko": "본 연구는 242개의 환자 유래 오가노이드(PDO)와 종양 조직을 분석하여 KRAS G12D 표적 치료에 대한 내성 기전을 조사했습니다. 면역 신호전달 경로의 저발현이 내성과 연관되어 있음을 밝혔습니다. 민감한 모델에서 인터페론 신호전달을 억제하면 내성이 유도되었고, 저항성 모델에서 인터페론 신호전달을 활성화하면 감수성이 증가했습니다. 인터페론 베타(IFN-β)와 KRAS 억제제(MRTX1133, HRS-4642, RMC-6236)를 병용했을 때 내성 췌장암 모델에서 시너지 항종양 효과가 관찰되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer",
+ "title_ko": "췌장암에서 KRAS G12D 표적 치료 감수성은 인터페론 신호전달 활성화에 의존합니다",
+ "trial": null,
+ "type": "paper"
+}

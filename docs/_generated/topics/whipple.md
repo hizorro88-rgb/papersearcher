@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [주요 개복 복부 수술에서 통증 관리 계획의 적용 및 비교 연구](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
+| [대형 개복 수술에서의 통증 관리 계획 시행](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
@@ -30,8 +30,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (16)
+## 타임라인 (19)
 
+<a id="pmid-42957379"></a>
+#### [동서양을 넘어서: 췌십이지장절제술에서 광범위 박리 술식의 해부학적 수렴](https://pubmed.ncbi.nlm.nih.gov/42957379/)
+<small>Beyond East and West: Anatomical Convergence of Radical Dissection Techniques in Pancreatoduodenectomy</small>
+
+`논문` `종설` `수술` `치료 전반` · 2026-10-29 · PubMed · ANZ J Surg · 중요도 0.72
+
+췌장암의 유일한 완치 목적 치료법인 췌십이지장절제술 후에도 국소 재발률은 여전히 높게 보고됩니다. 이 종양학적 결과를 개선하기 위해 동양과 서양에서 발전한 체계적 췌장간막 박리술(SMD-PD/CA-HA 시스템)과 트라이앵글 술식(TRIANGLE operation)을 비교 분석했습니다. 두 술식은 용어와 접근법 설명은 다르지만, 실제로는 상장간막동맥, 복강동맥, 간문맥으로 둘러싸인 삼각형 영역의 연부조직을 동일하게 절제함을 확인했습니다. 연구진은 이러한 근치적 박리 술식이 국소 재발률을 낮춘다는 근거에 따라 더 널리 도입될 필요가 있다고 평가했습니다.
+
+- 동양과 서양에서 각각 발전한 광범위 췌십이지장절제술 술식들의 수술 원리와 해부학적 박리 범위를 비교 분석했습니다.
+- 용어와 접근 방식의 차이에도 불구하고, 두 방식 모두 상장간막동맥·복강동맥·간문맥 사이 삼각형 부위 연부조직을 동일하게 완전히 제거하는 것으로 나타났습니다.
+- 기존 근거들에 따르면 이러한 광범위 박리술은 국소 재발률을 낮추는 경향을 보였으나, 장기 생존 결과를 확증하기 위한 추가 연구가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957379/) · [DOI](https://doi.org/10.1111/ans.71039) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957379)</small>
+
+---
 <a id="pmid-42950589"></a>
 #### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
 <small>Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021</small>
@@ -60,6 +75,22 @@ search:
 - 체성분 지표가 환자의 임상 치료 지침에 직접 적용되기 위해서는 표준화 및 전향적 임상 검증이 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42949101/) · [DOI](https://doi.org/10.3791/74133) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42949101)</small>
+
+---
+<a id="pmid-42961246"></a>
+#### [췌장 신경내분비종양: 수술적 절제 후 임상병리학적 분석 및 수술 후 생존율 - 3차 대학병원에서의 10년간 경험](https://pubmed.ncbi.nlm.nih.gov/42961246/)
+<small>PANCREATIC NEUROENDOCRINE TUMORS: CLINICOPATHOLOGICAL ANALYSIS AND POSTOPERATIVE SURVIVAL FOLLOWING SURGICAL RESECTION-A DECADE OF EXPERIENCE AT A TERTIARY UNIVERSITY HOSPITAL</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` `신경내분비종양` · 2026-10-26 · PubMed · Arq Gastroenterol · 중요도 0.68
+
+이 연구는 2013년부터 2023년까지 췌장 신경내분비종양(PNET)으로 수술적 절제를 받은 환자 24명을 대상으로 한 후향적 코호트 연구입니다. 환자들의 임상병리학적 특징과 수술 후 결과를 분석했습니다. 연구 결과, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월이었으며, 1등급 종양이 2등급에 비해 더 긴 생존 경향을 보였습니다. 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 연관되었습니다. 저자들은 조직학적 등급이 PNET의 핵심 예후 인자라고 결론지었습니다.
+
+- 총 24명의 환자가 수술적 절제를 받았으며, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월입니다.
+- 조직학적 분류는 2등급(grade 2)이 62.5%, 1등급(grade 1)이 33.3%, MiNEN이 4.2%였습니다.
+- 1등급 종양의 평균 생존기간은 98 ± 68.1개월, 2등급은 59.1 ± 49.5개월로 1등급에서 더 긴 생존 경향을 보였습니다(P=0.06).
+- 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
 
 ---
 <a id="pmid-42905299"></a>
@@ -275,5 +306,20 @@ search:
 - 스텐트 제거 및 수술적 치료 후 환자의 패혈증이 해결되고 안정된 상태로 퇴원했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866830/) · [DOI](https://doi.org/10.21037/gs-2026-0237) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657713/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866830)</small>
+
+---
+<a id="pmid-42958223"></a>
+#### [췌십이지장절제술을 위한 예방적 항생제: 타조박탐/피페라실린과 암피실린/설박탐을 비교하는 다기관 무작위 배정 임상시험 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42958223/)
+<small>Prophylactic antibiotics for pancreaticoduodenectomy: study protocol for a multicenter randomized controlled trial comparing tazobactam/piperacillin versus ampicillin/sulbactam</small>
+
+`논문` `무작위` `수술` `지지요법·삶의질` `임상시험` · 2026-08-01 · PubMed · BMC Surg · 중요도 0.80
+
+췌십이지장절제술(PD) 후 흔히 발생하는 수술 부위 감염(SSI)을 예방하기 위해 두 가지 예방적 항생제를 비교하는 다기관 무작위 배정 임상시험의 연구 계획서입니다. 췌십이지장절제술을 받는 환자 320명을 대상으로 타조박탐/피페라실린(TAZ/PIPC) 또는 암피실린/설박탐(ABPC/SBT)을 투여하도록 배정합니다. 수술 후 30일 이내에 발생하는 수술 부위 감염 발생률의 차이를 확인하여 최적의 예방적 항생제 요법을 규명하고자 합니다.
+
+- 췌십이지장절제술을 받는 환자 총 320명을 대상으로 TAZ/PIPC와 ABPC/SBT를 1:1로 비교합니다.
+- 일차 평가변수는 미국 질병통제예방센터(CDC) 기준에 따른 수술 후 30일 이내 수술 부위 감염(SSI) 발생률입니다.
+- 수술 전 담즙 배액술 여부, 최소 침습 수술 여부, 췌관선암(PDAC) 여부에 따라 층화 무작위 배정이 이루어집니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958223/) · [DOI](https://doi.org/10.1186/s12893-026-04092-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717995/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958223)</small>
 
 ---

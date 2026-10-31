@@ -1,0 +1,132 @@
+{
+ "abstract": "Genetic testing can alter therapy and surgical management for cancer patients and is therefore indicated as a first-line test for many newly diagnosed patients, including breast, ovarian, pancreatic, prostate and colon/GI patients. To reduce pressure on already constrained genetics clinics across Canada, some cancer centres are 'mainstreaming' genetic testing - whereby genetic testing is initiated and mediated by oncologists without traditional pre-test genetic counseling (GC) often using some form of paper-based patient pamphlets or videos. There is no standard, evidence-based approach to mainstreaming, leading to significant practice variation, a lack of coordinated care and ultimately, negative psychological impacts on patients. Digital solutions can address these gaps by providing a standardized, coordinated and patient-centered approach to deliver cancer genetic education. However, digital solutions for providing cancer genetics services are uncommon and clinical-effectiveness and service delivery outcomes have not been well-assessed. This study will test a digital mainstreaming platform called the Genetics Adviser for Mainstream care to assess its effectiveness in improving psychological outcomes and patient-centred care for mainstream cancer patients compared to standard of care.\n\nBackground: Germline genetic testing can alter therapy and surgical management for cancer patients. Yet, the rising demands for genetic testing and counseling has added pressure to already constrained genetic counseling (GC) service models that require extensive pre-test GC with a genetic counselor. Many cancer genetics centres are 'mainstreaming' genetic testing, replacing traditional pre-test GC, where genetic testing is initiated and mediated by oncologists, using clinician checklists, patient pamphlets, or videos. Most evidence on cancer genetics mainstream models to date derives from uncontrolled, non-randomized studies with limited outcomes. Electronic patient portals and digital decision tools have been shown to improve psychological outcomes.\n\nRationale: There is no standard, evidence-based approach to 'mainstreaming', leading to significant practice variation, a lack of coordinated care and ultimately, negative psychological impacts on patients. Digital solutions can address these gaps by providing a standardized, coordinated and patient-centred approach to deliver cancer genetic counseling. This study will address these gaps by testing the effectiveness of the Genetics Adviser for Mainstream Care (GA-Mainstream), building on our rigorously-evaluated digital health application called the Genetics Adviser.\n\nPrimary Objective: Assess the clinical effectiveness of the GA-Mainstream in improving psychological outcomes (e.g. test-specific distress), and patient-centred care (e.g. knowledge, and empowerment) for mainstream cancer patients compared to those receiving standard mainstream care.\n\nSecondary Objectives:\n\n* Measure the impact of the GA-Mainstream on patients' risk perceptions and intent to follow clinical recommendations (e.g. surveillance, treatment changes, or cascade testing).\n* Assess efficiencies in turnaround time to test result disclosure and time spent in genetic counselling sessions between groups.\n* Understand the experiences of patients and providers with the GA-Mainstream and the process of receiving genetic testing results through the platform.\n\nHypotheses\n\n* Patients who use the GA-Mainstream will report lower distress and higher knowledge and empowerment compared to standard-of-care mainstream patients.\n* Patients using the GA-Mainstream will have more accurate risk perceptions and higher intent to follow clinical recommendations.\n* Using the GA-Mainstream will reduce turnaround time and increase efficiency during genetic counselling sessions.\n\nMethods: This is a mixed-method, non-blinded randomized controlled superiority trial. The trial will evaluate whether the use of the GA-Mainstream reduces test-specific distress compared to standard mainstream genetic testing. As part of this trial, patients will receive germline genetic testing.\n\nStudy Population: Adult patients (aged \\>18 years) referred for mainstream cancer genetic testing related to ovarian, pancreatic, breast, prostate, or GI cancers.\n\nSample Size: Our primary outcome, test-specific distress measured using the MICRA, has an accepted minimal clinically important difference (MCID) of 2.5. Assuming this, 64 participants/arm (128 total) are estimated to be required to have 80% power at a 2-sided significance level of 0.05 to detect the MCID using a standard two-sample t-test.\n\nIntervention: Participants in the intervention arm will use the GA-Mainstream to support the delivery of their genetic test results, including collecting cancer medical history and family cancer history, pre- and post-result education. The GA-Mainstream will supplement mainstream standard of care.\n\nControl: Participants in the control arm will receive standard of care for mainstream patients as outlined by the clinic where the patient is being seen, which consists of a patient pamphlet, video, or clinician checklist for pre-test counseling and results disclosure by either a genetic counselor or oncologist with post-test counseling of select patients.\n\nPrimary Outcome: The primary outcome is test- specific distress, measured by the Multidimensional Impact of Cancer Risk Assessment (MICRA).\n\nSecondary Outcomes: Generalized distress, measured by the Hospital Anxiety and Depression Scale (HADS); Knowledge, measured by the KnowGene questionnaire; empowerment, measured by the Genomics Outcome Scale (GOS-6); Self-efficacy, measured by the Genetic self-efficacy scale; Quality of life measured by the 12-item Short Form Health Survey (SF-12); Satisfaction with genetics education and intended health behaviour change, assessed by team developed questions; Satisfaction with digital tool measured by the Digital Health Application Satisfaction Scale (DHASSP); digital health literacy measured by digital health care literacy scale; health literacy measured by the BRIEF Health Literacy Screening tool.\n\nTurnaround times will be measured by documenting time between blood draw, return of result and result disclosure by the clinician. Time saved will be measured by capturing time spent preparing for the session, during the session with the genetic counselor, and after the session across both arms. Frequency of platform use will also be documented and duration of platform use by recording platform access dates and time.\n\nQuantitative Analysis: Analysis will follow the intention-to-treat approach. Mean scores for test-specific distress will be compared using a t-test. Secondary outcomes of generalized distress, empowerment, and knowledge will also be analyzed using a t-test for hypothesis-generating purposes; therefore no multiplicity corrections will be applied. Mean wait times, total consult times and frequency and duration of use between arms will be analyzed descriptively and compared using a t-test. P-values will be set at 0.05 (two-tailed).\n\nQualitative Study: Following the trial, qualitative interviews will explore users' experiences with the GA-Mainstream. This will be used to explore participants' experiences, perceptions, and needs related to the use of the GA - Mainstream platform. A purposeful sample of study participants will be used. A mix of intervention arm participants (n=30) will be identified across cancer type, result type, and demographic characteristics to assess patient experience using the GA-Mainstream.\n\nQualitative Analysis: The qualitative analyses will draw on an interpretive description approach, using open coding and constant comparison to identify common and divergent themes. Interviews will consider participants' socio-demographic factors that may influence their informational and decisional needs, as well as how they engage with genetic information and participate in shared decision making. Two researchers will code transcripts independently; consensus on codes will be reached through discussion. Ongoing analysis will inform the development of progressive iterations of the interview guides.\n\nMixed-Methods Integration: The quantitative and qualitative data will be integrated to understand whether the tool is effective, including how and why it may influence outcomes such as distress, empowerment, and risk perception. Quantitative and qualitative findings will be narratively described and integrated using a convergent design matrix and joint displays, merged if appropriate.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07387263",
+ "importance": 0.69,
+ "key_points_ko": [
+  "총 180명의 암 환자를 대상으로 디지털 유전자 교육 앱(GA-Mainstream)과 기존 표준 방식을 비교합니다.",
+  "암 위험 평가 다차원 영향 지표(MICRA)를 통해 유전자 검사 관련 심리적 스트레스를 주요 평가 지표로 측정합니다.",
+  "유전자 관련 지식 level, 환자 역량 강화, 검사 결과 전달 소요 시간 등의 이차 평가 지표를 분석합니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07387263"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-02-04",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Unity Health Toronto",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07387263"
+ },
+ "summary_ko": "이 임상시험은 암 환자를 대상으로 종양전문의가 주도하는 유전자 검사 시 디지털 플랫폼(GA-Mainstream)의 효과를 평가합니다. 췌장암, 유방암, 난소암, 전립선암, 위장관암 환자 180명을 대상으로 진행됩니다. 기존 표준 안내 방식과 비교하여 유전자 검사 관련 심리적 스트레스 감소와 환자 중심 교육 효과를 평가합니다. 무작위 대조 연구(RCT) 방식으로 생식세포 유전자 검사(Germline genetic testing) 전달 체계의 우수성을 검증합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Cancer Genetic Testing",
+  "Randomized Controlled Trial",
+  "Digital Tool",
+  "Mainstreaming",
+  "Genetic counseling",
+  "Cancer",
+  "Genetic testing",
+  "Service Delivery",
+  "Alternative service delivery model"
+ ],
+ "title": "Mainstreaming Genetics: Evaluation of a Digital Application to Scale and Spread Oncologist-initiated Genetic Testing",
+ "title_ko": "유전자 검사 대중화: 종양전문의 주도 유전자 검사 확산을 위한 디지털 애플리케이션 평가",
+ "trial": {
+  "conditions": [
+   "Cancer",
+   "Breast Cancer",
+   "Prostate Cancer",
+   "Colon Cancer",
+   "GI Cancers",
+   "Ovarian Cancer",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "marc.clausen@unityhealth.to",
+    "name": "Marc Clausen, MA",
+    "phone": "416-864-6060"
+   },
+   {
+    "email": "d.abdassamad@mail.utoronto.ca",
+    "name": "Daniel Assamad, MHSc",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": "선정 기준: • 종양전문의 주도로 원발성 암(난소암, 췌장암, 유방암, 전립선암, 위장관암) 관련 생식세포 유전자 검사를 받는 환자 • 만 18세 이상 • 영어 읽기 및 말하기가 가능한 환자 제외 기준: • 유전상담 클리닉 직접 의뢰를 통해 유전자 검사 정보를 제공받는 환자 • 영어 읽기 또는 말하기가 불가능한 환자 • 만 18세 미만 • 의사 결정 능력이 저하되거나 변동이 있는 환자 • 인터넷 또는 전자 기기 사용이 불가능한 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Receiving mainstream cancer germline testing related to primary cancer condition (ie. ovarian, pancreas, breast, prostate, or GI cancers) initiated by an oncologist.\n* 18 years old or older.\n* Speak and read English\n\nExclusion Criteria:\n\n* Receiving genetic testing information via a referral to a genetics clinic\n* Do not speak or read English\n* Under 18 years of age\n* Determined to have diminished, marginal and or fluctuating decisional capacity\n* Lack access to internet or an electronic device",
+  "enrollment": 180,
+  "has_results": false,
+  "interventions": [
+   "Genetics Adviser for Mainstream Care (GA-Mainstream)",
+   "Mainstreaming Standard of Care"
+  ],
+  "last_update_posted": "2026-10-30",
+  "location_countries": [
+   "Canada"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "유전상담 클리닉으로 직접 의뢰되어 유전자 검사 정보를 받는 환자",
+    "인터넷 또는 전자 기기 사용이 불가능한 환자",
+    "의사결정 능력이 저하되거나 제한된 환자",
+    "영어 읽기 및 말하기가 불가능한 환자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "종양전문의를 통해 생식세포 유전자 검사를 받게 되는 췌장암 등 성인 암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07387263",
+  "phase": "NA",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "Unity Health Toronto",
+  "start_date": "2026-04-30",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

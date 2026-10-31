@@ -1,0 +1,58 @@
+{
+ "abstract": "[This corrects the article DOI: 10.3892/ol.2019.10041.].",
+ "authors": [
+  "He Y",
+  "Liu Y",
+  "Gong J",
+  "Liu C",
+  "Zhang H",
+  "Wu H"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42960001",
+ "importance": 0.6,
+ "key_points_ko": [
+  "이 문서는 췌장관선암 생물정보학 분석 논문의 오류를 정정하는 고지입니다.",
+  "구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.3892/ol.2026.15920",
+  "nct": [],
+  "pmcid": "PMC13717820",
+  "pmid": "42960001"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncol Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960001/"
+ },
+ "summary_ko": "본 문서는 췌장관선암(PDAC)의 주요 경로 및 후보 유전자 분석 연구 논문에 대한 정정 고지입니다. 원문(DOI: 10.3892/ol.2019.10041)의 오류를 정정하기 위해 발표되었습니다. 정정 사항에 대한 구체적인 연구 수치나 상세 내용은 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Erratum: [Corrigendum] Identification of key pathways and candidate genes in pancreatic ductal adenocarcinoma using bioinformatics analysis",
+ "title_ko": "정정 고지: 생물정보학 분석을 통한 췌장관선암의 주요 경로 및 후보 유전자 동정",
+ "trial": null,
+ "type": "paper"
+}

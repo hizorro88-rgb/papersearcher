@@ -19,11 +19,12 @@ search:
 - 표적/기전: PARP inhibitor (gBRCA)
 - 개발사: AstraZeneca / Merck
 
-## 관련 임상시험 (4)
+## 관련 임상시험 (5)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [진행성 또는 전이성 고형암 환자를 위한 경구용 MOMA-313 연구](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
+| [Pembrolizumab With Olaparib as Combined Therapy in Metastatic Pancrea…](../trials/NCT05093231.md) | 2상 | 진행 중(모집 종료) | - |
 | [절제 수술 및 수술 전후 항암치료를 완료한 BRCA1, BRCA2 또는 PALB2 변이 췌장암 환자 대상 올라파립 유지요법…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
 | [유전성 BRCA 변이 전이성 췌장암 환자에서 올라파립 단독 대비 면역항암제 펨브롤리주맙 병용 유지요법을 평가하는 2상 임상시험](../trials/NCT04548752.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 고형암에서 DNA 손상, 신생혈관생성, PD-L1 억제제를 평가하는 연구](../trials/NCT03851614.md) | 2상 | 진행 중(모집 종료) | - |

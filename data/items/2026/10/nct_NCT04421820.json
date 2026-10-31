@@ -24,11 +24,11 @@
  "id": "nct:NCT04421820",
  "importance": 0.87,
  "key_points_ko": [
-  "임상시험 목표 인원은 총 220명이며 국내 5개 기관에서 진행 중입니다.",
-  "BOLD-100은 혈액학적 독성과 신경독성이 낮아 표준 항암제와 병용하기 적합하도록 개발되었습니다.",
-  "진행성 소화기암 환자들을 대상으로 용량 에스컬레이션 및 코호트 팽창 연구가 진행됩니다."
+  "목표 인원은 총 220명이며 국내 5개 기관이 참여합니다.",
+  "BOLD-100은 세포독성 항암요법과 병용할 수 있도록 혈액학적 독성과 신경독성이 적도록 설계되었습니다.",
+  "환자들은 BOLD-100과 FOLFOX ± Bevacizumab 병용 치료를 받습니다."
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -51,11 +51,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04421820"
  },
- "summary_ko": "본 임상시험은 진행성 소화기암(대장암, 췌장암, 위암, 담관암) 환자를 대상으로 BOLD-100과 표준 항암화학요법인 FOLFOX(± bevacizumab)를 병용하여 안전성과 내인성을 평가하는 1b/2a상 연구입니다. BOLD-100은 정맥 투여하는 저분자 루테늄 기반 약물로, 종양 세포 내 GRP78 발현을 억제합니다. 본 연구는 용량 에스컬레이션 코호트와 코호트 팽창 단계로 진행되며, 국내 5개 기관이 참여합니다.",
+ "summary_ko": "이 임상시험은 진행성 소화기암(대장암, 췌장암, 위암, 담관암) 환자를 대상으로 신약 BOLD-100을 표준 치료인 FOLFOX ± Bevacizumab 항암화학요법과 병용하여 안전성과 내인성을 평가하는 1상/2상 연구입니다. BOLD-100은 종양 세포에서 GRP78 발현을 줄이는 루테늄 기반의 저분자 항암 치료제입니다. 이 연구는 용량 맹검 및 확대 코호트를 통해 진행되며, 국내 5개 기관을 포함하여 환자를 모집하고 있습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "BOLD-100 in Combination With FOLFOX With or Without Bevacizumab for the Treatment of Advanced, Solid Tumours",
- "title_ko": "진행성 고형암 환자를 위한 BOLD-100과 FOLFOX(± bevacizumab) 병용 요법",
+ "title_ko": "진행성 소화기암 환자를 위한 FOLFOX 및 Bevacizumab 병용 BOLD-100 임상시험",
  "trial": {
   "conditions": [
    "Colorectal Cancer",
@@ -75,7 +75,7 @@
     "phone": "604-262-9934"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인.\n- 전이성 또는 절제 불가능한 조직학적으로 확진된 소화기암 환자로, FOLFOX ± bevacizumab 치료 대상인 자.\n- RECIST v1.1 기준 측정 가능한 병변이 있는 자.\n- 기대 여명이 최소 16주 이상인 자.\n- ECOG 수행능력 점수 0 또는 1인 자.\n\n제외 기준:\n- 2등급 초과의 말초 신경병증이 있는 자.\n- 5-fluorouracil, oxaliplatin, bevacizumab에 대한 이전 불내성이 있거나 심각한 부작용이 있었던 자.\n- 최근 6개월 이내 뇌졸중(cerebrovascular accident) 병력이 있는 자.\n- 중추신경계(CNS) 전이 또는 연수막 종양이 있거나 병력이 있는 자.\n- 심각한 심장 질환 병력이 있는 자.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인.\n- 조직학적 또는 세포학적으로 확진된 전이성 또는 절제 불가능한 소화기암으로 FOLFOX ± Bevacizumab 치료 대상자.\n- RECIST v1.1 기준 측정 가능한 병변 존재.\n- 예상 생존 기간 16주 이상.\n- ECOG 수행능력 평가 0 또는 1.\n\n제외 기준:\n- 2등급 초과의 말초 신경병증.\n- 5-FU, oxaliplatin, bevacizumab에 대한 이전 과민 반응 또는 불내성.\n- 최근 6개월 이내 뇌졸중(Cerebrovascular accident) 병력.\n- 중추신경계(CNS) 전이 또는 연수막 종양 병력.\n- 심각한 심장 질환 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Be 18 years or older.\n2. Be male or non-pregnant females who agree to comply with applicable contraceptive requirements of the protocol.\n3. Histologically and/or cytologically confirmed gastrointestinal tumours that are metastatic or unresectable, and are subject to receive FOLFOX ± Bevacizumab. (ARM VII): Patients must have received only 1 prior line of therapy in the metastatic setting.\n4. Have measurable disease according to RECIST v1.1.\n5. Have an anticipated survival of at least 16 weeks.\n6. Be ambulatory, with an ECOG performance score of 0 or 1.\n7. Have adequate organ function.\n8. Be on stable doses of any drugs that may affect hepatic drug metabolism or renal drug excretion.\n9. Be fully informed about their illness and the investigational nature of the study protocol, and sign a REB-approved Informed Consent Form (ICF).\n10. (ARM VII): BRAF wild-type tumour status.\n\nExclusion Criteria:\n\n1. Neuropathy \\> grade 2\n2. Previous intolerance to or significant reaction secondary to fluorouracil, oxaliplatin, or bevacizumab.\n3. Cerebrovascular accident within the past 6 months before the start of treatment.\n4. History or presence of central nervous system (CNS) metastasis or leptomeningeal tumours.\n5. Any serious medical conditions that might be aggravated by treatment or limit compliance.\n6. Any history of serious cardiac illness.\n7. Hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months before the start of treatment.\n8. Any other known malignancy within 3 years before the start of treatment.\n9. Active gastrointestinal tract disease with malabsorption syndrome.\n10. Non-healing wound, fracture, or ulcer, or presence of symptomatic peripheral vascular disease.\n11. Treatment with radiation therapy or surgery within 4 weeks prior to starting treatment.\n12. Recent history of weight loss \\> 10% of current body weight in past 3 months before the start of treatment.\n13. HIV-positive subjects on combination anti-retroviral therapy due to the potential for PK interactions with the study agent.\n14. Concurrent use of another investigational therapy or anti-cancer therapy within 4 weeks before the start of treatment.\n15. Currently breastfeeding\n16. Dihydropyrimidine Dehydrogenase (DPD) deficiency\n17. Current or prior treatment with potent inhibitors of Dihydropyrimidine Dehydrogenase (DPD)\n18. (ARM VII): Prior exposure to BOLD-100\n19. (ARM VII): Subjects with microsatellite-high (MSI-H) Tumours\n20. (ARM VII): Concurrent monoclonal antibody therapy for mCRC (anti-EGFR, anti-VEGF or anti-HER2)",
   "enrollment": 220,
   "has_results": false,
@@ -132,14 +132,14 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "2등급 초과의 신경병증",
-    "중추신경계(CNS) 전이 병력",
+    "중추신경계 전이 병력",
     "심각한 심장 질환 병력",
-    "최근 6개월 이내 뇌졸중 병력"
+    "최근 6개월 이내 출혈 병력"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "FOLFOX 치료가 예정된 진행성 소화기암 환자",
+   "notes_ko": "진행성 소화기암(췌장암 포함) 환자 대상 BOLD-100 병용 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

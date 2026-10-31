@@ -1,0 +1,60 @@
+{
+ "abstract": "Over the past decade, the important role of nerves in the growth and progression of pancreatic cancer has been increasingly recognized. The most abundant cell type present in the nerves, Schwann cells (SCs), can be reprogrammed by cancer cells and fibrotic extracellular matrix (ECM), facilitating perineural invasion of cancer cells in the pancreatic ductal adenocarcinoma (PDAC). Activated SCs form tracks, which are then populated and used by cancer cells for invasion. Intravital microscopy of the pancreas under the pathological conditions holds the potential to visualize and decipher real-time interactions of SCs with the cancer cells, ECM, and host cells in the tumor microenvironment and to delineate SC activation dynamics and the responses to targeted therapies. Here, we describe a protocol for high-resolution intravital microscopy of Schwann cells, ECM, and cancer cells using mouse models of PDAC or pancreatitis.",
+ "authors": [
+  "Stupakov P",
+  "Velazquez-Quesada I",
+  "Sadatrezaei G",
+  "Gaino F",
+  "Wong RJ",
+  "Deborde S",
+  "Gligorijevic B"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957951",
+ "importance": 0.64,
+ "key_points_ko": [
+  "마우스 모델을 이용해 췌장 질환 환경에서 슈반 세포와 암세포, 세포외 기질 간 실시간 상호작용을 관찰하는 고해상도 현미경 프로토콜입니다.",
+  "슈반 세포는 암세포 및 세포외 기질에 의해 재프로그래밍되어 암세포의 신경 침윤 경로를 형성합니다.",
+  "종양 미세환경 내 슈반 세포의 활성화 상태와 표적 치료에 대한 반응을 규명하는 연구 도구로 활용될 수 있습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1007/978-1-0716-5591-7_6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957951"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2027-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Methods Mol Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957951/"
+ },
+ "summary_ko": "본 연구는 췌장암 및 췌장염 마우스 모델에서 슈반 세포(Schwann cells), 세포외 기질(ECM), 암세포를 고해상도로 관찰하는 생체 내 다광자 현미경(Intravital multiphoton microscopy) 기술 프로토콜을 설명합니다. 신경에 가장 풍부한 슈반 세포는 췌관선암(PDAC) 미세환경에서 재프로그래밍되어 암세포의 신경 주위 침윤을 촉진합니다. 이 관찰 기술은 종양 미세환경 내 슈반 세포의 활성화 역학과 표적 치료 반응을 실시간으로 분석하는 데 활용됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Intravital Multiphoton Microscopy of Schwann Cells in Mouse Models of Pancreatic Disease",
+ "title_ko": "췌장 질환 마우스 모델에서 슈반 세포의 생체 내 다광자 현미경 관찰법",
+ "trial": null,
+ "type": "paper"
+}

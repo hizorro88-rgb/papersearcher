@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is a highly lethal malignancy, and its incidence is increasing among younger individuals. Although smoking, alcohol use, and unhealthy diet are established risk factors, the cumulative impact of multiple lifestyle exposures on age at diagnosis remains unclear. This study aimed to estimate the combined burden of lifestyle and environmental risks associated with the timing of pancreatic cancer diagnosis.\nMETHODS: We conducted a hospital-based retrospective case-only study including 134 patients diagnosed with pancreatic cancer between 2020 and 2025. Data on family history of pancreatic cancer, cigarette smoking, alcohol consumption, dietary patterns, exercise, and occupational chemical exposure were collected through structured interviews and medical record reviews. Cox proportional hazards models using age at diagnosis as the time scale were used to evaluate associations between exposures and earlier diagnosis. Lifestyle factors were integrated into a cumulative exposure index and analyzed using Cox models with adjustment for the remaining covariates.\nRESULTS: The mean age at diagnosis was 64.8 years. A significant difference in age at diagnosis was observed across smoking categories, with current smokers having the youngest mean age, whereas no significant difference was observed across alcohol consumption categories. Patients with triple exposure had the youngest mean age at diagnosis (55.5 years), followed by those with double (63.5 years), single (64.8 years), and no (69.0 years) exposures. Compared with no exposure, single, double, and triple exposures were associated with progressively higher hazards of earlier diagnosis (HR = 1.79, 95% CI: 1.14-2.81, p = 0.011; HR = 2.97, 95% CI: 1.67-5.28, p < 0.001; and HR = 6.66, 95% CI: 3.35-13.22, p < 0.001, respectively).\nCONCLUSIONS: Our findings indicate a significant association between a higher combined exposure index and earlier age at pancreatic cancer diagnosis. This exposure-response gradient suggests that a greater accumulation of adverse lifestyle exposures corresponds to earlier age at diagnosis among affected patients.\nTRIAL REGISTRATION: Not applicable.",
+ "authors": [
+  "Lee FJ",
+  "Chien LC",
+  "Lin JT",
+  "Yeh CC",
+  "Lin RT"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42958510",
+ "importance": 0.67,
+ "key_points_ko": [
+  "전체 연구 참여 환자 134명의 평균 췌장암 진단 연령은 64.8세였습니다.",
+  "위험 요인 노출 개수에 따른 평균 진단 연령은 노출 없음 69.0세, 1가지 노출 64.8세, 2가지 노출 63.5세, 3가지 노출 55.5세였습니다.",
+  "노출이 없는 경우와 비교하여 더 어린 나이에 진단될 위험비(HR)는 1가지 노출 시 1.79(p=0.011), 2가지 노출 시 2.97(p<0.001), 3가지 노출 시 6.66(p<0.001)으로 점차 증가했습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s12876-026-05297-0",
+  "nct": [],
+  "pmcid": "PMC13718021",
+  "pmid": "42958510"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958510/"
+ },
+ "summary_ko": "본 연구는 생활습관 및 환경 위험 요인의 누적이 췌장암 진단 연령에 미치는 영향을 확인하기 위해 시행되었습니다. 2020년부터 2025년까지 췌장암으로 진단받은 환자 134명의 의료 기록과 인터뷰 자료를 후향적으로 분석했습니다. 연구 결과 흡연, 음주, 불건강한 식습관 등 유해 생활습관 노출이 누적될수록 췌장암을 진단받는 연령이 유의하게 낮아지는 경향을 보였습니다. 유해 노출 요인이 3개인 환자는 노출이 없는 환자에 비해 훨씬 젊은 나이에 췌장암을 진단받았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association between a combined lifestyle exposure index and age at pancreatic cancer diagnosis: a hospital-based retrospective study",
+ "title_ko": "복합 생활습관 노출 지수와 췌장암 진단 연령 간의 연관성: 병원 기반 후향적 연구",
+ "trial": null,
+ "type": "paper"
+}

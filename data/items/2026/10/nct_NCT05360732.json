@@ -22,11 +22,11 @@
  "id": "nct:NCT05360732",
  "importance": 0.87,
  "key_points_ko": [
-  "65세 이상의 미치료 전이성 췌장암 환자 37명을 대상으로 FOLFOX와 FOLFIRI를 14일 간격으로 교차 투여하는 요법을 평가합니다.",
-  "웨어러블 기기(FitBit)를 활용해 환자의 일상 활동량과 혈액 지표, 치료 독성 간의 상관관계를 추적합니다.",
-  "20명의 환자가 치료를 받은 후 치료 지속 가치를 검토하는 중간 무용성 분석을 진행합니다."
+  "목표 환자 수는 총 37명이며, 20명 치료 후 효용성 분석을 실시합니다.",
+  "65세 이상의 새로 진단된 미치료 전이성 췌장암 환자가 대상입니다.",
+  "치료 효과와 독성은 8주마다 CT 촬영과 함께 핏비트(FitBit)를 이용한 활동량 측정 등으로 평가합니다."
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -49,17 +49,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05360732"
  },
- "summary_ko": "만 65세 이상의 이전에 전신 치료를 받지 않은 전이성 췌장암 환자를 대상으로 FOLFOX와 FOLFIRI를 교대로 투여하는 요법의 내약성과 안전성을 평가하는 2상 임상시험입니다. 환자들은 28일을 한 주기로 하여 1일 차에는 FOLFOX, 14일 차에는 FOLFIRI를 표준 용량으로 교대 투여받습니다. 연구진은 참가자에게 스마트 밴드(FitBit)를 지급하여 일상 활동량을 기록하고, 혈액 지표 및 질병 진행 경과를 치료 독성 발생과 연관 지어 분석합니다. 질병이 진행되거나 부작용이 발생할 때까지 치료를 지속하며 8주마다 반응을 평가합니다.",
+ "summary_ko": "이 연구는 65세 이상의 신규 진단된 미치료 전이성 췌장암 환자 37명을 대상으로 FOLFOX와 FOLFIRI 요법을 번갈아 투여하는 치료법의 내인성과 독성을 평가하는 다기관 2상 파일럿 연구입니다. 환자들은 표준 용량의 항암화학요법을 받으며, 제공된 핏비트(FitBit)를 통한 일상 활동량, 혈액 표지자, 질병 진행 상황을 치료 중 관찰된 독성과 연관시켜 평가합니다. 치료는 질병이 진행되거나 중단 조건에 해당할 때까지 지속되며, 종단 반응은 8주마다 CT 스캔으로 평가합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Redefining FOLFIORINOX in Older Pancreatic Cancer Patients",
- "title_ko": "고령 전이성 췌장암 환자에서 FOLFOX와 FOLFIRI 교대 투여 요법을 평가하는 2상 임상시험",
+ "title_ko": "65세 이상 전이성 췌장암 환자를 위한 FOLFOX와 FOLFIRI 교대 투여 2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "[선정 기준] - 만 65세 이상 - 조직학적 또는 세포학적으로 진단된 미치료 전이성 췌관선암 (수술 후 국소 재발 포함) - RECIST v1.1 기준 측정 가능한 병변 보유 - ECOG 수행능력 점수 0~2점 - 등록 6개월 이전 완료된 보조항암화학요법 및 2주 이전 완료된 방사선 치료 허용 - 포괄적 노인 평가(Comprehensive Geriatric Assessment) 수행 가능 및 적절한 주요 장기 기능 보유 [제외 기준] - 전이성 또는 국소진행성(수술 불가) 병기에서 전신 항암치료를 받은 병력 - 뇌전이 병력 (치료 여부 무관) - 3등급 이상의 기저 감각 말초신경병증 또는 2주 이상 지속되는 만성 설사 - 울혈성 심부전, 불안정 협심증, 부정맥 등 조절되지 않는 심장질환이나 활동성 감염 - 포괄적 노인 평가상 최근 1개월 내 2회 이상 낙상 병력 또는 체질량지수(BMI) 18 미만",
+  "eligibility_ko": "선정 기준:\n- 65세 이상\n- 조직학적 또는 세포학적으로 확진된 신규 진단, 이전 치료력이 없는 췌관선암(adenocarcinoma)\n- 최소 1개의 전이 병변이 있고 RECIST v1.1 기준에 따라 측정 가능한 병변 보유\n- 동유럽항암치료협력그룹(ECOG) 수행능력 상태 0~2\n- 골수 및 장기 기능이 규정된 기준을 충족하는 환자\n\n제외 기준:\n- 내분비성 또는 아선방세포 췌장암\n- 전이성 또는 국소 진행성 절제 불가 상태에서 전신 항암화학요법을 받은 적이 있는 환자\n- 동동 뇌전이가 있는 환자\n- 조절되지 않는 동반 질환 또는 면역 결핍이 있는 환자\n- 3등급 이상의 기저 감각 신경병증이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age 65 years or older\n2. The treating physician will use their discretion when assessing if the patient is eligible for this treatment.\n3. Patients must have newly diagnosed and previously untreated, histologically or cytologically confirmed adenocarcinoma of the pancreas, with at least one site of metastatic disease (local recurrences after surgery allowed), with lesions that are measurable by RECIST v1.1 criteria. In patients with mixed histology tumors, the predominant feature must be adenocarcinoma.\n4. Eastern Cooperative Oncology Group Performance status of 0-2.\n5. Previous surgery, adjuvant chemotherapy and/or radiation therapy will be allowed, provided radiation therapy is completed at least 2 weeks prior to signing consent and adjuvant therapy was administered more than 6 months prior to signing consent.\n6. Patients must have bone marrow and organ function as defined below:\n\n   * Absolute Neutrophil Count ≥ 1,500/μL\n   * Platelets ≥ 100,000/μL\n   * Total Bilirubin ≤2 X ULN\n   * AST(SGOT)/ALT(SGPT)/\n\n     o Alkaline Phasphatase ≤3 X ULN\n\n     o Or ≤5x ULN if liver metastasis present\n   * Creatinine ≤2.0 mg/dL And\n   * eGFR (using Cockcroft Gault equation) \\> 40ml/min\n7. Patients must be fluent in English and must be able and willing to undergo Comprehensive Geriatric Assessment\n8. Chemotherapy is harmful to the human fetus. For this reason, sexually active males with partners of childbearing potential must agree to use an accepted and effective method of contraception prior to study entry and for the duration of the study.\n9. Patients must demonstrate ability to understand and the willingness to sign a written informed consent document.\n10. Men and women, regardless of race, ethnic group or sexual orientation are eligible for this study.\n\nExclusion Criteria:\n\n1\\. Endocrine or acinar pancreatic carcinoma\n\n2 Patients who have had any systemic chemotherapy in the metastatic or locally advanced inoperable setting (adjuvant or neoadjuvant therapy is allowed)\n\n3 Patients who have received radiation therapy within 2 weeks of signing consent.\n\n4 Patients who are currently receiving or have previously received any other investigational therapy for metastatic pancreatic cancer.\n\n5 Patients with known brain metastases - treated or untreated, are excluded from this study because of their poor prognosis and frequent development of progressive neurological dysfunction that would confound the evaluation of neurologic and other adverse events.\n\n6 Any patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy, known HIV-positive patients and those with known active or inactive hepatitis B, untreated HCV or treated HCV without a documented sustained virologic response are excluded from the study.\n\n7 Patients with uncontrolled intercurrent illness including, but not limited to, ongoing or active bacterial infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n\n8 Patients with evidence of active malignancy within 2 years of enrollment without definitive treatment. Patients with localized prostate cancer status-post surgical resection or definitive radiation, localized ER/PR+/HER2- breast cancer status-post definitive local treatment with a low OncotypeDx® on adjuvant hormonal therapy, or local skin cancers that were previously resected will be eligible for inclusion. Patients with a history of in situ cancers treated with definitive local therapy will also be eligible.\n\n9 Patients with grade 3 or higher baseline sensory neuropathy\n\n10 Patients with chronic diarrhea (\\>4 bowel movements/day) unresolved despite best supportive care for greater than 2 weeks.\n\n11 Patients with any of the following results on the Comprehensive Geriatric Assessment:\n\n* \\>2 falls in the past month\n* BMI \\<18",
   "enrollment": 37,
   "has_results": false,
@@ -76,17 +76,23 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "뇌전이 병력",
-    "3등급 이상의 말초신경병증 또는 조절되지 않는 만성 설사",
-    "심부전, 불안정 협심증 등 심장 질환 또는 활동성 감염",
-    "최근 1개월 내 2회 이상 낙상 병력 또는 저체중(BMI 18 미만)",
-    "최근 2년 이내 다른 활동성 암 병력"
+    "뇌전이",
+    "활동성 감염 또는 조절되지 않는 심장 질환",
+    "3등급 이상의 신경병증",
+    "다른 암 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "전이 단계에서 전신 항암치료를 받은 적이 없는 65세 이상 전이성 췌장암 환자",
-   "prior_excluded": [],
+   "notes_ko": "이전 전신 항암 치료를 받지 않은 65세 이상 전이성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane"
+   ],
    "prior_required": [],
    "setting": [
     "metastatic"

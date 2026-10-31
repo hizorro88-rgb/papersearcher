@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic gastrointestinal stromal tumors (PGISTs) are exceptionally rare mesenchymal neoplasms, accounting for less than 1% of all pancreatic tumors. Owing to their rarity, current evidence is limited to isolated case reports, and the optimal surgical management and oncologic outcomes remain poorly defined. We report a case of PGIST managed with surgical resection and present a pooled narrative review of surgically treated cases to better characterize their clinicopathological features and outcomes. A thorough literature review was conducted utilizing databases such as PubMed and Scopus to identify cases of surgically treated, biopsy-confirmed PGIST up to March 2026. These cases were then combined with our case to create a comprehensive narrative review. The clinicopathological and oncological outcomes were systematically documented and categorized by tumor location (head/neck versus body/tail) for comparative analysis. Recurrence-related factors were analyzed using both univariate and multivariate logistic regression. Thirty-six reports with 40 patients were included. The median age was 53 years, and 28 tumors were located in the pancreatic head/neck and 12 in the body/tail. Median tumor size was 5.6 versus 11.0 cm (p=0.132). Recurrence was seen in 20% of patients (25% vs 8.3%; p=0.407), with 1- and 2-year disease-free survival (DFS) rates of 88% and 78%, respectively. High-risk tumors were associated with recurrence on univariate analysis (OR 5.2, 95% CI 1.0-26.5; p=0.05) but not multivariate analysis (OR 4.5, 95% CI 0.90-22.0; p=0.07). Tumor location was not an independent predictor of recurrence (multivariate OR 2.8, 95% CI 0.30-25.0; p=0.36). Pancreatic GIST (PGIST) has favorable outcomes with complete surgical resection and risk-adapted use of imatinib and has behaved similarly to conventional GIST than pancreatic adenocarcinoma, The anatomical location of pancreatic gastrointestinal stromal tumors (GISTs) does not independently affect patient outcomes. Instead, the tumor's biological characteristics remain the primary determinants of prognosis.",
+ "authors": [
+  "Kaushal G",
+  "Rathore KS",
+  "Soni A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42961548",
+ "importance": 0.72,
+ "key_points_ko": [
+  "수술을 시행한 췌장 위장관기질종양 환자 40명의 1년 및 2년 무질병 생존율(DFS)은 각각 88%와 78%였습니다.",
+  "전체 환자의 재발률은 20%였으며 종양의 위치는 재발에 독립적인 영향을 미치지 않았습니다(다변량 OR 2.8, p=0.36).",
+  "췌장 위장관기질종양은 췌관선암과 달리 완전 절제 및 적절한 치료 시 통상적인 GIST에 준하는 양호한 예후를 보였습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1007/s13304-026-02899-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42961548"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42961548/"
+ },
+ "summary_ko": "전체 췌장 종양의 1% 미만을 차지하는 극히 드문 췌장 위장관기질종양(PGIST) 환자의 수술 증례를 보고하고, 기존 문헌에서 수술 치료를 받은 총 40명의 임상 결과를 종합 분석했습니다. 분석 결과 환자들의 1년 및 2년 무질병 생존율(DFS)은 각각 88%와 78%였으며 전체 재발률은 20%로 나타났습니다. 종양의 해부학적 위치(두경부 대 체미부)는 재발에 독립적인 영향을 미치지 않았습니다. 췌장 위장관기질종양은 완전한 수술적 절제와 위험도에 따른 imatinib(이마티닙) 사용 시 통상적인 췌관선암보다 일반적인 GIST와 유사하게 양호한 치료 경과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic gastrointestinal stromal tumor: a case report and narrative review of 40 surgically resected cases",
+ "title_ko": "췌장 위장관기질종양: 증례 보고 및 수술적 절제 40례에 대한 서술적 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

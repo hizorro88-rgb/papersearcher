@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer remains a leading cause of cancer-related mortality, and pancreatoduodenectomy is the only potentially curative treatment. Despite surgical resection, local recurrence rates remain high. Three surgical procedures have been described to improve oncological outcomes: Pancreatoduodenectomy with Systematic Mesopancreas Dissection (SMD-PD) using a Supracolic Anterior Artery-first Approach, Staged Approach for Dissection Along the Celiac and Hepatic Artery (CA-HA System) During Pancreaticoduodenectomy, and the TRIANGLE operation. In this expert comparative review, we considered the SMD-PD and the CA-HA system as a single combined approach (Level 3 SMD-PD/CA-HA system) and compared it with the TRIANGLE operation. We analysed the two surgical techniques, focusing on their surgical principles, technical descriptions, and anatomical extent. Although described using different terminology and dissection strategies, analysis of their representative images reveals that both approaches clear the same anatomical area: the soft tissue within the triangle bordered by the superior mesenteric artery, celiac axis, and portal vein. This convergence in actual anatomical clearance, despite divergent descriptions, represents the central finding of this review. Given the available evidence suggesting lower local recurrence rates with these radical approaches, wider adoption is encouraged, while acknowledging that further studies are still needed to confirm long-term oncological outcomes.",
+ "authors": [
+  "Faria-Teixeira I",
+  "Rebelo P",
+  "Inoue Y",
+  "Hackert T",
+  "Pandanaboyana S",
+  "Bouça-Machado T"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957379",
+ "importance": 0.72,
+ "key_points_ko": [
+  "동양과 서양에서 각각 발전한 광범위 췌십이지장절제술 술식들의 수술 원리와 해부학적 박리 범위를 비교 분석했습니다.",
+  "용어와 접근 방식의 차이에도 불구하고, 두 방식 모두 상장간막동맥·복강동맥·간문맥 사이 삼각형 부위 연부조직을 동일하게 완전히 제거하는 것으로 나타났습니다.",
+  "기존 근거들에 따르면 이러한 광범위 박리술은 국소 재발률을 낮추는 경향을 보였으나, 장기 생존 결과를 확증하기 위한 추가 연구가 필요합니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1111/ans.71039",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957379"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ANZ J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957379/"
+ },
+ "summary_ko": "췌장암의 유일한 완치 목적 치료법인 췌십이지장절제술 후에도 국소 재발률은 여전히 높게 보고됩니다. 이 종양학적 결과를 개선하기 위해 동양과 서양에서 발전한 체계적 췌장간막 박리술(SMD-PD/CA-HA 시스템)과 트라이앵글 술식(TRIANGLE operation)을 비교 분석했습니다. 두 술식은 용어와 접근법 설명은 다르지만, 실제로는 상장간막동맥, 복강동맥, 간문맥으로 둘러싸인 삼각형 영역의 연부조직을 동일하게 절제함을 확인했습니다. 연구진은 이러한 근치적 박리 술식이 국소 재발률을 낮춘다는 근거에 따라 더 널리 도입될 필요가 있다고 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond East and West: Anatomical Convergence of Radical Dissection Techniques in Pancreatoduodenectomy",
+ "title_ko": "동서양을 넘어서: 췌십이지장절제술에서 광범위 박리 술식의 해부학적 수렴",
+ "trial": null,
+ "type": "paper"
+}

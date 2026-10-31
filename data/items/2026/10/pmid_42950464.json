@@ -5,7 +5,8 @@
   "Wei W"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "observational",
@@ -19,7 +20,12 @@
  ],
  "id": "pmid:42950464",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 125명의 췌장관선암 환자(저분화 77명, 비저분화 48명)가 분석에 참여했습니다.",
+  "저분화 종양은 40 keV VMI, 요오드 농도, 유효 원자번호, 스펙트럴 곡선 기울기에서 유의하게 낮은 값을 보였습니다(P < .05).",
+  "다중 파라미터 결합 모델은 AUC 0.75의 예측 성능을 달성했습니다.",
+  "정맥기 기반의 간소화된 노모그램(nomogram)은 AUC 0.68을 기록했습니다."
+ ],
  "last_updated": "2026-10-30",
  "links": {
   "doi": "10.1016/j.crad.2026.107492",
@@ -41,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42950464/"
  },
- "summary_ko": "AIM: Preoperative assessment of the pathological grade of pancreatic ductal adenocarcinoma (PDAC) is critical for determining therapeutic strategies, yet conventional imaging often lacks sensitivity. This study investigated the incremental value of multiparametric spectral computed tomography (CT) imaging in the noninvasive prediction of PDAC differentiation.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장관선암(PDAC)의 비침습적 분화도 예측을 위해 다중 파라미터 스펙트럴 컴퓨터단층촬영(CT)의 유용성을 조사했습니다. 병리학적으로 확진된 췌장관선암 환자 125명을 대상으로 삼중기 조영증강 스펙트럴 CT의 정량적 파라미터를 후향적으로 분석했습니다. 저분화 종양은 비저분화 종양에 비해 40 keV 가상단색화상(VMI), 요오드 농도(IC), 유효 원자번호(Zeff), 스펙트럴 곡선 기울기(λHU)에서 유의하게 낮은 값을 보였습니다. 세 가지 단계를 결합한 다중 파라미터 모델은 수술 전 등급 예측에서 중간 수준의 성능(곡선 아래 면적[AUC] 0.75)을 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Preoperative prediction of pathological grading in pancreatic ductal adenocarcinoma: the incremental value of multiparametric spectral computed tomography",
- "title_ko": null,
+ "title_ko": "췌장관선암의 수술 전 병리학적 등급 예측: 다중 파라미터 스펙트럴 CT의 추가적 가치",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND/AIM: We identified a new growth factor, hepatoma-derived growth factor (HDGF), and reported that its expression is associated with the prognosis of various cancer types, including pancreatic cancer. Recently, we determined that alkylglycerone phosphate synthase (AGPS) gene is a target of HDGF in hepatoma cells. Herein, we examined the possible involvement of HDGF and AGPS in pancreatic cancer progression.\nMATERIALS AND METHODS: The growth-promoting effect of HDGF on pancreatic cancer cells (Suit-2) was evaluated in vitro. Using the public database UCSC Xena, the expression of HDGF between normal and cancerous pancreatic tissues was compared. The relevance of the expression of HDGF to the prognosis of pancreatic cancer was assessed using two public cancer databases (UCSC Xena and Kaplan-Meier Plotter). The correlation between the expression of AGPS in pancreatic cancer tissue and the expression of HDGF was examined and the expression of AGPS between normal and cancerous pancreatic tissues compared. Furthermore, the association between the expression of AGPS and the prognosis of pancreatic cancer was examined.\nRESULTS: The administration of recombinant HDGF protein promoted in vitro pancreatic cancer cell proliferation. HDGF expression in pancreatic cancer tissues from patients was higher than that in normal pancreatic tissues. Additionally, two different databases revealed that high expression of HDGF was associated with a poor prognosis in patients with pancreatic cancer. The expression of AGPS was positively correlated with the HDGF expression in pancreatic cancer tissues. In addition to the expression of HDGF, the expression of AGPS in pancreatic cancer tissues was higher than that in normal pancreatic tissues and high expression of AGPS was associated with the poor prognosis of pancreatic cancer.\nCONCLUSION: HDGF and AGPS are suggested to be involved in pancreatic cancer progression.",
+ "authors": [
+  "Enomoto H",
+  "Yoshioka R",
+  "Yuri Y",
+  "Aizawa N",
+  "Donkai T",
+  "Tokura N",
+  "Takashima T",
+  "Ikeda N"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957255",
+ "importance": 0.54,
+ "key_points_ko": [
+  "재조합 HDGF 단백질 투여는 in vitro에서 췌장암 세포(Suit-2)의 증식을 촉진했습니다.",
+  "환자의 췌장암 조직에서 HDGF와 AGPS의 발현은 정상 췌장 조직보다 높았습니다.",
+  "HDGF와 AGPS의 높은 발현은 췌장암 환자의 불량한 예후와 연관성을 보였습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.21873/invivo.14485",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957255"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "In Vivo",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957255/"
+ },
+ "summary_ko": "이 연구는 간세포유래 성장인자(hepatoma-derived growth factor, HDGF)와 그 표적 유전자 인자인 알킬글리세롤인산 신테이스(alkylglycerone phosphate synthase, AGPS)가 췌장암 진행에 관여하는지 조사했습니다. 연구진은 실험실 환경(in vitro)에서 췌장암 세포주(Suit-2)에 재조합 HDGF 단백질을 투여하여 세포 증식 촉진 효과를 평가하고, 공공 데이터베이스를 통해 정상 조직과 암 조직 간의 발현 차이 및 예후와의 상관관계를 분석했습니다. 분석 결과, HDGF와 AGPS 모두 췌장암 조직에서 정상 조직보다 높게 발현되었으며, 두 단백질의 높은 발현은 췌장암 환자의 불량한 예후와 연관이 있는 것으로 나타났습니다. 결론적으로 HDGF와 AGPS는 췌장암의 진행에 관여하는 것으로 시사됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Possible Relevance of Hepatoma-derived Growth Factor and Alkylglycerone Phosphate Synthase to Pancreatic Cancer Progression",
+ "title_ko": "간세포유래 성장인자(HDGF)와 알킬글리세롤인산 신테이스(AGPS)가 췌장암 진행에 미치는 잠재적 연관성",
+ "trial": null,
+ "type": "paper"
+}

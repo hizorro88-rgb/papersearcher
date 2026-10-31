@@ -1,0 +1,64 @@
+{
+ "abstract": "Development of new medicines that can treat pancreatic cancer with a sustained immune memory effect remains to be a challenging task. Herein, we report a tumor microenvironment-responsive dendrimer nanogel (DNG)-based therapeutic vaccine co-loaded with toyocamycin (Toy) and gold nanoparticles (Au NPs) and the surface camouflaged with Cytosine-phosphate-Guanine (CpG)-functionalized exosomes derived from pancreatic cancer cells (termed as Au@DNG@C-Exo) for computed tomography (CT) imaging and chemoimmunotherapy of pancreatic cancer. The created Au@DNG@C-Exo through a reverse-phase microemulsion method displays a size of 105.6 nm with a narrow distribution, desired colloidal stability, and stimuli-responsive Toy release profile. We show that Au@DNG@C-Exo enables Exo-mediated homologous targeting chemotherapy of cancer cells to induce efficient immunogenic cell death (ICD), which synergizes with the CpG adjuvant/Exo antigen presentation to maturate dendritic cells (DCs), thereby initiating a potent antigen-specific anticancer immune response. Concurrently, the incorporated Au NPs repolarize tumor-associated macrophages from the M2 to the antitumor M1 phenotype and serve as contrast agents for CT imaging of tumors in vivo. The Au@DNG@C-Exo-mediated chemoimmunotherapy maximally suppresses the growth of Panc-02 tumors in a mouse model and elicits a robust systemic anti-tumor immune response. Meanwhile, Au@DNG@C-Exo also effectively prevents tumor occurrence after immunization. The developed DNG-based therapeutic nanovaccine that is able to modulate triple cell types, including cancer cells, DCs, and macrophages, presents a promising theranostic strategy to tackle pancreatic cancer.",
+ "authors": [
+  "Li Z",
+  "Xiao X",
+  "Li Y",
+  "Qin M",
+  "Xia L",
+  "Yang J",
+  "He M",
+  "Shen M"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42960150",
+ "importance": 0.52,
+ "key_points_ko": [
+  "개발된 나노백신(Au@DNG@C-Exo)의 크기는 105.6 nm이며 균일한 크기 분포와 안정성을 보였습니다.",
+  "금 나노파티클을 통해 종양 관련 대식세포를 항종양 M1 표현형으로 재분극하고 생체 내 CT 영상의 조영제로 기능했습니다.",
+  "Panc-02 췌장암 마우스 모델에서 종양 성장을 최대화하여 억제하고 강력한 전신 항종양 면역 반응을 이끌어냈습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1021/polymscitech.6c00065",
+  "nct": [],
+  "pmcid": "PMC13718370",
+  "pmid": "42960150"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-10",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Polym Sci Technol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960150/"
+ },
+ "summary_ko": "연구진은 췌장암 치료를 위해 토요카마이신(toyocamycin)과 금 나노파티클(gold nanoparticles, Au NPs)을 탑재하고 엑소좀(exosome)으로 표면을 감싼 덴드리머 나노겔(dendrimer nanogel, DNG) 기반의 치료용 백신(Au@DNG@C-Exo)을 개발했습니다. 이 나노백신은 컴퓨터단층촬영(computed tomography, CT) 영상 유도 하에 화학항암치료와 면역치료를 동시에 수행하도록 설계되었습니다. 동물 모델(Panc-02 췌장암 마우스 모델) 실험에서 이 치료법은 종자 성장을 극대화하여 억제하고 강력한 전신 항종양 면역 반응을 유도했습니다. 또한 면역 접종 후 종양 발생을 효과적으로 예방하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Exosome-Coated Dendrimer Nanogels as a Therapeutic Vaccine for CT Imaging-Guided Chemoimmunotherapy of Pancreatic Cancer",
+ "title_ko": "췌장암의 CT 영상 유도 화학면역치료를 위한 치료용 백신으로서의 엑소년 코팅 덴드리머 나노겔",
+ "trial": null,
+ "type": "paper"
+}

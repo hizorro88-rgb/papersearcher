@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누출(pancreatic fistula) 예방에 미치는 영향 비교…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
-## 타임라인 (7)
+## 타임라인 (8)
 
 <a id="pmid-42950589"></a>
 #### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
@@ -53,6 +53,22 @@ search:
 - 임상 경과 중 유전성 질환인 가족성 선종성 용종증(FAP) 원인 유전자(APC) 변이가 확인되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42953875/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0605) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13716534/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42953875)</small>
+
+---
+<a id="pmid-42961246"></a>
+#### [췌장 신경내분비종양: 수술적 절제 후 임상병리학적 분석 및 수술 후 생존율 - 3차 대학병원에서의 10년간 경험](https://pubmed.ncbi.nlm.nih.gov/42961246/)
+<small>PANCREATIC NEUROENDOCRINE TUMORS: CLINICOPATHOLOGICAL ANALYSIS AND POSTOPERATIVE SURVIVAL FOLLOWING SURGICAL RESECTION-A DECADE OF EXPERIENCE AT A TERTIARY UNIVERSITY HOSPITAL</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` `신경내분비종양` · 2026-10-26 · PubMed · Arq Gastroenterol · 중요도 0.68
+
+이 연구는 2013년부터 2023년까지 췌장 신경내분비종양(PNET)으로 수술적 절제를 받은 환자 24명을 대상으로 한 후향적 코호트 연구입니다. 환자들의 임상병리학적 특징과 수술 후 결과를 분석했습니다. 연구 결과, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월이었으며, 1등급 종양이 2등급에 비해 더 긴 생존 경향을 보였습니다. 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 연관되었습니다. 저자들은 조직학적 등급이 PNET의 핵심 예후 인자라고 결론지었습니다.
+
+- 총 24명의 환자가 수술적 절제를 받았으며, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월입니다.
+- 조직학적 분류는 2등급(grade 2)이 62.5%, 1등급(grade 1)이 33.3%, MiNEN이 4.2%였습니다.
+- 1등급 종양의 평균 생존기간은 98 ± 68.1개월, 2등급은 59.1 ± 49.5개월로 1등급에서 더 긴 생존 경향을 보였습니다(P=0.06).
+- 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
 
 ---
 <a id="pmid-42854074"></a>

@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Pancreatic head PDAC arises within embryologically distinct dorsal and ventral compartments. We investigated whether CT-based embryologic compartment classification identifies prognostically distinct subgroups after curative-intent resection.\nMETHODS: We retrospectively analyzed 173 patients who underwent curative-intent resection for pancreatic head PDAC between 2009 and 2024. On preoperative contrast-enhanced CT, the embryologic boundary was approximated by a line connecting the anterior edge of the intrapancreatic common bile duct and the center of the portal vein-superior mesenteric vein axis. Tumors were classified as dorsal-confined (DC), dorsal-predominant (DP), ventral-predominant (VP), or ventral-confined (VC).\nRESULTS: The cohort comprised 44 DC, 64 DP, 53 VP, and 12 VC tumors. Overall survival differed significantly among the four groups (p = 0.0078), with DC tumors showing better survival than DP, VP, and VC tumors. Because survival did not differ significantly among DP, VP, and VC tumors, these were combined as non-DC tumors. Median overall survival was 61.5 months in DC and 25.2 months in non-DC tumors (p = 0.0016). DC location remained independently associated with favorable overall survival in the preoperative model (HR, 0.546; 95% CI, 0.323-0.920; p = 0.0178) and in the model including selected postoperative clinicopathological and treatment factors (HR, 0.578; 95% CI, 0.341-0.980; p = 0.0345). This association remained significant in analyses restricted to anatomically resectable disease.\nCONCLUSIONS: CT-based embryologic compartment classification identified DC tumors as a favorable subgroup and may provide complementary information for preoperative risk stratification.",
+ "authors": [
+  "Kozono S",
+  "Fujii A",
+  "Tatsuguchi T",
+  "Kuga H",
+  "Hirahata K",
+  "Shimokawa Y",
+  "Hijioka M",
+  "Tamiya S"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957554",
+ "importance": 0.77,
+ "key_points_ko": [
+  "근치적 절제술을 받은 췌장 두부 췌관선암 환자 173명 중 등쪽 국한(DC) 종양은 44명이었습니다.",
+  "중앙 전체생존기간(mOS)은 등쪽 국한(DC) 종양군이 61.5개월, 비등쪽 국한(non-DC) 종양군이 25.2개월로 나타났습니다(p=0.0016).",
+  "다변량 분석 결과 등쪽 국한(DC) 위치는 독립적으로 양호한 전체 생존기간과 연관되었습니다(위험비 0.546, p=0.0178)."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.029",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957554"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957554/"
+ },
+ "summary_ko": "췌장 두부 췌관선암(PDAC) 환자 173명을 대상으로 수술 전 컴퓨터 단층촬영(CT)을 통해 배아 기원 구획(등쪽 및 배쪽 구획)을 분류하고 수술 후 예후와의 연관성을 분석했습니다. 종양을 등쪽 국한(DC), 등쪽 우세(DP), 배쪽 우세(VP), 배쪽 국한(VC)으로 구분했을 때, 등쪽 국한(DC) 종양 환자의 생존율이 가장 우수했습니다. 등쪽 국한 종양군의 중앙 전체생존기간(mOS)은 61.5개월로, 나머지 비등쪽 국한 종양군의 25.2개월보다 유의하게 길었습니다. 연구진은 CT 기반 배아 구획 분류가 수술 전 환자의 위험도를 예측하는 유용한 지표가 될 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Computed tomography-based embryologic compartment classification provides prognostic stratification in pancreatic head ductal adenocarcinoma",
+ "title_ko": "컴퓨터 단층촬영(CT) 기반 배아 구획 분류를 통한 췌장 두부 췌관선암의 예후 층화",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,59 @@
+{
+ "abstract": "OBJECTIVE: Focal autoimmune pancreatitis (AIP) mimics pancreatic ductal adenocarcinoma (PDAC) radiologically, posing diagnostic challenges. This exploratory study investigated ultrasound localization microscopy (ULM) for quantitative microvascular characterization and compared its diagnostic performance with that of conventional contrast-enhanced ultrasound (CEUS).\nMETHODS: In this prospective exploratory study, 30 patients with solid pancreatic lesions, including 15 with AIP and 15 with PDAC, underwent conventional ultrasound and CEUS followed by offline ULM reconstruction from arterial-phase raw RF data. Qualitative CEUS features and quantitative time-intensity curve parameters were assessed. Quantitative ULM parameters were extracted from lesion and matched perilesional pancreatic ROIs, and derived heterogeneity metrics were calculated. Histological vascular area fraction was quantified for correlation analysis. The diagnostic performances of CEUS and ULM parameters were evaluated and compared using receiver operating characteristic analysis with bootstrap-derived 95% confidence intervals.\nRESULTS: ULM showed significantly greater vascular density and more homogeneous intralesional vascular distribution in AIP than in PDAC (both p < 0.001). AIP also exhibited higher vessel ratio, perfusion index, fractal number, mean velocity, and mean diameter. Among the ULM parameters, the Δ fractal number and normalized fractal number showed the highest diagnostic performance, both achieving an AUC of 0.985. By comparison, the best-performing individual CEUS feature, enhancement intensity, yielded an AUC of 0.800, while its combination with washout pattern increased the AUC to 0.867. Among the quantitative CEUS parameters, half-intensity time and mean transit time performed best with AUCs of 0.880 and 0.864, respectively. ULM vessel ratio showed a significant positive correlation with histological vascular area fraction.\nCONCLUSION: As a preliminary exploration, ULM demonstrated feasibility for characterizing microvascular differences and yielded higher diagnostic accuracy than CEUS parameters in a selected cohort. These findings require validation in larger, multicenter studies before ULM can be considered as a clinical biomarker for this differential diagnosis.",
+ "authors": [
+  "Liang T",
+  "Ao Y",
+  "Sun H",
+  "Zhang C",
+  "Wang Y",
+  "Zhang M"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957515",
+ "importance": 0.77,
+ "key_points_ko": [
+  "초음파 국소화 현미경(ULM) 검사에서 자가면역 췌장염(AIP)은 췌관선암(PDAC)에 비해 혈관 밀도가 유의하게 높고 혈관 분포가 더 균일했습니다 (모두 p < 0.001).",
+  "ULM 지표인 Δ 프랙탈 수와 정규화 프랙탈 수는 감별 진단 정확도 지표(AUC) 0.985를 기록하여 매우 높은 정확도를 보였습니다.",
+  "기존 조영증강 초음파(CEUS) 지표 중 최고 성능을 보인 조영 강도와 세척 패턴의 조합은 AUC 0.867을 기록하여 ULM 지표보다 낮았습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.ultrasmedbio.2026.09.021",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957515"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ultrasound Med Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957515/"
+ },
+ "summary_ko": "자가면역 췌장염(AIP)과 췌관선암(PDAC)은 영상의학적으로 구별하기 어려워 감별 진단에 어려움이 있습니다. 이번 예비 전향적 연구에서는 췌장 고형 병변 환자 30명(자가면역 췌장염 15명, 췌관선암 15명)을 대상으로 미세혈관을 정밀하게 관찰하는 초음파 국소화 현미경(ULM)의 진단 성능을 기존 조영증강 초음파(CEUS)와 비교했습니다. 분석 결과, 자가면역 췌장염은 췌관선암보다 미세혈관 밀도가 높고 분포가 균일하게 나타났습니다. 초음파 국소화 현미경 지표는 기존 조영증강 초음파보다 우수한 감별 진단 정확도를 보여주었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Ultrasound Localization Microscopy as a Novel Imaging Technique for Differentiating Autoimmune Pancreatitis From Pancreatic Ductal Adenocarcinoma: A Preliminary Prospective Study",
+ "title_ko": "자가면역 췌장염과 췌관선암을 감별하기 위한 새로운 영상 기법으로서의 초음파 국소화 현미경 검사: 예비 전향적 연구",
+ "trial": null,
+ "type": "paper"
+}

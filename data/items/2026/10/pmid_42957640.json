@@ -1,0 +1,63 @@
+{
+ "abstract": "Chemotherapy resistance is one of the important reasons for the low 5-year survival rate of patients with pancreatic cancer. Elucidating the mechanism of chemotherapy resistance is an important breakthrough direction for improving the prognosis. Here, PSMD14, a deubiquitinating enzyme frequently overexpressed in human pancreatic cancer, was demonstrated to mediate chemoresistance principally by activating the WNT/β-catenin pathway. Mechanistically, PSMD14 activated the WNT/β-catenin pathway by removing the K63-linked ubiquitination of DVL1 and promoting its translocation from the cytoplasm to the membrane, consequently facilitating the aerobic glycolysis and contributing to the chemoresistance of pancreatic cancer cells. Furthermore, activation of the WNT/β-catenin pathway promoted the transcription of PSMD14, and the PSMD14 inhibitor capzimin improved the sensitivity of pancreatic cancer cells to gemcitabine in cells, organoids, and mouse models. In conclusion, PSMD14 plays a critical role in regulating the activity of WNT/β-catenin and the sensitivity of pancreatic cancer to gemcitabine, suggesting that PSMD14 appears to be a promising therapeutic target for pancreatic cancer.",
+ "authors": [
+  "Cai K",
+  "Chen S",
+  "Ma G",
+  "Wu W",
+  "Wang S",
+  "Quan B",
+  "Jin C",
+  "Wang Y"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42957640",
+ "importance": 0.54,
+ "key_points_ko": [
+  "PSMD14는 DVL1 탈유비퀴틴화를 통해 WNT/β-카테닌 경로를 활성화하고 췌장암의 당분해 및 항암제 저항성을 유도합니다.",
+  "WNT/β-카테닌 경로 활성화는 다시 PSMD14의 전사를 촉진하는 것으로 나타났습니다.",
+  "PSMD14 억제제인 capzimin(캡지민)은 세포, 오가노이드, 마우스 모델에서 젬시타빈(gemcitabine)에 대한 치료 반응을 향상시켰습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1038/s41419-026-08958-w",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42957640"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Death Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957640/"
+ },
+ "summary_ko": "본 연구는 췌장암에서 과다발현되는 탈유비퀴틴화 효소인 PSMD14가 항암제 저항성을 유발하는 기전을 규명했습니다. PSMD14는 WNT/β-카테닌(WNT/β-catenin) 경로를 활성화하고 호기성 당분해를 촉진하여 젬시타빈(gemcitabine)에 대한 저항성을 일으킵니다. 연구진은 PSMD14 억제제인 capzimin(캡지민)을 투여했을 때 세포, 오가노이드, 마우스 모델에서 젬시타빈에 대한 감수성이 향상됨을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting PSMD14 increases chemotherapeutic sensitivity to gemcitabine by inhibiting the WNT/β-catenin pathway and glycolysis in pancreatic cancer",
+ "title_ko": "PSMD14 표적 치료를 통한 췌장암의 젬시타빈 항암제 감수성 증대 및 WNT/β-카테닌 경로·당분해 억제",
+ "trial": null,
+ "type": "paper"
+}

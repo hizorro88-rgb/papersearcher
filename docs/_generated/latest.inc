@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>921</b><span>누적 수집<br><small>논문·소식 416 · 임상시험 505</small></span></div><div class="ps-stat"><b>+22</b><span>오늘 신규<br><small>갱신 26건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>949</b><span>누적 수집<br><small>논문·소식 439 · 임상시험 510</small></span></div><div class="ps-stat"><b>+28</b><span>오늘 신규<br><small>갱신 27건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-30](_generated/daily/2026/10/30.md)
+최근 수집일: [2026-10-31](_generated/daily/2026/10/31.md)
 
 <a id="nct-nct07252232"></a>
 #### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)

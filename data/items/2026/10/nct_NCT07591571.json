@@ -1,0 +1,98 @@
+{
+ "abstract": "The goal of this clinical trial is to learn if a community health worker led intervention that helps facilitate palliative care works to treat newly-diagnostic pancreatic cancer. It will also help understand the impact of this intervention on people who are caregivers for patients with pancreatic cancer. The main questions it aims to answer are:\n\nDoes the community health worker improve symptoms and quality of life in patients with pancreatic cancer? Does the community health worker improve the burden of caregiving and quality of life in family caregivers? Researchers will compare drug ABC to a control (where patients get the care that patients with pancreatic cancer receive including access to handouts and videos that the investigators provide patients by national organizations) to see if the intervention works to help patients with pancreatic cancer.\n\nParticipants will:\n\nMeet with study staff several times over 3 months and complete surveys about their experience and symptoms Patients assigned with the community health worker will meet with them in person or video.\n\nd. Overall study design\n\nThis will be a pilot randomized controlled trial where the investigators will plan on randomizing patients with PDAC in a 1:1 fashion to receive a digitally-enhanced community health worker intervention that will involve visits with the CHW and digital communication to facilitate care navigation and provide early palliative care engagement or usual care.\n\ne. Study Procedures and Schedule\n\nRecruitment of subjects for the study\n\nTo recruit patients for the interviews, the investigators will screen all of the patients who present for endoscopic ultrasound (with biopsy) to the endoscopy unit or pre-procedure clinic at Loma Linda, as well as patients referred to the medical or surgical oncology clinics with a new diagnosis of pancreatic adenocarcinoma. The investigators will recruit patients from our gastroenterology clinic and endoscopic unit and the oncology clinic (the researcher's patients) both in person and over the phone via a telephone call. The investigators will not contact patients outside our clinical practice but will distribute an IRB-approved flyer with our number to oncology clinics that patients can call and leave a voicemail or email us at our secure HIPPA-complaint Loma Linda email address assigned to our study (cancerresearch@llu.edu). The investigators will also distribute an IRB-approved letter to other oncologists informing them of the study so they can distribute the flyer to their patients and inform patients who may be candidates for this study. The reason the investigators are including patients with suspected PDAC is to eliminate delays once they receive a diagnosis as patients previously reported a flurry of medical visits in the 2 weeks after diagnosis. However, patients will need to undergo a biopsy and have pathology confirmation before study initiation. Patients found to have other pathology on biopsy than pancreatic adenocarcinoma will be excluded. The investigators will explain the study inperson or over the phone when they are referred for a pancreatic biopsy or for oncologic care for a new diagnosis of pancreatic cancer. The investigators will explain that the investigators are recruiting them because they have pancreatic cancer and want to study if a community health worker can help patients like themselves navigate care and engage with palliative care better than the current care that patients receive. If they are interested, they will then be consented using written informed consent at their clinic visit in the clinic or prior to their in-person study visit.\n\nWhen a patient is diagnosed with PDAC, they receive the diagnosis over the phone and follow-up in clinic. They are referred to medical and surgical oncology and to palliative care for supportive care..",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07591571",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07591571"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-05-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Loma Linda University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07591571"
+ },
+ "summary_ko": "The goal of this clinical trial is to learn if a community health worker led intervention that helps facilitate palliative care works to treat newly-diagnostic pancreatic cancer. It will also help understand the impact of this intervention on people who are caregivers for patients with pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [
+  "community health worker",
+  "pancreatic cancer",
+  "palliative care"
+ ],
+ "title": "To Evaluate the Preliminary Efficacy of Our Digitally Enhanced CHW-led Intervention in Newly Diagnosed PDAC",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer, Adult"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion criteria:\n\n* Age 18 to 90\n* English or Spanish-Speaking\n* Diagnosed with Newly-Diagnosed Pancreatic Adenocarcinoma or has a pancreatic mass on CT/MRI with suspected PDAC and is awaiting biopsy.\n* Able to communicate verbally to allow for audio recording to complete an exit interview\n* Must be able to consent\n\nExclusion criteria:\n\n• Biopsy Does not Confirm Adenocarcinoma of the Pancreas",
+  "enrollment": 120,
+  "has_results": false,
+  "interventions": [
+   "PAL-CHW-PDAC",
+   "Usual Care with Attention Control"
+  ],
+  "last_update_posted": "2026-10-30",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Months",
+  "n_locations": 1,
+  "nct_id": "NCT07591571",
+  "phase": "NA",
+  "primary_completion_date": "2026-10-01",
+  "sex": "ALL",
+  "sponsor": "Loma Linda University",
+  "start_date": "2025-09-01",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: Pancreaticoduodenectomy (PD) is associated with a high incidence of surgical site infection (SSI), reported in 20-40% of cases. In patients undergoing preoperative biliary drainage (PBD), the risk is further increased due to biliary contamination. Tazobactam/piperacillin (TAZ/PIPC) has been shown to reduce SSI compared with cephalosporins; however, no prospective trial has directly compared TAZ/PIPC with ampicillin/sulbactam (ABPC/SBT), which is widely used in pancreatic surgery. This study aims to evaluate the superiority of TAZ/PIPC over ABPC/SBT in preventing SSI after PD.\nMETHODS: This is a multicenter, open-label, randomized controlled trial. A total of 320 patients undergoing PD will be randomized (1:1) to receive either TAZ/PIPC or ABPC/SBT as perioperative prophylactic antibiotics. Randomization will be stratified by PBD, minimally invasive surgery (MIS), and pancreatic ductal adenocarcinoma (PDAC). Antibiotics will be administered within 60 min before incision, redosed intraoperatively every 2-4 h, and continued every 8 h until postoperative day 1. The primary endpoint is the incidence of SSI within 30 days postoperatively, defined according to CDC criteria. Secondary endpoints include postoperative complications (Clavien-Dindo ≥IIIa), clinically relevant postoperative pancreatic fistula (ISGPS grade B/C), delayed gastric emptying, postpancreatectomy hemorrhage, bile leakage, mortality, reoperation, readmission, C. difficile colitis, and detection of antimicrobial-resistant organisms.\nDISCUSSION: This trial will provide the first direct comparison between TAZ/PIPC and ABPC/SBT in PD. The results are expected to contribute to optimizing perioperative antibiotic strategies while balancing SSI prevention and antimicrobial resistance.\nTRIAL REGISTRATION: Japan Registry of Clinical Trials (jRCT), jRCTs051260063.",
+ "authors": [
+  "Mizumoto T",
+  "Nanno Y",
+  "Ishida J",
+  "Ueda Y",
+  "Lee D",
+  "Akita M",
+  "Asakura R",
+  "Nakamura H"
+ ],
+ "categories": [
+  "surgery",
+  "supportive",
+  "trial"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "rct",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42958223",
+ "importance": 0.8,
+ "key_points_ko": [
+  "췌십이지장절제술을 받는 환자 총 320명을 대상으로 TAZ/PIPC와 ABPC/SBT를 1:1로 비교합니다.",
+  "일차 평가변수는 미국 질병통제예방센터(CDC) 기준에 따른 수술 후 30일 이내 수술 부위 감염(SSI) 발생률입니다.",
+  "수술 전 담즙 배액술 여부, 최소 침습 수술 여부, 췌관선암(PDAC) 여부에 따라 층화 무작위 배정이 이루어집니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s12893-026-04092-8",
+  "nct": [],
+  "pmcid": "PMC13717995",
+  "pmid": "42958223"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Clinical Trial Protocol"
+ ],
+ "published_at": "2026-08-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958223/"
+ },
+ "summary_ko": "췌십이지장절제술(PD) 후 흔히 발생하는 수술 부위 감염(SSI)을 예방하기 위해 두 가지 예방적 항생제를 비교하는 다기관 무작위 배정 임상시험의 연구 계획서입니다. 췌십이지장절제술을 받는 환자 320명을 대상으로 타조박탐/피페라실린(TAZ/PIPC) 또는 암피실린/설박탐(ABPC/SBT)을 투여하도록 배정합니다. 수술 후 30일 이내에 발생하는 수술 부위 감염 발생률의 차이를 확인하여 최적의 예방적 항생제 요법을 규명하고자 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prophylactic antibiotics for pancreaticoduodenectomy: study protocol for a multicenter randomized controlled trial comparing tazobactam/piperacillin versus ampicillin/sulbactam",
+ "title_ko": "췌십이지장절제술을 위한 예방적 항생제: 타조박탐/피페라실린과 암피실린/설박탐을 비교하는 다기관 무작위 배정 임상시험 프로토콜",
+ "trial": null,
+ "type": "paper"
+}

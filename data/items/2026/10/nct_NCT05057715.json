@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -17,7 +18,12 @@
  ],
  "id": "nct:NCT05057715",
  "importance": 0.81,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환: 절제 불가능 또는 전이성 췌장관선암 및 장액성 상피성 난소암",
+  "중재 치료: huCART-meso 세포 및 VCN-01 병용 요법",
+  "목표 인원: 13명",
+  "임상 단계: 1상 (PHASE 1)"
+ ],
  "last_updated": "2026-10-30",
  "links": {
   "doi": null,
@@ -41,18 +47,18 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05057715"
  },
- "summary_ko": "This is a single-center phase 1 study to evaluate the safety and feasibility of huCART-meso cells given in combination with VCN-01 in patients with unresectable or metastatic pancreatic adenocarcinoma and serous epithelial ovarian cancer. This is a Phase I study evaluating the safety and feasibility of lentiviral transduced huCARTmeso cells when given in combination with VCN-01.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 절제 불가능하거나 전이성인 췌장관선암(pancreatic adenocarcinoma) 및 장액성 상피성 난소암 환자를 대상으로 huCART-meso 세포와 VCN-01을 병용 투여하는 단일기관 1상 임상시험입니다. 치료의 안전성과 타당성을 평가하기 위해 3+3 용량증량(dose escalation) 디자인을 사용한 용량 탐색 단계와, 용량 스케줄을 탐색하는 확장 단계로 진행되었습니다. 목표 환자 수는 13명이었으며, 현재 시험은 종료(TERMINATED) 상태입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "huCART-meso + VCN-01 in Pancreatic and Ovarian Cancer",
- "title_ko": null,
+ "title_ko": "절제 불가능 또는 전이성 췌장암 및 난소암 환자에서 huCART-meso와 VCN-01 병용 요법의 1상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
    "Serous Ovarian Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 절제 불가능 또는 전이성 췌장관선암, 혹은 지속성/재발성 장액성 상피성 난소암 환자\n- 진행성 질환에 대해 적어도 1가지 이상의 표준 전신 항암화학요법에 실패(진행 또는 불내성)한 환자\n- RECIST 1.1 기준에 따른 측정 가능한 병변 보유\n- 만 18세 이상 성인\n- 동부항암협회(ECOG) 수행능력 평가 0 또는 1\n- 적절한 장기 및 골수 기능 유지\n\n제외 기준:\n- 중추신경계(CNS) 전이가 알려진 환자\n- 본 연구 대상 암 외의 활성 침습성 암 병력\n- 활동성 B형 또는 C형 간염 감염\n- 진행 중이거나 활동성인 감염\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. Patients with one of the following diagnoses:\n\n   1. Histologically confirmed unresectable or metastatic pancreatic adenocarcinoma; OR\n   2. Persistent or recurrent serous epithelial ovarian cancer\n2. Progression or intolerance to at least one prior standard of care chemotherapy for advanced stage disease.\n3. Subjects must have measurable disease as defined by RECIST 1.1 criteria.\n4. Patients ≥ 18 years of age.\n5. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n6. Adequate organ and bone marrow function defined as:\n\n   1. Hemoglobin ≥ 9 g/dL\n   2. Platelets ≥ 75,000/µl\n   3. PT/INR and PTT ≤ 1.5 x ULN\n   4. Bilirubin ≤ 2.0 x ULN\n   5. Creatinine ≤ 1.5 x ULN\n   6. ALT/AST ≤ 5 x ULN (subjects with liver metastases) or ALT/AST ≤ 2.5 x ULN (subjects without liver metastases)\n   7. Must have a minimum level of pulmonary reserve defined as ≤ Grade 1 dyspnea and pulse oxygen \\> 92% on room air\n   8. Left Ventricle Ejection Fraction (LVEF) ≥ 40% confirmed by ECHO/MUGA\n7. Provides written informed consent.\n8. Subjects of reproductive potential must agree to use acceptable birth control methods, as described in the protocol\n\nExclusion Criteria:\n\n1. Patients with known CNS metastases\n2. Active invasive cancer other than the one of the two cancers targeted by this study. Patients with active non-invasive cancers (such as non-melanoma skin cancer, superficial cervical and bladder and prostate cancer with PSA level \\< 1.0) are not excluded.\n3. Active hepatitis B or hepatitis C infection.\n4. Chronic hepatitis C with a FibroScan score equivalent to fibrosis stage 2 (F2) or greater.\n5. Patients with known cirrhosis.\n6. Patients with ongoing or active infection.\n7. Patients with a known history of Li Fraumeni syndrome or retinoblastoma protein pathway germinal deficiency.\n8. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to ≥ 10 mg of prednisone. Patients with autoimmune neurologic diseases (such as MS) will be excluded.\n9. Planned concurrent treatment with systemic high dose corticosteroids. Patients may be on a stable low dose of steroids (≤ 10mg equivalent of prednisone). Use of inhaled steroids is allowable.\n10. Patients requiring supplemental oxygen therapy.\n11. History of allergy or hypersensitivity to study product excipients (human serum albumin, DMSO, and Dextran 40).\n12. Any clinically significant pericardial effusion, Class II-IV cardiovascular disability according to the New York Heart Association Classification or other cardiovascular condition that would preclude assessment of mesothelin induced pericarditis or that may worsen as a result of toxicities expected for this study. This determination will be made by a cardiologist if cardiac issues are suspected.\n13. Pregnant or breastfeeding women.\n14. RETIRED WITH PROTOCOL VERSION 5.\n15. Patients with significant lung disease as follows:\n\n    1. Patients with radiographic evidence of greater than lobar lymphangitic pulmonary involvement, greater than lobar bronchial wall thickening suggestive of peribronchial lymphatic disease extension, and/or evidence of extensive bilateral parenchymal metastatic burden.\n    2. Patients with radiographic and/or clinical evidence of active radiation pneumonitis.\n    3. Patients with radiographic evidence of underlying interstitial lung disease, including evidence of unresolved drug toxicity from any agent (e.g. chemotherapy, targeted agents, amiodarone, nitrofurantoin, etc.)\n16. Patients with prior/ongoing treatment that will not accommodate washout requirements for immune checkpoint inhibitors",
   "enrollment": 13,
   "has_results": false,
@@ -69,18 +75,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "뇌전이 환자",
+    "활동성 B형 또는 C형 간염",
+    "활동성 감염",
+    "임신 또는 수유 중인 여성"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "이전 치료를 1가지 이상 받은 절제 불가능 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

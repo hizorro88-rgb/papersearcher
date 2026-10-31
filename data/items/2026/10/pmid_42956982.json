@@ -1,0 +1,57 @@
+{
+ "abstract": "The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor specificity and inefficient delivery. In this study, we constructed a targeted nanoplatform using marine sulfated polysaccharide fucoidan (FU) to encapsulate miR-217-5p in FU-modified cationic liposomes (FU-LIP-miR) for the treatment of pancreatic ductal adenocarcinoma (PDAC), alone or in combination with gemcitabine (GEM). In this system, FU serves primarily as a targeting ligand. FU was incorporated as a functional surface ligand. Previous studies have demonstrated a high-affinity interaction between FU and P-selectin, suggesting that this interaction may contribute to the enhanced tumor-associated accumulation of FU-functionalized nanocarriers. Furthermore, FU is susceptible to degradation by H2O2 within the tumor microenvironment, consequently enabling controlled drug release. Initial findings confirmed that that miR-217-5p was significantly downregulated in PDAC tissues. FU-LIP-miR promoted the tumor accumulation and delivery of miR-217-5p and restored its expression, which was accompanied by reduced PDAC cell proliferation, migration, and invasion. Notably, FU can also be employed as an active targeting ligand. FU-LIP-miR combined with GEM produced an enhanced antitumor effect and increased apoptosis in PDAC cells. In a subcutaneous xenograft model using Panc02 cells in C57BL/6 mice, the combination of FU-LIP-miR and GEM produced enhanced antitumor efficacy compared with the corresponding control treatments. This study underscores the pivotal role of FU as a versatile polysaccharide in the design of targeted delivery platforms, thereby providing a novel and promising noncoding RNA-based therapeutic approach for PDAC using polysaccharide materials.",
+ "authors": [
+  "Tan C",
+  "Fang Y",
+  "Guo R",
+  "Zheng Z",
+  "He M",
+  "Yang J",
+  "Silli EK",
+  "Hu Q"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42956982",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.nano.2026.103046",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42956982"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nanomedicine",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42956982/"
+ },
+ "summary_ko": "The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor specificity and inefficient delivery. In this study, we constructed a targeted nanoplatform using marine sulfated polysaccharide fucoidan (FU) to encapsulate miR-217-5p in FU-modified cationic liposomes (FU-LIP-miR) for the treatment of pancreatic ductal adenocarcinoma (PDAC), alone or in combination with gemcitabine (GEM).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Fucoidan-functionalized liposomal nanocarriers for targeted miR-217-5p delivery and combined antitumor treatment in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

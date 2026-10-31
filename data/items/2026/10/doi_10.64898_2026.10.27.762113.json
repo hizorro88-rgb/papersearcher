@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by early invasion, metastasis, and therapeutic resistance that contribute substantially to its poor clinical outcome. Keratin 17 (K17) is a recognized marker of the aggressive basal-like subtype of PDAC and an independent predictor of adverse prognosis; however, the biological basis for this association remains incompletely understood. To define K17-associated cellular programs, we integrated single-cell RNA sequencing (scRNA-seq) data from 42 patients, Clinical Proteomic Tumor Analysis Consortium (CPTAC) proteomic data from 140 tumors, MACSima multiplex spatial imaging of 63 patients, dual-plex immunohistochemistry of 60 cases, and three-dimensional spheroid migration assays. Single-cell transcriptomic analysis demonstrated significant enrichment of epithelial-mesenchymal transition (EMT)-associated gene programs among K17-positive malignant epithelial cells. Consistent with this finding, K17-positive tumors in the CPTAC cohort exhibited enrichment of the Hallmark EMT pathway at the protein level. Among six candidate markers identified through transcriptomic analyses, laminin subunit gamma-2 (LAMC2) was the only candidate associated with K17 at every validation step. Tumors positive for both K17 and LAMC2 had significantly worse overall survival than double-negative tumors (adjusted hazard ratio = 2.53). Multiplex spatial imaging localized K17-positive cells predominantly to poorly differentiated tumor regions and demonstrated frequent single-cell co-expression with LAMC2. Whole-slide dual-plex immunohistochemistry further confirmed the association between K17 and LAMC2 and showed progressive enrichment of K17/LAMC2-positive tumor cells with increasing intratumoral histologic grade. Functionally, gain- and loss-of-function studies in three-dimensional PDAC spheroids demonstrated that K17 promotes migratory outgrowth, and differences in proliferation did not account for this effect. Collectively, these findings identify K17 as a marker of a poorly differentiated, EMT-associated migratory cell state in PDAC and provide functional evidence that K17 contributes to tumor-cell migration.",
+ "authors": [
+  "Sarkar S",
+  "Ghosh M",
+  "Delgado-Coka L",
+  "Powers S",
+  "Sathian R",
+  "Davuluri RV",
+  "Gong X",
+  "Mak MV"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.27.762113",
+ "importance": 0.56,
+ "key_points_ko": [
+  "K17과 LAMC2가 모두 양성인 췌장암 환자는 두 마커가 모두 음성인 환자보다 전체 생존 위험비(HR)가 2.53으로 예후가 나빴습니다.",
+  "단일세포 분석 결과 K17 양성 암세포에서 상피-간엽 이행(EMT) 관련 유전자 프로그램이 유의하게 활성화되어 있었습니다.",
+  "3차원 구체(spheroid) 실험을 통해 K17이 췌장암 세포의 이동성을 직접적으로 촉진함을 확인했습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.64898/2026.10.27.762113",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1353409"
+ },
+ "summary_ko": "케라틴 17(K17)은 췌관선암(PDAC)의 악성 아형 마커이자 예후 불량 예측 인자입니다. 연구진은 단일세포 RNA 시퀀싱, 단백체 데이터, 조직 공간 영상 등을 통합 분석했습니다. 그 결과 K17 양성 암세포는 상피-간엽 이행(EMT) 및 라미닌 서브유닛 감마-2(LAMC2) 발현과 밀접하게 연관되어 있었습니다. K17과 LAMC2가 모두 양성인 종양 환자는 모두 음성인 환자에 비해 전체 생존기간이 유의하게 짧았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Keratin 17 Defines an Epithelial-Mesenchymal Transition-Associated Migratory Cell State in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "케라틴 17(K17), 췌관선암종에서 상피-간엽 이행 연관 이동성 세포 상태 정의",
+ "trial": null,
+ "type": "preprint"
+}

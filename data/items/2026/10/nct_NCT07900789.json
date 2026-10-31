@@ -22,11 +22,11 @@
  "id": "nct:NCT07900789",
  "importance": 0.96,
  "key_points_ko": [
-  "대상 질환은 전신 치료 경험이 없는 고위험 수술 가능 또는 경계성 수술 가능 췌장암입니다.",
-  "중재 치료로 HRS-4642, SHR-1316, gemcitabine hydrochloride for injection, paclitaxel for injection이 사용됩니다.",
-  "목표 환자 수는 825명이며, 연령 기준은 18세부터 75세까지입니다."
+  "목표 환자 수는 총 825명입니다.",
+  "참여 연령은 18세부터 75세까지입니다.",
+  "주요 평가지표는 무사건 생존기간(Event-Free Survival, EFS)입니다."
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -49,11 +49,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07900789"
  },
- "summary_ko": "이 연구는 고위험 수술 가능 및 경계성 수술 가능 췌장암(HR-RPC/BRPC) 환자를 대상으로 합니다. 표준 치료와 비교하여 HRS-4642를 젬시타빈(gemcitabine) 및  nab-paclitaxel(납파클리탁셀) 병용 요법에 추가하거나 SHR-1316을 더한 요법의 유효성을 평가합니다. 주요 평가지표는 무사건 생존기간(EFS)입니다. 목표 인원은 825명입니다.",
+ "summary_ko": "이 연구는 고위험 수술 가능 또는 경계성 수술 가능 췌장암(HR-RPC/BRPC) 환자를 대상으로 HRS-4642와 젬시타빈(Gemcitabine) 및  nab-paclitaxel(앱락산) 병용 요법(SHR-1316 병용 여부 포함)의 유효성을 표준 치료와 비교하여 평가합니다. 주요 평가지표는 무사건 생존기간(EFS)입니다. 18세에서 75세 사이의 전신 치료 경험이 없는 췌장암 환자 825명을 목표로 합니다. 초록에 국내 기관 수는 명시되지 않음.",
  "summary_source": "llm",
  "tags": [],
  "title": "HRS-4642 Combined With Antitumor Agents for the Treatment of Perioperative Pancreatic Cancer",
- "title_ko": "주변부 췌장암 치료를 위한 항종양제 병용 HRS-4642 임상시험",
+ "title_ko": "주변부 췌장암 치료를 위한 HRS-4642 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "Systemic Treatment-naïve Pancreatic Cancer"
@@ -65,7 +65,7 @@
     "phone": "+86 0518-82342973"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세에서 75세 사이의 성인\n- ECOG 수행능력 상태 0 또는 1\n- 조직학적 또는 세포학적으로 확진된 췌관선암(pancreatic ductal epithelium)\n- 고위험 수술 가능 췌장암(HR-RPC) 또는 경계성 수술 가능 췌장암(BRPC)\n- RECIST 버전 1.1에 따른 최소 1개의 측정 가능한 병변\n\n제외 기준:\n- 췌장암에 대한 이전 전신 치료(선행 화학요법 또는 방사선 치료 포함) 이력\n- 영상 검사로 확인된 원격 전이 병변\n- 5년 이내에 진단된 다른 악성 종양 이력\n- 활동성 간염 B 또는 간염 C\n- 조절되지 않거나 심각한 심혈관/뇌혈관 질환",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 75세 이하의 성인.\n- ECOG 수행능력 0 또는 1.\n- 췌관 상피에서 기원한 조직학적 또는 세포학적으로 확진된 췌장암.\n- 고위험 수술 가능 췌장암(HR-RPC) 또는 경계성 수술 가능 췌장암(BRPC).\n- RECIST v1.1 기준 측정 가능한 병변이 최소 1개 이상 존재.\n- 적절한 주요 장기 기능 보유.\n\n제외 기준:\n- 이전에 췌장암에 대한 전신 치료(선행 화학요법 또는 방사선 치료 포함)를 받은 적이 있는 경우.\n- 영상 검사로 확인된 원격 전이 병변이 있는 경우.\n- 활동성 자가면역 질환이 있거나 재발 가능성이 있는 자가면역 질환 병력이 있는 경우.\n- 5년 이내에 다른 악성 종양 진단을 받은 이력이 있는 경우.\n- 활동성 B형 간염 또는 C형 간염이 있는 경우.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Able to provide informed consent, with a signed and dated IRB/EC-approved informed consent form (ICF), and willing and able to comply with the scheduled visits, treatment plan, examinations, and other protocol-required procedures.\n2. Aged between 18 and 75 years (inclusive) at the time of ICF signing; of either gender.\n3. Eastern Cooperative Oncology Group performance status (ECOG PS) of 0 or 1.\n4. Expected survival of at least 6 months.\n5. Histologically or cytologically confirmed pancreatic cancer originating from the pancreatic ductal epithelium.\n6. High-risk resectable pancreatic cancer (HR-RPC) or borderline resectable pancreatic cancer (BRPC).\n7. At least one measurable lesion per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1.\n8. Adequate major organ function meeting the protocol-specified criteria.-\n\nExclusion Criteria:\n\n1. Prior systemic therapy for pancreatic cancer, including neoadjuvant chemotherapy or radiotherapy.\n2. Distant metastatic lesions confirmed by imaging.\n3. Has not recovered from the toxicity and/or complications of prior interventions to NCI-CTCAE Grade ≤ 1 or the level specified in the inclusion/exclusion criteria.\n4. Currently has active autoimmune disease or a history of autoimmune disease with potential recurrence.\n5. Received systemic immunosuppressive therapy within 14 days prior to randomization.\n6. Known or suspected interstitial lung disease; or presence within 6 months prior to randomization of moderate-to-severe pulmonary diseases that may interfere with the detection or management of drug-related pulmonary toxicity or significantly impair respiratory function.\n7. Symptomatic moderate or severe ascites; uncontrolled or moderate-to-large pleural effusion or pericardial effusion.\n8. Gastrointestinal obstruction within 6 months prior to initiation of study treatment, or current signs and symptoms of gastrointestinal obstruction.\n9. Clinically significant bleeding episodes or a clear bleeding tendency within 6 months prior to randomization.\n10. Uncontrolled or severe cardiovascular/cerebrovascular disease, or arterial/venous thromboembolic events within 6 months prior to randomization; or arrhythmia, deep vein thrombosis, etc. requiring clinical intervention.\n11. Carotid ultrasound demonstrating ≥ 50% stenosis, or carotid plaques with ≥ 2 high-risk features.\n12. Diagnosis of any other malignancy within 5 years prior to randomization.\n13. Serious infection within 28 days prior to the first dose; or active infection requiring therapeutic intravenous antibiotics within 2 weeks prior to initiation of study treatment.\n14. Clinically significant acute or chronic pancreatitis.\n15. Active hepatitis B or active hepatitis C.\n16. Active pulmonary tuberculosis infection within 1 year prior to enrollment.\n17. History of immunodeficiency or organ transplantation.\n18. Active autoimmune disease requiring systemic treatment within 2 years prior to randomization.\n19. Administration of a live attenuated vaccine within 28 days prior to randomization, or anticipated need for live attenuated vaccination during study treatment.\n20. Participation in any other clinical drug trial within 4 weeks or 5 half-lives (whichever is longer) of the last study drug administration prior to randomization.\n21. Major surgery (other than diagnostic procedure or biopsy) within 28 days prior to randomization; invasive minor surgery within 7 days prior to the first dose; or presence of a non-healing wound.\n22. Known hypersensitivity to any component of HRS-4642; or known severe hypersensitivity to any of the combination antitumor agents (including SHR-1316, gemcitabine, and nab-paclitaxel).\n23. Uncontrolled psychiatric illness, or known alcoholism, drug abuse, substance dependence, criminal detention, or other conditions that may interfere with completion of study procedures.",
   "enrollment": 825,
   "has_results": false,
@@ -85,14 +85,14 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "원격 전이 병변이 있는 경우",
-    "5년 이내 다른 암 병력이 있는 경우",
-    "활동성 간염 B 또는 간염 C가 있는 경우",
-    "조절되지 않는 심혈관 및 뇌혈관 질환이 있는 경우"
+    "활동성 자가면역 질환",
+    "5년 이내 다른 암 병력",
+    "활동성 B형 또는 C형 간염"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료를 받지 않은 고위험 수술 가능 또는 경계성 수술 가능 췌장암 환자를 위한 시험입니다.",
+   "notes_ko": "이전 치료를 받지 않은 수술 가능성 있는 고위험 또는 경계성 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
     "taxane",
