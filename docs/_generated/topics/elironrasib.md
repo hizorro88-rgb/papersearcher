@@ -19,6 +19,14 @@ search:
 - 표적/기전: KRAS G12C(ON) inhibitor
 - 개발사: Revolution Medicines
 
-## 타임라인 (0)
+## 타임라인 (1)
 
-아직 수집된 항목이 없습니다.
+<a id="pmid-42963543"></a>
+#### [KRAS in pancreatic cancer: from molecular biology to transformative therapeutics](https://pubmed.ncbi.nlm.nih.gov/42963543/)
+`논문` `종설` `신약·치료제` `치료 전반` · 2026-10-30 · PubMed · J Hematol Oncol · 중요도 0.72
+
+Pancreatic ductal adenocarcinoma (PDAC) is a near-universally lethal malignancy, with KRAS mutations driving tumorigenesis in over 90% of cases. For decades considered undruggable, oncogenic KRAS has now been therapeutically engaged across multiple mutational subtypes, a revolution precipitated by allele-specific covalent inhibitors and accelerated by the emergence of RAS(ON) multi-selective inhibitors.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963543/) · [DOI](https://doi.org/10.1186/s13045-026-01863-x) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963543)</small>
+
+---

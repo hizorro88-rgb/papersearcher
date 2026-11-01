@@ -16,7 +16,7 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 259건 · 최근 30일 259건
+전체 261건 · 최근 30일 261건
 
 월별 보기: [2026-10](basic/2026-10.md)
 
@@ -34,7 +34,7 @@ search:
 - PDAC 샘플은 대조군에 비해 세균의 알파 및 베타 다양성이 유의하게 증가했습니다.
 - 자가포식과 관련된 LAMP2-LC3B 공동 국소화와 세균(FISH 양성 세포) 밀도 증가가 환자의 연장된 생존 기간과 독립적으로 연관되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957626/) · [DOI](https://doi.org/10.1038/s41419-026-09256-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957626)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957626/) · [DOI](https://doi.org/10.1038/s41419-026-09256-1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720179/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957626)</small>
 
 ---
 <a id="pmid-42961548"></a>
@@ -52,15 +52,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961548/) · [DOI](https://doi.org/10.1007/s13304-026-02899-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961548)</small>
 
 ---
-<a id="pmid-42956982"></a>
-#### [Fucoidan-functionalized liposomal nanocarriers for targeted miR-217-5p delivery and combined antitumor treatment in pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42956982/)
-`논문` `기타` `기초연구` · 2026-10-29 · PubMed · Nanomedicine · 중요도 0.70
-
-The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor specificity and inefficient delivery. In this study, we constructed a targeted nanoplatform using marine sulfated polysaccharide fucoidan (FU) to encapsulate miR-217-5p in FU-modified cationic liposomes (FU-LIP-miR) for the treatment of pancreatic ductal adenocarcinoma (PDAC), alone or in combination with gemcitabine (GEM).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956982/) · [DOI](https://doi.org/10.1016/j.nano.2026.103046) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956982)</small>
-
----
 <a id="pmid-42958510"></a>
 #### [복합 생활습관 노출 지수와 췌장암 진단 연령 간의 연관성: 병원 기반 후향적 연구](https://pubmed.ncbi.nlm.nih.gov/42958510/)
 <small>Association between a combined lifestyle exposure index and age at pancreatic cancer diagnosis: a hospital-based retrospective study</small>
@@ -74,6 +65,21 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 - 노출이 없는 경우와 비교하여 더 어린 나이에 진단될 위험비(HR)는 1가지 노출 시 1.79(p=0.011), 2가지 노출 시 2.97(p<0.001), 3가지 노출 시 6.66(p<0.001)으로 점차 증가했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958510/) · [DOI](https://doi.org/10.1186/s12876-026-05297-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718021/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958510)</small>
+
+---
+<a id="pmid-42956982"></a>
+#### [췌관선암종에서 표적 miR-217-5p 전달 및 병용 항종양 치료를 위한 후코이단 기능화 리포솜 나노전달체](https://pubmed.ncbi.nlm.nih.gov/42956982/)
+<small>Fucoidan-functionalized liposomal nanocarriers for targeted miR-217-5p delivery and combined antitumor treatment in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-29 · PubMed · Nanomedicine · 중요도 0.64
+
+본 전임상 연구에서는 췌관선암(PDAC) 치료를 위해 해조류 유래 다당류인 후코이단(FU)을 활용하여 miR-217-5p를 전달하는 표적 리포솜 나노전달체(FU-LIP-miR)를 개발했습니다. 연구진은 췌관선암 조직에서 발현이 감소되어 있는 miR-217-5p를 FU-LIP-miR을 통해 종양에 축적 및 전달하여 그 발현을 회복시켰습니다. 세포 실험에서 이 나노전달체는 암세포의 증식, 이동, 침습을 억제했습니다. 또한 동물 모델(마우스 이식 모델)에서 FU-LIP-miR과 젬시타빈(gemcitabine)의 병용 투여는 대조군 대비 유의미하게 향상된 항종양 효과를 보였습니다.
+
+- 후코이단(FU) 표면 변형 리포솜은 P-셀렉틴(P-selectin)과의 결합 및 종양 미세환경의 과산화수소(H2O2) 반응을 통해 miR-217-5p의 표적 전달 및 제어 방출을 유도했습니다.
+- miR-217-5p의 전달 및 발현 회복은 췌관선암 세포의 증식, 이동, 침습을 감소시켰습니다.
+- 마우스 피하 이식 모델에서 FU-LIP-miR과 젬시타빈(GEM)의 병용 요법은 대조군 치료 대비 향상된 종양 억제 효과를 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956982/) · [DOI](https://doi.org/10.1016/j.nano.2026.103046) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956982)</small>
 
 ---
 <a id="pmid-42957951"></a>
@@ -91,6 +97,21 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957951/) · [DOI](https://doi.org/10.1007/978-1-0716-5591-7_6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957951)</small>
 
 ---
+<a id="pmid-42963426"></a>
+#### [암 연관 섬유아세포의 ANO6 매개 트로고사이토시스가 췌장암 세포의 성장 및 면역 억제를 촉진한다](https://pubmed.ncbi.nlm.nih.gov/42963426/)
+<small>ANO6-mediated trogocytosis of cancer-associated fibroblasts promotes pancreatic cancer cell growth and immune suppression</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-30 · PubMed · Nat Cancer · 중요도 0.64
+
+췌관선암(PDAC)은 기능성 혈관이 부족한 환경에서도 암세포가 대사물질과 지질을 획득하는 기전이 불분명했습니다. 본 연구는 암 연관 섬유아세포(CAF)가 아녹타민 6(ANO6) 단백질을 통해 세포막 트로고사이토시스(trogocytosis, 세포막 일부를 떼어내 섭취하는 현상)를 일으켜 췌장암 세포에 콜레스테롤 등 필수 지질을 전달함을 밝혔습니다. 또한 ANO6에 의한 포스파티딜세린 노출은 세포독성 T세포에 대한 면역 억제 환경을 유도하는 것으로 나타났습니다. 연구진은 ANO6 차단 시 콜레스테롤 공급이 차단되어 종양 성장이 억제되고 면역 억제가 완화됨을 확인하여, ANO6를 유망한 치료 표적으로 제시했습니다.
+
+- 암세포와 암 연관 섬유아세포(CAF)의 접촉은 Orai 채널을 통한 칼슘 유입을 유도하고 ANO6를 활성화하여 트로고사이토시스를 촉진합니다.
+- ANO6 매개 과정을 통해 콜레스테롤 등 세포막 지질이 암세포로 전달되어 암세포 생존을 돕고 세포독성 T세포 기능을 억제합니다.
+- ANO6를 차단했을 때 암세포로의 지질 공급이 중단되어 종양 성장이 억제되고 면역 억제 반응이 감소했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963426/) · [DOI](https://doi.org/10.1038/s43018-026-01265-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963426)</small>
+
+---
 <a id="pmid-42953949"></a>
 #### [게놈 전반 및 다중옴믹스 분석을 통한 췌장관선암종에서 히스톤 H3K4 메틸화의 MLL1 조절자로서 DNA 상호작용 환상 RNA circFOXK2 규명](https://pubmed.ncbi.nlm.nih.gov/42953949/)
 <small>Genome-Wide and Multi-Omics Analysis Identified DNA-Interacting Circular RNA circFOXK2 as MLL1 Regulator for Histone H3K4 Methylation in Pancreatic Ductal Adenocarcinoma</small>
@@ -104,20 +125,6 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 - 이 기전을 통해 TMSB15B, BCAS1, TRIO, LAMA4, CYP26A1, TCP11 등의 유전자 발현이 증가합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42953949/) · [DOI](https://doi.org/10.1002/advs.77107) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717413/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42953949)</small>
-
----
-<a id="pmid-42960001"></a>
-#### [정정 고지: 생물정보학 분석을 통한 췌장관선암의 주요 경로 및 후보 유전자 동정](https://pubmed.ncbi.nlm.nih.gov/42960001/)
-<small>Erratum: [Corrigendum] Identification of key pathways and candidate genes in pancreatic ductal adenocarcinoma using bioinformatics analysis</small>
-
-`논문` `기타` `기초연구` · 2026-10-26 · PubMed · Oncol Lett · 중요도 0.60
-
-본 문서는 췌장관선암(PDAC)의 주요 경로 및 후보 유전자 분석 연구 논문에 대한 정정 고지입니다. 원문(DOI: 10.3892/ol.2019.10041)의 오류를 정정하기 위해 발표되었습니다. 정정 사항에 대한 구체적인 연구 수치나 상세 내용은 초록에 명시되지 않았습니다.
-
-- 이 문서는 췌장관선암 생물정보학 분석 논문의 오류를 정정하는 고지입니다.
-- 구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960001/) · [DOI](https://doi.org/10.3892/ol.2026.15920) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717820/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960001)</small>
 
 ---
 <a id="pmid-42956743"></a>
@@ -135,6 +142,20 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956743/) · [DOI](https://doi.org/10.1016/j.ccell.2026.10.003) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956743)</small>
 
 ---
+<a id="pmid-42960001"></a>
+#### [정정 고지: 생물정보학 분석을 통한 췌장관선암의 주요 경로 및 후보 유전자 동정](https://pubmed.ncbi.nlm.nih.gov/42960001/)
+<small>Erratum: [Corrigendum] Identification of key pathways and candidate genes in pancreatic ductal adenocarcinoma using bioinformatics analysis</small>
+
+`논문` `기타` `기초연구` · 2026-10-26 · PubMed · Oncol Lett · 중요도 0.60
+
+본 문서는 췌장관선암(PDAC)의 주요 경로 및 후보 유전자 분석 연구 논문에 대한 정정 고지입니다. 원문(DOI: 10.3892/ol.2019.10041)의 오류를 정정하기 위해 발표되었습니다. 정정 사항에 대한 구체적인 연구 수치나 상세 내용은 초록에 명시되지 않았습니다.
+
+- 이 문서는 췌장관선암 생물정보학 분석 논문의 오류를 정정하는 고지입니다.
+- 구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960001/) · [DOI](https://doi.org/10.3892/ol.2026.15920) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717820/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960001)</small>
+
+---
 <a id="doi-10.64898-2026.10.27.762113"></a>
 #### [케라틴 17(K17), 췌관선암종에서 상피-간엽 이행 연관 이동성 세포 상태 정의](https://europepmc.org/article/PPR/PPR1353409)
 <small>Keratin 17 Defines an Epithelial-Mesenchymal Transition-Associated Migratory Cell State in Pancreatic Ductal Adenocarcinoma</small>
@@ -148,36 +169,6 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 - 3차원 구체(spheroid) 실험을 통해 K17이 췌장암 세포의 이동성을 직접적으로 촉진함을 확인했습니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1353409) · [DOI](https://doi.org/10.64898/2026.10.27.762113) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.27.762113)</small>
-
----
-<a id="pmid-42957640"></a>
-#### [PSMD14 표적 치료를 통한 췌장암의 젬시타빈 항암제 감수성 증대 및 WNT/β-카테닌 경로·당분해 억제](https://pubmed.ncbi.nlm.nih.gov/42957640/)
-<small>Targeting PSMD14 increases chemotherapeutic sensitivity to gemcitabine by inhibiting the WNT/β-catenin pathway and glycolysis in pancreatic cancer</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` `치료 전반` · 2026-08-03 · PubMed · Cell Death Dis · 중요도 0.54
-
-본 연구는 췌장암에서 과다발현되는 탈유비퀴틴화 효소인 PSMD14가 항암제 저항성을 유발하는 기전을 규명했습니다. PSMD14는 WNT/β-카테닌(WNT/β-catenin) 경로를 활성화하고 호기성 당분해를 촉진하여 젬시타빈(gemcitabine)에 대한 저항성을 일으킵니다. 연구진은 PSMD14 억제제인 capzimin(캡지민)을 투여했을 때 세포, 오가노이드, 마우스 모델에서 젬시타빈에 대한 감수성이 향상됨을 확인했습니다.
-
-- PSMD14는 DVL1 탈유비퀴틴화를 통해 WNT/β-카테닌 경로를 활성화하고 췌장암의 당분해 및 항암제 저항성을 유도합니다.
-- WNT/β-카테닌 경로 활성화는 다시 PSMD14의 전사를 촉진하는 것으로 나타났습니다.
-- PSMD14 억제제인 capzimin(캡지민)은 세포, 오가노이드, 마우스 모델에서 젬시타빈(gemcitabine)에 대한 치료 반응을 향상시켰습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957640/) · [DOI](https://doi.org/10.1038/s41419-026-08958-w) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957640)</small>
-
----
-<a id="pmid-42957343"></a>
-#### [종양 항원 제시 증진을 통한 췌장암 내 Tgfbr2 결손 T 세포 수용체 조작 T 세포의 치료 효능 극대화](https://pubmed.ncbi.nlm.nih.gov/42957343/)
-<small>Promoting tumor antigen presentation unleashes therapeutic efficacy of Tgfbr2-deficient TCR-engineered T cells in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-29 · PubMed · J Immunother Cancer · 중요도 0.54
-
-이 연구는 췌장관선암(pancreatic ductal adenocarcinoma) 전임상 모델을 대상으로 Tgfbr2가 결손된 T 세포 수용체(TCR) 조작 T 세포의 항암 효과를 조사했습니다. 연구 결과, 종양 항원 제시를 촉진함으로써 Tgfbr2 결손 TCR 조작 T 세포의 치료 효능이 크게 향상되는 것으로 나타났습니다. 이는 췌장암 면역치료의 새로운 접근법을 제시합니다. 자세한 환자 수나 생존기간 수치는 초록에 명시되지 않았습니다.
-
-- Tgfbr2가 결손된 T 세포 수용체(TCR) 조작 T 세포를 이용해 췌장관선암 치료 효능을 평가했습니다.
-- 종양 항원 제시를 증진시켰을 때 치료 효과가 향상되었습니다.
-- 구체적인 수치나 환자 대상 결과는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957343/) · [DOI](https://doi.org/10.1136/jitc-2026-015489) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957343)</small>
 
 ---
 <a id="pmid-42957255"></a>
@@ -195,19 +186,64 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957255/) · [DOI](https://doi.org/10.21873/invivo.14485) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957255)</small>
 
 ---
-<a id="pmid-42960150"></a>
-#### [췌장암의 CT 영상 유도 화학면역치료를 위한 치료용 백신으로서의 엑소년 코팅 덴드리머 나노겔](https://pubmed.ncbi.nlm.nih.gov/42960150/)
-<small>Exosome-Coated Dendrimer Nanogels as a Therapeutic Vaccine for CT Imaging-Guided Chemoimmunotherapy of Pancreatic Cancer</small>
+<a id="pmid-42957343"></a>
+#### [종양 항원 제시 증진을 통한 췌장암 내 Tgfbr2 결손 T 세포 수용체 조작 T 세포의 치료 효능 극대화](https://pubmed.ncbi.nlm.nih.gov/42957343/)
+<small>Promoting tumor antigen presentation unleashes therapeutic efficacy of Tgfbr2-deficient TCR-engineered T cells in pancreatic ductal adenocarcinoma</small>
 
-`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` `치료 전반` · 2026-07-10 · PubMed · Polym Sci Technol · 중요도 0.52
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-29 · PubMed · J Immunother Cancer · 중요도 0.54
 
-연구진은 췌장암 치료를 위해 토요카마이신(toyocamycin)과 금 나노파티클(gold nanoparticles, Au NPs)을 탑재하고 엑소좀(exosome)으로 표면을 감싼 덴드리머 나노겔(dendrimer nanogel, DNG) 기반의 치료용 백신(Au@DNG@C-Exo)을 개발했습니다. 이 나노백신은 컴퓨터단층촬영(computed tomography, CT) 영상 유도 하에 화학항암치료와 면역치료를 동시에 수행하도록 설계되었습니다. 동물 모델(Panc-02 췌장암 마우스 모델) 실험에서 이 치료법은 종자 성장을 극대화하여 억제하고 강력한 전신 항종양 면역 반응을 유도했습니다. 또한 면역 접종 후 종양 발생을 효과적으로 예방하는 것으로 나타났습니다.
+이 연구는 췌장관선암(pancreatic ductal adenocarcinoma) 전임상 모델을 대상으로 Tgfbr2가 결손된 T 세포 수용체(TCR) 조작 T 세포의 항암 효과를 조사했습니다. 연구 결과, 종양 항원 제시를 촉진함으로써 Tgfbr2 결손 TCR 조작 T 세포의 치료 효능이 크게 향상되는 것으로 나타났습니다. 이는 췌장암 면역치료의 새로운 접근법을 제시합니다. 자세한 환자 수나 생존기간 수치는 초록에 명시되지 않았습니다.
 
-- 개발된 나노백신(Au@DNG@C-Exo)의 크기는 105.6 nm이며 균일한 크기 분포와 안정성을 보였습니다.
-- 금 나노파티클을 통해 종양 관련 대식세포를 항종양 M1 표현형으로 재분극하고 생체 내 CT 영상의 조영제로 기능했습니다.
-- Panc-02 췌장암 마우스 모델에서 종양 성장을 최대화하여 억제하고 강력한 전신 항종양 면역 반응을 이끌어냈습니다.
+- Tgfbr2가 결손된 T 세포 수용체(TCR) 조작 T 세포를 이용해 췌장관선암 치료 효능을 평가했습니다.
+- 종양 항원 제시를 증진시켰을 때 치료 효과가 향상되었습니다.
+- 구체적인 수치나 환자 대상 결과는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960150/) · [DOI](https://doi.org/10.1021/polymscitech.6c00065) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718370/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960150)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957343/) · [DOI](https://doi.org/10.1136/jitc-2026-015489) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957343)</small>
+
+---
+<a id="pmid-42957640"></a>
+#### [PSMD14 표적 치료를 통한 췌장암의 젬시타빈 항암제 감수성 증대 및 WNT/β-카테닌 경로·당분해 억제](https://pubmed.ncbi.nlm.nih.gov/42957640/)
+<small>Targeting PSMD14 increases chemotherapeutic sensitivity to gemcitabine by inhibiting the WNT/β-catenin pathway and glycolysis in pancreatic cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `치료 전반` · 2026-08-03 · PubMed · Cell Death Dis · 중요도 0.54
+
+본 연구는 췌장암에서 과다발현되는 탈유비퀴틴화 효소인 PSMD14가 항암제 저항성을 유발하는 기전을 규명했습니다. PSMD14는 WNT/β-카테닌(WNT/β-catenin) 경로를 활성화하고 호기성 당분해를 촉진하여 젬시타빈(gemcitabine)에 대한 저항성을 일으킵니다. 연구진은 PSMD14 억제제인 capzimin(캡지민)을 투여했을 때 세포, 오가노이드, 마우스 모델에서 젬시타빈에 대한 감수성이 향상됨을 확인했습니다.
+
+- PSMD14는 DVL1 탈유비퀴틴화를 통해 WNT/β-카테닌 경로를 활성화하고 췌장암의 당분해 및 항암제 저항성을 유도합니다.
+- WNT/β-카테닌 경로 활성화는 다시 PSMD14의 전사를 촉진하는 것으로 나타났습니다.
+- PSMD14 억제제인 capzimin(캡지민)은 세포, 오가노이드, 마우스 모델에서 젬시타빈(gemcitabine)에 대한 치료 반응을 향상시켰습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957640/) · [DOI](https://doi.org/10.1038/s41419-026-08958-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720168/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957640)</small>
+
+---
+<a id="pmid-42963794"></a>
+#### [SLC6A14 매개 영양소 경쟁 표적화를 통한 췌장암 내 면역억제성 대사 미세환경 개선](https://pubmed.ncbi.nlm.nih.gov/42963794/)
+<small>Targeting SLC6A14-mediated nutrient competition reverses an immunosuppressive metabolic niche in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-08-14 · PubMed · Exp Hematol Oncol · 중요도 0.54
+
+본 연구는 췌관선암의 영양 결핍 및 면역억제 미세환경에서 아미노산 수송체인 SLC6A14의 역할을 규명한 전임상 연구입니다. 연구진은 SLC6A14가 췌장암 세포의 아미노산 흡수를 촉진하는 반면, 면역세포인 수지상세포와 CD8+ T세포의 영양 흡수를 방해하여 면역 억제를 유도한다는 점을 확인했습니다. 또한 SLC6A14 억제제인 STOCK1N-75990을 발굴하여 동물 모델에서 투여한 결과, 독성이 낮으면서 종양 성장을 억제하고 항PD-1 면역항암제와의 병용 시너지 효과를 나타냈습니다.
+
+- SLC6A14의 높은 발현은 췌관선암 환자의 불량한 예후와 직접적으로 연관되어 있습니다.
+- SLC6A14는 암세포의 대사 재프로그래밍을 유도하고 면역세포(수지상세포 및 CD8+ T세포)의 아미노산 흡수를 경쟁적으로 차단해 면역을 억제합니다.
+- 표적 억제제인 STOCK1N-75990은 전임상 모델에서 낮은 독성과 항종양 효과를 보였으며, 항PD-1 치료와의 병용 효과를 입증했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963794/) · [DOI](https://doi.org/10.1186/s40164-026-00818-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963794)</small>
+
+---
+<a id="doi-10.64898-2026.10.28.26366656"></a>
+#### [비암호화 췌장관선암 위험 유전자좌에서 원거리 염색질 상호작용을 통한 후보 감수성 유전자 규명](https://europepmc.org/article/PPR/PPR1354134)
+<small>Long-range chromatin interactions nominate candidate susceptibility genes at non-coding PDAC risk loci</small>
+
+`프리프린트` `전임상` `기초연구` `치료 전반` · 2026-10-30 · Europe PMC (preprint) · medRxiv · 중요도 0.54
+
+췌장관선암(PDAC)의 전장 유전체 연관성 분석(GWAS)에서 발견된 비암호화 위험 유전자좌들의 기능적 표적 유전자를 규명하기 위한 연구입니다. 연구진은 31개 위험 신호에서 1,414개 변이를 정밀 지도화(fine-mapping)하고 염색질 구조 포착 기법(GWAS Capture-C)을 적용했습니다. 분석 결과 25개 유전자좌에서 273개의 후보 표적 유전자를 식별했습니다. 특히 7p14.1 유전자좌가 원거리 인핸서로 작용하여 INHBA 유전자 발현을 조절하며 염증 신호 경로와 연관됨을 확인했습니다.
+
+- 31개 췌장관선암 위험 신호에서 정밀 지도화된 1,078개 변이가 259개 표적 유전자와 원거리 염색질 상호작용을 형성함을 확인했습니다.
+- 17q24.3 영역에서는 췌장 발달 조절 유전자인 SOX9과의 상호작용(~280 kb)을, 17q21.2 영역에서는 KRT 유전자 프로모터와의 원거리 상호작용(>1 Mb)을 발견했습니다.
+- 7p14.1 유전자좌(rs12701838)는 INHBA 프로모터와 약 900 kb 상호작용을 하며, CRISPR 억제 실험을 통해 INHBA 발현을 조절하는 원거리 인핸서로 작용함을 입증했습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1354134) · [DOI](https://doi.org/10.64898/2026.10.28.26366656) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.28.26366656)</small>
 
 ---
 <a id="pmid-42958264"></a>
@@ -222,7 +258,22 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 - NIR-II 영상 유도를 통해 1500 nm 이상의 고해상도 전신 혈관조영과 효율적인 종양 축적이 확인되었습니다.
 - 1차 및 KPC 췌장암 동물 모델에서 d-NBT 나노입자의 광면역치료 효과로 종양이 완전히 제거되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958264/) · [DOI](https://doi.org/10.1186/s12951-026-04873-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958264)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958264/) · [DOI](https://doi.org/10.1186/s12951-026-04873-6) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721228/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958264)</small>
+
+---
+<a id="pmid-42960150"></a>
+#### [췌장암의 CT 영상 유도 화학면역치료를 위한 치료용 백신으로서의 엑소년 코팅 덴드리머 나노겔](https://pubmed.ncbi.nlm.nih.gov/42960150/)
+<small>Exosome-Coated Dendrimer Nanogels as a Therapeutic Vaccine for CT Imaging-Guided Chemoimmunotherapy of Pancreatic Cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` `치료 전반` · 2026-07-10 · PubMed · Polym Sci Technol · 중요도 0.52
+
+연구진은 췌장암 치료를 위해 토요카마이신(toyocamycin)과 금 나노파티클(gold nanoparticles, Au NPs)을 탑재하고 엑소좀(exosome)으로 표면을 감싼 덴드리머 나노겔(dendrimer nanogel, DNG) 기반의 치료용 백신(Au@DNG@C-Exo)을 개발했습니다. 이 나노백신은 컴퓨터단층촬영(computed tomography, CT) 영상 유도 하에 화학항암치료와 면역치료를 동시에 수행하도록 설계되었습니다. 동물 모델(Panc-02 췌장암 마우스 모델) 실험에서 이 치료법은 종자 성장을 극대화하여 억제하고 강력한 전신 항종양 면역 반응을 유도했습니다. 또한 면역 접종 후 종양 발생을 효과적으로 예방하는 것으로 나타났습니다.
+
+- 개발된 나노백신(Au@DNG@C-Exo)의 크기는 105.6 nm이며 균일한 크기 분포와 안정성을 보였습니다.
+- 금 나노파티클을 통해 종양 관련 대식세포를 항종양 M1 표현형으로 재분극하고 생체 내 CT 영상의 조영제로 기능했습니다.
+- Panc-02 췌장암 마우스 모델에서 종양 성장을 최대화하여 억제하고 강력한 전신 항종양 면역 반응을 이끌어냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960150/) · [DOI](https://doi.org/10.1021/polymscitech.6c00065) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718370/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960150)</small>
 
 ---
 <a id="pmid-42962198"></a>
@@ -254,24 +305,6 @@ The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor s
 - 구체적인 임상 수치나 환자 반응률은 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960156/) · [DOI](https://doi.org/10.1016/j.iliver.2026.100268) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718399/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960156)</small>
-
----
-<a id="nct-nct07254091"></a>
-#### [췌장암 환자에서 약물 반응의 체내 평가를 위한 이식형 마이크로디바이스 파일럿 연구](https://clinicaltrials.gov/study/NCT07254091)
-<small>Pilot Study of an Implantable Microdevice for In Situ Evaluation of Drug Response in Patients With Pancreatic Cancer</small>
-
-`임상시험` `1상` `수술` `진단·조기발견` `기초연구` · 2025-11-28 · ClinicalTrials.gov · Northwell Health · 중요도 0.84
-
-**NCT07254091** · 초기 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07254091.md)
-
-이 연구는 췌장암 환자를 대상으로 수술 중 이식형 마이크로디바이스를 삽입하고 회수하는 전향적 1상 안전성 연구입니다. 디바이스는 수술 중 삽입되어 4시간 동안 유지된 뒤 종양과 함께 제거되며, 수술 후 1개월 이내에 합병증 발생률이 증가하지 않는지 모니터링합니다. 또한 주변 조직으로의 약물 확산과 항암 효과를 분석하여 타당성을 평가합니다. 탐색적 분석에서는 환자의 종양 조직을 오가노이드(organoid)로 배양하여 마이크로디바이스에서 관찰된 약물 반응과 비교합니다.
-
-- 목표 인원은 10명이며 췌장암 수술이 예정된 환자를 대상으로 합니다.
-- 수술 중 마이크로디바이스를 4시간 동안 이식한 후 종양과 함께 일괄(en-bloc) 제거합니다.
-- 디바이스 삽입 및 제거가 1개월 이내의 수술 합병증에 미치는 영향을 평가합니다.
-- 조직 내 약물 확산 평가 및 종양 오가노이드와의 약물 반응 상관관계를 비교합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07254091) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07254091)</small>
 
 ---
 <a id="pmid-42956081"></a>
@@ -2269,35 +2302,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - CGRP 수용체 길항제인 rimegepant는 동물 모델에서 종양 성장을 억제하고 gemcitabine과의 병용 항암 시너지 효과를 나타냈습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42889331/) · [DOI](https://doi.org/10.3389/fphar.2026.1928812) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13669720/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42889331)</small>
-
----
-<a id="pmid-42890651"></a>
-#### [전사인자 기반 대사 분류를 통한 췌장암의 해당작용형 및 지질생성형 아형 규명: 예후 및 기능적 특성 분석](https://pubmed.ncbi.nlm.nih.gov/42890651/)
-<small>Transcription factor-driven metabolic stratification reveals glycolytic and lipogenic subtypes with distinct prognostic and functional features in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-10-02 · PubMed · Front Oncol · 중요도 0.59
-
-다양한 췌장암 환자 코호트의 유전체 데이터와 단일세포 전사체 데이터를 분석하여 전사인자(TF) 기반의 대사 아형을 분류한 기초 연구입니다. 연구진은 췌장암 조직을 포도당을 주로 분해해 에너지를 얻는 해당작용(glycolytic) 아형과 지방을 합성하는 지질생성(lipogenic) 아형으로 구분했습니다. 분석 결과 해당작용 아형은 암세포 분화도가 낮고 예후가 더 나빴던 반면, 지질생성 아형은 상대적으로 양호한 임상적 예후를 보였습니다. 또한 분자생물학적 실험을 통해 TP63 전사인자가 이러한 대사 재프로그래밍을 조절하는 핵심 인자임을 확인했습니다.
-
-- 췌관선암(PDAC) 데이터를 통합 분석하여 전사인자 기반의 해당작용(glycolytic) 및 지질생성(lipogenic) 대사 아형을 규명했습니다.
-- 해당작용 중심 아형은 불량한 분화도 및 더 나쁜 예후와 연관되었으며, 지질생성 중심 아형은 보다 양호한 임상 결과를 보였습니다.
-- 세포 실험을 통해 TP63이 췌장암 세포의 대사 재프로그래밍을 조절하는 주요 인자임을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890651/) · [DOI](https://doi.org/10.3389/fonc.2026.1900370) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13672013/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890651)</small>
-
----
-<a id="pmid-42890791"></a>
-#### [ESCO1이 아세틸화-유비퀴틴화 상호작용을 통해 NUFIP2를 안정화하여 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42890791/)
-<small>ESCO1 stabilizes NUFIP2 through acetylation-ubiquitination crosstalk to promote pancreatic cancer progression</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-02 · PubMed · Front Immunol · 중요도 0.59
-
-본 연구는 췌장암에서 ESCO1과 NUFIP2 유전자의 발현과 임상적 의의, 작용 기전을 분석한 기초 연구입니다. 공공 데이터베이스 분석 결과 췌장암에서 ESCO1과 NUFIP2의 발현이 높았으며 이는 불량한 예후와 연관되었습니다. 세포 및 동물 실험을 통해 ESCO1이 NUFIP2를 안정화하여 미토콘드리아 세포사멸을 억제하고 암 성장을 촉진함을 확인했습니다. 또한 이 축을 억제했을 때 수지상세포 매개 세포독성 T 림프구의 항암 면역 반응이 강화되어 치료 표적으로서의 가능성을 제시했습니다.
-
-- ESCO1과 NUFIP2는 췌장암 조직에서 유의하게 과발현되어 있으며 불량한 환자 예후와 관련이 있었습니다.
-- ESCO1은 NUFIP2 단백질의 아세틸화를 촉진하고 분해를 막아 미토콘드리아 세포사멸을 억제하고 종양 성장을 도왔습니다.
-- ESCO1 또는 NUFIP2를 결핍시키면 수지상세포(DC)에 의한 세포독성 T 림프구(CTL)의 항암 면역 반응이 증가했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42890791/) · [DOI](https://doi.org/10.3389/fimmu.2026.1929713) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13672342/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42890791)</small>
 
 ---

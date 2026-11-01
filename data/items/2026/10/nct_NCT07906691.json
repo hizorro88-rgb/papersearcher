@@ -18,9 +18,9 @@
  "id": "nct:NCT07906691",
  "importance": 0.7,
  "key_points_ko": [
-  "건강한 성인 지원자 18명을 대상으로 진행하는 임상 1상 약동학 연구입니다.",
-  "이트라코나졸 병용 투여가 정맥 주입된 HRS-4642의 약물 동태에 미치는 영향을 평가합니다.",
-  "만 18세 이상 45세 이하의 건강한 남성 및 여성 지원자가 참여합니다."
+  "건강한 성인 자원자 18명을 대상으로 진행되는 임상 1상 약물 상호작용 연구입니다.",
+  "HRS-4642 단독 정맥 투여와 이트라코나졸 병용 투여 시의 약동학적 특성을 비교 평가합니다.",
+  "만 18세 이상 45세 이하의 기저 질환이 없는 건강인을 대상으로 진행됩니다."
  ],
  "last_updated": "2026-10-31",
  "links": {
@@ -45,11 +45,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07906691"
  },
- "summary_ko": "본 연구는 건강한 성인을 대상으로 정맥 주입된 HRS-4642의 약동학(pharmacokinetics)에 이트라코나졸(Itraconazole)이 미치는 영향을 평가하는 임상 1상 연구입니다. 단일 기관, 단일 군, 공개, 고정 순서 임상 시험으로 진행됩니다. 목표 인원은 18명이며, HRS-4642 약물의 상호작용 및 안전성 특성을 확인하고자 합니다.",
+ "summary_ko": "본 임상시험은 췌장암 등의 치료제로 개발 중인 신약 후보물질 HRS-4642를 건강한 성인 자원자에게 정맥 주사했을 때, 항진균제인 이트라코나졸(Itraconazole)이 약물의 체내 흡수 및 대사(약동학)에 미치는 영향을 확인하기 위해 설계되었습니다. 단일 기관에서 18명의 건강한 참가자를 대상으로 진행되는 단일군, 공개, 1상 약물 상호작용 시험입니다. 이트라코나졸 병용 투여 전후의 HRS-4642 약물 농도 변화를 분석합니다. 본 시험은 환자가 아닌 건강인을 대상으로 약물의 안전성과 약물 상호작용을 평가합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study to Assess the Effect of Itraconazole on the Pharmacokinetics of HRS-4642 Following Intravenous Infusion in Healthy Participants",
- "title_ko": "건강한 참가자에서 정맥 주입 후 HRS-4642의 약동학에 대한 이트라코나졸의 영향을 평가하기 위한 임상 연구",
+ "title_ko": "건강한 자원자를 대상으로 이트라코나졸이 HRS-4642 정맥 투여 후 약동학에 미치는 영향을 평가하기 위한 임상 1상 시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -66,7 +66,7 @@
     "phone": "+86-0518-82342973"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 동의서 작성 시점 기준 만 18세 이상 45세 이하의 건강한 참가자\n- 남성 체중 50.0kg 이상, 여성 체중 45.0kg 이상, 체질량지수(BMI) 19~26 kg/m² 범위\n- 가령이 가능한 여성 및 그 남성 파트너는 투여 기간 및 투여 후 1개월까지 고효율 피임법 사용에 동의한 경우\n- 연구 요구사항을 이해하고 준수할 수 있으며 동의서에 서명한 경우\n\n제외 기준:\n- 순환기, 내분비, 신경, 소화기, 호흡기, 임상적으로 유의한 질환 또는 대사 장애 병력이 있는 경우\n- 6개월 이내 심뇌혈관 질환, 혈전성 사건 병력 또는 6개월 이내 수술 병력이 있는 경우\n- 위절제술 등 위장관 흡수에 영향을 미치는 수술 병력이 있거나 위산 중화제 복용이 필요한 경우\n- 3개월 이내 400mL 이상의 헌혈, 혈액제제 투여, 또는 다른 임상시험 약물 투여 경험이 있는 경우\n- 약물 남용 병력, 약물 스크리닝 양성, 또는 일정 수준 이상의 음주 및 흡연을 하는 경우\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 45세 이하의 건강한 성인\n- 체중 남성 50.0 kg 이상, 여성 45.0 kg 이상이며 체질량지수(BMI) 19~26 kg/m² 범위인 자\n- 가임기 여성의 경우 임신 반응 검사 음성이며 시험 기간 및 투약 후 1개월까지 철저한 피임에 동의한 자\n- 연구 요건을 준수하고 동의서에 서명한 자\n\n제외 기준:\n- 주요 장기계(순환기, 내분비, 신경계, 소화기, 호흡기 등)의 임상적으로 유의한 질환 또는 병력이 있는 자\n- 최근 6개월 이내 중증 심뇌혈관 질환 또는 동맥/정맥 혈전증 병력이 있는 자\n- 최근 6개월 이내 수술 병력이 있거나 연구 기간 중 수술이 계획된 자\n- 위장관 흡수에 영향을 주는 수술(위절제술, 장절제술 등) 병력이 있는 자\n- B형 간염, C형 간염, 매독, HIV 감염 양성인 자\n- 임신 중이거나 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. Healthy participants aged 18 to 45 years (inclusive) at the time of signing the informed consent form.\n2. Male participants with body weight ≥ 50.0 kg, female participants with body weight ≥ 45.0 kg, and body mass index (BMI) between 19 and 26 kg/m² (inclusive of both endpoints).\n3. Female participants of childbearing potential who have not been surgically sterilized must use highly effective contraception from the time of signing the informed consent form until 1 month after the last dose of HRS-4642; male participants whose partners are women of childbearing potential must use highly effective contraception from the time of signing the informed consent form until 1 month after the last dose of HRS-4642. Female participants of childbearing potential who have not been surgically sterilized must have a negative serum HCG test within 14 days prior to the first dose, and must not be lactating.\n4. Participants are able to communicate effectively with the investigator, understand and comply with all requirements of this study, and understand and sign the informed consent form.\n\nExclusion Criteria:\n\n1. A history of or current presence of any clinically significant disease of the circulatory, endocrine, nervous, digestive, respiratory, urogenital, hematologic, immunologic, or psychiatric systems, or metabolic disorders, or any other condition that may interfere with the study results.\n2. Poorly controlled or severe cardiovascular/cerebrovascular disease or arterial/venous thrombotic events within 6 months prior to study entry, such as cerebral hemorrhage, cerebral infarction, severe/unstable angina pectoris, symptomatic congestive heart failure (NYHA Class II-IV), myocardial infarction, arrhythmia requiring clinical intervention, deep vein thrombosis, etc.\n3. Carotid ultrasound showing stenosis ≥ 50% (the ECST method is preferred) or presence of more than 2 high-risk plaques.\n4. Surgery within 6 months prior to screening, or planned surgery during the study period.\n5. Previous surgery affecting gastrointestinal absorption (including gastrectomy, bowel resection, gastric bypass/bariatric surgery, etc.), or need for gastric acid-neutralizing medications (e.g., aluminum hydroxide) during the study.\n6. Blood donation or significant blood loss (≥ 400 mL), blood transfusion, or use of blood products within 3 months prior to screening.\n7. Regular use of sedatives, hypnotics, or other addictive drugs; a history of drug abuse within 1 year prior to screening, or a positive urine drug abuse screen.\n8. Participation in any clinical trial with administration of investigational drugs within 3 months prior to the first dose.\n9. Smoking more than 5 cigarettes per day within 3 months prior to screening, and inability to stop using any tobacco products during the study period.\n10. Regular alcohol consumption within 6 months prior to screening, defined as more than 14 units of alcohol per week (1 unit = 285 mL of beer, 25 mL of spirits, or 100 mL of wine), and inability to stop using any alcohol-containing products during the study period; positive breath alcohol test.\n11. Clinically significant abnormalities in vital signs, physical examination, 12-lead electrocardiogram (ECG), abdominal ultrasound, chest X-ray, complete blood count, blood biochemistry, urinalysis, or coagulation tests during the screening period.\n12. Positive hepatitis B surface antigen (HBsAg), positive hepatitis C antibody (anti-HCV), positive syphilis antibody, or positive HIV antibody.\n13. History of needle phobia or blood-injection phobia, difficulty with blood collection, or inability to tolerate venipuncture blood sampling.\n14. Pregnant or lactating women.\n15. Participants with other factors deemed by the investigator to be unsuitable for participation in this study.",
   "enrollment": 18,
   "has_results": false,
@@ -84,16 +84,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "임상적으로 유의한 주요 장기 질환 또는 대사 장애 병력",
-    "6개월 이내 심뇌혈관 질환, 혈전증, 또는 수술 병력",
-    "위장관 흡수에 영향을 미치는 수술 병력",
-    "약물 남용, 음주 또는 흡연 기준 초과",
-    "임신 또는 수유 중인 여성"
+    "기저 만성 질환 또는 중대한 장기계 질환이 있는 경우",
+    "최근 6개월 이내 중증 심뇌혈관 질환 또는 수술 병력이 있는 경우",
+    "위장관 절제 수술 병력이 있는 경우",
+    "B형 간염, C형 간염, 매독, HIV 등 감염성 질환이 있는 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": false,
    "min_prior_lines": null,
-   "notes_ko": "환자가 아닌 만 18~45세의 건강한 성인 지원자를 대상으로 하는 약동학 연구입니다.",
+   "notes_ko": "췌장암 치료 후보물질의 약물 상호작용을 평가하는 연구로, 암 환자가 아닌 건강한 자원자 대상 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

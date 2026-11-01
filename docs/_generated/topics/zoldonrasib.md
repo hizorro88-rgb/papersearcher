@@ -27,6 +27,14 @@ search:
 | [KRAS G12D 변이 전이성 췌관선암 환자의 1차 치료로서 Zoldonrasib과 연구자 선택 항암화학요법 병용투여 대 위…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (0)
+## 타임라인 (1)
 
-아직 수집된 항목이 없습니다.
+<a id="pmid-42963543"></a>
+#### [KRAS in pancreatic cancer: from molecular biology to transformative therapeutics](https://pubmed.ncbi.nlm.nih.gov/42963543/)
+`논문` `종설` `신약·치료제` `치료 전반` · 2026-10-30 · PubMed · J Hematol Oncol · 중요도 0.72
+
+Pancreatic ductal adenocarcinoma (PDAC) is a near-universally lethal malignancy, with KRAS mutations driving tumorigenesis in over 90% of cases. For decades considered undruggable, oncogenic KRAS has now been therapeutically engaged across multiple mutational subtypes, a revolution precipitated by allele-specific covalent inhibitors and accelerated by the emergence of RAS(ON) multi-selective inhibitors.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963543/) · [DOI](https://doi.org/10.1186/s13045-026-01863-x) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963543)</small>
+
+---

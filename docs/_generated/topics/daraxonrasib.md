@@ -33,8 +33,17 @@ search:
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (8)
+## 타임라인 (10)
 
+<a id="pmid-42963543"></a>
+#### [KRAS in pancreatic cancer: from molecular biology to transformative therapeutics](https://pubmed.ncbi.nlm.nih.gov/42963543/)
+`논문` `종설` `신약·치료제` `치료 전반` · 2026-10-30 · PubMed · J Hematol Oncol · 중요도 0.72
+
+Pancreatic ductal adenocarcinoma (PDAC) is a near-universally lethal malignancy, with KRAS mutations driving tumorigenesis in over 90% of cases. For decades considered undruggable, oncogenic KRAS has now been therapeutically engaged across multiple mutational subtypes, a revolution precipitated by allele-specific covalent inhibitors and accelerated by the emergence of RAS(ON) multi-selective inhibitors.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963543/) · [DOI](https://doi.org/10.1186/s13045-026-01863-x) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963543)</small>
+
+---
 <a id="pmid-42956743"></a>
 #### [췌장암에서 KRAS G12D 표적 치료 감수성은 인터페론 신호전달 활성화에 의존합니다](https://pubmed.ncbi.nlm.nih.gov/42956743/)
 <small>KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer</small>
@@ -48,6 +57,20 @@ search:
 - 지속적인 MYC 활성은 KRAS 억제에 대한 감수성 감소 및 인터페론 신호전달 억제와 연관되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956743/) · [DOI](https://doi.org/10.1016/j.ccell.2026.10.003) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956743)</small>
+
+---
+<a id="pmid-42962509"></a>
+#### [RAS G12 분류를 넘어서: 췌장암에서 daraxonrasib 치료 후 치료 특이적 예측 검정](https://pubmed.ncbi.nlm.nih.gov/42962509/)
+<small>Beyond RAS G12 grouping: testing treatment-specific prediction after daraxonrasib in pancreatic cancer</small>
+
+`논문` `기타` `신약·치료제` `치료 전반` · 2026-10-26 · PubMed · Cancer Treat Res Commun · 중요도 0.60
+
+본 서한(Letter) 논문은 췌장암에서 daraxonrasib(다락소나십) 투여 후 단순한 RAS G12 변이 분류를 넘어 치료 반응을 특이적으로 예측하는 평가에 대해 다룹니다. 구체적인 환자 데이터, 연구 방법 및 결과 수치는 초록 원문이 제공되지 않아 명시되지 않았습니다. 전반적인 치료 특이적 예측 모델에 대한 학술적 논의를 담고 있습니다.
+
+- 췌장암에서 daraxonrasib(다락소나십) 치료 후 반응 예측에 대한 내용을 다룬 서한(Letter) 논문입니다.
+- 구체적인 분석 수치 및 임상 결과는 원문에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42962509/) · [DOI](https://doi.org/10.1016/j.ctarc.2026.101503) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42962509)</small>
 
 ---
 <a id="pmid-42906097"></a>

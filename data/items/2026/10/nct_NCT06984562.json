@@ -20,11 +20,12 @@
  "id": "nct:NCT06984562",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 인원은 총 16명입니다.",
-  "2주 동안 격일로 총 5회의 방사선 치료(radiation treatment)를 받습니다.",
-  "ECOG 수행능력(performance status) 0~2인 환자가 참여할 수 있습니다."
+  "대상 질환: 국소 진행성 절제불능 췌관선암(Pancreatic Ductal Adenocarcinoma, PDA)",
+  "중재 방법: 적응 방사선 치료(Adaptive Radiation Therapy, ART), 2주간 격일로 총 5회 치료",
+  "목표 환자 수: 16명",
+  "ECOG 수행능력 상태: 0에서 2 이하"
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06984562"
  },
- "summary_ko": "이 임상시험은 국소 진행성 췌장암(pancreatic ductal adenocarcinoma) 환자에게 적응 방사선 치료(Adaptive Radiation Therapy, ART)의 안전성과 효과를 확인하기 위해 진행됩니다. 연구의 주요 목적은 방사선이 건강한 조직을 보호하면서 공격적인 암세포를 더 잘 조준할 수 있는지, 그리고 치료 중 부작용을 줄일 수 있는지 평가하는 것입니다. 참여 환자들은 CT 촬영, 종양 생검, 2주간 격일로 총 5회의 방사선 치료를 받게 되며 혈액 검사도 제공합니다.",
+ "summary_ko": "이 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자에게 적응 방사선 치료(Adaptive Radiation Therapy, ART)가 안전하고 효과적인지 알아봅니다. 연구의 주된 목적은 방사선이 종양 주변의 건강한 조직을 보호하면서 공격적인 암세포를 더 잘 조준할 수 있는지, 그리고 부작용을 줄일 수 있는지 확인하는 것입니다. 참가자는 2주 동안 격일로 총 5회의 방사선 치료를 받게 됩니다. 본 연구는 폭스 체이스 암센터(Fox Chase Cancer Center)에서 진행하며 목표 인원은 16명입니다.",
  "summary_source": "llm",
  "tags": [
   "Adaptive Radiation Therapy",
@@ -72,7 +73,7 @@
     "phone": "267-449-1431"
    }
   ],
-  "eligibility_ko": "선정 기준: 1. 조직학적 또는 세포학적으로 확진된 췌관선암(PDA) 환자. 2. NCCN 기준에 따른 국소 진행성 절제불능 PDA 환자. 3. 용량 증가군에 등록하는 환자는 방사선 치료 시작 전에 항암화학요법을 시작했을 수 있으며 마지막 항암제 투여는 ART 시작 최소 2주 전에 이루어져야 함. 4. ECOG 수행능력 0-2. 5. 적절한 골수, 간, 신장 기능. 6. 가임기 여성의 경우 등록 전 72시간 이내 임신 테스트 음성. 7. 18세 이상. 8. 서면 동의서 서명 완료.\n\n제외 기준: 1. 방사선학적 또는 세포학적으로 확진된 전이성 질환. 2. 췌장암에 대한 이전 방사선 치료 병력. 3. 겹치는 부위에 대한 이전 동시화학방사선 치료력. 4. 췌장의 선편평세포암(adenosquamous carcinoma). 5. 연구 참여 전 2주 이내 항암화학요법을 받았거나 이전 치료의 부작용이 2등급 이하로 회복되지 않은 환자. 6. 임상시험용이 아닌 동시 항암화학요법 또는 생물학적 치료. 7. 모세혈관확장성 운동실조증(ataxia telangiectasia) 또는 방사선 과민증 병력, 병원성 ATM 변이. 8. 정맥 항생제 치료가 필요한 심각한 활동성 감염.",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확인된 췌관선암(PDA)\n- NCCN 기준에 따른 국소 진행성 절제불능 PDA\n- 다학제 회의를 통해 췌장암 외과의에 의해 절제불능으로 판정되고 유도 항암화학요법을 받았거나 부적격하다고 판단된 환자\n- ECOG 수행능력 상태 0~2\n- 적절한 골수, 간, 신장 기능 유지\n- 만 18세 이상 성인\n- 서면 동의서 작성 가능 환자\n\n제외 기준:\n- 방사선학적 또는 세포학적으로 확인된 전이성 질환\n- 췌장암에 대한 이전 방사선 치료력\n- 겹치는 부위에 이전 동시 화학방사선 치료력\n- 췌장의 선인세포암(adenosquamous carcinoma)\n- 연구 진입 전 2주 이내 항암화학요법 치료력\n- 방사선 과민증의 병력 또는 ATM 변이\n- 정맥(IV) 항생제 치료가 필요한 심각한 활성 감염",
   "eligibility_text": "Inclusion Criteria\n\n1. Patients must have histologically or cytologically-confirmed PDA.\n2. Patients must have locally advanced unresectable PDA.\n\n   • This includes the following- per NCCN criteria\\*: 2.1 Unreconstructible involvement with the superior mesenteric vein or portal vein due to tumor or bland thrombus OR 2.2 Solid tumor contact with greater than 180 degrees of the superior mesenteric artery or celiac artery OR 2.3. Solid tumor contact with the aorta OR 2.4. Patients with non-metastatic disease that is inoperable by virtue of the operation posing excessive risk to the patient\n\n   \\*All patients must have been reviewed in the multidisciplinary conference and determined to have unresectable disease by a pancreatic surgeon and to have received or be ineligible for induction chemotherapy based on medical oncology assessment. Documentation of this review in EPIC meeting minutes will satisfy this requirement.\n3. Patients enrolled onto the dose escalation arm may have started chemotherapy prior to initiation of radiation therapy and the last dose of chemotherapy must occur at least 2 weeks before start of ART.\n4. Eastern Cooperative Oncology Group, or ECOG, performance status 0-2.\n5. Adequate bone marrow, hepatic, renal function:\n\n   * ANC ≥ 1,500/µl and PLT ≥ 100,000/µl\n   * Bilirubin less than 1.5 ULN\n   * AST and ALT \\< 3X ULN\n   * Serum Creatinine \\<1.5X ULN\n6. Women of childbearing potential must not be pregnant (negative pregnancy test within 72 hours prior to registration). Postmenopausal woman must have been amenorrheal and non-lactating for at least 12 months to be considered of non-childbearing potential. Men and women of childbearing potential must be willing to exercise an effective form of birth control (abstinence/contraception) while on study and for at least 6 months after therapy is completed.\n7. Age ≥ 18 years\n8. Participants must sign a written informed consent and HIPAA consent prior to performance of study-specific procedures or assessments and must be willing to comply with treatment, tissue sample collections, and follow-up.\n\nExclusion Criteria\n\n1. Radiologically or cytologically confirmed metastatic disease.\n2. Patients who have had any prior radiation therapy for pancreatic cancer.\n3. Patients who have had prior chemoradiation to an overlapping volume.\n4. Patients with adenosquamous carcinoma of the pancreas.\n5. Subjects who have had chemotherapy within 2 weeks prior to entering the study or those who have not recovered from adverse events due to agents administered more than 2 weeks earlier to \\< Grade 2. Patients who received previous immunotherapy or other antibody therapy, within 28 days (immune related toxicities must have resolved to \\<= Grade 2 prior to starting treatment). Study treatment may be started within these washout periods or with continuing toxicities if considered by the Sponsor-Investigator to be safe and within the best interest of the patient.\n6. Concurrent non-study chemotherapy or biologic therapy.\n7. A history of ataxia telangiectasia or other documented history of radiation hypersensitivity.\n\n   • Includes both bi- and mono-allelic likely pathogenic or pathogenic ATM mutations (VUS is acceptable).\n8. Serious, active infections requiring treatment with IV antibiotics",
   "enrollment": 16,
   "has_results": false,
@@ -91,13 +92,12 @@
    "key_exclusions_ko": [
     "전이성 질환이 있는 경우",
     "이전에 췌장암 방사선 치료를 받은 경우",
-    "심각한 활동성 감염이 있는 경우",
-    "방사선 과민증 또는 특정 유전자(ATM) 변이가 있는 경우"
+    "정맥 항생제가 필요한 심각한 감염이 있는 경우"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "이전 방사선 치료를 받지 않은 국소 진행성 절제불능 췌관선암 환자",
+   "notes_ko": "이전 방사선 치료력이 없는 국소 진행성 절제불능 췌장암 환자",
    "prior_excluded": [
     "radiotherapy"
    ],

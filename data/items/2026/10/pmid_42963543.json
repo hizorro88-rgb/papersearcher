@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a near-universally lethal malignancy, with KRAS mutations driving tumorigenesis in over 90% of cases. For decades considered undruggable, oncogenic KRAS has now been therapeutically engaged across multiple mutational subtypes, a revolution precipitated by allele-specific covalent inhibitors and accelerated by the emergence of RAS(ON) multi-selective inhibitors. The pivotal phase 3 RASolute 302 trial of daraxonrasib, a pan-RAS(ON) inhibitor, demonstrated nearly doubled median overall survival (13.2 versus 6.7 months; HR 0.40; P < 0.0001) over standard chemotherapy in previously treated metastatic PDAC. Concurrently, mutation-selective G12D inhibitors (zoldonrasib, VS-7375, INCB161734), G12D-targeted protein degraders (setidegrasib), G12C-selective RAS(ON) compounds (elironrasib), and next-generation MEK inhibitors (atebimetinib) are advancing through clinical evaluation. This review synthesizes the biological basis of KRAS-driven oncogenesis in the pancreas, the mutational landscape and its prognostic implications, the structural and mechanistic evolution of KRAS inhibitor classes, contemporary and emerging clinical data from recent trials, toxicity profiles and their management, and resistance mechanisms. The field stands at an inflection point: daraxonrasib now redefines second-line PDAC management, while first-line combination regimens with daraxonrasib plus chemotherapy have produced an ORR of 58% in early-phase single-arm data, a result now being tested in the randomized RASolute 303 trial. The challenge ahead lies in translating these results into durable remissions through rational combination therapy and in overcoming acquired resistance.",
+ "authors": [
+  "Abdelhakeem A",
+  "Ganatra N",
+  "Gul K",
+  "Saxena H",
+  "Mohammed N",
+  "Ashraf A",
+  "Jones JC",
+  "Carr R"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib",
+  "zoldonrasib",
+  "elironrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42963543",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s13045-026-01863-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42963543"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Hematol Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963543/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a near-universally lethal malignancy, with KRAS mutations driving tumorigenesis in over 90% of cases. For decades considered undruggable, oncogenic KRAS has now been therapeutically engaged across multiple mutational subtypes, a revolution precipitated by allele-specific covalent inhibitors and accelerated by the emergence of RAS(ON) multi-selective inhibitors.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "KRAS in pancreatic cancer: from molecular biology to transformative therapeutics",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

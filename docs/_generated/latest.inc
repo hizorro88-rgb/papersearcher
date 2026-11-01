@@ -1,4 +1,4 @@
-<div class="ps-stats"><div class="ps-stat"><b>949</b><span>누적 수집<br><small>논문·소식 439 · 임상시험 510</small></span></div><div class="ps-stat"><b>+28</b><span>오늘 신규<br><small>갱신 27건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>955</b><span>누적 수집<br><small>논문·소식 445 · 임상시험 510</small></span></div><div class="ps-stat"><b>+34</b><span>오늘 신규<br><small>갱신 31건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
 최근 수집일: [2026-10-31](_generated/daily/2026/10/31.md)
 

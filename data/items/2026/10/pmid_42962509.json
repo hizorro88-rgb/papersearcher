@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Zheng J",
+  "Chi L",
+  "Guo Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42962509",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암에서 daraxonrasib(다락소나십) 치료 후 반응 예측에 대한 내용을 다룬 서한(Letter) 논문입니다.",
+  "구체적인 분석 수치 및 임상 결과는 원문에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.ctarc.2026.101503",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42962509"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Treat Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962509/"
+ },
+ "summary_ko": "본 서한(Letter) 논문은 췌장암에서 daraxonrasib(다락소나십) 투여 후 단순한 RAS G12 변이 분류를 넘어 치료 반응을 특이적으로 예측하는 평가에 대해 다룹니다. 구체적인 환자 데이터, 연구 방법 및 결과 수치는 초록 원문이 제공되지 않아 명시되지 않았습니다. 전반적인 치료 특이적 예측 모델에 대한 학술적 논의를 담고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond RAS G12 grouping: testing treatment-specific prediction after daraxonrasib in pancreatic cancer",
+ "title_ko": "RAS G12 분류를 넘어서: 췌장암에서 daraxonrasib 치료 후 치료 특이적 예측 검정",
+ "trial": null,
+ "type": "paper"
+}

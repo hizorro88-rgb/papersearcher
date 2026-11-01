@@ -23,7 +23,7 @@
   "참가자들은 [18F]FAPI-74와 [18F]FDG 두 가지 PET 스캔을 기본적으로 받습니다.",
   "임상시험 기간 동안 2년 동안 추적 관찰이 진행됩니다."
  ],
- "last_updated": "2026-10-30",
+ "last_updated": "2026-10-31",
  "links": {
   "doi": null,
   "nct": [
@@ -46,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06503146"
  },
- "summary_ko": "이 연구는 새로운 양전자 방출 단층촬영(PET) 추적자인 [18F]FAPI-74가 췌장관선암(PDAC)을 포함한 여러 암 환자에서 기존의 [18F]FDG PET 및 표준 영상 검사보다 암을 얼마나 더 잘 찾아내는지 비교하기 위한 2상 임상시험입니다. 18세 이상의 암 환자 320명을 목표로 하며, 참가자들은 [18F]FAPI-74와 [18F]FDG PET 스캔을 기본적으로 모두 촬영하게 됩니다. 초기 검사 결과와 치료 경과에 따라 추적 관찰 스캔이 진행되며 2년 동안 무진행 생존기간(PFS)과 전체 생존기간(OS)을 평가합니다.",
- "summary_source": "llm",
+ "summary_ko": "Background:\n\nFibroblast-activation protein (FAP) is an enzyme that appears in high numbers in cancer-associated fibroblasts of certain cancer types. \\[18F\\]FAPI-74 is a new PET (positron emission tomography) tracer, a substance that is injected into a person s body before an imaging scan.",
+ "summary_source": "excerpt",
  "tags": [
   "Fluorodeoxyglucose F18",
   "PET Imaging",
@@ -97,26 +97,15 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 2,
-   "key_exclusions_ko": [
-    "폐쇄공포증 또는 장시간 누워있지 못하는 상태",
-    "체중 350 파운드 초과",
-    "임신부",
-    "조절되지 않는 신부전, 간부전 등 동반 질환"
-   ],
+   "key_exclusions_ko": [],
    "max_prior_lines": null,
-   "measurable_required": true,
+   "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "치료를 앞두고 있는 조직학적으로 확진된 췌장관선암 환자",
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [
-    "metastatic",
-    "locally_advanced",
-    "resectable",
-    "adjuvant",
-    "neoadjuvant"
-   ],
-   "source": "llm"
+   "setting": [],
+   "source": "rules"
   },
   "max_age": "120 Years",
   "min_age": "18 Years",

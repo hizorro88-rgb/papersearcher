@@ -47,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07387263"
  },
- "summary_ko": "이 임상시험은 암 환자를 대상으로 종양전문의가 주도하는 유전자 검사 시 디지털 플랫폼(GA-Mainstream)의 효과를 평가합니다. 췌장암, 유방암, 난소암, 전립선암, 위장관암 환자 180명을 대상으로 진행됩니다. 기존 표준 안내 방식과 비교하여 유전자 검사 관련 심리적 스트레스 감소와 환자 중심 교육 효과를 평가합니다. 무작위 대조 연구(RCT) 방식으로 생식세포 유전자 검사(Germline genetic testing) 전달 체계의 우수성을 검증합니다.",
- "summary_source": "llm",
+ "summary_ko": "Genetic testing can alter therapy and surgical management for cancer patients and is therefore indicated as a first-line test for many newly diagnosed patients, including breast, ovarian, pancreatic, prostate and colon/GI patients. To reduce pressure on already constrained genetics clinics across Canada, some cancer centres are 'mainstreaming' genetic testing - whereby genetic testing is initiated and mediated by oncologists without traditional pre-test genetic counseling (GC) often using some f…",
+ "summary_source": "excerpt",
  "tags": [
   "Cancer Genetic Testing",
   "Randomized Controlled Trial",
@@ -101,20 +101,15 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [
-    "유전상담 클리닉으로 직접 의뢰되어 유전자 검사 정보를 받는 환자",
-    "인터넷 또는 전자 기기 사용이 불가능한 환자",
-    "의사결정 능력이 저하되거나 제한된 환자",
-    "영어 읽기 및 말하기가 불가능한 환자"
-   ],
+   "key_exclusions_ko": [],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "종양전문의를 통해 생식세포 유전자 검사를 받게 되는 췌장암 등 성인 암 환자",
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],
-   "source": "llm"
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

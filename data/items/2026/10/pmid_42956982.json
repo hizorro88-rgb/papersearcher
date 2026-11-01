@@ -11,10 +11,11 @@
   "Hu Q"
  ],
  "categories": [
+  "drug",
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-10-31",
  "history": [
   {
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:42956982",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "후코이단(FU) 표면 변형 리포솜은 P-셀렉틴(P-selectin)과의 결합 및 종양 미세환경의 과산화수소(H2O2) 반응을 통해 miR-217-5p의 표적 전달 및 제어 방출을 유도했습니다.",
+  "miR-217-5p의 전달 및 발현 회복은 췌관선암 세포의 증식, 이동, 침습을 감소시켰습니다.",
+  "마우스 피하 이식 모델에서 FU-LIP-miR과 젬시타빈(GEM)의 병용 요법은 대조군 치료 대비 향상된 종양 억제 효과를 나타냈습니다."
+ ],
  "last_updated": "2026-10-31",
  "links": {
   "doi": "10.1016/j.nano.2026.103046",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42956982/"
  },
- "summary_ko": "The clinical translation of microRNA (miRNA) therapy is hindered by poor tumor specificity and inefficient delivery. In this study, we constructed a targeted nanoplatform using marine sulfated polysaccharide fucoidan (FU) to encapsulate miR-217-5p in FU-modified cationic liposomes (FU-LIP-miR) for the treatment of pancreatic ductal adenocarcinoma (PDAC), alone or in combination with gemcitabine (GEM).",
- "summary_source": "excerpt",
+ "summary_ko": "본 전임상 연구에서는 췌관선암(PDAC) 치료를 위해 해조류 유래 다당류인 후코이단(FU)을 활용하여 miR-217-5p를 전달하는 표적 리포솜 나노전달체(FU-LIP-miR)를 개발했습니다. 연구진은 췌관선암 조직에서 발현이 감소되어 있는 miR-217-5p를 FU-LIP-miR을 통해 종양에 축적 및 전달하여 그 발현을 회복시켰습니다. 세포 실험에서 이 나노전달체는 암세포의 증식, 이동, 침습을 억제했습니다. 또한 동물 모델(마우스 이식 모델)에서 FU-LIP-miR과 젬시타빈(gemcitabine)의 병용 투여는 대조군 대비 유의미하게 향상된 항종양 효과를 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Fucoidan-functionalized liposomal nanocarriers for targeted miR-217-5p delivery and combined antitumor treatment in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암종에서 표적 miR-217-5p 전달 및 병용 항종양 치료를 위한 후코이단 기능화 리포솜 나노전달체",
  "trial": null,
  "type": "paper"
 }

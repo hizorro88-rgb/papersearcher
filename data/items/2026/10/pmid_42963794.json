@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) exhibits an immunosuppressive and nutrient-deficient tumor microenvironment (TME), where solute carrier (SLC) transporters are critical in metabolic reprogramming and intercellular communication. However, the precise mechanisms by which specific SLCs contribute to therapeutic resistance through the TME remain unclear.\nMETHODS: We integrated transcriptomic data from clinical cohorts with computational analysis and expression validation to identify the SLC family members most closely linked to PDAC patient outcomes. Using in vitro and in vivo experiments along with multi‑omics approaches, we further clarified its functional roles in stromal-immune-metabolic networks within the TME. Following virtual screening of a million‑compound library and validated by binding assays, two target‑specific inhibitors were identified. Using pharmacological and genetic methods, the therapeutic potential of targeting this pathway was systematically evaluated.\nRESULTS: SLC6A14 is identified as a prognostic biomarker and functional driver of PDAC progression, with higher expression levels correlating with poor patient outcomes; it facilitates tumor growth by modifying amino acid metabolic reprogramming and exerting immunosuppressive effects by competitively impairing amino acid uptake in dendritic cells and CD8⁺ T cells. STOCK1N-75990 is a specific SLC6A14 inhibitor that competitively blocks amino acid binding, induces intracellular nutrient deprivation, and causes profound metabolic collapse; it exhibits marked anti-tumor activity and limited toxicity in preclinical models, synergizing with anti-PD1 therapy.\nCONCLUSION: These findings establish SLC6A14 as a potent multifunctional therapeutic target and demonstrate the clinical relevance of its inhibitors as a metabolic immunotherapy for PDAC.",
+ "authors": [
+  "He L",
+  "Lin Z",
+  "Liu L",
+  "Yao S",
+  "Wang J",
+  "Guo J",
+  "Zhong C",
+  "Zhang H"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42963794",
+ "importance": 0.54,
+ "key_points_ko": [
+  "SLC6A14의 높은 발현은 췌관선암 환자의 불량한 예후와 직접적으로 연관되어 있습니다.",
+  "SLC6A14는 암세포의 대사 재프로그래밍을 유도하고 면역세포(수지상세포 및 CD8+ T세포)의 아미노산 흡수를 경쟁적으로 차단해 면역을 억제합니다.",
+  "표적 억제제인 STOCK1N-75990은 전임상 모델에서 낮은 독성과 항종양 효과를 보였으며, 항PD-1 치료와의 병용 효과를 입증했습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1186/s40164-026-00818-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42963794"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Exp Hematol Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963794/"
+ },
+ "summary_ko": "본 연구는 췌관선암의 영양 결핍 및 면역억제 미세환경에서 아미노산 수송체인 SLC6A14의 역할을 규명한 전임상 연구입니다. 연구진은 SLC6A14가 췌장암 세포의 아미노산 흡수를 촉진하는 반면, 면역세포인 수지상세포와 CD8+ T세포의 영양 흡수를 방해하여 면역 억제를 유도한다는 점을 확인했습니다. 또한 SLC6A14 억제제인 STOCK1N-75990을 발굴하여 동물 모델에서 투여한 결과, 독성이 낮으면서 종양 성장을 억제하고 항PD-1 면역항암제와의 병용 시너지 효과를 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting SLC6A14-mediated nutrient competition reverses an immunosuppressive metabolic niche in pancreatic cancer",
+ "title_ko": "SLC6A14 매개 영양소 경쟁 표적화를 통한 췌장암 내 면역억제성 대사 미세환경 개선",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,67 @@
+{
+ "abstract": "INTRODUCTION: The aim of the present clinical trial was to evaluate the efficacy and toxicity of ramucirumab in combination with nab-paclitaxel and gemcitabine as first-line treatment in locally advanced or metastatic pancreatic adenocarcinoma.\nMETHODS: This was a prospective, single-arm, phase Ib-II trial. In phase Ib part of the study, the recommended doses were determined. In phase II part of the study, all patients were treated with the combination at the recommended doses to assess efficacy and toxicity. According to the study primary endpoint, at least 16 patients should respond to the treatment by RECIST criteria. The primary endpoint was overall response rate by RECIST 1.1, defined as best overall response without mandatory confirmation.\nRESULTS: From 1/2019 to 10/2021, 53 patients were enrolled. Ten patients (19.2%) had locally advanced disease. The recommended doses determined during phase Ib were Ramucirumab 8mg/Kg Day 1 and 15, Nab-paclitaxel 100mg/m2 day 1,8,15 and gemcitabine 800mg/m2 day 1,8,15 in 28 days cycle. In total, 14 (26.4%) patients responded to treatment (all partial responses). Consequently, the primary endpoint was not met. The median duration of response was 9.9 months (95%CI: 5.4-15 months), median progression-free survival was 4 months (95%CI: 4-10 months) and median overall survival was 14 months (95%CI: 7.3-18 months). Twenty of 52 patients (38%) required a dose reduction and 11 (21%) permanently discontinued study treatment for toxicity.\nCONCLUSIONS: The trial did not meet its primary endpoint nor did it generate robust evidence of efficacy to warrant further assessment in unselected pancreatic cancer patients CLINICAL TRIALS GOV: NCT03745430.",
+ "authors": [
+  "Papaxoinis G",
+  "Sgouros J",
+  "Korfiatis N",
+  "Papadopoulou K",
+  "Psyrri A",
+  "Zarkavelis G",
+  "Ioannou A",
+  "Petrakis G"
+ ],
+ "categories": [
+  "drug",
+  "trial",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42962507",
+ "importance": 0.8,
+ "key_points_ko": [
+  "총 53명 중 14명(26.4%)이 부분 반응(PR)을 보여 1차 유효성 목표(최소 16명 반응) 달성에 실패했습니다.",
+  "중앙 무진행 생존기간(PFS)은 4개월(95% CI: 4-10개월), 중앙 전체 생존기간(OS)은 14개월(95% CI: 7.3-18개월)이었습니다.",
+  "환자의 38%(20/52명)가 독성으로 용량을 감량했고, 21%(11명)는 독성으로 인해 치료를 영구 중단했습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1016/j.ctarc.2026.101481",
+  "nct": [
+   "NCT03745430"
+  ],
+  "pmcid": null,
+  "pmid": "42962507"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Treat Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962507/"
+ },
+ "summary_ko": "국소 진행성 또는 전이성 췌관선암 환자를 대상으로 ramucirumab(라무시루맙)과 nab-paclitaxel(냅-파클리탁셀), gemcitabine(젬시타빈)의 병용 1차 치료 효과와 독성을 평가한 1b-2상 임상시험 결과입니다. 총 53명의 환자가 등록되었으며 1b상에서 결정된 권장 용량으로 2상 치료가 진행되었습니다. 치료 반응을 보인 환자는 14명(26.4%, 모두 부분 반응)으로, 사전에 설정한 1차 평가변수(최소 16명 반응)를 충족하지 못했습니다. 중앙 무진행 생존기간은 4개월, 중앙 전체 생존기간은 14개월이었으며, 선별되지 않은 췌장암 환자에서 추가 연구를 뒷받침할 만한 뚜렷한 유효성을 보이지 못했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Phase Ib-II study of ramucirumab combined with nab-paclitaxel and Gemcitabine as first-line treatment in patients with advanced pancreatic adenocarcinoma (RACING)",
+ "title_ko": "진행성 췌관선암 환자의 1차 치료로서 라무시루맙과 냅-파클리탁셀 및 젬시타빈 병용 요법에 대한 1b-2상 임상시험 (RACING)",
+ "trial": null,
+ "type": "paper"
+}

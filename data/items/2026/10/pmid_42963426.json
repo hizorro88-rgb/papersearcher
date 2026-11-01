@@ -1,0 +1,62 @@
+{
+ "abstract": "In pancreatic ductal adenocarcinoma (PDAC), the fibroblastic stroma constitutes most of the tumor mass and is remarkably devoid of functional blood vessels, leaving unresolved how PDAC cells obtain essential metabolites and water-insoluble lipids. We find that cancer-associated fibroblasts (CAFs) acquire and transfer lipids from blood-borne particles to PDAC cells through trogocytosis of CAF plasma membranes, a process requiring the CAF-expressed phospholipid scramblase anoctamin 6 (ANO6) to promote PDAC cell survival. Cancer cells and CAFs form synapse-like contacts that induce cytosolic calcium influx in CAFs through Orai channels, activating ANO6 and driving phosphatidylserine exposure on CAF membranes, which initiates trogocytosis and transfer of membrane lipids, including cholesterol, to PDAC cells. This ANO6-dependent phosphatidylserine externalization also supports CAF-mediated immunosuppression of cytotoxic T cells through trogocytosis. Blockade of ANO6 antagonizes tumor growth, partly by disrupting cholesterol delivery to cancer cells, and attenuates immune suppression, identifying ANO6 as a candidate therapeutic target in PDAC.",
+ "authors": [
+  "Ogier C",
+  "Charles Solomon AM",
+  "Bondarenko E",
+  "Wu Z",
+  "Lu Z",
+  "Bui QT",
+  "Dhamdhere MR",
+  "Tang Y"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-10-31",
+ "history": [
+  {
+   "date": "2026-10-31",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42963426",
+ "importance": 0.64,
+ "key_points_ko": [
+  "암세포와 암 연관 섬유아세포(CAF)의 접촉은 Orai 채널을 통한 칼슘 유입을 유도하고 ANO6를 활성화하여 트로고사이토시스를 촉진합니다.",
+  "ANO6 매개 과정을 통해 콜레스테롤 등 세포막 지질이 암세포로 전달되어 암세포 생존을 돕고 세포독성 T세포 기능을 억제합니다.",
+  "ANO6를 차단했을 때 암세포로의 지질 공급이 중단되어 종양 성장이 억제되고 면역 억제 반응이 감소했습니다."
+ ],
+ "last_updated": "2026-10-31",
+ "links": {
+  "doi": "10.1038/s43018-026-01265-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42963426"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963426/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 기능성 혈관이 부족한 환경에서도 암세포가 대사물질과 지질을 획득하는 기전이 불분명했습니다. 본 연구는 암 연관 섬유아세포(CAF)가 아녹타민 6(ANO6) 단백질을 통해 세포막 트로고사이토시스(trogocytosis, 세포막 일부를 떼어내 섭취하는 현상)를 일으켜 췌장암 세포에 콜레스테롤 등 필수 지질을 전달함을 밝혔습니다. 또한 ANO6에 의한 포스파티딜세린 노출은 세포독성 T세포에 대한 면역 억제 환경을 유도하는 것으로 나타났습니다. 연구진은 ANO6 차단 시 콜레스테롤 공급이 차단되어 종양 성장이 억제되고 면역 억제가 완화됨을 확인하여, ANO6를 유망한 치료 표적으로 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ANO6-mediated trogocytosis of cancer-associated fibroblasts promotes pancreatic cancer cell growth and immune suppression",
+ "title_ko": "암 연관 섬유아세포의 ANO6 매개 트로고사이토시스가 췌장암 세포의 성장 및 면역 억제를 촉진한다",
+ "trial": null,
+ "type": "paper"
+}

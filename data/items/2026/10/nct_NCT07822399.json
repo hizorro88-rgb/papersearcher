@@ -25,9 +25,9 @@
  "id": "nct:NCT07822399",
  "importance": 0.83,
  "key_points_ko": [
-  "목표 환자 수: 314명",
-  "임상 단계: 1상(PHASE1)",
-  "평가 항목: 안전성, 내약성, 약동학(PK), 면역원성 및 예비 항종양 활성"
+  "절제 불가능하거나 전이성인 진행성 고형암(췌장암 포함) 환자 314명을 대상으로 수행하는 1상 임상시험입니다.",
+  "췌장암 환자는 이전 전신 항암치료를 1가지 이상 받은 적이 있어야 하며, 세포독성 항암치료는 최대 2차 이하로 제한됩니다.",
+  "이전에 토포이소머라아제 1(Topoisomerase 1) 기반 ADC(항체-약물 접합체) 치료를 받은 환자는 참여할 수 없습니다."
  ],
  "last_updated": "2026-10-31",
  "links": {
@@ -52,11 +52,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07822399"
  },
- "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 신약 MGC030의 안전성, 약동학(pharmacokinetics, PK), 면역원성 및 항종양 효과를 평가하기 위해 진행됩니다. 췌장암을 포함한 특정 진행성 고형암 환자들을 대상으로 MGC030의 부작용을 확인하고 암 진행 억제 효과를 조사합니다. 연구 참여자들은 3주마다 치료를 받으며 정기적인 종양 평가와 검사를 거치게 됩니다.",
+ "summary_ko": "이 임상시험은 절제 불가능한 국소 진행성 또는 전이성 고형암(췌장암 포함) 환자를 대상으로 신약 후보물질 MGC030의 안전성, 내약성 및 초기 치료 효과를 평가하는 1상 연구입니다. 이전 표준 치료를 받은 후 병이 진행되었거나 치료법이 없는 환자를 대상으로 진행됩니다. 참여 환자는 3주 간격으로 MGC030을 투여받으며 주기적으로 정밀 검사 및 종양 반응 평가를 받게 됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study of MGC030 in Participants With Advanced Solid Tumors",
- "title_ko": "진행성 고형암 환자를 위한 MGC030 연구",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MGC030의 1상 임상시험",
  "trial": {
   "conditions": [
    "Urothelial Cancer",
@@ -73,7 +73,7 @@
     "phone": "301-251-5172"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 확인된 절제 불가능한, 국소 진행성 또는 전이성 고형암(췌장암 포함) 환자\n* 표준 치료에 불응하거나, 표준 치료가 없거나, 불내성이거나, 치료를 거부한 경우\n* 췌장암의 경우, 적어도 1가지 이상의 전신 치료 후 진행을 보인 환자\n* 진행성 또는 전이성 질환에 대해 최대 2가지 이하의 세포독성 항암화학요법을 받은 환자\n* RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자\n* 보존 조직 또는 신선한 종양 조직 검체를 제공할 수 있는 환자\n\n제외 기준:\n* 치료 순응도를 저해하는 기저 질환 또는 정신 질환\n* 활동성 뇌전이 또는 연수막 전이\n* 조혈모세포, 조직, 또는 고형장기 이식 병력\n* 지난 2년 이내에 치료가 필요했던 다른 악성종양 병력\n* 원발성 면역결핍증 병력\n* 활동성 바이러스, 세균, 또는 진균 감염\n* 토포이소머라제 1(Topoisomerase 1) 기반 항체-약물 접합체(ADC) 치료 전력\n* 연구 치료 시작 4주 이내의 주요 수술, 방사선 치료, 생백신 접종, 전신 항암 치료 등 이력",
+  "eligibility_ko": "선정 기준:\n- 절제 불가능, 국소 진행성 또는 전이성 췌장암 환자\n- 최소 1가지 이상의 이전 전신 항암치료 후 질환이 진행된 환자 (세포독성 항암치료는 최대 2차 치료 이하)\n- RECIST v1.1 기준 측정 가능한 병변을 1개 이상 보유한 환자\n- 조직 검사용 종양 조직을 제공하거나 생검에 동의하는 환자\n\n제외 기준:\n- 활동성 뇌전이 또는 뇌수막 전이가 있는 환자\n- 줄기세포, 조직 또는 장기 이식 이력이 있는 환자\n- 이전에 토포이소머라아제 1 기반 ADC 항암제 치료를 받은 환자\n- 최근 2년 이내 치료가 필요했던 다른 암 병력이 있는 환자\n- 활동성 감염(바이러스, 세균, 진균)이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participants in dose escalation cohorts must have histologically proven unresectable, locally advanced or metastatic solid tumor limited to one of the following types: urothelial cancer, colorectal cancer (CRC), gastric or gastroesophageal junction (GEJ) cancer, esophageal cancer, or pancreatic carcinoma that is refractory to standard therapy, or for which standard therapy does not exist, has proven to be intolerable, or has been refused by the participant.\n* Participants in expansion cohorts must have histologically proven, unresectable, locally advanced or metastatic solid tumors\n\n  * Urothelial cancer with progression following platinum-containing chemotherapy for metastatic or locally advanced/unresectable cancer, or within 12 months from completion of neo-adjuvant or adjuvant platinum-containing chemotherapy for localized muscle-invasive cancer.\n  * Gastric/GEJ carcinoma with progression during or following at least 1 systemic therapy.\n  * Esophageal cancer with progression during or following at least 1 systemic therapy.\n  * CRC with progression during or following treatment with at least 2 prior lines of systemic therapy (containing a fluoropyrimidine plus a platinum analogue and/or irinotecan) for metastatic disease.\n\n    * CRC harboring an activating EGFR mutation must have progressed during or following at least one EGFR targeted therapy, if available.\n    * Participants should have received no more than 4 prior lines of systemic therapy for advanced or metastatic disease.\n  * Pancreatic cancer with progression during or following at least 1 systemic therapy. Participants should have received no more than 2 prior lines of cytotoxic chemotherapy for advanced or metastatic disease.\n* Participants must have at least one lesion that meets the definition of measurable disease by RECIST v1.1.\n* Participants must have an available archival or formalin-fixed paraffin-embedded tumor tissue or be willing to undergo a biopsy procedure to obtain a fresh tumor sample.\n* Participants have acceptable physical condition and laboratory values.\n* Participants of childbearing potential must agree to use highly effective methods of birth control.\n* Participants must not be pregnant, planning to be pregnant, or breastfeeding.\n\nExclusion Criteria:\n\n* Any underlying medical or psychiatric condition impairing participant's ability to receive, tolerate, or comply with the planned treatment or study procedures.\n* Active brain metastases or leptomeningeal metastases.\n* Prior stem cell, tissue, or solid organ transplant.\n* Another malignancy that required treatment within the past 2 years, with the exception of those with a negligible risk of metastasis or death such as adequately treated non-melanomatous skin cancer, localized prostate cancer (Gleason Score \\< 6), or carcinoma in situ.\n* History of primary immunodeficiency.\n* Active viral, bacterial, or fungal infection\n* Prior treatment with Topoisomerase 1-based ADCs for cancer.\n* Prior treatment with major surgery, mediastinal or lung radiation, vaccination with live virus vaccines, systemic cancer treatment, chimeric antigen receptor (CAR)-T cell therapy, or experimental treatment within 4 weeks of the start of study treatment.",
   "enrollment": 314,
   "has_results": false,
@@ -90,15 +90,16 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "활동성 뇌전이 또는 연수막 전이",
-    "지난 2년 이내에 치료가 필요했던 다른 악성종양 병력",
-    "활동성 감염",
-    "토포이소머라제 1 기반 ADC 치료 전력"
+    "활동성 뇌전이 또는 뇌수막 전이",
+    "장기, 조직 또는 줄기세포 이식 이력",
+    "토포이소머라아제 1 기반 ADC 치료 이력",
+    "최근 2년 이내 다른 암 치료 이력",
+    "활동성 바이러스·세균·진균 감염"
    ],
    "max_prior_lines": 2,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료를 1~2가지 받은 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "이전 치료를 1~2차례 받은 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

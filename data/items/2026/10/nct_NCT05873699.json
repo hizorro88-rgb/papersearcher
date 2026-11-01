@@ -19,9 +19,9 @@
  "id": "nct:NCT05873699",
  "importance": 0.81,
  "key_points_ko": [
-  "수술 예정인 췌장 낭종 환자 20명을 대상으로 과분극 13C-피루브산 자기공명 분광 영상(HP-MR)의 대사 활성 측정 능력을 평가합니다.",
-  "HP-MR에서 얻은 대사 활성 수치(kpl)와 수술 후 최종 병리 진단(양성/저위험군 대 악성/고위험군)의 연관성을 비교합니다.",
-  "조직 대사체, 혈액 및 낭액 표지자(CA19-9, CEA 등)와의 상관관계를 분석하고 검사의 안전성을 확인합니다."
+  "수술 예정인 췌장 낭종 환자 20명을 대상으로 과분극 13C-피루브산 HP-MR 검사의 진단적 유용성을 평가하는 1상 임상시험입니다.",
+  "수술 전 영상에서 도출된 대사 전환율(kpl 수치)과 수술 후 병리 검사로 확인된 침윤성 암 여부의 연관성을 확인합니다.",
+  "조직 대사체학, 종양표지자(CA19-9, CEA), 장내 미생물 등과의 상관관계 및 검사의 안전성을 탐색합니다."
  ],
  "last_updated": "2026-10-31",
  "links": {
@@ -46,17 +46,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05873699"
  },
- "summary_ko": "이 연구는 수술적 절제 또는 낭종 벽 생검을 앞둔 췌장 낭종 환자를 대상으로 과분극 13C-피루브산 자기공명 분광 영상(HP-MR)의 유용성을 평가하는 1상 임상시험입니다. 환자들은 수술 전 HP-MR을 촬영하여 대사 활성 지표(kpl 수치)를 측정하고, 수술 후 조직 병리 결과와 대조합니다. 이를 통해 HP-MR 영상이 낭종의 양성(저위험)과 악성(고위험) 여부를 구별할 수 있는지 확인합니다. 아울러 종양 대사체, 혈액 및 낭액 바이오마커와의 연관성 및 영상 기법의 안전성도 함께 평가합니다.",
+ "summary_ko": "췌장 낭종(물혹) 환자를 대상으로 수술 전 과분극 13C-피루브산 자기공명분광영상(HP-MR)을 촬영하여 저위험(양성) 낭종과 고위험(악성) 낭종을 감별할 수 있는지 평가하는 1상 임상시험입니다. 수술적 절제 또는 낭종 벽 생검이 예정된 20명의 환자가 등록됩니다. 수술 전 HP-MR을 통해 병변의 대사 활성도(kpl 수치)를 측정한 뒤 수술 후 최종 병리 조직 결과와 대조합니다. 또한 조직 대사체, 혈액 및 낭종액 종양표지자(CA19-9, CEA 등), 안전성 등을 종합적으로 분석합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Study Using Hyperpolarized 13C-Pyruvate Magnetic Resonance Spectroscopic Imaging in Patients With Pancreatic Cysts Undergoing Surgical Resection",
- "title_ko": "수술적 절제를 시행하는 췌장 낭종 환자 대상 과분극 13C-피루브산 자기공명 분광 영상 연구",
+ "title_ko": "수술 예정인 췌장 낭종 환자 대상 과분극 13C-피루브산 자기공명분광영상(HP-MR) 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cyst"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 성인 환자\n• 췌장 낭종 진단을 받은 환자\n• 췌장 낭종의 수술적 절제 또는 낭종 벽 생검을 시행할 예정인 환자\n• 연구 내용 이해 및 서면 동의가 가능한 환자 (영어진행 여부 무관)\n\n제외 기준:\n• MRI 검사 금기 대상자 (전기적, 자기적, 기계적 체내 이식 장치 보유 등)\n• 가다비스트(Gadavist) 정맥 조영제 알레르기 병력자\n• 부정맥 병력 보유자\n• 임신 또는 수유 중인 여성\n• 피임을 하지 않는 성생활 중인 가임기 여성\n• 체중 260파운드(약 118kg) 초과인 자\n• 인지 장애가 있는 자",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 성인\n• 췌장 낭종(Pancreatic cyst)이 있는 환자\n• 췌장 낭종의 수술적 절제 또는 낭종 벽 생검을 받을 예정인 환자\n• 연구 참여에 자발적으로 서면 동의한 환자\n\n제외 기준:\n• MRI 검사 금기 대상자(전기적·자기적·기계적 체내 삽입물이 있어 MRI 검사가 불가능한 경우 포함)\n• 가도비스트(Gadavist) 조영제에 알레르기가 있는 환자\n• 심부정맥 병력이 있는 환자\n• 임신 또는 수유 중이거나 효과적인 피임을 하지 않는 가임기 여성\n• 인지 장애가 있는 환자\n• 체중이 260파운드(약 118kg)를 초과하는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients ≥ 18 years old. Patients under 18 are excluded due to their potential inability to understand and consent independently to the methods required for the study drug use and its potential risks and benefits.\n* Patients with pancreatic cyst/s\n* Patients who will undergo surgical resection (or cyst wall biopsy) of pancreatic cysts\n* Patients able to understand and willing to sign a written informed consent document\n* Both English-speaking and non-English-speaking patients are eligible for participation\n\nExclusion Criteria:\n\n* Contraindication to MRI\n* Electrically, magnetically, or mechanically activated implants that would preclude MRI\n* Allergy to Gadavist IV contrast\n* History of cardiac arrhythmias\n* Pregnancy or breastfeeding women\n* Women of child-bearing age that are sexually active and not using birth control\n* Cognitively impaired individuals\n* Weight above 260 pounds (lbs)",
   "enrollment": 20,
   "has_results": false,
@@ -73,16 +73,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "MRI 검사 금기자 또는 체내 전자기기 이식 환자",
-    "가다비스트(Gadavist) 조영제 알레르기 병력자",
-    "부정맥 병력 보유자",
-    "임신 또는 수유 중인 여성",
-    "체중 260파운드(약 118kg) 초과 환자"
+    "MRI 검사 금기(체내 전자기적 삽입 기기 등)",
+    "가도비스트 조영제 알레르기",
+    "심부정맥 병력",
+    "체중 260파운드(약 118kg) 초과"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "수술적 절제 또는 낭종 벽 생검을 앞둔 췌장 낭종 환자",
+   "notes_ko": "수술적 절제 또는 생검이 예정된 췌장 낭종 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
