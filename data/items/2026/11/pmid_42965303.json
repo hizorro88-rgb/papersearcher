@@ -1,0 +1,56 @@
+{
+ "abstract": "BACKGROUND: Pancreatic duct abnormalities may be the only imaging manifestation of neoplasia, but the diagnostic utility of duct cytology is unclear. The objective of this study was to evaluate cytology in relation to duct diameter, ancillary studies, and histologic follow-up.\nMETHODS: The authors retrospectively analyzed 158 pancreatic duct cytology specimens from 144 patients obtained during 2014-2024. Main duct dilatation (MDD) was stratified by diameter. Cytologic diagnosis, fluid biochemistry, next-generation sequencing (NGS), and cytology-histology correlation were assessed.\nRESULTS: Of 158 specimens, 145 (91.8%) had MDD, and 13 (8.2%) had stricture/stenosis. Sampling comprised 133 fine-needle aspirations (84.2%) and 25 brushings (15.8%). In total, 98 specimens (62.0%) were nondiagnostic or negative. Cytologic diagnosis distributions did not differ among MDD groups (p = .316). Carcinoembryonic antigen (CEA) was available for 93 specimens; 20 (21.5%) exceeded 192 ng/mL, including nine with nondiagnostic or atypical cytology. Of 60 specimens with interpretable NGS, 31 (51.7%) had mucinous-associated mutations, and nine (15.0%) had high-risk alterations. Histology was available for 51 patients; all 14 patients with neoplastic-other cytology had confirmed neoplasms. Adenocarcinoma was identified in 14 patients: one of 10 was nondiagnostic, four of seven were atypical, two of 14 were neoplastic-other, one of two was suspicious, and six of seven were positive. Cytology alone (neoplastic-other or worse) was 64.7% sensitive and 94.1% specific for neoplasia; adding available CEA and then NGS increased sensitivity to 73.5% and 91.2%, respectively, with 88.2% specificity.\nCONCLUSIONS: Pancreatic duct cytology was highly specific but only moderately sensitive for neoplasia and did not differ by MDD severity. Although there was a modest decrease in specificity, CEA and NGS substantially improved sensitivity, supporting their adjunctive value in cytologically indeterminate cases.",
+ "authors": [
+  "Sardana R",
+  "Krishnan K",
+  "Zhang ML"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42965303",
+ "importance": 0.73,
+ "key_points_ko": [
+  "세포진 검사 단독의 종양 진단 민감도는 64.7%, 특이도는 94.1%였습니다.",
+  "세포진에 CEA와 차세대 염기서열 분석(NGS)을 순차적으로 결합했을 때 민감도는 각각 73.5%와 91.2%로 유의하게 증가했습니다.",
+  "주췌관 확장(MDD)의 직경이나 중증도에 따른 세포진 진단 분포의 유의미한 차이는 관찰되지 않았습니다(p = .316)."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1002/cncy.70167",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42965303"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Cytopathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965303/"
+ },
+ "summary_ko": "주췌관의 이상 소견은 종양의 유일한 영상의학적 징후일 수 있으나 췌관 세포진 검사의 진단적 가치는 명확하지 않았습니다. 본 연구는 2014년부터 2024년까지 주췌관 이상이 있는 환자 144명의 췌관 검체 158건을 후향적으로 분석했습니다. 세포진 검사 단독으로는 종양 진단 민감도가 64.7%, 특이도가 94.1%였습니다. 여기에 암배아항원(CEA) 수치와 차세대 염기서열 분석(NGS)을 순차적으로 추가했을 때 민감도는 각각 73.5%, 91.2%로 크게 향상되었습니다(특이도 88.2%).",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Diagnostic utility of cytologic sampling for main pancreatic duct abnormalities: A decade of institutional experience",
+ "title_ko": "주췌관 이상의 세포학적 검체 채취의 진단적 유용성: 10년간의 단일 기관 경험",
+ "trial": null,
+ "type": "paper"
+}

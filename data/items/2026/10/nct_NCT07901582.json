@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "surgery",
   "supportive",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [
   "whipple"
@@ -27,10 +27,11 @@
  "id": "nct:NCT07901582",
  "importance": 0.67,
  "key_points_ko": [
-  "총 58명의 환자가 두 그룹으로 나누어 참여하며, 각각 ropivacaine(로피바카인)과 fentanyl(펜타닐) 또는 ropivacaine(로피바카인)과 morphine(모르핀)을 투여받습니다.",
-  "수술 후 첫 5일 동안 경막외 지속 주입 방식으로 진통제가 투여됩니다."
+  "개복 복부 수술이 예정된 18세~80세 환자 총 58명을 대상으로 2개 군(각 29명)으로 나누어 임상시험을 진행합니다.",
+  "수술 종료 2시간 전부터 5일 동안 경막외 투여 방식으로 ropivacaine+fentanyl 또는 ropivacaine+morphine을 지속 주입합니다.",
+  "수술 후 통증 강도, 신체 기능 회복, 부작용 및 혈역학적 안정성을 비교 분석합니다."
  ],
- "last_updated": "2026-10-31",
+ "last_updated": "2026-11-02",
  "links": {
   "doi": null,
   "nct": [
@@ -53,7 +54,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07901582"
  },
- "summary_ko": "이 임상시험은 주요 개복 수술(major open abdominal surgeries)을 받는 환자 58명을 대상으로 수술 후 경막외 지속 주입(continuous epidural infusion)에 사용되는 두 가지 진통제 조합(로피바카인+펜타닐 대 로피바카인+모르핀)의 효과를 비교합니다. 연구는 환자의 혈역학적 및 임상적 결과, 신체 기능, 통증 강도, 부작용 등을 평가하여 최적의 수술 후 통증 관리법을 찾고자 합니다. 참여 환자는 18세에서 80세 사이의 아테네 에반겔리스모스 종합병원(Evangelismos General hospital)에 입원한 환자들입니다.",
+ "summary_ko": "이 연구는 주요 개복 복부 수술(major open abdominal surgery)을 받는 환자 58명을 대상으로 수술 후 통증 조절을 위한 경막외 지속 주입(continuous epidural infusion) 조합의 효과를 비교하는 전향적 연구입니다. 환자들은 ropivacaine(로피바카인)과 fentanyl(펜타닐) 병용군(29명) 또는 ropivacaine과 morphine(모르핀) 병용군(29명)으로 나뉘어 수술 종료 2시간 전부터 5일간 투여받습니다. 연구진은 수술 후 통증 완화, 혈역학적 변화, 신체 기능 회복 및 부작용을 종합적으로 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "open abdominal surgeries",
@@ -64,7 +65,7 @@
   "cancer"
  ],
  "title": "Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.",
- "title_ko": "대개복술 환자에서 통증 관리 계획의 시행",
+ "title_ko": "주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교",
  "trial": {
   "conditions": [
    "Abdomen Cancer",
@@ -87,7 +88,7 @@
     "phone": "+35799760521"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 개복 수술을 위해 입원한 예정 수술(elective surgery) 환자\n\n제외 기준:\n- 응고 장애(coagulation disorders)\n- 중추신경계(CNS) 탈수초성 질환(demyelinating disorders)\n- 수술 초기부터 승압제가 필요한 심한 혈역학적 불안정성\n- 국소마취제에 대한 알레르기 반응 보고\n- 참여 거부",
+  "eligibility_ko": "선정 기준:\n• 개복 복부 수술(open abdominal surgery)이 예정된 입원 환자\n• 만 18세 이상 80세 이하의 환자\n\n제외 기준:\n• 응고 장애(coagulation disorders)가 있는 경우\n• 중추신경계(CNS) 탈수초 질환(demyelinating disorders)이 있는 경우\n• 수술 초기부터 혈압상승제(vasopressors) 투여가 필요한 심각한 혈역학적 불안정성이 있는 경우\n• 국소 마취제(local anaesthetics)에 대한 알레르기 반응 병력이 있는 경우\n• 임상시험 참여에 동의하지 않는 경우",
   "eligibility_text": "Inclusion Criteria:\n\nElective surgical patients admitted for open abdominal surgeries.\n\n\\-\n\nExclusion Criteria:\n\nCoagulation disorders. Demyelinating disorders of the CNS. Severe hemodynamic instability requiring vasopressors from the early beginning of the surgery. Reported allergic reaction to local anaesthetics Objection to take part.\n\n\\-",
   "enrollment": 58,
   "has_results": false,
@@ -106,19 +107,18 @@
    "ecog_max": null,
    "key_exclusions_ko": [
     "응고 장애",
-    "중추신경계 탈수초성 질환",
-    "국소마취제 알레르기"
+    "중추신경계 탈수초 질환",
+    "수술 초기부터 혈압상승제가 필요한 심각한 혈역학적 불안정성",
+    "국소 마취제 알레르기 병력"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "주요 개복 수술을 받는 환자를 위한 수술 후 통증 관리 임상시험입니다.",
+   "notes_ko": "개복 복부 수술이 예정된 18~80세 환자를 대상으로 수술 후 경막외 통증 관리 조합을 비교하는 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "adjuvant",
-    "neoadjuvant"
+    "resectable"
    ],
    "source": "llm"
   },

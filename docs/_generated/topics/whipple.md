@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [대개복술 환자에서 통증 관리 계획의 시행](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
+| [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
@@ -30,8 +30,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (19)
+## 타임라인 (20)
 
+<a id="pmid-42965295"></a>
+#### [췌관선암에서 RAC3 발현의 진단 및 예후적 의의: 면역조직화학 분석](https://pubmed.ncbi.nlm.nih.gov/42965295/)
+<small>Diagnostic and prognostic significance of RAC3 expression in pancreatic ductal adenocarcinoma: an Immunohistochemical analysis</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-31 · PubMed · J Immunoassay Immunochem · 중요도 0.72
+
+본 연구는 췌십이지장절제술을 받은 췌관선암(PDAC) 환자 69명의 조직을 바탕으로 RAC3 단백질 발현의 진단 및 예후적 가치를 후향적으로 분석했습니다. 비종양 조직 및 정상 췌장 조직과 비교한 결과, RAC3 단백질은 모든 췌관선암 환자 검체에서 발현되는 것으로 확인되었습니다. 세포핵 내 RAC3 발현 수치는 정상 및 비종양 조직과 암을 구별하는 진단적 성능을 나타냈습니다. 반면 세포질 내 RAC3 발현 증가는 신경 침습 부재 및 낮은 재발률 등 상대적으로 양호한 병리학적 특징과 관련이 있었습니다.
+
+- 췌관선암 환자 69명 전원에서 RAC3 발현이 검출되었으며, 핵 내 RAC3 수치는 췌관선암 감별 진단에서 준수한 성능을 보였습니다(AUC=0.77).
+- 높은 RAC3 수치는 신경주위 침습의 부재와 유의한 연관성을 보였습니다(p<0.001).
+- 세포질 내 RAC3 발현 증가는 낮은 종양 재발률과 유의한 상관관계를 보였습니다(p=0.05).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42965295/) · [DOI](https://doi.org/10.1080/15321819.2026.2754393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42965295)</small>
+
+---
 <a id="pmid-42957379"></a>
 #### [동서양을 넘어서: 췌십이지장절제술에서 광범위 박리 술식의 해부학적 수렴](https://pubmed.ncbi.nlm.nih.gov/42957379/)
 <small>Beyond East and West: Anatomical Convergence of Radical Dissection Techniques in Pancreatoduodenectomy</small>

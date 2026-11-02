@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Evidence comparing neoadjuvant chemoradiation (nCRT) with chemotherapy alone (nCT) for pancreatic ductal adenocarcinoma (PDAC) primarily concerns pancreatic head tumors. This study evaluated outcomes after distal resection.\nMETHODS: The National Cancer Database was retrospectively reviewed for patients undergoing distal pancreatectomy and splenectomy following neoadjuvant therapy for PDAC during 2005-2019. Outcomes included pathologic downstaging, disease progression, and overall survival.\nRESULTS: Among 284 patients, 142 received each treatment. Baseline characteristics were comparable, although nCRT patients had higher clinical stage (p = 0.004). Overall, pathologic downstaging occurred in 36.3% of all patients. Compared with nCT, nCRT was associated with greater pathologic downstaging (47.2% versus 25.4%; p < 0.001) and less disease progression (7.7% versus 19%; p = 0.005). On multivariable analysis, nCRT was associated with increased odds of downstaging (adjusted OR 2.57, 95% CI 1.55-4.27; p < 0.001) and decreased odds of progression (adjusted OR 0.44, 95% CI 0.34-0.72; p = 0.004). Overall survival was longer with nCRT (35 versus 27 months; adjusted HR 0.74, 95% CI 0.56-0.99; p = 0.039).\nCONCLUSIONS: Among patients undergoing distal resection for PDAC, nCRT was associated with improved pathologic response, reduced progression, and longer survival compared with nCT. These findings support considering radiation within multidisciplinary treatment of pancreatic body and tail tumors and highlight the need for prospective trials.",
+ "authors": [
+  "Patel DD",
+  "Hosseinpour H",
+  "Abdulkarim AB",
+  "Shao H",
+  "Behrman SW"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966682",
+ "importance": 0.72,
+ "key_points_ko": [
+  "병리학적 병기 완화율은 선행 화학방사선요법군이 47.2%로 항암화학요법 단독군의 25.4%에 비해 유의하게 높았습니다.",
+  "질병 진행률은 선행 화학방사선요법군이 7.7%로 항암화학요법 단독군의 19%보다 낮았습니다.",
+  "전체 생존기간(OS) 중앙값은 선행 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월 대비 유의한 개선을 보였습니다(위험비 0.74, p=0.039)."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1016/j.hpb.2026.10.001",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42966682"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HPB (Oxford)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966682/"
+ },
+ "summary_ko": "췌장 체부 및 미부암 환자에서 수술 전 선행 치료로 화학방사선요법(nCRT)과 항암화학요법 단독(nCT)의 치료 효과를 비교한 후향적 관찰 연구입니다. 2005년부터 2019년까지 선행 치료 후 원위부 췌장절제술 및 비장절제술을 받은 환자 284명(각 치료군당 142명)의 데이터를 분석했습니다. 연구 결과, 선행 화학방사선요법군은 항암화학요법 단독군에 비해 병리학적 병기 완화율이 높았고 질병 진행 위험이 낮았습니다. 또한 전체 생존기간(OS) 중앙값도 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월에 비해 유의하게 길었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Outcomes of neoadjuvant chemoradiation versus chemotherapy alone for resected distal pancreatic adenocarcinoma",
+ "title_ko": "절제술을 시행한 췌장 체미부선암 환자에서 선행 화학방사선요법과 항암화학요법 단독의 치료 결과 비교",
+ "trial": null,
+ "type": "paper"
+}

@@ -16,27 +16,76 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 140건 · 최근 30일 140건
+전체 141건 · 최근 30일 141건
 
-월별 보기: [2026-10](supportive/2026-10.md)
+월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct05673811"></a>
-#### [전이성 췌장암 환자를 대상으로 Nab-Paclitaxel 및 Gemcitabine 병용요법과 VCN-01 병용 여부를 비교하는 2상 임상시험](https://clinicaltrials.gov/study/NCT05673811)
+#### [전이성 췌장암 환자를 대상으로 한 냅-팍리탁셀 및 젬시타빈에 VCN-01 병용 투여의 효과를 평가하는 2b상 임상시험](https://clinicaltrials.gov/study/NCT05673811)
 <small>Study of Nab-Paclitaxel and Gemcitabine and Plus/Minus VCN-01 in Patients With Metastatic Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2023-01-06 · ClinicalTrials.gov · Theriva Biologics SL · 중요도 0.87
 
 **NCT05673811** · 2상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05673811.md)
 
-이 임상시험은 이전 치료 경험이 없는 전이성 췌장암 환자를 대상으로 진행된 2b상 연구입니다. 표준 항암 화학요법인 nab-paclitaxel(납-팍리탁셀) 및 gemcitabine(젬시타빈) 병용요법에 항암 아데노바이러스 치료제인 VCN-01을 추가했을 때의 효과와 안전성을 평가합니다. 환자들은 표준 요법만 받는 군과 VCN-01을 추가로 투여받는 군으로 1:1 무작위 배정되어 치료를 받았습니다.
+이 연구는 이전 치료 경험이 없는 전이성 췌장암 환자를 대상으로 표준 항암화학요법인 냅-팍리탁셀(Nab-Paclitaxel) 및 젬시타빈(Gemcitabine)에 VCN-01을 병용하는 임상 2b상 연구입니다. VCN-01은 종양 선택적 복제 및 항종양 활성을 갖도록 유전자가 개조된 아데노바이러스(adenovirus) 치료제입니다. 환자들은 표준 치료 단독군 또는 VCN-01 병용 치료군으로 1:1 무작위 배정되어 치료 효과 및 안전성을 비교받게 됩니다. 연구 중간에는 데이터 감시 위원회(DMC)가 전체 생존기간(OS)과 안전성을 정기적으로 평가합니다.
 
-- 이전 전신 치료 경험이 없는 1차 전이성 췌장암 환자를 대상으로 수행되었습니다.
-- VCN-01은 종양 선택적 복제 및 항암 활성을 갖도록 유전자 재조합된 아데노바이러스 치료제입니다.
-- 표준 항암요법(nab-paclitaxel + gemcitabine) 단독 투여군과 VCN-01 병용 투여군을 1:1로 비교했습니다.
+- 이전 전신 치료를 받지 않은 4기 전이성 췌장 암 환자 약 92명을 대상으로 진행된 무작위 배정 임상 2b상 연구입니다.
+- 표준 항암요법(젬시타빈 + 냅-팍리탁셀) 단독 투여군과 유전자 개조 아데노바이러스인 VCN-01 병용 투여군을 1:1로 비교했습니다.
+- VCN-01 병용 투여군에서는 표준 치료 주기 동안 최대 2회의 VCN-01을 병용 투여받았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05673811) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05673811)</small>
+
+---
+<a id="nct-nct07591571"></a>
+#### [새로 진단받은 췌장관선암 환자에서 디지털 기술을 활용한 지역사회 보건 종사자(CHW) 주도 중재의 초기 효과 평가](https://clinicaltrials.gov/study/NCT07591571)
+<small>To Evaluate the Preliminary Efficacy of Our Digitally Enhanced CHW-led Intervention in Newly Diagnosed PDAC</small>
+
+`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2026-05-15 · ClinicalTrials.gov · Loma Linda University · 중요도 0.71
+
+**NCT07591571** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07591571.md)
+
+새로 진단받은 췌장관선암(PDAC) 환자와 보호자를 대상으로 디지털 기술이 적용된 지역사회 보건 종사자(CHW) 주도 완화의료(palliative care) 중재의 효과를 평가하는 연구입니다. 환자들은 1:1 비율로 무작위 배정되어 3개월 동안 CHW의 방문 및 디지털 통신을 통한 진료 안내와 조기 완화의료 지원을 받거나 통상적 치료를 받게 됩니다. 본 연구는 CHW 주도 중재가 환자의 증상 및 삶의 질을 개선하고 가족 간병인의 돌봄 부담을 줄일 수 있는지 확인하고자 합니다.
+
+- 새로 진단받았거나 췌장관선암이 의심되는 환자 120명을 대상으로 진행되는 파일럿 무작위 대조 연구입니다.
+- 참가자는 1:1 비율로 무작위 배정되어 3개월 동안 CHW 주도 중재 또는 통상적 치료를 받습니다.
+- 중재군 환자는 CHW와 대면 또는 비대면으로 만나며, 디지털 통신을 통해 조기 완화의료 개입을 받습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07591571) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07591571)</small>
+
+---
+<a id="pmid-42964689"></a>
+#### [수술 불가능한 췌장암 환자에서 종양 위치에 따른 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술의 치료 결과: 단일기관 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42964689/)
+<small>Computed tomography-guided splanchnic nerve neurolysis outcomes by tumor site in unresectable pancreatic cancer: A single-center retrospective cohort study</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `치료 전반` `수술` · 2026-10-28 · PubMed · World J Radiol · 중요도 0.71
+
+수술이 불가능한 췌장암 환자 22명을 대상으로 통증 조절을 위한 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술(NSNB)의 효과와 안전성을 분석한 연구입니다. 전체 환자의 81.8%에서 통증 완화나 마약성 진통제 용량 감소와 같은 임상적 성공이 나타났습니다. 췌장 두부 종양의 임상적 성공률은 6/9명, 체부 및 미부 종양은 12/13명이었습니다. 3등급 이상의 중증 부작용은 발생하지 않았습니다.
+
+- CT 유도 하 내장신경 차단술(NSNB)의 시술 성공률은 77.3%(17/22명), 임상적 성공률은 81.8%(18/22명)였습니다.
+- 효과가 확인된 13명의 통증 완화 유지 기간 중앙값은 40일이었으며, 두부는 29.5일, 체부·미부는 117일이었습니다.
+- 부작용은 27.3%(6/22명)에서 관찰되었으나 3등급 이상의 중증 부작용은 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42964689/) · [DOI](https://doi.org/10.4329/wjr.126066) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720563/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42964689)</small>
+
+---
+<a id="nct-nct07901582"></a>
+#### [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](https://clinicaltrials.gov/study/NCT07901582)
+<small>Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `수술` · 2026-10-28 · ClinicalTrials.gov · National and Kapodistrian University of Athens · 중요도 0.67
+
+**NCT07901582** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07901582.md)
+
+이 연구는 주요 개복 복부 수술(major open abdominal surgery)을 받는 환자 58명을 대상으로 수술 후 통증 조절을 위한 경막외 지속 주입(continuous epidural infusion) 조합의 효과를 비교하는 전향적 연구입니다. 환자들은 ropivacaine(로피바카인)과 fentanyl(펜타닐) 병용군(29명) 또는 ropivacaine과 morphine(모르핀) 병용군(29명)으로 나뉘어 수술 종료 2시간 전부터 5일간 투여받습니다. 연구진은 수술 후 통증 완화, 혈역학적 변화, 신체 기능 회복 및 부작용을 종합적으로 평가합니다.
+
+- 개복 복부 수술이 예정된 18세~80세 환자 총 58명을 대상으로 2개 군(각 29명)으로 나누어 임상시험을 진행합니다.
+- 수술 종료 2시간 전부터 5일 동안 경막외 투여 방식으로 ropivacaine+fentanyl 또는 ropivacaine+morphine을 지속 주입합니다.
+- 수술 후 통증 강도, 신체 기능 회복, 부작용 및 혈역학적 안정성을 비교 분석합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07901582) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07901582)</small>
 
 ---
 <a id="nct-nct07072728"></a>
@@ -71,38 +120,21 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958223/) · [DOI](https://doi.org/10.1186/s12893-026-04092-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717995/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958223)</small>
 
 ---
-<a id="nct-nct07591571"></a>
-#### [새로 진단된 췌관선암 환자에서 디지털 기반 지역사회 보건인력(CHW) 중재의 예비 효능 평가](https://clinicaltrials.gov/study/NCT07591571)
-<small>To Evaluate the Preliminary Efficacy of Our Digitally Enhanced CHW-led Intervention in Newly Diagnosed PDAC</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2026-05-15 · ClinicalTrials.gov · Loma Linda University · 중요도 0.71
-
-**NCT07591571** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07591571.md)
-
-새로 췌관선암(PDAC)을 진단받은 성인 환자와 그 가족 보호자를 대상으로 진행된 무작위 배정 임상시험입니다. 지역사회 보건인력(CHW)이 디지털 소통 및 방문을 통해 조기 완화의료 연계와 진료 안내를 지원하는 중재의 효과를 일반 관리와 비교했습니다. 120명의 환자가 참여하여 3개월 동안 환자의 증상 개선, 삶의 질, 보호자의 돌봄 부담 완화 여부를 평가했습니다.
-
-- 새로 진단된 췌관선암 환자 120명을 대상으로 지역사회 보건인력(CHW) 기반 조기 완화의료 지원 중재를 일반 관리와 1:1로 비교 평가했습니다.
-- 참여 환자는 3개월 동안 대면 또는 화상으로 보건인력을 만나며 정기 설문을 통해 증상과 삶의 질 변화를 확인했습니다.
-- 환자의 삶의 질 및 증상 완화뿐만 아니라 가족 보호자의 돌봄 부담 개선 효과를 함께 조사했습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07591571) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07591571)</small>
-
----
 <a id="nct-nct07387263"></a>
-#### [유전자 검사 대중화: 종양전문의 주도 유전자 검사 확산을 위한 디지털 애플리케이션 평가](https://clinicaltrials.gov/study/NCT07387263)
+#### [유전자 검사의 주류화: 종양학 의사 주도 유전자 검사의 확장 및 확산을 위한 디지털 애플리케이션 평가](https://clinicaltrials.gov/study/NCT07387263)
 <small>Mainstreaming Genetics: Evaluation of a Digital Application to Scale and Spread Oncologist-initiated Genetic Testing</small>
 
 `임상시험` `기타` `지지요법·삶의질` `진단·조기발견` `치료 전반` · 2026-02-04 · ClinicalTrials.gov · Unity Health Toronto · 중요도 0.69
 
 **NCT07387263** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07387263.md)
 
-Genetic testing can alter therapy and surgical management for cancer patients and is therefore indicated as a first-line test for many newly diagnosed patients, including breast, ovarian, pancreatic, prostate and colon/GI patients. To reduce pressure on already constrained genetics clinics across Canada, some cancer centres are 'mainstreaming' genetic testing - whereby genetic testing is initiated and mediated by oncologists without traditional pre-test genetic counseling (GC) often using some f…
+이 연구는 종양학 의사가 직접 생식세포(germline) 유전자 검사를 주도하는 환경에서 디지털 플랫폼인 'GA-Mainstream'의 효과를 평가하는 무작위 대조 임상시험입니다. 췌장암, 유방암, 난소암, 전립선암, 위장관암 환자 180명을 대상으로 기존 표준 교육 방식과 비교합니다. 유전자 검사 전후 과정에서 디지털 플랫폼을 제공하여 환자의 심리적 스트레스를 줄이고 유전 질환 지식 및 임파워먼트를 향상시킬 수 있는지 확인합니다.
 
-- 총 180명의 암 환자를 대상으로 디지털 유전자 교육 앱(GA-Mainstream)과 기존 표준 방식을 비교합니다.
-- 암 위험 평가 다차원 영향 지표(MICRA)를 통해 유전자 검사 관련 심리적 스트레스를 주요 평가 지표로 측정합니다.
-- 유전자 관련 지식 level, 환자 역량 강화, 검사 결과 전달 소요 시간 등의 이차 평가 지표를 분석합니다.
+- 췌장암을 포함한 5가지 성인 암 환자 180명을 대상으로 진행하는 무작위 대조 임상시험입니다.
+- 종양학 의사가 주도하는 유전자 검사 시 디지털 플랫폼(GA-Mainstream) 활용군과 기존 표준 관리군을 비교합니다.
+- 주요 평가 지표는 암 위험 평가 다차원 영향 설문(MICRA)으로 측정한 유전자 검사 관련 심리적 스트레스 변화입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07387263) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07387263)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07387263) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07387263)</small>
 
 ---
 <a id="pmid-42957528"></a>
@@ -134,22 +166,6 @@ Genetic testing can alter therapy and surgical management for cancer patients an
 - 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
-
----
-<a id="nct-nct07901582"></a>
-#### [대개복술 환자에서 통증 관리 계획의 시행](https://clinicaltrials.gov/study/NCT07901582)
-<small>Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.</small>
-
-`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-28 · ClinicalTrials.gov · National and Kapodistrian University of Athens · 중요도 0.67
-
-**NCT07901582** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07901582.md)
-
-이 임상시험은 주요 개복 수술(major open abdominal surgeries)을 받는 환자 58명을 대상으로 수술 후 경막외 지속 주입(continuous epidural infusion)에 사용되는 두 가지 진통제 조합(로피바카인+펜타닐 대 로피바카인+모르핀)의 효과를 비교합니다. 연구는 환자의 혈역학적 및 임상적 결과, 신체 기능, 통증 강도, 부작용 등을 평가하여 최적의 수술 후 통증 관리법을 찾고자 합니다. 참여 환자는 18세에서 80세 사이의 아테네 에반겔리스모스 종합병원(Evangelismos General hospital)에 입원한 환자들입니다.
-
-- 총 58명의 환자가 두 그룹으로 나누어 참여하며, 각각 ropivacaine(로피바카인)과 fentanyl(펜타닐) 또는 ropivacaine(로피바카인)과 morphine(모르핀)을 투여받습니다.
-- 수술 후 첫 5일 동안 경막외 지속 주입 방식으로 진통제가 투여됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07901582) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07901582)</small>
 
 ---
 <a id="pmid-42958068"></a>

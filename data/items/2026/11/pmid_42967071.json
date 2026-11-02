@@ -1,0 +1,63 @@
+{
+ "abstract": "Claudins (CLDNs), as major components of tight junctions in epithelial cells, are emerging as attractive non-mutant targets for controlling the growth and metastasis of various cancers. However, the mechanisms by which CLDNs modulate tumor progression remain largely unclear. Here, we unexpectedly found that CLDN12 is expressed in cancer-associated fibroblasts (CAFs), which are generally not considered tight junction-forming cells. CLDN12 expression in fibroblasts increased their motility and, importantly, promoted direct adhesion to pancreatic cancer cells through homophilic CLDN12-CLDN12 interactions. This CLDN12-dependent physical interaction between fibroblasts and tumor cells markedly enhanced cancer cell invasion. Moreover, TGF-β produced by cancer cells further induced the upregulation of CLDN12 expression in fibroblasts. In vivo, CLDN12-positive fibroblasts facilitated distant metastasis of pancreatic cancer to liver and diaphragm. Targeting CLDN12 with the synthetic peptide C12-pm efficiently decreased the liver metastasis of pancreatic cancer. Taken together, these findings reveal a previously unrecognized role of CLDN12-expressing fibroblasts in promoting pancreatic cancer metastasis through direct physical interactions with tumor cells and highlight CLDN12-mediated interactions as a potential therapeutic target for metastatic pancreatic cancer.",
+ "authors": [
+  "Li Q",
+  "Miao X",
+  "Yang Y",
+  "Chen R",
+  "Fang Q",
+  "Duan X",
+  "Lou X",
+  "Yao X"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42967071",
+ "importance": 0.64,
+ "key_points_ko": [
+  "암 연관 섬유아세포(CAF)의 CLDN12와 암세포의 CLDN12 간 직접 물리적 결합이 암세포의 침습을 유의하게 촉진했습니다.",
+  "동물 실험에서 CLDN12 양성 섬유아세포는 췌장암 세포의 간 및 횡격막 전이를 증가시켰습니다.",
+  "합성 펩타이드인 C12-pm으로 CLDN12를 표적 억제했을 때 췌장암의 간 전이가 효과적으로 억제되었습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1002/mco2.71114",
+  "nct": [],
+  "pmcid": "PMC13722954",
+  "pmid": "42967071"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "MedComm (2020)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967071/"
+ },
+ "summary_ko": "본 연구는 췌장암 주변의 암 연관 섬유아세포(CAF)에서 발현되는 클라우딘-12(CLDN12)가 암세포 전이에 미치는 역할을 조사한 기초 전임상 연구입니다. 연구진은 섬유아세포의 CLDN12가 암세포의 CLDN12와 직접 결합하여 암세포의 침습을 크게 향상시키며, 암세포가 분비하는 TGF-β에 의해 이러한 발현이 더욱 증가함을 확인했습니다. 동물 실험(in vivo)에서 CLDN12 양성 섬유아세포는 간과 횡격막으로의 원격 전이를 촉진했습니다. 합성 펩타이드인 C12-pm을 이용해 CLDN12를 표적했을 때 췌장암의 간 전이가 효과적으로 감소했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Claudin-12-Expressing Fibroblasts Facilitate Metastatic Spread of Pancreatic Cancer Through Physical Interactions",
+ "title_ko": "클라우딘-12를 발현하는 섬유아세포가 물리적 상호작용을 통해 췌장암의 전이 확산을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,64 @@
+{
+ "abstract": "Ras-related C3 botulinum toxin substrate 3 (RAC3) is frequently up-regulated in multiple malignancies and has been implicated in tumor progression. However, its role in pancreatic ductal adenocarcinoma (PDAC) remains insufficiently defined. This retrospective case-control study included 69 PDAC cases treated with pancreaticoduodenectomy, 46 non-neoplastic pancreatic tissues, and 10 normal pancreatic controls. Immunohistochemical expression of RAC3, TGF-β, and Nestin was evaluated and correlated with clinicopathological parameters and survival outcomes. Results revealed that RAC3 expression was detected in all cases of PDAC. The nuclear RAC3 H-score demonstrated fair diagnostic performance in distinguishing PDAC from non-neoplastic pancreatic tissue (AUC = 0.77). Higher RAC3 H-scores were significantly associated with the absence of perineural invasion (p < 0.001), while increased cytoplasmic RAC3 expression correlated with lower tumor recurrence rates (p = 0.05). Positive expression of TGF-β and Nestin was significantly correlated with the absence of lymphovascular invasion (p = 0.05 and p = 0.002, respectively). Additionally, TGF-β showed a significant association with survival (p = 0.020; HR = 1.0231). In conclussion, RAC3 is frequently expressed in PDAC. Nuclear RAC3 expression may serve as a potential diagnostic marker. However, RAC3 cytoplasmic expression seems to be associated with more favorable clinicopathological features.",
+ "authors": [
+  "Dawoud MM",
+  "Kilany S",
+  "El Gendy WG",
+  "Kasem H",
+  "Sweed E",
+  "Sweed D"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42965295",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌관선암 환자 69명 전원에서 RAC3 발현이 검출되었으며, 핵 내 RAC3 수치는 췌관선암 감별 진단에서 준수한 성능을 보였습니다(AUC=0.77).",
+  "높은 RAC3 수치는 신경주위 침습의 부재와 유의한 연관성을 보였습니다(p<0.001).",
+  "세포질 내 RAC3 발현 증가는 낮은 종양 재발률과 유의한 상관관계를 보였습니다(p=0.05)."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1080/15321819.2026.2754393",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42965295"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Immunoassay Immunochem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965295/"
+ },
+ "summary_ko": "본 연구는 췌십이지장절제술을 받은 췌관선암(PDAC) 환자 69명의 조직을 바탕으로 RAC3 단백질 발현의 진단 및 예후적 가치를 후향적으로 분석했습니다. 비종양 조직 및 정상 췌장 조직과 비교한 결과, RAC3 단백질은 모든 췌관선암 환자 검체에서 발현되는 것으로 확인되었습니다. 세포핵 내 RAC3 발현 수치는 정상 및 비종양 조직과 암을 구별하는 진단적 성능을 나타냈습니다. 반면 세포질 내 RAC3 발현 증가는 신경 침습 부재 및 낮은 재발률 등 상대적으로 양호한 병리학적 특징과 관련이 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Diagnostic and prognostic significance of RAC3 expression in pancreatic ductal adenocarcinoma: an Immunohistochemical analysis",
+ "title_ko": "췌관선암에서 RAC3 발현의 진단 및 예후적 의의: 면역조직화학 분석",
+ "trial": null,
+ "type": "paper"
+}

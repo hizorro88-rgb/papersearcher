@@ -16,12 +16,91 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 256건 · 최근 30일 256건
+전체 259건 · 최근 30일 259건
 
-월별 보기: [2026-10](surgery/2026-10.md)
+월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct05873699"></a>
+#### [수술적 절제를 받는 췌장 낭종 환자에서 과분극 13C-피루브산 자기공명 분광 영상 활용에 관한 연구](https://clinicaltrials.gov/study/NCT05873699)
+<small>Study Using Hyperpolarized 13C-Pyruvate Magnetic Resonance Spectroscopic Imaging in Patients With Pancreatic Cysts Undergoing Surgical Resection</small>
+
+`임상시험` `1상` `진단·조기발견` `수술` · 2023-05-24 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.81
+
+**NCT05873699** · 1상 · 일시 중단 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05873699.md)
+
+이 연구는 수술적 절제 또는 낭종 벽 생검이 예정된 췌장 낭종(Pancreatic Cyst) 환자 20명을 대상으로 과분극 13C-피루브산 자기공명 분광 영상(HP-MR Spectroscopic Imaging)의 유용성과 안전성을 평가하는 1상 임상시험입니다. 환자는 수술 전 HP-MR 영상 검사를 받아 대사 활성 수치인 kpl 값을 측정받고, 수술 후 조직 병리 검사 결과와 비교 분석 과정을 거칩니다. 이를 통해 저위험(양성) 낭종과 고위험(악성) 낭종을 구별하는 성능 및 혈액·낭액 바이오마커와의 연관성을 평가합니다.
+
+- 수술적 절제 또는 생검이 예정된 췌장 낭종 환자 20명을 대상으로 시행하는 1상 임상시험입니다.
+- 수술 전 HP-MR 영상 검사에서 측정된 kpl 수치와 수술 후 병리 조직의 악성도 연관성을 평가합니다.
+- 혈액 및 낭액 바이오마커(CA19-9, CEA) 및 조직 내 대사체학 결과와 영상 지표를 비교합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05873699) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05873699)</small>
+
+---
+<a id="pmid-42966317"></a>
+#### [임상 위험 인지 불확실성 정렬 프레임워크를 통한 췌장 종양 및 췌장 주위 혈관의 동시 분할](https://pubmed.ncbi.nlm.nih.gov/42966317/)
+<small>Joint segmentation of pancreatic tumors and peripancreatic vessels via a clinical risk-aware uncertainty alignment framework</small>
+
+`논문` `관찰연구` `진단·조기발견` `수술` `치료 전반` · 2026-10-26 · PubMed · Med Image Anal · 중요도 0.77
+
+췌장암의 수술 전 절제 가능성 평가는 조영증강 CT에서 종양과 주변 혈관을 정확히 구분하는 것이 핵심입니다. 연구진은 높은 분할 정확도를 유지하면서 종양 주변 침윤 위험과 혈관 연속성 단절 위험을 함께 평가할 수 있는 새로운 딥러닝 프레임워크를 개발했습니다. 이 프레임워크는 종양의 침윤 가능성이 있는 경계 부위와 혈관의 연결성을 분석하여 위험도를 시각화합니다. 5개 의료기관의 환자 1,058명을 대상으로 한 다기관 검증에서 우수하고 안정적인 성능을 입증했습니다.
+
+- 5개 의료기관에서 수집한 1,058명의 환자 CT 데이터를 통해 다기관 성능 검증을 완료했습니다.
+- 종양과 췌장 주변 혈관을 동시에 정밀 분할하고 침윤 위험과 혈관 단절 위험을 함께 정량화했습니다.
+- 수술 전 절제 가능성 판단 및 종양-혈관 침윤 평가를 지원하는 데 유용한 인공지능 보조 도구로서의 가능성을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966317/) · [DOI](https://doi.org/10.1016/j.media.2026.104378) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966317)</small>
+
+---
+<a id="pmid-42966682"></a>
+#### [절제술을 시행한 췌장 체미부선암 환자에서 선행 화학방사선요법과 항암화학요법 단독의 치료 결과 비교](https://pubmed.ncbi.nlm.nih.gov/42966682/)
+<small>Outcomes of neoadjuvant chemoradiation versus chemotherapy alone for resected distal pancreatic adenocarcinoma</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-10-15 · PubMed · HPB (Oxford) · 중요도 0.72
+
+췌장 체부 및 미부암 환자에서 수술 전 선행 치료로 화학방사선요법(nCRT)과 항암화학요법 단독(nCT)의 치료 효과를 비교한 후향적 관찰 연구입니다. 2005년부터 2019년까지 선행 치료 후 원위부 췌장절제술 및 비장절제술을 받은 환자 284명(각 치료군당 142명)의 데이터를 분석했습니다. 연구 결과, 선행 화학방사선요법군은 항암화학요법 단독군에 비해 병리학적 병기 완화율이 높았고 질병 진행 위험이 낮았습니다. 또한 전체 생존기간(OS) 중앙값도 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월에 비해 유의하게 길었습니다.
+
+- 병리학적 병기 완화율은 선행 화학방사선요법군이 47.2%로 항암화학요법 단독군의 25.4%에 비해 유의하게 높았습니다.
+- 질병 진행률은 선행 화학방사선요법군이 7.7%로 항암화학요법 단독군의 19%보다 낮았습니다.
+- 전체 생존기간(OS) 중앙값은 선행 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월 대비 유의한 개선을 보였습니다(위험비 0.74, p=0.039).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966682/) · [DOI](https://doi.org/10.1016/j.hpb.2026.10.001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966682)</small>
+
+---
+<a id="pmid-42964689"></a>
+#### [수술 불가능한 췌장암 환자에서 종양 위치에 따른 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술의 치료 결과: 단일기관 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42964689/)
+<small>Computed tomography-guided splanchnic nerve neurolysis outcomes by tumor site in unresectable pancreatic cancer: A single-center retrospective cohort study</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `치료 전반` `수술` · 2026-10-28 · PubMed · World J Radiol · 중요도 0.71
+
+수술이 불가능한 췌장암 환자 22명을 대상으로 통증 조절을 위한 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술(NSNB)의 효과와 안전성을 분석한 연구입니다. 전체 환자의 81.8%에서 통증 완화나 마약성 진통제 용량 감소와 같은 임상적 성공이 나타났습니다. 췌장 두부 종양의 임상적 성공률은 6/9명, 체부 및 미부 종양은 12/13명이었습니다. 3등급 이상의 중증 부작용은 발생하지 않았습니다.
+
+- CT 유도 하 내장신경 차단술(NSNB)의 시술 성공률은 77.3%(17/22명), 임상적 성공률은 81.8%(18/22명)였습니다.
+- 효과가 확인된 13명의 통증 완화 유지 기간 중앙값은 40일이었으며, 두부는 29.5일, 체부·미부는 117일이었습니다.
+- 부작용은 27.3%(6/22명)에서 관찰되었으나 3등급 이상의 중증 부작용은 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42964689/) · [DOI](https://doi.org/10.4329/wjr.126066) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720563/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42964689)</small>
+
+---
+<a id="nct-nct07901582"></a>
+#### [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](https://clinicaltrials.gov/study/NCT07901582)
+<small>Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `수술` · 2026-10-28 · ClinicalTrials.gov · National and Kapodistrian University of Athens · 중요도 0.67
+
+**NCT07901582** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07901582.md)
+
+이 연구는 주요 개복 복부 수술(major open abdominal surgery)을 받는 환자 58명을 대상으로 수술 후 통증 조절을 위한 경막외 지속 주입(continuous epidural infusion) 조합의 효과를 비교하는 전향적 연구입니다. 환자들은 ropivacaine(로피바카인)과 fentanyl(펜타닐) 병용군(29명) 또는 ropivacaine과 morphine(모르핀) 병용군(29명)으로 나뉘어 수술 종료 2시간 전부터 5일간 투여받습니다. 연구진은 수술 후 통증 완화, 혈역학적 변화, 신체 기능 회복 및 부작용을 종합적으로 평가합니다.
+
+- 개복 복부 수술이 예정된 18세~80세 환자 총 58명을 대상으로 2개 군(각 29명)으로 나누어 임상시험을 진행합니다.
+- 수술 종료 2시간 전부터 5일 동안 경막외 투여 방식으로 ropivacaine+fentanyl 또는 ropivacaine+morphine을 지속 주입합니다.
+- 수술 후 통증 강도, 신체 기능 회복, 부작용 및 혈역학적 안정성을 비교 분석합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07901582) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07901582)</small>
+
+---
 <a id="nct-nct07900789"></a>
 #### [수술 전후 고위험 및 경계성 수술 가능 췌장암 치료를 위한 HRS-4642 병용요법 3상 임상시험](https://clinicaltrials.gov/study/NCT07900789)
 <small>HRS-4642 Combined With Antitumor Agents for the Treatment of Perioperative Pancreatic Cancer</small>
@@ -154,23 +233,6 @@ This is a phase II single arm, open label, prospective trial investigating the e
 <small>[원문](https://clinicaltrials.gov/study/NCT07671339) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671339)</small>
 
 ---
-<a id="nct-nct05873699"></a>
-#### [수술 예정인 췌장 낭종 환자 대상 과분극 13C-피루브산 자기공명분광영상(HP-MR) 연구](https://clinicaltrials.gov/study/NCT05873699)
-<small>Study Using Hyperpolarized 13C-Pyruvate Magnetic Resonance Spectroscopic Imaging in Patients With Pancreatic Cysts Undergoing Surgical Resection</small>
-
-`임상시험` `1상` `진단·조기발견` `수술` · 2023-05-24 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.81
-
-**NCT05873699** · 1상 · 일시 중단 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05873699.md)
-
-췌장 낭종(물혹) 환자를 대상으로 수술 전 과분극 13C-피루브산 자기공명분광영상(HP-MR)을 촬영하여 저위험(양성) 낭종과 고위험(악성) 낭종을 감별할 수 있는지 평가하는 1상 임상시험입니다. 수술적 절제 또는 낭종 벽 생검이 예정된 20명의 환자가 등록됩니다. 수술 전 HP-MR을 통해 병변의 대사 활성도(kpl 수치)를 측정한 뒤 수술 후 최종 병리 조직 결과와 대조합니다. 또한 조직 대사체, 혈액 및 낭종액 종양표지자(CA19-9, CEA 등), 안전성 등을 종합적으로 분석합니다.
-
-- 수술 예정인 췌장 낭종 환자 20명을 대상으로 과분극 13C-피루브산 HP-MR 검사의 진단적 유용성을 평가하는 1상 임상시험입니다.
-- 수술 전 영상에서 도출된 대사 전환율(kpl 수치)과 수술 후 병리 검사로 확인된 침윤성 암 여부의 연관성을 확인합니다.
-- 조직 대사체학, 종양표지자(CA19-9, CEA), 장내 미생물 등과의 상관관계 및 검사의 안전성을 탐색합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05873699) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05873699)</small>
-
----
 <a id="pmid-42958223"></a>
 #### [췌십이지장절제술을 위한 예방적 항생제: 타조박탐/피페라실린과 암피실린/설박탐을 비교하는 다기관 무작위 배정 임상시험 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42958223/)
 <small>Prophylactic antibiotics for pancreaticoduodenectomy: study protocol for a multicenter randomized controlled trial comparing tazobactam/piperacillin versus ampicillin/sulbactam</small>
@@ -263,22 +325,6 @@ This is a phase II single arm, open label, prospective trial investigating the e
 - 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
-
----
-<a id="nct-nct07901582"></a>
-#### [대개복술 환자에서 통증 관리 계획의 시행](https://clinicaltrials.gov/study/NCT07901582)
-<small>Implementation of a Pain Management Plan in Major Open Abdominal Surgeries.</small>
-
-`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-28 · ClinicalTrials.gov · National and Kapodistrian University of Athens · 중요도 0.67
-
-**NCT07901582** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07901582.md)
-
-이 임상시험은 주요 개복 수술(major open abdominal surgeries)을 받는 환자 58명을 대상으로 수술 후 경막외 지속 주입(continuous epidural infusion)에 사용되는 두 가지 진통제 조합(로피바카인+펜타닐 대 로피바카인+모르핀)의 효과를 비교합니다. 연구는 환자의 혈역학적 및 임상적 결과, 신체 기능, 통증 강도, 부작용 등을 평가하여 최적의 수술 후 통증 관리법을 찾고자 합니다. 참여 환자는 18세에서 80세 사이의 아테네 에반겔리스모스 종합병원(Evangelismos General hospital)에 입원한 환자들입니다.
-
-- 총 58명의 환자가 두 그룹으로 나누어 참여하며, 각각 ropivacaine(로피바카인)과 fentanyl(펜타닐) 또는 ropivacaine(로피바카인)과 morphine(모르핀)을 투여받습니다.
-- 수술 후 첫 5일 동안 경막외 지속 주입 방식으로 진통제가 투여됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07901582) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07901582)</small>
 
 ---
 <a id="pmid-42957525"></a>
@@ -2347,56 +2393,5 @@ T3 병기의 췌장 체부 및 미부 췌관선암 환자를 대상으로 근치
 - 주요 2차 평가지표는 무진행 생존기간(PFS)과 객관적 반응률(ORR)입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06079346) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06079346)</small>
-
----
-<a id="nct-nct06391892"></a>
-#### [국소성 췌장암에서 액체생검(순환종양DNA) 기반 치료: 선행화학요법 대 선행수술](https://clinicaltrials.gov/study/NCT06391892)
-<small>Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-04-30 · ClinicalTrials.gov · Elisabethinen Hospital · 중요도 0.89
-
-**NCT06391892** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06391892.md)
-
-이 임상시험은 국소성 췌장암 환자를 대상으로 순환종양DNA(ctDNA) 검사를 통해 선행화학요법과 선행수술 중 적절한 치료법을 선택하고 임상적 예후 영향을 평가합니다. 종양위원회에서 선행수술을 권고받은 국소성 췌장암 환자 100명을 대상으로 합니다. ctDNA 양성 환자에게는 조기 재발 위험을 고려하여 수술 대신 선행화학요법을 시행합니다. 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교합니다.
-
-- 목표 환자 수는 100명이며, 18세 이상의 국소성 췌장암 환자가 대상입니다.
-- ctDNA 양성 환자는 조기 재발 고위험군으로 간주하여 수술 대신 선행화학요법을 받습니다.
-- 치료 그룹 간 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06391892) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06391892)</small>
-
----
-<a id="nct-nct06714604"></a>
-#### [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](https://clinicaltrials.gov/study/NCT06714604)
-<small>Standard or Prolonged Neoadjuvant Chemotherapy Before Surgery for BR/LAPC</small>
-
-`임상시험` `3상` `신약·치료제` `수술` `치료 전반` · 2024-12-03 · ClinicalTrials.gov · Sahlgrenska University Hospital · 중요도 0.89
-
-**NCT06714604** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06714604.md)
-
-본 임상시험은 수술이 가능한지 평가하기 전, 경계성(borderline, BR) 및 국소진행성(locally advanced, LAPC) 췌장암 환자에게 mFOLFIRINOX 또는 젬시타빈-납-파클리탁셀(gemcitabine-nab-paclitaxel, GnP) 선행화학요법(neoadjuvant chemotherapy, NAT)의 표준 기간과 연장 기간의 효과를 비교합니다. 조직학적으로 확진된 전이가 없는 경계성 및 국소진행성 췌장암 환자 432명을 대상으로 하며, 질병 진행이 없는 경우 표준 기간(mFOLFIRINOX 6주기 또는 GnP 4주기) 또는 연장 기간(mFOLFIRINOX 12주기 또는 GnP 6주기)의 치료를 무작위 배정받습니다. 1차 목표는 무작위 배정 후 24개월 시점의 전체 생존율(overall survival)을 비교하는 것입니다.
-
-- 경계성 및 국소진행성 췌장암 환자 432명을 대상으로 표준 선행화학요법 기간과 연장된 기간을 비교하는 3상 임상시험입니다.
-- mFOLFIRINOX는 표준 6주기 또는 연장 12주기, GnP는 표준 4주기 또는 연장 6주기로 무작위 배정됩니다.
-- 1차 평가지표는 무작위 배정 후 24개월째의 전체 생존율입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06714604) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06714604)</small>
-
----
-<a id="nct-nct06752811"></a>
-#### [전이성 췌장암 환자를 위한 고분자 미셀 파클리탁셀과 젬시타빈 병용 요법의 3상 임상시험](https://clinicaltrials.gov/study/NCT06752811)
-<small>Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-12-31 · ClinicalTrials.gov · Shanghai Yizhong Pharmaceutical Co., Ltd. · 중요도 0.89
-
-**NCT06752811** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06752811.md)
-
-이 임상시험은 전이성 췌장암(metastatic pancreatic cancer) 환자의 1차 치료로서 고분자 미셀 파클리탁셀(paclitaxel polymeric micelles for injection)과 젬시타빈(gemcitabine) 병용 요법의 유효성과 안전성을 평가하기 위한 다기관, 무작위배정, 공개, 평행 대조군 3상 임상시험입니다. 대조군은  nab-Paclitaxel(알부민 결합 파클리탁셀)과 젬시타빈 병용 요법을 사용합니다. 목표 환자 수는 416명이며 연령은 18세에서 75세 사이입니다. 초록에 명시되지 않음.
-
-- 대상 질환은 조직학적 또는 세포학적으로 확인된 전이성 췌장암입니다.
-- 목표 인원은 총 416명입니다.
-- 환자 연령은 18세부터 75세까지입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06752811) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06752811)</small>
 
 ---

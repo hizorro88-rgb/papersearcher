@@ -1,0 +1,62 @@
+{
+ "abstract": "Hyperactivation of the mechanistic target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, is common in pancreatic ductal adenocarcinoma (PDAC). However, clinical use of mTOR inhibitors has shown limited efficacy due to rapid adaptive resistance. Using inducible genetically engineered mouse models and matched organoids, we delineated distinct complex-specific adaptations. Loss of mTORC1 delayed tumor progression but induced compensatory PI3K/Akt signalling hyperactivation, while concurrently suppressing inflammatory cancer-associated fibroblasts and desmoplasia through Il-1ra. In contrast, mTORC2 loss impaired de novo sphingolipid synthesis, shifted lipid composition toward saturation, increased the saturated-to-monounsaturated fatty acid ratio, enriched plasma membrane lipid rafts, and amplified interferon-γ signaling. This lipid reprogramming generated a synthetic-lethal dependency on stearoyl-CoA desaturase 1 (Scd1). Pharmacological co-inhibition of mTORC1/2 and Scd1 prevented adaptive PI3K/Akt signalling rebound, remodelled the tumor stroma, enhanced interferon-γ responses, and synergized with anti-PD-1 therapy. These findings establish dual targeting of mTOR signaling and Scd1 as a rational therapeutic strategy for PDAC.",
+ "authors": [
+  "Fang C",
+  "Yu Y",
+  "Yin Y",
+  "Shi Z",
+  "Xu Z",
+  "Statz B",
+  "Qiao Y",
+  "Li H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966744",
+ "importance": 0.6,
+ "key_points_ko": [
+  "mTORC1 결손은 암 진행을 지연시키지만 보상적으로 PI3K/Akt 신호를 과활성화시킵니다.",
+  "mTORC2 결손은 지질 구성을 변화시켜 암세포가 Scd1(stearoyl-CoA desaturase 1)에 의존하는 합성치사 취약점을 유도합니다.",
+  "mTORC1/2와 Scd1을 함께 억제하면 신호 반동을 막고 인터페론-감마 반응을 높여 항 PD-1 면역요법과 강력한 시너지 효과를 보입니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1038/s41388-026-04026-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42966744"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncogene",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966744/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 흔히 활성화되는 mTOR 복합체(mTORC1, mTORC2)를 억제하는 치료는 세포의 빠른 적응성 내성으로 인해 임상적 효과가 제한적이었습니다. 연구진은 유전자 조작 마우스 및 오가노이드(organoid) 모델을 통해 mTORC1 억제 시 보상적 PI3K/Akt 신호 과활성화가 일어나고, mTORC2 결손 시에는 지질 재프로그래밍으로 인해 Scd1 효소에 대한 합성치사 의존성이 생김을 규명했습니다. mTORC1/2와 Scd1을 동시에 약물로 억제했을 때 내성 신호 반동이 차단되고 종양 미세환경이 개선되었으며, 항 PD-1(anti-PD-1) 면역치료와의 병용 시너지 효과를 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer",
+ "title_ko": "mTORC1/2와 Scd1의 동시 억제를 통한 췌장암의 새로운 치료 표적 규명",
+ "trial": null,
+ "type": "paper"
+}

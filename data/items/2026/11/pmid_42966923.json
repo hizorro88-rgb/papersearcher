@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic head cancer may cause life-threatening upper gastrointestinal bleeding through duodenal invasion and tumor-related arterial involvement. In such patients, differentiating between benign peptic ulcer disease and tumor invasion or penetration is clinically important because this distinction may influence whether endoscopic management or angiography with possible endovascular treatment is pursued. We report a 66-year-old man receiving chemotherapy for unresectable pancreatic head adenocarcinoma who presented with melena. Compared with pre-chemotherapy computed tomography, contrast-enhanced computed tomography on admission showed tumor shrinkage; however, air and a gas-containing low-attenuation area involving the residual pancreatic head lesion and adjacent peripancreatic region suggested tumor necrosis and/or communication with the gastrointestinal lumen. A focal aneurysmal lesion was also identified within the residual pancreatic head tumor. Endoscopy revealed a deep duodenal bulb ulcer without active bleeding. Together, these findings suggested duodenal penetration with tumor-related arterial involvement. The patient subsequently developed hemorrhagic shock, and emergency angiography demonstrated pseudoaneurysm rupture corresponding to the aneurysmal lesion seen on computed tomography. Transcatheter arterial embolization achieved hemostasis, and follow-up endoscopy showed coil exposure at the ulcer base. This case highlights that careful integration of computed tomography and endoscopic findings may help identify duodenal penetration with tumor-related pseudoaneurysm rupture, even when endoscopy shows no active bleeding.",
+ "authors": [
+  "Hosoi K",
+  "Ishikawa A",
+  "Matsumoto T",
+  "Konishi H",
+  "Iyama K",
+  "Nagai S",
+  "Onoe M",
+  "Kikuchi H"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966923",
+ "importance": 0.59,
+ "key_points_ko": [],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1016/j.radcr.2026.10.012",
+  "nct": [],
+  "pmcid": "PMC13722554",
+  "pmid": "42966923"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiol Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966923/"
+ },
+ "summary_ko": "Pancreatic head cancer may cause life-threatening upper gastrointestinal bleeding through duodenal invasion and tumor-related arterial involvement. In such patients, differentiating between benign peptic ulcer disease and tumor invasion or penetration is clinically important because this distinction may influence whether endoscopic management or angiography with possible endovascular treatment is pursued.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Integration of computed tomography and endoscopic findings in identifying pseudoaneurysm rupture associated with duodenal penetration by pancreatic head cancer: A case report",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

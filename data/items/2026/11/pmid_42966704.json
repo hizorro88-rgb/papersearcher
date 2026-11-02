@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy closely associated with chronic inflammation. However, the molecular link between persistent inflammatory signaling and lipid metabolic reprogramming during PDAC progression remains incompletely understood. We investigated the role of ubiquitin-conjugating enzyme E2T (UBE2T) in this process.\nMETHODS: The effects of UBE2T were evaluated using cellular functional assays, lipidomic profiling, pathway-rescue experiments, and genetically engineered mouse models under chronic inflammatory conditions. The therapeutic effects of β-1,2,3,4,6-pentagalloylglucose (PGG), previously identified as a pharmacological inhibitor of UBE2T, were further assessed in vitro and in vivo.\nRESULTS: Inflammatory stimulation increased UBE2T expression, whereas UBE2T depletion suppressed PDAC cell proliferation and motility- and invasion-associated phenotypes. Lipidomic analyses revealed extensive UBE2T-dependent remodeling of pancreatic lipid profiles and reduced lipid accumulation following UBE2T loss. UBE2T depletion decreased AKT phosphorylation, sterol regulatory element-binding protein (SREBP1) nuclear accumulation, and fatty acid synthase (FASN) expression. AKT activation partially rescued these alterations, whereas SREBP1 knockdown or AKT inhibition attenuated UBE2T-induced TG accumulation, supporting the involvement of the AKT/SREBP1/FASN axis. In vivo, UBE2T deficiency alleviated inflammation-associated pancreatic pathological progression and reduced pancreatic lipid accumulation. PGG treatment similarly reduced lesion burden, FASN expression, and pancreatic lipid accumulation, with concomitant attenuation of stromal remodeling.\nCONCLUSIONS: UBE2T links chronic inflammatory signaling to AKT/SREBP1/FASN-associated lipid metabolic reprogramming during PDAC progression. UBE2T deficiency and PGG treatment attenuated pancreatic pathological progression and lipid metabolic remodeling, supporting UBE2T as a potential therapeutic target for PDAC.",
+ "authors": [
+  "Xiao L",
+  "Ma Y",
+  "Li J",
+  "Cai W",
+  "Long B",
+  "Zhou H",
+  "Jiao Z"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966704",
+ "importance": 0.64,
+ "key_points_ko": [
+  "염증 자극에 의해 발현이 유도되는 UBE2T는 AKT/SREBP1/FASN 신호 축을 조절하여 췌장암 세포의 지질 대사 재프로그래밍을 유도합니다.",
+  "UBE2T를 제거하면 암세포 증식 및 침습 능력이 억제되고 췌장 내 지질 축적이 감소했습니다.",
+  "동물 모델에서 UBE2T 결핍 및 UBE2T 약물학적 억제제인 PGG 투여는 췌장 병변 부담과 기질 재형성을 완화했습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.028",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42966704"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966704/"
+ },
+ "summary_ko": "본 연구는 만성 염증 신호와 췌관선암(PDAC) 진행 과정에서 지질 대사 변화를 매개하는 UBE2T(유비퀴틴 결합 효소 E2T)의 역할을 분석했습니다. 세포 실험 및 유전자 변형 쥐 모델에서 염증 자극은 UBE2T의 발현을 증가시켰으며, UBE2T 결핍은 암세포의 증식과 침습 및 지질 축적을 억제했습니다. 이 과정은 AKT/SREBP1/FASN 신호 전달 축을 통해 이루어지는 것으로 나타났습니다. 또한 UBE2T 억제 물질인 PGG를 투여했을 때 병변 부담, 지질 축적, 기질 재형성이 감소하여 UBE2T가 췌장암의 새로운 치료 표적이 될 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "UBE2T-driven lipid metabolic reprogramming links chronic inflammation to pancreatic cancer progression",
+ "title_ko": "UBE2T에 의한 지질 대사 재프로그래밍이 만성 염증과 췌장암 진행을 연결합니다",
+ "trial": null,
+ "type": "paper"
+}

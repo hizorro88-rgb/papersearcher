@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누출(pancreatic fistula) 예방에 미치는 영향 비교…](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 
-## 타임라인 (8)
+## 타임라인 (9)
 
 <a id="pmid-42950589"></a>
 #### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
@@ -69,6 +69,21 @@ search:
 - 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
+
+---
+<a id="pmid-42966682"></a>
+#### [절제술을 시행한 췌장 체미부선암 환자에서 선행 화학방사선요법과 항암화학요법 단독의 치료 결과 비교](https://pubmed.ncbi.nlm.nih.gov/42966682/)
+<small>Outcomes of neoadjuvant chemoradiation versus chemotherapy alone for resected distal pancreatic adenocarcinoma</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-10-15 · PubMed · HPB (Oxford) · 중요도 0.72
+
+췌장 체부 및 미부암 환자에서 수술 전 선행 치료로 화학방사선요법(nCRT)과 항암화학요법 단독(nCT)의 치료 효과를 비교한 후향적 관찰 연구입니다. 2005년부터 2019년까지 선행 치료 후 원위부 췌장절제술 및 비장절제술을 받은 환자 284명(각 치료군당 142명)의 데이터를 분석했습니다. 연구 결과, 선행 화학방사선요법군은 항암화학요법 단독군에 비해 병리학적 병기 완화율이 높았고 질병 진행 위험이 낮았습니다. 또한 전체 생존기간(OS) 중앙값도 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월에 비해 유의하게 길었습니다.
+
+- 병리학적 병기 완화율은 선행 화학방사선요법군이 47.2%로 항암화학요법 단독군의 25.4%에 비해 유의하게 높았습니다.
+- 질병 진행률은 선행 화학방사선요법군이 7.7%로 항암화학요법 단독군의 19%보다 낮았습니다.
+- 전체 생존기간(OS) 중앙값은 선행 화학방사선요법군이 35개월로 항암화학요법 단독군의 27개월 대비 유의한 개선을 보였습니다(위험비 0.74, p=0.039).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966682/) · [DOI](https://doi.org/10.1016/j.hpb.2026.10.001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966682)</small>
 
 ---
 <a id="pmid-42854074"></a>

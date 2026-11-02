@@ -19,11 +19,11 @@
  "id": "nct:NCT07591571",
  "importance": 0.71,
  "key_points_ko": [
-  "새로 진단된 췌관선암 환자 120명을 대상으로 지역사회 보건인력(CHW) 기반 조기 완화의료 지원 중재를 일반 관리와 1:1로 비교 평가했습니다.",
-  "참여 환자는 3개월 동안 대면 또는 화상으로 보건인력을 만나며 정기 설문을 통해 증상과 삶의 질 변화를 확인했습니다.",
-  "환자의 삶의 질 및 증상 완화뿐만 아니라 가족 보호자의 돌봄 부담 개선 효과를 함께 조사했습니다."
+  "새로 진단받았거나 췌장관선암이 의심되는 환자 120명을 대상으로 진행되는 파일럿 무작위 대조 연구입니다.",
+  "참가자는 1:1 비율로 무작위 배정되어 3개월 동안 CHW 주도 중재 또는 통상적 치료를 받습니다.",
+  "중재군 환자는 CHW와 대면 또는 비대면으로 만나며, 디지털 통신을 통해 조기 완화의료 개입을 받습니다."
  ],
- "last_updated": "2026-10-31",
+ "last_updated": "2026-11-02",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07591571"
  },
- "summary_ko": "새로 췌관선암(PDAC)을 진단받은 성인 환자와 그 가족 보호자를 대상으로 진행된 무작위 배정 임상시험입니다. 지역사회 보건인력(CHW)이 디지털 소통 및 방문을 통해 조기 완화의료 연계와 진료 안내를 지원하는 중재의 효과를 일반 관리와 비교했습니다. 120명의 환자가 참여하여 3개월 동안 환자의 증상 개선, 삶의 질, 보호자의 돌봄 부담 완화 여부를 평가했습니다.",
+ "summary_ko": "새로 진단받은 췌장관선암(PDAC) 환자와 보호자를 대상으로 디지털 기술이 적용된 지역사회 보건 종사자(CHW) 주도 완화의료(palliative care) 중재의 효과를 평가하는 연구입니다. 환자들은 1:1 비율로 무작위 배정되어 3개월 동안 CHW의 방문 및 디지털 통신을 통한 진료 안내와 조기 완화의료 지원을 받거나 통상적 치료를 받게 됩니다. 본 연구는 CHW 주도 중재가 환자의 증상 및 삶의 질을 개선하고 가족 간병인의 돌봄 부담을 줄일 수 있는지 확인하고자 합니다.",
  "summary_source": "llm",
  "tags": [
   "community health worker",
@@ -54,13 +54,13 @@
   "palliative care"
  ],
  "title": "To Evaluate the Preliminary Efficacy of Our Digitally Enhanced CHW-led Intervention in Newly Diagnosed PDAC",
- "title_ko": "새로 진단된 췌관선암 환자에서 디지털 기반 지역사회 보건인력(CHW) 중재의 예비 효능 평가",
+ "title_ko": "새로 진단받은 췌장관선암 환자에서 디지털 기술을 활용한 지역사회 보건 종사자(CHW) 주도 중재의 초기 효과 평가",
  "trial": {
   "conditions": [
    "Pancreatic Cancer, Adult"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상 90세 이하의 성인 환자\n• 새로 진단된 췌관선암 환자, 또는 CT나 MRI에서 췌장 종괴가 발견되어 췌관선암이 의심되어 조직검사를 대기 중인 환자\n• 영어 또는 스페인어로 의사소통이 가능한 환자\n• 종료 인터뷰 음성 녹음이 가능하도록 구두 의사소통이 가능한 환자\n• 연구 참여에 직접 서면 동의할 수 있는 환자\n\n제외 기준:\n• 조직검사 결과 췌관선암이 아닌 다른 병리로 확인된 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 90세 이하\n- 영어 또는 스페인어 소통 가능자\n- 새로 진단된 췌장관선암 환자 또는 CT/MRI상 췌장 종괴가 있어 췌장관선암이 의심되고 조직검사를 기다리는 환자\n- 종료 인터뷰 녹음이 가능하도록 구두 소통이 가능한 자\n- 임상시험 참여 동의서 서명이 가능한 자\n\n제외 기준:\n- 조직검사 결과 췌장관선암으로 확인되지 않은 경우",
   "eligibility_text": "Inclusion criteria:\n\n* Age 18 to 90\n* English or Spanish-Speaking\n* Diagnosed with Newly-Diagnosed Pancreatic Adenocarcinoma or has a pancreatic mass on CT/MRI with suspected PDAC and is awaiting biopsy.\n* Able to communicate verbally to allow for audio recording to complete an exit interview\n* Must be able to consent\n\nExclusion criteria:\n\n• Biopsy Does not Confirm Adenocarcinoma of the Pancreas",
   "enrollment": 120,
   "has_results": false,
@@ -78,12 +78,12 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "조직검사 결과 췌관선암이 아닌 다른 질환으로 확인된 경우"
+    "조직검사 결과 췌장관선암이 아닌 것으로 확인된 경우"
    ],
    "max_prior_lines": 0,
-   "measurable_required": false,
+   "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "새로 췌장암을 진단받은 환자 및 가족 보호자를 위한 완화의료 연계 및 삶의 질 지원 시험",
+   "notes_ko": "새로 진단받았거나 췌장관선암이 의심되어 조직검사를 앞둔 췌장암 환자 및 보호자를 위한 완화의료 중재 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

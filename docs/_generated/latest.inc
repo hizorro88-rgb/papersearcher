@@ -1,70 +1,39 @@
-<div class="ps-stats"><div class="ps-stat"><b>955</b><span>누적 수집<br><small>논문·소식 445 · 임상시험 510</small></span></div><div class="ps-stat"><b>+34</b><span>오늘 신규<br><small>갱신 31건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>966</b><span>누적 수집<br><small>논문·소식 456 · 임상시험 510</small></span></div><div class="ps-stat"><b>+11</b><span>오늘 신규<br><small>갱신 12건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-10-31](_generated/daily/2026/10/31.md)
+최근 수집일: [2026-11-02](_generated/daily/2026/11/02.md)
 
-<a id="nct-nct07252232"></a>
-#### [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](https://clinicaltrials.gov/study/NCT07252232)
-<small>Study of Daraxonrasib (RMC-6236) in Patients With Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
+<a id="nct-nct07232875"></a>
+#### [1차 치료를 받는 진행성 또는 전이성 췌장암에서 AG 병용 요법 대 위약 병용 AG 요법으로서 HRS-4642 주사의 임상시험](https://clinicaltrials.gov/study/NCT07232875)
+<small>HRS 4642 Injection Combined With AG Versus Placebo Combined With AG Therapy in First-Line Advanced or Metastatic Pancreatic Cancer</small>
 
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2025-11-26 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
+`임상시험` `3상` `신약·치료제` `치료 전반` · 2025-11-18 · ClinicalTrials.gov · Jiangsu HengRui Medicine Co., Ltd. · 중요도 0.99
 
-**NCT07252232** · 3상 · 모집 중 · 국내 4곳 · [참여 조건·기관 보기](_generated/trials/NCT07252232.md)
+**NCT07232875** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07232875.md)
 
-수술 후 선행 및/또는 보조 항암화학요법을 마친 췌장관선암 환자를 대상으로 daraxonrasib(다락소나십)의 효과와 안전성을 표준 관찰 치료와 비교 평가하는 임상 3상 연구입니다. 신규 RAS(ON) 억제제인 daraxonrasib이 무질병 생존기간(DFS)을 향상시킬 수 있는지 확인합니다. 총 500명의 환자를 대상으로 진행되며 국내 4개 기관이 참여합니다.
+이 연구는 KRAS G12D 변이가 있는 진행성 췌장암 환자를 대상으로 1차 치료 효과를 평가합니다. 환자들은 무작위로 1:1 배정되어 실험군인 HRS-4642와 AG 병용 요법 또는 대조군인 위약과 AG 병용 요법을 투여받습니다. 총 588명의 환자가 참여할 예정이며, 다국가에서 환자를 모집하고 있습니다. 초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
-- 수술 및 수술 전후 다제 항암화학요법 치료를 마친 췌장관선암 환자 500명을 대상으로 하는 3상 임상시험입니다.
-- 표준 관찰 치료 대비 daraxonrasib(다락소나십) 치료의 무질병 생존기간(DFS) 개선 효과를 평가합니다.
-- 국내 4개 기관을 포함하여 글로벌 임상으로 환자를 모집 중입니다.
+- KRAS G12D 변이가 있는 진행성 또는 전이성 췌장암 환자의 1차 치료를 대상으로 합니다.
+- 실험군(HRS-4642 + AG)과 대조군(위약 + AG)을 1:1로 비교하는 3상 임상시험입니다.
+- 총 목표 참여 환자 수는 588명입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07252232) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07252232)</small>
-
----
-<a id="nct-nct02000089"></a>
-#### [췌장암 선별검사 연구-5 (CAPS5)](https://clinicaltrials.gov/study/NCT02000089)
-<small>The Cancer of the Pancreas Screening-5 CAPS5)Study</small>
-
-`임상시험` `3상` `진단·조기발견` · 2013-12-03 · ClinicalTrials.gov · Johns Hopkins University · 중요도 0.99
-
-**NCT02000089** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT02000089.md)
-
-이 연구는 췌장암 발생 위험이 높은 고위험군을 대상으로 췌장암을 조기에 발견하기 위한 제3상 선별 검사 임상시험입니다. 췌장암 가족력이 있거나 유전성 유전자 변이를 가진 환자를 대상으로 자기공명영상(MRI), 내시경 검사, CA19-9 종양 표지자 및 유전자 검사를 실시합니다. 존스 홉킨스 대학교(Johns Hopkins University) 주도로 진행되며 총 9,000명의 대상자를 추적 관찰합니다.
-
-- 유전성 췌장염, 펩츠-제거스 증후군, 췌장암 가족력 또는 생식세포 유전자 변이(BRCA1, BRCA2, PALB2, ATM 등) 보유자 9,000명을 대상으로 합니다.
-- MRI, 내시경, CA19-9 혈액 검사 및 유전자 검사를 통해 췌장 암 및 전암성 병변을 조기에 선별합니다.
-- 18세 이상의 췌장암 고위험군을 대상으로 조기 진단 가능성을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT02000089) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02000089)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07232875) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07232875)</small>
 
 ---
-<a id="pmid-42914928"></a>
-#### [췌관선암에서 마이크로RNA 발현의 예후적 가치: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42914928/)
-<small>Prognostic value of microRNA expression in pancreatic ductal adenocarcinoma: a systematic review and meta-analysis</small>
+<a id="nct-nct07562152"></a>
+#### [전이성 췌장관선암 환자의 1차 치료로서 아테비메티닙과 GnP 병용요법에 대한 3상 임상시험](https://clinicaltrials.gov/study/NCT07562152)
+<small>Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
-`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-10-23 · PubMed · EBioMedicine · 중요도 0.95
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-05-01 · ClinicalTrials.gov · Immuneering Corporation · 중요도 0.99
 
-췌관선암(PDAC) 환자에서 마이크로RNA(miRNA) 발현 수준이 생존기간에 미치는 영향을 평가하기 위해 142개 연구, 총 13,824명의 데이터를 종합 분석했습니다. 분석 결과 발암성 및 항암제 내성 관련 miRNA가 높게 발현될수록 전체 생존기간(OS)과 무진행 생존기간(PFS)이 유의미하게 단축되었습니다. 특히 miRNA-21은 불량한 생존 예후와 가장 일관된 연관성을 보였습니다. 연구 간 이질성이 존재하여 임상 현장에서의 실제 적용을 위해서는 추가 검증과 표준화 작업이 필요합니다.
+**NCT07562152** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07562152.md)
 
-- 총 142개 연구의 췌관선암 환자 13,824명을 대상으로 miRNA의 예후적 가치를 체계적으로 분석했습니다.
-- 발암성 miRNA의 높은 발현은 전체 생존기간 악화(위험비 1.70) 및 무진행 생존기간 악화(위험비 2.25)와 관련이 있었습니다.
-- 항암제 내성 관련 miRNA의 높은 발현 역시 불량한 전체 생존기간(위험비 2.11) 및 무진행 생존기간(위험비 2.51)과 연관되었습니다.
-- 가장 빈번하게 분석된 miRNA-21은 다변량 전체 생존기간 악화(위험비 2.24)와 일관된 연관성을 보여 향후 임상 도입 가능성이 가장 높은 표지자로 제시되었습니다.
+이 연구는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 아테비메티닙(atebimetinib)과 변형된 젬시타빈/나브파클리탁셀(mGnP) 병용요법의 유효성 및 안전성을 평가하는 임상 3상 연구입니다. 표준 치료법인 젬시타빈/나브파클리탁셀(GnP) 단독 요법과 비교하여 전체 생존기간(OS)을 개선할 수 있는지 평가합니다. 이전 전신 항암 치료 경험이 없는 510명의 환자가 무작위 배정되어 참여합니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914928/) · [DOI](https://doi.org/10.1016/j.ebiom.2026.106528) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914928)</small>
+- 전이성 췌장관선암 환자 510명을 대상으로 하는 무작위 배정, 공개, 글로벌 3상 임상시험입니다.
+- 아테비메티닙 + mGnP 병용 투여군과 표준 GnP 단독 투여군을 비교합니다.
+- 이전 전신 항암 치료를 받은 적이 없는 1차 치료 환자만을 대상으로 합니다.
 
----
-<a id="pmid-42914998"></a>
-#### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
-<small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>
-
-`논문` `2상` `치료 전반` `임상시험` `수술` `진단·조기발견` · 2026-10-23 · PubMed · Lancet Oncol · 중요도 0.91
-
-고위험 국소 췌관선암(PDAC) 환자 74명을 대상으로 수술 전후 항암화학요법(mFOLFIRINOX 또는 젬시타빈+납-파클리탁셀)에 정위체부방사선치료(SBRT)를 추가하는 병용 요법과 화학요법 단독 치료를 비교한 2상 무작위 배정 임상시험 결과입니다. 중앙 추적 관찰 3.2년 시점에서 12개월 국소 재발률은 SBRT 병용군이 20.2%, 항암화학요법 단독군이 52.0%로 방사선치료를 병용한 군에서 유의하게 낮았습니다(위험비 0.44, p=0.022). 3등급 이상의 중증 이상반응 발생률은 두 군 간에 유의미한 차이가 없었습니다(70% 대 64%, p=0.27). 연구진은 고위험 국소 췌장암 환자에서 화학요법에 SBRT를 추가하는 것이 독성을 크게 늘리지 않으면서 국소 재발을 유의하게 줄였다고 보고했습니다.
-
-- 12개월 국소 재발률은 SBRT 병용군 20.2%, 항암화학요법 단독군 52.0%로 SBRT 추가 시 국소 재발 위험이 56% 감소했습니다(HR 0.44, p=0.022).
-- 3등급 이상의 이상반응 발생률은 SBRT 병용군 70%(33/47명), 단독군 64%(16/25명)로 통계적 차이가 없었습니다(p=0.27).
-- 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
 <a id="pmid-42956271"></a>
@@ -81,5 +50,35 @@
 - 전체 환자군에서 3등급 이상의 치료 관련 부작용은 47.3%에서 발생했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956271/) · [DOI](https://doi.org/10.1097/COC.0000000000001387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956271)</small>
+
+---
+<a id="pmid-42934316"></a>
+#### [사망에 임박한 진행성 췌장암 남녀 환자의 신체 이미지 고통 - MISTRAL 임상시험 사후 분석](https://pubmed.ncbi.nlm.nih.gov/42934316/)
+<small>Body image distress in women and men with advanced pancreatic cancer approaching death - post-hoc analyses from the MISTRAL-trial</small>
+
+`논문` `무작위` `지지요법·삶의질` · 2026-10-27 · PubMed · Support Care Cancer · 중요도 0.86
+
+본 연구는 진행성 췌장암 환자가 사망에 임박함에 따라 신체 이미지 고통과 체중 관련 걱정이 어떻게 변화하는지 및 성별 차이를 조사한 MISTRAL 임상시험의 사후 분석입니다. MISTRAL 임상시험에 참여한 환자 125명(여성 64명, 51.2%)의 EORTC QLQ-PAN-26 설문 데이터를 바탕으로 사망 전 1개월부터 6개월까지의 변화를 분석했습니다. 분석 결과, 사망 전 6개월 동안 신체 이미지 고통과 체중 관련 걱정이 모두 유의하게 증가했습니다. 남녀 간 변화 속도의 통계적 차이는 없었으나, 사망에 가까워질수록 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 보고하는 경향을 보였습니다.
+
+- 총 125명의 진행성 췌장암 환자(여성 51.2%)를 대상으로 사망 전 1개월에서 6개월까지의 신체 변화 고통을 분석했습니다.
+- 사망 전 6개월 동안 신체 이미지 고통(β = 3.54, 95% CI: 1.67-5.41)과 체중 걱정(β = 2.98, 95% CI: 0.53-5.44)이 유의하게 증가했습니다.
+- 변화 속도에서 남녀 간 통계적으로 유의한 차이는 없었으나, 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 호소하는 경향을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934316/) · [DOI](https://doi.org/10.1007/s00520-026-11420-4) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13710564/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934316)</small>
+
+---
+<a id="pmid-42940093"></a>
+#### [췌관선암에서 삼차 림프구 구조(TLS)의 예후적 의의 및 공간적 조직화](https://pubmed.ncbi.nlm.nih.gov/42940093/)
+<small>Prognostic and Spatial Organization of Tertiary Lymphoid Structures in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `메타분석` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-09 · PubMed · Biomedicines · 중요도 0.86
+
+본 연구는 췌장관선암(PDAC) 환자에서 삼차 림프구 구조(TLS)의 예후적 가치와 공간적 특징을 분석했습니다. 총 21개 연구와 7개의 공개 분자 데이터셋을 통합 분석한 결과 병리학적으로 TLS가 존재하는 환자군에서 전체 생존기간(OS)이 유의하게 길어졌습니다. 또한 TLS 면적이 높을수록 B세포 및 Tfh/CXCL13 면역 프로그램의 활성이 지속적으로 높아지는 공간적 연관성이 확인되었습니다. 결론적으로 TLS는 췌장암에서 예후에 긍정적인 면역 상태를 반영하는 유용한 지표입니다.
+
+- 병리적으로 확인된 삼차 림프구 구조(TLS)의 존재는 5개 코호트(1,019명 환자)에서 전체 생존기간(OS) 연장과 연관되었습니다(위험비 0.544, 95% 신뢰구간 0.398-0.743).
+- 공간적 데이터 분석 결과 TLS 부담이 높을수록 B세포 및 Tfh/CXCL13 프로그램과의 긍정적 연관성이 일관되게 나타났습니다.
+- TLS는 췌관선암(PDAC)에서 우수하고 공간적으로 조직화된 면역 반응 상태를 나타냅니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42940093/) · [DOI](https://doi.org/10.3390/biomedicines14102287) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13701594/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42940093)</small>
 
 ---

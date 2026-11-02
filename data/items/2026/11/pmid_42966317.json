@@ -1,0 +1,59 @@
+{
+ "abstract": "Preoperative assessment of pancreatic cancer resectability critically relies on accurate joint segmentation of tumors and peripancreatic vessels from contrast-enhanced CT. However, beyond segmentation accuracy alone, effective decision support in practice further requires task-specific characterization of peri‑tumoral infiltration risk and topological discontinuity risk. To address this, we propose a clinical risk-aware uncertainty alignment framework that achieves reliable risk characterization while maintaining high segmentation accuracy. The framework is built upon a dual-decoder architecture with evidential deep learning for joint segmentation and uncertainty estimation. Two clinically grounded alignment strategies are further designed to transform this uncertainty into task-specific risk indicators. Specifically, an infiltration-aware boundary uncertainty alignment module is proposed, which synthesizes texture, spatial, and vascular proximity factors into an infiltration-inspired prior and uses its ordinal structure to guide alignment, yielding infiltration-risk-aware uncertainty from which infiltration-aware tumor boundaries are derived for downstream invasion analysis. A topology-aware discontinuity uncertainty alignment module is further designed, which uses skeleton-mismatch regions as a connectivity-related proxy and constrains uncertainty by a three-tier ordinal relation with region-weighted supervision, yielding discontinuity-risk-aware uncertainty and improved vessel connectivity. Multi-center validation on 1058 patients from five medical centers demonstrates favorable and stable cross-institutional performance, and downstream experiments explore the utility of the aligned uncertainty for tumor-vessel invasion analysis. Overall, this study couples accurate tumor and vessel delineation with clinically grounded risk characterization, with the potential to support tumor-vessel assessment in preoperative planning. Our source code will be released at https://github.com/SJTUBME-QianLab/CRUA-Net.",
+ "authors": [
+  "Fu W",
+  "Zhu H",
+  "Chen T",
+  "Qian X"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966317",
+ "importance": 0.77,
+ "key_points_ko": [
+  "5개 의료기관에서 수집한 1,058명의 환자 CT 데이터를 통해 다기관 성능 검증을 완료했습니다.",
+  "종양과 췌장 주변 혈관을 동시에 정밀 분할하고 침윤 위험과 혈관 단절 위험을 함께 정량화했습니다.",
+  "수술 전 절제 가능성 판단 및 종양-혈관 침윤 평가를 지원하는 데 유용한 인공지능 보조 도구로서의 가능성을 확인했습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1016/j.media.2026.104378",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42966317"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Image Anal",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966317/"
+ },
+ "summary_ko": "췌장암의 수술 전 절제 가능성 평가는 조영증강 CT에서 종양과 주변 혈관을 정확히 구분하는 것이 핵심입니다. 연구진은 높은 분할 정확도를 유지하면서 종양 주변 침윤 위험과 혈관 연속성 단절 위험을 함께 평가할 수 있는 새로운 딥러닝 프레임워크를 개발했습니다. 이 프레임워크는 종양의 침윤 가능성이 있는 경계 부위와 혈관의 연결성을 분석하여 위험도를 시각화합니다. 5개 의료기관의 환자 1,058명을 대상으로 한 다기관 검증에서 우수하고 안정적인 성능을 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Joint segmentation of pancreatic tumors and peripancreatic vessels via a clinical risk-aware uncertainty alignment framework",
+ "title_ko": "임상 위험 인지 불확실성 정렬 프레임워크를 통한 췌장 종양 및 췌장 주위 혈관의 동시 분할",
+ "trial": null,
+ "type": "paper"
+}

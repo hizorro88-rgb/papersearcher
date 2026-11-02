@@ -16,12 +16,117 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 261건 · 최근 30일 261건
+전체 267건 · 최근 30일 267건
 
-월별 보기: [2026-10](basic/2026-10.md)
+월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42963543"></a>
+#### [췌장암에서의 KRAS: 분자생물학부터 혁신적 치료제까지](https://pubmed.ncbi.nlm.nih.gov/42963543/)
+<small>KRAS in pancreatic cancer: from molecular biology to transformative therapeutics</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `기초연구` · 2026-10-30 · PubMed · J Hematol Oncol · 중요도 0.72
+
+췌장관선암(PDAC) 환자의 90% 이상에서 KRAS 변이가 관찰되며, 최근 표적치료제 개발로 인하여 치료 패러다임이 변화하고 있습니다. 3상 RASolute 302 임상시험에서 pan-RAS(ON) 억제제인 daraxonrasib(다락소나십)은 이전 치료를 받은 전이성 췌장암 환자의 전체 생존기간 중앙값을 13.2개월로 대조군(6.7개월) 대비 유의미하게 연장했습니다. 또한 1차 치료로서 다락소나십과 항암화학요법 병용요법은 초기 임상에서 58%의 객관적 반응률(ORR)을 보였습니다. 본 리뷰 논문은 KRAS 표적치료제의 작용 기전, 최근 임상 성과, 부작용 및 내성 기전을 종합하여 소개합니다.
+
+- 이전 치료를 받은 전이성 췌장암 환 대상 3상 RASolute 302 임상시험에서 daraxonrasib(다락소나십)은 표준 항암화학요법 대비 전체 생존기간 중앙값을 두 배 가까이 연장했습니다(13.2개월 대 6.7개월, 위험비 0.40, P < 0.0001).
+- 다락소나십과 항암화학요법을 병용한 1차 치료 초기 임상시험에서 58%의 객관적 반응률(ORR)이 확인되었습니다.
+- 췌장관선암 환자의 90% 이상이 KRAS 유전자 변이를 보유하고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963543/) · [DOI](https://doi.org/10.1186/s13045-026-01863-x) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13723089/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963543)</small>
+
+---
+<a id="pmid-42965295"></a>
+#### [췌관선암에서 RAC3 발현의 진단 및 예후적 의의: 면역조직화학 분석](https://pubmed.ncbi.nlm.nih.gov/42965295/)
+<small>Diagnostic and prognostic significance of RAC3 expression in pancreatic ductal adenocarcinoma: an Immunohistochemical analysis</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-31 · PubMed · J Immunoassay Immunochem · 중요도 0.72
+
+본 연구는 췌십이지장절제술을 받은 췌관선암(PDAC) 환자 69명의 조직을 바탕으로 RAC3 단백질 발현의 진단 및 예후적 가치를 후향적으로 분석했습니다. 비종양 조직 및 정상 췌장 조직과 비교한 결과, RAC3 단백질은 모든 췌관선암 환자 검체에서 발현되는 것으로 확인되었습니다. 세포핵 내 RAC3 발현 수치는 정상 및 비종양 조직과 암을 구별하는 진단적 성능을 나타냈습니다. 반면 세포질 내 RAC3 발현 증가는 신경 침습 부재 및 낮은 재발률 등 상대적으로 양호한 병리학적 특징과 관련이 있었습니다.
+
+- 췌관선암 환자 69명 전원에서 RAC3 발현이 검출되었으며, 핵 내 RAC3 수치는 췌관선암 감별 진단에서 준수한 성능을 보였습니다(AUC=0.77).
+- 높은 RAC3 수치는 신경주위 침습의 부재와 유의한 연관성을 보였습니다(p<0.001).
+- 세포질 내 RAC3 발현 증가는 낮은 종양 재발률과 유의한 상관관계를 보였습니다(p=0.05).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42965295/) · [DOI](https://doi.org/10.1080/15321819.2026.2754393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42965295)</small>
+
+---
+<a id="pmid-42967071"></a>
+#### [클라우딘-12를 발현하는 섬유아세포가 물리적 상호작용을 통해 췌장암의 전이 확산을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42967071/)
+<small>Claudin-12-Expressing Fibroblasts Facilitate Metastatic Spread of Pancreatic Cancer Through Physical Interactions</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-31 · PubMed · MedComm (2020) · 중요도 0.64
+
+본 연구는 췌장암 주변의 암 연관 섬유아세포(CAF)에서 발현되는 클라우딘-12(CLDN12)가 암세포 전이에 미치는 역할을 조사한 기초 전임상 연구입니다. 연구진은 섬유아세포의 CLDN12가 암세포의 CLDN12와 직접 결합하여 암세포의 침습을 크게 향상시키며, 암세포가 분비하는 TGF-β에 의해 이러한 발현이 더욱 증가함을 확인했습니다. 동물 실험(in vivo)에서 CLDN12 양성 섬유아세포는 간과 횡격막으로의 원격 전이를 촉진했습니다. 합성 펩타이드인 C12-pm을 이용해 CLDN12를 표적했을 때 췌장암의 간 전이가 효과적으로 감소했습니다.
+
+- 암 연관 섬유아세포(CAF)의 CLDN12와 암세포의 CLDN12 간 직접 물리적 결합이 암세포의 침습을 유의하게 촉진했습니다.
+- 동물 실험에서 CLDN12 양성 섬유아세포는 췌장암 세포의 간 및 횡격막 전이를 증가시켰습니다.
+- 합성 펩타이드인 C12-pm으로 CLDN12를 표적 억제했을 때 췌장암의 간 전이가 효과적으로 억제되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42967071/) · [DOI](https://doi.org/10.1002/mco2.71114) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13722954/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42967071)</small>
+
+---
+<a id="pmid-42966774"></a>
+#### [PAK4가 E-cadherin을 전사 및 번역 후 수준에서 이중 억제하여 췌장암의 상피간엽이행과 침습을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42966774/)
+<small>PAK4 orchestrates dual transcriptional and post-translational repression of E-cadherin to promote epithelial-to-mesenchymal transition and invasiveness in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `치료 전반` · 2026-10-31 · PubMed · Cancer Gene Ther · 중요도 0.64
+
+본 전임상 연구는 췌관선암(PDAC)에서 PAK4 단백질이 암세포의 전이와 침습을 촉진하는 기전을 규명했습니다. 연구진은 TCGA 데이터 분석을 통해 PAK4 과발현이 환자의 불량한 생존 결과와 연관됨을 확인했습니다. 세포 및 동물 실험 결과, PAK4는 세포 간 접착 물질인 E-cadherin을 억제하여 암세포의 이동과 침습을 유도했습니다. 반면 PAK4를 억제했을 때는 종양 크기가 감소하고 악성 복수 발생이 억제되어, PAK4가 새로운 치료 표적이 될 가능성을 제시했습니다.
+
+- TCGA 데이터 분석 결과 췌관선암 환자에서 PAK4 과발현은 불량한 생존 결과와 관련이 있었습니다.
+- 동소 이식 췌장암 마우스 모델에서 PAK4 발현을 억제하자 원발 종양의 크기가 감소하고 악성 복수 형성이 예방되었습니다.
+- 실제 췌장암 환자 조직 검체에서도 PAK4의 발현과 E-cadherin 발현 사이에 역상관관계가 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966774/) · [DOI](https://doi.org/10.1038/s41417-026-01091-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966774)</small>
+
+---
+<a id="pmid-42966704"></a>
+#### [UBE2T에 의한 지질 대사 재프로그래밍이 만성 염증과 췌장암 진행을 연결합니다](https://pubmed.ncbi.nlm.nih.gov/42966704/)
+<small>UBE2T-driven lipid metabolic reprogramming links chronic inflammation to pancreatic cancer progression</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-26 · PubMed · Pancreatology · 중요도 0.64
+
+본 연구는 만성 염증 신호와 췌관선암(PDAC) 진행 과정에서 지질 대사 변화를 매개하는 UBE2T(유비퀴틴 결합 효소 E2T)의 역할을 분석했습니다. 세포 실험 및 유전자 변형 쥐 모델에서 염증 자극은 UBE2T의 발현을 증가시켰으며, UBE2T 결핍은 암세포의 증식과 침습 및 지질 축적을 억제했습니다. 이 과정은 AKT/SREBP1/FASN 신호 전달 축을 통해 이루어지는 것으로 나타났습니다. 또한 UBE2T 억제 물질인 PGG를 투여했을 때 병변 부담, 지질 축적, 기질 재형성이 감소하여 UBE2T가 췌장암의 새로운 치료 표적이 될 가능성을 확인했습니다.
+
+- 염증 자극에 의해 발현이 유도되는 UBE2T는 AKT/SREBP1/FASN 신호 축을 조절하여 췌장암 세포의 지질 대사 재프로그래밍을 유도합니다.
+- UBE2T를 제거하면 암세포 증식 및 침습 능력이 억제되고 췌장 내 지질 축적이 감소했습니다.
+- 동물 모델에서 UBE2T 결핍 및 UBE2T 약물학적 억제제인 PGG 투여는 췌장 병변 부담과 기질 재형성을 완화했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966704/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.028) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966704)</small>
+
+---
+<a id="pmid-42966744"></a>
+#### [mTORC1/2와 Scd1의 동시 억제를 통한 췌장암의 새로운 치료 표적 규명](https://pubmed.ncbi.nlm.nih.gov/42966744/)
+<small>Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-31 · PubMed · Oncogene · 중요도 0.60
+
+췌관선암(PDAC)에서 흔히 활성화되는 mTOR 복합체(mTORC1, mTORC2)를 억제하는 치료는 세포의 빠른 적응성 내성으로 인해 임상적 효과가 제한적이었습니다. 연구진은 유전자 조작 마우스 및 오가노이드(organoid) 모델을 통해 mTORC1 억제 시 보상적 PI3K/Akt 신호 과활성화가 일어나고, mTORC2 결손 시에는 지질 재프로그래밍으로 인해 Scd1 효소에 대한 합성치사 의존성이 생김을 규명했습니다. mTORC1/2와 Scd1을 동시에 약물로 억제했을 때 내성 신호 반동이 차단되고 종양 미세환경이 개선되었으며, 항 PD-1(anti-PD-1) 면역치료와의 병용 시너지 효과를 확인했습니다.
+
+- mTORC1 결손은 암 진행을 지연시키지만 보상적으로 PI3K/Akt 신호를 과활성화시킵니다.
+- mTORC2 결손은 지질 구성을 변화시켜 암세포가 Scd1(stearoyl-CoA desaturase 1)에 의존하는 합성치사 취약점을 유도합니다.
+- mTORC1/2와 Scd1을 함께 억제하면 신호 반동을 막고 인터페론-감마 반응을 높여 항 PD-1 면역요법과 강력한 시너지 효과를 보입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966744/) · [DOI](https://doi.org/10.1038/s41388-026-04026-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966744)</small>
+
+---
+<a id="pmid-42963794"></a>
+#### [SLC6A14 매개 영양소 경쟁 표적화를 통한 췌장암 내 면역억제성 대사 미세환경 개선](https://pubmed.ncbi.nlm.nih.gov/42963794/)
+<small>Targeting SLC6A14-mediated nutrient competition reverses an immunosuppressive metabolic niche in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-08-14 · PubMed · Exp Hematol Oncol · 중요도 0.54
+
+본 연구는 췌관선암의 영양 결핍 및 면역억제 미세환경에서 아미노산 수송체인 SLC6A14의 역할을 규명한 전임상 연구입니다. 연구진은 SLC6A14가 췌장암 세포의 아미노산 흡수를 촉진하는 반면, 면역세포인 수지상세포와 CD8+ T세포의 영양 흡수를 방해하여 면역 억제를 유도한다는 점을 확인했습니다. 또한 SLC6A14 억제제인 STOCK1N-75990을 발굴하여 동물 모델에서 투여한 결과, 독성이 낮으면서 종양 성장을 억제하고 항PD-1 면역항암제와의 병용 시너지 효과를 나타냈습니다.
+
+- SLC6A14의 높은 발현은 췌관선암 환자의 불량한 예후와 직접적으로 연관되어 있습니다.
+- SLC6A14는 암세포의 대사 재프로그래밍을 유도하고 면역세포(수지상세포 및 CD8+ T세포)의 아미노산 흡수를 경쟁적으로 차단해 면역을 억제합니다.
+- 표적 억제제인 STOCK1N-75990은 전임상 모델에서 낮은 독성과 항종양 효과를 보였으며, 항PD-1 치료와의 병용 효과를 입증했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963794/) · [DOI](https://doi.org/10.1186/s40164-026-00818-9) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13723104/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963794)</small>
+
+---
 <a id="pmid-42957626"></a>
 #### [자가포식과 종양 내 세균 풍부도가 췌장암 환자의 예후에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42957626/)
 <small>Autophagy and intratumoral bacteria abundance influence the prognosis of patients with pancreatic carcinoma</small>
@@ -171,6 +276,21 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1353409) · [DOI](https://doi.org/10.64898/2026.10.27.762113) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.27.762113)</small>
 
 ---
+<a id="doi-10.64898-2026.10.28.26366656"></a>
+#### [비암호화 췌장관선암 위험 유전자좌에서 원거리 염색질 상호작용을 통한 후보 감수성 유전자 규명](https://europepmc.org/article/PPR/PPR1354134)
+<small>Long-range chromatin interactions nominate candidate susceptibility genes at non-coding PDAC risk loci</small>
+
+`프리프린트` `전임상` `기초연구` `치료 전반` · 2026-10-30 · Europe PMC (preprint) · medRxiv · 중요도 0.54
+
+췌장관선암(PDAC)의 전장 유전체 연관성 분석(GWAS)에서 발견된 비암호화 위험 유전자좌들의 기능적 표적 유전자를 규명하기 위한 연구입니다. 연구진은 31개 위험 신호에서 1,414개 변이를 정밀 지도화(fine-mapping)하고 염색질 구조 포착 기법(GWAS Capture-C)을 적용했습니다. 분석 결과 25개 유전자좌에서 273개의 후보 표적 유전자를 식별했습니다. 특히 7p14.1 유전자좌가 원거리 인핸서로 작용하여 INHBA 유전자 발현을 조절하며 염증 신호 경로와 연관됨을 확인했습니다.
+
+- 31개 췌장관선암 위험 신호에서 정밀 지도화된 1,078개 변이가 259개 표적 유전자와 원거리 염색질 상호작용을 형성함을 확인했습니다.
+- 17q24.3 영역에서는 췌장 발달 조절 유전자인 SOX9과의 상호작용(~280 kb)을, 17q21.2 영역에서는 KRT 유전자 프로모터와의 원거리 상호작용(>1 Mb)을 발견했습니다.
+- 7p14.1 유전자좌(rs12701838)는 INHBA 프로모터와 약 900 kb 상호작용을 하며, CRISPR 억제 실험을 통해 INHBA 발현을 조절하는 원거리 인핸서로 작용함을 입증했습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1354134) · [DOI](https://doi.org/10.64898/2026.10.28.26366656) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.28.26366656)</small>
+
+---
 <a id="pmid-42957255"></a>
 #### [간세포유래 성장인자(HDGF)와 알킬글리세롤인산 신테이스(AGPS)가 췌장암 진행에 미치는 잠재적 연관성](https://pubmed.ncbi.nlm.nih.gov/42957255/)
 <small>Possible Relevance of Hepatoma-derived Growth Factor and Alkylglycerone Phosphate Synthase to Pancreatic Cancer Progression</small>
@@ -214,36 +334,6 @@ search:
 - PSMD14 억제제인 capzimin(캡지민)은 세포, 오가노이드, 마우스 모델에서 젬시타빈(gemcitabine)에 대한 치료 반응을 향상시켰습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957640/) · [DOI](https://doi.org/10.1038/s41419-026-08958-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13720168/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957640)</small>
-
----
-<a id="pmid-42963794"></a>
-#### [SLC6A14 매개 영양소 경쟁 표적화를 통한 췌장암 내 면역억제성 대사 미세환경 개선](https://pubmed.ncbi.nlm.nih.gov/42963794/)
-<small>Targeting SLC6A14-mediated nutrient competition reverses an immunosuppressive metabolic niche in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-08-14 · PubMed · Exp Hematol Oncol · 중요도 0.54
-
-본 연구는 췌관선암의 영양 결핍 및 면역억제 미세환경에서 아미노산 수송체인 SLC6A14의 역할을 규명한 전임상 연구입니다. 연구진은 SLC6A14가 췌장암 세포의 아미노산 흡수를 촉진하는 반면, 면역세포인 수지상세포와 CD8+ T세포의 영양 흡수를 방해하여 면역 억제를 유도한다는 점을 확인했습니다. 또한 SLC6A14 억제제인 STOCK1N-75990을 발굴하여 동물 모델에서 투여한 결과, 독성이 낮으면서 종양 성장을 억제하고 항PD-1 면역항암제와의 병용 시너지 효과를 나타냈습니다.
-
-- SLC6A14의 높은 발현은 췌관선암 환자의 불량한 예후와 직접적으로 연관되어 있습니다.
-- SLC6A14는 암세포의 대사 재프로그래밍을 유도하고 면역세포(수지상세포 및 CD8+ T세포)의 아미노산 흡수를 경쟁적으로 차단해 면역을 억제합니다.
-- 표적 억제제인 STOCK1N-75990은 전임상 모델에서 낮은 독성과 항종양 효과를 보였으며, 항PD-1 치료와의 병용 효과를 입증했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42963794/) · [DOI](https://doi.org/10.1186/s40164-026-00818-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42963794)</small>
-
----
-<a id="doi-10.64898-2026.10.28.26366656"></a>
-#### [비암호화 췌장관선암 위험 유전자좌에서 원거리 염색질 상호작용을 통한 후보 감수성 유전자 규명](https://europepmc.org/article/PPR/PPR1354134)
-<small>Long-range chromatin interactions nominate candidate susceptibility genes at non-coding PDAC risk loci</small>
-
-`프리프린트` `전임상` `기초연구` `치료 전반` · 2026-10-30 · Europe PMC (preprint) · medRxiv · 중요도 0.54
-
-췌장관선암(PDAC)의 전장 유전체 연관성 분석(GWAS)에서 발견된 비암호화 위험 유전자좌들의 기능적 표적 유전자를 규명하기 위한 연구입니다. 연구진은 31개 위험 신호에서 1,414개 변이를 정밀 지도화(fine-mapping)하고 염색질 구조 포착 기법(GWAS Capture-C)을 적용했습니다. 분석 결과 25개 유전자좌에서 273개의 후보 표적 유전자를 식별했습니다. 특히 7p14.1 유전자좌가 원거리 인핸서로 작용하여 INHBA 유전자 발현을 조절하며 염증 신호 경로와 연관됨을 확인했습니다.
-
-- 31개 췌장관선암 위험 신호에서 정밀 지도화된 1,078개 변이가 259개 표적 유전자와 원거리 염색질 상호작용을 형성함을 확인했습니다.
-- 17q24.3 영역에서는 췌장 발달 조절 유전자인 SOX9과의 상호작용(~280 kb)을, 17q21.2 영역에서는 KRT 유전자 프로모터와의 원거리 상호작용(>1 Mb)을 발견했습니다.
-- 7p14.1 유전자좌(rs12701838)는 INHBA 프로모터와 약 900 kb 상호작용을 하며, CRISPR 억제 실험을 통해 INHBA 발현을 조절하는 원거리 인핸서로 작용함을 입증했습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1354134) · [DOI](https://doi.org/10.64898/2026.10.28.26366656) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.28.26366656)</small>
 
 ---
 <a id="pmid-42958264"></a>
@@ -2213,94 +2303,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - 세포사멸과 관련된 BAX는 약 4.8배, CASP3는 약 3.9배 증가했고, BCL-2는 약 0.35배 감소하여 BAX/BCL-2 비율이 약 13.7을 기록했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897560/) · [DOI](https://doi.org/10.1186/s13036-026-00737-7) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13679269/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897560)</small>
-
----
-<a id="pmid-42894010"></a>
-#### [내피세포 유래 엑소좀에 의한 암세포의 염색질 접근성 및 슈퍼인핸서 리모델링과 간 전이 촉진 기전](https://pubmed.ncbi.nlm.nih.gov/42894010/)
-<small>Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization</small>
-
-`논문` `전임상` `기초연구` `치료 전반` `진단·조기발견` · 2026-10-19 · PubMed · Signal Transduct Target Ther · 중요도 0.49
-
-이 연구는 포도막 흑색종 및 췌관선암(PDAC) 환자에서 간 전이 부위에 암세포가 안착하여 증식하는 기전을 규명한 기초 연구입니다. 연구진은 주변 내피세포에서 분비된 엑소좀이 전사인자 KLF4를 증가시키고 염색질 접근성 및 슈퍼인핸서를 리모델링함을 확인했습니다. 이로 인해 MCL1 및 RASGRP3 등 전이 관련 유전자의 발현이 촉진되어 암세포의 증식과 전이가 일어났습니다. 실제 췌관선암 및 포도막 흑색종 환자 데이터에서도 이들 신호 전달 단백질의 과발현이 짧은 무전이 생존기간 및 전체 생존기간과 연관되어 있었습니다.
-
-- 내피세포 유래 엑소좀 신호축(exoRN7SL2-STAT1-KLF4)이 암세포의 염색질과 슈퍼인핸서를 변화시켜 간 전이 정착을 촉진함을 밝혔습니다.
-- 이 과정에서 전이 관련 유전자인 MCL1 및 RASGRP3의 전사가 유의하게 증가했습니다.
-- 임상 데이터 분석 결과 췌관선암 및 포도막 흑색종 환자에서 RIG-I, STAT1, KLF4, RASGRP3의 과발현은 불량한 생존율과 관련이 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42894010/) · [DOI](https://doi.org/10.1038/s41392-026-02876-1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13677724/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42894010)</small>
-
----
-<a id="pmid-42897049"></a>
-#### [췌장암 환자 유래 이식편 생착의 예측 바이오마커로서 에스트로겐 수용체 발현: 예비 연구](https://pubmed.ncbi.nlm.nih.gov/42897049/)
-<small>Estrogen receptor expression as a predictive biomarker for patient-derived xenograft engraftment in pancreatic cancer: A pilot study</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-07 · PubMed · Pancreatology · 중요도 0.49
-
-본 연구는 췌장암(pancreatic cancer) 환자 유래 이식편(PDX, patient-derived xenograft) 생착의 예측 바이오마커로서 에스트로겐 수용체(estrogen receptor) 발현을 조사한 예비 연구입니다. 초록에 환자 수, 구체적인 생착률, 수치 등의 결과는 명시되지 않았습니다. 초록에 명시되지 않은 내용은 초록에 명시되지 않았습니다.
-
-- 초록에 구체적인 생존기간, 반응률, 환자 수, 위험비 등의 수치는 명시되지 않았습니다.
-- 에스트로겐 수용체 발현이 췌장암 환자 유래 이식편(PDX) 생착의 예측 바이오마커로 조사되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897049/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.009) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897049)</small>
-
----
-<a id="pmid-42888392"></a>
-#### [전사체 프로파일링을 통해 밝혀낸 아노이키스 저항성 췌장암 세포의 자가포식 관련 프로그램 및 예후 바이오마커](https://pubmed.ncbi.nlm.nih.gov/42888392/)
-<small>Transcriptomic profiling reveals autophagy-associated programs and prognostic biomarkers in anoikis-resistant pancreatic cancer cells</small>
-
-`논문` `전임상` `기초연구` `치료 전반` `신약·치료제` `진단·조기발견` · 2026-10-13 · PubMed · BMC Cancer · 중요도 0.64
-
-본 연구는 전이 과정에서 암세포가 부착을 잃고 죽는 현상인 아노이키스(anoikis)에 저항하는 췌장암의 적응 메커니즘을 규명하기 위해 진행되었습니다. 연구진은 Capan-1과 PSN-1 췌장암 세포주를 이용해 아노이키스 저항성 세포 모델을 제작하고 전사체 분석을 시행했습니다. 분석 결과, 아노이키스 저항성 세포에서는 자가포식(autophagy) 관련 경로가 활성화되고 세포 주기 관련 경로는 억제되는 공통된 변화가 확인되었습니다. 또한 환자 데이터 분석에서 UBC 및 ATG14 유전자의 높은 발현이 췌장암 환자의 불량한 예후와 연관되어 있음을 확인했습니다.
-
-- 부유 상태에서 살아남은 아노이키스 저항성 췌장암 세포는 자가포식 관련 경로가 활성화되고 세포 주기 경로는 억제되었습니다.
-- UBC 및 ATG14 유전자의 높은 발현은 췌장암 환자의 불량한 예후와 유의하게 연관되었습니다.
-- 이 연구는 췌장암 세포가 전이 중 살아남기 위해 자가포식 및 유비퀴틴 관련 전사 조절을 활용한다는 점을 시사합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888392/) · [DOI](https://doi.org/10.1186/s12885-026-17107-7) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13675964/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888392)</small>
-
----
-<a id="pmid-42892765"></a>
-#### [담배 발암물질이 췌관 발암 과정에서 지속적인 DNA 손상과 상동 재조합 이상을 유발함](https://pubmed.ncbi.nlm.nih.gov/42892765/)
-<small>Tobacco Carcinogen Induces Persistent DNA Damage and Homologous Recombination Dysregulation in Pancreatic Ductal Carcinogenesis</small>
-
-`논문` `전임상` `기초연구` `지지요법·삶의질` `신약·치료제` · 2026-10-15 · PubMed · bioRxiv · 중요도 0.64
-
-담배 발암물질인 NNK(Nicotine-Derived Nitrosamine Ketone)가 췌장 상피세포에 미치는 영향을 확인하기 위해 5일(급성) 및 50일(만성) 노출 실험을 진행했습니다. 급성 노출 시에는 DNA 복구 기전인 상동 재조합(HR)이 활성화되었으나, 만성 노출 시에는 지속적인 DNA 손상 신호와 함께 상동 재조합 복구 기능에 이상이 발생하고 염색체 불안정성이 유도되었습니다. 또한 인체 췌관선암(PDAC) 조직 및 환자 데이터 분석 결과, DNA 손상 지표인 γH2AX와 복구 단백질 RAD51의 발현 증가가 질환 진행 및 불량한 생존율과 연관되어 있었습니다.
-
-- NNK 만성 노출은 RAD51, BRCA1, BRCA2 등 복구 유전자의 전사를 증가시켰으나, RAD51의 위치 변화와 지속적인 DNA 손상 및 염색체 불안정성을 초래했습니다.
-- γH2AX 발현은 NNK 처리 세포, KRAS 기반 전암 병변, 흡연자의 췌장 조직에서 유의하게 상승했습니다.
-- 췌관선암 환자 분석에서 높은 γH2AX 발현은 종양 진행 및 불량한 전체 생존기간(OS)과 연관되었고, RAD51 발현 증가 역시 불량한 예후와 관련이 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892765/) · [DOI](https://doi.org/10.64898/2026.10.13.758888) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674594/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892765)</small>
-
----
-<a id="pmid-42891947"></a>
-#### [췌장암 세포주에서 eVLP를 매개로 한 CRISPR-Cas9 및 프라임 에디팅 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42891947/)
-<small>Protocol for eVLP-mediated CRISPR-Cas9 and prime editing in pancreatic cancer cell lines</small>
-
-`논문` `전임상` `기초연구` · 2026-10-17 · PubMed · STAR Protoc · 중요도 0.61
-
-췌관선암(PDAC) 세포주는 형질주입(transfection) 저항성을 보여 유전자 교정 실험에 어려움이 있습니다. 본 논문에서는 레트로바이러스 유래 조작된 바이러스 유사 입자(eVLP)를 사용하여 PDAC 세포주에 CRISPR-Cas9 또는 프라임 에디터(prime editors)를 전달하는 실험 프로토콜을 제시합니다. 연구진은 eVLP 생성, 리보핵산단백질 또는 프라임 에디터 패키징, 인간 PDAC 세포 형질도입 과정을 단계별로 설명했습니다. 이 프로토콜은 HEK3 유전자 부위와 NQO1 엑손 6을 예시로 적용하였으며 다른 유전체 부위에도 적용 가능합니다.
-
-- 유전자 전달이 어려운 췌관선암 세포주를 위한 조작된 바이러스 유사 입자(eVLP) 기반 유전자 교정 프로토콜이 개발되었습니다.
-- CRISPR-Cas9 리보핵산단백질 및 조작된 가이드 RNA(epegRNA)를 포함한 프라임 에디터를 세포 내로 전달하는 단계를 정립했습니다.
-- HEK3 부위 및 NQO1 엑손 6 교정을 통해 검증되었으며 다른 유전체 부위에도 쉽게 적용할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891947/) · [DOI](https://doi.org/10.1016/j.xpro.2026.104904) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891947)</small>
-
----
-<a id="pmid-42889331"></a>
-#### [CGRP가 NHE1과 CA9 조절을 통해 산성 미세환경을 재형성하고 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42889331/)
-<small>CGRP remodels the acidic microenvironment and promotes pancreatic carcinoma progression by regulating NHE1 and CA9</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-01 · PubMed · Front Pharmacol · 중요도 0.59
-
-췌관선암종(PDAC) 조직에서 신경 펩타이드인 칼시토닌 유전자 관련 펩타이드(CGRP)와 신경 활성화 지표의 발현이 유의하게 증가한 것으로 나타났습니다. 연구진은 CGRP가 양성자 수송체인 NHE1과 CA9의 발현을 높여 종양 미세환경의 산성화를 촉진하고 암세포 증식 및 이동을 유도함을 확인했습니다. 또한 CGRP 수용체 길항제인 rimegepant(리메게판트)가 동물 모델에서 종양 성장을 억제하고 gemcitabine(젬시타빈)과의 병용 시너지 효과를 보였습니다. 이 연구는 CGRP 신호전달 경로가 췌장암 치료의 새로운 잠재적 표적이 될 수 있음을 시사합니다.
-
-- CGRP는 췌장암 세포의 증식과 이동을 촉진하며 양성자 수송체인 NHE1과 CA9를 조절해 종양 미세환경을 산성화했습니다.
-- 임상 분석에서 NHE1 및 CA9의 높은 발현은 췌장암 환자의 불량한 예후와 연관되어 있었습니다.
-- CGRP 수용체 길항제인 rimegepant는 동물 모델에서 종양 성장을 억제하고 gemcitabine과의 병용 항암 시너지 효과를 나타냈습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42889331/) · [DOI](https://doi.org/10.3389/fphar.2026.1928812) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13669720/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42889331)</small>
 
 ---

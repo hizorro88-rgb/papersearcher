@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a poor prognosis and a high propensity for metastasis. Analysis of TCGA data revealed that PAK4 overexpression was associated with inferior survival outcomes in PDAC patients. In this preclinical study, PAK4-amplified PDAC cells significantly enhanced migratory capacity compared to wild-type cells. Knockdown of PAK4 in these cells suppressed migration by increasing and stabilizing E-cadherin, accompanied by decreased Cdc42 activity. Conversely, constitutive expression of Flag-PAK4 in wild-type cells reduced E-cadherin levels while promoting cell migration, invasion, and motility through elevated Cdc42 activity. Immunoprecipitation and immunofluorescence analysis confirmed that PAK4 physically interacted with E-cadherin and Cdc42, with evident colocalization of these proteins. In an orthotopic PDAC mouse model, PAK4 knockdown reduced primary tumor burden and prevented malignant ascites, mediated by E-cadherin activation and stabilization. Notably, an inverse correlation between PAK4 and E-cadherin expression was also observed in pancreatic cancer patients' specimens. Collectively, these findings suggest that PAK4 drives invasive and metastatic phenotypes in PDAC by modulating E-cadherin and that targeting PAK4 may represent a promising therapeutic strategy for PDAC treatment.",
+ "authors": [
+  "Kim KJ",
+  "Lee CH",
+  "Nam M",
+  "Na HY",
+  "Sung JH",
+  "Park BR",
+  "Hwang SH",
+  "Park W"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42966774",
+ "importance": 0.64,
+ "key_points_ko": [
+  "TCGA 데이터 분석 결과 췌관선암 환자에서 PAK4 과발현은 불량한 생존 결과와 관련이 있었습니다.",
+  "동소 이식 췌장암 마우스 모델에서 PAK4 발현을 억제하자 원발 종양의 크기가 감소하고 악성 복수 형성이 예방되었습니다.",
+  "실제 췌장암 환자 조직 검체에서도 PAK4의 발현과 E-cadherin 발현 사이에 역상관관계가 확인되었습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.1038/s41417-026-01091-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42966774"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Gene Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966774/"
+ },
+ "summary_ko": "본 전임상 연구는 췌관선암(PDAC)에서 PAK4 단백질이 암세포의 전이와 침습을 촉진하는 기전을 규명했습니다. 연구진은 TCGA 데이터 분석을 통해 PAK4 과발현이 환자의 불량한 생존 결과와 연관됨을 확인했습니다. 세포 및 동물 실험 결과, PAK4는 세포 간 접착 물질인 E-cadherin을 억제하여 암세포의 이동과 침습을 유도했습니다. 반면 PAK4를 억제했을 때는 종양 크기가 감소하고 악성 복수 발생이 억제되어, PAK4가 새로운 치료 표적이 될 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PAK4 orchestrates dual transcriptional and post-translational repression of E-cadherin to promote epithelial-to-mesenchymal transition and invasiveness in pancreatic cancer",
+ "title_ko": "PAK4가 E-cadherin을 전사 및 번역 후 수준에서 이중 억제하여 췌장암의 상피간엽이행과 침습을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

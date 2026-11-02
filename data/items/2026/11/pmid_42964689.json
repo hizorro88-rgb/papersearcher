@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Computed tomography (CT)-guided neurolytic splanchnic nerve block (NSNB) is used to treat pain in unresectable pancreatic cancers. Whether outcomes differ according to tumor site remains uncertain.\nAIM: To evaluate the efficacy and safety of CT-guided NSNB in unresectable pancreatic cancer and explore differences by tumor site.\nMETHODS: This single-center retrospective cohort study included 22 patients who underwent initial CT-guided NSNB at the Oita Red Cross Hospital between 2007 and 2023. Clinical success comprised recorded pain relief or opioid reduction within 1 week; standardized pain scores were not routinely recorded. Technical success required bilateral retrocrural distribution. Adverse events were graded using the Common Terminology Criteria for Adverse Events (CTCAE). Proportions were reported with 95% confidence intervals (95%CIs); comparisons used Fisher's exact and exact permutation Mann-Whitney U tests.\nRESULTS: Technical and clinical success occurred in 17/22 (77.3%; 95%CI: 56.6%-89.9%) and 18/22 (81.8%; 95%CI: 61.5%-92.7%), respectively. The recorded duration was available for 13 clinical responders, with a median of 40 days (interquartile range: 19-144 days); four transfers and one death lacked an evaluable duration. The clinical success rates were 6/9 for head tumors and 12/13 for body/tail tumors. The available duration medians were 29.5 days and 117 days, respectively. Adverse events occurred in 6/22 (27.3%; 95%CI: 13.2%-48.2%), with no CTCAE grade ≥ 3 events.\nCONCLUSION: CT-guided NSNB is associated with encouraging clinical responses at both tumor sites in this small retrospective cohort. Prospective studies should confirm these findings and clarify potential tumor-site differences.",
+ "authors": [
+  "Baba H",
+  "Takaki H",
+  "Yamada Y",
+  "Nakayama T",
+  "Iwaki K",
+  "Fukuzawa K",
+  "Motomura M",
+  "Asayama Y"
+ ],
+ "categories": [
+  "supportive",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42964689",
+ "importance": 0.71,
+ "key_points_ko": [
+  "CT 유도 하 내장신경 차단술(NSNB)의 시술 성공률은 77.3%(17/22명), 임상적 성공률은 81.8%(18/22명)였습니다.",
+  "효과가 확인된 13명의 통증 완화 유지 기간 중앙값은 40일이었으며, 두부는 29.5일, 체부·미부는 117일이었습니다.",
+  "부작용은 27.3%(6/22명)에서 관찰되었으나 3등급 이상의 중증 부작용은 없었습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.4329/wjr.126066",
+  "nct": [],
+  "pmcid": "PMC13720563",
+  "pmid": "42964689"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "World J Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42964689/"
+ },
+ "summary_ko": "수술이 불가능한 췌장암 환자 22명을 대상으로 통증 조절을 위한 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술(NSNB)의 효과와 안전성을 분석한 연구입니다. 전체 환자의 81.8%에서 통증 완화나 마약성 진통제 용량 감소와 같은 임상적 성공이 나타났습니다. 췌장 두부 종양의 임상적 성공률은 6/9명, 체부 및 미부 종양은 12/13명이었습니다. 3등급 이상의 중증 부작용은 발생하지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Computed tomography-guided splanchnic nerve neurolysis outcomes by tumor site in unresectable pancreatic cancer: A single-center retrospective cohort study",
+ "title_ko": "수술 불가능한 췌장암 환자에서 종양 위치에 따른 컴퓨터단층촬영(CT) 유도 하 내장신경 차단술의 치료 결과: 단일기관 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

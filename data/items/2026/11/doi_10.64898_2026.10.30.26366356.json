@@ -1,0 +1,62 @@
+{
+ "abstract": "Identifying germline pathogenic variants has therapeutic value for pancreatic ductal adenocarcinoma (PDAC) patients and critical implications for cascade genetic testing in families, the latter being an increasing focus for public health genomic initiatives. We measured cascade testing rates for one hundred consecutive hereditary PDAC probands (March 2014-December 2023) and assessed the potential impact of using a novel technology, Parent-of-Origin-Aware genomic analysis (POAga) to enhance cascade testing. POAga requires a new blood sample and enables variant segregation to the maternal or paternal lineage. Thirteen probands were successfully contacted about POAga and nine provided a research blood sample. Parental origin was determined for all variants, and if applied at the time of diagnosis, would have immediately refined risk estimates for at least 188 relatives. POAga may overcome a major barrier to cascade testing in PDAC by clarifying which side of the family is at risk, improving cascade testing effectiveness and familial cancer prevention strategies.",
+ "authors": [
+  "Cheng PT",
+  "Cremin C",
+  "Cordova L",
+  "Akbari V",
+  "Leung TY",
+  "Cheung E",
+  "Bedard A",
+  "Hong Q"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-02",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.30.26366356",
+ "importance": 0.68,
+ "key_points_ko": [
+  "2014년 3월부터 2023년 12월까지 연속 등록된 유전성 췌관선암 환자 100명을 대상으로 순차적 유전자 검사 현황을 분석했습니다.",
+  "부모 기원 인식 유전체 분석(POAga)에 동의해 혈액 샘플을 제공한 9명 환자의 모든 유전자 변이에 대해 모계 또는 부계 유래를 성공적으로 규명했습니다.",
+  "이 기술을 진단 시점에 적용했을 경우 최소 188명의 친족에 대한 유전성 암 위험 평가를 즉각적으로 정밀화할 수 있었습니다."
+ ],
+ "last_updated": "2026-11-02",
+ "links": {
+  "doi": "10.64898/2026.10.30.26366356",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "medRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1354424"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자에서 생식세포 병원성 변이를 확인하는 것은 치료 방침 결정뿐만 아니라 가족들의 유전자 검사(순차 검사, cascade testing)에도 중요합니다. 이 연구는 100명의 유전성 췌관선암 발단자를 대상으로 새로운 혈액 검사를 통해 변이가 모계 또는 부계 중 어느 쪽에서 유래했는지 구분하는 '부모 기원 인식 유전체 분석(POAga)'의 효과를 평가했습니다. 연구에 참여해 혈액을 제공한 9명의 모든 변이에서 부모 기원이 성공적으로 규명되었습니다. 진단 당시 이 분석을 적용했다면 최소 188명의 친족에서 유전 위험도를 즉시 명확히 구분할 수 있었을 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Parent-of-Origin-Aware Genomic Analysis to Enhance Cascade Testing in Pancreatic Cancer: A Population-Based Study",
+ "title_ko": "췌장암 가족 검사 강화를 위한 부모 기원 인식 유전체 분석: 인구 기반 연구",
+ "trial": null,
+ "type": "preprint"
+}
