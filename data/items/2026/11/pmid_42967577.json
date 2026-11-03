@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: There are limited studies examining factors such as rurality, age, gender, and race, associated with early-stage pancreatic cancer (PC) using population-based data from Appalachia.\nMETHODS: A cross-sectional study was conducted using patients treated for PC from 1993 to March 2023 and documented in the West Virginia Cancer Registry. Factors associated with early versus late diagnostic stage, including rurality, age, race, gender, and tumor location were analyzed using multivariable logistic regression models.\nRESULTS: Among 4687 individuals meeting inclusion criteria, 30% were diagnosed with early-stage PC. The majority lived in non-rural counties at time of diagnosis. Most patients did not receive surgery (82%), radiation (89%), chemotherapy (52%), nor immunotherapy (99%) as part of the first course of treatment. Among all cases (n = 7815), 41% received no treatments. Radiation was performed more frequently with early-stage diagnosis (15.6% versus 9.1%, p < 0.0001). Several factors were associated with increased odds of early-stage diagnosis including age (aOR = 1.20; 95% CI 1.05, 1.36) and head of the pancreas as the primary tumor site (aOR = 2.25; 95% CI 1.95, 2.60). Males were at decreased odds of early-stage diagnosis (aOR = 0.85; 95% CI 0.74, 0.98). There were no statistically significant associations between the diagnosis of early-stage disease and rurality (aOR = 0.94; 95% CI 0.76, 1.16).\nCONCLUSION: Numerous patients did not receive standard treatment modalities as first course of treatment. Older adults were more likely to be diagnosed with early-stage disease questioning underlying motivators for seeking care. Findings may inform diagnoses of early-stage PC in West Virginia.",
+ "authors": [
+  "Elder MM",
+  "Lilly CL",
+  "Pilkerton C",
+  "Davidov DM",
+  "Rudisill TM"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42967577",
+ "importance": 0.61,
+ "key_points_ko": [
+  "포함 기준을 충족한 환자 4,687명 중 초기 췌장암 진단을 받은 비율은 30%에 불과했습니다.",
+  "췌장 두부에 종양이 위치한 경우(aOR=2.25)와 고령(aOR=1.20)은 초기 진단 확률을 유의하게 높였습니다.",
+  "남성은 여성보다 초기 진단 확률이 낮았으며(aOR=0.85), 거주 지역의 농촌 여부는 초기 진단과 유의한 연관이 없었습니다(aOR=0.94).",
+  "전체 췌장암 환자 7,815명 중 41%는 초기 치료 과정에서 수술, 항암, 방사선 치료 등을 전혀 받지 못했습니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": "10.1111/jrh.70234",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42967577"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Rural Health",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967577/"
+ },
+ "summary_ko": "본 연구는 1993년부터 2023년 3월까지 웨스트버지니아 암 등록소(West Virginia Cancer Registry)에 등록된 췌장암 환자 데이터를 바탕으로 초기 진단과 관련된 요인을 분석했습니다. 포함 기준을 충족한 환자 4,687명 중 30%가 초기 췌장암으로 진단받았습니다. 고령이거나 췌장 두부(머리)에 종양이 있는 경우 초기 진단 확률이 높았던 반면, 남성은 초기 진단 확률이 낮았습니다. 전체 분석 대상 환자 7,815명 중 41%는 1차 치료 과정에서 아무런 치료도 받지 않은 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Factors Associated With Early-Stage Pancreatic Cancer: An Analysis of the West Virginia Cancer Registry",
+ "title_ko": "웨스트버지니아 암 등록 자료 분석을 통한 초기 췌장암 관련 요인 분석",
+ "trial": null,
+ "type": "paper"
+}

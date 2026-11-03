@@ -1,0 +1,63 @@
+{
+ "abstract": null,
+ "authors": [
+  "Zheng YS",
+  "Guo LC",
+  "Guo X",
+  "Tong X",
+  "Huang S",
+  "Du MZ"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42967640",
+ "importance": 0.49,
+ "key_points_ko": [
+  "신경내분비 및 췌장 선포 세포 분화를 동시에 보이는 매우 희귀한 위 양성분비 암종 사례입니다.",
+  "병리 조직학적 분석과 면역조직화학 검사를 통해 진단적 특성을 확인했습니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": "10.3760/cma.j.cn112151-20260225-00136",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42967640"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-11-08",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhonghua Bing Li Xue Za Zhi",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967640/"
+ },
+ "summary_ko": "본 논문은 신경내분비 세포와 췌장 선포(acinar) 세포 분화를 동시에 보이는 위 양성분비 암종(amphicrine carcinoma) 1례에 대한 증례 보고입니다. 희귀한 위 종양의 병리 조직학적 특징과 면역조직화학적 특성을 분석했습니다. 해당 질환의 진단 및 병리적 이해를 돕기 위한 기초 정보를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "[Gastric amphicrine carcinoma showing neuroendocrine and pancreatic acinar cell differentiation:report of a case]",
+ "title_ko": "신경내분비 및 췌장 선포 세포 분화를 보이는 위 양 양성분비 암종 1례 보고",
+ "trial": null,
+ "type": "paper"
+}

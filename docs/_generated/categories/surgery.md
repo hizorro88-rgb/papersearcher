@@ -16,12 +16,109 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 259건 · 최근 30일 259건
+전체 265건 · 최근 30일 265건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct06608927"></a>
+#### [Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma](https://clinicaltrials.gov/study/NCT06608927)
+`임상시험` `3상` `치료 전반` `신약·치료제` `수술` · 2024-09-23 · ClinicalTrials.gov · Arcus Biosciences, Inc. · 중요도 1.00
+
+**NCT06608927** · 3상 · 진행 중(모집 종료) · 국내 3곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06608927.md)
+
+The purpose of this study is to compare overall survival of quemliclustat, nab-paclitaxel and gemcitabine versus placebo, nab-paclitaxel and gemcitabine in all randomized patients.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06608927) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06608927)</small>
+
+---
+<a id="nct-nct07905131"></a>
+#### [MTAP 결손 췌장암 환자에서 수술 전후 navlimetostat와 변형 FOLFIRINOX 병용요법 연구](https://clinicaltrials.gov/study/NCT07905131)
+<small>A Study of Perioperative Navlimetostat Combined With Modified FOLFIRINOX in Patients With MTAP-Deleted Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-10-29 · ClinicalTrials.gov · Daniel Nussbaum, M.D. · 중요도 0.87
+
+**NCT07905131** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07905131.md)
+
+본 임상시험은 MTAP 결손이 있는 국소 췌장암(localized pancreatic cancer) 환자들을 대상으로 수술 전후에 navlimetostat(BMS-986504)와 변형 FOLFIRINOX(mFOLFIRINOX) 병용요법의 안전성과 타당성, 권장 용량을 평가합니다. 대상 질환은 췌관선암(pancreatic ductal adenocarcinoma, PDAC)이며, 목표 인원은 18명입니다. 환자들은 수술 전과 후에 시험약을 투여받고 근치적 목적의 췌장 절제술을 받게 됩니다.
+
+- 대상 질환: MTAP 결손이 확인된 절제 가능 또는 경계성 절제 가능 췌관선암(PDAC)
+- 중재 치료: navlimetostat와 mFOLFIRINOX 병용요법
+- 목표 환자 수: 18명
+- 연구 목적: 안전성, 타당성, 권장 용량 평가
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07905131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07905131)</small>
+
+---
+<a id="nct-nct07777211"></a>
+#### [A Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer](https://clinicaltrials.gov/study/NCT07777211)
+`임상시험` `2상` `수술` `진단·조기발견` · 2026-08-20 · ClinicalTrials.gov · Beijing Gene Key Life Technology Co., Ltd · 중요도 0.87
+
+**NCT07777211** · 1상/2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07777211.md)
+
+This is a Phase I/IIa, multicenter study designed to evaluate the safety, tolerability, and efficacy of GKL-006 injection in patients with ductal adenocarcinoma of pancreas. This study will evaluate GKL-006 injection in combination with nab-paclitaxel and gemcitabine in patients with advanced pancreatic cancer.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07777211) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07777211)</small>
+
+---
+<a id="nct-nct04390399"></a>
+#### [Combination Immunotherapy Plus Standard-of-Care Chemotherapy Versus Standard-of-Care Chemotherapy for the Treatment of Locally Advanced or Metastatic Pancreatic Cancer](https://clinicaltrials.gov/study/NCT04390399)
+`임상시험` `2상` `치료 전반` `신약·치료제` `수술` · 2020-05-15 · ClinicalTrials.gov · ImmunityBio, Inc. · 중요도 0.87
+
+**NCT04390399** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04390399.md)
+
+This is a phase 2, three-cohort (2 randomized and 1 single-arm), open-label study to evaluate the comparative efficacy and overall safety of standard-of-care chemotherapy versus standard-of-care chemotherapy in combination with aldoxorubicin HCl, N-803, and PD-L1 t-haNK in subjects with locally advanced or metastatic pancreatic cancer. Each treatment setting (ie, first line maintenance, second line, or third line or greater) will be evaluated independently as a separate cohort.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04390399) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04390399)</small>
+
+---
+<a id="pmid-42970668"></a>
+#### [경계성 수술 가능 및 국소 진행성 췌장암 환자를 위한 면역항암화학요법: 무작위 대조 임상시험](https://pubmed.ncbi.nlm.nih.gov/42970668/)
+<small>Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial</small>
+
+`논문` `2상` `신약·치료제` `치료 전반` `임상시험` `수술` · 2026-11-02 · PubMed · J Clin Oncol · 중요도 0.84
+
+경계성 수술 가능 췌장암(BRPC) 및 국소 진행성 췌장암(LAPC) 환자 392명을 대상으로 변형 FOLFIRINOX(mFOLFIRINOX) 항암요법에 toripalimab(토리팔리맙) 면역항암제를 추가한 효과를 평가한 무작위 2상 임상시험 연구입니다. 연구 결과, toripalimab을 병용 투여한 군이 항암화학요법 단독군에 비해 사건 무생존기간(EFS)을 유의하게 개선했습니다. 부작용 및 수술 합병증은 두 군 간에 유사했습니다. 하위 그룹 분석에서는 국소 진행성 췌장암보다 경계성 수술 가능 췌장암 환자에서 생존율 개선 이점이 크게 나타났습니다.
+
+- toripalimab 병용군은 항암화학요법 단독군에 비해 사건 무생존기간(EFS) 중앙값을 11.1개월 대 9.6개월로 유의하게 연장했습니다(위험비 0.74, P=0.007).
+- 객관적 반응률(ORR)은 toripalimab 병용군이 30.1%, 단독군이 18.9%였으며, 완전 절제율(R0 절제율)은 각각 84.1%와 74.7%였습니다.
+- 3등급 이상의 이상반응 발생률은 toripalimab 병용군 47.9%, 단독군 49.2%로 독성 증가 없이 치료가 진행되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970668/) · [DOI](https://doi.org/10.1200/JCO-26-01393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970668)</small>
+
+---
+<a id="pmid-42970247"></a>
+#### [췌장암에 대한 로봇 대 복강경 좌측 췌장절제술 비교: 다기관 IGoMIPS 레지스트리 분석](https://pubmed.ncbi.nlm.nih.gov/42970247/)
+<small>Multicenter IGoMIPS Registry-based analysis of robotic versus laparoscopic approach to left pancreatectomy for pancreatic cancer</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-02 · PubMed · Updates Surg · 중요도 0.77
+
+본 연구는 췌장 체부 및 미부의 췌관선암 환자 645명을 대상으로 로봇 절제술(RLP)과 복강경 절제술(LLP)의 성과를 비교 분석한 연구입니다. 로봇 수술군은 복강경 수술군에 비해 개복 전환율이 낮았으며, 완전 절제율(R0)은 더 높게 나타났습니다. 그러나 기관별 차이 등을 보정한 세부 분석에서는 절제연 양성률 감소 효과가 일관되게 유지되지 않았습니다. 수술 후 합병증 및 단기 전체 생존기간(OS), 무병 생존기간(DFS)은 두 수술법 간에 유의미한 차이가 없었습니다.
+
+- 로봇 수술군은 복강경 수술군보다 개복 전환율이 유의하게 낮았으나(5% 대 19%), 수술 시간 중앙값은 더 길었습니다(310분 대 260분).
+- 단순 비교 시 완전 절제율(R0)은 로봇 수술군이 복강경 수술군보다 높았습니다(81% 대 68%).
+- 다양한 세부 민감도 분석(기관 특성 등 보정)을 거친 결과, 로봇 수술 자체만의 독립적인 종양학적 우위는 입증되지 않았습니다.
+- 중앙값 9개월의 추적 관찰 결과, 전체 생존기간(OS)과 무병 생존기간(DFS)은 두 수술법 간에 유의미한 차이가 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970247/) · [DOI](https://doi.org/10.1007/s13304-026-02831-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970247)</small>
+
+---
+<a id="pmid-42968953"></a>
+#### [췌장암 췌두부십이지장절제술 후 비전이성 8번 임파선 크기와 양호한 예후의 연관성](https://pubmed.ncbi.nlm.nih.gov/42968953/)
+<small>Larger Non-metastatic No. 8 Lymph Node Size Is Associated With Favorable Prognosis After Pancreaticoduodenectomy for Pancreatic Cancer</small>
+
+`논문` `관찰연구` `수술` `진단·조기발견` `치료 전반` · 2026-11-01 · PubMed · Cancer Diagn Progn · 중요도 0.77
+
+췌장암으로 췌두부십이지장절제술(pancreaticoduodenectomy)을 받은 환자 99명을 대상으로 비전이성 8번 임파선(N8LN) 크기와 예후의 연관성을 분석한 연구입니다. 수술 전 영상 검사에서 8번 임파선 크기가 더 컸던 환자군은 작은 환자군에 비해 무진행 생존기간(PFS)과 질환 특이 생존기간(DSS)이 크게 연장되었습니다. 다변량 분석 결과 8번 임파선 비대는 독립적인 양호한 예후 인자로 확인되었습니다. 이는 임파선 비대가 암의 진행보다는 환자 자체의 면역 활동을 반영할 가능성을 시사합니다.
+
+- 8번 임파선 크기가 큰 그룹의 무진행 생존기간(PFS)은 19.7개월로 작은 그룹(9.4개월)에 비해 길었습니다.
+- 8번 임파선 크기가 큰 그룹의 질환 특이 생존기간(DSS)은 41.7개월로 작은 그룹(17.1개월)보다 길었습니다.
+- 수술 전 영상에서 확인된 비전이성 8번 임파선 비대는 독립적인 양호한 예후 예측 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42968953/) · [DOI](https://doi.org/10.21873/cdp.10600) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13724021/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42968953)</small>
+
+---
 <a id="nct-nct05873699"></a>
 #### [수술적 절제를 받는 췌장 낭종 환자에서 과분극 13C-피루브산 자기공명 분광 영상 활용에 관한 연구](https://clinicaltrials.gov/study/NCT05873699)
 <small>Study Using Hyperpolarized 13C-Pyruvate Magnetic Resonance Spectroscopic Imaging in Patients With Pancreatic Cysts Undergoing Surgical Resection</small>
@@ -153,33 +250,20 @@ search:
 
 ---
 <a id="nct-nct05093231"></a>
-#### [Pembrolizumab With Olaparib as Combined Therapy in Metastatic Pancreatic Cancer](https://clinicaltrials.gov/study/NCT05093231)
+#### [전이성 췌장암 환자를 대상으로 한 pembrolizumab과 olaparib 병용 요법 임상연구](https://clinicaltrials.gov/study/NCT05093231)
+<small>Pembrolizumab With Olaparib as Combined Therapy in Metastatic Pancreatic Cancer</small>
+
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-10-26 · ClinicalTrials.gov · Cambridge University Hospitals NHS Foundation Trust · 중요도 0.87
 
 **NCT05093231** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05093231.md)
 
-A phase II study combining pembrolizumab with olaparib in metastatic pancreatic adenocarcinoma patients with high tumour mutation burden
+이 연구는 높은 종양 변이 부담(TMB ≥4 mutations/Mb) 또는 미세위성체 불안정성(MSI-H)/불일치 복구 결함(MMRD)을 보이는 전이성 췌장암 환자를 대상으로 하는 2상 임상시험입니다. 환자들은 pembrolizumab(펨브롤리주맙)과 olaparib(올라파립) 병용 요법을 투여받아 치료 효과와 안전성을 평가받습니다. 이전 전신 항암 치료를 최대 1회까지 받은 환자가 참여 대상입니다.
 
-This is a phase II single arm, open label, prospective trial investigating the efficacy of pembrolizumab plus olaparib in metastatic pancreatic adenocarcinoma patients exhibiting high tumour mutation burden (defined as ≥4 mutations/Mb, including tumours with Mismatch Repair Deficient (MMRD) /Microsatellite Instability (MSI) high).
+- 높은 종양 변이 부담(TMB >4 mutations/Mb) 또는 MSI-H/dMMR 유전적 특징을 가진 전이성 췌장암 환자 20명을 대상으로 합니다.
+- 면역항암제인 pembrolizumab(펨브롤리주맙)과 PARP 억제제인 olaparib(올라파립)을 함께 투여하는 2상 연구입니다.
+- 이전 전신 항암 요법을 받지 않았거나 1회 이하로 받은 환자가 포함됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05093231) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05093231)</small>
-
----
-<a id="nct-nct07905131"></a>
-#### [MTAP 결손 췌장암 환자를 대상으로 한 수술 전후 navlimetostat 및 변형 FOLFIRINOX 병용요법의 1b/2상 임상시험](https://clinicaltrials.gov/study/NCT07905131)
-<small>A Phase Ib/II Open Label Study of Perioperative Navlimetostat Combined With Modified FOLFIRINOX in Patients With MTAP-Deleted Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-10-29 · ClinicalTrials.gov · Daniel Nussbaum, M.D. · 중요도 0.87
-
-**NCT07905131** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07905131.md)
-
-이 연구는 MTAP 유전자 결손이 있는 절제 가능 또는 경계성 절제 가능 췌장암 환자를 대상으로 합니다. 수술 전후에 navlimetostat(나블리메토스타트, BMS-986504)와 변형 FOLFIRINOX(mFOLFIRINOX)를 함께 투여하는 병용요법을 평가합니다. 연구 목적은 해당 병용요법의 안전성, 수행 가능성 및 권장 용량을 확인하는 것입니다. 총 18명의 환자를 대상으로 진행되는 1b/2상 임상시험입니다.
-
-- MTAP 유전자 결손이 확인된 절제 가능 및 경계성 절제 가능 췌장암 환자 18명을 대상으로 합니다.
-- 수술 전후 치료로서 navlimetostat(BMS-986504)과 mFOLFIRINOX 병용요법의 안전성과 권장 용량을 평가합니다.
-- 이전 전신 항암 치료 경험이 없는 환자를 대상으로 연구가 진행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07905131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07905131)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT05093231) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05093231)</small>
 
 ---
 <a id="nct-nct07254091"></a>
@@ -2289,109 +2373,5 @@ T3 병기의 췌장 체부 및 미부 췌관선암 환자를 대상으로 근치
 - 2차 평가변수는 R0 절제율, 무병 생존기간(disease-free survival), 주위 수술 결과입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07081360) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07081360)</small>
-
----
-<a id="nct-nct07283705"></a>
-#### [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](https://clinicaltrials.gov/study/NCT07283705)
-<small>A Phase II Study Evaluating BMS-986504 in MTAP-deleted Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-12-16 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.90
-
-**NCT07283705** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07283705.md)
-
-이 임상시험은 MTAP 결손(MTAP-deleted) 췌장암(PDAC) 환자를 대상으로 BMS-986504와 항암화학요법(chemotherapy)의 병용 치료 효과와 안전성을 평가합니다. 수술 가능 또는 경계성 수술 가능(Cohort 1), 국소 진행성(Cohort 2), 전이성(Cohort 3) 췌장암 환자를 대상으로 진행합니다. 1차 목적은 주요 병리적 반응(major pathological response, MPR), 수술 전후 합병증, 그리고 6개월 무진행 생존기간(PFS) 등을 평가하는 것입니다. 목표 인원은 60명이며 M.D. 앤더슨 암센터(M.D. Anderson Cancer Center)에서 시행합니다.
-
-- 목표 환자 수는 총 60명이며 0곳의 국내 기관에서 참여합니다.
-- Cohort 1에서는 수술 가능/경계성 수술 가능 환자를 대상으로 BMS-986504와 수술 전후 항암화학요법 및 유지 치료를 평가합니다.
-- Cohort 2와 3에서는 각각 국소 진행성 및 전이성 환자를 대상으로 표준 치료(standard of care, SOC) 항암화학요법과 병용한 6개월 무진행 생존기간(PFS) 등을 평가합니다.
-- 선정 기준에 따라 NGS 검사로 확인된 동형접합 MTAP 결손(homozygous MTAP deletion)과 ECOG 수행능력(performance status) 0-1이 요구됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07283705) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07283705)</small>
-
----
-<a id="nct-nct07705919"></a>
-#### [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](https://clinicaltrials.gov/study/NCT07705919)
-<small>DCE-MRI for Neoadjuvant Treatment Assessment in Patients With Borderline Resectable Pancreatic Cancer</small>
-
-`임상시험` `2상` `진단·조기발견` `치료 전반` `수술` · 2026-07-15 · ClinicalTrials.gov · Ohio State University Comprehensive Cancer Center · 중요도 0.90
-
-**NCT07705919** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07705919.md)
-
-이 임상시험은 경계성 절제 가능 췌장암(borderline resectable pancreatic cancer) 환자를 대상으로 수술 전 치료 반응을 평가하는 데 동적 조영증강 자기공명영상(DCE-MRI)이 얼마나 유용한지 확인합니다. 환자들은 치료 전, 치료 시작 약 6주 후, 그리고 수술 전 1주일 이내에 DCE-MRI 검사를 받습니다. 표준 치료인 gemcitabine(젬시타빈)과 nab-paclitaxel(나브-파클리탁셀) 또는 FOLFIRINOX(폴피리녹스) 치료를 받으며 R0 절제율 등을 평가합니다. 목표 인원은 50명입니다.
-
-- 경계성 절제 가능 췌장암 환자 50명을 대상으로 합니다.
-- DCE-MRI를 활용해 혈류 관류(blood perfusion)를 측정하고 치료 반응을 평가합니다.
-- 표준 치료와 함께 DCE-MRI 정보를 활용하여 R0 절제율과의 연관성을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07705919) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07705919)</small>
-
----
-<a id="nct-nct07784374"></a>
-#### [KRAS G12D 변이 전이성 또는 국소진행성 췌장암 환자에서 GFH375 단독요법 대비 GFH375와 GFS202A 또는 GFH276 병용요법의 2상 임상시험](https://clinicaltrials.gov/study/NCT07784374)
-<small>A Phase II Study of GFH375 Combined With GFS202A or GFH276 Versus GFH375 in Patients With Previously Treated Locally Advanced Unresectable or Metastatic Pancreatic Cancer Harboring KRAS G12D Mutation</small>
-
-`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2026-08-25 · ClinicalTrials.gov · Genfleet Therapeutics (Shanghai) Inc. · 중요도 0.90
-
-**NCT07784374** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07784374.md)
-
-이 연구는 이전 치료를 받은 경험이 있는 KRAS G12D 변이 국소진행성 절제불능 또는 전이성 췌장암 환자를 대상으로 하는 2상 임상시험입니다. GFH375 단독요법과 비교하여 GFH375와 GFH276 병용요법의 항종양 효능을 평가합니다. 또한 GFH375와 GFS202A 병용요법이 환자의 체중에 미치는 영향을 평가합니다. 총 120명의 환자를 목표로 모집이 진행 중입니다.
-
-- 대상 질환은 KRAS G12D 변이가 있는 국소진행성 절제불능 또는 전이성 췌장암입니다.
-- 이전에 최소 1가지 이상의 전신 항암 치료를 받은 환자가 대상입니다.
-- 목표 환자 수는 120명입니다.
-- 임상 단계는 2상(PHASE2)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07784374) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07784374)</small>
-
----
-<a id="nct-nct05268692"></a>
-#### [췌장암에 대한 선행항암치료(Neoadjuvant Chemotherapy) 후 GS 요법 및 GnP 요법 비교](https://clinicaltrials.gov/study/NCT05268692)
-<small>Neoadjuvant Chemotherapy for Pancreatic Cancer Followed by GS and GnP</small>
-
-`임상시험` `3상` `치료 전반` `신약·치료제` `수술` · 2022-03-07 · ClinicalTrials.gov · Kochi University · 중요도 0.89
-
-**NCT05268692** · 2상/3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05268692.md)
-
-이 임상시험은 췌장암 환자를 대상으로 선행항암치료 후 GS 요법(gemcitabine plus S-1)과 GnP 요법(gemcitabine plus nab-paclitaxel)의 효과를 비교합니다. 18세부터 85세까지의 췌장암(pancreatic adenocarcinoma) 환자 500명을 목표로 모집을 진행하고 있습니다. 어떤 선행치료 요법이 가장 좋은지는 아직 명확하지 않습니다. 본 시험은 2상 및 3상(PHASE2/PHASE3) 단계로 진행됩니다.
-
-- 목표 환자 수는 총 500명입니다.
-- 대상 질환은 췌장암(Pancreatic Adenocarcinoma)입니다.
-- 참여 연령은 18세부터 85세까지입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05268692) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05268692)</small>
-
----
-<a id="nct-nct05843877"></a>
-#### [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](https://clinicaltrials.gov/study/NCT05843877)
-<small>Pancreatic Head Resection or Total Pancreatectomy With Islet Autotransplantation in Patients With Periampullary Cancer and High Risk Profile for the Development of Postoperative Pancreatic Fistula</small>
-
-`임상시험` `3상` `수술` `치료 전반` · 2023-05-06 · ClinicalTrials.gov · Technische Universität Dresden · 중요도 0.89
-
-**NCT05843877** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05843877.md)
-
-이 임상시험은 췌장 누출(POPF) 위험이 높은 주위암(periampullary cancer) 환자를 대상으로 합니다. 췌장두부절제술(pancreatic head resection) 단독 치료와 전체 췌장절제술(total pancreatectomy) 후 동시 자가 도도세포 이식(islet autotransplantation)을 비교합니다. 이를 통해 수술 후 이병률과 보조 치료 시작까지의 시간을 줄일 수 있는지 평가합니다. 목표 환자 수는 32명이며 현재 환자를 모집 중입니다.
-
-- 목표 인원은 32명입니다.
-- 중재 방법은 전체 췌장절제술 후 자가 췌도 이식과 췌장십이지장절제술(Whipple 또는 유문보존술)을 비교합니다.
-- 췌장 누출 고위험군(부드러운 췌장 및 3mm 미만의 췌관 직경) 환자를 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05843877) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05843877)</small>
-
----
-<a id="nct-nct06079346"></a>
-#### [진행성 췌장암 환자에서 OT-101과 mFOLFIRINOX 병용요법을 평가하는 임상시험](https://clinicaltrials.gov/study/NCT06079346)
-<small>A Study of OT-101 With mFOLFIRINOX in Patients With Advanced and Unresectable or Metastatic Pancreatic Cancer</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2023-10-12 · ClinicalTrials.gov · Oncotelic Inc. · 중요도 0.89
-
-**NCT06079346** · 2상/3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06079346.md)
-
-이 임상시험은 진행성, 절제 불가능 또는 전이성 췌장암 환자를 대상으로 OT-101과 mFOLFIRINOX 병용요법의 유효성과 안전성을 mFOLFIRINOX 단독요법과 비교합니다. 연구의 1차 평가지표는 전체 생존기간(OS)이며, 주요 2차 평가지표는 무진행 생존기간(PFS)과 객관적 반응률(ORR)입니다. 본 연구는 무작위 배정, 공개, 활성 대조군, 다기관 2b/3상 임상시험으로 진행됩니다. 목표 인원은 455명입니다.
-
-- 목표 환자 수는 총 455명입니다.
-- 1차 평가지표는 전체 생존기간(OS)입니다.
-- 주요 2차 평가지표는 무진행 생존기간(PFS)과 객관적 반응률(ORR)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06079346) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06079346)</small>
 
 ---

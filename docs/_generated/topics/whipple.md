@@ -30,8 +30,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (20)
+## 타임라인 (21)
 
+<a id="pmid-42968953"></a>
+#### [췌장암 췌두부십이지장절제술 후 비전이성 8번 임파선 크기와 양호한 예후의 연관성](https://pubmed.ncbi.nlm.nih.gov/42968953/)
+<small>Larger Non-metastatic No. 8 Lymph Node Size Is Associated With Favorable Prognosis After Pancreaticoduodenectomy for Pancreatic Cancer</small>
+
+`논문` `관찰연구` `수술` `진단·조기발견` `치료 전반` · 2026-11-01 · PubMed · Cancer Diagn Progn · 중요도 0.77
+
+췌장암으로 췌두부십이지장절제술(pancreaticoduodenectomy)을 받은 환자 99명을 대상으로 비전이성 8번 임파선(N8LN) 크기와 예후의 연관성을 분석한 연구입니다. 수술 전 영상 검사에서 8번 임파선 크기가 더 컸던 환자군은 작은 환자군에 비해 무진행 생존기간(PFS)과 질환 특이 생존기간(DSS)이 크게 연장되었습니다. 다변량 분석 결과 8번 임파선 비대는 독립적인 양호한 예후 인자로 확인되었습니다. 이는 임파선 비대가 암의 진행보다는 환자 자체의 면역 활동을 반영할 가능성을 시사합니다.
+
+- 8번 임파선 크기가 큰 그룹의 무진행 생존기간(PFS)은 19.7개월로 작은 그룹(9.4개월)에 비해 길었습니다.
+- 8번 임파선 크기가 큰 그룹의 질환 특이 생존기간(DSS)은 41.7개월로 작은 그룹(17.1개월)보다 길었습니다.
+- 수술 전 영상에서 확인된 비전이성 8번 임파선 비대는 독립적인 양호한 예후 예측 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42968953/) · [DOI](https://doi.org/10.21873/cdp.10600) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13724021/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42968953)</small>
+
+---
 <a id="pmid-42965295"></a>
 #### [췌관선암에서 RAC3 발현의 진단 및 예후적 의의: 면역조직화학 분석](https://pubmed.ncbi.nlm.nih.gov/42965295/)
 <small>Diagnostic and prognostic significance of RAC3 expression in pancreatic ductal adenocarcinoma: an Immunohistochemical analysis</small>

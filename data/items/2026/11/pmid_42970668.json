@@ -1,0 +1,66 @@
+{
+ "abstract": "PURPOSE: The optimal treatment strategy for patients with borderline resectable pancreatic cancer (BRPC) and locally advanced pancreatic cancer (LAPC) remains undefined. We evaluated whether the addition of programmed cell death protein 1 blockade to modified FOLFIRINOX improves outcomes compared with modified FOLFIRINOX alone.\nMETHODS: In this open-label, randomized phase II trial, patients with histologically confirmed BRPC or LAPC were randomly assigned (1:1) to receive modified FOLFIRINOX plus toripalimab (immunochemotherapy) or modified FOLFIRINOX alone (chemotherapy). Treatment response was assessed every 2 months, and surgical eligibility was determined by a multidisciplinary team. The primary end point was event-free survival (EFS) in the intention-to-treat population.\nRESULTS: Between April 2019 and March 2025, 392 patients were randomly assigned to immunochemotherapy (n = 196) or chemotherapy (n = 196). After a median follow-up of 39.6 months, immunochemotherapy significantly improved EFS compared with chemotherapy (median, 11.1 v 9.6 months; hazard ratio [HR], 0.74 [95% CI, 0.60 to 0.92]; P = .007). The median overall survival (OS) was 20.6 versus 17.1 months (HR, 0.81; 95% CI, 0.63 to 1.03). Objective response rates were 30.1% (59/196) and 18.9% (37/196), respectively. Tumor resection rates were 42.3% (83/196) and 43.9% (86/196), and R0 resection rates were 84.1% (69/82) and 74.7% (62/83), respectively. Prespecified subgroup analyses suggested improved EFS and OS in BRPC but not LAPC. Grade 3 or higher adverse events occurred in 47.9% (93/194) and 49.2% (96/195) of patients receiving immunochemotherapy and chemotherapy, respectively. Grade III or higher postoperative complications occurred in 30.1% (25/83) and 25.6% (22/86) of resected patients.\nCONCLUSION: The addition of PD-1 blockade to modified FOLFIRINOX significantly improved EFS without increasing treatment-related toxicity or surgical morbidity in patients with BRPC or LAPC.",
+ "authors": [
+  "Bai X",
+  "Li X",
+  "Chen Y",
+  "Zhang X",
+  "Zhang X",
+  "Zhang Q",
+  "Ma T",
+  "Yu Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "trial",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42970668",
+ "importance": 0.84,
+ "key_points_ko": [
+  "toripalimab 병용군은 항암화학요법 단독군에 비해 사건 무생존기간(EFS) 중앙값을 11.1개월 대 9.6개월로 유의하게 연장했습니다(위험비 0.74, P=0.007).",
+  "객관적 반응률(ORR)은 toripalimab 병용군이 30.1%, 단독군이 18.9%였으며, 완전 절제율(R0 절제율)은 각각 84.1%와 74.7%였습니다.",
+  "3등급 이상의 이상반응 발생률은 toripalimab 병용군 47.9%, 단독군 49.2%로 독성 증가 없이 치료가 진행되었습니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": "10.1200/JCO-26-01393",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42970668"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42970668/"
+ },
+ "summary_ko": "경계성 수술 가능 췌장암(BRPC) 및 국소 진행성 췌장암(LAPC) 환자 392명을 대상으로 변형 FOLFIRINOX(mFOLFIRINOX) 항암요법에 toripalimab(토리팔리맙) 면역항암제를 추가한 효과를 평가한 무작위 2상 임상시험 연구입니다. 연구 결과, toripalimab을 병용 투여한 군이 항암화학요법 단독군에 비해 사건 무생존기간(EFS)을 유의하게 개선했습니다. 부작용 및 수술 합병증은 두 군 간에 유사했습니다. 하위 그룹 분석에서는 국소 진행성 췌장암보다 경계성 수술 가능 췌장암 환자에서 생존율 개선 이점이 크게 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial",
+ "title_ko": "경계성 수술 가능 및 국소 진행성 췌장암 환자를 위한 면역항암화학요법: 무작위 대조 임상시험",
+ "trial": null,
+ "type": "paper"
+}

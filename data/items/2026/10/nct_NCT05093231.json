@@ -21,7 +21,11 @@
  ],
  "id": "nct:NCT05093231",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "높은 종양 변이 부담(TMB >4 mutations/Mb) 또는 MSI-H/dMMR 유전적 특징을 가진 전이성 췌장암 환자 20명을 대상으로 합니다.",
+  "면역항암제인 pembrolizumab(펨브롤리주맙)과 PARP 억제제인 olaparib(올라파립)을 함께 투여하는 2상 연구입니다.",
+  "이전 전신 항암 요법을 받지 않았거나 1회 이하로 받은 환자가 포함됩니다."
+ ],
  "last_updated": "2026-10-31",
  "links": {
   "doi": null,
@@ -45,8 +49,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05093231"
  },
- "summary_ko": "A phase II study combining pembrolizumab with olaparib in metastatic pancreatic adenocarcinoma patients with high tumour mutation burden\n\nThis is a phase II single arm, open label, prospective trial investigating the efficacy of pembrolizumab plus olaparib in metastatic pancreatic adenocarcinoma patients exhibiting high tumour mutation burden (defined as ≥4 mutations/Mb, including tumours with Mismatch Repair Deficient (MMRD) /Microsatellite Instability (MSI) high).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 높은 종양 변이 부담(TMB ≥4 mutations/Mb) 또는 미세위성체 불안정성(MSI-H)/불일치 복구 결함(MMRD)을 보이는 전이성 췌장암 환자를 대상으로 하는 2상 임상시험입니다. 환자들은 pembrolizumab(펨브롤리주맙)과 olaparib(올라파립) 병용 요법을 투여받아 치료 효과와 안전성을 평가받습니다. 이전 전신 항암 치료를 최대 1회까지 받은 환자가 참여 대상입니다.",
+ "summary_source": "llm",
  "tags": [
   "High tumour burden",
   "molecular profiling",
@@ -54,13 +58,13 @@
   "pancreatic cancer"
  ],
  "title": "Pembrolizumab With Olaparib as Combined Therapy in Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "전이성 췌장암 환자를 대상으로 한 pembrolizumab과 olaparib 병용 요법 임상연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 전이성 췌관선암 환자\n• 조직 또는 혈액 검사상 종양 변이 부담(TMB) >4 mutations/Mb, dMMR 유전자 변이, 또는 MSI-H 확인\n• 수술 불가능한 췌장암에 대해 이전 전신 항암 치료를 최대 1회 이하로 받은 환자\n• 방사선 치료를 받지 않은 측정 가능한 병변 보유\n• ECOG 수행능력 평가 점수 0점 또는 1점\n• 예상 수명 12주 이상 및 적절한 골수, 간, 신장 기능\n\n제외 기준:\n• 수술 가능하거나 국소 진행성인 췌장암 환자\n• 이전에 면역관문억제제(anti-PD-1, anti-PD-L1 등) 또는 PARP 억제제 치료를 받은 경험이 있는 경우\n• 뇌전이 또는 연뇌막 척수 전이가 있는 환자\n• 중증 폐질환, 조절되지 않는 심혈관 질환, 자가면역질환, 활동성 감염 등 중증 질환 보유자\n• 최근 2~3년 이내 치료가 필요한 다른 암 병력이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Aged ≥ 18 years old\n* Written informed consent\n* Histologically or cytologically confirmed PDA\n* Confirmation that the PDA has TMB \\>4 mutations/Mb, or dMMR gene mutation, or MSI-H by IHC. TMB status and dMMR can be obtained from either tissue, or blood.\n* Radiologically confirmed stage 4 mPDA, with measurable disease\n* Received no more than 1 prior systemic therapy regimen for unresectable (stage 3 or 4) PDA is allowed\n* Measurable disease which has not been irradiated in prior radiotherapy\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1\n* Life expectancy \\>12 weeks from the date of screening assessment\n* Adequate bone marrow function:\n\n  * Absolute neutrophil count (ANC) ≥1.5 x 109 /L\n  * Haemoglobin (Hb) ≥ 90 g/L\n  * Platelets ≥100 x 109 /L\n* Adequate liver function:\n\n  * Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) ≤2.5 x upper limit of normal range (ULN), or \\<5 x ULN in the presence of liver metastases\n  * Total bilirubin \\<1.5 x ULN\n* Adequate renal function defined as a calculated creatinine clearance by Cockcroft - Gault of ≥50 mL/min\n\nExclusion Criteria:\n\n* Patients with resectable or locally advanced PDA\n* Other invasive malignancies diagnosed within the last 2 years which have not been treated with curative intent\n* Prior immune checkpoint inhibitors or PARP inhibitors. This includes any prior therapy with an anti-PD-1, or anti-PD-L1, or anti-PD-L2 agent, or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g, CTLA-4, OX 40, CD137)\n* Requirement for non-physiological dose of daily oral steroids, or regular use of any other immunosuppressive agents; prednisolone dose of \\< 10mg (or equivalent steroid dose) is allowed. Use of inhaled or topical steroids is allowed.\n* Significant acute or chronic medical or psychiatric condition, disease or laboratory abnormality, which in the judgment of the investigator would place the patient at undue risk or interfere with the trial. Examples include, but are not limited to:\n\n  * A history of chronic obstructive pulmonary disease, interstitial lung disease, sarcoidosis, idiopathic pulmonary fibrosis, pulmonary hypersensitivity pneumonitis, cystic fibrosis or bronchiectasis affecting pulmonary function, causing breathlessness at rest\n  * Uncontrolled ischaemic heart or other cardiovascular event (myocardial infarction, new angina, stroke transient ischaemic attack, or new congestive cardiac failure) within the last 2 months\n  * Stable but significant cardiovascular disease defined by heart failure (New York Heart Association Functional Classification III or IV) or frequent angina\n  * Presence of active infection\n  * Cirrhotic liver disease, known HIV, chronic active or acute hepatitis B, or hepatitis C\n  * History of severe allergy or hypersensitivity reactions\n  * Autoimmune disease requiring chronic use of immunosuppressive agents.\n  * Replacement therapy using physiological doses for adrenal or pituitary insufficiency is allowed.\n  * Known additional malignancy that is progressing or has required active treatment within the past 3 years. Note: Participants with basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ, excluding carcinoma in situ of the bladder, that have undergone potentially curative therapy are not excluded.\n  * Has known brain metastases and/or carcinomatous meningitis\n  * Has myelodysplastic syndrome (MDS)/acute myeloid leukaemia (AML) or with features suggestive of MDS/AML.\n* Women who are pregnant, or plan to become pregnant or are lactating.\n* Women of child-bearing potential and male patients who are unwilling to adhere to the contraception requirement from informed consent until the last dose of the trial treatment and for 120 days after the last dose of trial treatment.\n* Patients unable to swallow orally administered medication and patients with gastrointestinal disorders likely to interfere with absorption of the trial medication.\n* Concomitant use of known potent CYP3A4 inhibitors and inducers. Restrictions relating to concomitant medications are described in section 10.9. Please consider wash-out periods.\n* Has received prior systemic anti-cancer therapy including investigational agents within 4 weeks prior to screening.\n* Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients\n* Has received prior radiotherapy within 2 weeks of start of study intervention. Participants must have recovered from all radiation-related toxicities, not require corticosteroids, and not have had radiation pneumonitis. A 1-week washout is permitted for palliative radiation (≤2 weeks of radiotherapy) to non-CNS disease.\n* Has received a live vaccine or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines is allowed.\n* Participant received colony-stimulating factors (e.g., granulocyte colony-stimulating factor \\[G-CSF\\], granulocyte-macrophage colony-stimulating factor \\[GM CSF\\] or recombinant erythropoietin) within 28 days prior to the first dose of study intervention.\n* Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study intervention.\n* Participant has persistent toxicities (\\>CTCAE Grade 2) caused by previous cancer therapy, excluding alopecia.\n* Has had an allogenic tissue/solid organ transplant\n* Judgment by the Investigator that the patient should not participate in the trial.",
   "enrollment": 20,
   "has_results": false,
@@ -77,14 +81,20 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [
-    "MSI_H"
+    "MSI_H",
+    "TMB_high"
    ],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "이전 면역항암제 또는 PARP 억제제 치료 경험",
+    "뇌전이 또는 연뇌막 전이",
+    "활동성 감염, 만성 폐질환 또는 심근경색 등 중증 심혈관 질환",
+    "최근 2~3년 이내 치료가 필요한 다른 암 병력"
+   ],
+   "max_prior_lines": 1,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
+   "min_prior_lines": 0,
+   "notes_ko": "TMB가 높거나 MSI-H/dMMR 특징을 가진 전이성 췌장암 환자로 이전 항암치료를 1회 이하 받은 환자를 위한 시험입니다.",
    "prior_excluded": [
     "immunotherapy"
    ],
@@ -92,7 +102,7 @@
    "setting": [
     "metastatic"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

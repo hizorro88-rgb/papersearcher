@@ -1026,24 +1026,49 @@
    "new": 11,
    "total": 966,
    "updated": 0
+  },
+  {
+   "date": "2026-11-03",
+   "llm": {
+    "attempted": 23,
+    "cache_read_tokens": 0,
+    "errors": [
+     "nct:NCT06608927: ReadTimeout: The read operation timed out",
+     "nct:NCT04390399: ReadTimeout: The read operation timed out",
+     "nct:NCT07777211: ReadTimeout: The read operation timed out"
+    ],
+    "failed": 3,
+    "input_tokens": 43441,
+    "model": "gemini-3.6-flash",
+    "models_used": {
+     "gemini-3.5-flash-lite": 5,
+     "gemini-3.6-flash": 15
+    },
+    "output_tokens": 13308,
+    "provider": "gemini",
+    "succeeded": 20
+   },
+   "new": 16,
+   "total": 982,
+   "updated": 0
   }
  ],
  "sources": {
   "clinicaltrials": {
-   "at": "2026-11-02T00:02:42+00:00",
+   "at": "2026-11-03T02:42:56+00:00",
    "count": 13,
    "error": null,
    "ok": true
   },
   "europepmc": {
-   "at": "2026-11-02T00:02:43+00:00",
+   "at": "2026-11-03T02:42:57+00:00",
    "count": 2,
    "error": null,
    "ok": true
   },
   "pubmed": {
-   "at": "2026-11-02T00:02:42+00:00",
-   "count": 37,
+   "at": "2026-11-03T02:42:56+00:00",
+   "count": 24,
    "error": null,
    "ok": true
   }

@@ -1,0 +1,63 @@
+{
+ "abstract": "Robotic and laparoscopic minimally invasive left pancreatectomy are increasingly adopted for pancreatic ductal adenocarcinoma (PDAC), but comparative oncologic outcomes, especially margin status, remain uncertain. This retrospective multicenter study utilized the prospectively maintained IGoMIPS registry to identify adult patients (≥ 18 years) who underwent minimally invasive left pancreatectomy (laparoscopic, LLP, and robot-assisted, RLP) for histologically confirmed PDAC of the body and tail between September 2019 and May 2025. The primary endpoint was margin positivity (R-positive vs. R0); secondary endpoints included perioperative and pathological outcomes and exploratory overall survival (OS) and disease-free survival (DFS). Univariable and multivariable logistic regression identified predictors of R-positive resection, and Kaplan-Meier analysis compared OS and DFS between approaches. In addition to conventional regression, multiple sensitivity analyses were performed to address treatment selection and confounding. Overall, 645 patients were included, with 410 (64%) undergoing LLP and 235 (36%) RLP. Baseline characteristics were largely similar, except that neoadjuvant treatment was more common in the LLP group (22% vs.13%; p = 0.004). RLP was linked to a lower conversion rate (5% vs.19%, p < 0.001) and longer operative time (median 310 vs.260 min, p < 0.001). The R0 resection rate was higher with RLP than with LLP (81% vs.68%, p = 0.001), while tumor size, pT/pN stage, lymph node yield, lymph node ratio, and lymphovascular invasion were similar. Overall morbidity, Clavien-Dindo grade ≥3 complications, readmission, mortality, and length of stay showed no significant differences between groups. In multivariable analysis of predictors of positive margin, the robotic approach was associated with lower R-positive resection (OR 0.49, 95% CI [0.32-0.75], p = 0.001). In the overlap-weighted cohort, positive-margin rates were 30.2% for LLP and 19.2% for RLP (OR 0.55, 95% CI 0.30-0.99; p = 0.047), but the association was not reproduced in center-fixed-effect, mixed-platform-center, restricted-cohort, or era-stratified analyses. At a median follow-up of 9 months, overall survival (OS) and disease-free survival (DFS) were comparable (OS log-rank p = 0.948; DFS log-rank p = 0.765). RLP was associated with a higher crude R0 rate, and the overall overlap-weighted estimate remained borderline significant. However, this association was not robust to center-sensitive, restricted-cohort, or era-stratified analyses. The data therefore do not establish an independent oncological advantage of the robotic platform; the observed difference may reflect case mix, institutional practice, procedural complexity, and temporal adoption. Perioperative safety and exploratory survival were comparable.",
+ "authors": [
+  "De Pastena M",
+  "Paiella S",
+  "Ginesini M",
+  "Ripolli A",
+  "Partelli S",
+  "Falconi M",
+  "Capretti G",
+  "Butturini G"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42970247",
+ "importance": 0.77,
+ "key_points_ko": [
+  "로봇 수술군은 복강경 수술군보다 개복 전환율이 유의하게 낮았으나(5% 대 19%), 수술 시간 중앙값은 더 길었습니다(310분 대 260분).",
+  "단순 비교 시 완전 절제율(R0)은 로봇 수술군이 복강경 수술군보다 높았습니다(81% 대 68%).",
+  "다양한 세부 민감도 분석(기관 특성 등 보정)을 거친 결과, 로봇 수술 자체만의 독립적인 종양학적 우위는 입증되지 않았습니다.",
+  "중앙값 9개월의 추적 관찰 결과, 전체 생존기간(OS)과 무병 생존기간(DFS)은 두 수술법 간에 유의미한 차이가 없었습니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": "10.1007/s13304-026-02831-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42970247"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42970247/"
+ },
+ "summary_ko": "본 연구는 췌장 체부 및 미부의 췌관선암 환자 645명을 대상으로 로봇 절제술(RLP)과 복강경 절제술(LLP)의 성과를 비교 분석한 연구입니다. 로봇 수술군은 복강경 수술군에 비해 개복 전환율이 낮았으며, 완전 절제율(R0)은 더 높게 나타났습니다. 그러나 기관별 차이 등을 보정한 세부 분석에서는 절제연 양성률 감소 효과가 일관되게 유지되지 않았습니다. 수술 후 합병증 및 단기 전체 생존기간(OS), 무병 생존기간(DFS)은 두 수술법 간에 유의미한 차이가 없었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Multicenter IGoMIPS Registry-based analysis of robotic versus laparoscopic approach to left pancreatectomy for pancreatic cancer",
+ "title_ko": "췌장암에 대한 로봇 대 복강경 좌측 췌장절제술 비교: 다기관 IGoMIPS 레지스트리 분석",
+ "trial": null,
+ "type": "paper"
+}

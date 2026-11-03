@@ -1,0 +1,128 @@
+{
+ "abstract": "The purpose of this First-in-Human, Phase 1 study is to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), immunogenicity, and preliminary antitumor activity of MC001 in adults with advanced or metastatic pancreatic ductal adenocarcinoma (PDAC) and other solid tumors that have relapsed or are refractory to standard therapies. MC001 is an investigational dimeric antibody-drug conjugate (ADC) that targets folate receptor alpha (FRα) and delivers a microtubule-disrupting cytotoxic payload, monomethyl auristatin E (MMAE).\n\nThe study will be conducted in two sequential parts:\n\nPart A (Dose Escalation): Evaluates ascending intravenous (IV) dose levels of MC001 administered once every 3 weeks (Q3W) using a standard 3+3 design in patients with advanced solid tumors to identify dose-limiting toxicities (DLTs), the maximum tolerated dose (MTD), and the recommended dose for expansion (RDE).\n\nPart B (Dose Expansion): Evaluates MC001 at the selected RDE in patients with advanced or metastatic PDAC whose tumors express FRα on at least 30% of tumor cells to further characterize safety and preliminary efficacy.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07909356",
+ "importance": 0.81,
+ "key_points_ko": [
+  "목표 인원은 총 40명이며, 국내 기관은 0곳입니다.",
+  "이전 최소 1가지 이상의 전신 항암 화학요법에 실패한 환자가 대상입니다.",
+  "Part B(용량 확장) 단계에서는 종양 세포의 최소 30% 이상에서 엽산 수용체 알파(FRα) 발현이 확인되어야 합니다.",
+  "ECOG 수행 능력 상태가 0 또는 1인 환자가 참여할 수 있습니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07909356"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medicovestor, Inc",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07909356"
+ },
+ "summary_ko": "이 연구는 표준 치료에 실패한 진행성 또는 전이성 췌장암(PDAC) 및 기타 고형암 성인 환자를 대상으로 신약 항체-약물 복합체(ADC)인 MC001의 안전성, 내인성, 약동학(PK), 약력학(PD), 면역원성 및 예비 항종양 활성을 평가하기 위한 최초 인간 대상(First-in-Human) 1상 임상시험입니다. 연구는 용량 맹검 증량 단계(Part A)와 엽산 수용체 알파(FRα) 발현이 확인된 환자를 대상으로 한 용량 확장 단계(Part B)의 두 부분으로 진행됩니다. 목표 환자 수는 총 40명이며, 정맥주사(IV)로 3주마다(Q3W) 투여를 시행합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "MC001",
+  "Folate Receptor Alpha",
+  "FRα",
+  "Antibody-drug conjugate",
+  "ADC",
+  "ADoBind",
+  "MMAE",
+  "PDAC",
+  "First-in-Human"
+ ],
+ "title": "A Phase 1 Study of MC001 in Patients With Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC) and Other Folate Receptor Alpha (FRα)-Expressing Solid Tumors",
+ "title_ko": "진행성 또는 전이성 췌장암 및 기타 고형암 환자를 대상으로 한 MC001의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Advanced Solid Tumor Cancer",
+   "Metastatic Pancreatic Cancer",
+   "Metastatic Solid Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "melissa.askin@acroclinical.com",
+    "name": "Melissa Askin, MS, BSN, CCRP",
+    "phone": "410-231-1512"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인\n- 조직학적 및 방사선학적으로 확진된 진행성 수술 불가 또는 전이성 췌장암(PDAC) 및 기타 고형암\n- Part B의 경우 세포 표면의 30% 이상에서 엽산 수용체 알파(FRα) 발현 확인\n- 최소 1가지 이상의 이전 전신 항암 화학요법 실패 (daraxonrasib 접근 가능한 경우 해당 치료 이력 필요)\n- RECIST v1.1 기준 측정 가능한 병변 존재\n- ECOG 수행 능력 0 또는 1\n\n제외 기준:\n- FRα 또는 MMAE를 표적하는 항체-약물 복합체(ADC) 투여 이력이 있는 경우\n- 면역글로불린 또는 MMAE에 대한 알레르기 병력\n- 1주기 1일차 기준 14일 이내 방사선 치료를 받았거나 치료 관련 부작용이 1등급 이하로 회복되지 않은 경우\n- 증상이 있는 중추신경계(CNS) 악성종양\n- 2등급 이상의 말초 감각 신경병증\n- 활동성 감염 및 조절되지 않는 활동성 간염 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. Histologically and radiologically confirmed advanced surgically unresectable or metastatic pancreatic ductal adenocarcinoma (PDAC) or other solid tumors.\n3. Folate Receptor alpha (FRα) expression determined by immunohistochemistry (IHC) at a central laboratory:\n\n   * Part A (Phase 1a Dose Escalation): FRα expression status will be assessed primarily for pharmacodynamic evaluation (not required for enrollment).\n   * Part B (Phase 1b Dose Expansion): FRα expression must be documented on the cell surface in at least 30% of PDAC tumor cells prior to enrollment.\n4. Failed at least one prior line of systemic chemotherapy. If daraxonrasib is accessible to the patient, the patient must have failed at least one line of systemic chemotherapy and prior treatment with daraxonrasib.\n5. Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.\n6. Adequate organ and bone marrow function:\n\n   * Hematologic: Absolute neutrophil count (ANC) \\>= 1.5 x 10\\^9/L, platelets \\>= 100 x 10\\^9/L, hemoglobin \\>= 9 g/dL.\n   * Hepatic: Total bilirubin \\<= 1.5 x upper limit of normal (ULN); ALT and AST \\<= 2.5 x ULN (or \\<= 5 x ULN in case of liver involvement).\n   * Renal: Creatinine clearance \\>= 60 mL/min calculated by Cockcroft-Gault formula.\n   * Coagulation: Prothrombin time (PT)/International Normalized Ratio (INR) \\<= 1.5 x ULN.\n7. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n8. Estimated life expectancy \\>= 3 months per investigator's assessment.\n9. Female patients must not be pregnant or breastfeeding, and must be either not of childbearing potential or agree to use highly effective contraception from 1 month before study start through 6 months after completion of study treatment. Male patients with partners of childbearing potential must agree to use highly effective contraception during the study and for up to 6 months after the last dose.\n10. Left ventricular ejection fraction (LVEF) \\>= 50% by echocardiogram, and Fridericia-corrected QT interval (QTcF) \\< 470 ms for both sexes.\n11. Availability of archival or fresh tumor tissue for biomarker analysis.\n\nExclusion Criteria:\n\n1. Prior exposure to antibody-drug conjugates (ADCs) targeting FRα or conjugated to monomethyl auristatin E (MMAE).\n2. History of allergy to immunoglobulins or MMAE.\n3. Receipt of radiation therapy \\<= 14 days before Cycle 1 Day 1, or failure to recover to Grade \\<= 1 from treatment-related side effects.\n4. Symptomatic central nervous system (CNS) malignancy. (Patients with asymptomatic or treated CNS metastases may be eligible if not receiving corticosteroids or anticonvulsants and disease is stable for \\>= 60 days).\n5. Peripheral sensory neuropathy Grade \\>= 2.\n6. Active infection, including Human Immunodeficiency Virus (HIV), requiring systemic therapy within \\<= 7 days prior to Cycle 1 Day 1.\n7. Active, uncontrolled Hepatitis B virus (HBV) or Hepatitis C virus (HCV) infection:\n\n   * HBsAg-positive patients are eligible if they have received HBV antiviral therapy for \\>= 4 weeks prior to first dose, have an undetectable HBV viral load at screening, and remain on antiviral therapy throughout the study.\n   * HBsAg-negative, anti-HBc total positive patients are eligible if HBV viral load is undetectable.\n   * Patients with a history of HCV infection are eligible if HCV viral load is undetectable at screening and curative antiviral therapy was completed \\>= 12 weeks prior to study treatment.\n8. History of major ventricular arrhythmias (e.g., ventricular tachycardia, ventricular fibrillation, Torsades de Pointes \\[TdP\\]).\n9. Major surgical intervention \\<= 28 days prior to Informed Consent Form (ICF) signature or incomplete wound healing after surgery.\n10. Vaccination with a live or live-attenuated vaccine within 30 days prior to the first dose of trial intervention.\n11. Pregnancy or lactation.\n12. Unable or unwilling to sign the ICF, or patient is incarcerated.\n13. Refractory hypokalemia, congenital long QT syndrome, or family history of long QT syndrome; implantable pacemakers or automatic implantable cardioverter defibrillators; unstable angina requiring treatment; clinically significant bradycardia (\\<50 beats/min), tachycardia (\\>100 beats/min), or clinically significant ECG abnormalities; or use of drugs with a known risk of causing Torsades de Pointes (TdP) or QT interval prolongation within 4 weeks prior to the first dose.",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "MC001"
+  ],
+  "last_update_posted": "2026-11-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 ADC(FRα 또는 MMAE 타겟) 치료 이력",
+    "증상이 있는 중추신경계(CNS) 전이",
+    "2등급 이상의 말초 신경병증",
+    "활동성 감염 또는 조절되지 않는 간염"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "이전 치료를 1가지 이상 받은 진행성 또는 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 4,
+  "nct_id": "NCT07909356",
+  "phase": "PHASE1",
+  "primary_completion_date": "2029-01",
+  "sex": "ALL",
+  "sponsor": "Medicovestor, Inc",
+  "start_date": "2026-12",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

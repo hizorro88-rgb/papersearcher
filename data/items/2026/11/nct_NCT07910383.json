@@ -1,0 +1,119 @@
+{
+ "abstract": "This pilot study is testing whether a special type of ultrasound called contrast-enhanced ultrasound (CEUS) can help detect if pancreatic cancer has come back after surgery.\n\nPeople may be eligible to participate if they had surgery to remove pancreatic ductal adenocarcinoma (PDAC) from the head or body of the pancreas and are currently being monitored for cancer recurrence using CT scans.\n\nThe study plans to enroll 10 participants: 5 people whose cancer has returned and 5 people whose cancer has not returned, based on their standard medical imaging results. Participants will not be randomly assigned to groups.\n\nResearchers will use a Logiq E10 ultrasound machine with CEUS technology to perform an ultrasound examination of the area where the surgery was performed. The goal is to determine whether CEUS can be a practical and useful tool for identifying local pancreatic cancer recurrence.\n\nThe sensitivity and specificity of ultrasound imaging can be improved by intravenous (IV) injection of gas microbubbles as vascular contrast agents, which can enhance both Doppler and grayscale signals by up to 27 dB. These contrast agents not only enhance the backscattered ultrasound signals, but at sufficient acoustic pressures they also act as nonlinear oscillators. These oscillations generate significant energy components in the received echo signals, which span the range of possible frequency emissions from subharmonics through ultraharmonics. These nonlinear bubble echoes can be separated from tissue echoes and used to create contrast sensitive imaging modalities such as harmonic imaging (HI), which is commercially available on most state-of-the-art ultrasound scanners.\n\nCEUS has been one of the most important advances in ultrasonography over the last two decades. One example is the rapid success in detection and characterization of focal liver lesions, where CEUS in many studies have demonstrated the same value as Computer Tomography (CT) and Magnetic Resonance Imaging (MRI). Transabdominal ultrasonography with CEUS in the pancreas may have the same potential and has in some centers been established in diagnostic routine. Ultrasound contrast agents have minimal side effects compared to CT or MRI contrast agents. They are not toxic, and do not influence the metabolism of the thyroid gland. The most serious adverse event is anaphylactic reaction. The frequency of anaphylaxis using registered ultrasound contrast agents is very low (0.001 % for ultrasound contrast agents versus 0.07 % for X-ray contrast agents).\n\nGiven the excellent safety profile of ultrasound contrast agents and the established benefits of CEUS, this study will investigate the feasibility of using CEUS imaging to evaluate local PDAC recurrence. As a secondary objective we will also explore how imaging of the surgical site may differ with CEUS and with standard of care CT imaging.\n\nCEUS provides vascular information which will help determine potential recurrence by determining the presence or absence to vascularity and therefore viability.\n\nEndpoints 2.2.1 Primary CEUS image quality compared to standard ultrasound imaging as evaluated qualitatively by radiologists 2.2.2. Secondary\n\n* The surgical site area/volume with/without enhancement from CEUS\n* The surgical site area/volume with/without enhancement from CT imaging\n* Presence or absence of recurrence 2.2.3. Tertiary\n* Determine patient experience with CEUS examination.\n\nThis is an open-label, non-randomized, single center, clinical study that will be conducted at TJU. Patients that underwent surgical resection of PDAC located in the head or body of the pancreas and are being followed for recurrence with CT imaging as part of their SoC are eligible to participate in this pilot study.\n\nThe results from the SoC imaging will be available for the research team including the personnel performing the CEUS examination, this is not a blinded study the potential cases will be selected based on the results of their SoC imaging. The patients are expected to undergo CT imaging as their SoC imaging.\n\nThere is not a specific timepoint after the surgery where the patient will be identified and consent will be obtained. Patients will be identified after a standard of care CT that will be performed after the surgery that will be ordered by the patient's clinical team without the research team input on the timeline.\n\nThe CEUS study examination will be performed up to 4 weeks after the patient's SoC CT imaging.\n\nThe imaging procedure that the patient will undergo as part of their participation in the study is one CEUS examination. Patients' participation in the study will be one CEUS examination; no other imaging modalities examinations will be performed during the patients' participation in the study. Any other imaging modalities examinations that the patients may undergo will be part of the patient's standard of care by the discretion of the patient's clinical team, which the research study team having no participation in the patient's clinical care.\n\nThis trial will consist of 10 adults (18 years of age or older), that underwent surgical resection of PDAC located in the head or body of the pancreas and are being followed for recurrence with CT imaging as part of their SoC. This will not be a randomized study; the plan is to enroll 5 patients with local recurrence and 5 patients without recurrence based on the results of their follow-up imaging.\n\nLumason (sulfur hexafluoride lipid-type A microspheres) is an ultrasound contrast agent for injectable administration. This product is marketed under the name \"Lumason\" in the United States and \"SonoVue\" in Europe and Canada. Lumason is sulfur hexafluoride lipid microspheres that are composed of SF6 gas in the core surrounded by an outer shell monolayer of phospholipids consisting of distearoylphosphatidylcholine (DSPC) and dipalmitoylphosphatidylglycerol sodium (DPPG-Na) with palmitic acid as a stabilizer.\n\nThe single-patient use kit contains the following three items:\n\n* one clear glass 10 mL vial containing 25 mg of white lyophilized powder lipid-type A, 60.7 mg of sulfur hexafluoride gas and capped with a blue flip-cap\n* one prefilled syringe containing 5 mL Sodium Chloride 0.9% Injection, USP (Diluent)\n* one Mini-Spike Each vial is formulated as a 25 mg sterile, pyrogen-free lyophilized powder containing 24.56 mg of polyethylene glycol 4000, 0.19 mg of DSPC, 0.19 mg of DPPG-Na and 0.04 mg of palmitic acid. The headspace of each vial contains 6.07 mg/mL (±2%) sulfur hexafluoride, SF6, or 60.7 mg per vial. Each prefilled syringe with 5 mL of diluent 0.9% Sodium Chloride Injection is sterile, nonpyrogenic, preservative free containing 9 mg sodium chloride per mL. Upon reconstitution with 5 mL diluent, Lumason is a milky white, homogeneous suspension containing sulfur hexafluoride lipid-type A microspheres. The suspension is isotonic and has a pH of 4.5 to 7.5.\n\nLumason will be stored in a secure cabinet, with only the study investigators and research personnel having access. New vials must be prepared for each subject's contrast administration. Unused drug and empty vials will be properly disposed of after reconciling in the log of study drug.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07910383",
+ "importance": 0.74,
+ "key_points_ko": [
+  "췌장 두부 또는 체부의 췌관선암 수술 후 CT로 추적 관찰 중인 환자 10명을 대상으로 CEUS의 유용성을 평가합니다.",
+  "표준 CT 검사 결과에 따라 재발 환자 5명과 미재발 환자 5명을 모집하여 비교합니다.",
+  "표준 CT 검사 후 4주 이내에 1회의 CEUS 검사를 시행합니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07910383"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Thomas Jefferson University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07910383"
+ },
+ "summary_ko": "이 연구는 췌장암 수술을 받은 환자를 대상으로 조영증강 초음파(CEUS)가 국소 재발을 감지하는 데 유용한지 평가하는 조종 연구입니다. 췌장 두부 또는 체부의 췌관선암(PDAC) 수술을 받고 컴퓨터단층촬영(CT)으로 추적 관찰 중인 환자 10명을 모집합니다. 기존 CT 결과에 따라 재발이 확인된 환자 5명과 재발이 없는 환자 5명을 비교하여 CEUS의 정확성과 유용성을 확인합니다. 미세기포 조영제인 Lumason(루마손)을 정맥 주사하여 수술 부위의 혈류 유무와 재발 여부를 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Contrast Enhanced Ultrasound",
+  "CEUS",
+  "Post-Surgical Pancreatic Cancer",
+  "PDAC"
+ ],
+ "title": "The Use of Contrast Enhanced Ultrasound (CEUS) In Post-Surgical Pancreatic Cancer Patients to Evaluate Local Disease Recurrence",
+ "title_ko": "수술 후 췌장암 환자에서 국소 질환 재발을 평가하기 위한 조영증강 초음파(CEUS)의 사용",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Pancreatic Cancer",
+   "Local Disease"
+  ],
+  "contacts": [
+   {
+    "email": "ONCTrialNow@jefferson.edu",
+    "name": "Site Public Contact",
+    "phone": "215-600-9151"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 췌장 두부 또는 체부의 췌관선암(PDAC) 수술적 절제를 받고 표준 치료의 일환으로 CT 검사를 통해 재발 추적 관찰 중인 환자\n• 만 18세 이상\n• 임신 가능성이 있는 여성의 경우 임신 반응 검사 음성\n• 의식이 있고 연구 절차를 준수할 수 있는 환자\n• 연구 참여 동의서에 서명한 환자\n\n제외 기준:\n• 임신 중이거나 수유 중인 여성\n• 연구 약물 투여 전 30일 이내에 임상시험용 약물을 투여받았거나 투여 후 72시간 이내에 투여받을 예정인 환자\n• 의학적으로 불안정하거나 중증/말기 질환 환자 또는 임상 경과를 예측할 수 없는 환자(생명 연장 장치 착용, 급성 심근경색/불안정 심장질환, 1개월 이내 뇌출혈 등)\n• 연구 초음파 영상 검사 전 24시간 이내에 수술을 받은 환자\n• 선천성 심장 질환이 있는 환자\n• Lumason(루마손)에 대한 알레르기 병력이 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Individuals must meet all of the following inclusion criteria in order to be eligible to participate in the study:\n\n  1. Be a patient that underwent surgical resection of PDAC located in the head or body of the pancreas and are being followed for recurrence with CT imaging as part of their standard of care.\n  2. Be 18 years of age or older.\n  3. If the subject is of child-bearing potential, must have a negative pregnancy test.\n  4. Be conscious and able to comply with study procedures.\n  5. Have read and signed the IRB approved consent form for participating in the study.\n\nExclusion Criteria:\n\n* An individual who meets any of the following criteria will be excluded from participation in this study:\n\n  1. Females who are pregnant or nursing.\n  2. Patients who have received an investigational drug in the 30 days before study drug administration or will receive one within 72 hours afterwards.\n  3. Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable. For example:\n\n     * Patients on life support or in a critical care unit.\n     * Patients with clinically unstable cardiopulmonary conditions (acute myocardial infarction, acute coronary artery syndromes, worsening or unstable congestive heart failure, or serious ventricular arrhythmias)\n     * Patients with recent cerebral hemorrhage (within 1 month).\n  4. Patients who have undergone surgery within 24 hours prior to the study ultrasound imaging examination.\n  5. Patients with congenital heart defects.\n  6. Patient with a known allergy to Lumason.",
+  "enrollment": 10,
+  "has_results": false,
+  "interventions": [
+   "Lumason",
+   "Contrast-Enhanced Ultrasound"
+  ],
+  "last_update_posted": "2026-11-02",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "임신 중이거나 수유 중인 여성",
+    "최근 30일 이내에 다른 임상시험용 약물을 투여받은 경우",
+    "불안정한 심혈관 질환 또는 1개월 이내 뇌출혈 등 의학적으로 불안정한 상태",
+    "검사 전 24시간 이내에 수술을 받은 경우",
+    "선천성 심장 질환 또는 Lumason(루마손) 조영제 알레르기 병력이 있는 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "췌장 두부 또는 체부의 췌관선암 수술을 받고 CT로 재발을 추적 관찰 중인 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "adjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07910383",
+  "phase": "NA",
+  "primary_completion_date": "2026-12",
+  "sex": "ALL",
+  "sponsor": "Thomas Jefferson University",
+  "start_date": "2026-07-29",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

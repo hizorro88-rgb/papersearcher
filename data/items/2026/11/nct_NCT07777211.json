@@ -1,0 +1,104 @@
+{
+ "abstract": "This is a Phase I/IIa, multicenter study designed to evaluate the safety, tolerability, and efficacy of GKL-006 injection in patients with ductal adenocarcinoma of pancreas.\n\nThis study will evaluate GKL-006 injection in combination with nab-paclitaxel and gemcitabine in patients with advanced pancreatic cancer. Phase I will primarily assess tolerability and safety, and will also evaluate preliminary efficacy and pharmacokinetic and pharmacodynamic characteristics. Phase II will primarily evaluate efficacy, with further assessment of safety and pharmacokinetic and pharmacodynamic characteristics.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07777211",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07777211"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-08-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Beijing Gene Key Life Technology Co., Ltd",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07777211"
+ },
+ "summary_ko": "This is a Phase I/IIa, multicenter study designed to evaluate the safety, tolerability, and efficacy of GKL-006 injection in patients with ductal adenocarcinoma of pancreas. This study will evaluate GKL-006 injection in combination with nab-paclitaxel and gemcitabine in patients with advanced pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [
+  "GKL-006",
+  "iNKT cells"
+ ],
+ "title": "A Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Pancreatic Cancer",
+   "Ductal Adenocarcinoma of Pancreas"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Aged 18-75 years, inclusive, with no sex restriction.\n2. Histologically or cytologically confirmed unresectable locally advanced or metastatic PDAC.\n3. No prior systemic therapy for unresectable locally advanced or metastatic pancreatic ductal adenocarcinoma. Prior neoadjuvant or adjuvant therapy will not be considered prior systemic therapy for advanced disease.\n4. For patients with postoperative recurrence or metastasis who previously received neoadjuvant or adjuvant therapy, disease progression or recurrence must have occurred at least 6 months after completion of prior therapy.\n5. At least one measurable lesion during screening, as defined by RECIST version 1.1.\n6. Able to understand and voluntarily sign the ICF, communicate adequately with the investigator, comply with study procedures and follow-up, and meet all study requirements.\n7. ECOG PS 0 or 1 and a life expectancy of at least 12 weeks.\n8. Adequate haematological and organ function, as demonstrated by protocol-specified laboratory values obtained within 14 days before enrolment or randomisation.\n9. No traditional Chinese medicine with an antitumour indication within 7 days before enrolment or randomisation.\n10. Participants of reproductive potential must use medically accepted contraception during study treatment and for 6 months after the end of treatment.\n\nExclusion Criteria:\n\n1. Known hypersensitivity to any component of the study treatments.\n2. Other unresolved malignancy within 5 years or concurrently, except specified adequately treated malignancies.\n3. Active, known, or suspected autoimmune disease, or systemic corticosteroid/immunosuppressive therapy within 4 weeks before screening.\n4. Major surgery or severe trauma within 6 months before screening, or planned major surgery during the study.\n5. Known brain or meningeal metastases, except stable brain metastases.\n6. Symptomatic ascites or pleural effusion.\n7. History or presence of clinically significant interstitial lung disease or active infection.\n8. Poorly controlled or clinically significant cardiovascular disease, including inadequately controlled hypertension within 7 days, unstable angina within 6 months, or acute myocardial infarction within 1 year before enrolment.\n9. Clinically significant proteinuria within 7 days before enrolment.\n10. Toxicity from prior anticancer therapy not recovered to protocol-specified levels.\n11. Clinically significant bleeding within 4 weeks, GI bleeding within 6 months, major-vessel invasion with a high bleeding risk, a known bleeding/thrombotic disorder, or arterial/venous thromboembolism within 6 months before enrolment/randomisation.\n12. History or presence of tumour-related GI obstruction requiring treatment.\n13. Active systemic infection requiring treatment within 2 weeks, or unexplained fever or clinically significant leukocytosis within 7 days before enrolment.\n14. Congenital or acquired immunodeficiency, active syphilis or another serious active infection, or HBV/HCV infection with detectable viral load at screening.\n15. Any contraindication to IL-2.\n16. Prior genetically modified cell therapy, or non-genetically modified cell therapy within 6 months before screening.\n17. Pregnancy or breastfeeding.\n18. Receipt of an attenuated vaccine or participation in another drug/device clinical study within 4 weeks before screening.",
+  "enrollment": 52,
+  "has_results": false,
+  "interventions": [
+   "GKL-006 injection",
+   "Nab-paclitaxel and Gemcitabine"
+  ],
+  "last_update_posted": "2026-11-02",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07777211",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2027-03-31",
+  "sex": "ALL",
+  "sponsor": "Beijing Gene Key Life Technology Co., Ltd",
+  "start_date": "2025-08-14",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

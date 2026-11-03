@@ -1,0 +1,58 @@
+{
+ "abstract": "Due to its specific disease characteristics, the diagnosis and treatment of pancreatic cancer often requires patients to repeatedly travel between their home and medical institutions due to the ineffective management of symptoms, cachexia, and other issues, thus incurring significant time, costs, and financial investment in their quest for medical treatment. The use of mobile health (mHealth) technology has alleviated this predicament, at least to a certain extent. The aim of this article is to discuss the current status and issues faced when using mHealth in the disease management of patients with pancreatic cancer. We summarize the current new advances in mHealth in the field of pancreatic cancer disease management and analyze barriers to the widespread adoption of mHealth technologies. mHealth technology makes the various stages of disease management more convenient and efficient for pancreatic cancer patients. It is hoped that relevant legislation and regulations will be developed and that narrowing the \"digital divide\" will be more conducive to the development of mHealth models in pancreatic cancer patients.",
+ "authors": [
+  "Chen J",
+  "Li H",
+  "Shi X",
+  "Bian L"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-03",
+ "history": [
+  {
+   "date": "2026-11-03",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42968381",
+ "importance": 0.72,
+ "key_points_ko": [
+  "모바일 헬스(mHealth) 기술은 췌장암 환자의 증상 관리와 잦은 병원 방문으로 인한 비용 및 시간 부담을 줄여줍니다.",
+  "mHealth 기술은 췌장암 질환 관리의 전 과정을 보다 편리하고 효율적으로 지원합니다.",
+  "mHealth 기술의 보급을 위해서는 디지털 격차 해소와 관련 법률 및 규정 정비가 시급합니다."
+ ],
+ "last_updated": "2026-11-03",
+ "links": {
+  "doi": "10.1097/SGA.0000000000000963",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42968381"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gastroenterol Nurs",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42968381/"
+ },
+ "summary_ko": "본 논문은 췌장암 환자의 질환 관리에서 모바일 헬스(mHealth) 기술의 현재 활용 현황과 과제를 검토했습니다. 췌장암 환자는 증상 관리 및 악액질(cachexia) 문제로 의료기관을 자주 방문해야 하여 큰 시간과 비용이 발생합니다. 모바일 헬스 기술은 질환 관리의 여러 단계를 더욱 편리하고 효율적으로 만들어 이러한 부담을 줄여줍니다. 광범위한 도입을 위해서는 디지털 격차 해소와 관련 법령 정비가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mobile Health in Pancreatic Cancer Management: A State-of-the-Science Review",
+ "title_ko": "췌장암 관리에 있어서의 모바일 헬스: 최신 과학 수준의 종설 연구",
+ "trial": null,
+ "type": "paper"
+}

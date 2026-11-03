@@ -16,12 +16,55 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 267건 · 최근 30일 267건
+전체 270건 · 최근 30일 270건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42970140"></a>
+#### [혈관을 넘어: 췌장암의 생물학적 위험 표지자로서 컴퓨터단층촬영(CT) 상 신경총 침범](https://pubmed.ncbi.nlm.nih.gov/42970140/)
+<small>Beyond the vessels: nerve plexus invasion as a CT marker of biological risk in pancreatic cancer</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` · 2026-11-02 · PubMed · Eur Radiol · 중요도 0.62
+
+본 문헌은 췌장암의 컴퓨터단층촬영(CT) 영상에서 신경총 침범(nerve plexus invasion)이 지니는 생물학적 위험성을 다룬 논평(Editorial)입니다. 기존의 혈관 침범 평가를 넘어 신경총 침범이 환자의 암 생물학적 악성도를 반영하는 표지자가 될 수 있음을 조명합니다. 구체적인 수치나 연구 결과는 원문 초록에 명시되지 않았습니다.
+
+- CT 영상 상 신경총 침범을 췌장암의 생물학적 위험을 평가하는 영상의학적 표지자로 다룹니다.
+- 상세한 연구 데이터 및 환자 수치는 원문 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970140/) · [DOI](https://doi.org/10.1007/s00330-026-13057-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970140)</small>
+
+---
+<a id="doi-10.21203-rs.3.rs-11519779-v1"></a>
+#### [췌장암에서 KRT17/GATA6 하이브리드 상태가 나타내는 MYC 표적 치료 취약성](https://europepmc.org/article/PPR/PPR1354563)
+<small>A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer</small>
+
+`프리프린트` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-11-01 · Europe PMC (preprint) · Research Square · 중요도 0.52
+
+연구진은 췌장암(PDAC) 단일세포 단백체 및 유전체 분석을 통해 클래식(GATA6⁺)과 바살형(KRT17⁺) 아형의 특성을 모두 가진 KRT17⁺/GATA6⁺ 하이브리드 세포 상태를 규명했습니다. 이 하이브리드 세포는 원발암의 침윤 부위와 간 및 폐 전이 부위에 집중되어 존재하며 종양의 전이를 촉진합니다. KRT17과 c-MYC 간의 조절 축은 기존 표준 치료에 대한 저항성을 유발하지만, 동시에 MYC 억제제 치료에 높은 민감성을 보였습니다. 이 결과는 KRT17과 GATA6을 MYC 억제제 임상시험 환자 선별 바이오마커로 활용할 수 있음을 시사합니다.
+
+- 췌장암 조직 분석을 통해 클래식 특성과 바살형 특성을 동시에 갖는 KRT17⁺/GATA6⁺ 하이브리드 세포 상태를 발견했습니다.
+- 하이브리드 세포는 종양 침윤 경계면과 치명적인 간 및 폐 전이 부위에 집중적으로 분포합니다.
+- KRT17-c-MYC 조절 축은 표준 항암 치료에 저항성을 일으키지만, MYC 억제(MYC inhibition) 치료에 특이적인 취약성을 만듭니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1354563) · [DOI](https://doi.org/10.21203/rs.3.rs-11519779/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11519779/v1)</small>
+
+---
+<a id="pmid-42967640"></a>
+#### [신경내분비 및 췌장 선포 세포 분화를 보이는 위 양 양성분비 암종 1례 보고](https://pubmed.ncbi.nlm.nih.gov/42967640/)
+<small>[Gastric amphicrine carcinoma showing neuroendocrine and pancreatic acinar cell differentiation:report of a case]</small>
+
+`논문` `증례` `기초연구` `진단·조기발견` `치료 전반` `신경내분비종양` · 2026-11-08 · PubMed · Zhonghua Bing Li Xue Za Zhi · 중요도 0.49
+
+본 논문은 신경내분비 세포와 췌장 선포(acinar) 세포 분화를 동시에 보이는 위 양성분비 암종(amphicrine carcinoma) 1례에 대한 증례 보고입니다. 희귀한 위 종양의 병리 조직학적 특징과 면역조직화학적 특성을 분석했습니다. 해당 질환의 진단 및 병리적 이해를 돕기 위한 기초 정보를 제공합니다.
+
+- 신경내분비 및 췌장 선포 세포 분화를 동시에 보이는 매우 희귀한 위 양성분비 암종 사례입니다.
+- 병리 조직학적 분석과 면역조직화학 검사를 통해 진단적 특성을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42967640/) · [DOI](https://doi.org/10.3760/cma.j.cn112151-20260225-00136) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42967640)</small>
+
+---
 <a id="pmid-42963543"></a>
 #### [췌장암에서의 KRAS: 분자생물학부터 혁신적 치료제까지](https://pubmed.ncbi.nlm.nih.gov/42963543/)
 <small>KRAS in pancreatic cancer: from molecular biology to transformative therapeutics</small>
@@ -52,19 +95,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42965295/) · [DOI](https://doi.org/10.1080/15321819.2026.2754393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42965295)</small>
 
 ---
-<a id="pmid-42967071"></a>
-#### [클라우딘-12를 발현하는 섬유아세포가 물리적 상호작용을 통해 췌장암의 전이 확산을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42967071/)
-<small>Claudin-12-Expressing Fibroblasts Facilitate Metastatic Spread of Pancreatic Cancer Through Physical Interactions</small>
+<a id="pmid-42966704"></a>
+#### [UBE2T에 의한 지질 대사 재프로그래밍이 만성 염증과 췌장암 진행을 연결합니다](https://pubmed.ncbi.nlm.nih.gov/42966704/)
+<small>UBE2T-driven lipid metabolic reprogramming links chronic inflammation to pancreatic cancer progression</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-31 · PubMed · MedComm (2020) · 중요도 0.64
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-26 · PubMed · Pancreatology · 중요도 0.64
 
-본 연구는 췌장암 주변의 암 연관 섬유아세포(CAF)에서 발현되는 클라우딘-12(CLDN12)가 암세포 전이에 미치는 역할을 조사한 기초 전임상 연구입니다. 연구진은 섬유아세포의 CLDN12가 암세포의 CLDN12와 직접 결합하여 암세포의 침습을 크게 향상시키며, 암세포가 분비하는 TGF-β에 의해 이러한 발현이 더욱 증가함을 확인했습니다. 동물 실험(in vivo)에서 CLDN12 양성 섬유아세포는 간과 횡격막으로의 원격 전이를 촉진했습니다. 합성 펩타이드인 C12-pm을 이용해 CLDN12를 표적했을 때 췌장암의 간 전이가 효과적으로 감소했습니다.
+본 연구는 만성 염증 신호와 췌관선암(PDAC) 진행 과정에서 지질 대사 변화를 매개하는 UBE2T(유비퀴틴 결합 효소 E2T)의 역할을 분석했습니다. 세포 실험 및 유전자 변형 쥐 모델에서 염증 자극은 UBE2T의 발현을 증가시켰으며, UBE2T 결핍은 암세포의 증식과 침습 및 지질 축적을 억제했습니다. 이 과정은 AKT/SREBP1/FASN 신호 전달 축을 통해 이루어지는 것으로 나타났습니다. 또한 UBE2T 억제 물질인 PGG를 투여했을 때 병변 부담, 지질 축적, 기질 재형성이 감소하여 UBE2T가 췌장암의 새로운 치료 표적이 될 가능성을 확인했습니다.
 
-- 암 연관 섬유아세포(CAF)의 CLDN12와 암세포의 CLDN12 간 직접 물리적 결합이 암세포의 침습을 유의하게 촉진했습니다.
-- 동물 실험에서 CLDN12 양성 섬유아세포는 췌장암 세포의 간 및 횡격막 전이를 증가시켰습니다.
-- 합성 펩타이드인 C12-pm으로 CLDN12를 표적 억제했을 때 췌장암의 간 전이가 효과적으로 억제되었습니다.
+- 염증 자극에 의해 발현이 유도되는 UBE2T는 AKT/SREBP1/FASN 신호 축을 조절하여 췌장암 세포의 지질 대사 재프로그래밍을 유도합니다.
+- UBE2T를 제거하면 암세포 증식 및 침습 능력이 억제되고 췌장 내 지질 축적이 감소했습니다.
+- 동물 모델에서 UBE2T 결핍 및 UBE2T 약물학적 억제제인 PGG 투여는 췌장 병변 부담과 기질 재형성을 완화했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42967071/) · [DOI](https://doi.org/10.1002/mco2.71114) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13722954/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42967071)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966704/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.028) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966704)</small>
 
 ---
 <a id="pmid-42966774"></a>
@@ -82,19 +125,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966774/) · [DOI](https://doi.org/10.1038/s41417-026-01091-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966774)</small>
 
 ---
-<a id="pmid-42966704"></a>
-#### [UBE2T에 의한 지질 대사 재프로그래밍이 만성 염증과 췌장암 진행을 연결합니다](https://pubmed.ncbi.nlm.nih.gov/42966704/)
-<small>UBE2T-driven lipid metabolic reprogramming links chronic inflammation to pancreatic cancer progression</small>
+<a id="pmid-42967071"></a>
+#### [클라우딘-12를 발현하는 섬유아세포가 물리적 상호작용을 통해 췌장암의 전이 확산을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42967071/)
+<small>Claudin-12-Expressing Fibroblasts Facilitate Metastatic Spread of Pancreatic Cancer Through Physical Interactions</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-26 · PubMed · Pancreatology · 중요도 0.64
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-31 · PubMed · MedComm (2020) · 중요도 0.64
 
-본 연구는 만성 염증 신호와 췌관선암(PDAC) 진행 과정에서 지질 대사 변화를 매개하는 UBE2T(유비퀴틴 결합 효소 E2T)의 역할을 분석했습니다. 세포 실험 및 유전자 변형 쥐 모델에서 염증 자극은 UBE2T의 발현을 증가시켰으며, UBE2T 결핍은 암세포의 증식과 침습 및 지질 축적을 억제했습니다. 이 과정은 AKT/SREBP1/FASN 신호 전달 축을 통해 이루어지는 것으로 나타났습니다. 또한 UBE2T 억제 물질인 PGG를 투여했을 때 병변 부담, 지질 축적, 기질 재형성이 감소하여 UBE2T가 췌장암의 새로운 치료 표적이 될 가능성을 확인했습니다.
+본 연구는 췌장암 주변의 암 연관 섬유아세포(CAF)에서 발현되는 클라우딘-12(CLDN12)가 암세포 전이에 미치는 역할을 조사한 기초 전임상 연구입니다. 연구진은 섬유아세포의 CLDN12가 암세포의 CLDN12와 직접 결합하여 암세포의 침습을 크게 향상시키며, 암세포가 분비하는 TGF-β에 의해 이러한 발현이 더욱 증가함을 확인했습니다. 동물 실험(in vivo)에서 CLDN12 양성 섬유아세포는 간과 횡격막으로의 원격 전이를 촉진했습니다. 합성 펩타이드인 C12-pm을 이용해 CLDN12를 표적했을 때 췌장암의 간 전이가 효과적으로 감소했습니다.
 
-- 염증 자극에 의해 발현이 유도되는 UBE2T는 AKT/SREBP1/FASN 신호 축을 조절하여 췌장암 세포의 지질 대사 재프로그래밍을 유도합니다.
-- UBE2T를 제거하면 암세포 증식 및 침습 능력이 억제되고 췌장 내 지질 축적이 감소했습니다.
-- 동물 모델에서 UBE2T 결핍 및 UBE2T 약물학적 억제제인 PGG 투여는 췌장 병변 부담과 기질 재형성을 완화했습니다.
+- 암 연관 섬유아세포(CAF)의 CLDN12와 암세포의 CLDN12 간 직접 물리적 결합이 암세포의 침습을 유의하게 촉진했습니다.
+- 동물 실험에서 CLDN12 양성 섬유아세포는 췌장암 세포의 간 및 횡격막 전이를 증가시켰습니다.
+- 합성 펩타이드인 C12-pm으로 CLDN12를 표적 억제했을 때 췌장암의 간 전이가 효과적으로 억제되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42966704/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.028) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42966704)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42967071/) · [DOI](https://doi.org/10.1002/mco2.71114) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13722954/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42967071)</small>
 
 ---
 <a id="pmid-42966744"></a>
@@ -2257,51 +2300,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - 나노유세포분석(nanoflow cytometry)과의 일치 상관계수는 0.980, 평균 상대 편향은 1.51%를 기록했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900490/) · [DOI](https://doi.org/10.1039/d6ay01831a) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900490)</small>
-
----
-<a id="pmid-42898383"></a>
-#### [MYC-LDHA-MCT4 발현 프로그램과 췌장암의 SPP1/TREM2 중심 대식세포 상태의 연관성](https://pubmed.ncbi.nlm.nih.gov/42898383/)
-<small>A MYC-LDHA-MCT4 expression program marks an SPP1/TREM2-centered macrophage state in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `임상시험` · 2026-10-05 · PubMed · Front Immunol · 중요도 0.53
-
-췌관선암(PDAC) 환자에서 면역관문억제제 치료 시 CD8+ T세포 침윤이 증가해도 객관적 반응이 나타나지 않는 기전을 분석한 연구입니다. 연구진은 임상시험 검체와 단일세포 전사체, 공간 전사체 분석 및 세포 실험을 통합하여 종양 세포의 대사 프로그램과 면역 장벽의 관계를 조사했습니다. 분석 결과 암세포의 MYC 및 해당과정 경로가 젖산 수송체인 MCT4(SLC16A3) 발현과 연결되며, 주변의 SPP1/TREM2 대식세포 상태와 밀접하게 연관되어 있음을 확인했습니다. 이는 종양의 젖산 대사 관련 신호가 면역억제성 대식세포 환경 형성에 관여할 수 있음을 제시합니다.
-
-- 공간 전사체 분석에서 MCT4 고발현 종양 부위 주변에 대식세포 수용 점수가 유의하게 높았으며(중앙값 차이 0.433, FDR = 0.010), 특히 SPP1/TREM2 대식세포에서 가장 강한 연관성을 보였습니다(중앙값 차이 0.613, FDR = 0.006).
-- 종양 세포에서 MYC, LDHA, SLC16A3 유전자를 억제했을 때 세포 밖 젖산 분비가 감소하고 대식세포에 미치는 배양액 매개 효과가 변화했습니다.
-- CD8+ T세포 침윤이 증가하더라도 풍부한 대식세포가 유지되는 환경에서 객관적 종양 반응은 관찰되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42898383/) · [DOI](https://doi.org/10.3389/fimmu.2026.1978427) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13677877/) · [NCT04177810](https://clinicaltrials.gov/study/NCT04177810) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42898383)</small>
-
----
-<a id="pmid-42892656"></a>
-#### [다이플루오로메틸오르니틴(DFMO)의 췌장암 세포 내 돌연변이 K-RAS 신호 전달 경로 조절 효과](https://pubmed.ncbi.nlm.nih.gov/42892656/)
-<small>Difluoromethylornithine modulates mutant K-RAS signaling pathways in pancreatic cancer cells</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-09-16 · PubMed · Amino Acids · 중요도 0.52
-
-이 연구는 폴리아민 합성 억제제인 DFMO(α-difluoromethylornithine)가 K-RAS 돌연변이 췌관선암(PDAC)의 대사 의존성을 표적 치료할 수 있는지 전임상 모델에서 평가했습니다. KRAS G12C 변이를 가진 MIA PaCa-2 췌장암 세포주와 비교 세포주를 대상으로 시험관 및 동물 실험을 진행했습니다. DFMO 투여는 폴리아민 합성을 억제하고 ERK1/2 및 RalA 신호를 낮추었으며, K-RAS 돌연변이 종양을 가진 쥐 모델의 생존 기간을 유의하게 연장시켰습니다. 연구진은 DFMO가 활성 RAS 단백질 억제와 유사하게 K-RAS 돌연변이에 의한 췌장 종양 형성을 억제한다고 보고했습니다.
-
-- DFMO 투여는 시험관 내 췌장암 세포에서 총 폴리아민 수치를 유의하게 감소시켰습니다(p < 0.01).
-- MIA PaCa-2 세포주를 이식한 동물 모델에서 DFMO(500 mg/kg/일 경구) 치료는 대조군 대비 생존율을 유의하게 향상시켰습니다(p = 0.0184).
-- 기능성 RAS 단백질이 결여된 M-27 종양 모델에서는 DFMO 치료에 따른 유의한 생존율 개선이 나타나지 않았습니다(p = 0.6055).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892656/) · [DOI](https://doi.org/10.1007/s00726-026-03559-5) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13676551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892656)</small>
-
----
-<a id="pmid-42897560"></a>
-#### [하르민(harmine)을 탑재한 PCL/PVA 다층 나노섬유를 이용한 표적 췌장암 치료](https://pubmed.ncbi.nlm.nih.gov/42897560/)
-<small>Harmine-loaded PCL/PVA multilayer nanofibers for targeted pancreatic cancer therapy</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-07-23 · PubMed · J Biol Eng · 중요도 0.52
-
-이 연구는 폴리카프로락톤(polycaprolactone, PCL)과 폴리비닐알코올(polyvinyl alcohol, PVA)을 이용해 항암제 하르민(harmine, HAR)을 탑재한 다층 나노섬유를 개발하고 ASPC-1 췌장암 세포주를 대상으로 항암 효과를 평가했습니다. 실험 결과, 다층 나노섬유는 약물을 지속적으로 방출하며 ASPC-1 세포의 생존력을 거의 완전히 억제했습니다. 또한 세포 이동과 콜로니 형성을 억제하고, BAX와 CASP3의 발현을 높이며 BCL-2의 발현을 낮추어 세포사멸(apoptosis)을 유도하는 것으로 나타났습니다. 초록에 명시된 바에 따르면, 이 나노섬유는 수술 후 췌장암 관리를 위한 잠재적인 이식형 치료 전략으로 지지됩니다.
-
-- 약물 방출 실험에서 처음 6시간 동안 약 16%가 방출된 후, 72시간 동안 약 68%의 지속적인 하르민(harmine) 방출을 보였습니다.
-- 빈 나노섬유는 97% 이상의 높은 세포 생존율로 우수한 생체 적합성을 보였습니다.
-- 하르민(harmine) 탑재 나노섬유는 ASPC-1 세포에서 72시간 후 세포 생존력을 거의 완전히 억제했습니다.
-- 세포사멸과 관련된 BAX는 약 4.8배, CASP3는 약 3.9배 증가했고, BCL-2는 약 0.35배 감소하여 BAX/BCL-2 비율이 약 13.7을 기록했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897560/) · [DOI](https://doi.org/10.1186/s13036-026-00737-7) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13679269/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897560)</small>
 
 ---

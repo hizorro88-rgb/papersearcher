@@ -11,6 +11,7 @@
   "Kikuchi H"
  ],
  "categories": [
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -25,7 +26,11 @@
  ],
  "id": "pmid:42966923",
  "importance": 0.59,
- "key_points_ko": [],
+ "key_points_ko": [
+  "수술 불가능한 췌장 두부암 치료 중 흑색변을 보인 66세 남성 환자에게 십이지장 침투 및 가성동맥류 파열이 발생했습니다.",
+  "내시경 검사에서 활성 출혈이 관찰되지 않더라도 CT 소견을 함께 분석하여 가성동맥류 파열 가능성을 파악하는 것이 중요합니다.",
+  "출혈성 쇼크 발생 후 긴급 경피적 동맥 색전술(TAE)을 시행하여 성공적으로 지혈을 달성했습니다."
+ ],
  "last_updated": "2026-11-02",
  "links": {
   "doi": "10.1016/j.radcr.2026.10.012",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42966923/"
  },
- "summary_ko": "Pancreatic head cancer may cause life-threatening upper gastrointestinal bleeding through duodenal invasion and tumor-related arterial involvement. In such patients, differentiating between benign peptic ulcer disease and tumor invasion or penetration is clinically important because this distinction may influence whether endoscopic management or angiography with possible endovascular treatment is pursued.",
- "summary_source": "excerpt",
+ "summary_ko": "절제 불가능한 췌장 두부 adenocarcinoma(선암)로 항암치료를 받던 중 melena(흑색변)를 보인 66세 남성 환자의 증례입니다. 내시경 검사에서는 활성 출혈이 없는 십이지장 궤양이 관찰되었으나, 컴퓨터단층촬영(CT) 소견을 통합하여 십이지장 침투 및 tumor(종양) 관련 pseudoaneurysm(가성동맥류) 위험을 평가했습니다. 이후 발생한 hemorrhagic shock(출혈성 쇼크)에 대해 긴급 transcatheter arterial embolization(TAE, 경피적 동맥 색전술)을 시행하여 성공적으로 지혈했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Integration of computed tomography and endoscopic findings in identifying pseudoaneurysm rupture associated with duodenal penetration by pancreatic head cancer: A case report",
- "title_ko": null,
+ "title_ko": "췌장 두부암의 십이지장 침투와 관련된 가성동맥류 파열 진단을 위한 컴퓨터단층촬영 및 내시경 소견의 통합: 증례 보고",
  "trial": null,
  "type": "paper"
 }
