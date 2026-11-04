@@ -1,33 +1,40 @@
-<div class="ps-stats"><div class="ps-stat"><b>982</b><span>누적 수집<br><small>논문·소식 465 · 임상시험 517</small></span></div><div class="ps-stat"><b>+16</b><span>오늘 신규<br><small>갱신 4건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,004</b><span>누적 수집<br><small>논문·소식 481 · 임상시험 523</small></span></div><div class="ps-stat"><b>+22</b><span>오늘 신규<br><small>갱신 13건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-03](_generated/daily/2026/11/03.md)
+최근 수집일: [2026-11-04](_generated/daily/2026/11/04.md)
 
+<a id="nct-nct07409272"></a>
+#### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및 안전성을 평가하기 위한 연구](https://clinicaltrials.gov/study/NCT07409272)
+<small>A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer</small>
+
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-02-13 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 1.00
+
+**NCT07409272** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](_generated/trials/NCT07409272.md)
+
+이 임상시험은 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 세티데그라시브(setidegrasib)와 화학요법(mFOLFIRINOX 또는 NALIRIFOX) 병용 투여의 효과와 안전성을 평가합니다. 환자들은 무작위로 세티데그라시브 또는 위약(placebo)을 화학요법과 함께 투여받습니다. 주요 목표는 병용 치료가 생존 기간을 연장하는지, 그리고 암과 증상의 재발을 지연시키는지 확인하는 것입니다. 이 연구에는 총 614명의 환자가 참여하며 국내 8곳의 기관이 포함됩니다.
+
+- 대상 질환: KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer)
+- 중재 치료: setidegrasib 또는 위약(placebo) + mFOLFIRINOX 또는 NALIRIFOX 화학요법
+- 목표 인원: 614명 (국내 기관 8곳 참여)
+- 임상 단계: 3상(PHASE3) 임상시험
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
+
+---
 <a id="nct-nct06608927"></a>
-#### [Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma](https://clinicaltrials.gov/study/NCT06608927)
-`임상시험` `3상` `치료 전반` `신약·치료제` `수술` · 2024-09-23 · ClinicalTrials.gov · Arcus Biosciences, Inc. · 중요도 1.00
+#### [전이성 췌관선암 환자를 대상으로 quemliclustat와 항암화학요법 대 위약과 항암화학요법을 비교하는 연구](https://clinicaltrials.gov/study/NCT06608927)
+<small>Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma</small>
+
+`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-09-23 · ClinicalTrials.gov · Arcus Biosciences, Inc. · 중요도 1.00
 
 **NCT06608927** · 3상 · 진행 중(모집 종료) · 국내 3곳 · [참여 조건·기관 보기](_generated/trials/NCT06608927.md)
 
-The purpose of this study is to compare overall survival of quemliclustat, nab-paclitaxel and gemcitabine versus placebo, nab-paclitaxel and gemcitabine in all randomized patients.
+이 임상시험은 전이성 췌관선암(PDAC) 환자를 대상으로 quemliclustat, nab-paclitaxel(납파클리탁셀), gemcitabine(젬시타빈) 병용 요법과 위약, nab-paclitaxel, gemcitabine 병용 요법의 전체 생존기간(OS)을 비교합니다. 대상 질환은 전이성 췌관선암이며, 목표 인원은 610명입니다. 본 연구는 3상(PHASE3) 단계로 진행 중입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06608927) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06608927)</small>
+- 연구의 주요 목적은 췌관선암 환자에서 quemliclustat 병용 요법의 전체 생존기간(OS) 효과를 평가하는 것입니다.
+- 중재 치료로 quemliclustat 또는 위약에 nab-paclitaxel과 gemcitabine이 함께 투여됩니다.
+- 목표 환자 수는 총 610명이며 국내 3개 기관이 참여합니다.
 
----
-<a id="nct-nct07232875"></a>
-#### [1차 치료를 받는 진행성 또는 전이성 췌장암에서 AG 병용 요법 대 위약 병용 AG 요법으로서 HRS-4642 주사의 임상시험](https://clinicaltrials.gov/study/NCT07232875)
-<small>HRS 4642 Injection Combined With AG Versus Placebo Combined With AG Therapy in First-Line Advanced or Metastatic Pancreatic Cancer</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` · 2025-11-18 · ClinicalTrials.gov · Jiangsu HengRui Medicine Co., Ltd. · 중요도 0.99
-
-**NCT07232875** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07232875.md)
-
-이 연구는 KRAS G12D 변이가 있는 진행성 췌장암 환자를 대상으로 1차 치료 효과를 평가합니다. 환자들은 무작위로 1:1 배정되어 실험군인 HRS-4642와 AG 병용 요법 또는 대조군인 위약과 AG 병용 요법을 투여받습니다. 총 588명의 환자가 참여할 예정이며, 다국가에서 환자를 모집하고 있습니다. 초록에 생존기간이나 반응률 등의 구체적인 결과 수치는 명시되지 않았습니다.
-
-- KRAS G12D 변이가 있는 진행성 또는 전이성 췌장암 환자의 1차 치료를 대상으로 합니다.
-- 실험군(HRS-4642 + AG)과 대조군(위약 + AG)을 1:1로 비교하는 3상 임상시험입니다.
-- 총 목표 참여 환자 수는 588명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07232875) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07232875)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06608927) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06608927)</small>
 
 ---
 <a id="pmid-42956271"></a>

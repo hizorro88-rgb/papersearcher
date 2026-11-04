@@ -1,0 +1,71 @@
+{
+ "abstract": "Gemcitabine resistance remains a major therapeutic barrier in pancreatic ductal adenocarcinoma (PDAC), for which median survival in advanced disease has remained near one year despite extensive clinical investigation. Using artificial intelligence (AI)-guided structure-based drug repurposing, we identified sitagliptin, a DPP-4 inhibitor for diabetes, as a candidate ribonucleotide reductase (RRM1/2) inhibitor that sensitizes PDAC to gemcitabine. Molecular dynamics simulations suggested that sitagliptin disrupts gemcitabine-RRM1/2 interactions, downregulating RRM1/2 expression and restoring chemosensitivity across PDAC cell lines, patient-derived organoids, and mouse models. Sitagliptin enhanced the anti-tumor efficacy of both gemcitabine-nab-paclitaxel (GnP) and FOLFIRINOX regimens in preclinical studies. We conducted SITGEM-CARE, a single-center phase 2 trial in 22 patients with locally advanced or metastatic PDAC (median age 65.0 years; ECOG performance status 1, 86.4%; Stage IV, 68.2%; liver metastases, 54.5%). Patients received sitagliptin 100 mg orally once daily continuously, plus gemcitabine 1000 mg/m² and nab-paclitaxel 125 mg/m² on days 1 and 8 of 21-day cycles. Among 22 evaluable patients, eight achieved a partial response, and 11 had stable disease, yielding an objective response rate of 36.4% (95% CI: 17.2-59.3%) and a disease control rate of 86.4% (95% CI: 65.1-97.1%), with tumor shrinkage in 86.4% of patients. At a median follow-up of 9.9 months, the median progression-free survival was 6.6 months (95% CI: 4.8-12.4) with 6-month and 9-month PFS rates of 63.6% and 43.5%, respectively. Median overall survival was 12.5 months (95% CI: 7.8-not reached), with 62.9% of patients alive at 12 months. Furthermore, treatment was well tolerated, with no Grade 4/5 treatment-related adverse events. These findings are hypothesis-generating and warrant confirmation in adequately powered, randomized trials. ClinicalTrials.gov: NCT05947825.",
+ "authors": [
+  "Yu J",
+  "Shi S",
+  "Li M",
+  "Fang Q",
+  "Yan J",
+  "Zhang Y",
+  "Liu Z",
+  "Li Z"
+ ],
+ "categories": [
+  "drug",
+  "trial",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42971953",
+ "importance": 0.86,
+ "key_points_ko": [
+  "국소 진행성 또는 전이성 췌장암 환자 22명에게 sitagliptin과 gemcitabine+nab-paclitaxel 병용요법을 투여했습니다.",
+  "객관적 반응률(ORR)은 36.4%, 질병 통제율(DCR)은 86.4%였으며 환자의 86.4%에서 종양 크기 감소가 확인되었습니다.",
+  "무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월(12개월 생존율 62.9%)이었습니다.",
+  "4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1038/s41392-026-02966-0",
+  "nct": [
+   "NCT05947825"
+  ],
+  "pmcid": null,
+  "pmid": "42971953"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Clinical Trial, Phase II"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Signal Transduct Target Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971953/"
+ },
+ "summary_ko": "인공지능(AI) 기반 약물 재창출 연구를 통해 당뇨병 치료제인 sitagliptin(시타글립틴)이 젬시타빈 저항성을 극복하는 리보뉴클레오티드 환원효소(RRM1/2) 억제제로 발굴되었습니다. 국소 진행성 또는 전이성 췌장암 환자 22명을 대상으로 진행된 SITGEM-CARE 2상 임상시험에서 sitagliptin과 gemcitabine(젬시타빈)+nab-paclitaxel(냅-팍리탁셀) 병용요법을 투여했습니다. 그 결과 객관적 반응률(ORR) 36.4%, 질병 통제율(DCR) 86.4%를 달성했습니다. 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월이었으며 4등급 이상의 치료 관련 부작용은 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Sitagliptin, a repurposed diabetes drug, overcomes gemcitabine resistance in pancreatic cancer via ribonucleotide reductase inhibition: SITGEM-CARE phase 2 trial",
+ "title_ko": "당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Background  Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal malignancies, and reprogramming of cholesterol metabolism plays a critical role in its malignant progression. However, the heterogeneity of cholesterol metabolism at the single-cell level and its key regulatory genes remain unclear. Methods  This study integrated single-cell RNA sequencing, spatial transcriptomics, and bulk transcriptomic data (TCGA, GEO, ICGC) to systematically dissect the cellular landscape of cholesterol metabolism in PDAC. Malignant ductal epithelial cells were scored using five independent algorithms and divided into low (LCM), intermediate (ICM), and high (HCM) cholesterol metabolic subgroups. Cell communication, pseudotime trajectory, hdWGCNA, and XGBoost feature importance ranking were performed. Functional experiments including CCK-8, colony formation, EdU, wound healing, Transwell, and nude mouse tumor models were used to validate the role of NSDHL. Results  Malignant ductal epithelial cells exhibited the highest cholesterol metabolic activity. The HCM subgroup showed enhanced communication with CAFs and endothelial cells, increased stemness, and coordinated activation of pro-tumor pathways (hypoxia, TNFα, NF-κB) and metabolic pathways (glycolysis, fatty acid synthesis). Pseudotime analysis revealed that cholesterol metabolism gradually increased along the LCM→ICM→HCM trajectory. Through hdWGCNA combined with XGBoost, NSDHL was identified as the most critical gene for the HCM phenotype. NSDHL was significantly overexpressed in PDAC tissues, enriched in high-malignancy regions, and correlated with poor prognosis. Knockdown of NSDHL significantly inhibited PDAC cell proliferation, migration, and invasion, and delayed tumor growth in nude mice. Conclusion  This study reveals the heterogeneity landscape of cholesterol metabolism in PDAC and identifies NSDHL as a key gene driving the HCM phenotype and malignant progression, providing a new theoretical basis for prognosis evaluation and targeted therapy of PDAC.</p>",
+ "authors": [
+  "Gao Y",
+  "Li Z",
+  "Mu Y",
+  "Ren B",
+  "Li W",
+  "Zhou W."
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11313598/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "악성 도관 상피세포(malignant ductal epithelial cells)가 가장 높은 콜레스테롤 대사 활성을 보였습니다.",
+  "콜레스테롤 대사가 높은 HCM 하위 그룹은 암종양 연관 섬유아세포(CAFs) 및 내피세포와의 상호작용이 증가하고 불량한 예후와 연관되었습니다.",
+  "NSDHL 유전자는 HCM 표현형의 가장 중요한 핵심 유전자이자 예후 불량 인자로 확인되었습니다.",
+  "NSDHL 유전자를 억제(knockdown)했을 때 세포 증식, 이동, 침윤이 억제되고 마우스 종양 성장이 지연되었습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11313598/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1355395"
+ },
+ "summary_ko": "본 연구는 단일세포 RNA 시퀀싱(single-cell RNA sequencing), 공간 전사체(spatial transcriptomics), 대규모 전사체 데이터를 통합하여 췌장관선암(PDAC) 내 콜레스테롤 대사의 세포적 특성을 분석했습니다. 악성 상피세포는 콜레스테롤 대사 활성에 따라 낮음(LCM), 중간(ICM), 높음(HCM) 하위 그룹으로 나뉘었습니다. 기능 실험 결과, 핵심 조절 유전자 중 하나인 NSDHL의 억제가 암세포의 증식, 이동, 침윤을 유의하게 억제하고 누드 마우스의 종양 성장을 지연시키는 것으로 나타났습니다. 초록에 명시되지 않은 수치나 구체적인 환자 대상 임상 결과는 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Single-cell and Spatial Transcriptomics Reveal Cholesterol Metabolism Heterogeneity in Pancreatic Ductal Adenocarcinoma and Identify NSDHL as a Key Regulatory Gene",
+ "title_ko": "단일세포 및 공간 전사체 분석을 통한 췌장관선암의 콜레스테롤 대사 이질성 규명 및 NSDHL을 핵심 조절 유전자로 도출",
+ "trial": null,
+ "type": "preprint"
+}

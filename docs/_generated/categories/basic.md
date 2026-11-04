@@ -16,12 +16,135 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 270건 · 최근 30일 270건
+전체 278건 · 최근 30일 278건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42975741"></a>
+#### [8-옥소구아닌 DNA 글리코실라제(OGG1) 및 시토크롬 P450(CYP1A1) 다형성과 췌장 선암의 연관성](https://pubmed.ncbi.nlm.nih.gov/42975741/)
+<small>Association of 8 -oxoguanine DNA glycosylase (OGG1) and cytochrome P450 (CYP1A1) polymorphisms with pancreatic adenocarcinoma</small>
+
+`논문` `관찰연구` `기초연구` `치료 전반` · 2026-11-03 · PubMed · Mol Biol Rep · 중요도 0.77
+
+이 연구는 이집트 환자들을 대상으로 OGG1 rs1052133 및 CYP1A1 rs1048943 유전자 다형성이 췌장 선암(pancreatic adenocarcinoma, PDAC)의 발병 위험과 예후에 미치는 영향을 조사했습니다. 췌장 선암 환자 80명과 대조군 80명을 대상으로 유전자형 분석을 진행했습니다. OGG1 rs1052133 GG 유전자형과 G 대립유전자, 그리고 CYP1A1 rs1048943 TC 유전자형과 C 대립유전자가 췌장 선암 발병 위험 증가와 유의한 연관성을 보였습니다. 또한 CYP1A1 rs1048943은 사망에 대한 독립적인 예후 예측 인자로 확인되었습니다.
+
+- OGG1 rs1052133 GG 유전자형은 환자군에서 11.3%, 대조군에서 2.5%로 관찰되었으며 발병 위험 증가와 연관되었습니다(오즈비(OR)=6.20, p=0.024).
+- CYP1A1 rs1048943 TC 유전자형은 췌장 선암 위험을 유의하게 증가시켰으며(오즈비(OR)=3.24, p=0.021), C 대립유전자도 환자군에서 유의하게 높게 나타났습니다(오즈비(OR)=3.35, p=0.004).
+- 다변수 콕스 회귀 분석에서 CYP1A1 rs1048943은 사망에 대한 독립적인 예측 인자였습니다(조정된 위험비(adjusted HR)=2.038, 95% 신뢰구간: 1.037-4.005, p=0.039).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975741/) · [DOI](https://doi.org/10.1007/s11033-026-12978-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975741)</small>
+
+---
+<a id="pmid-42975513"></a>
+#### [KRAS 억제제 저항성 췌장관선암에서 철화사(ferroptosis)에 대한 표적 취약성 유발](https://pubmed.ncbi.nlm.nih.gov/42975513/)
+<small>KRAS Inhibitor Resistance Confers a Targetable Vulnerability to Ferroptosis in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-03 · PubMed · Cancer Res · 중요도 0.64
+
+이 연구는 췌장관선암(PDAC)에서 KRAS 억제제 저항성 획득이 세포를 철화사(ferroptosis)에 과민하게 만든다는 사실을 규명했습니다. 저항성을 획득한 세포는 지질 대사 재프로그래밍을 거쳐 다가불포화 지방산 함유 포스파티딜콜린(PC-PUFA)이 풍부해졌습니다. 오판 핵수용체(orphan nuclear receptor)인 NR2F2가 발현 증가하여 PUFA 생합성을 유도하고 철화사 취약한 지질 상태를 만들었습니다. 결론적으로 KRAS 억제제 저항성 PDAC에서 철화사 유도가 저항성을 극복하기 위한 치료 전략이 될 수 있음을 시사합니다.
+
+- KRAS 억제제 저항성 획득은 췌장관선암 세포를 철화사(ferroptosis)에 과민하게 만들었습니다.
+- 저항성 세포는 지질 대사 재프로그래밍을 통해 PC-PUFA가 선택적으로 증가했습니다.
+- 핵수용체 NR2F2가 크로마틴 접근성을 변경하여 PUFA 생합성과 인지질 리모델링을 주도했습니다.
+- 철화사 유도는 KRAS 표적 치료제의 저항성을 극복하는 치료 전략으로 제시되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975513/) · [DOI](https://doi.org/10.1158/0008-5472.CAN-26-1490) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975513)</small>
+
+---
+<a id="pmid-42971052"></a>
+#### [벌크 및 단일 세포 전사체 통합 분석을 통해 밝혀낸 췌장관선암의 염증성 대사 프로그램](https://pubmed.ncbi.nlm.nih.gov/42971052/)
+<small>Integrated bulk and single-cell transcriptomic analysis reveals inflammatory metabolic programs in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` · 2026-11-02 · PubMed · Transl Oncol · 중요도 0.64
+
+본 연구는 췌장관선암(PDAC)의 종양 미세환경 내 염증 신호 전달과 대사 적응 특성을 규명하기 위해 수행되었습니다. 공개된 3개의 전사체 데이터셋(TCGA-PAAD, GSE62452, GSE154778) 분석과 세포 실험을 통합하여 염증-대사 관련 전사 모듈을 평가했습니다. 분석 결과, 종양 조직에서 IDO1, KYNU 등 주요 유전자 발현이 유의하게 증가했으며 특히 골수성 세포(myeloid cells)에서 해당 프로그램의 활성이 가장 두드러졌습니다. 본 연구는 췌장암의 염증성 대사 경로를 이해하기 위한 전사체적 기틀을 제공합니다.
+
+- 종양 조직과 인접 조직의 비교 분석 결과 IDO1, KYNU, PTGS2, PLA2G4A 유전자가 종양 조직에서 유의하게 증가했습니다.
+- 14,926개의 단일 세포 분석 결과, 골수성 세포가 평가된 4개 염증-대사 모듈 모두에서 가장 높은 활성 점수를 보였습니다.
+- 48시간 동안의 사이토카인 자극 세포 실험을 통해 주요 염증-대사 유전자의 발현 유도를 추가 검증했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971052/) · [DOI](https://doi.org/10.1016/j.tranon.2026.103087) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971052)</small>
+
+---
+<a id="pmid-42975849"></a>
+#### [인간 췌장 성상세포 유래 엑소좀을 통한 동종 표적화 및 섬유화 조절](https://pubmed.ncbi.nlm.nih.gov/42975849/)
+<small>Homotypic targeting and fibrosis modulation by human pancreatic stellate cell-derived exosomes</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-11-03 · PubMed · Hum Cell · 중요도 0.61
+
+이 연구는 췌장관선암(PDAC)의 기질 미세환경을 개선하기 위해 인간 췌장 성상세포 유래 엑소좀(HPSC-Exos)의 특성을 조사했습니다. HPSC-Exos는 암 관련 섬유아세포(CAFs)에 우선적으로 흡수되었으며, 이는 인테그린(integrin) 상호작용을 통해 이루어졌습니다. 약물이 탑재되지 않은 HPSC-Exos는 섬유화 관련 단백질 발현과 mRNA 수준을 30~51% 감소시켰습니다. 또한 24시간 시점에서의 CAF 상처 치유를 20 및 40 μg/mL 농도에서 각각 68.6% 및 81.7% 감소시켰습니다. 추가로 화학적으로 변형된 siRNA를 전기천공법을 통해 성공적으로 탑재할 수 있음을 확인했습니다.
+
+- HPSC-Exos는 다른 세포에 비해 암 관련 섬유아세포(CAFs)에 더 많이 흡수되었습니다.
+- 40 μg/mL 농도의 HPSC-Exos 처리는 FAP, α-SMA, fibronectin, COL1A1, COL3A1 mRNA 수준을 약 30~51% 감소시켰습니다.
+- 20 및 40 μg/mL 농도의 HPSC-Exos 처리는 24시간 동안 CAF 상처 치유를 각각 68.6% 및 81.7% 감소시켰습니다.
+- HPSC-Exos는 siRNA를 탑재할 수 있으며 탑재 후에도 나노 크기와 세포 흡수 특성을 유지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975849/) · [DOI](https://doi.org/10.1007/s13577-026-01466-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975849)</small>
+
+---
+<a id="pmid-42971279"></a>
+#### [P2Y6R는 췌장암 악액질에서 지방 조직 염증 및 근육 소모와 연관되어 있습니다](https://pubmed.ncbi.nlm.nih.gov/42971279/)
+<small>P2Y6R is associated with adipose inflammation and muscle wasting in pancreatic cancer cachexia</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · Life Sci · 중요도 0.61
+
+췌장암 악액질(cachexia) 마우스 모델과 세포 실험을 통해 P2Y6R의 역할을 조사했습니다. 연구 결과, P2Y6R은 내장 지방 조직과 암 관련 지방세포(CAA)에서 과발현되었습니다. 약물인 MRS2578을 이용해 P2Y6R을 억제했을 때 체중 감소가 완화되고 혈청 염증성 사이토카인이 감소했습니다. 본 연구는 P2Y6R이 지방-근육 간의 상호작용에 기여하며 암 관련 근육 소모의 치료靶점(target)이 될 수 있음을 시사합니다.
+
+- P2Y6R은 췌장암 환경의 내장 지방 조직과 암 관련 지방세포에서 선택적으로 발현이 증가했습니다.
+- MRS2578을 이용한 P2Y6R 억제는 체중 감소를 완화하고 혈청 IL-6 및 IL-1β 수준을 낮추었습니다.
+- 지방세포의 P2Y6R 억제는 근육 세포의 분화 억제 효과를 완화했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971279/) · [DOI](https://doi.org/10.1016/j.lfs.2026.124757) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971279)</small>
+
+---
+<a id="pmid-42973936"></a>
+#### [저산소증 유도 황화물:퀴논 산화환원효소는 미토콘드리아 코엔자임 Q 환원을 통해 췌관선암의 세포사멸(철사멸, ferroptosis)을 억제하고 젬시타빈(gemcitabine) 내성을 촉진합니다](https://pubmed.ncbi.nlm.nih.gov/42973936/)
+<small>Hypoxia-induced sulfide:quinone oxidoreductase suppresses ferroptosis and promotes gemcitabine resistance through mitochondrial coenzyme Q reduction in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-19 · PubMed · Front Cell Dev Biol · 중요도 0.59
+
+연구진은 췌관선암(PDAC)에서 저산소 환경 적응과 철사멸(ferroptosis) 회피 사이의 분자적 연관성을 조사하기 위해 황화물:퀴논 산화환원효소(SQOR)를 연구했습니다. 102명의 췌관선암 환자 조직 마이크로어레이, 세포주, 환자 유래 오가노이드 및 이식편 모델을 분석했습니다. 연구 결과, SQOR 발현은 저산소 마커와 양의 상관관계를 보였으며 다변량 보정 후 더 짧은 전체 생존 기간과 연관되었습니다. SQOR의 손실은 지질 과산화물 신호를 증가시키고 철사멸 감수성을 높였으며 젬시타빈 내성을 낮추는 데 기여했습니다. 본 연구는 SQOR이 미토콘드리아 철사멸 방어와 젬시타빈 내성에 기여하는 저산소 반응성 효소임을 시사합니다.
+
+- SQOR 단백질 발현은 CAIX 및 HIF-1α와 양의 상관관계를 보였으며 지질과산화 마커인 4-HNE와는 역상관관계를 보였습니다.
+- GPX4와 FSP1을 다변량 보정했을 때, 높은 SQOR 발현은 더 짧은 전체 생존기간과 연관되었습니다(조정 위험비 1.87).
+- SQOR의 손실은 환원된 지질 신호 조절에 관여하며 세포의 철사멸 감수성을 높였습니다.
+- SQOR 억제 후보 물질과 철사빈 유도제의 병용은 저산소 모델에서 젬시타빈 IC50 값을 낮췄습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42973936/) · [DOI](https://doi.org/10.3389/fcell.2026.1971375) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13725581/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42973936)</small>
+
+---
+<a id="doi-10.21203-rs.3.rs-11313598-v1"></a>
+#### [단일세포 및 공간 전사체 분석을 통한 췌장관선암의 콜레스테롤 대사 이질성 규명 및 NSDHL을 핵심 조절 유전자로 도출](https://europepmc.org/article/PPR/PPR1355395)
+<small>Single-cell and Spatial Transcriptomics Reveal Cholesterol Metabolism Heterogeneity in Pancreatic Ductal Adenocarcinoma and Identify NSDHL as a Key Regulatory Gene</small>
+
+`프리프린트` `전임상` `기초연구` `신약·치료제` · 2026-11-02 · Europe PMC (preprint) · Research Square · 중요도 0.56
+
+본 연구는 단일세포 RNA 시퀀싱(single-cell RNA sequencing), 공간 전사체(spatial transcriptomics), 대규모 전사체 데이터를 통합하여 췌장관선암(PDAC) 내 콜레스테롤 대사의 세포적 특성을 분석했습니다. 악성 상피세포는 콜레스테롤 대사 활성에 따라 낮음(LCM), 중간(ICM), 높음(HCM) 하위 그룹으로 나뉘었습니다. 기능 실험 결과, 핵심 조절 유전자 중 하나인 NSDHL의 억제가 암세포의 증식, 이동, 침윤을 유의하게 억제하고 누드 마우스의 종양 성장을 지연시키는 것으로 나타났습니다. 초록에 명시되지 않은 수치나 구체적인 환자 대상 임상 결과는 없습니다.
+
+- 악성 도관 상피세포(malignant ductal epithelial cells)가 가장 높은 콜레스테롤 대사 활성을 보였습니다.
+- 콜레스테롤 대사가 높은 HCM 하위 그룹은 암종양 연관 섬유아세포(CAFs) 및 내피세포와의 상호작용이 증가하고 불량한 예후와 연관되었습니다.
+- NSDHL 유전자는 HCM 표현형의 가장 중요한 핵심 유전자이자 예후 불량 인자로 확인되었습니다.
+- NSDHL 유전자를 억제(knockdown)했을 때 세포 증식, 이동, 침윤이 억제되고 마우스 종양 성장이 지연되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1355395) · [DOI](https://doi.org/10.21203/rs.3.rs-11313598/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11313598/v1)</small>
+
+---
+<a id="pmid-42975967"></a>
+#### [ROCK2 억제제 belumosudil은 췌장암 모델에서 KRAS 억제제 저항성을 극복합니다](https://pubmed.ncbi.nlm.nih.gov/42975967/)
+<small>ROCK2 inhibitor belumosudil overcomes resistance to KRAS inhibition in pancreatic cancer models</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-11-03 · PubMed · JCI Insight · 중요도 0.54
+
+본 연구는 ROCK2 억제제 belumosudil이 췌장암 모델에서 KRAS 억제제에 대한 저항성을 극복할 수 있는지 확인하기 위해 진행되었습니다. 췌장암 세포 및 동물 모델을 대상으로 실험을 수행했습니다. 연구 결과, belumosudil은 KRAS 억제제 저항성을 효과적으로 극복하는 것으로 나타났습니다. 초록에 세부 환자 수나 구체적인 수치는 명시되지 않았습니다.
+
+- ROCK2 억제제 belumosudil은 췌장암 모델에서 KRAS 억제제 저항성을 극복했습니다.
+- 구체적인 환자 수나 생존기간 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975967/) · [DOI](https://doi.org/10.1172/jci.insight.209426) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975967)</small>
+
+---
 <a id="pmid-42970140"></a>
 #### [혈관을 넘어: 췌장암의 생물학적 위험 표지자로서 컴퓨터단층촬영(CT) 상 신경총 침범](https://pubmed.ncbi.nlm.nih.gov/42970140/)
 <small>Beyond the vessels: nerve plexus invasion as a CT marker of biological risk in pancreatic cancer</small>
@@ -2177,128 +2300,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - TCGA-PAAD 분석에서 높은 YY1(위험비 2.01, p=0.001)과 높은 YAP1(위험비 1.72, p=0.010)은 더 짧은 생존기간을 예측했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897482/) · [DOI](https://doi.org/10.1186/s12876-026-05259-6) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13679222/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897482)</small>
-
----
-<a id="pmid-42899906"></a>
-#### [췌장암의 발생과 진행에서 정신적 및 신체적 스트레스의 역할](https://pubmed.ncbi.nlm.nih.gov/42899906/)
-<small>The Role of Mental and Physical Stress in the Occurrence and Development of Pancreatic Cancer</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-10-01 · PubMed · Stress Health · 중요도 0.66
-
-본 논문은 췌장암의 발생과 진행에 있어 정신적, 신체적 스트레스가 미치는 영향을 체계적으로 검토했습니다. 신경내분비 조절(neuroendocrine modulation), 면역 조절 장애(immune dysregulation), 행동 변화 등의 기전을 통해 스트레스와 췌장암 발생의 연관성을 분석했습니다. 또한 조기 개입과 종합 치료를 위한 새로운 통찰을 제공하고자 환자 맞춤형 스트레스 관리 전략을 탐색했습니다. 초록에 환자 대상 수치나 구체적인 생존율 결과는 명시되지 않았습니다.
-
-- 정신적 및 신체적 스트레스는 췌장암의 시작과 발달에 중요한 역할을 합니다.
-- 스트레스가 췌장암에 미치는 영향은 신경내분비 조절, 면역 조절 장애, 행동 변화 등의 기전을 통해 이루어집니다.
-- 본 연구는 조기 개입과 종합 치료를 위한 맞춤형 스트레스 관리 전략을 다룹니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899906/) · [DOI](https://doi.org/10.1002/smi.70235) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899906)</small>
-
----
-<a id="pmid-42896121"></a>
-#### [악성 복수는 IL-10이 풍부한 면역세포 기능 장애와 지속적인 암 결합 IgG 항체 환경을 나타냅니다](https://pubmed.ncbi.nlm.nih.gov/42896121/)
-<small>Malignant Ascites Harbors Immune Niche with IL-10 Enriched Effector Dysfunction and Persistent Cancer-Binding IgG</small>
-
-`논문` `관찰연구` `기초연구` `지지요법·삶의질` · 2026-10-19 · PubMed · Cancer Immunol Res · 중요도 0.65
-
-이 연구는 진행성 소화기암 환자의 악성 복수(Malignant ascites) 내 면역세포 특성을 단일세포 질량분석법(CyTOF)으로 분석했습니다. 복수 내 면역세포는 건강인의 혈액에 비해 골수계 세포가 많고 B세포와 순수 T세포는 적은 특징을 공유했습니다. 특히 암 환자의 복수에서는 면역 억제성 사이토카인인 인터루킨-10(IL-10)이 풍부한 면역 억제 표현형이 독점적으로 관찰되었습니다. 췌관선암(PDAC) 환자의 복수에서는 환자 본인의 암세포뿐 아니라 다른 췌장암 세포주에도 결합하는 면역글로불린 G(IgG) 항체 반응이 지속적으로 확인되었습니다.
-
-- 악성 복수 면역세포는 골수계 세포가 풍부하고 B세포와 순수 T세포 비율이 낮았습니다.
-- IL-10이 풍부한 면역 억제 기능 표현형은 암 환자의 복수 샘플에서만 독점적으로 나타났습니다.
-- 췌관선암 환자의 복수 내에는 자가 암세포 및 여러 동종 췌장암 세포주에 결합하는 IgG 항체 반응이 유지되고 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896121/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0305) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896121)</small>
-
----
-<a id="pmid-42896806"></a>
-#### [고시핀(Gossypin)은 췌장암에서 NF-κB 신호 전달을 통해 돌연변이 KRAS G12D 유도성 암 및 지방 생성 활성을 억제합니다.](https://pubmed.ncbi.nlm.nih.gov/42896806/)
-<small>Gossypin suppresses mutant KRAS G12D driven oncogenic and adipogenic activity via NF-κB signaling in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-19 · PubMed · Biochim Biophys Acta Mol Cell Biol Lipids · 중요도 0.64
-
-본 연구는 돌연변이 KRAS G12D 단백질을 타겟하는 새로운 선도 물질로 고시핀(gossypin)의 효과를 조사했습니다. PANC-1 및 MIA PaCa-2 췌장암 세포주를 대상으로 한 실험에서 고시핀 치료는 세포 증식, 이동, 침윤, 줄기세포성을 유의하게 억제했습니다. 또한 PI3K/AKT/mTOR 및 ERK 신호전달과 NF-κB 활성을 차단하며, 지방 생성 관련 유전자를 하향 조절하는 것으로 나타났습니다. 이번 결과는 고시핀이 KRAS/NF-κB/SREBP1 경로를 통해 췌장암의 암세포 성장과 지방 대사 활성을 억제함을 규명합니다.
-
-- 고시핀(gossypin)은 분자 도킹 및 열적 적정 열량 측정법(ITC)을 통해 KRAS G12D 돌연변이 단백질과 안정적인 상호작용을 확인했습니다.
-- 고시핀 치료는 PANC-1 및 MIA PaCa-2 췌장암 세포에서 세포 증식, 이동, 침윤, 줄기세포성능을 유의하게 억제했습니다.
-- 고시핀은 PI3K/AKT/mTOR 및 ERK 신호전달을 차단하고 NF-κB 활동을 함께 억제했습니다.
-- 고시핀 투여는 SREBF1, HMGCoR, Perilipin-1 등 지방 조절 유전자의 발현을 감소시켜 지방 생성 잠재력을 억제했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896806/) · [DOI](https://doi.org/10.1016/j.bbalip.2026.159779) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896806)</small>
-
----
-<a id="doi-10.20944-preprints202610.1670.v1"></a>
-#### [유전자 조작 동종 수지상세포 백신: 췌장암에서 항종양 면역 조율 및 임상 적용 발전](https://europepmc.org/article/PPR/PPR1344670)
-<small>Engineered Allogeneic Dendritic Cell Vaccines: Coordinating Antitumor Immunity and Advancing Translation in Pancreatic Cancer</small>
-
-`프리프린트` `종설` `기초연구` `신약·치료제` · 2026-10-19 · Europe PMC (preprint) · Preprints.org · 중요도 0.59
-
-이 문헌은 췌장암 치료를 위한 유전자 조작 동종 수지상세포(DC) 백신의 잠재력과 임상적 과제를 다룬 리뷰 논문입니다. CD93, CD40 리간드(CD40L), CXCL13을 발현하는 CD34+ 전구체 유래 수지상세포가 인간화 마우스 모델에서 림프구 활성화를 높이고 췌장 종양 부담을 줄이는 것으로 나타났습니다. 그러나 임상적 이점을 입증하기 위해서는 대조군 연구를 통한 추가적인 검증이 필요합니다.
-
-- CD93, CD40L, CXCL13을 발현하는 유전자 조작 동종 수지상세포 백신은 인간화 마우스 모델에서 림프구 활성화를 강화하고 종양 부담을 줄였습니다.
-- 소규모 코호트와 상당한 환자 이탈로 인해 진행성 질환에서의 임상 결과 해석에는 한계가 있습니다.
-- 전립선암, 흑색종, 중피종에서의 무작위 수지상세포 연구는 면역 활성화를 개선된 치료 결과로 연결하는 것의 지속적인 어려움을 보여줍니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1344670) · [DOI](https://doi.org/10.20944/preprints202610.1670.v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.20944/preprints202610.1670.v1)</small>
-
----
-<a id="pmid-42888424"></a>
-#### [PUM2 매개 조절을 통한 PAFAH1B1 안정화가 페롭토시스를 유도하여 췌관선암의 125I 방사선 입자 저항성을 극복함](https://pubmed.ncbi.nlm.nih.gov/42888424/)
-<small>PAFAH1B1 stabilization, through PUM2-mediated competitive binding with miRNAs on its&#x27; 3&#x27;-UTR, takes active actions on ferroptosis to overcome the radioresistance to 125I radioactive particles of pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `치료 전반` `진단·조기발견` · 2026-09-17 · PubMed · J Transl Med · 중요도 0.59
-
-본 연구는 췌관선암(PDAC)의 주요 치료 난제인 방사선 저항성을 극복하기 위해 PAFAH1B1 단백질의 조절 기전을 규명한 전임상 기초 연구입니다. 연구진은 방사선 저항성 췌장암 세포주와 마우스 이종이식 모델을 제작하여 세포 증식, 사멸 및 페롭토시스(ferroptosis, 철 의존성 세포사멸) 변화를 분석했습니다. 연구 결과, 췌관선암 조직에서 PAFAH1B1 발현이 낮을수록 환자의 예후 및 방사선 치료 반응이 불량했습니다. PUM2 단백질이 마이크로RNA(miR-421, miR-301a-3p)와의 경쟁적 결합을 통해 PAFAH1B1 발현을 안정화시키고, 페롭토시스를 유발하여 125I 방사선 입자에 대한 감수성을 높였습니다.
-
-- 췌관선암에서 PAFAH1B1 단백질의 발현 감소는 환자의 불량한 예후 및 방사선 치료 반응 저하와 관련이 있었습니다.
-- 방사선 저항성 암세포 및 동물 모델에서 PAFAH1B1 과발현 시 페롭토시스가 유도되어 125I 방사선 감수성이 향상되었습니다.
-- PUM2는 miR-421 및 miR-301a-3p와의 경쟁적 결합을 통해 PAFAH1B1을 안정화시켜 방사선 저항성을 줄였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42888424/) · [DOI](https://doi.org/10.1186/s12967-026-08948-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673625/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42888424)</small>
-
----
-<a id="pmid-42898989"></a>
-#### [다양한 영양 조건 하에서 3차원 바이오프린팅된 췌장 종양 모델의 단백체 분석](https://pubmed.ncbi.nlm.nih.gov/42898989/)
-<small>Proteomic analysis of bioprinted pancreatic tumor models under different nutrient conditions</small>
-
-`논문` `전임상` `기초연구` · 2026-10-05 · PubMed · Front Bioeng Biotechnol · 중요도 0.59
-
-이 연구는 영양분이 풍부한 조건과 결핍된 조건에서 3차원(3D) 바이오프린팅된 췌장암세포(PDAC)와 암보조섬유모세포(CAF) 종양 구조물의 단백체 변화를 조사했습니다. PANC1 세포와 CAF로 구성된 3D 구조물을 배양하여 LC-MS/MS 단백체 프로파일링을 수행했습니다. 영양분이 풍부한 조건에서는 판토텐산 및 CoA 생합성 등의 경로가 활성화되었고, 영양 결핍 조건에서는 불포화 지방산 생합성 등의 경로가 활성화되었습니다. 저자들은 영양 가용성이 다세포 췌장암 모델 내에서 영양소 의존적 분자 리모델링과 연관되어 있다고 결론지었습니다.
-
-- 영양분이 풍부한 조건과 결핍된 조건에서 3D 바이오프린팅된 종양 구조물은 뚜렷한 단백체 특성을 보였습니다.
-- 영양 풍부 조건은 판토텐산 및 CoA 생합성, 베타-알라닌 대사, 아르기닌 및 프롤린 대사 경로의 풍부화와 관련이 있었습니다.
-- 영양 결핍 조건은 불포화 지방산 생합성, 지방산 신장, 리보플라빈 대사, 엽산 관련 대사 경로의 풍부화를 보였습니다.
-- 갭 결합, 부착 결합, 밀착 결합 등 세포 접합 관련 단백질에서도 영양 조건에 따른 차이가 관찰되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42898989/) · [DOI](https://doi.org/10.3389/fbioe.2026.1921652) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13678492/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42898989)</small>
-
----
-<a id="pmid-42899176"></a>
-#### [미세환경 반응성 해양 다당류 하이드로겔과 이금속 MOF 나노효소를 이용한 철화사멸 매개 cGAS-STING 활성화 기반 췌장암 면역치료](https://pubmed.ncbi.nlm.nih.gov/42899176/)
-<small>Microenvironment-responsive injectable marine polysaccharide hydrogel empowered by bimetallic MOF nanozymes for in situ pancreatic cancer immunotherapy via ferroptosis-mediated cGAS-STING activation</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-09 · PubMed · Mater Today Bio · 중요도 0.57
-
-이 연구는 촘촘한 기질과 면역억제성 종양 미세환경을 가진 췌장암을 국소 치료하기 위해 미세환경 반응성 주사형 해양 다당류 하이드로겔(G@ZnFe-Gel)을 개발했습니다. 이 하이드로겔은 Zn/Fe 이금속 금속-유기 골격체(MOF) 나노효소를 탑재하여 철화사멸(ferroptosis)과 cGAS-STING 신호전달 경로를 동시에 활성화하도록 설계되었습니다. 피하 췌장암 동물 모델에서 G@ZnFe-Gel은 전신 독성 없이 종양 성장을 현저히 억제하고, 대식세포 재프로그래밍을 촉진하며, 세포독성 T세포 침투를 증가시켰습니다. 초록에 명시되지 않음
-
-- G@ZnFe-Gel은 췌장암 모델에서 전신 독성 없이 종양 성장을 현저히 억제했습니다.
-- 철화사멸 유도 및 cGAS-STING 신호 활성화를 통해 면역억제성 종양 미세환경을 재조형했습니다.
-- 세포독성 T세포 침투를 증가시키고 대식세포 재프로그래밍을 촉진했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899176/) · [DOI](https://doi.org/10.1016/j.mtbio.2026.103735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13679371/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899176)</small>
-
----
-<a id="pmid-42900490"></a>
-#### [이중 채널 디지털 표면증강 라만 분광법을 통한 췌장암 세포 PANC-1 및 BxPC-3의 GPC1+MUC4+ 단일 엑소좀 이질성 분석](https://pubmed.ncbi.nlm.nih.gov/42900490/)
-<small>Dual-channel digital surface-enhanced Raman spectroscopy resolves GPC1+MUC4+ single-exosome heterogeneity released by PANC-1 and BxPC-3 pancreatic cancer cells</small>
-
-`논문` `전임상` `진단·조기발견` `기초연구` · 2026-10-20 · PubMed · Anal Methods · 중요도 0.56
-
-연구진은 개별 엑소좀을 분리하여 glypican-1(GPC1)과 mucin 4(MUC4)를 동시 발현하는 드문 표현형을 식별하는 이중 채널 디지털 표면증강 라만 분광법(digital surface-enhanced Raman spectroscopy) 플랫폼을 개발했습니다. 세포주 모델과 혼합물 실험을 통해 49,256개의 단일 소포 이벤트를 분석한 결과 GPC1+MUC4+ 분율은 PANC-1에서 13.8%, BxPC-3에서 37.8%로 추정되었습니다. 이 방법은 높은 정확도와 선형성을 보이며 세포 출처에 따른 엑소좀의 이질성을 정량적으로 분석할 수 있음을 입증했습니다.
-
-- 베타-이항 모델링을 통한 GPC1+MUC4+ 분율은 PANC-1 13.8%, BxPC-3 37.8%였습니다.
-- 두 모델 간 조정된 차이는 24.1 퍼센트포인트(95% 신뢰구간 21.6-26.5, P = 5.47 × 10^-9)였습니다.
-- 검출 한계 추정치는 밀리리터당 1.0 × 10^4 개이며, 전체 정밀도의 변동 계수는 6.49%였습니다.
-- 나노유세포분석(nanoflow cytometry)과의 일치 상관계수는 0.980, 평균 상대 편향은 1.51%를 기록했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900490/) · [DOI](https://doi.org/10.1039/d6ay01831a) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900490)</small>
 
 ---

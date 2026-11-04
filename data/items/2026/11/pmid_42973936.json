@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is highly resistant to gemcitabine and arises in a profoundly hypoxic tumor microenvironment. However, the molecular link between hypoxic adaptation and ferroptosis evasion remains incompletely understood. We investigated sulfide:quinone oxidoreductase (SQOR), a mitochondrial enzyme that couples hydrogen sulfide oxidation to coenzyme Q (CoQ) reduction, as a hypoxia-responsive regulator of ferroptosis sensitivity.\nMETHODS: A tissue microarray from 102 patients with PDAC was analyzed for hypoxia markers, SQOR, 4-hydroxynonenal (4-HNE), glutathione peroxidase 4 (GPX4), and ferroptosis suppressor protein 1 (FSP1), together with treatment response and survival. Mechanistic studies combined hypoxia time-course experiments with SQOR knockdown, wild-type overexpression, and a catalytically inactive mutant; electron-donor testing; CoQ redox and lipidomic profiling; GPX4/FSP1/dihydroorotate dehydrogenase (DHODH) epistasis; and death-mode rescue assays. Therapeutic relevance was evaluated in gemcitabine-resistant cell lines, eight patient-derived organoid lines, and xenograft models.\nRESULTS: SQOR protein H-scores showed moderate positive associations with CAIX and HIF-1α (Spearman ρ = 0.473 and 0.438; BH-adjusted q = 3.92544 × 10-6 and 1.57881 × 10-5, respectively) and an inverse association with the lipid-peroxidation marker 4-hydroxynonenal (ρ = -0.465; q = 4.13981 × 10-6) and higher SQOR abundance was associated with shorter overall survival after multivariable adjustment for GPX4 and FSP1 (adjusted hazard ratio, 1.87). Hypoxia increased SQOR expression and the CoQH2/total CoQ ratio while suppressing lipid peroxidation; these effects required SQOR catalytic activity, and donor-perturbation experiments implicated H2S more strongly than selenium metabolism under the tested conditions. SQOR loss increased relative signals annotated as oxidized arachidonoyl- and adrenoyl-phosphatidylethanolamines and enhanced ferroptosis sensitivity. SQOR loss synergized with inhibition of GPX4, FSP1, and DHODH, supporting a nonredundant contribution to ferroptosis control; pharmacological rescue was more pronounced with ferroptosis-directed agents than with a caspase inhibitor. Combining the putative SQOR inhibitor with ferroptosis induction lowered gemcitabine IC50 values in resistant models, without restoring parental sensitivity.\nCONCLUSION: The tested PDAC models support SQOR as a hypoxia-responsive, catalysis-dependent contributor to mitochondrial ferroptosis defense and gemcitabine resistance. The tissue correlations are associative and do not establish that hypoxia suppresses lipid peroxidation through SQOR in patients. These findings support further preclinical evaluation of SQOR-directed strategies to improve gemcitabine sensitivity in PDAC.",
+ "authors": [
+  "Huang G",
+  "An X",
+  "Yuan T",
+  "Liao D"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42973936",
+ "importance": 0.59,
+ "key_points_ko": [
+  "SQOR 단백질 발현은 CAIX 및 HIF-1α와 양의 상관관계를 보였으며 지질과산화 마커인 4-HNE와는 역상관관계를 보였습니다.",
+  "GPX4와 FSP1을 다변량 보정했을 때, 높은 SQOR 발현은 더 짧은 전체 생존기간과 연관되었습니다(조정 위험비 1.87).",
+  "SQOR의 손실은 환원된 지질 신호 조절에 관여하며 세포의 철사멸 감수성을 높였습니다.",
+  "SQOR 억제 후보 물질과 철사빈 유도제의 병용은 저산소 모델에서 젬시타빈 IC50 값을 낮췄습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.3389/fcell.2026.1971375",
+  "nct": [],
+  "pmcid": "PMC13725581",
+  "pmid": "42973936"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Cell Dev Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42973936/"
+ },
+ "summary_ko": "연구진은 췌관선암(PDAC)에서 저산소 환경 적응과 철사멸(ferroptosis) 회피 사이의 분자적 연관성을 조사하기 위해 황화물:퀴논 산화환원효소(SQOR)를 연구했습니다. 102명의 췌관선암 환자 조직 마이크로어레이, 세포주, 환자 유래 오가노이드 및 이식편 모델을 분석했습니다. 연구 결과, SQOR 발현은 저산소 마커와 양의 상관관계를 보였으며 다변량 보정 후 더 짧은 전체 생존 기간과 연관되었습니다. SQOR의 손실은 지질 과산화물 신호를 증가시키고 철사멸 감수성을 높였으며 젬시타빈 내성을 낮추는 데 기여했습니다. 본 연구는 SQOR이 미토콘드리아 철사멸 방어와 젬시타빈 내성에 기여하는 저산소 반응성 효소임을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Hypoxia-induced sulfide:quinone oxidoreductase suppresses ferroptosis and promotes gemcitabine resistance through mitochondrial coenzyme Q reduction in pancreatic ductal adenocarcinoma",
+ "title_ko": "저산소증 유도 황화물:퀴논 산화환원효소는 미토콘드리아 코엔자임 Q 환원을 통해 췌관선암의 세포사멸(철사멸, ferroptosis)을 억제하고 젬시타빈(gemcitabine) 내성을 촉진합니다",
+ "trial": null,
+ "type": "paper"
+}

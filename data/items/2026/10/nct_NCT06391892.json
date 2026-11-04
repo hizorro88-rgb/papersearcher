@@ -1,30 +1,41 @@
 {
- "abstract": "This study evaluates the clinical prognostic impact (on DFS and OS) of liquid biopsy guided treatment vs. standard of care (physicians choice) in localized pancreatic cancer (despite because of CA 19-9 levels and computed tomography, upfront surgery is recommended by tumor board). ctDNA positive patients will receive neoadjvuant chemotherapy at current gold standard physicians choice instead of upfront surgery, because of assumed high biological risk for early recurrence.\n\nPancreatic cancer (PC) bears dramatically high relapse rates with consecutive low 5-year survival rates (4.2% over all tumor stages and 0.5% in stage IV disease) despite major improvements of interdisciplinary perioperative management and more aggressive surgical approaches to enable potentially curative pancreatic surgery. PC is estimated to represent the second most cancer associated cause of death by 2030 worldwide. Circulating tumor DNA (ctDNA) has been outpointed to be a promising prognostic marker for several malignant diseases. In precursor studies, the investigators have shown (a) a definitive cut-off (42% decrease from the baseline) for the relative change of ctDNA after only 2 weeks of systemic chemotherapy to reliably (specificity 100%, sensitivity 91.7%) predict response to treatment at a median of 10 weeks earlier (80% faster) than current gold standard (computed tomography after 3 months of treatment) via simple blood collection and consecutive molecular analysis via ddPCR (Kirchweger et al., Frontiers in Oncology, 08/22), which could allow an early change of treatment regimen in the future in order to improve patients survival and decrease the amount of unevaluated cytotoxic agents. Furthermore, the investigators could show (b) that pretherapeutic detectable ctDNA in localized PC could reliably indicate early distant relapse (DFS 3.3 vs. 18.1 months) despite no radiological evidence of advanced or disseminated disease prior to surgery (Kirchweger et al., European Journal of Surgical Oncology, 12/21). All patients in this study suffering from early relapse went through interdisciplinary tumor boards and did not receive neoadjuvant chemotherapy because of radiological resectability and CA 19-9 values within the normal range (\\<500kU/l). ctDNA on the other hand bears the potential to differentiate localized from disseminated disease.\n\nThe planned project aims to prove a clinical applicable easily assessable and minimal invasive approach (mere blood collection during clinical routine) of molecular testing in the periphery to distinguish localized from disseminated disease in pancreatic cancer patients to highly individually stratify for neoadjuvant chemotherapy or upfront surgery on a (molecular)-biological base with a high sensitive method to oppose current difficulties of detection rates in PC in addition to current gold standard of radiological staging in the future.\n\nThe investigators will take approximately 30ml of blood (simple blood puncture) from patients with localized pancreatic cancer who have undergone full staging procedure and have been recommended upfront surgery by interdisciplinary tumor board. ddPCR will be performed by testing KRAS G12/13 and, if negative, KRAS Q61 preoperatively. ctDNA positive patients will be distributed to either observation group (standard of care - upfront surgery) or personalized treatment group (LB informed treatment decisions - neoadjuvant/adjuvant chemotherapy).\n\nTreatment groups will be compared for PFS and OS.",
+ "abstract": "This study evaluates the clinical prognostic impact (on DFS and OS) of liquid biopsy guided treatment vs. standard of care (physicians choice) in localized pancreatic cancer (CA 19-9 levels \\<500, no vessel contact and recommended by multidisciplinary tumor board). ctDNA positive patients are randomized to either receive neoadjvuant chemotherapy at current gold standard physicians choice vs. upfront surgery because of assumed high biological risk for early recurrence of ctDNA+. ctDNA- will receive upfront surgery in adherence to local guidelines.\n\nPancreatic ductal adenocarcinoma (PDAC) is characterized by high recurrence rates and poor long-term survival, even following potentially curative surgical resection and modern multimodal treatment. Despite improvements in surgical techniques, perioperative management, and systemic chemotherapy, a substantial proportion of patients with anatomically resectable PDAC experience early disease recurrence, suggesting the presence of occult systemic disease that cannot be adequately identified by conventional staging methods.\n\nCurrent treatment decisions are primarily based on radiological resectability, clinical performance status, and established biomarkers such as carbohydrate antigen 19-9 (CA19-9). However, these parameters provide limited information about individual tumor biology and the risk of early recurrence. Consequently, patients with apparently favorable anatomical characteristics may still harbor biologically aggressive disease.\n\nCirculating tumor DNA (ctDNA) has emerged as a promising minimally invasive biomarker for assessing tumor biology, monitoring treatment response, and predicting oncological outcomes. In previous studies, the investigators demonstrated that an early decrease in ctDNA levels of at least 42% after two weeks of systemic chemotherapy could predict subsequent radiological treatment response with high sensitivity and specificity, substantially earlier than conventional imaging (Kirchweger et al., Frontiers in Oncology, 2022). Furthermore, pretherapeutic ctDNA positivity in patients with localized PDAC was associated with significantly shorter disease-free survival (3.3 vs. 18.1 months), despite the absence of radiological evidence of advanced or metastatic disease (Kirchweger et al., European Journal of Surgical Oncology, 2021).\n\nThese findings suggest that pretherapeutic ctDNA detection may identify patients at increased risk of early recurrence who could potentially benefit from neoadjuvant systemic treatment, even when conventional clinical and radiological criteria favor upfront surgery.\n\nHowever, a universal neoadjuvant treatment approach for all patients with anatomically resectable PDAC remains controversial. Although neoadjuvant chemotherapy may provide early systemic disease control and reveal aggressive tumor biology, it also exposes patients to treatment-related toxicity, potential deterioration in quality of life, and the risk of losing the opportunity for surgical resection due to disease progression or treatment intolerance. Therefore, a more individualized treatment strategy incorporating biological risk assessment may help optimize treatment sequencing.\n\nThe LIQUIPANC study is a prospective, multicenter, randomized clinical trial investigating the prognostic and potential clinical utility of ctDNA-guided treatment strategies in patients with anatomically resectable PDAC.\n\nEligible patients have localized PDAC without radiological vessel involvement, CA19-9 levels below 500 U/mL, and a multidisciplinary tumor board recommendation for upfront surgical resection based on conventional staging.\n\nFollowing informed consent, approximately 30 mL of peripheral blood is collected before the initiation of oncological treatment. Plasma-derived ctDNA is analyzed using droplet digital polymerase chain reaction (ddPCR), primarily targeting KRAS G12/G13 mutations, with additional KRAS Q61 testing if the initial analysis is negative.\n\nTreatment allocation is determined as follows:\n\nctDNA-positive patients: Patients with detectable ctDNA are randomized to one of two treatment strategies:\n\nNeoadjuvant treatment arm: Patients receive neoadjuvant chemotherapy according to current standards of care and the treating physician's choice, followed by surgical resection when clinically feasible and subsequent treatment according to local guidelines.\n\nStandard-of-care arm: Patients undergo upfront surgical resection, followed by adjuvant chemotherapy and further treatment according to current local guidelines and the treating physician's choice.\n\nctDNA-negative patients: Patients without detectable ctDNA are not randomized and undergo upfront surgical resection in accordance with the multidisciplinary tumor board recommendation and current local standards of care, followed by adjuvant treatment as indicated.\n\nThe randomized comparison among ctDNA-positive patients aims to investigate whether neoadjuvant chemotherapy, compared with upfront surgery, improves oncological outcomes in patients with potentially unfavorable tumor biology.\n\nThe overall study population will additionally be evaluated to investigate the prognostic significance of baseline ctDNA status and its association with disease recurrence and survival.\n\nThe primary endpoint is disease-free survival (DFS). Overall survival (OS) and the prognostic value of ctDNA detection are evaluated as additional outcomes.\n\nLIQUIPANC aims to provide prospective clinical evidence regarding the feasibility and potential value of incorporating liquid biopsy into treatment decision-making for anatomically resectable PDAC. Ultimately, the study seeks to support a more personalized approach to treatment sequencing by identifying patients who may benefit from neoadjuvant systemic therapy while avoiding potentially unnecessary treatment delays and toxicity in others.",
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
+  "diagnosis",
   "surgery"
  ],
  "entities": [],
- "evidence": "phase3",
+ "evidence": "phase2",
  "first_seen": "2026-10-06",
  "history": [
   {
    "date": "2026-10-06",
    "detail": null,
    "event": "created"
+  },
+  {
+   "date": "2026-11-04",
+   "detail": "모집 중 → 진행 중(모집 종료)",
+   "event": "trial_status_changed"
+  },
+  {
+   "date": "2026-11-04",
+   "detail": "PHASE3 → PHASE2",
+   "event": "phase_changed"
   }
  ],
  "id": "nct:NCT06391892",
- "importance": 0.89,
+ "importance": 0.97,
  "key_points_ko": [
-  "목표 환자 수는 100명이며, 18세 이상의 국소성 췌장암 환자가 대상입니다.",
-  "ctDNA 양성 환자는 조기 재발 고위험군으로 간주하여 수술 대신 선행화학요법을 받습니다.",
-  "치료 그룹 간 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교 평가합니다."
+  "목표 인원은 100명이며, 국소성 췌장암 환자를 대상으로 진행됩니다.",
+  "치료 전 ctDNA 양성 환자는 선행항암화학요법과 즉각적인 수술 중 하나로 무작위 배정됩니다.",
+  "치료 전 ctDNA 음성 환자는 즉각적인 수술을 받습니다.",
+  "1차 평가지표는 무진행 생존기간(DFS)이며, 2차 평가지표로 전체 생존기간(OS)을 평가합니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-11-04",
  "links": {
   "doi": null,
   "nct": [
@@ -34,7 +45,7 @@
   "pmid": null
  },
  "pub_types": [
-  "Trial:PHASE3"
+  "Trial:PHASE2"
  ],
  "published_at": "2024-04-30",
  "relevance": 1.0,
@@ -47,30 +58,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06391892"
  },
- "summary_ko": "이 임상시험은 국소성 췌장암 환자를 대상으로 순환종양DNA(ctDNA) 검사를 통해 선행화학요법과 선행수술 중 적절한 치료법을 선택하고 임상적 예후 영향을 평가합니다. 종양위원회에서 선행수술을 권고받은 국소성 췌장암 환자 100명을 대상으로 합니다. ctDNA 양성 환자에게는 조기 재발 위험을 고려하여 수술 대신 선행화학요법을 시행합니다. 무진행 생존기간(PFS)과 전체 생존기간(OS)을 비교합니다.",
+ "summary_ko": "이 연구는 해부학적으로 절제 가능한 국소성 췌장암(Localized Pancreatic Cancer) 환자를 대상으로 순환종양DNA(ctDNA) 결과에 따른 치료 전략의 예후적 영향을 평가하는 2상 임상시험입니다. ctDNA 양성 환자는 선행항암화학요법(Neoadjuvant Chemotherapy)군과 즉각적인 수술(Upfront Surgery)군으로 무작위 배정되며, ctDNA 음성 환자는 표준 치료에 따라 즉각적인 수술을 받습니다. 주요 평가지표는 무진행 생존기간(DFS)이며, 전체 생존기간(OS)도 함께 평가합니다. 목표 환자 수는 100명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery",
- "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA) 기반 치료: 선행화학요법 대 선행수술",
+ "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA) 기반 치료 전략: 선행항암화학요법 대 즉각적 수술",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
    "Circulating Tumor Cell",
    "Predictive Cancer Model"
   ],
-  "contacts": [
-   {
-    "email": "patrick.kirchweger@ordensklinikum.at",
-    "name": "Patrick Kirchweger, MD, PhD",
-    "phone": "+436644159646"
-   },
-   {
-    "email": "helwig.wundsam@ordensklinikum.at",
-    "name": "Helwig Wundsam, PD, MD",
-    "phone": "+4373276774562"
-   }
-  ],
-  "eligibility_ko": "선정 기준:\n- 동의서 서명 완료\n- 18세 초과\n- 선행수술이 예정된 국소성 췌장암\n\n제외 기준:\n- 동시성 이차 암\n- 임신",
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 동의서 서명\n- 18세 이상\n- 즉각적인 수술이 예정된 국소성 췌장암\n\n제외 기준:\n- 동시성 이차 악성종양\n- 임신",
   "eligibility_text": "Inclusion Criteria:\n\n* Informed consent\n* \\>18 years old\n* localized pancreatic cancer to go for upfront surgery\n\nExclusion Criteria:\n\n* synchronous secondary malignancy\n* pregnancy",
   "enrollment": 100,
   "has_results": false,
@@ -78,7 +78,7 @@
    "Neoadjuvant chemotherapy instead of upfront surgery",
    "Upfront surgery"
   ],
-  "last_update_posted": "2024-04-30",
+  "last_update_posted": "2026-11-03",
   "location_countries": [
    "Austria"
   ],
@@ -88,17 +88,16 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "동시성 이차 암",
+    "동시성 이차 악성종양",
     "임신"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "선행수술이 권고된 국소성 췌장암 환자",
+   "notes_ko": "즉각적인 수술이 예정된 해부학적 절제 가능 국소성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "locally_advanced",
     "resectable"
    ],
    "source": "llm"
@@ -107,12 +106,12 @@
   "min_age": "18 Years",
   "n_locations": 1,
   "nct_id": "NCT06391892",
-  "phase": "PHASE3",
-  "primary_completion_date": "2025-12-31",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-06-01",
   "sex": "ALL",
   "sponsor": "Elisabethinen Hospital",
   "start_date": "2024-01-11",
-  "status": "RECRUITING",
+  "status": "ACTIVE_NOT_RECRUITING",
   "study_type": "INTERVENTIONAL"
  },
  "type": "trial"

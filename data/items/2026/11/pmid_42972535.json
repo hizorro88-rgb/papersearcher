@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: [68Ga]Ga-DOTATATE PET/CT has been widely used in the diagnosis and staging of gastroenteropancreatic neuroendocrine tumors (GEP-NETs), while PET/MR may have greater advantages in the diagnosis of hepatic lesions. This study aimed to compare the diagnostic performance of conventional [68Ga]Ga-DOTATATE PET/CT and delayed PET/MR in detecting hepatic metastases in patients with GEP-NETs.\nMETHODS: This prospective observational study enrolled GEP-NETs patients with liver metastases who underwent conventional [⁶⁸Ga]Ga-DOTATATE PET/CT followed by delayed PET/MR of the upper abdomen on the same day. The final status of all identified lesions was defined by a composite reference standard integrating histopathology, clinical follow-up, and contrast-enhanced MRI findings. Lesion detection rates, maximum standardized uptake value (SUVmax), target-to-background ratio (TBR), sensitivity, specificity, and accuracy were compared between the two modalities.\nRESULTS: 46 patients (mean age 56.4 ± 12.9 years, 18 males and 28 females) were included. A total of 542 liver metastases were identified, with PET/CT detecting 368 (67.9%) lesions and delayed PET/MR contributing an additional 146 (94.8%) lesions. For matched lesions, SUVmax and TBR values showed no statistically significant differences between PET/CT and delayed PET/MR imaging (17.2 ± 11.0 vs. 16.4 ± 10.8, P = 0.746; 4.1 ± 3.6 vs. 4.0 ± 2.8, P = 0.178, respectively). For additional lesions detected on delayed PET/MR, 54 high-uptake liver metastases were identified (mean diameter 4.7 ± 1.9 mm; SUVmax 9.1 ± 2.2), along with 92 non-uptake lesions (mean diameter 5.5 ± 2.3 mm; Z = - 2.149, P = 0.0315). The sensitivity, specificity and accuracy between conventional PET/CT and delayed PET/MR were (65.9% vs. 92.4%, P < 0.001), (59.3% vs. 51.9%, P = 0.77) and (65.6% vs.90.5%, P < 0.001), respectively.\nCONCLUSION: Delayed [68Ga]Ga-DOTATATE PET/MR with an optimized acquisition protocol improved liver metastasis detection in GEP-NETs compared with conventional PET/CT. Combining PET/CT with delayed PET/MR provides a complementary strategy for hepatic staging in selected clinical settings.",
+ "authors": [
+  "Lin Z",
+  "Ma S",
+  "Chen S",
+  "Zhang J",
+  "Wu Z",
+  "Miao W"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42972535",
+ "importance": 0.54,
+ "key_points_ko": [
+  "총 46명의 환자에서 542개의 간 전이 병변이 확인되었습니다.",
+  "기존 PET/CT는 368개(67.9%)의 병변을 발견한 반면, 지연 PET/MR은 추가로 146개의 병변을 발견했습니다.",
+  "민감도는 기존 PET/CT 65.9%에서 지연 PET/MR 92.4%로 유의하게 향상되었습니다(P<0.001).",
+  "정확도 역시 기존 PET/CT 65.6%에서 지연 PET/MR 90.5%로 향상되었습니다(P<0.001)."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1186/s12880-026-02641-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42972535"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-07-31",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Med Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42972535/"
+ },
+ "summary_ko": "이 연구는 위장관·췌장 신경내분비종양(GEP-NET) 환자들을 대상으로 기존의 [68Ga]Ga-DOTATATE PET/CT와 지연 [68Ga]Ga-DOTATATE PET/MR의 간 전이 병변 진단 성능을 비교하기 위한 전향적 관찰 연구입니다. 총 46명의 환자로부터 542개의 간 전이 병변이 확인되었습니다. 연구 결과, 지연 PET/MR은 기존 PET/CT에 비해 더 많은 간 전이 병변을 발견하여 민감도와 정확도를 유의하게 향상시켰습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Incremental value of delayed [68Ga]Ga-DOTATATE PET/MR in the detection of liver metastases from gastroenteropancreatic neuroendocrine tumors",
+ "title_ko": "위장관·췌장 신경내분비종양의 간 전이 진단에서 지연 [68Ga]Ga-DOTATATE PET/MR의 추가적 가치",
+ "trial": null,
+ "type": "paper"
+}

@@ -36,7 +36,7 @@ search:
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [CLDN18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 위한 화학요법과 병용한 ANO31905 1/2상 임…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
-| [mFOLFIRINOX 또는 NALIRIFOX 항암화학요법과 setidegrasib 병용 투여의 효과 및 안전성을 평가하기 위…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
+| [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [진행성 췌장암 환자의 암 악액질 치료를 위한 나노결정 메게스트롤 아세테이트 임상시험](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 종양치료전자기장(TTFields)과 화학요법(modFOLFIRINOX) 병용 임상시험](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
@@ -94,8 +94,24 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (15)
+## 타임라인 (16)
 
+<a id="pmid-42971953"></a>
+#### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
+<small>Sitagliptin, a repurposed diabetes drug, overcomes gemcitabine resistance in pancreatic cancer via ribonucleotide reductase inhibition: SITGEM-CARE phase 2 trial</small>
+
+`논문` `2상` `신약·치료제` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-03 · PubMed · Signal Transduct Target Ther · 중요도 0.86
+
+인공지능(AI) 기반 약물 재창출 연구를 통해 당뇨병 치료제인 sitagliptin(시타글립틴)이 젬시타빈 저항성을 극복하는 리보뉴클레오티드 환원효소(RRM1/2) 억제제로 발굴되었습니다. 국소 진행성 또는 전이성 췌장암 환자 22명을 대상으로 진행된 SITGEM-CARE 2상 임상시험에서 sitagliptin과 gemcitabine(젬시타빈)+nab-paclitaxel(냅-팍리탁셀) 병용요법을 투여했습니다. 그 결과 객관적 반응률(ORR) 36.4%, 질병 통제율(DCR) 86.4%를 달성했습니다. 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월이었으며 4등급 이상의 치료 관련 부작용은 관찰되지 않았습니다.
+
+- 국소 진행성 또는 전이성 췌장암 환자 22명에게 sitagliptin과 gemcitabine+nab-paclitaxel 병용요법을 투여했습니다.
+- 객관적 반응률(ORR)은 36.4%, 질병 통제율(DCR)은 86.4%였으며 환자의 86.4%에서 종양 크기 감소가 확인되었습니다.
+- 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월(12개월 생존율 62.9%)이었습니다.
+- 4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
+
+---
 <a id="pmid-42970668"></a>
 #### [경계성 수술 가능 및 국소 진행성 췌장암 환자를 위한 면역항암화학요법: 무작위 대조 임상시험](https://pubmed.ncbi.nlm.nih.gov/42970668/)
 <small>Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial</small>

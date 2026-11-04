@@ -20,8 +20,8 @@ search:
 | [adagrasib](adagrasib.md) | 약물 | 1 | 2026-10-17 |
 | [olaparib](olaparib.md) | 약물 | 7 | 2026-10-29 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 27 | 2026-10-30 |
-| [FOLFIRINOX](folfirinox.md) | 요법 | 87 | 2026-11-03 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 116 | 2026-10-31 |
+| [FOLFIRINOX](folfirinox.md) | 요법 | 88 | 2026-11-04 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 118 | 2026-11-04 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
 | [zolbetuximab](zolbetuximab.md) | 약물 | 2 | 2026-10-18 |
 | [Whipple](whipple.md) | 시술·수술 | 29 | 2026-11-03 |

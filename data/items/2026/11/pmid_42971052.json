@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is characterized by inflammatory signaling and metabolic adaptation within the tumor microenvironment. We integrated bulk and single-cell transcriptomic datasets to characterize inflammation-associated metabolic programs in PDAC.\nMETHODS: Three public PDAC datasets were analyzed: TCGA-PAAD bulk RNA-seq data, GSE62452 tumor and adjacent tissue microarray data, and GSE154778 single-cell RNA-seq data from primary and metastatic PDAC. Kynurenine-, arachidonic acid-, inflammasome-, and glutamine-related transcriptional modules were evaluated. Cell-based qRT-PCR was used to validate selected inflammatory-metabolic genes after 48 h of cytokine stimulation.\nRESULTS: In GSE62452, 5985 of 33,297 probes were differentially expressed between tumor and adjacent tissues, including 3701 increased and 2284 decreased probes. Among selected targets, KYNU showed the largest increase. In 60 matched pairs, IDO1, KYNU, PTGS2, and PLA2G4A were significantly elevated in tumor tissues. Analysis of 14,926 single cells showed that myeloid cells had the highest mean scores across all four inflammatory-metabolic modules. Bulk expression patterns were positively associated across datasets (Spearman ρ=0.745, P = 0.0133). qRT-PCR further demonstrated cytokine-induced expression of selected inflammatory-metabolic genes.\nCONCLUSIONS: Integrated bulk and single-cell analyses identify inflammation-associated metabolic transcriptional programs in PDAC, with prominent activity in myeloid cells. These findings provide a transcriptomic framework for future mechanistic and multi-omic validation rather than direct evidence of metabolic flux or clinical utility.",
+ "authors": [
+  "Zhou M",
+  "Wang G",
+  "Li Y",
+  "Lu W",
+  "Wang B",
+  "Fan X",
+  "Sun Y",
+  "Wang C"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42971052",
+ "importance": 0.64,
+ "key_points_ko": [
+  "종양 조직과 인접 조직의 비교 분석 결과 IDO1, KYNU, PTGS2, PLA2G4A 유전자가 종양 조직에서 유의하게 증가했습니다.",
+  "14,926개의 단일 세포 분석 결과, 골수성 세포가 평가된 4개 염증-대사 모듈 모두에서 가장 높은 활성 점수를 보였습니다.",
+  "48시간 동안의 사이토카인 자극 세포 실험을 통해 주요 염증-대사 유전자의 발현 유도를 추가 검증했습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1016/j.tranon.2026.103087",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42971052"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Transl Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971052/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)의 종양 미세환경 내 염증 신호 전달과 대사 적응 특성을 규명하기 위해 수행되었습니다. 공개된 3개의 전사체 데이터셋(TCGA-PAAD, GSE62452, GSE154778) 분석과 세포 실험을 통합하여 염증-대사 관련 전사 모듈을 평가했습니다. 분석 결과, 종양 조직에서 IDO1, KYNU 등 주요 유전자 발현이 유의하게 증가했으며 특히 골수성 세포(myeloid cells)에서 해당 프로그램의 활성이 가장 두드러졌습니다. 본 연구는 췌장암의 염증성 대사 경로를 이해하기 위한 전사체적 기틀을 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Integrated bulk and single-cell transcriptomic analysis reveals inflammatory metabolic programs in pancreatic ductal adenocarcinoma",
+ "title_ko": "벌크 및 단일 세포 전사체 통합 분석을 통해 밝혀낸 췌장관선암의 염증성 대사 프로그램",
+ "trial": null,
+ "type": "paper"
+}

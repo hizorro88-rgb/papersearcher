@@ -1,0 +1,61 @@
+{
+ "abstract": "OBJECTIVES: Shared decision-making (SDM) is essential in pancreatic cancer care, where treatment decisions are complex and preference-sensitive. However, the relationship between patient experiences of SDM and observer-rated SDM remains unclear in the context of pancreatic cancer. This study aimed to examine the association between patient-reported and observer-rated SDM in the treatment decision for pancreatic cancer.\nMETHODS: In this cross-sectional study at a tertiary hospital in the Netherlands, patients with non-metastatic pancreatic or periampullary cancer participated in audio-recorded surgical consultations. Patient-reported experiences of SDM were assessed using the SDM-Q-9 and CollaboRATE questionnaires, while observed SDM was rated using the OPTION-5 instrument by two trained researchers. All scores were standardized to a 0-100 scale. Correlations between measures were analysed using Spearman's rho.\nRESULTS: A total of 33 patients (median age 70 years; 36% male) were included in the final analysis. Median patient-reported experiences of SDM were high (SDM-Q-9: 88.9 [IQR 62.2-97.8]; CollaboRATE: 100 [IQR 88.9-100]), whereas the observed OPTION-5 score was lower (40 [IQR 32.5-55]). The association between SDM-Q-9 and OPTION-5 was negligible (ρ = 0.15), whereas the association between CollaboRATE and OPTION-5 was low (ρ = 0.34).\nCONCLUSIONS: Patient-reported SDM was high, whereas observer-rated SDM scores were moderate. The limited associations between patient-reported and observer-rated SDM suggest that these measures capture different aspects of the decision-making process.\nPRACTICAL IMPLICATIONS: Combining patient-reported and observer-rated measures may provide complementary information when evaluating SDM in pancreatic cancer care.",
+ "authors": [
+  "van Broekhoven JFAG",
+  "Emond YJJM",
+  "Mulder S",
+  "Hermens R",
+  "van der Kolk M",
+  "van der Wees P"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42970965",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 33명의 환자(중앙값 연령 70세, 남성 36%)가 최종 분석에 포함되었습니다.",
+  "환자 보고형 SDM 중앙값은 SDM-Q-9 88.9점, CollaboRATE 100점으로 높았습니다.",
+  "관찰형 OPTION-5 점수 중앙값은 40점으로 낮았습니다.",
+  "환자 보고형 점수와 관찰형 점수 간의 상관관계는 미미하거나(ρ = 0.15) 낮았습니다(ρ = 0.34)."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1016/j.pec.2026.110367",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42970965"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Patient Educ Couns",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42970965/"
+ },
+ "summary_ko": "이 연구는 췌장암 치료에서 환자가 체감하는 공동 의사결정(SDM)과 연구자가 관찰한 SDM 사이의 연관성을 조사했습니다. 네덜란드의 3차 병원에서 비전이성 췌장암 또는 팽대부암 환자 33명을 대상으로 수술 상담 녹음과 설문조사를 진행했습니다. 환자 보고형 SDM 점수는 매우 높았던 반면, 연구자가 관찰한 OPTION-5 점수는 상대적으로 낮았습니다. 두 측정 방식 간의 연관성은 미미하거나 낮아, 서로 다른 측면을 포착하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "How do patient-reported and observed measures of shared decision-making compare in pancreatic cancer care? Insights from a cross-sectional study",
+ "title_ko": "췌장암 진료에서 환자 보고형 공동 의사결정과 관찰형 공동 의사결정의 비교: 단면 연구 결과",
+ "trial": null,
+ "type": "paper"
+}

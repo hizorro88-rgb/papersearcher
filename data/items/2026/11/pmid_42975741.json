@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic adenocarcinoma (PDAC) is an aggressive cancer. Oxidative DNA repair and carcinogen metabolism pathways have been implicated in pancreatic carcinogenesis. This study investigated the association between the OGG1 rs1052133 and CYP1A1 rs1048943 polymorphisms and PDAC susceptibility and prognosis among Egyptian patients.\nMETHODS AND RESULTS: This case-control study enrolled 80 patients with PDAC and 80 matched controls at Menofia University. Genotyping of OGG1 rs1052133 and CYP1A1 rs1048943 was performed. Associations with disease susceptibility, clinicopathological characteristics, and overall survival were analyzed. Smoking, positive family history, and higher BMI were significantly associated with PDAC. The OGG1 rs1052133 GG genotype was more frequent among patients than controls (11.3% vs. 2.5%; OR = 6.20, p = 0.024), while the G allele was associated with increased disease risk (OR = 2.00, p = 0.008). CYP1A1 rs1048943 TC genotype carriers showed a significantly increased risk of PDAC (OR = 3.24, p = 0.021), and the C allele was significantly overrepresented among patients (OR = 3.35, p = 0.004). OGG1 rs1052133 was associated with advanced TNM stage and progressive disease course. CYP1A1 rs1048943 was significantly associated with mortality and remained an independent predictor of mortality in multivariable Cox regression analysis (adjusted HR = 2.038, 95% CI: 1.037-4.005, p = 0.039). Haplotype analysis revealed significant differences between patients and controls, with the GC haplotype being more frequent among patients.\nCONCLUSION: OGG1 rs1052133 and CYP1A1 rs1048943 polymorphisms are associated with PDAC susceptibility in the studied Egyptian population, with CYP1A1 rs1048943 potentially serving as an independent prognostic marker for mortality.",
+ "authors": [
+  "Shabaik SA",
+  "Badr EA",
+  "Kishk FNM",
+  "Aish EH",
+  "El Sayed IET"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42975741",
+ "importance": 0.77,
+ "key_points_ko": [
+  "OGG1 rs1052133 GG 유전자형은 환자군에서 11.3%, 대조군에서 2.5%로 관찰되었으며 발병 위험 증가와 연관되었습니다(오즈비(OR)=6.20, p=0.024).",
+  "CYP1A1 rs1048943 TC 유전자형은 췌장 선암 위험을 유의하게 증가시켰으며(오즈비(OR)=3.24, p=0.021), C 대립유전자도 환자군에서 유의하게 높게 나타났습니다(오즈비(OR)=3.35, p=0.004).",
+  "다변수 콕스 회귀 분석에서 CYP1A1 rs1048943은 사망에 대한 독립적인 예측 인자였습니다(조정된 위험비(adjusted HR)=2.038, 95% 신뢰구간: 1.037-4.005, p=0.039)."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1007/s11033-026-12978-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42975741"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Biol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42975741/"
+ },
+ "summary_ko": "이 연구는 이집트 환자들을 대상으로 OGG1 rs1052133 및 CYP1A1 rs1048943 유전자 다형성이 췌장 선암(pancreatic adenocarcinoma, PDAC)의 발병 위험과 예후에 미치는 영향을 조사했습니다. 췌장 선암 환자 80명과 대조군 80명을 대상으로 유전자형 분석을 진행했습니다. OGG1 rs1052133 GG 유전자형과 G 대립유전자, 그리고 CYP1A1 rs1048943 TC 유전자형과 C 대립유전자가 췌장 선암 발병 위험 증가와 유의한 연관성을 보였습니다. 또한 CYP1A1 rs1048943은 사망에 대한 독립적인 예후 예측 인자로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association of 8 -oxoguanine DNA glycosylase (OGG1) and cytochrome P450 (CYP1A1) polymorphisms with pancreatic adenocarcinoma",
+ "title_ko": "8-옥소구아닌 DNA 글리코실라제(OGG1) 및 시토크롬 P450(CYP1A1) 다형성과 췌장 선암의 연관성",
+ "trial": null,
+ "type": "paper"
+}

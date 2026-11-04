@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy, frequently diagnosed at an advanced stage. While systemic chemotherapy is the standard of care for metastatic disease, clinical outcomes vary considerably among patients. Oligo-recurrence, limited metachronous metastasis potentially suitable for aggressive local treatment, has emerged as a clinically relevant concept associated with prolonged survival in selected patients, while the prognostic significance of synchronous oligometastasis, limited metastatic disease present at initial diagnosis, remains poorly characterized in PDAC.",
+ "authors": [
+  "Tsunematsu M",
+  "Haruki K",
+  "Yanagaki M",
+  "Shirai Y",
+  "Hamura R",
+  "Yamahata Y",
+  "Taniai T",
+  "Kobayashi H"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42972898",
+ "importance": 0.73,
+ "key_points_ko": [
+  "췌관선암(pancreatic ductal adenocarcinoma)은 진행된 단계에서 자주 진단되는 매우 치명적인 악성 종양입니다.",
+  "전이성 질환의 표준 치료는 전신 항암 화학요법이지만 환자 간 임상 결과는 크게 다릅니다.",
+  "초기 진단 시 존재하는 동시성 소전이(synchronous oligometastasis)의 예후적 중요성은 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1002/wjs.70666",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42972898"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "World J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42972898/"
+ },
+ "summary_ko": "이 연구는 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자를 대상으로 동시성 전이성 췌장암에서 간 전이 개수의 예후적 의미를 분석했습니다. 전신 항암 화학요법이 표준 치료이지만 환자마다 임상적 결과는 다양합니다. 초기 진단 시 제한된 전이 상태인 동시성 소전이(synchronous oligometastasis)의 예후적 중요성은 아직 잘 규명되지 않았습니다. 초록에 구체적인 생존기간, 환자 수, 위험비 등의 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Number of Liver Metastases Stratifies Prognosis in Synchronous Metastatic Pancreatic Cancer",
+ "title_ko": "동시성 전이성 췌장암에서 간 전이 개수에 따른 예후 층화",
+ "trial": null,
+ "type": "paper"
+}

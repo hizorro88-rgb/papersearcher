@@ -1,0 +1,64 @@
+{
+ "abstract": "The incidence of duodenal and pancreatic neuroendocrine tumors (dpNETs) has increased substantially in recent years. These tumors may be due to syndromic hereditary predisposition syndromes: multiple endocrine neoplasia type 1 (MEN1) or 4 (MEN4), Von Hippel-Lindau disease (VHL), neurofibromatosis type 1 (NF1), or tuberous sclerosis complex (TSC). Because a dpNET may be the first MEN1 sign, recent guidelines recommend MEN1 genetic testing in selected patients with an isolated dpNET. Whether similar genetic testing strategies should be extended to other hereditary syndromes remains unknown. We conducted a retrospective analysis of the genetic and clinical data of patients who underwent genetic testing for isolated or syndromic dpNETs. We assessed the presence of (likely) pathogenic variants ((L)PVs) in MEN1, NF1, VHL, CDKN1B, TSC1, and TSC2. 410 patients were included: 301 with isolated (=non syndromic) dpNETs and 109 with syndromic dpNETs. Among them, 38 carried a (L)PV, most frequently in MEN1 (n = 27 patients), followed by NF1 (n = 8) and VHL (n = 3). No TSC1, TSC2, or CDKN1B (L)PVs were found. Patients with syndromic dpNETs exhibited significantly higher positive rates (29.4%) compared to isolated dpNETs (<2%). We confirm that MEN1 is the predominant gene underlying predisposition to dpNETs. The low diagnostic yield in isolated dpNETs supports a clinically stratified genetic testing strategy. Clinical evaluation should systematically assess for signs of MEN1, MEN4, VHL, NF1, or TSC to inform appropriate genetic testing and maximize diagnostic yield. Concerning MEN1, we propose limiting extended genetic testing in patients with isolated dpNETs to those with (i) gastrinoma, (ii) multiple dpNETs, or (iii) diagnosis before 40 years of age.",
+ "authors": [
+  "Charnay T",
+  "Giannetti C",
+  "Sahakian N",
+  "Haissaguerre M",
+  "Oziel-Taieb S",
+  "Mari V",
+  "Gilly O",
+  "Vital P"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42971718",
+ "importance": 0.64,
+ "key_points_ko": [
+  "신경내분비종양 환자 410명 중 38명에서 유전자 변이가 확인되었으며 MEN1 변이가 27명으로 가장 많았습니다.",
+  "증후군성 환자군의 유전자 변이 발견율(29.4%)은 단독성 환자군(<2%)에 비해 유의하게 높았습니다.",
+  "단독성 종양 환자 중 가스트린종, 다발성 종양, 40세 미만 발병에 한해 선별적으로 MEN1 검사를 권장했습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1111/jne.70305",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42971718"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Neuroendocrinol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971718/"
+ },
+ "summary_ko": "십이지장 및 췌장 신경내분비종양(dpNETs) 환자 410명을 대상으로 유전적 변이 특성을 후향적으로 분석한 연구입니다. 증후군성 종양 환자군에서는 유전자 변이 발견율이 29.4%였으나 단독성 종양 환자군에서는 2% 미만으로 낮게 나타났습니다. 유전성 원인 중 다발성 내분비선종증 1형(MEN1) 유전자 변이가 가장 흔하게 관찰되었습니다. 연구진은 증상 없는 단독성 종양 환자 전원보다는 가스트린종, 다발성 종양, 40세 이전 진단 환자에 한해 MEN1 유전자 검사를 시행할 것을 제안했습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Genetic testing considerations for hereditary duodenopancreatic neuroendocrine tumors",
+ "title_ko": "유전성 십이지장·췌장 신경내분비종양에 대한 유전자 검사 고려사항",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Extensive desmoplastic remodeling in pancreatic ductal adenocarcinoma (PDAC) limits the intratumoral access of therapeutic agents and contributes to treatment resistance. Here, we investigated the stromal uptake preference, fibrosis-modulating activity, and siRNA-loading capacity of human pancreatic stellate cell-derived exosomes (HPSC-Exos). HPSC-Exos were recovered through sequential centrifugation steps ending with ultracentrifugation. Nanoparticle tracking analysis (NTA) placed most detected particles within the 100-150 nm range, whereas immunoblotting identified CD9, CD81, and TSG101, but not Calnexin. Flow cytometry and confocal microscopy showed greater HPSC-Exo-associated fluorescence in cancer-associated fibroblasts (CAFs) than in PANC-1 and HEK-293T cells. Integrin αv and integrin β1 were detected in HPSC-Exo preparations, and RGD peptide competition reduced CAF uptake, supporting RGD-sensitive, integrin-associated interactions. Unloaded HPSC-Exos reduced fibrosis-associated protein expression and produced concentration-associated decreases in FAP, α-SMA, fibronectin, COL1A1, and COL3A1 mRNA levels by approximately 30-51% at 40 μg/mL. CAF wound closure at 24 h was reduced by approximately 68.6% and 81.7% following treatment with 20 and 40 μg/mL HPSC-Exos, respectively, relative to untreated controls. No significant reduction in the metabolic viability of HPSCs, HEK-293 T cells, or CAFs was observed at concentrations up to 80 μg/mL. Additionally, chemically modified siRNA directed against GLI2 (siGLI2) was incorporated into HPSC-Exos by electroporation, and the loaded preparations retained a predominantly nanoscale size distribution and CAF uptake comparable to unloaded HPSC-Exos. Collectively, HPSC-Exos exhibit preferential CAF-associated uptake and intrinsic modulation of fibrosis-associated phenotypes in vitro, while also supporting siRNA loading, providing a biological platform for further investigation in the PDAC stromal microenvironment.",
+ "authors": [
+  "Zhao R",
+  "Shi S",
+  "Zang W",
+  "Wang J",
+  "Xing H",
+  "Huang Y",
+  "Lu M"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42975849",
+ "importance": 0.61,
+ "key_points_ko": [
+  "HPSC-Exos는 다른 세포에 비해 암 관련 섬유아세포(CAFs)에 더 많이 흡수되었습니다.",
+  "40 μg/mL 농도의 HPSC-Exos 처리는 FAP, α-SMA, fibronectin, COL1A1, COL3A1 mRNA 수준을 약 30~51% 감소시켰습니다.",
+  "20 및 40 μg/mL 농도의 HPSC-Exos 처리는 24시간 동안 CAF 상처 치유를 각각 68.6% 및 81.7% 감소시켰습니다.",
+  "HPSC-Exos는 siRNA를 탑재할 수 있으며 탑재 후에도 나노 크기와 세포 흡수 특성을 유지했습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1007/s13577-026-01466-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42975849"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hum Cell",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42975849/"
+ },
+ "summary_ko": "이 연구는 췌장관선암(PDAC)의 기질 미세환경을 개선하기 위해 인간 췌장 성상세포 유래 엑소좀(HPSC-Exos)의 특성을 조사했습니다. HPSC-Exos는 암 관련 섬유아세포(CAFs)에 우선적으로 흡수되었으며, 이는 인테그린(integrin) 상호작용을 통해 이루어졌습니다. 약물이 탑재되지 않은 HPSC-Exos는 섬유화 관련 단백질 발현과 mRNA 수준을 30~51% 감소시켰습니다. 또한 24시간 시점에서의 CAF 상처 치유를 20 및 40 μg/mL 농도에서 각각 68.6% 및 81.7% 감소시켰습니다. 추가로 화학적으로 변형된 siRNA를 전기천공법을 통해 성공적으로 탑재할 수 있음을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Homotypic targeting and fibrosis modulation by human pancreatic stellate cell-derived exosomes",
+ "title_ko": "인간 췌장 성상세포 유래 엑소좀을 통한 동종 표적화 및 섬유화 조절",
+ "trial": null,
+ "type": "paper"
+}

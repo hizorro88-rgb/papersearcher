@@ -1,0 +1,63 @@
+{
+ "abstract": "KRAS inhibitors represent a promising therapeutic frontier in pancreatic ductal adenocarcinoma (PDAC) treatment. However, the clinical benefit of KRAS inhibitors in PDAC is limited by the frequent emergence of resistance. Here, we demonstrated that acquisition of resistance to KRAS inhibitors rendered PDAC cells hypersensitive to ferroptosis. Untargeted lipidomic profiling revealed that resistant cells underwent extensive lipid metabolic reprogramming characterized by selective enrichment of polyunsaturated fatty acid-containing phosphatidylcholines (PC-PUFAs) and a concomitant reduction in monounsaturated fatty acid-containing species (PC-MUFAs). The orphan nuclear receptor NR2F2 was a critical determinant of ferroptosis sensitivity in resistant cells. NR2F2 expression was markedly elevated upon acquisition of resistance, accompanied by substantial changes in its occupancy at regulatory elements of key lipid metabolic genes. By altering chromatin accessibility, NR2F2 drove PUFA biosynthesis and phospholipid remodeling, creating a ferroptosis-prone lipid state. Collectively, these findings establish NR2F2-driven lipid metabolic rewiring as an intrinsic ferroptosis liability in KRAS inhibitor-resistant PDAC and reveal ferroptosis induction as a therapeutic strategy to overcome resistance to KRAS-targeted therapies.",
+ "authors": [
+  "Huo S",
+  "Zhao H",
+  "Liu T",
+  "Wang R",
+  "Guo Y",
+  "Hao W",
+  "Fan M",
+  "Zhang Z"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42975513",
+ "importance": 0.64,
+ "key_points_ko": [
+  "KRAS 억제제 저항성 획득은 췌장관선암 세포를 철화사(ferroptosis)에 과민하게 만들었습니다.",
+  "저항성 세포는 지질 대사 재프로그래밍을 통해 PC-PUFA가 선택적으로 증가했습니다.",
+  "핵수용체 NR2F2가 크로마틴 접근성을 변경하여 PUFA 생합성과 인지질 리모델링을 주도했습니다.",
+  "철화사 유도는 KRAS 표적 치료제의 저항성을 극복하는 치료 전략으로 제시되었습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-26-1490",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42975513"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42975513/"
+ },
+ "summary_ko": "이 연구는 췌장관선암(PDAC)에서 KRAS 억제제 저항성 획득이 세포를 철화사(ferroptosis)에 과민하게 만든다는 사실을 규명했습니다. 저항성을 획득한 세포는 지질 대사 재프로그래밍을 거쳐 다가불포화 지방산 함유 포스파티딜콜린(PC-PUFA)이 풍부해졌습니다. 오판 핵수용체(orphan nuclear receptor)인 NR2F2가 발현 증가하여 PUFA 생합성을 유도하고 철화사 취약한 지질 상태를 만들었습니다. 결론적으로 KRAS 억제제 저항성 PDAC에서 철화사 유도가 저항성을 극복하기 위한 치료 전략이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "KRAS Inhibitor Resistance Confers a Targetable Vulnerability to Ferroptosis in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "KRAS 억제제 저항성 췌장관선암에서 철화사(ferroptosis)에 대한 표적 취약성 유발",
+ "trial": null,
+ "type": "paper"
+}

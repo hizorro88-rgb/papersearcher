@@ -37,7 +37,7 @@ search:
 | [국소 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료 병용 임상시험](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
-| [Combination Immunotherapy Plus Standard-of-Care Chemotherapy Versus S…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
+| [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 면역요법(aldoxorubicin HCl, N-803, PD-L…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
 
 ## 타임라인 (5)
 

@@ -1,0 +1,61 @@
+{
+ "abstract": "OBJECTIVE: To develop and validate a noninvasive CT-based imaging score incorporating fractal analysis to predict high-risk pathological features in pancreatic ductal adenocarcinoma (PDAC) and to assess its prognostic value for early recurrence.\nMATERIALS AND METHODS: This retrospective bicenter study included 514 patients with pathologically confirmed PDAC who underwent curative resection, divided into training (n = 219), internal validation (n = 94), external validation (n = 100) and outcome datasets (n = 101). The fractal dimension (FD) and lacunarity were extracted from portal venous-phase CT images via box-counting algorithms. Imaging predictors of high-risk pathological features, including high tumor grade, lymphovascular invasion (LVI) and perineural invasion (PNI), were identified by logistic regression and integrated into a comprehensive weighted imaging score. Cox regression analyses were performed to assess its prognostic value for early recurrence.\nRESULTS: Patients with high-risk pathological features exhibited greater FD and lacunarity. The final score included six imaging features: necrosis, peripancreatic fat infiltration, venous involvement, regional lymphadenopathy, FD and lacunarity. For any high-risk pathology, the fractal-integrated score achieved AUC of 0.94, 0.88 and 0.84 in the training, internal validation and external validation datasets, respectively. For high pathological burden, the AUCs were 0.92, 0.80, and 0.77. In the outcome dataset, the score was an independent predictor of early recurrence (HR = 2.71; p = 0.004) and improved prognostic discrimination when combined with pathologic predictors.\nCONCLUSION: This CT-based score, integrating fractal biomarkers, enables accurate, noninvasive preoperative prediction of aggressive pathological features in PDAC and provides incremental value for early recurrence risk stratification.\nKEY POINTS: Question Can the fractal-based imaging features be used to predict high-risk pathological features and guide risk stratification for early recurrence in pancreatic ductal adenocarcinoma (PDAC)? Findings This CT-based score integrating fractal analysis predicted high-risk pathological features and was independent predictors of early recurrence and provided incremental prognostic value beyond pathologic factors. Clinical relevance This CT-based imaging score may help identify patients at high-risk of aggressive pathology before surgery and may further complement postoperative pathological risk stratification for early recurrence.",
+ "authors": [
+  "Zhu J",
+  "Yu H",
+  "Ren W",
+  "Zhang Y",
+  "Song B",
+  "Huang Z"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42975706",
+ "importance": 0.77,
+ "key_points_ko": [
+  "프랙탈 통합 CT 점수는 고위험 병리적 특징 예측에서 높은 정확도(AUC 0.84~0.94)를 보였습니다.",
+  "해당 CT 점수는 수술 후 조기 재발의 독립적인 예측 인자로 확인되었습니다(위험비 2.71, p=0.004).",
+  "괴사, 췌장 주변 지방 침윤, 정맥 침범, 림프절 비대, 프랙탈 차원(FD), 빈자리(lacunarity) 등 6가지 지표가 수술 전 암의 악성도 평가에 활용되었습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1007/s00330-026-12992-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42975706"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42975706/"
+ },
+ "summary_ko": "췌장관선암(PDAC) 환자를 대상으로 프랙탈 분석을 결합한 비침습적 CT 기반 영상 점수를 개발하고 검증한 연구입니다. 근치적 절제술을 받은 췌장암 환자 514명의 CT 이미지를 분석하여 병리적 악성도와 조기 재발 위험을 평가했습니다. 분석 결과 프랙탈 지표를 포함한 6가지 영상 특징 점수가 고위험 병리 특성을 우수하게 예측했습니다. 또한 이 CT 점수는 수술 후 조기 재발을 예측하는 독립적인 지표임을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A fractal-integrated CT score predicts high-risk pathology and early recurrence in pancreatic ductal adenocarcinoma",
+ "title_ko": "프랙탈 통합 CT 점수를 통한 췌장관선암의 고위험 병리적 특징 및 조기 재발 예측",
+ "trial": null,
+ "type": "paper"
+}

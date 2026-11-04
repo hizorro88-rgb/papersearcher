@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer has one of the highest incidences of cancer-associated cachexia, a multi-organ wasting syndrome driven by complex tumor-host interactions. Although adipose tissue functions as an active endocrine organ contributing to systemic inflammation, the mechanisms linking adipose inflammation to skeletal muscle wasting remain incompletely understood.\nMETHODS: An orthotopic pancreatic tumor mouse model was combined with pharmacological P2Y6R inhibition using MRS2578. Cachexia-associated targets were identified by transcriptomic analysis of mouse datasets, and P2Y6R function was examined in vitro cancer-associated adipocyte (CAA) and C2C12 myotube models.\nRESULTS: Transcriptomic analysis identified P2Y6R as a cachexia-associated gene, with expression selectively upregulated in visceral adipose tissue and CAAs under pancreatic cancer conditions. In contrast, P2Y6R expression was minimal in skeletal muscle and comparatively low in tumor tissue. In the orthotopic model, pharmacological inhibition of P2Y6R with MRS2578, initiated before overt weight loss, attenuated body weight loss. This was accompanied by reduced serum IL-6 and IL-1β levels (IL-1β at 3 mg/kg only) and decreased expression of the atrogenes mRNA expression in skeletal muscle. In vitro, conditioned medium from CAAs suppressed myotube differentiation, whereas P2ry6 knockdown in adipocytes attenuated this effect. Mechanistically, the P2Y6R-dependent secretome of cancer-associated adipocytes was associated with increased atrogene expression and altered FOXO3 phosphorylation in myotubes.\nCONCLUSIONS: Our findings indicate that P2Y6R is associated with adipose inflammation and muscle wasting in pancreatic cancer cachexia, and that pharmacological P2Y6R inhibition attenuates cachexia progression in a preventive setting. These results suggest a potential contribution of adipocyte P2Y6R to adipose-muscle crosstalk and highlight P2Y6R as a candidate therapeutic target for cancer-associated muscle loss.",
+ "authors": [
+  "Kim J",
+  "Chae J",
+  "Choi J"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-04",
+ "history": [
+  {
+   "date": "2026-11-04",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42971279",
+ "importance": 0.61,
+ "key_points_ko": [
+  "P2Y6R은 췌장암 환경의 내장 지방 조직과 암 관련 지방세포에서 선택적으로 발현이 증가했습니다.",
+  "MRS2578을 이용한 P2Y6R 억제는 체중 감소를 완화하고 혈청 IL-6 및 IL-1β 수준을 낮추었습니다.",
+  "지방세포의 P2Y6R 억제는 근육 세포의 분화 억제 효과를 완화했습니다."
+ ],
+ "last_updated": "2026-11-04",
+ "links": {
+  "doi": "10.1016/j.lfs.2026.124757",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42971279"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Life Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971279/"
+ },
+ "summary_ko": "췌장암 악액질(cachexia) 마우스 모델과 세포 실험을 통해 P2Y6R의 역할을 조사했습니다. 연구 결과, P2Y6R은 내장 지방 조직과 암 관련 지방세포(CAA)에서 과발현되었습니다. 약물인 MRS2578을 이용해 P2Y6R을 억제했을 때 체중 감소가 완화되고 혈청 염증성 사이토카인이 감소했습니다. 본 연구는 P2Y6R이 지방-근육 간의 상호작용에 기여하며 암 관련 근육 소모의 치료靶점(target)이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "P2Y6R is associated with adipose inflammation and muscle wasting in pancreatic cancer cachexia",
+ "title_ko": "P2Y6R는 췌장암 악액질에서 지방 조직 염증 및 근육 소모와 연관되어 있습니다",
+ "trial": null,
+ "type": "paper"
+}
