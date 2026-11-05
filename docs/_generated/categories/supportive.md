@@ -16,12 +16,29 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 147건 · 최근 30일 147건
+전체 152건 · 최근 30일 152건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct05451043"></a>
+#### [진행성 간췌담도암 환자를 위한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상 임상시험](https://clinicaltrials.gov/study/NCT05451043)
+<small>Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2022-07-11 · ClinicalTrials.gov · AHS Cancer Control Alberta · 중요도 0.97
+
+**NCT05451043** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05451043.md)
+
+본 임상시험은 진행성 췌장암, 간세포암, 담도암 환자를 대상으로 면역항암제 durvalumab(두르발루맙)과 tremelimumab(트레멜리무맙), 베타차단제 propranolol(프로프라놀롤), 그리고 항암화학요법을 함께 투여하는 단일군 2상 연구입니다. 췌장암 코호트에서는 durvalumab, gemcitabine(젬시타빈), nab-paclitaxel(나브-파클리탁셀), propranolol 및 tremelimumab을 병용합니다. 총 목표 인원은 15명이며, 현재 대상자 모집은 종료된 상태입니다.
+
+- 진행성 췌장암, 간세포암, 담도암 환자를 대상으로 한 2상 임상시험입니다.
+- 면역항암제(durvalumab, tremelimumab), 베타차단제(propranolol), 항암화학요법의 병용 치료를 평가합니다.
+- 총 목표 인원은 15명이며, 국내 기관은 포함되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
+
+---
 <a id="pmid-42971953"></a>
 #### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
 <small>Sitagliptin, a repurposed diabetes drug, overcomes gemcitabine resistance in pancreatic cancer via ribonucleotide reductase inhibition: SITGEM-CARE phase 2 trial</small>
@@ -35,7 +52,22 @@ search:
 - 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월(12개월 생존율 62.9%)이었습니다.
 - 4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13728121/) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
+
+---
+<a id="pmid-42980922"></a>
+#### [재발성 췌장관선암 수술: 수술 전 CA19-9 및 면역영양 상태를 통한 전체 생존기간 예측](https://pubmed.ncbi.nlm.nih.gov/42980922/)
+<small>Resection for Recurrent Pancreatic Ductal Adenocarcinoma: Preoperative CA19-9 and Host Immunonutritional Status Stratify Overall Survival</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-11-03 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+본 연구는 췌장 절제술 후 재발한 췌장관선암(PDAC) 환자 44명을 대상으로 근치적 절제술의 성과와 예후 인자를 분석했습니다. 연구 결과 수술 후 중앙 생존기간(MST)은 32.9개월이었으며, 재발 부위와 수술 전 수치에 따라 생존기간에 차이를 보였습니다. 수술 전 종양표지자 CA19-9 및 예후영양지수(PNI)가 수술 후 예후를 예측하는 주요 지표로 확인되었습니다.
+
+- 재발성 췌장암 절제술을 받은 환자 44명의 중앙 생존기간은 32.9개월이었으며, 폐 재발 환자의 생존기간(62.4개월)이 가장 길었습니다.
+- 수술 전 CA19-9 100 U/mL 초과(위험비 3.20) 및 PNI 45 미만(위험비 3.89)은 불량한 전체 생존기간의 독립적인 예측 인자였습니다.
+- CA19-9와 PNI를 결합한 위험도 분류에서 저위험군, 중위험군, 고위험군의 중앙 생존기간은 각각 61.7개월, 12.4개월, 8.1개월이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42980922/) · [DOI](https://doi.org/10.1245/s10434-026-20882-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42980922)</small>
 
 ---
 <a id="nct-nct07165132"></a>
@@ -46,12 +78,93 @@ search:
 
 **NCT07165132** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07165132.md)
 
-이 연구는 소모성 수용체(SSTR)를 발현하는 신경내분비종양(NET) 및 기타 고형암 환자를 대상으로 RYZ401의 임상 2상 권장 용량(RP2D)과 최적의 치료 요법을 결정하고, 안전성과 내반성을 특성화하며, 예비 효능을 평가하기 위한 1상 임상시험입니다. 목표 인원은 104명이며, 전이성 또는 국소 진행성 절제 불가능한 환자들을 대상으로 합니다.
+이 임상시험은 SSTR을 발현하는 신경내분비종양(NET) 및 기타 고형암 환자를 대상으로 RYZ401의 임상 2상 권장용량(RP2D)과 최적의 치료법을 결정하고, 안전성과 내인성, 초기 유효성을 평가하기 위해 진행됩니다. 18세 이상의 전이성 또는 국소 진행성 절제 불가능한 환자들이 참여 대상입니다. 목표 인원은 104명이며 현재 환자를 모집 중입니다.
 
-- 목표 환자 수는 104명입니다.
-- 주요 목적은 임상 2상 권장 용량(RP2D) 및 최적 치료 요법 결정, 안전성 및 예비 효능 평가입니다.
+- 연구의 주요 목적은 RYZ401의 임상 2상 권장용량(RP2D)과 최적의 치료 요법을 결정하는 것입니다.
+- 안전성과 내약성, 그리고 초기 유효성을 함께 평가합니다.
+- 목표 환자 수는 총 104명입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07165132) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07165132)</small>
+
+---
+<a id="nct-nct05911243"></a>
+#### [2-4기 위암, 식도암, 췌장암 환자의 식욕과 체중을 위한 이압 요법의 타당성 연구](https://clinicaltrials.gov/study/NCT05911243)
+<small>Feasibility of Auricular Acupressure for Appetite and Weight in Patients With Stage II-IV Gastric, Esophageal, and Pancreatic Cancer</small>
+
+`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2023-06-20 · ClinicalTrials.gov · University of Washington · 중요도 0.71
+
+**NCT05911243** · 해당 없음 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05911243.md)
+
+이 임상시험은 2-4기 위암, 식도암, 췌장암 환자를 대상으로 이압 요법(auricular acupressure)이 식욕 부진(anorexia)과 체중 감소(cachexia)에 미치는 타당성과 수용성을 평가합니다. 환자들은 이압 요법과 표준 치료를 병행하는 군 또는 표준 치료만 받는 군으로 무작위 배정됩니다. 초록에 따르면 이압 요법은 중추신경계를 자극하여 암 관련 증상과 치료 부작용을 개선하는 비침습적 방법입니다. 본 시험의 목표 인원은 3명이며 현재 상태는 종료(TERMINATED)되었습니다.
+
+- 대상 질환은 2-4기 위암, 식도암, 췌장암이며 목표 인원은 3명입니다.
+- 환자들은 이압 요법 병행 군과 표준 치료 단독 군으로 무작위 배정됩니다.
+- 이 연구는 식욕 부진과 체중 감소를 해결하기 위한 이압 요법의 타당성을 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05911243) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05911243)</small>
+
+---
+<a id="nct-nct06069297"></a>
+#### [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](https://clinicaltrials.gov/study/NCT06069297)
+<small>Prehabilitation in Pancreatic Surgery</small>
+
+`임상시험` `기타` `수술` `지지요법·삶의질` `진단·조기발견` · 2023-10-05 · ClinicalTrials.gov · IRCCS San Raffaele · 중요도 0.71
+
+**NCT06069297** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06069297.md)
+
+이 임상시험은 수술이 가능한 국소 췌장암 또는 주위 유두부암 환자를 대상으로 4주간의 다모달 사전 재활(multimodal prehabilitation) 프로그램이 수술 후 이병률, 기능적 및 영양적 상태, 삶의 질에 미치는 영향을 평가합니다. 대상 환자는 1:1로 무작위 배정되어 사전 재활 중재 그룹 또는 대조 그룹으로 나뉩니다. 초록에 따르면 췌장암 환자는 고령, 허약, 영양실조가 흔하므로 수술 전 신체 기능을 개선하는 것이 목표입니다. 목표 인원은 238명이며, 현재 모집이 완료된 상태(ACTIVE_NOT_RECRUITING)입니다.
+
+- 목표 인원은 238명이며, 췌장암 및 주위 유두부암 환자를 대상으로 합니다.
+- 4주간의 운동, 영양, 심리적 중재를 포함하는 다모달 사전 재활(multimodal prehabilitation)의 효과를 평가합니다.
+- 환자는 1:1 비율로 사전 재활 그룹과 대조 그룹(표준 치료)으로 무작위 배정됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06069297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06069297)</small>
+
+---
+<a id="pmid-42978795"></a>
+#### [다중 시퀀스 자기공명영상(MRI)의 2차원 및 3차원 종양 내 이질성 특징을 결합한 머신러닝 모델: 췌관선암에서 신경외 침윤의 정확한 예측](https://pubmed.ncbi.nlm.nih.gov/42978795/)
+<small>Machine learning models integrating 2D and 3D intratumoral heterogeneity features from multi-sequence MRI: accurate prediction of perineural invasion in pancreatic ductal adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `지지요법·삶의질` · 2026-10-20 · PubMed · Front Artif Intell · 중요도 0.70
+
+연구진은 췌관선암(PDAC) 환자의 수술 전 자기공명영상(MRI) 데이터를 활용하여 신경외 침윤(perineural invasion, PNI)을 비침습적으로 예측하는 머신러닝 모델을 개발하고 외부 검증했습니다. 4개 의료기관에서 수술을 받은 환자 205명의 다중 시퀀스 MRI와 임상 특징을 활용하여 종양 내 이질성(intratumoral heterogeneity, ITH) 점수 체계를 구축했습니다. 임상 및 종양 내 이질성 특징을 결합한 모델은 내부 테스트 세트에서 0.907의 곡선 아래 면적(AUC)을 기록했습니다. 또한 두 개의 외부 검증 코호트에서 각각 0.860과 0.869의 AUC를 달성했습니다.
+
+- 임상-종양 내 이질성 결합 모델의 내부 테스트 세트 AUC는 0.907이었습니다.
+- 두 외부 검증 코호트에서의 결합 모델 AUC는 각각 0.860과 0.869였습니다.
+- 연구에는 총 4개 의료기관의 수술 환자 205명이 포함되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42978795/) · [DOI](https://doi.org/10.3389/frai.2026.1975752) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13727598/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42978795)</small>
+
+---
+<a id="pmid-42977648"></a>
+#### [60세 이상 신규 당뇨병 및 체중 감소 또는 췌장염 환자의 췌장암 위험](https://pubmed.ncbi.nlm.nih.gov/42977648/)
+<small>Pancreatic cancer risk in people 60 or over with new-onset diabetes and weight loss or pancreatitis</small>
+
+`논문` `기타` `진단·조기발견` `지지요법·삶의질` · 2026-10-23 · PubMed · Pancreatology · 중요도 0.65
+
+본 연구는 60세 이상이면서 신규 당뇨병(new-onset diabetes)과 체중 감소(weight loss) 또는 췌장염(pancreatitis)을 동반한 환자들의 췌장암(pancreatic cancer) 위험을 분석했습니다. 초록에 명시되지 않음. 초록에 명시되지 않음. 초록에 명시되지 않음.
+
+- 초록에 명시되지 않음.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42977648/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.026) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42977648)</small>
+
+---
+<a id="nct-nct07059884"></a>
+#### [기능 보존과 장애 예방을 위한 원격 기반 운동 프로그램](https://clinicaltrials.gov/study/NCT07059884)
+<small>Distance-Based Exercise to Preserve Function and Prevent Disability</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2025-07-11 · ClinicalTrials.gov · Alliance for Clinical Trials in Oncology · 중요도 0.65
+
+**NCT07059884** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07059884.md)
+
+이 임상시험은 암 치료를 받는 환자들을 대상으로 가상 세션을 통해 자택에서 안전하게 운동 프로그램을 수행할 수 있는지 평가합니다. 항암 치료로 인한 피로와 근력 저하 같은 부작용을 예방하기 위해 원격의료(telehealth)를 활용한 유산소 및 저항 운동을 진행합니다. 연구의 주요 목적은 항암화학요법(chemotherapy)을 받는 다양한 암 환자군에서 원격 운동 중재 임상시험의 타당성을 확립하는 것입니다. 췌장암을 포함한 여러 고형암 환자 중 완치 목적의 외래 항암화학요법을 시작하는 환자들이 참여 대상입니다.
+
+- 환자들은 원격의료(telehealth) 화상 통화를 통해 주 2회의 감독하에 이루어지는 저항 운동 및 유산소 운동 프로그램에 참여합니다.
+- 1차 목적은 항암화학요법(chemotherapy)을 받는 다양한 암 환자 코호트에서 가상 운동 중재 임상시험의 타당성을 확립하는 것입니다.
+- 이동 거리와 관계없이 자택에서 운동을 수행하며, 6분 보행 검사(6-Minute Walk Test, 6MWT) 거리 및 악력 등의 변화를 평가합니다.
+- 목표 인원은 104명이며, 전이가 없는 암 환자를 대상으로 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07059884) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07059884)</small>
 
 ---
 <a id="pmid-42970965"></a>
@@ -68,23 +181,6 @@ search:
 - 환자 보고형 점수와 관찰형 점수 간의 상관관계는 미미하거나(ρ = 0.15) 낮았습니다(ρ = 0.34).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970965/) · [DOI](https://doi.org/10.1016/j.pec.2026.110367) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970965)</small>
-
----
-<a id="nct-nct05911243"></a>
-#### [2~4기 위암, 식도암 및 췌장암 환자의 식욕과 체중에 대한 이비 지압법의 실행 가능성 연구](https://clinicaltrials.gov/study/NCT05911243)
-<small>Feasibility of Auricular Acupressure for Appetite and Weight in Patients With Stage II-IV Gastric, Esophageal, and Pancreatic Cancer</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2023-06-20 · ClinicalTrials.gov · University of Washington · 중요도 0.71
-
-**NCT05911243** · 해당 없음 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05911243.md)
-
-이 임상시험은 2~4기 위암, 식도암, 췌장암 환자를 대상으로 귓바퀴 지압법(auricular acupressure)이 식욕 증진과 체중 유지에 도움을 줄 수 있는지 실행 가능성과 수용성을 평가합니다. 암 관련 식욕 부진은 체중 감소와 악액질로 이어져 치료 지속률과 삶의 질을 떨어뜨립니다. 환자들은 통상 치료와 함께 이비 지압 치료를 받는 군과 통상 치료만 받는 군으로 무작위 배정되어 비교 조사를 받았습니다.
-
-- 2~4기 위암, 식도암, 췌장암 환자를 대상으로 귓바퀴 지압 치료의 식욕 및 체중 개선 효과를 평가하는 무작위 배정 연구입니다.
-- 식욕 시각 아날로그 척도(VAS) 점수 70점 이하이며 최소 60일 이상의 전신 항암 치료가 예정된 환자가 대상입니다.
-- 귓바퀴에 스티커 형태의 패치를 붙여 중앙신경계를 자극하는 비침습적 보조 치료 방식을 사용합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05911243) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05911243)</small>
 
 ---
 <a id="pmid-42971279"></a>
@@ -1952,24 +2048,6 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 <small>[원문](https://clinicaltrials.gov/study/NCT04195347) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04195347)</small>
 
 ---
-<a id="nct-nct05451043"></a>
-#### [진행성 간췌담도암 환자를 대상으로 한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상 임상시험](https://clinicaltrials.gov/study/NCT05451043)
-<small>Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2022-07-11 · ClinicalTrials.gov · AHS Cancer Control Alberta · 중요도 0.80
-
-**NCT05451043** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05451043.md)
-
-본 임상시험은 진행성 췌장암, 간암, 담도암 환자를 대상으로 면역항암제인 durvalumab(두르발루맙)과 tremelimumab(트레멜리무맙), 베타차단제인 propranolol(프로프라놀롤), 그리고 항암화학요법의 병용 치료 효과와 안전성을 평가합니다. 췌장암 코호트에서는 두르발루맙, 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 프로프라놀롤, 트레멜리무맙을 병용 투여합니다. 총 62명의 환자를 목표로 모집하며 단일군 중재 연구로 진행됩니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.
-
-- 진행성 간췌담도암 환자 62명을 대상으로 하는 2상 임상시험입니다.
-- 면역항암제(durvalumab, tremelimumab), 혈압약 계열인 propranolol, 그리고 항암화학요법을 함께 투여합니다.
-- 치유 목적의 국소 치료나 수술이 불가능한 진행성 췌관선암, 간세포암, 담도암 환자가 참여 대상입니다.
-- 전체 생존기간이나 객관적 반응률 등의 효능 결과는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
-
----
 <a id="nct-nct06196788"></a>
 #### [진행성 췌장암 환자를 위한 경동맥 주입술과 정맥 주사 병행 치료](https://clinicaltrials.gov/study/NCT06196788)
 <small>Transcatheter Arterial Infusion to Patients With Advanced Pancreatic Cancer</small>
@@ -2328,36 +2406,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 24주 동안 brodalumab 피하주사 치료가 진행됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06673329) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06673329)</small>
-
----
-<a id="pmid-42831115"></a>
-#### [활동성 폐결핵을 동반한 췌장암 환자를 다학제 치료 전략으로 성공적으로 관리한 증례](https://pubmed.ncbi.nlm.nih.gov/42831115/)
-<small>A Case of Pancreatic Cancer Complicated by Active Pulmonary Tuberculosis Successfully Managed through a Multidisciplinary Treatment Strategy</small>
-
-`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-02 · PubMed · Surg Case Rep · 중요도 0.64
-
-이 논문은 활동성 폐결핵(pulmonary tuberculosis, TB)을 동반한 81세 남성 췌관선암(pancreatic ductal adenocarcinoma, PDAC) 환자의 치료 증례입니다. 의료진은 4주간의 항결핵 치료 후, 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel, GnP) 병용 선행화학요법(neoadjuvant chemotherapy)을 시행했습니다. 결핵 재활성화 없이 성공적으로 수술적 절제를 마쳤으며, 항결핵 치료 시작 후 33개월째 생존 상태를 유지했습니다. 초록에 명시된 환자 수는 1명입니다.
-
-- 81세 환자에게 발생한 14mm 크기의 췌장두부 종양이 항결핵 치료 기간 동안 21mm로 커졌습니다.
-- 4가지 약물로 4주간 항결핵 치료를 진행한 후 객담 도말 음전(sputum smear conversion)을 확인했습니다.
-- 선행화학요법으로 GnP 6주기를 완료한 후 문맥 절제를 동반한 췌십이지장절제술을 시행했습니다.
-- 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
-
----
-<a id="pmid-42827491"></a>
-#### [자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK) 치료를 포함한 다학제적 치료가 진행성 췌장암 환자에서 장기 생존을 유도함: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42827491/)
-<small>Multidisciplinary treatment incorporating autologous DC-CIK cell therapy induces long-term survival in advanced pancreatic cancer: a case report</small>
-
-`논문` `증례` `치료 전반` `지지요법·삶의질` `신약·치료제` · 2026-09-18 · PubMed · Front Immunol · 중요도 0.53
-
-본 논문은 진행성 전이성 선암(adenocarcinoma) 환자에게 자가 수지상세포-사이토카인 유도 킬러세포(DC-CIK cell) 치료를 포함한 다학제적 치료를 시행한 증례를 보고합니다. 73세 남성 환자가 수술 후 골반 전이 및 재발을 겪은 뒤, 다선 화학요법, 방사선 치료와 함께 DC-CIK 세포 주입 치료를 받았습니다. 치료 후 환자는 뚜렷한 부작용 없이 질병 안정 상태를 유지했습니다. 전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월에 달했습니다.
-
-- 환자는 5회에 걸쳐 5×10^9 ~ 10×10^9 세포 용량의 DC-CIK 세포 주입 치료를 완료했습니다.
-- 치료 과정에서 뚜렷한 이상 반응은 관찰되지 않았습니다.
-- 전체 생존기간(OS)은 107개월, 무진행 생존기간(PFS)은 49개월을 기록했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827491/) · [DOI](https://doi.org/10.3389/fimmu.2026.1908017) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630756/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827491)</small>
 
 ---

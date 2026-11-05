@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Cross-sectional imaging may miss occult metastatic disease in pancreatic ductal adenocarcinoma and cannot detect positive peritoneal lavage cytology. This study quantified the yield of staging laparoscopy (SL) with routine lavage cytology and developed the SENDAI-SL score for risk-based prioritization.\nMETHODS: Consecutive patients with radiographically non-metastatic pancreatic ductal adenocarcinoma who underwent SL at one centre from January 2013 to June 2025 were analysed retrospectively. SL positivity was defined as liver metastasis, macroscopic peritoneal metastasis, and/or positive cytology. Multivariable logistic regression identified predictors; internal validation used 2000 bootstrap resamples.\nRESULTS: Of 504 patients, 141 (28.0%) had positive SL. Positivity rates were 21.3%, 16.0%, 32.3%, and 41.7% in resectable, borderline resectable with portal vein involvement, borderline resectable with arterial involvement, and unresectable locally advanced disease, respectively. Gross liver or peritoneal metastases were detected in 51 patients (10.1%); cytology was positive in 125 (24.8%) and the sole finding in 90 of 141 positive procedures (63.8%). Among 499 patients with quantifiable serum carbohydrate antigen 19-9, unresectable locally advanced disease, body and/or tail location, tumour size ≥ 37 mm, and serum carbohydrate antigen 19-9 ≥ 180 U/ml were independently associated with SL positivity. The model's area under the receiver operating characteristic curve was 0.732 (optimism-corrected, 0.718). Score-specific positivity ranged from 8.6% to 83.3%. A score ≥ 2 prioritized 149 patients; 74 (49.7%) were positive, capturing 52.9% (74 of 140) of positives in the analysis cohort.\nCONCLUSIONS: SL upstaged 28.0% of patients, predominantly through cytology-only disease. The SENDAI-SL score may support prioritization when resources are limited but requires external validation and should not justify omitting SL.",
+ "authors": [
+  "Douchi D",
+  "Yoshimachi S",
+  "Rikiyama N",
+  "Ando M",
+  "Umino Y",
+  "Sato H",
+  "Shimura M",
+  "Inoue K"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42981164",
+ "importance": 0.71,
+ "key_points_ko": [
+  "총 504명의 환자 중 141명(28.0%)이 병기 설정 복강경(staging laparoscopy) 검사에서 양성(전이 또는 세포검사 양성)으로 확인되었습니다.",
+  "육안적 간 또는 복막 전이는 51명(10.1%)에서 발견되었고, 세포검사 양성은 125명(24.8%)으로 양성 결과 중 63.8%를 차지하는 가장 흔한 요인이었습니다.",
+  "국소 진행성 병기, 종양의 위치(몸통/꼬리), 종양 크기 37 mm 이상, 혈청 CA 19-9 수치 180 U/ml 이상이 복강경 양성과 독립적으로 연관되었습니다.",
+  "개발된 SENDAI-SL 점수의 ROC 곡선 아래 면적(AUC)은 0.732였으며, 점수에 따른 양성률은 8.6%에서 83.3%였습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1093/bjsopen/zrag176",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42981164"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BJS Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42981164/"
+ },
+ "summary_ko": "이 연구는 영상 검사에서 전이가 확인되지 않은 504명의 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 병기 설정 복강경(staging laparoscopy, SL) 검사의 유효성을 분석하고 SENDAI-SL 점수 모델을 개발했습니다. 전체 환자 중 28.0%가 복강경 검사에서 양성으로 확인되어 병기가 상향되었습니다. 복강경 양성의 대부분은 복강 세척 세포검사(lavage cytology) 양성 때문이었으며 이는 전체 양성 건수의 63.8%를 차지했습니다. 연구진은 종양 위치, 크기, CA 19-9 수치 등을 기반으로 한 SENDAI-SL 점수를 통해 고위험 환자를 선별할 수 있음을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Staging laparoscopy for radiographically non-metastatic pancreatic ductal adenocarcinoma: cytology-driven upstaging and the SENDAI-SL risk-enrichment score",
+ "title_ko": "영상 검사상 전이가 없는 췌관선암 환자의 병기 설정 복강경 검사: 세포검사 중심의 병기 상향과 SENDAI-SL 위험 예측 점수",
+ "trial": null,
+ "type": "paper"
+}

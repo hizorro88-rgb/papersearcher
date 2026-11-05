@@ -23,11 +23,11 @@
  "id": "nct:NCT04390399",
  "importance": 0.87,
  "key_points_ko": [
-  "대상 질환은 국소 진행성 또는 전이성 췌장암이며, 총 328명의 환자를 목표로 합니다.",
-  "연구는 1차 유지 치료(코호트 A), 2차 치료(코호트 B), 3차 이상 치료(코호트 C)의 세 가지 코호트로 진행됩니다.",
-  "표준 항암화학요법 단독 투여군과 표준 항암화학요법에 aldoxorubicin HCl, N-803, PD-L1 t-haNK를 더한 병용 요법을 비교합니다."
+  "목표 환자 수는 총 328명입니다.",
+  "1차 유지요법, 2차 치료, 3차 이상 치료의 세 가지 코호트로 나누어 진행됩니다.",
+  "표준 항암화학요법 단독 치료와 면역요법 병용 치료의 효과와 안전성을 비교합니다."
  ],
- "last_updated": "2026-11-03",
+ "last_updated": "2026-11-05",
  "links": {
   "doi": null,
   "nct": [
@@ -50,17 +50,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04390399"
  },
- "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 표준 항암화학요법 단독 투여와 표준 항암화학요법에 aldoxorubicin HCl, N-803, PD-L1 t-haNK를 병용한 면역요법의 비교 유효성과 전체 안전성을 평가하는 2상, 공개, 3개 코호트(2개 무작위 배정, 1개 단일군) 임상시험입니다. 각 치료 세팅(1차 유지 치료, 2차 치료, 3차 이상 치료)은 별도의 코호트로 독립적으로 평가됩니다. 목표 환자 수는 총 328명입니다.",
+ "summary_ko": "이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 표준 항암화학요법 단독 치료와 표준 항암화학요법에 aldoxorubicin HCl, N-803, PD-L1 t-haNK를 병용한 치료의 비교 유효성 및 전반적인 안전성을 평가하기 위한 2상, 공개, 3개 코호트(무작위 배정 2개, 단일군 1개) 임상시험입니다. 각 치료 세팅(1차 유지요법, 2차 치료, 3차 이상 치료)은 별도의 코호트로 독립적으로 평가됩니다. 목표 환자 수는 328명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Combination Immunotherapy Plus Standard-of-Care Chemotherapy Versus Standard-of-Care Chemotherapy for the Treatment of Locally Advanced or Metastatic Pancreatic Cancer",
- "title_ko": "국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 면역요법(aldoxorubicin HCl, N-803, PD-L1 t-haNK) 병용 요법을 평가하는 제2상 임상시험",
+ "title_ko": "국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, PD-L1 t-haNK)을 비교하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인.\n- IRB 또는 IEC 지침을 충족하는 서면 동의서를 이해하고 제공할 수 있는 자.\n- 조직학적으로 확정된 절제 불가능한 국소 진행성 또는 전이성 췌장암.\n- 코호트 A: 1차 유지 치료 전 젬시타빈(gemcitabine)과 냅-파클리탁셀(nab-paclitaxel) 병용 요법을 최소 16주 동안 연속으로 받았거나 현재 받고 있으며, 부분관해(PR), 완전관해(CR), 또는 안정병변(SD)이 확인된 자.\n- 코호트 B: 췌장암에 대해 FOLFOX, FOLFIRINOX, 젬시타빈 또는 파클리탁셀 기반 치료를 초기 치료로 받은 후 질병 진행(PD)이 확인된 자.\n- 코호트 C: 수술 전후 보조치료 및 전이성 단계를 포함하여 췌장암에 대해 최소 2가지 이상의 치료를 받은 후 질병 진행(PD)이 확인된 자.\n- ECOG 수행능력(PS) 0 또는 1.\n- RECIST V1.1 기준에 따른 측정 가능한 병변 또는 평가 가능한 비측정 병변이 최소 1개 이상 있는 자.\n- 프로토콜에 따른 연구 방문 및 추적 관찰에 협조할 수 있는 자.\n- 가임 여성 및 비임신 남성의 효과적인 피임법 준수 동의.\n\n제외 기준:\n- 스크리닝 시 체중 40 kg 이하.\n- 연구 약물 사용에 금기가 되거나 합병증 위험이 높은 조절되지 않는 동반 질환.\n- 전신 자가면역 질환.\n- (코호트 A만 해당) 생식세포 BRCA1/2 변이가 있는 종양.\n- (코호트 B만 해당) 진행성 또는 전이성 췌장암에 대해 리포조말 이리노테칸(liposomal irinotecan)을 이전 투여받은 이력.\n- 면역억제제가 필요한 장기 이식 이력.\n- 염증성 장 질환의 이력 또는 활동성 염증성 장 질환.\n- 부적절한 장기 기능(호중구 수, 혈소판 수, 헤모글로빈, 빌리루빈, AST/ALT, ALP, 혈청 크레아티닌, 알부민 등의 기준 미달).\n- 조절되지 않는 고혈압 또는 임상적으로 유의한 심혈관 질환, 뇌졸중, 심근경색 이력.\n- 진행성 악성종양 합병증 등으로 지속적인 산소 치료가 필요한 안정 시 호흡곤란.\n- 전신 코르티코스테로이드의 만성 일일 치료를 지속 중인 환자.\n- 연구 약물 성분에 대한 과민반응 이력.\n- 강한 CYP3A4 억제제 또는 유도제, CYP2C8 억제제/유도제의 병용 또는 최근 투여 이력.\n- 14일 이내 다른 임상시험용 의약품 참여 이력.\n- 임산부 및 수유부.\n- 지난 5년 이내에 진행 중이거나 적극적인 치료가 필요한 다른 암 병력.",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인\n- 조직학적으로 확정된 절제 불가능한 국소 진행성 또는 전이성 췌장암\n- (코호트 A) 젬시타빈+냅-파클리탁셀로 최소 16주 이상 1차 치료를 받고 질병 진행이 없는 환자\n- (코호트 B) FOLFOX, FOLFIRINOX 또는 젬시타빈/파클리탁셀 기반 치료 후 질병이 진행된 환자\n- (코호트 C) 췌장암에 대해 2차례 이상 치료 후 질병이 진행된 환자\n- ECOG 수행능력 0 또는 1\n- RECIST V1.1 기준에 따른 측정 가능 병변 또는 평가 가능한 비측정 병변이 최소 1개 이상 존재\n\n제외 기준:\n- 스크리닝 시 체중 40 kg 이하\n- 조절되지 않는 심각한 동반 질환 또는 전신 자가면역 질환\n- (코호트 A 한정) 생식세포 BRCA1/2 변이가 있는 종양\n- (코호트 B 한정) 진행성 또는 전이성 췌장암에 대해 리포조말 이리노테칸(liposomal irinotecan)을 이전에 투여받은 경우\n- 면역억제 치료가 필요한 장기 이식 병력\n- 염증성 장 질환의 병력 또는 활동성 염증성 장 질환\n- 임신 및 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. Able to understand and provide a signed informed consent that fulfills the relevant IRB or IEC guidelines.\n3. Have histologically confirmed unresectable, locally advanced or metastatic pancreatic cancer.\n\n   1. For Cohort A, subjects must have initially received, or are currently receiving, continuous treatment with gemcitabine plus nab-paclitaxel for at least 16 weeks and have confirmed PR, CR, or SD prior to receiving first-line maintenance therapy on this study. Duration of actual initial treatment may be unlimited as long as no evidence of disease progression is noted by the Investigator at the time of randomization.\n   2. For Cohort B, subjects must have PD after receiving initial treatment with FOLFOX, FOLFIRINOX, or a gemcitabine- or paclitaxel-based therapy for pancreatic cancer.\n\n      Subjects who discontinued prior therapy due to toxicity, intolerance, or available therapy was clinically contraindicated are allowed.\n   3. For Cohort C, subjects must have PD after receiving at least 2 lines of therapy for pancreatic cancer, including but not limited to neoadjuvant, adjuvant, and/or metastatic settings.\n4. ECOG PS of 0 or 1.\n5. Have at least 1 measurable lesion and/or non-measurable disease evaluable in accordance with RECIST V1.1.\n6. Ability to attend required study visits and return for adequate follow-up, as required by this protocol.\n7. Agreement to practice effective contraception for female subjects of child-bearing potential and non-sterile males. Female subjects of child-bearing potential must agree to use effective contraception while on study and for at least 5 months after the last dose of study treatment. Non-sterile male subjects must agree to use a condom while on study and for up to 5 months after the last dose of study treatment. Effective contraception includes surgical sterilization (eg, vasectomy, tubal ligation), two forms of barrier methods (eg, condom, diaphragm) used with spermicide, IUDs, oral contraceptives, and abstinence.\n\nExclusion Criteria\n\n1. Body weight ≤ 40 kg at screening.\n2. Serious uncontrolled concomitant disease that would contraindicate the use of the investigational drug used in this study or that would put the subject at high risk for treatment-related complications.\n3. Systemic autoimmune disease (eg, lupus erythematosus, rheumatoid arthritis, Addison's disease, autoimmune disease associated with lymphoma).\n4. For Cohort A only: tumors harboring germline BRCA1/2 mutations.\n5. For Cohort B only: previous treatment with liposomal irinotecan for advanced or metastatic pancreatic cancer.\n6. History of organ transplant requiring immunosuppression.\n7. History of or active inflammatory bowel disease (eg, Crohn's disease, ulcerative colitis).\n8. Inadequate organ function, evidenced by the following laboratory results:\n\n   1. Absolute neutrophil count (ANC) \\< 1000 cells/mm3.\n   2. Platelet count \\< 100,000 cells/mm3.\n   3. Hemoglobin \\< 9 g/dL.\n   4. Total bilirubin greater than two times the upper limit of normal (ULN; unless the subject has documented Gilbert's syndrome).\n   5. Aspartate aminotransferase (AST \\[SGOT\\]) or alanine aminotransferase (ALT \\[SGPT\\]) \\> 2.5 × ULN (\\> 5 × ULN in subjects with liver metastases).\n   6. Alkaline phosphatase (ALP) levels \\> 2.5 × ULN (\\> 5 × ULN in subjects with liver metastases, or \\>10 × ULN in subjects with bone metastases).\n   7. Serum creatinine \\> 2.0 mg/dL or 177 μmol/L.\n   8. Serum anion gap \\> 16 mEq/L or arterial blood with pH \\< 7.3.\n   9. Albumin \\<3.0.\n   10. Ascites requiring paracentesis.\n\n   Each site should use its own institution's ULN to determine eligibility.\n9. Uncontrolled hypertension (systolic \\> 160 mm Hg and/or diastolic \\> 110 mm Hg) or clinically significant (ie, active) cardiovascular disease, cerebrovascular accident/stroke, or myocardial infarction within 6 months prior to first study medication; unstable angina; congestive heart failure of New York Heart Association grade 2 or higher; or serious cardiac arrhythmia requiring medication.\n10. Dyspnea at rest due to complications of advanced malignancy or other disease requiring continuous oxygen therapy.\n11. Current chronic daily treatment (continuous for \\> 3 months) with systemic corticosteroids (dose equivalent to or greater than 10 mg/day methylprednisolone), excluding inhaled steroids. Short-term steroid use to prevent IV contrast allergic reaction or anaphylaxis in subjects who have known contrast allergies is allowed.\n12. Known hypersensitivity to any component of the study medication(s).\n13. Concurrent or prior use of a strong cytochrome P450 (CYP)3A4 inhibitor (including ketoconazole, itraconazole, posaconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole, and grapefruit products) or strong CYP3A4 inducers (including phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital, and St John's Wort) within 14 days before study day 1.\n14. Concurrent or prior use of a strong CYP2C8 inhibitor (gemfibrozil) or moderate CYP2C8 inducer (rifampin) within 14 days before study day 1.\n15. Participation in an investigational drug study or history of receiving any investigational treatment within 14 days prior to dosing for this study, except for testosterone-lowering therapy in men with prostate cancer or FDA-authorized drugs for the prevention and treatment of COVID-19.\n16. Assessed by the Investigator to be unable or unwilling to comply with the requirements of the protocol.\n17. Concurrent participation in any interventional clinical trial.\n18. Pregnant and nursing women. A negative serum pregnancy test during screening and a negative pregnancy test within 72 hours prior to the first dose must be documented before study drug is administered to a female subject of child-bearing potential.\n19. Any other cancer within the past 5 years that is progressing or requires active treatment, or any previous cancer treatment within the last 5 years that included gemcitabine or nab-paclitaxel.",
   "enrollment": 328,
   "has_results": false,
@@ -82,20 +82,22 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [],
+   "biomarkers_excluded": [
+    "BRCA_PALB2"
+   ],
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "생식세포 BRCA1/2 변이 종양 (코호트 A만 해당)",
-    "리포조말 이리노테칸 이전 치료 이력 (코호트 B만 해당)",
-    "자가면역 질환 또는 장기 이식 이력",
-    "조절되지 않는 심혈관 질환",
-    "임산부 및 수유부"
+    "체중 40 kg 이하",
+    "전신 자가면역 질환",
+    "면역억제 치료가 필요한 장기 이식 병력",
+    "염증성 장 질환의 병력 또는 활동성 염증성 장 질환",
+    "임신 및 수유 중인 여성"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "국소 진행성 또는 전이성 췌장암 환자를 대상으로 하며, 이전 치료 차수에 따라 코호트 A, B, C로 나누어 진행됩니다.",
+   "notes_ko": "1차 유지요법, 2차 또는 3차 이상의 치료를 앞둔 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,53 @@
+{
+ "abstract": null,
+ "authors": [
+  "Scherübl H"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42977648",
+ "importance": 0.65,
+ "key_points_ko": [
+  "초록에 명시되지 않음."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.026",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42977648"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977648/"
+ },
+ "summary_ko": "본 연구는 60세 이상이면서 신규 당뇨병(new-onset diabetes)과 체중 감소(weight loss) 또는 췌장염(pancreatitis)을 동반한 환자들의 췌장암(pancreatic cancer) 위험을 분석했습니다. 초록에 명시되지 않음. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic cancer risk in people 60 or over with new-onset diabetes and weight loss or pancreatitis",
+ "title_ko": "60세 이상 신규 당뇨병 및 체중 감소 또는 췌장염 환자의 췌장암 위험",
+ "trial": null,
+ "type": "paper"
+}

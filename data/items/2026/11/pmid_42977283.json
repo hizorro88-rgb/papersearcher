@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic cysts are being commonly diagnosed owing to the increased utilization of radiological modalities for the evaluation of abdominal complaints. Cysts can represent an underlying benign, pre-malignant or malignant diagnosis, and making an accurate diagnosis is often challenging. Here we report a case of a pancreatic cystic lesion, provisionally diagnosed as intra-ductal papillary mucinous neoplasm (IPMN) based on pre-operative and intra-operative findings, which on final histopathology turned out to be a pancreatic neuroendocrine tumor.",
+ "authors": [
+  "Kumar N P",
+  "Kumar Jain Y",
+  "Nag HH"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42977283",
+ "importance": 0.5,
+ "key_points_ko": [
+  "영상의학적 검사 증가로 췌장 낭종의 진단이 흔해지고 있습니다.",
+  "수술 전 및 수술 중 소견으로 췌관내 유두상 점액성 종양(IPMN)으로 진단되었습니다.",
+  "최종 조직병리학적 검사 결과 췌장 신경내분비종양(pancreatic neuroendocrine tumor)으로 최종 확진되었습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42977283"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Gastroenterol Peru",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977283/"
+ },
+ "summary_ko": "이 논문은 복부 증상 평가를 위한 영상 검사의 증가로 흔히 진단되는 췌장 낭종에 대한 증례 보고입니다. 수술 전과 수술 중 소견을 바탕으로 췌관내 유두상 점액성 종양(IPMN)으로 가진단되었던 췌장 낭성 병변이 최종 병리 조직 검사에서 췌장 신경내분비종양(pancreatic neuroendocrine tumor)으로 밝혀졌습니다. 정확한 진단이 종종 어렵다는 점을 보여주는 사례입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic neuroendocrine tumor masquerading as intra-ductal papillary mucinous neoplasm: a case report",
+ "title_ko": "췌관내 유두상 점액성 종양(IPMN)으로 오인된 췌장 신경내분비종양: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy characterized by a dense stroma that impedes drug penetration and establishes an immune-\"cold\" microenvironment. Conventional external beam radiotherapy is often limited by off-target toxicity to surrounding normal tissues due to the complex anatomy of the pancreas. Boron neutron capture therapy (BNCT) is a binary targeted radiotherapy that utilizes a focused thermal neutron beam to trigger the in situ production of high-energy particles, enabling single-cell-scale tumor cell ablation. However, the efficacy of BNCT in PDAC critically depends on the ability of B-10 carriers to effectively penetrate the dense stromal barrier and achieve efficient internalization into tumor cells. Herein, we developed nine αvβ6 integrin-targeting peptide‒BSH conjugates to optimize the BNCT therapeutic index. By optimizing linker structure and the number of BSH moieties, amphiphilic agents with enhanced PDAC cellular uptake were obtained. The lead compound, namely DOTA-2BB, adopts a \"trident-shaped\" structure that facilitates stromal penetration and exhibits the optimal tumor uptake and retention. In a PDAC mouse model, administration of DOTA-2BB followed by thermal neutron irradiation resulted in suppression of tumor growth with favorable biosafety. These findings establish DOTA-2BB as a promising B-10 carrier for PDAC and provide a strategy for treating stroma-rich tumors.",
+ "authors": [
+  "Li L",
+  "Gao X",
+  "Zhang S",
+  "Wang X",
+  "Chen X",
+  "Miao Y",
+  "Zhang T",
+  "Yang M"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42979061",
+ "importance": 0.54,
+ "key_points_ko": [
+  "알파v베타6(αvβ6) 인테그린을 표적 하는 9개의 펩타이드-BSH 접합체를 개발했습니다.",
+  "선도 화합물인 DOTA-2BB는 삼중 갈래 구조를 가져 기질 침투력과 종양 내 흡수 및 유지 능력이 최적화되었습니다.",
+  "췌장암 마우스 모델에서 DOTA-2BB 투여 후 열중성자 조사를 통해 우수한 생체 안전성과 종양 성장 억제 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1016/j.apsb.2026.05.012",
+  "nct": [],
+  "pmcid": "PMC13729520",
+  "pmid": "42979061"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-05-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Acta Pharm Sin B",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42979061/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)의 붕소중성자포획치료(BNCT) 효율을 높이기 위해 알파v베타6(αvβ6) 인테그린 표적 펩타이드-BSH 접합체를 개발했습니다. 연구진은 링커 구조와 BSH 개수를 최적화하여 종양 세포 내 흡수율이 향상된 선도 물질 DOTA-2BB를 발굴했습니다. 췌장암 마우스 모델에서 DOTA-2BB 투여 후 열중성자 조사를 시행한 결과, 우수한 생체 안전성과 함께 종양 성장이 억제되었습니다. 초록에 환자 대상 임상시험 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Engineered αvβ6-targeting peptide‒BSH conjugates for boron neutron capture therapy of pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장암의 붕소중성자포획치료를 위한 조작된 알파v베타6 표적 펩타이드-BSH 접합체",
+ "trial": null,
+ "type": "paper"
+}

@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase1",
@@ -18,12 +19,11 @@
  "id": "nct:NCT07903415",
  "importance": 0.78,
  "key_points_ko": [
-  "대상 질환에는 췌장관선암(pancreatic ductal adenocarcinoma)을 포함한 진행성 고형암 환자가 포함됩니다.",
-  "참가자들은 최소 1가지 이상의 이전 전신 항암 치료를 받은 경험이 있어야 합니다.",
-  "목표 연구 참여 인원은 총 280명입니다.",
-  "국내 기관은 초록에 명시되지 않음."
+  "연구 대상은 진행성 췌장암을 포함한 고형암 환자 280명입니다.",
+  "모든 참가자는 정맥 주사(IV infusion)를 통해 PF-08098488을 투여받습니다.",
+  "이전 치료를 최소 1가지 이상 받은 환자가 참여 대상입니다."
  ],
- "last_updated": "2026-11-04",
+ "last_updated": "2026-11-05",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07903415"
  },
- "summary_ko": "이 임상시험은 진행성 고형암 환자를 대상으로 연구용 의약품인 PF-08098488의 안전성과 효과를 평가하기 위해 진행됩니다. 췌장암, 비소세포폐암, 위암, 식도암 등의 환자를 대상으로 하며, 정맥 주사(IV infusion) 방식으로 투여됩니다. 연구진은 안전하고 효과적인 최적의 용량과 투여 일정을 찾기 위해 여러 용량 수준을 시험합니다. 참가자들은 암이 악화되지 않고 치료를 잘 견디는 동안 계속해서 약물을 투여받게 됩니다.",
+ "summary_ko": "이 임상시험은 수술로 제거할 수 없거나 다른 부위로 전이된 진행성 고형암(췌장암, 비소세포폐암, 위암, 식도암) 환자를 대상으로 연구 약물인 PF-08098488의 안전성과 효과를 평가합니다. 참여 환자들은 정맥 주사(IV infusion) 방식으로 PF-08098488을 투여받으며, 연구진은 안전하고 효과적인 적정 용량과 투여 일정을 찾고자 합니다. 환자들은 암이 악화되지 않고 치료를 잘 견디는 동안 계속해서 약물을 투여받을 수 있습니다. 본 연구는 280명을 목표로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "NSCLC",
@@ -60,7 +60,7 @@
   "Lung Cancer"
  ],
  "title": "A Study to Learn About the Study Medicine Called PF-08098488 in People With Advanced Solid Tumors.",
- "title_ko": "진행성 고형암 환자를 대상으로 한 연구용 의약품 PF-08098488에 대한 연구",
+ "title_ko": "진행성 고형암 환자를 대상으로 한 임상시험용 약물 PF-08098488에 대한 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -76,7 +76,7 @@
     "phone": "1-800-718-1021"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인\n- 진행성 비소세포폐암, 췌장관선암, 위암(위식도접합부암 포함) 또는 식도암 진단\n- 동부종양임상연구협조군(ECOG) 수행능력 상태 0~1\n- 측정 가능한 병변(measurable disease) 존재\n- 적어도 1가지 이상의 승인된 이전 전신 치료 경험\n- 이전 항암 치료의 급성 부작용이 기저치 또는 1등급으로 회복됨\n- 의료적으로 가능한 경우 사전 종양 조직 제출에 동의\n\n제외 기준:\n- 아우리스타틴(auristatin) 또는 미세소관 억제제(microtubule inhibitor) 페이로드가 포함된 항체-약물 접합체(ADC) 치료 경험이 있는 경우\n- 프로토콜에서 정한 기준을 초과하는 신장, 간, 혈액, 심장, 폐 등의 이상\n- 기존에 존재하는 감각 또는 운동 신경병증\n- 조절되지 않는 당뇨병\n- 임상적으로 유의미하거나 증상이 있는 안질환\n- 프로토콜 기준에 부합하는 폐 질환",
+  "eligibility_ko": "선정 기준:\n* 18세 이상 성인\n* 진행성 췌장관상피암(pancreatic ductal adenocarcinoma), 비소세포폐암, 위암 또는 식도암 진단\n* 미국동부종양학협회(ECOG) 수행능력 상태 0-1\n* 측정 가능 병변 존재\n* 최소 1가지 이상의 이전 승인된 전신 항암 치료 경험 (2파트의 경우 진행성 단계에서 최대 2차례의 전신 항암 치료)\n* 이전 항암 치료의 급성 부작용이 기저치 또는 1등급으로 회복됨\n* 치료 전 종양 조직 제출 동의\n\n제외 기준:\n* 아우리스타틴(auristatin) 또는 미세소관 억제제 페이로드가 포함된 항체-약물 접합체(ADC) 치료 경험\n* 프로토콜에 정의된 허용치를 초과하는 신장, 간, 혈액, 심장, 폐 이상\n* 기존에 존재하는 감각 또는 운동 신경병증\n* 조절되지 않는 당뇨병\n* 임상적으로 유의미하거나 증상이 있는 안질환\n* 프로토콜 기준에 부합하는 폐 질환",
   "eligibility_text": "Inclusion Criteria:\n\n* 18 years of age or older\n* Advanced non-small cell lung cancer, pancreatic ductal adenocarcinoma, gastric cancer (including gastroesophageal junction carcinoma), or esophageal cancer.\n* Eastern Cooperative Oncology Group (ECOG) Performance status 0-1\n* Measurable disease\n* Must have received at least 1 prior approved systemic therapy:\n* Part 1: progression or relapse following standard treatments and have no other appropriate standard of care option.\n* Part 2: maximum of 2 prior lines of systemic therapy in the advanced setting.\n* Resolution of acute effects of prior anticancer therapy to baseline or Grade 1\n* Consent to submit required pre-treatment tumor tissue as medically feasible\n\nExclusion Criteria:\n\n* Received prior treatment with an antibody drug conjugate with an auristatin or microtubule inhibitor payload.\n* Unacceptable renal, hepatic, hematologic, cardiologic, pulmonary, or abnormalities as defined by the protocol.\n* Pre-existing sensory or motor neuropathy.\n* Uncontrolled diabetes mellitus.\n* Clinically significant and/ or symptomatic eye disease meeting protocol exclusion criteria.\n* Pulmonary (lung) disease meeting protocol exclusion criteria.",
   "enrollment": 280,
   "has_results": false,
@@ -93,16 +93,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "아우리스타틴 또는 미세소관 억제제 페이로드 포함 항체-약물 접합체(ADC) 치료 경험",
-    "기존 감각 또는 운동 신경병증",
+    "아우리스타틴 또는 미세소관 억제제 페이로드가 포함된 항체-약물 접합체(ADC) 치료 경험",
     "조절되지 않는 당뇨병",
-    "임상적으로 유의미한 안질환",
-    "폐 질환"
+    "기존의 감각 또는 운동 신경병증",
+    "임상적으로 유의미한 안질환 또는 폐 질환"
    ],
    "max_prior_lines": 2,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료를 1~2회 받은 진행성 췌장암 환자",
+   "notes_ko": "이전 치료를 1~2가지 받은 진행성 췌장암 환자를 위한 1상 임상시험",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

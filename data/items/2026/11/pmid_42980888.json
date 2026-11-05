@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer (PC) continues to pose a major clinical challenge due to its aggressive nature and poor response to conventional treatments. CLDN18.2 (Claudin 18.2), a tight junction protein with highly restricted normal tissue expression, is frequently aberrantly expressed in PC, rendering it an attractive candidate for targeted therapy. The recent approval of zolbetuximab in CLDN18.2-positive gastric/gastroesophageal junction cancer has driven the exploration of CLDN18.2-targeted agents in PC. This review comprehensively summarizes the current landscape of CLDN18.2-targeted agents in PC, encompassing monoclonal antibodies, bispecific antibodies (BsAbs), antibody-drug conjugates (ADCs), and chimeric antigen receptor T-cell (CAR-T) therapies. Although early-phase studies have shown encouraging clinical activity in patients with high CLDN18.2 expression, several challenges remain, including treatment-related toxicities, tumor heterogeneity, mechanisms of resistance, and biomarker-guided patient selection. Future efforts will focus on multispecific antibodies, combination strategies, personalized therapies, and expanded applications in other CLDN18.2-positive malignancies. Overall, CLDN18.2-targeted therapies represent a rapidly progressing field with significant potential to improve survival outcomes in PC.",
+ "authors": [
+  "Yan H",
+  "Shi X"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [
+  "zolbetuximab"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42980888",
+ "importance": 0.65,
+ "key_points_ko": [
+  "CLDN18.2는 췌장암에서 자주 비정상적으로 발현되어 표적 치료의 유망한 후보입니다.",
+  "zolbetuximab이 CLDN18.2 양성 위암/위식도접합부암에서 승인된 이후 췌장암에서도 관련 약물 연구가 활발합니다.",
+  "현재 단일클론 항체, 이중항체, 항체-약물 접합체(ADC), CAR-T 치료제 등이 연구되고 있습니다.",
+  "초기 연구에서 고무적인 결과가 확인되었으나 치료 독성, 종양 이질성, 저항성 극복 등의 과제가 남아 있습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1007/s11864-026-01423-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42980888"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Treat Options Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42980888/"
+ },
+ "summary_ko": "이 문헌은 췌장암(pancreatic cancer, PC)에서 CLDN18.2(Claudin 18.2)를 표적 하는 치료제의 현재 임상 개발 현황을 종합적으로 요약합니다. CLDN18.2는 정상 조직에서는 발현이 매우 제한적이나 췌장암에서 자주 비정상적으로 발현되어 매력적인 표적입니다. 단일클론 항체(monoclonal antibodies), 이중항체(bispecific antibodies, BsAbs), 항체-약물 접합체(antibody-drug conjugates, ADCs), 키메라 항원 수용체 T세포(CAR-T) 치료제 등이 다뤄집니다. 초기 임상 연구에서 고발현 환자들을 대상으로 고무적인 임상적 활성이 관찰되었으나, 독성, 종양 이질성, 저항성 기전 등의 과제가 남아 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Advancing CLDN18.2-Targeted Therapies in Pancreatic Cancer: Current Clinical Development and Therapeutic Opportunities",
+ "title_ko": "췌장암에서 CLDN18.2 표적 치료의 발전: 현재 임상 개발 및 치료 기회",
+ "trial": null,
+ "type": "paper"
+}

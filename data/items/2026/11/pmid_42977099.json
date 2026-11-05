@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC), driven by prevalent KRAS mutations and situated within a dense, desmoplastic microenvironment, remains one of the most lethal malignancies worldwide, underscoring an urgent need for effective therapeutic strategies. Emerging evidence has identified macropinocytosis-a non-selective endocytic pathway that scavenges extracellular nutrients-as a critical adaptive mechanism that enables PDAC to sustain cellular viability and metabolic homeostasis under nutrient-deprived and fibrotic conditions. Consequently, macropinocytosis has emerged as a promising therapeutic vulnerability. In this review, we outline the macropinocytic process and the key signaling networks that govern it in PDAC, including KRAS, PI3K, PTEN, YAP/TAZ, WNT/β-catenin, HIF-1α, NRF2, and PKC signaling. We examine how these molecular modulators cooperate to support macropinocytosis-dependent metabolic adaptation and discuss the contribution of macropinocytosis to PDAC initiation, progression, tumor microenvironment remodeling, and crosstalk with other nutrient salvage programs. Finally, we evaluate two contrasting strategies for targeting macropinocytosis-activation to enhance drug delivery or induce methuosis, versus inhibition to starve tumor cells of scavenged nutrients-and discuss the prospects and limitations of each approach for PDAC therapy.",
+ "authors": [
+  "Yang J",
+  "Chen H",
+  "Qiu S",
+  "Zhu T"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42977099",
+ "importance": 0.72,
+ "key_points_ko": [
+  "거대음세포작용(macropinocytosis)은 영양이 부족하고 섬유화된 환경에서 췌장암 세포가 생존하도록 돕는 주요 대사 기전입니다.",
+  "KRAS, PI3K, PTEN, YAP/TAZ, WNT/β-catenin, HIF-1α, NRF2, PKC 등의 분자 조절자가 거대음세포작용을 제어합니다.",
+  "거대음세포작용을 활성화하여 약물 전달을 돕거나 반대로 억제하여 암세포를 굶기는 두 가지 치료 전략이 제시됩니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1016/j.bbcan.2026.189745",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42977099"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochim Biophys Acta Rev Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977099/"
+ },
+ "summary_ko": "췌장관선암(PDAC)은 미세환경이 섬유화되어 영양이 부족한 상태에서도 거대음세포작용(macropinocytosis)을 통해 세포 외 영양소를 섭취하며 생존합니다. 본 종설 논문은 KRAS, PI3K, PTEN, YAP/TAZ 등 거대음세포작용을 조절하는 주요 신호 전달 체계를 정리했습니다. 또한 거대음세포작용의 활성화(약물 전달 향상 또는 세포사멸 유도)와 억제(영양 공급 차단)라는 두 가지 치료 전략의 가능성과 한계를 평가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Macropinocytosis in pancreatic ductal adenocarcinoma: From metabolic reprogramming to therapeutic targeting",
+ "title_ko": "췌장관선암에서의 거대음세포작용: 대사 재프로그래밍에서 치료적 표적화까지",
+ "trial": null,
+ "type": "paper"
+}

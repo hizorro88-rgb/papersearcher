@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Perineural invasion (PNI) occurs in the majority of pancreatic ductal adenocarcinoma (PDAC) cases and is strongly associated with local recurrence, neuropathic pain, and poor survival, yet no reliable method exists for its preoperative identification. Here, we developed and externally validated a multi-sequence MRI-based intratumoral heterogeneity (ITH) scoring framework integrated with machine learning for the non-invasive prediction of PNI in PDAC.\nMETHODS: Using preoperative T2-weighted, diffusion-weighted, and contrast-enhanced T1-weighted MRI from 205 surgically resected patients across four medical centers (100 training, 43 internal test, and 28 and 34 external validation patients), we extracted two-dimensional and three-dimensional ITH features via K-means clustering-based subregion partitioning and incorporated independent clinical predictors tumor location and clinical T-stage to construct combined predictive models. Eleven machine learning algorithms were systematically evaluated.\nRESULTS: The combined clinical-ITH model achieved an area under the curve (AUC) of 0.907 in the internal test set and AUCs of 0.860 and 0.869 in the two external validation cohorts. Corresponding AUCs were 0.881, 0.860, and 0.850 for the ITH model and 0.758, 0.342, and 0.700 for the clinical logistic regression model.\nDISCUSSION: SHAP analysis ranked three T2WI-derived features as the largest contributors to the combined model output, feature effects varied in direction and were not uniformly monotonic. These findings demonstrate that multi-sequence MRI-based ITH quantification provides an interpretable approach to preoperative PNI assessment with consistent discrimination across the two external surgical cohorts, offering a potential tool to guide surgical planning and adjuvant therapy selection in pancreatic cancer.",
+ "authors": [
+  "Ouyang Z",
+  "Song Z",
+  "Li Z",
+  "Cui S",
+  "Liu X",
+  "Shen W",
+  "Zhu F",
+  "Liao C"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42978795",
+ "importance": 0.7,
+ "key_points_ko": [
+  "임상-종양 내 이질성 결합 모델의 내부 테스트 세트 AUC는 0.907이었습니다.",
+  "두 외부 검증 코호트에서의 결합 모델 AUC는 각각 0.860과 0.869였습니다.",
+  "연구에는 총 4개 의료기관의 수술 환자 205명이 포함되었습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.3389/frai.2026.1975752",
+  "nct": [],
+  "pmcid": "PMC13727598",
+  "pmid": "42978795"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Artif Intell",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978795/"
+ },
+ "summary_ko": "연구진은 췌관선암(PDAC) 환자의 수술 전 자기공명영상(MRI) 데이터를 활용하여 신경외 침윤(perineural invasion, PNI)을 비침습적으로 예측하는 머신러닝 모델을 개발하고 외부 검증했습니다. 4개 의료기관에서 수술을 받은 환자 205명의 다중 시퀀스 MRI와 임상 특징을 활용하여 종양 내 이질성(intratumoral heterogeneity, ITH) 점수 체계를 구축했습니다. 임상 및 종양 내 이질성 특징을 결합한 모델은 내부 테스트 세트에서 0.907의 곡선 아래 면적(AUC)을 기록했습니다. 또한 두 개의 외부 검증 코호트에서 각각 0.860과 0.869의 AUC를 달성했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Machine learning models integrating 2D and 3D intratumoral heterogeneity features from multi-sequence MRI: accurate prediction of perineural invasion in pancreatic ductal adenocarcinoma",
+ "title_ko": "다중 시퀀스 자기공명영상(MRI)의 2차원 및 3차원 종양 내 이질성 특징을 결합한 머신러닝 모델: 췌관선암에서 신경외 침윤의 정확한 예측",
+ "trial": null,
+ "type": "paper"
+}

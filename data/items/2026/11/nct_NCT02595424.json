@@ -20,12 +20,12 @@
  "id": "nct:NCT02595424",
  "importance": 0.79,
  "key_points_ko": [
-  "목표 환자 수는 총 67명입니다.",
-  "백금 기반 항암제(cisplatin 또는 carboplatin)와 etoposide 병용요법 대 temozolomide 및 capecitabine 병용요법을 비교합니다.",
-  "주요 평가변수는 무진행 생존기간(PFS)입니다.",
-  "이차 평가변수에는 반응률(RR)과 전체 생존기간(OS)이 포함됩니다."
+  "목표 인원은 총 67명이며, 환자들은 두 가지 항암 화학요법 군 중 하나로 무작위 배정됩니다.",
+  "주요 평가변수는 두 치료 군 간의 무진행 생존기간(PFS) 비교입니다.",
+  "이차 평가변수에는 반응률(RR), 전체 생존기간(OS), 그리고 독성(toxicities) 평가가 포함됩니다.",
+  "3차 평가변수로 Ki-67 증식 지표에 따른 치료 효과 분석 등이 진행됩니다."
  ],
- "last_updated": "2026-11-04",
+ "last_updated": "2026-11-05",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02595424"
  },
- "summary_ko": "이 임상시험은 전이되었거나 수술로 제거할 수 없는 진행성 G3 비소세포 위장관 및 췌장 신경내분비 암종 환자를 대상으로 합니다. 표준 치료인 cisplatin 또는 carboplatin과 etoposide 병용요법과 temozolomide 및 capecitabine 병용요법의 효과를 비교합니다. 주요 평가변수는 무진행 생존기간(PFS)이며, 반응률(RR)과 전체 생존기간(OS)도 함께 평가합니다. 환자들은 무작위로 두 치료 군 중 한 곳에 배정되어 치료를 받습니다.",
+ "summary_ko": "이 무작위 2상 임상시험은 전이되었거나 수술로 제거할 수 없는 위장관 또는 췌장의 진행성 저분화(G3) 비소세포 신경내분비 암종 환자들을 대상으로 합니다. 환자들은 Temozolomide와 Capecitabine 병용요법 또는 표준 치료인 Cisplatin(또는 Carboplatin)과 Etoposide 병용요법 중 하나로 무작위 배정됩니다. 이 연구의 주된 목적은 두 치료 군 간의 무진행 생존기간(PFS)을 비교하여 평가하는 것입니다. 또한 반응률(RR), 전체 생존기간(OS), 그리고 부작용을 함께 평가합니다.",
  "summary_source": "llm",
  "tags": [
   "Neuroendocrine Carcinoma",
@@ -61,7 +61,7 @@
   "신경내분비종양"
  ],
  "title": "Cisplatin and Etoposide Versus Temozolomide and Capecitabine in Patients With Advanced Poorly Differentiated (G3) Non-Small Cell Gastrointestinal Neuroendocrine Carcinomas",
- "title_ko": "진행성 저분화(G3) 비소세포 위장관 및 췌장 신경내분비 암종 환자에서 Cisplatin 및 Etoposide와 Temozolomide 및 Capecitabine의 비교 임상시험",
+ "title_ko": "진행성 저분화(G3) 비소세포 위장관 신경내분비 암종 환자에서 Cisplatin 및 Etoposide와 Temozolomide 및 Capecitabine의 비교 임상시험",
  "trial": {
   "conditions": [
    "Gastric Neuroendocrine Carcinoma",
@@ -69,7 +69,7 @@
    "Pancreatic Neuroendocrine Carcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 위장관 기원(알려졌거나 의심되는)의 국소 진행성 및 절제 불가능한 또는 전이성 위장관췌장 신경내분비 암종 환자\n- 비소세포 조직학적 확진을 받은 환자\n- Ki-67 증식 지수가 20~100%이거나 10고배율 시야당 적어도 10개의 유사분열 수치를 가진 환자\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 있는 환자\n- 동부종양학협력그룹(ECOG) 수행능력 상태가 0~2인 환자\n- 백혈구 >= 3,000/mm^3, 절대 호중구 수 >= 1,500/mm^3, 혈색소 >= 9 g/dL, 혈소판 >= 100,000/mm^3\n\n제외 기준:\n- 이 악성 종양에 대해 이전에 전신 치료를 받은 적이 있는 환자\n- 뇌전이(원격 또는 현재) 또는 암성 수막염이 있는 환자\n- dihydropyrimidine dehydrogenase (DPD) 결핍이 알려진 환자\n- 활동성 또는 조절되지 않는 감염, 증상이 있는 심부전 등이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n* 위장관(GI)에서 기원했거나 의심되는 국소 진행성 및 수술 불가 또는 전이성 위장관췌장 신경내분비 암종\n* 병리학적/조직학적으로 확진된 비소세포 조직학적 특성\n* Ki-67 증식 지표 20-100% 또는 10 High Power Field(HPF)당 최소 10개의 유사분열\n* RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n* 동유럽협력암연구그룹(ECOG) 수행능력 상태 0-2\n* 백혈구 3,000/mm^3 이상, 절대호중구수 1,500/mm^3 이상, 혈색소 9 g/dL 이상, 혈소판 100,000/mm^3 이상\n\n제외 기준:\n* 이 악성 종양에 대한 이전 전신 치료 경험이 있는 경우\n* 뇌 전이(현재 또는 과거) 또는 암성 수막염이 있는 경우\n* 디하이드로피리미딘 탈수소효소(DPD) 결핍이 알려진 경우\n* 활성형 또는 조절되지 않는 감염, 증상성 심부전, 불안정형 협심증 등이 있는 경우\n* 임신 또는 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must have a locally advanced and unresectable or metastatic gastroenteropancreatic neuroendocrine carcinoma that is either known or suspected to be of gastrointestinal (GI) origin; primary tumors arising from the lung, gynecologic organs or prostate are not permitted\n* Patients must have pathologically/histologically confirmed tumor of non-small cell histology\n* Patients must have a Ki-67 proliferative index of 20-100% OR at least 10 mitotic figures per 10 high powered fields\n* Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria; baseline measurements and evaluations of all sites of disease must be obtained within 4 weeks prior to randomization and must be acquired by multiphasic computed tomography (CT) or contrast magnetic resonance imaging (MRI)\n\n  * NOTE: positron emission tomography (PET)-CT scans are allowed provided the CT portion of the exam is equivalent to a diagnostic CT scan and includes both oral and IV contrast\n* Any prior surgeries must have been completed at least 4 weeks prior to randomization\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Patients may not be receiving any other investigational agents while on study treatment\n* Patients may not be receiving Coumadin while on treatment; other anticoagulants are allowed\n* Leukocytes \\>= 3,000/mm\\^3\n* Absolute neutrophil count \\>= 1,500/mm\\^3\n* Hemoglobin \\>= 9 g/dL\n* Platelets \\>= 100,000/mm\\^3\n* Total bilirubin =\\< institutional upper limit of normal (ULN) or =\\< 1.5 X institutional ULN (if the patient has liver metastases)\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 X institutional ULN or (=\\< 5 X institutional ULN if the patient has liver metastases)\n* Serum creatinine =\\< 1.5 X institutional ULN and creatinine clearance \\>= 60 ml/min\n\n  * NOTE: creatinine clearance must be calculated using the Cockcroft-Gault equation\n* Patients must have a life expectancy of \\>= 12 weeks as determined clinically by the treating physician\n* Patients with impaired decision-making capacity may participate in the study if a legal authorized representative is available to consent\n* Women of childbearing potential and sexually active males must be strongly advised to use an accepted and effective method of contraception or to abstain from sexual intercourse for the duration of their participation in the study\n* Patients must be able to swallow pills\n* Patients must be able to tolerate CT or magnetic resonance (MR) imaging including contrast agents as required for the treatment and the protocol\n\nExclusion Criteria:\n\n* Patients may not have had any prior systemic treatment for this malignancy (for example chemotherapy or somatostatin analogues); prior palliative radiation is permitted but radiated lesions may not be used for measurement\n* Patients may not have received any of the protocol agents within 5 years prior to randomization\n* Patients with brain metastases (either remote or current) or presence of carcinomatous meningitis are not eligible\n* Patients with known dihydropyrimidine dehydrogenase (DPD) deficiency will be excluded\n* Patients must NOT have active or uncontrolled infection, symptomatic heart failure, unstable angina pectoris, cardiac arrhythmia or a serious psychiatric illness/social situation that would limit compliance with study requirements\n* Patients must NOT have a history of allergic reactions attributed to compounds of similar chemical or biochemical composition to cisplatin, carboplatin, etoposide, temozolomide or capecitabine\n* Patients must NOT have absorption issues that would limit the ability to absorb study agents\n* Patients with a history of the following within =\\< 12 months of study entry are not eligible:\n\n  * Arterial thromboembolic events\n  * Unstable angina\n  * Myocardial Infarction\n* Patients with symptomatic peripheral vascular disease are not eligible\n* Patients must NOT have previous or concurrent malignancy; exceptions are made for patients who meet any of the following conditions:\n\n  * Non-melanoma skin cancer, in situ cervical cancer, superficial bladder cancer, or breast cancer in situ OR\n  * Prior malignancy completely excised or removed and patient has been continuously disease free for \\> 5 years OR\n  * Prior malignancy cured by non-surgical modalities and patient has been continuously disease free for \\> 5 years\n* Women must not be pregnant or breast-feeding\n\n  * All females of childbearing potential must have a blood test or urine study within 2 weeks prior to randomization to rule out pregnancy\n  * A female of childbearing potential is any woman, regardless of sexual orientation or whether they have undergone tubal ligation, who meets the following criteria: 1) has not undergone a hysterectomy or bilateral oophorectomy; or 2) has not been naturally postmenopausal for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patients who are known to have human immunodeficiency virus (HIV) or are on combination antiretroviral therapy are ineligible",
   "enrollment": 67,
   "has_results": true,
@@ -91,15 +91,15 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "뇌전이 또는 암성 수막염",
-    "이전 전신 항암 치료 병력",
-    "활동성 또는 조절되지 않는 감염",
+    "뇌 전이 또는 암성 수막염이 있는 경우",
+    "활성형 또는 조절되지 않는 감염, 심장질환이 있는 경우",
+    "이전 전신 항암 치료를 받은 경우",
     "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 항암 치료가 없는 진행성 위장관췌장 신경내분비 암종 환자",
+   "notes_ko": "이전 전신 치료력이 없는 국소 진행성 또는 전이성 위장관췌장 신경내분비 암종 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

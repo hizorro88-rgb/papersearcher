@@ -1,0 +1,64 @@
+{
+ "abstract": "PURPOSE: Imaging surveillance for pancreatic cancer (PC) is recommended for select high-risk individuals (HRIs) with a goal of downstaging PC diagnosis and improving long-term survival. A common subgroup of HRIs undergoing PC surveillance imaging includes those with a heterozygous pathogenic germline variant (PGV) in breast cancer susceptibility genes BRCA1, BRCA2, ATM, or PALB2. Despite expanding recommendations for PC surveillance imaging in these individuals, limited evidence exists to guide counseling regarding the frequency and longitudinal outcomes of imaging findings.\nMETHODS: The Pancreatic Cancer Early Detection (PRECEDE) Consortium is a prospective multicenter cohort study of HRIs undergoing PC surveillance imaging. In this study, we report imaging outcomes across the first 5 years of enrollment (April 2020-April 2025) for PRECEDE participants with a heterozygous PGV in BRCA1, BRCA2, ATM, or PALB2.\nRESULTS: Among 2,085 eligible participants, PGVs in BRCA2 (51%) were most common, followed by BRCA1 (21%), ATM (19%), and PALB2 (9%). Baseline pancreatic imaging occurred primarily with endoscopic ultrasound (EUS; 55%) or magnetic resonance imaging (43%). More than half (54%) of the participants had at least 1 pancreatic imaging finding during the study, while concerning findings including worrisome cysts, main pancreatic duct dilation ≥5 mm, and solid masses were detected in 9.1% of the cohort. Among HRIs without a pancreatic cyst or solid mass at baseline imaging, 71% remained without findings after at least two follow-ups. Additionally, 87% of HRIs with pancreatic cysts and follow-up imaging using the same modality did not have worrisome cyst growth.\nCONCLUSION: In this largest reported cohort of BRCA1, BRCA2, ATM, and PALB2 heterozygotes undergoing PC surveillance imaging, benign/low-risk pancreatic imaging findings were common and stable on short-term follow-up, providing important data for counseling these HRIs.",
+ "authors": [
+  "Kasselman S",
+  "Long JM",
+  "Hartman TR",
+  "Hawthorne K",
+  "Graff JJ",
+  "Kastrinos F",
+  "Lucas AL",
+  "Katona BW"
+ ],
+ "categories": [
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42976359",
+ "importance": 0.77,
+ "key_points_ko": [
+  "대상자 2,085명 중 BRCA2(51%) 병원성 생식세포 변이(PGV)가 가장 흔했으며, BRCA1(21%), ATM(19%), PALB2(9%) 순이었습니다.",
+  "검사 대상자의 54%에서 췌장 영상 소견이 관찰되었으나, 우려되는 낭종, 5mm 이상의 췌관 확장, 고형 종양 등 위험 소견은 9.1%에서만 확인되었습니다.",
+  "기저 검사에서 낭종이 발견되었던 환자 중 동일한 방법으로 추적 검사를 받은 환자의 87%는 위험한 크기 증가가 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1200/PO-26-00955",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42976359"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Precis Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976359/"
+ },
+ "summary_ko": "BRCA1, BRCA2, ATM, PALB2 유전자 변이를 가진 췌장암 고위험군을 대상으로 췌장암 감시 영상 검사의 장기 결과를 분석한 전향적 연구입니다. PRECEDE 컨소시엄에 등록된 2,085명의 고위험군 참가자를 대상으로 5년 동안의 췌장 영상 소견을 추적 관찰했습니다. 대상자의 54%에서 1개 이상의 췌장 영상 소견이 관찰되었으나, 우려할 만한 낭종이나 고형 종양 등 고위험 소견은 9.1%에 불과했습니다. 기저 검사에서 이상이 없던 참가자의 71%는 추적 검사에서도 이상 소견이 없었으며, 낭종이 있던 환자의 87%도 크기 증가 없이 안정적인 상태를 유지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Longitudinal Pancreatic Imaging Findings in BRCA1, BRCA2, ATM, and PALB2 Heterozygotes Undergoing Pancreatic Cancer Surveillance: A Prospective PRECEDE Consortium Study",
+ "title_ko": "BRCA1, BRCA2, ATM, PALB2 이형접합 변이 보유자의 췌장암 감시 검사 중 장기 췌장 영상 소견: 전향적 PRECEDE 컨소시엄 연구",
+ "trial": null,
+ "type": "paper"
+}

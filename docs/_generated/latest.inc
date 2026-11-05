@@ -1,38 +1,37 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,004</b><span>누적 수집<br><small>논문·소식 481 · 임상시험 523</small></span></div><div class="ps-stat"><b>+22</b><span>오늘 신규<br><small>갱신 13건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,025</b><span>누적 수집<br><small>논문·소식 494 · 임상시험 531</small></span></div><div class="ps-stat"><b>+21</b><span>오늘 신규<br><small>갱신 35건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-04](_generated/daily/2026/11/04.md)
+최근 수집일: [2026-11-05](_generated/daily/2026/11/05.md)
 
 <a id="nct-nct07409272"></a>
-#### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및 안전성을 평가하기 위한 연구](https://clinicaltrials.gov/study/NCT07409272)
+#### [전이성 췌장암 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및 안전성 평가 연구](https://clinicaltrials.gov/study/NCT07409272)
 <small>A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-02-13 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 1.00
 
 **NCT07409272** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](_generated/trials/NCT07409272.md)
 
-이 임상시험은 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 세티데그라시브(setidegrasib)와 화학요법(mFOLFIRINOX 또는 NALIRIFOX) 병용 투여의 효과와 안전성을 평가합니다. 환자들은 무작위로 세티데그라시브 또는 위약(placebo)을 화학요법과 함께 투여받습니다. 주요 목표는 병용 치료가 생존 기간을 연장하는지, 그리고 암과 증상의 재발을 지연시키는지 확인하는 것입니다. 이 연구에는 총 614명의 환자가 참여하며 국내 8곳의 기관이 포함됩니다.
+이 연구는 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 성인 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 항암화학요법에 setidegrasib(세티데그라시브) 또는 위약(placebo)을 병용 투여하여 효과와 안전성을 평가하는 3상 임상시험입니다. 목표 인원은 614명이며 국내 8곳의 기관이 참여합니다. 주요 목적은 setidegrasib 병용 투여군이 대조군에 비해 생존기간을 연장하는지 확인하는 것입니다. 환자들은 질병이 진행되거나 부작용을 견디지 못할 때까지 치료를 받게 됩니다.
 
-- 대상 질환: KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer)
-- 중재 치료: setidegrasib 또는 위약(placebo) + mFOLFIRINOX 또는 NALIRIFOX 화학요법
-- 목표 인원: 614명 (국내 기관 8곳 참여)
-- 임상 단계: 3상(PHASE3) 임상시험
+- 목표 인원은 614명이며 국내 8개 기관에서 진행되는 3상 임상시험입니다.
+- 대상은 KRAS G12D 변이가 있는 전이성 췌장암 환자입니다.
+- mFOLFIRINOX 또는 NALIRIFOX 화학요법에 setidegrasib 또는 위약을 병용하여 생존기간 연장 효과 등을 평가합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
 ---
 <a id="nct-nct06608927"></a>
-#### [전이성 췌관선암 환자를 대상으로 quemliclustat와 항암화학요법 대 위약과 항암화학요법을 비교하는 연구](https://clinicaltrials.gov/study/NCT06608927)
+#### [전이성 췌관선암 환자에서 켐리클루스타트(quemliclustat) 및 항암화학요법 대 위약 및 항암화학요법을 비교하는 임상시험](https://clinicaltrials.gov/study/NCT06608927)
 <small>Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-09-23 · ClinicalTrials.gov · Arcus Biosciences, Inc. · 중요도 1.00
 
 **NCT06608927** · 3상 · 진행 중(모집 종료) · 국내 3곳 · [참여 조건·기관 보기](_generated/trials/NCT06608927.md)
 
-이 임상시험은 전이성 췌관선암(PDAC) 환자를 대상으로 quemliclustat, nab-paclitaxel(납파클리탁셀), gemcitabine(젬시타빈) 병용 요법과 위약, nab-paclitaxel, gemcitabine 병용 요법의 전체 생존기간(OS)을 비교합니다. 대상 질환은 전이성 췌관선암이며, 목표 인원은 610명입니다. 본 연구는 3상(PHASE3) 단계로 진행 중입니다.
+이 연구는 전이성 췌관선암(PDAC) 환자를 대상으로 켐리클루스타트, nab-paclitaxel(나브-파클리탁셀), gemcitabine(젬시타빈) 병용 요법과 위약, nab-paclitaxel, gemcitabine 병용 요법의 전체생존기간(OS)을 비교하는 3상 임상시험입니다. 전이성 단계에서 이전에 치료받은 적이 없는 환자 610명을 목표로 진행합니다. 국내 3개 기관이 참여합니다.
 
-- 연구의 주요 목적은 췌관선암 환자에서 quemliclustat 병용 요법의 전체 생존기간(OS) 효과를 평가하는 것입니다.
-- 중재 치료로 quemliclustat 또는 위약에 nab-paclitaxel과 gemcitabine이 함께 투여됩니다.
-- 목표 환자 수는 총 610명이며 국내 3개 기관이 참여합니다.
+- 목표 환자 수는 610명이며 국내 3개 기관이 참여합니다.
+- 시험 치료군은 켐리클루스타트, nab-paclitaxel, gemcitabine 병용 요법입니다.
+- 대조군은 위약, nab-paclitaxel, gemcitabine 병용 요법입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06608927) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06608927)</small>
 

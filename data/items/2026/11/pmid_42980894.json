@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) lacks effective stratification tools to guide therapy. This study explores the potential of triptolide-associated biology in developing a prognostic model for risk stratification and treatment guidance. By integrating computational target predictions with TCGA and ICGC transcriptomic cohorts, we identified differentially expressed triptolide-associated genes. A gene prognostic signature was developed using Cox regression and SHAP-based feature ranking, followed by comprehensive immune landscape and in silico drug-sensitivity profiling. We identified a core six-gene prognostic signature comprising AADAC, BTNL9, ADGRF1, AQP2, F5, and H2AC6. This model demonstrated exceptional predictive accuracy, with 1-, 3-, and 5-year AUC values of 0.759, 0.748, and 0.741 in the training set, and consistent performance in the validation cohort (0.626, 0.677, and 0.703). High-risk patients were characterized by a classic \"immune-cold\" microenvironment, showing enrichment of M0 macrophages and upregulated immune checkpoints (BTLA, PDCD1, TIGIT). TIDE analysis further revealed that high-risk patients exhibited an \"immune-excluded\" phenotype characterized by elevated Exclusion and MDSC scores. Furthermore, high-risk patients showed higher sensitivity to paclitaxel and erlotinib, while low-risk patients were more responsive to axitinib and metformin. Molecular docking confirmed stable, high-affinity binding between triptolide and all six target proteins, providing a biophysical basis for the model. Single-cell analysis revealed that the six genes are primarily expressed in endothelia, ductal cells and acinar cells. IHC staining confirmed an enhancement in AADAC, AQP2, ADGRF1, and H2AC6 protein levels in PDAC lesions. This six-gene signature serves as a prognostic model for PDAC risk stratification, with its constituent genes computationally predicted to interact with triptolide, provideing a testable hypothesis for future mechanistic exploration.",
+ "authors": [
+  "Xie H",
+  "Deng M",
+  "He H",
+  "Liang J",
+  "Li J"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42980894",
+ "importance": 0.61,
+ "key_points_ko": [
+  "6개 핵심 유전자 기반 예후 모델의 1년, 3년, 5년 생존 예측 AUC 수치는 훈련군에서 각각 0.759, 0.748, 0.741을 기록했습니다.",
+  "검증군 데이터에서도 1년, 3년, 5년 AUC가 각각 0.626, 0.677, 0.703으로 일관된 예측 정확도를 확인했습니다.",
+  "고위험군 환자는 면역-냉성(immune-cold) 미세환경을 나타냈으며 paclitaxel(파클리탁셀)과 erlotinib(에를로티닙)에, 저위험군 환자는 axitinib(액시티닙)과 metformin(메트포르민)에 높은 감수성을 보였습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1007/s12032-026-03430-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42980894"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42980894/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자의 예후를 예측하고 맞춤형 치료를 안내하기 위해 트립톨라이드(triptolide) 관련 생물학적 표지를 활용한 예측 모델을 개발했습니다. 연구진은 데이터 분석을 통해 6개 핵심 유전자(AADAC, BTNL9, ADGRF1, AQP2, F5, H2AC6)로 구성된 예후 예측 모델을 구축했습니다. 분석 결과 고위험군 환자는 면역 거부형(immune-excluded) 특성을 보였으며 paclitaxel(파클리탁셀) 및 erlotinib(에를로티닙) 치료에 더 민감한 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A triptolide-associated prognostic model for personalized treatment stratification in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장관선암의 맞춤형 치료 분류를 위한 트립톨라이드 관련 예후 예측 모델",
+ "trial": null,
+ "type": "paper"
+}

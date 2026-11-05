@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic cancer continues to be among the deadliest malignancies because of its aggressive biology, dense stromal structure, profound immunosuppression, and restricted responsiveness to existing treatment approaches. Accumulating evidence indicates that effective intervention likely depends on coordinated regulation of the tumor immune-stromal microenvironment, metabolic plasticity, and host-tumor interactions, rather than on malignant-cell targeting alone. Naringenin, a naturally occurring citrus flavanone, has received increasing attention due to its wide-ranging biological effects, including anti-inflammatory, antioxidant, immunomodulatory, and metabolic regulatory activities. This narrative review critically evaluates the current evidence on the molecular mechanisms through which naringenin affects pancreatic cancer progression, with a particular focus on tumor immune-stromal interactions, immunometabolic reprogramming, microbiota-host signaling, and therapeutic resistance. We examine its effects on oncogenic signaling pathways, immune cell function, cancer-associated fibroblasts, extracellular matrix remodeling, oxidative stress, mitochondrial homeostasis, and regulated cell death, while emphasizing growing evidence that connects dietary polyphenols with gut microbiota-derived metabolites and systemic immune regulation. The review also assesses the potential of naringenin as an adjuvant to conventional chemotherapy, targeted therapy, and immunotherapy, while recognizing the constraints arising from low bioavailability, heterogeneous preclinical models, and limited clinical evidence. Finally, we highlight key knowledge gaps and outline future research priorities, including biomarker-guided patient stratification, advanced drug delivery systems, and translational studies that combine multi-omics technologies with mechanistic investigations. Improved understanding of these interrelated mechanisms may support the rational development of naringenin-based therapeutic strategies for pancreatic cancer.",
+ "authors": [
+  "Zhou Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42979040",
+ "importance": 0.64,
+ "key_points_ko": [
+  "나린제닌은 항염증, 항산화, 면역조절, 대사 조절 활성을 가진 천연 감귤류 플라바논입니다.",
+  "종양 면역-간질 미세환경, 면역대사 재프로그래밍, 마이크로바이옴-숙주 상호작용에 미치는 영향을 분석했습니다.",
+  "기존 항암화학요법, 표적치료, 면역치료의 보조제로서의 잠재력을 평가했습니다.",
+  "낮은 생체 이용률, 이질적인 전임상 모델, 제한된 임상 증거가 한계로 지적되었습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1955015",
+  "nct": [],
+  "pmcid": "PMC13729121",
+  "pmid": "42979040"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-20",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42979040/"
+ },
+ "summary_ko": "이 문헌은 췌장암에서 나린제닌(naringenin)이 종양 면역-간질 미세환경(tumor immune-stromal microenvironment), 면역대사 재프로그래밍, 마이크로바이옴-숙주 신호전달 및 치료 저항성에 미치는 분자적 기전을 평가한 서술적 문헌고찰(narrative review)입니다. 천연 감귤류 플라바논(citrus flavanone)인 나린제닌이 항염증, 항산화, 면역조절, 대사 조절 작용을 통해 췌장암 진행에 미치는 영향을 분석했습니다. 또한 기존 항암화학요법, 표적치료, 면역치료의 보조제(adjuvant)로서의 가능성을 평가하면서도 낮은 생체 이용률과 제한된 임상 증거 등의 한계를 지적했습니다. 향후 바이오마커 기반 환자 층화와 약물 전달 시스템 개선 등의 연구 방향을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Naringenin in pancreatic cancer: emerging evidence on the tumor immune-stromal microenvironment, immunometabolic reprogramming, microbiota-host crosstalk, and therapeutic resistance",
+ "title_ko": "췌장암에서의 나린제닌: 종양 면역-간질 미세환경, 면역대사 재프로그래밍, 마이크로바이옴-숙주 상호작용 및 치료 저항성에 관한 새로운 증거",
+ "trial": null,
+ "type": "paper"
+}

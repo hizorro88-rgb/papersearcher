@@ -1,0 +1,59 @@
+{
+ "abstract": "Liver metastases are a major cause of mortality in colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC), yet the oncogenic signals that shape tumor metabolism in the hepatic niche remain poorly understood. Here, we show that HER3 activation drives a liver metastasis-specific glycolytic program in both cancer types. Genetic or pharmacological HER3 inhibition suppresses cancer glycolysis while increasing dependence on oxidative phosphorylation (OXPHOS), rendering liver metastases vulnerable to OXPHOS inhibition. Combining the HER3 inhibitor sapitinib with distinct OXPHOS inhibitors led to in vitro synergy and durable tumor-free survival in orthotopic CRC and PDAC liver metastases models, with further validation in patient-derived xenografts. Mechanistically, HER3 promotes glycolysis through activating PFK2 and reduces OXPHOS through activating DRP1-mediated mitochondrial remodeling, both pathways were activated in liver metastases compared to matched primary tumors. Together, our findings identify the HER3-AKT/RSK-PFK2 axis as a driver of glycolysis and metastatic growth and reveal an OXPHOS dependency induced by HER3 inhibition that may be exploited through combined HER3 and OXPHOS targeting in metastatic CRC and PDAC.",
+ "authors": [
+  "Rathore M",
+  "Wei C",
+  "Winter J",
+  "Wang R."
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.10.30.763164",
+ "importance": 0.54,
+ "key_points_ko": [
+  "HER3 활성화는 간 전이암에서 특이적인 해당작용 프로그램을 구동합니다.",
+  "HER3 억제는 해당작용을 억제하고 산화적 인산화(OXPHOS) 의존도를 증가시킵니다.",
+  "HER3 억제제 sapitinib과 산화적 인산화 억제제의 병용은 전임상 모델에서 지속적인 종양 무병 생존을 유도했습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.64898/2026.10.30.763164",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1357454"
+ },
+ "summary_ko": "본 연구는 HER3 활성화가 간 전이암에서 당당분해(glycolytic) 프로그램을 유도한다는 사실을 밝혔습니다. 유전적 또는 약물학적 HER3 억제는 암세포의 해당작용을 억제하는 동시에 산화적 인산화(OXPHOS)에 대한 의존도를 높였습니다. HER3 억제제인 sapitinib과 산화적 인산화 억제제를 병용했을 때 전임상 모델에서 시너지 효과와 지속적인 생존이 관찰되었습니다. 본 연구 결과는 HER3와 산화적 인산화 표적의 병용 치료가 전이성 췌장암과 대장암 치료에 활용될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "HER3 mediates metabolic reprogramming in metastatic colorectal and pancreatic cancer",
+ "title_ko": "HER3는 전이성 대장암과 췌장암에서 대사 재프로그래밍을 매개합니다",
+ "trial": null,
+ "type": "preprint"
+}

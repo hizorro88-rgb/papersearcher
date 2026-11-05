@@ -19,11 +19,11 @@
  "id": "nct:NCT04482309",
  "importance": 0.84,
  "key_points_ko": [
-  "목표 인원은 총 477명입니다.",
-  "국내 4곳의 기관이 참여합니다.",
-  "Part 1은 췌장암을 포함한 7개 코호트로 구성됩니다."
+  "목표 인원은 총 477명이며 국내 4곳의 기관이 참여합니다.",
+  "췌장암을 포함한 파트 1과 HER2 발현/증폭 고형암을 대상으로 하는 파트 2로 구성됩니다.",
+  "트라스투주맙 데룩스테칸(trastuzumab deruxtecan)의 유효성과 안전성을 평가합니다."
  ],
- "last_updated": "2026-11-04",
+ "last_updated": "2026-11-05",
  "links": {
   "doi": null,
   "nct": [
@@ -46,20 +46,20 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04482309"
  },
- "summary_ko": "이 연구는 특정 HER2 발현 고형암 환자를 대상으로 항체-약물 접합체인 trastuzumab deruxtecan(T-DXd)의 유효성과 안전성을 평가하기 위한 다기관, 다코호트, 공개 2상 임상시험입니다. 췌장암을 포함한 다양한 암종의 환자들을 대상으로 치료 효과를 평가합니다. 본 연구는 T-DXd가 특정 HER2 발현 고형암에서 의미 있는 임상적 활성과 유리한 위험-이익 프로파일을 보일 것으로 가정합니다.",
+ "summary_ko": "이 연구는 특정 HER2 발현 고형암 환자를 대상으로 트라스투주맙 데룩스테칸(trastuzumab deruxtecan, T-DXd)의 유효성과 안전성을 평가하는 다기관, 다코호트 2상 임상시험입니다. 췌장암을 포함한 여러 고형암 환자를 대상으로 치료 효과를 확인하기 위해 진행됩니다. 연구 가설은 트라스투주맙 데룩스테칸(trastuzumab deruxtecan)이 특정 HER2 발현 고형암에서 의미 있는 임상적 활성과 유리한 위험-이익 프로파일을 보일 것이라는 점입니다.",
  "summary_source": "llm",
  "tags": [
   "T-DXd, DS-8201a, Trastuzumab Deruxtecan, HER2"
  ],
  "title": "A Phase 2 Study of T-DXd in Patients With Selected HER2 Expressing Tumors",
- "title_ko": "특정 HER2 발현 고형암 환자를 대상으로 한 Trastuzumab deruxtecan(T-DXd) 2상 연구",
+ "title_ko": "특정 HER2 발현 고형암 환자를 위한 트라스투주맙 데룩스테칸(T-DXd) 2상 임상시험",
  "trial": {
   "conditions": [
    "Part 1: Bladder, Biliary Tract, Cervical, Endometrial, Ovarian, Pancreatic Cancer, Rare Tumors, Any Tumor Type Excluding Breast, Gastric, Colorectal Cancer",
    "Part 2: HER2 Expressing/Amplified Solid Tumors Excluding Breast, Gastric, Colorectal Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 최근 영상 검사 결과 국소 진행성, 수술 불가 또는 전이성 질환인 환자\n- Part 1 또는 Part 2의 해당 코호트(췌장암 포함)에 속하는 환자\n- 이전 치료 후 진행되었거나 만족스러운 대안 치료 옵션이 없는 환자\n- RECIST 버전 1.1에 따라 연구자가 평가한 측정 가능한 표적 병변이 있는 환자\n- 프로토콜에서 정의한 적절한 장기 기능을 가진 환자\n\n제외 기준:\n- 스테로이드가 필요했던 비감염성 폐렴/간질성폐질환(ILD) 병력, 현재 ILD가 있거나 스크리닝 영상에서 배제할 수 없는 경우\n- 정맥(IV) 항생제, 항바이러스제, 항진균제가 필요한 조절되지 않는 감염\n- 배액, 복막 셔틀 등이 필요한 흉수, 복수 또는 심낭 삼출\n- 종양 HER2 단백질 발현이 없는 알려진 HER2(ERBB2) 체세포 DNA 돌연변이\n- 연구 참여를 방해할 수 있는 의학적 상태",
+  "eligibility_ko": "선정 기준:\n- 최근 영상 검사 결과에 따른 국소 진행성, 절제 불가능한 또는 전이성 질환.\n- 파트 1 또는 파트 2의 해당 코호트(췌장암 포함)에 속하는 환자.\n- 이전 치료 후 진행되었거나 만족스러운 대체 치료 옵션이 없는 경우.\n- 측정 가능한 표적 병변이 있는 경우.\n\n제외 기준:\n- 스테로이드 치료가 필요한 비감염성 폐렴/간질성폐질환(ILD) 병력 또는 현재 ILD가 있는 경우.\n- 정맥 주사 항생제, 항바이러스제, 항진균제가 필요한 조절되지 않는 감염.\n- 배액, 복막 션트 등이 필요한 흉수, 복수, 심낭 삼출.\n- 종양의 HER2 단백질 발현이 없는 알려진 HER2(ERBB2) 체세포 DNA 돌연변이.",
   "eligibility_text": "Inclusion Criteria:\n\n* Locally advanced, unresectable, or metastatic disease based on most recent imaging.\n* Part 1:The respective cohorts for patient inclusion are:\n\n  * Cohort 1: Biliary tract cancer\n  * Cohort 2: Bladder cancer\n  * Cohort 3: Cervical cancer\n  * Cohort 4: Endometrial cancer\n  * Cohort 5: Epithelial ovarian cancer\n  * Cohort 6: Pancreatic cancer\n  * Cohort 7: Rare tumors: This cohort will consist of patients with tumors that express HER2, excluding the tumors mentioned above, and breast, non-small cell lung cancer, gastric cancer, and colorectal cancer.\n* Part 2:The respective cohorts for patient inclusion are:\n\n  * Cohort A: Metastatic or advanced solid tumors that are HER2 IHC 3+ (excluding breast, gastric cancer, and colorectal cancer). Patients with non-small cell lung cancer can be included.\n  * Cohort B: Metastatic or advanced solid tumors that are HER2 IHC 2+/ISH+ any tumor type (excluding breast, gastric cancer, and colorectal cancer). Patients with non-small cell lung cancer can be included.\n  * Cohort C: Metastatic or advanced solid endometrial cancer that is HER2 IHC 2+ or 1+.\n  * Cohort D: Metastatic or advanced ovarian cancer that is HER2 IHC 2+ or 1+.\n  * Cohort E: Metastatic or advanced solid cervical cancer that is HER2 IHC 2+ or 1+.\n* Progressed following prior treatment or who have no satisfactory alternative treatment option.\n* Prior HER2 targeting therapy is permitted.\n* HER2 expression scored using current ASCO/CAP guidelines for scoring HER2 for gastric cancer.\n\n  * Part 1: IHC 3+ or IHC 2+ by local or central assessment\n  * Part 2: IHC and ISH results by central assessment as pre-defined for each cohort\n* Has measurable target disease assessed by the Investigator based on RECIST version 1.1.\n* Has protocol- defined adequate organ function including cardiac, renal and hepatic function.\n\nExclusion Criteria:\n\n* History of non-infectious pneumonitis/ILD that required steroids, current ILD, or where suspected ILD that cannot be ruled out by imaging at screening\n* Lung-specific intercurrent clinically significant severe illnesses\n* Uncontrolled infection requiring intravenous (IV) antibiotics, antivirals, or antifungals\n* Pleural effusion, ascites or pericardial effusion that requires drainage, peritoneal shunt, or Cell-free and Concentrated Ascites Reinfusion Therapy (CART\n* Known Somatic DNA mutation of HER2 (ERBB2) without tumoral HER2 protein expression.\n* Primary diagnosis of adenocarcinoma of the breast, adenocarcinoma of the colon or rectum, adenocarcinoma of the gastric body or gastro-esophageal junction, or non-small cell lung cancer for Part 1. For Part 2, patients with primary diagnosis of adenocarcinoma of the breast, adenocarcinoma of the colon or rectum, adenocarcinoma of the gastric body or gastro-esophageal junction will be excluded.\n* Medical conditions that may interfere with the subject's participation in the study.",
   "enrollment": 477,
   "has_results": false,
@@ -119,15 +119,14 @@
    ],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "간질성폐질환(ILD) 병력 또는 현재 ILD가 있는 경우",
-    "정맥 주사 치료가 필요한 조절되지 않는 감염",
-    "배액이 필요한 흉수, 복수, 심낭 삼출",
-    "종양 HER2 단백질 발현이 없는 HER2 돌연변이"
+    "폐렴 또는 간질성폐질환(ILD) 병력",
+    "정맥 주사가 필요한 조절되지 않는 감염",
+    "배액이 필요한 흉수, 복수, 심낭 삼출"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 후 진행된 HER2 발현 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "이전 치료 후 진행된 HER2 발현 전이성 또는 국소 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

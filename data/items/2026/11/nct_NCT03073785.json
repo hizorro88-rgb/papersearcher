@@ -1,0 +1,115 @@
+{
+ "abstract": "Pancreatic cancer, most commonly adenocarcinoma, is the fourth leading cause of cancer death in the United States. The mainstay of management centers on surgical resection (if resectable) and although low (15% to 20%), resectability rates are associated with dismal survival. An estimated 80% to 85% of the patients recur after surgical resection, leading to a median survival of 20 to 24 months and potentially even less depending on lymph nodal involvement or positive margins. The rationale for utilizing neoadjuvant therapy, commonly fluoropyrimidine-based or gemcitabine based chemotherapy or Chemoradiotherapy (CRT), involves possibly down staging borderline resectable and unresectable patients, potentially making them resectable candidates.\n\nThis randomized phase II trial will study how well hypofractionated stereotactic body radiation therapy (SBRT) and fluorouracil or capecitabine with or without zoledronic acid work in treating participants with pancreatic cancer that has spread to nearby tissue or lymph nodes. Hypofractionated stereotactic body radiation therapy is a specialized radiation therapy that sends higher doses of x-rays over a shorter period of time directly to the tumor using smaller doses over several days which may cause less damage to normal tissue. Drugs used in chemotherapy, such as fluorouracil and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Zoledronic acid is used in cancer patients to reduce cancer symptoms and may make tumor cells more sensitive to radiation. Giving hypofractionated stereotactic body radiation therapy and fluorouracil or capecitabine with or without zoledronic acid may work better in treating pancreatic cancer.\n\nPancreatic cancer, most commonly adenocarcinoma, is the fourth leading cause of cancer death in the United States. The mainstay of management centers on surgical resection (if resectable) and although low (15% to 20%), resectability rates are associated with dismal survival. An estimated 80% to 85% of the patients recur after surgical resection, leading to a median survival of 20 to 24 months and potentially even less depending on lymph nodal involvement or positive margins. The rationale for utilizing neoadjuvant therapy, commonly fluoropyrimidine-based or gemcitabine based chemotherapy or Chemoradiotherapy (CRT), involves possibly down staging borderline resectable and unresectable patients, potentially making them resectable candidates.\n\nThis randomized phase II trial will study how well hypofractionated stereotactic body radiation therapy (SBRT) and fluorouracil or capecitabine with or without zoledronic acid work in treating participants with pancreatic cancer that has spread to nearby tissue or lymph nodes. Hypofractionated stereotactic body radiation therapy is a specialized radiation therapy that sends higher doses of x-rays over a shorter period of time directly to the tumor using smaller doses over several days which may cause less damage to normal tissue. Drugs used in chemotherapy, such as fluorouracil and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Zoledronic acid is used in cancer patients to reduce cancer symptoms and may make tumor cells more sensitive to radiation. Giving hypofractionated stereotactic body radiation therapy and fluorouracil or capecitabine with or without zoledronic acid may work better in treating pancreatic cancer.\n\nThe primary study objective is to evaluate the efficacy of hypofractionated radiation therapy concurrently with zoledronic acid (Zometa) and fluorouracil or capecitabine. Other study objectives include examining the toxicity of Zometa when used concurrently with hypofractionated radiation therapy, evaluating local failure-free survival and overall survival, determining surgical resection and tumor response rates, measuring Zometa pharmacokinetics, evaluating tumor and organ motion and determining the effect those on the dosimetry, local control and survival. Post-treatment follow-up is for 30 days, then every 3 months for the first year, every 4 months for the second year, and every 6 months thereafter.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03073785",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03073785"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2017-03-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Nebraska",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03073785"
+ },
+ "summary_ko": "Pancreatic cancer, most commonly adenocarcinoma, is the fourth leading cause of cancer death in the United States. The mainstay of management centers on surgical resection (if resectable) and although low (15% to 20%), resectability rates are associated with dismal survival.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Hypofractionated Stereotactic Body Radiation & Fluorouracil or Capecitabine for Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma",
+   "Recurrent Pancreatic Carcinoma",
+   "Stage I Pancreatic Cancer AJCC v6 and v7",
+   "Stage IA Pancreatic Cancer AJCC v6 and v7",
+   "Stage IB Pancreatic Cancer AJCC v6 and v7",
+   "Stage II Pancreatic Cancer AJCC v6 and v7",
+   "Stage IIA Pancreatic Cancer AJCC v6 and v7",
+   "Stage IIB Pancreatic Cancer AJCC v6 and v7",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Pathologically confirmed pancreatic adenocarcinoma, either initially diagnosed or recurrent locally advanced disease. The maximum dimension of the treatment target must be =\\<10 cm. Locally advanced disease defined as: T 1-2N+MO or T3-4 NxMo, or borderline resectable and unresectable adenocarcinoma without distant metastatic disease or resectable T3-4 NxMo disease or M1 with controlled distant disease\n* Inoperable conditions with resectable disease (T1-2NoMo)\n* Karnofsky performance status of 60% or better. Received recent chemotherapy for pancreatic cancer or completed chemotherapy \\> 5 years ago for malignancies other than pancreatic cancer with no evidence of the second malignancy at study entry\n* Radiation therapy completed \\> 5 years ago for malignancies other than pancreatic cancer and whose radiation therapy field is not overlapping with the 20% isodose line of current radiation field and no evidence of the second malignancy at study entry\n* All malignant disease must be able to be encompassed within a single irradiation field\n* Absolute neutrophil count (ANC) greater than or equal to 1500/uL\n* Radiographically assessable disease\n* Platelet count greater than or equal to 100,000/uL\n* Serum creatinine less than or equal to 2.0 mg/dL and total bilirubin less than or equal to 2.0 mg/dL in the absence of biliary obstruction. If biliary obstruction is present, biliary decompression will be required, either endoscopic placement of a biliary stent or percutaneous transhepatic. Once biliary drainage has been established, institution of protocol therapy may proceed when the total bilirubin falls to 4.0 mg/dL or lower\n* Calculated creatinine clearance of \\>= 35.\n* Awareness of the neoplastic nature of his/her disease and willingly provide written, informed consent after being informed of the procedure to be followed, the experimental nature of the therapy, alternatives, potential benefits, side-effects, risks, and discomforts\n\nExclusion Criteria:\n\n* Known allergy to Zometa or to anti-emetics appropriate in conjunction with protocol-directed therapy\n* Uncontrolled inter-current illness that might jeopardize the ability of the subject to receive the protocol therapy with reasonable safety. This may include, but not limited to, ongoing or active infection requiring intravenous antibiotics, symptomatic congestive heart failure, unstable angina pectoris, or serious, uncontrolled cardiac arrhythmia\n* Pregnant and nursing women\n* Prior malignancy except adequately treated basal cell or squamous cell skin cancer, adequately treated non-invasive carcinomas, or be disease-free for at least 5 years from other cancers\n* Active duodenal ulcer or bleeding or history of a gastrointestinal fistula or perforation or other significant bowel problems (severe nausea, vomiting, inflammatory bowel disease and significant bowel resection)\n* Known human immunodeficiency virus (HIV) infection, or hepatic insufficiency\n* Not currently receiving or have received Zometa within 3 weeks prior to study treatment with Zometa",
+  "enrollment": 46,
+  "has_results": true,
+  "interventions": [
+   "Capecitabine",
+   "Fluorouracil",
+   "Laboratory Biomarker Analysis",
+   "Pharmacological Study",
+   "Stereotactic Body Radiation Therapy",
+   "Zoledronic Acid"
+  ],
+  "last_update_posted": "2026-11-04",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced",
+    "resectable"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "19 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03073785",
+  "phase": "PHASE2",
+  "primary_completion_date": "2023-12-12",
+  "sex": "ALL",
+  "sponsor": "University of Nebraska",
+  "start_date": "2017-03-23",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

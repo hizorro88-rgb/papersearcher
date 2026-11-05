@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Surgical resection for recurrent pancreatic ductal adenocarcinoma (PDAC) remains controversial, and selection criteria are lacking. This study evaluated long-term outcomes after curative-intent resection for recurrent PDAC and examined whether preoperative biologic factors stratify prognosis.\nMETHODS: Patients undergoing curative-intent resection for recurrent PDAC after pancreatectomy between 2005 and 2023 were retrospectively analyzed. Overall survival (OS) and predictors of early recurrence (≤6 months) were assessed using uni- and multivariable analyses.\nRESULTS: Resection for recurrent PDAC was performed for 44 patients. The median survival time (MST) was 32.9 months. Survival differed by recurrence site. The MSTs for the lung, liver, remnant pancreas, and other sites were 62.4, 18.9, 19.3, and 16.5 months, respectively (p = 0.075). Multivariable analysis showed that a CA19-9 concentration higher than 100 U/mL (hazard ratio [HR], 3.20; p = 0.004) and a prognostic nutritional index (PNI) lower than 45 (HR, 3.89; p < 0.001) independently predicted poor OS. Composite CA19-9 and PNI stratification showed three prognostic groups, low-risk (both favorable), intermediate-risk (either favorable), and high-risk (both unfavorable), with MSTs of 61.7, 12.4, and 8.1 months, respectively (p < 0.001). Among the patients with pulmonary recurrence, the low-risk group achieved an MST of 91.5 months, whereas among those with hepatic recurrence, the low-risk group achieved an MST of 55.5 months. A low PNI independently predicted early recurrence (p = 0.040).\nCONCLUSIONS: Increased tumor marker burden and impaired immunonutritional status were associated with poor survival after resection for recurrent PDAC. Integrating tumor biology and host condition into preoperative assessments may inform multidisciplinary surgical decision-making and help prevent futile resection.",
+ "authors": [
+  "Hirose Y",
+  "Sakata J",
+  "Takizawa K",
+  "Nomura T",
+  "Takano K",
+  "Kitami C",
+  "Nakano T",
+  "Aono T"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-05",
+ "history": [
+  {
+   "date": "2026-11-05",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42980922",
+ "importance": 0.77,
+ "key_points_ko": [
+  "재발성 췌장암 절제술을 받은 환자 44명의 중앙 생존기간은 32.9개월이었으며, 폐 재발 환자의 생존기간(62.4개월)이 가장 길었습니다.",
+  "수술 전 CA19-9 100 U/mL 초과(위험비 3.20) 및 PNI 45 미만(위험비 3.89)은 불량한 전체 생존기간의 독립적인 예측 인자였습니다.",
+  "CA19-9와 PNI를 결합한 위험도 분류에서 저위험군, 중위험군, 고위험군의 중앙 생존기간은 각각 61.7개월, 12.4개월, 8.1개월이었습니다."
+ ],
+ "last_updated": "2026-11-05",
+ "links": {
+  "doi": "10.1245/s10434-026-20882-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42980922"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42980922/"
+ },
+ "summary_ko": "본 연구는 췌장 절제술 후 재발한 췌장관선암(PDAC) 환자 44명을 대상으로 근치적 절제술의 성과와 예후 인자를 분석했습니다. 연구 결과 수술 후 중앙 생존기간(MST)은 32.9개월이었으며, 재발 부위와 수술 전 수치에 따라 생존기간에 차이를 보였습니다. 수술 전 종양표지자 CA19-9 및 예후영양지수(PNI)가 수술 후 예후를 예측하는 주요 지표로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Resection for Recurrent Pancreatic Ductal Adenocarcinoma: Preoperative CA19-9 and Host Immunonutritional Status Stratify Overall Survival",
+ "title_ko": "재발성 췌장관선암 수술: 수술 전 CA19-9 및 면역영양 상태를 통한 전체 생존기간 예측",
+ "trial": null,
+ "type": "paper"
+}
