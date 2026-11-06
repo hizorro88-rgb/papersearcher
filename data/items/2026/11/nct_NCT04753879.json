@@ -23,11 +23,11 @@
  "id": "nct:NCT04753879",
  "importance": 0.87,
  "key_points_ko": [
-  "치료 받은 적이 없는 전이성 췌장관암 환자 36명을 대상으로 진행된 2상 임상시험입니다.",
-  "5가지 저용량 항암제 조합 치료 후 olaparib(올라파립) 및 pembrolizumab(펨브롤리주맙) 유지요법의 안전성과 유효성을 관찰했습니다.",
-  "상세한 치료 성과 수치는 초록에 명시되지 않았습니다."
+  "대상 질환은 이전에 치료받은 적이 없는 전이성 췌장암(metastatic pancreatic cancer)입니다.",
+  "중재 방법은 다제 저용량 화학요법(GAX-CI) 후 올라파립(olaparib)과 펨브롤리주맙(pembrolizumab)을 투여하는 유지요법입니다.",
+  "목표 환자 수는 36명이며, 미국 존스 홉킨스 종합 암센터(Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins)에서 진행되었습니다."
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04753879"
  },
- "summary_ko": "이 임상시험은 이전 치료 경험이 없는 전이성 췌장관암 환자를 대상으로 다제 저용량 항암화학요법(GAX-CI: 젬시타빈, 냅-파클리탁셀, 카페시타빈, 시스플라틴, 이리노테칸) 투여 후 올라파립(Olaparib) 및 펨브롤리주맙(Pembrolizumab) 유지요법의 안전성과 임상적 유효성을 평가했습니다. 임상시험은 2상 연구로 총 36명의 환자를 대상으로 진행되었습니다. 연구의 구체적인 치료 반응률 및 생존 기간 수치는 초록에 명시되지 않았습니다.",
+ "summary_ko": "이 연구는 치료받은 적이 없는 전이성 췌장암(metastatic pancreatic cancer) 환자들을 대상으로, 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel), 카페시타빈(capecitabine), 시스플라틴(cisplatin), 이리노테칸(irinotecan)을 포함하는 다제 저용량 화학요법(GAX-CI) 이후 올라파립(olaparib)과 펨브롤리주맙(pembrolizumab) 유지요법의 안전성과 임상적 효과를 평가하기 위해 진행되었습니다. 대상 환자 수는 총 38명(목표 36명)이며 완료(completed)된 2상(phase 2) 임상시험입니다.",
  "summary_source": "llm",
  "tags": [
   "PARP",
@@ -65,13 +65,13 @@
   "PD-L1 (receptor blocking antibody)"
  ],
  "title": "Multi-agent Low Dose Chemotherapy GAX-CI Followed by Olaparib and Pembro in Metastatic Pancreatic Ductal Cancer.",
- "title_ko": "치료 경험이 없는 전이성 췌장관암 환자를 대상으로 한 다제 저용량 항암화학요법 GAX-CI 후 올라파립 및 펨브롤리주맙 유지요법 2상 임상시험",
+ "title_ko": "전이성 췌관선암 환자에서 다제 저용량 화학요법(GAX-CI) 후 올라파립(olaparib) 및 펨브롤리주맙(pembrolizumab) 유지요법에 대한 2상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 연구 참여 서면 동의서에 서명할 수 있는 환자\n- 조직학적 또는 세포학적으로 확증된 전이성 췌장관암 환자\n- 췌장암에 대한 이전 치료 경험이 없는 환자\n- ECOG 수행능력 평가 점수 0점 또는 1점\n- RECIST 1.1 기준 측정 가능한 병변을 보유한 환자\n- 종양 생검 진행에 동의한 환자\n\n제외 기준:\n- 수술 치료 고려 대상자\n- 5년 이내 항암화학요법을 받았거나 이전 PD-1/PD-L1/PD-L2 억제제, PARP 억제제, GAX-CI 약물 치료를 받은 환자\n- 중추신경계(CNS) 전이 또는 암성 뇌수막염 병력이 있는 환자\n- 췌장암으로 방사선 치료를 받은 환자\n- 활동성 자가면역 질환이 있거나 전신 스테로이드 치료를 받는 환자",
+  "eligibility_ko": "선정 기준:\n- 18세 이상 성인\n- 동부종양학협력그룹(ECOG) 수행능력 상태 0 또는 1\n- 조직학적 또는 세포학적으로 진단된 전이성 췌관선암\n- 이전에 췌장암 치료를 받은 적이 없는 환자\n- RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n- 종양 생검에 동의한 환자\n- 연구에서 지정한 적절한 장기 및 골수 기능 충족\n\n제외 기준:\n- 수술이 고려되는 환자\n- 연구 치료 전 5년 이내에 항암화학요법을 받은 적이 있는 환자\n- 중추신경계(CNS) 전이 및/또는 수막 암종증 병력이 있는 환자\n- 이전에 anti-PD-1, anti-PD-L1, anti-PD-L2 치료를 받은 적이 있는 환자\n- 젬시타빈, 냅-파클리탁셀, 카페시타빈, 시스플라틴, 이리노테칸, 또는 PARP 억제제 치료 경험이 있는 환자\n- 활동성 자가면역 질환이 있는 환자\n- 인간면역결핍바이러스(HIV) 감염 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Ability to understand and willingness to sign a written informed consent document.\n* Age ≥18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Have metastatic histologically or cytologically-proven ductal pancreatic cancer.\n* Patients must not have received prior treatment for pancreatic cancer.\n* Have measurable disease based on RECIST 1.1.\n* Willing to have to a tumor biopsy.\n* Patients must have adequate organ and marrow function defined by study - specified laboratory tests.\n* Women of childbearing potential must have a negative pregnancy test and follow contraceptive guidelines as defined per protocol.\n* Men must use acceptable form of birth control while on study.\n* Participant understands the study regimen, its requirements, risks and discomforts, competent to report AE, understand the drug dosing schedule and use of medications to control AE.\n\nExclusion Criteria:\n\n* Patients who will be considered for surgery are ineligible.\n* Had chemotherapy within 5 years prior to study treatment.\n* Have received any investigational drugs within 28 days prior to study treatment.\n* Had surgery within 28 days of dosing of investigational agent.\n* Has history of central nervous system (CNS) metastases and/or carcinomatous meningitis.\n* Require any antineoplastic therapy.\n* Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD L2 agent.\n* Has received prior therapy with gemcitabine, nab-paclitaxel, capecitabine, cisplatin, irinotecan, or PARP inhibitor.\n* Hypersensitivity reaction to any monoclonal antibody.\n* Is taking a moderate or strong CYP3A inhibitor.\n* Has uncontrolled acute or chronic medical illness.\n* Has known additional malignancy that is progressing and requires active treatment.\n* Has received radiotherapy for pancreatic cancer.\n* Have received any live vaccine or live-attenuated, any allergen hyposensitization therapy, growth factors or major surgery within 30 days prior to study treatment.\n* Is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study treatment.\n* Has active autoimmune disease.\n* Has an active known or suspected autoimmune disease or is receiving chronic systemic steroid therapy within 7 days prior to the first dose of study drug.\n* Prior tissue or organ allograft or allogeneic bone marrow transplantation.\n* Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the subject's participation for the full duration of the study, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n* Requirement for daily supplemental oxygen.\n* Patients with a history of (non-infectious) pneumonitis/interstitial lung disease that requires steroids.\n* Subject with clinically significant wound.\n* Has a confirmed history of encephalitis, meningitis, or uncontrolled seizures in the year prior to informed consent.\n* Infection with HIV.\n* Has active Hepatitis B (defined as Hepatitis B surface antigen \\[HBsAg\\] reactive) or Hepatitis C virus (defined as hepatitis C virus (HCV) RNA \\[qualitative\\] is detected) infection. Patients who are Hepatitis C antibody positive and viral load negative will be permitted to enroll.\n* Has uncontrolled infection.\n* Unwilling to have blood drawn.\n* Has known psychiatric or substance use disorder that would interfere with cooperation with the requirements of the trial.\n* Women who are pregnant or breastfeeding.",
   "enrollment": 36,
   "has_results": true,
@@ -94,22 +94,24 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "중추신경계(CNS) 전이 또는 암성 뇌수막염 병력",
-    "이전 췌장암 치료(항암치료, 면역항암제, PARP 억제제, 방사선 치료) 받음",
-    "수술 고려 대상자",
-    "활동성 자가면역 질환 또는 스테로이드 복용 중"
+    "중추신경계(CNS) 전이 병력",
+    "활동성 자가면역 질환",
+    "HIV 감염",
+    "수술이 가능한 환자"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 치료 경험이 없는 1차 전이성 췌장암 환자",
+   "notes_ko": "이전 치료를 받은 적이 없는 전이성 췌장암 환자",
    "prior_excluded": [
     "gemcitabine",
+    "FOLFIRINOX",
     "platinum",
     "fluoropyrimidine",
     "irinotecan",
     "taxane",
     "immunotherapy",
+    "KRAS_inhibitor",
     "radiotherapy"
    ],
    "prior_required": [],

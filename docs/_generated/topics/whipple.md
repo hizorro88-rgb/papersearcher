@@ -30,8 +30,22 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (21)
+## 타임라인 (23)
 
+<a id="pmid-42982334"></a>
+#### [국소 진행성 수술 불가능 췌관선암 환자에서 조직음쇄술 시행 후 로봇 췌두십이지장절제술](https://pubmed.ncbi.nlm.nih.gov/42982334/)
+<small>Post-Histotripsy Robotic Pancreaticoduodenectomy for Locally Advanced Unresectable Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `증례` `수술` `치료 전반` · 2026-11-04 · PubMed · J Gastrointest Surg · 중요도 0.64
+
+본 논문은 수술이 불가능한 국소 진행성 췌관선암(PDAC) 환자에게 조직음쇄술(Histotripsy)을 시행한 후 로봇 췌두십이지장절제술(Robotic Pancreaticoduodenectomy)을 적용한 치료 사례를 보고합니다. 논문의 상세 초록이 제공되지 않아 치료 성과나 안전성에 대한 구체적인 수치는 확인되지 않습니다. 비침습적 음파 치료와 로봇 수술을 결합한 새로운 치료법의 가능성을 다루고 있습니다.
+
+- 국소 진행성 수술 불가능 췌관선암 환자에서 조직음쇄술 후 로봇 췌두십이지장절제술을 시행한 사례입니다.
+- 상세 치료 성과, 환자 수, 부작용 등의 구체적인 수치 정보는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42982334/) · [DOI](https://doi.org/10.1016/j.gassur.2026.102670) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42982334)</small>
+
+---
 <a id="pmid-42968953"></a>
 #### [췌장암 췌두부십이지장절제술 후 비전이성 8번 임파선 크기와 양호한 예후의 연관성](https://pubmed.ncbi.nlm.nih.gov/42968953/)
 <small>Larger Non-metastatic No. 8 Lymph Node Size Is Associated With Favorable Prognosis After Pancreaticoduodenectomy for Pancreatic Cancer</small>
@@ -136,6 +150,21 @@ search:
 - 수술 후 C-반응성 단백(CRP)과 글래스고 예후 점수(GPS) 등 염증 지표는 감소했으나, 식사 섭취 저하는 6개월 동안 지속되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905299/) · [DOI](https://doi.org/10.1007/s00520-026-11357-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13687123/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905299)</small>
+
+---
+<a id="pmid-42985167"></a>
+#### [췌장절제술을 받는 췌장관선암 환자의 영역 중심 수술 전후 영양 관리](https://pubmed.ncbi.nlm.nih.gov/42985167/)
+<small>Beyond nutritional risk scores: domain-guided perioperative nutrition in patients with pancreatic ductal adenocarcinoma undergoing pancreaticoduodenectomy</small>
+
+`논문` `종설` `수술` `지지요법·삶의질` · 2026-10-21 · PubMed · Front Nutr · 중요도 0.68
+
+췌장두부절제술(pancreaticoduodenectomy)을 받는 췌장관선암(PDAC) 환자는 단순 영양 위험 점수만으로 복합적인 영양 문제를 평가하기 어렵습니다. 본 관점(Perspective) 논문은 근육 손실, 췌장 외분비 기능부전, 염증성 부하, 혈당 불안정의 4가지 영역을 기반으로 한 영역 중심 영양 관리 접근법을 제안합니다. 이 접근법은 선행보조요법(neoadjuvant treatment) 단계부터 수술 전후 및 초기 회복기까지 맞춤형 치료 및 재평가 체계를 제공합니다.
+
+- 영양 위험 평가 도구를 넘어 근감소, 소화 장애, 염증성 부하, 혈당 불안정의 4가지 영역으로 나눈 맞춤형 접근법을 제안합니다.
+- 임상적 평가 결과를 담당 의료진, 치료 행동, 반응 측정 및 재평가 일정과 직접 연결하여 체계적인 관리를 유도합니다.
+- 선행보조요법 기간부터 수술 후 회복기까지 환자의 신체 기능 개선 및 예정된 항암 치료 완수를 돕는 것을 목표로 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42985167/) · [DOI](https://doi.org/10.3389/fnut.2026.1955662) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13731360/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42985167)</small>
 
 ---
 <a id="pmid-42920464"></a>

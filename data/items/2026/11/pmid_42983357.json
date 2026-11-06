@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVES: Photon-counting computed tomography (PCCT) enables quantitative assessment of tissue iodine distribution. This exploratory study investigated associations between PCCT-derived iodine parameters and clinical, serologic, and histopathologic characteristics of pancreatic ductal adenocarcinoma (PDAC).\nMATERIALS AND METHODS: This retrospective single-center study included 27 patients with histologically confirmed PDAC who underwent pretreatment contrast-enhanced PCCT. Iodine concentration was measured independently by two blinded readers in arterial and portal-venous phases using a whole-tumor ROI on the largest axial section and a solid-component ROI. Absolute iodine concentration, tumor-to-aorta normalized iodine ratios, and phase-to-phase Δ iodine were evaluated. CA 19 - 9 was analyzed continuously using Spearman rank correlation; cutoff-based and clinicopathologic subgroup comparisons were considered secondary exploratory analyses and were re-analyzed using two-sided Wilcoxon rank-sum tests. All p-values are nominal.\nRESULTS: CA 19 - 9 was available in 24 patients (median 123.5 U/mL; IQR 55.3-1962). Higher CA 19 - 9 was associated with lower portal-venous absolute iodine concentration in the solid tumor component (Spearman ρ=-0.45, 95% CI -0.77 to -0.04; nominal p = 0.028) and with the arterial whole-tumor normalized iodine ratio (ρ=-0.58, 95% CI -0.84 to -0.14; nominal p = 0.010). At the 100 U/mL cutoff, portal-venous solid-component absolute iodine concentration was higher below the cutoff (1.77 ± 0.57 vs. 1.19 ± 0.50 mg/mL; nominal p = 0.017). After two-sided re-analysis, previously reported differences by T category, Ki-67, and tumor-cell count did not reach nominal significance. Interreader reliability was excellent across iodine parameters (ICC range 0.960-0.989).\nCONCLUSION: In this small exploratory cohort, selected absolute and normalized iodine measurements showed nominal inverse associations with CA 19 - 9, whereas associations with tumor stage and histopathologic parameters were not consistent after conservative two-sided re-analysis. PCCT iodine measurements were highly reproducible between readers. These findings are hypothesis-generating and require validation in larger independent cohorts before any incremental clinical value can be inferred.",
+ "authors": [
+  "Saeed S",
+  "Helbing J",
+  "Niehoff J",
+  "Haag NP",
+  "Katz M",
+  "Muecke R",
+  "Saehn MJ",
+  "Elhabash S"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983357",
+ "importance": 0.73,
+ "key_points_ko": [
+  "환자 24명의 분석에서 CA 19-9 수치가 높을수록 문맥기 고형 종양 요오드 농도(상관계수 -0.45) 및 동맥기 정규화 요오드 비율(상관계수 -0.58)이 유의하게 낮았습니다.",
+  "CA 19-9 100 U/mL 미만 군의 문맥기 고형 성분 요오드 농도는 1.77 mg/mL로 100 U/mL 이상 군(1.19 mg/mL)보다 높았습니다.",
+  "T 병기나 Ki-67 증식 지표 등 조직병리학적 특성과의 연관성은 유의하지 않았으나, 판독자 간 측정 일치도는 매우 우수했습니다(ICC 0.960-0.989)."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1186/s12880-026-02980-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983357"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Med Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983357/"
+ },
+ "summary_ko": "조직학적으로 췌관선암(PDAC)이 확인된 환자 27명을 대상으로 치료 전 광자계수 컴퓨터단층촬영(PCCT)을 시행하여 정량적 요오드 분포와 임상적·병리학적 특성의 연관성을 분석한 탐색적 후향 연구입니다. 종양 표지자인 CA 19-9 수치가 높을수록 문맥기의 고형 종양 성분 요오드 농도 및 동맥기 정규화 요오드 비율이 통계적으로 유의하게 낮았습니다. 반면 병기나 Ki-67 등 조직병리학적 지표와의 유의한 연관성은 양측 재분석에서 입증되지 않았습니다. 판독자 간 측정 신뢰도는 매우 우수했으나, 실제 임상적 유용성을 확립하기 위해서는 대규모 코호트 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Photon-counting computed tomography in pancreatic ductal adenocarcinoma: correlation of iodine concentration with histopathological and clinical parameters",
+ "title_ko": "췌관선암에서 광자계수 컴퓨터단층촬영(PCCT): 요오드 농도와 조직병리학적 및 임상적 지표 간의 상관관계",
+ "trial": null,
+ "type": "paper"
+}

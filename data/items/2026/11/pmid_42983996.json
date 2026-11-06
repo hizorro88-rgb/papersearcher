@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic adenocarcinoma (PA) has a poor prognosis, with a lifetime risk of 0.5-1.3% in the general population. Only high-risk individuals (HRI), defined by a relative risk >5 or a cumulative risk >5%, warrant screening. Constitutional risk factors (genetic mutations, familial aggregation) help identify these HRI.HRI include carriers of PRSS1, LKB1/STK11, or CDKN2A mutations, regardless of family history, carriers of BRCA1/2, PALB2, ATM, MLH1, MSH2, MSH6, PMS2, TP53, or APC mutations, with at least one first-degree relative affected by PA, individuals with familial aggregation of PA (at least 3 family cases including one first-degree relative, or a first-degree relative with another first-degree relative affected). Screening is based on annual pancreatic MRI and endoscopic ultrasound, performed in expert centers, alternating every six months. The goal is to detect precancerous lesions (IPMN, high-grade PanIN) or early-stage PA amenable to curative resection. Screening is typically discontinued at age 75-80. PA screening in HRI, although resource-intensive, improves survival and requires multidisciplinary management, including psychological support.",
+ "authors": [
+  "Védie AL",
+  "de Mestier L"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983996",
+ "importance": 0.57,
+ "key_points_ko": [
+  "일반 인구의 췌장암 평생 위험도는 0.5~1.3%이며, 상대 위험도가 5를 초과하거나 누적 위험도가 5%를 넘는 고위험군만 선별검사가 권장됩니다.",
+  "선별검사는 전문가 센터에서 6개월마다 췌장 MRI와 내시경 초음파를 교대로 시행하는 방식으로 진행됩니다.",
+  "선별검사의 목적은 전암성 병변(IPMN, 고등급 PanIN)이나 근치적 절제가 가능한 조기 췌장암을 발견하는 것입니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983996"
+ },
+ "pub_types": [
+  "Journal Article",
+  "English Abstract",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983996/"
+ },
+ "summary_ko": "이 논문은 유전적 요인이나 가족력으로 인해 췌장암(pancreatic adenocarcinoma) 고위험군에 속하는 사람들을 위한 선별검사의 필요성과 방법을 다룹니다. 유전성 유전자 변이나 췌장암 가족력이 있는 고위험군을 대상으로 합니다. 췌장 자기공명영상(MRI)과 내시경 초음파(endoscopic ultrasound)를 이용해 매년 6개월 간격으로 교대 검사를 시행합니다. 이를 통해 전암성 병변이나 근치적 절제가 가능한 조기 췌장암을 발견하는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Screening for pancreatic adenocarcinoma in high-risk individuals]",
+ "title_ko": "고위험군을 위한 췌장선암 선별검사",
+ "trial": null,
+ "type": "paper"
+}

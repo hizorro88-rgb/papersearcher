@@ -38,10 +38,25 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, P…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
-| [Hypofractionated Stereotactic Body Radiation & Fluorouracil or Capeci…](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
+| [국소 진행성 췌장암에서 저분할 정위체부 방사선치료와 5-FU 또는 capecitabine, zoledronic acid 병용…](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (5)
+## 타임라인 (6)
 
+<a id="pmid-42986373"></a>
+#### [내시경 초음파 유도하 조직 채취술로 진단하고 치료 전략에 영향을 미친 흉선암의 췌장 전이: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42986373/)
+<small>Pancreatic metastasis from thymic carcinoma diagnosed by endoscopic ultrasound-guided tissue acquisition: a case report influencing therapeutic strategy</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-05 · PubMed · Clin J Gastroenterol · 중요도 0.64
+
+이 논문은 흉선암(thymic carcinoma)에서 발생한 드문 췌장 전이 사례를 보고합니다. 74세 여성 환자에게서 발견된 췌장 종괴를 내시경 초음파 유도하 조직 채취술(EUS-TA)을 통해 진단했습니다. 조직학적 진단을 통해 불필요한 췌장 절제술을 피하고 정위체부방사선치료(stereotactic body radiation therapy)와 전신 항암화학요법을 시행하여 종양의 크기가 줄어드는 결과를 얻었습니다. 초록에 명시되지 않은 세부 수치는 없습니다.
+
+- 흉선암의 췌장 전이는 매우 드물며 영상 검사만으로는 원발성 췌장 신생물과 구별하기 어렵습니다.
+- 내시경 초음파 유도하 조직 채취술(EUS-TA)을 사용하여 조직학적 및 면역화학적 진단을 확정했습니다.
+- 정확한 진단 덕분에 불필요한 췌장 수술을 피하고 방사선치료와 항암치료를 통해 종양 퇴축을 이끌어냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42986373/) · [DOI](https://doi.org/10.1007/s12328-026-02476-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42986373)</small>
+
+---
 <a id="pmid-42914998"></a>
 #### [고위험 국소 췌장암 환자에서 수술 전후 항암화학요법과 정위체부방사선치료(SBRT) 병용 대비 항암화학요법 단독 치료 비교(MASTERPLAN): 호주 위장관 시험 그룹의 다기관 2상 무작위 배정 연구](https://pubmed.ncbi.nlm.nih.gov/42914998/)
 <small>Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group</small>

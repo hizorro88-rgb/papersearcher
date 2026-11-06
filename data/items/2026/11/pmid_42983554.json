@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVE: To investigate the CT and MRI features of pancreatic colloid carcinoma (PCC) and to correlate imaging findings with histopathological characteristics.\nMATERIALS AND METHODS: The CT and MRI images and clinical data of 15 patients with PCC confirmed by surgical resection and histopathological examination from August 2009 to October 2023 were retrospectively analyzed.\nRESULTS: All 15 PCC lesions presented as single masses, occurring in 8 males and 7 females (mean age 66 ± 8.4 years). The majority of lesions (73%) were located in the pancreatic head (11 cases), with 2 cases in the body, 1 in the tail, and 1 involving both body and tail. PCC typically manifested as cystic-solid masses with internal septations and calcification (8 cases, 53.3%). Associated findings included pancreatic ductal dilatation (13 cases), pancreatic atrophy (13 cases), and biliary dilatation (12 cases). On dynamic contrast-enhanced imaging, lesions demonstrated mild enhancement in the arterial phase and progressive sponge-like or reticular enhancement in the delayed phase. Compared with the surrounding parenchyma, the degree of enhancement in the arterial phase and portal venous phase was significantly lower (8.2 ± 6.7 vs. 19.3 ± 13.6, 9.67 ± 8.93 vs. 28.3 ± 17.2 HU, respectively; P < 0.05). The apparent diffusion coefficient (ADC) values showed no significant difference between PCC lesions and surrounding parenchyma (2.248 ± 0.454 × 10⁻³ mm²/s vs. 1.829 ± 0.514 × 10⁻³ mm²/s; P > 0.05). Pathologically, all tumors were characterized by neoplastic epithelium suspended in extracellular mucin pools comprising more than 80% of the tumor volume, meeting current WHO diagnostic criteria for PCC.\nCONCLUSION: The combination of imaging features in PCC-including presentation as a cystic or cystic-solid mass with progressive delayed sponge-like or reticular enhancement, a salt-and-pepper appearance on T2-weighted images, and frequent calcification-may facilitate its differentiation from other pancreatic cystic neoplasms when considered together. Progressive delayed reticular enhancement reflects fibrous stroma segregating the mucin pools, as confirmed by histopathological correlation.",
+ "authors": [
+  "Wu Q",
+  "Wang M",
+  "He S",
+  "Zeng M",
+  "Yin Q",
+  "Zhang H"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983554",
+ "importance": 0.67,
+ "key_points_ko": [
+  "총 15명의 환자(남성 8명, 여성 7명, 평균 연령 66세)의 췌장 점액성 암종 데이터를 분석했습니다.",
+  "대다수의 병변(73%, 11례)이 췌장 두부에 위치했습니다.",
+  "종양은 주로 내부 격막과 석회화(8례, 53.3%)를 동반한 낭성-고형 종괴로 나타났습니다.",
+  "동맥기 및 문맥기 조영증강 정도는 주변 실질에 비해 유의하게 낮았습니다(P < 0.05)."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1186/s13000-026-01833-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983554"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Comparative Study"
+ ],
+ "published_at": "2026-08-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagn Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983554/"
+ },
+ "summary_ko": "본 연구는 수술 및 조직병리 검사로 확진된 15명의 췌장 점액성 암종(pancreatic colloid carcinoma, PCC) 환자를 대상으로 CT와 MRI 영상 소견을 조사하고 이를 조직병리학적 특성과 비교했습니다. 환자 15명 중 73%에 해당하는 11건이 췌장 두부에 발생했으며, 종병은 주로 내부 격막과 석회화를 동반한 낭성-고형 종괴로 나타났습니다. 동적 조영증강 영상에서 병변은 동맥기에서 경미한 조영증강을 보였고 지연기에서는 점진적인 해면상 또는 망상 조영증강을 보였습니다. 조직학적으로 모든 종상은 80% 이상의 종양 부위를 차지하는 세포외 점액 풀 내에 신생물 상피가 현탁되어 있는 특징을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Comparative analysis of the CT and MRI features of pancreatic colloid carcinoma",
+ "title_ko": "췌장 점액성 암종의 CT 및 MRI 영상 소견에 대한 비교 분석",
+ "trial": null,
+ "type": "paper"
+}

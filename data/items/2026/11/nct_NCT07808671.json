@@ -1,0 +1,108 @@
+{
+ "abstract": "Pancreatic cancer has a rising incidence and poor survival. Early detection in high-risk individuals may substantially improve outcomes. Although guidelines recommend screening for individuals with hereditary cancer syndromes or certain genetic variants, pancreatic cancer screening remains uncertain due to limited evidence of mortality benefit, unclear screening strategies, potential harms, resource requirements, and low adherence. Shared decision-making between patients and providers is therefore essential, but no decision aid currently exists to support pancreatic cancer screening decisions. This record covers Aim 2, which will evaluate the acceptability, feasibility, and implementation of an electronic decision support tool designed to improve shared decision-making, value-concordant care, and screening adherence. The pilot study will also provide training in clinical trial methodology and support development toward an independent research career.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07808671",
+ "importance": 0.71,
+ "key_points_ko": [
+  "NCCN 가이드라인상 췌장암 선별검사 대상 고위험군 성인 40명을 대상으로 진행하는 파일럿 연구입니다.",
+  "췌장암 검진 관련 전자 의사결정 지원 도구의 수용성, 타당성 및 임상 적용 가능성을 평가합니다.",
+  "환자와 의료진 간 공유 의사결정 촉진 및 검진 순응도 향상을 목표로 합니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07808671"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-09-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "UNC Lineberger Comprehensive Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07808671"
+ },
+ "summary_ko": "미국종합암네트워크(NCCN) 가이드라인에 따라 췌장암 선별검사 대상이 되는 고위험군 성인을 대상으로 전자 의사결정 지원 도구의 수용성과 타당성을 평가하는 연구입니다. 췌장암 검진은 사망률 감소에 대한 근거가 제한적이고 잠재적 위해가 존재하여 환자와 의료진 간의 공유 의사결정이 중요하지만 이를 돕는 도구가 부족했습니다. 본 파일럿 연구에서는 40명의 참여자를 대상으로 공유 의사결정 개선, 가치 일치 진료 및 검진 순응도를 높이기 위해 설계된 전자 지원 도구를 시험합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Decision Support Tool for Pancreatic Cancer Screening -Aim 2",
+ "title_ko": "췌장암 선별검사를 위한 의사결정 지원 도구 연구 - 목표 2",
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "trevor_barlowe@med.unc.edu",
+    "name": "Trevor Barlowe, MD",
+    "phone": "919-984-0000"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- NCCN 가이드라인에 따라 췌장암 선별검사 자격 기준을 충족하는 성인\n- 현재 췌장암 선별검사 프로그램에 등록되어 있지 않은 자\n- UNC 고위험 소화기암 클리닉에 의뢰되었거나 방문한 이력이 있는 자\n- 영어 소통이 가능한 자\n- 연구 참여 동의서 작성이 가능한 자\n\n제외 기준:\n- 이미 췌장암 선별검사 프로그램에 등록되어 참여 중인 자\n- NCCN 가이드라인 기준상 췌장암 선별검사 대상에 부합하지 않는 자\n- 연구 참여 동의가 불가능하거나 동의하지 않는 자\n- 영어를 구사하지 못하는 자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Adults who are eligible for pancreatic cancer screening according to current National Comprehensive Cancer Network guidelines.\n* Not currently enrolled in a pancreatic cancer screening program.\n* Referred to or previously seen at the UNC High Risk GI Cancer Clinic.\n* English-speaking.\n* Able and willing to provide informed consent.\n\nExclusion Criteria:\n\n* Currently enrolled in a pancreatic cancer screening program.\n* Does not meet pancreatic cancer screening eligibility criteria according to National Comprehensive Cancer Network guidelines.\n* Unable or unwilling to provide informed consent.\n* Non-English speaking.",
+  "enrollment": 40,
+  "has_results": false,
+  "interventions": [
+   "Electronic Decision Support Tool"
+  ],
+  "last_update_posted": "2026-11-05",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "현재 이미 췌장암 선별검사 프로그램에 등록된 자",
+    "영어 소통이 불가능한 자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "NCCN 가이드라인에 따라 췌장암 선별검사 대상이 되는 유전적 고위험군 성인 (이미 췌장암에 걸린 환자가 아닌 고위험군 검진 대상자)",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": "99 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07808671",
+  "phase": "NA",
+  "primary_completion_date": "2027-09-08",
+  "sex": "ALL",
+  "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+  "start_date": "2026-12-08",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

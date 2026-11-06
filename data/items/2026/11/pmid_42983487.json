@@ -1,0 +1,63 @@
+{
+ "abstract": "Immune-excluded \"cold\" tumors are characterized by dense stromal barriers, limited cytotoxic T-cell infiltration, and insufficient immunogenic cell death (ICD), which collectively restrict the efficacy of immunotherapy. Pancreatic ductal adenocarcinoma (PDAC) and triple-negative breast cancer (TNBC) represent two of the most refractory cold tumor entities, marked by pronounced desmoplasia and persistent immune exclusion. Here, we report a mitochondria-lysosome dual-organelle-enriched nanoplatform (PT2@GEM NPs) designed to amplify ICD through sonodynamically induced subcellular stress. The organic sonosensitizer PT2 is engineered for stable lysosomal retention via endo-lysosomal trafficking, while cationic structural motifs promote mitochondrial accumulation. Upon ultrasound activation, PT2@GEM NPs generate reactive oxygen species concurrently in lysosomes and mitochondria, inducing lysosomal membrane permeabilization and severe mitochondrial dysfunction, including widespread mitochondrial permeability transition pore opening and loss of membrane potential. As a result, canonical ICD hallmarks are markedly enhanced compared with single-modality treatments. In patient-derived organoids and in murine models of PDAC and TNBC, PT2@GEM NPs combined with ultrasound achieve 60-80% tumor growth inhibition, significantly outperforming chemotherapy or sonodynamic therapy alone. This treatment prolongs survival without evident systemic toxicity. Integrated transcriptomic, metabolomic, and immunological analyses reveal robust activation of inflammatory and innate immune pathways, metabolic rewiring, a 2-3-fold increase in intratumoral CD8⁺ T-cell infiltration, and a 3-fold expansion of effector memory T cells, indicating durable antitumor immune memory. This work establishes a materials-driven sonodynamic chemoimmunotherapy strategy in which rational dual-organelle targeting synchronizes intracellular stress to amplify ICD, convert immune-excluded cold tumors into CD8⁺ T cell-inflamed phenotypes, and provide a translatable nanotechnological approach for the treatment of stromal-rich malignancies.",
+ "authors": [
+  "Shao M",
+  "Xie A",
+  "Liu Y",
+  "Xu X",
+  "Yi Q",
+  "Liu X",
+  "He M",
+  "Zhang B"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983487",
+ "importance": 0.4,
+ "key_points_ko": [
+  "PT2@GEM NPs와 초음파 병용 치료는 췌장관선암(PDAC) 모델에서 60~80%의 종양 성장 억제 효과를 보였습니다.",
+  "종양 내 CD8⁺ T세포 침투가 2~3배 증가했으며, 이행 기억 T세포(effector memory T cells)는 3배 확장되었습니다.",
+  "명확한 전신 독성 없이 생존 기간이 연장되었습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1186/s12951-026-04891-4",
+  "nct": [],
+  "pmcid": "PMC13732838",
+  "pmid": "42983487"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-08",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Nanobiotechnology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983487/"
+ },
+ "summary_ko": "면역 배제성 냉종양(cold tumor)인 췌장관선암(PDAC) 등을 대상으로 미토콘드리아와 리소좀을 동시에 표적하는 나노플랫폼(PT2@GEM NPs)을 개발했습니다. 초음파 활성화를 통해 세포 내 스트레스를 유도하고 면역원성 세포사멸(ICD)을 증폭하여 항종양 면역을 강화하는지 평가했습니다. 동물 모델 및 환자 유래 오가노이드에서 초음파 병용 시 60~80%의 종양 성장 억제 효과를 확인했습니다. 또한 독성 없이 생존 기간을 연장하고 종양 내 CD8⁺ T세포 침투를 증가시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual-organelle-coordinated sonodynamic nanoplatform amplifies immunogenic cell death to drive robust antitumor immunity in cold tumors",
+ "title_ko": "이중 소기관 표적 음역동학 나노플랫폼을 통한 면역원성 세포사멸 증폭 및 췌장암 항종양 면역 강화",
+ "trial": null,
+ "type": "paper"
+}

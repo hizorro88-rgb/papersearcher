@@ -20,11 +20,10 @@
  "id": "nct:NCT07912593",
  "importance": 0.9,
  "key_points_ko": [
-  "KRAS 변이가 있는 진행성 고형암 환자(전이성 췌장암 포함)를 대상으로 합니다.",
-  "ETX-929 단독 투여와 cetuximab 병용 투여의 안전성 및 용량을 평가합니다.",
-  "목표 환자 수는 총 320명입니다."
+  "KRAS 변이가 있는 진행성 고형암 환자 320명을 대상으로 합니다.",
+  "ETX-929 단독요법 및 cetuximab 병용요법의 안전성과 용량을 평가합니다."
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -47,13 +46,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07912593"
  },
- "summary_ko": "이 연구는 KRAS 유전자 변이가 있는 진행성 고형암 환자를 대상으로 KRAS 억제제(KRAS Inhibitor)인 ETX-929의 안전성과 내서성, 약동학(PK), 약력학(PD), 그리고 예비 유효성을 평가하는 1/2상 다기관 공개 임상시험입니다. 환자들은 ETX-929 단독 요법 또는 cetuximab(세툭시맙) 병용 요법을 투여받게 됩니다. 총 목표 인원은 320명입니다.",
+ "summary_ko": "이 임상시험은 Kirsten rat sarcoma viral oncogene homolog(KRAS) 변이가 있는 진행성 고형암 환자를 대상으로 ETX-929의 안전성, 내약성, 약동학(PK), 약력학(PD) 및 예비 효능을 평가하기 위한 제1/2상 다기관 공개 연구입니다. 췌장암(PDAC)을 포함한 다양한 암 환자를 대상으로 단독요법 또는 cetuximab(세툭시맙) 병용요법으로 용량을 단계적으로 증량하며 진행됩니다. 총 목표 인원은 320명입니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS"
  ],
  "title": "Phase 1/2, Open-label Study of ETX-929, a KRAS Inhibitor in Participants With Advanced Solid Tumors",
- "title_ko": "진행성 고형암 환자를 위한 KRAS 억제제 ETX-929의 1/2상 공개 임상시험",
+ "title_ko": "진행성 고형암 환자를 대상으로 하는 KRAS 억제제 ETX-929의 제1/2상 공개 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Colorectal Cancer (CRC)",
@@ -70,7 +69,7 @@
     "phone": "1-617-383-4993"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 적어도 한 가지 가용한 치료 이후에 진행된 전이성 또는 국소 진행성 절제 불가능한 고형암\n* KRAS 변이를 동반한 종양\n* ECOG 수행능력 점수 0 또는 1\n* 적절한 장기 기능\n\n제외 기준:\n* 연구 중인 암과 조직학적으로 다른 고형암 또는 혈액암 병력(스크리닝 전 2년 이내)\n* 증상이 있는 뇌 또는 척수 전이, 또는 치료되지 않았거나 조절되지 않는 중추신경계(CNS) 침범 병력\n* 치료 시작 전 14일 이내에 국소 또는 전신 항암 치료나 임상시험용 의약품을 투여받은 경우\n* 탈모와 말초신경병증을 제외하고 이전 항암 치료로 인한 독성이 기저 수준으로 회복되지 않은 경우\n* 치료 시작 전 14일 이내에 표적 종양 병변 외 방사선 치료를 받은 경우",
+  "eligibility_ko": "선정 기준:\n* 적어도 하나의 가용한 치료 후 진행된 전이성 또는 국소 진행성 절제 불가능한 고형암\n* KRAS 변이가 있는 종양\n* ECOG 수행능력 점수 0 또는 1\n* 적절한 장기 기능\n\n제외 기준:\n* 연구 대상 암과 조직학적으로 다른 고형암 또는 혈액암 병력(선정 기준일 기준 2년 이내)\n* 증상이 있는 뇌 전이 또는 척수 전이, 혹은 치료되지 않거나 조절되지 않는 중추신경계(CNS) 침범 병력\n* 치료 시작 전 14일 이내에 국소 또는 전신 항암 치료나 임상시험용 항암제를 받은 경우\n* 탈모 및 말초신경병증을 제외하고 이전 항암 치료로 인한 독성이 기저 수준으로 회복되지 않은 경우\n* 치료 시작 전 14일 이내에 표적 종양 병변 외에 방사선 치료를 받은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Metastatic or locally advanced and unresectable solid tumor that has progressed on or after at least one available therapy.\n* Tumor harboring a KRAS mutation.\n* An ECOG performance status score of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Has history (within ≤2 years before screening) of a solid tumor or hematological malignancy that is histologically distinct from the cancers being studied.\n* Has symptomatic brain or spinal metastases or a known or suspected history of untreated or uncontrolled central nervous system (CNS) involvement.\n* Has received treatment with any local or systemic anticancer therapy or investigational anticancer agent within 14 days prior to start of treatment.\n* Has toxicities from previous anticancer therapies that have not resolved to baseline levels with the exception of alopecia and peripheral neuropathy.\n* Has had radiotherapy outside the target tumor lesions within 14 days prior to start of treatment.",
   "enrollment": 320,
   "has_results": false,
@@ -90,14 +89,14 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "증상이 있거나 치료되지 않은 뇌전이 또는 척수 전이",
-    "다른 암 병력 (2년 이내)",
-    "이전 항암 치료의 독성이 회복되지 않은 경우"
+    "증상이 있거나 치료되지 않은 뇌 전이 또는 척수 전이",
+    "연구 대상 암과 다른 최근 2년 이내의 다른 암 병력",
+    "이전 치료로 인한 독성이 회복되지 않은 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 1가지 이상 받은 KRAS 변이 전이성 또는 국소 진행성 췌장암 환자",
+   "notes_ko": "이전 치료 경험이 있는 KRAS 변이 전이성 또는 국소 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

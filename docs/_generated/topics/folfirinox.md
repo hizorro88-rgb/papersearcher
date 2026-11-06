@@ -36,7 +36,7 @@ search:
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [CLDN18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 위한 화학요법과 병용한 ANO31905 1/2상 임…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌장암 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
+| [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성…](../trials/NCT07409272.md) | 3상 | 모집 중 | 8 |
 | [진행성 췌장암 환자의 암 악액질 치료를 위한 나노결정 메게스트롤 아세테이트 임상시험](../trials/NCT07408505.md) | 해당 없음 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 종양치료전자기장(TTFields)과 화학요법(modFOLFIRINOX) 병용 임상시험](../trials/NCT07284277.md) | 1상/2상 | 모집 중 | - |
@@ -82,7 +82,7 @@ search:
 | [위암, 위식도접합부암, 췌장암 성인 환자를 대상으로 ASP2138 단독 또는 병용 투여하는 임상시험](../trials/NCT05365581.md) | 1상 | 모집 중 | 5 |
 | [65세 이상 전이성 췌장암 환자를 위한 FOLFOX 및 FOLFIRI 교대 투여 임상 2상 연구](../trials/NCT05360732.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
-| [수술 가능 췌장암 환자를 위한 펨브롤리주맙 병용 선행화학요법(FOLFIRINOX) 후 수술](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
+| [수술 가능 췌장암 환자를 위한 선행항암치료 FOLFIRINOX와 pembrolizumab 병용 및 수술 후 보조요법 2상 임…](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 | [췌장선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법 2상 임상시험](../trials/NCT04926467.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
@@ -94,7 +94,7 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (16)
+## 타임라인 (17)
 
 <a id="pmid-42971953"></a>
 #### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
@@ -248,6 +248,22 @@ search:
 - 담즙울체(cholestasis) 시기 동안 탄수화물 항원 19-9(CA 19-9) 수치 해석에 어려움이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846516/) · [DOI](https://doi.org/10.2147/IMCRJ.S639766) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644719/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846516)</small>
+
+---
+<a id="pmid-42983994"></a>
+#### [췌장선암의 치료](https://pubmed.ncbi.nlm.nih.gov/42983994/)
+<small>[Treatments of the pancreatic adenocarcinoma]</small>
+
+`논문` `종설` `치료 전반` `수술` `지지요법·삶의질` · 2026-10-01 · PubMed · Rev Prat · 중요도 0.55
+
+이 논문은 췌장선암(pancreatic adenocarcinoma) 환자를 위한 종합적이고 다학제적인 관리 접근법을 다룹니다. 환자의 전신 상태를 최적화하기 위한 지지요법(supportive measure)과 조직학적 확진이 치료의 시작입니다. 치료 결정은 종양 병기, 환자 연령, 수행능력 상태(performance status), 영양 및 생물학적 지표에 따라 달라집니다. 수술은 유일한 완치 가능 치료이며, 항암화학요법(chemotherapy)은 중심적인 역할을 합니다.
+
+- 치료는 통증 조절, 영양 지원, 배액술 등의 필수적인 지지요법으로 시작합니다.
+- 수행능력이 좋은 환자에게는 FOLFIRINOX가 표준 요법이며, gemcitabine ± nab-paclitaxel이 대안으로 사용됩니다.
+- 수술은 유일한 잠재적 완치 치료이며 전문 센터에서 시행해야 합니다.
+- 수술 후에는 mFOLFIRINOX 요법을 수술 후 보조항암화학요법(adjuvant chemotherapy)의 표준 치료로 권장합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42983994/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42983994)</small>
 
 ---
 <a id="pmid-42938317"></a>

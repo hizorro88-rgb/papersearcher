@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest human cancers, driven in 90% of cases by KRAS mutations and characterized by an intense desmoplastic reaction, early metastasis, and therapy resistance. The mechanisms driving PDAC initiation, however, remain poorly understood because early acinar transformation is difficult to model in a controlled microenvironment. Here, we introduce a microvalve-bioprinted 3D pancreatic cancer initiation niche that supports culture of primary acini from wild-type and Kras-mutant mice, up to 14 days, within gelatin-methacryloyl (GelMA) hydrogels. Our printing strategy enables tuning of hydrogel stiffness to cover the range reported for healthy murine pancreas and early stages of desmoplastic remodelling. In this system, wild-type acini retain a predominantly acinar phenotype, whereas intermediate GelMA conditions cooperate with pre-existing oncogenic Kras to promote acinar-to-ductal metaplasia and proliferative programs associated with early neoplastic reprogramming. Multimodal readouts revealed a stiffness-permissive window in which mechanical cues cooperated with oncogenic Kras to promote acinar transdifferenciation, proliferation and distinct stiffness-dependent secretory programs, including inflammatory and stromal-associated factors with previously reported relevance to PDAC biology. The deterministic droplet geometry supported reproducible, high-throughput, and longitudinal analysis under conditions inaccessible to conventional extrusion or laser‑assisted bioprinting, providing an experimental framework to study early Kras-driven acinar reprogramming.",
+ "authors": [
+  "Mazet A",
+  "Handschin C",
+  "Desigaux T",
+  "Dusserre N",
+  "Stachowicz ML",
+  "Fennell S",
+  "Lea M",
+  "Arcucci S"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42985744",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌장암 원인의 90%를 차지하는 KRAS 변이 환경에서 일차 췌장 선세포를 최대 14일간 3D 배양하는 기술을 구현했습니다.",
+  "하이드로겔 강도를 조절하여 정상 조직 및 초기 섬유화 단계의 기계적 자극 환경을 성공적으로 모사했습니다.",
+  "특정 조직 강도 조건이 Kras 변이와 상호작용하여 초기 종양 세포 증식 및 염증·기질 관련 분비 변화를 일으킴을 입증했습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1002/adhm.71938",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42985744"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Healthc Mater",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985744/"
+ },
+ "summary_ko": "췌장암은 환자의 90%에서 KRAS 유전자 변이가 관찰되며 초기 종양 발생 기전은 모사하기 어려운 한계가 있었습니다. 연구진은 미세밸브 3D 바이오프린팅 기술을 활용하여 젤라틴 메타크릴로일(GelMA) 하이드로겔 내에서 쥐의 일차 선세포(primary acini)를 최대 14일 동안 배양하는 미세환경 모형을 개발했습니다. 이 모형은 정상 췌장부터 초기 경화증 반응 수준까지 하이드로겔의 강도를 자유롭게 조절할 수 있습니다. 실험 결과 조직 강도와 Kras 변이가 결합할 때 선세포-관세포 화생(acinar-to-ductal metaplasia)과 증식이 촉진됨을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bioprinted Stiffness‑Tunable Pancreatic Microniches to Decode Early Tumor Initiation Mechanisms",
+ "title_ko": "초기 췌장암 발생 기전 해명을 위한 바이오프린팅 기반 강도 조절 가능 췌장 미세환경 연구",
+ "trial": null,
+ "type": "paper"
+}

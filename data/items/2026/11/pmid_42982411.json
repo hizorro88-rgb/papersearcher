@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal and treatment-refractory malignancies worldwide, largely driven by its uniquely desmoplastic and highly innervated microenvironment. Given the striking incidence of perineural invasion and its profound correlation with intractable cancer pain and early recurrence, tumor-nervous system crosstalk has emerged as a pivotal driver of PDAC progression. Neural components-including neurotransmitters, neurotrophic factors, axon guidance molecules, and specific sensory and autonomic networks (e.g., dorsal root ganglia and sympathetic nerves)-do not merely act as passive conduits, but actively orchestrate tumor genesis, metastasis, and immune evasion. Crucially, this neuro-stromal crosstalk actively drives chemoresistance by facilitating the dual-effect remodeling of tumor energy metabolism and detoxification networks. In this comprehensive review, we decode the multidimensional molecular mechanisms and reciprocal signaling cascades underpinning tumor-nervous system crosstalk. We critically evaluate the translational challenges of applying neurotherapy in clinical practice, encompassing mechanistic pleiotropy, neural plasticity, and visceral safety risks. Furthermore, by synthesizing emerging clinical trials targeting neurotransmitter axes, dorsal root ganglia, and neurotrophic signaling, we provide a forward-looking roadmap for integrating precision neuro-oncology with standard regimens to simultaneously alleviate cancer pain and overcome therapeutic resistance in PDAC.",
+ "authors": [
+  "Zhang M",
+  "Liu Y",
+  "Wang J",
+  "Weng G",
+  "Wang Y",
+  "Lu X",
+  "Du C",
+  "Ye L"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42982411",
+ "importance": 0.71,
+ "key_points_ko": [
+  "종양과 신경계의 상호작용은 췌관선암종의 난치성 암성 통증, 조기 재발, 항암제 내성 유발과 밀접하게 연관되어 있습니다.",
+  "신경 성분은 종양의 에너지 대사와 해독 체계를 재구성하여 항암 화학요법에 대한 저항성을 유도합니다.",
+  "신경 전달 물질 축 및 신경영양 신호를 표적하는 정밀 신경-종양학 치료와 표준 요법의 병용 가능성을 모색하고 있습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218949",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42982411"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982411/"
+ },
+ "summary_ko": "이 논문은 췌관선암종(PDAC)의 진행과 치료 저항성을 유발하는 종양과 신경계 사이의 상호작용 기전을 종합적으로 분석한 종설 논문입니다. 신경 전달 물질, 신경영양 인자, 감각 및 자율신경망 등은 단순한 통로가 아니라 종양 발생, 전이, 면역 회피 및 항암제 내성을 능동적으로 조절합니다. 본 리뷰에서는 신경 치료법을 임상에 적용할 때의 한계점과 위험성을 평가했습니다. 나아가 신경 전달 물질 경로, 등쪽뿌리신경절(dorsal root ganglia), 신경영양 신호를 표적하는 최신 임상시험을 검토하여 통증 완화 및 내성 극복을 위한 미래 전략을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Tumor-nervous system crosstalk in PDAC: Current landscape, challenges, and future directions",
+ "title_ko": "췌관선암종에서 종양과 신경계 간의 상호작용: 현재 현황, 과제 및 향후 방향",
+ "trial": null,
+ "type": "paper"
+}

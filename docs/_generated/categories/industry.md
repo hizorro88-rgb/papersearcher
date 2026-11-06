@@ -16,12 +16,44 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 31건 · 최근 30일 31건
+전체 32건 · 최근 30일 28건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07671937"></a>
+#### [다학제 종양 위원회에서의 체계적 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
+<small>INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-06-26 · ClinicalTrials.gov · University of Alabama at Birmingham · 중요도 0.65
+
+**NCT07671937** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07671937.md)
+
+이 연구는 다학제 종양 위원회(multidisciplinary tumor board, MDTB) 논의에 전자 환자 보고 결과(electronic patient-reported outcomes, ePROs)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인과 암 환자를 대상으로 관찰 코호트 연구 및 무작위 대조 임상시험을 진행합니다. 환자들은 건강, 삶의 질, 치료 선호도 등에 관한 설문조사를 작성하며, 연구진은 이를 바탕으로 환자의 상태를 다학제 회의에 전달합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 분석합니다.
+
+- 목표 연구 대상 인원은 총 2,748명입니다.
+- 환자들은 기준선, 3개월, 6개월 시점에 설문조사를 완료합니다.
+- 연구 대상 질환에는 췌장암, 유방암, 부인과 암이 포함됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07671937) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671937)</small>
+
+---
+<a id="pmid-42986373"></a>
+#### [내시경 초음파 유도하 조직 채취술로 진단하고 치료 전략에 영향을 미친 흉선암의 췌장 전이: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42986373/)
+<small>Pancreatic metastasis from thymic carcinoma diagnosed by endoscopic ultrasound-guided tissue acquisition: a case report influencing therapeutic strategy</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-05 · PubMed · Clin J Gastroenterol · 중요도 0.64
+
+이 논문은 흉선암(thymic carcinoma)에서 발생한 드문 췌장 전이 사례를 보고합니다. 74세 여성 환자에게서 발견된 췌장 종괴를 내시경 초음파 유도하 조직 채취술(EUS-TA)을 통해 진단했습니다. 조직학적 진단을 통해 불필요한 췌장 절제술을 피하고 정위체부방사선치료(stereotactic body radiation therapy)와 전신 항암화학요법을 시행하여 종양의 크기가 줄어드는 결과를 얻었습니다. 초록에 명시되지 않은 세부 수치는 없습니다.
+
+- 흉선암의 췌장 전이는 매우 드물며 영상 검사만으로는 원발성 췌장 신생물과 구별하기 어렵습니다.
+- 내시경 초음파 유도하 조직 채취술(EUS-TA)을 사용하여 조직학적 및 면역화학적 진단을 확정했습니다.
+- 정확한 진단 덕분에 불필요한 췌장 수술을 피하고 방사선치료와 항암치료를 통해 종양 퇴축을 이끌어냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42986373/) · [DOI](https://doi.org/10.1007/s12328-026-02476-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42986373)</small>
+
+---
 <a id="pmid-42972535"></a>
 #### [위장관·췌장 신경내분비종양의 간 전이 진단에서 지연 [68Ga]Ga-DOTATATE PET/MR의 추가적 가치](https://pubmed.ncbi.nlm.nih.gov/42972535/)
 <small>Incremental value of delayed [68Ga]Ga-DOTATATE PET/MR in the detection of liver metastases from gastroenteropancreatic neuroendocrine tumors</small>
@@ -416,89 +448,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - 가장 흔하게 관찰된 유전자 변이는 KRAS(82.9%), TP53(69.1%), CDKN2A(30.1%), SMAD4(18.7%)였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42844143/) · [DOI](https://doi.org/10.1016/j.hbpd.2026.09.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42844143)</small>
-
----
-<a id="nct-nct07671937"></a>
-#### [다학제 종양 위원회에서의 체계적 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
-<small>INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-06-26 · ClinicalTrials.gov · University of Alabama at Birmingham · 중요도 0.65
-
-**NCT07671937** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07671937.md)
-
-본 연구는 다학제 종양 위원회(MDTB) 논의 과정에 전자 환자 보고 결과(ePRO)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인암 환자 2,748명을 대상으로 하며, 초기 관찰 코호트 연구 후 INSPIRE 중재 무작위 대조 시험을 진행합니다. 환자들은 기저 상태, 3개월, 6개월에 건강, 기능, 삶의 질 등에 관한 설문을 완료합니다. 연구진은 의료 기록 검토와 종양 위원회 회의 녹음을 통해 치료 권고, 의료 이용 현황, 환자 보고 결과를 분석합니다.
-
-- 목표 인원은 총 2,748명입니다.
-- 췌장암, 유방암, 부인암 환자(모든 병기)가 참여합니다.
-- 환자는 기저 상태, 3개월, 6개월에 설문을 작성합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07671937) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671937)</small>
-
----
-<a id="nct-nct05477576"></a>
-#### [수술 불가능한 진행성 GEP-NET 환자에서 RYZ101과 표준 치료를 비교하는 3상 임상시험](https://clinicaltrials.gov/study/NCT05477576)
-<small>Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy</small>
-
-`임상시험` `3상` `신약·치료제` `진단·조기발견` `제약사·규제` `신경내분비종양` · 2022-07-28 · ClinicalTrials.gov · RayzeBio, Inc. · 중요도 0.93
-
-**NCT05477576** · 3상 · 진행 중(모집 종료) · 국내 1곳 · [참여 조건·기관 보기](../../_generated/trials/NCT05477576.md)
-
-이 연구는 177Lu-SSA 치료 후 진행된 수술 불가, 진행성, 소마토스타틴 수용체 발현(SSTR+) 위장관 췌장 신경내분비종양(GEP-NET) 환자들을 대상으로 RYZ101의 안전성, 약동학 및 유효성을 연구자 선택 표준 치료(SoC)와 비교합니다. 1상에서는 안전성, 약동학, 권장 3상 용량을 평가하고, 2상에서는 표준 치료와 비교하여 유효성과 안전성을 평가합니다. 총 343명의 환자를 목표로 진행하며 국내 1개 기관이 참여합니다.
-
-- 목표 환자 수는 총 343명입니다.
-- 국내 임상 기관은 1곳입니다.
-- 177Lu-SSA 치료 후 진행된 환자를 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05477576) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05477576)</small>
-
----
-<a id="pmid-42832136"></a>
-#### [ASO 시각 초록: 절제된 췌장관상피암에서의 액체 생검: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42832136/)
-<small>ASO Visual Abstract: Liquid Biopsy in Resected Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-05 · PubMed · Ann Surg Oncol · 중요도 0.85
-
-이 논문은 절제된 췌장관상피암(Resected Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 한 액체 생검(Liquid Biopsy)에 관한 체계적 문헌고찰 및 메타분석입니다. 어떤 환자에게 어떤 방법이 적용되었는지에 대한 구체적인 내용은 초록에 명시되지 않았습니다. 연구 결과의 구체적인 수치나 효과 역시 초록에 명시되지 않았습니다.
-
-- 절제된 췌장관상피암 환자 대상 액체 생검에 대한 체계적 문헌고찰 및 메타분석입니다.
-- 환자 수, 생존기간, 반응률 등의 핵심 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42832136/) · [DOI](https://doi.org/10.1245/s10434-026-20555-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42832136)</small>
-
----
-<a id="nct-nct07040228"></a>
-#### [진행성 췌장암 3차 치료로서 레고라페닙, 토리팔리맙, 알부민 결합 파클리탁셀 병용 요법에 대한 1b/2상 임상시험](https://clinicaltrials.gov/study/NCT07040228)
-<small>A Phase Ib/II Clinical Study of Regorafenib Combined With Toripalimab and Albumin-bound Paclitaxel for the Third-line Treatment of Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `제약사·규제` · 2025-06-27 · ClinicalTrials.gov · Junjie Hang · 중요도 0.80
-
-**NCT07040228** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07040228.md)
-
-이 임상시험은 절제 불가능하거나 전이성인 췌장암 환자를 대상으로 3차 치료에서 regorafenib(레고라페닙), Toripalimab(토리팔리맙), albumin-bound paclitaxel(알부민 결합 파클리탁셀) 병용 요법의 유효성과 안전성을 평가합니다. 1b상에서는 regorafenib의 최대 허용 용량(MTD)과 2상 권장 용량(RP2D)을 평가합니다. 2상에서는 해당 병용 요법의 유효성과 안전성을 평가합니다. 환자들은 질병이 진행되거나 참기 힘든 독성이 나타날 때까지 치료를 받게 됩니다.
-
-- 대상 질환: 절제 불가능 또는 전이성 췌장암 환자 (18세~80세)
-- 치료 위치: 3차 치료 (이전 1차 및 2차 표준 치료 후 진행된 환자)
-- 병용 약물: Regorafenib, Toripalimab, Albumin-bound paclitaxel(알부민 결합 파클리탁셀)
-- 목표 환자 수: 23명
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07040228) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07040228)</small>
-
----
-<a id="nct-nct07097064"></a>
-#### [국소 진행성 췌장암 환자에서 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART) 평가](https://clinicaltrials.gov/study/NCT07097064)
-<small>Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers</small>
-
-`임상시험` `2상` `치료 전반` `진단·조기발견` `제약사·규제` · 2025-07-31 · ClinicalTrials.gov · Institut du Cancer de Montpellier - Val d'Aurelle · 중요도 0.77
-
-**NCT07097064** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07097064.md)
-
-이 연구는 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 항암화학방사선치료와 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART)를 비교·평가하는 2상 임상시험입니다. 대상 질환은 전이가 없는 국소 진행성 췌장암이며, 18세 이상 성인을 대상으로 합니다. 목표 인원은 160명이며, 프랑스에서 진행됩니다.
-
-- 5년 생존율은 약 5.5%이며 수술이 가능한 환자는 전체의 20%에 불과합니다.
-- 국소 진행성 암(LACC)의 표준화된 치료를 위해 FOLFIRINOX와 GEMBRAX 유도 항암화학요법이 사용됩니다.
-- 기존 방사선치료와 비교하여 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART)는 1년 국소 제어율 최대 98%, 전체 생존기간 최대 23개월을 보였습니다.
-- 이 임상시험의 목표 인원은 160명이며 프랑스 내 기관에서 수행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07097064) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07097064)</small>
 
 ---

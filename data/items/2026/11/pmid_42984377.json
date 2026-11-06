@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis despite curative-intent resection and adjuvant therapy. Gemcitabine plus nab-paclitaxel (Gem-NAP) has become a standard adjuvant regimen for PDAC, yet recurrence rates remain high. This study aimed to identify clinical and pathological factors associated with recurrence and survival in patients receiving adjuvant Gem-NAP following PDAC resection.\nMETHODS: We retrospectively identified 210 patients with resected PDAC who received adjuvant gemcitabine and nab-paclitaxel at a single institution between May 2017 and October 2024. Clinicopathological characteristics, recurrence patterns, disease-free survival (DFS), and overall survival (OS) were analyzed. Univariate and multivariate models were utilized to identify independent predictors of recurrence and survival.\nRESULTS: In total, 132 patients (62.9%) experienced recurrence, with a median DFS of 21.0 months (95% CI: 16.7-25.3) and a median OS of 39.0 months (95% CI: 32.7-45.3). Local recurrence (28.6%) and liver metastasis (24.8%) were the most common recurrence sites. Multivariable analysis revealed that preoperative CA19-9 > 37 U/mL (OR: 2.28; 95% CI: 1.19-4.34; p = 0.01) and a lymph node ratio (LNR) > 0.14 (OR: 2.98; 95% CI: 1.19-7.47; p = 0.02) were significantly associated with recurrence. Independent predictors of worse DFS included elevated preoperative CA19-9 (> 37 U/mL) (HR: 1.59; 95% CI: 1.04-2.43; p = 0.03), LNR > 0.14 (HR: 1.88; 95% CI: 1.23-2.89; p < 0.01), R1 resection (HR: 2.71; 95% CI: 1.36-5.38; p < 0.01), and lymphovascular invasion (LVI) (HR: 1.59; 95% CI: 1.09-2.30; p = 0.02). For OS, the independent predictors were R1 resection (HR: 3.00; 95% CI: 1.45-6.22; p < 0.01), LVI positivity (HR: 1.55; 95% CI: 1.03-2.34; p = 0.04), and LNR > 0.14 (HR: 1.76; 95% CI: 1.11-2.80; p = 0.02).\nCONCLUSIONS: Recurrence after adjuvant gemcitabine and nab-paclitaxel in patients with resected pancreatic cancer remains common. A high lymph node ratio, R1 resection, and lymphovascular invasion were powerful independent predictors of both poor DFS and OS.",
+ "authors": [
+  "Xia T",
+  "Cheng C",
+  "Meng Y",
+  "Huang H",
+  "Li D",
+  "Zhu R",
+  "Qiu C",
+  "Hua Y"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42984377",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1002/cam4.72491",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42984377"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42984377/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis despite curative-intent resection and adjuvant therapy. Gemcitabine plus nab-paclitaxel (Gem-NAP) has become a standard adjuvant regimen for PDAC, yet recurrence rates remain high.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Factors Associated With Recurrence After Adjuvant Gemcitabine and Nab-Paclitaxel in Patients With Resected Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

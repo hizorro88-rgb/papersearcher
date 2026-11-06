@@ -1,0 +1,117 @@
+{
+ "abstract": "A Phase 1, open label, dose escalation and expanded cohort study of P-MUC1C-ALLO1 in adult subjects with advanced or metastatic epithelial derived solid tumors, including but not limited to the tumor types listed below.\n\nThis is an open label, multi-center Phase 1 study that will follow a 3 + 3 design of dose-escalating cohorts of single and multiple doses of P-MUC1C-ALLO1 to determine a Recommended Phase 2 Dose (RP2D). P-MUC1C-ALLO1 is an allogeneic chimeric antigen receptor (CAR) T cell therapy designed to target cancer cells expressing Mucin1 cell surface associated C-Terminal (MUC1-C) antigen. Additional participants will be treated with P-MUC1C-ALLO1 at the determined RP2D.\n\nFollowing enrollment, subjects will be treated with P-MUC1C-ALLO1 and will undergo serial measurements of safety, tolerability and response. Rimiducid may be administered as indicated.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05239143",
+ "importance": 0.7,
+ "key_points_ko": [
+  "MUC1-C 항원을 표적으로 하는 동종 유래 CAR-T 세포 치료제 P-MUC1C-ALLO1의 안전성과 적정 용량을 탐색하는 1상 임상시험입니다.",
+  "이전 치료 후 진행했거나 기존 표준 치료가 불가능한 전이성 또는 국소 진행성 고형암 환자 180명을 모집합니다.",
+  "용량 증량 설계를 통해 2상 권장 용량(RP2D)을 도출하고 내약성 및 초기 유효성을 평가합니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05239143"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2022-02-14",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Poseida Therapeutics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05239143"
+ },
+ "summary_ko": "MUC1-C 항원을 표적으로 하는 기성품 형태의 동종 키메라 항원 수용체 T세포(CAR-T) 치료제인 P-MUC1C-ALLO1을 평가하는 1상 임상시험입니다. 췌장암, 대장암, 유방암 등 절제 불가능한 진행성 또는 전이성 고형암 성인 환자 180명을 대상으로 진행됩니다. 단회 및 다회 투여 용량 증량 코호트를 통해 2상 권장 용량(RP2D)을 결정하고 안전성과 종양 반응을 확인합니다. 필요에 따라 안전 스위치 활성화를 위한 리미두시드(Rimiducid)가 투여될 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "P-MUC1C-ALLO1 Allogeneic CAR-T Cells in the Treatment of Subjects With Advanced or Metastatic Solid Tumors",
+ "title_ko": "진행성 또는 전이성 고형암 환자를 대상으로 한 동종 유래 CAR-T 세포 치료제 P-MUC1C-ALLO1의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Non Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Cancer",
+   "Renal Cell Carcinoma",
+   "Nasopharyngeal Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Gastric Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 기대 여명이 3개월을 초과하는 성인 환자\n- 절제 불가능한 국소 진행성 또는 전이성 상피 유래 고형암(췌장암 등)으로 확진된 환자\n- 이전 치료 중 또는 이후에 질병이 진행했거나, 치료 독성으로 지속할 수 없거나, 기존 치료 옵션 대상이 아니거나 거부한 환자\n- 측정 가능한 병변(measurable disease)이 있는 환자\n- ECOG 수행능력(ECOG PS) 평가 0~1점 또는 Karnofsky 수행도 70% 이상\n- 보관된 종양 조직 검체가 있거나 신규 조직 생검에 동의한 환자\n\n제외 기준:\n- 뇌전이 또는 증상이 있는 중추신경계(CNS) 침범이 있는 경우\n- 5년 이내 치료가 필요한 다른 활동성 암 병력이 있는 경우(저위험 피부암 제외)\n- 활동성 또는 과거 자가면역 질환 병력이 있는 경우\n- 뉴욕심장학회(NYHA) 3~4등급 심부전, 불안정 협심증, 심근경색 병력 등 중증 심장 질환이 있는 경우\n- 활동성 전신 감염증(바이러스, 세균, 진균)이 있는 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* Males or females, Subjects ≥18 years with life expectancy \\>3 months\n* Must have a confirmed diagnosis of unresectable, locally advanced or metastatic epithelial-derived cancer\n* Must have progressed during or after last therapy, developed intolerance/toxicity to current treatment, or ineligible or refused other existing treatment options, and have measurable disease\n* Must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 or Karnofsky performance status ≥70%\n* Must have adequate vital organ function within pre-determined parameters\n* Must have archived tumor tissue available or consent to a biopsy collection\n* Must be willing to practice birth control\n* Must have a negative pregnancy test at screening and prior to initiating lymphodepletion chemotherapy or study drug administration\n* Must have recovered from toxicities due to prior therapies\n\nExclusion Criteria:\n\n* Has inadequate venous access\n* Has an active second malignancy (not disease free for at least 5 years) in addition to the studied malignancy, excluding low-risk neoplasms such as non-metastatic basal cell or squamous cell skin carcinoma\n* Is pregnant or lactating\n* Has a history of or active autoimmune disease\n* Has a history of significant central nervous system (CNS) disease, such as stroke, epilepsy\n* Has an active systemic (viral, bacterial, or fungal) infection\n* Has New York Heart Association (NYHA) Class III or IV heart failure, unstable angina, or a history of myocardial infarction or significant arrhythmia\n* Has any psychiatric or medical disorder that would preclude safe participation in and/or adherence to the protocol\n* Has received anticancer medications within 2 weeks of the time of initiating lymphodepletion\n* Has received immunosuppressive medications within 2 weeks of administration of P-MUC1C-ALLO1, and/or expected to require them while enrolled in the study\n* Has received systemic corticosteroid therapy within 1 week of the administration of P-MUC1C-ALLO1 or is expected to require it during the course of the study\n* Has known CNS metastases or symptomatic CNS involvement\n* Has a history of significant liver disease or active liver disease\n* Has a history of known genetic predisposition to HLH/MAS\n* Has received anti-cancer monoclonal antibody therapy within 4 weeks of initiating LD therapy",
+  "enrollment": 180,
+  "has_results": false,
+  "interventions": [
+   "P-MUC1C-ALLO1 CAR-T cells",
+   "Rimiducid"
+  ],
+  "last_update_posted": "2026-11-05",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "뇌전이 또는 중추신경계 침범",
+    "5년 이내의 다른 암 병력",
+    "자가면역 질환 병력",
+    "심근경색 또는 심부전 등 중증 심장 질환",
+    "활동성 전신 감염"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "이전 치료 후 질병이 진행하였거나 기존 치료가 어려운 전이성 또는 국소 진행성 췌장암 및 고형암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 14,
+  "nct_id": "NCT05239143",
+  "phase": "PHASE1",
+  "primary_completion_date": "2039-04",
+  "sex": "ALL",
+  "sponsor": "Poseida Therapeutics, Inc.",
+  "start_date": "2022-02-15",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

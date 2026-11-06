@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) develops within a complex tumor microenvironment characterized by malignant epithelial states, myeloid inflammation, and coagulation abnormalities. Related thrombo-inflammatory transcriptional features have also been observed in ischemic stroke, but whether these diseases share reproducible molecular programs, and how such programs are organized across cellular compartments in PDAC, remains incompletely understood.\nMETHODS: We integrated transcriptomic datasets from three ischemic stroke cohorts and two paired PDAC tumor-normal cohorts using within-cohort modeling and random-effects meta-analysis. Candidate programs were subsequently investigated using independent bulk transcriptomic, single-cell RNA-sequencing, paired proteomic, spatial transcriptomic, clinical, and human genetic datasets to assess their reproducibility, cellular localization, tumor-microenvironment context, and translational relevance.\nRESULTS: Iterative quality-control and replication filters identified 46 concordantly altered genes across the analyzed PDAC and ischemic stroke datasets. Six sentinel genes organized this cross-disease transcriptional signal into an epithelial program comprising CEACAM6, ANXA3, and IL1RAP; a myeloid program comprising TREM1 and IL1R2; and a coagulation-associated component represented by F5. All six genes were independently validated in PDAC, while 34 of 36 quantifiable candidate pairs showed concordant transcript-protein changes. Single-cell and spatial analyses localized the epithelial and myeloid programs to distinct malignant and immune compartments within the PDAC microenvironment. After adjustment for inferred cell abundance, the epithelial program remained the most reproducible cross-disease transcriptional feature, whereas the myeloid and coagulation-associated programs showed greater dependence on cellular composition and disease context. External stroke validation was heterogeneous, and survival, protein quantitative trait locus, and colocalization analyses did not support independent prognostic or genetic-causal interpretations.\nCONCLUSION: This multi-omic study defines a compartment-resolved cellular framework in PDAC characterized by a stable tumor-associated epithelial program and more context-dependent myeloid and coagulation-associated programs identified through cross-disease analysis with ischemic stroke. These findings provide a mechanistically informed framework for understanding cancer cell-microenvironment relationships and prioritize CEACAM6, ANXA3, IL1RAP, and TREM1 for functional investigation. They should not be interpreted as evidence that these PDAC-associated programs directly cause or mediate ischemic stroke.",
+ "authors": [
+  "Lu H",
+  "Qi X",
+  "Zhang M",
+  "Yang H",
+  "Zou M"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42984787",
+ "importance": 0.59,
+ "key_points_ko": [
+  "췌관선암과 허혈성 뇌졸중 데이터셋에서 일관되게 변화하는 46개 유전자를 발굴했습니다.",
+  "핵심 6개 유전자는 상피세포(CEACAM6, ANXA3, IL1RAP), 골수계(TREM1, IL1R2), 응고(F5) 프로그램으로 구성되었습니다.",
+  "정량 가능한 후보 전사체-단백질 36쌍 중 34쌍에서 일치하는 변화가 검증되었습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.3389/fcell.2026.1969947",
+  "nct": [],
+  "pmcid": "PMC13731346",
+  "pmid": "42984787"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Cell Dev Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42984787/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)과 허혈성 뇌졸중 환자의 다중 오믹스 데이터를 통합하여 두 질환이 공유하는 분자적 프로그램을 탐색했습니다. 분석 결과 46개 유전자가 공통으로 변화했으며, 상피세포 프로그램(CEACAM6, ANXA3, IL1RAP)과 골수계 프로그램(TREM1, IL1R2), 응고 관련 인자(F5)가 핵심으로 확인되었습니다. 단일세포 및 공간 전사체 분석을 통해 이들 프로그램이 췌장암 미세환경 내 종양 세포 및 면역세포 구획에 각각 위치함을 확인했습니다. 다만 생존 분석 및 유전체 분석에서 이들 프로그램이 독립적인 예후 인자이거나 뇌졸중을 직접 유발한다는 근거는 확인되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Compartment-resolved epithelial and myeloid programs are shared by pancreatic ductal adenocarcinoma and ischemic stroke",
+ "title_ko": "췌관선암과 허혈성 뇌졸중이 공유하는 구획별 상피세포 및 골수계 프로그램 규명",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic cancer is characterized by nonspecific symptoms and early deterioration of the patient's general condition, making comprehensive and timely supportive care essential. Key components include the management of treatment-related toxicities, comorbidities, malnutrition, fatigue, and pain, as well as psychological support and caregiver involvement. The use of patient-reported outcomes and digital tools enables personalized follow-up and more efficient care coordination. Supportive care, when integrated throughout the care pathway, improves quality of life, and may positively impact survival.",
+ "authors": [
+  "Molina Beltran EE",
+  "Mouzakitis A",
+  "Delaye M",
+  "Neuzillet C"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983990",
+ "importance": 0.55,
+ "key_points_ko": [
+  "췌장암은 비특이적 증상과 빠른 전신 상태 악화로 인해 포괄적인 지지요법이 필수적입니다.",
+  "지지요법의 주요 내용에는 치료 독성 관리, 동반 질환, 영양실조, 피로, 통증 관리 및 심리적 지원이 포함됩니다.",
+  "치료 과정 전반에 지지요법을 통합하면 삶의 질이 향상되고 생존율에 긍정적인 영향을 미칠 수 있습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983990"
+ },
+ "pub_types": [
+  "Journal Article",
+  "English Abstract",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983990/"
+ },
+ "summary_ko": "췌장암은 비특이적 증상과 환자 전신 상태의 빠른 악화가 특징이므로 포괄적이고 시급한 지지요법이 필수적입니다. 주요 구성 요소에는 치료 관련 독성 관리, 동반 질환, 영양실조, 피로, 통증 관리와 함께 심리적 지원 및 보호자 참여가 포함됩니다. 지지요법을 치료 과정 전반에 통합하면 삶의 질이 향상되며 생존율에도 긍정적인 영향을 미칠 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[The importance of supportive care in pancreatic cancer]",
+ "title_ko": "췌장암에서 지지요법의 중요성",
+ "trial": null,
+ "type": "paper"
+}

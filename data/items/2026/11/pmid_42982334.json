@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Nguyen KT",
+  "Bloomston M",
+  "Maegawa FB"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42982334",
+ "importance": 0.64,
+ "key_points_ko": [
+  "국소 진행성 수술 불가능 췌관선암 환자에서 조직음쇄술 후 로봇 췌두십이지장절제술을 시행한 사례입니다.",
+  "상세 치료 성과, 환자 수, 부작용 등의 구체적인 수치 정보는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1016/j.gassur.2026.102670",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42982334"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982334/"
+ },
+ "summary_ko": "본 논문은 수술이 불가능한 국소 진행성 췌관선암(PDAC) 환자에게 조직음쇄술(Histotripsy)을 시행한 후 로봇 췌두십이지장절제술(Robotic Pancreaticoduodenectomy)을 적용한 치료 사례를 보고합니다. 논문의 상세 초록이 제공되지 않아 치료 성과나 안전성에 대한 구체적인 수치는 확인되지 않습니다. 비침습적 음파 치료와 로봇 수술을 결합한 새로운 치료법의 가능성을 다루고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Post-Histotripsy Robotic Pancreaticoduodenectomy for Locally Advanced Unresectable Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "국소 진행성 수술 불가능 췌관선암 환자에서 조직음쇄술 시행 후 로봇 췌두십이지장절제술",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,20 +1,20 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,025</b><span>누적 수집<br><small>논문·소식 494 · 임상시험 531</small></span></div><div class="ps-stat"><b>+21</b><span>오늘 신규<br><small>갱신 35건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,051</b><span>누적 수집<br><small>논문·소식 516 · 임상시험 535</small></span></div><div class="ps-stat"><b>+26</b><span>오늘 신규<br><small>갱신 38건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-05](_generated/daily/2026/11/05.md)
+최근 수집일: [2026-11-06](_generated/daily/2026/11/06.md)
 
 <a id="nct-nct07409272"></a>
-#### [전이성 췌장암 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및 안전성 평가 연구](https://clinicaltrials.gov/study/NCT07409272)
+#### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
 <small>A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-02-13 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 1.00
 
 **NCT07409272** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](_generated/trials/NCT07409272.md)
 
-이 연구는 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 성인 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 항암화학요법에 setidegrasib(세티데그라시브) 또는 위약(placebo)을 병용 투여하여 효과와 안전성을 평가하는 3상 임상시험입니다. 목표 인원은 614명이며 국내 8곳의 기관이 참여합니다. 주요 목적은 setidegrasib 병용 투여군이 대조군에 비해 생존기간을 연장하는지 확인하는 것입니다. 환자들은 질병이 진행되거나 부작용을 견디지 못할 때까지 치료를 받게 됩니다.
+이 임상시험은 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 세티데그라시브(setidegrasib)와 화학요법의 병행 치료 효과를 평가합니다. mFOLFIRINOX 또는 NALIRIFOX 화학요법과 함께 setidegrasib 또는 위약(placebo)을 투여하여 생존기간 연장 및 암 진행 지연 여부를 확인합니다. 연구의 주요 목표는 setidegrasib 병용 투여 시 위약 병용 대비 환자가 더 오래 생존하는지 확인하는 것입니다. 목표 참여 인원은 614명이며 국내 8곳의 기관이 참여합니다.
 
-- 목표 인원은 614명이며 국내 8개 기관에서 진행되는 3상 임상시험입니다.
-- 대상은 KRAS G12D 변이가 있는 전이성 췌장암 환자입니다.
-- mFOLFIRINOX 또는 NALIRIFOX 화학요법에 setidegrasib 또는 위약을 병용하여 생존기간 연장 효과 등을 평가합니다.
+- 대상 질환: KRAS G12D 변이가 있는 전이성 췌장암 환자 614명
+- 시험 치료: setidegrasib 또는 위약을 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용 투여
+- 주요 평가목표: 위약 병용 대비 생존기간 연장 및 암 진행 지연 효과 평가
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
@@ -52,33 +52,34 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956271/) · [DOI](https://doi.org/10.1097/COC.0000000000001387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956271)</small>
 
 ---
-<a id="pmid-42934316"></a>
-#### [사망에 임박한 진행성 췌장암 남녀 환자의 신체 이미지 고통 - MISTRAL 임상시험 사후 분석](https://pubmed.ncbi.nlm.nih.gov/42934316/)
-<small>Body image distress in women and men with advanced pancreatic cancer approaching death - post-hoc analyses from the MISTRAL-trial</small>
+<a id="pmid-42951709"></a>
+#### [1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험](https://pubmed.ncbi.nlm.nih.gov/42951709/)
+<small>Optimizing first-line NALIRIFOX and exploring the role of the microbiota in second-line pancreatic cancer treatment: the PRODIGE 105-GERCOR 116 PANORAMIX trial</small>
 
-`논문` `무작위` `지지요법·삶의질` · 2026-10-27 · PubMed · Support Care Cancer · 중요도 0.86
+`논문` `2상` `임상시험` `신약·치료제` `치료 전반` · 2026-10-28 · PubMed · Dig Liver Dis · 중요도 0.86
 
-본 연구는 진행성 췌장암 환자가 사망에 임박함에 따라 신체 이미지 고통과 체중 관련 걱정이 어떻게 변화하는지 및 성별 차이를 조사한 MISTRAL 임상시험의 사후 분석입니다. MISTRAL 임상시험에 참여한 환자 125명(여성 64명, 51.2%)의 EORTC QLQ-PAN-26 설문 데이터를 바탕으로 사망 전 1개월부터 6개월까지의 변화를 분석했습니다. 분석 결과, 사망 전 6개월 동안 신체 이미지 고통과 체중 관련 걱정이 모두 유의하게 증가했습니다. 남녀 간 변화 속도의 통계적 차이는 없었으나, 사망에 가까워질수록 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 보고하는 경향을 보였습니다.
+전이성 췌관선암(mPDAC) 환자를 대상으로 1차 NALIRIFOX 요법 후 독성을 줄이기 위한 유지요법과 2차 치료 시 항생제를 통한 효과 증대를 검증하는 임상 2상 프로토콜입니다. 환자들은 NALIRIFOX 8주기 투여 후 5-FU(플루오로우라실) 유지요법군과 NALIRIFOX 지속군으로 배정됩니다. 질병 진행 후 2차 젬시타빈 치료 단계에서는 종양 내 세균의 약물 비활성화를 억제하기 위해 ciprofloxacin(시프로플록사신) 또는 위약을 병용합니다. 프랑스 18개 기관에서 1단계 108명, 2단계 92명의 환자를 대상으로 진행됩니다.
 
-- 총 125명의 진행성 췌장암 환자(여성 51.2%)를 대상으로 사망 전 1개월에서 6개월까지의 신체 변화 고통을 분석했습니다.
-- 사망 전 6개월 동안 신체 이미지 고통(β = 3.54, 95% CI: 1.67-5.41)과 체중 걱정(β = 2.98, 95% CI: 0.53-5.44)이 유의하게 증가했습니다.
-- 변화 속도에서 남녀 간 통계적으로 유의한 차이는 없었으나, 여성은 신체 이미지 고통을, 남성은 체중 걱정을 더 크게 호소하는 경향을 보였습니다.
+- NALIRIFOX 8주기 후 5-FU 유지요법 또는 NALIRIFOX 지속군으로 2:1 무작위 배정하여 6개월 무진행 생존기간(PFS)을 평가합니다.
+- 2차 치료에서 젬시타빈 기반 항암요법에 ciprofloxacin 또는 위약을 1:1로 병용 투여하여 6개월 전체 생존기간(OS)을 평가합니다.
+- 1단계에는 108명, 2단계에는 92명의 전이성 췌장암 환자가 등록될 예정입니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42934316/) · [DOI](https://doi.org/10.1007/s00520-026-11420-4) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13710564/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42934316)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42951709/) · [DOI](https://doi.org/10.1016/j.dld.2026.10.006) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42951709)</small>
 
 ---
-<a id="pmid-42940093"></a>
-#### [췌관선암에서 삼차 림프구 구조(TLS)의 예후적 의의 및 공간적 조직화](https://pubmed.ncbi.nlm.nih.gov/42940093/)
-<small>Prognostic and Spatial Organization of Tertiary Lymphoid Structures in Pancreatic Ductal Adenocarcinoma</small>
+<a id="pmid-42971953"></a>
+#### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
+<small>Sitagliptin, a repurposed diabetes drug, overcomes gemcitabine resistance in pancreatic cancer via ribonucleotide reductase inhibition: SITGEM-CARE phase 2 trial</small>
 
-`논문` `메타분석` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-09 · PubMed · Biomedicines · 중요도 0.86
+`논문` `2상` `신약·치료제` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-03 · PubMed · Signal Transduct Target Ther · 중요도 0.86
 
-본 연구는 췌장관선암(PDAC) 환자에서 삼차 림프구 구조(TLS)의 예후적 가치와 공간적 특징을 분석했습니다. 총 21개 연구와 7개의 공개 분자 데이터셋을 통합 분석한 결과 병리학적으로 TLS가 존재하는 환자군에서 전체 생존기간(OS)이 유의하게 길어졌습니다. 또한 TLS 면적이 높을수록 B세포 및 Tfh/CXCL13 면역 프로그램의 활성이 지속적으로 높아지는 공간적 연관성이 확인되었습니다. 결론적으로 TLS는 췌장암에서 예후에 긍정적인 면역 상태를 반영하는 유용한 지표입니다.
+인공지능(AI) 기반 약물 재창출 연구를 통해 당뇨병 치료제인 sitagliptin(시타글립틴)이 젬시타빈 저항성을 극복하는 리보뉴클레오티드 환원효소(RRM1/2) 억제제로 발굴되었습니다. 국소 진행성 또는 전이성 췌장암 환자 22명을 대상으로 진행된 SITGEM-CARE 2상 임상시험에서 sitagliptin과 gemcitabine(젬시타빈)+nab-paclitaxel(냅-팍리탁셀) 병용요법을 투여했습니다. 그 결과 객관적 반응률(ORR) 36.4%, 질병 통제율(DCR) 86.4%를 달성했습니다. 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월이었으며 4등급 이상의 치료 관련 부작용은 관찰되지 않았습니다.
 
-- 병리적으로 확인된 삼차 림프구 구조(TLS)의 존재는 5개 코호트(1,019명 환자)에서 전체 생존기간(OS) 연장과 연관되었습니다(위험비 0.544, 95% 신뢰구간 0.398-0.743).
-- 공간적 데이터 분석 결과 TLS 부담이 높을수록 B세포 및 Tfh/CXCL13 프로그램과의 긍정적 연관성이 일관되게 나타났습니다.
-- TLS는 췌관선암(PDAC)에서 우수하고 공간적으로 조직화된 면역 반응 상태를 나타냅니다.
+- 국소 진행성 또는 전이성 췌장암 환자 22명에게 sitagliptin과 gemcitabine+nab-paclitaxel 병용요법을 투여했습니다.
+- 객관적 반응률(ORR)은 36.4%, 질병 통제율(DCR)은 86.4%였으며 환자의 86.4%에서 종양 크기 감소가 확인되었습니다.
+- 무진행 생존기간(PFS) 중앙값은 6.6개월, 전체 생존기간(OS) 중앙값은 12.5개월(12개월 생존율 62.9%)이었습니다.
+- 4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42940093/) · [DOI](https://doi.org/10.3390/biomedicines14102287) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13701594/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42940093)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13728121/) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
 
 ---

@@ -3,7 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug"
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -18,11 +19,11 @@
  "id": "nct:NCT06782555",
  "importance": 0.81,
  "key_points_ko": [
-  "종양 저산소 환경을 표적하는 evofosfamide(에보포스파미드)와 면역항암제 zalifrelimab(자리프렐리맙), balstilimab(발스틸리맙) 삼중 병용요법의 안전성과 효과를 평가하는 1/2상 임상시험입니다.",
-  "표준 치료 옵션이 없거나 적합하지 않은 국소 진행성 또는 전이성 췌장암 환자가 포함됩니다.",
-  "연구의 총 목표 대상 환자 수는 71명입니다."
+  "대상 질환은 전이성 췌장암, 전이성 전립선암, 전이성 HPV 음성 두경부 편평세포암입니다.",
+  "목표 인원은 총 71명이며, 국내 기관은 없습니다.",
+  "evofosfamide, zalifrelimab, balstilimab의 병용 투여 안전성과 유효성을 평가합니다."
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -45,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06782555"
  },
- "summary_ko": "본 연구는 국소 진행성 또는 전이성 췌장암, 전립선암, 두경부암 환자를 대상으로 에보포스파미드(evofosfamide), 자리프렐리맙(zalifrelimab), 발스틸리맙(balstilimab) 삼중 병용요법의 안전성과 효과를 평가하는 1/2상 임상시험입니다. 종양 내부의 저산소 환경을 표적하는 에보포스파미드를 면역관문억제제와 함께 투여하여 치료 저항성을 극복할 수 있는지 확인합니다. 1상 단계에서 안전 용량을 결정한 후 2상 확장 코호트에서 췌장암을 포함한 암종별 치료 효과를 평가합니다.",
+ "summary_ko": "이 1/2상 임상시험은 진행성 또는 전이성 췌장암, 전립선암, 두경부암 환자를 대상으로 시험용 약물인 evofosfamide, zalifrelimab, balstilimab 병용 요법의 전반적인 안전성, 내인성, 유효성을 평가합니다. 저산소증을 유도하는 종양 미세환경을 표적 치료하는 evofosfamide가 면역관문억제제인 zalifrelimab(anti-CTLA-4) 및 balstilimab(anti-PD-1)의 항종양 효과를 강화할 수 있는지 검증합니다. 1상 용량 증량 단계에서 최고 용량을 결정하며, 2상 용량 팽창 단계에서는 췌장암을 포함한 3개 코호트에서 병용 요법을 평가합니다. 목표 환자 수는 71명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Study of Evofosfamide in Combination With Zalifrelimab and Balstilimab",
- "title_ko": "에보포스파미드, 자리프렐리맙, 발스틸리맙 병용요법 연구",
+ "title_ko": "evofosfamide, zalifrelimab, balstilimab 병용 요법에 대한 연구",
  "trial": {
   "conditions": [
    "Metastatic Prostate Cancer",
@@ -57,7 +58,7 @@
    "Metastatic Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 국소 진행성 또는 전이성 췌장암 환자 (임상적 이점이 입증된 표준 치료가 더 이상 없거나 부적합한 경우)\n- 최소 3개월 이상의 예상 수명을 가진 환자\n- ECOG 수행능력 평가 점수 0~2점\n- RECIST 1.1 기준 측정 가능한 병변이 있는 환자\n- 적절한 골수, 간, 신장 기능 수치를 가진 환자\n\n제외 기준:\n- 활동성 또는 조절되지 않는 자가면역 질환 병력이 있는 환자\n- 이전 면역관문억제제(anti-CTLA-4, anti-PD-1/PD-L1) 치료 중 3등급 또는 4등급 부작용 병력이 있는 환자\n- 장천공 위험 요인(급성 게실염, 장폐색, 복막 전이 등)이 있는 환자\n- 조절되지 않거나 치료되지 않은 뇌전이 및 중앙신경계 질환 환자\n- 최근 6개월 이내 심근경색, 부정맥, 심부전 등 중증 심장 질환 또는 활동성 감염이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 국소 진행성 또는 전이성 췌장암, 전립선암, 또는 HPV 음성 두경부 편평세포암으로 표준 치료가 없거나 적절하지 않은 환자\n- 최소 예상 여명이 3개월 이상인 환자\n- ECOG 수행능력 평가 0에서 2인 환자\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 있는 환자\n- 연구 참여 전 적절한 골수 및 간 기능 수치를 충족하는 환자\n\n제외 기준:\n- 활성/조절되지 않는 자가면역 질환의 병력이 있는 환자\n- anti-CTLA-4 또는 anti-PD-1/PD-L1 치료로 3등급 또는 4등급 이상 부작용 병력이 있는 환자\n- 급성 게실염, 장폐쇄, 복막 carcinomatosis 등 장 천공 위험 요인이 있는 환자\n- 조절되지 않는 중추신경계 질환 또는 활동성 감염이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Histologically confirmed locally advanced or metastatic castration-resistant prostate cancer, pancreatic cancer, or HPV-negative SCCHN for which no other lines of standard therapy with demonstrated clinical benefit are available or appropriate as treatment.\n2. Appropriate to enter a clinical trial with a minimum estimated life expectancy of at least 3 months.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.\n4. Measurable disease as defined by RECIST 1.1. Patients with castration-resistant prostate cancer can have measurable or evaluable disease per PCWG3 criteria. Patients with evaluable disease must have documented evidence of PD as defined by any of the following:\n\n   * PSA progression: minimum of 2 rising values (3 measurements) obtained a minimum of 7 days apart with the last result being at least ≥4.0 ng/mL.\n   * New or increasing non-bone disease per RECIST 1.1 criteria.\n   * Positive bone scan with 2 or more new lesions (PCWG3).\n5. Adequate bone marrow function as defined by the following laboratory test results obtained within 7 days of Cycle 1 Day 1:\n\n   * White blood cell count ≥2500 cells/mm3.\n   * Absolute neutrophil count ≥1500 cells/mm3.\n   * Absolute lymphocyte count \\>500 cells/mm3.\n   * Hemoglobin ≥9 g/dL.\n   * Platelets ≥75,000 cells/mm3.\n6. Adequate liver function as defined by the following laboratory test results obtained within 7 days of Cycle 1 Day 1:\n\n   * Bilirubin ≤1.5 × institutional ULN; for patients with known Gilbert's syndrome, ≤3 × institutional ULN.\n   * Aspartate aminotransferase (SGOT) and alanine aminotransferase (SGPT) ≤3 × institutional ULN; if liver metastases are present, then ≤5 × ULN is allowed.\n7. At least 3 weeks from previous cytotoxic chemotherapy or radiation therapy and at least 5 half-lives or 6 weeks, whichever is shorter, from targeted or biologic therapy with the exception of CTLA-4, PD-1, or PD-L1 blocking antibodies for which only a 2 week interval is required. Patients with prostate cancer, unless they have undergone prior orchiectomy, may continue to receive androgen deprivation therapy, anti-androgen therapy, or therapy that interferes with androgenic stimulation.\n8. All patients must be willing to undergo a biopsy to provide a new tumor sample within 14 days of Cycle 1 Day 1. Patients who are unable to undergo a biopsy at screening must submit archival tumor tissue retrieved within the last 6 calendar months. Patients must also consent to undergo a biopsy between Day 15 of Cycle 2 and Day 8 of Cycle 3 in those subjects which it is clinically safe and attainable. A biopsy is not required for participants with metastatic prostate cancer with bone-only disease or inaccessible soft tissue lesions.\n9. Calculated creatinine clearance ≥ 60 mL/min (by the Cockcroft Gault formula) within 7 days of Cycle 1 Day 1\n\nExclusion Criteria:\n\n1. A history of currently active/uncontrolled autoimmune diseases or disorders, including inflammatory bowel disease (including Crohn's disease and ulcerative colitis), rheumatoid arthritis, systemic sclerosis (scleroderma), systemic lupus erythematosus, or autoimmune vasculitis (eg, Wegener's granulomatosis).\n2. Patients with prior history of any Grade 3 or Grade 4 AEs from anti-CTLA-4, anti-PD-1/PD-L1, or anti-CTLA-4 and anti-PD-1/PD-L-1 combination therapy.\n3. History of acute diverticulitis, intra-abdominal abscess, gastrointestinal obstruction, abdominal carcinomatosis, or other known risk factors for bowel perforation.\n4. Patients on long-term systemic steroids (\\>10 mg daily prednisone equivalent initiated \\>2 weeks prior to study enrollment). Inhaled or topical steroids are permitted in the absence of active autoimmune disease.\n5. Any underlying medical or psychiatric condition, which in the opinion of the investigator, will make the administration of study treatment hazardous or obscure the interpretation of AEs, e.g., a condition associated with frequent diarrhea or chronic skin conditions, recent surgery (within 30 days) or colonic biopsy from which the patient has not recovered, partial endocrine organ deficiencies, or substance abuse.\n6. Concomitant use of QT-prolonging drugs with a risk of causing Torsades de Pointes (TdP).\n7. History of risk factors for TdP, including family history of long QT syndrome.\n8. Corrected QT (QTc) interval of ≥470 msec calculated according to Fridericia's formula (QTc=QT/RR \\[0.33\\]).\n9. Sustained systolic blood pressure (BP) \\>140 mmHg or \\<90 mmHg and sustained diastolic BP \\>100 mmHg or \\<60 mmHg.\n10. Patients with newly diagnosed, uncontrolled and/or untreated cancer-related central nervous system disease. Patients with treated brain metastases that are radiographically or clinically stable for at least 2 weeks after therapy and have no evidence of cavitation or hemorrhage in the brain lesion(s) are eligible if they are asymptomatic and do not require corticosteroids (must have discontinued steroids at least 1 week prior to study enrollment).\n11. Uncontrolled intercurrent illness including, but not limited to, myocardial infarction within 6 months, unstable symptomatic ischemic heart disease, significant cardiac arrythmias, active uncontrolled infection requiring systemic therapy, or psychiatric illness/social situations that would limit compliance with study requirements.\n12. Major surgical procedure, open biopsy, or significant traumatic injury within 4 weeks prior to study enrollment.\n13. Current evidence of active and uncontrolled infection, New York Heart Association Class III-IV chronic heart failure, documented Child's class B and C cirrhosis, active symptomatic pancreatitis, or uncontrolled medical disease which, in the opinion of the investigator, could compromise assessment of study treatment efficacy.\n14. Active human immunodeficiency virus infection (Exception: patients with well-controlled HIV \\[e.g., CD4 ≥ 350 cells/uL and undetectable viral load\\] who have been on an effective (drug, dosage, and schedule associated with reduction and control of the viral load) antiretroviral therapy (ART) for ≥ 4 weeks are eligible). Patients with a history of acquired immunodeficiency syndrome (AIDS)-defining opportunistic infections in the last 12 months are not eligible. Note: Drug-drug interactions with ART occur via many mechanisms, with cytochrome P450 CYP3A4-mediated interactions being the most common. Patients who are using concurrent strong or moderate CYP3A4 inhibitors (e.g., ritonavir, cobicistat) or strong or moderate CYP3A4 inducers must be switched to an alternate effective ART regimen ≥ 4 weeks before study enrollment or should be excluded from the study if their regimen cannot be altered.\n15. Active or chronic hepatitis B or C virus infection. Patients with a history of HCV infection must have completed curative antiviral treatment and must have a viral load below the limit of quantification. A patient who is HCV Ab positive but HCV RNA negative due to prior treatment or natural resolution is eligible.\n16. Known hypersensitivity to any components of the study treatment or any of their excipients or analogs or drugs of similar chemical or biologic composition.\n17. Live vaccine within 4 weeks prior to study enrollment.\n18. Concomitant therapy with interleukin-2, interferon, or other non-study immunotherapy agents, or immunosuppressive agents.\n19. Concomitant use of strong or moderate inhibitors or strong or moderate inducers of CYP3A4 within 14 days or 5 half-lives (whichever is longer) prior to study enrollment and for the duration of study treatment.\n20. Concomitant use of anti-cancer chemotherapy, radiotherapy, hormone therapy, or targeted therapy. Patients with prostate cancer may continue treatment with anti-androgen and bone targeted therapies (e.g., zoledronic acid and denosumab). Palliative radiotherapy to nontarget lesions is permitted.",
   "enrollment": 71,
   "has_results": false,
@@ -76,16 +77,16 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "활동성 자가면역 질환 병력",
-    "이전 면역항암제 치료 중 3~4등급 중증 부작용 경험",
-    "조절되지 않는 뇌전이 또는 중앙신경계 질환",
-    "최근 6개월 이내 심근경색 등 중증 심장 질환",
-    "장천공 위험 요인(게실염, 장폐색 등)"
+    "자가면역 질환 병력",
+    "장 천공 위험 요인",
+    "조절되지 않는 중추신경계 질환",
+    "활동성 감염",
+    "심근경색 등 조절되지 않는 심장 질환"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "표준 치료가 불가능하거나 효과가 없는 국소 진행성 또는 전이성 췌장암 환자",
+   "min_prior_lines": null,
+   "notes_ko": "표준 치료가 없는 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

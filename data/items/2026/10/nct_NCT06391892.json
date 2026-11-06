@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
-  "diagnosis"
+  "diagnosis",
+  "drug"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -30,11 +30,12 @@
  "id": "nct:NCT06391892",
  "importance": 0.97,
  "key_points_ko": [
-  "ctDNA 양성 환자의 사전 치료 전 무병생존기간은 3.3개월로 음성 환자의 18.1개월에 비해 현저히 짧았습니다.",
-  "이 연구의 목표 환자 수는 총 100명이며, 2단계(PHASE2) 임상시험으로 진행됩니다.",
-  "일차 평가변수는 무병생존기간(DFS)이며, 전체생존기간(OS)도 함께 평가합니다."
+  "초치료 전 ctDNA 양성인 국소성 췌장암 환자는 선행항암화학요법 군과 즉각적인 수술 군으로 무작위 배정됩니다.",
+  "ctDNA 음성인 환자는 다학제 팀의 권고와 지역 표준에 따라 즉각적인 수술을 받습니다.",
+  "주요 평가지표는 무진행 생존기간(DFS)이며, 전체 생존기간(OS)도 평가합니다.",
+  "목표 환자 수는 100명이며, 현재 환자 모집은 종료(ACTIVE_NOT_RECRUITING)된 상태입니다."
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -57,11 +58,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06391892"
  },
- "summary_ko": "이 연구는 국소 췌장암(Localized pancreatic cancer) 환자를 대상으로 액체생검을 통해 순환종양DNA(ctDNA)를 검출하고, 이에 따른 맞춤형 치료 전략의 예후적 임상 영향을 평가하는 임상시험입니다. ctDNA 양성 환자는 선행화학요법(Neoadjuvant chemotherapy) 또는 선행수술(Upfront surgery)에 무작위 배정되며, ctDNA 음성 환자는 표준 치료에 따라 선행수술을 받습니다. 주요 평가변수는 무병생존기간(DFS)이며, 전체생존기간(OS)과 ctDNA 검출의 예후적 가치도 함께 평가합니다.",
+ "summary_ko": "이 연구는 해부학적으로 절제 가능한 국소성 췌장암 환자를 대상으로 순환종양DNA(ctDNA) 검사를 활용한 맞춤형 치료 전략의 예후적 영향을 평가합니다. 초치료 전 ctDNA 양성인 환자들은 선행항암화학요법(neoadjuvant chemotherapy)을 받거나 즉각적인 수술(upfront surgery)을 받도록 무작위 배정되며, ctDNA 음성인 환자는 지역 지침에 따라 즉각적인 수술을 받습니다. 연구의 주요 평가지표는 무진행 생존기간(DFS)이며, 전체 생존기간(OS)도 함께 평가합니다. 총 100명의 환자를 목표로 Elisabethinen Hospital에서 2상 임상시험으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Liquid Biopsy (ctDNA) Guided Treatment in Localized Pancreatic Cancer: Neoadjuvant CTX vs. Upfront Surgery",
- "title_ko": "국소 췌장암에서 액체생검(순환종양DNA, ctDNA) 기반 치료 전략: 선행화학요법 대 선행수술",
+ "title_ko": "국소성 췌장암에서 액체생검(순환종양DNA, ctDNA) 기반 치료: 선행항암화학요법 대 즉각적 수술",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -69,7 +70,7 @@
    "Predictive Cancer Model"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 동의서 작성\n- 18세 이상\n- 선행수술 예정인 국소 췌장암 환자\n\n제외 기준:\n- 동시성 이차 악성종양\n- 임신",
+  "eligibility_ko": "선정 기준:\n- 동의서 서명\n- 18세 이상\n- 즉각적인 수술을 앞둔 국소성 췌장암\n\n제외 기준:\n- 동시성 이차 악성종양\n- 임신",
   "eligibility_text": "Inclusion Criteria:\n\n* Informed consent\n* \\>18 years old\n* localized pancreatic cancer to go for upfront surgery\n\nExclusion Criteria:\n\n* synchronous secondary malignancy\n* pregnancy",
   "enrollment": 100,
   "has_results": false,
@@ -93,7 +94,7 @@
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "선행수술이 예정된 국소 췌장암 환자",
+   "notes_ko": "즉각적인 수술이 예정된 국소성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

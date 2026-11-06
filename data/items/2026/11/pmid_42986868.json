@@ -1,0 +1,64 @@
+{
+ "abstract": "INTRODUCTION: Incidence of gastroenteropancreatic neuroendocrine neoplasms (GEP-NENs) has increased globally; however, data from Latin America remain scarce. This study aimed to describe the sociodemographic and clinicopathologic characteristics, treatment modalities, survival outcomes, and prognostic factors of GEP-NENs in a 15-year single-center cohort at a national referral cancer center in Lima, Peru.\nMATERIALS AND METHODS: We conducted a retrospective, hospital-based cohort study. Patients diagnosed with GEP-NENs at the Instituto Nacional de Enfermedades Neoplásicas (INEN) were included from 2009 to 2024, and tumors were classified according to the 2019 WHO Classification of GEP-NENs. Overall survival (OS) was estimated using Kaplan-Meier curves and compared using the log-rank test. Prognostic factors were identified through Cox proportional hazards models.\nRESULTS: Three hundred sixty-eight patients were included. The median age at diagnosis was 57 years, with a female predominance (56.2%). Most patients presented with an ECOG performance status of 0-1 (96.5%), and among patients with available disease-extent information, 64.7% had non-metastatic disease. The majority of tumors were well-differentiated (neuroendocrine tumors [NETs]) (84.2%), while 15.8% were poorly differentiated (neuroendocrine carcinomas [NECs]). The most common primary tumor sites included the rectum (39.1%), stomach (19.8%), and pancreas (18.8%). With a median follow-up of 61.9 months, the 5-year OS rate was 52%. NETs exhibited longer OS than NECs, with 5-year OS rates of 65% and 8%, respectively (log-rank p < 0.001). In the multivariable analysis, metastatic disease (aHR = 2.61, 95% CI: 1.63-4.20; p < 0.001) and poorly differentiated histology (aHR: 4.36, 95% CI: 2.59-7.31; p < 0.001) were independently associated with worse overall survival, whereas surgery (aHR: 0.25, 95% CI: 0.15-0.41; p < 0.001) and systemic treatment (aHR: 0.53, 95% CI: 0.31-0.92; p = 0.024) were associated with improved overall survival.\nCONCLUSION: Our findings demonstrate that GEP-NENs represent a highly heterogeneous group of neoplasms with substantial variability in clinicopathological characteristics and survival outcomes. Most patients in our cohort had well-differentiated NETs and favorable long-term survival. These findings support the need for comprehensive national registries and multicenter collaborative studies to validate our results and better characterize GEP-NENs in underrepresented Latin American populations.",
+ "authors": [
+  "Cruz-Diaz WE",
+  "Haro-Varas J",
+  "Enriquez-Vera D",
+  "De la Cruz Ku G",
+  "Torres-Valdivia N",
+  "Paitán Amaro V",
+  "Saavedra A",
+  "Merubia A"
+ ],
+ "categories": [
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42986868",
+ "importance": 0.65,
+ "key_points_ko": [
+  "총 368명의 위장관·췌장 신경내분비종양 환자 중 췌장 원발 종양은 18.8%를 차지했습니다.",
+  "전체 환자의 5년 전체생존율은 52%였으며, 잘 분화된 신경내분비종양(NETs) 65%, 저분화 신경내분비암종(NECs) 8%로 나타났습니다.",
+  "다변량 분석 결과 수술(조정 위험비 0.25)과 전신 치료(조정 위험비 0.53)는 전체생존율 개선과 독립적으로 연관되었습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1371/journal.pone.0361867",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42986868"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.42,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "PLoS One",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42986868/"
+ },
+ "summary_ko": "페루 국립암센터에서 2009년부터 2024년까지 진단된 위장관·췌장 신경내분비종양(GEP-NENs) 환자 368명을 대상으로 임상 특성과 생존율을 분석한 후향적 연구입니다. 원발 부위는 직장(39.1%), 위(19.8%), 췌장(18.8%) 순으로 많았습니다. 전체 환자의 5년 전체생존율(OS)은 52%였으며, 잘 분화된 신경내분비종양(NETs) 환자의 5년 생존율은 65%, 저분화 신경내분비암종(NECs) 환자는 8%였습니다. 분석 결과 수술과 전신 치료를 받은 환자군에서 생존율이 유의하게 개선되었습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Clinicopathologic characteristics and survival outcomes of gastroenteropancreatic neuroendocrine neoplasms in Peru: A 15-year retrospective cohort study",
+ "title_ko": "페루의 위장관·췌장 신경내분비종양 임상병리적 특성 및 생존 결과: 15년 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

@@ -15,16 +15,21 @@
    "date": "2026-10-08",
    "detail": null,
    "event": "created"
+  },
+  {
+   "date": "2026-11-06",
+   "detail": "참여 조건 변경",
+   "event": "eligibility_changed"
   }
  ],
  "id": "nct:NCT07671937",
  "importance": 0.65,
  "key_points_ko": [
-  "목표 인원은 총 2,748명입니다.",
-  "췌장암, 유방암, 부인암 환자(모든 병기)가 참여합니다.",
-  "환자는 기저 상태, 3개월, 6개월에 설문을 작성합니다."
+  "목표 연구 대상 인원은 총 2,748명입니다.",
+  "환자들은 기준선, 3개월, 6개월 시점에 설문조사를 완료합니다.",
+  "연구 대상 질환에는 췌장암, 유방암, 부인과 암이 포함됩니다."
  ],
- "last_updated": "2026-10-08",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +52,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07671937"
  },
- "summary_ko": "본 연구는 다학제 종양 위원회(MDTB) 논의 과정에 전자 환자 보고 결과(ePRO)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인암 환자 2,748명을 대상으로 하며, 초기 관찰 코호트 연구 후 INSPIRE 중재 무작위 대조 시험을 진행합니다. 환자들은 기저 상태, 3개월, 6개월에 건강, 기능, 삶의 질 등에 관한 설문을 완료합니다. 연구진은 의료 기록 검토와 종양 위원회 회의 녹음을 통해 치료 권고, 의료 이용 현황, 환자 보고 결과를 분석합니다.",
+ "summary_ko": "이 연구는 다학제 종양 위원회(multidisciplinary tumor board, MDTB) 논의에 전자 환자 보고 결과(electronic patient-reported outcomes, ePROs)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인과 암 환자를 대상으로 관찰 코호트 연구 및 무작위 대조 임상시험을 진행합니다. 환자들은 건강, 삶의 질, 치료 선호도 등에 관한 설문조사를 작성하며, 연구진은 이를 바탕으로 환자의 상태를 다학제 회의에 전달합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 분석합니다.",
  "summary_source": "llm",
  "tags": [
   "PROs",
@@ -79,8 +84,8 @@
     "phone": "2058421632"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 진단 후 8주 이내에 췌장암, 유방암, 부인암 진단이 의심되거나 확진된 환자 (모든 병기)\n- 참여 기관에서 치료받을 의향이 있는 환자\n- 영어 또는 스페인어로 구두 소통이 가능한 환자\n- 다학제 종양 위원회(MDTB)에서 논의될 예정인 환자\n\n제외 기준:\n- 참여 기관 외의 장소에서 암 치료를 받을 계획이 있는 환자\n- 영어 또는 스페인어로 소통할 수 없는 환자",
-  "eligibility_text": "Inclusion/Exclusion Criteria: We will include two populations: (1) patients and (2) clinical team members involved in the MDTB.\n\nInclusion Criteria:\n\n* Inclusions Criteria- Patients:\n\n  1. aged 18 years or older;\n  2. with suspected or confirmed diagnosis of pancreatic, breast, and gynecologic cancer (all stages) within 8 weeks of diagnosis;\n  3. intention to be treated at a participating institution;\n  4. with verbal fluency in English or Spanish; and\n  5. scheduled to be discussed at MDTB.\n* Inclusion criteria - Clinicians:\n\nAll clinical team members participating in the pancreatic, breast, or gynecologic MDTB at a participating site will be included and have pre-emptively agreed to participation.\n\nExclusion Criteria:\n\n* Exclusion criteria - Patients:\n\nIndividuals with plans to receive cancer treatment outside the participating institution and inability to speak English or Spanish.\n\n* Exclusion criteria - Clinician:\n\nClinicians will retain the opportunity to opt-out of participation, in which case their portions of the discussion will not be included in the analysis; however, this is not anticipated based on pilot data.",
+  "eligibility_ko": "선정 기준:\n1. 18세 이상 성인 환자\n2. 진단 후 8주 이내의 췌장암, 유방암, 부인과 암 의심 또는 확진 환자 (새로운 재발 포함)\n3. 참여 기관에서 치료받을 의사가 있는 환자\n4. 영어 또는 스페인어 구사 능력이 있는 환자\n5. 다학제 종양 위원회(MDTB)에서 논의될 예정인 환자\n\n제외 기준:\n1. 참여 기관 외 다른 곳에서 암 치료를 받을 계획이 있는 개인\n2. 영어 또는 스페인어를 구사하지 못하는 개인",
+  "eligibility_text": "Inclusion/Exclusion Criteria: We will include two populations: (1) patients and (2) clinical team members involved in the MDTB.\n\nInclusion Criteria:\n\n* Inclusions Criteria- Patients:\n\n  1. aged 18 years or older;\n  2. with suspected or confirmed diagnosis of pancreatic, breast, and gynecologic cancer (all stages) within 8 weeks of diagnosis. This may include diagnosis of a new recurrence. Patients may have had some treatment prior to being seen at a participating institution as long as they are within the 8-week timeframe. Patients may be diagnosed at a participating institution or outside. If there is diagnostic uncertainty and/or patient has not received treatment they will be allowed to participate if they are beyond the 8 weeks of diagnosis.\n  3. intention to be treated at a participating institution;\n  4. with verbal fluency in English or Spanish; and\n  5. scheduled to be discussed at MDTB.\n* Inclusion criteria - Clinicians:\n\nAll clinical team members participating in the pancreatic, breast, or gynecologic MDTB at a participating site will be included and have pre-emptively agreed to participation.\n\nExclusion Criteria:\n\n* Exclusion criteria - Patients:\n\nIndividuals with plans to receive cancer treatment outside the participating institution and inability to speak English or Spanish.\n\n* Exclusion criteria - Clinician:\n\nClinicians will retain the opportunity to opt-out of participation, in which case their portions of the discussion will not be included in the analysis; however, this is not anticipated based on pilot data.",
   "enrollment": 2748,
   "has_results": false,
   "interventions": [
@@ -88,7 +93,7 @@
    "Capture of patient-reported outcomes",
    "Enhanced Clinician Awareness"
   ],
-  "last_update_posted": "2026-10-07",
+  "last_update_posted": "2026-11-05",
   "location_countries": [
    "United States"
   ],
@@ -98,13 +103,13 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "참여 기관 외의 장소에서 암 치료를 받을 계획인 경우",
-    "영어 또는 스페인어로 소통할 수 없는 경우"
+    "참여 기관 외에서 암 치료를 받을 계획이 있는 경우",
+    "영어 또는 스페인어 구사 불가"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "진단 후 8주 이내이며 참여 기관에서 치료받을 예정인 모든 병기의 췌장암, 유방암, 부인암 환자",
+   "notes_ko": "진단 후 8주 이내의 모든 병기 췌장암, 유방암, 부인과 암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

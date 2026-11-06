@@ -1,0 +1,103 @@
+{
+ "abstract": "This is an open-label, multicenter, Phase 1/2 study evaluating the safety and efficacy of CTX131™ in subjects with relapsed or refractory solid tumors.\n\nAn open-label, multi-center Phase 1/2 study of CTX131 in subjects with relapsed/refractory solid tumors. CTX131 is an is allogeneic CD70- directed chimeric antigen receptor (CAR) T cell immunotherapy comprised of allogeneic T cells that are genetically modified ex vivo using CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats/ CRISPR associated protein 9) gene editing components (single guide RNA and Cas9 nuclease).",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05795595",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05795595"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-04-03",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "CRISPR Therapeutics AG",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05795595"
+ },
+ "summary_ko": "This is an open-label, multicenter, Phase 1/2 study evaluating the safety and efficacy of CTX131™ in subjects with relapsed or refractory solid tumors. An open-label, multi-center Phase 1/2 study of CTX131 in subjects with relapsed/refractory solid tumors.",
+ "summary_source": "excerpt",
+ "tags": [
+  "CAR-T",
+  "Allogeneic",
+  "Carcinoma"
+ ],
+ "title": "A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Clear Cell Renal Cell Carcinoma",
+   "Cervical Carcinoma",
+   "Esophageal Carcinoma",
+   "Pancreatic Adenocarcinoma",
+   "Malignant Pleural Mesothelioma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Key Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Unresectable or metastatic, relapsed/refractory, clear cell renal cell carcinoma, cervical carcinoma, pancreatic adenocarcinoma, esophageal carcinoma, and malignant pleural mesothelioma.\n3. Eastern Cooperative Oncology Group performance status 0 or 1.\n4. Adequate renal, liver, cardiac and pulmonary organ function.\n5. Female subjects of childbearing potential and male subjects must agree to use acceptable method(s) of contraception from enrollment through at least 12 months after CTX131 infusion.\n\nKey Exclusion Criteria:\n\n1. Prior treatment with anti-CD70 targeting agents\n2. History of certain central nervous system (CNS), cardiac or pulmonary conditions.\n3. Presence of uncontrolled bacterial, viral, or fungal infection.\n4. Active HIV, hepatitis B virus or hepatitis C virus infection.\n5. Primary immunodeficiency disorder or active autoimmune disease requiring steroids and/or other immunosuppressive therapy.\n6. Women who are pregnant or breastfeeding.",
+  "enrollment": 19,
+  "has_results": false,
+  "interventions": [
+   "CTX131"
+  ],
+  "last_update_posted": "2026-11-05",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 7,
+  "nct_id": "NCT05795595",
+  "phase": "PHASE1",
+  "primary_completion_date": "2025-09-18",
+  "sex": "ALL",
+  "sponsor": "CRISPR Therapeutics AG",
+  "start_date": "2023-03-13",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

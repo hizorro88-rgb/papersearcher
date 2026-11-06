@@ -1,0 +1,56 @@
+{
+ "abstract": null,
+ "authors": [
+  "Adachi Y",
+  "Hayashi H",
+  "Iwatsuki M"
+ ],
+ "categories": [
+  "surgery",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42982635",
+ "importance": 0.55,
+ "key_points_ko": [
+  "초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다.",
+  "췌장절제술 후 CONUT 점수의 변화와 종양 면역 간의 관계를 다루고 있습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.027",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42982635"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982635/"
+ },
+ "summary_ko": "본 논문은 췌장절제술(pancreatectomy)에 따른 CONUT 점수(CONUT score)의 동적 변화와 콜레스테롤 및 종양 면역의 관계에 대한 의견에 대한 응답입니다. 구체적인 환자 수나 생존기간 등의 수치는 초록에 명시되지 않았습니다. 췌장암 환자와 보호자를 위한 의학 정보 전달을 목적으로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Response to \"Possible dynamic change of CONUT score by pancreatectomy, with special reference to cholesterol and tumor immunity\"",
+ "title_ko": "췌장절제술에 따른 CONUT 점수의 역동적 변화 가능성, 특히 콜레스테롤과 종양 면역에 관한 의견에 대한 응답",
+ "trial": null,
+ "type": "paper"
+}

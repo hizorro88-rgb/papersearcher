@@ -1,0 +1,63 @@
+{
+ "abstract": "Reliable non-invasive biomarkers are needed to optimize treatment selection and enable real-time monitoring of pancreatic cancer (PC). We developed a bead-calibrated, multiparametric flow cytometry (FC) protocol to detect, enumerate, and subtype circulating intact extracellular vesicles (EVs) in blood. Among 120 individuals analyzed by this platform, patients with PC had significantly higher levels of CD45-EpCAM+ EVs than controls. These EVs correlated positively with advanced tumor stage, while their combination with serum CA19-9 improved monitoring accuracy in an exploratory cohort. Findings were supported by two PC mouse models, in which circulating CD45-EpCAM+ EVs correlated with tumor volume. Remarkably, high baseline levels were associated with chemotherapy non-response and shorter overall survival. Overall, this practical, bead-calibrated FC method identified circulating CD45-EpCAM+ EVs as a promising biomarker candidate for PC. The platform may facilitate robust detection of new circulating EV markers and support disease monitoring and treatment stratification.",
+ "authors": [
+  "Florio R",
+  "De Lellis L",
+  "Veschi S",
+  "Lamolinara A",
+  "Piro A",
+  "Pilato S",
+  "D'Ascanio F",
+  "Colasante G"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42985643",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌장암 환자는 대조군에 비해 혈액 내 CD45-EpCAM+ 세포외 소포체(EVs) 수치가 유의하게 높았습니다.",
+  "CD45-EpCAM+ EVs 수치는 혈청 CA19-9와 결합했을 때 탐색 코호트에서 모니터링 정확도를 향상시켰습니다.",
+  "치료 전 높은 기저 EV 수치는 항암화학요법 비반응 및 짧은 전체 생존기간과 연관성을 보였습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1016/j.isci.2026.118051",
+  "nct": [],
+  "pmcid": "PMC13733319",
+  "pmid": "42985643"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "iScience",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985643/"
+ },
+ "summary_ko": "췌장암(PC) 환자의 치료 선택 최적화 및 실시간 모니터링을 위해 비드 교정 다중매개변수 유세포 분석(FC) 기술을 개발했습니다. 총 120명을 대상으로 진행한 연구에서 췌장암 환자는 대조군에 비해 CD45-EpCAM+ 세포외 소포체(EVs) 수치가 유의하게 높았습니다. 높은 기저 EV 수치는 항암화학요법에 대한 반응 감소 및 짧은 전체 생존기간과 관련이 있었습니다. 해당 측정 플랫폼은 췌장암 모니터링과 치료 반응 예측을 돕는 유망한 바이오마커 기술입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Calibrated flow cytometry enables rapid detection of CD45-EpCAM+ extracellular vesicles for pancreatic cancer clinical assessment",
+ "title_ko": "교정된 유세포 분석법을 통한 췌장암 임상 평가용 CD45-EpCAM+ 세포외 소포체의 신속한 검출",
+ "trial": null,
+ "type": "paper"
+}

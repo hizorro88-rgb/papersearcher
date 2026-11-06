@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma is one of the most aggressive cancers, partly due to its high degree of heterogeneity. While common mutations such as KRAS or TP53 are well known, they offered, until recently, few direct therapeutic targets. In contrast, some rare alterations such as germline BRCA mutations or mismatch repair deficiency (MMR) open the door to targeted therapies or immunotherapy. Advances in molecular biology have led to the identification of transcriptomic subtypes, such as the \"classical\" and \"basal-like\", each associated with different prognoses. These subtypes are now complemented by predictive transcriptomic signatures, assisted by artificial intelligence, which may help guide chemotherapy choices after prospective validation. Innovative approaches, including neoantigen-based vaccines and RAS inhibitors, have shown promising results. At the same time, the development of experimental models like organoids and xenografts allows for preclinical testing of therapies. Ultimately, given the complexity of the disease, personalized treatment strategies are now being combined with broader approaches to reach a larger population of patients.",
+ "authors": [
+  "Hammel P",
+  "Dusetti N"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983992",
+ "importance": 0.55,
+ "key_points_ko": [
+  "배 germline BRCA 변이(germline BRCA mutation)나 미스매치 복구 결함(MMR deficiency) 같은 희귀 유전자 이상이 표적치료나 면역요법의 가능성을 열어주었습니다.",
+  "전사체 아형은 '고전형(classical)'과 '기저 유사형(basal-like)' 등으로 나뉘며 서로 다른 예후와 관련이 있습니다.",
+  "신항원 기반 백신과 RAS 억제제(RAS inhibitor) 등이 유망한 치료 접근법으로 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983992"
+ },
+ "pub_types": [
+  "Journal Article",
+  "English Abstract",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983992/"
+ },
+ "summary_ko": "췌장관선암(pancreatic ductal adenocarcinoma)은 높은 이질성으로 인해 가장 공격적인 암 중 하나입니다. 분자생물학의 발전으로 전사체 아형과 인공지능 기반의 예측 시그니처가 규명되어 항암화학요법 선택에 도움을 줄 수 있게 되었습니다. 신항원 기반 백신과 RAS 억제제(RAS inhibitor) 같은 혁신적인 접근법이 유망한 결과를 보이고 있습니다. 또한 오가노이드(organoid)와 이종이식(xenograft) 같은 실험 모델을 통해 전임상 시험이 이루어지고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[From personalized medicine to new approaches for pancreatic ductal adenocarcinoma]",
+ "title_ko": "개인 맞춤형 의학에서 췌장관선암(pancreatic ductal adenocarcinoma)의 새로운 접근법까지",
+ "trial": null,
+ "type": "paper"
+}

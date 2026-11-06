@@ -1,0 +1,58 @@
+{
+ "abstract": "Nanomedicines built on advanced biomaterials are emerging as promising solutions for cancer therapy due to their potential for faster clinical translation. Selecting appropriate animal or in vitro models is critical to accelerating this translation while improving affordability and accessibility. This scoping review examines the preclinical model landscape for Pancreatic Ductal Adenocarcinoma (PDAC), a malignancy projected to become the second leading cause of cancer-related death by 2030. Early diagnosis and timely treatment substantially reduce reliance on surgical intervention and improve survival, underscoring the need for models that support development of early-diagnostic tools and less invasive nanomedicine-based therapies. This review classifies preclinical models ranging from immunocompromised to non-immunocompromised rodents (mice, rats, hamsters) and porcine systems according to their suitability for studying pharmacokinetics/pharmacodynamics (PK/PD) of nanomedicines, and for analyzing mutagenesis, tumor growth, engraftment, metastasis, and tumor heterogeneity. Chemotherapeutic agents and nanodrug delivery systems are compared across these models, with chemically induced rat models identified as particularly robust for PK/PD evaluation. We further assess emerging in vitro organoid models derived from cell lines, primary human tissue, xenografts, and organoid-rodent hybrid systems for their capacity to accelerate drug and nanomedicine screening. Our analysis indicates that in vitro organoid models combined with rat models offer the most efficient platform for demonstrating nanomedicine efficacy, safety, and ability to overcome therapeutic resistance in PDAC. It also highlight opportunities to integrate organoid systems with Artificial Intelligence and Machine Learning ( AI/ML) approaches to further accelerate translational timelines, offering a roadmap for aligning model selection with specific clinical endpoints in future nanomedicine development.",
+ "authors": [
+  "Shaji SS",
+  "Kamalasanan K"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42986846",
+ "importance": 0.69,
+ "key_points_ko": [
+  "화학적으로 암을 유도한 쥐(rat) 모델이 나노의약품 전달체 시스템의 약동학/약력학(PK/PD) 평가에 매우 우수한 것으로 나타났습니다.",
+  "체외 오가노이드(organoid) 모델과 쥐 모델을 결합하는 방식이 나노의약품의 효능 및 치료 저항성을 검증하는 가장 효율적인 플랫폼입니다.",
+  "오가노이드 시스템과 인공지능(AI)/머신러닝(ML) 기술의 통합을 통해 신약 후보 물질의 임상 진입 기간을 단축할 수 있습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1177/08853282261505008",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42986846"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biomater Appl",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42986846/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 치료를 위한 나노의약품 개발 과정에서 약동학(PK)/약력학(PD) 평가에 활용되는 다양한 전임상 모델을 분석한 종설 논문입니다. 면역결핍 및 정상 면역 설치류와 돼지 모델, 인공 배양 조직인 오가노이드(organoid) 등의 특성을 비교했습니다. 연구진은 오가노이드 모델과 화학 유도 쥐(rat) 모델을 결합한 플랫폼이 나노의약품의 효능, 안전성, 치료 저항성 극복을 평가하는 데 가장 효율적이라고 제시했습니다. 또한 인공지능(AI)과 머신러닝(ML) 기술을 오가노이드와 융합하여 임상 적용을 가속화하는 방안도 포함했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Animal models to organoids for PK/PD studies of nanomedicines using advanced biomaterials for pancreatic cancer: A review",
+ "title_ko": "췌장암 치료를 위한 첨단 생체재료 기반 나노의약품의 약동학/약력학 연구용 동물 모델부터 오가노이드까지의 종합 고찰",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic adenocarcinoma represents a major public health challenge. Symptoms may vary according to tumor location: painless jaundice for head tumors (80-90%), transfixing epigastric pain for body tumors, and general condition deterioration for tail tumors. Multiphase pancreatic-protocol computed tomography scan constitutes the reference examination, supplemented when necessary, by endoscopic ultrasound with fine-needle aspiration/biopsy and hepatic MRI. The NCCN classification distinguishes four categories based on vascular relationships: resectable (10%), borderline (10%), locally advanced (30%), and metastatic (50%), determining the therapeutic strategy. The recent integration of biological criteria (CA19-9) and clinical parameters with anatomical assessment (ABC classification) enables better selection of surgical candidates.",
+ "authors": [
+  "Williet N",
+  "Grange R"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983991",
+ "importance": 0.57,
+ "key_points_ko": [
+  "췌장두부 종양은 80~90%에서 통증 없는 황달(painless jaundice) 증상을 보입니다.",
+  "다중기 췌장 프로토콜 컴퓨터 단층촬영(CT) 스캔은 기준 검사입니다.",
+  "NCCN 분류는 수술 가능(10%), 경계성(10%), 국소 진행성(30%), 전이성(50%)의 네 가지 범주로 나눕니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983991"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983991/"
+ },
+ "summary_ko": "췌장선암(pancreatic adenocarcinoma)은 주요 공중 보건 문제입니다. 증상은 종양의 위치에 따라 다르며, 다중기 췌장 프로토콜 컴퓨터 단층촬영(CT) 스캔이 기준 검사입니다. NCCN 분류는 혈관과의 관계에 따라 네 가지 범주로 나누어 치료 전략을 결정합니다. 생물학적 기준과 임상적 매개변수의 통합은 수술 대상자 선정에 도움을 줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Diagnosing pancreatic cancer]",
+ "title_ko": "췌장암 진단",
+ "trial": null,
+ "type": "paper"
+}

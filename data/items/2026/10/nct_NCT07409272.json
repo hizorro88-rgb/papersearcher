@@ -23,11 +23,11 @@
  "id": "nct:NCT07409272",
  "importance": 1.0,
  "key_points_ko": [
-  "목표 인원은 614명이며 국내 8개 기관에서 진행되는 3상 임상시험입니다.",
-  "대상은 KRAS G12D 변이가 있는 전이성 췌장암 환자입니다.",
-  "mFOLFIRINOX 또는 NALIRIFOX 화학요법에 setidegrasib 또는 위약을 병용하여 생존기간 연장 효과 등을 평가합니다."
+  "대상 질환: KRAS G12D 변이가 있는 전이성 췌장암 환자 614명",
+  "시험 치료: setidegrasib 또는 위약을 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용 투여",
+  "주요 평가목표: 위약 병용 대비 생존기간 연장 및 암 진행 지연 효과 평가"
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07409272"
  },
- "summary_ko": "이 연구는 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 성인 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 항암화학요법에 setidegrasib(세티데그라시브) 또는 위약(placebo)을 병용 투여하여 효과와 안전성을 평가하는 3상 임상시험입니다. 목표 인원은 614명이며 국내 8곳의 기관이 참여합니다. 주요 목적은 setidegrasib 병용 투여군이 대조군에 비해 생존기간을 연장하는지 확인하는 것입니다. 환자들은 질병이 진행되거나 부작용을 견디지 못할 때까지 치료를 받게 됩니다.",
+ "summary_ko": "이 임상시험은 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 세티데그라시브(setidegrasib)와 화학요법의 병행 치료 효과를 평가합니다. mFOLFIRINOX 또는 NALIRIFOX 화학요법과 함께 setidegrasib 또는 위약(placebo)을 투여하여 생존기간 연장 및 암 진행 지연 여부를 확인합니다. 연구의 주요 목표는 setidegrasib 병용 투여 시 위약 병용 대비 환자가 더 오래 생존하는지 확인하는 것입니다. 목표 참여 인원은 614명이며 국내 8곳의 기관이 참여합니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
@@ -64,7 +64,7 @@
   "NALIRIFOX"
  ],
  "title": "A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer",
- "title_ko": "전이성 췌장암 환자를 대상으로 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용하는 setidegrasib의 유효성 및 안전성 평가 연구",
+ "title_ko": "전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -78,7 +78,7 @@
     "phone": "800-888-7704"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 조직학적으로 확진된 KRAS G12D 변이 전이성 췌관선암(PDAC) 환자\n* 완치 목적의 수술 절제나 방사선 치료가 불가능한 환자\n* 스크리닝 기간 동안 연구를 위한 종양 조직 검체를 제공하는 데 동의한 환자\n* 무작위 배정 전 7일 이내 동유럽암연구협력그룹(ECOG) 수행능력 상태가 0 또는 1인 환자\n* 적절한 장기 기능을 갖춘 환자\n\n제외 기준:\n* 신경내분비암, 선방세포 췌장암, 편평/선편평 특징이 있는 췌장암 환자\n* 뇌척수막 질환 또는 뇌/신경계에 암 증상이 있는 환자\n* 최근 2년 이내에 치료가 필요한 다른 활성 악성 종양이 있는 환자\n* 이전에 KRAS G12D 표적 치료제를 투여받은 적이 있는 환자\n* 전이성 췌장암에 대해 이전에 전신 치료를 받은 적이 있는 환자 (단, 스크리닝 기간 동안 mFOLFIRINOX 또는 NALIRIFOX를 최대 2회 투여받은 경우는 허용)",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 확인된 전이성 췌관선암(PDAC)이며 국소 또는 중앙 검사를 통해 KRAS G12D 변이가 문서로 확인된 환자\n- 근치 목적의 수술적 절제나 방사선 치료가 불가능한 환자\n- 스크리닝 기간 동안 연구를 위한 베이스라인 종양 조직 검체 제공에 동의한 환자\n- 무작위 배정 전 7일 이내에 ECOG 수행능력(PS)이 0 또는 1인 환자\n- 무작위 배정 전 7일 이내에 적절한 장기 기능을 갖춘 환자\n- 현재 연구 중 다른 중재적 임상시험에 참여하지 않는 것에 동의한 환자\n\n제외 기준:\n- 신경내분비암, 선방세포 췌장암, 편평세포/선편평세포 특성이 있는 췌장암 환자\n- 지난 2년 이내에 치료가 필요한 다른 활성 악성 종양이 있었던 환자\n- 만성 염증성 장질환, 장폐색 및/또는 조절되지 않는 심한 설사가 있는 환자\n- 기능적 장애를 동반한 말초 감각신경병증이 있는 환자\n- 뇌척수막 질환, 뇌 또는 신경계의 암 증상이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participant has histologically confirmed metastatic pancreatic ductal adenocarcinoma (PDAC) with documented Kirsten rat sarcoma viral oncogene homolog (KRAS) G12D mutation based on local or central testing (confirmation of a participant's positive KRAS G12D mutation result must be available prior to randomization).\n* Participant has no option for surgical resection or radiotherapy with curative intent.\n* Participant consents to and provides a baseline tumor tissue specimen for the study during screening. The sample must meet the requirements described in the laboratory manual and the tumor sample guidance.\n* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 within 7 days prior to randomization.\n* Participant has adequate organ function as indicated by the following laboratory values within 7 days prior to randomization (if a participant has received a recent blood transfusion, the latest laboratory tests must be obtained ≥ 14 days after any blood transfusion). The laboratory values prior to the initiation of the first dose of setidegrasib/placebo (or mFOLFIRINOX/NALIRIFOX, if chemotherapy is administered during the screening period) should be used to determine eligibility. Participants who receive mFOLFIRINOX/NALIRIFOX during the screening period must meet these criteria within 7 days prior to the start of on-treatment chemotherapy (i.e., C1D1).\n* Participant agrees not to participate in another interventional study while receiving study intervention in the present study (participant who is currently in the follow-up period of an interventional clinical trial is allowed).\n\nExclusion Criteria:\n\n* Participant has neuroendocrine, acinar pancreatic carcinoma or pancreatic cancer with squamous/adenosquamous features.\n* Participant has another prior malignancy active (i.e., requiring treatment, including hormonal therapies, or intervention) within the previous 2 years different from the primary malignancy for this study, except for local malignancies that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of the cervix or breast, which are allowed.\n* Participant has chronic inflammatory bowel disease, bowel obstruction and/or severe uncontrolled diarrhea.\n* Participant has peripheral sensory neuropathy with functional impairment.\n* Participant has ascites and/or pleural effusion that require invasive interventions within 30 days prior to randomization or have an indwelling drainage catheter.\n* Participant has symptomatic pulmonary embolism or pulmonary embolism not being treated with anticoagulation.\n* Participant has a history of interstitial lung disease or pulmonary fibrosis.\n* Participant has uncontrolled seizure disorder or refractory to antiepileptics.\n* Participant has known homozygous uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) polymorphism.\n* Participant has had a myocardial infarction, unstable angina or coronary artery bypass surgery within 6 months prior to randomization or currently has an uncontrolled illness including but not limited to symptomatic congestive heart failure, clinically significant cardiac disease (e.g., cardiomyopathy, infiltrative cardiac disease, etc.), unstable angina pectoris, cardiac arrhythmia, obligate use of a cardiac pacemaker or long QT interval (QT) syndrome.\n* Participant has received any prior systemic therapy for their metastatic PDAC (except with up to 2 doses \\[i.e., 28 days; 1 cycle\\] of mFOLFIRINOX or NALIRIFOX during the screening period. If a participant received \\[neo\\]adjuvant chemotherapy, tumor recurrence or disease progression must have occurred ≥ 6 months after completing the last dose of the \\[neo\\]adjuvant therapy).\n* Participant has had prior treatment with a KRAS G12D-targeted agent.\n* Participant has a corrected QT interval by Fridericia (QTcF) (single electrocardiogram \\[ECG\\]) \\> 470 msec during the screening period.",
   "enrollment": 614,
   "has_results": false,
@@ -162,15 +162,16 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "뇌전이 또는 뇌/신경계 암 증상",
-    "최근 2년 이내 다른 암 병력",
-    "만성 염증성 장질환, 장폐색 또는 심각한 설사",
-    "이전 KRAS G12D 표적 치료력"
+    "뇌척수막 질환 또는 뇌·신경계 전이 증상",
+    "지난 2년 이내 다른 암 치료 병력",
+    "조절되지 않는 심장 질환 또는 심근경색 병력",
+    "만성 염증성 장질환 또는 장폐색",
+    "간질성 폐질환 또는 폐섬유증 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 치료를 받지 않은 KRAS G12D 변이 전이성 췌장암 환자를 위한 시험입니다.",
+   "notes_ko": "이전 전신 치료를 받지 않은 KRAS G12D 변이 전이성 췌장암 환자 (스크리닝 기간 중 mFOLFIRINOX 또는 NALIRIFOX 최대 2회 투여는 허용)",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],

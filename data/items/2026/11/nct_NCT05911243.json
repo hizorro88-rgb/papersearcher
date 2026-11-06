@@ -19,11 +19,11 @@
  "id": "nct:NCT05911243",
  "importance": 0.71,
  "key_points_ko": [
-  "대상 질환은 2-4기 위암, 식도암, 췌장암이며 목표 인원은 3명입니다.",
-  "환자들은 이압 요법 병행 군과 표준 치료 단독 군으로 무작위 배정됩니다.",
-  "이 연구는 식욕 부진과 체중 감소를 해결하기 위한 이압 요법의 타당성을 평가합니다."
+  "목표 인원은 3명이며, 18세에서 65세 사이의 2-4기 위암, 식도암, 췌장암 환자가 대상입니다.",
+  "환자들은 이지압과 표준 치료를 병행하는 군 또는 표준 치료만 받는 군의 2개 군으로 무작위 배정됩니다.",
+  "초록에 명시된 구체적인 유효성 및 생존기간 수치는 없습니다."
  ],
- "last_updated": "2026-11-05",
+ "last_updated": "2026-11-06",
  "links": {
   "doi": null,
   "nct": [
@@ -46,11 +46,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05911243"
  },
- "summary_ko": "이 임상시험은 2-4기 위암, 식도암, 췌장암 환자를 대상으로 이압 요법(auricular acupressure)이 식욕 부진(anorexia)과 체중 감소(cachexia)에 미치는 타당성과 수용성을 평가합니다. 환자들은 이압 요법과 표준 치료를 병행하는 군 또는 표준 치료만 받는 군으로 무작위 배정됩니다. 초록에 따르면 이압 요법은 중추신경계를 자극하여 암 관련 증상과 치료 부작용을 개선하는 비침습적 방법입니다. 본 시험의 목표 인원은 3명이며 현재 상태는 종료(TERMINATED)되었습니다.",
+ "summary_ko": "이 임상시험은 2-4기 위암, 식도암, 췌장암 환자를 대상으로 이지압(auricular acupressure)이 식욕 부진과 체중 감소에 미치는 타당성과 수용성을 평가합니다. 암 관련 식욕 부진은 영양실조, 열량 섭취 감소, 치료 부작용 등으로 인해 체중 감소(악액질)를 유발하며 치료 내성과 삶의 질을 떨어뜨립니다. 이지압은 귀의 특정 부위에 접착식 구슬을 붙여 중추신경계를 자극하는 미세 침술 요법입니다. 연구는 환자들을 이지압과 표준 치료를 병행하는 군과 표준 치료만 받는 군으로 무작위 배정하여 진행합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Feasibility of Auricular Acupressure for Appetite and Weight in Patients With Stage II-IV Gastric, Esophageal, and Pancreatic Cancer",
- "title_ko": "2-4기 위암, 식도암, 췌장암 환자의 식욕과 체중을 위한 이압 요법의 타당성 연구",
+ "title_ko": "2-4기 위암, 식도암, 췌장암 환자의 식욕과 체중을 위한 이지압(auricular acupressure)의 타당성 연구",
  "trial": {
   "conditions": [
    "Clinical Stage II Esophageal Adenocarcinoma AJCC v8",
@@ -67,7 +67,7 @@
    "Stage IV Pancreatic Cancer AJCC v8"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 18세에서 65세 사이의 연령\n- 2기에서 4기의 위암, 식도암, 또는 췌장암 진단\n- 시각적 아날로그 척도(visual analog scale) 기준 식욕 점수 70/100 이하\n- 최소 60일 이상의 전신 치료 계획 (시작되었거나 예정된 경우)\n- 연락 및 설문 조사를 위한 전화 및 전자기기 접근성\n- Fred Hutch South Lake Union 클리닉에서 대면 이압 치료 4회 참석 가능\n- 가정에서의 자가 이압 치료 4회 수행 가능\n- 영어로 된 서면 동의서 작성 가능\n\n제외 기준:\n- 최근 30일 이내 식욕 부진을 위한 지압이나 침 치료를 받은 경우\n- 기저 시점에 식욕 촉진을 위해 코르티코스테로이드, mirtazapine(미르타자핀), olanzapine(올란자핀), Marinol(마리놀)을 적극적으로 사용 중인 경우\n- 기저 시점에 경구 영양 섭취가 불가능하고 정맥 영양(주사 영양)에만 의존하는 경우\n- 최근 3년 이내 생리학적 식이장애(예: 신경성 식욕부진증) 병력이 있는 경우\n- 현재 알려졌거나 진단된 면역결핍증이 있는 경우\n- 귓바퀴(auricular pinna)가 온전하지 않은 경우",
+  "eligibility_ko": "선정 기준: - 18세~65세 연령 - 2기~4기의 위암, 식도암 또는 췌장암 진단 - 시각적 아날로그 척도(visual analog scale) 기준 식욕 점수 70/100 이하 - 향후 최소 60일간의 전신 항암 치료 계획 보유 - 전화 및 전자기기 접근성 보유 - Fred Hutch South Lake Union 클리닉에서 4회의 대면 이지압 치료 참석 가능 - 4회의 가정 자가 이지압 치료 수행 가능 - 영어로 된 서면 동의서 작성 가능  제외 기준: - 최근 30일 이내에 저식욕 치료를 위한 지압 또는 침술을 받은 경험이 있는 경우 - 기저 시점에 식욕 촉진을 위해 코르티코스테로이드, mirtazapine(레메론), olanzapine(자이프렉사), Marinol을 활발히 사용 중인 경우 - 경구로 음식 섭취가 불가능하여 단독 또는 보조 정맥 영양이 필요한 경우 - 최근 3년 이내 생리적 식이장애(예: 신경성 식욕부진증) 병력이 있는 경우 - 현재 알려지거나 진단된 면역결핍이 있는 경우 - 귀바퀴(auricular pinna)가 손상된 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* 18-65 years of age\n* Stage II-IV gastric, esophageal, or pancreatic cancer\n* Appetite score on visual analog scale ≤ 70/100\n* At least 60 days of planned systemic treatment, whether already initiated or scheduled to be initiated\n* Access to phone and electronic device for study contacts and questionnaires\n* Willing and able to attend 4 in-person auricular acupressure treatments at the Fred Hutch South Lake Union Clinic\n* Willing and able to perform 4 at-home self-applied treatments of auricular acupressure\n* Participants must not have received acupressure or acupuncture for low appetite within last 30 days\n* Participants must not be actively using corticosteroids, mirtazapine (Remeron), olanzapine (Zyprexa), or Marinol for appetite stimulation at baseline\n* Participants must be able to intake food orally and not require sole or supplemental intravenous nutrition at baseline\n* Participants must not have a history of physiological eating disorders (e.g., anorexia nervosa) in the last 3 years\n* Participants must not have a current known or diagnosed immunodeficiency\n* Participants must have an intact auricular pinna\n* Able to understand and willing to sign written informed consent in English",
   "enrollment": 3,
   "has_results": true,
@@ -87,19 +87,22 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
+    "최근 30일 이내 저식욕 치료를 위한 지압·침술 경험",
+    "식욕 촉진제(스테로이드, mirtazapine, olanzapine, Marinol 등) 복용 중",
+    "정맥 영양이 필요한 경우",
     "최근 3년 이내 식이장애 병력",
-    "면역결핍증 진단",
-    "귓바퀴 손상"
+    "면역결핍 또는 귀바퀴 손상"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "식욕 부진과 체중 감소가 있는 2-4기 췌장암, 위암, 식도암 환자",
+   "notes_ko": "이전 치료 여부와 무관하게 2-4기 위암, 식도암, 췌장암 환자 중 식욕 부진이 있는 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced"
+    "locally_advanced",
+    "resectable"
    ],
    "source": "llm"
   },

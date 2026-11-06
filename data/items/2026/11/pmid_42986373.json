@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic metastasis from thymic carcinoma is exceedingly rare and difficult to distinguish from primary pancreatic neoplasms based on imaging alone. We report a case of pancreatic and hepatic metastases from thymic carcinoma diagnosed by endoscopic ultrasound-guided tissue acquisition (EUS-TA), which directly influenced therapeutic management. A 74-year-old woman with a history of resected thymic carcinoma and hepatic metastasectomy presented with newly detected pancreatic and hepatic masses. Contrast-enhanced computed tomography and magnetic resonance imaging demonstrated a hypoenhancing pancreatic lesion with heterogeneous enhancement. Although the findings were nonspecific, they were atypical for conventional pancreatic ductal adenocarcinoma because the main pancreatic duct remained patent without upstream dilatation or pancreatic atrophy. EUS-TA using a 22-gauge Franseen needle provided sufficient tissue for histopathological and immunohistochemical evaluation. The pancreatic lesion showed morphological and immunohistochemical concordance with both the previously resected primary thymic carcinoma and hepatic metastasis, confirming metastatic disease. Histological diagnosis established systemic recurrence, avoided unnecessary pancreatic resection, and led to stereotactic body radiation therapy followed by systemic chemotherapy, resulting in tumor regression. This case highlights the pivotal role of EUS-TA in establishing an accurate diagnosis and guiding appropriate therapeutic management.",
+ "authors": [
+  "Maekawa N",
+  "Takahashi K",
+  "Nakao Y",
+  "Fukushima M",
+  "Haraguchi M",
+  "Sasaki R",
+  "Ozawa E",
+  "Miuma S"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42986373",
+ "importance": 0.64,
+ "key_points_ko": [
+  "흉선암의 췌장 전이는 매우 드물며 영상 검사만으로는 원발성 췌장 신생물과 구별하기 어렵습니다.",
+  "내시경 초음파 유도하 조직 채취술(EUS-TA)을 사용하여 조직학적 및 면역화학적 진단을 확정했습니다.",
+  "정확한 진단 덕분에 불필요한 췌장 수술을 피하고 방사선치료와 항암치료를 통해 종양 퇴축을 이끌어냈습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": "10.1007/s12328-026-02476-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42986373"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin J Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42986373/"
+ },
+ "summary_ko": "이 논문은 흉선암(thymic carcinoma)에서 발생한 드문 췌장 전이 사례를 보고합니다. 74세 여성 환자에게서 발견된 췌장 종괴를 내시경 초음파 유도하 조직 채취술(EUS-TA)을 통해 진단했습니다. 조직학적 진단을 통해 불필요한 췌장 절제술을 피하고 정위체부방사선치료(stereotactic body radiation therapy)와 전신 항암화학요법을 시행하여 종양의 크기가 줄어드는 결과를 얻었습니다. 초록에 명시되지 않은 세부 수치는 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic metastasis from thymic carcinoma diagnosed by endoscopic ultrasound-guided tissue acquisition: a case report influencing therapeutic strategy",
+ "title_ko": "내시경 초음파 유도하 조직 채취술로 진단하고 치료 전략에 영향을 미친 흉선암의 췌장 전이: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

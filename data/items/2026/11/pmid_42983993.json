@@ -1,0 +1,59 @@
+{
+ "abstract": "Immunotherapy, particularly immune checkpoint inhibitors (ICI), has revolutionized cancer treatment but remains largely ineffective in pancreatic adenocarcinoma. This resistance is due to the tumor's complex microenvironment and low immunogenicity. ICI have shown benefits only in rare MSI-High or dMMR tumors. Combining ICI with chemotherapy has not significantly improved survival outcomes. Pancreatic adenocarcinoma is considered a \"cold\" tumor with few neoantigens and a dense, immunosuppressive stromal component. Cancer-associated fibroblasts and myeloid cells play a key role in immune escape. Targeting the tumor microenvironment, especially through CD40 activation, has shown promising results. Personalized cancer vaccines targeting specific or shared neoantigens are emerging and show encouraging potential.",
+ "authors": [
+  "Borg C",
+  "Vienot A"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983993",
+ "importance": 0.57,
+ "key_points_ko": [
+  "면역관문억제제는 MSI-H 또는 dMMR 상태의 드문 췌장암 환자에게만 효과를 보였습니다.",
+  "면역항암제와 화학요법의 병용은 생존 기간을 유의미하게 개선하지 못했습니다.",
+  "췌장암은 신항원(neoantigen)이 적고 촘촘한 면역억제성 기질을 가진 '차가운 종양(cold tumor)'입니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983993"
+ },
+ "pub_types": [
+  "Journal Article",
+  "English Abstract",
+  "Review"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983993/"
+ },
+ "summary_ko": "이 논문은 면역관문억제제(ICI)가 췌관선암(pancreatic adenocarcinoma)에서 효과가 없는 이유를 분석한 문헌 고찰입니다. 췌장암은 복잡한 미세환경과 낮은 면역원성으로 인해 면역항암제에 저항성을 보입니다. 현무함수불안정성고(MSI-H) 또는 DNA 불일치 복구 결함(dMMR)이 있는 드문 경우를 제외하고는 면역관문억제제의 혜택이 제한적입니다. 종양 미세환경을 표적화하거나 맞춤형 암 백신을 개발하는 등의 새로운 접근이 연구되고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Why is pancreatic adenocarcinoma resistant to immunotherapy?]",
+ "title_ko": "췌장암은 왜 면역항암제에 내성을 가질까?",
+ "trial": null,
+ "type": "paper"
+}

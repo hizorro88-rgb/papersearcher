@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic cancer is one of the most aggressive cancers, with a 5-year survival rate of 11 to 13%. The rising incidence is such that pancreatic cancer is expected to become the second leading cause of cancer-related death by 2030 in Western countries.The main risk factors for pancreatic cancer are age, tobacco use, obesity, diabetes, genetic predisposition, and chronic pancreatitis. Much of the increase in the incidence of pancreatic cancer remains unexplained but is likely related to environmental factors that have not yet been identified, as well as the increase in the incidence of metabolic syndrome.General population screening is not recommended but should be proposed in cases of familial history of pancreatic cancer, specific genetic mutations, or precancerous lesions such as intraductal papillary mucinous neoplasms (IPMNs), especially if high-risk criteria are present.",
+ "authors": [
+  "Descourvières C",
+  "Rebours V"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-06",
+ "history": [
+  {
+   "date": "2026-11-06",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42983995",
+ "importance": 0.62,
+ "key_points_ko": [
+  "췌장암의 5년 생존율은 11에서 13퍼센트입니다.",
+  "2030년까지 서구 국가에서 암 사망 원인 2위가 될 것으로 예상됩니다.",
+  "일반 인구 대상 선별 검사는 권장되지 않습니다."
+ ],
+ "last_updated": "2026-11-06",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42983995"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Rev Prat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983995/"
+ },
+ "summary_ko": "췌장암은 가장 공격적인 암 중 하나로 5년 생존율은 11에서 13퍼센트입니다. 서구 국가에서는 발생률이 증가하여 2030년까지 암 관련 사망 원인 2위가 될 것으로 예상됩니다. 주요 위험 요인으로는 연령, 흡연, 비만, 당뇨병, 유전적 소인, 만성 췌장염이 있습니다. 일반 인구 대상 선별 검사는 권장되지 않지만 가족력, 유전적 돌연변이, 고위험 기준이 있는 췌관내 유두상 점액성 종양(IPMN) 등의 전암성 병변이 있는 경우 제안되어야 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Increasing incidence of pancreatic adenocarcinoma]",
+ "title_ko": "췌장암 발생률 증가",
+ "trial": null,
+ "type": "paper"
+}
