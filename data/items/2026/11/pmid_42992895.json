@@ -1,0 +1,55 @@
+{
+ "abstract": "Sex differences influence clinical outcome and therapeutic response in pancreatic ductal adenocarcinoma (PDAC), yet the contribution of systemic immune-inflammatory programs remains insufficiently defined. In this study, we characterized sex-associated circulating proteomic signatures, evaluated their prognostic relevance, and assessed their association with macrophage polarization. Olink Explore quantified 1536 proteins in a cohort of 50 PDAC patients (27 women and 23 men). Proteomic differences were explored alongside TCGA-PAAD survival associations and macrophage responses to conditioned supernatants from male- and female-origin PDAC cell lines. Exploratory analysis identified 51 proteins with nominal sex-associated differences (p < 0.05), of which 37 were higher in women and 14 in men. Female-associated proteins were enriched in immune-regulatory and macrophage-associated pathways. Among the PDAC cell lines examined, male-origin supernatants induced M2-like macrophage polarization, whereas female-origin supernatants promoted M1-associated programs. Survival analysis revealed 29 prognostic factors, including 18 sex-specific associations. A female-specific lipid-inflammation module comprising PCSK9, OLR1, IL1RN, and MMP8 was associated with overall survival. Collectively, these findings suggest sex-associated systemic immune-inflammatory profiles link to macrophage responses and prognosis in PDAC, supporting consideration of sex in biomarker development and therapeutic stratification.",
+ "authors": [
+  "Alashkar Alhamwe B",
+  "Preusser C",
+  "Ponath V",
+  "Bhagwat AM",
+  "Graumann J",
+  "Pogge von Strandmann E"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42992895",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1021/acs.jproteome.6c00739",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42992895"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Proteome Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992895/"
+ },
+ "summary_ko": "Sex differences influence clinical outcome and therapeutic response in pancreatic ductal adenocarcinoma (PDAC), yet the contribution of systemic immune-inflammatory programs remains insufficiently defined. In this study, we characterized sex-associated circulating proteomic signatures, evaluated their prognostic relevance, and assessed their association with macrophage polarization.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Exploring Sex-Associated Systemic Inflammatory Profiles Linked to Macrophage Responses and Survival in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

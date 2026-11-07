@@ -1,0 +1,59 @@
+{
+ "abstract": null,
+ "authors": [
+  "Mellenthin C",
+  "Meier CR",
+  "Jick S",
+  "Bühler LH",
+  "Adamina M",
+  "Schneider C"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988428",
+ "importance": 0.67,
+ "key_points_ko": [
+  "신규 당뇨병 환자를 대상으로 한 췌장암 진단 모델 비교 연구입니다.",
+  "구체적인 수치와 연구 결과는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1136/bmjopen-2026-120648",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988428"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMJ Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988428/"
+ },
+ "summary_ko": "본 연구는 영국 인구 집단에서 새로 진단된 당뇨병 환자를 대상으로 췌장암 진단 모델들을 직접 비교했습니다. 구체적인 연구 내용 및 결과 수치는 초록에 명시되지 않았습니다. 추가적인 결론은 확인되지 않습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Direct comparison of diagnostic models for pancreatic cancer in patients with new-onset diabetes in the British population",
+ "title_ko": "영국 인구 집단의 신규 당뇨병 환자에서 췌장암 진단 모델의 직접 비교",
+ "trial": null,
+ "type": "paper"
+}

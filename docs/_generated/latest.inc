@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,051</b><span>누적 수집<br><small>논문·소식 516 · 임상시험 535</small></span></div><div class="ps-stat"><b>+26</b><span>오늘 신규<br><small>갱신 38건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,075</b><span>누적 수집<br><small>논문·소식 537 · 임상시험 538</small></span></div><div class="ps-stat"><b>+24</b><span>오늘 신규<br><small>갱신 45건</small></span></div><div class="ps-stat"><b>29</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-06](_generated/daily/2026/11/06.md)
+최근 수집일: [2026-11-07](_generated/daily/2026/11/07.md)
 
 <a id="nct-nct07409272"></a>
 #### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
@@ -19,52 +19,21 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
 
 ---
-<a id="nct-nct06608927"></a>
-#### [전이성 췌관선암 환자에서 켐리클루스타트(quemliclustat) 및 항암화학요법 대 위약 및 항암화학요법을 비교하는 임상시험](https://clinicaltrials.gov/study/NCT06608927)
-<small>Study of Quemliclustat and Chemotherapy Versus Placebo and Chemotherapy in Patients With Metastatic Pancreatic Ductal Adenocarcinoma</small>
+<a id="nct-nct07565155"></a>
+#### [상동 재조합 결함(HRD)이 있는 췌장암 환자를 대상으로 한 Lorigerlimab(로리겔리맙, MGD019) 2상 임상시험](https://clinicaltrials.gov/study/NCT07565155)
+<small>Lorigerlimab (MGD019) in Patients With Pancreatic Adenocarcinoma and Homologous Recombination Deficiency</small>
 
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-09-23 · ClinicalTrials.gov · Arcus Biosciences, Inc. · 중요도 1.00
+`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-05-04 · ClinicalTrials.gov · Peter Hosein, MD · 중요도 1.00
 
-**NCT06608927** · 3상 · 진행 중(모집 종료) · 국내 3곳 · [참여 조건·기관 보기](_generated/trials/NCT06608927.md)
+**NCT07565155** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07565155.md)
 
-이 연구는 전이성 췌관선암(PDAC) 환자를 대상으로 켐리클루스타트, nab-paclitaxel(나브-파클리탁셀), gemcitabine(젬시타빈) 병용 요법과 위약, nab-paclitaxel, gemcitabine 병용 요법의 전체생존기간(OS)을 비교하는 3상 임상시험입니다. 전이성 단계에서 이전에 치료받은 적이 없는 환자 610명을 목표로 진행합니다. 국내 3개 기관이 참여합니다.
+본 임상시험은 상동 재조합 결함(HRD)을 동반한 췌장선암(PDAC) 환자에서 Lorigerlimab(로리겔리맙)의 유효성과 안전성을 평가하기 위해 진행됩니다. 백금(platinum) 기반 항암화학요법 치료 후 질병이 진행된 전이성 췌장암 환자를 대상으로 합니다. BRCA1, BRCA2, PALB2 등의 생식세포 유전자 변이가 있는 18세 이상 환자 총 40명을 모집합니다.
 
-- 목표 환자 수는 610명이며 국내 3개 기관이 참여합니다.
-- 시험 치료군은 켐리클루스타트, nab-paclitaxel, gemcitabine 병용 요법입니다.
-- 대조군은 위약, nab-paclitaxel, gemcitabine 병용 요법입니다.
+- 백금 기반 항암제 치료 이력이 있는 HRD 양성 전이성 췌장암 환자 40명을 대상으로 하는 2상 임상시험입니다.
+- BRCA1, BRCA2, PALB2, RAD51C, RAD51D 생식세포 변이(germline mutation)가 확인된 환자가 대상입니다.
+- 이전에 면역항암제(PD-1/PD-L1 또는 CTLA-4 억제제) 치료를 받은 이력이 없어야 합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06608927) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06608927)</small>
-
----
-<a id="pmid-42956271"></a>
-#### [국소 진행성 또는 전이성 췌관선암에서 KRAS 표적 치료의 유효성 및 안전성: 최신 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42956271/)
-<small>Efficacy and Safety of KRAS-Targeted Therapy in Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma: An Updated Systematic Review and Meta-Analysis of Pooled Proportions</small>
-
-`논문` `메타분석` `신약·치료제` `치료 전반` `제약사·규제` · 2026-10-20 · PubMed · Am J Clin Oncol · 중요도 0.88
-
-국소 진행성 또는 전이성 췌관선암 환자를 대상으로 KRAS 표적 치료제의 치료 반응과 안전성을 평가한 체계적 문헌고찰 및 메타분석 연구입니다. 총 7건의 임상시험에서 1,008명의 환자 데이터가 분석에 포함되었습니다. 전체 객관적 반응률(ORR)은 38.9%, 질병 조절률(DCR)은 87.6%로 집계되었습니다. 특히 단독요법보다 병용요법에서, 그리고 이전 치료 차수가 적을수록 더 높은 반응률을 보였습니다.
-
-- KRAS 표적 치료의 전체 객관적 반응률(ORR)은 38.9%였으며 병용요법에서 60.5%, G12D 선택적 억제제에서 31.0%를 나타냈습니다.
-- 반응률은 이전 치료 경험이 없는 환자(72.5%)에서 3차 이상 치료 환자(32.5%)로 진행될수록 감소했습니다.
-- 3상 임상시험인 RASolute 302에서 daraxonrasib(다락소나십)은 화학요법 대비 전체 생존기간(OS) 중앙값을 13.2개월 대 6.6개월로 약 2배 연장했습니다.
-- 전체 환자군에서 3등급 이상의 치료 관련 부작용은 47.3%에서 발생했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956271/) · [DOI](https://doi.org/10.1097/COC.0000000000001387) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956271)</small>
-
----
-<a id="pmid-42951709"></a>
-#### [1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험](https://pubmed.ncbi.nlm.nih.gov/42951709/)
-<small>Optimizing first-line NALIRIFOX and exploring the role of the microbiota in second-line pancreatic cancer treatment: the PRODIGE 105-GERCOR 116 PANORAMIX trial</small>
-
-`논문` `2상` `임상시험` `신약·치료제` `치료 전반` · 2026-10-28 · PubMed · Dig Liver Dis · 중요도 0.86
-
-전이성 췌관선암(mPDAC) 환자를 대상으로 1차 NALIRIFOX 요법 후 독성을 줄이기 위한 유지요법과 2차 치료 시 항생제를 통한 효과 증대를 검증하는 임상 2상 프로토콜입니다. 환자들은 NALIRIFOX 8주기 투여 후 5-FU(플루오로우라실) 유지요법군과 NALIRIFOX 지속군으로 배정됩니다. 질병 진행 후 2차 젬시타빈 치료 단계에서는 종양 내 세균의 약물 비활성화를 억제하기 위해 ciprofloxacin(시프로플록사신) 또는 위약을 병용합니다. 프랑스 18개 기관에서 1단계 108명, 2단계 92명의 환자를 대상으로 진행됩니다.
-
-- NALIRIFOX 8주기 후 5-FU 유지요법 또는 NALIRIFOX 지속군으로 2:1 무작위 배정하여 6개월 무진행 생존기간(PFS)을 평가합니다.
-- 2차 치료에서 젬시타빈 기반 항암요법에 ciprofloxacin 또는 위약을 1:1로 병용 투여하여 6개월 전체 생존기간(OS)을 평가합니다.
-- 1단계에는 108명, 2단계에는 92명의 전이성 췌장암 환자가 등록될 예정입니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42951709/) · [DOI](https://doi.org/10.1016/j.dld.2026.10.006) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42951709)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07565155) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07565155)</small>
 
 ---
 <a id="pmid-42971953"></a>
@@ -81,5 +50,35 @@
 - 4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13728121/) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
+
+---
+<a id="pmid-42970668"></a>
+#### [경계성 수술 가능 및 국소 진행성 췌장암 환자를 위한 면역항암화학요법: 무작위 대조 임상시험](https://pubmed.ncbi.nlm.nih.gov/42970668/)
+<small>Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial</small>
+
+`논문` `2상` `신약·치료제` `치료 전반` `임상시험` `수술` · 2026-11-02 · PubMed · J Clin Oncol · 중요도 0.84
+
+경계성 수술 가능 췌장암(BRPC) 및 국소 진행성 췌장암(LAPC) 환자 392명을 대상으로 변형 FOLFIRINOX(mFOLFIRINOX) 항암요법에 toripalimab(토리팔리맙) 면역항암제를 추가한 효과를 평가한 무작위 2상 임상시험 연구입니다. 연구 결과, toripalimab을 병용 투여한 군이 항암화학요법 단독군에 비해 사건 무생존기간(EFS)을 유의하게 개선했습니다. 부작용 및 수술 합병증은 두 군 간에 유사했습니다. 하위 그룹 분석에서는 국소 진행성 췌장암보다 경계성 수술 가능 췌장암 환자에서 생존율 개선 이점이 크게 나타났습니다.
+
+- toripalimab 병용군은 항암화학요법 단독군에 비해 사건 무생존기간(EFS) 중앙값을 11.1개월 대 9.6개월로 유의하게 연장했습니다(위험비 0.74, P=0.007).
+- 객관적 반응률(ORR)은 toripalimab 병용군이 30.1%, 단독군이 18.9%였으며, 완전 절제율(R0 절제율)은 각각 84.1%와 74.7%였습니다.
+- 3등급 이상의 이상반응 발생률은 toripalimab 병용군 47.9%, 단독군 49.2%로 독성 증가 없이 치료가 진행되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970668/) · [DOI](https://doi.org/10.1200/JCO-26-01393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970668)</small>
+
+---
+<a id="pmid-42958223"></a>
+#### [췌십이지장절제술을 위한 예방적 항생제: 타조박탐/피페라실린과 암피실린/설박탐을 비교하는 다기관 무작위 배정 임상시험 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42958223/)
+<small>Prophylactic antibiotics for pancreaticoduodenectomy: study protocol for a multicenter randomized controlled trial comparing tazobactam/piperacillin versus ampicillin/sulbactam</small>
+
+`논문` `무작위` `수술` `지지요법·삶의질` `임상시험` · 2026-08-01 · PubMed · BMC Surg · 중요도 0.80
+
+췌십이지장절제술(PD) 후 흔히 발생하는 수술 부위 감염(SSI)을 예방하기 위해 두 가지 예방적 항생제를 비교하는 다기관 무작위 배정 임상시험의 연구 계획서입니다. 췌십이지장절제술을 받는 환자 320명을 대상으로 타조박탐/피페라실린(TAZ/PIPC) 또는 암피실린/설박탐(ABPC/SBT)을 투여하도록 배정합니다. 수술 후 30일 이내에 발생하는 수술 부위 감염 발생률의 차이를 확인하여 최적의 예방적 항생제 요법을 규명하고자 합니다.
+
+- 췌십이지장절제술을 받는 환자 총 320명을 대상으로 TAZ/PIPC와 ABPC/SBT를 1:1로 비교합니다.
+- 일차 평가변수는 미국 질병통제예방센터(CDC) 기준에 따른 수술 후 30일 이내 수술 부위 감염(SSI) 발생률입니다.
+- 수술 전 담즙 배액술 여부, 최소 침습 수술 여부, 췌관선암(PDAC) 여부에 따라 층화 무작위 배정이 이루어집니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958223/) · [DOI](https://doi.org/10.1186/s12893-026-04092-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13717995/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958223)</small>
 
 ---

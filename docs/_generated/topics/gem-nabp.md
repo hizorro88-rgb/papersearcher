@@ -28,9 +28,9 @@ search:
 | [국소 진행성 또는 전이성 췌장암의 1차 치료로서 대변 미생물 이식(FMT) 및 SHR-1701과 냅-파클리탁셀/젬시타빈 병용…](../trials/NCT07845565.md) | 2상 | 모집 예정 | - |
 | [췌장암에 대한 알부민 결합 파클리탁셀 기반 병용 요법 임상시험](../trials/NCT07828756.md) | 2상 | 모집 예정 | - |
 | [수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Ge…](../trials/NCT07814859.md) | 2상 | 모집 예정 | - |
-| [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib 및 daraxonrasib 병용요법과 젬시타빈/납-…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 예정 | - |
-| [진행성 췌장암 환자를 위한 GKL-006 주사제 연구](../trials/NCT07777211.md) | 1상/2상 | 모집 중 | - |
+| [진행성 췌장암 환자를 대상으로 하는 GKL-006 주사제에 대한 연구](../trials/NCT07777211.md) | 1상/2상 | 모집 중 | - |
 | [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여를 평가하는 임상시험](../trials/NCT07769502.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 수술 가능 췌관선암 환자를 위한 SMAD4 변이 기반 맞춤형 선행 화학요법 2상 임상시험 (SMART-…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자의 수술 전 치료 반응 평가를 위한 동적 조영증강 자기공명영상(DCE-MRI) 연구](../trials/NCT07705919.md) | 1상/2상 | 모집 중 | - |
@@ -39,11 +39,11 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
-| [KRAS G12D 변이 전이성 췌관선암 환자의 1차 치료로서 Zoldonrasib과 연구자 선택 항암화학요법 병용투여 대 위…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 졸돈라시브(zoldonrasib)와 항암화학요법 병용요법에 대한 3상 임…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
 | [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌장암 환자의 1차 치료로서 Atebimetinib + GnP 병용 요법 평가](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
+| [전이성 췌장암 환자에서 1차 치료로서 Atebimetinib과 GnP 병용 요법 평가](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 용량 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
@@ -56,8 +56,8 @@ search:
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용 투여 임상시험](../trials/NCT07259317.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료로서 리포조말 이리노테칸(irinotecan hydrochloride liposome injectio…](../trials/NCT07238283.md) | 3상 | 모집 중 | - |
+| [국소 진행성 또는 전이성 췌장관선암(PDAC) 1차 치료 후 MR001과 화학요법 병용 임상시험](../trials/NCT07235202.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암에서 serplulimab과 bevacizumab을 잰 복합 순차적 AG 및 mFOLFOX 요법 대 AG 단독…](../trials/NCT07235930.md) | 3상 | 모집 중 | - |
-| [국소 진행성 또는 전이성 췌장관선암(PDAC) 1차 치료 후 MR001과 항암화학요법 병용 임상시험](../trials/NCT07235202.md) | 1상/2상 | 모집 중 | - |
 | [진행성 고형암 환자를 대상으로 BMS-986523 단독 요법 및 항암제 병용 요법의 안전성, 내인성, 유효성을 평가하는 임상…](../trials/NCT07223047.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 1차 치료로서 NALIRIFOX와 GnP의 월별 교대 투여](../trials/NCT07163273.md) | 2상 | 모집 중 | - |
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
@@ -108,7 +108,7 @@ search:
 | [수술 가능 및 경계성 절제 가능 췌장암 대상 신틸리맙, 냅-파클리탁셀, 젬시타빈 선행·보조 요법 2상 임상시험](../trials/NCT05562297.md) | 2상 | 모집 예정 | - |
 | [진행성 췌장암 환자를 대상으로 젬시타빈, 냅-파클리탁셀 및 IM156 병용요법을 평가하는 1b상 임상시험](../trials/NCT05497778.md) | 1상 | 진행 중(모집 종료) | - |
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
-| [진행성 간췌담도암 환자를 위한 Durvalumab, Tremelimumab, Propranolol 및 항암화학요법 병용 2상…](../trials/NCT05451043.md) | 2상 | 진행 중(모집 종료) | - |
+| [진행성 간췌담도암 환자를 위한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상…](../trials/NCT05451043.md) | 2상 | 진행 중(모집 종료) | - |
 | [췌장암에 대한 선행항암치료(Neoadjuvant Chemotherapy) 후 GS 요법 및 GnP 요법 비교](../trials/NCT05268692.md) | 2상/3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 SBP-101과 Nab-Paclitaxel 및 Gemcitabine 병용요법의 효과를 평가하는 임상시험](../trials/NCT05254171.md) | 2상/3상 | 모집 중 | 6 |
 | [췌장선암에서 젬시타빈 및 냅-파클리탁셀과 베탄에콜 병용 요법에 대한 연구](../trials/NCT05241249.md) | 2상 | 모집 중 | - |
@@ -117,13 +117,13 @@ search:
 | [수술 가능한 췌장암 환자 대상 젬시타빈, 냅파클리탁셀, 더발루맙 및 올레클루맙 수술 전 선행요법 2상 임상시험](../trials/NCT04940286.md) | 2상 | 진행 중(모집 종료) | - |
 | [췌장선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법 2상 임상시험](../trials/NCT04926467.md) | 2상 | 모집 중 | - |
 | [복막 전이가 동반된 췌장암 치료를 위한 온열 복강 내 항암화학요법(HIPEC) 2상 임상시험](../trials/NCT04858009.md) | 2상 | 진행 중(모집 종료) | - |
-| [전이성 췌관선암 환자에서 다제 저용량 화학요법(GAX-CI) 후 올라파립(olaparib) 및 펨브롤리주맙(pembroliz…](../trials/NCT04753879.md) | 2상 | 완료 | - |
+| [전이성 췌장관선암에서 다제 저용량 항암화학요법 GAX-CI 후 olaparib 및 pembrolizumab 유지 치료](../trials/NCT04753879.md) | 2상 | 완료 | - |
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, P…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 zolbetuximab 병용요법의 유효성 및 안전성을 평가하는 2상 임상시험](../trials/NCT03816163.md) | 2상 | 진행 중(모집 종료) | 10 |
-| [진행성 췌장관선암 환자를 대상으로 한 젬시타빈, 냅-파클리탁셀, PEGPH20 및 리바록사반 병용 연구](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
+| [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
 ## 타임라인 (18)
@@ -150,7 +150,7 @@ search:
 
 BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis despite curative-intent resection and adjuvant therapy. Gemcitabine plus nab-paclitaxel (Gem-NAP) has become a standard adjuvant regimen for PDAC, yet recurrence rates remain high.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42984377/) · [DOI](https://doi.org/10.1002/cam4.72491) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42984377)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42984377/) · [DOI](https://doi.org/10.1002/cam4.72491) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13735890/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42984377)</small>
 
 ---
 <a id="pmid-42962507"></a>

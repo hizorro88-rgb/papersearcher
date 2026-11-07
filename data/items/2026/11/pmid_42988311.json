@@ -1,0 +1,63 @@
+{
+ "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) has emerged as a novel risk factor for pancreatic cancer, particularly early liver metastasis. However, the underlying mechanisms and effective therapeutic strategies remain largely unclear. Here, based on clinical databases, patient tissue samples, and single-cell sequencing of mouse models, we identified CD44 as a key contributor to MAFLD-associated pancreatic cancer progression. High CD44 expression was significantly associated with poor survival in patients with pancreatic cancer and was further elevated in MAFLD-associated liver metastatic lesions. Considering that the limited effects of single treatment, we developed a cationic DOTAP/cholesterol liposomal nanoplatform co-loaded with gemcitabine, IR780, and CD44 siRNA (GIR@Lip) for combined chemotherapy, photothermal therapy, and immunotherapy. GIR@Lip nanoparticles exhibited excellent size uniformity, stability, and photothermal conversion efficiency, which could efficiently inhibit KPC cells' viability, migration and invasion, downregulate CD44 expression and stimulate immune response. Furthermore, GIR@Lip efficiently accumulated in tumor tissues in vivo, exhibiting a significant reduction in liver metastatic lesions and remodeling the M1 type tumor associated macrophages (TAMs), CD4+ and CD8+ T cells. Collectively, these findings identify CD44 as a potential therapeutic target for MAFLD-associated pancreatic cancer liver metastasis and highlight GIR@Lip as a promising multimodal strategy for its treatment.",
+ "authors": [
+  "Fu S",
+  "Shan S",
+  "Shi X",
+  "Wang W",
+  "Wang H",
+  "Guo S",
+  "Zhao C",
+  "Zhang T"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988311",
+ "importance": 0.61,
+ "key_points_ko": [
+  "CD44의 높은 발현이 MAFLD 연관 췌장암 환자의 열악한 생존율 및 간전이 병변 증가와 관련됨을 확인했습니다.",
+  "gemcitabine, IR780, CD44 siRNA를 결합한 나노입자 GIR@Lip을 통해 화학·광열·면역 다중 병용 치료 가능성을 제시했습니다.",
+  "동물 실험에서 GIR@Lip은 종양 조직에 효율적으로 축적되어 간전이 병변을 줄이고 T 세포 및 M1 대식세포 중심의 면역 반응을 유도했습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218954",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988311"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988311/"
+ },
+ "summary_ko": "본 연구는 대사 이상 지방간 질환(MAFLD)과 연관된 췌장암 간전이에서 CD44 분자의 역할을 규명하고 이를 표적으로 하는 새로운 치료법을 평가했습니다. 연구진은 gemcitabine(젬시타빈), 광열 치료제 IR780, CD44 siRNA를 함께 담은 리포솜 나노플랫폼(GIR@Lip)을 개발했습니다. 마우스 모델 및 세포 실험에서 GIR@Lip은 암세포 억제, CD44 발현 감소, 면역 반응 활성화를 유도하고 간전이 병변을 현저히 감소시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A CD44-regulating Multimodal Therapeutic Strategy for MAFLD-Associated Pancreatic Cancer Liver Metastasis",
+ "title_ko": "대사 이상 지방간 질환 연관 췌장암 간전이에 대한 CD44 조절 다중모달 치료 전략",
+ "trial": null,
+ "type": "paper"
+}

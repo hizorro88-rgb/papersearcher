@@ -20,14 +20,14 @@
   }
  ],
  "id": "nct:NCT07235202",
- "importance": 0.8,
+ "importance": 0.9,
  "key_points_ko": [
-  "대상 질환: 국소 진행성 또는 전이성 췌장관선암(PDAC)",
-  "연구 단계: 제1b/2a상(Phase Ib/IIa)",
-  "중재 치료: MR001과 Irinotecan Liposome Injection combined with 5-FU/LV, Nab-paclitaxel, Gemcitabine(GEM) 병용",
-  "목표 인원: 45명"
+  "연구 대상: 1차 전신 항암 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자입니다.",
+  "평가 항목: MR001과 화학요법(Irinotecan Liposome Injection combined with 5-FU/LV, Nab-paclitaxel, Gemcitabine) 병용의 안전성, 내인성, 약동학, 예비 유효성입니다.",
+  "연구 단계: 임상 1b/2a상(Phase Ib/IIa)입니다.",
+  "목표 환자 수: 45명입니다."
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-11-07",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07235202"
  },
- "summary_ko": "이 연구는 1차 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자를 대상으로 MR001과 표준 항암화학요법의 병용 투여에 대한 안전성, 내약성, 약동학 및 예비 유효성을 평가하는 제1b/2a상 임상시험입니다. 공개, 용량 증량 및 용량 확장 연구로 진행됩니다. 대상 질환은 췌장관선암(PDAC)이며 목표 인원은 45명입니다. 초록에 명시되지 않음.",
+ "summary_ko": "이 임상 1b/2a상 연구는 1차 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자를 대상으로 MR001과 표준 화학요법 병용투여의 안전성, 내인성, 약동학 및 예비 유효성을 평가합니다. 공개형, 용량 증량 및 용량 확장 연구로 진행됩니다. 대상 질환은 췌장관선암(PDAC)이며 총 45명의 환자를 목표로 합니다.",
  "summary_source": "llm",
  "tags": [
   "MR001",
@@ -59,7 +59,7 @@
   "TGF-β1"
  ],
  "title": "A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC) After First-line Therapy",
- "title_ko": "국소 진행성 또는 전이성 췌장관선암(PDAC) 1차 치료 후 MR001과 항암화학요법 병용 임상시험",
+ "title_ko": "국소 진행성 또는 전이성 췌장관선암(PDAC) 1차 치료 후 MR001과 화학요법 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -71,7 +71,7 @@
     "phone": "+86 13332895357"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 PDAC이며 단 한 번의 이전 전신 항암 치료 후에 진행된 경우\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 경우\n- ECOG 수행능력(ECOG Performance Status) 0-1\n- 기대 여명 3개월 초과\n- 실험실 검사 기준에 따른 적절한 장기 및 골수 기능\n- 자발적으로 동의서에 서명한 경우\n\n제외 기준:\n- MR001 또는 유사한 단클론항체에 알려진 과민성이 있는 경우\n- 첫 투여 전 14일 이내에 전신 면역억제 치료가 필요한 경우\n- 조절되지 않는 활동성 감염 또는 동반 악성 종양\n- 적절히 조절되지 않는 활동성 뇌전이 또는 연수막 전이\n- 임상적으로 유의한 심혈관, 신장 또는 간 질환\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로나 세포학적으로 확진된 국소 진행성 또는 전이성 PDAC로, 단 한 가지 이전 전신 치료 후에만 진행된 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상인 환자\n- ECOG 수행능력 0-1인 환자\n- 기대 여명이 3개월 초과인 환자\n- 실험실 검사 기준에 따른 적절한 장기 및 골수 기능이 있는 환자\n- 자발적으로 동의서에 서명한 환자\n\n제외 기준:\n- MR001 또는 유사한 단일클론항체에 알려진 과민성이 있는 환자\n- 첫 투여 전 14일 이내에 전신 면역억제 치료가 필요한 환자\n- 조절되지 않는 활동성 감염 또는 동시성 악성 종양 환자\n- 적절히 조절되지 않는 활동성 뇌전이 또는 연수막 전이가 있는 환자\n- 임상적으로 유의한 심혈관, 신장 또는 간 질환이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced or metastatic PDAC, progressed after only one prior line of systemic therapy.\n* At least one measurable lesion per RECIST v1.1.\n* ECOG Performance Status of 0-1.\n* Life expectancy \\>3 months.\n* Adequate organ and marrow function as defined by laboratory parameters.\n* Voluntarily sign the informed consent form.\n\nExclusion Criteria:\n\n* Known hypersensitivity to MR001 or similar monoclonal antibodies.\n* Requirement for systemic immunosuppressive therapy within 14 days before first dosing.\n* Uncontrolled active infections or concurrent malignancies.\n* Not adequately controlled active brain metastases or leptomeningeal metastasis.\n* Clinically significant cardiovascular, renal, or hepatic disorders.\n* Pregnant or breastfeeding women.\n* Any other circumstances which the investigator considers may increase risks to subjects or interfere with the results of the trial.",
   "enrollment": 45,
   "has_results": false,
@@ -81,7 +81,7 @@
    "Nab-paclitaxel",
    "Gemcitabine (GEM)"
   ],
-  "last_update_posted": "2026-05-26",
+  "last_update_posted": "2026-11-06",
   "location_countries": [
    "China"
   ],
@@ -91,15 +91,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "조절되지 않는 활동성 감염 또는 동반 악성 종양",
     "조절되지 않는 활동성 뇌전이 또는 연수막 전이",
-    "임상적으로 유의한 심혈관, 신장 또는 간 질환",
-    "임신 또는 수유 중인 여성"
+    "조절되지 않는 활동성 감염 또는 다른 암 병력",
+    "임상적으로 유의한 심혈관, 신장, 간 질환",
+    "임신 또는 모유 수유 중인 여성"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 1차 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암 환자",
+   "notes_ko": "이전 치료 1가지만 받은 국소 진행성 또는 전이성 췌장관선암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
@@ -110,7 +110,7 @@
   },
   "max_age": "75 Years",
   "min_age": "18 Years",
-  "n_locations": 4,
+  "n_locations": 18,
   "nct_id": "NCT07235202",
   "phase": "PHASE1/PHASE2",
   "primary_completion_date": "2028-06-22",

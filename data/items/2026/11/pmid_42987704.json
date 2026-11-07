@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Surgery is the primary treatment for pancreatic cancer in younger populations, though few studies have compared different surgical approaches in these populations. We compared survival outcomes between enucleation and anatomical resection with negative margins for pediatric and young adult patients with pancreatic tumors using the Surveillance, Epidemiology, and End Results (SEER) Program database.\nMETHODS: Surgical patients aged 0-39 with malignant pancreatic tumors diagnosed between 2004 and 2022 were identified from Surveillance, Epidemiology, and End Results 21. Only histologic subtypes that were managed with enucleation or anatomical resection were included (adenocarcinomas were excluded as they were only treated with resection). Overall survival was assessed using Kaplan-Meier methods and Cox proportional hazard ratios (HRs) with L2 regularization. Univariate and multivariate analyses identified factors associated with mortality risk.\nRESULTS: In total, 1619 patients (median age 30 y; interquartile range 22-35) were analyzed. On univariate cox analysis and Kaplan-Meier methods, enucleation was associated with lower mortality risk than anatomical resection. On multivariate analysis, solid pseudopapillary tumors (HR 0.68, 95% confidence interval [CI] 0.52-0.88) and patients undergoing enucleation (HR 0.65, 95% CI 0.40-1.06) were associated with a trend toward lower mortality risk. Adjuvant chemotherapy (HR 3.80, 95% CI 2.68-5.40) and neuroendocrine carcinoma histology (HR 1.89, 95% CI 1.44-2.49) were associated with increased mortality risk. Sex, race, and age were not significantly associated with survival.\nCONCLUSIONS: Among children, adolescents, and young adults with pancreatic tumors, enucleation was associated with comparable or improved survival relative to anatomical resection in low-grade malignancies. When oncologically appropriate, enucleation may be considered in certain patients.",
+ "authors": [
+  "Lee A",
+  "Perrier A",
+  "Dunker A",
+  "Malik N",
+  "Ikoma N",
+  "Tsao K",
+  "Austin M"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42987704",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1016/j.jss.2026.10.022",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42987704"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42987704/"
+ },
+ "summary_ko": "INTRODUCTION: Surgery is the primary treatment for pancreatic cancer in younger populations, though few studies have compared different surgical approaches in these populations. We compared survival outcomes between enucleation and anatomical resection with negative margins for pediatric and young adult patients with pancreatic tumors using the Surveillance, Epidemiology, and End Results (SEER) Program database.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Enucleation Versus Anatomical Resection of Malignant Pancreatic Tumors in Children and Young Adults",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

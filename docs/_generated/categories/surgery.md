@@ -16,61 +16,207 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 276건 · 최근 30일 159건
+전체 280건 · 최근 30일 166건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07777211"></a>
-#### [진행성 췌장암 환자를 위한 GKL-006 주사제 연구](https://clinicaltrials.gov/study/NCT07777211)
+#### [진행성 췌장암 환자를 대상으로 하는 GKL-006 주사제에 대한 연구](https://clinicaltrials.gov/study/NCT07777211)
 <small>A Study of GKL-006 Injection in Patients With Advanced Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-08-20 · ClinicalTrials.gov · Beijing Gene Key Life Technology Co., Ltd · 중요도 1.00
 
 **NCT07777211** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07777211.md)
 
-이 연구는 췌장관선암(ductal adenocarcinoma of pancreas) 환자를 대상으로 GKL-006 주사제의 안전성, 내인성, 유효성을 평가하기 위한 1상 및 2a상 다기관 임상시험입니다. 환자들에게 GKL-006 주사제를 nab-paclitaxel 및 gemcitabine과 병용하여 투여합니다. 1상에서는 주로 내안성과 안전성을 평가하며, 2상에서는 주로 유효성을 평가합니다. 목표 인원은 52명이며 연령은 18세에서 75세 사이입니다.
+이 임상시험은 진행성 췌장암 및 췌장 췌관선암(ductal adenocarcinoma of pancreas) 환자를 대상으로 GKL-006 주사제의 안전성, 내인성, 유효성을 평가하기 위한 다기관 1상/2a상 연구입니다. 1상은 주로 내인성과 안전성을 평가하며, 2상은 유효성을 중심적으로 평가합니다. GKL-006 주사제는 nab-paclitaxel(나브파클리탁셀) 및 gemcitabine(젬시타빈)과의 병용 요법으로 평가됩니다. 총 목표 환자 수는 52명입니다.
 
-- 목표 인원은 총 52명입니다.
-- 참여 연령은 18세부터 75세까지입니다.
-- 국내 기관 수는 초록에 명시되지 않음.
+- 목표 인원은 52명입니다.
+- 18세에서 75세 사이의 진행성 췌장암 환자가 대상입니다.
+- GKL-006 주사제와 nab-paclitaxel 및 gemcitabine의 병용 투여를 평가합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07777211) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07777211)</small>
 
 ---
+<a id="nct-nct06807437"></a>
+#### [수술 전 란레오티드 대 위약: 췌장 절제술 후 췌장 누출 예방을 위한 3상 임상시험](https://clinicaltrials.gov/study/NCT06807437)
+<small>Lanreotide Versus Placebo Before Surgery to Prevent a Surgical Complication Called a Pancreatic Fistula</small>
+
+`임상시험` `3상` `신약·치료제` `수술` `치료 전반` · 2025-02-04 · ClinicalTrials.gov · SWOG Cancer Research Network · 중요도 0.99
+
+**NCT06807437** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06807437.md)
+
+이 3상 임상시험은 췌장암 또는 악성 잠재력이 있는 췌장 병변이 있는 환자를 대상으로 수술 전 란레오티드(lanreotide) 투여가 수술 후 췌장 누출(pancreatic fistula)을 예방하는 효과를 수술 단독과 비교합니다. 대상 환자들은 원위 췌장절제술(distal pancreatectomy)을 앞두고 있으며, 수술 전 36시간 이내에 란레오티드 또는 생리식염수 위약을 피하 주사로 투여받습니다. 주요 연구 목적은 수술 후 60일 이내에 발생하는 수술 후 췌장 누출(POPF) 발생률을 비교하는 것입니다. 또한 삶의 질 변화, 입원 일수, 보조 항암치료 시작까지의 시간 등을 부차적으로 평가합니다.
+
+- 목표 환자 수는 총 274명이며 3상 임상시험으로 진행됩니다.
+- 수술 전 란레오티드 투여가 수술 후 60일 이내의 췌장 누출(POPF) 발생률을 낮추는지 평가합니다.
+- 부차적으로 수술 후 입원 일수, 삶의 질(EORTC QLQ-C30, PAN26 등), 보조 항암치료 시작 시기를 비교합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06807437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06807437)</small>
+
+---
 <a id="nct-nct04858334"></a>
-#### [수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 변이 환자에서 올라파립 대 위약을 비교하는 무작위 2상 이중맹검 연구 (APOLLO)](https://clinicaltrials.gov/study/NCT04858334)
+#### [APOLLO: 수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자를 대상으로 올파라립(olaparib)과 위약을 비교하는 무작위 2상 이중맹검 연구](https://clinicaltrials.gov/study/NCT04858334)
 <small>APOLLO: A Randomized Phase II Double-Blind Study of Olaparib Versus Placebo Following Curative Intent Therapy in Patients With Resected Pancreatic Cancer and a Pathogenic BRCA1, BRCA2 or PALB2 Mutation</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
 
 **NCT04858334** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04858334.md)
 
-이 2상 임상시험은 수술로 췌장암을 제거하고 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 수술 및 항암화학요법 완료 후 유지 치료로서 올라파립(olaparib)의 효과를 평가합니다. 올라파립(olaparib)은 PARP 효소를 억제하여 종양 세포의 DNA 손상 복구를 막고 사멸을 유도하는 표적치료제입니다. 환자들은 무작위로 나뉘어 올라파립 또는 위약(placebo)을 경구 투여받으며, 무재발 생존기간(RFS)과 전체 생존기간(OS) 등을 비교합니다.
+이 2상 임상시험은 수술로 췌장암을 제거하고 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 수술 및 항암화학요법 완료 후 유지 치료로서 olaparib(올파라립) 투여의 효과를 평가합니다. 환자들은 무작위로 12주기의 olaparib 또는 위약(placebo)을 경구 투여받는 그룹으로 배정됩니다. 주요 목적으로는 무재발 생존기간(RFS)의 개선 여부를 확인하며, 전체 생존기간(OS) 등을 부차적으로 평가합니다.
 
 - 목표 환자 수는 총 152명입니다.
-- 1차 평가지표는 올라파립 추가에 따른 무재발 생존기간(RFS) 혜택을 확인하는 것입니다.
-- 환자들은 올라파립 또는 위약을 1일 2회, 28일 주기로 최대 12주기 동안 투여받습니다.
+- 중재 치료로 PARP 억제제인 olaparib 또는 위약이 28일 주기로 총 12주기 동안 투여됩니다.
+- 주요 평가지표는 유지 치료로 olaparib을 추가했을 때의 무재발 생존기간(RFS) 혜택 확인입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
 
 ---
 <a id="nct-nct05132504"></a>
-#### [수술 가능 췌장암 환자를 위한 선행항암치료 FOLFIRINOX와 pembrolizumab 병용 및 수술 후 보조요법 2상 임상시험](https://clinicaltrials.gov/study/NCT05132504)
+#### [수술 가능 췌장암 환자를 위한 선행화학요법 FOLFIRINOX 및 펨브롤리주맙(pembrolizumab) 병용 후 수술 임상시험](https://clinicaltrials.gov/study/NCT05132504)
 <small>Neoadjuvant Folfirinox Combined With Pembrolizumab Followed by Surgery for Patients With Resectable Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-11-24 · ClinicalTrials.gov · Baylor College of Medicine · 중요도 0.90
 
 **NCT05132504** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05132504.md)
 
-이 임상시험은 국소적이고 수술이 가능한 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 FOLFIRINOX 항암화학요법과 pembrolizumab(펨브롤리주맙) 면역항암제를 수술 전 선행치료로 병용한 뒤 수술을 시행하고, 수술 후 5-FU 기반 항암화학요법과 pembrolizumab을 추가로 투여하는 2상(Phase II) 연구입니다. 연구자들은 수술 전 FOLFIRINOX와 anti-PD-1 단일클론항체인 pembrolizumab 병용요법이 안전하고 타당하게 투여될 수 있으며, 절제된 췌장암 조직 내 면역세포를 증가시켜 임상적 반응을 향상시킬 것으로 가설을 세웠습니다. 목표 인원은 30~39명이며, 환자들은 수술 전 FOLFIRINOX 6주기 및 pembrolizumab 2주기를 투여받습니다. 수술 후에는 5-FU 기반 항암화학요법을 최대 6주기까지, pembrolizumab을 추가로 7주기 더 투여받아 총 9회의 pembrolizumab 6주 간격(Q6week) 주기를 받게 됩니다.
+이 연구는 국소적이고 수술 가능한 췌장관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 선행화학요법인 FOLFIRINOX와 면역항암제 펨브롤리주맙(pembrolizumab)을 병용 투여한 뒤 수술을 시행하는 제2상 임상시험입니다. 연구진은 수술 전 FOLFIRINOX와 펨브롤리주맙(pembrolizumab)의 병용 치료가 안전하게 시행될 수 있으며, 종양 내 면역세포를 증가시켜 임상적 반응을 향상시킬 것으로 가정합니다. 환자들은 수술 전 6주기의 FOLFIRINOX와 2주기의 펨브롤리주맙(pembrolizumab)을 투여받고 수술을 진행합니다. 수술 후에는 5FU 기반 항암치료와 추가적인 펨브롤리주맙(pembrolizumab) 치료를 받게 됩니다.
 
-- 대상 질환: 1차 치료가 필요한 AJCC I, II, III기의 국소적이고 수술 가능한 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자
-- 중재 치료: 수술 전 FOLFIRINOX 6주기 + pembrolizumab 2주기, 수술 후 5-FU 기반 항암화학요법 최대 6주기 + pembrolizumab 7주기
-- 연구 규모 및 기간: 목표 참여 환자 수는 30~39명이며, 참여 기간은 약 9개월, 예상 연구 기간은 3.5년입니다.
+- 목표 환자 수는 총 30명에서 39명 규모의 제2상 임상시험입니다.
+- 환자들은 수술 전 FOLFIRINOX 6주기와 펨브롤리주맙(pembrolizumab) 2주기를 투여받습니다.
+- 수술 후에는 5FU 기반 화학요법을 최대 6주기, 펨브롤리주맙(pembrolizumab)을 최대 7주기 추가 투여합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05132504) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05132504)</small>
+
+---
+<a id="nct-nct07235202"></a>
+#### [국소 진행성 또는 전이성 췌장관선암(PDAC) 1차 치료 후 MR001과 화학요법 병용 임상시험](https://clinicaltrials.gov/study/NCT07235202)
+<small>A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC) After First-line Therapy</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-11-19 · ClinicalTrials.gov · Shenzhen Majory Biotechnology Co., Ltd. · 중요도 0.90
+
+**NCT07235202** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07235202.md)
+
+이 임상 1b/2a상 연구는 1차 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자를 대상으로 MR001과 표준 화학요법 병용투여의 안전성, 내인성, 약동학 및 예비 유효성을 평가합니다. 공개형, 용량 증량 및 용량 확장 연구로 진행됩니다. 대상 질환은 췌장관선암(PDAC)이며 총 45명의 환자를 목표로 합니다.
+
+- 연구 대상: 1차 전신 항암 치료 후 진행된 국소 진행성 또는 전이성 췌장관선암(PDAC) 환자입니다.
+- 평가 항목: MR001과 화학요법(Irinotecan Liposome Injection combined with 5-FU/LV, Nab-paclitaxel, Gemcitabine) 병용의 안전성, 내인성, 약동학, 예비 유효성입니다.
+- 연구 단계: 임상 1b/2a상(Phase Ib/IIa)입니다.
+- 목표 환자 수: 45명입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07235202) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235202)</small>
+
+---
+<a id="nct-nct03073785"></a>
+#### [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](https://clinicaltrials.gov/study/NCT03073785)
+<small>Hypofractionated Stereotactic Body Radiation &amp; Fluorouracil or Capecitabine for Locally Advanced Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2017-03-08 · ClinicalTrials.gov · University of Nebraska · 중요도 0.87
+
+**NCT03073785** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03073785.md)
+
+이 연구는 주변 조직이나 림프절로 퍼진 국소 진행성 췌장암 환자를 대상으로 정위체부 방사선 치료(SBRT)와 fluorouracil(플루오로우라실) 또는 capecitabine(카페시타빈)에 zoledronic acid(졸레드론산) 추가 여부에 따른 효과를 평가하는 2상 임상시험입니다. 주요 목적은 병용 치료의 효능과 독성을 평가하고, 국소 실패 없는 생존율, 전체 생존율, 수술적 절제율 및 반응률을 확인하는 것입니다. 환자들은 방사선 치료와 함께 항암화학요법 및 졸레드론산 치료를 받게 됩니다. 초록에 구체적인 생존율이나 반응률 수치는 명시되지 않았습니다.
+
+- 목표 환자 수는 46명이며 국소 진행성 췌장암 환자를 대상으로 합니다.
+- 분할 정위체부 방사선 치료(SBRT)와 fluorouracil 또는 capecitabine, zoledronic acid의 병용 효과를 평가합니다.
+- 초록에 구체적인 생존기간이나 반응률 등의 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03073785) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03073785)</small>
+
+---
+<a id="nct-nct06141031"></a>
+#### [경계성 절제 가능 및 국소 진행성 췌장관선암에서 방사선 치료와 TTI-101 병용 요법](https://clinicaltrials.gov/study/NCT06141031)
+<small>Radiotherapy in Combination With TTI-101 in Borderline Resectable and Locally Advanced Pancreatic Ductal Adenocarcinoma</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2023-11-21 · ClinicalTrials.gov · Washington University School of Medicine · 중요도 0.84
+
+**NCT06141031** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06141031.md)
+
+본 연구는 경계성 절제 가능(borderline resectable) 또는 국소 진행성(locally advanced) 췌장암(pancreatic cancer) 환자를 대상으로 TTI-101과 정위체부방사선치료(SBRT, Stereotactic body radiation therapy)를 병용하는 제1상 임상시험(phase1)입니다. 췌장암의 낮은 생존율을 극복하기 위해, STAT3 억제제인 TTI-101을 SBRT와 병행하여 항염증 효과를 증진시키고 섬유화 및 면역억제 같은 부작용을 줄이는 안전성과 2년 무진행 생존율(progression-free survival)을 평가합니다. 총 목표 인원은 24명이며 워싱턴 대학교 의과대학(Washington University School of Medicine)에서 진행 중입니다.
+
+- 경계성 절제 가능 및 국소 진행성 췌장관선암 환자 24명을 대상으로 합니다.
+- STAT3 억제제인 TTI-101과 SBRT(정위체부방사선치료)의 병용 요법에 대한 안전성과 2년 무진행 생존율을 평가합니다.
+- 초록에 5년 생존율은 10% 이하로 명시되었습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06141031) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06141031)</small>
+
+---
+<a id="nct-nct01174121"></a>
+#### [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](https://clinicaltrials.gov/study/NCT01174121)
+<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
+
+**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
+
+본 임상시험은 표준 항암화학요법에 불응한 전이성 상·하부 위장관암, 간담도암, 비뇨생식기암, 유방암, 난소암/자궁내막암, 내분비선암 환자를 대상으로 합니다. 환자 자신의 종양에서 분리·배양한 종양 침윤 림프구(TIL)를 림프구 고갈 전처치, 고용량 aldesleukin(알데스류킨), pembrolizumab(펨브롤리주맙)과 함께 투여하여 치료 효과와 안전성을 평가합니다. 목표 인원은 최대 332명이며 2상 단계로 진행됩니다. 초록에 구체적인 췌장암 환자 대상 생존기간이나 반응률 수치는 명시되지 않았습니다.
+
+- 표준 항암화학요법에 실패한 전이성 암 환자(위장관, 간담도, 비뇨생식기, 유방, 난소/자궁내막, 내분비선암)를 대상으로 합니다.
+- 환자 유래 종양 침윤 림프구(TIL) 세포치료제와 pembrolizumab(펨브롤리주맙), aldesleukin 병용요법의 안전성과 종양 축소 효과를 평가합니다.
+- 전체 목표 환자 수는 최대 332명입니다.
+- 구체적인 생존기간이나 반응률 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
+
+---
+<a id="nct-nct06069297"></a>
+#### [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](https://clinicaltrials.gov/study/NCT06069297)
+<small>Prehabilitation in Pancreatic Surgery</small>
+
+`임상시험` `기타` `수술` `지지요법·삶의질` `진단·조기발견` · 2023-10-05 · ClinicalTrials.gov · IRCCS San Raffaele · 중요도 0.71
+
+**NCT06069297** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06069297.md)
+
+이 임상시험은 수술이 가능한 국소 췌장암 또는 주유두부암(periampullary cancer) 환자 238명을 대상으로 4주간의 다중 모달 사전 재활(multimodal prehabilitation) 프로그램의 효과를 평가합니다. 환자들은 사전 재활을 받는 중재군과 받지 않는 대조군에 1:1로 무작위 배정됩니다. 연구의 목표는 수술 전후 이병률(postoperative morbidity), 기능적 및 영양적 상태, 그리고 건강 관련 삶의 질에 미치는 영향을 확인하는 것입니다. 또한 순환하는 근감소증(sarcopenia) 및 암 악액질(cancer cachexia) 생체표지자(biomarker)에 미치는 영향도 탐색합니다.
+
+- 목표 환자 수는 총 238명입니다.
+- 중재군은 4주간의 운동, 영양, 심리적 중재를 포함하는 다중 모달 사전 재활 프로그램을 받습니다.
+- 환자들은 사전 재활군과 대조군(표준 치료)에 1:1로 무작위 배정됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06069297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06069297)</small>
+
+---
+<a id="pmid-42993282"></a>
+#### [Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula](https://pubmed.ncbi.nlm.nih.gov/42993282/)
+`논문` `기타` `수술` `진단·조기발견` · 2026-11-06 · PubMed · Surg Endosc · 중요도 0.70
+
+BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42993282/) · [DOI](https://doi.org/10.1007/s00464-026-13401-4) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42993282)</small>
+
+---
+<a id="pmid-42991713"></a>
+#### [Association and incremental predictive performance of preoperative nutritional and inflammatory indices for postoperative ICU admission after hepatobiliary and pancreatic tumor surgery](https://pubmed.ncbi.nlm.nih.gov/42991713/)
+`논문` `관찰연구` `지지요법·삶의질` `수술` · 2026-10-22 · PubMed · Front Nutr · 중요도 0.68
+
+BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991713/) · [DOI](https://doi.org/10.3389/fnut.2026.1978034) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736577/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991713)</small>
+
+---
+<a id="pmid-42987704"></a>
+#### [Enucleation Versus Anatomical Resection of Malignant Pancreatic Tumors in Children and Young Adults](https://pubmed.ncbi.nlm.nih.gov/42987704/)
+`논문` `기타` `수술` `치료 전반` `진단·조기발견` · 2026-11-05 · PubMed · J Surg Res · 중요도 0.68
+
+INTRODUCTION: Surgery is the primary treatment for pancreatic cancer in younger populations, though few studies have compared different surgical approaches in these populations. We compared survival outcomes between enucleation and anatomical resection with negative margins for pediatric and young adult patients with pancreatic tumors using the Surveillance, Epidemiology, and End Results (SEER) Program database.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42987704/) · [DOI](https://doi.org/10.1016/j.jss.2026.10.022) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42987704)</small>
+
+---
+<a id="pmid-42987848"></a>
+#### [수술 불가능한 췌장암으로 인한 위배출구 폐색에 유치한 위장관 스텐트 파손 1예](https://pubmed.ncbi.nlm.nih.gov/42987848/)
+<small>[Fracture of a Gastrointestinal Stent Placed for Gastric Outlet Obstruction Due to Unresectable Pancreatic Cancer]</small>
+
+`논문` `증례` `지지요법·삶의질` `치료 전반` `수술` · 2026-10-01 · PubMed · Gan To Kagaku Ryoho · 중요도 0.46
+
+수술이 불가능한 전이성 췌장암 환자에서 위배출구 폐색 완화를 위해 유치한 금속 스텐트가 파손된 케이스 보고입니다. 항암 치료 후 종양이 축소되었으나 스텐트 유치 4개월 뒤 스텐트가 파손되어 파편이 십이지장으로 이동했습니다. 스텐트 파편은 1주일 후 자연 배출되었으며 큰 합병증 없이 항암 치료를 계속 유지했습니다. 진단 2년 6개월 후 재폐색이 발생해 스텐트를 교체했으나 결국 질병 진행으로 사망했습니다.
+
+- 위십이지장 금속 스텐트를 유치한 77세 췌장암 환자에서 유치 4개월 후 스텐트 파손 및 파편 이동이 발생했습니다.
+- 이동한 스텐트 파편은 추가 수술이나 복부 합병증 없이 1주일 만에 자연 배출되었습니다.
+- 종양 축소 후 2년 6개월 동안 항암 치료를 유지하였으며 이후 재폐색으로 스텐트 교체 시술을 받았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42987848/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42987848)</small>
 
 ---
 <a id="nct-nct05111353"></a>
@@ -105,41 +251,6 @@ search:
 - 초록에 생존기간이나 객관적 반응률 등 구체적인 유효성 수치는 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05685602) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05685602)</small>
-
----
-<a id="nct-nct01174121"></a>
-#### [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](https://clinicaltrials.gov/study/NCT01174121)
-<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
-
-**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
-
-본 임상시험은 표준 항암 치료에 불응성인 전이성 상·하부 위장관, 간담도, 비뇨기과, 유방, 난소/자궁내막 및 내분비선 암 환자를 대상으로 합니다. 환자 자신의 종양에서 분리해 배양한 종양 침윤 림프구(TIL)와 pembrolizumab(펨브롤리주맙, 상품명 Keytruda), 림프구 고갈 전처치 화학요법, 고용량 aldesleukin(알데스루킨)을 병용 투여합니다. 연구의 목적은 이 맞춤형 세포 치료법이 종양을 축소시키는지 확인하고 안전성을 평가하는 것입니다. 총 332명의 환자를 목표로 2상 임상시험이 진행 중입니다.
-
-- 목표 환자 수는 최대 332명이며 2상 단계로 진행됩니다.
-- 중재 치료로 자가 종양 침윤 림프구(TIL) 세포 주입, pembrolizumab(펨브롤리주맙), cyclophosphamide(시클로포스파미드), fludarabine(플루다라빈), aldesleukin(알데스루킨)을 사용합니다.
-- 초록에 명시된 객관적 반응률 목표는 20%입니다.
-- 국내 기관 참여는 0곳입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
-
----
-<a id="nct-nct06069297"></a>
-#### [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](https://clinicaltrials.gov/study/NCT06069297)
-<small>Prehabilitation in Pancreatic Surgery</small>
-
-`임상시험` `기타` `수술` `지지요법·삶의질` `진단·조기발견` · 2023-10-05 · ClinicalTrials.gov · IRCCS San Raffaele · 중요도 0.71
-
-**NCT06069297** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06069297.md)
-
-이 임상시험은 수술이 가능한 국소 췌장암 또는 주변부 암 환자를 대상으로 4주간의 다중 모달 사전 재활 프로그램이 수술 후 이병률, 기능적·영양적 상태, 삶의 질에 미치는 영향을 평가합니다. 환자들은 1:1 비율로 다중 모달 사전 재활 그룹 또는 대조군에 무작위 배정됩니다. 초록에 명시된 목표 인원은 238명입니다. 초록에 명시되지 않음.
-
-- 목표 인원은 238명입니다.
-- 환자들은 사전 재활 그룹과 대조군(표준 치료)에 1:1로 무작위 배정됩니다.
-- 다중 모달 사전 재활 프로그램은 4주 동안 진행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06069297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06069297)</small>
 
 ---
 <a id="pmid-42981164"></a>
@@ -187,6 +298,20 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42982334/) · [DOI](https://doi.org/10.1016/j.gassur.2026.102670) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42982334)</small>
 
 ---
+<a id="pmid-42982635"></a>
+#### [췌장절제술에 따른 CONUT 점수의 역동적 변화 가능성, 특히 콜레스테롤과 종양 면역에 관한 의견에 대한 응답](https://pubmed.ncbi.nlm.nih.gov/42982635/)
+<small>Response to &quot;Possible dynamic change of CONUT score by pancreatectomy, with special reference to cholesterol and tumor immunity&quot;</small>
+
+`논문` `기타` `수술` `기초연구` · 2026-10-23 · PubMed · Pancreatology · 중요도 0.55
+
+본 논문은 췌장절제술(pancreatectomy)에 따른 CONUT 점수(CONUT score)의 동적 변화와 콜레스테롤 및 종양 면역의 관계에 대한 의견에 대한 응답입니다. 구체적인 환자 수나 생존기간 등의 수치는 초록에 명시되지 않았습니다. 췌장암 환자와 보호자를 위한 의학 정보 전달을 목적으로 합니다.
+
+- 초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다.
+- 췌장절제술 후 CONUT 점수의 변화와 종양 면역 간의 관계를 다루고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42982635/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.027) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42982635)</small>
+
+---
 <a id="pmid-42983994"></a>
 #### [췌장선암의 치료](https://pubmed.ncbi.nlm.nih.gov/42983994/)
 <small>[Treatments of the pancreatic adenocarcinoma]</small>
@@ -201,20 +326,6 @@ search:
 - 수술 후에는 mFOLFIRINOX 요법을 수술 후 보조항암화학요법(adjuvant chemotherapy)의 표준 치료로 권장합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42983994/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42983994)</small>
-
----
-<a id="pmid-42982635"></a>
-#### [췌장절제술에 따른 CONUT 점수의 역동적 변화 가능성, 특히 콜레스테롤과 종양 면역에 관한 의견에 대한 응답](https://pubmed.ncbi.nlm.nih.gov/42982635/)
-<small>Response to &quot;Possible dynamic change of CONUT score by pancreatectomy, with special reference to cholesterol and tumor immunity&quot;</small>
-
-`논문` `기타` `수술` `기초연구` · 2026-10-23 · PubMed · Pancreatology · 중요도 0.55
-
-본 논문은 췌장절제술(pancreatectomy)에 따른 CONUT 점수(CONUT score)의 동적 변화와 콜레스테롤 및 종양 면역의 관계에 대한 의견에 대한 응답입니다. 구체적인 환자 수나 생존기간 등의 수치는 초록에 명시되지 않았습니다. 췌장암 환자와 보호자를 위한 의학 정보 전달을 목적으로 합니다.
-
-- 초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다.
-- 췌장절제술 후 CONUT 점수의 변화와 종양 면역 간의 관계를 다루고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42982635/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.027) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42982635)</small>
 
 ---
 <a id="nct-nct06608927"></a>
@@ -250,23 +361,6 @@ search:
 - 초록에 명시되지 않음: 생존기간, 반응률, 위험비 등의 유효성 수치는 초록에 명시되지 않음.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07905131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07905131)</small>
-
----
-<a id="nct-nct03073785"></a>
-#### [국소 진행성 췌장암에서 저분할 정위체부 방사선치료와 5-FU 또는 capecitabine, zoledronic acid 병용 임상시험](https://clinicaltrials.gov/study/NCT03073785)
-<small>Hypofractionated Stereotactic Body Radiation &amp; Fluorouracil or Capecitabine for Locally Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2017-03-08 · ClinicalTrials.gov · University of Nebraska · 중요도 0.87
-
-**NCT03073785** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03073785.md)
-
-이 연구는 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자들을 대상으로 저분할 정위체부 방사선치료(hypofractionated stereotactic body radiation therapy, SBRT)와 fluorouracil(플루오로우라실) 또는 capecitabine(카페시타빈)에 zoledronic acid(졸레드론산) 추가 여부에 따른 효과를 평가하는 2상 임상시험입니다. 연구의 주요 목적은 병용 치료의 유효성, 독성, 국소 실패 없는 생존기간(local failure-free survival), 전체 생존기간(overall survival) 등을 평가하는 것입니다. 치료 후 추적 관찰은 30일 동안 진행되며, 이후 첫 1년은 3개월마다, 2년 차에는 4개월마다, 그 이후에는 6개월마다 이루어집니다.
-
-- 목표 인원은 46명이며, 2상 임상시험으로 진행됩니다.
-- 주요 평가 목적으로는 방사선 치료와 항암제 및 zoledronic acid 병용의 유효성과 독성, 국소 실패 없는 생존기간, 전체 생존기간 평가가 포함됩니다.
-- 치료 후 추적 관찰은 30일 뒤부터 시작하여 최대 2년 이상 주기적으로 시행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT03073785) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03073785)</small>
 
 ---
 <a id="nct-nct04390399"></a>
@@ -2276,118 +2370,5 @@ T3 병기의 췌장 체부 및 미부 췌관선암 환자를 대상으로 근치
 - 분자 프로파일링을 통한 치료 결정이 불필요한 수술을 줄이고 환자 예후를 개선하는지 전향적 검증이 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42858026/) · [DOI](https://doi.org/10.3791/73945) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42858026)</small>
-
----
-<a id="pmid-42858257"></a>
-#### [수술 전후 치료 연구를 위한 정상 면역 KPC 췌장암 마우스 모델의 절제 및 재발 프로토콜](https://pubmed.ncbi.nlm.nih.gov/42858257/)
-<small>Protocol for an immunocompetent KPC mouse model of pancreatic cancer resection and recurrence for perioperative treatment studies</small>
-
-`논문` `전임상` `기초연구` `수술` `진단·조기발견` · 2026-10-10 · PubMed · STAR Protoc · 중요도 0.60
-
-췌관선암종(pancreatic ductal adenocarcinoma) 마우스 모델에서 동소 이식 종양을 절제할 때 일반적으로 비장을 함께 절제합니다. 이 연구는 비장을 보존하면서 췌장 꼬리(미부) 부위 종양을 외과적으로 절제하는 새로운 수술 프로토콜을 제시했습니다. 마우스 췌장암 세포를 이식한 뒤 종양을 확인하고 절제하는 전 과정과 종양 재발을 관찰하는 단계가 기술되어 있습니다. 또한 수술 전후(perioperative) 치료 전략을 연구하기 위한 방법론을 확립했습니다.
-
-- 비장을 절제하지 않고 보존하면서 췌장 미부 종양만을 제거하는 마우스 수술 프로토콜을 제시했습니다.
-- 정상 면역 기능을 가진 마우스 모델을 활용하여 종양 절제 및 재발 과정을 구현했습니다.
-- 췌장암의 수술 전후 치료 효과를 평가할 수 있는 전임상 연구 모델을 구축했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42858257/) · [DOI](https://doi.org/10.1016/j.xpro.2026.104897) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42858257)</small>
-
----
-<a id="nct-nct05604560"></a>
-#### [수술 가능한 췌장암에 대한 티슬렐리주맙과 SX-682의 수술 전 선행요법 2상 임상시험](https://clinicaltrials.gov/study/NCT05604560)
-<small>A Neoadjuvant Study of Tislelizumab and SX-682 for Resectable Pancreas Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2022-11-03 · ClinicalTrials.gov · Lei Zheng · 중요도 0.90
-
-**NCT05604560** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05604560.md)
-
-이 임상시험은 새롭게 진단된 수술 가능한 췌관선암 환자를 대상으로 수술 전 선행요법의 효과와 안전성을 평가합니다. 면역관문억제제인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682의 병용 요법을 시험합니다. 목표 시험 대상자는 25명이며, 수술 전에 약물을 투여하여 종양 반응과 안전성을 확인합니다.
-
-- 새롭게 진단받은 수술 가능한 췌장암 환자 25명을 대상으로 진행되는 2상 임상시험입니다.
-- 항 PD-1 항체인 티슬렐리주맙(tislelizumab)과 CXCR1/2 억제제인 SX-682 병용 요법을 수술 전 선행요법으로 평가합니다.
-- 이전에 췌장암에 대한 치료를 받은 적이 없는 환자만을 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05604560) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05604560)</small>
-
----
-<a id="nct-nct06831136"></a>
-#### [국소 진행성 절제 불가능 및 전이성 췌관선암 환자를 대상으로 한 초음파내시경 유도 고주파 열치료술과 면역항암제 pembrolizumab 병용 요법 2상 임상시험](https://clinicaltrials.gov/study/NCT06831136)
-<small>Endoscopic Ultrasound Radiofrequency Ablation and Immunotherapy Pembrolizumab for Locally Advanced Unresectable and Metastatic Pancreatic Duct Adenocarcinoma</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2025-02-17 · ClinicalTrials.gov · The University of Texas Health Science Center, Houston · 중요도 0.90
-
-**NCT06831136** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06831136.md)
-
-국소 진행성 절제 불가능 및 전이성 췌관선암(PDAC) 환자 24명을 대상으로 초음파내시경 유도 고주파 열치료술(EUS-RFA), 항암화학요법, 그리고 면역항암제 pembrolizumab(펨브롤리주맙) 병용 치료의 안전성과 유효성을 평가하는 2상 임상시험입니다. 전신 항암치료 경험이 없거나 1차 항암치료 3개월 동안 질병이 안정적으로 유지된 환자가 참여할 수 있습니다. 국소 종양에 대한 고주파 열치료와 전신 면역항암제 병용의 효과를 탐색합니다. 국내 기관은 참여하지 않습니다.
-
-- 국소 진행성 절제 불가능 또는 전이성 췌관선암 환자 24명을 모집하는 2상 임상시험입니다.
-- 초음파내시경 유도 고주파 열치료술(EUS-RFA), 항암화학요법, pembrolizumab 병용의 안전성과 치료 반응을 평가합니다.
-- 전신 치료를 받지 않았거나 타 병원에서 1차 항암요법 후 3개월간 안정 병변을 보인 환자가 대상입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06831136) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06831136)</small>
-
----
-<a id="nct-nct04940286"></a>
-#### [수술 가능한 췌장암 환자 대상 젬시타빈, 냅파클리탁셀, 더발루맙 및 올레클루맙 수술 전 선행요법 2상 임상시험](https://clinicaltrials.gov/study/NCT04940286)
-<small>Gemcitabine, Nab-paclitaxel, Durvalumab, and Oleclumab Before Surgery for the Treatment of in Resectable/Borderline Resectable Primary Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2021-06-25 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.87
-
-**NCT04940286** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04940286.md)
-
-수술 가능(resectable) 또는 경계성 절제 가능(borderline resectable) 췌장선암 환자를 대상으로 수술 전 젬시타빈(gemcitabine), 냅파클리탁셀(nab-paclitaxel) 항암화학요법과 더발루맙(durvalumab), 올레클루맙(oleclumab) 면역요법을 병용하는 2상 임상시험입니다. 화학요법과 면역항암제를 함께 투여하여 수술 전 종양을 줄이고 질병 진행을 억제할 수 있는지 평가합니다. 1차 목표는 주요 병리학적 반응률(MPR, 생존 종양 세포 5% 이하)과 치료의 안전성을 확인하는 것입니다. 환자들은 28일 주기로 2~6주기 동안 약물을 투여받은 후 4~8주 이내에 수술적 절제를 진행하게 됩니다.
-
-- 수술 가능 또는 경계성 절제 가능 췌장암 환자 13명을 대상으로 하는 수술 전 선행 병용요법 2상 임상시험입니다.
-- 세포독성항암제(젬시타빈+냅파클리탁셀)와 면역요법(더발루맙+올레클루맙)을 결합하여 주요 병리학적 반응(잔여 생존 종양 5% 이하) 달성률을 측정합니다.
-- 이전에 췌장암에 대한 항암 치료를 받은 적이 없는 환자만을 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04940286) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04940286)</small>
-
----
-<a id="pmid-42852719"></a>
-#### [선행화학요법 창(The Neoadjuvant Window): 췌장암 치료 중 근감소증의 연속적 평가](https://pubmed.ncbi.nlm.nih.gov/42852719/)
-<small>The Neoadjuvant Window: Serial Assessment of Sarcopenia During Treatment for Pancreatic Cancer</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-10-09 · PubMed · Am Surg · 중요도 0.75
-
-이 연구는 2011년부터 2021년까지 췌관선암(pancreatic adenocarcinoma)으로 췌장절제술(pancreatectomy)을 받은 환자 72명을 대상으로 선행치료(neoadjuvant therapy) 전후의 근감소증(sarcopenia) 변화를 후향적으로 분석했습니다. 전체 환자의 57%가 진단 시 근감소증을 가지고 있었으며, 선행치료 후 15.6%는 새로 발생하고 18.8%는 회복되었습니다. 선행치료를 받은 환자들은 수술 전 영양 상담 비율이 높았고 수술 후 알부민(albumin) 수치가 더 높았으며, 선행치료 자체는 수술 후 합병증을 유의하게 증가시키지 않았습니다. 초록에 명시된 바와 같이, 선행치료 기간은 췌장절제술 전 근감소증 평가와 영양적 최적화를 위한 기회를 제공할 수 있습니다.
-
-- 총 72명의 환자 중 32명은 선행치료를, 40명은 선행수술을 받았습니다.
-- 진단 시 전체 환자의 57%에게서 근감소증이 관찰되었습니다.
-- 선행치료 후 15.6%의 환자에게 근감소증이 새로 생겼고 18.8%는 회복되었습니다.
-- 기저 근감소증은 수술 후 합병증 증가와 연관이 있었습니다(교차비 OR 13.696; 95% 신뢰구간 2.537-73.921).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852719/) · [DOI](https://doi.org/10.1177/00031348261495994) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852719)</small>
-
----
-<a id="pmid-42854340"></a>
-#### [수술 후 급격한 근육 소실은 조기 췌장암의 예후를 예측하는 강력한 인자입니다: 대만 다기관 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42854340/)
-<small>Drastic muscle wasting following surgery is a strong predictor of prognosis in early-stage pancreatic cancer-a Taiwanese multicenter cohort study</small>
-
-`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-09 · PubMed · Cancer Treat Res Commun · 중요도 0.75
-
-수술이 가능한 조기 췌장암 환자 284명을 대상으로 수술 전 근감소증(sarcopenia)과 수술 후 근육 소실이 치료 경과에 미치는 영향을 분석했습니다. 분석 결과, 수술 전 근감소증은 수술 직후 합병증 발생 위험을 유의하게 높였습니다. 반면 장기 생존율에는 수술 전 근감소증보다 수술 후 3개월 이내에 발생한 급격한 근육 소실이 훨씬 더 결정적인 악영향을 미쳤습니다. 연구진은 수술 후 환자의 근육량 감소를 면밀히 평가하고 관리하는 것이 장기 예후에 중요하다고 밝혔습니다.
-
-- 전체 환자 중 52.4%(149명)가 수술 전 근감소증을 겪었으며, 31.0%(88명)는 수술 후 17% 이상의 급격한 근육 소실을 보였습니다.
-- 수술 전 근감소증은 전체 합병증(P=0.001) 및 주요 합병증(P=0.038) 위험을 높였으나, 무병 생존기간(P=0.812)이나 전체 생존기간(P=0.238)과는 유의한 상관이 없었습니다.
-- 수술 후 17% 이상의 급격한 근육 소실은 무병 생존기간(P=0.005) 및 전체 생존기간(P<0.001) 단축을 독립적으로 예측하는 유의미한 불량 인자였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854340/) · [DOI](https://doi.org/10.1016/j.ctarc.2026.101468) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854340)</small>
-
----
-<a id="pmid-42854074"></a>
-#### [췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42854074/)
-<small>Giant cystic lymphangioma in the pancreatic tail-splenic hilum region managed by en bloc resection: A case report</small>
-
-`논문` `증례` `수술` `진단·조기발견` `지지요법·삶의질` · 2026-10-09 · PubMed · Medicine (Baltimore) · 중요도 0.64
-
-이 논문은 췌장 미부와 비장 문부(splenic hilum) 영역에 발생한 드문 거대 다방성 낭성 림프관종(cystic lymphangioma) 환자의 증례를 보고합니다. 43세 여성이 지속적인 좌상복부 통증으로 내원했으며, 영상 검사를 통해 160x110 mm 크기의 거대 낭성 병변이 확인되었습니다. 병변이 주변 장기와 밀착되어 있어 원위부 췌장 절제술(distal pancreatectomy), 비장 절제술(splenectomy), 담낭 절제술(cholecystectomy)을 포함한 일괄 절제술(en bloc resection)을 시행했습니다. 환자는 수술 후 췌장루(biochemical leak)가 발생했으나 추가 시술 없이 회복하여 수술 후 11일째에 퇴원했습니다.
-
-- 43세 여성 환자에게서 췌장 미부와 비장 문부 영역에 걸쳐 160x110 mm 크기의 거대 낭성 림프관종이 발견되었습니다.
-- 병변이 췌장 미부 및 비장 문부에 조밀하게 유착되어 있어 원위부 췌장 절제술과 비장 절제술을 포함한 일괄 절제술을 시행했습니다.
-- 수술 후 1일째 배액관 아밀라아제는 1264 U/L, 3일째는 3337 U/L로 측정되어 생화학적 췌장루(biochemical leak) 소견을 보였습니다.
-- 환자는 추가적인 치료 없이 회복하여 수술 후 11일째에 퇴원했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854074/) · [DOI](https://doi.org/10.1097/MD.0000000000051000) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854074)</small>
 
 ---

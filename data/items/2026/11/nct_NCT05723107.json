@@ -1,0 +1,106 @@
+{
+ "abstract": "This is a single arm study in the treatment of pancreatic ductal adenocarcinoma (PDAC). The investigators propose to test the tolerability of chemotherapy plus endoscopic ultrasound-guided radiofrequency ablation (EUS-RFA) using the RF Electrode in patients receiving palliative second or third line therapy for unresectable non-metastatic pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05723107",
+ "importance": 0.81,
+ "key_points_ko": [
+  "1차 항암화학요법에 실패한 절제 불가능 국소진행성 췌장암 환자를 대상으로 고주파 전극을 이용한 EUS-RFA와 항암치료 병용의 내약성을 평가하고자 했습니다.",
+  "목표 모집 인원은 6명이었으며, 현재 시험이 조기 종료되었습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05723107"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2023-02-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "NYU Langone Health",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05723107"
+ },
+ "summary_ko": "수술이 불가능한 국소진행성 비전이성 췌관선암(PDAC) 환자를 대상으로 항암화학요법과 내시경 초음파 유도하 고주파 열치료술(EUS-RFA) 병용요법의 내약성을 평가하기 위해 설계된 단일군 1상 임상시험입니다. 1차 항암치료에 반응하지 않거나 질병이 진행되어 2차 또는 3차 완화 치료를 받는 환자를 대상으로 하였습니다. 이 임상시험은 목표 환자 수 6명 규모였으나 현재 조기 종료(TERMINATED)되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "EUS RFA for Treatment of Pancreatic Ductal Adenocarcinoma (PDAC)",
+ "title_ko": "췌관선암 환자를 대상으로 한 내시경 초음파 유도하 고주파 열치료술(EUS-RFA) 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 생검을 통해 조직학적으로 확인된 췌관선암 환자\n- CT 또는 MRI에서 최대 직경 1cm 이상으로 측정된 환자\n- ECOG 수행능력 평가 점수 0~2점\n- 1차 항암화학요법에 불응하거나 질병이 진행했으며, 다학제 진료상 절제가 불가능하고 원격 전이가 없는 국소진행성 췌장암 환자\n- 병변 크기가 1~4cm인 환자\n\n제외 기준:\n- 원격 전이가 확인된 환자\n- 내시경으로 접근할 수 없는 부위의 종양\n- 임신 중인 환자\n- 연구 동의서 제공이 불가능한 환자\n- 병변 최대 직경이 1cm 미만이거나 4cm를 초과하는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Diagnosed and histologically confirmed PDAC by biopsy\n* Axial CT scan or MRI consistent with PDAC with at least 1 cm in greatest diameter\n* ECOG performance status 0-2\n* Patients with locally advanced PDAC, who have not responded or progressed on first line chemotherapy, are deemed not resectable based on multidisciplinary review, and show no evidence of distant metastasis\n* Lesions between 1 - 4cm in size\n\nExclusion Criteria:\n\n* Patients that show evidence of distant metastasis\n* Endoscopically non-accessible mass\n* Pregnant patients\n* Inability to provide informed consent\n* Lesions \\<1cm, or \\>4cm in greatest diameter",
+  "enrollment": 6,
+  "has_results": false,
+  "interventions": [
+   "Chemotherapy",
+   "Endoscopic Ultrasound-Guided Radiofrequency Ablation (EUS-RFA)"
+  ],
+  "last_update_posted": "2026-11-06",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "원격 전이가 있는 환자",
+    "내시경으로 접근 불가능한 종양",
+    "임신 중인 환자",
+    "종양 크기가 1cm 미만 또는 4cm 초과인 환자"
+   ],
+   "max_prior_lines": 2,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "1차 항암화학요법에 실패한 1~4cm 크기의 절제 불가능 국소진행성(비전이성) 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05723107",
+  "phase": "PHASE1",
+  "primary_completion_date": "2024-11-25",
+  "sex": "ALL",
+  "sponsor": "NYU Langone Health",
+  "start_date": "2023-03-31",
+  "status": "TERMINATED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

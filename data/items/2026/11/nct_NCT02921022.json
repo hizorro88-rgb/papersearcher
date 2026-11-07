@@ -22,11 +22,11 @@
  "id": "nct:NCT02921022",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 환자 수는 총 110명입니다.",
-  "대상 질환은 국소 진행성 절제 불가능 또는 4기(Stage IV) 췌관선암(PDAC)입니다.",
-  "연구에서는 Gemcitabine, Nab-paclitaxel, PEGPH20 등의 약물이 사용되었습니다."
+  "목표 인원은 110명입니다.",
+  "대상 질환은 국소 진행성 수술 불가 또는 4기(Stage IV) 췌장관선암(PDAC)입니다.",
+  "시험약인 PEGPH20은 종양 내 히알루론산을 분해하여 종양 성장을 억제하는 효소입니다."
  ],
- "last_updated": "2026-11-06",
+ "last_updated": "2026-11-07",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02921022"
  },
- "summary_ko": "이 연구는 진행성 췌관선암(PDAC) 환자를 대상으로 시험약인 PEGPH20의 부작용과 효과를 평가하기 위해 진행되었습니다. PEGPH20은 종양에서 생성되는 히알루론산(hyaluronan)이라는 특정 조직 성분을 분해하는 효소입니다. 췌장 종양은 대개 다량의 히알루론산을 가지고 있으며, 이를 제거함으로써 종양 성장을 줄일 수 있는지 확인하고자 합니다.",
+ "summary_ko": "이 연구는 진행성 췌장암 환자를 대상으로 시험약인 PEGPH20의 좋은 영향과 나쁜 영향을 평가하기 위해 진행되었습니다. PEGPH20은 종양 내에 많이 존재하는 히알루론산(hyaluronan)이라는 특정 조직 성분을 분해하는 효소입니다. 히알루론산을 제거함으로써 종양의 성장을 억제하고 암을 줄이는 효과를 기대할 수 있습니다. 본 임상시험은 Memorial Sloan Kettering Cancer Center에서 목표 인원 110명을 대상으로 진행했습니다.",
  "summary_source": "llm",
  "tags": [
   "Gemcitabine",
@@ -60,14 +60,14 @@
   "16-1066"
  ],
  "title": "Study Of Gemcitabine, Nab-paclitaxel, PEGPH20 and Rivaroxaban for Advanced Pancreatic Adenocarcinoma",
- "title_ko": "진행성 췌장관선암 환자를 대상으로 한 젬시타빈, 냅-파클리탁셀, PEGPH20 및 리바록사반 병용 연구",
+ "title_ko": "진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병용 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
    "Advanced Pancreatic Ductal Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 기관생명윤리위원회(IRB)의 승인을 받은 서면 동의서를 작성한 환자\n- 조직학적으로 확진된 국소 진행성 절제 불가능(3기) 또는 4기 췌관선암(PDAC)\n- RECIST v1.1 기준에 따른 측정 가능 또는 평가 가능한 병변\n- 국소 진행성 환자의 경우 이전 방사선치료, 수술, 항암치료 경험이 없어야 함\n- 전이성 환자의 경우, 비전이성 단계에서 보조치료로 시행한 5-FU 또는 젬시타빈 치료는 마지막 투여 후 6개월 이상 경과하고 2등급 이상의 치료 관련 독성이 없는 경우 허용됨\n- Karnofsky 수행능력(Karnofsky Performance Status) 70% 이상\n- 예상 여명 3개월 이상\n- 만 18세 이상\n\n제외 기준:\n- 중추신경계 침범 또는 뇌전이 확인된 환자\n- 뉴욕심장협회(NYHA) 3기 또는 4기 심장 질환 또는 최근 12개월 이내 심근경색\n- 출혈 위험이 증가되어 있는 환자\n- 동맥 혈전증 또는 증상이 있는 폐색전증의 과거력이 있는 환자\n- 활동성 및 조절되지 않는 세균, 바이러스, 진균 감염이 있는 환자\n- 히알루론니다제(hyaluronidase)에 대한 알레르기력이 있는 환자\n- 임신 중이거나 수유 중인 여성\n- 최근 3년 이내에 다른 원발암 병력이 있는 환자 (단, 비흑색종 피부암이나 완치된 자궁경부 상피내암은 제외)",
+  "eligibility_ko": "선정 기준:\n- 기관생명윤리위원회(IRB)의 승인을 받은 서면 동의서 서명 완료\n- 조직학적으로 확인된 국소 진행성 수술 불가(3기) 또는 4기(Stage IV) 췌장관선암(PDAC)\n- RECIST v1.1 기준에 따른 CT 또는 MRI상의 측정 가능 또는 평가 가능 병변\n- 국소 진행성 환자의 경우 이전 방사선치료, 수술, 항암치료 이력이 없음\n- 전이성 환자의 경우 비전이성 단계에서 5-FU 또는 gemcitabine을 보조요법으로 받은 경우 마지막 투여 후 최소 6개월 경과 및 2등급 이상의 치료 관련 독성이 없는 경우 허용\n- Karnofsky 수행능력(Karnofsky Performance Status) ≥70%\n- 기대 여명 ≥3개월\n- 나이 ≥18세\n- 가임기 여성의 경우 혈청 임신 테스트 음성\n\n제외 기준:\n- 중추신경계 침범 또는 뇌전이 확인\n- 뉴욕심장협회(NYHA) 3기 또는 4기 심장 질환 또는 지난 12개월 이내 심근경색\n- 임상적으로 유의한 경동맥 질환 확인\n- 출혈 위험 증가 확인\n- 활성 상태의 세균, 바이러스 또는 진균 감염\n- 히알루로니다제(hyaluronidase)에 대한 알려진 알레르기\n- 인공 심장 판막 보유\n- 현재 임신 중이거나 수유 중인 여성\n- 덱사메타손(dexamethasone) 불내성\n- 비흑색종 피부암이나 완치된 자궁경부 상피내암을 제외하고 지난 3년 이내 다른 원발암 병력이 있는 경우\n- 일과성 허혈발작(TIA) 또는 뇌혈관사고(CVA) 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Signed, written Institutional Review Board (IRB)-approved Informed Consent Form (ICF).\n* Histologically confirmed locally advanced unresectable (Stage III) or Stage IV PDAC.\n* Measurable or evaluable disease on computed tomography (CT) or magnetic resonance imaging (MRI) scan per RECIST v1.1.\n* For patients with locally advanced disease, no previous radiotherapy, surgery, chemotherapy, or investigational therapy for the treatment of PDAC is permitted. For patients with metastatic disease, prior treatment for non-metastatic disease with 5-FU or gemictabine administered as radiation sensitizer, or as a cytotoxic therapy, in the adjuvant setting is allowed, provided at least 6 months have elapsed since completion of the last dose and no ≥ Grade 2 treatment-related toxicities are present.\n* Karnofsky Performance Status ≥70%.\n* Life expectancy ≥3 months.\n* Age ≥18 years.\n* A negative serum pregnancy test, if female of reproductive potential.\n* Screening clinical laboratory values as follows, performed within 14 days prior to day 1:\n\n  * Total bilirubin ≤1.5 times upper limit of normal (ULN).\n  * Aspartate aminotransferase (\\[AST\\]; serum glutamic oxaloacetic transaminase \\[SGOT\\]) and alanine aminotransferase (\\[ALT\\]; serum glutamic pyruvate transaminase \\[SGPT\\]) ≤2.5 times ULN, (if liver metastases are present, then ≤5 times ULN is allowed).\n  * Serum creatinine ≤2.0 mg/dL or calculated creatinine clearance ≥60 mL/min.\n  * Serum albumin ≥3.0 g/dL.\n  * Absolute neutrophil count (ANC) ≥1,500 cells/mm3.\n  * Platelet count ≥100,000 plt/mm3.\n  * Hemoglobin ≥9 g/dL\n  * Prothrombin time (PT)/international normalized ratio (INR) within normal limits (±15%) or within therapeutic range if on warfarin.\n  * Partial thromboplastin time (PTT) within normal limits (±15%).\n* For men and women of reproductive potential, agreement to use an effective contraceptive method from the time of screening and throughout their time on study. Effective contraceptive methods consist of prior sterilization, intra-uterine device, oral or injectable contraceptives, and/or barrier methods. Abstinence alone is not considered an adequate contraceptive measure for the purposes of this study.\n\nExclusion Criteria:\n\n* Known central nervous system involvement or brain metastases.\n* New York Heart Association Class III or IV cardiac disease or myocardial infarction within the past 12 months.\n* Known, clinically significant carotid artery disease.\n* Known, increased risk of bleeding.\n* Patients with TE event occurring \\> 6months prior to enrollment and receiving active anticoagulation.\n* Patients with any prior history of arterial thrombosis or symptomatic pulmonary embolism.\n* Patients with current use of megestrol acetate (use with 10 days of Day 1) will be excluded.\n* Active, uncontrolled bacterial, viral, or fungal infection requiring systemic therapy.\n* Known active infection with human immunodeficiency virus, hepatitis B, or hepatitis C.\n* Known allergy to hyaluronidase.\n* Patients with prosthetic heart valves\n* Women currently pregnant or breastfeeding.\n* Intolerance of dexamethasone.\n* History of another primary cancer within the last 3 years with the exception of non-melanoma skin cancer or curatively-treated cervical carcinoma in-situ.\n* History of transient ischemic attack (TIA) or cerebrovascular accident (CVA).\n* Any other disease, metabolic dysfunction, physical examination finding or clinical laboratory finding that leads to reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug, that may affect the interpretation of the results, or that may render the subject at high risk for treatment complications.\n* Other unspecified reasons that, in the opinion of the Investigator, make the subject unsuitable for the study.\n* Inability to comply with study and follow-up procedures as judged by the Investigator.",
   "enrollment": 110,
   "has_results": false,
@@ -86,16 +86,16 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "뇌전이 환자",
-    "심장 질환 또는 최근 심근경색 병력",
-    "출혈 위험이 증가된 환자",
-    "활동성 감염이 있는 환자",
-    "다른 암 병력"
+    "뇌전이 또는 중추신경계 침범",
+    "심장 질환 또는 심근경색 병력",
+    "출혈 위험 증가",
+    "활동성 감염",
+    "최근 3년 이내 다른 암 병력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "국소 진행성 또는 전이성 췌관선암 환자를 위한 임상시험입니다.",
+   "notes_ko": "이전 치료력이 없는 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

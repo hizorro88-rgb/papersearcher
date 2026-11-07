@@ -23,12 +23,27 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [전이성 KRAS G12D 변이 췌장암 1차 치료에서 졸돈라십(RMC-9805) 및 다락소나십(RMC-6236) 병용요법과 젬…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
-| [KRAS G12D 변이 전이성 췌관선암 환자의 1차 치료로서 Zoldonrasib과 연구자 선택 항암화학요법 병용투여 대 위…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib 및 daraxonrasib 병용요법과 젬시타빈/납-…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 졸돈라시브(zoldonrasib)와 항암화학요법 병용요법에 대한 3상 임…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (1)
+## 타임라인 (2)
 
+<a id="pmid-42988458"></a>
+#### [췌장암 치료약물농도감시를 위한 사람 혈장 내 4종 KRAS 억제제(RMC-6236, RMC-9805, RMC-7977, MRTX1133)의 동시 LC-MS/MS 정량분석법](https://pubmed.ncbi.nlm.nih.gov/42988458/)
+<small>Simultaneous LC-MS/MS quantification of four KRAS inhibitors (RMC-6236, RMC-9805, RMC-7977, and MRTX1133) in human plasma: toward therapeutic drug monitoring in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-11-05 · PubMed · Bioanalysis · 중요도 0.60
+
+본 연구는 췌장관선암(PDAC) 환자의 치료약물농도감시(TDM) 및 임상시험 지원을 위해 사람 혈장 내 4가지 KRAS 억제제(RMC-6236, RMC-9805, RMC-7977, MRTX1133)를 동시에 정량 분석하는 액체 크로마토그래피-질량분석법(LC-MS/MS)을 개발했습니다. 개발된 분석법은 0.1~50 ng/0.1 mL 범위에서 우수한 선형성(r² > 0.991)을 보였습니다. 정량 하한선은 MRTX1133이 0.02 ng, 나머지 3개 약물이 0.1 ng으로 확인되었습니다. 이 분석법은 다중 KRAS 억제제의 약동학 연구 및 바이오마커 기반 임상시험 지원에 활용될 수 있습니다.
+
+- RMC-6236, RMC-9805, RMC-7977, MRTX1133 등 4종의 KRAS 억제제를 사람 혈장에서 동시에 정량하는 분석법을 개발했습니다.
+- 0.1~50 ng/0.1 mL 혈장 범위에서 결정계수(r²) 0.991 이상의 우수한 선형성을 검증했습니다.
+- 정량 하한선은 MRTX1133이 0.02 ng, RMC-6236, RMC-9805, RMC-7977이 각각 0.1 ng이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988458/) · [DOI](https://doi.org/10.1080/17576180.2026.2758539) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988458)</small>
+
+---
 <a id="pmid-42963543"></a>
 #### [췌장암에서의 KRAS: 분자생물학부터 혁신적 치료제까지](https://pubmed.ncbi.nlm.nih.gov/42963543/)
 <small>KRAS in pancreatic cancer: from molecular biology to transformative therapeutics</small>

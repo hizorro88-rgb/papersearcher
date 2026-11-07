@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma has an extremely poor prognosis. Pancreatic ductal adenocarcinoma harbors a multidomain intratumoral microbial community dominated by bacteria and also containing fungi; its composition differs fundamentally from that of normal pancreatic tissue and drives malignant progression through three major axes: inflammatory-immune signaling, metabolic-epigenetic regulation, and stromal remodeling. Gammaproteobacterial lipopolysaccharide establishes a chronic proinflammatory microenvironment through the Toll-like receptor 4-nuclear factor kappa B axis, whereas in situ gemcitabine inactivation by the long isoform of bacterial cytidine deaminase represents the best-supported microbiome-mediated mechanism of drug resistance to date. In experimental systems, Fusobacterium nucleatum has been linked to tumor-cell invasion and alternatively activated macrophage polarization. In mouse and cell models, intratumoral fungi have been implicated in immunosuppressive signaling through the C-type lectin receptor dectin-1-interleukin 33 axis and the mannose-binding lectin-complement pathway; their relevance to human pancreatic ductal adenocarcinoma remains debated. These three axes may converge on stromal activation and epithelial-mesenchymal transition and contribute to invasion and treatment resistance. Antimicrobial strategies targeting drug-resistance-associated bacteria can restore gemcitabine efficacy in animal experiments and have been explored experimentally alongside programmed cell death protein 1 blockade; the clinically appropriate patient populations and optimal sequencing of such combinations remain to be defined in prospective trials.",
+ "authors": [
+  "Qi Z",
+  "Wang M",
+  "Li Y",
+  "Tian L",
+  "Liu J"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42991517",
+ "importance": 0.66,
+ "key_points_ko": [
+  "종양 내 감마프로테오박테리아(Gammaproteobacteria)가 분비하는 효소는 젬시타빈(gemcitabine)을 직접 불활성화하여 항암제 내성을 유발합니다.",
+  "푸소박테리움 눅레아툼(Fusobacterium nucleatum) 및 진균류는 암세포 침윤과 면역억제성 미세환경 조성을 촉진합니다.",
+  "동물실험에서 항균 전략을 통해 젬시타빈 효능을 회복시켰으며 PD-1 억제제와의 병용 가능성이 탐색되고 있습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1970900",
+  "nct": [],
+  "pmcid": "PMC13736042",
+  "pmid": "42991517"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991517/"
+ },
+ "summary_ko": "본 논문은 췌장관선암(PDAC) 조직 내에 존재하는 마이크로바이옴(미생물무리)이 암의 진행과 치료 저항성에 미치는 분자적 기전을 검토한 종합 연구입니다. 종양 내 세균과 진균은 염증·면역 신호전달, 대사·후성유전 조절, 기질 리모델링을 통해 암 세포의 악성화를 촉진합니다. 특히 감마프로테오박테리아(Gammaproteobacteria) 효소에 의한 젬시타빈(gemcitabine) 불활성화는 대표적인 내성 기전으로 밝혀졌습니다. 항균 치료를 통해 항암제 반응성을 회복시키는 전략이 동물실험에서 확인되었으며 임상 적용을 위한 추가 연구가 진행 중입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Molecular mechanisms by which the intratumoral microbiome drives pancreatic ductal adenocarcinoma progression and therapeutic response",
+ "title_ko": "종양 내 마이크로바이옴이 췌장관선암의 진행 및 치료 반응을 유도하는 분자적 기전",
+ "trial": null,
+ "type": "paper"
+}

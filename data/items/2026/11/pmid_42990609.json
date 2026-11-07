@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic fibroblasts play a significant role in the development, progression, and treatment limitations of pancreatic ductal adenocarcinoma (PDAC), making them an essential area of research. Traditional 2D in vitro models fail to fully capture complexities of these stromal cells in PDAC such as interactions, morphology, and response to stimuli present in in vivo environments, making 3D culture systems a promising platform for further studies.\nMETHODS: We compared the behavior of pancreatic fibroblasts in 2D and 3D culture systems, by analyzing the effects of different cultures on transcriptomics. Primary murine pancreatic fibroblasts were cultured in monolayers and 3D spheroids. An indirect co-culture system between fibroblasts and KC murine pancreatic cancer cells (KCs) served to investigate paracrine effects of cancer cells. RNA sequencing and RT-PCR were utilized for data analysis, supported by Oil Red O staining.\nRESULTS: Inactivation of fibroblasts in the 3D magnetic levitation model was noted by downregulation of activation markers Acta2, Fap, and Ctgf, and upregulation of a lipid-droplet stabilizer Plin2. The HIF-1 signaling pathway was enriched in the 3D model compared to 2D. Oil Red O staining demonstrated upregulation of cytoplasmic lipid droplets, in 3D vs. 2D culture models. Activation marker downregulation and lipid accumulation seen in both monocultures and co-cultures in 3D indicated a cell-specific behavior rather than tumor cell influence.\nCONCLUSION: The 3D magnetic levitation culture could serve as a model to study fibroblasts in an inactivated state, while co-culture with KC tumor cells could be helpful for cancer-fibroblast paracrine interaction studies.",
+ "authors": [
+  "Javakhishvili N",
+  "Zourelidis A",
+  "Trojanowicz B",
+  "Sunami Y",
+  "Kleeff J"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42990609",
+ "importance": 0.59,
+ "key_points_ko": [
+  "3차원(3D) 배양 모델에서 섬유아세포 활성화 마커인 Acta2, Fap, Ctgf의 발현이 감소하고 비활성화가 유도되었습니다.",
+  "2차원 배양에 비해 3D 배양 모델에서 HIF-1 신호전달 경로가 풍부해지고 세포질 내 지방 적주 축적이 증가했습니다.",
+  "섬유아세포의 활성화 억제 및 지방 축적은 종양 세포의 영향이 아닌 3D 배양 특성에 의한 자가 행동으로 확인되었습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1016/j.bbrep.2026.102843",
+  "nct": [],
+  "pmcid": "PMC13734846",
+  "pmid": "42990609"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42990609/"
+ },
+ "summary_ko": "본 연구는 마우스 췌장 섬유아세포를 3차원(3D) 자기 부유 배양 모델에서 평가한 기초 연구입니다. 연구진은 3D 배양 환경이 2차원 배양에 비해 췌장 섬유아세포의 활성화 마커 발현을 억제하고 비활성화 상태를 유도함을 확인했습니다. 췌장암 세포와의 간접 공배양 시에도 이러한 섬유아세포 비활성화와 지방 축적이 유지되었습니다. 이 연구 결과는 췌장암과 암기질 세포 간의 상호작용을 연구하기 위한 새로운 3D 세포 모델의 유용성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Three-dimensional culture suppresses pancreatic fibroblast activation and limits paracrine signaling between pancreatic cancer cells and fibroblasts",
+ "title_ko": "3차원 배양이 췌장 섬유아세포 활성화를 억제하고 췌장암 세포와 섬유아세포 간의 분비 신호를 제한함",
+ "trial": null,
+ "type": "paper"
+}

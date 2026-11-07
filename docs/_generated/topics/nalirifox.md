@@ -17,10 +17,11 @@ search:
 - 종류: 요법
 - 별칭: NALIRIFOX, liposomal irinotecan, Onivyde, nal-IRI
 
-## 관련 임상시험 (26)
+## 관련 임상시험 (27)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [A Single-Arm Study of Nimotuzumab Combined With NALIRIFOX as First-Li…](../trials/NCT07920731.md) | 2상 | 초대 모집 | - |
 | [젬시타빈 기반 치료 실패 후 전이성 췌장암 환자에서 YL201과 표준 화학요법의 효능 및 안전성을 비교하는 임상시험](../trials/NCT07803783.md) | 3상 | 모집 예정 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자를 위한 신보조 요법으로서 HRS-4642 병용 화학요법 (면역요법 병용 또는 비병용)](../trials/NCT07691593.md) | 2상 | 모집 예정 | - |
@@ -46,7 +47,7 @@ search:
 | [수술 불가능한 췌장암 환자를 대상으로 한 신틸리맙(sintilimab) 병용 화학요법 및 방사선 치료 임상 2상](../trials/NCT06050317.md) | 2상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 AK104와 항암화학요법 병용 1차 치료 임상시험](../trials/NCT05859750.md) | 2상 | 모집 중 | - |
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌장암 2차 치료를 위한 onvansertib과 nanoliposomal irinotecan, leucovorin,…](../trials/NCT04752696.md) | 2상 | 조기 종료 | - |
+| [전이성 췌장관선암 환자의 2차 치료로서 onvansertib과 나노리포조말 이리노테칸, 류코보린, 플루오로우라실 병용요법 임…](../trials/NCT04752696.md) | 2상 | 조기 종료 | - |
 
 ## 타임라인 (2)
 

@@ -1,0 +1,60 @@
+{
+ "abstract": "Following the publication of the above article and an Expression of concern statement (doi: 10.3892/ijo.2025.5786) that was published after a concerned reader drew the Editor's attention to the fact that, regarding the western blots shown in Figs. 4B and 5B, the AMPK panel in Fig. 4B looked strikingly similar to the ATG5 panel in Fig. 5B, and the p‑AMPK panel in Fig. 4B looked highly similar to the ATG7 panel in Fig. 5B, the authors have now replied to the Editorial Office to address this issue. After carefully reviewing these figures, the authors have realized that the western blot panels from Fig. 5B were inadvertently duplicated and pasted into Fig. 4B, which resulted in the visual similarity between these two figures in the published paper. This error arose during the multiple rounds of revisions and adjustments, which led to an unintended copy‑pasting error. The revised version of Fig. 4, now showing the correct data for the AMPK and the p‑AMPK blots in Fig. 4B, is shown opposite. The authors regret that these errors were not identified prior to the publication of the article, and thank the Editor of International Journal of Oncology for allowing them the opportunity to publish this corrigendum. All the authors agree with the publication of this corrigendum, and apologize to the readership for any inconvenience caused. [International Journal of Oncology 50: 232‑240, 2017; DOI: 10.3892/ijo.2016.3770].",
+ "authors": [
+  "Zhang X",
+  "Wu D",
+  "Aldarouish M",
+  "Yin X",
+  "Li C",
+  "Wang C"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42992572",
+ "importance": 0.6,
+ "key_points_ko": [
+  "2017년 국제 종양학 저널(Int J Oncol)에 출판된 췌장암 기초 연구 논문의 이미지 중복 오류 정정 고지입니다.",
+  "그림 4B의 AMPK 및 p-AMPK 단백질 분석 이미지를 올바른 실험 데이터로 교체하여 재수록했습니다.",
+  "논문의 핵심 데이터 이미지를 정정하는 절차이며 clinical 연구나 환자 치료 지침 변화에는 영향이 없습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.3892/ijo.2026.5954",
+  "nct": [],
+  "pmcid": "PMC13735020",
+  "pmid": "42992572"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992572/"
+ },
+ "summary_ko": "본 내용은 2017년에 발표된 췌장암 대사 치료 표적 ETS-1에 관한 전임상 연구 논문의 공식 정정 고지입니다. 저자들은 수정 논의 과정에서 그림 4B의 단백질 분석(western blot) 데이터에 실수로 중복 이미지가 삽입된 오류를 확인했습니다. 올바른 AMPK 및 p-AMPK 단백질 분석 데이터로 정정된 그림 4를 새로 반영했습니다. 저자들은 출판 전 오류를 발견하지 못한 점에 대해 사과하고 올바른 데이터를 공개했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Corrigendum] ETS‑1: A potential target of glycolysis for metabolic therapy by regulating glucose metabolism in pancreatic cancer",
+ "title_ko": "[정정] ETS-1: 췌장암의 당 대사 조절을 통한 대사 치료의 잠재적 당분해 표적",
+ "trial": null,
+ "type": "paper"
+}

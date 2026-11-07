@@ -1,0 +1,65 @@
+{
+ "abstract": "A 77-year-old woman was diagnosed with unresectable pancreatic cancer with multiple liver metastases and peritoneal dissemination. Drug therapy was initiated and a gastroduodenal metallic stent was inserted 2 weeks later to treat the stenosis. Outpatient chemotherapy was continued, and evaluation 3 months later showed shrinkage of both the primary and metastatic lesions. Although dietary intake remained normal, the patient presented with loss of appetite and vomiting 4 months after stent placement. Abdominal X-ray revealed a fracture of the stent and distal fragments that had migrated to the horizontal portion of the duodenum. There were no abdominal symptoms, and the prolapsed stent disappeared 1 week later. There were no further symptoms due to restenosis, and treatment was continued. However, 2 years and 6 months after the initial consultation, her condition worsened, with restenosis. The stent was replaced, but the patient ultimately died from disease progression.",
+ "authors": [
+  "Kamo H",
+  "Wada H",
+  "Miyamoto Y",
+  "Nakai Y",
+  "Sumise Y",
+  "Harino Y",
+  "Okitsu N",
+  "Okitsu H"
+ ],
+ "categories": [
+  "supportive",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42987848",
+ "importance": 0.46,
+ "key_points_ko": [
+  "위십이지장 금속 스텐트를 유치한 77세 췌장암 환자에서 유치 4개월 후 스텐트 파손 및 파편 이동이 발생했습니다.",
+  "이동한 스텐트 파편은 추가 수술이나 복부 합병증 없이 1주일 만에 자연 배출되었습니다.",
+  "종양 축소 후 2년 6개월 동안 항암 치료를 유지하였으며 이후 재폐색으로 스텐트 교체 시술을 받았습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42987848"
+ },
+ "pub_types": [
+  "Case Reports",
+  "English Abstract",
+  "Journal Article"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gan To Kagaku Ryoho",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42987848/"
+ },
+ "summary_ko": "수술이 불가능한 전이성 췌장암 환자에서 위배출구 폐색 완화를 위해 유치한 금속 스텐트가 파손된 케이스 보고입니다. 항암 치료 후 종양이 축소되었으나 스텐트 유치 4개월 뒤 스텐트가 파손되어 파편이 십이지장으로 이동했습니다. 스텐트 파편은 1주일 후 자연 배출되었으며 큰 합병증 없이 항암 치료를 계속 유지했습니다. 진단 2년 6개월 후 재폐색이 발생해 스텐트를 교체했으나 결국 질병 진행으로 사망했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Fracture of a Gastrointestinal Stent Placed for Gastric Outlet Obstruction Due to Unresectable Pancreatic Cancer]",
+ "title_ko": "수술 불가능한 췌장암으로 인한 위배출구 폐색에 유치한 위장관 스텐트 파손 1예",
+ "trial": null,
+ "type": "paper"
+}

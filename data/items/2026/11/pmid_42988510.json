@@ -1,0 +1,61 @@
+{
+ "abstract": "RATIONALE AND OBJECTIVES: To preliminarily develop and validate an integrated model based on clinical features and rapid-kVp-switching dual-energy CT (DECT) 3D volumetric parameters for the noninvasive prediction of a novel Grade of Malignancy (GOM) in pancreatic ductal adenocarcinoma (PDAC)-a composite index integrating histopathological differentiation and Ki-67 index.\nMATERIALS AND METHODS: This retrospective study enrolled 183 patients with pathologically confirmed PDAC. Patients were randomly allocated into training (n=128) and validation (n=55) cohorts. From the portal venous phase scans, three quantitative 3D volumetric parameters were extracted from the tumor volume: iodine concentration (IC), the slope of the spectral attenuation curve, and effective atomic number. Independent predictors for the GOM were identified through univariate and multivariate logistic regression analysis. The discriminatory performance of the developed models was evaluated using receiver operating characteristic curve analysis, and clinical utility was assessed with decision curve analysis.\nRESULTS: The integrated model, which combined the DECT parameter (3D VOI-IC) and CA125, demonstrated superior predictive performance compared to models using clinical or DECT features alone. In the training cohort, the integrated model achieved an area under the curve (AUC) of 0.821 (95% CI: 0.743-0.899), which was robustly validated with an AUC of 0.806 (95% CI: 0.684-0.928) in the validation cohort. Decision curve analysis confirmed that this combined model provided the highest clinical net benefit across a wide range of threshold probabilities.\nCONCLUSION: Our findings suggest that an integrated model incorporating the 3D volumetric parameter IC from DECT and CA125 could be a useful and noninvasive adjunct for preoperative prediction of the comprehensive GOM in PDAC, though further validation is needed.",
+ "authors": [
+  "Li M",
+  "Wang B",
+  "Ming S",
+  "Cheng P",
+  "Wang M",
+  "Zhang W",
+  "Li J",
+  "Shi D"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988510",
+ "importance": 0.75,
+ "key_points_ko": [
+  "병리학적으로 확진된 췌관선암 환자 183명(훈련군 128명, 검증군 55명)을 분석했습니다.",
+  "이중 에너지 CT의 요오드 농도(IC)와 CA125를 결합한 통합 모델의 악성도 예측 성능(AUC)은 훈련군 0.821, 검증군 0.806을 기록했습니다.",
+  "통합 모델은 단독 영상 또는 임상 지표 모델에 비해 더 우수한 예측 성능과 임상적 순이익을 보였습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1016/j.acra.2026.09.001",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988510"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Acad Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988510/"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자 183명을 대상으로 이중 에너지 CT(DECT)의 3차원 부피 매개변수와 임상 정보를 활용하여 종양의 악성도 등급(GOM)을 비침습적으로 예측하는 연구입니다. 환자는 훈련 코호트 128명과 검증 코호트 55명으로 나누어 분석되었습니다. 연구 결과, DECT의 요오드 농도(IC) 측정값과 혈액 종양표지자 CA125를 결합한 통합 모델이 우수한 예측 성능을 보였습니다. 훈련 코호트에서의 곡선하면적(AUC)은 0.821이었으며, 검증 코호트에서도 AUC 0.806으로 높은 정확도를 유지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Noninvasive Prediction of Tumor Malignancy Grade in Pancreatic Ductal Adenocarcinoma with Dual-Energy CT: A Novel Index Integrating Histopathological Differentiation and Ki-67",
+ "title_ko": "이중 에너지 CT를 이용한 췌관선암의 종양 악성도 비침습적 예측: 조직학적 분화도와 Ki-67을 통합한 신규 지표",
+ "trial": null,
+ "type": "paper"
+}

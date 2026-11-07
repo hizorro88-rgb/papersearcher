@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Mehra V",
+  "Gandhi K",
+  "Freixinos C",
+  "Das P",
+  "Dash NR",
+  "Sharma G",
+  "Bhardwaj M",
+  "Gongora C"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988963",
+ "importance": 0.6,
+ "key_points_ko": [
+  "P38MAPK 표적 치료에 관한 기존 게재 논문의 정정(Erratum) 발표입니다.",
+  "구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1007/s12032-026-03442-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988963"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988963/"
+ },
+ "summary_ko": "본 논문은 췌장관선암(PDAC)에서 p38 mitogen-activated protein kinase(P38MAPK) 표적 치료 접근법을 다룬 논문의 정정 공지입니다. 원문 논문에 발생한 오류를 수정하기 위해 발표되었습니다. 구체적인 수정 내용과 세부 연구 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction: P38MAPK targeting in pancreatic ductal adenocarcinoma: Promising interventional approach for breaking drug resistance and tumor control",
+ "title_ko": "정정: 췌장관선암에서 P38MAPK 표적 치료: 약물 저항성 극복 및 종양 조절을 위한 유망한 중재적 접근법",
+ "trial": null,
+ "type": "paper"
+}

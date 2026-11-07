@@ -20,11 +20,12 @@
  "id": "nct:NCT05239143",
  "importance": 0.7,
  "key_points_ko": [
-  "MUC1-C 항원을 표적으로 하는 동종 유래 CAR-T 세포 치료제 P-MUC1C-ALLO1의 안전성과 적정 용량을 탐색하는 1상 임상시험입니다.",
-  "이전 치료 후 진행했거나 기존 표준 치료가 불가능한 전이성 또는 국소 진행성 고형암 환자 180명을 모집합니다.",
-  "용량 증량 설계를 통해 2상 권장 용량(RP2D)을 도출하고 내약성 및 초기 유효성을 평가합니다."
+  "대상 질환에는 췌장암을 포함한 진행성 또는 전이성 고형암이 포함됩니다.",
+  "P-MUC1C-ALLO1은 Mucin1 cell surface associated C-Terminal(MUC1-C) 항원을 표적하는 동종 유래 키메라 항원 수용체(CAR) T 세포 치료제입니다.",
+  "3+3 용량 증량 디자인을 통해 권장 2상 용량(RP2D)을 찾는 것을 목표로 합니다.",
+  "목표 등록 인원은 180명입니다."
  ],
- "last_updated": "2026-11-06",
+ "last_updated": "2026-11-07",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05239143"
  },
- "summary_ko": "MUC1-C 항원을 표적으로 하는 기성품 형태의 동종 키메라 항원 수용체 T세포(CAR-T) 치료제인 P-MUC1C-ALLO1을 평가하는 1상 임상시험입니다. 췌장암, 대장암, 유방암 등 절제 불가능한 진행성 또는 전이성 고형암 성인 환자 180명을 대상으로 진행됩니다. 단회 및 다회 투여 용량 증량 코호트를 통해 2상 권장 용량(RP2D)을 결정하고 안전성과 종양 반응을 확인합니다. 필요에 따라 안전 스위치 활성화를 위한 리미두시드(Rimiducid)가 투여될 수 있습니다.",
+ "summary_ko": "이 임상시험은 진행성 또는 전이성 상피세포 유래 고형암 성인 환자를 대상으로 동종 유래 CAR-T 세포 치료제인 P-MUC1C-ALLO1의 안전성과 내약성을 평가하기 위한 1상 공개, 용량 증량 및 코호트 확장 연구입니다. MUC1-C 항원을 표적하는 P-MUC1C-ALLO1을 단독 및 다중 투여하여 권장 2상 용량(RP2D)을 결정합니다. 환자들은 치료 후 안전성, 내약성, 반응에 대한 연속적인 검사를 받게 됩니다. 초록에 유효성 결과나 환자 수는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "P-MUC1C-ALLO1 Allogeneic CAR-T Cells in the Treatment of Subjects With Advanced or Metastatic Solid Tumors",
- "title_ko": "진행성 또는 전이성 고형암 환자를 대상으로 한 동종 유래 CAR-T 세포 치료제 P-MUC1C-ALLO1의 1상 임상시험",
+ "title_ko": "진행성 또는 전이성 고형암 환자를 대상으로 한 동종 유래 P-MUC1C-ALLO1 CAR-T 세포 치료제 1상 임상시험",
  "trial": {
   "conditions": [
    "Breast Cancer",
@@ -65,7 +66,7 @@
    "Gastric Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 기대 여명이 3개월을 초과하는 성인 환자\n- 절제 불가능한 국소 진행성 또는 전이성 상피 유래 고형암(췌장암 등)으로 확진된 환자\n- 이전 치료 중 또는 이후에 질병이 진행했거나, 치료 독성으로 지속할 수 없거나, 기존 치료 옵션 대상이 아니거나 거부한 환자\n- 측정 가능한 병변(measurable disease)이 있는 환자\n- ECOG 수행능력(ECOG PS) 평가 0~1점 또는 Karnofsky 수행도 70% 이상\n- 보관된 종양 조직 검체가 있거나 신규 조직 생검에 동의한 환자\n\n제외 기준:\n- 뇌전이 또는 증상이 있는 중추신경계(CNS) 침범이 있는 경우\n- 5년 이내 치료가 필요한 다른 활동성 암 병력이 있는 경우(저위험 피부암 제외)\n- 활동성 또는 과거 자가면역 질환 병력이 있는 경우\n- 뉴욕심장학회(NYHA) 3~4등급 심부전, 불안정 협심증, 심근경색 병력 등 중증 심장 질환이 있는 경우\n- 활동성 전신 감염증(바이러스, 세균, 진균)이 있는 경우",
+  "eligibility_ko": "선정 기준:\n- 18세 이상의 남성 또는 여성으로 기대여명이 3개월 초과인 환자\n- 수술 불가능한 국소 진행성 또는 전이성 상피세포 유래 암으로 확진된 환자\n- 이전 치료 중 또는 치료 후 진행되었거나, 현재 치료에 불내성/독성이 발생했거나, 다른 기존 치료 옵션에 부적격이거나 거부했으며 측정 가능한 병변이 있는 환자\n- Eastern Cooperative Oncology Group(ECOG) 수행능력 상태가 0에서 1이거나 Karnofsky 수행능력 상태가 70% 이상인 환자\n- 사전 결정된 매개변수 내에서 적절한 주요 장기 기능을 가진 환자\n\n제외 기준:\n- 부적절한 정맥 접근성을 가진 환자\n- 연구 대상 악성종양 외에 활동성 제2의 악성종양이 있는 환자\n- 임신 중이거나 모유 수유 중인 환자\n- 자가면역 질환의 병력이 있거나 활동성 자가면역 질환이 있는 환자\n- 뇌졸중, 간질 등 유의미한 중추신경계(CNS) 질환 병력이 있는 환자\n- 활동성 전신 감염이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Males or females, Subjects ≥18 years with life expectancy \\>3 months\n* Must have a confirmed diagnosis of unresectable, locally advanced or metastatic epithelial-derived cancer\n* Must have progressed during or after last therapy, developed intolerance/toxicity to current treatment, or ineligible or refused other existing treatment options, and have measurable disease\n* Must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 or Karnofsky performance status ≥70%\n* Must have adequate vital organ function within pre-determined parameters\n* Must have archived tumor tissue available or consent to a biopsy collection\n* Must be willing to practice birth control\n* Must have a negative pregnancy test at screening and prior to initiating lymphodepletion chemotherapy or study drug administration\n* Must have recovered from toxicities due to prior therapies\n\nExclusion Criteria:\n\n* Has inadequate venous access\n* Has an active second malignancy (not disease free for at least 5 years) in addition to the studied malignancy, excluding low-risk neoplasms such as non-metastatic basal cell or squamous cell skin carcinoma\n* Is pregnant or lactating\n* Has a history of or active autoimmune disease\n* Has a history of significant central nervous system (CNS) disease, such as stroke, epilepsy\n* Has an active systemic (viral, bacterial, or fungal) infection\n* Has New York Heart Association (NYHA) Class III or IV heart failure, unstable angina, or a history of myocardial infarction or significant arrhythmia\n* Has any psychiatric or medical disorder that would preclude safe participation in and/or adherence to the protocol\n* Has received anticancer medications within 2 weeks of the time of initiating lymphodepletion\n* Has received immunosuppressive medications within 2 weeks of administration of P-MUC1C-ALLO1, and/or expected to require them while enrolled in the study\n* Has received systemic corticosteroid therapy within 1 week of the administration of P-MUC1C-ALLO1 or is expected to require it during the course of the study\n* Has known CNS metastases or symptomatic CNS involvement\n* Has a history of significant liver disease or active liver disease\n* Has a history of known genetic predisposition to HLH/MAS\n* Has received anti-cancer monoclonal antibody therapy within 4 weeks of initiating LD therapy",
   "enrollment": 180,
   "has_results": false,
@@ -83,16 +84,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "뇌전이 또는 중추신경계 침범",
-    "5년 이내의 다른 암 병력",
-    "자가면역 질환 병력",
-    "심근경색 또는 심부전 등 중증 심장 질환",
+    "활동성 제2의 악성종양 병력",
+    "임신 또는 수유 중",
+    "자가면역 질환 병력 또는 활동성 자가면역 질환",
+    "중추신경계(CNS) 질환 병력",
     "활동성 전신 감염"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 후 질병이 진행하였거나 기존 치료가 어려운 전이성 또는 국소 진행성 췌장암 및 고형암 환자",
+   "notes_ko": "이전 치료 후 진행되었거나 기존 치료가 부적절한 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,58 @@
+{
+ "abstract": "PURPOSE: Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal malignancy, with KRASG12D mutations present in approximately 40-45% of cases. Emerging RAS(ON) inhibitors, including RMC-6236, RMC-9805, RMC-7977, and MRTX1133, offer a promising precision medicine alternative to nonspecific chemotherapy. However, except for MRTX1133, published methods for quantifying these compounds in human plasma or blood remain unavailable.\nMETHODS: We developed a liquid chromatography-tandem mass spectrometry (LC-MS/MS) method for simultaneous quantification of RMC-6236, RMC-9805, RMC-7977, and MRTX1133 in human plasma. Plasma proteins were precipitated with ethanol using reserpine, verapamil, and labetalol as internal standards. Before LC-MS/MS analysis, 4,4'-methylenebis(2,6-diethylaniline) was added as a volumetric standard. Volumetric and internal-standard quantification produced comparable results. Due to matrix effects, analytes should be quantified using calibration curves prepared in spiked plasma.\nRESULTS: The method showed excellent linearity, with r2 > 0.991, across 0.1-50 ng per 0.1 mL plasma. The lower limit of quantification from spiked plasma (0.1 mL) was 0.1 ng for RMC-6236, RMC-9805, and RMC-7977, and 0.02 ng for MRTX1133.\nCONCLUSIONS: This first simultaneous assay for multiple KRASG12D inhibitors in human plasma supports pharmacokinetic studies and biomarker-driven PDAC clinical trials.",
+ "authors": [
+  "Sabbioni G"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [
+  "daraxonrasib",
+  "zoldonrasib"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988458",
+ "importance": 0.6,
+ "key_points_ko": [
+  "RMC-6236, RMC-9805, RMC-7977, MRTX1133 등 4종의 KRAS 억제제를 사람 혈장에서 동시에 정량하는 분석법을 개발했습니다.",
+  "0.1~50 ng/0.1 mL 혈장 범위에서 결정계수(r²) 0.991 이상의 우수한 선형성을 검증했습니다.",
+  "정량 하한선은 MRTX1133이 0.02 ng, RMC-6236, RMC-9805, RMC-7977이 각각 0.1 ng이었습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1080/17576180.2026.2758539",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988458"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Bioanalysis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988458/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자의 치료약물농도감시(TDM) 및 임상시험 지원을 위해 사람 혈장 내 4가지 KRAS 억제제(RMC-6236, RMC-9805, RMC-7977, MRTX1133)를 동시에 정량 분석하는 액체 크로마토그래피-질량분석법(LC-MS/MS)을 개발했습니다. 개발된 분석법은 0.1~50 ng/0.1 mL 범위에서 우수한 선형성(r² > 0.991)을 보였습니다. 정량 하한선은 MRTX1133이 0.02 ng, 나머지 3개 약물이 0.1 ng으로 확인되었습니다. 이 분석법은 다중 KRAS 억제제의 약동학 연구 및 바이오마커 기반 임상시험 지원에 활용될 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Simultaneous LC-MS/MS quantification of four KRAS inhibitors (RMC-6236, RMC-9805, RMC-7977, and MRTX1133) in human plasma: toward therapeutic drug monitoring in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장암 치료약물농도감시를 위한 사람 혈장 내 4종 KRAS 억제제(RMC-6236, RMC-9805, RMC-7977, MRTX1133)의 동시 LC-MS/MS 정량분석법",
+ "trial": null,
+ "type": "paper"
+}

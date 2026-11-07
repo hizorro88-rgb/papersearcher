@@ -1,0 +1,52 @@
+{
+ "abstract": "Solid pancreatic neoplasms comprise a heterogeneous group of tumors with distinct histopathological characteristics, biological behaviors, and therapeutic implications. Although pancreatic ductal adenocarcinoma (PDAC) is the predominant malignancy, non-ductal neoplasms, including pancreatic acinar cell carcinoma (PACC), pancreatic neuroendocrine tumors (PanNETs), solid pseudopapillary neoplasms (SPNs), and pancreatoblastoma, represent important diagnostic alternatives. This narrative review aims to summarize and compare the radiological and endoscopic features of solid pancreatic neoplasms, emphasizing their differential diagnosis and the contribution of endoscopic ultrasound (EUS)-guided tissue acquisition to diagnostic characterization. A narrative review of the literature was conducted, focusing on studies addressing CT, MRI, conventional and contrast-enhanced EUS, elastography, and EUS-guided tissue acquisition in the characterization and differential diagnosis of solid pancreatic tumors. PDAC typically demonstrates infiltrative growth and reduced enhancement, whereas non-ductal neoplasms may exhibit well-defined margins and variable vascular patterns. PACC may present as a well-circumscribed mass with heterogeneous enhancement and areas of cystic degeneration, while PanNETs frequently demonstrate hypervascularity, and SPNs often exhibit mixed solid and cystic components. However, substantial imaging overlap limits reliable histological differentiation. Beyond the morphological and vascular characterization provided by EUS, EUS-guided fine-needle biopsy (EUS-FNB), combined with histological and immunohistochemical analysis, plays a crucial role in establishing a definitive diagnosis, particularly for uncommon neoplasms. Emerging technologies, including radiomics and artificial intelligence (AI), offer promising opportunities for improving diagnostic characterization. Accurate differentiation of solid pancreatic neoplasms requires an integrated approach combining cross-sectional imaging, EUS, and histopathological assessment. Recognizing characteristic imaging patterns and understanding their limitations may improve diagnostic accuracy and guide appropriate tissue acquisition and therapeutic decision-making.",
+ "authors": [
+  "Mehdaoui C",
+  "Billioud C"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42991803",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.7759/cureus.119145",
+  "nct": [],
+  "pmcid": "PMC13739067",
+  "pmid": "42991803"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991803/"
+ },
+ "summary_ko": "Solid pancreatic neoplasms comprise a heterogeneous group of tumors with distinct histopathological characteristics, biological behaviors, and therapeutic implications. Although pancreatic ductal adenocarcinoma (PDAC) is the predominant malignancy, non-ductal neoplasms, including pancreatic acinar cell carcinoma (PACC), pancreatic neuroendocrine tumors (PanNETs), solid pseudopapillary neoplasms (SPNs), and pancreatoblastoma, represent important diagnostic alternatives.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Beyond Pancreatic Ductal Adenocarcinoma: A Narrative Review of the Radiological and Endoscopic Features of Solid Pancreatic Neoplasms",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "PURPOSE: Pancreatobiliary tumor serum markers have limited diagnostic utility. Bile has emerged as a promising matrix for biomarker discovery. Acute cholangitis may interfere with biomarker interpretation. This study evaluated the impact of cholangitis on selected tumor biomarkers and on iron metabolism.\nMATERIAL AND METHODS: In this prospective study, 117 patients treated with endoscopic retrograde cholangiopancreatography (ERCP) were included, with the following indications for the procedure: choledocholithiasis (n=70), cholangiocarcinoma (CCA) (n=24), and pancreatic cancer (PC) (n=23). Bile samples were obtained during ERCP and analyzed using ECLIA (CA19-9, PIVKA-II, AFP, CEA, ferritin, CA125), colorimetric assays (iron, TIBC), and ELISA (hepcidin). Patients were stratified by diagnosis and by the presence of cholangitis.\nRESULTS: Biliary infection did not significantly affect biliary CA19-9, CA125, or PIVKA-II across the analyzed disease groups. The most pronounced changes were observed in iron-related biomarkers, particularly in patients with CCA, who exhibited higher biliary iron, ferritin, and TIBC concentrations in the presence of concomitant cholangitis. Lower biliary hepcidin concentrations were observed only in patients with PC and concomitant cholangitis. However, these associations did not remain statistically significant after false discovery rate (FDR) adjustment.\nCONCLUSION: Biliary infection appears to have a limited effect on conventional biliary tumor markers but may influence iron-related biomarkers, particularly in patients with CCA. Although these associations did not remain statistically significant after correction for multiple comparisons, they suggest that biliary iron metabolism may respond differently to cholangitis than conventional tumor markers. These findings should be considered hypothesis-generating and require validation in larger, multicenter cohorts.",
+ "authors": [
+  "Podgórski P",
+  "Nehring P",
+  "Ciepiela O",
+  "Przybyłkowski AM"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42988358",
+ "importance": 0.63,
+ "key_points_ko": [
+  "ERCP를 시행받은 환자 117명(담도결석 70명, 담도암 24명, 췌장암 23명)의 담즙 검체를 분석했습니다.",
+  "담관염 동반 여부는 담즙 내 CA19-9, CA125, PIVKA-II 등 기존 종양 표지자 수치에 유의미한 영향을 주지 않았습니다.",
+  "담관염이 동반된 담도암(CCA) 환자에서 담즙 내 철, 페리틴, 총철결합능(TIBC) 농도가 더 높게 관찰되었습니다.",
+  "위발견율(FDR) 보정 후에는 통계적 유의성이 유지되지 않아 본 결과는 가설 제시 단계의 탐색적 결과로 해석됩니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1016/j.advms.2026.11.001",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42988358"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Med Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42988358/"
+ },
+ "summary_ko": "담도췌장 종양 표지자의 진단적 한계를 보완하기 위해 담즙(bile) 내 바이오마커와 철 대사에 대한 담관염(cholangitis)의 영향을 평가한 전향적 연구입니다. 내시경 역행 담췌관 조영술(ERCP)을 받은 환자 117명(담도결석 70명, 담도암 24명, 췌장암 23명)의 담즙 검체를 분석했습니다. 담관염 동반 여부는 CA19-9 등 기존 종양 표지자에는 큰 영향을 주지 않았으나 담도암 환자의 철, 페리틴(ferritin) 등 철 관련 지표에 변화를 주었습니다. 다만 이 연관성은 다중 비교 교정 후 통계적 유의성을 유지하지 못해 향후 대규모 연구를 통한 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cholangitis alters iron-related parameters predominantly in cholangiocarcinoma: a prospective exploratory ERCP-based study",
+ "title_ko": "담관염이 담도암 환자의 철 관련 지표에 주로 미치는 영향: 전향적 탐색적 ERCP 기반 연구",
+ "trial": null,
+ "type": "paper"
+}

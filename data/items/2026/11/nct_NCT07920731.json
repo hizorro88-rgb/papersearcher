@@ -1,0 +1,100 @@
+{
+ "abstract": "This is a prospective, single-arm study in patients with locally advanced or metastatic pancreatic cancer that cannot be treated with surgery. The study is planned to enroll 42 patients. All patients will receive nimotuzumab combined with the NALIRIFOX chemotherapy regimen as first-line treatment.\n\nNimotuzumab is a targeted antibody against EGFR. NALIRIFOX is a standard first-line chemotherapy regimen for advanced pancreatic cancer and includes liposomal irinotecan, oxaliplatin, leucovorin, and 5-FU. Nimotuzumab 400 mg will be given intravenously on Day 1 every 2 weeks. The NALIRIFOX regimen will also be given every 2 weeks. Treatment will continue until the cancer grows or the side effects become unacceptable.\n\nThe main purpose of this study is to find out how long patients live without their cancer getting worse (progression-free survival, PFS). The study will also look at overall survival, tumor response rate, disease control rate, time to progression, and safety, especially serious side effects.\n\nPatients will be followed closely during treatment. Imaging tests will be done every 8 weeks to check the cancer. After treatment ends, patients will be followed for survival for up to 24 months after the last patient is enrolled.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07920731",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07920731"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Fudan University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07920731"
+ },
+ "summary_ko": "This is a prospective, single-arm study in patients with locally advanced or metastatic pancreatic cancer that cannot be treated with surgery. The study is planned to enroll 42 patients.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Single-Arm Study of Nimotuzumab Combined With NALIRIFOX as First-Line Treatment for Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer Metastatic"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Age 18-75 years, male or female.\n\nHistologically and/or cytologically confirmed pancreatic adenocarcinoma.\n\nRadiologically confirmed locally advanced or metastatic pancreatic cancer that is not amenable to curative surgery (assessed according to NCCN criteria).\n\nECOG performance status 0-1, and the investigator considers the patient able to tolerate the NALIRIFOX regimen.\n\nNo prior systemic therapy for pancreatic cancer (including chemotherapy, targeted therapy, or immunotherapy). Prior neoadjuvant or adjuvant therapy is allowed only if recurrence/progression occurred more than 6 months after the last dose and prior treatment-related toxicity has recovered to Grade ≤1 per CTCAE 5.0 (except alopecia or other toxicity judged by the investigator to have no safety risk).\n\nAt least one measurable lesion per RECIST 1.1. Target lesions must not have received prior radiotherapy or other local therapy; a lesion in a previously irradiated area may be selected as a target lesion if progression has been confirmed and it meets RECIST 1.1 criteria.\n\nAdequate organ and bone marrow function: hemoglobin ≥9.0 g/dL; absolute neutrophil count ≥1.5 × 10\\^9/L; platelet count ≥100 × 10\\^9/L; total bilirubin ≤1.5 × ULN (≤3 × ULN if liver metastasis); AST and ALT ≤2.5 × ULN (≤5 × ULN if liver metastasis); serum creatinine ≤1.5 × ULN or creatinine clearance ≥60 mL/min (Cockcroft-Gault formula).\n\nLife expectancy of at least 3 months.\n\nWomen of childbearing potential must agree to use medically accepted contraception during the study.\n\nGood compliance and willingness to sign the informed consent form.\n\nExclusion Criteria:\n\nOther primary malignancies besides pancreatic cancer (except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix).\n\nOther severe diseases, including but not limited to: uncontrolled congestive heart failure (NYHA class III or IV), unstable angina, poorly controlled arrhythmia, uncontrolled hypertension (SBP \\>160 mmHg or DBP \\>100 mmHg); active infection; poorly controlled diabetes (fasting blood glucose persistently \\>9.0 mmol/L or HbA1c \\>7.5% despite glucose-lowering treatment); uncontrolled pleural effusion, pericardial effusion, or ascites requiring drainage; severe portal hypertension (e.g., esophageal or gastric varices with a history of bleeding) or portal cavernoma on imaging; gastrointestinal obstruction (including gastric outlet or duodenal obstruction requiring decompression or stenting); respiratory insufficiency (requiring oxygen at rest or arterial oxygen partial pressure \\<60 mmHg).\n\nMajor surgery within 4 weeks before first dose of study drug (except puncture biopsy), or unhealed, infected, or dehisced surgical wound.\n\nParticipation in any clinical trial or receipt of any approved antitumor drug within 4 weeks before screening.\n\nHistory of allergy to the study drugs, similar structural compounds, or their components.\n\nUntreated biliary obstruction.\n\nKnown HIV or syphilis infection, or current active hepatitis B or C. Active hepatitis B is defined as HBsAg positive with HBV DNA \\>1000 copies/mL; active hepatitis C is defined as anti-HCV positive with HCV RNA \\>1000 copies/mL.\n\nPregnant or lactating women.\n\nHistory of severe gastrointestinal disease, such as gastrointestinal bleeding within the past year (e.g., gastric ulcer bleeding or esophageal variceal bleeding), active ulcerative colitis, or Crohn's disease (irinotecan may induce diarrhea, and such underlying diseases may increase toxicity).\n\nOther conditions judged by the investigator as unsuitable for this study (e.g., severe malnutrition, psychiatric illness preventing follow-up cooperation, or planned receipt of other antitumor therapy during the study).",
+  "enrollment": 45,
+  "has_results": false,
+  "interventions": [
+   "imotuzumab combined with the NALIRIFOX chemotherapy"
+  ],
+  "last_update_posted": "2026-11-06",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07920731",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-08-10",
+  "sex": "ALL",
+  "sponsor": "Fudan University",
+  "start_date": "2026-06-06",
+  "status": "ENROLLING_BY_INVITATION",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,52 @@
+{
+ "abstract": "BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.\nMETHODS: This retrospective cohort study included 1,195 patients undergoing hepatobiliary or pancreatic tumor surgery from the INSPIRE database. We evaluated the geriatric nutritional risk index (GNRI) and five other nutritional and inflammatory indices using logistic regression and restricted cubic splines. Regression estimates were pooled across 20 imputed datasets using Rubin's rules. Predictive metrics were averaged across imputations, with bootstrap assessment of uncertainty and optimism.\nRESULTS: Among 1,195 patients, 141 (11.8%) experienced postoperative ICU admission. Higher transformed GNRI was associated with lower adjusted odds of ICU admission (OR 0.601, 95% CI 0.497-0.728). Adding GNRI increased the area under the receiver operating characteristic curve (AUC) from 0.766 to 0.800 (95% CI, 0.764-0.835). The incremental AUC was 0.033 before rounding, and the optimism-corrected AUC was 0.780 (95% CI, 0.744-0.816). Albumin alone yielded a similar apparent AUC of 0.799. Other indices added little discrimination beyond GNRI.\nCONCLUSION: GNRI showed the highest observed incremental discrimination among the six indices, although albumin alone performed similarly. These findings support further evaluation of preoperative risk assessment in hepatobiliary and pancreatic tumor surgery.",
+ "authors": [
+  "Ou L",
+  "Wang H"
+ ],
+ "categories": [
+  "supportive",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42991713",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.3389/fnut.2026.1978034",
+  "nct": [],
+  "pmcid": "PMC13736577",
+  "pmid": "42991713"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Nutr",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991713/"
+ },
+ "summary_ko": "BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Association and incremental predictive performance of preoperative nutritional and inflammatory indices for postoperative ICU admission after hepatobiliary and pancreatic tumor surgery",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

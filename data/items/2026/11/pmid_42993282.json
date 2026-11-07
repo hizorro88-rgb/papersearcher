@@ -1,0 +1,56 @@
+{
+ "abstract": "BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).\nMETHODS: Prospective single-centre study of 100 consecutive patients undergoing elective PD. The index test was preoperative EUS strain ratio (SR), threshold ≤ 2.5 prespecified before enrolment; the reference standard was intraoperative texture recorded independently by two blinded surgeons, with neck-margin fibrosis grade as secondary reference. CR-POPF (ISGPS 2016 Grade B/C) was adjudicated blind to EUS. Accuracy is reported with Wilson 95% confidence intervals (CIs). An exploratory index used Firth-penalised regression restricted to preoperative variables, with bootstrap validation. Reporting follows STARD, TRIPOD, and STROBE.\nRESULTS: Soft texture occurred in 58 (58%). SR ≤ 2.5 gave 51 true positives, 7 false positives, 7 false negatives, 35 true negatives: sensitivity 87.9% (95% CI 77.1-94.0), specificity 83.3% (69.4-91.7), predictive values 87.9 and 83.3%, accuracy 86.0% (77.9-91.5), and area under the curve (AUC) 0.91 (0.84-0.96). SR rose monotonically with fibrosis grade (2.0 ± 0.6 to 5.8 ± 1.9; Spearman ρ = +0.82, p < 0.001); mean histogram elasticity fell (ρ = - 0.79, p < 0.001). CR-POPF occurred in 16 (16%). Non-PDAC pathology was unassociated with CR-POPF (9/48 vs 7/52; odds ratio 1.48, 0.51-4.35; p = 0.59). Six preoperative variables were entered simultaneously (EUS-SR, duct diameter, albumin, haemoglobin, body mass index, serum amylase; amylase carried zero points in the rounded score). Apparent AUC was 0.87 (0.79-0.94), optimism-corrected 0.78, calibration slope 0.72, and Brier score 0.096.\nCONCLUSIONS: Preoperative EUS strain elastography at a prespecified threshold identified intraoperative pancreatic texture accurately and tracked histological fibrosis, supporting it as an objective surrogate for parenchymal consistency. The index rests on 16 events, is hypothesis-generating, and requires external multicentre validation.",
+ "authors": [
+  "Saleh SK",
+  "Boushra ST",
+  "Saleeb VM",
+  "Saleh RK"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42993282",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1007/s00464-026-13401-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42993282"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Endosc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42993282/"
+ },
+ "summary_ko": "BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

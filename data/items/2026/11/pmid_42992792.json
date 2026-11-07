@@ -1,0 +1,64 @@
+{
+ "abstract": "Gemcitabine is a first-line chemotherapeutic agent for pancreatic cancer, but its efficacy is frequently limited by rapid intracellular metabolism, insufficient retention, and transporter-mediated efflux. Although intracellular drug concentrations and antitumor responses can be evaluated separately, a visualized and quantitative strategy to dynamically relate intracellular drug exposure to functional responses across in vitro and in vivo models remains lacking. Here, an integrated workflow is described that combines established quantitative liquid chromatography-tandem mass spectrometry (LC-MS/MS) and bioluminescence imaging (BLI) approaches to characterize intracellular gemcitabine exposure and treatment responses in pancreatic cancer models. LC-MS/MS is used to quantify intracellular gemcitabine and its inactive metabolite 2',2'-difluorodeoxyuridine (dFdU), enabling direct assessment of cellular drug exposure, metabolism, and retention. In parallel, luciferase-based BLI provides a noninvasive functional readout of viable tumor burden and treatment response in both cultured cells and xenograft models. By extracting PK parameters from LC-MS/MS measurements and PD-like parameters from time-resolved BLI signals, the workflow provides an operational framework for quantitatively linking intracellular drug exposure with imaging-derived responses. A two-step translational mapping strategy further connects intracellular exposure with in vitro BLI behavior and subsequently with in vivo BLI outcomes and tumor growth inhibition, thereby extending the analysis beyond parallel measurement of pharmacokinetics and pharmacodynamics. Using this workflow, Coix seed extract (CSE) is shown to prolong intracellular gemcitabine retention and enhance antitumor efficacy. The methodological contribution of this protocol lies in the integration of established LC-MS/MS and BLI measurements into a unified workflow and the implementation of cross-system translational mapping, rather than in the development of either analytical technology itself. The integrated workflow provides a visualized and quantitative approach for relating intracellular drug exposure to functional imaging responses and whole-animal treatment outcomes. The workflow may provide a practical framework for evaluating chemosensitizers, transporter modulators, and anticancer agents in translational pharmacology and cancer drug development.",
+ "authors": [
+  "Gao X",
+  "Wang W",
+  "Zhang R",
+  "Wang X",
+  "Wu F",
+  "Chen K",
+  "Gu M"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42992792",
+ "importance": 0.57,
+ "key_points_ko": [
+  "LC-MS/MS와 생물발광 영상(BLI)을 통합하여 젬시타빈(gemcitabine)의 약동학(PK)-약력학(PD) 관계를 정량화하는 프레임워크를 구축했습니다.",
+  "코익스 씨드 추출물(CSE)이 세포 내 젬시타빈 유지를 연장하고 종양 억제 효과를 향상시킴을 확인했습니다.",
+  "세포 및 동물 모델을 연결하는 2단계 번역 매핑 전략을 구현했습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.3791/71298",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42992792"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Video-Audio Media"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Vis Exp",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992792/"
+ },
+ "summary_ko": "본 연구는 췌장암 모델에서 액체 크로마토그래피-질량분석법(LC-MS/MS)과 생물발광 영상(BLI)을 결합하여 젬시타빈(gemcitabine)의 세포 내 약물 노출과 항암 반응을 정량적으로 연계하는 워크플로우를 발표했습니다. LC-MS/MS를 통해 젬시타빈 및 그 비활성 대사물인 2',2'-디플루오로데옥시유리딘(dFdU)을 정량화하고, BLI로 종양 생존력 및 치료 반응을 측정했습니다. 이 방식을 적용하여 코익스 씨드 추출물(Coix seed extract, CSE)이 젬시타빈의 세포 내 잔류 시간을 연장하고 항암 효능을 높임을 확인했습니다. 본 연구 결과는 전임상 단계에서 항암제 및 감수성 증폭제의 효능 평가를 위한 유용한 프레임워크를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Coupling Gemcitabine Quantification with Bioluminescence Imaging to Visualize Pharmacokinetic-Pharmacodynamic Relationships in Pancreatic Cancer Model",
+ "title_ko": "췌장암 모델에서 젬시타빈 정량화와 생물발광 영상화를 결합한 약동학-약력학 관계 시각화",
+ "trial": null,
+ "type": "paper"
+}

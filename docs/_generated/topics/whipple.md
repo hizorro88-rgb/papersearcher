@@ -30,8 +30,17 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (23)
+## 타임라인 (24)
 
+<a id="pmid-42993282"></a>
+#### [Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula](https://pubmed.ncbi.nlm.nih.gov/42993282/)
+`논문` `기타` `수술` `진단·조기발견` · 2026-11-06 · PubMed · Surg Endosc · 중요도 0.70
+
+BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42993282/) · [DOI](https://doi.org/10.1007/s00464-026-13401-4) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42993282)</small>
+
+---
 <a id="pmid-42982334"></a>
 #### [국소 진행성 수술 불가능 췌관선암 환자에서 조직음쇄술 시행 후 로봇 췌두십이지장절제술](https://pubmed.ncbi.nlm.nih.gov/42982334/)
 <small>Post-Histotripsy Robotic Pancreaticoduodenectomy for Locally Advanced Unresectable Pancreatic Ductal Adenocarcinoma</small>

@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) progression is driven by a poorly understood continuum of plastic malignant cell states between the \"classical\" (GATA6⁺) and \"basal-like\" (KRT17⁺) subtypes. Here, we integrate \\(\\:scRNA\\text{-}seq\\) with quantitative proteomics from laser-capture microdissected patient tissue and targeted mechanistic perturbations to establish a framework that simplifies this continuum and defines malignant programs linked to tumor progression, metastasis, and therapy resistance. We identify a transcriptionally and proteomically distinct KRT17⁺/GATA6⁺ hybrid cell state. Spatial analyses show that hybrid cells are enriched among de-differentiating populations, concentrate at the invasive front of primary tumors, and are significantly overrepresented in lethal liver and lung metastases, indicating that this plastic phenotype is selected during the metastatic cascade. Proteomic deconstruction reveals that the hybrid state is governed by a MYC-driven oncogenic program coupled to a metabolic shift toward oxidative phosphorylation. By individually reducing KRT17 and GATA6 expression, we establish a direct KRT17→c-MYC regulatory axis that promotes broad resistance to standard therapies while creating a specific, targetable vulnerability to MYC inhibition. Together, these findings identify the KRT17⁺/GATA6⁺ hybrid phenotype as a key node of PDAC aggressiveness and therapeutic resistance and support the use of KRT17/GATA6 as biomarkers to stratify patients for clinical trials of MYC inhibitors.",
+ "authors": [
+  "Delgado L",
+  "Resnick A",
+  "Ogata J",
+  "Villar-Samaniego J",
+  "Lin Q",
+  "Horowitz M",
+  "Beggs T",
+  "Kwai T"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42990812",
+ "importance": 0.6,
+ "key_points_ko": [
+  "클래식형(GATA6⁺)과 바살형(KRT17⁺) 특성을 동시에 지닌 KRT17⁺/GATA6⁺ 하이브리드 췌장암 세포 상태를 발견했습니다.",
+  "하이브리드 세포는 원발암의 침윤 전선과 간 및 폐 전이 조직에서 유의하게 높은 비율로 존재했습니다.",
+  "KRT17→c-MYC 조절 축이 표준치료 저항성을 유발하는 한편, MYC 억제 표적 치료에는 표적 가능한 취약성을 형성함을 확인했습니다."
+ ],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11519779/v1",
+  "nct": [],
+  "pmcid": "PMC13734278",
+  "pmid": "42990812"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Res Sq",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42990812/"
+ },
+ "summary_ko": "연구진은 췌장암(PDAC) 환자 조직의 단일세포 RNA 시퀀싱(scRNA-seq) 및 단백체 분석을 통해 '클래식(GATA6⁺)' 상태와 '바살형(KRT17⁺)' 상태를 모두 가진 KRT17⁺/GATA6⁺ 하이브리드 세포를 규명했습니다. 이 하이브리드 세포는 종양의 침윤 전선 및 치명적인 간·폐 전이 부위에 집중되어 있었으며, 항암제 저항성과 관련이 있었습니다. 연구 결과 KRT17이 c-MYC 신호를 촉진하여 항암제 저항성을 유도하지만, 동시에 MYC 억제 치료에 특이적인 취약성을 만든다는 것을 확인했습니다. 이 연구는 KRT17과 GATA6를 MYC 억제제 임상시험 환자 선별을 위한 바이오마커로 활용할 수 있음을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer",
+ "title_ko": "KRT17/GATA6 하이브리드 상태, 췌장암에서 MYC 억제제에 대한 독특한 취약성 제시",
+ "trial": null,
+ "type": "paper"
+}

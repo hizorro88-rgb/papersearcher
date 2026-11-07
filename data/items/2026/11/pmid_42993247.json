@@ -1,0 +1,53 @@
+{
+ "abstract": "Pancreatic cystic neoplasms (PCN) are common incidental findings and represent the only known precursor lesions of pancreatic ductal adenocarcinoma (PDAC) that can be detected and monitored using conventional imaging. The different entities of PCNs vary considerably in terms of their potential for malignant transformation. Mucinous cysts are regarded as precancerous lesions, whereas serous PCN are considered benign. The most common type of PCN are intraductal papillary mucinous neoplasms (IPMNs), which are subdivided into main-duct and branch-duct IPMNs. Magnetic resonance imaging is regarded as the gold standard for diagnosis and is complemented by endosonography, which offers high local image resolution in cases of discrepant findings or suspected worrisome features (e.g., intramural nodules). Laboratory analysis of cyst fluid can assist in identifying the type of cyst in cases of diagnostic uncertainty. The current Kyoto guideline provides detailed recommendations on surgical management and surveillance intervals for PCNs. Despite these recommendations and improved imaging modalities, the clinical management of predominantly asymptomatic patients remains challenging, and individually tailored monitoring and treatment decisions are often necessary in the context of the patient's age, comorbidities, personal preferences, the costs of long-term surveillance, and the morbidity and mortality associated with pancreatic surgery. The ultimate goal is to avoid overtreatment while ensuring that high-risk lesions are surgically resected in a timely manner.",
+ "authors": [
+  "Ammer-Herrmenau C",
+  "Neesse A"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42993247",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.1007/s00108-026-02198-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42993247"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Inn Med (Heidelb)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42993247/"
+ },
+ "summary_ko": "Pancreatic cystic neoplasms (PCN) are common incidental findings and represent the only known precursor lesions of pancreatic ductal adenocarcinoma (PDAC) that can be detected and monitored using conventional imaging. The different entities of PCNs vary considerably in terms of their potential for malignant transformation.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "[What is established in the management of pancreatic cysts?]",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

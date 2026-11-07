@@ -1,0 +1,57 @@
+{
+ "abstract": "A well-established bidirectional causal relationship connects type 2 diabetes mellitus (T2DM) and pancreatic ductal adenocarcinoma (PDAC). Long-standing T2DM elevates pancreatic cancer risk approximately 1.8-2.2-fold, whereas 30%-74% of PDAC patients develop new-onset diabetes (NOD) 2-36 months before tumor detection, which mostly corresponds to tumour-originated type 3c pancreatogenic diabetes (T3cDM). Notably, 25%-40% of such patients achieve spontaneous glycemic recovery after R0 curative resection, solidifying the causal nature of PDAC-induced hyperglycemia. Six interrelated molecular mechanisms mediate their reciprocal crosstalk: chronic metabolic abnormality mediated by hyperinsulinemia and AGE-RAGE signaling, sustained inflammatory and macrophage remodeling, KRAS-driven oncogenic and epigenetic modification, pancreatic stellate cell-derived desmoplasia, tumor exosome-mediated β-cell damage, and gut-pancreas microbiome dysbiosis. Specifically, PDAC-secreted exosomes loaded with adrenomedullin, peritumor fibrotic islet destruction and circulating S100A8 peptide collectively lead to insulin deficiency, making T3cDM biochemically distinguishable from insulin-resistant classic T2DM by reduced pancreatic polypeptide and endogenous insulin concentrations. Clinically, END-PAC scoring and emerging machine learning algorithms facilitate risk stratification for early PDAC screening among patients aged 50 years or older with NOD. Nonetheless, prominent challenges remain: conflicting clinical data on the anti-PDAC potential of metformin and GLP-1RAs, ethnic heterogeneity limiting the generalizability of current prediction models, and up to 88% T3cDM misdiagnosis owing to the absence of global unified diagnostic benchmarks. Future translational research will center on prospective validation of multi-omic biomarkers, formulation of standardized T3cDM diagnostic criteria, large-scale screening trials, and rational repurposing of antidiabetic agents for pancreatic cancer prevention and adjuvant therapy.",
+ "authors": [
+  "Wu J",
+  "Jiang T",
+  "Li X",
+  "Xie D",
+  "Xie K"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-07",
+ "history": [
+  {
+   "date": "2026-11-07",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42991559",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-07",
+ "links": {
+  "doi": "10.3389/fendo.2026.1995824",
+  "nct": [],
+  "pmcid": "PMC13736098",
+  "pmid": "42991559"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Endocrinol (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991559/"
+ },
+ "summary_ko": "A well-established bidirectional causal relationship connects type 2 diabetes mellitus (T2DM) and pancreatic ductal adenocarcinoma (PDAC). Long-standing T2DM elevates pancreatic cancer risk approximately 1.8-2.2-fold, whereas 30%-74% of PDAC patients develop new-onset diabetes (NOD) 2-36 months before tumor detection, which mostly corresponds to tumour-originated type 3c pancreatogenic diabetes (T3cDM).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Bidirectional relationship between diabetes and pancreatic cancer: from mechanistic investigation to clinical application",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
