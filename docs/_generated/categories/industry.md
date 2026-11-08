@@ -23,17 +23,17 @@ search:
 ## 최근 30일
 
 <a id="nct-nct07671937"></a>
-#### [다학제 종양 위원회에서의 체계적인 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
+#### [다학제 종양 위원회에서의 체계적 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
 <small>INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study</small>
 
 `임상시험` `기타` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-06-26 · ClinicalTrials.gov · University of Alabama at Birmingham · 중요도 0.65
 
 **NCT07671937** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07671937.md)
 
-이 연구는 다학제 종양 위원회(MDTB) 논의에 전자 환자 보고 결과(ePROs)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인과 암 환자를 대상으로 관찰 코호트 연구 및 무작위 대조 임상시험이 진행됩니다. 환자들은 건강, 삶의 질, 치료 선호도 등에 관한 설문조사를 작성하며, 연구진은 이를 바탕으로 환자의 상태와 선호도를 종양 위원회에 전달합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 분석합니다.
+이 연구는 다학제 종양 위원회(MDTB) 논의 과정에 전자 환자 보고 결과(ePRO)를 통합하는 INSPIRE 중재의 효과를 평가하기 위한 임상시험입니다. 췌장암, 유방암, 부인암 등의 환자를 대상으로 하며 전향적 관찰 코호트와 무작위 대조 임상시험을 포함합니다. 연구진은 환자의 건강 상태, 삶의 질, 치료 선호도 등을 조사하여 종양 위원회 논의에 활용합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 평가합니다.
 
-- 목표 연구 대상 인원은 총 2,748명입니다.
-- 환자들은 등록 시점, 3개월, 6개월째에 설문조사를 작성합니다.
+- 목표 연구 대상자는 총 2,748명입니다.
+- 환자들은 기준선, 3개월, 6개월 시점에 설문조사를 완료합니다.
 - INSPIRE 중재 그룹은 환자의 건강 상태와 치료 선호도가 담긴 발표 슬라이드가 다학제 종양 위원회에서 공유됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07671937) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671937)</small>

@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 309건 · 최근 30일 288건
+전체 310건 · 최근 30일 285건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42983993"></a>
+#### [췌장암은 왜 면역항암제에 내성을 가질까?](https://pubmed.ncbi.nlm.nih.gov/42983993/)
+<small>[Why is pancreatic adenocarcinoma resistant to immunotherapy?]</small>
+
+`논문` `종설` `치료 전반` `기초연구` `신약·치료제` · 2026-10-01 · PubMed · Rev Prat · 중요도 0.57
+
+이 논문은 면역관문억제제(ICI)가 췌관선암(pancreatic adenocarcinoma)에서 효과가 없는 이유를 분석한 문헌 고찰입니다. 췌장암은 복잡한 미세환경과 낮은 면역원성으로 인해 면역항암제에 저항성을 보입니다. 현무함수불안정성고(MSI-H) 또는 DNA 불일치 복구 결함(dMMR)이 있는 드문 경우를 제외하고는 면역관문억제제의 혜택이 제한적입니다. 종양 미세환경을 표적화하거나 맞춤형 암 백신을 개발하는 등의 새로운 접근이 연구되고 있습니다.
+
+- 면역관문억제제는 MSI-H 또는 dMMR 상태의 드문 췌장암 환자에게만 효과를 보였습니다.
+- 면역항암제와 화학요법의 병용은 생존 기간을 유의미하게 개선하지 못했습니다.
+- 췌장암은 신항원(neoantigen)이 적고 촘촘한 면역억제성 기질을 가진 '차가운 종양(cold tumor)'입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42983993/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42983993)</small>
+
+---
 <a id="pmid-42992895"></a>
 #### [Exploring Sex-Associated Systemic Inflammatory Profiles Linked to Macrophage Responses and Survival in Pancreatic Ductal Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42992895/)
 `논문` `관찰연구` `기초연구` · 2026-11-06 · PubMed · J Proteome Res · 중요도 0.77
@@ -29,6 +44,22 @@ search:
 Sex differences influence clinical outcome and therapeutic response in pancreatic ductal adenocarcinoma (PDAC), yet the contribution of systemic immune-inflammatory programs remains insufficiently defined. In this study, we characterized sex-associated circulating proteomic signatures, evaluated their prognostic relevance, and assessed their association with macrophage polarization.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42992895/) · [DOI](https://doi.org/10.1021/acs.jproteome.6c00739) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42992895)</small>
+
+---
+<a id="pmid-42991559"></a>
+#### [당뇨병과 췌장암 사이의 쌍방향 관계: 기전 연구부터 임상적 적용까지](https://pubmed.ncbi.nlm.nih.gov/42991559/)
+<small>Bidirectional relationship between diabetes and pancreatic cancer: from mechanistic investigation to clinical application</small>
+
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` `지지요법·삶의질` · 2026-10-22 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.68
+
+본 종설 논문은 제2형 당뇨병(T2DM)과 췌관선암(PDAC) 사이의 상호 영향과 작용 기전을 다룹니다. 오랫동안 당뇨병을 앓은 경우 췌장암 위험이 1.8~2.2배 증가하며, 반대로 췌장암 환자의 30%~74%는 암 진단 2~36개월 전에 새로운 당뇨병이 발생합니다. 수술로 췌장암을 완치 절제(R0)한 환자의 25%~40%에서 당 수치가 자연스럽게 회복되는 등 두 질환 간의 긴밀한 인과관계가 입증되어 있습니다. 신규 당뇨병 환자 중 췌장암 고위험군을 선별하기 위해 END-PAC 점수 모델 및 기계학습 알고리즘 등의 조기 진단 연구가 진행 중입니다.
+
+- 오랫동안 당뇨병을 앓은 경우 췌장암 발병 위험이 1.8~2.2배 증가합니다.
+- 췌장암 환자의 30%~74%가 암 진단 2~36개월 전에 신규 당뇨병(T3cDM)을 경험합니다.
+- 췌장암 완치 절제(R0) 수술 후 환자의 25%~40%에서 당 수치가 자연적으로 회복되었습니다.
+- 췌장 유래 췌장성 당뇨병(T3cDM)은 인슐린 및 췌장 폴리펩티드 농도 감소가 특징이며 일반 제2형 당뇨병과 구별됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991559/) · [DOI](https://doi.org/10.3389/fendo.2026.1995824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736098/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991559)</small>
 
 ---
 <a id="pmid-42983554"></a>
@@ -108,48 +139,19 @@ Sex differences influence clinical outcome and therapeutic response in pancreati
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988311/) · [DOI](https://doi.org/10.1016/j.canlet.2026.218954) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988311)</small>
 
 ---
-<a id="pmid-42992572"></a>
-#### [[정정] ETS-1: 췌장암의 당 대사 조절을 통한 대사 치료의 잠재적 당분해 표적](https://pubmed.ncbi.nlm.nih.gov/42992572/)
-<small>[Corrigendum] ETS‑1: A potential target of glycolysis for metabolic therapy by regulating glucose metabolism in pancreatic cancer</small>
+<a id="pmid-42987327"></a>
+#### [논문 철회 공고: 세포 사멸 조절 인자가 췌관선암의 예후, 진행 및 면역 미세환경에 미치는 중요한 역할: 생물정보학 및 체외 연구](https://pubmed.ncbi.nlm.nih.gov/42987327/)
+<small>Statement of Retraction: Pyroptosis regulators exert crucial functions in prognosis, progression and immune microenvironment of pancreatic adenocarcinoma: a bioinformatic and in vitro research</small>
 
-`논문` `기타` `기초연구` `치료 전반` · 2026-11-06 · PubMed · Int J Oncol · 중요도 0.60
+`논문` `기타` `기초연구` `치료 전반` · 2026-11-05 · PubMed · Bioengineered · 중요도 0.60
 
-본 내용은 2017년에 발표된 췌장암 대사 치료 표적 ETS-1에 관한 전임상 연구 논문의 공식 정정 고지입니다. 저자들은 수정 논의 과정에서 그림 4B의 단백질 분석(western blot) 데이터에 실수로 중복 이미지가 삽입된 오류를 확인했습니다. 올바른 AMPK 및 p-AMPK 단백질 분석 데이터로 정정된 그림 4를 새로 반영했습니다. 저자들은 출판 전 오류를 발견하지 못한 점에 대해 사과하고 올바른 데이터를 공개했습니다.
+본 논문은 췌관선암에서 세포 사멸(Pyroptosis) 조절 인자의 역할을 생물정보학 분석과 체외(In vitro) 실험으로 조사했던 연구의 철회 공고입니다. 해당 논문은 학술지 정책 및 논문 검증 절차에 따라 최종 철회 결정되었습니다. 따라서 본 연구의 분석 내용과 결론은 더 이상 의학적·과학적 유효성을 갖지 않습니다.
 
-- 2017년 국제 종양학 저널(Int J Oncol)에 출판된 췌장암 기초 연구 논문의 이미지 중복 오류 정정 고지입니다.
-- 그림 4B의 AMPK 및 p-AMPK 단백질 분석 이미지를 올바른 실험 데이터로 교체하여 재수록했습니다.
-- 논문의 핵심 데이터 이미지를 정정하는 절차이며 clinical 연구나 환자 치료 지침 변화에는 영향이 없습니다.
+- 세포 사멸 조절 인자 관련 췌장암 연구 논문이 공식 철회되었습니다.
+- 철회 사유에 대한 상세 수치 및 세부 데이터는 초록에 명시되지 않았습니다.
+- 본 논문에 제시되었던 연구 결과는 더 이상 유효한 과학적 근거로 사용할 수 없습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42992572/) · [DOI](https://doi.org/10.3892/ijo.2026.5954) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13735020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42992572)</small>
-
----
-<a id="pmid-42990812"></a>
-#### [KRT17/GATA6 하이브리드 상태, 췌장암에서 MYC 억제제에 대한 독특한 취약성 제시](https://pubmed.ncbi.nlm.nih.gov/42990812/)
-<small>A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-11-01 · PubMed · Res Sq · 중요도 0.60
-
-연구진은 췌장암(PDAC) 환자 조직의 단일세포 RNA 시퀀싱(scRNA-seq) 및 단백체 분석을 통해 '클래식(GATA6⁺)' 상태와 '바살형(KRT17⁺)' 상태를 모두 가진 KRT17⁺/GATA6⁺ 하이브리드 세포를 규명했습니다. 이 하이브리드 세포는 종양의 침윤 전선 및 치명적인 간·폐 전이 부위에 집중되어 있었으며, 항암제 저항성과 관련이 있었습니다. 연구 결과 KRT17이 c-MYC 신호를 촉진하여 항암제 저항성을 유도하지만, 동시에 MYC 억제 치료에 특이적인 취약성을 만든다는 것을 확인했습니다. 이 연구는 KRT17과 GATA6를 MYC 억제제 임상시험 환자 선별을 위한 바이오마커로 활용할 수 있음을 제시합니다.
-
-- 클래식형(GATA6⁺)과 바살형(KRT17⁺) 특성을 동시에 지닌 KRT17⁺/GATA6⁺ 하이브리드 췌장암 세포 상태를 발견했습니다.
-- 하이브리드 세포는 원발암의 침윤 전선과 간 및 폐 전이 조직에서 유의하게 높은 비율로 존재했습니다.
-- KRT17→c-MYC 조절 축이 표준치료 저항성을 유발하는 한편, MYC 억제 표적 치료에는 표적 가능한 취약성을 형성함을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42990812/) · [DOI](https://doi.org/10.21203/rs.3.rs-11519779/v1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13734278/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42990812)</small>
-
----
-<a id="pmid-42988963"></a>
-#### [정정: 췌장관선암에서 P38MAPK 표적 치료: 약물 저항성 극복 및 종양 조절을 위한 유망한 중재적 접근법](https://pubmed.ncbi.nlm.nih.gov/42988963/)
-<small>Correction: P38MAPK targeting in pancreatic ductal adenocarcinoma: Promising interventional approach for breaking drug resistance and tumor control</small>
-
-`논문` `기타` `기초연구` `치료 전반` · 2026-11-06 · PubMed · Med Oncol · 중요도 0.60
-
-본 논문은 췌장관선암(PDAC)에서 p38 mitogen-activated protein kinase(P38MAPK) 표적 치료 접근법을 다룬 논문의 정정 공지입니다. 원문 논문에 발생한 오류를 수정하기 위해 발표되었습니다. 구체적인 수정 내용과 세부 연구 결과는 초록에 명시되지 않았습니다.
-
-- P38MAPK 표적 치료에 관한 기존 게재 논문의 정정(Erratum) 발표입니다.
-- 구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988963/) · [DOI](https://doi.org/10.1007/s12032-026-03442-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988963)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42987327/) · [DOI](https://doi.org/10.1080/21655979.2026.2745585) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42987327)</small>
 
 ---
 <a id="pmid-42988458"></a>
@@ -167,34 +169,48 @@ Sex differences influence clinical outcome and therapeutic response in pancreati
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988458/) · [DOI](https://doi.org/10.1080/17576180.2026.2758539) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988458)</small>
 
 ---
-<a id="pmid-42987327"></a>
-#### [논문 철회 공고: 세포 사멸 조절 인자가 췌관선암의 예후, 진행 및 면역 미세환경에 미치는 중요한 역할: 생물정보학 및 체외 연구](https://pubmed.ncbi.nlm.nih.gov/42987327/)
-<small>Statement of Retraction: Pyroptosis regulators exert crucial functions in prognosis, progression and immune microenvironment of pancreatic adenocarcinoma: a bioinformatic and in vitro research</small>
+<a id="pmid-42988963"></a>
+#### [정정: 췌장관선암에서 P38MAPK 표적 치료: 약물 저항성 극복 및 종양 조절을 위한 유망한 중재적 접근법](https://pubmed.ncbi.nlm.nih.gov/42988963/)
+<small>Correction: P38MAPK targeting in pancreatic ductal adenocarcinoma: Promising interventional approach for breaking drug resistance and tumor control</small>
 
-`논문` `기타` `기초연구` `치료 전반` · 2026-11-05 · PubMed · Bioengineered · 중요도 0.60
+`논문` `기타` `기초연구` `치료 전반` · 2026-11-06 · PubMed · Med Oncol · 중요도 0.60
 
-본 논문은 췌관선암에서 세포 사멸(Pyroptosis) 조절 인자의 역할을 생물정보학 분석과 체외(In vitro) 실험으로 조사했던 연구의 철회 공고입니다. 해당 논문은 학술지 정책 및 논문 검증 절차에 따라 최종 철회 결정되었습니다. 따라서 본 연구의 분석 내용과 결론은 더 이상 의학적·과학적 유효성을 갖지 않습니다.
+본 논문은 췌장관선암(PDAC)에서 p38 mitogen-activated protein kinase(P38MAPK) 표적 치료 접근법을 다룬 논문의 정정 공지입니다. 원문 논문에 발생한 오류를 수정하기 위해 발표되었습니다. 구체적인 수정 내용과 세부 연구 결과는 초록에 명시되지 않았습니다.
 
-- 세포 사멸 조절 인자 관련 췌장암 연구 논문이 공식 철회되었습니다.
-- 철회 사유에 대한 상세 수치 및 세부 데이터는 초록에 명시되지 않았습니다.
-- 본 논문에 제시되었던 연구 결과는 더 이상 유효한 과학적 근거로 사용할 수 없습니다.
+- P38MAPK 표적 치료에 관한 기존 게재 논문의 정정(Erratum) 발표입니다.
+- 구체적인 수정 내용 및 연구 수치는 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42987327/) · [DOI](https://doi.org/10.1080/21655979.2026.2745585) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42987327)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988963/) · [DOI](https://doi.org/10.1007/s12032-026-03442-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988963)</small>
 
 ---
-<a id="pmid-42990609"></a>
-#### [3차원 배양이 췌장 섬유아세포 활성화를 억제하고 췌장암 세포와 섬유아세포 간의 분비 신호를 제한함](https://pubmed.ncbi.nlm.nih.gov/42990609/)
-<small>Three-dimensional culture suppresses pancreatic fibroblast activation and limits paracrine signaling between pancreatic cancer cells and fibroblasts</small>
+<a id="pmid-42990812"></a>
+#### [KRT17/GATA6 하이브리드 상태, 췌장암에서 MYC 억제제에 대한 독특한 취약성 제시](https://pubmed.ncbi.nlm.nih.gov/42990812/)
+<small>A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer</small>
 
-`논문` `전임상` `기초연구` · 2026-10-27 · PubMed · Biochem Biophys Rep · 중요도 0.59
+`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-11-01 · PubMed · Res Sq · 중요도 0.60
 
-본 연구는 마우스 췌장 섬유아세포를 3차원(3D) 자기 부유 배양 모델에서 평가한 기초 연구입니다. 연구진은 3D 배양 환경이 2차원 배양에 비해 췌장 섬유아세포의 활성화 마커 발현을 억제하고 비활성화 상태를 유도함을 확인했습니다. 췌장암 세포와의 간접 공배양 시에도 이러한 섬유아세포 비활성화와 지방 축적이 유지되었습니다. 이 연구 결과는 췌장암과 암기질 세포 간의 상호작용을 연구하기 위한 새로운 3D 세포 모델의 유용성을 제시합니다.
+연구진은 췌장암(PDAC) 환자 조직의 단일세포 RNA 시퀀싱(scRNA-seq) 및 단백체 분석을 통해 '클래식(GATA6⁺)' 상태와 '바살형(KRT17⁺)' 상태를 모두 가진 KRT17⁺/GATA6⁺ 하이브리드 세포를 규명했습니다. 이 하이브리드 세포는 종양의 침윤 전선 및 치명적인 간·폐 전이 부위에 집중되어 있었으며, 항암제 저항성과 관련이 있었습니다. 연구 결과 KRT17이 c-MYC 신호를 촉진하여 항암제 저항성을 유도하지만, 동시에 MYC 억제 치료에 특이적인 취약성을 만든다는 것을 확인했습니다. 이 연구는 KRT17과 GATA6를 MYC 억제제 임상시험 환자 선별을 위한 바이오마커로 활용할 수 있음을 제시합니다.
 
-- 3차원(3D) 배양 모델에서 섬유아세포 활성화 마커인 Acta2, Fap, Ctgf의 발현이 감소하고 비활성화가 유도되었습니다.
-- 2차원 배양에 비해 3D 배양 모델에서 HIF-1 신호전달 경로가 풍부해지고 세포질 내 지방 적주 축적이 증가했습니다.
-- 섬유아세포의 활성화 억제 및 지방 축적은 종양 세포의 영향이 아닌 3D 배양 특성에 의한 자가 행동으로 확인되었습니다.
+- 클래식형(GATA6⁺)과 바살형(KRT17⁺) 특성을 동시에 지닌 KRT17⁺/GATA6⁺ 하이브리드 췌장암 세포 상태를 발견했습니다.
+- 하이브리드 세포는 원발암의 침윤 전선과 간 및 폐 전이 조직에서 유의하게 높은 비율로 존재했습니다.
+- KRT17→c-MYC 조절 축이 표준치료 저항성을 유발하는 한편, MYC 억제 표적 치료에는 표적 가능한 취약성을 형성함을 확인했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42990609/) · [DOI](https://doi.org/10.1016/j.bbrep.2026.102843) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13734846/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42990609)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42990812/) · [DOI](https://doi.org/10.21203/rs.3.rs-11519779/v1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13734278/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42990812)</small>
+
+---
+<a id="pmid-42992572"></a>
+#### [[정정] ETS-1: 췌장암의 당 대사 조절을 통한 대사 치료의 잠재적 당분해 표적](https://pubmed.ncbi.nlm.nih.gov/42992572/)
+<small>[Corrigendum] ETS‑1: A potential target of glycolysis for metabolic therapy by regulating glucose metabolism in pancreatic cancer</small>
+
+`논문` `기타` `기초연구` `치료 전반` · 2026-11-06 · PubMed · Int J Oncol · 중요도 0.60
+
+본 내용은 2017년에 발표된 췌장암 대사 치료 표적 ETS-1에 관한 전임상 연구 논문의 공식 정정 고지입니다. 저자들은 수정 논의 과정에서 그림 4B의 단백질 분석(western blot) 데이터에 실수로 중복 이미지가 삽입된 오류를 확인했습니다. 올바른 AMPK 및 p-AMPK 단백질 분석 데이터로 정정된 그림 4를 새로 반영했습니다. 저자들은 출판 전 오류를 발견하지 못한 점에 대해 사과하고 올바른 데이터를 공개했습니다.
+
+- 2017년 국제 종양학 저널(Int J Oncol)에 출판된 췌장암 기초 연구 논문의 이미지 중복 오류 정정 고지입니다.
+- 그림 4B의 AMPK 및 p-AMPK 단백질 분석 이미지를 올바른 실험 데이터로 교체하여 재수록했습니다.
+- 논문의 핵심 데이터 이미지를 정정하는 절차이며 clinical 연구나 환자 치료 지침 변화에는 영향이 없습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42992572/) · [DOI](https://doi.org/10.3892/ijo.2026.5954) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13735020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42992572)</small>
 
 ---
 <a id="pmid-42990380"></a>
@@ -210,6 +226,21 @@ Sex differences influence clinical outcome and therapeutic response in pancreati
 - 3차원 암 구상체 연구를 통해 K17이 세포 증식과 독립적으로 암세포의 이동성 확장을 촉진함을 입증했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42990380/) · [DOI](https://doi.org/10.64898/2026.10.27.762113) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13733921/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42990380)</small>
+
+---
+<a id="pmid-42990609"></a>
+#### [3차원 배양이 췌장 섬유아세포 활성화를 억제하고 췌장암 세포와 섬유아세포 간의 분비 신호를 제한함](https://pubmed.ncbi.nlm.nih.gov/42990609/)
+<small>Three-dimensional culture suppresses pancreatic fibroblast activation and limits paracrine signaling between pancreatic cancer cells and fibroblasts</small>
+
+`논문` `전임상` `기초연구` · 2026-10-27 · PubMed · Biochem Biophys Rep · 중요도 0.59
+
+본 연구는 마우스 췌장 섬유아세포를 3차원(3D) 자기 부유 배양 모델에서 평가한 기초 연구입니다. 연구진은 3D 배양 환경이 2차원 배양에 비해 췌장 섬유아세포의 활성화 마커 발현을 억제하고 비활성화 상태를 유도함을 확인했습니다. 췌장암 세포와의 간접 공배양 시에도 이러한 섬유아세포 비활성화와 지방 축적이 유지되었습니다. 이 연구 결과는 췌장암과 암기질 세포 간의 상호작용을 연구하기 위한 새로운 3D 세포 모델의 유용성을 제시합니다.
+
+- 3차원(3D) 배양 모델에서 섬유아세포 활성화 마커인 Acta2, Fap, Ctgf의 발현이 감소하고 비활성화가 유도되었습니다.
+- 2차원 배양에 비해 3D 배양 모델에서 HIF-1 신호전달 경로가 풍부해지고 세포질 내 지방 적주 축적이 증가했습니다.
+- 섬유아세포의 활성화 억제 및 지방 축적은 종양 세포의 영향이 아닌 3D 배양 특성에 의한 자가 행동으로 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42990609/) · [DOI](https://doi.org/10.1016/j.bbrep.2026.102843) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13734846/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42990609)</small>
 
 ---
 <a id="pmid-42992792"></a>
@@ -300,21 +331,6 @@ Sex differences influence clinical outcome and therapeutic response in pancreati
 - 정량 가능한 후보 전사체-단백질 36쌍 중 34쌍에서 일치하는 변화가 검증되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42984787/) · [DOI](https://doi.org/10.3389/fcell.2026.1969947) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13731346/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42984787)</small>
-
----
-<a id="pmid-42983993"></a>
-#### [췌장암은 왜 면역항암제에 내성을 가질까?](https://pubmed.ncbi.nlm.nih.gov/42983993/)
-<small>[Why is pancreatic adenocarcinoma resistant to immunotherapy?]</small>
-
-`논문` `종설` `치료 전반` `기초연구` `신약·치료제` · 2026-10-01 · PubMed · Rev Prat · 중요도 0.57
-
-이 논문은 면역관문억제제(ICI)가 췌관선암(pancreatic adenocarcinoma)에서 효과가 없는 이유를 분석한 문헌 고찰입니다. 췌장암은 복잡한 미세환경과 낮은 면역원성으로 인해 면역항암제에 저항성을 보입니다. 현무함수불안정성고(MSI-H) 또는 DNA 불일치 복구 결함(dMMR)이 있는 드문 경우를 제외하고는 면역관문억제제의 혜택이 제한적입니다. 종양 미세환경을 표적화하거나 맞춤형 암 백신을 개발하는 등의 새로운 접근이 연구되고 있습니다.
-
-- 면역관문억제제는 MSI-H 또는 dMMR 상태의 드문 췌장암 환자에게만 효과를 보였습니다.
-- 면역항암제와 화학요법의 병용은 생존 기간을 유의미하게 개선하지 못했습니다.
-- 췌장암은 신항원(neoantigen)이 적고 촘촘한 면역억제성 기질을 가진 '차가운 종양(cold tumor)'입니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42983993/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42983993)</small>
 
 ---
 <a id="pmid-42982635"></a>
@@ -2278,20 +2294,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - 종양의 대사적 적응성을 극복하기 위해 SGLT2 억제제와 메트포르민 병용요법 등 바이오마커에 기반한 대사 복합 치료 전략이 요구됩니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919732/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.025) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919732)</small>
-
----
-<a id="doi-10.64898-2026.10.21.26365999"></a>
-#### [9개국 췌장암 유전체 분석을 통한 돌연변이 시그니처 특성 규명](https://europepmc.org/article/PPR/PPR1349185)
-<small>Mutational signature landscape of pancreatic cancer genomes from nine countries</small>
-
-`프리프린트` `관찰연구` `기초연구` `치료 전반` · 2026-10-23 · Europe PMC (preprint) · medRxiv · 중요도 0.69
-
-알려진 위험 요인으로 설명되지 않는 췌장암의 원인을 규명하기 위해 9개국 495례의 췌장암 유전체 돌연변이 시그니처(mutational signature)를 분석했습니다. 분석 결과 돌연변이 시그니처 양상은 국가 간에 일관되게 나타났으며, 99% 이상의 환자에서 평균 26%의 돌연변이 부담을 차지하는 신규 시그니처인 SBS111이 확인되었습니다. 반면 외부 환경 노출에 의한 돌연변이 시그니처나 국가별 발생률 차이를 설명하는 시그니처는 발견되지 않았습니다. 이는 췌장암의 설명되지 않는 원인이 강한 돌연변이 유발 요인보다는 비돌연변이성 기전과 더 깊이 연관되어 있을 가능성을 시사합니다.
-
-- 9개국 495례의 췌장암 유전체 분석에서 국가 간 돌연변이 시그니처 양상이 일관되게 유지되었습니다.
-- 췌장암 환자의 99% 이상에서 전체 돌연변이 부담(mutation burden)의 평균 26%를 차지하는 신규 시그니처 SBS111을 발견했습니다.
-- 외부 요인에 의한 돌연변이 흔적이 확인되지 않아 돌연변이 유발 외의 기전이 췌장암 발생에 중요한 역할을 할 가능성이 제시되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1349185) · [DOI](https://doi.org/10.64898/2026.10.21.26365999) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.21.26365999)</small>
 
 ---

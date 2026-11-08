@@ -16,12 +16,80 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 163건 · 최근 30일 134건
+전체 163건 · 최근 30일 132건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct05723107"></a>
+#### [췌관선암 치료를 위한 내시경 초음파 유도하 고주파 절제술(EUS-RFA)](https://clinicaltrials.gov/study/NCT05723107)
+<small>EUS RFA for Treatment of Pancreatic Ductal Adenocarcinoma (PDAC)</small>
+
+`임상시험` `1상` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2023-02-10 · ClinicalTrials.gov · NYU Langone Health · 중요도 0.81
+
+**NCT05723107** · 1상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05723107.md)
+
+본 임상시험은 수술이 불가능한 국소 진행성 췌관선암(PDAC) 환자를 대상으로 항암화학요법과 내시경 초음파 유도하 고주파 절제술(EUS-RFA) 병행의 내인성 및 안전성을 평가하기 위한 단일군 1상 연구입니다. 1차 치료에 반응하지 않거나 진행된 전이 없는 환자를 대상으로 하며, 목표 인원은 6명입니다. 현재 이 임상시험은 종료(TERMINATED) 상태입니다.
+
+- 대상 질환은 1차 치료에 실패한 수술 불가능 및 비전이성 췌관선암(PDAC)입니다.
+- 중재 방법으로 항암화학요법(Chemotherapy)과 내시경 초음파 유도하 고주파 절제술(EUS-RFA)을 병행합니다.
+- 목표 등록 환자 수는 총 6명입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05723107) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05723107)</small>
+
+---
+<a id="nct-nct05969860"></a>
+#### [진행성 암 환자를 위한 재택 항암 치료 대 병원 내 치료 비교 연구](https://clinicaltrials.gov/study/NCT05969860)
+<small>At-Home Cancer Directed Therapy Versus in Clinic for the Treatment of Patients With Advanced Cancer</small>
+
+`임상시험` `2상` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2023-08-01 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.80
+
+**NCT05969860** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05969860.md)
+
+이 임상시험은 진행성 암 환자를 대상으로 집에서 받는 항암 치료와 병원 방문 치료의 효과와 안전성을 비교합니다. 환자들은 기존 표준 치료(Standard of Care, SOC)를 집 또는 병원에서 받도록 무작위 배정되며 삶의 질, 만족도, 안전성을 평가받습니다. 원격 모니터링과 가정 간호 서비스를 통해 재택 치료의 타당성을 검증합니다.
+
+- 총 220명의 진행성 암 환자를 대상으로 하는 2상 임상시험입니다.
+- 재택 치료군과 병원 치료군의 8주 차 환자 보고 결과(CARE, 삶의 질 등)를 비교합니다.
+- 24주 동안 가정 내 정맥/피부주사 치료의 안전성과 부작용(CTCAE v5.0 기준 등)을 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05969860) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05969860)</small>
+
+---
+<a id="nct-nct07808671"></a>
+#### [췌장암 선별검사를 위한 의사결정 지원 도구 연구 - 2단계](https://clinicaltrials.gov/study/NCT07808671)
+<small>A Decision Support Tool for Pancreatic Cancer Screening -Aim 2</small>
+
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` `치료 전반` · 2026-09-09 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.71
+
+**NCT07808671** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07808671.md)
+
+본 연구는 췌장암 고위험군을 위한 전자 의사결정 지원 도구의 수용성, 타당성, 실행 가능성을 평가하기 위한 파일럿 임상시험입니다. 40명의 성인을 대상으로 하며 공유 의사결정, 가치 일치 치료, 선별검사 순응도를 개선하는 것을 목표로 합니다. 현재 환자 모집 전 단계입니다. 초록에 명시되지 않은 생존기간, 반응률, 위험비 등의 수치는 없습니다.
+
+- 목표 인원은 40명입니다.
+- 전자 의사결정 지원 도구(Electronic Decision Support Tool)의 수용성과 실행 가능성을 평가합니다.
+- 현재 환자 모집 전 상태(NOT_YET_RECRUITING)입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07808671) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07808671)</small>
+
+---
+<a id="nct-nct07671937"></a>
+#### [다학제 종양 위원회에서의 체계적 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
+<small>INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-06-26 · ClinicalTrials.gov · University of Alabama at Birmingham · 중요도 0.65
+
+**NCT07671937** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07671937.md)
+
+이 연구는 다학제 종양 위원회(MDTB) 논의 과정에 전자 환자 보고 결과(ePRO)를 통합하는 INSPIRE 중재의 효과를 평가하기 위한 임상시험입니다. 췌장암, 유방암, 부인암 등의 환자를 대상으로 하며 전향적 관찰 코호트와 무작위 대조 임상시험을 포함합니다. 연구진은 환자의 건강 상태, 삶의 질, 치료 선호도 등을 조사하여 종양 위원회 논의에 활용합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 평가합니다.
+
+- 목표 연구 대상자는 총 2,748명입니다.
+- 환자들은 기준선, 3개월, 6개월 시점에 설문조사를 완료합니다.
+- INSPIRE 중재 그룹은 환자의 건강 상태와 치료 선호도가 담긴 발표 슬라이드가 다학제 종양 위원회에서 공유됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07671937) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671937)</small>
+
+---
 <a id="nct-nct05451043"></a>
 #### [진행성 간췌담도암 환자를 위한 durvalumab, tremelimumab, propranolol 및 항암화학요법 병용 2상 임상시험](https://clinicaltrials.gov/study/NCT05451043)
 <small>Durvalumab and Tremelimumab in Combination With Propranolol and Chemotherapy for Treatment of Advanced Hepatopancreabiliary Tumors (BLOCKED)</small>
@@ -37,39 +105,6 @@ search:
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05451043) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05451043)</small>
-
----
-<a id="nct-nct05723107"></a>
-#### [췌관선암 환자를 대상으로 한 내시경 초음파 유도하 고주파 열치료술(EUS-RFA) 1상 임상시험](https://clinicaltrials.gov/study/NCT05723107)
-<small>EUS RFA for Treatment of Pancreatic Ductal Adenocarcinoma (PDAC)</small>
-
-`임상시험` `1상` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2023-02-10 · ClinicalTrials.gov · NYU Langone Health · 중요도 0.81
-
-**NCT05723107** · 1상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05723107.md)
-
-수술이 불가능한 국소진행성 비전이성 췌관선암(PDAC) 환자를 대상으로 항암화학요법과 내시경 초음파 유도하 고주파 열치료술(EUS-RFA) 병용요법의 내약성을 평가하기 위해 설계된 단일군 1상 임상시험입니다. 1차 항암치료에 반응하지 않거나 질병이 진행되어 2차 또는 3차 완화 치료를 받는 환자를 대상으로 하였습니다. 이 임상시험은 목표 환자 수 6명 규모였으나 현재 조기 종료(TERMINATED)되었습니다.
-
-- 1차 항암화학요법에 실패한 절제 불가능 국소진행성 췌장암 환자를 대상으로 고주파 전극을 이용한 EUS-RFA와 항암치료 병용의 내약성을 평가하고자 했습니다.
-- 목표 모집 인원은 6명이었으며, 현재 시험이 조기 종료되었습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05723107) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05723107)</small>
-
----
-<a id="nct-nct05969860"></a>
-#### [진행성 암 환자를 위한 재택 항암 치료 대 병원 내 치료 비교 임상시험](https://clinicaltrials.gov/study/NCT05969860)
-<small>At-Home Cancer Directed Therapy Versus in Clinic for the Treatment of Patients With Advanced Cancer</small>
-
-`임상시험` `2상` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2023-08-01 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.80
-
-**NCT05969860** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05969860.md)
-
-이 임상시험은 진행성 암 환자를 대상으로 가정에서 이루어지는 암 직접 치료(at-home cancer directed therapy)와 기존의 병원 내 치료를 비교하여 안전성, 환자 삶의 질, 선호도를 평가합니다. 환자들은 기존 표준 치료(Standard of Care, SOC)를 가정 또는 병원에서 받도록 무작위 배정되며, 원격 모니터링과 의료진 지원을 받습니다. 이를 통해 재택 치료가 환자와 보호자의 부담을 줄이고 치료 순응도를 높일 수 있는지 확인하고자 합니다.
-
-- 목표 인원은 220명이며 진행성 암 환자를 대상으로 합니다.
-- 가정 내 항암 치료와 병원 내 치료의 환자 경험, 삶의 질, 안전성을 비교합니다.
-- 재택 치료 군은 원격 모니터링 시스템과 홈헬스 간호사의 방문을 통해 표준 치료를 받습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05969860) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05969860)</small>
 
 ---
 <a id="nct-nct06069297"></a>
@@ -89,21 +124,20 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT06069297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06069297)</small>
 
 ---
-<a id="nct-nct07808671"></a>
-#### [췌장암 선별검사를 위한 의사결정 지원 도구 연구 - 2단계](https://clinicaltrials.gov/study/NCT07808671)
-<small>A Decision Support Tool for Pancreatic Cancer Screening -Aim 2</small>
+<a id="pmid-42991559"></a>
+#### [당뇨병과 췌장암 사이의 쌍방향 관계: 기전 연구부터 임상적 적용까지](https://pubmed.ncbi.nlm.nih.gov/42991559/)
+<small>Bidirectional relationship between diabetes and pancreatic cancer: from mechanistic investigation to clinical application</small>
 
-`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` `치료 전반` · 2026-09-09 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.71
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` `지지요법·삶의질` · 2026-10-22 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.68
 
-**NCT07808671** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07808671.md)
+본 종설 논문은 제2형 당뇨병(T2DM)과 췌관선암(PDAC) 사이의 상호 영향과 작용 기전을 다룹니다. 오랫동안 당뇨병을 앓은 경우 췌장암 위험이 1.8~2.2배 증가하며, 반대로 췌장암 환자의 30%~74%는 암 진단 2~36개월 전에 새로운 당뇨병이 발생합니다. 수술로 췌장암을 완치 절제(R0)한 환자의 25%~40%에서 당 수치가 자연스럽게 회복되는 등 두 질환 간의 긴밀한 인과관계가 입증되어 있습니다. 신규 당뇨병 환자 중 췌장암 고위험군을 선별하기 위해 END-PAC 점수 모델 및 기계학습 알고리즘 등의 조기 진단 연구가 진행 중입니다.
 
-이 연구는 췌장암 고위험군을 위한 전자 의사결정 지원 도구(electronic decision support tool)의 수용성, 타당성, 그리고 실행 가능성을 평가합니다. 췌장암은 발병률이 증가하고 생존율이 낮으며 조기 발견이 중요하지만, 선별검사와 관련된 근거와 전략은 아직 불확실합니다. 본 파일럿 연구는 환자와 의료진 간의 공유된 의사결정(shared decision-making)과 선별검사 순응도를 개선하기 위해 진행됩니다. 대상 질환은 췌장암(Pancreas Cancer)이며 목표 인원은 40명입니다.
+- 오랫동안 당뇨병을 앓은 경우 췌장암 발병 위험이 1.8~2.2배 증가합니다.
+- 췌장암 환자의 30%~74%가 암 진단 2~36개월 전에 신규 당뇨병(T3cDM)을 경험합니다.
+- 췌장암 완치 절제(R0) 수술 후 환자의 25%~40%에서 당 수치가 자연적으로 회복되었습니다.
+- 췌장 유래 췌장성 당뇨병(T3cDM)은 인슐린 및 췌장 폴리펩티드 농도 감소가 특징이며 일반 제2형 당뇨병과 구별됩니다.
 
-- 목표 인원은 40명이며 18세부터 99세까지의 성인을 대상으로 합니다.
-- 전자 의사결정 지원 도구를 활용하여 공유된 의사결정, 가치 일치 치료, 선별검사 순응도를 평가합니다.
-- 현재 췌장암 선별검사 프로그램에 참여하고 있지 않은 UNC 고위험 위장관 암 클리닉(UNC High Risk GI Cancer Clinic) 내원 환자가 참여 대상입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07808671) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07808671)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991559/) · [DOI](https://doi.org/10.3389/fendo.2026.1995824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736098/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991559)</small>
 
 ---
 <a id="pmid-42991713"></a>
@@ -113,15 +147,6 @@ search:
 BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991713/) · [DOI](https://doi.org/10.3389/fnut.2026.1978034) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736577/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991713)</small>
-
----
-<a id="pmid-42991559"></a>
-#### [Bidirectional relationship between diabetes and pancreatic cancer: from mechanistic investigation to clinical application](https://pubmed.ncbi.nlm.nih.gov/42991559/)
-`논문` `종설` `진단·조기발견` `지지요법·삶의질` `치료 전반` · 2026-10-22 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.68
-
-A well-established bidirectional causal relationship connects type 2 diabetes mellitus (T2DM) and pancreatic ductal adenocarcinoma (PDAC). Long-standing T2DM elevates pancreatic cancer risk approximately 1.8-2.2-fold, whereas 30%-74% of PDAC patients develop new-onset diabetes (NOD) 2-36 months before tumor detection, which mostly corresponds to tumour-originated type 3c pancreatogenic diabetes (T3cDM).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991559/) · [DOI](https://doi.org/10.3389/fendo.2026.1995824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736098/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991559)</small>
 
 ---
 <a id="pmid-42988428"></a>
@@ -136,23 +161,6 @@ A well-established bidirectional causal relationship connects type 2 diabetes me
 - 구체적인 수치와 연구 결과는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988428/) · [DOI](https://doi.org/10.1136/bmjopen-2026-120648) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988428)</small>
-
----
-<a id="nct-nct07671937"></a>
-#### [다학제 종양 위원회에서의 체계적인 환자 보고 평가 통합: INSPIRE 연구](https://clinicaltrials.gov/study/NCT07671937)
-<small>INtegrating Systematic PatIent-Reported Evaluations in Multi-Disciplinary Tumor Boards: The INSPIRE Study</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-06-26 · ClinicalTrials.gov · University of Alabama at Birmingham · 중요도 0.65
-
-**NCT07671937** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07671937.md)
-
-이 연구는 다학제 종양 위원회(MDTB) 논의에 전자 환자 보고 결과(ePROs)를 통합하는 INSPIRE 중재의 영향을 평가합니다. 췌장암, 유방암, 부인과 암 환자를 대상으로 관찰 코호트 연구 및 무작위 대조 임상시험이 진행됩니다. 환자들은 건강, 삶의 질, 치료 선호도 등에 관한 설문조사를 작성하며, 연구진은 이를 바탕으로 환자의 상태와 선호도를 종양 위원회에 전달합니다. 이를 통해 치료 권고사항, 의료 이용, 환자 보고 결과 등에 미치는 영향을 분석합니다.
-
-- 목표 연구 대상 인원은 총 2,748명입니다.
-- 환자들은 등록 시점, 3개월, 6개월째에 설문조사를 작성합니다.
-- INSPIRE 중재 그룹은 환자의 건강 상태와 치료 선호도가 담긴 발표 슬라이드가 다학제 종양 위원회에서 공유됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07671937) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07671937)</small>
 
 ---
 <a id="nct-nct07059884"></a>
@@ -2069,36 +2077,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 복합적인 폐쇄 및 감염 상황을 내시경적 시술을 통해 성공적으로 관리한 증례입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42851288/) · [DOI](https://doi.org/10.4068/cmj.2026.62.3.136) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13645499/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42851288)</small>
-
----
-<a id="pmid-42837495"></a>
-#### [췌장암 수술 전후의 위장관 증상과 건강 관련 삶의 질(HRQoL) (GO-PANC): 전국 규모 종단적 연구](https://pubmed.ncbi.nlm.nih.gov/42837495/)
-<small>Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study</small>
-
-`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-05 · PubMed · Br J Surg · 중요도 0.77
-
-이 연구는 췌장암으로 췌장절제술(pancreatectomy)을 받은 환자들을 대상으로 수술 전후의 위장관 증상 변화와 건강 관련 삶의 질(HRQoL, Health-Related Quality of Life)의 연관성을 조사했습니다. 네덜란드 췌장암 프로젝트의 설문조사에 참여한 총 1009명의 환자와 2995건의 설문 응답이 분석에 포함되었습니다. 연구 결과 위장관 증상은 수술 후 0~3개월 사이에 최고조에 달했으며, 수술 후 9~12개월에는 대체로 수술 전 수준 또는 그 이하로 회복되었습니다. 그러나 심한 위장관 증상은 삶의 질을 크게 저하시키는 것으로 나타났습니다.
-
-- 총 1009명의 췌장암 환자와 2995건의 설문 응답이 분석에 포함되었습니다.
-- 수술 전 위장관 증상은 환자의 95%에서 나타났으며, 흔한 증상은 방귀, 구강 건조, 미각 이상, 배변 습관 변화였습니다.
-- 위장관 증상 점수는 수술 후 0~3개월에 정점을 찍고 수술 후 9~12개월에 수술 전 또는 그 이하 수준으로 회복되었습니다.
-- 심한 위장관 증상을 겪은 환자는 수술 전 61%에서 수술 후 9~12개월에 52%로 감소했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42837495/) · [DOI](https://doi.org/10.1093/bjs/znag122) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13641176/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42837495)</small>
-
----
-<a id="pmid-42842360"></a>
-#### [췌장암 환자와 간병인이 직면하는 어려움: 질적 연구](https://pubmed.ncbi.nlm.nih.gov/42842360/)
-<small>Challenges Faced by Patients With Pancreatic Cancer and Their Caregivers: A Qualitative Research Study</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `진단·조기발견` · 2026-10-08 · PubMed · J Hosp Palliat Nurs · 중요도 0.77
-
-이 연구는 미국 남부 캘리포니아에 거주하는 진행성 췌관선암종(PDAC) 환자와 가족 간병인이 겪는 삶의 질(QoL) 관련 요인과 어려움을 조사했습니다. 2024년부터 2025년까지 환자 및 가족 간병인을 포함한 성인 21명을 대상으로 반구조화 심층 면담을 진행했습니다. 분석 결과 진료 지연, 의료 이용 장벽, 완화의료에 대한 오해, 전인적 치료의 필요성 등 4가지 주요 주제가 확인되었습니다. 연구진은 명확하고 공감적이며 문화적 배경을 고려한 환자 중심적 돌봄이 필요하다고 보고했습니다.
-
-- 남부 캘리포니아에 거주하는 췌관선암종(PDAC) 환자 및 가족 간병인 총 21명을 대상으로 심층 면담을 진행했습니다.
-- 분석을 통해 진료 지연, 의료 이용의 재정적·의사소통 장벽, 완화의료에 대한 오해, 전인적 돌봄 요구라는 4가지 주요 주제가 도출되었습니다.
-- 도출된 주제들은 ARC(Adversity, Restoration, Compatibility) 개념 틀에 부합하는 것으로 나타났습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42842360/) · [DOI](https://doi.org/10.1097/NJH.0000000000001272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42842360)</small>
 
 ---

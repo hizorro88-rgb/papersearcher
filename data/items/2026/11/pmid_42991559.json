@@ -9,8 +9,9 @@
  ],
  "categories": [
   "diagnosis",
-  "supportive",
-  "treatment"
+  "basic",
+  "treatment",
+  "supportive"
  ],
  "entities": [],
  "evidence": "review",
@@ -24,7 +25,12 @@
  ],
  "id": "pmid:42991559",
  "importance": 0.68,
- "key_points_ko": [],
+ "key_points_ko": [
+  "오랫동안 당뇨병을 앓은 경우 췌장암 발병 위험이 1.8~2.2배 증가합니다.",
+  "췌장암 환자의 30%~74%가 암 진단 2~36개월 전에 신규 당뇨병(T3cDM)을 경험합니다.",
+  "췌장암 완치 절제(R0) 수술 후 환자의 25%~40%에서 당 수치가 자연적으로 회복되었습니다.",
+  "췌장 유래 췌장성 당뇨병(T3cDM)은 인슐린 및 췌장 폴리펩티드 농도 감소가 특징이며 일반 제2형 당뇨병과 구별됩니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.3389/fendo.2026.1995824",
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42991559/"
  },
- "summary_ko": "A well-established bidirectional causal relationship connects type 2 diabetes mellitus (T2DM) and pancreatic ductal adenocarcinoma (PDAC). Long-standing T2DM elevates pancreatic cancer risk approximately 1.8-2.2-fold, whereas 30%-74% of PDAC patients develop new-onset diabetes (NOD) 2-36 months before tumor detection, which mostly corresponds to tumour-originated type 3c pancreatogenic diabetes (T3cDM).",
- "summary_source": "excerpt",
+ "summary_ko": "본 종설 논문은 제2형 당뇨병(T2DM)과 췌관선암(PDAC) 사이의 상호 영향과 작용 기전을 다룹니다. 오랫동안 당뇨병을 앓은 경우 췌장암 위험이 1.8~2.2배 증가하며, 반대로 췌장암 환자의 30%~74%는 암 진단 2~36개월 전에 새로운 당뇨병이 발생합니다. 수술로 췌장암을 완치 절제(R0)한 환자의 25%~40%에서 당 수치가 자연스럽게 회복되는 등 두 질환 간의 긴밀한 인과관계가 입증되어 있습니다. 신규 당뇨병 환자 중 췌장암 고위험군을 선별하기 위해 END-PAC 점수 모델 및 기계학습 알고리즘 등의 조기 진단 연구가 진행 중입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Bidirectional relationship between diabetes and pancreatic cancer: from mechanistic investigation to clinical application",
- "title_ko": null,
+ "title_ko": "당뇨병과 췌장암 사이의 쌍방향 관계: 기전 연구부터 임상적 적용까지",
  "trial": null,
  "type": "paper"
 }

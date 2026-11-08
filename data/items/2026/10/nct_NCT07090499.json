@@ -18,12 +18,12 @@
  "id": "nct:NCT07090499",
  "importance": 0.84,
  "key_points_ko": [
-  "대상 질환에는 진행성 췌장암을 포함한 여러 진행성 고형암이 포함됩니다.",
-  "시험약인 PF-08046876은 항체 약물 접합체(ADC)입니다.",
-  "연구는 용량 Escalation, 팽창 단계, 그리고 다른 항암제와의 병용 치료 단계로 구성됩니다.",
-  "전체 목표 환자 수는 540명입니다."
+  "진행성 췌장암을 포함한 고형암 환자 540명을 대상으로 하는 1상 임상시험입니다.",
+  "항체-약물 접합체(ADC) 표적 치료제인 PF-08046876의 안전성과 유효성을 평가합니다.",
+  "단독 투여 용량 증량 및 다른 항암치료제와의 병용 투여 방식을 검증합니다.",
+  "ECOG 수행능력 점수 0~1점 및 측정 가능한 병변이 있는 환자가 대상입니다."
  ],
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07090499"
  },
- "summary_ko": "본 임상시험은 방광암, 폐암, 두경부암, 식도암, 췌장암 등 진행성 암 환자를 대상으로 시험약 PF-08046876의 안전성과 효과를 평가합니다. PF-08046876은 암세포에 달라붙어 파괴하도록 설계된 항체 약물 접합체(antibody drug conjugate, ADC)라는 항암 치료제입니다. 연구는 여러 단계로 나뉘어 진행되며, 다양한 용량과 일정 평가, 안전성이 확인된 용량 투여, 그리고 다른 항암제와의 병용 투여를 시험합니다. 목표 환자 수는 540명입니다.",
+ "summary_ko": "이 연구는 췌장암, 방광암, 폐암, 두경부암, 식도암 등 진행성 고형암 환자를 대상으로 시험약 PF-08046876의 안전성과 효과를 평가하는 1상 임상시험입니다. PF-08046876은 암세포에 표적 결합하여 사멸시키도록 설계된 항체-약물 접합체(ADC)입니다. 연구는 단독 투여 용량 탐색과 다른 항암제와의 병용 투여 파트로 나누어 진행됩니다. 총 540명의 환자를 모집할 예정입니다.",
  "summary_source": "llm",
  "tags": [
   "B6C",
@@ -61,7 +61,7 @@
   "HNSCC"
  ],
  "title": "A Study to Learn About the Study Medicine Called PF-08046876 in People With Advanced Solid Tumors",
- "title_ko": "진행성 고형암 환자를 대상으로 한 연구 치료제 PF-08046876에 대한 연구",
+ "title_ko": "진행성 고형암 환자를 대상으로 신약 PF-08046876을 평가하는 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced/Metastatic Solid Tumors",
@@ -85,7 +85,7 @@
     "phone": "1-800-718-1021"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 18세 이상\n* 방광암, 폐암, 두경부암, 식도암 또는 췌장암의 진행성 암 진단\n* 측정 가능 병변(measurable disease) 있음\n* ECOG 수행능력(ECOG Performance status) 0~1\n* 파트 1: 표준 치료 후 진행 또는 재발\n* 파트 2: 진행성 단계에서 최대 2가지의 이전 전신 치료 경험\n* 파트 3: 폐암 또는 방광암 진행성 환자 (병용 치료군에 따라 이전 치료 요구사항 다름)\n* 이전 항암 치료의 급성 부작용이 기저 수준 또는 1등급으로 회복됨\n* 의학적으로 가능한 경우 사전 치료 종양 조직 제출 동의\n\n제외 기준:\n* 캄프토테신 계열 페이로드를 사용하는 항체 약물 접합체(예: sacituzumab govitecan, trastuzumab deruxtecan)의 이전 치료 경험\n* 프로토콜 제외 기준에 해당하는 활동성 식욕부진, 메스꺼움 또는 구토, 장 폐쇄 징후\n* 프로토콜 제외 기준에 해당하는 폐 질환\n* 프로토콜에 따른 기타 수용 불가능한 이상 소견\n* 파트 3: 프로토콜 및/또는 현지 허가사항에 따른 병용 약물의 금기사항 해당",
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 성인 환자\n• 췌장암, 방광암, 폐암, 두경부암, 식도암 등의 진행성 암 진단\n• 측정 가능한 병변 보유\n• ECOG 수행능력 평가 점수 0~1점\n• 파트 1: 표준 치료 후 진행 또는 재발한 환자\n• 파트 2: 진행성 단계에서 이전 전신 항암 치료를 최대 2차 이하로 받은 환자\n• 이전 항암 치료의 급성 부작용이 기저 상태 또는 1등급 이하로 회복된 환자\n\n제외 기준:\n• 캄프토테신(camptothecin) 계열 탑재체를 포함한 ADC 치료 이력이 있는 환자 (예: sacituzumab govitecan, trastuzumab deruxtecan 등)\n• 활동성 식욕부진, 메스꺼움, 구토 또는 장폐색 징후가 있는 환자\n• 임상시험 기준에 벗어나는 폐질환이 있는 환자\n• 기타 임상시험 참가에 부적합한 이상 소견이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* 18 years of age or older\n* Advanced cancer of the bladder, lung, head and neck, esophagus, or pancreas\n* Measurable disease\n* ECOG Performance status 0-1\n* Part 1: progression or relapse following standard treatments\n* Part 2: maximum of 2 prior lines of systemic therapy in the advanced setting\n* Part 3: advanced cancer of the lung or bladder, prior treatment requirements vary by combination therapy group\n* Resolution of acute effects of prior anticancer therapy to baseline or Grade 1\n* Consent to submit required pre-treatment tumor tissue as medically feasible\n\nExclusion criteria:\n\n* Received prior treatment with an antibody drug conjugate with a camptothecin-class payload (e.g. sacituzumab govitecan, trastuzumab deruxtecan )\n* Active anorexia, nausea or vomiting, and/or signs of intestinal obstruction meeting protocol exclusion\n* Pulmonary disease meeting protocol exclusion\n* Other unacceptable abnormalities as defined by protocol\n* Part 3: Meet contraindications of combination products per protocol and/or local labels",
   "enrollment": 540,
   "has_results": false,
@@ -110,14 +110,14 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "캄프토테신 계열 페이로드를 사용하는 항체 약물 접합체(ADC) 치료 경험",
-    "활동성 식욕부진, 메스꺼움, 구토 또는 장 폐쇄 징후",
-    "프로토콜에서 정한 폐 질환"
+    "캄프토테신 계열 ADC 치료 이력(엔허투, 트로델비 등)",
+    "활동성 장폐색 징후 또는 지속되는 메스꺼움 및 구토",
+    "임상시험 기준에 맞지 않는 폐질환"
    ],
    "max_prior_lines": 2,
    "measurable_required": true,
    "min_prior_lines": 2,
-   "notes_ko": "방광암, 폐암, 두경부암, 식도암, 췌장암 등 진행성 고형암 환자를 위한 1상 임상시험입니다.",
+   "notes_ko": "이전 표준 치료 경험이 있거나 최대 2차 이하의 치료를 받은 진행성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -25,7 +25,7 @@
   "선별검사는 전문가 센터에서 6개월마다 췌장 MRI와 내시경 초음파를 교대로 시행하는 방식으로 진행됩니다.",
   "선별검사의 목적은 전암성 병변(IPMN, 고등급 PanIN)이나 근치적 절제가 가능한 조기 췌장암을 발견하는 것입니다."
  ],
- "last_updated": "2026-11-06",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [],
@@ -33,9 +33,8 @@
   "pmid": "42983996"
  },
  "pub_types": [
-  "Journal Article",
   "English Abstract",
-  "Review"
+  "Journal Article"
  ],
  "published_at": "2026-10-01",
  "relevance": 0.7,

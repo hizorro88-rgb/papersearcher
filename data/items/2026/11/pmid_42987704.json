@@ -15,7 +15,7 @@
   "diagnosis"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-07",
  "history": [
   {
@@ -25,8 +25,12 @@
   }
  ],
  "id": "pmid:42987704",
- "importance": 0.68,
- "key_points_ko": [],
+ "importance": 0.75,
+ "key_points_ko": [
+  "총 1,619명(중앙연령 30세)의 소아 및 젊은 성인 췌장 종양 환자 데이터를 분석했습니다.",
+  "다변량 분석에서 종양적출술을 받은 환자는 해부학적 절제술 대비 사망 위험이 감소하는 경향을 보였습니다(위험비[HR] 0.65, 95% 신뢰구간[CI] 0.40-1.06).",
+  "고형 유사유두상 종양(HR 0.68, 95% CI 0.52-0.88)은 사망 위험 감소와 관련이 있었으며, 신경내분비암(HR 1.89, 95% CI 1.44-2.49)과 보조 항암화학요법(HR 3.80, 95% CI 2.68-5.40)은 높은 사망 위험과 관련이 있었습니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.1016/j.jss.2026.10.022",
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42987704/"
  },
- "summary_ko": "INTRODUCTION: Surgery is the primary treatment for pancreatic cancer in younger populations, though few studies have compared different surgical approaches in these populations. We compared survival outcomes between enucleation and anatomical resection with negative margins for pediatric and young adult patients with pancreatic tumors using the Surveillance, Epidemiology, and End Results (SEER) Program database.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 미국 SEER 데이터베이스를 활용하여 0세에서 39세 사이의 악성 췌장 종양 환자 1,619명을 대상으로 종양적출술(enucleation)과 해부학적 절제술(anatomical resection)의 전체생존기간(OS)을 비교했습니다. 분석 결과에서 췌관선암 환자는 제외되었습니다. 다변량 분석 결과, 저등급 악성 종양을 가진 소아 및 젊은 성인 환자에서 종양적출술은 해부학적 절제술과 비교하여 동등하거나 우수한 생존 결과를 보였습니다. 종양학적으로 적절한 조건을 갖춘 일부 환자에게 종양적출술을 치료 옵션으로 고려할 수 있습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Enucleation Versus Anatomical Resection of Malignant Pancreatic Tumors in Children and Young Adults",
- "title_ko": null,
+ "title_ko": "소아 및 젊은 성인의 악성 췌장 종양에서 종양적출술과 해부학적 절제술의 예후 비교",
  "trial": null,
  "type": "paper"
 }

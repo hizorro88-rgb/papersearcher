@@ -26,7 +26,7 @@
   "면역항암제와 화학요법의 병용은 생존 기간을 유의미하게 개선하지 못했습니다.",
   "췌장암은 신항원(neoantigen)이 적고 촘촘한 면역억제성 기질을 가진 '차가운 종양(cold tumor)'입니다."
  ],
- "last_updated": "2026-11-06",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [],
@@ -34,9 +34,8 @@
   "pmid": "42983993"
  },
  "pub_types": [
-  "Journal Article",
   "English Abstract",
-  "Review"
+  "Journal Article"
  ],
  "published_at": "2026-10-01",
  "relevance": 0.7,

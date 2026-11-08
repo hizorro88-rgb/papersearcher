@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [A Single-Arm Study of Nimotuzumab Combined With NALIRIFOX as First-Li…](../trials/NCT07920731.md) | 2상 | 초대 모집 | - |
+| [진행성 췌장암 1차 치료로서 니모투주맙과 NALIRIFOX 병용요법의 단일군 2상 임상시험](../trials/NCT07920731.md) | 2상 | 초대 모집 | - |
 | [젬시타빈 기반 치료 실패 후 전이성 췌장암 환자에서 YL201과 표준 화학요법의 효능 및 안전성을 비교하는 임상시험](../trials/NCT07803783.md) | 3상 | 모집 예정 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자를 위한 신보조 요법으로서 HRS-4642 병용 화학요법 (면역요법 병용 또는 비병용)](../trials/NCT07691593.md) | 2상 | 모집 예정 | - |

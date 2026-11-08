@@ -16,7 +16,7 @@ search:
 | [daraxonrasib](daraxonrasib.md) | 약물 | 20 | 2026-11-07 |
 | [zoldonrasib](zoldonrasib.md) | 약물 | 5 | 2026-11-07 |
 | [elironrasib](elironrasib.md) | 약물 | 1 | 2026-11-02 |
-| [sotorasib](sotorasib.md) | 약물 | 1 | 2026-11-07 |
+| [sotorasib](sotorasib.md) | 약물 | 1 | 2026-11-08 |
 | [adagrasib](adagrasib.md) | 약물 | 1 | 2026-10-17 |
 | [olaparib](olaparib.md) | 약물 | 8 | 2026-10-29 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 29 | 2026-11-07 |

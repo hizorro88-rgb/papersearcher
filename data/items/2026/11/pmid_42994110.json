@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Adjuvant chemotherapy is the standard treatment after upfront surgery for localized pancreatic adenocarcinoma (PDAC). However, its feasibility and prognostic significance after neoadjuvant chemoradiotherapy (NCRT) remain unclear. This study aimed to evaluate the completion rate and survival impact of adjuvant chemotherapy following curative-intent resection after NCRT.\nMETHODS: This retrospective study included 158 patients with localized PDAC (resectable, n = 66; borderline resectable, n = 92) who underwent S-1 plus gemcitabine-based NCRT followed by curative-intent resection between October 2011 and June 2024. Standard adjuvant chemotherapy consisted of oral S-1 or gemcitabine. Completion of adjuvant chemotherapy was defined as continuation for >5 months. Overall survival (OS) was analyzed using Cox proportional hazards models. An 8-month landmark analysis was performed to minimize immortal time bias. Predictors of adjuvant chemotherapy completion were examined by logistic regression analysis.\nRESULTS: Adjuvant chemotherapy was initiated in 130 patients (82.2%) and completed in 86 (54.4%). Median OS was significantly longer in patients who completed adjuvant chemotherapy than in those who did not complete or did not receive treatment (63.7 vs. 23.2 vs. 12.3 months, respectively; p < 0.001). Completion of adjuvant chemotherapy was independently associated with improved OS. In the landmark cohort (n = 144), completion remained significantly associated with longer OS (63.9 vs. 23.8 months; p < 0.001). Although the completion rate was significantly lower in borderline resectable than in resectable PDAC (47.8% vs 63.6%, p = 0.048), the survival benefit of completion was consistent across both subgroups. Older age and greater intraoperative blood loss were independent predictors of non-completion.\nCONCLUSIONS: Completion of adjuvant chemotherapy is significantly associated with improved survival after resection following NCRT for localized PDAC. Optimization of perioperative management to improve postoperative treatment tolerance may enhance outcomes in multimodal therapy.",
+ "authors": [
+  "Murata Y",
+  "Segi Y",
+  "Komatsubara H",
+  "Ito T",
+  "Gyoten K",
+  "Hayasaki A",
+  "Iizawa Y",
+  "Fujii T"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-08",
+ "history": [
+  {
+   "date": "2026-11-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42994110",
+ "importance": 0.77,
+ "key_points_ko": [
+  "보조항암화학요법을 완수한 환자의 전체 생존기간(OS) 중앙값은 63.7개월로 미완수군(23.2개월) 및 미투여군(12.3개월)보다 크게 연장되었습니다(p<0.001).",
+  "보조항암치료 완수율은 절제 가능군(63.6%)에 비해 경계성 절제 가능군(47.8%)에서 유의하게 낮았습니다(p=0.048).",
+  "고령과 수술 중 출혈량 증가는 보조항암치료를 끝까지 완수하지 못하게 만드는 독립적인 위험 요인으로 나타났습니다."
+ ],
+ "last_updated": "2026-11-08",
+ "links": {
+  "doi": "10.1016/j.suronc.2026.102590",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42994110"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994110/"
+ },
+ "summary_ko": "본 연구는 국소 췌관선암 환자 158명을 대상으로 선행 동시화학방사선요법(NCRT)과 수술을 시행한 후, 수술 후 보조항암화학요법의 완수율과 생존 기간에 미치는 영향을 후향적으로 분석했습니다. 전체 환자 중 82.2%가 보조항암요법을 시작했고 54.4%가 5개월 이상 치료를 완수했습니다. 보조항암치료를 완수한 환자군의 전체 생존기간 중앙값은 63.7개월로, 미완수군(23.2개월)이나 미투여군(12.3개월)에 비해 유의하게 길었습니다. 연구진은 수술 후 보조치료의 순응도를 높이기 위한 주술기 관리 최적화가 환자의 예후를 향상시킬 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Survival impact of completing adjuvant chemotherapy after neoadjuvant chemoradiotherapy and curative-intent resection for localized pancreatic ductal adenocarcinoma",
+ "title_ko": "국소 췌관선암에서 선행 동시화학방사선요법 및 근치적 절제술 후 보조항암화학요법 완수가 생존에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

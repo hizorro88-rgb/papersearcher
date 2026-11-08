@@ -20,11 +20,11 @@
  "id": "nct:NCT07808671",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 인원은 40명이며 18세부터 99세까지의 성인을 대상으로 합니다.",
-  "전자 의사결정 지원 도구를 활용하여 공유된 의사결정, 가치 일치 치료, 선별검사 순응도를 평가합니다.",
-  "현재 췌장암 선별검사 프로그램에 참여하고 있지 않은 UNC 고위험 위장관 암 클리닉(UNC High Risk GI Cancer Clinic) 내원 환자가 참여 대상입니다."
+  "목표 인원은 40명입니다.",
+  "전자 의사결정 지원 도구(Electronic Decision Support Tool)의 수용성과 실행 가능성을 평가합니다.",
+  "현재 환자 모집 전 상태(NOT_YET_RECRUITING)입니다."
  ],
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07808671"
  },
- "summary_ko": "이 연구는 췌장암 고위험군을 위한 전자 의사결정 지원 도구(electronic decision support tool)의 수용성, 타당성, 그리고 실행 가능성을 평가합니다. 췌장암은 발병률이 증가하고 생존율이 낮으며 조기 발견이 중요하지만, 선별검사와 관련된 근거와 전략은 아직 불확실합니다. 본 파일럿 연구는 환자와 의료진 간의 공유된 의사결정(shared decision-making)과 선별검사 순응도를 개선하기 위해 진행됩니다. 대상 질환은 췌장암(Pancreas Cancer)이며 목표 인원은 40명입니다.",
+ "summary_ko": "본 연구는 췌장암 고위험군을 위한 전자 의사결정 지원 도구의 수용성, 타당성, 실행 가능성을 평가하기 위한 파일럿 임상시험입니다. 40명의 성인을 대상으로 하며 공유 의사결정, 가치 일치 치료, 선별검사 순응도를 개선하는 것을 목표로 합니다. 현재 환자 모집 전 단계입니다. 초록에 명시되지 않은 생존기간, 반응률, 위험비 등의 수치는 없습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Decision Support Tool for Pancreatic Cancer Screening -Aim 2",
@@ -63,7 +63,7 @@
     "phone": "919-984-0000"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 미국 국립종합암네트워크(NCCN) 지침에 따라 췌장암 선별검사 대상에 해당하는 성인\n- 현재 췌장암 선별검사 프로그램에 등록되어 있지 않은 환자\n- UNC 고위험 위장관 암 클리닉에 의뢰되었거나 이전에 진료를 받은 환자\n- 영어를 구사하는 환자\n- 사전 동의를 제공할 능력과 의사가 있는 환자\n\n제외 기준:\n- 현재 췌장암 선별검사 프로그램에 등록되어 있는 환자\n- NCCN 지침에 따른 췌장암 선별검사 적격 기준을 충족하지 않는 환자\n- 사전 동의를 제공할 수 없거나 의사가 없는 환자\n- 영어를 구사하지 못하는 환자",
+  "eligibility_ko": "선정 기준:\n- 미국국립종합암네트워크(NCCN) 지침에 따라 췌장암 선별검사 대상이 되는 성인\n- 현재 췌장암 선별검사 프로그램에 등록되어 있지 않은 환자\n- UNC 고위험 위장관 암 클리닉(UNC High Risk GI Cancer Clinic)에 의뢰되었거나 이전에 방문한 적이 있는 환자\n- 영어를 구사할 수 있는 환자\n- 동의서를 제공할 능력과 의사가 있는 환자\n\n제외 기준:\n- 현재 췌장암 선별검사 프로그램에 등록되어 있는 환자\n- 미국국립종합암네트워크 지침에 따른 췌장암 선별검사 적격 기준을 충족하지 않는 환자\n- 동의서를 제공할 능력이나 의사가 없는 환자\n- 영어를 구사하지 못하는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Adults who are eligible for pancreatic cancer screening according to current National Comprehensive Cancer Network guidelines.\n* Not currently enrolled in a pancreatic cancer screening program.\n* Referred to or previously seen at the UNC High Risk GI Cancer Clinic.\n* English-speaking.\n* Able and willing to provide informed consent.\n\nExclusion Criteria:\n\n* Currently enrolled in a pancreatic cancer screening program.\n* Does not meet pancreatic cancer screening eligibility criteria according to National Comprehensive Cancer Network guidelines.\n* Unable or unwilling to provide informed consent.\n* Non-English speaking.",
   "enrollment": 40,
   "has_results": false,
@@ -80,15 +80,14 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "현재 췌장암 선별검사 프로그램에 등록되어 있는 경우",
-    "NCCN 지침의 췌장암 선별검사 기준을 충족하지 않는 경우",
-    "영어를 구사하지 못하는 경우",
-    "사전 동의를 제공할 수 없거나 의사가 없는 경우"
+    "현재 췌장암 선별검사 프로그램에 등록된 환자",
+    "영어 구사 불가 환자",
+    "동의서 제공 불가 환자"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "초록에 명시되지 않음",
+   "notes_ko": "NCCN 지침에 따라 췌장암 선별검사 대상이 되는 고위험군 성인",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

@@ -24,12 +24,11 @@
  "id": "nct:NCT06756035",
  "importance": 0.82,
  "key_points_ko": [
-  "초기에 계획된 목표 인원은 19명입니다.",
-  "제1상a 용량 증량 단계에서는 다양한 용량 코호트를 통해 안전성과 내반성을 평가하고 최대내성용량(MTD)을 결정합니다.",
-  "제1상b 용량 확장 단계에서는 질환별 확장 코호트를 평가할 예정이었습니다.",
-  "초록에 생존기간, 반응률, 위험비 등의 구체적인 결과 수치는 명시되지 않았습니다."
+  "메소텔린(MSLN) 발현 진행성 췌장암 및 고형암 환자를 대상으로 진행된 1상 임상시험입니다.",
+  "단일제 CT-95를 4주 주기로 주 1회 정맥 투여하여 안전성과 권장 용량을 평가하고자 했습니다.",
+  "해당 임상시험은 목표 인원 19명으로 설정되었으나 조기 종료(TERMINATED)되었습니다."
  ],
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [
@@ -52,7 +51,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06756035"
  },
- "summary_ko": "이 연구는 메소텔린(mesothelin, MSLN) 발현과 관련된 진행성 암 환자를 대상으로 단독 요법인 CT-95의 안전성, 약동학(pharmacokinetics, PK), 약력학 및 항종양 효과를 평가하기 위한 제1상/1b상 최초 인체 투여(first-in-human, FIH), 공개, 다기관 용량 증량 및 확장 연구입니다. 초록에 명시된 대상 질환에는 진행성 또는 전이성 췌장관선암(pancreatic adenocarcinoma)이 포함되어 있습니다. 환자들은 4주 주기로 매주 정맥 주사(IV)를 통해 CT-95 단독 투여를 받습니다. 현재 본 임상시험의 상태는 종료(TERMINATED)되었습니다.",
+ "summary_ko": "메소텔린(MSLN) 발현이 확인된 진행성 췌장암 및 기타 고형암 환자를 대상으로 CT-95의 안전성과 약동학, 항종양 효과를 평가하는 1상 임상시험입니다. CT-95는 4주 주기로 주 1회 정맥 투여되었습니다. 용량 증량 및 확장 단계로 계획되었으나 현재 본 연구는 조기 종료되었습니다.",
  "summary_source": "llm",
  "tags": [
   "Phase 1 Dose Escalation Study",
@@ -62,7 +61,7 @@
   "Cancers associated with mesothelin expression"
  ],
  "title": "CT-95 in Advanced Cancers Associated With Mesothelin Expression",
- "title_ko": "메소텔린(mesothelin) 발현 진행성 암 환자를 대상으로 한 CT-95 제1상 임상시험",
+ "title_ko": "메소텔린 발현 진행성 암 환자 대상 CT-95의 1상 임상시험",
  "trial": {
   "conditions": [
    "Mesothelin-Expressing Tumors",
@@ -78,7 +77,7 @@
    "Colorectal Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- ECOG 수행능력 0 또는 1\n- RECIST 1.1 또는 mRECIST 기준에 따른 평가 가능한 병변 보유\n- 적절한 장기 기능 보유\n- 메소텔린(mesothelin) 발현과 관련된 진행성 암 환자\n\n제외 기준:\n- 조절되지 않는 심각한 활동성 감염 또는 연구 참여를 부적합하게 만드는 의학적 상태\n- 이전에 MSLN 표적 CD3 또는 키메라 항원 수용체 T세포(CAR-T) 치료를 받은 이력\n- 다른 임상시험에 동시 참여\n- 연수막 질환(leptomeningeal disease)의 증거",
+  "eligibility_ko": "선정 기준: • ECOG 수행능력 평가 0 또는 1점 • RECIST 1.1 또는 mRECIST 기준 평가 가능한 병변 보유 • 적절한 장기 기능 보유 • 메소텔린(MSLN) 발현이 확인된 진행성 암 환자 제외 기준: • 조절되지 않는 심각한 활동성 감염 보유 • 이전에 MSLN 표적 CD3 또는 CAR-T 세포 치료를 받은 이력 • 다른 임상시험 동시 참여 • 뇌수막 질환 증거 보유",
   "eligibility_text": "Inclusion Criteria:\n\n* ECOG 0 or 1\n* Subjects with evaluable disease per RECIST 1.1 or mRECIST\n* Subjects with adequate organ function.\n* Subjects with advanced cancers associated with mesothelin expression\n\nExclusion Criteria:\n\n* Uncontrolled significant active infection or any medical or other condition that in opinion of the investigator would preclude the subject's participation in the study.\n* Prior treatment with MSLN-targeted CD3 or chimeric antigen receptor T cell (CAR-T) therapy\n* Concurrent participation in another investigational clinical trial.\n* Evidence of leptomeningeal disease",
   "enrollment": 19,
   "has_results": false,
@@ -92,17 +91,20 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [],
+   "biomarkers_required": [
+    "other"
+   ],
    "ecog_max": 1,
    "key_exclusions_ko": [
+    "이전 MSLN 표적 CD3 또는 CAR-T 세포 치료 이력",
     "조절되지 않는 심각한 활동성 감염",
-    "이전에 MSLN 표적 CAR-T 또는 CD3 치료를 받은 경우",
-    "연수막 질환이 있는 경우"
+    "뇌수막 질환 증거",
+    "다른 임상시험 동시 참여"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "메소텔린(mesothelin)을 발현하는 진행성 또는 전이성 췌장관선암 환자를 대상으로 한 제1상 임상시험입니다.",
+   "notes_ko": "메소텔린(MSLN) 발현이 확인된 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

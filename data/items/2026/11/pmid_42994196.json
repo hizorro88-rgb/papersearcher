@@ -1,0 +1,57 @@
+{
+ "abstract": "BACKGROUND: Patients with intraductal papillary mucinous neoplasms have an increased risk of developing concomitant pancreatic ductal adenocarcinoma. Krüppel-like factor 4 regulates p21 expression and has been implicated in intraductal papillary mucinous neoplasm tumorigenesis. We investigated the Krüppel-like factor 4-p21 pathway in intraductal papillary mucinous neoplasms associated with concomitant pancreatic ductal adenocarcinoma.\nMETHODS: We retrospectively analyzed 106 patients who underwent pancreatic resection for intraductal papillary mucinous neoplasm or concomitant pancreatic ductal adenocarcinoma associated with intraductal papillary mucinous neoplasm between 2018 and 2025. The immunohistochemical expression of Krüppel-like factor 4 and p21 was quantitatively evaluated using H-scores, whereas p53 expression was assessed by positive or negative staining. Associations between clinicopathologic features and concomitant pancreatic ductal adenocarcinoma status were assessed. PANC-1 cells were transfected with wild-type or K409Q-mutant Krüppel-like factor 4 to assess the effect of the K409Q mutation on p21 expression.\nRESULTS: Krüppel-like factor 4-K409Q retained p21-inducing ability despite lower protein expression than wild-type Krüppel-like factor 4. Of the 106 patients, 20 had concomitant pancreatic ductal adenocarcinoma, and Krüppel-like factor 4 expression did not differ between intraductal papillary mucinous neoplasms with and without concomitant pancreatic ductal adenocarcinoma (median H-score, 26.1 vs 21.1; P = .151), whereas p21 expression was lower in intraductal papillary mucinous neoplasms with concomitant pancreatic ductal adenocarcinoma (8.6 vs 21.9; P = .020). Krüppel-like factor 4 and p21 expression showed a significant positive correlation with intraductal papillary mucinous neoplasm tissue (r = 0.516; P < .001). Comparison among intraductal papillary mucinous neoplasm without concomitant pancreatic ductal adenocarcinoma, intraductal papillary mucinous neoplasm regions from concomitant pancreatic ductal adenocarcinoma cases, and concomitant pancreatic ductal adenocarcinoma regions demonstrated reduced p21 expression in intraductal papillary mucinous neoplasm regions from concomitant pancreatic ductal adenocarcinoma cases (P = .049). The frequency of p53-positive staining did not differ between intraductal papillary mucinous neoplasms with and without concomitant pancreatic ductal adenocarcinoma (P = .56).\nCONCLUSION: Dysregulation of the Krüppel-like factor 4-p21 axis may contribute to pancreatic carcinogenesis, independent of detectable changes in p53 expression.",
+ "authors": [
+  "Tomita M",
+  "Hozaka Y",
+  "Okumura T",
+  "Iio S",
+  "Oi H",
+  "Fukuda K",
+  "Idichi T",
+  "Yamasaki Y"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-08",
+ "history": [
+  {
+   "date": "2026-11-08",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42994196",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-08",
+ "links": {
+  "doi": "10.1016/j.surg.2026.110744",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42994196"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surgery",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994196/"
+ },
+ "summary_ko": "BACKGROUND: Patients with intraductal papillary mucinous neoplasms have an increased risk of developing concomitant pancreatic ductal adenocarcinoma. Krüppel-like factor 4 regulates p21 expression and has been implicated in intraductal papillary mucinous neoplasm tumorigenesis.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Dysregulation of the KLF4-p21 axis in intraductal papillary mucinous neoplasms associated with concomitant pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

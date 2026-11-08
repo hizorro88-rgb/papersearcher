@@ -22,12 +22,11 @@
  "id": "nct:NCT07562152",
  "importance": 0.99,
  "key_points_ko": [
-  "대상 질환은 전이성 췌장암(metastatic pancreatic adenocarcinoma)이며, 목표 인원은 570명입니다.",
-  "Atebimetinib과 변형된 젬시타빈(gemcitabine) 및  nab-paclitaxel(GnP) 병용 요법의 효과를 표준 GnP 치료와 비교합니다.",
-  "이전 전신 항암 치료를 받지 않은 1차 치료 환자를 대상으로 합니다.",
-  "초록에 구체적인 생존기간 수치나 반응률은 명시되지 않았습니다."
+  "전이성 췌관선암 환자 570명을 대상으로 하는 글로벌 무작위 배정 3상 임상시험입니다.",
+  "이전 전신 항암 치료 경험이 없는 1차 치료 환자만을 대상으로 진행됩니다.",
+  "atebimetinib + 변형 GnP 병용 투여군과 표준 GnP 단독 투여군을 비교 평가합니다."
  ],
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-08",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07562152"
  },
- "summary_ko": "이 연구는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 atebimetinib과 변형된 GnP(gemcitabine and nab-paclitaxel) 병용 요법의 안전성과 유효성을 표준 GnP 치료와 비교하기 위한 3상 임상시험입니다. 환자들은 무작위로 배정되어 1차 치료로서 atebimetinib 병용 투여 또는 표준 GnP 투여를 받게 됩니다. 본 연구는 전체 생존기간(overall survival) 향상을 평가하는 것을 목적으로 합니다. 초록에 구체적인 생존기간, 반응률, 위험비 수치는 명시되지 않았습니다.",
+ "summary_ko": "본 연구는 전이성 췌관선암(PDAC) 환자의 1차 치료로서 atebimetinib(아테비메티닙)과 변형된 gemcitabine(젬시타빈)/nab-paclitaxel(냅-팍리탁셀)(mGnP) 병용요법의 유효성과 안전성을 평가하는 3상 임상시험입니다. 기존 표준 치료인 GnP 단독 요법과 비교하여 전체 생존기간(OS) 개선 여부를 확인합니다. 이전 전신 항암 치료를 받은 적이 없는 전이성 췌관선암 환자 570명을 대상으로 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "mitogen-activated protein kinase (MAPK)",
@@ -65,7 +64,7 @@
   "pan-RAS"
  ],
  "title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
- "title_ko": "전이성 췌장암 환자에서 1차 치료로서 Atebimetinib과 GnP 병용 요법 평가",
+ "title_ko": "전이성 췌관선암 환자의 1차 치료로서 atebimetinib과 GnP 병용요법 평가 3상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -84,7 +83,7 @@
     "phone": "860-321-1302"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 18세 이상\n- 스크리닝 전 12주 이내에 확진된 전이성 췌장암(metastatic pancreatic adenocarcinoma)\n- ECOG 수행능력 상태 0 또는 1\n- 이전 전신 항암 치료를 받지 않은 1차 치료 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변(최소 1개의 표적 병변)이 있는 환자\n- 적절한 장기 기능, 간 기능, 응고 검사 및 프로토콜에 따른 임상 실험실 수치\n\n제외 기준:\n- 경구 약물을 삼킬 수 없는 경우\n- 편평세포, 선편평세포, 신경내분비암 또는 선방세포 췌장암인 경우\n- 국소 진행성 질환만 있는 환자\n- 증상이 있거나, 치료되지 않았거나, 활성 진행 중인 중추신경계(CNS) 전이가 있는 경우",
+  "eligibility_ko": "선정 기준: • 만 18세 이상 환자 • 스크리닝 전 12주 이내 진단된 전이성 췌관선암 • ECOG 수행능력 평가 점수 0 또는 1 • 이전에 전신 항암 치료를 받은 적이 없는 환자 (1차 치료) • RECIST v1.1 기준 측정 가능한 병변 보유 제외 기준: • 경구 약물 복용 불가능 • 편평세포암, 신경내분비암, 선포세포암 등 타 암종 • 국소진행성 병변만 존재하는 경우 • 증상이 있거나 치료받지 않은 중추신경계(CNS) 뇌전이",
   "eligibility_text": "Inclusion Criteria:\n\n* Must be ≥18 years of age\n* Must have confirmed diagnosis according to AJCC staging as follows:\n\n  * Metastatic pancreatic adenocarcinoma within 12 weeks prior to screening\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Participants must be treatment naive as follows:\n\n  * First-line PDAC participants will have received no previous systemic anti-cancer therapy\n* Must have evidence of measurable disease (at least one target lesion) per RECIST v1.1 criteria\n* Adequate organ function, hepatic function, coagulation studies and protocol determined clinical laboratory values\n\nExclusion Criteria:\n\n* Inability to swallow oral medications\n* Participant has squamous, adenosquamous, neuroendocrine (carcinoid, islet cell) or acinar pancreatic carcinoma\n* Participants with only locally advanced disease\n* Symptomatic, untreated, or actively progressing known central nervous system (CNS) metastases",
   "enrollment": 570,
   "has_results": false,
@@ -112,14 +111,14 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "경구 약물 복용 불가",
-    "편평세포, 선편평세포, 신경내분비암 또는 선방세포 췌장암",
-    "국소 진행성 질환만 있는 경우",
-    "증상이 있거나 치료되지 않은 뇌전이(CNS metastases)"
+    "췌장 신경내분비암, 편평세포암, 선포세포암 등 비선암종",
+    "전이가 없는 국소진행성 병변만 있는 경우",
+    "증상이 있거나 치료받지 않은 중추신경계(뇌) 전이"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료를 받지 않은 전이성 췌장암 환자",
+   "notes_ko": "이전 전신 항암 치료 경험이 없는 전이성 췌관선암 환자를 위한 1차 치료 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
