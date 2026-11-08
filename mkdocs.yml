@@ -60,6 +60,7 @@ extra_css:
 extra_javascript:
   - javascripts/glossary.js
   - javascripts/trial-finder.js
+  - javascripts/research-filter.js
 
 markdown_extensions:
   - admonition
@@ -129,6 +130,7 @@ nav:
       - 참여 방법 안내: guides/trials/how-to-apply.md
       - 임상시험 용어: guides/trials/glossary.md
   - 연구·소식 (자동 수집):
+      - 관심 주제로 필터: research/filter.md
       - 날짜별: _generated/daily/index.md
       - 신약·치료제: _generated/categories/drug.md
       - 수술: _generated/categories/surgery.md

@@ -42,6 +42,8 @@ comments: false
 
 --8<-- "_generated/latest.inc"
 
+**[관심 주제로 필터](research/filter.md)** — 젬아, 폐 전이 수술, KRAS 억제제처럼 보고 싶은 주제만 골라 보고 저장해 두세요.
+
 더 보기: [날짜별](_generated/daily/index.md) · [신약·치료제](_generated/categories/drug.md) · [수술](_generated/categories/surgery.md) · [주제별(약물·수술법)](_generated/topics/index.md)
 
 <p class="ps-sponsor">이 사이트는 무료로 운영됩니다. <a href="about/sponsor/">후원으로 운영을 도울 수 있습니다.</a> · <a href="about/contributing/">내용 수정·기여</a></p>

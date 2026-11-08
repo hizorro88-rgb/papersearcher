@@ -484,6 +484,35 @@ def render_index_json(items: list[Item]) -> None:
         json.dump(rows, f, ensure_ascii=False, separators=(",", ":"))
 
 
+def render_items_json(items: list[Item], out: Path) -> None:
+    """관심 주제 필터 페이지(브라우저)에서 읽는 경량 목록 + 주제 사전."""
+    rows = []
+    for i in items:
+        created = next((h.date for h in i.history if h.event == "created"), i.first_seen)
+        if i.trial:
+            page = f"_generated/trials/{i.trial.nct_id}/"
+        else:
+            page = f"_generated/daily/{created[:4]}/{created[5:7]}/{created[8:10]}/#{item_anchor(i)}"
+        rows.append({
+            "id": i.id, "t": i.display_title, "te": i.title if i.title_ko else "", "d": i.published_at, "u": i.last_updated,
+            "f": created, "ty": TYPE_NAME.get(i.type, i.type), "c": [cat_name(c) for c in i.categories],
+            "e": EVIDENCE_NAME.get(i.evidence, i.evidence), "s": short(i.summary_ko or "", 240),
+            "x": " ".join(i.entities + i.tags + ((i.trial.interventions[:6] + i.trial.conditions[:3]) if i.trial else [])),
+            "src": i.source.name + (f" · {i.source.journal}" if i.source.journal else ""), "url": i.source.url, "page": page,
+            "nct": i.trial.nct_id if i.trial else None, "kr": bool(i.trial and i.trial.locations_kr),
+            "rec": bool(i.trial and i.trial.status in ("RECRUITING", "NOT_YET_RECRUITING", "ENROLLING_BY_INVITATION")),
+            "imp": round(i.importance, 2),
+        })
+    # 최신순: 발표일 기준, 단 발표일이 수집일보다 미래(저널 호 날짜)면 수집일로
+    rows.sort(key=lambda r: min(r["d"] or r["f"] or "", r["f"] or ""), reverse=True)
+    topics = [{"id": t["id"], "label": t["label"], "group": t.get("group", "기타"),
+               "aliases": [a.lower() for a in t.get("aliases", [])], "terms": [x.lower() for x in t.get("terms", [])]}
+              for t in config.topics()]
+    with open(out / "items.json", "w", encoding="utf-8") as f:
+        json.dump({"generated": date.today().isoformat(), "n": len(rows), "topics": topics, "items": rows},
+                  f, ensure_ascii=False, separators=(",", ":"))
+
+
 def render_all(items_map: dict[str, Item], state: dict, today: date) -> None:
     out = config.GENERATED_DIR
     if out.exists():
@@ -498,6 +527,7 @@ def render_all(items_map: dict[str, Item], state: dict, today: date) -> None:
     render_categories(items, out, today)
     render_trials(items, out)
     render_match_json(items, out)
+    render_items_json(items, out)
     render_topics(items, out)
     render_latest(items, days, out, today, state)
     render_status(state, items, out)

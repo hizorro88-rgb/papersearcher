@@ -33,3 +33,8 @@ def taxonomy() -> dict:
 @lru_cache
 def entities() -> list[dict]:
     return _load("entities.yaml") or []
+
+
+def topics() -> list[dict]:
+    """관심 주제 필터 사전 (config/topics.yaml)."""
+    return _load("topics.yaml") or []

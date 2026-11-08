@@ -42,3 +42,26 @@
 @media (max-width: 30em) { .ps-stat b { font-size: 1.2rem; } .ps-stat span { font-size: .62rem; } }
 .ps-hits { display: inline-block; margin-right: .6rem; vertical-align: middle; }
 .ps-hits img { height: 18px; vertical-align: middle; }
+
+/* 관심 주제로 필터 */
+.rf-row { margin: .5rem 0; }
+#rf-q { width: 100%; font-size: .9rem; padding: .5rem .7rem; border: 1px solid var(--md-default-fg-color--lighter); border-radius: .3rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
+.rf-group { margin: .35rem 0; }
+.rf-gname { display: inline-block; min-width: 5.5rem; font-size: .7rem; color: var(--md-default-fg-color--light); margin-right: .3rem; }
+.rf-topic { display: inline-block; margin: .15rem .2rem .15rem 0; padding: .2rem .6rem; border-radius: 1rem; border: 1px solid var(--md-default-fg-color--lighter); background: var(--md-default-bg-color); color: var(--md-default-fg-color); font-size: .72rem; cursor: pointer; }
+.rf-topic.on { background: var(--md-primary-fg-color); color: var(--md-primary-bg-color); border-color: var(--md-primary-fg-color); }
+.rf-opts label { display: inline-block; margin-right: .9rem; font-size: .75rem; }
+.rf-opts select { font-size: .75rem; }
+.rf-hint, .rf-count { font-size: .75rem; color: var(--md-default-fg-color--light); }
+.rf-count { margin: .6rem 0; }
+.rf-fresh { color: #c62828; }
+.rf-card { border-left: 3px solid var(--md-default-fg-color--lighter); padding: .5rem .8rem; margin: .6rem 0; background: var(--md-code-bg-color); border-radius: 0 .3rem .3rem 0; font-size: .78rem; }
+.rf-card.rf-new { border-left-color: #c62828; }
+.rf-newtag { background: #c62828; color: #fff; font-size: .6rem; padding: 0 .3rem; border-radius: .2rem; vertical-align: middle; }
+.rf-title { font-weight: 700; font-size: .85rem; }
+.rf-en { color: var(--md-default-fg-color--light); font-size: .7rem; }
+.rf-meta { margin: .25rem 0; color: var(--md-default-fg-color--light); }
+.rf-b { display: inline-block; background: var(--md-default-fg-color--lightest); border-radius: .2rem; padding: 0 .35rem; font-size: .68rem; }
+.rf-b.rf-kr { background: #2e7d32; color: #fff; }
+.rf-sum { margin: .25rem 0; }
+.rf-links { margin-top: .25rem; }

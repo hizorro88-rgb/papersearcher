@@ -1,0 +1,148 @@
+# 관심 주제 필터용 사전. 각 주제의 terms 중 하나라도 제목·요약·중재명·개체명에 (대소문자 무시, 부분 일치) 나오면 해당 주제로 본다.
+# aliases 는 사용자가 검색창에 직접 칠 때 이 주제로 바꿔 주는 짧은 말 (예: "젬아").
+# 봇은 이 파일을 수정하지 않는다. 새 주제는 PR로 추가.
+- id: gem_abx
+  label: 젬아 (젬시타빈+아브락산)
+  group: 항암제
+  aliases: ["젬아", "젬브", "gnp", "ag"]
+  terms: ["nab-paclitaxel", "nab paclitaxel", "abraxane", "gemcitabine plus nab", "gemcitabine/nab", "gemcitabine and nab", "gem-nabp", "아브락산", "납-파클리탁셀", "납 파클리탁셀", "젬시타빈+아브락산", "젬시타빈/아브락산", "젬아"]
+- id: gemcitabine
+  label: 젬시타빈 (전체)
+  group: 항암제
+  aliases: ["젬자"]
+  terms: ["gemcitabine", "젬시타빈"]
+- id: folfirinox
+  label: FOLFIRINOX (폴피리녹스)
+  group: 항암제
+  aliases: ["폴피", "폴피리녹스", "folfirinox"]
+  terms: ["folfirinox", "폴피리녹스"]
+- id: nalirifox
+  label: NALIRIFOX · 오니바이드
+  group: 항암제
+  aliases: ["오니바이드", "나리리폭스"]
+  terms: ["nalirifox", "liposomal irinotecan", "onivyde", "nal-iri", "나리리폭스", "오니바이드", "리포좀 이리노테칸"]
+- id: s1_capecitabine
+  label: S-1 · 카페시타빈
+  group: 항암제
+  aliases: ["젤로다", "티에스원"]
+  terms: ["s-1 ", "s-1,", "s-1)", "tegafur", "capecitabine", "젤로다", "카페시타빈", "경구 항암"]
+- id: kras
+  label: KRAS 억제제 (다락소나십 등)
+  group: 표적·면역
+  aliases: ["kras", "다락소나십", "ras"]
+  terms: ["kras", "k-ras", "daraxonrasib", "rmc-6236", "pan-ras", "ras(on)", "zoldonrasib", "elironrasib", "sotorasib", "adagrasib", "mrtx1133", "g12d", "g12c", "g12r", "g12v", "다락소나십"]
+- id: immunotherapy
+  label: 면역항암제
+  group: 표적·면역
+  aliases: ["면역", "키트루다", "옵디보"]
+  terms: ["immunotherap", "immune checkpoint", "pd-1", "pd-l1", "pembrolizumab", "nivolumab", "ipilimumab", "car-t", "car t", "vaccine", "백신", "면역항암", "면역 치료", "면역치료", "neoantigen", "세포치료"]
+- id: brca_parp
+  label: BRCA · PARP 억제제
+  group: 표적·면역
+  aliases: ["brca", "올라파립"]
+  terms: ["brca", "palb2", "parp", "olaparib", "homologous recombination", "올라파립"]
+- id: targeted_other
+  label: 기타 표적 (HER2·CLDN18.2·NRG1·NTRK)
+  group: 표적·면역
+  aliases: ["her2", "claudin", "cldn"]
+  terms: ["her2", "claudin", "cldn18", "zolbetuximab", "nrg1", "zenocutuzumab", "ntrk", "antibody-drug conjugate", "항체약물접합체", "adc "]
+- id: lung_met
+  label: 폐 전이
+  group: 전이·재발
+  aliases: ["폐전이", "폐"]
+  terms: ["lung metasta", "pulmonary metasta", "pulmonary metastasectomy", "lung metastasectomy", "lung-only", "lung only", "metastatic to the lung", "metastases to the lung", "폐 전이", "폐전이", "폐로 전이", "폐 절제", "폐절제"]
+- id: liver_met
+  label: 간 전이
+  group: 전이·재발
+  aliases: ["간전이", "간"]
+  terms: ["liver metasta", "hepatic metasta", "liver metastasectomy", "hepatic resection", "liver-only", "liver only", "metastatic to the liver", "metastases to the liver", "간 전이", "간전이", "간으로 전이", "간 절제", "간절제"]
+- id: peritoneal
+  label: 복막 전이 · 복수
+  group: 전이·재발
+  aliases: ["복막", "복수"]
+  terms: ["peritoneal", "ascites", "복막", "복수"]
+- id: oligomet_surgery
+  label: 전이 절제술 · 소수전이
+  group: 전이·재발
+  aliases: ["전이수술", "전이절제", "metastasectomy"]
+  terms: ["metastasectomy", "oligometasta", "resection of metasta", "resection of liver metasta", "resection of lung metasta", "synchronous liver metasta", "전이 절제", "전이절제", "소수 전이", "소수전이", "전이 병변 절제", "conversion surgery", "전환 수술", "전환수술"]
+- id: recurrence
+  label: 재발
+  group: 전이·재발
+  aliases: ["재발"]
+  terms: ["recurren", "relapse", "재발"]
+- id: surgery
+  label: 췌장 수술 (휘플·원위절제 등)
+  group: 수술·시술·방사선
+  aliases: ["수술", "휘플", "whipple"]
+  terms: ["pancreatectomy", "pancreaticoduodenectomy", "pancreatoduodenectomy", "whipple", "resection", "resected", "resectable", "surgery", "surgical", "robotic", "laparoscopic", "휘플", "췌십이지장", "췌장절제", "절제술", "수술", "로봇", "복강경"]
+- id: borderline_la
+  label: 경계성·국소진행 (수술 전 치료)
+  group: 수술·시술·방사선
+  aliases: ["경계성", "국소진행", "선행항암"]
+  terms: ["borderline", "locally advanced", "neoadjuvant", "preoperative", "total neoadjuvant", "경계성", "국소 진행", "국소진행", "선행 항암", "선행항암", "수술 전 항암"]
+- id: adjuvant
+  label: 수술 후 보조항암
+  group: 수술·시술·방사선
+  aliases: ["보조항암", "adjuvant"]
+  terms: ["adjuvant", "postoperative", "보조 항암", "보조항암", "수술 후 항암"]
+- id: radiation
+  label: 방사선 (SBRT·중입자·양성자)
+  group: 수술·시술·방사선
+  aliases: ["방사선", "sbrt", "중입자"]
+  terms: ["radiotherap", "radiation", "sbrt", "stereotactic", "chemoradi", "carbon ion", "carbon-ion", "proton", "방사선", "중입자", "양성자", "탄소"]
+- id: procedures
+  label: 시술 (스텐트·배액관·신경차단)
+  group: 수술·시술·방사선
+  aliases: ["스텐트", "배액", "ercp"]
+  terms: ["stent", "biliary drainage", "ercp", "ptbd", "celiac plexus", "neurolysis", "endoscopic ultrasound-guided", "eus-guided", "스텐트", "배액", "담도", "신경차단", "신경 차단"]
+- id: biomarker_dx
+  label: 진단·조기발견 (CA19-9·ctDNA)
+  group: 진단·모니터링
+  aliases: ["ca19-9", "ctdna", "조기진단"]
+  terms: ["ca19-9", "ca 19-9", "ctdna", "circulating tumor", "liquid biopsy", "early detection", "screening", "biomarker", "조기 진단", "조기진단", "액체생검", "선별", "바이오마커"]
+- id: imaging
+  label: 영상·병기 (CT·MRI·PET)
+  group: 진단·모니터링
+  aliases: ["영상", "ct", "pet"]
+  terms: ["ct scan", "mri", "pet", "imaging", "radiomic", "staging", "영상", "병기"]
+- id: nutrition
+  label: 영양·악액질·소화효소
+  group: 지지요법
+  aliases: ["영양", "악액질", "소화효소"]
+  terms: ["cachexia", "nutrition", "sarcopenia", "pancreatic enzyme", "pert", "weight loss", "영양", "악액질", "근감소", "소화효소", "체중"]
+- id: pain_qol
+  label: 통증·삶의 질
+  group: 지지요법
+  aliases: ["통증", "삶의질"]
+  terms: ["pain", "quality of life", "qol", "palliative care", "supportive care", "통증", "삶의 질", "완화", "지지요법"]
+- id: diabetes
+  label: 혈당·당뇨
+  group: 지지요법
+  aliases: ["혈당", "당뇨"]
+  terms: ["diabetes", "glucose", "glycemic", "insulin", "혈당", "당뇨", "인슐린"]
+- id: side_effects
+  label: 부작용 (신경병증·구내염·호중구)
+  group: 지지요법
+  aliases: ["부작용", "독성"]
+  terms: ["neuropathy", "mucositis", "stomatitis", "neutropeni", "toxicit", "adverse event", "nausea", "diarrh", "부작용", "독성", "신경병증", "구내염", "호중구", "오심", "설사"]
+- id: elderly_frail
+  label: 고령·체력 저하 환자
+  group: 지지요법
+  aliases: ["고령", "노인"]
+  terms: ["elderly", "older patients", "frail", "geriatric", "고령", "노인", "허약"]
+- id: phase3
+  label: 3상 결과 · 가이드라인
+  group: 근거 수준
+  aliases: ["3상", "가이드라인"]
+  terms: ["phase 3", "phase iii", "phase3", "3상", "guideline", "가이드라인", "nccn", "asco", "esmo"]
+- id: survival
+  label: 생존 기간 보고 (OS·PFS)
+  group: 근거 수준
+  aliases: ["생존", "os", "pfs"]
+  terms: ["overall survival", "progression-free", "median survival", "hazard ratio", "전체 생존", "무진행 생존", "생존기간", "위험비"]
+- id: korea
+  label: 국내 연구·국내 기관
+  group: 근거 수준
+  aliases: ["국내", "한국"]
+  terms: ["korea", "korean", "국내", "한국", "서울", "seoul", "asan", "samsung medical", "severance", "national cancer center"]

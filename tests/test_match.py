@@ -76,5 +76,8 @@ def test_match_json_and_trial_page(tmp_root):
     render.render_all(store.load_all(), {"sources": {}, "runs": []}, date(2026, 10, 9))
     d = json.loads((config.GENERATED_DIR / "trials" / "match.json").read_text(encoding="utf-8"))
     assert d["n"] == 1 and d["trials"][0]["m"]["breq"] == ["KRAS_G12C"] and d["trials"][0]["h"] == "pdac"
+    items = json.loads((config.GENERATED_DIR / "items.json").read_text(encoding="utf-8"))
+    assert items["n"] == 1 and items["items"][0]["nct"] == "NCT00000001" and items["items"][0]["page"].startswith("_generated/trials/")
+    assert any(t["id"] == "gem_abx" and "젬아" in t["aliases"] for t in items["topics"])
     page = (config.GENERATED_DIR / "trials" / "NCT00000001.md").read_text(encoding="utf-8")
     assert "이 시험이 맞는 환자" in page and "KRAS G12C" in page and "맞춤 임상시험 찾기" in page
