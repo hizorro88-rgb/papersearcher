@@ -12,7 +12,7 @@
   "basic"
  ],
  "entities": [],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-11-07",
  "history": [
   {
@@ -22,8 +22,12 @@
   }
  ],
  "id": "pmid:42992895",
- "importance": 0.77,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "50명의 췌장암 환자 단백질체 분석 결과, 성별 간 유의미한 차이를 보이는 51개 단백질(여성 우세 37개, 남성 우세 14개)을 확인했습니다.",
+  "남성 유래 암세포 상층액은 M2형 대식세포 극성화를, 여성 유래 상층액은 M1형 대식세포 프로그램을 유도했습니다.",
+  "전체 생존기간(OS)과 연관된 29개 예후 인자 중 18개가 성별 특이적 연관성을 나타냈습니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.1021/acs.jproteome.6c00739",
@@ -45,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42992895/"
  },
- "summary_ko": "Sex differences influence clinical outcome and therapeutic response in pancreatic ductal adenocarcinoma (PDAC), yet the contribution of systemic immune-inflammatory programs remains insufficiently defined. In this study, we characterized sex-associated circulating proteomic signatures, evaluated their prognostic relevance, and assessed their association with macrophage polarization.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자에서 성별에 따른 전신 면역-염증 프로파일과 대식세포 응답, 생존율 간의 연관성을 분석했습니다. 50명의 췌장암 환자(여성 27명, 남성 23명)의 혈액 내 1,536개 단백질을 분석하여 성별 간 유의미한 차이를 보이는 51개 단백질을 발굴했습니다. 남성 유래 췌장암 세포주 배양액은 M2형 대식세포 분화를 유도한 반면, 여성 유래 배양액은 M1형 대식세포 활성화를 촉진했습니다. 연구진은 이러한 성별 특이적 면역 프로파일이 췌장암 바이오마커 개발 및 치료 전략 수립에 고려되어야 한다고 보고했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Exploring Sex-Associated Systemic Inflammatory Profiles Linked to Macrophage Responses and Survival in Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관선암 환자의 대식세포 응답 및 생존율과 연관된 성별 맞춤 전신 염증 프로파일 탐색",
  "trial": null,
  "type": "paper"
 }

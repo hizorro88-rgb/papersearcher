@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently exhibits lymph node (LN) metastasis, making early identification of high-risk patients crucial for optimizing treatment strategies. However, robust predictive models and external validation remain limited. This study aimed to develop and validate an artificial intelligence (AI) model for preoperative detection of LN status in PDAC patients.\nMETHODS: We retrospectively enrolled 233 pathologically confirmed PDAC patients from two high-volume pancreatic surgery centers between July 2015 and July 2022. All patients underwent contrast-enhanced computed tomography (CT) scans and met strict inclusion and exclusion criteria. Two experienced radiologists independently reviewed imaging. Radiomics analysis was performed using MATLAB and Python-based PyRadiomics. Following feature selection, 14 radiomic features were retained to construct a radiomics score. Three predictive models were developed and compared.\nRESULTS: From 1,652 extracted radiomic features, 14 were selected to build a radiomics score significantly associated with LN metastasis (P<0.001). Multivariate logistic regression identified tumor location, vascular invasion, white blood cell (WBC) count, platelet count, and radiomics score as independent predictors of LN metastasis, and a nomogram was generated. Various machine learning algorithms were evaluated to identify the optimal model combining radiomic and clinical data. Decision curve analysis demonstrated that the extreme gradient boosting (XGBoost) model achieved superior accuracy and stability, with an area under the curve (AUC) of 0.86 in the training set and 0.81 in the validation set.\nCONCLUSIONS: We successfully developed a LN metastasis prediction model integrating preoperative CT radiomics and clinical variables. The XGBoost-based model exhibited excellent accuracy, robustness, and generalizability. Future studies should focus on constructing more reliable models through standardized pathological sampling and prospective multicenter trials, alongside advancing imaging techniques to improve identification of small LNs.",
+ "authors": [
+  "Li Y",
+  "Wu S",
+  "Qiu J",
+  "Meng L",
+  "Zhang M",
+  "Cai H",
+  "Xu J",
+  "Zhang W"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996563",
+ "importance": 0.62,
+ "key_points_ko": [
+  "췌장암 환자 233명의 데이터를 바탕으로 수술 전 림프절 전이 여부를 예측하는 모델을 개발했습니다.",
+  "종양 위치, 혈관 침범, 백혈구 수, 혈소판 수, 라디오믹스 점수가 림프절 전이의 독립적 예측 요인으로 확인되었습니다.",
+  "XGBoost 모델이 가장 우수한 성능을 보였으며, 훈련 집단에서 AUC 0.86, 검증 집단에서 AUC 0.81을 기록했습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/gs-2026-0378",
+  "nct": [],
+  "pmcid": "PMC13740516",
+  "pmid": "42996563"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gland Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996563/"
+ },
+ "summary_ko": "췌장관선암(PDAC) 환자의 수술 전 림프절 전이 여부를 예측하기 위한 인공지능(AI) 모델을 개발하고 검증한 연구입니다. 2개 의료기관에서 확진된 췌장암 환자 233명의 수술 전 조영증강 컴퓨터단층촬영(CT) 영상과 임상 데이터를 분석했습니다. 라디오믹스(radiomics, 영상유전체학) 특징과 종양 위치, 혈관 침범, 혈액 검사 수치를 결합한 XGBoost 모델이 수술 전 림프절 전이를 정확하게 예측했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deep learning radiomics model for lymph node metastases prediction: a diagnostic study",
+ "title_ko": "림프절 전이 예측을 위한 딥러닝 라디오믹스 모델: 진단 연구",
+ "trial": null,
+ "type": "paper"
+}

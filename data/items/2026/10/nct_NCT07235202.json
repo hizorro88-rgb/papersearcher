@@ -22,11 +22,11 @@
  "id": "nct:NCT07235202",
  "importance": 0.9,
  "key_points_ko": [
-  "1차 전신 항암 치료 실패 후 진행한 국소 진행성 또는 전이성 췌관선암 환자 45명을 대상으로 합니다.",
-  "MR001과 표준 화학요법 병용 투여의 안전성 및 초기 치료 효과를 평가하는 1b/2a상 연구입니다.",
-  "대상 환자는 ECOG 수행능력 평가 점수 0~1점 및 측정 가능한 병변을 보유해야 합니다."
+  "대상 환자: 1차 전신 항암 치료 후 진행된 국소 진행성 또는 전이성 췌관선암(PDAC) 환자",
+  "시험 치료: MR001과 항암화학요법(irinotecan liposome injection combined with 5-FU/LV, nab-paclitaxel, gemcitabine) 병용",
+  "연구 단계: 임상 1b/2a상(Phase Ib/IIa), 목표 인원 45명"
  ],
- "last_updated": "2026-11-08",
+ "last_updated": "2026-11-09",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07235202"
  },
- "summary_ko": "이 연구는 1차 전신 항암 치료 후 질병이 진행한 국소 진행성 또는 전이성 췌관선암(PDAC) 환자를 대상으로 진행되는 1b/2a상 임상시험입니다. 신약 후보물질 MR001과 기존 화학요법(이리노테칸 리포솜/5-FU/LV, 맙팩리탁셀, 젬시타빈 등)을 병용 투여할 때의 안전성, 내약성, 약동학 및 초기 유효성을 평가합니다. 오픈라벨 방식으로 용량 증량 및 용량 확장 단계를 거치며 총 45명의 환자를 모집합니다.",
+ "summary_ko": "이 임상 1b/2a상 연구는 1차 치료 후 진행된 국소 진행성 또는 전이성 췌관선암(PDAC) 환자를 대상으로 MR001과 표준 항암화학요법의 병용 투여에 대한 안전성, 내약성, 약동학 및 예비 유효성을 평가합니다. 공개형(open-label), 용량 상승 및 용량 확장 연구로 진행됩니다. 총 목표 인원은 45명이며 국내 기관은 없습니다.",
  "summary_source": "llm",
  "tags": [
   "MR001",
@@ -58,7 +58,7 @@
   "TGF-β1"
  ],
  "title": "A Study of MR001 Combined With Chemotherapy in Patients With Locally Advanced or Metastatic Pancreatic Ductal Adenocarcinoma (PDAC) After First-line Therapy",
- "title_ko": "1차 치료 후 국소 진행성 또는 전이성 췌관선암 환자를 대상으로 한 MR001 및 항암화학요법 병용 연구",
+ "title_ko": "국소 진행성 또는 전이성 췌관선암(PDAC) 1차 치료 후 MR001과 항암화학요법 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)"
@@ -70,7 +70,7 @@
     "phone": "+86 13332895357"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 췌관선암(PDAC)\n• 정확히 1가지의 이전 전신 항암 치료 후 질병이 진행된 환자\n• RECIST v1.1 기준 최소 1개 이상의 측정 가능한 병변 보유\n• ECOG 수행능력 평가 점수 0~1점\n• 예상 수명 3개월 초과\n• 적절한 장기 및 골수 기능보유\n\n제외 기준:\n• MR001 또는 유사 단클론항체(monoclonal antibody)에 과민반응이 있는 경우\n• 첫 투여 전 14일 이내 전신 면역억제제 치료가 필요한 경우\n• 조절되지 않는 활동성 감염 또는 동반 악성 종양 보유\n• 적절히 조절되지 않는 활동성 뇌전이 또는 뇌수막 전이\n• 임상적으로 유의한 심혈관, 신장 또는 간 장애 보유\n• 임신 또는 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 확진된 국소 진행성 또는 전이성 췌관선암(PDAC)으로, 단 한 차례의 이전 전신 항암 치료 후에만 진행된 환자\n- RECIST v1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 있는 환자\n- ECOG 수행능력(Performance Status) 0~1인 환자\n- 기대여명이 3개월 초과인 환자\n- 실험실 검사 기준에 따른 적절한 장기 및 골수 기능이 있는 환자\n- 자발적으로 동의서에 서명한 환자\n\n제외 기준:\n- MR001 또는 유사한 단일클론항체에 알려진 과민성이 있는 경우\n- 첫 투여 전 14일 이내에 전신 면역억제 치료가 필요한 경우\n- 조절되지 않는 활동성 감염 또는 동시성 악성종양\n- 적절히 조절되지 않는 활동성 뇌전이 또는 연수막 전이\n- 임상적으로 유의한 심혈관, 신장 또는 간 질환\n- 임신 중이거나 모유 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed locally advanced or metastatic PDAC, progressed after only one prior line of systemic therapy.\n* At least one measurable lesion per RECIST v1.1.\n* ECOG Performance Status of 0-1.\n* Life expectancy \\>3 months.\n* Adequate organ and marrow function as defined by laboratory parameters.\n* Voluntarily sign the informed consent form.\n\nExclusion Criteria:\n\n* Known hypersensitivity to MR001 or similar monoclonal antibodies.\n* Requirement for systemic immunosuppressive therapy within 14 days before first dosing.\n* Uncontrolled active infections or concurrent malignancies.\n* Not adequately controlled active brain metastases or leptomeningeal metastasis.\n* Clinically significant cardiovascular, renal, or hepatic disorders.\n* Pregnant or breastfeeding women.\n* Any other circumstances which the investigator considers may increase risks to subjects or interfere with the results of the trial.",
   "enrollment": 45,
   "has_results": false,
@@ -90,15 +90,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "조절되지 않는 활동성 감염 또는 다른 암 동반",
-    "적절히 조절되지 않은 뇌전이 또는 뇌수막 전이",
-    "임상적으로 유의한 심혈관, 신장 또는 간 장애",
-    "첫 투여 전 14일 이내 전신 면역억제제 치료 필요"
+    "조절되지 않는 활동성 뇌전이 또는 연수막 전이",
+    "조절되지 않는 활동성 감염",
+    "동시성 악성종양",
+    "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "1차 전신 항암 치료를 받은 후 진행한 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "이전 전신 항암 치료를 1가지 받은 국소 진행성 또는 전이성 췌관선암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -16,12 +16,202 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 310건 · 최근 30일 285건
+전체 323건 · 최근 30일 281건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-42999117"></a>
+#### [대장암 및 췌장암 종양 미세환경에서의 세포 근접성과 조건부 상호작용: 다중 이미징의 환자 수준 분석](https://pubmed.ncbi.nlm.nih.gov/42999117/)
+<small>Cellular proximity and conditional coordination in the colorectal and pancreatic tumor microenvironment: a patient-level analysis of multiplexed imaging</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` · 2026-10-15 · PubMed · bioRxiv · 중요도 0.72
+
+종양 미세환경 내 상피세포와 면역세포의 공간적 배치를 정밀하게 규명하기 위해 췌관선암(PDAC) 및 그 전구 병변인 췌관내 유두상 점액종양(IPMN) 환자 141명의 다중 면역형광 이미지 등을 분석한 기초 연구입니다. 연구진은 세포 간 단순 근접성과 다른 세포들의 밀도를 보정한 조건부 상호작용을 분리해 평가하는 새로운 분석 기법을 개발했습니다. 분석 결과 췌관선암에서는 IPMN에 비해 세포독성 T세포와 조력 T세포가 공간적으로 더 밀접하게 위치하는 것으로 나타났습니다. 이러한 복합 공간 특징은 췌장 조직의 악성 변화를 구별하는 지표로서 유의한 가능성을 보였습니다.
+
+- 췌관선암(PDAC) 및 전구 병변 IPMN 환자 141명의 다중 면역형광 이미지 207개를 포함하여 세포 간 공간 배치를 정밀 분석했습니다.
+- 췌관선암 조직에서는 IPMN에 비해 세포독성 T세포와 조력 T세포 간의 거리가 모든 관찰 척도에서 유의미하게 더 가까웠습니다(q ≤ 0.023).
+- 공간적 특징들을 결합했을 때 췌장 병변(PDAC 대 IPMN)을 구별하는 환자 수준의 곡선하면적(AUC)은 0.771을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42999117/) · [DOI](https://doi.org/10.64898/2026.10.08.757632) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13742421/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42999117)</small>
+
+---
+<a id="pmid-42997265"></a>
+#### [Single-Cell RNA Sequencing-Integrated Fibroblast Markers and Candidate Drug-Target Associations in Pancreatic Ductal Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42997265/)
+`논문` `기타` `기초연구` · 2026-11-06 · PubMed · Hum Mutat · 중요도 0.70
+
+BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has dismal outcomes and is shaped by a fibroblast-rich tumor microenvironment (TME). A cell type-resolved, module-level understanding of cancer-associated fibroblasts (CAFs) and their therapeutic relevance remains incompletely characterized.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42997265/) · [DOI](https://doi.org/10.1155/humu/7172433) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13741292/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42997265)</small>
+
+---
+<a id="pmid-42995188"></a>
+#### [비질환 및 당뇨 인간 췌장 조직의 방사광 X선 데이터와 췌도 분할 모델](https://pubmed.ncbi.nlm.nih.gov/42995188/)
+<small>Synchrotron X-ray Data of non-diseased and diabetic Human Pancreas Tissue and Islet Segmentation Model</small>
+
+`논문` `기타` `기초연구` `수술` `치료 전반` `진단·조기발견` · 2026-11-06 · PubMed · Sci Data · 중요도 0.70
+
+방사광 컴퓨터단층촬영(synchrotron radiation micro-CT) 기술을 활용하여 인간 췌장 조직의 3차원 미세구조를 비파괴적으로 관찰한 고해상도 영상 데이터베이스입니다. 장기 기증자의 정상 췌장 조직과 선행항암화학요법(neoadjuvant chemotherapy) 또는 인슐린 의존성 당뇨병 병력이 있는 췌장암 환자의 비종양성 절제 부위 등 총 32명으로부터 55개의 조직 코어를 분석했습니다. 랑게르한스섬(islets of Langerhans)의 자동 분할을 위한 인공지능 모델(2.5D U-Net)과 임상 메타데이터도 함께 구축되었습니다. 이 데이터셋은 췌장의 내분비, 외분비, 도관 및 기질 구조에 대한 정량적 연구와 3차원 가상 조직학 연구를 지원하기 위해 공개되었습니다.
+
+- 총 32명의 대상자로부터 채취한 55개의 인간 췌장 조직 코어(직경 1mm)에 대해 650nm 복셀 크기와 평균 유효 해상도 1.66µm의 3차원 X선 영상을 획득했습니다.
+- 췌도(Langerhans islets) 자동 분할 모델은 대표 단면에서 주사위 유사 계수(Dice similarity coefficient) 0.81 및 IoU(intersection-over-union) 0.67의 성능을 보였습니다.
+- 기증자의 정상 조직 및 췌장암 환자의 수술 검체 중 비종양성 조직 부위를 포함하여 정상 췌장 미세구조 분석의 기준 프레임워크를 제공합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995188/) · [DOI](https://doi.org/10.1038/s41597-026-08613-1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13743551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995188)</small>
+
+---
+<a id="pmid-42996866"></a>
+#### [췌장관선암에서 유전자 재조합 세균 매개 기질 리모델링: 치료적 기회와 임상적 적용의 한계에 대한 서술적 검토](https://pubmed.ncbi.nlm.nih.gov/42996866/)
+<small>Engineered bacteria-mediated stromal remodeling in pancreatic ductal adenocarcinoma: therapeutic opportunities and translational limits-a narrative review</small>
+
+`논문` `종설` `치료 전반` `기초연구` · 2026-08-10 · PubMed · J Gastrointest Oncol · 중요도 0.62
+
+본 논문은 췌장관선암(PDAC)의 종양 기질을 개방하기 위한 유전자 재조합 세균(engineered bacteria) 치료 플랫폼의 가능성과 한계를 종합한 서술적 종설 논문입니다. 췌장암은 치밀한 결합조직 형성성 기질로 인해 약물 전달과 면역세포 침투가 극도로 제한됩니다. 연구진은 저산소 종양 부위로 이동하는 세균 특성을 활용해 히알루론산 분해 및 콜라겐 감소 등의 기질 리모델링 효과를 분석했습니다. 유전자 재조합 세균은 약물 침투를 돕는局所(국소) 플랫폼으로 기대받고 있으나 현재까지의 연구 근거는 대부분 전임상 단계에 머물러 있습니다.
+
+- 유전자 재조합 세균은 종양 친화성과 저산소 구역 농축 특성을 이용해 췌장암 기질 개방 및 약물 전달을 도울 수 있는 플랫폼입니다.
+- 전임상 모델에서 히알루론산 분해, 콜라겐 감소, 췌장별상세포(PSC) 조절을 통해 항암제 침투력과 면역세포 접근성을 향상시켰습니다.
+- 현재 췌장암 환자를 대상으로 한 직접적인 임상 검증은 제한적이며 실제 환자에서의 안전성과 재현성 확보가 향후 과제입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996866/) · [DOI](https://doi.org/10.21037/jgo-2026-0612) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740587/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996866)</small>
+
+---
+<a id="pmid-42998802"></a>
+#### [아토바쿠온(atovaquone)의 AMPK 조절을 통한 췌장암 근육 소모 억제 효과](https://pubmed.ncbi.nlm.nih.gov/42998802/)
+<small>Atovaquone impedes muscle wasting in pancreatic cancer by AMPK modulation</small>
+
+`논문` `전임상` `지지요법·삶의질` `기초연구` `신약·치료제` `치료 전반` · 2026-11-07 · PubMed · Cancer Lett · 중요도 0.60
+
+췌장암 환자의 80% 이상에서 전신 염증과 골격근 및 지방 소모를 특징으로 하는 암 악액질(cachexia)이 발생하지만 승인된 치료제가 부족한 상황입니다. 본 연구는 항말라리아제로 사용되는 아토바쿠온(atovaquone)이 췌장암 관련 근육 소모를 억제하는 효과를 세포 및 동물실험을 통해 평가했습니다. 연구진은 아토바쿠온이 AMPK를 활성화하여 Glut4 발현 및 당분해능을 촉진하고 활성산소종을 줄여 근육 위축을 막는 기전을 확인했습니다. 췌장암 동물 모델 실험 결과 아토바쿠온은 종양의 성장에는 직접적인 영향을 주지 않으면서 암 악액질 증상을 유의미하게 억제했습니다.
+
+- 췌장암 환자의 80% 이상에서 암 악액질이 나타나며 이는 사망률 증가의 주된 원인이 됩니다.
+- 아토바쿠온(atovaquone)은 농도 의존적으로 암 유래 매개물질에 의한 근육세포 위축과 활성산소종(ROS)을 감소시켰습니다.
+- 췌장암 마우스 모델에서 종양 크기 변화 없이 악액질 증상(근육 소모)을 억제하는 효과를 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42998802/) · [DOI](https://doi.org/10.1016/j.canlet.2026.218951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42998802)</small>
+
+---
+<a id="pmid-42997921"></a>
+#### [췌관선암종에서 DNA 미스매치 복구 양상: 면역 미세환경 및 항암제 반응성을 시사하는 새로운 예후 예측 지표](https://pubmed.ncbi.nlm.nih.gov/42997921/)
+<small>The DNA mismatch repair landscape in pancreatic adenocarcinoma: a novel prognostic signature with implications for immune microenvironment and chemotherapy response</small>
+
+`논문` `관찰연구` `기초연구` `치료 전반` `진단·조기발견` · 2026-05-18 · PubMed · Transl Cancer Res · 중요도 0.59
+
+연구진은 암 유전체 아틀라스(TCGA) 및 GEO 데이터베이스의 췌관선암(PAAD) 데이터를 분석하여 DNA 미스매치 복구(MMR) 관련 6개 유전자 기반 예후 예측 모델을 개발했습니다. 이 모델은 환자를 고위험군과 저위험군으로 분류하였으며, 저위험군이 고위험군에 비해 전체 생존기간(OS)이 통계적으로 유의하게 길었습니다(P<0.001). 약물 민감도 분석 결과 고위험군은 gemcitabine(젬시타빈) 및 paclitaxel(파클리탁셀) 항암제에 더 민감하게 반응하는 특징을 보였습니다. 반면 저위험군은 CD8+ T세포 침윤이 증가하는 등 면역학적으로 활성화된 종양 미세환경을 나타냈습니다.
+
+- 6개 MMR 유전자(HDAC10, MSH2, MSH4, PCNA, PRKCG, RPA1) 기반 모델은 5년 생존율 예측에서 곡선아래면적(AUC) 0.857의 정확도를 보였습니다.
+- 고위험군과 저위험군 사이에 전체 생존기간의 통계적으로 유의미한 차이가 확인되었습니다(P<0.001).
+- 약물 민감도 분석에서 고위험군이 gemcitabine(젬시타빈) 및 paclitaxel(파클리탁셀)에 대해 더 높은 반응성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42997921/) · [DOI](https://doi.org/10.21037/tcr-2026-1-0007) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13743250/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42997921)</small>
+
+---
+<a id="pmid-42996607"></a>
+#### [머신러닝을 활용한 췌장암 내 섬유아세포 이질성의 예후 및 면역 층화 분석](https://pubmed.ncbi.nlm.nih.gov/42996607/)
+<small>Translating fibroblast heterogeneity into prognosis and immune stratification in pancreatic cancer using machine learning</small>
+
+`논문` `종설` `기초연구` `치료 전반` · 2026-10-15 · PubMed · J Gastrointest Oncol · 중요도 0.58
+
+본 글은 췌장암(pancreatic cancer)에서 섬유아세포(fibroblast)의 이질성을 머신러닝(machine learning)을 통해 예후 및 면역 층화 분석에 적용한 연구를 다룬 사설입니다. 종양 미세환경 속 섬유아세포의 생물학적 다양성을 파악하여 환자의 예후를 예측하는 연구 흐름을 소개합니다. 제시된 본문 정보에는 구체적인 실험 수치나 상세 결과가 명시되지 않았습니다.
+
+- 머신러닝을 활용해 췌장암 내 섬유아세포(fibroblast) 이질성을 분석하고 예후에 적용하는 연구를 다룬 사설입니다.
+- 섬유아세포의 특성을 바탕으로 췌장암 환자의 면역 층화 및 예후 예측 가능성을 논의합니다.
+- 상세 연구 데이터, 수치적 결과 및 환자 대상은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996607/) · [DOI](https://doi.org/10.21037/jgo-2026-0930) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740568/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996607)</small>
+
+---
+<a id="pmid-42995949"></a>
+#### [종양유전자 KRAS-MAPK 신호전달에 의한 CD73 의존성 치료 취약점과 췌장암에서의 복합 치료 효과](https://pubmed.ncbi.nlm.nih.gov/42995949/)
+<small>Oncogenic KRAS-MAPK signaling sustains a CD73 dependent therapeutic vulnerability in pancreatic cancer</small>
+
+`논문` `전임상` `신약·치료제` `치료 전반` `기초연구` · 2026-10-25 · PubMed · bioRxiv · 중요도 0.57
+
+췌관선암(PDAC)에서 KRAS-MAPK 신호전달과 CD73 매개 아데노신 신호전달을 동시 차단하는 이중 표적 치료 전략을 평가한 전임상 연구입니다. 연구진은 CD73 억제제인 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제의 병용 투여가 단독 요법에 비해 종양 크기를 유의하게 줄이는 것을 확인했습니다. 또한 이 병용 요법은 종양 기질을 리모델링하고 면역 억제성 마크로파지를 감소시키는 한편 CD8+ T 세포 침윤을 촉진했습니다.
+
+- KRAS-MAPK 신호 억제 시 세포 수준에서 CD73 발현이 감소함을 확인했습니다.
+- 동물 모델에서 CD73 억제제 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제의 병용 투여는 단독 치료 대비 가장 뛰어난 종양 억제 효과를 보였습니다.
+- 병용 치료는 αSMA 양성 종양 기질과 CD163 양성 면역 억제성 마크로파지를 줄이고 CD8α 양성 T 세포 및 그랜자임 B 침윤을 증가시켰습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995949/) · [DOI](https://doi.org/10.64898/2026.10.20.760559) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13738641/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995949)</small>
+
+---
+<a id="pmid-42999371"></a>
+#### [단일 세포 프로파일링을 통해 밝힌 췌장암의 쿠프로프토시스 조절 예후 바이오마커 GABBR1](https://pubmed.ncbi.nlm.nih.gov/42999371/)
+<small>Single-cell profiling reveals GABBR1 as a cuproptosis-regulated prognostic biomarker in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `진단·조기발견` `수술` `치료 전반` · 2026-10-15 · PubMed · ILIVER · 중요도 0.53
+
+본 연구는 췌장암(PC)에서 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 작용과 예후적 가치를 규명하기 위해 진행되었습니다. 단일 세포 유전자 분석과 면역조직화학 검사를 통해 암 관련 섬유아세포(CAF)가 쿠프로프토시스 활성이 가장 높은 세포군임을 확인했습니다. 연구진은 암 진행에 따라 발현이 감소하는 핵심 유전자 GABBR1을 발굴했으며, 이는 췌장암의 예후와 면역 반응을 예측하는 바이오마커로 활용될 수 있음을 제시했습니다.
+
+- 단일 세포 분석 결과 암 관련 섬유아세포(CAF)가 췌장암 조직 내에서 쿠프로프토시스 활성이 가장 높은 주요 세포 유형으로 확인되었습니다.
+- GABBR1, LIAS, LIPT1 유전자의 발현은 인접한 정상 조직에 비해 췌장암 종양 조직에서 현저하게 낮게 나타났습니다.
+- GABBR1 발현량이 높은 섬유아세포는 T세포 활성화 마커 및 면역 관문 유전자 발현이 증가되어 있어 환자의 예후 예측 모델에 유용함이 입증되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42999371/) · [DOI](https://doi.org/10.1016/j.iliver.2026.100276) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13743417/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42999371)</small>
+
+---
+<a id="pmid-42997689"></a>
+#### [에리오디크티올(Eriodyctiol)의 MDM2-P53 상호작용 저해를 통한 췌장암 세포 사멸 유도 및 젬시타빈 병용 시너지 효과](https://pubmed.ncbi.nlm.nih.gov/42997689/)
+<small>Eriodyctiol induces P53-dependent apoptosis in pancreatic cancer through disruption of MDM2-P53 interaction and synergistically enhances gemcitabine efficacy</small>
+
+`논문` `전임상` `신약·치료제` `치료 전반` `기초연구` · 2026-09-28 · PubMed · Transl Cancer Res · 중요도 0.52
+
+본 연구는 천연 플라보노이드 성분인 에리오디크티올(eriodyctiol)의 췌장암 치료 효과와 젬시타빈(gemcitabine)과의 병용 효과를 확인한 전임상 연구입니다. 에리오디크티올은 MDM2와 P53 단백질 간의 결합을 차단하여 P53 단백질을 안정화하고 세포사멸(apoptosis)을 유도했습니다. 또한 세포 및 마우스 모델에서 젬시타빈과 병용 투여했을 때 항암 효과가 크게 향상되는 시너지 효과를 보였습니다.
+
+- 에리오디크티올은 MDM2-P53 상호작용을 차단하여 P53 의존성 암세포 사멸을 유도했습니다.
+- 췌장암 세포주(BxPC-3, Capan-2) 실험에서 에리오디크티올은 용량 의존적인 항암 효과를 나타냈습니다.
+- 세포 및 마우스 이식 모델에서 젬시타빈과의 병용 치료는 강력한 항암 시너지 효과를 입증했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42997689/) · [DOI](https://doi.org/10.21037/tcr-2026-1541) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13743216/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42997689)</small>
+
+---
+<a id="pmid-42997493"></a>
+#### [MetaPaCS: 췌장암 아형 식별을 위한 새로운 메타 학습 프레임워크](https://pubmed.ncbi.nlm.nih.gov/42997493/)
+<small>MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification</small>
+
+`논문` `전임상` `진단·조기발견` `기초연구` `치료 전반` · 2026-10-15 · PubMed · Adv Intell Syst · 중요도 0.51
+
+전사체(transcriptomics) 데이터를 기반으로 췌장암 아형을 정확히 분류하는 메타 학습 프레임워크인 MetaPaCS가 개발되었습니다. 췌장암은 아형에 따라 분자 경로와 치료 특성이 다르지만 기존 생물학적 검사 방식은 시간과 비용이 많이 소요됩니다. MetaPaCS는 다중 기계학습 분류기의 예측값과 초기 특징 벡터를 결합하여 메타 학습 분류기에 적용하는 방식을 사용합니다. 교차 검증 결과, MetaPaCS는 단일 최적화 분류기보다 유의미하게 우수한 성능을 보였습니다.
+
+- 전사체 데이터를 활용하여 췌장암 아형을 정밀하게 식별하는 메타 학습 프레임워크 MetaPaCS를 제시했습니다.
+- 기계학습 분류기들의 다양한 예측 결과와 전사체 특징 벡터를 결합한 앙상블 방식을 도입했습니다.
+- 단일 검증(Leave-one-out cross-validation) 결과, 개별 최적화 기계학습 모델들보다 뛰어난 예측 성능을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42997493/) · [DOI](https://doi.org/10.1002/aisy.70576) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13742208/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42997493)</small>
+
+---
+<a id="pmid-42995841"></a>
+#### [MYC를 표적으로 하는 신규 단백질 결합체의 종양 성장 억제 효과](https://pubmed.ncbi.nlm.nih.gov/42995841/)
+<small>MYC targeted de novo binders impair tumor growth</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `치료 전반` · 2026-10-22 · PubMed · bioRxiv · 중요도 0.45
+
+본 연구에서는 많은 암종에서 과활성화되는 암유전자 MYC를 직접 표적하기 위해 신규 단백질 결합체(de novo binders)를 설계했습니다. 이 결합체는 MYC와 나노몰(nanomolar) 수준의 높은 친화력으로 결합하여 MAX와의 상호작용을 방해하고 MYC 단백질 복합체를 재구성했습니다. 췌장암, 간암, 혈액암 등 다양한 MYC 의존성 암 모델에서 세포 증식을 감소시켰으며, 정위 췌장암(orthotopic pancreatic cancer) 동물 모델에서도 결합체가 발현된 종양 세포가 선택적으로 감소했습니다.
+
+- 신규 설계된 단백질 결합체는 MYC에 나노몰 친화력으로 결합하여 MAX와의 상호작용을 차단합니다.
+- 췌장암을 포함한 다양한 MYC 의존성 암 모델에서 암세포 증식을 억제했습니다.
+- 정위 췌장암 마우스 모델에서 단백질 결합체가 발현된 종양 세포가 선택적으로 감소하는 것이 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995841/) · [DOI](https://doi.org/10.64898/2026.10.15.758618) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13738422/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995841)</small>
+
+---
+<a id="pmid-42994196"></a>
+#### [동반 췌관선암이 존재하는 췌관 내 유두상 점액 종양에서의 KLF4-p21 축 조절 이상](https://pubmed.ncbi.nlm.nih.gov/42994196/)
+<small>Dysregulation of the KLF4-p21 axis in intraductal papillary mucinous neoplasms associated with concomitant pancreatic ductal adenocarcinoma</small>
+
+`논문` `관찰연구` `기초연구` `진단·조기발견` `치료 전반` · 2026-10-11 · PubMed · Surgery · 중요도 0.72
+
+본 연구는 췌관 내 유두상 점액 종양(IPMN) 및 IPMN 동반 췌관선암(PDAC) 환자 106명의 절제 조직을 바탕으로 KLF4-p21 경로를 분석했습니다. 분석 결과, 동반 췌관선암이 있는 IPMN 조직은 동반 췌관선암이 없는 IPMN 조직에 비해 p21 발현이 유의하게 낮았습니다. IPMN 조직 내에서 Krüppel-유사 인자 4(KLF4)와 p21 발현은 양의 상관관계를 보였습니다. 연구진은 p53 변이와 무관하게 KLF4-p21 축의 조절 이상이 췌장 암화 과정에 기여할 수 있음을 확인했습니다.
+
+- 총 106명의 환자 중 20명에서 동반 췌관선암(PDAC)이 관찰되었습니다.
+- p21 발현 수준(H-score)은 동반 췌관선암이 있는 IPMN 그룹(8.6)이 동반 췌관선암이 없는 그룹(21.9)보다 유의하게 낮았습니다(P = .020).
+- IPMN 조직에서 KLF4와 p21 발현은 유의한 양의 상관관계(r = 0.516, P < .001)를 나타냈습니다.
+- p53 양성 염색 빈도는 동반 췌관선암 유무에 따른 IPMN 그룹 간 유의한 차이가 없었습니다(P = .56).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42994196/) · [DOI](https://doi.org/10.1016/j.surg.2026.110744) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42994196)</small>
+
+---
 <a id="pmid-42983993"></a>
 #### [췌장암은 왜 면역항암제에 내성을 가질까?](https://pubmed.ncbi.nlm.nih.gov/42983993/)
 <small>[Why is pancreatic adenocarcinoma resistant to immunotherapy?]</small>
@@ -35,15 +225,6 @@ search:
 - 췌장암은 신항원(neoantigen)이 적고 촘촘한 면역억제성 기질을 가진 '차가운 종양(cold tumor)'입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42983993/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42983993)</small>
-
----
-<a id="pmid-42992895"></a>
-#### [Exploring Sex-Associated Systemic Inflammatory Profiles Linked to Macrophage Responses and Survival in Pancreatic Ductal Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42992895/)
-`논문` `관찰연구` `기초연구` · 2026-11-06 · PubMed · J Proteome Res · 중요도 0.77
-
-Sex differences influence clinical outcome and therapeutic response in pancreatic ductal adenocarcinoma (PDAC), yet the contribution of systemic immune-inflammatory programs remains insufficiently defined. In this study, we characterized sex-associated circulating proteomic signatures, evaluated their prognostic relevance, and assessed their association with macrophage polarization.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42992895/) · [DOI](https://doi.org/10.1021/acs.jproteome.6c00739) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42992895)</small>
 
 ---
 <a id="pmid-42991559"></a>
@@ -106,6 +287,21 @@ Sex differences influence clinical outcome and therapeutic response in pancreati
 - 다변량 분석 결과 수술(조정 위험비 0.25)과 전신 치료(조정 위험비 0.53)는 전체생존율 개선과 독립적으로 연관되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42986868/) · [DOI](https://doi.org/10.1371/journal.pone.0361867) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13739108/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42986868)</small>
+
+---
+<a id="pmid-42992895"></a>
+#### [췌장관선암 환자의 대식세포 응답 및 생존율과 연관된 성별 맞춤 전신 염증 프로파일 탐색](https://pubmed.ncbi.nlm.nih.gov/42992895/)
+<small>Exploring Sex-Associated Systemic Inflammatory Profiles Linked to Macrophage Responses and Survival in Pancreatic Ductal Adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` · 2026-11-06 · PubMed · J Proteome Res · 중요도 0.64
+
+본 연구는 췌장관선암(PDAC) 환자에서 성별에 따른 전신 면역-염증 프로파일과 대식세포 응답, 생존율 간의 연관성을 분석했습니다. 50명의 췌장암 환자(여성 27명, 남성 23명)의 혈액 내 1,536개 단백질을 분석하여 성별 간 유의미한 차이를 보이는 51개 단백질을 발굴했습니다. 남성 유래 췌장암 세포주 배양액은 M2형 대식세포 분화를 유도한 반면, 여성 유래 배양액은 M1형 대식세포 활성화를 촉진했습니다. 연구진은 이러한 성별 특이적 면역 프로파일이 췌장암 바이오마커 개발 및 치료 전략 수립에 고려되어야 한다고 보고했습니다.
+
+- 50명의 췌장암 환자 단백질체 분석 결과, 성별 간 유의미한 차이를 보이는 51개 단백질(여성 우세 37개, 남성 우세 14개)을 확인했습니다.
+- 남성 유래 암세포 상층액은 M2형 대식세포 극성화를, 여성 유래 상층액은 M1형 대식세포 프로그램을 유도했습니다.
+- 전체 생존기간(OS)과 연관된 29개 예후 인자 중 18개가 성별 특이적 연관성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42992895/) · [DOI](https://doi.org/10.1021/acs.jproteome.6c00739) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42992895)</small>
 
 ---
 <a id="pmid-42988358"></a>
@@ -2098,201 +2294,5 @@ Nat Med에 발표된 췌장관선암(pancreatic ductal adenocarcinoma) 조기 �
 - 마우스 실험에서 CD8+ T세포 침윤을 늘리고 항-PD-1 면역항암제 병용을 통해 전신 항암 면역 반응을 유도했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919437/) · [DOI](https://doi.org/10.1002/advs.78436) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13690972/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919437)</small>
-
----
-<a id="pmid-42919864"></a>
-#### [3D 조직 모델에서 환자 아틀라스까지: 동적 네트워크 분석을 통해 밝힌 췌장관선암의 항암제 내성 병목 기전](https://pubmed.ncbi.nlm.nih.gov/42919864/)
-<small>3D tissue model to patient atlas: dynamic network topology reveals PDAC chemoresistance bottlenecks</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-10-23 · PubMed · NPJ Syst Biol Appl · 중요도 0.60
-
-본 연구는 췌장관선암(PDAC)이 항암제에 내성을 갖는 과정을 규명하기 위해 실제 환자와 유사한 3D 세포 조직 모델을 구축하여 분석했습니다. 젬시타빈(gemcitabine)과 TGF-β1 처치 조건에서 단일세포 RNA 시퀀싱과 동적 단백질 상호작용 네트워크 분석을 수행했습니다. 그 결과 항암제 생존 세포가 S기 지속 상태에 머무르는 핵심 병목 지점으로 CDK1과 관련 조절 인자들(CDKN1A, WEE1)이 확인되었습니다. 231명의 췌장암 환자 데이터(726,107개 세포)와 비교 검증한 결과, 이러한 내성 특성을 가진 세포가 전이 부위에서 8.7배 더 많이 존재하는 것을 확인했습니다.
-
-- 3D 조직 모델을 통해 젬시타빈 생존 암세포가 증식 프로그램과 S기 지속 상태를 거쳐 내성을 획득하는 과정을 확인했습니다.
-- 내성 형성의 핵심 병목으로 CDK1의 매개 중심성 급증과 CDKN1A(p21) 및 WEE1의 조절 작용을 규명했습니다.
-- 231명의 췌장암 환자 유래 단일세포 아틀라스에서 해당 내성 관련 세포가 원발암 대비 전이 병변에서 8.7배 풍부하게 관찰되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919864/) · [DOI](https://doi.org/10.1038/s41540-026-00830-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13694714/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919864)</small>
-
----
-<a id="pmid-42921225"></a>
-#### [이중 표적화에서 동적 표적화로: 췌장암에 대한 CAR-NK 세포 치료의 재고](https://pubmed.ncbi.nlm.nih.gov/42921225/)
-<small>From dual targeting to dynamic targeting: Rethinking CAR-NK cell therapy for pancreatic cancer</small>
-
-`논문` `기타` `신약·치료제` `치료 전반` `기초연구` · 2026-10-20 · PubMed · Mol Ther Oncol · 중요도 0.60
-
-본 기사는 췌장암 치료를 위한 키메라 항원 수용체 자연살해(CAR-NK) 세포 치료 분야의 접근법 변화를 다룬 논평입니다. 기존의 이중 표적화 방식에서 벗어나 동적 표적화로 전환하는 최신 연구 동향을 재조명하고 있습니다. 구체적인 연구 데이터나 세부 결과는 초록에 명시되지 않았습니다.
-
-- 췌장암을 대상으로 한 CAR-NK 세포 치료의 표적화 전략을 고찰한 뉴스 기사입니다.
-- 이중 표적화에서 동적 표적화 전략으로의 연구 방향 전환을 다루고 있습니다.
-- 세부적인 환자 수치나 치료 효과 지표는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42921225/) · [DOI](https://doi.org/10.1016/j.omton.2026.201358) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13692148/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42921225)</small>
-
----
-<a id="pmid-42926458"></a>
-#### [췌관선암종에서 HMGA2 발현이 IL1α를 통해 종양 미세환경과 면역억제를 조절하는 기전](https://pubmed.ncbi.nlm.nih.gov/42926458/)
-<small>HMGA2 Expression in Pancreatic Ductal Adenocarcinoma Controls Tumor Microenvironment and Immunosuppression via IL1α</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-06 · PubMed · bioRxiv · 중요도 0.59
-
-췌관선암종(PDAC)의 기저 유사형(basal-like) 아형에서 염색질 단백질인 HMGA2의 발현과 종양 미세환경의 면역억제 기전을 규명한 전임상 연구입니다. 연구에 따르면 종양 세포의 HMGA2는 IL1α 발현을 직접 증가시켜 암 연관 섬유아세포(CAFs)를 면역억제성으로 변화시키고 조절 T세포를 늘리며 세포독성 CD8+ T세포를 감소시킵니다. 또한 IL1α 신호 경로를 차단했을 때 이러한 면역억제 환경이 개선되었으며, KRAS 억제제와의 병용을 통해 종양 억제 효과가 향상됨을 확인했습니다.
-
-- 기저 유사형 췌장암 세포의 HMGA2 발현은 IL1α 전사를 촉진하여 면역억제성 종양 미세환경을 형성합니다.
-- 종양 미세환경 내에서 IL6 및 LRRC15 양성 암 연관 섬유아세포와 조절 T세포가 증가하고, CD8+ T세포는 감소했습니다.
-- IL1α 신호 전달 차단은 종양 미세환경을 개선하며, KRAS 억제제와 병용 투여 시 종양 제어 능력을 유의하게 향상시켰습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42926458/) · [DOI](https://doi.org/10.64898/2026.10.02.754697) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13692062/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42926458)</small>
-
----
-<a id="pmid-42926726"></a>
-#### [스플라이소좀 골격 성분 BCAS2가 약한 5' 스플라이스 부위 의존적 조절을 통해 췌장암 진행을 촉진함](https://pubmed.ncbi.nlm.nih.gov/42926726/)
-<small>The Spliceosome Scaffold Component BCAS2 Promotes Pancreatic Cancer Progression through Weak 5&#x27; Splice Site-Dependent Splicing Regulation</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-10-07 · PubMed · bioRxiv · 중요도 0.59
-
-췌관선암(PDAC)에서 비정상적인 RNA 스플라이싱은 질환 진행의 중요한 기전으로 알려져 있으나 세부 기전은 명확하지 않았습니다. 연구진은 스플라이소좀 복합체 성분인 BCAS2/SPF27이 췌장암 진행을 촉진하는 핵심 조절인자임을 밝혔습니다. 췌장암에서 BCAS2의 발현 증가는 불량한 환자 예후와 유의한 연관성을 보였습니다. 또한 안티센스 올리고뉴클레오타이드(ASO)를 통해 해당 신호 경로를 억제했을 때 암세포 증식과 이동이 억제됨을 확인했습니다.
-
-- BCAS2의 과발현은 췌장암 환자의 불량한 예후와 연관이 있었습니다.
-- BCAS2는 결합력이 약한 스플라이스 부위를 조절하여 SOS1 엑손 21의 포함 및 RAC 신호 전달계 활성화를 촉진했습니다.
-- 안티센스 올리고뉴클레오타이드(ASO)를 이용해 SOS1 엑손 21 결손을 유도한 결과 췌장암 세포의 증식과 전이 능력이 억제되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42926726/) · [DOI](https://doi.org/10.64898/2026.10.06.757127) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13692259/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42926726)</small>
-
----
-<a id="pmid-42926891"></a>
-#### [췌장암 미세환경을 모사하는 GelMA 3D 공배양에서 세포 손상을 방지하는 산화환원 차폐 기술](https://pubmed.ncbi.nlm.nih.gov/42926891/)
-<small>Redox shielding unlocks damage-free photopolymerization for GelMA 3D co-cultures mimicking pancreatic tumor complexity</small>
-
-`논문` `전임상` `기초연구` · 2026-10-11 · PubMed · Biomater Biosyst · 중요도 0.59
-
-췌장관선암종(PDAC)의 복잡한 미세환경을 재현하기 위해 췌장 성상세포(PSC)나 암 연관 섬유아세포(CAF)를 종양 오가노이드와 함께 배양하는 3D 공배양 모델을 구축했습니다. 연구진은 췌장 조직과 물성이 유사한 젤라틴 메타크릴로일(GelMA) 소재를 사용했으나 광중합 과정에서 민감한 기질 세포가 사멸하는 문제에 직면했습니다. 이를 극복하기 위해 항산화제인 N-아세틸시스테인(NAC) 전처리 기법을 도입하여 세포 손상 없이 기질 세포와 종양의 장기 공배양을 성공적으로 구현했습니다.
-
-- 광중합 시 취약한 췌장 기질 세포가 사멸하던 문제를 N-아세틸시스테인(NAC) 항산화 전처리 기법으로 해결했습니다.
-- 정상 췌장 성상세포(PSC)와 암 연관 섬유아세포(CAF), 종양 오가노이드의 장기 3D 공배양을 안정적으로 유지했습니다.
-- 세포들이 자가 조직화되어 세포외기질을 분비하고 기질 망을 형성하여 실제 췌장암 조직 구조를 재현함으로써 신약 평가 플랫폼으로서의 가능성을 입증했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42926891/) · [DOI](https://doi.org/10.1016/j.bbiosy.2026.100150) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13694989/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42926891)</small>
-
----
-<a id="pmid-42927282"></a>
-#### [액티빈 A는 췌장염의 췌장암 진행을 촉진합니다](https://pubmed.ncbi.nlm.nih.gov/42927282/)
-<small>ACTIVIN A PROMOTES PROGRESSION OF PANCREATITIS INTO PANCREATIC CANCER</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-01-01 · PubMed · Trans Am Clin Climatol Assoc · 중요도 0.54
-
-급성 및 만성 췌장염은 췌장암의 주요 위험 인자로 알려져 있습니다. 연구진은 이전 연구에서 액티빈 A(activin A)가 대식세포를 모으고 호중구를 활성화해 췌장염의 염증을 유발한다는 점을 확인했습니다. 이번 연구에서는 췌장암이 의심되는 만성 췌장염 환자 조직을 분석하여 액티빈 신호전달의 역할을 조사했습니다. 그 결과 액티빈 발현 부위에서 T세포 활성화가 감소하고 암 성장 신호인 MAPK 및 PI3K 경로가 활성화되는 연관성을 확인했습니다.
-
-- 췌장암 의심 만성 췌장염 조직에서 디지털 공간 프로파일링(DSP)을 사용해 50개 이상의 단백질을 분석했습니다.
-- 액티빈 A 발현 부위에서는 T세포 활성화가 유의하게 감소해 면역 억제 환경이 형성되었습니다.
-- 액티빈 A는 암 진행과 관련된 MAPK 및 PI3K 신호전달 증가와 상관관계를 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42927282/) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13695175/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42927282)</small>
-
----
-<a id="pmid-42910299"></a>
-#### [HMGA2, hnRNPK를 안정화하여 췌장암의 YAP 의존적 간전이 유도](https://pubmed.ncbi.nlm.nih.gov/42910299/)
-<small>HMGA2 Stabilizes hnRNPK to Drive YAP-Dependent Liver Metastasis in Pancreatic Cancer</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-10-02 · PubMed · Int J Biol Sci · 중요도 0.51
-
-본 연구는 췌장암 환자의 간전이 조직과 순환 종양 세포(CTC)에서 HMGA2 단백질 발현이 크게 증가해 있음을 확인했습니다. 분자 기전 분석 결과 HMGA2는 hnRNPK 단백질과 결합해 단백질 분해를 막고 안정화시켰습니다. 안정화된 hnRNPK는 YAP의 전사를 촉진하여 췌장암의 간전이 능력을 강화하는 것으로 나타났습니다.
-
-- HMGA2 단백질은 췌장암 환자의 간전이 조직 및 순환 종양 세포(CTC)에서 유의하게 증가해 있었습니다.
-- HMGA2는 hnRNPK의 유비퀴틴화를 억제하고 단백질 분해를 막아 YAP 유전자 발현을 촉진시켰습니다.
-- HMGA2/hnRNPK-YAP 신호 축이 췌장암 간전이의 핵심 조절자이며 새로운 치료 표적이 될 수 있음을 규명했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42910299/) · [DOI](https://doi.org/10.7150/ijbs.133139) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13686062/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42910299)</small>
-
----
-<a id="pmid-42925099"></a>
-#### [당화된 저산소 종양 유래 세포외 소포체를 이용한 췌장암 면역억제 미세환경 개선 표적 siRNA 전달 시스템](https://pubmed.ncbi.nlm.nih.gov/42925099/)
-<small>Glycosylated Hypoxic Tumor-Derived Extracellular Vesicles as a Targeted siRNA Delivery System to Remodel the Immunosuppressive Microenvironment in Pancreatic Cancer</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` · 2026-09-22 · PubMed · J Drug Target · 중요도 0.50
-
-저산소 췌장암 세포에서 유래하고 ANXA2 siRNA를 탑재한 GalNAc 개조 세포외 소포체(EVs) 전달 시스템에 대한 전임상 연구입니다. 세포 실험에서 이 치료제는 췌장암 세포의 증식, 이동, 침윤을 억제하고 세포 사멸을 촉진했습니다. 이식종 동물 모델에서는 4주 차에 종양 크기를 약 50% 감소시키고 중앙 생존기간을 45일에서 60일로 연장했습니다. 또한 CD8+ T세포 침윤을 늘리고 PI3K/AKT 신호 전달 경로를 억제하여 면역억제 종양 미세환경을 개선했습니다.
-
-- 동물 모델에서 치료 4주 차에 종양 부피를 약 50% 감소시켰습니다.
-- 동물 모델의 중앙 생존기간(median survival)을 45일에서 60일로 연장했습니다.
-- CD8+ T세포 침윤을 늘리고 조직 내 IL-6, IL-10, TNF-α 발현을 줄여 면역억제 미세환경을 재구성했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42925099/) · [DOI](https://doi.org/10.1080/1061186X.2026.2730297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42925099)</small>
-
----
-<a id="pmid-42925266"></a>
-#### [scGlycoAI: 세포 유형 주석 및 악성 종양 관련 당사슬 발굴을 위한 단일 세포 당사슬 및 RNA 시퀀싱 데이터 머신러닝 분석](https://pubmed.ncbi.nlm.nih.gov/42925266/)
-<small>scGlycoAI: Machine learning analysis of single-cell glycan and RNA sequencing data for cell-type annotation and malignancy-associated glycan discovery</small>
-
-`논문` `전임상` `기초연구` · 2026-10-24 · PubMed · Glycobiology · 중요도 0.49
-
-단일 세포 수준의 당사슬과 유전자 발현을 동시에 분석하는 scGR-seq 데이터를 활용하여 세포 유형을 분류하고 악성 종양 관련 특성을 발굴하는 머신러닝 모델 'scGlycoAI'가 개발되었습니다. 연구진이 이 모델을 췌장관선암(PDAC) 환자 데이터에 적용한 결과, 당사슬 특징만을 사용해 90.3%의 높은 정확도로 8가지 세포 유형을 분류했습니다. 특히 PVL 렉틴 결합으로 식별되는 특정 당사슬 패턴이 암의 공격적인 악성 상태와 연관되어 있음을 규명했습니다. 이와 관련된 유전자 발현 패턴이 높을수록 췌장암 환자의 전체 생존기간(OS)이 유의하게 짧아지는 경향을 보였습니다.
-
-- 췌장관선암 환자 교차 검증에서 당사슬 특징만을 활용해 90.3%의 정확도로 8개 세포 유형을 분류했습니다.
-- 시알화 및 GlcNAc 함유 당사슬을 인식하는 PVL 렉틴 결합이 상피간엽이행(EMT), KRAS 신호전달, 염증 반응 등 공격적인 암 상태의 주요 특징으로 확인되었습니다.
-- TCGA 췌장암 환자 코호트 분석 결과, PVL 관련 유전자 시그니처 발현이 높을수록 전체 생존기간이 더 나빴습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42925266/) · [DOI](https://doi.org/10.1093/glycob/cwag100) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42925266)</small>
-
----
-<a id="pmid-42915039"></a>
-#### [췌장암에서 종양 유전자 KRAS의 포스파티딜세린 조절을 통한 세포외 소포체 분비 및 표면 막 전하 조절](https://pubmed.ncbi.nlm.nih.gov/42915039/)
-<small>Oncogenic KRAS Regulates Secretion of Extracellular Vesicles and Surface Membrane Charge via Regulation of Phosphatidylserine in Pancreatic Cancer</small>
-
-`논문` `전임상` `진단·조기발견` `기초연구` `신약·치료제` · 2026-09-15 · PubMed · ACS Nano · 중요도 0.46
-
-본 연구는 췌장암 환자의 혈청에서 세포외 소포체(EV)를 전하 기반으로 분리하는 미세유체 전기영동(MEP) 기술을 개발했습니다. 돌연변이 KRAS(특히 KRAS G12D) 유전자가 세포외 소포체 분비를 늘리고 표면 전하를 더 강한 음전하로 변화시킴을 확인했습니다. 분석 결과 포스파티딜세린(phosphatidylserine)과 루멘 외부 DNA가 이러한 음전하 강화의 주요 원인으로 밝혀졌습니다. 이 연구는 췌장암의 신속한 액체 생검(liquid biopsy) 및 진단을 위한 기술적 가능성을 제시합니다.
-
-- 돌연변이 KRAS(KRAS G12D)는 췌장암 세포외 소포체(EV) 분비를 촉진하고 제타 전위(ζ-potential)를 더 강한 음전하로 변화시킵니다.
-- 포스파티딜세린과 루멘 외부 DNA가 췌장암 유래 세포외 소포체의 음전하 특성을 결정하는 핵심 분자적 요인입니다.
-- 표지자 없이 전하 차이를 이용하여 환자 혈청에서 췌장암 세포외 소포체를 신속하게 분리하는 미세유체 전기영동(MEP) 장치를 검증했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42915039/) · [DOI](https://doi.org/10.1021/acsnano.6c08263) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13585180/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42915039)</small>
-
----
-<a id="pmid-42921422"></a>
-#### [붕소 중성자 포획 치료의 붕소 활용 효율 향상을 위한 고분자 유도 BCNO 나노입자의 자가조립](https://pubmed.ncbi.nlm.nih.gov/42921422/)
-<small>Polymer-Directed Self-Assembly of BCNO Nanoparticles for Efficient Boron Utilization in Boron Neutron Capture Therapy</small>
-
-`논문` `전임상` `신약·치료제` `치료 전반` `기초연구` · 2026-09-26 · PubMed · ACS Nanosci Au · 중요도 0.45
-
-붕소 옥시질화탄소(BCNO) 나노입자와 지능형 고분자를 결합하여 췌장암에 대한 붕소 중성자 포획 치료(BNCT) 효율을 높이는 나노조립체(mPEG/PS-b-PEI@BCNO) 연구 결과입니다. 이 나노조립체는 약 61 nm 크기로 종양 미세환경의 산성 조건에서 분해되도록 설계되었습니다. 췌장암 세포 및 3차원 종양 스페로이드 실험에서 기존 붕소 전달체인 BPA보다 우수한 붕소 전달력을 보렸습니다. 세포 실험에서 약 52%의 세포 사멸을 유도하며 뛰어난 항암 효과를 입증했습니다.
-
-- 최적화된 나노조립체는 약 61 nm의 직경을 가지며 종양 산성 환경에서 선택적으로 분해됩니다.
-- 약 8 wt %의 낮은 붕소 함량에도 기존 붕소소체(BPA) 및 순수 BCNO보다 뛰어난 붕소 전달 효율을 나타냈습니다.
-- 3차원 췌장암 종양 스페로이드 모델에서 약 52%의 세포 사멸을 유도하여 가장 강한 BNCT 치료 반응을 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42921422/) · [DOI](https://doi.org/10.1021/acsnanoscienceau.6c00088) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13693259/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42921422)</small>
-
----
-<a id="pmid-42914928"></a>
-#### [췌관선암에서 마이크로RNA 발현의 예후적 가치: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42914928/)
-<small>Prognostic value of microRNA expression in pancreatic ductal adenocarcinoma: a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-10-23 · PubMed · EBioMedicine · 중요도 0.95
-
-췌관선암(PDAC) 환자에서 마이크로RNA(miRNA) 발현 수준이 생존기간에 미치는 영향을 평가하기 위해 142개 연구, 총 13,824명의 데이터를 종합 분석했습니다. 분석 결과 발암성 및 항암제 내성 관련 miRNA가 높게 발현될수록 전체 생존기간(OS)과 무진행 생존기간(PFS)이 유의미하게 단축되었습니다. 특히 miRNA-21은 불량한 생존 예후와 가장 일관된 연관성을 보였습니다. 연구 간 이질성이 존재하여 임상 현장에서의 실제 적용을 위해서는 추가 검증과 표준화 작업이 필요합니다.
-
-- 총 142개 연구의 췌관선암 환자 13,824명을 대상으로 miRNA의 예후적 가치를 체계적으로 분석했습니다.
-- 발암성 miRNA의 높은 발현은 전체 생존기간 악화(위험비 1.70) 및 무진행 생존기간 악화(위험비 2.25)와 관련이 있었습니다.
-- 항암제 내성 관련 miRNA의 높은 발현 역시 불량한 전체 생존기간(위험비 2.11) 및 무진행 생존기간(위험비 2.51)과 연관되었습니다.
-- 가장 빈번하게 분석된 miRNA-21은 다변량 전체 생존기간 악화(위험비 2.24)와 일관된 연관성을 보여 향후 임상 도입 가능성이 가장 높은 표지자로 제시되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914928/) · [DOI](https://doi.org/10.1016/j.ebiom.2026.106528) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914928)</small>
-
----
-<a id="pmid-42919732"></a>
-#### [췌관선암종에서의 대사 기능 이상: 발병 기전 및 치료적 시사점](https://pubmed.ncbi.nlm.nih.gov/42919732/)
-<small>Metabolic dysfunctions in pancreatic ductal adenocarcinoma: Pathogenic mechanisms and therapeutic implications</small>
-
-`논문` `종설` `신약·치료제` `치료 전반` `기초연구` `진단·조기발견` · 2026-10-20 · PubMed · Pancreatology · 중요도 0.72
-
-이 논문은 비만, 이상지질혈증, 제2형 당뇨병 등 전신 대사 이상이 췌장암의 발생과 진행, 항암제 내성에 미치는 영향을 정리한 종설(Review) 논문입니다. 스타틴(statin)과 메트포르민(metformin) 등 기존 대사 조절 약물의 약물 재창출 가능성과 최신 대사 경로 억제제를 집중적으로 검토했습니다. 스타틴은 전임상 모델에서 항종양 효과를 보였으나 역학 연구 결과는 일관되지 않았으며, 메트포르민 또한 기전적 가능성에도 불구하고 임상시험에서 생존 이점이 뚜렷하게 증명되지 못했습니다. 저자들은 SGLT2 억제제와 메트포르민 병용 등 종양의 대사적 취약점을 공략하는 바이오마커 기반의 병용 치료 전략이 필요하다고 제안했습니다.
-
-- 비만, 이상지질혈증, 제2형 당뇨병 등의 대사 이상은 췌관선암종의 발생, 진행 및 항암 치료 저항성을 유발하는 주요 요인입니다.
-- 스타틴과 메트포르민은 전임상 연구에서 항암 효과를 나타냈으나, 실제 임상 연구 및 역학 데이터에서는 생존율 개선이나 위험 감소 효과가 엇갈리거나 일관되지 않았습니다.
-- 종양의 대사적 적응성을 극복하기 위해 SGLT2 억제제와 메트포르민 병용요법 등 바이오마커에 기반한 대사 복합 치료 전략이 요구됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919732/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.025) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919732)</small>
 
 ---

@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Iseki M",
+  "Igarashi T",
+  "Takahashi R",
+  "Mizuma M",
+  "Ariake K",
+  "Nakagawa K",
+  "Aoki S",
+  "Miura T"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42995363",
+ "importance": 0.67,
+ "key_points_ko": [
+  "임상적 M0 병기 췌장암 환자에서 진단적 복강경 검사를 통한 잠재적 전이 예측 인자를 분석한 전향적 다기관 연구입니다.",
+  "세부 연구 결과 및 구체적 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1245/s10434-026-20879-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42995363"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995363/"
+ },
+ "summary_ko": "본 논문은 임상적으로 원격 전이가 없는(M0) 췌장암 환자를 대상으로 진단적 복강경 검사(Staging Laparoscopy)를 통해 잠재적 전이를 예측하는 인자를 분석한 전향적 다기관 연구입니다. 수술 전 진단 단계에서 육안이나 영상으로 보이지 않던 잠재적 전이를 확인하는 데 목적이 있습니다. 세부 수치 및 연구 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Predictive Factors for Occult Metastases in Clinically M0 Pancreatic Cancer: A Prospective Multicenter Analysis of Staging Laparoscopy",
+ "title_ko": "ASO 비주얼 초록: 임상적 M0 병기 췌장암에서 잠재적 전이의 예측 인자: 진단적 복강경 검사에 대한 전향적 다기관 분석",
+ "trial": null,
+ "type": "paper"
+}

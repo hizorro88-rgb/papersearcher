@@ -18,7 +18,11 @@
  ],
  "id": "nct:NCT07817147",
  "importance": 0.74,
- "key_points_ko": [],
+ "key_points_ko": [
+  "초음파 내시경 유도 마이크로웨이브 소작(EUS-Guided MWA Device) 기기의 에너지 전달 성공률과 안전성을 평가합니다.",
+  "국소 진행성, 절제 불가능 또는 전이성(3기 또는 4기) 췌장암 및 간암 환자 75명을 대상으로 진행합니다.",
+  "치료 대상 종양은 지름 1cm 이상이어야 하며 위벽을 통한 내시경 초음파 접근이 가능해야 합니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": null,
@@ -42,15 +46,15 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07817147"
  },
- "summary_ko": "The goal of this study is to assess the overall success of energy delivery during treatment using the ultrasound guided microwave ablation device in patients with locally advanced, unresectable, or metastatic cancer. Secondly, this study aims to explore the procedural/clinical safety of treatment with the device and the antitumor effect following treatment with the device.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성, 수술 불가능 또는 전이성 암 환자를 대상으로 초음파 내시경(EUS) 유도 마이크로웨이브 소작 기기의 에너지 전달 성공률을 평가하기 위한 임상시험입니다. 연구진은 해당 기기 치료의 시술적 및 임상적 안전성과 치료 후 항종양 효과를 함께 탐색합니다. 위벽을 통해 내시경 초음파 접근이 가능한 췌장암 및 간암 환자 총 75명을 대상으로 진행됩니다.",
+ "summary_source": "llm",
  "tags": [
   "Locally Advanced",
   "Unresectable",
   "Metastatic"
  ],
  "title": "CREO - Microwave Ablation Feasibility Study",
- "title_ko": null,
+ "title_ko": "CREO - 내시경 초음파 유도 마이크로웨이브 소작술 기기의 타당성 연구",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -70,7 +74,7 @@
     "phone": "(480) 356 - 6444"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준: • 만 18세 이상 • 조직학적으로 확진된 국소 진행성, 절제 불가능 또는 전이성 암 (3기 또는 4기) • 위벽을 통한 초음파 내시경(EUS) 접근이 가능한 위치(췌장, 간 등)에 소작술 적응증이 되는 종양이 최소 1개 이상 존재 • 대상 종양의 지름이 1cm 이상 제외 기준: • 즉시 수술적 절제가 가능한 췌장암 환자 • 목표 장기 또는 병변에 영향을 줄 수 있는 국소 소작술 등 다른 국소 치료 관련 임상시험 참여 중인 환자 • 연구자 판단상 환자 안전에 위험을 줄 수 있는 질환이나 상태가 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female ≥18 years of age\n* Willing and able to provide written informed consent\n* Histologically confirmed locally advanced, unresectable or metastatic cancer (Stage III or IV)\n* At least 1 tumor that is indicated for MWA, and the location of target tumor must be accessible via EUS through the gastric wall (eg, pancreas, liver, etc).\n* The tumor(s) must be ≥1 cm in diameter\n\nExclusion Criteria:\n\n* Participant is a candidate for upfront resection of pancreatic cancer\n* Participation in another clinical trial that involves local ablation or any other local therapy that could affect the target organ or lesions treated in this study\n* Any condition that, in the opinion of the investigator, may increase the risk to the participant's safety or well-being",
   "enrollment": 75,
   "has_results": false,
@@ -86,19 +90,21 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": null,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "수술적 절제가 가능한 췌장암 환자",
+    "다른 국소 소작 치료 임상시험에 참여 중인 환자"
+   ],
    "max_prior_lines": null,
-   "measurable_required": null,
+   "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "",
+   "notes_ko": "위벽을 통해 내시경 초음파 접근이 가능하고 지름 1cm 이상인 종양을 가진 수술 불가 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",
-    "locally_advanced",
-    "resectable"
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

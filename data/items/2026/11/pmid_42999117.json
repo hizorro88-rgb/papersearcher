@@ -1,0 +1,58 @@
+{
+ "abstract": "Immune cells in the tumor microenvironment are organized, and in colorectal and pancreatic cancer their arrangement around the tumor epithelium carries prognostic information. Multiplexed tissue imaging records the position and phenotype of every cell in a section, and studies of such images now routinely report that two cell types are spatially associated. However, the summaries behind these reports answer different questions. A proximity statistic asks whether two cell types lie close together more often than expected by chance. A conditional network asks whether their local densities rise and fall together once the other cell types are held fixed. The two can disagree, because every cell type is abundant where tissue is cell-dense and because the images of one patient are repeated measurements of that patient. We asked how epithelial and immune cells are organized in two settings: colorectal cancer with a Crohn's-like reaction (CLR) or diffuse inflammatory infiltration (DII), in 140 CODEX images from 35 patients, and pancreatic ductal adenocarcinoma (PDAC) against its precursor, intraductal papillary mucinous neoplasm (IPMN), in 207 multiplex immunofluorescence images from 141 patients. We developed a patient-level analysis that keeps proximity, recurrent local composition and conditional coordination as separate quantities, tests conditional organization as a function of local epithelial density within each section, checks before every conditional estimate that the two cell types are disjoint sets of cells observed together in enough images, and calibrates each conclusion by patient-label permutation, cellularity adjustment under two definitions, spatial-scale perturbation and fully nested leave-one-patient-out prediction. In colorectal cancer, the conditional association between epithelial and myeloid density turned negative with local epithelial density about four times faster in DII than in CLR (difference - 0.0553 per quartile; 95% CI, - 0.0833 to - 0.0273; patient-label familywise P = 0.006), with no accompanying difference in proximity. In the pancreas, cytotoxic and helper T cells were closer together in PDAC than in IPMN at every scale examined ( q ≤ 0.023), whereas their conditional association differed between the two diseases under only one of the two cellularity definitions. Recurrent neighborhoods carried the most patient-level information in colorectal cancer (AUC 0.794) and combined spatial features in the pancreas (AUC 0.771). Pancreatic epithelial-immune and regulatory T-cell quantities could not be estimated from these cores and are reported as such. The analysis is implemented in the R package spatialMIFtools, available at https://github.com/sagnikbhadury/spatialMIFtools .",
+ "authors": [
+  "Bhadury S",
+  "Frankel TL",
+  "Rao A"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42999117",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌관선암(PDAC) 및 전구 병변 IPMN 환자 141명의 다중 면역형광 이미지 207개를 포함하여 세포 간 공간 배치를 정밀 분석했습니다.",
+  "췌관선암 조직에서는 IPMN에 비해 세포독성 T세포와 조력 T세포 간의 거리가 모든 관찰 척도에서 유의미하게 더 가까웠습니다(q ≤ 0.023).",
+  "공간적 특징들을 결합했을 때 췌장 병변(PDAC 대 IPMN)을 구별하는 환자 수준의 곡선하면적(AUC)은 0.771을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.64898/2026.10.08.757632",
+  "nct": [],
+  "pmcid": "PMC13742421",
+  "pmid": "42999117"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42999117/"
+ },
+ "summary_ko": "종양 미세환경 내 상피세포와 면역세포의 공간적 배치를 정밀하게 규명하기 위해 췌관선암(PDAC) 및 그 전구 병변인 췌관내 유두상 점액종양(IPMN) 환자 141명의 다중 면역형광 이미지 등을 분석한 기초 연구입니다. 연구진은 세포 간 단순 근접성과 다른 세포들의 밀도를 보정한 조건부 상호작용을 분리해 평가하는 새로운 분석 기법을 개발했습니다. 분석 결과 췌관선암에서는 IPMN에 비해 세포독성 T세포와 조력 T세포가 공간적으로 더 밀접하게 위치하는 것으로 나타났습니다. 이러한 복합 공간 특징은 췌장 조직의 악성 변화를 구별하는 지표로서 유의한 가능성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cellular proximity and conditional coordination in the colorectal and pancreatic tumor microenvironment: a patient-level analysis of multiplexed imaging",
+ "title_ko": "대장암 및 췌장암 종양 미세환경에서의 세포 근접성과 조건부 상호작용: 다중 이미징의 환자 수준 분석",
+ "trial": null,
+ "type": "paper"
+}

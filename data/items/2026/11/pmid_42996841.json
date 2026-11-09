@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Critically ill patients with pancreatic cancer represent a high-risk population in whom systemic inflammation, anemia, organ dysfunction, and acute physiological derangement may jointly contribute to poor short-term outcomes. The white blood cell-to-hemoglobin ratio (WHR) is an easily obtainable hematologic index that may reflect both inflammatory burden and reduced oxygen-carrying reserve. Whether WHR adds prognostic information beyond routine clinical assessment in this population remains uncertain. This study aimed to evaluate the association between WHR and in-hospital mortality among critically ill patients with pancreatic cancer.\nMETHODS: This retrospective cohort study used Medical Information Mart for Intensive Care IV (MIMIC-IV) version 3.1 (2008-2022) and electronic ICU Collaborative Research Database (eICU-CRD) version 2.0 (2014-2015). Adults aged ≥18 years with International Classification of Diseases (ICD)-9-CM/ICD-10-CM-coded pancreatic cancer and a first qualifying intensive care unit (ICU) stay of ≥24 hours were included, patients without white blood cell count or hemoglobin data were excluded. WHR was calculated from the earliest available white blood cell count and hemoglobin measurements within the first 24 hours after hospital admission. The primary outcome was in-hospital mortality. Multivariable logistic regression was used for the binary outcome analysis, and 24-hour landmark cause-specific Cox and Fine-Gray competing-risk models were added as key time-to-event sensitivity analyses. Predictive performance and the incremental value of WHR beyond clinical variables and its individual components were also assessed.\nRESULTS: A total of 638 patients were included (MIMIC-IV, n=253, eICU-CRD, n=385); mean age was 67.5±11.3 years, 347 (54.4%) were male, and 53 (8.3%) died during hospitalization. Patients with WHR ≥1.7 were older and had higher white blood cell counts, lower hemoglobin concentrations, and higher SOFA scores. In the fully adjusted Model IV, WHR ≥1.7 remained associated with in-hospital mortality [odds ratio (OR) =2.75, 95% confidence interval (CI), 1.39-5.42, P=0.004]. Time-to-event analyses were consistent: the cause-specific hazard ratio was 2.34 (95% CI, 1.30-4.21, P=0.004), and the Fine-Gray subdistribution hazard ratio was 2.38 (95% CI, 1.34-4.24, P=0.003). WHR alone showed modest discrimination [area under the curve (AUC) =0.662], adding WHR to the clinical model increased the AUC from 0.786 to 0.796, but the bootstrap AUC difference was not statistically significant (P=0.49).\nCONCLUSIONS: Elevated WHR was associated with increased in-hospital mortality among critically ill patients with pancreatic cancer. WHR may serve as a simple adjunctive risk marker, although its incremental discrimination beyond clinical variables was modest. Further prospective studies are warranted to validate its added prognostic value and clarify its potential role in clinical risk assessment.",
+ "authors": [
+  "Song J",
+  "Zhang H",
+  "Li J",
+  "Pan T",
+  "Cheng T"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996841",
+ "importance": 0.65,
+ "key_points_ko": [
+  "총 638명의 중증 췌장암 환자 중 53명(8.3%)이 병원 내에서 사망했습니다.",
+  "WHR 1.7 이상인 환자는 다른 요인을 보정한 후에도 원내 사망 위험이 2.75배 유의하게 높았습니다(OR 2.75, 95% CI 1.39-5.42, P=0.004).",
+  "기존 임상 예측 모델에 WHR을 추가했을 때 곡선하면적(AUC)은 0.786에서 0.796으로 소폭 증가했으나 통계적으로 유의미한 차이는 아니었습니다(P=0.49)."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0639",
+  "nct": [],
+  "pmcid": "PMC13740547",
+  "pmid": "42996841"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-30",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996841/"
+ },
+ "summary_ko": "중환자실(ICU)에 입원한 중증 췌장암 환자를 대상으로 백혈구 대 헤모글로빈 비율(WHR)과 병원 내 사망률 간의 연관성을 평가한 후향적 연구입니다. 대규모 중환자 데이터베이스(MIMIC-IV 및 eICU-CRD)에서 추출한 638명의 환자를 분석했습니다. 입원 초기 측정한 WHR이 1.7 이상으로 높은 환자는 원내 사망 위험이 유의하게 높았습니다. 다만 기존 임상 변수에 WHR을 추가했을 때의 예측력 향상은 제한적이었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association between white blood cell-to-hemoglobin ratio and in-hospital mortality among critically ill patients with pancreatic cancer: a retrospective cohort study based on MIMIC-IV and eICU-CRD",
+ "title_ko": "중증 췌장암 환자에서 백혈구 대 헤모글로빈 비율과 원내 사망률의 연관성: MIMIC-IV 및 eICU-CRD 기반 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

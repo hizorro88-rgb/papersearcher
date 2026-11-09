@@ -1,0 +1,64 @@
+{
+ "abstract": "Cancer-induced cachexia is a multifactorial syndrome characterized by systemic inflammation and progressive skeletal muscle and fat wasting. More than 80% pancreatic cancer patients exhibit a cachectic phenotype, which significantly contributes to the overall mortality of cancer patients. Till now, there is no FDA-approved therapy for cancer-associated cachexia that has been developed. In the present study, we have demonstrated the anti-cachectic potential of an anti-malarial compound, atovaquone. We observed that atovaquone inhibits cancer cell-conditioned media-induced myotube atrophy in a dose-dependent manner. Atovaquone treatments lead to reduced cachectic markers expression in conditioned media-treated myotubes. Further, we observed that atovaquone treatment results in reduced reactive oxygen species levels in conditioned media-treated myotubes. Mechanistically, we observed that atovaquone treatment of myotubes enhances the glycolytic capacity of conditioned-media-treated myotubes by upregulating Glut4 expression. Furthermore, we established that increased Glut4 expression is primarily driven by atovaquone-induced AMPK activation. By utilizing a syngeneic orthotopic implantation model of pancreatic cancer, we have observed that atovaquone can inhibit cachectic phenotype in tumor-bearing mice, without impacting the overall tumour growth. Overall, we have demonstrated that atovaquone exhibits anti-cachectic properties in both in vitro and in vivo model systems of pancreatic cancer-associated cachexia by modulating glycolytic capacity.",
+ "authors": [
+  "Derangula S",
+  "Jaiswara PK",
+  "Mandal A",
+  "Thakur R",
+  "Jung W",
+  "Xu C",
+  "Oh TG",
+  "Mehla K"
+ ],
+ "categories": [
+  "supportive",
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42998802",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌장암 환자의 80% 이상에서 암 악액질이 나타나며 이는 사망률 증가의 주된 원인이 됩니다.",
+  "아토바쿠온(atovaquone)은 농도 의존적으로 암 유래 매개물질에 의한 근육세포 위축과 활성산소종(ROS)을 감소시켰습니다.",
+  "췌장암 마우스 모델에서 종양 크기 변화 없이 악액질 증상(근육 소모)을 억제하는 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218951",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42998802"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998802/"
+ },
+ "summary_ko": "췌장암 환자의 80% 이상에서 전신 염증과 골격근 및 지방 소모를 특징으로 하는 암 악액질(cachexia)이 발생하지만 승인된 치료제가 부족한 상황입니다. 본 연구는 항말라리아제로 사용되는 아토바쿠온(atovaquone)이 췌장암 관련 근육 소모를 억제하는 효과를 세포 및 동물실험을 통해 평가했습니다. 연구진은 아토바쿠온이 AMPK를 활성화하여 Glut4 발현 및 당분해능을 촉진하고 활성산소종을 줄여 근육 위축을 막는 기전을 확인했습니다. 췌장암 동물 모델 실험 결과 아토바쿠온은 종양의 성장에는 직접적인 영향을 주지 않으면서 암 악액질 증상을 유의미하게 억제했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Atovaquone impedes muscle wasting in pancreatic cancer by AMPK modulation",
+ "title_ko": "아토바쿠온(atovaquone)의 AMPK 조절을 통한 췌장암 근육 소모 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

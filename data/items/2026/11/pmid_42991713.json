@@ -5,8 +5,9 @@
   "Wang H"
  ],
  "categories": [
-  "supportive",
-  "surgery"
+  "surgery",
+  "treatment",
+  "supportive"
  ],
  "entities": [],
  "evidence": "observational",
@@ -20,7 +21,12 @@
  ],
  "id": "pmid:42991713",
  "importance": 0.68,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 1,195명의 환자 중 141명(11.8%)이 수술 후 중환자실(ICU)에 입원했습니다.",
+  "높은 GNRI 수치는 조정된 중환자실 입원 위험 감소와 연관되었습니다 (교차비 0.601, 95% 신뢰구간 0.497-0.728).",
+  "GNRI를 추가하자 ROC 곡선 아래 면적(AUC)이 0.766에서 0.800으로 증가했습니다.",
+  "알부민 단독 측정으로도 유사한 수준의 예측 성능(AUC 0.799)을 보였습니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.3389/fnut.2026.1978034",
@@ -42,11 +48,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42991713/"
  },
- "summary_ko": "BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 간담췌 및 췌장 종양 수술을 받은 환자들을 대상으로 수술 전 영양 및 염증 상태가 수술 후 중환자실(ICU) 입원에 미치는 영향을 분석했습니다. INSPIRE 데이터베이스의 환자 1,195명을 대상으로 노인 영양 위험 지수(GNRI) 등 6가지 지표를 평가했습니다. 분석 결과, 141명(11.8%)이 수술 후 중환자실에 입원했습니다. 높은 GNRI 수치는 중환자실 입원 위험 감소와 관련이 있었으며(교차비 0.601), GNRI를 추가했을 때 예측 모델의 AUC가 0.766에서 0.800으로 증가했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Association and incremental predictive performance of preoperative nutritional and inflammatory indices for postoperative ICU admission after hepatobiliary and pancreatic tumor surgery",
- "title_ko": null,
+ "title_ko": "간담췌 종양 수술 후 중환자실(ICU) 입원에 대한 수술 전 영양 및 염증 지표의 연관성 및 예측 성능",
  "trial": null,
  "type": "paper"
 }

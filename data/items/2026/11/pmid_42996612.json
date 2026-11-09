@@ -1,0 +1,57 @@
+{
+ "abstract": null,
+ "authors": [
+  "Mount J",
+  "Stauffer JA"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996612",
+ "importance": 0.58,
+ "key_points_ko": [
+  "췌장암 발병 위험 요인으로서의 높음 BMI와 진단 후 체중 유지가 가지는 예후적 의미를 분석했습니다.",
+  "단순 BMI 수치뿐만 아니라 체중 변화 및 근감소증 등 체성분 평가가 중요합니다.",
+  "췌장암 환자 치료 시 영양 관리와 체중 감소 방지가 필수적입니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-1049",
+  "nct": [],
+  "pmcid": "PMC13740572",
+  "pmid": "42996612"
+ },
+ "pub_types": [
+  "Editorial",
+  "Comment"
+ ],
+ "published_at": "2026-10-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996612/"
+ },
+ "summary_ko": "본 사설은 췌장암 환자의 체질량지수(BMI)가 예후에 미치는 상반된 영향을 다룹니다. 비만은 췌장암 발병의 위험 요인이지만, 진단 후에는 적정 체중 유지가 예후에 긍정적일 수 있는 '비만 역설' 현상이 논의됩니다. 췌장암 환자의 체중 감소와 근감소증 관리가 치료 경과 및 예후에 중요함을 강조합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Husky or lean and everything in between: the double-edged prognostic role of body mass index in pancreatic cancer",
+ "title_ko": "통통함부터 마름까지: 췌장암에서 체질량지수(BMI)의 양날의 검과 같은 예후적 역할",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic adenosquamous carcinoma (PASC) is a rare 1-4% of all pancreatic cancers and an aggressive pancreatic malignancy characterized by mixed adenocarcinoma and squamous histologies. Even after surgical intervention, patients with PASC have a lower median overall survival (mOS) than those with the more prevalent pancreatic ductal adenocarcinoma (PDAC). Secondary to its rarity, there are no formal guidelines, published clinical trials, or systematic reviews on treatment strategies for managing PASC. The primary objective was to assess mOS in months among patients with local non-metastatic disease treated with different modalities. Secondary objectives were to assess differences in mOS between chemotherapy regimens and according to surgical resectability and initial tumor size, as well as to evaluate the independent association between chemotherapy and overall survival using multivariable Cox proportional hazards regression.\nMETHODS: A comprehensive search of PubMed/MEDLINE, Google Scholar, and Cochrane Library for all full-text articles up to July 2026 identified 503 studies that were conducted globally. 72 case series and reports that met inclusion criteria were selected following PRISMA guidelines.\nRESULTS: A total of 89 patients from 72 publications were included. The median age was 66 (interquartile range, 60-72) years, 49 patients were male, and the median tumor diameter was 48 (interquartile range, 35-74) mm. Forty-nine patients received chemotherapy and 55 underwent surgical resection. Eighty-eight patients had both survival time and vital status and were included in survival analyses, with 56 deaths observed. In the primary treatment-modality analysis, among surgically unresectable patients, mOS was 3.0 months with neither chemotherapy nor radiotherapy, 6.0 months with chemotherapy alone, 13.7 months with radiotherapy alone, and 15.5 months with combined chemotherapy and radiotherapy (P=0.01). Among surgically resectable patients, mOS was 10.8 months with neither chemotherapy nor radiotherapy, 6.7 months with chemotherapy alone, 4.0 months with radiotherapy alone, and 26.0 months with combined chemotherapy and radiotherapy (P=0.03). In the secondary multivariable Cox model, chemotherapy was independently associated with improved overall survival [hazard ratio (HR), 0.41; 95% confidence interval (CI): 0.24-0.70; P=0.001], while surgical resection was not independently associated with survival (HR, 1.17; 95% CI: 0.58-2.34; P=0.66). mOS across all patients was 8.0 months (95% CI: 6.5-12.0). Median survival differed significantly according to disease extent, ranging from 33.0 months among patients with borderline resectable disease to 4.0 months among patients with metastatic disease (P=0.0004). Restricted mean survival at 24 months was 15.6 months with chemotherapy versus 8.2 months without chemotherapy. The association between chemotherapy and improved survival remained significant across most sensitivity analyses. Among patients with unresectable disease, mOS was 18.0 months with S-1, 5.4 months with gemcitabine, and 4.0 months with 5-fluorouracil (P=0.09).\nCONCLUSIONS: Combined chemotherapy and radiotherapy were associated with the longest mOS among both surgically resectable and unresectable patients in the primary treatment-modality analysis.",
+ "authors": [
+  "Gao XY",
+  "Ganatra N",
+  "Abdelhakeem A",
+  "Tran N",
+  "Rutenberg M",
+  "Starr J",
+  "Jones J",
+  "Majeed U"
+ ],
+ "categories": [
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996569",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0117",
+  "nct": [],
+  "pmcid": "PMC13740531",
+  "pmid": "42996569"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996569/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic adenosquamous carcinoma (PASC) is a rare 1-4% of all pancreatic cancers and an aggressive pancreatic malignancy characterized by mixed adenocarcinoma and squamous histologies. Even after surgical intervention, patients with PASC have a lower median overall survival (mOS) than those with the more prevalent pancreatic ductal adenocarcinoma (PDAC).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Treatment strategies in pancreatic adenosquamous carcinoma: a systematic review and pooled analysis of individual cases",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -11,7 +11,7 @@
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-11-08",
  "history": [
   {
@@ -21,8 +21,10 @@
   }
  ],
  "id": "pmid:42994441",
- "importance": 0.65,
- "key_points_ko": [],
+ "importance": 0.67,
+ "key_points_ko": [
+  "초록에 명시되지 않음"
+ ],
  "last_updated": "2026-11-08",
  "links": {
   "doi": "10.1016/S1470-2045(26)00582-6",
@@ -44,11 +46,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42994441/"
  },
- "summary_ko": "원문을 확인하세요.",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌장관선암(pancreatic ductal adenocarcinoma)에서 방사선 치료(radiotherapy)의 역할과 적절한 대상 환자군을 고찰했습니다. 췌장암 치료 과정에서 방사선 치료가 어떤 환자에게 이점이 있는지 분석했습니다. 구체적인 수치나 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Mastering the role of radiotherapy in pancreatic ductal adenocarcinoma: who and why?",
- "title_ko": null,
+ "title_ko": "췌장관선암에서 방사선 치료의 역할 마스터하기: 누구에게 왜 필요한가?",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,55 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy characterized by an immunosuppressive tumor microenvironment (TME).\nMETHODS: In this study, we investigated the prognostic and immunological relevance of SPP1 in PDAC through integrative analyses of public transcriptomic datasets, single-cell resources, and tissue-based assessments. Furthermore, leveraging high-throughput pathomics via whole-slide imaging and advanced computational analytics, we developed and internally validated a prognostic model incorporating two pathomics features (Zernike_2_2, Hematoxylin_4of4) together with age.\nRESULTS: SPP1 was found to be upregulated in PDAC overall compared to normal tissue, whereas its expression was lower in TLS-enriched regions relative to adjacent normal tissues. Multidimensional analysis revealed correlations between SPP1 expression and macrophage infiltration estimates. Moreover, low SPP1 expression was associated with favorable prognosis in PDAC patients. The pathomics-based prognostic model demonstrated good discriminative performance (bootstrap-corrected C-index = 0.715; corrected 12-month AUC = 0.766; apparent AUC = 0.866) and significant survival stratification between high- and low-risk groups (log-rank P < 0.0001).\nCONCLUSIONS: These findings suggest that SPP1-associated histoarchitectural patterns captured by pathomics may provide prognostic information, and that SPP1 represents a potential immunomodulatory factor and a candidate prognostic biomarker for PDAC.",
+ "authors": [
+  "Zhao J",
+  "Li M",
+  "Xing J",
+  "Chen Y",
+  "Song X"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996528",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.3389/fonc.2026.1923860",
+  "nct": [],
+  "pmcid": "PMC13739583",
+  "pmid": "42996528"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996528/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy characterized by an immunosuppressive tumor microenvironment (TME). METHODS: In this study, we investigated the prognostic and immunological relevance of SPP1 in PDAC through integrative analyses of public transcriptomic datasets, single-cell resources, and tissue-based assessments.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "SPP1-associated pathomics features for prognostic modeling in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

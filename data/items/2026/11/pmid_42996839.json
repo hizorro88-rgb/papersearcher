@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND AND OBJECTIVE: Liposomal irinotecan (nal-IRI) in combination with 5-fluorouracil and leucovorin (5-FU/LV) represents the standard second-line treatment for metastatic pancreatic ductal adenocarcinoma (mPDAC) following progression on gemcitabine-based therapy. Despite its demonstrated survival benefit, diarrhea remains a clinically significant toxicity that can compromise dose intensity, treatment adherence, and quality of life. This review provides a comprehensive and updated overview of the pathophysiology, incidence, and evidence-based management of diarrhea associated with nal-IRI-based regimens.\nMETHODS: A structured narrative review of the available literature was performed, including prospective randomized trials, supportive care guidelines, pharmacogenomic data, and emerging translational evidence. Given the heterogeneity of study designs and the limited number of nal-IRI-specific supportive care trials, a formal meta-analysis was not feasible.\nKEY CONTENT AND FINDINGS: Diarrhea associated with nal-IRI is mechanistically complex, encompassing acute cholinergic and delayed secretory components mediated by SN-38-induced mucosal injury and enterohepatic recirculation. Grade 3-4 diarrhea occurs in approximately 13-20% of patients across major pancreatic cancer trials. Evidence-based management strategies are presented, including pharmacologic interventions (atropine, loperamide, octreotide, fluoroquinolones), supportive care, and dose modification protocols. Emerging approaches-including gut microbiome modulation, beta-glucuronidase inhibitors, and novel antisecretory agents-are also reviewed.\nCONCLUSIONS: A multidisciplinary, proactive management approach-beginning before the first nal-IRI dose-is essential to minimize diarrhea-related morbidity and optimize treatment outcomes. Integration of pharmacogenomic data and emerging biomarkers-particularly UGT1A1*28 genotyping and gut microbiome β-glucuronidase activity profiling-may further individualize risk stratification and management in this patient population.",
+ "authors": [
+  "Zaniboni A"
+ ],
+ "categories": [
+  "supportive",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996839",
+ "importance": 0.49,
+ "key_points_ko": [
+  "주요 췌장암 임상시험에서 리포좀 이리노테칸(nal-IRI) 투여 시 3~4등급의 중증 설사 발생률은 약 13~20%였습니다.",
+  "설사의 지연성 원인은 active metabolite인 SN-38에 의한 장점막 손상 및 장간 순환에 의해 유발됩니다.",
+  "아트로핀(atropine), 로페라미드(loperamide), 옥트레오타이드(octreotide) 등 선제적 약물 치료와 UGT1A1*28 유전자형 검사 등의 맞춤형 관리가 강조됩니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0627",
+  "nct": [],
+  "pmcid": "PMC13740549",
+  "pmid": "42996839"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-09-14",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996839/"
+ },
+ "summary_ko": "본 고찰 연구는 젬시타빈(gemcitabine) 기반 치료 후 진행된 전이성 췌장관선암(mPDAC)의 2차 표준 치료제인 리포좀 이리노테칸(nal-IRI) 요법 시 발생하는 설사의 기전과 관리 전략을 정리했습니다. nal-IRI 관련 설사는 급성 콜린성 반응과 SN-38에 의한 지연성 장점막 손상이 복합적으로 작용합니다. 주요 췌장암 임상시험에서 3~4등급의 심각한 설사 발생률은 13~20% 수준으로 집계되었습니다. 아트로핀(atropine), 로페라미드(loperamide) 등 근거 기반 약물 치료와 선제적 감량 프로토콜을 적용하여 부작용을 줄이고 치료 효과를 최적화할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Management of diarrhea in patients receiving liposomal irinotecan-based regimens: a narrative review of mechanisms, clinical impact, and evidence-based strategies",
+ "title_ko": "리포좀 이리노테칸 기반 치료를 받는 환자의 설사 관리: 기전, 임상적 영향 및 근거 기반 전략",
+ "trial": null,
+ "type": "paper"
+}

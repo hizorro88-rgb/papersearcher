@@ -7,13 +7,13 @@
   "Saleh RK"
  ],
  "categories": [
-  "surgery",
-  "diagnosis"
+  "diagnosis",
+  "surgery"
  ],
  "entities": [
   "whipple"
  ],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-07",
  "history": [
   {
@@ -23,8 +23,13 @@
   }
  ],
  "id": "pmid:42993282",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술 전 EUS 변형률 비(SR) 2.5 이하 기준은 수술 중 부드러운 췌장 조직 예측에 대해 민감도 87.9%, 특이도 83.3%, 정확도 86.0%를 기록했습니다.",
+  "EUS 변형률 비는 췌장의 섬유화 등급이 높아짐에 따라 통계적으로 유의하게 상승했습니다.",
+  "연구 대상 환자 100명 중 임상적으로 유의한 수술 후 췌장루(CR-POPF)는 16명(16%)에서 발생했습니다.",
+  "외부 다기관 검증이 추가로 필요합니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.1007/s00464-026-13401-4",
@@ -46,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42993282/"
  },
- "summary_ko": "BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌십이지장절제술(PD)을 받는 환자 100명을 대상으로 수술 전 내시경 초음파(EUS) 변형 탄성 초음파(strain elastography)의 진단 정확도를 평가했습니다. EUS 변형률 비(SR) 임계값을 2.5 이하로 설정했을 때, 수술 중 확인된 부드러운 췌장 조직을 예측하는 민감도 87.9%, 특이도 83.3%, 정확도 86.0%를 보였습니다. 또한 EUS 변형률 비는 조직학적 섬유화 등급과 비례하여 증가했습니다. 임상적으로 유의한 수술 후 췌장루(CR-POPF)는 16명(16%)에서 발생했습니다. 결론적으로 수술 전 EUS 탄성 초음파 검사는 수술 중 췌장 조직의 상태를 정확하게 예측할 수 있는 객관적인 대리지표임을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula",
- "title_ko": null,
+ "title_ko": "췌십이지장절제술 후 수술 중 췌장 질환 예측을 위한 수술 전 내시경 초음파(EUS) 변형 탄성 초음파 검사: 임상적으로 유의한 수술 후 췌장루에 대한 탐색적 분석을 포함한 전향적 진단 정확도 연구",
  "trial": null,
  "type": "paper"
 }

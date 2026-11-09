@@ -1,0 +1,64 @@
+{
+ "abstract": "UNLABELLED: MYC is one of the most frequently dysregulated oncogenic drivers across many cancers, yet direct therapeutic targeting has remained difficult because its function is mediated by disordered regions and transient protein-protein interactions. Here we design proteins that bind epitopes within regions of MYC whose sequence is conserved between human and mouse, including intrinsically disordered motifs required for oncogenic activity. In vitro, the designs bind MYC with nanomolar affinity and in cells they engage MYC, disrupt interactions with MAX, and remodel MYC-associated protein complexes. Expression of the binders decreases cell proliferation across diverse MYC-dependent hematopoietic, liver, pancreatic, and patient-derived tumor models, and in an orthotopic pancreatic cancer model, binder-expressing tumor cells were selectively depleted. This work establishes de novo protein design as a generalizable strategy to therapeutically target intrinsically disordered transcription factors.\nONE-SENTENCE SUMMARY: We developed a panel of de novo designed intracellular protein binders that target conserved functional regions of MYC with nanomolar affinity, remodel MYC complexes and interaction networks in cells, suppress proliferation across MYC-dependent cancer models, and are depleted from orthotopic pancreatic tumors in vivo.",
+ "authors": [
+  "McNamara-Bordewick NK",
+  "Wu K",
+  "Su Y",
+  "ElSheikh A",
+  "Wang X",
+  "Cunningham M",
+  "Daniel C",
+  "Sears RC"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42995841",
+ "importance": 0.45,
+ "key_points_ko": [
+  "신규 설계된 단백질 결합체는 MYC에 나노몰 친화력으로 결합하여 MAX와의 상호작용을 차단합니다.",
+  "췌장암을 포함한 다양한 MYC 의존성 암 모델에서 암세포 증식을 억제했습니다.",
+  "정위 췌장암 마우스 모델에서 단백질 결합체가 발현된 종양 세포가 선택적으로 감소하는 것이 확인되었습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.64898/2026.10.15.758618",
+  "nct": [],
+  "pmcid": "PMC13738422",
+  "pmid": "42995841"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995841/"
+ },
+ "summary_ko": "본 연구에서는 많은 암종에서 과활성화되는 암유전자 MYC를 직접 표적하기 위해 신규 단백질 결합체(de novo binders)를 설계했습니다. 이 결합체는 MYC와 나노몰(nanomolar) 수준의 높은 친화력으로 결합하여 MAX와의 상호작용을 방해하고 MYC 단백질 복합체를 재구성했습니다. 췌장암, 간암, 혈액암 등 다양한 MYC 의존성 암 모델에서 세포 증식을 감소시켰으며, 정위 췌장암(orthotopic pancreatic cancer) 동물 모델에서도 결합체가 발현된 종양 세포가 선택적으로 감소했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MYC targeted de novo binders impair tumor growth",
+ "title_ko": "MYC를 표적으로 하는 신규 단백질 결합체의 종양 성장 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

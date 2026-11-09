@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is predominantly driven by oncogenic KRAS signaling and sustained by a desmoplastic, immunosuppressive microenvironment limiting therapeutic response. CD73-mediated adenosine signaling supports this immune-excluded, tumor-supportive microenvironment. Whether dual targeting of KRAS-MAPK and CD73 signaling creates a therapeutic opportunity to improve tumor control remains unexplored. Analysis of KRAS -mutant cancer cell lines revealed increased expression of NT5E and adenosine receptor ADORA2B . Pharmacologic and genetic suppression of oncogenic KRAS inhibited CD73 expression through a MAPK-dependent program. In syngeneic KPC tumors, conversely, CD73 inhibition with quemliclustat increased ERK phosphorylation in vivo , suggesting adaptive MAPK activation following CD73 blockade. Combined CD73 and RAS(ON) inhibition in vivo produced the strongest antitumor response, reducing endpoint tumor volume beyond either monotherapy. This combination significantly suppressed tumor proliferation and αSMA-positive stroma and resulted in a substantial reduction in CD163-positive macrophage infiltration. RAS-MAPK targeted therapy was also associated with increased CD8α-positive T cell infiltration and granzyme B-positive staining. As therapeutic responses in PDAC have been linked to the gut microbiome, we further examined treatment-associated changes in the microbiome. RAS-MAPK inhibition produced the most pronounced microbial alterations, which correlated with tumor volume and immune markers. Together, these findings identify KRAS-MAPK driven CD73 signaling as a therapeutic vulnerability in PDAC and support combined CD73 and RAS(ON) inhibition as a strategy to suppress tumor growth, remodel stroma, and alleviate tumor-associated immune suppression.",
+ "authors": [
+  "Turabi K",
+  "Sardarni UK",
+  "Ankenbauer KE",
+  "Torbit SM",
+  "Taranto CP",
+  "Dash S",
+  "Meade A",
+  "Cephas AT"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42995949",
+ "importance": 0.57,
+ "key_points_ko": [
+  "KRAS-MAPK 신호 억제 시 세포 수준에서 CD73 발현이 감소함을 확인했습니다.",
+  "동물 모델에서 CD73 억제제 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제의 병용 투여는 단독 치료 대비 가장 뛰어난 종양 억제 효과를 보였습니다.",
+  "병용 치료는 αSMA 양성 종양 기질과 CD163 양성 면역 억제성 마크로파지를 줄이고 CD8α 양성 T 세포 및 그랜자임 B 침윤을 증가시켰습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.64898/2026.10.20.760559",
+  "nct": [],
+  "pmcid": "PMC13738641",
+  "pmid": "42995949"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-10-25",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995949/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 KRAS-MAPK 신호전달과 CD73 매개 아데노신 신호전달을 동시 차단하는 이중 표적 치료 전략을 평가한 전임상 연구입니다. 연구진은 CD73 억제제인 quemliclustat(퀘믈리클루스타트)와 RAS(ON) 억제제의 병용 투여가 단독 요법에 비해 종양 크기를 유의하게 줄이는 것을 확인했습니다. 또한 이 병용 요법은 종양 기질을 리모델링하고 면역 억제성 마크로파지를 감소시키는 한편 CD8+ T 세포 침윤을 촉진했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Oncogenic KRAS-MAPK signaling sustains a CD73 dependent therapeutic vulnerability in pancreatic cancer",
+ "title_ko": "종양유전자 KRAS-MAPK 신호전달에 의한 CD73 의존성 치료 취약점과 췌장암에서의 복합 치료 효과",
+ "trial": null,
+ "type": "paper"
+}

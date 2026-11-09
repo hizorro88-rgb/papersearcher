@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Liu YZ",
+  "Liu Y",
+  "Zhang X"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996607",
+ "importance": 0.58,
+ "key_points_ko": [
+  "머신러닝을 활용해 췌장암 내 섬유아세포(fibroblast) 이질성을 분석하고 예후에 적용하는 연구를 다룬 사설입니다.",
+  "섬유아세포의 특성을 바탕으로 췌장암 환자의 면역 층화 및 예후 예측 가능성을 논의합니다.",
+  "상세 연구 데이터, 수치적 결과 및 환자 대상은 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0930",
+  "nct": [],
+  "pmcid": "PMC13740568",
+  "pmid": "42996607"
+ },
+ "pub_types": [
+  "Editorial",
+  "Comment"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996607/"
+ },
+ "summary_ko": "본 글은 췌장암(pancreatic cancer)에서 섬유아세포(fibroblast)의 이질성을 머신러닝(machine learning)을 통해 예후 및 면역 층화 분석에 적용한 연구를 다룬 사설입니다. 종양 미세환경 속 섬유아세포의 생물학적 다양성을 파악하여 환자의 예후를 예측하는 연구 흐름을 소개합니다. 제시된 본문 정보에는 구체적인 실험 수치나 상세 결과가 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Translating fibroblast heterogeneity into prognosis and immune stratification in pancreatic cancer using machine learning",
+ "title_ko": "머신러닝을 활용한 췌장암 내 섬유아세포 이질성의 예후 및 면역 층화 분석",
+ "trial": null,
+ "type": "paper"
+}

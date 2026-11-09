@@ -11,6 +11,8 @@
   "Yamasaki Y"
  ],
  "categories": [
+  "basic",
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -25,7 +27,12 @@
  ],
  "id": "pmid:42994196",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 106명의 환자 중 20명에서 동반 췌관선암(PDAC)이 관찰되었습니다.",
+  "p21 발현 수준(H-score)은 동반 췌관선암이 있는 IPMN 그룹(8.6)이 동반 췌관선암이 없는 그룹(21.9)보다 유의하게 낮았습니다(P = .020).",
+  "IPMN 조직에서 KLF4와 p21 발현은 유의한 양의 상관관계(r = 0.516, P < .001)를 나타냈습니다.",
+  "p53 양성 염색 빈도는 동반 췌관선암 유무에 따른 IPMN 그룹 간 유의한 차이가 없었습니다(P = .56)."
+ ],
  "last_updated": "2026-11-08",
  "links": {
   "doi": "10.1016/j.surg.2026.110744",
@@ -47,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42994196/"
  },
- "summary_ko": "BACKGROUND: Patients with intraductal papillary mucinous neoplasms have an increased risk of developing concomitant pancreatic ductal adenocarcinoma. Krüppel-like factor 4 regulates p21 expression and has been implicated in intraductal papillary mucinous neoplasm tumorigenesis.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌관 내 유두상 점액 종양(IPMN) 및 IPMN 동반 췌관선암(PDAC) 환자 106명의 절제 조직을 바탕으로 KLF4-p21 경로를 분석했습니다. 분석 결과, 동반 췌관선암이 있는 IPMN 조직은 동반 췌관선암이 없는 IPMN 조직에 비해 p21 발현이 유의하게 낮았습니다. IPMN 조직 내에서 Krüppel-유사 인자 4(KLF4)와 p21 발현은 양의 상관관계를 보였습니다. 연구진은 p53 변이와 무관하게 KLF4-p21 축의 조절 이상이 췌장 암화 과정에 기여할 수 있음을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Dysregulation of the KLF4-p21 axis in intraductal papillary mucinous neoplasms associated with concomitant pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "동반 췌관선암이 존재하는 췌관 내 유두상 점액 종양에서의 KLF4-p21 축 조절 이상",
  "trial": null,
  "type": "paper"
 }

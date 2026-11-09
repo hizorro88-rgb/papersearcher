@@ -28,7 +28,7 @@ search:
 | [국소 진행성 또는 전이성 췌장암의 1차 치료로서 대변 미생물 이식(FMT) 및 SHR-1701과 냅-파클리탁셀/젬시타빈 병용…](../trials/NCT07845565.md) | 2상 | 모집 예정 | - |
 | [췌장암에 대한 알부민 결합 파클리탁셀 기반 병용 요법 임상시험](../trials/NCT07828756.md) | 2상 | 모집 예정 | - |
 | [수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Ge…](../trials/NCT07814859.md) | 2상 | 모집 예정 | - |
-| [KRAS G12D 변이 전이성 췌장암 1차 치료에서 zoldonrasib 및 daraxonrasib 병용요법과 젬시타빈 및…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib(RMC-9805) + daraxonrasib(RMC…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장관선암(PDAC) 환자의 1차 치료로서 GnP, SHR-1701, Apatinib 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 예정 | - |
 | [진행성 췌장암 환자를 대상으로 하는 GKL-006 주사제에 대한 연구](../trials/NCT07777211.md) | 1상/2상 | 모집 중 | - |
 | [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여를 평가하는 임상시험](../trials/NCT07769502.md) | 2상 | 모집 중 | - |
@@ -39,11 +39,11 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
-| [전이성 KRAS G12D 변이 췌관선암 환자의 1차 치료로서 zoldonrasib + 연구자 선택 항암화학요법 대 위약 +…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험 (RA…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
 | [절제 가능성 경계성 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 예정 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
 | [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌관선암 환자의 1차 치료로서 atebimetinib과 GnP 병용요법 평가 3상 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
+| [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법 평가 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 용량 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
@@ -56,7 +56,7 @@ search:
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용 투여 임상시험](../trials/NCT07259317.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료로서 리포조말 이리노테칸(irinotecan hydrochloride liposome injectio…](../trials/NCT07238283.md) | 3상 | 모집 중 | - |
-| [1차 치료 후 국소 진행성 또는 전이성 췌관선암 환자를 대상으로 한 MR001 및 항암화학요법 병용 연구](../trials/NCT07235202.md) | 1상/2상 | 모집 중 | - |
+| [국소 진행성 또는 전이성 췌관선암(PDAC) 1차 치료 후 MR001과 항암화학요법 병용 임상시험](../trials/NCT07235202.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암에서 serplulimab과 bevacizumab을 잰 복합 순차적 AG 및 mFOLFOX 요법 대 AG 단독…](../trials/NCT07235930.md) | 3상 | 모집 중 | - |
 | [진행성 고형암 환자를 대상으로 BMS-986523 단독 요법 및 항암제 병용 요법의 안전성, 내인성, 유효성을 평가하는 임상…](../trials/NCT07223047.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 1차 치료로서 NALIRIFOX와 GnP의 월별 교대 투여](../trials/NCT07163273.md) | 2상 | 모집 중 | - |
@@ -126,7 +126,7 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (18)
+## 타임라인 (19)
 
 <a id="pmid-42971953"></a>
 #### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
@@ -145,12 +145,18 @@ search:
 
 ---
 <a id="pmid-42984377"></a>
-#### [Factors Associated With Recurrence After Adjuvant Gemcitabine and Nab-Paclitaxel in Patients With Resected Pancreatic Ductal Adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/42984377/)
-`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-11-01 · PubMed · Cancer Med · 중요도 0.77
+#### [수술 후 gemcitabine 및 nab-paclitaxel 보조항암요법을 받은 췌장관선암 환자의 재발 관련 요인](https://pubmed.ncbi.nlm.nih.gov/42984377/)
+<small>Factors Associated With Recurrence After Adjuvant Gemcitabine and Nab-Paclitaxel in Patients With Resected Pancreatic Ductal Adenocarcinoma</small>
 
-BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis despite curative-intent resection and adjuvant therapy. Gemcitabine plus nab-paclitaxel (Gem-NAP) has become a standard adjuvant regimen for PDAC, yet recurrence rates remain high.
+`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-11-01 · PubMed · Cancer Med · 중요도 0.72
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42984377/) · [DOI](https://doi.org/10.1002/cam4.72491) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13735890/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42984377)</small>
+본 연구는 절제술 후 gemcitabine(젬시타빈) 및 nab-paclitaxel(나브-파클리탁셀) 보조항암요법을 받은 췌장관선암(PDAC) 환자 210명을 대상으로 재발과 생존 관련 요인을 분석한 회고적 연구입니다. 분석 결과 대상 환자의 62.9%에서 재발이 발생하였으며, 중앙 무진행 생존기간(DFS)은 21.0개월, 중앙 전체 생존기간(OS)은 39.0개월로 집계되었습니다. 높은 림프절 비율(LNR), 현미경적 잔존 암(R1 절제), 림프혈관 침윤(LVI)이 DFS와 OS 모두를 악화시키는 주요 독립 예측 인자로 나타났습니다.
+
+- 전체 환자 210명 중 62.9%(132명)가 재발을 경험했으며, 중앙 무진행 생존기간(DFS)은 21.0개월, 중앙 전체 생존기간(OS)은 39.0개월이었습니다.
+- 가장 흔한 재발 부위는 국소 재발(28.6%)과 간 전이(24.8%)였습니다.
+- 높은 림프절 비율(LNR > 0.14, HR: 1.76), R1 절제(HR: 3.00), 림프혈관 침윤(LVI, HR: 1.55)은 전체 생존기간(OS) 저하의 독립적 예측 요인이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42984377/) · [DOI](https://doi.org/10.1002/cam4.72491) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13735890/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42984377)</small>
 
 ---
 <a id="pmid-42962507"></a>
@@ -197,6 +203,15 @@ BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis des
 - 치료 관련 사망은 단독군에서 담도 감염으로 1건(4%) 발생했으며, SBRT 관련 중대한 이상반응은 2등급 소장 폐색과 3등급 췌장염 각 1건이었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914998/) · [DOI](https://doi.org/10.1016/S1470-2045(26)00532-2) · [NCT04089150](https://clinicaltrials.gov/study/NCT04089150) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914998)</small>
+
+---
+<a id="pmid-42996581"></a>
+#### [Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42996581/)
+`논문` `무작위` `수술` `치료 전반` `신약·치료제` · 2026-10-23 · PubMed · J Gastrointest Oncol · 중요도 0.85
+
+BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the standard treatment for resectable pancreatic cancer (PC) in Japan. More intensive regimens, such as gemcitabine plus nab-paclitaxel (GnP), are widely used globally.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996581/) · [DOI](https://doi.org/10.21037/jgo-2026-0892) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740548/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996581)</small>
 
 ---
 <a id="pmid-42922112"></a>

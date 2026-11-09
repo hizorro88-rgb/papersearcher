@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer remains one of the most lethal malignancies with limited therapeutic options. This study investigates the anti-cancer effects of eriodyctiol, a natural flavonoid, and its potential as combination therapy with gemcitabine in pancreatic cancer treatment.\nMETHODS: Molecular docking analysis indicated eriodyctiol-P53 interactions. Pancreatic cancer cells BxPC-3 and Capan-2 were treated with eriodyctiol, and effects were assessed using Cell Counting Kit-8 (CCK-8) viability assays, Western blot, immunofluorescence, co-immunoprecipitation (Co-IP), cellular thermal shift assay (CETSA), flow cytometry, and quantitative real-time polymerase chain reaction (qRT-PCR). Synergistic effects with gemcitabine were evaluated in vitro and validated in xenograft mouse models.\nRESULTS: Eriodyctiol demonstrated dose-dependent cytotoxicity in BxPC-3 and Capan-2 cells. Treatment enhanced P53 protein stability and nuclear translocation, upregulated downstream targets p21, BAX, and PUMA, and increased apoptosis. CETSA confirmed direct eriodyctiol-P53 binding, and Co-IP assay revealed the disruption of MDM2-P53 interaction by eriodyctiol treatment. Rescue experiments confirmed P53-dependent, caspase-3-mediated apoptosis induced by eriodyctiol. Importantly, combination with gemcitabine showed strong synergistic effects in vitro and enhanced anti-tumor efficacy in vivo.\nCONCLUSIONS: Eriodyctiol exhibits potent anti-cancer activity through P53 binding and MDM2-P53 interaction disruption, leading to P53-dependent apoptosis. The compound shows promise as a novel therapeutic strategy that synergistically enhances gemcitabine efficacy in pancreatic cancer treatment.",
+ "authors": [
+  "Liu Z",
+  "Yang L",
+  "Zhu X",
+  "Dai T",
+  "Cheng L",
+  "Hu X"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42997689",
+ "importance": 0.52,
+ "key_points_ko": [
+  "에리오디크티올은 MDM2-P53 상호작용을 차단하여 P53 의존성 암세포 사멸을 유도했습니다.",
+  "췌장암 세포주(BxPC-3, Capan-2) 실험에서 에리오디크티올은 용량 의존적인 항암 효과를 나타냈습니다.",
+  "세포 및 마우스 이식 모델에서 젬시타빈과의 병용 치료는 강력한 항암 시너지 효과를 입증했습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/tcr-2026-1541",
+  "nct": [],
+  "pmcid": "PMC13743216",
+  "pmid": "42997689"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Transl Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42997689/"
+ },
+ "summary_ko": "본 연구는 천연 플라보노이드 성분인 에리오디크티올(eriodyctiol)의 췌장암 치료 효과와 젬시타빈(gemcitabine)과의 병용 효과를 확인한 전임상 연구입니다. 에리오디크티올은 MDM2와 P53 단백질 간의 결합을 차단하여 P53 단백질을 안정화하고 세포사멸(apoptosis)을 유도했습니다. 또한 세포 및 마우스 모델에서 젬시타빈과 병용 투여했을 때 항암 효과가 크게 향상되는 시너지 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Eriodyctiol induces P53-dependent apoptosis in pancreatic cancer through disruption of MDM2-P53 interaction and synergistically enhances gemcitabine efficacy",
+ "title_ko": "에리오디크티올(Eriodyctiol)의 MDM2-P53 상호작용 저해를 통한 췌장암 세포 사멸 유도 및 젬시타빈 병용 시너지 효과",
+ "trial": null,
+ "type": "paper"
+}

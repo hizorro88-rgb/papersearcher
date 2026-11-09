@@ -27,8 +27,12 @@
   }
  ],
  "id": "pmid:42984377",
- "importance": 0.77,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "전체 환자 210명 중 62.9%(132명)가 재발을 경험했으며, 중앙 무진행 생존기간(DFS)은 21.0개월, 중앙 전체 생존기간(OS)은 39.0개월이었습니다.",
+  "가장 흔한 재발 부위는 국소 재발(28.6%)과 간 전이(24.8%)였습니다.",
+  "높은 림프절 비율(LNR > 0.14, HR: 1.76), R1 절제(HR: 3.00), 림프혈관 침윤(LVI, HR: 1.55)은 전체 생존기간(OS) 저하의 독립적 예측 요인이었습니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.1002/cam4.72491",
@@ -50,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42984377/"
  },
- "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) carries a poor prognosis despite curative-intent resection and adjuvant therapy. Gemcitabine plus nab-paclitaxel (Gem-NAP) has become a standard adjuvant regimen for PDAC, yet recurrence rates remain high.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 절제술 후 gemcitabine(젬시타빈) 및 nab-paclitaxel(나브-파클리탁셀) 보조항암요법을 받은 췌장관선암(PDAC) 환자 210명을 대상으로 재발과 생존 관련 요인을 분석한 회고적 연구입니다. 분석 결과 대상 환자의 62.9%에서 재발이 발생하였으며, 중앙 무진행 생존기간(DFS)은 21.0개월, 중앙 전체 생존기간(OS)은 39.0개월로 집계되었습니다. 높은 림프절 비율(LNR), 현미경적 잔존 암(R1 절제), 림프혈관 침윤(LVI)이 DFS와 OS 모두를 악화시키는 주요 독립 예측 인자로 나타났습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Factors Associated With Recurrence After Adjuvant Gemcitabine and Nab-Paclitaxel in Patients With Resected Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "수술 후 gemcitabine 및 nab-paclitaxel 보조항암요법을 받은 췌장관선암 환자의 재발 관련 요인",
  "trial": null,
  "type": "paper"
 }

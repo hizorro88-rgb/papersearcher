@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with a poor prognosis. Computed tomography perfusion (CTP) can quantify tumor hemodynamic parameters. Dual-energy computed tomography (DECT) can quantify iodine concentration and may provide perfusion-related information. This study aimed to establish the relationship strength between DECT-derived iodine values and CTP-based parameters in PDAC. This study aimed to establish the relationship strength between DECT derived iodine values and CTP based parameters in PDAC.\nMETHODS: A total of 47 patients having histologically proven PDAC were enrolled in this study. These patients underwent multi-phase DECT scanning and concurrent dynamic CTP using a single source, fast kVp switching CT scanner. The DECT derived parameters and CTP derived parameters of pancreatic tumor and tumor-free pancreatic parenchyma were calculated, including iodine concentration (IC) and normalized iodine concentration (NIC) in the portal venous and delayed phases, as well as blood flow (BF), blood volume (BV), etc. Statistical different parameters between pancreatic tumor and tumor-free pancreatic parenchyma were analyzed by receiver-operating characteristic (ROC) curves. The diagnostic capability was determined by calculating the area under the curve (AUC). A paired t-test and Pearson correlation were used to evaluate the two techniques.\nRESULTS: For the tumor lesion, IC was 15.21±5.09 and 15.98±4.71 mg/mL in the portal venous and delayed phases, while NIC was 0.31±0.10 and 0.51±0.14. For the tumor-free pancreatic parenchyma, the corresponding values were 27.25±5.43 mg/mL and 21.67±5.23 mg/mL for IC, and 0.55±0.11 and 0.70±0.18 for NIC, respectively. For the tumor lesion, BF and BV were 30.25±11.80 mL/100 g/min and 3.53±2.42 mL/100 g, respectively. For the tumor-free pancreatic parenchyma, BF and BV were 109.74±56.79 mL/100 g/min and 10.77±2.84 mL/100 g, respectively. BF, BV, mean slope of increase (MSI), positive enhancement integral (PEI) and IC in portal venous phase (IC_VP), NIC in portal venous phase (NIC_VP) showed very high diagnostic accuracy (AUC: 0.957-0.981), while IC in delayed phase (IC_DP) and NIC in delayed phase (NIC_DP) demonstrated moderate accuracy. The IC_VP of the tumor lesions showed a moderate positive correlation with BF and BV (r=0.653 and r=0.461, respectively; both P<0.001). The NIC_VP of the tumor lesions also showed a moderate positive correlation with BF and BV (r=0.645 and r=0.491, respectively; both P<0.001).\nCONCLUSIONS: In PDAC tumor lesions, DECT derived IC and NIC both show moderate positive correlations with BF and BV, with stronger correlations observed for BF, enabling DECT to evaluate both morphological and perfusion changes.",
+ "authors": [
+  "Ming S",
+  "Ruan Y",
+  "Cheng P",
+  "Shi D",
+  "Wang B",
+  "Li J",
+  "Du M",
+  "Zhang Y"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996559",
+ "importance": 0.67,
+ "key_points_ko": [
+  "췌관선암 환자 47명을 대상으로 DECT 지표와 CTP 관류 매개변수 간의 관계를 분석했습니다.",
+  "종양 부위의 문맥상기 요오드 농도(IC_VP) 및 정규화 요오드 농도(NIC_VP)는 혈류량(BF)과 유의미한 양의 상관관계(r=0.653 및 r=0.645)를 보였습니다.",
+  "문맥상기 IC 및 NIC 지표는 정상 췌장 조직과 종양 병변을 명확히 구분하는 뛰어난 진단 정확도(AUC 0.957~0.981)를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0553",
+  "nct": [],
+  "pmcid": "PMC13740546",
+  "pmid": "42996559"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996559/"
+ },
+ "summary_ko": "본 연구는 조직학적으로 확진된 췌관선암(PDAC) 환자 47명을 대상으로 이중 에너지 컴퓨터단층촬영(DECT)의 요오드 지표와 컴퓨터단층촬영 관류법(CTP) 매개변수 간의 연관성을 평가했습니다. 연구 결과 문맥상기(portal venous phase)에서 측정된 요오드 농도(IC)와 정규화 요오드 농도(NIC)는 CTP의 혈류량(BF) 및 혈액량(BV)과 의미 있는 양의 상관관계를 보였습니다. 또한 문맥상기 DECT 지표들은 정상 췌장 조직과 췌장암 종양을 구별하는 높은 진단 정확도를 나타냈습니다. 결론적으로 DECT는 췌장암의 형태학적 평가와 관류 상태 평가를 동시에 제공할 수 있는 유용한 영상 기법입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual-energy computed tomography as an alternative to computed tomography perfusion for assessment of pancreatic ductal adenocarcinoma",
+ "title_ko": "췌관선암 평가에서 컴퓨터단층촬영 관류법의 대안으로서의 이중 에너지 컴퓨터단층촬영",
+ "trial": null,
+ "type": "paper"
+}

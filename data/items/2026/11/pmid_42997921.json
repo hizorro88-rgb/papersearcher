@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic adenocarcinoma (PAAD) is a lethal malignancy with a notoriously poor prognosis. While the DNA mismatch repair (MMR) system is crucial for genomic integrity and its deficiency influences immunotherapy response in some cancers, its comprehensive prognostic value and association with tumor microenvironment (TME) in PAAD remain underexplored. We aimed to construct and validate an MMR-related prognostic signature and explore its associations with TME and chemotherapy sensitivity in PAAD.\nMETHODS: Both the RNA sequencing data and clinical data for PAAD were acquired through The Cancer Genome Atlas (TCGA) database. Prognosis-related MMR genes were screened, and a risk-scoring model was constructed by least absolute shrinkage and selection operator (LASSO) regression and multivariate Cox regression analyses, validated using Gene Expression Omnibus (GEO) datasets (GSE78229 and GSE57495). The predictive performance was assessed using Kaplan-Meier (K-M) survival and Receiver operating characteristic (ROC) curve analyses. The model's association with genetic alterations, immune cell infiltration (analyzed with CIBERSORT, QUANTISEQ, and EPIC algorithms), immunotherapy response [Tumor Immune Dysfunction and Exclusion (TIDE), tumor mutational burden (TMB), and immunophenoscore (IPS) scores], and chemotherapy sensitivity was systematically investigated.\nRESULTS: Six MMR genes (HDAC10, MSH2, MSH4, PCNA, PRKCG, and RPA1) were established. Patients were stratified into high- and low-risk groups with significantly distinct overall survival (OS) (P<0.001). The risk score demonstrated robust predictive accuracy for 5-year survival [area under the curve (AUC) =0.857] and was an independent prognostic factor. The low-risk group exhibited an immunologically active TME, with increased infiltration of CD8+ T cells and naive B cells. In contrast, the high-risk group had a significantly higher TME score, whereas TMB and TIDE scores did not differ significantly between the two groups. Drug sensitivity analysis revealed that the high-risk group was more sensitive to gemcitabine and paclitaxel.\nCONCLUSIONS: We developed and validated a novel six-MMR-gene signature that effectively predicts prognosis, reflects the immune contexture, and suggests differential chemotherapy sensitivity in PAAD. This signature provides a potential multi-dimensional biomarker for risk stratification and personalized treatment planning.",
+ "authors": [
+  "Tang H",
+  "Yang X",
+  "Duan X",
+  "Feng J",
+  "Xu C",
+  "Huang Y",
+  "Jiang L"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42997921",
+ "importance": 0.59,
+ "key_points_ko": [
+  "6개 MMR 유전자(HDAC10, MSH2, MSH4, PCNA, PRKCG, RPA1) 기반 모델은 5년 생존율 예측에서 곡선아래면적(AUC) 0.857의 정확도를 보였습니다.",
+  "고위험군과 저위험군 사이에 전체 생존기간의 통계적으로 유의미한 차이가 확인되었습니다(P<0.001).",
+  "약물 민감도 분석에서 고위험군이 gemcitabine(젬시타빈) 및 paclitaxel(파클리탁셀)에 대해 더 높은 반응성을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/tcr-2026-1-0007",
+  "nct": [],
+  "pmcid": "PMC13743250",
+  "pmid": "42997921"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-05-18",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Transl Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42997921/"
+ },
+ "summary_ko": "연구진은 암 유전체 아틀라스(TCGA) 및 GEO 데이터베이스의 췌관선암(PAAD) 데이터를 분석하여 DNA 미스매치 복구(MMR) 관련 6개 유전자 기반 예후 예측 모델을 개발했습니다. 이 모델은 환자를 고위험군과 저위험군으로 분류하였으며, 저위험군이 고위험군에 비해 전체 생존기간(OS)이 통계적으로 유의하게 길었습니다(P<0.001). 약물 민감도 분석 결과 고위험군은 gemcitabine(젬시타빈) 및 paclitaxel(파클리탁셀) 항암제에 더 민감하게 반응하는 특징을 보였습니다. 반면 저위험군은 CD8+ T세포 침윤이 증가하는 등 면역학적으로 활성화된 종양 미세환경을 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The DNA mismatch repair landscape in pancreatic adenocarcinoma: a novel prognostic signature with implications for immune microenvironment and chemotherapy response",
+ "title_ko": "췌관선암종에서 DNA 미스매치 복구 양상: 면역 미세환경 및 항암제 반응성을 시사하는 새로운 예후 예측 지표",
+ "trial": null,
+ "type": "paper"
+}

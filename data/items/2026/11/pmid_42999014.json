@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Neoadjuvant chemotherapy (NAC) followed by surgery and adjuvant chemotherapy (AC) is the standard treatment strategy for resectable (R) and borderline resectable with venous involvement (BR-PV) pancreatic cancer (PC). However, the survival impact of completion of perioperative chemotherapy (CPC) remains unclear. We evaluated the association between CPC and overall survival (OS) and whether the Cancer and Aging Research Group (CARG) score, a tool for predicting chemotherapy-related toxicity, could predict CPC.\nPATIENTS AND METHODS: We retrospectively reviewed a treatment-initiated cohort of patients with R or BR-PV PC who started NAC between 2019 and 2023, regardless of receipt of surgery. CPC was defined as achieving relative total dose intensity (RTDI) ≥ 80% during NAC and RTDI ≥65% during AC. Landmark Cox models starting at L2 (L2: surgery + 34 weeks) were used for OS, with multivariable adjustment for prespecified covariates. Multivariable logistic regression was used to identify predictors of CPC based on clinical variables prior to NAC.\nRESULTS: Among 122 patients 52 (42.6%) achieved CPC. Among 102 patients who reached the L2 landmark, OS was significantly longer in the CPC group than in the non-CPC group (5-year, 42.8% versus 29.8%; log-rank P = 0.022). In multivariable landmark Cox analysis, non-CPC was independently associated with worse OS (HR 2.708; P = 0.008). In multivariable logistic regression, a high CARG score was independently associated with a lower likelihood of CPC (OR 0.204; P = 0.021).\nCONCLUSIONS: CPC was associated with improved OS. The CARG score may help identify patients at risk of failing to complete perioperative chemotherapy.",
+ "authors": [
+  "Iwanaga N",
+  "Takeda Y",
+  "Takahashi A",
+  "Tanaka H",
+  "Irie S",
+  "Ichida H",
+  "Yoshioka R",
+  "Mise Y"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42999014",
+ "importance": 0.69,
+ "key_points_ko": [
+  "수술 전후 항암화학요법을 완수한 군의 5년 생존율은 42.8%로, 완수하지 못한 군의 29.8%보다 유의하게 높았습니다(p=0.022).",
+  "다변량 분석 결과 수술 전후 항암치료를 완수하지 못한 환자는 사망 위험이 약 2.7배 높았습니다(HR 2.708, p=0.008).",
+  "항암 독성 예측 도구인 CARG 점수가 높은 환자는 항암치료를 완전히 마칠 확률이 유의하게 낮았습니다(오즈비 0.204, p=0.021)."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1245/s10434-026-20864-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42999014"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42999014/"
+ },
+ "summary_ko": "수술 가능 및 정맥 침범이 있는 경계성 절제 가능 췌장암 환자 122명을 대상으로 수술 전후 항암화학요법 완수율과 전체 생존기간(OS)의 연관성을 후향적으로 분석했습니다. 전체 환자 중 52명(42.6%)이 수술 전후 항암화학요법을 기준치 이상으로 완수했습니다. 랜드마크 분석 시점을 통과한 102명 중 항암치료를 완수한 군의 5년 생존율은 42.8%로 미완수군(29.8%)에 비해 유의하게 높았습니다. 또한 항암제 독성 예측 도구인 CARG 점수가 높을수록 수술 전후 항암화학요법을 완수하지 못할 가능성이 유의하게 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CARG Score Predicts Perioperative Chemotherapy Completion in Pancreatic Cancer: Association of Completion with Overall Survival",
+ "title_ko": "CARG 점수를 통한 췌장암 수술 전후 항암화학요법 완수 예측 및 완수 여부와 전체 생존기간의 연관성",
+ "trial": null,
+ "type": "paper"
+}

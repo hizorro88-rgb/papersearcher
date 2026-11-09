@@ -5,7 +5,8 @@
   "Neesse A"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "review",
@@ -19,7 +20,11 @@
  ],
  "id": "pmid:42993247",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "췌장 낭성 종양(PCN)은 췌장암(PDAC)의 유일하게 발견 및 모니터링 가능한 전구 병변입니다.",
+  "가장 흔한 PCN은 주관형 및 분지관형으로 나뉘는 췌관내 유두상 점액성 종양(IPMN)입니다.",
+  "자기공명영상(MRI)은 진단의 표준 검사이며 내시경초음파가 보완적 역할을 합니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.1007/s00108-026-02198-y",
@@ -43,11 +48,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42993247/"
  },
- "summary_ko": "Pancreatic cystic neoplasms (PCN) are common incidental findings and represent the only known precursor lesions of pancreatic ductal adenocarcinoma (PDAC) that can be detected and monitored using conventional imaging. The different entities of PCNs vary considerably in terms of their potential for malignant transformation.",
- "summary_source": "excerpt",
+ "summary_ko": "췌장 낭성 종양(PCN, pancreatic cystic neoplasms)은 흔하게 우연히 발견되며 췌장암(PDAC, pancreatic ductal adenocarcinoma)의 유일한 전구 병변입니다. 낭종의 종류에 따라 악성 전환 가능성이 다르며, 점액성 낭종은 전암성이고 장성 PCN은 양성으로 간주됩니다. 자기공명영상(MRI, magnetic resonance imaging)은 진단의 표준 검사이며 내시경초음파(endosonography)가 이를 보완합니다. 교토 가이드라인(Kyoto guideline)은 수술 관리 및 추적 관찰 간격에 대한 권고사항을 제공합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "[What is established in the management of pancreatic cysts?]",
- "title_ko": null,
+ "title_ko": "췌장 낭종 관리에서 확립된 것은 무엇인가?",
  "trial": null,
  "type": "paper"
 }

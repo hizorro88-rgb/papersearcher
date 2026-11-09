@@ -25,7 +25,7 @@ search:
 |---|---|---|---|
 | [수술 가능 췌관선암 환자를 대상으로 하는 daraxonrasib 1상 임상시험](../trials/NCT07898813.md) | 1상 | 모집 예정 | - |
 | [췌장암 환자에서 daraxonrasib(다락소나십) 유발 피부 독성에 대한 ivermectin(이베르멕틴) 병용 표준 예방…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
-| [KRAS G12D 변이 전이성 췌장암 1차 치료에서 zoldonrasib 및 daraxonrasib 병용요법과 젬시타빈 및…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
+| [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib(RMC-9805) + daraxonrasib(RMC…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용요법의 최초 인체 대상 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |

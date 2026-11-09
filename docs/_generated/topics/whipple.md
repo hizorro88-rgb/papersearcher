@@ -30,15 +30,52 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (24)
+## 타임라인 (27)
 
+<a id="pmid-42995288"></a>
+#### [비췌장성 팽대부 주위암에서 로봇 대 개복 췌십이지장절제술의 장기 생존율 비교: 인과 매개 분석](https://pubmed.ncbi.nlm.nih.gov/42995288/)
+<small>Robotic-assisted versus open pancreatoduodenectomy for non-pancreatic periampullary carcinoma: comparison of long-term survival using causal mediation analysis</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-07 · PubMed · J Robot Surg · 중요도 0.77
+
+비췌장성 팽대부 주위암(NPPC) 환자 293명을 대상으로 로봇 췌십이지장절제술(RPD)과 개복 췌십이지장절제술(OPD)의 수술 결과 및 장기 생존율을 비교한 연구입니다. 로봇 수술군은 개복 수술군에 비해 수술 시간은 길었으나 출혈량이 적었고 수술 중 수혈률과 90일 사망률이 유의하게 낮았습니다. 또한 수술 후 3개월 이내에 보조 항암치료를 시작한 비율이 높았으며 전체 생존기간(OS)도 유의하게 개선되었습니다. 연구진은 로봇 수술의 신체적 부담 감소가 조기 보조 항암치료 시행을 원활하게 하여 생존율 향상으로 이어졌다고 보고했습니다.
+
+- 로봇 수술군은 개복군에 비해 출혈량이 적었고(50.0 ml vs 200.0 ml) 90일 사망률도 유의하게 낮았습니다(0.0% vs 3.5%, p=0.030).
+- 수술 후 3개월 이내 보조 항암치료를 받은 비율은 로봇군(55.4%)이 개복군(28.1%)보다 유의하게 높았습니다(p<0.001).
+- 다변량 분석에서 로봇 췌십이지장절제술은 전체 생존기간 향상과 관련된 독립적 보호 요인으로 확인되었습니다(위험비 0.57, 95% 신뢰구간: 0.36-0.89, p=0.014).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995288/) · [DOI](https://doi.org/10.1007/s11701-026-04137-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995288)</small>
+
+---
 <a id="pmid-42993282"></a>
-#### [Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula](https://pubmed.ncbi.nlm.nih.gov/42993282/)
-`논문` `기타` `수술` `진단·조기발견` · 2026-11-06 · PubMed · Surg Endosc · 중요도 0.70
+#### [췌십이지장절제술 후 수술 중 췌장 질환 예측을 위한 수술 전 내시경 초음파(EUS) 변형 탄성 초음파 검사: 임상적으로 유의한 수술 후 췌장루에 대한 탐색적 분석을 포함한 전향적 진단 정확도 연구](https://pubmed.ncbi.nlm.nih.gov/42993282/)
+<small>Preoperative endoscopic ultrasound (EUS) strain elastography for the prediction of intraoperative pancreatic texture after pancreaticoduodenectomy: a prospective diagnostic accuracy study with exploratory analysis of clinically relevant postoperative pancreatic fistula</small>
 
-BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complication of pancreaticoduodenectomy (PD); established risk tools require intraoperative variables. We assessed the diagnostic accuracy of preoperative endoscopic ultrasound (EUS) strain elastography for intraoperative pancreatic texture and, exploratorily, predictors of clinically relevant POPF (CR-POPF).
+`논문` `관찰연구` `진단·조기발견` `수술` · 2026-11-06 · PubMed · Surg Endosc · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42993282/) · [DOI](https://doi.org/10.1007/s00464-026-13401-4) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42993282)</small>
+이 연구는 췌십이지장절제술(PD)을 받는 환자 100명을 대상으로 수술 전 내시경 초음파(EUS) 변형 탄성 초음파(strain elastography)의 진단 정확도를 평가했습니다. EUS 변형률 비(SR) 임계값을 2.5 이하로 설정했을 때, 수술 중 확인된 부드러운 췌장 조직을 예측하는 민감도 87.9%, 특이도 83.3%, 정확도 86.0%를 보였습니다. 또한 EUS 변형률 비는 조직학적 섬유화 등급과 비례하여 증가했습니다. 임상적으로 유의한 수술 후 췌장루(CR-POPF)는 16명(16%)에서 발생했습니다. 결론적으로 수술 전 EUS 탄성 초음파 검사는 수술 중 췌장 조직의 상태를 정확하게 예측할 수 있는 객관적인 대리지표임을 확인했습니다.
+
+- 수술 전 EUS 변형률 비(SR) 2.5 이하 기준은 수술 중 부드러운 췌장 조직 예측에 대해 민감도 87.9%, 특이도 83.3%, 정확도 86.0%를 기록했습니다.
+- EUS 변형률 비는 췌장의 섬유화 등급이 높아짐에 따라 통계적으로 유의하게 상승했습니다.
+- 연구 대상 환자 100명 중 임상적으로 유의한 수술 후 췌장루(CR-POPF)는 16명(16%)에서 발생했습니다.
+- 외부 다기관 검증이 추가로 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42993282/) · [DOI](https://doi.org/10.1007/s00464-026-13401-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42993282)</small>
+
+---
+<a id="pmid-42995375"></a>
+#### [췌장암에서 수술 후 췌장루 발생을 예측하기 위한 가상 자기공명탄성도 및 CTRW 확산 모델 기반 서식지 영상 연구](https://pubmed.ncbi.nlm.nih.gov/42995375/)
+<small>Habitat Imaging with Virtual MR Elastography and CTRW Diffusion Model for Predicting Postoperative Pancreatic Fistula in Pancreatic Cancer</small>
+
+`논문` `관찰연구` `수술` `진단·조기발견` · 2026-11-06 · PubMed · J Imaging Inform Med · 중요도 0.77
+
+본 연구는 췌장십이지장절제술을 받는 췌장암 환자에서 수술 후 임상적으로 유의한 췌장루(CR-POPF) 발생을 수술 전에 예측하기 위해 진행되었습니다. 연구진은 췌장의 경도를 평가하는 가상 자기공명탄성도(vMRE)와 미세구조 이질성을 평가하는 CTRW 확산 MRI를 결합한 서식지(habitat) 분석 모델을 개발했습니다. 전향적으로 등록된 183명의 환자를 분석한 결과, 36명(19.67%)에서 췌장루가 발생했습니다. 두 가지 영상 지표를 통합한 예측 모델은 높은 정확도로 수술 후 췌장루 발생을 예측했습니다.
+
+- 췌장십이지장절제술을 받은 췌장암 의심 환자 183명 중 36명(19.67%)에서 임상적으로 유의한 췌장루(CR-POPF)가 발생했습니다.
+- 가상 탄성도(vMRE)와 확산 모델(CTRW)을 결합한 두 예측 모델의 곡선하면적(AUC)은 각각 0.947(95% CI 0.898-0.987)과 0.897(95% CI 0.832-0.962)로 우수한 예측력을 보였습니다.
+- 조직의 경도와 미세구조 이질성을 결합한 영상 분석법은 수술 전 췌장루 위험 환자를 선별하는 데 유용할 가능성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995375/) · [DOI](https://doi.org/10.1007/s10278-026-02171-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995375)</small>
 
 ---
 <a id="pmid-42982334"></a>
@@ -144,6 +181,15 @@ BACKGROUND: Postoperative pancreatic fistula (POPF) is the most serious complica
 - 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
+
+---
+<a id="pmid-42996581"></a>
+#### [Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42996581/)
+`논문` `무작위` `수술` `치료 전반` `신약·치료제` · 2026-10-23 · PubMed · J Gastrointest Oncol · 중요도 0.85
+
+BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the standard treatment for resectable pancreatic cancer (PC) in Japan. More intensive regimens, such as gemcitabine plus nab-paclitaxel (GnP), are widely used globally.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996581/) · [DOI](https://doi.org/10.21037/jgo-2026-0892) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740548/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996581)</small>
 
 ---
 <a id="pmid-42905299"></a>

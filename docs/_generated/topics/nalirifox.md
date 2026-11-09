@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [진행성 췌장암 1차 치료로서 니모투주맙과 NALIRIFOX 병용요법의 단일군 2상 임상시험](../trials/NCT07920731.md) | 2상 | 초대 모집 | - |
+| [수술 불가 국소진행성 또는 전이성 췌장암 1차 치료로서 nimotuzumab과 NALIRIFOX 병용 투여에 대한 단일군 임…](../trials/NCT07920731.md) | 2상 | 초대 모집 | - |
 | [젬시타빈 기반 치료 실패 후 전이성 췌장암 환자에서 YL201과 표준 화학요법의 효능 및 안전성을 비교하는 임상시험](../trials/NCT07803783.md) | 3상 | 모집 예정 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자를 위한 신보조 요법으로서 HRS-4642 병용 화학요법 (면역요법 병용 또는 비병용)](../trials/NCT07691593.md) | 2상 | 모집 예정 | - |
@@ -49,7 +49,7 @@ search:
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 2차 치료로서 onvansertib과 나노리포조말 이리노테칸, 류코보린, 플루오로우라실 병용요법 임…](../trials/NCT04752696.md) | 2상 | 조기 종료 | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
 <a id="pmid-42951709"></a>
 #### [1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험](https://pubmed.ncbi.nlm.nih.gov/42951709/)
@@ -80,5 +80,20 @@ search:
 - FOLFIRINOX는 3/4등급 혈액학적 독성이 높은 반면, NALIRIFOX는 3/4등급 설사(약 20.3%)와 저칼륨혈증(15.1%)이 더 높았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42827581/) · [DOI](https://doi.org/10.3389/fonc.2026.1902839) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630592/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42827581)</small>
+
+---
+<a id="pmid-42996839"></a>
+#### [리포좀 이리노테칸 기반 치료를 받는 환자의 설사 관리: 기전, 임상적 영향 및 근거 기반 전략](https://pubmed.ncbi.nlm.nih.gov/42996839/)
+<small>Management of diarrhea in patients receiving liposomal irinotecan-based regimens: a narrative review of mechanisms, clinical impact, and evidence-based strategies</small>
+
+`논문` `종설` `지지요법·삶의질` `신약·치료제` `치료 전반` · 2026-09-14 · PubMed · J Gastrointest Oncol · 중요도 0.49
+
+본 고찰 연구는 젬시타빈(gemcitabine) 기반 치료 후 진행된 전이성 췌장관선암(mPDAC)의 2차 표준 치료제인 리포좀 이리노테칸(nal-IRI) 요법 시 발생하는 설사의 기전과 관리 전략을 정리했습니다. nal-IRI 관련 설사는 급성 콜린성 반응과 SN-38에 의한 지연성 장점막 손상이 복합적으로 작용합니다. 주요 췌장암 임상시험에서 3~4등급의 심각한 설사 발생률은 13~20% 수준으로 집계되었습니다. 아트로핀(atropine), 로페라미드(loperamide) 등 근거 기반 약물 치료와 선제적 감량 프로토콜을 적용하여 부작용을 줄이고 치료 효과를 최적화할 수 있습니다.
+
+- 주요 췌장암 임상시험에서 리포좀 이리노테칸(nal-IRI) 투여 시 3~4등급의 중증 설사 발생률은 약 13~20%였습니다.
+- 설사의 지연성 원인은 active metabolite인 SN-38에 의한 장점막 손상 및 장간 순환에 의해 유발됩니다.
+- 아트로핀(atropine), 로페라미드(loperamide), 옥트레오타이드(octreotide) 등 선제적 약물 치료와 UGT1A1*28 유전자형 검사 등의 맞춤형 관리가 강조됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996839/) · [DOI](https://doi.org/10.21037/jgo-2026-0627) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740549/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996839)</small>
 
 ---

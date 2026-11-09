@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND AND AIMS: Cuproptosis is a recently identified copper-dependent form of cell death with potential therapeutic applications. However, its activity in cancer-associated fibroblasts (CAFs) and its association with pancreatic cancer (PC) prognosis remain poorly understood. This study aimed to address this gap.\nMETHODS: We performed integrated analyses of scRNA-seq data from patients with PC (GSE212966) and The Cancer Genome Atlas-pancreatic adenocarcinoma dataset. Based on cuproptosis-related AUCell scores, fibroblasts were stratified into high-score (cuproptosis-high) and low-score (cuproptosis-low) groups. Weighted gene coexpression network analysis (WGCNA) was used to identify modules associated with cuproptosis-related genes (CRGs), followed by random survival forest modeling to screen prognostic genes. Functional assessments included gene set variation analysis, immune infiltration analysis via CIBERSORT, and immunohistochemistry for experimental validation.\nRESULTS: scRNA-seq analysis identified fibroblasts as the principal cell type with elevated cuproptosis activity. By integrating WGCNA with survival analysis, we identified GABBR1 as a key gene whose expression decreased with increase in tumor progression. Fibroblasts expressing higher GABBR1 levels also exhibited increased expression of immune checkpoint genes and T-cell activation markers. A nomogram integrating GABBR1 expression with clinical features showed strong prognostic performance. Immunohistochemical validation confirmed that GABBR1, LIAS, and LIPT1 were expressed at significantly lower levels in tumor tissues than in adjacent normal tissues. Importantly, GABBR1 expression negatively correlated with PC progression and was linked to CRGs (LIAS and LIPT1), emerging as a novel CAF-specific biomarker.\nCONCLUSION: Modulating GABBR1 can reshape cuproptosis pathways, thereby influencing apoptotic sensitivity and modulating immune responses.",
+ "authors": [
+  "Gong J",
+  "Zhang W",
+  "Tang L",
+  "Long Y",
+  "Wang X",
+  "Yang J",
+  "Yang Y",
+  "Montalti R"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42999371",
+ "importance": 0.53,
+ "key_points_ko": [
+  "단일 세포 분석 결과 암 관련 섬유아세포(CAF)가 췌장암 조직 내에서 쿠프로프토시스 활성이 가장 높은 주요 세포 유형으로 확인되었습니다.",
+  "GABBR1, LIAS, LIPT1 유전자의 발현은 인접한 정상 조직에 비해 췌장암 종양 조직에서 현저하게 낮게 나타났습니다.",
+  "GABBR1 발현량이 높은 섬유아세포는 T세포 활성화 마커 및 면역 관문 유전자 발현이 증가되어 있어 환자의 예후 예측 모델에 유용함이 입증되었습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1016/j.iliver.2026.100276",
+  "nct": [],
+  "pmcid": "PMC13743417",
+  "pmid": "42999371"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ILIVER",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42999371/"
+ },
+ "summary_ko": "본 연구는 췌장암(PC)에서 구리 의존성 세포사멸인 쿠프로프토시스(cuproptosis)의 작용과 예후적 가치를 규명하기 위해 진행되었습니다. 단일 세포 유전자 분석과 면역조직화학 검사를 통해 암 관련 섬유아세포(CAF)가 쿠프로프토시스 활성이 가장 높은 세포군임을 확인했습니다. 연구진은 암 진행에 따라 발현이 감소하는 핵심 유전자 GABBR1을 발굴했으며, 이는 췌장암의 예후와 면역 반응을 예측하는 바이오마커로 활용될 수 있음을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Single-cell profiling reveals GABBR1 as a cuproptosis-regulated prognostic biomarker in pancreatic cancer",
+ "title_ko": "단일 세포 프로파일링을 통해 밝힌 췌장암의 쿠프로프토시스 조절 예후 바이오마커 GABBR1",
+ "trial": null,
+ "type": "paper"
+}

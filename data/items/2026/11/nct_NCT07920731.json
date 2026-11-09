@@ -22,11 +22,11 @@
  "id": "nct:NCT07920731",
  "importance": 0.87,
  "key_points_ko": [
-  "수술 불가능한 국소 진행성 또는 전이성 췌장암 환자를 대상으로 1차 치료 효과를 평가하는 2상 연구입니다.",
-  "EGFR 표적항체 니모투주맙과 NALIRIFOX 항암요법을 2주 주기로 질병 진행 전까지 병용 투여합니다.",
-  "주요 평가변수는 무진행 생존기간(PFS)이며, 전체 생존기간 및 안전성도 함께 평가합니다."
+  "목표 환자 수는 42명(초록 기준) 또는 45명(임상등록 정보 기준)이며, 수술 불가 국소진행성 또는 전이성 췌장암 환자를 대상으로 합니다.",
+  "치료 요법은 nimotuzumab(EGFR 표적항암제)과 NALIRIFOX(리포조말 이리노테칸, 옥살리플라틴, 류코보린, 5-FU) 병용 1차 치료입니다.",
+  "주요 평가지표는 무진행 생존기간(PFS)이며, 전체 생존기간, 반응률, 안전성을 함께 추적 관찰합니다."
  ],
- "last_updated": "2026-11-07",
+ "last_updated": "2026-11-09",
  "links": {
   "doi": null,
   "nct": [
@@ -49,17 +49,17 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07920731"
  },
- "summary_ko": "수술이 불가능한 국소 진행성 또는 전이성 췌장암 환자를 대상으로 EGFR 표적항체인 니모투주맙(nimotuzumab)과 표준 항암화학요법인 NALIRIFOX(리포좀 이리노테칸, 옥살리플라틴, 류코보린, 5-FU)를 병용 투여하는 단일군 2상 임상시험입니다. 총 42~45명의 환자를 모집하여 1차 치료로서 2주 간격으로 병용 투여를 진행합니다. 연구의 주된 목적은 환자의 무진행 생존기간(PFS)을 평가하는 것이며, 전체 생존기간(OS), 반응률, 안전성 등도 함께 관찰합니다.",
+ "summary_ko": "본 연구는 수술이 불가능한 국소진행성 또는 전이성 췌장암 환자 42~45명을 대상으로 합니다. 모든 환자는 1차 치료로 표적항암제인 nimotuzumab과 NALIRIFOX 항암화학요법을 병용 투여받습니다. 주요 평가지표는 무진행 생존기간(PFS)이며, 전체 생존기간(OS), 객관적 반응률(ORR), 질병 통제율(DCR), 안전성을 함께 평가합니다. 치료는 암이 진행하거나 부작용이 심해질 때까지 2주마다 진행됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Single-Arm Study of Nimotuzumab Combined With NALIRIFOX as First-Line Treatment for Pancreatic Cancer",
- "title_ko": "진행성 췌장암 1차 치료로서 니모투주맙과 NALIRIFOX 병용요법의 단일군 2상 임상시험",
+ "title_ko": "수술 불가 국소진행성 또는 전이성 췌장암 1차 치료로서 nimotuzumab과 NALIRIFOX 병용 투여에 대한 단일군 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 75세 이하 성인 남녀\n- 조직학적 또는 세포학적으로 확진된 췌관선암\n- 근치적 수술이 불가능한 국소 진행성 또는 전이성 췌장암\n- 췌장암에 대한 이전 전신 항암 치료 경험이 없는 환자 (수술 전후 보조요법 후 6개월 이상 경과하여 재발한 경우는 참여 가능)\n- ECOG 수행능력 평가 점수 0~1점\n- RECIST 1.1 기준 측정 가능한 병변이 1개 이상 존재\n- 적절한 골수 및 주요 장기 기능 수치 보유\n\n제외 기준:\n- 췌장암 이외의 다른 원발 악성종양 병력 (완치된 피부 기저세포암 및 자궁경부 상피내암 제외)\n- 조절되지 않는 심부전(NYHA III/IV), 불안정 협심증, 중증 부정맥 등 중증 심혈관 질환\n- 배액이 필요한 조절되지 않는 흉수, 심낭삼출 또는 복수\n- 위장관 폐색, 최근 1년 이내 위장관 출혈 병력, 활동성 염증성 장질환(크론병, 궤양성 대장염 등)\n- 치료되지 않은 담도 폐색\n- 활동성 B형/C형 간염, HIV 또는 매독 감염\n- 첫 투약 전 4주 이내의 주요 수술 병력",
+  "eligibility_ko": "선정 기준:\n- 18~75세의 남성 또는 여성.\n- 조직학적 및/또는 세포학적으로 확진된 췌관선암(pancreatic adenocarcinoma).\n- 근치적 수술이 불가능한 방사선학적 확진 국소진행성 또는 전이성 췌장암.\n- ECOG 수행능력 0~1.\n- 췌장암에 대한 이전 전신 치료력이 없음(단, 수술 전후 보조항암치료의 경우 마지막 투여 후 6개월 이상 지나고 독성이 회복된 경우 허용).\n- RECIST 1.1 기준에 따른 최소 1개의 측정 가능한 병변.\n- 적절한 장기 및 골수 기능 유지.\n\n제외 기준:\n- 췌장암 외의 다른 원발암 병력.\n- 조절되지 않는 심혈관 질환, 활동성 감염, 조절되지 않는 당뇨, 중증 복수/흉수/심낭 삼출 등 심각한 동반 질환.\n- 연구 약물 투여 전 4주 이내의 대수술 또는 미치유된 수술 상처.\n- 4주 이내의 다른 임상시험 참여 또는 승인된 항종양제 투여 이력.\n- 연구 약물 성분에 대한 알레르기 병력 또는 치료되지 않은 담도 폐쇄.\n- 알려진 HIV, 매복 감염, 활동성 B형 또는 C형 간염.\n- 임신부 또는 수유부.\n- 심각한 위장관 질환 병력.",
   "eligibility_text": "Inclusion Criteria:\n\n* Age 18-75 years, male or female.\n\nHistologically and/or cytologically confirmed pancreatic adenocarcinoma.\n\nRadiologically confirmed locally advanced or metastatic pancreatic cancer that is not amenable to curative surgery (assessed according to NCCN criteria).\n\nECOG performance status 0-1, and the investigator considers the patient able to tolerate the NALIRIFOX regimen.\n\nNo prior systemic therapy for pancreatic cancer (including chemotherapy, targeted therapy, or immunotherapy). Prior neoadjuvant or adjuvant therapy is allowed only if recurrence/progression occurred more than 6 months after the last dose and prior treatment-related toxicity has recovered to Grade ≤1 per CTCAE 5.0 (except alopecia or other toxicity judged by the investigator to have no safety risk).\n\nAt least one measurable lesion per RECIST 1.1. Target lesions must not have received prior radiotherapy or other local therapy; a lesion in a previously irradiated area may be selected as a target lesion if progression has been confirmed and it meets RECIST 1.1 criteria.\n\nAdequate organ and bone marrow function: hemoglobin ≥9.0 g/dL; absolute neutrophil count ≥1.5 × 10\\^9/L; platelet count ≥100 × 10\\^9/L; total bilirubin ≤1.5 × ULN (≤3 × ULN if liver metastasis); AST and ALT ≤2.5 × ULN (≤5 × ULN if liver metastasis); serum creatinine ≤1.5 × ULN or creatinine clearance ≥60 mL/min (Cockcroft-Gault formula).\n\nLife expectancy of at least 3 months.\n\nWomen of childbearing potential must agree to use medically accepted contraception during the study.\n\nGood compliance and willingness to sign the informed consent form.\n\nExclusion Criteria:\n\nOther primary malignancies besides pancreatic cancer (except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix).\n\nOther severe diseases, including but not limited to: uncontrolled congestive heart failure (NYHA class III or IV), unstable angina, poorly controlled arrhythmia, uncontrolled hypertension (SBP \\>160 mmHg or DBP \\>100 mmHg); active infection; poorly controlled diabetes (fasting blood glucose persistently \\>9.0 mmol/L or HbA1c \\>7.5% despite glucose-lowering treatment); uncontrolled pleural effusion, pericardial effusion, or ascites requiring drainage; severe portal hypertension (e.g., esophageal or gastric varices with a history of bleeding) or portal cavernoma on imaging; gastrointestinal obstruction (including gastric outlet or duodenal obstruction requiring decompression or stenting); respiratory insufficiency (requiring oxygen at rest or arterial oxygen partial pressure \\<60 mmHg).\n\nMajor surgery within 4 weeks before first dose of study drug (except puncture biopsy), or unhealed, infected, or dehisced surgical wound.\n\nParticipation in any clinical trial or receipt of any approved antitumor drug within 4 weeks before screening.\n\nHistory of allergy to the study drugs, similar structural compounds, or their components.\n\nUntreated biliary obstruction.\n\nKnown HIV or syphilis infection, or current active hepatitis B or C. Active hepatitis B is defined as HBsAg positive with HBV DNA \\>1000 copies/mL; active hepatitis C is defined as anti-HCV positive with HCV RNA \\>1000 copies/mL.\n\nPregnant or lactating women.\n\nHistory of severe gastrointestinal disease, such as gastrointestinal bleeding within the past year (e.g., gastric ulcer bleeding or esophageal variceal bleeding), active ulcerative colitis, or Crohn's disease (irinotecan may induce diarrhea, and such underlying diseases may increase toxicity).\n\nOther conditions judged by the investigator as unsuitable for this study (e.g., severe malnutrition, psychiatric illness preventing follow-up cooperation, or planned receipt of other antitumor therapy during the study).",
   "enrollment": 45,
   "has_results": false,
@@ -76,17 +76,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "췌장암 외의 다른 활동성 암 병력",
-    "중증 심부전 등 조절되지 않는 심혈관 질환",
-    "배액이 필요한 복수 또는 흉수",
-    "최근 1년 이내의 위장관 출혈 또는 장폐색",
-    "치료되지 않은 담도 폐색",
-    "활동성 B형·C형 간염 또는 HIV 감염"
+    "췌장암 외 다른 암 병력",
+    "조절되지 않는 심혈관 질환 또는 고혈압",
+    "활동성 감염 또는 바이러스성 간염",
+    "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 항암치료 경험이 없는 수술 불가능한 국소 진행성 또는 전이성 췌장암 1차 치료 대상 환자",
+   "notes_ko": "이전 치료력이 없는 수술 불가 국소진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,64 @@
+{
+ "abstract": "The preoperative prediction of clinically relevant postoperative pancreatic fistula (CR-POPF) is crucial for the implementation of efficient prevention strategies in pancreatic ductal adenocarcinoma (PDAC). Our study aimed to explore the value of habitat imaging employing virtual magnetic resonance elastography (vMRE) and continuous-time random-walk (CTRW) diffusion MRI for preoperatively predicting CR-POPF in PDAC after pancreaticoduodenectomy. vMRE reflected pancreatic stiffness, whereas CTRW-derived parameters characterized non-Gaussian water diffusion and microstructural heterogeneity. Their voxel-wise integration could identify imaging-defined phenotype reflecting complementary tissue properties. Patients with suspected PDAC who underwent pancreatic MRI were prospectively collected. Multiple-b-value diffusion-weighted imaging sequence was acquired and fitted to CTRW model. The diffusion-based tissue shear modulus (μdiff) was calculated by calibrating the shifted apparent diffusion coefficient (sADC) with standard MR elastography (MRE). The presumed pancreatic stump was segmented into various subregions by habitat analysis employing two combinations of vMRE and CTRW parameter maps. Multivariate logistic regression was used to identify the independent factors and construct the prediction models. The predictive performance was evaluated using receiver operating characteristic curve and validated using bootstrap method. A total of 183 patients were finally included, and 36 patients (19.67%) developed CR-POPF. The optimism-corrected area under the curve (AUC) of two combined models was 0.947 (95% CI, 0.898-0.987) and 0.897 (95% CI, 0.832-0.962) respectively, through bootstrap validation. Habitat analysis using vMRE and CTRW diffusion model provided complementary characterization of stiffness and diffusion heterogeneity, and exhibited great potential for the preoperative prediction of CR-POPF in PDAC after pancreaticoduodenectomy.",
+ "authors": [
+  "Zhu Y",
+  "Cai W",
+  "Li D",
+  "Jiang Y",
+  "Song Y",
+  "Yi Y",
+  "Ma X",
+  "Zhao X"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42995375",
+ "importance": 0.77,
+ "key_points_ko": [
+  "췌장십이지장절제술을 받은 췌장암 의심 환자 183명 중 36명(19.67%)에서 임상적으로 유의한 췌장루(CR-POPF)가 발생했습니다.",
+  "가상 탄성도(vMRE)와 확산 모델(CTRW)을 결합한 두 예측 모델의 곡선하면적(AUC)은 각각 0.947(95% CI 0.898-0.987)과 0.897(95% CI 0.832-0.962)로 우수한 예측력을 보였습니다.",
+  "조직의 경도와 미세구조 이질성을 결합한 영상 분석법은 수술 전 췌장루 위험 환자를 선별하는 데 유용할 가능성을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1007/s10278-026-02171-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42995375"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Imaging Inform Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995375/"
+ },
+ "summary_ko": "본 연구는 췌장십이지장절제술을 받는 췌장암 환자에서 수술 후 임상적으로 유의한 췌장루(CR-POPF) 발생을 수술 전에 예측하기 위해 진행되었습니다. 연구진은 췌장의 경도를 평가하는 가상 자기공명탄성도(vMRE)와 미세구조 이질성을 평가하는 CTRW 확산 MRI를 결합한 서식지(habitat) 분석 모델을 개발했습니다. 전향적으로 등록된 183명의 환자를 분석한 결과, 36명(19.67%)에서 췌장루가 발생했습니다. 두 가지 영상 지표를 통합한 예측 모델은 높은 정확도로 수술 후 췌장루 발생을 예측했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Habitat Imaging with Virtual MR Elastography and CTRW Diffusion Model for Predicting Postoperative Pancreatic Fistula in Pancreatic Cancer",
+ "title_ko": "췌장암에서 수술 후 췌장루 발생을 예측하기 위한 가상 자기공명탄성도 및 CTRW 확산 모델 기반 서식지 영상 연구",
+ "trial": null,
+ "type": "paper"
+}

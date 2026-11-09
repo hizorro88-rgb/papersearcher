@@ -1,0 +1,54 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has dismal outcomes and is shaped by a fibroblast-rich tumor microenvironment (TME). A cell type-resolved, module-level understanding of cancer-associated fibroblasts (CAFs) and their therapeutic relevance remains incompletely characterized.\nMETHODS: We integrated single-cell RNA-seq data from six treatment-naïve PDAC resection specimens in GSE212966; individual tumor-stage information was not available in the public metadata. Standardized preprocessing, clustering, and major-cell-type annotation were performed. Contact-mediated intercellular signaling toward fibroblasts was profiled. High-dimensional weighted gene co-expression network analysis (hdWGCNA) was applied to fibroblasts to identify co-expression modules and hub genes. Associations with overall survival were assessed by univariate Cox models and Kaplan-Meier analysis; immune infiltration was evaluated with CIBERSORT and ESTIMATE; pathway associations were examined by gene set enrichment analysis (GSEA). Candidate compounds were screened via Enrichr/DSigDB and docked to target proteins using a PyMOL-Chem3D-AutoDockTools workflow. SEMA3C was further examined in PDAC cell lines by siRNA-mediated knockdown followed by qRT-PCR, CCK-8, wound-healing, and Transwell invasion assays.\nRESULTS: We resolved 10 cell subpopulations and observed broad contact signals to fibroblasts, including the CD99-CD99 axis. hdWGCNA delineated fibroblast modules, from which four key modules were prioritized. Five genes-SEMA3C, PMP22, CPE, SNX9, and UACA-were significantly associated with overall survival. These biomarkers showed both positive and negative associations with specific immune-cell fractions but were positively correlated with the StromalScore, ImmuneScore, and ESTIMATEScore. High-expression groups were enriched for cancer-relevant programs such as epithelial-mesenchymal transition, inflammatory response, and TNFα-NF-κB signaling, whereas several proliferative and metabolic pathways were enriched in the CPE-low group. In vitro, siRNA-mediated SEMA3C knockdown in PANC-1 and Capan-2 cells reduced cell viability, wound closure, and invasion, supporting a cell-intrinsic protumorigenic role of SEMA3C in PDAC cells. Coumestrol emerged as a computationally prioritized compound, and molecular docking predicted a potentially favorable interaction with SNX9 (predicted binding energy -7.5 kcal/mol); this association requires experimental validation.\nCONCLUSION: An integrative single-cell and network framework identified fibroblast-related co-expression modules and five survival-associated genes in PDAC. The prognostic relevance of these genes and the predicted coumestrol-SNX9 association require further independent and experimental validation.",
+ "authors": [
+  "Ji T",
+  "Wu H",
+  "Zheng Z",
+  "Ma K"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42997265",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1155/humu/7172433",
+  "nct": [],
+  "pmcid": "PMC13741292",
+  "pmid": "42997265"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hum Mutat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42997265/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has dismal outcomes and is shaped by a fibroblast-rich tumor microenvironment (TME). A cell type-resolved, module-level understanding of cancer-associated fibroblasts (CAFs) and their therapeutic relevance remains incompletely characterized.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Single-Cell RNA Sequencing-Integrated Fibroblast Markers and Candidate Drug-Target Associations in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

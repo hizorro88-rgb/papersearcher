@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Patients with complex pancreatic cancer, including those with challenging local vascular anatomy, liver oligometastases, obstructive jaundice, gastrointestinal bleeding, or severe pain, often fall into a guideline grey zone not fully addressed by conventional stage- or resectability-based algorithms. We characterized how a multidisciplinary team (MDT)-guided surgical-window framework was implemented and the downstream clinical course following the resulting treatment decisions.\nMETHODS: We retrospectively reviewed 37 patients with complex pancreatic cancer discussed by the MDT at a tertiary academic center (Department of Hepatobiliary Surgery, Peking University People's Hospital, Beijing, China) between November 2017 and November 2020 and followed through November 30, 2022. Patients were characterized according to the realized MDT-guided pathway: a surgery-inclusive surgical-window pathway (n=20) or a non-surgical-window pathway (n=17). The analysis focused on pathway realization, disease-control patterns, functional and symptom status, and exploratory descriptive overall survival (OS), with progression-free survival (PFS) retained as a secondary descriptive time-to-event outcome. Because pathway assignment was clinically selected and incorporated evolving post-baseline information, clinical outcomes were summarized descriptively without formal between-pathway hypothesis testing.\nRESULTS: Nine of 37 index MDT decisions (24.3%) involved a surgery-inclusive strategy outside standard guideline-supported surgical indications, all in highly selected patients with stage IV low-burden metastatic disease. Functional status was summarized both as composite survival-functional states and among survivors at each assessment time point, with all between-pathway differences interpreted descriptively.\nCONCLUSIONS: In this single-center retrospective cohort, the MDT-defined surgical-window framework provided a structured way to integrate anatomy, metastatic burden, symptoms, treatment tolerance, and feasibility of subsequent care into individualized treatment decisions. The observed downstream disease-control, functional, symptom, and survival patterns are hypothesis-generating and do not establish a causal benefit of surgery or of MDT itself. Prospective studies with baseline-defined decisions are needed to validate the clinical usefulness of this framework.",
+ "authors": [
+  "Li X",
+  "Ma D",
+  "Ma T",
+  "Wu S",
+  "Zhu J",
+  "Li T",
+  "Gao J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996876",
+ "importance": 0.61,
+ "key_points_ko": [
+  "복잡한 병태를 지닌 췌장암 환자 37명 중 20명은 수술을 포함한 경로로, 17명은 비수술 경로로 치료 방침이 결정되었습니다.",
+  "표준 가이드라인을 벗어난 수술 포함 결정은 전체의 24.3%(9건)였으며, 모두 종양 부담이 낮은 4기 환자에서 신중하게 선택되었습니다.",
+  "본 연구는 후향적 분석으로 수술이나 다학제 논의 자체의 생존 이득을 직접적으로 입증하지는 않았습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/jgo-2026-0759",
+  "nct": [],
+  "pmcid": "PMC13740579",
+  "pmid": "42996876"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-29",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996876/"
+ },
+ "summary_ko": "까다로운 혈관 침범, 간 소수전이(oligometastases), 심한 증상 등을 동반하여 표준 지침의 경계선에 있는 복잡한 췌장암 환자 37명을 대상으로 다학제팀(MDT) 논의를 통한 치료 경로를 후향적으로 분석했습니다. 환자들은 MDT 결정에 따라 수술을 포함한 수술 기회 경로 20명과 비수술 경로 17명으로 분류되어 경과를 추적 관찰받았습니다. 초기 MDT 결정 중 9건(24.3%)은 표준 지침을 벗어나 수술을 포함하는 전략이었으며, 이는 모두 종양 부담이 적은 4기 환자 중 매우 선별된 환자에서 적용되었습니다. 연구진은 이 결과가 수술의 인과적 이득을 입증한 것은 아니며 향후 전향적 검증이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development and preliminary clinical characterization of an MDT-defined surgical-window framework for complex pancreatic cancer: a retrospective cohort study",
+ "title_ko": "복잡한 췌장암에서 다학제팀 기반 수술 기회 프레임워크의 개발 및 예비 임상 특성: 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

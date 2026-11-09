@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Tertiary lymphoid structures (TLS) are emerging prognostic biomarkers in pancreatic ductal adenocarcinoma (PDAC), yet no reliable non-invasive tool exists for their preoperative assessment. This study aimed to develop and validate a contrast-enhanced computed tomography (CECT)-based habitat radiomics model for preoperative prediction of intratumoral TLS status in PDAC.\nMETHODS: In this retrospective study, 204 surgically resected PDAC patients were enrolled and allocated into training (n=142) and validation (n=62) cohorts. TLS status was determined by fluorescent multiplex immunohistochemistry (mIHC), with positive cases subclassified as primary or secondary follicle-like TLS. K-means clustering partitioned the tumor volume of interest (VOI) into spatially distinct subregions; radiomics features were extracted from each subregion and selected via least absolute shrinkage and selection operator (LASSO) regression. Five machine learning classifiers were evaluated. Independent clinical predictors were identified by multivariate logistic regression (LR) and integrated with the optimal imaging model to construct a combined model.\nRESULTS: TLS positivity was observed in 32.84% of patients. The LR-based habitat model achieved area under the curve (AUC) of 0.939 and 0.873 in the training and validation cohorts, substantially outperforming the conventional radiomics model (AUCs: 0.815 and 0.701). Tumor differentiation and neural invasion were identified as independent clinical predictors. The combined model yielded the highest AUCs of 0.956 and 0.881, with favorable calibration and superior net clinical benefit on decision curve analysis (DCA).\nCONCLUSIONS: CECT-based habitat radiomics enables robust, non-invasive preoperative prediction of intratumoral TLS in PDAC, offering a practical tool for individualized risk stratification and treatment planning; incorporation of clinical variables yielded numerically higher AUCs but without statistically significant improvement.",
+ "authors": [
+  "Li K",
+  "Guo R",
+  "Wang X",
+  "Li L",
+  "Yu F",
+  "Li Z",
+  "Yang T",
+  "Chen J"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42996878",
+ "importance": 0.67,
+ "key_points_ko": [
+  "수술을 시행한 췌장암 환자 204명 중 32.84%에서 3차 림프구 구조(TLS) 양성이 관찰되었습니다.",
+  "서식지 라디오믹스 모델의 예측 정확도(AUC)는 훈련군 0.939, 검증군 0.873으로 기존 라디오믹스 모델(훈련군 0.815, 검증군 0.701)보다 현저히 높았습니다.",
+  "종양 분화도와 신경 침습을 결합한 통합 모델은 검증군에서 최고 수준인 AUC 0.881을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.21037/gs-2026-0439",
+  "nct": [],
+  "pmcid": "PMC13740592",
+  "pmid": "42996878"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gland Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996878/"
+ },
+ "summary_ko": "본 연구는 췌장암(PDAC)의 예후 예측 바이오마커로 주목받는 3차 림프구 구조(TLS)를 수술 전에 비침습적으로 예측하기 위해 조영증강 CT(CECT) 기반의 서식지(habitat) 라디오믹스 모델을 개발하고 검증했습니다. 수술을 받은 췌장암 환자 204명을 훈련군(142명)과 검증군(62명)으로 나누어 종양 내부의 공간적 아구역을 분석했습니다. 연구 결과 전체 환자의 32.84%에서 TLS 양성이 확인되었으며, 서식지 라디오믹스 모델은 검증군에서 0.873의 곡선하면적(AUC)을 기록하여 기존 일반 라디오믹스 모델(0.701)보다 우수한 예측 성능을 보였습니다. 종양 분화도와 신경 침습 등 임상적 인자를 결합한 통합 모델은 검증군에서 가장 높은 AUC(0.881)를 달성하여 환자 맞춤형 위험 분류 및 치료 계획 수립의 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Habitat radiomics combined with clinical features for predicting tertiary lymphoid structure status in pancreatic ductal adenocarcinoma: development and validation of a preoperative CECT-based model",
+ "title_ko": "췌관선암에서 3차 림프구 구조 상태 예측을 위한 서식지 라디오믹스와 임상적 특징 결합: 수술 전 조영증강 CT 기반 모델의 개발 및 검증",
+ "trial": null,
+ "type": "paper"
+}

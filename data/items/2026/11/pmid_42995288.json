@@ -1,0 +1,65 @@
+{
+ "abstract": "The clinical merits of robotic-assisted pancreatoduodenectomy (RPD) relative to open pancreatoduodenectomy (OPD) remain poorly defined among patients with non-pancreatic periampullary cancer (NPPC). This retrospective single-center cohort enrolled 293 NPPC patients (104 RPD, 189 OPD) treated between January 2017 and December 2025 at our institution. Baseline inter‑group imbalances were mitigated via inverse probability of treatment weighting (IPTW). Cox regression analyses, both univariate and multivariate, along with causal mediation analyses, were performed to evaluate perioperative metrics and long-term survival. After weighting, RPD was associated with prolonged operative duration (440.0 [390.0, 510.0] min vs. 330.0 [280.0, 385.0] min, p < 0.001) but yielded less intraoperative blood loss (50.0 [45.7, 98.0] ml vs. 200.0 [150.0, 400.0] ml, p < 0.001) and lower intraoperative transfusion rate (0% vs. 5.0%, p = 0.023), alongside marginally lower major complication rates (26.0% vs. 36.5%, p = 0.097), a lower 90-day mortality (0.0% vs. 3.5%, p = 0.030) and a greater percentage of patients receiving adjuvant chemotherapy within 3 months postoperatively (55.4% vs. 28.1%, p < 0.001). Multivariate Cox analysis identified RPD as a protective factor for overall survival (HR = 0.57, 95% CI: 0.36-0.89, p = 0.014). Mediation analysis further revealed that part of RPD's survival advantage was indirectly driven by increased uptake of early adjuvant chemotherapy. In conclusion, RPD offers equivalent perioperative safety to OPD while minimizing surgical trauma, facilitating timely systemic therapy and conferring partial survival benefits mediated by early postoperative chemotherapy for NPPC patients.",
+ "authors": [
+  "Zhong YQ",
+  "Liu ZL",
+  "Huang XT",
+  "Huang CS",
+  "Li B",
+  "Chen W",
+  "Lai JM",
+  "Liang LJ"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42995288",
+ "importance": 0.77,
+ "key_points_ko": [
+  "로봇 수술군은 개복군에 비해 출혈량이 적었고(50.0 ml vs 200.0 ml) 90일 사망률도 유의하게 낮았습니다(0.0% vs 3.5%, p=0.030).",
+  "수술 후 3개월 이내 보조 항암치료를 받은 비율은 로봇군(55.4%)이 개복군(28.1%)보다 유의하게 높았습니다(p<0.001).",
+  "다변량 분석에서 로봇 췌십이지장절제술은 전체 생존기간 향상과 관련된 독립적 보호 요인으로 확인되었습니다(위험비 0.57, 95% 신뢰구간: 0.36-0.89, p=0.014)."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1007/s11701-026-04137-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42995288"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Comparative Study"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Robot Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995288/"
+ },
+ "summary_ko": "비췌장성 팽대부 주위암(NPPC) 환자 293명을 대상으로 로봇 췌십이지장절제술(RPD)과 개복 췌십이지장절제술(OPD)의 수술 결과 및 장기 생존율을 비교한 연구입니다. 로봇 수술군은 개복 수술군에 비해 수술 시간은 길었으나 출혈량이 적었고 수술 중 수혈률과 90일 사망률이 유의하게 낮았습니다. 또한 수술 후 3개월 이내에 보조 항암치료를 시작한 비율이 높았으며 전체 생존기간(OS)도 유의하게 개선되었습니다. 연구진은 로봇 수술의 신체적 부담 감소가 조기 보조 항암치료 시행을 원활하게 하여 생존율 향상으로 이어졌다고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Robotic-assisted versus open pancreatoduodenectomy for non-pancreatic periampullary carcinoma: comparison of long-term survival using causal mediation analysis",
+ "title_ko": "비췌장성 팽대부 주위암에서 로봇 대 개복 췌십이지장절제술의 장기 생존율 비교: 인과 매개 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,56 @@
+{
+ "abstract": "Gemcitabine (GEM) resistance poses a significant challenge to the survival of patients with pancreatic cancer. A key mechanism underlying this resistance is the aberrant activation of the pentose phosphate pathway (PPP), which leads to increased levels of deoxycytidine triphosphate (dCTP) and competitively inhibits the incorporation of gemcitabine into DNA. However, the upstream regulator of PPP hyperactivation in GEM-resistant pancreatic cancer remains unclear. Here, we reported that SP1-CD44 signaling modulated gemcitabine sensitivity and PPP-associated metabolic parameters in pancreatic cancer. Mechanistically, knockdown of SP1 reduced G6PDH activity and decreased the levels of NADPH and G6P, whereas overexpression of CD44 resulted in the opposite effects. Functionally, inhibition of this axis increased the sensitivity of pancreatic cancer cells to GEM. Given its therapeutic potential, we sought to identify candidate SP1-targeting compounds with the potential to enhance gemcitabine sensitivity. A small-scale screen of known SP1 inhibitors revealed mithramycin A (MIT) to be effective, but its significant toxicity is well documented. To identify safer alternatives, we screened anti‑pancreatic cancer natural products in the natural product library of our laboratory, guided by computer-aided drug discovery. Molecular docking and molecular dynamics simulations suggested that arenobufagin (ABA) and bufalin (BA) may bind to SP1. In summary, our findings support a role for the SP1-CD44 axis in gemcitabine resistance and suggest that enhanced PPP-associated metabolic activity may contribute to this phenotype. Furthermore, we identified ABA and BA as candidate compounds that increase gemcitabine-associated apoptosis in pancreatic cancer cells, warranting further investigation of their potential as SP1-targeting agents.",
+ "authors": [
+  "Xu G",
+  "Deng T",
+  "Abd El-Aty AM",
+  "Jiang S",
+  "Deng M",
+  "Zhang W",
+  "Gong P"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42998852",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1016/j.bcp.2026.118602",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "42998852"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998852/"
+ },
+ "summary_ko": "Gemcitabine (GEM) resistance poses a significant challenge to the survival of patients with pancreatic cancer. A key mechanism underlying this resistance is the aberrant activation of the pentose phosphate pathway (PPP), which leads to increased levels of deoxycytidine triphosphate (dCTP) and competitively inhibits the incorporation of gemcitabine into DNA.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "SP1-CD44 signaling modulates PPP-associated metabolism and gemcitabine sensitivity in pancreatic cancer cells",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

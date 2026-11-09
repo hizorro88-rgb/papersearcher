@@ -16,44 +16,117 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 163건 · 최근 30일 132건
+전체 168건 · 최근 30일 130건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
-<a id="nct-nct05723107"></a>
-#### [췌관선암 치료를 위한 내시경 초음파 유도하 고주파 절제술(EUS-RFA)](https://clinicaltrials.gov/study/NCT05723107)
-<small>EUS RFA for Treatment of Pancreatic Ductal Adenocarcinoma (PDAC)</small>
-
-`임상시험` `1상` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2023-02-10 · ClinicalTrials.gov · NYU Langone Health · 중요도 0.81
-
-**NCT05723107** · 1상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05723107.md)
-
-본 임상시험은 수술이 불가능한 국소 진행성 췌관선암(PDAC) 환자를 대상으로 항암화학요법과 내시경 초음파 유도하 고주파 절제술(EUS-RFA) 병행의 내인성 및 안전성을 평가하기 위한 단일군 1상 연구입니다. 1차 치료에 반응하지 않거나 진행된 전이 없는 환자를 대상으로 하며, 목표 인원은 6명입니다. 현재 이 임상시험은 종료(TERMINATED) 상태입니다.
-
-- 대상 질환은 1차 치료에 실패한 수술 불가능 및 비전이성 췌관선암(PDAC)입니다.
-- 중재 방법으로 항암화학요법(Chemotherapy)과 내시경 초음파 유도하 고주파 절제술(EUS-RFA)을 병행합니다.
-- 목표 등록 환자 수는 총 6명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05723107) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05723107)</small>
-
----
 <a id="nct-nct05969860"></a>
-#### [진행성 암 환자를 위한 재택 항암 치료 대 병원 내 치료 비교 연구](https://clinicaltrials.gov/study/NCT05969860)
+#### [진행성 암 환자를 위한 재택 항암 치료 대 병원 내 치료 비교 임상시험](https://clinicaltrials.gov/study/NCT05969860)
 <small>At-Home Cancer Directed Therapy Versus in Clinic for the Treatment of Patients With Advanced Cancer</small>
 
 `임상시험` `2상` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2023-08-01 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.80
 
 **NCT05969860** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05969860.md)
 
-이 임상시험은 진행성 암 환자를 대상으로 집에서 받는 항암 치료와 병원 방문 치료의 효과와 안전성을 비교합니다. 환자들은 기존 표준 치료(Standard of Care, SOC)를 집 또는 병원에서 받도록 무작위 배정되며 삶의 질, 만족도, 안전성을 평가받습니다. 원격 모니터링과 가정 간호 서비스를 통해 재택 치료의 타당성을 검증합니다.
+이 임상시험은 진행성 암 환자를 대상으로 집에서 받는 항암 치료와 병원(외래 수액실)에서 받는 표준 치료의 효과를 비교합니다. 환자들은 1주기의 표준 치료를 병원에서 받은 후 집에서 치료를 계속 받거나 병원에서 치료를 유지한 뒤 집으로 전환하는 군으로 무작위 배정됩니다. 연구의 주요 목적은 환자가 체감하는 접근성과 원격 전문 의료 서비스(CARE) 만족도, 삶의 질, 안전성 등을 평가하는 것입니다. 췌장암(췌관선암, Pancreatic adenocarcinoma)을 포함한 다양한 진행성 고형암 및 혈액암 환자가 참여할 수 있습니다.
 
-- 총 220명의 진행성 암 환자를 대상으로 하는 2상 임상시험입니다.
-- 재택 치료군과 병원 치료군의 8주 차 환자 보고 결과(CARE, 삶의 질 등)를 비교합니다.
-- 24주 동안 가정 내 정맥/피부주사 치료의 안전성과 부작용(CTCAE v5.0 기준 등)을 평가합니다.
+- 목표 인원은 220명입니다.
+- 집에서 원격 모니터링과 지원을 받으며 정맥주사(IV) 및 피하주사(SQ) 약물 치료를 진행합니다.
+- 주요 평가 항목은 8주 후 환자 보고 접근성 및 원격 전문 의료 서비스(CARE) 평가, 환자 선호도, 삶의 질, 이상반응 발생률 등입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05969860) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05969860)</small>
+
+---
+<a id="pmid-42999014"></a>
+#### [CARG 점수를 통한 췌장암 수술 전후 항암화학요법 완수 예측 및 완수 여부와 전체 생존기간의 연관성](https://pubmed.ncbi.nlm.nih.gov/42999014/)
+<small>CARG Score Predicts Perioperative Chemotherapy Completion in Pancreatic Cancer: Association of Completion with Overall Survival</small>
+
+`논문` `관찰연구` `치료 전반` `수술` `지지요법·삶의질` · 2026-11-07 · PubMed · Ann Surg Oncol · 중요도 0.69
+
+수술 가능 및 정맥 침범이 있는 경계성 절제 가능 췌장암 환자 122명을 대상으로 수술 전후 항암화학요법 완수율과 전체 생존기간(OS)의 연관성을 후향적으로 분석했습니다. 전체 환자 중 52명(42.6%)이 수술 전후 항암화학요법을 기준치 이상으로 완수했습니다. 랜드마크 분석 시점을 통과한 102명 중 항암치료를 완수한 군의 5년 생존율은 42.8%로 미완수군(29.8%)에 비해 유의하게 높았습니다. 또한 항암제 독성 예측 도구인 CARG 점수가 높을수록 수술 전후 항암화학요법을 완수하지 못할 가능성이 유의하게 높았습니다.
+
+- 수술 전후 항암화학요법을 완수한 군의 5년 생존율은 42.8%로, 완수하지 못한 군의 29.8%보다 유의하게 높았습니다(p=0.022).
+- 다변량 분석 결과 수술 전후 항암치료를 완수하지 못한 환자는 사망 위험이 약 2.7배 높았습니다(HR 2.708, p=0.008).
+- 항암 독성 예측 도구인 CARG 점수가 높은 환자는 항암치료를 완전히 마칠 확률이 유의하게 낮았습니다(오즈비 0.204, p=0.021).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42999014/) · [DOI](https://doi.org/10.1245/s10434-026-20864-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42999014)</small>
+
+---
+<a id="pmid-42996841"></a>
+#### [중증 췌장암 환자에서 백혈구 대 헤모글로빈 비율과 원내 사망률의 연관성: MIMIC-IV 및 eICU-CRD 기반 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42996841/)
+<small>Association between white blood cell-to-hemoglobin ratio and in-hospital mortality among critically ill patients with pancreatic cancer: a retrospective cohort study based on MIMIC-IV and eICU-CRD</small>
+
+`논문` `관찰연구` `진단·조기발견` `지지요법·삶의질` · 2026-09-30 · PubMed · J Gastrointest Oncol · 중요도 0.65
+
+중환자실(ICU)에 입원한 중증 췌장암 환자를 대상으로 백혈구 대 헤모글로빈 비율(WHR)과 병원 내 사망률 간의 연관성을 평가한 후향적 연구입니다. 대규모 중환자 데이터베이스(MIMIC-IV 및 eICU-CRD)에서 추출한 638명의 환자를 분석했습니다. 입원 초기 측정한 WHR이 1.7 이상으로 높은 환자는 원내 사망 위험이 유의하게 높았습니다. 다만 기존 임상 변수에 WHR을 추가했을 때의 예측력 향상은 제한적이었습니다.
+
+- 총 638명의 중증 췌장암 환자 중 53명(8.3%)이 병원 내에서 사망했습니다.
+- WHR 1.7 이상인 환자는 다른 요인을 보정한 후에도 원내 사망 위험이 2.75배 유의하게 높았습니다(OR 2.75, 95% CI 1.39-5.42, P=0.004).
+- 기존 임상 예측 모델에 WHR을 추가했을 때 곡선하면적(AUC)은 0.786에서 0.796으로 소폭 증가했으나 통계적으로 유의미한 차이는 아니었습니다(P=0.49).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996841/) · [DOI](https://doi.org/10.21037/jgo-2026-0639) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740547/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996841)</small>
+
+---
+<a id="pmid-42996876"></a>
+#### [복잡한 췌장암에서 다학제팀 기반 수술 기회 프레임워크의 개발 및 예비 임상 특성: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42996876/)
+<small>Development and preliminary clinical characterization of an MDT-defined surgical-window framework for complex pancreatic cancer: a retrospective cohort study</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-09-29 · PubMed · J Gastrointest Oncol · 중요도 0.61
+
+까다로운 혈관 침범, 간 소수전이(oligometastases), 심한 증상 등을 동반하여 표준 지침의 경계선에 있는 복잡한 췌장암 환자 37명을 대상으로 다학제팀(MDT) 논의를 통한 치료 경로를 후향적으로 분석했습니다. 환자들은 MDT 결정에 따라 수술을 포함한 수술 기회 경로 20명과 비수술 경로 17명으로 분류되어 경과를 추적 관찰받았습니다. 초기 MDT 결정 중 9건(24.3%)은 표준 지침을 벗어나 수술을 포함하는 전략이었으며, 이는 모두 종양 부담이 적은 4기 환자 중 매우 선별된 환자에서 적용되었습니다. 연구진은 이 결과가 수술의 인과적 이득을 입증한 것은 아니며 향후 전향적 검증이 필요하다고 결론지었습니다.
+
+- 복잡한 병태를 지닌 췌장암 환자 37명 중 20명은 수술을 포함한 경로로, 17명은 비수술 경로로 치료 방침이 결정되었습니다.
+- 표준 가이드라인을 벗어난 수술 포함 결정은 전체의 24.3%(9건)였으며, 모두 종양 부담이 낮은 4기 환자에서 신중하게 선택되었습니다.
+- 본 연구는 후향적 분석으로 수술이나 다학제 논의 자체의 생존 이득을 직접적으로 입증하지는 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996876/) · [DOI](https://doi.org/10.21037/jgo-2026-0759) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740579/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996876)</small>
+
+---
+<a id="pmid-42998802"></a>
+#### [아토바쿠온(atovaquone)의 AMPK 조절을 통한 췌장암 근육 소모 억제 효과](https://pubmed.ncbi.nlm.nih.gov/42998802/)
+<small>Atovaquone impedes muscle wasting in pancreatic cancer by AMPK modulation</small>
+
+`논문` `전임상` `지지요법·삶의질` `기초연구` `신약·치료제` `치료 전반` · 2026-11-07 · PubMed · Cancer Lett · 중요도 0.60
+
+췌장암 환자의 80% 이상에서 전신 염증과 골격근 및 지방 소모를 특징으로 하는 암 악액질(cachexia)이 발생하지만 승인된 치료제가 부족한 상황입니다. 본 연구는 항말라리아제로 사용되는 아토바쿠온(atovaquone)이 췌장암 관련 근육 소모를 억제하는 효과를 세포 및 동물실험을 통해 평가했습니다. 연구진은 아토바쿠온이 AMPK를 활성화하여 Glut4 발현 및 당분해능을 촉진하고 활성산소종을 줄여 근육 위축을 막는 기전을 확인했습니다. 췌장암 동물 모델 실험 결과 아토바쿠온은 종양의 성장에는 직접적인 영향을 주지 않으면서 암 악액질 증상을 유의미하게 억제했습니다.
+
+- 췌장암 환자의 80% 이상에서 암 악액질이 나타나며 이는 사망률 증가의 주된 원인이 됩니다.
+- 아토바쿠온(atovaquone)은 농도 의존적으로 암 유래 매개물질에 의한 근육세포 위축과 활성산소종(ROS)을 감소시켰습니다.
+- 췌장암 마우스 모델에서 종양 크기 변화 없이 악액질 증상(근육 소모)을 억제하는 효과를 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42998802/) · [DOI](https://doi.org/10.1016/j.canlet.2026.218951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42998802)</small>
+
+---
+<a id="pmid-42996612"></a>
+#### [통통함부터 마름까지: 췌장암에서 체질량지수(BMI)의 양날의 검과 같은 예후적 역할](https://pubmed.ncbi.nlm.nih.gov/42996612/)
+<small>Husky or lean and everything in between: the double-edged prognostic role of body mass index in pancreatic cancer</small>
+
+`논문` `종설` `지지요법·삶의질` `치료 전반` · 2026-10-13 · PubMed · J Gastrointest Oncol · 중요도 0.58
+
+본 사설은 췌장암 환자의 체질량지수(BMI)가 예후에 미치는 상반된 영향을 다룹니다. 비만은 췌장암 발병의 위험 요인이지만, 진단 후에는 적정 체중 유지가 예후에 긍정적일 수 있는 '비만 역설' 현상이 논의됩니다. 췌장암 환자의 체중 감소와 근감소증 관리가 치료 경과 및 예후에 중요함을 강조합니다.
+
+- 췌장암 발병 위험 요인으로서의 높음 BMI와 진단 후 체중 유지가 가지는 예후적 의미를 분석했습니다.
+- 단순 BMI 수치뿐만 아니라 체중 변화 및 근감소증 등 체성분 평가가 중요합니다.
+- 췌장암 환자 치료 시 영양 관리와 체중 감소 방지가 필수적입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996612/) · [DOI](https://doi.org/10.21037/jgo-2026-1049) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740572/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996612)</small>
+
+---
+<a id="pmid-42996839"></a>
+#### [리포좀 이리노테칸 기반 치료를 받는 환자의 설사 관리: 기전, 임상적 영향 및 근거 기반 전략](https://pubmed.ncbi.nlm.nih.gov/42996839/)
+<small>Management of diarrhea in patients receiving liposomal irinotecan-based regimens: a narrative review of mechanisms, clinical impact, and evidence-based strategies</small>
+
+`논문` `종설` `지지요법·삶의질` `신약·치료제` `치료 전반` · 2026-09-14 · PubMed · J Gastrointest Oncol · 중요도 0.49
+
+본 고찰 연구는 젬시타빈(gemcitabine) 기반 치료 후 진행된 전이성 췌장관선암(mPDAC)의 2차 표준 치료제인 리포좀 이리노테칸(nal-IRI) 요법 시 발생하는 설사의 기전과 관리 전략을 정리했습니다. nal-IRI 관련 설사는 급성 콜린성 반응과 SN-38에 의한 지연성 장점막 손상이 복합적으로 작용합니다. 주요 췌장암 임상시험에서 3~4등급의 심각한 설사 발생률은 13~20% 수준으로 집계되었습니다. 아트로핀(atropine), 로페라미드(loperamide) 등 근거 기반 약물 치료와 선제적 감량 프로토콜을 적용하여 부작용을 줄이고 치료 효과를 최적화할 수 있습니다.
+
+- 주요 췌장암 임상시험에서 리포좀 이리노테칸(nal-IRI) 투여 시 3~4등급의 중증 설사 발생률은 약 13~20%였습니다.
+- 설사의 지연성 원인은 active metabolite인 SN-38에 의한 장점막 손상 및 장간 순환에 의해 유발됩니다.
+- 아트로핀(atropine), 로페라미드(loperamide), 옥트레오타이드(octreotide) 등 선제적 약물 치료와 UGT1A1*28 유전자형 검사 등의 맞춤형 관리가 강조됩니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996839/) · [DOI](https://doi.org/10.21037/jgo-2026-0627) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740549/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996839)</small>
 
 ---
 <a id="nct-nct07808671"></a>
@@ -141,12 +214,19 @@ search:
 
 ---
 <a id="pmid-42991713"></a>
-#### [Association and incremental predictive performance of preoperative nutritional and inflammatory indices for postoperative ICU admission after hepatobiliary and pancreatic tumor surgery](https://pubmed.ncbi.nlm.nih.gov/42991713/)
-`논문` `관찰연구` `지지요법·삶의질` `수술` · 2026-10-22 · PubMed · Front Nutr · 중요도 0.68
+#### [간담췌 종양 수술 후 중환자실(ICU) 입원에 대한 수술 전 영양 및 염증 지표의 연관성 및 예측 성능](https://pubmed.ncbi.nlm.nih.gov/42991713/)
+<small>Association and incremental predictive performance of preoperative nutritional and inflammatory indices for postoperative ICU admission after hepatobiliary and pancreatic tumor surgery</small>
 
-BACKGROUND: Preoperative nutritional and inflammatory status may influence perioperative outcomes in patients undergoing hepatobiliary and pancreatic tumor surgery. This study aimed to compare the associations and incremental predictive value of six nutrition- and inflammation-related indices for postoperative intensive care unit (ICU) admission.
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-22 · PubMed · Front Nutr · 중요도 0.68
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991713/) · [DOI](https://doi.org/10.3389/fnut.2026.1978034) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736577/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991713)</small>
+이 연구는 간담췌 및 췌장 종양 수술을 받은 환자들을 대상으로 수술 전 영양 및 염증 상태가 수술 후 중환자실(ICU) 입원에 미치는 영향을 분석했습니다. INSPIRE 데이터베이스의 환자 1,195명을 대상으로 노인 영양 위험 지수(GNRI) 등 6가지 지표를 평가했습니다. 분석 결과, 141명(11.8%)이 수술 후 중환자실에 입원했습니다. 높은 GNRI 수치는 중환자실 입원 위험 감소와 관련이 있었으며(교차비 0.601), GNRI를 추가했을 때 예측 모델의 AUC가 0.766에서 0.800으로 증가했습니다.
+
+- 총 1,195명의 환자 중 141명(11.8%)이 수술 후 중환자실(ICU)에 입원했습니다.
+- 높은 GNRI 수치는 조정된 중환자실 입원 위험 감소와 연관되었습니다 (교차비 0.601, 95% 신뢰구간 0.497-0.728).
+- GNRI를 추가하자 ROC 곡선 아래 면적(AUC)이 0.766에서 0.800으로 증가했습니다.
+- 알부민 단독 측정으로도 유사한 수준의 예측 성능(AUC 0.799)을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42991713/) · [DOI](https://doi.org/10.3389/fnut.2026.1978034) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13736577/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42991713)</small>
 
 ---
 <a id="pmid-42988428"></a>
@@ -1972,110 +2052,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 악액질 환자의 철분 대사 이상은 악액질의 중증도보다 기저 암종의 특성에 의해 더 크게 좌우되므로 암 유형에 맞춘 철분 관리가 필요함을 시사합니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1338235) · [DOI](https://doi.org/10.64898/2026.10.02.756162) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.756162)</small>
-
----
-<a id="pmid-42845671"></a>
-#### [신규 발병 당뇨병 환자군에서 바이오마커 변화 궤적에 기반한 임박한 췌장암 평가](https://pubmed.ncbi.nlm.nih.gov/42845671/)
-<small>Assessment of impending pancreatic cancer in a cohort of new onset diabetes on basis of biomarker trajectory</small>
-
-`논문` `3상` `진단·조기발견` `지지요법·삶의질` · 2026-08-10 · PubMed · medRxiv · 중요도 0.85
-
-본 연구는 신규 발병 당뇨병(NOD) 환자 2,121명을 대상으로 3년간 추적 관찰하며 수집한 혈액 검체 6,516개를 활용하여 췌장관 선암(PDAC)의 조기 진단 성능을 평가했습니다. 진단 전 혈액 검체 단백질 바이오마커 패널 분석 결과, CA19-9가 가장 우수한 췌장암 예측 성능을 보였습니다. CA19-9 바이오마커는 실제 임상 진단보다 중앙값 기준 7개월 전에 먼저 양성 반응을 나타냈습니다. 이 결과는 신규 발병 당뇨병 성인 환자에서 CA19-9 혈액 검사를 통한 췌장암 조기 발견 가능성을 제시합니다.
-
-- 신규 발병 당뇨병 환자군에서 3년 이내 췌장암 발생률은 0.57%였습니다.
-- 단백질 바이오마커 중 CA19-9는 진단 예측 수신기 작동 특성 곡선 아래 면적(AUC) 0.94, 민감도 83.3%, 특이도 97.2%로 가장 우수한 성과를 보였습니다.
-- 단일 시점 검사로 놓친 췌장암 환자 2명 중 1명은 이전 검사 이력을 반영하는 PEB 알고리즘을 통해 선별되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42845671/) · [DOI](https://doi.org/10.64898/2026.08.06.26359908) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13640811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42845671)</small>
-
----
-<a id="pmid-42849050"></a>
-#### [미국 메디케어 고령 췌장암 환자의 사회경제적 위치에 따른 지지요법 약물 사용 격차](https://pubmed.ncbi.nlm.nih.gov/42849050/)
-<small>Socioeconomic Disparities in Supportive Care Medication Use Among US Medicare Beneficiaries with Pancreatic Cancer</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `진단·조기발견` · 2026-10-08 · PubMed · Cancer Control · 중요도 0.75
-
-미국 65세 이상 췌장암 환자 81,535명을 대상으로 거주 지역의 사회경제적 수준(SES)과 지지요법 약물(SCM) 처방 간의 연관성을 분석한 후향적 코호트 연구입니다. 전체 환자의 69%가 진단 후 최소 한 가지 이상의 지지요법 약물을 처방받았습니다. 분석 결과 사회경제적 수준이 가장 낮은 지역의 환자는 가장 높은 지역에 비해 항우울제, 항구토제, 식욕촉진제, 수면제 등의 처방률이 유의하게 낮았습니다. 반면 통증 조절을 위한 진통제 처방 차이는 상대적으로 작고 일관성이 적었습니다.
-
-- 분석 대상 81,535명의 고령 췌장암 환자 중 69%가 진단 후 최소 1개 이상의 지지요법 약물을 처방받았습니다.
-- 사회경제적 수준이 가장 낮은 그룹(Q1)은 최상위 그룹(Q5) 대비 항구토제(교차비 0.77), 식욕촉진제(교차비 0.78), 항우울제(교차비 0.80), 수면제(교차비 0.67) 처방 가능성이 유의하게 낮았습니다.
-- 진통제 처방 및 시작 시기와 사회경제적 수준 간의 연관성은 다른 지지요법 약물군에 비해 작고 덜 일관되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42849050/) · [DOI](https://doi.org/10.1177/10732748261491721) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42849050)</small>
-
----
-<a id="pmid-42843315"></a>
-#### [중장년 및 노인 췌장암 수술 후 6개월 이내의 수술 후 증상 부담과 건강 관련 삶의 질 관련 요인](https://pubmed.ncbi.nlm.nih.gov/42843315/)
-<small>Postoperative symptom burden and factors associated with health-related quality of life within six months after pancreatic cancer surgery in middle-aged and older adults</small>
-
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-10-05 · PubMed · Eur J Oncol Nurs · 중요도 0.73
-
-췌장암 수술을 받은 지 6개월 이내인 45세 이상 환자 151명을 대상으로 수술 후 통증, 불안, 수면의 질이 건강 관련 삶의 질(HRQOL)에 미치는 영향을 조사한 연구입니다. 평가 결과 환자들의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다. 다변량 분석에서 불안과 낮은 수면의 질은 기능적 삶의 질 저하, 증상 부담 증가, 전반적 건강 상태 악화와 모두 유의하게 연관되어 있었습니다. 반면 통증은 증상 부담 증가와만 유의한 연관성을 보였습니다.
-
-- 췌장암 수술 후 6개월 이내 환자 151명의 평균 통증 점수는 5.04점, 불안 점수는 8.41점, 수면의 질 점수는 9.81점이었습니다.
-- 불안은 기능적 삶의 질 저하(β=-0.323, P<0.001), 증상 부담 증가(β=0.208, P=0.005), 전반적 건강 상태 악화(β=-0.194, P=0.019)와 모두 유의하게 연관되었습니다.
-- 수면의 질 저하 역시 기능적 삶의 질 저하(β=-0.241, P=0.003), 증상 부담 증가(β=0.326, P<0.001), 전반적 건강 상태 악화(β=-0.290, P=0.001)와 유의한 연관성을 나타냈습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42843315/) · [DOI](https://doi.org/10.1016/j.ejon.2026.103343) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42843315)</small>
-
----
-<a id="pmid-42848313"></a>
-#### [1999년부터 2020년까지 미국 내 췌장암과 제2형 당뇨병 동시 기재 사망률 추이](https://pubmed.ncbi.nlm.nih.gov/42848313/)
-<small>Trends in U.S. Mortality With Co-Listed Pancreatic Cancer and Type 2 Diabetes, 1999-2020</small>
-
-`논문` `관찰연구` `기초연구` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-10-15 · PubMed · FASEB J · 중요도 0.73
-
-이 연구는 1999년부터 2020년까지 미국 내에서 췌장암(Pancreatic Cancer, PC)과 제2형 당뇨병(Type 2 Diabetes Mellitus, T2DM)이 함께 기재된 사망 기록을 분석했습니다. 미국 질병통제예방센터(CDC WONDER) 데이터를 활용해 연령조정 사망률(AAMR)과 연간 변화율(APC)을 조사했습니다. 총 17,744건의 사망 사례를 분석한 결과, 췌장암과 제2형 당뇨병이 동시 기재된 연령조정 사망률은 1999년 인구 10만 명당 0.16명에서 2020년 0.53명으로 증가했습니다. 반면 당뇨병이 없는 췌장암 사망률은 비교적 안정적으로 유지되었습니다.
-
-- 췌장암과 제2형 당뇨병이 동시 기재된 연령조정 사망률(AAMR)은 1999년 0.16명에서 2020년 0.53명(10만 명당)으로 증가했습니다.
-- 75-84세 성인이 가장 높은 절대적 부담을 보였으며, 45-54세 연령층에서 가장 빠른 최근 증가세를 기록했습니다.
-- 히스패닉계(Hispanics)가 전체적으로 가장 빠른 증가세를 보였고, 비히스패닉 백인(NH Whites)은 최근 급격한 가속화를 겪었으며, 비히스패닉 흑인(NH Blacks)은 높은 기저 부담을 유지했습니다.
-- 지리적으로 2020년 연령조정 사망률(AAMR)은 대도시권보다 비도시권(nonmetropolitan areas)에서 더 높았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848313/) · [DOI](https://doi.org/10.1096/fj.202602498R) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848313)</small>
-
----
-<a id="pmid-42846424"></a>
-#### [플라스민 생성 동역학을 통해 밝혀진 췌관선암종 환자의 과도한 섬유소용해 표현형](https://pubmed.ncbi.nlm.nih.gov/42846424/)
-<small>Plasmin Generation Kinetics Reveal a Hyperfibrinolytic Phenotype in Patients with Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `관찰연구` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-09-15 · PubMed · TH Open · 중요도 0.72
-
-진행성 췌관선암종(pancreatic ductal adenocarcinoma) 환자 18명과 건강한 대조군 18명을 대상으로 섬유소용해 활성을 평가하는 플라스민 생성(PG) 프로파일을 비교한 연구입니다. 췌장암 환자는 건강한 대조군에 비해 플라스민 생성이 지연되면서도 생성 능력 자체는 증가하는 불균형을 보였으며, 이는 항암화학요법 8주 후에도 지속되었습니다. 관찰 기간 6개월 동안 환자 중 5명(28%)에서 혈전색전증이 발생하였으며, 혈전색전증이 나타난 환자들은 응고와 섬유소용해의 균형을 나타내는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
-
-- 진행성 췌장암 환자 18명 중 5명(28%)에서 6개월 추적 관찰 기간 동안 혈전색전성 사건이 발생했습니다.
-- 췌장암 환자는 건강한 대조군에 비해 내인성 플라스민 생성 잠재력이 기저시점 및 항암화학요법 8주 후에도 높게 유지되었습니다.
-- 플라스민 생성 수치 자체는 혈전색전증과 직접 연관되지 않았으나, 혈전색전증이 발생한 환자는 트롬빈/플라스민 잠재력 비율(TG/PG ratio)이 더 낮았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42846424/) · [DOI](https://doi.org/10.1055/a-2925-6824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13643898/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42846424)</small>
-
----
-<a id="pmid-42848148"></a>
-#### [장-췌장 축: 당뇨병과 췌장암의 발병 요인으로서의 장내 미생물 불균형](https://pubmed.ncbi.nlm.nih.gov/42848148/)
-<small>The gut-pancreas axis: microbial dysbiosis as a pathogenic driver of diabetes and pancreatic cancer</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-08 · PubMed · Med Oncol · 중요도 0.72
-
-이 종설(review) 논문은 장내 미생물 불균형(dysbiosis)이 장과 췌장을 연결하며 당뇨병과 췌장암의 발생에 기여하는 기전을 다룹니다. 장내 미생물은 특정 대사산물을 생성하고 전신 염증 반응을 유발하여 세포 손상을 일으킵니다. 제2형 당뇨병에서는 인슐린 수용체 경로를 방해하여 인슐린 저항성을 유발하고, 췌장암에서는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT) 등을 자극하여 종양 성장을 촉진합니다. 저자들은 이러한 장-췌장 축 기반의 기전 이해가 장내 미생물을 표적으로 하는 질환 예방 및 관리 기술 개발로 이어질 수 있다고 설명합니다.
-
-- 장내 미생물 불균형은 전신 염증 반응과 대사산물 생성을 통해 당뇨병과 췌장암의 발생에 기여합니다.
-- 췌장암에서 장내 미생물 관련 염증 신호는 발암 경로 활성화, 면역 회피, 상피-간엽 이행(EMT), DNA 돌연변이를 유도하여 종양 성장을 자극합니다.
-- 제2형 당뇨병에서는 IRS-1/PI3K/AKT 신호 전달을 방해하여 베타세포 기능 장애와 인슐린 저항성을 유발합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42848148/) · [DOI](https://doi.org/10.1007/s12032-026-03421-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42848148)</small>
-
----
-<a id="pmid-42851288"></a>
-#### [진행성 췌장암에서 담도 스텐트의 십이지장 구부 장기 노출 및 동반된 십이지장 폐쇄로 인한 재발성 담도 패혈증의 내시경적 관리](https://pubmed.ncbi.nlm.nih.gov/42851288/)
-<small>Endoscopic Management of Recurrent Biliary Sepsis Associated with Prolonged Biliary Stent Exposure into the Duodenal Bulb and Concurrent Duodenal Obstruction in Advanced Pancreatic Cancer</small>
-
-`논문` `증례` `지지요법·삶의질` `치료 전반` · 2026-09-21 · PubMed · Chonnam Med J · 중요도 0.49
-
-진행성 췌장암 환자에서 담도 스텐트가 십이지장 구부로 장기간 노출되고 십이지장 폐쇄가 동반되어 발생한 재발성 담도 패혈증의 내시경적 치료 증례를 다룬 보고입니다. 십이지장 폐쇄와 담도 스텐트의 해부학적 위치 이상이 겹치면서 담즙 배액 장애 및 감염이 유발되었습니다. 의료진은 이러한 복합적인 합병증을 해결하기 위해 내시경적 접근을 통한 중재 시술을 성공적으로 시행했습니다. 이를 통해 진행성 췌장암 환자에서 복합 협착 및 스텐트 관련 감염 발생 시 내시경적 관리의 유용성을 보여주었습니다.
-
-- 진행성 췌장암 환자에서 십이지장 폐쇄와 담도 스텐트의 십이지장 구부 노출이 동반되어 재발성 담도 패혈증이 발생했습니다.
-- 복합적인 폐쇄 및 감염 상황을 내시경적 시술을 통해 성공적으로 관리한 증례입니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42851288/) · [DOI](https://doi.org/10.4068/cmj.2026.62.3.136) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13645499/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42851288)</small>
 
 ---

@@ -5,7 +5,8 @@
   "Billioud C"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "review",
@@ -19,7 +20,12 @@
  ],
  "id": "pmid:42991803",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "췌장 신경내분비종양(PanNETs)은 고혈관성 특성을 보이며 고형 가유두상 종양(SPN)은 고형 및 낭성 성분이 혼재된 양상을 자주 보입니다.",
+  "췌관선암(PDAC)은 주로 침윤성 성장을 보이는 반면 비관성 종양은 명확한 경계를 보이는 경향이 있으나 영상 소견의 중복으로 인해 단독 감별은 어렵습니다.",
+  "내시경초음파 미세침생검(EUS-FNB)과 면역조직화학 분석은 희귀 췌장 종양의 확진을 위해 필수적입니다.",
+  "방사선 유전체학(Radiomics)과 인공지능(AI) 기술의 도입이 진단 정확도 향상에 기여할 것으로 기대됩니다."
+ ],
  "last_updated": "2026-11-07",
  "links": {
   "doi": "10.7759/cureus.119145",
@@ -42,11 +48,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42991803/"
  },
- "summary_ko": "Solid pancreatic neoplasms comprise a heterogeneous group of tumors with distinct histopathological characteristics, biological behaviors, and therapeutic implications. Although pancreatic ductal adenocarcinoma (PDAC) is the predominant malignancy, non-ductal neoplasms, including pancreatic acinar cell carcinoma (PACC), pancreatic neuroendocrine tumors (PanNETs), solid pseudopapillary neoplasms (SPNs), and pancreatoblastoma, represent important diagnostic alternatives.",
- "summary_source": "excerpt",
+ "summary_ko": "췌관선암(PDAC) 이외의 고형 췌장 종양인 췌장 腺胞세포암종(PACC), 췌장 신경내분비종양(PanNETs), 고형 가유두상 종양(SPNs) 등의 방사선학적 및 내시경적 특징을 비교 정리한 종설 연구입니다. 영상 검사상 종양별로 관류 형태나 경계에 차이가 있으나 단순 영상만으로는 완벽한 감별 진단에 한계가 있습니다. 내시경초음파 미세침생검(EUS-FNB)을 통한 조직학적 및 면역조직화학 분석이 종양의 확진에 중요한 역할을 합니다. 정확한 진단을 위해서는 단면 영상, 내시경초음파(EUS), 병리 조직학적 평가를 종합적으로 활용해야 합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Beyond Pancreatic Ductal Adenocarcinoma: A Narrative Review of the Radiological and Endoscopic Features of Solid Pancreatic Neoplasms",
- "title_ko": null,
+ "title_ko": "췌관선암을 넘어: 고형 췌장 종양의 방사선학적 및 내시경적 특징에 대한 종설 연구",
  "trial": null,
  "type": "paper"
 }

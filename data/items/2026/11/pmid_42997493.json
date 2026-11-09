@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic cancer (PaC), the third leading cause of cancer related deaths in the United States, is a highly heterogenous malignancy with a multitude of potential subtypes. Each PaC subtype has unique molecular pathways and therapeutic characteristics, which can be used in downstream patient risk stratification and tailored treatment design. Conventional wet-lab approaches for PaC subtyping (microdissection, histopathological studies, etc.) are laborious, costly, and time-consuming. To address these concerns, we present MetaPaCS, a novel meta-learning framework to accurately identify PaC subtypes based on transcriptomics data. Specifically, after preprocessing, the transcriptome-based feature vectors are classified by multiple base machine learning classifiers, whose diverse prediction outputs are combined with the initial preprocessed feature vectors to constitute a new set of ensemble feature vectors for a meta-learning classifier. Leave-one-out cross-validation demonstrates that MetaPaCS performs remarkably better optimized individual base classifiers. We believe that MetaPaCS is a promising tool for downstream risk stratification and personalized treatment design.",
+ "authors": [
+  "Peterson NB",
+  "Sun M",
+  "Wu X",
+  "Wang J",
+  "Wan S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-09",
+ "history": [
+  {
+   "date": "2026-11-09",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:42997493",
+ "importance": 0.51,
+ "key_points_ko": [
+  "전사체 데이터를 활용하여 췌장암 아형을 정밀하게 식별하는 메타 학습 프레임워크 MetaPaCS를 제시했습니다.",
+  "기계학습 분류기들의 다양한 예측 결과와 전사체 특징 벡터를 결합한 앙상블 방식을 도입했습니다.",
+  "단일 검증(Leave-one-out cross-validation) 결과, 개별 최적화 기계학습 모델들보다 뛰어난 예측 성능을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-09",
+ "links": {
+  "doi": "10.1002/aisy.70576",
+  "nct": [],
+  "pmcid": "PMC13742208",
+  "pmid": "42997493"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-15",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Intell Syst",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42997493/"
+ },
+ "summary_ko": "전사체(transcriptomics) 데이터를 기반으로 췌장암 아형을 정확히 분류하는 메타 학습 프레임워크인 MetaPaCS가 개발되었습니다. 췌장암은 아형에 따라 분자 경로와 치료 특성이 다르지만 기존 생물학적 검사 방식은 시간과 비용이 많이 소요됩니다. MetaPaCS는 다중 기계학습 분류기의 예측값과 초기 특징 벡터를 결합하여 메타 학습 분류기에 적용하는 방식을 사용합니다. 교차 검증 결과, MetaPaCS는 단일 최적화 분류기보다 유의미하게 우수한 성능을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MetaPaCS: A Novel Meta-Learning Framework for Pancreatic Cancer Subtype Identification",
+ "title_ko": "MetaPaCS: 췌장암 아형 식별을 위한 새로운 메타 학습 프레임워크",
+ "trial": null,
+ "type": "paper"
+}
