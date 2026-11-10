@@ -49,7 +49,7 @@ search:
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장관선암 환자의 2차 치료로서 onvansertib과 나노리포조말 이리노테칸, 류코보린, 플루오로우라실 병용요법 임…](../trials/NCT04752696.md) | 2상 | 조기 종료 | - |
 
-## 타임라인 (3)
+## 타임라인 (4)
 
 <a id="pmid-42951709"></a>
 #### [1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험](https://pubmed.ncbi.nlm.nih.gov/42951709/)
@@ -64,6 +64,15 @@ search:
 - 1단계에는 108명, 2단계에는 92명의 전이성 췌장암 환자가 등록될 예정입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42951709/) · [DOI](https://doi.org/10.1016/j.dld.2026.10.006) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42951709)</small>
+
+---
+<a id="pmid-43001195"></a>
+#### [Real-World Tolerability and Effectiveness of Nanoliposomal Irinotecan in Metastatic Pancreatic Cancer: A Multicentre Indian Experience](https://pubmed.ncbi.nlm.nih.gov/43001195/)
+`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-10-09 · PubMed · Cureus · 중요도 0.65
+
+Background Metastatic pancreatic ductal adenocarcinoma (mPDAC) is associated with poor prognosis and has limited therapeutic options. Nanoliposomal irinotecan (Nal-IRI), evaluated in the NAPOLI-1 and NAPOLI-3 clinical trials, has demonstrated survival benefit in later-line and first-line settings, respectively.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001195/) · [DOI](https://doi.org/10.7759/cureus.117689) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744743/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001195)</small>
 
 ---
 <a id="pmid-42827581"></a>

@@ -1,0 +1,51 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal despite advances in systemic and biomarker-directed therapy. Treatment resistance reflects not only tumor genotype but also desmoplasia, vascular dysfunction, immune suppression, metabolic adaptation, and evolutionary plasticity. This review integrates signaling dependency, ecosystem architecture, and adaptive evolution into an ecosystem-adaptive framework to explain therapeutic failure in PDAC and proposes four candidate ecosystem states: desmoplastic exclusion, myeloid dominance, hypoxic-metabolic adaptation, and immune-interface organization. These dynamic states may influence therapeutic exposure and resistance beyond conventional molecular classification. Prospective validation could support biomarker development, therapeutic stratification, rational treatment combinations, and treatment sequencing in pancreatic cancer.",
+ "authors": [
+  "Shahiwala AF"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43001337",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1080/07357907.2026.2754437",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43001337"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Invest",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43001337/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal despite advances in systemic and biomarker-directed therapy. Treatment resistance reflects not only tumor genotype but also desmoplasia, vascular dysfunction, immune suppression, metabolic adaptation, and evolutionary plasticity.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Ecosystem Determinants of Therapeutic Resistance in Pancreatic Cancer: Implications for Precision Oncology",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

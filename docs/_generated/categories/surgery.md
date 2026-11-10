@@ -16,12 +16,84 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 291건 · 최근 30일 168건
+전체 295건 · 최근 30일 167건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct05688215"></a>
+#### [수술 경계성 및 국소 진행성 췌장암 환자를 대상으로 한 짐베렐리맙(zimberelimab) 및 퀘믈리클루스타트(quemliclustat)와 항암화학요법 병용 치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05688215)
+<small>Zimberelimab and Quemliclustat in Combination With Chemotherapy for the Treatment of Patients With Borderline Resectable and Locally Advanced Pancreatic Adenocarcinoma</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2023-01-18 · ClinicalTrials.gov · Jonsson Comprehensive Cancer Center · 중요도 0.90
+
+**NCT05688215** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05688215.md)
+
+이 연구는 수술 경계성 또는 국소 진행성 췌관선암 환자를 대상으로 mFOLFIRINOX 항암화학요법에 면역항암제 zimberelimab(짐베렐리맙)과 아데노신 차단제 quemliclustat(퀘믈리클루스타트)를 병용하는 치료의 안전성과 유효성을 평가하는 1/2상 임상시험입니다. 면역항암제와 아데노신 차단제를 항암제와 함께 투여하여 면역계가 암세포를 공격하도록 유도합니다. 수술 경계성 환자군에서는 수술 절제율을 평가하고, 국소 진행성 환자군에서는 무진행 생존기간(PFS)을 주요 지표로 평가합니다. 이전 치료 경험이 없는 환자 141명을 대상으로 진행됩니다.
+
+- 수술 경계성 췌장암 환자의 수술 절제율과 국소 진행성 췌장암 환자의 무진행 생존기간(PFS)을 주요 평가 지표로 측정합니다.
+- 이전 치료 경험이 없는 수술 경계성 또는 국소 진행성 췌장암 환자 총 141명을 모집합니다.
+- mFOLFIRINOX 항암제와 zimberelimab(짐베렐리맙), quemliclustat(퀘믈리클루스타트)의 3가지 병용 효과를 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05688215) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05688215)</small>
+
+---
+<a id="nct-nct07325214"></a>
+#### [Chemotherapy With or Without IMD10 (Focused Ultrasound) in the Treatment of Borderline Resectable or Locally Advanced Pancreatic Cancer](https://clinicaltrials.gov/study/NCT07325214)
+`임상시험` `기타` `치료 전반` `수술` `진단·조기발견` · 2026-01-08 · ClinicalTrials.gov · IMGT Co., Ltd. · 중요도 0.79
+
+**NCT07325214** · 해당 없음 · 모집 중 · 국내 2곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07325214.md)
+
+The purpose of this Interventional clinical trial is to evaluate safety and efficacy of 'IMD10 (focused ultrasound)' in the treatment of borderline resectable pancreatic cancer or locally advanced pancreatic cancer. * Background: Pancreatic Cancer (PaC) ranks as the 5th most common cause of cancer-related deaths in the Western world.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07325214) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07325214)</small>
+
+---
+<a id="nct-nct01174121"></a>
+#### [전이성 암 환자를 위한 종양 침윤 리파구(TIL) 활용 면역치료 2상 임상시험](https://clinicaltrials.gov/study/NCT01174121)
+<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
+
+**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
+
+본 연구는 표준 항암 치료에 불응한 전이성 췌장암 및 소화기계 암 환자를 대상으로 종양 침윤 리파구(TIL) 세포치료의 효과와 안전성을 평가하는 2상 임상시험입니다. 환자의 종양 조직에서 추출해 배양한 면역세포를 림프구 제거 화학요법, aldesleukin(알데스류킨), 면역항암제인 pembrolizumab(펨브롤리주맙)과 함께 투여합니다. 연구를 통해 이 치료법이 종양 크기를 줄일 수 있는지 확인하고자 합니다.
+
+- 18세 이상 72세 이하의 표준 치료에 불응한 전이성 췌장암 등 고형암 환자 최대 332명을 대상으로 진행됩니다.
+- 환자 본인의 종양 조직에서 추출·배양한 TIL을 림프구 제거 화학요법(cyclophosphamide, fludarabine), aldesleukin, pembrolizumab과 병용 투여합니다.
+- 주요 목표는 병용 치료를 통한 종양 반응률(목표 반응률 20%)과 치료의 안전성을 평가하는 것입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
+
+---
+<a id="pmid-43002664"></a>
+#### [PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent](https://pubmed.ncbi.nlm.nih.gov/43002664/)
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Med Internet Res · 중요도 0.77
+
+BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002664/) · [DOI](https://doi.org/10.2196/101607) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002664)</small>
+
+---
+<a id="pmid-43000926"></a>
+#### [A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study](https://pubmed.ncbi.nlm.nih.gov/43000926/)
+`논문` `관찰연구` `수술` · 2026-11-08 · PubMed · World J Surg · 중요도 0.77
+
+BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed, but clinically relevant postoperative pancreatic fistula (CR-POPF) remains a major complication. This study evaluated a modified Blumgart pancreaticojejunostomy (PJ) technique in LPD.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43000926/) · [DOI](https://doi.org/10.1002/wjs.70659) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43000926)</small>
+
+---
+<a id="pmid-43001041"></a>
+#### [Metro-Pancreas Stratifies Survival After Neoadjuvant Chemotherapy and Surgery for Resectable Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/43001041/)
+`논문` `기타` `치료 전반` `수술` `진단·조기발견` · 2026-11-09 · PubMed · Ann Surg · 중요도 0.73
+
+OBJECTIVE: To assess the prognostic utility of the Metro-Pancreas framework in resectable pancreatic ductal adenocarcinoma (PDAC) treated with neoadjuvant chemotherapy (NAT) and resection. SUMMARY BACKGROUND DATA: Upfront surgery and NAT are options in anatomically resectable PDAC.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001041/) · [DOI](https://doi.org/10.1097/SLA.0000000000007253) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001041)</small>
+
+---
 <a id="nct-nct06807437"></a>
 #### [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT06807437)
 <small>Lanreotide Versus Placebo Before Surgery to Prevent a Surgical Complication Called a Pancreatic Fistula</small>
@@ -56,13 +128,20 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT07235202) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07235202)</small>
 
 ---
-<a id="pmid-42996581"></a>
-#### [Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42996581/)
-`논문` `무작위` `수술` `치료 전반` `신약·치료제` · 2026-10-23 · PubMed · J Gastrointest Oncol · 중요도 0.85
+<a id="pmid-42996569"></a>
+#### [췌장 선편평세포암종 치료 전략: 체계적 문헌고찰 및 개별 증례 통합 분석](https://pubmed.ncbi.nlm.nih.gov/42996569/)
+<small>Treatment strategies in pancreatic adenosquamous carcinoma: a systematic review and pooled analysis of individual cases</small>
 
-BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the standard treatment for resectable pancreatic cancer (PC) in Japan. More intensive regimens, such as gemcitabine plus nab-paclitaxel (GnP), are widely used globally.
+`논문` `메타분석` `치료 전반` `수술` `신약·치료제` `제약사·규제` · 2026-09-28 · PubMed · J Gastrointest Oncol · 중요도 0.85
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996581/) · [DOI](https://doi.org/10.21037/jgo-2026-0892) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740548/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996581)</small>
+희귀하고 공격적인 췌장 선편평세포암종(PASC) 환자 89명의 치료 성적을 분석한 체계적 문헌고찰 연구입니다. 수술 가능 여부와 관계없이 항암화학요법과 방사선치료를 병용했을 때 중앙 전체생존기간(mOS)이 가장 길었습니다. 다변량 분석에서 항암화학요법은 생존 기간 개선과 독립적인 연관성을 보였습니다(위험비 0.41). 반면 수술적 절제 자체는 생존 기간과 독립적인 연관을 보이지 않았습니다.
+
+- 수술이 가능한 환자에서 항암치료와 방사선치료를 병용한 경우 mOS가 26.0개월로 가장 길었습니다.
+- 수술이 불가능한 환자에서도 항암치료와 방사선치료 병용 시 mOS가 15.5개월을 나타냈습니다.
+- 항암화학요법은 생존 기간을 독립적으로 개선했습니다(위험비 0.41, 95% 신뢰구간 0.24-0.70, P=0.001).
+- 수술 불가능 환자의 약제별 mOS는 S-1 18.0개월, gemcitabine(젬시타빈) 5.4개월, 5-fluorouracil(5-플루오로우라실) 4.0개월이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996569/) · [DOI](https://doi.org/10.21037/jgo-2026-0117) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740531/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996569)</small>
 
 ---
 <a id="nct-nct06141031"></a>
@@ -82,6 +161,21 @@ BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the
 <small>[원문](https://clinicaltrials.gov/study/NCT06141031) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06141031)</small>
 
 ---
+<a id="pmid-42995288"></a>
+#### [비췌장성 팽대부 주위암에서 로봇 대 개복 췌십이지장절제술의 장기 생존율 비교: 인과 매개 분석](https://pubmed.ncbi.nlm.nih.gov/42995288/)
+<small>Robotic-assisted versus open pancreatoduodenectomy for non-pancreatic periampullary carcinoma: comparison of long-term survival using causal mediation analysis</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-07 · PubMed · J Robot Surg · 중요도 0.77
+
+비췌장성 팽대부 주위암(NPPC) 환자 293명을 대상으로 로봇 췌십이지장절제술(RPD)과 개복 췌십이지장절제술(OPD)의 수술 결과 및 장기 생존율을 비교한 연구입니다. 로봇 수술군은 개복 수술군에 비해 수술 시간은 길었으나 출혈량이 적었고 수술 중 수혈률과 90일 사망률이 유의하게 낮았습니다. 또한 수술 후 3개월 이내에 보조 항암치료를 시작한 비율이 높았으며 전체 생존기간(OS)도 유의하게 개선되었습니다. 연구진은 로봇 수술의 신체적 부담 감소가 조기 보조 항암치료 시행을 원활하게 하여 생존율 향상으로 이어졌다고 보고했습니다.
+
+- 로봇 수술군은 개복군에 비해 출혈량이 적었고(50.0 ml vs 200.0 ml) 90일 사망률도 유의하게 낮았습니다(0.0% vs 3.5%, p=0.030).
+- 수술 후 3개월 이내 보조 항암치료를 받은 비율은 로봇군(55.4%)이 개복군(28.1%)보다 유의하게 높았습니다(p<0.001).
+- 다변량 분석에서 로봇 췌십이지장절제술은 전체 생존기간 향상과 관련된 독립적 보호 요인으로 확인되었습니다(위험비 0.57, 95% 신뢰구간: 0.36-0.89, p=0.014).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995288/) · [DOI](https://doi.org/10.1007/s11701-026-04137-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995288)</small>
+
+---
 <a id="pmid-42995375"></a>
 #### [췌장암에서 수술 후 췌장루 발생을 예측하기 위한 가상 자기공명탄성도 및 CTRW 확산 모델 기반 서식지 영상 연구](https://pubmed.ncbi.nlm.nih.gov/42995375/)
 <small>Habitat Imaging with Virtual MR Elastography and CTRW Diffusion Model for Predicting Postoperative Pancreatic Fistula in Pancreatic Cancer</small>
@@ -97,19 +191,19 @@ BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995375/) · [DOI](https://doi.org/10.1007/s10278-026-02171-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995375)</small>
 
 ---
-<a id="pmid-42995288"></a>
-#### [비췌장성 팽대부 주위암에서 로봇 대 개복 췌십이지장절제술의 장기 생존율 비교: 인과 매개 분석](https://pubmed.ncbi.nlm.nih.gov/42995288/)
-<small>Robotic-assisted versus open pancreatoduodenectomy for non-pancreatic periampullary carcinoma: comparison of long-term survival using causal mediation analysis</small>
+<a id="pmid-42996581"></a>
+#### [수술 가능한 췌장두부암에서 표준 수술 전 선행 항암요법(젬시타빈+S-1)의 효과 재평가: 단일 기관 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42996581/)
+<small>Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study</small>
 
-`논문` `관찰연구` `수술` `치료 전반` · 2026-11-07 · PubMed · J Robot Surg · 중요도 0.77
+`논문` `관찰연구` `수술` `치료 전반` `신약·치료제` · 2026-10-23 · PubMed · J Gastrointest Oncol · 중요도 0.72
 
-비췌장성 팽대부 주위암(NPPC) 환자 293명을 대상으로 로봇 췌십이지장절제술(RPD)과 개복 췌십이지장절제술(OPD)의 수술 결과 및 장기 생존율을 비교한 연구입니다. 로봇 수술군은 개복 수술군에 비해 수술 시간은 길었으나 출혈량이 적었고 수술 중 수혈률과 90일 사망률이 유의하게 낮았습니다. 또한 수술 후 3개월 이내에 보조 항암치료를 시작한 비율이 높았으며 전체 생존기간(OS)도 유의하게 개선되었습니다. 연구진은 로봇 수술의 신체적 부담 감소가 조기 보조 항암치료 시행을 원활하게 하여 생존율 향상으로 이어졌다고 보고했습니다.
+본 연구는 해부학적으로 수술 가능한 췌장두부암 환자를 대상으로 수술 전 선행 항암요법(NAC)의 효과를 평가한 후향적 코호트 연구입니다. 췌두십이지장절제술(PD)을 받은 196명의 환자를 선행 수술(UF 112명), gemcitabine(젬시타빈)+nab-paclitaxel(납-파클리탁셀) 선행치료(NAC-GnP 45명), gemcitabine+S-1 선행치료(NAC-GS 39명) 그룹으로 나누어 비교했습니다. 연구 결과 수술 전 선행 항암요법 시행 여부에 따른 전체 생존기간(OS) 및 무재발 생존기간(RFS)의 유의미한 차이는 관찰되지 않았습니다.
 
-- 로봇 수술군은 개복군에 비해 출혈량이 적었고(50.0 ml vs 200.0 ml) 90일 사망률도 유의하게 낮았습니다(0.0% vs 3.5%, p=0.030).
-- 수술 후 3개월 이내 보조 항암치료를 받은 비율은 로봇군(55.4%)이 개복군(28.1%)보다 유의하게 높았습니다(p<0.001).
-- 다변량 분석에서 로봇 췌십이지장절제술은 전체 생존기간 향상과 관련된 독립적 보호 요인으로 확인되었습니다(위험비 0.57, 95% 신뢰구간: 0.36-0.89, p=0.014).
+- 총 196명의 췌장두부암 환자를 선행 수술(112명), NAC-GnP(45명), NAC-GS(39명) 그룹으로 나누어 치료 결과를 비교했습니다.
+- 수술 전 선행 항암요법(NAC) 치료군과 선행 수술군 간에 전체 생존기간(OS) 및 무재발 생존기간(RFS), 완전 절제율(R0)의 유의미한 차이가 관찰되지 않았습니다.
+- 치료 시작 전 당사슬항원 19-9(CA19-9) 수치가 37 U/mL 이상인 경우가 전체 생존기간 악화의 독립적인 위험 요인으로 확인되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995288/) · [DOI](https://doi.org/10.1007/s11701-026-04137-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995288)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42996581/) · [DOI](https://doi.org/10.21037/jgo-2026-0892) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13740548/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42996581)</small>
 
 ---
 <a id="pmid-42995188"></a>
@@ -156,15 +250,6 @@ BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995363/) · [DOI](https://doi.org/10.1245/s10434-026-20879-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995363)</small>
 
 ---
-<a id="pmid-42995914"></a>
-#### [NEIL2 regulates RNA polymerase II dynamics to suppress transcription-replication conflicts in pancreatic cancer](https://pubmed.ncbi.nlm.nih.gov/42995914/)
-`논문` `기타` `수술` · 2026-10-20 · PubMed · bioRxiv · 중요도 0.65
-
-Transcription-replication conflicts (TRCs) arise from spatiotemporal interference between replication and transcription machinery and contribute to genome instability in cancer cells. In pancreatic ductal adenocarcinoma (PDAC) cells, oncogenic KRAS drives TRC formation, and base excision repair (BER) contributes to TRC resolution as an adaptive response.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995914/) · [DOI](https://doi.org/10.64898/2026.10.19.760262) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13738565/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995914)</small>
-
----
 <a id="pmid-42996876"></a>
 #### [복잡한 췌장암에서 다학제팀 기반 수술 기회 프레임워크의 개발 및 예비 임상 특성: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42996876/)
 <small>Development and preliminary clinical characterization of an MDT-defined surgical-window framework for complex pancreatic cancer: a retrospective cohort study</small>
@@ -192,6 +277,22 @@ Transcription-replication conflicts (TRCs) arise from spatiotemporal interferenc
 - 구체적인 생존기간, 안전성 수치 및 효과는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42999012/) · [DOI](https://doi.org/10.1245/s10434-026-20840-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42999012)</small>
+
+---
+<a id="pmid-42995914"></a>
+#### [NEIL2는 췌장암에서 전사-복제 충돌을 억제하기 위해 RNA 중합효소 II 동역학을 조절합니다](https://pubmed.ncbi.nlm.nih.gov/42995914/)
+<small>NEIL2 regulates RNA polymerase II dynamics to suppress transcription-replication conflicts in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `수술` · 2026-10-20 · PubMed · bioRxiv · 중요도 0.59
+
+본 연구는 전사-복제 충돌(TRC)이 췌장암(PDAC) 환자의 종양 조직에서 증가되어 있으며 악성 진행과 연관되어 있음을 밝혔습니다. 연구진은 염기제거복구(BER) 경로의 DNA 글리코실레이스인 NEIL2가 췌장암 세포에서 전사-복제 충돌(TRC)을 조절하는 핵심 인자임을 규명했습니다. NEIL2의 손실은 RNA 중합효소 II(RNAPII)의 비정상적인 점유를 유발하여 복제 스트레스와 DNA 손상을 초래합니다. 이러한 결과는 NEIL2가 전사-복제 충돌(TRC)을 완화하는 새로운 역할을 함을 보여줍니다.
+
+- 전사-복제 충돌(TRC)은 췌장암 환자의 종양 조직에서 풍부하게 발견되며 악성 진행과 연관됩니다.
+- NEIL2의 손실은 RNA 중합효소 II(RNAPII)의 비정상적인 위치 점유를 유발합니다.
+- 변형된 RNAPII 동역학은 복제 스트레스, DNA 손상, 그리고 암세포 증식 저해로 이어집니다.
+- NEIL2의 전형적인 BER 기능에 필요한 DNA 결합 모티프는 TRC 조절에 필수가 아닙니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42995914/) · [DOI](https://doi.org/10.64898/2026.10.19.760262) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13738565/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42995914)</small>
 
 ---
 <a id="pmid-42999371"></a>
@@ -241,23 +342,6 @@ Transcription-replication conflicts (TRCs) arise from spatiotemporal interferenc
 - 연구에서는 독성 모니터링을 통해 안전성을 지속적으로 평가합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05132504) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05132504)</small>
-
----
-<a id="nct-nct01174121"></a>
-#### [전이성 암 환자를 위한 종양 침윤 림프구(TIL)를 이용한 면역요법](https://clinicaltrials.gov/study/NCT01174121)
-<small>Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` `신경내분비종양` · 2010-08-03 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.77
-
-**NCT01174121** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01174121.md)
-
-본 임상시험은 표준 항암화학요법에 불응한 전이성 상·하부 위장관암, 간담도암, 비뇨기생식기암, 유방암, 난소암/자궁내막암, 내분비 종양(신경내분비 종양 포함) 환자를 대상으로 합니다. 환자의 종양에서 분리·배양한 자가 종양 침윤 림프구(TIL)와 고용량 aldesleukin(알데스류킨), 림프구 고갈성 항암화학요법(cyclophosphamide, fludarabine), 그리고 pembrolizumab(펨브롤리주맙) 병용 투여의 안전성과 종양 축소 효과를 평가합니다. 2상 단계로 진행되며 목표 인원은 최대 332명입니다. 초록에 명시된 구체적인 반응률이나 생존기간 수치는 초록에 명시되지 않음.
-
-- 대상 질환: 표준 치료에 실패한 전이성 췌장암을 포함한 소화기암, 유방암, 난소암 등.
-- 중재 방법: 자가 종양 침윤 림프구(TIL) 세포치료제, pembrolizumab(Keytruda), aldesleukin, 림프구 고갈 전처치(cyclophosphamide, fludarabine) 병용.
-- 목표 인원: 최대 332명, 국내 기관: 0곳.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT01174121) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01174121)</small>
 
 ---
 <a id="pmid-42994110"></a>
@@ -734,23 +818,6 @@ Transcription-replication conflicts (TRCs) arise from spatiotemporal interferenc
 - 선행요법이나 방사선치료를 포함해 이전에 췌장암 전신 치료를 받지 않은 환자만을 대상으로 합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07900789) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07900789)</small>
-
----
-<a id="nct-nct05688215"></a>
-#### [경계성 절제 가능 및 국소 진행성 췌장선암 환자를 대상으로 한 짐베렐리맙(Zimberelimab) 및 켐리클루스타트(Quemliclustat)와 항암화학요법 병용 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05688215)
-<small>Zimberelimab and Quemliclustat in Combination With Chemotherapy for the Treatment of Patients With Borderline Resectable and Locally Advanced Pancreatic Adenocarcinoma</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2023-01-18 · ClinicalTrials.gov · Jonsson Comprehensive Cancer Center · 중요도 0.90
-
-**NCT05688215** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05688215.md)
-
-이 임상시험은 수술이 불확실한 경계성 절제 가능(borderline resectable) 또는 주변 조직 및 림프절로 침범한 국소 진행성(locally advanced) 췌장선암 환자를 대상으로 진행됩니다. 면역관문억제제인 짐베렐리맙(zimberelimab)과 아데노신 억제제인 켐리클루스타트(quemliclustat)를 복합 항암화학요법인 mFOLFIRINOX(폴피리녹스: 옥살리플라틴, 이리노테칸, 류코보린, 플루오로우라실)와 병용 투여합니다. 경계성 절제 가능 환자에서는 수술 절제율과 췌장루 발생 여부 등을 평가하며, 국소 진행성 환자에서는 무진행 생존기간(PFS)을 주요 목표로 평가합니다. 표준 항암요법에 면역 및 대사 조절 약물을 병용하여 항암 효과를 극대화할 수 있는지 확인하고자 합니다.
-
-- 이전에 치료받은 적 없는 경계성 절제 가능 또는 국소 진행성 췌장선암 환자 56명을 대상으로 진행되는 1/2상 임상시험입니다.
-- mFOLFIRINOX 항암요법에 PD-1 억제제 짐베렐리맙과 아데노신 차단제 켐리클루스타트를 병용 투여합니다.
-- 주요 평가 항목은 안전성, 경계성 절제 가능 코호트의 수술 절제율 및 췌장루 발생률, 국소 진행성 코호트의 무진행 생존기간(PFS)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05688215) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05688215)</small>
 
 ---
 <a id="nct-nct07748611"></a>
@@ -2299,81 +2366,5 @@ Transcription-replication conflicts (TRCs) arise from spatiotemporal interferenc
 - CDKN2A 돌연변이는 재발 위험 증가(위험비 1.69, 95% CI 1.19-2.39)와 관련이 있었으며, KRAS 돌연변이는 비돌연변이형 대비 불량한 병리학적 반응과 연관되었습니다(오즈비 4.45).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42870132/) · [DOI](https://doi.org/10.1007/s12094-026-04564-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42870132)</small>
-
----
-<a id="pmid-42873430"></a>
-#### [수술을 받은 췌장관선암 환자의 진단 및 치료 지연과 건강의 사회적 결정요인의 연관성](https://pubmed.ncbi.nlm.nih.gov/42873430/)
-<small>Association of Social Determinants of Health with Delays in Diagnosis and Treatment of Resected Pancreatic Ductal Adenocarcinoma (PDAC)</small>
-
-`논문` `관찰연구` `수술` `진단·조기발견` `치료 전반` · 2026-10-14 · PubMed · Ann Surg Oncol · 중요도 0.77
-
-이 연구는 수술을 받은 췌장관선암(PDAC) 환자에서 건강의 사회적 결정요인(SDoH)이 진단 및 치료 지연에 미치는 영향을 분석했습니다. 2016년부터 2024년까지 고용량 의료기관에서 수술을 받은 317명의 환자를 대상으로 보험 상태, 소득, 교육 수준 등의 요인을 조사했습니다. 연구 결과 첫 영상 검사부터 조직 진단까지 중앙값은 11일, 치료 시작까지는 중앙값 40일이 소요되었습니다. 외래 환자군에서는 메디케어(Medicare) 보험 환자가 사보험 환자에 비해 진단 지연 위험이 높았고, 응급실 내원 환자군에서는 교육 수준이 높을수록 진단 및 치료 지연 위험이 유의하게 낮았습니다.
-
-- 첫 영상 검사에서 조직 진단까지 중앙값은 11일(사분위범위 3~27일), 치료 시작까지는 중앙값 40일(사분위범위 27~59일)이 걸렸습니다.
-- 외래 환자에서 메디케어 보험 적용자는 사보험자에 비해 진단 지연 위험이 3.34배 높았으며, 고소득은 치료 지연 위험을 최대 84% 낮췄습니다.
-- 응급실로 내원한 환자에서는 높은 교육 수준이 진단 지연(OR 0.27) 및 치료 지연(OR 0.33)의 위험을 낮추는 요인이었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42873430/) · [DOI](https://doi.org/10.1245/s10434-026-20419-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42873430)</small>
-
----
-<a id="pmid-42866548"></a>
-#### [정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42866548/)
-<small>Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review</small>
-
-`논문` `종설` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-10-08 · PubMed · Int Med Case Rep J · 중요도 0.72
-
-결핵 유행 지역에서도 극히 드문 질환인 췌장 결핵(Pancreatic TB)이 임상적 및 영상의학적으로 췌장 악성 종양과 매우 유사하게 나타난 증례 보고입니다. 34세 아프가니스탄 남성이 췌장 머리 부분에 57×30 mm 크기의 종괴가 발견되어 췌장암 의심 하에 휘플 수술(Whipple resection)을 받았습니다. 수술 후 조직 검사에서 결핵균(Mycobacterium tuberculosis)에 의한 건락성 육아종성 염증으로 최종 진단되었으며 항결핵제 치료가 시작되었습니다. 환자는 10개월간의 추적 관찰 동안 재발 없이 안정적인 상태를 유지했습니다.
-
-- 복부 CT에서 췌장 머리에 57×30 mm 크기의 다낭성 저음영 종괴와 경미한 CA19-9 상승을 보여 수술 전 췌장암으로 강하게 의심되었습니다.
-- 휘플 수술 후 시행된 조직 검사 및 질-닐슨(Ziehl-Neelsen) 염색을 통해 결핵균 양성 췌장 결핵으로 확진되었습니다.
-- 결핵 유행 지역 출신의 젊은 환자에서 췌장 종괴가 관찰될 경우 내시경 초음파 유도하 세침흡인/생검(EUS-FNA/FNB) 등을 통해 불필요한 침습적 수술을 피할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866548/) · [DOI](https://doi.org/10.2147/IMCRJ.S638587) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13656929/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866548)</small>
-
----
-<a id="pmid-42872478"></a>
-#### [3기 췌관선암 환자에서 비가역적 전기천공법(IRE) 치료와 전체 생존기간의 연관성: DIRECT 등록연구 결과](https://pubmed.ncbi.nlm.nih.gov/42872478/)
-<small>Association of Irreversible Electroporation Treatment with Overall Survival in Stage III Pancreatic Ductal Adenocarcinoma: DIRECT Registry Results</small>
-
-`논문` `관찰연구` `치료 전반` `수술` `임상시험` · 2026-10-14 · PubMed · Oncologist · 중요도 0.71
-
-3기 국소진행성 췌관선암(PDAC) 환자에서 비가역적 전기천공법(IRE) 치료 전략이 표준 치료(SOC) 대비 생존기간 연장과 연관이 있는지 분석한 다기관 관찰연구입니다. DIRECT 등록연구에 등록된 환자 137명 중 99명은 IRE 기반 치료를, 38명은 IRE 없는 표준 치료를 받았습니다. 보정 분석 결과 IRE 치료군은 표준 치료군에 비해 사망 위험이 낮고 24개월 제한적 평균 생존기간(RMST)이 길었습니다. 다만 시간 의존성 분석에서 효과 크기가 줄어든 점과 비무작위 연구라는 특성상 인과관계보다는 연관성을 보여주는 결과로 해석됩니다.
-
-- 보정 전 전체 생존기간(OS) 중앙값은 IRE 치료군 28개월, 표준 치료군 15개월이었습니다.
-- 성향점수 중첩 가중 분석 결과 IRE 치료군에서 사망 위험이 낮게 나타났습니다(위험비 0.28, 95% CI 0.12-0.48).
-- IRE를 시간 가변 요인으로 다룬 시간 의존성 콕스 분석에서도 연관성은 유지되었으나 위험비는 0.59(95% CI 0.37-0.94)로 완화되었습니다.
-- 24개월 시점의 제한적 평균 생존기간(RMST)은 IRE 치료군이 21.22개월로 표준 치료군(16.24개월) 대비 4.99개월 더 길었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42872478/) · [DOI](https://doi.org/10.1093/oncolo/oyag416) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42872478)</small>
-
----
-<a id="pmid-42872722"></a>
-#### [복강경 십이지장 보존 췌장 두경부 절제술](https://pubmed.ncbi.nlm.nih.gov/42872722/)
-<small>Laparoscopic Duodenum-Preserving Pancreatic Head and Neck Resection</small>
-
-`논문` `기타` `수술` · 2026-10-13 · PubMed · J Vis Exp · 중요도 0.70
-
-췌장 두경부의 양성 및 저도 악성 종양(장액성 낭선종, 신경내분비종양, 췌관내 유두상 점액종양 등)에서 기존 췌십이지장절제술은 신체적 부담과 구조 변화가 컸습니다. 십이지장과 담관을 보존하는 십이지장 보존 췌두부 절제술(DPPHR)은 장기 기능을 유지할 수 있으나 복강경으로 시행하기에는 기술적 난도가 매우 높습니다. 연구진은 수술 전 3차원 시각화 계획과 수술 중 인도시아닌그린(ICG) 형광 및 증강현실(AR) 내비게이션을 결합한 최적화된 복강경 절제술 프로토콜을 제시했습니다. 본 보고는 해당 수술 절차의 기술적 실행 가능성을 시연한 것으로, 안전성과 유효성을 입증하기 위해 향후 대규모 환자군 평가가 필요하다고 밝혔습니다.
-
-- 십이지장 및 담관을 보존하여 정상 생리적 구조와 기능을 유지하는 복강경 췌두경부 절제술 술기를 시연했습니다.
-- 수술 전 3D 시각화와 수술 중 ICG 형광 및 AR 내비게이션을 활용하여 췌십이지장 동맥궁을 보존하고 출혈 및 췌장루(POPF) 위험을 낮추고자 했습니다.
-- 췌장 절제면은 변형 Blumgart 췌장공장문합술로 재건하였으며, 안전성과 효과는 추가적인 대규모 연구 평가가 필요합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42872722/) · [DOI](https://doi.org/10.3791/74203) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42872722)</small>
-
----
-<a id="pmid-42866755"></a>
-#### [경계성 절제 가능 췌관선암: 서술적 고찰](https://pubmed.ncbi.nlm.nih.gov/42866755/)
-<small>Borderline resectable pancreatic ductal adenocarcinoma: a narrative review</small>
-
-`논문` `종설` `수술` `치료 전반` `진단·조기발견` · 2026-09-02 · PubMed · Ann Med Surg (Lond) · 중요도 0.62
-
-이 종설 논문은 경계성 절제 가능(Borderline Resectable) 췌관선암(PDAC)의 진단, 치료 및 관리 접근법에 대한 최신 지견을 종합했습니다. 과거에는 수술이 불가능한 것으로 여겨졌으나, 선행 화학요법(neoadjuvant chemotherapy)의 발전으로 수술적 절제 가능성이 점차 높아지고 있습니다. 수술 전 선행 치료가 우선적으로 고려되지만, 최적의 치료법 선택 및 치료 불응 환자의 조기 선별에 관한 데이터는 여전히 제한적입니다. 선행 치료 후 절제 가능성을 평가하기 위해 다중검출기 컴퓨터단층촬영(MDCT), CA19-9, 양전자 방출 단층촬영(PET) 등이 활용되고 있습니다.
-
-- 경계성 절제 가능 췌장암은 선행 화학요법의 발전에 힘입어 절제율이 점차 향상되고 있습니다.
-- 수술 전 선행 치료가 최선의 선택이지만, 최적 치료 요법 선택과 불응군 조기 식별을 위한 근거는 아직 제한적입니다.
-- 선행 치료 후 절제 가능성 평가는 MDCT, CA19-9, PET 등을 종합적으로 활용하여 진행됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866755/) · [DOI](https://doi.org/10.1097/MS9.0000000000005565) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657568/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866755)</small>
 
 ---

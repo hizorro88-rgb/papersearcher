@@ -1,0 +1,123 @@
+{
+ "abstract": "The purpose of this Interventional clinical trial is to evaluate safety and efficacy of 'IMD10 (focused ultrasound)' in the treatment of borderline resectable pancreatic cancer or locally advanced pancreatic cancer.\n\n* Background: Pancreatic Cancer (PaC) ranks as the 5th most common cause of cancer-related deaths in the Western world. Despite medical advances, PaC continues to have a dismal 5-year survival rate of only 8%. Since the pancreas is in the retroperitoneal cavity, there are few specific symptoms in the early stages, and cancer tissue grows relatively quickly, meaning it is often already advanced at the time of diagnosis.\n* Study Design: This is a multinational, randomized, pivotal clinical trial conducted at multiple sites in the United States and the Republic of Korea. Eligible participants will be randomized in a 1:1 ratio to experimental group or control group.\n* Interventions: Participants in the experimental group will receive chemotherapy regimen \\[irinotecan hydrochloride, oxaliplatin, fluorouracil (5-FU) and leucovorin\\] with IMD10.\n\nParticipants in the control group will receive chemotherapy regimen \\[irinotecan hydrochloride, oxaliplatin, fluorouracil (5-FU) and leucovorin\\] alone.\n\n* Outcome Measures: The primary outcome measure is overall survival. Overall survival (OS) is defined as the time from the date of randomization to the date of death due to any cause. For participants still alive at the time of analysis, the OS time is censored on the last date the participants were known to be alive.\n* Follow-up: Participants will be followed for safety and survival until the end of study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07325214",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07325214"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-01-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "IMGT Co., Ltd.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07325214"
+ },
+ "summary_ko": "The purpose of this Interventional clinical trial is to evaluate safety and efficacy of 'IMD10 (focused ultrasound)' in the treatment of borderline resectable pancreatic cancer or locally advanced pancreatic cancer. * Background: Pancreatic Cancer (PaC) ranks as the 5th most common cause of cancer-related deaths in the Western world.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Focused Ultrasound"
+ ],
+ "title": "Chemotherapy With or Without IMD10 (Focused Ultrasound) in the Treatment of Borderline Resectable or Locally Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Borderline Resectable Pancreatic Cancer",
+   "Locally Advanced Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "jeongmin.jang@nanoimgt.com",
+    "name": "Jeongmin Jang",
+    "phone": "+82-70-5080-2438"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\nAn individual must meet all the following criteria:\n\n-1. Willing and able to understand and sign an ICF and to comply with all aspects of the protocol\n\n* 2\\. Aged between 18 and 85 years, inclusive\n* 3\\. Histologically or cytologically, pathologically confirmed diagnosis of PDAC.\n* 4\\. Classification as BRPC or LAPC according to the NCCN Guidelines (The latest Edition) by radiologic test (CT or MRI), eligible for chemotherapy regimen within 4 weeks of the screening visit\n* 5\\. Must have at least 1 measurable lesion per RECIST 1.1 criteria at the screening visit.\n* 6\\. The ECOG performance status 0 or 1\n* 7\\. Trial participant having laboratory values defined as:\n\n  \\-- Neutrophil count ≥ 1.5 x 109/L\n  * Platelet count ≥ 100 x 109/L\n  * AST and ALT ≤ 2.5 x ULN\n  * Serum creatinine ≤ 1.5 x ULN\n* 8\\. Life expectancy is more than 12 weeks\n* 9\\. A female is eligible to trial participate if not pregnant, not breast feeding -and either a woman not of childbearing potential or, if a woman of childbearing potential agrees to use highly effective methods of contraception from screening to EOS\n* 10\\. A male trial participant with female partner(s) of childbearing potential agrees to use highly effective methods of contraception from screening to EOS\n\nExclusion Criteria:\n\nAn individual who meets any of the following criteria will be excluded from participating in this clinical trial:\n\n* 1\\. The presence of a cystic lesion within tumor to be treated, or at the pancreas adjacent to the treated tumor.\n* 2\\. Extensive scars or surgical clips observed in the region through which the ultrasound beam will pass\n* 3\\. Targeted tumor(s) is not clearly visible with IMD10.\n* 4\\. Tumor is not treatable by the working range of IMD10\n* 5\\. Patient has difficulty in lying in supine position.\n* 6\\. Known history of severe hypersensitivity to ultrasound gel or to chemotherapies (irinotecan hydrochloride, oxaliplatin, fluorouracil (5-FU) and leucovorin) used in this clinical trial\n* 7\\. Known, or ongoing receipt at the time of screening, of anti-tumor therapy for pancreatic cancer including chemotherapy, radiation, and/or surgery\n* 8\\. A cardiovascular condition at the time of the screening visit that deems trial participation inappropriate due to one or more of the following:\n\n  * Class III or IV heart failure according to New York Heart Association (NYHA) classification\n\n    * Acute coronary syndrome (unstable angina or myocardial infarction) within the last 24 weeks --③ Uncontrolled heart arrhythmia\n\n      * Other clinically significant cardiovascular abnormalities as determined by the investigator\n* 9\\. Known history at the time of the screening visit that deems trial participation inappropriate due to one or more of the following:\n\n  * Other uncontrolled chronic infectious diseases\n\n    * Active autoimmune disease (e.g., rheumatoid arthritis, systemic lupus erythematosus, ulcerative colitis, Crohn's disease, multiple sclerosis, ankylosing spondylitis, etc.)\n\n      * Congenital or acquired immunodeficiency diseases, such as cellular immunodeficiency, hypogammaglobulinemia, and hypergammaglobulinemia.\n\n        * Clinically significant mental illness\n* 10\\. Known history of malignancies other than pancreatic cancer within the last 2 years\n* 11\\. Known history of major surgery within 4 weeks of the cycle 1 day 1 (C1D1)\n* 12\\. Pregnant and breastfeeding women\n* 13\\. Participating in another drug/device clinical trial or have participated in another drug/device clinical trial within 4 weeks of C1D1\n* 14\\. Trial participation in the clinical trial is deemed inappropriate at the investigator's discretion, either for ethical reasons or due to potential impact on the clinical trial's outcome",
+  "enrollment": 366,
+  "has_results": false,
+  "interventions": [
+   "IMD10",
+   "chemotherapy regimen [irinotecan hydrochloride, oxaliplatin, fluorouracil (5-FU) and leucovorin]"
+  ],
+  "last_update_posted": "2026-11-09",
+  "location_countries": [
+   "South Korea",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Gyeonggi-do",
+    "country": "South Korea",
+    "facility": "Seoul National University Bundang Hospital,",
+    "status": "NOT_YET_RECRUITING"
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": "NOT_YET_RECRUITING"
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced",
+    "resectable"
+   ],
+   "source": "rules"
+  },
+  "max_age": "85 Years",
+  "min_age": "18 Years",
+  "n_locations": 5,
+  "nct_id": "NCT07325214",
+  "phase": "NA",
+  "primary_completion_date": "2030-01",
+  "sex": "ALL",
+  "sponsor": "IMGT Co., Ltd.",
+  "start_date": "2026-11-04",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

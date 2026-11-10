@@ -16,12 +16,30 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 168건 · 최근 30일 130건
+전체 170건 · 최근 30일 127건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43002664"></a>
+#### [PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent](https://pubmed.ncbi.nlm.nih.gov/43002664/)
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Med Internet Res · 중요도 0.77
+
+BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002664/) · [DOI](https://doi.org/10.2196/101607) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002664)</small>
+
+---
+<a id="pmid-43001179"></a>
+#### [New-Onset Diabetes as a Red Flag for Pancreatic Cancer: From Metabolic Clues to Earlier Detection in Primary Care](https://pubmed.ncbi.nlm.nih.gov/43001179/)
+`논문` `종설` `진단·조기발견` `지지요법·삶의질` · 2026-10-09 · PubMed · Cureus · 중요도 0.62
+
+Pancreatic ductal adenocarcinoma (PDAC) is usually diagnosed at an advanced stage and carries a poor prognosis. In a subset of patients, new-onset diabetes may be an early metabolic manifestation preceding the cancer diagnosis, and its recognition in primary care could help identify people at increased risk, although the benefit of using this association for earlier detection remains uncertain.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001179/) · [DOI](https://doi.org/10.7759/cureus.117696) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744758/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001179)</small>
+
+---
 <a id="nct-nct05969860"></a>
 #### [진행성 암 환자를 위한 재택 항암 치료 대 병원 내 치료 비교 임상시험](https://clinicaltrials.gov/study/NCT05969860)
 <small>At-Home Cancer Directed Therapy Versus in Clinic for the Treatment of Patients With Advanced Cancer</small>
@@ -1973,84 +1991,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 환자는 gemcitabine과 nab-paclitaxel 병용 항암화학요법을 받았으며, 4개월 추적 관찰 시 영상학적으로 질병 안정(SD)을 보였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857438/) · [DOI](https://doi.org/10.7759/cureus.116015) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13652551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857438)</small>
-
----
-<a id="nct-nct07864571"></a>
-#### [진행성 췌장암 1차 치료에서 젬시타빈 및 냅-파클리탁셀 병용에 L-글루타민 추가 병용 여부를 비교하는 2상 임상시험](https://clinicaltrials.gov/study/NCT07864571)
-<small>Trial of First-line Gemcitabine and Nab-paclitaxel With or Without L-glutamine in Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2026-10-08 · ClinicalTrials.gov · Jun Gong, MD · 중요도 0.87
-
-**NCT07864571** · 2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07864571.md)
-
-이전 치료 경험이 없는 수술 불가능 또는 전이성 췌관선암 환자를 대상으로 진행되는 무작위 배정 2상 임상시험입니다. 표준 1차 요법인 gemcitabine(젬시타빈) 및 nab-paclitaxel(냅-파클리탁셀) 요법에 L-glutamine(L-글루타민)을 병용한 치료와 표준 항암 단독 치료의 임상적 유효성을 비교 평가합니다. 주요 목적은 치료 효과(객관적 반응률, 무진행 생존기간)와 안전성 외에도 체중 및 체성분 측정을 통한 악액질(cachexia) 개선 효과를 확인하는 것입니다. 총 200명의 환자가 등록될 예정이며, 대사체 및 장내 미생물 등의 바이오마커 분석도 함께 진행됩니다.
-
-- 수술 불가능 또는 전이성 췌관선암 환자 200명을 대상으로 젬시타빈+냅-파클리탁셀에 L-글루타민을 추가 병용하는 요법을 평가합니다.
-- 종양 반응률과 무진행 생존기간(PFS)뿐만 아니라 암 환자의 체중 유지 및 악액질 개선 효과를 비교합니다.
-- 전이성 질환에 대해 전신 항암치료를 받은 적이 없는 1차 치료 대상 환자만 참여할 수 있습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07864571) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07864571)</small>
-
----
-<a id="pmid-42852719"></a>
-#### [선행화학요법 창(The Neoadjuvant Window): 췌장암 치료 중 근감소증의 연속적 평가](https://pubmed.ncbi.nlm.nih.gov/42852719/)
-<small>The Neoadjuvant Window: Serial Assessment of Sarcopenia During Treatment for Pancreatic Cancer</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-10-09 · PubMed · Am Surg · 중요도 0.75
-
-이 연구는 2011년부터 2021년까지 췌관선암(pancreatic adenocarcinoma)으로 췌장절제술(pancreatectomy)을 받은 환자 72명을 대상으로 선행치료(neoadjuvant therapy) 전후의 근감소증(sarcopenia) 변화를 후향적으로 분석했습니다. 전체 환자의 57%가 진단 시 근감소증을 가지고 있었으며, 선행치료 후 15.6%는 새로 발생하고 18.8%는 회복되었습니다. 선행치료를 받은 환자들은 수술 전 영양 상담 비율이 높았고 수술 후 알부민(albumin) 수치가 더 높았으며, 선행치료 자체는 수술 후 합병증을 유의하게 증가시키지 않았습니다. 초록에 명시된 바와 같이, 선행치료 기간은 췌장절제술 전 근감소증 평가와 영양적 최적화를 위한 기회를 제공할 수 있습니다.
-
-- 총 72명의 환자 중 32명은 선행치료를, 40명은 선행수술을 받았습니다.
-- 진단 시 전체 환자의 57%에게서 근감소증이 관찰되었습니다.
-- 선행치료 후 15.6%의 환자에게 근감소증이 새로 생겼고 18.8%는 회복되었습니다.
-- 기저 근감소증은 수술 후 합병증 증가와 연관이 있었습니다(교차비 OR 13.696; 95% 신뢰구간 2.537-73.921).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42852719/) · [DOI](https://doi.org/10.1177/00031348261495994) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42852719)</small>
-
----
-<a id="pmid-42854340"></a>
-#### [수술 후 급격한 근육 소실은 조기 췌장암의 예후를 예측하는 강력한 인자입니다: 대만 다기관 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42854340/)
-<small>Drastic muscle wasting following surgery is a strong predictor of prognosis in early-stage pancreatic cancer-a Taiwanese multicenter cohort study</small>
-
-`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-09 · PubMed · Cancer Treat Res Commun · 중요도 0.75
-
-수술이 가능한 조기 췌장암 환자 284명을 대상으로 수술 전 근감소증(sarcopenia)과 수술 후 근육 소실이 치료 경과에 미치는 영향을 분석했습니다. 분석 결과, 수술 전 근감소증은 수술 직후 합병증 발생 위험을 유의하게 높였습니다. 반면 장기 생존율에는 수술 전 근감소증보다 수술 후 3개월 이내에 발생한 급격한 근육 소실이 훨씬 더 결정적인 악영향을 미쳤습니다. 연구진은 수술 후 환자의 근육량 감소를 면밀히 평가하고 관리하는 것이 장기 예후에 중요하다고 밝혔습니다.
-
-- 전체 환자 중 52.4%(149명)가 수술 전 근감소증을 겪었으며, 31.0%(88명)는 수술 후 17% 이상의 급격한 근육 소실을 보였습니다.
-- 수술 전 근감소증은 전체 합병증(P=0.001) 및 주요 합병증(P=0.038) 위험을 높였으나, 무병 생존기간(P=0.812)이나 전체 생존기간(P=0.238)과는 유의한 상관이 없었습니다.
-- 수술 후 17% 이상의 급격한 근육 소실은 무병 생존기간(P=0.005) 및 전체 생존기간(P<0.001) 단축을 독립적으로 예측하는 유의미한 불량 인자였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854340/) · [DOI](https://doi.org/10.1016/j.ctarc.2026.101468) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854340)</small>
-
----
-<a id="pmid-42854074"></a>
-#### [췌장 미부 및 비장 문부 영역의 거대 낭성 림프관종을 일괄 절제술로 치료한 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42854074/)
-<small>Giant cystic lymphangioma in the pancreatic tail-splenic hilum region managed by en bloc resection: A case report</small>
-
-`논문` `증례` `수술` `진단·조기발견` `지지요법·삶의질` · 2026-10-09 · PubMed · Medicine (Baltimore) · 중요도 0.64
-
-이 논문은 췌장 미부와 비장 문부(splenic hilum) 영역에 발생한 드문 거대 다방성 낭성 림프관종(cystic lymphangioma) 환자의 증례를 보고합니다. 43세 여성이 지속적인 좌상복부 통증으로 내원했으며, 영상 검사를 통해 160x110 mm 크기의 거대 낭성 병변이 확인되었습니다. 병변이 주변 장기와 밀착되어 있어 원위부 췌장 절제술(distal pancreatectomy), 비장 절제술(splenectomy), 담낭 절제술(cholecystectomy)을 포함한 일괄 절제술(en bloc resection)을 시행했습니다. 환자는 수술 후 췌장루(biochemical leak)가 발생했으나 추가 시술 없이 회복하여 수술 후 11일째에 퇴원했습니다.
-
-- 43세 여성 환자에게서 췌장 미부와 비장 문부 영역에 걸쳐 160x110 mm 크기의 거대 낭성 림프관종이 발견되었습니다.
-- 병변이 췌장 미부 및 비장 문부에 조밀하게 유착되어 있어 원위부 췌장 절제술과 비장 절제술을 포함한 일괄 절제술을 시행했습니다.
-- 수술 후 1일째 배액관 아밀라아제는 1264 U/L, 3일째는 3337 U/L로 측정되어 생화학적 췌장루(biochemical leak) 소견을 보였습니다.
-- 환자는 추가적인 치료 없이 회복하여 수술 후 11일째에 퇴원했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42854074/) · [DOI](https://doi.org/10.1097/MD.0000000000051000) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42854074)</small>
-
----
-<a id="doi-10.64898-2026.10.02.756162"></a>
-#### [장암 및 췌장암 마우스 모델의 악액질 진행 중 상이한 철분 대사 조절 양상](https://europepmc.org/article/PPR/PPR1338235)
-<small>Distinct iron metabolism regulation during cachexia progression in murine models of intestinal and pancreatic cancer</small>
-
-`프리프린트` `전임상` `지지요법·삶의질` `기초연구` · 2026-10-08 · Europe PMC (preprint) · bioRxiv · 중요도 0.50
-
-암 악액질(cancer cachexia)은 전신 염증과 근육 위축을 동반하는 복합 증후군으로 철분 대사 조절에 영향을 미칠 수 있습니다. 본 연구는 악액질 발생률이 높은 췌장암(UN-KC-6141) 및 대장암(ApcMin/+) 마우스 모델을 활용하여 철분 대사 조절 특성을 비교 분석했습니다. 연구 결과 두 암종 모두 악액질을 유발하지만 철분 대사 조절 방식은 뚜렷하게 다른 양상을 보였습니다. 특히 췌장암 모델에서는 빈혈 없이 염증에 의해 헵시딘(hepcidin)이 증가하고 비장에 철분이 축적되는 반면, 대장암 모델에서는 빈혈과 함께 전신 철분 결핍이 두드러졌습니다.
-
-- 췌장암 마우스 모델에서는 빈혈 없이 혈장 트랜스페린 포화도가 감소(-9.6%, p<0.001)하고, 간 헵시딘 합성이 증가(+100.6%, p<0.001)하여 비장에 철분이 저류(+134%, p<0.001)되었습니다.
-- 췌장암 모델의 위축된 비복근에서는 페리틴(+86.6%, p=0.010) 및 헴단백질 발현이 증가하여 근육 내 철분 농도가 유지되었습니다.
-- 악액질 환자의 철분 대사 이상은 악액질의 중증도보다 기저 암종의 특성에 의해 더 크게 좌우되므로 암 유형에 맞춘 철분 관리가 필요함을 시사합니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1338235) · [DOI](https://doi.org/10.64898/2026.10.02.756162) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.02.756162)</small>
 
 ---

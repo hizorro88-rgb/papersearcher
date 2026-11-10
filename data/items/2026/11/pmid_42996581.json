@@ -19,7 +19,7 @@
   "gem-nabp",
   "whipple"
  ],
- "evidence": "rct",
+ "evidence": "observational",
  "first_seen": "2026-11-09",
  "history": [
   {
@@ -29,8 +29,12 @@
   }
  ],
  "id": "pmid:42996581",
- "importance": 0.85,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 196명의 췌장두부암 환자를 선행 수술(112명), NAC-GnP(45명), NAC-GS(39명) 그룹으로 나누어 치료 결과를 비교했습니다.",
+  "수술 전 선행 항암요법(NAC) 치료군과 선행 수술군 간에 전체 생존기간(OS) 및 무재발 생존기간(RFS), 완전 절제율(R0)의 유의미한 차이가 관찰되지 않았습니다.",
+  "치료 시작 전 당사슬항원 19-9(CA19-9) 수치가 37 U/mL 이상인 경우가 전체 생존기간 악화의 독립적인 위험 요인으로 확인되었습니다."
+ ],
  "last_updated": "2026-11-09",
  "links": {
   "doi": "10.21037/jgo-2026-0892",
@@ -52,11 +56,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42996581/"
  },
- "summary_ko": "BACKGROUND: Neoadjuvant chemotherapy (NAC) with gemcitabine plus S-1 (GS) is the standard treatment for resectable pancreatic cancer (PC) in Japan. More intensive regimens, such as gemcitabine plus nab-paclitaxel (GnP), are widely used globally.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 해부학적으로 수술 가능한 췌장두부암 환자를 대상으로 수술 전 선행 항암요법(NAC)의 효과를 평가한 후향적 코호트 연구입니다. 췌두십이지장절제술(PD)을 받은 196명의 환자를 선행 수술(UF 112명), gemcitabine(젬시타빈)+nab-paclitaxel(납-파클리탁셀) 선행치료(NAC-GnP 45명), gemcitabine+S-1 선행치료(NAC-GS 39명) 그룹으로 나누어 비교했습니다. 연구 결과 수술 전 선행 항암요법 시행 여부에 따른 전체 생존기간(OS) 및 무재발 생존기간(RFS)의 유의미한 차이는 관찰되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study",
- "title_ko": null,
+ "title_ko": "수술 가능한 췌장두부암에서 표준 수술 전 선행 항암요법(젬시타빈+S-1)의 효과 재평가: 단일 기관 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

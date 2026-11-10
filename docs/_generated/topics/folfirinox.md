@@ -17,7 +17,7 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (72)
+## 관련 임상시험 (73)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -74,7 +74,7 @@ search:
 | [PLATINUM 임상시험: BRCA1/2 또는 PALB2 변이 전이성 췌장암의 2차 치료를 위한 항암화학요법 최적화](../trials/NCT06115499.md) | 2상/3상 | 진행 중(모집 종료) | - |
 | [진행성 췌장암 환자에서 OT-101과 mFOLFIRINOX 병용요법을 평가하는 임상시험](../trials/NCT06079346.md) | 2상/3상 | 모집 중 | - |
 | [국소 췌장관선암 환자에서 수술 전 면역항암제와 방사선 치료 병용 임상시험](../trials/NCT06048484.md) | 2상 | 모집 중 | - |
-| [경계성 절제 가능 및 국소 진행성 췌장선암 환자를 대상으로 한 짐베렐리맙(Zimberelimab) 및 켐리클루스타트(Quem…](../trials/NCT05688215.md) | 1상/2상 | 모집 중 | - |
+| [수술 경계성 및 국소 진행성 췌장암 환자를 대상으로 한 짐베렐리맙(zimberelimab) 및 퀘믈리클루스타트(quemlic…](../trials/NCT05688215.md) | 1상/2상 | 모집 중 | - |
 | [진행성 또는 전이성 고형암 환자에서 IMM-1-104의 제1/2a상 연구](../trials/NCT05585320.md) | 1상/2상 | 진행 중(모집 종료) | - |
 | [수술 가능 췌장암 환자에서 수술 전후 mFOLFIRINOX 치료 비교를 위한 3상 임상시험(NeoFOL-R)](../trials/NCT05529940.md) | 3상 | 모집 중 | 2 |
 | [진행성 위장관 암 환자에서 단독 또는 병용 요법으로 Spevatamig(PT886)의 안전성과 유효성을 평가하는 임상시험(T…](../trials/NCT05482893.md) | 1상/2상 | 모집 중 | - |
@@ -84,6 +84,7 @@ search:
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [수술 가능 췌장암 환자에서 선행화학요법 FOLFIRINOX와 pembrolizumab 병용 후 수술](../trials/NCT05132504.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
+| [Efficacy of Gembrax Followed by Folfirinox Versus Folfirinox Alone in…](../trials/NCT05065801.md) | 2상 | 진행 중(모집 종료) | - |
 | [췌장선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법 2상 임상시험](../trials/NCT04926467.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 | [췌장암 환자의 신체 기능 향상을 위한 원격 근력 운동 중재 연구 (PancStrength 연구)](../trials/NCT04837118.md) | 해당 없음 | 진행 중(모집 종료) | - |

@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is usually diagnosed at an advanced stage and carries a poor prognosis. In a subset of patients, new-onset diabetes may be an early metabolic manifestation preceding the cancer diagnosis, and its recognition in primary care could help identify people at increased risk, although the benefit of using this association for earlier detection remains uncertain. This narrative review examines the clinical and biological relationship between new-onset diabetes and PDAC and evaluates current strategies for risk stratification, including clinical risk scores such as the Enriching New-onset Diabetes for Pancreatic Cancer (ENDPAC) score, circulating biomarkers, polygenic scoring, and machine-learning models, to identify high-risk populations that could benefit from early detection and to assess whether these tools are ready for routine use. PDAC-associated diabetes differs from typical type 2 diabetes: it tends to occur in older individuals, is accompanied by unexplained weight loss, and progresses more rapidly. Risk-prediction scores perform well in their derivation cohorts but discriminate less well on external validation, and candidate biomarkers, alone or in multi-marker panels, show promising but not yet prospectively confirmed discrimination. Models integrating clinical and genetic data also show promising discrimination, yet none has been shown to detect PDAC earlier or to improve survival. New-onset diabetes may therefore be a warning sign of pancreatic cancer, but current evidence does not support screening of all affected patients; clinical features, biomarkers, and genetic information may help identify a higher-risk subgroup, and further studies are needed before these tools enter routine practice.",
+ "authors": [
+  "Camacho-Flores L",
+  "Alvarez A",
+  "Bonet Vazquez R",
+  "Benet P",
+  "Alfonso García CB",
+  "Marti Del Rio M"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43001179",
+ "importance": 0.62,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.7759/cureus.117696",
+  "nct": [],
+  "pmcid": "PMC13744758",
+  "pmid": "43001179"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43001179/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is usually diagnosed at an advanced stage and carries a poor prognosis. In a subset of patients, new-onset diabetes may be an early metabolic manifestation preceding the cancer diagnosis, and its recognition in primary care could help identify people at increased risk, although the benefit of using this association for earlier detection remains uncertain.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "New-Onset Diabetes as a Red Flag for Pancreatic Cancer: From Metabolic Clues to Earlier Detection in Primary Care",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

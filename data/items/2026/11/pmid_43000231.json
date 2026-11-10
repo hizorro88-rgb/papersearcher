@@ -1,0 +1,55 @@
+{
+ "abstract": "BACKGROUND: To investigate the feasibility of preoperative prediction of lymph node metastasis in patients with pancreatic ductal adenocarcinoma (PDAC) using habitat imaging (HI) based on dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) combined with clinical and imaging features.\nMETHODS: A retrospective analysis was conducted on 62 patients with pancreatic ductal adenocarcinoma, including 22 patients in the lymph node metastasis (LNM)-positive group and 40 patients in the LNM-negative group. The U-test or t-test was used to compare differences in clinical features, imaging features and interpretable imaging phenotypes between the two groups. Spearman correlation analysis was performed, and Partial Least Squares Regression (PLS) was selected as the primary modeling method. Clinical model, habitat model and combined model were established to predict lymph node metastasis. Receiver operating characteristic (ROC) curves based on five-fold cross-validation were used to evaluate the diagnostic performance of the models.\nRESULTS: CA19-9, Spatial Separation, Spatial Calinski-Harabasz, Kinetic Separation, Kinetic Davies-Bouldin and Kinetic Silhouette Coefficient showed statistically significant differences between the two groups (all P < 0.05). Spatial Separation, Kinetic Separation, Kinetic Davies-Bouldin Index, Kinetic Silhouette Coefficient and CA19-9 levels were correlated with lymph node metastasis in PDAC (r = - 0.326, - 0.326, - 0.27, 0.302, and 0.3, respectively; all P < 0.05). ROC curve analysis indicated that the combined model demonstrated significantly improved predictive performance compared with the clinical model (P = 0.042), whereas no statistically significant differences were observed between the combined and habitat models (P = 0.121) or between the habitat and clinical models (P = 0.243).\nCONCLUSIONS: Habitat imaging based on DCE-MRI was effective in predicting lymph node metastasis in PDAC, and integrating habitat and clinical information may improve model discrimination ability.",
+ "authors": [
+  "Du YN",
+  "Hu DR",
+  "Chen M",
+  "Pan X",
+  "Zhang JG",
+  "Chen J"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43000231",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1186/s12880-026-02652-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43000231"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Med Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000231/"
+ },
+ "summary_ko": "BACKGROUND: To investigate the feasibility of preoperative prediction of lymph node metastasis in patients with pancreatic ductal adenocarcinoma (PDAC) using habitat imaging (HI) based on dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) combined with clinical and imaging features. METHODS: A retrospective analysis was conducted on 62 patients with pancreatic ductal adenocarcinoma, including 22 patients in the lymph node metastasis (LNM)-positive group and 40 patients in the LNM-neg…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Feasibility study of habitat imaging based on DCE-MRI combined with clinical and imaging features for predicting lymph node metastasis in patients with pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

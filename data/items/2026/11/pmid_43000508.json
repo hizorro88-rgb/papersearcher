@@ -1,0 +1,53 @@
+{
+ "abstract": null,
+ "authors": [
+  "Holmström MO",
+  "Hübbe ML",
+  "Chen IM",
+  "Andersen MH"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43000508",
+ "importance": 0.6,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1038/s41392-026-03088-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43000508"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Signal Transduct Target Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000508/"
+ },
+ "summary_ko": "원문을 확인하세요.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,104 @@
+{
+ "abstract": "The aim of this study is to evaluate the efficacy of sequential treatment (Gabrinox) comprising Gembrax regimen (Gemcitabine -Abraxane) followed by the Folfirinox regimen (5FU, Oxaliplatin and Irinotecan) compared to folfirinox alone in patients treated in first metastatic line pancreatic cancer\n\nPancreatic cancer is the third leading cause of cancer death in 2016, surpassing breast cancer. It is estimated that by 2030 pancreatic cancer will become the second leading cause of cancer death after lung cancer.\n\nIts prognosis is very poor, with a 5-year overall survival rate (OS) at all stages of 5.5%.\n\nIn France, its incidence doubled in men and tripled in women between 1982 and 2012. The World Standardized Rate (MSR) for men and women respectively was 4.9% and 2% in 1980 and 10.2% and 6.9% in 2012. This means an annual rate of change of 2.3 for men to 3.9 for women.\n\nIts diagnosis is often late, carried out in 50% of cases at stage 4, with limited treatment options, explaining its low survival rate at 5 years.\n\nUntil 2011, gemcitabine remained the only validated standard with a median survival of 6 months.\n\nMany combinations with gemcitabine have been evaluated but have shown no significant survival advantage over Gemzar alone.\n\nThe most promising results reported to date remain the combination of oxaliplatin, irinotecan and 5 fluoro-uracil (FOLFIRINOX), which became the standard metastatic first-line treatment thanks to the results of the phase III study, ACCORD11, randomizing gemcitabine to FFX with for the first time, a significant gain in median survival, progression-free survival and response rate in favor of the experimental arm of 6.8 months vs. 11.1 months respectively (\\[HR 0.57, 95 % IC, 0.45-0.7 3\\];p\\<0.001), 3.3vs6.4 (\\[HR 0.47, 95 % IC, 0.37- 0.59\\];p\\<0.001) et de 9.4 % vs 31.6 % ; p\\>0.001.\n\nIn 2013, the combination gemcitabine nab-paclitaxel (GEMBRAX) showed, in a randomized phase III study, compared to gemcitabine, a significant gain in terms, median survival, survival without progression and response rate in favor of the experimental arm, respectively for gemcitabine vs GEMBRAX, 6.7 months vs 8.5 months (\\[HR 0.72, 95 % IC, 0.62-0.83\\];p\\<0.001) ; 3.7vs 5.5. (\\[HR 0.69, 95 % IC, 0.58- 0.82\\];p\\<0.001) et de 7 % vs 23% ; p\\>0.001.\n\nFOLFIRINOX and GEMBRAX, two chemotherapy protocols which have shown their effectiveness in the 1st metastatic line with a gain in terms of response rate, progression-free survival and median survival but with increased grade 3/4 toxicities, compared to treatment with gemcitabine.\n\nFor FOLFIRINOX: a neutropenia rate of 45.7% vs 21% including 5.4% of febrile neutropenia vs 1.2, a rate of diarrhea of 12.7% vs 1.8% and peripheral neuropathies of 9% vs 0\n\nFor GEMBRAX neutropenia 38% VS 27% including 3% febrile neutropenia VS 1%, 6% diarrhea vs 1% and peripheral neuropathy 17% vs 1%:\n\nGiven the high toxicities, only patients with favorable performance status are eligible to receive these regimens.\n\nThe sponsor therefore considered a new concept of sequential GABRINOX treatment combining GEMBRAX followed by FOLFIRINOX, which should make it possible, by reducing toxicities, to increase the response rate and at the same time progression-free survival and median survival.\n\nThe sponsor performed a phase 1/2 study evaluating this GABRINOX protocol with the main objective of determining the maximum tolerated dose and increasing the response rate. Phase 2 is encouraging with a disease control rate and an objective response rate of 84.2% and 64.9% respectively, progression-free survival at 10.5 months and overall survival at 15.1 months as well as a more favorable safety profile compared to non-sequential treatments (less neutropenia 34.5%, febrile neutropenia 3.5% and neurotoxicity 5.2%).\n\nThese encouraging results led the investigator to propose a phase 2 study comparing the standard first-line treatment regimen FOLFIRINOX with the sequential regimen GABRINOX with the main objective of comparing efficacy in terms of objective response rate.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05065801",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05065801"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2021-10-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05065801"
+ },
+ "summary_ko": "The aim of this study is to evaluate the efficacy of sequential treatment (Gabrinox) comprising Gembrax regimen (Gemcitabine -Abraxane) followed by the Folfirinox regimen (5FU, Oxaliplatin and Irinotecan) compared to folfirinox alone in patients treated in first metastatic line pancreatic cancer\n\nPancreatic cancer is the third leading cause of cancer death in 2016, surpassing breast cancer. It is estimated that by 2030 pancreatic cancer will become the second leading cause of cancer death after …",
+ "summary_source": "excerpt",
+ "tags": [
+  "pancreatic",
+  "cancer"
+ ],
+ "title": "Efficacy of Gembrax Followed by Folfirinox Versus Folfirinox Alone in First Metastatic Line Pancreatic Cancer Patients",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n1. Male or female aged 18 to 75 on the date the consent is signed.\n2. Histologically or cytologically proven metastatic pancreatic adenocarcinoma. The definitive diagnosis of pancreatic adenocarcinoma metastases will be made by integrating the histopathological data in the context of the radiological data.\n3. One or more metastatic lesion (s) measurable (Recist 1.1) by Thoraco-Abdomino-Pelvic scanner (or hepatic MRI and Thoraco-Abdomino-Pelvic scanner not injected, if the patient is allergic to the product of contrast).\n4. Previous treatment (including radiochemotherapy) for the non-metastatic disease authorized if a delay ≥ 6 months between the last treatment and the recurrence is respected.\n5. WHO performance status ≤ 1\n6. Uracilemia \\<16 ng / ml\n7. Acceptable hematological assessment at inclusion (obtained within 14 days before the start of treatment) defined by: • Neutrophils ≥ 2 × 109 / L; • Platelets ≥ 100,000 / mm3 (100 × 109 / L); • Hemoglobin ≥ 9 g / dl.\n8. Acceptable renal and hepatic function at inclusion (obtained within 14 days before the start of treatment) defined by: • AST and ALT ≤ 2.5 x upper limit of the norm (ULN), unless liver metastases are present in this case AST and ALT ≤ 5 × ULN is allowed; • Total bilirubin ≤ 1.5 x ULN; • Serum creatinine within the norm limits or calculated clearance ≥ 50ml / min for patients with a serum creatinine value above or below the norm values (clearance calculated by the CKD-EPI formula).\n9. Calcemia AND magnesemia AND kalaemia ≥ LLN and ≤ 1.2 x ULN\n10. If the patient is sexually active, he must agree to use contraception deemed adequate and appropriate by the investigator throughout the period of administration of the study drug and up to 6 months after discontinuation of treatment for women and for men.\n11. Signature of consent before any procedure specific to the study.\n12. Affiliated with the French national social security.\n\nExclusion Criteria:\n\n1. Known brain metastasis.\n2. Previous treatment with radiotherapy, surgery, chemotherapy or experimental therapy for the treatment of metastatic disease.\n3. Major surgery, other than diagnostic surgery (that is, surgery done to obtain a diagnostic biopsy without organ harvesting), within 4 weeks of day 1 of study treatment.\n4. Known Gilbert's syndrome or homozygous for know UGT1A1 \\* 28\n5. Other concomitant cancer or history of cancer, except cervical cancer in situ treated, skin basal or squamous cell carcinoma, superficial bladder tumor (Ta, Tis, and T1) or a tumor with a good prognosis treated curatively without chemotherapy and without any sign of disease in the 3 years preceding inclusion.\n6. Patients with high cardiovascular risk, including, but not limited to, coronary stent or myocardial infarction within the past 6 months.\n7. Peripheral sensory neuropathy ≥ grade 2 at the time of inclusion.\n8. ECG with a QTc interval greater than 450 ms for men and greater than 470 ms for women\n9. Any other concomitant and unbalanced disease or serious disturbance that may interfere with the patient's participation in the study and his safety during the study (eg severe hepatic, renal, pulmonary, metabolic, or psychiatric disorders)\n10. Allergy or intolerance to any study drug (gemcitabine, nab-paclitaxel, oxaliplatin, irinotecan, 5-FU) or any excipient (e.g., fructose) as described in the sections \" contraindication or special warnings and precautions\" or \"prescribing information\" of the summary of product characteristics indications.\n11. Pregnant or breastfeeding women. Women of childbearing potential must have a negative pregnancy test (serum β-hCG) within 72 hours prior to inclusion.\n12. Patients on vitamin K antagonists (e.g., Coumadin) (modifications to treatment may be required prior to inclusion).\n13. Treatment with brivudine within 4 weeks before or after treatment with 5-fluorouracil (due to a potentially fatal interaction).\n14. Active and uncontrolled bacterial, viral, or fungal infections requiring systemic treatment.\n15. Active HIV infection, known hepatitis B or C infection.\n16. History of peripheral arterial disease (e.g., claudication, Buerger's disease), chronic inflammatory bowel disease or rectal disease, pulmonary fibrosis or interstitial pneumonia.\n17. Administration of a live attenuated vaccine within 10 days before inclusion and up to 6 months post-treatment.\n18. Patient refusal or inability to comply with study procedures.\n19. Inability to undergo follow-up for geographical, social, or psychological reasons.\n20. Participation in another clinical trial involving an investigational product within the 30 days prior to inclusion.\n21. Legal incapacity (patient under guardianship or guardianship).",
+  "enrollment": 162,
+  "has_results": false,
+  "interventions": [
+   "GEMBRAX/FOLFIRINOX Arm A",
+   "FOLFIRINOX Arm B"
+  ],
+  "last_update_posted": "2026-11-09",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 8,
+  "nct_id": "NCT05065801",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-04-30",
+  "sex": "ALL",
+  "sponsor": "Institut du Cancer de Montpellier - Val d'Aurelle",
+  "start_date": "2022-01-11",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic cancer is among the most prevalent ones, and its diagnosis typically occurs in the latter stages. Traditional chemotherapy is usually limited by low tumour penetration, systemic toxicity, and drug resistance. The new method of drug delivery utilizing nanotechnology has proven an effective strategy for addressing these shortcomings by improving drug solubility, efficacy, targeted distribution, and pharmacokinetic properties. This review addresses the genesis of pancreatic cancer, detection, current therapy, and all aspects discussed in carrier-based drug delivery modalities. A specific focus is placed on different types of lipid-based nanocarriers and nanoemulsions, the peculiarities of their formulation, and experimental results. These nanocarriers have been critically reviewed with respect to clinical benefits, therapeutic potential, and translational progress. Besides, new patent regulatory issues regarding nanomedicines for pancreatic cancer. Although there were good clinical outcomes, issues of standardization and control need to be addressed by the solution before nanocarrier-based therapies can be applied in the clinic. Future advancements in personalized nanomedicine, biomarker-guided targeting, and AI-assisted formulation strategies may further enhance the therapeutic efficacy and diagnostic precision of lipid-based nanocarriers in pancreatic ductal adenocarcinoma (PDAC). In addition, the integration of nanocarrier systems with combination immunotherapy and precision medicine approaches holds significant promise for improving clinical translation and patient-specific treatment outcomes.",
+ "authors": [
+  "Nagdev S",
+  "Tantray J",
+  "Yadav MK",
+  "Patel A",
+  "Sharma S",
+  "Singh AK",
+  "Sharma M",
+  "Kumar D"
+ ],
+ "categories": [
+  "diagnosis",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43000459",
+ "importance": 0.62,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1007/s00432-026-06560-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43000459"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-07-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Cancer Res Clin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000459/"
+ },
+ "summary_ko": "Pancreatic cancer is among the most prevalent ones, and its diagnosis typically occurs in the latter stages. Traditional chemotherapy is usually limited by low tumour penetration, systemic toxicity, and drug resistance.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Theranostic lipid nanocarriers for precision diagnosis and targeted therapy in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

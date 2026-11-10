@@ -1,0 +1,63 @@
+{
+ "abstract": "PURPOSE: To estimate the relative and absolute risks (ARs) for ovarian, prostate, male and female breast, pancreatic, biliary tract, and colorectal cancers associated with germline BARD1 pathogenic and likely pathogenic variants (PVs/LPVs) because these risks have not previously been reported from a genotype-first perspective.\nMETHODS: We performed a secondary retrospective analysis of multicenter data comprising 445 three-generation pedigrees with confirmed BARD1 PVs/LPVs from 25 institutions nationwide. Data were aggregated at the family-relatedness level. The risks were estimated using a Bayesian survival model that incorporated information from the Surveillance, Epidemiology, and End Results (SEER) Program.\nRESULTS: We confirmed the previously established increased risk for female breast cancer (relative risk [RR] = 3.53; 95% CI, 1.95 to 5.81; posterior probability [PP] = 0.0040) and found positive associations with female pancreatic cancer (RR = 3.76 [95% CI, 2.16-7.25]; PP < .0001), male pancreatic cancer (RR = 2.89 [95% CI, 1.66 to 5.61]; PP < .0001), and prostate cancer (RR = 3.02 [95% CI, 1.95 to 4.71]; PP < .0001). The predictive ARs to age 85 were 41.84% (95% CI, 23.09 to 68.91) for female breast cancer, 4.80% (95% CI, 2.76 to 9.25) for female pancreatic cancer, 3.98% (95% CI, 2.29 to 7.73) for male pancreatic cancer, and 36.11% (95% CI, 23.29 to 56.29) for prostate cancer. Risk estimates suggest an association for male breast, ovarian, and female colorectal cancers; however, the clinical significance is unclear, and these findings warrant cautious interpretation. In contrast, we found no evidence of association for biliary tract cancer or male colorectal cancer.\nCONCLUSION: These results support BARD1's association with female breast cancer and suggest associations with pancreatic and prostate cancers. These findings have potential implications for genetic counseling and personalized risk management for male and female BARD1 PV/LPV heterozygotes.",
+ "authors": [
+  "Homer JP",
+  "Demeure MJ",
+  "Yao Y",
+  "Hanson K",
+  "Ramczyk B",
+  "Lichtenberg EC",
+  "Cohen SA",
+  "Crow K"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43002722",
+ "importance": 0.67,
+ "key_points_ko": [
+  "BARD1 변이 보유자의 췌장암 상대 위험도(RR)는 여성에서 3.76배(95% CI 2.16-7.25), 남성에서 2.89배(95% CI 1.66-5.61)로 유의하게 높았습니다.",
+  "85세까지의 평생 예측 절대 위험도(AR)는 여성 췌장암 4.80%, 남성 췌장암 3.98%, 여성 유방암 41.84%, 전립선암 36.11%로 추정되었습니다.",
+  "담도암 및 남성 대장암과의 연관성은 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1200/PO-26-00417",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43002722"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Precis Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002722/"
+ },
+ "summary_ko": "BARD1 유전자의 생식세포 병원성 변이(germline pathogenic variants)를 보유한 445개 가계를 대상으로 여러 암종의 발생 위험을 분석한 다기관 후향적 연구입니다. 분석 결과 BARD1 변이는 기존에 알려진 여성 유방암 외에도 췌장암과 전립선암의 발생 위험을 유의하게 높이는 것으로 확인되었습니다. 85세까지의 예측 누적 암 발생 위험(절대 위험도)은 여성 췌장암 4.80%, 남성 췌장암 3.98%로 나타났습니다. 이 결과는 BARD1 변이 보인자를 위한 유전 상담 및 맞춤형 암 조기 검진 계획 수립에 중요한 근거가 됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cancer Risks Associated With Germline BARD1 Pathogenic/Likely Pathogenic Variants: A Multicenter Study of 445 Families",
+ "title_ko": "생식세포 BARD1 병원성 변이와 관련된 암 발생 위험: 445개 가계 대상 다기관 연구",
+ "trial": null,
+ "type": "paper"
+}

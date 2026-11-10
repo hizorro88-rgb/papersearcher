@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed, but clinically relevant postoperative pancreatic fistula (CR-POPF) remains a major complication. This study evaluated a modified Blumgart pancreaticojejunostomy (PJ) technique in LPD.\nMETHODS: This retrospective study included 217 consecutive patients who underwent LPD between January 2021 and December 2025. 102 in the modified Blumgart group and 115 in the conventional Blumgart group. 1:1 propensity score matching (PSM) was performed using 12 covariates based on the Fistula Risk Score model. The primary outcome was CR-POPF. Univariate and multivariate logistic regression identified independent risk factors, and exploratory subgroup analyses were conducted.\nRESULTS: After PSM, 78 patients remained in each group. In the entire cohort, the modified group had a significantly lower CR-POPF rate (6.9% vs. 17.4%, p = 0.019) and fewer abdominal infections (5.9% vs. 15.7%, p = 0.022). After PSM, CR-POPF remained lower in the modified group (7.7% vs. 17.9%, p = 0.055), and abdominal infection remained significantly reduced (6.4% vs. 16.7%, p = 0.045). Multivariate analysis identified PDAC pathology (OR = 0.233, p = 0.022) and modified anastomosis (OR = 0.383, p = 0.041) as independent protective factors in the entire cohort. Subgroup analysis revealed that the protective effect was shown in patients with a main pancreatic duct > 3 mm (OR = 0.176, p = 0.008; PSM cohort: OR = 0.169, p = 0.027; p for interaction = 0.070 and 0.111, respectively).\nCONCLUSIONS: The modified Blumgart PJ is safe and effective in LPD, reducing CR-POPF and abdominal infection. Its protective effect is shown in patients with a main pancreatic duct > 3 mm.",
+ "authors": [
+  "Teng L",
+  "Wang S",
+  "Li H",
+  "Yang J",
+  "Zhou H",
+  "Fan Y",
+  "Yao G"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43000926",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1002/wjs.70659",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43000926"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "World J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000926/"
+ },
+ "summary_ko": "BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed, but clinically relevant postoperative pancreatic fistula (CR-POPF) remains a major complication. This study evaluated a modified Blumgart pancreaticojejunostomy (PJ) technique in LPD.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

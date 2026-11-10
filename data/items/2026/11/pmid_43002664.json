@@ -1,0 +1,57 @@
+{
+ "abstract": "BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians. Large language models (LLMs) offer new opportunities for clinical information support; however, existing applications are often task-specific and rarely combine CT report interpretation with perioperative consultation within a unified patient-oriented framework.\nOBJECTIVE: This study aimed to develop and retrospectively evaluate PancreaGuide, a knowledge-augmented LLM agent designed to support clinician-supervised CT report-based interpretation of pancreatic cancer resectability-related information and standardized perioperative consultation.\nMETHODS: We developed PancreaGuide, an agent-based framework integrating structured prompting, retrieval-augmented generation, and a domain-specific pancreatic surgery knowledge base to support clinical information interpretation and perioperative consultation. A retrospective cohort of 444 patients who underwent contrast-enhanced CT at West China Hospital between 2023 and 2025 was analyzed. Three LLMs, ChatGPT, DeepSeek, and Gemini, were evaluated in both base and PancreaGuide-integrated configurations. CT report-based interpretation of resectability-related information was evaluated using accuracy, sensitivity, specificity, positive predictive value, negative predictive value, F1-score, receiver operating characteristic curves (ROCs), and decision curve analysis (DCA) using a surgery-based proxy reference. Perioperative consultation quality was evaluated across 5 dimensions: accuracy, completeness, consistency, safety, and robustness.\nRESULTS: Higher classification metric point estimates were observed after integration of the PancreaGuide framework across all 3 backbone models. In CT report-based interpretation of resectability-related information, Gemini+ achieved the highest accuracy of 87.4% (95% CI 0.840-0.902) and a sensitivity of 95.9% (95% CI 0.927-0.978). All models showed improved sensitivity and specificity estimates after PancreaGuide integration, with improved agreement between model-generated interpretations and observed surgical management status. ROC and DCA suggested improved discrimination and estimated net benefit using the surgery-based proxy reference. In perioperative consultation, PancreaGuide-integrated models received higher expert-rated scores than their corresponding base models across all 5 evaluation dimensions. Gemini+ achieved the highest overall score (mean 3.88, SD 0.38), followed by ChatGPT+ (mean 3.8, SD 10.36) and DeepSeek+ (mean 3.75, SD 0.35). The greatest improvements were observed in completeness and robustness, with consistent gains across clinical consultation domains.\nCONCLUSIONS: PancreaGuide provides a unified, knowledge-augmented framework for clinician-supervised CT report-based interpretation of resectability-related information and perioperative information support across multiple LLM backbones. The CT-based findings should be interpreted as agreement with observed surgical management status rather than validation against an independently adjudicated anatomical resectability. PancreaGuide may serve as an auxiliary information interpretation framework to improve the accessibility and consistency of clinical information delivery, while it should not replace formal radiological assessment, multidisciplinary evaluation, or clinician judgment.",
+ "authors": [
+  "Kuang T",
+  "Wang R",
+  "Zhang S",
+  "Sun Y",
+  "Zhou J",
+  "Wu Z",
+  "Peng B"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43002664",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.2196/101607",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43002664"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Internet Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002664/"
+ },
+ "summary_ko": "BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

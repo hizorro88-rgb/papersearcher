@@ -1,0 +1,56 @@
+{
+ "abstract": "Background Metastatic pancreatic ductal adenocarcinoma (mPDAC) is associated with poor prognosis and has limited therapeutic options. Nanoliposomal irinotecan (Nal-IRI), evaluated in the NAPOLI-1 and NAPOLI-3 clinical trials, has demonstrated survival benefit in later-line and first-line settings, respectively. However, real-world data, particularly from low- and middle-income countries (LMICs) such as India, remain limited. We aimed to evaluate the real-world tolerability and early effectiveness of nal-IRI-based regimens in Indian patients with mPDAC. Methods This multicentre, retrospective observational study included 24 patients with histologically confirmed mPDAC treated with nal-IRI-based regimens (either nal-IRI + 5-FU/LV or nal-IRI + 5-FU/LV + oxaliplatin) between June 2024 and September 2025. The primary objective was to assess tolerability using CTCAE v5.0-graded adverse events (AEs). Secondary objectives included early effectiveness outcomes, assessed by overall survival (OS) using the Kaplan-Meier method. Restricted mean survival time (RMST) was calculated at three- and six-month landmarks due to limited follow-up. Results The mean age was 63.7 years (SD 6.89), and 75% of patients were male. Nal-IRI was administered in the first-line setting in six patients and in second or later lines in 18 patients. The median follow-up was four months. A total of 55 AEs were reported, most commonly diarrhea (20%), fatigue (12.7%), and mucositis and neutropenia (10.9% each). Among graded events, 26.4% were grade 1, 39.6% were grade 2, and 34.0% were grade 3. Dose modifications were required in 36.5% of events, and treatment discontinuation due to AEs occurred in 11.5% of events. Kaplan-Meier-estimated OS probabilities at three and six months were 95% and 88%, respectively, with an RMST of 2.89 months up to three months and 5.57 months up to six months. Conclusions In this multicentre real-world Indian cohort, nal-IRI-based regimens demonstrated manageable tolerability. These findings support the feasibility of nal-IRI in routine clinical practice and provide important real-world evidence (RWE) from an underrepresented population. However, survival outcomes were exploratory because of the short follow-up and high degree of censoring. Larger prospective studies with longer follow-up are warranted.",
+ "authors": [
+  "Mv C",
+  "Mittal S",
+  "Dodagoudar C",
+  "Bakshi C"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "nalirifox"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43001195",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.7759/cureus.117689",
+  "nct": [],
+  "pmcid": "PMC13744743",
+  "pmid": "43001195"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-09",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43001195/"
+ },
+ "summary_ko": "Background Metastatic pancreatic ductal adenocarcinoma (mPDAC) is associated with poor prognosis and has limited therapeutic options. Nanoliposomal irinotecan (Nal-IRI), evaluated in the NAPOLI-1 and NAPOLI-3 clinical trials, has demonstrated survival benefit in later-line and first-line settings, respectively.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Real-World Tolerability and Effectiveness of Nanoliposomal Irinotecan in Metastatic Pancreatic Cancer: A Multicentre Indian Experience",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

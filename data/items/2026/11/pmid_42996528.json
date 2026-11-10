@@ -8,11 +8,12 @@
   "Song X"
  ],
  "categories": [
-  "treatment",
-  "diagnosis"
+  "basic",
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-09",
  "history": [
   {
@@ -22,8 +23,12 @@
   }
  ],
  "id": "pmid:42996528",
- "importance": 0.65,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "SPP1 발현이 낮은 췌장관선암 환자군에서 양호한 예후가 확인되었습니다.",
+  "SPP1 발현량은 대식세포(macrophage) 침윤 추정치와 유의미한 연관성을 보였습니다.",
+  "병리조직학적 특징과 연령을 결합한 예후 모델은 붓스트랩 보정 C-지수(C-index) 0.715 및 보정 12개월 AUC 0.766의 예측 성능을 나타냈습니다(log-rank P < 0.0001)."
+ ],
  "last_updated": "2026-11-09",
  "links": {
   "doi": "10.3389/fonc.2026.1923860",
@@ -45,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42996528/"
  },
- "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy characterized by an immunosuppressive tumor microenvironment (TME). METHODS: In this study, we investigated the prognostic and immunological relevance of SPP1 in PDAC through integrative analyses of public transcriptomic datasets, single-cell resources, and tissue-based assessments.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장관선암(PDAC)에서 SPP1 유전자의 예후 및 면역학적 관련성을 분석했습니다. 공공 전사체 데이터와 조직 평가를 통해 SPP1 발현이 낮을수록 췌장암 환자의 예후가 양호함을 확인했습니다. 연구진은 병리조직학(pathomics) 특징 2가지와 연령을 결합한 예후 예측 모델을 개발하고 검증했습니다. 이 모델은 고위험군과 저위험군 환자 간의 생존율 차이를 유의미하게 구분했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "SPP1-associated pathomics features for prognostic modeling in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관선암의 예후 모델링을 위한 SPP1 관련 병리조직학적 특징",
  "trial": null,
  "type": "paper"
 }

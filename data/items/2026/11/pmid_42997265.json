@@ -7,10 +7,11 @@
   "Ma K"
  ],
  "categories": [
-  "basic"
+  "basic",
+  "drug"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-09",
  "history": [
   {
@@ -20,8 +21,12 @@
   }
  ],
  "id": "pmid:42997265",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "단일 세포 분석을 통해 췌장암 예후와 연관된 5개 핵심 유전자(SEMA3C, PMP22, CPE, SNX9, UACA)를 발굴했습니다.",
+  "췌장암 세포주(PANC-1, Capan-2)에서 SEMA3C 유전자를 억제(siRNA)하자 세포 생존력, 이동성, 침윤성이 감소했습니다.",
+  "분자 도킹 예측 결과 쿠메스트롤(Coumestrol)이 SNX9 단백질과 안정적으로 결합(예측 결합 에너지 -7.5 kcal/mol)할 가능성이 확인되었습니다."
+ ],
  "last_updated": "2026-11-09",
  "links": {
   "doi": "10.1155/humu/7172433",
@@ -44,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42997265/"
  },
- "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has dismal outcomes and is shaped by a fibroblast-rich tumor microenvironment (TME). A cell type-resolved, module-level understanding of cancer-associated fibroblasts (CAFs) and their therapeutic relevance remains incompletely characterized.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 수술을 통해 얻은 췌관선암(PDAC) 조직의 단일 세포 RNA 시퀀싱(scRNA-seq) 데이터를 통합 분석하여 암 관련 섬유아세포(CAF)의 주요 유전자 모듈을 규명했습니다. 분석 결과 SEMA3C, PMP22, CPE, SNX9, UACA 등 5개 유전자가 전체 생존기간(OS)과 유의하게 연관되어 있음을 확인했습니다. 세포 실험에서 SEMA3C 유전자를 억제한 결과 췌장암 세포의 증식, 이동, 침윤 능력이 감소했습니다. 컴퓨터 분자 도킹 분석에서는 쿠메스트롤(Coumestrol) 성분이 SNX9 단백질과 결합할 가능성이 제시되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Single-Cell RNA Sequencing-Integrated Fibroblast Markers and Candidate Drug-Target Associations in Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암종에서 단일 세포 RNA 시퀀싱 기반 섬유아세포 표지자 및 후보 약물-표적 연관성 분석",
  "trial": null,
  "type": "paper"
 }

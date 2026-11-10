@@ -1,0 +1,59 @@
+{
+ "abstract": "OBJECTIVE: To assess the prognostic utility of the Metro-Pancreas framework in resectable pancreatic ductal adenocarcinoma (PDAC) treated with neoadjuvant chemotherapy (NAT) and resection.\nSUMMARY BACKGROUND DATA: Upfront surgery and NAT are options in anatomically resectable PDAC. Metro-Pancreas combines tumor size and CA 19-9 to stratify prognosis after upfront resection, but its applicability after NAT is unknown.\nMETHODS: We analyzed 623 patients with nonmetastatic, anatomically resectable PDAC who underwent NAT followed by resection from 5 institutions (2016-2024). Metro-Pancreas classification (IN/OUT) was determined by tumor size and CA19-9 levels. Treatment response followed NCCN 2026 definition based on radiologic and biochemical changes. Postoperative disease-free survival (DFS) and overall survival (OS) were evaluated.\nRESULTS: At diagnosis, 263 patients (42.2%) were Metro-Pancreas OUT and had shorter postoperative DFS (13.3 vs. 16.7 mo; P=0.003) and OS (29.5 vs. 34.8 mo; P=0.006) than Metro-Pancreas IN patients. After NAT, 71.9% of OUT patients were reclassified as IN, while 5.0% of initially IN patients became OUT. Among baseline OUT patients, 35.7% had significant response, 46.0% had minimal response, and 18.3% had progression. Prognostic separation was greater at Metro-Pancreas restaging (DFS: 7.7 vs. 17.3 mo; OS: 15.8 vs. 36.7 mo; both P=0.001). Patients reclassified from OUT to IN had postoperative DFS and OS comparable to those initially IN (P=0.806 and P=0.631, respectively).\nCONCLUSIONS: Among patients undergoing resection after NAT, Metro-Pancreas stratified prognosis at diagnosis and more effectively at restaging. Reclassification from OUT to IN was associated with favorable postoperative survival, supporting dynamic prognostic reassessment in the neoadjuvant setting.",
+ "authors": [
+  "Cucchetti A",
+  "Malleo G",
+  "Crippa S",
+  "Qiao G",
+  "Busset MDD",
+  "Rapposelli IG",
+  "Casciani F",
+  "Belfiori G"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43001041",
+ "importance": 0.73,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1097/SLA.0000000000007253",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43001041"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43001041/"
+ },
+ "summary_ko": "OBJECTIVE: To assess the prognostic utility of the Metro-Pancreas framework in resectable pancreatic ductal adenocarcinoma (PDAC) treated with neoadjuvant chemotherapy (NAT) and resection. SUMMARY BACKGROUND DATA: Upfront surgery and NAT are options in anatomically resectable PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Metro-Pancreas Stratifies Survival After Neoadjuvant Chemotherapy and Surgery for Resectable Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

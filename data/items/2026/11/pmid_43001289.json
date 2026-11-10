@@ -1,0 +1,56 @@
+{
+ "abstract": "BACKGROUND: Colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC) are two of the most frequently occurring and lethal cancers. Although numerous studies have investigated their transcriptional, molecular, and immunological landscapes, our current understanding remains incomplete. Both cancers pose major clinical challenges, and better understanding of their molecular and immunological profiles is needed to improve patient outcomes.\nMETHODS: We conducted total RNA sequencing and liquid chromatography-mass spectrometry-based proteomic profiling of 29 diagnostic biopsies from both primary tumors and metastatic sites in 16 CRC and 11 PDAC patients. Due to a lack of tissue, PDAC primary tumors were only analyzed by proteomics. Data analysis involved RNA-to-protein correlation analysis, multidimensional scaling, sample-to-sample Pearson correlations visualized as heatmaps with unsupervised clustering, differential expression analysis, gene ontology (GO) enrichment analysis, and immune cell deconvolution using CIBERSORTx.\nRESULTS: Analyzing all available biopsies, RNA sequencing identified 46,492 expressed transcripts and proteomic analysis detected 6973 proteins, with 5563 genes common to both datasets. The mean absolute RNA-to-protein Spearman correlation was 0.241. In CRC, exploratory differential expression analysis identified 5 transcripts and 99 proteins differing between metastases and primary tumors. In PDAC, metastasis-to-primary tumor comparison was limited to proteomics and identified 305 differentially expressed proteins. In unsupervised clustering based on sample-to-sample correlation, CRC and PDAC biopsies formed two separate clusters. GO enrichment analysis demonstrated distinct patterns of up- and downregulation across molecular functions, cellular components, and biological processes in metastases compared with primary tumors. Inferred immune cell fractions indicated high levels of CD4 T memory resting cells and M0 macrophages.\nCONCLUSIONS: This exploratory study supports the feasibility of combined RNA sequencing and proteomic profiling from limited FFPE diagnostic biopsies and highlights proteomics as an important complement to transcriptomics. These findings enhance our understanding of biological and immunological heterogeneity and require further validation in larger independent cohorts for future development of prognostic markers and novel immunotherapeutic strategies.",
+ "authors": [
+  "Nordlund V",
+  "Haram M",
+  "Hofsli E",
+  "Røe OD",
+  "Davies CL",
+  "Mjelle R"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-10",
+ "history": [
+  {
+   "date": "2026-11-10",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43001289",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-10",
+ "links": {
+  "doi": "10.1016/j.bbrep.2026.102846",
+  "nct": [],
+  "pmcid": "PMC13745044",
+  "pmid": "43001289"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43001289/"
+ },
+ "summary_ko": "BACKGROUND: Colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC) are two of the most frequently occurring and lethal cancers. Although numerous studies have investigated their transcriptional, molecular, and immunological landscapes, our current understanding remains incomplete.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "RNA sequencing and proteomic analysis of diagnostic biopsies from colorectal and pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
