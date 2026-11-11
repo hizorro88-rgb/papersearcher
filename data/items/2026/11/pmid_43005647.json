@@ -1,0 +1,63 @@
+{
+ "abstract": "Percutaneous ultrasound-guided thermal ablation has become an established treatment modality for liver tumors, providing advantages such as minimal invasiveness, reliable local tumor control, and rapid recovery. However, tumors located near the hepatic pedicle pose a major technical challenge. The hepatic pedicle, comprising the hepatic artery, portal vein, and bile duct, is highly vulnerable to thermal injury. Conventional ablation in this region carries significant risks of iatrogenic biliary stenosis, vascular injury, segmental hepatic ischemia, and liver insufficiency.We report the case of a 55-year-old man who underwent distal pancreatectomy with splenectomy for moderately differentiated pancreatic ductal adenocarcinoma (maximum diameter, 3.8 cm). Postoperative pathological examination revealed perineural invasion and intravascular tumor thrombus. Follow-up imaging showed a metastatic lesion in the right hepatic lobe immediately adjacent to the right hepatic pedicle. Given the challenging tumor location and the patient's prior surgical history, percutaneous ablation was considered a favorable treatment option. However, the risk of thermal injury to the hepatic pedicle using a conventional ablation trajectory was unacceptably high. Therefore, we developed a novel technique, termed \"perihilar co-ablation\", using the Co-ablation System. Under ultrasound guidance, the ablation probe was advanced along a safe perihilar trajectory, taking advantage of real-time ice-ball visualization to achieve complete tumor ablation while the adjacent hepatic pedicle structures were not damaged. Post-ablation imaging demonstrated complete coverage of the tumor by the ablation zone, with no residual tumor present, and the hepatic pedicle structure was also preserved.The patient recovered uneventfully and was discharged on postoperative day 2. At the 6-month follow-up, no tumor recurrence or procedure-related complications were observed. This perihilar co-ablation technique may be applicable to patients who were originally deemed unsuitable for or at high risk for traditional ablation treatments. Larger prospective studies with longer follow-up are required to evaluate its safety and efficacy.",
+ "authors": [
+  "Fu R",
+  "Shi B",
+  "Liang N",
+  "Hu Q",
+  "Zou Y",
+  "Dong X"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43005647",
+ "importance": 0.57,
+ "key_points_ko": [
+  "간문부에 인접하여 기존 열소조술 위험이 높은 간전이 환자 1명에게 동시 소조술을 시행했습니다.",
+  "실시간 얼음 공(Ice-ball) 시각화를 활용하여 간문부 구조 손상 없이 종양의 완전 소조를 달성했습니다.",
+  "시술 6개월 후 추적 관찰에서 종양 재발 및 시술 관련 합병증은 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.2147/JHC.S656013",
+  "nct": [],
+  "pmcid": "PMC13746914",
+  "pmid": "43005647"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Hepatocell Carcinoma",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43005647/"
+ },
+ "summary_ko": "췌관선암(Pancreatic ductal adenocarcinoma) 수술 후 간문부(Hepatic pedicle)에 인접한 간전이가 발생한 55세 남성 환자의 증례입니다. 주요 혈관과 담관이 있는 간문부의 열 손상 위험을 피하기 위해 초음파 유도하 간문부 동시 소조술(Perihilar co-ablation)을 시행했습니다. 시술 결과 주요 구조물을 보존하면서 종양을 완전히 소조했습니다. 환자는 시술 2일 만에 퇴원했으며, 6개월 추적 관찰 동안 재발이나 합병증이 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Perihilar Co-Ablation for Pancreatic Cancer Liver Metastasis Adjacent to the Hepatic Pedicle: A Case Report and Literature Review",
+ "title_ko": "간문부 인접 췌장암 간전이에 대한 간문부 동시 소조술 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

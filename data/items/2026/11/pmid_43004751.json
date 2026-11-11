@@ -1,0 +1,62 @@
+{
+ "abstract": "Oncogenic KRAS mutations are the primary drivers of pancreatic ductal adenocarcinoma (PDAC), but the noncoding landscape downstream of KRAS remains to be fully elucidated. Here, by integrating PDAC RNA sequencing and exome data from The Cancer Genome Atlas (TCGA), we identified 49 long intergenic noncoding RNAs (lincRNAs) differentially expressed according to KRAS mutation status. Among these, LINC00941 emerged as a primary candidate, as its expression is regulated by KRAS in both loss- and gain-of-function models and is significantly upregulated in PDAC tumors. Analysis of single-cell RNA sequencing and clinical datasets (TCGA/ICGC) revealed that LINC00941 is significantly enriched in PDAC malignant epithelial cells and correlates with poor PDAC patient prognosis. Functional assays demonstrated that LINC00941 knockdown impairs PDAC cell migration and invasion. Notably, LINC00941-depleted cells exhibit delayed DNA repair following irradiation, as shown by the slower resolution of radiation-induced DNA strand breaks, and increased sensitivity to gemcitabine-induced apoptosis. Transcriptomic and RT-qPCR analyses associated the loss of LINC00941 with a significant reduction in key DNA repair and survival-related genes, including BACH1, TOP2A, and BIRC5. These findings suggest that LINC00941 is required to maintain genomic stability and promote survival under therapeutic stress in KRAS-driven cells. In conclusion, our study identifies a novel KRAS/LINC00941 axis that supports a pro-survival and chemoresistant phenotype in PDAC, positioning LINC00941 as a mediator of the DNA damage response and a potential therapeutic target in PDAC.",
+ "authors": [
+  "Corrêa TB",
+  "da Fonseca GL",
+  "Marques RB",
+  "Gomes-Filho SM",
+  "Hasenkamp LA",
+  "Magalhães YT",
+  "Vieira LCR",
+  "Rezende NP"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004751",
+ "importance": 0.59,
+ "key_points_ko": [
+  "TCGA 데이터 분석을 통해 KRAS 변이 상태에 따라 발현이 달라지는 49개 lincRNA 중 LINC00941을 핵심 후보로 발굴했습니다.",
+  "LINC00941 억제 시 췌장암 세포의 이동과 침윤이 감소하고, gemcitabine(젬시타빈) 항암제 유도 세포 사멸 민감도가 유의하게 증가했습니다.",
+  "LINC00941 발현 감소는 BACH1, TOP2A, BIRC5 등 주요 DNA 복구 및 세포 생존 관련 유전자의 발현 감소와 연관되었습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1002/iub.70140",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004751"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "IUBMB Life",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004751/"
+ },
+ "summary_ko": "본 연구는 췌장암의 주요 원인인 KRAS 변이 신호전달 하위에서 작용하는 긴 세포간 비번역 RNA(lincRNA)인 LINC00941의 역할을 분석했습니다. 연구진은 데이터베이스 및 단일 세포 분석을 통해 LINC00941이 악성 췌장암 세포에 풍부하고 환자의 불량한 예후와 연관됨을 확인했습니다. LINC00941을 억제하면 췌장암 세포의 이동과 침윤이 줄어들고, 방사선 조사 후 DNA 복구가 지연되며 gemcitabine(젬시타빈)에 대한 민감도가 증가했습니다. 이 결과는 KRAS/LINC00941 축이 췌장암의 치료 저항성을 유도하는 주요 기전이자 새로운 치료 표적이 될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Long Noncoding RNA LINC00941 Links Oncogenic KRAS Signaling to Aggressiveness, DNA Repair, and Chemoresistance in Pancreatic Cancer",
+ "title_ko": "췌장암에서 암유전자 KRAS 신호전달, 공격성, DNA 복구 및 항암제 저항성과 긴 비번역 RNA LINC00941의 연관성",
+ "trial": null,
+ "type": "paper"
+}

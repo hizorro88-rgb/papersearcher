@@ -4,6 +4,7 @@
   "Shahiwala AF"
  ],
  "categories": [
+  "basic",
   "treatment"
  ],
  "entities": [],
@@ -18,7 +19,12 @@
  ],
  "id": "pmid:43001337",
  "importance": 0.71,
- "key_points_ko": [],
+ "key_points_ko": [
+  "췌장암의 치료 저항성은 종양 유전자 외에도 종양 미세환경의 다양한 생태계 요인에 의해 발생합니다.",
+  "치료 실패를 설명하는 네 가지 후보 생태계 상태로 섬유증식 배제, 골수세포 우세, 저산소-대사 적응, 면역 경계면 조직화를 제안했습니다.",
+  "이러한 동적 상태는 기존의 분자적 분류를 넘어 치료 반응과 저항성에 영향을 미칩니다.",
+  "전향적 검증은 바이오마커 개발, 치료 계층화, 합리적인 병용 요법 및 치료 순서 결정을 지원할 수 있습니다."
+ ],
  "last_updated": "2026-11-10",
  "links": {
   "doi": "10.1080/07357907.2026.2754437",
@@ -41,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43001337/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains highly lethal despite advances in systemic and biomarker-directed therapy. Treatment resistance reflects not only tumor genotype but also desmoplasia, vascular dysfunction, immune suppression, metabolic adaptation, and evolutionary plasticity.",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌관선암(PDAC)의 치료 실패 원인을 분석한 종설(review)입니다. 종양 유전자뿐만 아니라 섬유증식증(desmoplasia), 혈관 기능 장애, 면역 억제 등 다양한 생태계 요인이 치료 저항성에 관여함을 설명합니다. 저자들은 치료 실패를 설명하기 위해 네 가지 후보 생태계 상태를 제안했습니다. 향후 전향적 검증을 통해 췌장암의 바이오마커 개발과 치료 전략 수립에 기여할 수 있습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Ecosystem Determinants of Therapeutic Resistance in Pancreatic Cancer: Implications for Precision Oncology",
- "title_ko": null,
+ "title_ko": "췌장암의 치료 저항성 생태계 결정 요인: 정밀 종양학에의 시사점",
  "trial": null,
  "type": "paper"
 }

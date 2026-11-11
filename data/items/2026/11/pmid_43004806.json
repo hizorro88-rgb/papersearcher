@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND AND OBJECTIVES: Many patients undergoing neoadjuvant therapy for localized pancreatic ductal adenocarcinoma (PDAC) experience treatment intolerance or disease progression during initial therapy. Although chemotherapy switch is increasingly utilized, response rates and oncologic outcomes remain poorly defined.\nMETHODS: Patients were identified from a prospectively maintained database of individuals undergoing neoadjuvant therapy for localized PDAC from 2012 to 2023. Eligible patients underwent chemotherapy switch between 5-fluorouracil and gemcitabine regimens with curative intent. Favorable response was defined as complete or partial radiographic response by RECIST, or stable disease with a ≥ 50% decline in CA 19-9 relative to levels before switch. Outcomes were measured from the date of chemotherapy switch.\nRESULTS: Out of 161 patients, 41% achieved favorable response. Body/tail, borderline resectable, and locally advanced disease were independently associated with nonfavorable response. Among favorable responders, 49% underwent resection versus 11% of nonresponders. Favorable response was independently associated with improved progression-free and overall survival, including among unresected patients. Overall, 47% derived meaningful oncologic benefit through favorable response, resection, or both.\nCONCLUSIONS: Chemotherapy switch offers a reasonable strategy in select patients with localized PDAC experiencing inadequate response or intolerance of initial therapy. This composite response framework identifies chemosensitive tumor biology, informs surgical decision-making, and stratifies prognosis.",
+ "authors": [
+  "Gist GC",
+  "Broderick JC",
+  "Adams AM",
+  "Prakash L",
+  "Snyder RA",
+  "Gamboa AC",
+  "Chandrasekharan C",
+  "Smaglo BG"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004806",
+ "importance": 0.75,
+ "key_points_ko": [
+  "항암제를 변경한 161명 중 41%가 종양 크기 감소 또는 CA 19-9 수치 50% 이상 감소 등 우수한 치료 반응을 보였습니다.",
+  "치료 반응이 우수한 환자 그룹의 49%가 수술적 절제를 시행받은 반면 반응이 없던 환자는 11%에 그쳤습니다.",
+  "전체 환자 중 47%가 우수한 반응 달성 또는 수술적 절제를 통해 임상적으로 의미 있는 종양학적 이점을 얻었습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1002/jso.70449",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004806"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004806/"
+ },
+ "summary_ko": "국소 췌관선암(PDAC) 환자를 대상으로 선행보조 항암화학요법(neoadjuvant chemotherapy) 중 약제를 변경한 치료 결과를 분석한 연구입니다. 초기 항암제에 대한 부작용이나 질병 진행으로 5-플루오로우라실(5-fluorouracil) 계열과 젬시타빈(gemcitabine) 계열 간 약제를 변경한 161명의 환자를 평가했습니다. 약제 변경 후 41%의 환자가 우수한 치료 반응을 보였습니다. 치료 반응이 우수한 환자군에서는 수술적 절제율이 높았으며 무진행 생존기간(PFS) 및 전체 생존기간(OS)이 유의하게 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Treatment Response and Oncologic Outcomes Following Neoadjuvant Chemotherapy Switch in Localized Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "국소 췌관선암 환자에서 선행보조 항암화학요법 약제 변경 후 치료 반응 및 종양학적 결과",
+ "trial": null,
+ "type": "paper"
+}

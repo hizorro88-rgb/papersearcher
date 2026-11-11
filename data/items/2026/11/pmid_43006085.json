@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Locally advanced pancreatic cancer has traditionally been considered unresectable in the presence of major vascular involvement. However, advances in vascular resection and reconstruction techniques have expanded the surgical options for selected patients and may allow radical resection in cases previously considered unresectable.\nCASES: We present three cases of locally advanced pancreatic adenocarcinoma associated with vascular involvement and hepatic arterial anatomical variations. Two patients had involvement of the portal vein and common hepatic artery, while the third had suspected involvement of the superior mesenteric artery (SMA) at its origin. All three patients had anatomical arterial variations. The first patient, a 64-year-old woman, had a Michels type VII variation, whereas the second and third patients had Michels type IX variations. Two patients successfully underwent pancreaticoduodenectomy with combined venous and arterial resection and reconstruction. In the third case, intraoperative exploration revealed perivascular fibrosis without true invasion of the SMA, thereby avoiding the need for arterial resection and reconstruction.\nCONCLUSION: Combined arterial and venous resection and reconstruction may be feasible in carefully selected patients with locally advanced pancreatic cancer and may facilitate radical resection in selected cases. Careful preoperative assessment of celiac and mesenteric arterial anatomy and recognition of arterial variations are essential for surgical planning and may help reduce the risk of vascular injury and perioperative morbidity.",
+ "authors": [
+  "Ghattas S",
+  "Mohtar F",
+  "Othman M",
+  "Abdallah R",
+  "Alameh A",
+  "Tayar C"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43006085",
+ "importance": 0.54,
+ "key_points_ko": [
+  "간동맥 해부학적 변이(Michels VII형 1명, Michels IX형 2명)와 혈관 침범이 있는 국소 진행성 췌장암 환자 3명의 수술을 진행했습니다.",
+  "환자 2명은 문맥 및 총간동맥 절제 후 재건술을 동반한 췌두십이지장절제술을 성공적으로 시행받았습니다.",
+  "수술 전 복강동맥 및 상장간막동맥의 해부학적 변이를 면밀히 평가하는 것이 합병증 감소와 근치적 절제에 필수적입니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1097/RC9.0000000000001078",
+  "nct": [],
+  "pmcid": "PMC13747535",
+  "pmid": "43006085"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43006085/"
+ },
+ "summary_ko": "본 연구는 해부학적 동맥 변이와 주요 혈관 침범을 동반한 국소 진행성 췌장관선암 환자 3명의 수술 사례를 소개했습니다. 환자 2명은 문맥 및 총간동맥 침범이 확인되어 정맥 및 동맥 동시 절제와 재건술을 포함한 췌두십이지장절제술을 성공적으로 받았습니다. 상장간막동맥 침범이 의심되었던 나머지 1명은 수술 중 실제 침범이 아닌 혈관 주위 섬유화로 확인되어 동맥 절제 없이 수술을 완료했습니다. 철저한 수술 전 평가를 통해 선택된 환자에서는 동맥 변이가 있더라도 주요 혈관 절제 및 재건을 통한 근치적 절제가 가능합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Three cases of pancreatectomy for locally advanced pancreatic cancer with arterial aberrations: case series and literature review",
+ "title_ko": "동맥 변이가 있는 국소 진행성 췌장암 환자의 췌장절제술 3례: 증례 보고 및 문헌 고찰",
+ "trial": null,
+ "type": "paper"
+}

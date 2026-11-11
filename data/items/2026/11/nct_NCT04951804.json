@@ -1,0 +1,118 @@
+{
+ "abstract": "Endoscopic ultrasound (EUS) allows EUS-guided trans gastric injection of absolute alcohol around the base of the celiac plexus (celiac plexus neurolysis (EUS-CPN)), to help alleviate pain associated with pancreatic cancer.\n\nIt is standard procedure to inject bupivacaine immediately before injecting absolute alcohol, to theoretically prevent pain that may occur during and after the procedure. However, there are no data showing whether bupivacaine injection has any real influence on intra-procedural, immediate post-procedural, or long-term pain control. The injection of bupivacaine before the alcohol may have no effect, a synergistic effect, or an antagonistic effect, by diluting the alcohol, and reducing its neurolytic capacity. Inadvertent intravascular injection of bupivacaine may also cause irreversible cardiac arrhythmias and death.\n\nThe investigators therefore propose a randomized clinical trial to determine whether the exclusion of bupivacaine during EUS-guided CPN improves outcomes, or not.\n\nPancreatic malignancies are the second most frequent gastrointestinal malignancy in Canada. From cancer mortality statistics in 2014, there were 4,700 new cases of pancreatic malignancies second only to colorectal cancer, representing 2.4% of all cancers. Even with chemotherapy, the median survival for patients with pancreatic adenocarcinoma is 6 to 10 months. Few patients are diagnosed at a resectable stage (12%-20%) so many patients are candidates for palliation only.\n\nIn this context, one of the most important symptoms is pain because it often affects both quality of life and survival. 70 to 80 % of patients with pancreatic cancer have abdominal pain at the time of diagnosis. Adequate pain control is therefore an essential component of care in these patients. In the initial phase, the pain is visceral, but with disease progression, somatic pain may occur, especially due to the peri-pancreatic invasion of neural structures, such as the celiac plexus.\n\nStandard analgesics such as acetaminophen are usually ineffective and the use and effectiveness of opioids is frequently limited by side effects such as nausea, constipation, somnolence, confusion or respiratory depression.\n\nThe celiac plexus is immediately adjacent to the gastric wall. Endoscopic ultrasound (EUS) allows EUS-guided trans gastric injection of neurolytic agents around the celiac plexus (celiac plexus neurolysis \\[CPN\\]). Under conscious sedation, the echoendoscope is advanced into the stomach, just distal to the gastro-esophageal junction. The region of the celiac plexus is identified around the takeoff of the celiac artery from the aorta. Then, under real-time ultrasound guidance, a 19g needle is used to inject a neurolytic agent such as absolute alcohol around the base of the celiac artery. The entire procedure takes approximately 5 minutes. Absolute alcohol causes the immediate destruction of the celiac plexus neurons, by precipitation of endoneural lipoproteins and mucoproteins.\n\nThe effectiveness of CPN, is well established. It is safe, produces significant pain reduction, significantly reduces narcotic requirements, and may even increase survival. The investigators were the first to publish a randomized, sham-controlled trial demonstrating the efficacy of EUS-CPN for pain due to pancreatic cancer, and authored the most recent published guidelines on the use of EUS-CPN.\n\nBased on our experience in over 1000 neurolysis procedures, patients undergoing EUS-guided CPN may experience pain, acutely during alcohol injection, and sometimes post-procedure, for up to a few hours. (Unpublished observations) It is possible that the presence of pain during injection of alcohol indicates that the celiac plexus has been accurately targeted and may therefore portend better long-term pain control.\n\nCurrently, during the neurolysis procedure, it is standard procedure to inject bupivacaine immediately before injecting absolute alcohol, to theoretically prevent pain during and after the procedure.\n\nThe true value of bupivacaine during neurolysis has never been studied. There are no data showing whether bupivacaine injection has any real influence on intra-procedural, immediate post-procedural, or long-term pain control. The injection of bupivacaine before the alcohol may have no effect, a synergistic effect, or an antagonistic effect, by diluting the alcohol, and reducing its neurolytic capacity. Inadvertent intravascular injection of bupivacaine may also cause irreversible cardiac arrhythmias and death.\n\nIn other words, in the worst case scenario, the injection of bupivacaine may increase procedural risk, without any associated benefit in terms of pain reduction.\n\nThe EUS team at the CHUM stopped using bupivacaine during neurolysis approximately 2 years ago and has noticed no obvious difference in pain during the procedure or in the immediate post-procedure recovery period, no increase in complications, and a possible reduction in requests for repeat neurolysis - suggesting that neurolysis without bupivacaine may be more effective. (Unpublished observations)\n\nThe investigators therefore propose a randomized clinical trial to determine whether the exclusion of bupivacaine during EUS-guided CPN improves outcomes, or not.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04951804",
+ "importance": 0.74,
+ "key_points_ko": [
+  "췌장암 통증 완화 시술(EUS-CPN) 시 기존 표준 방식인 bupivacaine(부피바카인) 선행 주입의 실제 효용성을 검증하는 무작위 임상시험입니다.",
+  "수술적 절제가 불가능하고 췌장 체부·미부·경부 종괴로 인한 통증을 겪는 환자 180명을 모집합니다.",
+  "시술 중 및 시술 후 즉각적인 통증과 장기적인 통증 조절 효과, 안전성을 종합적으로 비교합니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04951804"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-07-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Centre hospitalier de l'Université de Montréal (CHUM)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04951804"
+ },
+ "summary_ko": "췌장암 환자의 통증 완화를 위해 시행하는 내시경 초음파 유도 복강신경총 차단술(EUS-CPN)에서 국소마취제 bupivacaine(부피바카인) 사용 여부를 비교하는 무작위 배정 임상시험입니다. 기존에는 시술 중 통증을 줄이기 위해 무수 알코올 주입 전 bupivacaine을 투여해 왔으나, 알코올을 희석해 신경 파괴 효과를 떨어뜨리거나 부정맥 등 심각한 부작용을 유발할 위험이 지적되어 왔습니다. 이번 연구는 수술이 불가능하고 종양 관련 복통이나 요통이 있는 췌장암 환자 180명을 대상으로 bupivacaine 제외가 통증 완화와 안전성에 미치는 영향을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Pancreatic Cancer",
+  "Celiac plexus neurolysis",
+  "Bupivacaine",
+  "Endoscopic ultrasound",
+  "With Bupivacaine",
+  "Without Bupivacaine"
+ ],
+ "title": "EUS-CPN With and Without Bupivacaine",
+ "title_ko": "부피바카인 병용 유무에 따른 내시경 초음파 유도 복강신경총 차단술(EUS-CPN) 비교",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "charles.mackay.chum@ssss.gouv.qc.ca",
+    "name": "CHARLES MACKAY, RN",
+    "phone": "514-890-8000"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 췌장 경부, 체부, 미부를 침범한 악성 의심 종괴 또는 확진된 췌장암\n- 종양과 연관된 복통 또는 요통(최근 3개월 이내 발생, 지속적, 복부 중앙 위치, 방사통 동반 가능, 타 원인 배제)\n- 수술적 치료가 불가능한 환자\n- 내시경 초음파(EUS)상 양측 복강신경총 차단술 접근이 가능한 경우\n- 연구 참여 서면 동의\n\n제외 기준:\n- bupivacaine(부피바카인)에 알레르기가 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Malignant-appearing pancreatic mass, or proven pancreatic cancer involving the pancreatic genu, body, or tail\n2. Any level of abdominal or back pain considered to be potentially related to the mass:\n\n   1. New onset pain (\\<3 months)\n   2. Constant\n   3. Centrally located\n   4. With or without irradiation to the back\n   5. No obvious other source of pain based on history and physical examination by the attending endosonographer\n3. No possibility of surgical management\n4. Signed, informed consent\n5. Celiac axis accessible for bilateral neurolysis at EUS.\n\nExclusion Criteria:\n\n1\\. Allergy to bupivacaine",
+  "enrollment": 180,
+  "has_results": false,
+  "interventions": [
+   "EUS-CPN without bupivacaine",
+   "EUS-CPN with bupivacaine"
+  ],
+  "last_update_posted": "2026-11-10",
+  "location_countries": [
+   "Canada"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "국소마취제 bupivacaine(부피바카인)에 대한 알레르기 병력"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "수술이 불가능하고 복부나 등 통증이 있는 췌장 경부·체부·미부 췌장암 환자 대상 통증 완화 시술 임상시험입니다.",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04951804",
+  "phase": "NA",
+  "primary_completion_date": "2029-09",
+  "sex": "ALL",
+  "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+  "start_date": "2021-10-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -16,28 +16,95 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 170건 · 최근 30일 127건
+전체 174건 · 최근 30일 131건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
-<a id="pmid-43002664"></a>
-#### [PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent](https://pubmed.ncbi.nlm.nih.gov/43002664/)
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Med Internet Res · 중요도 0.77
+<a id="pmid-43004858"></a>
+#### [Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting](https://pubmed.ncbi.nlm.nih.gov/43004858/)
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
 
-BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians.
+BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002664/) · [DOI](https://doi.org/10.2196/101607) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002664)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
+
+---
+<a id="pmid-43004285"></a>
+#### [Exercise-containing multimodal prehabilitation on functional outcome of patients with hepatobiliary and pancreatic cancer after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43004285/)
+`논문` `메타분석` `지지요법·삶의질` `치료 전반` · 2026-08-11 · PubMed · BMC Cancer · 중요도 0.77
+
+BACKGROUND: Hepatobiliary and pancreatic (HBP) cancers often require complex surgeries that lead to functional decline and poor quality of life (QoL). Exercise-containing multimodal prehabilitation has gained attention as a potential strategy to enhance perioperative outcomes.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004285/) · [DOI](https://doi.org/10.1186/s12885-026-16581-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746705/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004285)</small>
+
+---
+<a id="nct-nct04951804"></a>
+#### [부피바카인 병용 유무에 따른 내시경 초음파 유도 복강신경총 차단술(EUS-CPN) 비교](https://clinicaltrials.gov/study/NCT04951804)
+<small>EUS-CPN With and Without Bupivacaine</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2021-07-07 · ClinicalTrials.gov · Centre hospitalier de l'Université de Montréal (CHUM) · 중요도 0.74
+
+**NCT04951804** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04951804.md)
+
+췌장암 환자의 통증 완화를 위해 시행하는 내시경 초음파 유도 복강신경총 차단술(EUS-CPN)에서 국소마취제 bupivacaine(부피바카인) 사용 여부를 비교하는 무작위 배정 임상시험입니다. 기존에는 시술 중 통증을 줄이기 위해 무수 알코올 주입 전 bupivacaine을 투여해 왔으나, 알코올을 희석해 신경 파괴 효과를 떨어뜨리거나 부정맥 등 심각한 부작용을 유발할 위험이 지적되어 왔습니다. 이번 연구는 수술이 불가능하고 종양 관련 복통이나 요통이 있는 췌장암 환자 180명을 대상으로 bupivacaine 제외가 통증 완화와 안전성에 미치는 영향을 평가합니다.
+
+- 췌장암 통증 완화 시술(EUS-CPN) 시 기존 표준 방식인 bupivacaine(부피바카인) 선행 주입의 실제 효용성을 검증하는 무작위 임상시험입니다.
+- 수술적 절제가 불가능하고 췌장 체부·미부·경부 종괴로 인한 통증을 겪는 환자 180명을 모집합니다.
+- 시술 중 및 시술 후 즉각적인 통증과 장기적인 통증 조절 효과, 안전성을 종합적으로 비교합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04951804) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04951804)</small>
+
+---
+<a id="nct-nct07608458"></a>
+#### [췌장절제술 환자의 수술 후 경과 개선을 위한 정기적 명상 중재 임상시험](https://clinicaltrials.gov/study/NCT07608458)
+<small>Scheduled Meditation for Improving Postoperative Outcomes in Patients Undergoing Pancreatectomy</small>
+
+`임상시험` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.71
+
+**NCT07608458** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07608458.md)
+
+이 임상시험은 췌장절제술을 받는 환자를 대상으로 스마트폰 앱 기반의 정기적 명상 프로그램이 수술 후 통증, 불안, 불면, 스트레스 및 이동성에 미치는 효과와 타당성을 평가합니다. 환자들은 수술 전후로 정해진 일정에 따라 명상을 수행하는 군과 퇴원 후 앱 접근권을 받는 군으로 무작위 배정됩니다. 수술 후 1개월 시점까지의 불안 점수 변화와 수면, 통증 등 삶의 질 지표를 추적 조사합니다.
+
+- 췌장절제술 예정 환자 70명을 대상으로 Headspace 앱을 활용한 명상 중재의 순응도와 효과를 평가합니다.
+- 수술 전 3주간 매일 1회, 수술 후 1개월간 매일 2회 명상을 수행하며 불안 점수(STAI) 및 수면·통증 변화를 확인합니다.
+- 참가자들은 연구 기간 동안 Garmin 활동 측정기를 착용하여 신체 활동 데이터를 수집합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07608458) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07608458)</small>
+
+---
+<a id="nct-nct03187951"></a>
+#### [PancFit: 췌장암 환자의 수술 전 치료 기간 중 다학제 운동 프로그램 임상시험](https://clinicaltrials.gov/study/NCT03187951)
+<small>PancFit: Multimodal Exercise During Preoperative Therapy for Pancreatic Cancer</small>
+
+`임상시험` `기타` `치료 전반` `지지요법·삶의질` `수술` · 2017-06-15 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.71
+
+**NCT03187951** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03187951.md)
+
+이 연구는 표준 수술 전 선행 항암치료 또는 방사선 치료를 받는 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동을 개선하는지 평가하는 임상시험입니다. 참가자는 구조화된 운동 프로그램과 행동 기술 훈련을 받는 그룹과 대조군으로 무작위 배정됩니다. 운동 그룹은 주 5일 이상의 유산소 운동과 주 2회 이상의 근력 운동을 수행합니다. 수술 전과 수술 후 최대 7개월까지 신체 기능, 삶의 질, 영양 상태를 평가합니다.
+
+- 수술 전 선행 치료를 받는 췌장암 환자를 대상으로 운동 프로그램의 효과를 평가합니다.
+- 운동 그룹은 주 5일 이상 30분 간의 중강도 유산소 운동과 주 2회 이상의 근력 운동을 실시합니다.
+- 활동 추적기(Fitbit) 착용, 신체 능력 측정, 영양 상담 및 전화 상담이 포함됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03187951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03187951)</small>
 
 ---
 <a id="pmid-43001179"></a>
-#### [New-Onset Diabetes as a Red Flag for Pancreatic Cancer: From Metabolic Clues to Earlier Detection in Primary Care](https://pubmed.ncbi.nlm.nih.gov/43001179/)
-`논문` `종설` `진단·조기발견` `지지요법·삶의질` · 2026-10-09 · PubMed · Cureus · 중요도 0.62
+#### [췌장암의 적신호로서의 신규 발생 당뇨병: 대사적 단서부터 일차 진료에서의 조기 발견까지](https://pubmed.ncbi.nlm.nih.gov/43001179/)
+<small>New-Onset Diabetes as a Red Flag for Pancreatic Cancer: From Metabolic Clues to Earlier Detection in Primary Care</small>
 
-Pancreatic ductal adenocarcinoma (PDAC) is usually diagnosed at an advanced stage and carries a poor prognosis. In a subset of patients, new-onset diabetes may be an early metabolic manifestation preceding the cancer diagnosis, and its recognition in primary care could help identify people at increased risk, although the benefit of using this association for earlier detection remains uncertain.
+`논문` `종설` `진단·조기발견` `기초연구` `치료 전반` `지지요법·삶의질` · 2026-10-09 · PubMed · Cureus · 중요도 0.62
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001179/) · [DOI](https://doi.org/10.7759/cureus.117696) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744758/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001179)</small>
+이 문헌은 췌관선암(PDAC) 환자에게 나타나는 신규 발생 당뇨병이 암 진단을 예고하는 조기 대사 징후일 수 있음을 검토합니다. 일차 진료에서 고위험군을 식별하기 위해 ENDPAC 점수, 혈중 바이오마커, 다유전자 점수, 머신러닝 모델 등 다양한 위험도 층화 전략을 평가했습니다. 췌장암 관련 당뇨병은 일반적인 제2형 당뇨병과 달리 고령에서 발생하며 원인 불명의 체중 감소를 동반하고 빠르게 진행됩니다. 현재까지 이러한 도구들이 췌장암을 더 일찍 발견하거나 생존율을 향상시킨다는 증거는 없으며, 모든 당뇨병 환자를 대상으로 한 일상적인 스크리닝은 권장되지 않습니다.
+
+- 신규 발생 당뇨병은 췌관선암(PDAC)의 초기 경고 신호가 될 수 있습니다.
+- 췌장암 관련 당뇨병은 일반 제2형 당뇨병보다 고령에서 발생하고, 설명할 수 없는 체중 감소를 동반하며, 더 빠르게 진행됩니다.
+- ENDPAC 점수, 바이오마커, 유전자 및 머신러닝 모델 등은 유망하지만 아직 전향적으로 확인되지 않았으며 생존율 개선 효과는 입증되지 않았습니다.
+- 현재의 근거로는 신규 발생 당뇨병 환자 전체를 대상으로 한 췌장암 선별검사를 지지하지 않습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001179/) · [DOI](https://doi.org/10.7759/cureus.117696) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744758/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001179)</small>
 
 ---
 <a id="nct-nct05969860"></a>

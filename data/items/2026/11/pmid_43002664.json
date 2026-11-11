@@ -10,8 +10,10 @@
   "Peng B"
  ],
  "categories": [
-  "surgery",
-  "supportive"
+  "diagnosis",
+  "treatment",
+  "basic",
+  "surgery"
  ],
  "entities": [],
  "evidence": "observational",
@@ -25,12 +27,16 @@
  ],
  "id": "pmid:43002664",
  "importance": 0.77,
- "key_points_ko": [],
- "last_updated": "2026-11-10",
+ "key_points_ko": [
+  "PancreaGuide 프레임워크를 통합한 Gemini+는 87.4%의 정확도와 95.9%의 민감도를 기록했습니다.",
+  "모든 LLM 모델에서 PancreaGuide 통합 후 수술 가능성 관련 정보 해석의 민감도와 특이도가 향상되었습니다.",
+  "수술 전후 상담 평가에서 PancreaGuide 통합 모델들은 완성도와 강건성(robustness) 부문에서 가장 큰 향상을 보이며 더 높은 전문가 평점을 받았습니다."
+ ],
+ "last_updated": "2026-11-11",
  "links": {
   "doi": "10.2196/101607",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13747220",
   "pmid": "43002664"
  },
  "pub_types": [
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43002664/"
  },
- "summary_ko": "BACKGROUND: Accurate interpretation of pancreatic cancer status and resectability-related information, together with effective perioperative communication, remains a major challenge in pancreatic cancer care. In routine practice, unstructured computed tomography (CT) reports and complex clinical information may limit the accessibility and consistency of clinical information delivery and increase the communication burden on clinicians.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장암의 수술 가능성 관련 정보 해석과 표준화된 수술 전후(perioperative) 상담을 지원하기 위해 지식 증강 대형 언어 모델(LLM) 에이전트인 PancreaGuide를 개발하고 후향적으로 평가했습니다. 2023년부터 2025년까지 조영증강 CT를 받은 444명의 환자 코호트를 대상으로 ChatGPT, DeepSeek, Gemini 등 3가지 LLM 모델을 평가했습니다. PancreaGuide 프레임워크를 통합한 결과, 모든 모델에서 수술 가능성 정보 해석의 정확도와 민감도가 향상되었으며, 수술 전후 상담 품질 평가에서도 전문가 점수가 높아졌습니다. Gemini+는 87.4%의 가장 높은 정확도와 95.9%의 민감도를 기록했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent",
- "title_ko": null,
+ "title_ko": "췌장암 컴퓨터단층촬영(CT) 판독문 해석 및 수술 전후 상담을 위한 PancreaGuide: 지식 증강 대형 언어 모델 에이전트의 개발 및 후향적 평가",
  "trial": null,
  "type": "paper"
 }

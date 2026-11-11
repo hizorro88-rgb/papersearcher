@@ -1,0 +1,60 @@
+{
+ "abstract": "PURPOSE: Colorectal cancer and pancreatic cancer represent some of the most aggressive forms of cancer. Curcumin (CUR) and Metformin (MET) have distinct pharmacokinetic profiles. MET is water-soluble, whereas CUR is highly lipophilic. These differences in their kinetic behavior may limit their synchronized therapeutic activity when used in combination. This study aimed to develop and characterize dual-loaded curcumin-MET niosomes (NIO-CUR-MET) and evaluate their physicochemical properties, drug release behavior, and in vitro anticancer, apoptotic, and anti-inflammatory effects against HCT-116 (colorectal) and PANC-1 (pancreatic) cancer cell lines.\nMETHODS: Niosomes were prepared using the ethanol injection method and characterized using dynamic light scattering. Drug loading efficiency was determined by HPLC. Drug release was assessed over 72 hours using a dialysis method at 37°C. Anticancer activity was evaluated using the MTT assay, apoptosis via Caspase-3/7 analysis, and anti-inflammatory effects by measuring TNF-α and IL-1β levels using ELISA.\nRESULTS: The particle size of 152.7±54 nm, and zeta potential of -12±1.3 mV, indicating a stable and uniform nanosystem. Encapsulation efficiencies were achieved for MET (91.5%±5%) and CUR (39.8%±7%). Release was observed ~95% for CURand ~92% for MET over 72 hours. The NIO-CUR-MET formulation significantly enhanced cytotoxicity compared to free and single-drug forms, with lower IC₅₀ values in HCT-116 (4±3.2 µM for CUR and 190±10.2 µM for MET) and PANC-1 cells IC₅₀ values (5.2±0.9 µM for CUR and 202.5±8.2 µM for MET). It also induced a 5.3-fold increase in apoptosis (P<0.001).\nCONCLUSION: Dual-loaded niosomes improved drug delivery performance and exhibited enhanced therapeutic efficacy against target cancer cell lines.",
+ "authors": [
+  "Al-Yaqoobi A",
+  "Matalqah S",
+  "Lafi Z",
+  "Abed A",
+  "Al-Mahamid S"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43005143",
+ "importance": 0.47,
+ "key_points_ko": [
+  "제조된 니오솜의 평균 입자 크기는 152.7±54 nm, 제타 전위는 -12±1.3 mV였습니다.",
+  "약물 포집 효율은 metformin(메트포르민) 91.5%±5%, curcumin(커큐민) 39.8%±7%였습니다.",
+  "72시간 동안 약물 방출률은 curcumin(커큐민) 약 95%, metformin(메트포르민) 약 92%로 관찰되었습니다.",
+  "PANC-1 췌장암 세포주에서 IC₅₀ 값은 curcumin(커큐민) 5.2±0.9 µM, metformin(메트포르민) 202.5±8.2 µM이었습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.34172/apb.46556",
+  "nct": [],
+  "pmcid": "PMC13745382",
+  "pmid": "43005143"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-15",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Pharm Bull",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43005143/"
+ },
+ "summary_ko": "이 연구는 물에 잘 녹는 metformin(메트포르민)과 지용성인 curcumin(커큐민)을 함께 전달하기 위해 이중 탑재 니오솜(NIO-CUR-MET)을 개발하고 그 특성을 평가했습니다. 연구진은 에탄올 주입법을 사용하여 니오솜을 제조하고 입자 크기, 약물 방출 거동, 췌장암 세포주(PANC-1)를 포함한 암세포에 대한 항암 및 세포사멸 효과를 측정했습니다. 실험 결과, NIO-CUR-MET 제형은 단일 약물 형태에 비해 세포독성과 세포사멸 효과를 유의하게 향상시켰습니다. 초록에 명시되지 않은 임상 환자 대상의 생존기간이나 반응률은 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual-Loaded Curcumin-Metformin Niosomes: Physicochemical Characterization and In Vitro Activity in Colorectal and Pancreatic Cancer Cells",
+ "title_ko": "커큐민과 메트포르민을 동시에 탑재한 니오솜의 물리화학적 특성 및 대장암·췌장암 세포주에서의 체외 활성",
+ "trial": null,
+ "type": "paper"
+}

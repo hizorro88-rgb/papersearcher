@@ -9,6 +9,7 @@
   "Mjelle R"
  ],
  "categories": [
+  "basic",
   "diagnosis",
   "treatment"
  ],
@@ -24,7 +25,12 @@
  ],
  "id": "pmid:43001289",
  "importance": 0.65,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 29개의 진단 생검에서 RNA 시퀀싱을 통해 46,492개의 발현 전사체를, 단백질체 분석을 통해 6,973개의 단백질을 검출했습니다.",
+  "RNA와 단백질 간의 평균 절대 스피어만 상관관계는 0.241이었습니다.",
+  "대장암에서는 전이암과 원발암 사이에 5개의 전사체와 99개의 단백질 차이가 확인되었습니다.",
+  "췌장암에서는 전이암과 원발암 비교를 단백질체로 한정하여 305개의 발현 차이가 나는 단백질을 확인했습니다."
+ ],
  "last_updated": "2026-11-10",
  "links": {
   "doi": "10.1016/j.bbrep.2026.102846",
@@ -46,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43001289/"
  },
- "summary_ko": "BACKGROUND: Colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC) are two of the most frequently occurring and lethal cancers. Although numerous studies have investigated their transcriptional, molecular, and immunological landscapes, our current understanding remains incomplete.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 대장암(CRC) 및 췌장관선암(PDAC) 환자 27명의 원발암 및 전이 부위 진단 생검 29개를 대상으로 전체 RNA 시퀀싱과 액체크로마토그래피-질량분석기 기반 단백질체 프로파일링을 수행했습니다. 연구 결과 RNA와 단백질 간의 평균 절대 스피어만 상관관계는 0.241이었으며, 대장암과 췌장암 생검은 샘플 간 상관관계에 따른 비지도 군집화에서 별개의 두 군집을 형성했습니다. 또한 면역 세포 분할 분석 결과, 휴식기 기억 CD4 T 세포(CD4 T memory resting cells)와 M0 대식세포(M0 macrophages)의 비율이 높은 것으로 나타났습니다. 이번 탐색적 연구는 제한된 포르말린 고정 파라핀 포매(FFPE) 진단 생검에서 RNA 시퀀싱과 단백질체 프로파일링을 결합하는 것의 타당성을 입증했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "RNA sequencing and proteomic analysis of diagnostic biopsies from colorectal and pancreatic cancer",
- "title_ko": null,
+ "title_ko": "대장암 및 췌장암 진단 생검 검체의 RNA 시퀀싱 및 단백질체 분석",
  "trial": null,
  "type": "paper"
 }

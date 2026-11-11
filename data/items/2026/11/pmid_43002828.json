@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: This phase III, randomized, double-blind study (daNIS-2) evaluated the efficacy and safety of NIS793, an anti-transforming growth factor-beta (TGF-β) monoclonal antibody, in combination with gemcitabine and nab-paclitaxel [standard of care (SOC)] versus placebo and SOC as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma (mPDAC).\nPATIENTS AND METHODS: The study included a safety run-in (n = 21 patients enrolled) followed by a randomized part (n = 490 patients randomly assigned). Patients were assigned 1 : 1 to receive NIS793 or placebo with SOC. The primary endpoint was overall survival (OS), secondary endpoints included progression-free survival (PFS), overall response rate (ORR), safety, pharmacokinetics, and exploratory biomarker analyses.\nRESULTS: The study was terminated early following an interim analysis due to an unfavorable benefit-risk profile. Median OS was 9.2 months in the NIS793 arm versus 11.2 months in the placebo arm (hazard ratio 1.26, 95% confidence interval 1.01-1.59). The estimates of ORR and median PFS indicate a less favorable treatment effect with NIS793. Safety profiles were comparable between arms, although higher rates of anemia, epistaxis, and rash were observed with NIS793; serious adverse events were more frequent in the NIS793 arm, with most being grade ≥3. Pharmacodynamic markers such as Pro-C3 supported target engagement. However, such target engagement did not translate into clinical benefit and early circulating tumor DNA dynamics were associated with less favorable outcomes. Biomarker analyses suggested that unfavorable benefit-risk profile of NIS793 was most pronounced in patients with a low epithelial-to-mesenchymal transition signature and a classical molecular subtype.\nCONCLUSIONS: NIS793 in combination with SOC did not improve survival outcomes in first-line mPDAC and was associated with an unfavorable benefit-risk profile. Exploratory biomarker findings highlight the complexity of TGF-β signaling and underscore the need for refined patient selection strategies in future trials.",
+ "authors": [
+  "Paulson S",
+  "Ikeda M",
+  "Shen L",
+  "Stein A",
+  "Macarulla T",
+  "Milella M",
+  "Golan T",
+  "Wainberg Z"
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "trial"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43002828",
+ "importance": 0.91,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1016/j.esmoop.2026.108621",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43002828"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "ESMO Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002828/"
+ },
+ "summary_ko": "BACKGROUND: This phase III, randomized, double-blind study (daNIS-2) evaluated the efficacy and safety of NIS793, an anti-transforming growth factor-beta (TGF-β) monoclonal antibody, in combination with gemcitabine and nab-paclitaxel [standard of care (SOC)] versus placebo and SOC as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma (mPDAC). PATIENTS AND METHODS: The study included a safety run-in (n = 21 patients enrolled) followed by a randomized part (n = 490 p…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

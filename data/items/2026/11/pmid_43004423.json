@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with poor prognosis and limited treatment options. Ferroptosis has emerged as a potential therapeutic vulnerability in PDAC, but the upstream mechanisms regulating this process remain unclear. This study aimed to identify compounds with therapeutic potential against PDAC, determine their molecular targets, and elucidate how alpha/beta hydrolase domain-containing protein 10 (ABHD10) regulates tumor growth.\nMETHODS: A high-throughput compound screen against PDAC cell proliferation was performed, followed by limited proteolysis-mass spectrometry to identify the molecular target of halofuginone (HF). Target engagement was validated by surface plasmon resonance, cellular thermal shift assay, and drug affinity responsive target stability assay. Gain- and loss-of-function studies were conducted in PDAC cell lines and xenograft mouse models. Protein interaction, palmitoylation, and ferroptosis-related changes were evaluated using co-immunoprecipitation, acyl-biotinyl exchange, Click-iT labeling, transmission electron microscopy, and biochemical assays. Statistical analyses included Student's t tests and one-way or two-way analysis of variance, as appropriate.\nRESULTS: HF significantly suppressed PDAC growth in vitro and in vivo. ABHD10 was identified as a direct binding target of HF and was upregulated in pancreatic cancer tissues and cell lines. Functional studies showed that ABHD10 promoted cell proliferation, survival, and tumor progression. Mechanistically, ABHD10 interacted with acyl-CoA synthetase long-chain family member 4 (ACSL4) and depalmitoylated it at cysteine 157, thereby suppressing ferroptosis. HF treatment or ABHD10 depletion increased ACSL4 palmitoylation, enhanced lipid peroxidation, disrupted redox homeostasis, and induced ferroptotic changes. Depletion of ACSL4 partially reversed these effects.\nCONCLUSION: The ABHD10-ACSL4 axis promotes PDAC growth by suppressing ferroptosis. Targeting this pathway may represent a promising therapeutic strategy for PDAC.",
+ "authors": [
+  "Li Q",
+  "Peng D",
+  "Kong L",
+  "Wang Y",
+  "Xue J",
+  "Liu Q",
+  "Wang D",
+  "Li Q"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004423",
+ "importance": 0.54,
+ "key_points_ko": [
+  "할로푸기논(halofuginone) 및 ABHD10 억제는 세포 및 세포이식 마우스 모델에서 췌장암 성장을 유의하게 억제했습니다.",
+  "ABHD10 단백질은 ACSL4의 157번 시스테인 잔기를 탈팔미토일화하여 페롭토시스(ferroptosis)를 억제하고 암 세포 증식을 촉진했습니다.",
+  "ABHD10-ACSL4 축을 표적하여 페롭토시스를 유도하는 접근법이 췌장암 치료의 유망한 신규 전략으로 확인되었습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1186/s13046-026-03810-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004423"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Exp Clin Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004423/"
+ },
+ "summary_ko": "본 연구는 췌장덕관선암(PDAC) 세포 및 마우스 모델에서 할로푸기논(halofuginone, HF) 성분의 종양 억제 효과와 분자 기전을 조사했습니다. 연구진은 HF가 ABHD10 단백질에 직접 결합하여 페롭토시스(ferroptosis, 철 의존성 세포사멸)를 억제하는 경로를 차단한다는 것을 확인했습니다. ABHD10은 ACSL4 단백질과 작용하여 페롭토시스를 억제하지만, HF 치료나 ABHD10 억제를 통해 페롭토시스가 유도되고 암 성장이 억제되었습니다. 이 결과는 ABHD10-ACSL4 축을 표적으로 하는 표적 치료가 췌장암의 새로운 치료 전략이 될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The ABHD10-ACSL4 axis promotes pancreatic ductal adenocarcinoma growth via suppressing ferroptosis",
+ "title_ko": "ABHD10-ACSL4 축의 페롭토시스 억제를 통한 췌장암 성장 촉진 기전 규명",
+ "trial": null,
+ "type": "paper"
+}

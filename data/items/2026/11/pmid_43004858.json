@@ -1,0 +1,55 @@
+{
+ "abstract": "BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear.\nMETHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026). POPF was graded by ISGPS criteria, with risk stratified by Fistula Risk Score (FRS) and Alternative FRS (A-FRS). Ninety-day outcomes were recorded.\nRESULTS: Of 182 patients, 83 (45.6%) received an externalized stent. Age, sex, BMI, and PDAC proportion were similar between internal and external stent groups, as was fistula risk (74.7% vs. 71.1% intermediate/high risk) (all p > 0.05). Overall POPF rate was nearly identical (18.2% vs. 18.1%; p = 0.985), with most fistulas (73.5%) being biochemical leaks and no Grade C fistulas. Among low/intermediate A-FRS patients, clinically-relevant POPF rates were comparable (2.6% vs. 2.9%; p = 0.994). In high A-FRS patients, external stenting was associated with significantly fewer clinically-relevant POPFs (0.0% vs. 21.7%) and more biochemical leaks (35.7% vs. 8.7%, p = 0.04). External stenting did not increase length of stay or readmission.\nCONCLUSIONS: In high fistula-risk RPD patients, external stenting was associated with fewer clinically-relevant POPFs, suggesting externalization may prevent progression to clinically-relevant POPF.",
+ "authors": [
+  "Wong P",
+  "Wang J",
+  "Clancy TE"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004858",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1002/jso.70439",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004858"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004858/"
+ },
+ "summary_ko": "BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

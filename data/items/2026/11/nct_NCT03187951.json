@@ -1,0 +1,124 @@
+{
+ "abstract": "Any time the words \"you,\" \"your,\" \"I,\" or \"me\" appear, it is meant to apply to the potential participant.\n\nThe goal of this clinical research study is to learn if regular exercise and behavioral skills training can help to improve physical activity in patients with pancreatic cancer who are scheduled to receive chemotherapy and/or radiation before standard-of-care surgery.\n\nThis is an investigational study.\n\nUp to 128 participants will be enrolled on this study. All will take part at MD Anderson.\n\nStudy Groups:\n\nIf you are found to be eligible to take part in this study, you will be randomly assigned (as in the flip of a coin) to 1 of 2 study arms. This is done because no one knows if one study arm is better than, the same, or worse than the other group.\n\nIf you are in Arm A, you will not take part in a structured exercise program. If you are in Arm B, you will take part in a structured exercise program and behavioral skills training as described below.\n\nLength of Study:\n\nYou will continue to take part in this study for up to 7 months after your scheduled standard-of-care surgery. However, if intolerable side effects occur or the disease appears to get worse, the study staff will decide if continuing the exercise program is in your best interest.\n\nStudy Visits:\n\nAt your baseline visit, after you complete chemotherapy and/or radiation, 3-6 weeks after surgery, and then 3-7 months after surgery:\n\n* You will complete 4 questionnaires about your physical abilities, motivation, and quality of life. They should take about 25 minutes total to complete.\n* Your hand grip strength will be measured using a hand-held machine\n* Your arm strength will be measured using an arm curl test. You will be given a small weight (about 5-8 pounds) and asked to perform as many bicep curls as you can for 30 seconds.\n* You will be asked to rise from a chair without using your arms to push off.\n* You will complete a 6-minute walk test to see how far you can walk in 6 minutes.\n* You will complete a nutritional questionnaire and receive nutritional counseling. The questionnaire will ask about your diet and any recent weight loss. It should take about 5 minutes to complete. After you complete the questionnaire, you will receive educational materials and personalized counseling based on your answers.\n* If you are in Arm B, you will receive behavioral skills training to teach you ways to monitor your health, set goals, and reward yourself. It should take about 15 minutes to complete.\n* At the baseline visit, you will be given a Fitbit Charge 2 activity tracker to wear during the study. This is a small device designed to record your physical activity and sleep during the study. This device will allow you to monitor your own physical activity and sleep and may help you achieve your goals. You can keep the Fitbit after the study is over.\n\nIf you are in Arm B, one (1) time each week for the first 4 weeks and then every 2 weeks after that, a member of the study staff will contact you by phone for behavioral skills training and to see how you are doing. These calls should last about 15 minutes.\n\nFor 2 weeks during each phase of chemotherapy and/or radiation you receive, you will wear a small activity monitor on an elastic band. This will be worn in addition to your Fitbit.\n\nExercise Programs:\n\nARM A:\n\nIf you are in Arm A, you will be encouraged to remain active during chemotherapy and/or radiation, but you will not receive instruction about aerobic or strengthening exercises. You will receive a booklet that contains a stretching guide with full-body stretches and safety.\n\nARM B:\n\nIf you are in Arm B, you will be asked to complete up to 30 minutes of moderate-intensity aerobic exercise (such as brisk walking, stationary cycling, and/or elliptical or stair stepping machines) for at least 5 days each week.\n\nYou will also complete strength training exercises at least 2 times per week. You will complete 1 set of 10-15 repetitions for each of the 8 exercises that you are taught. Over time, the amount of resistance, repetitions, and/or sets may increase or decrease based on your strength. You will be given 5 different resistance tubes to complete these exercises, but you may use free-weights or machines if you prefer.\n\nYou should complete warm up exercises and 5 minutes of stretching before and after strength training.\n\nYou must keep a daily activity log to document your exercises.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "supportive",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03187951",
+ "importance": 0.71,
+ "key_points_ko": [
+  "수술 전 선행 치료를 받는 췌장암 환자를 대상으로 운동 프로그램의 효과를 평가합니다.",
+  "운동 그룹은 주 5일 이상 30분 간의 중강도 유산소 운동과 주 2회 이상의 근력 운동을 실시합니다.",
+  "활동 추적기(Fitbit) 착용, 신체 능력 측정, 영양 상담 및 전화 상담이 포함됩니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03187951"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2017-06-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03187951"
+ },
+ "summary_ko": "이 연구는 표준 수술 전 선행 항암치료 또는 방사선 치료를 받는 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동을 개선하는지 평가하는 임상시험입니다. 참가자는 구조화된 운동 프로그램과 행동 기술 훈련을 받는 그룹과 대조군으로 무작위 배정됩니다. 운동 그룹은 주 5일 이상의 유산소 운동과 주 2회 이상의 근력 운동을 수행합니다. 수술 전과 수술 후 최대 7개월까지 신체 기능, 삶의 질, 영양 상태를 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Other disorders of glucose regulation and pancreatic internal secretion",
+  "Pancreatic cancer",
+  "Questionnaires",
+  "Surveys",
+  "Nutritional Questionnaire",
+  "Nutritional Counseling",
+  "Booklet",
+  "Pamphlet",
+  "Educational materials",
+  "Aerobic Exercise"
+ ],
+ "title": "PancFit: Multimodal Exercise During Preoperative Therapy for Pancreatic Cancer",
+ "title_ko": "PancFit: 췌장암 환자의 수술 전 치료 기간 중 다학제 운동 프로그램 임상시험",
+ "trial": {
+  "conditions": [
+   "Other Disorders of Glucose Regulation and Pancreatic Internal Secretion",
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준: • 생검으로 확진된 췌장암 환자 • 수술 전 선행 치료(항암치료, 방사선 치료 또는 항암방사선 겸용) 예정 환자 • 등록 시점부터 6주 이후 췌장 절제술 예정 환자 • 운동 프로그램 및 일일 운동 일지 작성이 가능한 환자 • 전화 또는 이메일 연락이 가능한 환자 제외 기준: • 영어 미사용자 • 불안정하거나 증상이 있는 심장 또는 호흡기 질환(NYHA III 또는 IV) • 체중 지지가 불가능한 최근의 골절 또는 급성 근골격계 손상 • 통증 점수 10점 중 7점 이상 • 이전 절제술 후 재발한 암 • 신경내분비암 • 이미 수술 전 선행 치료를 완료하고 수술 전 휴식 기간에 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Pancreatic cancer of any type, biopsy-proven\n2. Scheduled to receive preoperative therapy (chemotherapy, radiation or chemoradiation) either on- or off-protocol.\n3. Anticipated to undergo pancreatectomy in \\>/= 6 weeks from enrollment\n4. Able to understand the description of the study and willing to participate\n5. Able to understand the exercise program\n6. Able to maintain daily exercise logs\n7. Telephone or email access and agreement to engage with the research personnel via phone or email\n8. Meet all screening requirements.\n\nExclusion Criteria:\n\n1. Non-English speaking\n2. Unable to complete the baseline assessment questionnaires or functional assessments\n3. Underlying unstable cardiac or pulmonary disease or symptomatic cardiac disease (New York Heart Association functional class III or IV)\n4. Recent fracture or acute musculoskeletal injury that precludes the ability to weight bear fully on all 4 limbs in order to participate in an exercise intervention\n5. Numeric pain rating scale of \\>/= 7 out of 10\n6. Myopathic or rheumatologic disease that impacts physical function\n7. Recurrent cancer following prior resection\n8. Neuroendocrine cancer\n9. Completed preoperative therapy and are on their presurgical rest period.",
+  "enrollment": 152,
+  "has_results": false,
+  "interventions": [
+   "Questionnaires",
+   "Nutritional Questionnaire and Nutritional Counseling",
+   "Booklet",
+   "Aerobic Exercise and Strength Training Exercises",
+   "Phone Calls",
+   "Physical Assessments"
+  ],
+  "last_update_posted": "2026-11-10",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "불안정하거나 증상이 있는 심장 또는 호흡기 질환",
+    "최근의 골절 또는 급성 근골격계 손상",
+    "이전 수술 후 재발한 암",
+    "신경내분비암"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "수술 전 선행 항암 또는 방사선 치료를 받는 췌장암 환자 대상 운동 중재 연구",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT03187951",
+  "phase": "NA",
+  "primary_completion_date": "2022-12-31",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2017-06-13",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

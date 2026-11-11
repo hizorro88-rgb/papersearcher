@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by immunosuppressive tumor microenvironment (TME), in which immunosuppression and immune evasion lead to poor response to therapies. Lipid metabolism reprogramming is a central feature of PDAC progression and, depending on the lipid species and context, can promote immunosuppression and immune evasion. Here, we summarize the regulation of lipid metabolism in PDAC and the TME and highlight therapeutic targeting potential. KRAS mutations drive the abnormal activation of key molecules such as SREBP1, FASN, and CD36, promoting de novo fatty acid synthesis, cholesterol metabolism, and the uptake of extracellular lipids. Tumor cells evade immune surveillance by upregulating immune checkpoint molecules and suppressing antigen presentation, thereby impairing both innate and adaptive antitumor immunity. Lipid overload triggers lipid competition and lipotoxicity, induces CD8⁺ T-cell exhaustion and promotes the recruitment of immunosuppressive cells such as M2 macrophages and myeloid-derived suppressor cells. Pancreatic stellate cells and peritumoral adipocytes undergo profound lipid metabolic reprogramming and influence the lipid metabolism of PDAC cells and immune function through mechanisms such as paracrine signaling, thereby further reinforcing the immunosuppressive microenvironment. Lipid metabolism interventions such as targeting fatty acid synthesis, cholesterol metabolism, and lipid peroxidation-driven ferroptosis in combination with chemotherapy and/or immunotherapy have shown promise in preclinical models. Targeting lipid metabolism can reshape the immunosuppressive microenvironment and enhance the sensitivity to PD-1 blockade and gemcitabine, significantly improving antitumor efficacy. In the future, combining spatial metabolomics and single cell lipidomics may reveal the interactions between lipid metabolism and the immune system and explore the mechanisms underlying the lipid metabolic interaction networks among tumor-immune-and stromal cells.",
+ "authors": [
+  "Zhan T",
+  "Liu Y",
+  "Yan J",
+  "Huang X"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43007394",
+ "importance": 0.72,
+ "key_points_ko": [
+  "KRAS 변이는 SREBP1, FASN, CD36을 활성화하여 지질 대사 이상을 유도합니다.",
+  "지질 과부하는 CD8⁺ T세포 탈진과 M2 대식세포 동원을 유발해 면역 억제 미세환경을 형성합니다.",
+  "전임상 모델에서 지질 대사 조절은 PD-1 억제제 및 젬시타빈의 항종양 효과를 유의하게 향상시켰습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1007/s11033-026-13136-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43007394"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Biol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43007394/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 면역 억제성 종양 미세환경과 지질 대사 변화의 기전을 분석한 종설 논문입니다. 암세포 내 KRAS 변이는 지방산 합성, 콜레스테롤 대사 및 지질 흡수를 촉진합니다. 이로 인한 과도한 지질 축적은 CD8⁺ T세포 탈진과 면역 억제 세포 동원을 유발하여 면역 회피를 일으킵니다. 전임상 연구에서 지질 대사를 표적하는 치료는 PD-1 억제제 및 gemcitabine(젬시타빈)에 대한 민감도를 개선하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting lipid metabolism to overcome immunosuppression and enhance immunotherapy or chemotherapy sensitivity in pancreatic cancer: from immunosuppressive mechanisms to therapeutic opportunities",
+ "title_ko": "췌장암에서 면역 억제 극복 및 면역치료나 항암화학요법 민감도 향상을 위한 지질 대사 표적 치료: 면역 억제 기전부터 치료 기회까지",
+ "trial": null,
+ "type": "paper"
+}

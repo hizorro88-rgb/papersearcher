@@ -9,7 +9,8 @@
   "Chen J"
  ],
  "categories": [
-  "diagnosis"
+  "diagnosis",
+  "basic"
  ],
  "entities": [],
  "evidence": "observational",
@@ -23,12 +24,16 @@
  ],
  "id": "pmid:43000231",
  "importance": 0.67,
- "key_points_ko": [],
- "last_updated": "2026-11-10",
+ "key_points_ko": [
+  "총 62명의 췌장관선암(PDAC) 환자(림프절 전이 양성 22명, 음성 40명)를 대상으로 연구를 진행했습니다.",
+  "CA19-9, Spatial Separation, Kinetic Separation 등의 지표가 림프절 전이와 통계적으로 유의미한 상관관계를 보였습니다(모든 P < 0.05).",
+  "서식지 영상과 임상 정보를 결합한 모델은 임상 단독 모델보다 예측 성능이 유의미하게 향상되었습니다(P = 0.042)."
+ ],
+ "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1186/s12880-026-02652-1",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13746610",
   "pmid": "43000231"
  },
  "pub_types": [
@@ -45,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43000231/"
  },
- "summary_ko": "BACKGROUND: To investigate the feasibility of preoperative prediction of lymph node metastasis in patients with pancreatic ductal adenocarcinoma (PDAC) using habitat imaging (HI) based on dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) combined with clinical and imaging features. METHODS: A retrospective analysis was conducted on 62 patients with pancreatic ductal adenocarcinoma, including 22 patients in the lymph node metastasis (LNM)-positive group and 40 patients in the LNM-neg…",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 동적 조영증강 자기공명영상(DCE-MRI)을 기반으로 한 서식지 영상(habitat imaging)과 임상 및 영상 특징을 결합하여 췌장관선암(PDAC) 환자의 림프절 전이를 수술 전에 예측할 수 있는지 조사했습니다. 총 62명의 췌장관선암 환자(림프절 전이 양성 22명, 음성 40명)를 대상으로 후향적 분석을 진행했습니다. CA19-9 수치와 여러 서식지 영상 지표들이 두 그룹 간에 통계적으로 유의미한 차이를 보였습니다. 임상 특징과 서식지 영상 정보를 통합한 결합 모델은 임상 모델에 비해 예측 성능이 유의미하게 향상되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Feasibility study of habitat imaging based on DCE-MRI combined with clinical and imaging features for predicting lymph node metastasis in patients with pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "동적 조영증강 MRI(DCE-MRI) 기반 서식지 영상(habitat imaging)과 임상·영상 특징을 결합한 췌장관선암 환자의 림프절 전이 예측 타당성 연구",
  "trial": null,
  "type": "paper"
 }

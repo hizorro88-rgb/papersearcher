@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer (PC) is known as one of the most aggressive and deadly tumors, with pancreatic ductal adenocarcinoma (PDAC) predicted to be the second leading cause of cancer death by 2030. Also, due to the lack of specific symptoms and limitations of biomarkers and screening methods for early diagnosis, most patients are diagnosed at advanced stages and with metastatic disease. Therefore, developing new, high-accuracy diagnostic methods for early diagnosis and monitoring of treatment response in patients is very important for providing appropriate treatment options and improving survival rates. In recent years, despite the progress in diagnostic methods such as imaging techniques, tissue biopsy, liquid biopsy (LB), and tumor marker testing, there are many uncertainties about the specificity and sensitivity of these technologies, as well as challenges in their practical use in the clinic. Also, advancements in artificial intelligence (AI) technology in the field of cancer detection have enabled the screening and early diagnosis of PC in high-risk populations by employing AI algorithms with high computational power in conjunction with biomarkers, medical imaging, and pathological tests. In this article, we comprehensively evaluate the potential and diagnostic effectiveness of established tools for PC, alongside emerging and promising approaches, including liquid biopsy and AI-based methods. We examine their applications in early diagnosis, screening, prognostication, and disease monitoring, while also discussing the key characteristics, advantages, and limitations of each approach, as well as the potential benefits of their integration. Finally, we provide clinical recommendations aimed at improving the early detection of this challenging disease.",
+ "authors": [
+  "Maghsoodi N",
+  "Ameri M",
+  "Absalan F",
+  "Esmaeili M",
+  "Ramezani A"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43002872",
+ "importance": 0.69,
+ "key_points_ko": [
+  "췌관선암(PDAC)은 2030년까지 암 사망 원인 2위에 달할 것으로 예상됩니다.",
+  "기존 진단 기법의 민감도와 특이도 한계를 극복하기 위해 액체 생검(LB) 및 인공지능(AI) 기술을 결합하는 연구가 활발히 진행되고 있습니다.",
+  "인공지능(AI) 알고리즘을 바이오마커, 의료 영상, 병리 검사와 통합함으로써 고위험군의 조기 진단 및 선별 검사 능력을 향상시킬 수 있습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1016/j.bbrc.2026.154848",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43002872"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002872/"
+ },
+ "summary_ko": "췌장암(PC), 특히 췌관선암(PDAC)은 2030년까지 암 사망 원인 2위가 될 것으로 예측되는 치명적인 질환입니다. 명확한 초기 증상이 없고 기존 진단 기법의 한계로 인해 대부분의 환자가 진행성 또는 전이성 상태에서 진단됩니다. 본 논문은 기존의 영상 기법 및 조직 생검부터 액체 생검(LB), 인공지능(AI) 기반 접근법에 이르기까지 췌장암의 진단 및 예후 바이오마커 기술을 종합적으로 평가했습니다. 또한 조기 진단, 예후 예측, 치료 반응 모니터링에서의 장단점과 기술 통합 방안 및 임상적 권고사항을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches",
+ "title_ko": "췌장암 정밀 종양학을 향해: 기존 방식부터 액체 생검 및 인공지능 기반 접근법까지의 진단 및 예후 바이오마커",
+ "trial": null,
+ "type": "paper"
+}

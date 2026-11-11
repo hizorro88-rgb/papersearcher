@@ -1,0 +1,110 @@
+{
+ "abstract": "This clinical trial tests the feasibility and how well a scheduled meditation intervention works to improve postoperative outcomes such as pain, anxiety, insomnia, stress and mobility for patients undergoing pancreatectomy. Many patients undergoing pancreatectomy surgery report clinically important fatigue, pain, and/or reduction in quality of life. Meditation is a behavioral intervention that has been studied in a variety of medical and surgical settings, where it has been associated with reductions in pain, anxiety, blood pressure, and lack of sleep, and in some cases with decreased pain and shorter length of stay. The meditation intervention using Headspace is an easily accessible and interactive way to complete scheduled meditation. This may improve postoperative outcomes for patients undergoing pancreatectomy.\n\nPRIMARY OBJECTIVES:\n\nI. Evaluate the feasibility of implementing a meditation-based intervention in patients undergoing pancreatectomy, as measured by recruitment, retention, and participant compliance with the prescribed modules II. Evaluate the effect of a perioperative meditation intervention on anxiety, as measured by changes in State-Trait Anxiety Inventory (STAI) scores from baseline to one month postoperatively.\n\nSECONDARY OBJECTIVE:\n\nI. To observe the relationship of meditation intervention on change in health-related quality of life (HRQOL) outcomes for pain and sleep quality from baseline through one month postoperatively.\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM I: Patients receive access to the Headspace application. Patients complete mindfulness meditation including focused breathing, awareness of thought patterns, and management of mind-wandering for 10 minutes once daily (QD) for 3 weeks prior to surgery and twice daily (BID) for 1 month after surgery. Patients wear a Garmin activity tracker throughout the study.\n\nARM II: Patients receive access to the Headspace application at the time of hospital discharge and will be informed of the availability of the \"Basics\" meditation pack. Patients wear a Garmin activity tracker throughout the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07608458",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌장절제술 예정 환자 70명을 대상으로 Headspace 앱을 활용한 명상 중재의 순응도와 효과를 평가합니다.",
+  "수술 전 3주간 매일 1회, 수술 후 1개월간 매일 2회 명상을 수행하며 불안 점수(STAI) 및 수면·통증 변화를 확인합니다.",
+  "참가자들은 연구 기간 동안 Garmin 활동 측정기를 착용하여 신체 활동 데이터를 수집합니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07608458"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-05-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "City of Hope Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07608458"
+ },
+ "summary_ko": "이 임상시험은 췌장절제술을 받는 환자를 대상으로 스마트폰 앱 기반의 정기적 명상 프로그램이 수술 후 통증, 불안, 불면, 스트레스 및 이동성에 미치는 효과와 타당성을 평가합니다. 환자들은 수술 전후로 정해진 일정에 따라 명상을 수행하는 군과 퇴원 후 앱 접근권을 받는 군으로 무작위 배정됩니다. 수술 후 1개월 시점까지의 불안 점수 변화와 수면, 통증 등 삶의 질 지표를 추적 조사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Scheduled Meditation for Improving Postoperative Outcomes in Patients Undergoing Pancreatectomy",
+ "title_ko": "췌장절제술 환자의 수술 후 경과 개선을 위한 정기적 명상 중재 임상시험",
+ "trial": {
+  "conditions": [
+   "Hepatocellular Carcinoma",
+   "Pancreas Cancer",
+   "Biliary Tract Neoplasms"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상으로 췌장절제술이 예정된 환자\n• 개인 스마트폰을 소지하고 연구용 앱 설치 및 사용이 가능한 환자\n• 연구 기간 동안 Garmin 착용 기기를 지속적으로 착용할 수 있는 환자\n• 설문조사를 위한 영어 읽기 및 이해가 가능한 환자\n• 연구 참여 동의서에 서명한 환자\n\n제외 기준:\n• 이전에 명상이나 마인드풀니스에 관한 정식 교육(강좌, 워크숍, 자격증 등)을 받은 적이 있는 환자\n• 현재 모바일 앱(Headspace, Calm 등)이나 정기적인 루틴을 통해 명상을 실천하고 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Documented informed consent of the participant and/or legally authorized representative\n* Willing to install required apps on personal smartphone\n* Willing to wear a Garmin wearable device throughout the study\n* Age: ≥ 18 years\n* Ability to read and understand English for questionnaires\n* Owns a smartphone\n* Comfortable with routine smartphone use\n* Scheduled to undergo pancreatectomy\n\nExclusion Criteria:\n\n* Participants with prior formal training in meditation or mindfulness (e.g., completion of structured courses, workshops, or certification programs)\n* Participants who currently engage in a structured meditation or mindfulness practice, including regular use of mobile applications (e.g., Headspace, Calm, or similar platforms) or other formalized routines",
+  "enrollment": 70,
+  "has_results": false,
+  "interventions": [
+   "Actigraphy",
+   "Online Mindfulness Meditation",
+   "Smartphone Application-based Intervention",
+   "Survey Administration"
+  ],
+  "last_update_posted": "2026-11-10",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "이전에 명상 정식 교육을 받았거나 현재 명상 앱 등을 정기적으로 사용하는 경우",
+    "개인 스마트폰이 없거나 앱 활용이 불가능한 경우",
+    "영어 설문지 작성이 불가능한 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "췌장절제술이 예정되어 있고 명상 경험이 없는 성인 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07608458",
+  "phase": "NA",
+  "primary_completion_date": "2027-11-25",
+  "sex": "ALL",
+  "sponsor": "City of Hope Medical Center",
+  "start_date": "2027-01-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

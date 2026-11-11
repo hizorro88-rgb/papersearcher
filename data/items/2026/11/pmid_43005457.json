@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a nutrient-poor, hypoxic, and highly desmoplastic microenvironment that imposes substantial metabolic stress on malignant cells. Under these unfavorable conditions, lipid metabolism reprogramming provides cancer cells with the flexibility needed to maintain growth and survive therapeutic stress. Recent advances have uncovered new links between lipid metabolic reprogramming, the tumor microenvironment, and therapeutic resistance in PDAC, highlighting the need for an updated synthesis of this rapidly evolving field. In this review, we focus on the major tumor-intrinsic alterations in fatty acid and cholesterol-mevalonate metabolism, including changes in lipid synthesis, uptake, desaturation, storage, and oxidative utilization. These processes support membrane homeostasis, oncogenic signaling, and redox control, thereby linking lipid handling directly to tumor progression and treatment adaptation. We further review how these pathways are reshaped by the tumor microenvironment, where cancer-associated fibroblasts, immune cells, adipocytes, and neural-associated cells influence lipid availability, trafficking, and signaling. These reciprocal interactions can shape stromal plasticity, immune suppression, invasion, metastasis, and treatment response. We also evaluate current strategies targeting lipid metabolism and discuss why their clinical translation remains limited by metabolic compensation, tumor heterogeneity, drug specificity, and systemic toxicity. Overall, the available evidence suggests that lipid metabolism in PDAC is better understood as a dynamic, interconnected adaptive network rather than a set of isolated metabolic pathways. This perspective supports biomarker-guided combination strategies that target context-dependent lipid dependencies and treatment-induced metabolic adaptation, rather than relying on inhibition of a single pathway.",
+ "authors": [
+  "Liu X",
+  "Ye Z",
+  "Wang L",
+  "Chi Y",
+  "Chu T",
+  "Liu Z",
+  "Yu S",
+  "Yang H"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43005457",
+ "importance": 0.66,
+ "key_points_ko": [
+  "지질 대사 재편성은 가혹한 미세환경에서 췌장암 세포의 생존과 치료 저항성 획득을 돕습니다.",
+  "종양 미세환경 내 섬유아세포, 면역세포 등과의 지질 교환이 면역 억제 및 전이를 촉진합니다.",
+  "대사 보상 작용을 극복하기 위해 단일 경로 억제 대신 바이오마커 기반 병용 치료 전략이 강조됩니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.3389/fonc.2026.1977031",
+  "nct": [],
+  "pmcid": "PMC13746172",
+  "pmid": "43005457"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43005457/"
+ },
+ "summary_ko": "본 검토 논문은 췌장관선암(PDAC) 세포가 영양 결핍과 저산소증 환경에서 생존하기 위해 지질 대사를 재편성하는 기전을 정리했습니다. 지방산 및 콜레스테롤 대사 변화는 암세포의 성장, 신호 전달 및 치료 저항성을 지원합니다. 종양연관 섬유아세포 및 면역세포와의 상호작용은 면역 억제와 암 전이를 촉진하는 요소로 작용합니다. 연구진은 단일 대사 경로 억제보다 대사 보상 작용을 고려한 바이오마커 기반 병용 치료 전략이 필요하다고 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Decoding lipid metabolic reprogramming in pancreatic ductal adenocarcinoma: from tumor-microenvironment crosstalk to therapeutic resistance",
+ "title_ko": "췌장관선암종의 지질 대사 재편성 해독: 종양-미세환경 상호작용에서 치료 저항성까지",
+ "trial": null,
+ "type": "paper"
+}

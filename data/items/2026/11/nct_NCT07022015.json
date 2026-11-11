@@ -1,0 +1,119 @@
+{
+ "abstract": "Pancreaticoduodenectomy (PD) is a complex procedure performed in patients with malignant or benign tumors of the pancreatic head and periampullary region, associated with high morbidity and mortality. Postoperative pancreatic fistula (POPF) is the most common and clinically significant complication following PD. In this study, the investigators aim to determine the predictive risk factors for clinically related postoperative pancreatic fistula (CR-POPF) in the preoperative, intraoperative and postoperative period in patients that underwent PD. The total number of 100 participants expected to be included in this research who underwent PD between 2025 and 2026.\n\nPancreaticoduodenectomy (PD) is a complex procedure performed in patients with malignant or benign tumors of the pancreatic head and periampullary region, associated with high morbidity and mortality rates. Despite dramatic advancements in surgical techniques and perioperative management, reported morbidity and mortality rates following PD are 41.56% and 2.88%, respectively, which remain unsatisfactory. Postoperative pancreatic fistula (POPF) is the most common and clinically significant complication following PD. Therefore, accurate and timely prediction of POPF after PD is necessary to reduce secondary mortality from serious complications and optimize individual patient treatment decisions. This study aimed to determine the predictive risk factors for clinically related postoperative pancreatic fistula (CR-POPF) in the preoperative, intraoperative and postoperative period in patients that underwent PD.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07022015",
+ "importance": 0.74,
+ "key_points_ko": [
+  "췌십이지장절제술을 받는 췌장두부암 및 팽대부주위암 환자 100명을 대상으로 수술 전후 위험 인자를 분석합니다.",
+  "문헌상 췌십이지장절제술 후 합병증 발생률은 약 41.56%, 사망률은 약 2.88%로 보고됩니다.",
+  "임상적으로 유의미한 췌장 누공(CR-POPF)의 조기 예측 인자를 규명하는 것이 주 목적입니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07022015"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2025-06-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Minia University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07022015"
+ },
+ "summary_ko": "이 연구는 췌장두부암 및 팽대부주위암 등으로 췌십이지장절제술(PD)을 받는 환자 100명을 대상으로 진행되는 임상 관찰 연구입니다. 췌십이지장절제술 후 가장 흔하고 위험한 합병증인 임상적 췌장 누공(CR-POPF)의 발생 위험 인자를 수술 전, 수술 중, 수술 후 단계별로 분석합니다. 이를 통해 합병증 발생을 조기에 예측하고 위험을 줄여 환자 맞춤형 치료 결정을 돕는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Predictive Risk Factors for Pancreatic Fistula After Pancreaticoduodenectomy",
+ "title_ko": "췌십이지장절제술 후 췌장 누공 발생의 예측 위험 요인 연구",
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Pancreas Neoplasm",
+   "Pancreatic Fistula",
+   "Pancreas Adenocarcinoma",
+   "Periampullary Cancer",
+   "Periampullary Carcinoma",
+   "Resectable Pancreatic Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "salehkhairy@mu.edu.eg",
+    "name": "Saleh K Saleh, MD",
+    "phone": "01201765401"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 수술로 절제 가능한 췌장두부암, 원위부 담관암, 팽대부주위암, 십이지장암 환자\n- 원격 전이가 없고 상장간막정맥 및 간문맥 침범이 없는 근치적 수술 적응증 환자\n- 미국마취과학회 신체상태 분류(ASA) 1등급 또는 2등급인 환자\n- 만 18세 이상 75세 이하 성인\n- 연구 참여 동의서에 서명한 환자\n\n제외 기준:\n- 중증 내과 질환으로 수술이 부적합한 환자\n- 복막, 간, 원격 림프절 등 원격 전이가 있거나 복강경 검사상 절제 불가능한 환자\n- 혈관 침범이 있어 혈관 절제 및 재건이 필요한 환자\n- 다른 악성 종양의 병력이 있는 환자\n- 낭성 병변, 양성 종양, 만성 석회화 췌장염 등 양성 질환으로 수술을 받는 환자\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients with resectable distal common bile duct carcinoma, periampullary carcinoma, duodenal carcinoma, and carcinoma of the head of the pancreas.\n* Patients meeting the curative treatment intent in accordance with clinical guidelines:\n\n  * No evidence of metastasis.\n  * Radiological non-involvement of superior mesenteric vein \\& portal vein.\n* American Society of Anesthesiologists (ASA) scores I \\& II.\n* Patients aged \\> 18 years.\n* Ability to understand and the willingness to sign a written informed consent document\n* Agreement to complete the study\n\nExclusion Criteria:\n\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients with distant metastases, including peritoneal, liver, distant lymph node metastases, and involvement of other organs.\n* Irresectable tumors in diagnostic laparoscopy.\n* History of other malignant disease.\n* Pregnant or breast-feeding women.\n* Patients with serious mental disorders.\n* Patients with vascular invasion and requiring vascular resection as evaluated by the multidisciplinary team according to abdominal imaging data.\n* Pancreatoduodenectomy for other diagnosis like cystic lesions, benign tumors or chronic calcific pancreatitis\n* Patients refused to participate in the study.",
+  "enrollment": 100,
+  "has_results": false,
+  "interventions": [
+   "pancreaticoduodenectomy procedure"
+  ],
+  "last_update_posted": "2026-11-10",
+  "location_countries": [
+   "Egypt"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "간, 복막 등 원격 전이가 확인된 환자",
+    "주요 혈관 침범으로 혈관 절제가 동반되어야 하는 환자",
+    "다른 암 병력이 있는 환자",
+    "중증 내과 질환으로 수술이 불가능한 환자"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "근치적 췌십이지장절제술이 가능한 전이 없는 췌장두부암 및 팽대부주위암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable"
+   ],
+   "source": "llm"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07022015",
+  "phase": "NA",
+  "primary_completion_date": "2027-03-20",
+  "sex": "ALL",
+  "sponsor": "Minia University",
+  "start_date": "2025-06-20",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

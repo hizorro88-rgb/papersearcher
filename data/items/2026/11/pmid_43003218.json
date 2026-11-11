@@ -1,0 +1,62 @@
+{
+ "abstract": "Existing treatment options for colorectal and pancreatic cancers harboring mutant p53 (p53mut) are largely ineffective and lack selectivity. Our novel therapeutic strategy for p53mut cancers with a thymidine analogue (TAS102) and a PARP inhibitor (PARPi) showed promising efficacy in a clinical trial, although the mechanisms remain not fully understood. Here, we investigated the molecular mechanisms underlying therapeutic efficacy of our approach and explored new combinations to further enhance the response. To define the contribution of each drug into the therapeutic response, we conducted an unbiased transcriptomic analysis in p53-proficient and p53mut cancer models. The biological effects were investigated in comprehensive analyses of cell proliferation, cell death, and DNA damage. The drug interactions were explored in cytotoxicity assays and efficacy was tested in patient-derived colorectal and pancreatic cancer models. We found that TAS102-PARPi treatment induces DNA breaks and long G2-arrest in p53mut cells, whereas normal cells rapidly repair their DNA and re-enter the cell cycle. Transcriptomic analysis showed that TAS102 is the major driver of the response, whereas PARPi improves selectivity of the TAS102 effects. The treatment does not block replication in p53mut cells but induces post-replicative DNA repair and represses mitosis. Delayed blockade of G2-checkpoint results in massive cell death in p53mut cells selectively. Priming TAS102-PARPi treatment in combination with delayed G2-checkpoint blockade was highly effective against cancer models and was well-tolerated in mice. Broadly, a novel two-step therapeutic strategy showed high efficacy and selectivity for p53mut cancers and low toxicity to normal tissues, demonstrating potential for clinical translation.",
+ "authors": [
+  "Alruwaili MM",
+  "Guo Y",
+  "Zonneville J",
+  "Melendy T",
+  "Straubinger RM",
+  "Foster BA",
+  "Rajan P",
+  "Withers H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43003218",
+ "importance": 0.57,
+ "key_points_ko": [
+  "TAS102와 PARP 억제제 조합은 p53 변이 암세포에서 선택적으로 DNA 절단과 G2 기 정지를 유도하여 암세포 사멸을 촉진했습니다.",
+  "전사체 분석 결과 TAS102가 주요 치료 반응을 주도하고 PARP 억제제가 선택성을 향상시키는 역할을 하는 것으로 나타났습니다.",
+  "TAS102-PARPi 치료 후 G2 세포주기 조절점 차단을 순차적으로 실시하는 2단계 병용 치료는 마우스 모델에서 독성이 적고 항암 효능이 뛰어났습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218962",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43003218"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43003218/"
+ },
+ "summary_ko": "본 연구는 p53 변이(p53mut)를 동반한 대장암 및 췌장암 모델에서 티미딘 유사체인 TAS102와 PARP 억제제(PARPi) 조합 치료의 분자적 기전을 규명한 전임상 연구입니다. 연구진은 TAS102와 PARP 억제제 병용 투여가 정상 세포에는 영향을 주지 않으면서 p53 변이 암세포에서 지속적인 DNA 손상과 G2 기 정지(G2-arrest)를 유도한다는 점을 확인했습니다. 나아가 TAS102-PARPi 선행 치료 후 G2 세포주기 조절점(G2-checkpoint)을 차단하는 2단계 치료 전략이 환자 유래 암 모델 및 마우스 모델에서 강력한 항암 효과와 우수한 내약성을 보임을 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Effective Targeting of p53-Mutant Colorectal and Pancreatic Cancers by Combinatorial Therapeutic Strategy",
+ "title_ko": "조합 치료 전략을 통한 p53 변이 대장암 및 췌장암의 효과적인 표적화",
+ "trial": null,
+ "type": "paper"
+}

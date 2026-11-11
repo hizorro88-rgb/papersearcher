@@ -10,7 +10,8 @@
   "Yao G"
  ],
  "categories": [
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "whipple"
@@ -26,7 +27,12 @@
  ],
  "id": "pmid:43000926",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "전체 코호트에서 변형 블룸가르트 군은 CR-POPF 발생률이 6.9%로 기존 군의 17.4%보다 유의하게 낮았습니다 (p=0.019).",
+  "복부 감염 발생률 또한 변형 군이 5.9%로 기존 군의 15.7%보다 유의하게 낮았습니다 (p=0.022).",
+  "성향점수 매칭 후 분석에서도 변형 군의 복부 감염은 유의하게 줄었습니다 (6.4% vs 16.7%, p=0.045).",
+  "주췌관 직경이 3mm를 초과하는 환자에서 변형 문합술의 보호 효과가 나타났습니다 (전체 코호트 OR=0.176, p=0.008)."
+ ],
  "last_updated": "2026-11-10",
  "links": {
   "doi": "10.1002/wjs.70659",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43000926/"
  },
- "summary_ko": "BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed, but clinically relevant postoperative pancreatic fistula (CR-POPF) remains a major complication. This study evaluated a modified Blumgart pancreaticojejunostomy (PJ) technique in LPD.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 복강경 췌십이지장절제술(LPD)을 받은 환자들을 대상으로 변형 블룸가르트 췌장공장문합술(PJ) 기법의 안전성과 유효성을 평가했습니다. 2021년 1월부터 2025년 12월까지 수술을 받은 217명의 환자가 참여했습니다. 연구 결과 변형 군은 전통적 군에 비해 임상적으로 유의미한 수술 후 췌장 누출(CR-POPF)과 복부 감염 발생률이 낮았습니다. 특히 주췌관 직경이 3mm를 초과하는 환자에게서 보호 효과가 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study",
- "title_ko": null,
+ "title_ko": "복강경 췌십이지장절제술에서 변형 블룸가르트 췌장공장문합술: 후향적 연구",
  "trial": null,
  "type": "paper"
 }

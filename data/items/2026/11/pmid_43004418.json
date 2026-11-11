@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer remains one of the most aggressive solid malignancies. The majority of patients present with locally advanced or metastatic disease, limiting treatment options to systemic chemotherapy. Conventional chemotherapy forms the backbone of the standard-of-care regimen and offers modest but significant survival benefits.\nMAIN BODY: This review discusses currently established standard-of-care regimens and cutting edge clinical trials which aim to enhance chemotherapy efficacy in pancreatic cancer. Pancreatic cancer's distinct pathological features-including its high metastatic potential, inherent chemoresistance, dense desmoplastic stroma, and profoundly immunosuppressive tumour microenvironment-underscore the rationale for the clinical development of chemosensitizing agents. As mechanisms of chemoresistance continue to be uncovered, new therapeutic avenues are emerging that aim to enhance the efficacy of chemotherapy. Emerging targets including KRAS, MTAP, EGFR, Claudin 18.2, and WEE1, which present unique vulnerabilities for rational combination therapies, are discussed.\nCONCLUSION: Given the central role of chemotherapy in pancreatic cancer treatment, ongoing clinical strategies that improve its efficacy are essential to achieving better outcomes for patients.",
+ "authors": [
+  "Hackett D",
+  "Kane LE",
+  "Prina-Mello A",
+  "Maher SG"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004418",
+ "importance": 0.61,
+ "key_points_ko": [
+  "췌장암 환자의 대부분은 국소 진행성 또는 전이 상태로 진단되어 전신 항암화학요법에 치료를 의존합니다.",
+  "조밀한 기질과 항암제 내성, 면역억제적 미세환경을 극복하기 위한 항암제 민감화 치료 전략이 강조됩니다.",
+  "항암제 효능을 높이기 위한 새로운 표적으로 KRAS, MTAP, EGFR, Claudin 18.2, WEE1 등이 다루어집니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1186/s12916-026-05134-x",
+  "nct": [],
+  "pmcid": "PMC13746621",
+  "pmid": "43004418"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-08-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004418/"
+ },
+ "summary_ko": "췌장암은 대부분 국소 진행성 또는 전이성 단계에서 진단되어 전신 항암화학요법(chemotherapy)이 주요 치료법으로 활용됩니다. 본 종설 논문은 현재 확립된 표준 치료법과 항암제 효능을 향상시키기 위한 최신 임상시험 전략을 종합적으로 다룹니다. 췌장암의 높은 전이 가능성, 내재적 항암제 내성, 조밀한 섬유성 기질, 면역억제적 종양 미세환경은 항암제 민감제(chemosensitizing agents) 개발의 중요성을 보여줍니다. 항암 효능을 극대화하기 위한 병용 치료 표적으로 KRAS, MTAP, EGFR, Claudin 18.2, WEE1 등이 다루어집니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Current and emerging strategies to enhance chemotherapeutic efficacy in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장관선암에서 항암화학요법의 효능을 향상시키기 위한 현재 및 최신 전략",
+ "trial": null,
+ "type": "paper"
+}

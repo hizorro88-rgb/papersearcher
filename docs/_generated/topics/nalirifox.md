@@ -67,12 +67,19 @@ search:
 
 ---
 <a id="pmid-43001195"></a>
-#### [Real-World Tolerability and Effectiveness of Nanoliposomal Irinotecan in Metastatic Pancreatic Cancer: A Multicentre Indian Experience](https://pubmed.ncbi.nlm.nih.gov/43001195/)
-`논문` `관찰연구` `치료 전반` `신약·치료제` · 2026-10-09 · PubMed · Cureus · 중요도 0.65
+#### [전이성 췌장암에서 나노리포조말 이리노테칸의 실제 임상 내약성 및 유효성: 인도 다기관 경험](https://pubmed.ncbi.nlm.nih.gov/43001195/)
+<small>Real-World Tolerability and Effectiveness of Nanoliposomal Irinotecan in Metastatic Pancreatic Cancer: A Multicentre Indian Experience</small>
 
-Background Metastatic pancreatic ductal adenocarcinoma (mPDAC) is associated with poor prognosis and has limited therapeutic options. Nanoliposomal irinotecan (Nal-IRI), evaluated in the NAPOLI-1 and NAPOLI-3 clinical trials, has demonstrated survival benefit in later-line and first-line settings, respectively.
+`논문` `관찰연구` `신약·치료제` `치료 전반` · 2026-10-09 · PubMed · Cureus · 중요도 0.65
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001195/) · [DOI](https://doi.org/10.7759/cureus.117689) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744743/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001195)</small>
+이 연구는 인도 환자들을 대상으로 전이성 췌장암(mPDAC)에 나노리포조말 이리노테칸(nanoliposomal irinotecan, nal-IRI) 기반 치료법의 실제 임상 내약성과 초기 유효성을 평가한 후향적 관찰 연구입니다. 24명의 환자가 nal-IRI 기반 치료를 받았으며, 주로 설사, 피로, 점막염, 호중구감소증 등의 이상반응이 관찰되었습니다. 3개월 및 6개월 시점의 카플란-마이어(Kaplan-Meier) 추정 전체 생존(OS) 확률은 각각 95%와 88%였습니다. 연구진은 nal-IRI 기반 치료법이 관리 가능한 수준의 내약성을 보였다고 결론지었습니다. 다만 짧은 추적 관찰 기간으로 인해 생존 결과는 탐색적 수준이며 대규모 전향적 연구가 필요합니다.
+
+- 총 24명의 전이성 췌장암 환자가 nal-IRI 기반 치료를 받았습니다.
+- 가장 흔한 이상반응은 설사(20%), 피로(12.7%), 점막염(10.9%), 호중구감소증(10.9%)이었습니다.
+- 이상반응 중 26.4%는 1등급, 39.6%는 2등급, 34.0%는 3등급이었으며, 치료 중단은 11.5%에서 발생했습니다.
+- 3개월 및 6개월 전체 생존(OS) 확률은 각각 95%와 88%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43001195/) · [DOI](https://doi.org/10.7759/cureus.117689) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13744743/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43001195)</small>
 
 ---
 <a id="pmid-42827581"></a>

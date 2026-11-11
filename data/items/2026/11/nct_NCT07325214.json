@@ -3,9 +3,9 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "treatment",
-  "surgery",
-  "diagnosis"
+  "surgery"
  ],
  "entities": [],
  "evidence": "other",
@@ -19,7 +19,12 @@
  ],
  "id": "nct:NCT07325214",
  "importance": 0.79,
- "key_points_ko": [],
+ "key_points_ko": [
+  "대상 질환은 경계성 절제 가능 췌장암(borderline resectable pancreatic cancer) 또는 국소 진행성 췌장암(locally advanced pancreatic cancer)입니다.",
+  "실험군은 irinotecan hydrochloride, oxaliplatin, fluorouracil(5-FU), leucovorin 항암화학요법과 IMD10(집속초음파)을 함께 치료받습니다.",
+  "대조군은 동일한 항암화학요법 단독으로 치료받습니다.",
+  "1대 1 무작위 배정으로 진행되며, 주 목표 평가지표는 전체 생존기간(overall survival)입니다."
+ ],
  "last_updated": "2026-11-10",
  "links": {
   "doi": null,
@@ -43,13 +48,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07325214"
  },
- "summary_ko": "The purpose of this Interventional clinical trial is to evaluate safety and efficacy of 'IMD10 (focused ultrasound)' in the treatment of borderline resectable pancreatic cancer or locally advanced pancreatic cancer. * Background: Pancreatic Cancer (PaC) ranks as the 5th most common cause of cancer-related deaths in the Western world.",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 경계성 절제 가능 또는 국소 진행성 췌장암(pancreatic cancer) 환자들을 대상으로 집속초음파(focused ultrasound) 기기인 IMD10과 항암화학요법(irinotecan hydrochloride, oxaliplatin, fluorouracil [5-FU], leucovorin) 병용 치료의 안전성과 유효성을 평가합니다. 다국적, 무작위 배정 방식으로 미국과 대한민국에서 진행되며, 총 366명의 환자가 참여할 예정입니다. 실험군은 항암화학요법과 IMD10 치료를 함께 받고, 대조군은 항암화학요법 단독 치료를 받습니다. 주된 결과 측정 항목은 전체 생존기간(overall survival, OS)입니다.",
+ "summary_source": "llm",
  "tags": [
   "Focused Ultrasound"
  ],
  "title": "Chemotherapy With or Without IMD10 (Focused Ultrasound) in the Treatment of Borderline Resectable or Locally Advanced Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "경계성 절제 가능 또는 국소 진행성 췌장암 치료에서 집속초음파(IMD10)를 병용한 항암화학요법의 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
@@ -63,7 +68,7 @@
     "phone": "+82-70-5080-2438"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 85세 이하의 연령\n- 병리학적으로 확진된 췌장관선암(PDAC)\n- NCCN 가이드라인에 따른 경계성 절제 가능(BRPC) 또는 국소 진행성(LAPC) 췌장암\n- RECIST 1.1 기준에 따른 측정 가능한 병변이 최소 1개 이상 존재\n- ECOG 수행능력 상태 0 또는 1\n\n제외 기준:\n- 치료할 Tumor 내부 또는 인접한 췌장에 낭성 병변(cystic lesion)이 있는 경우\n- 초음파 빔이 통과하는 부위에 광범위한 흉터나 수술 클립이 있는 경우\n- IMD10으로 대상 종양이 명확히 보이지 않거나 치료 범위에 맞지 않는 경우\n- 평위(supine position)로 누워있기 어려운 경우\n- 초음파 젤 또는 임상시험에 사용되는 항암제에 대한 중증 과민반응 병력이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\nAn individual must meet all the following criteria:\n\n-1. Willing and able to understand and sign an ICF and to comply with all aspects of the protocol\n\n* 2\\. Aged between 18 and 85 years, inclusive\n* 3\\. Histologically or cytologically, pathologically confirmed diagnosis of PDAC.\n* 4\\. Classification as BRPC or LAPC according to the NCCN Guidelines (The latest Edition) by radiologic test (CT or MRI), eligible for chemotherapy regimen within 4 weeks of the screening visit\n* 5\\. Must have at least 1 measurable lesion per RECIST 1.1 criteria at the screening visit.\n* 6\\. The ECOG performance status 0 or 1\n* 7\\. Trial participant having laboratory values defined as:\n\n  \\-- Neutrophil count ≥ 1.5 x 109/L\n  * Platelet count ≥ 100 x 109/L\n  * AST and ALT ≤ 2.5 x ULN\n  * Serum creatinine ≤ 1.5 x ULN\n* 8\\. Life expectancy is more than 12 weeks\n* 9\\. A female is eligible to trial participate if not pregnant, not breast feeding -and either a woman not of childbearing potential or, if a woman of childbearing potential agrees to use highly effective methods of contraception from screening to EOS\n* 10\\. A male trial participant with female partner(s) of childbearing potential agrees to use highly effective methods of contraception from screening to EOS\n\nExclusion Criteria:\n\nAn individual who meets any of the following criteria will be excluded from participating in this clinical trial:\n\n* 1\\. The presence of a cystic lesion within tumor to be treated, or at the pancreas adjacent to the treated tumor.\n* 2\\. Extensive scars or surgical clips observed in the region through which the ultrasound beam will pass\n* 3\\. Targeted tumor(s) is not clearly visible with IMD10.\n* 4\\. Tumor is not treatable by the working range of IMD10\n* 5\\. Patient has difficulty in lying in supine position.\n* 6\\. Known history of severe hypersensitivity to ultrasound gel or to chemotherapies (irinotecan hydrochloride, oxaliplatin, fluorouracil (5-FU) and leucovorin) used in this clinical trial\n* 7\\. Known, or ongoing receipt at the time of screening, of anti-tumor therapy for pancreatic cancer including chemotherapy, radiation, and/or surgery\n* 8\\. A cardiovascular condition at the time of the screening visit that deems trial participation inappropriate due to one or more of the following:\n\n  * Class III or IV heart failure according to New York Heart Association (NYHA) classification\n\n    * Acute coronary syndrome (unstable angina or myocardial infarction) within the last 24 weeks --③ Uncontrolled heart arrhythmia\n\n      * Other clinically significant cardiovascular abnormalities as determined by the investigator\n* 9\\. Known history at the time of the screening visit that deems trial participation inappropriate due to one or more of the following:\n\n  * Other uncontrolled chronic infectious diseases\n\n    * Active autoimmune disease (e.g., rheumatoid arthritis, systemic lupus erythematosus, ulcerative colitis, Crohn's disease, multiple sclerosis, ankylosing spondylitis, etc.)\n\n      * Congenital or acquired immunodeficiency diseases, such as cellular immunodeficiency, hypogammaglobulinemia, and hypergammaglobulinemia.\n\n        * Clinically significant mental illness\n* 10\\. Known history of malignancies other than pancreatic cancer within the last 2 years\n* 11\\. Known history of major surgery within 4 weeks of the cycle 1 day 1 (C1D1)\n* 12\\. Pregnant and breastfeeding women\n* 13\\. Participating in another drug/device clinical trial or have participated in another drug/device clinical trial within 4 weeks of C1D1\n* 14\\. Trial participation in the clinical trial is deemed inappropriate at the investigator's discretion, either for ethical reasons or due to potential impact on the clinical trial's outcome",
   "enrollment": 366,
   "has_results": false,
@@ -94,18 +99,32 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
+   "key_exclusions_ko": [
+    "초음파 경로에 흉터나 수술 클립이 있는 경우",
+    "평위로 눕기 어려운 경우",
+    "초음파 젤 또는 사용되는 항암제에 중증 과민반응이 있는 경우",
+    "최근 2년 이내 췌장암 이외의 다른 악성종양 병력"
+   ],
+   "max_prior_lines": 0,
    "measurable_required": true,
-   "min_prior_lines": null,
-   "notes_ko": "",
-   "prior_excluded": [],
+   "min_prior_lines": 0,
+   "notes_ko": "이전 항암 치료를 받지 않은 경계성 절제 가능 또는 국소 진행성 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
    "prior_required": [],
    "setting": [
     "locally_advanced",
     "resectable"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "85 Years",
   "min_age": "18 Years",

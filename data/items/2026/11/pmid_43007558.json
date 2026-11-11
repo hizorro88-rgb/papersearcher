@@ -1,0 +1,54 @@
+{
+ "abstract": "Pancreatic enucleation (PE) is an operation that spares pancreatic parenchyma and thereby preserves glandular function, and it is now widely favoured for benign and low-grade malignant pancreatic neoplasms. Whether adding robotic assistance brings benefit beyond the standard laparoscopic route, however, remains an open question. This meta-analysis therefore contrasted robotic pancreatic enucleation (RPE) with laparoscopic pancreatic enucleation (LPE) with respect to perioperative efficacy and safety. Records of cohort studies that contrasted RPE with LPE were retrieved from the Cochrane Library, PubMed, the Wanfang, Embase and China National Knowledge Infrastructure, covering each database from inception to 1 September 2026. Two investigators working in duplicate screened the records, extracted the data and rated methodological quality with the Newcastle-Ottawa Scale (NOS). R 4.5.3 with the meta package was used for pooling; mean differences (MDs) and risk ratios (RRs) were presented with their 95% confidence intervals (CIs). Publication-bias and sensitivity analyses were omitted because fewer than 10 eligible studies were available. Five studies met the eligibility criteria (each scoring NOS ≥ 7) and together enrolled 272 patients, 144 in the LPE arm and 128 in the RPE arm. Operation time (MD 0.20, 95% CI - 38.98 to 39.39, P = 0.99), intraoperative blood loss (MD 14.60, 95% CI - 3.39 to 32.58, P = 0.11), postoperative pancreatic fistula (risk ratio [RR] 1.21, 95% CI 0.89-1.64, P = 0.23), postoperative bleeding (RR 0.43, 95% CI 0.06-2.97, P = 0.39), and major complications (RR 1.28, 95% CI 0.54-3.00, P = 0.58) did not differ significantly between groups. Postoperative hospital stay was statistically shorter in the RPE group (MD 1.22, 95% CI 0.29-2.16, P = 0.01); however, this finding should be interpreted cautiously and does not, by itself, establish a clinically meaningful recovery advantage. The available evidence is insufficient to demonstrate a clear overall difference between robotic and laparoscopic pancreatic enucleation in perioperative efficacy or safety. Although postoperative hospital stay was shorter in the RPE group in the pooled analysis, the small observational evidence base and potential residual confounding preclude a firm conclusion that robotic surgery provides a recovery advantage. Larger, well-designed prospective multicentre studies are needed.",
+ "authors": [
+  "Shi J",
+  "Zhu C",
+  "Zhou Y"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43007558",
+ "importance": 0.95,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1007/s11701-026-04143-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43007558"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Meta-Analysis",
+  "Comparative Study"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Robot Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43007558/"
+ },
+ "summary_ko": "Pancreatic enucleation (PE) is an operation that spares pancreatic parenchyma and thereby preserves glandular function, and it is now widely favoured for benign and low-grade malignant pancreatic neoplasms. Whether adding robotic assistance brings benefit beyond the standard laparoscopic route, however, remains an open question.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Robotic pancreatic enucleation versus laparoscopic pancreatic enucleation: a meta-analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

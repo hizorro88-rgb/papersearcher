@@ -17,28 +17,45 @@ search:
 - 종류: 시술·수술
 - 별칭: Whipple, pancreaticoduodenectomy, pancreatoduodenectomy, 췌두십이지장절제술, 휘플
 
-## 관련 임상시험 (8)
+## 관련 임상시험 (9)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
+| [췌십이지장절제술 후 췌장 누공 발생의 예측 위험 요인 연구](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
 | [Glubran2 조직 접착제를 이용한 췌장공장문합술 보강의 효과 평가 임상시험](../trials/NCT06756074.md) | 2상 | 모집 중 | - |
 | [췌십이지장절제술 후 통증 조절을 위한 리포소말 부피바카인을 이용한 복직근초 차단술과 흉부 경막외 진통법의 비교](../trials/NCT06411795.md) | 2상 | 모집 중 | - |
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (28)
+## 타임라인 (30)
 
+<a id="pmid-43004858"></a>
+#### [Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting](https://pubmed.ncbi.nlm.nih.gov/43004858/)
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
+
+BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
+
+---
 <a id="pmid-43000926"></a>
-#### [A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study](https://pubmed.ncbi.nlm.nih.gov/43000926/)
-`논문` `관찰연구` `수술` · 2026-11-08 · PubMed · World J Surg · 중요도 0.77
+#### [복강경 췌십이지장절제술에서 변형 블룸가르트 췌장공장문합술: 후향적 연구](https://pubmed.ncbi.nlm.nih.gov/43000926/)
+<small>A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study</small>
 
-BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed, but clinically relevant postoperative pancreatic fistula (CR-POPF) remains a major complication. This study evaluated a modified Blumgart pancreaticojejunostomy (PJ) technique in LPD.
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-08 · PubMed · World J Surg · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43000926/) · [DOI](https://doi.org/10.1002/wjs.70659) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43000926)</small>
+이 연구는 복강경 췌십이지장절제술(LPD)을 받은 환자들을 대상으로 변형 블룸가르트 췌장공장문합술(PJ) 기법의 안전성과 유효성을 평가했습니다. 2021년 1월부터 2025년 12월까지 수술을 받은 217명의 환자가 참여했습니다. 연구 결과 변형 군은 전통적 군에 비해 임상적으로 유의미한 수술 후 췌장 누출(CR-POPF)과 복부 감염 발생률이 낮았습니다. 특히 주췌관 직경이 3mm를 초과하는 환자에게서 보호 효과가 확인되었습니다.
+
+- 전체 코호트에서 변형 블룸가르트 군은 CR-POPF 발생률이 6.9%로 기존 군의 17.4%보다 유의하게 낮았습니다 (p=0.019).
+- 복부 감염 발생률 또한 변형 군이 5.9%로 기존 군의 15.7%보다 유의하게 낮았습니다 (p=0.022).
+- 성향점수 매칭 후 분석에서도 변형 군의 복부 감염은 유의하게 줄었습니다 (6.4% vs 16.7%, p=0.045).
+- 주췌관 직경이 3mm를 초과하는 환자에서 변형 문합술의 보호 효과가 나타났습니다 (전체 코호트 OR=0.176, p=0.008).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43000926/) · [DOI](https://doi.org/10.1002/wjs.70659) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43000926)</small>
 
 ---
 <a id="pmid-42995288"></a>
@@ -389,6 +406,21 @@ BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) is increasingly performed
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-43006085"></a>
+#### [동맥 변이가 있는 국소 진행성 췌장암 환자의 췌장절제술 3례: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/43006085/)
+<small>Three cases of pancreatectomy for locally advanced pancreatic cancer with arterial aberrations: case series and literature review</small>
+
+`논문` `증례` `수술` `치료 전반` · 2026-09-30 · PubMed · Int J Surg Case Rep · 중요도 0.54
+
+본 연구는 해부학적 동맥 변이와 주요 혈관 침범을 동반한 국소 진행성 췌장관선암 환자 3명의 수술 사례를 소개했습니다. 환자 2명은 문맥 및 총간동맥 침범이 확인되어 정맥 및 동맥 동시 절제와 재건술을 포함한 췌두십이지장절제술을 성공적으로 받았습니다. 상장간막동맥 침범이 의심되었던 나머지 1명은 수술 중 실제 침범이 아닌 혈관 주위 섬유화로 확인되어 동맥 절제 없이 수술을 완료했습니다. 철저한 수술 전 평가를 통해 선택된 환자에서는 동맥 변이가 있더라도 주요 혈관 절제 및 재건을 통한 근치적 절제가 가능합니다.
+
+- 간동맥 해부학적 변이(Michels VII형 1명, Michels IX형 2명)와 혈관 침범이 있는 국소 진행성 췌장암 환자 3명의 수술을 진행했습니다.
+- 환자 2명은 문맥 및 총간동맥 절제 후 재건술을 동반한 췌두십이지장절제술을 성공적으로 시행받았습니다.
+- 수술 전 복강동맥 및 상장간막동맥의 해부학적 변이를 면밀히 평가하는 것이 합병증 감소와 근치적 절제에 필수적입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43006085/) · [DOI](https://doi.org/10.1097/RC9.0000000000001078) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13747535/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43006085)</small>
 
 ---
 <a id="pmid-42888870"></a>

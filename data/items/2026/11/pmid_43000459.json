@@ -11,9 +11,10 @@
   "Kumar D"
  ],
  "categories": [
-  "diagnosis",
   "drug",
-  "treatment"
+  "basic",
+  "treatment",
+  "diagnosis"
  ],
  "entities": [],
  "evidence": "review",
@@ -27,12 +28,16 @@
  ],
  "id": "pmid:43000459",
  "importance": 0.62,
- "key_points_ko": [],
- "last_updated": "2026-11-10",
+ "key_points_ko": [
+  "전통적인 항암화학요법은 낮은 종양 침투, 전신 독성, 약물 내성으로 인해 한계가 있습니다.",
+  "나노기술 기반의 약물 전달은 약물의 용해도, 효능, 표적 분포, 약동학적 특성을 개선하는 효과적인 전략입니다.",
+  "지질 기반 나노운반체와 나노에멀젼은 임상적 이점과 치료적 잠재력을 가지고 있으나 표준화 및 규제 문제 해결이 필요합니다."
+ ],
+ "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1007/s00432-026-06560-3",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13745611",
   "pmid": "43000459"
  },
  "pub_types": [
@@ -50,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43000459/"
  },
- "summary_ko": "Pancreatic cancer is among the most prevalent ones, and its diagnosis typically occurs in the latter stages. Traditional chemotherapy is usually limited by low tumour penetration, systemic toxicity, and drug resistance.",
- "summary_source": "excerpt",
+ "summary_ko": "이 문헌은 췌장암(pancreatic cancer)의 발병, 진단, 현재 치료법 및 지질 기반 나노운반체(lipid-based nanocarriers)를 활용한 약물 전달 방식을 다룬 종합 리뷰 논문입니다. 기존 항암제의 낮은 종양 침투력, 전신 독성, 약제 내성 문제를 극복하기 위한 나노기술의 역할과 실험적 결과들을 검토했습니다. 지질 나노운반체의 임상적 이점과 치료적 잠재력뿐만 아니라, 임상 적용을 위한 표준화 및 규제 문제도 함께 다루었습니다. 향후 맞춤형 나노의학, 바이오마커 기반 표적화, 인공지능(AI) 기반 제형 전략을 통해 치료 효과와 진단 정밀도를 높일 수 있음을 시사합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Theranostic lipid nanocarriers for precision diagnosis and targeted therapy in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관선암의 정밀 진단 및 표적 치료를 위한 테라노스틱 지질 나노운반체",
  "trial": null,
  "type": "paper"
 }

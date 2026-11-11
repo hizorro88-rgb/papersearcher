@@ -17,7 +17,7 @@ search:
 - 종류: 시술·수술
 - 별칭: SBRT, stereotactic body radiotherapy, stereotactic body radiation, 정위체부방사선
 
-## 관련 임상시험 (18)
+## 관련 임상시험 (19)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -38,6 +38,7 @@ search:
 | [국소 진행성 췌장암 환자를 대상으로 한 입체정술 체외 방사선 치료(SBRT)와 zimberelimab(짐베렐리맙) 병용 요법…](../trials/NCT06009029.md) | 2상 | 모집 예정 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, P…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
+| [Testing the Combination of Two Approved Chemotherapy Drugs and Radiat…](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
 ## 타임라인 (6)

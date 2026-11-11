@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Current clinical practice guidelines recommend molecular profiling for patients with pancreatic ductal adenocarcinoma (PDAC). However, endoscopic ultrasound-guided small specimens are often insufficient for next-generation sequencing (NGS). In this study, the impact of a standardized protocol designed to optimize tissue acquisition for NGS was evaluated.\nMETHODS: Quality assurance data from patients with suspected PDAC who underwent endoscopic ultrasound-guided tissue acquisition for NGS was retrospectively analyzed. A standardized workflow incorporating rapid onsite evaluation using predefined adequacy criteria, dedicated tissue procurement for cell block preparation, multidisciplinary communication, and prospective monitoring of molecular outcomes were evaluated using a successful NGS result as the primary endpoint.\nRESULTS: Of the 61 patients with confirmed PDAC by cytology, 49 specimens (80.3%) were deemed adequate for NGS during rapid onsite evaluation. Forty-one specimens with a median tumor fraction of 30% underwent NGS. Median DNA and RNA yields were 20.8 ng/µL and 19.7 ng/µL, respectively. DNA-based NGS was successful in 39 cases (95.1%), whereas RNA-based fusion analysis succeeded in 22 cases (53.7%). Median turnaround time from specimen receipt to NGS reporting was 10 business days.\nCONCLUSIONS: A standardized molecular adequacy protocol achieved high DNA sequencing success but did not substantially improve overall specimen adequacy compared with prior institutional experience. Intrinsic biologic features of PDAC, including low tumor cellularity and abundant desmoplastic stroma and nonneoplastic elements remain the principal barriers to molecular profiling. Future efforts that focus on improving tumor enrichment and optimizing RNA preservation may expand precision oncology access to patients with PDAC.",
+ "authors": [
+  "Gao Y",
+  "Canty C",
+  "Prakash LR",
+  "Coronel E",
+  "Katz MHG",
+  "Snyder RA",
+  "Roy-Chowdhuri S"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43006245",
+ "importance": 0.95,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1002/cncy.70165",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43006245"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-12-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Cytopathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43006245/"
+ },
+ "summary_ko": "INTRODUCTION: Current clinical practice guidelines recommend molecular profiling for patients with pancreatic ductal adenocarcinoma (PDAC). However, endoscopic ultrasound-guided small specimens are often insufficient for next-generation sequencing (NGS).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Implementation of a rapid onsite molecular adequacy protocol for endoscopic ultrasound-guided sampling of pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

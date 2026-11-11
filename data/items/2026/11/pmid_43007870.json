@@ -1,0 +1,57 @@
+{
+ "abstract": "Metabolic reprogramming is a hallmark of cancer and involves alterations in glucose metabolism. Increasing evidence shows that acylation modifications mediated by metabolic intermediates play vital roles in cancer progression. Toward understanding the lysine succinylation (Ksu) that regulate pancreatic ductal adenocarcinoma (PDAC) development, we conduct a comprehensive succinylproteome study on a prospectively collected PDAC cohort. Succinylome integration identifies a range of dysregulated Ksu sites closely associated with metabolic perturbations. Moreover, cross-talk analysis of Ksu and lysine lactylation (Kla) reveals the functional roles of Ksu in proteins specifically related to the fatty acid β-oxidation (FAO), among which, the succinylation at lysine 115 (K115su) of short-chain enoyl-CoA hydratase 1 (ECHS1) is downregulated in pancreatic cancer. It is further verified that K115su reduces the conversion of ECHS1 for its substrate, thereby inhibiting FAO metabolism. Therefore, our study delineates multiple cancer-specific Ksu sites and unravels the significance of ECHS1 K115su in PDAC progression.",
+ "authors": [
+  "Duan Y",
+  "Fan Z",
+  "Ma Y",
+  "Liu Z",
+  "Li B",
+  "Xiu Y",
+  "Huang K",
+  "Zhang W"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43007870",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1016/j.celrep.2026.118317",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43007870"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43007870/"
+ },
+ "summary_ko": "Metabolic reprogramming is a hallmark of cancer and involves alterations in glucose metabolism. Increasing evidence shows that acylation modifications mediated by metabolic intermediates play vital roles in cancer progression.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "ECHS1 K115 succinylation inhibits fatty acid β-oxidation in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

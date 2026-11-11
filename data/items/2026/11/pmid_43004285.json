@@ -1,0 +1,54 @@
+{
+ "abstract": "BACKGROUND: Hepatobiliary and pancreatic (HBP) cancers often require complex surgeries that lead to functional decline and poor quality of life (QoL). Exercise-containing multimodal prehabilitation has gained attention as a potential strategy to enhance perioperative outcomes. This meta-analysis aimed to systematically evaluate the impact of exercise-containing multimodal prehabilitation on functional outcomes in patients with HBP cancers.\nMETHODS: A systematic search across six electronic databases was undertaken to identify randomized controlled trials (RCTs) and non-randomized studies of interventions (NRSIs) assessing exercise-containing multimodal prehabilitation in adult patients undergoing surgery for HBP cancers. Outcomes included 6-minute walk test (6MWT), QoL, length of stay (LOS), postoperative complications (POCs), and short-term mortality. Random-effects meta-analyses were performed by incorporating potential influence of heterogeneity.\nRESULTS: Fifteen studies (8 RCTs and 7 NRSIs) involving 1,643 patients were included. Exercise-containing multimodal prehabilitation significantly improved 6MWT (mean difference [MD]: 30.79 m; 95% CI: 16.98 to 44.59; I² = 72%; p < 0.001) and QoL (standardized mean difference: 0.39; 95% CI: 0.05 to 0.72; I² = 77%; p = 0.02). LOS (MD: -1.10 days; 95% CI: -2.38 to 0.19; p = 0.09), POCs (OR: 0.70; 95% CI: 0.48 to 1.03; p = 0.07), and short-term mortality (OR: 0.80; 95% CI: 0.29 to 2.19; p = 0.67) showed non-significant reductions. The certainty of evidence ranged from moderate (6MWT, QoL) to very low (mortality).\nCONCLUSIONS: Exercise-containing multimodal prehabilitation may improve postoperative functional capacity and quality of life in patients undergoing surgery for HBP cancers. However, current evidence for its effects on length of hospital stay, postoperative complications, and mortality remains limited. Further high-quality studies are warranted to confirm these clinical benefits.",
+ "authors": [
+  "She Z",
+  "Jiang Q",
+  "Lu W"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004285",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1186/s12885-026-16581-3",
+  "nct": [],
+  "pmcid": "PMC13746705",
+  "pmid": "43004285"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Meta-Analysis"
+ ],
+ "published_at": "2026-08-11",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004285/"
+ },
+ "summary_ko": "BACKGROUND: Hepatobiliary and pancreatic (HBP) cancers often require complex surgeries that lead to functional decline and poor quality of life (QoL). Exercise-containing multimodal prehabilitation has gained attention as a potential strategy to enhance perioperative outcomes.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Exercise-containing multimodal prehabilitation on functional outcome of patients with hepatobiliary and pancreatic cancer after surgery: a meta-analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

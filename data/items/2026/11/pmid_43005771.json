@@ -1,0 +1,61 @@
+{
+ "abstract": "[This corrects the article DOI: 10.3389/fonc.2026.1935795.].",
+ "authors": [
+  "Rashford KV",
+  "Kittrell CG",
+  "Young LEA",
+  "Nietert DA",
+  "McDowell CT",
+  "Grimsley G",
+  "Sells BE",
+  "Bejar K"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43005771",
+ "importance": 0.55,
+ "key_points_ko": [
+  "전립선암 및 췌장암 조직의 림프 집합체에 대한 공간 당쇄학(spatial glycomics) 연구의 정정 논문입니다.",
+  "구체적인 정정 세부 사항은 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.3389/fonc.2026.2029746",
+  "nct": [],
+  "pmcid": "PMC13746237",
+  "pmid": "43005771"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43005771/"
+ },
+ "summary_ko": "본 논문은 전립선암 및 췌장암 조직 내 림프 집합체를 분석한 기존 연구에 대한 논문 정정(Published Erratum)입니다. 원본 논문(DOI: 10.3389/fonc.2026.1935795)의 오류를 수정하기 위해 게재되었습니다. 구체적인 수정 내용이나 추가 수치는 원문에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction: Multi-modal spatial glycomic analysis of lymphoid aggregates in prostate and pancreatic cancer tissues",
+ "title_ko": "[정정] 전립선암 및 췌장암 조직 내 림프 집합체의 다중 모달 공간 당쇄학 분석",
+ "trial": null,
+ "type": "paper"
+}

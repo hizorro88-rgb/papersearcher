@@ -31,7 +31,7 @@
   "85세까지의 평생 예측 절대 위험도(AR)는 여성 췌장암 4.80%, 남성 췌장암 3.98%, 여성 유방암 41.84%, 전립선암 36.11%로 추정되었습니다.",
   "담도암 및 남성 대장암과의 연관성은 관찰되지 않았습니다."
  ],
- "last_updated": "2026-11-10",
+ "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1200/PO-26-00417",
   "nct": [],
@@ -40,7 +40,8 @@
  },
  "pub_types": [
   "Journal Article",
-  "Multicenter Study"
+  "Multicenter Study",
+  "Observational Study"
  ],
  "published_at": "2026-11-09",
  "relevance": 0.5,

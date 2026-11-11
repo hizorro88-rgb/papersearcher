@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Microscopic margin involvement (≤ 1 mm) strongly predicts poor prognosis in pancreatic ductal adenocarcinoma (PDAC). Adjuvant chemotherapy (ACT) after upfront resection fails to fully mitigate this risk. It remains uncertain whether neoadjuvant chemotherapy (NACT) can neutralize the adverse prognostic impact of impending ≤ 1 mm margins.\nMETHODS: Prognostic significance of ≤ 1 mm margins was assessed in an upfront-resection cohort (n = 228) using multivariable Cox regression. A separate cohort (n = 110; 52 NACT, 58 upfront surgery) compared overall survival (OS) by margin status. A CT-based radiomics model using a Laplacian-Dirichlet operator was developed to predict ≤ 1 mm margins and externally validated (n = 230).\nRESULTS: ≤ 1 mm margins independently predicted worse OS vs. > 1 mm (15.0 vs. 24.0 months, p = 0.005). ACT numerically extended OS for ≤ 1 mm patients (16.0 vs. 15.0 months, p = 0.271) but did not close the survival gap. Notably, ≤ 1 mm patients receiving NACT achieved median OS of 29.4 months-comparable to > 1 mm upfront patients (31.6 months)-and significantly better than ≤ 1 mm upfront patients (19.6 months, p = 0.045). The model predicted ≤ 1 mm margins with AUCs of 0.772 (95% CI: 0.705-0.838) and 0.723 (95% CI: 0.657-0.789) in internal and external validation.\nCONCLUSION: NACT-not ACT-selectively rescues high-risk patients destined for ≤ 1 mm margins. Our radiomics model enables preoperative identification, supporting personalized neoadjuvant therapy.",
+ "authors": [
+  "Li M",
+  "Lin Y",
+  "Wang Z",
+  "Liu J",
+  "Cai H",
+  "Liu X",
+  "Huang Z",
+  "Liu X"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004842",
+ "importance": 0.71,
+ "key_points_ko": [
+  "수술 절제연이 1mm 이하인 환자의 중앙 전체 생존기간(OS)은 15.0개월로 1mm 초과인 환자(24.0개월)에 비해 유의하게 낮았습니다(p=0.005).",
+  "수술 전 선행보조항암요법(NACT)을 받은 절제연 1mm 이하 환자의 중앙 전체 생존기간은 29.4개월로, 수술을 먼저 시행한 동일 그룹(19.6개월)에 비해 유의하게 길었습니다(p=0.045).",
+  "CT 기반 라디오믹스 예측 모델은 내부 검증에서 AUC 0.772, 외부 검증(230명)에서 AUC 0.723의 성능을 보였습니다."
+ ],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1002/jso.70453",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004842"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004842/"
+ },
+ "summary_ko": "본 연구는 췌장두부암 환자에서 수술 절제연이 1mm 이하인 고위험군을 수술 전 CT 기반 라디오믹스(Radiomics) 모델로 예측하고 선행보조항암요법(NACT)의 치료 효과를 분석했습니다. 분석 결과 수술 후 보조항암요법(ACT)은 절제연 1mm 이하 환자의 생존율 열세를 극복하지 못했으나, 수술 전 선행보조항암요법을 받은 경우 전체 생존기간이 크게 개선되었습니다. 연구진이 개발한 라디오믹스 예측 모델은 외부 검증에서 AUC 0.723의 정확도를 보여주었습니다. 이를 통해 수술 전 고위험 환자를 선별하여 맞춤형 선행보조항암 치료를 결정하는 데 도움을 줄 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CT-Based Radiomics for Preoperative Prediction of Surgical Margins in Pancreatic Head Cancer: A Tool for Selecting Patients for Neoadjuvant Chemotherapy",
+ "title_ko": "췌장두부암 수술 절제연의 수술 전 예측을 위한 CT 기반 라디오믹스: 선행보조항암요법 환자 선별 도구",
+ "trial": null,
+ "type": "paper"
+}

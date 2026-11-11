@@ -24,8 +24,32 @@ search:
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 | [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](../trials/NCT06069297.md) | 해당 없음 | 진행 중(모집 종료) | - |
 
-## 타임라인 (9)
+## 타임라인 (11)
 
+<a id="pmid-43004101"></a>
+#### [Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery](https://pubmed.ncbi.nlm.nih.gov/43004101/)
+`논문` `관찰연구` `수술` · 2026-11-09 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+BACKGROUND: A minimally invasive approach currently is the gold standard for distal pancreatectomy (DP). Robotic distal pancreatectomy (RDP) is increasingly adopted and offers technical advantages.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004101/) · [DOI](https://doi.org/10.1245/s10434-026-20822-x) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004101)</small>
+
+---
+<a id="pmid-43005647"></a>
+#### [간문부 인접 췌장암 간전이에 대한 간문부 동시 소조술 증례 보고](https://pubmed.ncbi.nlm.nih.gov/43005647/)
+<small>Perihilar Co-Ablation for Pancreatic Cancer Liver Metastasis Adjacent to the Hepatic Pedicle: A Case Report and Literature Review</small>
+
+`논문` `증례` `치료 전반` `수술` · 2026-11-05 · PubMed · J Hepatocell Carcinoma · 중요도 0.57
+
+췌관선암(Pancreatic ductal adenocarcinoma) 수술 후 간문부(Hepatic pedicle)에 인접한 간전이가 발생한 55세 남성 환자의 증례입니다. 주요 혈관과 담관이 있는 간문부의 열 손상 위험을 피하기 위해 초음파 유도하 간문부 동시 소조술(Perihilar co-ablation)을 시행했습니다. 시술 결과 주요 구조물을 보존하면서 종양을 완전히 소조했습니다. 환자는 시술 2일 만에 퇴원했으며, 6개월 추적 관찰 동안 재발이나 합병증이 관찰되지 않았습니다.
+
+- 간문부에 인접하여 기존 열소조술 위험이 높은 간전이 환자 1명에게 동시 소조술을 시행했습니다.
+- 실시간 얼음 공(Ice-ball) 시각화를 활용하여 간문부 구조 손상 없이 종양의 완전 소조를 달성했습니다.
+- 시술 6개월 후 추적 관찰에서 종양 재발 및 시술 관련 합병증은 관찰되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43005647/) · [DOI](https://doi.org/10.2147/JHC.S656013) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746914/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43005647)</small>
+
+---
 <a id="pmid-42950589"></a>
 #### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
 <small>Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021</small>

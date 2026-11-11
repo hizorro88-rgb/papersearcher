@@ -7,10 +7,11 @@
   "Andersen MH"
  ],
  "categories": [
+  "basic",
   "drug"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "review",
  "first_seen": "2026-11-10",
  "history": [
   {
@@ -20,13 +21,17 @@
   }
  ],
  "id": "pmid:43000508",
- "importance": 0.6,
- "key_points_ko": [],
- "last_updated": "2026-11-10",
+ "importance": 0.62,
+ "key_points_ko": [
+  "초록에 구체적인 환자 수나 임상시험 수치는 명시되지 않았습니다.",
+  "돌연변이(mutant) KRAS 백신을 통한 췌장암 차단 기전을 다룹니다.",
+  "G12D 면역원성의 특성과 역설적 현상을 분석했습니다."
+ ],
+ "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1038/s41392-026-03088-3",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13745588",
   "pmid": "43000508"
  },
  "pub_types": [
@@ -43,11 +48,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43000508/"
  },
- "summary_ko": "원문을 확인하세요.",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌장암 조기 차단을 위한 돌연변이 KRAS 백신과 G12D 면역원성 역설에 대해 다룹니다. 초록에 세부 환자 수나 임상시험 결과는 명시되지 않았습니다. 췌장암 발생 과정에서 KRAS 돌연변이를 타겟으로 하는 면역 반응의 특성을 분석했습니다. 구체적인 생존기간이나 반응률 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
- "title_ko": null,
+ "title_ko": "췌장암 조기 차단을 위한 돌연변이 KRAS 백신: G12D 면역원성 역설",
  "trial": null,
  "type": "paper"
 }

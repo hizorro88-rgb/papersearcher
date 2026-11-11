@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: A minimally invasive approach currently is the gold standard for distal pancreatectomy (DP). Robotic distal pancreatectomy (RDP) is increasingly adopted and offers technical advantages. As life expectancy rises, more octogenarians undergo pancreatic resection, and emerging evidence suggests minimally invasive approaches may benefit older adults. However, the role of RDP in this population remains underexplored.\nMETHODS: A multi-institutional retrospective cohort study from four high-volume North American hepato-pancreatobiliary centers was conducted. Adults undergoing elective open distal pancreatectomy (ODP) or RDP between 2007 and 2023 were stratified as < 80 versus ≥ 80 years of age. The primary outcome was 90-day mortality. The secondary outcomes included major complications and oncologic outcomes. Multivariable models were applied to adjust for relevant covariates. A subanalysis was performed on patients with pancreatic ductal adenocarcinoma (PDAC).\nRESULTS: Of 797 patients undergoing DP, 62 were aged ≥ 80 years. Despite more comorbidities and higher PDAC rates, older patients had comparable perioperative outcomes. Blood loss, conversion, complications, length of stay, readmissions, and 90-day mortality were similar between age groups. On adjusted analysis, age ≥ 80 years was not associated with major complications or 90-day mortality in the overall cohort or PDAC subgroup. Whereas RDP was independently associated with fewer major complications, longer operative time and greater blood loss increased adverse outcomes. Among PDAC patients, perioperative and oncologic outcomes, including survival, were comparable across age groups.\nCONCLUSION: Octogenarians achieve perioperative and oncologic outcomes comparable with those of younger patients when treated in high-volume centers, including survival. A robotic approach proved advantageous in reducing complications. The current findings reinforce the role of resection when indicated.",
+ "authors": [
+  "Vallorani A",
+  "Hays SB",
+  "Kuchta KM",
+  "Ganguli S",
+  "Johnson C",
+  "Rojas A",
+  "Mehdi SA",
+  "Grandhi MS"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-11",
+ "history": [
+  {
+   "date": "2026-11-11",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43004101",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-11",
+ "links": {
+  "doi": "10.1245/s10434-026-20822-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43004101"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004101/"
+ },
+ "summary_ko": "BACKGROUND: A minimally invasive approach currently is the gold standard for distal pancreatectomy (DP). Robotic distal pancreatectomy (RDP) is increasingly adopted and offers technical advantages.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
