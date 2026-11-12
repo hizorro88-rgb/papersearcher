@@ -29,7 +29,7 @@
   "CA19-9, Spatial Separation, Kinetic Separation 등의 지표가 림프절 전이와 통계적으로 유의미한 상관관계를 보였습니다(모든 P < 0.05).",
   "서식지 영상과 임상 정보를 결합한 모델은 임상 단독 모델보다 예측 성능이 유의미하게 향상되었습니다(P = 0.042)."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "links": {
   "doi": "10.1186/s12880-026-02652-1",
   "nct": [],
@@ -37,7 +37,8 @@
   "pmid": "43000231"
  },
  "pub_types": [
-  "Journal Article"
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
  ],
  "published_at": "2026-08-11",
  "relevance": 1.0,

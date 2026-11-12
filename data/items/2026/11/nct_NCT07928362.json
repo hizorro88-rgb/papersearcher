@@ -21,11 +21,11 @@
  "id": "nct:NCT07928362",
  "importance": 0.71,
  "key_points_ko": [
-  "간 또는 폐에만 3개 이하(각 최대 직경 3cm 이하)의 전이 병변이 있는 전이성 췌장암 환자를 대상으로 합니다.",
-  "다중모드 열치료(MTT), toripalimab(토리팔리맙), gemcitabine(젬시타빈), nab-paclitaxel(나브-팍리탁셀)의 4제 병용 요법을 평가합니다.",
-  "목표 대상 환자 수는 총 56명이며 다기관 전향적 단일군 2상 임상시험으로 진행됩니다."
+  "목표 인원은 총 56명입니다.",
+  "대상은 이전 전신 치료력이 없는 간 또는 폐 전이 전이성 췌장암 환자입니다.",
+  "중재 방법은 다모달 열치료 시스템(Multimodal Thermal Therapy System, MTT), toripalimab, gemcitabine, nab-paclitaxel의 병용입니다."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +48,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07928362"
  },
- "summary_ko": "이 연구는 이전 치료 경험이 없으며 간 또는 폐에만 전이가 국한된 전이성 췌장암 환자를 대상으로 합니다. 다중모드 열치료(MTT) 시스템과 면역항암제 toripalimab(토리팔리맙), 그리고 AG 화학요법(gemcitabine 및 nab-paclitaxel)을 병용 투여하는 수술 전환 치료 효과를 평가하기 위한 임상 2상 시험입니다. 총 56명의 환자를 모집할 예정입니다.",
+ "summary_ko": "이 연구는 이전에 치료받은 적이 없는 간 또는 폐 전이 전이성 췌장암 환자를 대상으로 다모달 열치료(multimodal thermal therapy)와 toripalimab, AG 화학요법(gemcitabine plus nab-paclitaxel) 병행 치료의 전환 치료(conversion therapy) 가치를 평가하는 다기관, 전향적, 단일군, 공개, 사이먼 2단계 2상 임상시험입니다. 대상 질환은 췌장암 및 신생물 전이입니다. 목표 환자 수는 56명입니다.",
  "summary_source": "llm",
  "tags": [
   "Multimodal Thermal Therapy",
@@ -56,7 +56,7 @@
   "First-line therapy"
  ],
  "title": "A Multicenter, Prospective Single-arm Study of Multimodal Thermal Therapy Combined With Toripalimab and AG Chemotherapy in the Treatment of Advanced Pancreatic Cancer",
- "title_ko": "진행성 췌장암 치료에서 다중모드 열치료와 트리파리맙 및 AG 화학요법 병용의 다기관 전향적 단일군 연구",
+ "title_ko": "진행성 췌장암 치료에서 다모달 열치료와 toripalimab 및 AG 화학요법 병행 요법에 관한 다기관 전향적 단일군 연구",
  "trial": {
   "conditions": [
    "Pancreatic Neoplasms",
@@ -69,7 +69,7 @@
     "phone": "+86 18817821319"
    }
   ],
-  "eligibility_ko": "선정 기준:\n* 만 18세 이상 75세 이하인 환자\n* 조직학적 또는 세포학적으로 확진된 췌관선암 환자\n* 다학제 진단(MDT) 결과 수술 불가능하며, 전이가 간 또는 폐에만 국한된 전이성 췌장암 환자 (간/폐 이외 타 장기 전이 없음)\n* 간 또는 폐 전이 병변 수 3개 이하 및 각 병변의 최대 직경 3cm 이하\n* 췌장암에 대한 이전 전신 항암 치료 경험이 없는 환자\n* ECOG 수행능력 평가 점수 0-1점\n* Child-Pugh 점수 7점 이하\n\n제외 기준:\n* 미만성 간 또는 폐 전이가 있는 경우\n* 4주 이내에 다른 중재적 임상 연구 치료에 참여한 경우\n* 첫 투여 전 5년 이내에 췌장암 이외의 다른 악성 종양 진단을 받은 경우 (완치된 피부 기저세포암, 피부 인상세포암, 근치적 절제술을 받은 상피내암은 제외)\n* 고형 장기 또는 조혈모세포 이식 이력이 있는 경우\n* 등록 전 14일 이내에 전신 코르티코스테로이드 또는 기타 면역억제제 치료가 필요한 질환이 있는 경우\n* 증상이 완벽히 조절되지 않는 뇌전이 병력이 있거나 현재 진단된 경우\n* 조절되지 않는 활동성 감염이 있는 경우\n* 식도위 정맥류 파열 이력이 있으며 내시경, 중재 시술, 수술로 효과적으로 치료되지 않은 경우\n* 활동성 정신 질환이 있는 경우\n* 임신 또는 수유 중이거나 치료 종료 후 3개월 이내 임신 계획이 있는 여성\n* 예상 생존 기간이 3개월 미만인 경우",
+  "eligibility_ko": "선정 기준:\n* 18세에서 75세 사이의 성별 무관 환자\n* 조직학적 또는 세포학적으로 확진된 췌장관선암(pancreatic ductal adenocarcinoma)\n* MDT(다학제팀) 평가상 초기 절제 불가능하며, 전이가 간 또는 폐에만 국한되고 다른 장기로는 전이가 없는 전이성 췌장암\n* 간 또는 폐 전이 병변 수 3개 이하, 각 병변의 최대 직경 3 cm 이하\n* 췌장암에 대한 이전 전신 치료력이 없는 환자\n* ECOG 수행능력 0-1\n* Child-Pugh 점수 7점 이하\n* 자발적으로 서면 동의서를 작성한 자\n\n제외 기준:\n* 미만성 간/폐 전이\n* 4주 이내에 다른 중재적 임상시험 치료에 참여한 경력\n* 첫 투여 전 5년 이내에 췌장암 외의 다른 악성 종양 진단력 (치유된 피부 기저세포암, 편평세포암, 근치적 절제된 제자리암 제외)\n* 고형 장기 또는 조혈모세포 이식 병력\n* 등록 전 14일 이내에 코르티코스테로이드(프레드니손 또는 동등물 일일 용량 >10 mg) 또는 기타 면역억제제 전신 치료가 필요한 질환이 있는 경우\n* 증상이 완전히 조절되지 않는 뇌전이의 과거력 또는 현재 진단\n* 조절되지 않는 활동성 감염\n* 신기능 장애 (혈청 크레아티닌 >176.8 μmol/L 또는 크레아티닌 청소율 <30 ml/min)\n* 교정할 수 없는 비정상적인 응고 기능\n* 내시경, 중재적 치료 또는 수술로 효과적으로 치료되지 않은 식도위정맥류 출혈 병력\n* 활동기 정신질환자\n* 임신부, 수유부, 또는 연구 치료 종료 후 3개월 이내에 임신을 계획 중인 가임기 여성\n* 예상 생존 기간 <3개월\n* 연구자가 부적절하다고 판단하거나 환자의 연구 참여에 영향을 미칠 수 있는 기타 요인",
   "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Aged 18-75 years, regardless of gender;\n* 2\\. Histologically or cytologically confirmed pancreatic ductal adenocarcinoma;\n* 3\\. Metastatic pancreatic cancer assessed by MDT as initially unresectable, with metastases confined solely to the liver or lungs, and no metastases to other organs beyond the liver or lungs;\n* 4\\. Liver or lung metastases: number of lesions ≤ 3, and maximum diameter of each lesion ≤ 3 cm;\n* 5\\. No prior systemic therapy for pancreatic cancer;\n* 6\\. ECOG PS 0-1;\n* 7\\. Child-Pugh score ≤ 7;\n* 8\\. Voluntarily signed informed consent form.\n\nExclusion Criteria:\n\n* 1\\. Diffuse hepatic/pulmonary metastasis;\n* 2\\. Participation in another interventional clinical study treatment within 4 weeks;\n* 3\\. Diagnosis of any other malignant disease other than pancreatic cancer within 5 years prior to the first dose (excluding cured cutaneous basal cell carcinoma, cutaneous squamous cell carcinoma, and/or radically resected carcinoma in situ);\n* 4\\. History of solid organ or hematopoietic stem cell transplantation;\n* 5\\. Suffering from any disease requiring systemic treatment with corticosteroids (prednisone or equivalent at a daily dose \\>10 mg) or other immunosuppressive drugs within 14 days prior to enrollment;\n* 6\\. Previous or current diagnosis of brain metastases with symptoms not fully controlled (i.e., persistent or worsening symptoms, or requiring adjustment of symptomatic treatment to maintain symptom relief);\n* 7\\. Uncontrolled active infection;\n* 8\\. Renal dysfunction: serum creatinine \\>176.8 μmol/L or creatinine clearance \\<30 ml/min;\n* 9\\. Uncorrectable abnormal coagulation function: platelet count \\<50×10⁹/L, prothrombin time \\>18 s, prothrombin activity \\<40%, and uncorrectable;\n* 10\\. History of ruptured esophagogastric varices that have not been effectively treated by endoscopy, interventional therapy, or surgery;\n* 11\\. Patients with psychiatric disorders in the active phase;\n* 12\\. Pregnant or lactating women, or women of childbearing age who plan to become pregnant within 3 months after the end of study treatment;\n* 13\\. Expected survival \\<3 months;\n* 14\\. Any other factors that the investigator deems unsuitable for inclusion or that may affect the subject's participation in the study.",
   "enrollment": 56,
   "has_results": false,
@@ -90,14 +90,14 @@
    "key_exclusions_ko": [
     "증상이 조절되지 않는 뇌전이",
     "조절되지 않는 활동성 감염",
-    "5년 이내 다른 암 병력",
-    "장기 또는 조혈모세포 이식 이력",
-    "최근 14일 이내 전신 스테로이드 등 면역억제제 복용"
+    "활동기 정신질환",
+    "다른 악성 종양 병력",
+    "임신부 또는 수유부"
    ],
    "max_prior_lines": 0,
-   "measurable_required": true,
+   "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 치료를 받은 적이 없고, 전이가 간 또는 폐에만 3개 이하로 제한된 4기 췌장암 환자",
+   "notes_ko": "이전 치료력이 없는 간 또는 폐 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "diagnosis"
  ],
  "entities": [],
@@ -17,7 +18,11 @@
  ],
  "id": "nct:NCT07929961",
  "importance": 0.81,
- "key_points_ko": [],
+ "key_points_ko": [
+  "목표 인원은 총 80명입니다.",
+  "치료 주기는 21일이며 단독 요법으로 정맥 투여합니다.",
+  "생존기간, 반응률, 위험비 등은 초록에 명시되지 않았습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": null,
@@ -41,8 +46,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07929961"
  },
- "summary_ko": "The goal of this clinical trial is to evaluate the safety and tolerability of MC001 and to determine the appropriate dose for further development in adults with advanced solid tumours, with expansion cohorts in pancreatic ductal adenocarcinoma (PDAC) and nasopharyngeal carcinoma (NPC). The main questions it aims to answer are:\n\n* What is the maximum tolerated dose (MTD), maximum administered dose (MAD), and recommended dose for expansion (RDE) of MC001?",
- "summary_source": "excerpt",
+ "summary_ko": "이 임상시험은 진행성 고형암 성인 환자를 대상으로 MC001의 안전성과 내인성을 평가하고 적정 용량을 결정하기 위해 진행됩니다. 췌장관선암(PDAC) 및 비인암 환자를 대상으로 한 확장 코호트가 포함되어 있습니다. 환자들은 21일 주기로 MC001을 정맥 투여받으며 안전성, 약동학 및 예비 항종양 활성을 평가받습니다. 초록에 최대 허용 용량이나 구체적인 치료 효과 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
  "tags": [
   "MC001",
   "First-in-human",
@@ -53,7 +58,7 @@
   "Nasopharyngeal Carcinoma"
  ],
  "title": "Study of MC001 in Patients With Advanced Solid Tumours",
- "title_ko": null,
+ "title_ko": "진행성 고형암 환자를 대상으로 한 MC001 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
@@ -72,7 +77,7 @@
     "phone": "+65 69082222"
    }
   ],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n* 1. 동의서 서식 작성 시점 기준 연령 21세 이상.\n* 2. 표준 치료에 불응성이거나 표준 치료가 없는 진행성 또는 전이성 고형암의 조직학적 또는 세포학적 확진.\n* 3. 엽산수용체 알파(FRα) 발현 (용량 확장의 경우 종양 세포의 50% 이상에서 중등도 내지 고도의 세포막 발현 필요).\n* 4. RECIST v1.1 기준에 따른 측정 가능한 병변 존재.\n* 5. ECOG 수행능력 상태 0 또는 1.\n\n제외 기준:\n* 1. MMAE 함유 항체-약물 복합체(ADC)에 노출된 이력이 있거나 과민반응이 있는 경우.\n* 2. 기저 시점에 2등급 이상의 말초 신경병증이 있는 경우.\n* 3. 치료되지 않은 활동성 중추신경계(CNS) 전이 또는 연수막 암종증.\n* 4. 활성 각막염, 중증 안구 건조증 등 임상적으로 유의한 안구 질환.\n* 5. 조절되지 않는 동반 질환 또는 조절되지 않는 바이러스 감염.",
   "eligibility_text": "Inclusion Criteria:\n\n1. Age ≥21 years at the time of informed consent.\n2. Histology or cytology confirmation of advanced or metastatic solid tumour that is unresectable or refractory to standard therapy, or for which no standard therapy is available.\n3. Tumour FRα expression, defined as:\n\n   * Dose escalation: No predefined FRα expression level required for inclusion into dose escalation.\n   * Dose expansion: Moderate to high membranous FRα expression in ≥50% of tumour cells, as assessed by immunohistochemistry (IHC) using an assay validated for this study.\n4. Tumour type eligibility:\n\n   * Dose escalation: all solid tumours are eligible for escalation phase.\n   * Dose expansion: restricted to PDAC and NPC only.\n5. Measurable disease per RECIST version 1.1.\n6. Mandatory baseline tumour biopsy, obtained prior to first administration of MC001, unless deemed unsafe by the investigator.\n7. ECOG performance status of 0 or 1.\n8. Adequate organ and marrow function, defined as:\n\n   * Absolute neutrophil count (ANC) ≥1.5 × 10⁹/L\n   * Platelet count ≥100 × 10⁹/L\n   * Haemoglobin ≥9.0 g/dL\n   * Creatinine clearance ≥50 mL/min (Cockcroft-Gault)\n   * AST and ALT ≤3 × ULN (≤5 × ULN if liver metastases present)\n   * Total bilirubin ≤1.5 × ULN\n9. Baseline imaging feasibility, defined as:\n\n   * Ability to undergo contrast-enhanced CT at baseline, or\n   * MRI abdomen/pelvis with non-contrast CT thorax if contrast CT is contraindicated.\n10. Recovered from prior therapy-related toxicities to:\n\n    o Grade ≤1 per CTCAE v6.0\n11. Life expectancy ≥12 weeks, as assessed by the investigator.\n12. Women of childbearing potential (WOCBP) must:\n\n    * Have a negative pregnancy test at screening.\n    * Agree to use highly effective contraception during the study and for 6 months after the last dose of MC001.\n    * Subjects not considered WOCBP are those without menses for ≥ 12 consecutive months, and those who have undergone hysterectomy and/or bilateral salpingo-oophorectomy. WOCBP must be willing to use acceptable methods of birth control (i.e., a hormonal contraceptive, intra-uterine device, diaphragm with spermicide, or condom with spermicide, or abstinence) for the duration of the study and 6 months after the last dose of treatment.\n13. Male participants with partners of childbearing potential are required to use barrier contraception in addition to having their partner use another method of contraception during the study and for 6 months after the last dose of treatment. Male participants will also be advised to abstain from sexual intercourse with pregnant or lactating women, or to use condoms.\n14. Ability to understand and voluntarily sign written informed consent.\n\nExclusion Criteria:\n\nParticipants meeting any of the following criteria will be excluded:\n\n1. Prior exposure to MMAE-containing antibody-drug conjugates, or known hypersensitivity to MMAE or related compounds.\n2. Peripheral neuropathy ≥ Grade 2 at baseline.\n3. Known active central nervous system (CNS) metastases or carcinomatous meningitis, unless:\n\n   * Previously treated\n   * Clinically stable for ≥4 weeks\n   * Not requiring corticosteroids \\>10 mg prednisolone (or equivalent) daily.\n4. Clinically significant ocular disease, including:\n\n   * Active keratitis\n   * Severe dry eye requiring ongoing ophthalmologic intervention\n   * Corneal ulceration or other conditions that may increase ADC-related ocular risk.\n5. Uncontrolled intercurrent illness, including but not limited to:\n\n   * Active infection requiring systemic therapy\n   * Symptomatic congestive heart failure or LVEF \\< 40% on screening echocardiogram\n   * Unstable angina\n   * Significant cardiac arrhythmia including QTc \\> 500ms\n   * Psychiatric illness or social situations limiting compliance.\n6. Receipt of any investigational study drug within 28 days or 5 half-lives (whichever is shorter) prior to the first administration of MC001.\n7. Major surgery within 4 weeks prior to first administration of MC001.\n8. Pregnant or breastfeeding women.\n9. Known uncontrolled viral infections, including:\n\n   * Active hepatitis B or C with uncontrolled viral load\n   * Known HIV infection with detectable viral load.\n\n     \\*Hepatitis B virus (HBV):\n\n     • Participants who are HBsAg positive are eligible provided that:\n   * They have received antiviral therapy for HBV for at least 4 weeks prior to the first dose of MC001, and they have an undetectable HBV viral load at screening.\n   * Note: Participants must remain on HBV antiviral therapy throughout study treatment and follow local guidelines for continuation of antiviral therapy after completion of study treatment.\n   * Patients who are HBsAg negative, and anti-HB core total positive are not considered to have active hepatitis if HB viral load is undetectable.\n\n     • Hepatitis C virus (HCV):\n   * Participants with a history of HCV infection are eligible provided that:\n\n     1. HCV viral load is undetectable at screening, and\n     2. Curative antiviral therapy was completed at least 12 weeks prior to initiation of study treatment.\n\n        * Participants with active, uncontrolled viral hepatitis not meeting the above criteria will be excluded\n10. Second active malignancy requiring treatment.\n11. Any condition that, in the investigator's judgment, would place the participant at unacceptable risk or interfere with interpretation of study results.",
   "enrollment": 80,
   "has_results": false,
@@ -88,17 +93,23 @@
    "biomarkers_excluded": [],
    "biomarkers_required": [],
    "ecog_max": 1,
-   "key_exclusions_ko": [],
+   "key_exclusions_ko": [
+    "활동성 중추신경계 전이",
+    "조절되지 않는 심장 질환 또는 활성 감염",
+    "활동성 B형 또는 C형 간염",
+    "치료가 필요한 두 번째 활성 악성종양"
+   ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "",
+   "notes_ko": "표준 치료에 불응성이거나 치료가 없는 진행성 췌장관선암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic"
+    "metastatic",
+    "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": "99 Years",
   "min_age": "21 Years",

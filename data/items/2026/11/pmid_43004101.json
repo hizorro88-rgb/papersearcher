@@ -27,7 +27,11 @@
  ],
  "id": "pmid:43004101",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 797명의 환자 중 62명이 80세 이상이었습니다.",
+  "80세 이상 고령 환자는 젊은 환자와 비교하여 90일 사망률, 주요 합병증, 재입원율 등에서 유의미한 차이가 없었습니다.",
+  "로봇 원위부 췌장 절제술(RDP)은 독립적으로 주요 합병증 감소와 연관이 있었습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1245/s10434-026-20822-x",
@@ -49,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43004101/"
  },
- "summary_ko": "BACKGROUND: A minimally invasive approach currently is the gold standard for distal pancreatectomy (DP). Robotic distal pancreatectomy (RDP) is increasingly adopted and offers technical advantages.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 80세 이상 고령 환자를 대상으로 원위부 췌장 절제술(DP) 시 개복 수술과 로봇 수술(RDP)의 결과를 비교하기 위한 다기관 후향적 코호트 연구입니다. 2007년부터 2023년까지 4개의 북미 간담췌 전문 센터에서 수술을 받은 797명의 환자 중 62명이 80세 이상이었습니다. 연구 결과, 80세 이상 고령 환자도 고위험 기관에서 수술을 받을 경우 젊은 환자와 유사한 수술 및 종양학적 결과를 보였습니다. 또한 로봇 수술 접근법은 주요 합병증을 줄이는 데 유리한 것으로 나타났습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery",
- "title_ko": null,
+ "title_ko": "80세 이상의 고령 환자에서 시행한 원위부 췌장 절제술과 로봇 수술의 역할",
  "trial": null,
  "type": "paper"
 }

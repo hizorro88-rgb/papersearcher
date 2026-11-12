@@ -6,6 +6,7 @@
   "Lu W"
  ],
  "categories": [
+  "surgery",
   "supportive",
   "treatment"
  ],
@@ -21,7 +22,12 @@
  ],
  "id": "pmid:43004285",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 1,643명의 환자가 포함된 15개 연구(무작위 대조시험 8개, 비무작위 연구 7개)를 분석했습니다.",
+  "운동 포함 다모달 수술 전 재활은 6분 보행 검사(6MWT)를 평균 30.79미터 유의하게 향상시켰습니다(p < 0.001).",
+  "삶의 질(QoL) 또한 표준화된 평균 차이 0.39로 유의하게 개선되었습니다(p = 0.02).",
+  "입원 기간(평균 차이 -1.10일), 수술 후 합병증(오즈비 0.70), 단기 사망률(오즈비 0.80)은 통계적으로 유의한 차이가 없었습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1186/s12885-026-16581-3",
@@ -44,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43004285/"
  },
- "summary_ko": "BACKGROUND: Hepatobiliary and pancreatic (HBP) cancers often require complex surgeries that lead to functional decline and poor quality of life (QoL). Exercise-containing multimodal prehabilitation has gained attention as a potential strategy to enhance perioperative outcomes.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 간담췌암 수술을 받는 성인 환자를 대상으로 운동을 포함한 다모달 수술 전 재활(exercise-containing multimodal prehabilitation)이 기능적 결과에 미치는 영향을 평가하기 위한 메타분석입니다. 총 1,643명의 환자가 포함된 15개의 연구를 분석했습니다. 분석 결과, 수술 전 재활은 6분 보행 검사(6MWT)와 삶의 질(QoL)을 유의하게 향상시켰습니다. 반면 입원 기간, 수술 후 합병증, 단기 사망률은 유의미한 감소를 보이지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Exercise-containing multimodal prehabilitation on functional outcome of patients with hepatobiliary and pancreatic cancer after surgery: a meta-analysis",
- "title_ko": null,
+ "title_ko": "간담췌암 수술 환자의 기능적 결과에 미치는 운동 포함 다모달 수술 전 재활의 효과: 메타분석",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Malnutrition is highly prevalent among patients with pancreatic cancer and has a substantial impact on prognosis, treatment tolerability, and quality of life. However, the prognostic significance of the Geriatric Nutritional Risk Index (GNRI), a simple and objective tool for assessing nutritional status, in pancreatic cancer remains incompletely characterized, and the available evidence has not been comprehensively synthesized.\nAIMS: Therefore, this study aimed to systematically evaluate the association between GNRI and overall survival in patients with pancreatic cancer.\nMETHODS: A systematic literature search of PubMed/MEDLINE, Embase, Web of Science, and Scopus was conducted (PROSPERO: CRD420251177304) to identify prospective and retrospective observational studies published up to November 2025 that reported quantitative data on the association between GNRI and survival outcomes in patients with pancreatic cancer. Eligible studies were included in a systematic review, and those meeting predefined criteria were pooled in a meta-analysis.\nRESULTS: Eighteen observational studies were included, of which 13 were eligible for meta-analysis. High nutritional risk according to the GNRI was associated with significantly worse overall survival (pooled HR = 1.79; 95% CI: 1.42-2.26; I² = 66.0%). Subgroup analyses showed stronger effects in univariate analyses, while attenuated associations were observed in multivariable-adjusted studies; reconstructed hazard ratios were larger than those directly reported. Trim-and-fill analysis yielded similar results (adjusted HR = 1.58; 95% CI: 1.25-2.00).\nCONCLUSIONS: GNRI may serve as a potential prognostic indicator of overall survival in patients with pancreatic cancer and a clinically useful screening tool for risk stratification.",
+ "authors": [
+  "Wesołowska N",
+  "Bolesławska I",
+  "Kenig J",
+  "Miążek A",
+  "Grosso G",
+  "Godos J",
+  "Furnari F",
+  "Wąż A"
+ ],
+ "categories": [
+  "supportive",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43013127",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1007/s40520-026-03484-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43013127"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Meta-Analysis"
+ ],
+ "published_at": "2026-08-15",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Aging Clin Exp Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013127/"
+ },
+ "summary_ko": "BACKGROUND: Malnutrition is highly prevalent among patients with pancreatic cancer and has a substantial impact on prognosis, treatment tolerability, and quality of life. However, the prognostic significance of the Geriatric Nutritional Risk Index (GNRI), a simple and objective tool for assessing nutritional status, in pancreatic cancer remains incompletely characterized, and the available evidence has not been comprehensively synthesized.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

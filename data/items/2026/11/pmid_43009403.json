@@ -1,0 +1,57 @@
+{
+ "abstract": "BACKGROUND: Sphingolipid metabolism regulates physiologic responses through the sphingomyelin-ceramide-sphingosine-1-phosphate axis. Acid sphingomyelinase has previously been associated with improved outcomes in pancreatic cancer (pancreatic ductal adenocarcinoma). In this study, we evaluate acid sphingomyelinase in the context of additional key enzymes in the sphingolipid metabolic pathway in pancreatic ductal adenocarcinoma.\nMETHODS: An institutional cohort of surgery-first patients (n = 23) and a cohort from the Human Protein Atlas (N = 171) were utilized to examine overall and recurrence-free survival based on key enzyme expression levels including acid sphingomyelinase, the neutral sphingomyelinases (1/2), the downstream acid ceramidase (N-acylsphingosine amidohydrolase 1), and sphingosine kinases (1/2).\nRESULTS: In the institutional cohort, 30% of patients had high acid sphingomyelinase expression, 74% had high neutral sphingomyelinase 1 expression, and 22% had high neutral sphingomyelinase 2 expression. There was improved overall survival associated with higher expression of neutral sphingomyelinase 1 (median overall survival, 23.0 vs 15.6 months; P = .0003), and sphingosine kinase 2 (median overall survival, not reached vs 18.9 months; P = .002), and worsened overall survival associated with high sphingosine kinase 1 expression (median overall survival, 19.6 months versus not reached). Acid sphingomyelinase expression was associated with improved recurrence-free survival (23.6 months versus 16.0 months, P = .033) and no cases of local-only recurrence (0% vs 28.6%).\nCONCLUSION: Sphingolipid metabolism, particularly high levels of acid sphingomyelinase expression, appears to have prognostic value in pancreatic ductal adenocarcinoma. Future work should focus on how these findings can be leveraged to improve outcomes in pancreatic cancer.",
+ "authors": [
+  "Johnson R",
+  "Satyadi MA",
+  "Fritson C",
+  "Martin C",
+  "Nikolaidis NM",
+  "Wang J",
+  "Ahmad SA",
+  "Patel SH"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43009403",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1016/j.surg.2026.110672",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43009403"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surgery",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43009403/"
+ },
+ "summary_ko": "BACKGROUND: Sphingolipid metabolism regulates physiologic responses through the sphingomyelin-ceramide-sphingosine-1-phosphate axis. Acid sphingomyelinase has previously been associated with improved outcomes in pancreatic cancer (pancreatic ductal adenocarcinoma).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prognostic utility of the sphingolipid metabolic pathway in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

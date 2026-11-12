@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [진행성 췌장암 치료에서 다중모드 열치료와 트리파리맙 및 AG 화학요법 병용의 다기관 전향적 단일군 연구](../trials/NCT07928362.md) | 해당 없음 | 모집 예정 | - |
+| [진행성 췌장암 치료에서 다모달 열치료와 toripalimab 및 AG 화학요법 병행 요법에 관한 다기관 전향적 단일군 연구](../trials/NCT07928362.md) | 해당 없음 | 모집 예정 | - |
 | [수술 전후 고위험 및 경계성 수술 가능 췌장암 치료를 위한 HRS-4642 병용요법 3상 임상시험](../trials/NCT07900789.md) | 3상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
 | [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색술을 통한 절제율 향상 제2상 임상시험](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
@@ -30,7 +30,7 @@ search:
 | [췌장암에 대한 알부민 결합 파클리탁셀 기반 병용 요법 임상시험](../trials/NCT07828756.md) | 2상 | 모집 예정 | - |
 | [수술 불가 췌장암 환자의 1차 치료로서 Retlirafusp Alfa, Famitinib, Nab-Paclitaxel, Ge…](../trials/NCT07814859.md) | 2상 | 모집 예정 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib(RMC-9805) + daraxonrasib(RMC…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
-| [전이성 췌장암 1차 치료로서 젬시타빈/알부민-파클리탁셀(GnP)과 SHR-1701 및 아파티닙(Apatinib) 병용 요법](../trials/NCT07802184.md) | 1상/2상 | 모집 중 | - |
+| [전이성 췌관선암 환자의 1차 치료로서 젬시타빈/나브-파클리탁셀(GnP)과 SHR-1701 및 아파티닙(Apatinib) 병용…](../trials/NCT07802184.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암 환자를 대상으로 하는 GKL-006 주사제에 대한 연구](../trials/NCT07777211.md) | 1상/2상 | 모집 중 | - |
 | [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여를 평가하는 임상시험](../trials/NCT07769502.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 수술 가능 췌관선암 환자를 위한 SMAD4 변이 기반 맞춤형 선행 화학요법 2상 임상시험 (SMART-…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
@@ -65,7 +65,7 @@ search:
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
 | [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
-| [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375에 대한 1상 및 2상 연구](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
+| [KRAS G12D 변이 진행성 고형암 환자를 대상으로 하는 VS-7375 제1/2상 연구](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
@@ -115,7 +115,7 @@ search:
 | [췌장선암에서 젬시타빈 및 냅-파클리탁셀과 베탄에콜 병용 요법에 대한 연구](../trials/NCT05241249.md) | 2상 | 모집 중 | - |
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
-| [전이성 췌장암 1차 환자에서 Gembrax 후속 FOLFIRINOX 요법 대 FOLFIRINOX 단독 요법의 효능 비교](../trials/NCT05065801.md) | 2상 | 진행 중(모집 종료) | - |
+| [전이성 췌장암 1차 환자를 위한 Gembrax 후속 FOLFIRINOX 요법 대 FOLFIRINOX 단독 요법의 유효성 비교…](../trials/NCT05065801.md) | 2상 | 진행 중(모집 종료) | - |
 | [수술 가능한 췌장암 환자 대상 젬시타빈, 냅파클리탁셀, 더발루맙 및 올레클루맙 수술 전 선행요법 2상 임상시험](../trials/NCT04940286.md) | 2상 | 진행 중(모집 종료) | - |
 | [췌장선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법 2상 임상시험](../trials/NCT04926467.md) | 2상 | 모집 중 | - |
 | [복막 전이가 동반된 췌장암 치료를 위한 온열 복강 내 항암화학요법(HIPEC) 2상 임상시험](../trials/NCT04858009.md) | 2상 | 진행 중(모집 종료) | - |
@@ -125,19 +125,25 @@ search:
 | [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, P…](../trials/NCT04390399.md) | 2상 | 진행 중(모집 종료) | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 zolbetuximab 병용요법의 유효성 및 안전성을 평가하는 2상 임상시험](../trials/NCT03816163.md) | 2상 | 진행 중(모집 종료) | 10 |
-| [Testing the Combination of Two Approved Chemotherapy Drugs and Radiat…](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
+| [수술 가능한 췌장암 환자에서 수술 전 젬시타빈·납-팍리탁셀 및 방사선 치료의 효과를 평가하는 2상 임상시험](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
 ## 타임라인 (20)
 
 <a id="pmid-43002828"></a>
-#### [daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/43002828/)
-`논문` `3상` `치료 전반` `신약·치료제` `임상시험` · 2026-11-09 · PubMed · ESMO Open · 중요도 0.91
+#### [전이성 췌장암 1차 치료에서 표적 항체 NIS793과 표준 항암요법 병용의 효과를 평가한 3상 임상시험(daNIS-2)](https://pubmed.ncbi.nlm.nih.gov/43002828/)
+<small>daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma</small>
 
-BACKGROUND: This phase III, randomized, double-blind study (daNIS-2) evaluated the efficacy and safety of NIS793, an anti-transforming growth factor-beta (TGF-β) monoclonal antibody, in combination with gemcitabine and nab-paclitaxel [standard of care (SOC)] versus placebo and SOC as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma (mPDAC). PATIENTS AND METHODS: The study included a safety run-in (n = 21 patients enrolled) followed by a randomized part (n = 490 p…
+`논문` `3상` `신약·치료제` `임상시험` `치료 전반` · 2026-11-09 · PubMed · ESMO Open · 중요도 0.91
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
+전이성 췌관선암(mPDAC) 환자를 대상으로 변형성장인자-베타(TGF-β) 표적 항체인 NIS793과 표준 항암치료(gemcitabine 및 nab-paclitaxel) 병용요법의 효과를 평가한 3상 임상시험 결과입니다. 이전 치료 경험이 없는 환자 490명을 무작위로 나누어 NIS793 투여군과 위약 투여군을 비교했습니다. 분석 결과, NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로 위약군의 11.2개월보다 오히려 짧았습니다. 치료의 이득보다 위험이 크다고 판단되어 임상시험은 조기에 중단되었습니다.
+
+- NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로, 위약군의 11.2개월에 비해 생존 결과가 불리했습니다(위험비 1.26).
+- 무진행 생존기간(PFS) 및 객관적 반응률(ORR) 평가에서도 NIS793 투여군이 임상적 이득을 보여주지 못했습니다.
+- NIS793 투여군에서 빈혈, 코피, 발진 및 3등급 이상의 중증 부작용 발생 비율이 더 높게 관찰되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
 
 ---
 <a id="pmid-42971953"></a>

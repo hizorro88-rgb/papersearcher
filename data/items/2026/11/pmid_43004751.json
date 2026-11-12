@@ -31,11 +31,11 @@
   "LINC00941 억제 시 췌장암 세포의 이동과 침윤이 감소하고, gemcitabine(젬시타빈) 항암제 유도 세포 사멸 민감도가 유의하게 증가했습니다.",
   "LINC00941 발현 감소는 BACH1, TOP2A, BIRC5 등 주요 DNA 복구 및 세포 생존 관련 유전자의 발현 감소와 연관되었습니다."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "links": {
   "doi": "10.1002/iub.70140",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13748920",
   "pmid": "43004751"
  },
  "pub_types": [

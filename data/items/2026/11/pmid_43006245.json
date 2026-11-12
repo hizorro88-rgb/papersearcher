@@ -15,7 +15,7 @@
   "industry"
  ],
  "entities": [],
- "evidence": "guideline",
+ "evidence": "observational",
  "first_seen": "2026-11-11",
  "history": [
   {
@@ -25,13 +25,17 @@
   }
  ],
  "id": "pmid:43006245",
- "importance": 0.95,
- "key_points_ko": [],
- "last_updated": "2026-11-11",
+ "importance": 0.77,
+ "key_points_ko": [
+  "EUS 조직 채취를 받은 췌장암 환자 61명 중 49명(80.3%)이 현장 즉시 평가에서 NGS 적합 판정을 받았습니다.",
+  "NGS를 시행한 41명 중 DNA 기반 NGS 성공률은 95.1%(39명), RNA 기반 융합 분석 성공률은 53.7%(22명)였습니다.",
+  "검체 접수 후 NGS 결과가 보고되기까지 걸린 중앙 시간은 영업일 기준 10일이었습니다."
+ ],
+ "last_updated": "2026-11-12",
  "links": {
   "doi": "10.1002/cncy.70165",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13749367",
   "pmid": "43006245"
  },
  "pub_types": [
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43006245/"
  },
- "summary_ko": "INTRODUCTION: Current clinical practice guidelines recommend molecular profiling for patients with pancreatic ductal adenocarcinoma (PDAC). However, endoscopic ultrasound-guided small specimens are often insufficient for next-generation sequencing (NGS).",
- "summary_source": "excerpt",
+ "summary_ko": "췌장관 선암종(PDAC) 환자를 대상으로 내시경 초음파(EUS) 유도하 검체 채취 시 차세대 염기서열 분석(NGS) 적합성을 높이기 위한 현장 즉시 평가(ROSE) 프로토콜을 분석했습니다. 세포진으로 확진된 환자 61명 중 49명(80.3%)이 현장 평가에서 NGS 분석에 적합한 것으로 판정되었습니다. 실제 NGS를 진행한 41명 검체 중 DNA 기반 NGS는 39건(95.1%), RNA 기반 융합 분석은 22건(53.7%)에서 성공했습니다. 표준화된 프로토콜이 높은 DNA 분석 성공률을 보였으나, 암세포 비율이 낮고 섬유화 간질이 많은 췌장암 특성상 전체 검체 적합성을 대폭 높이는 데는 한계가 있었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Implementation of a rapid onsite molecular adequacy protocol for endoscopic ultrasound-guided sampling of pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관 선암종의 내시경 초음파 유도하 조직 채취 시 현장 즉시 분자 적합성 프로토콜 적용 결과",
  "trial": null,
  "type": "paper"
 }

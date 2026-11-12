@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most treatment-refractory malignancies, with limited and often transient benefit from chemotherapy, targeted therapy, immunotherapy, and radiotherapy. Therapeutic resistance is increasingly recognized as an ecosystem-level process arising from reciprocal interactions between malignant cells and the tumor microenvironment (TME). Dense extracellular matrix, cancer-associated fibroblasts (CAFs), pancreatic stellate cells (PSCs), dysfunctional vasculature, immunosuppressive myeloid and lymphoid populations, hypoxic niches, metabolic networks, microbiota, extracellular vesicles (EVs), and neural components collectively restrict drug delivery and promote adaptive survival, immune escape, stemness, and treatment-induced evolution. This review integrates these processes into a PDAC resistance ecosystem framework. We discuss how stromal remodeling, hypoxia-driven adaptation, metabolic-immune crosstalk, extracellular communication, cancer stem cell plasticity, and TME-regulated autophagy and ferroptosis contribute to resistance across therapeutic modalities. We further evaluate emerging strategies involving stromal reprogramming, myeloid and immune remodeling, metabolic intervention, hypoxia targeting, and regulated cell-death sensitization. Particular emphasis is placed on the limited clinical translation of indiscriminate stromal depletion and single-target approaches. Finally, we propose that spatial multi-omics, longitudinal biomarker profiling, and adaptive combination therapy will be required to identify dominant resistance programs and guide patient-specific intervention in PDAC.",
+ "authors": [
+  "Li HJ",
+  "Cui JN",
+  "Yang X",
+  "Li JH",
+  "Zhao QC",
+  "Li CJ",
+  "Fu Q",
+  "Li JY"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43011421",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌장암의 치료 저항성은 암세포와 종양 미세환경(TME) 구성 요소 간의 상호작용으로 발생합니다.",
+  "무차별적인 기질 제거 및 단일 표적 접근법은 임상적 번역 및 적용에 한계가 있었습니다.",
+  "공간 다중오믹스(spatial multi-omics)와 종단적 바이오마커 분석을 통한 환자 맞춤형 조합 치료가 필요합니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.20517/cdr.2026.102",
+  "nct": [],
+  "pmcid": "PMC13749219",
+  "pmid": "43011421"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Drug Resist",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43011421/"
+ },
+ "summary_ko": "췌장관선암(PDAC)은 화학요법, 표적치료, 면역치료 및 방사선치료에 대한 효과가 제한적이고 일시적인 난치성 암입니다. 이 암의 치료 저항성은 암세포와 종양 미세환경(TME) 사이의 상호작용에서 발생하는 생태계 수준의 과정입니다. 세포외 기질, 암 연관 섬유아세포(CAFs), 면역억제 세포 등 다양한 요소가 약물 전달을 방해하고 암세포의 생존과 면역 회피를 촉진합니다. 본 논문은 이러한 저항성 기전을 종합하고 기질 재프로그래밍 및 면역·대사 개입 등 새로운 치료 전략을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Tumor microenvironment-driven therapeutic resistance in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장관선암종에서 종양 미세환경으로 인한 치료 저항성",
+ "trial": null,
+ "type": "paper"
+}

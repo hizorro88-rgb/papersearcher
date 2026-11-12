@@ -24,15 +24,21 @@ search:
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 | [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](../trials/NCT06069297.md) | 해당 없음 | 진행 중(모집 종료) | - |
 
-## 타임라인 (11)
+## 타임라인 (13)
 
 <a id="pmid-43004101"></a>
-#### [Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery](https://pubmed.ncbi.nlm.nih.gov/43004101/)
+#### [80세 이상의 고령 환자에서 시행한 원위부 췌장 절제술과 로봇 수술의 역할](https://pubmed.ncbi.nlm.nih.gov/43004101/)
+<small>Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery</small>
+
 `논문` `관찰연구` `수술` · 2026-11-09 · PubMed · Ann Surg Oncol · 중요도 0.77
 
-BACKGROUND: A minimally invasive approach currently is the gold standard for distal pancreatectomy (DP). Robotic distal pancreatectomy (RDP) is increasingly adopted and offers technical advantages.
+이 연구는 80세 이상 고령 환자를 대상으로 원위부 췌장 절제술(DP) 시 개복 수술과 로봇 수술(RDP)의 결과를 비교하기 위한 다기관 후향적 코호트 연구입니다. 2007년부터 2023년까지 4개의 북미 간담췌 전문 센터에서 수술을 받은 797명의 환자 중 62명이 80세 이상이었습니다. 연구 결과, 80세 이상 고령 환자도 고위험 기관에서 수술을 받을 경우 젊은 환자와 유사한 수술 및 종양학적 결과를 보였습니다. 또한 로봇 수술 접근법은 주요 합병증을 줄이는 데 유리한 것으로 나타났습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004101/) · [DOI](https://doi.org/10.1245/s10434-026-20822-x) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004101)</small>
+- 총 797명의 환자 중 62명이 80세 이상이었습니다.
+- 80세 이상 고령 환자는 젊은 환자와 비교하여 90일 사망률, 주요 합병증, 재입원율 등에서 유의미한 차이가 없었습니다.
+- 로봇 원위부 췌장 절제술(RDP)은 독립적으로 주요 합병증 감소와 연관이 있었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004101/) · [DOI](https://doi.org/10.1245/s10434-026-20822-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004101)</small>
 
 ---
 <a id="pmid-43005647"></a>
@@ -48,6 +54,21 @@ BACKGROUND: A minimally invasive approach currently is the gold standard for dis
 - 시술 6개월 후 추적 관찰에서 종양 재발 및 시술 관련 합병증은 관찰되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43005647/) · [DOI](https://doi.org/10.2147/JHC.S656013) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746914/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43005647)</small>
+
+---
+<a id="pmid-43012757"></a>
+#### [임신 중 난소 신생물처럼 보인 췌장 신생물의 관리: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/43012757/)
+<small>Management of an incidentally discovered pancreatic neoplasm mimicking an ovarian neoplasm during pregnancy: A case report</small>
+
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-30 · PubMed · Medicine (Baltimore) · 중요도 0.59
+
+임신 36주 차에 19.4 × 14.5 cm 크기의 췌장 점액성 낭성 신생물(MCN)이 발견된 36세 여성의 증례입니다. 환자는 임신 37주 2일에 제왕절개로 출산한 뒤, 출산 11주 후에 복강경 췌장 원위부 절제술 및 비장 절제술을 받았습니다. 최종 병리 검사에서 고등급 신생물을 동반한 췌장 MCN으로 확인되었으며 전이는 없었고, 합병증 없이 수술 후 6개월 추적 관찰을 진행 중입니다.
+
+- 임신 36주에 우연히 19.4 × 14.5 cm 크기의 췌장 미부 점액성 낭성 신생물(MCN)이 발견되었습니다.
+- 제왕절개 출산 11주 후 복강경 췌장 원위부 절제술 및 비장 절제술을 시행하여 완치했습니다.
+- 임신 중 악성이 의심되지 않는 췌장 MCN은 출산 후 계획적인 절제가 안전한 접근법입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43012757/) · [DOI](https://doi.org/10.1097/MD.0000000000051361) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13727251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43012757)</small>
 
 ---
 <a id="pmid-42950589"></a>
@@ -94,6 +115,21 @@ BACKGROUND: A minimally invasive approach currently is the gold standard for dis
 - 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
+
+---
+<a id="pmid-43012007"></a>
+#### [복강 내 유즙 저류에 대한 초음파내시경 유도 배액술](https://pubmed.ncbi.nlm.nih.gov/43012007/)
+<small>Endoscopic Drainage of An Intra-Abdominal Chylous Collection</small>
+
+`논문` `증례` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-10-16 · PubMed · Eur J Case Rep Intern Med · 중요도 0.45
+
+췌장암으로 췌장 원위부 절제술(distal pancreatectomy)을 받은 53세 여성 환자에게 수술 후 유즙 누출(chylous leak)로 인한 복강 내 저류가 발생했습니다. 보존적 치료에도 유즙 누출이 지속되어 초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행했습니다. 시술을 통해 유즙을 위 내부로 배액하는 데 성공했습니다. 환자는 합병증 없이 회복하여 시술 2일 후 퇴원했습니다.
+
+- 췌장 원위부 절제술 후 7일째에 14 × 5 cm 크기의 복강 내 유즙 저류가 확인되었습니다.
+- 초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행해 유즙을 위 내부로 배액했습니다.
+- 환자는 시술 2일 후 특별한 합병증 없이 정상적으로 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43012007/) · [DOI](https://doi.org/10.12890/2026_007278) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13750782/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43012007)</small>
 
 ---
 <a id="pmid-42966682"></a>

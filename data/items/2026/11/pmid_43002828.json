@@ -11,9 +11,9 @@
   "Wainberg Z"
  ],
  "categories": [
-  "treatment",
   "drug",
-  "trial"
+  "trial",
+  "treatment"
  ],
  "entities": [
   "gem-nabp"
@@ -29,7 +29,11 @@
  ],
  "id": "pmid:43002828",
  "importance": 0.91,
- "key_points_ko": [],
+ "key_points_ko": [
+  "NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로, 위약군의 11.2개월에 비해 생존 결과가 불리했습니다(위험비 1.26).",
+  "무진행 생존기간(PFS) 및 객관적 반응률(ORR) 평가에서도 NIS793 투여군이 임상적 이득을 보여주지 못했습니다.",
+  "NIS793 투여군에서 빈혈, 코피, 발진 및 3등급 이상의 중증 부작용 발생 비율이 더 높게 관찰되었습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1016/j.esmoop.2026.108621",
@@ -51,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43002828/"
  },
- "summary_ko": "BACKGROUND: This phase III, randomized, double-blind study (daNIS-2) evaluated the efficacy and safety of NIS793, an anti-transforming growth factor-beta (TGF-β) monoclonal antibody, in combination with gemcitabine and nab-paclitaxel [standard of care (SOC)] versus placebo and SOC as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma (mPDAC). PATIENTS AND METHODS: The study included a safety run-in (n = 21 patients enrolled) followed by a randomized part (n = 490 p…",
- "summary_source": "excerpt",
+ "summary_ko": "전이성 췌관선암(mPDAC) 환자를 대상으로 변형성장인자-베타(TGF-β) 표적 항체인 NIS793과 표준 항암치료(gemcitabine 및 nab-paclitaxel) 병용요법의 효과를 평가한 3상 임상시험 결과입니다. 이전 치료 경험이 없는 환자 490명을 무작위로 나누어 NIS793 투여군과 위약 투여군을 비교했습니다. 분석 결과, NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로 위약군의 11.2개월보다 오히려 짧았습니다. 치료의 이득보다 위험이 크다고 판단되어 임상시험은 조기에 중단되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "전이성 췌장암 1차 치료에서 표적 항체 NIS793과 표준 항암요법 병용의 효과를 평가한 3상 임상시험(daNIS-2)",
  "trial": null,
  "type": "paper"
 }

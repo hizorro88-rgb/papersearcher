@@ -1,0 +1,65 @@
+{
+ "abstract": "RATIONALE: Mucinous cystic neoplasms (MCNs) of the pancreas are uncommon tumors that occur during pregnancy, but because MCNs of the pancreas are sex hormone responsive, these tumors can grow rapidly. We report a case of MCN of the pancreas that was diagnosed during pregnancy.\nPATIENT CONCERNS: A 19.4 × 14.5 cm lesion was detected in the left upper abdomen in a 36-year-old asymptomatic woman with chronic hypertension and diet-controlled gestational diabetes at a gestational age (GA) of 36 weeks.\nDIAGNOSES: Magnetic resonance imaging showed a multiseptated cystic mass with a regular thin wall arising from the pancreatic tail, and final pathological findings identified a pancreatic MCN with high-grade neoplasia and no metastasis.\nINTERVENTIONS: At a GA of 37+2 weeks, acute severe hypertension raised suspicion for superimposed preeclampsia, and cesarean delivery was performed. Laparoscopic distal pancreatectomy with splenectomy was performed 11 weeks postpartum.\nOUTCOMES: The postoperative course was uncomplicated, and a 6-month follow-up was planned without further treatment.\nLESSONS: The optimal timing of surgical resection for MCNs of the pancreas in pregnancy should be determined by the GA and the potential for malignancy. If malignancy is not suspected, planned postpartum resection is a safe approach.",
+ "authors": [
+  "Baek MJ",
+  "Kwak MJ",
+  "Kang H",
+  "Kim JY",
+  "Jang JH",
+  "Na ED"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43012757",
+ "importance": 0.59,
+ "key_points_ko": [
+  "임신 36주에 우연히 19.4 × 14.5 cm 크기의 췌장 미부 점액성 낭성 신생물(MCN)이 발견되었습니다.",
+  "제왕절개 출산 11주 후 복강경 췌장 원위부 절제술 및 비장 절제술을 시행하여 완치했습니다.",
+  "임신 중 악성이 의심되지 않는 췌장 MCN은 출산 후 계획적인 절제가 안전한 접근법입니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1097/MD.0000000000051361",
+  "nct": [],
+  "pmcid": "PMC13727251",
+  "pmid": "43012757"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Medicine (Baltimore)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43012757/"
+ },
+ "summary_ko": "임신 36주 차에 19.4 × 14.5 cm 크기의 췌장 점액성 낭성 신생물(MCN)이 발견된 36세 여성의 증례입니다. 환자는 임신 37주 2일에 제왕절개로 출산한 뒤, 출산 11주 후에 복강경 췌장 원위부 절제술 및 비장 절제술을 받았습니다. 최종 병리 검사에서 고등급 신생물을 동반한 췌장 MCN으로 확인되었으며 전이는 없었고, 합병증 없이 수술 후 6개월 추적 관찰을 진행 중입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Management of an incidentally discovered pancreatic neoplasm mimicking an ovarian neoplasm during pregnancy: A case report",
+ "title_ko": "임신 중 난소 신생물처럼 보인 췌장 신생물의 관리: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

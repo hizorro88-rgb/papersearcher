@@ -11,10 +11,11 @@
   "Zhang W"
  ],
  "categories": [
+  "basic",
   "treatment"
  ],
  "entities": [],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-11-11",
  "history": [
   {
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:43007870",
- "importance": 0.77,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌장관선암(PDAC) 환자 코호트의 석신릴프로테옴(succinylproteome) 연구를 통해 대사 장애와 연관된 Ksu 부위들이 확인되었습니다.",
+  "지방산 베타 산화(FAO) 관련 단백질에서 Ksu와 리신 락트산화(lysine lactylation, Kla)의 교차 대화가 확인되었습니다.",
+  "ECHS1의 115번 리신 석신산화(K115su)는 췌장암에서 감소되어 있으며, 기질 전환을 줄여 지방산 베타 산화 대사를 억제합니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1016/j.celrep.2026.118317",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43007870/"
  },
- "summary_ko": "Metabolic reprogramming is a hallmark of cancer and involves alterations in glucose metabolism. Increasing evidence shows that acylation modifications mediated by metabolic intermediates play vital roles in cancer progression.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자 코호트를 대상으로 리신 석신산화(lysine succinylation, Ksu)를 분석하여 암 발달을 조절하는 대사 변화를 조사했습니다. 연구 결과, 지방산 베타 산화(fatty acid beta-oxidation, FAO)와 관련된 단백질에서 대사 장애와 밀접하게 연관된 여러 Ksu 부위가 확인되었습니다. 특히 쇼트체인 에노일-CoA 하이드라타제 1(short-chain enoyl-CoA hydratase 1, ECHS1)의 115번 리신 석신산화(K115su)는 췌장암에서 감소되어 있으며, 이는 ECHS1의 기질 전환을 줄여 지방산 베타 산화 대사를 억제하는 것으로 밝혀졌습니다. 본 연구는 췌장관선암 진행에서 여러 암 특이적 Ksu 부위와 ECHS1 K115su의 중요성을 밝혔습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "ECHS1 K115 succinylation inhibits fatty acid β-oxidation in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관선암에서 ECHS1 K115 석신산화는 지방산 베타 산화를 억제합니다",
  "trial": null,
  "type": "paper"
 }

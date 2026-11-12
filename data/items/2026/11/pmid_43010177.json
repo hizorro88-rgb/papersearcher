@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer (PC) is associated with poor prognosis, largely due to delayed diagnosis and limited awareness of its risk factors, symptoms, and diagnostic approaches. This study aimed to assess public awareness, knowledge, and attitudes toward PC among adults.\nMETHODS: A cross-sectional study was conducted among 438 adults using a structured, validated questionnaire administered through face-to-face interviews. Participants' awareness, knowledge of risk factors and diagnostic methods, attitudes toward seeking medical care, and screening practices were assessed. Multivariate analysis was performed to identify independent predictors of PC awareness.\nRESULTS: Among the 438 participants, 73.7% had heard of PC, and 98.6% recognized it as a serious disease. However, knowledge remained limited, particularly regarding symptoms and diagnostic approaches. Alcohol consumption (72.4%), chronic pancreatitis (65.5%), and family history (65.1%) were commonly recognized risk factors, while misconceptions regarding radiation exposure (34.5%) were evident. More than 70% of participants were unaware of PC diagnostic methods. Despite generally positive health-seeking attitudes, with 60.3% reporting that they would be very likely to consult a physician if they experienced alarming symptoms, only 2.7% had undergone screening, and 83.6% had never received information about PC from a healthcare provider. Multivariate analysis identified no independent predictors of PC awareness.\nCONCLUSION: Although general awareness of PC was moderate and attitudes toward seeking medical care were positive, substantial knowledge gaps persisted regarding symptoms, risk factors, and diagnostic approaches. These findings highlight the need for targeted, evidence-based educational interventions integrated into primary healthcare and chronic disease management services to improve public understanding, promote timely medical consultation, and potentially reduce diagnostic delays.",
+ "authors": [
+  "Rataan AO",
+  "Amawi H",
+  "Alsous M",
+  "Alrosan AZ",
+  "Albawaana A",
+  "Alzoubi KH"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43010177",
+ "importance": 0.71,
+ "key_points_ko": [
+  "전체 참가자 438명 중 73.7%가 췌장암에 대해 들어본 적이 있었고 98.6%가 심각한 질환으로 인식했습니다.",
+  "위험 요인으로는 음주(72.4%), 만성 췌장염(65.5%), 가족력(65.1%)이 가장 많이 인지되었으나 70% 이상은 진단 방법을 알지 못했습니다.",
+  "경고 증상 발생 시 의사와 상담할 의향은 60.3%로 높았지만, 췌장암 검진을 받아본 참가자는 2.7%에 불과했습니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1080/20565623.2026.2752187",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43010177"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Future Sci OA",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43010177/"
+ },
+ "summary_ko": "성인 438명을 대상으로 췌장암(pancreatic cancer)에 대한 대중의 인식, 위험 요인 및 진단 방법에 대한 지식을 평가한 단면 연구(cross-sectional study)입니다. 조사 결과 대상자의 73.7%가 췌장암에 대해 알고 있었으나, 세부 증상이나 진단 방법에 대한 지식은 크게 부족했습니다. 응답자의 70% 이상이 진단 방법을 알지 못했으며, 실제 검진을 받은 비율은 2.7%에 불과했습니다. 연구진은 진단 지연을 줄이고 조기 상담을 유도하기 위해 일차 의료 기반의 지속적인 대중 교육이 필요하다고 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Awareness of the signs and symptoms of pancreatic cancer: a cross-sectional study from a developing country setting",
+ "title_ko": "개발도상국 환경에서 췌장암의 징후 및 증상에 대한 인식: 단면 연구",
+ "trial": null,
+ "type": "paper"
+}

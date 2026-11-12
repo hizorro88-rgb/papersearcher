@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify postoperative MRD, although the evidence is limited and heterogeneous.\nMETHODS: PubMed, Scopus, and Embase were searched from inception to July 9, 2026, following PRISMA 2020 guidelines. Eligible studies compared postoperative tumor-informed ctDNA-positive and ctDNA-negative patients after curative-intent treatment of pancreatic cancer for recurrence, survival, or lead time outcomes. Random-effects models were used to pool risk ratios (RRs) and hazard ratios (HRs). Heterogeneity, leave-one-out sensitivity, prespecified subgroups, ROBINS-I risk of bias, and GRADE certainty were assessed.\nRESULTS: Five observational cohorts contributed 237 patients to the radiological recurrence comparison (84 ctDNA-positive and 153 ctDNA-negative). Postoperative ctDNA positivity was associated with increased radiological recurrence (RR 2.50; 95% CI 1.90-3.28; I²=20%), poorer disease-free survival (HR 8.11; 95% CI 3.51-18.73; I²=45%), and poorer overall survival (HR 5.15; 95% CI 2.67-9.94; I²=0%). The direction of the associations persisted in the reported leave-one-out assessments. Recurrence risk was higher in both the early-MRD/landmark and surveillance subgroups, with no statistically significant subgroup difference (P = 0.17).\nCONCLUSION: Postoperative tumor-informed ctDNA positivity was associated with an increased recurrence risk and inferior survival after curative-intent PDAC treatment, although a negative result did not reliably exclude residual disease. Prospective interventional studies are needed before ctDNA-guided surveillance or treatment modifications can be recommended for routine practice.",
+ "authors": [
+  "Mirza W",
+  "Rafi M",
+  "Siddiqui Z",
+  "Mehboob M",
+  "Khan MZ",
+  "Khan K",
+  "Ishaq MH",
+  "Shalikh M"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43013192",
+ "importance": 0.93,
+ "key_points_ko": [],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1007/s12029-026-01629-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43013192"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Meta-Analysis",
+  "Review"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013192/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify postoperative MRD, although the evidence is limited and heterogeneous.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

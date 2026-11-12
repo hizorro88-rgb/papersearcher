@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Erlotinib, an epidermal growth factor receptor (EGFR) small molecule inhibitor approved by the Food and Drug Administration (FDA) for the treatment of pancreatic cancer, faces significant drug resistance challenges. To address this, we investigated the potential of agrimoniin, a key active compound in the traditional Chinese medicine Agrimonia pilosa, which is known for its potent anticancer activity. This study aims to explore the combined effect of these two compounds in pancreatic cancer.\nMETHODS: We sought to verify the combined inhibitory effect of pancreatic cancer by agrimoniin and erlotinib in vitro and in vivo using various assays, including subcutaneous xenograft experiments and western blot. Single-cell RNA sequencing, bioinformatics, western blot, and lactic acid assays were performed to study how agrimoniin and erlotinib affect the tumor microenvironment and aerobic glycolysis. Finally, using signal pathway inhibitors/agonists, lactic acid assays, and Western blot, we aimed to reveal two positive feedback loops between signal pathways and lactic acid production.\nRESULTS: Agrimoniin combines with erlotinib to inhibit proliferation of pancreatic cancer cells. Together, they effectively suppress signal interactions between tumor cells, stromal cells, and macrophages within subcutaneous tumors. Simultaneously, they jointly inhibit aerobic glycolysis and lactic acid production in pancreatic cancer. Notably, this study proposes two potentially novel positive feedback loops between the PI3K/AKT/HIF-1α/HK2, MEK/ERK/HIF-1α/HK2 signaling pathways and lactic acid production.\nCONCLUSIONS: The combination of agrimoniin and erlotinib suppresses signal interactions between tumor cells, macrophages, and stromal cells in the tumor microenvironment, reprograms aerobic glycolysis, disrupts two positive feedback loops, thereby cooperatively inhibiting the proliferation of pancreatic cancer cells. This study provides a theoretical basis for agrimoniin as a sensitizer or resistance-reversing agent for erlotinib, and offers new insights and potential targets for pancreatic cancer drug development.",
+ "authors": [
+  "Zhang X",
+  "Xia X",
+  "Wang Y",
+  "Zhao H",
+  "Xu H",
+  "Liu Y",
+  "Li L",
+  "Wang S"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43009796",
+ "importance": 0.54,
+ "key_points_ko": [
+  "agrimoniin과 erlotinib의 병용 투여는 세포 및 동물 모델에서 췌장암 세포의 증식을 효과적으로 억제했습니다.",
+  "병용 투여는 종양 미세환경 내 종양 세포, 기질 세포, 거대식세포 사이의 신호 전달과 젖산 생성을 차단했습니다.",
+  "PI3K/AKT/HIF-1α/HK2 및 MEK/ERK/HIF-1α/HK2 신호 경로와 젖산 생성 사이의 양성 피드백 고리를 교란하는 기전을 확인했습니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1186/s11658-026-01000-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43009796"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Mol Biol Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43009796/"
+ },
+ "summary_ko": "본 연구는 짚신나물 유래 활성 성분인 agrimoniin(아그리모니인)과 췌장암 치료제인 erlotinib(엘로티닙)의 병용 투여 효과를 평가한 전임상(preclinical) 연구입니다. 실험실 세포 연구 및 이식종 동물 모델 실험에서 두 물질의 병용 투여는 췌장암 세포 증식을 효과적으로 억제했습니다. 두 약물은 종양 미세환경(TME) 내 종양 세포, 기질 세포, 거대식세포 간의 신호 상호작용을 차단하고 호기성 당분해와 젖산 생성을 억제했습니다. 이 결과는 agrimoniin이 erlotinib의 내성 극복 및 민감도 향상을 위한 보조제로 활용될 가능성을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Agrimoniin combines with erlotinib to inhibit the proliferation of pancreatic cancer cells by suppressing signal interactions in the tumor microenvironment and disrupting two positive feedback loops involving lactic acid production",
+ "title_ko": "아그리모니인과 erlotinib 병용 투여의 종양 미세환경 신호 억제 및 젖산 생성 양성 피드백 고리 차단을 통한 췌장암 세포 증식 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignancy for which neoadjuvant chemotherapy with albumin-bound paclitaxel combined with gemcitabine (AG) is a standard first-line approach for borderline resectable and locally advanced disease. However, secondary resistance to this regimen is common, and its underlying mechanisms remain poorly defined. In this study, we investigated how neoadjuvant AG therapy shapes the tumor stroma in PDAC. Single-cell transcriptomics of patient tumors revealed that AG treatment induces a phenotypic switch of cancer-associated fibroblasts (CAFs) from myofibroblastic (myCAF) to inflammatory (iCAF) states and identified a previously unrecognized TMEM100+CAF subset enriched in nonresponders. Mechanistic studies showed that albumin-bound paclitaxel activates IL-2-STAT5 signaling to drive TMEM100 expression and that TMEM100+CAFs promote chemoresistance through paracrine secretion of amphiregulin (AREG) and activation of tumor EGFR signaling. Genetic ablation of TMEM100+CAFs in mouse models reversed CAF switching and enhanced the antitumor efficacy of AG therapy. These findings map chemotherapy-induced CAF plasticity, reveal a TMEM100-AREG axis of resistance, and highlight TMEM100+CAFs as a promising target to sensitize PDAC to neoadjuvant treatment.",
+ "authors": [
+  "Li H",
+  "Ma X",
+  "Hou X",
+  "Sun X",
+  "He X",
+  "Liu K",
+  "Cao H",
+  "Wang L"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43013678",
+ "importance": 0.61,
+ "key_points_ko": [
+  "AG 치료는 암 관련 섬유아세포(CAF)의 형질을 염증성(iCAF) 상태로 변화시키고 치료 불응성 환자에서 TMEM100+ CAF 세포군을 증가시켰습니다.",
+  "알부민 결합 파클리탁셀(albumin-bound paclitaxel)은 IL-2-STAT5 신호전달을 활성화하여 TMEM100 발현을 유도하고 종양의 EGFR 신호전달을 촉진합니다.",
+  "마우스 모델에서 TMEM100+ CAF 세포군을 제거하면 CAF의 상태 전환이 억제되고 AG 치료의 항암 효과가 강화되었습니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1126/scitranslmed.aee4086",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43013678"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sci Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013678/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC) 환자에서 알부민 결합 파클리탁셀(albumin-bound paclitaxel)과 젬시타빈(gemcitabine) 병용요법(AG) 투여 후 발생하는 획득 저항성 기전을 조사했습니다. 환자 종양의 단일세포 전사체 분석 결과, AG 치료는 암 관련 섬유아세포(CAF)를 근섬유아세포성(myCAF)에서 염증성(iCAF) 상태로 전환시켰습니다. 또한 치료 불응성 환자에서 TMEM100+ CAF 세포군이 다량 관찰되었으며, 이 세포군을 제거했을 때 마우스 모델에서 AG 치료 효과가 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Albumin-bound paclitaxel-induced stromal reprogramming drives resistance to neoadjuvant chemotherapy in patients with pancreatic cancer",
+ "title_ko": "알부민 결합 파클리탁셀에 의해 유도된 기질 재구성이 췌장암 환자의 선행보조 항암화학요법 저항성을 유발함",
+ "trial": null,
+ "type": "paper"
+}

@@ -7,6 +7,7 @@
  ],
  "categories": [
   "surgery",
+  "treatment",
   "supportive"
  ],
  "entities": [
@@ -23,7 +24,11 @@
  ],
  "id": "pmid:43004858",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 182명의 환자 중 83명(45.6%)이 외부 스텐트를 받았습니다.",
+  "전체 POPF 발생률은 내부 스텐트 군과 외부 스텐트 군에서 각각 18.2%와 18.1%로 거의 동일했습니다.",
+  "고위험군 환자에서 외부 스텐트는 임상적으로 유의한 POPF를 0.0% 대 21.7%로 유의하게 줄였습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1002/jso.70439",
@@ -45,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43004858/"
  },
- "summary_ko": "BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 로봇 췌십이지장절제술(robotic pancreaticoduodenectomy, RPD)을 받은 환자들을 대상으로 내부 췌관 스텐트와 외부 췌관 스텐트의 수술 후 췌장 누출(postoperative pancreatic fistula, POPF) 발생률을 비교했습니다. 단일 대학 기관에서 182명의 환자를 후향적으로 분석한 결과, 전체 POPF 발생률은 두 군 간에 차이가 없었습니다. 그러나 췌장 누출 위험이 높은 환자군에서는 외부 스텐트 삽입이 임상적으로 유의한 POPF를 유의하게 줄였습니다. 초록에 명시된 바와 같이, 외부 스텐트 삽입은 입원 기간이나 재입원율을 증가시키지 않았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting",
- "title_ko": null,
+ "title_ko": "로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교",
  "trial": null,
  "type": "paper"
 }

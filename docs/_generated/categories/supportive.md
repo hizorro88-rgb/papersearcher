@@ -16,79 +16,132 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 174건 · 최근 30일 131건
+전체 177건 · 최근 30일 132건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
-<a id="pmid-43004858"></a>
-#### [Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting](https://pubmed.ncbi.nlm.nih.gov/43004858/)
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
+<a id="pmid-43013127"></a>
+#### [Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43013127/)
+`논문` `메타분석` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
 
-BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).
+BACKGROUND: Malnutrition is highly prevalent among patients with pancreatic cancer and has a substantial impact on prognosis, treatment tolerability, and quality of life. However, the prognostic significance of the Geriatric Nutritional Risk Index (GNRI), a simple and objective tool for assessing nutritional status, in pancreatic cancer remains incompletely characterized, and the available evidence has not been comprehensively synthesized.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
-
----
-<a id="pmid-43004285"></a>
-#### [Exercise-containing multimodal prehabilitation on functional outcome of patients with hepatobiliary and pancreatic cancer after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43004285/)
-`논문` `메타분석` `지지요법·삶의질` `치료 전반` · 2026-08-11 · PubMed · BMC Cancer · 중요도 0.77
-
-BACKGROUND: Hepatobiliary and pancreatic (HBP) cancers often require complex surgeries that lead to functional decline and poor quality of life (QoL). Exercise-containing multimodal prehabilitation has gained attention as a potential strategy to enhance perioperative outcomes.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004285/) · [DOI](https://doi.org/10.1186/s12885-026-16581-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746705/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004285)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
 
 ---
 <a id="nct-nct04951804"></a>
-#### [부피바카인 병용 유무에 따른 내시경 초음파 유도 복강신경총 차단술(EUS-CPN) 비교](https://clinicaltrials.gov/study/NCT04951804)
+#### [부피바카인을 포함하거나 포함하지 않는 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)](https://clinicaltrials.gov/study/NCT04951804)
 <small>EUS-CPN With and Without Bupivacaine</small>
 
 `임상시험` `기타` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2021-07-07 · ClinicalTrials.gov · Centre hospitalier de l'Université de Montréal (CHUM) · 중요도 0.74
 
 **NCT04951804** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04951804.md)
 
-췌장암 환자의 통증 완화를 위해 시행하는 내시경 초음파 유도 복강신경총 차단술(EUS-CPN)에서 국소마취제 bupivacaine(부피바카인) 사용 여부를 비교하는 무작위 배정 임상시험입니다. 기존에는 시술 중 통증을 줄이기 위해 무수 알코올 주입 전 bupivacaine을 투여해 왔으나, 알코올을 희석해 신경 파괴 효과를 떨어뜨리거나 부정맥 등 심각한 부작용을 유발할 위험이 지적되어 왔습니다. 이번 연구는 수술이 불가능하고 종양 관련 복통이나 요통이 있는 췌장암 환자 180명을 대상으로 bupivacaine 제외가 통증 완화와 안전성에 미치는 영향을 평가합니다.
+이 임상시험은 췌장암 환자의 복부 통증을 조절하기 위해 시행하는 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)에서 부피바카인(bupivacaine) 주사의 효과와 안전성을 평가합니다. 180명의 췌장암 환자를 대상으로 부피바카인 없이 순수 알코올만 주사하는 경우와 부피바카인을 함께 주사하는 경우의 통증 조절 효과를 비교합니다. 췌장암 환자의 70~80%가 진단 당시 통증을 겪으며, 신경파괴술은 통증 완화와 마약성 진통제 요구량 감소에 도움을 줍니다.
 
-- 췌장암 통증 완화 시술(EUS-CPN) 시 기존 표준 방식인 bupivacaine(부피바카인) 선행 주입의 실제 효용성을 검증하는 무작위 임상시험입니다.
-- 수술적 절제가 불가능하고 췌장 체부·미부·경부 종괴로 인한 통증을 겪는 환자 180명을 모집합니다.
-- 시술 중 및 시술 후 즉각적인 통증과 장기적인 통증 조절 효과, 안전성을 종합적으로 비교합니다.
+- 목표 환자 수는 180명입니다.
+- 췌장암 환자의 통증 완화를 위한 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)을 비교 평가합니다.
+- 부피바카인 병용 여부가 시술 중 및 장기적인 통증 조절에 미치는 영향을 무작위 비교합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04951804) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04951804)</small>
 
 ---
+<a id="nct-nct03187951"></a>
+#### [PancFit: 췌장암 수술 전 치료 중 복합 운동 프로그램](https://clinicaltrials.gov/study/NCT03187951)
+<small>PancFit: Multimodal Exercise During Preoperative Therapy for Pancreatic Cancer</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `수술` · 2017-06-15 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.71
+
+**NCT03187951** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03187951.md)
+
+이 임상시험은 표준 수술 전 항암화학요법이나 방사선치료를 받을 예정인 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동 증진에 도움이 되는지 확인하기 위해 진행되었습니다. 최대 128명의 참가자가 등록하여 대조군(운동 프로그램 없음) 또는 중재군(구조화된 유산소 및 근력 운동, 행동 기술 훈련) 중 한 곳으로 무작위 배정되었습니다. 연구 기간은 수술 후 최대 7개월까지이며, 설문조사, 신체 기능 평가, 영양 상담 및 운동 기록 등이 진행되었습니다.
+
+- 목표 연구 대상 환자 수는 최대 128명입니다.
+- 참가자는 구조화된 운동 프로그램을 하지 않는 군(Arm A)과 유산소·근력 운동 및 행동 기술 훈련을 받는 군(Arm B)으로 무작위 배정되었습니다.
+- 연구 참여 기간은 수술 후 최대 7개월까지입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03187951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03187951)</small>
+
+---
 <a id="nct-nct07608458"></a>
-#### [췌장절제술 환자의 수술 후 경과 개선을 위한 정기적 명상 중재 임상시험](https://clinicaltrials.gov/study/NCT07608458)
+#### [췌장절제술을 받는 환자의 수술 후 결과 개선을 위한 정기 명상 임상시험](https://clinicaltrials.gov/study/NCT07608458)
 <small>Scheduled Meditation for Improving Postoperative Outcomes in Patients Undergoing Pancreatectomy</small>
 
 `임상시험` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2026-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.71
 
 **NCT07608458** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07608458.md)
 
-이 임상시험은 췌장절제술을 받는 환자를 대상으로 스마트폰 앱 기반의 정기적 명상 프로그램이 수술 후 통증, 불안, 불면, 스트레스 및 이동성에 미치는 효과와 타당성을 평가합니다. 환자들은 수술 전후로 정해진 일정에 따라 명상을 수행하는 군과 퇴원 후 앱 접근권을 받는 군으로 무작위 배정됩니다. 수술 후 1개월 시점까지의 불안 점수 변화와 수면, 통증 등 삶의 질 지표를 추적 조사합니다.
+이 임상시험은 췌장절제술을 받는 환자를 대상으로 스마트폰 앱 기반의 명상 중재가 통증, 불안, 불면, 스트레스 및 신체활동 등 수술 후 결과에 미치는 영향과 타당성을 평가합니다. 70명의 환자를 대상으로 하며, 수술 전후에 Headspace 애플리케이션을 이용한 명상 프로그램을 시행합니다. 연구의 주요 목적은 등록률, 유지율, 순응도를 통한 타당성 평가와 수술 후 1개월 시점의 불안(STAI) 점수 변화를 평가하는 것입니다. 또한 통증과 수면 질 등 건강 관련 삶의 질 변화에 미치는 영향도 관찰합니다.
 
-- 췌장절제술 예정 환자 70명을 대상으로 Headspace 앱을 활용한 명상 중재의 순응도와 효과를 평가합니다.
-- 수술 전 3주간 매일 1회, 수술 후 1개월간 매일 2회 명상을 수행하며 불안 점수(STAI) 및 수면·통증 변화를 확인합니다.
-- 참가자들은 연구 기간 동안 Garmin 활동 측정기를 착용하여 신체 활동 데이터를 수집합니다.
+- 목표 연구 대상자는 70명입니다.
+- 1군 환자는 수술 전 3주 동안 하루 1회, 수술 후 1개월 동안 하루 2회 Headspace 앱을 통해 명상을 수행하고 활동 측정기를 착용합니다.
+- 2군 환자는 퇴원 시점에 Headspace 앱 접근 권한을 받고 활동 측정기를 착용합니다.
+- 주요 평가 항목은 명상 중재의 타당성과 수술 후 1개월 시점의 불안(STAI) 점수 변화입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07608458) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07608458)</small>
 
 ---
-<a id="nct-nct03187951"></a>
-#### [PancFit: 췌장암 환자의 수술 전 치료 기간 중 다학제 운동 프로그램 임상시험](https://clinicaltrials.gov/study/NCT03187951)
-<small>PancFit: Multimodal Exercise During Preoperative Therapy for Pancreatic Cancer</small>
+<a id="pmid-43012757"></a>
+#### [임신 중 난소 신생물처럼 보인 췌장 신생물의 관리: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/43012757/)
+<small>Management of an incidentally discovered pancreatic neoplasm mimicking an ovarian neoplasm during pregnancy: A case report</small>
 
-`임상시험` `기타` `치료 전반` `지지요법·삶의질` `수술` · 2017-06-15 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.71
+`논문` `증례` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-10-30 · PubMed · Medicine (Baltimore) · 중요도 0.59
 
-**NCT03187951** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03187951.md)
+임신 36주 차에 19.4 × 14.5 cm 크기의 췌장 점액성 낭성 신생물(MCN)이 발견된 36세 여성의 증례입니다. 환자는 임신 37주 2일에 제왕절개로 출산한 뒤, 출산 11주 후에 복강경 췌장 원위부 절제술 및 비장 절제술을 받았습니다. 최종 병리 검사에서 고등급 신생물을 동반한 췌장 MCN으로 확인되었으며 전이는 없었고, 합병증 없이 수술 후 6개월 추적 관찰을 진행 중입니다.
 
-이 연구는 표준 수술 전 선행 항암치료 또는 방사선 치료를 받는 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동을 개선하는지 평가하는 임상시험입니다. 참가자는 구조화된 운동 프로그램과 행동 기술 훈련을 받는 그룹과 대조군으로 무작위 배정됩니다. 운동 그룹은 주 5일 이상의 유산소 운동과 주 2회 이상의 근력 운동을 수행합니다. 수술 전과 수술 후 최대 7개월까지 신체 기능, 삶의 질, 영양 상태를 평가합니다.
+- 임신 36주에 우연히 19.4 × 14.5 cm 크기의 췌장 미부 점액성 낭성 신생물(MCN)이 발견되었습니다.
+- 제왕절개 출산 11주 후 복강경 췌장 원위부 절제술 및 비장 절제술을 시행하여 완치했습니다.
+- 임신 중 악성이 의심되지 않는 췌장 MCN은 출산 후 계획적인 절제가 안전한 접근법입니다.
 
-- 수술 전 선행 치료를 받는 췌장암 환자를 대상으로 운동 프로그램의 효과를 평가합니다.
-- 운동 그룹은 주 5일 이상 30분 간의 중강도 유산소 운동과 주 2회 이상의 근력 운동을 실시합니다.
-- 활동 추적기(Fitbit) 착용, 신체 능력 측정, 영양 상담 및 전화 상담이 포함됩니다.
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43012757/) · [DOI](https://doi.org/10.1097/MD.0000000000051361) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13727251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43012757)</small>
 
-<small>[원문](https://clinicaltrials.gov/study/NCT03187951) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03187951)</small>
+---
+<a id="pmid-43012007"></a>
+#### [복강 내 유즙 저류에 대한 초음파내시경 유도 배액술](https://pubmed.ncbi.nlm.nih.gov/43012007/)
+<small>Endoscopic Drainage of An Intra-Abdominal Chylous Collection</small>
+
+`논문` `증례` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-10-16 · PubMed · Eur J Case Rep Intern Med · 중요도 0.45
+
+췌장암으로 췌장 원위부 절제술(distal pancreatectomy)을 받은 53세 여성 환자에게 수술 후 유즙 누출(chylous leak)로 인한 복강 내 저류가 발생했습니다. 보존적 치료에도 유즙 누출이 지속되어 초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행했습니다. 시술을 통해 유즙을 위 내부로 배액하는 데 성공했습니다. 환자는 합병증 없이 회복하여 시술 2일 후 퇴원했습니다.
+
+- 췌장 원위부 절제술 후 7일째에 14 × 5 cm 크기의 복강 내 유즙 저류가 확인되었습니다.
+- 초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행해 유즙을 위 내부로 배액했습니다.
+- 환자는 시술 2일 후 특별한 합병증 없이 정상적으로 퇴원했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43012007/) · [DOI](https://doi.org/10.12890/2026_007278) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13750782/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43012007)</small>
+
+---
+<a id="pmid-43004285"></a>
+#### [간담췌암 수술 환자의 기능적 결과에 미치는 운동 포함 다모달 수술 전 재활의 효과: 메타분석](https://pubmed.ncbi.nlm.nih.gov/43004285/)
+<small>Exercise-containing multimodal prehabilitation on functional outcome of patients with hepatobiliary and pancreatic cancer after surgery: a meta-analysis</small>
+
+`논문` `메타분석` `수술` `지지요법·삶의질` `치료 전반` · 2026-08-11 · PubMed · BMC Cancer · 중요도 0.77
+
+이 연구는 간담췌암 수술을 받는 성인 환자를 대상으로 운동을 포함한 다모달 수술 전 재활(exercise-containing multimodal prehabilitation)이 기능적 결과에 미치는 영향을 평가하기 위한 메타분석입니다. 총 1,643명의 환자가 포함된 15개의 연구를 분석했습니다. 분석 결과, 수술 전 재활은 6분 보행 검사(6MWT)와 삶의 질(QoL)을 유의하게 향상시켰습니다. 반면 입원 기간, 수술 후 합병증, 단기 사망률은 유의미한 감소를 보이지 않았습니다.
+
+- 총 1,643명의 환자가 포함된 15개 연구(무작위 대조시험 8개, 비무작위 연구 7개)를 분석했습니다.
+- 운동 포함 다모달 수술 전 재활은 6분 보행 검사(6MWT)를 평균 30.79미터 유의하게 향상시켰습니다(p < 0.001).
+- 삶의 질(QoL) 또한 표준화된 평균 차이 0.39로 유의하게 개선되었습니다(p = 0.02).
+- 입원 기간(평균 차이 -1.10일), 수술 후 합병증(오즈비 0.70), 단기 사망률(오즈비 0.80)은 통계적으로 유의한 차이가 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004285/) · [DOI](https://doi.org/10.1186/s12885-026-16581-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746705/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004285)</small>
+
+---
+<a id="pmid-43004858"></a>
+#### [로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교](https://pubmed.ncbi.nlm.nih.gov/43004858/)
+<small>Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
+
+이 연구는 로봇 췌십이지장절제술(robotic pancreaticoduodenectomy, RPD)을 받은 환자들을 대상으로 내부 췌관 스텐트와 외부 췌관 스텐트의 수술 후 췌장 누출(postoperative pancreatic fistula, POPF) 발생률을 비교했습니다. 단일 대학 기관에서 182명의 환자를 후향적으로 분석한 결과, 전체 POPF 발생률은 두 군 간에 차이가 없었습니다. 그러나 췌장 누출 위험이 높은 환자군에서는 외부 스텐트 삽입이 임상적으로 유의한 POPF를 유의하게 줄였습니다. 초록에 명시된 바와 같이, 외부 스텐트 삽입은 입원 기간이나 재입원율을 증가시키지 않았습니다.
+
+- 총 182명의 환자 중 83명(45.6%)이 외부 스텐트를 받았습니다.
+- 전체 POPF 발생률은 내부 스텐트 군과 외부 스텐트 군에서 각각 18.2%와 18.1%로 거의 동일했습니다.
+- 고위험군 환자에서 외부 스텐트는 임상적으로 유의한 POPF를 0.0% 대 21.7%로 유의하게 줄였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
 
 ---
 <a id="pmid-43001179"></a>
@@ -2028,35 +2081,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 구체적인 분석 수치 및 세부 결과는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860670/) · [DOI](https://doi.org/10.1002/jhbp.70204) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860670)</small>
-
----
-<a id="pmid-42857277"></a>
-#### [인삼 유래 진세노사이드 Rb1의 PI3K-AKT 경로 조절을 통한 대식세포 재프로그래밍 및 췌장암 진행 억제](https://pubmed.ncbi.nlm.nih.gov/42857277/)
-<small>Ginsenoside Rb1 From the Functional Food Panax ginseng Suppresses Pancreatic Cancer Progression via Macrophage Reprogramming Through the PI3K-AKT Pathway</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-10-08 · PubMed · Food Sci Nutr · 중요도 0.64
-
-본 연구는 인삼(Panax ginseng)의 주요 활성 성분인 진세노사이드 Rb1(GRB1)이 췌관선암(PDAC)의 진행에 미치는 항종양 효과와 기전을 전임상 모델을 통해 분석했습니다. 네트워크 약리학 및 분자 도킹 분석을 통해 GRB1의 주요 표적으로 PI3K-AKT 신호 전달 경로를 규명했습니다. 마우스 동소이식 및 간 전이 모델에서 GRB1 투여는 뚜렷한 독성 없이 종양 성장과 간 전이를 억제하고 생존 기간을 연장했습니다. 또한 대식세포 및 환자 유래 오가노이드(organoid) 모델에서 GRB1이 면역 억제성 M2형 대식세포 분극화를 억제하여 항종양 효과를 나타냄을 확인했습니다.
-
-- 네트워크 약리학 분석에서 진세노사이드 Rb1과 췌장암 간의 110개 공유 표적이 도출되었으며, 핵심 경로로 PI3K-AKT 신호 전달계가 확인되었습니다.
-- 췌장암 마우스 동소이식 및 간 전이 모델에서 GRB1은 명백한 독성 없이 종양 성장, 증식 표지자(Ki67) 및 간 전이 부담을 감소시키고 생존 기간을 연장했습니다.
-- GRB1은 PI3K 및 AKT 인산화를 억제하고 M2형 대식세포 표지자(CD206, CD163 등)를 감소시켜 환자 유래 오가노이드의 성장을 저해했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857277/) · [DOI](https://doi.org/10.1002/fsn3.72468) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13650271/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857277)</small>
-
----
-<a id="pmid-42857438"></a>
-#### [췌장선암종의 초기 증상으로 나타난 두피 전이: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42857438/)
-<small>Scalp Metastasis as the Initial Presentation of Pancreatic Adenocarcinoma: A Case Report and Review of the Literature</small>
-
-`논문` `증례` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-09-09 · PubMed · Cureus · 중요도 0.54
-
-췌관선암종(PDAC)의 피부 전이는 매우 드물며 그중 두피 전이는 극히 이례적인 증상입니다. 본 논문은 통증 없는 두피 결절과 체중 감소를 주소로 내원하여 췌장암 4기(두피, 간 및 림프절 전이)로 진단받은 71세 여성의 사례를 보고했습니다. 환자의 두피 결절에 대한 면역조직화학 분석과 전신 전산화단층촬영(CT)을 통해 췌장 체부의 원발암을 확인했습니다. 이후 환자는 gemcitabine(젬시타빈)과 nab-paclitaxel(납-파클리탁셀) 병용 고식적 항암치료를 시작하였으며, 4개월 추적 관찰에서 영상학적 질병 안정 상태를 유지했습니다.
-
-- 통증 없는 두피 결절을 초기 증상으로 내원한 71세 여성 환자가 췌장암 4기로 최종 진단되었습니다.
-- 두피 결절 조직검사 및 면역조직화학 검사(CK7/CK19 양성 등)를 통해 췌장 기원의 전이임을 확인했습니다.
-- 환자는 gemcitabine과 nab-paclitaxel 병용 항암화학요법을 받았으며, 4개월 추적 관찰 시 영상학적으로 질병 안정(SD)을 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857438/) · [DOI](https://doi.org/10.7759/cureus.116015) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13652551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857438)</small>
 
 ---

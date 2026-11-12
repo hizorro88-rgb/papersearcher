@@ -24,7 +24,7 @@ search:
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
-| [췌십이지장절제술 후 췌장 누공 발생의 예측 위험 요인 연구](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
+| [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
 | [Glubran2 조직 접착제를 이용한 췌장공장문합술 보강의 효과 평가 임상시험](../trials/NCT06756074.md) | 2상 | 모집 중 | - |
 | [췌십이지장절제술 후 통증 조절을 위한 리포소말 부피바카인을 이용한 복직근초 차단술과 흉부 경막외 진통법의 비교](../trials/NCT06411795.md) | 2상 | 모집 중 | - |
@@ -34,12 +34,18 @@ search:
 ## 타임라인 (30)
 
 <a id="pmid-43004858"></a>
-#### [Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting](https://pubmed.ncbi.nlm.nih.gov/43004858/)
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
+#### [로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교](https://pubmed.ncbi.nlm.nih.gov/43004858/)
+<small>Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting</small>
 
-BACKGROUND: Postoperative pancreatic fistula (POPF) remains a significant source of morbidity following pancreaticoduodenectomy (PD), and whether internal or external stenting better mitigates POPF after robotic PD (RPD) remains unclear. METHODS: A retrospective review was conducted of patients who underwent RPD with internalized or externalized pancreatic duct stents at a single academic institution (2020-2026).
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-09 · PubMed · J Surg Oncol · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
+이 연구는 로봇 췌십이지장절제술(robotic pancreaticoduodenectomy, RPD)을 받은 환자들을 대상으로 내부 췌관 스텐트와 외부 췌관 스텐트의 수술 후 췌장 누출(postoperative pancreatic fistula, POPF) 발생률을 비교했습니다. 단일 대학 기관에서 182명의 환자를 후향적으로 분석한 결과, 전체 POPF 발생률은 두 군 간에 차이가 없었습니다. 그러나 췌장 누출 위험이 높은 환자군에서는 외부 스텐트 삽입이 임상적으로 유의한 POPF를 유의하게 줄였습니다. 초록에 명시된 바와 같이, 외부 스텐트 삽입은 입원 기간이나 재입원율을 증가시키지 않았습니다.
+
+- 총 182명의 환자 중 83명(45.6%)이 외부 스텐트를 받았습니다.
+- 전체 POPF 발생률은 내부 스텐트 군과 외부 스텐트 군에서 각각 18.2%와 18.1%로 거의 동일했습니다.
+- 고위험군 환자에서 외부 스텐트는 임상적으로 유의한 POPF를 0.0% 대 21.7%로 유의하게 줄였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43004858/) · [DOI](https://doi.org/10.1002/jso.70439) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43004858)</small>
 
 ---
 <a id="pmid-43000926"></a>

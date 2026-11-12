@@ -1,0 +1,63 @@
+{
+ "abstract": "INTRODUCTION: Chylous leak is an increasingly recognised complication following pancreatic surgery. It results from the disruption of the lymphatic system and may lead to persistent chylous ascites or collection. Ongoing chyle loss is associated with significant morbidity including malnutrition, dehydration, electrolyte disturbance, hypoalbuminaemia, immunosuppression and impaired wound healing. Clinicians managing patients in the perioperative setting should remain vigilant for the development of chylous leak, particularly following high-risk surgery. While most cases respond to conservative management with dietary modification and use of somatostatin analogues, refractory cases remain challenging and may require technically demanding or morbid interventions. We report a novel minimally invasive approach using endoscopic ultrasound-guided cyst gastrostomy for a post-operative chylous collection.\nCASE DESCRIPTION: A 53-year-old woman underwent distal pancreatectomy, splenectomy and lymph node clearance for pancreatic ductal adenocarcinoma with associated extensive lymphadenopathy. On post-operative day seven, she developed abdominal pain and elevated inflammatory markers. Computed tomography demonstrated a 14 × 5 cm thin-walled collection within the lesser sac. Percutaneous drainage yielded turbid milky fluid consistent with chyle. Despite initial conservative management, a persistent high output chyle leak developed. EUS-guided cyst gastrostomy was performed, allowing internal drainage of chyle into the stomach. The patient recovered without complications, resumed oral intake and was discharged two days following the procedure.\nCONCLUSION: EUS-guided cyst gastrostomy may represent a safe, minimally invasive therapeutic option for selected patients with persistent chylous collections. This approach may mitigate risks associated with prolonged or repeated external drainage and facilitate earlier discharge, allowing ongoing outpatient conservative management.\nLEARNING POINTS: Post-operative chylous leak and chylous collections are associated with significant morbidity, particularly when diagnosis is delayed. Perioperative medical teams should maintain a high index of suspicion and actively monitor for this complication following high-risk surgery.Persistent chyle loss can lead to malnutrition, dehydration, electrolyte disturbances, immunosuppression, hypoalbuminaemia and impaired wound healing, highlighting the importance of early nutritional, fluid and electrolyte support.Endoscopic ultrasound-guided cyst gastrostomy may represent a safe, minimally invasive alternative which allows internal drainage of a chylous collection, ameliorating risks associated with repeated or prolonged external drainage.",
+ "authors": [
+  "Karunadasa H",
+  "O'Connor R",
+  "Chan R",
+  "Zhang J",
+  "Urquhart P"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43012007",
+ "importance": 0.45,
+ "key_points_ko": [
+  "췌장 원위부 절제술 후 7일째에 14 × 5 cm 크기의 복강 내 유즙 저류가 확인되었습니다.",
+  "초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행해 유즙을 위 내부로 배액했습니다.",
+  "환자는 시술 2일 후 특별한 합병증 없이 정상적으로 퇴원했습니다."
+ ],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.12890/2026_007278",
+  "nct": [],
+  "pmcid": "PMC13750782",
+  "pmid": "43012007"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-16",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Case Rep Intern Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43012007/"
+ },
+ "summary_ko": "췌장암으로 췌장 원위부 절제술(distal pancreatectomy)을 받은 53세 여성 환자에게 수술 후 유즙 누출(chylous leak)로 인한 복강 내 저류가 발생했습니다. 보존적 치료에도 유즙 누출이 지속되어 초음파내시경 유도하 낭종위문합술(EUS-guided cyst gastrostomy)을 시행했습니다. 시술을 통해 유즙을 위 내부로 배액하는 데 성공했습니다. 환자는 합병증 없이 회복하여 시술 2일 후 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Endoscopic Drainage of An Intra-Abdominal Chylous Collection",
+ "title_ko": "복강 내 유즙 저류에 대한 초음파내시경 유도 배액술",
+ "trial": null,
+ "type": "paper"
+}

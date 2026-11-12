@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "treatment",
   "supportive",
+  "treatment",
   "surgery"
  ],
  "entities": [],
@@ -20,11 +20,11 @@
  "id": "nct:NCT03187951",
  "importance": 0.71,
  "key_points_ko": [
-  "수술 전 선행 치료를 받는 췌장암 환자를 대상으로 운동 프로그램의 효과를 평가합니다.",
-  "운동 그룹은 주 5일 이상 30분 간의 중강도 유산소 운동과 주 2회 이상의 근력 운동을 실시합니다.",
-  "활동 추적기(Fitbit) 착용, 신체 능력 측정, 영양 상담 및 전화 상담이 포함됩니다."
+  "목표 연구 대상 환자 수는 최대 128명입니다.",
+  "참가자는 구조화된 운동 프로그램을 하지 않는 군(Arm A)과 유산소·근력 운동 및 행동 기술 훈련을 받는 군(Arm B)으로 무작위 배정되었습니다.",
+  "연구 참여 기간은 수술 후 최대 7개월까지입니다."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03187951"
  },
- "summary_ko": "이 연구는 표준 수술 전 선행 항암치료 또는 방사선 치료를 받는 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동을 개선하는지 평가하는 임상시험입니다. 참가자는 구조화된 운동 프로그램과 행동 기술 훈련을 받는 그룹과 대조군으로 무작위 배정됩니다. 운동 그룹은 주 5일 이상의 유산소 운동과 주 2회 이상의 근력 운동을 수행합니다. 수술 전과 수술 후 최대 7개월까지 신체 기능, 삶의 질, 영양 상태를 평가합니다.",
+ "summary_ko": "이 임상시험은 표준 수술 전 항암화학요법이나 방사선치료를 받을 예정인 췌장암 환자를 대상으로 규칙적인 운동과 행동 기술 훈련이 신체 활동 증진에 도움이 되는지 확인하기 위해 진행되었습니다. 최대 128명의 참가자가 등록하여 대조군(운동 프로그램 없음) 또는 중재군(구조화된 유산소 및 근력 운동, 행동 기술 훈련) 중 한 곳으로 무작위 배정되었습니다. 연구 기간은 수술 후 최대 7개월까지이며, 설문조사, 신체 기능 평가, 영양 상담 및 운동 기록 등이 진행되었습니다.",
  "summary_source": "llm",
  "tags": [
   "Other disorders of glucose regulation and pancreatic internal secretion",
@@ -62,14 +62,14 @@
   "Aerobic Exercise"
  ],
  "title": "PancFit: Multimodal Exercise During Preoperative Therapy for Pancreatic Cancer",
- "title_ko": "PancFit: 췌장암 환자의 수술 전 치료 기간 중 다학제 운동 프로그램 임상시험",
+ "title_ko": "PancFit: 췌장암 수술 전 치료 중 복합 운동 프로그램",
  "trial": {
   "conditions": [
    "Other Disorders of Glucose Regulation and Pancreatic Internal Secretion",
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: • 생검으로 확진된 췌장암 환자 • 수술 전 선행 치료(항암치료, 방사선 치료 또는 항암방사선 겸용) 예정 환자 • 등록 시점부터 6주 이후 췌장 절제술 예정 환자 • 운동 프로그램 및 일일 운동 일지 작성이 가능한 환자 • 전화 또는 이메일 연락이 가능한 환자 제외 기준: • 영어 미사용자 • 불안정하거나 증상이 있는 심장 또는 호흡기 질환(NYHA III 또는 IV) • 체중 지지가 불가능한 최근의 골절 또는 급성 근골격계 손상 • 통증 점수 10점 중 7점 이상 • 이전 절제술 후 재발한 암 • 신경내분비암 • 이미 수술 전 선행 치료를 완료하고 수술 전 휴식 기간에 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 조직학적으로 진단된 모든 종류의 췌장암\n- 표준 치료 혹은 임상시험으로서 수술 전 치료(항암화학요법, 방사선치료 또는 동시 화학방사선치료)를 받을 예정인 환자\n- 등록 시점에서 6주 이상 후에 췌장절제술을 받을 것으로 예상되는 환자\n- 연구 설명을 이해하고 자발적으로 참여할 의향이 있는 환자\n- 운동 프로그램을 이해하고 일일 운동 일지를 작성할 수 있는 환자\n\n제외 기준:\n- 영어를 구사하지 못하는 환자\n- 기저 평가 설문지나 기능 평가를 완료할 수 없는 환자\n- 기저의 불안정한 심장 또는 폐 질환이 있거나 증상이 있는 심장 질환이 있는 환자\n- 최근 골절이나 급성 근골격계 부상이 있는 환자\n- 통증 수치가 10점 만점에 7점 이상인 환자\n- 수술 후 재발한 췌장암 환자\n- 신경내분비암 환자\n- 수술 전 치료를 완료하고 수술 전 휴식기에 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Pancreatic cancer of any type, biopsy-proven\n2. Scheduled to receive preoperative therapy (chemotherapy, radiation or chemoradiation) either on- or off-protocol.\n3. Anticipated to undergo pancreatectomy in \\>/= 6 weeks from enrollment\n4. Able to understand the description of the study and willing to participate\n5. Able to understand the exercise program\n6. Able to maintain daily exercise logs\n7. Telephone or email access and agreement to engage with the research personnel via phone or email\n8. Meet all screening requirements.\n\nExclusion Criteria:\n\n1. Non-English speaking\n2. Unable to complete the baseline assessment questionnaires or functional assessments\n3. Underlying unstable cardiac or pulmonary disease or symptomatic cardiac disease (New York Heart Association functional class III or IV)\n4. Recent fracture or acute musculoskeletal injury that precludes the ability to weight bear fully on all 4 limbs in order to participate in an exercise intervention\n5. Numeric pain rating scale of \\>/= 7 out of 10\n6. Myopathic or rheumatologic disease that impacts physical function\n7. Recurrent cancer following prior resection\n8. Neuroendocrine cancer\n9. Completed preoperative therapy and are on their presurgical rest period.",
   "enrollment": 152,
   "has_results": false,
@@ -91,19 +91,19 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "불안정하거나 증상이 있는 심장 또는 호흡기 질환",
-    "최근의 골절 또는 급성 근골격계 손상",
-    "이전 수술 후 재발한 암",
+    "영어를 구사하지 못하는 경우",
+    "불안정한 심장 또는 폐 질환",
+    "통증 수치가 10점 만점에 7점 이상인 경우",
+    "수술 후 재발한 암",
     "신경내분비암"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "수술 전 선행 항암 또는 방사선 치료를 받는 췌장암 환자 대상 운동 중재 연구",
+   "notes_ko": "수술 전 치료 예정인 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "resectable",
     "neoadjuvant"
    ],
    "source": "llm"

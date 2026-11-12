@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains difficult to treat, highlighting the need for strategies that selectively deliver cytotoxic agents to tumor cells. Trophoblast cell-surface antigen 2 (TROP2) has been proposed as a candidate therapeutic target in PDAC, but non-antibody-based delivery formats remain underexplored. Using protein-SELEX, we identified T17, a high-affinity aptamer that specifically binds to TROP2, and conjugated it to monomethyl auristatin E through an MC-Val-Cit-PAB linker to generate the aptamer-drug conjugate T17-M. Preclinical evaluation in cellular and animal models showed that T17-M retained TROP2-dependent binding, underwent clathrin-mediated internalization and lysosomal processing, and suppressed tumor growth in cell-line-derived and patient-derived xenografts. T17-M also reduced liver metastasis and induced calreticulin exposure, ATP release, and HMGB1 secretion, consistent with immunogenic cell death. In immunocompetent models, T17-M promoted dendritic-cell activation and CD8+ T cell infiltration, while its combination with PD-1 blockade further enhanced tumor control and prolonged survival. These findings provide preclinical proof-of-concept for T17-M as an alternative TROP2-targeted drug-delivery strategy for PDAC.",
+ "authors": [
+  "Liu Y",
+  "Luo Z",
+  "Gao Y",
+  "Pan T",
+  "Yang C",
+  "Zhang Z",
+  "Yu D",
+  "He Y"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43013672",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.1126/sciadv.aee3585",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43013672"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Sci Adv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013672/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains difficult to treat, highlighting the need for strategies that selectively deliver cytotoxic agents to tumor cells. Trophoblast cell-surface antigen 2 (TROP2) has been proposed as a candidate therapeutic target in PDAC, but non-antibody-based delivery formats remain underexplored.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

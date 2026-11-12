@@ -1,0 +1,60 @@
+{
+ "abstract": "Aim: Pancreatic ductal adenocarcinoma (PDAC) has a dismal prognosis, and innovative therapies are needed. We developed a phase I pilot, non-viral gene therapy (CYL-02) encoding SST2 and DCK::UMK genes complexed with a polyethyleneimine non-viral vector to sensitize tumours to gemcitabine chemotherapy, which showed excellent feasibility and safety. Methods: An open-label, multicentre, randomized Phase 2 trial (NCT02806687) compared CYL-02 [two intratumoral endoscopic ultrasound (EUS)-guided injections one month apart] + gemcitabine injected weekly vs. gemcitabine alone in 70 patients (n = 35 per arm) with locally advanced PDAC. The primary endpoint was progression-free survival (PFS). Secondary endpoints were overall survival (OS), tumour response, safety, and ancillary studies. Results: PFS did not differ between arms. Unexpectedly, OS was worse in the gene therapy + chemotherapy arm. Exploratory analyses revealed no differences in clinical status, baseline characteristics, or the number of patients receiving second-line therapy, with the exception of a more frequent use of FOLFOX post-progression in the control arm, which could explain this difference. Proteomic profiling identified clusterin (CLU) as a candidate treatment-induced resistance factor in patients: CYL-02 + gemcitabine significantly increased circulating CLU levels, while gemcitabine alone did not. In vitro and in vivo models confirmed CLU induction by DCK combined with gemcitabine and demonstrated that CLU silencing restored chemosensitivity, reducing experimental tumour volume in mice. Conclusion: CLU induction in patients receiving CYL-02 and gemcitabine may explain adaptive resistance and lack of efficacy of gene therapy. These results provide a rationale for combining CYL-02 and gemcitabine with CLU targeting to overcome resistance in pancreatic cancer.",
+ "authors": [
+  "Buscail L",
+  "Lebrin M",
+  "Hanoun N",
+  "Gourgou S",
+  "Dorat N",
+  "Vernejoul F",
+  "Cambois G",
+  "Gross F"
+ ],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-12",
+ "history": [
+  {
+   "date": "2026-11-12",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43011677",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-11-12",
+ "links": {
+  "doi": "10.20517/cdr.2026.68",
+  "nct": [
+   "NCT02806687"
+  ],
+  "pmcid": "PMC13749215",
+  "pmid": "43011677"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-22",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Drug Resist",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43011677/"
+ },
+ "summary_ko": "Aim: Pancreatic ductal adenocarcinoma (PDAC) has a dismal prognosis, and innovative therapies are needed. We developed a phase I pilot, non-viral gene therapy (CYL-02) encoding SST2 and DCK::UMK genes complexed with a polyethyleneimine non-viral vector to sensitize tumours to gemcitabine chemotherapy, which showed excellent feasibility and safety.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Randomized multicentre Phase 2 clinical trial of non-viral gene therapy for pancreatic cancer: clinical and molecular findings",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

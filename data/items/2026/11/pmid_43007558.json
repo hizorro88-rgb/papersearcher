@@ -20,7 +20,11 @@
  ],
  "id": "pmid:43007558",
  "importance": 0.95,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 5개 연구의 환자 272명(복강경 144명, 로봇 128명)을 대상으로 수술 결과를 비교 분석했습니다.",
+  "수술 시간, 수술 중 출혈량, 췌장 누공, 수술 후 출혈 및 주요 합병증 비율은 두 수술법 간에 통계적으로 유의한 차이가 없었습니다.",
+  "수술 후 입원 기간은 로봇 수술 그룹이 유의하게 짧았으나(평균 차이 1.22일, p=0.01), 확정적인 회복상의 이점으로 결론짓기는 어렵습니다."
+ ],
  "last_updated": "2026-11-11",
  "links": {
   "doi": "10.1007/s11701-026-04143-5",
@@ -44,11 +48,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43007558/"
  },
- "summary_ko": "Pancreatic enucleation (PE) is an operation that spares pancreatic parenchyma and thereby preserves glandular function, and it is now widely favoured for benign and low-grade malignant pancreatic neoplasms. Whether adding robotic assistance brings benefit beyond the standard laparoscopic route, however, remains an open question.",
- "summary_source": "excerpt",
+ "summary_ko": "양성 및 저도 악성 췌장 종양 환자를 대상으로 로봇 췌장 핵적출술(RPE)과 복강경 췌장 핵적출술(LPE)의 효과와 안전성을 비교한 메타분석 연구입니다. 총 5개 연구에서 272명의 환자(복강경 144명, 로봇 128명)의 데이터를 분석했습니다. 수술 시간, 출혈량, 수술 후 췌장 누공 및 주요 합병증 발생률은 두 그룹 간 차이가 없었습니다. 로봇 수술 그룹에서 수술 후 입원 기간이 통계적으로 짧았으나 전체적인 차이를 단정하기에는 증거가 부족합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Robotic pancreatic enucleation versus laparoscopic pancreatic enucleation: a meta-analysis",
- "title_ko": null,
+ "title_ko": "로봇 췌장 핵적출술 대 복강경 췌장 핵적출술: 메타분석",
  "trial": null,
  "type": "paper"
 }

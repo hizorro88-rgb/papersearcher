@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,152</b><span>누적 수집<br><small>논문·소식 601 · 임상시험 551</small></span></div><div class="ps-stat"><b>+29</b><span>오늘 신규<br><small>갱신 14건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,166</b><span>누적 수집<br><small>논문·소식 615 · 임상시험 551</small></span></div><div class="ps-stat"><b>+14</b><span>오늘 신규<br><small>갱신 22건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-11](_generated/daily/2026/11/11.md)
+최근 수집일: [2026-11-12](_generated/daily/2026/11/12.md)
 
 <a id="nct-nct07409272"></a>
 #### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
@@ -38,29 +38,41 @@
 
 ---
 <a id="pmid-43007558"></a>
-#### [Robotic pancreatic enucleation versus laparoscopic pancreatic enucleation: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43007558/)
+#### [로봇 췌장 핵적출술 대 복강경 췌장 핵적출술: 메타분석](https://pubmed.ncbi.nlm.nih.gov/43007558/)
+<small>Robotic pancreatic enucleation versus laparoscopic pancreatic enucleation: a meta-analysis</small>
+
 `논문` `메타분석` `수술` · 2026-11-10 · PubMed · J Robot Surg · 중요도 0.95
 
-Pancreatic enucleation (PE) is an operation that spares pancreatic parenchyma and thereby preserves glandular function, and it is now widely favoured for benign and low-grade malignant pancreatic neoplasms. Whether adding robotic assistance brings benefit beyond the standard laparoscopic route, however, remains an open question.
+양성 및 저도 악성 췌장 종양 환자를 대상으로 로봇 췌장 핵적출술(RPE)과 복강경 췌장 핵적출술(LPE)의 효과와 안전성을 비교한 메타분석 연구입니다. 총 5개 연구에서 272명의 환자(복강경 144명, 로봇 128명)의 데이터를 분석했습니다. 수술 시간, 출혈량, 수술 후 췌장 누공 및 주요 합병증 발생률은 두 그룹 간 차이가 없었습니다. 로봇 수술 그룹에서 수술 후 입원 기간이 통계적으로 짧았으나 전체적인 차이를 단정하기에는 증거가 부족합니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43007558/) · [DOI](https://doi.org/10.1007/s11701-026-04143-5) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43007558)</small>
+- 총 5개 연구의 환자 272명(복강경 144명, 로봇 128명)을 대상으로 수술 결과를 비교 분석했습니다.
+- 수술 시간, 수술 중 출혈량, 췌장 누공, 수술 후 출혈 및 주요 합병증 비율은 두 수술법 간에 통계적으로 유의한 차이가 없었습니다.
+- 수술 후 입원 기간은 로봇 수술 그룹이 유의하게 짧았으나(평균 차이 1.22일, p=0.01), 확정적인 회복상의 이점으로 결론짓기는 어렵습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43007558/) · [DOI](https://doi.org/10.1007/s11701-026-04143-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43007558)</small>
 
 ---
-<a id="pmid-43006245"></a>
-#### [Implementation of a rapid onsite molecular adequacy protocol for endoscopic ultrasound-guided sampling of pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/43006245/)
-`논문` `가이드라인` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-12-01 · PubMed · Cancer Cytopathol · 중요도 0.95
+<a id="pmid-43013192"></a>
+#### [Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/43013192/)
+`논문` `메타분석` `수술` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-11 · PubMed · J Gastrointest Cancer · 중요도 0.93
 
-INTRODUCTION: Current clinical practice guidelines recommend molecular profiling for patients with pancreatic ductal adenocarcinoma (PDAC). However, endoscopic ultrasound-guided small specimens are often insufficient for next-generation sequencing (NGS).
+BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify postoperative MRD, although the evidence is limited and heterogeneous.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43006245/) · [DOI](https://doi.org/10.1002/cncy.70165) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43006245)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
 
 ---
 <a id="pmid-43002828"></a>
-#### [daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma](https://pubmed.ncbi.nlm.nih.gov/43002828/)
-`논문` `3상` `치료 전반` `신약·치료제` `임상시험` · 2026-11-09 · PubMed · ESMO Open · 중요도 0.91
+#### [전이성 췌장암 1차 치료에서 표적 항체 NIS793과 표준 항암요법 병용의 효과를 평가한 3상 임상시험(daNIS-2)](https://pubmed.ncbi.nlm.nih.gov/43002828/)
+<small>daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma</small>
 
-BACKGROUND: This phase III, randomized, double-blind study (daNIS-2) evaluated the efficacy and safety of NIS793, an anti-transforming growth factor-beta (TGF-β) monoclonal antibody, in combination with gemcitabine and nab-paclitaxel [standard of care (SOC)] versus placebo and SOC as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma (mPDAC). PATIENTS AND METHODS: The study included a safety run-in (n = 21 patients enrolled) followed by a randomized part (n = 490 p…
+`논문` `3상` `신약·치료제` `임상시험` `치료 전반` · 2026-11-09 · PubMed · ESMO Open · 중요도 0.91
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
+전이성 췌관선암(mPDAC) 환자를 대상으로 변형성장인자-베타(TGF-β) 표적 항체인 NIS793과 표준 항암치료(gemcitabine 및 nab-paclitaxel) 병용요법의 효과를 평가한 3상 임상시험 결과입니다. 이전 치료 경험이 없는 환자 490명을 무작위로 나누어 NIS793 투여군과 위약 투여군을 비교했습니다. 분석 결과, NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로 위약군의 11.2개월보다 오히려 짧았습니다. 치료의 이득보다 위험이 크다고 판단되어 임상시험은 조기에 중단되었습니다.
+
+- NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로, 위약군의 11.2개월에 비해 생존 결과가 불리했습니다(위험비 1.26).
+- 무진행 생존기간(PFS) 및 객관적 반응률(ORR) 평가에서도 NIS793 투여군이 임상적 이득을 보여주지 못했습니다.
+- NIS793 투여군에서 빈혈, 코피, 발진 및 3등급 이상의 중증 부작용 발생 비율이 더 높게 관찰되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
 
 ---
