@@ -24,7 +24,7 @@ search:
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 | [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](../trials/NCT06069297.md) | 해당 없음 | 진행 중(모집 종료) | - |
 
-## 타임라인 (13)
+## 타임라인 (14)
 
 <a id="pmid-43004101"></a>
 #### [80세 이상의 고령 환자에서 시행한 원위부 췌장 절제술과 로봇 수술의 역할](https://pubmed.ncbi.nlm.nih.gov/43004101/)
@@ -192,6 +192,15 @@ search:
 - 출혈량, 비장 보존율, 개복 전환율, 수술 후 췌장 누공(POPF) 및 전반적인 합병증 발생률은 두 군 간에 유의미한 차이 없이 비슷했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42886037/) · [DOI](https://doi.org/10.1002/rcs.70245) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42886037)</small>
+
+---
+<a id="pmid-43015764"></a>
+#### [Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+`논문` `메타분석` `수술` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-08-17 · PubMed · BMC Surg · 중요도 0.85
+
+BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
 
 ---
 <a id="pmid-42886975"></a>

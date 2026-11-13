@@ -20,12 +20,11 @@
  "id": "nct:NCT07608458",
  "importance": 0.71,
  "key_points_ko": [
-  "목표 연구 대상자는 70명입니다.",
-  "1군 환자는 수술 전 3주 동안 하루 1회, 수술 후 1개월 동안 하루 2회 Headspace 앱을 통해 명상을 수행하고 활동 측정기를 착용합니다.",
-  "2군 환자는 퇴원 시점에 Headspace 앱 접근 권한을 받고 활동 측정기를 착용합니다.",
-  "주요 평가 항목은 명상 중재의 타당성과 수술 후 1개월 시점의 불안(STAI) 점수 변화입니다."
+  "목표 참여 인원은 70명입니다.",
+  "연구는 Headspace 앱을 통한 명상 중재와 활동량 측정을 포함하는 2개의 군으로 나누어 진행됩니다.",
+  "주요 평가지표는 등록률, 유지율, 순응도로 측정한 명상 중재의 타당성과 State-Trait Anxiety Inventory(STAI) 점수 변화로 측정한 불안 완화 효과입니다."
  ],
- "last_updated": "2026-11-12",
+ "last_updated": "2026-11-13",
  "links": {
   "doi": null,
   "nct": [
@@ -48,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07608458"
  },
- "summary_ko": "이 임상시험은 췌장절제술을 받는 환자를 대상으로 스마트폰 앱 기반의 명상 중재가 통증, 불안, 불면, 스트레스 및 신체활동 등 수술 후 결과에 미치는 영향과 타당성을 평가합니다. 70명의 환자를 대상으로 하며, 수술 전후에 Headspace 애플리케이션을 이용한 명상 프로그램을 시행합니다. 연구의 주요 목적은 등록률, 유지율, 순응도를 통한 타당성 평가와 수술 후 1개월 시점의 불안(STAI) 점수 변화를 평가하는 것입니다. 또한 통증과 수면 질 등 건강 관련 삶의 질 변화에 미치는 영향도 관찰합니다.",
+ "summary_ko": "이 임상시험은 췌장절제술을 받는 환자들을 대상으로 수술 전후 정기적인 명상 중재가 통증, 불안, 불면증, 스트레스 및 신체 활동성에 미치는 타당성과 효과를 평가합니다. 70명의 환자를 대상으로 Headspace 스마트폰 애플리케이션을 이용한 명상 프로그램의 수용성과 불안, 삶의 질 변화에 미치는 영향을 무작위 배정 방식으로 조사합니다. 연구에 참여하는 환자들은 Garmin 활동 측정기를 착용하고 명상 프로그램을 수행하게 됩니다. 본 시험은 초록에 명시되지 않은 생존기간이나 반응률 등의 효능 수치는 아직 보고되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Scheduled Meditation for Improving Postoperative Outcomes in Patients Undergoing Pancreatectomy",
@@ -60,7 +59,7 @@
    "Biliary Tract Neoplasms"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 서면 동의서 작성 가능\n- 개인 스마트폰에 필수 앱 설치 가능\n- 연구 기간 동안 Garmin 웨어러블 기기 착용 가능\n- 연령 만 18세 이상\n- 설문지를 읽고 이해할 수 있는 영어 능력 보유\n- 스마트폰 소유 및 일상적 사용에 능숙함\n- 췌장절제술(pancreatectomy) 예정자\n\n제외 기준:\n- 명상이나 마음챙김에 대한 이전 공식 교육 이력(구조화된 과정, 워크숍, 수료증 프로그램 등)이 있는 자\n- 모바일 앱(Headspace, Calm 등)의 정기적 사용을 포함하여 현재 구조화된 명상이나 마음챙김을 실천하고 있는 자",
+  "eligibility_ko": "선정 기준:\n- 참가자 또는 법적 대리인의 문서화된 동의서 작성\n- 개인 스마트폰에 필수 앱 설치 의향 있음\n- 연구 기간 동안 Garmin 웨어러블 기기 착용 의향 있음\n- 연령: 18세 이상\n- 설문지를 위해 영어를 읽고 이해할 수 있는 능력\n- 스마트폰 소유\n- 일상적인 스마트폰 사용에 익숙함\n- 췌장절제술(pancreatectomy) 수술 예정인 자\n\n제외 기준:\n- 명상이나 마음챙김(mindfulness)에 대한 이전의 공식적인 교육 경험이 있는 자(예: 구조화된 과정, 워크숍, 인증 프로그램 수료)\n- 모바일 애플리케이션(예: Headspace, Calm 또는사 유사 플랫폼)의 정기적 사용을 포함하여 현재 구조화된 명상 또는 마음챙김을 실천하고 있는 자",
   "eligibility_text": "Inclusion Criteria:\n\n* Documented informed consent of the participant and/or legally authorized representative\n* Willing to install required apps on personal smartphone\n* Willing to wear a Garmin wearable device throughout the study\n* Age: ≥ 18 years\n* Ability to read and understand English for questionnaires\n* Owns a smartphone\n* Comfortable with routine smartphone use\n* Scheduled to undergo pancreatectomy\n\nExclusion Criteria:\n\n* Participants with prior formal training in meditation or mindfulness (e.g., completion of structured courses, workshops, or certification programs)\n* Participants who currently engage in a structured meditation or mindfulness practice, including regular use of mobile applications (e.g., Headspace, Calm, or similar platforms) or other formalized routines",
   "enrollment": 70,
   "has_results": false,
@@ -80,13 +79,13 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "명상이나 마음챙김에 대한 이전 공식 교육 이력이 있는 경우",
-    "현재 모바일 앱 등을 통해 구조화된 명상이나 마음챙김을 실천하고 있는 경우"
+    "이전 명상 또는 마음챙김 공식 교육 경험",
+    "현재 구조화된 명상이나 관련 모바일 앱을 정기적으로 사용 중인 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "췌장절제술을 앞두고 있으며 명상 경험이 없는 18세 이상 환자",
+   "notes_ko": "췌장절제술을 앞두고 있으며 명상 교육 경험이 없는 18세 이상 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

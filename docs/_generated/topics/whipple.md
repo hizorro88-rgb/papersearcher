@@ -17,7 +17,7 @@ search:
 - 종류: 시술·수술
 - 별칭: Whipple, pancreaticoduodenectomy, pancreatoduodenectomy, 췌두십이지장절제술, 휘플
 
-## 관련 임상시험 (9)
+## 관련 임상시험 (10)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
@@ -25,13 +25,14 @@ search:
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
+| [복강경 췌두십이지장절제술의 안전성 및 타당성 평가를 위한 전향적 연구](../trials/NCT07009119.md) | 해당 없음 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
 | [Glubran2 조직 접착제를 이용한 췌장공장문합술 보강의 효과 평가 임상시험](../trials/NCT06756074.md) | 2상 | 모집 중 | - |
 | [췌십이지장절제술 후 통증 조절을 위한 리포소말 부피바카인을 이용한 복직근초 차단술과 흉부 경막외 진통법의 비교](../trials/NCT06411795.md) | 2상 | 모집 중 | - |
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (30)
+## 타임라인 (31)
 
 <a id="pmid-43004858"></a>
 #### [로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교](https://pubmed.ncbi.nlm.nih.gov/43004858/)
@@ -457,6 +458,15 @@ search:
 - 본 연구에는 췌장관선암 환자 673명을 포함해 총 1,218명의 절제술 환자가 분석되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905970/) · [DOI](https://doi.org/10.1093/bjsopen/zrag157) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13686085/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905970)</small>
+
+---
+<a id="pmid-43015764"></a>
+#### [Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+`논문` `메타분석` `수술` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-08-17 · PubMed · BMC Surg · 중요도 0.85
+
+BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
 
 ---
 <a id="pmid-42866830"></a>

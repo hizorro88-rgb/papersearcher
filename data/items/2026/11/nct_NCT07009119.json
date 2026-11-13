@@ -1,0 +1,122 @@
+{
+ "abstract": "Laparoscopic pancreaticoduodenectomy was first performed by Garner and Pomp in 1994. This is a technically difficult, time consuming and high rate of complication procedure. The reason is that duodenum and head of pancreas locate deeply in retroperitoneum and are surrounded by important structures such as inferior vena cava, abdominal aorta, superior mesenteric artery, superior mesenteric vein (SMV), portal vein (PV) and hepatic arteries. Injuring these structures during the surgery can lead to life-threatening complications. Moreover, doing anastomoses through laparoscopy, especially pancreatic anastomosis, is more difficult and takes more time than through open approach. The outcome of PD has improved over the last two decades due to advances in surgical techniques, anesthesia and perioperative care. Although studies from high volume centers demonstrate reduce in the operative mortality to less than 3%, the postoperative morbidity rate is still ranging from 30% to 60%. Laparoscopic surgery is being used increasingly as a less invasive alternative to traditional interventions for pancreatic resection. Laparoscopic pancreaticoduodenectomy (LPD) is a difficult procedure that has become increasingly popular. Nevertheless, comparative data on outcomes remain limited. In this prospective study, investigators evaluate the safety and feasibility of surgical and oncological outcomes of minimally invasive PD.\n\nOpen pancreaticoduodenectomy (PD) was the standard treatment for a wide array of periampullary and pancreatic diseases including malignant and benign conditions. The outcome of PD has improved over the last two decades due to advances in surgical techniques, anesthesia and perioperative care . Although studies from high volume centers demonstrate reduce in the operative mortality to less than 3%, the postoperative morbidity rate is still ranging from 30% to 60%. Laparoscopic surgery is being used increasingly as a less invasive alternative to traditional interventions for pancreatic resection. Laparoscopic pancreaticoduodenectomy (LPD) is a difficult procedure that has become increasingly popular. Nevertheless, comparative data on outcomes remain limited despite several improvements in surgical devices and techniques that have allowed surgeons to approach the pancreas laparoscopically, laparoscopic PD remains challenging. LPD represents one of the most advanced abdominal operations owing to the necessity of a complex dissection and reconstruction. Recent reports note that complete laparoscopic PD including laparoscopic resection and reconstruction is both technically feasible and safe. In this prospective study, investigators evaluate the safety and feasibility of surgical and oncological outcomes of minimally invasive PD.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "surgery",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07009119",
+ "importance": 0.74,
+ "key_points_ko": [
+  "수술이 가능한 췌장 두부암 및 팽대부 주변 종양 환자 30명을 대상으로 복강경 췌두십이지장절제술(LPD)을 시행합니다.",
+  "복강경을 이용한 췌장 절제 및 췌장-장 연결 등 재건술의 기술적 가능성과 안전성을 관찰합니다.",
+  "수술 후 합병증 발생률 및 종양학적 생존 성과를 주요 지표로 평가합니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07009119"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2025-06-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Minia University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07009119"
+ },
+ "summary_ko": "본 전향적 임상 연구는 수술이 가능한 췌장 두부암 및 팽대부 주변 암 환자 30명을 대상으로 복강경 췌두십이지장절제술(LPD)의 안전성과 기술적 타당성을 평가합니다. 췌두십이지장절제술(PD)은 주요 혈관이 밀집한 복막 뒤쪽에서 시행되어 합병증 발생률이 30%에서 60%로 높게 보고되는 고난도 수술입니다. 최근 최소 침습 수술법인 복강경 접근법의 사용이 증가하고 있으나 치료 성적에 대한 비교 데이터는 여전히 부족한 실정입니다. 연구진은 복강경 수술을 통한 절제 및 재건술의 수술적 성과와 종양학적 결과를 종합적으로 평가하고자 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Laparoscopic Pancreaticoduodenectomy",
+ "title_ko": "복강경 췌두십이지장절제술의 안전성 및 타당성 평가를 위한 전향적 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Pancreatic Fistula",
+   "Periampullary Cancer"
+  ],
+  "contacts": [
+   {
+    "email": "salehkhairy@mu.edu.eg",
+    "name": "Saleh K Saleh, MD",
+    "phone": "01201765401"
+   },
+   {
+    "email": "Rabeh.Saleh@mu.edu.eg",
+    "name": "Rabeh K Saleh, MD",
+    "phone": "01220065443"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n* 임상 지침에 따른 근치적 치료 목적에 부합하는 환자 (원격 전이 없음, 상장여막반응 및 간문맥의 방사선학적 비침범, 주요 아포 동맥 주위 지방층 보존)\n* 복강경 췌두십이지장절제술이 가능한 수술성 췌장 두부암, 담관암, 십이지장암, 바터팽대부 암 환자\n* 만 18세 이상 75세 이하의 남녀\n\n제외 기준:\n* 심각한 내과적 질환으로 수술을 견디기 힘든 환자\n* 간, 복막, 원위부 림프절 전이 등이 있는 수술 불가능 환자\n* 진단적 복강경 검사에서 절제 불가능으로 판정된 환자\n* 좌측, 중앙, 전췌장 절제술 또는 기타 고식적 수술이 필요한 환자\n* 다른 악성 종양의 병력이 있거나 간경변증을 동반한 환자\n* 영상 평가상 주요 혈관 침범으로 혈관 절제 및 재건이 필요한 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients meeting the curative treatment intent in accordance with clinical guidelines:\n\n  * No evidence of metastasis.\n  * Radiological non-involvement of superior mesenteric vein \\& portal vein.\n  * Preserved fat planes between celiac axis, hepatic artery \\& superior mesenteric artery.\n* Patients presenting with resectable pancreatic head cancer, cholangiocarcinoma, duodenal cancer and ampullary tumours who are fit for laparoscopic pancreaticoduodenectomy.\n\nExclusion Criteria:\n\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients with distant metastases, including peritoneal, liver, distant lymph node metastases, and involvement of other organs.\n* Irresectable tumors in diagnostic laparoscopy.\n* Patients requiring left, central or total pancreatectomy or other palliative surgery.\n* History of other malignant disease.\n* Pregnant or breast-feeding women.\n* Patients with serious mental disorders.\n* Patients with vascular invasion and requiring vascular resection as evaluated by the multidisciplinary team team according to abdominal imaging data.\n* Pancreatoduodenectomy for other diagnosis like cystic lesions, benign tumors or chronic calcific pancreatitis\n* Patients with cirrhotic liver.\n* Patients refused to participate in the study.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "laparoscopic Pancreaticoduodenectomy"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "Egypt"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "간·복막·원위부 림프절 등 원격 전이가 있는 환자",
+    "주요 혈관 침범으로 혈관 절제가 필요한 환자",
+    "심각한 내과 질환으로 수술이 불가능한 환자",
+    "다른 악성 종양 병력이 있는 환자",
+    "간경변증 환자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "수술이 가능한 췌장 두부암 및 팽대부 주변 암 환자 대상의 복강경 절제술 연구",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable"
+   ],
+   "source": "llm"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07009119",
+  "phase": "NA",
+  "primary_completion_date": "2027-02-01",
+  "sex": "ALL",
+  "sponsor": "Minia University",
+  "start_date": "2025-06-01",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

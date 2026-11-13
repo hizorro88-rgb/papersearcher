@@ -1,0 +1,53 @@
+{
+ "abstract": "[This retracts the article DOI: 10.2147/OTT.S234530.].",
+ "authors": [],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43017235",
+ "importance": 0.6,
+ "key_points_ko": [
+  "해당 논문(DOI: 10.2147/OTT.S234530)이 철회되었습니다.",
+  "초록에 추가적인 수치나 연구 결과는 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.2147/OTT.S669594",
+  "nct": [],
+  "pmcid": "PMC13752397",
+  "pmid": "43017235"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Retraction Notice"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Onco Targets Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017235/"
+ },
+ "summary_ko": "본 논문은 췌장암 세포에서 HMGB1 억제가 저산소 유도 미토콘드리아 생합성을 억제한다는 내용의 연구에 대한 철회 공고입니다. 초록에 명시되지 않은 임상 결과나 추가적인 수치는 없습니다. 본 논문은 공식적으로 철회되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Knockdown of HMGB1 Suppresses Hypoxia-Induced Mitochondrial Biogenesis in Pancreatic Cancer Cells [Retraction]",
+ "title_ko": "췌장암 세포에서 저산소 유도 미토콘드리아 생합성을 억제하는 HMGB1 억제 [철회]",
+ "trial": null,
+ "type": "paper"
+}

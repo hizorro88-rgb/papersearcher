@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "treatment",
-  "industry"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "gem-nabp",
@@ -23,11 +23,11 @@
  "id": "nct:NCT03492671",
  "importance": 0.9,
  "key_points_ko": [
-  "주요 목표는 수술 후 완전 절제(R0 절제) 비율 70% 이상을 달성하는 것입니다.",
-  "수술 전에 젬시타빈과 납-팍리탁셀 병용요법을 최대 4주기 투여하고 방사선 치료를 병행합니다.",
-  "수술 후 5~10주 이내에 젬시타빈과 납-팍리탁셀 병용요법을 최대 2주기 추가 진행합니다."
+  "주요 평가지표(Primary Endpoint)는 R0 절제율 70% 이상 달성입니다.",
+  "이차 평가지표(Secondary Endpoints)에는 무병 생존기간(Disease free survival), 전체 생존기간(Overall survival), 주위 조직 수술 관련 사망률 및 이병률이 포함됩니다.",
+  "중재 치료로 젬시타빈(Gemcitabine 1000 mg-m2), nab-paclitaxel, 정위체부방사선치료(Stereotactic Body Radiation Therapy)를 사용합니다."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-13",
  "links": {
   "doi": null,
   "nct": [
@@ -50,13 +50,13 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT03492671"
  },
- "summary_ko": "수술이 가능한 췌장암 환자를 대상으로 수술 전 젬시타빈(gemcitabine)과 납-팍리탁셀(nab-paclitaxel) 항암치료 및 체부 정밀 방사선 치료(SBRT)를 시행하는 2상 임상시험입니다. 수술 전에 항암 및 방사선 치료를 실시하여 수술 시 완전 절제(R0 절제) 비율을 높일 수 있는지 평가합니다. 수술을 마친 후에는 추가적으로 최대 2주기의 보조 항암치료를 진행합니다.",
+ "summary_ko": "이 임상시험은 수술이 가능한 국소 췌장암(pancreatic cancer) 환자를 대상으로 수술 전 젬시타빈(gemcitabine)과  nab-paclitaxel 항암제에 방사선 치료를 병용했을 때의 효과를 평가합니다. 주요 목적은 외과의가 완전 절제인 R0 절제율 70% 이상을 달성할 수 있는지 확인하는 것입니다. 환자들은 수술 전 최대 4주기의 항암화학요법과 방사선 치료를 받고 수술을 진행합니다. 수술 후에는 추가로 최대 2주기의 항암화학요법을 받게 됩니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer"
  ],
  "title": "Testing the Combination of Two Approved Chemotherapy Drugs and Radiation Prior to Surgery in Localized Pancreatic Cancer",
- "title_ko": "수술 가능한 췌장암 환자에서 수술 전 젬시타빈·납-팍리탁셀 및 방사선 치료의 효과를 평가하는 2상 임상시험",
+ "title_ko": "수술 전 젬시타빈,  nab-paclitaxel 및 방사선 치료를 병용하는 수술 가능 췌장암 2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreas Adenocarcinoma",
@@ -74,7 +74,7 @@
     "phone": "909-558-4050"
    }
   ],
-  "eligibility_ko": "선정 기준: • 세포학적 또는 조직학적으로 확인된 췌장 선암 • 국소적이며 수술 가능한 병변 • 만 18세 이상 • ECOG 수행능력 평가 점수 0 또는 1점 • 이전에 췌장암 치료를 받은 적이 없는 환자 • 치료 시작 시 정맥 항생제 치료가 필요한 활동성 감염이 없는 환자 제외 기준: • 경계성 수술 가능 또는 전이성 췌장암 환자 • 최근 5년 이내 다른 악성 종양 병력이 있는 환자(자궁경부 상피내암, 기저세포암 등 완치된 경우 제외) • 전신 치료가 필요한 활동성 세균, 바이러스 또는 진균 감염 환자",
+  "eligibility_ko": "선정 기준:\n- 췌장 선암(adenocarcinoma of the pancreas)의 세포학적 또는 조직학적 증거가 있는 환자\n- 국소적이고 잠재적으로 수술 가능한(resectable) 종양\n- 만 18세 이상\n- ECOG 수행능력 상태 0 또는 1\n- 적절한 조혈, 신장 및 간 기능 보유\n- 췌장암에 대한 이전 치료력이 없는 환자\n\n제외 기준:\n- 경계성 절제 가능(borderline resectable) 또는 전이성 질환이 있는 환자\n- 제자리암, 기저세포암, 편평세포피부암 등을 제외하고 최근 5년 이내에 악성 종양 병력이 있는 환자\n- 전신 치료가 필요한 활동성 감염이 있는 환자",
   "eligibility_text": "Inclusion Criteria (all criteria must apply):\n\n* Cytologic or histologic proof of adenocarcinoma of the pancreas.\n* Localized, potentially resectable tumors.\n* Greater or equal to 18 years of age.\n* ECOG performance status of 0 or 1.\n* Adequate hematologic, renal and hepatic function as defined by:\n* ANC greater or equal to 1,500 cells/mm3\n* Platelets greater or equal to 100,000 cells/mm3\n* Serum bilirubin ≤ 1.5 x upper limit of normal (ULN)\n* Serum creatinine ≤ 2 x ULN • ALT ≤ 5 x ULN\n* AST ≤ 5 x ULN\n* No history of prior therapy for pancreatic cancer.\n* No history of active infection requiring IV antibiotics at the start of study treatment\n* Non-pregnant and non-breast-feeding.\n\nExclusion Criteria:\n\n* Patient has borderline resectable or metastatic disease.\n* History of malignancy in the last 5 years other than in situ cancer or basal or squamous cell skin cancer or malignancies cured by surgery alone or surgery plus radiotherapy and have been continuously disease-free for at least 5 years.\n* Patient has active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy.",
   "enrollment": 30,
   "has_results": false,
@@ -93,29 +93,18 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "경계성 수술 가능 또는 전이성 췌장암",
+    "경계성 절제 가능 또는 전이성 췌장암",
     "최근 5년 이내 다른 암 병력",
-    "전신 치료가 필요한 활동성 감염"
+    "활동성 감염"
    ],
    "max_prior_lines": 0,
-   "measurable_required": true,
+   "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료 경험이 없는 수술 가능한 췌장암 환자",
-   "prior_excluded": [
-    "gemcitabine",
-    "FOLFIRINOX",
-    "platinum",
-    "fluoropyrimidine",
-    "irinotecan",
-    "taxane",
-    "immunotherapy",
-    "KRAS_inhibitor",
-    "radiotherapy"
-   ],
+   "notes_ko": "수술이 가능한 국소 췌장암 환자를 위한 수술 전 항암방사선 치료 임상시험입니다.",
+   "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "resectable",
-    "neoadjuvant"
+    "resectable"
    ],
    "source": "llm"
   },

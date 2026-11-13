@@ -20,11 +20,11 @@
  "id": "nct:NCT04484909",
  "importance": 0.81,
  "key_points_ko": [
-  "국소 진행성 또는 경계성 수술 가능 췌장암 환자 24명을 대상으로 NBTXR3의 2상 권장 용량(RP2D) 및 안전성을 평가합니다.",
-  "종양 내 NBTXR3 주입 후 15회의 세기조절 방사선 치료(IMRT)를 시행하여 국소 제어 효과와 수술 전환율을 조사합니다.",
-  "참여 전 약 4개월 동안의 선행 전신 항암 화학요법을 원격 전이 진행 없이 완료한 환자를 대상으로 합니다."
+  "국소 진행성 또는 경계성 절제 가능 췌장암 환자를 대상으로 NBTXR3의 2상 권장 용량을 결정하기 위한 임상 1상 시험입니다.",
+  "환자들은 1일에 종양 내로 NBTXR3을 주사받고 15~43일 사이에 15회의 세기조절 방사선 치료를 받습니다.",
+  "목표 환자 수는 24명이며 M.D. 앤더슨 암센터(M.D. Anderson Cancer Center)에서 진행합니다."
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-13",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04484909"
  },
- "summary_ko": "국소 진행성 또는 경계성 수술 가능 췌장암 환자를 대상으로 방사선 치료와 함께 투여하는 하프늄 옥사이드 나노입자 NBTXR3의 2상 권장 용량 및 안전성을 평가하는 1상 임상시험입니다. 환자는 종양 내에 NBTXR3를 직접 주입받은 후 15회의 세기조절 방사선 치료(IMRT)를 받게 됩니다. 연구를 통해 치료의 안전성, 종양 반응률, 수술 전환율 및 생존 기간 등을 평가합니다.",
+ "summary_ko": "이 연구는 국소 진행성 또는 경계성 절제 가능 췌장암(pancreatic cancer) 환자를 대상으로 방사선 치료(radiation therapy)와 병용하는 하프늄 산화물 함유 나노입자(Hafnium Oxide-containing Nanoparticles)인 NBTXR3의 권장 용량을 찾기 위한 임상 1상 시험입니다. 연구의 주요 목적은 방사선 치료로 활성화되는 NBTXR3의 2상 권장 용량(RP2D)을 결정하고 안전성과 타당성을 평가하는 것입니다. 환자들은 종양 내(intratumoral)로 NBTXR3을 주사받은 후 세기조절 방사선 치료(IMRT)를 받게 됩니다. 초록에 따르면 목표 인원은 24명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "NBTXR3 Activated by Radiation Therapy for the Treatment of Locally Advanced or Borderline-Resectable Pancreatic Cancer",
- "title_ko": "국소 진행성 또는 경계성 수술 가능 췌장암 환자를 대상으로 한 방사선 치료 활성화 NBTXR3 1상 임상시험",
+ "title_ko": "국소 진행성 또는 경계성 절제 가능 췌장암 치료를 위한 방사선 치료 활성화 나노입자 NBTXR3 임상 1상",
  "trial": {
   "conditions": [
    "Borderline Resectable Pancreatic Adenocarcinoma",
@@ -60,7 +60,7 @@
    "Stage III Pancreatic Cancer AJCC v8"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: • 만 18세 이상이며 조직검사로 확인된 경계성 수술 가능(BRPC) 또는 국소 진행성(LAPC) 췌장 암종 환자 • 원격 전이 없이 약 4개월(±2개월) 동안 지정된 항암화학요법(gemcitabine/nab-paclitaxel, FOLFIRINOX 등)을 진행한 환자 • 내시경 초음파(EUS) 주선 하 NBTXR3 종양 내 주사가 가능한 환자 • 영상 검사상 측정 가능한 췌장 내 표적 병변이 있는 환자 • ECOG 수행능력 평가 점수 0~1점 제외 기준: • 상복부 방사선 치료 또는 췌장 종양의 수술적 절제 병력이 있는 환자 • 췌관선암 이외의 다른 조직학적 유형(예: 편평세포암, 낭선암 등) • 원격 전이가 확인된 환자 • 최근 30일 이내 조절되지 않는 위 또는 십이지장 궤양 환자 • 임상적으로 유의한 심장 부정맥 또는 뉴욕심장학회(NYHA) 3~4등급의 심부전 환자",
+  "eligibility_ko": "선정 기준: \n- 18세 이상 성인.\n- 조직학적으로 확진된 췌장 췌관선암(pancreatic ductal adenocarcinoma).\n- 영상학적 원격 전이가 없는 경계성 절제 가능(BRPC) 또는 국소 진행성(LAPC) 췌장암.\n- 원격 전이 증거 없이 4개월(±2개월) 동안 항암 치료를 완료한 환자 (gemcitabine, nab-paclitaxel, capecitabine, cisplatin, FOLFOX, FOLFIRINOX 등 허용).\n- 내시경 초음파 유도하 NBTXR3 주사가 가능한 환자.\n- 동국소 영상 검사에서 확인 가능한 췌장 내 표적 병변 보유.\n- ECOG 수행능력 0~1.\n\n제외 기준: \n- 상복부 방사선 치료 병력.\n- 췌장 종양의 이전 수술적 절제 병력.\n- 췌관선암 외의 다른 조직학적 진단.\n- 스크리닝 시 원격 전이가 있는 경우.\n- 프로토콜에 지정된 항암화학요법 외의 승인되거나 연구 중인 항종양 약물 투여력.\n- 활동성 악성종양 병력 (기저세포암 제외).\n- 임신 중이거나 모유 수유 중인 여성.",
   "eligibility_text": "Inclusion Criteria:\n\n1\\. Signed informed consent form (ICF) indicating that participant understands the purpose of, and procedures required for, the study and is willing to participate in the study 2. Age ≥ 18 years 3. Biopsy proven ductal adenocarcinoma of the pancreas,as defined by the following:\n\na. Borderline resectable pancreatic adenocarcinoma (BRPC) has no aortic involvement with at least ONE of the following features: i. Superior mesenteric vein (SMV) or Portal vein (PV) with a tumor interface of ≥ 180° OR short segment occlusion of SMV or PV amenable to reconstruction ii. Superior mesenteric artery (SMA) or celiac axis (CA) with a tumor interface of \\< 180° iii. Any degree of hepatic artery interface that is amenable to reconstruction b. Locally advanced pancreatic adenocarcinoma (LAPC) has at least ONE of the following features:\n\n1. Signed informed consent form (ICF) indicating that participant understands the purpose of, and procedures required for, the study and is willing to participate in the study\n2. Age ≥ 18 years\n3. Biopsy proven ductal adenocarcinoma of the pancreas,as defined by the following:\n\n   a. Borderline resectable pancreatic adenocarcinoma (BRPC) has no aortic involvement with at least ONE of the following features: i. Superior mesenteric vein (SMV) or Portal vein (PV) with a tumor interface of ≥ 180° OR short segment occlusion of SMV or PV amenable to reconstruction ii. Superior mesenteric artery (SMA) or celiac axis (CA) with a tumor interface of \\< 180° iii. Any degree of hepatic artery interface that is amenable to reconstruction b. Locally advanced pancreatic adenocarcinoma (LAPC) has at least ONE of the following features: i. Occlusion of the SMV or PV that is not amenable to reconstruction ii. Tumor interface of the superior mesenteric artery or celiac axis ≥ 180° iii. Involvement of the hepatic artery that is not amenable to reconstruction iv. Involvement of the aorta\n4. Has had a 4-month course (± 2-months) of chemotherapy for PDAC without radiographic evidence of distant metastatic disease. Following chemotherapy regimens are allowed:\n\n   1. gemcitabine/nab-paclitaxel\n   2. gemcitabine/capecitabine\n   3. gemcitabine/cisplatin\n   4. gemcitabine\n   5. FOLFOX\n   6. FOLFIRINOX\n5. Amenable to undergo the endoscopic ultrasound guided injection of NBTXR3 as per investigator or treating physician.\n6. Has a target lesion in the pancreas that is identifiable on cross sectional imaging by repeated measurements (via RECIST 1.1) at the same anatomical location\n\n   a. Nodal disease only is not allowed.\n7. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1\n8. Laboratory Values at screening:\n\n   1. Hemoglobin ≥ 8.0 g/dL\n   2. Absolute Neutrophil Count (ANC) ≥ 1,500/mm3\n   3. Platelet Count ≥ 100,000/mm3\n   4. Creatinine ≤ 1.5 x upper limit of normal (ULN)\n   5. Total Bilirubin ≤ 2.0 mg/dL\n   6. AST / ALT ≤ 3.0 x upper limit of normal (ULN)\n   7. Serum albumin ≥ 3.0 g/dL\n9. Negative pregnancy test ≤ 7 days prior to NBTXR3 injection in all females of child-bearing potential\n10. If participant has a history of prior duodenal or biliar plastic stent, it should be replaced with a metal stent ≥ 1 week prior to Study Day 1.\n\nExclusion Criteria:\n\n1. Prior radiation therapy to the upper abdomen\n2. Prior surgical resection of pancreatic tumor\n3. Diagnosis other than pancreatic ductal adenocarcinoma. All other histologic types (i.e., adenosquamous, cystadenocarcinoma, etc.) are not eligible to participate on this study.\n4. LAPC or BRPC with radiographic evidence of distant metastasis at screening.\n5. Has received any approved or investigational anti-neoplastic agent other than the chemotherapies specified in this protocol (i.e. chemotherapies included in Inclusion #4)\n6. Known uncontrolled (Grade ≥ 2) or active gastric or duodenal ulcer disease within 30 days of enrollment\n7. Known contraindication to iodine-based or gadolinium-based IV contrast\n8. Active malignancy, in addition to pancreatic cancer, with the exception of basal cell carcinoma of the skin definitively treated and relapse free within at least 1 year from diagnosis\n9. Clinically significant cardiac arrhythmias (e.g., ventricular tachycardia, ventricular fibrillation, torsades de pointes, second or third degree atrioventricular heart block without a permanent pacemaker in place)\n10. Class III or IV Congestive Heart Failure as defined by the New York Heart Association functional classification system \\<6 months prior to screening\n11. Known active, uncontrolled (high viral load) HIV or hepatitis B or hepatitis C infection\n\n    a. Patients who have been vaccinated for hepatitis B and do not have a history of infection are eligible.\n12. Female patients who are pregnant or breastfeeding\n13. Women of child-bearing potential and their male partners who are unwilling or unable to use an acceptable method of birth control for the entire study period. Acceptable methods of contraception are those that, alone or in combination, result in a failure rate of \\< 1% per year when used consistently and correctly\n14. Any condition for which, in the opinion of the investigator, participation would not be in the best interest of the participant (e.g., compromise the well-being) or that could prevent, limit, or confound the protocol-specified assessments",
   "enrollment": 24,
   "has_results": false,
@@ -79,15 +79,14 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "상복부 방사선 치료 병력",
-    "췌장 암종의 수술적 절제 병력",
-    "원격 전이 소견",
-    "조절되지 않는 위/십이지장 궤양",
-    "임상적으로 유의한 심장 질환 및 심부전"
+    "이전 췌장 종양 수술력",
+    "원격 전이 존재",
+    "다른 활동성 암 병력"
    ],
-   "max_prior_lines": null,
+   "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "약 4개월간의 선행 항암화학요법을 진행한 국소 진행성 또는 경계성 수술 가능 췌장암 환자",
+   "notes_ko": "이전 1차 항암 치료를 마친 경계성 절제 가능 또는 국소 진행성 췌장암 환자",
    "prior_excluded": [
     "radiotherapy"
    ],

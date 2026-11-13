@@ -11,6 +11,8 @@
   "Patel SH"
  ],
  "categories": [
+  "basic",
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -25,7 +27,12 @@
  ],
  "id": "pmid:43009403",
  "importance": 0.67,
- "key_points_ko": [],
+ "key_points_ko": [
+  "기관 코호트 분석 결과 30%의 환자가 산성 스핑고미엘리나제 고발현, 74%가 중성 스핑고미엘리나제 1 고발현, 22%가 중성 스핑고미엘리나제 2 고발현을 보였습니다.",
+  "중성 스핑고미엘리나제 1 고발현 환자의 중앙 전체 생존기간은 23.0개월로 저발현군의 15.6개월보다 유의하게 높았습니다 (P = .0003).",
+  "스핑고신 키네아제 2 고발현군의 중앙 전체 생존기간은 도달하지 않음(not reached)으로 저발현군의 18.9개월보다 우수했습니다 (P = .002).",
+  "산성 스핑고미엘리나제 발현은 무재발 생존기간 개선(23.6개월 대 16.0개월, P = .033) 및 국소 재발 발생률 0%(대조군 28.6%)와 연관되었습니다."
+ ],
  "last_updated": "2026-11-12",
  "links": {
   "doi": "10.1016/j.surg.2026.110672",
@@ -47,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43009403/"
  },
- "summary_ko": "BACKGROUND: Sphingolipid metabolism regulates physiologic responses through the sphingomyelin-ceramide-sphingosine-1-phosphate axis. Acid sphingomyelinase has previously been associated with improved outcomes in pancreatic cancer (pancreatic ductal adenocarcinoma).",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장암(췌관선암, pancreatic ductal adenocarcinoma) 환자를 대상으로 스핑고지질(sphingolipid) 대사 경로의 주요 효소 발현이 생존율과 재발에 미치는 영향을 평가했습니다. 기관 코호트(23명)와 휴먼 프로틴 아틀라스(Human Protein Atlas) 코호트(171명)를 활용하여 주요 효소 발현 수준에 따른 전체 생존기간(OS)과 무재발 생존기간(RFS)을 분석했습니다. 분석 결과, 중성 스핑고미엘리나제 1(neutral sphingomyelinase 1)과 스핑고신 키네아제 2(sphingosine kinase 2)의 고발현은 전체 생존기간 개선과 연관을 보였습니다. 또한 산성 스핑고미엘리나제(acid sphingomyelinase) 발현은 무재발 생존기간 개선 및 국소 재발 방지와 연관이 있었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Prognostic utility of the sphingolipid metabolic pathway in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암에서 스핑고지질 대사 경로의 예후 예측 가치",
  "trial": null,
  "type": "paper"
 }

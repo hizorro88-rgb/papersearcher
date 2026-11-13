@@ -33,8 +33,23 @@ search:
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (11)
+## 타임라인 (12)
 
+<a id="doi-10.64898-2026.11.07.765071"></a>
+#### [췌장관선암에서 젬시타빈 및 RAS(ON) 억제제 다락소나십 내성 극복을 위한 다중기전 miR-15a 모방체 개발](https://europepmc.org/article/PPR/PPR1363717)
+<small>Developing a Multimodal miR-15a Mimic to Overcome Gemcitabine and RAS(ON) Inhibitor Daraxonrasib Resistance in Pancreatic Ductal Adenocarcinoma</small>
+
+`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-11-10 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+본 연구는 췌장관선암(PDAC)의 항암제 내성을 극복하기 위해 다중기전 마이크로RNA(miRNA) 치료제인 MTX-5-FU-Gem-miR-15a를 개발했습니다. 이 약물은 종양 억제성 miR-15a에 메토트렉세이트(MTX), 5-플루오로우라실(5-FU), 젬시타빈(gemcitabine)을 화학적으로 결합한 합성 물질입니다. 세포 실험, 환자 유래 오가노이드(organoid) 및 동물 모델에서 기존 내성을 극복하고 종양 억제 효과를 보였습니다. 또한 daraxonrasib(다락소나십)과의 병용 효과 및 면역 활성화 반응을 확인했습니다.
+
+- 췌장관선암 세포주 5종 및 환자 유래 오가노이드 3종에서 낮은 나노몰(nM) 농도로 강력한 종양 억제 활성을 나타냈습니다.
+- RAS(ON) 억제제인 daraxonrasib과 병용 투여 시 높은 상조 효과(평균 Bliss 시너지 점수 22.52)를 보였습니다.
+- 마우스 전이성 종양 모델에 4 mg/kg 용량으로 투여했을 때 전이성 종양의 성장을 유의하게 억제했습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1363717) · [DOI](https://doi.org/10.64898/2026.11.07.765071) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.07.765071)</small>
+
+---
 <a id="pmid-42988458"></a>
 #### [췌장암 치료약물농도감시를 위한 사람 혈장 내 4종 KRAS 억제제(RMC-6236, RMC-9805, RMC-7977, MRTX1133)의 동시 LC-MS/MS 정량분석법](https://pubmed.ncbi.nlm.nih.gov/42988458/)
 <small>Simultaneous LC-MS/MS quantification of four KRAS inhibitors (RMC-6236, RMC-9805, RMC-7977, and MRTX1133) in human plasma: toward therapeutic drug monitoring in pancreatic ductal adenocarcinoma</small>

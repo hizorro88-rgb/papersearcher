@@ -1,0 +1,139 @@
+{
+ "abstract": "This phase I trial studies the side effects and best dose of ropidoxuridine in treating patients with gastrointestinal cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment undergoing radiation therapy. Ropidoxuridine may help radiation therapy work better by making tumor cells more sensitive to the radiation therapy.\n\nPRIMARY OBJECTIVES:\n\nI. To conduct a phase I dose escalation trial, to determine the safety and the maximum tolerated dose (MTD), of oral (po) IPdR (ropidoxuridine) given daily for 28 consecutive days with concurrent intensity-modulated radiation therapy (IMRT) in patients with advanced gastrointestinal cancers treated with palliative radiation.\n\nSECONDARY OBJECTIVES:\n\nI. To observe and record anti-tumor activity. II. To establish the pharmacokinetics of daily po dosing of IPdR x 28 days. III. To assess, for patients treated at the MTD, for biochemical evidence of IPdR effect in normal tissue (circulating granulocytes) and tumor tissue (in patients with accessible tumor tissue) by measuring %iododeoxyuridine (IUdR)-deoxyribonucleic acid (DNA) cellular incorporation by flow cytometry and high-pressure liquid chromatography (HPLC) analyses.\n\nIV. To assess the use of %IUdR-DNA cellular incorporation (measured by the investigational laboratory assays of flow cytometry and HPLC) as an exploratory biomarker of IPdR for the following effects: the %IUdR-DNA tumor cell incorporation from day 8 tumor biopsies in gastrointestinal (GI) cancer patients receiving MTD doses of IPdR as an exploratory biomarker of tumor radiosensitization using Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n\nV. To assess the use of %IUdR-DNA cellular incorporation (measured by the investigational laboratory assays of flow cytometry and HPLC) as an exploratory biomarker of IPdR for the following effects: the %IUdR-DNA cellular incorporation in patients' circulating granulocytes taken weekly during the 28-day IPdR MTD dose, on day 29, and week 8 as an exploratory biomarker of IPdR systemic toxicities to bone marrow as measured by complete blood count (CBC)/differential values.\n\nOUTLINE: This is a dose-escalation study of ropidoxuridine.\n\nBeginning 30 minutes to 2 hours before radiation therapy, patients receive ropidoxuridine PO once daily (QD) on days 1-28 in the absence of disease progression or unacceptable toxicity. Beginning on day 8, patients undergo IMRT 5 days a week for 3 weeks in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up for 4 weeks.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02381561",
+ "importance": 0.81,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02381561"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2015-03-06",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02381561"
+ },
+ "summary_ko": "This phase I trial studies the side effects and best dose of ropidoxuridine in treating patients with gastrointestinal cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment undergoing radiation therapy. Ropidoxuridine may help radiation therapy work better by making tumor cells more sensitive to the radiation therapy.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Ropidoxuridine in Treating Patients With Advanced Gastrointestinal Cancer Undergoing Radiation Therapy",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Advanced Bile Duct Carcinoma",
+   "Stage II Esophageal Cancer AJCC v7",
+   "Stage II Pancreatic Cancer AJCC v6 and v7",
+   "Stage IIA Esophageal Cancer AJCC v7",
+   "Stage IIA Pancreatic Cancer AJCC v6 and v7",
+   "Stage IIB Esophageal Cancer AJCC v7",
+   "Stage IIB Pancreatic Cancer AJCC v6 and v7",
+   "Stage III Colon Cancer AJCC v7",
+   "Stage III Esophageal Cancer AJCC v7",
+   "Stage III Gastric Cancer AJCC v7",
+   "Stage III Liver Cancer",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage III Rectal Cancer AJCC v7",
+   "Stage III Small Intestinal Cancer AJCC v7",
+   "Stage IIIA Colon Cancer AJCC v7",
+   "Stage IIIA Esophageal Cancer AJCC v7",
+   "Stage IIIA Gastric Cancer AJCC v7",
+   "Stage IIIA Rectal Cancer AJCC v7",
+   "Stage IIIA Small Intestinal Cancer AJCC v7",
+   "Stage IIIB Colon Cancer AJCC v7",
+   "Stage IIIB Esophageal Cancer AJCC v7",
+   "Stage IIIB Gastric Cancer AJCC v7",
+   "Stage IIIB Rectal Cancer AJCC v7",
+   "Stage IIIB Small Intestinal Cancer AJCC v7",
+   "Stage IIIC Colon Cancer AJCC v7",
+   "Stage IIIC Esophageal Cancer AJCC v7",
+   "Stage IIIC Gastric Cancer AJCC v7",
+   "Stage IIIC Rectal Cancer AJCC v7",
+   "Stage IV Colon Cancer AJCC v7",
+   "Stage IV Esophageal Cancer AJCC v7",
+   "Stage IV Gastric Cancer AJCC v7",
+   "Stage IV Liver Cancer",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Rectal Cancer AJCC v7",
+   "Stage IV Small Intestinal Cancer AJCC v7",
+   "Stage IVA Colon Cancer AJCC v7",
+   "Stage IVA Liver Cancer",
+   "Stage IVA Rectal Cancer AJCC v7",
+   "Stage IVB Colon Cancer AJCC v7",
+   "Stage IVB Liver Cancer",
+   "Stage IVB Rectal Cancer AJCC v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed advanced, incurable cancers of the esophagus, liver, stomach, small bowel, pancreas, bile duct, colon or rectum and be eligible to receive chest, abdominal and/or pelvic radiation therapy (RT) for palliation; documentation of this is required in physician note; concomitant systemic therapy is not allowed during administration of palliative RT; palliative RT can be considered for advanced primary tumors or metastatic disease as above\n* Patients must not have received systemic chemotherapy for at least 4 weeks, and must not have received prior radiation therapy to the tumor site being irradiated on this study\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Life expectancy of greater than 12 weeks\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin within normal institutional limits\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately; men and women treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and 4 months after completion of IPdR administration\n* Ability to understand and the willingness to sign a written informed consent document\n* Human immunodeficiency virus (HIV) positive (+) patients with cluster of differentiation 4 (CD4) counts \\>= 250 cells/mm\\^3 on anti-viral therapy\n* Women of child-bearing potential must have a negative pregnancy test\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients who are receiving any other investigational agents\n* Patients with known brain metastases should be excluded from this clinical trial\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to IPdR\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study; breastfeeding should be discontinued if the mother is treated with IPdR",
+  "enrollment": 19,
+  "has_results": false,
+  "interventions": [
+   "Intensity-Modulated Radiation Therapy",
+   "Laboratory Biomarker Analysis",
+   "Pharmacological Study",
+   "Ropidoxuridine"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT02381561",
+  "phase": "PHASE1",
+  "primary_completion_date": "2018-11-08",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2016-02-01",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

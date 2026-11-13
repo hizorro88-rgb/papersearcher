@@ -1,0 +1,52 @@
+{
+ "abstract": "BACKGROUND: Forkhead box O3a (FOXO3a) plays important roles in tumor development; however, its expression pattern, prognostic significance, and biological function in pancreatic ductal adenocarcinoma (PDAC) remain unclear.\nMETHODS: FOXO3a expression was evaluated in PDAC tissues and correlated with clinicopathological characteristics and patient survival. FOXO3a-overexpressing and FOXO3a-silenced PDAC cell models were established to investigate its actions on cell growth, migratory capacity, and invasiveness. The participation of the WNT/β-catenin pathway was examined using immunofluorescence, Western blotting, and rescue experiments. Xenograft models were employed to validate the impact of FOXO3a in regulating in vivo tumor growth.\nRESULTS: FOXO3a expression was significantly reduced across both PDAC tissue specimens and cell lines compared with controls. Decreased FOXO3a expression was correlated with advanced tumor stage (P = 0.008), perineural invasion (P = 0.019), and distant metastatic status (P < 0.001). Kaplan-Meier and Cox proportional hazards analyses demonstrated that low FOXO3a expression independently predicted poor overall survival (HR = 2.068, P = 0.004). High β-catenin expression was also identified as an independent risk factor of poor patient outcome (HR = 1.827, P = 0.014). Functionally, FOXO3a overexpression inhibited PDAC cell proliferation, migration, and invasion, whereas FOXO3a depletion promoted malignant behaviors. Mechanistically, FOXO3a suppressed the WNT/β-catenin signaling by decreasing the nuclear accumulation of β-catenin, and pathway activation partially reversed FOXO3a-mediated inhibition. In vivo, FOXO3a overexpression significantly inhibited xenograft growth.\nCONCLUSION: FOXO3a downregulation exhibits a significant correlation with dverse clinicopathological features and unfavorable outcome in PDAC. FOXO3a exerts tumor-suppressive effects, at least in part, by negatively regulating the WNT/β-catenin pathway and consequently holds promise as a prognostic marker and targeted therapy for PDAC.",
+ "authors": [
+  "Zhang G",
+  "Cao F",
+  "Zhang L"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43014070",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1016/j.tranon.2026.103108",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43014070"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Transl Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43014070/"
+ },
+ "summary_ko": "BACKGROUND: Forkhead box O3a (FOXO3a) plays important roles in tumor development; however, its expression pattern, prognostic significance, and biological function in pancreatic ductal adenocarcinoma (PDAC) remain unclear. METHODS: FOXO3a expression was evaluated in PDAC tissues and correlated with clinicopathological characteristics and patient survival.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "FOXO3a suppression predicts poor prognosis and facilitates cell migration and invasion through the WNT/β-catenin pathway in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

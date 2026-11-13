@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,166</b><span>누적 수집<br><small>논문·소식 615 · 임상시험 551</small></span></div><div class="ps-stat"><b>+14</b><span>오늘 신규<br><small>갱신 22건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,197</b><span>누적 수집<br><small>논문·소식 633 · 임상시험 564</small></span></div><div class="ps-stat"><b>+31</b><span>오늘 신규<br><small>갱신 28건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-12](_generated/daily/2026/11/12.md)
+최근 수집일: [2026-11-13](_generated/daily/2026/11/13.md)
 
 <a id="nct-nct07409272"></a>
 #### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
@@ -53,12 +53,19 @@
 
 ---
 <a id="pmid-43013192"></a>
-#### [Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/43013192/)
-`논문` `메타분석` `수술` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-11 · PubMed · J Gastrointest Cancer · 중요도 0.93
+#### [근치적 절제술을 받은 췌장관선암 환자에서 수술 후 종양 맞춤형 순환 종양 DNA(ctDNA) 상태를 이용한 분자적 잔류 질환 검출: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013192/)
+<small>Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis</small>
 
-BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently recurs after curative-intent resection, and conventional imaging and CA19-9 have limited sensitivity for detecting molecular residual disease (MRD). Tumor-informed circulating tumor DNA (ctDNA) may identify postoperative MRD, although the evidence is limited and heterogeneous.
+`논문` `메타분석` `진단·조기발견` `치료 전반` `수술` `제약사·규제` · 2026-11-11 · PubMed · J Gastrointest Cancer · 중요도 0.93
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
+이 연구는 근치적 목적의 수술을 받은 췌장관선암(PDAC) 환자를 대상으로 수술 후 종양 맞춤형 순환 종양 DNA(ctDNA) 양성 여부가 재발 및 생존에 미치는 영향을 평가한 체계적 문헌고찰 및 메타분석입니다. 5개의 관찰 코호트에서 총 237명의 환자가 포함되었습니다. 분석 결과, 수술 후 ctDNA 양성은 방사선학적 재발 위험 증가, 무병 생존기간(DFS) 악화, 그리고 전체 생존기간(OS) 악화와 유의하게 연관되었습니다. 저자들은 ctDNA가 예후 예측에 유용하지만, ctDNA 기반 감시나 치료 변경을 표준 진료로 권장하기 위해서는 전향적 중재 연구가 추가로 필요하다고 결론지었습니다.
+
+- 수술 후 ctDNA 양성은 방사선학적 재발 위험 증가와 관련이 있었습니다 (위험비 RR 2.50).
+- 수술 후 ctDNA 양성 환자는 무병 생존기간(DFS)이 불리했습니다 (위험비 HR 8.11).
+- 수술 후 ctDNA 양성 환자는 전체 생존기간(OS)이 불리했습니다 (위험비 HR 5.15).
+- 총 5개의 관찰 코호트에서 237명의 환자 데이터가 분석에 포함되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
 
 ---
 <a id="pmid-43002828"></a>

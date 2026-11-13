@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND AND AIMS: Hereditary pancreatitis caused by pathogenic variants in the cationic trypsinogen gene is associated with early pancreatic injury and increased pancreatic ductal adenocarcinoma risk, but current estimates rely on small historical cohorts. We reassessed the natural history, penetrance, and long-term cancer risk in a nationwide genetically confirmed cohort.\nMETHODS: We conducted a retrospective nationwide cohort study including individuals identified with PRSS1 variants associated with hereditary pancreatitis in France between 1996 and 2025 through the three national reference laboratories. Among 718 identified carriers, 455 had available follow-up. Clinical data were collected using a standardized electronic case report form. Outcomes included pancreatic exocrine insufficiency, diabetes mellitus, and pancreatic ductal adenocarcinoma. Standardized incidence and mortality ratios were calculated using national population data.\nRESULTS: Median age at symptom onset was 12.5 years (interquartile range, 6.8-24.3), and overall penetrance was 77.6%. The cumulative risk of pancreatic exocrine insufficiency reached 27.5% (95% CI, 22.5-32.5) at age 50 years and 36.2% (95% CI, 30.2-42.2) at age 60 years; corresponding estimates for diabetes mellitus were 20.4% (95% CI, 15.2-25.5) and 27.2% (95% CI, 21.1-33.4), respectively. Twenty-two individuals developed pancreatic ductal adenocarcinoma at a median age of 63.8 years (interquartile range, 52.3-73.6), with cumulative risk by ages 50 and 60 years of 2.0% (95% CI, 0.2-3.9) and 5.9% (95% CI, 2.3-9.6), respectively. The age- and sex-adjusted standardized incidence ratio for pancreatic ductal adenocarcinoma was 32.2 (95% CI, 19.4-50.3). Diabetes mellitus was independently associated with an increased risk of pancreatic ductal adenocarcinoma (hazard ratio, 6.8; 95% CI, 2.1-21.2). Overall mortality was higher than in the general population (standardized mortality ratio, 3.2; 95% CI, 2.4-4.3).\nCONCLUSIONS: In this nationwide cohort with nearly three decades of follow-up, PRSS1-associated hereditary pancreatitis showed high penetrance, early pancreatic insufficiency, and markedly increased pancreatic cancer risk. These findings support lifelong follow-up and pancreatic cancer surveillance strategies that account for increasing risk with age and substantial interindividual variability in age at diagnosis.",
+ "authors": [
+  "Cléry G",
+  "Masson E",
+  "Habib FI",
+  "Salmeron S",
+  "Baleba T",
+  "Bienvenu T",
+  "Bouvier AM",
+  "Branche J"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43014597",
+ "importance": 0.77,
+ "key_points_ko": [
+  "PRSS1 변이 보균자 중 22명에게서 중간값 63.8세에 췌관선암(PDAC)이 발생했습니다.",
+  "일반 인구 대비 췌장암 표준화 발생비(SIR)는 32.2(95% 신뢰구간 19.4-50.3)로 크게 높았습니다.",
+  "당뇨병 동반 시 췌장암 발생 위험이 6.8배(위험비 6.8, 95% 신뢰구간 2.1-21.2) 독립적으로 증가했습니다.",
+  "전체 사망률 또한 일반 인구에 비해 높게 나타났습니다(표준화 사망비 3.2, 95% 신뢰구간 2.4-4.3)."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1016/j.cgh.2026.10.033",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43014597"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43014597/"
+ },
+ "summary_ko": "본 연구는 프랑스 전국 단위 데이터베이스를 통해 PRSS1 유전자 변이가 확인된 455명의 유전성 췌장염 환자를 장기 추적 관찰했습니다. PRSS1 변이 보균자의 질환 침투율(penetrance)은 77.6%로 나타났습니다. 60세 시점의 누적 췌관선암(PDAC) 발생 위험은 5.9%이었으며 일반 인구 대비 췌장암 발생 위험이 32.2배 높았습니다. 당뇨병(diabetes mellitus) 진단은 췌장암 발병 위험을 독립적으로 증가시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Natural history and pancreatic cancer risk in PRSS1-associated hereditary pancreatitis: a nationwide cohort",
+ "title_ko": "PRSS1 유전자 변이 관련 유전성 췌장염의 자연 경과 및 췌장암 위험: 전국 단위 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

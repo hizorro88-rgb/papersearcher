@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.\nMETHODS: PubMed, Embase, Web of Science and the Cochrane Library were searched for studies reporting hazard ratios (HRs) for OS after PDAC resection. Observational studies and randomized trials reporting univariable or multivariable HRs for clinicopathologic and treatment variables were eligible, regardless of treatment sequence. Pooled HRs with 95% confidence intervals (CIs) were estimated using fixed- or random-effects models according to heterogeneity, and multivariable estimates were synthesized when available.\nRESULTS: Fifty-two studies (79,446 patients) were included. In univariable analyses, older age, male sex, elevated preoperative CA19-9 and CEA, higher NLR and CRP/Alb, pancreaticoduodenectomy (PD) vs. distal pancreatectomy (DP), vascular/perineural invasion, positive resection margin, poor differentiation, advanced T stage, and node-positive disease were associated with worse OS, whereas postoperative adjuvant chemotherapy was associated with improved OS. In pooled multivariable analyses, older age (HR 2.17), male sex (HR 1.62), PD vs. DP (HR 1.76), high CA19-9 (HR 1.63), elevated NLR (HR 1.62), increased CRP/Alb (HR 2.05), vascular invasion (HR 1.54), positive resection margin (HR 1.73), poor histologic grade (HR 1.63), advanced T stage (HR 1.74), and node-positive disease (HR 1.68) were associated with worse OS, while adjuvant chemotherapy was consistently associated with improved survival (HR 0.52). Preoperative CEA and perineural invasion did not retain statistical significance in pooled multivariable analyses.\nCONCLUSIONS: In resected PDAC, prognosis appears to reflect not only anatomic stage but also pathological, biological, host-related, and treatment-related factors. These findings support a more integrated postoperative risk-stratification framework beyond anatomic staging alone, which may help identify high-risk patients and inform postoperative management.",
+ "authors": [
+  "Shu-Jie R",
+  "Chang L",
+  "Yi J",
+  "Ran H",
+  "Yu-Hang H",
+  "Le-Lang X",
+  "Qing-Quan T",
+  "Ang L"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [
+  "whipple",
+  "distal-pancreatectomy"
+ ],
+ "evidence": "meta",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43015764",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1186/s12893-026-04105-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43015764"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Meta-Analysis"
+ ],
+ "published_at": "2026-08-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015764/"
+ },
+ "summary_ko": "BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

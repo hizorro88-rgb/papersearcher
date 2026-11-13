@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Sepsis is a leading cause of morbidity and mortality in patients with gastrointestinal (GI) malignancies, with in-hospital mortality rates of 19.8% to 28%, significantly higher than in non-cancer patients. While sepsis outcomes have been extensively studied in the general population, large-scale population-level analyses specific to GI cancers remain limited. This study aimed to identify the outcomes of sepsis in gastric, colon, hepatic, and pancreatic cancers in the United States.\nMETHODS: We conducted a retrospective analysis of the National Inpatient Sample (2017-2021) using ICD-10 codes, including adults ≥18 years with gastric (n=205,599), colon (n=851,120), hepatocellular (n=433,145), or pancreatic (n=557,204) cancer. Propensity matching and multivariate regression were used to adjust for confounders. A p-value of ≤0.05 was considered significant.\nRESULTS: Sepsis prevalence was 13.79% in gastric, 12.6% in colon, 18.76% in hepatocellular, and 19.22% in pancreatic cancer hospitalizations. In-hospital mortality was significantly higher with sepsis across all four malignancies (gastric 23.57% vs. 5.09%; colon 17.72% vs. 2.74%; hepatocellular 22.34% vs. 6.22%; pancreatic 17.26% vs. 5.11%). After propensity matching and adjustment, sepsis was independently associated with increased mortality in gastric (aOR 1.87), colon (aOR 2.39), hepatocellular (aOR 1.60), and pancreatic cancer (aOR 1.43) (all p<0.001). Mortality among patients requiring ICU-level care was 70.28%, 70.88%, 72.97%, and 67%, respectively. Acute kidney injury, acute respiratory failure, invasive ventilation, disseminated intravascular coagulation, and shock were consistent mortality predictors across all malignancies (p<0.05). Sepsis was also associated with significantly higher hospitalization charges and longer length of stay (p<0.001).\nCONCLUSION: Our study revealed that patients with gastrointestinal malignancies experience high mortality rates when affected by sepsis, with acute organ dysfunction and ICU-level care as key predictors of poor outcomes. These findings highlight GI cancer as a high-risk population for adverse sepsis outcomes and support the need for prospective studies evaluating early recognition and guideline-directed therapies.",
+ "authors": [
+  "Sivasubramanian BP",
+  "Ravikumar DB",
+  "Qadeer H",
+  "Khader AHSA",
+  "Prasad R",
+  "Pokhriyal SC",
+  "Tamdin T",
+  "Venkataraman D"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43016854",
+ "importance": 0.62,
+ "key_points_ko": [
+  "췌장암 입원 환자 중 패혈증 발생 비율은 19.22%였으며, 사망률은 17.26%로 패혈증 미발생 환자(5.11%)보다 높았습니다.",
+  "다변량 분석 결과 패혈증은 췌장암 환자의 병원 내 사망 위험을 독립적으로 증가시켰습니다(조정 승산비[aOR] 1.43, p<0.001).",
+  "패혈증으로 중환자실(ICU) 치료를 받은 췌장암 환자의 사망률은 67%로 집계되었습니다.",
+  "급성 신손상, 급성 호흡부전, 침습적 인공호흡기 사용, 파산성 혈관내 응고(DIC), 쇼크가 주요 사망 예측 요인이었습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.62838/jccm-2026-0056",
+  "nct": [],
+  "pmcid": "PMC13752167",
+  "pmid": "43016854"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Crit Care Med (Targu Mures)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43016854/"
+ },
+ "summary_ko": "미국 전국 입원 환자 데이터(2017~2021년)를 바탕으로 위암, 대장암, 간세포암, 췌장암(pancreatic cancer) 환자에서 패혈증(sepsis)의 발생률과 사망률을 분석한 후향적 연구입니다. 췌장암 입원 환자 중 패혈증 발생 비율은 19.22%로 높게 나타났습니다. 췌장암 환자에서 패혈증이 동반되었을 때 병원 내 사망률은 17.26%로 패혈증이 없는 환자(5.11%)에 비해 현저히 증가했습니다. 특히 중환자실(ICU) 입원이 필요했던 패혈증 췌장암 환자의 사망률은 67%에 달했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mortality in sepsis among patients with gastrointestinal malignancies: a nationwide analysis 2017-2021",
+ "title_ko": "소화기계 악성 종양 환자의 패혈증 사망률: 2017-2021년 전국 단위 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic Cancer (PC) is an exceptionally belligerent and lethal malignancy owing to failure in prognosis and limited existing therapies. Pancreatic Ductal Adenocarcinoma (PDAC) mostly originates from ductal cells, with a survival rate of less than 5 years. This cancer is predominantly caused by genetic abnormalities in the exocrine pancreas, such as KRAS and p53, which contribute to tumor growth and progression.\nOBJECTIVE: Our previously published article on PC taught us that there is an utmost need to identify novel biomarkers for diagnosis and targeted therapy approaches to improve survival rates in patients. Conventional radiotherapy and nanotechnology-based approaches show limited success compared to targeted therapy.\nMETHODS: A comprehensive literature search was conducted in PubMed, Science Direct, Scopus, Bentham Science, Google Scholar, ACS Journals, and Taylor and Francis journals and Web of Science databases using keywords related to Pancreatic Ductal Adenocarcinoma (PDAC), biomarkers, and targeted therapies. Articles published in English over the past two decades were screened, and studies focusing on novel biomarkers and therapeutic strategies were included for this review.\nRESULTS: Recent innovations in PDAC treatment include novel biomarkers (genetic markers, proteomic biomarkers, metabolism-related biomarkers, epigenetic markers, liquid biopsy, Pancreatic Cancer Stem Cell (PSCC) biomarkers, circulating biomarkers, and tissue biomarkers) that facilitate early diagnosis and thus minimize mortality rates. The current review highlighted the utmost need for novel targeted approaches (targeting DNA repairing and Microsatellite instability, targeting epigenetic alteration, targeting key Signaling pathways, targeting the stroma, Fibrosis, and extracellular matrix, and drug conjugate inhibitors) that enhance the specificity and efficacy against cancer cells, reduce the injury to healthy tissue, and improve survival rates.\nDISCUSSION: Targeted therapy also focuses on the specific molecular characteristics of cancer cells, providing a possible alternative to traditional therapies.\nCONCLUSION: To summarize, the shifting landscape of cancer treatment, particularly for PC, requires further study of targeted innovative combination therapies to improve patient survival while addressing the major limitations of traditional treatments. Several such products are in clinical trials, which have benefited patients with new hope suffering from PDAC.",
+ "authors": [
+  "Patil J",
+  "Kanugo A"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43017793",
+ "importance": 0.62,
+ "key_points_ko": [
+  "지난 20년간 연구된 췌관선암(PDAC)의 신규 바이오마커 및 표적 치료 전략 관련 문헌을 종합 검토했습니다.",
+  "유전자, 단백질체, 대사, 에피제네틱스, 액체 생검 등의 바이오마커가 조기 진단을 돕는 요인으로 정리되었습니다.",
+  "DNA 복구, 미세위성 불안정성(MSI), 신호전달 경로, 종양 기질(Stroma) 등을 표적으로 하는 치료법이 개발 및 임상 시험 중입니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.2174/0118715206429348260126061757",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43017793"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Anticancer Agents Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017793/"
+ },
+ "summary_ko": "췌장암, 특히 췌관선암(PDAC)의 진단과 표적 치료 연구의 최신 동향을 정리한 종합 종설 논문입니다. 지난 20년간 발표된 주요 문헌을 검토하여 조기 진단을 위한 신규 바이오마커와 표적 치료 전략을 분석했습니다. 유전자, 단백질, 액체 생검 등 다양한 바이오마커가 조기 진단 기회를 넓히고 있음을 확인했습니다. 또한 DNA 복구, 신호전달 경로, 종양 기질을 겨냥한 표적 치료법이 기존 치료의 한계를 극복할 가능성을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Recent Advancements in Diagnosis and Targeted Therapy of Pancreatic Cancer",
+ "title_ko": "췌장암의 진단 및 표적 치료 분야의 최근 발전",
+ "trial": null,
+ "type": "paper"
+}

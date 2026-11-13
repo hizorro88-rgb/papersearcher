@@ -1,0 +1,57 @@
+{
+ "abstract": "[This corrects the article DOI: 10.3389/fendo.2023.1226547.].",
+ "authors": [
+  "Liu K",
+  "Li L",
+  "Han G"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43016942",
+ "importance": 0.55,
+ "key_points_ko": [
+  "기존에 출판된 논문(DOI: 10.3389/fendo.2023.1226547)의 오류를 바로잡는 정정문입니다.",
+  "새로운 연구 결과나 환자 대상 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.3389/fendo.2026.1975559",
+  "nct": [],
+  "pmcid": "PMC13752565",
+  "pmid": "43016942"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Endocrinol (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43016942/"
+ },
+ "summary_ko": "본문은 기존에 출판된 췌장 선암종(pancreatic adenocarcinoma) 관련 논문의 오류를 바로잡는 정정(Correction) 문건입니다. 초록에 명시되지 않은 새로운 임상적 수치나 결과는 없습니다. 기존 논문 DOI에 대한 정정 사항만을 알리고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction: CHST12: a potential prognostic biomarker related to the immunotherapy response in pancreatic adenocarcinoma",
+ "title_ko": "정정: 췌장 선암종에서 면역요법 반응과 관련된 잠재적 예후 생체표지자 CHST12",
+ "trial": null,
+ "type": "paper"
+}

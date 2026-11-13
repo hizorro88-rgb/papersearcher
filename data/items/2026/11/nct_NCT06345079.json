@@ -1,0 +1,119 @@
+{
+ "abstract": "Neuroendocrine tumours (NETs) are slow growing cancers, which commonly present as metastatic incurable disease. Some neuroendocrine tumours, termed functional NETs, overproduce hormones which result in a variety of symptoms. However, approximately 75% of NETs are considered non-functional meaning that they do not result in hormone overproduction. The main treatment for both functional and non-functional NETs is somatostatin analogues (SSA, a type of inhibitory hormone). These drugs slow tumour growth and reduce hormone production. Over time, the majority of patients will experience tumour growth despite treatment with SSA therapy. When this occurs, the addition of Peptide Receptor Radionuclide Therapy (PRRT, a type of targeted radiotherapy) in combination with ongoing SSA therapy is given. However, it is not known if continuing SSA therapy after commencement of PRRT is beneficial or not.\n\nThe aim of this study is to estimate the outcomes of patients with grade 1 and 2 well differentiated mid, hind-gut or pancreatic neuroendocrine tumours who have progressed on SSA therapy and receive subsequent PRRT with or without concurrent SSA.\n\nNeuroendocrine tumours commonly originate from the gut and metastasise widely including to the liver, lymph nodes and bones. Originally called \"carcinoid tumours\", these cancers are most commonly treated with somatostatin analogues (SSA) first line. These analogues treat carcinoid syndrome and slow tumour growth. Despite SSA therapy, progression develops over time. Upon progression, peptide receptor radionuclide therapy (PRRT) is the next standard therapeutic option. After PRRT is initiated, it is unclear if continuing SSA injections is beneficial. There are reasons to believe it might be necessary to continue SSAs, but other reasons to believe they should cease. Given that SSA injections are expensive and associated with side effects, this study aims to clarify the utility of continuing SSA injections after progression on SSA therapy and commencement of PRRT.\n\nSTOPNET aims to explore outcomes in grade 1 and 2 mid, hind gut or pancreatic neuroendocrine tumours, that have progressed on SSA therapy, are eligible to receive PRRT and in whom the SSA is either continued or ceased after PRRT is commenced.\n\nThe two primary objectives include\n\n1. To estimate the 20-month progression free survival rate after PRRT commencement in patients who cease and who continue SSA.\n2. Feasibility as measured by:\n\n   1. Recruitment rate and\n   2. Patient acceptance of ceasing and staying off SSA over the 20 month follow up period.\n\nThe study design of STOPNET is prospective, randomised, non-comparative, open label, multicentre phase II study. Patients meeting the inclusion and exclusion criteria will be randomised, prior to commencing PRRT, to either continue or cease SSA treatment. Randomisation will occur centrally in REDCap by the AGITG STOPNET study team. Randomisation will be 2:1 (the majority being randomised to cease SSA) and will be stratified by WHO tumour grade (1 V 2), sites of metastases (visceral only verse visceral and bone) and institution.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06345079",
+ "importance": 0.79,
+ "key_points_ko": [
+  "SSA 치료 중 진행하여 PRRT 치료 대상이 된 1~2등급 췌장 및 장 신경내분비종양 환자 78명을 대상으로 진행됩니다.",
+  "PRRT 시작 시점에 SSA 중단군과 유지군으로 2:1 무작위 배정하여 20개월 무진행 생존율을 비교 평가합니다.",
+  "이전에 PRRT를 받았거나 세포독성 항암제 또는 표적치료제를 받은 환자는 참여 대상에서 제외됩니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06345079"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2024-04-03",
+ "relevance": 0.42,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Australasian Gastro-Intestinal Trials Group",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06345079"
+ },
+ "summary_ko": "본 연구는 소마토스타틴 유사체(SSA) 치료 중 병이 진행된 1~2등급 전이성 췌장 및 장 신경내분비종양(NET) 환자를 대상으로 합니다. 펩타이드 수용체 방사선핵종 치료(PRRT) 시작 후 SSA 투여를 중단하는 그룹과 계속 유지하는 그룹으로 나누어 치료 경과를 평가합니다. 주요 목표는 PRRT 개시 후 20개월 무진행 생존율(PFS)과 SSA 중단의 실행 가능성을 확인하는 것입니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Advanced",
+  "Unresectable grade 1 or 2",
+  "mid, hind- gut or pancreatic neuroendocrine tumours",
+  "신경내분비종양"
+ ],
+ "title": "Cessation of Somatostatin Analogues After PRRT in Mid, Hind-Gut and Pancreatic Neuroendocrine Tumours",
+ "title_ko": "중장, 후장 및 췌장 신경내분비종양에서 PRRT 치료 후 소마토스타틴 유사체 투여 중단의 효과를 평가하는 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Neuroendocrine Tumors"
+  ],
+  "contacts": [
+   {
+    "email": "gct_stopnet_mailbox@gicancer.org.au",
+    "name": "STOPNET Project Manager",
+    "phone": "+61 1300 666 769"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상으로 수술 불가능한 전이성 췌장, 중장, 후장 신경내분비종양(NET) 환자\n- 최소 12주 이상 소마토스타틴 유사체(SSA) 치료를 받았으나 질병이 진행된 환자\n- WHO 1등급 또는 2등급 종양 (Ki67 20% 이하 및 세포분열수 20개 이하/HPF)\n- RECIST 1.1 기준 측정 가능한 병변이 있는 환자\n- 호르몬 과다분비 증상이 없는 비기능성 신경내분비종양 환자\n- ECOG 수행능력 평가 점수 0~2점이며 기대 여명이 12개월 이상인 환자\n\n제외 기준:\n- 위 또는 폐 원발성 신경내분비종양 환자\n- 이전에 PRRT 치료를 받은 적이 있는 환자\n- 이전에 세포독성 항암제 또는 표적치료제(everolimus 등) 치료를 받은 환자\n- 조절되지 않는 중앙신경계(뇌) 전이가 있는 환자\n- PRRT 치료에 대한 금기증이 있거나 임신 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Adults over 18 years of age with well or moderately differentiated mid or hindgut neuroendocrine tumour, or pancreatic neuroendocrine tumour; metastatic and inoperable, demonstrating progression despite SSA treatment of sufficient disease magnitude to warrant PRRT as determined by the treating clinician and/or the NET Multidisciplinary Team (MDT). See section 4.1 regarding the recording of the reason(s).\n2. Must have measurable disease on triphasic CT/MRI as per RECIST 1.1.\n3. Ki67 ≤20% AND mitotic count ≤20 per HPF (i.e., WHO grade 1 or 2).\n\n   • Note: Participants are eligible if only a single proliferation index has been performed due to local institutional practice, provided that the results are consistent with WHO grade 1 or 2 NET. However, if the results for both Ki67 and mitotic count are available, both results will need to be reported and are subject to eligibility assessment.\n4. Non-functioning NET: SSA treatment will have been commenced for control of tumour growth and not for carcinoid or other hormone overproduction syndrome, as judged by the clinician and/or NET MDT. Non-functioning NET is judged by the treating clinical team based on patient symptomatology.\n\n   In addition, for this study, non-functioning tumour is defined as:\n   * Never had escalation of the SSA treatment dose to control carcinoid or other hormone-related symptoms.\n   * Never required short acting SSA treatment to control carcinoid or other hormone-related symptoms.\n   * For mid and hind gut (GI cohort) patients:\n\n     * 24-hour urine 5-hydroxyindoleacetic acid (5HIAA) \\<3x upper limit of normal.\n     * No significant carcinoid induced valvular heart disease. I.e. Echocardiogram to be within 12 weeks of study randomisation, and deemed safe to proceed with PRRT by the treating team.\n   * Note: routine measurement of gastrin, insulin, C-peptide levels, glucagon etc. is not required unless clinically indicated.\n5. Patient has been receiving growth-controlling doses of SSA for at least 12 weeks prior to study enrolment, for example a minimum of 30mg Octreotide or 120mg Lanreotide monthly. However, other SSA formulations used at growth-controlling doses are also eligible.\n6. Uptake on SSTR PET scan demonstrating somatostatin receptor expression that is suitable for PRRT as judged by the clinical team. FDG PET scans are to be done at the judgement of the treating team and are not required for enrolment into this study.\n7. PRRT is deemed the most appropriate next treatment step (i.e., patient is inoperable, and liver directed therapies are not preferred).\n8. ECOG performance status 0-2.\n9. Written informed consent. Patients must be willing to either cease or continue SSA, depending on which study arm they are randomised to. Patients must be willing to comply with all other study requirements.\n10. Adequate renal, hepatic and haematologic function as judged by the treating team.\n11. Life expectancy of at least 12 months.\n\nExclusion Criteria:\n\n1. This study is for pancreatic, mid-gut and hind-gut NET only. Gastric and lung NETs are excluded.\n2. Any patient on an SSA dose lower than the standard growth-control dose. Patients must have been on an SSA equivalent to Octreotide 30mg or Lanreotide 120mg for at least 3 months prior to study enrolment.\n3. Prior chemotherapy or targeted therapy (e.g., everolimus). Patients who have received prior local therapy, including external beam radiotherapy and liver directed therapy prior to or during SSA therapy are eligible.\n4. Any contraindication to PRRT, as per local institutional practice.\n5. Pregnancy. For female patients of childbearing potential and male patients with a female partner who is of childbearing potential, contraception and counselling is required.\n6. Prior PRRT. Patients being considered for re-treatment with PRRT are not eligible.\n7. Uncontrolled central nervous system metastases. Patients must have completed any surgery or radiation at least 4 weeks prior to enrolment and must be off corticosteroids for at least 2 weeks.\n8. Any patient, in the opinion of the investigator, who will not comply with study assessments and follow up visits. These might include any social, psychological, or geographical concerns, including alcohol/drug abuse.\n9. Any poorly controlled concurrent medical illness that may prevent the patient from complying with study assessments and follow up. This is to be judged by the treating team.\n10. Any concurrent or prior malignancy that, in the opinion of the treating team, may interfere with study assessments and endpoints.",
+  "enrollment": 78,
+  "has_results": false,
+  "interventions": [
+   "Cessation of somatostatin analogues",
+   "Continuation of somatostatin analogues"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "Australia",
+   "Canada"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "이전 PRRT 치료 받은 병력",
+    "이전 세포독성 항암제 또는 표적치료제 치료 병력",
+    "조절되지 않는 뇌전이",
+    "위 또는 폐 원발의 신경내분비종양"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "소마토스타틴 유사체(SSA) 치료 중 진행된 1~2등급 전이성/수술 불가능 췌장 및 장 신경내분비종양 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 17,
+  "nct_id": "NCT06345079",
+  "phase": "PHASE2",
+  "primary_completion_date": "2027-09",
+  "sex": "ALL",
+  "sponsor": "Australasian Gastro-Intestinal Trials Group",
+  "start_date": "2024-10-14",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

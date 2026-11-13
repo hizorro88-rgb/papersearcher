@@ -1,0 +1,192 @@
+{
+ "abstract": "Patients with digestive tract malignancy often experience severe and unremitting abdominal pain that negatively affects physical, emotional, and social function, as well as health related quality of life (HRQOL). Therapeutic virtual reality (VR) has emerged as a promising and evidence-based treatment modality for cancer pain. Users of VR wear a pair of goggles with a close-proximity screen in front of the eyes that creates a sensation of being transported into lifelike, three-dimensional worlds. To date, VR has been limited to short-term clinical trials for cancer pain. Moreover, limited research exists on theory-based VR modalities beyond mere distraction, such as VR that employs acceptance and commitment therapy (ACT) with components of biofeedback and mindfulness. To bridge these gaps, this study seeks to: (1) assess the impact of immersive VR on patient-reported outcomes (PROs), including pain, activity metrics, and opioid use among patients with visceral pain from a digestive tract malignancy; (2) assess differences in PROs, activity metrics, and opioid use between skills-based VR therapy vs. distraction VR therapy; and (3) determine patient-level predictors of VR treatment response in visceral cancer pain.\n\nTo address these aims, the study will measure PROs and opioid use in 360 patients randomized among 3 groups and follow them for 60 days after enrollment: (1) an enhanced VR group receiving skills-based VR; (2) a distraction-based VR group receiving patient-selected VR videos; and (3) a VR sham control group using a VR headset with 2-D content. The results will inform best practices for the implementation of VR for visceral cancer pain management and guide selection of patient-tailored experiences.\n\nGI cancer pain is a prevalent and costly condition. Medical therapy is not always effective for managing GI cancer pain; there is a need for drug-free alternative to complement or even replace medical therapy, such as opioids. This study will evaluate a novel technology called virtual reality (VR). Users of VR wear a pair of goggles with a three-dimensional screen that creates a sensation of being transported into lifelike worlds. Evidence shows that VR can reduce pain through many different mechanisms. Research shows that VR can also help train people in new skills, such as to meditate, breathe deeply, and learn how to cope with pain.\n\nIn this study, patients with GI cancer pain will be randomized into three groups of equal size: (1) immersive skills-based VR therapy; (2) immersive distraction VR therapy; and (3) non-immersive sham VR using 2D videos displayed in a VR headset. The skills-based treatment will use virtual healing environments to teach patients about meditation, breathing exercises, and pain management. The distraction treatment will use immersive videos that are designed to take the mind off of pain. The sham VR will use VR goggles, but patients will only watch a two-dimensional video rather than a 3D, immersive experience.\n\nEligible patients will have GI cancer pain, meaning belly pain at least 5 points above the national average on the NIH PROMIS GI Scale as well as having a GI cancer diagnosis. . The study will exclude people who are under 18 years of age, unable to understand the consent form, expected to live less than 3 months, brain tumors not responding to treatment, or injury that makes it difficult to wear something on their face.\n\nRandomization between groups will occur using a computer program called REDCap and will be performed after obtaining patient consent for participating in the study. The VR goggles will be shipped via FedEx to patients in all three groups, along with instructions for use. Patients will then be asked to actively use the headset for four weeks on a daily basis, following the specific instructions for their assigned intervention. In addition, patients will wear a Fitbit watch on their wrist during the study, as tolerated, to monitor step counts and sleep. Participants will fill out a set of weekly questionnaires that will be sent via email.\n\nIn order to show a difference between the active VR treatments and the sham VR control treatment, the investigator will recruit a minimum of 120 patients in each arm of the study. This calculation is sufficient to demonstrate clinically meaningful differences in the primary outcome, which is Gastrointestinal belly pain levels as measured by the NIH Patient Reported Outcome Measurement Information System, or PROMIS® questionnaire. PROMIS is a well-validated set of questionnaires that measure different aspects of quality of life; for this study the investigator will focus on PROMIS Gastrointestinal belly pain, Global physical and mental health, and Social isolation. Daily pain catastrophizing, Milligram morphine equivalent daily dose, Simulator sickness, Pain treatment satisfaction, Pain self-efficacy (PSEQ), baseline demographic information, Pain Diary, and Pain Behaviors will also be measured. The investigator will compare the number of steps taken per day and sleep levels among the three groups using statistical tests that account for potential difference among the groups. Finally, the investigator will perform statistical analyses to identify whether there are individual patient characteristics that predict response to VR therapy. The goal will be to develop a mathematical algorithm that optimized patient selection to make more precise treatment decisions with VR.\n\nTo learn more about the study and to assess your eligibility, please visit our study website at: https://virtualmedicine.org/research/current/gicancer",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04907643",
+ "importance": 0.67,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04907643"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-06-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cedars-Sinai Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04907643"
+ },
+ "summary_ko": "Patients with digestive tract malignancy often experience severe and unremitting abdominal pain that negatively affects physical, emotional, and social function, as well as health related quality of life (HRQOL). Therapeutic virtual reality (VR) has emerged as a promising and evidence-based treatment modality for cancer pain.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Virtual Reality",
+  "VR",
+  "support",
+  "GI cancer",
+  "cancer pain",
+  "신경내분비종양"
+ ],
+ "title": "Virtual Reality for GI Cancer Pain to Improve Patient Reported Outcomes",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Cancer Pain",
+   "Visceral Pain",
+   "Gastrointestinal Neoplasms",
+   "Cancer of Gastrointestinal Tract",
+   "Small Intestine Cancer",
+   "Pancreas Cancer",
+   "Liver Cancer",
+   "Colon Cancer",
+   "Biliary Tract Cancer",
+   "Stomach Cancer",
+   "Rectum Cancer",
+   "Peritoneal Cancer",
+   "Gastrointestinal Cancer Metastatic",
+   "Gastrointestinal Cancers - Anus",
+   "Gastrointestinal Cancers - Stomach",
+   "Gastrointestinal Cancers - Colorectal",
+   "Gastrointestinal Cancers - Small Intestine",
+   "Small Intestine Cancer Stage III",
+   "Small Intestine Cancer Stage IV",
+   "Small Intestine Cancer, Recurrent",
+   "Pancreas Cancer, Stage III",
+   "Pancreas Cancer, Stage IV",
+   "Pancreas Cancer, Metastatic",
+   "Pancreas Cancer, Recurrent",
+   "Liver Cancer Stage IIIa",
+   "Liver Cancer Stage IIIb",
+   "Liver Cancer Stage IIIc",
+   "Liver Cancer Stage IV",
+   "Colon Cancer Stage III",
+   "Colon Cancer Stage IV",
+   "Stomach Cancer Stage III",
+   "Stomach Cancer Stage IV",
+   "Stomach Cancer Recurrent",
+   "Rectum Cancer, Recurrent",
+   "Gastrointestinal Cancers - Liver",
+   "Anal Cancer",
+   "Anal Cancer Stage III",
+   "Anal Cancer Stage IV",
+   "Anal Cancer Recurrent",
+   "Anal Cancer Metastatic",
+   "Anal Cancer, Stage IIIA",
+   "Anal Cancer, Stage IIIB",
+   "Appendix Cancer",
+   "Ampullary Cancer",
+   "Bile Duct Cancer",
+   "Bile Duct Cancer Stage III",
+   "Bile Duct Cancer Stage IV",
+   "Bile Duct Cancer Stage IVA",
+   "Bile Duct Cancer Stage IVB",
+   "Bile Duct Cancer Recurrent",
+   "Carcinoid Tumor",
+   "Carcinoid Tumor of Pancreas",
+   "Carcinoid Tumor of Large Intestine",
+   "Carcinoid Tumor of GI System",
+   "Carcinoid Tumor of Colon",
+   "Carcinoid Tumor of Liver",
+   "Carcinoid Tumor of Cecum",
+   "Carcinoid Tumor of Ileum",
+   "Carcinoid Tumor of Rectum",
+   "Carcinoid Tumor of the Small Bowel",
+   "Carcinoid Tumor of the Stomach",
+   "Large Intestine Cancer",
+   "Esophagus Cancer",
+   "Esophagus Cancer, Stage III",
+   "Esophagus Cancer, Stage IV",
+   "Esophagus Cancer, Recurrent",
+   "Gallbladder Cancer",
+   "Gallbladder Cancer Stage III",
+   "Gallbladder Cancer Stage IV",
+   "Gastric (Stomach) Cancer",
+   "Neuroendocrine Tumor",
+   "Peritoneum Cancer",
+   "Rectal Cancer",
+   "Esophagus Cancer, Stage I",
+   "Esophagus Cancer, Stage II",
+   "Gallbladder Cancer Stage I",
+   "Gallbladder Cancer Stage II",
+   "Bile Duct Cancer Stage I",
+   "Bile Duct Cancer Stage II"
+  ],
+  "contacts": [
+   {
+    "email": "samuel.eberlein@cshs.org",
+    "name": "Samuel Eberlein, MSHS",
+    "phone": "3104236721"
+   },
+   {
+    "email": "karisma.suchak@cshs.org",
+    "name": "Karisma Suchak, MD",
+    "phone": "3104230714"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Have a primary malignancy of the biliary tract, colon, liver, pancreas, peritoneum, rectum, small intestine, or stomach, with no plan for resection during the study period\n* Tumor types including, but not limited to, adenocarcinoma, squamous cell carcinoma, neuroendocrine tumors, and tumors of mesenchymal origin will be eligible\n* Have clinically significant visceral pain, measured using the standardized NIH PROMIS GI Pain Scale defined as scoring at least 5 points above the nationally normed score\n* Ability to read and write in English\n\nExclusion Criteria:\n\n* Have a condition that interferes with VR usage, including but not limited to seizures, facial injury precluding safe placement of headset, and visual impairments\n* Have cognitive impairment that affects protocol participation. This will be done with a three part cognitive assessment during the initial phone call to assess eligibility followed by consent discussion if eligible.\n* Have brain metastases\n* Have a prognosis of \\<3 months from the time of enrollment per treating oncologist",
+  "enrollment": 360,
+  "has_results": false,
+  "interventions": [
+   "PICO G2 4k"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
+  "max_age": "99 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04907643",
+  "phase": "NA",
+  "primary_completion_date": "2027-03-31",
+  "sex": "ALL",
+  "sponsor": "Cedars-Sinai Medical Center",
+  "start_date": "2021-10-05",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

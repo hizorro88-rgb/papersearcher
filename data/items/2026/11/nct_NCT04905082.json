@@ -1,0 +1,110 @@
+{
+ "abstract": "This clinical trial studies the effectiveness of a web-based cancer education tool called Helping Oncology Patients Explore Genomics (HOPE-Genomics) in improving patient knowledge of personal genomic testing results and cancer and genomics in general. HOPE-Genomics is a web-based education tool that teaches cancer/leukemia patients, and patients who may be at high-risk for developing cancer, about genomic testing and provide patients with information about their own genomic test results. The HOPE-Genomics tool may improve patient's genomic knowledge and quality of patient-centered care. In addition, it may also improve education and care quality for future patients.\n\nPRIMARY OBJECTIVES:\n\nI. Test the efficacy of the HOPE-Genomics intervention in improving patient knowledge of genomics.\n\nII. Test the efficacy of the HOPE-Genomics intervention in improving patient receipt of guideline-concordant care.\n\nOUTLINE: Patients are randomized to 1 of 3 arms.\n\nARM I (USUAL CARE): Patients receive education pamphlet about whole-genome sequencing (WES) and have their genomics test results returned by their clinician in a typical manner.\n\nARM II (RETURN OF RESULTS ONLY): Patients receive their genomics test results both from their clinician and from the HOPE-Genomics tool. Patients then view HOPE-Genomics tool over 15-20 minutes after their results are available.\n\nARM III (RETURN OF RESULTS PLUS PRE-TEST EDUCATION): Patients view HOPE-Genomics tool (containing educational content) over 15-20 minutes before their sequencing results are available. Patients also receive their genomics test results both from their clinician and from the HOPE-Genomics tool.\n\nAfter completion of study intervention, patients are followed up at 2 weeks, 3 and 9 months after receiving genomic test results.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04905082",
+ "importance": 0.61,
+ "key_points_ko": [
+  "목표 등록 환자 수는 465명입니다.",
+  "환자들은 3개의 중재 군(표준 치료, 결과 반환, 결과 반환 및 사전 교육) 중 하나로 무작위 배정됩니다.",
+  "연구 추적 관찰은 유전체 검사 결과 수령 후 2주, 3개월, 9개월 시점에 이루어집니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04905082"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-05-27",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "City of Hope Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04905082"
+ },
+ "summary_ko": "이 임상시험은 개인 유전체 검사 결과와 암 및 유전체학 전반에 대한 환자의 지식을 향상시키기 위해 웹 기반 암 교육 도구인 HOPE-Genomics의 효과를 평가합니다. 연구 대상은 폐암, 유방암, 대장암, 췌장암, 난소암 또는 전립선암 진단을 받고 유전체 시퀀싱을 진행한 환자들입니다. 환자들은 표준 치료 군, 결과 반환만 받는 군, 결과 반환 및 검사 전 교육을 받는 군의 3개 군으로 무작위 배정됩니다. 이 연구는 유전체학 지식 향상과 가이드라인에 부합하는 치료의 수령 여부를 평가하는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics",
+ "title_ko": "유전체학에 대한 암 환자의 지식 향상을 위한 HOPE-Genomics 중재 연구",
+ "trial": {
+  "conditions": [
+   "Breast Carcinoma",
+   "Colorectal Carcinoma",
+   "Lung Carcinoma",
+   "Malignant Solid Neoplasm",
+   "Ovarian Carcinoma",
+   "Pancreatic Carcinoma",
+   "Prostate Carcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n* City of Hope(COH) 기관생명윤리위원회(IRB) 07047에 등록된 환자\n* 폐암, 유방암, 대장암, 췌장암, 난소암 또는 전립선암 진단을 받은 환자\n* 체세포, 생식세포 또는 이들의 쌍(paired) 시퀀싱을 진행 중인 환자\n* 영어 유창성 보유\n* ECOG 수행능력 상태 0-2\n* 18세 이상\n\n제외 기준:\n* 사전 동의서를 제공할 수 없는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Are enrolled in City of Hope (COH) Institutional Review Board (IRB) 07047\n* Have a diagnosis of lung, breast, colorectal, pancreatic, ovarian or prostate cancer\n* Having somatic, germline or paired somatic/germline sequencing\n* Are fluent in English\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Are \\>= 18 years old\n\nExclusion Criteria:\n\n* Are unable to provide informed consent",
+  "enrollment": 465,
+  "has_results": true,
+  "interventions": [
+   "Best Practice",
+   "Educational Intervention",
+   "Educational Intervention",
+   "Genomic Profile",
+   "Survey Administration"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "사전 동의서를 제공할 수 없는 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "유전체 시퀀싱을 진행한 폐암, 유방암, 대장암, 췌장암, 난소암, 전립선암 환자 대상의 교육 프로그램 효과 평가 연구",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04905082",
+  "phase": "NA",
+  "primary_completion_date": "2024-08-14",
+  "sex": "ALL",
+  "sponsor": "City of Hope Medical Center",
+  "start_date": "2021-12-30",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

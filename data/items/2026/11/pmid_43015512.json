@@ -1,0 +1,55 @@
+{
+ "abstract": "Pancreatic cancer remains highly lethal, and reliable metabolic and molecular markers for risk stratification and prognosis are limited. We investigated potential associations between circulating metabolites and pancreatic cancer risk and further evaluated the biological and prognostic relevance of prioritized candidate genes. We assessed 233 circulating metabolites using two-sample Mendelian randomization. Gene annotation, polygenic prioritization, summary-data-based Mendelian randomization, and Bayesian colocalization were used to prioritize candidate genes. Transcriptomic, proteomic, pathway, survival, and single-cell analyses were integrated with experimental validation, including Western blotting, gene knockdown, colony formation, wound-healing, Transwell migration, and immunohistochemistry. Fifteen circulating metabolites showed nominal Mendelian randomization association signals with pancreatic cancer risk. The free cholesterol-to-total lipids ratio in large very-low-density lipoprotein and saturated fatty acids showed relatively consistent inverse association patterns across multiple methods, whereas several other lipid-related traits showed method-specific exploratory signals. Excision repair cross-complementation group 1 (ERCC1) was prioritized as a candidate for further biological investigation. Colocalization did not support a shared causal variant between ERCC1 expression and pancreatic cancer risk, suggesting that ERCC1 should not be interpreted as a genetically confirmed mediator. The observed ERCC1-related metabolite associations therefore remained hypothesis-generating rather than evidence of an established genetic or metabolic mechanism. ERCC1 expression was increased in pancreatic cancer tissues and selected pancreatic cancer cell lines, associated with poorer prognosis, and enriched in malignant epithelial and cancer-associated fibroblast compartments. ERCC1 knockdown reduced clonogenic growth and migratory phenotypes, and immunohistochemistry showed stronger ERCC1 staining in pancreatic cancer tissues than in adjacent normal tissues in three paired specimens. Additional exploratory evaluation of the Cox-weighted prognostic score showed variable predictive performance in CPTAC-PDC000270 and E-MTAB-6134, with 1-, 2-, and 3-year AUCs of 0.658, 0.731, and 0.627 and 0.610, 0.607, and 0.553, respectively. This integrative analysis highlights lipid-related metabolic traits and provided expression-based and preliminary functional evidence supporting further investigation of ERCC1 in pancreatic cancer. Further mechanistic studies and lipidomic validation are warranted.",
+ "authors": [
+  "Xiao T",
+  "Gao W",
+  "Zhu H",
+  "Zang L",
+  "Xiang W",
+  "Yan A"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43015512",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1007/s10142-026-02117-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43015512"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Funct Integr Genomics",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015512/"
+ },
+ "summary_ko": "Pancreatic cancer remains highly lethal, and reliable metabolic and molecular markers for risk stratification and prognosis are limited. We investigated potential associations between circulating metabolites and pancreatic cancer risk and further evaluated the biological and prognostic relevance of prioritized candidate genes.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Exploratory mendelian randomization of circulating metabolites and multi-omics characterization of ERCC1 in pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

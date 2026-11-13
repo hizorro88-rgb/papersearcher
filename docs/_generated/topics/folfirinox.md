@@ -25,7 +25,7 @@ search:
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
 | [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색술을 통한 절제율 향상 제2상 임상시험](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
 | [췌장암 환자의 근육량 유지와 항암 치료 내성을 돕는 영양 보조제 임상시험](../trials/NCT07870421.md) | 해당 없음 | 모집 예정 | - |
-| [KRAS G12D 변이 진행성 또는 전이성 췌장관선암 환자에서 GDC-7035의 안전성과 활성을 평가하는 연구](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
+| [KRAS G12D 변이 진행성 또는 전이성 췌장암 및 대장암 환자에서 GDC-7035의 안전성과 활성을 평가하는 임상시험](../trials/NCT07859085.md) | 1상 | 모집 예정 | - |
 | [진행성 및 전이성 췌장암에서 변형 FOLFIRINOX와 펜타미딘 병용 임상 1상](../trials/NCT07829185.md) | 1상 | 모집 중 | - |
 | [전이성 및 국소 진행성 췌장암 환자를 위한 아부토메티닙/데파티닙 및 mFOLFIRINOX 병용 요법 제1/2상 임상시험](../trials/NCT07824960.md) | 1상/2상 | 모집 예정 | - |
 | [수술 가능 및 경계성 수술 가능 췌관선암 환자를 위한 SMAD4 변이 기반 맞춤형 선행 화학요법 2상 임상시험 (SMART-…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
@@ -44,7 +44,7 @@ search:
 | [경계성 절제 가능 및 국소 진행성 췌장암 환자에서 PD-L1 항체와 병용한 AG 요법 후 FOLFIRINOX 요법을 시행하는…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
 | [진행성 췌장암 환자에서 CD318 표적 CAR-T 세포 치료제(ResCPa)의 제1/IIa상 임상시험](../trials/NCT07153289.md) | 1상/2상 | 모집 예정 | - |
 | [mFOLFIRINOX와 병용하는 KN510713 연구](../trials/NCT07114861.md) | 1상/2상 | 모집 중 | 1 |
-| [국소 진행성 췌장암 환자에서 자기공명영상(MRI) 유도 적응형 정위적 방사선치료(SMART) 평가](../trials/NCT07097064.md) | 2상 | 모집 예정 | - |
+| [국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](../trials/NCT07097064.md) | 2상 | 철회 | - |
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 절제 가능 췌장암에서 mFOLFIRINOX 선행화학요법 후 종양 병기에 맞춘 위험도 적응 수술 후 보조…](../trials/NCT07044453.md) | 2상/3상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
@@ -95,8 +95,23 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (17)
+## 타임라인 (18)
 
+<a id="doi-10.64898-2026.11.06.764966"></a>
+#### [혈청 세포외 소포체 단백체학을 통한 췌장관선암의 치료 연관 바이오마커 규명](https://europepmc.org/article/PPR/PPR1364809)
+<small>Serum extracellular vesicle proteomics reveals treatment–associated biomarkers in pancreatic ductal adenocarcinoma</small>
+
+`프리프린트` `전임상` `기초연구` `진단·조기발견` · 2026-11-11 · Europe PMC (preprint) · bioRxiv · 중요도 0.54
+
+이 연구는 췌장관선암(PDAC) 환자의 치료 반응을 모니터링하기 위해 혈청 세포외 소포체(EV) 단백체학을 분석했습니다. FOLFIRINOX 치료를 받은 25명을 포함하여 총 51명의 환자로부터 치료 전후 혈청 샘플을 채취하여 분석을 진행했습니다. 분석 결과, FOLFIRINOX 치료 후 혈소판 및 응고 관련 단백질의 유의한 감소가 관찰되었습니다. 또한 치료 전 높은 ITGB1 단백질 수치는 더 긴 전체 생존기간(OS)과 연관을 보였습니다.
+
+- 치료 전후 51명의 췌장암 환자 샘플을 분석하여 총 2,089개의 세포외 소포체(EV) 연관 단백질을 확인했습니다.
+- FOLFIRINOX 투여군에서 PF4, PF4V1을 포함한 혈소판 및 응고 관련 단백질이 뚜렷하게 감소했습니다.
+- 치료 전 높은 ITGB1 수치는 더 긴 전체 생존기간(OS)과 연관되었습니다(위험비 0.112).
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1364809) · [DOI](https://doi.org/10.64898/2026.11.06.764966) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.06.764966)</small>
+
+---
 <a id="pmid-42971953"></a>
 #### [당뇨병 재창출 약물 시타글립틴의 리보뉴클레오티드 환원효소 억제를 통한 췌장암 젬시타빈 저항성 극복: SITGEM-CARE 2상 임상시험](https://pubmed.ncbi.nlm.nih.gov/42971953/)
 <small>Sitagliptin, a repurposed diabetes drug, overcomes gemcitabine resistance in pancreatic cancer via ribonucleotide reductase inhibition: SITGEM-CARE phase 2 trial</small>

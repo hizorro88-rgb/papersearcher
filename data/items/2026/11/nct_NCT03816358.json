@@ -1,0 +1,119 @@
+{
+ "abstract": "This phase I trial studies the side effects and best dose of anetumab ravtansine when given together with nivolumab, ipilimumab and gemcitabine hydrochloride in treating patients with mesothelin positive pancreatic cancer that has spread to other places in the body (advanced). Anetumab ravtansine is a monoclonal antibody, called anetumab ravtansine, linked to a chemotherapy drug called DM4. Anetumab attaches to mesothelin positive cancer cells in a targeted way and delivers DM4 to kill them. Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine hydrochloride, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving anetumab ravtansine together with nivolumab, ipilimumab, and gemcitabine hydrochloride may work better in treating patients with pancreatic cancer.\n\nPRIMARY OBJECTIVE:\n\nI. To evaluate the safety and tolerability of anetumab ravtansine with the following combinations in patients with mesothelin positive pancreatic adenocarcinoma.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the preliminary anti-tumor activity of anetumab ravtansine (anetumab) in combination with nivolumab, nivolumab and ipilimumab, nivolumab and gemcitabine hydrochloride (gemcitabine) as measured by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 overall response rate (ORR).\n\nII. To characterize the pharmacokinetics (PK) profile of anetumab (apparent diffusion coefficient \\[ADC\\]), total antibody (ADC and cleaved free antibody), DM4 and DM4-Me (S-Methyl metabolite of DM4).\n\nIII. To evaluate the tumor microenvironment and immune changes in tumor and peripheral blood over the course of treatment to identify predictors of response or resistance to treatment.\n\nIV. To measure the progressive disease (PD) effects of this combination including molecular and immune biomarkers in tumor biopsies and peripheral blood.\n\nEXPLORATORY OBJECTIVES:\n\nI. To characterize mesothelin, PD-L1, CD3, CD4, CD8 expressions at baseline and after treatment in mesothelin positive pancreatic cancer patients.\n\nII. To evaluate level of soluble mesothelin and megakaryocyte potentiation factor (MPF) over the course of treatment and to correlate these biomarkers with clinical outcome.\n\nIII. To perform whole exome sequencing (WES) +/- ribonucleic acid sequencing (RNAseq) in the tumor biopsy specimens and correlation genomic (e.g. mutational burden) and transcriptomic biomarkers with clinical outcome.\n\nIV. To evaluate mononuclear phagocyte system (MPS) function, Fc-gamma receptors (FcgammaRs) and hormone and chemokine mediators as methods to evaluate factors affecting the PK and PD of these agents.\n\nV. To evaluate anti-drug antibody (ADA) titres changes pre and post treatment and correlate them with PK, toxicity and responses.\n\nOUTLINE: This is a dose-escalation study of anetumab ravtansine. Patients are assigned to 1 of 3 arms.\n\nARM I: Patients receive anetumab ravtansine intravenously (IV) over 1 hour on day 1 and nivolumab IV over 30 minutes on day 8 of cycle 1 and on day 1 of subsequent cycles. Treatment repeats every 21 or 28 days (cycle 1) for up to 17 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo a biopsy and collection of blood on study.\n\nARM II: Patients receive anetumab ravtansine IV over 1 hour on day 1 and nivolumab IV over 30 minutes on day 8 of cycle 1 and on day 1 of subsequent cycles. Patients also receive ipilimumab IV over 30 minutes on day 8 of cycle 1 and on day 1 of cycles 2-4. Treatment repeats every 21 or 28 days (cycle 1) for up to 17 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo a biopsy and collection of blood on study.\n\nARM III: Patients receive anetumab ravtansine IV over 1 hour on day 1 and nivolumab IV over 30 minutes on day 8 of cycle 1 and on day 1 of subsequent cycles. Patients also receive gemcitabine hydrochloride over 30-40 minutes on days 1 and 8. Treatment repeats every 21 or 28 days (cycle 1) for up to 17 cycles in the absence of disease progression or unacceptable toxicity. Patients also undergo a biopsy and collection of blood on study.\n\nAfter completion of study treatment, patients are followed up every 8 weeks for up to 100 days, then every 12 weeks thereafter.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT03816358",
+ "importance": 0.81,
+ "key_points_ko": [
+  "메소텔린 양성 진행성 또는 전이성 췌장암 환자 74명을 대상으로 진행되는 1상 임상시험입니다.",
+  "아네투맙 랍탄신을 면역항암제(니볼루맙, 이필리무맙) 또는 화학요법(젬시타빈)과 병용투여했을 때의 안전성과 반응률(ORR)을 평가합니다.",
+  "이전에 1가지 이상의 전신 항암 치료를 받은 환자 중 메소텔린 발현이 확인된 환자가 참여 대상입니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT03816358"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2019-01-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT03816358"
+ },
+ "summary_ko": "메소텔린(mesothelin) 양성 진행성 췌장암 환자를 대상으로 아네투맙 랍탄신(anetumab ravtansine)과 면역항암제 또는 화학요법의 병용 치료 안전성과 적정 용량을 평가하는 1상 임상시험입니다. 이전 전신 항암 치료 후 질병이 진행하였거나 부작용으로 중단한 환자를 대상으로 진행됩니다. 치료군은 아네투맙 랍탄신과 니볼루맙(nivolumab) 병용, 니볼루맙 및 이필리무맙(ipilimumab) 병용, 젬시타빈(gemcitabine) 및 니볼루맙 병용의 3개 군으로 나누어 평가합니다. 이 시험은 안전성, 부작용, 약동학적 특성 및 초기 항암 반응률을 확인하는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Testing the Combination of Anetumab Ravtansine With Either Nivolumab, Nivolumab and Ipilimumab, or Gemcitabine and Nivolumab in Advanced Pancreatic Cancer",
+ "title_ko": "진행성 췌장암 환자 대상 아네투맙 랍탄신과 니볼루맙, 이필리무맙 또는 젬시타빈 병용 요법의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Adenocarcinoma",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준: - 조직학적 또는 세포학적으로 확증된 전이성, 수술 불가능 또는 재발성 췌장암 환자 - 중앙 검사에서 메소텔린(mesothelin) 양성 발현이 확인된 환자 - 이전에 1가지 이상의 전신 항암 치료를 받고 진행했거나 부작용으로 중단한 환자 - 만 18세 이상 및 ECOG 수행능력 평가 점수 0~1점인 환자 - RECIST 1.1 기준 측정 가능한 병변이 1개 이상 있는 환자 - 조직검사가 가능한 병변이 1개 이상 있는 환자 제외 기준: - 이전에 anti-CTLA4, anti-PD1/PD-L1 등 면역항암제 치료를 받은 환자 - 이전 치료의 부작용이 회복되지 않은 환자 - 치료되지 않은 중앙신경계 전이가 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed pancreatic adenocarcinoma that is metastatic or unresectable or recurrent\n* Only subjects with positive mesothelin expression (Ventana mesothelin \\[MSLN\\]- immunohistochemistry \\[IHC\\]; Negative=H-score =\\< 10) are eligible. This is to be performed centrally. For dose escalation cohorts, patients with mesothelin expression in \\>= 5% of tumor cells are eligible. For dose expansion, patients must have moderate or strong tumor mesothelin expression defined as \\>= 30% of tumor cells with mesothelin expression of 2+/3 on immunohistochemical staining\n* Patients must be \\>= 18 years of age\n* Patients must have received and either progressed or been intolerant to at least 1 systemic therapy\n* Life expectancy of at least 3 months\n* Eastern Cooperative Oncology Group (ECOG) performance status score 0-1 (Karnofsky \\>= 80%)\n* Prior anti-cancer treatments are permitted (i.e. chemotherapy, including gemcitabine and nab-paclitaxel; radiotherapy; hormonal, or immunotherapy with the exception of anti-CTLA4, anti-PD1/PD-L1, and combination of anti-CTLA4 and anti-PD1/PD-L1) providing toxicity (except for alopecia) related to prior anti-cancer therapy and/or surgery have either resolved, improved to baseline or G1\n* At least one (1) measurable lesion at baseline by computed tomography (CT) or magnetic resonance imaging (MRI) as per RECIST version (v)1.1; measurable disease is a requirement in both dose escalation phase and dose expansion phase\n\n  * Note: Measurable lesions may be in an irradiated field as long as there is documented progression and the lesion(s) can be reproducibly measured\n* At least one lesion safely accessible for biopsy unless medically contraindicated; biopsies are mandatory both in dose escalation and in dose expansion; in dose escalation and in expansion the following biopsies are optional: at baseline and at progression; biopsy could be: core needle or excisional or punch biopsy. Irradiated lesions can be biopsied if tumor growth is confirmed\n* Patients must have archival tumor tissue for mesothelin expression and correlative biomarker studies; subjects must consent to provide tumor blocks or slides and the availability of the tissue must be confirmed prior to subjects receiving study medication; if an archived tumor specimen is unavailable or unsuitable for correlative biomarker studies, a pre-treatment fresh tumor biopsy is required\n* Women of childbearing potential (WOCBP) must have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of human chorionic gonadotropin \\[HCG\\]) within 24 hours of study enrollment or randomization; WOCBP must agree to appropriate methods of contraception for the duration of treatment and for 6 months after completion of treatment; males who are sexually active with a partner of childbearing potential must agree to appropriate methods of contraception for the duration of treatment. For all male patients, prior to treatment, advice should be sought for conserving sperm due to the chance of irreversible infertility as a consequence of treatment; genetic consultation is recommended if the patient wishes to have children after ending treatment; the investigator or a designated associate is requested to advise the patient how to achieve highly effective birth control\n\n  * Highly effective (failure rate of less than 1% per year) contraception methods include:\n\n    * Combined (estrogen and progesterone containing: oral, intravaginal, transdermal) and progesterone-only (oral, injectable, implantable) hormonal contraception associated with inhibition of ovulation\n    * Intrauterine device (IUD) or intrauterine hormone-releasing system (IUS)\n    * Bilateral tubal occlusion or vasectomized partner (provided that partner is the sole sexual partner and has received medical assessment of the surgical success)\n    * Sexual abstinence (reliability to be evaluated in relation to the duration of the clinical trial and the preferred and usual lifestyle of the patient)\n  * Male patients with a female partner of childbearing potential must use a condom and ensure that an additional form of contraception is also used during\n\n    * Note: a woman is considered WOCBP, i.e. fertile, following menarche and until becoming postmenopausal unless permanently sterile; permanent sterilization methods include but are not limited to hysterectomy, bilateral salpingectomy and bilateral oophorectomy\n  * A postmenopausal state is defined as no menses for 12 months without an alternative medical cause; a high follicle stimulating hormone (FSH) level in the postmenopausal range may be used to confirm a postmenopausal state in women not using hormonal contraception or hormonal replacement therapy; a man is considered fertile after puberty unless permanently sterile by bilateral orchiectomy\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Hemoglobin \\>= 9 g/dL\n\n  * Patients must have not had a transfusion in the 2 weeks preceding this hemoglobin (Hb) measurement\n* Total bilirubin =\\< institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic-oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 3 x institutional ULN\n* Creatinine =\\< institutional ULN OR glomerular filtration rate (GFR) \\>= 60 mL/min/1.73 m\\^2 unless data exists supporting safe use at lower kidney function values, no lower than 30 mL/min/1.73 m\\^2\n* Albumin \\>= 2.5 mg/dL\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients not recovered from clinically significant adverse events of their most recent therapy/intervention prior to enrollment. Concurrent enrollment in a non-interventional clinical study or the follow-up period of an interventional study is allowed.\n* Untreated central nervous system (CNS) metastatic disease, leptomeningeal disease, or cord compression; subjects with previously treated brain metastases may participate provided they are stable (without evidence of progression by imaging for at least six weeks prior to the first dose of trial treatment and any neurologic symptoms have returned to baseline), have no evidence of new or enlarging brain metastases, and are not using steroids for at least 14 days prior to trial treatment\n* Evidence of uncontrolled, active infection, requiring parenteral anti-bacterial, anti-viral or anti-fungal therapy (washout: 7 days prior to cycle 1 day 1 \\[C1D1\\])\n* Patients are prohibited from receiving the following therapies during the screening and treatment phase of this trial:\n\n  * Antineoplastic systemic chemotherapy or biological therapy\n  * Radiation therapy\n\n    * Note: Radiation therapy to a symptomatic solitary lesion or to the brain may be considered on an exceptional case by case basis after consultation with Cancer Therapy Evaluation Program (CTEP); the patient must have clear measurable disease outside the radiated field; administration of palliative radiation therapy will be considered clinical progression for the purposes of determining progression free survival (PFS)\n  * Live vaccines within 30 days prior to the first dose of trial treatment and while participating in the trial; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, yellow fever, rabies, Bacillus Chalmette-Guerin (BCG), typhoid (oral) vaccine, and intranasal influenza vaccines (e.g., Flu-Mist)\n* Current or prior use of systemic immunosuppressive medication (except corticosteroids at physiological doses, not exceeding 10 mg prednisone-equivalent day) within 10 days before the first dose of study medication; intranasal, inhaled, topical, or local steroid injections are allowed; steroids as premedication for hypersensitivity reactions (i.e. CT scan premedication) are allowed; systemic glucocorticoids used to modulate symptoms from an event of suspected immunologic etiology are permitted\n* Any major surgery within 4 weeks of study drug administration\n* Concomitant second malignancies (except adequately treated squamous cell carcinoma \\[SCC\\] or basal cell carcinoma \\[BCC\\] skin cancers or in situ bladder, breast or cervical cancers) within the last 3 years prior to study entry\n* Uncontrolled or significant cardiovascular disease, including but not limited to ongoing or active symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, unstable cardiac arrhythmia\n* National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v)5 \\>= grade (G)2 peripheral neuropathy (sensory or motor)\n* Patients with corneal epitheliopathy and at the discretion of the ophthalmologist any other eye disorder\n\n  * Note: Low grades of superficial punctate keratitis, within the range seen in the normal population, should not lead to the exclusion of the patient\n* Active or prior documented inflammatory bowel disease (i.e. ulcerative colitis)\n* Active or prior documented autoimmune disease within the past 2 years\n\n  * Note: subjects with vitiligo, Grave's disease, psoriasis not requiring systemic treatment or hypothyroidism (i.e. following Hashimoto syndrome) stable on hormone replacement are not excluded\n* Recent history or current evidence of bleeding disorder (i.e. any CTCAE G \\>= 2 hemorrhage/bleeding event within 28 days before the start of treatment)\n* Active human immunodeficiency virus (HIV), hepatitis B or C infection; HIV-positive patients on antiretroviral therapy with undetectable viral load will not be excluded from the trial; subjects with treated hepatitis B or C with unquantifiable viral loads and no organ compromise are not excluded\n* Any condition that, in the opinion of the investigator, would interfere with evaluation of study treatment or interpretation of patient safety or study results\n* Pregnant women are excluded from this study because of the potential for teratogenic or abortifacient effects; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother, breastfeeding should be discontinued for at least 6 months after last dose of study drugs; these potential risks may also apply to other agents used in this study; should a patient become pregnant or suspect she is pregnant while she is participating in this study, the patient should inform the treating physician immediately\n* Participants who have had prior organ transplants (i.e. renal, lung, heart) due to the potential for increased rejection with immunotherapy\n* Patients taking strong CYP3A4 inhibitors or strong CYP3A4 inducers within 2 weeks before the start of study treatment are excluded; consumption of grapefruit or its juice, and other fruit/juices which are strong CYP3A4 inhibitors within 2 weeks of study treatment is also not permitted; examples of strong CYP3A4 inhibitors include the following: indinavir, ritonavir, clarithromycin, itraconazole, ketoconazole, nefazodone, and saquinavir; examples of strong CYP3A4 inducers include the following: carbamazepine, rifampin, phenytoin, St. John's wort, and phenobarbital; these lists are not exhaustive",
+  "enrollment": 74,
+  "has_results": false,
+  "interventions": [
+   "Anetumab Ravtansine",
+   "Biopsy Procedure",
+   "Biospecimen Collection",
+   "Gemcitabine Hydrochloride",
+   "Ipilimumab",
+   "Nivolumab"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "Canada",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "other"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전에 anti-PD1/PD-L1 또는 anti-CTLA4 면역항암제 치료를 받은 경우",
+    "치료되지 않은 뇌전이가 있는 경우",
+    "이전 치료로 인한 임상적으로 유의한 부작용이 회복되지 않은 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "이전에 1가지 이상의 전신 치료를 받은 메소텔린 양성 진행성/전이성 췌장암 환자",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 45,
+  "nct_id": "NCT03816358",
+  "phase": "PHASE1",
+  "primary_completion_date": "2027-01-31",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2019-12-09",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

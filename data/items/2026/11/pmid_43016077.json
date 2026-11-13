@@ -1,0 +1,56 @@
+{
+ "abstract": "OBJECTIVE: To evaluate the clinical efficacy and tolerability of anlotinib combined with S-1 for advanced pancreatic carcinoma.\nSTUDY DESIGN: A retrospective study. Place and Duration of the Study: Department of Oncology, Zhenjiang First People's Hospital, Jiangsu, China, from January 2022 to December 2024.\nMETHODOLOGY: Fifty cases with metastatic pancreatic cancer who had received at least one line of chemotherapy were enrolled. The anlotinib group received anlotinib combined with S-1, while the chemotherapy group received S-1 alone. Tumour response evaluated according to RECIST criteria was categorised as complete response (CR), partial response (PR), stable disease (SD) and progressive disease (PD). All categorical efficacy endpoints, together with derived endpoints including objective response rate (ORR) and disease control rate (DCR), were presented as n (%). Between-group comparisons of tumour response and clinicopathological characteristics were conducted using the chi-square test. The Kaplan-Meier method was adopted for progression-free survival (PFS) analysis.\nRESULTS: Of the enrolled patients, the median age was 58 years, and 37 (74%) patients were male. Compared with the chemotherapy‑ alone group, the anlotinib group showed numerically better short-term efficacy: ORR was 5 (25.0%) vs. 3 (10.0%), DCR was 11 (55.0%) vs. 11 (36.7%). Moreover, anlotinib combination therapy conferred survival benefits. The median PFS was 4.5 months vs. 2.3 months (HR = 0.38 [95% CI: 0.21 to 0.68], p <0.05). The incidence of any-grade adverse reactions in the anlotinib group was 5 (25%), with no ≥ grade 3 adverse events reported, and no unreported safety events occurred.\nCONCLUSION: Anlotinib combined with S-1 shows favourable efficacy in the subsequent-line treatment of metastatic pancreatic cancer without increasing the risk of chemotherapy-related adverse reactions. In the context of chronic disease management, this scheme can be selected for subsequent-line treatment of metastatic pancreatic cancer.\nKEY WORDS: Pancreatic cancer, Anlotinib, S-1, Efficacy, Progression-free survival.",
+ "authors": [
+  "Wang X",
+  "Zhang T"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43016077",
+ "importance": 0.72,
+ "key_points_ko": [
+  "중앙 무진행 생존기간(PFS)은 안로티닙과 S-1 병용군이 4.5개월로, S-1 단독군의 2.3개월에 비해 유의하게 길었습니다(위험비 0.38, p < 0.05).",
+  "객관적 반응률(ORR)은 병용군 25.0%(5/20명), 단독군 10.0%(3/30명)였으며, 질병 조절률(DCR)은 병용군 55.0%(11/20명), 단독군 36.7%(11/30명)였습니다.",
+  "안로티닙 병용군에서 이상반응 발생률은 25%(5명)였으며, 3등급 이상의 중증 이상반응은 보고되지 않았습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.29271/jcpsp.2026.11.1419",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43016077"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Coll Physicians Surg Pak",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43016077/"
+ },
+ "summary_ko": "최소 1차 이상의 항암 치료를 받은 전이성 췌장암 환자 50명을 대상으로 안로티닙(anlotinib)과 S-1 병용 요법의 효과를 분석한 후향적 연구입니다. 안로티닙과 S-1을 함께 투여받은 환자군과 S-1 단독 투여 환자군을 비교했습니다. 분석 결과 병용 요법군은 단독 요법군에 비해 무진행 생존기간(PFS)을 유의하게 연장시켰습니다. 또한 중증 이상반응의 위험을 높이지 않으면서 양호한 치료 효과와 안전성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Anlotinib Plus S-1 in Advanced Pancreatic Cancer: Efficacy, Safety, and Relevance to Chronic Cancer Care",
+ "title_ko": "진행성 췌장암 환자에서 안로티닙(anlotinib)과 S-1 병용 요법의 효과 및 안전성 평가",
+ "trial": null,
+ "type": "paper"
+}

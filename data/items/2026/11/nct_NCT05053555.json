@@ -1,0 +1,117 @@
+{
+ "abstract": "Over the past three decades, the treatment of both primary and secondary liver malignancies has been improved by the development and optimization of multiple minimally invasive thermal ablative therapies. These advances have resulted in a myriad of benefits for patients including decreased morbidity, mortality, as well as increased longevity and quality of life. However, these therapies can only be performed within certain parameters. Thermal ablative techniques such as radiofrequency ablation (RFA) and microwave ablation (MVA) are recommended for small lesions under 3 cm due to decreased efficacy when attempting to treat larger lesions. Additionally, large vessels in close proximity to a target lesion may result in heat dissipation, termed the \"heat sink\" effect, and result in incomplete ablation of the lesion. Furthermore, thermal ablative techniques cause off-target damage when utilized near sensitive structures such as the diaphragm, stomach, or bowel, and if performed near thermosensitive bile ducts, can result in cholestasis . Noting these limitations, percutaneous high-dose-rate brachytherapy was brought into clinical practice by Ricke et al. in Europe in 2002 . This therapy utilizes an iridium-192 (192Ir) isotope to administer a cytotoxic dose of radiation to a target lesion. It is not susceptible to heat sink effects and can also deliver radiation with the precision necessary to cause tumor death without destroying the integrity of neighboring structures. Additionally, it can be used to treat larger tumors (\\>3cm) as it is not associated the same size limitations as ablative techniques and can also be utilized to treat lesions that are not amenable to intra-arterial therapies (such as trans-arterial chemoembolization and yttrium-90 radioembolization).\n\nSince its inception, HDRBT has been evaluated through multiple studies investigating its use to treat lesions throughout the body including both primary and secondary liver malignancies such as hepatocellular carcinoma (HCC), cholangiocarcinoma, metastasis to the liver from colorectal cancer, pancreatic cancer , melanoma , and breast cancer . Its use in treating lymph node metastases has also been investigated . These studies have demonstrated the feasibility, safety, and clinical effectiveness of this method, establishing it as a therapeutic option when use of thermal ablation therapies is restricted. Most studies however, have been retrospective and have been performed outside the United States.\n\nStudying this therapy will add a crucial treatment option to our current armamentarium, filling a gap in currently available therapies and additionally allowing for further investigation of the use of HDRBT in a larger and more diverse population.\n\nPrimary Objective\n\n-To prospectively evaluate the clinical effectiveness of the use of high dose rate brachytherapy (HDRBT) for the treatment of both primary and secondary unresectable liver malignancies assessed by comparing local tumor control (LTC) rates at 6 months with a historical cohort.\n\nSecondary Objectives\n\n* To compare local tumor control rates at 3-month intervals between cohorts for the duration of the study (3 months, 9 months, 12 months, etc.).\n* To compare overall survival (OS) and progression-free survival (PFS) between cohorts.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05053555",
+ "importance": 0.67,
+ "key_points_ko": [
+  "수술 불가능한 간 종양 환자 60명을 대상으로 고선량률 근접치료(HDRBT)의 유효성을 평가합니다.",
+  "주요 평가 지표는 치료 6개월 후의 국소 종양 제어율(LTC)을 역사적 대조군과 비교하는 것입니다.",
+  "기존의 열소멸 기술로 치료하기 어려운 3cm 이상의 큰 종양이나 주요 혈관 및 장기 인접 종양 치료를 목표로 합니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05053555"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2021-09-22",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "M.D. Anderson Cancer Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05053555"
+ },
+ "summary_ko": "이 연구는 수술이 불가능한 원발성 간암 및 췌장암 등에서 전이된 간 악성 종양 환자를 대상으로 고선량률 근접치료(HDRBT)의 임상적 유효성을 평가하는 임상시험입니다. 이리듐-192(192Ir) 동위원소를 사용하는 근접치료는 기존 열소멸술로 치료하기 어려운 3cm 이상의 큰 종양이나 혈관·장기 인접 부위의 종양을 정밀하게 치료할 수 있습니다. 연구진은 치료 후 6개월 시점의 국소 종양 제어율(LTC)을 과거 치료 환자군과 비교 검증합니다. 이 시험은 미국 M.D. 앤더슨 암센터에서 수행됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies",
+ "title_ko": "원발성 및 전이성 수술 불가능 간 악성 종양 환자를 대상으로 한 고선량률 근접치료(HDRBT)의 유효성 평가 임상시험",
+ "trial": {
+  "conditions": [
+   "Liver Malignant Tumors",
+   "Cholangiocarcinoma Metastatic",
+   "Pancreatic Cancer",
+   "Melanoma"
+  ],
+  "contacts": [
+   {
+    "email": "jdkuban@mdanderson.org",
+    "name": "Joshua Kuban",
+    "phone": "713-745-0944"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 원발성 또는 전이성 간 종양 환자\n• 수술 불가능한 간 종양이 5개 이하이며 다음 중 하나 이상에 해당하는 환자:\n  - 종양의 최대 직경이 3cm 이상인 경우\n  - 대혈관에 근접하여 위치한 경우\n  - 민감한 구조물(장, 위, 횡격막, 간피막, 간문부, 담관)에 근접한 경우\n  - 영양 공급 혈관으로의 관내 접근이 어려운 경우(저혈관성 종양)\n  - 다른 주요 장기로의 분류 비율(shunt fraction)이 큰 경우\n\n제외 기준:\n• 활동성 감염 질환이 있는 경우\n• 심부전, 불안정형 협심증, 부정맥, 간질성 폐질환 등 조절되지 않는 동반 질환이 있는 경우\n• 광범위한 다발성 전이(polymetastatic disease) 환자 (단, 통증이나 담관 폐쇄 등 국소 증상 완화 목적은 제외 가능)\n• 임신 중인 환자\n• 간기능 평가 기준 Child-Pugh C등급인 경우\n• 총 빌리루빈 2 mg/dL 초과, 혈소판 50,000/uL 미만, INR 1.5 초과인 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n* GROUP A: Patients with liver lesions must be over the age of 18\n* GROUP A: Any patient with up to five unresectable tumors that are:\n\n  * At least 3 cm (largest diameter in the axial plane)\n  * In close proximity to large blood vessels\n  * In close proximity to sensitive structures (bowel, stomach, diaphragm, liver capsule, liver hilum, bile ducts)\n  * Associated with difficult endovascular access to one or more feeding arterial branches (hypovascular tumors)\n  * Associated with a large shunt fraction to other vital organs\n* GROUP B: Historical patients who meet the above criteria for group A but did not receive HDRBT between 01/01/2000 and 1/01/2021\n\nExclusion criteria:\n\n* Active infectious disease\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, interstitial lung disease, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with polymetastatic disease with the exception of those patients who may benefit from therapy addressing local complications directly related to the target lesion diminishing quality of life such as pain, vascular/biliary occlusion, and liver disfunction\n* Pregnancy (sexually active patients must be on birth control while participating in this study)\n* Child-Pugh class C\n* Total serum bilirubin \\> 2 mg/dl\n* Platelet count \\< 50,000/ul\n* International normalized ratio (INR) \\> 1.5",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "high dose rate brachytherapy",
+   "high dose rate brachytherapy"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "활동성 감염 질환",
+    "조절되지 않는 심장·폐 질환 등 중증 동반 질환",
+    "Child-Pugh C등급의 심각한 간기능 장애",
+    "임신 중인 환자"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "수술이 불가능한 간 전이 또는 간 종양을 가진 췌장암 등 악성 종양 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "19 Years",
+  "n_locations": 1,
+  "nct_id": "NCT05053555",
+  "phase": "NA",
+  "primary_completion_date": "2027-01-31",
+  "sex": "ALL",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "start_date": "2022-04-24",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

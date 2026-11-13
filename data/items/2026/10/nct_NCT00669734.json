@@ -21,10 +21,10 @@
  "importance": 0.81,
  "key_points_ko": [
   "대상 질환은 수술로 제거할 수 없는 국소 진행성 또는 소량의 전이가 있는 췌장암 환자입니다.",
-  "중재 치료로 falimarev(PANVAC-F), inalimarev(PANVAC-V), sargramostim(rH-GM-CSF)을 사용했습니다.",
-  "목표 등록 인원은 18명이며 단계는 1상(phase 1)입니다."
+  "목표 인원은 총 18명입니다.",
+  "치료는 falimarev(PANVAC-F) 백신을 내시경 초음파(EUS) 유도하에 종양 내 직접 주사하고, inalimarev(PANVAC-V) 백신과 sargramostim을 피하 주사하는 방식으로 진행됩니다."
  ],
- "last_updated": "2026-10-25",
+ "last_updated": "2026-11-13",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT00669734"
  },
- "summary_ko": "이 1상 임상시험은 수술로 제거할 수 없는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 백신 치료와 sargramostim 병용 투여의 안전성과 최적 용량을 평가했습니다. 유전자 조작 바이러스로 만든 백신은 신체가 종양 세포를 죽이는 면역 반응을 일으키도록 돕습니다. 백신을 종양에 직접 투여하고 sargramostim을 함께 사용하면 더 강한 면역 반응을 유도할 수 있습니다. 연구의 주요 목적은 내약성 확인, 독성 평가, 종양 반응 및 면역학적 반응 평가입니다.",
+ "summary_ko": "본 1상 임상시험은 수술로 제거할 수 없는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 백신 치료(falimarev 및 inalimarev)와 sargramostim(사그라모스팀)을 병용 투여할 때의 부작용과 적정 용량을 평가합니다. 유전자 조작 바이러스로 만든 백신은 신체가 종양 세포를 파괴하는 면역 반응을 일으키도록 돕습니다. 백신을 종양에 직접 주사하고 면역 촉진제인 sargramostim을 함께 투여하여 더 강한 면역 반응을 유도하는 것을 목표로 합니다. 연구의 주요 목적은 치료의 내성 및 안전성을 확인하고 종양 반응, 면역 반응 등을 평가하는 것입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Vaccine Therapy and Sargramostim in Treating Patients With Pancreas Cancer That Cannot Be Removed By Surgery",
@@ -61,7 +61,7 @@
    "Stage IV Pancreatic Cancer AJCC v6 and v7"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: 조직학적 또는 세포학적으로 확진된 췌장암, 국소 진행성 또는 소량의 전이(간, 폐, 복막 전이 크기 및 범위 제한 있음), ECOG 수행능력 0~1, 주요 장기 기능이 기준치 이내인 환자. 제외 기준: 췌장에 대한 방사선 치료력, 4주 이내 항암화학 또는 방사선 치료력, 알려진 뇌전이, 백신 성분 또는 GM-CSF·계란 알레르기, 28주 이내 전신 코르티코스테로이드 치료, 조절되지 않는 감염이나 심장 질환 등 활성 동반 질환, 임산부 또는 수유부, HIV 및 간염 양성 환자, 면역결핍 또는 자가면역질환 병력.",
+  "eligibility_ko": "선정 기준: 조직학적 또는 세포학적으로 확진된 췌관선암(pancreatic adenocarcinoma) 환자, 근치적 절제가 불가능한 국소 진행성 또는 연구자 재량에 따른 소량의 전이성 질환, ECOG 수행능력 0~1 등. 제외 기준: 이전에 췌장에 방사선 치료를 받은 환자, 연구 등록 전 4주 이내(니트로소우레아 또는 마이토마이신 C의 경우 6주)에 화학요법이나 방사선 치료를 받은 환자, 뇌전이가 알려진 환자, 백신 성분이나 계란에 알레르기가 있는 환자 등.",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed pancreatic adenocarcinoma\n* Patients may have locally advanced disease, not amenable to curative resection; the site of pancreatic cancer must be amenable to endoscopic ultrasound (EUS) injection; patients with newly diagnosed metastatic disease of small volume may be included in the study at the investigator's discretion; such patients would be limited to those with:\n\n  * Liver involvement \\< 10% of volume and no metastasis \\> 2 cm, and/or\n  * Pulmonary involvement with no respiratory compromise and no metastasis \\> 2cm and/or\n  * Peritoneal disease and no metastasis \\> 2 cm and without ascites (as might be found on exploratory laparoscopy)\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1 (Karnofsky \\>= 80%)\n* Patients (in the opinion of the principal investigator) should be able to complete a full 3-month course of vaccination preferably with an anticipated survival of 6 months or longer\n* Leukocytes \\>= 3,000/mcL\n* Hemoglobin \\>= 8 gms/dL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin =\\< 1.5 X institutional upper limit of normal\n* Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT)(serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 X institutional upper limit of normal\n* Prothrombin time (PT)/partial thromboplastin time (PTT) within normal institutional limits\n* Amylase/lipase =\\< 1.5 X institutional upper limit of normal\n* Creatinine =\\< 1.5 X institutional upper limit of normal\n* Urine Protein =\\< grade 1 or 24-hour urine protein =\\< 1000 mg for patients with proteinuria above 1+\n* Urinalysis: No evidence of casts\n* The effects of PANVAC-V (vaccinia) and/or PANVAC-F (fowlpox) on the developing human fetus are unknown; for this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for four months following the last vaccine dose; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Patients may not have any other active illness (e.g., uncontrolled infection, uncontrolled cardiac disease) that would preclude safe therapy\n* Patients must sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients may not have had radiotherapy to the pancreas\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients may not be receiving nor have received any other investigational agents within 28 days prior to registration\n* Patients with known brain metastases should be excluded from this clinical trial\n* History of allergic reactions or severe adverse reactions attributed to compounds of similar chemical or biologic composition to PANVAC-V (vaccinia) and/or PANVAC-F (fowlpox) which include but are not limited to the viral vectors vaccinia (small pox vaccination) and fowlpox, allergy to GM-CSF or to eggs which are used for the production of the vaccine\n* Systemic corticosteroid therapy within 28 days of registration; topical steroids, steroid eye drops or inhaled steroids are contraindicated for at least 2 weeks before vaccinia vaccination and at least 4 weeks post vaccinia vaccination\n* Uncontrolled intercurrent illness including, but not limited to active infection, symptomatic congestive heart failure or documented cardiomyopathy, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements; patients with symptomatic cardiac disease or congestive heart failure who are not stable on current medications or have significant impairment of function such as class III New York Heart Association (NYHA), recent cardiac events including myocardial infarction or cerebrovascular accident within six months of entry, and/or unstable or uncontrolled arrhythmia or angina\n* Active pancreatitis defined as clinically symptomatic hyperamylasemia and/or hyperlipasemia\n* Pregnant women are excluded from this study; breast-feeding should not occur for at least 4 months following completion of therapy with the recombinant vaccine\n* Human immunodeficiency virus (HIV)-positive patients and patients with hepatitis B and C are ineligible because of likely reduced immune competence which could affect the ability to respond to the vaccine\n* Evidence of immunodeficiency or immune suppression; autoimmune diseases such as the following: autoimmune neutropenia, thrombocytopenia, or hemolytic anemia, systemic lupus erythematosus, Sjogren's syndrome, or scleroderma, myasthenia gravis, Goodpasture's syndrome, Addison's disease, Hashimoto's thyroiditis, or active Graves' disease\n* Prior or concurrent extensive eczema or acute, chronic, or exfoliative skin disorders (e.g., extensive psoriasis, burns, impetigo, or disseminated zoster, varicella zoster, severe acne, or other open rashes or wounds)\n* Unable to avoid close contact or household contact with the following high-risk individuals for 3 weeks after the PANVAC-V (vaccinia) vaccination:\n\n  * Children under the age of 3 year\n  * Pregnant or nursing women\n  * Individuals with active or a history of eczema or atopic dermatitis, or Darier's disease; those with other acute, chronic or exfoliative skin conditions (e.g., burns, impetigo, varicella zoster, severe acne, contact dermatitis, psoriasis, herpes or other open rashes or wounds) until the condition resolves\n  * Immunocompromised individuals (by disease or therapy) such as those with acquired immune deficiency syndrome (AIDS)\n* Concurrent malignancy (i.e., malignancy other than adenocarcinoma of the pancreas), unless the subject has been curatively treated and disease free for \\>= 2 years, except non-melanoma skin cancer or in-situ cervical cancer\n* Splenectomy",
   "enrollment": 18,
   "has_results": false,
@@ -71,7 +71,7 @@
    "Laboratory Biomarker Analysis",
    "Sargramostim"
   ],
-  "last_update_posted": "2026-10-23",
+  "last_update_posted": "2026-11-12",
   "location_countries": [
    "United States"
   ],
@@ -81,16 +81,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "알려진 뇌전이",
-    "조절되지 않는 심장 질환",
-    "활동성 감염 또는 HIV·간염 양성",
-    "자가면역질환 병력",
-    "임산부 또는 수유부"
+    "뇌전이가 있는 환자",
+    "활동성 감염 등 조절되지 않는 동반 질환이 있는 환자",
+    "임신부 및 수유부",
+    "HIV, B형 및 C형 간염 환자"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "수술이 불가능한 국소 진행성 또는 소량 전이 췌장암 환자",
+   "notes_ko": "수술 불가 국소 진행성 또는 소량 전이 췌장암 환자",
    "prior_excluded": [
     "radiotherapy"
    ],

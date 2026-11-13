@@ -1,0 +1,63 @@
+{
+ "abstract": "Gemcitabine(GEM)-based chemotherapy is considered the first-line regimen for pancreatic cancer(PC), but the poor responsiveness and chemoresistance greatly limit its application. Metabolic reprogramming, especially aerobic glycolysis, which is regulated by glycolytic enzymes, is closely associated with the malignant behavior of PC. Recently, triosephosphate isomerase 1(TPI1), as a key glycolytic enzyme involved in glycolysis, was reported to be increased in GEM-treated PC patients with poor outcome whereas the mechanism remains unclear. In this study, we identified vaccinia-related kinase 2 (VRK2), a serine/threonine protein kinase, which was upregulated in GEM-resistant PC cells and conferred GEM resistance by promoting TPI1-driven aerobic glycolysis. Further studies showed that phosphorylation and nuclear translocation of the transcriptional factor SP1 induced by VRK2 contributed to the interaction of SP1 with the promoter region of TPI1 and thus enhanced the transcriptional activity of TPI1. Taken together, our findings uncover a novel role for VRK2 in modulating glycolytic reprogramming and GEM-resistance, which implicates VRK2 as a potential therapeutic target in PC.",
+ "authors": [
+  "Zhu H",
+  "Xu B",
+  "Zhu R",
+  "Li J",
+  "Li Q",
+  "Qian Y",
+  "Li Z",
+  "Chen S"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43015266",
+ "importance": 0.46,
+ "key_points_ko": [
+  "VRK2는 젬시타빈 내성을 가진 췌장암 세포에서 발현이 증가되어 있습니다.",
+  "VRK2는 TPI1이 주도하는 호기성 해당작용을 촉진하여 젬시타빈 내성을 부여합니다.",
+  "VRK2에 의한 SP1의 인산화와 핵 이동은 TPI1의 전사 활성을 강화합니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1038/s41420-026-03303-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43015266"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-17",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Death Discov",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015266/"
+ },
+ "summary_ko": "젬시타빈(gemcitabine) 기반 항암화학요법은 췌장암(pancreatic cancer, PC)의 1차 치료법이지만 화학항암제 내성으로 인해 효과가 제한적입니다. 본 연구에서는 세린/트레오닌 단백질 키네이스인 VRK2(vaccinia-related kinase 2)가 젬시타빈 내성 췌장암 세포에서 발현이 증가하고 TPI1(triosephosphate isomerase 1)을 통한 호기성 해당작용을 촉진하여 내성을 유발함을 확인했습니다. 연구 결과, VRK2에 의해 유도된 전사 인자 SP1의 인산화와 핵 이동이 TPI1의 전사 활성을 높이는 것으로 나타났습니다. 이번 연구는 VRK2가 췌장암의 대사 재프로그래밍과 젬시타빈 내성을 조절하는 새로운 역할을 밝혀내어 잠재적 치료 표적임을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Vaccinia-related kinase 2 confers pancreatic cancer with gemcitabine resistance through TPI1-driven aerobic glycolysis",
+ "title_ko": "백시니아 관련 키네이스 2(VRK2)는 TPI1 유도 호기성 해당작용을 통해 췌장암에 젬시타빈 내성을 부여합니다",
+ "trial": null,
+ "type": "paper"
+}

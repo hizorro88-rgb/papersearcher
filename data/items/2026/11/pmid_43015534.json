@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Rural-dwelling patients with pancreatic cancer (PC) and a higher Social Deprivation Index (SDI) score may be less likely to receive guideline-concordant care (GCC) than patients living in urban areas. We hypothesized that SDI score and rurality would affect the receipt of GCC among patients with PC.\nMETHODS: The North Carolina Central Cancer Registry was queried to identify patients with PC from 2004 to 2019. GCC was defined by National Comprehensive Cancer Network guidelines for PC/Surveillance, Epidemiology, and End Results staging as localized disease (surgery/chemotherapy), regional disease (at least chemotherapy), or distant disease (chemotherapy and/or palliative care). Multivariable regression assessed the impact of patient-level factors, SDI score, and geographic location on the receipt of GCC.\nRESULTS: The cohort included 3595 patients with PC: 2532 (70%) urban and 1063 (30%) rural dwellers. Most had regional disease at diagnosis (n = 1871; 52%), were aged 65-79 years (n = 2021; 56%), were female (n = 1891; 53%), were non-Hispanic white (n = 2619; 73%), and had a medium SDI score (n = 1767; 49%), a Charlson Comorbidity Index score of 0 (n = 987; 27.5%), and a Frailty Index of 3+ (n = 976; 27%). GCC was received by 151 (32%) patients with localized disease, 1533 (82%) with regional, and 886 (71%) with distant disease. Across all stages, high (odds ratio [OR] 0.71; 95% confidence interval [CI] 0.55-0.92) and medium (OR 0.82; 95% CI 0.67-1.00) SDI scores were associated with a decreased likelihood of receiving GCC. Among localized patients, those with high (OR 0.43; 95% CI 0.21-0.85) and medium (OR 0.47; 95% CI 0.27-0.81) SDI scores had decreased GCC. There was no association between SDI score and GCC among patients with regionalized and distant disease. Across all stages, there was no association between GCC and geographic location.\nCONCLUSION: Social deprivation, not rurality, was associated with a decreased receipt of GCC for patients with PC. Multilevel interventions are needed to modify barriers and facilitators of GCC receipt at a state level.",
+ "authors": [
+  "Ouellette S",
+  "Kim K",
+  "Baggett CD",
+  "Allen PJ",
+  "Blazer DG",
+  "Kothari A",
+  "Clarke CN",
+  "Maduekwe UN"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43015534",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1245/s10434-026-20790-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43015534"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015534/"
+ },
+ "summary_ko": "INTRODUCTION: Rural-dwelling patients with pancreatic cancer (PC) and a higher Social Deprivation Index (SDI) score may be less likely to receive guideline-concordant care (GCC) than patients living in urban areas. We hypothesized that SDI score and rurality would affect the receipt of GCC among patients with PC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Social Deprivation, not Rurality, is Associated with Receipt of Guideline-concordant Care for Pancreatic Cancer in North Carolina, USA",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

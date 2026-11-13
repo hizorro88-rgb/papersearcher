@@ -11,6 +11,7 @@
   "Gross F"
  ],
  "categories": [
+  "drug",
   "trial",
   "treatment"
  ],
@@ -26,7 +27,12 @@
  ],
  "id": "pmid:43011677",
  "importance": 0.79,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 70명의 국소 진행성 췌장암 환자(각 군당 35명)를 대상으로 CYL-02 병용요법과 gemcitabine 단독요법을 비교했습니다.",
+  "무진행 생존기간(PFS)은 두 치료 군 간에 차이가 없었습니다.",
+  "전체 생존기간(OS)은 유전자 치료 병용군에서 더 나쁘게 나타났습니다.",
+  "CYL-02와 gemcitabine 병용은 순환 클러스터인(CLU) 수치를 유의하게 증가시켜 적응 저항성을 유발하는 것으로 나타났습니다."
+ ],
  "last_updated": "2026-11-12",
  "links": {
   "doi": "10.20517/cdr.2026.68",
@@ -50,11 +56,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43011677/"
  },
- "summary_ko": "Aim: Pancreatic ductal adenocarcinoma (PDAC) has a dismal prognosis, and innovative therapies are needed. We developed a phase I pilot, non-viral gene therapy (CYL-02) encoding SST2 and DCK::UMK genes complexed with a polyethyleneimine non-viral vector to sensitize tumours to gemcitabine chemotherapy, which showed excellent feasibility and safety.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 췌관선암(PDAC) 환자 70명을 대상으로 비바이러스성 유전자 치료제인 CYL-02와 gemcitabine 병용요법을 gemcitabine 단독요법과 비교한 무작위 다기관 2상 임상시험(NCT02806687)입니다. 1차 평가변수인 무진행 생존기간(PFS)은 두 군 간에 차이가 없었으나, 전체 생존기간(OS)은 유전자 치료 병용군에서 오히려 더 나빴습니다. 탐색적 분석 및 실험 모델을 통해 유전자 치료와 gemcitabine 병용이 치료 유도성 저항성 인자인 클러스터인(clusterin, CLU)을 증가시킨다는 사실이 확인되었습니다. 저자는 이러한 결과가 췌장암에서 저항성을 극복하기 위해 CLU를 표적 치료와 결합할 근거를 제공한다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Randomized multicentre Phase 2 clinical trial of non-viral gene therapy for pancreatic cancer: clinical and molecular findings",
- "title_ko": null,
+ "title_ko": "췌장암에 대한 비바이러스성 유전자 치료의 무작위 다기관 2상 임상시험: 임상 및 분자적 결과",
  "trial": null,
  "type": "paper"
 }

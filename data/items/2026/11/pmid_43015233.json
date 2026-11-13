@@ -1,0 +1,57 @@
+{
+ "abstract": null,
+ "authors": [
+  "Su J",
+  "Yang J",
+  "Li Q",
+  "Li N"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43015233",
+ "importance": 0.62,
+ "key_points_ko": [
+  "초록에 구체적인 환자 수나 생존기간 수치는 명시되지 않았습니다.",
+  "다학제 및 실행 과학 접근법을 통한 췌장암 동시 치료의 발전을 다루고 있습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1016/j.dld.2026.10.029",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43015233"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Dig Liver Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015233/"
+ },
+ "summary_ko": "이 논문은 췌관선암(pancreatic adenocarcinoma) 환자를 위한 동시 치료(simultaneous care)를 발전시키기 위해 다학제 및 실행 과학 접근법을 다룹니다. 의사의 시각을 넘어선 치료 개선 방안을 논의했습니다. 초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다. 본 문헌은 서신(Letter) 형식으로 발표되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond physician perspectives: advancing simultaneous care in pancreatic adenocarcinoma through multidisciplinary and implementation science approaches",
+ "title_ko": "의사의 시각을 넘어: 다학제 및 실행 과학 접근법을 통한 췌장암의 동시 치료 발전",
+ "trial": null,
+ "type": "paper"
+}

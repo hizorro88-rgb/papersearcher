@@ -1,0 +1,115 @@
+{
+ "abstract": "This phase I trial studies the side effects and best dose of gemcitabine hydrochloride and dasatinib when given together with erlotinib hydrochloride in treating patients with pancreatic cancer that has spread to other places in the body or cannot be removed by surgery. Drugs used in chemotherapy, such as gemcitabine hydrochloride, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Dasatinib and erlotinib hydrochloride may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving gemcitabine hydrochloride and dasatinib together with erlotinib hydrochloride may kill more tumor cells.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose (also phase II recommended dose) of the combination of gemcitabine (gemcitabine hydrochloride), erlotinib (erlotinib hydrochloride) and dasatinib in patients with advanced pancreatic adenocarcinoma.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the safety profile of the combination of gemcitabine, erlotinib and dasatinib.\n\nII. To evaluate the response rate and response duration of advanced pancreatic adenocarcinoma treated with dasatinib, erlotinib and gemcitabine.\n\nIII. To determine progression-free survival and overall survival for this group of patients.\n\nIV. To determine the utility of advanced magnetic resonance imaging techniques to assess in vivo effects of therapy (changes in tumor vascularity, cellularity).\n\nV. To assess the use of serum markers as predictors of response and outcome.\n\nOUTLINE: This is a dose-escalation study of gemcitabine hydrochloride and dasatinib.\n\nPatients receive gemcitabine hydrochloride intravenously (IV) over 30-60 minutes on days 1, 8, and 15, and dasatinib orally (PO) once daily (QD) and erlotinib hydrochloride PO QD on days 1-28. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up for 30 days and then every 4 weeks thereafter.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT01660971",
+ "importance": 0.81,
+ "key_points_ko": [
+  "전이성 또는 국소진행성 췌장암 환자 19명을 대상으로 병용 요법의 안전성과 최대 내약 용량을 평가하는 1상 연구입니다.",
+  "진행성 질환 치료에서 젬시타빈을 투여받지 않은 환자를 대상으로 참여 조건을 설정했습니다.",
+  "28일을 한 주기로 젬시타빈 정맥 투여와 다사티닙 및 엘로티닙 경구 복용을 병용합니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT01660971"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2012-08-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT01660971"
+ },
+ "summary_ko": "이 연구는 전이되거나 수술로 제거할 수 없는 췌장암 환자를 대상으로 gemcitabine(젬시타빈), dasatinib(다사티닙), erlotinib(엘로티닙)을 함께 투여할 때의 안전성과 권장 용량을 확인하기 위한 1상 임상시험입니다. 화학항암제인 젬시타빈과 암세포 성장 효소를 차단하는 다사티닙, 엘로티닙을 조합하여 암세포 사멸 효과를 높이고자 합니다. 연구를 통해 3가지 약물 병용 치료의 부작용, 최대 내약 용량, 치료 반응률 및 생존기간을 평가합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gemcitabine Hydrochloride, Dasatinib, and Erlotinib Hydrochloride in Treating Patients With Pancreatic Cancer That Is Metastatic or Cannot Be Removed by Surgery",
+ "title_ko": "전이성 또는 수술 불가능한 췌장암 환자를 대상으로 한 gemcitabine(젬시타빈), dasatinib(다사티닙), erlotinib(엘로티닙) 병용 요법의 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Recurrent Pancreatic Carcinoma",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 세포학적 또는 조직학적으로 진단된 전이성 또는 수술 불가능한 췌장선암 환자 (섬세포암 또는 바터팽대부암 제외)\n• RECIST 1.1 기준에 따른 측정 가능한 병변을 보유한 환자\n• 진행성 질환에 대해 젬시타빈을 포함하지 않은 이전 항암치료를 받은 환자 (보조요법으로 젬시타빈을 받은 경우 마지막 투여 후 6개월 이상 경과 필요)\n• ECOG 수행능력 평가 점수가 0~1점인 환자\n• 예상 수명이 3개월 이상인 환자\n• 경구 약물(알약)을 삼킬 수 있는 환자\n\n제외 기준:\n• 연구 시작 전 4주 이내에 항암화학요법 또는 방사선치료를 받은 환자\n• 알려진 뇌전이가 있는 환자\n• 연구 약물 성분에 대한 알레르기 반응 병력이 있는 환자\n• 조절되지 않는 감염, 심부전, 부정맥 등 심각한 동반 질환이 있는 환자\n• 약물 흡수를 방해하는 흡수 장애 증후군이 있는 환자\n• 강력한 CYP3A4 유도제 또는 억제제를 복용 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Cytologically or histologically confirmed pancreatic adenocarcinoma (excluding islet cell or ampullary tumors) that is metastatic or unresectable\n* Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Patients may have received prior chemotherapy for advanced disease as long as it did not include gemcitabine; if patients received prior adjuvant therapy including gemcitabine, patients must be \\> 6 months from the last dose of gemcitabine; patients must have recovered from side effects of prior therapy to grade =\\< 1 as measured by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.0\n* Patients may have received prior radiation presuming \\> 4 weeks since last dose and measurable disease outside the radiation field\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1\n* Anticipated life expectancy of greater than 3 months\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin \\< 2.5 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic pyruvate transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal OR =\\< 5 x institutional upper limit of normal when liver metastases are present\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Ability to understand and the willingness to sign a written informed consent document\n* Patients must be able to swallow pills\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier (with the exception of alopecia and neuropathy); no radiation is allowed on study\n* Patients who are receiving any other investigational agents\n* Major surgical procedure within 4 weeks of treatment\n* Patients with known brain metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to dasatinib, erlotinib or gemcitabine\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study, breastfeeding should be discontinued if the mother is treated with erlotinib or dasatinib\n* Patients with immune deficiency are excluded\n* Patients on potent cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) inducers and inhibitors\n* Malabsorption syndrome or other condition that would interfere with intestinal absorption\n* Other active malignancy (with the exception of locally treated non-melanoma skin cancers)\n* Human immunodeficiency virus (HIV) positive patients who are on combination antiretroviral therapy\n* Patients may not have any clinically significant cardiovascular disease including the following:\n\n  * Myocardial infarction or ventricular tachyarrhythmia within 6 months\n  * Prolonged corrected QT (QTc) \\> 480 msec (Fridericia correction)\n  * Known ejection faction less than institutional normal\n  * Major conduction abnormality (unless a cardiac pacemaker is present)",
+  "enrollment": 19,
+  "has_results": false,
+  "interventions": [
+   "Dasatinib",
+   "Erlotinib Hydrochloride",
+   "Gemcitabine Hydrochloride"
+  ],
+  "last_update_posted": "2026-11-12",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "4주 이내 항암화학요법 또는 방사선치료를 받은 경우",
+    "알려진 뇌전이가 있는 경우",
+    "조절되지 않는 감염 또는 심장 질환이 있는 경우",
+    "약물 흡수 장애 증후구가 있는 경우",
+    "다른 활성 악성 종양이 있는 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "진행성 상태에서 젬시타빈 치료를 받지 않은 전이성 또는 수술 불가능한 췌장암 환자",
+   "prior_excluded": [
+    "gemcitabine"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT01660971",
+  "phase": "PHASE1",
+  "primary_completion_date": "2017-09-06",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2012-07-30",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

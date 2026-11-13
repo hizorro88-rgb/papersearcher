@@ -20,11 +20,11 @@
  "id": "nct:NCT04951804",
  "importance": 0.74,
  "key_points_ko": [
-  "목표 환자 수는 180명입니다.",
-  "췌장암 환자의 통증 완화를 위한 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)을 비교 평가합니다.",
-  "부피바카인 병용 여부가 시술 중 및 장기적인 통증 조절에 미치는 영향을 무작위 비교합니다."
+  "목표 인원은 총 180명입니다.",
+  "대상 질환은 수술이 불가능한 췌장암입니다.",
+  "중재 방법은 부피바카인(bupivacaine)을 포함하지 않는 EUS-CPN과 포함하는 EUS-CPN의 비교입니다."
  ],
- "last_updated": "2026-11-12",
+ "last_updated": "2026-11-13",
  "links": {
   "doi": null,
   "nct": [
@@ -47,7 +47,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04951804"
  },
- "summary_ko": "이 임상시험은 췌장암 환자의 복부 통증을 조절하기 위해 시행하는 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)에서 부피바카인(bupivacaine) 주사의 효과와 안전성을 평가합니다. 180명의 췌장암 환자를 대상으로 부피바카인 없이 순수 알코올만 주사하는 경우와 부피바카인을 함께 주사하는 경우의 통증 조절 효과를 비교합니다. 췌장암 환자의 70~80%가 진단 당시 통증을 겪으며, 신경파괴술은 통증 완화와 마약성 진통제 요구량 감소에 도움을 줍니다.",
+ "summary_ko": "이 임상시험은 췌장암 환자의 통증 조절을 위해 시행하는 내시경 초음파(EUS) 유도 복강신경총 신경파괴술(EUS-CPN)에서 부피바카인(bupivacaine) 주입 여부에 따른 통증 완화 효과와 안전성을 비교합니다. 수술적 치료가 불가능하고 췌장암과 관련된 복부 또는 등 통증이 있는 180명의 환자를 대상으로 무작위 배정 비교 임상시험을 진행합니다. 부피바카인의 제외가 시술 관련 통증 감소, 장기적인 통증 조절 및 시술 안전성에 미치는 영향을 평가하는 것이 목적입니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Cancer",
@@ -58,7 +58,7 @@
   "Without Bupivacaine"
  ],
  "title": "EUS-CPN With and Without Bupivacaine",
- "title_ko": "부피바카인을 포함하거나 포함하지 않는 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)",
+ "title_ko": "부피바카인(bupivacaine) 첨가 여부에 따른 내시경 초음파 유도 복강신경총 신경파괴술(EUS-CPN)",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
@@ -70,7 +70,7 @@
     "phone": "514-890-8000"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 악성으로 보이는 췌장 종괴 또는 췌장 무릎, 몸통, 꼬리에 발생한 췌장암 확진 환자\n- 종괴와 관련이 있다고 판단되는 모든 수준의 복부 또는 등 통증 (새로운 통증 <3개월, 지속적, 중앙 위치, 등 방사 여부 무관, 다른 명백한 통증 원인 없음)\n- 수술적 치료가 불가능한 경우\n- 서면 동의서 작성\n- 내시경 초음파(EUS) 시 양측 신경파괴술을 위해 복강동맥(celiac axis) 접근이 가능한 경우\n\n제외 기준:\n- 부피바카인(bupivacaine) 알레르기",
+  "eligibility_ko": "선정 기준: \n- 췌장머리, 체부 또는 미부에 위치한 악성 의심 췌장 종대 또는 확진된 췌장암\n- 종대와 연관된 것으로 판단되는 모든 수준의 복부 또는 등 통증 (3개월 미만의 신규 발생, 지속성, 중심부 위치, 등으로의 방사 여부 무관, 다른 명확한 통증 원인 없음)\n- 수술적 치료가 불가능한 경우\n- 서면 동의서 작성\n- EUS에서 양측 신경파괴술을 위해 복강동맥(celiac axis) 접근이 가능한 경우\n\n제외 기준: \n- 부피바카인(bupivacaine)에 대한 알레르기",
   "eligibility_text": "Inclusion Criteria:\n\n1. Malignant-appearing pancreatic mass, or proven pancreatic cancer involving the pancreatic genu, body, or tail\n2. Any level of abdominal or back pain considered to be potentially related to the mass:\n\n   1. New onset pain (\\<3 months)\n   2. Constant\n   3. Centrally located\n   4. With or without irradiation to the back\n   5. No obvious other source of pain based on history and physical examination by the attending endosonographer\n3. No possibility of surgical management\n4. Signed, informed consent\n5. Celiac axis accessible for bilateral neurolysis at EUS.\n\nExclusion Criteria:\n\n1\\. Allergy to bupivacaine",
   "enrollment": 180,
   "has_results": false,
@@ -93,7 +93,7 @@
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "수술이 불가능하고 복부 또는 등 통증이 있는 췌장암 환자",
+   "notes_ko": "수술적 치료가 불가능하며 췌장암 관련 통증이 있는 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Computed tomography (CT) stages pancreatic ductal adenocarcinoma (PDAC) but does not read out the treatment-guiding tumour biology, requiring biopsy. Whether an imaging-biology relationship discovered in preclinical MRI holds independently in human CT is unknown.\nMETHODS: One pipeline was applied to two PDAC cohorts: longitudinal 9.4 T multi-parametric MRI (169 sessions; 1002 image series, 471 quantitative maps) with terminal histopathology in male C57BL/6 mice bearing orthotopic KPC-derived tumours treated with gemcitabine, a dendritic-cell vaccine, both, or neither, and abdominal CT with matched proteogenomics from CPTAC-PDA. Radiomics and frozen foundation-model embeddings were modelled under grouped cross-validation against five pre-specified paired endpoints, with no cross-species transfer of features, weights, or labels.\nFINDINGS: Applied independently, the pipeline recovered four matched molecular endpoints in both species (CD8 infiltration, stromal collagen, CD8:CD68 immune balance, cytolytic activity), with areas under the receiver-operating-characteristic curve (AUROCs) of 0.938-0.960 in mice and 0.780-0.856 in humans. Survival concordance indices were 0.729 and 0.689. After adjustment for age, stage, and grade, the human imaging score remained independently prognostic (hazard ratio 1.87 per SD, 95% CI 1.32 to 2.66; p < 0.001 [Wald test]; combined concordance index 0.726 versus 0.611 for clinical covariates). Findings held in portal-venous-restricted analysis; frozen embeddings outperformed end-to-end fine-tuning in both arms.\nINTERPRETATION: One pipeline recovered matched PDAC biology in mouse MRI and human CT, supporting preclinical imaging to nominate non-invasive CT biomarker candidates for biopsy-sparing PDAC trial stratification, pending prospective external validation.\nFUNDING: National Cancer Institute; Society of Interventional Radiology Foundation; University of California Irvine Anticancer Challenge Pilot grant.",
+ "authors": [
+  "Yu G",
+  "Zhang Z",
+  "Eresen A",
+  "Hou Q",
+  "Wei P",
+  "Hou X",
+  "Tian L",
+  "Webster S"
+ ],
+ "categories": [
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43013920",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1016/j.ebiom.2026.106545",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43013920"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "EBioMedicine",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013920/"
+ },
+ "summary_ko": "BACKGROUND: Computed tomography (CT) stages pancreatic ductal adenocarcinoma (PDAC) but does not read out the treatment-guiding tumour biology, requiring biopsy. Whether an imaging-biology relationship discovered in preclinical MRI holds independently in human CT is unknown.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Foundation-model imaging biomarkers for pancreatic cancer: cross-species discovery of conserved tumour biology in mouse MRI and human CT",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

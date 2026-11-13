@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Ductal adenocarcinoma of the pancreas is among the most lethal neoplasms of the digestive tract. It is frequently diagnosed at advanced stages and associated with limited overall survival, even after surgical resection with curative intent. Although pathological staging is fundamental for prognostic stratification, patients with similar anatomical stages may have distinct clinical outcomes, suggesting that additional histopathological factors influence disease evolution.\nAIMS: This study aimed to assess the prognostic impact of histopathological variables on the overall survival of patients with ductal adenocarcinoma of the pancreas who underwent surgical resection, with emphasis on lymph node involvement and angiolymphatic invasion.\nMETHODS: This observational, retrospective study included patients who underwent surgical resection for ductal adenocarcinoma of the pancreas at a tertiary hospital between 2017 and 2024. Clinical, anatomopathological, and therapeutic data were obtained by reviewing medical records and histopathological reports. Overall survival was estimated using the Kaplan-Meier method, and prognostic factors were analyzed using univariate and multivariate Cox regression models.\nRESULTS: A total of 58 patients were included. Lymph node metastases were identified in approximately half of the cases, and angiolymphatic invasion was frequently observed. During follow-up, more than half of the patients died. The median overall survival was 19.63 months. In the univariate analysis, lymph node involvement, lymph node ratio, extranodal extension, and angiolymphatic invasion were associated with worse overall survival. In the multivariate analysis, lymph node status maintained an independent association with worse prognosis, with a progressive increase in risk according to nodal stage, as did angiolymphatic invasion.\nCONCLUSIONS: Lymph node involvement and angiolymphatic invasion are independent prognostic factors associated with worse overall survival in resected ductal adenocarcinoma of the pancreas. Systematic evaluation of these histopathological variables can support better prognostic stratification, helping individualize postoperative treatment.\nCENTRAL MESSAGE: Histopathological findings, particularly angiolymphatic invasion and lymph node involvement, are associated with reduced overall survival in resected ductal adenocarcinoma of the pancreas, reflecting the impact of tumor biology beyond traditional staging.\nPERSPECTIVES: The systematic incorporation of qualitative histopathological variables, such as the presence of angiolymphatic invasion and characteristics of lymph node involvement, may improve prognostic stratification of patients with ductal adenocarcinoma of the pancreas. These variables can help identify higher-risk subgroups among patients with similar pathological stages, supporting follow-up and adjuvant treatment individualization. Further studies are needed to validate their application in clinical practice.",
+ "authors": [
+  "Soares EV",
+  "Toaza E",
+  "Cambruzzi E"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-13",
+ "history": [
+  {
+   "date": "2026-11-13",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43017946",
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술적 절제를 받은 췌장관선암 환자 58명의 중앙 전체 생존기간(OS)은 19.63개월이었습니다.",
+  "다변량 분석 결과 림프절 전이 병기가 진행할수록, 그리고 혈관림프관 침윤(angiolymphatic invasion)이 있을 때 사망 위험이 독립적으로 증가했습니다.",
+  "단변량 분석에서는 림프절 전이, 림프절 비율, 림프절 외 침범(extranodal extension), 혈관림프관 침윤 모두 생존율 저하와 관련이 있었습니다."
+ ],
+ "last_updated": "2026-11-13",
+ "links": {
+  "doi": "10.1590/0102-672020260000055e1984",
+  "nct": [],
+  "pmcid": "PMC13750534",
+  "pmid": "43017946"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Arq Bras Cir Dig",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017946/"
+ },
+ "summary_ko": "이 연구는 2017년부터 2024년까지 근치적 절제 수술을 받은 췌장관선암(PDAC) 환자 58명을 대상으로 조직병리학적 요인이 생존율에 미치는 영향을 분석했습니다. 분석 결과 대상 환자들의 중앙 전체 생존기간(OS)은 19.63개월이었습니다. 다변량 분석에서는 림프절 전이 상태와 혈관림프관 침윤(angiolymphatic invasion)이 생존 기간을 단축시키는 독립적인 예후 요인으로 확인되었습니다. 연구진은 이러한 병리학적 소견을 종합적으로 평가하는 것이 수술 후 보조 치료를 개별화하는 데 도움을 줄 수 있다고 설명했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Histopathological findings associated with prognosis in resected ductal adenocarcinoma of the pancreas",
+ "title_ko": "절제 수술을 받은 췌장관선암 환자의 예후와 관련된 조직병리학적 소견",
+ "trial": null,
+ "type": "paper"
+}
