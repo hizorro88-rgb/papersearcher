@@ -1,0 +1,97 @@
+{
+ "abstract": "This clinical trial studies whether personalized education and genetic counseling increases genetic testing in patients with a known family history of pancreatic cancer. Approximately 10% of pancreatic cancer cases are genetically linked and therefore, if a gene is found that could put a patient at risk, it could guide the patient to obtain more frequent screening for pancreatic cancer and possibly detect it earlier when it is more treatable. The current National Comprehensive Cancer Network (NCCN) guidelines suggest patients with a first-degree relative (parent, sibling, child) with pancreatic cancer be referred for a genetics consultation to discuss genetic testing if the affected family member cannot be tested. Personalized education is based on the patient's family history of pancreatic cancer and offers information regarding the current NCCN guidelines. This may be an effective method to increase patients' understanding of their pancreatic cancer risk and the NCCN guidelines. Genetic counseling is provided by an expert in hereditary disorders. The patient's family and personal medical history may be discussed, and counseling may lead to genetic testing. Personalized education and genetic counseling may increase genetic testing in patients with a known family history of pancreatic cancer.\n\nPRIMARY OBJECTIVES:\n\nI. Perform Housing-Based Socioeconomic Status (HOUSES) index analysis on 500 patients with a first-degree relative diagnosed with pancreatic cancer to see if there is a correlation with the National Comprehensive Cancer Network (NCCN) criteria.\n\nII. Offer 40 patients who did not have appropriate NCCN intervention the opportunity to have a genetic consultation (to consider genetic testing).\n\nIII. Survey patients on their knowledge and experiences of genetic testing based on family history and their decision-making when offered genetic counseling and testing.\n\nOUTLINE:\n\nPatients receive a personalized message through the Mayo portal (EPIC) with education on the NCCN guidelines for genetic counseling and an offer for standard of care (SOC) genetic counseling. Patients then receive pre-genetic test counseling on study. Patients may then optionally undergo SOC genetic testing and collection of blood or saliva samples as well as receive post-genetic test counseling on study.",
+ "authors": [],
+ "categories": [
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06744595",
+ "importance": 0.71,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06744595"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2024-12-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mayo Clinic",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06744595"
+ },
+ "summary_ko": "This clinical trial studies whether personalized education and genetic counseling increases genetic testing in patients with a known family history of pancreatic cancer. Approximately 10% of pancreatic cancer cases are genetically linked and therefore, if a gene is found that could put a patient at risk, it could guide the patient to obtain more frequent screening for pancreatic cancer and possibly detect it earlier when it is more treatable.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Carcinoma"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* First-degree relative with pancreatic cancer listed in the EPIC family history tool\n* Active patient at Mayo Clinic Florida (MCF) (visits within 1/1/2023-12/31/2023 to Family Medicine and/or Gastroenterology and Hepatology)\n\nExclusion Criteria:\n\n* Patients not meeting the inclusion criteria as defined above\n* Patients with an active or past history of pancreatic cancer\n* Patients who are pregnant or breastfeeding",
+  "enrollment": 41,
+  "has_results": false,
+  "interventions": [
+   "Biospecimen Collection",
+   "Educational Intervention",
+   "Electronic Health Record Review",
+   "Genetic Counseling",
+   "Genetic Testing for Cancer Risk",
+   "Survey Administration"
+  ],
+  "last_update_posted": "2026-11-13",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06744595",
+  "phase": "NA",
+  "primary_completion_date": "2026-05-26",
+  "sex": "ALL",
+  "sponsor": "Mayo Clinic",
+  "start_date": "2025-02-12",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

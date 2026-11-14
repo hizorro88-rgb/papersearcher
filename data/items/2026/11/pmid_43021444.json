@@ -1,0 +1,62 @@
+{
+ "abstract": "INTRODUCTION: Erianin is a natural benzyl compound extracted from Dendrobium drumbium. However, the mechanism of action of Erianin against pancreatic cancer (PC) is still unclear. The aim of this study was to systematically elucidate the therapeutic potential of Erianin in PC and its molecular mechanisms.\nMETHODS: The potential therapeutic targets of Erianin in the treatment of PC were identified through online databases. The GeneMANIA database was used to expand the network pharmacology (NP) analysis results. The \"Clinical Home\" platform and GEPIA2 database were used to clarify the clinical significance of the key targets. Furthermore, protein-protein interaction (PPI), molecular docking, kinetic simulation, and enrichment analysis were used to predict the core targets and potential mechanisms of Erianin against PC. Finally, NP prediction results were confirmed by in vitro cell experiments.\nRESULTS: A total of 10 hub genes, such as ESR1, HSP90AA1, HIF1A, ERBB2, ALB, NFKB1, SRC, PIK3CA, PPARG, and HARS, were identified by functional association of NP using the gene- MANIA database (GMFA). These targets were significantly enriched in PI3K-Akt and MAPK signaling pathways, and Erianin had a strong binding ability with key targets. In vitro experiments showed that Erianin significantly inhibited the proliferation, migration, and invasion of PC cells. The expression of hub genes was downregulated by Erianin, and Erianin inhibited the activation of the PI3K/AKT/MAPK pathway.\nDISCUSSION: In the PI3K-Akt signaling pathway, in addition to core targets, related genes such as IRS1, GRB2, and HRAS were additionally identified, further refining the target network through which erianin exerts its antitumor effects via this pathway. Cell-level experimental results strongly validated the predictions from network pharmacology and bioinformatics. CCK8 proliferation assays, colony formation assays, wound healing assays, and Transwell invasion assays showed that Erianin significantly inhibited the proliferation, migration, and invasion abilities of pancreatic cancer cells in a dose-dependent manner. qRT-PCR results revealed that Erianin could downregulate the expression levels of multiple key genes, such as HSP90AA1, CCND1, and ERBB2, which are closely associated with the previously predicted targets and signaling pathways.\nCONCLUSION: Erianin exerted a multi-target effect against PC through the PI3K/Akt/MAPK signaling pathway and the key genes PIK3CA, HIF1A, and ERBB2, providing a theoretical basis for further clinical research on Erianin.",
+ "authors": [
+  "Ye Y",
+  "Feng G",
+  "Shu Q",
+  "Wang Q",
+  "Gao B",
+  "Chen Z",
+  "Li J",
+  "Li Q"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43021444",
+ "importance": 0.47,
+ "key_points_ko": [
+  "네트워크 약리학 분석 결과 ESR1, HSP90AA1, HIF1A, ERBB2, PIK3CA 등 10개 핵심 유전자가 에리아닌의 치료 표적으로 동정되었습니다.",
+  "에리아닌은 췌장암 세포의 PI3K/Akt 및 MAPK 신호 전달 경로 활성화를 억제했습니다.",
+  "체외 세포 실험에서 에리아닌은 췌장암 세포의 증식, 이동, 침윤 능력을 농도 의존적으로 유의하게 억제했습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.2174/0113894501441922260114103003",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43021444"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-01-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Drug Targets",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021444/"
+ },
+ "summary_ko": "본 연구는 석곡(Dendrobium)에서 추출한 천연 화합물인 에리아닌(Erianin)의 췌장암 치료 가능성과 분자 기전을 규명하고자 진행되었습니다. 네트워크 약리학 분석을 통해 PIK3CA, HIF1A, ERBB2 등 10개의 핵심 표적 유전자와 PI3K-Akt 및 MAPK 신호 전달 경로가 관련되어 있음을 예측했습니다. 체외(in vitro) 세포 실험 결과, 에리아닌은 췌장암 세포의 증식, 이동 및 침윤을 농도 의존적으로 유의하게 억제했습니다. 또한 핵심 유전자 발현을 감소시키고 PI3K/AKT/MAPK 경로의 활성화를 억제하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Multi-targeted Mechanisms of Erianin against Pancreatic Ductal Adenocarcinoma: Integrative Network Pharmacology, Bioinformatics, and Experimental Validation",
+ "title_ko": "췌장관선암에 대한 에리아닌(Erianin)의 다중 표적 기전: 네트워크 약리학, 생물정보학 및 실험적 검증 통합 연구",
+ "trial": null,
+ "type": "paper"
+}

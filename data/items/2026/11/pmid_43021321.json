@@ -1,0 +1,56 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is one of the most aggressive human tumors with an extremely poor prognosis. The tumor microenvironment is characterized by a complex network of cellular interactions, in which cancer-associated fibroblasts (CAFs) play a pivotal role in the initiation and progression of the disease. Previously identified somatic cancer-associated fibroblast (CAF) mutations may have functional consequences thereby affecting pancreatic cancer biology. One of the identified mutations of the fibroblast growth factor binding protein 2 gene (FGFBP2) causes replacement from threonine to serine (p.T186S). The aim of this study was to investigate how this mutation may affect fibroblast function, the tumor microenvironment and cancer progression.\nMETHODS: FGFBP2 p.T186S mutation harboring fibroblasts (FGFBP2MUT) and wild-type fibroblasts (FGFBP2WT) were analyzed for activation markers, viable cell numbers, and migration. PANC-1 pancreatic cancer cells were incubated with conditioned media from FGFBP2MUT and FGFBP2WT fibroblasts to assess viable cell numbers and signaling pathway activation. RNA sequencing was performed to identify differentially expressed genes. Furthermore, publicly available single-cell RNA sequencing and spatial transcriptomic datasets were analyzed to explore downstream molecular mechanisms.\nRESULTS: FGFBP2 p.T186S mutation harboring cells (FGFBP2MUT) displayed increased expression of activation markers and cytokines as compared to controls. FGFBP2MUT cells exhibited increased viable cell numbers and migration. Further, conditioned medium derived from FGFBP2MUT promoted growth of the pancreatic cancer cell line PANC-1 and resulted in increased activation of the ERK1/2 signaling pathway. RNA sequencing analysis of PANC-1 cells treated with conditioned media derived from FGFBP2MUT revealed upregulation of the ETS homologous factor (EHF) gene. Single-cell RNA sequencing analysis showed that EHF was primarily expressed in tumor cells and regulated fibroblasts through the platelet-derived growth factor (PDGF) signaling pathway. In addition, spatial transcriptomic analysis revealed a correlation between EHF expression and CAF markers ACTA2, POSTN, and COL1A1.\nCONCLUSIONS: Our study shows that the FGFBP2 p.T186S point mutation promotes fibroblast activation potentially influencing tumor progression by increasing the viable cell population of pancreatic cancer cells.",
+ "authors": [
+  "Wu X",
+  "Zhang B",
+  "Shen Y",
+  "Chen Y",
+  "Trojanowicz B",
+  "Sunami Y",
+  "Kleeff J"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43021321",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1186/s12967-026-09137-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43021321"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021321/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic cancer is one of the most aggressive human tumors with an extremely poor prognosis. The tumor microenvironment is characterized by a complex network of cellular interactions, in which cancer-associated fibroblasts (CAFs) play a pivotal role in the initiation and progression of the disease.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "FGFBP2 p.T186S mutation in tumor associated fibroblasts supports progression of pancreatic cancer through autocrine and paracrine mechanisms",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

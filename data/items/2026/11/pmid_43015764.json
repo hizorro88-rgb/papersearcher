@@ -31,12 +31,16 @@
  ],
  "id": "pmid:43015764",
  "importance": 0.85,
- "key_points_ko": [],
- "last_updated": "2026-11-13",
+ "key_points_ko": [
+  "총 52개 연구 및 79,446명의 수술 받은 췌관선암 환자 데이터를 메타분석했습니다.",
+  "수술 후 보조 항암치료는 사망 위험을 48% 감소시켜 생존율을 크게 개선했습니다(위험비[HR] 0.52).",
+  "고령(HR 2.17), 높은 CRP/Alb 비율(HR 2.05), 췌십이지장절제술(PD) 대 원위부 췌절제술(DP)(HR 1.76), 절제 단면 양성(HR 1.73), 림프절 전이(HR 1.68) 등이 사망 위험을 높이는 주요 다변량 예후 인자로 나타났습니다."
+ ],
+ "last_updated": "2026-11-14",
  "links": {
   "doi": "10.1186/s12893-026-04105-6",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13756980",
   "pmid": "43015764"
  },
  "pub_types": [
@@ -55,11 +59,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43015764/"
  },
- "summary_ko": "BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "근치적 절제술을 받은 췌관선암(PDAC) 환자 79,446명을 대상으로 한 52개 연구를 분석하여 전체 생존기간(OS)에 영향을 주는 예후 인자를 확인했습니다. 다변량 메타분석 결과, 고령, 남성, 높은 CA19-9 수치, 호중구 대 림프구 비율(NLR) 및 CRP 대 알부민 비율(CRP/Alb) 상승, 혈관 침윤, 절제 단면 양성, 분화도 불량, 진행된 T 병기, 림프절 전이가 불량한 생존율과 연관되었습니다. 반면 수술 후 보조 항암치료는 생존율을 크게 개선하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis",
- "title_ko": null,
+ "title_ko": "수술 가능한 췌장암의 예후 인자: 체계적 문헌 고찰 및 메타분석",
  "trial": null,
  "type": "paper"
 }

@@ -16,12 +16,84 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 184건 · 최근 30일 137건
+전체 187건 · 최근 30일 131건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43024239"></a>
+#### [Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+`논문` `3상` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+
+IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerability of Tumor Treating Fields (TTFields) therapy concomitant with gemcitabine and nab-paclitaxel, but understanding the impact of TTFields therapy on quality of life (QoL) and pain is important for clinical decision-making. OBJECTIVE: To analyze the impact of TTFields therapy concomitant with gemcitabine and nab-paclitaxel on QoL and pain outcomes using prospective data from PANOVA-3.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
+
+---
+<a id="pmid-43013127"></a>
+#### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
+<small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
+
+이 연구는 췌장암 환자에서 노인 영양 위험 지수(Geriatric Nutritional Risk Index, GNRI)와 전체 생존기간(OS)의 연관성을 체계적으로 평가하기 위해 수행되었습니다. 총 18개의 관찰 연구가 포함되었고 그중 13개 연구가 메타분석에 활용되었습니다. 분석 결과, GNRI에 따른 높은 영양 위험은 현저하게 불량한 전체 생존기간과 연관이 있었습니다. 초록에 명시되지 않음
+
+- GNRI로 평가한 높은 영양 위험은 췌장암 환자의 불량한 전체 생존기간(OS)과 유의한 연관성을 보였습니다(통합 위험비 HR=1.79, 95% 신뢰구간: 1.42-2.26).
+- 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755016/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
+
+---
+<a id="nct-nct05053555"></a>
+#### [원발성 및 전이성 절제 불가능 간 악성 종양 치료를 위한 고선량률 근접치료](https://clinicaltrials.gov/study/NCT05053555)
+<small>High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies</small>
+
+`임상시험` `기타` `치료 전반` `수술` `지지요법·삶의질` · 2021-09-22 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.67
+
+**NCT05053555** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053555.md)
+
+본 임상시험은 절제 불가능한 원발성 및 전이성 간 악성 종양 환자를 대상으로 경피적 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)의 임상적 유효성을 평가합니다. 기존의 열소작술로 치료하기 어려운 큰 종양, 주요 혈관이나 민감한 구조물 인근의 종양을 가진 환자들을 대상으로 합니다. 역사적 코호트와의 비교를 통해 6개월 시점의 국소 종양 제어율(local tumor control, LTC), 전체 생존기간(OS), 무진행 생존기간(PFS)을 평가합니다. M.D. Anderson Cancer Center에서 진행 중이며 목표 인원은 60명입니다.
+
+- 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)는 iridium-192 동위원소를 이용해 병변에 방사선을 조사합니다.
+- 3cm 이상의 큰 종양이나 열소작술이 어려운 위치의 종양 치료를 위해 연구됩니다.
+- 1차 목표는 역사적 코호트와 비교하여 6개월 시점의 국소 종양 제어율(LTC)을 평가하는 것입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05053555) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053555)</small>
+
+---
+<a id="nct-nct04905082"></a>
+#### [유전체학에 대한 암 환자의 지식 향상을 위한 HOPE-Genomics 중재 연구](https://clinicaltrials.gov/study/NCT04905082)
+<small>HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics</small>
+
+`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2021-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.61
+
+**NCT04905082** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04905082.md)
+
+이 임상시험은 웹 기반 암 교육 도구인 HOPE-Genomics가 개인 유전체 검사 결과와 암 및 유전체학 전반에 대한 환자의 지식을 향상시키는 데 얼마나 효과적인지 평가합니다. 폐암, 유방암, 대장암, 췌장암, 난소암 또는 전립선암 환자 465명을 대상으로 하며, 표준 치료, 결과 반환만 제공하는 군, 결과 반환과 사전 교육을 함께 제공하는 3개 군으로 무작위 배정됩니다. 본 연구는 유전체학에 대한 환자의 지식과 진료 지침 순응도 향상을 목표로 합니다. 환자들은 결과 수령 후 2주, 3개월, 9개월 뒤에 추적 관찰을 받습니다.
+
+- 웹 기반 교육 도구인 HOPE-Genomics가 암 환자의 유전체학 지식 향상에 미치는 효과를 평가합니다.
+- 총 465명의 환자가 표준 치료(ARM I), 결과 반환 전용(ARM II), 결과 반환 플러스 사전 교육(ARM III)의 3개 군으로 무작위 배정됩니다.
+- 연구 참여자는 유전체 검사 결과 수령 후 2주, 3개월, 9개월째에 추적 관찰을 받습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
+
+---
+<a id="pmid-43023164"></a>
+#### [반복적인 다발성 혈전색전증을 초기 증상으로 보인 췌장선암 및 비세균성 혈전성 심내막염 의증 증례](https://pubmed.ncbi.nlm.nih.gov/43023164/)
+<small>Recurrent Multi-territory Thromboembolism As the Initial Presentation of Pancreatic Adenocarcinoma and Suspected Nonbacterial Thrombotic Endocarditis</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-11-12 · PubMed · Cureus · 중요도 0.57
+
+본 연구는 다발성 혈전증을 첫 증상으로 하여 췌장암을 진단하게 된 74세 여성 환자의 증례입니다. 환자는 심부정맥 혈전증, 뇌경색, 폐색전증, 급성 사지 허혈이 잇따라 발생했습니다. 심초음파에서 승모판 증식물이 발견되었으나 repeated 배양 검사는 모두 음성이었습니다. 좌측 쇄골위 임파선 조직검사를 통해 전이성 췌장선암(췌관선암)을 확진하였으며, 비세균성 혈전성 심내막염(NBTE)으로 최종 판단했습니다.
+
+- 74세 여성 환자 1명에서 심부정맥 혈전증, 뇌경색, 폐색전증 등 반복적인 동·정맥 혈전색전증이 진단 전 발생했습니다.
+- 심초음파에서 승모판 증식물이 확인되었으나 혈액 및 혈전 추출물 배양 검사는 음성이었습니다.
+- 좌측 쇄골위 임파선 조직검사를 통해 광범위 전이성 췌장선암으로 최종 확진되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43023164/) · [DOI](https://doi.org/10.7759/cureus.119560) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13759170/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43023164)</small>
+
+---
 <a id="pmid-43014597"></a>
 #### [PRSS1 유전자 변이 관련 유전성 췌장염의 자연 경과 및 췌장암 위험: 전국 단위 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/43014597/)
 <small>Natural history and pancreatic cancer risk in PRSS1-associated hereditary pancreatitis: a nationwide cohort</small>
@@ -89,47 +161,50 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT07608458) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07608458)</small>
 
 ---
-<a id="nct-nct05053555"></a>
-#### [원발성 및 전이성 수술 불가능 간 악성 종양 환자를 대상으로 한 고선량률 근접치료(HDRBT)의 유효성 평가 임상시험](https://clinicaltrials.gov/study/NCT05053555)
-<small>High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies</small>
+<a id="pmid-43015534"></a>
+#### [미국 노스캐롤라이나주 췌장암 환자의 지침 준수 치료 수령에는 시골 거주 여부가 아닌 사회적 박탈감이 영향을 미침](https://pubmed.ncbi.nlm.nih.gov/43015534/)
+<small>Social Deprivation, not Rurality, is Associated with Receipt of Guideline-concordant Care for Pancreatic Cancer in North Carolina, USA</small>
 
-`임상시험` `기타` `치료 전반` `수술` `지지요법·삶의질` · 2021-09-22 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.67
+`논문` `관찰연구` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-11-11 · PubMed · Ann Surg Oncol · 중요도 0.69
 
-**NCT05053555** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053555.md)
+2004년부터 2019년까지 노스캐롤라이나 암 등록부 데이터를 바탕으로 췌장암 환자 3,595명의 가이드라인 준수 치료(GCC) 수령 여부를 분석한 관찰 연구입니다. 거주 지역의 시골 여부(지리적 위치)는 가이드라인 준수 치료 수령과 통계적 연관성을 보이지 않았습니다. 반면 사회적 박탈 지수(SDI)가 높은 환자일수록 가이드라인에 따른 표준 치료를 받을 확률이 유의하게 낮았습니다. 특히 초기 국소 췌장암 환자에서 높은 사회적 박탈 지수가 지침 준수 치료 수령 감소와 가장 강한 연관성을 보였습니다.
 
-이 연구는 수술이 불가능한 원발성 간암 및 췌장암 등에서 전이된 간 악성 종양 환자를 대상으로 고선량률 근접치료(HDRBT)의 임상적 유효성을 평가하는 임상시험입니다. 이리듐-192(192Ir) 동위원소를 사용하는 근접치료는 기존 열소멸술로 치료하기 어려운 3cm 이상의 큰 종양이나 혈관·장기 인접 부위의 종양을 정밀하게 치료할 수 있습니다. 연구진은 치료 후 6개월 시점의 국소 종양 제어율(LTC)을 과거 치료 환자군과 비교 검증합니다. 이 시험은 미국 M.D. 앤더슨 암센터에서 수행됩니다.
+- 전체 췌장암 환자 3,595명 중 국소 병기 환자의 32%, 구역 병기의 82%, 원격 전이 병기의 71%가 가이드라인 준수 치료를 받았습니다.
+- 높은 사회적 박탈 지수(SDI)를 가진 환자는 전체 병기에서 가이드라인 준수 치료를 받을 확률이 29% 낮았습니다(위험비 0.71, 95% 신뢰구간 0.55-0.92).
+- 거주 지역의 시골 여부는 모든 병기에서 가이드라인 준수 치료 수령 여부와 통계적 연관성을 보이지 않았습니다.
 
-- 수술 불가능한 간 종양 환자 60명을 대상으로 고선량률 근접치료(HDRBT)의 유효성을 평가합니다.
-- 주요 평가 지표는 치료 6개월 후의 국소 종양 제어율(LTC)을 역사적 대조군과 비교하는 것입니다.
-- 기존의 열소멸 기술로 치료하기 어려운 3cm 이상의 큰 종양이나 주요 혈관 및 장기 인접 종양 치료를 목표로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05053555) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053555)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015534/) · [DOI](https://doi.org/10.1245/s10434-026-20790-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015534)</small>
 
 ---
 <a id="nct-nct04907643"></a>
-#### [Virtual Reality for GI Cancer Pain to Improve Patient Reported Outcomes](https://clinicaltrials.gov/study/NCT04907643)
+#### [환자 보고 결과 개선을 위한 위장관암 통증 대상 가상현실(VR) 치료 연구](https://clinicaltrials.gov/study/NCT04907643)
+<small>Virtual Reality for GI Cancer Pain to Improve Patient Reported Outcomes</small>
+
 `임상시험` `기타` `지지요법·삶의질` `치료 전반` `신경내분비종양` · 2021-06-01 · ClinicalTrials.gov · Cedars-Sinai Medical Center · 중요도 0.67
 
 **NCT04907643** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04907643.md)
 
-Patients with digestive tract malignancy often experience severe and unremitting abdominal pain that negatively affects physical, emotional, and social function, as well as health related quality of life (HRQOL). Therapeutic virtual reality (VR) has emerged as a promising and evidence-based treatment modality for cancer pain.
+췌장암을 포함한 위장관암 환자의 암성 복부 통증을 관리하기 위해 가상현실(VR) 기술의 치료 효과를 평가하는 임상시험입니다. 총 360명의 환자를 기술 기반 VR, 분산형 VR, 모조(Sham) VR 3개 군으로 무작위 배정하여 60일간 추적 관찰했습니다. 환자들은 4주간 매일 VR 기기를 사용하고 착용형 기기를 통해 신체 활동 데이터를 수집했습니다. 연구진은 VR 치료가 통증 수치, 일상 활동, 마약성 진통제(오피오이드) 사용량 개선에 미치는 영향을 분석했습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT04907643) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04907643)</small>
+- 위장관암 환자 360명을 대상으로 기술 기반 VR, 분산형 VR, 모조 VR 3개 군으로 나누어 60일간 통증 완화 효과를 비교했습니다.
+- 참여 환자는 4주 동안 매일 VR 기기를 사용하며 Fitbit 착용을 통해 걸음 수와 수면 상태를 측정받았습니다.
+- 주요 평가 항목은 NIH PROMIS 척도를 통한 복부 통증 감소, 신체·정신적 건강 상태 및 마약성 진통제 사용량 변화입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04907643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04907643)</small>
 
 ---
-<a id="pmid-43018085"></a>
-#### [수술 가능 및 경계성 수술 가능 췌장암에서 선행항암치료 후 악액질 지수의 예후적 유용성에 대한 고찰](https://pubmed.ncbi.nlm.nih.gov/43018085/)
-<small>Re: Prognostic Utility of the Cachexia Index in Resectable and Borderline Resectable Pancreatic Cancer Treated with Neoadjuvant Chemotherapy</small>
+<a id="pmid-43015233"></a>
+#### [의사의 시각을 넘어: 다학제 및 실행 과학 접근법을 통한 췌장암의 동시 치료 발전](https://pubmed.ncbi.nlm.nih.gov/43015233/)
+<small>Beyond physician perspectives: advancing simultaneous care in pancreatic adenocarcinoma through multidisciplinary and implementation science approaches</small>
 
-`논문` `종설` `치료 전반` `수술` `지지요법·삶의질` · 2026-11-12 · PubMed · Pancreas · 중요도 0.62
+`논문` `종설` `치료 전반` `지지요법·삶의질` · 2026-11-11 · PubMed · Dig Liver Dis · 중요도 0.62
 
-본 논문은 수술 가능 및 경계성 수술 가능(borderline resectable) 췌장암 환자가 선행항암치료(neoadjuvant chemotherapy)를 받았을 때 악액질 지수(cachexia index)의 예후적 유용성을 평가했습니다. 초록에 환자 수, 구체적인 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다. 악액질 지수가 환자의 예후 예측에 미치는 영향에 대한 논의를 담고 있습니다.
+이 논문은 췌관선암(pancreatic adenocarcinoma) 환자를 위한 동시 치료(simultaneous care)를 발전시키기 위해 다학제 및 실행 과학 접근법을 다룹니다. 의사의 시각을 넘어선 치료 개선 방안을 논의했습니다. 초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다. 본 문헌은 서신(Letter) 형식으로 발표되었습니다.
 
-- 수술 가능 및 경계성 수술 가능 췌장암 환자를 대상으로 선행항암치료 후 악액질 지수의 유용성을 평가했습니다.
-- 구체적인 환자 수와 생존기간 수치는 초록에 명시되지 않았습니다.
-- 위험비와 반응률 또한 초록에 명시되지 않았습니다.
+- 초록에 구체적인 환자 수나 생존기간 수치는 명시되지 않았습니다.
+- 다학제 및 실행 과학 접근법을 통한 췌장암 동시 치료의 발전을 다루고 있습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43018085/) · [DOI](https://doi.org/10.1097/MPA.0000000000002732) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43018085)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015233/) · [DOI](https://doi.org/10.1016/j.dld.2026.10.029) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015233)</small>
 
 ---
 <a id="pmid-43016854"></a>
@@ -148,49 +223,19 @@ Patients with digestive tract malignancy often experience severe and unremitting
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43016854/) · [DOI](https://doi.org/10.62838/jccm-2026-0056) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13752167/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43016854)</small>
 
 ---
-<a id="pmid-43015233"></a>
-#### [의사의 시각을 넘어: 다학제 및 실행 과학 접근법을 통한 췌장암의 동시 치료 발전](https://pubmed.ncbi.nlm.nih.gov/43015233/)
-<small>Beyond physician perspectives: advancing simultaneous care in pancreatic adenocarcinoma through multidisciplinary and implementation science approaches</small>
+<a id="pmid-43018085"></a>
+#### [수술 가능 및 경계성 수술 가능 췌장암에서 선행항암치료 후 악액질 지수의 예후적 유용성에 대한 고찰](https://pubmed.ncbi.nlm.nih.gov/43018085/)
+<small>Re: Prognostic Utility of the Cachexia Index in Resectable and Borderline Resectable Pancreatic Cancer Treated with Neoadjuvant Chemotherapy</small>
 
-`논문` `종설` `치료 전반` `지지요법·삶의질` · 2026-11-11 · PubMed · Dig Liver Dis · 중요도 0.62
+`논문` `종설` `치료 전반` `수술` `지지요법·삶의질` · 2026-11-12 · PubMed · Pancreas · 중요도 0.62
 
-이 논문은 췌관선암(pancreatic adenocarcinoma) 환자를 위한 동시 치료(simultaneous care)를 발전시키기 위해 다학제 및 실행 과학 접근법을 다룹니다. 의사의 시각을 넘어선 치료 개선 방안을 논의했습니다. 초록에 구체적인 환자 수나 생존기간 등의 수치는 명시되지 않았습니다. 본 문헌은 서신(Letter) 형식으로 발표되었습니다.
+본 논문은 수술 가능 및 경계성 수술 가능(borderline resectable) 췌장암 환자가 선행항암치료(neoadjuvant chemotherapy)를 받았을 때 악액질 지수(cachexia index)의 예후적 유용성을 평가했습니다. 초록에 환자 수, 구체적인 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다. 악액질 지수가 환자의 예후 예측에 미치는 영향에 대한 논의를 담고 있습니다.
 
-- 초록에 구체적인 환자 수나 생존기간 수치는 명시되지 않았습니다.
-- 다학제 및 실행 과학 접근법을 통한 췌장암 동시 치료의 발전을 다루고 있습니다.
+- 수술 가능 및 경계성 수술 가능 췌장암 환자를 대상으로 선행항암치료 후 악액질 지수의 유용성을 평가했습니다.
+- 구체적인 환자 수와 생존기간 수치는 초록에 명시되지 않았습니다.
+- 위험비와 반응률 또한 초록에 명시되지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015233/) · [DOI](https://doi.org/10.1016/j.dld.2026.10.029) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015233)</small>
-
----
-<a id="nct-nct04905082"></a>
-#### [유전체학에 대한 암 환자의 지식 향상을 위한 HOPE-Genomics 중재 연구](https://clinicaltrials.gov/study/NCT04905082)
-<small>HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2021-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.61
-
-**NCT04905082** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04905082.md)
-
-이 임상시험은 개인 유전체 검사 결과와 암 및 유전체학 전반에 대한 환자의 지식을 향상시키기 위해 웹 기반 암 교육 도구인 HOPE-Genomics의 효과를 평가합니다. 연구 대상은 폐암, 유방암, 대장암, 췌장암, 난소암 또는 전립선암 진단을 받고 유전체 시퀀싱을 진행한 환자들입니다. 환자들은 표준 치료 군, 결과 반환만 받는 군, 결과 반환 및 검사 전 교육을 받는 군의 3개 군으로 무작위 배정됩니다. 이 연구는 유전체학 지식 향상과 가이드라인에 부합하는 치료의 수령 여부를 평가하는 것을 목표로 합니다.
-
-- 목표 등록 환자 수는 465명입니다.
-- 환자들은 3개의 중재 군(표준 치료, 결과 반환, 결과 반환 및 사전 교육) 중 하나로 무작위 배정됩니다.
-- 연구 추적 관찰은 유전체 검사 결과 수령 후 2주, 3개월, 9개월 시점에 이루어집니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
-
----
-<a id="pmid-43013127"></a>
-#### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
-<small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
-
-이 연구는 췌장암 환자에서 노인 영양 위험 지수(Geriatric Nutritional Risk Index, GNRI)와 전체 생존기간(OS)의 연관성을 체계적으로 평가하기 위해 수행되었습니다. 총 18개의 관찰 연구가 포함되었고 그중 13개 연구가 메타분석에 활용되었습니다. 분석 결과, GNRI에 따른 높은 영양 위험은 현저하게 불량한 전체 생존기간과 연관이 있었습니다. 초록에 명시되지 않음
-
-- GNRI로 평가한 높은 영양 위험은 췌장암 환자의 불량한 전체 생존기간(OS)과 유의한 연관성을 보였습니다(통합 위험비 HR=1.79, 95% 신뢰구간: 1.42-2.26).
-- 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43018085/) · [DOI](https://doi.org/10.1097/MPA.0000000000002732) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43018085)</small>
 
 ---
 <a id="pmid-43012757"></a>
@@ -2026,140 +2071,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 천공이나 조직 허혈이 없는 선별된 환자에서는 수술 없이 광범위 항생제 투여와 위 감압술 등 보존적 치료만으로도 호전을 기대할 수 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877802/) · [DOI](https://doi.org/10.12890/2026_007418) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13666637/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877802)</small>
-
----
-<a id="pmid-42863588"></a>
-#### [췌장암 환자의 첫 계획되지 않은 입원: 완화의료 연계의 중요한 전환점](https://pubmed.ncbi.nlm.nih.gov/42863588/)
-<small>First Unscheduled Hospitalization in Pancreatic Cancer: A Point for Palliative Care Integration</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `치료 전반` · 2026-10-12 · PubMed · J Pain Symptom Manage · 중요도 0.73
-
-췌관선암 환자 125명을 대상으로 첫 계획되지 않은 입원의 임상적 특징과 예후, 전문 완화의료(SPC) 연계 시점을 후향적으로 분석한 연구입니다. 전체 환자의 84%가 진단 후 중앙값 4.1개월 시점에 예정에 없던 첫 입원을 경험했으며, 입원 발생 후 중앙 전체 생존기간(OS)은 3.8개월이었습니다. 입원 환자의 20%는 원내에서 사망했고 퇴원 환자의 78%가 재입원했으나, 입원 전에 전문 완화의료 평가를 받은 환자는 10%에 불과했습니다. 연구진은 첫 비계획 입원이 조기 완화의료를 체계적으로 연계하기 위한 실질적인 안전망 역할을 할 수 있다고 결론지었습니다.
-
-- 췌관선암 환자의 84%(105명)가 진단 후 중앙값 4.1개월 만에 첫 계획되지 않은 입원을 겪었습니다.
-- 입원 후 중앙 전체 생존기간(OS)은 3.8개월이었으며, 20%는 입원 중 사망했고 퇴원 환자의 78%는 다시 입원했습니다.
-- 입원 환자 중 입원 전에 전문 완화의료 평가를 받은 비율은 10%에 불과했으며, 22%는 끝내 평가를 받지 못했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42863588/) · [DOI](https://doi.org/10.1016/j.jpainsymman.2026.10.009) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42863588)</small>
-
----
-<a id="pmid-42866548"></a>
-#### [정상 면역 기능을 가진 젊은 남성에서 췌장암으로 오인된 췌장 결핵: 증례 보고 및 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42866548/)
-<small>Pancreatic Tuberculosis Mimicking Pancreatic Cancer in a Young Immunocompetent Man: A Case Report and Literature Review</small>
-
-`논문` `종설` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-10-08 · PubMed · Int Med Case Rep J · 중요도 0.72
-
-결핵 유행 지역에서도 극히 드문 질환인 췌장 결핵(Pancreatic TB)이 임상적 및 영상의학적으로 췌장 악성 종양과 매우 유사하게 나타난 증례 보고입니다. 34세 아프가니스탄 남성이 췌장 머리 부분에 57×30 mm 크기의 종괴가 발견되어 췌장암 의심 하에 휘플 수술(Whipple resection)을 받았습니다. 수술 후 조직 검사에서 결핵균(Mycobacterium tuberculosis)에 의한 건락성 육아종성 염증으로 최종 진단되었으며 항결핵제 치료가 시작되었습니다. 환자는 10개월간의 추적 관찰 동안 재발 없이 안정적인 상태를 유지했습니다.
-
-- 복부 CT에서 췌장 머리에 57×30 mm 크기의 다낭성 저음영 종괴와 경미한 CA19-9 상승을 보여 수술 전 췌장암으로 강하게 의심되었습니다.
-- 휘플 수술 후 시행된 조직 검사 및 질-닐슨(Ziehl-Neelsen) 염색을 통해 결핵균 양성 췌장 결핵으로 확진되었습니다.
-- 결핵 유행 지역 출신의 젊은 환자에서 췌장 종괴가 관찰될 경우 내시경 초음파 유도하 세침흡인/생검(EUS-FNA/FNB) 등을 통해 불필요한 침습적 수술을 피할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866548/) · [DOI](https://doi.org/10.2147/IMCRJ.S638587) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13656929/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866548)</small>
-
----
-<a id="pmid-42866765"></a>
-#### [다양한 체중 감량 중재 후 누적 비만 노출 기간과 간담도췌장암 발생 위험: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42866765/)
-<small>Cumulative obesity exposure and hepato-pancreato-biliary cancer risk following different weight-loss interventions: retrospective cohort study</small>
-
-`논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-09-16 · PubMed · Ann Med Surg (Lond) · 중요도 0.66
-
-체중 감량을 달성한 성인 1,131명을 대상으로 생활습관 개선, 약물 치료, 비만대사수술 등 중재 방식에 따른 간담도췌장(HPB) 암 발생 위험을 비교한 후향적 연구입니다. 총 27건의 암이 확인되었으며, 암 발생률은 생활습관군 2.05%, 약물군 3.24%, 수술군 1.05%로 치료 방법 간에 통계적으로 유의한 차이가 없었습니다(P=0.334). 비만대사수술군에서 수치상 가장 낮은 발생률을 보였으나 통계적 유의성은 없었습니다. 연구진은 암 발생 사례가 적어 가설 생성 수준의 결과이며, 확정적인 임상적 결론을 내리기 위해서는 추가 전향적 연구가 필요하다고 결론지었습니다.
-
-- 체중 감량을 성공한 성인 1,131명 중 총 27건의 간담도췌장암이 발생했습니다.
-- 암 발생률은 생활습관군(2.05%), 약물군(3.24%), 수술군(1.05%) 간에 통계적으로 유의미한 차이가 없었습니다(P=0.334).
-- 체중 감량 전 비만 지속 기간은 치료군 간에 유의미한 차이를 보였습니다(P<0.001).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866765/) · [DOI](https://doi.org/10.1097/MS9.0000000000005470) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657611/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866765)</small>
-
----
-<a id="pmid-42869688"></a>
-#### ["췌관선암 수술 절제 후 근감소증 및 근지방증이 조기 및 장기 생존에 미치는 영향"에 대한 답변](https://pubmed.ncbi.nlm.nih.gov/42869688/)
-<small>Response to: &quot;Impact of sarcopenia and myosteatosis on early and long-term survival after surgical resection of pancreatic ductal adenocarcinoma&quot;</small>
-
-`논문` `기타` `수술` `지지요법·삶의질` · 2026-10-10 · PubMed · Pancreatology · 중요도 0.60
-
-췌관선암(PDAC) 환자의 수술 절제 후 근감소증(sarcopenia)과 근지방증(myosteatosis)이 조기 및 장기 생존율에 미치는 영향을 다룬 기존 연구에 대한 답변 서한(Letter)입니다. 해당 논문에 대한 학술적 논의를 담고 있습니다. 상세한 연구 수치 및 세부 분석 내용은 초록에 명시되지 않았습니다.
-
-- 췌장암 수술 환자의 근육량 및 근육 질 저하가 생존에 미치는 영향에 대한 학술적 서한입니다.
-- 구체적인 임상 수치와 결과는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42869688/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42869688)</small>
-
----
-<a id="pmid-42866405"></a>
-#### [종양 생물학을 넘어: 환자의 영양 상태가 췌장암 수술 후 조기 재발 예측을 개선할 수 있는가?](https://pubmed.ncbi.nlm.nih.gov/42866405/)
-<small>Beyond tumor biology: can host nutritional status refine prediction of early recurrence after pancreatic cancer surgery?</small>
-
-`논문` `종설` `수술` `지지요법·삶의질` · 2026-09-16 · PubMed · Gland Surg · 중요도 0.58
-
-췌장암 수술 후 조기 재발을 예측할 때 종양 자체의 생물학적 특성 외에 환자의 영양 상태가 미치는 역할을 다룬 사설 및 논평(Editorial/Comment)입니다. 환자의 전신 영양 지표를 함께 평가하는 것이 수술 후 예후 및 조기 재발 예측의 정확도를 높일 수 있는지 논의합니다. 구체적인 환자 코호트와 수치 데이터는 초록에 명시되지 않았습니다.
-
-- 췌장암 절제 수술 후 조기 재발 위험을 평가할 때 숙주(환자)의 영양 상태(nutritional status)가 중요한 예측 인자가 될 수 있는지 고찰했습니다.
-- 종양의 생물학적 특성과 환자의 전반적인 영양 지표를 통합적으로 고려하는 접근법을 다루었습니다.
-- 구체적인 분석 수치와 환자 통계는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866405/) · [DOI](https://doi.org/10.21037/gs-2026-0422) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657731/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866405)</small>
-
----
-<a id="pmid-42860317"></a>
-#### [인간 베타세포 역분화와 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42860317/)
-<small>Human β-Cell Dedifferentiation and Diabetes</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` · 2026-10-01 · PubMed · J Diabetes · 중요도 0.54
-
-인간 췌장 베타세포(β-cell)의 역분화는 세포가 고유의 특성을 잃고 미성숙한 상태로 되돌아가는 현상으로, 베타세포 기능 부전의 주요 원인으로 꼽힙니다. 제2형 당뇨병 환자뿐만 아니라 당뇨가 없는 만성 췌장염 및 췌관선암(PDAC) 환자에서도 이러한 기능 저하 역분화 세포가 증가하는 것이 관찰되었습니다. 이는 베타세포 역분화가 췌장 질환에 따른 췌장원성 당뇨병의 주요 기전이자 고혈당 발생 이전의 초기 유발 요인임을 시사합니다. 연구진은 역분화를 예방하거나 역전시켜 베타세포 기능을 보존하는 치료 전략 개발의 가능성을 제시하고 있습니다.
-
-- 당뇨 병력이 없는 만성 췌장염 및 췌장암(췌관선암) 환자에서도 기능 장애를 동반한 역분화 베타세포의 증가가 확인되었습니다.
-- 베타세포의 역분화 비율은 당뇨 병력이 없는 대상자에서 HOMA-β 및 식후 2시간 C-펩타이드(2h-C Peptide) 수치와 반비례 관계를 보였습니다.
-- 베타세포 역분화는 고혈당이 나타나기 전부터 발생하는 베타세포 부전의 초기 촉발 요인으로 작용할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42860317/) · [DOI](https://doi.org/10.1111/1753-0407.70280) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13654652/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42860317)</small>
-
----
-<a id="pmid-42866155"></a>
-#### [췌장암 의심 환자에서 복부에 비전형적으로 발생한 췌장성 지방층염 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866155/)
-<small>An Atypical Abdominal Presentation of Pancreatic Panniculitis in a Patient With Suspected Pancreatic Cancer: A Case Report</small>
-
-`논문` `증례` `진단·조기발견` `지지요법·삶의질` · 2026-09-12 · PubMed · Cureus · 중요도 0.54
-
-췌장 질환의 드문 합병증인 췌장성 지방층염(PP)이 복부 벽에 발생한 79세 췌장암 의심 남성 환자의 사례를 보고했습니다. 환자는 복벽에 약 10cm 크기의 통증을 동반한 홍반성 병변을 보였으며, 췌장 효소 수치(리파아제 157 IU/L, 췌장 아밀라아제 86 IU/L)의 상승 폭은 비교적 미미했습니다. 조직 생검을 통해 지방 괴사 및 유령 세포(ghost-like adipocytes) 소견을 확인하여 췌장성 지방층염으로 확진했습니다. 경구 loxoprofen(록소프로펜)을 투여한 대증 치료를 통해 통증과 부종이 서서히 호전되었으며 60일째에 병변이 뚜렷하게 호전되었습니다.
-
-- 췌장성 지방층염은 주로 하지에 발생하나, 본 증례에서는 복벽에 약 10cm 크기의 비전형적인 병변으로 나타났습니다.
-- 광범위한 복벽 병변에도 불구하고 리파아제(157 IU/L) 및 췌장 아밀라아제(86 IU/L) 상승은 경미했습니다.
-- 조직학적 검사를 통해 확진 후 경구 소염진통제(loxoprofen) 투여로 60일 차에 병변이 현저하게 호전되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866155/) · [DOI](https://doi.org/10.7759/cureus.116124) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655839/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866155)</small>
-
----
-<a id="pmid-42866363"></a>
-#### [전이성 췌관선암에서 1차 S-1 단독요법에 매우 긴 기간 반응을 보인 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866363/)
-<small>Exceptionally Durable Response to First-Line S-1 Monotherapy in Metastatic Pancreatic Adenocarcinoma: A Case Report</small>
-
-`논문` `증례` `신약·치료제` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-09-12 · PubMed · Cureus · 중요도 0.54
-
-다발성 간 전이가 의심되는 전이성 췌관선암 환자에게 경구 항암제인 S-1(tegafur/gimeracil/oteracil) 단독요법을 1차 치료로 시행한 드문 증례 보고입니다. 76세 남성 환자에게 S-1을 투여한 결과, 췌장 종양과 간 병변이 점차 축소되었고 종양표지자 CA19-9가 빠르게 정상화되었습니다. 치료 시작 약 14개월 후 CT상 병변이 뚜렷하게 관찰되지 않았으며, 약 47개월 동안 질병 진행 없이 유의미한 반응이 유지되었습니다. 환자는 이후 약제 유발 간질성 폐질환(ILD) 등이 의심되는 호흡 부전으로 사망하였으나, 전이성 췌장암에서 S-1 단독요법으로도 극히 예외적인 장기 반응이 나타날 수 있음을 보여줍니다.
-
-- 76세 전이성 췌장암 의심 환자에게 1차 치료로 S-1 경구 단독요법(100 mg/일, 2주 투약 2주 휴약)을 시행했습니다.
-- 치료 후 종양 축소 및 CA19-9 정상화를 보였으며, 약 47개월 동안 방사선학적 질병 진행이 없었습니다.
-- 치료 14개월 시점에는 CT 검사에서 원발 췌장 종양과 간 전이 의심 병변이 뚜렷하게 관찰되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866363/) · [DOI](https://doi.org/10.7759/cureus.116149) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657664/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866363)</small>
-
----
-<a id="pmid-42866830"></a>
-#### [췌십이지장절제술 후 췌장공장문합술 내부 스텐트의 장벽 통과 이동으로 인한 지연성 복강 내 패혈증: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42866830/)
-<small>Transmural migration of an internal pancreaticojejunostomy stent causing delayed intra-abdominal sepsis: a case report</small>
-
-`논문` `증례` `수술` `지지요법·삶의질` `진단·조기발견` · 2026-08-11 · PubMed · Gland Surg · 중요도 0.54
-
-췌장선암(pancreatic adenocarcinoma)으로 췌십이지장절제술(pancreaticoduodenectomy)을 받고 내부 췌장공장문합술(pancreaticojejunostomy, PJ) 스텐트를 삽입한 63세 여성 환자의 증례입니다. 수술 후 8일째에 발열, 백혈구 증가증, 복통이 발생하여 복부 컴퓨터단층촬영(CT)에서 췌장 주위 체액 및 가스 저류가 관찰되었습니다. 초음파 검사를 통해 췌관 스텐트가 공장 벽을 뚫고 장간막으로 이동하여 장 내용물이 유출되는 천공이 확인되었습니다. 스텐트 제거 및 결손 부위 수술 후 환자는 패혈증이 호전되어 안정된 상태로 퇴원했습니다.
-
-- 63세 여성 환자가 췌십이지장절제술 후 내부 췌장공장문합술 스텐트의 장벽 통과 이동(transmural migration)으로 인한 합병증을 겪었습니다.
-- 수술 후 8일째에 발열, 백혈구 증가증, 복통과 함께 복강 내 패혈증이 발생했습니다.
-- 배액관 아밀라아제 수치가 정상이었음에도 불구하고 탐색적 개복술을 통해 스텐트에 의한 장 천공과 장 내용물 누출이 확인되었습니다.
-- 스텐트 제거 및 수술적 치료 후 환자의 패혈증이 해결되고 안정된 상태로 퇴원했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42866830/) · [DOI](https://doi.org/10.21037/gs-2026-0237) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13657713/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42866830)</small>
 
 ---

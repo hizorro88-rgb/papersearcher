@@ -24,7 +24,7 @@ search:
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 | [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](../trials/NCT06069297.md) | 해당 없음 | 진행 중(모집 종료) | - |
 
-## 타임라인 (14)
+## 타임라인 (15)
 
 <a id="pmid-43004101"></a>
 #### [80세 이상의 고령 환자에서 시행한 원위부 췌장 절제술과 로봇 수술의 역할](https://pubmed.ncbi.nlm.nih.gov/43004101/)
@@ -54,6 +54,15 @@ search:
 - 시술 6개월 후 추적 관찰에서 종양 재발 및 시술 관련 합병증은 관찰되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43005647/) · [DOI](https://doi.org/10.2147/JHC.S656013) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13746914/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43005647)</small>
+
+---
+<a id="pmid-43022477"></a>
+#### [Radical antegrade modular pancreatosplenectomy versus conventional distal pancreatosplenectomy for left-sided pancreatic ductal adenocarcinoma: a multicenter propensity score-matched analysis](https://pubmed.ncbi.nlm.nih.gov/43022477/)
+`논문` `관찰연구` `수술` · 2026-11-02 · PubMed · Ann Surg Treat Res · 중요도 0.72
+
+PURPOSE: This study was performed to evaluate the postoperative and long-term oncologic outcomes of radical antegrade modular pancreatosplenectomy (RAMPS) relative to conventional distal pancreatosplenectomy (cDPS) in patients with left-sided pancreatic ductal adenocarcinoma (PDAC). METHODS: Between 2005 and 2017, 316 patients with left-sided PDAC who underwent curative-intent distal pancreatectomy at four tertiary referral centers were retrospectively analyzed.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43022477/) · [DOI](https://doi.org/10.4174/astr.2026.111.5.270) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755617/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43022477)</small>
 
 ---
 <a id="pmid-43012757"></a>
@@ -195,12 +204,18 @@ search:
 
 ---
 <a id="pmid-43015764"></a>
-#### [Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+#### [수술 가능한 췌장암의 예후 인자: 체계적 문헌 고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+<small>Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis</small>
+
 `논문` `메타분석` `수술` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-08-17 · PubMed · BMC Surg · 중요도 0.85
 
-BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.
+근치적 절제술을 받은 췌관선암(PDAC) 환자 79,446명을 대상으로 한 52개 연구를 분석하여 전체 생존기간(OS)에 영향을 주는 예후 인자를 확인했습니다. 다변량 메타분석 결과, 고령, 남성, 높은 CA19-9 수치, 호중구 대 림프구 비율(NLR) 및 CRP 대 알부민 비율(CRP/Alb) 상승, 혈관 침윤, 절제 단면 양성, 분화도 불량, 진행된 T 병기, 림프절 전이가 불량한 생존율과 연관되었습니다. 반면 수술 후 보조 항암치료는 생존율을 크게 개선하는 것으로 확인되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
+- 총 52개 연구 및 79,446명의 수술 받은 췌관선암 환자 데이터를 메타분석했습니다.
+- 수술 후 보조 항암치료는 사망 위험을 48% 감소시켜 생존율을 크게 개선했습니다(위험비[HR] 0.52).
+- 고령(HR 2.17), 높은 CRP/Alb 비율(HR 2.05), 췌십이지장절제술(PD) 대 원위부 췌절제술(DP)(HR 1.76), 절제 단면 양성(HR 1.73), 림프절 전이(HR 1.68) 등이 사망 위험을 높이는 주요 다변량 예후 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13756980/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
 
 ---
 <a id="pmid-42886975"></a>

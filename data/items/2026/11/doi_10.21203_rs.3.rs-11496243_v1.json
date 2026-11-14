@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Background  Real-world evidence on treatment sequencing and the molecular features of terminal-stage pancreatic cancer is limited. We evaluated treatment sequences and late-stage liquid biopsy genomic profiles using a nationwide clinico-genomic database. Methods  We retrospectively analyzed 16,782 patients with pancreatic ductal adenocarcinoma registered in the Center for Cancer Genomics and Advanced Therapeutics database in Japan. Overall survival was compared according to first-line regimen and first- to second-line sequence. Liquid biopsy data were analyzed in relation to the time before death, and a gradient-boosting survival model was developed to identify prognostic genomic features. Results  As first-line therapy, gemcitabine plus nab-paclitaxel was associated with longer overall survival than FOLFIRINOX (hazard ratio 0.89, 95% confidence interval 0.84–0.93), despite comparable time to treatment failure. Gemcitabine plus nab-paclitaxel followed by FOLFIRINOX was associated with the most favorable survival, measured from either first-line (hazard ratio 0.84) or second-line initiation (hazard ratio 0.68). Liquid biopsies were performed closer to death than tissue-based tests (median 140 vs. 473 days). The  <italic>KRAS</italic>  variant allele frequency increased as death approached and was the most influential prognostic feature; a  <italic>KRAS</italic>  -only model performed comparably to the full model (concordance index 0.67 for both), and survival worsened with increasing  <italic>KRAS</italic>  variant allele frequency. Alterations in chromatin-remodeling and epigenetic regulatory genes, including  <italic>SMARCA4</italic>  ,  <italic>ARID1A</italic>  ,  <italic>KDM6A</italic>  , and  <italic>KMT2D</italic>  , were associated with poor prognosis. Conclusion  Treatment sequencing may influence survival in advanced pancreatic cancer, and the  <italic>KRAS</italic>  variant allele frequency in late-stage liquid biopsy is a robust prognostic biomarker.  </p>",
+ "authors": [
+  "Nishida N",
+  "Iwasaki E",
+  "Okada K."
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11496243/v1",
+ "importance": 0.66,
+ "key_points_ko": [
+  "1차 치료로 gemcitabine(젬시타빈) 및 nab-paclitaxel(알부민 결합 파클리탁셀) 투여군은 FOLFIRINOX(폴피리녹스)군 대비 사망 위험이 낮았습니다(위험비 0.89, 95% 신뢰구간 0.84-0.93).",
+  "1차 젬시타빈+알부민 결합 파클리탁셀 후 2차 폴피리녹스로 이어지는 치료 순서가 가장 우수한 생존율을 보였습니다(1차 시점 위험비 0.84, 2차 시점 위험비 0.68).",
+  "액체 생검 분석 결과 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가했으며 높을수록 예후가 악화되었습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11496243/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1365842"
+ },
+ "summary_ko": "일본 암 유전체 종합 데이터베이스에 등록된 췌관선암(PDAC) 환자 16,782명의 실체적 증거(RWE)를 분석한 연구입니다. 1차 치료로 gemcitabine(젬시타빈)과 nab-paclitaxel(알부민 결합 파클리탁셀) 병용요법을 받은 환자군이 FOLFIRINOX(폴피리녹스)군에 비해 전체 생존기간(OS)이 더 길었습니다. 또한 1차 젬시타빈+알부민 결합 파클리탁셀 투여 후 2차 폴피리녹스를 순차적으로 투여한 군에서 가장 우수한 생존율을 보였습니다. 말기 액체 생검(liquid biopsy) 분석에서는 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가하며 주요 예후 지표로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Real-world analysis of treatment sequencing and late-stage liquid biopsy genomic profiling in advanced pancreatic cancer",
+ "title_ko": "진행성 췌장암 환자의 치료 순서 및 말기 액체 생검 유전체 분석 연구",
+ "trial": null,
+ "type": "preprint"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Following publication of the article entitled \"Targeting Glutamine Metabolic Reprogramming in Pancreatic Cancer: Cur-rent Insights and Future Directions\" [1], certain phrases and expressions were identified that were unclear or inconsistent with established scientific terminology. To ensure the accuracy and clarity of the published record, these expressions have been corrected using appropriate terminology that more accurately conveys the intended scientific meaning. These corrections are limited to the wording and terminology of the affected passages and do not alter the data, results, scientific interpretations, or conclusions of the article. The specific corrections are provided below: Section, Abstract, Original text: However, some studies have shown that inhibitors of this pathway can sensitize PC cells to chemotherapeutic agents, and this synergistic effect provides new insights into the combination therapy for PC. Corrected text: However, some studies have shown that inhibitors of this pathway can sensitize PC cells to chemotherapeutic agents, and this synergistic effect provides new opportunities for developing combination therapies for PC treatment. The original article has been updated accordingly. This corrigendum is published to maintain transparency and accuracy of the scholarly record. The corrected version of the article is available online at: https://www.eurekaselect.com/article/146023 The authors regret these errors and apologise for any inconvenience they may have caused.",
+ "authors": [
+  "Ma Y",
+  "Wang M",
+  "Zhang K",
+  "Ren F",
+  "Wang Y",
+  "Zhang W",
+  "Kan C",
+  "Han F"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43023373",
+ "importance": 0.62,
+ "key_points_ko": [
+  "과학적 용어의 명확성을 향상시키기 위한 기존 논문의 단순 정정 고시입니다.",
+  "연구 데이터, 결과 및 결론에는 변경 사항이 없습니다.",
+  "글루타민 대사 경로 억제제가 췌장암 세포의 화학요법 민감성을 높인다는 문구가 보다 명확하게 정정되었습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.2174/1568009627999261112115235",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43023373"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Cancer Drug Targets",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43023373/"
+ },
+ "summary_ko": "본 논문은 췌장암 치료에서 글루타민 대사 재프로그래밍을 표적으로 하는 연구에 대한 정정 고시(Corrigendum)입니다. 기존 논문의 초록에 수록된 용어 및 과학적 표현의 명확성을 높이기 위해 단순 문구를 수정했습니다. 이번 정정은 단어 및 표기 수정에 국한되며 연구 데이터, 결과, 과학적 해석이나 결론은 변경되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Corrigendum to: Targeting Glutamine Metabolic Reprogramming in Pancreatic Cancer: Current Insights and Future Directions",
+ "title_ko": "췌장암의 글루타민 대사 재프로그래밍 표적화: 현재의 통찰과 향후 방향에 대한 정정 표제",
+ "trial": null,
+ "type": "paper"
+}

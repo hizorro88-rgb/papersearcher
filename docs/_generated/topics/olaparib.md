@@ -19,16 +19,17 @@ search:
 - 표적/기전: PARP inhibitor (gBRCA)
 - 개발사: AstraZeneca / Merck
 
-## 관련 임상시험 (6)
+## 관련 임상시험 (7)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [진행성 또는 전이성 고형암 환자를 위한 경구용 MOMA-313 연구](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 대상으로 한 pembrolizumab과 olaparib 병용 요법 임상연구](../trials/NCT05093231.md) | 2상 | 진행 중(모집 종료) | - |
-| [수술 후 절제된 췌장암 및 BRCA1, BRCA2 또는 PALB2 변이 환자에서 올라파립 대 위약을 비교하는 무작위 2상 이…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
+| [수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자에서 올라파립 대 위약을 비교하는 무작위 2상 이중맹…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암에서 다제 저용량 항암화학요법 GAX-CI 후 olaparib 및 pembrolizumab 유지 치료](../trials/NCT04753879.md) | 2상 | 완료 | - |
 | [유전성 BRCA 변이 전이성 췌장암 환자에서 올라파립 단독 대비 면역항암제 펨브롤리주맙 병용 유지요법을 평가하는 2상 임상시험](../trials/NCT04548752.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 고형암에서 DNA 손상, 신생혈관생성, PD-L1 억제제를 평가하는 연구](../trials/NCT03851614.md) | 2상 | 진행 중(모집 종료) | - |
+| [A Phase 2 Study of Cediranib in Combination With Olaparib in Advanced…](../trials/NCT02498613.md) | 2상 | 진행 중(모집 종료) | - |
 
 ## 타임라인 (2)
 

@@ -64,7 +64,7 @@ search:
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
-| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
+| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법을 평가하는 절제 가능한 췌관선암 환자 대상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 임상시험](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
@@ -129,8 +129,23 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (20)
+## 타임라인 (22)
 
+<a id="doi-10.21203-rs.3.rs-11496243-v1"></a>
+#### [진행성 췌장암 환자의 치료 순서 및 말기 액체 생검 유전체 분석 연구](https://europepmc.org/article/PPR/PPR1365842)
+<small>Real-world analysis of treatment sequencing and late-stage liquid biopsy genomic profiling in advanced pancreatic cancer</small>
+
+`프리프린트` `관찰연구` `치료 전반` `신약·치료제` `기초연구` `진단·조기발견` · 2026-11-12 · Europe PMC (preprint) · Research Square · 중요도 0.66
+
+일본 암 유전체 종합 데이터베이스에 등록된 췌관선암(PDAC) 환자 16,782명의 실체적 증거(RWE)를 분석한 연구입니다. 1차 치료로 gemcitabine(젬시타빈)과 nab-paclitaxel(알부민 결합 파클리탁셀) 병용요법을 받은 환자군이 FOLFIRINOX(폴피리녹스)군에 비해 전체 생존기간(OS)이 더 길었습니다. 또한 1차 젬시타빈+알부민 결합 파클리탁셀 투여 후 2차 폴피리녹스를 순차적으로 투여한 군에서 가장 우수한 생존율을 보였습니다. 말기 액체 생검(liquid biopsy) 분석에서는 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가하며 주요 예후 지표로 확인되었습니다.
+
+- 1차 치료로 gemcitabine(젬시타빈) 및 nab-paclitaxel(알부민 결합 파클리탁셀) 투여군은 FOLFIRINOX(폴피리녹스)군 대비 사망 위험이 낮았습니다(위험비 0.89, 95% 신뢰구간 0.84-0.93).
+- 1차 젬시타빈+알부민 결합 파클리탁셀 후 2차 폴피리녹스로 이어지는 치료 순서가 가장 우수한 생존율을 보였습니다(1차 시점 위험비 0.84, 2차 시점 위험비 0.68).
+- 액체 생검 분석 결과 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가했으며 높을수록 예후가 악화되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1365842) · [DOI](https://doi.org/10.21203/rs.3.rs-11496243/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11496243/v1)</small>
+
+---
 <a id="pmid-43002828"></a>
 #### [전이성 췌장암 1차 치료에서 표적 항체 NIS793과 표준 항암요법 병용의 효과를 평가한 3상 임상시험(daNIS-2)](https://pubmed.ncbi.nlm.nih.gov/43002828/)
 <small>daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma</small>
@@ -160,6 +175,15 @@ search:
 - 4등급 또는 5등급의 치료 관련 부작용은 발생하지 않아 우수한 내약성을 확인했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971953/) · [DOI](https://doi.org/10.1038/s41392-026-02966-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13728121/) · [NCT05947825](https://clinicaltrials.gov/study/NCT05947825) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971953)</small>
+
+---
+<a id="pmid-43024239"></a>
+#### [Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+`논문` `3상` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+
+IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerability of Tumor Treating Fields (TTFields) therapy concomitant with gemcitabine and nab-paclitaxel, but understanding the impact of TTFields therapy on quality of life (QoL) and pain is important for clinical decision-making. OBJECTIVE: To analyze the impact of TTFields therapy concomitant with gemcitabine and nab-paclitaxel on QoL and pain outcomes using prospective data from PANOVA-3.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
 
 ---
 <a id="pmid-42984377"></a>

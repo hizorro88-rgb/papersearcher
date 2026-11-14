@@ -20,11 +20,11 @@
  "id": "nct:NCT05053555",
  "importance": 0.67,
  "key_points_ko": [
-  "수술 불가능한 간 종양 환자 60명을 대상으로 고선량률 근접치료(HDRBT)의 유효성을 평가합니다.",
-  "주요 평가 지표는 치료 6개월 후의 국소 종양 제어율(LTC)을 역사적 대조군과 비교하는 것입니다.",
-  "기존의 열소멸 기술로 치료하기 어려운 3cm 이상의 큰 종양이나 주요 혈관 및 장기 인접 종양 치료를 목표로 합니다."
+  "고선량률 근접치료(high dose-rate brachytherapy, HDRBT)는 iridium-192 동위원소를 이용해 병변에 방사선을 조사합니다.",
+  "3cm 이상의 큰 종양이나 열소작술이 어려운 위치의 종양 치료를 위해 연구됩니다.",
+  "1차 목표는 역사적 코호트와 비교하여 6개월 시점의 국소 종양 제어율(LTC)을 평가하는 것입니다."
  ],
- "last_updated": "2026-11-13",
+ "last_updated": "2026-11-14",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05053555"
  },
- "summary_ko": "이 연구는 수술이 불가능한 원발성 간암 및 췌장암 등에서 전이된 간 악성 종양 환자를 대상으로 고선량률 근접치료(HDRBT)의 임상적 유효성을 평가하는 임상시험입니다. 이리듐-192(192Ir) 동위원소를 사용하는 근접치료는 기존 열소멸술로 치료하기 어려운 3cm 이상의 큰 종양이나 혈관·장기 인접 부위의 종양을 정밀하게 치료할 수 있습니다. 연구진은 치료 후 6개월 시점의 국소 종양 제어율(LTC)을 과거 치료 환자군과 비교 검증합니다. 이 시험은 미국 M.D. 앤더슨 암센터에서 수행됩니다.",
+ "summary_ko": "본 임상시험은 절제 불가능한 원발성 및 전이성 간 악성 종양 환자를 대상으로 경피적 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)의 임상적 유효성을 평가합니다. 기존의 열소작술로 치료하기 어려운 큰 종양, 주요 혈관이나 민감한 구조물 인근의 종양을 가진 환자들을 대상으로 합니다. 역사적 코호트와의 비교를 통해 6개월 시점의 국소 종양 제어율(local tumor control, LTC), 전체 생존기간(OS), 무진행 생존기간(PFS)을 평가합니다. M.D. Anderson Cancer Center에서 진행 중이며 목표 인원은 60명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies",
- "title_ko": "원발성 및 전이성 수술 불가능 간 악성 종양 환자를 대상으로 한 고선량률 근접치료(HDRBT)의 유효성 평가 임상시험",
+ "title_ko": "원발성 및 전이성 절제 불가능 간 악성 종양 치료를 위한 고선량률 근접치료",
  "trial": {
   "conditions": [
    "Liver Malignant Tumors",
@@ -66,7 +66,7 @@
     "phone": "713-745-0944"
    }
   ],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 원발성 또는 전이성 간 종양 환자\n• 수술 불가능한 간 종양이 5개 이하이며 다음 중 하나 이상에 해당하는 환자:\n  - 종양의 최대 직경이 3cm 이상인 경우\n  - 대혈관에 근접하여 위치한 경우\n  - 민감한 구조물(장, 위, 횡격막, 간피막, 간문부, 담관)에 근접한 경우\n  - 영양 공급 혈관으로의 관내 접근이 어려운 경우(저혈관성 종양)\n  - 다른 주요 장기로의 분류 비율(shunt fraction)이 큰 경우\n\n제외 기준:\n• 활동성 감염 질환이 있는 경우\n• 심부전, 불안정형 협심증, 부정맥, 간질성 폐질환 등 조절되지 않는 동반 질환이 있는 경우\n• 광범위한 다발성 전이(polymetastatic disease) 환자 (단, 통증이나 담관 폐쇄 등 국소 증상 완화 목적은 제외 가능)\n• 임신 중인 환자\n• 간기능 평가 기준 Child-Pugh C등급인 경우\n• 총 빌리루빈 2 mg/dL 초과, 혈소판 50,000/uL 미만, INR 1.5 초과인 경우",
+  "eligibility_ko": "선정 기준:\n- 19세 이상의 간 병변 환자 (그룹 A)\n- 절제 불가능한 종양이 5개 이하이며, 3cm 이상이거나, 주요 혈관 및 민감한 구조물에 인접해 있거나, 혈관 접근이 어려운 경우\n- 역사적 대조군에 해당하는 환자 (그룹 B)\n\n제외 기준:\n- 활동성 감염 질환\n- 조절되지 않는 동반 질환 또는 정신 질환\n- 국소 합병증 완화가 필요한 경우를 제외한 다발성 전이 질환\n- 임산부 또는 수유부\n- 차이로 퓨-C(Child-Pugh class C) 간기능",
   "eligibility_text": "Inclusion Criteria:\n\n* GROUP A: Patients with liver lesions must be over the age of 18\n* GROUP A: Any patient with up to five unresectable tumors that are:\n\n  * At least 3 cm (largest diameter in the axial plane)\n  * In close proximity to large blood vessels\n  * In close proximity to sensitive structures (bowel, stomach, diaphragm, liver capsule, liver hilum, bile ducts)\n  * Associated with difficult endovascular access to one or more feeding arterial branches (hypovascular tumors)\n  * Associated with a large shunt fraction to other vital organs\n* GROUP B: Historical patients who meet the above criteria for group A but did not receive HDRBT between 01/01/2000 and 1/01/2021\n\nExclusion criteria:\n\n* Active infectious disease\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, interstitial lung disease, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Patients with polymetastatic disease with the exception of those patients who may benefit from therapy addressing local complications directly related to the target lesion diminishing quality of life such as pain, vascular/biliary occlusion, and liver disfunction\n* Pregnancy (sexually active patients must be on birth control while participating in this study)\n* Child-Pugh class C\n* Total serum bilirubin \\> 2 mg/dl\n* Platelet count \\< 50,000/ul\n* International normalized ratio (INR) \\> 1.5",
   "enrollment": 60,
   "has_results": false,
@@ -85,14 +85,14 @@
    "ecog_max": null,
    "key_exclusions_ko": [
     "활동성 감염 질환",
-    "조절되지 않는 심장·폐 질환 등 중증 동반 질환",
-    "Child-Pugh C등급의 심각한 간기능 장애",
-    "임신 중인 환자"
+    "조절되지 않는 동반 질환 또는 심각한 심장 질환",
+    "임신 또는 수유 중인 환자",
+    "Child-Pugh class C 간기능"
    ],
    "max_prior_lines": null,
-   "measurable_required": true,
+   "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "수술이 불가능한 간 전이 또는 간 종양을 가진 췌장암 등 악성 종양 환자",
+   "notes_ko": "열소작술이 어려운 3cm 이상 또는 위험 부위의 절제 불가능한 간 전이/원발성 종양 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

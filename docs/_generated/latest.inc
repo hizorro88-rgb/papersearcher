@@ -1,24 +1,7 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,197</b><span>누적 수집<br><small>논문·소식 633 · 임상시험 564</small></span></div><div class="ps-stat"><b>+31</b><span>오늘 신규<br><small>갱신 28건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,220</b><span>누적 수집<br><small>논문·소식 649 · 임상시험 571</small></span></div><div class="ps-stat"><b>+23</b><span>오늘 신규<br><small>갱신 28건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-13](_generated/daily/2026/11/13.md)
+최근 수집일: [2026-11-14](_generated/daily/2026/11/14.md)
 
-<a id="nct-nct07409272"></a>
-#### [전이성 췌장암 환자에서 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용한 setidegrasib의 효과와 안전성을 평가하는 3상 임상시험](https://clinicaltrials.gov/study/NCT07409272)
-<small>A Study to Evaluate the Effectiveness and Safety of Setidegrasib, Given With Either mFOLFIRINOX or NALIRIFOX Chemotherapies, in People With Pancreatic Cancer</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-02-13 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 1.00
-
-**NCT07409272** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](_generated/trials/NCT07409272.md)
-
-이 임상시험은 KRAS G12D 변이가 있는 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 세티데그라시브(setidegrasib)와 화학요법의 병행 치료 효과를 평가합니다. mFOLFIRINOX 또는 NALIRIFOX 화학요법과 함께 setidegrasib 또는 위약(placebo)을 투여하여 생존기간 연장 및 암 진행 지연 여부를 확인합니다. 연구의 주요 목표는 setidegrasib 병용 투여 시 위약 병용 대비 환자가 더 오래 생존하는지 확인하는 것입니다. 목표 참여 인원은 614명이며 국내 8곳의 기관이 참여합니다.
-
-- 대상 질환: KRAS G12D 변이가 있는 전이성 췌장암 환자 614명
-- 시험 치료: setidegrasib 또는 위약을 mFOLFIRINOX 또는 NALIRIFOX 화학요법과 병용 투여
-- 주요 평가목표: 위약 병용 대비 생존기간 연장 및 암 진행 지연 효과 평가
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07409272) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07409272)</small>
-
----
 <a id="nct-nct07565155"></a>
 #### [상동조합결손(HRD)이 있는 췌장암 환자 대상 Lorigerlimab (MGD019) 임상시험](https://clinicaltrials.gov/study/NCT07565155)
 <small>Lorigerlimab (MGD019) in Patients With Pancreatic Adenocarcinoma and Homologous Recombination Deficiency</small>
@@ -35,6 +18,24 @@
 - 임상 단계: 2상 임상시험
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07565155) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07565155)</small>
+
+---
+<a id="nct-nct07802184"></a>
+#### [전이성 췌관선암 환자의 1차 치료로서 젬시타빈/나브-파클리탁셀(GnP)과 SHR-1701 및 아파티닙(Apatinib) 병용 요법](https://clinicaltrials.gov/study/NCT07802184)
+<small>GnP Combined With SHR-1701 and Apatinib as First-Line Treatment for Metastatic PDAC</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-09-03 · ClinicalTrials.gov · West China Hospital · 중요도 1.00
+
+**NCT07802184** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07802184.md)
+
+이 임상시험은 전이성 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 젬시타빈(gemcitabine) 및 냅-파클리탁셀(Nab-paclitaxel, GnP)에 SHR-1701과 아파티닙(Apatinib)을 결합한 1차 치료의 안전성과 유효성을 평가합니다. 본 연구는 전향적, 단일군, 단일기관, 제1b/2상 임상시험으로 진행됩니다. 목표 환자 수는 45명이며 18세에서 75세 사이의 환자를 대상으로 합니다. 초록에 명시되지 않은 생존기간, 반응률 등의 결과는 초록에 명시되지 않음.
+
+- 목표 인원은 총 45명이며 전이성 췌관선암 환자를 대상으로 합니다.
+- GnP 항암화학요법에 면역관문억제제인 SHR-1701과 표적치료제인 아파티닙(Apatinib)을 병용합니다.
+- 이전 치료를 받지 않은 1차 치료 환자를 대상으로 진행됩니다.
+- 초록에 생존기간, 반응률, 위험비 등의 구체적인 유효성 수치는 명시되지 않음.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07802184) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07802184)</small>
 
 ---
 <a id="pmid-43007558"></a>

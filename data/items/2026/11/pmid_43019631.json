@@ -1,0 +1,58 @@
+{
+ "abstract": "Mucin-1 (MUC1) and Autophagy-related 12 (ATG12) are frequently overexpressed in Pancreatic Ductal Adenocarcinoma (PDAC) patients and are correlated with reduced survival time. MUC1 is known for increasing PDAC cell survival through multiple mechanisms, including via the RAS pathway and control of gene transcription. ATG12 is found predominantly within the ATG12-ATG5 covalent complex necessary for the autophagy process required for survival of PDAC cells. Unconjugated ATG12 is known to be tightly regulated due to its pro-apoptotic nature and degraded rapidly downstream of RAS signaling, though effector proteins have not been identified. Mutant KRAS is almost universally mutated in PDAC, therefore our goal was to explore whether MUC1 was an effector of Ras influencing the degradation of ATG12 protein. Here, we report that ATG12 immunoprecipitated with MUC1CT2 in S2-013 cell lines by both LC-MS analysis and western blotting. Unconjugated ATG12 protein levels were significantly elevated in CD11 MUC1+ cell lines as compared to MUC1 knockout cell lines, which implies that MUC1 may regulate ATG12 protein levels. We found that MUC1 significantly up-regulates ATG12 mRNA in both CD11 and S2-013 cell lines. We also found that MUC1 stabilized free ATG12 protein. Collectively, these results identify a previously unknown mechanism by which MUC1 stabilizes ATG12 protein and regulates ATG12 transcription.",
+ "authors": [
+  "Smith EC",
+  "Robotham A",
+  "Mathew G",
+  "Hollingsworth MA"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43019631",
+ "importance": 0.64,
+ "key_points_ko": [
+  "MUC1 양성 세포주에서 MUC1 노크아웃 세포주에 비해 결합하지 않은 ATG12 단백질 수준이 유의미하게 증가했습니다.",
+  "MUC1은 세포주(CD11 및 S2-013)에서 ATG12 mRNA 발현을 유의미하게 상향 조절했습니다.",
+  "면역침전 및 질량분석을 통해 MUC1 C-말단 도메인(MUC1CT2)과 ATG12 단백질 간의 결합을 확인했습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1016/j.bbrc.2026.154869",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43019631"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019631/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC) 세포주에서 Mucin-1(MUC1)이 자가포식 관련 12(ATG12) 발현에 미치는 영향을 규명한 세포 실험 연구입니다. 연구진은 MUC1이 ATG12의 mRNA 전사를 유의미하게 증가시키고 결합하지 않은 유리 ATG12 단백질을 안정화한다는 것을 확인했습니다. MUC1과 ATG12는 모두 췌장암 환자에서 과다발현되며 생존율 감소와 관련이 있습니다. 이 연구는 MUC1이 ATG12 단백질을 안정화하고 전사를 조절하는 이전에 알려지지 않은 새로운 기전을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mucin-1 (MUC1) up-regulates autophagy-related 12 (ATG12) mRNA and protein levels in pancreatic cancer cell lines",
+ "title_ko": "췌장암 세포주에서 Mucin-1(MUC1)이 자가포식 관련 12(ATG12) mRNA 및 단백질 수준을 상향 조절함",
+ "trial": null,
+ "type": "paper"
+}

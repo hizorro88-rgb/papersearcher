@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, characterized by a lack of effective early detection, profoundly immunosuppressive microenvironment, and poor responsiveness to current therapies. Emerging evidence suggests that gut microbiota and their metabolites play important roles in pancreatic tumorigenesis. Glycoproteins shed from pancreatic precancerous lesions may influence the composition of the gut microbiota and their metabolites.\nMETHODS: We established a pancreatic precancerous lesion mouse model and performed integrated fecal metagenomic sequencing and non-targeted metabolomic profiling to characterize microbiota composition and metabolite alterations. Further we use plasma samples from patients, in vitro cytotoxicity assays and in vivo orthotopic pancreatic tumor models, fecal microbiota transplantation and pancreatic homogenate gavage to assess the effect of microbiota and metabolite alterations. And we conduct RNA sequencing, qPCR, ELISA, flow cytometry, molecular docking, and surface plasmon resonance to further explore its mechanisms.\nRESULTS: We identified hippuric acid as a key microbiota-derived metabolite that was significantly reduced during pancreatic tumorigenesis, which was associated with suppressed anti-tumor immunity and enhanced PDAC progression. This reduction was associated with enrichment of microbiota harboring hippurate hydrolase and correlated with poor prognosis in PDAC patients. Mechanistically, hippuric acid activated IL-21R-STAT3-TBX21 signaling axis, promoting the expression of cytotoxic effector molecules, including granzyme B and perforin, thus enhancing NK cell cytotoxicity. Molecular docking and surface plasmon resonance analyses further suggested a direct interaction between hippuric acid and IL-21R.\nCONCLUSIONS: Collectively, our study uncovers a previously unrecognized positive feedback regulatory loop involving the PDAC-gut microbiota-hippuric acid-NK cell-PDAC axis and highlights the critical role of gut microbiota and their metabolites in pancreatic tumorigenesis.",
+ "authors": [
+  "Zhang X",
+  "Qin C",
+  "Zhao Y",
+  "Li Z",
+  "Xie Y",
+  "Yan Y",
+  "Li T",
+  "Huang L"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43021363",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장암 진행 과정에서 마뇨산 가수분해효소를 보유한 장내 미생물이 증가하며 마뇨산(hippuric acid) 수치가 크게 감소했습니다.",
+  "마뇨산 감소는 자연살해(NK) 세포의 항암 면역 기능 억제 및 췌장암 환자의 불량한 예후와 연관되었습니다.",
+  "마뇨산은 IL-21 수용체(IL-21R)-STAT3-TBX21 신호 경로를 통해 NK 세포의 세포독성 물질(granzyme B, perforin) 발현과 세포독성을 강화했습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1186/s12967-026-08825-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43021363"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021363/"
+ },
+ "summary_ko": "본 연구는 장내 미생물 및 대사물질이 췌관선암(PDAC)의 발생과 항암 면역 반응에 미치는 영향을 규명하고자 진행되었습니다. 연구진은 췌장암 진행 과정에서 대사물질인 마뇨산(hippuric acid)이 크게 감소하며 이것이 자연살해(NK) 세포의 항암 면역 기능 억제와 연관됨을 확인했습니다. 마뇨산은 IL-21 수용체(IL-21R)-STAT3-TBX21 신호전달 축을 활성화하여 NK 세포의 세포독성 물질 발현을 촉진하는 역할을 합니다. 본 연구는 췌장암과 장내 미생물, 마뇨산, NK 세포 간의 상호작용을 밝혀 새로운 치료적 접근 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gut microbiota-driven hippuric acid hydrolysis promotes pancreatic tumorigenesis by suppressing NK cell activity",
+ "title_ko": "장내 미생물에 의한 마뇨산 가수분해가 자연살해세포 활동을 억제하여 췌장암 발생을 촉진함",
+ "trial": null,
+ "type": "paper"
+}

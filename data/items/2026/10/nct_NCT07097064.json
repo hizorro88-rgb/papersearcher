@@ -27,11 +27,11 @@
  "id": "nct:NCT07097064",
  "importance": 0.97,
  "key_points_ko": [
-  "췌장암은 5년 생존율이 5.5%로 예후가 매우 불량합니다.",
-  "국소 진행성 췌장암의 관리 방법은 표준화되어 있지 않으며, 유도 항암화학요법으로 FOLFIRINOX와 GEMBRAX가 검증되었습니다.",
-  "기존 후향적 연구에서 MRI 유도 적응형 정위적 방사선치료(SMART)는 1년 국소 제어율 최대 98%, 전체 생존기간 최대 23개월을 보였습니다."
+  "임상시험 상태: 철회됨(WITHDRAWN)",
+  "평가 대상: 표준 항암화학방사선치료 및 MRI 유도 적응형 정위적 방사선치료(SMART)",
+  "대상 질환: 국소진행성 췌장선암(Locally Advanced Pancreatic Adenocarcinoma)"
  ],
- "last_updated": "2026-11-13",
+ "last_updated": "2026-11-14",
  "links": {
   "doi": null,
   "nct": [
@@ -54,20 +54,20 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07097064"
  },
- "summary_ko": "본 임상시험은 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 방사선치료와 항암화학요법 병행 요법 대비 MRI 유도 적응형 정위적 방사선치료(SMART)의 유효성을 평가하고자 했습니다. 18세 이상이며 조직학적으로 확진된 비전이성 국소 진행성 췌장암 환자를 대상으로 계획되었습니다. 초록에 명시된 결과 및 임상시험 상태는 철회(WITHDRAWN)되었습니다. 목표 환자 수는 0명입니다.",
+ "summary_ko": "이 임상시험은 국소진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 항암화학방사선치료와 MRI 유도 적응형 정위적 방사선치료(SMART)를 평가하고자 했습니다. 그러나 현재 이 임상시험은 철회(withdrawn)되었습니다. 대상 질환은 전이가 없는 국소진행성 췌장선암입니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic Adenocarcinoma",
   "adaptative radiotherapy"
  ],
  "title": "Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers",
- "title_ko": "국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가",
+ "title_ko": "국소진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 확진된 췌장암(pancreatic adenocarcinoma)\n- 나이 만 18세 이상\n- WHO 수행능력 점수 0-1\n- NCCN 권고안에 따른 국소 진행성(locally advanced)\n- TAP CT 및 간 MRI 검사 결과 전이가 없는 경우\n- CA 19-9 수치 1000 IU/mL 미만\n- 최소 4주기에서 최대 8주기의 유도 항암화학요법(Folfirinox 및/또는 Gemzar-Abraxane) 완료\n- 가임기 여성의 경우 치료 시작 전 임신 테스트 음성 및 피임 동의\n- 연구 절차 준수 가능 및 서면 동의서 제출\n- 프랑스 건강보험 가입자\n\n제외 기준:\n- 다른 동반 암 또는 3년 이내 암 병력 (치료된 제자리 경부암, 기저세포/편평세포 피부암, 표재성 방광종양 등은 예외)\n- 연구 방사선치료와 겹치는 복부 방사선조사 병력\n- MRI 및 MRI 유도 방사선치료 금기증(폐쇄공포증, 금속 물질 등)\n- 결장 또는 직장의 만성 염증성 질환 병력\n- 임신부 또는 수유부\n- 연구 참여에 방해되는 심각한 동반 질환\n- 법적 무능력자\n- 플루오로피리미딘(fluoropyrimidine) 계열 치료에 대한 심각한 반응 병력 또는 과민반응\n- 디하이드로피리미딘 탈수소효소(DPD) 결핍\n- 심각한 백혈구감소증, 호중구감소증, 혈소판감소증 환자\n- 심각한 간부전 또는 신부전(크레아티닌 클리어런스 30 mL/min 미만)\n- 브리부딘(brivudine) 최근 또는 동반 투여",
+  "eligibility_ko": "선정 기준:\n* 조직학적으로 확진된 췌장선암\n* 연령 18세 이상\n* WHO 수행능력 평가(WHO score) 0~1\n* NCCN 1.2015 권고사항에 따른 국소진행성\n* TAP(흉부·복부·골반) CT 및 간 MRI 검사 결과 원격 전이가 없음\n* CA 19.9 수치 < 1000 IU/mL\n* 최소 4주기에서 최대 8주기의 유도 항암화학치료(Folfirinox 또는 Gemzar-Abraxane) 완료\n* 연구 참여에 대한 자발적인 서면 동의서 제출\n\n제외 기준:\n* 다른 동반 암 또는 과거 암 병력 (치료된 자궁경부 상피내암, 기저세포 또는 편평세포 피부암, 표재성 방광종양 등은 예외)\n* 본 연구의 방사선치료와 겹칠 수 있는 복부 방사선조사 과거력\n* MRI 및 MRI 유도 방사선치료 금기 사항(폐쇄공포증, 금속 물질 존재 등)\n* 결장 또는 직장의 만성 염증성 질환 과거력\n* 임신부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Histologically proven pancreatic adenocarcinoma ;\n* Age ≥ 18 years ;\n* WHO score 0-1 ;\n* Locally advanced according to NCCN 1.2015 recommendations;\n* Non-metastatic after TAP scan and MRI of the liver ;\n* CA 19.9 \\< 1000 IU/mL ;\n* Completion of at least 4 cycles of induction chemotherapy (Folfirinox and/or Gemzar-Abraxane) with a maximum of 8 courses ;\n* Women of childbearing potential must have a pregnancy blood test within a maximum of 7 days before starting the study treatment. A negative result must be documented before study treatment is started. Women without reproductive potential are postmenopausal women or women who have undergone permanent sterilisation (e.g. tubal occlusion, hysterectomy, bilateral salpingectomy) ;\n* Effective contraception for women of childbearing age ;\n* Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests and other study procedures ;\n* Patient has given informed, written and express consent ;\n* Patient affiliated to a French health insurance scheme.\n\nExclusion Criteria:\n\n* Other concomitant cancer or history of cancer, with the exception of treated cervical cancer in situ, basal or squamous cell skin carcinoma, superficial bladder tumour (Ta, Tis, and T1) or a tumour with a good prognosis treated curatively without chemotherapy and without evidence of disease in the 3 years prior to inclusion ;\n* History of radiotherapy with a foreseeable overlap with the radiotherapy treatment under study (history of abdominal irradiation) ;\n* Contraindication to MRI and MRI-guided radiotherapy (claustrophobia, presence of metallic elements etc...) ;\n* History of chronic inflammatory disease of the colon or rectum ;\n* Women who are pregnant, parturient or breastfeeding ;\n* Any other serious concomitant and unbalanced disease or disorder that may interfere with the patient's participation in the study and his/her safety during the study (e.g. severe hepatic, renal, pulmonary, metabolic, or psychiatric disorders) ;\n* Legal incapacity (patient under curatorship or guardianship) ;\n* History of severe and unexpected reactions to treatment containing a fluoropyrimidine ;\n* Hypersensitivity to capecitabine, to used excipients or to fluorouracil ;\n* Known complete deficiency of dihydropyrimidine dehydrogenase (DPD) ;\n* In patients with severe leukopenia, neutropenia or thrombocytopenia ;\n* In patients with severe hepatic insufficiency ;\n* Patients with severe renal insufficiency (creatinine clearance less than 30 mL/min) ;\n* Recent or concomitant treatment with brivudine.",
   "enrollment": 0,
   "has_results": false,
@@ -85,18 +85,19 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "다른 암 병력",
-    "복부 방사선조사 병력",
-    "MRI 검사 금기증(폐쇄공포증, 체내 금속 등)",
-    "임신 또는 수유 중인 경우"
+    "MRI 검사 및 치료가 불가능한 경우 (폐쇄공포증, 금속 물질 등)",
+    "과거 복부 방사선 치료 병력",
+    "결장 또는 직장의 만성 염증성 질환",
+    "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": 1,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "유도 항암화학요법을 4~8주기 마친 ECOG 0-1의 국소 진행성 췌장암 환자",
+   "notes_ko": "유도 항암화학치료를 4~8주기 받은 국소진행성 췌장선암 환자",
    "prior_excluded": [],
    "prior_required": [
     "gemcitabine",
+    "platinum",
     "fluoropyrimidine",
     "irinotecan",
     "taxane"

@@ -12,10 +12,11 @@
  ],
  "categories": [
   "treatment",
+  "supportive",
   "diagnosis"
  ],
  "entities": [],
- "evidence": "guideline",
+ "evidence": "observational",
  "first_seen": "2026-11-13",
  "history": [
   {
@@ -25,8 +26,12 @@
   }
  ],
  "id": "pmid:43015534",
- "importance": 0.87,
- "key_points_ko": [],
+ "importance": 0.69,
+ "key_points_ko": [
+  "전체 췌장암 환자 3,595명 중 국소 병기 환자의 32%, 구역 병기의 82%, 원격 전이 병기의 71%가 가이드라인 준수 치료를 받았습니다.",
+  "높은 사회적 박탈 지수(SDI)를 가진 환자는 전체 병기에서 가이드라인 준수 치료를 받을 확률이 29% 낮았습니다(위험비 0.71, 95% 신뢰구간 0.55-0.92).",
+  "거주 지역의 시골 여부는 모든 병기에서 가이드라인 준수 치료 수령 여부와 통계적 연관성을 보이지 않았습니다."
+ ],
  "last_updated": "2026-11-13",
  "links": {
   "doi": "10.1245/s10434-026-20790-2",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43015534/"
  },
- "summary_ko": "INTRODUCTION: Rural-dwelling patients with pancreatic cancer (PC) and a higher Social Deprivation Index (SDI) score may be less likely to receive guideline-concordant care (GCC) than patients living in urban areas. We hypothesized that SDI score and rurality would affect the receipt of GCC among patients with PC.",
- "summary_source": "excerpt",
+ "summary_ko": "2004년부터 2019년까지 노스캐롤라이나 암 등록부 데이터를 바탕으로 췌장암 환자 3,595명의 가이드라인 준수 치료(GCC) 수령 여부를 분석한 관찰 연구입니다. 거주 지역의 시골 여부(지리적 위치)는 가이드라인 준수 치료 수령과 통계적 연관성을 보이지 않았습니다. 반면 사회적 박탈 지수(SDI)가 높은 환자일수록 가이드라인에 따른 표준 치료를 받을 확률이 유의하게 낮았습니다. 특히 초기 국소 췌장암 환자에서 높은 사회적 박탈 지수가 지침 준수 치료 수령 감소와 가장 강한 연관성을 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Social Deprivation, not Rurality, is Associated with Receipt of Guideline-concordant Care for Pancreatic Cancer in North Carolina, USA",
- "title_ko": null,
+ "title_ko": "미국 노스캐롤라이나주 췌장암 환자의 지침 준수 치료 수령에는 시골 거주 여부가 아닌 사회적 박탈감이 영향을 미침",
  "trial": null,
  "type": "paper"
 }

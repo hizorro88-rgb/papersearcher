@@ -6,10 +6,11 @@
   "Zhang L"
  ],
  "categories": [
+  "basic",
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-13",
  "history": [
   {
@@ -19,8 +20,12 @@
   }
  ],
  "id": "pmid:43014070",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "FOXO3a 낮은 발현은 췌관선암 환자의 짧은 전체생존기간을 독립적으로 예측했습니다(위험비[HR] = 2.068, P = 0.004).",
+  "높은 β-catenin 발현 역시 환자의 나쁜 예후를 나타내는 독립적 위험 요인이었습니다(HR = 1.827, P = 0.014).",
+  "FOXO3a 발현 감소는 진행된 병기(P = 0.008), 신경 주위 침윤(P = 0.019), 원격 전이 상태(P < 0.001)와 유의하게 연관되어 있었습니다."
+ ],
  "last_updated": "2026-11-13",
  "links": {
   "doi": "10.1016/j.tranon.2026.103108",
@@ -42,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43014070/"
  },
- "summary_ko": "BACKGROUND: Forkhead box O3a (FOXO3a) plays important roles in tumor development; however, its expression pattern, prognostic significance, and biological function in pancreatic ductal adenocarcinoma (PDAC) remain unclear. METHODS: FOXO3a expression was evaluated in PDAC tissues and correlated with clinicopathological characteristics and patient survival.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌관선암(PDAC)에서 FOXO3a의 발현 양상과 예후적 가치, 생물학적 기능을 분석했습니다. 췌관선암 조직과 세포주에서 FOXO3a 발현이 유의하게 감소해 있었으며, 이는 병기 진행 및 전이와 연관이 있었습니다. FOXO3a 과발현은 WNT/β-catenin(β-카테닌) 신호전달을 억제하여 암세포의 증식과 이동, 침윤을 줄였고 동물실험에서도 종양 성장을 억제했습니다. 따라서 FOXO3a는 췌장암의 예후 예측 인자 및 치료 타깃으로서의 가능성을 보여줍니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "FOXO3a suppression predicts poor prognosis and facilitates cell migration and invasion through the WNT/β-catenin pathway in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암에서 FOXO3a 억제의 예후 불량 예측 및 WNT/β-카테닌 경로를 통한 세포 이동과 침윤 촉진 효과",
  "trial": null,
  "type": "paper"
 }

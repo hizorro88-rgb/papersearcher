@@ -1,0 +1,56 @@
+{
+ "abstract": null,
+ "authors": [
+  "van Eijck CHJ",
+  "Katz MHG",
+  "Besselink MG"
+ ],
+ "categories": [
+  "trial",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43021448",
+ "importance": 0.65,
+ "key_points_ko": [
+  "본 텍스트에는 논문 제목과 저널 정보만 제공되었습니다.",
+  "구체적인 연구 결과 및 핵심 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1097/SLA.0000000000007256",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43021448"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021448/"
+ },
+ "summary_ko": "본 텍스트는 Annals of Surgery 저널에 게재된 췌장암 임상시험 관련 논문의 정보입니다. 췌장암 임상시험의 임상적 영향력과 기준에 대한 논의를 다룹니다. 구체적인 연구 결과 및 수치는 제공된 텍스트에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical Impact in Pancreatic Cancer Trials: Time to Raise the Bar",
+ "title_ko": "췌장암 임상시험의 임상적 영향: 기준을 높여야 할 때",
+ "trial": null,
+ "type": "paper"
+}

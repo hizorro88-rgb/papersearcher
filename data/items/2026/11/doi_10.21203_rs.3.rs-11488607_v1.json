@@ -1,0 +1,53 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Purpose  Radical periarterial techniques, including artery-first approaches, mesopancreas excision, arterial resection, periarterial divestment and the TRIANGLE operation, address the same periarterial compartment under different names, and their literature has not been mapped as a whole. This study aimed to map the growth, contributors, collaboration patterns, thematic evolution and randomized evidence of this field. Methods  The Web of Science Core Collection was searched on 6 October 2026 for English-language articles and reviews. After title and abstract screening, 539 records were analysed. Performance indicators were calculated, and co-authorship and keyword co-occurrence networks were built with VOSviewer. Reporting followed the BIBLIO guideline. Results  The 539 documents (2000–2026) appeared in 128 journals and received 13,491 citations (h-index 56). Annual output grew by 14.4% per year between 2010 and 2025. Japan contributed the most documents (n = 161) but had the lowest international collaboration rate among the leading countries (2.1%). Heidelberg University was the most productive and most cited institution. The co-authorship network comprised 11 clusters, led by Japanese groups and a Heidelberg-centred European group. Arterial divestment, conversion surgery, robotic surgery and the TRIANGLE operation were among the newest themes. Only three completed randomized controlled trials were identified, all testing artery-first approaches; none addressed the TRIANGLE operation, divestment or arterial resection. Conclusion  Research on radical periarterial pancreatic surgery has moved from extended en bloc resection to neoadjuvant-enabled, artery-preserving clearance, yet these operations rest almost entirely on non-randomized evidence. Standardized definitions of periarterial clearance and multinational randomized trials are needed.</p>",
+ "authors": [
+  "Şafak A",
+  "Çakçak A."
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "rct",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11488607/v1",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11488607/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1365340"
+ },
+ "summary_ko": "<title>Abstract</title>  <p>Purpose  Radical periarterial techniques, including artery-first approaches, mesopancreas excision, arterial resection, periarterial divestment and the TRIANGLE operation, address the same periarterial compartment under different names, and their literature has not been mapped as a whole. This study aimed to map the growth, contributors, collaboration patterns, thematic evolution and randomized evidence of this field.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "From arterial resection to the TRIANGLE operation: a bibliometric analysis of radical periarterial surgery for pancreatic cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

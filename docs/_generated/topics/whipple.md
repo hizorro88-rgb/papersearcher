@@ -25,7 +25,7 @@ search:
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
-| [복강경 췌두십이지장절제술의 안전성 및 타당성 평가를 위한 전향적 연구](../trials/NCT07009119.md) | 해당 없음 | 모집 중 | - |
+| [복강경 췌십이지장절제술](../trials/NCT07009119.md) | 해당 없음 | 모집 중 | - |
 | [고령 환자 대상 주요 간절제술 및 췌십이지장절제술에서 포괄적 노인 관리가 이병률 및 삶의 질에 미치는 영향](../trials/NCT06999512.md) | 2상/3상 | 모집 예정 | - |
 | [Glubran2 조직 접착제를 이용한 췌장공장문합술 보강의 효과 평가 임상시험](../trials/NCT06756074.md) | 2상 | 모집 중 | - |
 | [췌십이지장절제술 후 통증 조절을 위한 리포소말 부피바카인을 이용한 복직근초 차단술과 흉부 경막외 진통법의 비교](../trials/NCT06411795.md) | 2상 | 모집 중 | - |
@@ -461,12 +461,18 @@ search:
 
 ---
 <a id="pmid-43015764"></a>
-#### [Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+#### [수술 가능한 췌장암의 예후 인자: 체계적 문헌 고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+<small>Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis</small>
+
 `논문` `메타분석` `수술` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-08-17 · PubMed · BMC Surg · 중요도 0.85
 
-BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.
+근치적 절제술을 받은 췌관선암(PDAC) 환자 79,446명을 대상으로 한 52개 연구를 분석하여 전체 생존기간(OS)에 영향을 주는 예후 인자를 확인했습니다. 다변량 메타분석 결과, 고령, 남성, 높은 CA19-9 수치, 호중구 대 림프구 비율(NLR) 및 CRP 대 알부민 비율(CRP/Alb) 상승, 혈관 침윤, 절제 단면 양성, 분화도 불량, 진행된 T 병기, 림프절 전이가 불량한 생존율과 연관되었습니다. 반면 수술 후 보조 항암치료는 생존율을 크게 개선하는 것으로 확인되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
+- 총 52개 연구 및 79,446명의 수술 받은 췌관선암 환자 데이터를 메타분석했습니다.
+- 수술 후 보조 항암치료는 사망 위험을 48% 감소시켜 생존율을 크게 개선했습니다(위험비[HR] 0.52).
+- 고령(HR 2.17), 높은 CRP/Alb 비율(HR 2.05), 췌십이지장절제술(PD) 대 원위부 췌절제술(DP)(HR 1.76), 절제 단면 양성(HR 1.73), 림프절 전이(HR 1.68) 등이 사망 위험을 높이는 주요 다변량 예후 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13756980/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
 
 ---
 <a id="pmid-42866830"></a>

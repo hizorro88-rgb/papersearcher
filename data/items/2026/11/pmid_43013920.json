@@ -11,11 +11,12 @@
   "Webster S"
  ],
  "categories": [
+  "basic",
   "diagnosis",
   "drug"
  ],
  "entities": [],
- "evidence": "observational",
+ "evidence": "preclinical",
  "first_seen": "2026-11-13",
  "history": [
   {
@@ -25,8 +26,12 @@
   }
  ],
  "id": "pmid:43013920",
- "importance": 0.77,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "영상을 통한 4가지 분자 지표 예측 정확도(AUROC)는 마우스 MRI에서 0.938~0.960, 인간 CT에서 0.780~0.856을 기록했습니다.",
+  "인간 CT 영상 점수는 임상 변수를 조정한 후에도 사망 위험을 예측하는 독립적 요인이었습니다(표준편차당 위험비 1.87, 95% 신뢰구간 1.32~2.66).",
+  "기존 임상 변수만 사용했을 때의 생존 예측 일치도 지수(0.611)에 비해 영상 점수를 결합했을 때(0.726) 예측 정확도가 상승했습니다."
+ ],
  "last_updated": "2026-11-13",
  "links": {
   "doi": "10.1016/j.ebiom.2026.106545",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43013920/"
  },
- "summary_ko": "BACKGROUND: Computed tomography (CT) stages pancreatic ductal adenocarcinoma (PDAC) but does not read out the treatment-guiding tumour biology, requiring biopsy. Whether an imaging-biology relationship discovered in preclinical MRI holds independently in human CT is unknown.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 마우스의 자기공명영상(MRI)과 인간의 복부 컴퓨터단층촬영(CT) 영상에서 종양의 생물학적 특성을 파악할 수 있는 인공지능 분석 파이프라인을 평가했습니다. 연구 결과, 마우스와 인간 모두에서 CD8 T세포 침윤, 기질 콜라겐, 면역 균형 등 4가지 주요 분자 지표를 영상 분석으로 예측할 수 있었습니다. 특히 인간 CT 영상 점수는 나이, 병기, 조직학적 등급을 조정한 후에도 사망 위험을 예측하는 독립적인 지표였습니다. 이러한 결과는 비침습적 CT 영상으로 조직검사를 일부 대체하거나 임상시험 환자군을 선별할 수 있는 가능성을 보여줍니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Foundation-model imaging biomarkers for pancreatic cancer: cross-species discovery of conserved tumour biology in mouse MRI and human CT",
- "title_ko": null,
+ "title_ko": "파운데이션 모델 기반 췌장암 영상 바이오마커: 마우스 MRI와 인간 CT에서 보존된 종양 생물학의 종간 발견",
  "trial": null,
  "type": "paper"
 }

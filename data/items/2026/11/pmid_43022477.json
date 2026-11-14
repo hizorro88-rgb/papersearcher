@@ -1,0 +1,59 @@
+{
+ "abstract": "PURPOSE: This study was performed to evaluate the postoperative and long-term oncologic outcomes of radical antegrade modular pancreatosplenectomy (RAMPS) relative to conventional distal pancreatosplenectomy (cDPS) in patients with left-sided pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: Between 2005 and 2017, 316 patients with left-sided PDAC who underwent curative-intent distal pancreatectomy at four tertiary referral centers were retrospectively analyzed. Propensity score matching was performed at a 1:2 ratio based on age, sex, tumor differentiation, and T and N stage.\nRESULTS: Among 316 patients, 236 underwent RAMPS and 80 underwent cDPS. After propensity score matching, 210 patients with well-balanced baseline characteristics were included (RAMPS, 139; cDPS, 71). The RAMPS group demonstrated a significantly higher R0 resection rate (99.3% vs. 88.6%, P = 0.007) and a greater number of harvested lymph nodes (16.3 ± 11.2 vs. 10.3 ± 7.1, P < 0.001) than the cDPS group. The overall survival (OS) (median, 26 months vs. 31 months; P = 0.963) and disease-free survival (DFS) (median, 11 months vs. 9 months; P = 0.148) did not differ between the groups. In an exploratory analysis of node-negative patients, RAMPS showed a favorable trend toward improved DFS; however, the operative method was not an independent prognostic factor for either DFS or OS in multivariate analysis. Tumor-related factors, rather than the operative method, were independently associated with long-term outcomes.\nCONCLUSION: Despite superior margin clearance and lymph node retrieval, RAMPS did not improve long-term survival compared with cDPS, even in node-negative disease, indicating that outcomes in left-sided PDAC are driven more by tumor biology than by the surgical approach.",
+ "authors": [
+  "Choo K",
+  "Kim N",
+  "Lim CS",
+  "Shin YC",
+  "Ryu KJ",
+  "Kim MJ",
+  "Chae H",
+  "Kim HS"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43022477",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.4174/astr.2026.111.5.270",
+  "nct": [],
+  "pmcid": "PMC13755617",
+  "pmid": "43022477"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Treat Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43022477/"
+ },
+ "summary_ko": "PURPOSE: This study was performed to evaluate the postoperative and long-term oncologic outcomes of radical antegrade modular pancreatosplenectomy (RAMPS) relative to conventional distal pancreatosplenectomy (cDPS) in patients with left-sided pancreatic ductal adenocarcinoma (PDAC). METHODS: Between 2005 and 2017, 316 patients with left-sided PDAC who underwent curative-intent distal pancreatectomy at four tertiary referral centers were retrospectively analyzed.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Radical antegrade modular pancreatosplenectomy versus conventional distal pancreatosplenectomy for left-sided pancreatic ductal adenocarcinoma: a multicenter propensity score-matched analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

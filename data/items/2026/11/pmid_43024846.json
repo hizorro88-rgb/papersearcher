@@ -1,0 +1,65 @@
+{
+ "abstract": "PURPOSE: Clonal hematopoiesis (CH) is increasingly recognized as a proinflammatory driver of adverse outcomes in solid tumors. Tumor-infiltrating immune cells with CH (TI-CH) actively promote tumor growth and those harboring TI-CH experience significantly worse survival. We investigated the prevalence and impact of CH on outcomes in patients with treatment-naïve metastatic pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: Peripheral blood from 125 patients with metastatic PDAC enrolled in the PASS-01 trial (ClinicalTrials.gov identifier: NCT04469556) was evaluated. CH was defined as the presence of pathogenic or likely pathogenic variants with a variant allele frequency (VAF) of ≥1% in a 23 gene panel. Survival was estimated using the Kaplan-Meier method and compared using the log-rank test. Hazard ratios (HRs) were estimated using multivariable Cox proportional hazards regression.\nRESULTS: CH was detected in 36.8% (46 of 125) of patients, and DNMT3A (60.9%) and TET2 (17.4%) were the most frequently mutated genes. There was no significant difference in progression-free survival (PFS; median, 4.9 v 5.2 months; HR, 1.01 [95% CI, 0.68 to 1.49]; P = .95) and overall survival (OS; median, 9.4 v 9.6 months; HR, 0.99 [95% CI, 0.63 to 1.53]; P = .95) between CH-positive and CH-negative patients, respectively. Among patients with basal-like subtype (n = 23), the presence of CH was associated with a numerically shorter PFS (median, 2.4 v 4.7 months; HR, 2.50 [95% CI, 0.93 to 6.84]; P = .06) and OS (median, 6.2 v 10.2 months; HR, 1.37 [95% CI, 0.51 to 3.69]; P = .52). In contrast, classical subtype showed no significant differences in survival outcomes by CH.\nCONCLUSION: CH is prevalent in metastatic PDAC but not independently prognostic. Further examination of CH in basal subtype tumors and the role of TI-CH in PDAC is needed.",
+ "authors": [
+  "Sainamthip P",
+  "Somadasan M",
+  "Culnane L",
+  "Andrews E",
+  "Brais L",
+  "Andrews M",
+  "Jang GH",
+  "Zhang A"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43024846",
+ "importance": 0.77,
+ "key_points_ko": [
+  "전이성 췌장암 환자 125명 중 36.8%(46명)에서 클론성 조혈 작용(CH)이 검출되었습니다.",
+  "전체 환자군에서 클론성 조혈 작용 유무에 따른 무진행 생존기간(중앙값 4.9개월 대 5.2개월) 및 전체 생존기간(중앙값 9.4개월 대 9.6개월)에 유의미한 차이는 없었습니다.",
+  "기저형(basal-like) 아형 환자 23명 분석에서는 클론성 조혈 작용이 있는 경우 무진행 생존기간(중앙값 2.4개월 대 4.7개월)과 전체 생존기간(중앙값 6.2개월 대 10.2개월)이 더 짧은 경향을 보였습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1200/PO-26-00511",
+  "nct": [
+   "NCT04469556"
+  ],
+  "pmcid": null,
+  "pmid": "43024846"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCO Precis Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43024846/"
+ },
+ "summary_ko": "본 연구는 PASS-01 임상시험에 등록된 치료 경험이 없는 전이성 췌장관선암(PDAC) 환자 125명을 대상으로 클론성 조혈 작용(CH)의 빈도와 예후적 영향에 대해 분석했습니다. 전체 환자의 36.8%에서 클론성 조혈 작용이 확인되었으나 무진행 생존기간(PFS)과 전체 생존기간(OS)에 직접적인 생존 차이를 보이지는 않았습니다. 다만 기저형(basal-like) 아형 환자군에서는 클론성 조혈 작용이 있을 때 생존 기간이 수치적으로 단축되는 경향이 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Impact of Clonal Hematopoiesis on Outcomes in Metastatic Pancreatic Ductal Adenocarcinoma: Analysis From the PASS-01 Trial",
+ "title_ko": "전이성 췌장관선암 환자에서 클론성 조혈 작용이 치료 결과에 미치는 영향: PASS-01 임상시험 분석",
+ "trial": null,
+ "type": "paper"
+}

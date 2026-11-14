@@ -1,0 +1,115 @@
+{
+ "abstract": "This randomized phase II trial studies how well veliparib together with gemcitabine hydrochloride and cisplatin works compared to gemcitabine hydrochloride and cisplatin alone in treating patients with pancreatic cancer that has spread from where it started to nearby tissue or lymph nodes (locally advanced) or spread from the primary site (place where it started) to other places in the body (metastatic). Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as gemcitabine hydrochloride and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. It is not yet known whether giving veliparib together with gemcitabine hydrochloride and cisplatin is an effective treatment for pancreatic cancer.\n\nPRIMARY OBJECTIVES:\n\nI. To optimize the dose of veliparib combined with fixed doses of gemcitabine hydrochloride (gemcitabine) and cisplatin in a (non-randomized, lead-in portion of Part I).\n\nII. To evaluate the response rate (Response Evaluation Criteria in Solid Tumors \\[RECIST\\] criteria) of gemcitabine, cisplatin, and veliparib (Arm A) and gemcitabine, cisplatin (Arm B) in BRCA and PALB2 mutation carriers with advanced pancreas adenocarcinoma. (Part I) III. To evaluate the response rate (RECIST criteria) of single-agent veliparib (Arm C) in BRCA and PALB2 carriers with previously treated pancreas adenocarcinoma. (Part II)\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the progression-free survival in study Arm A and Arm B. (Part I) II. To describe the safety and tolerability of gemcitabine, cisplatin, and veliparib and gemcitabine and cisplatin in BRCA and PALB2 carriers with advanced pancreas adenocarcinoma. (Part I) III. To determine the disease control rate (complete response \\[CR\\] + partial response \\[PR\\] + stable disease \\[SD\\]) and duration of response in study Arm A and Arm B. (Part I) IV. To evaluate overall survival in study Arm A and Arm B. (Part I) V. To evaluate progression-free survival for single-agent veliparib in BRCA and PALB2 mutation carriers with previously treated pancreas adenocarcinoma (Arm C). (Part II) VI. To describe the safety and tolerability of single-agent veliparib in BRCA and PALB2 mutation carriers with previously treated pancreas adenocarcinoma. (Part II) VII. To determine the disease control rate (CR + PR + SD) and duration of response in Arm C. (Part II) VIII. To evaluate overall survival in Arm C. (Part II)\n\nCORRELATIVE SCIENCE OBJECTIVES:\n\nI. To determine the genotype of BRCA1, BRCA2 and PALB2-mutated pancreas adenocarcinoma.\n\nII. To assess pre and post therapy biopsies for novel or persistent genetic alterations in genes identified in aim I.\n\nIII. To quantify levels of PAR in peripheral blood mononuclear cells (PBMCs) and tumor tissues at sequential time points before and following therapy with veliparib.\n\nIV. To quantify levels of gammaH2AX and RAD51 foci in PBMCs and tumor tissue (where available) at sequential time points to assess for formation of double-stranded deoxyribonucleic acid (DNA) breaks, stalled/collapsed replication forks and evaluate homologous recombination competence.\n\nEXPLORATORY OBJECTIVES:\n\nI. To correlate the results of genotyping with gene expression to provide functional information on mutations identified.\n\nII. An exploratory assessment of differential expression of genes involved in DNA repair pathways pre and post treatment to identify candidate genes predictive of response or resistance to therapy for further study in preclinical models of disease.\n\nOUTLINE: This is a dose-escalation study of veliparib followed by a randomized, open-label study.\n\nPatients receive veliparib orally (PO) twice daily (BID) on days 1-12 or 1-21 of each cycle. Patients also receive gemcitabine hydrochloride intravenously (IV) over 30 minutes and cisplatin IV over 30 minutes on days 3 and 10 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. (CLOSED AS OF 12/13/13)\n\nPart I Lead-in/Non Randomized Portion: There will be a small lead-in, non-randomized portion to Part I, where dose levels of veliparib 20 mg po BID (dose level 0), 40 mg po BID (dose level 1) and 80 mg po BID (dose level 2), will be evaluated on a day 1-12 schedule. The doses of gemcitabine 600 mg/m2 and cisplatin 25 mg/m2 are fixed. Three-6 patients will be evaluated per dose level starting with 20 mg po BID (dose level 0). If no dose-limiting toxicity (DLT), the dose of veliparib will be increased to 40 mg po BID (dose level 1) and subsequently to 80 mg po BID (dose level 2). If no DLT is observed at the veliparib dose of 80 mg BID day 1-12, then dose level 2A will examine veliparib at 80 mg po BID day 1-21, i.e., continuous dosing of veliparib. Subsequent cohorts will only examine continuous dosing of veliparib: dose level 3 (140mg po BID) and dose level 4 (200mg po BID). Approximately 6-24 patients total will be evaluated in this lead in portion of the study\n\nPART I: Once the maximum-tolerated dose of veliparib has been established, patients are randomized to 1 of 2 treatment arms.\n\nARM A (no prior therapy or \\>= 6 months since adjuvant therapy): Patients receive veliparib PO BID on days 1-12 of each cycle and gemcitabine hydrochloride IV over 30 minutes and cisplatin IV over 30 minutes on days 3 and 10 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo computed tomography (CT) or magnetic resonance imaging (MRI) throughout study. Patients also undergo tumor tissue and blood sample collection throughout the trial and undergo tumor biopsy during screening and on study.\n\nARM B (no prior therapy or \\>= 6 months since adjuvant therapy): Patients receive gemcitabine hydrochloride IV and cisplatin IV as patients in arm A. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. Patients also undergo CT or MRI throughout study. Patients also undergo tumor tissue and blood sample collection throughout the trial and undergo tumor biopsy during screening and on study.\n\nPART II: Patients who are eligible receive treatment in Arm C.\n\nARM C (prior therapy): Patients receive veliparib PO BID on days 1-28 of each cycle. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity. Patients also undergo CT or MRI throughout study. Patients also undergo tumor tissue and blood sample collection throughout the trial.\n\nAfter completion of study treatment, patients are followed up at 30 days and then every 3 months thereafter.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT01585805",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT01585805"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2012-04-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "National Cancer Institute (NCI)",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT01585805"
+ },
+ "summary_ko": "This randomized phase II trial studies how well veliparib together with gemcitabine hydrochloride and cisplatin works compared to gemcitabine hydrochloride and cisplatin alone in treating patients with pancreatic cancer that has spread from where it started to nearby tissue or lymph nodes (locally advanced) or spread from the primary site (place where it started) to other places in the body (metastatic). Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Gemcitabine Hydrochloride and Cisplatin With or Without Veliparib or Veliparib Alone in Treating Patients With Locally Advanced or Metastatic Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Adenocarcinoma",
+   "Metastatic Pancreatic Adenocarcinoma",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Male or female patients with cytologically or histologically confirmed locally advanced or metastatic pancreas adenocarcinoma with a BRCA1 or 2 or PALB2 mutation confirmed by report from Myriad Genetics (United States of America \\[USA\\]); reports from other molecular diagnostic companies can be used to confirm mutations as well; BRCA 1 or 2 or PALB2 mutation can be confirmed locally for all international sites\n\n  * For part I, non-randomized, lead-in portion, patients with a known BRCA 1 or 2 or PALB2 mutation are eligible along with patients who potentially may have a likelihood of having a BRCA mutation (e.g., personal or family history of breast, pancreas, ovary, endometrial, prostate or other likely related malignancy)\n  * For part I, randomized portion, a known BRCA 1 or 2 or PALB2 mutation is required\n* For part I (arms A, B): Patients can have either locally advanced or metastatic pancreas adenocarcinoma for which no prior therapy has been administered for either locally advanced or metastatic disease; prior adjuvant therapy is permissible if gemcitabine or a fluoropyrimidine was administered with or without radiation and if disease recurrence has been documented at least 6 months after completion of adjuvant therapy\n* For part II (arm C): Patients can have either locally advanced or metastatic pancreas adenocarcinoma; up to two prior treatment regimens are permissible (excluding a prior PARP inhibitor) for either localized or metastatic pancreas adenocarcinoma; prior combined chemotherapy and radiotherapy is permissible provided the patient has measurable disease outside the radiation port; prior therapy must have been completed at least 3 weeks prior to starting therapy\n* Age \\> 18 years. No dosing or adverse event data are currently available on the use of veliparib in patients \\< 18 years of age, therefore children are excluded from this study\n* Eastern Cooperative Oncology Group (ECOG) performance status:\n\n  * For part I (arm A, B): 0-1 (Karnofsky \\> 70%)\n  * For part II (arm C): 0-2 (Karnofsky \\>= 60%)\n* Life expectancy of greater than 3 months\n* Absolute neutrophil count \\>= 1,500/mcL (measured within 14 days prior to administration of ABT-888)\n* Hemoglobin \\>= 9.0 g/dl (measured within 14 days prior to administration of ABT-888)\n* Platelets \\>= 100,000/mcL (measured within 14 days prior to administration of ABT-888)\n* Total bilirubin =\\< 2 x institutional upper limit of normal (measured within 14 days prior to administration of ABT-888)\n* Aspartate aminotransferase(AST)/serum glutamic oxaloacetic transaminase (SGOT) and alanine aminotransferase(ALT)/serum glutamate pyruvate transaminase (SGPT) =\\< 2.5 x institutional upper limit of normal unless there is evidence of liver metastases in which case the AST (SGOT)/ALT (SGPT) must be =\\< 5 x institutional upper limit of normal (measured within 14 days prior to administration of ABT-888)\n* Creatinine =\\< 1.5 x upper limit of normal (ULN) (measured within 14 days prior to administration of ABT-888)\n* Measurable disease by RECIST criteria\n\n  * For the lead-in, non-randomized portion of part I, either measurable or evaluable disease is acceptable\n  * For part I, randomized portion, measurable disease is required\n* If a woman is of child-bearing potential a negative blood or urine pregnancy test is required; (the effects of veliparib on the developing human fetus are unknown; for this reason and because other therapeutic agents or modalities used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception \\[hormonal or barrier method of birth control; abstinence\\] prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately)\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 3 weeks earlier\n\n  * For part I, prior adjuvant therapy with gemcitabine or a fluoropyrimidine therapy is permitted if completed \\> 6 months prior to recurrence; no prior PARP inhibitor therapy is allowed\n  * For part II, no prior PARP inhibitor therapy is permitted and up to two prior treatment regimens are permitted as follows: 1 adjuvant and 1 metastatic; 1 locally advanced and 1 metastatic; or 2 metastatic, or a variation thereof\n* Patients may not be receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to veliparib or other agents used in study\n* For part I: patients with known contraindications to platinum agents are excluded\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because veliparib is a PARP inhibitor with the potential for teratogenic or abortifacient effects; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with veliparib, breastfeeding should be discontinued if the mother is treated with veliparib; these potential risks may also apply to other agents used in this study\n* Patients with a known active infection, e.g., hepatitis B virus or hepatitis C virus; human immunodeficiency virus (HIV)-positive patients who are otherwise well and who do not have evidence of significant immune compromise are eligible\n* Patients with active seizure or history of seizure are not eligible\n* Patients with uncontrolled central nervous system (CNS) metastasis are not eligible; patients with CNS metastases are to be stable for \\> 3 months after treatment and off steroid treatment prior to study enrollment\n* Patients with prior malignancy successfully treated who are currently stable and on no active treatment are eligible\n* Patients who are unable to swallow pills/capsules are ineligible\n* Patients with treatment-related acute myeloid leukemia (AML) (t-AML)/myelodysplastic syndrome (MDS) or with features suggestive of AML/MDS are ineligible\n* Patients with prior allogeneic bone marrow transplant or double umbilical cord blood transplantation are ineligible",
+  "enrollment": 83,
+  "has_results": true,
+  "interventions": [
+   "Biopsy Procedure",
+   "Biospecimen Collection",
+   "Cisplatin",
+   "Computed Tomography",
+   "Gemcitabine",
+   "Gemcitabine Hydrochloride",
+   "Magnetic Resonance Imaging",
+   "Veliparib"
+  ],
+  "last_update_posted": "2026-11-13",
+  "location_countries": [
+   "Canada",
+   "Israel",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "BRCA_PALB2"
+   ],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [
+    "gemcitabine",
+    "fluoropyrimidine"
+   ],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 12,
+  "nct_id": "NCT01585805",
+  "phase": "PHASE2",
+  "primary_completion_date": "2024-12-31",
+  "sex": "ALL",
+  "sponsor": "National Cancer Institute (NCI)",
+  "start_date": "2012-05-15",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

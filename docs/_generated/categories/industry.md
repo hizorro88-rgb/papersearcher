@@ -16,36 +16,80 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 37건 · 최근 30일 31건
+전체 39건 · 최근 30일 31건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07097064"></a>
-#### [국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](https://clinicaltrials.gov/study/NCT07097064)
+#### [국소진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](https://clinicaltrials.gov/study/NCT07097064)
 <small>Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers</small>
 
 `임상시험` `2상` `치료 전반` `진단·조기발견` `제약사·규제` · 2025-07-31 · ClinicalTrials.gov · Institut du Cancer de Montpellier - Val d'Aurelle · 중요도 0.97
 
 **NCT07097064** · 2상 · 철회 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07097064.md)
 
-본 임상시험은 국소 진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 방사선치료와 항암화학요법 병행 요법 대비 MRI 유도 적응형 정위적 방사선치료(SMART)의 유효성을 평가하고자 했습니다. 18세 이상이며 조직학적으로 확진된 비전이성 국소 진행성 췌장암 환자를 대상으로 계획되었습니다. 초록에 명시된 결과 및 임상시험 상태는 철회(WITHDRAWN)되었습니다. 목표 환자 수는 0명입니다.
+이 임상시험은 국소진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 항암화학방사선치료와 MRI 유도 적응형 정위적 방사선치료(SMART)를 평가하고자 했습니다. 그러나 현재 이 임상시험은 철회(withdrawn)되었습니다. 대상 질환은 전이가 없는 국소진행성 췌장선암입니다.
 
-- 췌장암은 5년 생존율이 5.5%로 예후가 매우 불량합니다.
-- 국소 진행성 췌장암의 관리 방법은 표준화되어 있지 않으며, 유도 항암화학요법으로 FOLFIRINOX와 GEMBRAX가 검증되었습니다.
-- 기존 후향적 연구에서 MRI 유도 적응형 정위적 방사선치료(SMART)는 1년 국소 제어율 최대 98%, 전체 생존기간 최대 23개월을 보였습니다.
+- 임상시험 상태: 철회됨(WITHDRAWN)
+- 평가 대상: 표준 항암화학방사선치료 및 MRI 유도 적응형 정위적 방사선치료(SMART)
+- 대상 질환: 국소진행성 췌장선암(Locally Advanced Pancreatic Adenocarcinoma)
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07097064) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07097064)</small>
 
 ---
+<a id="pmid-43013127"></a>
+#### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
+<small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
+
+이 연구는 췌장암 환자에서 노인 영양 위험 지수(Geriatric Nutritional Risk Index, GNRI)와 전체 생존기간(OS)의 연관성을 체계적으로 평가하기 위해 수행되었습니다. 총 18개의 관찰 연구가 포함되었고 그중 13개 연구가 메타분석에 활용되었습니다. 분석 결과, GNRI에 따른 높은 영양 위험은 현저하게 불량한 전체 생존기간과 연관이 있었습니다. 초록에 명시되지 않음
+
+- GNRI로 평가한 높은 영양 위험은 췌장암 환자의 불량한 전체 생존기간(OS)과 유의한 연관성을 보였습니다(통합 위험비 HR=1.79, 95% 신뢰구간: 1.42-2.26).
+- 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755016/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
+
+---
 <a id="pmid-43015764"></a>
-#### [Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+#### [수술 가능한 췌장암의 예후 인자: 체계적 문헌 고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43015764/)
+<small>Prognostic factors for resectable pancreatic adenocarcinoma: a systematic review and meta-analysis</small>
+
 `논문` `메타분석` `수술` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-08-17 · PubMed · BMC Surg · 중요도 0.85
 
-BACKGROUND: Prognostic stratification after curative-intent resection for pancreatic ductal adenocarcinoma (PDAC) remains challenging. We performed a systematic review and meta-analysis to identify prognostic factors associated with overall survival (OS) in resected PDAC.
+근치적 절제술을 받은 췌관선암(PDAC) 환자 79,446명을 대상으로 한 52개 연구를 분석하여 전체 생존기간(OS)에 영향을 주는 예후 인자를 확인했습니다. 다변량 메타분석 결과, 고령, 남성, 높은 CA19-9 수치, 호중구 대 림프구 비율(NLR) 및 CRP 대 알부민 비율(CRP/Alb) 상승, 혈관 침윤, 절제 단면 양성, 분화도 불량, 진행된 T 병기, 림프절 전이가 불량한 생존율과 연관되었습니다. 반면 수술 후 보조 항암치료는 생존율을 크게 개선하는 것으로 확인되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
+- 총 52개 연구 및 79,446명의 수술 받은 췌관선암 환자 데이터를 메타분석했습니다.
+- 수술 후 보조 항암치료는 사망 위험을 48% 감소시켜 생존율을 크게 개선했습니다(위험비[HR] 0.52).
+- 고령(HR 2.17), 높은 CRP/Alb 비율(HR 2.05), 췌십이지장절제술(PD) 대 원위부 췌절제술(DP)(HR 1.76), 절제 단면 양성(HR 1.73), 림프절 전이(HR 1.68) 등이 사망 위험을 높이는 주요 다변량 예후 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015764/) · [DOI](https://doi.org/10.1186/s12893-026-04105-6) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13756980/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015764)</small>
+
+---
+<a id="pmid-43024846"></a>
+#### [전이성 췌장관선암 환자에서 클론성 조혈 작용이 치료 결과에 미치는 영향: PASS-01 임상시험 분석](https://pubmed.ncbi.nlm.nih.gov/43024846/)
+<small>Impact of Clonal Hematopoiesis on Outcomes in Metastatic Pancreatic Ductal Adenocarcinoma: Analysis From the PASS-01 Trial</small>
+
+`논문` `관찰연구` `기초연구` `치료 전반` `제약사·규제` · 2026-11-13 · PubMed · JCO Precis Oncol · 중요도 0.77
+
+본 연구는 PASS-01 임상시험에 등록된 치료 경험이 없는 전이성 췌장관선암(PDAC) 환자 125명을 대상으로 클론성 조혈 작용(CH)의 빈도와 예후적 영향에 대해 분석했습니다. 전체 환자의 36.8%에서 클론성 조혈 작용이 확인되었으나 무진행 생존기간(PFS)과 전체 생존기간(OS)에 직접적인 생존 차이를 보이지는 않았습니다. 다만 기저형(basal-like) 아형 환자군에서는 클론성 조혈 작용이 있을 때 생존 기간이 수치적으로 단축되는 경향이 확인되었습니다.
+
+- 전이성 췌장암 환자 125명 중 36.8%(46명)에서 클론성 조혈 작용(CH)이 검출되었습니다.
+- 전체 환자군에서 클론성 조혈 작용 유무에 따른 무진행 생존기간(중앙값 4.9개월 대 5.2개월) 및 전체 생존기간(중앙값 9.4개월 대 9.6개월)에 유의미한 차이는 없었습니다.
+- 기저형(basal-like) 아형 환자 23명 분석에서는 클론성 조혈 작용이 있는 경우 무진행 생존기간(중앙값 2.4개월 대 4.7개월)과 전체 생존기간(중앙값 6.2개월 대 10.2개월)이 더 짧은 경향을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024846/) · [DOI](https://doi.org/10.1200/PO-26-00511) · [NCT04469556](https://clinicaltrials.gov/study/NCT04469556) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024846)</small>
+
+---
+<a id="doi-10.21203-rs.3.rs-11488607-v1"></a>
+#### [From arterial resection to the TRIANGLE operation: a bibliometric analysis of radical periarterial surgery for pancreatic cancer](https://europepmc.org/article/PPR/PPR1365340)
+`프리프린트` `무작위` `수술` `치료 전반` `제약사·규제` · 2026-11-12 · Europe PMC (preprint) · Research Square · 중요도 0.77
+
+<title>Abstract</title>  <p>Purpose  Radical periarterial techniques, including artery-first approaches, mesopancreas excision, arterial resection, periarterial divestment and the TRIANGLE operation, address the same periarterial compartment under different names, and their literature has not been mapped as a whole. This study aimed to map the growth, contributors, collaboration patterns, thematic evolution and randomized evidence of this field.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1365340) · [DOI](https://doi.org/10.21203/rs.3.rs-11488607/v1) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11488607/v1)</small>
 
 ---
 <a id="pmid-43013192"></a>
@@ -62,20 +106,6 @@ BACKGROUND: Prognostic stratification after curative-intent resection for pancre
 - 총 5개의 관찰 코호트에서 237명의 환자 데이터가 분석에 포함되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
-
----
-<a id="pmid-43013127"></a>
-#### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
-<small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
-
-이 연구는 췌장암 환자에서 노인 영양 위험 지수(Geriatric Nutritional Risk Index, GNRI)와 전체 생존기간(OS)의 연관성을 체계적으로 평가하기 위해 수행되었습니다. 총 18개의 관찰 연구가 포함되었고 그중 13개 연구가 메타분석에 활용되었습니다. 분석 결과, GNRI에 따른 높은 영양 위험은 현저하게 불량한 전체 생존기간과 연관이 있었습니다. 초록에 명시되지 않음
-
-- GNRI로 평가한 높은 영양 위험은 췌장암 환자의 불량한 전체 생존기간(OS)과 유의한 연관성을 보였습니다(통합 위험비 HR=1.79, 95% 신뢰구간: 1.42-2.26).
-- 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
 
 ---
 <a id="pmid-43006245"></a>
@@ -460,34 +490,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - 천공이나 조직 허혈이 없는 선별된 환자에서는 수술 없이 광범위 항생제 투여와 위 감압술 등 보존적 치료만으로도 호전을 기대할 수 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877802/) · [DOI](https://doi.org/10.12890/2026_007418) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13666637/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877802)</small>
-
----
-<a id="pmid-42865438"></a>
-#### [수술 불가능한 췌장암 1차 항암치료로서 변형 FOLFIRINOX와 젬시타빈+냅-파클리탁셀의 효능 및 독성 비교: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42865438/)
-<small>Efficacy and toxicities of modified FOLFIRINOX versus gemcitabine plus nab-paclitaxel as first-line chemotherapy for unresectable pancreatic cancer: a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `치료 전반` `신약·치료제` `수술` `제약사·규제` · 2026-09-28 · PubMed · Front Oncol · 중요도 0.82
-
-수술이 불가능한 췌장암 환자 1,204명을 대상으로 1차 표준 치료인 변형 FOLFIRINOX(mFFX)와 젬시타빈+냅-파클리탁셀(GnP) 병용요법을 비교 분석한 메타분석 연구입니다. 분석 결과 GnP 투여군이 mFFX 투여군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)에서 더 우수한 결과를 보였습니다. 객관적 반응률(ORR)에는 유의한 차이가 없었으나 질병 통제율(DCR)은 GnP군에서 다소 높은 경향을 보였습니다. 부작용 측면에서 mFFX군은 심한 설사와 식욕부진 발생 위험이 높았고, GnP군은 심한 호중구 및 백혈구 감소증 빈도가 더 높았습니다.
-
-- 총 5개 연구(무작위 배정 임상시험 3건, 후향적 연구 2건)의 췌장암 환자 1,204명(mFFX군 578명, GnP군 626명)을 분석했습니다.
-- GnP군과 비교했을 때 mFFX군은 전체 생존기간(HR 1.26, P=0.002)과 무진행 생존기간(HR 1.21, P=0.01)이 유의하게 더 짧았습니다.
-- 3등급 이상의 부작용으로 mFFX군에서는 설사(OR 5.63)와 식욕부진(OR 4.44)이 많았고, GnP군에서는 호중구 감소증(OR 0.66)과 백혈구 감소증(OR 0.49)이 더 빈번했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42865438/) · [DOI](https://doi.org/10.3389/fonc.2026.1913824) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655002/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42865438)</small>
-
----
-<a id="pmid-42864489"></a>
-#### [레볼루션 메디슨스(RevMed)의 첫 췌장암 치료제](https://pubmed.ncbi.nlm.nih.gov/42864489/)
-<small>RevMed&#x27;s pancreatic cancer drug first</small>
-
-`논문` `보도자료` `신약·치료제` `제약사·규제` `치료 전반` · 2026-10-01 · PubMed · Nat Biotechnol · 중요도 0.53
-
-네이처 바이오테크놀로지(Nat Biotechnol)에 게재된 레볼루션 메디슨스(RevMed)의 췌장암 약물 관련 뉴스 소식입니다. 제공된 자료에 상세 본문이 포함되어 있지 않아 구체적인 연구 내용과 치료 성적은 초록에 명시되지 않았습니다. 추가적인 임상 결과 확인을 위해서는 원문 확인이 필요합니다.
-
-- 레볼루션 메디슨스(RevMed)의 췌장암 신약에 관한 뉴스 기사입니다.
-- 상세한 약물 정보 및 임상 시험 수치는 제공된 텍스트에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42864489/) · [DOI](https://doi.org/10.1038/s41587-026-03363-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42864489)</small>
 
 ---

@@ -44,11 +44,11 @@ search:
 | [경계성 절제 가능 및 국소 진행성 췌장암 환자에서 PD-L1 항체와 병용한 AG 요법 후 FOLFIRINOX 요법을 시행하는…](../trials/NCT07208539.md) | 2상 | 모집 예정 | - |
 | [진행성 췌장암 환자에서 CD318 표적 CAR-T 세포 치료제(ResCPa)의 제1/IIa상 임상시험](../trials/NCT07153289.md) | 1상/2상 | 모집 예정 | - |
 | [mFOLFIRINOX와 병용하는 KN510713 연구](../trials/NCT07114861.md) | 1상/2상 | 모집 중 | 1 |
-| [국소 진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](../trials/NCT07097064.md) | 2상 | 철회 | - |
+| [국소진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](../trials/NCT07097064.md) | 2상 | 철회 | - |
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [수술 가능 및 경계성 절제 가능 췌장암에서 mFOLFIRINOX 선행화학요법 후 종양 병기에 맞춘 위험도 적응 수술 후 보조…](../trials/NCT07044453.md) | 2상/3상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
-| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법에 대한 췌장관선암 환자 대상 연구](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
+| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법을 평가하는 절제 가능한 췌관선암 환자 대상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
 | [치료 전이가 없는 전이성 췌장암 환자에서 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
@@ -95,8 +95,23 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (18)
+## 타임라인 (19)
 
+<a id="doi-10.21203-rs.3.rs-11496243-v1"></a>
+#### [진행성 췌장암 환자의 치료 순서 및 말기 액체 생검 유전체 분석 연구](https://europepmc.org/article/PPR/PPR1365842)
+<small>Real-world analysis of treatment sequencing and late-stage liquid biopsy genomic profiling in advanced pancreatic cancer</small>
+
+`프리프린트` `관찰연구` `치료 전반` `신약·치료제` `기초연구` `진단·조기발견` · 2026-11-12 · Europe PMC (preprint) · Research Square · 중요도 0.66
+
+일본 암 유전체 종합 데이터베이스에 등록된 췌관선암(PDAC) 환자 16,782명의 실체적 증거(RWE)를 분석한 연구입니다. 1차 치료로 gemcitabine(젬시타빈)과 nab-paclitaxel(알부민 결합 파클리탁셀) 병용요법을 받은 환자군이 FOLFIRINOX(폴피리녹스)군에 비해 전체 생존기간(OS)이 더 길었습니다. 또한 1차 젬시타빈+알부민 결합 파클리탁셀 투여 후 2차 폴피리녹스를 순차적으로 투여한 군에서 가장 우수한 생존율을 보였습니다. 말기 액체 생검(liquid biopsy) 분석에서는 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가하며 주요 예후 지표로 확인되었습니다.
+
+- 1차 치료로 gemcitabine(젬시타빈) 및 nab-paclitaxel(알부민 결합 파클리탁셀) 투여군은 FOLFIRINOX(폴피리녹스)군 대비 사망 위험이 낮았습니다(위험비 0.89, 95% 신뢰구간 0.84-0.93).
+- 1차 젬시타빈+알부민 결합 파클리탁셀 후 2차 폴피리녹스로 이어지는 치료 순서가 가장 우수한 생존율을 보였습니다(1차 시점 위험비 0.84, 2차 시점 위험비 0.68).
+- 액체 생검 분석 결과 KRAS 변이 대립유전자 빈도(VAF)가 사망에 가까워질수록 증가했으며 높을수록 예후가 악화되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1365842) · [DOI](https://doi.org/10.21203/rs.3.rs-11496243/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11496243/v1)</small>
+
+---
 <a id="doi-10.64898-2026.11.06.764966"></a>
 #### [혈청 세포외 소포체 단백체학을 통한 췌장관선암의 치료 연관 바이오마커 규명](https://europepmc.org/article/PPR/PPR1364809)
 <small>Serum extracellular vesicle proteomics reveals treatment–associated biomarkers in pancreatic ductal adenocarcinoma</small>

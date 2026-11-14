@@ -1,0 +1,60 @@
+{
+ "abstract": "Rehearsal-based Continual Learning (CL) maintains a limited buffer to store replay samples for knowledge retention, making them heavily reliant on sample quality. Current methods typically construct the buffer by selecting a representative coreset, aiming to approximate the training efficacy of the full dataset with minimal storage overhead. However, mainstream Coreset Selection (CS) methods generally construct coresets via computationally expensive bi-level optimization, limiting their efficiency. In this paper, we provide an efficient selection logic and scheme for coreset construction, avoiding computationally expensive bi-level optimization. By decomposing the mean squared error between the buffer-trained and Bayes-optimal models, we theoretically and experimentally demonstrate that high-density samples are primary contributors to variance suppression. Inspired by this, we propose the Probability Density-Aware Coreset (PDAC) method, utilizing a Projected Gaussian Mixture (PGM) model to achieve efficient density-prioritized selection. To further handle streaming scenarios, we incorporate a streaming expectation maximization algorithm to develop Streaming PDAC (SPDAC). Experiments show our methods outperforms other baselines across various CL settings while ensuring favorable efficiency.",
+ "authors": [
+  "Gao J",
+  "Guo Z",
+  "Zhang D",
+  "Li Y",
+  "Ran Y",
+  "Qi B"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43019888",
+ "importance": 0.66,
+ "key_points_ko": [
+  "높은 밀도의 샘플이 모델의 분산 억제에 핵심적인 역할을 함을 이론적·실험적으로 증명했습니다.",
+  "투영된 가우시안 혼합 모델(PGM)을 활용한 PDAC 기법으로 연산 효율성을 높였습니다.",
+  "스트리밍 기대값 최대화 알고리즘 기반의 SPDAC을 개발하여 데이터 스트리밍 상황에 대응했습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1016/j.neunet.2026.109852",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43019888"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Neural Netw",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019888/"
+ },
+ "summary_ko": "본 연구는 지속적 학습(Continual Learning)에서 지식 유지 효율성을 높이기 위한 PDAC(확률 밀도 인지 코어셋) 기술을 제안합니다. 연구진은 높은 연산 비용이 드는 기존 이중 최적화 과정을 피하고, 확률 밀도가 높은 샘플을 우선적으로 선택하여 분산을 줄였습니다. 또한 스트리밍 환경에서도 적용 가능한 SPDAC 방식을 개발하여 여러 지속적 학습 환경에서 우수한 성능과 높은 효율성을 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PDAC: Efficient coreset selection for continual learning via probability density awareness",
+ "title_ko": "PDAC: 확률 밀도 인지를 통한 지속적 학습용 효율적 코어셋 선정",
+ "trial": null,
+ "type": "paper"
+}

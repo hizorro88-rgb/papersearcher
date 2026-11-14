@@ -1,0 +1,57 @@
+{
+ "abstract": "Perineural invasion (PNI) is a prominent feature of pancreatic cancer (PDAC) and is closely associated with tumor progression and poor prognosis. However, its spatial cellular architecture and underlying mechanisms remain incompletely understood. Here, we applied high-resolution spatial transcriptomics to construct a comprehensive atlas of the PNI microenvironment across distinct anatomical regions of intra and extra-pancreas. We observed that the Basal-like tumor subtype exhibited a higher propensity for PNI compared with the Classical subtype, a finding further supported by multiplex imaging on whole-mount histopathology. Comparative spatial analysis revealed distinct immune and stromal organization between tumor subtypes, with enrichment of M2-like macrophage potentially promoting epithelial cell migration in the vicinity of Basal-like tumors. In addition, we identified myofibroblast subset may promote Schwann cell activation and PNI-associated nerve injury was further accompanied by a shift toward inflammatory fibroblast polarization and features of CD8+ T cell exhaustion within the local microenvironment. Finally, spatial profiling indicated functional heterogeneity among tumor-associated Schwann cells, which may contribute to the tumor progression. Collectively, this study provides a spatially resolved view of the cellular and molecular landscape of PNI in PDAC and offers insights into Basal-specific neurotropic behavior and microenvironmental reorganization.",
+ "authors": [
+  "Tang B",
+  "Ji F",
+  "Li H",
+  "Wang Q",
+  "Li S",
+  "Wang P",
+  "Yan Z",
+  "Liang Y"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43020313",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218974",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43020313"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020313/"
+ },
+ "summary_ko": "Perineural invasion (PNI) is a prominent feature of pancreatic cancer (PDAC) and is closely associated with tumor progression and poor prognosis. However, its spatial cellular architecture and underlying mechanisms remain incompletely understood.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A Spatial Multi-omics Atlas of Intra- and Extrapancreatic Perineural Invasion Reveals Basal-like Neurotropism and Stromal Remodeling in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

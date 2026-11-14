@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer is one of the most lethal malignancies of the digestive system, and its profoundly immunosuppressive tumor microenvironment (TME) represents a major driver of tumor progression and therapeutic resistance. Emerging evidence indicates that metabolic reprogramming profoundly influences the polarization, effector function, survival, and fate of immune cells within the TME, thereby shaping the balance between antitumor immunity and immune escape. However, substantial challenges remain, including the incompletely understood metabolic heterogeneity among distinct immune cell subsets and the limited clinical translation of therapeutic strategies combining metabolic intervention with immunotherapy. In this review, we summarize the metabolic reprogramming characteristics and underlying molecular mechanisms of major immune cell populations in pancreatic cancer, including T cells, tumor-associated macrophages (TAMs), myeloid-derived suppressor cells (MDSCs), and natural killer (NK) cells, with particular emphasis on their reciprocal interactions with pancreatic cancer progression and the immunosuppressive microenvironment. We further discuss recent advances in metabolism-targeted therapies and immunotherapy, highlighting the therapeutic potential of combination strategies centered on immunometabolic modulation. Finally, we outline current challenges and emerging opportunities in this rapidly evolving field, with the aim of providing a mechanistic framework and translational perspectives for the development of precision therapeutic strategies for pancreatic cancer.",
+ "authors": [
+  "Gu G",
+  "Du Y",
+  "Zhang H",
+  "Zheng Y",
+  "Yao Y",
+  "Yan Q"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43022561",
+ "importance": 0.66,
+ "key_points_ko": [
+  "췌장암 미세환경 내 면역세포의 대사 변화는 면역세포의 활성 및 생존을 조절하여 항암 면역 반응을 억제합니다.",
+  "T세포, TAM, MDSC, NK세포 등 주요 면역세포 하위 집단의 대사 기전과 종양 진행의 상호작용을 정리했습니다.",
+  "면역대사 조절 기반의 대사 표적 치료와 면역치료 병용 전략이 주요 미래 치료 방향으로 제시되었습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1968254",
+  "nct": [],
+  "pmcid": "PMC13755827",
+  "pmid": "43022561"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43022561/"
+ },
+ "summary_ko": "본 논문은 췌장암의 면역억제성 종양 미세환경(TME) 내에서 면역세포의 대사 재편성이 암 진행에 미치는 영향과 분자 기전을 정리한 종합 논문입니다. T세포, 종양 관련 거대식세포(TAM), 골수 유래 면역억제 세포(MDSC), 자연살해(NK) 세포 등 주요 면역세포의 대사적 특성을 분석했습니다. 또한 대사 표적 치료와 면역치료를 결합한 병용 치료 전략의 최신 연구 동향과 한계를 다루었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immune cell metabolic reprogramming in pancreatic cancer: roles in tumor progression and therapeutic strategies",
+ "title_ko": "췌장암에서 면역세포의 대사 재편성: 종양 진행에서의 역할 및 치료 전략",
+ "trial": null,
+ "type": "paper"
+}

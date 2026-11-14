@@ -1,0 +1,58 @@
+{
+ "abstract": "Nonbacterial thrombotic endocarditis (NBTE), also known as Marantic endocarditis, is an uncommon complication of malignancy that may cause systemic embolization. We report a 74-year-old woman who developed a right gastrocnemius deep vein thrombosis followed by recurrent right middle cerebral artery occlusions requiring two mechanical thrombectomies. Her subsequent course was complicated by further deep vein thrombosis, pulmonary embolism, and acute limb ischemia. Repeat echocardiography demonstrated mitral valve vegetations, initially raising concern for infective endocarditis. However, repeated blood cultures and cultures of retrieved thrombotic material were negative. Imaging revealed widespread metastatic disease, and biopsy of a left supraclavicular lymph node confirmed metastatic pancreatic adenocarcinoma. The combination of recurrent arterial and venous thrombosis, advanced malignancy, and negative microbiological investigations favored a clinical diagnosis of NBTE. This case illustrates how extensive thromboembolic disease may precede the diagnosis of pancreatic cancer and highlights the diagnostic challenge posed by valvular vegetations in this setting.",
+ "authors": [
+  "Alsammak R",
+  "Ferry P"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43023164",
+ "importance": 0.57,
+ "key_points_ko": [
+  "74세 여성 환자 1명에서 심부정맥 혈전증, 뇌경색, 폐색전증 등 반복적인 동·정맥 혈전색전증이 진단 전 발생했습니다.",
+  "심초음파에서 승모판 증식물이 확인되었으나 혈액 및 혈전 추출물 배양 검사는 음성이었습니다.",
+  "좌측 쇄골위 임파선 조직검사를 통해 광범위 전이성 췌장선암으로 최종 확진되었습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.7759/cureus.119560",
+  "nct": [],
+  "pmcid": "PMC13759170",
+  "pmid": "43023164"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cureus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43023164/"
+ },
+ "summary_ko": "본 연구는 다발성 혈전증을 첫 증상으로 하여 췌장암을 진단하게 된 74세 여성 환자의 증례입니다. 환자는 심부정맥 혈전증, 뇌경색, 폐색전증, 급성 사지 허혈이 잇따라 발생했습니다. 심초음파에서 승모판 증식물이 발견되었으나 repeated 배양 검사는 모두 음성이었습니다. 좌측 쇄골위 임파선 조직검사를 통해 전이성 췌장선암(췌관선암)을 확진하였으며, 비세균성 혈전성 심내막염(NBTE)으로 최종 판단했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Recurrent Multi-territory Thromboembolism As the Initial Presentation of Pancreatic Adenocarcinoma and Suspected Nonbacterial Thrombotic Endocarditis",
+ "title_ko": "반복적인 다발성 혈전색전증을 초기 증상으로 보인 췌장선암 및 비세균성 혈전성 심내막염 의증 증례",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Despite the research progress of the past decades, the prognosis for pancreatic ductal adenocarcinoma remains poor. Identifying novel targets and exploring the underlying mechanisms is therefore of great importance. ELF3 (E74 like ETS transcription factor 3) is a member of the E-twenty-six (ETS) family and previous studies suggest that ELF3 may play a promoting role in malignant epithelial tumor; however, the effect and exact mechanism have not been determined in pancreatic cancer.\nMETHODS: ELF3 expression and its prognostic relevance in pancreatic cancer were analyzed using clinical datasets. The role of ELF3 in autophagy regulation was evaluated using molecular and cellular approaches in vitro and in vivo. Computer-aided drug design was performed to identify potential ELF3 inhibitors, whose anti-tumor efficacy was subsequently evaluated.\nRESULTS: In the present study, it is observed that high expression of ELF3 leads to a poor overall survival in pancreatic cancer patients. Functional experiments demonstrated that knockdown of ELF3 blocks autophagy. In addition, SRT2183 was identified as a potential ELF3 inhibitor using molecular docking. In vitro and in vivo results showed that SRT2183 blocks autophagy and exerts anti-carcinoma effect.\nCONCLUSIONS: These findings demonstrate that ELF3 promotes autophagy through transcriptional regulation of ATG10 and identify ELF3 as a potential therapeutic target in pancreatic cancer. SRT2183, an ELF3-targeting compound that suppresses autophagic flux and tumor growth, represents a promising candidate for further therapeutic development.",
+ "authors": [
+  "Shang Y",
+  "Zhang P",
+  "Yang Y",
+  "Fan Y",
+  "Yang Z",
+  "Sun H",
+  "Wang J",
+  "Yu Z"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-14",
+ "history": [
+  {
+   "date": "2026-11-14",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43021370",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장암 환자에서 ELF3의 높은 발현은 불량한 전체 생존기간과 연관되어 있습니다.",
+  "ELF3는 ATG10의 전사 조절을 통해 자가포식을 촉진하고 종양 성장을 유도합니다.",
+  "컴퓨터 기반 약물 설계로 발굴한 ELF3 억제제 SRT2183(에스알티2183)은 세포 및 동물 실험에서 자가포식을 차단하고 항암 효과를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-14",
+ "links": {
+  "doi": "10.1186/s13046-026-03806-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43021370"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Exp Clin Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021370/"
+ },
+ "summary_ko": "연구진은 췌장암에서 ELF3(E74 like ETS transcription factor 3) 전사 인자의 역할과 치료 표적 가능성을 분석했습니다. 임상 데이터 분석 결과 ELF3가 높게 발현된 췌장암 환자는 전체 생존기간(OS)이 불량했습니다. 전임상 실험에서 ELF3 억제 시 자가포식(autophagy)이 차단되었으며, ELF3 억제제로 발굴된 SRT2183 약물이 자가포식을 차단하고 항암 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ELF3 (E74 like ETS transcription factor 3) promotes tumor growth and autophagy in pancreatic cancer",
+ "title_ko": "ELF3 전사 인자의 췌장암 종양 성장 및 자가포식 촉진 작용 규명",
+ "trial": null,
+ "type": "paper"
+}
