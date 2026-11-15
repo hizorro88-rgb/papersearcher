@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an aggressive and relatively uncommon disease characterized by profound dense fibrosis and late-stage diagnosis. An anthelmintic drug, Niclosamide (NIC), has been widely repurposed as an anticancer agent, but its poor aqueous solubility resulted in < 10 % oral bioavailability, while its poor lipid solubility poses substantial challenges for the development of a translational oral formulation. Herein, we have developed a self-nanoemulsifying (SNEDDS) formulation (NanoNic) that utilizes Transcutol® P as cosolvent and leverages the Hydrophobic Ion-Pairing (HIP) complexation strategy to improve drug loading and stability. To this end, we screened cationic complexing agents with different amine functionalities - primary, ternary and quaternary. Cationic ionizable lipid/DLin-DMA was selected as pairing agent based on its superior biocompatibility, complexation efficiency, and kinetic stability. Incorporation of cationic ionizable lipid forming a hydrophobic complex with NIC resulted in nearly 30 % reduction in globule size to ∼ 67 nm with a zeta potential >+35 mV. Optimized NanoNic (HIP-loaded SNEDDS) demonstrated ∼ 4-fold higher drug-loading compared to traditional SNEDDS (without a complexing agent), which showed immediate drug precipitation after redispersion. HIP-loaded NanoNic preconcentrate was stable for over 3 months, whereas its aqueous dispersion exhibited only 2 % drug precipitation within 24 h. The Quality-by-Design approach was employed to optimize the nano-globule size of the formulation/NanoNic. Furthermore, NanoNic displayed significant anti-angiogenic activity (HUVEC model) and anticancer efficacy in 2D and 3D models of naïve and gemcitabine-resistant MiaPaCa-2 spheroids. Thus, collective use of Transcutol®P and Ionizable lipid enabled self-nanoemulsifying system with high drug load, reduced globule size and high kinetic solubility.",
+ "authors": [
+  "Dholariya B",
+  "Patel K"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43025522",
+ "importance": 0.57,
+ "key_points_ko": [
+  "소수성 이온 쌍 형성 기법을 접목해 기존 자가 나노유화 제형 대비 약 4배 높은 약물 탑재량을 달성했습니다.",
+  "약물 입자 크기를 약 67nm로 줄이고 수용액 분산 24시간 내 약물 침전율을 2% 수준으로 낮추어 안정성을 확보했습니다.",
+  "젬시타빈 내성을 가진 췌장암 세포주 2D 및 3D 구체 모델과 혈관신생 모델에서 우수한 항암 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.1016/j.ijpharm.2026.127672",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43025522"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Pharm",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025522/"
+ },
+ "summary_ko": "구충제로 알려진 niclosamide(니클로사마이드)는 췌장암 항암제로 재창출 가능성이 높지만 낮은 수용해도와 경구 흡수율이 한계였습니다. 연구진은 소수성 이온 쌍 형성(HIP) 기법을 자가 나노유화 약물전달체(SNEDDS) 기술과 결합한 'NanoNic' 제형을 개발했습니다. NanoNic은 기존 제형 대비 약 4배 높은 약물 탑재량과 뛰어난 약물 안정성을 나타냈습니다. 또한 젬시타빈 내성 췌장암 세포(MiaPaCa-2) 2D 및 3D 모델에서 우수한 항암 효능과 혈관신생 억제 효과를 입증했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Hydrophobic ion pairing enabled self-nanoemulsifying niclosamide for pancreatic cancer: improved drug loading and kinetic solubility",
+ "title_ko": "췌장암 치료를 위한 소수성 이온 쌍 형성 기반 니클로사마이드 자가 나노유화제: 약물 탑재량 및 용해도 개선",
+ "trial": null,
+ "type": "paper"
+}

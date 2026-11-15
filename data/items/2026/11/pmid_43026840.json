@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC), the most common histological subtype of pancreatic cancer, remains one of the most lethal solid malignancies, with most patients presenting with advanced disease and limited therapeutic options. Activating KRAS mutations are present in over 90% of PDACs and drive tumor initiation, progression, metabolic reprogramming, and immune evasion, making KRAS a central therapeutic target. Advances in drug development have transformed RAS from a historically \"undruggable\" oncogene into a clinically actionable target through the development of mutation-selective inhibitors, pan-RAS inhibitors, targeted degraders, and RNA-based therapies. The 2026 approval of daraxonrasib by the FDA for metastatic pancreatic cancer marked the first regulatory approval of a RAS-targeted inhibitor in pancreatic ductal adenocarcinoma and validated RAS blockade as a clinically actionable therapeutic strategy. This review highlights emerging combination strategies designed to maximize the therapeutic potential of RAS inhibition in PDAC. Early clinical studies combining KRAS-targeted therapies with standard chemotherapy have demonstrated encouraging response rates and have led to multiple ongoing phase III trials. As the field moves toward precision oncology, biomarker-driven patient selection, circulating tumor DNA monitoring, and adaptive clinical trial designs will be essential for translating these advances into meaningful survival benefits. Collectively, rational combination strategies represent the next frontier in KRAS-directed therapy and hold the greatest promise for improving outcomes in PDAC.",
+ "authors": [
+  "Ghosh AK",
+  "Jazieh KA",
+  "Xie H",
+  "Parish MA",
+  "Babiker HM",
+  "Bekaii-Saab TS",
+  "Goenka AH",
+  "Knutson KL"
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026840",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213519",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026840"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026840/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC), the most common histological subtype of pancreatic cancer, remains one of the most lethal solid malignancies, with most patients presenting with advanced disease and limited therapeutic options. Activating KRAS mutations are present in over 90% of PDACs and drive tumor initiation, progression, metabolic reprogramming, and immune evasion, making KRAS a central therapeutic target.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

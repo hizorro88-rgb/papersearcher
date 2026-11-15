@@ -10,7 +10,7 @@
   "industry"
  ],
  "entities": [],
- "evidence": "rct",
+ "evidence": "review",
  "first_seen": "2026-11-14",
  "history": [
   {
@@ -20,8 +20,13 @@
   }
  ],
  "id": "doi:10.21203/rs.3.rs-11488607/v1",
- "importance": 0.77,
- "key_points_ko": [],
+ "importance": 0.59,
+ "key_points_ko": [
+  "2000년부터 2026년까지 539편의 관련 문헌이 128개 저널에 게재되었으며 총 13,491회 인용되었습니다.",
+  "2010년부터 2025년 사이 연간 연구 논문 수는 매년 14.4%씩 증가했습니다.",
+  "국가별로는 일본이 161편으로 가장 많은 논문을 작성했고, 하이델베르크 대학교가 가장 생산적인 기관으로 나타났습니다.",
+  "확인된 무작위 대조 임상시험(RCT)은 3건에 불과했으며 모두 동맥 선행 접근법을 검증한 연구였습니다."
+ ],
  "last_updated": "2026-11-14",
  "links": {
   "doi": "10.21203/rs.3.rs-11488607/v1",
@@ -43,11 +48,11 @@
   "name": "Europe PMC (preprint)",
   "url": "https://europepmc.org/article/PPR/PPR1365340"
  },
- "summary_ko": "<title>Abstract</title>  <p>Purpose  Radical periarterial techniques, including artery-first approaches, mesopancreas excision, arterial resection, periarterial divestment and the TRIANGLE operation, address the same periarterial compartment under different names, and their literature has not been mapped as a whole. This study aimed to map the growth, contributors, collaboration patterns, thematic evolution and randomized evidence of this field.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장암의 동맥 선행 접근법, 동맥 절제, 동맥 박리(divestment) 및 트라이앵글 수술(TRIANGLE operation) 등 근치적 동맥 주위 수술에 관한 문헌을 서지학적으로 분석했습니다. 2000년부터 2026년 사이 발표된 539편의 논문을 분석한 결과, 관련 연구는 연평균 14.4% 성장했습니다. 일본이 가장 많은 논문을 출판했으며 하이델베르크 대학교(Heidelberg University)가 가장 높은 피인용 수를 기록했습니다. 동맥 주위 수술은 광범위 일괄 절제에서 선행항암치료 기반의 동맥 보존적 절제로 발전했으나 완료된 무작위 대조 임상시험은 3건에 불과합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "From arterial resection to the TRIANGLE operation: a bibliometric analysis of radical periarterial surgery for pancreatic cancer",
- "title_ko": null,
+ "title_ko": "동맥 절제에서 트라이앵글 수술까지: 췌장암에 대한 근치적 동맥 주위 수술의 서지학적 분석",
  "trial": null,
  "type": "preprint"
 }

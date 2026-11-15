@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest solid tumors, and despite recent advances in surgical and systemic therapies, outcomes remain poor, rooted as much in the genetic mutations that initiate the disease as in a fibrotic, poorly vascularized microenvironment marked by scarce immune infiltration and a dense network of nerve fibers. Semaphorins, together with their receptors plexins and co-receptors neuropilins, have emerged as pivotal orchestrators of this microenvironment, shaping crosstalk between malignant cells, fibroblasts, macrophages, the endothelium, and peripheral neurons. This review examines how individual semaphorin family members drive, or in select contexts restrain, stromal activation, immune exclusion, pathological angiogenesis and neural remodeling. Building on this mechanistic framework, we explore the clinical relevance that semaphorin-mediated signaling holds for PDAC, from its potential as a prognostic and predictive biomarker to its growing promise as a therapeutic target, positioning this axis as a compelling frontier for improving outcomes in a disease that has long resisted meaningful therapeutic advances.",
+ "authors": [
+  "Bertalmio N",
+  "Marino FAL",
+  "Brundu S",
+  "Rustichelli S",
+  "Giraudo E"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43028035",
+ "importance": 0.64,
+ "key_points_ko": [
+  "세마포린(Semaphorin)과 플렉신(Plexin) 신호전달축은 췌장암의 기질 활성화, 면역 배제, 혈관신생 및 신경 리모델링을 조절합니다.",
+  "암세포, 섬유아세포, 대식세포, 혈관 내피세포, 신경세포 간의 상호작용을 매개하는 핵심 인자로 확인되었습니다.",
+  "췌장암의 예후 및 치료 반응을 예측하는 바이오마커이자 새로운 치료 타깃으로 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/ijms27219788",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43028035"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43028035/"
+ },
+ "summary_ko": "췌장관선암(PDAC)은 섬유화, 혈관 형성 부족, 면역세포 침윤 부족 및 조밀한 신경망으로 구성된 종양 미세환경을 특징으로 합니다. 본 종설 논문은 세마포린(Semaphorin)과 수용체인 플렉신(Plexin), 신경필린(Neuropilin)이 종양 미세환경 상호작용을 조절하는 핵심 기전을 설명합니다. 세마포린 축이 기질 활성화, 면역 배제, 병리적 혈관신생 및 신경 리모델링을 조절하며, 향후 예후 예측 바이오마커 및 표적 치료제로서 갖는 임상적 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Changing Course: Semaphorins and Plexins as Novel Therapeutic Opportunities and Key Regulators of Pancreatic Cancer Microenvironment",
+ "title_ko": "췌장암 미세환경의 새로운 치료적 기회 및 주요 조절자로서의 세마포린과 플렉신",
+ "trial": null,
+ "type": "paper"
+}

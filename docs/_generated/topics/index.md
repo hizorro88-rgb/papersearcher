@@ -13,7 +13,7 @@ search:
 
 | 주제 | 종류 | 항목 수 | 최근 갱신 |
 |---|---|---|---|
-| [daraxonrasib](daraxonrasib.md) | 약물 | 21 | 2026-11-13 |
+| [daraxonrasib](daraxonrasib.md) | 약물 | 22 | 2026-11-13 |
 | [zoldonrasib](zoldonrasib.md) | 약물 | 5 | 2026-11-07 |
 | [elironrasib](elironrasib.md) | 약물 | 1 | 2026-11-02 |
 | [sotorasib](sotorasib.md) | 약물 | 1 | 2026-11-08 |
@@ -26,4 +26,4 @@ search:
 | [zolbetuximab](zolbetuximab.md) | 약물 | 3 | 2026-11-05 |
 | [Whipple](whipple.md) | 시술·수술 | 41 | 2026-11-11 |
 | [distal pancreatectomy](distal-pancreatectomy.md) | 시술·수술 | 17 | 2026-11-11 |
-| [SBRT](sbrt.md) | 시술·수술 | 25 | 2026-11-06 |
+| [SBRT](sbrt.md) | 시술·수술 | 26 | 2026-11-15 |

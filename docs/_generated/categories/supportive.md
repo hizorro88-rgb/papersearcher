@@ -16,19 +16,85 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 187건 · 최근 30일 131건
+전체 189건 · 최근 30일 128건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43030263"></a>
+#### [Food Environment, Food Access, and Disparities in Pancreatic Cancer Outcomes: A Narrative Review of Evidence Gaps and Future Directions](https://pubmed.ncbi.nlm.nih.gov/43030263/)
+`논문` `종설` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Nutrients · 중요도 0.68
+
+Pancreatic cancer has among the poorest survival of any malignancy, with substantial disparities in outcomes. Nutritional status is associated with treatment tolerance, postoperative complications, and survival in pancreatic cancer, while dietary factors have also been associated with pancreatic cancer risk.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43030263/) · [DOI](https://doi.org/10.3390/nu18213635) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43030263)</small>
+
+---
+<a id="nct-nct04907643"></a>
+#### [위장관 암 통증 완화를 위한 가상현실(Virtual Reality) 치료의 효과 평가](https://clinicaltrials.gov/study/NCT04907643)
+<small>Virtual Reality for GI Cancer Pain to Improve Patient Reported Outcomes</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `신경내분비종양` · 2021-06-01 · ClinicalTrials.gov · Cedars-Sinai Medical Center · 중요도 0.67
+
+**NCT04907643** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04907643.md)
+
+본 연구는 소화기계 악성종양 환자를 대상으로 몰입형 가상현실(Virtual Reality, VR) 치료가 환자 보고 성과(PROs), 활동량, 마약성 진통제 사용에 미치는 영향을 평가하기 위한 임상시험입니다. 총 360명의 환자를 기술 기반 VR 그룹, 단순 분산(distraction) 기반 VR 그룹, 그리고 2D 대조군(sham control)의 세 그룹으로 무작위 배정하여 60일간 추적 관찰합니다. 주요 평가지표는 NIH PROMIS(Patient Reported Outcome Measurement Information System) 위장관 복통 척도 등을 통한 통증 및 삶의 질 변화입니다.
+
+- 총 360명의 소화기계 악성종양 환자를 대상으로 세 그룹으로 무작위 배정하여 연구를 진행합니다.
+- 기술 기반 VR, 단순 분산 VR, 2D 대조군 VR 등 세 가지 중재법을 4주 동안 매일 사용하도록 합니다.
+- 주요 평가지표는 NIH PROMIS 위장관 복통 척도(Gastrointestinal belly pain)로 측정한 통증 수준입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04907643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04907643)</small>
+
+---
+<a id="nct-nct05053555"></a>
+#### [원발성 및 전이성 절제 불가능한 간 악성 종양 치료를 위한 고선량률 근접치료](https://clinicaltrials.gov/study/NCT05053555)
+<small>High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies</small>
+
+`임상시험` `기타` `치료 전반` `수술` `지지요법·삶의질` · 2021-09-22 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.67
+
+**NCT05053555** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053555.md)
+
+본 임상시험은 19세 이상의 원발성 또는 전이성 절제 불가능한 간 악성 종양(췌장암 전이 포함) 환자를 대상으로 경피적 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)의 임상적 유효성을 평가합니다. 3cm 이상이거나 주요 혈관 및 민감한 구조물 근처에 있는 종양 등을 대상으로 합니다. 치료 후 6개월 시점의 국소 종양 조절률(local tumor control)을 역사적 코호트와 비교하여 평가합니다.
+
+- 목표 인원은 60명입니다.
+- 6개월 시점의 국소 종양 조절률(local tumor control)을 역사적 코호트와 비교합니다.
+- 이전 치료 경험이나 바이오마커에 따른 제한 사항은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05053555) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053555)</small>
+
+---
+<a id="nct-nct04905082"></a>
+#### [유전체학에 대한 암 환자의 지식 향상을 위한 HOPE-Genomics 중재 연구](https://clinicaltrials.gov/study/NCT04905082)
+<small>HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics</small>
+
+`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2021-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.61
+
+**NCT04905082** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04905082.md)
+
+이 임상시험은 웹 기반 암 교육 도구인 HOPE-Genomics가 개인 유전체 검사 결과 및 암과 유전체학에 대한 환자의 지식을 향상시키는 데 얼마나 효과적인지 평가합니다. 폐암, 유방암, 대장암, 췌장암, 난소암, 전립선암 환자 465명을 대상으로 진행되며, 환자를 세 그룹(표준 치료, 결과 확인 전용, 결과 확인 및 사전 교육)으로 무작위 배정합니다. 초록에 명시되지 않은 생존기간이나 반응률 등의 수치는 없습니다. 본 연구는 환자의 유전체 지식과 환자 중심 돌봄의 질을 개선하는 것을 목표로 합니다.
+
+- 목표 연구 대상 인원은 465명입니다.
+- 환자는 총 3개의 군(표준 치료군, 결과 반환만 받는 군, 결과 반환 및 사전 교육을 받는 군)으로 무작위 배정됩니다.
+- 연구 중재 완료 후 유전체 검사 결과 수령 후 2주, 3개월, 9개월째에 추적 관찰을 진행합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
+
+---
 <a id="pmid-43024239"></a>
-#### [Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial](https://pubmed.ncbi.nlm.nih.gov/43024239/)
-`논문` `3상` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
 
-IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerability of Tumor Treating Fields (TTFields) therapy concomitant with gemcitabine and nab-paclitaxel, but understanding the impact of TTFields therapy on quality of life (QoL) and pain is important for clinical decision-making. OBJECTIVE: To analyze the impact of TTFields therapy concomitant with gemcitabine and nab-paclitaxel on QoL and pain outcomes using prospective data from PANOVA-3.
+`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
+이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
+
+- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
+- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
+- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
 
 ---
 <a id="pmid-43013127"></a>
@@ -45,38 +111,21 @@ IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerabilit
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755016/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
 
 ---
-<a id="nct-nct05053555"></a>
-#### [원발성 및 전이성 절제 불가능 간 악성 종양 치료를 위한 고선량률 근접치료](https://clinicaltrials.gov/study/NCT05053555)
-<small>High Dose-Rate Brachytherapy for the Treatment of Both Primary and Secondary Unresectable Liver Malignancies</small>
+<a id="nct-nct06744595"></a>
+#### [췌장암 가족력이 있는 환자에서 유전자 검사를 늘리기 위한 맞춤형 교육 및 유전 상담](https://clinicaltrials.gov/study/NCT06744595)
+<small>Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer</small>
 
-`임상시험` `기타` `치료 전반` `수술` `지지요법·삶의질` · 2021-09-22 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.67
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2024-12-20 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.71
 
-**NCT05053555** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053555.md)
+**NCT06744595** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06744595.md)
 
-본 임상시험은 절제 불가능한 원발성 및 전이성 간 악성 종양 환자를 대상으로 경피적 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)의 임상적 유효성을 평가합니다. 기존의 열소작술로 치료하기 어려운 큰 종양, 주요 혈관이나 민감한 구조물 인근의 종양을 가진 환자들을 대상으로 합니다. 역사적 코호트와의 비교를 통해 6개월 시점의 국소 종양 제어율(local tumor control, LTC), 전체 생존기간(OS), 무진행 생존기간(PFS)을 평가합니다. M.D. Anderson Cancer Center에서 진행 중이며 목표 인원은 60명입니다.
+이 임상시험은 췌장암 가족력이 있는 환자들을 대상으로 맞춤형 교육과 유전 상담이 유전자 검사 참여율을 높이는지 평가합니다. 환자들은 가족력에 기반한 NCCN(미국종합암네트워크) 가이드라인 교육 메시지를 받고, 유전 상담과 유전자 검사를 제안받습니다. 연구진은 HOUSES 지수 분석, 유전 상담 기회 제공, 환자 설문조사를 통해 유전자 검사 관련 지식과 의사결정을 평가합니다. 목표 참여 인원은 41명이며, Mayo Clinic에서 진행되었습니다.
 
-- 고선량률 근접치료(high dose-rate brachytherapy, HDRBT)는 iridium-192 동위원소를 이용해 병변에 방사선을 조사합니다.
-- 3cm 이상의 큰 종양이나 열소작술이 어려운 위치의 종양 치료를 위해 연구됩니다.
-- 1차 목표는 역사적 코호트와 비교하여 6개월 시점의 국소 종양 제어율(LTC)을 평가하는 것입니다.
+- 췌장암 환자의 약 10%가 유전적 요인과 연관되어 있습니다.
+- NCCN 가이드라인에 따르면 1촌 내 가족력이 있는 환자는 유전 상담을 권장합니다.
+- 이 연구는 41명의 환자를 목표로 맞춤형 교육과 유전 상담의 효과를 조사했습니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT05053555) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053555)</small>
-
----
-<a id="nct-nct04905082"></a>
-#### [유전체학에 대한 암 환자의 지식 향상을 위한 HOPE-Genomics 중재 연구](https://clinicaltrials.gov/study/NCT04905082)
-<small>HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2021-05-27 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.61
-
-**NCT04905082** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04905082.md)
-
-이 임상시험은 웹 기반 암 교육 도구인 HOPE-Genomics가 개인 유전체 검사 결과와 암 및 유전체학 전반에 대한 환자의 지식을 향상시키는 데 얼마나 효과적인지 평가합니다. 폐암, 유방암, 대장암, 췌장암, 난소암 또는 전립선암 환자 465명을 대상으로 하며, 표준 치료, 결과 반환만 제공하는 군, 결과 반환과 사전 교육을 함께 제공하는 3개 군으로 무작위 배정됩니다. 본 연구는 유전체학에 대한 환자의 지식과 진료 지침 순응도 향상을 목표로 합니다. 환자들은 결과 수령 후 2주, 3개월, 9개월 뒤에 추적 관찰을 받습니다.
-
-- 웹 기반 교육 도구인 HOPE-Genomics가 암 환자의 유전체학 지식 향상에 미치는 효과를 평가합니다.
-- 총 465명의 환자가 표준 치료(ARM I), 결과 반환 전용(ARM II), 결과 반환 플러스 사전 교육(ARM III)의 3개 군으로 무작위 배정됩니다.
-- 연구 참여자는 유전체 검사 결과 수령 후 2주, 3개월, 9개월째에 추적 관찰을 받습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT06744595) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06744595)</small>
 
 ---
 <a id="pmid-43023164"></a>
@@ -174,23 +223,6 @@ IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerabilit
 - 거주 지역의 시골 여부는 모든 병기에서 가이드라인 준수 치료 수령 여부와 통계적 연관성을 보이지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43015534/) · [DOI](https://doi.org/10.1245/s10434-026-20790-2) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43015534)</small>
-
----
-<a id="nct-nct04907643"></a>
-#### [환자 보고 결과 개선을 위한 위장관암 통증 대상 가상현실(VR) 치료 연구](https://clinicaltrials.gov/study/NCT04907643)
-<small>Virtual Reality for GI Cancer Pain to Improve Patient Reported Outcomes</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` `신경내분비종양` · 2021-06-01 · ClinicalTrials.gov · Cedars-Sinai Medical Center · 중요도 0.67
-
-**NCT04907643** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04907643.md)
-
-췌장암을 포함한 위장관암 환자의 암성 복부 통증을 관리하기 위해 가상현실(VR) 기술의 치료 효과를 평가하는 임상시험입니다. 총 360명의 환자를 기술 기반 VR, 분산형 VR, 모조(Sham) VR 3개 군으로 무작위 배정하여 60일간 추적 관찰했습니다. 환자들은 4주간 매일 VR 기기를 사용하고 착용형 기기를 통해 신체 활동 데이터를 수집했습니다. 연구진은 VR 치료가 통증 수치, 일상 활동, 마약성 진통제(오피오이드) 사용량 개선에 미치는 영향을 분석했습니다.
-
-- 위장관암 환자 360명을 대상으로 기술 기반 VR, 분산형 VR, 모조 VR 3개 군으로 나누어 60일간 통증 완화 효과를 비교했습니다.
-- 참여 환자는 4주 동안 매일 VR 기기를 사용하며 Fitbit 착용을 통해 걸음 수와 수면 상태를 측정받았습니다.
-- 주요 평가 항목은 NIH PROMIS 척도를 통한 복부 통증 감소, 신체·정신적 건강 상태 및 마약성 진통제 사용량 변화입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04907643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04907643)</small>
 
 ---
 <a id="pmid-43015233"></a>
@@ -1999,77 +2031,5 @@ HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료�
 - 구체적인 정정 세부 사항은 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882940/) · [DOI](https://doi.org/10.3390/cancers18193144) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882940)</small>
-
----
-<a id="pmid-42876703"></a>
-#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
-<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
-
-이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
-
-- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
-- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
-- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
-
----
-<a id="pmid-42877528"></a>
-#### [췌장암 조기 진단 전략](https://pubmed.ncbi.nlm.nih.gov/42877528/)
-<small>Strategy for early diagnosis of pancreatic cancer</small>
-
-`논문` `종설` `진단·조기발견` `지지요법·삶의질` · 2026-09-30 · PubMed · Front Gastroenterol (Lausanne) · 중요도 0.68
-
-췌장암(PDAC)은 초기 증상이 모호하여 대부분 완치 목적의 수술이 불가능한 진행성 단계에서 발견됩니다. 만성 췌장염, 흡연, 비만, 유전적 변이(BRCA1/2 등), 신규 발병 당뇨병 등이 주요 위험 요인으로 꼽히지만 일반 인구 대상의 선별검사는 아직 비침습적 진단 표지자의 부족으로 실용적이지 않습니다. 널리 쓰이는 CA 19-9 혈액 검사의 한계를 극복하기 위해 순환 종양 DNA(ctDNA), 엑소좀, 마이크로RNA 등의 새로운 분자적 기법이 연구되고 있습니다. 최근에는 고위험군을 대상으로 한 인공지능(AI) 기반 영상 기술과 다중 오믹스 바이오마커의 결합이 조기 진단 가능성을 높이고 있습니다.
-
-- 췌장은 복부 깊은 곳에 위치하여 초기 증상이 모호하므로 진단 시 수술이 가능한 환자는 소수에 불과합니다.
-- 만성 췌장염, 비만, 흡연, 유전 변이(BRCA1/2)와 함께 신규 발병 당뇨병(NOD)이 주요 위험 인자이자 경고 징후로 주목받고 있습니다.
-- 기존 CA 19-9의 한계를 보완하기 위해 순환 종양 DNA, 엑소좀 표지자, 인공지능 영상 기술을 융합한 조기 진단 전략이 개발되고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877528/) · [DOI](https://doi.org/10.3389/fgstr.2026.1731223) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13662742/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877528)</small>
-
----
-<a id="pmid-42875332"></a>
-#### [췌장암 및 절제된 전구 병변의 치료 연속선 전반에 걸친 의료비 지출 분석](https://pubmed.ncbi.nlm.nih.gov/42875332/)
-<small>Healthcare expenditures across the care continuum of pancreatic cancer and resected precursor lesions</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `치료 전반` · 2026-10-08 · PubMed · Pancreatology · 중요도 0.67
-
-본 연구는 췌장암 및 절제된 전구 병변 환자의 치료 과정 전반에서 발생하는 의료비 지출을 분석한 논문입니다. 치료 단계와 질환 경과에 따른 의료비 부담을 파악하고자 했습니다. 구체적인 연구 대상자 수와 비용 분석 수치는 본문에 명시되지 않았습니다.
-
-- 췌장암 및 절제된 전구 병변 환자의 치료 전 과정에 걸친 의료비 지출을 평가한 연구입니다.
-- 구체적인 환자 수와 세부 의료비 수치는 본문에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42875332/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.005) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42875332)</small>
-
----
-<a id="pmid-42875333"></a>
-#### [췌관선암 수술적 절제 후 근감소증 및 근지방증이 조기 및 장기 생존에 미치는 영향에 대한 논평](https://pubmed.ncbi.nlm.nih.gov/42875333/)
-<small>Re: Impact of sarcopenia and myosteatosis on early and long-term survival after surgical resection of pancreatic ductal adenocarcinoma</small>
-
-`논문` `기타` `수술` `지지요법·삶의질` · 2026-10-10 · PubMed · Pancreatology · 중요도 0.60
-
-본 문헌은 췌관선암(pancreatic ductal adenocarcinoma) 환자의 수술적 절제 후 근감소증(sarcopenia)과 근지방증(myosteatosis)이 조기 및 장기 생존에 미치는 영향에 대해 다룬 기존 연구에 대한 서신(Letter)입니다. 서신 형식의 특성상 추가적인 세부 분석 내용이나 구체적인 데이터는 본문에 명시되지 않았습니다. 수술을 받는 췌장암 환자의 근육량 및 근육 질과 예후의 연관성에 관한 학술적 의견 교환을 담고 있습니다.
-
-- 췌관선암 절제 수술 환자에서 근감소증 및 근지방증이 생존 결과에 미치는 영향에 대한 논평입니다.
-- 세부 분석 결과 및 구체적인 수치는 제공된 정보에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42875333/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42875333)</small>
-
----
-<a id="pmid-42877802"></a>
-#### [진행성 췌관선암의 악성 위출구 폐쇄로 인해 유발된 기종성 위염 증례](https://pubmed.ncbi.nlm.nih.gov/42877802/)
-<small>Emphysematous Gastritis Precipitated by Malignant Gastric Outlet Obstruction from Advanced Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `증례` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-09-14 · PubMed · Eur J Case Rep Intern Med · 중요도 0.50
-
-국소 진행성 췌장암 환자에서 악성 위출구 폐쇄로 인해 드물고 치명적인 위벽 감염인 기종성 위염(Emphysematous gastritis)이 발생한 증례 보고입니다. 86세 남성 환자가 복부 팽만, 발열, 저혈압 및 급성 신손상으로 내원하였으며, CT 검사상 위벽 내 가스와 진행성 췌장암에 의한 폐쇄가 확인되었습니다. 천공이나 허혈 징후가 없어 수술 대신 적극적인 수액 소생술, 광범위 정맥 항생제 투여, 위 감압술 등 보존적 치료를 시행하여 임상적 호전을 얻었습니다.
-
-- 진행성 췌장암에 의한 위출구 폐쇄와 항암치료 관련 면역저하는 치명적인 기종성 위염을 유발할 수 있습니다.
-- 천공이나 조직 허혈이 없는 선별된 환자에서는 수술 없이 광범위 항생제 투여와 위 감압술 등 보존적 치료만으로도 호전을 기대할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877802/) · [DOI](https://doi.org/10.12890/2026_007418) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13666637/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877802)</small>
 
 ---

@@ -25,7 +25,11 @@
  ],
  "id": "pmid:43020313",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "기저형(Basal-like) 췌장암 아형이 고전적(Classical) 아형보다 신경주위 침윤(PNI) 성향이 더 높음을 입증했습니다.",
+  "PNI 주변 미세환경에서 M2형 거대세포 및 근섬유아세포가 암세포 이동과 슈반 세포 활성화를 촉진했습니다.",
+  "신경 손상 부위에서는 염증성 섬유아세포 극성화와 CD8+ T 세포 고갈 현상이 수반됨을 관찰했습니다."
+ ],
  "last_updated": "2026-11-14",
  "links": {
   "doi": "10.1016/j.canlet.2026.218974",
@@ -47,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43020313/"
  },
- "summary_ko": "Perineural invasion (PNI) is a prominent feature of pancreatic cancer (PDAC) and is closely associated with tumor progression and poor prognosis. However, its spatial cellular architecture and underlying mechanisms remain incompletely understood.",
- "summary_source": "excerpt",
+ "summary_ko": "고해상도 공간 전사체 기술을 통해 췌장암의 주요 특징인 신경주위 침윤(PNI)의 공간적 세포 구조와 기전을 분석한 연구입니다. 연구 결과 기저형(Basal-like) 췌장암 아형이 고전적(Classical) 아형에 비해 신경주위 침윤 성향이 현저히 높은 것으로 나타났습니다. 또한 신경주위 침윤 미세환경에서 M2형 거대세포, 근섬유아세포, 슈반 세포(Schwann cell) 및 면역 세포 간의 상호작용이 암 진행 및 신경 손상에 기여함을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A Spatial Multi-omics Atlas of Intra- and Extrapancreatic Perineural Invasion Reveals Basal-like Neurotropism and Stromal Remodeling in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암에서 췌장 내외 신경주위 침윤의 공간 다중오믹스 지도: 기저형 아형의 신경 친화성과 기질 재조형 규명",
  "trial": null,
  "type": "paper"
 }

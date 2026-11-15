@@ -16,27 +16,52 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 39건 · 최근 30일 31건
+전체 41건 · 최근 30일 30건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07097064"></a>
-#### [국소진행성 췌장암 환자를 위한 MRI 유도 적응형 정위적 방사선치료(SMART) 평가](https://clinicaltrials.gov/study/NCT07097064)
+#### [국소진행성 췌장암에 대한 자기공명영상 유도 적응형 정위적 방사선치료(SMART) 평가](https://clinicaltrials.gov/study/NCT07097064)
 <small>Evaluation of the Stereotactic MR-guided Adaptive Radiotherapy for Locally Advanced Pancreatic Cancers</small>
 
 `임상시험` `2상` `치료 전반` `진단·조기발견` `제약사·규제` · 2025-07-31 · ClinicalTrials.gov · Institut du Cancer de Montpellier - Val d'Aurelle · 중요도 0.97
 
 **NCT07097064** · 2상 · 철회 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07097064.md)
 
-이 임상시험은 국소진행성 췌장암(locally advanced pancreatic adenocarcinoma) 환자를 대상으로 표준 항암화학방사선치료와 MRI 유도 적응형 정위적 방사선치료(SMART)를 평가하고자 했습니다. 그러나 현재 이 임상시험은 철회(withdrawn)되었습니다. 대상 질환은 전이가 없는 국소진행성 췌장선암입니다.
+본 임상시험은 국소진행성 췌장암(Locally Advanced Pancreatic Adenocarcinoma) 환자를 대상으로 자기공명영상 유도 적응형 정위적 방사선치료(SMART)의 유효성을 평가하고자 했습니다. 췌장암은 예후가 매우 불량하며 완치 목적의 수술이 가능한 환자는 20%에 불과합니다. 국소진행성 암의 경우 표준 치료가 확립되지 않아 새로운 방사선 치료 기법의 전향적 검증이 필요했습니다. 하지만 본 임상시험은 자진 취소(WITHDRAWN)되었습니다.
 
-- 임상시험 상태: 철회됨(WITHDRAWN)
-- 평가 대상: 표준 항암화학방사선치료 및 MRI 유도 적응형 정위적 방사선치료(SMART)
-- 대상 질환: 국소진행성 췌장선암(Locally Advanced Pancreatic Adenocarcinoma)
+- 췌장암의 5년 생존율은 5.5%로 매우 낮습니다.
+- 완치 목적의 수술이 가능한 환자는 전체 환자의 20%에 불과합니다.
+- 국소진행성 췌장암에 대한 새로운 방사선 치료 기법인 SMART의 전향적 검증이 필요했습니다.
+- 본 임상시험의 목표 인원은 0명이며 상태는 취소(WITHDRAWN)되었습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07097064) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07097064)</small>
+
+---
+<a id="pmid-43026779"></a>
+#### [The Association Between Asthma and Pancreatic Cancer: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/43026779/)
+`논문` `종설` `제약사·규제` `치료 전반` · 2026-10-26 · PubMed · Cancers (Basel) · 중요도 0.68
+
+BACKGROUND: Pancreatic cancer is an aggressive malignancy, largely due to its vague clinical presentation and delayed diagnosis. Knowledge of the risk factors is essential to combat this disease.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026779/) · [DOI](https://doi.org/10.3390/cancers18213457) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026779)</small>
+
+---
+<a id="pmid-43028035"></a>
+#### [췌장암 미세환경의 새로운 치료적 기회 및 주요 조절자로서의 세마포린과 플렉신](https://pubmed.ncbi.nlm.nih.gov/43028035/)
+<small>Changing Course: Semaphorins and Plexins as Novel Therapeutic Opportunities and Key Regulators of Pancreatic Cancer Microenvironment</small>
+
+`논문` `종설` `기초연구` `신약·치료제` `치료 전반` `제약사·규제` · 2026-10-31 · PubMed · Int J Mol Sci · 중요도 0.64
+
+췌장관선암(PDAC)은 섬유화, 혈관 형성 부족, 면역세포 침윤 부족 및 조밀한 신경망으로 구성된 종양 미세환경을 특징으로 합니다. 본 종설 논문은 세마포린(Semaphorin)과 수용체인 플렉신(Plexin), 신경필린(Neuropilin)이 종양 미세환경 상호작용을 조절하는 핵심 기전을 설명합니다. 세마포린 축이 기질 활성화, 면역 배제, 병리적 혈관신생 및 신경 리모델링을 조절하며, 향후 예후 예측 바이오마커 및 표적 치료제로서 갖는 임상적 가능성을 제시합니다.
+
+- 세마포린(Semaphorin)과 플렉신(Plexin) 신호전달축은 췌장암의 기질 활성화, 면역 배제, 혈관신생 및 신경 리모델링을 조절합니다.
+- 암세포, 섬유아세포, 대식세포, 혈관 내피세포, 신경세포 간의 상호작용을 매개하는 핵심 인자로 확인되었습니다.
+- 췌장암의 예후 및 치료 반응을 예측하는 바이오마커이자 새로운 치료 타깃으로 연구되고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43028035/) · [DOI](https://doi.org/10.3390/ijms27219788) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43028035)</small>
 
 ---
 <a id="pmid-43013127"></a>
@@ -84,12 +109,19 @@ search:
 
 ---
 <a id="doi-10.21203-rs.3.rs-11488607-v1"></a>
-#### [From arterial resection to the TRIANGLE operation: a bibliometric analysis of radical periarterial surgery for pancreatic cancer](https://europepmc.org/article/PPR/PPR1365340)
-`프리프린트` `무작위` `수술` `치료 전반` `제약사·규제` · 2026-11-12 · Europe PMC (preprint) · Research Square · 중요도 0.77
+#### [동맥 절제에서 트라이앵글 수술까지: 췌장암에 대한 근치적 동맥 주위 수술의 서지학적 분석](https://europepmc.org/article/PPR/PPR1365340)
+<small>From arterial resection to the TRIANGLE operation: a bibliometric analysis of radical periarterial surgery for pancreatic cancer</small>
 
-<title>Abstract</title>  <p>Purpose  Radical periarterial techniques, including artery-first approaches, mesopancreas excision, arterial resection, periarterial divestment and the TRIANGLE operation, address the same periarterial compartment under different names, and their literature has not been mapped as a whole. This study aimed to map the growth, contributors, collaboration patterns, thematic evolution and randomized evidence of this field.
+`프리프린트` `종설` `수술` `치료 전반` `제약사·규제` · 2026-11-12 · Europe PMC (preprint) · Research Square · 중요도 0.59
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1365340) · [DOI](https://doi.org/10.21203/rs.3.rs-11488607/v1) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11488607/v1)</small>
+본 연구는 췌장암의 동맥 선행 접근법, 동맥 절제, 동맥 박리(divestment) 및 트라이앵글 수술(TRIANGLE operation) 등 근치적 동맥 주위 수술에 관한 문헌을 서지학적으로 분석했습니다. 2000년부터 2026년 사이 발표된 539편의 논문을 분석한 결과, 관련 연구는 연평균 14.4% 성장했습니다. 일본이 가장 많은 논문을 출판했으며 하이델베르크 대학교(Heidelberg University)가 가장 높은 피인용 수를 기록했습니다. 동맥 주위 수술은 광범위 일괄 절제에서 선행항암치료 기반의 동맥 보존적 절제로 발전했으나 완료된 무작위 대조 임상시험은 3건에 불과합니다.
+
+- 2000년부터 2026년까지 539편의 관련 문헌이 128개 저널에 게재되었으며 총 13,491회 인용되었습니다.
+- 2010년부터 2025년 사이 연간 연구 논문 수는 매년 14.4%씩 증가했습니다.
+- 국가별로는 일본이 161편으로 가장 많은 논문을 작성했고, 하이델베르크 대학교가 가장 생산적인 기관으로 나타났습니다.
+- 확인된 무작위 대조 임상시험(RCT)은 3건에 불과했으며 모두 동맥 선행 접근법을 검증한 연구였습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1365340) · [DOI](https://doi.org/10.21203/rs.3.rs-11488607/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11488607/v1)</small>
 
 ---
 <a id="pmid-43013192"></a>
@@ -446,49 +478,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - KRAS G12D 표적 치료는 전임상 연구 규모가 큼에도 불구하고 임상적 검증 단계는 G12C보다 현저히 초기 수준에 머물러 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882835/) · [DOI](https://doi.org/10.3390/cancers18193139) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882835)</small>
-
----
-<a id="pmid-42868319"></a>
-#### [췌관선암의 재발 및 전이성 진행에 대한 임상적 적용 가능한 예측을 향하여: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42868319/)
-<small>Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
-
-`논문` `메타분석` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-10-13 · PubMed · JCO Clin Cancer Inform · 중요도 0.93
-
-이 연구는 췌관선암(PDAC)의 재발, 전이, 림프절 전이 등을 예측하는 모델과 인자들을 분석한 체계적 문헌고찰 연구입니다. 총 208건의 연구(예측 모델 144건, 예후 인자 연구 64건)를 검토한 결과, 컴퓨터단층촬영(CT)/라디오믹스 및 임상 정보가 가장 흔히 활용되었습니다. 조기 재발 예측 정확도(AUC)는 0.70~0.92, 무병 생존기간(DFS) 예측 C-index는 0.62~0.82 수준으로 보고되었습니다. 연구진은 많은 모델이 후향적 연구에 기반하고 외부 검증이나 보정 평가가 부족하여 실제 임상 적용을 위해서는 전향적 평가가 필요하다고 결론지었습니다.
-
-- 분석에 포함된 208건 중 144건이 예측 모델 연구였으며, CT/라디오믹스(141건)와 임상 정보(104건)가 주로 활용되었습니다.
-- 조기 재발(AUC 0.70~0.92) 및 림프절 전이(AUC 0.75~0.95) 예측 모델들은 양호한 판별력을 보였습니다.
-- 외부 검증(52건), 보정 분석(36건), 임상 결정 곡선 분석(38건)이 보고된 비율이 낮아 실제 진료 현장 적용에는 한계가 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42868319/) · [DOI](https://doi.org/10.1200/CCI-26-00200) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42868319)</small>
-
----
-<a id="pmid-42876703"></a>
-#### [췌장암과 제2형 당뇨병 연구의 동향 및 지식 구조: 20년간의 CiteSpace 분석](https://pubmed.ncbi.nlm.nih.gov/42876703/)
-<small>Research trends and knowledge structure of pancreatic cancer and type 2 diabetes mellitus research: a two-decade CiteSpace analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `지지요법·삶의질` `제약사·규제` · 2026-09-30 · PubMed · Front Endocrinol (Lausanne) · 중요도 0.86
-
-이 연구는 2006년부터 2025년까지 발표된 췌장암과 제2형 당뇨병(T2DM) 간의 관계를 다룬 연구 동향 및 지식 구조를 분석했습니다. 총 1,989편의 학술 논문과 54건의 임상시험 기록을 계량서지학적 기법으로 분석했습니다. 2015년 이후 연구 출판 건수가 꾸준히 증가했으며 미국과 중국이 연구를 주도했습니다. 암 발생 위험, 인슐린 저항성, 신규 발병 당뇨병 등이 주요 연구 주제로 나타났습니다.
-
-- 2006년부터 2025년까지의 학술 논문 1,989편과 임상시험 54건을 대상으로 연구 동향을 분석했습니다.
-- 논문 출판 수는 2015년 이후 꾸준히 증가했으며 미국과 중국, 캘리포니아 대학교 및 하버드 대학교가 주도적인 기여를 했습니다.
-- 주요 연구 주제는 암 위험, 인슐린 저항성, 대사성 염증, 인크레틴 기반 치료제, 신규 발병 당뇨병이었으며, 기전 연구 및 바이오마커 발굴에 대한 관심이 증가하고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42876703/) · [DOI](https://doi.org/10.3389/fendo.2026.1945735) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13661381/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42876703)</small>
-
----
-<a id="pmid-42877802"></a>
-#### [진행성 췌관선암의 악성 위출구 폐쇄로 인해 유발된 기종성 위염 증례](https://pubmed.ncbi.nlm.nih.gov/42877802/)
-<small>Emphysematous Gastritis Precipitated by Malignant Gastric Outlet Obstruction from Advanced Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `증례` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-09-14 · PubMed · Eur J Case Rep Intern Med · 중요도 0.50
-
-국소 진행성 췌장암 환자에서 악성 위출구 폐쇄로 인해 드물고 치명적인 위벽 감염인 기종성 위염(Emphysematous gastritis)이 발생한 증례 보고입니다. 86세 남성 환자가 복부 팽만, 발열, 저혈압 및 급성 신손상으로 내원하였으며, CT 검사상 위벽 내 가스와 진행성 췌장암에 의한 폐쇄가 확인되었습니다. 천공이나 허혈 징후가 없어 수술 대신 적극적인 수액 소생술, 광범위 정맥 항생제 투여, 위 감압술 등 보존적 치료를 시행하여 임상적 호전을 얻었습니다.
-
-- 진행성 췌장암에 의한 위출구 폐쇄와 항암치료 관련 면역저하는 치명적인 기종성 위염을 유발할 수 있습니다.
-- 천공이나 조직 허혈이 없는 선별된 환자에서는 수술 없이 광범위 항생제 투여와 위 감압술 등 보존적 치료만으로도 호전을 기대할 수 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42877802/) · [DOI](https://doi.org/10.12890/2026_007418) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13666637/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42877802)</small>
 
 ---

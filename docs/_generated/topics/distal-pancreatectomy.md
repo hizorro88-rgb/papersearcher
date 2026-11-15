@@ -57,12 +57,19 @@ search:
 
 ---
 <a id="pmid-43022477"></a>
-#### [Radical antegrade modular pancreatosplenectomy versus conventional distal pancreatosplenectomy for left-sided pancreatic ductal adenocarcinoma: a multicenter propensity score-matched analysis](https://pubmed.ncbi.nlm.nih.gov/43022477/)
-`논문` `관찰연구` `수술` · 2026-11-02 · PubMed · Ann Surg Treat Res · 중요도 0.72
+#### [좌측 췌장암에서 근치적 전방향 모듈식 췌장비장절제술(RAMPS)과 전통적 원위부 췌장비장절제술(cDPS)의 비교: 다기관 성향점수 매칭 분석](https://pubmed.ncbi.nlm.nih.gov/43022477/)
+<small>Radical antegrade modular pancreatosplenectomy versus conventional distal pancreatosplenectomy for left-sided pancreatic ductal adenocarcinoma: a multicenter propensity score-matched analysis</small>
 
-PURPOSE: This study was performed to evaluate the postoperative and long-term oncologic outcomes of radical antegrade modular pancreatosplenectomy (RAMPS) relative to conventional distal pancreatosplenectomy (cDPS) in patients with left-sided pancreatic ductal adenocarcinoma (PDAC). METHODS: Between 2005 and 2017, 316 patients with left-sided PDAC who underwent curative-intent distal pancreatectomy at four tertiary referral centers were retrospectively analyzed.
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-02 · PubMed · Ann Surg Treat Res · 중요도 0.72
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43022477/) · [DOI](https://doi.org/10.4174/astr.2026.111.5.270) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755617/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43022477)</small>
+이 연구는 좌측 췌장관선암(PDAC) 환자를 대상으로 근치적 전방향 모듈식 췌장비장절제술(RAMPS)과 전통적 원위부 췌장비장절제술(cDPS)의 수술 후 및 장기 종양학적 결과를 비교했습니다. 4개 3차 병원에서 2005년부터 2017년까지 수술받은 316명의 환자를 대상으로 성향점수 매칭을 시행하여 총 210명의 환자를 분석했습니다. 연구 결과 RAMPS 군은 cDPS 군에 비해 R0 절제율과 획득한 림프절 수가 유의하게 높았습니다. 그러나 전체 생존기간(OS)과 무병 생존기간(DFS)은 두 군 간에 차이가 없었습니다.
+
+- RAMPS 군은 cDPS 군보다 R0 절제율이 유의하게 높았습니다 (99.3% 대 88.6%, P = 0.007).
+- RAMPS 군은 획득한 림프절 수가 유의하게 더 많았습니다 (16.3개 대 10.3개, P < 0.001).
+- 전체 생존기간(OS)은 RAMPS 군 26개월, cDPS 군 31개월로 유의한 차이가 없었습니다 (P = 0.963).
+- 무병 생존기간(DFS)은 RAMPS 군 11개월, cDPS 군 9개월로 유의한 차이가 없었습니다 (P = 0.148).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43022477/) · [DOI](https://doi.org/10.4174/astr.2026.111.5.270) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755617/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43022477)</small>
 
 ---
 <a id="pmid-43012757"></a>

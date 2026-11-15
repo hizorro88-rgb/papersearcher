@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies, largely due to intrinsic or acquired resistance to systemic therapy. In addition to dysregulated glucose metabolism, emerging evidence implicates amino acid metabolism as a key determinant of tumor growth and treatment adaptation. To identify biomarkers associated with chemoresistance, we performed SILAC-based mass spectrometry secretome profiling of gemcitabine-resistant and chemosensitive PDAC cell models, followed by qRT-PCR and immunoblot validation. Functional relevance was assessed by stable shRNA-mediated KYNU knockdown, proliferation assays, and Transwell migration assays. Clinical significance was evaluated by immunohistochemical analysis of KYNU expression in a PDAC tissue microarray (n = 368) and correlation with overall survival. Transcriptomic and pathway enrichment analyses were used to characterize resistance-associated programs. Kynureninase (KYNU), a tryptophan-catabolic enzyme, was upregulated and preferentially secreted by gemcitabine-resistant cells and induced by gemcitabine, interferon-γ, and hypoxia. KYNU knockdown significantly reduced proliferation without affecting migration. Resistant cells displayed higher KYNU expression and a broader therapy-adapted cellular state. In patient samples, high KYNU expression was associated with significantly shorter overall survival (p = 0.0198). These findings identify KYNU as a marker of a therapy-adapted PDAC phenotype and support its potential as a prognostic and treatment-response biomarker.",
+ "authors": [
+  "Mercanoglu B",
+  "Schraps N",
+  "Giannou AD",
+  "Zhang S",
+  "Papazoglou ED",
+  "Schroeder C",
+  "Hong Z",
+  "Kwiatkowski M"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43028067",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/ijms27219820",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43028067"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43028067/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies, largely due to intrinsic or acquired resistance to systemic therapy. In addition to dysregulated glucose metabolism, emerging evidence implicates amino acid metabolism as a key determinant of tumor growth and treatment adaptation.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Kynureninase Is a Prognostic Biomarker of Poor Survival and Gemcitabine Resistance in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

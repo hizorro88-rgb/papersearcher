@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Oncological outcomes in borderline resectable pancreatic ductal adenocarcinoma (BR-PDAC) remain unclear. This long-term observational study evaluated these outcomes in patients with BR-PDAC treated with a consistent neoadjuvant chemoradiotherapy (CRT) regimen and explored host-related prognostic markers. Methods: We retrospectively analyzed 206 patients with PDAC who received neoadjuvant gemcitabine plus S-1 with concurrent radiotherapy between 2011 and 2022. Biological BR was defined as anatomically resectable disease with an initial carbohydrate antigen 19-9 (CA19-9) level ≥500 U/mL. Anatomical BR was subdivided into portal venous involvement (BR-PV) and arterial involvement (BR-A). Outcomes were compared according to resectability and surgical resection, with resectable (R) patients as a reference. Prognostic factors among resected BR patients were assessed using multivariable Cox regression analysis. Results: The median follow-up was 62.5 months. Resection rates were 85.7%, 83.3%, 69.8%, and 55.6% for R, biological BR, BR-PV, and BR-A, respectively. Although the resection rate of biological BR was similar to that of R, its survival did not differ significantly from that of anatomical BR. Across all BR subtypes, surgical resection was associated with longer overall survival. Among resected patients, the post-CRT neutrophil-lymphocyte-to-monocyte ratio (NL/M), a peripheral blood cell index, was associated with overall survival (hazard ratio 1.020, p = 0.009). Patients with a high post-CRT NL/M had poorer prognosis than those with a low NL/M (p = 0.001). Conclusions: Biological and anatomical BR-PDAC showed no significant difference in long-term survival after neoadjuvant CRT, and surgical resection was associated with longer survival across BR subtypes. Post-CRT NL/M was associated with overall survival after resection and may serve as a potential host-related prognostic marker, although further validation is needed.",
+ "authors": [
+  "Komatsubara H",
+  "Mizuno S",
+  "Noguchi D",
+  "Kuriyama N",
+  "Hayasaki A",
+  "Segi Y",
+  "Gyoten K",
+  "Ito T"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026842",
+ "importance": 0.72,
+ "key_points_ko": [
+  "중앙 추적 관찰 기간은 62.5개월이었으며, 수술 절제율은 수술 가능(R) 85.7%, 생물학적 BR 83.3%, 문맥 침범 BR(BR-PV) 69.8%, 동맥 침범 BR(BR-A) 55.6%였습니다.",
+  "생물학적 BR의 절제율은 수술 가능(R) 그룹과 비슷했으나 생존율은 구조적 BR 그룹과 명확한 차이가 없었습니다.",
+  "수술 절제를 받은 환자 중 CRT 후 NL/M 지표가 높은 환자는 지표가 낮은 환자에 비해 예후가 열악했습니다(위험비 1.020, p = 0.009)."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213521",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026842"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026842/"
+ },
+ "summary_ko": "2011년부터 2022년까지 수술 전 선행 gemcitabine(젬시타빈) 및 S-1 병용 동시화학방사선요법(CRT)을 받은 췌관선암(PDAC) 환자 206명을 분석한 후향적 관찰 연구입니다. 연구 결과 생물학적 경계성 수술 가능(BR) 췌장암과 구조적 BR 췌장암 환자 간의 CRT 후 장기 생존율에는 유의미한 차이가 없었습니다. 모든 BR 하위 유형에서 수술적 절제를 시행한 경우가 더 긴 전체 생존기간(OS)과 연관되었습니다. 또한 CRT 치료 후 말초 혈액 지표인 호중구·림프구 대 단구 비율(NL/M)이 수술 후 전체 생존기간에 영향을 미치는 주요 예후 인자로 분석되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Long-Term Outcomes of Anatomical and Biological Borderline Resectable Pancreatic Ductal Adenocarcinoma After Gemcitabine/S-1-Based Neoadjuvant Chemoradiotherapy",
+ "title_ko": "젬시타빈/S-1 기반 수술 전 선행 동시화학방사선요법 후 구조적 및 생물학적 경계성 수술 가능 췌관선암 환자의 장기 치료 결과",
+ "trial": null,
+ "type": "paper"
+}

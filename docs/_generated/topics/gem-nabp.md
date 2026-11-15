@@ -47,7 +47,7 @@ search:
 | [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법 평가 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장선암 환자의 1차 치료로서 다락소나십 단독 및 다락소나십+젬시타빈/납-파클리탁셀 병용요법 임상 3상 시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
-| [KRAS 변이가 있는 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 상승 및 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
+| [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
 | [CLDN18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 위한 화학요법과 병용한 ANO31905 1/2상 임…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 전환 치료(conversion therapy)로서 HRS-4642와 AG(nab-paclitax…](../trials/NCT07438106.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 선행화학요법으로서 IBI343 병용요법의 제2상 임상시험](../trials/NCT07415525.md) | 2상 | 모집 예정 | - |
@@ -64,7 +64,7 @@ search:
 | [국소 진행성 및 전이성 췌장암 환자에서 NALIRIFOX와 변형 젬시타빈·나브-파클리탁셀·시스플라틴(mGAP)을 비교하는 2…](../trials/NCT07076212.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
-| [수술 전 투여하는 ASP2138 및 수술 후 항암화학요법을 평가하는 절제 가능한 췌관선암 환자 대상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
+| [수술 전 ASP2138 투여 및 수술 후 항암화학요법을 평가하는 췌장암 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 임상시험](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
@@ -178,12 +178,18 @@ search:
 
 ---
 <a id="pmid-43024239"></a>
-#### [Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial](https://pubmed.ncbi.nlm.nih.gov/43024239/)
-`논문` `3상` `임상시험` `치료 전반` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
 
-IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerability of Tumor Treating Fields (TTFields) therapy concomitant with gemcitabine and nab-paclitaxel, but understanding the impact of TTFields therapy on quality of life (QoL) and pain is important for clinical decision-making. OBJECTIVE: To analyze the impact of TTFields therapy concomitant with gemcitabine and nab-paclitaxel on QoL and pain outcomes using prospective data from PANOVA-3.
+`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
+이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
+
+- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
+- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
+- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
 
 ---
 <a id="pmid-42984377"></a>

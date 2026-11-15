@@ -1,0 +1,56 @@
+{
+ "abstract": "Background/Objectives: Identification of cell-surface receptors on cancer tissues that are absent in the corresponding normal tissue provide an opportunity for target-specific diagnostics and drug delivery. The cholecystokinin-B receptor (CCKBR) was initially overlooked as a high-priority biomarker for pancreatic cancer (PDAC) because comparisons were made between cancer and \"normal adjacent tissue\" from The Cancer Genome Atlas (TCGA). Since PDAC is highly invasive and significantly alters the tumor microenvironment, we now know the adjacent tissue is not normal in PDAC. Methods: A multi-cohort transcriptomic analysis was conducted to evaluate the true expression landscape of CCKBR in human pancreatic tissue. Bulk RNA-sequencing data were harmonized from the Genotype-Tissue Expression (GTEx) repository (N = 328) with true normal pancreas samples and TCGA Pancreatic Adenocarcinoma cohort (N = 178) primary tumors. Confirmation of CCKBR protein expression was performed using a human tissue array. The significance of a single-nucleotide polymorphism (SNP, rs1800843) that results in CCKBR mis-splicing was characterized. A biodegradable fluorescent polyplex nanoparticle (NP) was developed to selectively target the CCKBR and was tested using p48-Cre/LSL-KrasG12D (KC) mice. Results: CCKBR transcripts exhibited a profound, binary-like upregulation in malignant tissue compared to normal tissue, achieving statistical significance (p = 10-60). The germline SNP of the CCKBR (rs1800843) was identified in ~40% of patients with confirmed PDAC. Immunoreactivity for the CCKBR protein was absent in normal human pancreas but increased in precancerous PanIN lesions and cancer. A fluorescent labeled CCKBR-targeted NP revealed uptake in the pancreas of KC mice and localized to the PanIN lesions. Conclusions: These data provide new insights into CCKBR, supporting its potential as a diagnostic biomarker and a therapeutic target in precision pancreatic oncology.",
+ "authors": [
+  "Smith JP"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026872",
+ "importance": 0.59,
+ "key_points_ko": [
+  "정상 췌장 조직과 비교했을 때 췌장암 조직에서 CCKBR 유전자 발현이 뚜렷하게 증가했습니다(p = 10^-60).",
+  "췌장암으로 진단된 환자의 약 40%에서 CCKBR 유전자의 단일 염기 다형성(SNP, rs1800843)이 확인되었습니다.",
+  "CCKBR 표적 나노입자가 췌장암 동물 모델에서 전암 단계 병변인 췌장 상피내 종양(PanIN)에 선택적으로 축적되는 것을 확인했습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213551",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026872"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026872/"
+ },
+ "summary_ko": "본 연구는 콜레시스토키닌-B 수용체(CCKBR)가 췌장암(PDAC)의 진단 바이오마커 및 치료 표적으로서 가진 가능성을 평가한 기초 연구입니다. 연구진은 정상 췌장 데이터베이스(GTEx 328건)와 췌장암 환자 데이터베이스(TCGA 178건)를 비교 분석하여 CCKBR 유전자 발현을 확인했습니다. 분석 결과 정상 췌장 조직에서는 CCKBR 단백질 발현이 없었으나, 췌장암 전암 병변 및 췌장암 조직에서는 발현이 현저히 증가했습니다. 또한 CCKBR을 표적으로 하는 형광 나노입자를 동물 모델에 투여했을 때 전암 병변에 선택적으로 도달함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Cholecystokinin-B Receptor as a Candidate Diagnostic Biomarker and Translational Target for Precision Oncology in Pancreatic Cancer",
+ "title_ko": "췌장암 정밀 의학을 위한 진단 바이오마커 및 치료 표적 후보로서의 콜레시스토키닌-B 수용체",
+ "trial": null,
+ "type": "paper"
+}

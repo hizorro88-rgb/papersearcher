@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic cancer has among the poorest survival of any malignancy, with substantial disparities in outcomes. Nutritional status is associated with treatment tolerance, postoperative complications, and survival in pancreatic cancer, while dietary factors have also been associated with pancreatic cancer risk. The food environment, including access to and the relative availability of healthy and unhealthy food retailers, represents a potentially modifiable structural determinant of health. In this narrative review, we summarize evidence on nutrition and pancreatic cancer and on food environment and cancer outcomes. Few studies have examined food environment in pancreatic cancer, and findings are inconsistent. A large U.S. study using a composite food environment measure found associations with later-stage presentation and modestly worse survival, and a county-level analysis reported higher pancreatic cancer mortality in food swamps. Studies examining food desert residence, however, have not demonstrated associations with pancreatic cancer incidence or survival. Multi-cancer studies, including pancreatic cancer, report associations between poor food environments and cancer outcomes but generally do not report pancreas-specific results. Current evidence linking food environment to pancreatic cancer outcomes is limited and extrapolated from other cancers and chronic conditions, comes entirely from the United States, and relies on area-level exposure measures. We describe community interventions to improve food access, none yet evaluated for cancer outcomes, and propose a research agenda to address these gaps.",
+ "authors": [
+  "Liu C",
+  "Burch C",
+  "Bandy V",
+  "Gibson A",
+  "Vudatha V",
+  "Freudenberger D",
+  "Lambdin J",
+  "Herremans K"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43030263",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/nu18213635",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43030263"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nutrients",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43030263/"
+ },
+ "summary_ko": "Pancreatic cancer has among the poorest survival of any malignancy, with substantial disparities in outcomes. Nutritional status is associated with treatment tolerance, postoperative complications, and survival in pancreatic cancer, while dietary factors have also been associated with pancreatic cancer risk.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Food Environment, Food Access, and Disparities in Pancreatic Cancer Outcomes: A Narrative Review of Evidence Gaps and Future Directions",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

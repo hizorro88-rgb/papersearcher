@@ -22,12 +22,11 @@
  "id": "nct:NCT07009119",
  "importance": 0.74,
  "key_points_ko": [
-  "대상 질환은 췌장암(pancreatic cancer), 췌장瘘(pancreatic fistula), 주위 부대유두부암(periampullary cancer)입니다.",
-  "목표 환자 수는 총 30명이며, 연령은 18세에서 75세 사이입니다.",
-  "전이 증거가 없고 주요 혈관 침범이 없는 절제 가능한(resectable) 환자를 대상으로 합니다.",
-  "술 후 합병증 발생률은 여전히 30%에서 60% 수준입니다."
+  "목표 연구 대상 환자 수는 30명입니다.",
+  "참여 연령은 18세부터 75세까지입니다.",
+  "수술 후 이환율은 여전히 30%에서 60% 사이로 보고됩니다."
  ],
- "last_updated": "2026-11-14",
+ "last_updated": "2026-11-15",
  "links": {
   "doi": null,
   "nct": [
@@ -50,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07009119"
  },
- "summary_ko": "본 연구는 수술이 가능한 췌장 머리 암 및 주위 부대유두부암 환자를 대상으로 복강경 췌십이지장절제술(laparoscopic pancreaticoduodenectomy)의 외과적 및 종양학적 결과에 대한 안전성과 타당성을 평가하는 전향적 임상시험입니다. 복강경을 이용한 췌장 절제 및 문합은 기술적으로 까다롭고 합병증 발생률이 높으나, 최소침습적 수술의 대안으로 점차 인기를 얻고 있습니다. 연구진은 수술적 결과와 종양학적 결과를 비교 및 분석하여 관련 데이터 공백을 메우고자 합니다. 본 시험은 30명의 환자를 대상으로 진행됩니다.",
+ "summary_ko": "이 연구는 복강경 췌십이지장절제술(Laparoscopic Pancreaticoduodenectomy)의 외과적 및 종양학적 결과에 대한 안전성과 타당성을 평가하기 위한 전향적 연구입니다. 췌장암, 담관암, 십이지장암, 팽대부 종양 환자 중 수술적 절제가 가능한 환자를 대상으로 진행됩니다. 복강경을 이용한 최소침습 수술은 널리 시행되고 있으나 관련 비교 데이터는 여전히 제한적입니다. 연구진은 수술적 결과와 안전성을 확인하고자 합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Laparoscopic Pancreaticoduodenectomy",
@@ -73,7 +72,7 @@
     "phone": "01220065443"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 임상 지침에 따른 근치적 치료 목적을 충족하는 환자\n- 전이의 증거가 없는 환자\n- 상장간막정맥(superior mesenteric vein, SMV) 및 문맥(portal vein, PV)의 방사선학적 침범이 없는 환자\n- 복강동맥, 간동맥, 상장간막동맥 사이에 보존된 지방층이 있는 환자\n- 복강경 췌십이지장절제술이 가능한 절제 가능한 췌장 머리 암, 담관암, 십이지장암, 유두부 종양 환자\n\n제외 기준:\n- 심각한 내과적 질환으로 수술에 부적합한 환자\n- 원격 전이(복막, 간, 원격 림프절 전이 등) 및 기타 장기 침범이 있는 수술 불가 환자\n- 진단적 복강경 검사에서 절제 불가능한 것으로 확인된 종양\n- 좌측, 중앙, 전 췌장절제술 또는 기타 완화적 수술이 필요한 환자\n- 다른 악성 종양 병력이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성\n- 심각한 정신 장애가 있는 환자\n- 복부 영상 데이터에 따라 다학제 팀이 평가했을 때 혈관 침범이 있어 혈관 절제가 필요한 환자\n- 낭성 병변, 양성 종양, 만성 석회화 췌장염 등 다른 진단으로 췌십이지장절제술을 받는 환자\n- 간경변이 있는 환자\n- 연구 참여를 거부한 환자",
+  "eligibility_ko": "선정 기준:\n- 임상 지침에 따라 완치 목적의 치료가 가능한 환자\n- 전이의 증거가 없는 환자\n- 방사선학적으로 상장간막정맥(superior mesenteric vein, SMV) 및 문맥(portal vein, PV)을 침범하지 않은 환자\n- 복강동맥, 간동맥, 상장간막동맥 사이에 지방층이 잘 유지된 환자\n- 복강경 췌십이지장절제술을 받을 수 있는 절제 가능한 췌장두부암, 담관암, 십이지장암, 팽대부 종양 환자\n\n제외 기준:\n- 심각한 내과적 질환으로 수술에 부적합한 환자\n- 원격 전이(복막, 간, 원격 림프절 전이 및 타 장기 침범 포함)가 있는 수술 불가 환자\n- 진단적 복강경 검사에서 절제 불가능한 것으로 확인된 종양\n- 좌측, 중앙, 전 췌장절제술 또는 기타 완화적 수술이 필요한 환자\n- 다른 악성 종양 병력이 있는 환자\n- 임신 중이거나 모유 수유 중인 여성\n- 심각한 정신 질환이 있는 환자\n- 복부 영상 데이터에 따라 다학제 팀에서 평가했을 때 혈관 침범이 있어 혈관 절제가 필요한 환자\n- 낭성 병변, 양성 종양, 만성 석회화성 췌장염 등 다른 진단으로 췌십이지장절제술을 받는 환자\n- 간경변이 있는 환자\n- 연구 참여를 거부한 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients meeting the curative treatment intent in accordance with clinical guidelines:\n\n  * No evidence of metastasis.\n  * Radiological non-involvement of superior mesenteric vein \\& portal vein.\n  * Preserved fat planes between celiac axis, hepatic artery \\& superior mesenteric artery.\n* Patients presenting with resectable pancreatic head cancer, cholangiocarcinoma, duodenal cancer and ampullary tumours who are fit for laparoscopic pancreaticoduodenectomy.\n\nExclusion Criteria:\n\n* Unfit patients for surgery due to severe medical illness.\n* Inoperable patients with distant metastases, including peritoneal, liver, distant lymph node metastases, and involvement of other organs.\n* Irresectable tumors in diagnostic laparoscopy.\n* Patients requiring left, central or total pancreatectomy or other palliative surgery.\n* History of other malignant disease.\n* Pregnant or breast-feeding women.\n* Patients with serious mental disorders.\n* Patients with vascular invasion and requiring vascular resection as evaluated by the multidisciplinary team team according to abdominal imaging data.\n* Pancreatoduodenectomy for other diagnosis like cystic lesions, benign tumors or chronic calcific pancreatitis\n* Patients with cirrhotic liver.\n* Patients refused to participate in the study.",
   "enrollment": 30,
   "has_results": false,
@@ -90,16 +89,15 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "원격 전이 또는 다른 장기 침범",
-    "다른 악성 종양 병력",
-    "임신 또는 모유 수유 중",
-    "심각한 정신 장애",
-    "간경변"
+    "원격 전이가 있는 환자",
+    "다른 악성 종양 병력이 있는 환자",
+    "간경변이 있는 환자",
+    "임신 중이거나 모유 수유 중인 여성"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "전이가 없고 주요 혈관 침범이 없는 절제 가능한 췌장 머리 암 및 주위 부대유두부암 환자",
+   "notes_ko": "원격 전이나 주요 혈관 침범이 없는 절제 가능한 췌장두부암 및 주위 암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -1,0 +1,57 @@
+{
+ "abstract": "INTRODUCTION: Pulmonary metastases from pancreatic cancer tend to occur later than other patterns of disease recurrence. The role of pulmonary metastasectomy remains unclear, particularly regarding patient selection and the influence of underlying tumor biology. This study aimed to explore factors that may reflect underlying tumor biology by evaluating the oncological outcomes of patients with isolated pulmonary metastases from pancreatic cancer who underwent pulmonary metastasectomy.\nMATERIALS AND METHODS: Patients who underwent complete resection of initial pulmonary metastases following curative surgery for pancreatic cancer between 2012 and 2022 were retrospectively examined. Survival outcomes after pulmonary metastasectomy and potential prognostic factors were evaluated.\nRESULTS: Eighteen patients who underwent complete resection of pulmonary metastases from pancreatic cancer were included in the analysis. The median disease-free interval was 35 months (range, 11-66 months). Solitary pulmonary metastasis was observed in 14 patients, while two pulmonary metastases were observed in 4 patients. The median follow-up period censored after pulmonary metastasectomy was 51.5 months (range, 9-127). The 3-year recurrence-free survival (RFS) rate was 63.4%, and the 3-year overall survival rate was 91.7%. Patients without lymph node metastasis from primary pancreatic cancer had a significantly higher 3-year RFS (88.9%) than those with lymph node metastasis (35.6%, p = 0.043).\nCONCLUSION: Favorable recurrence and survival outcomes were observed in patients with isolated pulmonary metastases after primary pancreatic cancer surgery who were carefully selected based on features suggestive of indolent tumor biology. Lymph node status of the primary pancreatic cancer may help identify patients with more favorable tumor biology who may achieve better disease control after pulmonary metastasectomy.",
+ "authors": [
+  "Takei K",
+  "Konno H",
+  "Sugiura T",
+  "Kawata T",
+  "Ohgi K",
+  "Ohike N",
+  "Katsumata S",
+  "Kojima H"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43025191",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.1016/j.ejso.2026.112346",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43025191"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025191/"
+ },
+ "summary_ko": "INTRODUCTION: Pulmonary metastases from pancreatic cancer tend to occur later than other patterns of disease recurrence. The role of pulmonary metastasectomy remains unclear, particularly regarding patient selection and the influence of underlying tumor biology.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Pulmonary metastasectomy for isolated pulmonary metastases from pancreatic cancer: Patient selection and outcomes in a single-center retrospective cohort",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

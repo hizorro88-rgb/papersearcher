@@ -1,0 +1,56 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is an aggressive malignancy, largely due to its vague clinical presentation and delayed diagnosis. Knowledge of the risk factors is essential to combat this disease. Increasing interest has been directed toward immune-related disorders and their effect on pancreatic cancer development. Studies have investigated the relationship between asthma and pancreatic cancer; however, findings are inconsistent, with some studies reporting a protective association, while others failed to detect any differences. In light of these inconsistent findings, we conducted a systematic review of the available literature to clarify the link between asthma and pancreatic cancer.\nMETHODS: We identified studies published from 1978 through December 2025 that investigated the association between asthma and pancreatic cancer using PubMed, Scopus, and Embase databases, searched on 2 February 2026. Eligible studies were English-language comparative studies evaluating the association between asthma and pancreatic cancer, including case-control and cohort studies. Eligible outcomes were pancreatic cancer incidence or pancreatic cancer mortality. Studies that did not assess both asthma and pancreatic cancer were excluded. Studies were classified by design, assessed for bias and quality using the Newcastle-Ottawa Scale, and presented as a narrative review. This review was reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) reporting guideline.\nRESULTS: A total of 27 studies were included, comprising 14 case-control studies and 13 cohort studies. Overall, the available literature demonstrates discordant findings regarding the association between asthma and pancreatic cancer. While some studies suggest a potential inverse relationship, others report a null or even positive association.\nCONCLUSIONS: The current evidence on the association between asthma and pancreatic cancer remains inconsistent. The discrepancies across studies likely reflect variations in study design, differences in asthma ascertainment, and inconsistent adjustment for established confounders. Future studies with objective asthma diagnosis and adequate confounder control are warranted to clarify this association.",
+ "authors": [
+  "Darawsha B",
+  "Lavu H",
+  "Yeo CJ",
+  "Hanna N",
+  "Nevler A"
+ ],
+ "categories": [
+  "industry",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026779",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213457",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026779"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026779/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic cancer is an aggressive malignancy, largely due to its vague clinical presentation and delayed diagnosis. Knowledge of the risk factors is essential to combat this disease.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "The Association Between Asthma and Pancreatic Cancer: A Systematic Review",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

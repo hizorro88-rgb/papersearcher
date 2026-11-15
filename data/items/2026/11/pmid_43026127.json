@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Recurrence is common following curative-intent therapy for localized pancreatic ductal adenocarcinoma (PDAC), with the liver representing the most frequent site of relapse. Neoadjuvant hepatic artery (HA) chemotherapy improved outcomes in localized colorectal cancer. We evaluated the safety and feasibility of this approach in localized PDAC.\nMETHODS: This prospective, non-randomized trial treated 20 patients with localized PDAC with a single dose of neoadjuvant HA floxuridine (325 mg/m2) and oxaliplatin (37.5 mg/m2) one week before surgical resection. Primary endpoints were 30-day safety and feasibility. Secondary endpoints include three-year disease-free (DFS), liver metastasis-free (LMFS), and overall survival (OS).\nRESULTS: HA chemotherapy was successfully delivered in 20 of 21 patients (95.2%). While 14 patients (70%) experienced at least one adverse event within the safety period, only two were possibly related to treatment, including grade 1 and grade 2 transaminitis events that resolved without intervention. No serious adverse events were attributed to treatment. At a median follow up of 13.8 months, 16 patients remain alive (median OS not reached). Seven developed recurrence (median DFS 20.5 months), including four with liver metastases (median LMFS 20.5 months).\nCONCLUSIONS: Single-dose neoadjuvant HA chemotherapy is safe and feasible in localized PDAC. Long-term follow-up is ongoing.",
+ "authors": [
+  "Agritelley ES",
+  "Kanu EN",
+  "Button J",
+  "Bao M",
+  "Sannareddy DS",
+  "Fletcher AA",
+  "Skinner H",
+  "Molvin A"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "rct",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026127",
+ "importance": 0.85,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.1016/j.hpb.2026.10.013",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026127"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HPB (Oxford)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026127/"
+ },
+ "summary_ko": "BACKGROUND: Recurrence is common following curative-intent therapy for localized pancreatic ductal adenocarcinoma (PDAC), with the liver representing the most frequent site of relapse. Neoadjuvant hepatic artery (HA) chemotherapy improved outcomes in localized colorectal cancer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "A window-of-opportunity trial testing single-dose neoadjuvant hepatic arterial floxuridine and oxaliplatin for patients with localized pancreatic cancer: analysis of safety, feasibility, and interim oncologic outcomes",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,57 @@
+{
+ "abstract": "Background/Objectives: Melanoma-associated antigen A3 (MAGEA3) is a cancer-testis antigen with potential biological and prognostic relevance in pancreatic ductal adenocarcinoma (PDAC). This study evaluated the association between OTI1H1-defined MAGEA3-directed immunoreactivity and clinicopathological characteristics and overall survival after pancreatic resection for PDAC. Methods: This retrospective cohort included 76 patients with histologically confirmed PDAC. Patients who died within 30 postoperative days were excluded, and all tumors were retrospectively restaged according to the eighth edition of the AJCC TNM classification. Immunohistochemical staining was assessed using the mouse monoclonal anti-MAGE3 antibody clone OTI1H1 (ab140678, Abcam) by a single experienced pathologist blinded to clinical and outcome data. The percentage of immunoreactive tumor cells was retained as the principal exploratory quantitative measure; the prespecified <10% versus ≥10% classification was evaluated secondarily. Results: Thirty-six of 76 tumors (47.4%) had ≥10% OTI1H1-reactive tumor cells. When staining was modeled continuously, the adjusted HR per 10-percentage-point increase was 0.969 (95% CI 0.898-1.046; p = 0.420). For the secondary binary classification, the adjusted HR for ≥10% versus <10% staining was 0.745 (95% CI 0.417-1.331; p = 0.320). No statistically clear association with overall survival was observed; however, the confidence intervals do not exclude potentially clinically relevant associations in either direction. Conclusions: No statistically clear association between OTI1H1-defined immunoreactivity and overall survival was observed in this cohort. Because OTI1H1 has known cross-reactivity with selected MAGE-A family proteins and no orthogonal molecular validation was performed, these findings should be interpreted as assay-specific and do not establish biological inactivity of MAGEA3 or related MAGE-A proteins.",
+ "authors": [
+  "Glavčić G",
+  "Glavčić M",
+  "Janković S",
+  "Mužina D",
+  "Bilić Z",
+  "Blažević N",
+  "Misir Z",
+  "Hranjec J"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43030420",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/jcm15218276",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43030420"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43030420/"
+ },
+ "summary_ko": "Background/Objectives: Melanoma-associated antigen A3 (MAGEA3) is a cancer-testis antigen with potential biological and prognostic relevance in pancreatic ductal adenocarcinoma (PDAC). This study evaluated the association between OTI1H1-defined MAGEA3-directed immunoreactivity and clinicopathological characteristics and overall survival after pancreatic resection for PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "OTI1H1-Defined MAGEA3-Directed Immunoreactivity and Survival in Pancreatic Ductal Adenocarcinoma: A Single-Center Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

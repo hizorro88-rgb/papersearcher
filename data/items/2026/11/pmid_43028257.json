@@ -1,0 +1,56 @@
+{
+ "abstract": "KRAS-mutant pancreatic ductal adenocarcinoma (PDAC) is characterized by a high mortality that still lacks efficient therapies. Monoketone-based bisarylidene curcuminoid derivatives have shown promising activities against various PDAC models. Based on our previous findings on anticancer-active N-acryloyl-modified piperidin-4-one derivatives, we replaced the reactive acryloyl moiety by a series of N-arylsulfonyl bis-difluoro/trifluoromethylbenzylidene piperidin-4-one derivatives and tested them for antiproliferative activity against KRAS-mutant PDAC cells. Furthermore, apoptosis induction based on caspase-3/7 activation and STAT3 inhibition were investigated for the most promising compound. Notably, the N-tosyl derivative 3a with 4-trifluoromethyl substituents at the benzylidene rings exhibited the highest antiproliferative activities against PDAC cells (IC50 = 0.22-0.26 µM, 48 h). Derivative 3a also strongly induced apoptosis in PDAC cells and suppressed STAT3 activation/phosphorylation, which was supported by molecular docking of this curcuminoid into the SH2 domain of STAT3 and by 3a-STAT3 binding confirmed using CETSA in MiaPaCa-2 cells. These findings identify compound 3a as a promising lead for further preclinical evaluation in KRAS-mutant PDAC models and in other STAT3-dependent cancer types.",
+ "authors": [
+  "Ghosh H",
+  "Azaz DQ",
+  "Saxena A",
+  "Bodenhausen N",
+  "Schobert R",
+  "Biersack B",
+  "Dandawate P"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43028257",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/ijms272110013",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43028257"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-08",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43028257/"
+ },
+ "summary_ko": "KRAS-mutant pancreatic ductal adenocarcinoma (PDAC) is characterized by a high mortality that still lacks efficient therapies. Monoketone-based bisarylidene curcuminoid derivatives have shown promising activities against various PDAC models.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Activity of Fluoro-Substituted 3,5-Di[(E)-Benzylidene]piperidin-4-Ones with N-Arylsulfonyl Appendages Against KRAS-Mutant Pancreatic Ductal Adenocarcinoma Cells",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

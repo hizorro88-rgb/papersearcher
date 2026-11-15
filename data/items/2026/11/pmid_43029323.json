@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic cancer is characterized by cellular heterogeneity, contributing to variable responses to anticancer treatment. Natural products may modify these responses in a context-dependent manner. We investigated whether three Lepidium meyenii Walp. (Brassicaceae; maca) preparations, marked as yellow (MY), red (MR), and black (MB), differentially modify pancreatic cancer cell responses to doxorubicin (DOX). BxPC-3, MIA PaCa-2, and PANC-1 cells were treated with maca preparations alone or combined with DOX. Cell viability, apoptosis-associated signaling, survival-related proteins, lipid droplet accumulation, and lipid metabolism-related proteins were evaluated. Drug interactions were assessed using Bliss independence and Highest Single Agent (HSA) models. Interaction profiles differed among cell lines and depended on the tested maca preparation and DOX concentration. The strongest favorable interactions were observed in PANC-1 cells treated with MR or MB plus 2.5 µM DOX (Bliss/HSA scores: 18.9/13.1 and 17.6/12.4, respectively), whereas BxPC-3 cells showed favorable interactions with MY, MR, and MB at 5 µM DOX (Bliss/HSA scores: 12.4/9.8, 10.7/8.5, and 11.9/9.2, respectively). MIA PaCa-2 cells showed mainly neutral or less-than-additive interactions. These responses were accompanied by changes in caspase-3 activation, PI3K, FAP, and FOXO1 protein levels, lipid droplet accumulation, and ATGL, ABHD5, and PLIN3 levels. Overall, the tested MY, MR, and MB preparations differentially modified pancreatic cancer cell responses to DOX and were associated with distinct survival-related and lipid metabolism-related changes. Further phytochemical characterization and functional mechanistic studies are required to identify the constituents involved and determine whether the observed molecular changes contribute causally to these effects.",
+ "authors": [
+  "Olichwier AJ",
+  "Kalita IS",
+  "Bruzgo-Grzybko M",
+  "Golonko A",
+  "Bielicka N",
+  "Bednarski TK",
+  "Chabielska E",
+  "Gromotowicz-Poplawska A"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43029323",
+ "importance": 0.55,
+ "key_points_ko": [
+  "PANC-1 세포에서 빨간색 및 검은색 마카와 2.5 µM doxorubicin 병용 시 가장 높은 시너지 상호작용(Bliss 점수 각각 18.9, 17.6)이 관찰되었습니다.",
+  "BxPC-3 세포에서는 5 µM doxorubicin 조건에서 노란색, 빨간색, 검은색 마카 모두 긍정적인 상호작용(Bliss 점수 10.7~12.4)을 보였습니다.",
+  "이러한 반응은 caspase-3 활성화, PI3K 단백질 및 지질 대사 관련 단백질(ATGL, ABHD5, PLIN3) 수준의 변화를 동반했습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/molecules31214011",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43029323"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Molecules",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43029323/"
+ },
+ "summary_ko": "본 연구는 노란색(MY), 빨간색(MR), 검은색(MB) 마카(Lepidium meyenii) 제제가 췌장암 세포의 doxorubicin(독소루비신) 치료 반응에 미치는 영향을 조사했습니다. 췌장암 세포주(BxPC-3, MIA PaCa-2, PANC-1)에 마카 단독 또는 doxorubicin 병용 처치를 시행하고 세포 생존율과 지질 대사 단백질 변화를 평가했습니다. 연구 결과 마카의 종류, 세포주, doxorubicin 농도에 따라 시너지 효과 및 분자적 반응이 다르게 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Yellow, Red, and Black Lepidium meyenii Preparations Differentially Modulate Doxorubicin Response and Lipid Metabolism-Related Changes in Pancreatic Cancer Cells",
+ "title_ko": "노란색, 빨간색, 검은색 마카 추출물이 췌장암 세포의 독소루비신 반응 및 지질 대사 변화에 미치는 차별적 조절 효과",
+ "trial": null,
+ "type": "paper"
+}

@@ -11,7 +11,8 @@
   "Kim HS"
  ],
  "categories": [
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "distal-pancreatectomy"
@@ -27,7 +28,12 @@
  ],
  "id": "pmid:43022477",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "RAMPS 군은 cDPS 군보다 R0 절제율이 유의하게 높았습니다 (99.3% 대 88.6%, P = 0.007).",
+  "RAMPS 군은 획득한 림프절 수가 유의하게 더 많았습니다 (16.3개 대 10.3개, P < 0.001).",
+  "전체 생존기간(OS)은 RAMPS 군 26개월, cDPS 군 31개월로 유의한 차이가 없었습니다 (P = 0.963).",
+  "무병 생존기간(DFS)은 RAMPS 군 11개월, cDPS 군 9개월로 유의한 차이가 없었습니다 (P = 0.148)."
+ ],
  "last_updated": "2026-11-14",
  "links": {
   "doi": "10.4174/astr.2026.111.5.270",
@@ -49,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43022477/"
  },
- "summary_ko": "PURPOSE: This study was performed to evaluate the postoperative and long-term oncologic outcomes of radical antegrade modular pancreatosplenectomy (RAMPS) relative to conventional distal pancreatosplenectomy (cDPS) in patients with left-sided pancreatic ductal adenocarcinoma (PDAC). METHODS: Between 2005 and 2017, 316 patients with left-sided PDAC who underwent curative-intent distal pancreatectomy at four tertiary referral centers were retrospectively analyzed.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 좌측 췌장관선암(PDAC) 환자를 대상으로 근치적 전방향 모듈식 췌장비장절제술(RAMPS)과 전통적 원위부 췌장비장절제술(cDPS)의 수술 후 및 장기 종양학적 결과를 비교했습니다. 4개 3차 병원에서 2005년부터 2017년까지 수술받은 316명의 환자를 대상으로 성향점수 매칭을 시행하여 총 210명의 환자를 분석했습니다. 연구 결과 RAMPS 군은 cDPS 군에 비해 R0 절제율과 획득한 림프절 수가 유의하게 높았습니다. 그러나 전체 생존기간(OS)과 무병 생존기간(DFS)은 두 군 간에 차이가 없었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Radical antegrade modular pancreatosplenectomy versus conventional distal pancreatosplenectomy for left-sided pancreatic ductal adenocarcinoma: a multicenter propensity score-matched analysis",
- "title_ko": null,
+ "title_ko": "좌측 췌장암에서 근치적 전방향 모듈식 췌장비장절제술(RAMPS)과 전통적 원위부 췌장비장절제술(cDPS)의 비교: 다기관 성향점수 매칭 분석",
  "trial": null,
  "type": "paper"
 }

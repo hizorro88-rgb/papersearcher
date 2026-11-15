@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Circulating tumor DNA (ctDNA) provides molecular information at different stages of the pancreatic ductal adenocarcinoma (PDAC) patient journey, but its clinical value differs according to when and why it is measured. This narrative review examines ctDNA from diagnosis and molecular profiling through neoadjuvant therapy, postoperative molecular residual disease (MRD), surveillance, and dynamic monitoring during systemic therapy, critically assessing the strength and limitations of the evidence at each clinical stage and its implications for clinical decision-making.\nMETHODS: Relevant studies were identified primarily through PubMed/MEDLINE, supplemented by forward citation tracking in Google Scholar, backward reference screening, and ClinicalTrials.gov searches for ongoing interventional studies. Original PDAC clinical studies were prioritized, with selected reviews, guidelines, consensus statements, and position papers used for context.\nRESULTS: In localized disease, limited ctDNA shedding constrains diagnostic sensitivity, although baseline detection may provide prognostic information. After surgery, ctDNA positivity consistently identifies patients at increased risk of recurrence, whereas a negative result cannot reliably exclude residual disease. During surveillance, newly detectable or rising ctDNA may precede radiological recurrence. In advanced disease, serial ctDNA kinetics provide increasingly consistent information on treatment response and progression. Evidence for dynamic monitoring is increasing, but evidence that ctDNA-guided treatment or surveillance improves patient outcomes remains insufficient.\nCONCLUSIONS: The clinical value of ctDNA depends on when and why it is measured. ctDNA should complement rather than replace conventional assessments. By distinguishing established prognostic associations from emerging monitoring applications and unproven ctDNA-guided interventions, this review provides a practical framework for interpreting ctDNA across the PDAC patient journey. Prospective trials are needed to determine whether ctDNA-guided decisions improve patient outcomes.",
+ "authors": [
+  "Abue M",
+  "Asano N",
+  "Morikawa T",
+  "Masamune A",
+  "Nishizuka S",
+  "Yasuda J"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026792",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213471",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026792"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026792/"
+ },
+ "summary_ko": "BACKGROUND/OBJECTIVES: Circulating tumor DNA (ctDNA) provides molecular information at different stages of the pancreatic ductal adenocarcinoma (PDAC) patient journey, but its clinical value differs according to when and why it is measured. This narrative review examines ctDNA from diagnosis and molecular profiling through neoadjuvant therapy, postoperative molecular residual disease (MRD), surveillance, and dynamic monitoring during systemic therapy, critically assessing the strength and limita…",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Circulating Tumor DNA Across the Patient Journey in Pancreatic Cancer: From Molecular Profiling to Dynamic Disease Monitoring",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

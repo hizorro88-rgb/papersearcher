@@ -13,7 +13,7 @@
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-14",
  "history": [
   {
@@ -23,13 +23,17 @@
   }
  ],
  "id": "pmid:43021321",
- "importance": 0.7,
- "key_points_ko": [],
- "last_updated": "2026-11-14",
+ "importance": 0.64,
+ "key_points_ko": [
+  "FGFBP2 p.T186S 돌연변이를 가진 섬유아세포(FGFBP2MUT)는 대조군에 비해 활성 마커와 사이토카인 발현이 증가했습니다.",
+  "FGFBP2MUT 세포는 생존 세포 수와 이동 능력이 증가하는 양상을 보였습니다.",
+  "FGFBP2MUT 세포의 배양액은 PANC-1 췌장암 세포의 성장을 촉진하고 ERK1/2 신호전달 경로를 활성화했습니다."
+ ],
+ "last_updated": "2026-11-15",
  "links": {
   "doi": "10.1186/s12967-026-09137-3",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13757086",
   "pmid": "43021321"
  },
  "pub_types": [
@@ -46,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43021321/"
  },
- "summary_ko": "BACKGROUND: Pancreatic cancer is one of the most aggressive human tumors with an extremely poor prognosis. The tumor microenvironment is characterized by a complex network of cellular interactions, in which cancer-associated fibroblasts (CAFs) play a pivotal role in the initiation and progression of the disease.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장암의 종양 미세환경에서 암 연관 섬유아세포(CAF)의 FGFBP2 p.T186S 돌연변이가 섬유아세포의 기능과 췌장암 세포에 미치는 영향을 조사했습니다. FGFBP2 돌연변이를 가진 섬유아세포는 활성 마커와 사이토카인의 발현이 증가하고, 생존 세포 수와 이동 능력이 향상되었습니다. 또한, 이 돌연변이 섬유아세포의 배양액은 PANC-1 췌장암 세포의 성장을 촉진하고 ERK1/2 신호전달 경로를 활성화했습니다. 연구진은 RNA 시퀀싱 등을 통해 이러한 변화가 EHF(ETS homologous factor) 유전자의 발현 증가 및 PDGF(platelet-derived growth factor) 신호전달 경로와 관련이 있음을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "FGFBP2 p.T186S mutation in tumor associated fibroblasts supports progression of pancreatic cancer through autocrine and paracrine mechanisms",
- "title_ko": null,
+ "title_ko": "종양 연관 섬유아세포의 FGFBP2 p.T186S 돌연변이는 자가분비 및 주위분비 기전을 통해 췌장암의 진행을 돕습니다",
  "trial": null,
  "type": "paper"
 }

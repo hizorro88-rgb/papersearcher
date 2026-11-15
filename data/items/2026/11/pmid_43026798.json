@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Eosinophils have become important therapeutic targets in several allergic diseases. This study aimed to apply a similar approach-using peripheral blood findings to identify features of type 2 (T2) inflammation-to oncology. We used Simple Algorithm for Blood Morphology Analysis (SAMBA) to describe blood count profiles in a cohort of patients with PDAC independently of relative ratios and propose a potential classification.\nMATERIALS AND METHODS: We included 153 treatment-naïve patients with PDAC confirmed by postoperative histopathology. Of these, n = 68 (44.4%) underwent curative surgery, whereas n = 85 (55.6%) received palliative treatment or underwent surgical biopsy only. SAMBA was applied using laboratory reference ranges and overall survival (OS; months) as the analytical context.\nRESULTS: The subgroups defined according to laboratory reference ranges did not differ significantly in disease stage, grade, or resection status. Based on correlation analyses, Kaplan-Meier curves, and a classification and regression tree (CART) analysis of OS, we propose four blood count phenotypes: exhausted, lymphopenic, T2-low, and T2-high (median OS: 1.5 months, n = 22; 4.5 months, n = 12; 8.0 months, n = 25; and 10.0 months, n = 94, respectively).\nCONCLUSIONS: We propose the following preliminary interpretations of these phenotypes: exhausted, potentially associated with concomitant infection or marked inflammation; lymphopenic, characterized by a low lymphocyte count and potentially reduced antitumor immune activity; eosinopenic (T2-low), characterized by a relatively balanced inflammatory profile but limited T2-associated features; and eosinophilic (T2-high), characterized by no major abnormalities in the other blood count parameters and a more favorable prognosis. SAMBA is a transparent, readily interpretable algorithm that may help standardize and accelerate preliminary research in immuno-oncology.",
+ "authors": [
+  "Wardęszkiewicz A",
+  "Kosztowny K",
+  "Grząsiak-Kraj O",
+  "Hogendorf P",
+  "Durczyński A",
+  "Kumor-Kisielewska A",
+  "Panek M",
+  "Strzelczyk J"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026798",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213477",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026798"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026798/"
+ },
+ "summary_ko": "INTRODUCTION: Eosinophils have become important therapeutic targets in several allergic diseases. This study aimed to apply a similar approach-using peripheral blood findings to identify features of type 2 (T2) inflammation-to oncology.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Simple Algorithm for Blood Morphology Analysis (SAMBA): An Artificial Intelligence-Assisted Approach to Identify Peripheral Blood Phenotypes in a Cohort of Patients with Pancreatic Ductal Adenocarcinoma (PDAC)",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

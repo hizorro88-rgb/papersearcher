@@ -11,8 +11,9 @@
   "de la Fouchardière C"
  ],
  "categories": [
-  "trial",
   "treatment",
+  "trial",
+  "drug",
   "supportive"
  ],
  "entities": [
@@ -29,7 +30,11 @@
  ],
  "id": "pmid:43024239",
  "importance": 0.88,
- "key_points_ko": [],
+ "key_points_ko": [
+  "전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).",
+  "통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).",
+  "마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01)."
+ ],
  "last_updated": "2026-11-14",
  "links": {
   "doi": "10.1001/jamanetworkopen.2026.41241",
@@ -56,11 +61,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43024239/"
  },
- "summary_ko": "IMPORTANCE: The PANOVA-3 trial demonstrated the survival benefit and tolerability of Tumor Treating Fields (TTFields) therapy concomitant with gemcitabine and nab-paclitaxel, but understanding the impact of TTFields therapy on quality of life (QoL) and pain is important for clinical decision-making. OBJECTIVE: To analyze the impact of TTFields therapy concomitant with gemcitabine and nab-paclitaxel on QoL and pain outcomes using prospective data from PANOVA-3.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석",
  "trial": null,
  "type": "paper"
 }

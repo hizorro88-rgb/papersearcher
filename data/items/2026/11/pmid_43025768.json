@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND & AIMS: Pancreatic ductal adenocarcinoma (PDAC) exhibits a highly complex tumor microenvironment enriched with both inflammatory and immunosuppressive factors. Interleukin-18 (IL-18), a cytokine of the IL-1 family, is elevated in PDAC and correlates with poor patient outcomes. However, the functional role of IL-18 in PDAC progression and immune regulation remains poorly defined.\nMETHODS: We generated genetically engineered mouse models with IL-18 depletion in the context of spontaneous PDAC development. Single-cell RNA-sequencing and functional assays were used to analyze PDAC progression, macrophage phenotypes, and cancer cell-macrophage interactions. Mechanistic studies were performed to determine the effects of IL-18 on STAT1 signaling and CD47 expression. The role of IL-18 in therapeutic response was evaluated using KRAS inhibitor (KRASi) treatment models.\nRESULTS: Elevated IL-18 expression correlated with poor patient survival. Genetic depletion of IL-18 significantly suppressed spontaneous PDAC progression and prolonged survival in mice. Mechanistically, IL-18 promoted cancer cell survival by activating STAT1-dependent CD47 expression, thereby impairing macrophage-mediated phagocytosis of cancer cells. In addition, IL-18 depletion reshaped the tumor immune microenvironment by enriching macrophage populations with enhanced antigen-presenting and phagocytic phenotypes characterized by increased MHCII and CD11c expression. Notably, KRAS inhibitor treatment further increased IL-18 expression in PDAC cells, whereas IL-18 depletion enhanced macrophage-mediated clearance of KRASi-treated cancer cells and improved therapeutic efficacy.\nCONCLUSIONS: IL-18 promotes pancreatic cancer progression by enabling cancer cell survival and immune evasion through macrophage reprogramming. Targeting IL-18 may represent a therapeutic strategy to enhance macrophage-mediated anti-tumor immunity and improve responses to KRAS inhibitor therapies in PDAC.",
+ "authors": [
+  "Sun X",
+  "Ma Y",
+  "Wang L",
+  "Gao J",
+  "Fei Y",
+  "Zhang X",
+  "Tino RB",
+  "Kim Y"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43025768",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.1053/j.gastro.2026.10.383",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43025768"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gastroenterology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025768/"
+ },
+ "summary_ko": "BACKGROUND & AIMS: Pancreatic ductal adenocarcinoma (PDAC) exhibits a highly complex tumor microenvironment enriched with both inflammatory and immunosuppressive factors. Interleukin-18 (IL-18), a cytokine of the IL-1 family, is elevated in PDAC and correlates with poor patient outcomes.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

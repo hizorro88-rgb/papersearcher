@@ -1,0 +1,57 @@
+{
+ "abstract": "Protein S (PS), encoded by PROS1, is a vitamin K-dependent physiological anticoagulant with emerging, context-dependent roles in tumor biology. In pancreatic ductal adenocarcinoma (PDAC), exogenous PS suppresses tumor growth and intratumoral hypoxia in preclinical models. Notably, high intratumoral PROS1 expression is associated with improved survival and attenuation of oncogenic, hypoxia-responsive, and EMT-related transcriptional programs in PDAC. Here, we examined associations between intratumoral PROS1 expression and overall survival, hypoxia-associated signaling, and genomic instability across nine cancer types using publicly available cBioPortal datasets. Tumors were stratified by low versus high PROS1 expression. Genomic instability was assessed using tumor mutational burden, aneuploidy, and tumor break load, where available. High PROS1 expression was associated with improved survival in ovarian serous cystadenocarcinoma and lung adenocarcinoma in exploratory, unadjusted Mantel-Haenszel hazard ratio analyses. It was also inversely associated with genomic instability markers in ovarian, lung adenocarcinoma, and PDAC. Meta-analyses in select genes under low and high PROS1 expression conditions revealed shifts in pathways linked to oncogenic signaling, cell-cycle regulation, hypoxia, and EMT. Collectively, these findings position PROS1 as a candidate prognostic biomarker in selected cancers and support further investigation of PROS1's roles in limiting tumor progression and preserving genomic stability.",
+ "authors": [
+  "Prouse T",
+  "Majumder R",
+  "Majumder S"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43027861",
+ "importance": 0.6,
+ "key_points_ko": [
+  "췌관선암(PDAC) 전임상 모델에서 외부 단백질 S(PS, PROS1 유전자 암호화) 투여는 종양 성장과 종양 내 저산소증을 억제했습니다.",
+  "cBioPortal 분석 결과 PROS1 고발현은 췌장암, 난소암, 폐선암에서 종양 변이 부하(TMB) 등 유전체 불안정성 지표와 음의 상관관계를 보였습니다.",
+  "PROS1 발현 수준에 따른 메타분석에서 세포주기 조절, 저산소증, 상피간엽전이(EMT) 경로의 주요 유전자 변화가 확인되었습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/ijms27219613",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43027861"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-27",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43027861/"
+ },
+ "summary_ko": "본 연구는 cBioPortal 데이터셋을 사용하여 췌장암을 포함한 9개 암종에서 종양 내 PROS1 유전자 발현과 생존율의 연관성을 분석했습니다. 췌관선암(PDAC) 등에서 PROS1 발현이 높은 경우 암유전자 신호, 저산소 반응, 상피간엽전이(EMT) 관련 전사 프로그램이 억제되는 경향을 보였습니다. 또한 난소암, 폐선암, 췌장암에서 PROS1 높은 발현은 유전체 불안정성 지표 감소와 연관되었습니다. 이는 PROS1이 특정 암에서 종양 진행을 제한하고 예후를 예측하는 바이오마커 후보가 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "High Intratumoral PROS1 Expression Is Associated with Improved Survival, Reduced Hypoxia Score Markers, and Alterations in Gene Expression Associated with Oncogene Signaling and Cell Cycle Signaling in Selected Solid Tumors",
+ "title_ko": "일부 고형암에서 종양 내 PROS1 높은 발현과 생존율 개선, 저산소 지표 감소 및 암유전자·세포주기 신호전달 변화의 연관성",
+ "trial": null,
+ "type": "paper"
+}

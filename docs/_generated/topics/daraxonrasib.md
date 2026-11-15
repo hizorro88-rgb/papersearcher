@@ -33,7 +33,7 @@ search:
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (12)
+## 타임라인 (13)
 
 <a id="doi-10.64898-2026.11.07.765071"></a>
 #### [췌장관선암에서 젬시타빈 및 RAS(ON) 억제제 다락소나십 내성 극복을 위한 다중기전 miR-15a 모방체 개발](https://europepmc.org/article/PPR/PPR1363717)
@@ -63,6 +63,15 @@ search:
 - 정량 하한선은 MRTX1133이 0.02 ng, RMC-6236, RMC-9805, RMC-7977이 각각 0.1 ng이었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42988458/) · [DOI](https://doi.org/10.1080/17576180.2026.2758539) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42988458)</small>
+
+---
+<a id="pmid-43026840"></a>
+#### [Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/43026840/)
+`논문` `종설` `치료 전반` `신약·치료제` `진단·조기발견` · 2026-11-02 · PubMed · Cancers (Basel) · 중요도 0.68
+
+Pancreatic ductal adenocarcinoma (PDAC), the most common histological subtype of pancreatic cancer, remains one of the most lethal solid malignancies, with most patients presenting with advanced disease and limited therapeutic options. Activating KRAS mutations are present in over 90% of PDACs and drive tumor initiation, progression, metabolic reprogramming, and immune evasion, making KRAS a central therapeutic target.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026840/) · [DOI](https://doi.org/10.3390/cancers18213519) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026840)</small>
 
 ---
 <a id="pmid-42963543"></a>

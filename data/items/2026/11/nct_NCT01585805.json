@@ -19,7 +19,11 @@
  ],
  "id": "nct:NCT01585805",
  "importance": 0.87,
- "key_points_ko": [],
+ "key_points_ko": [
+  "BRCA1, BRCA2 또는 PALB2 유전자 변이를 보유한 국소 진행성 또는 전이성 췌장암 환자 83명을 대상으로 진행됩니다.",
+  "이전 치료 경험이 없는 환자군에서는 젬시타빈과 시스플라틴 조합에 벨리파립 추가 투여 효과를 무작위 비교합니다.",
+  "이전 항암 치료를 최대 2차례 받은 환자군에서는 벨리파립 단독 투여 시의 반응률과 무진행 생존기간을 평가합니다."
+ ],
  "last_updated": "2026-11-14",
  "links": {
   "doi": null,
@@ -43,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT01585805"
  },
- "summary_ko": "This randomized phase II trial studies how well veliparib together with gemcitabine hydrochloride and cisplatin works compared to gemcitabine hydrochloride and cisplatin alone in treating patients with pancreatic cancer that has spread from where it started to nearby tissue or lymph nodes (locally advanced) or spread from the primary site (place where it started) to other places in the body (metastatic). Veliparib may stop the growth of tumor cells by blocking some of the enzymes needed for cell…",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 시행되는 2상 임상시험입니다. PARP 억제제인 veliparib(벨리파립)을 gemcitabine(젬시타빈) 및 cisplatin(시스플라틴)과 함께 투여하거나 벨리파립 단독으로 투여할 때의 치료 효과와 안전성을 평가합니다. 이전 전신 치료 경험이 없는 환자(Part I)에서는 3제 병용요법과 2제 병용요법을 무작위 비교하고, 이전 치료 경험이 있는 환자(Part II)에서는 벨리파립 단독 요법의 효과를 확인합니다. 주요 목표는 치료에 따른 객관적 반응률(ORR)과 무진행 생존기간(PFS)을 측정하는 것입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Gemcitabine Hydrochloride and Cisplatin With or Without Veliparib or Veliparib Alone in Treating Patients With Locally Advanced or Metastatic Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "국소 진행성 또는 전이성 췌장암 환자에서 젬시타빈·시스플라틴과 벨리파립 병용 또는 벨리파립 단독 요법을 평가하는 2상 임상시험",
  "trial": {
   "conditions": [
    "Locally Advanced Pancreatic Adenocarcinoma",
@@ -56,7 +60,7 @@
    "Stage IV Pancreatic Cancer AJCC v8"
   ],
   "contacts": [],
-  "eligibility_ko": null,
+  "eligibility_ko": "선정 기준:\n• 유전자 검사로 BRCA1, BRCA2 또는 PALB2 변이가 확인된 국소 진행성 또는 전이성 췌장 췌관선암 환자\n• 만 18세 이상\n• RECIST 기준에 따른 측정 가능 병변 보유\n• Part I (1차 치료): 국소 진행성 또는 전이성 질환에 대해 이전 전신 항암 치료를 받지 않은 환자 (수술 후 보조항암 치료는 종료 후 6개월 이상 경과 시 허용)\n• Part II (2차 이상 치료): 이전 전신 항암 치료를 최대 2차례까지 받은 환자 (PARP 억제제 경험 제외)\n• 동부종양학협력그룹(ECOG) 수행능력 평가 점수 0~1점(Part I) 또는 0~2점(Part II)\n\n제외 기준:\n• 이전에 PARP 억제제 치료를 받은 적이 있는 환자\n• 임상시험 시작 전 3주 이내에 항암화학요법 또는 방사선 치료를 받은 환자\n• 백금계 항암제(시스플라틴 등)에 대한 금기증이 있는 환자 (Part I)\n• 발작 병력이 있거나 현재 활동성 발작이 있는 환자\n• 조절되지 않는 감염, 증상이 있는 울혈성 심부전, 불안정형 협심증, 심장 부정맥 등 심각한 동반 질환이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Male or female patients with cytologically or histologically confirmed locally advanced or metastatic pancreas adenocarcinoma with a BRCA1 or 2 or PALB2 mutation confirmed by report from Myriad Genetics (United States of America \\[USA\\]); reports from other molecular diagnostic companies can be used to confirm mutations as well; BRCA 1 or 2 or PALB2 mutation can be confirmed locally for all international sites\n\n  * For part I, non-randomized, lead-in portion, patients with a known BRCA 1 or 2 or PALB2 mutation are eligible along with patients who potentially may have a likelihood of having a BRCA mutation (e.g., personal or family history of breast, pancreas, ovary, endometrial, prostate or other likely related malignancy)\n  * For part I, randomized portion, a known BRCA 1 or 2 or PALB2 mutation is required\n* For part I (arms A, B): Patients can have either locally advanced or metastatic pancreas adenocarcinoma for which no prior therapy has been administered for either locally advanced or metastatic disease; prior adjuvant therapy is permissible if gemcitabine or a fluoropyrimidine was administered with or without radiation and if disease recurrence has been documented at least 6 months after completion of adjuvant therapy\n* For part II (arm C): Patients can have either locally advanced or metastatic pancreas adenocarcinoma; up to two prior treatment regimens are permissible (excluding a prior PARP inhibitor) for either localized or metastatic pancreas adenocarcinoma; prior combined chemotherapy and radiotherapy is permissible provided the patient has measurable disease outside the radiation port; prior therapy must have been completed at least 3 weeks prior to starting therapy\n* Age \\> 18 years. No dosing or adverse event data are currently available on the use of veliparib in patients \\< 18 years of age, therefore children are excluded from this study\n* Eastern Cooperative Oncology Group (ECOG) performance status:\n\n  * For part I (arm A, B): 0-1 (Karnofsky \\> 70%)\n  * For part II (arm C): 0-2 (Karnofsky \\>= 60%)\n* Life expectancy of greater than 3 months\n* Absolute neutrophil count \\>= 1,500/mcL (measured within 14 days prior to administration of ABT-888)\n* Hemoglobin \\>= 9.0 g/dl (measured within 14 days prior to administration of ABT-888)\n* Platelets \\>= 100,000/mcL (measured within 14 days prior to administration of ABT-888)\n* Total bilirubin =\\< 2 x institutional upper limit of normal (measured within 14 days prior to administration of ABT-888)\n* Aspartate aminotransferase(AST)/serum glutamic oxaloacetic transaminase (SGOT) and alanine aminotransferase(ALT)/serum glutamate pyruvate transaminase (SGPT) =\\< 2.5 x institutional upper limit of normal unless there is evidence of liver metastases in which case the AST (SGOT)/ALT (SGPT) must be =\\< 5 x institutional upper limit of normal (measured within 14 days prior to administration of ABT-888)\n* Creatinine =\\< 1.5 x upper limit of normal (ULN) (measured within 14 days prior to administration of ABT-888)\n* Measurable disease by RECIST criteria\n\n  * For the lead-in, non-randomized portion of part I, either measurable or evaluable disease is acceptable\n  * For part I, randomized portion, measurable disease is required\n* If a woman is of child-bearing potential a negative blood or urine pregnancy test is required; (the effects of veliparib on the developing human fetus are unknown; for this reason and because other therapeutic agents or modalities used in this trial are known to be teratogenic, women of child-bearing potential and men must agree to use adequate contraception \\[hormonal or barrier method of birth control; abstinence\\] prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately)\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 3 weeks earlier\n\n  * For part I, prior adjuvant therapy with gemcitabine or a fluoropyrimidine therapy is permitted if completed \\> 6 months prior to recurrence; no prior PARP inhibitor therapy is allowed\n  * For part II, no prior PARP inhibitor therapy is permitted and up to two prior treatment regimens are permitted as follows: 1 adjuvant and 1 metastatic; 1 locally advanced and 1 metastatic; or 2 metastatic, or a variation thereof\n* Patients may not be receiving any other investigational agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to veliparib or other agents used in study\n* For part I: patients with known contraindications to platinum agents are excluded\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study because veliparib is a PARP inhibitor with the potential for teratogenic or abortifacient effects; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with veliparib, breastfeeding should be discontinued if the mother is treated with veliparib; these potential risks may also apply to other agents used in this study\n* Patients with a known active infection, e.g., hepatitis B virus or hepatitis C virus; human immunodeficiency virus (HIV)-positive patients who are otherwise well and who do not have evidence of significant immune compromise are eligible\n* Patients with active seizure or history of seizure are not eligible\n* Patients with uncontrolled central nervous system (CNS) metastasis are not eligible; patients with CNS metastases are to be stable for \\> 3 months after treatment and off steroid treatment prior to study enrollment\n* Patients with prior malignancy successfully treated who are currently stable and on no active treatment are eligible\n* Patients who are unable to swallow pills/capsules are ineligible\n* Patients with treatment-related acute myeloid leukemia (AML) (t-AML)/myelodysplastic syndrome (MDS) or with features suggestive of AML/MDS are ineligible\n* Patients with prior allogeneic bone marrow transplant or double umbilical cord blood transplantation are ineligible",
   "enrollment": 83,
   "has_results": true,
@@ -82,22 +86,24 @@
    "biomarkers_required": [
     "BRCA_PALB2"
    ],
-   "ecog_max": null,
-   "key_exclusions_ko": [],
-   "max_prior_lines": null,
-   "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "",
-   "prior_excluded": [],
-   "prior_required": [
-    "gemcitabine",
-    "fluoropyrimidine"
+   "ecog_max": 2,
+   "key_exclusions_ko": [
+    "이전 PARP 억제제 치료 경험",
+    "발작 병력 또는 활동성 발작",
+    "조절되지 않는 심장 질환 또는 활동성 감염",
+    "백금계 항암제 금기증"
    ],
+   "max_prior_lines": 2,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "BRCA1, BRCA2 또는 PALB2 변이가 확인된 국소 진행성 또는 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
    "setting": [
     "metastatic",
     "locally_advanced"
    ],
-   "source": "rules"
+   "source": "llm"
   },
   "max_age": null,
   "min_age": "18 Years",

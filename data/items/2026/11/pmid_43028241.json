@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal cancer with poor prognosis due to chemoresistance and limited treatment options. Schisandrin B (Sch B), a bioactive compound from Schisandra chinensis, has demonstrated anticancer effects in various malignancies, but its role in PDAC remains unknown. This study explores the antitumor mechanisms of Sch B using network pharmacology, molecular docking, and in vitro and in vivo experiments, focusing on the EGFR/AKT/mTOR signaling pathway and mitochondrial dysfunction. Network pharmacology identified EGFR, CASP3, BCL2, and HSP90 as key candidate targets of Sch B, and molecular docking and MD simulation were used to explore putative interactions with these proteins. In PDAC cells, treatment Sch B for 48 h reduced cell viability. In addition, Sch B suppressed EGFR/AKT/mTOR signaling and induced mitochondrial dysfunction, characterized by loss of mitochondrial membrane potential, increased mitochondrial and cytosolic calcium levels, and elevated ROS production, accompanied by activation of apoptotic signaling. Co-treatment with gemcitabine demonstrated enhanced effects, elevating apoptosis and oxidative stress. Moreover, Sch B significantly reduced tumor growth in a PANC-1 xenograft model, accompanied by decreased protein expression of EGFR, AKT, mTOR, and HSP90 in tumor tissues. These findings suggest that Sch B exerts antitumor activity associated with modulation of EGFR/AKT/mTOR signaling and mitochondrial dysfunction, supporting further investigation of Sch B as a potential therapeutic candidate for PDAC, particularly in combination with standard chemotherapy.",
+ "authors": [
+  "Lee W",
+  "Song G",
+  "Bae H"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43028241",
+ "importance": 0.59,
+ "key_points_ko": [
+  "Sch B 처리 결과 췌장암 세포주에서 EGFR/AKT/mTOR 신호전달이 억제되고 미토콘드리아 막 전위 감소 및 활성산소(ROS) 생성이 증가했습니다.",
+  "gemcitabine과 Sch B를 병용 투여했을 때 산화 스트레스와 세포 사멸 유도 효과가 더욱 강화되었습니다.",
+  "PANC-1 마우스 이식 모델(xenograft)에서 Sch B 투여는 종양 조직 내 EGFR, AKT, mTOR, HSP90 단백질 발현을 줄이고 종양 성장을 억제했습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/ijms27219996",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43028241"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43028241/"
+ },
+ "summary_ko": "스키산드린 B(Schisandrin B, Sch B)는 오미자에서 추출한 생리활성 물질로 다양한 암에서 항암 작용을 나타내지만 췌장관선암(PDAC)에서의 효과는 밝혀지지 않았습니다. 연구진은 네트워크 약리분석과 췌장암 세포주 및 동물 모델(xenograft)을 활용하여 Sch B의 항암 기전을 평가했습니다. 그 결과 Sch B는 EGFR/AKT/mTOR 신호전달 경로를 억제하고 미토콘드리아 기능 장애와 세포 사멸(apoptosis)을 유도했습니다. 또한 기존 표준 항암제인 gemcitabine(젬시타빈)과 병용 처리 시 세포 사멸 촉진 및 항암 효과가 증가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Schisandrin B Suppresses Pancreatic Ductal Adenocarcinoma Through EGFR/AKT/mTOR Signaling and Mitochondrial Dysfunction",
+ "title_ko": "스키산드린 B(Schisandrin B)의 EGFR/AKT/mTOR 신호전달 억제 및 미토콘드리아 기능 장애를 통한 췌장관선암 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

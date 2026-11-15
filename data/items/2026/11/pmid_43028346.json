@@ -1,0 +1,58 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) carries one of the worst prognoses among solid tumors, and biomarkers that complement standard pathological variables in patients undergoing resection followed by adjuvant chemotherapy are still lacking. Here, we examined whether tumor expression of 10 selected microRNAs (miRNAs) is associated with recurrence patterns and survival in this clinical setting. Methods: Fifty patients with resected PDAC who received adjuvant chemotherapy at a single institution (2012-2022) were studied retrospectively. Expression of let-7c, miR-10b, miR-27a, miR-29b, miR-31, miR-34a, miR-142, miR-143, miR-17-5p, and miR-200c was measured by quantitative real-time PCR in formalin-fixed paraffin-embedded tumor tissue, with adjacent non-tumor pancreatic tissue available for 21 patients. Associations with local recurrence, metastasis, disease-free survival (DFS), and overall survival (OS) were assessed by logistic regression and Cox regression, with miRNA expression dichotomized at the median. Results: Seven miRNAs (let-7c, miR-27a, miR-29b, miR-31, miR-34a, miR-143, miR-200c) were downregulated in tumor tissue and miR-10b was upregulated (all p < 0.05). Higher tumor expression of miR-143 was associated with local recurrence, while higher miR-29b expression was associated with shorter disease-free survival. Adenosquamous histology was independently associated with shorter DFS and OS. Conclusions: Higher tumor expression of miR-143 and miR-29b was associated with local recurrence and shorter disease-free survival, respectively. These exploratory associations require validation in larger independent cohorts.",
+ "authors": [
+  "Efe Keskin D",
+  "Sagnak A",
+  "Erturk E",
+  "Akgun O",
+  "Ugras N",
+  "Akin G",
+  "Sahin AB",
+  "Ari F"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43028346",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/diagnostics16213473",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43028346"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-24",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43028346/"
+ },
+ "summary_ko": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) carries one of the worst prognoses among solid tumors, and biomarkers that complement standard pathological variables in patients undergoing resection followed by adjuvant chemotherapy are still lacking. Here, we examined whether tumor expression of 10 selected microRNAs (miRNAs) is associated with recurrence patterns and survival in this clinical setting.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Tissue miR-143 and miR-29b Expression as Prognostic Biomarkers in Patients with Resected Pancreatic Ductal Adenocarcinoma Receiving Adjuvant Chemotherapy",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

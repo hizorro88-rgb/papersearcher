@@ -1,0 +1,57 @@
+{
+ "abstract": "Background/Objectives: Molecular profiling is increasingly relevant in pancreatic ductal adenocarcinoma (PDAC), requiring endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) specimens with adequate tumor cellularity for downstream genomic analyses. Conventional specimen processing methods may be limited by suboptimal cellularity and blood contamination. A cell-capturing scaffold (CCS), a foam-like porous structure designed to retain cytological material, may improve specimen quality and cellular yield. This study aimed to compare histologic adequacy and neoplastic cellularity between CCS-processed and conventional formalin-fixed (FM) EUS-FNB specimens. Methods: Consecutive patients who underwent EUS-guided tissue acquisition for solid pancreatic lesions between November 2023 and June 2024 were retrospectively included. Tissue acquisition was performed using a 22-gauge Franseen-tip FNB needle. The first needle pass was processed using CCS, while subsequent passes were dispersed in formalin. Histologic adequacy, microfragment length and neoplastic cellularity were assessed by two expert pancreatic pathologists using dedicated scoring systems. Results: Twenty patients were included, with diagnoses of PDAC. Histologic core material was obtained in 17 CCS-processed and 15 FM samples, with no significant difference in histologic adequacy or microfragment length between groups (p = 0.414 and p = 0.276, respectively). CCS-processed samples showed a trend toward higher neoplastic cellularity compared with FM specimens (p = 0.0506). Conclusions: In this retrospective pilot study, CCS processing was associated with a trend toward higher neoplastic cellularity in EUS-FNB specimens from patients with PDAC, with comparable histologic adequacy. Further prospective studies are warranted to confirm these results and to evaluate the potential role of CCS in molecular analyses of pancreatic EUS-FNB specimens.",
+ "authors": [
+  "Di Pangrazio R",
+  "Babaiyan L",
+  "Talerico C",
+  "Corati T",
+  "Pilozzi E",
+  "Annibale B",
+  "Panzuto F",
+  "Signoretti M"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43030577",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/jcm15218433",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43030577"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43030577/"
+ },
+ "summary_ko": "Background/Objectives: Molecular profiling is increasingly relevant in pancreatic ductal adenocarcinoma (PDAC), requiring endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) specimens with adequate tumor cellularity for downstream genomic analyses. Conventional specimen processing methods may be limited by suboptimal cellularity and blood contamination.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Cellularity Improvement of EUS-FNB Specimens for Pancreatic Adenocarcinoma Using a Cell-Capturing Scaffold",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

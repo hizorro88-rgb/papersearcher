@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Pancreatic adenocarcinoma remains one of the most lethal malignancies, with limited options for durable local control. Stereotactic body radiotherapy (SBRT) has emerged as a promising modality, particularly with the advent of MR-guided radiotherapy (MRgRT) and the possibility of delivering ablative dose levels. This multicenter study aimed to describe real-world Italian practice, evaluate safety and outcomes, and assess the association between ablative dosing, MRgRT, radiological response, and local control.\nMETHODS: A retrospective multicenter analysis was conducted across 17 Italian centers, including 473 patients treated with SBRT between 2021 and 2025. Clinical, dosimetric, toxicity, and outcome data were collected. BED10 was calculated for all treatments. Radiological response was assessed using RECIST 1.1 criteria, and toxicity was graded according to CTCAE v5.0. Survival outcomes were estimated using Kaplan-Meier analysis.\nRESULTS: Median age was 69.6 years, and 59.4% of patients had ECOG performance status 0-1. The study population consisted predominantly of patients with non-metastatic disease, including resectable, borderline resectable, and unresectable locally advanced pancreatic cancer. Most patients received pre-SBRT chemotherapy (78%). The most common regimen was 45 Gy in 5 fractions. MRgRT was used in 20% of cases and was associated with reduced treatment margins (3-5 mm) and improved duodenal sparing (V33 < 0.5 cc in 91%). Acute grade ≥ 3 toxicity was 3.7%, and Late toxicity was uncommon, with grade ≥ 3 events observed in 3.0% of evaluable patients. Radiological response showed complete response in 5%, partial response in 27.7%, stable disease in 44.3%, and progressive disease in 23%, corresponding to an overall disease control rate of 77%. Patients receiving BED10 ≥ 80 Gy achieved higher partial response rates (38% vs. 19%) and lower progression rates (12% vs. 23%) compared with those receiving BED10 < 80 Gy. Median overall survival was 18.4 months, and median progression-free survival (PFS) was 10.2 months.\nCONCLUSIONS: SBRT demonstrated a favorable safety profile and was associated with encouraging clinical outcomes in real-world Italian practice. Ablative dose delivery (BED10 ≥ 80 Gy) was associated with improved radiological response and local control without an apparent increase in toxicity. MRgRT was associated with improved organ-at-risk protection and may facilitate the safe delivery of ablative dose levels. The present findings primarily reflect outcomes in a predominantly non-metastatic population and support the role of SBRT as a component of modern multidisciplinary pancreatic cancer management. This pooled national analysis may serve as the basis for future prospective studies aimed at optimizing patient selection, dose prescription, and image-guided treatment strategies.",
+ "authors": [
+  "Niespolo RM",
+  "Nicosia L",
+  "La Rocca E",
+  "Romano A",
+  "Munoz F",
+  "Surgo A",
+  "Meduri B",
+  "Franco P"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026914",
+ "importance": 0.73,
+ "key_points_ko": [],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213594",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026914"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026914/"
+ },
+ "summary_ko": "BACKGROUND/OBJECTIVES: Pancreatic adenocarcinoma remains one of the most lethal malignancies, with limited options for durable local control. Stereotactic body radiotherapy (SBRT) has emerged as a promising modality, particularly with the advent of MR-guided radiotherapy (MRgRT) and the possibility of delivering ablative dose levels.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

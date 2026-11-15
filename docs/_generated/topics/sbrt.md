@@ -41,8 +41,17 @@ search:
 | [수술 전 젬시타빈,  nab-paclitaxel 및 방사선 치료를 병용하는 수술 가능 췌장암 2상 임상시험](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (6)
+## 타임라인 (7)
 
+<a id="pmid-43026914"></a>
+#### [Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers](https://pubmed.ncbi.nlm.nih.gov/43026914/)
+`논문` `관찰연구` `치료 전반` · 2026-11-09 · PubMed · Cancers (Basel) · 중요도 0.73
+
+BACKGROUND/OBJECTIVES: Pancreatic adenocarcinoma remains one of the most lethal malignancies, with limited options for durable local control. Stereotactic body radiotherapy (SBRT) has emerged as a promising modality, particularly with the advent of MR-guided radiotherapy (MRgRT) and the possibility of delivering ablative dose levels.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026914/) · [DOI](https://doi.org/10.3390/cancers18213594) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026914)</small>
+
+---
 <a id="pmid-42986373"></a>
 #### [내시경 초음파 유도하 조직 채취술로 진단하고 치료 전략에 영향을 미친 흉선암의 췌장 전이: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42986373/)
 <small>Pancreatic metastasis from thymic carcinoma diagnosed by endoscopic ultrasound-guided tissue acquisition: a case report influencing therapeutic strategy</small>

@@ -12,14 +12,15 @@ search:
 
 | 소스 | 마지막 실행 | 결과 | 건수 |
 |---|---|---|---|
-| pubmed | 2026-11-14T01:08:02+00:00 | 정상 | 54 |
-| clinicaltrials | 2026-11-14T01:08:02+00:00 | 정상 | 39 |
-| europepmc | 2026-11-14T01:08:04+00:00 | 정상 | 3 |
+| pubmed | 2026-11-15T00:31:54+00:00 | 정상 | 64 |
+| clinicaltrials | 2026-11-15T00:31:55+00:00 | 정상 | 39 |
+| europepmc | 2026-11-15T00:31:55+00:00 | 실패: HTTPStatusError: Server error '500 Internal Server Error' for url 'https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE%3A%22pancreatic+cancer%22+OR+TITLE%3A%22pancreatic+adenocarcinoma%22+OR+TITLE%3APDAC+OR+TITLE%3A%22pancreatic+ductal%22%29+AND+%28SRC%3APPR%29%29+AND+%28FIRST_PDATE%3A%5B2026-11-12+TO+2026-11-15%5D%29&format=json&resultType=core&pageSize=100&sort=P_PDATE_D+desc' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500 | 0 |
 
 ## 최근 실행
 
 | 날짜 | 신규 | 갱신 | 누적 | LLM | 성공/실패 | 토큰(입력/출력) |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | 22 | 0 | 1242 | gemini-3.5-flash-lite | 49/14 | 124184/36706 |
 | 2026-11-14 | 23 | 0 | 1220 | gemini-3.5-flash-lite | 45/12 | 107322/32327 |
 | 2026-11-13 | 31 | 2 | 1197 | gemini-3.5-flash-lite | 52/9 | 118566/38338 |
 | 2026-11-12 | 14 | 0 | 1166 | gemini-3.5-flash-lite | 38/5 | 82203/26795 |
@@ -49,6 +50,5 @@ search:
 | 2026-10-18 | 11 | 0 | 662 | gemini-3.8-flash | 38/0 | 86682/31463 |
 | 2026-10-17 | 11 | 0 | 651 | gemini-3.5-flash-lite | 51/0 | 116352/41669 |
 | 2026-10-16 | 39 | 1 | 640 | gemini-3.5-flash-lite | 99/0 | 213608/75347 |
-| 2026-10-15 | 22 | 2 | 601 | gemini-3.5-flash-lite | 65/2 | 146394/52932 |
 
-요약 상태: AI 1208 · 발췌 12 · 수동 0 · 대기 0
+요약 상태: AI 1228 · 발췌 14 · 수동 0 · 대기 0

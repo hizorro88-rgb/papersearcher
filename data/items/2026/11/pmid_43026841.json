@@ -1,0 +1,62 @@
+{
+ "abstract": "Locally advanced pancreatic cancer is a complex clinical entity, combining a locally aggressive tumor in a disease marked by systemic failure. Accordingly, systemic therapy upfront is recommended, with translation of recent advances in the metastatic setting promising to revolutionize the care of locally advanced disease in the future. In those patients where systemic disease remains controlled, locoregional therapies including surgery and radiation may play a role. Specific considerations of these therapies are presented in a disease phenotype marked by invasion into surrounding vasculature/luminal organs. Ongoing investigations are set to define the role of novel therapies in locally advanced disease, some of which have already gained approval. With recent advances in the control of systemic disease, locally advanced disease represents a prime target for study and treatment optimization to improve outcomes for patients.",
+ "authors": [
+  "Turner KM",
+  "Gurewitz JB",
+  "Frakes JM",
+  "Denbo JW",
+  "Malafa MP",
+  "Hodul PJ",
+  "Kim DW",
+  "Sinnamon AJ"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-15",
+ "history": [
+  {
+   "date": "2026-11-15",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43026841",
+ "importance": 0.6,
+ "key_points_ko": [
+  "국소 진행성 췌장암 치료는 국소 및 전신 질환 제어를 위해 선행 전신 항암 치료가 기본으로 권장됩니다.",
+  "전신 질환이 조절된 상태 유지 시 수술 및 방사선 치료 등 국소 치료 방안이 적용될 수 있습니다.",
+  "주변 혈관 및 장기 침윤 특성을 고려한 최적의 치료 전략과 신약 임상 연구가 계속되고 있습니다."
+ ],
+ "last_updated": "2026-11-15",
+ "links": {
+  "doi": "10.3390/cancers18213520",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43026841"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026841/"
+ },
+ "summary_ko": "본 논문은 국소 진행성 췌장암(LAPC)의 현재 치료 전략과 향후 발전 방향을 다룬 종설 논문입니다. 국소 진행성 췌장암은 국소 공격성과 전신 전이 위험이 함께 존재하므로 선행 전신 항암 치료(systemic therapy)가 우선적으로 권장됩니다. 전신 질환이 잘 조절되는 환자의 경우 수술 및 방사선 치료와 같은 국소 치료를 고려할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Treatment Strategies and Future Directions for Locally Advanced Pancreatic Cancer",
+ "title_ko": "국소 진행성 췌장암의 치료 전략 및 향후 방향",
+ "trial": null,
+ "type": "paper"
+}
