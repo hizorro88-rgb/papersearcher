@@ -11,8 +11,8 @@
   "Kim Y"
  ],
  "categories": [
-  "drug",
-  "basic"
+  "basic",
+  "drug"
  ],
  "entities": [],
  "evidence": "preclinical",
@@ -26,7 +26,11 @@
  ],
  "id": "pmid:43025768",
  "importance": 0.66,
- "key_points_ko": [],
+ "key_points_ko": [
+  "환자 데이터 분석 결과 췌장암에서 IL-18의 높은 발현은 불량한 생존율과 상관관계를 보였습니다.",
+  "동물 모델에서 IL-18을 결손시켰을 때 자연 발생 췌장암의 진행이 억제되고 생존기간이 유의미하게 연장되었습니다.",
+  "KRAS 억제제 단독 치료는 암세포의 IL-18 발현을 증가시켰으나, IL-18을 억제함으로써 KRAS 억제제의 항암 치료 효과가 향상되었습니다."
+ ],
  "last_updated": "2026-11-15",
  "links": {
   "doi": "10.1053/j.gastro.2026.10.383",
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43025768/"
  },
- "summary_ko": "BACKGROUND & AIMS: Pancreatic ductal adenocarcinoma (PDAC) exhibits a highly complex tumor microenvironment enriched with both inflammatory and immunosuppressive factors. Interleukin-18 (IL-18), a cytokine of the IL-1 family, is elevated in PDAC and correlates with poor patient outcomes.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌장암에서 높게 발현되어 환자의 나쁜 예후와 관련된 인터루킨-18(IL-18)의 역할을 유전자 변형 쥐 모델을 통해 분석했습니다. 연구 결과 IL-18은 STAT1 경로를 활성화하여 암세포의 CD47 발현을 유도하고, 이로 인해 대식세포의 암세포 포식 작용을 방해하는 것으로 나타났습니다. 유전적으로 IL-18을 억제했을 때 쥐 모델의 췌장암 진행이 억제되고 생존기간이 연장되었습니다. 또한 KRAS 억제제(KRASi) 치료 시 유도되는 IL-18을 차단하면 대식세포 매개 암세포 제거가 촉진되어 KRAS 억제제의 치료 효능이 향상되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy",
- "title_ko": null,
+ "title_ko": "내인성 IL-18 억제를 통한 췌장암 진행 억제, 종양 미세환경 재프로그래밍 및 KRAS 억제제 효능 향상",
  "trial": null,
  "type": "paper"
 }

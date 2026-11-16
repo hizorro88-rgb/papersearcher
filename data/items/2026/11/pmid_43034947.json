@@ -1,0 +1,61 @@
+{
+ "abstract": "Tumor-associated macrophages (TAMs) are key regulators of the tumor microenvironment and play dual roles in endocrine cancer progression by exhibiting remarkable functional plasticity beyond the conventional M1/M2 paradigm. Their interactions with tumor cells influence immune evasion, angiogenesis, metastasis, and therapeutic resistance through complex signaling networks and extracellular vesicle-mediated communication. This review summarizes the current understanding of TAM biology across some key endocrine and hormone-dependent cancers, including ovarian, prostate, thyroid, and pancreatic neuroendocrine tumors, highlighting their prognostic significance and molecular mechanisms. We further discuss emerging TAM-targeted therapeutic strategies, including macrophage depletion, immune checkpoint modulation, macrophage reprogramming, and nanoparticle-based approaches. Finally, we outline the challenges associated with clinical translation and emphasize the potential of single-cell and multi-omics technologies to enable precision macrophage-targeted therapies for endocrine cancers, including a summary of recent developments in the field of precision mapping of TAMs.",
+ "authors": [
+  "Patel D",
+  "Ravindran S",
+  "Sojan MM",
+  "Suresh PS"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43034947",
+ "importance": 0.6,
+ "key_points_ko": [
+  "종양 관련 대식세포(TAM)는 췌장 신경내분비종양을 포함한 내분비 종양에서 면역 회피와 치료 저항성을 유발하는 핵심 인자입니다.",
+  "대식세포 고갈, 면역관문 억제, 세포 재프로그래밍 및 나노입자 기반 표적 치료 전략이 연구되고 있습니다.",
+  "단일세포 분석 및 다중오믹스 기술이 향후 정밀한 대식세포 표적 치료제 개발에 중요한 도구로 제시되었습니다."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.1007/s11033-026-13145-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43034947"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-15",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Biol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43034947/"
+ },
+ "summary_ko": "본 논문은 난소암, 전립선암, 갑상선암 및 췌장 신경내분비종양(PanNET) 등 주요 내분비 및 호르몬 의존성 암종에서 종양 관련 대식세포(TAM)의 역할을 종합한 종설입니다. 종양 관련 대식세포는 단순한 구분을 넘어 높은 기능적 유연성을 보이며 면역 회피, 혈관 신생, 전이 및 치료 저항성에 관여합니다. 저자들은 대식세포 고갈, 면역관문 조절, 대식세포 재프로그래밍, 나노입자 기반 접근법 등 새로운 치료 전략을 논의했습니다. 또한 단일세포 및 다중오믹스 기술을 활용하여 정밀한 대식세포 표적 치료법을 개발할 가능성과 임상 적용의 과제를 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Tumo​r-associated macrophages in ovarian, prostate, thyroid and pancreatic neuroendocrine tumors: molecular crosstalk and therapeutic perspectives",
+ "title_ko": "난소암, 전립선암, 갑상선암 및 췌장 신경내분비종양에서의 종양 관련 대식세포: 분자적 상호작용과 치료적 전망",
+ "trial": null,
+ "type": "paper"
+}

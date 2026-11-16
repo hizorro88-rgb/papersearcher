@@ -11,12 +11,13 @@
   "Kwiatkowski M"
  ],
  "categories": [
+  "basic",
+  "diagnosis",
   "drug",
-  "treatment",
-  "diagnosis"
+  "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-15",
  "history": [
   {
@@ -26,13 +27,17 @@
   }
  ],
  "id": "pmid:43028067",
- "importance": 0.65,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "importance": 0.59,
+ "key_points_ko": [
+  "젬시타빈 저항성 췌장암 세포에서 트립토판 대사 효소인 KYNU의 발현 및 분비가 유의하게 증가했습니다.",
+  "췌관선암 환자 368명의 조직을 분석한 결과, KYNU 고발현군은 전체 생존기간(OS)이 유의하게 짧았습니다(p = 0.0198).",
+  "KYNU 유전자 억제 시 췌장암 세포의 증식이 유의하게 감소했습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/ijms27219820",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13764116",
   "pmid": "43028067"
  },
  "pub_types": [
@@ -49,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43028067/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies, largely due to intrinsic or acquired resistance to systemic therapy. In addition to dysregulated glucose metabolism, emerging evidence implicates amino acid metabolism as a key determinant of tumor growth and treatment adaptation.",
- "summary_source": "excerpt",
+ "summary_ko": "췌관선암(PDAC)의 항암 치료 저항성 바이오마커를 규명하기 위해 세포주 분비체 분석과 368명의 환자 조직 마이크로어레이 분석을 시행했습니다. 트립토판 대사 효소인 키누레니나아제(KYNU)가 젬시타빈(gemcitabine) 저항성 암세포에서 과발현되고 분비가 증가함을 확인했습니다. 환자 조직 분석에서 KYNU가 높게 발현된 환자군을 전체 생존기간이 유의하게 짧은 것으로 나타났습니다. 이번 연구는 KYNU가 치료 저항성 췌장암의 예후를 예측하고 치료 반응을 평가하는 바이오마커가 될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Kynureninase Is a Prognostic Biomarker of Poor Survival and Gemcitabine Resistance in Pancreatic Ductal Adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌관선암에서 키누레니나아제(KYNU)의 예후 불량 및 젬시타빈 저항성 바이오마커로서의 역할",
  "trial": null,
  "type": "paper"
 }

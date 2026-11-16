@@ -1,0 +1,57 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic cancer (PC) remains a highly lethal malignancy due to asymptomatic progression, late presentation, and lack of reliable minimally invasive liquid biopsy biomarkers for early detection. Circulating microRNAs (c-miRNAs) are promising clinical indicators owing to their stability in body fluids and regulatory influence on oncogenic pathways.\nMETHODS: This study presents an integrated computational framework combining large-scale serum miRNA expression profiling with differential expression analysis, machine learning (ML), and explainable artificial intelligence (XAI). Five publicly available GEO datasets comprising 1,101 serum samples were analyzed through preprocessing, including normalization, missing-value imputation, and ComBat-based batch correction. A Bayesian stacked ensemble classifier integrating XGBoost, Random Forest, SVC, Naïve Bayes, and k-NN was optimized using SMOTE for class imbalance and constrained weight minimization via SLSQP.\nRESULTS: Gene expression analysis identified 148 significantly dysregulated miRNAs (|log2FC| ≥ 2, adj. p < 0.05). The model achieved excellent predictive performance (AUC = 0.97; accuracy = 97.28%; sensitivity = 94%; specificity = 99%). SHAP-based XAI interpretation highlighted 20 miRNAs as the most influential predictors, including hsa-miR-125a-3p, hsa-miR-1290, hsa-miR-614, and hsa-miR-497-5p. Pathway enrichment using DIANA-miRPath and miRDB confirmed their involvement in key oncogenic pathways (MAPK, CDK, TP53).\nDISCUSSION: As a retrospective computational study, these findings represent computationally prioritized candidate biomarkers requiring validation in independent external cohorts and experimental approaches before clinical application. The proposed pipeline demonstrates a transparent, reproducible approach for biomarker discovery and validates the clinical promise of circulating miRNAs in minimally invasive liquid biopsy-based early detection of pancreatic cancer.",
+ "authors": [
+  "Mandal S",
+  "Ansari MA",
+  "Chanu WP"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43032186",
+ "importance": 0.66,
+ "key_points_ko": [
+  "총 1,101건의 혈청 샘플 분석을 통해 구축된 인공지능 모델은 곡선하면적(AUC) 0.97, 정확도 97.28%, 민감도 94%, 특이도 99%의 우수한 진단 성능을 보였습니다.",
+  "통계 분석으로 유의미한 발현 차이를 보인 148종의 miRNA 중, 인공지능 해석(SHAP)을 거쳐 최종 20종의 핵심 예측 바이오마커를 도출했습니다.",
+  "선별된 마이크로RNA 후보들은 세포 주기 및 암 발생 경로(MAPK, CDK, TP53)에 관여하는 것으로 확인되었습니다."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.3389/frai.2026.1810551",
+  "nct": [],
+  "pmcid": "PMC13760841",
+  "pmid": "43032186"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-21",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Artif Intell",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43032186/"
+ },
+ "summary_ko": "본 연구는 대규모 혈청 마이크로RNA(c-miRNA) 발현 데이터와 설명 가능한 인공지능(XAI) 모델을 결합하여 췌장암 조기 진단 바이오마커를 탐색한 후향적 컴퓨터 분석 연구입니다. 공개 데이터베이스의 혈청 샘플 1,101건을 머신러닝 앙상블 모델로 분석하여 높은 진단 예측 성능을 확인했습니다. XAI 분석을 통해 hsa-miR-125a-3p, hsa-miR-1290 등 진단에 가장 큰 영향을 미치는 20종의 핵심 miRNA 후보를 선별했습니다. 이들 후보 물질은 췌장암 발현에 관여하는 주요 경로(MAPK, CDK, TP53)와 밀접하게 연관되어 있었으며 향후 독립된 임상 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Explainable artificial intelligence identifies circulating microRNA candidate biomarkers for liquid biopsy-based pancreatic cancer detection",
+ "title_ko": "설명 가능한 인공지능을 활용한 액체생검 기반 췌장암 조기 진단용 순환 마이크로RNA 후보 바이오마커 발굴",
+ "trial": null,
+ "type": "paper"
+}

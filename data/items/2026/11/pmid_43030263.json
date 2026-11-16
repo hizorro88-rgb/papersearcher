@@ -11,8 +11,8 @@
   "Herremans K"
  ],
  "categories": [
-  "treatment",
-  "supportive"
+  "supportive",
+  "treatment"
  ],
  "entities": [],
  "evidence": "review",
@@ -26,12 +26,16 @@
  ],
  "id": "pmid:43030263",
  "importance": 0.68,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "key_points_ko": [
+  "영양 상태는 췌장암 환자의 치료 내약성, 수술 후 합병증, 생존율과 밀접한 연관이 있습니다.",
+  "복합 식품 환경 지표 연구에서는 불리한 환경이 늦은 병기 진단 및 생존율 저하와 연관되었고, 정크푸드 접근성이 높은 지역(food swamp)에서 사망률이 높게 보고되었습니다.",
+  "신선 식품 접근이 취약한 지역(food desert) 거주와 췌장암 발생률 또는 생존율 간의 유의미한 연관성은 입증되지 않았습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/nu18213635",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13764851",
   "pmid": "43030263"
  },
  "pub_types": [
@@ -49,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43030263/"
  },
- "summary_ko": "Pancreatic cancer has among the poorest survival of any malignancy, with substantial disparities in outcomes. Nutritional status is associated with treatment tolerance, postoperative complications, and survival in pancreatic cancer, while dietary factors have also been associated with pancreatic cancer risk.",
- "summary_source": "excerpt",
+ "summary_ko": "췌장암에서 환자의 영양 상태는 치료 내약성과 수술 후 합병증, 생존율에 중요한 영향을 미칩니다. 본 종설은 건강한 음식에 대한 접근성을 뜻하는 식품 환경이 췌장암 예후와 격차에 미치는 영향을 검토했습니다. 미국의 대규모 연구 등에서 불량한 식품 환경이 늦은 병기 진단이나 사망률 증가와 연관을 보였으나, 식품 사막(food desert) 거주와의 연관성은 입증되지 않는 등 연구 간 결과가 일치하지 않았습니다. 현재 관련 근거는 매우 제한적이며, 대부분 미국 내 지역 단위 지표에 의존하고 있어 추가 연구가 필요합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Food Environment, Food Access, and Disparities in Pancreatic Cancer Outcomes: A Narrative Review of Evidence Gaps and Future Directions",
- "title_ko": null,
+ "title_ko": "식품 환경, 식품 접근성 및 췌장암 치료 결과의 격차: 근거 격차와 향후 연구 방향에 관한 서술적 고찰",
  "trial": null,
  "type": "paper"
 }

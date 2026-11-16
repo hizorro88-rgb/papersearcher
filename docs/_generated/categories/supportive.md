@@ -16,19 +16,57 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 189건 · 최근 30일 128건
+전체 189건 · 최근 30일 112건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43024239"></a>
+#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
+
+`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+
+이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
+
+- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
+- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
+- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13768972/) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
+
+---
+<a id="nct-nct06744595"></a>
+#### [췌장암 가족력이 있는 환자의 유전자 검사 참여율을 높이기 위한 맞춤형 교육 및 유전자 상담 임상연구](https://clinicaltrials.gov/study/NCT06744595)
+<small>Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer</small>
+
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2024-12-20 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.71
+
+**NCT06744595** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06744595.md)
+
+이 임상연구는 췌장암 직계 가족력이 있는 사람들을 대상으로 맞춤형 교육과 유전자 상담이 유전자 검사 시행율을 높이는지 평가했습니다. 췌장암의 약 10%는 유전적 요인과 연관되어 있어 조기 발견 시 치료 가능성을 높일 수 있습니다. 연구진은 전자의무기록 포털을 통해 미국 종합암네트워크(NCCN) 지침 교육과 표준 유전자 상담 및 유전자 검사 기회를 제공했습니다. 본 연구는 췌장암 가족력을 가진 대상자의 유전자 검사에 대한 이해도와 결정 과정을 조사하는 것을 목표로 하였습니다.
+
+- 췌장암의 약 10%는 유전적 요인과 관련이 있어 고위험군 선별을 위한 유전자 검사가 중요합니다.
+- 1차 직계 가족(부모, 형제자매, 자녀) 중 췌장암 환자가 있는 대상자 41명을 목표로 맞춤형 유전자 교육 및 상담을 시행했습니다.
+- 전자의무기록 포털을 활용하여 NCCN 지침 안내 메시지를 발송하고 선택적 유전자 검사 및 설문조사를 진행했습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06744595) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06744595)</small>
+
+---
 <a id="pmid-43030263"></a>
-#### [Food Environment, Food Access, and Disparities in Pancreatic Cancer Outcomes: A Narrative Review of Evidence Gaps and Future Directions](https://pubmed.ncbi.nlm.nih.gov/43030263/)
-`논문` `종설` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Nutrients · 중요도 0.68
+#### [식품 환경, 식품 접근성 및 췌장암 치료 결과의 격차: 근거 격차와 향후 연구 방향에 관한 서술적 고찰](https://pubmed.ncbi.nlm.nih.gov/43030263/)
+<small>Food Environment, Food Access, and Disparities in Pancreatic Cancer Outcomes: A Narrative Review of Evidence Gaps and Future Directions</small>
 
-Pancreatic cancer has among the poorest survival of any malignancy, with substantial disparities in outcomes. Nutritional status is associated with treatment tolerance, postoperative complications, and survival in pancreatic cancer, while dietary factors have also been associated with pancreatic cancer risk.
+`논문` `종설` `지지요법·삶의질` `치료 전반` · 2026-10-31 · PubMed · Nutrients · 중요도 0.68
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43030263/) · [DOI](https://doi.org/10.3390/nu18213635) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43030263)</small>
+췌장암에서 환자의 영양 상태는 치료 내약성과 수술 후 합병증, 생존율에 중요한 영향을 미칩니다. 본 종설은 건강한 음식에 대한 접근성을 뜻하는 식품 환경이 췌장암 예후와 격차에 미치는 영향을 검토했습니다. 미국의 대규모 연구 등에서 불량한 식품 환경이 늦은 병기 진단이나 사망률 증가와 연관을 보였으나, 식품 사막(food desert) 거주와의 연관성은 입증되지 않는 등 연구 간 결과가 일치하지 않았습니다. 현재 관련 근거는 매우 제한적이며, 대부분 미국 내 지역 단위 지표에 의존하고 있어 추가 연구가 필요합니다.
+
+- 영양 상태는 췌장암 환자의 치료 내약성, 수술 후 합병증, 생존율과 밀접한 연관이 있습니다.
+- 복합 식품 환경 지표 연구에서는 불리한 환경이 늦은 병기 진단 및 생존율 저하와 연관되었고, 정크푸드 접근성이 높은 지역(food swamp)에서 사망률이 높게 보고되었습니다.
+- 신선 식품 접근이 취약한 지역(food desert) 거주와 췌장암 발생률 또는 생존율 간의 유의미한 연관성은 입증되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43030263/) · [DOI](https://doi.org/10.3390/nu18213635) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13764851/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43030263)</small>
 
 ---
 <a id="nct-nct04907643"></a>
@@ -82,21 +120,6 @@ Pancreatic cancer has among the poorest survival of any malignancy, with substan
 <small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
 
 ---
-<a id="pmid-43024239"></a>
-#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
-<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
-
-`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
-
-이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
-
-- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
-- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
-- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
-
----
 <a id="pmid-43013127"></a>
 #### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
 <small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
@@ -109,23 +132,6 @@ Pancreatic cancer has among the poorest survival of any malignancy, with substan
 - 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755016/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
-
----
-<a id="nct-nct06744595"></a>
-#### [췌장암 가족력이 있는 환자에서 유전자 검사를 늘리기 위한 맞춤형 교육 및 유전 상담](https://clinicaltrials.gov/study/NCT06744595)
-<small>Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer</small>
-
-`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2024-12-20 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.71
-
-**NCT06744595** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06744595.md)
-
-이 임상시험은 췌장암 가족력이 있는 환자들을 대상으로 맞춤형 교육과 유전 상담이 유전자 검사 참여율을 높이는지 평가합니다. 환자들은 가족력에 기반한 NCCN(미국종합암네트워크) 가이드라인 교육 메시지를 받고, 유전 상담과 유전자 검사를 제안받습니다. 연구진은 HOUSES 지수 분석, 유전 상담 기회 제공, 환자 설문조사를 통해 유전자 검사 관련 지식과 의사결정을 평가합니다. 목표 참여 인원은 41명이며, Mayo Clinic에서 진행되었습니다.
-
-- 췌장암 환자의 약 10%가 유전적 요인과 연관되어 있습니다.
-- NCCN 가이드라인에 따르면 1촌 내 가족력이 있는 환자는 유전 상담을 권장합니다.
-- 이 연구는 41명의 환자를 목표로 맞춤형 교육과 유전 상담의 효과를 조사했습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06744595) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06744595)</small>
 
 ---
 <a id="pmid-43023164"></a>
@@ -1785,251 +1791,5 @@ Pancreatic cancer has among the poorest survival of any malignancy, with substan
 - 다변량 회귀분석 결과 기질 CD4+ 조절 T세포 비율은 전체 생존기간의 독립적 위험 인자였으며(위험비 7.60, p=0.011), 림프구 대 단핵구 비율(LMR)은 무진행 생존기간(위험비 0.86)과 전체 생존기간(위험비 0.83) 모두에 유리한 예후 인자였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42885341/) · [DOI](https://doi.org/10.1002/cam4.72378) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673229/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42885341)</small>
-
----
-<a id="nct-nct06850623"></a>
-#### [국소 진행성 췌장암 치료를 위한 화학요법 병용 음향 군집 요법(ACT)](https://clinicaltrials.gov/study/NCT06850623)
-<small>Acoustic Cluster Therapy (ACT) With Chemotherapy for the Treatment of Locally Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2025-02-27 · ClinicalTrials.gov · EXACT Therapeutics AS · 중요도 0.90
-
-**NCT06850623** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06850623.md)
-
-이 임상시험은 국소 진행성 췌장암(locally advanced pancreatic cancer) 환자를 대상으로 화학요법에 음향 군집 요법(Acoustic Cluster Therapy, ACT)을 추가했을 때의 유효성과 안전성을 평가합니다. 이전에 췌장암 치료를 받은 적이 없는 환자들이 대상입니다. 환자들은 최대 8주기 동안 변형 FOLFIRINOX(modified FOLFIRINOX) 화학요법과 함께 ACT 치료(약물 PS101 투여 및 종양에 대한 초음파 적용)를 받습니다. 치료의 객관적 유효성은 8주마다 CT 스캔을 통해 평가됩니다.
-
-- 목표 인원은 25명이며, 2주 주기로 최대 8주기의 치료가 진행됩니다.
-- ACT 치료는 매 화학요법 주기의 1일 차에 시행됩니다.
-- 치료 효과는 8주마다 CT 검사로 평가됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06850623) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06850623)</small>
-
----
-<a id="nct-nct07769502"></a>
-#### [췌담도암 성인 환자를 대상으로 telisotuzumab adizutecan 병용 투여를 평가하는 임상시험](https://clinicaltrials.gov/study/NCT07769502)
-<small>A Study to Assess Adverse Events and Change in Disease Activity With Treatment Combinations With Telisotuzumab Adizutecan in Adults Participants With Pancreatobiliary Cancers</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2026-08-18 · ClinicalTrials.gov · AbbVie · 중요도 0.90
-
-**NCT07769502** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07769502.md)
-
-이 연구는 췌담도암 및 췌장관선암(Pancreatic Ductal Adenocarcinoma) 성인 환자를 대상으로 telisotuzumab adizutecan과 gemcitabine 및 nab-paclitaxel 병용 요법의 안전성과 유효성을 평가하기 위한 임상시험입니다. 전 세계 약 50개 기관에서 약 168명의 환자를 모집하며, 하위연구 1(Substudy 1)에서는 telisotuzumab adizutecan과 gemcitabine 병용 또는 표준 치료(gemcitabine 및 nab-paclitaxel)를 비교합니다. 연구는 용량 증량(dose escalation) 단계와 용량 최적화(dose optimization) 단계로 나누어 진행됩니다. 환자들은 정기적인 방문을 통해 안전성과 질병 활성도의 변화를 평가받게 됩니다.
-
-- 목표 환자 수는 전 세계적으로 약 168명입니다.
-- 중재 약물로 telisotuzumab adizutecan, gemcitabine, nab-paclitaxel이 사용됩니다.
-- 연구 기간은 약 3년 동안 진행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07769502) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07769502)</small>
-
----
-<a id="doi-10.21203-rs.3.rs-11100651-v1"></a>
-#### [조기 발병 췌장암의 10년 생존율, 전이 위험 및 임상병리학적 특성: 메타분석 및 메타회귀분석](https://europepmc.org/article/PPR/PPR1340548)
-<small>10-Year Survivorship, Metastatic Risk, and Clinicopathologic Characteristics of Early- Onset Pancreatic Cancer: A Meta-Analysis and Meta-Regression</small>
-
-`프리프린트` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `지지요법·삶의질` · 2026-10-14 · Europe PMC (preprint) · Research Square · 중요도 0.79
-
-이 연구는 젊은 나이에 진단되는 조기 발병 췌장암(EOPC) 환자의 생존율과 임상병리학적 특성을 일반 췌장암 환자와 비교 분석한 메타분석 연구입니다. 총 22개 연구에서 364,319명의 환자 데이터를 통합하여 분석했습니다. 분석 결과 전체 췌장암 환자 중 조기 발병 췌장암은 6.1%를 차지했으며, 일반 췌장암 대비 사망 위험이 25% 낮았습니다. 하지만 진단 당시 진행성 병기(III/IV기)이거나 전이가 동반된 비율은 더 높았으며, 특히 흡연 상태가 원격 전이 위험과 유의한 연관을 보였습니다.
-
-- 조기 발병 췌장암 환자는 일반 췌장암 환자에 비해 사망 위험이 25% 낮았습니다(위험비 0.75, p < 0.001).
-- 진단 시점에 통증 동반(위험비 1.39), 원격 전이 위험(위험비 1.11), III/IV기 진행성 병기(위험비 1.08)일 가능성이 더 높았습니다.
-- 조기 발병 환자군에서 남성(위험비 1.09)과 흡연력(위험비 1.22)의 비율이 높았고, 흡연은 조기 발병 췌장암의 전이 위험 증가와 유의하게 연관되었습니다(p < 0.001).
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1340548) · [DOI](https://doi.org/10.21203/rs.3.rs-11100651/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11100651/v1)</small>
-
----
-<a id="nct-nct07408505"></a>
-#### [진행성 췌장암 환자의 암 악액질 치료를 위한 나노결정 메게스트롤 아세테이트 임상시험](https://clinicaltrials.gov/study/NCT07408505)
-<small>Nano-Megestrol Acetate for Cancer Cachexia in Advanced Pancreatic Cancer</small>
-
-`임상시험` `기타` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2026-02-13 · ClinicalTrials.gov · Shandong Cancer Hospital and Institute · 중요도 0.74
-
-**NCT07408505** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07408505.md)
-
-본 연구는 국소 진행성 또는 전이성 췌장 도관선암(Pancreatic Ductal Adenocarcinoma)과 암 식욕부진-악액질 증후군(Cancer Anorexia-Cachexia Syndrome)을 새롭게 진단받은 환자 56명을 대상으로 합니다. 표준 1차 전신 항암 치료에 나노결정 메게스트롤 아세테이트(Nanocrystalline megestrol acetate) 경구 현탁액을 병용 투여하여 그 유효성과 안전성을 평가하는 무작위 대조 전향적 임상시험입니다. 주요 평가지표는 12주 차에 체중이 5% 초과 증가한 환자의 비율이며, 식욕, 체성분, 삶의 질, 생존 기간 등을 함께 평가합니다.
-
-- 목표 환자 수는 56명이며, 국소 진행성 또는 전이성 췌장암 환자 중 식욕부진-악액질 증후군을 동반한 환자를 대상으로 합니다.
-- 나노결정 메게스트롤 아세테이트 625 mg/일 용량을 1차 항암 치료 시작과 함께 최대 12주 동안 투여합니다.
-- 12주 차 체중 5% 초과 증가 비율을 주 평가변수로 하여 식욕, 신체 기능, 삶의 질 및 생존 결과(OS, PFS, ORR, DCR)를 추적 관찰합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07408505) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07408505)</small>
-
----
-<a id="pmid-42881546"></a>
-#### [만성 췌장염을 췌관선암의 위험 인자로서 재조명: 정밀한 위험도 계층화를 향하여](https://pubmed.ncbi.nlm.nih.gov/42881546/)
-<small>Revisiting chronic pancreatitis as a risk factor for pancreatic ductal adenocarcinoma: toward precision risk stratification</small>
-
-`논문` `종설` `진단·조기발견` `기초연구` `지지요법·삶의질` · 2026-10-15 · PubMed · Expert Rev Gastroenterol Hepatol · 중요도 0.72
-
-만성 췌장염(CP)은 췌관선암(PDAC)의 확립된 위험 인자이지만 환자 개인마다 암 발생 위험은 크게 다릅니다. 본 종설 논문은 만성 췌장염과 췌장암 간의 복잡한 연관성을 분석하고, 유전적 소인, 누적 췌장 손상, 신규 당뇨 발생 등 대사적 변화, 영상 소견의 변화, 최신 분자생물학적 변이 등 5가지 영역을 통합한 위험도 계층화 체계를 제안합니다. 저자들은 모든 만성 췌장염 환자를 동일한 고위험군으로 볼 것이 아니라, 다학제적 평가를 통해 실제 암 발생 위험이 높은 환자를 선별하여 맞춤형 감시를 시행해야 한다고 강조합니다.
-
-- 만성 췌장염은 균일한 고위험 질환이 아니며, 개인별 췌장암 발생 위험은 유전·염증·대사·영상·분자적 요인의 상호작용에 따라 결정됩니다.
-- 유전적 소인, 누적 췌장 손상, 신규 발생 당뇨병을 포함한 대사 경로, 종단적 영상 표현형, 분자 변이의 5가지 영역을 바탕으로 한 맞춤형 위험도 평가 틀이 제안되었습니다.
-- 정밀 감시 전략을 통해 조기 발견과 환자 예후를 개선할 수 있는지 확인하기 위해 향후 전향적 연구 검증이 필요합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42881546/) · [DOI](https://doi.org/10.1080/17474124.2026.2750981) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42881546)</small>
-
----
-<a id="nct-nct07870421"></a>
-#### [췌장암 환자의 근육량 유지와 항암 치료 내성을 돕는 영양 보조제 임상시험](https://clinicaltrials.gov/study/NCT07870421)
-<small>A Study Looking at Whether a Nutritional Composition Can Help People With Pancreatic Cancer Stay Stronger and Better Tolerate Chemotherapy</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2026-10-13 · ClinicalTrials.gov · Nutricia Research · 중요도 0.71
-
-**NCT07870421** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07870421.md)
-
-HEXCARE-PDAC 연구는 수술 전(neoadjuvant) FOLFIRINOX 기반 항암 치료를 받는 전이가 없는 췌관선암(PDAC) 성인 환자를 대상으로 암 환자 전용 경구 영양 보충제의 효과를 평가하는 3상, 무작위, 이중맹검, 대조군, 다기관 임상시험입니다. 이 연구의 목적은 맞춤형 영양 중재가 암 관련 근육 손실을 완화하고 치료 전달률 및 임상적 결과를 향상시킬 수 있는지 확인하는 것입니다. 목표 인원은 216명입니다.
-
-- 목표 연구 참여 인원은 216명입니다.
-- 수술 전 FOLFIRINOX 치료를 받는 비전이성 췌관선암(PDAC) 환자가 대상입니다.
-- 암 전용 고에너지 고단백 의료용 영양 솔루션의 효과를 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07870421) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07870421)</small>
-
----
-<a id="pmid-42884143"></a>
-#### [췌장암에서 종양 미세환경 조절 전략으로서의 수술 전 사전재활](https://pubmed.ncbi.nlm.nih.gov/42884143/)
-<small>Prehabilitation as a Strategy to Modulate the Tumor Microenvironment in Pancreatic Cancer</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `수술` `기초연구` · 2026-10-07 · PubMed · Int J Mol Sci · 중요도 0.70
-
-본 연구는 수술 전 운동, 영양, 심리적 지원을 결합한 사전재활(prehabilitation)이 췌관선암(PDAC)의 종양 미세환경(TME)에 미치는 생물학적 영향을 조사했습니다. 수술 전 사전재활을 받은 환자 4명과 받지 않은 환자 4명 등 총 8명의 종양 조직을 영상 질량 분석법(IMC)을 이용해 단일 세포 수준에서 비교 분석했습니다. 분석 결과 사전재활을 받은 환자의 종양에서 종양 세포 및 호중구 밀도가 감소하고 자연살해(NK) 세포와 CD4+, CD8+ T세포 침윤이 풍부해졌습니다. 또한 면역억제 세포와 암 연관 섬유아세포(CAF)의 친종양성 활성 신호가 감소하여 사전재활이 면역 친화적인 종양 미세환경 형성에 기여할 가능성을 확인했습니다.
-
-- 수술 전 사전재활군(4명)과 대조군(4명)의 췌장암 조직을 단일 세포 수준(34개 단백질 패널)으로 비교한 파일럿 연구입니다.
-- 사전재활을 진행한 환자의 종양에서 자연살해(NK) 세포, CD4+ 및 CD8+ T세포 침윤이 증가하고 호중구와 종양 세포 밀도는 감소했습니다.
-- 조절 T세포(Treg)와 암 연관 섬유아세포(CAF)의 종양 촉진 신호 활성이 감소하여 면역 반응에 유리한 미세환경 구조가 관찰되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42884143/) · [DOI](https://doi.org/10.3390/ijms27198900) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42884143)</small>
-
----
-<a id="pmid-42884748"></a>
-#### [췌장 질환에서의 장내 미생물총과 영양학적 측면: 서술적 고찰](https://pubmed.ncbi.nlm.nih.gov/42884748/)
-<small>Gut Microbiota and Nutritional Aspects in Pancreatic Diseases: A Narrative Review</small>
-
-`논문` `종설` `지지요법·삶의질` `기초연구` · 2026-10-08 · PubMed · Nutrients · 중요도 0.68
-
-이 논문은 췌장암(PDAC)을 포함한 다양한 췌장 질환과 장내 미생물총 및 영양 상태 간의 양방향 관계를 다룬 고찰(리뷰) 연구입니다. 장내 미생물 구성 변화와 장벽 기능 장애, 세균 전위는 췌장 질환의 발생과 진행에 영향을 줄 수 있으며, 반대로 질환과 영양 치료가 미생물에 영향을 미치기도 합니다. 췌장암의 경우 미생물 변화가 종양 미세환경 및 치료 반응과 연관될 가능성이 제시되었습니다. 영양 관리는 외분비 췌장 기능 부전과 영양실조 위험 환자 치료에 매우 중요한 요소이지만, 장내 미생물을 표적으로 하는 중재 치료의 근거는 아직 제한적입니다.
-
-- 췌장암을 포함한 췌장 질환은 장 및 췌장의 미생물 군집 변화와 유의미한 연관성을 보입니다.
-- 장내 미생물총의 변화는 염증 신호 전달, 장벽 유지, 그리고 췌장암 종양 미세환경 및 치료 반응에 관여할 수 있습니다.
-- 영양실조 및 췌장 외분비 기능 부전 위험 환자에게 영양 관리는 필수적이나, 장내 미생물 표적 치료에 대한 임상적 근거는 아직 초기 단계입니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42884748/) · [DOI](https://doi.org/10.3390/nu18193297) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42884748)</small>
-
----
-<a id="pmid-42882807"></a>
-#### [이전에 치료받은 전이성 RAS 변이 췌관선암 환자에서 다락소나십(Daraxonrasib, RMC-6236)의 유효성 및 안전성: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/42882807/)
-<small>Efficacy and Safety of Daraxonrasib (RMC-6236) in Previously Treated Metastatic RAS-Mutated Pancreatic Ductal Adenocarcinoma: A Systematic Review</small>
-
-`논문` `종설` `신약·치료제` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-09-25 · PubMed · Cancers (Basel) · 중요도 0.66
-
-이 논문은 이전에 치료를 받은 전이성 RAS 변이 췌관선암(PDAC) 환자를 대상으로 새로운 RAS 억제제인 daraxonrasib(다락소나십, RMC-6236)의 치료 효과와 안전성을 분석한 체계적 문헌고찰 연구입니다. 총 668명이 포함된 1/2상 시험(RMC-6236-001)과 3상 무작위 배정 시험(RASolute 302) 데이터를 종합하여 분석했습니다. 3상 시험 결과 RAS G12 변이 환자에서 daraxonrasib 투여군은 기존 화학요법군에 비해 전체 생존기간(OS)과 무진행 생존기간(PFS)을 두 배가량 유의하게 연장시켰습니다. 부작용은 주로 1~2등급의 피부 및 소화기 증상으로 나타났으며 기존 항암화학요법 대비 혈액학적 부작용과 치료 중단율이 낮았습니다.
-
-- 3상 임상시험(RASolute 302)에서 daraxonrasib 투여군은 기존 항암치료군 대비 중앙 전체 생존기간(13.2개월 vs 6.6개월, 위험비 0.40)과 중앙 무진행 생존기간(7.3개월 vs 3.5개월, 위험비 0.45)을 유의하게 향상시켰습니다.
-- 객관적 반응률(ORR)은 daraxonrasib 투여군이 33.2%로 기존 화학요법군(11.8%)보다 유의미하게 높았습니다(p < 0.001).
-- 부작용은 주로 가벼운 1~2등급의 피부 및 위장관 독성이었으며 통증 발생과 삶의 질 악화를 늦추는 효과를 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882807/) · [DOI](https://doi.org/10.3390/cancers18193112) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882807)</small>
-
----
-<a id="pmid-42882871"></a>
-#### [죽음과의 타협: 질병 전 과정에 걸친 췌장암의 심리사회적 경험에 대한 정성적 체계적 문헌고찰 및 주제별 통합](https://pubmed.ncbi.nlm.nih.gov/42882871/)
-<small>Negotiating Mortality: A Qualitative Systematic Review and Thematic Synthesis of the Psychosocial Experiences of Pancreatic Cancer Across the Illness Trajectory</small>
-
-`논문` `종설` `지지요법·삶의질` `제약사·규제` `진단·조기발견` · 2026-10-01 · PubMed · Cancers (Basel) · 중요도 0.66
-
-이 연구는 진단부터 투병 및 임종에 이르는 췌장암 질병 궤적 전반에서 환자가 겪는 심리사회적(psychosocial) 경험을 파악하기 위해 진행된 정성적 체계적 문헌고찰입니다. 연구진은 7개 학술 데이터베이스를 검색하여 총 28개 연구(30편의 논문)를 선별해 분석했습니다. 분석 결과 환자들은 진단의 충격, 복잡한 치료 및 정보 탐색, 신체적·관계적 변화에 따른 일상 재구성, 삶의 불확실성과 죽음에 대한 대처 등 4가지 주요 영역에서 깊은 삶의 단절과 혼란을 경험했습니다. 연구진은 병기 전반에 걸쳐 환자와 가족의 심리종양학적 및 지지요법(supportive care)에 대한 미충족 수요가 매우 크다고 결론지었습니다.
-
-- 총 4,357건의 초록과 412건의 전문 검토를 거쳐 췌장암 환자의 경험을 다룬 28개 연구(30편)가 최종 분석에 포함되었습니다.
-- 환자의 심리사회적 경험은 진단의 충격, 의료 및 정보 탐색, 일상과 관계의 변화, 불확실성과 죽음에 직면하는 과정의 4가지 주요 주제로 도출되었습니다.
-- 복합적인 신체 증상과 기능 저하, 재발 및 진행에 대한 불안감이 겹쳐 환자와 가족을 위한 심리적 지지요법의 필요성이 강조되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882871/) · [DOI](https://doi.org/10.3390/cancers18193177) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882871)</small>
-
----
-<a id="pmid-42881000"></a>
-#### [췌장암 세포와 성상세포 유래 엑소좀 간의 상호작용이 매개하는 췌장암 관련 당뇨병](https://pubmed.ncbi.nlm.nih.gov/42881000/)
-<small>Pancreatic cancer cell and stellate cell-derived exosome crosstalk mediates pancreatic cancer-related diabetes</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` `지지요법·삶의질` · 2026-10-13 · PubMed · Pancreatology · 중요도 0.64
-
-췌장암 진단 수년 전에 선행하는 췌장암 관련 당뇨병(PCRD)의 발병 기전을 규명하기 위해 동물 및 세포 모델을 분석한 전임상 연구입니다. 고과당 식이를 섭취한 유전자 변형 생쥐 모델에서 성상세포(PSC) 활성화와 췌장암 전구 병변 진행, 포도당 내인성 장애가 확인되었습니다. 암세포 및 성상세포에서 분비된 엑소좀(exosome)은 췌장 베타세포의 인슐린 분비를 억제하고 간세포의 인슐린 신호 전달을 저해했습니다. 특히 엑소좀 내 포도당-6-인산탈수소효소(G6PD)를 억제했을 때 간세포 인슐린 신호 기능이 일부 회복됨을 확인했습니다.
-
-- 췌장암 관련 당뇨병은 통상 췌장암 진단보다 3~5년 앞서 발생하며 잠재적 조기 발견의 지표가 될 수 있습니다.
-- 암세포와 췌장 성상세포에서 분비된 엑소좀은 베타세포의 포도당 자극 인슐린 분비를 유의하게 억제했습니다.
-- 해당 엑소좀은 간세포의 주요 인슐린 신호 전달 단백질(IR, IRS, AKT, FOXO1, GLUT2)을 감소시켰으며, 엑소좀 내 G6PD 침묵 시 신호가 부분적으로 회복되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42881000/) · [DOI](https://doi.org/10.1016/j.pan.2026.10.015) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42881000)</small>
-
----
-<a id="pmid-42882821"></a>
-#### [마약성 진통제를 넘어서는 췌장암 관련 통증 관리: 종양학적 치료, 완화의료, 중재적 통증의학의 통합](https://pubmed.ncbi.nlm.nih.gov/42882821/)
-<small>Pancreatic Cancer-Associated Pain Management Beyond Opioids: Integrating Oncological Treatment, Palliative Care, and Interventional Pain Medicine</small>
-
-`논문` `종설` `지지요법·삶의질` `치료 전반` · 2026-09-27 · PubMed · Cancers (Basel) · 중요도 0.64
-
-췌장암 환자에게 통증은 삶의 질을 크게 떨어뜨리는 대표적 증상이며 내장통, 신경병증성 통증, 치료 관련 통증 등 복합적인 원인으로 발생합니다. 본 리뷰 논문은 항암화학요법 및 방사선치료와 같은 항암 치료, 완화의료 및 약물요법, 중재적 통증 치료를 아우르는 다학제적 통증 관리 방안을 제시합니다. 기존 진통제 요법으로 조절되지 않거나 부작용이 심한 경우 복강신경총 신경차단술(coeliac plexus neurolysis), 내장신경 차단술(splanchnic neurolysis), 척수강 내 약물 주입 펌프(intrathecal drug delivery) 등의 중재적 시술을 병용할 수 있습니다. 환자의 통증 기전, 질병 단계, 신체 기능, 기대 수명 및 선호도를 반영하여 개별 맞춤형으로 통증을 관리하는 통합 경로를 제안하고 있습니다.
-
-- 항암화학요법과 방사선치료는 암의 진행 조절 외에도 의미 있는 통증 완화 효과를 제공할 수 있습니다.
-- 일반적인 진통제 치료로 충분한 효과를 보지 못하거나 부작용이 심할 경우 복강신경총 신경차단술 등의 중재적 통증 시술을 활용할 수 있습니다.
-- 정형화된 단계적 진통제 사용보다는 통증 기전과 환자 상태를 고려한 조기 완화의료와 다학제적 통합 치료가 권장됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882821/) · [DOI](https://doi.org/10.3390/cancers18193127) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882821)</small>
-
----
-<a id="pmid-42885575"></a>
-#### [수술 후 누출된 췌액을 활용하여 잔존 종양을 제거하는 자가 추진 나노 박테리아 시스템 개발](https://pubmed.ncbi.nlm.nih.gov/42885575/)
-<small>Self-Fueling Nanobacteria Harnesses Leaked Pancreatic Fluid to Eradicate Residual Tumors After Surgery</small>
-
-`논문` `전임상` `치료 전반` `기초연구` `수술` `지지요법·삶의질` · 2026-10-16 · PubMed · Adv Mater · 중요도 0.64
-
-췌관선암(PDAC) 수술 후 발생하는 췌장루(췌액 누출 합병증)와 국소 재발 위험을 해결하기 위해, 누출된 췌액 속 소화 효소를 역으로 항암 자원으로 활용하는 국소 치료 플랫폼이 개발되었습니다. 연구팀은 나노 엔지니어링된 박테리아(Bacteroides thetaiotaomicron)와 TRPV1 길항제를 탑재한 하이드로겔 플랫폼(TNPs-N@B.t. + Gel)을 설계했습니다. 이 플랫폼은 종양 보호 점액질을 분해하여 췌액 효소 공격을 가능하게 하고, 암 관련 섬유아세포 활성을 줄이며 자연살해(NK) 세포 면역 반응을 촉진합니다. 췌장암 수술 후 동물 모델에서 이 플랫폼은 전신 독성 없이 국소 재발을 억제하고 생존기간을 연장했으며 통증 완화 효과를 보였습니다.
-
-- 수술 후 합병증인 누출 췌액의 소화 효소를 역이용하여 잔존 종양 세포를 공격하는 나노 엔지니어링 박테리아 하이드로겔 시스템을 구축했습니다.
-- 박테리아가 종양 보호 점액 장벽을 분해하고, 췌액 소화 효소와 결합하여 종양 침투력을 높이며, TRPV1 차단으로 면역 억제 환경을 개선했습니다.
-- 췌관선암 수술 후 동물 모델에서 뚜렷한 전신 독성 없이 종양 재발 억제, 생존기간 연장 및 통증 완화 효과를 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42885575/) · [DOI](https://doi.org/10.1002/adma.75411) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42885575)</small>
-
----
-<a id="pmid-42881532"></a>
-#### ["절제된 췌장암에서 자연 치아 수 대 구치부 교합의 독립적 예후 가치"에 관한 편집자 서신에 대한 답변](https://pubmed.ncbi.nlm.nih.gov/42881532/)
-<small>Reply to the Letter to the Editor Regarding &quot;Independent Prognostic Value of Natural Tooth Count Versus Posterior Teeth Occlusion in Resected Pancreatic Cancer&quot;</small>
-
-`논문` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-10-15 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.60
-
-본 논문은 수술로 절제된 췌장암 환자에서 자연 치아 수와 구치부 교합의 독립적 예후 가치를 다룬 기존 연구에 대한 편집자 서신 답변입니다. 원문 초록의 구체적인 본문 내용이나 추가 분석 결과는 제공된 정보에 명시되지 않았습니다. 췌장암 절제술을 받은 환자의 구강 건강 상태 및 치아 요인과 관련된 예후 논의를 다루고 있습니다.
-
-- 수술로 절제된 췌장암 환자의 자연 치아 수 및 구치부 교합 관련 예후 연구에 대한 서신 답변 형식의 논문입니다.
-- 상세한 수치 및 구체적인 연구 결과는 제공된 텍스트에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42881532/) · [DOI](https://doi.org/10.1002/jhbp.70202) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42881532)</small>
-
----
-<a id="doi-10.64898-2026.10.13.758888"></a>
-#### [담배 발암물질이 췌장관선암 발생 과정에서 지속적인 DNA 손상과 상동 재조합 조절 장애를 유발함을 규명한 연구](https://europepmc.org/article/PPR/PPR1343296)
-<small>Tobacco Carcinogen Induces Persistent DNA Damage and Homologous Recombination Dysregulation in Pancreatic Ductal Carcinogenesis</small>
-
-`프리프린트` `전임상` `기초연구` `지지요법·삶의질` `신약·치료제` · 2026-10-15 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
-
-담배 발암물질인 NNK가 췌장 상피세포에 미치는 영향을 분석한 연구입니다. 세포 연구 결과 5일간의 단기 노출 시에는 DNA 복구 기전이 활성화되었으나, 50일간의 장기 노출 시에는 지속적인 DNA 손상과 상동 재조합(HR) 복구 조절 장애, 염색체 불안정성이 유발되었습니다. 환자 데이터 분석에서 γH2AX 및 RAD51 단백질 발현 증가가 흡연자 조직 및 암 조직에서 관찰되었으며 불량한 예후와 연관되었습니다.
-
-- 단기 NNK 노출(5일)은 ATM-γH2AX 신호 전달과 RAD51, BRCA2 소집을 통한 정상적인 DNA 복구 반응을 유도했습니다.
-- 장기 NNK 노출(50일)은 지속적인 DNA 손상, RAD51 위치 이상, 염색체 불안정성 등 상동 재조합 복구 기능의 이상을 가져왔습니다.
-- γH2AX 및 RAD51 발현의 증가는 췌장암 환자의 암 진행 및 짧은 전체 생존기간(OS) 등 불량한 예후와 유의하게 관련되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1343296) · [DOI](https://doi.org/10.64898/2026.10.13.758888) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.13.758888)</small>
-
----
-<a id="pmid-42882940"></a>
-#### [정정: 췌장암에서 혈중 담즙산 프로파일 해석: 담즙정체의 역할과 관리 (Danese 등, Cancers 2026, 18, 2481)](https://pubmed.ncbi.nlm.nih.gov/42882940/)
-<small>Correction: Danese et al. Interpreting Circulating Bile Acid Profiles in Pancreatic Cancer: The Role of Cholestasis and Its Management. Cancers 2026, 18, 2481</small>
-
-`논문` `기타` `진단·조기발견` `지지요법·삶의질` `치료 전반` · 2026-09-29 · PubMed · Cancers (Basel) · 중요도 0.55
-
-이 문헌은 췌장암 환자의 혈중 담즙산 프로파일 및 담즙정체(cholestasis)의 역할과 관리에 대해 다룬 기존 출판 논문의 정정(Erratum) 공지입니다. 원문 논문의 오류나 수정 사항을 공식적으로 바로잡기 위해 게시되었습니다. 구체적인 수정 내용의 세부 수치는 제공된 본문에 명시되지 않았습니다.
-
-- 췌장암 환자의 혈중 담즙산 프로파일과 담즙정체 관리를 다룬 연구 논문에 대한 공식 정정(Correction)입니다.
-- 구체적인 정정 세부 사항은 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42882940/) · [DOI](https://doi.org/10.3390/cancers18193144) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42882940)</small>
 
 ---

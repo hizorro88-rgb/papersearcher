@@ -11,6 +11,8 @@
   "Hranjec J"
  ],
  "categories": [
+  "diagnosis",
+  "basic",
   "surgery"
  ],
  "entities": [],
@@ -25,12 +27,16 @@
  ],
  "id": "pmid:43030420",
  "importance": 0.72,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "key_points_ko": [
+  "췌관선암 수술 환자 76명 중 47.4%(36명)의 종양에서 MAGEA3 양성 반응 종양 세포가 10% 이상 관찰되었습니다.",
+  "MAGEA3 발현율 10% 이상 군과 10% 미만 군 비교 시 보정 위험비(HR)는 0.745(95% CI 0.417-1.331, p = 0.320)로 생존기간과 유의한 연관성이 없었습니다.",
+  "발현율 10%포인트 증가당 보정 위험비는 0.969(95% CI 0.898-1.046, p = 0.420)로 나타났습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/jcm15218276",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13763719",
   "pmid": "43030420"
  },
  "pub_types": [
@@ -47,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43030420/"
  },
- "summary_ko": "Background/Objectives: Melanoma-associated antigen A3 (MAGEA3) is a cancer-testis antigen with potential biological and prognostic relevance in pancreatic ductal adenocarcinoma (PDAC). This study evaluated the association between OTI1H1-defined MAGEA3-directed immunoreactivity and clinicopathological characteristics and overall survival after pancreatic resection for PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "췌관선암(PDAC) 절제 수술을 받은 환자 76명을 대상으로 암-고환 항원인 MAGEA3의 발현과 전체 생존기간(OS) 간의 연관성을 평가한 후향적 코호트 연구입니다. OTI1H1 항체를 사용한 면역조직화학 염색 분석에서 전체 종양의 47.4%가 10% 이상의 MAGEA3 양성 세포를 보였습니다. 분석 결과 MAGEA3 면역반응성과 전체 생존기간 사이에 통계적으로 명확한 연관성은 관찰되지 않았습니다. 연구진은 항체의 교차반응성 가능성을 고려할 때 이번 결과가 MAGEA3의 생물학적 무관성을 완전히 입증하는 것은 아니라고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "OTI1H1-Defined MAGEA3-Directed Immunoreactivity and Survival in Pancreatic Ductal Adenocarcinoma: A Single-Center Study",
- "title_ko": null,
+ "title_ko": "췌관선암에서 OTI1H1 항체로 정의된 MAGEA3 면역반응성과 생존율: 단일 기관 연구",
  "trial": null,
  "type": "paper"
 }

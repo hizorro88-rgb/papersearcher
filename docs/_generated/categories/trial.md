@@ -16,27 +16,230 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 599건 · 최근 30일 259건
+전체 599건 · 최근 30일 244건
 
 월별 보기: [2026-11](trial/2026-11.md) · [2026-10](trial/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07522073"></a>
-#### [이전에 치료받지 않은 KRAS G12D 변이 전이성 췌관선암 환자를 대상으로 INCB161734 병용 화학요법을 평가하는 연구](https://clinicaltrials.gov/study/NCT07522073)
+#### [이전에 치료받지 않은 KRAS G12D 변이 전이성 췌장관선암 환자에서 항암화학요법과 INCB161734 병용요법을 평가하는 3상 연구](https://clinicaltrials.gov/study/NCT07522073)
 <small>A Study to Evaluate Chemotherapy With or Without INCB161734 in Previously Untreated, KRAS G12D-Mutated Metastatic Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` · 2026-04-13 · ClinicalTrials.gov · Incyte Corporation · 중요도 0.98
 
 **NCT07522073** · 3상 · 모집 중 · 국내 8곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07522073.md)
 
-이 임상시험은 이전에 전이성 단계에서 전신 치료를 받지 않은 KRAS G12D 변이 전이성 췌관선암(PDAC) 환자를 대상으로 표준 화학요법에 INCB161734를 추가하거나 위약(Placebo) 또는 연구자 선택 화학요법을 비교하는 3상 임상시험입니다. 연구의 목적은 INCB161734 병용 투여의 유효성과 안전성을 평가하는 것입니다. 목표 참여 인원은 588명이며 국내 8개 기관이 참여합니다.
+이 임상시험은 이전에 전이성 단계에서 전신 치료를 받지 않은 KRAS G12D 변이 전이성 췌장관선암(PDAC) 환자를 대상으로 합니다. 연구자 선택 표준 항암화학요법에 INCB161734 또는 위약(Placebo)을 병용 투여하여 치료 유효성과 안전성을 비교 평가합니다. 연구는 총 588명의 환자를 모집하며 국내 8개 기관이 참여합니다.
 
-- 대상 질환은 KRAS G12D 변이가 확인된 전이성 췌관선암(PDAC)입니다.
-- 이전에 전이성 단계에서 전신 항암 치료를 받은 적이 없어야 합니다.
-- 총 588명을 대상으로 진행되며 국내 8곳의 기관이 참여합니다.
+- KRAS G12D 변이가 확인된 1차 전이성 췌장암 환자 588명을 대상으로 진행되는 3상 임상시험입니다.
+- 표준 항암화학요법에 신약 후보물질 INCB161734를 추가한 치료 전략을 평가합니다.
+- 이전에 KRAS 억제제를 투여받은 적이 없는 환자를 대상으로 모집을 진행 중입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07522073) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07522073)</small>
+
+---
+<a id="nct-nct07644559"></a>
+#### [KRAS G12D 변이 췌장암 환자를 대상으로 한 VS-7375의 2상 임상시험](https://clinicaltrials.gov/study/NCT07644559)
+<small>A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-06-12 · ClinicalTrials.gov · Verastem, Inc. · 중요도 0.90
+
+**NCT07644559** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07644559.md)
+
+이 연구는 KRAS G12D 변이가 있는 전이성 췌장암(PDAC) 환자를 대상으로 VS-7375 단독 요법 및 cetuximab(세툭시맙)과의 병용 요법의 안전성과 유효성을 평가하는 2상 임상시험입니다. 이전 치료 경험이 없는 1차 치료 환자와 1가지 이전 치료를 받은 2차 치료 환자를 모두 포함합니다. 전체 목표 대상자 수는 185명입니다.
+
+- KRAS G12D 변이가 확인된 전이성 췌장암 환자를 대상으로 진행되는 2상 임상시험입니다.
+- VS-7375 단독 요법 및 cetuximab과의 병용 요법의 효과와 안전성을 평가합니다.
+- 목표 환자 수는 185명이며 현재 국내 임상시험 참여 기관은 0곳입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07644559) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07644559)</small>
+
+---
+<a id="nct-nct07488676"></a>
+#### [위식도암, 췌장암 및 기타 고형암 환자를 대상으로 한 ASP546C의 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07488676)
+<small>A Study of ASP546C in Adults With Gastroesophageal Cancer, Pancreatic Cancer or Other Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-03-23 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 0.90
+
+**NCT07488676** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07488676.md)
+
+이 연구는 위암, 위식도 접합부(GEJ) 암, 췌장암 및 기타 고형암 환자를 대상으로 신약 후보물질 ASP546C의 적절한 투여 용량을 확인하기 위한 1/2상 임상시험입니다. 연구는 2개 부분으로 구성되며 3주 주기로 ASP546C를 정맥 주사 형태로 투여합니다. 췌장암 환자는 파트 2에 참여하여 고용량의 ASP546C를 투여받게 됩니다. 총 150명의 환자를 모집할 예정입니다.
+
+- 위식도암, 췌장암 등 고형암 환자 150명을 대상으로 하는 1/2상 임상시험입니다.
+- 종양에서 클라우딘 18.2(CLDN18.2) 바이오마커가 발현된 환자를 대상으로 합니다.
+- 3주 간격으로 ASP546C를 정맥 투여하여 적정 용량과 안전성을 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07488676) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07488676)</small>
+
+---
+<a id="nct-nct03375320"></a>
+#### [진행성 췌장 신경내분비종양 및 유유선종 환자를 대상으로 한 카보잔티닙 임상 3상 연구](https://clinicaltrials.gov/study/NCT03375320)
+<small>Testing Cabozantinib in Patients With Advanced Pancreatic Neuroendocrine and Carcinoid Tumors</small>
+
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` `신경내분비종양` · 2017-12-18 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.88
+
+**NCT03375320** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03375320.md)
+
+이 임상시험은 이전 치료 후 질병이 진행된 국소 진행성 또는 전이성 췌장 신경내분비종양(NET) 환자를 대상으로 카보잔티닙(cabozantinib)의 유효성과 안전성을 위약과 비교 평가하는 3상 연구입니다. 카보잔티닙은 종양 성장과 혈관 생성을 억제하는 티로신 키나아제 억제제(TKI) 계열의 표적항암제입니다. 환자들은 카보잔티닙 또는 위약을 매일 복용하며 주요 평가 항목인 무진행 생존기간(PFS) 개선 여부를 확인하게 됩니다.
+
+- 이전 승인된 치료 후 진행한 진행성 췌장 신경내분비종양 환자 약 298명을 대상으로 진행하는 3상 연구입니다.
+- 카보잔티닙(Cabozantinib) 투여군과 위약 투여군을 1:1로 비교하여 무진행 생존기간(PFS)과 전체 생존기간(OS)을 평가합니다.
+- 위약 투여군 환자는 질병이 진행될 경우 카보잔티닙 투여로 교차 투여(crossover)할 수 있습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03375320) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03375320)</small>
+
+---
+<a id="pmid-43024239"></a>
+#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
+
+`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+
+이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
+
+- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
+- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
+- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13768972/) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
+
+---
+<a id="nct-nct04924075"></a>
+#### [진행성 췌장 신경내분비종양 및 HIF-2α 관련 유전 변이 고형암 환자 대상 Belzutifan(MK-6482) 단독요법의 2상 임상시험](https://clinicaltrials.gov/study/NCT04924075)
+<small>Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `신경내분비종양` · 2021-06-11 · ClinicalTrials.gov · Merck Sharp & Dohme LLC · 중요도 0.87
+
+**NCT04924075** · 2상 · 모집 중 · 국내 2곳 · [참여 조건·기관 보기](../../_generated/trials/NCT04924075.md)
+
+본 임상시험은 진행성 췌장 신경내분비종양(pNET) 및 HIF-2α 관련 유전 변이를 가진 진행성 고형암 환자를 대상으로 belzutifan(벨주티판) 단독요법의 유효성과 안전성을 평가하는 2상 연구입니다. 약 355명의 환자를 대상으로 진행되며 한국 내 2개 기관에서도 참여 중입니다. 주요 목표는 독립 중앙 검토(BICR)에 의해 측정한 객관적 반응률(ORR)을 평가하는 것입니다.
+
+- 진행성 췌장 신경내분비종양(pNET) 환자 등 총 355명을 대상으로 진행하는 2상 임상시험입니다.
+- 주요 평가 지표는 독립 중앙 검토(BICR)에 의한 객관적 반응률(ORR)입니다.
+- 국내 2개 기관이 임상시험 참여 기관으로 포함되어 있습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04924075) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04924075)</small>
+
+---
+<a id="nct-nct01585805"></a>
+#### [국소 진행성 또는 전이성 췌장암 환자에서 젬시타빈(gemcitabine) 및 시스플라틴(cisplatin) 병용 요법에 벨리파립(veliparib) 추가 여부를 평가하는 임상시험](https://clinicaltrials.gov/study/NCT01585805)
+<small>Gemcitabine Hydrochloride and Cisplatin With or Without Veliparib or Veliparib Alone in Treating Patients With Locally Advanced or Metastatic Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2012-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.87
+
+**NCT01585805** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01585805.md)
+
+이 임상시험은 국소 진행성 또는 전이성 췌장암 환자를 대상으로 벨리파립을 젬시타빈 및 시스플라틴과 함께 투여하는 치료의 효과를 평가합니다. 1상 및 2상 연구로 구성되어 있으며, 특히 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 환자를 대상으로 반응률과 무진행 생존기간 등을 비교합니다. 벨리파립은 세포 성장에 필요한 효소를 차단하여 종양 세포의 성장을 막는 약물입니다. 현재 초록에는 구체적인 생존기간이나 최종 결과 수치는 명시되지 않았습니다.
+
+- 목표 인원은 총 83명입니다.
+- BRCA 및 PALB2 유전자 변이 췌장암 환자를 대상으로 젬시타빈, 시스플라틴, 벨리파립 병용 투여(Arm A)와 젬시타빈, 시스플라틴 병용 투여(Arm B)를 비교합니다.
+- 2파트에서는 이전에 치료를 받은 적이 있는 BRCA 및 PALB2 변이 환자를 대상으로 단독 요법인 벨리파립(Arm C)의 효과를 평가합니다.
+- 초록에 최종 반응률이나 생존기간 결과 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT01585805) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01585805)</small>
+
+---
+<a id="nct-nct02498613"></a>
+#### [진행성 고형암 환자를 대상으로 한 세디라닙과 올라파립 병용 요법의 2상 임상시험](https://clinicaltrials.gov/study/NCT02498613)
+<small>A Phase 2 Study of Cediranib in Combination With Olaparib in Advanced Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2015-07-15 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.87
+
+**NCT02498613** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02498613.md)
+
+이 임상시험은 췌장암, 비소세포폐암, 소세포폐암, 삼중음성유방암 등 전이되었거나 수술이 불가능한 진행성 고형암 환자를 대상으로 세디라닙(cediranib maleate)과 올라파립(olaparib) 병용 요법의 효과와 안전성을 평가하는 2상 연구입니다. 혈관 생성을 억제하는 세디라닙과 DNA 복구를 막는 PARP 억제제인 올라파립을 함께 투여하여 암세포 성장을 억제하는 것을 목표로 합니다. 주요 목적은 병용 요법의 객관적 반응률(ORR)을 확인하는 것이며, 무진행 생존기간(PFS)과 안전성도 함께 평가합니다.
+
+- 진행성 또는 전이성 췌장암을 포함한 고형암 환자에서 세디라닙과 올라파립 병용 요법의 객관적 반응률(ORR)을 평가하는 2상 임상시험입니다.
+- 췌장암 환자는 이전 국소 진행성 또는 전이성 단계에서 5-FU, 젬시타빈(gemcitabine), 또는 타키산(taxane) 계열 항암제 치료를 1가지 이상 받은 이력이 있어야 합니다.
+- 종양 혈관 생성을 차단하는 약물과 DNA 복구 억제제를 조합하여 항암 치료 효과 증대를 도모합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02498613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02498613)</small>
+
+---
+<a id="nct-nct07024615"></a>
+#### [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](https://clinicaltrials.gov/study/NCT07024615)
+<small>A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surgery, in People With Pancreatic Ductal Cancer</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2025-06-17 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 0.84
+
+**NCT07024615** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07024615.md)
+
+본 연구는 수술이 가능한 췌관선암(PDAC) 환자를 대상으로 신약 후보물질인 ASP2138의 안전성과 치료 효과를 평가하는 1상 임상시험입니다. 암세포 표면의 클라우딘 18.2(CLDN18.2) 단백질과 면역 T세포에 동시 결합하는 ASP2138을 수술 2주 전에 피하 주사로 투여합니다. 수술 후에는 연구진의 판단에 따라 mFOLFIRINOX, 젬시타빈(gemcitabine) 조합 등 표준 보조 항암화학요법을 최대 6개월간 진행합니다.
+
+- 수술이 가능한(resectable) 췌관선암 환자 25명을 대상으로 진행하는 1상 임상시험입니다.
+- 수술 2주 전 CLDN18.2 표적 약물인 ASP2138을 피하 주사하고, 수술 후 최대 6개월간 보조 항암치료를 시행합니다.
+- 치료 전 조직검사에서 CLDN18.2 양성이 확인되고 이전에 치료받은 적이 없는 환자를 대상으로 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07024615) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07024615)</small>
+
+---
+<a id="nct-nct04514497"></a>
+#### [진행성 고형암(소세포폐암, 저분화 신경내분비암, 췌장암) 환자를 대상으로 표준 항암화학요법과 BAY 1895344 병용요법의 안전성을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT04514497)
+<small>Testing the Addition of an Anti-cancer Drug, BAY 1895344, to Usual Chemotherapy for Advanced Stage Solid Tumors, With a Specific Focus on Patients With Small Cell Lung Cancer, Poorly Differentiated Neuroendocrine Cancer, and Pancreatic Cancer</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-08-17 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.81
+
+**NCT04514497** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04514497.md)
+
+이 임상시험은 전이성 또는 절제 불가능한 진행성 고형암 환자를 대상으로 신약 후보물질 BAY 1895344(elimusertib, 엘리무세르팁)와 기존 항암화학요법(irinotecan 또는 topotecan)을 함께 투여할 때의 안전성, 부작용 및 최적 용량을 평가하는 1상 연구입니다. 소세포폐암, 저분화 신경내분비암, 췌장암 환자를 주요 대상으로 합니다. BAY 1895344는 세포 증식에 필요한 효소를 억제하여 암세포 성장을 막는 작용을 합니다. 이 연구를 통해 병용요법의 최대 내약 용량(MTD)과 권장 2상 용량(RP2D)을 확인하고 종양 감소 효과를 관찰하고자 합니다.
+
+- 진행성 고형암 및 전이성 췌장암 환자 29명을 대상으로 실시하는 1상 임상시험입니다.
+- 이전 표준 치료를 최소 1가지 이상 받고 진행한 절제 불가능 또는 전이성 환자가 대상입니다.
+- 이리노테칸(irinotecan) 또는 토포테칸(topotecan) 항암제와 BAY 1895344의 병용 투여 안전성 및 치료 반응률을 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04514497) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04514497)</small>
+
+---
+<a id="nct-nct04616534"></a>
+#### [진행성 췌장암 및 고형암 환자를 대상으로 gemcitabine(젬시타빈)과 ATR 억제제 elimusertib(엘리무세르팁, BAY 1895344) 병용 요법을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT04616534)
+<small>Testing the Addition of an Anti-cancer Drug, Elimusertib (BAY 1895344) ATR Inhibitor, to the Chemotherapy Treatment (Gemcitabine) for Advanced Pancreatic and Ovarian Cancer, and Advanced Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-11-05 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.81
+
+**NCT04616534** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04616534.md)
+
+본 1상 임상시험은 진행성 췌장암, 난소암 및 기타 고형암 환자를 대상으로 gemcitabine(젬시타빈)과 elimusertib(엘리무세르팁) 병용 치료의 적정 용량과 안전성, 부작용을 평가합니다. elimusertib은 암세포 성장에 필요한 효소를 차단하는 ATR 억제제(ATR Inhibitor)이고, gemcitabine은 DNA 합성을 방해하는 세포독성 항암제입니다. 연구진은 두 약물의 병용 투여가 암세포 감소 또는 질환 안정화 효과를 나타낼 수 있는지 확인하고자 합니다. 총 14명의 환자를 대상으로 용량 증량 및 확장 코호트 연구를 진행합니다.
+
+- gemcitabine(젬시타빈)과 elimusertib(엘리무세르팁) 병용 투여의 최고 허용 용량(MTD)과 안전성을 평가하는 1상 임상시험입니다.
+- 췌장암 코호트의 경우 전이 단계에서 이전 세포독성 항암치료를 1회 이하로 받은 진행성 또는 수술 불가능한 환자를 대상으로 합니다.
+- 21일을 1주기로 하여 정맥 투여와 경구 복용을 병용하며, 종양 생검 및 관찰을 수행합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04616534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04616534)</small>
+
+---
+<a id="nct-nct06744595"></a>
+#### [췌장암 가족력이 있는 환자의 유전자 검사 참여율을 높이기 위한 맞춤형 교육 및 유전자 상담 임상연구](https://clinicaltrials.gov/study/NCT06744595)
+<small>Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer</small>
+
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2024-12-20 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.71
+
+**NCT06744595** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06744595.md)
+
+이 임상연구는 췌장암 직계 가족력이 있는 사람들을 대상으로 맞춤형 교육과 유전자 상담이 유전자 검사 시행율을 높이는지 평가했습니다. 췌장암의 약 10%는 유전적 요인과 연관되어 있어 조기 발견 시 치료 가능성을 높일 수 있습니다. 연구진은 전자의무기록 포털을 통해 미국 종합암네트워크(NCCN) 지침 교육과 표준 유전자 상담 및 유전자 검사 기회를 제공했습니다. 본 연구는 췌장암 가족력을 가진 대상자의 유전자 검사에 대한 이해도와 결정 과정을 조사하는 것을 목표로 하였습니다.
+
+- 췌장암의 약 10%는 유전적 요인과 관련이 있어 고위험군 선별을 위한 유전자 검사가 중요합니다.
+- 1차 직계 가족(부모, 형제자매, 자녀) 중 췌장암 환자가 있는 대상자 41명을 목표로 맞춤형 유전자 교육 및 상담을 시행했습니다.
+- 전자의무기록 포털을 활용하여 NCCN 지침 안내 메시지를 발송하고 선택적 유전자 검사 및 설문조사를 진행했습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06744595) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06744595)</small>
+
+---
+<a id="nct-nct06218914"></a>
+#### [수술 불가능, 진행성 및 전이성 고형암 환자를 대상으로 KRAS G12D 변이 표적 TCR-T 세포 치료제를 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT06218914)
+<small>Phase 1 Study to Investigate TCRTs KRAS Mutation in Unresectable, Advanced, and/or Metastatic Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `수술` · 2024-01-23 · ClinicalTrials.gov · AstraZeneca · 중요도 0.70
+
+**NCT06218914** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06218914.md)
+
+본 연구는 KRAS G12D 변이와 특정 HLA 유형을 가진 수술 불가능, 진행성 또는 전이성 고형암(췌관선암 포함) 성인 환자를 대상으로 하는 1상 임상시험입니다. 자가 T세포 유전자 변형 치료제인 NT-112 및 AZD0240의 안전성과 초기 항암 효과를 평가합니다. 이전 표준 전신 항암 치료를 1가지 이상 받은 환자들이 참여 대상입니다.
+
+- KRAS G12D 변이 및 특정 HLA 유형(HLA-C*08:02, HLA-A*11:01, HLA-A*11:02 중 1개 이상)을 보유한 진행성 고형암 환자 108명을 대상으로 합니다.
+- 최소 1가지 이상의 승인된 표준 전신 항암 치료를 받은 경험이 있는 환자를 대상으로 진행합니다.
+- KRAS G12D를 표적하는 자가 TCR-T 세포 치료제(NT-112, AZD0240)의 안전성과 항암 반응을 확인합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06218914) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06218914)</small>
 
 ---
 <a id="nct-nct04172532"></a>
@@ -126,23 +329,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT05053971) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053971)</small>
 
 ---
-<a id="nct-nct07644559"></a>
-#### [KRAS G12D 변이 췌장암 환자를 대상으로 하는 VS-7375의 제2상 임상시험](https://clinicaltrials.gov/study/NCT07644559)
-<small>A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-06-12 · ClinicalTrials.gov · Verastem, Inc. · 중요도 0.90
-
-**NCT07644559** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07644559.md)
-
-이 임상시험은 전이성 KRAS G12D 변이 췌장암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 VS-7375 단독 요법 및 cetuximab 병용 요법의 안전성과 유효성을 평가합니다. 18세 이상의 성인을 대상으로 하며, 목표 인원은 185명입니다. 현재 환자를 모집 중입니다.
-
-- 대상 질환: KRAS G12D 변이가 확인된 전이성 췌관선암(PDAC)
-- 중재 방법: VS-7375 단독 또는 cetuximab(또는 panitumumab) 병용
-- 목표 환자 수: 185명
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07644559) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07644559)</small>
-
----
 <a id="nct-nct07912593"></a>
 #### [진행성 고형암 환자를 대상으로 하는 KRAS 억제제 임상시험](https://clinicaltrials.gov/study/NCT07912593)
 <small>A KRAS Inhibitor in Participants With Advanced Solid Tumors</small>
@@ -157,23 +343,6 @@ search:
 - 18세 이상의 진행성 고형암 환자를 대상으로 합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07912593) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07912593)</small>
-
----
-<a id="nct-nct03375320"></a>
-#### [진행성 췌장 신경내분비 및 카르시노이드 종양 환자에서 카보잔티닙(cabozantinib) 임상시험](https://clinicaltrials.gov/study/NCT03375320)
-<small>Testing Cabozantinib in Patients With Advanced Pancreatic Neuroendocrine and Carcinoid Tumors</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` `신경내분비종양` · 2017-12-18 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.88
-
-**NCT03375320** · 3상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03375320.md)
-
-이 3상 임상시험은 이전에 치료를 받은 적이 있고 병이 진행된 진행성 췌장 신경내분비종양(NET) 또는 카르시노이드 종양 환자를 대상으로 표적항암제인 cabozantinib(카보잔티닙)의 효과를 위약(placebo)과 비교하여 평가합니다. 주요 목적은 무진행 생존기간(PFS)과 전체 생존기간(OS)의 유의한 개선 여부를 확인하는 것입니다. 환자들은 cabozantinib 또는 위약을 경구 투여받으며, 질병 진행 시 cabozantinib으로 교차 투여가 허용됩니다. 연구를 통해 안전성, 내인성, 방사선학적 반응률 및 삶의 질을 함께 평가합니다.
-
-- 목표 환자 수는 총 298명입니다.
-- 주요 평가 변수는 cabozantinib과 위약 간의 무진행 생존기간(PFS) 및 전체 생존기간(OS) 비교입니다.
-- 치료제는 매 주기 1일에서 28일까지 경구 투여됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT03375320) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03375320)</small>
 
 ---
 <a id="nct-nct02465060"></a>
@@ -193,23 +362,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT02465060) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02465060)</small>
 
 ---
-<a id="nct-nct04924075"></a>
-#### [진행성 췌장 신경내분비종양 및 기타 고형암 환자에서 belzutifan의 효과와 안전성을 평가하는 임상시험](https://clinicaltrials.gov/study/NCT04924075)
-<small>Belzutifan/MK-6482 for the Treatment of Advanced Pheochromocytoma/Paraganglioma (PPGL), Pancreatic Neuroendocrine Tumor (pNET), Von Hippel-Lindau (VHL) Disease-Associated Tumors, Advanced Gastrointestinal Stromal Tumor (wt GIST), or Solid Tumors With HIF-2α Related Genetic Alterations (MK-6482-015)</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `신경내분비종양` · 2021-06-11 · ClinicalTrials.gov · Merck Sharp & Dohme LLC · 중요도 0.87
-
-**NCT04924075** · 2상 · 모집 중 · 국내 2곳 · [참여 조건·기관 보기](../../_generated/trials/NCT04924075.md)
-
-이 임상시험은 진행성 췌장 신경내분비종양(pNET), 갈색세포종/부신경절종(PPGL), 폰 히펠-린다우(VHL) 질환 연관 종양, 야생형 위장관간질종양(wt GIST), 또는 HIF-2α 관련 유전적 변이가 있는 진행성 고형암 환자를 대상으로 belzutifan 단독요법의 유효성과 안전성을 평가합니다. 12세 이상의 환자를 대상으로 하며, 주요 목표는 맹검 독립 중앙 심사(BICR)를 통한 객관적 반응률(ORR)을 평가하는 것입니다. 연구는 현재 환자를 모집 중이며 국내 기관 2곳이 포함되어 있습니다.
-
-- 목표 인원은 총 355명이며 12세 이상(일부 코호트는 18세 이상)의 환자가 참여할 수 있습니다.
-- 주요 평가지표는 RECIST 1.1 기준에 따른 객관적 반응률(ORR)입니다.
-- 현재 환자를 모집 중이며 국내 2개 기관에서 진행됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04924075) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04924075)</small>
-
----
 <a id="nct-nct04550494"></a>
 #### [진행성 암 및 DNA 복구 유전자 변이 환자에서 talazoparib의 효과 측정 임상시험](https://clinicaltrials.gov/study/NCT04550494)
 <small>Measuring the Effects of Talazoparib in Patients With Advanced Cancer and DNA Repair Variations</small>
@@ -225,24 +377,6 @@ search:
 - 참여 환자는 최소 1가지 표준 치료 이후 병이 진행되었거나 적절한 표준 치료가 없어야 하며, 췌장암 환자는 전이성 단계에서 백금 기반 치료를 받은 경험이 있어야 합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04550494) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04550494)</small>
-
----
-<a id="nct-nct07024615"></a>
-#### [수술 전 ASP2138 투여 및 수술 후 항암화학요법을 평가하는 췌장암 임상시험](https://clinicaltrials.gov/study/NCT07024615)
-<small>A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surgery, in People With Pancreatic Ductal Cancer</small>
-
-`임상시험` `1상` `신약·치료제` `수술` `치료 전반` · 2025-06-17 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 0.84
-
-**NCT07024615** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07024615.md)
-
-이 임상시험은 CLDN18.2 단백질이 발현되는 절제 가능한 췌장관선암(PDAC) 성인 환자를 대상으로 합니다. 환자들은 수술 2주 전에 ASP2138 피하 주사를 투여받고 수술을 진행합니다. 수술 후에는 연구 의사의 판단에 따라 표준 항암화학요법(mFOLFIRINOX, 젬시타빈+나브-파클리탁셀, 또는 젬시타빈+카페시타빈)을 최대 6개월 동안 받게 됩니다. 목표 인원은 25명이며, 국내 기관은 없습니다.
-
-- 대상 질환은 수술이 가능한(resectable) 국소 췌장관선암(PDAC)입니다.
-- 종양 세포에 CLDN18.2 양성 반응이 확인된 환자를 대상으로 합니다.
-- 수술 전 ASP2138을 투여하고 수술 후 표준 항암화학요법을 시행합니다.
-- 전체 목표 참여 환자 수는 25명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07024615) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07024615)</small>
 
 ---
 <a id="nct-nct07458347"></a>
@@ -516,140 +650,6 @@ search:
 - 연구 중재 완료 후 유전체 검사 결과 수령 후 2주, 3개월, 9개월째에 추적 관찰을 진행합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04905082) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04905082)</small>
-
----
-<a id="nct-nct07488676"></a>
-#### [위식도암, 췌장암 및 기타 고형암 성인 환자를 대상으로 한 ASP546C 연구](https://clinicaltrials.gov/study/NCT07488676)
-<small>A Study of ASP546C in Adults With Gastroesophageal Cancer, Pancreatic Cancer or Other Solid Tumors</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-03-23 · ClinicalTrials.gov · Astellas Pharma Global Development, Inc. · 중요도 0.90
-
-**NCT07488676** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07488676.md)
-
-본 임상시험은 위암, 위식도 접합부암, 췌장암 및 기타 고형암 환자를 대상으로 ASP546C의 적절한 용량을 찾기 위한 1/2상 연구입니다. 연구는 2개 부분으로 진행되며, ASP546C는 3주 주기로 정맥 투여됩니다. 파트 1에서는 위암 및 위식도 접합부암 환자에게 용량을 달리하여 투여하며, 파트 2에서는 췌장암 및 기타 고형암 환자에게 고용량 ASP546C를 투여합니다.
-
-- 췌장암, 위암 등 고형암 환자 150명을 대상으로 하는 1/2상 임상시험입니다.
-- 종양 표지자인 CLDN18.2(클라우딘 18.2)가 발현된 환자를 대상으로 합니다.
-- 약물은 3주 간격으로 정맥 주입됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07488676) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07488676)</small>
-
----
-<a id="pmid-43024239"></a>
-#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
-<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
-
-`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
-
-이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
-
-- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
-- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
-- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
-
----
-<a id="nct-nct01585805"></a>
-#### [국소 진행성 또는 전이성 췌장암 환자에서 젬시타빈·시스플라틴과 벨리파립 병용 또는 벨리파립 단독 요법을 평가하는 2상 임상시험](https://clinicaltrials.gov/study/NCT01585805)
-<small>Gemcitabine Hydrochloride and Cisplatin With or Without Veliparib or Veliparib Alone in Treating Patients With Locally Advanced or Metastatic Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2012-04-26 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.87
-
-**NCT01585805** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT01585805.md)
-
-이 연구는 BRCA1, BRCA2 또는 PALB2 유전자 변이가 있는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 시행되는 2상 임상시험입니다. PARP 억제제인 veliparib(벨리파립)을 gemcitabine(젬시타빈) 및 cisplatin(시스플라틴)과 함께 투여하거나 벨리파립 단독으로 투여할 때의 치료 효과와 안전성을 평가합니다. 이전 전신 치료 경험이 없는 환자(Part I)에서는 3제 병용요법과 2제 병용요법을 무작위 비교하고, 이전 치료 경험이 있는 환자(Part II)에서는 벨리파립 단독 요법의 효과를 확인합니다. 주요 목표는 치료에 따른 객관적 반응률(ORR)과 무진행 생존기간(PFS)을 측정하는 것입니다.
-
-- BRCA1, BRCA2 또는 PALB2 유전자 변이를 보유한 국소 진행성 또는 전이성 췌장암 환자 83명을 대상으로 진행됩니다.
-- 이전 치료 경험이 없는 환자군에서는 젬시타빈과 시스플라틴 조합에 벨리파립 추가 투여 효과를 무작위 비교합니다.
-- 이전 항암 치료를 최대 2차례 받은 환자군에서는 벨리파립 단독 투여 시의 반응률과 무진행 생존기간을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT01585805) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01585805)</small>
-
----
-<a id="nct-nct02498613"></a>
-#### [진행성 고형암 환자를 대상으로 한 세디라닙과 올라파립 병용 요법의 2상 임상시험](https://clinicaltrials.gov/study/NCT02498613)
-<small>A Phase 2 Study of Cediranib in Combination With Olaparib in Advanced Solid Tumors</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2015-07-15 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.87
-
-**NCT02498613** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02498613.md)
-
-이 2상 임상시험은 수술이 불가능하거나 전이된 진행성 췌장암, 폐암, 유방암 환자를 대상으로 세디라닙(cediranib)과 올라파립(olaparib) 병용 요법의 효과와 안전성을 평가합니다. 세디라닙은 종양 혈관 생성을 억제하고 올라파립은 암세포의 DNA 손상 복구를 차단하는 표적치료제입니다. 췌장암 환자군의 경우 이전 1차 이상의 전신 항암 치료 경험이 있는 환자를 대상으로 합니다. 본 연구의 주된 목적은 객관적 반응률(ORR)을 측정하는 것이며, 무진행 생존기간(PFS)과 안전성도 함께 평가합니다.
-
-- 진행성 췌관선암(PDAC)을 포함한 고형암 환자 122명을 대상으로 세디라닙과 올라파립 병용 요법을 평가하는 2상 임상시험입니다.
-- 췌장암 환자는 젬시타빈(gemcitabine), 플루오로우라실(5-FU), 또는 탁산(taxane) 계열 항암 치료를 1차 이상 받은 경험이 있어야 참여할 수 있습니다.
-- 주요 평가 지표는 객관적 반응률(ORR)이며, 무진행 생존기간(PFS) 및 약물 안전성을 주요 2차 지표로 측정합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT02498613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02498613)</small>
-
----
-<a id="nct-nct04514497"></a>
-#### [진행성 고형암(췌장암 포함) 환자를 대상으로 항암제 elimusertib(엘리무세르팁)과 기존 항암화학요법의 병용 요법을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT04514497)
-<small>Testing the Addition of an Anti-cancer Drug, BAY 1895344, to Usual Chemotherapy for Advanced Stage Solid Tumors, With a Specific Focus on Patients With Small Cell Lung Cancer, Poorly Differentiated Neuroendocrine Cancer, and Pancreatic Cancer</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-08-17 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.81
-
-**NCT04514497** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04514497.md)
-
-이 임상시험은 췌장암, 소세포폐암, 저분화 신경내분비암 등 진행성 고형암 환자를 대상으로 항암제 elimusertib(엘리무세르팁, BAY 1895344)과 기존 항암제인 irinotecan(이리노테칸) 또는 topotecan(토포테칸)의 병용 투여 시 안전성과 최적 용량을 평가하는 1상 임상시험입니다. elimusertib(엘리무세르팁)은 세포 증식에 필요한 효소를 억제하여 암세포 성장을 차단하는 약물입니다. 연구의 주요 목적은 병용 요법의 안전성과 내약성을 확인하고 최대 내성 용량 및 2상 추천 용량을 결정하는 것입니다. 이차적으로 객관적 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS) 등 항종양 효과도 관찰합니다.
-
-- elimusertib(엘리무세르팁)과 irinotecan(이리노테칸) 또는 topotecan(토포테칸) 병용 요법의 안전성 및 용량을 평가하는 1상 임상시험으로 총 29명의 환자를 대상으로 진행됩니다.
-- 최소 1가지 이상의 이전 표준 치료 후 진행된 수술 불가능 또는 전이성 췌장암, 소세포폐암, 저분화 신경내분비암 환자가 포함됩니다.
-- 병용 요법의 최대 내성 용량(MTD), 2상 추천 용량(RP2D), 무진행 생존기간(PFS) 및 전체 생존기간(OS) 등을 종합적으로 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04514497) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04514497)</small>
-
----
-<a id="nct-nct04616534"></a>
-#### [진행성 췌장암, 난소암 및 진행성 고형암 환자를 대상으로 항암제 gemcitabine과 ATR 억제제 elimusertib(BAY 1895344) 병용 요법을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT04616534)
-<small>Testing the Addition of an Anti-cancer Drug, Elimusertib (BAY 1895344) ATR Inhibitor, to the Chemotherapy Treatment (Gemcitabine) for Advanced Pancreatic and Ovarian Cancer, and Advanced Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-11-05 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.81
-
-**NCT04616534** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04616534.md)
-
-진행성 췌장암, 난소암 및 고형암 환자를 대상으로 gemcitabine(젬시타빈)과 ATR 억제제인 elimusertib(BAY 1895344, 엘리무세르팁) 병용 요법의 적정 용량, 안전성 및 부작용을 평가하는 1상 임상시험입니다. gemcitabine은 세포의 DNA 합성을 방해하는 항암제이며, elimusertib은 암세포 성장에 필요한 효소를 차단하는 표적치료제입니다. 두 약물의 병용 투여를 통해 암세포의 축소 또는 안정화를 유도할 수 있는지 확인합니다. 총 14명의 환자를 대상으로 안전성, 권장 용량, 약동학 및 항종양 효과를 관찰합니다.
-
-- 진행성 췌장암 및 고형암 환자에서 gemcitabine과 elimusertib(BAY 1895344) 병용 투여의 안전성과 최대 내약 용량(MTD)을 평가합니다.
-- 치료 대상자는 이전 전이성 단계에서 세포독성 항암 치료를 1회 이하로 받은 진행성/전이성 췌장암 환자 등입니다.
-- 21일 주기로 gemcitabine(1일, 8일차 정맥 투여)과 elimusertib(2-3일, 9-10일차 구강 투여)을 투여하며 종양 반응과 부작용을 관찰합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04616534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04616534)</small>
-
----
-<a id="nct-nct06744595"></a>
-#### [췌장암 가족력이 있는 환자에서 유전자 검사를 늘리기 위한 맞춤형 교육 및 유전 상담](https://clinicaltrials.gov/study/NCT06744595)
-<small>Personalized Education and Genetic Counseling to Increase Genetic Testing in Patients With a Known Family History of Pancreatic Cancer</small>
-
-`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2024-12-20 · ClinicalTrials.gov · Mayo Clinic · 중요도 0.71
-
-**NCT06744595** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06744595.md)
-
-이 임상시험은 췌장암 가족력이 있는 환자들을 대상으로 맞춤형 교육과 유전 상담이 유전자 검사 참여율을 높이는지 평가합니다. 환자들은 가족력에 기반한 NCCN(미국종합암네트워크) 가이드라인 교육 메시지를 받고, 유전 상담과 유전자 검사를 제안받습니다. 연구진은 HOUSES 지수 분석, 유전 상담 기회 제공, 환자 설문조사를 통해 유전자 검사 관련 지식과 의사결정을 평가합니다. 목표 참여 인원은 41명이며, Mayo Clinic에서 진행되었습니다.
-
-- 췌장암 환자의 약 10%가 유전적 요인과 연관되어 있습니다.
-- NCCN 가이드라인에 따르면 1촌 내 가족력이 있는 환자는 유전 상담을 권장합니다.
-- 이 연구는 41명의 환자를 목표로 맞춤형 교육과 유전 상담의 효과를 조사했습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06744595) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06744595)</small>
-
----
-<a id="nct-nct06218914"></a>
-#### [절제 불가능하거나 진행성 및/또는 전이성 고형암 환자를 대상으로 한 KRAS 변이 표적 TCR-T 세포 치료제의 1상 임상시험](https://clinicaltrials.gov/study/NCT06218914)
-<small>Phase 1 Study to Investigate TCRTs KRAS Mutation in Unresectable, Advanced, and/or Metastatic Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `수술` `치료 전반` · 2024-01-23 · ClinicalTrials.gov · AstraZeneca · 중요도 0.70
-
-**NCT06218914** · 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06218914.md)
-
-이 임상시험은 KRAS G12D 변이를 가진 진행성 고형암(췌관선암 포함) 환자를 대상으로 T세포 수용체 조작 T세포(TCR-Engineered T cells, KRAS TCRT) 치료제인 NT-112와 AZD0240의 안전성과 예비 항종양 효과를 평가하는 1상 다기관 마스터 프로토콜입니다. 18세 이상의 성인을 대상으로 하며, 목표 환자 수는 총 108명입니다. 현재 환자 모집은 완료되지 않은 상태(ACTIVE_NOT_RECRUITING)입니다.
-
-- 대상 질환에는 췌관선암(Pancreatic Ductal Adenocarcinoma)을 포함한 고형암이 포함됩니다.
-- 평가하는 중재 치료는 KRAS G12D 변이를 표적하는 자가 유전자 조작 T 세포인 NT-112와 AZD0240입니다.
-- 목표 환자 수는 총 108명이며 국내 기관은 포함되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06218914) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06218914)</small>
 
 ---
 <a id="pmid-43021448"></a>

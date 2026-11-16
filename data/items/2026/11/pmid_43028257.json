@@ -10,10 +10,11 @@
   "Dandawate P"
  ],
  "categories": [
-  "drug"
+  "drug",
+  "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-15",
  "history": [
   {
@@ -23,13 +24,17 @@
   }
  ],
  "id": "pmid:43028257",
- "importance": 0.7,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "importance": 0.59,
+ "key_points_ko": [
+  "선도 화합물 3a는 KRAS 변이 췌관선암 세포에 대해 48시간 기준 0.22~0.26 µM의 반수억제농도(IC50)로 높은 증식 억제 활성을 나타냈습니다.",
+  "화합물 3a는 caspase-3/7 활성화를 통해 암세포 사멸(아포토시스)을 강력하게 유도했습니다.",
+  "분자 도킹 및 세포 내 결합 실험(CETSA)을 통해 STAT3의 SH2 도메인 결합 및 STAT3 활성화 억제 효과가 규명되었습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/ijms272110013",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13763989",
   "pmid": "43028257"
  },
  "pub_types": [
@@ -46,11 +51,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43028257/"
  },
- "summary_ko": "KRAS-mutant pancreatic ductal adenocarcinoma (PDAC) is characterized by a high mortality that still lacks efficient therapies. Monoketone-based bisarylidene curcuminoid derivatives have shown promising activities against various PDAC models.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 효과적인 치료 옵션이 부족한 KRAS 변이 췌관선암(PDAC)을 표적으로 하는 새로운 커큐미노이드 유도체들의 항암 효과를 세포 실험에서 평가했습니다. 연구진은 N-아릴설포닐 피페리딘-4-온 계열 화합물들을 합성하여 암세포 증식 억제 및 사멸 효과를 분석했습니다. 그중 화합물 3a는 매우 낮은 농도에서 암세포 증식을 강력하게 억제하고 세포사멸을 유도했습니다. 또한 이 화합물은 STAT3 단백질의 활성화를 억제하는 것으로 나타나 향후 전임상 연구를 위한 유망한 후보 물질로 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Activity of Fluoro-Substituted 3,5-Di[(E)-Benzylidene]piperidin-4-Ones with N-Arylsulfonyl Appendages Against KRAS-Mutant Pancreatic Ductal Adenocarcinoma Cells",
- "title_ko": null,
+ "title_ko": "KRAS 변이 췌관선암 세포에 대한 N-아릴설포닐 치환 플루오로 벤질리덴 피페리딘-4-온 유도체의 항암 활성",
  "trial": null,
  "type": "paper"
 }

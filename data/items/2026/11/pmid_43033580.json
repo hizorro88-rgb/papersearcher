@@ -1,0 +1,60 @@
+{
+ "abstract": "OBJECTIVES: Pancreatic adenocarcinoma (PAAD) is an aggressive malignancy with generally poor prognosis characterized by significant immune evasion driven primarily by its immunosuppressive tumor microenvironment (TME). A central mechanism underlying this evasion is T cell exhaustion (Tex), particularly in CD8⁺T cells, which limits effective anti-tumor immune responses. This study aimed to identify exhausted CD8⁺T cell-related long non-coding RNAs (CD8TexRLs) and evaluate their clinical relevance, with a focus on constructing a prognostic model, assessing immune microenvironment features, and identifying functionally important lncRNA candidates.\nBASIC METHODS: To elucidate underlying mechanisms and therapeutic implications, comprehensive analyses covering pathway enrichment, TMB, immune landscape profiling, and drug response prediction were conducted. PAAD samples were further stratified into distinct molecular subtypes using ConsensusClusterPlus. Tumor clonogenic assays and subcutaneous tumor modeling were employed to investigate the impact of AC053503.1 overexpression and knockdown in CD8⁺T cell models on PAAD cell proliferation. Immunohistochemistry revealed that AC053503.1 knockdown in CD8⁺T cells significantly enhanced the tumor proliferation rate.\nMAIN RESULTS: Seven signature CD8TexRLs-AL162424.1, MIR3142HG, LINC02004, AC053503.1, FLRT1, AC068580.2, and AP005233.2-were identified and integrated into a prognostic model that divided patients into high- and low-risk groups. High-risk individuals displayed pronounced enrichment of B-cell receptor signaling and cytosolic DNA-sensing pathways, together with increased TMB and an altered immune landscape. The model also identified differences in immune features and predicted drug sensitivity between risk groups. Stratification into molecular subtypes further demonstrated distinct immune profiles and predicted therapeutic sensitivities. Functional validation revealed that lncRNA AC053503.1 acts as a tumor suppressor in PAAD, with its knockdown promoting tumor proliferation.\nCONCLUSIONS: In summary, our research delineates the complex role of exhausted CD8⁺T cells within the PAAD tumor microenvironment and establishes CD8TexRLs as promising biomarkers for predicting both immunotherapy responses and patient survival. Particularly, functional characterization confirmed lncRNA AC053503.1 as a suppressor of PAAD proliferation, revealing new avenues for targeted therapeutic development.",
+ "authors": [
+  "Feng J",
+  "Mo Y",
+  "Yan D",
+  "Cheng J",
+  "Peng L"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43033580",
+ "importance": 0.51,
+ "key_points_ko": [
+  "7개의 탈진 CD8⁺ T 세포 관련 lncRNA를 이용한 예후 모델을 수립하여 위험군별 면역 미세환경과 약물 감수성 차이를 분석했습니다.",
+  "고위험군 환자에서는 종양 변이 부담(TMB) 증가와 B세포 수용체 신호전달 등 특정 경로의 농축이 관찰되었습니다.",
+  "세포 및 동물 모델 검증 결과, lncRNA AC053503.1의 발현 억제(knockdown)가 췌장암 증식을 유의하게 촉진하여 종양 억제 인자로 기능함을 확인했습니다."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.1016/j.neo.2026.101394",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43033580"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-07",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Neoplasia",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033580/"
+ },
+ "summary_ko": "췌장암(PAAD)의 주요 면역 회피 기전인 CD8⁺ T 세포 탈진과 관련된 긴 비암호화 RNA(lncRNA)를 발굴하고 그 임상적 가치를 평가한 연구입니다. 연구진은 7종의 탈진 CD8⁺ T 세포 관련 lncRNA를 바탕으로 환자를 고위험군과 저위험군으로 분류하는 예후 예측 모델을 구축했습니다. 또한 실험적 검증을 통해 특정 lncRNA인 AC053503.1이 종양 증식을 억제하는 역할을 함을 밝혔습니다. 본 연구는 췌장암의 면역치료 반응 예측 바이오마커와 새로운 표적 치료법 개발을 위한 가능성을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "LncRNA signatures associated with exhausted CD8⁺T cells for assessing the immune microenvironment and drug sensitivity in pancreatic adenocarcinoma",
+ "title_ko": "췌관선암종에서 면역 미세환경 및 약물 감수성 평가를 위한 탈진 CD8⁺ T 세포 관련 lncRNA 시그니처",
+ "trial": null,
+ "type": "paper"
+}

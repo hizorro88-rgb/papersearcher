@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer is a highly aggressive malignancy with a poor prognosis. Epidemiological studies have suggested a possible association between periodontitis and pancreatic cancer, while microbiome studies have reported alterations in the oral, gut, and pancreatic microbiota.\nOBJECTIVE: This review examines the evidence linking periodontitis to pancreatic cancer, with particular attention to microbial interactions along the proposed oral-gut microbial axis.\nDESIGN: This narrative review synthesizes current epidemiological, microbiome, and experimental evidence relevant to the potential association between periodontitis and pancreatic cancer.\nRESLUTS: Experimental studies suggest that periodontitis-associated microorganisms, including Porphyromonas gingivalis and Fusobacterium nucleatum, or their products, may reach the pancreas via digestive or circulatory routes. These microorganisms may influence the development and progression of pancreatic ductal adenocarcinoma through chronic inflammation, immune evasion, virulence factors, microbial metabolites, and the activation of oncogenic signaling pathways. Specific oral and gut microbial features have been investigated as candidate biomarkers. Periodontal treatment, dietary modification, and probiotics have also been studied for their effects on microbial composition and inflammation-related pathways potentially relevant to pancreatic cancer. The clinical relevance of these candidate biomarkers remains to be established, and microbial alterations may either contribute to pancreatic cancer or occur as a consequence of the disease.\nCONCLUSIONS: Current evidence supports a possible link between periodontitis and pancreatic cancer, although the role of microbiota in this relationship remains under investigation.",
+ "authors": [
+  "Fan L",
+  "Hong G",
+  "Sun J",
+  "Zhou Y",
+  "Shi J"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43032645",
+ "importance": 0.72,
+ "key_points_ko": [
+  "포르피로모나스 진지발리스와 푸소박테리움 뉴클레아툼 등 치주 질환 관련 미생물이 만성 염증 유발 및 암 신호 경로 활성화를 통해 췌관선암종 진행에 영향을 줄 수 있습니다.",
+  "특정 구강 및 장 미생물 특성이 진단적 후보 바이오마커로 조사되었으나 임상적 관련성은 아직 확립되지 않았습니다.",
+  "치주 치료, 식단 조절, 프로바이오틱스 등이 미생물 구성과 염증 경로에 미치는 영향이 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.1080/20002297.2026.2758491",
+  "nct": [],
+  "pmcid": "PMC13761039",
+  "pmid": "43032645"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Oral Microbiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43032645/"
+ },
+ "summary_ko": "이 종설 논문은 치주염과 췌장암 간의 연관성에 관한 역학, 마이크로바이옴 및 실험적 근거를 종합하여 검토했습니다. 포르피로모나스 진지발리스(Porphyromonas gingivalis)와 푸소박테리움 뉴클레아툼(Fusobacterium nucleatum) 등 치주염 관련 미생물이나 부산물이 소화관 또는 혈액 순환을 통해 췌장에 도달할 수 있음이 제시되었습니다. 이러한 미생물은 만성 염증, 면역 회피, 병원성 인자, 대사산물 및 암 발생 신호전달 경로 활성화를 통해 췌관선암종(PDAC)의 발생과 진행에 영향을 미칠 수 있습니다. 특정 구강 및 장내 미생물 특성이 후보 바이오마커로 조사되었으며, 치주 치료나 식단 조절, 프로바이오틱스(probiotics) 등이 연구되고 있으나 임상적 유의성은 아직 확립되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Periodontitis and pancreatic cancer: the oral-gut microbial axis, pathogenic mechanisms, and potential therapeutic implications",
+ "title_ko": "치주염과 췌장암: 구강-장 미생물 축, 병원성 기전 및 잠재적 치료적 시사점",
+ "trial": null,
+ "type": "paper"
+}

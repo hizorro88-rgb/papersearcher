@@ -27,11 +27,11 @@
   "gemcitabine과 Sch B를 병용 투여했을 때 산화 스트레스와 세포 사멸 유도 효과가 더욱 강화되었습니다.",
   "PANC-1 마우스 이식 모델(xenograft)에서 Sch B 투여는 종양 조직 내 EGFR, AKT, mTOR, HSP90 단백질 발현을 줄이고 종양 성장을 억제했습니다."
  ],
- "last_updated": "2026-11-15",
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/ijms27219996",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13764619",
   "pmid": "43028241"
  },
  "pub_types": [

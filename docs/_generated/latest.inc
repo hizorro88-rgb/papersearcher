@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,242</b><span>누적 수집<br><small>논문·소식 671 · 임상시험 571</small></span></div><div class="ps-stat"><b>+22</b><span>오늘 신규<br><small>갱신 32건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,248</b><span>누적 수집<br><small>논문·소식 677 · 임상시험 571</small></span></div><div class="ps-stat"><b>+6</b><span>오늘 신규<br><small>갱신 31건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-15](_generated/daily/2026/11/15.md)
+최근 수집일: [2026-11-16](_generated/daily/2026/11/16.md)
 
 <a id="nct-nct07565155"></a>
 #### [상동조합결손(HRD)이 있는 췌장암 환자 대상 Lorigerlimab (MGD019) 임상시험](https://clinicaltrials.gov/study/NCT07565155)

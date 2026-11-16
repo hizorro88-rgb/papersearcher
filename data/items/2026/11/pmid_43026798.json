@@ -11,8 +11,9 @@
   "Strzelczyk J"
  ],
  "categories": [
-  "surgery",
-  "diagnosis"
+  "diagnosis",
+  "basic",
+  "surgery"
  ],
  "entities": [],
  "evidence": "observational",
@@ -26,12 +27,16 @@
  ],
  "id": "pmid:43026798",
  "importance": 0.72,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "key_points_ko": [
+  "치료 이력이 없는 췌관선암 환자 153명(근치적 수술 68명, 완화 치료 또는 생검 85명)의 말초 혈액 데이터를 분석했습니다.",
+  "혈액 수치 분석을 통해 분류된 네 군의 중앙 전체 생존기간(OS)은 소진형 1.5개월(22명), 림프구 감소형 4.5개월(12명), T2 저하형 8.0개월(25명), T2 상승형 10.0개월(94명)이었습니다.",
+  "호산구가 유지되는 T2 상승형(T2-high) 군에서 다른 혈액 이상이 적고 가장 양호한 예후를 보였습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/cancers18213477",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13762038",
   "pmid": "43026798"
  },
  "pub_types": [
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43026798/"
  },
- "summary_ko": "INTRODUCTION: Eosinophils have become important therapeutic targets in several allergic diseases. This study aimed to apply a similar approach-using peripheral blood findings to identify features of type 2 (T2) inflammation-to oncology.",
- "summary_source": "excerpt",
+ "summary_ko": "치료 경험이 없는 췌관선암(PDAC) 환자 153명을 대상으로 인공지능 보조 알고리즘인 SAMBA(Simple Algorithm for Blood Morphology Analysis)를 적용하여 말초 혈액 수치 양상을 분석했습니다. 분석 결과에 따라 환자들을 전체 생존기간(OS)과 연관된 네 가지 혈액 표현형으로 분류했습니다. 네 가지 표현형은 소진형(exhausted), 림프구 감소형(lymphopenic), T2 저하형(T2-low), T2 상승형(T2-high)으로 나뉘었으며, 각 군의 생존기간에 뚜렷한 차이가 있었습니다. 연구진은 SAMBA 알고리즘이 면역종양학 분야의 기초 연구를 표준화하고 가속화하는 데 도움이 될 수 있다고 보고했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Simple Algorithm for Blood Morphology Analysis (SAMBA): An Artificial Intelligence-Assisted Approach to Identify Peripheral Blood Phenotypes in a Cohort of Patients with Pancreatic Ductal Adenocarcinoma (PDAC)",
- "title_ko": null,
+ "title_ko": "혈액 형태학 분석 단순 알고리즘(SAMBA): 췌관선암 환자 코호트에서 말초 혈액 표현형을 식별하기 위한 인공지능 보조 접근법",
  "trial": null,
  "type": "paper"
 }

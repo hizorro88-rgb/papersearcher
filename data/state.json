@@ -1413,24 +1413,46 @@
    "new": 22,
    "total": 1242,
    "updated": 0
+  },
+  {
+   "date": "2026-11-16",
+   "llm": {
+    "attempted": 32,
+    "cache_read_tokens": 0,
+    "errors": [],
+    "failed": 0,
+    "input_tokens": 65184,
+    "model": "gemini-3.8-flash",
+    "models_used": {
+     "gemini-3.5-flash-lite": 1,
+     "gemini-3.6-flash": 13,
+     "gemini-3.8-flash": 18
+    },
+    "output_tokens": 21187,
+    "provider": "gemini",
+    "succeeded": 32
+   },
+   "new": 6,
+   "total": 1248,
+   "updated": 0
   }
  ],
  "sources": {
   "clinicaltrials": {
-   "at": "2026-11-15T00:31:55+00:00",
-   "count": 39,
+   "at": "2026-11-16T00:32:12+00:00",
+   "count": 13,
    "error": null,
    "ok": true
   },
   "europepmc": {
-   "at": "2026-11-15T00:31:55+00:00",
-   "count": 0,
-   "error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE%3A%22pancreatic+cancer%22+OR+TITLE%3A%22pancreatic+adenocarcinoma%22+OR+TITLE%3APDAC+OR+TITLE%3A%22pancreatic+ductal%22%29+AND+%28SRC%3APPR%29%29+AND+%28FIRST_PDATE%3A%5B2026-11-12+TO+2026-11-15%5D%29&format=json&resultType=core&pageSize=100&sort=P_PDATE_D+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
-   "ok": false
+   "at": "2026-11-16T00:32:12+00:00",
+   "count": 1,
+   "error": null,
+   "ok": true
   },
   "pubmed": {
-   "at": "2026-11-15T00:31:54+00:00",
-   "count": 64,
+   "at": "2026-11-16T00:32:11+00:00",
+   "count": 53,
    "error": null,
    "ok": true
   }

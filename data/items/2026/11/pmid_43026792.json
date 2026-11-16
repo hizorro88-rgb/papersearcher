@@ -9,8 +9,8 @@
   "Yasuda J"
  ],
  "categories": [
-  "treatment",
   "diagnosis",
+  "treatment",
   "surgery"
  ],
  "entities": [],
@@ -25,12 +25,16 @@
  ],
  "id": "pmid:43026792",
  "importance": 0.66,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "key_points_ko": [
+  "수술 후 ctDNA가 양성으로 검출되는 경우 재발 위험이 높음을 일관되게 보여주나, 음성이라고 해서 잔존 질환이 없다고 확신할 수는 없습니다.",
+  "추적 관찰 기간 동안 새롭게 검출되거나 수치가 상승하는 ctDNA는 영상의학적 재발 확인보다 앞서 나타날 수 있습니다.",
+  "진행성 췌장암에서 연속적인 ctDNA 수치 변화는 치료 반응과 질병 진행을 평가하는 데 유용하지만, 이를 바탕으로 치료 결정을 내리는 것이 환자 예후를 향상시키는지에 대한 전향적 임상시험 근거는 아직 충분하지 않습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/cancers18213471",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13761749",
   "pmid": "43026792"
  },
  "pub_types": [
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43026792/"
  },
- "summary_ko": "BACKGROUND/OBJECTIVES: Circulating tumor DNA (ctDNA) provides molecular information at different stages of the pancreatic ductal adenocarcinoma (PDAC) patient journey, but its clinical value differs according to when and why it is measured. This narrative review examines ctDNA from diagnosis and molecular profiling through neoadjuvant therapy, postoperative molecular residual disease (MRD), surveillance, and dynamic monitoring during systemic therapy, critically assessing the strength and limita…",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌관선암(PDAC) 환자의 진단, 선행치료, 수술 후 미세잔존질환(MRD) 평가, 재발 감시 및 전신 치료 중 동적 모니터링에서 순환 종양 DNA(ctDNA)의 임상적 가치와 한계를 검토한 종설(리뷰)입니다. 국소 질환에서는 혈중 배출량이 적어 진단적 민감도가 낮지만, 수술 후 ctDNA 양성은 재발 위험 증가와 일관되게 연관되어 있습니다. 전이·진행성 질환에서는 반복 측정을 통해 치료 반응과 질병 진행을 파악하는 데 유용한 정보를 제공합니다. 그러나 ctDNA 결과에 따라 치료나 감시 방식을 바꿨을 때 실제 환자의 생존율 등 치료 성적이 개선되는지에 대한 근거는 아직 부족합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Circulating Tumor DNA Across the Patient Journey in Pancreatic Cancer: From Molecular Profiling to Dynamic Disease Monitoring",
- "title_ko": null,
+ "title_ko": "췌장암 환자 여정 전반에서의 순환 종양 DNA: 분자 프로파일링부터 동적 질환 모니터링까지",
  "trial": null,
  "type": "paper"
 }

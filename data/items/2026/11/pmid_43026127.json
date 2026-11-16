@@ -16,7 +16,7 @@
   "drug"
  ],
  "entities": [],
- "evidence": "rct",
+ "evidence": "phase1",
  "first_seen": "2026-11-15",
  "history": [
   {
@@ -26,8 +26,12 @@
   }
  ],
  "id": "pmid:43026127",
- "importance": 0.85,
- "key_points_ko": [],
+ "importance": 0.74,
+ "key_points_ko": [
+  "환자 21명 중 20명(95.2%)에서 수술 전 간동맥 항암치료가 계획대로 성공적으로 투여되었습니다.",
+  "치료 관련 부작용은 1~2등급 간수치 상승 2건으로 모두 처치 없이 호전되었으며, 치료 관련 중대 이상반응은 없었습니다.",
+  "중앙 추적 13.8개월 기준 16명이 생존 중(중앙 OS 미도달)이었고, 중앙 무질병 생존기간(DFS) 및 간 전이 무재발 생존기간(LMFS)은 각각 20.5개월이었습니다."
+ ],
  "last_updated": "2026-11-15",
  "links": {
   "doi": "10.1016/j.hpb.2026.10.013",
@@ -49,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43026127/"
  },
- "summary_ko": "BACKGROUND: Recurrence is common following curative-intent therapy for localized pancreatic ductal adenocarcinoma (PDAC), with the liver representing the most frequent site of relapse. Neoadjuvant hepatic artery (HA) chemotherapy improved outcomes in localized colorectal cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "국소 췌장암(PDAC) 환자 20명을 대상으로 수술 1주일 전에 간동맥(HA)을 통해 floxuridine과 oxaliplatin을 1회 투여하는 선행 치료의 안전성과 실행 가능성을 평가한 전향적 비무작위 연구입니다. 대상자 21명 중 20명(95.2%)에서 간동맥 항암치료가 성공적으로 전달되었습니다. 치료와 관련된 부작용은 1등급 및 2등급의 간수치 상승(transaminitis) 2건에 불과했으며 치료 관련 중대한 이상반응은 관찰되지 않았습니다. 중앙 추적 관찰 13.8개월 시점에서 중앙 무질병 생존기간(DFS)은 20.5개월이었으며 장기 추적 관찰이 진행 중입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "A window-of-opportunity trial testing single-dose neoadjuvant hepatic arterial floxuridine and oxaliplatin for patients with localized pancreatic cancer: analysis of safety, feasibility, and interim oncologic outcomes",
- "title_ko": null,
+ "title_ko": "국소 췌장암 환자에서 수술 전 단회 간동맥 floxuridine 및 oxaliplatin 치료의 안전성, 실행 가능성 및 중간 종양학적 결과 분석",
  "trial": null,
  "type": "paper"
 }

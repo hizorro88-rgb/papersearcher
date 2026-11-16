@@ -31,11 +31,11 @@
   "BxPC-3 세포에서는 5 µM doxorubicin 조건에서 노란색, 빨간색, 검은색 마카 모두 긍정적인 상호작용(Bliss 점수 10.7~12.4)을 보였습니다.",
   "이러한 반응은 caspase-3 활성화, PI3K 단백질 및 지질 대사 관련 단백질(ATGL, ABHD5, PLIN3) 수준의 변화를 동반했습니다."
  ],
- "last_updated": "2026-11-15",
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/molecules31214011",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13765015",
   "pmid": "43029323"
  },
  "pub_types": [

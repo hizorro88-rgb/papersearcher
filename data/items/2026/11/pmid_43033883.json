@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) continues to be a lethal malignancy with limited effective treatment strategies due to modest intrinsic response to systemic chemotherapy. Moreover, the dense, fibrotic stroma and poor vasculature of pancreatic tumors severely restrict drug penetration and therapeutic efficacy. The transcription factor ELF3 acts as a key oncogenic driver that promotes tumor growth, metastasis, and chemoresistance. To address these delivery barriers and enhance therapeutic response, we developed a biomimetic nanoplatform using cancer cell membrane-coated ZIF-8 nanoparticles (CNPs) to co-deliver gemcitabine (GEM) and an ELF3-targeting shRNA (shELF3), aiming to improve tumor-targeting specificity and elucidate the underlying cell death mechanism. Efficient encapsulation of GEM and shRNA ELF3 within a biomimetic nanocarrier was successfully confirmed. In vitro evaluation demonstrated that GEM/shELF3-CNPs activated canonical caspase-3/gasdermin E (GSDME)-dependent pyroptosis, resulting in markedly enhanced cytotoxicity in 6606 PDA cells. Furthermore, in vivo administration yielded superior tumor accumulation, potent tumor growth suppression, and significantly prolonged survival in the murine PDAC model, alongside favorable biosafety profiles. Our findings demonstrate that combining ELF3 silencing with gemcitabine delivery via biomimetic nanocarriers presents a promising synergistic strategy to sensitize pancreatic tumors and enhance PDAC therapeutic outcomes. The graphical representation of the study is shown in Fig. 1.",
+ "authors": [
+  "Iqbal Z",
+  "Zhang X",
+  "Chen Y",
+  "Zhang J",
+  "Huang Y",
+  "El-Aty AMA",
+  "Zhang X",
+  "Li X"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43033883",
+ "importance": 0.64,
+ "key_points_ko": [
+  "GEM/shELF3-CNPs 나노입자는 caspase-3 및 GSDME 의존적 파이롭토시스를 유도하여 췌장암 세포에 대한 세포독성을 크게 높였습니다.",
+  "췌장암 마우스 모델에서 종양 축적 증가, 종양 성장 억제 및 유의미한 생존기간 연장 효과와 우수한 생체 안전성을 입증했습니다.",
+  "ELF3 유전자 억제와 gemcitabine 병용 전달은 췌관선암의 항암제 감수성을 향상시키는 잠재적 치료 전략으로 제시되었습니다."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.1016/j.phrs.2026.109749",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43033883"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-14",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmacol Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033883/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)의 두꺼운 기질과 약물 저항성을 극복하기 위해 암세포막 코팅 나노입자(CNP)를 개발한 전임상 연구입니다. 연구진은 해당 나노전달체에 항암제 gemcitabine(젬시타빈)과 암 유발 전사인자 ELF3를 억제하는 shRNA를 함께 탑재했습니다. 세포 실험에서 이 복합 나노입자는 caspase-3/GSDME 경로를 통한 세포사멸(파이롭토시스, pyroptosis)을 유도하여 췌장암 세포를 효과적으로 사멸시켰습니다. 또한 췌장암 동물 모델(마우스) 투여 결과, 종양 내 높은 약물 축적률과 강력한 종양 성장 억제 및 생존기간 연장 효과를 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting ELF3 with Biomimetic Nanotherapy Sensitizes PDAC to Gemcitabine via GSDME-mediated Pyroptosis",
+ "title_ko": "생체모사 나노치료제를 통한 ELF3 표적화로 GSDME 매개 파이롭토시스를 유도하여 췌장암의 젬시타빈 감수성을 높이는 전략",
+ "trial": null,
+ "type": "paper"
+}

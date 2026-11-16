@@ -1,0 +1,65 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Early recurrence remains prevalent in pancreatic ductal adenocarcinoma (PDAC) despite multimodality treatment. Circulating tumor DNA (ctDNA) is an emerging prognostic biomarker showing promise in detecting minimal residual disease (MRD). Using a high-sensitivity digital droplet PCR (ddPCR) assay, we evaluated  <italic>KRAS-</italic>  mutant ctDNA as a marker of MRD associated with early recurrence (< 12 months) in patients with localized PDAC receiving neoadjuvant chemotherapy (NAC), surgery, and adjuvant chemotherapy (AC).  <italic>KRAS</italic>  G12D, G12V, and G12R mutations found in cell-free DNA were detected and quantified with maximum variant allele frequency (mVAF). Of 130 enrolled patients, 55 completed NAC and resection. ctDNA was detected a median of 7.6 months before imaging-confirmed recurrence. Postoperative detection  <italic>KRAS</italic>  ctDNA was independently associated with worse recurrence-free survival (RFS) (aHR 3.30, 95% CI 1.33–8.21, p = 0.010), and ctDNA clearance after NAC and surgery was independently associated with improved RFS (aHR 0.23, 95% CI 0.06–0.90, p = 0.035). Median cohort mVAF was 0.03%; patients with mVAF above the median had shorter RFS (12.8 vs. 26.3 months) and more frequent early recurrence (p = 0.027). ctDNA-positive patients who received AC remained with worse outcomes than ctDNA-negative patients, suggesting persistent chemotherapy resistance. These data indicated that persistent  <italic>KRAS</italic>  ctDNA after NAC and surgery reflects MRD and support sensitive postoperative ctDNA testing to stratify high risk patients for early recurrence, guiding quantitative, longitudinal monitoring. Future studies in adaptive treatment settings may further extend these findings toward ctDNA-guided clinical decision-making.  </p>",
+ "authors": [
+  "Shen C",
+  "Sridalla K",
+  "Cox M",
+  "Vitello DJ",
+  "Horowitz A",
+  "Chibucos A",
+  "Rengaraju V",
+  "Wells A"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-16",
+ "history": [
+  {
+   "date": "2026-11-16",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-10942935/v1",
+ "importance": 0.66,
+ "key_points_ko": [
+  "ctDNA는 영상학적 검사로 재발이 확인되기 중앙값 7.6개월 전에 먼저 검출되었습니다.",
+  "수술 후 KRAS ctDNA가 검출된 경우 무재발 생존기간(RFS) 악화와 독립적으로 연관되었습니다(위험비 3.30, p=0.010).",
+  "선행 항암치료 및 수술 후 ctDNA가 제거된 환자는 무재발 생존기간이 유의하게 향상되었습니다(위험비 0.23, p=0.035).",
+  "혈중 변이 대립유전자 빈도(mVAF)가 중앙값(0.03%)보다 높은 환자는 무재발 생존기간이 12.8개월로, 낮은 환자의 26.3개월에 비해 짧았습니다(p=0.027)."
+ ],
+ "last_updated": "2026-11-16",
+ "links": {
+  "doi": "10.21203/rs.3.rs-10942935/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1366618"
+ },
+ "summary_ko": "국소 췌관선암(PDAC) 환자를 대상으로 수술 전 선행 항암치료(NAC) 및 수술 후 순환 종양 DNA(ctDNA) 내 KRAS 변이를 측정하여 미세 잔존 질환(MRD)과 조기 재발 간의 연관성을 분석한 연구입니다. 등록된 130명의 환자 중 선행 항암치료와 수술을 모두 마친 55명을 분석했습니다. 혈액 내 ctDNA 검출은 영상 검사로 재발이 확인되기 중앙값 7.6개월 전에 조기 발견되었습니다. 수술 후 KRAS ctDNA가 지속적으로 검출된 환자는 재발 위험이 유의하게 높았으며, 치료 후 ctDNA가 제거된 환자는 재발 없는 생존기간이 개선되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Quantitative KRAS ctDNA Dynamics Predict Early Recurrence After Neoadjuvant Therapy and Surgery in Pancreatic Cancer",
+ "title_ko": "국소 췌장암에서 수술 전 선행 항암치료 및 수술 후 KRAS 순환 종양 DNA의 정량적 변화를 통한 조기 재발 예측",
+ "trial": null,
+ "type": "preprint"
+}

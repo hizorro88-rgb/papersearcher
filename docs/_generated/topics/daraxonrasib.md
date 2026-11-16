@@ -66,12 +66,18 @@ search:
 
 ---
 <a id="pmid-43026840"></a>
-#### [Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/43026840/)
-`논문` `종설` `치료 전반` `신약·치료제` `진단·조기발견` · 2026-11-02 · PubMed · Cancers (Basel) · 중요도 0.68
+#### [RAS 억제 시너지: 췌장암에서 진화하는 표적 병용 치료 전략](https://pubmed.ncbi.nlm.nih.gov/43026840/)
+<small>Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer</small>
 
-Pancreatic ductal adenocarcinoma (PDAC), the most common histological subtype of pancreatic cancer, remains one of the most lethal solid malignancies, with most patients presenting with advanced disease and limited therapeutic options. Activating KRAS mutations are present in over 90% of PDACs and drive tumor initiation, progression, metabolic reprogramming, and immune evasion, making KRAS a central therapeutic target.
+`논문` `종설` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-11-02 · PubMed · Cancers (Basel) · 중요도 0.68
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026840/) · [DOI](https://doi.org/10.3390/cancers18213519) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026840)</small>
+췌관선암(PDAC)의 90% 이상에서 종양 진행과 면역 회피를 유도하는 KRAS 변이가 나타납니다. 과거 공략이 어렵다고 여겨졌던 RAS는 돌연변이 선택적 억제제와 범-RAS(pan-RAS) 억제제 등의 개발로 치료 표적으로 발전했습니다. 전이성 췌장암에서 daraxonrasib(다락소나십)의 미국 식품의약국(FDA) 승인은 RAS 차단의 임상적 유효성을 입증했습니다. KRAS 표적 치료제와 표준 항암화학요법의 병용 요법은 고무적인 반응률을 보였으며 현재 여러 3상 임상시험이 진행되고 있습니다.
+
+- 췌관선암 환자의 90% 이상에서 종양 발생과 성장을 이끄는 활성화된 KRAS 변이가 나타납니다.
+- 전이성 췌장암에 대한 daraxonrasib(다락소나십)의 FDA 승인은 췌관선암에서 최초의 규제 당국 승인 사례입니다.
+- KRAS 표적 치료제와 표준 항암화학요법의 병용 요법이 고무적인 반응률을 보여 다수의 3상 임상시험으로 이어졌습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026840/) · [DOI](https://doi.org/10.3390/cancers18213519) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13761501/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026840)</small>
 
 ---
 <a id="pmid-42963543"></a>

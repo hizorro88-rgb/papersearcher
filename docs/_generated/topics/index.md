@@ -26,4 +26,4 @@ search:
 | [zolbetuximab](zolbetuximab.md) | 약물 | 3 | 2026-11-05 |
 | [Whipple](whipple.md) | 시술·수술 | 41 | 2026-11-11 |
 | [distal pancreatectomy](distal-pancreatectomy.md) | 시술·수술 | 17 | 2026-11-11 |
-| [SBRT](sbrt.md) | 시술·수술 | 26 | 2026-11-15 |
+| [SBRT](sbrt.md) | 시술·수술 | 26 | 2026-11-16 |

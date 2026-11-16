@@ -11,6 +11,7 @@
   "Kojima H"
  ],
  "categories": [
+  "surgery",
   "treatment"
  ],
  "entities": [],
@@ -25,7 +26,11 @@
  ],
  "id": "pmid:43025191",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "단독 폐 전이 절제술을 받은 18명의 환자에서 3년 전체 생존율은 91.7%, 3년 무재발 생존율(RFS)은 63.4%였습니다.",
+  "췌장암 수술 후 폐 전이가 발견되기까지의 중앙 무병 기간은 35개월(범위 11~66개월)이었습니다.",
+  "초기 원발 췌장암에서 림프절 전이가 없었던 환자의 3년 무재발 생존율(88.9%)은 림프절 전이가 있었던 환자(35.6%)에 비해 유의하게 높았습니다(p=0.043)."
+ ],
  "last_updated": "2026-11-15",
  "links": {
   "doi": "10.1016/j.ejso.2026.112346",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43025191/"
  },
- "summary_ko": "INTRODUCTION: Pulmonary metastases from pancreatic cancer tend to occur later than other patterns of disease recurrence. The role of pulmonary metastasectomy remains unclear, particularly regarding patient selection and the influence of underlying tumor biology.",
- "summary_source": "excerpt",
+ "summary_ko": "췌장암 근치 수술 후 다른 부위 재발 없이 폐에만 단독 전이가 발생하여 완전 절제술을 받은 18명의 환자를 후향적으로 분석한 연구입니다. 췌장암 수술 후 폐 전이 발생까지의 기간(무병 기간) 중앙값은 35개월이었습니다. 폐 전이절제술 후 3년 전체 생존율은 91.7%, 3년 무재발 생존율(RFS)은 63.4%로 양호한 결과를 보였습니다. 특히 초기 췌장암 수술 당시 림프절 전이가 없었던 환자에서 폐 절제 후 무재발 생존율이 유의하게 더 높았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Pulmonary metastasectomy for isolated pulmonary metastases from pancreatic cancer: Patient selection and outcomes in a single-center retrospective cohort",
- "title_ko": null,
+ "title_ko": "췌장암의 단독 폐 전이에 대한 폐 전이절제술: 단일 기관 후향적 코호트의 환자 선별 및 예후",
  "trial": null,
  "type": "paper"
 }

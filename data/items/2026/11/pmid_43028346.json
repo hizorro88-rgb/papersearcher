@@ -11,8 +11,8 @@
   "Ari F"
  ],
  "categories": [
-  "treatment",
-  "diagnosis"
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "observational",
@@ -26,12 +26,16 @@
  ],
  "id": "pmid:43028346",
  "importance": 0.7,
- "key_points_ko": [],
- "last_updated": "2026-11-15",
+ "key_points_ko": [
+  "단일 기관에서 수술 및 보조 항암치료를 받은 췌관선암 환자 50명의 종양 조직을 정량적 실시간 PCR로 분석했습니다.",
+  "종양 조직 내 miR-143의 높은 발현은 국소 재발과 연관되었고, miR-29b의 높은 발현은 무질병 생존기간 단축과 관련이 있었습니다.",
+  "선편평세포암(adenosquamous) 조직형은 무질병 생존기간(DFS) 및 전체 생존기간(OS) 단축과 독립적으로 연관되었습니다."
+ ],
+ "last_updated": "2026-11-16",
  "links": {
   "doi": "10.3390/diagnostics16213473",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13762054",
   "pmid": "43028346"
  },
  "pub_types": [
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43028346/"
  },
- "summary_ko": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) carries one of the worst prognoses among solid tumors, and biomarkers that complement standard pathological variables in patients undergoing resection followed by adjuvant chemotherapy are still lacking. Here, we examined whether tumor expression of 10 selected microRNAs (miRNAs) is associated with recurrence patterns and survival in this clinical setting.",
- "summary_source": "excerpt",
+ "summary_ko": "수술 후 보조 항암화학요법을 받은 췌관선암(PDAC) 환자 50명을 대상으로 10가지 마이크로RNA(miRNA) 발현과 재발 및 생존율의 연관성을 후향적으로 분석한 연구입니다. 종양 조직 내에서 miR-143 발현이 높을수록 국소 재발 위험과 연관이 있었습니다. 또한 miR-29b 발현이 높을수록 무질병 생존기간(DFS)이 유의하게 단축되었습니다. 연구진은 이러한 탐색적 결과가 더 큰 규모의 독립적인 환자 코호트에서 검증될 필요가 있다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Tissue miR-143 and miR-29b Expression as Prognostic Biomarkers in Patients with Resected Pancreatic Ductal Adenocarcinoma Receiving Adjuvant Chemotherapy",
- "title_ko": null,
+ "title_ko": "수술 후 보조 항암치료를 받은 췌관선암 환자에서 예후 바이오마커로서 조직 내 miR-143 및 miR-29b 발현",
  "trial": null,
  "type": "paper"
 }

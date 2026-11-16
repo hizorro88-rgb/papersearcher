@@ -44,12 +44,19 @@ search:
 ## 타임라인 (7)
 
 <a id="pmid-43026914"></a>
-#### [Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers](https://pubmed.ncbi.nlm.nih.gov/43026914/)
+#### [이탈리아 임상 현장에서의 췌장암 체부 정위 방사선 치료(SBRT): 17개 기관 473명 환자 다기관 분석](https://pubmed.ncbi.nlm.nih.gov/43026914/)
+<small>Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers</small>
+
 `논문` `관찰연구` `치료 전반` · 2026-11-09 · PubMed · Cancers (Basel) · 중요도 0.73
 
-BACKGROUND/OBJECTIVES: Pancreatic adenocarcinoma remains one of the most lethal malignancies, with limited options for durable local control. Stereotactic body radiotherapy (SBRT) has emerged as a promising modality, particularly with the advent of MR-guided radiotherapy (MRgRT) and the possibility of delivering ablative dose levels.
+이탈리아 17개 병원에서 비전이성 췌장암 환자를 주로 포함한 473명을 대상으로 체부 정위 방사선 치료(SBRT)의 실제 치료 결과와 안전성을 후향적으로 분석했습니다. 대다수의 환자가 방사선 치료 전 항암화학요법을 받았으며 가장 흔하게 사용된 치료법은 5회에 걸쳐 총 45Gy를 조사하는 방식이었습니다. 치료 결과 질병 조절률은 77%였고 중앙 전체 생존기간은 18.4개월, 중앙 무진행 생존기간(PFS)은 10.2개월로 나타났습니다. 생물학적 유효선량(BED10)이 80Gy 이상인 고용량 치료군에서 종양 반응률이 더 우수했으며, 3등급 이상의 중증 부작용 발생률은 3%대로 안전성이 확인되었습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026914/) · [DOI](https://doi.org/10.3390/cancers18213594) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026914)</small>
+- 전체 환자 473명에서 질병 조절률(DCR)은 77%(완전 반응 5%, 부분 반응 27.7%, 안정 병변 44.3%)를 기록했습니다.
+- 중앙 전체 생존기간(OS)은 18.4개월, 중앙 무진행 생존기간(PFS)은 10.2개월이었습니다.
+- 고용량 조사군(BED10 ≥ 80Gy)은 저용량 조사군 대비 더 높은 부분 반응률(38% 대 19%)과 낮은 질병 진행률(12% 대 23%)을 보였습니다.
+- 3등급 이상의 중증 급성 부작용은 3.7%, 후기 부작용은 3.0%로 양호한 안전성을 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026914/) · [DOI](https://doi.org/10.3390/cancers18213594) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13761440/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026914)</small>
 
 ---
 <a id="pmid-42986373"></a>
