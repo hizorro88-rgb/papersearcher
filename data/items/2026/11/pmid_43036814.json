@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal solid tumor with limited responsiveness to chimeric antigen receptor (CAR) T cell therapy. A major challenge is antigen heterogeneity, which allows antigen-low or antigen-negative tumor cells to escape immune pressure. Here, we identified mesothelin (MSLN) and NKG2D ligands (NKG2DLs) as a complementary antigen pair in PDAC, showing frequent but discordant expression in clinical specimens. Based on this, we generated single-target, tandem, and dual CAR constructs against MSLN and/or NKG2DLs and compared their antitumor activity. Among them, an asymmetric split-costimulatory dual-CAR, MSLN.BBz/NKG2D.28, showed the best overall performance. MSLN.BBz/NKG2D.28 CAR-T cells efficiently eliminated single-positive, double-positive, and mixed-antigen tumor populations, sustained serial killing, produced higher effector cytokines, and preserved a less exhausted, more memory-like phenotype in vitro. In vivo, MSLN.BBz/NKG2D.28 CAR-T achieved stronger tumor control, greater intratumoral accumulation, improved persistence, and prolonged survival in pancreatic tumor models, including those mimicking antigen heterogeneity. Transcriptomic, biochemical, and pharmacologic analyses further identified IL-2-STAT5 signaling as an important pathway supporting the enhanced fitness and antitumor activity of this construct. Together, these findings show that dual targeting alone is insufficient; the arrangement of receptor inputs and costimulatory signals strongly influences therapeutic output. This study identifies MSLN.BBz/NKG2D.28 as a promising dual-CAR strategy for PDAC.",
+ "authors": [
+  "Saliu MA",
+  "Salisu MD",
+  "Suleiman RB",
+  "Liang W",
+  "Ibrahim A",
+  "Dalhatu A",
+  "Adeshakin AO",
+  "Babarinde IA"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43036814",
+ "importance": 0.54,
+ "key_points_ko": [
+  "메소텔린(MSLN)과 NKG2D 리간드(NKG2DLs)를 조합한 비대칭 분할 공동자극 이중 CAR-T(MSLN.BBz/NKG2D.28)가 우수한 항암 성능을 보였습니다.",
+  "실험실(in vitro) 및 동물(in vivo) 췌장암 모델에서 항원 이질성을 가진 종양에 대해 강화된 종양 억제력과 연장된 생존율을 나타냈습니다.",
+  "이러한 기능 향상 및 면역세포 지속성에는 IL-2-STAT5 신호 전달 경로가 관여함을 규명했습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1016/j.omton.2026.201349",
+  "nct": [],
+  "pmcid": "PMC13770624",
+  "pmid": "43036814"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Ther Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036814/"
+ },
+ "summary_ko": "췌관선암(PDAC)에서 키메라 항원 수용체(CAR)-T 세포 치료의 효과를 제한하는 주요 원인인 종양 항원 이질성을 극복하기 위한 전임상 연구입니다. 연구진은 췌장암 검체에서 상호보완적으로 발현되는 메소텔린(MSLN)과 NKG2D 리간드(NKG2DLs)를 발굴하고, 이를 표적으로 하는 불균등 분할 공동자극 이중 CAR인 MSLN.BBz/NKG2D.28을 제작했습니다. 실험실 및 동물 모델 평가에서 해당 CAR-T 세포는 단일 또는 혼합 항원 종양 세포를 효과적으로 제거하고 체내 지속성과 생존 기간을 향상시켰습니다. 이러한 활성 증대에는 IL-2-STAT5 신호 전달 경로가 중요한 역할을 하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "An asymmetric split-costimulatory MSLN.BBz/NKG2D.28 dual CAR-T design enhances activity against antigenically heterogeneous pancreatic cancer",
+ "title_ko": "불균등 분할 공동자극 MSLN.BBz/NKG2D.28 이중 CAR-T 설계를 통한 항원 이질성 췌장암에 대한 항암 활성 증대",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,123 @@
+{
+ "abstract": "There is a growing number of patients diagnosed with gastrointestinal cancers who are also simultaneously being treated with GLP-1 Receptor Agonists (RA)s. To date, no clinical trial data exists to establish safety and/or feasibility with use of GLP-1 RAs during chemotherapy in the metastatic setting. The goal of this clinical trial is to evaluate the safety, tolerability, preliminary efficacy, and correlative analyses of combining GLP-1 RAs with standard chemotherapy in patients with metastatic pancreatic, colorectal, or hepatocellular cancers in the first-line setting.\n\nThe United States is facing a growing epidemic of obesity and type 2 diabetes, with over 42% of adults now classified as obese and nearly 20% of children affected by obesity. This rise has been driven by a combination of poor dietary habits, sedentary lifestyles, and social and economic factors that limit access to healthy food and healthcare. Type 2 diabetes, closely linked to obesity, affects more than 37 million Americans, with an additional 96 million adults estimated to have prediabetes. These conditions not only contribute to significant personal health burdens but also cost the U.S. economy over $370 billion annually. Disparities are evident, with higher rates among Black, Hispanic, Native American, low-income, and rural populations, largely due to systemic barriers and social determinants of health. In response, public health initiatives have promoted better nutrition, physical activity, and early intervention programs. New medications, such as GLP-1 receptor agonists, offer promising tools for weight loss and diabetes management, though their accessibility remains limited by cost and insurance coverage.\n\nPrescription data show GLP 1 RA use has exploded in recent years. For example, GLP 1 prescribing volume in the U.S. roughly tripled from early 2020 to late 2022, and annual spending jumped from $13.7 billion in 2018 to $71.7 billion by 2023 (a 62% increase in just 2022-23). Semaglutide products (Ozempic/WEGOVY) still account for the largest share of use, but Lilly's tirzepatide (Mounjaro/Zepbound) has gained market share rapidly. Uptake is broadening across age groups. Surveys indicate \\~19% of adults ages 50-64 and 8% of those ≥65 have tried GLP 1 drugs (mainly for diabetes) and prescribing to adolescents with obesity surged \\~300% in 2023 (albeit reaching only \\~0.5% of obese youth). Looking ahead, analysts project continued robust growth. One forecast estimates U.S. GLP 1 weight loss drug sales rising from about $10 B in 2024 to \\~$37 B by 2030 (≈19% CAGR). Globally, GLP 1 market revenue (diabetes + obesity) could approach $130 B by 2030, with the leading agents (semaglutide and tirzepatide lines) alone generating on the order of $100 B by decade's end. This outlook reflects expanding approved uses (e.g. heart disease, potential NASH indications) and large unmet need (only \\~10-12% of U.S. adults have used GLP 1s despite over half of adults being overweight or obese). Taken together, the data indicate an unprecedented growth trajectory for GLP 1 RAs, with rapid year over year prescription gains and forecasts of very high revenues and market dominance through 2030.\n\nSimilarly, pancreatic cancer and hepatocellular carcinoma are also associated with modifiable risk factors including obesity, dietary factors, and diabetes. Consequently, there is a growing number of patients diagnosed with GI cancers who are also simultaneously being treated with GLP-1 RAs. To date, no clinical trial data exists to establish safety and/or feasibility with use of GLP-1 RAs during chemotherapy in the metastatic setting. This highlights an unmet need to investigate the safety of GLP-1 RA use during chemotherapy treatment for patients with metastatic colorectal cancer, pancreatic cancer, and hepatocellular carcinoma. Furthermore, emerging evidence supports investigation of GLP-1 RAs on metabolic modulation, insulin resistance reduction, and potential anti-inflammatory effects from GLP-1 RAs in oncology settings. Both cancer types may benefit from adjunctive metabolic therapy, particularly in patients at risk of sarcopenia, cachexia, or insulin resistance.\n\nThis trial aims to investigate the safety, tolerability, and efficacy of GLP-1 receptor agonist treatment in combination with standard of care (SOC) chemotherapy in patients with metastatic pancreatic, colorectal, or hepatocellular cancers in the first-line setting.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07627191",
+ "importance": 0.84,
+ "key_points_ko": [
+  "전이성 췌장암 환자에게 1차 표준 치료(mFOLFIRINOX)와 GLP-1 작용제(세마글루타이드)를 병용하는 초기 1상 연구입니다.",
+  "체질량지수(BMI) 25 kg/m² 이상인 과체중 또는 비만 환자를 대상으로 안전성과 내약성을 중점 평가합니다.",
+  "전이성 질환에 대해 이전 전신 항암치료를 받은 적이 없어야 하며, 인슐린 투여 중이거나 악액질이 있는 환자는 제외됩니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07627191"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:EARLY_PHASE1"
+ ],
+ "published_at": "2026-06-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Arizona",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07627191"
+ },
+ "summary_ko": "비만 및 당뇨 환자에서 널리 쓰이는 GLP-1 수용체 작용제(세마글루타이드, semaglutide)를 전이성 소화기암의 1차 표준 항암치료와 병용했을 때의 안전성과 타당성을 평가하는 초기 1상 임상시험입니다. 전이성 췌장암 코호트의 경우 mFOLFIRINOX 표준 항암 화학요법과 병용하여 투여합니다. 참여 대상은 체질량지수(BMI)가 25 kg/m² 이상이고 이전에 전이성 질환으로 항암치료를 받지 않은 성인 환자 30명입니다. 대사 조절, 인슐린 저항성 완화 및 항염증 효과가 표준 치료에 미치는 영향과 안전성을 확인하는 것을 목표로 합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "GLP1 receptor agonists",
+  "gastrointestinal cancer"
+ ],
+ "title": "GLP-1 RA Plus SOC Treatment in First-line, Metastatic Pancreatic, Colorectal, or Hepatocellular Cancer",
+ "title_ko": "전이성 췌장암·대장암·간암의 1차 표준 치료와 GLP-1 유사체 병용 요법 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer",
+   "Colorectal Cancer",
+   "Hepatocellular Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "UACC-IIT@uacc.arizona.edu",
+    "name": "Rachel EB Jarrett, MPH",
+    "phone": "5206260375"
+   },
+   {
+    "email": "priscaz@arizona.edu",
+    "name": "Prisca Zimmerman",
+    "phone": "520-626-2548"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상이며 병리학적으로 확진된 췌장 선암종\n• 완치 목적의 치료가 불가능한 전이성 질환\n• RECIST v1.1 기준 측정 가능한 병변 보유\n• 전이성 질환에 대해 1차 표준 항암화학요법(mFOLFIRINOX) 치료 적격 환자 (수술 전후 보조요법 후 6개월 이상 경과하여 재발한 경우는 참여 가능)\n• ECOG 수행능력 점수 0 또는 1점\n• 체질량지수(BMI) 25 kg/m² 이상\n• 적절한 장기 기능 및 유전자 분석을 위한 보관 종양 조직 제출 가능 환자\n\n제외 기준:\n• 전이성 또는 절제 불가능 질환에 대해 이전에 세포독성 항암제나 생물학적 제제 치료를 받은 경우\n• 악액질(cachexia)이 있거나 체질량지수(BMI) 25 kg/m² 미만인 경우\n• 인슐린 치료를 받고 있거나 당뇨병성 망막병증 병력이 있는 경우\n• 갑상선 수질암(MTC) 또는 제2형 다발성 내분비선종증(MEN2)의 본인 또는 가족력\n• 세마글루타이드(semaglutide)에 중대한 과민 반응 병력이 있는 경우\n• 치료되지 않거나 불안정한 뇌전이\n• 조절되지 않는 심혈관 질환 또는 고혈압",
+  "eligibility_text": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of pancreatic adenocarcinoma or colorectal adenocarcinoma. Previous tumor tissue testing is acceptable. Please refer to the \"additional HCC cohort criteria\" below.\n* The subject has disease that is not amenable to curative-intent management (e.g., oligometastatic disease)\n* Measurable disease per RECIST v1.1 as determined by the investigator\n* Patients must be appropriate candidates for first-line, SOC treatment.\n\n  * SOC treatment as defined by NCCN® guidelines or institutional standard is allowable, however, options restricted to:\n\n    * Colorectal: FOLFOX or FOLIFIRI +/- bevacizumab\n    * Pancreatic: mFOLFIRINOX\n    * HCC: Tremelimumab/Durvalumab\n  * Patients are eligible who received prior perioperative chemotherapy for curative intent treatment and recurred ≥ 6 months since last dose of chemotherapy.\n* ≥ 18 years old on day of consent\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate archival frozen or fixed tissue available from primary or metastatic site for genotypic analysis (at least 15 unstained slides and/or tumor block)\n* Adequate hematologic and organ function laboratory values as follows:\n\n  * The ANC ≥ 1500/mm3 without colony stimulating factor support;\n  * Platelets ≥ 75,000/mm3;\n  * Hemoglobin ≥ 9 g/dL;\n  * Bilirubin ≤ 1.5 ´ the ULN. For subjects with known Gilbert's disease, bilirubin ≤ 3.0 mg/dL;\n  * Serum albumin ≥ 2.8 g/dl;\n  * ALT and AST ≤ 3.0 ´ ULN;\n  * Serum creatinine ≤ 1.5 ´ ULN or creatinine clearance (CrCl) ≥ 40 mL/min. For creatinine clearance estimation, the Cockcroft and Gault equation should be used:\n\n    * Male: CrCl (mL/min) = (140 - age) × wt (kg) / (serum creatinine × 72);\n    * Female: Multiply above result by 0.85;\n* The subject is capable of understanding and complying with the protocol requirements and has signed the informed consent document\n* Sexually active subjects (men and women) must agree to use medically accepted barrier methods of contraception (eg, male or female condom) during the study and for 4 months after the last dose of study drug(s), even if oral contraceptives are also used. All subjects of reproductive potential must agree to use both a barrier method and a second method of birth control or practice abstinence during the study and for 4 months after the last dose of study drug(s);\n\nAdditional Inclusion Criteria for HCC Cohort ONLY:\n\n* Histologically or radiologically confirmed hepatocellular carcinoma (per AASLD/EASL criteria)\n* Unresectable or advanced HCC not amenable to curative surgery or locoregional therapy.\n* Barcelona Clinic Liver Cancer (BCLC) stage B or C.\n* Child-Pugh Score Class A; or Child-Pugh Class B7 or B8 at discretion of treating physician\n* Patients with HBV infection, characterized by positive hepatitis B surface antigen (HBsAg) and/or hepatitis B core antibodies (anti-HBcAb) with detectable HBV deoxyribonucleic acid (DNA) (≥10 IU/mL or above the limit of detection per local or central lab standard), must be treated with antiviral therapy, as per institutional practice to ensure adequate viral suppression (HBV DNA \\<2000 IU/mL) before enrolment. Patients must remain on antiviral therapy for the duration of their participation in the EAP and for 6 months after the last dose of EAP medication. Patients who test positive for anti-hepatitis B core (HBc) with undetectable HBV DNA (\\<10 IU/mL or under the limit of detection per local or central lab standard) do not require anti-viral therapy before enrolment. These participants will be tested at every cycle to monitor HBV DNA levels and initiate anti-viral therapy if HBV DNA is detected (≥10 IU/mL or above the limit of detection per local or central lab standard). HBV DNA detectable patients must initiate and remain on anti-viral therapy for time they are on the EAP and for 6 months after the last dose of EAP medication.\n\n  o Note: Testing required for subjects with a known history otherwise not required.\n* Patients with HCV infection must have confirmed diagnosis of HCV characterized by the presence of detectable HCV ribonucleic acid (RNA) or anti-HCV antibody upon enrolment (management of this disease is per local institutional practice).\n\nExclusion Criteria\n\n* The subject has received cytotoxic chemotherapy (including investigational cytotoxic chemotherapy) or biologic agents (eg, cytokines or antibodies) for metastatic and/or unresectable disease.\n* BMI \\< 25 kg/m2\n* For colorectal cancer only - Microsatellite instability high (MSI-H) or mismatch repair deficient (dMMR) tumors.\n* For colorectal cancer only - BRAF V600E mutant tumors.\n* A personal or family history of medullary thyroid cancer (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN2).\n* A prior hypersensitivity reaction to semaglutide or any of the excipients in WEGOVY®. Serious hypersensitivity reaction, including anaphylaxis and angioedema, have been reported with WEGOVY®.\n* Cachexia\n* Subjects on insulin.\n* Subjects with a history of diabetic retinopathy\n* Known brain metastases or cranial epidural disease unless adequately treated with radiotherapy and/or surgery (including radiosurgery) and stable for at least 4 weeks before the first dose of study treatment. Eligible subjects must be neurologically asymptomatic and without corticosteroid treatment at the time of the start of study treatment\n* The subject has uncontrolled, significant intercurrent or recent illness including, but not limited to, the following conditions:\n\n  o Cardiovascular disorders including:\n  * For patients being considered for bevacizumab (or bevacizumab biosimilar) only:\n* Concurrent uncontrolled hypertension defined as sustained blood pressure (BP) \\> 150 mm Hg systolic or \\> 100 mm Hg diastolic despite optimal antihypertensive treatment within 7 days of the first dose of study treatment;\n* thromboembolic event requiring therapeutic anticoagulation (Note: subjects with a venous filter (eg, vena cava filter) within 6 months before the first dose of study treatment.\n\n  * Any of the following within 6 months before the first dose of study treatment:\n* unstable angina pectoris;\n* clinically-significant cardiac arrhythmias;\n* stroke (including transient ischemic attack (TIA), or other ischemic event);\n* myocardial infarction;\n\n  * GI disorders particularly those associated with a high risk of perforation or fistula formation including:\n\n    * Unresolved abdominal fistula, GI perforation, bowel obstruction, intra-abdominal abscess.\n    * Uncontrolled nausea, vomiting, or abdominal pain.\n  * Other clinically significant disorders that would preclude safe study participation\n* Major surgery within 8 weeks before the first dose of study treatment. Subjects with clinically relevant ongoing complications from prior surgery are not eligible.\n* Females who are known or suspected to be pregnant or lactating. Women of childbearing potential must have a negative serum pregnancy test result within screening.\n* Female patients planning on becoming pregnant while on study.\n* Male subjects with a pregnant partner who are unwilling to practice abstinence or use a condom during treatment.\n* Male subjects unwilling to abstain from donating sperm during treatment.\n* Inability to comply with self-administration of GLP-1 RA subcutaneous injections.\n* Subject has known sensitivity to any of the products or components to be administered during dosing.\n* Concurrent use of other semaglutide containing products or any other GLP-1 receptor agonist.\n* Diagnosis of another malignancy within 2 years before the first dose of study treatment, except for superficial skin cancers, or localized, low grade tumors deemed cured and not treated with systemic therapy.\n* Subject likely to not be available to complete all protocol-required study visits or procedures and/or to comply with all required study procedures to the best of the subject and investigator's knowledge.\n* History or evidence of any other clinically significant disorder, condition or disease that in the opinion of the investigator, if consulted, would pose a risk to subject safety or interfere with the study evaluation, procedures, or completion.\n\nAdditional Exclusion Criteria for HCC Cohort ONLY:\n\n* Child-Pugh Score Class B9; or Child-Pugh Class C\n* Radiotherapy treatment to more than 30% of the bone marrow or with a wide field of radiation within 28 days of the first dose of EAP treatments.\n* History of allogenic organ transplantation (e.g., liver transplant).\n* History of hepatic encephalopathy within the past 12 months or requirement for medications to prevent or control encephalopathy (e.g., no lactulose, rifaximin, etc if used for purposes of hepatic encephalopathy.\n* Clinically meaningful ascites, defined as any ascites requiring non-pharmacologic intervention (e.g., paracentesis) to maintain symptomatic control, within 2 months before the first EAP treatment dose. Patients on stable doses of diuretics for ascites for ≥2 months are eligible.\n* Patients with main portal vein thrombosis (i.e., thrombosis in the main trunk of the portal vein, with or without blood flow) on baseline imaging.\n* Active or previously documented autoimmune or inflammatory disorders (including inflammatory bowel disease \\[e.g., colitis or Crohn's disease\\], diverticulitis \\[except for diverticulosis\\], systemic lupus erythematosus, Sarcoidosis syndrome, or Wegener syndrome \\[granulomatosis with polyangiitis, Graves' disease, rheumatoid arthritis, hypophysitis, uveitis, etc\\]). Patients without active disease in the last 5 years are excluded unless discussed with the Treating Physician and considered appropriate for EAP participation. The following are exceptions to this criterion:\n\n  * Patients with vitiligo or alopecia\n  * Patients with hypothyroidism (e.g., following Hashimoto syndrome) stable on hormone replacement\n  * Any chronic skin condition that does not require systemic therapy\n  * Patients with celiac disease controlled by diet alone\n* Patients co-infected with HBV and HCV, or co-infected with HBV and hepatitis D virus (HDV). HBV positive (presence of HbsAg and/or anti-HBcAb with detectable HBV DNA); HCV positive (presence of anti-HCV antibodies); HDV positive (presence of anti-HDV antibodies).\n\n  o Note: Testing required for subjects with a known history otherwise not required.\n* Known fibrolamellar HCC, sarcomatoid HCC, or mixed cholangiocarcinoma and HCC.\n* History of active primary immunodeficiency.\n* Current or prior use of immunosuppressive medication within 14 days before the first dose of EAP treatment. The following are exceptions to this criterion:\n\n  * Intranasal, inhaled, topical steroids, or local steroid injections (e.g., intra-articular injection)\n  * Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of prednisone or its equivalent\n  * Steroids as pre-medication for hypersensitivity reactions (e.g., CT scan pre-medication)\n* Receipt of live attenuated vaccine within 30 days before first dose of treatment. Note: patients, if enrolled, should not receive live vaccine while receiving study treatment, and up to 30 days after the last dose of study treatment.\n* Previous randomization or treatment in a previous durvalumab and/or tremelimumab clinical study regardless of treatment arm assignment.\n* Patients who have received anti-PD-1, anti-PD-L1, or anti-CTLA-4 before the first dose of EAP treatment.",
+  "enrollment": 30,
+  "has_results": false,
+  "interventions": [
+   "GLP1-RA (semaglutide)"
+  ],
+  "last_update_posted": "2026-11-16",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "체질량지수(BMI) 25 kg/m² 미만 또는 악액질이 있는 경우",
+    "인슐린 치료를 받고 있거나 당뇨병성 망막병증 병력이 있는 경우",
+    "갑상선 수질암 또는 다발성 내분비선종증 2형의 본인 또는 가족력",
+    "세마글루타이드(위고비 등) 과민 반응 병력",
+    "치료되지 않거나 증상이 있는 뇌전이"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "전이 단계에서 전신 치료를 받지 않은 체질량지수(BMI) 25 이상의 전이성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "llm"
+  },
+  "max_age": "99 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07627191",
+  "phase": "EARLY_PHASE1",
+  "primary_completion_date": "2028-06-30",
+  "sex": "ALL",
+  "sponsor": "University of Arizona",
+  "start_date": "2026-10-07",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

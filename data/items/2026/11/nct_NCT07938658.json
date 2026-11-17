@@ -1,0 +1,120 @@
+{
+ "abstract": "The goal of this clinical trial is to learn if the study drug QL1706 (iparomlimab and tuvonralimab injection) works to treat locally advanced pancreatic cancer in adults when it is given together with chemotherapy and Stereotactic radiotherapy. It will also learn about the safety of this combination treatment.\n\nAround 37 adults aged 18 to 75 who have pancreatic cancer that has grown into nearby tissue and cannot be removed by surgery, but has not spread to other parts of the body, and who have not yet received any treatment for it, will take part in this study.\n\nThe main questions it aims to answer are:\n\nDoes the combination of QL1706, chemotherapy and radiation make the tumor shrink or stop growing, making it suitable for surgery? How long do participants live without their cancer getting worse, and how long do they live overall? What medical problems do participants have when taking this combination treatment? All participants in this study will receive the same treatment. There is no placebo (a look-alike substance that contains no drug) and no comparison group. Researchers will compare the results of participants in this study with the results usually seen in people who receive chemotherapy alone, to see if adding QL1706 and radiation helps.\n\nParticipants will:\n\nReceive QL1706 through a vein (by intravenous infusion) once every 3 weeks Receive 2 chemotherapy drugs through a vein on days 1 and 8 of every 3-week cycle, for 2 cycles. The 2 drugs are gemcitabine and nab-paclitaxel Then receive 5 doses of focused radiation therapy to the pancreas, given about every other day over about 2 weeks, together with 2 more cycles of QL1706 and chemotherapy. Participants whose cancer gets worse during treatment will stop this part of the study Have CT or MRI scans every 6 weeks so the researchers can see whether the cancer has shrunk Have blood tests, physical examinations and other checkups during treatment Be reviewed by a team of pancreatic cancer specialists to see if surgery to remove the tumor is possible. Participants who can have surgery will have the surgery and then 2 to 4 more cycles of QL1706 and chemotherapy. Participants who cannot have surgery, and whose cancer has not grown, will keep receiving QL1706 and chemotherapy until their cancer gets worse, the treatment becomes too hard to tolerate, or they are no longer able to take part Tell the study team about any medical problems they have, which will be recorded throughout the study.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07938658",
+ "importance": 0.87,
+ "key_points_ko": [
+  "수술이 불가능한 국소 진행성 췌장암 환자 약 37명을 대상으로 하는 1차 치료 단일군 2상 임상시험입니다.",
+  "면역항암제 QL1706, 화학요법(젬시타빈+알부민 결합 파클리탁셀), 5회의 집중 방사선치료를 병용하여 수술 전환 가능성과 생존기간을 평가합니다.",
+  "대조군 없이 모든 참여자가 동일한 치료를 받으며, 과거 표준 화학요법 단독 결과와 간접 비교 분석할 예정입니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07938658"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Tongji Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07938658"
+ },
+ "summary_ko": "이 임상시험은 이전에 치료를 받은 적이 없는 국소 진행성 췌관선암(PDAC) 성인 환자 37명을 대상으로 진행되는 2상 연구입니다. 환자들은 면역항암제 후보물질인 QL1706(iparomlimab 및 tuvonralimab)과 함께 젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(nab-paclitaxel) 화학요법, 그리고 체부정위 방사선치료(SBRT)를 병용 투여받습니다. 치료 후 종양 크기 변화를 확인하여 수술 가능 여부를 평가하며, 무진행 생존기간(PFS)과 전체 생존기간(OS), 안전성을 확인합니다. 수술이 가능해진 환자는 종양 절제 수술 후 추가 약물 치료를 받고, 수술이 불가능한 환자는 질병이 진행될 때까지 약물 치료를 지속합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Iparomlimab and Tuvonralimab",
+  "QL1706",
+  "Iparomlimab",
+  "Tuvonralimab",
+  "Gemcitabine",
+  "Nab-paclitaxel",
+  "Stereotactic Body Radiotherapy",
+  "SBRT",
+  "Immunotherapy"
+ ],
+ "title": "Iparomlimab and Tuvonralimab Injection （QL1706）Combined With Chemotherapy (AG) and SBRT as First-Line Treatment for Locally Advanced Pancreatic Cancer",
+ "title_ko": "국소 진행성 췌장암의 1차 치료로서 QL1706(이파롬리맙 및 투본랄리맙)과 항암화학요법(AG) 및 체부정위 방사선치료(SBRT) 병용 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Locally Advanced Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상 75세 이하 성인\n• 조직학적으로 원격 전이가 없음이 확인된 국소 진행성 췌관선암(PDAC) 환자\n• 주요 혈관(상장간막동맥, 복강동맥, 상장간막정맥/간문맥 등)의 침범으로 절제 및 재건이 불가능한 환자\n• 전신 수행능력 평가(ECOG) 점수 0~1점\n• 젬시타빈 및 알부민 결합 파클리탁셀 항암화학요법을 받기에 적합한 주요 장기 기능 보유자\n\n제외 기준:\n• 췌장암에 대해 이전에 1차 전신 항암 치료를 받은 환자\n• 췌관선암이 아닌 암종(신포세포암, 췌모세포종, 신경내분비종양 등)\n• 최근 5년 이내 다른 악성 종양의 병력이 있는 환자(일부 피부암, 상피내암 등 제외)\n• 조절되지 않는 흉수, 복수 또는 심낭삼출이 있는 환자\n• 활동성 자가면역 질환, 원발성 면역결핍증 또는 전신 면역억제 치료를 받는 환자\n• 최근 12개월 이내 발생한 심근경색, 울혈성 심부전 등 중증 심혈관계 질환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Aged between 18 and 75 years old, with no gender restriction;\n2. Have been fully informed of this study and voluntarily signed the informed consent form.\n3. Patients with histopathologically confirmed pancreatic ductal adenocarcinoma (PDAC) with locally advanced lesions, meeting any of the following criteria and having no distant metastasis:\n\n   ① Tumors located in the pancreatic head and neck:\n   1. Tumor encasement of the superior mesenteric artery (SMA) exceeding 180°;\n   2. Tumor encasement of the celiac trunk exceeding 180°;\n   3. Tumor invasion or embolization (tumor thrombus or blood thrombus) rendering the superior mesenteric vein or portal vein unresectable for reconstruction;\n   4. Extensive tumor involvement of the distal jejunal draining branch of the superior mesenteric vein.\n\n      * Tumors located in the pancreatic body/tail:\n\n   <!-- -->\n\n   1. Tumor encasement of the superior mesenteric artery or celiac trunk exceeding 180°;\n   2. Involvement of the celiac trunk and abdominal aorta;\n   3. Tumor invasion or embolization (tumor thrombus or blood thrombus) making resection and reconstruction of the superior mesenteric vein or portal vein impossible.\n4. Good physical status: Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1;\n5. Willing and able to comply with medical advice and receive combination therapy with gemcitabine for injection and paclitaxel (albumin-bound) for injection;\n6. No dysfunction of major organs, and laboratory test results meet the basic requirements for chemotherapy, as follows:\n\n   1. Absolute neutrophil count ≥ 1.5×10⁹/L;\n   2. Platelet count ≥ 90×10⁹/L;\n   3. Hemoglobin (Hb) ≥ 90 g/L;\n   4. Serum aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 1.5 times the upper limit of normal (ULN); for patients with liver metastasis, AST and ALT ≤ 5.0 times ULN;\n   5. Total bilirubin ≤ 1.5 times ULN;\n   6. Serum creatinine ≤ 1.5 times ULN;\n   7. Q-T interval on electrocardiogram ≤ 450 ms;\n   8. Normal serum electrolytes (sodium, potassium, chloride and total calcium).\n7. Women of childbearing potential must agree to use contraceptive measures throughout the study period and for 3 months after study completion; they must have a negative serum or urine pregnancy test within 7 days prior to enrollment and must not be breastfeeding. Male participants must agree to use contraceptive measures during the study and for 3 months after the end of the study.\n8. No other contraindications to treatment prior to enrollment. The patient voluntarily participates in the trial, has good treatment compliance, and can cooperate with trial observations.\n\nExclusion Criteria:\n\n1. Patients with acinic cell carcinoma, pancreatoblastoma, solid pseudopapillary neoplasm, or pancreatic neuroendocrine neoplasm;\n2. Subjects who have previously received first-line treatment for pancreatic adenocarcinoma;\n3. Subjects with contraindications to treatment with gemcitabine for injection and/or albumin-bound paclitaxel for injection, or with known severe hypersensitivity to gemcitabine for injection and/or albumin-bound paclitaxel for injection;\n4. Pregnant or lactating women; women of childbearing potential with a positive baseline pregnancy test;\n5. History of other malignant tumors within the past 5 years (excluding basal cell carcinoma, squamous cell carcinoma, superficial bladder cancer, carcinoma in situ of the cervix, and breast cancer);\n6. Uncontrolled pleural effusion, pericardial effusion, or ascites;\n7. Severe cardiovascular diseases occurring within 12 months prior to admission, including symptomatic coronary heart disease, grade ≥ II congestive heart failure, uncontrolled arrhythmia, or myocardial infarction;\n8. Complicated gastroduodenal obstruction/hemorrhage, digestive dysfunction, or malabsorption syndrome;\n9. Presence of severe uncontrolled concurrent infection, other severe uncontrolled comorbidities, or moderate to severe renal impairment;\n10. History of allergic reactions to the study medications used in this trial;\n11. Use of corticosteroids or other systemic immunosuppressive therapies within 14 days prior to admission;\n12. Subjects who received investigational drug treatment within 4 weeks before enrollment (participation in other clinical trials);\n13. Active autoimmune diseases (including but not limited to uveitis, enteritis, hepatitis, hypophysitis, nephritis, vasculitis, hyperthyroidism, hypothyroidism, and asthma requiring bronchodilator therapy). Exceptions may be made for patients with hypothyroidism managed solely with hormone replacement therapy and patients with skin diseases not requiring systemic treatment (such as vitiligo, psoriasis, or alopecia);\n14. Medical history of primary immunodeficiency;\n15. Use of immunosuppressive drugs within 4 weeks before the first dose of study treatment, excluding topical or physiologic doses of systemic corticosteroids (i.e., prednisone ≤ 10 mg/day or equivalent doses of other corticosteroids) administered via nasal spray, inhalation or other routes, or corticosteroids used for the prevention of contrast medium allergy;\n16. Receipt of live attenuated vaccines within 4 weeks before the first dose of study treatment or during the study period;\n17. Known active pulmonary tuberculosis;\n18. History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation;\n19. Positive HIV antibody, or active hepatitis B or hepatitis C infection (Hepatitis B: positive HBsAg with HBV DNA ≥ 10⁴ copies/mL; Hepatitis C: positive HCV antibody and HCV-RNA requiring antiviral treatment);\n20. Other factors that, in the investigator's opinion, may compromise subject safety or trial compliance, such as severe diseases requiring comprehensive treatment (including psychiatric disorders), significant laboratory abnormalities, or other familial and social factors.",
+  "enrollment": 37,
+  "has_results": false,
+  "interventions": [
+   "Iparomlimab and Tuvonralimab Injection (QL1706)"
+  ],
+  "last_update_posted": "2026-11-16",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 췌장암 1차 항암 치료력",
+    "활동성 자가면역 질환 또는 면역결핍 병력",
+    "최근 12개월 이내 심근경색, 심부전 등 중증 심혈관 질환",
+    "조절되지 않는 복수 또는 흉수",
+    "5년 이내 다른 암 병력"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "이전에 전신 치료를 받은 적이 없는 국소 진행성(수술 불가) 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07938658",
+  "phase": "PHASE2",
+  "primary_completion_date": "2028-12-31",
+  "sex": "ALL",
+  "sponsor": "Tongji Hospital",
+  "start_date": "2026-09-14",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

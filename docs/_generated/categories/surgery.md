@@ -16,12 +16,148 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 330건 · 최근 30일 167건
+전체 338건 · 최근 30일 171건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct05053971"></a>
+#### [진행성 및 난치성 고형암 대상 entinostat(엔티노스타트)와 ZEN003694 병용요법의 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05053971)
+<small>Testing A New Anti-cancer Drug Combination, Entinostat and ZEN003694, for Advanced and Refractory Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `수술` `치료 전반` · 2021-09-23 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.97
+
+**NCT05053971** · 1상/2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053971.md)
+
+이 임상시험은 진행성 또는 난치성 고형암 환자를 대상으로 entinostat(엔티노스타트)와 ZEN003694 병용요법의 안전성과 최적 용량을 평가하는 1/2상 연구입니다. 엔티노스타트는 히스톤 탈아세틸화효소(HDAC) 억제제이며 ZEN003694는 브로모도메인(BET) 억제제입니다. 2상 단계에서는 표준 치료에 반응하지 않는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 객관적 반응률(ORR)과 무진행 생존기간(PFS) 등의 치료 효과를 평가합니다.
+
+- 1상 연구를 통해 엔티노스타트와 ZEN003694 병용요법의 최대 내약 용량(MTD)과 용량 제한 독성(DLT)을 확인합니다.
+- 2상 연구에서는 표준 항암치료에 실패한 국소 진행성 수술 불가능 또는 전이성 췌장암 환자에서 객관적 반응률(ORR)을 주요 지표로 평가합니다.
+- 2차 평가변수로 무진행 생존기간(PFS), 전체 생존기간(OS), 반응 지속 기간(DOR) 및 안전성 프로파일을 측정합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05053971) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053971)</small>
+
+---
+<a id="pmid-43037855"></a>
+#### [상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43037855/)
+<small>Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review</small>
+
+`논문` `메타분석` `수술` `치료 전반` `제약사·규제` `지지요법·삶의질` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.95
+
+상장간막동맥(SMA) 침범이 있는 국소 진행성 췌장암 환자에서 동맥 절제를 동반한 췌장절제술의 결과를 평가한 12개 연구(총 320명)를 분석한 체계적 문헌고찰 연구입니다. 환자의 97%에서 정맥 절제가 동시에 시행되었으며, 63%는 췌장전절제술을 받았습니다. 수술 후 주요 합병증 발생률은 31%, 90일 사망률은 8%로 나타났습니다. 완전 절제율(R0 절제율)은 80%였으며, 수술 후 중앙 생존기간은 8개월에서 20개월 사이로 보고되었습니다.
+
+- 동맥 절제를 동반한 췌장절제술을 받은 320명의 환자 중 주요 합병증 발생률은 31%(88/284명), 90일 사망률은 8%(27/320명)였습니다.
+- 동반된 주요 합병증으로는 췌장절제술 후 출혈이 19%(39/202명), 장간막 허혈이 3%(6/202명)에서 발생했습니다.
+- 절제면 음성(R0) 절제율은 80%(136/171명)였으며, 보고된 수술 후 중앙 생존기간은 8~20개월, 최고 5년 생존율은 21%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037855/) · [DOI](https://doi.org/10.1245/s10434-026-20922-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037855)</small>
+
+---
+<a id="pmid-43035152"></a>
+#### [수술 불가능한 췌장 체부 또는 미부 국소진행성 췌장암 환자에서 생체흡수성 스페이서를 활용한 고선량 양성자치료의 타당성 및 안전성 연구](https://pubmed.ncbi.nlm.nih.gov/43035152/)
+<small>Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-11-15 · PubMed · Radiother Oncol · 중요도 0.71
+
+주변 위장관 장기와의 인접성 때문에 고선량 방사선 조사가 어려운 국소진행성 췌장암 환자를 대상으로 생체흡수성 스페이서(PGA spacer)를 삽입한 후 고선량 양성자치료(PBT)를 시행한 안전성을 평가했습니다. 비전이성 수술 불가능 췌장 체부·미부 암 환자 14명이 스페이서 삽입을 받았으며, 이 중 13명이 25회에 걸쳐 67.5 또는 75 Gy(RBE)의 근치적 양성자치료를 완료했습니다. 모든 환자에서 종양과 위장관 사이 10 mm 이상의 안전 거리가 확보되었고, 수술 관련 중증 합병증이나 3등급 이상의 구조적 위장관 손상은 발생하지 않았습니다. 중앙 추적 관찰 기간 19.3개월 동안 중앙 전체 생존기간(OS)은 24.8개월, 무진행 생존기간(PFS)은 11.8개월이었습니다.
+
+- 스페이서 삽입을 통해 14명 전원에서 종양과 위장관 사이에 10 mm 이상의 간격이 확보되었습니다.
+- 양성자치료를 완료한 13명 중 30.8%(4명)에서 3등급 부작용(구역 1명, 백혈구/호중구 감소증 3명)이 관찰되었으며, 중증 위장관 손상은 없었습니다.
+- 중앙 전체 생존기간(OS)은 24.8개월, 중앙 무진행 생존기간(PFS)은 11.8개월이었으며, 1년 및 2년 국소 제어율은 각각 81.5%와 38.2%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035152/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111872) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035152)</small>
+
+---
+<a id="pmid-43035150"></a>
+#### [경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암에서 예방적 림프절 조사를 병용한 정위체부방사선치료의 1상 용량 증량 연구](https://pubmed.ncbi.nlm.nih.gov/43035150/)
+<small>Phase I dose-escalation study of stereotactic body radiotherapy with elective nodal irradiation for borderline resectable and unresectable locally advanced pancreatic cancer</small>
+
+`논문` `1상` `치료 전반` `임상시험` `수술` · 2026-11-15 · PubMed · Radiother Oncol · 중요도 0.71
+
+경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암 환자를 대상으로 5회 분할 정위체부방사선치료(SBRT)에 예방적 림프절 조사(ENI)를 병용했을 때의 안전성과 최대 내약 용량(MTD)을 평가한 1상 연구 결과입니다. 총 12명의 환자에게 예방적 림프절 30 Gy 조사와 함께 원발 종양 선량을 35 Gy에서 40 Gy까지 증량하여 조사했습니다. 원발 부위 선량을 40 Gy까지 증량하는 동안 최대 내약 용량에 도달하지 않아 치료의 안전성과 실행 가능성을 확인했습니다. 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월이었으며 1년 국소 제어율은 75%였습니다.
+
+- 총 12명의 환자(경계성 절제 가능 4명, 국소 진행성 8명)를 대상으로 원발 종양 선량을 최대 40 Gy까지 증량했으나 최대 내약 용량(MTD)에 도달하지 않았습니다.
+- 급성 용량 제한 독성으로 1단계(35 Gy)에서 입원을 요하는 3등급 식욕부진 및 오심 1건이 관찰되었고, 기존 담도 스텐트가 있던 환자 3명에서 아급성 3등급 담관염이 발생했습니다.
+- 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월, 1년 국소 제어율은 75%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035150/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111871) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035150)</small>
+
+---
+<a id="nct-nct02511821"></a>
+#### [수술을 받는 위장관암 환자의 환자 중심 치료 향상을 위한 환자 보고 결과 및 신체 기능 전자 모니터링 기기 연구](https://clinicaltrials.gov/study/NCT02511821)
+<small>Electronic Monitoring Device of Patient-Reported Outcomes and Function in Improving Patient-Centered Care in Patients With Gastrointestinal Cancer Undergoing Surgery</small>
+
+`임상시험` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2015-07-30 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.71
+
+**NCT02511821** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02511821.md)
+
+이 임상시험은 췌장암을 포함한 위장관암으로 수술을 받는 환자를 대상으로 온라인 설문과 활동량 측정 시계(Vivofit watch)를 활용한 전자 모니터링의 타당성을 평가하는 파일럿 연구입니다. 환자는 수술 전후 3~7일간 스마트워치를 착용하고 삶의 질, 증상, 활동량에 관한 온라인 설문(MDASI, EQ-5D)을 작성합니다. 이를 통해 수술 전후 환자의 증상과 신체 기능을 보다 정확하게 파악하고 의료진과의 소통을 개선할 수 있는지 확인합니다. 총 22명의 환자를 대상으로 진행되었습니다.
+
+- 수술 전후 스마트워치 착용 및 웹 기반 설문을 통한 환자 보고 결과(PRO) 수집의 실행 가능성을 평가했습니다.
+- 퇴원 후 2주 동안 주 3회 증상 설문, 주 1회 삶의 질 설문을 완료하고 스마트워치를 착용하도록 구성되었습니다.
+- 총 22명의 위암, 대장암, 간암, 췌장암 환자를 목표로 진행된 초기 파일럿 연구입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02511821) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02511821)</small>
+
+---
+<a id="pmid-43037852"></a>
+#### [초기 절제 불가능한 국소 진행성 췌관선암에서 CA19-9 및 DUPAN-2 병용 측정의 예후적 영향](https://pubmed.ncbi.nlm.nih.gov/43037852/)
+<small>ASO Visual Abstract: Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.67
+
+본 논문은 초기 절제 불가능한 국소 진행성 췌관선암(pancreatic adenocarcinoma) 환자를 대상으로 종양표지자인 CA19-9와 DUPAN-2의 병용 활용에 따른 예후 예측 영향을 다룬 시각적 초록(Visual Abstract)입니다. 제공된 텍스트에는 구체적인 연구 대상자 수나 분석 결과가 포함되어 있지 않습니다. 세부적인 예후 지표 및 통계 수치는 초록에 명시되지 않았습니다.
+
+- 초기 절제 불가능한 국소 진행성 췌관선암에서 혈청 종양표지자 CA19-9와 DUPAN-2 병용의 예후적 가치를 평가한 연구입니다.
+- 구체적인 생존기간, 반응률, 환자 수 등 세부 연구 결과는 제공된 텍스트에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037852/) · [DOI](https://doi.org/10.1245/s10434-026-20834-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037852)</small>
+
+---
+<a id="pmid-43035274"></a>
+#### [췌장암에서 비가역적 전기천공술의 연구 진행 현황](https://pubmed.ncbi.nlm.nih.gov/43035274/)
+<small>[Research progress of irreversible electroporation for pancreatic cancer]</small>
+
+`논문` `종설` `치료 전반` `수술` · 2026-11-01 · PubMed · Zhonghua Nei Ke Za Zhi · 중요도 0.58
+
+췌장암 치료를 위한 비가역적 전기천공술(IRE, irreversible electroporation)의 연구 진행 상황을 다룬 종설(Review) 논문입니다. 비열성 종양 소작술인 비가역적 전기천공술의 임상적 적용 및 연구 동향을 종합적으로 검토했습니다. 구체적인 환자 데이터 및 연구 결과 수치는 본문에 명시되지 않았습니다.
+
+- 췌장암 환자를 대상으로 비가역적 전기천공술(IRE)의 최신 연구 현황을 검토한 논문입니다.
+- 구체적인 생존기간 및 반응률 등의 세부 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035274/) · [DOI](https://doi.org/10.3760/cma.j.cn112138-20260616-00369) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035274)</small>
+
+---
+<a id="pmid-43037109"></a>
+#### [편집자에게 보내는 서한: 췌장십이지장절제술 후 이환율 및 사망률 예측을 위한 P-POSSUM 위험 점수 체계 평가에 대하여](https://pubmed.ncbi.nlm.nih.gov/43037109/)
+<small>Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy</small>
+
+`논문` `기타` `수술` · 2026-10-01 · PubMed · Chirurgia (Bucur) · 중요도 0.54
+
+본 서한은 췌장십이지장절제술 후 수술 전후 위험도를 평가한 기존 연구(Bodea 등의 연구)에 대한 논평입니다. 췌장십이지장절제술 후 결과를 정확히 예측하는 것은 임상적으로 매우 중요합니다. 서한의 저자들은 원저에서 수술 후 합병증(이환율)을 추정하기 위해 사용한 계산 방법론에 대해 추가적인 명확한 설명을 요청했습니다.
+
+- 췌장십이지장절제술 환자를 대상으로 P-POSSUM 위험 점수 체계의 유용성을 평가한 기존 연구에 대한 서한입니다.
+- 원저 연구진이 온라인 계산기를 통해 수술 후 합병증 위험도를 산출하고 분석한 방법론적 과정에 대해 질의했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037109/) · [DOI](https://doi.org/10.21614/chirurgia.3410) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037109)</small>
+
+---
+<a id="pmid-43037110"></a>
+#### [편집자 서한에 대한 답변: 췌십이지장절제술 후 합병증 발생률 및 사망률 예측에 있어 P-POSSUM 위험 점수 체계의 평가](https://pubmed.ncbi.nlm.nih.gov/43037110/)
+<small>Reply to the Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy</small>
+
+`논문` `기타` `수술` `치료 전반` · 2026-10-01 · PubMed · Chirurgia (Bucur) · 중요도 0.50
+
+본 논문은 췌십이지장절제술(pancreaticoduodenectomy) 후 합병증 발생률과 사망률을 예측하기 위해 P-POSSUM 위험 점수 체계를 평가한 연구에 대해 제기된 편집자 서한에 대한 답변입니다. 저자들은 연구 방법론에 대한 질의에 감사하며, 점수 산출 공식을 명확히 설명했습니다. 생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 점수 체계 기준에 따라 계산되었습니다.
+
+- P-POSSUM 위험 점수 체계의 산출 공식에 대한 독자 질의에 응답한 설명글입니다.
+- 생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 체계를 준수하여 산출되었습니다.
+- 본 답변 초록에는 구체적인 환자 수나 사망률 관련 수치가 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037110/) · [DOI](https://doi.org/10.21614/chirurgia.3411) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037110)</small>
+
+---
 <a id="nct-nct07024615"></a>
 #### [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](https://clinicaltrials.gov/study/NCT07024615)
 <small>A Study of ASP2138 Given Before Surgery, Then Chemotherapy After Surgery, in People With Pancreatic Ductal Cancer</small>
@@ -101,21 +237,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT06218914) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06218914)</small>
 
 ---
-<a id="pmid-43026792"></a>
-#### [췌장암 환자 여정 전반에서의 순환 종양 DNA: 분자 프로파일링부터 동적 질환 모니터링까지](https://pubmed.ncbi.nlm.nih.gov/43026792/)
-<small>Circulating Tumor DNA Across the Patient Journey in Pancreatic Cancer: From Molecular Profiling to Dynamic Disease Monitoring</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `수술` · 2026-10-27 · PubMed · Cancers (Basel) · 중요도 0.66
-
-이 논문은 췌관선암(PDAC) 환자의 진단, 선행치료, 수술 후 미세잔존질환(MRD) 평가, 재발 감시 및 전신 치료 중 동적 모니터링에서 순환 종양 DNA(ctDNA)의 임상적 가치와 한계를 검토한 종설(리뷰)입니다. 국소 질환에서는 혈중 배출량이 적어 진단적 민감도가 낮지만, 수술 후 ctDNA 양성은 재발 위험 증가와 일관되게 연관되어 있습니다. 전이·진행성 질환에서는 반복 측정을 통해 치료 반응과 질병 진행을 파악하는 데 유용한 정보를 제공합니다. 그러나 ctDNA 결과에 따라 치료나 감시 방식을 바꿨을 때 실제 환자의 생존율 등 치료 성적이 개선되는지에 대한 근거는 아직 부족합니다.
-
-- 수술 후 ctDNA가 양성으로 검출되는 경우 재발 위험이 높음을 일관되게 보여주나, 음성이라고 해서 잔존 질환이 없다고 확신할 수는 없습니다.
-- 추적 관찰 기간 동안 새롭게 검출되거나 수치가 상승하는 ctDNA는 영상의학적 재발 확인보다 앞서 나타날 수 있습니다.
-- 진행성 췌장암에서 연속적인 ctDNA 수치 변화는 치료 반응과 질병 진행을 평가하는 데 유용하지만, 이를 바탕으로 치료 결정을 내리는 것이 환자 예후를 향상시키는지에 대한 전향적 임상시험 근거는 아직 충분하지 않습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026792/) · [DOI](https://doi.org/10.3390/cancers18213471) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13761749/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026792)</small>
-
----
 <a id="doi-10.21203-rs.3.rs-10942935-v1"></a>
 #### [국소 췌장암에서 수술 전 선행 항암치료 및 수술 후 KRAS 순환 종양 DNA의 정량적 변화를 통한 조기 재발 예측](https://europepmc.org/article/PPR/PPR1366618)
 <small>Quantitative KRAS ctDNA Dynamics Predict Early Recurrence After Neoadjuvant Therapy and Surgery in Pancreatic Cancer</small>
@@ -130,6 +251,21 @@ search:
 - 혈중 변이 대립유전자 빈도(mVAF)가 중앙값(0.03%)보다 높은 환자는 무재발 생존기간이 12.8개월로, 낮은 환자의 26.3개월에 비해 짧았습니다(p=0.027).
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1366618) · [DOI](https://doi.org/10.21203/rs.3.rs-10942935/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-10942935/v1)</small>
+
+---
+<a id="pmid-43026792"></a>
+#### [췌장암 환자 여정 전반에서의 순환 종양 DNA: 분자 프로파일링부터 동적 질환 모니터링까지](https://pubmed.ncbi.nlm.nih.gov/43026792/)
+<small>Circulating Tumor DNA Across the Patient Journey in Pancreatic Cancer: From Molecular Profiling to Dynamic Disease Monitoring</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `수술` · 2026-10-27 · PubMed · Cancers (Basel) · 중요도 0.66
+
+이 논문은 췌관선암(PDAC) 환자의 진단, 선행치료, 수술 후 미세잔존질환(MRD) 평가, 재발 감시 및 전신 치료 중 동적 모니터링에서 순환 종양 DNA(ctDNA)의 임상적 가치와 한계를 검토한 종설(리뷰)입니다. 국소 질환에서는 혈중 배출량이 적어 진단적 민감도가 낮지만, 수술 후 ctDNA 양성은 재발 위험 증가와 일관되게 연관되어 있습니다. 전이·진행성 질환에서는 반복 측정을 통해 치료 반응과 질병 진행을 파악하는 데 유용한 정보를 제공합니다. 그러나 ctDNA 결과에 따라 치료나 감시 방식을 바꿨을 때 실제 환자의 생존율 등 치료 성적이 개선되는지에 대한 근거는 아직 부족합니다.
+
+- 수술 후 ctDNA가 양성으로 검출되는 경우 재발 위험이 높음을 일관되게 보여주나, 음성이라고 해서 잔존 질환이 없다고 확신할 수는 없습니다.
+- 추적 관찰 기간 동안 새롭게 검출되거나 수치가 상승하는 ctDNA는 영상의학적 재발 확인보다 앞서 나타날 수 있습니다.
+- 진행성 췌장암에서 연속적인 ctDNA 수치 변화는 치료 반응과 질병 진행을 평가하는 데 유용하지만, 이를 바탕으로 치료 결정을 내리는 것이 환자 예후를 향상시키는지에 대한 전향적 임상시험 근거는 아직 충분하지 않습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43026792/) · [DOI](https://doi.org/10.3390/cancers18213471) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13761749/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43026792)</small>
 
 ---
 <a id="nct-nct04858334"></a>
@@ -147,23 +283,6 @@ search:
 - 환자들은 올파라닙 또는 위약을 하루 두 번, 28일 주기로 최대 12주기 동안 투여받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04858334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04858334)</small>
-
----
-<a id="nct-nct05053971"></a>
-#### [진행성 및 난치성 고형암 환자를 위한 새로운 항암제 병용요법(entinostat 및 ZEN003694) 임상시험](https://clinicaltrials.gov/study/NCT05053971)
-<small>Testing A New Anti-cancer Drug Combination, Entinostat and ZEN003694, for Advanced and Refractory Solid Tumors</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2021-09-23 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.90
-
-**NCT05053971** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05053971.md)
-
-이 1상 및 2상 임상시험은 진행성 또는 난치성 고형암 및 췌장암(pancreatic cancer) 환자를 대상으로 entinostat(엔티노스타트)와 ZEN003694 병용투여의 안전성과 부작용, 최고 허용 용량, 그리고 전체 반응률(ORR)을 평가합니다. Entinostat은 히스톤 탈아세틸화효소(HDAC) 억제제이며, ZEN003694는 브로모도메인 및 엑스트라 터미널(BET) 단백질 억제제입니다. 연구의 주요 목적은 두 약물 병용요법의 안전성 프로파일을 확인하고 진행성 췌장암에서의 항종양 효과를 확인하는 것입니다.
-
-- 임상시험에는 목표 인원 49명의 진행성 및 난치성 고형암 및 췌장암 환자가 참여합니다.
-- 1상에서는 entinostat과 ZEN003694 병용투여의 용량 제한 독성(DLT)과 최대 허용 용량(MTD)을 평가합니다.
-- 2상에서는 진행성 및 진행성 췌장암 환자에서의 전체 반응률(ORR), 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05053971) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05053971)</small>
 
 ---
 <a id="nct-nct01660971"></a>
@@ -2275,126 +2394,5 @@ search:
 - 림프구 수 1.55 × 10³/uL 이하(p = 0.031)인 림프구 감소증 역시 수술 전 절제 불가를 시사하는 예측 인자로 나타났습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42913615/) · [DOI](https://doi.org/10.24875/CIRU.23000503) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42913615)</small>
-
----
-<a id="pmid-42918325"></a>
-#### ["카탈루냐 지역 췌장암 수술의 핵심 품질 지표에 대한 합의 기반 검증: 수정된 델파이 연구"에 대한 서신](https://pubmed.ncbi.nlm.nih.gov/42918325/)
-<small>Re: &quot;Consensus-based validation of key quality indicators in pancreatic cancer surgery in Catalonia: A modified Delphi study&quot;</small>
-
-`논문` `기타` `수술` `치료 전반` · 2026-10-23 · PubMed · Cir Esp (Engl Ed) · 중요도 0.60
-
-본 문헌은 카탈루냐 지역의 췌장암 수술 핵심 품질 지표에 관한 연구 논문에 대해 작성된 독자 서신입니다. 상세한 요약 내용이나 수치적 결과는 초록에 명시되지 않았습니다. 본문에 대한 의견 및 디스커션을 다루고 있습니다.
-
-- 췌장암 수술 품질 지표 연구 논문에 대한 독자 서신(Letter)입니다.
-- 상세 내용 및 구체적인 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42918325/) · [DOI](https://doi.org/10.1016/j.cireng.2026.800408) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42918325)</small>
-
----
-<a id="pmid-42918326"></a>
-#### ['카탈루냐의 췌장암 수술 핵심 질 지표에 대한 합의 기반 검증: 수정된 델파이 연구'에 대한 의견에 대한 답글](https://pubmed.ncbi.nlm.nih.gov/42918326/)
-<small>Response to: &quot;Re: &#x27;Consensus-based validation of key quality indicators in pancreatic cancer surgery in Catalonia: a modified Delphi study&#x27;&quot;</small>
-
-`논문` `기타` `수술` `치료 전반` · 2026-10-23 · PubMed · Cir Esp (Engl Ed) · 중요도 0.60
-
-본 문헌은 카탈루냐 지역의 췌장암 수술 질 관리 지표 검증 연구에 대해 제기된 독자 의견에 대한 저자들의 답변 서신(Letter)입니다. 서신 형식의 문헌으로 세부 초록 본문은 제공되지 않았습니다. 구체적인 논의 내용과 세부 수치는 초록에 명시되지 않았습니다.
-
-- 췌장암 수술의 핵심 질 지표 합의에 관한 이전 연구와 관련된 학술 서신 논의입니다.
-- 상세한 분석 결과와 구체적 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42918326/) · [DOI](https://doi.org/10.1016/j.cireng.2026.800425) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42918326)</small>
-
----
-<a id="pmid-42920464"></a>
-#### [췌십이지장절제술 후 발생한 잔위암에 대한 인도시아닌 그린 형광 유도 복강경 아전위절제술: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42920464/)
-<small>Indocyanine Green Fluorescence-Guided Laparoscopic Subtotal Gastrectomy for Remnant Gastric Cancer after Pancreaticoduodenectomy: A Case Report</small>
-
-`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-10-20 · PubMed · Surg Case Rep · 중요도 0.60
-
-췌장암으로 췌십이지장절제술(PD)을 받은 지 24년 후 잔위암이 발생한 75세 남성 환자의 수술 사례를 보고한 증례입니다. 환자는 뇌경색과 천포창 등 복합 질환을 앓고 있는 고위험군이었습니다. 의료진은 인도시아닌 그린(ICG) 형광 기술을 활용하여 유착이 심한 상태에서도 종양의 위치와 혈류를 실시간으로 확인하며 복강경 아전위절제술을 시행했습니다. 수술 후 2등급(Grade B) 췌장 누공이 발생했으나 보존적 치료 후 퇴원했습니다.
-
-- 췌장암 수술(PD) 후 24년간 장기 생존한 75세 환자에게 발생한 조기 잔위암(35mm, 점막하층 침윤) 사례입니다.
-- ICG 형광 클립과 근적외선 시각화를 통해 안전한 절제 경계를 확보하고 위를 보존하는 아전위절제술을 성공적으로 마쳤습니다.
-- 수술 후 2등급 췌장 누공 합병증이 있었으나 보존적으로 호전되어 무사히 퇴원했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42920464/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0512) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13690491/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42920464)</small>
-
----
-<a id="pmid-42906812"></a>
-#### [유전자 연관 만성 췌장염과 비유전자성 만성 췌장염에서 자가 췌도 이식을 동반한 전췌장절제술의 치료 결과 비교](https://pubmed.ncbi.nlm.nih.gov/42906812/)
-<small>Comparative Outcomes of Total Pancreatectomy with Islet Autotransplantation in Genetically Associated Versus Non-Genetically Characterised Chronic Pancreatitis</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-21 · PubMed · J Gastrointest Surg · 중요도 0.77
-
-본 연구는 자가 췌도 이식을 동반한 전췌장절제술(TPIAT)을 받은 만성 췌장염 환자 83명을 대상으로 유전자 연관 환자군(15명)과 비유전자성 환자군(68명)의 수술 및 장기 결과를 비교 분석했습니다. 유전자 연관 만성 췌장염 환자는 수술 당시 연령이 더 어렸고 수술 시간이 길었으며 획득한 췌도 수율이 유의하게 낮았습니다. 추적 관찰 결과 인슐린 비의존율은 유전자 연관 환자군에서 더 낮은 경향을 보였으나, 1년 시점의 아편유사제 진통제 중단율 등 통증 관련 경감 효과는 두 군 간에 유사했습니다.
-
-- 유전자 연관 만성 췌장염 환자군은 비유전자성 환자군에 비해 수술 당시 연령이 더 어렸고(중앙값 30세 대 43세, p=0.014) 수술 시간이 더 길었습니다(657분 대 480분, p=0.018).
-- 분리 추출된 췌도 수율(Islet yield)은 유전자 연관 환자군(48,070 IEQ)이 비유전자성 환자군(149,073 IEQ)보다 유의하게 적었습니다(p=0.015).
-- 추적 관찰 시 인슐린 비의존율은 유전자 연관 군 12%, 비유전자성 군 21%였으며, 1년 시점의 아편유사제 진통제 중단율은 각각 53%와 60%로 비슷했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906812/) · [DOI](https://doi.org/10.1016/j.gassur.2026.102645) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906812)</small>
-
----
-<a id="pmid-42910254"></a>
-#### [80세 이상 고령 환자의 췌십이지장절제술 후 치료 결과: 독일 일반 및 내장외과학회 전향적 췌장 등록소 분석](https://pubmed.ncbi.nlm.nih.gov/42910254/)
-<small>Outcomes following Pancreatoduodenectomy in Patients ≥80 Years: An Analysis of the Prospective Pancreas Registry of the German Society for General and Visceral Surgery (DGAV|Registry Pancreas)</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-10 · PubMed · Visc Med · 중요도 0.72
-
-이 연구는 독일 췌장 등록소 데이터를 활용하여 2013년 9월부터 2024년 4월까지 췌십이지장절제술(pancreatoduodenectomy)을 받은 환자 12,305명을 80세 미만과 80세 이상으로 나누어 수술 후 결과를 비교 분석했습니다. 전체 환자 중 80세 이상 고령 환자는 1,566명(12.7%)이었으며, 그 비율은 2014년 6.9%에서 2021년 17.3%로 두 배 이상 증가했습니다. 80세 이상 환자는 전반적인 합병증 발생률(64.0% 대 60.7%)과 30일 사망률(7.2% 대 3.6%), 병원 내 사망률(8.2% 대 4.4%)이 80세 미만 환자보다 유의하게 높았습니다. 연구진은 나이 자체가 수술의 절대적인 제외 기준이 되어서는 안 되며, 생물학적 나이와 동반 질환 등을 종합적으로 고려한 신중한 환자 선별이 중요하다고 결론지었습니다.
-
-- 총 12,305건의 췌십이지장절제술 중 80세 이상 환자가 1,566건(12.7%)을 차지했습니다.
-- 중증 합병증 발생률에는 유의한 차이가 없었으나, 30일 사망률(7.2% vs. 3.6%)과 병원 내 사망률(8.2% vs. 4.4%)은 80세 이상 환자에서 유의하게 높았습니다.
-- 다변량 분석 결과 80세 이상의 나이, 남성, ASA 3~4등급, 비만, 만성 폐쇄성 폐질환(COPD), 항응고 치료, 수술 중 수혈, 확대 절제가 병원 내 사망의 독립적인 위험 인자로 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42910254/) · [DOI](https://doi.org/10.1159/vis/aeyag003) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42910254)</small>
-
----
-<a id="pmid-42909395"></a>
-#### [췌관선암 근치적 절제술 후 중증 수술 합병증과 보조 항암화학요법 간의 상호작용이 전체 생존기간에 미치는 영향](https://pubmed.ncbi.nlm.nih.gov/42909395/)
-<small>Interaction between severe postoperative complications and adjuvant chemotherapy on overall survival after upfront resection of pancreatic ductal adenocarcinoma</small>
-
-`논문` `관찰연구` `수술` `치료 전반` · 2026-10-07 · PubMed · Front Med (Lausanne) · 중요도 0.70
-
-근치적 절제술을 받은 췌장암(췌관선암) 환자 383명을 대상으로 중증 수술 합병증과 수술 후 보조 항암화학요법이 전체 생존기간(OS)에 미치는 영향을 후향적으로 분석했습니다. 전체 환자 중 중증 합병증(Clavien-Dindo 3등급 이상)은 40명(10.4%)에서 발생했습니다. 보조 항암치료를 받지 않은 환자군에서는 중증 합병증이 있는 환자의 중앙 생존기간이 7.9개월로 비중증 환자(14.6개월)보다 유의하게 짧았습니다. 반면 수술 후 보조 항암치료를 받은 환자군에서는 중증 합병증이 있더라도 중앙 생존기간이 18.8개월로 비중증 환자(20.5개월)와 통계적으로 유의미한 차이가 없었습니다.
-
-- 보조 항암치료를 받지 않은 경우 중증 합병증 발생군의 중앙 전체 생존기간(OS)은 7.9개월로 합병증이 없던 군의 14.6개월에 비해 현저히 낮았습니다(P<0.001).
-- 보조 항암치료를 시행한 경우 중증 합병증 군의 중앙 전체 생존기간은 18.8개월, 비중증 군은 20.5개월로 통계적 차이가 없었습니다(P=0.445).
-- 중증 합병증 환자군 내에서 보조 항암화학요법은 사망 위험을 크게 낮추는 것과 관련이 있었습니다(위험비 0.15, P=0.005).
-- 중증 합병증 환자의 중앙 무재발 생존기간(RFS)은 6.4개월로 비합병증 군(11.1개월)에 비해 유의하게 짧았습니다(P=0.016).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42909395/) · [DOI](https://doi.org/10.3389/fmed.2026.1968161) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13684324/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42909395)</small>
-
----
-<a id="pmid-42907798"></a>
-#### [로봇 보조 복강경 부분 췌장 절제술로 치료한 남성 환자의 췌장 두부 고형 위유두상 종양: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42907798/)
-<small>Pancreatic head solid-pseudopapillary neoplasm in a man treated by robot-assisted laparoscopic partial pancreatectomy: a case report</small>
-
-`논문` `증례` `수술` `치료 전반` `진단·조기발견` · 2026-07-27 · PubMed · BMC Surg · 중요도 0.54
-
-본 증례 보고는 췌장 두부에 종양이 발생한 37세 남성 환자의 수술적 치료 사례를 다룹니다. 사전 영상 검사에서는 종양의 정확한 기원을 확정하기 어려웠으나 다학제 진료를 통해 수술적 절제 전략을 결정했습니다. 로봇 보조 복강경 수술을 시행하여 주췌관(main pancreatic duct)을 보존하면서 종양 절제 및 제한적 췌장 절제를 성공적으로 마쳤습니다. 조직검사 결과 고형 위유두상 종양(SPN)으로 확진되었으며 환자는 합병증 없이 회복했습니다.
-
-- 37세 남성 환자의 췌장 두부에서 발생한 비전형적 고형 위유두상 종양(SPN) 사례입니다.
-- 로봇 보조 복강경 수술을 통해 주췌관을 보존하면서 종양 국소 절제 및 제한적 췌장 절제를 완료했습니다.
-- 수술 후 환자는 합병증 없이 회복하였으며 추적 관찰에서 안정적인 상태를 유지했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42907798/) · [DOI](https://doi.org/10.1186/s12893-026-03986-x) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13688811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42907798)</small>
-
----
-<a id="nct-nct05851534"></a>
-#### [췌장 수술 전 수정 가능한 위험 요소의 수술 전 최적화](https://clinicaltrials.gov/study/NCT05851534)
-<small>Preoperative Optimisation of Modifiable Risk Factors in Surgery of the Pancreas</small>
-
-`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2023-05-09 · ClinicalTrials.gov · Maastricht University Medical Center · 중요도 0.74
-
-**NCT05851534** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05851534.md)
-
-본 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 8가지 위험 요소를 선별하고 개입하는 재활 프로그램(prehabilitation program)이 수술 결과에 미치는 영향을 조사합니다. 목표 인원은 2575명이며 네덜란드의 13개 의료기관에서 진행되는 단계적 쐐기형 무작위 대조 시험(stepped-wedge randomized controlled trial)입니다. 주요 연구 질문은 췌장 수술 후 기능적 회복까지의 시간 단축 및 종합 합병증 지수(Comprehensive Complication Index)의 감소 여부입니다.
-
-- 목표 인원은 2575명이며 네덜란드 췌장암 그룹(DPCG) 소속 13개 센터가 참여합니다.
-- 수술 전 운동 능력, 영양 불량, 심리적 회복력, 빈혈, 당뇨 조절, 허약, 음주 및 흡연 등 8가지 위험 요소를 최적화합니다.
-- 대조군은 현재 진료 지침에 따른 수술 전 관리입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05851534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05851534)</small>
 
 ---

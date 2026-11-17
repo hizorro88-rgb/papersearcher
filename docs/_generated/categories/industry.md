@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 41건 · 최근 30일 26건
+전체 42건 · 최근 30일 26건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43037855"></a>
+#### [상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43037855/)
+<small>Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review</small>
+
+`논문` `메타분석` `수술` `치료 전반` `제약사·규제` `지지요법·삶의질` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.95
+
+상장간막동맥(SMA) 침범이 있는 국소 진행성 췌장암 환자에서 동맥 절제를 동반한 췌장절제술의 결과를 평가한 12개 연구(총 320명)를 분석한 체계적 문헌고찰 연구입니다. 환자의 97%에서 정맥 절제가 동시에 시행되었으며, 63%는 췌장전절제술을 받았습니다. 수술 후 주요 합병증 발생률은 31%, 90일 사망률은 8%로 나타났습니다. 완전 절제율(R0 절제율)은 80%였으며, 수술 후 중앙 생존기간은 8개월에서 20개월 사이로 보고되었습니다.
+
+- 동맥 절제를 동반한 췌장절제술을 받은 320명의 환자 중 주요 합병증 발생률은 31%(88/284명), 90일 사망률은 8%(27/320명)였습니다.
+- 동반된 주요 합병증으로는 췌장절제술 후 출혈이 19%(39/202명), 장간막 허혈이 3%(6/202명)에서 발생했습니다.
+- 절제면 음성(R0) 절제율은 80%(136/171명)였으며, 보고된 수술 후 중앙 생존기간은 8~20개월, 최고 5년 생존율은 21%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037855/) · [DOI](https://doi.org/10.1245/s10434-026-20922-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037855)</small>
+
+---
 <a id="pmid-43026779"></a>
 #### [천식과 췌장암의 연관성: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43026779/)
 <small>The Association Between Asthma and Pancreatic Cancer: A Systematic Review</small>
@@ -408,21 +423,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - 타액 미생물 시그니처 및 순환 미생물 DNA 등 진단·예후 예측 지표와 함께 치료 효과를 저해하는 미생물 기전을 표적하는 치료 전략이 연구되고 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891339/) · [DOI](https://doi.org/10.1002/imo2.70126) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674442/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891339)</small>
-
----
-<a id="doi-10.20944-preprints202610.1580.v1"></a>
-#### [췌장암 위험 예측 및 조기 발견을 위한 다유전자 위험 점수의 임상적 유용성에 관한 체계적 문헌고찰](https://europepmc.org/article/PPR/PPR1343383)
-<small>Polygenic Risk Scores for Pancreatic Cancer Risk Prediction and Early Detection: A Systematic Evidence Review of Clinical Utility</small>
-
-`프리프린트` `종설` `진단·조기발견` `제약사·규제` · 2026-10-16 · Europe PMC (preprint) · Preprints.org · 중요도 0.63
-
-이 연구는 흔한 유전 변이들을 종합해 암 감수성을 평가하는 다유전자 위험 점수(PRS)가 췌장암 위험 평가 및 조기 발견에 실질적으로 유용한지 분석한 체계적 문헌고찰입니다. 성인의 원발성 췌장암 위험을 평가한 총 43건의 연구를 종합하여 분석했습니다. 단독 PRS 모델은 변별력이 0.56~0.64 수준으로 다소 낮았으며 일반 인구 집단에서 기존 임상 모델에 추가했을 때 변별력 상승폭은 최대 0.05에 그쳤습니다. 연구진은 당뇨병 환자와 같은 고위험군에서 가장 큰 부가 가치가 나타났으며, 실제 임상 적용을 위해서는 외부 검증된 절대 위험 모델과 의사결정 분석이 필요하다고 결론지었습니다.
-
-- 총 43건의 연구 중 단독 다유전자 위험 점수(PRS) 변별도 추정치 16건 가운데 10건이 0.56~0.64 수준으로 보통에 머물렀습니다.
-- 일반 인구에서 기존 임상 예측 모델에 PRS를 추가했을 때 변별도 상승은 최대 0.05에 불과했습니다.
-- PRS와 임상 인자를 결합한 모델이 변별도 0.80을 초과한 경우는 당뇨병 환자에 초점을 맞춘 3개 연구에 불과했습니다.
-- 포함된 연구 중 비용 효과성을 평가한 연구는 전혀 없었으며, 13건의 연구는 비뚤림 위험(Risk of Bias)이 높은 것으로 평가되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1343383) · [DOI](https://doi.org/10.20944/preprints202610.1580.v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.20944/preprints202610.1580.v1)</small>
 
 ---

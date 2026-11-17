@@ -1,0 +1,120 @@
+{
+ "abstract": "A Phase 1 dose escalation study in patients with advanced solid tumors harboring KRAS G12C mutation to determine the maximum tolerated dose and recommended Phase II dose of HBI-2438 and characterize its pharmacokinetic profile.\n\nA Phase 1, Open-Label, Dose Escalation of HBI-2438 in Patients with Advanced Malignant Solid Tumors Harboring KRAS G12C Mutation. The primary and secondary objectives are:\n\n1. To determine the MTD and recommended Phase 2 dose (RP2D) of HBI-2438 as an oral monotherapy for advanced solid tumors harboring KRAS G12C mutation.\n2. To characterize the PK of HBI-2438 in subjects with advanced malignant solid tumors harboring KRAS G12C mutation.\n\nHBI-2438 is an orally administered KRAS G12C Inhibitor and will be dosed once daily throughout the escalation and expansion phase. Up to 44 subjects will be enrolled sequentially into the 3+3 dose escalation and monitored throughout the study for safety and tolerability. The dose escalation phase will consist of 6 cohorts, with doses ranging from 150 to 1200mg. Once the MTD of RP2D is established, an additional 6-8 subjects with brain metastases will be enrolled into the expansion phase at that dose level.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05485974",
+ "importance": 0.7,
+ "key_points_ko": [
+  "KRAS G12C 변이 진행성 고형암 환자를 대상으로 신약 HBI-2438의 최대 내약 용량 및 2상 권장 용량을 결정하는 1상 시험입니다.",
+  "용량 증량은 150mg에서 1200mg까지 6개 코호트로 진행되며 최대 44명의 환자가 등록됩니다.",
+  "권장 용량 확립 후 뇌전이가 있는 환자 6~8명을 포함하는 확장 코호트가 계획되어 있습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05485974"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1"
+ ],
+ "published_at": "2022-08-03",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HUYABIO International, LLC.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05485974"
+ },
+ "summary_ko": "이 연구는 KRAS G12C 변이가 있는 진행성 고형암(췌장암, 폐암, 대장암 등) 환자를 대상으로 경구용 KRAS G12C 억제제인 HBI-2438 단독요법을 평가하는 1상 임상시험입니다. 1일 1회 복용 방식으로 약물의 최대 내약 용량(MTD)과 2상 권장 용량(RP2D)을 확인하고 체내 약동학적 특성을 파악하고자 합니다. 총 44명의 환자를 목표로 150mg부터 1200mg까지 6개 코호트로 용량을 증량하며 안전성을 모니터링합니다. 권장 용량이 결정된 후에는 뇌전이 환자 6~8명을 추가로 등록하는 확장 코호트가 진행될 예정입니다.",
+ "summary_source": "llm",
+ "tags": [
+  "KRAS G12C",
+  "FIH"
+ ],
+ "title": "A Dose Escalation Study of HBI-2438 in Patients With Solid Tumors Harboring KRAS G12C Mutation",
+ "title_ko": "KRAS G12C 변이를 보유한 고형암 환자를 대상으로 한 HBI-2438의 용량 증량 1상 임상시험",
+ "trial": {
+  "conditions": [
+   "Lung Cancer",
+   "Non Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Cancer of Pancreas",
+   "Colon Cancer",
+   "Solid Tumor",
+   "Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n• 만 18세 이상의 성인 환자\n• 유전자 검사로 확인된 KRAS G12C 변이 진행성 악성 고형암(췌장암 포함)\n• 표준 치료에 실패했거나 거부한 환자, 표준 치료가 부적합하거나 효과를 기대하기 어려운 환자\n• RECIST v1.1 기준 최소 1개 이상의 측정 가능한 표적 병변 보유\n• ECOG 수행능력 점수(PS) 0 또는 1점\n• 기대 여명이 3개월을 초과하는 환자\n• 경구 약물 복용이 가능하고 흡수에 중대한 영향을 미치는 위장관 장애가 없는 환자\n\n제외 기준:\n• 이전에 다른 KRAS G12C 억제제로 치료받은 병력이 있는 경우\n• 치료받지 않았거나 증상이 있는 중추신경계(뇌) 전이 환자 (치료 후 최소 4주간 안정적이고 스테로이드 투여가 없는 무증상 환자는 참여 가능)\n• 등록 전 3년 이내 다른 동시 원발암 병력이 있는 경우 (완치 목적 치료 후 2년 내 재발 위험 5% 미만인 경우 등 제외)\n• 첫 투여 전 6개월 이내 뇌졸중, 심근경색, 불안정 협심증 또는 NYHA 2등급 이상의 울혈성 심부전 등 중대한 심혈관 질환\n• 활성 자가면역 질환이 있거나 재발 가능성이 있는 자가면역 질환 병력\n• 첫 투여 전 14일 이내 전신 스테로이드나 면역억제제 치료를 받은 경우\n• 임신 또는 수유 중인 여성",
+  "eligibility_text": "Inclusion Criteria:\n\nKey Inclusion Criteria:\n\nMale or female at least 18 years of age at the time of signing the ICF prior to initiation of any study specific activities/procedures\n\nAdvanced malignant solid tumors with KRAS G12C mutation- as determined by genetic testing\n\nMust have failed or refused standard of care therapy, are not eligible for standard of care therapy, or cannot benefit from standard of care therapy, in the opinion of the Investigator\n\nAt least 1 measurable target lesion that meets the definition of RECIST v1.1\n\nECOG Performance Status of 0 or 1\n\nDemonstrate adequate organ function\n\nExpected survival time \\> 3 months in the opinion of the investigator\n\nMust be able to swallow oral medications and must not have gastrointestinal abnormalities that significantly affect drug absorption\n\nExclusion Criteria:\n\nKey Exclusion Criteria:\n\nHistory of another concurrent malignancy within 3 years prior to study entry, unless the malignancy was treated with curative intent and the likelihood of relapse is \\<5% in 2 years Note: Subjects with a history of squamous or basal cell carcinoma of the skin or carcinoma in the situ of the cervix may be enrolled\n\nUntreated or symptomatic central nervous system (CNS) metastases Note: Subjects with asymptomatic treated CNS metastases are eligible provided they have been clinically stable and not requiring steroids for at least 4 weeks\n\nClinically significant cardiovascular disease, including stroke or myocardial infarction within 6 months prior to first dose of HBI-2438; or the presence of unstable angina or congestive heart failure of New York Heart Association Grade 2 or higher\n\nAny unresolved Grade 2 or greater toxicity from previous anti-cancer therapy, except alopecia, within 4 weeks of first study treatment administration\n\nActive autoimmune diseases or history of autoimmune diseases that may relapse\n\nPregnant or nursing\n\nPrior treatment with any KRAS G12C inhibitors\n\nAny condition that required systemic treatment with either corticosteroids (\\>10 mg daily of prednisone or equivalent) or other immunosuppressive medication ≤14 days before the first study treatment administration\n\nTreatment with other investigational drugs/devices within 4 weeks prior to first study treatment administration",
+  "enrollment": 44,
+  "has_results": false,
+  "interventions": [
+   "HBI-2438"
+  ],
+  "last_update_posted": "2026-11-16",
+  "location_countries": [
+   "Puerto Rico",
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [
+    "KRAS_G12C"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 KRAS G12C 억제제 치료 병력",
+    "증상이 있거나 치료받지 않은 뇌전이",
+    "최근 6개월 이내의 뇌졸중, 심근경색 등 중대한 심혈관 질환",
+    "최근 3년 이내의 다른 암 병력",
+    "활동성 자가면역 질환"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "표준 치료에 실패했거나 대안이 없는 KRAS G12C 변이 진행성 췌장암 및 고형암 환자",
+   "prior_excluded": [
+    "KRAS_inhibitor"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 14,
+  "nct_id": "NCT05485974",
+  "phase": "PHASE1",
+  "primary_completion_date": "2026-12-31",
+  "sex": "ALL",
+  "sponsor": "HUYABIO International, LLC.",
+  "start_date": "2022-08-01",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

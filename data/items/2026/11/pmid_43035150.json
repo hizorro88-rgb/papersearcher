@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Locoregional recurrence remains a major clinical challenge in borderline resectable (BR) and unresectable locally advanced (UR-LA) pancreatic cancer, even after stereotactic body radiotherapy (SBRT). This phase I trial evaluated the safety, maximum tolerated dose (MTD), and preliminary efficacy of adding prophylactic elective nodal irradiation (ENI) to 5-fraction SBRT.\nMETHODS: Patients with BR/UR-LAPC were enrolled in a 3 + 3 dose-escalation design. SBRT was delivered in 5 fractions using either adaptive magnetic resonance image-guided radiation therapy or respiratory breath-hold radiotherapy with a fiducial marker. The ENI dose was fixed at 30 Gy in five fractions, while the primary tumor dose increased from Level 1 (35 Gy) to Level 3 (40 Gy). The primary endpoint was acute dose-limiting toxicity (DLT) (any Grade ≥ 3 non-hematological adverse events within 14 days after the completion of SBRT).\nRESULTS: Twelve patients (BR: 4, LA: 8) were enrolled, 11 of whom had previously received systemic chemotherapy. One patient at Level 1 experienced acute Grade 3 anorexia/nausea requiring hospitalization. No DLTs were observed at Levels 2 and 3, and the MTD was not reached. Three patients with preexisting biliary stents developed subacute Grade 3 cholangitis. No Grade ≥ 3 late adverse events occurred. The median overall survival after SBRT was 17.3 months, and the 1-year locoregional control rate was 75%.\nCONCLUSION: Five-fraction SBRT with simultaneous 30 Gy ENI was feasible, and the MTD was not reached within the tested dose levels up to 40 Gy. Further prospective studies are needed to evaluate its long-term safety and treatment outcomes.",
+ "authors": [
+  "Umezawa R",
+  "Mizuma M",
+  "Nakagawa K",
+  "Katsuta Y",
+  "Tanaka S",
+  "Yamamoto T",
+  "Takahashi N",
+  "Suzuki Y"
+ ],
+ "categories": [
+  "treatment",
+  "trial",
+  "surgery"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43035150",
+ "importance": 0.71,
+ "key_points_ko": [
+  "총 12명의 환자(경계성 절제 가능 4명, 국소 진행성 8명)를 대상으로 원발 종양 선량을 최대 40 Gy까지 증량했으나 최대 내약 용량(MTD)에 도달하지 않았습니다.",
+  "급성 용량 제한 독성으로 1단계(35 Gy)에서 입원을 요하는 3등급 식욕부진 및 오심 1건이 관찰되었고, 기존 담도 스텐트가 있던 환자 3명에서 아급성 3등급 담관염이 발생했습니다.",
+  "방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월, 1년 국소 제어율은 75%였습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1016/j.radonc.2026.111871",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43035150"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-15",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiother Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035150/"
+ },
+ "summary_ko": "경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암 환자를 대상으로 5회 분할 정위체부방사선치료(SBRT)에 예방적 림프절 조사(ENI)를 병용했을 때의 안전성과 최대 내약 용량(MTD)을 평가한 1상 연구 결과입니다. 총 12명의 환자에게 예방적 림프절 30 Gy 조사와 함께 원발 종양 선량을 35 Gy에서 40 Gy까지 증량하여 조사했습니다. 원발 부위 선량을 40 Gy까지 증량하는 동안 최대 내약 용량에 도달하지 않아 치료의 안전성과 실행 가능성을 확인했습니다. 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월이었으며 1년 국소 제어율은 75%였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Phase I dose-escalation study of stereotactic body radiotherapy with elective nodal irradiation for borderline resectable and unresectable locally advanced pancreatic cancer",
+ "title_ko": "경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암에서 예방적 림프절 조사를 병용한 정위체부방사선치료의 1상 용량 증량 연구",
+ "trial": null,
+ "type": "paper"
+}

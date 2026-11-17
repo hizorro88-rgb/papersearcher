@@ -1,0 +1,57 @@
+{
+ "abstract": "Dear Editor, As a reply to the Letter to the Editor written by Yasin Alper Yildiz (1), first we are thankful for the interest in our study. We thank the authors for their careful reading of our manuscript and for raising this important methodological issue. We agree that the equations used for the calculation of predicted morbidity and mortality should have been stated more explicitly in the Methods section. For clarification, the physiological score (PS) and operative severity score (OS) were calculated according to the original POSSUM scoring system. [ a href=\"https://revistachirurgia.ro/pdfs/2026-5-595.pdf\" read more /a ].",
+ "authors": [
+  "Hajjar NA"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43037110",
+ "importance": 0.5,
+ "key_points_ko": [
+  "P-POSSUM 위험 점수 체계의 산출 공식에 대한 독자 질의에 응답한 설명글입니다.",
+  "생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 체계를 준수하여 산출되었습니다.",
+  "본 답변 초록에는 구체적인 환자 수나 사망률 관련 수치가 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.21614/chirurgia.3411",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43037110"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chirurgia (Bucur)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037110/"
+ },
+ "summary_ko": "본 논문은 췌십이지장절제술(pancreaticoduodenectomy) 후 합병증 발생률과 사망률을 예측하기 위해 P-POSSUM 위험 점수 체계를 평가한 연구에 대해 제기된 편집자 서한에 대한 답변입니다. 저자들은 연구 방법론에 대한 질의에 감사하며, 점수 산출 공식을 명확히 설명했습니다. 생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 점수 체계 기준에 따라 계산되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Reply to the Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy",
+ "title_ko": "편집자 서한에 대한 답변: 췌십이지장절제술 후 합병증 발생률 및 사망률 예측에 있어 P-POSSUM 위험 점수 체계의 평가",
+ "trial": null,
+ "type": "paper"
+}

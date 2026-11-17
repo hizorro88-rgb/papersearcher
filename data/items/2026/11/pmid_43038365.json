@@ -1,0 +1,63 @@
+{
+ "abstract": "OBJECTIVES: To characterize completion of fecal elastase-1 (FE-1) testing, identify clinical contexts associated with abnormal results, evaluate downstream diagnostic and treatment events, and determine the clinical significance of non-completion.\nMETHODS: We conducted a retrospective cohort study of adults with FE-1 orders from 2017 through 2022 in a large integrated health system. Orders placed within 30 days were consolidated into diagnostic episodes. Completion required a linked specimen with a reported result. We evaluated pre-order clinical contexts and one-year outcomes and performed a weighted manual chart review of 200 unique patients with non-completed episodes sampled from four downstream pathway strata.\nRESULTS: Among 23,422 diagnostic episodes, 11,834 (50.5%) were completed. FE-1 ≤200 µg/g occurred in 20.4% of interpretable results and varied by clinical context: 13.7% with irritable bowel syndrome, 21.2% with chronic diarrhea, 38.3% with chronic pancreatitis, 60.1% with pancreatic cancer, and 79.5% after pancreatic surgery. Initial completion was associated with higher odds of new exocrine pancreatic insufficiency diagnosis (adjusted odds ratio, 2.27; 95% confidence interval, 1.91-2.70) and pancreatic enzyme replacement therapy initiation (adjusted odds ratio, 2.20; 95% confidence interval, 1.89-2.55), whereas non-completion was associated with more repeat FE-1 testing. Among eligible unique non-completers, weighted chart review classified 66.9% as probable missed diagnostic follow-through based on available documentation; failure to submit or return the specimen (60.1%) and specimen-processing problems (20.4%) predominated.\nCONCLUSIONS: FE-1 completion was modestly associated with measured pre-order factors, while abnormal results varied substantially by clinical context. Specimen return, processing, and closed-loop follow-up represent potential targets for improving evaluation of exocrine pancreatic insufficiency.",
+ "authors": [
+  "Chatterjee A",
+  "Kaul R",
+  "Allaoa A",
+  "Patel I",
+  "Prado R",
+  "Vikash F",
+  "Syed KA",
+  "Firkins S"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43038365",
+ "importance": 0.67,
+ "key_points_ko": [
+  "처방된 대변 엘라스타제-1(FE-1) 검사 중 실제 검사가 완료된 비율은 50.5%(11,834건)에 불과했습니다.",
+  "FE-1 수치가 200 µg/g 이하로 떨어진 외분비 기능부전 비율은 췌장암 환자에서 60.1%, 췌장 수술 후 환자에서 79.5%였습니다.",
+  "검사를 정상 완료했을 때 새로운 췌장 외분비 기능부전 진단율은 2.27배, 췌장 소화효소제 치료 시작률은 2.20배 높았습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1097/MPA.0000000000002738",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43038365"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreas",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43038365/"
+ },
+ "summary_ko": "본 연구는 대변 엘라스타제-1(FE-1) 검사의 완료율과 비정상 결과 관련 요인, 그리고 검사 미완료가 미치는 임상적 영향을 평가한 후향적 코호트 연구입니다. 2017년부터 2022년까지 FE-1 검사가 처방된 23,422건의 진단 사례 중 실제 검사가 완료된 비율은 50.5%였습니다. 검사 결과가 비정상(FE-1 ≤200 µg/g)으로 나온 비율은 췌장암 환자에서 60.1%, 췌장 수술 후 환자에서 79.5%로 매우 높았습니다. 검사를 완료한 환자는 췌장 외분비 기능부전(EPI) 진단 및 췌장 효소 대체요법(PERT) 처방을 받을 가능성이 2배 이상 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Predictors of Fecal Elastase Testing Completion in Outpatient and Inpatient Settings: A Single Center Retrospective Analysis",
+ "title_ko": "외래 및 입원 환경에서의 대변 엘라스타제 검사 완료 예측 인자: 단일 기관 후향적 분석",
+ "trial": null,
+ "type": "paper"
+}

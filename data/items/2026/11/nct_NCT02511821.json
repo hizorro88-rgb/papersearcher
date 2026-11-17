@@ -1,0 +1,137 @@
+{
+ "abstract": "This pilot clinical trial studies an electronic monitoring device of patient-reported outcomes (PROs) and function in improving patient-centered care in patients with gastrointestinal cancer undergoing surgery. Electronic monitoring is a technology-based way of asking patients about the quality of life, symptoms, and activity using online surveys and an activity tracking watch may make it easier for patients to tell their doctors and nurses about any issues before and after surgery. Electronic systems of assessing PROs may increase the depth and accuracy of available clinical data, save administrative time, prompt early intervention that improves the patient experience, foster patient-provider communication, improve patient safety, and enhance the consistency of data collection across multiple sites.\n\nPRIMARY OBJECTIVES:\n\nI. To determine the feasibility of administration of electronic patient-reported outcomes and functional assessment in gastrointestinal (GI) cancer surgery (gastric, colorectal, liver, pancreas).\n\nII. Determine percentage of patients able to complete \\> 80% of MD. Anderson Symptom Inventory (MDASI) and European Quality of LIfe-5 Dimensions (EQ-5D) web-based surveys.\n\nIII. Determine percentage of patients able to wear the wristband device at least 1 week post-operatively.\n\nIV. Determine length of time to complete the web-based surveys.\n\nV. Determine length of time patients are able to wear the wristband device, before and after surgery.\n\nSECONDARY OBJECTIVES:\n\nI. Determine the percentage of patients who did not enroll in the study and analyze the reasons why. This will be accomplished using: 1) the number of patients asked to participate; 2) the number of patients who declined to participate, and 3) reasons for declining participation.\n\nII. Responses from the Satisfaction Tool will be used to assess: 1) ease of use of web-based surveys and wristband device; 2) feedback on items in the web-based surveys that are distressing or difficult to comprehend; 3) feedback on length of surveys and timing of administration; and 4) suggestions for items that were not covered but should be added.\n\nIII. Calculate the mean number of missing items within each questionnaire to identify individual or subsets of questions that are difficult to answer.\n\nOUTLINE:\n\nPatients complete online surveys comprising questions about quality of life, symptoms, and activity level, and wear a wristband device (Vivofit watch) 3-7 days prior to and after surgery. After going home, patients complete the symptom survey three times a week and quality of life survey once a week for 2 weeks post-surgery.\n\nAfter completion of study, patients are followed up for 1 month.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02511821",
+ "importance": 0.71,
+ "key_points_ko": [
+  "수술 전후 스마트워치 착용 및 웹 기반 설문을 통한 환자 보고 결과(PRO) 수집의 실행 가능성을 평가했습니다.",
+  "퇴원 후 2주 동안 주 3회 증상 설문, 주 1회 삶의 질 설문을 완료하고 스마트워치를 착용하도록 구성되었습니다.",
+  "총 22명의 위암, 대장암, 간암, 췌장암 환자를 목표로 진행된 초기 파일럿 연구입니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02511821"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2015-07-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "City of Hope Medical Center",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02511821"
+ },
+ "summary_ko": "이 임상시험은 췌장암을 포함한 위장관암으로 수술을 받는 환자를 대상으로 온라인 설문과 활동량 측정 시계(Vivofit watch)를 활용한 전자 모니터링의 타당성을 평가하는 파일럿 연구입니다. 환자는 수술 전후 3~7일간 스마트워치를 착용하고 삶의 질, 증상, 활동량에 관한 온라인 설문(MDASI, EQ-5D)을 작성합니다. 이를 통해 수술 전후 환자의 증상과 신체 기능을 보다 정확하게 파악하고 의료진과의 소통을 개선할 수 있는지 확인합니다. 총 22명의 환자를 대상으로 진행되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Electronic Monitoring Device of Patient-Reported Outcomes and Function in Improving Patient-Centered Care in Patients With Gastrointestinal Cancer Undergoing Surgery",
+ "title_ko": "수술을 받는 위장관암 환자의 환자 중심 치료 향상을 위한 환자 보고 결과 및 신체 기능 전자 모니터링 기기 연구",
+ "trial": {
+  "conditions": [
+   "Stage I Adult Liver Cancer",
+   "Stage I Colorectal Cancer",
+   "Stage IA Gastric Cancer",
+   "Stage IA Pancreatic Cancer",
+   "Stage IB Gastric Cancer",
+   "Stage IB Pancreatic Cancer",
+   "Stage II Adult Liver Cancer",
+   "Stage IIA Colorectal Cancer",
+   "Stage IIA Gastric Cancer",
+   "Stage IIA Pancreatic Cancer",
+   "Stage IIB Colorectal Cancer",
+   "Stage IIB Gastric Cancer",
+   "Stage IIB Pancreatic Cancer",
+   "Stage IIC Colorectal Cancer",
+   "Stage III Pancreatic Cancer",
+   "Stage IIIA Adult Liver Cancer",
+   "Stage IIIA Colorectal Cancer",
+   "Stage IIIA Gastric Cancer",
+   "Stage IIIB Adult Liver Cancer",
+   "Stage IIIB Colorectal Cancer",
+   "Stage IIIB Gastric Cancer",
+   "Stage IIIC Adult Liver Cancer",
+   "Stage IIIC Colorectal Cancer",
+   "Stage IIIC Gastric Cancer",
+   "Stage IV Gastric Cancer",
+   "Stage IVA Colorectal Cancer",
+   "Stage IVA Liver Cancer",
+   "Stage IVA Pancreatic Cancer",
+   "Stage IVB Colorectal Cancer",
+   "Stage IVB Liver Cancer",
+   "Stage IVB Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n* 원발성 또는 이차성 위암, 대장암, 간암, 췌장암으로 수술이 예정된 환자\n* 영어 읽기 및 이해가 가능한 자\n* 모든 병기의 환자 참여 가능\n* 전신수행능력(PS)이나 기대여명에 대한 제한 없음\n* 구두 동의 제공이 가능한 자\n\n제외 기준:\n* 컴퓨터 및 인터넷 접근이 불가능하거나 집에 컴퓨터가 있어도 사용하지 않는 자\n* 연구자의 판단상 안전 모니터링 요구사항을 준수하기 어려울 것으로 판단되는 자",
+  "eligibility_text": "Inclusion Criteria:\n\n* Scheduled to undergo surgery for primary or secondary gastric, colorectal, liver, or pancreas cancer\n* Able to read and understand English\n* Patients across all stages of disease\n* There are no restrictions related to performance status or life expectancy\n* This protocol is eligible for waiver of informed consent documentation; all subjects must have the ability to understand and the willingness to provide verbal informed consent\n\nExclusion Criteria:\n\n* Research participants who have no computer and internet access and/or do not use a computer even if one is present in the household\n* Subjects, who in the opinion of the investigator, may not be able to comply with the safety monitoring requirements of the study",
+  "enrollment": 22,
+  "has_results": false,
+  "interventions": [
+   "Computer-Assisted Intervention",
+   "Vivofit watch",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "last_update_posted": "2026-11-16",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "컴퓨터 및 인터넷 사용이 불가능한 경우",
+    "연구 모니터링 절차를 준수하기 어려운 경우"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": false,
+   "min_prior_lines": null,
+   "notes_ko": "수술이 예정된 췌장암 등 위장관암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "21 Years",
+  "n_locations": 1,
+  "nct_id": "NCT02511821",
+  "phase": "NA",
+  "primary_completion_date": "2016-07-31",
+  "sex": "ALL",
+  "sponsor": "City of Hope Medical Center",
+  "start_date": "2015-07-22",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

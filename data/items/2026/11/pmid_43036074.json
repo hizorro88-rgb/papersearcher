@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVES: To prospectively evaluate the diagnostic performance of a structured scoring system integrating multiple pancreatic cancer (PC)-relevant factors for detecting early-stage PC among clinically selected outpatients.\nMETHODS: In this nationwide multicenter prospective cohort study, consecutive physician-selected outpatients undergoing initial endoscopic ultrasonography for mild symptoms, risk factors, or subtle imaging abnormalities were enrolled. Risk factors were categorized as low- or high-grade relevance (LGR/HGR), with one point per factor. A positive score was defined as LGR ≥ 3 and/or HGR ≥ 1. Diagnostic performance for high-grade dysplasia (HGD)/stage 1 PC was compared with that of conventional symptom-, family history-, and genetic risk-based approaches within this cohort.\nRESULTS: Among 3269 patients, 2525 were score-positive and 744 were score-negative. For HGD/stage 1 PC, the sensitivity, specificity, positive predictive value, and negative predictive value were 93.2%, 23.1%, 2.7%, and 99.3%, respectively. Sensitivity significantly exceeded that of conventional approaches (93.2% vs. 56.8%, p < 0.001), although paired comparison using the conditional relative odds ratio (CROR) showed no significant difference (CROR, 1.79; 95% CI, 0.54-5.90; p = 0.34). HGD/stage 1 PC detection was significantly higher in score-positive than in score-negative patients (2.7% vs. 0.7%, p = 0.001). Among PCs detected in score-positive patients, 24.3% were HGD/stage 1.\nCONCLUSIONS: The scoring system demonstrated high cross-sectional sensitivity for HGD/stage 1 PC detection among clinically selected outpatients undergoing detailed PC evaluation. Its utility for selecting patients from unselected general outpatient populations remains unestablished. Prospective validation in consecutive general outpatients with systematic longitudinal follow-up is warranted.\nTRIAL REGISTRATION: This study was registered in the University Hospital Medical Network Clinical Trials Registry (http://www.umin.ac.jp/ctr/index.htm) as UMIN000034832 on December 1, 2018.",
+ "authors": [
+  "Sagami R",
+  "Yamao K",
+  "Shimizu A",
+  "Nishikiori H",
+  "Yoshida K",
+  "Yoshida A",
+  "Takenaka M",
+  "Imai H"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43036074",
+ "importance": 0.64,
+ "key_points_ko": [
+  "총 3,269명의 외래 환자를 분석한 결과, 고도 이형성증(HGD) 및 1기 췌장암에 대한 해당 점수화 시스템의 민감도는 93.2%, 음성 예측도는 99.3%였습니다.",
+  "기존 증상·가족력 기반 선별법 대비 조기 췌장암 민감도가 유의하게 높았습니다 (93.2% 대 56.8%, p < 0.001).",
+  "점수 양성 환자군에서 조기 췌장암 발견율은 2.7%로 점수 음성군(0.7%)보다 유의하게 높았으며(p = 0.001), 점수 양성군에서 발견된 전체 췌장암 중 24.3%가 HGD 또는 1기였습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1002/ueg2.70329",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43036074"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "United European Gastroenterol J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036074/"
+ },
+ "summary_ko": "본 연구는 경미한 증상, 위험 요인, 미세한 영상 이상 등으로 내시경 초음파(EUS)를 처음 받는 외래 환자 3,269명을 대상으로 췌장암 조기 발견 점수화 시스템의 성능을 전향적으로 평가했습니다. 여러 위험 요인을 결합한 해당 점수화 시스템에서 양성 판정을 받은 환자는 2,525명, 음성 판정을 받은 환자는 744명이었습니다. 고도 이형성증(HGD) 및 1기 췌장암에 대해 이 점수화 시스템은 93.2%의 높은 민감도를 보여 기존의 증상·가족력 기반 접근법(56.8%)보다 유의하게 우수했습니다. 점수 양성 환자군에서의 조기 췌장암 발견율은 2.7%로, 점수 음성 환자군의 0.7%에 비해 유의하게 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "High-Sensitivity Detection of Early Pancreatic Cancer Using a Structured Scoring System Among Clinically Selected Outpatients: A Nationwide Prospective Study",
+ "title_ko": "임상적으로 선별된 외래 환자에서 구조화된 점수화 시스템을 활용한 조기 췌장암 고감도 발견: 전국 규모 전향적 연구",
+ "trial": null,
+ "type": "paper"
+}

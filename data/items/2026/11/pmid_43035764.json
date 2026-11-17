@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a clinical challenge, projected to become the second leading cause of cancer-related death by 2030. Traditional research has historically relied on established PDAC-derived cell lines to establish 2D in vitro models or in vivo xenografts for drug discovery. These approaches, however, fail to encompass the complexity of PDAC and few studies have been translated into game-changing treatments for patients with pancreatic cancer. This review advocates for a paradigm shift through the integration of complementary modeling strategies. We provide a comprehensive evaluation of more sophisticated in vitro systems, such as 3D models (spheroids and organoids), co-cultures and microfluidics, which offer scalable platforms for high-throughput screening and mechanistic analysis. Likewise, we emphasize the indispensable role of in vivo models, including genetically engineered mouse models (GEMMs) for studying stepwise progression and immune evasion, and patient-derived xenografts (PDXs) for capturing human-specific drug sensitivities and intratumoral heterogeneity. Beyond functional models, we explore the clinical utility of transcriptomic profiling to define PDAC subtypes, facilitating real-time patient stratification in landmark clinical trials. We further examine the role of liquid biopsy as a dynamic tool for monitoring minimal residual disease and the emergence of treatment resistance. Finally, we discuss the future of pharmacogenomics, the \"tri-genomic\" influence of the microbiome, and the integration of multi-omics through artificial intelligence to optimize individual therapeutic outcomes. By unifying these diverse predictive paradigms, we aim to bridge the gap between preclinical discovery and precision oncology, fostering more effective and individualized treatment strategies for all PDAC patients.",
+ "authors": [
+  "López-Gil JC",
+  "Campa D",
+  "Rizzato C",
+  "Espinet E",
+  "Barreto E",
+  "Sainz B",
+  "Earl J"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43035764",
+ "importance": 0.62,
+ "key_points_ko": [
+  "기존 2차원 세포주 중심의 전임상 연구 한계를 극복하기 위해 3차원 오가노이드 및 환자 유래 이종이식(PDX) 모델의 필요성을 강조했습니다.",
+  "액체 생검(liquid biopsy)을 통해 미세잔존질환과 치료 저항성의 조기 감시 가능성을 제시했습니다.",
+  "전사체 아형 분석, 약물유전체학, 마이크로바이옴 및 인공지능(AI) 다중오믹스를 통합하여 췌장암 개인 맞춤형 정밀 치료로의 전환을 제안했습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1186/s12943-026-02773-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43035764"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-08-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035764/"
+ },
+ "summary_ko": "췌장관선암(PDAC)의 복잡한 특성으로 인해 전통적인 2차원 세포주 연구는 환자에게 실질적인 치료법으로 이어지는 데 한계가 있었습니다. 본 종설 논문은 오가노이드(organoid)와 스페로이드(spheroid) 등 3차원 시험관 내 모델과 환자 유래 이종이식(PDX), 유전자 변형 쥐 모델(GEMM)의 통합적 활용 방안을 종합적으로 분석했습니다. 나아가 전사체 프로파일링을 통한 환자 아형 분류, 미세잔존질환 및 약물 저항성을 모니터링하는 액체 생검(liquid biopsy)의 임상적 유용성을 논의했습니다. 최종적으로 인공지능(AI) 기반 다중오믹스 분석과 마이크로바이옴 등을 융합하여 전임상 연구와 정밀 종양학의 간극을 좁히고 맞춤형 치료를 실현할 미래 방향을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Unifying functional experimental systems with clinical predictive technologies for personalized care in PDAC",
+ "title_ko": "췌장관선암의 개인 맞춤형 치료를 위한 기능적 실험 시스템과 임상 예측 기술의 통합",
+ "trial": null,
+ "type": "paper"
+}

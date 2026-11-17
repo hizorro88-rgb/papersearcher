@@ -1,0 +1,131 @@
+{
+ "abstract": "To evaluate the safety and tolerability of Am80（Generic name: Tamibarotene, Development code: MIKE-1） in combination with gemcitabine (GEM) and nab-paclitaxel (nab-PTX) in patients with unresectable pancreatic cancer and to determine the recommended dose. Efficacy will also be exploratively investigated.\n\nCancer-associated fibroblasts (CAFs) are an important component of the tumor microenvironment. The most common notion in the CAF research field has been that CAFs promote cancer progression through various mechanisms. Interestingly, however, recent studies have revealed that CAFs are heterogeneous and that CAF subsets that suppress cancer progression (cancer-restraining CAFs \\[rCAFs\\]) must exist in addition to well-characterized cancer-promoting CAFs (pCAFs). However, the identity and specific markers of rCAFs have not been reported.\n\nThe investigators recently identified Meflin as a specific marker protein of rCAFs in pancreatic and colon cancers. The investigator's studies revealed that rCAFs are similar to a small subset of resident fibroblasts, which is consistent with the famous hypothesis proposed by Micheal Stoker (University of Glasgow) more than 50 years ago, stating that static normal fibroblasts suppress tumor growth. Interestingly, The investigator's lineage tracing experiments showed that Meflin-positive rCAFs differentiate into Meflin-negative pCAFs during cancer progression. These studies revealed that the tumor stroma is comprised of pCAFs and rCAFs, which is analogous to the heterogeneity of tumor-infiltrating immune cells (e.g., protumor regulatory T cells versus antitumor cytotoxic T cells).\n\nThe identification of the rCAF marker Meflin enabled the investigators to develop new strategies to convert or reprogram pCAFs to rCAFs. Using a pharmacological approach, The investigators performed a chemical library screen and identified Am80, a synthetic unnatural retinoid, as a reagent that effectively converts Meflin-negative pCAFs to Meflin-positive rCAFs. Am80 administration improved the sensitivity of pancreatic cancer to chemotherapeutics. These data suggested that the conversion of pCAF to rCAFs may represent a new strategy for pancreatic cancer treatment.\n\nThe object of this study is to perform an investigator-initiated clinical study to investigate the effect of AM80 on pancreatic cancer with a combination of conventional tumoricidal agents including gemcitabine and nab-paclitaxel.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT05064618",
+ "importance": 0.87,
+ "key_points_ko": [
+  "수술 불가능한 췌장암 1차 치료 환자 60명을 대상으로 Am80과 젬시타빈+냅-파클리탁셀 병용 투여를 평가했습니다.",
+  "암 촉진 섬유아세포를 암 억제형 섬유아세포로 재프로그래밍하는 기전을 임상에서 탐색했습니다.",
+  "주요 목표는 병용요법의 안전성 및 내약성 평가와 권장 용량(RD) 결정입니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT05064618"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2021-10-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nagoya University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT05064618"
+ },
+ "summary_ko": "수술이 불가능한 췌장암 환자를 대상으로 Am80(타미바로텐, Tamibarotene)과 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-paclitaxel) 병용요법의 안전성과 내약성을 평가하고 권장 용량을 결정하기 위한 1/2상 임상시험입니다. 암 관련 섬유아세포(CAF)를 암 억제형으로 전환시키는 합성 레티노이드인 Am80을 항암제와 병용 투여하여 치료 민감도를 높이고자 합니다. 이전에 항암 치료를 받은 적이 없는 성인 환자 60명을 대상으로 진행되었습니다. 유효성 또한 탐색적으로 평가합니다.",
+ "summary_source": "llm",
+ "tags": [
+  "Am80",
+  "Meflin",
+  "Cancer-associated fibroblasts",
+  "Tamibarotene",
+  "ISLR",
+  "Cancer-restraining CAFs",
+  "Cancer-promoting CAFs",
+  "MIKE-1",
+  "Vitamin A"
+ ],
+ "title": "Investigator-initiated Clinical Trial of MIKE-1",
+ "title_ko": "수술 불가능한 췌장암 환자 대상 Am80(타미바로텐) 및 젬시타빈+냅-파클리탁셀 병용요법 1/2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 조직학적 또는 세포학적으로 선암으로 진단된 수술 불가능한 췌장암 환자\n- 방사선, 항암치료, 면역치료, 수술 등 이전 항암 치료를 받은 적이 없는 환자(1차 치료)\n- 만 20세 이상 79세 이하\n- 조영증강 CT 기준 췌장 원발 부위에 1개 이상의 측정 가능 병변이 있는 환자\n- ECOG 수행능력 평가 0 또는 1점\n- 치료 시작 전 및 치료 8주 후 췌장 조직 생검(biopsy)이 가능한 환자\n\n제외 기준:\n- 조절되지 않는 심장 질환, 중증 고혈압/당뇨, 전신 치료가 필요한 활동성 자가면역질환 환자\n- 뇌전이가 확인된 환자\n- 배액이 필요한 복수 또는 흉수가 있는 환자\n- 2등급 이상의 말초 신경병증이 있는 환자\n- 5년 이내 다른 중복암 병력이 있는 환자\n- 항응고제 복용이 필요하거나 출혈성 질환이 있는 환자\n- 시험 약물이나 비타민 A 제제에 알레르기가 있거나 비타민 A 과다증이 있는 환자",
+  "eligibility_text": "* Inclusion Criteria:\n\n  \\- Patients who meet all of the following criteria will be eligible for this study. Besides, CTCAE v5.0 will be used to determine the grade of adverse events in this study.\n  1. Patients with unresectable pancreatic cancer who are histologically or cytologically diagnosed as adenocarcinoma based on the 7th edition of the Pancreatic Cancer Treatment Protocol and meet the following criteria.\n\n     Patients who have not received any anticancer therapy (radiation therapy, chemotherapy, immunotherapy, surgery, or investigational therapy) for this disease.\n  2. Patients who are between 20 and 79 years of age at the time of consent.\n  3. Patients with at least one measurable lesion based on RECIST ver 1.1 in the primary pancreatic lesion confirmed by contrast-enhanced CT at the screening.\n  4. Patients who are expected to survive for at least 12 weeks after the start of treatment.\n  5. Patients who can understand the contents of this study and can give written consent.\n  6. Patients with ECOG PS (Eastern Cooperative Oncology Group Performance Status) of 0 or 1\n  7. Patients who meet the following criteria in blood tests within 7 days before enrollment and whose organ functions are preserved (if blood transfusion is used, tests must be performed at intervals of at least 2 weeks afterward)\n\n     * Total bilirubin ≤ upper limit of institutional standard (ULN) x 1.5 (less than or equal to 3.0 mg/dL for patients undergoing ERBD or PTBD)\n     * AST (GOT) and ALT (GPT) ≦ ULN × 3 (In the case of abnormal liver function due to malignancy, ≤ ULN × 5)\n     * Creatinine ≤ 1.5 mg/dL or\n     * Creatinine clearance ≥ 60ml/min If creatinine clearance is not measured, the estimated value should be used.\n     * White blood cell count ≥ 3,500/mm3, ≤ 12,000/mm3\n     * Neutrophils ≥ 1,500/mm3\n     * Platelet count ≥ 100,000/mm3\n     * Hemoglobin ≥ 9.0g/dL\n     * Prothrombin activity level ≥ 70%\n  8. Outpatients who can go to the hospital.\n  9. Patients who can swallow or continue to take oral medications.\n  10. For women of childbearing potential, patients who can use contraception for at least 30 days before the start of study treatment, during the study period, and for at least 2 years after the end of treatment.\n  11. Patients who can undergo biopsy from pancreatic cancer ①within 28 days before the start of the study treatment and ② 8 weeks after the start of the study treatment (Day 57: acceptable range: ±7 days)\n* Exclusion Criteria:\n\n  1. Patients with any of the following complications Patients with poorly controlled heart disease (congestive heart failure, myocardial infarction, or unstable angina within 1 year before enrollment, arrhythmia requiring treatment, etc.) Poorly controlled diabetes or hypertension Active autoimmune disease requiring systemic administration of steroids or immunosuppression therapy Interstitial pneumonia or pulmonary fibrosis (patients with current grade 2 or higher)\n  2. Patients who have received other clinical trial drugs or products (excluding existing chemotherapeutic agents and placebo drugs) within 4 weeks before enrolment.\n  3. Patients with confirmed brain metastasis (confirmed by head CT or MRI if the patient has symptoms of brain metastasis)\n  4. Patients with ascites or pleural effusion requiring drainage.\n  5. Patients who fall under any of the following HBs antigen positive HCV antibody positive and HCV-RNA positive HIV antibody positive\n  6. Patients with Grade 2 or higher peripheral sensory or motor neuropathy\n  7. Patients with multiple cancers (multiple cancers are defined as simultaneous multiple cancers and metachronous multiple cancers with disease-free survival of 5 years or less. lesions equivalent to carcinoma in situ or intramucosal carcinoma that are considered curable by local treatment are not included in multiple cancers)\n  8. Patients who have undergone surgery (excluding diagnostic biopsy and review laparoscopy) within 4 weeks before enrollment.\n  9. Patients with bleeding disorders or coagulation disorders that preclude the safe biopsy under EUS (e.g., significant intratumoral bleeding, coagulation disorders, history of bleeding disorders, or complications).\n  10. Patients with a history of allergy to the trial drug, combination chemotherapy, its additives, or vitamin A products.\n  11. Patients requiring anticoagulant medication.\n  12. Patients with cerebral infarction, pulmonary infarction, other arterial or venous thrombosis or its sequelae with clinical symptoms.\n  13. Patients with gastrointestinal disorders that may affect the absorption of the investigational drug.\n  14. Female patients who are pregnant or breastfeeding (unless breastfeeding is discontinued and not resumed).\n  15. Male patients whose sex partner is a woman who wishes to become pregnant.\n  16. Patients with vitamin A overload.\n  17. Patients receiving vitamin A preparations or regularly using vitamin A-containing supplements (patients can be enrolled if the administration is discontinued at the time of obtaining consent).\n  18. Other patients deemed inappropriate by the investigator or sub-investigator.",
+  "enrollment": 60,
+  "has_results": false,
+  "interventions": [
+   "Am80",
+   "Gemcitabine",
+   "nab-Paclitaxel"
+  ],
+  "last_update_posted": "2026-11-16",
+  "location_countries": [
+   "Japan"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "뇌전이가 확인된 환자",
+    "배액이 필요한 복수 또는 흉수가 있는 환자",
+    "5년 이내 다른 암 병력이 있는 환자",
+    "활동성 자가면역질환 또는 심장질환 환자",
+    "항응고제 복용이 필요한 환자"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "이전에 전신 항암 치료를 받은 적이 없는 수술 불가능한 진행성 또는 전이성 췌장암 1차 치료 환자 대상",
+   "prior_excluded": [
+    "gemcitabine",
+    "FOLFIRINOX",
+    "platinum",
+    "fluoropyrimidine",
+    "irinotecan",
+    "taxane",
+    "immunotherapy",
+    "radiotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": "79 Years",
+  "min_age": "20 Years",
+  "n_locations": 2,
+  "nct_id": "NCT05064618",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2025-10-02",
+  "sex": "ALL",
+  "sponsor": "Nagoya University",
+  "start_date": "2021-08-23",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

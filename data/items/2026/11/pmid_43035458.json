@@ -1,0 +1,62 @@
+{
+ "abstract": "Gemcitabine (GEM) resistance remains a major challenge in pancreatic ductal adenocarcinoma (PDAC) treatment. Metabolic reprogramming is a hallmark of tumors, and imbalance in lipid metabolism promotes tumor progression and drug resistance. This study aims to elucidate the mechanism of Acyl-CoA Synthetase Long Chain Family Member 5 (ACSL5) in PDAC, its impact on fatty acid metabolism, and its clinical relevance. Through RNA sequencing, targeted metabolomics, proteomics, retrospective cohort studies, and a series of in vitro and in vivo experiments, the significance of ACSL5 was systematically investigated. Our results showed that ACSL5 was downregulated in GEM-resistant cells, and its high expression predicted better survival in PDAC patients. ACSL5 overexpression suppressed proliferation, migration, invasion, and GEM resistance in PDAC cells, while its knockdown promoted these phenotypes. ACSL5 may exert its effects through the PPARδ/CPT1A signaling pathway, thereby influencing fatty acid β-oxidation. Notably, ACSL5 selectively modulated n-6 docosapentaenoic acid (DPA-n6) levels, while prospective cohort studies have shown that high plasma DPA-n6 is an independent risk factor for poor prognosis. Junction Plakoglobin (JUP) was identified as an ACSL5-binding protein and was associated with ACSL5 ubiquitination and protein stability. In summary, ACSL5 acts as a tumor suppressor in PDAC by modulating fatty acid metabolism. DPA-n6 may serve as a novel prognostic biomarker, highlighting the clinical relevance of ACSL5-associated lipid metabolism in PDAC.",
+ "authors": [
+  "Chen Y",
+  "Wang Z",
+  "Zhang K",
+  "Ge X",
+  "Zhu J",
+  "Wang P",
+  "Li Z",
+  "Wang X"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43035458",
+ "importance": 0.54,
+ "key_points_ko": [
+  "ACSL5는 젬시타빈 내성 췌장암 세포에서 발현이 낮았으며, 높은 발현은 환자의 우수한 생존율과 연관되었습니다.",
+  "ACSL5 과발현은 암세포 증식 및 침윤을 줄이고 젬시타빈 내성을 극복하는 데 기여했습니다.",
+  "혈장 내 n-6 도코사펜타엔산(DPA-n6)의 높은 수치는 췌장암 환자의 불량한 예후를 예측하는 독립적 인자로 나타났습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1038/s41419-026-09197-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43035458"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Death Dis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035458/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)에서 지질 대사 효소인 ACSL5의 작용 기전과 젬시타빈(gemcitabine) 내성에 미치는 영향을 세포 및 동물 실험과 코호트 분석을 통해 조사했습니다. 연구 결과, ACSL5는 젬시타빈 내성 세포에서 발현이 감소되어 있었으며 환자 검체에서 높은 ACSL5 발현은 더 나은 생존율과 연관되었습니다. ACSL5의 과발현은 암세포 증식, 침윤 및 젬시타빈 내성을 억제했으며, 이는 지방산 산화 조절 및 n-6 도코사펜타엔산(DPA-n6) 수치 억제를 통해 매개되는 것으로 나타났습니다. 또한 혈장 내 높은 DPA-n6 수치는 불량한 예후의 독립적인 위험 인자로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ACSL5 suppresses pancreatic cancer progression and gemcitabine resistance by regulating n-6 docosapentaenoic acid metabolism",
+ "title_ko": "ACSL5의 n-6 도코사펜타엔산 대사 조절을 통한 췌장암 진행 및 젬시타빈 내성 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

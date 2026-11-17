@@ -16,12 +16,91 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 189건 · 최근 30일 112건
+전체 194건 · 최근 30일 111건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43037855"></a>
+#### [상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43037855/)
+<small>Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review</small>
+
+`논문` `메타분석` `수술` `치료 전반` `제약사·규제` `지지요법·삶의질` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.95
+
+상장간막동맥(SMA) 침범이 있는 국소 진행성 췌장암 환자에서 동맥 절제를 동반한 췌장절제술의 결과를 평가한 12개 연구(총 320명)를 분석한 체계적 문헌고찰 연구입니다. 환자의 97%에서 정맥 절제가 동시에 시행되었으며, 63%는 췌장전절제술을 받았습니다. 수술 후 주요 합병증 발생률은 31%, 90일 사망률은 8%로 나타났습니다. 완전 절제율(R0 절제율)은 80%였으며, 수술 후 중앙 생존기간은 8개월에서 20개월 사이로 보고되었습니다.
+
+- 동맥 절제를 동반한 췌장절제술을 받은 320명의 환자 중 주요 합병증 발생률은 31%(88/284명), 90일 사망률은 8%(27/320명)였습니다.
+- 동반된 주요 합병증으로는 췌장절제술 후 출혈이 19%(39/202명), 장간막 허혈이 3%(6/202명)에서 발생했습니다.
+- 절제면 음성(R0) 절제율은 80%(136/171명)였으며, 보고된 수술 후 중앙 생존기간은 8~20개월, 최고 5년 생존율은 21%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037855/) · [DOI](https://doi.org/10.1245/s10434-026-20922-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037855)</small>
+
+---
+<a id="nct-nct07627191"></a>
+#### [전이성 췌장암·대장암·간암의 1차 표준 치료와 GLP-1 유사체 병용 요법 임상시험](https://clinicaltrials.gov/study/NCT07627191)
+<small>GLP-1 RA Plus SOC Treatment in First-line, Metastatic Pancreatic, Colorectal, or Hepatocellular Cancer</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2026-06-04 · ClinicalTrials.gov · University of Arizona · 중요도 0.84
+
+**NCT07627191** · 초기 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07627191.md)
+
+비만 및 당뇨 환자에서 널리 쓰이는 GLP-1 수용체 작용제(세마글루타이드, semaglutide)를 전이성 소화기암의 1차 표준 항암치료와 병용했을 때의 안전성과 타당성을 평가하는 초기 1상 임상시험입니다. 전이성 췌장암 코호트의 경우 mFOLFIRINOX 표준 항암 화학요법과 병용하여 투여합니다. 참여 대상은 체질량지수(BMI)가 25 kg/m² 이상이고 이전에 전이성 질환으로 항암치료를 받지 않은 성인 환자 30명입니다. 대사 조절, 인슐린 저항성 완화 및 항염증 효과가 표준 치료에 미치는 영향과 안전성을 확인하는 것을 목표로 합니다.
+
+- 전이성 췌장암 환자에게 1차 표준 치료(mFOLFIRINOX)와 GLP-1 작용제(세마글루타이드)를 병용하는 초기 1상 연구입니다.
+- 체질량지수(BMI) 25 kg/m² 이상인 과체중 또는 비만 환자를 대상으로 안전성과 내약성을 중점 평가합니다.
+- 전이성 질환에 대해 이전 전신 항암치료를 받은 적이 없어야 하며, 인슐린 투여 중이거나 악액질이 있는 환자는 제외됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07627191) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07627191)</small>
+
+---
+<a id="nct-nct02511821"></a>
+#### [수술을 받는 위장관암 환자의 환자 중심 치료 향상을 위한 환자 보고 결과 및 신체 기능 전자 모니터링 기기 연구](https://clinicaltrials.gov/study/NCT02511821)
+<small>Electronic Monitoring Device of Patient-Reported Outcomes and Function in Improving Patient-Centered Care in Patients With Gastrointestinal Cancer Undergoing Surgery</small>
+
+`임상시험` `기타` `지지요법·삶의질` `수술` `치료 전반` · 2015-07-30 · ClinicalTrials.gov · City of Hope Medical Center · 중요도 0.71
+
+**NCT02511821** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT02511821.md)
+
+이 임상시험은 췌장암을 포함한 위장관암으로 수술을 받는 환자를 대상으로 온라인 설문과 활동량 측정 시계(Vivofit watch)를 활용한 전자 모니터링의 타당성을 평가하는 파일럿 연구입니다. 환자는 수술 전후 3~7일간 스마트워치를 착용하고 삶의 질, 증상, 활동량에 관한 온라인 설문(MDASI, EQ-5D)을 작성합니다. 이를 통해 수술 전후 환자의 증상과 신체 기능을 보다 정확하게 파악하고 의료진과의 소통을 개선할 수 있는지 확인합니다. 총 22명의 환자를 대상으로 진행되었습니다.
+
+- 수술 전후 스마트워치 착용 및 웹 기반 설문을 통한 환자 보고 결과(PRO) 수집의 실행 가능성을 평가했습니다.
+- 퇴원 후 2주 동안 주 3회 증상 설문, 주 1회 삶의 질 설문을 완료하고 스마트워치를 착용하도록 구성되었습니다.
+- 총 22명의 위암, 대장암, 간암, 췌장암 환자를 목표로 진행된 초기 파일럿 연구입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT02511821) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02511821)</small>
+
+---
+<a id="pmid-43038365"></a>
+#### [외래 및 입원 환경에서의 대변 엘라스타제 검사 완료 예측 인자: 단일 기관 후향적 분석](https://pubmed.ncbi.nlm.nih.gov/43038365/)
+<small>Predictors of Fecal Elastase Testing Completion in Outpatient and Inpatient Settings: A Single Center Retrospective Analysis</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `진단·조기발견` `치료 전반` · 2026-11-16 · PubMed · Pancreas · 중요도 0.67
+
+본 연구는 대변 엘라스타제-1(FE-1) 검사의 완료율과 비정상 결과 관련 요인, 그리고 검사 미완료가 미치는 임상적 영향을 평가한 후향적 코호트 연구입니다. 2017년부터 2022년까지 FE-1 검사가 처방된 23,422건의 진단 사례 중 실제 검사가 완료된 비율은 50.5%였습니다. 검사 결과가 비정상(FE-1 ≤200 µg/g)으로 나온 비율은 췌장암 환자에서 60.1%, 췌장 수술 후 환자에서 79.5%로 매우 높았습니다. 검사를 완료한 환자는 췌장 외분비 기능부전(EPI) 진단 및 췌장 효소 대체요법(PERT) 처방을 받을 가능성이 2배 이상 높았습니다.
+
+- 처방된 대변 엘라스타제-1(FE-1) 검사 중 실제 검사가 완료된 비율은 50.5%(11,834건)에 불과했습니다.
+- FE-1 수치가 200 µg/g 이하로 떨어진 외분비 기능부전 비율은 췌장암 환자에서 60.1%, 췌장 수술 후 환자에서 79.5%였습니다.
+- 검사를 정상 완료했을 때 새로운 췌장 외분비 기능부전 진단율은 2.27배, 췌장 소화효소제 치료 시작률은 2.20배 높았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43038365/) · [DOI](https://doi.org/10.1097/MPA.0000000000002738) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43038365)</small>
+
+---
+<a id="doi-10.64898-2026.11.13.766453"></a>
+#### [췌관선암 유발 악액질에서 MyoAAV 기반 OPA1 과발현 또는 BNIP3 억제를 통한 미토콘드리아 동역학 조절 연구](https://europepmc.org/article/PPR/PPR1368705)
+<small>Mitochondrial Dynamics Modulation via MyoAAV-Mediated OPA1 Overexpression or BNIP3 Knockdown in Pancreatic Ductal Adenocarcinoma (PDAC)-Induced Cachexia</small>
+
+`프리프린트` `전임상` `지지요법·삶의질` `기초연구` · 2026-11-16 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+본 연구는 췌장암에 동반되는 근육 소모(암 악액질) 동물 모델에서 근육 내 미토콘드리아 조절을 통한 근육 보존 효과를 평가한 전임상 연구입니다. 연구진은 췌관선암(KPC) 마우스 모델의 근육에 바이러스 전달체(MyoAAV)를 주입하여 OPA1을 과발현시키거나 BNIP3를 억제했습니다. 두 방법 모두 전신 체중 감소를 완전히 막지는 못했으나, 특정 근육의 질량 손실을 완화하거나 근력(토크) 저하 및 근피로도를 개선하는 효과를 보였습니다.
+
+- 근육 국소 유전자 조절은 전신적인 악액질 자체를 막지는 못했으나 근육의 기능적 측면을 개선했습니다.
+- 수컷 마우스에서 OPA1 과발현은 근육량 감소를 부분적으로 완화하고 근력 저하를 개선했습니다.
+- 수컷 마우스에서 BNIP3 억제는 근력을 뚜렷하게 향상시키고 피로 저항력을 회복시켰습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1368705) · [DOI](https://doi.org/10.64898/2026.11.13.766453) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.13.766453)</small>
+
+---
 <a id="pmid-43024239"></a>
 #### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
 <small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
@@ -1691,105 +1770,5 @@ search:
 - 췌관선암 환자 분석에서 높은 γH2AX 발현은 종양 진행 및 불량한 전체 생존기간(OS)과 연관되었고, RAD51 발현 증가 역시 불량한 예후와 관련이 있었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42892765/) · [DOI](https://doi.org/10.64898/2026.10.13.758888) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674594/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42892765)</small>
-
----
-<a id="nct-nct06989437"></a>
-#### [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](https://clinicaltrials.gov/study/NCT06989437)
-<small>A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue</small>
-
-`임상시험` `3상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2025-05-25 · ClinicalTrials.gov · Pfizer · 중요도 1.00
-
-**NCT06989437** · 2상/3상 · 모집 중 · 국내 10곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06989437.md)
-
-전이성 췌관선암(mPDAC)과 악액질(체중 감소)을 진단받은 성인 환자를 대상으로 1차 표준 항암화학요법에 폰세그로맙(ponsegromab) 또는 위약을 추가 투여하여 유효성과 안전성을 비교하는 2b/3상 임상시험입니다. 환자들은 젬시타빈(gemcitabine)+나브파클리탁셀(nab-paclitaxel) 1주기 또는 폴피리녹스(FOLFIRINOX) 2주기를 완료한 직후 등록되어 4주 간격으로 피하 주사(SC) 치료를 받게 됩니다. 2b상 단계에서 최적 용량을 선정한 후 3상 단계로 확장하여 전체생존기간(OS) 등을 최종 평가합니다.
-
-- 악액질 기준을 충족하고 1차 항암화학요법의 첫 주기를 마친 전이성 췌관선암 환자 982명을 목표로 모집합니다.
-- 표준 항암요법(젬시타빈+나브파클리탁셀 또는 폴피리녹스)과 함께 4주마다 폰세그로맙 또는 위약을 피하 주사합니다.
-- 2b상에서 용량을 확정한 뒤 3상 이중맹검 연구를 진행하며, 종료 후 최대 12개월간의 오픈라벨 연장 투여 기회가 주어집니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06989437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06989437)</small>
-
----
-<a id="nct-nct05512377"></a>
-#### [Brightline-2: 담도암, 췌장암, 폐암, 방광암 환자를 대상으로 브리기마들린(BI 907828)의 효과를 평가하는 2상 임상시험](https://clinicaltrials.gov/study/NCT05512377)
-<small>Brightline-2: A Study to Test Whether Brigimadlin (BI 907828) Helps People With Cancer in the Biliary Tract, Pancreas, Lung or Bladder</small>
-
-`임상시험` `2상` `신약·치료제` `지지요법·삶의질` · 2022-08-23 · ClinicalTrials.gov · Boehringer Ingelheim · 중요도 0.92
-
-**NCT05512377** · 2상 · 완료 · 국내 4곳 · [참여 조건·기관 보기](../../_generated/trials/NCT05512377.md)
-
-이 연구는 이전 치료에 실패했거나 더 이상 가능한 표준 치료가 없는 진행성 담도암, 췌장암, 폐암, 방광암 성인 환자를 대상으로 진행된 임상시험입니다. MDM2 억제제 계열의 표적치료제인 brigimadlin(브리기마들린, BI 907828)의 유효성과 안전성을 평가했습니다. 참여 환자들은 조직 검사상 MDM2 증폭 및 TP53 정상형(wild-type)을 확인받아야 했습니다. 브리기마들린은 3주에 1회 경구 복용하는 방식으로 투여되었습니다.
-
-- MDM2 유전자 증폭 및 TP53 정상형(wild-type)을 지닌 진행성 췌장암, 담도암 등 고형암 환자 99명을 목표로 한 2상 임상시험입니다.
-- 시험 약물인 브리기마들린(brigimadlin)은 3주 간격으로 경구 투여하는 MDM2 억제제입니다.
-- 수술이 불가능하고 기존 승인된 표준 항암 치료를 모두 받은 환자를 대상으로 진행되었습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05512377) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05512377)</small>
-
----
-<a id="nct-nct06605430"></a>
-#### [진행성 췌장암 및 대장암 환자를 대상으로 한 의료용 대마의 증상 완화 효과를 평가하는 2상 임상시험](https://clinicaltrials.gov/study/NCT06605430)
-<small>Medical Cannabis in Patients With Advanced Pancreatic and Colorectal Cancer</small>
-
-`임상시험` `2상` `지지요법·삶의질` `신약·치료제` `치료 전반` · 2024-09-20 · ClinicalTrials.gov · HealthPartners Institute · 중요도 0.90
-
-**NCT06605430** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06605430.md)
-
-진행성 췌장암 및 대장암 환자의 암 관련 증상 부담을 줄이기 위해 의료용 대마(Medical Cannabis)의 유용성과 안전성을 평가하는 2상 임상시험입니다. 참가자 64명은 즉시 의료용 대마를 투여받는 조기 투여군 또는 8주 후 투여를 시작하는 지연 투여군으로 1:1 무작위 배정됩니다. 첫 8주간의 치료 기간 동안 메스꺼움, 구토, 식욕부진, 통증 등의 증상 부담 및 삶의 질 변화를 비교 평가합니다.
-
-- 진행성 췌장암 및 대장암 환자 64명을 대상으로 의료용 대마의 증상 완화 효과를 검증하는 2상 무작위 배정 시험입니다.
-- 참가자는 즉시 대마를 복용하는 조기군과 8주간 복용을 대기하는 지연군으로 1:1 배정되어 첫 8주간 효과를 비교합니다.
-- 최근 14일 이내에 메스꺼움, 구토, 식욕부진, 악액질, 통증 중 하나 이상의 증상을 겪은 환자를 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06605430) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06605430)</small>
-
----
-<a id="nct-nct06084481"></a>
-#### [진행성 고형암 환자에서 ABBV-400 투여의 부작용 및 질병 활성도 변화를 평가하기 위한 임상시험](https://clinicaltrials.gov/study/NCT06084481)
-<small>Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2023-10-16 · ClinicalTrials.gov · AbbVie · 중요도 0.84
-
-**NCT06084481** · 1상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](../../_generated/trials/NCT06084481.md)
-
-이 연구는 진행성 고형암 환자를 대상으로 신약 ABBV-400을 단독 투여하거나 다른 약물과 병용 투여할 때의 부작용과 질병 활성도 변화를 평가하기 위한 1상 임상시험입니다. 췌장관선암(PDAC)을 포함한 여러 진행성 고형암 환자 약 325명을 대상으로 전 세계 약 54개 기관에서 진행되며, 국내 기관도 6곳 포함됩니다. 환자들은 ABBV-400 단독요법, itraconazole(ITZ) 병용요법, 또는 bevacizumab 병용요법 중 한 그룹에 배정됩니다.
-
-- 목표 환자 수는 전 세계 약 325명이며 국내 6개 기관이 참여합니다.
-- 환자들은 ABBV-400 단독 투여 또는 itraconazole(ITZ), bevacizumab과의 병용 투여를 받습니다.
-- 연구의 주요 목적은 부작용(안전성)과 질병 활성도의 변화를 평가하는 것입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06084481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06084481)</small>
-
----
-<a id="nct-nct07513116"></a>
-#### [췌장암 고위험군 선별검사 대상자를 위한 간헐적 단식 평가](https://clinicaltrials.gov/study/NCT07513116)
-<small>Evaluating Intermittent Fasting In Individuals At High Risk ForPancreatic Cancer Undergoing Screening</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` · 2026-04-06 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.74
-
-**NCT07513116** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07513116.md)
-
-이 연구는 췌장암 고위험군을 대상으로 간헐적 단식(intermittent fasting, IF)의 순응 가능성과 타당성을 평가합니다. 췌장암 고위험군 환자 20명을 목표로 하며, 간헐적 단식이 대사, 염증, 마이크로바이옴, 영상 관련 생물학적 표지자에 미치는 변화를 확인합니다. 주요 목적은 간헐적 단식의 내약성과 타당성 평가입니다.
-
-- 목표 참여 인원은 20명입니다.
-- 간헐적 단식이 대사, 염증, 마이크로바이옴 마커에 미치는 변화를 평가합니다.
-- 초록에 명시되지 않음
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07513116) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07513116)</small>
-
----
-<a id="pmid-42885341"></a>
-#### [진행성 췌관선암에서 골격근 지수, 종양 및 전신 면역, 그리고 생존율 간의 연관성](https://pubmed.ncbi.nlm.nih.gov/42885341/)
-<small>Skeletal Muscle Index, Tumor and Systemic Immunity, and Survival in Advanced Pancreatic Ductal Adenocarcinoma</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2026-10-01 · PubMed · Cancer Med · 중요도 0.70
-
-진행성 췌관선암(PDAC) 환자 119명을 대상으로 치료 시작 전 골격근 지수(SMI)와 종양 면역 미세환경, 말초 면역 표현형, 혈청 생체표지자의 연관성 및 예후를 후향적으로 분석했습니다. 전체 환자의 47.1%에서 근감소증(sarcopenia)이 확인되었으며, 근감소증이 있는 환자는 그렇지 않은 환자에 비해 유의하게 짧은 생존기간을 보였습니다. 분석 결과 골격근 지수는 종양 내 기질 T세포 및 말초 면역세포와 유의한 상관관계를 보였습니다. 다변량 분석에서 종양 기질 내 CD4+ 조절 T세포 비율, CD56dim 자연살해(NK) 세포 밀도, 림프구 대 단핵구 비율(LMR)이 독립적인 예후 인자로 확인되었습니다.
-
-- 근감소증 환자군(47.1%)의 무진행 생존기간(PFS)은 8.83개월로 비근감소증 환자군의 12.03개월보다 짧았고, 전체 생존기간(OS)도 10.20개월 대 17.33개월로 유의하게 짧았습니다.
-- 골격근 지수는 종양 미세환경 내 기질 CD8+ T세포(상관계수 0.52), 기질 총 T세포(0.52), 기질 M2 대식세포(0.50) 등과 유의미한 양의 상관관계를 나타냈습니다.
-- 다변량 회귀분석 결과 기질 CD4+ 조절 T세포 비율은 전체 생존기간의 독립적 위험 인자였으며(위험비 7.60, p=0.011), 림프구 대 단핵구 비율(LMR)은 무진행 생존기간(위험비 0.86)과 전체 생존기간(위험비 0.83) 모두에 유리한 예후 인자였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42885341/) · [DOI](https://doi.org/10.1002/cam4.72378) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13673229/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42885341)</small>
 
 ---

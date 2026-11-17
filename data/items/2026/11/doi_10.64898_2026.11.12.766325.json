@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, in part because its tumor microenvironment actively suppresses antitumor immunity. Midkine (MDK) is a secreted heparin-binding growth factor that is overexpressed in a majority of PDAC tumors, but whether it contributes causally to disease risk and through which cell types it acts have not been firmly established. We combined cis-eQTL Mendelian randomization (GTEx pancreas, n = 328 donors; FinnGen PDAC, 1,252 cases) with multi-omics factor analysis (MOFA) of TCGA-PAAD tumors (n = 149), single-sample gene set enrichment analysis (ssGSEA), cross-species single-cell RNA sequencing, and DepMap CRISPR dependency screening. Mendelian randomization identified MDK as the only gene passing false discovery rate correction for PDAC risk (inverse-variance-weighted odds ratio 1.51, 95% CI 1.19–1.91, p = 6.7 × 10??; FDR = 0.008), with concordant direction across five methods and five independent GWAS. MDK was overexpressed in tumors relative to adjacent normal tissue in an independent cohort (GSE62452, n = 130, p = 5 × 10??), and high expression was associated with shorter overall survival (10.2 versus 21.1 months, p = 0.023). In the MOFA decomposition, MDK localized to a factor characterized by tertiary lymphoid structure gene expression but negative correlation with dendritic cells and macrophages, a pattern consistent with immune exclusion. Single-cell analysis and published functional studies indicated that MDK is produced by cancer-associated fibroblasts and endothelial cells rather than by tumor epithelium, and DepMap data confirmed that MDK is not a cell-autonomous fitness gene. Collectively, these results support a model in which MDK acts through the stromal-immune compartment rather than through tumor cell-intrinsic mechanisms, and raise the possibility that MDK blockade could restore antitumor immunity in PDAC.",
+ "authors": [
+  "Yang z",
+  "xu l",
+  "Chen x",
+  "Hu z."
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.12.766325",
+ "importance": 0.56,
+ "key_points_ko": [
+  "멘델 무작위 배정(Mendelian randomization) 분석에서 MDK는 췌관선암 위험 증가와 유의한 인과적 연관성을 보였습니다 (오즈비 1.51, 95% 신뢰구간 1.19–1.91, p = 6.7 × 10⁻⁴).",
+  "독립된 췌장암 환자 코호트(n = 130)에서 MDK 고발현 환자의 전체 생존기간(OS) 중앙값은 10.2개월로, 저발현군의 21.1개월에 비해 유의하게 짧았습니다 (p = 0.023).",
+  "MDK는 종양 암세포가 아닌 암 연관 섬유아세포와 내피세포에서 주로 분비되어 면역 배제 환경을 형성하는 것으로 관찰되었습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.64898/2026.11.12.766325",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1368737"
+ },
+ "summary_ko": "본 연구는 유전체 역학 분석과 단일 세포 데이터 등을 활용하여 분비 단백질인 미드카인(Midkine, MDK)이 췌장암 발생과 종양 미세환경에 미치는 영향을 분석한 기초 연구입니다. 분석 결과, MDK 발현 증가는 췌관선암(PDAC)의 발병 위험 증가와 유의미하게 연관되어 있었습니다. 또한 독립된 환자 코호트에서 MDK 고발현은 전체 생존기간(OS) 단축과 관련이 있었습니다. 단일 세포 전사체 분석에서 MDK는 암세포 자체가 아니라 암 연관 섬유아세포 및 혈관 내피세포에서 주로 생성되어 면역 억제 환경을 유도하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Midkine and the immunosuppressive tumor microenvironment in pancreatic ductal adenocarcinoma: evidence from Mendelian randomization, multi-omics factor analysis, and single-cell transcriptomics",
+ "title_ko": "췌관선암에서 미드카인(Midkine)과 면역억제성 종양 미세환경: 멘델 무작위 배정, 다중 오믹스 요인 분석 및 단일 세포 전사체 분석을 통한 근거",
+ "trial": null,
+ "type": "preprint"
+}

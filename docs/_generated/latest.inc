@@ -1,23 +1,22 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,248</b><span>누적 수집<br><small>논문·소식 677 · 임상시험 571</small></span></div><div class="ps-stat"><b>+6</b><span>오늘 신규<br><small>갱신 31건</small></span></div><div class="ps-stat"><b>30</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,268</b><span>누적 수집<br><small>논문·소식 691 · 임상시험 577</small></span></div><div class="ps-stat"><b>+20</b><span>오늘 신규<br><small>갱신 5건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-16](_generated/daily/2026/11/16.md)
+최근 수집일: [2026-11-17](_generated/daily/2026/11/17.md)
 
-<a id="nct-nct07565155"></a>
-#### [상동조합결손(HRD)이 있는 췌장암 환자 대상 Lorigerlimab (MGD019) 임상시험](https://clinicaltrials.gov/study/NCT07565155)
-<small>Lorigerlimab (MGD019) in Patients With Pancreatic Adenocarcinoma and Homologous Recombination Deficiency</small>
+<a id="nct-nct07491445"></a>
+#### [전이성 췌관선암 환자의 1차 치료로서 다락소나십 및 다락소나십 + 젬시타빈/나브-팍리탁셀 병용요법에 대한 3상 임상시험](https://clinicaltrials.gov/study/NCT07491445)
+<small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
-`임상시험` `2상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-05-04 · ClinicalTrials.gov · Peter Hosein, MD · 중요도 1.00
+`임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
-**NCT07565155** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07565155.md)
+**NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
 
-이 연구는 상동조합결손(homologous recombination deficiency, HRD)이 있는 전이성 췌관선암(pancreatic adenocarcinoma, PDAC) 환자를 대상으로 Lorigerlimab(MGD019) 약물의 효과를 평가하기 위한 2상 임상시험입니다. 백금 기반 항암 치료 이후에 질병이 진행된 환자들을 대상으로 진행됩니다. 총 목표 환자 수는 40명입니다. 초록에 세부적인 유효성 및 안전성 결과는 명시되지 않았습니다.
+이 임상시험은 전이성 췌관선암 환자를 대상으로 1차 치료로서 daraxonrasib(다락소나십) 단독요법 및 젬시타빈/나브-팍리탁셀과의 병용요법의 유효성과 안전성을 평가하는 3상 연구입니다. 환자들은 다락소나십 단독, 다락소나십+젬시타빈/나브-팍리탁셀 병용, 젬시타빈/나브-팍리탁셀 단독 표준치료 중 하나로 무작위 배정됩니다. 목표 대상 환자 수는 900명이며 국내 6개 기관이 참여하여 환자를 모집하고 있습니다.
 
-- 대상 질환: 상동조합결손(HRD)이 있는 전이성 췌관선암(PDAC)
-- 중재 치료: Lorigerlimab (MGD019)
-- 목표 인원: 40명
-- 임상 단계: 2상 임상시험
+- 전이성 췌장암 1차 치료에서 다락소나십 단독 및 젬시타빈/나브-팍리탁셀 병용요법을 표준치료와 비교합니다.
+- 글로벌 무작위 배정 3상 임상시험으로 총 900명의 환자를 모집합니다.
+- 이전에 전이성 단계에서 전신 항암 치료를 받지 않은 환자를 대상으로 진행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07565155) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07565155)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
 ---
 <a id="nct-nct07802184"></a>
@@ -53,6 +52,21 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43007558/) · [DOI](https://doi.org/10.1007/s11701-026-04143-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43007558)</small>
 
 ---
+<a id="pmid-43037855"></a>
+#### [상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43037855/)
+<small>Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review</small>
+
+`논문` `메타분석` `수술` `치료 전반` `제약사·규제` `지지요법·삶의질` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.95
+
+상장간막동맥(SMA) 침범이 있는 국소 진행성 췌장암 환자에서 동맥 절제를 동반한 췌장절제술의 결과를 평가한 12개 연구(총 320명)를 분석한 체계적 문헌고찰 연구입니다. 환자의 97%에서 정맥 절제가 동시에 시행되었으며, 63%는 췌장전절제술을 받았습니다. 수술 후 주요 합병증 발생률은 31%, 90일 사망률은 8%로 나타났습니다. 완전 절제율(R0 절제율)은 80%였으며, 수술 후 중앙 생존기간은 8개월에서 20개월 사이로 보고되었습니다.
+
+- 동맥 절제를 동반한 췌장절제술을 받은 320명의 환자 중 주요 합병증 발생률은 31%(88/284명), 90일 사망률은 8%(27/320명)였습니다.
+- 동반된 주요 합병증으로는 췌장절제술 후 출혈이 19%(39/202명), 장간막 허혈이 3%(6/202명)에서 발생했습니다.
+- 절제면 음성(R0) 절제율은 80%(136/171명)였으며, 보고된 수술 후 중앙 생존기간은 8~20개월, 최고 5년 생존율은 21%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037855/) · [DOI](https://doi.org/10.1245/s10434-026-20922-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037855)</small>
+
+---
 <a id="pmid-43013192"></a>
 #### [근치적 절제술을 받은 췌장관선암 환자에서 수술 후 종양 맞춤형 순환 종양 DNA(ctDNA) 상태를 이용한 분자적 잔류 질환 검출: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013192/)
 <small>Postoperative Tumor-Informed Circulating Tumor DNA Status for Molecular Residual Disease Detection After Curative-Intent Resection of Pancreatic Ductal Adenocarcinoma: A Systematic Review and Meta-Analysis</small>
@@ -67,20 +81,5 @@
 - 총 5개의 관찰 코호트에서 237명의 환자 데이터가 분석에 포함되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
-
----
-<a id="pmid-43002828"></a>
-#### [전이성 췌장암 1차 치료에서 표적 항체 NIS793과 표준 항암요법 병용의 효과를 평가한 3상 임상시험(daNIS-2)](https://pubmed.ncbi.nlm.nih.gov/43002828/)
-<small>daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma</small>
-
-`논문` `3상` `신약·치료제` `임상시험` `치료 전반` · 2026-11-09 · PubMed · ESMO Open · 중요도 0.91
-
-전이성 췌관선암(mPDAC) 환자를 대상으로 변형성장인자-베타(TGF-β) 표적 항체인 NIS793과 표준 항암치료(gemcitabine 및 nab-paclitaxel) 병용요법의 효과를 평가한 3상 임상시험 결과입니다. 이전 치료 경험이 없는 환자 490명을 무작위로 나누어 NIS793 투여군과 위약 투여군을 비교했습니다. 분석 결과, NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로 위약군의 11.2개월보다 오히려 짧았습니다. 치료의 이득보다 위험이 크다고 판단되어 임상시험은 조기에 중단되었습니다.
-
-- NIS793 투여군의 전체 생존기간(OS) 중앙값은 9.2개월로, 위약군의 11.2개월에 비해 생존 결과가 불리했습니다(위험비 1.26).
-- 무진행 생존기간(PFS) 및 객관적 반응률(ORR) 평가에서도 NIS793 투여군이 임상적 이득을 보여주지 못했습니다.
-- NIS793 투여군에서 빈혈, 코피, 발진 및 3등급 이상의 중증 부작용 발생 비율이 더 높게 관찰되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
 
 ---

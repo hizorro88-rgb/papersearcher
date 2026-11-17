@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Superior mesenteric artery (SMA) involvement is commonly considered a contraindication to surgical resection in locally advanced pancreatic cancer. The role of SMA resection during pancreatectomy remains controversial, with historical data suggesting prohibitive morbidity and poor survival.\nMETHODS: A systematic search of the literature was performed. Studies reporting on patients undergoing pancreatectomy with concomitant SMA resection were included. Primary endpoints were perioperative morbidity, 90-day mortality, and survival. Additional data on neoadjuvant treatment, patient selection, anticoagulation, reconstruction techniques, and oncological outcomes were also extracted.\nRESULTS: In total, 12 studies reporting on 320 patients undergoing pancreatectomy with SMA resection were included. All included studies showed a serious risk of bias and described highly selected patients. Concomitant venous resection was performed in 97% (n = 244/252) of patients and a total pancreatectomy in 63% (n = 173/275). Arterial reconstruction was achieved by graft interposition in 48% (n = 128/269), primary end-to-end anastomosis in 39% (n = 106/269), and splenic artery transposition in 13% (n = 34/269) of patients. Major morbidity and 90-day mortality were 31% (n = 88/284) and 8% (n = 27/320), respectively. Complications included post-pancreatectomy hemorrhage in 19% (n = 39/202) of patients and mesenteric ischemia in 3% (n = 6/202). R0 resection was achieved in 80% (n = 136/171) of patients. Median reported survival from surgery ranged from 8 to 20 months. The highest reported 5-year survival was 21%.\nCONCLUSIONS: Pancreatectomy with SMA resection is associated with specific perioperative morbidity and an 8% mortality rate. Since these outcomes were achieved by expert groups under highly selected circumstances, only implementation at high-volume centers with dedicated vascular pancreatic surgery expertise should be considered.",
+ "authors": [
+  "Groot VP",
+  "Waizy S",
+  "Scheepens JCM",
+  "Kinny-Köster B",
+  "Habib JR",
+  "Krell M",
+  "Daamen LA",
+  "Javed AA"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "industry",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43037855",
+ "importance": 0.95,
+ "key_points_ko": [
+  "동맥 절제를 동반한 췌장절제술을 받은 320명의 환자 중 주요 합병증 발생률은 31%(88/284명), 90일 사망률은 8%(27/320명)였습니다.",
+  "동반된 주요 합병증으로는 췌장절제술 후 출혈이 19%(39/202명), 장간막 허혈이 3%(6/202명)에서 발생했습니다.",
+  "절제면 음성(R0) 절제율은 80%(136/171명)였으며, 보고된 수술 후 중앙 생존기간은 8~20개월, 최고 5년 생존율은 21%였습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1245/s10434-026-20922-8",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43037855"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037855/"
+ },
+ "summary_ko": "상장간막동맥(SMA) 침범이 있는 국소 진행성 췌장암 환자에서 동맥 절제를 동반한 췌장절제술의 결과를 평가한 12개 연구(총 320명)를 분석한 체계적 문헌고찰 연구입니다. 환자의 97%에서 정맥 절제가 동시에 시행되었으며, 63%는 췌장전절제술을 받았습니다. 수술 후 주요 합병증 발생률은 31%, 90일 사망률은 8%로 나타났습니다. 완전 절제율(R0 절제율)은 80%였으며, 수술 후 중앙 생존기간은 8개월에서 20개월 사이로 보고되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review",
+ "title_ko": "상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

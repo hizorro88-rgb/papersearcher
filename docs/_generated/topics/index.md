@@ -21,9 +21,9 @@ search:
 | [olaparib](olaparib.md) | 약물 | 9 | 2026-10-29 |
 | [NALIRIFOX](nalirifox.md) | 요법 | 31 | 2026-11-09 |
 | [FOLFIRINOX](folfirinox.md) | 요법 | 92 | 2026-11-14 |
-| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 129 | 2026-11-14 |
+| [gemcitabine plus nab-paclitaxel](gem-nabp.md) | 요법 | 131 | 2026-11-17 |
 | [autogene cevumeran](autogene-cevumeran.md) | 약물 | 0 | - |
 | [zolbetuximab](zolbetuximab.md) | 약물 | 3 | 2026-11-05 |
-| [Whipple](whipple.md) | 시술·수술 | 41 | 2026-11-11 |
+| [Whipple](whipple.md) | 시술·수술 | 43 | 2026-11-11 |
 | [distal pancreatectomy](distal-pancreatectomy.md) | 시술·수술 | 17 | 2026-11-11 |
-| [SBRT](sbrt.md) | 시술·수술 | 26 | 2026-11-16 |
+| [SBRT](sbrt.md) | 시술·수술 | 28 | 2026-11-17 |

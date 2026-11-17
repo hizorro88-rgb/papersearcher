@@ -1,0 +1,62 @@
+{
+ "abstract": "Disruption of mitochondrial dynamics and quality control precedes overt muscle wasting in cancer cachexia, but whether modulating it specifically in muscle in the presence of systemic wasting could preserve tissue mass and function remain elusive. We tested two independent, but complementary approaches in the orthotopic preclinical model of pancreatic ductal adenocarcinoma (KPC); inducing inner-mitochondrial membrane fusion through OPA1 overexpression and suppressing mitophagy via BNIP3 knockdown. Male and female C57BL/6J mice received bilateral intramuscular tibialis anterior (TA) injections of myotropic adeno-associated virus (MyoAAV) encoding murine either OPA1 cDNA or a BNIP3-targeting short hairpin RNA two weeks prior to orthotopic implantation of KPC1245 pancreatic cancer cells. Raw body and tissue weights, in vivo dorsiflexor torque and fatigability, TA fiber size and type, protein fractional synthesis rate, oxidative histochemistry, and selected molecular markers were assessed at the humane endpoint. Neither intervention prevented systemic wasting, however, in males, OPA1 overexpression partially attenuated TA mass loss, relieved torque deficits, and restored the proportion of type IIB fibers. Females developed a milder cachectic phenotype; OPA1 overexpression increased TA mass and shifted fiber composition toward type IIA fibers without any changes in torque. In males, BNIP3 knockdown markedly improved torque, restored fatigue resistance, preserved type IIB fiber proportion, and lowered DRP1 protein. Functional benefits concurred by BNIP3 shRNA delivery were accompanied by lower mixed-protein synthesis in both sexes. These findings support mitochondrial quality control as a therapeutic target while indicating that effective treatment will require calibrated, rather than maximal, suppression of mitochondrial turnover.",
+ "authors": [
+  "Muhyudin R",
+  "Noga NN",
+  "Morena F",
+  "Hilgenbrink S",
+  "Taori M",
+  "Ivy A",
+  "Khaledabadi M",
+  "Jia MS"
+ ],
+ "categories": [
+  "supportive",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.13.766453",
+ "importance": 0.56,
+ "key_points_ko": [
+  "근육 국소 유전자 조절은 전신적인 악액질 자체를 막지는 못했으나 근육의 기능적 측면을 개선했습니다.",
+  "수컷 마우스에서 OPA1 과발현은 근육량 감소를 부분적으로 완화하고 근력 저하를 개선했습니다.",
+  "수컷 마우스에서 BNIP3 억제는 근력을 뚜렷하게 향상시키고 피로 저항력을 회복시켰습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.64898/2026.11.13.766453",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1368705"
+ },
+ "summary_ko": "본 연구는 췌장암에 동반되는 근육 소모(암 악액질) 동물 모델에서 근육 내 미토콘드리아 조절을 통한 근육 보존 효과를 평가한 전임상 연구입니다. 연구진은 췌관선암(KPC) 마우스 모델의 근육에 바이러스 전달체(MyoAAV)를 주입하여 OPA1을 과발현시키거나 BNIP3를 억제했습니다. 두 방법 모두 전신 체중 감소를 완전히 막지는 못했으나, 특정 근육의 질량 손실을 완화하거나 근력(토크) 저하 및 근피로도를 개선하는 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mitochondrial Dynamics Modulation via MyoAAV-Mediated OPA1 Overexpression or BNIP3 Knockdown in Pancreatic Ductal Adenocarcinoma (PDAC)-Induced Cachexia",
+ "title_ko": "췌관선암 유발 악액질에서 MyoAAV 기반 OPA1 과발현 또는 BNIP3 억제를 통한 미토콘드리아 동역학 조절 연구",
+ "trial": null,
+ "type": "preprint"
+}

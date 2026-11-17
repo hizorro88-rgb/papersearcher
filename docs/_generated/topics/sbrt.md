@@ -17,10 +17,11 @@ search:
 - 종류: 시술·수술
 - 별칭: SBRT, stereotactic body radiotherapy, stereotactic body radiation, 정위체부방사선
 
-## 관련 임상시험 (19)
+## 관련 임상시험 (20)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [국소 진행성 췌장암의 1차 치료로서 QL1706(이파롬리맙 및 투본랄리맙)과 항암화학요법(AG) 및 체부정위 방사선치료(SB…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [절제 불가능한 국소 진행성 또는 소전이성 췌장암 치료에서 Nimotuzumab과 화학방사선요법 병용](../trials/NCT07386704.md) | 2상 | 초대 모집 | - |
@@ -41,8 +42,23 @@ search:
 | [수술 전 젬시타빈,  nab-paclitaxel 및 방사선 치료를 병용하는 수술 가능 췌장암 2상 임상시험](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (7)
+## 타임라인 (8)
 
+<a id="pmid-43035150"></a>
+#### [경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암에서 예방적 림프절 조사를 병용한 정위체부방사선치료의 1상 용량 증량 연구](https://pubmed.ncbi.nlm.nih.gov/43035150/)
+<small>Phase I dose-escalation study of stereotactic body radiotherapy with elective nodal irradiation for borderline resectable and unresectable locally advanced pancreatic cancer</small>
+
+`논문` `1상` `치료 전반` `임상시험` `수술` · 2026-11-15 · PubMed · Radiother Oncol · 중요도 0.71
+
+경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암 환자를 대상으로 5회 분할 정위체부방사선치료(SBRT)에 예방적 림프절 조사(ENI)를 병용했을 때의 안전성과 최대 내약 용량(MTD)을 평가한 1상 연구 결과입니다. 총 12명의 환자에게 예방적 림프절 30 Gy 조사와 함께 원발 종양 선량을 35 Gy에서 40 Gy까지 증량하여 조사했습니다. 원발 부위 선량을 40 Gy까지 증량하는 동안 최대 내약 용량에 도달하지 않아 치료의 안전성과 실행 가능성을 확인했습니다. 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월이었으며 1년 국소 제어율은 75%였습니다.
+
+- 총 12명의 환자(경계성 절제 가능 4명, 국소 진행성 8명)를 대상으로 원발 종양 선량을 최대 40 Gy까지 증량했으나 최대 내약 용량(MTD)에 도달하지 않았습니다.
+- 급성 용량 제한 독성으로 1단계(35 Gy)에서 입원을 요하는 3등급 식욕부진 및 오심 1건이 관찰되었고, 기존 담도 스텐트가 있던 환자 3명에서 아급성 3등급 담관염이 발생했습니다.
+- 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월, 1년 국소 제어율은 75%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035150/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111871) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035150)</small>
+
+---
 <a id="pmid-43026914"></a>
 #### [이탈리아 임상 현장에서의 췌장암 체부 정위 방사선 치료(SBRT): 17개 기관 473명 환자 다기관 분석](https://pubmed.ncbi.nlm.nih.gov/43026914/)
 <small>Pancreatic SBRT in Italian Clinical Practice: A Multicenter Analysis of 473 Patients Treated in 17 Centers</small>

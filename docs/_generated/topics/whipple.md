@@ -32,7 +32,7 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (31)
+## 타임라인 (33)
 
 <a id="pmid-43004858"></a>
 #### [로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교](https://pubmed.ncbi.nlm.nih.gov/43004858/)
@@ -413,6 +413,35 @@ search:
 - 수술 후 16개월째 국소 재발이 발생했으나, 항결핵 치료 시작 후 33개월 시점에 결핵 재활성화 없이 전신 항암치료를 받으며 생존해 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42831115/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0532) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13634660/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42831115)</small>
+
+---
+<a id="pmid-43037109"></a>
+#### [편집자에게 보내는 서한: 췌장십이지장절제술 후 이환율 및 사망률 예측을 위한 P-POSSUM 위험 점수 체계 평가에 대하여](https://pubmed.ncbi.nlm.nih.gov/43037109/)
+<small>Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy</small>
+
+`논문` `기타` `수술` · 2026-10-01 · PubMed · Chirurgia (Bucur) · 중요도 0.54
+
+본 서한은 췌장십이지장절제술 후 수술 전후 위험도를 평가한 기존 연구(Bodea 등의 연구)에 대한 논평입니다. 췌장십이지장절제술 후 결과를 정확히 예측하는 것은 임상적으로 매우 중요합니다. 서한의 저자들은 원저에서 수술 후 합병증(이환율)을 추정하기 위해 사용한 계산 방법론에 대해 추가적인 명확한 설명을 요청했습니다.
+
+- 췌장십이지장절제술 환자를 대상으로 P-POSSUM 위험 점수 체계의 유용성을 평가한 기존 연구에 대한 서한입니다.
+- 원저 연구진이 온라인 계산기를 통해 수술 후 합병증 위험도를 산출하고 분석한 방법론적 과정에 대해 질의했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037109/) · [DOI](https://doi.org/10.21614/chirurgia.3410) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037109)</small>
+
+---
+<a id="pmid-43037110"></a>
+#### [편집자 서한에 대한 답변: 췌십이지장절제술 후 합병증 발생률 및 사망률 예측에 있어 P-POSSUM 위험 점수 체계의 평가](https://pubmed.ncbi.nlm.nih.gov/43037110/)
+<small>Reply to the Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy</small>
+
+`논문` `기타` `수술` `치료 전반` · 2026-10-01 · PubMed · Chirurgia (Bucur) · 중요도 0.50
+
+본 논문은 췌십이지장절제술(pancreaticoduodenectomy) 후 합병증 발생률과 사망률을 예측하기 위해 P-POSSUM 위험 점수 체계를 평가한 연구에 대해 제기된 편집자 서한에 대한 답변입니다. 저자들은 연구 방법론에 대한 질의에 감사하며, 점수 산출 공식을 명확히 설명했습니다. 생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 점수 체계 기준에 따라 계산되었습니다.
+
+- P-POSSUM 위험 점수 체계의 산출 공식에 대한 독자 질의에 응답한 설명글입니다.
+- 생리적 점수(PS) 및 수술 중증도 점수(OS)는 원본 POSSUM 체계를 준수하여 산출되었습니다.
+- 본 답변 초록에는 구체적인 환자 수나 사망률 관련 수치가 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037110/) · [DOI](https://doi.org/10.21614/chirurgia.3411) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037110)</small>
 
 ---
 <a id="pmid-43006085"></a>

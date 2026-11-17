@@ -1,0 +1,55 @@
+{
+ "abstract": "Dear Editor, We read with great interest the article by Bodea et al., entitled \"Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy\" (1). The authors should be congratulated for evaluating perioperative risk prediction in pancreaticoduodenectomy, where accurate estimation of postoperative outcomes remains of considerable clinical importance. i Hwever, we would like to seek clarification regarding the methodology used to estimate postoperative morbidity. /i The authors state that physiological scores, operative severity scores, and the predicted risks of complications and death were calculated using the online calculator available at i http://www.riskprediction.org.uk/index-pp.php /i . Subsequently, the manuscript reports predicted morbidity, observed-to-estimated morbidity ratios (O Morb/E Morb), receiver operating characteristic (ROC) analyses for morbidity, and discusses the predictive performance of P-POSSUM for postoperative morbidity throughout the Results and Discussion sections.[ a href=\"https://revistachirurgia.ro/pdfs/2026-5-593.pdf\" read more /a ].",
+ "authors": [
+  "Yıldız YA"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43037109",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장십이지장절제술 환자를 대상으로 P-POSSUM 위험 점수 체계의 유용성을 평가한 기존 연구에 대한 서한입니다.",
+  "원저 연구진이 온라인 계산기를 통해 수술 후 합병증 위험도를 산출하고 분석한 방법론적 과정에 대해 질의했습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.21614/chirurgia.3410",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43037109"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-10-01",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chirurgia (Bucur)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037109/"
+ },
+ "summary_ko": "본 서한은 췌장십이지장절제술 후 수술 전후 위험도를 평가한 기존 연구(Bodea 등의 연구)에 대한 논평입니다. 췌장십이지장절제술 후 결과를 정확히 예측하는 것은 임상적으로 매우 중요합니다. 서한의 저자들은 원저에서 수술 후 합병증(이환율)을 추정하기 위해 사용한 계산 방법론에 대해 추가적인 명확한 설명을 요청했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Letter to the Editor: Evaluation of P-POSSUM Risk Scoring System in Prediction of Morbidity and Mortality after Pancreaticoduodenectomy",
+ "title_ko": "편집자에게 보내는 서한: 췌장십이지장절제술 후 이환율 및 사망률 예측을 위한 P-POSSUM 위험 점수 체계 평가에 대하여",
+ "trial": null,
+ "type": "paper"
+}

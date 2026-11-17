@@ -16,12 +16,87 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 388건 · 최근 30일 282건
+전체 393건 · 최근 30일 286건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43035764"></a>
+#### [췌장관선암의 개인 맞춤형 치료를 위한 기능적 실험 시스템과 임상 예측 기술의 통합](https://pubmed.ncbi.nlm.nih.gov/43035764/)
+<small>Unifying functional experimental systems with clinical predictive technologies for personalized care in PDAC</small>
+
+`논문` `종설` `기초연구` `진단·조기발견` `치료 전반` · 2026-08-20 · PubMed · Mol Cancer · 중요도 0.62
+
+췌장관선암(PDAC)의 복잡한 특성으로 인해 전통적인 2차원 세포주 연구는 환자에게 실질적인 치료법으로 이어지는 데 한계가 있었습니다. 본 종설 논문은 오가노이드(organoid)와 스페로이드(spheroid) 등 3차원 시험관 내 모델과 환자 유래 이종이식(PDX), 유전자 변형 쥐 모델(GEMM)의 통합적 활용 방안을 종합적으로 분석했습니다. 나아가 전사체 프로파일링을 통한 환자 아형 분류, 미세잔존질환 및 약물 저항성을 모니터링하는 액체 생검(liquid biopsy)의 임상적 유용성을 논의했습니다. 최종적으로 인공지능(AI) 기반 다중오믹스 분석과 마이크로바이옴 등을 융합하여 전임상 연구와 정밀 종양학의 간극을 좁히고 맞춤형 치료를 실현할 미래 방향을 제시했습니다.
+
+- 기존 2차원 세포주 중심의 전임상 연구 한계를 극복하기 위해 3차원 오가노이드 및 환자 유래 이종이식(PDX) 모델의 필요성을 강조했습니다.
+- 액체 생검(liquid biopsy)을 통해 미세잔존질환과 치료 저항성의 조기 감시 가능성을 제시했습니다.
+- 전사체 아형 분석, 약물유전체학, 마이크로바이옴 및 인공지능(AI) 다중오믹스를 통합하여 췌장암 개인 맞춤형 정밀 치료로의 전환을 제안했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035764/) · [DOI](https://doi.org/10.1186/s12943-026-02773-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035764)</small>
+
+---
+<a id="doi-10.64898-2026.11.12.766325"></a>
+#### [췌관선암에서 미드카인(Midkine)과 면역억제성 종양 미세환경: 멘델 무작위 배정, 다중 오믹스 요인 분석 및 단일 세포 전사체 분석을 통한 근거](https://europepmc.org/article/PPR/PPR1368737)
+<small>Midkine and the immunosuppressive tumor microenvironment in pancreatic ductal adenocarcinoma: evidence from Mendelian randomization, multi-omics factor analysis, and single-cell transcriptomics</small>
+
+`프리프린트` `전임상` `기초연구` · 2026-11-16 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+본 연구는 유전체 역학 분석과 단일 세포 데이터 등을 활용하여 분비 단백질인 미드카인(Midkine, MDK)이 췌장암 발생과 종양 미세환경에 미치는 영향을 분석한 기초 연구입니다. 분석 결과, MDK 발현 증가는 췌관선암(PDAC)의 발병 위험 증가와 유의미하게 연관되어 있었습니다. 또한 독립된 환자 코호트에서 MDK 고발현은 전체 생존기간(OS) 단축과 관련이 있었습니다. 단일 세포 전사체 분석에서 MDK는 암세포 자체가 아니라 암 연관 섬유아세포 및 혈관 내피세포에서 주로 생성되어 면역 억제 환경을 유도하는 것으로 나타났습니다.
+
+- 멘델 무작위 배정(Mendelian randomization) 분석에서 MDK는 췌관선암 위험 증가와 유의한 인과적 연관성을 보였습니다 (오즈비 1.51, 95% 신뢰구간 1.19–1.91, p = 6.7 × 10⁻⁴).
+- 독립된 췌장암 환자 코호트(n = 130)에서 MDK 고발현 환자의 전체 생존기간(OS) 중앙값은 10.2개월로, 저발현군의 21.1개월에 비해 유의하게 짧았습니다 (p = 0.023).
+- MDK는 종양 암세포가 아닌 암 연관 섬유아세포와 내피세포에서 주로 분비되어 면역 배제 환경을 형성하는 것으로 관찰되었습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1368737) · [DOI](https://doi.org/10.64898/2026.11.12.766325) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.12.766325)</small>
+
+---
+<a id="doi-10.64898-2026.11.13.766453"></a>
+#### [췌관선암 유발 악액질에서 MyoAAV 기반 OPA1 과발현 또는 BNIP3 억제를 통한 미토콘드리아 동역학 조절 연구](https://europepmc.org/article/PPR/PPR1368705)
+<small>Mitochondrial Dynamics Modulation via MyoAAV-Mediated OPA1 Overexpression or BNIP3 Knockdown in Pancreatic Ductal Adenocarcinoma (PDAC)-Induced Cachexia</small>
+
+`프리프린트` `전임상` `지지요법·삶의질` `기초연구` · 2026-11-16 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+본 연구는 췌장암에 동반되는 근육 소모(암 악액질) 동물 모델에서 근육 내 미토콘드리아 조절을 통한 근육 보존 효과를 평가한 전임상 연구입니다. 연구진은 췌관선암(KPC) 마우스 모델의 근육에 바이러스 전달체(MyoAAV)를 주입하여 OPA1을 과발현시키거나 BNIP3를 억제했습니다. 두 방법 모두 전신 체중 감소를 완전히 막지는 못했으나, 특정 근육의 질량 손실을 완화하거나 근력(토크) 저하 및 근피로도를 개선하는 효과를 보였습니다.
+
+- 근육 국소 유전자 조절은 전신적인 악액질 자체를 막지는 못했으나 근육의 기능적 측면을 개선했습니다.
+- 수컷 마우스에서 OPA1 과발현은 근육량 감소를 부분적으로 완화하고 근력 저하를 개선했습니다.
+- 수컷 마우스에서 BNIP3 억제는 근력을 뚜렷하게 향상시키고 피로 저항력을 회복시켰습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1368705) · [DOI](https://doi.org/10.64898/2026.11.13.766453) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.13.766453)</small>
+
+---
+<a id="pmid-43036814"></a>
+#### [불균등 분할 공동자극 MSLN.BBz/NKG2D.28 이중 CAR-T 설계를 통한 항원 이질성 췌장암에 대한 항암 활성 증대](https://pubmed.ncbi.nlm.nih.gov/43036814/)
+<small>An asymmetric split-costimulatory MSLN.BBz/NKG2D.28 dual CAR-T design enhances activity against antigenically heterogeneous pancreatic cancer</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` · 2026-09-23 · PubMed · Mol Ther Oncol · 중요도 0.54
+
+췌관선암(PDAC)에서 키메라 항원 수용체(CAR)-T 세포 치료의 효과를 제한하는 주요 원인인 종양 항원 이질성을 극복하기 위한 전임상 연구입니다. 연구진은 췌장암 검체에서 상호보완적으로 발현되는 메소텔린(MSLN)과 NKG2D 리간드(NKG2DLs)를 발굴하고, 이를 표적으로 하는 불균등 분할 공동자극 이중 CAR인 MSLN.BBz/NKG2D.28을 제작했습니다. 실험실 및 동물 모델 평가에서 해당 CAR-T 세포는 단일 또는 혼합 항원 종양 세포를 효과적으로 제거하고 체내 지속성과 생존 기간을 향상시켰습니다. 이러한 활성 증대에는 IL-2-STAT5 신호 전달 경로가 중요한 역할을 하는 것으로 확인되었습니다.
+
+- 메소텔린(MSLN)과 NKG2D 리간드(NKG2DLs)를 조합한 비대칭 분할 공동자극 이중 CAR-T(MSLN.BBz/NKG2D.28)가 우수한 항암 성능을 보였습니다.
+- 실험실(in vitro) 및 동물(in vivo) 췌장암 모델에서 항원 이질성을 가진 종양에 대해 강화된 종양 억제력과 연장된 생존율을 나타냈습니다.
+- 이러한 기능 향상 및 면역세포 지속성에는 IL-2-STAT5 신호 전달 경로가 관여함을 규명했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43036814/) · [DOI](https://doi.org/10.1016/j.omton.2026.201349) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13770624/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43036814)</small>
+
+---
+<a id="pmid-43035458"></a>
+#### [ACSL5의 n-6 도코사펜타엔산 대사 조절을 통한 췌장암 진행 및 젬시타빈 내성 억제 효과](https://pubmed.ncbi.nlm.nih.gov/43035458/)
+<small>ACSL5 suppresses pancreatic cancer progression and gemcitabine resistance by regulating n-6 docosapentaenoic acid metabolism</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-08-19 · PubMed · Cell Death Dis · 중요도 0.54
+
+본 연구는 췌관선암(PDAC)에서 지질 대사 효소인 ACSL5의 작용 기전과 젬시타빈(gemcitabine) 내성에 미치는 영향을 세포 및 동물 실험과 코호트 분석을 통해 조사했습니다. 연구 결과, ACSL5는 젬시타빈 내성 세포에서 발현이 감소되어 있었으며 환자 검체에서 높은 ACSL5 발현은 더 나은 생존율과 연관되었습니다. ACSL5의 과발현은 암세포 증식, 침윤 및 젬시타빈 내성을 억제했으며, 이는 지방산 산화 조절 및 n-6 도코사펜타엔산(DPA-n6) 수치 억제를 통해 매개되는 것으로 나타났습니다. 또한 혈장 내 높은 DPA-n6 수치는 불량한 예후의 독립적인 위험 인자로 확인되었습니다.
+
+- ACSL5는 젬시타빈 내성 췌장암 세포에서 발현이 낮았으며, 높은 발현은 환자의 우수한 생존율과 연관되었습니다.
+- ACSL5 과발현은 암세포 증식 및 침윤을 줄이고 젬시타빈 내성을 극복하는 데 기여했습니다.
+- 혈장 내 n-6 도코사펜타엔산(DPA-n6)의 높은 수치는 췌장암 환자의 불량한 예후를 예측하는 독립적 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035458/) · [DOI](https://doi.org/10.1038/s41419-026-09197-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035458)</small>
+
+---
 <a id="pmid-43026798"></a>
 #### [혈액 형태학 분석 단순 알고리즘(SAMBA): 췌관선암 환자 코호트에서 말초 혈액 표현형을 식별하기 위한 인공지능 보조 접근법](https://pubmed.ncbi.nlm.nih.gov/43026798/)
 <small>Simple Algorithm for Blood Morphology Analysis (SAMBA): An Artificial Intelligence-Assisted Approach to Identify Peripheral Blood Phenotypes in a Cohort of Patients with Pancreatic Ductal Adenocarcinoma (PDAC)</small>
@@ -2206,81 +2281,5 @@ search:
 - 체외 실험에서 SLC2A1 발현 증가가 PANC-1 세포의 증식, 침윤, NETs 형성을 촉진하는 것으로 검증되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42962198/) · [DOI](https://doi.org/10.1615/JEnvironPatholToxicolOncol.2025061067) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42962198)</small>
-
----
-<a id="pmid-42960156"></a>
-#### [신경 미세환경의 재배선: 프로스타글란딘 E2는 췌장암에서 슈반 세포 매개 신경주위 침범을 촉진합니다](https://pubmed.ncbi.nlm.nih.gov/42960156/)
-<small>Rewiring the neural niche: Prostaglandin E2 promotes Schwann cell-mediated perineural invasion in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `치료 전반` · 2026-09-14 · PubMed · ILIVER · 중요도 0.44
-
-이 연구는 췌장암에서 프로스타글란딘 E2(Prostaglandin E2)가 슈반 세포(Schwann cell)를 매개로 하여 신경주위 침범(perineural invasion)을 촉진하는 기전을 분석했습니다. 췌장암 세포와 신경 미세환경 사이의 상호작용을 다룬 기초연구입니다. 초록에 환자 대상 수치나 임상 결과는 명시되지 않았습니다.
-
-- 프로스타글란딘 E2가 췌장암의 신경주위 침범을 촉진하는 역할에 주목했습니다.
-- 슈반 세포가 매개하는 신경 미세환경의 변화를 분석했습니다.
-- 구체적인 임상 수치나 환자 반응률은 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42960156/) · [DOI](https://doi.org/10.1016/j.iliver.2026.100268) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718399/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42960156)</small>
-
----
-<a id="pmid-42956081"></a>
-#### [췌장암: RAS 패러다임의 전환](https://pubmed.ncbi.nlm.nih.gov/42956081/)
-<small>Pancreatic cancer: The RAS paradigm shift</small>
-
-`논문` `종설` `기초연구` `신약·치료제` `치료 전반` · 2026-10-29 · PubMed · PLoS Med · 중요도 0.65
-
-예후가 좋지 않은 공격적인 질환인 췌관선암(pancreatic adenocarcinoma)의 치료 접근법이 세포독성 항암화학요법(cytotoxic chemotherapy)을 넘어 진화하고 있습니다. 소분자 물질을 이용한 RAS 표적 치료의 최근 발전은 치료 패러다임을 재정립하고 있습니다. 초록에 세부 임상 결과나 환자 수는 명시되지 않았습니다.
-
-- 췌관선암은 예후가 나쁜 공격적인 질환입니다.
-- 소분자 물질을 이용한 RAS 표적 치료의 최근 발전이 이루어지고 있습니다.
-- 치료 접근법이 기존 세포독성 항암화학요법을 넘어 변화하고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42956081/) · [DOI](https://doi.org/10.1371/journal.pmed.1005283) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42956081)</small>
-
----
-<a id="pmid-42947336"></a>
-#### [선택적 AUTAC를 통한 ATP7B 분해는 췌장관선암에서 구리 세포사멸 취약성을 활성화합니다](https://pubmed.ncbi.nlm.nih.gov/42947336/)
-<small>Selective AUTAC-mediated ATP7B degradation unlocks cuproptosis vulnerability in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-01 · PubMed · Clin Transl Med · 중요도 0.64
-
-이 연구는 췌장관선암(PDAC)에서 ATP7B가 구리 세포사멸(cuproptosis)을 막는 핵심 요인임을 밝혔습니다. 연구진은 ATP7B를 표적하는 자가포식 유도 화합물(ATAUTAC)을 개발하여 ATP7B 분해를 촉진했습니다. ATAUTAC은 미토콘드리아 대사회사를 교란하고 구리 세포사멸을 유발하여 종양 성장을 억제했습니다. 또한 ATAUTAC은 췌장관선암을 gemcitabine(젬시타빈)에 민감하게 만들어 내성을 극복했습니다. 초록에 환자 수나 임상시험 결과는 명시되지 않았습니다.
-
-- ATP7B는 췌장관선암(PDAC)에서 구리 세포사멸을 막는 중심 장벽으로 확인되었습니다.
-- ATP7B를 표적하는 자가포식 유도 화합물인 ATAUTAC은 ATP7B 분해를 촉진하고 구리 세포사멸을 유발합니다.
-- ATAUTAC은 종양 성장을 억제하고 췌장관선암이 gemcitabine에 대한 내성을 극복하도록 돕습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42947336/) · [DOI](https://doi.org/10.1002/ctm2.70848) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13714097/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42947336)</small>
-
----
-<a id="pmid-42950923"></a>
-#### [RBM15 단백질의 m6A 의존적 CSF2/STAT3 경로를 통한 췌장암 대식세포 탐식 작용 억제 기전 규명](https://pubmed.ncbi.nlm.nih.gov/42950923/)
-<small>RNA binding motif protein 15 (RBM15) inhibits macrophage phagocytosis via m6A-dependent colony stimulating factor 2 (CSF2)/STAT3 pathway in pancreatic cancer</small>
-
-`논문` `전임상` `기초연구` `진단·조기발견` · 2026-10-28 · PubMed · Int J Biol Macromol · 중요도 0.64
-
-췌관선암(PDAC)에서 RNA 변형 조절 단백질인 RBM15가 면역세포인 대식세포의 암세포 탐식 작용을 억제하는 기전을 밝힌 전임상 기초 연구입니다. 연구진에 따르면 RBM15는 m6A RNA 변형을 통해 CSF2 메신저 리보핵산(mRNA)을 안정화시키고 암세포의 CSF2 분비를 증가시킵니다. 분비된 CSF2는 대식세포의 STAT3 신호를 활성화하여 대식세포의 탐식 기능을 저해하고 종양의 면역 회피를 유도했습니다. 동물 동소이식 모델에서도 RBM15가 CSF2/STAT3 축 활성화와 면역억제성 대식세포 침윤을 유도해 췌장암 진행을 촉진함을 확인했습니다.
-
-- RBM15는 췌장암 조직에서 발현이 증가되어 있으며, 면역억제성 대식세포 침윤 및 불량한 예후와 연관성을 보였습니다.
-- RBM15는 CSF2 분비를 늘려 대식세포의 STAT3 경로를 자극하고 대식세포의 암세포 탐식(phagocytosis) 능력을 억제했습니다.
-- 생체 내(in vivo) 동물 모델에서 RBM15/CSF2/STAT3 축이 췌장암 진행과 면역억제 미세환경 형성을 촉진함을 입증했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42950923/) · [DOI](https://doi.org/10.1016/j.ijbiomac.2026.155048) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42950923)</small>
-
----
-<a id="pmid-42952311"></a>
-#### [DHODH 및 SLC29A1 이중 표적화를 통한 췌장암의 대사성 저항성 극복 및 항종양 면역 반응 증진](https://pubmed.ncbi.nlm.nih.gov/42952311/)
-<small>Dual targeting of DHODH and SLC29A1 overcomes metabolic resistance and enhances antitumor immune responses in PDAC</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` · 2026-10-29 · PubMed · Mol Cancer Ther · 중요도 0.64
-
-본 연구는 췌장관선암(PDAC) 전임상 모델에서 디하이드로오로테이트 탈수소효소(DHODH) 억제제인 HOSU-53(JBZ-001)의 항종양 효과와 저항성 기전을 분석했습니다. DHODH 억제 시 암세포는 등평형 뉴클레오시드 수송체 1(SLC29A1)을 통한 구원 경로를 활성화하여 치료에 저항했습니다. DHODH와 SLC29A1을 동시 억제하면 암세포의 대사 붕괴를 유도하고 종양 성장과 전이를 크게 억제했습니다. 또한 이중 억제 치료는 anti-PD-1 면역항암치료와의 시너지 효과를 통해 항종양 면역 반응을 강화했습니다.
-
-- DHODH 억제제 HOSU-53은 민감한 췌장암 세포에서 세포주기 정지, 아포토시스 및 페롭토시스 사멸을 유도했습니다.
-- 암세포는 SLC29A1 수송체를 이용해 외부 뉴클레오시드를 흡수함으로써 DHODH 억제에 대한 저항성을 얻었습니다.
-- DHODH와 SLC29A1의 이중 억제는 동물 모델에서 종양 성장과 전이를 억제하고 면역 미세환경을 활성화했습니다.
-- DHODH 및 SLC29A1 동시 억제는 anti-PD-1 면역항암제 치료의 효과를 유의하게 향상시켰습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42952311/) · [DOI](https://doi.org/10.1158/1535-7163.MCT-26-0461) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42952311)</small>
 
 ---

@@ -1,0 +1,58 @@
+{
+ "abstract": null,
+ "authors": [
+  "Jiang YY",
+  "Wu ZZ",
+  "Ji BB",
+  "Wang ZM"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43035274",
+ "importance": 0.58,
+ "key_points_ko": [
+  "췌장암 환자를 대상으로 비가역적 전기천공술(IRE)의 최신 연구 현황을 검토한 논문입니다.",
+  "구체적인 생존기간 및 반응률 등의 세부 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.3760/cma.j.cn112138-20260616-00369",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43035274"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhonghua Nei Ke Za Zhi",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035274/"
+ },
+ "summary_ko": "췌장암 치료를 위한 비가역적 전기천공술(IRE, irreversible electroporation)의 연구 진행 상황을 다룬 종설(Review) 논문입니다. 비열성 종양 소작술인 비가역적 전기천공술의 임상적 적용 및 연구 동향을 종합적으로 검토했습니다. 구체적인 환자 데이터 및 연구 결과 수치는 본문에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Research progress of irreversible electroporation for pancreatic cancer]",
+ "title_ko": "췌장암에서 비가역적 전기천공술의 연구 진행 현황",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND AND PURPOSE: Anatomical proximity to gastrointestinal (GI) organs can preclude dose-escalated irradiation for locally advanced pancreatic cancer (LAPC). We evaluated the safety and feasibility of bioabsorbable spacer-assisted high-dose proton beam therapy (PBT) for unresectable LAPC of the pancreatic body or tail.\nMATERIALS AND METHODS: This exploratory retrospective analysis used retrospectively reviewed perioperative data and retrospectively or prospectively collected PBT data. Fourteen patients with presumed nonmetastatic LAPC underwent placement of a bioabsorbable polyglycolic acid (PGA) spacer. Thirteen received definitive PBT at 67.5 or 75 Gy (relative biological effectiveness [RBE]) in 25 fractions. The composite primary safety endpoint was the occurrence of a Clavien-Dindo grade ≥III surgical complication or a CTCAE grade ≥3 adverse event related to definitive PBT or concurrent chemotherapy.\nRESULTS: Spacer placement achieved ≥10 mm tumor-GI separation in all 14 patients; 13 completed definitive PBT. No Clavien-Dindo grade ≥III surgical complication occurred. Four of 13 definitive-PBT patients (30.8%) experienced at least one qualifying safety event: one experienced grade 3 nausea and three other patients experienced grade 3 leukopenia/neutropenia. No grade ≥3 structural GI injury was observed. Median follow-up was 19.3 months. Median overall and progression-free survival were 24.8 and 11.8 months, respectively; 1- and 2-year local control rates were 81.5% and 38.2%.\nCONCLUSION: Bioabsorbable spacer-assisted high-dose PBT was technically feasible in this selected cohort. However, this small, uncontrolled study cannot establish a low risk of uncommon or late adverse events or support conclusions regarding comparative safety or efficacy.",
+ "authors": [
+  "Nakamura H",
+  "Nanno Y",
+  "Terashima K",
+  "Matsuo Y",
+  "Takahashi D",
+  "Niwa Y",
+  "Demizu Y",
+  "Tokumaru S"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-17",
+ "history": [
+  {
+   "date": "2026-11-17",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43035152",
+ "importance": 0.71,
+ "key_points_ko": [
+  "스페이서 삽입을 통해 14명 전원에서 종양과 위장관 사이에 10 mm 이상의 간격이 확보되었습니다.",
+  "양성자치료를 완료한 13명 중 30.8%(4명)에서 3등급 부작용(구역 1명, 백혈구/호중구 감소증 3명)이 관찰되었으며, 중증 위장관 손상은 없었습니다.",
+  "중앙 전체 생존기간(OS)은 24.8개월, 중앙 무진행 생존기간(PFS)은 11.8개월이었으며, 1년 및 2년 국소 제어율은 각각 81.5%와 38.2%였습니다."
+ ],
+ "last_updated": "2026-11-17",
+ "links": {
+  "doi": "10.1016/j.radonc.2026.111872",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43035152"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-15",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiother Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035152/"
+ },
+ "summary_ko": "주변 위장관 장기와의 인접성 때문에 고선량 방사선 조사가 어려운 국소진행성 췌장암 환자를 대상으로 생체흡수성 스페이서(PGA spacer)를 삽입한 후 고선량 양성자치료(PBT)를 시행한 안전성을 평가했습니다. 비전이성 수술 불가능 췌장 체부·미부 암 환자 14명이 스페이서 삽입을 받았으며, 이 중 13명이 25회에 걸쳐 67.5 또는 75 Gy(RBE)의 근치적 양성자치료를 완료했습니다. 모든 환자에서 종양과 위장관 사이 10 mm 이상의 안전 거리가 확보되었고, 수술 관련 중증 합병증이나 3등급 이상의 구조적 위장관 손상은 발생하지 않았습니다. 중앙 추적 관찰 기간 19.3개월 동안 중앙 전체 생존기간(OS)은 24.8개월, 무진행 생존기간(PFS)은 11.8개월이었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bioabsorbable spacer-assisted high-dose proton beam therapy for unresectable locally advanced pancreatic cancer of the body or tail: a feasibility and safety study",
+ "title_ko": "수술 불가능한 췌장 체부 또는 미부 국소진행성 췌장암 환자에서 생체흡수성 스페이서를 활용한 고선량 양성자치료의 타당성 및 안전성 연구",
+ "trial": null,
+ "type": "paper"
+}
