@@ -1,0 +1,55 @@
+{
+ "abstract": "BACKGROUND: Early recurrence after radical resection of pancreatic ductal adenocarcinoma (PDAC) is a primary cause of poor prognosis. Published definitions of early recurrence use postoperative cutoff points ranging from 6 to 12 months. This study aimed to analyze perioperative clinicopathological features associated with early recurrence after PDAC surgery, with particular focus on the impact of tumor location, to facilitate individualized treatment decisions.\nMETHODS: Clinical data from 155 patients with PDAC who underwent pancreatectomy at Panjin Liao-Oil Field Gem Flower Hospital between January 2011 and December 2020 were retrospectively analyzed. In this study, early recurrence was defined as recurrence within 6 months after surgery. Kaplan-Meier method with log-rank test was used to evaluate survival outcomes. Two separate multivariable logistic regression models were constructed to identify independent predictors of early recurrence: one including preoperative variables and one including postoperative variables. Odds ratios (ORs) with 95% confidence intervals (CIs) were reported for these logistic regression models.\nRESULTS: The R0 resection rate was significantly higher for pancreatic body/tail tumors than for head/neck tumors (P = 0.040). Among 155 patients, 55 (35.5%) developed recurrence within 6 months (early recurrence group), 78 (50.3%) had non-early recurrence, and 22 (14.2%) showed no recurrence. The early recurrence group had a significantly higher proportion of multiple-organ metastasis (P = 0.019) and significantly shorter overall survival (P < 0.001). No significant differences in recurrence patterns or overall survival were observed between tumor location subgroups (P > 0.05). In the preoperative multivariable model, only CA19-9 ≥ 208 IU/mL was an independent predictor of early recurrence (P = 0.021); body/tail location was not statistically significant (P = 0.123). In the postoperative multivariable model, body/tail tumor location, tumor size ≥ 3.3 cm (based on postoperative pathological measurement), TNM stage III, and lack of postoperative adjuvant chemotherapy were independent risk factors for recurrence within 6 months (P < 0.05).\nCONCLUSIONS: In this single-center retrospective cohort, body/tail tumor location was associated with early recurrence within 6 months after curative-intent PDAC surgery in the postoperative multivariable model, but it was not independently significant in the preoperative model and did not significantly affect overall survival. This finding is hypothesis-generating and requires external validation. Incorporating tumor location into preoperative risk stratification may warrant prospective evaluation as one component of a preoperative risk model.",
+ "authors": [
+  "Zhu L",
+  "Luo M",
+  "Han H",
+  "Liu G",
+  "Zhao H"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43041333",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.3389/fonc.2026.2002437",
+  "nct": [],
+  "pmcid": "PMC13770770",
+  "pmid": "43041333"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041333/"
+ },
+ "summary_ko": "BACKGROUND: Early recurrence after radical resection of pancreatic ductal adenocarcinoma (PDAC) is a primary cause of poor prognosis. Published definitions of early recurrence use postoperative cutoff points ranging from 6 to 12 months.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Tumor location in the pancreatic body/tail as an independent risk factor for early recurrence after curative resection of pancreatic ductal adenocarcinoma: a single-center retrospective study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

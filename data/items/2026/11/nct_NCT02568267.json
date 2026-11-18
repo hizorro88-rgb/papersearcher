@@ -1,0 +1,164 @@
+{
+ "abstract": "This is an open-label, multicenter, global Phase 2 basket study of entrectinib (RXDX-101) for the treatment of patients with solid tumors that harbor an NTRK1/2/3, ROS1, or ALK gene fusion. Patients will be assigned to different baskets according to tumor type and gene fusion.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT02568267",
+ "importance": 0.78,
+ "key_points_ko": [],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT02568267"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2015-10-05",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hoffmann-La Roche",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT02568267"
+ },
+ "summary_ko": "This is an open-label, multicenter, global Phase 2 basket study of entrectinib (RXDX-101) for the treatment of patients with solid tumors that harbor an NTRK1/2/3, ROS1, or ALK gene fusion. Patients will be assigned to different baskets according to tumor type and gene fusion.",
+ "summary_source": "excerpt",
+ "tags": [
+  "Entrectinib",
+  "RXDX-101",
+  "TrkA",
+  "TrkB",
+  "TrkC",
+  "NTRK1",
+  "NTRK2",
+  "NTRK3",
+  "ROS1",
+  "ALK",
+  "신경내분비종양"
+ ],
+ "title": "Basket Study of Entrectinib (RXDX-101) for the Treatment of Patients With Solid Tumors Harboring NTRK 1/2/3 (Trk A/B/C), ROS1, or ALK Gene Rearrangements (Fusions)",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Breast Cancer",
+   "Cholangiocarcinoma",
+   "Colorectal Cancer",
+   "Head and Neck Neoplasms",
+   "Lymphoma, Large-Cell, Anaplastic",
+   "Melanoma",
+   "Neuroendocrine Tumors",
+   "Non-Small Cell Lung Cancer",
+   "Ovarian Cancer",
+   "Pancreatic Cancer",
+   "Papillary Thyroid Cancer",
+   "Primary Brain Tumors",
+   "Renal Cell Carcinoma",
+   "Sarcomas",
+   "Salivary Gland Cancers",
+   "Adult Solid Tumor"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologically- or cytologically-confirmed diagnosis of locally advanced or metastatic solid tumor that harbors an NTRK1/2/3, ROS1, or ALK gene rearrangement\n* For patients enrolled via local molecular testing, an archival or fresh tumor tissue (unless medically contraindicated) is required to be submitted for independent central molecular testing at Ignyta's CLIA laboratory post-enrollment\n* Measurable or evaluable disease\n* Patients with CNS involvement, including leptomeningeal carcinomatosis, which is either asymptomatic or previously-treated and controlled, are allowed\n* Prior anticancer therapy is allowed (excluding approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements)\n\n  \\- Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited.\n* At least 2 weeks or 5 half-lives, whichever is shorter, must have elapsed after prior chemotherapy or small molecule targeted therapy\n* At least 4 weeks must have elapsed since completion of antibody-directed therapy\n* Prior radiotherapy is allowed if more than 14 days have elapsed since the end of treatment\n* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2 and minimum life expectancy of 4 weeks\n* Adequate organ function as defined per protocol\n* Ability to swallow entrectinib intact\n* Other protocol specified criteria\n\nExclusion Criteria:\n\n* Current participation in another therapeutic clinical trial\n* Prior treatment with approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements\n\n  \\- Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited.\n* History of other previous cancer that would interfere with the determination of safety or efficacy\n* Familial or personal history of congenital bone disorders, or bone metabolism alterations\n* Incomplete recovery from any surgery\n* History of recent (within the past 3 months) symptomatic congestive heart failure or ejection fraction ≤50% observed during screening for the study\n* History of non-pharmacologically induced prolonged QTc interval\n* History of additional risk factors for torsades de pointes\n* Peripheral neuropathy Grade ≥ 2\n* Known active infections\n* Active gastrointestinal disease or other malabsorption syndromes\n* Known interstitial lung disease, interstitial fibrosis, or history of tyrosine kinase inhibitor-induced pneumonitis\n* Other protocol specified criteria",
+  "enrollment": 534,
+  "has_results": false,
+  "interventions": [
+   "Entrectinib"
+  ],
+  "last_update_posted": "2026-11-17",
+  "location_countries": [
+   "Australia",
+   "Belgium",
+   "China",
+   "France",
+   "Germany",
+   "Hong Kong",
+   "Italy",
+   "Japan",
+   "Netherlands",
+   "Poland",
+   "Singapore",
+   "South Korea",
+   "Spain",
+   "Taiwan",
+   "United Kingdom",
+   "United States"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Asan Medical Center.",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Samsung Medical Center",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Severance Hospital, Yonsei University Health System",
+    "status": null
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 115,
+  "nct_id": "NCT02568267",
+  "phase": "PHASE2",
+  "primary_completion_date": "2026-10-29",
+  "sex": "ALL",
+  "sponsor": "Hoffmann-La Roche",
+  "start_date": "2015-11-19",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

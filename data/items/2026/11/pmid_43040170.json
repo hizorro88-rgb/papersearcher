@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series. We report technique and outcomes from the largest cohort of TMPS, an approach described at our center.\nPATIENTS AND METHODS: All pancreatic resections performed with TMPS between January 2007 and December 2024 were retrospectively reviewed. Operative and survival outcomes were analyzed.\nRESULTS: 155 LA-PDAC patients underwent TMPS placement. Most had LA-PDAC (92%) and received preoperative chemotherapy (89%), mainly FOLFIRINOX-based (86.9%). Complete venous obstruction (Nakao D) was present in 48.1%. Procedures included pancreatoduodenectomy (62%), total (24.5%), and distal pancreatectomy (13.5%). All patients underwent venous resection; 75% also required arterial resection, most commonly of the superior mesenteric artery (61%). Mean operative time was 610 min (range 180-1145 min). Postoperative mortality was 6.4%, and R0 resection was achieved in 56%. The median OS from diagnosis was 32.7 months (95% confidence interval [CI] 23.5-42.00 months).The median OS from surgery was 17.46 months (95% CI 13.2-21.6 months), with 1-, 3, and 5-year survival rates of 70%, 29%, and 21%, respectively.\nCONCLUSIONS: TMPS is a standardized and reproducible technique that facilitates management of complex venous resection and may enhance the feasibility of arterial resection in selected patients with LA-PDAC.",
+ "authors": [
+  "Addeo P",
+  "de Mathelin P",
+  "Paul C",
+  "Bachellier P"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox",
+  "whipple",
+  "distal-pancreatectomy"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040170",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1245/s10434-026-20910-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43040170"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040170/"
+ },
+ "summary_ko": "BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

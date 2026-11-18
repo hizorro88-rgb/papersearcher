@@ -24,8 +24,17 @@ search:
 | [수술 전 lanreotide 투여가 췌장 절제술 후 췌장 누공 예방에 미치는 효과를 평가하는 3상 임상시험](../trials/NCT06807437.md) | 3상 | 모집 중 | - |
 | [췌장 수술 전 사전 재활(Prehabilitation) 임상시험](../trials/NCT06069297.md) | 해당 없음 | 진행 중(모집 종료) | - |
 
-## 타임라인 (15)
+## 타임라인 (16)
 
+<a id="pmid-43040170"></a>
+#### [Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery](https://pubmed.ncbi.nlm.nih.gov/43040170/)
+`논문` `관찰연구` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+
+---
 <a id="pmid-43004101"></a>
 #### [80세 이상의 고령 환자에서 시행한 원위부 췌장 절제술과 로봇 수술의 역할](https://pubmed.ncbi.nlm.nih.gov/43004101/)
 <small>Distal Pancreatectomy in Octogenarians and the Role of Robotic Surgery</small>

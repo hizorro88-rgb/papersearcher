@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVE: To evaluate the natural history, especially concomitant pancreatic ductal adenocarcinoma (cPDAC) risk in patients with branch-duct intraductal papillary mucinous neoplasm (BD-IPMN) without worrisome features (WF) or high-risk stigmata (HRS).\nSUMMARY BACKGROUND DATA: BD-IPMNs without WF/HRS are considered low-risk, yet optimal surveillance strategies remain uncertain.\nMETHODS: In a prospective multicenter Japan Pancreas Society registry, 1234 patients with BD-IPMN without WF/HRS underwent imaging and laboratory surveillance every 6 months for up to 5.17 years. Cumulative incidence, standardized incidence ratios (SIRs), and competing-risk analyses were performed to assess advanced pancreatic neoplasia, defined as IPMN high-grade dysplasia (IPMN-HGD), invasive IPMN, or cPDAC, and associated risk factors. Outcomes were also evaluated under simulated guideline-recommended extended surveillance intervals.\nRESULTS: During 5.17 years of follow-up, advanced pancreatic neoplasia developed in 26 patients: 10 IPMN-HGD/invasive IPMN and 16 cPDAC. The 5.17-year cumulative incidence was 2.48%; SIRs relative to the general population were 8.01 overall, 3.07 for IPMN-HGD/invasive IPMN, and 4.91 for cPDAC. The cPDAC SIRs were 6.21 and 3.02 for cysts <20 mm and ≥20 mm, respectively. Diabetes history and mural nodule development predicted IPMN-HGD/invasive IPMN, whereas CA19-9 elevation and new or worsening diabetes predicted cPDAC. Of 19 patients eligible for surveillance interval extension, 13 (68%) had a later simulated detection date.\nCONCLUSION: Patients with BD-IPMN without WF/HRS at baseline had 3.07 and 4.91 times the incidences of IPMN-HGD/invasive IPMN and cPDAC expected in the general population, respectively. Surveillance based solely on cyst stability may warrant caution regarding the timely detection of surgically resectable pancreatic cancer.",
+ "authors": [
+  "Ideno N",
+  "Nakamura M",
+  "Kin T",
+  "Takenaka M",
+  "Hara K",
+  "Takikawa T",
+  "Nakai Y",
+  "Koshita S"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040604",
+ "importance": 0.8,
+ "key_points_ko": [],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1097/SLA.0000000000007255",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43040604"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040604/"
+ },
+ "summary_ko": "OBJECTIVE: To evaluate the natural history, especially concomitant pancreatic ductal adenocarcinoma (cPDAC) risk in patients with branch-duct intraductal papillary mucinous neoplasm (BD-IPMN) without worrisome features (WF) or high-risk stigmata (HRS). SUMMARY BACKGROUND DATA: BD-IPMNs without WF/HRS are considered low-risk, yet optimal surveillance strategies remain uncertain.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prospective Evidence of Concomitant Pancreatic Ductal Adenocarcinoma Risk Among Patients With Branch-duct Intraductal Papillary Mucinous Neoplasms Without Worrisome Features/High-risk Stigmata at Baseline",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

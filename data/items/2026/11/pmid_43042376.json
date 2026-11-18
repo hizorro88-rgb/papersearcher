@@ -1,0 +1,59 @@
+{
+ "abstract": null,
+ "authors": [
+  "Xie N",
+  "Cheng Y",
+  "Zan Y",
+  "Yu Q",
+  "Shi H"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43042376",
+ "importance": 0.44,
+ "key_points_ko": [
+  "초음파내시경 유도 세침생검(EUS-FNB)을 통해 췌장암을 모방한 악성 흑색종을 진단했습니다.",
+  "환자에게서 NRAS 변이와 희귀 KIT 엑손 17 변이가 확인되었습니다.",
+  "초록에 수치나 구체적인 치료 결과는 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1097/eus.0000000000000224",
+  "nct": [],
+  "pmcid": "PMC13773364",
+  "pmid": "43042376"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-18",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Endosc Ultrasound",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042376/"
+ },
+ "summary_ko": "이 논문은 초음파내시경 유도 세침생검(EUS-FNB)을 통해 췌장암으로 오인된 원발부 불명 악성 흑색종(malignant melanoma of unknown primary)을 진단한 증례를 보고합니다. 환자는 NRAS 변이와 희귀한 KIT 엑손 17 변이를 동반하고 있었습니다. 초록에 치료 결과나 생존기간 등은 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Malignant melanoma of unknown primary mimicking pancreatic cancer diagnosed by EUS-guided fine-needle biopsy: NRAS mutation and a rare KIT exon 17 variant",
+ "title_ko": "초음파내시경 유도 세침생검으로 진단된 원발부 불명 악성 흑색종: 췌장암을 모방한 NRAS 변이 및 희귀 KIT 엑손 17 변이",
+ "trial": null,
+ "type": "paper"
+}

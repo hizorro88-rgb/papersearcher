@@ -1,0 +1,59 @@
+{
+ "abstract": "Hepatopancreatobiliary tumors pose overlapping but tumor-specific challenges for PET imaging. Multiphase computed tomography (CT) and MR imaging are primary modalities for diagnosis, local staging, and resectability assessment; 18F-fluorodeoxyglucose (FDG) PET/CT is complementary and its main roles are biological risk assessment in hepatocellular carcinoma, occult metastatic staging in potentially resectable pancreatic ductal adenocarcinoma and biliary tract cancers, and metabolic response assessment after neoadjuvant therapy. Fibroblast activation protein inhibitor PET/CT may improve tumor-to-background contrast in desmoplastic tumors. Accurate interpretation requires contrast-enhanced CT or MR imaging and awareness of inflammatory false positives and false negatives related to small lesion size, low cellularity, or high physiologic background.",
+ "authors": [
+  "Arslan DF",
+  "Kuyumcu S"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43039502",
+ "importance": 0.57,
+ "key_points_ko": [
+  "다중시기 CT와 MR 영상이 진단, 국소 병기 설정, 수술 가능성 평가의 주요 양상입니다.",
+  "18F-FDG PET/CT는 수술 가능한 췌관선암(pancreatic ductal adenocarcinoma)에서 숨은 전이 병기 설정 등에 보조적 역할을 합니다.",
+  "섬유아세포 활성화 단백질 억제제 PET/CT는 섬유성 종양에서 종양과 배경 조직 간의 대조도를 개선할 수 있습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1016/j.mric.2026.09.003",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43039502"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-08",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Magn Reson Imaging Clin N Am",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039502/"
+ },
+ "summary_ko": "이 문헌은 간담췌 종양 진단 및 평가에서 PET 영상의 역할과 과제를 다룬 리뷰 논문입니다. 다중시기 컴퓨터단층촬영(CT)과 자기공명영상(MRI)이 진단과 수술 가능성 평가의 주된 방법입니다. 18F-fluorodeoxyglucose(FDG) PET/CT는 생물학적 위험 평가, 숨은 전이 병기 설정, 선행치료 후 대사적 반응 평가 등에 보조적으로 사용됩니다. 섬유아세포 활성화 단백질 억제제(fibroblast activation protein inhibitor) PET/CT는 섬유성 종양에서 대조도를 높일 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Hepatocellular Carcinoma and Pancreaticobiliary Tumors",
+ "title_ko": "간세포암 및 췌장담도 종양에서의 양전자방출단층촬영(PET)",
+ "trial": null,
+ "type": "paper"
+}

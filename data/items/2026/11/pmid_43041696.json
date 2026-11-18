@@ -1,0 +1,63 @@
+{
+ "abstract": "Early detection of hepato-pancreatic-biliary cancers requires different strategies because the populations at risk, precursor lesions, and accessible specimens vary by organ. This review examines established endoscopic imaging and tissue-acquisition pathways together with circulating and lesion-derived biomarkers. Inherited or familial pancreatic risk defines the main pancreatic surveillance population; endoscopic ultrasonography and magnetic resonance imaging are complementary, and prospective cohorts show a stage shift but also interval cancers and low-yield surgery. In pancreatic cysts, imaging features and selective tissue or cyst-fluid analysis can refine management, but no fluid marker independently identifies high-grade dysplasia with sufficient certainty. For biliary cancer, surveillance in primary sclerosing cholangitis depends on noninvasive imaging, whereas endoscopic ductal sampling, cholangioscopy-guided biopsy, and selective endoscopic ultrasonography address suspicious strictures; bile methylation and sequencing may increase diagnostic yield when an invasive procedure is already indicated. Endoscopy has a selective role in gallbladder lesions and a direct interception role in histologically confirmed ampullary adenomas. Hepatocellular carcinoma surveillance remains based on ultrasonography with alpha-fetoprotein; cell-free DNA methylation and multi-analyte blood tests are promising but have not replaced guideline-based surveillance. Across organs, case-control accuracy does not establish surveillance utility. Liquid biopsy complements rather than generally replaces histopathological diagnosis. Established adjuncts must be distinguished from investigational assays, including those with prospective diagnostic validation but no demonstrated surveillance utility. Integration requires specimen-specific analytical validation, independent testing in the intended-use population, and evidence of incremental clinical value over standard imaging and endoscopy. Interventional studies must show that this approach reduces late-stage diagnosis without excessive false-positive procedures.",
+ "authors": [
+  "Aseafan M",
+  "Alqayidi A",
+  "Dayis S",
+  "Bazarbashi A",
+  "Bazarbashi S"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43041696",
+ "importance": 0.66,
+ "key_points_ko": [
+  "간담췌암은 장기별로 고위험군과 전구 병변이 달라 서로 다른 조기 진단 전략이 필요합니다.",
+  "췌장 감시(surveillance)에서는 내시경 초음파와 자기공명영상이 상호 보완적으로 사용됩니다.",
+  "췌장 낭종(cyst)의 경우 낭종액 분석 등을 통해 관리를 정교화할 수 있으나 단독으로 고등급 이형성증을 확실히 판별하는 표지자는 아직 초록에 명시되지 않았습니다.",
+  "액체 생검은 조직병리학적 진단을 대체하기보다는 보완하는 역할을 합니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.3389/fonc.2026.1993861",
+  "nct": [],
+  "pmcid": "PMC13771491",
+  "pmid": "43041696"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041696/"
+ },
+ "summary_ko": "이 논문은 간담췌암의 조기 진단 전략을 다룬 문헌 고찰(review)입니다. 고위험군, 전구 병변, 이용 가능한 검체 등을 바탕으로 내시경 영상, 조직 획득 방법, 순환 및 병변 유래 생체표지자(biomarker)를 검토했습니다. 췌장암의 경우 유전적·가족성 위험군을 대상으로 내시경 초음파(endoscopic ultrasonography)와 자기공명영상(MRI)이 상호 보완적으로 쓰이며, 액체 생검(liquid biopsy) 등은 조직병리학적 진단을 대체하기보다는 보완하는 역할을 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Early detection and interception in hepato-pancreatic-biliary cancers: endoscopic imaging, liquid biopsy, and emerging molecular biomarkers",
+ "title_ko": "간담췌암의 조기 진단 및 차단: 내시경 영상, 액체 생검, 그리고 새롭게 부각되는 분자 생체표지자",
+ "trial": null,
+ "type": "paper"
+}

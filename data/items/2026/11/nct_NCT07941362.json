@@ -1,0 +1,122 @@
+{
+ "abstract": "This is a study of 177Lu -ACT319 in participants with the following cancers: pancreatic ductal adenocarcinoma (PDAC), biliary tract carcinoma (BTC), that is advanced, and for which there are no valid treatment options. Participants must have cancer that expresses protein called fibroblast activation protein (FAP). The purpose of this study is to evaluate safety, how the body tolerates, and how well ACT319 works in treating cancer. In addition, this study will evaluate how much 177Lu-ACT319 gets into the bloodstream, how it is broken down, and how long it takes the body to get rid of it. For each participant, the study will last approximately 2 years.\n\nA separate group of patients with other FAP expressing solid tumor types will be evaluated by PET/CT or SPECT/CT imaging for the intensity of target expression.\n\nPart 1A evaluates escalating 177Lu-ACT319 doses in PDAC/BTC to estimate MTD and/or define RDE.\n\nPart 1B is an open-label single-arm exploratory imaging sub-study in other FAP-expressing tumors.\n\nPart 2A randomizes patients with PDAC 1:1 between Recommended Dose for Expansion (RDE and RDE-1 dose levels) to identify an optimized dose regimen/RP2D.\n\nPart 2B may expand at the optimized dose in additional solid tumors selected from emerging data. FAP-positive disease is confirmed by PET/SPECT imaging. Treatment is IV administration every 6 weeks for up to 4 cycles, with up to 2 optional additional cycles based on benefits/safety.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07941362",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07941362"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE1/PHASE2"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Actithera INC.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07941362"
+ },
+ "summary_ko": "This is a study of 177Lu -ACT319 in participants with the following cancers: pancreatic ductal adenocarcinoma (PDAC), biliary tract carcinoma (BTC), that is advanced, and for which there are no valid treatment options. Participants must have cancer that expresses protein called fibroblast activation protein (FAP).",
+ "summary_source": "excerpt",
+ "tags": [
+  "177Lu-ACT319",
+  "fibroblast activation protein",
+  "FAP",
+  "radioligand therapy",
+  "radiopharmaceutical",
+  "PDAC",
+  "BTC",
+  "Sarcoma",
+  "colorectal cancer (CRC)",
+  "TNBC"
+ ],
+ "title": "177Lu-ACT319 in FAP Expressing Solid Tumors",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "FAP-expressing Solid Tumors",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Biliary Tract Carcinoma (BTC)"
+  ],
+  "contacts": [
+   {
+    "email": "info@actithera.com",
+    "name": "Head of Clinical Operations",
+    "phone": "+1-617-780-8045"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Male and female participants, age ≥ 18 years on the day of signing informed consent.\n* Histologically of cytologically confirmed advanced, unresectable and/or metastatic cancer. Participants must be refractory to or not tolerant to existing therapies known to provide clinical benefits for their condition\n* At least one measurable lesion per RECIST v1.1 by investigator assessment.\n* FAPI PET/SPECT imaging positive.\n* Adequate organ and bone marrow function in the 7 days prior to treatment.\n* Patient Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Anticipated life expectancy of 6 months or higher in the opinion of the investigator.\n* Participants with known central nervous system (CNS) metastasis will be eligible if they are clinically stable.\n\nExclusion Criteria:\n\n* Known hypersensitivity to the active substance, or to any of the excipients of the 177Lu-ACT319.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing active infection, uncontrolled diabetes mellitus, symptomatic congestive heart failure, or unstable angina pectoris.\n* Participants who have not had resolution of all clinically significant toxic effects of prior systemic cancer therapy, surgery, or radiotherapy to Grade ≤1 - Active clinically significant cardiac disease\n* Any major surgery within 4 weeks before enrollment. - Pregnancy or breastfeeding. - Unable or unwilling to comply with all study requirements for clinical visits, examinations, tests, study procedures, and contraception requirements. - Known diagnosis of liver cirrhosis, systemic fibrotic condition such as pulmonary fibrosis, retroperitoneal fibrosis, etc.\n* Any concurrent systemic antineoplastic therapy for the underlying disease and/or other investigational agents within a period which is ≤ 5 t1/2 or ≤ 2 weeks (whichever is longer) prior to the first injection of 177Lu-ACT319 (C1D1).\n* Treatment with any radiopharmaceutical within 6 weeks of Investigational medicinal product (IMP) or 10 half-lives, whatever is longer.",
+  "enrollment": 182,
+  "has_results": false,
+  "interventions": [
+   "177Lu-ACT319",
+   "177Lu-ACT319",
+   "177Lu-ACT319",
+   "177Lu-ACT319",
+   "[18F]-FAPI-74 for imaging",
+   "177Lu-ACT319 for imaging",
+   "177Lu-ACT319 at RDE",
+   "177Lu-ACT319 at RDE-1"
+  ],
+  "last_update_posted": "2026-11-17",
+  "location_countries": [],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 2,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 0,
+  "nct_id": "NCT07941362",
+  "phase": "PHASE1/PHASE2",
+  "primary_completion_date": "2029-07-31",
+  "sex": "ALL",
+  "sponsor": "Actithera INC.",
+  "start_date": "2026-10-25",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

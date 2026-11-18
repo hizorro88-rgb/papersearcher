@@ -4,8 +4,8 @@
  "categories": [
   "trial",
   "drug",
-  "diagnosis",
-  "treatment"
+  "treatment",
+  "diagnosis"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -25,11 +25,11 @@
  "id": "nct:NCT06051695",
  "importance": 0.97,
  "key_points_ko": [
-  "MSLN을 발현하고 HLA-A*02 이형성 손실(LOH)이 확인된 진행성/전이성 췌장암 등 고형암 환자 474명을 대상으로 진행하는 1/2상 연구입니다.",
-  "선행 연구(BASECAMP-1)를 통해 사전 T세포 성분채집술(Apheresis) 및 보관을 완료한 환자만 참여가 가능합니다.",
-  "정상 조직의 손상을 막고 암세포만 선택적으로 공격하는 논리 게이트(Logic-gated) 차단 기술이 적용된 자가 CAR-T 세포치료제입니다."
+  "목표 인원은 총 474명이며, 국립 암 센터 등 국내 기관은 0곳입니다.",
+  "이전 단계인 BASECAMP-1 연구를 통해 세포 채집 및 보관이 완료된 환자가 참여 대상입니다.",
+  "1상에서는 안전성과 최적 용량을 결정하고, 2상에서는 유효성과 안전성을 추가로 평가합니다."
  ],
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-18",
  "links": {
   "doi": null,
   "nct": [
@@ -52,7 +52,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06051695"
  },
- "summary_ko": "본 연구는 메조텔린(MSLN)을 발현하고 HLA-A*02 발현이 손실된 수술 불가능한 국소 진행성 또는 전이성 췌장암 등 고형암 환자를 대상으로 논리 게이트(Logic-gated) Tmod CAR-T 세포치료제(A2B694, A2B543)의 안전성과 치료 효과를 평가하는 1/2상 임상시험입니다. 선행 연구인 BASECAMP-1에서 환자 본인의 T세포를 채집하여 보관한 후, 질병 진행 시 림프구 고갈 항암요법을 거쳐 Tmod CAR-T 세포를 투여합니다. Tmod 기술은 정상 세포에 존재하는 HLA-A*02를 인식하여 공격을 차단하는 안전 스위치를 탑재하여 정상 조직 상해를 줄이도록 설계되었습니다. 1상에서는 안전한 권장 용량을 결정하고, 2상에서는 종양 사멸 효과 및 정상 세포 보호 효과를 종합적으로 검증합니다.",
+ "summary_ko": "이 임상시험은 메소텔린(MSLN)을 발현하고 HLA-A*02 발현이 소실된 고형암 환자를 대상으로 자가 로직 게이트 Tmod CAR T 세포 치료제인 A2B694 또는 A2B543의 안전성과 유효성을 평가합니다. 1상에서는 환자에게 안전한 권장 용량을 결정하고, 2상에서는 고형암 세포 사멸 효과와 정상 세포 보호 능력을 평가합니다. 환자들은 먼저 사전 스크리닝 연구인 BASECAMP-1을 통해 세포 채집을 거친 후, 림프구 고갈(PCLD) 요법과 함께 Tmod CAR T 세포를 투여받습니다. 본 시험은 다기관, 공개형으로 진행되며 목표 인원은 474명입니다.",
  "summary_source": "llm",
  "tags": [
   "CAR T Cell",
@@ -67,7 +67,7 @@
   "Cell Therapy"
  ],
  "title": "A Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Logic-gated CAR T, in Participants With Solid Tumors That Express MSLN and Have Lost HLA-A*02 Expression",
- "title_ko": "MSLN 발현 및 HLA-A*02 발현 손실 고형암 환자를 대상으로 한 논리 게이트 CAR-T 치료제(A2B694, A2B543)의 안전성 및 유효성 평가 1/2상 임상시험",
+ "title_ko": "메소텔린 표적 Tmod CAR T 세포 치료제(A2B694, A2B543)의 안전성과 유효성을 평가하는 임상 1/2상 시험",
  "trial": {
   "conditions": [
    "Solid Tumor, Adult",
@@ -92,7 +92,7 @@
    "MESOM"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- BASECAMP-1 연구에 등록되어 차세대 염기서열 분석(NGS)으로 HLA-A*02 이형성 손실(LOH)이 확인되고 T세포 채집 및 보관이 완료된 환자\n- 조직학적으로 확인된 MSLN 발현 재발성 수술 불가능, 국소 진행성 또는 전이성 췌장암 등의 고형암 환자\n- CT 검사 기준 1.0cm 이상의 측정 가능한 병변이 있는 환자\n- 해당 고형암에 대하여 프로토콜에 명시된 이전 필수 치료를 받은 환자\n- ECOG 수행능력 평가 점수 0~1점인 환자\n- 기대 여명이 3개월 이상인 환자\n\n제외 기준:\n- 완치 목적의 국소 치료나 표준 치료를 받을 수 있는 상태의 환자\n- 이전에 동종 줄기세포 이식 또는 장기 이식을 받은 병력이 있는 환자\n- 세포 투여 전 3주 이내 항암 치료 또는 28일 이내 방사선 치료를 받은 환자\n- 최근 6개월 이내 불안정 심근경색, 부정맥, 심근경색 등 주요 심장 질환이 발생한 환자\n- 최근 3개월 이내 신규 증상성 폐색전증(PE) 또는 깊은정맥혈전증(DVT)이 발생한 환자\n- 가정용 산소 치료가 필요하거나 스테로이드 치료가 필요한 간질성 폐질환 병력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- BASECAMP-1 연구에 적절히 등록되어 차세대 염기서열 분석(NGS)으로 HLA-A*02 대립유전자 손실(LOH)이 확인되고, 성공적인 세포 채집 및 보관이 완료된 환자\n- 조직학적으로 확인된 재발성 절제 불가능, 국소 진행성 또는 전이성 고형암(대장암, 비소세포폐암, 췌장암, 난소암, 중피종 등)으로 MSLN을 발현하며 CT 기준 1.0 cm 이상의 측정 가능한 병변이 있는 환자\n- 프로토콜에 기술된 이전 필수 치료를 받은 환자\n- 적절한 장기 기능을 가진 환자\n- ECOG 수행 능력 점수 0에서 1인 환자\n- 기대 여명이 3개월 이상인 환자\n\n제외 기준:\n- 국소 치료가 적합하거나 완화적 치료가 아닌 표준 치료를 받을 수 있는 환자\n- 이전 동종 조혈모세포 이식 이력이 있는 환자\n- 이전 고형 장기 이식 이력이 있는 환자\n- 흉막 침범이 복막까지 확장된 중피종 환자\n- 세포 주입 전 3주 또는 반감기 3배 기간 이내에 항암 치료를 받은 환자\n- 주입 전 28일 이내에 방사선 치료를 받은 환자\n- 최근 6개월 이내에 불안정성 협심증, 부정맥, 심근경색 등 주요 심장 질환이 있는 환자\n- 등록 전 3개월 이내에 증상이 있는 폐색전증 또는 심부정맥혈전력이 있는 환자\n- 1년 이내에 장기 스테로이드나 면역억제제 치료가 필요한 간질성 폐질환력이 있는 환자\n- 가정용 산소 보조 요법이 필요한 환자\n- 임신 또는 수유 중인 여성",
   "eligibility_text": "Inclusion Criteria:\n\nKey Inclusion Criteria:\n\n1. Appropriately enrolled in the BASECAMP-1 A2 Biotherapeutics, Inc. study, with tissue demonstrating LOH of HLA-A\\*02 by NGS (whenever possible from the primary site), successful apheresis and PBMC processing, and with sufficient stored cells available for Tmod CAR T-cell therapy\n2. Histologically confirmed recurrent unresectable, locally advanced, or metastatic CRC, NSCLC, PANC, OVCA, MESO, or other solid tumors with MSLN expression. Measurable disease is required with lesions of ≥1.0 cm by CT.\n3. Received previous required therapy for the appropriate solid tumor disease as described in the protocol\n4. Has adequate organ function as described in the protocol\n5. ECOG performance status of 0 to 1\n6. Life expectancy of ≥3 months\n7. Willing to comply with study schedule of assessments including long term safety follow up\n\nKey Exclusion Criteria:\n\n1. Has disease that is suitable for local therapy or able to receive standard of care therapy that is therapeutic and not palliative\n2. Prior allogeneic stem cell transplant\n3. Prior solid organ transplant\n4. MESO with pleural involvement extending into the peritoneum\n5. Cancer therapy within 3 weeks or 3 half lives of infusion\n6. Radiotherapy within 28 days of infusion\n7. Unstable angina, arrhythmia, myocardial infarction, or any other significant cardiac disease within the last 6 months\n8. Any new symptomatic pulmonary embolism (PE) or a deep vein thrombosis (DVT) within 3 months of enrollment. Therapeutic dosing of anticoagulants is allowed for history of PE or DVT if greater than 3 months from time of enrollment, and adequately treated\n9. History of interstitial lung disease including drug-induced interstitial lung disease and radiation pneumonitis that requires treatment with prolonged steroids or other immune suppressive agents within 1 year\n10. Requires supplemental home oxygen\n11. Females of childbearing potential who are pregnant or breastfeeding\n12. Subjects, both male and female, of childbearing potential who are not willing to practice birth control from the time of consent through 6 months post infusion",
   "enrollment": 474,
   "has_results": false,
@@ -108,21 +108,18 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [
-    "other"
-   ],
+   "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "동종 줄기세포 이식 또는 장기 이식 병력",
-    "투여 전 3주 이내 항암치료 또는 28일 이내 방사선치료 수료",
-    "최근 6개월 이내 심근경색 등 주요 심장 질환",
-    "최근 3개월 이내 신규 폐색전증 또는 깊은정맥혈전증(DVT)",
-    "가정용 산소 치료 필요 또는 간질성 폐질환 병력"
+    "이전 동종 조혈모세포 이식 또는 고형 장기 이식 이력",
+    "최근 6개월 이내 심장 질환 이력",
+    "가정용 산소 요법이 필요한 호흡기 질환",
+    "임신 또는 수유 중인 여성"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
-   "min_prior_lines": 1,
-   "notes_ko": "BASECAMP-1 선행 연구를 통해 T세포 채집을 완료하고 MSLN 발현 및 HLA-A*02 LOH 변이가 확인된 진행성/전이성 췌장암 환자",
+   "min_prior_lines": null,
+   "notes_ko": "MSLN을 발현하고 HLA-A*02 발현이 소실된 재발성 절제 불가능, 국소 진행성 또는 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

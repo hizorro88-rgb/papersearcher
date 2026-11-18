@@ -1,20 +1,20 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,268</b><span>누적 수집<br><small>논문·소식 691 · 임상시험 577</small></span></div><div class="ps-stat"><b>+20</b><span>오늘 신규<br><small>갱신 5건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,292</b><span>누적 수집<br><small>논문·소식 712 · 임상시험 580</small></span></div><div class="ps-stat"><b>+24</b><span>오늘 신규<br><small>갱신 17건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-17](_generated/daily/2026/11/17.md)
+최근 수집일: [2026-11-18](_generated/daily/2026/11/18.md)
 
 <a id="nct-nct07491445"></a>
-#### [전이성 췌관선암 환자의 1차 치료로서 다락소나십 및 다락소나십 + 젬시타빈/나브-팍리탁셀 병용요법에 대한 3상 임상시험](https://clinicaltrials.gov/study/NCT07491445)
+#### [전이성 췌장암 환자의 1차 치료로서 daraxonrasib 단독요법 및 daraxonrasib 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
 <small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
 
-이 임상시험은 전이성 췌관선암 환자를 대상으로 1차 치료로서 daraxonrasib(다락소나십) 단독요법 및 젬시타빈/나브-팍리탁셀과의 병용요법의 유효성과 안전성을 평가하는 3상 연구입니다. 환자들은 다락소나십 단독, 다락소나십+젬시타빈/나브-팍리탁셀 병용, 젬시타빈/나브-팍리탁셀 단독 표준치료 중 하나로 무작위 배정됩니다. 목표 대상 환자 수는 900명이며 국내 6개 기관이 참여하여 환자를 모집하고 있습니다.
+이 연구는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 시험용 RAS(ON) 저해제인 daraxonrasib의 안전성과 유효성을 평가하는 글로벌 3상 임상시험입니다. 환자들은 daraxonrasib 단독요법(A군), daraxonrasib + gemcitabine(젬시타빈) + nab-paclitaxel(나브-파클리탁셀) 병용요법(B군), 또는 표준 치료인 gemcitabine + nab-paclitaxel(C군)으로 무작위 배정됩니다. 이 시험은 1차 치료로서 표준 화학요법 단독과 비교하여 새로운 치료법의 효과를 확인하고자 합니다. 목표 참여 인원은 900명이며 국내 6개 기관이 포함되어 있습니다.
 
-- 전이성 췌장암 1차 치료에서 다락소나십 단독 및 젬시타빈/나브-팍리탁셀 병용요법을 표준치료와 비교합니다.
-- 글로벌 무작위 배정 3상 임상시험으로 총 900명의 환자를 모집합니다.
-- 이전에 전이성 단계에서 전신 항암 치료를 받지 않은 환자를 대상으로 진행됩니다.
+- 대상 질환은 조직학적으로나 세포학적으로 확진된 전이성 췌장암(PDAC)입니다.
+- 총 3개의 치료군으로 무작위 배정되며 1차 치료로 진행됩니다.
+- 목표 인원은 900명이며 국내 6개 기관에서 참여합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 

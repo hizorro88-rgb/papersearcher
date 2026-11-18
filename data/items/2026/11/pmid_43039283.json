@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: As a highly malignant neoplasm with dismal prognosis, pancreatic ductal adenocarcinoma (PDAC) is closely linked to disordered lipid metabolism, which serves a key part in facilitating its pathological progression. Identifying key lipid metabolism-related genes as therapeutic targets is urgent.\nMETHODS: Differentially expressed genes in PDAC were screened using GEO datasets and overlapped with lipid metabolism-related genes via Venn diagram. OSBPL3 was identified as a crucial regulator in the PDAC development through expression and survival analysis. In vitro (CCK-8, Transwell, BODIPY staining, Fillipin III staining) and in vivo (xenograft models) experiments assessed its functions on PDAC progression and lipid metabolism. Molecular docking identified Lupenone as an OSBPL3 inhibitor, with validation of its effects on cell proliferation and lipid metabolism.\nRESULTS: OSBPL3 was remarkably upregulated in PDAC tissues and cell lines (PANC-1, BxPC-3), correlating with poor survival. Knockdown of OSBPL3 attenuated cell viability, migration, and tumor growth, accelerated apoptosis, and suppressed lipid accumulation (lipid droplets, cholesterol, triglycerides), reduced the expression of SREBP1, ACLY, and ACC1. Lupenone targeted OSBPL3, reversed its pro-tumor effects, and reduced lipid metabolism.\nCONCLUSION: OSBPL3 drives PDAC progression via lipid metabolism regulation, and Lupenone is a potential therapeutic agent targeting OSBPL3.",
+ "authors": [
+  "Zhang R",
+  "Li G",
+  "Wang S",
+  "Hu J",
+  "Zhu L",
+  "Hong Z",
+  "Huang D",
+  "Guo P"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43039283",
+ "importance": 0.64,
+ "key_points_ko": [
+  "OSBPL3는 췌장관선암(PDAC) 조직 및 세포주(PANC-1, BxPC-3)에서 현저히 과발현되어 있으며 불량한 생존율과 연관되었습니다.",
+  "OSBPL3를 억제(Knockdown)하자 세포 생존력, 이동, 종양 성장이 감소하고 세포 사멸이 촉진되었으며 지질 축적과 관련 단백질 발현이 줄었습니다.",
+  "Lupenone(루페논)은 OSBPL3를 표적하여 종양 촉진 효과를 되돌리고 지질 대사를 감소시키는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1016/j.ejphar.2026.179573",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43039283"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039283/"
+ },
+ "summary_ko": "이 연구는 췌장관선암(PDAC) 조직과 세포주에서 발현이 증가하고 예후 불량과 연관된 핵심 지질 대사 조절 유전자 OSBPL3의 역할을 규명했습니다. 연구진은 세포 실험과 동물 모델(생체 내)을 통해 OSBPL3의 억제가 세포 생존력, 이동, 종양 성장, 지질 축적을 줄이고 세포 사멸을 촉진함을 확인했습니다. 또한, lupenone(루페논)이 OSBPL3를 억제하여 종양 촉진 효과와 지질 대사를 역전시키는 잠재적 치료제임을 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "OSBPL3 promotes pancreatic ductal adenocarcinoma progression through lipid metabolism reprogramming and is targeted by lupenone",
+ "title_ko": "OSBPL3는 지질 대사 재프로그래밍을 통해 췌장관선암(PDAC)의 진행을 촉진하며 lupenone의 표적이 됩니다.",
+ "trial": null,
+ "type": "paper"
+}

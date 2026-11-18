@@ -32,8 +32,17 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (33)
+## 타임라인 (35)
 
+<a id="pmid-43040170"></a>
+#### [Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery](https://pubmed.ncbi.nlm.nih.gov/43040170/)
+`논문` `관찰연구` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+
+---
 <a id="pmid-43004858"></a>
 #### [로봇 췌십이지장절제술에서 스텐트 외부 유출이 중요한가요? 내부 및 외부 췌관 스텐트의 위험도 계층화 비교](https://pubmed.ncbi.nlm.nih.gov/43004858/)
 <small>Does Stent Externalization Matter in Robotic Pancreaticoduodenectomy? A Risk-Stratified Comparison of Internal and External Pancreatic Stenting</small>
@@ -123,6 +132,22 @@ search:
 - 상세 치료 성과, 환자 수, 부작용 등의 구체적인 수치 정보는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42982334/) · [DOI](https://doi.org/10.1016/j.gassur.2026.102670) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42982334)</small>
+
+---
+<a id="pmid-43040550"></a>
+#### [긴장성 담도기흉에 의한 비전형적 담도 폐쇄를 동반한 췌장관선암: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/43040550/)
+<small>Pancreatic ductal adenocarcinoma with atypical biliary obstruction secondary to tension pneumobilia: a case report</small>
+
+`논문` `증례` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-11-02 · PubMed · J Med Case Rep · 중요도 0.59
+
+이 논문은 경계성 절제 가능한 췌장두부암을 진단받은 63세 여성 환자의 증례를 보고합니다. 환자는 내역상 적절한 담도 스텐트 삽입술(ERCP)을 받았음에도 불구하고, 스텐트 기능 장애나 담도 확장 없이 진행성 고빌리루빈혈증을 겪었습니다. 영상 검사를 통해 이는 갇힌 긴장성 담도기흉에 의한 기능적 폐쇄로 확인되었습니다. 경피적 담낭루술을 통한 배액으로 빌리루빈 수치가 정상화되었으며, 환자는 mFOLFIRINOX 항암 치료와 휘플 수술을 성공적으로 마친 후 암 없는 상태를 유지하고 있습니다.
+
+- 63세 여성 환자가 경계성 절제 가능한 췌장두부암 진단 후 담도 스텐트 삽입술을 시행받았습니다.
+- 담도 스텐트가 정상적임에도 불구하고 긴장성 담도기흉으로 인한 비전형적 담도 폐쇄가 발생했습니다.
+- 경피적 담낭루술을 통한 공기 배액으로 빌리루빈 수치가 정상화되었습니다.
+- 이후 mFOLFIRINOX 선행화학요법과 췌십이지장절제술(휘플 수술)을 완료하고 현재 암이 없는 상태입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040550/) · [DOI](https://doi.org/10.1186/s13256-026-06715-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13772258/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040550)</small>
 
 ---
 <a id="pmid-42968953"></a>

@@ -18,11 +18,11 @@
  "id": "nct:NCT05163028",
  "importance": 0.81,
  "key_points_ko": [
-  "KRAS 또는 EGFR 변이를 동반한 진행성 고형암 환자 최대 42명을 대상으로 합니다.",
-  "HBI-2376을 1일 1회 경구 투여하며 6mg부터 40mg까지 용량을 단계적으로 증량합니다.",
-  "최대 내약 용량(MTD), 2상 권장 용량(RP2D) 및 체내 약동학(PK) 프로파일을 평가합니다."
+  "목표 환자 수는 최대 42명이며 6단계의 용량(6~40mg)으로 진행됩니다.",
+  "HBI-2376은 경구용 단독 요법으로 하루 한 번 투여됩니다.",
+  "초록에 생존기간, 반응률, 위험비 등 유효성 수치는 명시되지 않았습니다."
  ],
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-18",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05163028"
  },
- "summary_ko": "KRAS 또는 EGFR 유전자 변이가 확인된 진행성 고형암(비소세포폐암, 대장암, 췌장암 등) 환자를 대상으로 진행되는 1상 임상시험입니다. 경구용 SHP2 억제제 신약인 HBI-2376을 1일 1회 단독 투여합니다. 약물의 안전성과 내약성을 확인하고, 최대 내약 용량(MTD)과 임상 2상 권장 용량(RP2D)을 결정하는 것을 목표로 합니다. 총 42명의 환자가 참여할 예정이며, 6mg부터 40mg까지의 6개 용량군으로 나누어 평가합니다.",
+ "summary_ko": "이 연구는 KRAS 또는 EGFR 변이가 있는 진행성 고형암(진행성 고형암) 환자를 대상으로 SHP2 억제제(SHP2 inhibitor)인 HBI-2376의 안전성과 약동학적 특성을 평가하는 1상 임상시험입니다. 췌장암을 포함한 다양한 고형암 환자를 대상으로 최대 내성 용량(MTD)과 2상 권장 용량(RP2D)을 확인하는 것이 주 목적입니다. 총 42명의 환자가 등록되어 3+3 용량 증가 방식으로 하루 한 번 경구 투여를 받습니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS",
@@ -54,7 +54,7 @@
   "FIH"
  ],
  "title": "A Dose Escalation Study of SHP2 Inhibitor in Patients With Solid Tumors Harboring KRAS of EGFR Mutations",
- "title_ko": "KRAS 또는 EGFR 변이 고형암 환자를 대상으로 한 SHP2 억제제 HBI-2376의 용량 증량 1상 임상시험",
+ "title_ko": "KRAS 또는 EGFR 변이가 있는 고형암 환자를 대상으로 하는 SHP2 억제제 HBI-2376의 용량 증가 임상시험",
  "trial": {
   "conditions": [
    "Non Small Cell Lung Cancer",
@@ -66,7 +66,7 @@
    "Cancer of Colon"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 성인\n- 조직학적 또는 세포학적으로 확인된 KRAS 또는 EGFR 변이 진행성 악성 고형암 환자\n- 승인된 표준 치료에 재발, 불응, 불내성이 있거나 표준 치료를 거부한 환자\n- RECIST v1.1 기준 최소 1개 이상의 측정 가능한 병변이 있는 환자\n- ECOG 수행능력 평가 0점 또는 1점\n- 적절한 장기 기능이 유지되는 환자\n- 경구 약물 복용이 가능하고 약물 흡수에 지장을 주는 위장관 장애가 없는 환자\n\n제외 기준:\n- 치료되지 않았거나 증상이 있는 중추신경계(뇌) 전이 (치료 후 무증상으로 4주 이상 스테로이드 없이 안정된 경우는 제외)\n- 3년 이내에 치료된 다른 원발암 병력이 있는 환자 (완치 가능성이 높고 재발 위험이 5% 미만인 경우는 제외)\n- 등록 전 6개월 이내의 뇌졸중, 심근경색 등 임상적으로 유의미한 심혈관 질환\n- 이전에 SHP2 억제제 치료를 받은 경험이 있는 환자\n- 활동성 자가면역 질환이 있거나 재발 병력이 있는 환자\n- 첫 투약 전 14일 이내에 전신 스테로이드(프레드니손 기준 1일 10mg 초과) 또는 면역억제제 치료를 받은 환자\n- 임신 중이거나 수유 중인 여성",
+  "eligibility_ko": "선정 기준:\n- 서면 동의를 작성할 때 만 18세 이상인 남성 또는 여성\n- 조직학적 또는 세포학적으로 진단된, KRAS 또는 EGFR 변이가 있는 진행성 악성 고형암\n- 표준 치료에 재발, 불응, 불내성이거나 치료를 거부한 경우\n- RECIST v1.1 기준에 부합하는 측정 가능한 병변이 최소 1개 이상\n- ECOG 수행능력(ECOG Performance Status) 0 또는 1\n- 적절한 장기 기능 보유 및 경구 복약 가능자\n\n제외 기준:\n- 3년 이내의 다른 동시 악성 종양 병력 (완치되었고 2년 이내 재발 가능성이 5% 미만인 경우 제외)\n- 치료되지 않았거나 증상이 있는 중추신경계(CNS) 전이\n- 6개월 이내의 뇌졸중이나 심근경색을 포함한 임상적으로 유의미한 심혈관 질환\n- 이전 항암 치료로 인한 회복되지 않은 2등급 이상의 독성 (탈모 제외)\n- 이전에 SHP2 억제제로 치료받은 경력",
   "eligibility_text": "Key Inclusion Criteria:\n\n* Male or female at least 18 years of age at the time of signing the ICF prior to initiation of any study specific activities/procedures\n* Advanced malignant solid tumors with KRAS or EGFR mutations diagnosed by histology or cytology\n* Relapsed or refractory to, or intolerant of, or refuse approved or standard of care established therapy known to provide clinical benefit for disease\n* At least 1 measurable target lesion that meets the definition of RECIST v1.1\n* ECOG Performance Status of 0 or 1\n* Demonstrate adequate organ function\n* Must be able to swallow oral medications and must not have gastrointestinal abnormalities that significantly affect drug absorption\n\nKey Exclusion Criteria:\n\n* History of another concurrent malignancy within 3 years prior to study entry, unless the malignancy was treated with curative intent and the likelihood of relapse is \\<5% in 2 years Note: Subjects with a history of squamous or basal cell carcinoma of the skin or carcinoma in the situ of the cervix may be enrolled\n* Untreated or symptomatic central nervous system (CNS) metastases Note: Subjects with asymptomatic treated CNS metastases are eligible provided they have been clinically stable and not requiring steroids for at least 4 weeks\n* Clinically significant cardiovascular disease, including stroke or myocardial infarction within 6 months\n* Any unresolved Grade 2 or greater toxicity from previous anti-cancer therapy, except alopecia, within 4 weeks of first study treatment administration\n* Active autoimmune diseases or history of autoimmune diseases that may relapse\n* Pregnant or nursing\n* Prior treatment with any SHP2 inhibitors\n* Any condition that required systemic treatment with either corticosteroids (\\>10 mg daily of prednisone or equivalent) or other immunosuppressive medication ≤14 days before the first study treatment administration\n* Treatment with other investigational drugs/devices within 4 weeks prior to first study treatment administration",
   "enrollment": 42,
   "has_results": false,
@@ -82,21 +82,19 @@
   "match": {
    "biomarkers_excluded": [],
    "biomarkers_required": [
-    "KRAS_mutant",
-    "other"
+    "KRAS_mutant"
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "치료되지 않았거나 증상이 있는 뇌 전이",
-    "최근 3년 이내의 다른 암 병력",
-    "6개월 이내의 중대한 심혈관 질환(뇌졸중, 심근경색 등)",
-    "활동성 자가면역 질환",
-    "이전 SHP2 억제제 투약 경험"
+    "3년 이내 다른 암 병력",
+    "증상이 있거나 치료되지 않은 뇌전이",
+    "6개월 이내 심근경색이나 뇌졸중 등 심혈관 질환",
+    "이전 SHP2 억제제 치료력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "표준 치료에 실패하거나 불응한 KRAS 또는 EGFR 변이 진행성 고형암(췌장암 포함) 환자",
+   "notes_ko": "KRAS 또는 EGFR 변이가 있고 표준 치료에 실패한 진행성 고형암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

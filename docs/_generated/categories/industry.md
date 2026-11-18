@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 42건 · 최근 30일 26건
+전체 43건 · 최근 30일 26건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43040186"></a>
+#### [다락소나십: 최초 승인](https://pubmed.ncbi.nlm.nih.gov/43040186/)
+<small>Daraxonrasib: First Approval</small>
+
+`논문` `종설` `신약·치료제` `제약사·규제` · 2026-11-17 · PubMed · Drugs · 중요도 0.61
+
+Revolution Medicines가 개발한 경구용 다중선택적 비공유 결합 RAS(ON) 저해제인 daraxonrasib(다락소나십)이 고형암 치료제로 개발되고 있습니다. 이 약물은 전이성 췌관선암(PDAC) 성인 환자를 대상으로 2026년 8월 26일 미국에서 최초로 승인을 받았습니다. 대상 환자는 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자들입니다. 이 기사는 전이성 PDAC에 대한 첫 승인으로 이어진 daraxonrasib의 개발 주요 단계를 요약합니다.
+
+- daraxonrasib(다락소나십)은 췌관선암(PDAC)을 포함한 고형암 치료를 위한 경구용 RAS(ON) 저해제입니다.
+- 2026년 8월 26일 미국에서 전이성 췌관선암(PDAC) 성인 환자를 대상으로 최초 승인을 받았습니다.
+- 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자가 대상입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040186/) · [DOI](https://doi.org/10.1007/s40265-026-02414-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040186)</small>
+
+---
 <a id="pmid-43037855"></a>
 #### [상장간막동맥 절제를 동반한 췌장절제술의 결과: 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43037855/)
 <small>Outcomes of Pancreatectomy with Superior Mesenteric Artery Resection: A Systematic Review</small>
@@ -408,20 +423,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - 초록에 구체적인 환자 수, 반응률, 생존기간 등의 수치는 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896447/) · [DOI](https://doi.org/10.1016/j.cytogfr.2026.101535) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896447)</small>
-
----
-<a id="pmid-42891339"></a>
-#### [마이크로바이옴과 췌장암의 상호작용: 종양 생물학부터 치료적 개입까지](https://pubmed.ncbi.nlm.nih.gov/42891339/)
-<small>Microbiome-pancreatic cancer crosstalk: From tumor biology to therapeutic intervention</small>
-
-`논문` `종설` `기초연구` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-07-29 · PubMed · IMetaOmics · 중요도 0.59
-
-본 종설 논문은 췌장암 종양 내 마이크로바이옴(intratumoral microbiome)이 암 발생, 종양 미세환경(TME) 재구성 및 기존 치료 반응에 미치는 영향을 종합적으로 정리했습니다. 췌장암 내부에는 Pseudomonas 및 Bacteroides와 같은 친종양성 균종과 Lactobacillus와 같은 보호 균종이 공존하며 질병 진행 및 면역억제 환경을 조절합니다. 또한 단쇄지방산 및 트립토판 대사산물인 3-인돌아세트산(3-IAA) 등 미생물 대사산물이 대사 재프로그래밍과 기질 활성화에 관여함을 설명했습니다. 더불어 타액 미생물 시그니처, 혈중 순환 미생물 DNA 등 진단 및 예후 예측 바이오마커와 이를 표적으로 하는 치료적 개입 가능성 및 임상 적용 과제를 다루었습니다.
-
-- 췌장암 종양 내 미생물총은 Pseudomonas, Bacteroides 등 발암 유진 균종과 Lactobacillus 등 보호 균종으로 구성되며 병기와 치료력에 따라 변화합니다.
-- 골수유래 억제세포(MDSC) 및 조절 T세포(Treg)를 통한 면역 억제, 3-인돌아세트산(3-IAA) 대사물질, 암 연관 섬유아세포(CAF) 활성화를 통해 암 진행을 촉진합니다.
-- 타액 미생물 시그니처 및 순환 미생물 DNA 등 진단·예후 예측 지표와 함께 치료 효과를 저해하는 미생물 기전을 표적하는 치료 전략이 연구되고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42891339/) · [DOI](https://doi.org/10.1002/imo2.70126) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13674442/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42891339)</small>
 
 ---

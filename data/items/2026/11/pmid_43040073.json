@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy characterised by extensive genomic heterogeneity and limited therapeutic options. Although recurrent coding mutations in key driver genes have been well researched, large-scale sequencing studies have identified a broad array of non-coding variants which may contribute to tumorigenesis by interfering with gene regulatory mechanisms. However, understanding the functional significance of these variants remains a major challenge due to their abundance and the complexity of non-coding regulatory structures. This review outlines current computational and experimental techniques to identify, prioritise, and functionally validate non-coding variants in PDAC. We discuss in silico methods including genome-wide association study (GWAS) fine-mapping, colocalisation, machine learning-driven functional annotation, and the use of established computational tools, in addition to epigenomic profiling technologies including, ATAC-seq, ChIP-seq, and CUT&RUN which define regulatory landscapes. We also emphasise new AI-based methods involving radiogenomics, AI imaging analysis and data integration, which provides novel potential to link genomic variation with phenotypic and imaging characteristics. Additionally, we highlight experimental validation techniques including reporter assays, electrophoretic mobility shift assays (EMSA), chromatin conformation capture methods, and CRISPR-based perturbation systems used to study variant functionality. Together, these complementary approaches establish a framework for correlating non-coding variation to regulatory mechanisms in PDAC.",
+ "authors": [
+  "Jenkac K",
+  "Herlihy J",
+  "Farinella R",
+  "Güler M",
+  "Ünal P",
+  "Sever EA",
+  "Giovannoni R",
+  "Campa D"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040073",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌장암은 광범위한 유전체적 이질성과 제한된 치료법을 특징으로 하는 공격적인 악성 종양입니다.",
+  "대규모 시퀀싱 연구를 통해 종양 형성에 기여할 수 있는 다양한 비단백질 코딩 변이가 확인되었습니다.",
+  "이 리뷰는 전산 분석, 후성유전체 프로파일링, AI 기반 기법, 실험적 검증 기술을 아우르는 종합적인 연구 프레임워크를 제시합니다.",
+  "구체적인 환자 대상 생존율이나 반응률 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1007/s10142-026-02116-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43040073"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Funct Integr Genomics",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040073/"
+ },
+ "summary_ko": "이 논문은 췌장암(췌관선암, PDAC)에서 유전자 조절 기전에 관여하는 비단백질 코딩 변이(non-coding variants)를 규명하고 검증하기 위한 최신 전산 및 실험적 기법들을 다룬 리뷰 논문입니다. 연구진은 전산학적 방법, 후성유전체 프로파일링(epigenomic profiling), AI 기반 기술 등을 통해 종양 발생에 기여하는 비단백질 코딩 변이를 우선순위화하는 방법을 논의했습니다. 또한 리포터 검정(reporter assays), CRISPR 기반 교란 시스템 등 다양한 실험적 검증 기법을 소개했습니다. 초록에는 환자 대상의 임상 결과나 구체적인 수치는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Computational and experimental strategies for functional validation of non-coding variants in pancreatic cancer",
+ "title_ko": "췌장암에서 비단백질 코딩 변이의 기능적 검증을 위한 전산 및 실험적 전략",
+ "trial": null,
+ "type": "paper"
+}

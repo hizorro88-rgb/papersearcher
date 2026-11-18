@@ -1,0 +1,57 @@
+{
+ "abstract": "Daraxonrasib (RASONQUE™) is an oral, multiselective, noncovalent RAS(ON) inhibitor being developed by Revolution Medicines for the treatment of solid tumours, including pancreatic ductal adenocarcinoma (PDAC), non-small-cell lung cancer and colorectal cancer. Daraxonrasib received its first approval in the USA on 26 August 2026 for the treatment of adults with metastatic PDAC who have received at least one prior systemic therapy or who are not candidates for multiagent systemic therapy. This article summarizes the milestones in the development of daraxonrasib leading to its first approval for metastatic PDAC.",
+ "authors": [
+  "Syed YY"
+ ],
+ "categories": [
+  "drug",
+  "industry"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040186",
+ "importance": 0.61,
+ "key_points_ko": [
+  "daraxonrasib(다락소나십)은 췌관선암(PDAC)을 포함한 고형암 치료를 위한 경구용 RAS(ON) 저해제입니다.",
+  "2026년 8월 26일 미국에서 전이성 췌관선암(PDAC) 성인 환자를 대상으로 최초 승인을 받았습니다.",
+  "적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자가 대상입니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1007/s40265-026-02414-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43040186"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Drugs",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040186/"
+ },
+ "summary_ko": "Revolution Medicines가 개발한 경구용 다중선택적 비공유 결합 RAS(ON) 저해제인 daraxonrasib(다락소나십)이 고형암 치료제로 개발되고 있습니다. 이 약물은 전이성 췌관선암(PDAC) 성인 환자를 대상으로 2026년 8월 26일 미국에서 최초로 승인을 받았습니다. 대상 환자는 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자들입니다. 이 기사는 전이성 PDAC에 대한 첫 승인으로 이어진 daraxonrasib의 개발 주요 단계를 요약합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Daraxonrasib: First Approval",
+ "title_ko": "다락소나십: 최초 승인",
+ "trial": null,
+ "type": "paper"
+}

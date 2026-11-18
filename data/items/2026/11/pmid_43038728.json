@@ -1,0 +1,66 @@
+{
+ "abstract": "AIMS: To investigate the role of AKR1B1-associated ferroptosis defense in acquired KRASG12Cinhibitor (G12Ci) resistance in pancreatic ductal adenocarcinoma (PDAC) cells, and to evaluate the antitumor activity of AKR1B1 inhibition combined with KRASG12C inhibition in xenograft models.\nMETHODS: Sotorasib- and adagrasib-resistant PDAC cell populations were analyzed using integrated genomic, transcriptomic, proteomic, and phosphoproteomic profiling. The functional roles of AKR1B1 and YAP1 were assessed using siRNA-mediated knockdown, ferroptosis-rescue assays, and pharmacological inhibition with epalrestat. The combination of epalrestat and sotorasib was also evaluated in treatment-naïve cell line-derived and patient-derived xenograft models.\nRESULTS: Multi-omics profiling identified AKR1B1 upregulation in sotorasib- and adagrasib-resistant MIA PaCa-2 cells. In these in vitro resistant cell models, AKR1B1 knockdown reduced YAP1 and SLC7A11 expression and cystine uptake, while increasing lipid peroxidation. Epalrestat enhanced the growth-inhibitory effects of G12Ci in resistant cells, with localized synergy at selected concentrations. In treatment-naive MIA PaCa-2 CDX, KRASG12C-mutant PDX, and UMUC3 CDX models, epalrestat plus sotorasib suppressed tumor growth more than either agent alone.\nCONCLUSIONS: AKR1B1-associated ferroptosis defense contributes to acquired KRAS G12Ci resistance in PDAC cell models, and AKR1B1 inhibition enhances sotorasib activity in treatment-naive xenograft models. These findings support further evaluation of AKR1B1 inhibition as a combination strategy for KRASG12Cmutant PDAC.",
+ "authors": [
+  "Guan X",
+  "Yang W",
+  "Yao Z",
+  "Cao F",
+  "Liu J",
+  "Miao K",
+  "Mao X",
+  "Sun G"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "surgery"
+ ],
+ "entities": [
+  "sotorasib",
+  "adagrasib"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43038728",
+ "importance": 0.64,
+ "key_points_ko": [
+  "sotorasib 및 adagrasib 저항성 MIA PaCa-2 세포에서 AKR1B1의 발현 증가가 확인되었습니다.",
+  "AKR1B1 억제는 YAP1 및 SLC7A11 발현과 시스틴(cystine) 흡수를 줄이고 지질 과산화(lipid peroxidation)를 증가시켰습니다.",
+  "epalrestat와 sotorasib의 병용은 치료 이력이 없는 동물 모델에서 단독 요법보다 종양 성장을 더 효과적으로 억제했습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1016/j.drup.2026.101508",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43038728"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Drug Resist Updat",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43038728/"
+ },
+ "summary_ko": "이 연구는 췌장관선암(PDAC) 세포에서 후천적인 KRAS G12C 저해제 저항성과 AKR1B1 연관 페로토시스(ferroptosis) 방어 기전의 역할을 조사했습니다. sotorasib과 adagrasib에 저항성을 가진 PDAC 세포주를 분석한 결과 AKR1B1의 발현 증가가 확인되었습니다. AKR1B1 억제제인 epalrestat와 sotorasib의 병용 요법은 저항성 세포의 성장을 억제하고 치료 이력이 없는 동물 모델에서 종양 성장을 더 억제했습니다. 이러한 결과는 KRAS G12C 변이 췌장관선암을 위한 병용 전략으로서 AKR1B1 억제의 추가 평가를 지지합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "AKR1B1-dependent ferroptosis defense contributes to KRASG12C inhibitor resistance in pancreatic ductal adenocarcinoma",
+ "title_ko": "AKR1B1 의존적 페로토시스 방어 기전은 췌장관선암에서 KRAS G12C 저해제 저항성에 기여합니다",
+ "trial": null,
+ "type": "paper"
+}

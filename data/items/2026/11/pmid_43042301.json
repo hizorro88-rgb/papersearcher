@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) carries a five-year survival below 13%, and most patients receive empirical first-line chemotherapy that has advanced only modestly in two decades. Pharmacological progress has been constrained by two features of the disease: a mutational landscape dominated by KRAS mutations until recently considered undruggable, and a desmoplastic stroma that obstructs both cytotoxic and immunological intervention. Patient-derived organoids (PDOs), three-dimensional cultures grown from primary or biopsy tumour tissue, have become the dominant functional platform in PDAC pharmacology, supporting drug-sensitivity profiling, combination screening, and drug-delivery evaluation in patient-matched culture. The 2025 AVATAR Phase III trial provided the first randomised evaluation of an integrated genomic, PDO, and patient-derived xenograft (PDX) personalised pharmacotherapy strategy in metastatic PDAC. It reported no intention-to-treat survival benefit (median overall survival 8.6 versus 8.7 months, p = 0.849). Of the 39 experimental-arm patients who proceeded to a second or subsequent line, 35 did not receive matched therapy, and clinical deterioration was the leading reason, recorded in 26. Yet the four patients (10%) who did receive matched therapy reached a median overall survival of 19.3 months. Because this subgroup was very small (n = 4) and non-randomised, that observation is exploratory and hypothesis-generating rather than confirmatory, and it points to operational constraints as the dominant limit on clinical performance. This review synthesises the AVATAR result with the foundational pharmacotyping framework of Tiriac et al (2018), the chemoresistance and combination-pharmacology literature, and recent KRAS-inhibitor screens, clarifying what PDOs can and cannot accomplish for patients with PDAC in 2026. Pharmacological priorities for the field are addressed in detail, principally compressing the diagnostic pipeline and integrating stromal co-culture so that combination-library design rests on biologically faithful drug-response prediction.",
+ "authors": [
+  "Alsaikhan FI"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43042301",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌관선암(PDAC)의 5년 생존율은 13% 미만이며, 대부분의 환자가 경험적 1차 항암화학요법을 받습니다.",
+  "2025년 AVATAR 3상 임상시험에서 맞춤형 약물 치료 전략은 전체 의도치료군(ITT)에서 생존율 이점을 보이지 못했습니다(중앙 전체 생존기간 8.6개월 대 8.7개월, p=0.849).",
+  "실험군 중 실제로 맞춤형 치료를 받은 4명의 환자(10%)는 중앙 전체 생존기간 19.3개월을 기록했으나, 소규모 비무작위 하위 그룹 분석으로 탐색적인 결과입니다.",
+  "실험군 환자들의 치료 속행을 가로막은 주된 요인은 임상적 악화였으며, 이는 총 26명에게서 기록되었습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.2147/DDDT.S646519",
+  "nct": [],
+  "pmcid": "PMC13772776",
+  "pmid": "43042301"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Drug Des Devel Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042301/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC)에서 환자 유래 오가노이드(PDO)를 활용한 약물 검사 방법론과 AVATAR 3상 임상시험 결과를 종합적으로 검토하는 리뷰 논문입니다. 전이성 PDAC 환자를 대상으로 유전체, 오가노이드, 환자 유래 이종이식(PDX)을 결합한 맞춤형 약물 치료 전략을 평가한 2025년 AVATAR 3상 임상시험에서는 전체 의도치료군(ITT) 생존율 향상이 관찰되지 않았습니다(중앙 생존기간 8.6개월 대 8.7개월, p=0.849). 실험군 중 실제로 맞춤 치료를 받은 소수의 환자(4명)는 19.3개월의 중앙 전체 생존기간을 보였으나, 비무작위 소규모 하위 그룹이므로 탐색적 결과에 해당합니다. 저자들은 오가노이드 기반 치료의 임상적 한계가 주로 운영상의 제약에서 비롯되며, 진단 파이프라인의 단축과 기질 공동 배양의 통합이 향후 과제라고 설명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Patient-Derived Organoids in Pancreatic Cancer Pharmacology: From Pharmacotyping Methodology to the AVATAR Phase III Trial and the Pharmacological Frontier",
+ "title_ko": "췌장암 약리학의 환자 유래 오가노이드: 약물 감수성 검사 방법론부터 AVATAR 3상 임상시험 및 약리학적 최전선까지",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,59 @@
+{
+ "abstract": "In pancreatic ductal adenocarcinoma (PDAC), the tumor microenvironment (TME) is characterized by a desmoplastic stroma that is markedly stiffer than normal pancreatic tissue. While increased extracellular matrix (ECM) stiffness has been shown to promote chemoresistance in tumor cells, the impact of these biophysical cues on tumor-associated macrophages (TAMs) has yet to be fully explored. This gap is due in part to the lack of model systems that recapitulate both stiff environments and macrophage involvement. To address this limitation, we developed a biomimetic, three-dimensional (3D) co-culture model that integrates PDAC organoids, cancer-associated fibroblasts (CAFs), and macrophages within tunable fibrotic matrices that recapitulate the stiff ECM of the PDAC microenvironment. Using this 3D system, we demonstrate that CAF-mediated matrix remodeling drives increased stiffness and enhances chemoresistance of PDAC organoids, effects not captured in conventional two-dimensional stiffness platforms. Incorporation of macrophages into the model further amplified this protective effect, with stiff tri-culture conditions exhibiting minimal response to gemcitabine compared to organoid-CAF cultures alone. In this context, matrix stiffness and tumor-derived cues altered macrophage behavior, including reduced M1-associated marker expression. Application of the model further identified TRPV4 signaling as a contributor to stiffness-associated chemoresistance, as pharmacological inhibition of TRPV4 sensitized organoids to gemcitabine treatment within stiff tri-cultures. Together, these findings establish a biomimetic platform for investigating immune-stromal-tumor interactions within the mechanically complex PDAC microenvironment and demonstrate how CAF-driven matrix remodeling can reveal biologically relevant mechanisms of therapeutic resistance that are not apparent in simplified model systems.",
+ "authors": [
+  "Mahgoub B",
+  "Xiao W",
+  "Fung E",
+  "Mumenthaler S",
+  "Hill R"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43041878",
+ "importance": 0.59,
+ "key_points_ko": [
+  "암관련 섬유모세포(CAF)가 유도하는 기질 강직도와 대식세포의 참여가 췌장암 오가노이드의 gemcitabine(젬시타빈) 내성을 증폭시켰습니다.",
+  "TRPV4 신호전달을 약리학적으로 억제하면 딱딱한 환경의 배양 조건에서 오가노이드가 gemcitabine(젬시타빈) 치료에 감수성을 보이게 되었습니다.",
+  "환자 대상 수치 및 임상시험 결과는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1016/j.mbplus.2026.100208",
+  "nct": [],
+  "pmcid": "PMC13771767",
+  "pmid": "43041878"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Matrix Biol Plus",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041878/"
+ },
+ "summary_ko": "이 연구는 췌장암(췌관선암, PDAC)의 딱딱한 미세환경과 면역세포의 영향을 재현하기 위해 생체 모방형 3차원 공동 배양 모델을 개발했습니다. 암세포, 암관련 섬유모세포(CAF), 대식세포를 포함하는 이 모델을 통해, 기질 강직도와 대식세포가 gemcitabine(젬시타빈)에 대한 항암제 내성을 증가시킨다는 것을 확인했습니다. 또한 TRPV4 신호전달이 강직도 연관 항암제 내성에 기여함을 밝혔으며, TRPV4 억제제를 통해 오가노이드를 gemcitabine(젬시타빈) 치료에 다시 민감하게 만들 수 있음을 증명했습니다. 초록에 환자 대상 수치나 임상 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A biomimetic desmoplastic pancreatic cancer organoid model reveals macrophage contributions to stiffness-associated chemoresistance",
+ "title_ko": "생체 모방형 경화성 췌장암 오가노이드 모델을 통한 강직도 연관 항암제 내성에 대한 대식세포의 기여 규명",
+ "trial": null,
+ "type": "paper"
+}

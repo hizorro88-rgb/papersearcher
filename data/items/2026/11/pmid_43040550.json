@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: Most patients diagnosed with pancreatic cancer present with constitutional syndrome, abdominal pain, and/or jaundice. Jaundice is typically due to tumor-induced biliary obstruction. However, as we will illustrate in our clinical case, rare obstructive mechanisms can sometimes occur.\nCASE PRESENTATION: We present the case of a 63-year-old woman diagnosed with borderline resectable ductal adenocarcinoma of the pancreatic head. The clinical presentation included obstructive jaundice and altered liver function tests. During the neoadjuvant therapy preparation and despite prior adequate biliary stenting via endoscopic retrograde cholangiopancreatography (ERCP), the patient experienced a new episode of progressive hyperbilirubinemia in the absence of obstructive biliary dilatation or stent dysfunction. Following investigations, this was attributed to functional obstruction secondary to trapped tension pneumobilia visible on cross-sectional imaging. Following multidisciplinary team discussion, the patient underwent a percutaneous cholecystostomy with drainage of the trapped air. This procedure successfully achieved subsequent bilirubin normalization, and the patient was able to continue successfully neoadjuvant mFOLFIRINOX chemotherapy, followed by pancreaticoduodenectomy (Whipple procedure) with curative intent. She remains cancer-free.\nCONCLUSION: This case highlights the importance of considering differential diagnoses in biliary obstruction in patients with patent biliary stents, as well as the relevance of a multidisciplinary approach in borderline resectable pancreatic tumors.",
+ "authors": [
+  "Salvadores Palacios M",
+  "Martirena A",
+  "Pedregal Trujillo M",
+  "Villalba Gutiérrez Á",
+  "Lamarca A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040550",
+ "importance": 0.59,
+ "key_points_ko": [
+  "63세 여성 환자가 경계성 절제 가능한 췌장두부암 진단 후 담도 스텐트 삽입술을 시행받았습니다.",
+  "담도 스텐트가 정상적임에도 불구하고 긴장성 담도기흉으로 인한 비전형적 담도 폐쇄가 발생했습니다.",
+  "경피적 담낭루술을 통한 공기 배액으로 빌리루빈 수치가 정상화되었습니다.",
+  "이후 mFOLFIRINOX 선행화학요법과 췌십이지장절제술(휘플 수술)을 완료하고 현재 암이 없는 상태입니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1186/s13256-026-06715-3",
+  "nct": [],
+  "pmcid": "PMC13772258",
+  "pmid": "43040550"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040550/"
+ },
+ "summary_ko": "이 논문은 경계성 절제 가능한 췌장두부암을 진단받은 63세 여성 환자의 증례를 보고합니다. 환자는 내역상 적절한 담도 스텐트 삽입술(ERCP)을 받았음에도 불구하고, 스텐트 기능 장애나 담도 확장 없이 진행성 고빌리루빈혈증을 겪었습니다. 영상 검사를 통해 이는 갇힌 긴장성 담도기흉에 의한 기능적 폐쇄로 확인되었습니다. 경피적 담낭루술을 통한 배액으로 빌리루빈 수치가 정상화되었으며, 환자는 mFOLFIRINOX 항암 치료와 휘플 수술을 성공적으로 마친 후 암 없는 상태를 유지하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic ductal adenocarcinoma with atypical biliary obstruction secondary to tension pneumobilia: a case report",
+ "title_ko": "긴장성 담도기흉에 의한 비전형적 담도 폐쇄를 동반한 췌장관선암: 증례 보고",
+ "trial": null,
+ "type": "paper"
+}

@@ -25,6 +25,20 @@ search:
 |---|---|---|---|
 | [진행성 고형암 환자를 대상으로 한 파네실전이효소 억제제 KO-2806 단독 및 병용요법의 1상 임상시험](../trials/NCT06026410.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (0)
+## 타임라인 (1)
 
-아직 수집된 항목이 없습니다.
+<a id="pmid-43038728"></a>
+#### [AKR1B1 의존적 페로토시스 방어 기전은 췌장관선암에서 KRAS G12C 저해제 저항성에 기여합니다](https://pubmed.ncbi.nlm.nih.gov/43038728/)
+<small>AKR1B1-dependent ferroptosis defense contributes to KRASG12C inhibitor resistance in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `수술` · 2026-11-13 · PubMed · Drug Resist Updat · 중요도 0.64
+
+이 연구는 췌장관선암(PDAC) 세포에서 후천적인 KRAS G12C 저해제 저항성과 AKR1B1 연관 페로토시스(ferroptosis) 방어 기전의 역할을 조사했습니다. sotorasib과 adagrasib에 저항성을 가진 PDAC 세포주를 분석한 결과 AKR1B1의 발현 증가가 확인되었습니다. AKR1B1 억제제인 epalrestat와 sotorasib의 병용 요법은 저항성 세포의 성장을 억제하고 치료 이력이 없는 동물 모델에서 종양 성장을 더 억제했습니다. 이러한 결과는 KRAS G12C 변이 췌장관선암을 위한 병용 전략으로서 AKR1B1 억제의 추가 평가를 지지합니다.
+
+- sotorasib 및 adagrasib 저항성 MIA PaCa-2 세포에서 AKR1B1의 발현 증가가 확인되었습니다.
+- AKR1B1 억제는 YAP1 및 SLC7A11 발현과 시스틴(cystine) 흡수를 줄이고 지질 과산화(lipid peroxidation)를 증가시켰습니다.
+- epalrestat와 sotorasib의 병용은 치료 이력이 없는 동물 모델에서 단독 요법보다 종양 성장을 더 효과적으로 억제했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43038728/) · [DOI](https://doi.org/10.1016/j.drup.2026.101508) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43038728)</small>
+
+---

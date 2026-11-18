@@ -1,0 +1,63 @@
+{
+ "abstract": null,
+ "authors": [
+  "Iwanaga N",
+  "Takeda Y",
+  "Takahashi A",
+  "Tanaka H",
+  "Irie S",
+  "Ichida H",
+  "Yoshioka R",
+  "Mise Y"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43040164",
+ "importance": 0.67,
+ "key_points_ko": [
+  "CARG 점수는 수술 전후 항암화학요법 완수율을 예측합니다.",
+  "항암화학요법 완수는 전체 생존기간(OS)과 연관이 있습니다.",
+  "구체적인 환자 수와 생존 기간 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1245/s10434-026-20897-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43040164"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43040164/"
+ },
+ "summary_ko": "본 연구는 CARG 점수를 통해 췌장암 환자의 수술 전후 항암화학요법 완수율을 예측할 수 있는지 분석했습니다. 초록에 환자 수나 구체적인 수치는 명시되지 않았습니다. 항암화학요법의 완수는 전체 생존기간(OS)과 연관이 있었습니다. 자세한 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: CARG Score Predicts Perioperative Chemotherapy Completion in Pancreatic Cancer: Association of Completion with Overall Survival",
+ "title_ko": "ASO 시각적 초록: CARG 점수는 췌장암 환자의 수술 전후 항암화학요법 완수율을 예측하며, 완수는 전체 생존기간과 연관이 있습니다.",
+ "trial": null,
+ "type": "paper"
+}

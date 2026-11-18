@@ -27,14 +27,29 @@ search:
 | [췌장암 환자에서 daraxonrasib(다락소나십) 유발 피부 독성에 대한 ivermectin(이베르멕틴) 병용 표준 예방…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib(RMC-9805) + daraxonrasib(RMC…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용요법의 최초 인체 대상 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
-| [전이성 췌관선암 환자의 1차 치료로서 다락소나십 및 다락소나십 + 젬시타빈/나브-팍리탁셀 병용요법에 대한 3상 임상시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
+| [전이성 췌장암 환자의 1차 치료로서 daraxonrasib 단독요법 및 daraxonrasib 병용요법에 대한 연구](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (13)
+## 타임라인 (14)
 
+<a id="pmid-43040186"></a>
+#### [다락소나십: 최초 승인](https://pubmed.ncbi.nlm.nih.gov/43040186/)
+<small>Daraxonrasib: First Approval</small>
+
+`논문` `종설` `신약·치료제` `제약사·규제` · 2026-11-17 · PubMed · Drugs · 중요도 0.61
+
+Revolution Medicines가 개발한 경구용 다중선택적 비공유 결합 RAS(ON) 저해제인 daraxonrasib(다락소나십)이 고형암 치료제로 개발되고 있습니다. 이 약물은 전이성 췌관선암(PDAC) 성인 환자를 대상으로 2026년 8월 26일 미국에서 최초로 승인을 받았습니다. 대상 환자는 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자들입니다. 이 기사는 전이성 PDAC에 대한 첫 승인으로 이어진 daraxonrasib의 개발 주요 단계를 요약합니다.
+
+- daraxonrasib(다락소나십)은 췌관선암(PDAC)을 포함한 고형암 치료를 위한 경구용 RAS(ON) 저해제입니다.
+- 2026년 8월 26일 미국에서 전이성 췌관선암(PDAC) 성인 환자를 대상으로 최초 승인을 받았습니다.
+- 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자가 대상입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040186/) · [DOI](https://doi.org/10.1007/s40265-026-02414-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040186)</small>
+
+---
 <a id="doi-10.64898-2026.11.07.765071"></a>
 #### [췌장관선암에서 젬시타빈 및 RAS(ON) 억제제 다락소나십 내성 극복을 위한 다중기전 miR-15a 모방체 개발](https://europepmc.org/article/PPR/PPR1363717)
 <small>Developing a Multimodal miR-15a Mimic to Overcome Gemcitabine and RAS(ON) Inhibitor Daraxonrasib Resistance in Pancreatic Ductal Adenocarcinoma</small>

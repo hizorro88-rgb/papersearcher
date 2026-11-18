@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [국소 진행성 췌장암의 1차 치료로서 QL1706(이파롬리맙 및 투본랄리맙)과 항암화학요법(AG) 및 체부정위 방사선치료(SB…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
+| [국소 진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 췌장암 치료에서 다중 모달 온열 치료와 toripalimab 및 AG 항암화학요법 병용에 관한 다기관 전향적 단일군…](../trials/NCT07928362.md) | 해당 없음 | 모집 예정 | - |
 | [수술 전후 고위험 및 경계성 수술 가능 췌장암 치료를 위한 HRS-4642 병용요법 3상 임상시험](../trials/NCT07900789.md) | 3상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
@@ -47,7 +47,7 @@ search:
 | [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법 평가 임상시험](../trials/NCT07562152.md) | 3상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
-| [전이성 췌관선암 환자의 1차 치료로서 다락소나십 및 다락소나십 + 젬시타빈/나브-팍리탁셀 병용요법에 대한 3상 임상시험](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
+| [전이성 췌장암 환자의 1차 치료로서 daraxonrasib 단독요법 및 daraxonrasib 병용요법에 대한 연구](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [KRAS 변이 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 증량 및 확장 임상시험](../trials/NCT07458347.md) | 1상 | 모집 중 | - |
 | [CLDN18.2 양성 국소 진행성 절제 불가능 또는 전이성 췌장암 환자를 위한 화학요법과 병용한 ANO31905 1/2상 임…](../trials/NCT07444541.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 전환 치료(conversion therapy)로서 HRS-4642와 AG(nab-paclitax…](../trials/NCT07438106.md) | 2상 | 모집 중 | - |
@@ -117,7 +117,7 @@ search:
 | [진행성 전이성 췌장암 1차 치료에서 surufatinib, camrelizumab 및 AS(nab-paclitaxel과 S-…](../trials/NCT05218889.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암에서 수술 전 mFOLFIRINOX(또는 Gem-Nab-P) 치료 후 고선량 정위체부방사선치료(iHD…](../trials/NCT05083247.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 환자를 위한 Gembrax 후속 FOLFIRINOX 요법 대 FOLFIRINOX 단독 요법의 유효성 비교…](../trials/NCT05065801.md) | 2상 | 진행 중(모집 종료) | - |
-| [수술 불가능한 췌장암 환자 대상 Am80(타미바로텐) 및 젬시타빈+냅-파클리탁셀 병용요법 1/2상 임상시험](../trials/NCT05064618.md) | 1상/2상 | 완료 | - |
+| [MIKE-1 연구자 주도 임상시험: 수술 불가 췌장암 환자에서 Am80(타미바로텐)과 젬시타빈,  nab-파클리탁셀 병용요법](../trials/NCT05064618.md) | 1상/2상 | 완료 | - |
 | [수술 가능한 췌장암 환자 대상 젬시타빈, 냅파클리탁셀, 더발루맙 및 올레클루맙 수술 전 선행요법 2상 임상시험](../trials/NCT04940286.md) | 2상 | 진행 중(모집 종료) | - |
 | [췌장선암 환자를 대상으로 한 수술 전후 항암화학요법과 아나킨라(Anakinra) 병용 요법 2상 임상시험](../trials/NCT04926467.md) | 2상 | 모집 중 | - |
 | [복막 전이가 동반된 췌장암 치료를 위한 온열 복강 내 항암화학요법(HIPEC) 2상 임상시험](../trials/NCT04858009.md) | 2상 | 진행 중(모집 종료) | - |
@@ -131,8 +131,23 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (22)
+## 타임라인 (23)
 
+<a id="pmid-43038660"></a>
+#### [종양 내 이질성 정량을 위한 잉크젯 프린팅 단일 세포 유래 췌장암 오가노이드](https://pubmed.ncbi.nlm.nih.gov/43038660/)
+<small>Inkjet-printed single cell-derived pancreatic cancer organoid for intratumoral heterogeneity quantification</small>
+
+`논문` `전임상` `기초연구` · 2026-11-16 · PubMed · Biofabrication · 중요도 0.60
+
+이 연구는 췌관선암(PDAC)의 종양 내 이질성을 체계적으로 분석하기 위해 잉크젯 바이오프린팅 플랫폼을 활용했습니다. 연구진은 600개 이상의 단일 세포 유래 오가노이드를 생성하여 형태학적, 분자적, 기능적 다양성을 확인했습니다. 단일 오가노이드 분석을 통해 기존의 일괄 분석(bulk analysis)에서는 가려졌던 약물 저항성 세포군과 분자적 이질성을 밝혀냈습니다. 특히 gemcitabine과 nab-paclitaxel에 대한 반응이 오가노이드마다 다르게 나타났습니다.
+
+- 잉크젯 바이오프린팅 플랫폼을 통해 600개 이상의 단일 세포 유래 췌장암 오가노이드를 생성했습니다.
+- 30개 오가노이드의 전사체 프로파일링 결과 형태학적 분류와 분자적 특성이 항상 일치하지 않는 뚜렷한 분자적 이질성을 보였습니다.
+- 개별 오가노이드는 gemcitabine과 nab-paclitaxel에 대해 이질적인 반응을 보였으며, 기존 분석에서 가려지던 고도 저항성 오가노이드가 확인되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43038660/) · [DOI](https://doi.org/10.1088/1758-5090/aec2ac) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43038660)</small>
+
+---
 <a id="doi-10.21203-rs.3.rs-11496243-v1"></a>
 #### [진행성 췌장암 환자의 치료 순서 및 말기 액체 생검 유전체 분석 연구](https://europepmc.org/article/PPR/PPR1365842)
 <small>Real-world analysis of treatment sequencing and late-stage liquid biopsy genomic profiling in advanced pancreatic cancer</small>

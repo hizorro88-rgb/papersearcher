@@ -25,11 +25,11 @@
  "id": "nct:NCT07277413",
  "importance": 0.78,
  "key_points_ko": [
-  "MTAP 유전자 결손이 확인된 진행성 또는 전이성 췌장선암 등 고형암 환자 총 260명을 대상으로 합니다.",
-  "신약 후보물질 IDE892 단독 치료 및 메티오닌 아데노실트랜스퍼라제 2A(MAT2A) 억제제인 IDE397과의 병용 치료 효과를 평가합니다.",
-  "췌장선암 환자는 진행성 또는 전이성 상태에서 이전 전신 항암 치료를 1차 이상, 3차 이하로 받은 경험이 있어야 참여할 수 있습니다."
+  "목표 인원은 최대 260명이며 국내 기관 3곳이 참여합니다.",
+  "MTAP 유전자 결손이 확인된 국소 진행성 재발성 또는 전이성 고형암 환자를 대상으로 합니다.",
+  "IDE892 단독 투여 및 IDE397 병용 투여의 안전성과 유효성을 평가합니다."
  ],
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-18",
  "links": {
   "doi": null,
   "nct": [
@@ -52,7 +52,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07277413"
  },
- "summary_ko": "본 임상시험은 메틸티오아데노신 포스포릴라제(MTAP) 유전자 결손이 있는 진행성 고형암 환자를 대상으로 IDE892 단독요법 및 IDE397(MAT2A 억제제)과의 병용요법에 대한 안전성, 약동학 및 유효성을 평가하는 1상 연구입니다. 표준 치료 후 암이 진행된 성인 환자를 대상으로 진행됩니다. 췌장선암 환자의 경우 국소 진행성 재발성 또는 전이성 상태에서 이전 항암 치료를 1회 이상 받은 환자가 포함됩니다. 목표 대상 환자 수는 총 260명이며 국내 3개 기관이 참여합니다.",
+ "summary_ko": "이 임상시험은 MTAP(methylthioadenosine phosphorylase)가 결손된 진행성 고형암 환자를 대상으로 IDE892 단독 요법 및 IDE397 등과의 병용 요법의 안전성과 유효성, 약동학(PK)을 평가합니다. 표준 치료 후 병이 진행된 환자들을 대상으로 다기관에서 진행됩니다. 현재 단계에서는 MTAP 결손 암의 취약성을 공략하기 위해 MAT2A 억제제인 IDE397과의 병용 치료에 집중합니다.",
  "summary_source": "llm",
  "tags": [
   "MTAP deletion",
@@ -67,7 +67,7 @@
   "metastatic cancer"
  ],
  "title": "A Study of IDE892 as Monotherapy and Combination in MTAP-deleted Advanced Solid Tumors",
- "title_ko": "MTAP 유전자 결손 진행성 고형암 환자를 대상으로 한 IDE892 단독 및 병용요법의 1상 임상시험",
+ "title_ko": "MTAP 결손 진행성 고형암 환자를 위한 IDE892 단독 요법 및 병용 요법 임상시험",
  "trial": {
   "conditions": [
    "NSCLC Adenocarcinoma",
@@ -91,7 +91,7 @@
     "phone": "+1 855 433 2246"
    }
   ],
-  "eligibility_ko": "선정 기준: • 만 18세 이상 성인 • 조직학적으로 확진된 MTAP 유전자 결손 국소 진행성 재발성 또는 전이성 췌장선암 환자 (용량 증량 단계) • 진행성 또는 전이성 단계에서 1차 이상, 3차 이하의 이전 전신 항암 치료 후 진행된 환자 • RECIST v1.1 기준 1개 이상의 측정 가능한 병변 보유 • ECOG 수행능력 평가 점수 0점 또는 1점 • 예상 수명이 3개월 이상인 환자 제외 기준: • 증상이 있고 전신 코르티코스테로이드 치료가 필요한 뇌전이 • 배액이 필요한 조절되지 않는 복수, 흉수 또는 심낭낭종 • 이전 MAT2A 억제제 또는 PRMT 억제제 치료 이력 • 임상적으로 유의한 심장 기능 장애 또는 심장 질환 • 첫 투여 전 4주 이내 대화학요법 또는 주요 수술 이력",
+  "eligibility_ko": "선정 기준:\n* 만 18세 이상 성인 환자\n* 조직학적으로 확진된 MTAP 결손 진행성·재발성 또는 전이성 고형암(췌장암 포함)\n* 바이오마커 검사를 위한 혈액 및 종양 조직 제공 동의\n* RECIST version 1.1 기준 최소 1개의 측정 가능한 병변 존재\n* 동유럽종양학협력그룹(ECOG) 수행능력 점수 0 또는 1\n* 예상 여명 3개월 초과\n\n제외 기준:\n* 증상이 있는 뇌전이 환자\n* 중추신경계(CNS) 원발성 악성종양 환자\n* 2년 이내 다른 악성종양 병력이 있는 환자(일부 예외 있음)\n* 임상적으로 유의미한 심장 질환 또는 심장 기능 저하\n* MAT2A 억제제 또는 PRMT 억제제 치료 이력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Are ≥ 18 years of age (or the minimum age of consent in accordance with local regulations) at the time of signing the ICF.\n* Have a histologically confirmed diagnosis of a locally advanced recurrent or metastatic solid tumor type of interest with MTAP deletion (for dose escalation: mesothelioma \\[pleural or peritoneal\\], gastroesophageal cancers \\[squamous and adenocarcinoma of esophagus, gastric adenocarcinoma, gastroesophageal junction cancers\\], pancreatic adenocarcinoma and biliary tract carcinomas (intrahepatic and extrahepatic cholangiocarcinoma, and gallbladder cancer), NSCLC \\[adenocarcinoma, squamous cell carcinoma, and adeno-squamous\\] or UC \\[including mixed urothelial-squamous histology\\]; for dose expansion: NSCLC that has progressed on at least one prior line of treatment and for which additional effective standard therapy is not available or for which the participant is not a candidate due to intolerance).\n* Are willing and able to provide blood/tumor tissue samples for biomarker testing. An archival tumor tissue specimen must be provided for central confirmation of MTAP loss.\n* Must be willing and able to provide the blood/serum/plasma samples\n* Have evidence of homozygous loss of MTAP or MTAP deletion (pre-screening available after signing pre-screening ICF)\n* Have at least 1 measurable lesion according to RECIST version 1.1\n* Have Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) score of 0 or 1\n* Have life expectancy \\> 3 months\n* Have adequate bone marrow and organ function\n* Able to swallow and retain orally administered study drug/IMP.\n* Are willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures\n* Male and female: willing to use contraception\n\nExclusion Criteria:\n\n* Known symptomatic brain metastases requiring supraphysiologic doses of systemic corticosteroids\n* Have a known primary central nervous system (CNS) malignancy\n* Have had other malignancies within 2 years prior to the first dose, with some exceptions\n* Impaired cardiac function or clinically significant cardiac diseases\n* Have presence of uncontrolled pleural, peritoneal, or pericardial effusion within 2 weeks before the first study dose, requiring recurrent drainage procedures or an indwelling drainage catheter\n* Have a history of severe infections within 4 weeks prior to the start of study treatment\n* Hypertension (e.g., \\> 150/100 mmHg) that cannot be controlled by medications despite optimal medical therapy\n* Other acute or chronic medical or psychiatric condition\n* Have a history of immunodeficiency, with a positive human immunodeficiency virus(HIV) test at screening\n* Known or suspected viral hepatitis with a positive test at screening\n* Had an adverse reaction to a previous antitumor treatment that has not recovered to CTCAE Grade ≤ 1\n* Have received chemotherapy within 4 weeks of the first dose of IMP; immunotherapy or biologic targeted antitumor treatments within 2 weeks before the first dose of IMP; small molecule inhibitors within 2 weeks before the first dose of IMP, or other investigational products within 4 weeks\n* Current radiation-related toxicity or radiation therapy within 2 weeks before the first dose of IMP\n* Administration of any of the following within 2 weeks before the first dose of IDE892 as a monotherapy: Strong inhibitors or inducers of cytochrome P450, Strong inhibitors of P-glycoprotein, Narrow therapeutic index and sensitive substrates of multidrug and toxin extrusion (MATE)1 and MATE2-K, Narrow therapeutic index and sensitive substrates of P-gp and breast cancer resistance protein\n* Administration of any of the following within 2 weeks before the first dose of IDE892: Strong inhibitors or inducers of CYP3A4/5, Strong inhibitors of P-gp and/or BCRP, Narrow therapeutic index and sensitive substrates of MATE1 and MATE2-K, Narrow therapeutic index and sensitive substrates of P-gp and BCRP\n* Use of proton pump inhibitors (PPIs) within 7 days prior to the first dose of IMP or planned use during the study\n* Use of drugs with known risk for QT prolongation within 2 weeks prior to the first dose of IDE892\n* Previous treatment with a Amethionine adenosyltransferase 2A (MAT2A) inhibitor and/or Protein arginine N-methyltransferase (PRMT) inhibitor\n* Major surgery within 4 weeks before study entry\n* Prior irradiation to \\> 25% of the bone marrow\n* Known or suspected hypersensitivity to IDE892\n\nDisease-Specific Eligibility Criteria Eligibility Criteria for Participants with NSCLC (All Parts)\n\n* Must have histologically confirmed diagnosis of advanced or metastatic NSCLC that has progressed after prior treatment with platinum chemotherapy and a PD-1/PD-L1 inhibitor (unless contraindicated or participant developed intolerance) in the metastatic setting\n* Treatment with no more than 3 prior lines in the setting of advanced or metastatic disease.\n* If considered standard of care and available, participants whose cancers have proven targetable oncogene alterations must have had disease progression on (unless contraindicated or participant developed intolerance) at least 1 prior line containing appropriate targeted therapy.\n\nEligibility Criteria for Participants with Urothelial Cancer (Bladder and Upper Urinary Tract), Mesothelioma (Pleural or Peritoneal), Pancreatic Adenocarcinoma or Biliary Tract Carcinomas (Intrahepatic and Extrahepatic Cholangiocarcinoma, and Gallbladder Cancer) (Parts 1 and 3)\n\n* Must have histologically confirmed diagnosis of advanced or metastatic UC, mesothelioma, gastroesophageal cancer or pancreatic and biliary tract tumors\n* Must have progressed following at least 1 prior line of therapy\n* Treatment with no more than 3 prior lines in the setting of advanced or metastatic disease",
   "enrollment": 260,
   "has_results": false,
@@ -132,14 +132,15 @@
    "ecog_max": 1,
    "key_exclusions_ko": [
     "증상이 있는 뇌전이",
-    "배액이 필요한 조절되지 않는 복수 또는 흉수",
-    "이전 MAT2A 억제제 또는 PRMT 억제제 치료 이력",
-    "임상적으로 유의한 심장 질환"
+    "중추신경계 원발성 악성종양",
+    "2년 이내 다른 암 병력",
+    "심장 기능 저하 또는 심장 질환",
+    "이전 MAT2A 또는 PRMT 억제제 치료 이력"
    ],
    "max_prior_lines": 3,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 전신 치료를 1~3회 받았고 MTAP 유전자 결손이 확인된 진행성 또는 전이성 췌장선암 환자",
+   "notes_ko": "이전 치료를 1가지 이상 받은 MTAP 결손 진행성·전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

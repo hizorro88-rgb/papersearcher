@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits extensive intratumoral heterogeneity that contributes to therapeutic resistance and disease recurrence. However, conventional bulk analyses often obscure the molecular and functional diversity of individual tumor cell populations, limiting the identification of rare drug-resistant populations. Here, we present a high-resolution, drop-on-demand inkjet bioprinting platform for generating single cell-derived PDAC organoids to systematically investigate clonal heterogeneity. Using this platform, we generated over 600 organoids and characterized substantial variations in morphology, growth kinetics, protein expression, and chemotherapeutic responses. Transcriptomic profiling of 30 individual organoids further revealed pronounced molecular heterogeneity, even among organoids assigned to the same morphological subtype. Notably, morphology-based classification into classical and basal-like subtypes did not consistently correspond to transcriptomic signatures, demonstrating that morphological similarity does not necessarily reflect molecular similarity. Furthermore, individual organoids exhibited heterogeneous responses to gemcitabine and nab-paclitaxel, including highly resistant organoids whose responses were obscured by subtype-averaged analyses. Together, these findings establish an inkjet-based clonal organoid platform that integrates controlled single-cell deposition with molecular profiling and longitudinal drug-response analysis, enabling systematic characterization of morphological, molecular, and functional heterogeneity at the individual organoid level.",
+ "authors": [
+  "Choi S",
+  "Youm Y",
+  "Kim I",
+  "Jun E",
+  "Lee HR",
+  "Jung S"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43038660",
+ "importance": 0.6,
+ "key_points_ko": [
+  "잉크젯 바이오프린팅 플랫폼을 통해 600개 이상의 단일 세포 유래 췌장암 오가노이드를 생성했습니다.",
+  "30개 오가노이드의 전사체 프로파일링 결과 형태학적 분류와 분자적 특성이 항상 일치하지 않는 뚜렷한 분자적 이질성을 보였습니다.",
+  "개별 오가노이드는 gemcitabine과 nab-paclitaxel에 대해 이질적인 반응을 보였으며, 기존 분석에서 가려지던 고도 저항성 오가노이드가 확인되었습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1088/1758-5090/aec2ac",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43038660"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biofabrication",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43038660/"
+ },
+ "summary_ko": "이 연구는 췌관선암(PDAC)의 종양 내 이질성을 체계적으로 분석하기 위해 잉크젯 바이오프린팅 플랫폼을 활용했습니다. 연구진은 600개 이상의 단일 세포 유래 오가노이드를 생성하여 형태학적, 분자적, 기능적 다양성을 확인했습니다. 단일 오가노이드 분석을 통해 기존의 일괄 분석(bulk analysis)에서는 가려졌던 약물 저항성 세포군과 분자적 이질성을 밝혀냈습니다. 특히 gemcitabine과 nab-paclitaxel에 대한 반응이 오가노이드마다 다르게 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Inkjet-printed single cell-derived pancreatic cancer organoid for intratumoral heterogeneity quantification",
+ "title_ko": "종양 내 이질성 정량을 위한 잉크젯 프린팅 단일 세포 유래 췌장암 오가노이드",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "Obstructive jaundice from pancreatobiliary tumors causes bacterial translocation into the liver and systemic circulation, systemic inflammatory response syndrome, multiorgan failure, and malnutrition, thereby increasing perioperative risk. Preoperative biliary drainage (PBD) aims to reverse these effects and enable safer neoadjuvant therapy and surgery. However, whether the benefits of relieving obstructive jaundice outweigh the risks of procedure-related and perioperative infectious complications remains controversial. This narrative review provides a comprehensive overview of the indications, modalities, timing, and ongoing debates regarding PBD in patients with distal and hilar biliary malignancies. In general, indications for PBD include cholangitis, severe or progressive jaundice with organ dysfunction, the need to optimize liver function for neoadjuvant therapy, and anticipated prolonged preoperative delays. In patients undergoing major hepatectomy, future liver remnant protection warrants additional consideration. Endoscopic biliary drainage is generally preferred over percutaneous transhepatic biliary drainage (PTBD) because PTBD carries a potential oncological risk and causes patient discomfort. However, PTBD remains an alternative to endoscopic drainage or as a supplementary method to drain additional effective liver volume. Fully covered self-expandable metal stents offer superior patency during the preoperative period but may increase the risks of pancreatitis, cholecystitis, and local inflammation, potentially affecting surgical complexity. Endoscopic ultrasound-guided biliary drainage shows promise but requires further validation of its safety profile and long-term oncologic outcomes. Given its distinct benefits and risks, PBD should be tailored to the patient's clinical status, treatment plan, and institutional expertise. Further studies are needed to evaluate the optimal timing of surgery, the ideal stent design, and the impact of each PBD modality on perioperative safety and long-term oncologic outcomes.",
+ "authors": [
+  "Hong SY",
+  "Ahn YH",
+  "Yang MJ"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43041110",
+ "importance": 0.67,
+ "key_points_ko": [
+  "수술 전 담도 배액술(PBD)은 담관염, 심한 황달, 장기 기능 이상, 선행치료를 위한 간 기능 최적화 필요성이 있을 때 적응증이 됩니다.",
+  "내시경적 담도 배액술(Endoscopic biliary drainage)은 경피경간 담도 배액술(PTBD)에 비해 종양학적 위험과 환자 불편감이 적어 일반적으로 선호됩니다.",
+  "완전 피복형 자가 팽창형 금속 스텐트(Fully covered self-expandable metal stents)는 개존성이 우수하지만 췌장염, 담낭염 등의 위험을 높일 수 있습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.3346/jkms.2026.41.e349",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43041110"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Korean Med Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041110/"
+ },
+ "summary_ko": "이 논문은 췌담도 종양으로 인한 폐쇄성 황달 환자에서 수술 전 담도 배액술(Preoperative Biliary Drainage, PBD)의 적응증, 방법, 시기 및 논란에 대한 종합적인 문헌 고찰입니다. PBD는 수술 전 위험을 낮추고 선행치료와 수술을 안전하게 시행하기 위해 시행됩니다. 그러나 배액술 관련 합병증의 위험이 이득보다 큰지에 대해서는 여전히 논란이 있습니다. 환자의 임상 상태와 치료 계획에 맞춘 개별화된 접근이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Preoperative Biliary Drainage for Pancreatobiliary Tumor",
+ "title_ko": "췌담도 종양 환자의 수술 전 담도 배액술",
+ "trial": null,
+ "type": "paper"
+}

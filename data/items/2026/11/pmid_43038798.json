@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains difficult to diagnose early and treat effectively. The related microRNAs miR-221 and miR-222 share a seed sequence, but their functions and clinical evidence should be evaluated individually. Pancreatic cancer models support miR-221/222-associated TIMP-2 repression and invasion, miR-222-mediated p57 regulation, and tumor-derived vesicular miR-222 effects on p27 expression and localization. Macrophage-derived extracellular vesicular miR-222-3p has also been implicated in gemcitabine resistance through TSC1-associated signaling. By contrast, the TRPS1-ZEB2 mechanism and the vesicular SPINT1-HGF liver pathway derive from breast and colorectal cancer studies, respectively, and remain extrapolations when discussed in PDAC. Circulating miR-221 has shown exploratory diagnostic associations, but results from general miRNA panels cannot be assigned to miR-221 or miR-222 individually. Tissue prognostic associations likewise do not validate circulating assays. A first-in-human study of the selective inhibitor LNA-i-miR-221 provides early safety and peripheral-blood pharmacodynamic evidence in a mixed advanced-cancer population that included pancreatic cancer; it does not establish PDAC-specific efficacy. Translation requires independent biomarker validation, molecule-specific target-dependence studies, and confirmation of effective pancreatic tumor delivery.",
+ "authors": [
+  "Oriquat G",
+  "Abdulsahib WK",
+  "Jyothi SR",
+  "Nayak PP",
+  "Chauhan AS",
+  "Singla S",
+  "Sead FF",
+  "Polatova D"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43038798",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌장암 모델에서 miR-221/222는 TIMP-2 억제와 침윤, p57 및 p27 조절에 관여합니다.",
+  "대식세포에서 유래한 세포외 소포체 miR-222-3p는 TSC1 관련 신호를 통해 gemcitabine(젬시타빈) 저항성과 연관되어 있습니다.",
+  "선택적 저해제 LNA-i-miR-221의 임상 1상 연구에서 췌장암을 포함한 진행성 암 환자를 대상으로 초기 안전성과 약력학적 증거가 확인되었습니다.",
+  "순환혈액 바이오마커와 췌장암 특이적 치료 효과를 입증하기 위해서는 독립적인 검증과 추가 연구가 필요합니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.1016/j.ctarc.2026.101515",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43038798"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Treat Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43038798/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC)에서 microRNA인 miR-221과 miR-222의 기전, 세포외 소포체 소통, 바이오마커 가능성, 치료 전망을 다룬 문헌 고찰입니다. 췌장암 모델에서 miR-221/222는 TIMP-2 억제 및 침윤, p57 조절, p27 발현 등에 관여하는 것으로 나타났습니다. 또한, 선택적 저해제인 LNA-i-miR-221의 최초 인간 대상(first-in-human) 연구가 진행되었으나 췌장암 특이적 효능은 확립되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "miR-221 and miR-222 in pancreatic ductal adenocarcinoma: mechanistic evidence, extracellular vesicle communication, biomarker candidates, and therapeutic prospects",
+ "title_ko": "췌관선암에서의 miR-221과 miR-222: 기전적 증거, 세포외 소포체 소통, 바이오마커 후보 및 치료적 전망",
+ "trial": null,
+ "type": "paper"
+}

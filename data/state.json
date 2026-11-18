@@ -1457,24 +1457,50 @@
    "new": 20,
    "total": 1268,
    "updated": 5
+  },
+  {
+   "date": "2026-11-18",
+   "llm": {
+    "attempted": 39,
+    "cache_read_tokens": 0,
+    "errors": [
+     "nct:NCT07941362: ReadTimeout: The read operation timed out",
+     "pmid:43040604: ReadTimeout: The read operation timed out",
+     "nct:NCT02568267: ReadTimeout: The read operation timed out",
+     "pmid:43040170: ReadTimeout: The read operation timed out",
+     "pmid:43041333: ReadTimeout: The read operation timed out"
+    ],
+    "failed": 5,
+    "input_tokens": 70395,
+    "model": "gemini-3.5-flash-lite",
+    "models_used": {
+     "gemini-3.5-flash-lite": 34
+    },
+    "output_tokens": 23320,
+    "provider": "gemini",
+    "succeeded": 34
+   },
+   "new": 24,
+   "total": 1292,
+   "updated": 2
   }
  ],
  "sources": {
   "clinicaltrials": {
-   "at": "2026-11-17T03:19:04+00:00",
-   "count": 14,
+   "at": "2026-11-18T02:40:24+00:00",
+   "count": 22,
    "error": null,
    "ok": true
   },
   "europepmc": {
-   "at": "2026-11-17T03:19:06+00:00",
-   "count": 2,
-   "error": null,
-   "ok": true
+   "at": "2026-11-18T02:40:24+00:00",
+   "count": 0,
+   "error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE%3A%22pancreatic+cancer%22+OR+TITLE%3A%22pancreatic+adenocarcinoma%22+OR+TITLE%3APDAC+OR+TITLE%3A%22pancreatic+ductal%22%29+AND+%28SRC%3APPR%29%29+AND+%28FIRST_PDATE%3A%5B2026-11-15+TO+2026-11-18%5D%29&format=json&resultType=core&pageSize=100&sort=P_PDATE_D+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+   "ok": false
   },
   "pubmed": {
-   "at": "2026-11-17T03:19:04+00:00",
-   "count": 52,
+   "at": "2026-11-18T02:40:23+00:00",
+   "count": 45,
    "error": null,
    "ok": true
   }

@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND AND AIM: Endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) is a well-established minimally invasive method for evaluating pancreatic and biliary tract lesions. Cytological assessment of EUS-FNA samples provides information on the heterogeneous spectrum of pancreatobiliary diseases. This study aimed to describe the real-world diagnostic spectrum, cytomorphological characteristics, specimen adequacy, and distribution of cytological diagnostic categories in pancreatobiliary EUS-FNA specimens obtained in routine clinical practice.\nMETHODS: This retrospective real-world diagnostic spectrum study analyzed 1,641 EUS-FNA specimens obtained from pancreatic and biliary tract lesions between January 2021 and November 2025. Specimens were obtained from EUS-FNA procedures performed at 14 referring hospitals across Germany and interpreted at a single central reference cytopathology laboratory. Specimens were processed using conventional May-Grünwald-Giemsa and Papanicolaou staining, and cytological diagnoses were categorized following systematic cytomorphological evaluation with integration of available clinical and radiological information. The primary study outcomes were the distribution of cytological diagnoses, specimen adequacy, non-diagnostic rates, and the cytomorphological spectrum of pancreatobiliary lesions. Because systematic histopathological or long-term clinical reference-standard follow-up was not available for the entire cohort, formal diagnostic performance analyses were not performed.\nRESULTS: Definitive cytological diagnoses were obtained in 503 cases (30.7%). Non-diagnostic specimens accounted for 133 of 1,641 cases (8.1%), corresponding to a diagnostic yield of 91.9% (1,508/1,641) when all other categories were counted as clinically informative. Pancreatic ductal adenocarcinoma was the most common diagnosis (n = 291; 17.7%), followed by pancreatic neuroendocrine neoplasms (n = 51; 3.1%), neuroendocrine carcinoma (n = 11; 0.7%), acinar cell carcinoma (n = 10; 0.6%), solid pseudopapillary neoplasm (n = 6; 0.4%), adenosquamous carcinoma (n = 2; 0.1%), and mucinous neoplasms including cystadenocarcinoma (n = 1; 0.1%). Benign and premalignant cystic lesions included pseudocysts (n = 79; 4.8%), intraductal papillary mucinous neoplasms (n = 36; 2.2%), and serous cystadenomas (n = 3; 0.2%). Other findings comprised metastatic tumors (n = 34; 2.1%), malignant tumors not otherwise specified (n = 47; 2.9%), suspicious for malignancy (n = 115; 7.0%), inflammatory lesions (n = 149; 9.1%), negative/normal cytology (n = 558; 34.0%), and non-diagnostic samples (n = 133; 8.1%).\nCONCLUSION: EUS-FNA cytology provides clinically relevant information across a wide range of pancreatic and biliary tract lesions. This large, real-world cohort delineates the contemporary diagnostic spectrum of pancreatobiliary EUS-FNA cytology encountered in routine clinical practice and provides reference data on the distribution of cytological diagnostic categories, with a supplementary reclassification according to the WHO International System for Reporting Pancreaticobiliary Cytopathology. These data may serve as reference values for institutional quality assurance, including the monitoring of diagnostic yield and non-diagnostic rates.",
+ "authors": [
+  "Elmas H",
+  "Kholová I",
+  "Ergüven FB",
+  "Welker L"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-18",
+ "history": [
+  {
+   "date": "2026-11-18",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43041262",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 1,641건의 EUS-FNA 검체 중 진단 수율은 91.9%(1,508/1,641)였으며, 비진단적 검체는 8.1%(133/1,641)였습니다.",
+  "가장 흔한 진단은 췌장암(pancreatic ductal adenocarcinoma)으로 291례(17.7%)였습니다.",
+  "기타 주요 진단으로는 췌장 신경내분비 종양(pancreatic neuroendocrine neoplasms) 51례(3.1%), 가성낭종(pseudocysts) 79례(4.8%), 염증성 병변 149례(9.1%) 등이 포함되었습니다."
+ ],
+ "last_updated": "2026-11-18",
+ "links": {
+  "doi": "10.3389/fmed.2026.1956324",
+  "nct": [],
+  "pmcid": "PMC13770920",
+  "pmid": "43041262"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-02",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Med (Lausanne)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43041262/"
+ },
+ "summary_ko": "이 연구는 14개 병원에서 수집된 1,641건의 췌담도 내시경초음파 유도하 세침흡인(EUS-FNA) 검체를 분석하여 실제 임상 진단 스펙트럼과 세포학적 범주의 분포를 확인했습니다. 연구 결과 전체 검체의 91.9%에서 임상적으로 유용한 정보가 확인되었으며, 비진단적 검체 비율은 8.1%였습니다. 가장 흔한 진단은 췌장암(pancreatic ductal adenocarcinoma)으로 17.7%를 차지했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Diagnostic spectrum and cytomorphological features of 1,641 pancreatobiliary EUS-FNA specimens: a five-year retrospective study from a central cytopathology laboratory serving 14 hospitals",
+ "title_ko": "1,641건의 췌담도 내시경초음파 유도하 세침흡인(EUS-FNA) 검체의 진단 스펙트럼 및 세포형태학적 특징: 5년 간의 후향적 연구",
+ "trial": null,
+ "type": "paper"
+}

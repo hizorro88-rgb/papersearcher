@@ -91,12 +91,21 @@ search:
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
-| [수술 가능한 췌장암 환자에서 FOLFIRINOX와 Digoxin 병용 요법 임상시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
+| [절제 가능한 췌장암 환자에서 FOLFIRINOX와 Digoxin 병용 요법 임상시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (19)
+## 타임라인 (21)
 
+<a id="pmid-43040170"></a>
+#### [Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery](https://pubmed.ncbi.nlm.nih.gov/43040170/)
+`논문` `관찰연구` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+
+---
 <a id="doi-10.21203-rs.3.rs-11496243-v1"></a>
 #### [진행성 췌장암 환자의 치료 순서 및 말기 액체 생검 유전체 분석 연구](https://europepmc.org/article/PPR/PPR1365842)
 <small>Real-world analysis of treatment sequencing and late-stage liquid biopsy genomic profiling in advanced pancreatic cancer</small>
@@ -156,6 +165,22 @@ search:
 - 3등급 이상의 이상반응 발생률은 toripalimab 병용군 47.9%, 단독군 49.2%로 독성 증가 없이 치료가 진행되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970668/) · [DOI](https://doi.org/10.1200/JCO-26-01393) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970668)</small>
+
+---
+<a id="pmid-43040550"></a>
+#### [긴장성 담도기흉에 의한 비전형적 담도 폐쇄를 동반한 췌장관선암: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/43040550/)
+<small>Pancreatic ductal adenocarcinoma with atypical biliary obstruction secondary to tension pneumobilia: a case report</small>
+
+`논문` `증례` `수술` `치료 전반` `지지요법·삶의질` `진단·조기발견` · 2026-11-02 · PubMed · J Med Case Rep · 중요도 0.59
+
+이 논문은 경계성 절제 가능한 췌장두부암을 진단받은 63세 여성 환자의 증례를 보고합니다. 환자는 내역상 적절한 담도 스텐트 삽입술(ERCP)을 받았음에도 불구하고, 스텐트 기능 장애나 담도 확장 없이 진행성 고빌리루빈혈증을 겪었습니다. 영상 검사를 통해 이는 갇힌 긴장성 담도기흉에 의한 기능적 폐쇄로 확인되었습니다. 경피적 담낭루술을 통한 배액으로 빌리루빈 수치가 정상화되었으며, 환자는 mFOLFIRINOX 항암 치료와 휘플 수술을 성공적으로 마친 후 암 없는 상태를 유지하고 있습니다.
+
+- 63세 여성 환자가 경계성 절제 가능한 췌장두부암 진단 후 담도 스텐트 삽입술을 시행받았습니다.
+- 담도 스텐트가 정상적임에도 불구하고 긴장성 담도기흉으로 인한 비전형적 담도 폐쇄가 발생했습니다.
+- 경피적 담낭루술을 통한 공기 배액으로 빌리루빈 수치가 정상화되었습니다.
+- 이후 mFOLFIRINOX 선행화학요법과 췌십이지장절제술(휘플 수술)을 완료하고 현재 암이 없는 상태입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040550/) · [DOI](https://doi.org/10.1186/s13256-026-06715-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13772258/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040550)</small>
 
 ---
 <a id="pmid-42952105"></a>

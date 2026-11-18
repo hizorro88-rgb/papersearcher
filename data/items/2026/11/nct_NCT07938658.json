@@ -22,11 +22,12 @@
  "id": "nct:NCT07938658",
  "importance": 0.87,
  "key_points_ko": [
-  "수술이 불가능한 국소 진행성 췌장암 환자 약 37명을 대상으로 하는 1차 치료 단일군 2상 임상시험입니다.",
-  "면역항암제 QL1706, 화학요법(젬시타빈+알부민 결합 파클리탁셀), 5회의 집중 방사선치료를 병용하여 수술 전환 가능성과 생존기간을 평가합니다.",
-  "대조군 없이 모든 참여자가 동일한 치료를 받으며, 과거 표준 화학요법 단독 결과와 간접 비교 분석할 예정입니다."
+  "대상 질환: 원격 전이가 없는 국소 진행성 췌장암 (췌관선암, PDAC)",
+  "목표 환자 수: 37명 (18세~75세)",
+  "평가 항목: 종양 축소 및 수술 전환율, 무진행 생존기간, 전체 생존기간, 안전성",
+  "치료 방법: QL1706, 젬시타빈, 냅-파클리탁셀 및 정위체부방사선치료(SBRT) 병용"
  ],
- "last_updated": "2026-11-17",
+ "last_updated": "2026-11-18",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07938658"
  },
- "summary_ko": "이 임상시험은 이전에 치료를 받은 적이 없는 국소 진행성 췌관선암(PDAC) 성인 환자 37명을 대상으로 진행되는 2상 연구입니다. 환자들은 면역항암제 후보물질인 QL1706(iparomlimab 및 tuvonralimab)과 함께 젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(nab-paclitaxel) 화학요법, 그리고 체부정위 방사선치료(SBRT)를 병용 투여받습니다. 치료 후 종양 크기 변화를 확인하여 수술 가능 여부를 평가하며, 무진행 생존기간(PFS)과 전체 생존기간(OS), 안전성을 확인합니다. 수술이 가능해진 환자는 종양 절제 수술 후 추가 약물 치료를 받고, 수술이 불가능한 환자는 질병이 진행될 때까지 약물 치료를 지속합니다.",
+ "summary_ko": "이 임상시험은 수술로 제거할 수 없는 국소 진행성 췌장암 성인 환자를 대상으로 면역항암제 후보물질인 QL1706(iparomlimab and tuvonralimab injection)에 젬시타빈(gemcitabine) 및 냅-파클리탁셀(nab-paclitaxel) 항암화학요법과 정위체부방사선치료(SBRT)를 함께 투여했을 때의 효과와 안전성을 평가합니다. 대상 환자는 18세에서 75세 사이이며, 원격 전이가 없고 아직 치료를 받지 않은 환자 약 37명입니다. 연구자들은 종양의 크기 감소로 수술 가능 여부 변화, 무진행 생존기간, 전체 생존기간 및 부작용을 확인하고자 합니다. 모든 참여자는 단일군으로 동일한 치료를 받으며 대조군이나 위약군은 없습니다.",
  "summary_source": "llm",
  "tags": [
   "Iparomlimab and Tuvonralimab",
@@ -63,14 +64,14 @@
   "Immunotherapy"
  ],
  "title": "Iparomlimab and Tuvonralimab Injection （QL1706）Combined With Chemotherapy (AG) and SBRT as First-Line Treatment for Locally Advanced Pancreatic Cancer",
- "title_ko": "국소 진행성 췌장암의 1차 치료로서 QL1706(이파롬리맙 및 투본랄리맙)과 항암화학요법(AG) 및 체부정위 방사선치료(SBRT) 병용 2상 임상시험",
+ "title_ko": "국소 진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(AG) 및 정위체부방사선치료(SBRT) 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma (PDAC)",
    "Locally Advanced Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 만 18세 이상 75세 이하 성인\n• 조직학적으로 원격 전이가 없음이 확인된 국소 진행성 췌관선암(PDAC) 환자\n• 주요 혈관(상장간막동맥, 복강동맥, 상장간막정맥/간문맥 등)의 침범으로 절제 및 재건이 불가능한 환자\n• 전신 수행능력 평가(ECOG) 점수 0~1점\n• 젬시타빈 및 알부민 결합 파클리탁셀 항암화학요법을 받기에 적합한 주요 장기 기능 보유자\n\n제외 기준:\n• 췌장암에 대해 이전에 1차 전신 항암 치료를 받은 환자\n• 췌관선암이 아닌 암종(신포세포암, 췌모세포종, 신경내분비종양 등)\n• 최근 5년 이내 다른 악성 종양의 병력이 있는 환자(일부 피부암, 상피내암 등 제외)\n• 조절되지 않는 흉수, 복수 또는 심낭삼출이 있는 환자\n• 활동성 자가면역 질환, 원발성 면역결핍증 또는 전신 면역억제 치료를 받는 환자\n• 최근 12개월 이내 발생한 심근경색, 울혈성 심부전 등 중증 심혈관계 질환자",
+  "eligibility_ko": "선정 기준:\n1. 18세에서 75세 사이, 성별 제한 없음\n2. 본 연구에 대해 충분히 설명을 듣고 자발적으로 동의서에 서명한 환자\n3. 조직학적으로 확진된 국소 진행성 췌관선암(PDAC) 환자로 원격 전이가 없는 경우\n4. 전신 수행 능력(ECOG) 점수 0-1점\n5. 젬시타빈 및 냅-파클리탁셀 병용 치료에 협조할 수 있는 환자\n6. 주요 장기 기능이 정상이며 화학요법 기본 요구 조건을 충족하는 혈액 및 생화학 검사 결과\n7. 가임기 여성 및 남성의 피임 준수 필수\n\n제외 기준:\n1. 선방세포암, 췌장모세포종, 고형 가유두상 종양, 췌장 신경내분비종양 환자\n2. 이전에 췌장선암 1차 치료를 받은 적이 있는 환자\n3. 젬시타빈 또는 냅-파클리탁셀 금기증이나 심각한 과민반응이 있는 환자\n4. 임산부 또는 수유부\n5. 과거 5년 이내 다른 악성 종양 병력 (일부 기저세포암 등 제외)\n6. 조절되지 않는 흉수, 심낭수, 복수\n7. 최근 12개월 이내 심각한 심혈관 질환 병력\n8. 위십이지장 폐쇄, 출혈, 소화 기능 장애\n9. 심각하고 조절되지 않는 감염 또는 중등도 이상의 신장 손상\n10. 면역억제제 또는 코르티코스테로이드 최근 투여력\n11. 활동성 자가면역 질환 환자\n12. 후천성 면역결핍증(HIV), 활동성 B형 또는 C형 간염 감염자",
   "eligibility_text": "Inclusion Criteria:\n\n1. Aged between 18 and 75 years old, with no gender restriction;\n2. Have been fully informed of this study and voluntarily signed the informed consent form.\n3. Patients with histopathologically confirmed pancreatic ductal adenocarcinoma (PDAC) with locally advanced lesions, meeting any of the following criteria and having no distant metastasis:\n\n   ① Tumors located in the pancreatic head and neck:\n   1. Tumor encasement of the superior mesenteric artery (SMA) exceeding 180°;\n   2. Tumor encasement of the celiac trunk exceeding 180°;\n   3. Tumor invasion or embolization (tumor thrombus or blood thrombus) rendering the superior mesenteric vein or portal vein unresectable for reconstruction;\n   4. Extensive tumor involvement of the distal jejunal draining branch of the superior mesenteric vein.\n\n      * Tumors located in the pancreatic body/tail:\n\n   <!-- -->\n\n   1. Tumor encasement of the superior mesenteric artery or celiac trunk exceeding 180°;\n   2. Involvement of the celiac trunk and abdominal aorta;\n   3. Tumor invasion or embolization (tumor thrombus or blood thrombus) making resection and reconstruction of the superior mesenteric vein or portal vein impossible.\n4. Good physical status: Eastern Cooperative Oncology Group (ECOG) performance status score of 0-1;\n5. Willing and able to comply with medical advice and receive combination therapy with gemcitabine for injection and paclitaxel (albumin-bound) for injection;\n6. No dysfunction of major organs, and laboratory test results meet the basic requirements for chemotherapy, as follows:\n\n   1. Absolute neutrophil count ≥ 1.5×10⁹/L;\n   2. Platelet count ≥ 90×10⁹/L;\n   3. Hemoglobin (Hb) ≥ 90 g/L;\n   4. Serum aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 1.5 times the upper limit of normal (ULN); for patients with liver metastasis, AST and ALT ≤ 5.0 times ULN;\n   5. Total bilirubin ≤ 1.5 times ULN;\n   6. Serum creatinine ≤ 1.5 times ULN;\n   7. Q-T interval on electrocardiogram ≤ 450 ms;\n   8. Normal serum electrolytes (sodium, potassium, chloride and total calcium).\n7. Women of childbearing potential must agree to use contraceptive measures throughout the study period and for 3 months after study completion; they must have a negative serum or urine pregnancy test within 7 days prior to enrollment and must not be breastfeeding. Male participants must agree to use contraceptive measures during the study and for 3 months after the end of the study.\n8. No other contraindications to treatment prior to enrollment. The patient voluntarily participates in the trial, has good treatment compliance, and can cooperate with trial observations.\n\nExclusion Criteria:\n\n1. Patients with acinic cell carcinoma, pancreatoblastoma, solid pseudopapillary neoplasm, or pancreatic neuroendocrine neoplasm;\n2. Subjects who have previously received first-line treatment for pancreatic adenocarcinoma;\n3. Subjects with contraindications to treatment with gemcitabine for injection and/or albumin-bound paclitaxel for injection, or with known severe hypersensitivity to gemcitabine for injection and/or albumin-bound paclitaxel for injection;\n4. Pregnant or lactating women; women of childbearing potential with a positive baseline pregnancy test;\n5. History of other malignant tumors within the past 5 years (excluding basal cell carcinoma, squamous cell carcinoma, superficial bladder cancer, carcinoma in situ of the cervix, and breast cancer);\n6. Uncontrolled pleural effusion, pericardial effusion, or ascites;\n7. Severe cardiovascular diseases occurring within 12 months prior to admission, including symptomatic coronary heart disease, grade ≥ II congestive heart failure, uncontrolled arrhythmia, or myocardial infarction;\n8. Complicated gastroduodenal obstruction/hemorrhage, digestive dysfunction, or malabsorption syndrome;\n9. Presence of severe uncontrolled concurrent infection, other severe uncontrolled comorbidities, or moderate to severe renal impairment;\n10. History of allergic reactions to the study medications used in this trial;\n11. Use of corticosteroids or other systemic immunosuppressive therapies within 14 days prior to admission;\n12. Subjects who received investigational drug treatment within 4 weeks before enrollment (participation in other clinical trials);\n13. Active autoimmune diseases (including but not limited to uveitis, enteritis, hepatitis, hypophysitis, nephritis, vasculitis, hyperthyroidism, hypothyroidism, and asthma requiring bronchodilator therapy). Exceptions may be made for patients with hypothyroidism managed solely with hormone replacement therapy and patients with skin diseases not requiring systemic treatment (such as vitiligo, psoriasis, or alopecia);\n14. Medical history of primary immunodeficiency;\n15. Use of immunosuppressive drugs within 4 weeks before the first dose of study treatment, excluding topical or physiologic doses of systemic corticosteroids (i.e., prednisone ≤ 10 mg/day or equivalent doses of other corticosteroids) administered via nasal spray, inhalation or other routes, or corticosteroids used for the prevention of contrast medium allergy;\n16. Receipt of live attenuated vaccines within 4 weeks before the first dose of study treatment or during the study period;\n17. Known active pulmonary tuberculosis;\n18. History of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation;\n19. Positive HIV antibody, or active hepatitis B or hepatitis C infection (Hepatitis B: positive HBsAg with HBV DNA ≥ 10⁴ copies/mL; Hepatitis C: positive HCV antibody and HCV-RNA requiring antiviral treatment);\n20. Other factors that, in the investigator's opinion, may compromise subject safety or trial compliance, such as severe diseases requiring comprehensive treatment (including psychiatric disorders), significant laboratory abnormalities, or other familial and social factors.",
   "enrollment": 37,
   "has_results": false,
@@ -87,16 +88,16 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 췌장암 1차 항암 치료력",
-    "활동성 자가면역 질환 또는 면역결핍 병력",
-    "최근 12개월 이내 심근경색, 심부전 등 중증 심혈관 질환",
-    "조절되지 않는 복수 또는 흉수",
-    "5년 이내 다른 암 병력"
+    "과거 5년 이내 다른 암 병력",
+    "심각한 심혈관 질환",
+    "활동성 자가면역 질환",
+    "활동성 B형 또는 C형 간염",
+    "임산부 또는 수유부"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전에 전신 치료를 받은 적이 없는 국소 진행성(수술 불가) 췌장암 환자",
+   "notes_ko": "아직 치료를 받지 않은 국소 진행성 췌장암(PDAC) 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
