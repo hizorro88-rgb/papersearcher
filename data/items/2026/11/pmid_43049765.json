@@ -1,0 +1,55 @@
+{
+ "abstract": "BACKGROUND: Paediatric patients differ in various ways from adult populations, but comprehensive multicentre or population-based data are missing for paediatric pancreatic surgery. This study evaluated indications, procedures, complications, and mortality in paediatric patients undergoing pancreatic surgery.\nMETHODS: This retrospective observational population-based cohort study queried the German Diagnosis-Related Group database for all patients aged < 19 years who underwent pancreatic surgical procedures between 2010 and 2023. The primary outcomes were in-hospital mortality and complication rates. Sex- and age-based differences in surgical indications and procedures were explored as secondary outcomes. Descriptive statistics and multivariable regression analyses were performed to identify risk factors for mortality and perioperative complications.\nRESULTS: Among the 761 patients identified, indications for pancreatic surgery encompassed chronic pancreatitis (284 patients, 37.3%), pancreatic tumours (221, 29.0%), trauma (127, 16.7%), extrapancreatic tumours (70, 9.2%), and other diseases (59, 7.8%), with significant sex- and age-based differences (P < 0.001). Distal pancreatectomies (281, 36.9%) and pancreatoduodenectomies (125, 16.4%) were the most commonly performed operations. The mortality rate in the overall cohort was 2.8% (21), with no deaths recorded in the subgroup of patients with pancreatic tumours. The overall complication rate was 41.9% (319 of 761 patients), and varied depending on the surgical procedure, spanning from 28.6% for pancreatic cyst marsupialization to 92.9% for total pancreatectomy. Severe complications occurred in 244 patients (32.1%), and were again more common after total pancreatectomy (85.7%). In multivariable analyses, a higher Charlson Comorbidity Index (odds ratio (OR) 1.27; 95% confidence interval (c.i.) 1.12 to 1.44) and undergoing surgery for trauma (OR 5.22; 95% c.i. 1.96 to 13.89), other pancreatic diagnoses (OR 3.13; 95% c.i. 1.30 to 7.17), or chronic pancreatitis (OR 2.56; 95% c.i. 1.08 to 6.25) were identified as independent risk factors for the occurrence of complications, as were receiving total pancreatectomy (OR 8.42; 95% c.i. 1.38 to 51.16) and concomitant splenectomy (OR 1.82; 95% c.i. 1.10 to 3.00).\nCONCLUSION: Pancreatic surgery in children is most commonly performed for chronic pancreatitis or tumours, with specific sex and age differences in indication. Pancreatic procedures in children are rare, but can be performed with low in-hospital mortality. However, morbidity remains substantial, particularly after extensive procedures.",
+ "authors": [
+  "Mantke R",
+  "Büchler MW",
+  "Krollmann N",
+  "Hunger R"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43049765",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1093/bjsopen/zrag140",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43049765"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BJS Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43049765/"
+ },
+ "summary_ko": "BACKGROUND: Paediatric patients differ in various ways from adult populations, but comprehensive multicentre or population-based data are missing for paediatric pancreatic surgery. This study evaluated indications, procedures, complications, and mortality in paediatric patients undergoing pancreatic surgery.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Pancreatic surgery in children: nationwide retrospective observational study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer (PC) is one of the most fatal malignancies worldwide, partly attributable to the lack of robust tools for clinical screening and diagnosis. Although liquid biopsy holds great promise for PC diagnosis, unified analysis of extracellular-vesicle, nucleic-acid, and protein biomarkers remains challenging because of their distinct analytical requirements and large differences in abundance. Here, we report a microscale size-encoded deterministic lateral displacement platform for unified analysis of heterogeneous liquid-biopsy biomarkers. By integrating aptamer recognition, microscale size encoding, Exonuclease III-mediated signal amplification, deterministic lateral displacement (DLD) microfluidics, and a self-developed vacuum-driven microfluidic imaging system, glypican-1-positive extracellular vesicles (GPC1+ EVs), microRNA-21 (miR-21), and carbohydrate antigen 19-9 (CA19-9) are encoded into microspheres of distinct sizes for simultaneous quantification directly from diluted serum within 1 h without complex preprocessing. Notably, GPC1+ EVs are directly analyzed without extracellular-vesicle isolation through a dual-aptamer recognition strategy that minimizes interference from soluble GPC1. The platform achieved detection limits of 3.23 × 105 particles mL-1 for GPC1+ EVs, 536 fM for miR-21, and 5.5 × 10-2 U mL-1 for CA19-9, providing sufficient analytical sensitivity for direct analysis of diluted serum samples. Clinical validation in 240 individuals demonstrated robust diagnostic performance, with a three-biomarker support vector machine model achieving area under the receiver operating characteristic curve values of 0.9822 for PC versus healthy controls and 0.9782 for PC versus pancreatitis in an independent test cohort. This work establishes a microscale size-encoding strategy that extends DLD microfluidics from microscale particle analysis to unified analysis of heterogeneous liquid-biopsy biomarkers, providing a general framework for multidimensional cancer diagnostics.",
+ "authors": [
+  "Huang X",
+  "Wu T",
+  "Li H",
+  "Zhang Y",
+  "Liu J",
+  "Hao J",
+  "Xiao J",
+  "Diao B"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43044444",
+ "importance": 0.64,
+ "key_points_ko": [
+  "GPC1+ EVs, miR-21, CA19-9 바이오마커를 미세구체 크기로 부호화하여 1시간 이내에 희석된 혈청에서 동시 정량 분석을 수행했습니다.",
+  "검출 한계는 GPC1+ EVs 3.23 × 10^5 particles mL^-1, miR-21 536 fM, CA19-9 5.5 × 10^-2 U mL^-1을 기록했습니다.",
+  "240명을 대상으로 한 임상 검증에서 3가지 바이오마커 기반 모델은 췌장암과 건강한 대조군 간 비교에서 AUC 0.9822를 보였습니다.",
+  "췌장암과 췌장염 환자를 비교한 독립 테스트 코호트에서는 AUC 0.9782의 진단 성능을 나타냈습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1016/j.bios.2026.119437",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43044444"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-14",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biosens Bioelectron",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044444/"
+ },
+ "summary_ko": "이 연구는 액체 생검(liquid biopsy)을 통해 췌장암(pancreatic cancer, PC)을 진단하기 위한 새로운 미세유체학 기반 통합 분석 플랫폼을 개발했습니다. 연구진은 glypican-1 양성 세포외소포(GPC1+ EVs), microRNA-21(miR-21), 그리고 당사슬항원 19-9(carbohydrate antigen 19-9, CA19-9)를 서로 다른 크기의 미세구체로 부호화하여 1시간 이내에 동시 정량화했습니다. 240명을 대상으로 한 임상 검증에서 3가지 바이오마커를 활용한 머신러닝 모델은 건강한 대조군 대비 0.9822, 췌장염 환자 대비 0.9782의 ROC 곡선 아래 면적(AUC) 값을 기록했습니다. 이는 이 플랫폼이 복잡한 전처리 없이 혈청 샘플에서 다차원 암 진단을 수행할 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Microscale encoding of nanoscale biomarkers enables unified analysis by deterministic lateral displacement microfluidics for pancreatic cancer detection",
+ "title_ko": "나노 스케일 생체표지자의 미세 크기 부호화를 통한 결정적 측면 변위 미세유체학 기반 췌장암 진단 통합 분석",
+ "trial": null,
+ "type": "paper"
+}

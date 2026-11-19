@@ -23,7 +23,11 @@
  ],
  "id": "pmid:43041333",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 155명의 환자 중 55명(35.5%)이 수술 후 6개월 이내에 조기 재발을 보였습니다.",
+  "수술 후 다변량 모델에서 췌장 체부/미부 종양 위치, 종양 크기 3.3 cm 이상, TNM 3기, 수술 후 보조 항암화학요법 부재가 조기 재발의 위험 인자였습니다(P < 0.05).",
+  "수술 전 다변량 모델에서는 CA19-9 수치 208 IU/mL 이상만이 조기 재발의 독립적 예측 인자였습니다(P = 0.021)."
+ ],
  "last_updated": "2026-11-18",
  "links": {
   "doi": "10.3389/fonc.2026.2002437",
@@ -45,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43041333/"
  },
- "summary_ko": "BACKGROUND: Early recurrence after radical resection of pancreatic ductal adenocarcinoma (PDAC) is a primary cause of poor prognosis. Published definitions of early recurrence use postoperative cutoff points ranging from 6 to 12 months.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌관선암(PDAC) 수술 후 6개월 이내 조기 재발과 관련된 임상병리학적 특징을 분석했습니다. 2011년부터 2020년까지 췌장 절제술을 받은 155명의 환자를 대상으로 후향적 분석을 진행했습니다. 분석 결과 전체 환자의 35.5%가 수술 후 6개월 이내에 재발을 경험했습니다. 수술 후 다변량 분석에서 췌장 체부/미부 위치, 종양 크기 3.3 cm 이상, TNM 3기, 수술 후 보조 항암화학요법 부재가 조기 재발의 독립적 위험 인자로 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Tumor location in the pancreatic body/tail as an independent risk factor for early recurrence after curative resection of pancreatic ductal adenocarcinoma: a single-center retrospective study",
- "title_ko": null,
+ "title_ko": "췌관선암의 근치적 절제술 후 조기 재발의 독립적 위험 인자로서의 췌장 체부/미부 위치: 단일 기관 후향적 연구",
  "trial": null,
  "type": "paper"
 }

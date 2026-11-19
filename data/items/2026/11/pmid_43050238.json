@@ -1,0 +1,62 @@
+{
+ "abstract": "Over 90% of pancreatic ductal adenocarcinomas (PDAC) harbor oncogenic KRAS mutations, a target long considered therapeutically undruggable. Advances in structure-based drug design have now yielded allele-selective and multiselective inhibitors capable of directly targeting mutant RAS. Recently, in the phase 3 RASolute-302 trial, the multiselective RAS(ON) inhibitor daraxonrasib significantly improved overall survival over standard chemotherapy in patients with previously treated metastatic PDAC, marking the first positive randomized trial of a RAS-directed agent in this disease. However, major questions and challenges remain, including acquired resistance, toxicity, and optimal sequencing. In this review, we examine the KRAS-mutant landscape of PDAC, emerging classes of RAS inhibitors, clinical evidence, resistance mechanisms, and rational combination strategies that are shaping this rapidly evolving field.",
+ "authors": [
+  "Saj F",
+  "Pant S",
+  "Haldar SD"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050238",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌관선암(PDAC)의 90% 이상은 치료가 어렵다고 여겨졌던 KRAS 돌연변이를 가지고 있습니다.",
+  "3상 RASolute-302 임상시험에서 daraxonrasib(다락소나십)은 이전에 치료받은 전이성 췌관선암(PDAC) 환자에서 표준 항암화학요법보다 전체 생존기간을 유의하게 개선했습니다.",
+  "이는 췌장암에서 RAS 표적 약물의 첫 번째 긍정적인 무작위 임상시험 결과입니다.",
+  "획득 내성, 독성, 최적의 치료 순서 등 주요 과제는 초록에 명시되지 않았으나 계속 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1097/PPO.0000000000000856",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050238"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050238/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC)의 90% 이상에서 발견되는 KRAS 돌연변이를 직접 표적하는 치료제의 최신 연구 동향을 다룬 리뷰 논문입니다. 구조 기반 약물 설계의 발전으로 돌연변이 RAS를 표적하는 대립유전자 선택적 및 다중 선택적 억제제가 개발되었습니다. 최근 3상 RASolute-302 임상시험에서 다중 선택적 RAS(ON) 억제제인 daraxonrasib(다락소나십)이 이전에 치료받은 전이성 췌관선암(PDAC) 환자에서 표준 항암화학요법 대비 전체 생존기간을 유의하게 개선했습니다. 이 리뷰에서는 췌관선암(PDAC)의 KRAS 돌연변이 현황, 새로운 RAS 억제제 계열, 임상적 근거, 내성 기전, 그리고 합리적인 병용 전략을 검토합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting the \"Undruggable\": Advances in RAS Inhibition for Pancreatic Cancer",
+ "title_ko": "치명적인 표적의 공략: 췌장암 RAS 억제제의 최신 발전",
+ "trial": null,
+ "type": "paper"
+}

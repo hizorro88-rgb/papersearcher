@@ -18,11 +18,11 @@
  "id": "nct:NCT05485974",
  "importance": 0.7,
  "key_points_ko": [
-  "대상 질환에는 췌장암, 비소세포폐암, 대장암 등 KRAS G12C 변이가 있는 진행성 고형암이 포함되었습니다.",
-  "HBI-2438은 경구 투여하는 KRAS G12C 억제제(KRAS G12C Inhibitor)입니다.",
-  "최대 44명의 환자가 3+3 용량 증량 설계에 등록되었습니다."
+  "KRAS G12C 변이가 있는 진행성 고형암 환자 44명을 대상으로 합니다.",
+  "경구용 KRAS G12C 억제제인 HBI-2438의 최대 내약 용량과 권장 2상 용량을 확인합니다.",
+  "용량 증량 단계는 150mg에서 1200mg 사이의 6개 코호트로 구성됩니다."
  ],
- "last_updated": "2026-11-18",
+ "last_updated": "2026-11-19",
  "links": {
   "doi": null,
   "nct": [
@@ -45,14 +45,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05485974"
  },
- "summary_ko": "이 임상시험은 KRAS G12C 변이가 있는 진행성 고형암(췌장암 포함) 환자들을 대상으로 경구용 HBI-2438의 최대 허용 용량과 2상 권장 용량을 결정하기 위해 진행되었습니다. 연구에는 최대 44명의 환자가 등록되었으며, HBI-2438 단독요법의 안전성과 약동학적 특성을 평가했습니다. 용량 증량 단계에서는 150mg에서 1200mg 사이의 용량이 평가되었습니다.",
+ "summary_ko": "이 연구는 KRAS G12C 변이가 있는 진행성 고형암(췌장암 포함) 환자를 대상으로 경구용 KRAS G12C 억제제인 HBI-2438의 안전성과 약동학을 평가하기 위한 1상 용량 증량 임상시험입니다. 최대 내약 용량(MTD)과 권장 2상 용량(RP2D)을 결정하는 것을 목표로 합니다. 총 44명의 환자가 등록되며, 150mg에서 1200mg까지의 용량으로 평가가 진행됩니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS G12C",
   "FIH"
  ],
  "title": "A Dose Escalation Study of HBI-2438 in Patients With Solid Tumors Harboring KRAS G12C Mutation",
- "title_ko": "KRAS G12C 변이 진행성 고형암 환자를 대상으로 하는 HBI-2438 용량 증량 1상 임상시험",
+ "title_ko": "KRAS G12C 변이가 있는 고형암 환자를 대상으로 하는 HBI-2438 용량 증량 1상 임상시험",
  "trial": {
   "conditions": [
    "Lung Cancer",
@@ -64,7 +64,7 @@
    "Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성남 환자\n- 유전자 검사로 확인된 KRAS G12C 변이 진행성 악성 고형암\n- 표준 치료에 실패했거나 거부한 경우, 또는 표준 치료 대상이 아닌 경우\n- RECIST v1.1 기준에 부합하는 측정 가능한 병변이 최소 1개 이상\n- ECOG 수행능력(Performance Status) 0 또는 1\n- 예상 생존 기간 3개월 초과\n\n제외 기준:\n- 연구 참여 전 3년 이내에 다른 동시 악성 종양 병력 (치유 목적 치료 완료 및 재발 위험 5% 미만인 피부 스케일/기저세포암 또는 자궁경부 상피내암은 제외)\n- 치료되지 않았거나 증상이 있는 중추신경계(CNS) 전이\n- 임상적으로 유의미한 심혈관 질환 또는 6개월 이내의 뇌졸중/심근경색\n- 이전에 받은 항암 치료로 인한 회복되지 않은 2등급 이상의 독성 (탈모 제외)\n- 이전에 KRAS G12C 억제제 치료를 받은 병력",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 남녀\n- 유전자 검사로 확인된 KRAS G12C 변이가 있는 진행성 악성 고형암\n- 표준 치료에 실패했거나 거부한 경우, 또는 표준 치료 대상이 아니라고 판단되는 경우\n- RECIST v1.1 기준에 부합하는 1개 이상의 측정 가능한 표적 병변\n- ECOG 수행능력 상태 0 또는 1\n- 적절한 장기 기능 보유 및 예상 생존 기간 3개월 초과\n\n제외 기준:\n- 3년 이내에 다른 동시 악성 종양의 병력이 있는 경우\n- 치료되지 않았거나 증상이 있는 중추신경계(CNS) 전이\n- 6개월 이내의 뇌졸중이나 심근경색을 포함한 임상적으로 유의미한 심혈관 질환\n- 이전 KRAS G12C 억제제 치료 경험\n- 연구 치료 전 14일 이내에 전신 코르티코스테로이드 또는 면역억제제가 필요한 상태",
   "eligibility_text": "Inclusion Criteria:\n\nKey Inclusion Criteria:\n\nMale or female at least 18 years of age at the time of signing the ICF prior to initiation of any study specific activities/procedures\n\nAdvanced malignant solid tumors with KRAS G12C mutation- as determined by genetic testing\n\nMust have failed or refused standard of care therapy, are not eligible for standard of care therapy, or cannot benefit from standard of care therapy, in the opinion of the Investigator\n\nAt least 1 measurable target lesion that meets the definition of RECIST v1.1\n\nECOG Performance Status of 0 or 1\n\nDemonstrate adequate organ function\n\nExpected survival time \\> 3 months in the opinion of the investigator\n\nMust be able to swallow oral medications and must not have gastrointestinal abnormalities that significantly affect drug absorption\n\nExclusion Criteria:\n\nKey Exclusion Criteria:\n\nHistory of another concurrent malignancy within 3 years prior to study entry, unless the malignancy was treated with curative intent and the likelihood of relapse is \\<5% in 2 years Note: Subjects with a history of squamous or basal cell carcinoma of the skin or carcinoma in the situ of the cervix may be enrolled\n\nUntreated or symptomatic central nervous system (CNS) metastases Note: Subjects with asymptomatic treated CNS metastases are eligible provided they have been clinically stable and not requiring steroids for at least 4 weeks\n\nClinically significant cardiovascular disease, including stroke or myocardial infarction within 6 months prior to first dose of HBI-2438; or the presence of unstable angina or congestive heart failure of New York Heart Association Grade 2 or higher\n\nAny unresolved Grade 2 or greater toxicity from previous anti-cancer therapy, except alopecia, within 4 weeks of first study treatment administration\n\nActive autoimmune diseases or history of autoimmune diseases that may relapse\n\nPregnant or nursing\n\nPrior treatment with any KRAS G12C inhibitors\n\nAny condition that required systemic treatment with either corticosteroids (\\>10 mg daily of prednisone or equivalent) or other immunosuppressive medication ≤14 days before the first study treatment administration\n\nTreatment with other investigational drugs/devices within 4 weeks prior to first study treatment administration",
   "enrollment": 44,
   "has_results": false,
@@ -84,15 +84,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "치료되지 않았거나 증상이 있는 뇌전이",
+    "증상이 있거나 치료되지 않은 뇌전이",
+    "3년 이내의 다른 암 병력",
     "6개월 이내 심근경색이나 뇌졸중 등 심혈관 질환",
-    "이전 KRAS G12C 억제제 치료 병력",
-    "3년 이내 다른 암 병력"
+    "이전에 KRAS G12C 억제제를 투여받은 경력"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 KRAS G12C 억제제 치료력이 없는 KRAS G12C 변이 진행성 고형암 환자",
+   "notes_ko": "이전 치료 경험이 있거나 표준 치료가 어려운 KRAS G12C 변이 전이성 또는 국소진행성 췌장암 환자",
    "prior_excluded": [
     "KRAS_inhibitor"
    ],

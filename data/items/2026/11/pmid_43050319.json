@@ -1,0 +1,62 @@
+{
+ "abstract": "Microtubule (MT) acetylation is frequently elevated in cancer and associated with poor prognosis. Alpha-tubulin acetyltransferase 1 (ATAT1), the principal enzyme responsible for this modification, has therefore emerged as a potential therapeutic target. However, which cancer types depend on ATAT1 activity and are selectively vulnerable to its inhibition remains unclear. Here, using a phospho-specific marker of ATAT1 activity, we identify pancreatic ductal adenocarcinoma (PDAC) as an ATAT1-dependent malignancy. ATAT1 activity is elevated in human PDAC and genetically engineered mouse models, emerging during pancreatic intraepithelial neoplasia and persisting in a substantial subset of tumors. Genetic inactivation or pharmacologic inhibition of ATAT1 suppresses PDAC cell growth, reduces orthotopic tumor burden, and markedly inhibits tumor initiation in KPC mice without overt toxicity. Mechanistically, ATAT1-dependent MT acetylation sustains Akt signaling, resulting in inhibitory phosphorylation of GSK3β and stabilization of the DNA methyltransferase DNA methyltransferase 1 (DNMT1). Elevated DNMT1 promotes repression of tumor suppressor genes, including NDRG4, whereas inhibition of ATAT1 or DNMT1 restores NDRG4 expression and impairs tumor growth. Together, these findings identify a previously unrecognized ATAT1-Akt-GSK3β-DNMT1 signaling axis linking cytoskeletal acetylation to NDRG4 repression and reveal ATAT1 as a therapeutic vulnerability during the early stages of pancreatic tumorigenesis.",
+ "authors": [
+  "Podgorski J",
+  "Flores PC",
+  "Archuleta MR",
+  "Ishii A",
+  "Ramonett A",
+  "Ortiz HR",
+  "Cartmell C",
+  "Langlais PR"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050319",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌관선암(PDAC)은 ATAT1에 의존하는 악성 종양으로 확인되었습니다.",
+  "ATAT1을 유전적으로 불활성화하거나 억제하면 췌관선암 세포의 성장이 억제되고 KPC 생쥐의 종양 형성이 현저히 감소했습니다.",
+  "ATAT1은 Akt 신호를 유지하여 DNA 메틸전달효소인 DNMT1을 안정화하고, 이는 NDRG4 등의 종양 억제 유전자를 억제합니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1073/pnas.2604077123",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050319"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Proc Natl Acad Sci U S A",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050319/"
+ },
+ "summary_ko": "미세소관 아세틸화 효소인 ATAT1이 췌관선암(PDAC)의 주요 암화 과정에 관여함을 규명한 전임상 연구입니다. 연구진은 인간 췌관선암과 유전자 조작 생쥐 모델에서 ATAT1 활성이 증가해 있음을 확인했습니다. ATAT1의 유전적 불활성화 또는 약물 억제는 심각한 독성 없이 췌관선암 세포의 성장을 억제하고 종양 부담을 감소시켰습니다. 기전적으로 ATAT1은 Akt-GSK3β-DNMT1 신호 전달 축을 통해 종양 억제 유전자인 NDRG4의 발현을 억제하는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ATAT1-dependent microtubule acetylation drives pancreatic tumorigenesis through DNMT1-mediated regulation of NDRG4",
+ "title_ko": "ATAT1 의존성 미세소관 아세틸화는 DNMT1을 통한 NDRG4 조절을 통해 췌장암 발생을 유도합니다",
+ "trial": null,
+ "type": "paper"
+}

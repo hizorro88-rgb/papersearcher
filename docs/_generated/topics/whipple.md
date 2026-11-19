@@ -17,10 +17,11 @@ search:
 - 종류: 시술·수술
 - 별칭: Whipple, pancreaticoduodenectomy, pancreatoduodenectomy, 췌두십이지장절제술, 휘플
 
-## 관련 임상시험 (10)
+## 관련 임상시험 (11)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [췌장 췌관선암 환자의 췌십이지장절제술 시 전체 췌장간막 절제술의 효과 비교](../trials/NCT07946380.md) | 해당 없음 | 모집 예정 | - |
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
@@ -32,15 +33,37 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (35)
+## 타임라인 (36)
 
 <a id="pmid-43040170"></a>
-#### [Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery](https://pubmed.ncbi.nlm.nih.gov/43040170/)
-`논문` `관찰연구` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
+#### [국소 진행성 췌장암 수술 시 장간막문맥 단락술: 종양혈관 췌장 수술을 위한 표준화된 접근법의 결과](https://pubmed.ncbi.nlm.nih.gov/43040170/)
+<small>Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery</small>
 
-BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+이 연구는 국소 진행성 췌장관암(LA-PDAC) 환자 155명을 대상으로 일시적 장간막문맥 단락술(TMPS)을 적용한 대규모 환자군의 수술 및 생존 결과를 후향적으로 분석했습니다. 대부분의 환자가 수술 전 항암치료를 받았으며 정맥 절제술과 함께 동맥 절제술도 시행되었습니다. 전체 생존기간(OS) 중앙값은 진단 시점부터 32.7개월, 수술 시점부터 17.46개월로 나타났습니다. 수술 후 사망률은 6.4%, R0 절제율은 56%였습니다. 연구진은 TMPS가 복잡한 정맥 절제와 동맥 절제를 용이하게 하는 표준화되고 재현 가능한 기법이라고 결론지었습니다.
+
+- 총 155명의 국소 진행성 췌장관암(LA-PDAC) 환자가 일시적 장간막문맥 단락술(TMPS)을 받았습니다.
+- 진단 시점부터의 전체 생존기간(OS) 중앙값은 32.7개월, 수술 시점부터는 17.46개월이었습니다.
+- 수술 후 1년, 3년, 5년 생존율은 각각 70%, 29%, 21%였습니다.
+- 수술 후 사망률은 6.4%, R0 절제율(암세포가 남지 않게 절제된 비율)은 56%를 기록했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+
+---
+<a id="pmid-43047778"></a>
+#### [췌장절제술 후 반복되는 수술 후 출혈로 진단된 후천성 혈우병 A: 2례 보고](https://pubmed.ncbi.nlm.nih.gov/43047778/)
+<small>Acquired Hemophilia A Diagnosed after Repeated Postoperative Bleeding Following Pancreatectomy: A Report of Two Cases</small>
+
+`논문` `증례` `진단·조기발견` `지지요법·삶의질` `수술` · 2026-11-12 · PubMed · Surg Case Rep · 중요도 0.64
+
+이 논문은 췌장절제술(pancreatectomy)을 받은 환자에서 발생한 드문 자가면역 출혈 질환인 후천성 혈우병 A(acquired hemophilia A, AHA)의 2가지 증례를 보고합니다. 80세 남성과 83세 남성 환자가 수술 후 반복적인 출혈과 활성화 부분 트롬보플라스틴 시간(APTT)의 지속적인 연장 증상을 보였습니다. 제8응고인자(factor VIII) 활성도 감소와 제8응고인자 억제제(factor VIII inhibitor) 확인을 통해 AHA가 진단되었습니다. 첫 번째 환자는 거듭된 출혈과 패혈증으로 사망하였으나, 두 번째 환자는 조기 진단 후 면역억제 치료를 받아 퇴원했습니다.
+
+- 80세 남성 환자는 십이지장유두부암으로 췌십이지장절제술(pancreaticoduodenectomy) 후 반복적인 출혈을 겪다 수술 후 13일째 AHA로 진단되었고 수술 후 34일째 사망했습니다.
+- 83세 남성 환자는 국소 진행성 췌장암으로 원위부 췌장절제술(distal pancreatectomy) 후 수술 후 8일째 AHA로 진단되었으며 프레드니솔론(prednisolone) 치료 후 퇴원했습니다.
+- 수술 후 APTT 연장이 지속되고 수혈로 교정되지 않으며 반복적인 출혈이 발생할 때 AHA를 의심해야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43047778/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0506) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13774973/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43047778)</small>
 
 ---
 <a id="pmid-43004858"></a>

@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Sarcopenia, a progressive loss of skeletal muscle mass and function, is particularly common in patients with pancreatic cancer. Its negative impact on the postoperative course is well known. However, the underlying mechanisms are heterogeneous and inconsistently reported across studies. We aimed to systematically synthesize and critically evaluate the current literature on the proposed mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection.\nMATERIALS AND METHODS: We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. We searched Embase, Scopus, PubMed, Cochrane Library, Web of Science, and ClinicalTrials.gov from their inception through August 2025. We included English-language observational and interventional studies involving surgically treated patients with pancreatic cancer that not only reported associations between sarcopenia and surgical outcomes, but also discussed possible explanations.\nRESULTS: The search identified 3944 records (3886 from databases and registers and 58 through citation searching), of which 38 studies met the inclusion criteria. We identified eight main categories of mechanisms: chronic systemic inflammation (23% of all reported mechanisms), association with aggressive tumor biology or advanced disease stage (17%), immune dysfunction (17%), metabolic dysregulation and hypercatabolism (14%), reduced functional reserve (11%), altered muscle-derived endocrine signaling (7%), malnutrition (6%), and impaired tissue healing (6%). Most studies reported survival outcomes, while relatively few examined postoperative complications.\nCONCLUSIONS: Sarcopenia is associated with poor postoperative outcomes through multiple, potentially interrelated pathways. However, mechanistic hypotheses are often inferred rather than directly investigated, and data on complications specific to pancreatic resection remain limited. Further research is needed to clarify causal pathways and inform targeted perioperative interventions.",
+ "authors": [
+  "Miążek A",
+  "Zmysłowska N",
+  "Frańczak P",
+  "Mróz E",
+  "Kenig J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43044527",
+ "importance": 0.71,
+ "key_points_ko": [
+  "총 3944건의 기록 중 38개의 연구가 선정 기준을 충족했습니다.",
+  "가장 빈도가 높게 보고된 기전은 만성 전신 염증(23%)이었으며, 공격적인 종양 생물학 또는 진행된 병기(17%), 면역 기능 장애(17%)가 뒤를 이었습니다.",
+  "대사 이상 및 고이화 상태는 14%, 감소된 기능적 예비능은 11%, 근육 유래 내분비 신호 전달 변화는 7%로 나타났습니다.",
+  "영양실조와 손상된 조직 치유는 각각 6%를 차지했습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1016/j.ejso.2026.112380",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43044527"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044527/"
+ },
+ "summary_ko": "본 연구는 췌장암 수술 환자에게 흔히 발생하는 근감소증(sarcopenia)이 수술 후 나쁜 예후로 이어지는 원인 기전을 체계적으로 종합하고 평가했습니다. Embase, Scopus, PubMed 등을 통해 3944건의 기록을 검색하여 최종 38개의 연구를 분석했습니다. 주요 기전으로는 만성 전신 염증(23%), 공격적인 종양 생물학 및 진행된 병기(17%), 면역 기능 장애(17%), 대사 이상 및 고이화 상태(14%) 등이 확인되었습니다. 연구진은 대부분의 연구가 생존 결과를 보고했으나 수술 후 합병증을 조사한 경우는 상대적으로 적었다고 밝혔습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection: A systematic review",
+ "title_ko": "췌장암 절제술 후 근감소증과 불리한 예후를 연결하는 기전에 관한 체계적 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

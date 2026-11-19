@@ -27,14 +27,30 @@ search:
 | [췌장암 환자에서 daraxonrasib(다락소나십) 유발 피부 독성에 대한 ivermectin(이베르멕틴) 병용 표준 예방…](../trials/NCT07895498.md) | 2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib(RMC-9805) + daraxonrasib(RMC…](../trials/NCT07805954.md) | 3상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 SNV1521과 RAS 억제제 병용요법의 최초 인체 대상 임상시험](../trials/NCT07756281.md) | 1상 | 모집 중 | - |
-| [전이성 췌장암 환자의 1차 치료로서 daraxonrasib 단독요법 및 daraxonrasib 병용요법에 대한 연구](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
+| [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
 | [췌장관선암 및 비소세포폐암 환자에서 TNG462 병용요법의 안전성, 내약성 및 유효성을 평가하기 위한 임상 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (14)
+## 타임라인 (15)
 
+<a id="pmid-43050238"></a>
+#### [치명적인 표적의 공략: 췌장암 RAS 억제제의 최신 발전](https://pubmed.ncbi.nlm.nih.gov/43050238/)
+<small>Targeting the &quot;Undruggable&quot;: Advances in RAS Inhibition for Pancreatic Cancer</small>
+
+`논문` `종설` `신약·치료제` `치료 전반` `기초연구` · 2026-11-18 · PubMed · Cancer J · 중요도 0.71
+
+이 논문은 췌관선암(PDAC)의 90% 이상에서 발견되는 KRAS 돌연변이를 직접 표적하는 치료제의 최신 연구 동향을 다룬 리뷰 논문입니다. 구조 기반 약물 설계의 발전으로 돌연변이 RAS를 표적하는 대립유전자 선택적 및 다중 선택적 억제제가 개발되었습니다. 최근 3상 RASolute-302 임상시험에서 다중 선택적 RAS(ON) 억제제인 daraxonrasib(다락소나십)이 이전에 치료받은 전이성 췌관선암(PDAC) 환자에서 표준 항암화학요법 대비 전체 생존기간을 유의하게 개선했습니다. 이 리뷰에서는 췌관선암(PDAC)의 KRAS 돌연변이 현황, 새로운 RAS 억제제 계열, 임상적 근거, 내성 기전, 그리고 합리적인 병용 전략을 검토합니다.
+
+- 췌관선암(PDAC)의 90% 이상은 치료가 어렵다고 여겨졌던 KRAS 돌연변이를 가지고 있습니다.
+- 3상 RASolute-302 임상시험에서 daraxonrasib(다락소나십)은 이전에 치료받은 전이성 췌관선암(PDAC) 환자에서 표준 항암화학요법보다 전체 생존기간을 유의하게 개선했습니다.
+- 이는 췌장암에서 RAS 표적 약물의 첫 번째 긍정적인 무작위 임상시험 결과입니다.
+- 획득 내성, 독성, 최적의 치료 순서 등 주요 과제는 초록에 명시되지 않았으나 계속 연구되고 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43050238/) · [DOI](https://doi.org/10.1097/PPO.0000000000000856) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43050238)</small>
+
+---
 <a id="pmid-43040186"></a>
 #### [다락소나십: 최초 승인](https://pubmed.ncbi.nlm.nih.gov/43040186/)
 <small>Daraxonrasib: First Approval</small>

@@ -1,0 +1,60 @@
+{
+ "abstract": "Systemic therapy has now evolved as the initial treatment for all stages of pancreatic ductal adenocarcinoma (PDAC). Although conventional cytotoxic chemotherapy remains the backbone of PDAC management, the selection of specific regimens is still largely empiric. The emergence of effective biomarker-directed therapies, including RAS inhibitors, PRMT5 inhibitors, and PARP inhibitors, has ushered in a new era of individualized, precision oncology approaches for patients with PDAC. Realizing the full potential of these therapeutic advances, however, requires parallel progress in the tools available to clinicians for their application. In this review, we examine recent advances in functional precision oncology in PDAC, with particular emphasis on preclinical models, molecular tumor boards, and innovative clinical trial designs. We also share insights from the experience of the LaBahn Pancreatic Program at the Medical College of Wisconsin in addressing the practical challenges of implementing precision oncology for patients with PDAC.",
+ "authors": [
+  "Kamgar M",
+  "Seo YD",
+  "Hall WA",
+  "Evans DB",
+  "McFall T"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050240",
+ "importance": 0.72,
+ "key_points_ko": [
+  "전신 치료는 모든 병기의 췌관선암(PDAC) 초기 치료로 자리 잡았습니다.",
+  "RAS 억제제, PRMT5 억제제, PARP 억제제 등의 바이오마커 기반 치료법이 등장했습니다.",
+  "정밀 의료의 실현을 위해 전임상 모델, 분자종양위원회, 혁신적 임상시험 디자인 등의 발전이 강조됩니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1097/PPO.0000000000000860",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050240"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050240/"
+ },
+ "summary_ko": "이 논문은 췌장암(PDAC) 환자를 위한 개별화된 정밀 종양학 접근법의 최신 동향을 다루는 문헌 고찰입니다. RAS 억제제(RAS inhibitors), PRMT5 억제제(PRMT5 inhibitors), PARP 억제제(PARP inhibitors) 등 바이오마커 기반 치료제의 등장을 조명했습니다. 전임상 모델, 분자종양위원회, 혁신적 임상시험 디자인 등 기능적 정밀 종양학의 최근 진전을 검토했습니다. 또한 위스콘신 의과대학 라반 췌장 프로그램의 경험을 바탕으로 실제 임상 적용의 실무적 과제를 논의했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Emerging Role for Precision Medicine in Pancreatic Cancer",
+ "title_ko": "췌장암에서 정밀 의료의 대두되는 역할",
+ "trial": null,
+ "type": "paper"
+}

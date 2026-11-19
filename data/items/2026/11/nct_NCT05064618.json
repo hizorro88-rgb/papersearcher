@@ -22,11 +22,11 @@
  "id": "nct:NCT05064618",
  "importance": 0.87,
  "key_points_ko": [
-  "대상 질환: 수술 불가 췌장암 환자 60명.",
-  "평가 항목: Am80, gemcitabine, nab-paclitaxel 병용요법의 안전성, 내인성, 권장 용량 및 탐색적 유효성.",
-  "작용 기전: Am80을 통해 종양 미세환경 내 pCAF를 rCAF로 재프로그래밍하여 항암 치료 효과를 높이고자 함."
+  "목표 환자 수는 총 60명입니다.",
+  "대상 질환은 수술 불가 췌장암(Pancreatic Cancer)입니다.",
+  "중재 치료는 Am80(Tamibarotene), Gemcitabine, nab-Paclitaxel 병용요법입니다."
  ],
- "last_updated": "2026-11-18",
+ "last_updated": "2026-11-19",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +49,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05064618"
  },
- "summary_ko": "본 임상시험은 수술이 불가능한 췌장암(pancreatic cancer) 환자를 대상으로 Am80(타미바로텐, 개발 코드명: MIKE-1)을 gemcitabine(젬시타빈) 및 nab-paclitaxel(납-파클리탁셀)과 병용 투여하여 안전성과 내인성을 평가하고 권장 용량을 결정하기 위해 시행되었습니다. 연구자들은 암세포 성장을 억제하는 암 억제성 암관련섬유아세포(rCAF)의 마커인 Meflin을 규명하였으며, 합성 레티노이드인 Am80이 암 촉진성 섬유아세포(pCAF)를 rCAF로 전환하여 항암제 감수성을 높이는 기전을 바탕으로 연구를 진행했습니다. 본 연구는 총 60명의 환자를 목표로 일본 나고야 대학교(Nagoya University)에서 진행된 1상 및 2상(Phase 1/2) 임상시험입니다.",
+ "summary_ko": "본 임상시험은 수술이 불가능한 췌장암 환자 60명을 대상으로 Am80(타미바로텐, 개발 코드명: MIKE-1)을 젬시타빈(gemcitabine), 냅-파클리탁셀(nab-Paclitaxel)과 병용 투여하여 안전성과 내인성을 평가하고 권장 용량을 결정하기 위해 시행되었습니다. 암세포 성장을 억제하는 암세포 억제성 암관련섬유아세포(rCAF)로 전환시키는 약물인 Am80을 기존 항암제와 함께 사용하여 치료 효과를 탐색적으로 조사했습니다. 초록에 명시되지 않음",
  "summary_source": "llm",
  "tags": [
   "Am80",
@@ -63,13 +63,13 @@
   "Vitamin A"
  ],
  "title": "Investigator-initiated Clinical Trial of MIKE-1",
- "title_ko": "MIKE-1 연구자 주도 임상시험: 수술 불가 췌장암 환자에서 Am80(타미바로텐)과 젬시타빈,  nab-파클리탁셀 병용요법",
+ "title_ko": "수술 불가 췌장암 환자를 대상으로 Am80(타미바로텐, Tamibarotene)과 젬시타빈(Gemcitabine), 냅-파클리탁셀(nab-Paclitaxel) 병용요법을 평가하는 제1/2상 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 7차 췌장암 치료 프로토콜에 따라 조직학적 또는 세포학적으로 선암(adenocarcinoma)으로 진단된 수술 불가 췌장암 환자.\n- 해당 질환에 대해 이전에 항암 치료(방사선, 항암화학요법, 면역요법, 수술 등)를 받은 적이 없는 환자.\n- 동의 시점 연령이 20세 이상 79세 이하인 환자.\n- 스크리닝 시 조영증강 CT로 확인된 RECIST ver 1.1 기준 일차 췌장 병변에 측정 가능한 병변이 최소 1개 이상 있는 환자.\n- ECOG 수행능력(Performance Status)이 0 또는 1인 환자.\n\n제외 기준:\n- 조절되지 않는 심장 질환, 조절되지 않는 당뇨병 또는 고혈압, 스테로이드나 면역억제 치료가 필요한 활동성 자가면역 질환, 간질성 폐렴 또는 폐섬유증이 있는 환자.\n- 뇌전이가 확인된 환자.\n- 배액이 필요한 복수 또는 흉수가 있는 환자.\n- HBs 항원 양성, HCV 항체 및 HCV-RNA 양성, HIV 항체 양성 환자.\n- 2등급 이상의 말초 감각성 또는 운동성 신경병증이 있는 환자.",
+  "eligibility_ko": "선정 기준:\n- 췌관선암(adenocarcinoma)으로 조직학적 또는 세포학적으로 진단된 수술 불가 췌장암 환자\n- 본 질환에 대해 항암 치료(방사선, 항암화학요법, 면역요법, 수술, 임상시험 치료 등)를 받은 적이 없는 환자\n- 동의 시점 연령이 20세 이상 79세 이하인 환자\n- 스크리닝 시 조영증강 CT로 확인된 원발성 췌장 병변에 RECIST ver 1.1 기준 측정 가능 병변이 최소 1개 이상 있는 환자\n- ECOG 수행능력 상태(Performance Status)가 0 또는 1인 환자\n\n제외 기준:\n- 조절되지 않는 심장 질환(울혈성 심부전, 심근경색, 불안정형 협심증 등) 또는 치료가 필요한 부정맥 환자\n- 뇌전이가 확인된 환자\n- 배액이 필요한 복수 또는 흉수가 있는 환자\n- Grade 2 이상의 말초 감각 또는 운동 신경병증이 있는 환자\n- 비타민 A 과부하 환자 또는 비타민 A 제제 투여 환자",
   "eligibility_text": "* Inclusion Criteria:\n\n  \\- Patients who meet all of the following criteria will be eligible for this study. Besides, CTCAE v5.0 will be used to determine the grade of adverse events in this study.\n  1. Patients with unresectable pancreatic cancer who are histologically or cytologically diagnosed as adenocarcinoma based on the 7th edition of the Pancreatic Cancer Treatment Protocol and meet the following criteria.\n\n     Patients who have not received any anticancer therapy (radiation therapy, chemotherapy, immunotherapy, surgery, or investigational therapy) for this disease.\n  2. Patients who are between 20 and 79 years of age at the time of consent.\n  3. Patients with at least one measurable lesion based on RECIST ver 1.1 in the primary pancreatic lesion confirmed by contrast-enhanced CT at the screening.\n  4. Patients who are expected to survive for at least 12 weeks after the start of treatment.\n  5. Patients who can understand the contents of this study and can give written consent.\n  6. Patients with ECOG PS (Eastern Cooperative Oncology Group Performance Status) of 0 or 1\n  7. Patients who meet the following criteria in blood tests within 7 days before enrollment and whose organ functions are preserved (if blood transfusion is used, tests must be performed at intervals of at least 2 weeks afterward)\n\n     * Total bilirubin ≤ upper limit of institutional standard (ULN) x 1.5 (less than or equal to 3.0 mg/dL for patients undergoing ERBD or PTBD)\n     * AST (GOT) and ALT (GPT) ≦ ULN × 3 (In the case of abnormal liver function due to malignancy, ≤ ULN × 5)\n     * Creatinine ≤ 1.5 mg/dL or\n     * Creatinine clearance ≥ 60ml/min If creatinine clearance is not measured, the estimated value should be used.\n     * White blood cell count ≥ 3,500/mm3, ≤ 12,000/mm3\n     * Neutrophils ≥ 1,500/mm3\n     * Platelet count ≥ 100,000/mm3\n     * Hemoglobin ≥ 9.0g/dL\n     * Prothrombin activity level ≥ 70%\n  8. Outpatients who can go to the hospital.\n  9. Patients who can swallow or continue to take oral medications.\n  10. For women of childbearing potential, patients who can use contraception for at least 30 days before the start of study treatment, during the study period, and for at least 2 years after the end of treatment.\n  11. Patients who can undergo biopsy from pancreatic cancer ①within 28 days before the start of the study treatment and ② 8 weeks after the start of the study treatment (Day 57: acceptable range: ±7 days)\n* Exclusion Criteria:\n\n  1. Patients with any of the following complications Patients with poorly controlled heart disease (congestive heart failure, myocardial infarction, or unstable angina within 1 year before enrollment, arrhythmia requiring treatment, etc.) Poorly controlled diabetes or hypertension Active autoimmune disease requiring systemic administration of steroids or immunosuppression therapy Interstitial pneumonia or pulmonary fibrosis (patients with current grade 2 or higher)\n  2. Patients who have received other clinical trial drugs or products (excluding existing chemotherapeutic agents and placebo drugs) within 4 weeks before enrolment.\n  3. Patients with confirmed brain metastasis (confirmed by head CT or MRI if the patient has symptoms of brain metastasis)\n  4. Patients with ascites or pleural effusion requiring drainage.\n  5. Patients who fall under any of the following HBs antigen positive HCV antibody positive and HCV-RNA positive HIV antibody positive\n  6. Patients with Grade 2 or higher peripheral sensory or motor neuropathy\n  7. Patients with multiple cancers (multiple cancers are defined as simultaneous multiple cancers and metachronous multiple cancers with disease-free survival of 5 years or less. lesions equivalent to carcinoma in situ or intramucosal carcinoma that are considered curable by local treatment are not included in multiple cancers)\n  8. Patients who have undergone surgery (excluding diagnostic biopsy and review laparoscopy) within 4 weeks before enrollment.\n  9. Patients with bleeding disorders or coagulation disorders that preclude the safe biopsy under EUS (e.g., significant intratumoral bleeding, coagulation disorders, history of bleeding disorders, or complications).\n  10. Patients with a history of allergy to the trial drug, combination chemotherapy, its additives, or vitamin A products.\n  11. Patients requiring anticoagulant medication.\n  12. Patients with cerebral infarction, pulmonary infarction, other arterial or venous thrombosis or its sequelae with clinical symptoms.\n  13. Patients with gastrointestinal disorders that may affect the absorption of the investigational drug.\n  14. Female patients who are pregnant or breastfeeding (unless breastfeeding is discontinued and not resumed).\n  15. Male patients whose sex partner is a woman who wishes to become pregnant.\n  16. Patients with vitamin A overload.\n  17. Patients receiving vitamin A preparations or regularly using vitamin A-containing supplements (patients can be enrolled if the administration is discontinued at the time of obtaining consent).\n  18. Other patients deemed inappropriate by the investigator or sub-investigator.",
   "enrollment": 60,
   "has_results": false,
@@ -88,25 +88,19 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "뇌전이가 확인된 환자",
-    "조절되지 않는 심장 질환, 당뇨병, 고혈압",
-    "활동성 자가면역 질환",
-    "B형·C형 간염 또는 HIV 양성",
-    "2등급 이상의 말초 신경병증"
+    "조절되지 않는 심장 질환",
+    "뇌전이",
+    "배액이 필요한 복수 또는 흉수",
+    "Grade 2 이상 말초 신경병증",
+    "비타민 A 과부하 또는 비타민 A 제제 투여 환자"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없는 수술 불가 췌장암 환자를 위한 Am80, 젬시타빈, 납-파클리탁셀 병용 1/2상 임상시험",
-   "prior_excluded": [
-    "gemcitabine",
-    "taxane",
-    "immunotherapy",
-    "radiotherapy"
-   ],
+   "notes_ko": "이전 치료력이 없는 수술 불가 국소진행 췌장암 환자",
+   "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
     "locally_advanced"
    ],
    "source": "llm"

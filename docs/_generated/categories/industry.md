@@ -16,12 +16,28 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 43건 · 최근 30일 26건
+전체 44건 · 최근 30일 27건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43044527"></a>
+#### [췌장암 절제술 후 근감소증과 불리한 예후를 연결하는 기전에 관한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43044527/)
+<small>Mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection: A systematic review</small>
+
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-13 · PubMed · Eur J Surg Oncol · 중요도 0.71
+
+본 연구는 췌장암 수술 환자에게 흔히 발생하는 근감소증(sarcopenia)이 수술 후 나쁜 예후로 이어지는 원인 기전을 체계적으로 종합하고 평가했습니다. Embase, Scopus, PubMed 등을 통해 3944건의 기록을 검색하여 최종 38개의 연구를 분석했습니다. 주요 기전으로는 만성 전신 염증(23%), 공격적인 종양 생물학 및 진행된 병기(17%), 면역 기능 장애(17%), 대사 이상 및 고이화 상태(14%) 등이 확인되었습니다. 연구진은 대부분의 연구가 생존 결과를 보고했으나 수술 후 합병증을 조사한 경우는 상대적으로 적었다고 밝혔습니다.
+
+- 총 3944건의 기록 중 38개의 연구가 선정 기준을 충족했습니다.
+- 가장 빈도가 높게 보고된 기전은 만성 전신 염증(23%)이었으며, 공격적인 종양 생물학 또는 진행된 병기(17%), 면역 기능 장애(17%)가 뒤를 이었습니다.
+- 대사 이상 및 고이화 상태는 14%, 감소된 기능적 예비능은 11%, 근육 유래 내분비 신호 전달 변화는 7%로 나타났습니다.
+- 영양실조와 손상된 조직 치유는 각각 6%를 차지했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43044527/) · [DOI](https://doi.org/10.1016/j.ejso.2026.112380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43044527)</small>
+
+---
 <a id="pmid-43040186"></a>
 #### [다락소나십: 최초 승인](https://pubmed.ncbi.nlm.nih.gov/43040186/)
 <small>Daraxonrasib: First Approval</small>

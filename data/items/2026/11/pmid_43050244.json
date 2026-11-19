@@ -1,0 +1,58 @@
+{
+ "abstract": "Oligometastatic pancreatic ductal adenocarcinoma (PDAC) represents a distinct clinical state in which carefully selected patients may benefit from local consolidative therapy (LCT) in addition to systemic therapy. Standardized consensus definitions, retrospective studies, and the randomized phase II EXTEND trial have established the foundation for prospective evaluation of LCT in this population. In this review, we summarize evolving definitions of oligometastatic and oligoprogressive PDAC, review current evidence supporting LCT, and highlight ongoing prospective studies designed to validate its role and refine patient selection. We also discuss emerging opportunities to integrate biomarkers into future treatment paradigms. Collectively, these advances are shifting the field toward biology-informed, multidisciplinary management of patients with oligometastatic and oligoprogressive PDAC.",
+ "authors": [
+  "Chang E",
+  "Koay E",
+  "Ludmir E"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050244",
+ "importance": 0.71,
+ "key_points_ko": [
+  "과소전이성 췌관선암(PDAC) 환자 중 신중히 선택된 환자는 전신 치료 외에 국소 공고 치료(LCT)의 혜택을 받을 수 있습니다.",
+  "무작위 2상 EXTEND 임상시험 등이 이 집단에서 국소 치료를 전향적으로 평가할 수 있는 근거를 마련했습니다.",
+  "향후 치료 패러다임은 생체표지자를 통합하여 생물학적 특성에 기반한 다학제적 관리로 이동하고 있습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1097/PPO.0000000000000858",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050244"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050244/"
+ },
+ "summary_ko": "이 논문은 과소전이성 및 과소진행성 췌관선암(PDAC) 환자에서 전신 치료와 함께 국소 공고 치료(LCT)의 역할에 대한 최신 문헌을 검토합니다. 표준화된 합의 정의, 후향적 연구, 무작위 2상 EXTEND 임상시험 등을 바탕으로 국소 치료의 근거를 정리했습니다. 또한 환자 선별을 개선하고 생체표지자(biomarker)를 통합하기 위한 진행 중인 전향적 연구들을 조명합니다. 이러한 발전은 생물학적 특성에 기반한 다학제적 관리로 패러다임을 전환하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Oligometastatic and Oligoprogressive Pancreatic Adenocarcinoma: New Frontiers for Local Therapy",
+ "title_ko": "과소전이성 및 과소진행성 췌장관선암: 국소 치료의 새로운 지평",
+ "trial": null,
+ "type": "paper"
+}

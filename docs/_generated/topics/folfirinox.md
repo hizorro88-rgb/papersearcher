@@ -17,10 +17,11 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (73)
+## 관련 임상시험 (74)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [췌장 췌관선암 환자의 췌십이지장절제술 시 전체 췌장간막 절제술의 효과 비교](../trials/NCT07946380.md) | 해당 없음 | 모집 예정 | - |
 | [MTAP 결손 췌장암 환자에서 수술 전후 navlimetostat와 변형 FOLFIRINOX 병용요법에 대한 연구](../trials/NCT07905131.md) | 1상/2상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
 | [국소진행성 췌장암에서 유도 항암화학요법, MR-LINAC 방사선치료, 수술적 탐색술을 통한 절제율 향상 제2상 임상시험](../trials/NCT07871461.md) | 2상 | 모집 예정 | - |
@@ -91,19 +92,26 @@ search:
 | [국소 진행성 췌장암 환자에서 GEMBRAX 및 FOLFIRINOX 순차 치료 후 자기공명영상 유도 정위적 방사선 치료](../trials/NCT04570943.md) | 2상 | 모집 중 | - |
 | [수술 전 췌장암 선행화학요법 임상시험 (PANCREAS)](../trials/NCT04452461.md) | 2상 | 모집 중 | - |
 | [위장관·췌장 및 원발부위 불명의 전이성 3등급 저분화 신경내분비암종 환자를 대상으로 한 항암화학요법 2상 임상시험](../trials/NCT04325425.md) | 2상 | 모집 중 | - |
-| [절제 가능한 췌장암 환자에서 FOLFIRINOX와 Digoxin 병용 요법 임상시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
+| [수술 가능한 췌장암 환자에서 FOLFIRINOX와 Digoxin 병용 요법의 임상 2상 시험](../trials/NCT04141995.md) | 2상 | 조기 종료 | - |
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
 ## 타임라인 (21)
 
 <a id="pmid-43040170"></a>
-#### [Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery](https://pubmed.ncbi.nlm.nih.gov/43040170/)
-`논문` `관찰연구` `치료 전반` `수술` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
+#### [국소 진행성 췌장암 수술 시 장간막문맥 단락술: 종양혈관 췌장 수술을 위한 표준화된 접근법의 결과](https://pubmed.ncbi.nlm.nih.gov/43040170/)
+<small>Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery</small>
 
-BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-16 · PubMed · Ann Surg Oncol · 중요도 0.77
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+이 연구는 국소 진행성 췌장관암(LA-PDAC) 환자 155명을 대상으로 일시적 장간막문맥 단락술(TMPS)을 적용한 대규모 환자군의 수술 및 생존 결과를 후향적으로 분석했습니다. 대부분의 환자가 수술 전 항암치료를 받았으며 정맥 절제술과 함께 동맥 절제술도 시행되었습니다. 전체 생존기간(OS) 중앙값은 진단 시점부터 32.7개월, 수술 시점부터 17.46개월로 나타났습니다. 수술 후 사망률은 6.4%, R0 절제율은 56%였습니다. 연구진은 TMPS가 복잡한 정맥 절제와 동맥 절제를 용이하게 하는 표준화되고 재현 가능한 기법이라고 결론지었습니다.
+
+- 총 155명의 국소 진행성 췌장관암(LA-PDAC) 환자가 일시적 장간막문맥 단락술(TMPS)을 받았습니다.
+- 진단 시점부터의 전체 생존기간(OS) 중앙값은 32.7개월, 수술 시점부터는 17.46개월이었습니다.
+- 수술 후 1년, 3년, 5년 생존율은 각각 70%, 29%, 21%였습니다.
+- 수술 후 사망률은 6.4%, R0 절제율(암세포가 남지 않게 절제된 비율)은 56%를 기록했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
 
 ---
 <a id="doi-10.21203-rs.3.rs-11496243-v1"></a>

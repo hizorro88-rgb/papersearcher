@@ -1,0 +1,63 @@
+{
+ "abstract": "IntroductionLittle is known about the effects of disabilities on the clinical management of pancreatic cancer (PC). This study evaluated the diagnosis, treatment, and prognosis of PC according to severity and type of disabilities.MethodsAn age- and sex-matched retrospective cohort was established comprising 2,776,450 people with disabilities and 8,329,350 people without disabilities (1:3 ratio). Demographic, socioeconomic and medical data were obtained from the National Disability Database, the Korean Central Cancer Registry, and the Korean National Health Insurance claims database. Adult patients diagnosed with PC were included in this study. Disabilities were categorized as physical, brain, communication, mental, or internal organ disorders.ResultsThe cohort included 12,402 patients with PC. The recorded diagnosis rate of PC (per 105 persons) was lower among people with disabilities than among those without disabilities (102.1 vs. 114.9, P<0.0001). People with disabilities were diagnosed with PC at an earlier age (P<0.0091), had a higher Charlson Comorbidity Index score (2.10 vs 1.47), and were more likely to be below the poverty line (13.3% vs. 5.8%) than those without disabilities. People with severe disabilities were diagnosed with PC at an earlier age than those without disabilities, but were less likely to undergo surgery (adjusted odds ratio [aOR], 0.63; 95% confidence interval [CI], 0.50-0.79) or chemotherapy (aOR, 0.50; 95% CI, 0.42-0.59). The overall mortality rate was higher among patients with disabilities than among those without disabilities (adjusted hazard ratio [aHR], 1.09; 95% CI, 1.04-1.14). Cancer-specific mortality was also higher among patients with disabilities (aHR, 1.08; 95% CI, 1.03-1.13), with particularly elevated risks observed among those with severe disabilities (aHR, 1.25; 95% CI, 1.16-1.35) and mental disorders (aHR, 1.41; 95% CI, 1.10-1.80).ConclusionsIn Korea, people with disabilities are generally diagnosed with PC at a lower rate, are less likely to receive standard treatment, and have a lower survival rate than people without disabilities. These findings suggest disparities in access to timely diagnosis and cancer care and support the need for systemic efforts to ensure equal access to quality cancer care for people with disabilities.",
+ "authors": [
+  "Kim SY",
+  "Park SM",
+  "Yeob KE",
+  "Shin DW",
+  "Park JH",
+  "Park BH",
+  "Park JH"
+ ],
+ "categories": [
+  "treatment",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050208",
+ "importance": 0.69,
+ "key_points_ko": [
+  "장애인의 췌장암 진단율은 비장애인보다 낮았습니다 (10.2명 vs 11.5명/10만 명, P<0.0001).",
+  "중증 장애인은 비장애인에 비해 수술을 받을 확률이 낮았습니다 (수정 오즈비[aOR] 0.63, 95% 신뢰구간[CI] 0.50-0.79).",
+  "중증 장애인은 비장애인에 비해 항암화학요법을 받을 확률이 낮았습니다 (수정 오즈비[aOR] 0.50, 95% 신뢰구간[CI] 0.42-0.59).",
+  "장애인의 전체 사망률(수정 위험비[aHR] 1.09)과 암 특이 사망률(수정 위험비[aHR] 1.08)은 비장애인보다 더 높았습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1177/10732748261509885",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050208"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Control",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050208/"
+ },
+ "summary_ko": "이 연구는 장애의 심각도와 유형에 따른 췌장암(pancreatic cancer, PC)의 진단, 치료, 예후를 평가했습니다. 국민장애인등록 데이터베이스, 중앙암등록본부, 건강보험 청구 데이터를 활용하여 성별과 연령이 일치하는 후향적 코호트를 구축했습니다. 총 12,402명의 췌장암 환자가 포함되었으며, 장애인은 비장애인에 비해 진단율이 낮고 수술이나 항암화학요법을 받을 확률이 낮았습니다. 또한 장애인은 비장애인보다 전체 사망률과 암 특이 사망률이 더 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The Effect of Disability on the Diagnosis and Treatment of Pancreatic Cancer in the Republic of Korea: A National Retrospective Cohort Study",
+ "title_ko": "대한민국에서 장애가 췌장암 진단 및 치료에 미치는 영향: 국가 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

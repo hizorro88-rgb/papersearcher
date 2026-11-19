@@ -7,8 +7,8 @@
   "Bachellier P"
  ],
  "categories": [
-  "treatment",
-  "surgery"
+  "surgery",
+  "treatment"
  ],
  "entities": [
   "folfirinox",
@@ -26,7 +26,12 @@
  ],
  "id": "pmid:43040170",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 155명의 국소 진행성 췌장관암(LA-PDAC) 환자가 일시적 장간막문맥 단락술(TMPS)을 받았습니다.",
+  "진단 시점부터의 전체 생존기간(OS) 중앙값은 32.7개월, 수술 시점부터는 17.46개월이었습니다.",
+  "수술 후 1년, 3년, 5년 생존율은 각각 70%, 29%, 21%였습니다.",
+  "수술 후 사망률은 6.4%, R0 절제율(암세포가 남지 않게 절제된 비율)은 56%를 기록했습니다."
+ ],
  "last_updated": "2026-11-18",
  "links": {
   "doi": "10.1245/s10434-026-20910-y",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43040170/"
  },
- "summary_ko": "BACKGROUND: Surgery for locally advanced pancreatic ductal adenocarcinoma (LA-PDAC) remains technically demanding, particularly in presence of extensive venous involvement. A temporary mesenterico-portal shunt (TMPS) facilitates long venous resection and enables safe arterial resection, but evidence is limited to small series.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 국소 진행성 췌장관암(LA-PDAC) 환자 155명을 대상으로 일시적 장간막문맥 단락술(TMPS)을 적용한 대규모 환자군의 수술 및 생존 결과를 후향적으로 분석했습니다. 대부분의 환자가 수술 전 항암치료를 받았으며 정맥 절제술과 함께 동맥 절제술도 시행되었습니다. 전체 생존기간(OS) 중앙값은 진단 시점부터 32.7개월, 수술 시점부터 17.46개월로 나타났습니다. 수술 후 사망률은 6.4%, R0 절제율은 56%였습니다. 연구진은 TMPS가 복잡한 정맥 절제와 동맥 절제를 용이하게 하는 표준화되고 재현 가능한 기법이라고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장암 수술 시 장간막문맥 단락술: 종양혈관 췌장 수술을 위한 표준화된 접근법의 결과",
  "trial": null,
  "type": "paper"
 }

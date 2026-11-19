@@ -1,0 +1,58 @@
+{
+ "abstract": "Nisha-Amalaki (NA), an Ayurvedic formulation of Curcuma longa (Nisha) and Emblica officinalis (Amalaki), is traditionally used for glycemic control and antioxidant support. Since diabetes mellitus (DM) and pancreatic cancer (PC) share metabolic-inflammatory mechanisms, this study employed integrative computational approaches to identify NA phytochemicals and their putative molecular targets mediating dual antidiabetic and anticancer effects. NA phytochemicals were retrieved from databases and literature, filtered through ADMET and drug-likeness criteria, and mapped to DM- and PC-related genes. From 311 reported NA phytochemicals, curcumin (an.), divanillalaceton, and caffeic acid emerged as principal phytochemicals. Enrichment analysis implicated IL-6/JAK/STAT3, apical junction, and apoptosis pathways. Box plot analysis showed all 14 hub genes were upregulated in PC tissues, while high EGFR and MMP1 expression correlated with poorer survival. Among the 14 hub genes, eight key genes were further refined by topology algorithms, that is, APP, TLR4, NOS2, EGFR, MMP9, STAT3, NFE2L2, and ALOX5. Cytotoxicity predictions suggested potential antiproliferative activity of the phytochemicals against multiple PC cell lines. Molecular docking and dynamics indicated thermodynamically stable phytochemical-target interactions, with curcumin (an.) showing stronger EGFR binding than gefitinib. This study provides computational evidence supporting NA's potential in treating PC and DM; probably via modulating inflammatory, metabolic, and junctional pathways.",
+ "authors": [
+  "Sivakumar H",
+  "Sim KS",
+  "Tan CH"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43046161",
+ "importance": 0.56,
+ "key_points_ko": [
+  "311개의 Nisha-Amalaki(NA) 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 확인되었습니다.",
+  "14개의 핵심 유전자 모두 췌장암 조직에서 발현이 증가했으며, 높은 EGFR 및 MMP1 발현은 더 나쁜 생존율과 상관관계를 보였습니다.",
+  "curcumin(an.)은 분자 도킹 분석에서 gefitinib보다 더 강한 EGFR 결합력을 보였습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1177/15578100261505563",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43046161"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "OMICS",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046161/"
+ },
+ "summary_ko": "본 연구는 인도 전통 아유르베다 제제인 Nisha-Amalaki(NA)의 식물성 화학 물질이 당뇨병(diabetes mellitus)과 췌장암(pancreatic cancer)에 미치는 동시 항당뇨 및 항암 효과의 분자적 표적을 규명하기 위해 통합적 전산 분석(integrative computational approaches)을 수행했습니다. 311개의 NA 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 도출되었습니다. 네트워크 분석 결과 IL-6/JAK/STAT3, 정점 접합(apical junction), 세포사멸(apoptosis) 경로 등이 관여하는 것으로 나타났습니다. 분자 도킹(molecular docking) 및 동역학 분석에서 curcumine(an.)은 gefitinib보다 더 강한 EGFR 결합력을 보였습니다. 본 연구는 NA가 염증, 대사 및 접합 경로 조절을 통해 췌장암과 당뇨병 치료에 잠재력이 있음을 시사하는 전산학적 근거를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Integrative Computational Analysis of the Putative Molecular Crosstalk Between Diabetes Mellitus and Pancreatic Cancer: A Network Pharmacology Study of Nisha-Amalaki",
+ "title_ko": "당뇨병과 췌장암 간의 잠재적 분자 교차작용에 대한 통합적 전산 분석: Nisha-Amalaki의 네트워크 약리학 연구",
+ "trial": null,
+ "type": "paper"
+}

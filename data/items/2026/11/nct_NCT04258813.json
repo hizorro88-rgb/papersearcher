@@ -1,0 +1,125 @@
+{
+ "abstract": "The proposed ONE TEAM Study is an 18-month, cluster randomized controlled trial. This study will use a sequential multiple assignment randomized trial (SMART) design with a second randomization for the intervention group using a dynamic treatment regimen approach. The investigators propose to randomize 800 adults with newly-diagnosed selected cancers treated with curative intent (breast, prostate, colorectal, endometrial, non-small cell lung, and endometrial) and with \\>1 selected cardiovascular disease (CVD) comorbidity (hypertension, type 2 diabetes mellitus, hypercholesterolemia). Participants will be enrolled through Duke Cancer Institute and two community-based oncology practices, both settings serving socio-demographically diverse populations. The unit of randomization will be the PCP clinic; there will be \\~80 PCP clinics across North Carolina involved in the study. The overarching goals of this study are to improve chronic disease management and communication among cancer survivors by engaging PCPs as active members of the cancer care team and reframing the message to cancer survivors and providers.\n\nA diversity supplement with retrospective and qualitative components has been added to abstract older adults with solid tumors who underwent cancer surgery at DUHS. Aims include (1) to estimate the prevalence of cardiovascular complications ≤90 postoperative days among older adults with solid tumors undergoing surgery, and its association with care coordination between surgical providers and PCPs ; (2) to develop a risk index for cardiovascular complications ≤90 days of surgery among older adult patients with a solid tumor; and (3) to Assess experience and perceptions of PCPs on care coordination with surgical providers of older adults with a solid tumor following cancer surgery.\n\nThis is an 18-month cluster randomized controlled trial using a SMART design with two randomizations (the second using an embedded dynamic treatment regimen), with a target enrollment of 800 patients with one of six solid tumors (stage I-III breast, prostate, colorectal, endometrial, and head/neck cancer; stage I-II non-small cell lung cancer) who are being treated with curative intent. To engage the PCP early in the process, the investigators will enroll patients at one of their first visits with a cancer specialist (e.g., surgeon, radiation or medical oncologist). The investigators estimate that 80 unique community-based PCP clinics across North Carolina will be involved in the study. The investigators will determine the effectiveness of the multi-level intervention compared with usual care on (1) Healthcare Effectiveness Data and Information Set (HEDIS) quality measures of management of the three CVD comorbidities using laboratory testing (glycated hemoglobin \\[A1c\\], lipid profile) and blood pressure measurements; (2) medication adherence assessed pharmacy refill data using Proportion of Days Covered (PDC); and (3) patient-provider communication (Patient-Centered Communication in Cancer Care, PCC-Ca-36).\n\nKey aspects of the intervention are to: reframe the message to patients, PCPs, oncologists, and the respective health care teams in these two settings to emphasize the importance of optimizing the management of comorbidities during and after cancer therapy; promote a change in the workflow in both PCP and oncology practices; enhance PCP-oncologist relationships, and utilize EHR technology. There are two phases of the intervention, both having patient- and PCP-level components. During the first phase of the intervention, occurring with the first randomization, the investigators will test the effectiveness of a self-guided, informational strategy (iGuide). For PCP clinics that do not achieve the HEDIS targets, a booster phase with tailored (patient-level) and targeted (PCP-level) strategies will be tested with a second randomization (iGuide2).\n\nThe intervention has been designed to leverage communication tools with in our electronic health record (EHR), Epic . For patients who agree to receive study communications through Epic's patient portal, MyChart, we created an automated messaging system using a dynamic, rules-based protocol which determines the proper language to send each subject based on their study arm and time since enrollment. We developed a similar rules-based automated messaging system for provider communications. This method sends letters to a provider's Epic inbox, called InBasket, for Duke providers and PCPs in the community who have limited access to the Duke EMR through a portal called MedLink. Epic will send letters to PCPs outside of Duke who do not have MedLink access by fax. These outside providers will also be given the opportunity to enroll in MedLink if they are interested.\n\nAll participants in the study will be given a survivorship care plan based on the American Society of Clinical Oncology (ASCO) template. Because the investigators will be recruiting participants at our cancer centers and community practices, there will be an inevitable contamination across cancer specialists. Thus, the investigators did not include an oncology-level intervention. However, cancer specialists are integral to the patient- and PCP-level interventions. At the end of the study, patients and PCPs will be mailed a newsletter with a summary of the study findings. Lastly, it is inevitable that some patients will change their PCP during the study. When notified of the change, the research team will send the new PCP the intervention materials.\n\nSupplement:\n\nA retrospective data analysis of Duke cancer registry data integrated with EHR data elements linked by the medical record number will done. The study cohort will consist of older adults ≥65 years who have ≥1 cardiovascular comorbidity (hypertension, type 2 diabetes, dyslipidemia) and underwent cancer surgery for solid tumors at DUHS from January 1st, 2017 to December 31st 2019. Cancers of interest are breast, prostate, colorectal, endometrial, gastric, esophageal, liver, pancreatic, renal cell, bladder, ovarian, head/neck, and non-small cell lung cancer. Cancer diagnoses will be grouped according to the International Classification of Diseases for Oncology, 3rd revision (ICD-O-3). Key variables to be abstracted include demographic, clinical (comorbidities \\& pertinent history, medications, cancer treatment, labs), geriatric-specific (frailty, function, cognition, operative, post-operative, and PCP follow-up data.\n\nThe qualitative component will involve semi-structured interviews with PCPs of older adults with solid tumors who underwent cancer surgery within a 12-month period in the DUHS. Participating PCPs will complete an audio-recorded semi-structured interview that will last approximately 30 minutes. Qualitative interview: We will design a semi-structured interview guide assessing perspectives on (1) frequency, modes, and perceived quality of communication with surgical providers during transitions in care from surgery (2) perceived barriers to effective care coordination with surgical providers (3) how communication and care coordination can be improved. Open-ended prompts may include \"Please describe your experience with care coordination with surgical providers of older adults undergoing cancer surgery?\" \"What challenges have you faced when communicating with surgical providers of your older adult patients?\"; \"What are your thoughts on ways to improve communication and care coordination after an older adult with solid tumor undergoes surgery?\", \"Please give examples of particularly good or poor care coordination with surgical providers?\" The interview guide will be designed with assistance from the experienced research staff in the Duke Behavioral Health and Survey Research Core.\n\nPower re-estimation:\n\nOur original power calculations were completed using methods described in Eldridge et al (ref). At the time of project development, the number of practices (40 per arm) and number of patients per practice (10) were unknown, but we estimated the 10 when computing planned sample size for the study. Following enrollment patterns over time, it has been determined that the average number of patients per practice is much smaller, 1.81, presently. If we had this information at time of study planning, based on the design effect and our original effect size, we see that with smaller sample size than originally planned/proposed, we still retain high power, primarily due to the reduction in the design effect (DE). Using the revised calculations, we estimate a power of 0.85-0.9 for 250 projected randomized participants and a power of 0.9 for 275 projected randomized participants.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04258813",
+ "importance": 0.64,
+ "key_points_ko": [
+  "목표 인원은 800명이며, 18개월 동안 군집 무작위 대조 시험(cluster randomized controlled trial)으로 진행됩니다.",
+  "일차 진료 의사와 암 전문의 간의 소통 및 만성 질환(고혈압, 당뇨병, 고콜레스테롤혈증) 관리를 개선하는 것을 목표로 합니다.",
+  "전자건강기록(EHR) 기반의 자동 메시지 시스템과 iGuide 중재 전략의 효과를 기존 치료와 비교합니다.",
+  "췌장암 환자는 본 임상시험의 대상 질환에 해당하지 않습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04258813"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2020-02-06",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Duke University",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04258813"
+ },
+ "summary_ko": "본 연구는 유방암, 전립선암, 대장암, 자궁내막암, 비소세포폐암, 두경부암 등을 진단받은 환자들을 대상으로 일차 진료 의사(PCP)와 암 전문의 간의 소통과 만성 질환 관리를 개선하기 위한 임상시험입니다. 800명의 성인 환자를 목표로 하며, 전자건강기록(EHR) 시스템을 활용한 정보 제공 및 맞춤형 중재 전략(iGuide 및 iGuide2)의 효과를 평가합니다. 주요 평가변수는 심혈관 질환 동반 질환 관리 품질 지표, 복약 순응도, 그리고 환자와 의료진 간의 소통입니다. 췌장암은 본 임상시험의 주요 대상 질환에 포함되지 않습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Onco-primary Care Networking to Support TEAM-based Care",
+ "title_ko": "팀 기반 암 치료를 지원하기 위한 일차 진료 네트워크 연결 연구",
+ "trial": {
+  "conditions": [
+   "Blood Pressure",
+   "Hypertension",
+   "Cancer",
+   "Cancer, Breast",
+   "Cancer of Prostate",
+   "Cancer Colorectal",
+   "Cancer, Endometrial",
+   "Cancer of Head and Neck",
+   "Non Small Cell Lung Cancer",
+   "CVD - Cardiovascular Disease",
+   "Diabetes Mellitus",
+   "Hypercholesterolemia",
+   "Diabetes",
+   "Cancer of Esophagus",
+   "Cancer of Liver",
+   "Cancer, Renal Cell",
+   "Cancer of Pancreas",
+   "Cancer Ovaries"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 1-3기 유방암(여성), 대장암, 자궁내막암, 두경부암, 비소세포폐암, 혹은 1-4기 전립선암 진단 환자\n- 완치 목적으로 치료를 받는 환자\n- 18세에서 79세 사이의 연령\n- 고혈압, 당뇨병, 고콜레스테롤혈증 중 최소 1개의 심혈관 동반 질환이 있는 환자\n- 지난 12개월 이내에 일차 진료 의사(PCP)를 방문한 이력이 있는 환자\n\n제외 기준:\n- 최근 24개월 이내 심근경색 병력이 있는 환자\n- 3-4기 심부전(박출률 <30%)이 있는 환자\n- 4-5기 만성 신장 질환(eGFR <30)이 있는 환자\n- 신경내분비종양 또는 자궁 육종 진단 환자\n- 양측 액와 림프절 청소술을 받은 환자",
+  "eligibility_text": "Inclusion Criteria:\n\nA total of 800 individuals who fall under the following criteria will be enrolled:\n\n* Diagnosed with -\n\n  * Stage I-III breast \\[female\\], colorectal, endometrial (carcinomas), head/neck \\[H/N\\] and non-small cell lung cancer \\[NSCLC\\]\n  * Stage I-IV prostate cancer\n  * Organ transplant recipients are not excluded as long as kidney function is within eligible range\n  * Chronic Lymphocytic Leukemia or small lymphocytic lymphoma on first or second line treatment\n* Treated with curative intent (not applicable for patients diagnosed with CLL/SLL)\n* 18-79 years old\n* Has at least one of three CVD comorbidities (hypertension, diabetes, or hypercholesterolemia) - based upon whether the patient is currently on a medication for the comorbidity at time of recruitment\n* Had a visit with their PCP in the previous 12 months\n\nPatients will be approached for study participation within 120 days of starting their cancer treatment at Duke (except for men with prostate cancer on androgen deprivation therapy \\[ADT\\] and those previously on active surveillance). Those coming off active surveillance to receive treatment will be approached within the next 120 days. Men with prostate cancer that are on ADT can be approached for consent at any time while on treatment.\n\nSupplement:\n\nA sample size of 2800-3000 patients will be pulled from the Duke Cancer Registry. The retrospective cohort will consist of older adults ≥65 years who have ≥1 CVD comorbidity (hypertension, type 2 diabetes, dyslipidemia) and underwent cancer surgery for solid tumors (breast, prostate, colorectal, endometrial, gastric, esophageal, liver, pancreatic, renal cell, bladder, ovarian, head/neck, and non-small cell lung cancer) at DUHS from January 1st, 2017 to December 31st 2019.\n\nThe qualitative component of the supplement (Appendix IV: Aim 3) will involve 12-20 PCPs who arepart of the Duke Primary Care Research Consortium. Eligible PCP participants will be English-speaking providers who have provided care to ≥1 older adult patient who has undergone cancer surgery within a 12-month period at DUHS.\n\nExclusion Criteria:\n\nIndividuals with a history of the following conditions will be ineligible:\n\n* Myocardial infarction in the previous 24 months\n* Stage III-IV heart failure (EF \\<30%)\n* Stage IV-V chronic kidney disease (eGFR \\<30)\n* Neuroendocrine tumors\n* Uterine sarcomas\n* Bilateral axillary dissections - due to the inability to collect an upper extremity BP\n\nPatients who are coming to Duke for surgery only and not planning to return are ineligible. Patients who cannot read, are blind or do not understand/speak English will not be enrolled.\n\nParticipants who progress to metastatic disease during the course of the 18-month study period will be allowed to continue to participate unless they voluntarily withdraw from the study.\n\nAdditional health information may be assessed on a case by case basis by the PI to determine if the individual is an appropriate candidate for the intervention.",
+  "enrollment": 313,
+  "has_results": false,
+  "interventions": [
+   "iGuide Intervention (Self-guided)",
+   "iGuide 2 Intervention (Tailored/Targeted)",
+   "Control"
+  ],
+  "last_update_posted": "2026-11-18",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "최근 24개월 이내 심근경색 병력",
+    "3-4기 심부전",
+    "4-5기 만성 신장 질환",
+    "신경내분비종양 또는 자궁 육종"
+   ],
+   "max_prior_lines": 1,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "초록에 명시된 주요 대상 질환은 유방암, 전립선암, 대장암, 자궁내막암, 비소세포폐암, 두경부암이며 췌장암은 포함되지 않습니다.",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "adjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": "79 Years",
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT04258813",
+  "phase": "NA",
+  "primary_completion_date": "2026-08-05",
+  "sex": "ALL",
+  "sponsor": "Duke University",
+  "start_date": "2021-06-14",
+  "status": "COMPLETED",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

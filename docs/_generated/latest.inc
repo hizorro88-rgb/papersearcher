@@ -1,20 +1,20 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,292</b><span>누적 수집<br><small>논문·소식 712 · 임상시험 580</small></span></div><div class="ps-stat"><b>+24</b><span>오늘 신규<br><small>갱신 17건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,323</b><span>누적 수집<br><small>논문·소식 737 · 임상시험 586</small></span></div><div class="ps-stat"><b>+31</b><span>오늘 신규<br><small>갱신 38건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-18](_generated/daily/2026/11/18.md)
+최근 수집일: [2026-11-19](_generated/daily/2026/11/19.md)
 
 <a id="nct-nct07491445"></a>
-#### [전이성 췌장암 환자의 1차 치료로서 daraxonrasib 단독요법 및 daraxonrasib 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
+#### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
 <small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
 
 **NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
 
-이 연구는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 시험용 RAS(ON) 저해제인 daraxonrasib의 안전성과 유효성을 평가하는 글로벌 3상 임상시험입니다. 환자들은 daraxonrasib 단독요법(A군), daraxonrasib + gemcitabine(젬시타빈) + nab-paclitaxel(나브-파클리탁셀) 병용요법(B군), 또는 표준 치료인 gemcitabine + nab-paclitaxel(C군)으로 무작위 배정됩니다. 이 시험은 1차 치료로서 표준 화학요법 단독과 비교하여 새로운 치료법의 효과를 확인하고자 합니다. 목표 참여 인원은 900명이며 국내 6개 기관이 포함되어 있습니다.
+이 임상시험은 전이성 췌장선암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 신약 RAS(ON) 저해제인 daraxonrasib 단독요법 또는 daraxonrasib과 gemcitabine 및 nab-paclitaxel(GnP) 병용요법의 안전성과 유효성을 평가합니다. 표준 치료인 gemcitabine 및 nab-paclitaxel 단독요법과 비교하는 무작위 배정, 공개, 글로벌 3상 임상시험입니다. 환자들은 daraxonrasib 단독, daraxonrasib + GnP, 또는 GnP 단독의 세 그룹 중 하나로 무작위 배정됩니다. 국내 6개 기관을 포함하여 총 900명의 환자를 모집할 예정입니다.
 
-- 대상 질환은 조직학적으로나 세포학적으로 확진된 전이성 췌장암(PDAC)입니다.
-- 총 3개의 치료군으로 무작위 배정되며 1차 치료로 진행됩니다.
-- 목표 인원은 900명이며 국내 6개 기관에서 참여합니다.
+- 대상 질환은 전이성 췌장선암(metastatic pancreatic adenocarcinoma)이며, 1차 치료로 진행됩니다.
+- 시험군은 daraxonrasib 단독(Arm A) 또는 daraxonrasib + gemcitabine 및 nab-paclitaxel(Arm B)이며, 대조군은 gemcitabine 및 nab-paclitaxel(Arm C)입니다.
+- 목표 환자 수는 총 900명이며 전 세계 여러 국가 및 국내 6개 기관에서 참여합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
@@ -35,21 +35,6 @@
 - 초록에 생존기간, 반응률, 위험비 등의 구체적인 유효성 수치는 명시되지 않음.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07802184) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07802184)</small>
-
----
-<a id="pmid-43007558"></a>
-#### [로봇 췌장 핵적출술 대 복강경 췌장 핵적출술: 메타분석](https://pubmed.ncbi.nlm.nih.gov/43007558/)
-<small>Robotic pancreatic enucleation versus laparoscopic pancreatic enucleation: a meta-analysis</small>
-
-`논문` `메타분석` `수술` · 2026-11-10 · PubMed · J Robot Surg · 중요도 0.95
-
-양성 및 저도 악성 췌장 종양 환자를 대상으로 로봇 췌장 핵적출술(RPE)과 복강경 췌장 핵적출술(LPE)의 효과와 안전성을 비교한 메타분석 연구입니다. 총 5개 연구에서 272명의 환자(복강경 144명, 로봇 128명)의 데이터를 분석했습니다. 수술 시간, 출혈량, 수술 후 췌장 누공 및 주요 합병증 발생률은 두 그룹 간 차이가 없었습니다. 로봇 수술 그룹에서 수술 후 입원 기간이 통계적으로 짧았으나 전체적인 차이를 단정하기에는 증거가 부족합니다.
-
-- 총 5개 연구의 환자 272명(복강경 144명, 로봇 128명)을 대상으로 수술 결과를 비교 분석했습니다.
-- 수술 시간, 수술 중 출혈량, 췌장 누공, 수술 후 출혈 및 주요 합병증 비율은 두 수술법 간에 통계적으로 유의한 차이가 없었습니다.
-- 수술 후 입원 기간은 로봇 수술 그룹이 유의하게 짧았으나(평균 차이 1.22일, p=0.01), 확정적인 회복상의 이점으로 결론짓기는 어렵습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43007558/) · [DOI](https://doi.org/10.1007/s11701-026-04143-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43007558)</small>
 
 ---
 <a id="pmid-43037855"></a>
@@ -81,5 +66,20 @@
 - 총 5개의 관찰 코호트에서 237명의 환자 데이터가 분석에 포함되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013192/) · [DOI](https://doi.org/10.1007/s12029-026-01629-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013192)</small>
+
+---
+<a id="pmid-43024239"></a>
+#### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
+<small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
+
+`논문` `3상` `치료 전반` `임상시험` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · JAMA Netw Open · 중요도 0.88
+
+이 연구는 이전 치료 경험이 없는 국소 진행성 수술 불가능 췌장관선암(LA-PAC) 성인 환자 571명을 대상으로 종양 치료 전기장(TTFields) 치료와 gemcitabine(젬시타빈), nab-paclitaxel(납-팍리탁셀) 병용요법의 효과를 평가한 PANOVA-3 3상 임상시험의 2차 분석 결과입니다. 연구진은 항암 화학요법 단독 투여군과 TTFields 병용 투여군의 삶의 질(QoL) 및 통증 지표를 비교했습니다. TTFields 병용 투여군은 단독 투여군에 비해 전반적 건강 상태와 통증 악화 없는 생존기간이 유의하게 길었습니다. 또한 마약성 진통제(오피오이드) 사용 시점도 연장시켰습니다.
+
+- 전반적 건강 상태의 악화 없는 생존기간(Deterioration-free survival) 중앙값은 TTFields 병용군 7.1개월, 단독군 5.7개월로 병용군이 유의하게 길었습니다(위험비 0.77, P=0.02).
+- 통증 악화 없는 생존기간 중앙값은 TTFields 병용군 10.1개월, 단독군 7.4개월이었으며(위험비 0.70, P=0.003), 췌장 통증 악화 없는 생존기간도 14.7개월 대 10.2개월로 병용군이 우수했습니다(위험비 0.69, P=0.006).
+- 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13768972/) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
 
 ---

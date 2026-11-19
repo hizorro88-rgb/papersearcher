@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic marker in pancreatic ductal adenocarcinoma (PDAC), but its incremental value beyond conventional preoperative factors and its performance relative to other immunonutritional or inflammatory indices remain unclear. We evaluated the prognostic significance and incremental value of the preoperative CONUT score in resectable PDAC.\nMETHODS: This multicenter retrospective study included 287 patients with resectable PDAC undergoing curative-intent pancreatectomy. Patients were stratified by preoperative CONUT score (0-1, 2-4, or ≥ 5). Overall survival (OS) and recurrence-free survival (RFS) were analyzed using Cox models with preoperative factors. Recurrence was evaluated using Gray's test and Fine-Gray regression, with death before recurrence as a competing event. For model comparison, the CONUT score and other immunonutritional or inflammatory indices were added separately to the preoperative base model and evaluated using the concordance index (C-index), Akaike information criterion (AIC), and likelihood ratio test.\nRESULTS: Five-year OS was 51.5%, 31.5%, and 18.6% for CONUT scores of 0-1, 2-4, and ≥ 5, respectively (p < 0.001). Higher CONUT categories were independently associated with worse OS (2-4, hazard ratio [HR] 1.604, p = 0.007; ≥ 5, HR 2.410, p < 0.001). Five-year RFS was 42.6%, 23.2%, and 17.4%, respectively (p < 0.001); higher CONUT categories remained independently associated with worse RFS (2-4, HR 1.543, p = 0.008; ≥ 5, HR 2.006, p = 0.002). Recurrence incidence increased with higher CONUT scores (Gray's test, p = 0.006). A high CONUT score (≥ 5) was independently associated with increased recurrence risk (subdistribution hazard ratio, 1.780; p = 0.022). Adding the CONUT score to the base model improved fit (C-index, 0.629; AIC, 1802.53; likelihood ratio test, p < 0.001). The prognostic nutritional index (PNI) also improved fit, with modest differences versus the CONUT score.\nCONCLUSIONS: The preoperative CONUT score was independently associated with OS and RFS after surgery for resectable PDAC and provided modest incremental prognostic information beyond conventional preoperative factors. A high CONUT score was associated with increased recurrence risk. These findings suggest that the CONUT score may help refine preoperative risk stratification.",
+ "authors": [
+  "Nakajima K",
+  "Sakata J",
+  "Hirose Y",
+  "Aono T",
+  "Takizawa K",
+  "Suzuki S",
+  "Ishikawa H",
+  "Maruyama T"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43046782",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1002/wjs.70693",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43046782"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "World J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046782/"
+ },
+ "summary_ko": "BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic marker in pancreatic ductal adenocarcinoma (PDAC), but its incremental value beyond conventional preoperative factors and its performance relative to other immunonutritional or inflammatory indices remain unclear. We evaluated the prognostic significance and incremental value of the preoperative CONUT score in resectable PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Incremental Prognostic Value of the Preoperative Controlling Nutritional Status Score in Patients Undergoing Surgery for Resectable Pancreatic Ductal Adenocarcinoma: A Multicenter Cohort Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

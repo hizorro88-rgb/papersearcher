@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer (PCA) is a highly lethal malignancy with limited biomarkers for early diagnosis. Bile-derived epitranscriptomic biomarkers remain largely unexplored. We investigated whether bile-derived RNA N6-methyladenosine (m6A) methylation could serve as a diagnostic biomarker for PCA.\nMETHODS: Bile samples were collected from patients with PCA (n = 7), biliary tract cancer (BTC; n = 33), and common bile duct (CBD) stones (n = 10). Pancreatic juice samples from patients with pancreatic neoplastic lesions (PNLs; n = 2) and PCA (n = 5) were analyzed as an exploratory cohort. Global RNA m6A was quantified in duplicate using an ELISA-based colorimetric assay. Diagnostic performance was evaluated using receiver operating characteristic (ROC) analysis.\nRESULTS: Bile-derived RNA m6A levels were higher in PCA than in the comparison groups. Bile-derived RNA m6A discriminated PCA from the combined BTC and CBD stone groups with an AUC of 0.993 (bootstrap 95% CI, 0.970-1.000). The exploratory cut-off of 5.50% yielded 100.0% sensitivity and 97.7% specificity. In the exploratory pancreatic juice cohort, the AUC was 0.600 (bootstrap 95% CI, 0.200-1.000), with a 4.16% cut-off, 60.0% sensitivity, and 100.0% specificity.\nCONCLUSION: Bile-derived global RNA m6A methylation was associated with PCA in this proof-of-concept cohort. The diagnostic performance and data-derived cut-off are preliminary and require validation in larger prospective independent multicenter cohorts before clinical application.",
+ "authors": [
+  "Han JY",
+  "Ahn KS",
+  "Kim MJ",
+  "Cho IS",
+  "Kim TS",
+  "Kim YH",
+  "Shin KI",
+  "Cho KB"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43047497",
+ "importance": 0.7,
+ "key_points_ko": [
+  "담즙 유래 RNA m6A 수치는 대조군에 비해 췌장암 환자에서 더 높았습니다.",
+  "담즙 유래 RNA m6A는 담도암 및 총담관 결석 복합 대조군과 췌장암을 구분할 때 0.993의 AUC를 보였습니다.",
+  "5.50%의 탐색적 절사값(cut-off)은 100.0%의 민감도와 97.7%의 특이도를 보였습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.3389/fonc.2026.1955611",
+  "nct": [],
+  "pmcid": "PMC13773721",
+  "pmid": "43047497"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43047497/"
+ },
+ "summary_ko": "이 연구는 췌장암(PCA) 진단을 위한 새로운 바이오마커로서 담즙 유래 RNA N6-메틸아데노신(m6A) 메틸화의 가능성을 조사했습니다. 췌장암 환자 7명, 담도암(BTC) 환자 33명, 총담관(CBD) 결석 환자 10명에게서 채취한 담즙 샘플을 분석했습니다. 담즙 유래 RNA m6A 수치는 대조군에 비해 췌장암 환자에서 더 높았습니다. 담즙 유래 RNA m6A는 0.993의 곡선 아래 면적(AUC)으로 췌장암을 감별해 냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bile-derived RNA N6-methyladenosine (m6A) methylation as a novel liquid biopsy biomarker for pancreatic cancer",
+ "title_ko": "췌장암의 새로운 액체 생검 바이오마커로서의 담즙 유래 RNA N6-메틸아데노신(m6A) 메틸화",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,57 @@
+{
+ "abstract": "Although transformative approaches with (rat sarcoma) rat sarcoma inhibitors and immune-based therapies are on the horizon, chemotherapy currently remains the primary treatment for patients with pancreatic cancer and still serves as the backbone upon which novel agents are tested. In this review, we summarize the current status of chemotherapy for pancreatic ductal adenocarcinoma, including rational treatment selection and maintenance strategies. We also cover emerging \"chemotherapy-adjacent\" therapies with a focus on antibody-drug conjugates, which are being investigated. These therapeutic advances support a more hopeful outlook in pancreatic cancer, with the goal of improving patient outcomes and quality of life.",
+ "authors": [
+  "Tsang ES",
+  "Ko AH"
+ ],
+ "categories": [
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050239",
+ "importance": 0.69,
+ "key_points_ko": [
+  "항암화학요법은 현재 췌장암 환자의 주요 치료법이자 신약 평가를 위한 기반으로 남아 있습니다.",
+  "이번 고찰에서는 췌관선암(pancreatic ductal adenocarcinoma)에 대한 항암화학요법의 현황, 치료 선택, 유지 전략을 요약했습니다.",
+  "항체-약물 접합체(antibody-drug conjugate)를 비롯한 신흥 '화학요법 인접' 치료법이 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1097/PPO.0000000000000861",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050239"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050239/"
+ },
+ "summary_ko": "이 논문은 췌장암 환자에게 여전히 주요 치료법인 항암화학요법의 현황을 요약하는 문헌 고찰 논문입니다. 쥐 육종(rat sarcoma, RAS) 억제제와 면역 기반 치료법이 대두되고 있으나, 여전히 새로운 약물 테스트의 기본 뼈대가 되는 항암화학요법의 치료 선택 및 유지 전략을 다룹니다. 또한 항체-약물 접합체(antibody-drug conjugate)를 중심으로 한 신흥 인접 치료법도 함께 다루고 있습니다. 이러한 치료 발전은 환자의 예후와 삶의 질 향상을 목표로 췌장암에 대한 더 희망적인 전망을 뒷받침합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cytotoxic Approaches in Pancreatic Cancer: The Backbone for Innovation",
+ "title_ko": "췌장암의 세포독성 치료: 혁신을 위한 기반",
+ "trial": null,
+ "type": "paper"
+}

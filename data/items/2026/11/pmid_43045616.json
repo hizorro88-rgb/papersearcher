@@ -1,0 +1,54 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Survival measured from diagnosis does not directly describe future survival after pancreatic acinar cell carcinoma (pACC) patients reach a survival landmark. We estimated conditional overall survival (OS) for pACC and assessed comparisons with pancreatic ductal adenocarcinoma (PDAC).\nMETHODS: SEER 17 records included registry-coded pACC (8550/3) and PDAC (8140/3 or 8500/3) with histologic confirmation diagnosed during 2004-2023. Three- and five-year conditional OS estimates overall and by SEER Summary Stage included risk sets and 95% confidence intervals (CIs). Sensitivity analyses restricted diagnosis years to allow the prediction interval and used 8500-only PDAC.\nRESULTS: The cohort contained 580 pACC and 115,936 PDAC tumors. Overall three-year conditional OS for pACC was 34.2% at diagnosis and 73.0% (95% CI, 60.5-82.2%) at the five-year landmark, with 76 records still observed. At that landmark, the 2004-2015 diagnosis cohort had three-year OS of 75.5% (61.5-84.9%; n = 53), whereas the 2004-2013 cohort had five-year OS of 74.4% (57.6-85.3%; n = 39). Estimates were higher at later landmarks within both common diagnosis cohorts. With 8500-only PDAC, the three-year OS difference was 9.2 percentage points at diagnosis and 7.7 at five years in the full cohort, versus 10.5 and 11.5 in the common 2004-2015 cohort.\nCONCLUSIONS: Conditional OS provides population-level survival estimates for pACC landmark survivors. Comparisons with PDAC depend on its coding definition and the diagnosis cohort.",
+ "authors": [
+  "Liang H",
+  "Wu X",
+  "Jiang X",
+  "Huang S",
+  "Zheng F"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43045616",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1016/j.pan.2026.10.035",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43045616"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pancreatology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045616/"
+ },
+ "summary_ko": "BACKGROUND/OBJECTIVES: Survival measured from diagnosis does not directly describe future survival after pancreatic acinar cell carcinoma (pACC) patients reach a survival landmark. We estimated conditional overall survival (OS) for pACC and assessed comparisons with pancreatic ductal adenocarcinoma (PDAC).",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Conditional survival in pancreatic acinar cell carcinoma and ductal adenocarcinoma by SEER summary stage",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

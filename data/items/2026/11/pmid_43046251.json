@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies with few effective treatments and an urgent need for personalized therapeutic strategies. Although patient-derived organoids (PDOs) facilitate drug screening, tissue-derived models often require invasive sampling and suffer from low cellularity and contamination by non-tumor cells. In this study, we developed fluid-derived organoids (FDOs) from malignant effusions as a rapid, minimally invasive, and scalable platform for PDAC research.\nMETHODS: Organoids were isolated from the pleural effusion and ascitic fluid of patients with PDAC. Histopathological and molecular characterization, including KRAS mutation analysis and CK7 immunostaining, confirmed the tumor origin and biological fidelity. Holotomography was used to characterize organoid morphology and drug response. Drug sensitivity was evaluated using the KRAS G12D inhibitor, MRTX1133. Transcriptomic profiling was performed to identify resistance-associated molecular signatures, and functional validation was used to assess the roles of candidate genes.\nRESULTS: FDOs were established with a higher success rate, faster growth, and lower non-tumor contamination than conventional tissue-derived PDOs, while faithfully recapitulating the parental tumor histology and genetics. KRAS G12D-mutant FDOs showed marked sensitivity to MRTX1133. Transcriptomic analysis revealed the upregulation of CEMIP, CALB2, and LY6D in chemo-resistant FDOs, with these genes suppressing apoptosis and conferring gemcitabine resistance in PDAC cells. High expression of this three-gene signature correlated with worse clinical outcomes, underscoring its prognostic and therapeutic relevance.\nCONCLUSIONS: FDOs are an efficient and clinically relevant model for drug sensitivity profiling and biomarker discovery in patients with PDAC. The elevated expression of CEMIP, CALB2, and LY6D drives chemoresistance and poor prognosis, highlighting their value as predictive biomarkers and potential targets for overcoming pancreatic cancer resistance.",
+ "authors": [
+  "Tae YK",
+  "Kim SM",
+  "Park JH",
+  "Hwang HK",
+  "Choi HW",
+  "Park SB",
+  "Lim KM",
+  "Kim JH"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43046251",
+ "importance": 0.54,
+ "key_points_ko": [
+  "체액 유래 오가노이드(FDO)는 기존 조직 유래 오가노이드보다 성공률이 높고 비종양 세포 오염이 적었습니다.",
+  "KRAS G12D 변이를 가진 FDO는 MRTX1133 약물에 뚜렷한 감수성을 보였습니다.",
+  "항암제 내성 FDO에서는 CEMIP, CALB2, LY6D 유전자의 발현이 증가하여 세포 사멸을 억제하고 gemcitabine 내성을 유발했습니다.",
+  "이 세 유전자의 고발현은 불리한 임상 결과와 연관되었습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1186/s12935-026-04443-8",
+  "nct": [],
+  "pmcid": "PMC13776192",
+  "pmid": "43046251"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Cell Int",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046251/"
+ },
+ "summary_ko": "연구진은 췌장관선암(PDAC) 환자의 악성 흉수와 복수에서 최소 침습적으로 체액 유래 오가노이드(FDO)를 제작하여 약물 반응성과 유전적 특성을 분석했습니다. KRAS G12D 변이를 가진 FDO는 KRAS G12D 억제제인 MRTX1133에 뚜렷한 민감성을 보였습니다. 전사체 분석 결과, 항암제 내성을 가진 FDO에서 CEMIP, CALB2, LY6D 유전자의 발현이 증가해 있었고, 이들은 세포 사멸을 억제하며 gemcitabine 내성을 유발했습니다. 이 세 가지 유전자 발현이 높은 경우 임상 결과가 더 나쁜 것으로 나타나 예후 예측 및 치료 표적서의 가치를 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Fluid-derived pancreatic cancer organoids reveal CEMIP, CALB2, and LY6D as drivers of chemotherapy resistance",
+ "title_ko": "체액 유래 췌장암 오가노이드를 통해 밝혀진 항암제 내성 유발 인자 CEMIP, CALB2, LY6D",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Cancer cachexia is associated with poor clinical outcomes, yet the contemporary longitudinal healthcare and economic burden among patients with highly cachexia-prone gastrointestinal cancers remain poorly characterized.\nMETHODS: A claims-based cohort study identified patients with pancreatic or esophageal cancer from 2017 to 2024. Incident cachexia was identified within 1 year after cancer diagnosis using an expanded ICD-10-CM claims-based phenotype comprising R64 (cachexia), M62.50 (muscle wasting or atrophy), R63.0 (anorexia), R63.4 (abnormal weight loss), and R63.6 (underweight). Patients with preexisting cachexia were excluded, and eligible patients were propensity score matched with up to two patients without claims-defined cachexia. Outcomes during the 360-day post-index period were estimated using the Kaplan-Meier sample-average method to account for censoring. Adjusted models incorporated matching weights and controlled for index year, health-plan indicator, employment status, and employee classification.\nRESULTS: The final matched cohort included 3763 patients, comprising 1356 with cachexia and 2407 without cachexia. The mean age was 56.5 years, and 61.3% of patients were male. Adjusted 12-month total healthcare costs were higher among patients with versus without cachexia ($185,579 vs $96,023; adjusted difference, $89,556; 95% CI, $69,501-$109,611; P < 0.001). Cachexia was also associated with more inpatient admissions (1.37 vs 0.71; difference, 0.66), inpatient days (9.81 vs 4.84; difference, 4.97) and outpatient visits (49.98 vs 26.58; difference, 23.41; all P < 0.001). Healthcare-contact burden was also higher among patients with claims-defined cachexia (61.56 vs 32.42 composite units; adjusted difference, 29.14; 95% CI, 24.18-34.10; P < 0.001).\nCONCLUSIONS: Claim based cachexia was associated with substantially higher healthcare expenditures, utilization, and healthcare-contact burden among patients with pancreatic or esophageal cancer. These associations may partly reflect differences in underlying disease severity and treatment intensity. These findings identify cachexia as a marker of substantial longitudinal healthcare and economic burden and highlight a population with considerable supportive-care needs.",
+ "authors": [
+  "Angez M",
+  "Charalampous CM",
+  "Ejaz R",
+  "Hussain K",
+  "Ali A",
+  "Zhu H",
+  "Pawlik TM"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43044530",
+ "importance": 0.71,
+ "key_points_ko": [
+  "조정된 12개월 총 의료 비용은 악액질 환자군이 185,579달러로, 악액질이 없는 환자군의 96,023달러보다 유의하게 높았습니다(조정된 차이 89,556달러, P < 0.001).",
+  "입원 횟수는 악액질 환자군이 평균 1.37회로, 비악액질 환자군의 0.71회보다 많았습니다.",
+  "입원 일수는 악액질 환자군이 평균 9.81일로, 비악액질 환자군의 4.84일보다 길었습니다.",
+  "외래 방문 횟수는 악액질 환자군이 평균 49.98회로, 비악액질 환자군의 26.58회보다 많았습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1016/j.ejso.2026.112375",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43044530"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044530/"
+ },
+ "summary_ko": "이 연구는 췌장암 또는 식도암 환자를 대상으로 진단 후 1년 이내에 발생한 악액질(cachexia)이 의료 비용과 이용에 미치는 영향을 분석한 청구 데이터 기반 코호트 연구입니다. 총 3,763명의 환자(악액질 환자 1,356명, 비악액질 환자 2,407명)를 대상으로 360일 동안의 결과를 비교했습니다. 연구 결과, 악액질이 있는 환자군은 악액질이 없는 환자군에 비해 조정된 12개월 총 의료 비용이 유의하게 더 높았습니다. 또한 악액질 환자군은 입원 횟수, 입원 일수, 외래 방문 횟수 및 전반적인 의료 접촉 부담이 모두 증가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Healthcare utilization and economic burden associated with cachexia in pancreatic and esophageal cancer",
+ "title_ko": "췌장암 및 식도암 환자에서 악액질과 관련된 의료 이용 및 경제적 부담",
+ "trial": null,
+ "type": "paper"
+}

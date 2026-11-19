@@ -20,11 +20,11 @@
  "id": "nct:NCT02381561",
  "importance": 0.81,
  "key_points_ko": [
-  "진행성 위장관암 환자를 대상으로 ropidoxuridine과 세기조절 방사선 치료(IMRT)를 병행합니다.",
-  "1상 용량 증량 시험으로 안전성과 최대내용용량(MTD)을 확인합니다.",
-  "목표 환자 수는 총 19명입니다."
+  "방사선 치료를 받는 진행성 위장관암 환자에서 ropidoxuridine의 안전성과 최대내용량을 평가하는 1상 임상시험입니다.",
+  "Ropidoxuridine은 종양 세포의 방사선 감수성을 높여 방사선 치료의 효과를 돕기 위해 경구 투여되었습니다.",
+  "연구의 목표 인원은 19명입니다."
  ],
- "last_updated": "2026-11-15",
+ "last_updated": "2026-11-19",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT02381561"
  },
- "summary_ko": "이 1상 임상시험은 방사선 치료를 받는 진행성 위장관암 환자를 대상으로 경구용 ropidoxuridine(로피독수리딘)의 안전성과 최대내용용량(MTD)을 평가합니다. Ropidoxuridine은 종양 세포를 방사선에 더 민감하게 만들어 방사선 치료 효과를 높이는 데 도움을 줄 수 있습니다. 연구의 주요 목적은 용량 증가를 통해 안전성을 확인하고 항종양 효과 및 약동학을 관찰하는 것입니다. 목표 인원은 총 19명입니다.",
+ "summary_ko": "본 1상 임상시험은 방사선 치료를 받는 진행성 위장관암 환자들을 대상으로 경구용 ropidoxuridine(IPdR)의 안전성과 최대내용량(MTD)을 확인하기 위해 진행되었습니다. Ropidoxuridine은 종주 세포를 방사선에 더 민감하게 만들어 방사선 치료 효과를 높이는 목적으로 투여되었습니다. 연구에는 총 19명의 목표 인원이 등록되었습니다. 이 시험은 약물의 부작용, 최대내용량, 항종양 활성, 약동학을 관찰하는 것을 목표로 했습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Ropidoxuridine in Treating Patients With Advanced Gastrointestinal Cancer Undergoing Radiation Therapy",
- "title_ko": "진행성 위장관암 환자를 위한 방사선 치료와 병행하는 ropidoxuridine 1상 임상시험",
+ "title_ko": "진행성 위장관암 환자에서 방사선 치료와 병용하는 ropidoxuridine의 1상 임상시험",
  "trial": {
   "conditions": [
    "Advanced Bile Duct Carcinoma",
@@ -97,7 +97,7 @@
    "Stage IVB Rectal Cancer AJCC v7"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: \n- 식도, 간, 위, 소장, 췌장, 담관, 결장 또는 직장의 조직학적 또는 세포학적으로 확진된 진행성, 완치 불가능한 암 환자\n- 고식적 방사선 치료(RT) 대상자\n- ECOG 수행능력 점수 2 이하\n- 기대 여명 12주 초과\n- 적절한 골수 및 장기 기능 유지\n\n제외 기준: \n- 연구 참여 전 4주 이내(니트로소유레아 또는 마이토마이신 C는 6주)에 항암화학요법이나 방사선 치료를 받은 경우\n- 다른 임상시험용 약물을 투여 중인 환자\n- 뇌전이가 알려진 환자\n- 조절되지 않는 동반 질환 또는 활동성 감염이 있는 환자\n- 임산부 또는 수유부",
+  "eligibility_ko": "선정 기준:\n- 식도, 간, 위, 소장, 췌장, 담관, 결장 또는 직장의 조직학적 또는 세포학적으로 확진된 진행성, 완치 불가 암 환자로서 고식적(palliative) 방사선 치료 대상자\n- 최소 4주 이내에 전신 항암 치료를 받지 않았고, 본 연구에서 방사선이 조사되는 부위에 이전 방사선 치료를 받지 않은 환자\n- ECOG 수행능력(performance status) 2 이하\n- 기대 여명 12주 초과\n- 백혈구 3,000/mcL 이상, 절대 호중구 수 1,500/mcL 이상, 혈소판 100,000/mcL 이상\n\n제외 기준:\n- 연구 참여 전 4주 이내(니트로소우레아 또는 마이토마이신 C는 6주 이내)에 항암화학요법이나 방사선 치료를 받은 환자\n- 다른 임상시험용 약물을 투여받고 있는 환자\n- 뇌전이가 알려진 환자\n- 조절되지 않는 동반 질환(활동성 감염, 증상성 울혈성 심부전, 불안정성 협심증, 심장 부정맥 등)이 있는 환자\n- 임산부 또는 수유부",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed advanced, incurable cancers of the esophagus, liver, stomach, small bowel, pancreas, bile duct, colon or rectum and be eligible to receive chest, abdominal and/or pelvic radiation therapy (RT) for palliation; documentation of this is required in physician note; concomitant systemic therapy is not allowed during administration of palliative RT; palliative RT can be considered for advanced primary tumors or metastatic disease as above\n* Patients must not have received systemic chemotherapy for at least 4 weeks, and must not have received prior radiation therapy to the tumor site being irradiated on this study\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Life expectancy of greater than 12 weeks\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin within normal institutional limits\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately; men and women treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and 4 months after completion of IPdR administration\n* Ability to understand and the willingness to sign a written informed consent document\n* Human immunodeficiency virus (HIV) positive (+) patients with cluster of differentiation 4 (CD4) counts \\>= 250 cells/mm\\^3 on anti-viral therapy\n* Women of child-bearing potential must have a negative pregnancy test\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier\n* Patients who are receiving any other investigational agents\n* Patients with known brain metastases should be excluded from this clinical trial\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to IPdR\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study; breastfeeding should be discontinued if the mother is treated with IPdR",
   "enrollment": 19,
   "has_results": false,
@@ -107,7 +107,7 @@
    "Pharmacological Study",
    "Ropidoxuridine"
   ],
-  "last_update_posted": "2026-11-12",
+  "last_update_posted": "2026-11-18",
   "location_countries": [
    "United States"
   ],
@@ -117,14 +117,14 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "뇌전이가 있는 경우",
-    "활동성 감염 등 조절되지 않는 동반 질환이 있는 경우",
+    "뇌전이가 있는 환자",
+    "조절되지 않는 감염이나 심장 질환 등 동반 질환이 있는 환자",
     "임산부 또는 수유부"
    ],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "방사선 치료를 받는 진행성 위장관암(췌장암 포함) 환자",
+   "notes_ko": "방사선 치료를 앞둔 진행성 위장관암(췌장암 포함) 환자를 위한 1상 임상시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

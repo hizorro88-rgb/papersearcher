@@ -1,0 +1,58 @@
+{
+ "abstract": "Surgical resection of the primary tumor remains necessary, albeit not sufficient, for long-term survival in most patients with localized, nonmetastatic adenocarcinoma of the pancreas. The contemporary challenge is how to integrate surgery into the most effective sequencing strategy of systemic therapy and radiation before operation. While neoadjuvant therapy has evolved as the preferred strategy for all stages of operable pancreatic cancer, there remains tremendous opportunity for progress in the assessment of response, staging of the disease, and management of disease-associated and treatment-associated complications. The evolution of novel treatment sequencing and precision oncology has been paralleled by advances in minimally invasive surgery, including robotic-assisted pancreatectomy. There has never been a time of such excitement and progress in the management of patients with pancreatic cancer. In this review, we aim to provide background and insight into the complexity and treatment options for patients with operable pancreatic cancer, emphasizing our past work and the current experience of the LaBahn Pancreatic Program at the Medical College of Wisconsin.",
+ "authors": [
+  "Evans DB",
+  "Seo YD",
+  "Christians KK"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43050243",
+ "importance": 0.72,
+ "key_points_ko": [
+  "국소 전이가 없는 췌관선암 환자에서 장기 생존을 위해서는 원발 종양의 수술적 절제가 여전히 필수적입니다.",
+  "선행치료는 수술 가능한 모든 췌장암 병기에서 선호되는 전략으로 발전했습니다.",
+  "로봇 보조 췌장절제술(robotic-assisted pancreatectomy)을 포함한 최소침습수술 기술이 발전했습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1097/PPO.0000000000000859",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43050243"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43050243/"
+ },
+ "summary_ko": "이 논문은 국소 전이가 없는 췌관선암(pancreatic adenocarcinoma) 환자에서 장기 생존을 위한 일차 치료로서 수술적 절제의 역할과 최신 동향을 다루는 종설(review)입니다. 수술 전 전신 치료와 방사선 치료를 결합하는 선행치료(neoadjuvant therapy)가 수술 가능한 모든 병기에서 선호되는 전략으로 자리 잡았습니다. 또한 최소침습수술(minimally invasive surgery)과 로봇 수술(robotic-assisted pancreatectomy)의 발전이 정밀 의료와 함께 이루어지고 있습니다. 저자들은 수술 가능한 췌장암 환자의 복잡성과 치료 옵션에 대한 통찰을 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Advances in Surgery for Pancreatic Cancer",
+ "title_ko": "췌장암 수술의 발전",
+ "trial": null,
+ "type": "paper"
+}

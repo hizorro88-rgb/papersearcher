@@ -1,0 +1,63 @@
+{
+ "abstract": "To develop novel small-molecule candidates for pancreatic cancer therapy, a series of thieno[2,3-d]pyrimidin-4(3H)-one derivatives were designed and synthesized. Following cell-based evaluation, compound A8 displayed potent in vitro antiproliferative activity against PANC-1 cells with an IC50 of 4.89 ± 0.25 nM. Systematic pharmacodynamic assessments confirmed the potent antitumor efficacy of A8 in both the in vitro cellular models and in vivo xenograft models. Preliminary mechanistic studies showed that target identification from kinase profiling implicated PI3Kα as a potential molecular target. Molecular docking and molecular dynamics simulations suggested that A8 might have favorable binding affinity for PI3Kα. Moreover, combined treatment with A8 and verteporfin-based photodynamic therapy increased intracellular ROS and exerted synergistic proliferation inhibition against PANC-1 cancer cells. This study identifies A8, a potent thieno[2,3-d]pyrimidin-4(3H)-one small molecule that suppresses PANC-1 proliferation, and proposes a feasible and promising combination strategy pairing A8 with photodynamic therapy for pancreatic cancer treatment. These findings highlight compound A8 as a promising candidate for the development of anti-pancreatic cancer therapeutics.",
+ "authors": [
+  "Yin Y",
+  "Song Z",
+  "Wang L",
+  "Zhang Y",
+  "Blanco K",
+  "Managa M",
+  "Nyokong T",
+  "Elagawany M"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43044259",
+ "importance": 0.55,
+ "key_points_ko": [
+  "화합물 A8은 PANC-1 세포에 대해 4.89 ± 0.25 nM의 IC50 값으로 강력한 증식 억제 효과를 보였습니다.",
+  "키네이스 프로파일링(kinase profiling)을 통해 PI3Kα가 잠재적인 분자 표적으로 확인되었습니다.",
+  "A8과 광역학 치료의 병용은 세포 내 ROS를 증가시키고 시너지 효과를 발휘했습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.1016/j.ejmech.2026.119494",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43044259"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044259/"
+ },
+ "summary_ko": "췌장암 치료를 위한 새로운 저분자 화합물 후보를 개발하기 위해 일련의 thieno[2,3-d]pyrimidin-4(3H)-one 유도체를 설계하고 합성했습니다. 세포 기반 평가 결과, 화합물 A8은 PANC-1 세포에 대해 4.89 ± 0.25 nM의 IC50 값으로 강력한 세포 증식 억제 활성을 나타냈습니다. 체계적인 약력학 평가를 통해 A8은 체외 세포 모델과 생체 내 동종 이식(xenograft) 모델 모두에서 강력한 항종양 효능을 보였습니다. 또한, A8과 verteporfin 기반 광역학 치료(photodynamic therapy)의 병용 치료는 세포 내 활성산소종(ROS)을 증가시키고 PANC-1 암세포에 대해 시너지 효과를 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Thieno[2,3-d]pyrimidin-4(3H)-one derivatives: Discovery of a potent compound and its combination with photodynamic therapy against pancreatic cancer",
+ "title_ko": "Thieno[2,3-d]pyrimidin-4(3H)-one 유도체: 강력한 화합물의 발견 및 췌장암에 대한 광역학 치료와의 병용 요법",
+ "trial": null,
+ "type": "paper"
+}

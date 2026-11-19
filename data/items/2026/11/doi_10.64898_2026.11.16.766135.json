@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with limited treatment options and poor patient outcomes. The lack of clinically relevant large animal models hinders the investigation of early disease mechanisms and translational therapeutic strategies. In this study, we present a genetically engineered porcine PDAC model involving pancreas-specific activation of latent KRASG12D alone (KC) or in combination with TP53R167H (KPC), developed in a midipig background. KC pigs predominantly developed progressive acinar-to-ductal metaplasia (ADM), whereas KPC pigs showed accelerated tumour progression, including PanINs, invasive carcinoma, perineural invasion, and early lymphatic dissemination. Histopathological and molecular analyses revealed pronounced intra- and inter-tumour heterogeneity, a complex stromal microenvironment, and expression of key PDAC markers. Tumours exhibited early alterations in oncogenic KRAS signalling, including increased dosage and differential expression of isoforms, together with dysregulation of tumour suppressor networks involving p16 and TP53 family members. Single-cell transcriptomics and flow cytometric analyses demonstrated an organised and functionally active immune landscape in early lesions, characterised by infiltrating effector and regulatory T-cell populations. Porcine pancreatic cancer cell lines (PoPaCa) were established from KC and KPC tumours, recapitulating key genetic and transcriptional features of the primary lesions. Exploratory drug screening demonstrated heterogeneous responses to clinically relevant and experimental compounds. Responses to gemcitabine and paclitaxel overlapped qualitatively with those observed in human PDAC cell lines, whereas pronounced sensitivity to the GPX4 inhibitor RSL3 and partial responsiveness to trametinib identified testable therapeutic phenotypes for further validation. Together, this genetically engineered porcine PDAC model captures early molecular, cellular, and microenvironmental features of pancreatic tumorigenesis and provides a translational platform to study disease initiation, tumour heterogeneity, immune interactions, and therapeutic response beyond the constraints of rodent models.",
+ "authors": [
+  "Flisikowska T",
+  "Beltran Sanguesa L",
+  "Kalla D",
+  "Schneeweis C",
+  "Zheng Y",
+  "Wiedenmann S",
+  "Meier M",
+  "Stastna E"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.16.766135",
+ "importance": 0.56,
+ "key_points_ko": [
+  "KPC 돼지 모델은 침윤성 암종, 신경외막 침윤, 조기 림프 전이를 포함한 가속화된 종양 진행을 보였습니다.",
+  "단일세포 전사체 분석 결과 초기 병변에서 면역 이펙터 및 조절 T세포의 침윤이 관찰되었습니다.",
+  "돼지 췌장암 세포주(PoPaCa)의 약물 반응성 평가에서 gemcitabine과 paclitaxel에 대한 반응이 인간 PDAC 세포주와 질적(qualitative)으로 겹쳤습니다.",
+  "GPX4 억제제인 RSL3에 대한 뚜렷한 감수성과 trametinib(트라메티닙)에 대한 부분적 반응이 확인되었습니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.64898/2026.11.16.766135",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1370035"
+ },
+ "summary_ko": "본 연구는 미니피그(midipig) 배경에서 췌장 특이적 KRAS G12D 활성화(KC) 또는 TP53 R167H 변이와의 조합(KPC)을 통한 유전자 조작 돼지 췌관선암(PDAC) 모델을 개발했습니다. KPC 돼지는 침윤성 암종과 조기 림프 전이 등을 포함한 가속화된 종양 진행을 보였습니다. 또한, 인간 PDAC와 유사한 종양 내/간 이질성, 기질 미세환경, 면역 세포 침윤 등을 재현했습니다. 수립된 돼지 췌장암 세포주(PoPaCa)를 이용한 약물 스크리닝에서 gemcitabine(젬시타빈)과 paclitaxel(파클리탁셀) 등에 대한 반응을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A genetically engineered porcine model of pancreatic ductal adenocarcinoma captures the biological complexity of the human disease",
+ "title_ko": "인간 질병의 생물학적 복잡성을 재현하는 유전자 조작 돼지 췌장관선암 모델",
+ "trial": null,
+ "type": "preprint"
+}

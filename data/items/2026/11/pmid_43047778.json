@@ -1,0 +1,67 @@
+{
+ "abstract": "INTRODUCTION: Acquired hemophilia A (AHA) is a rare autoimmune bleeding disorder characterized by the development of autoantibodies against factor VIII, resulting in decreased factor VIII activity, and isolated prolongation of activated partial thromboplastin time (APTT). AHA is often diagnosed after the onset of bleeding and may follow a fatal course due to uncontrolled hemorrhage or infectious complications associated with immunosuppressive therapy. Although early diagnosis is essential, the rarity of the disease makes it difficult. We report 2 cases of AHA diagnosed after repeated postoperative bleeding following pancreatectomy.\nCASE PRESENTATION: Case 1. An 80-year-old man underwent pancreaticoduodenectomy for ampullary cancer. Postoperatively, he developed recurrent bleeding from the surgical site, requiring repeated interventional radiology procedures until POD 12. Persistent prolongation of APTT that did not correct with transfusion suggested a coagulation disorder. On POD 13, laboratory testing demonstrated decreased factor VIII activity and the presence of a factor VIII inhibitor, confirming the diagnosis of AHA. Despite treatment with recombinant activated factor VII for bleeding, he passed away on POD 34 due to repeated bleeding, infected ascites, and subsequent sepsis. Case 2. An 83-year-old man underwent distal pancreatectomy with celiac axis resection for locally advanced pancreatic cancer. Postoperative anemia progressed with persistent prolongation of APTT despite repeated transfusions. Based on the experience from Case 1, AHA was suspected early. On POD 8, decreased factor VIII activity and the presence of a factor VIII inhibitor confirmed the diagnosis of AHA, and immunosuppressive therapy with prednisolone was initiated immediately. The factor VIII inhibitor became undetectable on POD 36, and the patient was discharged on POD 123.\nCONCLUSIONS: Delayed diagnosis of AHA after invasive surgery such as pancreatectomy may be fatal. AHA should be considered in cases of repeated postoperative bleeding with the prolongation of APTT.",
+ "authors": [
+  "Hirano M",
+  "Yamada D",
+  "Akita H",
+  "Mukai Y",
+  "Sasaki K",
+  "Hasegawa S",
+  "Tomimaru Y",
+  "Noda T"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "surgery"
+ ],
+ "entities": [
+  "whipple",
+  "distal-pancreatectomy"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-19",
+ "history": [
+  {
+   "date": "2026-11-19",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43047778",
+ "importance": 0.64,
+ "key_points_ko": [
+  "80세 남성 환자는 십이지장유두부암으로 췌십이지장절제술(pancreaticoduodenectomy) 후 반복적인 출혈을 겪다 수술 후 13일째 AHA로 진단되었고 수술 후 34일째 사망했습니다.",
+  "83세 남성 환자는 국소 진행성 췌장암으로 원위부 췌장절제술(distal pancreatectomy) 후 수술 후 8일째 AHA로 진단되었으며 프레드니솔론(prednisolone) 치료 후 퇴원했습니다.",
+  "수술 후 APTT 연장이 지속되고 수혈로 교정되지 않으며 반복적인 출혈이 발생할 때 AHA를 의심해야 합니다."
+ ],
+ "last_updated": "2026-11-19",
+ "links": {
+  "doi": "10.70352/scrj.cr.26-0506",
+  "nct": [],
+  "pmcid": "PMC13774973",
+  "pmid": "43047778"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Surg Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43047778/"
+ },
+ "summary_ko": "이 논문은 췌장절제술(pancreatectomy)을 받은 환자에서 발생한 드문 자가면역 출혈 질환인 후천성 혈우병 A(acquired hemophilia A, AHA)의 2가지 증례를 보고합니다. 80세 남성과 83세 남성 환자가 수술 후 반복적인 출혈과 활성화 부분 트롬보플라스틴 시간(APTT)의 지속적인 연장 증상을 보였습니다. 제8응고인자(factor VIII) 활성도 감소와 제8응고인자 억제제(factor VIII inhibitor) 확인을 통해 AHA가 진단되었습니다. 첫 번째 환자는 거듭된 출혈과 패혈증으로 사망하였으나, 두 번째 환자는 조기 진단 후 면역억제 치료를 받아 퇴원했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Acquired Hemophilia A Diagnosed after Repeated Postoperative Bleeding Following Pancreatectomy: A Report of Two Cases",
+ "title_ko": "췌장절제술 후 반복되는 수술 후 출혈로 진단된 후천성 혈우병 A: 2례 보고",
+ "trial": null,
+ "type": "paper"
+}
