@@ -1,0 +1,53 @@
+{
+ "abstract": "BACKGROUND: Advanced gastroenteropancreatic neuroendocrine tumors (GEP-NETs) present a therapeutic challenge due to their heterogeneity and variable response to systemic therapies. This study aimed to evaluate the real-world efficacy and safety of peptide receptor radionuclide therapy (PRRT) with [¹⁷⁷Lu]Lu-DOTA-TATE in patients with advanced well-differentiated GEP-NETs.\nMETHODS: This retrospective cohort study included 129 patients diagnosed with advanced well-differentiated GEP-NETs between January 2022 and December 2025. Patients were classified into two groups according to treatment strategy: the [¹⁷⁷Lu]Lu-DOTA-TATE group (n = 65) and the control group (n = 64), who received standard systemic therapies without PRRT. The primary endpoints were overall survival (OS) and progression-free survival (PFS). Secondary outcomes included objective response rate (ORR), disease control rate (DCR), and treatment-related adverse events. Prognostic factors for OS and PFS were evaluated using Cox regression analyses.\nRESULTS: The median duration of follow-up was 34.6 months (1.3-45.7) in the [¹⁷⁷Lu]Lu-DOTA-TATE group and 25.8 months (0.9-45.6) in the control group. The [¹⁷⁷Lu]Lu-DOTA-TATE group demonstrated significantly longer median OS (34.6 vs. 25.8 months; P = 0.046) and median PFS (22.0 vs. 16.7 months; P = 0.008) compared with the control group. ORR showed a trend toward improvement (P = 0.118), while DCR was significantly higher in the [¹⁷⁷Lu]Lu-DOTA-TATE group (P = 0.026). The overall incidence of adverse events and the rates of grade ≥ 3 adverse events were comparable between groups (P > 0.05). Multivariable analysis identified [¹⁷⁷Lu]Lu-DOTA-TATE treatment, younger age, lower Ki-67 index, and lower tumor grade as independent predictors of improved OS or PFS.\nCONCLUSION: [¹⁷⁷Lu]Lu-DOTA-TATE provides meaningful survival benefits with acceptable safety in patients with advanced well-differentiated GEP-NETs, supporting its integration into real-world treatment strategies and warranting further prospective validation.",
+ "authors": [
+  "Zhao S",
+  "Kou S"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43052866",
+ "importance": 0.54,
+ "key_points_ko": [],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1186/s12885-026-16780-y",
+  "nct": [],
+  "pmcid": "PMC13779607",
+  "pmid": "43052866"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-22",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052866/"
+ },
+ "summary_ko": "BACKGROUND: Advanced gastroenteropancreatic neuroendocrine tumors (GEP-NETs) present a therapeutic challenge due to their heterogeneity and variable response to systemic therapies. This study aimed to evaluate the real-world efficacy and safety of peptide receptor radionuclide therapy (PRRT) with [¹⁷⁷Lu]Lu-DOTA-TATE in patients with advanced well-differentiated GEP-NETs.",
+ "summary_source": "excerpt",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Efficacy and safety of [¹⁷⁷Lu]Lu-DOTA-TATE versus standard systemic therapies in advanced well-differentiated gastroenteropancreatic neuroendocrine tumors: a retrospective cohort study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Tertiary lymphoid structures (TLSs) are generally associated with favorable outcomes in treatment-naïve pancreatic cancer, but their relevance in advanced disease remains unclear. Here, we investigated TLS prevalence and histological features in advanced pancreatic/periampullary cancer in a research autopsy cohort. Primary and metastatic tumor tissue from 19 patients was screened for TLSs using histology, duplex immunohistochemistry, and multiplex immunofluorescence. TLSs were classified by maturation stage, high endothelial venule (HEV) presence and proximity to nerves. Associations with tissue site, chemotherapy exposure, and overall survival (OS) were analyzed. Across 480 postmortem tumor blocks, 279 TLSs were identified in 38 TLS-positive blocks, predominantly from primary tumors. TLSs were more abundant and larger in primary tumors than in metastases. Only early TLSs and primary follicle-like TLSs were observed; no secondary follicle-like TLSs. TLS counts or size were not associated with OS. TLSs containing HEVs were, on average, larger than HEV-negative TLSs and tended to associate with prolonged OS, in particular in metastatic niches. Moreover, TLSs located in proximity to nerves were positively associated with OS, and the number of nerve-associated TLSs correlated with survival. Notably, the number of nerve-associated TLSs was also positively associated with the number of HEV-containing TLSs. Collectively, the findings from this exploratory study indicate that TLSs in advanced pancreatic cancer are heterogeneous and predominantly immature, with limited prognostic value based on TLS counts alone. Instead, specific microenvironmental features, particularly nerve proximity, may more accurately capture clinically relevant aspects of TLS biology in advanced disease.",
+ "authors": [
+  "Jacobsen H",
+  "Svensson M",
+  "Briem O",
+  "Lehn S",
+  "Hau SO",
+  "Pietras K",
+  "Leandersson K",
+  "Jirström K"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43053676",
+ "importance": 0.73,
+ "key_points_ko": [
+  "진행성 췌장암 환자 19명의 부검 조직에서 279개의 3차 림프구조(TLS)를 확인했으나, 단순 개수나 크기는 전체 생존기간(OS)과 유의미한 상관이 없었습니다.",
+  "고내피세정맥(HEV)을 포함하는 3차 림프구조는 크기가 더 크고 전이 병변에서 생존기간 연장과 연관되는 경향을 보였습니다.",
+  "신경에 인접한 3차 림프구조의 수는 환자의 전체 생존기간(OS) 및 고내피세정맥 함유 림프구조 수와 유의한 양의 상관관계를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1158/2767-9764.CRC-26-0446",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43053676"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43053676/"
+ },
+ "summary_ko": "진행성 췌장암 및 팽대부주위암 환자 19명의 부검 조직 480개 블록을 분석하여 3차 림프구조(TLS)의 특성을 조사했습니다. 분석 결과 총 279개의 3차 림프구조가 확인되었으며 대부분 원발암에 위치했고 미성숙한 형태였습니다. 단순히 3차 림프구조의 개수나 크기는 전체 생존기간(OS)과 연관이 없었습니다. 반면 고내피세정맥(HEV)을 포함하거나 신경과 인접한 3차 림프구조는 환자의 생존기간 연장과 유의미한 연관성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Nerve proximity and high endothelial venules mark tertiary lymphoid structure niches associated with survival in advanced pancreatic cancer: an autopsy study",
+ "title_ko": "신경 인접성 및 고내피세정맥으로 확인된 3차 림프구조 환경과 진행성 췌장암 생존기간의 연관성: 부검 연구",
+ "trial": null,
+ "type": "paper"
+}

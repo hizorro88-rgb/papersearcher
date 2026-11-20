@@ -22,7 +22,12 @@
  ],
  "id": "pmid:43045616",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "SEER 데이터베이스의 췌장 선세포암(pACC) 환자 580명과 췌관선암(PDAC) 환자 115,936명의 생존율 데이터를 분석했습니다.",
+  "pACC 환자의 진단 당시 3년 전체 생존율(OS)은 34.2%였으나, 진단 후 5년 생존 시점에서의 향후 3년 추가 생존율은 73.0%(95% 신뢰구간, 60.5-82.2%)였습니다.",
+  "2004~2013년 진단 코호트에서 5년 생존 시점에 도달한 pACC 환자의 향후 5년 추가 생존율은 74.4%(95% 신뢰구간, 57.6-85.3%)로 나타났습니다.",
+  "PDAC과의 생존율 비교는 PDAC 코딩 정의 및 진단 연도 코호트에 따라 차이가 존재했습니다."
+ ],
  "last_updated": "2026-11-19",
  "links": {
   "doi": "10.1016/j.pan.2026.10.035",
@@ -44,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43045616/"
  },
- "summary_ko": "BACKGROUND/OBJECTIVES: Survival measured from diagnosis does not directly describe future survival after pancreatic acinar cell carcinoma (pACC) patients reach a survival landmark. We estimated conditional overall survival (OS) for pACC and assessed comparisons with pancreatic ductal adenocarcinoma (PDAC).",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 미국 SEER 데이터베이스(2004~2023년)를 활용하여 췌장 선세포암(pACC) 환자 580명과 췌관선암(PDAC) 환자 115,936명의 조건부 전체 생존율(conditional OS)을 분석했습니다. 조건부 생존율은 진단 시점 이후 특정 기준점까지 생존한 환자가 향후 추가로 생존할 확률을 보여주는 지표입니다. 연구 결과 pACC 환자의 진단 당시 3년 전체 생존율은 34.2%였으나, 진단 후 5년 생존 시점에서의 추가 3년 생존율은 73.0%로 크게 향상되었습니다. 본 결과는 특정 생존 기간을 넘긴 pACC 환자에게 더욱 현실적인 인구 수준의 예후 정보를 제공합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Conditional survival in pancreatic acinar cell carcinoma and ductal adenocarcinoma by SEER summary stage",
- "title_ko": null,
+ "title_ko": "병기별 췌장 선세포암과 췌관선암의 조건부 생존율 분석",
  "trial": null,
  "type": "paper"
 }

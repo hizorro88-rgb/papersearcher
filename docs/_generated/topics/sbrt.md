@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료(SBRT)와 gemcitabine, iparomlimab-toripali…](../trials/NCT07945782.md) | 1상/2상 | 모집 예정 | - |
+| [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료(SBRT)와 gemcitabine 및 iparomlimab-toripal…](../trials/NCT07945782.md) | 1상/2상 | 모집 예정 | - |
 | [국소진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(A…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |

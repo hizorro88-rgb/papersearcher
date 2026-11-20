@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal cancers in the western world and is largely resistant to treatment. A major barrier to effective treatment is the highly desmoplastic and immunosuppressive tumour microenvironment, where the organisation of tumour, stromal and resident immune cells limit immune infiltration. B7-H3 (CD276) is an emerging immune checkpoint marker investigated in phase I and Ib/2 clinical trials in PDAC, yet its biological role within the tumour environment remains poorly understood. We performed an integrated multiscale spatial profiling study to map B7-H3 expression across regional and single-cell spatial contexts in treatment-naive resected human PDAC. Furthermore, we explored the B7-H3 landscape in the neoadjuvant setting. Our results demonstrate that B7-H3 is not simply overexpressed in cancer but may act as a spatial organiser of the PDAC microenvironment, associated with a transition from epithelial-intrinsic tumour architecture to fibro-inflammatory immune states that underpin immune suppression, aggressive disease and poor prognosis. This fibro-inflammatory state appears conserved within the neoadjuvant landscape.",
+ "authors": [
+  "Legrini A",
+  "Zhang T",
+  "McGuigan M",
+  "Wood C",
+  "Patricia Schubert Santana L",
+  "McNickle L",
+  "Hatthakarnkul P",
+  "Pennel K"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "phase1",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.16.762837",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.64898/2026.11.16.762837",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1371240"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal cancers in the western world and is largely resistant to treatment. A major barrier to effective treatment is the highly desmoplastic and immunosuppressive tumour microenvironment, where the organisation of tumour, stromal and resident immune cells limit immune infiltration.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "B7-H3 Orchestrates Fibro-Immune Spatial Organisation in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

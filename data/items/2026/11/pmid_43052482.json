@@ -1,0 +1,64 @@
+{
+ "abstract": "High-grade pancreatic neuroendocrine carcinoma (panNEC) is a rare, aggressive cancer with limited tissue availability. Single-nucleus transcriptomics of five large-cell panNECs revealed two clinically relevant neuroendocrine cell states: one highly proliferative with an aberrant brain-specific neuronal differentiation program and another stress-responsive state enriched for heat stress, hypoxia, and glycolysis. Our findings suggest potential therapeutic vulnerabilities, highlighting the need to evaluate the efficacy of combination therapies.",
+ "authors": [
+  "Debnath O",
+  "Berger H",
+  "Detjen K",
+  "Kirchner P",
+  "Marinoni I",
+  "Eichhorn I",
+  "Bolduan F",
+  "Conrad T"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43052482",
+ "importance": 0.41,
+ "key_points_ko": [
+  "대세포 췌장 신경내분비암(panNEC) 5건의 조직을 단일 핵 전사체 기법으로 분석했습니다.",
+  "종양 내에서 고증식성 뇌 특이 신경 분화 상태와 스트레스 반응 상태라는 2가지 뚜렷한 세포 상태를 규명했습니다.",
+  "이러한 세포 상태 특성을 바탕으로 새로운 병용 요법의 탐색 필요성이 제시되었습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1038/s42003-026-10692-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43052482"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-30",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Commun Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052482/"
+ },
+ "summary_ko": "고등급 췌장 신경내분비암(panNEC)은 발생 빈도가 낮고 매우 공격적인 악성 종양입니다. 연구진은 5건의 대세포 췌장 신경내분비암 검체를 대상으로 단일 핵 전사체(Single-nucleus transcriptomics) 분석을 수행했습니다. 분석 결과, 비정상적인 뇌 특이적 신경 분화 특성을 가지며 증식력이 높은 상태와 열 스트레스, 저산소증, 해당작용 관련 경로가 활성화된 스트레스 반응 상태의 두 가지 세포 상태가 확인되었습니다. 연구진은 이러한 결과가 치료적 취약점을 시사하며 향후 병용 요법 평가의 필요성을 뒷받침한다고 설명했습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Aberrant brain-type neuronal programs in large-cell pancreatic neuroendocrine carcinoma",
+ "title_ko": "대세포 췌장 신경내분비암에서의 비정상적인 뇌 유형 신경 분화 프로그램",
+ "trial": null,
+ "type": "paper"
+}

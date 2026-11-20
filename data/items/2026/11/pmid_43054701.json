@@ -1,0 +1,52 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with a poor survival rate. Publicly available single-cell RNA sequencing datasets were analyzed to characterize transcriptional changes across 33 PDAC and three normal pancreas samples. Early-stage samples exhibited greater stromal abundance and were enriched for microenvironmental remodeling, whereas advanced-stage samples showed increased proliferation and cellular plasticity. Chemotherapy-treated tumors demonstrated remodeling enrichment alongside reduced immune activity, suggesting adaptive changes. COMET analysis identified SNCG and LY6D as candidate basal-like tumor markers, supporting molecular subtype as a source of transcriptional heterogeneity. These findings highlight distinct tumor microenvironment characteristics between PDAC subtypes and progression.",
+ "authors": [
+  "Halka A",
+  "Del Pino Herrera A",
+  "Ferrall-Fairbanks M"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43054701",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.17912/micropub.biology.002290",
+  "nct": [],
+  "pmcid": "PMC13778706",
+  "pmid": "43054701"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "MicroPubl Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054701/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with a poor survival rate. Publicly available single-cell RNA sequencing datasets were analyzed to characterize transcriptional changes across 33 PDAC and three normal pancreas samples.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Pancreatic Ductal Adenocarcinoma Progression Is Associated With Reduced Stromal Organization and Adaptive Tumor Signaling at Single-Cell Resolution",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

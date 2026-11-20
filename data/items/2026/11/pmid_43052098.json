@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: The differential impact of negative resection margins that are > 1 mm (R0) or ≤ 1 mm (R0close) compared to positive (R1) margins on overall survival (OS) in pancreatic ductal adenocarcinoma (PDAC) is unclear in the modern era of chemotherapy administration. Historically, R0close margins were shown to have a negative impact on OS compared to R0, but these data predate wide adoption of the current multiagent cytotoxic treatment regimens and neoadjuvant treatment approaches.\nMETHODS: We analyzed patients with PDAC undergoing pancreatectomy from April 2014 to April 2024 at a high-volume academic center. OS was assessed via Kaplan-Meier method, log-rank test, and Cox proportional hazard model to adjust for covariates.\nRESULTS: A total of 514 pancreatectomies were identified. Of 256 patients with PDAC, margin assessment revealed R0, R0close, and R1 margins occurred in 62.9%, 29.3%, and 7.8% respectively. Overall, 93% of patients received systemic chemotherapy. Median OS was 48.6 months; 54.6 months for R0, 41.3 months for R0close, and 20.7 months for R1 (P = 0.04). The unadjusted Cox proportional hazard model did not show a significant difference in OS between R0 and R0close margins [hazard ratio (HR) = 1.16, 95% confidence interval (CI): 0.80-1.69] but showed a significant difference in OS between R0 and R1 margins (R1: HR = 2.04, 95% CI: 1.16-3.60). The results of the adjusted model incorporating demographic, surgical, and clinicopathologic variables were similar (R0close: HR = 1.09, 95% CI: 0.71-1.67; R1: HR = 1.88, 95% CI: 1.01-3.52).\nCONCLUSIONS: Among patients undergoing resection for PDAC and treated with multiagent systemic therapy, survival linearly decreased with R0, R0close, and R1 status, with no significant difference between R0 and R0close margins.",
+ "authors": [
+  "Raymond-King L",
+  "Raymond-King C",
+  "Brown LM",
+  "Feng W",
+  "Aravind P",
+  "Robert ME",
+  "Lacy J",
+  "Kunstman JW"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43052098",
+ "importance": 0.65,
+ "key_points_ko": [],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1016/j.hbpd.2026.10.010",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43052098"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Hepatobiliary Pancreat Dis Int",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052098/"
+ },
+ "summary_ko": "BACKGROUND: The differential impact of negative resection margins that are > 1 mm (R0) or ≤ 1 mm (R0close) compared to positive (R1) margins on overall survival (OS) in pancreatic ductal adenocarcinoma (PDAC) is unclear in the modern era of chemotherapy administration. Historically, R0close margins were shown to have a negative impact on OS compared to R0, but these data predate wide adoption of the current multiagent cytotoxic treatment regimens and neoadjuvant treatment approaches.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Association between close margin status and survival in the modern systemic treatment era for pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

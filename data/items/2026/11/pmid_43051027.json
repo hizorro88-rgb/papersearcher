@@ -1,0 +1,60 @@
+{
+ "abstract": "PURPOSE: To determine the diagnostic performance and interobserver agreement of MRI for differentiating mucinous from non-mucinous pancreatic cystic lesions (PCLs) and identifying advanced neoplasia using surgical pathology as the reference standard.\nMETHODS: This retrospective single-center study included surgically resected PCLs with preoperative MRI (2019-2025). Three independent readers blindly assessed cyst subtype and imaging features, including worrisome features (WF) and high-risk stigmata (HRS) according to the 2024 Kyoto guideline. Consensus interpretation was established with a fourth senior abdominal radiologist. Diagnostic performance for mucinous lesion characterization and advanced neoplasia (high-grade dysplasia and invasive carcinoma) was evaluated. Interobserver agreement was assessed using Fleiss κ and Gwet AC1. Logistic regression and ROC analyses identified imaging predictors of advanced neoplasia.\nRESULTS: A total of 85 patients were included (mean age, 66.8 ± 12.5 years; 50.6 % female). At pathology, 70/85 lesions (82.4 %) were mucinous and 23/85 (27.1 %) represented advanced neoplasia, including 21 high-grade dysplasia and two IPMN-derived PDAC. MRI consensus interpretation achieved 100 % sensitivity, 80 % specificity, and 96.5 % accuracy for identifying mucinous lesions. MRI demonstrated 52.2 % sensitivity and 67.7 % specificity for advanced neoplasia using WF or HRS, whereas HRS alone improved specificity (95.2 %) at the expense of sensitivity (21.7 %). All readers correctly identified both cases of IPMN-derived PDAC. Interobserver agreement for cyst subtype classification was fair by Fleiss κ but substantial by Gwet AC1, whereas agreement for detecting advanced neoplasia was moderate. Main pancreatic duct diameter independently predicted advanced neoplasia (OR, 1.18; 95 % CI, 1.01-1.38; p = 0.042) and outperformed cyst size (AUC, 0.69 vs 0.56).\nCONCLUSION: In this surgically selected cohort, consensus MRI differentiates mucinous from nonmucinous PCLs with high sensitivity. Detection of advanced neoplasia, particularly noninvasive high-grade dysplasia, remains challenging because of overlap with low-grade lesions. Fair-to-moderate interobserver agreement highlights the challenges of MRI-based risk stratification. The surgically selected cohort provides histopathologic confirmation but should be considered when interpreting performance estimates in the broader surveillance population.",
+ "authors": [
+  "Elsherif SB",
+  "Saba B",
+  "Kim J",
+  "Karajgikar JA",
+  "Shen Y",
+  "Chen Y",
+  "Huang C"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43051027",
+ "importance": 0.7,
+ "key_points_ko": [
+  "수술 전 MRI 합의 판독은 점액성 췌장 낭종을 감별하는 데 민감도 100%, 특이도 80%, 정확도 96.5%를 기록했습니다.",
+  "진행성 신생물 감별 시 우려 징후(WF) 또는 고위험 징후(HRS) 기준을 사용하면 민감도 52.2%, 특이도 67.7%였고, HRS 단독 적용 시 특이도는 95.2%로 높으나 민감도는 21.7%로 떨어졌습니다.",
+  "주췌관 직경은 진행성 신생물을 독립적으로 예측하는 지표였습니다(교차비 1.18, 95% 신뢰구간 1.01-1.38, p=0.042)."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1016/j.ejrad.2026.113342",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43051027"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43051027/"
+ },
+ "summary_ko": "수술을 받은 췌장 낭성 병변(PCL) 환자 85명을 대상으로 수술 전 자기공명영상(MRI)의 점액성 병변 감별 및 진행성 신생물(고등급 이형성증 및 침윤성 암) 진단 성적을 평가한 후향적 연구입니다. MRI 합의 판독은 점액성 병변을 감별하는 데 민감도 100%, 특이도 80%로 높은 정확도를 보였습니다. 반면 진행성 신생물을 감별할 때 2024년 교토 가이드라인의 '우려 징후(WF)' 또는 '고위험 징후(HRS)' 기준을 적용하면 민감도 52.2%, 특이도 67.7%였으며, HRS 단독 기준은 특이도가 95.2%로 올라갔지만 민감도는 21.7%로 낮아졌습니다. 주췌관 확장은 진행성 신생물을 예측하는 독립적 인자였으나 전반적으로 MRI를 통한 악성도 예측 및 판독자 간 일치도에는 여전히 한계가 있음이 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Diagnostic performance and interobserver agreement of MRI for pancreatic cystic lesions: a multi-reader study with surgical histopathologic correlation",
+ "title_ko": "췌장 낭성 병변에 대한 MRI의 진단 성적 및 판독자 간 일치도: 수술 병리 결과를 기준으로 한 다기관/다수 판독자 연구",
+ "trial": null,
+ "type": "paper"
+}

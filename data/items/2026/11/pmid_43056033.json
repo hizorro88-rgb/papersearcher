@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC), known as the king of cancers, has very limited treatment options and drugs. Oncolytic viruses have been used in tumor biologic therapy, but their therapeutic efficacy is restricted due to low replication levels within tumor cells. Recently, we constructed a novel recombinant oncolytic vaccinia virus (oncoVV-shHSP70) by homologous recombination of HSP70 shRNA into the TK region, which exhibited strong replication capability and cytotoxicity in PDAC. Preliminary mechanistic studies suggested that oncoVV-shHSP70 may elevate ROS levels by inhibiting activation of the NRF2/HO-1 antioxidant pathway, thereby triggering the caspase cascade and inducing apoptosis. Additionally, the virus modulated transcription levels of cytokine-related genes. In BALB/c nude mouse models, oncoVV-shHSP70 significantly suppressed tumor growth, demonstrating potent antitumor activity. In C57BL/6 immunocompetent mice, oncoVV-shHSP70 was preliminarily found to increase CD8⁺ T cell infiltration. The results of this study support the potential of oncoVV-shHSP70 as a novel strategy for PDAC, warranting further investigation.",
+ "authors": [
+  "Shao F",
+  "Zhu J",
+  "Yu J",
+  "Pang W",
+  "Chen K",
+  "Ye T",
+  "Zhou Y",
+  "Li G"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43056033",
+ "importance": 0.61,
+ "key_points_ko": [
+  "HSP70을 억제하는 종양용해 바이러스(oncoVV-shHSP70)는 췌관선암 세포에서 우수한 복제 능력과 세포독성을 보였습니다.",
+  "NRF2/HO-1 경로 억제를 통해 활성산소(ROS) 수치를 높이고 세포사멸(apoptosis)을 유도하는 기전이 확인되었습니다.",
+  "동물 실험에서 종양 성장을 유의하게 억제하였으며, 종양 조직 내 CD8⁺ T세포 침윤을 증가시켰습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1007/s12032-026-03505-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43056033"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43056033/"
+ },
+ "summary_ko": "췌관선암(PDAC) 세포에서 복제능력과 세포독성을 높이기 위해 HSP70을 표적하는 새로운 재조합 종양용해 백시니아 바이러스(oncoVV-shHSP70)를 제작하여 평가한 전임상 연구입니다. 연구진은 해당 바이러스가 NRF2/HO-1 항산화 경로를 억제해 활성산소(ROS)를 증가시키고 세포사멸을 유도함을 확인했습니다. 또한 면역 결핍 쥐 모델에서 종양 성장을 유의하게 억제했습니다. 면역 정상 쥐 모델에서는 종양 내 CD8⁺ T세포의 침윤을 증가시키는 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Oncolytic vaccinia virus targeting HSP70 exhibits significant cytotoxic effects on pancreatic ductal adenocarcinoma",
+ "title_ko": "HSP70을 표적하는 종양용해 백시니아 바이러스의 췌관선암에 대한 유의한 세포독성 효과",
+ "trial": null,
+ "type": "paper"
+}

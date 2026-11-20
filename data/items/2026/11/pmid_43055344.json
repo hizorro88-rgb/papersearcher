@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) develops in a nutrient-poor microenvironment and progresses from pancreatic intraepithelial neoplasia (PanIN) to invasive carcinoma. Serine metabolism supports tumor growth in many cancers, spurring the development of inhibitors of phosphoglycerate dehydrogenase (PHGDH), the rate-limiting enzyme in serine biosynthesis. However, the limited clinical success of PHGDH inhibitors highlights the need to better understand the stage-specific role of de novo serine synthesis during PDAC progression. Here, we showed that PHGDH increases progressively from PanIN to invasive PDAC in human and mouse tissues. In genetically engineered mouse models with inducible PHGDH knockdown, PHGDH loss delayed PDAC development. Acute treatment with the PHGDH inhibitor BI-9593 suppressed de novo serine synthesis, induced cell death, and drove tumor regression. Unexpectedly, PHGDH-deficient tumors did not become more dependent on exogenous serine, and dietary serine/glycine manipulation did not affect tumor development. Instead, stable isotope tracing and metabolomic profiling showed that PHGDH loss reduced ASCT2 expression and impaired glutamine uptake and utilization, creating a metabolic liability that rendered PHGDH-deficient tumors selectively sensitive to the glutamine antagonist DRP-104. Together, these findings reveal a therapeutic vulnerability to combined metabolic targeting in PDAC.",
+ "authors": [
+  "Kim Y",
+  "Sun LJ",
+  "Long M",
+  "Caldwell S",
+  "Maurer HC",
+  "Olive KP",
+  "Karreth FA",
+  "DeNicola GM"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43055344",
+ "importance": 0.64,
+ "key_points_ko": [
+  "PHGDH 발현은 췌장암의 진행 단계(PanIN에서 침습성 PDAC)에 따라 점진적으로 증가했습니다.",
+  "PHGDH 억제제 BI-9593은 신규 세린 합성을 억제하고 세포 사멸 및 종양 퇴행을 유도했습니다.",
+  "PHGDH 결핍 종양은 ASCT2 발현 감소로 글루타민 대사에 장애가 생겨 글루타민 길항제 DRP-104에 선택적인 민감도를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-26-1484",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43055344"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43055344/"
+ },
+ "summary_ko": "본 연구는 췌장관선암종(PDAC)의 세린 생합성 율속 효소인 PHGDH의 역할과 대사적 취약점을 규명한 전임상 연구입니다. 인간과 마우스 조직에서 PHGDH는 전암 단계에서 침습성 암으로 진행할수록 발현이 증가하는 것으로 나타났습니다. 유전자 조작 마우스에서 PHGDH를 결핍시키거나 억제제(BI-9593)를 투여했을 때 암 발생이 지연되고 종양 퇴행이 유도되었습니다. 특히 PHGDH가 억제된 종양은 글루타민 흡수 및 이용 능력이 저하되어 글루타민 길항제인 DRP-104에 민감해지는 치료적 취약점을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PHGDH Inhibition Confers a Targetable Glutamine Dependency in Pancreatic Cancer",
+ "title_ko": "췌장암에서 PHGDH 억제가 유도하는 표적 가능한 글루타민 의존성",
+ "trial": null,
+ "type": "paper"
+}

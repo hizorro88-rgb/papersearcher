@@ -20,12 +20,12 @@
  "id": "nct:NCT01660971",
  "importance": 0.81,
  "key_points_ko": [
-  "대상 질환은 전이성 또는 절제 불가능한 췌장암입니다.",
-  "목표 인원은 19명입니다.",
-  "gemcitabine hydrochloride, dasatinib, erlotinib hydrochloride를 병용 투여하는 1상 용량 증량 연구입니다.",
-  "초록에 생존기간이나 반응률 등의 구체적인 임상 결과 수치는 명시되지 않았습니다."
+  "대상 질환: 전이성 또는 수술 불가능한 진행성 췌장암 환자",
+  "시험 치료: gemcitabine hydrochloride, dasatinib, erlotinib hydrochloride 병용",
+  "목표 인원: 19명",
+  "주요 평가: 최대 허용 용량(MTD), 안전성, 반응률, 무진행 생존기간, 전체 생존기간 확인"
  ],
- "last_updated": "2026-11-19",
+ "last_updated": "2026-11-20",
  "links": {
   "doi": null,
   "nct": [
@@ -48,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT01660971"
  },
- "summary_ko": "이 임상 1상 시험은 전이되었거나 수술로 제거할 수 없는 췌장암 환자를 대상으로 gemcitabine hydrochloride(젬시타빈 염산염), dasatinib(다사티닙), erlotinib hydrochloride(엘로티닙 염산염)를 병용 투여하여 부작용과 최대 혀용 용량을 평가했습니다. 약물들은 세포 성장에 필요한 효소를 차단하거나 세포 성장을 멈추는 방식으로 작용합니다. 연구의 주 목적은 병용 요법의 최대 허용 용량과 안전성을 확인하는 것입니다. 목표 인원은 19명입니다.",
+ "summary_ko": "이 임상 1상 시험은 전이되었거나 수술로 제거할 수 없는 췌장암 환자를 대상으로 gemcitabine hydrochloride(젬시타빈), dasatinib(다사티닙), erlotinib hydrochloride(엘로티닙) 병용요법의 부작용과 최고 허용 용량을 평가합니다. 약물들은 세포 성장을 차단하거나 암세포 성장을 멈추는 방식으로 작용하며 병용 투여 시 암세포를 더 많이 사멸시킬 수 있는지 확인합니다. 연구의 주요 목적은 진행성 췌장암 환자에서의 최대 허용 용량과 안전성 프로파일을 확인하는 것입니다. 또한 반응률, 반응 기간, 무진행 생존기간(PFS), 전체 생존기간(OS) 등을 평가합니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Gemcitabine Hydrochloride, Dasatinib, and Erlotinib Hydrochloride in Treating Patients With Pancreatic Cancer That Is Metastatic or Cannot Be Removed by Surgery",
- "title_ko": "전이성 또는 절제 불가능한 췌장암 환자에서 젬시타빈 염산염, 다사티닙, 엘로티닙 염산염 병용 투여에 관한 1상 임상시험",
+ "title_ko": "전이성 또는 절제 불가능한 췌장암 환자에서 젬시타빈, 다사티닙, 엘로티닙 투여 임상 1상",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Adenocarcinoma",
@@ -61,7 +61,7 @@
    "Stage IV Pancreatic Cancer AJCC v6 and v7"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 세포학적 또는 조직학적으로 확진된 전이성 또는 절제 불가능한 췌관선암(췌도 세포종 또는 팽대부 종양 제외)\n- RECIST 1.1 기준에 따른 측정 가능 병변 존재\n- 이전에 진행성 질환에 대해 항암 치료를 받았을 수 있으나 젬시타빈은 포함되지 않아야 함 (젬시타빈을 포함한 보조 치료를 받은 경우 마지막 투여 후 6개월 이상 경과해야 함)\n- 이전 치료의 부작용이 CTCAE v4.0 기준 1등급 이하로 회복됨\n- 이전 방사선 치료 시 마지막 투여 후 4주 이상 경과하고 방사선 야외에 측정 가능 병변 존재\n- ECOG 수행능력 상태 1 이하\n- 예상 기대여명 3개월 초과\n- 백혈구 >= 3,000/mcL, 절대호중구수 >= 1,500/mcL, 혈소판 >= 100,000/mcL\n- 총 빌리루빈 < 기관 정상 상한치의 2.5배\n- AST/ALT <= 기관 정상 상한치의 2.5배 (간 전이가 있는 경우 <= 5배)\n- 크레아티닌이 기관 정상 범위 이내 또는 크레아티닌 청소율 >= 60 mL/min/1.73 m^2\n- 피임에 동의하고 알약을 삼킬 수 있는 능력\n\n제외 기준:\n- 연구 참여 전 4주 이내(니트로소우레아 또는 마이토마이신 C는 6주 이내)의 항암 또는 방사선 치료력\n- 다른 임상시험용 약물 투여 중\n- 치료 전 4주 이내의 주요 수술\n- 뇌전이 병력\n- dasatinib, erlotinib, gemcitabine 성분에 알레르기 병력\n- 조절되지 않는 동반 질환(활동성 감염, 증상성 울혈성 심부전, 불안정형 협심증, 심장 부정맥 등)\n- 임신부 또는 수유부, 면역결핍 환자\n- 강력한 CYP3A4 유도제 및 억제제 복용 환자\n- 흡수 장애 증후군 또는 장 흡수에 지장을 주는 상태\n- 다른 활성 악성 종양 (국소 치료된 비흑색종 피부암 제외)\n- 항레트로바이러스 치료 중인 HIV 양성 환자\n- 임상적으로 유의한 심혈관 질환 (6개월 이내 심근경색 또는 심실성 빈맥, 연장된 QTc > 480 m색 등)",
+  "eligibility_ko": "선정 기준:\n- 세포학적 또는 조직학적으로 확인된 전이성 또는 절제 불가능한 췌장암 췌관선암(islet cell 또는 ampullary tumor 제외)\n- RECIST 1.1 기준에 따른 측정 가능한 병변 존재\n- 진행성 질환에 대해 gemcitabine을 포함하지 않은 이전 항암 치료 허용 (gemcitabine을 포함한 이전 보조치료의 경우 마지막 투여 후 6개월 이상 경과해야 함)\n- 이전 치료의 부작용이 NCI CTCAE v4.0 기준 1등급 이하로 회복됨\n- 이전 방사선 치료 시 마지막 투여 후 4주 이상 경과 및 방사선 야외에 측정 가능 병변 존재\n- ECOG 수행능력 상태 0~1\n- 예상 여명 3개월 초과\n- 백혈구 >= 3,000/mcL, 절대호중구수 >= 1,500/mcL, 혈소판 >= 100,000/mcL\n- 총 빌리루빈 < 2.5 x 정상치 상한(ULN)\n- AST/ALT <= 2.5 x ULN (간 전이 있는 경우 <= 5 x ULN)\n- 크레아티닌 정상 범위 이내 또는 크레아티닌 청소율 >= 60 mL/min/1.73 m^2\n- 피임에 동의하며 알약을 삼킬 수 있는 능력 보유\n\n제외 기준:\n- 연구 참여 전 4주 이내(니트로소우레아 또는 마이토마이신 C는 6주 이내) 항암치료 또는 방사선 치료를 받은 환자\n- 다른 임상시험용 약물을 투여 중인 환자\n- 치료 전 4주 이내 주요 수술을 받은 환자\n- 뇌전이가 알려진 환자\n- dasatinib, erlotinib, gemcitabine 성분에 알레르기 병력이 있는 환자\n- 조절되지 않는 동반 질환(활동성 감염, 심부전, 불안정성 협심증, 심장 부정맥, 정신 질환 등)\n- 임산부 및 수유부\n- 면역결핍 환자\n- 강력한 CYP3A4 유도제 및 억제제를 복용 중인 환자\n- 흡수장애 증후군 또는 장 흡수를 방해하는 조건\n- 다른 활동성 악성 종양 (국소 치료된 비흑색종 피부암 제외)\n- 조합 항레트로바이러스 치료를 받는 HIV 양성 환자\n- 임상적으로 유의한 심혈관 질환이 있는 환자 (6개월 이내 심근경색 또는 심실성 부정맥, 연장된 QTc > 480 msec 등)",
   "eligibility_text": "Inclusion Criteria:\n\n* Cytologically or histologically confirmed pancreatic adenocarcinoma (excluding islet cell or ampullary tumors) that is metastatic or unresectable\n* Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Patients may have received prior chemotherapy for advanced disease as long as it did not include gemcitabine; if patients received prior adjuvant therapy including gemcitabine, patients must be \\> 6 months from the last dose of gemcitabine; patients must have recovered from side effects of prior therapy to grade =\\< 1 as measured by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.0\n* Patients may have received prior radiation presuming \\> 4 weeks since last dose and measurable disease outside the radiation field\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 1\n* Anticipated life expectancy of greater than 3 months\n* Leukocytes \\>= 3,000/mcL\n* Absolute neutrophil count \\>= 1,500/mcL\n* Platelets \\>= 100,000/mcL\n* Total bilirubin \\< 2.5 x institutional upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) (serum glutamic pyruvate transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 x institutional upper limit of normal OR =\\< 5 x institutional upper limit of normal when liver metastases are present\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 60 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately\n* Ability to understand and the willingness to sign a written informed consent document\n* Patients must be able to swallow pills\n\nExclusion Criteria:\n\n* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier (with the exception of alopecia and neuropathy); no radiation is allowed on study\n* Patients who are receiving any other investigational agents\n* Major surgical procedure within 4 weeks of treatment\n* Patients with known brain metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to dasatinib, erlotinib or gemcitabine\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnant women are excluded from this study, breastfeeding should be discontinued if the mother is treated with erlotinib or dasatinib\n* Patients with immune deficiency are excluded\n* Patients on potent cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) inducers and inhibitors\n* Malabsorption syndrome or other condition that would interfere with intestinal absorption\n* Other active malignancy (with the exception of locally treated non-melanoma skin cancers)\n* Human immunodeficiency virus (HIV) positive patients who are on combination antiretroviral therapy\n* Patients may not have any clinically significant cardiovascular disease including the following:\n\n  * Myocardial infarction or ventricular tachyarrhythmia within 6 months\n  * Prolonged corrected QT (QTc) \\> 480 msec (Fridericia correction)\n  * Known ejection faction less than institutional normal\n  * Major conduction abnormality (unless a cardiac pacemaker is present)",
   "enrollment": 19,
   "has_results": false,
@@ -80,15 +80,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "뇌전이가 있는 경우",
-    "조절되지 않는 심장 질환이나 활성 감염이 있는 경우",
-    "다른 활성 악성 종양이 있는 경우",
-    "임신 또는 수유 중인 경우"
+    "뇌전이가 있는 환자",
+    "조절되지 않는 심장 질환이나 활성 감염이 있는 환자",
+    "임산부 및 수유부",
+    "다른 활동성 악성 종양이 있는 환자"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 여부와 관계없이 전이성 또는 절제 불가능한 췌장암 환자를 위한 1상 임상시험입니다.",
+   "notes_ko": "전이성 또는 수술 불가능한 진행성 췌장암 환자를 위한 젬시타빈, 다사티닙, 엘로티닙 병용 임상 1상 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

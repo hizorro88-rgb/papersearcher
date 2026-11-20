@@ -1,0 +1,65 @@
+{
+ "abstract": "Extrapancreatic well-differentiated neuroendocrine tumors (NETs) can metastasize to the pancreas and mimic primary pancreatic NETs (PanNETs). We analyzed 12 patients with pathologically confirmed pancreatic involvement by NET and a documented extrapancreatic primary, comparing their immunophenotype with that of 195 primary PanNETs. The primary site was assigned independently of the immunohistochemical panel under investigation, using clinical and radiologic findings, disease distribution, and comparative morphology. Direct comparison of the primary and pancreatic tumors was possible in 9 cases and demonstrated concordant morphology. Ileal NETs accounted for 9 of 12 cases (75%); the other arose in the lung (n = 2) and kidney (n = 1). All 9 ileal metastases expressed serotonin and CDX2, and 8 of 9 expressed SATB2. Compared with primary PanNETs, metastatic NETs more frequently expressed serotonin (11/12 [92%] vs. 20/195 [10%]), SATB2 (9/12 [75%] vs. 14/165 [8%]), and CDX2 (9/12 [75%] vs. 17/190 [9%]). Conversely, ISL1 (2/12 [17%] vs. 139/186 [75%]) and ARX (1/12 [8%] vs. 124/187 [66%]) were more frequently expressed in primary PanNETs (all FDR-adjusted P < 0.001). Because most metastatic tumors were of ileal origin, these associations largely reflect an ileal immunophenotype and should not be interpreted as site-independent estimates of diagnostic performance. Determining tumor origin requires clinical history, imaging, comparative morphology, and targeted immunohistochemistry. Serotonin, SATB2, and CDX2 expression may support an ileal origin, whereas expression of ISL1 and ARX may support a pancreatic origin; no individual marker is definitive.",
+ "authors": [
+  "Kasajima A",
+  "Young ED",
+  "Salimian M",
+  "Ura A",
+  "Mogler C",
+  "Blackford AL",
+  "Chen T",
+  "Argani P"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43055880",
+ "importance": 0.69,
+ "key_points_ko": [
+  "췌장 전이 신경내분비종양 12건 중 75%(9건)는 회장(소장)에서 발생한 종양이었습니다.",
+  "췌장 전이 NET은 원발성 췌장 NET에 비해 serotonin(92% vs 10%), SATB2(75% vs 8%), CDX2(75% vs 9%) 발현율이 유의하게 높았습니다(모두 P < 0.001).",
+  "반대로 원발성 췌장 NET에서는 ISL1(75% vs 17%)과 ARX(66% vs 8%) 발현율이 유의하게 높아 두 질환의 감별에 도움을 줍니다(모두 P < 0.001)."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1007/s12022-026-09941-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43055880"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Endocr Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43055880/"
+ },
+ "summary_ko": "췌장 외 다른 장기에서 발생한 잘 분화된 신경내분비종양(NET)이 췌장으로 전이되면 원발성 췌장 신경내분비종양(PanNET)과 매우 유사하게 보일 수 있습니다. 본 다기관 국제 연구에서는 췌장 외 원발 병소와 췌장 전이가 확인된 12명의 환자를 대상으로 195명의 원발성 췌장 NET 환자와 면역조직화학적 특성을 비교했습니다. 췌장 전이 12건 중 75%(9건)는 회장(소장) 기원이었으며 폐 2건, 신장 1건이었습니다. 연구 결과 세로토닌, SATB2, CDX2는 회장 기원 전이에서 높은 발현을 보인 반면, ISL1과 ARX는 원발성 췌장 NET에서 더 흔하게 발현되었습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Neuroendocrine Tumors Metastatic to the Pancreas Can Mimic Primary Pancreatic Well-Differentiated Neuroendocrine Tumors: Clinical and Pathologic Features in a Multi-Institutional and International Study",
+ "title_ko": "원발성 췌장 신경내분비종양으로 오인될 수 있는 췌장 전이 신경내분비종양의 임상 및 병리학적 특징",
+ "trial": null,
+ "type": "paper"
+}

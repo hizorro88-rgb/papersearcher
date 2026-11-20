@@ -27,7 +27,11 @@
  ],
  "id": "pmid:43046782",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "수술 전 CONUT 점수 0~1점, 2~4점, 5점 이상 환자의 5년 전체 생존율(OS)은 각각 51.5%, 31.5%, 18.6%였습니다.",
+  "CONUT 점수 5점 이상인 환자군은 0~1점군에 비해 전체 생존 위험비(HR)가 2.410, 무재발 생존 위험비(RFS HR)가 2.006으로 사망 및 재발 위험이 높았습니다.",
+  "수술 전 CONUT 점수가 5점 이상으로 높을 경우 수술 후 췌장암 재발 위험비가 1.780으로 유의하게 증가했습니다."
+ ],
  "last_updated": "2026-11-19",
  "links": {
   "doi": "10.1002/wjs.70693",
@@ -49,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43046782/"
  },
- "summary_ko": "BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic marker in pancreatic ductal adenocarcinoma (PDAC), but its incremental value beyond conventional preoperative factors and its performance relative to other immunonutritional or inflammatory indices remain unclear. We evaluated the prognostic significance and incremental value of the preoperative CONUT score in resectable PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "수술 절제가 가능한 췌장관선암(PDAC) 환자 287명을 대상으로 수술 전 조절 영양 상태(CONUT) 점수의 예후 예측 가치를 평가한 다기관 소급 연구입니다. 수술 전 CONUT 점수가 높은 환자일수록 수술 후 전체 생존기간(OS) 및 무재발 생존기간(RFS)이 유의하게 짧았습니다. CONUT 점수 5점 이상인 고위험군 환자의 5년 생존율은 18.6%로 0~1점 군의 51.5%에 비해 현저히 낮았습니다. 수술 전 CONUT 점수 측정은 환자의 수술 후 재발 및 생존 위험을 사전에 정밀하게 평가하는 데 유용합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Incremental Prognostic Value of the Preoperative Controlling Nutritional Status Score in Patients Undergoing Surgery for Resectable Pancreatic Ductal Adenocarcinoma: A Multicenter Cohort Study",
- "title_ko": null,
+ "title_ko": "수술 가능한 췌장관선암 환자에서 수술 전 조절 영양 상태 점수의 예후 예측 가치: 다기관 코호트 연구",
  "trial": null,
  "type": "paper"
 }

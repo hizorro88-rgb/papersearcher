@@ -78,7 +78,7 @@ search:
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
-| [전이성 췌장암 환자에서 고분자 미셀 주사형 paclitaxel과 gemcitabine 병용요법의 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
+| [전이성 췌장암 1차 치료로서 고분자 미셀 파클리탁셀과 젬시타빈 병용요법의 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
 | [EGFR 양성 췌장암에서 수술 후 님오투주맙과 냅파클리탁셀+젬시타빈 병용 보조치료 연구](../trials/NCT06722911.md) | 2상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
 | [국소진행성 및 전이성 췌장암 환자에서 항암화학요법과 알파선 방출선원(DaRT) 병용 치료](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
@@ -131,7 +131,7 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (24)
+## 타임라인 (25)
 
 <a id="pmid-43038660"></a>
 #### [종양 내 이질성 정량을 위한 잉크젯 프린팅 단일 세포 유래 췌장암 오가노이드](https://pubmed.ncbi.nlm.nih.gov/43038660/)
@@ -499,5 +499,20 @@ search:
 - 환자는 gemcitabine과 nab-paclitaxel 병용 항암화학요법을 받았으며, 4개월 추적 관찰 시 영상학적으로 질병 안정(SD)을 보였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42857438/) · [DOI](https://doi.org/10.7759/cureus.116015) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13652551/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42857438)</small>
+
+---
+<a id="pmid-43054860"></a>
+#### [장기 중심 치료를 넘어: 전이성 위형 자궁경부선암의 유전체 기반 치료](https://pubmed.ncbi.nlm.nih.gov/43054860/)
+<small>Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma</small>
+
+`논문` `증례` `신약·치료제` `치료 전반` `진단·조기발견` `수술` · 2026-08-24 · PubMed · Gynecol Oncol Rep · 중요도 0.44
+
+자궁경부암의 희귀 유전형인 위형 자궁경부선암(GEA) 및 췌장 꼬리 부위 병변이 함께 발견된 81세 여성 환자의 증례 보고입니다. 차세대 염기서열 분석(NGS)을 통해 자궁경부 및 췌장 병변 모두에서 동일한 KRAS 및 TP53 유전자 변이가 확인되었습니다. 이에 따라 췌장암 치료법인 gemcitabine(젬시타빈)과 nab-paclitaxel(나브-팍리탁셀) 요법을 시행했습니다. 6주기 투여 후 완전히 관해되는 효과를 보였습니다.
+
+- 유전자 검사(NGS)를 통해 자궁경부 병변과 췌장 병변에서 동일한 KRAS 및 TP53 변이를 확인했습니다.
+- 췌장암 표준 치료인 gemcitabine 및 nab-paclitaxel 항암화학요법 6주기 투여 후 완전 영상학적·대사적 반응(CR)을 달성했습니다.
+- 희귀 암종에서 맞춤형 유전체 분석을 통한 정밀 치료 가능성을 제시한 사례입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43054860/) · [DOI](https://doi.org/10.1016/j.gore.2026.102196) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13780251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43054860)</small>
 
 ---

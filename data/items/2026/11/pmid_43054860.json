@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Gastric-type endocervical adenocarcinoma (GEA) is a rare, HPV-independent subtype of cervical cancer associated with aggressive behavior and poor response to conventional treatment for cervical cancer. Optimal management is hindered by limited clinical trial data specific to this rare cancer subtype. Genomic analysis holds the promise of identifying better therapy and improving outcomes in this and other rare diseases.\nCASE PRESENTATION: An 81-year-old woman presented with vaginal discharge and postmenopausal bleeding and was diagnosed with HPV-independent GEA. Imaging demonstrated a locally advanced cervical mass and a concurrent pancreatic tail lesion, raising concern for either metastatic cervical cancer or a synchronous primary pancreatic adenocarcinoma. Comparative next-generation sequencing demonstrated identical pathogenic alterations in KRAS and TP53, strongly supporting a shared clonal origin. Integration of the clinical, pathologic, and molecular findings favored metastatic GEA with a pancreatic-like phenotype, and pancreatic cancer-directed chemotherapy was initiated. The patient received gemcitabine and nab-paclitaxel and achieved a complete radiographic and metabolic response after six cycles. She subsequently underwent laparoscopic hysterectomy, with only microscopic residual disease at the cervicovaginal margin.\nCONCLUSIONS: Comparative molecular profiling may help clarify the relationship between tumors at different anatomic sites and inform individualized treatment selection in diagnostically challenging cases of GEA. The observed response to pancreatic cancer-directed chemotherapy in this case is hypothesis-generating and requires further investigation.",
+ "authors": [
+  "Smith CE",
+  "Tsiverioti CA",
+  "Debernardo RL"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43054860",
+ "importance": 0.44,
+ "key_points_ko": [
+  "유전자 검사(NGS)를 통해 자궁경부 병변과 췌장 병변에서 동일한 KRAS 및 TP53 변이를 확인했습니다.",
+  "췌장암 표준 치료인 gemcitabine 및 nab-paclitaxel 항암화학요법 6주기 투여 후 완전 영상학적·대사적 반응(CR)을 달성했습니다.",
+  "희귀 암종에서 맞춤형 유전체 분석을 통한 정밀 치료 가능성을 제시한 사례입니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1016/j.gore.2026.102196",
+  "nct": [],
+  "pmcid": "PMC13780251",
+  "pmid": "43054860"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-08-24",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gynecol Oncol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054860/"
+ },
+ "summary_ko": "자궁경부암의 희귀 유전형인 위형 자궁경부선암(GEA) 및 췌장 꼬리 부위 병변이 함께 발견된 81세 여성 환자의 증례 보고입니다. 차세대 염기서열 분석(NGS)을 통해 자궁경부 및 췌장 병변 모두에서 동일한 KRAS 및 TP53 유전자 변이가 확인되었습니다. 이에 따라 췌장암 치료법인 gemcitabine(젬시타빈)과 nab-paclitaxel(나브-팍리탁셀) 요법을 시행했습니다. 6주기 투여 후 완전히 관해되는 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma",
+ "title_ko": "장기 중심 치료를 넘어: 전이성 위형 자궁경부선암의 유전체 기반 치료",
+ "trial": null,
+ "type": "paper"
+}

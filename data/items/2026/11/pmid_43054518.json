@@ -1,0 +1,64 @@
+{
+ "abstract": "Pancreatic cancer remains highly lethal, and noninvasive biomarkers that capture the tumor immune microenvironment are urgently needed for individualized treatment and prognostic stratification. Here, we developed a contrast-enhanced computed tomography (CT) radiomics-based machine learning approach to preoperatively predict V-domain Ig suppressor of T-cell activation (VISTA) expression and evaluated its association with survival. In this retrospective single-center study, 89 patients who underwent surgical resection were analyzed using preoperative CT images, clinicopathologic variables, and survival data. VISTA expression from postoperative specimens served as the reference standard. Radiomic features were extracted from manually delineated tumor regions, selected using least absolute shrinkage and selection operator regression, and used to train 7 machine learning models with 10-fold cross-validation. Seven features were retained, and the random forest model achieved the best performance, with an AUC of 0.761. Low VISTA expression was independently associated with worse survival in multivariable Cox regression and improved time-dependent prognostic prediction when added to a baseline model. These findings suggest that CT radiomics may provide a noninvasive tool for predicting VISTA expression and refining prognostic stratification in pancreatic cancer.",
+ "authors": [
+  "Wang S",
+  "Zhu L",
+  "Xu K",
+  "Wu R",
+  "Zhu Y",
+  "Shen W",
+  "Liu X",
+  "Liu F"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43054518",
+ "importance": 0.66,
+ "key_points_ko": [
+  "수술을 받은 췌장암 환자 89명의 수술 전 CT 영상 데이터를 기반으로 VISTA 발현을 예측하는 머신러닝 모델을 개발했습니다.",
+  "선별된 7개 영상 특징을 활용한 랜덤 포레스트 모델이 AUC 0.761의 예측 성능을 나타냈습니다.",
+  "분석 결과 낮은 VISTA 발현은 췌장암 환자의 불량한 생존기간과 독립적인 연관성을 보였습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1177/15353508261503758",
+  "nct": [],
+  "pmcid": "PMC13778360",
+  "pmid": "43054518"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054518/"
+ },
+ "summary_ko": "수술을 받은 췌장암 환자 89명을 대상으로 수술 전 조영증강 컴퓨터단층촬영(CT) 영상 기반의 라디오믹스(radiomics) 머신러닝 모델을 개발하여 면역억제 인자인 VISTA(V-domain Ig suppressor of T-cell activation) 발현을 예측했습니다. 7개 머신러닝 모델 중 랜덤 포레스트(Random Forest) 모델이 수술 전 VISTA 발현 예측에서 곡선하면적(AUC) 0.761로 가장 우수한 성능을 보였습니다. 다변량 콕스 회귀분석 결과 VISTA의 낮은 발현은 불량한 생존기간과 독립적으로 연관되어 있었습니다. 연구진은 CT 영상 분석이 종양 면역 미세환경을 비침습적으로 평가하고 예후를 정밀하게 분류하는 도구가 될 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prediction of VISTA Expression and Its Prognostic Value in Pancreatic Cancer Using Contrast-Enhanced CT Radiomics",
+ "title_ko": "조영증강 CT 라디오믹스를 활용한 췌장암 내 VISTA 발현 예측 및 예후적 가치",
+ "trial": null,
+ "type": "paper"
+}

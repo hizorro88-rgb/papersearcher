@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma is a highly lethal malignancy with a 5-year survival rate of only 13%, due to late diagnosis, aggressive progression, and chemoresistance. Da-Chai-Hu-Tang a classical formula in Treatise on Febrile Diseases, has shown clinical benefits in pancreatic cancer patients, but its pharmacological mechanisms and active constituents remain unclear.\nMETHODS: An orthotopic PANC02-Luc model in C57BL/6J mice received DCHT (0.13, 0.26, 0.52 g·kg‒1·d‒1) or gemcitabine (20 mg·kg‒1, twice weekly) for 28 days. Tumor progression was monitored by bioluminescence imaging; organ coefficients, and histopathology were assessed. Tumor transcriptomics, tumor-targeted energy metabolomics, and serum untargeted metabolomics, were integrated to identify mechanistic pathways. In vitro, PANC02, PATU-8988T, and PANC1 cells were used to assess proliferation, colony formation, migration, reactive oxygen species (ROS) levels, mitochondrial membrane potential, and apoptosis. The expressions of HIF‒1α, VEGFA, mitophagy regulators (PINK1, Parkin, DRP1, MFN1/2), and apoptosis markers (Bcl-2, Bax) were examined by Western blotting, immunohistochemistry, and immunofluorescence. Chemical profiling combined with blood-absorbed component analysis identified Rhein as a representative compound underlying the anti-pancreatic cancer activity of DCHT.\nRESULTS: DCHT significantly inhibited orthotopic tumor growth, and alleviated multi-organ pathological damage without detectable toxicity. Multi-omics integration showed that DCHT predominantly modulated energy metabolism pathways, partially restoring TCA cycle intermediate balance by reversing an \"upstream accumulation and downstream depletion\" pattern (elevated citrate, isocitrate, cis-aconitate, and PEP; reduced α-KG, fumarate, and malate) in both tumor tissues and serum. DCHT downregulated HIF‒1α and VEGFA, suppressed PINK1/Parkin-mediated mitophagy, shifted mitochondrial dynamics toward fusion (decreased DRP1, increased MFN1/2), and promoted apoptosis (reduced Bcl-2/Bax ratio) both in vitro and in vivo. Integrative analysis of chemical profiling and blood-absorbed components pinpointed Rhein as one of the key active compounds which partly recapitulated the anti-proliferative, pro-apoptotic, and HIF‒1α-mitophagy modulating effects of the full formula.\nCONCLUSION: These findings reveal that DCHT treatment is associated with concurrent changes in TCA-cycle metabolism, HIF‒1α, PINK1/Parkin-mediated mitophagy, and apoptosis. This study also identifies Rhein as one of the key pharmacologically active constituents. These findings provide mechanistic and experimental evidence supporting the potential clinical relevance of DCHT in pancreatic cancer therapy and offer a foundation for developing multi-target therapeutic strategies against this devastating disease.",
+ "authors": [
+  "Hu J",
+  "Yang Z",
+  "Nie X",
+  "Zou Y",
+  "Han L",
+  "Xie W",
+  "Wei S"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43054287",
+ "importance": 0.57,
+ "key_points_ko": [
+  "마우스 췌장암 동소이식 모델에서 대시호탕 투여는 뚜렷한 독성 없이 종양 성장을 억제하고 다발성 장기 손상을 완화했습니다.",
+  "대시호탕은 HIF-1α 및 VEGFA를 하향 조절하고 PINK1/Parkin 매개 미토파지를 억제하여 세포사멸을 촉진했습니다.",
+  "성분 분석 결과 활성 성분 중 하나인 라인(Rhein)이 대시호탕의 항증식 및 세포사멸 유도 효과를 일부 재현하는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.3389/fcell.2026.1986993",
+  "nct": [],
+  "pmcid": "PMC13778019",
+  "pmid": "43054287"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Cell Dev Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054287/"
+ },
+ "summary_ko": "전통 처방인 대시호탕(Da-Chai-Hu-Tang, DCHT)의 췌장암 억제 효과와 기전을 규명하기 위해 동물 및 세포 실험을 진행한 전임상 연구입니다. 췌장암 마우스 모델에 대시호탕을 28일간 투여한 결과, 뚜렷한 독성 없이 종양 성장이 유의하게 억제되었습니다. 대시호탕은 TCA 회로 등 에너지 대사를 정상화하고, 저산소유도인자-1α(HIF-1α)와 미토파지(mitophagy) 관련 단백질을 억제하여 암세포의 사멸을 유도했습니다. 또한 대시호탕의 주요 활성 성분 중 하나로 라인(Rhein)이 항암 효과에 기여함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Da-Chai-Hu-Tang suppresses pancreatic cancer malignancy in association with HIF‒1α downregulation and modulation of mitochondrial dynamics through metabolism-related signaling",
+ "title_ko": "대시호탕의 대사 관련 신호 조절, HIF-1α 하향 조절 및 미토콘드리아 역동성 제어를 통한 췌장암 악성도 억제",
+ "trial": null,
+ "type": "paper"
+}

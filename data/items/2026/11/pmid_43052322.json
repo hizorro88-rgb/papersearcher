@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is an exceedingly lethal cancer that lacks actionable molecular drivers. We previously identified the transcription factor, HNF1A, as a novel driver of tumorigenesis, stemness, and metastasis in PDAC; however, HNF1A-targeting modalities do not currently exist. Here we show that HNF1A is a direct target of BRD4, with HNF1A's expression, PDAC cell proliferation, and stemness exquisitely sensitive to BET-inhibitors (BETi), all of which can be overcome by HNF1A re-expression in a panel of PDAC cell models. RNA-sequencing analyses revealed that a subset of BETi-responsive transcripts is dependent on HNF1A expression, including multiple components of EGFR/ERBB3-signaling, with EGFR-inhibitors able to overcome HNF1A's protective effects. We found that expressions of HNF1A, BRD4, and ERBB3 were strongly correlated across PDAC patient samples, further supporting the relevancy of this regulatory axis to the disease. These findings establish HNF1A as a novel, critical target and determinant of BETi in PDAC.",
+ "authors": [
+  "Humphrey KS",
+  "Crawford KJ",
+  "Muppavarapu B",
+  "Mayberry MM",
+  "Morris W",
+  "Torres E",
+  "Long MD",
+  "Wang J"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43052322",
+ "importance": 0.54,
+ "key_points_ko": [
+  "HNF1A는 후성유전 조절인자인 BRD4의 직접 표적이며, BET 억제제를 통해 HNF1A 발현과 췌장암 세포의 증식 및 줄기세포성을 억제할 수 있음을 확인했습니다.",
+  "HNF1A가 보호하는 신호전달 경로에는 EGFR/ERBB3가 포함되어 있으며, EGFR 억제제를 통해 이러한 보호 효과를 극복할 수 있음을 관찰했습니다.",
+  "실제 췌관선암 환자 검체에서 HNF1A, BRD4, ERBB3의 발현 수준이 서로 유의미한 양의 상관관계를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": "10.1038/s42003-026-10685-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43052322"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-07-30",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Commun Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052322/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 암 줄기세포성 및 전이를 유발하는 전사인자인 HNF1A를 표적하는 치료 전략을 규명한 전임상 기초 연구입니다. 연구진은 HNF1A가 BRD4의 직접적인 표적이며, BET 억제제(BETi) 투여 시 HNF1A 발현 감소와 함께 암세포 증식 및 줄기세포성이 억제됨을 확인했습니다. 또한 BET 억제제 반응에는 HNF1A가 조절하는 EGFR/ERBB3 신호전달계가 관여하며, 실제 췌장암 환자 검체에서도 HNF1A, BRD4, ERBB3 발현이 강한 상관관계를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "HNF1A is a novel BRD4 target and critical for BET-inhibitor response in pancreatic ductal adenocarcinoma",
+ "title_ko": "HNF1A는 BRD4의 새로운 표적이며 췌관선암에서 BET 억제제 반응성에 필수적입니다",
+ "trial": null,
+ "type": "paper"
+}

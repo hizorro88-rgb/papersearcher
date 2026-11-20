@@ -8,6 +8,7 @@
  ],
  "categories": [
   "surgery",
+  "treatment",
   "diagnosis"
  ],
  "entities": [],
@@ -22,12 +23,16 @@
  ],
  "id": "pmid:43049765",
  "importance": 0.72,
- "key_points_ko": [],
- "last_updated": "2026-11-19",
+ "key_points_ko": [
+  "소아 췌장 수술 환자 761명의 원인은 만성 췌장염(37.3%), 췌장 종양(29.0%), 외상(16.7%) 순이었습니다.",
+  "전체 병원 내 사망률은 2.8%(21명)였으며, 췌장 종양으로 수술받은 소아 환자군에서는 사망이 발생하지 않았습니다.",
+  "전체 합병증 발생률은 41.9%였고, 전체 췌장 절제술을 받은 환자에서 합병증 발생률(92.9%)이 가장 높았습니다."
+ ],
+ "last_updated": "2026-11-20",
  "links": {
   "doi": "10.1093/bjsopen/zrag140",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13779831",
   "pmid": "43049765"
  },
  "pub_types": [
@@ -45,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43049765/"
  },
- "summary_ko": "BACKGROUND: Paediatric patients differ in various ways from adult populations, but comprehensive multicentre or population-based data are missing for paediatric pancreatic surgery. This study evaluated indications, procedures, complications, and mortality in paediatric patients undergoing pancreatic surgery.",
- "summary_source": "excerpt",
+ "summary_ko": "2010년부터 2023년까지 독일 데이터베이스를 활용해 췌장 수술을 받은 19세 미만 소아·청소년 환자 761명을 분석한 전국 단위 연구입니다. 주요 수술 원인은 만성 췌장염(37.3%)과 췌장 종양(29.0%)이었으며, 췌장 원위부 절제술(36.9%)이 가장 흔하게 시행되었습니다. 병원 내 사망률은 2.8%로 낮았고 췌장 종양 환자 중 사망자는 없었으나, 전체 합병증 발생률은 41.9%로 높게 나타났습니다. 전체 췌장 절제술을 시행받은 경우 합병증 발생률이 92.9%에 달하여 광범위한 절제 시 높은 유병률이 확인되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Pancreatic surgery in children: nationwide retrospective observational study",
- "title_ko": null,
+ "title_ko": "소아 췌장 수술에 대한 전국 단위 후향적 관찰 연구",
  "trial": null,
  "type": "paper"
 }

@@ -16,12 +16,126 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 417건 · 최근 30일 302건
+전체 425건 · 최근 30일 293건
 
 월별 보기: [2026-11](basic/2026-11.md) · [2026-10](basic/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43053676"></a>
+#### [신경 인접성 및 고내피세정맥으로 확인된 3차 림프구조 환경과 진행성 췌장암 생존기간의 연관성: 부검 연구](https://pubmed.ncbi.nlm.nih.gov/43053676/)
+<small>Nerve proximity and high endothelial venules mark tertiary lymphoid structure niches associated with survival in advanced pancreatic cancer: an autopsy study</small>
+
+`논문` `관찰연구` `기초연구` `치료 전반` · 2026-11-18 · PubMed · Cancer Res Commun · 중요도 0.73
+
+진행성 췌장암 및 팽대부주위암 환자 19명의 부검 조직 480개 블록을 분석하여 3차 림프구조(TLS)의 특성을 조사했습니다. 분석 결과 총 279개의 3차 림프구조가 확인되었으며 대부분 원발암에 위치했고 미성숙한 형태였습니다. 단순히 3차 림프구조의 개수나 크기는 전체 생존기간(OS)과 연관이 없었습니다. 반면 고내피세정맥(HEV)을 포함하거나 신경과 인접한 3차 림프구조는 환자의 생존기간 연장과 유의미한 연관성을 보였습니다.
+
+- 진행성 췌장암 환자 19명의 부검 조직에서 279개의 3차 림프구조(TLS)를 확인했으나, 단순 개수나 크기는 전체 생존기간(OS)과 유의미한 상관이 없었습니다.
+- 고내피세정맥(HEV)을 포함하는 3차 림프구조는 크기가 더 크고 전이 병변에서 생존기간 연장과 연관되는 경향을 보였습니다.
+- 신경에 인접한 3차 림프구조의 수는 환자의 전체 생존기간(OS) 및 고내피세정맥 함유 림프구조 수와 유의한 양의 상관관계를 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43053676/) · [DOI](https://doi.org/10.1158/2767-9764.CRC-26-0446) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43053676)</small>
+
+---
+<a id="pmid-43054518"></a>
+#### [조영증강 CT 라디오믹스를 활용한 췌장암 내 VISTA 발현 예측 및 예후적 가치](https://pubmed.ncbi.nlm.nih.gov/43054518/)
+<small>Prediction of VISTA Expression and Its Prognostic Value in Pancreatic Cancer Using Contrast-Enhanced CT Radiomics</small>
+
+`논문` `관찰연구` `진단·조기발견` `기초연구` `치료 전반` `수술` · 2026-10-31 · PubMed · Mol Imaging · 중요도 0.66
+
+수술을 받은 췌장암 환자 89명을 대상으로 수술 전 조영증강 컴퓨터단층촬영(CT) 영상 기반의 라디오믹스(radiomics) 머신러닝 모델을 개발하여 면역억제 인자인 VISTA(V-domain Ig suppressor of T-cell activation) 발현을 예측했습니다. 7개 머신러닝 모델 중 랜덤 포레스트(Random Forest) 모델이 수술 전 VISTA 발현 예측에서 곡선하면적(AUC) 0.761로 가장 우수한 성능을 보였습니다. 다변량 콕스 회귀분석 결과 VISTA의 낮은 발현은 불량한 생존기간과 독립적으로 연관되어 있었습니다. 연구진은 CT 영상 분석이 종양 면역 미세환경을 비침습적으로 평가하고 예후를 정밀하게 분류하는 도구가 될 수 있다고 결론지었습니다.
+
+- 수술을 받은 췌장암 환자 89명의 수술 전 CT 영상 데이터를 기반으로 VISTA 발현을 예측하는 머신러닝 모델을 개발했습니다.
+- 선별된 7개 영상 특징을 활용한 랜덤 포레스트 모델이 AUC 0.761의 예측 성능을 나타냈습니다.
+- 분석 결과 낮은 VISTA 발현은 췌장암 환자의 불량한 생존기간과 독립적인 연관성을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43054518/) · [DOI](https://doi.org/10.1177/15353508261503758) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778360/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43054518)</small>
+
+---
+<a id="pmid-43054701"></a>
+#### [Pancreatic Ductal Adenocarcinoma Progression Is Associated With Reduced Stromal Organization and Adaptive Tumor Signaling at Single-Cell Resolution](https://pubmed.ncbi.nlm.nih.gov/43054701/)
+`논문` `기타` `기초연구` · 2026-11-03 · PubMed · MicroPubl Biol · 중요도 0.65
+
+Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with a poor survival rate. Publicly available single-cell RNA sequencing datasets were analyzed to characterize transcriptional changes across 33 PDAC and three normal pancreas samples.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43054701/) · [DOI](https://doi.org/10.17912/micropub.biology.002290) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778706/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43054701)</small>
+
+---
+<a id="pmid-43055344"></a>
+#### [췌장암에서 PHGDH 억제가 유도하는 표적 가능한 글루타민 의존성](https://pubmed.ncbi.nlm.nih.gov/43055344/)
+<small>PHGDH Inhibition Confers a Targetable Glutamine Dependency in Pancreatic Cancer</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-19 · PubMed · Cancer Res · 중요도 0.64
+
+본 연구는 췌장관선암종(PDAC)의 세린 생합성 율속 효소인 PHGDH의 역할과 대사적 취약점을 규명한 전임상 연구입니다. 인간과 마우스 조직에서 PHGDH는 전암 단계에서 침습성 암으로 진행할수록 발현이 증가하는 것으로 나타났습니다. 유전자 조작 마우스에서 PHGDH를 결핍시키거나 억제제(BI-9593)를 투여했을 때 암 발생이 지연되고 종양 퇴행이 유도되었습니다. 특히 PHGDH가 억제된 종양은 글루타민 흡수 및 이용 능력이 저하되어 글루타민 길항제인 DRP-104에 민감해지는 치료적 취약점을 보였습니다.
+
+- PHGDH 발현은 췌장암의 진행 단계(PanIN에서 침습성 PDAC)에 따라 점진적으로 증가했습니다.
+- PHGDH 억제제 BI-9593은 신규 세린 합성을 억제하고 세포 사멸 및 종양 퇴행을 유도했습니다.
+- PHGDH 결핍 종양은 ASCT2 발현 감소로 글루타민 대사에 장애가 생겨 글루타민 길항제 DRP-104에 선택적인 민감도를 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43055344/) · [DOI](https://doi.org/10.1158/0008-5472.CAN-26-1484) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43055344)</small>
+
+---
+<a id="pmid-43056033"></a>
+#### [HSP70을 표적하는 종양용해 백시니아 바이러스의 췌관선암에 대한 유의한 세포독성 효과](https://pubmed.ncbi.nlm.nih.gov/43056033/)
+<small>Oncolytic vaccinia virus targeting HSP70 exhibits significant cytotoxic effects on pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-19 · PubMed · Med Oncol · 중요도 0.61
+
+췌관선암(PDAC) 세포에서 복제능력과 세포독성을 높이기 위해 HSP70을 표적하는 새로운 재조합 종양용해 백시니아 바이러스(oncoVV-shHSP70)를 제작하여 평가한 전임상 연구입니다. 연구진은 해당 바이러스가 NRF2/HO-1 항산화 경로를 억제해 활성산소(ROS)를 증가시키고 세포사멸을 유도함을 확인했습니다. 또한 면역 결핍 쥐 모델에서 종양 성장을 유의하게 억제했습니다. 면역 정상 쥐 모델에서는 종양 내 CD8⁺ T세포의 침윤을 증가시키는 것으로 나타났습니다.
+
+- HSP70을 억제하는 종양용해 바이러스(oncoVV-shHSP70)는 췌관선암 세포에서 우수한 복제 능력과 세포독성을 보였습니다.
+- NRF2/HO-1 경로 억제를 통해 활성산소(ROS) 수치를 높이고 세포사멸(apoptosis)을 유도하는 기전이 확인되었습니다.
+- 동물 실험에서 종양 성장을 유의하게 억제하였으며, 종양 조직 내 CD8⁺ T세포 침윤을 증가시켰습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43056033/) · [DOI](https://doi.org/10.1007/s12032-026-03505-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43056033)</small>
+
+---
+<a id="pmid-43054287"></a>
+#### [대시호탕의 대사 관련 신호 조절, HIF-1α 하향 조절 및 미토콘드리아 역동성 제어를 통한 췌장암 악성도 억제](https://pubmed.ncbi.nlm.nih.gov/43054287/)
+<small>Da-Chai-Hu-Tang suppresses pancreatic cancer malignancy in association with HIF‒1α downregulation and modulation of mitochondrial dynamics through metabolism-related signaling</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `진단·조기발견` · 2026-11-04 · PubMed · Front Cell Dev Biol · 중요도 0.57
+
+전통 처방인 대시호탕(Da-Chai-Hu-Tang, DCHT)의 췌장암 억제 효과와 기전을 규명하기 위해 동물 및 세포 실험을 진행한 전임상 연구입니다. 췌장암 마우스 모델에 대시호탕을 28일간 투여한 결과, 뚜렷한 독성 없이 종양 성장이 유의하게 억제되었습니다. 대시호탕은 TCA 회로 등 에너지 대사를 정상화하고, 저산소유도인자-1α(HIF-1α)와 미토파지(mitophagy) 관련 단백질을 억제하여 암세포의 사멸을 유도했습니다. 또한 대시호탕의 주요 활성 성분 중 하나로 라인(Rhein)이 항암 효과에 기여함을 확인했습니다.
+
+- 마우스 췌장암 동소이식 모델에서 대시호탕 투여는 뚜렷한 독성 없이 종양 성장을 억제하고 다발성 장기 손상을 완화했습니다.
+- 대시호탕은 HIF-1α 및 VEGFA를 하향 조절하고 PINK1/Parkin 매개 미토파지를 억제하여 세포사멸을 촉진했습니다.
+- 성분 분석 결과 활성 성분 중 하나인 라인(Rhein)이 대시호탕의 항증식 및 세포사멸 유도 효과를 일부 재현하는 것으로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43054287/) · [DOI](https://doi.org/10.3389/fcell.2026.1986993) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778019/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43054287)</small>
+
+---
+<a id="pmid-43052322"></a>
+#### [HNF1A는 BRD4의 새로운 표적이며 췌관선암에서 BET 억제제 반응성에 필수적입니다](https://pubmed.ncbi.nlm.nih.gov/43052322/)
+<small>HNF1A is a novel BRD4 target and critical for BET-inhibitor response in pancreatic ductal adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-07-30 · PubMed · Commun Biol · 중요도 0.54
+
+췌관선암(PDAC)의 암 줄기세포성 및 전이를 유발하는 전사인자인 HNF1A를 표적하는 치료 전략을 규명한 전임상 기초 연구입니다. 연구진은 HNF1A가 BRD4의 직접적인 표적이며, BET 억제제(BETi) 투여 시 HNF1A 발현 감소와 함께 암세포 증식 및 줄기세포성이 억제됨을 확인했습니다. 또한 BET 억제제 반응에는 HNF1A가 조절하는 EGFR/ERBB3 신호전달계가 관여하며, 실제 췌장암 환자 검체에서도 HNF1A, BRD4, ERBB3 발현이 강한 상관관계를 보였습니다.
+
+- HNF1A는 후성유전 조절인자인 BRD4의 직접 표적이며, BET 억제제를 통해 HNF1A 발현과 췌장암 세포의 증식 및 줄기세포성을 억제할 수 있음을 확인했습니다.
+- HNF1A가 보호하는 신호전달 경로에는 EGFR/ERBB3가 포함되어 있으며, EGFR 억제제를 통해 이러한 보호 효과를 극복할 수 있음을 관찰했습니다.
+- 실제 췌관선암 환자 검체에서 HNF1A, BRD4, ERBB3의 발현 수준이 서로 유의미한 양의 상관관계를 나타냈습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43052322/) · [DOI](https://doi.org/10.1038/s42003-026-10685-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43052322)</small>
+
+---
+<a id="pmid-43052482"></a>
+#### [대세포 췌장 신경내분비암에서의 비정상적인 뇌 유형 신경 분화 프로그램](https://pubmed.ncbi.nlm.nih.gov/43052482/)
+<small>Aberrant brain-type neuronal programs in large-cell pancreatic neuroendocrine carcinoma</small>
+
+`논문` `전임상` `기초연구` `치료 전반` `신경내분비종양` · 2026-07-30 · PubMed · Commun Biol · 중요도 0.41
+
+고등급 췌장 신경내분비암(panNEC)은 발생 빈도가 낮고 매우 공격적인 악성 종양입니다. 연구진은 5건의 대세포 췌장 신경내분비암 검체를 대상으로 단일 핵 전사체(Single-nucleus transcriptomics) 분석을 수행했습니다. 분석 결과, 비정상적인 뇌 특이적 신경 분화 특성을 가지며 증식력이 높은 상태와 열 스트레스, 저산소증, 해당작용 관련 경로가 활성화된 스트레스 반응 상태의 두 가지 세포 상태가 확인되었습니다. 연구진은 이러한 결과가 치료적 취약점을 시사하며 향후 병용 요법 평가의 필요성을 뒷받침한다고 설명했습니다.
+
+- 대세포 췌장 신경내분비암(panNEC) 5건의 조직을 단일 핵 전사체 기법으로 분석했습니다.
+- 종양 내에서 고증식성 뇌 특이 신경 분화 상태와 스트레스 반응 상태라는 2가지 뚜렷한 세포 상태를 규명했습니다.
+- 이러한 세포 상태 특성을 바탕으로 새로운 병용 요법의 탐색 필요성이 제시되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43052482/) · [DOI](https://doi.org/10.1038/s42003-026-10692-0) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43052482)</small>
+
+---
 <a id="pmid-43040073"></a>
 #### [췌장암에서 비단백질 코딩 변이의 기능적 검증을 위한 전산 및 실험적 전략](https://pubmed.ncbi.nlm.nih.gov/43040073/)
 <small>Computational and experimental strategies for functional validation of non-coding variants in pancreatic cancer</small>
@@ -84,21 +198,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43050241/) · [DOI](https://doi.org/10.1097/PPO.0000000000000862) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43050241)</small>
 
 ---
-<a id="pmid-43050319"></a>
-#### [ATAT1 의존성 미세소관 아세틸화는 DNMT1을 통한 NDRG4 조절을 통해 췌장암 발생을 유도합니다](https://pubmed.ncbi.nlm.nih.gov/43050319/)
-<small>ATAT1-dependent microtubule acetylation drives pancreatic tumorigenesis through DNMT1-mediated regulation of NDRG4</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-18 · PubMed · Proc Natl Acad Sci U S A · 중요도 0.64
-
-미세소관 아세틸화 효소인 ATAT1이 췌관선암(PDAC)의 주요 암화 과정에 관여함을 규명한 전임상 연구입니다. 연구진은 인간 췌관선암과 유전자 조작 생쥐 모델에서 ATAT1 활성이 증가해 있음을 확인했습니다. ATAT1의 유전적 불활성화 또는 약물 억제는 심각한 독성 없이 췌관선암 세포의 성장을 억제하고 종양 부담을 감소시켰습니다. 기전적으로 ATAT1은 Akt-GSK3β-DNMT1 신호 전달 축을 통해 종양 억제 유전자인 NDRG4의 발현을 억제하는 것으로 나타났습니다.
-
-- 췌관선암(PDAC)은 ATAT1에 의존하는 악성 종양으로 확인되었습니다.
-- ATAT1을 유전적으로 불활성화하거나 억제하면 췌관선암 세포의 성장이 억제되고 KPC 생쥐의 종양 형성이 현저히 감소했습니다.
-- ATAT1은 Akt 신호를 유지하여 DNA 메틸전달효소인 DNMT1을 안정화하고, 이는 NDRG4 등의 종양 억제 유전자를 억제합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43050319/) · [DOI](https://doi.org/10.1073/pnas.2604077123) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43050319)</small>
-
----
 <a id="pmid-43044444"></a>
 #### [나노 스케일 생체표지자의 미세 크기 부호화를 통한 결정적 측면 변위 미세유체학 기반 췌장암 진단 통합 분석](https://pubmed.ncbi.nlm.nih.gov/43044444/)
 <small>Microscale encoding of nanoscale biomarkers enables unified analysis by deterministic lateral displacement microfluidics for pancreatic cancer detection</small>
@@ -115,6 +214,21 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43044444/) · [DOI](https://doi.org/10.1016/j.bios.2026.119437) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43044444)</small>
 
 ---
+<a id="pmid-43050319"></a>
+#### [ATAT1 의존성 미세소관 아세틸화는 DNMT1을 통한 NDRG4 조절을 통해 췌장암 발생을 유도합니다](https://pubmed.ncbi.nlm.nih.gov/43050319/)
+<small>ATAT1-dependent microtubule acetylation drives pancreatic tumorigenesis through DNMT1-mediated regulation of NDRG4</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` · 2026-11-18 · PubMed · Proc Natl Acad Sci U S A · 중요도 0.64
+
+미세소관 아세틸화 효소인 ATAT1이 췌관선암(PDAC)의 주요 암화 과정에 관여함을 규명한 전임상 연구입니다. 연구진은 인간 췌관선암과 유전자 조작 생쥐 모델에서 ATAT1 활성이 증가해 있음을 확인했습니다. ATAT1의 유전적 불활성화 또는 약물 억제는 심각한 독성 없이 췌관선암 세포의 성장을 억제하고 종양 부담을 감소시켰습니다. 기전적으로 ATAT1은 Akt-GSK3β-DNMT1 신호 전달 축을 통해 종양 억제 유전자인 NDRG4의 발현을 억제하는 것으로 나타났습니다.
+
+- 췌관선암(PDAC)은 ATAT1에 의존하는 악성 종양으로 확인되었습니다.
+- ATAT1을 유전적으로 불활성화하거나 억제하면 췌관선암 세포의 성장이 억제되고 KPC 생쥐의 종양 형성이 현저히 감소했습니다.
+- ATAT1은 Akt 신호를 유지하여 DNA 메틸전달효소인 DNMT1을 안정화하고, 이는 NDRG4 등의 종양 억제 유전자를 억제합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43050319/) · [DOI](https://doi.org/10.1073/pnas.2604077123) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43050319)</small>
+
+---
 <a id="pmid-43045844"></a>
 #### [ASO 저자 반성: 췌관선암의 생물학적 이질성을 포착하는 예후 예측을 향하여](https://pubmed.ncbi.nlm.nih.gov/43045844/)
 <small>ASO Author Reflections: Towards Prognostication that Captures the Biological Heterogeneity of Pancreatic Ductal Adenocarcinoma</small>
@@ -129,19 +243,19 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43045844/) · [DOI](https://doi.org/10.1245/s10434-026-20817-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43045844)</small>
 
 ---
-<a id="pmid-43046161"></a>
-#### [당뇨병과 췌장암 간의 잠재적 분자 교차작용에 대한 통합적 전산 분석: Nisha-Amalaki의 네트워크 약리학 연구](https://pubmed.ncbi.nlm.nih.gov/43046161/)
-<small>Integrative Computational Analysis of the Putative Molecular Crosstalk Between Diabetes Mellitus and Pancreatic Cancer: A Network Pharmacology Study of Nisha-Amalaki</small>
+<a id="doi-10.64898-2026.11.13.766013"></a>
+#### [TR-107과 capivasertib은 체외에서 췌장암 오가노이드 성장을 시너지 효과로 억제합니다](https://europepmc.org/article/PPR/PPR1369616)
+<small>TR-107 and Capivasertib Synergistically Inhibit Pancreatic Cancer Organoid Growth In Vitro</small>
 
-`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-11-17 · PubMed · OMICS · 중요도 0.56
+`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-11-17 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
 
-본 연구는 인도 전통 아유르베다 제제인 Nisha-Amalaki(NA)의 식물성 화학 물질이 당뇨병(diabetes mellitus)과 췌장암(pancreatic cancer)에 미치는 동시 항당뇨 및 항암 효과의 분자적 표적을 규명하기 위해 통합적 전산 분석(integrative computational approaches)을 수행했습니다. 311개의 NA 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 도출되었습니다. 네트워크 분석 결과 IL-6/JAK/STAT3, 정점 접합(apical junction), 세포사멸(apoptosis) 경로 등이 관여하는 것으로 나타났습니다. 분자 도킹(molecular docking) 및 동역학 분석에서 curcumine(an.)은 gefitinib보다 더 강한 EGFR 결합력을 보였습니다. 본 연구는 NA가 염증, 대사 및 접합 경로 조절을 통해 췌장암과 당뇨병 치료에 잠재력이 있음을 시사하는 전산학적 근거를 제공합니다.
+췌장관선암(PDAC) 환자를 위한 새로운 치료 전략으로 미토콘드리아 ClpXP 복합체를 표적하는 연구입니다. 연구진은 새로운 ClpP 활성제인 TR-107이 4개의 췌장암 오가노이드와 세포주에서 낮은 나노몰 농도로 세포 생존력을 감소시키는 것을 확인했습니다. 또한 TR-107은 AKT 억제제인 capivasertib(카피바세르팁)과 병용 시 세포 생존력을 억제하는 시너지 효과를 보였습니다. 이 결과는 TR-107이 췌장암 치료를 위한 유망한 후보 물질임을 시사합니다.
 
-- 311개의 Nisha-Amalaki(NA) 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 확인되었습니다.
-- 14개의 핵심 유전자 모두 췌장암 조직에서 발현이 증가했으며, 높은 EGFR 및 MMP1 발현은 더 나쁜 생존율과 상관관계를 보였습니다.
-- curcumin(an.)은 분자 도킹 분석에서 gefitinib보다 더 강한 EGFR 결합력을 보였습니다.
+- TR-107은 4개의 췌장암 오가노이드와 4개의 세포주에서 낮은 나노몰 농도로 세포 생존력을 감소시켰습니다.
+- TR-107은 저산소 조건에서도 효능과 작용 기전을 유지했습니다.
+- TR-107과 capivasertib의 병용은 세포 생존력을 억제하는 시너지 효과를 보였습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43046161/) · [DOI](https://doi.org/10.1177/15578100261505563) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43046161)</small>
+<small>[원문](https://europepmc.org/article/PPR/PPR1369616) · [DOI](https://doi.org/10.64898/2026.11.13.766013) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.13.766013)</small>
 
 ---
 <a id="doi-10.64898-2026.11.16.766135"></a>
@@ -160,19 +274,19 @@ search:
 <small>[원문](https://europepmc.org/article/PPR/PPR1370035) · [DOI](https://doi.org/10.64898/2026.11.16.766135) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.16.766135)</small>
 
 ---
-<a id="doi-10.64898-2026.11.13.766013"></a>
-#### [TR-107과 capivasertib은 체외에서 췌장암 오가노이드 성장을 시너지 효과로 억제합니다](https://europepmc.org/article/PPR/PPR1369616)
-<small>TR-107 and Capivasertib Synergistically Inhibit Pancreatic Cancer Organoid Growth In Vitro</small>
+<a id="pmid-43046161"></a>
+#### [당뇨병과 췌장암 간의 잠재적 분자 교차작용에 대한 통합적 전산 분석: Nisha-Amalaki의 네트워크 약리학 연구](https://pubmed.ncbi.nlm.nih.gov/43046161/)
+<small>Integrative Computational Analysis of the Putative Molecular Crosstalk Between Diabetes Mellitus and Pancreatic Cancer: A Network Pharmacology Study of Nisha-Amalaki</small>
 
-`프리프린트` `전임상` `신약·치료제` `기초연구` · 2026-11-17 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-11-17 · PubMed · OMICS · 중요도 0.56
 
-췌장관선암(PDAC) 환자를 위한 새로운 치료 전략으로 미토콘드리아 ClpXP 복합체를 표적하는 연구입니다. 연구진은 새로운 ClpP 활성제인 TR-107이 4개의 췌장암 오가노이드와 세포주에서 낮은 나노몰 농도로 세포 생존력을 감소시키는 것을 확인했습니다. 또한 TR-107은 AKT 억제제인 capivasertib(카피바세르팁)과 병용 시 세포 생존력을 억제하는 시너지 효과를 보였습니다. 이 결과는 TR-107이 췌장암 치료를 위한 유망한 후보 물질임을 시사합니다.
+본 연구는 인도 전통 아유르베다 제제인 Nisha-Amalaki(NA)의 식물성 화학 물질이 당뇨병(diabetes mellitus)과 췌장암(pancreatic cancer)에 미치는 동시 항당뇨 및 항암 효과의 분자적 표적을 규명하기 위해 통합적 전산 분석(integrative computational approaches)을 수행했습니다. 311개의 NA 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 도출되었습니다. 네트워크 분석 결과 IL-6/JAK/STAT3, 정점 접합(apical junction), 세포사멸(apoptosis) 경로 등이 관여하는 것으로 나타났습니다. 분자 도킹(molecular docking) 및 동역학 분석에서 curcumine(an.)은 gefitinib보다 더 강한 EGFR 결합력을 보였습니다. 본 연구는 NA가 염증, 대사 및 접합 경로 조절을 통해 췌장암과 당뇨병 치료에 잠재력이 있음을 시사하는 전산학적 근거를 제공합니다.
 
-- TR-107은 4개의 췌장암 오가노이드와 4개의 세포주에서 낮은 나노몰 농도로 세포 생존력을 감소시켰습니다.
-- TR-107은 저산소 조건에서도 효능과 작용 기전을 유지했습니다.
-- TR-107과 capivasertib의 병용은 세포 생존력을 억제하는 시너지 효과를 보였습니다.
+- 311개의 Nisha-Amalaki(NA) 식물성 화학 물질 중 curcumin, divanillalaceton, caffeic acid가 주요 물질로 확인되었습니다.
+- 14개의 핵심 유전자 모두 췌장암 조직에서 발현이 증가했으며, 높은 EGFR 및 MMP1 발현은 더 나쁜 생존율과 상관관계를 보였습니다.
+- curcumin(an.)은 분자 도킹 분석에서 gefitinib보다 더 강한 EGFR 결합력을 보였습니다.
 
-<small>[원문](https://europepmc.org/article/PPR/PPR1369616) · [DOI](https://doi.org/10.64898/2026.11.13.766013) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.13.766013)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43046161/) · [DOI](https://doi.org/10.1177/15578100261505563) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43046161)</small>
 
 ---
 <a id="pmid-43044259"></a>
@@ -2169,125 +2283,5 @@ search:
 - 철화사 유도는 KRAS 표적 치료제의 저항성을 극복하는 치료 전략으로 제시되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975513/) · [DOI](https://doi.org/10.1158/0008-5472.CAN-26-1490) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975513)</small>
-
----
-<a id="pmid-42971279"></a>
-#### [P2Y6R는 췌장암 악액질에서 지방 조직 염증 및 근육 소모와 연관되어 있습니다](https://pubmed.ncbi.nlm.nih.gov/42971279/)
-<small>P2Y6R is associated with adipose inflammation and muscle wasting in pancreatic cancer cachexia</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-11-02 · PubMed · Life Sci · 중요도 0.61
-
-췌장암 악액질(cachexia) 마우스 모델과 세포 실험을 통해 P2Y6R의 역할을 조사했습니다. 연구 결과, P2Y6R은 내장 지방 조직과 암 관련 지방세포(CAA)에서 과발현되었습니다. 약물인 MRS2578을 이용해 P2Y6R을 억제했을 때 체중 감소가 완화되고 혈청 염증성 사이토카인이 감소했습니다. 본 연구는 P2Y6R이 지방-근육 간의 상호작용에 기여하며 암 관련 근육 소모의 치료靶점(target)이 될 수 있음을 시사합니다.
-
-- P2Y6R은 췌장암 환경의 내장 지방 조직과 암 관련 지방세포에서 선택적으로 발현이 증가했습니다.
-- MRS2578을 이용한 P2Y6R 억제는 체중 감소를 완화하고 혈청 IL-6 및 IL-1β 수준을 낮추었습니다.
-- 지방세포의 P2Y6R 억제는 근육 세포의 분화 억제 효과를 완화했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42971279/) · [DOI](https://doi.org/10.1016/j.lfs.2026.124757) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42971279)</small>
-
----
-<a id="pmid-42975849"></a>
-#### [인간 췌장 성상세포 유래 엑소좀을 통한 동종 표적화 및 섬유화 조절](https://pubmed.ncbi.nlm.nih.gov/42975849/)
-<small>Homotypic targeting and fibrosis modulation by human pancreatic stellate cell-derived exosomes</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-11-03 · PubMed · Hum Cell · 중요도 0.61
-
-이 연구는 췌장관선암(PDAC)의 기질 미세환경을 개선하기 위해 인간 췌장 성상세포 유래 엑소좀(HPSC-Exos)의 특성을 조사했습니다. HPSC-Exos는 암 관련 섬유아세포(CAFs)에 우선적으로 흡수되었으며, 이는 인테그린(integrin) 상호작용을 통해 이루어졌습니다. 약물이 탑재되지 않은 HPSC-Exos는 섬유화 관련 단백질 발현과 mRNA 수준을 30~51% 감소시켰습니다. 또한 24시간 시점에서의 CAF 상처 치유를 20 및 40 μg/mL 농도에서 각각 68.6% 및 81.7% 감소시켰습니다. 추가로 화학적으로 변형된 siRNA를 전기천공법을 통해 성공적으로 탑재할 수 있음을 확인했습니다.
-
-- HPSC-Exos는 다른 세포에 비해 암 관련 섬유아세포(CAFs)에 더 많이 흡수되었습니다.
-- 40 μg/mL 농도의 HPSC-Exos 처리는 FAP, α-SMA, fibronectin, COL1A1, COL3A1 mRNA 수준을 약 30~51% 감소시켰습니다.
-- 20 및 40 μg/mL 농도의 HPSC-Exos 처리는 24시간 동안 CAF 상처 치유를 각각 68.6% 및 81.7% 감소시켰습니다.
-- HPSC-Exos는 siRNA를 탑재할 수 있으며 탑재 후에도 나노 크기와 세포 흡수 특성을 유지했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975849/) · [DOI](https://doi.org/10.1007/s13577-026-01466-1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975849)</small>
-
----
-<a id="pmid-42973936"></a>
-#### [저산소증 유도 황화물:퀴논 산화환원효소는 미토콘드리아 코엔자임 Q 환원을 통해 췌관선암의 세포사멸(철사멸, ferroptosis)을 억제하고 젬시타빈(gemcitabine) 내성을 촉진합니다](https://pubmed.ncbi.nlm.nih.gov/42973936/)
-<small>Hypoxia-induced sulfide:quinone oxidoreductase suppresses ferroptosis and promotes gemcitabine resistance through mitochondrial coenzyme Q reduction in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` · 2026-10-19 · PubMed · Front Cell Dev Biol · 중요도 0.59
-
-연구진은 췌관선암(PDAC)에서 저산소 환경 적응과 철사멸(ferroptosis) 회피 사이의 분자적 연관성을 조사하기 위해 황화물:퀴논 산화환원효소(SQOR)를 연구했습니다. 102명의 췌관선암 환자 조직 마이크로어레이, 세포주, 환자 유래 오가노이드 및 이식편 모델을 분석했습니다. 연구 결과, SQOR 발현은 저산소 마커와 양의 상관관계를 보였으며 다변량 보정 후 더 짧은 전체 생존 기간과 연관되었습니다. SQOR의 손실은 지질 과산화물 신호를 증가시키고 철사멸 감수성을 높였으며 젬시타빈 내성을 낮추는 데 기여했습니다. 본 연구는 SQOR이 미토콘드리아 철사멸 방어와 젬시타빈 내성에 기여하는 저산소 반응성 효소임을 시사합니다.
-
-- SQOR 단백질 발현은 CAIX 및 HIF-1α와 양의 상관관계를 보였으며 지질과산화 마커인 4-HNE와는 역상관관계를 보였습니다.
-- GPX4와 FSP1을 다변량 보정했을 때, 높은 SQOR 발현은 더 짧은 전체 생존기간과 연관되었습니다(조정 위험비 1.87).
-- SQOR의 손실은 환원된 지질 신호 조절에 관여하며 세포의 철사멸 감수성을 높였습니다.
-- SQOR 억제 후보 물질과 철사빈 유도제의 병용은 저산소 모델에서 젬시타빈 IC50 값을 낮췄습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42973936/) · [DOI](https://doi.org/10.3389/fcell.2026.1971375) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13725581/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42973936)</small>
-
----
-<a id="doi-10.21203-rs.3.rs-11313598-v1"></a>
-#### [단일세포 및 공간 전사체 분석을 통한 췌장관선암의 콜레스테롤 대사 이질성 규명 및 NSDHL을 핵심 조절 유전자로 도출](https://europepmc.org/article/PPR/PPR1355395)
-<small>Single-cell and Spatial Transcriptomics Reveal Cholesterol Metabolism Heterogeneity in Pancreatic Ductal Adenocarcinoma and Identify NSDHL as a Key Regulatory Gene</small>
-
-`프리프린트` `전임상` `기초연구` `신약·치료제` · 2026-11-02 · Europe PMC (preprint) · Research Square · 중요도 0.56
-
-본 연구는 단일세포 RNA 시퀀싱(single-cell RNA sequencing), 공간 전사체(spatial transcriptomics), 대규모 전사체 데이터를 통합하여 췌장관선암(PDAC) 내 콜레스테롤 대사의 세포적 특성을 분석했습니다. 악성 상피세포는 콜레스테롤 대사 활성에 따라 낮음(LCM), 중간(ICM), 높음(HCM) 하위 그룹으로 나뉘었습니다. 기능 실험 결과, 핵심 조절 유전자 중 하나인 NSDHL의 억제가 암세포의 증식, 이동, 침윤을 유의하게 억제하고 누드 마우스의 종양 성장을 지연시키는 것으로 나타났습니다. 초록에 명시되지 않은 수치나 구체적인 환자 대상 임상 결과는 없습니다.
-
-- 악성 도관 상피세포(malignant ductal epithelial cells)가 가장 높은 콜레스테롤 대사 활성을 보였습니다.
-- 콜레스테롤 대사가 높은 HCM 하위 그룹은 암종양 연관 섬유아세포(CAFs) 및 내피세포와의 상호작용이 증가하고 불량한 예후와 연관되었습니다.
-- NSDHL 유전자는 HCM 표현형의 가장 중요한 핵심 유전자이자 예후 불량 인자로 확인되었습니다.
-- NSDHL 유전자를 억제(knockdown)했을 때 세포 증식, 이동, 침윤이 억제되고 마우스 종양 성장이 지연되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1355395) · [DOI](https://doi.org/10.21203/rs.3.rs-11313598/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11313598/v1)</small>
-
----
-<a id="pmid-42975967"></a>
-#### [ROCK2 억제제 belumosudil은 췌장암 모델에서 KRAS 억제제 저항성을 극복합니다](https://pubmed.ncbi.nlm.nih.gov/42975967/)
-<small>ROCK2 inhibitor belumosudil overcomes resistance to KRAS inhibition in pancreatic cancer models</small>
-
-`논문` `전임상` `신약·치료제` `기초연구` · 2026-11-03 · PubMed · JCI Insight · 중요도 0.54
-
-본 연구는 ROCK2 억제제 belumosudil이 췌장암 모델에서 KRAS 억제제에 대한 저항성을 극복할 수 있는지 확인하기 위해 진행되었습니다. 췌장암 세포 및 동물 모델을 대상으로 실험을 수행했습니다. 연구 결과, belumosudil은 KRAS 억제제 저항성을 효과적으로 극복하는 것으로 나타났습니다. 초록에 세부 환자 수나 구체적인 수치는 명시되지 않았습니다.
-
-- ROCK2 억제제 belumosudil은 췌장암 모델에서 KRAS 억제제 저항성을 극복했습니다.
-- 구체적인 환자 수나 생존기간 수치는 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42975967/) · [DOI](https://doi.org/10.1172/jci.insight.209426) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42975967)</small>
-
----
-<a id="pmid-42970140"></a>
-#### [혈관을 넘어: 췌장암의 생물학적 위험 표지자로서 컴퓨터단층촬영(CT) 상 신경총 침범](https://pubmed.ncbi.nlm.nih.gov/42970140/)
-<small>Beyond the vessels: nerve plexus invasion as a CT marker of biological risk in pancreatic cancer</small>
-
-`논문` `종설` `진단·조기발견` `기초연구` · 2026-11-02 · PubMed · Eur Radiol · 중요도 0.62
-
-본 문헌은 췌장암의 컴퓨터단층촬영(CT) 영상에서 신경총 침범(nerve plexus invasion)이 지니는 생물학적 위험성을 다룬 논평(Editorial)입니다. 기존의 혈관 침범 평가를 넘어 신경총 침범이 환자의 암 생물학적 악성도를 반영하는 표지자가 될 수 있음을 조명합니다. 구체적인 수치나 연구 결과는 원문 초록에 명시되지 않았습니다.
-
-- CT 영상 상 신경총 침범을 췌장암의 생물학적 위험을 평가하는 영상의학적 표지자로 다룹니다.
-- 상세한 연구 데이터 및 환자 수치는 원문 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42970140/) · [DOI](https://doi.org/10.1007/s00330-026-13057-7) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42970140)</small>
-
----
-<a id="doi-10.21203-rs.3.rs-11519779-v1"></a>
-#### [췌장암에서 KRT17/GATA6 하이브리드 상태가 나타내는 MYC 표적 치료 취약성](https://europepmc.org/article/PPR/PPR1354563)
-<small>A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer</small>
-
-`프리프린트` `전임상` `기초연구` `신약·치료제` `치료 전반` · 2026-11-01 · Europe PMC (preprint) · Research Square · 중요도 0.52
-
-연구진은 췌장암(PDAC) 단일세포 단백체 및 유전체 분석을 통해 클래식(GATA6⁺)과 바살형(KRT17⁺) 아형의 특성을 모두 가진 KRT17⁺/GATA6⁺ 하이브리드 세포 상태를 규명했습니다. 이 하이브리드 세포는 원발암의 침윤 부위와 간 및 폐 전이 부위에 집중되어 존재하며 종양의 전이를 촉진합니다. KRT17과 c-MYC 간의 조절 축은 기존 표준 치료에 대한 저항성을 유발하지만, 동시에 MYC 억제제 치료에 높은 민감성을 보였습니다. 이 결과는 KRT17과 GATA6을 MYC 억제제 임상시험 환자 선별 바이오마커로 활용할 수 있음을 시사합니다.
-
-- 췌장암 조직 분석을 통해 클래식 특성과 바살형 특성을 동시에 갖는 KRT17⁺/GATA6⁺ 하이브리드 세포 상태를 발견했습니다.
-- 하이브리드 세포는 종양 침윤 경계면과 치명적인 간 및 폐 전이 부위에 집중적으로 분포합니다.
-- KRT17-c-MYC 조절 축은 표준 항암 치료에 저항성을 일으키지만, MYC 억제(MYC inhibition) 치료에 특이적인 취약성을 만듭니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1354563) · [DOI](https://doi.org/10.21203/rs.3.rs-11519779/v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11519779/v1)</small>
-
----
-<a id="pmid-42967640"></a>
-#### [신경내분비 및 췌장 선포 세포 분화를 보이는 위 양 양성분비 암종 1례 보고](https://pubmed.ncbi.nlm.nih.gov/42967640/)
-<small>[Gastric amphicrine carcinoma showing neuroendocrine and pancreatic acinar cell differentiation:report of a case]</small>
-
-`논문` `증례` `기초연구` `진단·조기발견` `치료 전반` `신경내분비종양` · 2026-11-08 · PubMed · Zhonghua Bing Li Xue Za Zhi · 중요도 0.49
-
-본 논문은 신경내분비 세포와 췌장 선포(acinar) 세포 분화를 동시에 보이는 위 양성분비 암종(amphicrine carcinoma) 1례에 대한 증례 보고입니다. 희귀한 위 종양의 병리 조직학적 특징과 면역조직화학적 특성을 분석했습니다. 해당 질환의 진단 및 병리적 이해를 돕기 위한 기초 정보를 제공합니다.
-
-- 신경내분비 및 췌장 선포 세포 분화를 동시에 보이는 매우 희귀한 위 양성분비 암종 사례입니다.
-- 병리 조직학적 분석과 면역조직화학 검사를 통해 진단적 특성을 확인했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42967640/) · [DOI](https://doi.org/10.3760/cma.j.cn112151-20260225-00136) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42967640)</small>
 
 ---

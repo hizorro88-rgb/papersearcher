@@ -1,0 +1,95 @@
+{
+ "abstract": "This study will study the feasibility of using multi-cancer early detection (MCED) testing in individuals at high risk for cancer development. We will look at participants to have germline mutations in cancer associated genes and participants who have pancreatic cysts. Participants will undergo testing and complete questionnaires to evaluating anxiety and adherence to standard screening after testing.\n\nThis study is evaluating the feasibility of using multi-cancer early detection (MCED) testing in individuals at high risk for cancer development. This will be done in two high risk populations. Participants with pathogenic or likely pathogenic germline mutations associated with moderate to high penetrance for cancer development (Cohort A) and those with high-risk pancreatic cysts (Cohort B).\n\nEligible participants will undergo testing and complete questionnaires to evaluating anxiety and adherence to standard screening after testing.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-20",
+ "history": [
+  {
+   "date": "2026-11-20",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07949578",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-11-20",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07949578"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "University of Colorado, Denver",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07949578"
+ },
+ "summary_ko": "This study will study the feasibility of using multi-cancer early detection (MCED) testing in individuals at high risk for cancer development. We will look at participants to have germline mutations in cancer associated genes and participants who have pancreatic cysts.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "DNA Methylation-Based Testing for High Risk Populations",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Genetic Predisposition to Cancer",
+   "Pancreatic Cystic Neoplasm"
+  ],
+  "contacts": [],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Provision to sign and date the consent form. Patients will be offered an electronic consent via REDCap, or they may use a paper copy.\n* Stated willingness to comply with all study procedures and be available for the duration of the study.\n* Be an adult aged 40 years or older.\n* Individuals will be eligible to enroll into Cohort A if they are being evaluated within the University of Colorado's Hereditary Cancer Clinic and have a known germline pathogenic or likely pathogenic germline mutation of any of the following genes:\n* BRCA 1, BRCA 2, PALB2, MLH 1, MSH 2, MSH 6, ATM, CHEK2, PTEN, CDH1, TP 53, STK11.\n* Individuals will be eligible to enroll into Cohort B if they are being evaluated within the University of Colorado's Pancreatic Cyst Surveillance Clinic and have 1 or more of the following risk factors for development of pancreatic malignancy:\n* Pancreatic cyst greater than or equal to 2.5 cm, greater than or equal to 5 mm increase in size per year, greater than or equal to 10 mm growth since initiation of surveillance, cyst associated with mass or mural nodule, dilated pancreatic duct greater than or equal to 5 mm, new onset diabetes, CA 19-9 greater than or equal to 37 U/mL.\n* Individuals with a history of cancer that was definitively managed 3 or more years prior to enrollment and/or those with a history of cutaneous squamous cell carcinoma or basal cell carcinoma diagnosed at any time will be allowed to participate. Patients on long term Adjuvant therapies, (for example, hormonal therapies for breast cancer) are allowed to participate.\n\nExclusion Criteria:\n\n* Individuals less than 40 years old.\n* Individuals with a history of cancer that was treated within 3 years prior to enrollment in the study. Patients on long term Adjuvant therapies, (for example, hormonal therapies for breast cancer) are allowed to participate.\n* Individuals with known active cancer.\n* Individuals currently undergoing diagnostic evaluation for a suspicion of having a cancer diagnosis/recurrence.\n* Individuals who are known to be pregnant.",
+  "enrollment": 176,
+  "has_results": false,
+  "interventions": [
+   "Galleri Multi-Cancer Early Detection (MCED)"
+  ],
+  "last_update_posted": "2026-11-19",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "40 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07949578",
+  "phase": "NA",
+  "primary_completion_date": "2030-04",
+  "sex": "ALL",
+  "sponsor": "University of Colorado, Denver",
+  "start_date": "2027-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

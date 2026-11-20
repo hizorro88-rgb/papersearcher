@@ -16,12 +16,74 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 208건 · 최근 30일 121건
+전체 210건 · 최근 30일 118건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07700212"></a>
+#### [전이성 췌장선암 환자의 암성 악액질 치료를 위한 미주신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
+<small>A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma</small>
+
+`임상시험` `1상` `지지요법·삶의질` `치료 전반` · 2026-07-13 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.84
+
+**NCT07700212** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07700212.md)
+
+이 임상시험은 항암화학요법을 받고 있는 전이성 췌장선암 환자를 대상으로 OnVagus 기기를 사용한 경피적 저주파 미주신경 차단술(tLFVB)의 안전성과 내약성을 평가하는 1상 연구입니다. 암으로 인한 악액질(체중 감소)을 겪는 환자 10명을 모집하여 치료 기기의 안전성을 확인합니다. 부수적으로 체중 유지나 증가로 나타나는 악액질 억제율, 생체지표 변화, 무진행 생존기간(PFS) 및 전체 생존기간(OS)에 미치는 영향도 함께 관찰합니다.
+
+- 전이 상태에서 1차 치료 후 질병이 진행되었고 진단 후 5% 이상의 체중 감소를 겪은 전이성 췌장선암 환자 10명을 대상으로 합니다.
+- OnVagus 기기를 착용하여 비침습적으로 미주신경을 차단했을 때의 안전성과 내약성을 1차적으로 평가합니다.
+- 체중 유지 또는 증가를 통한 악액질 진행 억제율과 염증 지표(TNFα, GDF15 등), 무진행 생존기간(PFS)을 분석합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07700212) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07700212)</small>
+
+---
+<a id="nct-nct07826780"></a>
+#### [췌장암 환자를 위한 STRONG 영양 지원 연구](https://clinicaltrials.gov/study/NCT07826780)
+<small>The STRONG Nutrition Support Study for People With Pancreatic Cancer</small>
+
+`임상시험` `기타` `지지요법·삶의질` · 2026-09-17 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.71
+
+**NCT07826780** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07826780.md)
+
+이 단일기관 파일럿 무작위 대조 임상시험은 전신 항암 치료 및 방사선 치료를 시작하는 췌관선암(pancreatic ductal adenocarcinoma) 성인 환자를 대상으로 디지털 영양 지원 앱(STRONG intervention App)과 원격 영양사 상담의 타당성과 수용성을 평가합니다. 약 80명의 참가자가 1:1로 무작위 배정되어 영양사 상담과 함께 STRONG 앱 또는 인쇄된 영양 교육 자료를 제공받습니다. 주요 결과 측정 항목에는 타당성, 수용성, 영양 상태, 삶의 질, 의료 이용률, 치료 전달, 보호자 결과 및 생존율이 포함됩니다. 본 연구 결과는 향후 앱 기반 맞춤형 영양 지원이 전통적인 영양 교육에 비해 결과를 개선하는지 평가하는 대규모 임상시험 설계의 근거가 됩니다.
+
+- 목표 인원은 약 80명이며 1:1 무작위 배정으로 진행됩니다.
+- 참가자는 영양사 상담과 함께 STRONG 앱 또는 인쇄된 영양 교육 자료를 제공받습니다.
+- 평가 항목에는 타당성, 수용성, 영양 상태, 삶의 질, 의료 이용, 치료 전달, 보호자 결과, 생존율이 포함됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07826780) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07826780)</small>
+
+---
+<a id="nct-nct07949578"></a>
+#### [DNA Methylation-Based Testing for High Risk Populations](https://clinicaltrials.gov/study/NCT07949578)
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2026-11-19 · ClinicalTrials.gov · University of Colorado, Denver · 중요도 0.66
+
+**NCT07949578** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07949578.md)
+
+This study will study the feasibility of using multi-cancer early detection (MCED) testing in individuals at high risk for cancer development. We will look at participants to have germline mutations in cancer associated genes and participants who have pancreatic cysts.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07949578) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
+
+---
+<a id="nct-nct04258813"></a>
+#### [일차 진료와 종양학 치료의 연계를 통한 암 생존자 팀 기반 치료 지원 연구](https://clinicaltrials.gov/study/NCT04258813)
+<small>Onco-primary Care Networking to Support TEAM-based Care</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2020-02-06 · ClinicalTrials.gov · Duke University · 중요도 0.64
+
+**NCT04258813** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04258813.md)
+
+본 연구는 유방암, 전립선암, 대장암, 자궁내막암, 비소세포폐암, 두경부암 등의 고형암을 진단받고 심혈관 질환 동반 질환이 있는 성인 환자들을 대상으로 합니다. 일차 진료의(PCP)와 암 전문의 간의 소통 및 만성 질환 관리를 개선하기 위한 18개월간의 군집 무작위 대조 임상시험입니다. 중재 전략으로는 자가 안내 정보 제공 전략(iGuide)과 맞춤형/표적형 추가 중재(iGuide2)가 활용되었습니다. 연구 결과는 초록에 명시되지 않음.
+
+- 목표 등록 환자 수는 800명이며, 약 80개의 일차 진료의(PCP) 클리닉이 참여했습니다.
+- 연구의 주요 평가변수는 질병 관리 품질 지표(HEDIS), 약물 순응도(PDC), 환자-의사 소통 점수입니다.
+- 임상시험의 결과 수치는 초록에 명시되지 않음.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04258813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04258813)</small>
+
+---
 <a id="nct-nct07627191"></a>
 #### [전이성 췌장암, 대장암, 간세포암 환자의 1차 치료에서 GLP-1 수용체 작용제와 표준 화학요법 병용의 안전성 및 타당성 평가 임상시험](https://clinicaltrials.gov/study/NCT07627191)
 <small>GLP-1 RA Plus SOC Treatment in First-line, Metastatic Pancreatic, Colorectal, or Hepatocellular Cancer</small>
@@ -41,12 +103,18 @@ search:
 
 ---
 <a id="pmid-43046782"></a>
-#### [Incremental Prognostic Value of the Preoperative Controlling Nutritional Status Score in Patients Undergoing Surgery for Resectable Pancreatic Ductal Adenocarcinoma: A Multicenter Cohort Study](https://pubmed.ncbi.nlm.nih.gov/43046782/)
+#### [수술 가능한 췌장관선암 환자에서 수술 전 조절 영양 상태 점수의 예후 예측 가치: 다기관 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/43046782/)
+<small>Incremental Prognostic Value of the Preoperative Controlling Nutritional Status Score in Patients Undergoing Surgery for Resectable Pancreatic Ductal Adenocarcinoma: A Multicenter Cohort Study</small>
+
 `논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-18 · PubMed · World J Surg · 중요도 0.77
 
-BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic marker in pancreatic ductal adenocarcinoma (PDAC), but its incremental value beyond conventional preoperative factors and its performance relative to other immunonutritional or inflammatory indices remain unclear. We evaluated the prognostic significance and incremental value of the preoperative CONUT score in resectable PDAC.
+수술 절제가 가능한 췌장관선암(PDAC) 환자 287명을 대상으로 수술 전 조절 영양 상태(CONUT) 점수의 예후 예측 가치를 평가한 다기관 소급 연구입니다. 수술 전 CONUT 점수가 높은 환자일수록 수술 후 전체 생존기간(OS) 및 무재발 생존기간(RFS)이 유의하게 짧았습니다. CONUT 점수 5점 이상인 고위험군 환자의 5년 생존율은 18.6%로 0~1점 군의 51.5%에 비해 현저히 낮았습니다. 수술 전 CONUT 점수 측정은 환자의 수술 후 재발 및 생존 위험을 사전에 정밀하게 평가하는 데 유용합니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43046782/) · [DOI](https://doi.org/10.1002/wjs.70693) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43046782)</small>
+- 수술 전 CONUT 점수 0~1점, 2~4점, 5점 이상 환자의 5년 전체 생존율(OS)은 각각 51.5%, 31.5%, 18.6%였습니다.
+- CONUT 점수 5점 이상인 환자군은 0~1점군에 비해 전체 생존 위험비(HR)가 2.410, 무재발 생존 위험비(RFS HR)가 2.006으로 사망 및 재발 위험이 높았습니다.
+- 수술 전 CONUT 점수가 5점 이상으로 높을 경우 수술 후 췌장암 재발 위험비가 1.780으로 유의하게 증가했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43046782/) · [DOI](https://doi.org/10.1002/wjs.70693) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43046782)</small>
 
 ---
 <a id="nct-nct02511821"></a>
@@ -66,22 +134,20 @@ BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic mar
 <small>[원문](https://clinicaltrials.gov/study/NCT02511821) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT02511821)</small>
 
 ---
-<a id="nct-nct07826780"></a>
-#### [췌장암 환자를 위한 STRONG 영양 지원 연구](https://clinicaltrials.gov/study/NCT07826780)
-<small>The STRONG Nutrition Support Study for People With Pancreatic Cancer</small>
+<a id="pmid-43044527"></a>
+#### [췌장암 절제술 후 근감소증과 불리한 예후를 연결하는 기전에 관한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43044527/)
+<small>Mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection: A systematic review</small>
 
-`임상시험` `기타` `지지요법·삶의질` · 2026-09-17 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.71
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-13 · PubMed · Eur J Surg Oncol · 중요도 0.71
 
-**NCT07826780** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07826780.md)
+본 연구는 췌장암 수술 환자에게 흔히 발생하는 근감소증(sarcopenia)이 수술 후 나쁜 예후로 이어지는 원인 기전을 체계적으로 종합하고 평가했습니다. Embase, Scopus, PubMed 등을 통해 3944건의 기록을 검색하여 최종 38개의 연구를 분석했습니다. 주요 기전으로는 만성 전신 염증(23%), 공격적인 종양 생물학 및 진행된 병기(17%), 면역 기능 장애(17%), 대사 이상 및 고이화 상태(14%) 등이 확인되었습니다. 연구진은 대부분의 연구가 생존 결과를 보고했으나 수술 후 합병증을 조사한 경우는 상대적으로 적었다고 밝혔습니다.
 
-이 단일 기관 파일럿 무작위 대조 임상시험은 전신 항암 치료 및 방사선 치료를 시작하는 췌장암 환자를 대상으로 디지털 영양 지원 앱(STRONG intervention App)과 원격 영양사 상담의 타당성과 수용성을 평가합니다. 약 80명의 환자가 1대 1로 무작위 배정되어 영양사 상담과 함께 STRONG 앱 또는 인쇄된 영양 교육 자료를 제공받습니다. 주요 결과 측정 항목에는 타당성, 수용성, 영양 상태, 삶의 질, 의료 서비스 이용률, 치료 전달, 보호자 결과, 생존율이 포함됩니다. 본 연구 결과는 추후 앱 기반 맞춤형 영양 지원이 기존 영양 교육에 비해 결과를 개선하는지 평가하는 대규모 임상시험 설계에 활용됩니다.
+- 총 3944건의 기록 중 38개의 연구가 선정 기준을 충족했습니다.
+- 가장 빈도가 높게 보고된 기전은 만성 전신 염증(23%)이었으며, 공격적인 종양 생물학 또는 진행된 병기(17%), 면역 기능 장애(17%)가 뒤를 이었습니다.
+- 대사 이상 및 고이화 상태는 14%, 감소된 기능적 예비능은 11%, 근육 유래 내분비 신호 전달 변화는 7%로 나타났습니다.
+- 영양실조와 손상된 조직 치유는 각각 6%를 차지했습니다.
 
-- 목표 인원은 약 80명의 췌장암 환자입니다.
-- 환자들은 1:1로 무작위 배정되어 STRONG 앱 또는 인쇄된 영양 교육 자료를 제공받습니다.
-- 치료 시작 전후에 전신 항암 치료 및 방사선 치료를 받는 환자가 대상입니다.
-- 초록에 명시되지 않음
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07826780) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07826780)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43044527/) · [DOI](https://doi.org/10.1016/j.ejso.2026.112380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43044527)</small>
 
 ---
 <a id="pmid-43044530"></a>
@@ -98,22 +164,6 @@ BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic mar
 - 외래 방문 횟수는 악액질 환자군이 평균 49.98회로, 비악액질 환자군의 26.58회보다 많았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43044530/) · [DOI](https://doi.org/10.1016/j.ejso.2026.112375) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43044530)</small>
-
----
-<a id="pmid-43044527"></a>
-#### [췌장암 절제술 후 근감소증과 불리한 예후를 연결하는 기전에 관한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43044527/)
-<small>Mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection: A systematic review</small>
-
-`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-13 · PubMed · Eur J Surg Oncol · 중요도 0.71
-
-본 연구는 췌장암 수술 환자에게 흔히 발생하는 근감소증(sarcopenia)이 수술 후 나쁜 예후로 이어지는 원인 기전을 체계적으로 종합하고 평가했습니다. Embase, Scopus, PubMed 등을 통해 3944건의 기록을 검색하여 최종 38개의 연구를 분석했습니다. 주요 기전으로는 만성 전신 염증(23%), 공격적인 종양 생물학 및 진행된 병기(17%), 면역 기능 장애(17%), 대사 이상 및 고이화 상태(14%) 등이 확인되었습니다. 연구진은 대부분의 연구가 생존 결과를 보고했으나 수술 후 합병증을 조사한 경우는 상대적으로 적었다고 밝혔습니다.
-
-- 총 3944건의 기록 중 38개의 연구가 선정 기준을 충족했습니다.
-- 가장 빈도가 높게 보고된 기전은 만성 전신 염증(23%)이었으며, 공격적인 종양 생물학 또는 진행된 병기(17%), 면역 기능 장애(17%)가 뒤를 이었습니다.
-- 대사 이상 및 고이화 상태는 14%, 감소된 기능적 예비능은 11%, 근육 유래 내분비 신호 전달 변화는 7%로 나타났습니다.
-- 영양실조와 손상된 조직 치유는 각각 6%를 차지했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43044527/) · [DOI](https://doi.org/10.1016/j.ejso.2026.112380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43044527)</small>
 
 ---
 <a id="pmid-43050208"></a>
@@ -160,24 +210,6 @@ BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic mar
 - 수술 후 APTT 연장이 지속되고 수혈로 교정되지 않으며 반복적인 출혈이 발생할 때 AHA를 의심해야 합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43047778/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0506) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13774973/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43047778)</small>
-
----
-<a id="nct-nct04258813"></a>
-#### [팀 기반 암 치료를 지원하기 위한 일차 진료 네트워크 연결 연구](https://clinicaltrials.gov/study/NCT04258813)
-<small>Onco-primary Care Networking to Support TEAM-based Care</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2020-02-06 · ClinicalTrials.gov · Duke University · 중요도 0.64
-
-**NCT04258813** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04258813.md)
-
-본 연구는 유방암, 전립선암, 대장암, 자궁내막암, 비소세포폐암, 두경부암 등을 진단받은 환자들을 대상으로 일차 진료 의사(PCP)와 암 전문의 간의 소통과 만성 질환 관리를 개선하기 위한 임상시험입니다. 800명의 성인 환자를 목표로 하며, 전자건강기록(EHR) 시스템을 활용한 정보 제공 및 맞춤형 중재 전략(iGuide 및 iGuide2)의 효과를 평가합니다. 주요 평가변수는 심혈관 질환 동반 질환 관리 품질 지표, 복약 순응도, 그리고 환자와 의료진 간의 소통입니다. 췌장암은 본 임상시험의 주요 대상 질환에 포함되지 않습니다.
-
-- 목표 인원은 800명이며, 18개월 동안 군집 무작위 대조 시험(cluster randomized controlled trial)으로 진행됩니다.
-- 일차 진료 의사와 암 전문의 간의 소통 및 만성 질환(고혈압, 당뇨병, 고콜레스테롤혈증) 관리를 개선하는 것을 목표로 합니다.
-- 전자건강기록(EHR) 기반의 자동 메시지 시스템과 iGuide 중재 전략의 효과를 기존 치료와 비교합니다.
-- 췌장암 환자는 본 임상시험의 대상 질환에 해당하지 않습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04258813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04258813)</small>
 
 ---
 <a id="pmid-43046161"></a>
@@ -1846,81 +1878,5 @@ BACKGROUND: The Controlling Nutritional Status (CONUT) score is a prognostic mar
 - 체중 감소가 발생하기 전에 전신 대사 변화가 선행하는 것을 발견했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897170/) · [DOI](https://doi.org/10.1038/s41467-026-77745-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13680358/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897170)</small>
-
----
-<a id="pmid-42899395"></a>
-#### [췌장암 환자의 췌장 효소 대체 요법(PERT): 용량 설정, 관리 및 의료진 관성에 대한 최초의 미국 다학제 합의안](https://pubmed.ncbi.nlm.nih.gov/42899395/)
-<small>Pancreatic Enzyme Replacement Therapy (PERT) in Pancreatic Cancer: First U.S. Consensus Highlights on Dosing, Management, and Provider Inertia</small>
-
-`논문` `가이드라인` `지지요법·삶의질` `치료 전반` · 2026-10-20 · PubMed · Oncologist · 중요도 0.95
-
-췌장암 환자에서 흔하게 발생하는 췌장 외분비 기능부전(EPI)을 관리하기 위해 미국 최초의 다학제 합의안이 수립되었습니다. 환자와 의료진 포커스 그룹 및 17명의 다학제 전문가가 참여한 델파이 합의 과정을 통해 총 15개의 최종 권고안이 도출되었습니다. 권고안은 식사당 48,000~72,000 리파아제 단위의 표준 시작 용량, 근거 기반 용량 조절법, 환자 교육, 약값 및 복약 부담 완화 전략을 제시했습니다. 이를 통해 임상 현장의 치료 편차를 줄이고 환자의 영양 상태 안정과 삶의 질, 항암 치료 지속성을 개선하는 것을 목표로 합니다.
-
-- 췌장 효소 대체 요법(PERT)의 표준 시작 용량으로 식사당 48,000~72,000 리파아제 단위가 권장되었습니다.
-- 임상 적용을 다룬 6개 핵심 권고안은 94%~100%의 높은 전문가 일치율을 기록했습니다.
-- 도출된 15개 전체 권고안 모두 81% 이상의 합의를 달성하여 근거 중심 표준 관리 지침을 마련했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899395/) · [DOI](https://doi.org/10.1093/oncolo/oyag389) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899395)</small>
-
----
-<a id="pmid-42900762"></a>
-#### [활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌 멘델 무작위 배정을 통한 췌장암 후보 유전자 SMDT1 및 CMTM7 발굴](https://pubmed.ncbi.nlm.nih.gov/42900762/)
-<small>Dynamic Expression Quantitative Trait Locus Mendelian Randomization in Activated CD4-Positive T Cells Nominates SMDT1 and CMTM7 as Candidate Genes in Pancreatic Cancer</small>
-
-`논문` `관찰연구` `기초연구` `지지요법·삶의질` · 2026-10-20 · PubMed · Mol Carcinog · 중요도 0.75
-
-연구진은 활성화된 CD4 양성 T 세포의 동적 발현 양적 형질 유전자좌(eQTL)를 활용해 췌관선암종(PDAC) 위험과 관련된 유전자를 탐색했습니다. 4개 코호트 메타분석 및 유럽인 데이터 분석을 활용한 2단계 멘델 무작위 배정(MR) 기법이 적용되었습니다. 분석 결과 SMDT1과 CMTM7 유전자가 췌관선암종 감수성과 관련된 후보 유전자로 도출되었습니다. 다만 보정 유의수준(FDR)을 통과한 유전자는 없어 추가적인 실험적 검증이 필요합니다.
-
-- 통합 탐색 스크리닝에서 67개 유전자가 유의성(FDR < 0.05)을 보였고, 그중 65개 유전자가 일관된 방향성을 나타냈습니다.
-- 유럽인 1차 분석에서 SMDT1은 교차비(OR) 0.603(p = 0.009), CMTM7은 교차비 1.208(p = 0.023)로 명목상 유의한 연관성을 보였습니다.
-- 유럽인 대상 분석에서 다중 비교 보정(FDR) 기준을 통과한 유전자는 없었으며, 결과 검증을 위한 추가 연구가 필요합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42900762/) · [DOI](https://doi.org/10.1002/mc.70198) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42900762)</small>
-
----
-<a id="pmid-42899602"></a>
-#### [췌장관선암에서의 치료 전 예방: 상류 자원 배분의 임상적, 경제적, 인적 타당성](https://pubmed.ncbi.nlm.nih.gov/42899602/)
-<small>Prevention Before Therapy in Pancreatic Ductal Adenocarcinoma: The Clinical, Economic, and Human Case for Weighting Resources Upstream</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2026-10-20 · PubMed · Cancer Prev Res (Phila) · 중요도 0.67
-
-이 논문은 췌장관선암(PDAC) 환자와 보호자를 위한 예방 및 조기 발견의 중요성을 다룬 주제별 문헌 고찰(topical review)입니다. 초기 단계의 생존율은 국소 병변일 때 약 44%인 반면 원격 전이가 있으면 약 3%로 생존율이 진단 병기에 크게 좌우됩니다. 저자들은 일차 예방, 고위험군 조기 발견, 치료로 구성된 3단계 프레임워크를 제안하며 연구와 정책 투자가 상류(예방) 단계로 향해야 한다고 주장합니다. 초록에 명시된 환자 수나 임상시험 결과 수치는 없습니다.
-
-- 췌장관선암은 진단 당시 병기에 따라 생존율이 극명하게 갈리며, 국소 병변은 5년 생존율이 약 44%인 반면 원격 전이는 약 3%입니다.
-- 국소 단계에서 발견되는 경우는 전체의 약 15%에 불과하며, 평균 위험군 성인을 위한 검증된 선별 검사는 존재하지 않습니다.
-- 초기 돌연변이 발생과 침습성 질환 사이의 긴 시간 간격은 예방과 개입(interception)의 생물학적 근거를 제공합니다.
-- 연구자들은 일차 예방, 고위험군 조기 발견, 치료의 3단계 프레임워크를 제안하며 예방에 자원을 더 배분할 것을 주장합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899602/) · [DOI](https://doi.org/10.1158/1940-6207.CAPR-26-0197) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899602)</small>
-
----
-<a id="pmid-42899906"></a>
-#### [췌장암의 발생과 진행에서 정신적 및 신체적 스트레스의 역할](https://pubmed.ncbi.nlm.nih.gov/42899906/)
-<small>The Role of Mental and Physical Stress in the Occurrence and Development of Pancreatic Cancer</small>
-
-`논문` `종설` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-10-01 · PubMed · Stress Health · 중요도 0.66
-
-본 논문은 췌장암의 발생과 진행에 있어 정신적, 신체적 스트레스가 미치는 영향을 체계적으로 검토했습니다. 신경내분비 조절(neuroendocrine modulation), 면역 조절 장애(immune dysregulation), 행동 변화 등의 기전을 통해 스트레스와 췌장암 발생의 연관성을 분석했습니다. 또한 조기 개입과 종합 치료를 위한 새로운 통찰을 제공하고자 환자 맞춤형 스트레스 관리 전략을 탐색했습니다. 초록에 환자 대상 수치나 구체적인 생존율 결과는 명시되지 않았습니다.
-
-- 정신적 및 신체적 스트레스는 췌장암의 시작과 발달에 중요한 역할을 합니다.
-- 스트레스가 췌장암에 미치는 영향은 신경내분비 조절, 면역 조절 장애, 행동 변화 등의 기전을 통해 이루어집니다.
-- 본 연구는 조기 개입과 종합 치료를 위한 맞춤형 스트레스 관리 전략을 다룹니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42899906/) · [DOI](https://doi.org/10.1002/smi.70235) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42899906)</small>
-
----
-<a id="pmid-42896121"></a>
-#### [악성 복수는 IL-10이 풍부한 면역세포 기능 장애와 지속적인 암 결합 IgG 항체 환경을 나타냅니다](https://pubmed.ncbi.nlm.nih.gov/42896121/)
-<small>Malignant Ascites Harbors Immune Niche with IL-10 Enriched Effector Dysfunction and Persistent Cancer-Binding IgG</small>
-
-`논문` `관찰연구` `기초연구` `지지요법·삶의질` · 2026-10-19 · PubMed · Cancer Immunol Res · 중요도 0.65
-
-이 연구는 진행성 소화기암 환자의 악성 복수(Malignant ascites) 내 면역세포 특성을 단일세포 질량분석법(CyTOF)으로 분석했습니다. 복수 내 면역세포는 건강인의 혈액에 비해 골수계 세포가 많고 B세포와 순수 T세포는 적은 특징을 공유했습니다. 특히 암 환자의 복수에서는 면역 억제성 사이토카인인 인터루킨-10(IL-10)이 풍부한 면역 억제 표현형이 독점적으로 관찰되었습니다. 췌관선암(PDAC) 환자의 복수에서는 환자 본인의 암세포뿐 아니라 다른 췌장암 세포주에도 결합하는 면역글로불린 G(IgG) 항체 반응이 지속적으로 확인되었습니다.
-
-- 악성 복수 면역세포는 골수계 세포가 풍부하고 B세포와 순수 T세포 비율이 낮았습니다.
-- IL-10이 풍부한 면역 억제 기능 표현형은 암 환자의 복수 샘플에서만 독점적으로 나타났습니다.
-- 췌관선암 환자의 복수 내에는 자가 암세포 및 여러 동종 췌장암 세포주에 결합하는 IgG 항체 반응이 유지되고 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42896121/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0305) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42896121)</small>
 
 ---
