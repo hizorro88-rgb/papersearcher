@@ -1,0 +1,65 @@
+{
+ "abstract": "OBJECTIVES: Radiomics holds potential for personalised treatment, but reproducibility is hindered by inconsistent reporting of imaging parameters and methodological details. This study aims to identify and evaluate key MR imaging parameters to support radiomics reproducibility and to systematically evaluate the quality of published MRI radiomics studies focused on pancreatic tumours.\nMATERIALS AND METHODS: The literature search was conducted in the Scopus, PubMed, and Web of Science databases. Human studies investigating MRI radiomics in pancreatic tumours were included. An imaging reporting checklist was developed and used to identify and evaluate imaging parameters in eligible studies. The methodological quality score (METRICS) and checklist for evaluation of radiomics research (CLEAR) score were calculated for each study.\nRESULTS: Seventy-eight studies, encompassing 241 MRI pulse sequences (143 anatomical and 98 functional), were included. The imaging checklist identified ten core items as key parameters for ensuring reproducible MRI radiomics. Across all studies, none provided complete or consistent reporting of these parameters, with frequent omissions in imaging acquisition and reconstruction details. Methodological and reporting quality remained suboptimal, reflected by median METRICS and CLEAR scores of 52.4% (45-60%) and 62.3% (56-69%), respectively. Reproducibility and quality of radiomics studies would benefit from clear reporting of imaging parameters, consistent documentation of radiomics settings, and control of confounding variables. Additionally, transparency in model validation, preprocessing, and explanation methods would further enhance reproducibility and clinical relevance.\nCONCLUSION: A focused imaging reproducibility checklist has been developed, and it has been demonstrated that no pancreatic tumour MRI radiomics study reported all necessary imaging parameters for reproducibility. Methodological and reporting quality on broader radiomics components was also poor, highlighting the potential value of such a checklist for improving standardised reporting in radiomics studies.\nKEY POINTS: Question There is inconsistent reporting of imaging parameters across MRI protocols used for pancreatic tumours radiomics analysis. Findings The developed MR imaging reporting checklist provides structured guidelines to promote consistent documentation of MR imaging parameters and support reproducible radiomics research. Relevance statement By identifying how key MR imaging acquisition and reconstruction parameters are currently presented in MRI radiomics studies of pancreatic tumours, this study highlights inconsistencies and omissions in reporting, underscoring the need for more transparent reporting and adherence to guidelines to support radiomics reproducibility.",
+ "authors": [
+  "Abunahel BM",
+  "Rai R",
+  "De Deene Y",
+  "Alizadeh M",
+  "Xin B",
+  "Rae W",
+  "Pham T",
+  "Metcalfe P"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43062619",
+ "importance": 0.95,
+ "key_points_ko": [
+  "총 78편의 췌장 종양 MRI 라디오믹스 연구 중 핵심 영상 파라미터 10개 항목을 온전히 보고한 연구는 0%였습니다.",
+  "방법론적 질(METRICS) 중앙값은 52.4%(45~60%), 라디오믹스 연구 평가 체크리스트(CLEAR) 점수 중앙값은 62.3%(56~69%)로 나타났습니다.",
+  "영상 획득 및 재구성 조건의 누락이 흔하여 연구 결과의 재현성과 신뢰성에 한계가 있음을 확인했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1186/s41747-026-00837-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43062619"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Review"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol Exp",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062619/"
+ },
+ "summary_ko": "이 연구는 췌장 종양 환자의 MRI 영상 데이터를 활용한 라디오믹스(radiomics, 의료영상 분석 기술) 연구들의 재현성과 방법론적 질을 체계적으로 평가했습니다. 78편의 연구(241개 MRI 펄스 시퀀스)를 분석한 결과, 재현성 확보에 필요한 핵심 영상 파라미터를 완전하게 보고한 연구는 단 한 편도 없었습니다. 영상 획득 및 재구성 세부 사항의 누락이 잦았으며, 연구 방법론과 보고의 질 역시 전반적으로 미흡한 수준이었습니다. 연구진은 향후 임상적 활용 가치를 높이기 위해 영상 파라미터 및 모델 검증에 대한 투명하고 표준화된 보고가 필요하다고 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MRI radiomics of pancreatic tumours: a systematic review of methodological quality and imaging reproducibility",
+ "title_ko": "췌장 종양의 MRI 라디오믹스: 방법론적 질 및 영상 재현성에 대한 체계적 문헌고찰",
+ "trial": null,
+ "type": "paper"
+}

@@ -5,6 +5,7 @@
   "Kou S"
  ],
  "categories": [
+  "drug",
   "treatment"
  ],
  "entities": [],
@@ -19,7 +20,12 @@
  ],
  "id": "pmid:43052866",
  "importance": 0.54,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 129명의 진행성 잘 분화된 위장관·췌장 신경내분비종양 환자를 대상으로 [¹⁷⁷Lu]Lu-DOTA-TATE 치료군과 대조군을 비교했습니다.",
+  "[¹⁷⁷Lu]Lu-DOTA-TATE 치료군은 대조군 대비 전체 생존기간(OS) 중앙값을 34.6개월 대 25.8개월로 유의하게 연장했습니다.",
+  "무진행 생존기간(PFS) 중앙값도 22.0개월 대 16.7개월로 [¹⁷⁷Lu]Lu-DOTA-TATE 치료군에서 통계적으로 유의하게 길었습니다.",
+  "질병 통제율(DCR)이 유의하게 높았으며 부작용 발생률은 대조군과 유사한 수준이었습니다."
+ ],
  "last_updated": "2026-11-20",
  "links": {
   "doi": "10.1186/s12885-026-16780-y",
@@ -41,13 +47,13 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43052866/"
  },
- "summary_ko": "BACKGROUND: Advanced gastroenteropancreatic neuroendocrine tumors (GEP-NETs) present a therapeutic challenge due to their heterogeneity and variable response to systemic therapies. This study aimed to evaluate the real-world efficacy and safety of peptide receptor radionuclide therapy (PRRT) with [¹⁷⁷Lu]Lu-DOTA-TATE in patients with advanced well-differentiated GEP-NETs.",
- "summary_source": "excerpt",
+ "summary_ko": "진행성 잘 분화된 위장관·췌장 신경내분비종양(GEP-NET) 환자 129명을 대상으로 [¹⁷⁷Lu]Lu-DOTA-TATE 치료의 실제 효과와 안전성을 분석했습니다. [¹⁷⁷Lu]Lu-DOTA-TATE 펩타이드 수용체 방사성핵종 치료(PRRT)를 받은 환자군(65명)은 표준 전신 치료를 받은 대조군(64명)에 비해 생존 기간이 유의하게 향상되었습니다. 전체 생존기간 중앙값은 34.6개월 대 25.8개월이었으며, 무진행 생존기간 중앙값은 22.0개월 대 16.7개월이었습니다. 3등급 이상의 중증 부작용 발생률은 두 그룹 간에 유의미한 차이가 없어 양호한 안전성을 보였습니다.",
+ "summary_source": "llm",
  "tags": [
   "신경내분비종양"
  ],
  "title": "Efficacy and safety of [¹⁷⁷Lu]Lu-DOTA-TATE versus standard systemic therapies in advanced well-differentiated gastroenteropancreatic neuroendocrine tumors: a retrospective cohort study",
- "title_ko": null,
+ "title_ko": "진행성 잘 분화된 위장관·췌장 신경내분비종양에서 표준 전신 치료 대비 [¹⁷⁷Lu]Lu-DOTA-TATE의 유효성 및 안전성: 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

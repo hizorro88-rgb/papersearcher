@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: The accurate preoperative differentiation of early-stage pancreatic ductal adenocarcinoma (PDAC) from benign/premalignant masses remains a clinical challenge. This study aimed to evaluate the diagnostic value of systemic immuno-nutritional indices (CALLY, PNI, NLR, PLR, CAR) in predicting early-stage PDAC by excluding the statistical bias created by advanced-stage tumor burden.\nMETHODS: A retrospective analysis was conducted on 75 patients who underwent surgical resection for a pancreatic mass between September 2020 and February 2026. Patients were divided into an early-stage (Stage 1 and 2 A) malignant group (n = 21) and a benign/premalignant group (n = 54). The diagnostic performance of indices calculated from routine preoperative blood tests was evaluated using ROC curve and multivariate logistic regression analyses.\nRESULTS: In the malignant group, NLR (p = 0.010) and PLR (p = 0.007) were significantly higher, whereas PNI (p = 0.001) and CALLY (p = 0.011) indices were significantly lower compared to the benign group. ROC analysis revealed that PNI had the highest diagnostic accuracy for predicting early-stage malignancy (AUC: 0.757), followed by PLR (AUC: 0.700), NLR (AUC: 0.691), and CALLY (AUC: 0.690). In multivariate logistic regression models, PNI (OR: 0.870), CALLY (OR: 0.360), NLR (OR: 2.204), and PLR emerged as independent predictors of malignancy, outperforming the standard tumor marker CA 19 - 9.\nCONCLUSION: Cost-effective and non-invasive immuno-nutritional indices, particularly PNI and CALLY, are promising independent predictors with high diagnostic value that may complement traditional clinical evaluation in differentiating early-stage pancreatic masses from benign lesions.",
+ "authors": [
+  "Aydin O",
+  "Korkmaz YY",
+  "Güngör F",
+  "Kudaş İ",
+  "Bozkurt HA",
+  "Kinaci E"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058631",
+ "importance": 0.67,
+ "key_points_ko": [
+  "예후영양지수(PNI)는 AUC 0.757로 조기 췌장암 예측에서 가장 높은 진단 정확도를 기록했습니다.",
+  "조기 췌장암군에서는 양성군에 비해 호중구-림프구 비율(NLR, p=0.010)과 혈소판-림프구 비율(PLR, p=0.007)이 유의하게 높았고, PNI(p=0.001) 및 CALLY(p=0.011) 수치는 유의하게 낮았습니다.",
+  "다변량 회귀분석에서 PNI(OR 0.870), CALLY(OR 0.360), NLR(OR 2.204) 및 PLR은 표준 종양표지자 CA 19-9보다 우수한 독립적 악성 예측 인자로 나타났습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1186/s12893-026-04153-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43058631"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058631/"
+ },
+ "summary_ko": "수술 전 조기 췌관선암(PDAC)과 양성 또는 전암성 종괴를 정확히 감별하기 위해 전신 면역-영양 지표의 진단 가치를 분석한 연구입니다. 췌장 종괴로 수술적 절제를 받은 환자 75명(조기 췌장암 21명, 양성/전암성 54명)의 수술 전 일상적인 혈액 검사 결과를 후향적으로 평가했습니다. 분석 결과 PNI, CALLY, NLR, PLR 등의 면역-영양 지표가 표준 종양표지자인 CA 19-9보다 우수한 예측 성능을 보였습니다. 연구진은 이러한 비침습적 혈액 지표가 조기 췌장암 감별 진단을 보완하는 데 유용할 수 있다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Differentiating early-stage pancreatic cancer from benign masses: the diagnostic superiority of immuno-nutritional indices",
+ "title_ko": "조기 췌장암과 양성 종괴의 감별: 면역-영양 지표의 진단적 우수성",
+ "trial": null,
+ "type": "paper"
+}

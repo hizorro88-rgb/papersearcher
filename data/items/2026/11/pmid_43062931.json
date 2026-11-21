@@ -1,0 +1,59 @@
+{
+ "abstract": "IntroductionAccurate preoperative differentiation between pancreatic cancer and non-pancreatic periampullary carcinoma is important for treatment selection. This study aimed to develop a predictive model integrating CT-based radiomics and conventional imaging features for this task.MethodsThis single-center retrospective study developed and internally validated prediction models using data from 72 patients with pathologically confirmed periampullary carcinoma, including 37 pancreatic and 35 non-pancreatic cancers. Clinical data and conventional CT findings were collected, and radiomics features were extracted from three-dimensional tumor volumes on preoperative portal venous phase CT images. Model development and evaluation used stratified five-fold nested cross-validation, with data-dependent preprocessing and predictor selection restricted to the corresponding training folds. Radiomics feature selection involved Pearson correlation filtering followed by LASSO logistic regression, with the regularization parameter selected using inner five-fold cross-validation and the one-standard-error rule. Clinical-imaging, radiomics, and combined models were constructed using logistic regression. Diagnostic performance was evaluated using pooled out-of-fold predictions from the outer test folds and summarized by the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, and accuracy. AUCs were compared using DeLong's test.ResultsThe AUCs of the clinical-imaging and radiomics models were 0.825 (0.715-0.920) and 0.856 (0.753-0.944), respectively. The combined model achieved the best performance, with an AUC of 0.924 (0.876-0.983), sensitivity of 85.71%, specificity of 94.59%, and accuracy of 90.28%. Lesion enhancement degree and radiomics score were the key predictors in the combined model. DeLong tests showed that the combined model significantly outperformed both the clinical-imaging model (P = 0.011) and the radiomics model (P = 0.021).ConclusionsThe combined model integrating CT-based radiomics and conventional imaging features showed promising discriminative performance for the preoperative differentiation between pancreatic cancer and non-pancreatic periampullary carcinoma in this single-center cohort. Further prospective validation in larger, independent cohorts is required before clinical implementation.",
+ "authors": [
+  "Guo Y",
+  "Chen YJ",
+  "Cui WJ",
+  "Zhu L",
+  "Wang ZQ",
+  "Ren S"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43062931",
+ "importance": 0.77,
+ "key_points_ko": [
+  "환자 72명(췌장암 37명, 비췌장암 35명)의 수술 전 CT를 바탕으로 라디오믹스 결합 모델을 평가했습니다.",
+  "결합 모델은 AUC 0.924, 민감도 85.71%, 특이도 94.59%, 정확도 90.28%로 가장 높은 성능을 나타냈습니다.",
+  "병변의 조영증강 정도와 라디오믹스 점수가 결합 모델의 핵심 예측 변수였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1177/10732748261511508",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43062931"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Control",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062931/"
+ },
+ "summary_ko": "본 연구는 수술 전 췌장암과 팽대부 주위의 비췌장암을 감별하기 위해 CT 기반 라디오믹스(radiomics)와 기존 영상 소견을 결합한 예측 모델을 개발한 후향적 연구입니다. 병리학적으로 확진된 팽대부 주위 암 환자 72명(췌장암 37명, 비췌장암 35명)의 수술 전 문맥기 CT 영상 데이터를 분석했습니다. 라디오믹스와 기존 영상 소견을 통합한 결합 모델은 곡선하면적(AUC) 0.924, 민감도 85.71%, 특이도 94.59%의 우수한 진단 성능을 보였습니다. 연구진은 임상 적용을 위해 향후 대규모 독립 코호트에서의 전향적 검증이 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CT-Based Radiomics for Preoperative Differentiation of Pancreatic Cancer From Periampullary Non-pancreatic Cancer",
+ "title_ko": "췌장암과 팽대부 주위 비췌장암의 수술 전 감별을 위한 CT 기반 라디오믹스 분석",
+ "trial": null,
+ "type": "paper"
+}

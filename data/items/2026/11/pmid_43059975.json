@@ -1,0 +1,64 @@
+{
+ "abstract": "Cancer cachexia, defined by involuntary skeletal muscle loss, affects ~ 70% of pancreatic ductal adenocarcinoma (PDAC) patients at diagnosis and independently worsens survival. Here, we identify complement component 1q (C1q) as a driver of PDAC-induced muscle wasting, with coordinated effects across muscle, tumor, and systemic inflammatory compartments. In cachectic PDAC patient muscle, C1q partially co-deposits with IgM, and C1q mRNA correlates with reduced muscle radiation attenuation, a CT-derived measure of muscle quality. In PDAC tumors, C1q protein correlates with immunosuppressive programs and independently predicts poor survival. These findings are recapitulated in orthotopic KPC mice, where C1q mRNA is upregulated in respiratory muscle before cachexia onset, and C1q deposits in tumors and co-deposits with IgM in muscles of cachectic mice. C1qa deletion reduced systemic inflammatory mediators, blocked muscle atrophy, and improved activity and grip strength in KPC mice, while attenuating immune cell infiltration and extracellular matrix remodeling in respiratory muscle. Host C1qa deletion also suppressed angiogenic and immunosuppressive programs in KPC tumors, while increasing intratumoral CD8⁺ T cell density and Granzyme B production. These findings position C1q as a driver of cancer-induced muscle wasting and tumor immunosuppression, supporting C1q inhibition as a potential therapeutic strategy targeting pathological features of poor-prognosis PDAC.",
+ "authors": [
+  "Judge A",
+  "Ducharme J",
+  "Schonk M",
+  "Poole B",
+  "Al-Zaeed N",
+  "Duckett S",
+  "Vogt R",
+  "Binienda T"
+ ],
+ "categories": [
+  "basic",
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43059975",
+ "importance": 0.59,
+ "key_points_ko": [
+  "췌관선암(PDAC) 환자의 약 70%가 진단 시 비자발적 골격근 손실을 겪으며 이는 독립적인 불량 예후 인자입니다.",
+  "종양 조직 내 C1q 단백질 발현은 면역 억제 기전과 연관되어 환자의 불량한 생존율을 독립적으로 예측했습니다.",
+  "마우스 모델에서 C1qa를 제거하자 근육 위축이 차단되고 악력이 개선되었으며 종양 내 CD8⁺ T세포 밀도 및 그랜자임 B(Granzyme B) 생성이 증가했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11516792/v1",
+  "nct": [],
+  "pmcid": "PMC13778993",
+  "pmid": "43059975"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Res Sq",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059975/"
+ },
+ "summary_ko": "췌장암(PDAC) 환자의 약 70%는 진단 시 근육이 감소하는 암 악액질(cancer cachexia)을 겪으며 이는 생존 기간을 단축시킵니다. 연구진은 보체 인자 1q(C1q)가 췌장암에 의한 골격근 소모와 종양 미세환경의 면역 억제를 유도하는 핵심 인자임을 발견했습니다. 췌장암 마우스 모델에서 C1qa 유전자를 결핍시키자 전신 염증과 근육 위축이 억제되고 근력과 활동성이 개선되었습니다. 또한 종양 내 혈관신생 및 면역 억제가 줄고 세포독성 T세포(CD8⁺ T cell) 침윤이 증가하여 C1q가 새로운 치료 표적이 될 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Complement C1q drives skeletal muscle wasting in pancreatic cancer",
+ "title_ko": "보체 단백질 C1q에 의한 췌장암 골격근 소모 유발 기전 규명",
+ "trial": null,
+ "type": "paper"
+}

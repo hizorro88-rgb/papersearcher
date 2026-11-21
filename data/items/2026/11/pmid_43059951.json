@@ -1,0 +1,66 @@
+{
+ "abstract": "PURPOSE: Pancreatic ductal adenocarcinoma (PDAC) is the third leading cause of cancer death in the US. Socioeconomic disadvantage, measured by Area Deprivation Index (ADI), may affect outcomes beyond tumor biology. We evaluate ADI and overall survival (OS) in localized PDAC, accounting for KRAS-mutant circulating tumor DNA (ctDNA).\nMETHODS: 165 patients with localized PDAC were prospectively enrolled (NCT04616131; Oct. 2020-Jan. 2026). ADI was dichotomized at the 50th national percentile. OS was compared by group and jointly with ctDNA using Kaplan-Meier analysis. Multivariable Cox assessed ADI and survival, adjusting for clinical covariates and ctDNA, and tested ADI/ctDNA interactions. C-index/likelihood ratio assessed added discriminatory value. Next-generation sequencing detected KRAS-mutant ctDNA.\nRESULTS: High ADI was associated with shorter OS (26.7 vs 30.5 months, p=0.035; HR 1.79, 95% CI 1.09-2.92, p=0.020). Patients with both high ADI and detectable ctDNA had the poorest survival (9.8 vs 38.3 months, p=0.005). ADI and ctDNA each independently predicted shorter survival without significant interaction; combining both improved model discrimination beyond either alone.\nCONCLUSION: Greater area deprivation is associated with reduced survival in localized PDAC, independently of clinical and tumor biomarkers. ADI and ctDNA may have additive value for risk stratification, supporting interventions targeting social determinants alongside oncologic care.",
+ "authors": [
+  "Shen C",
+  "Horowitz A",
+  "Vitello DJ",
+  "Cox M",
+  "Wells A",
+  "Sridalla K",
+  "Temosihue I",
+  "Kasparian M"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43059951",
+ "importance": 0.72,
+ "key_points_ko": [
+  "지역 결핍 지표(ADI)가 높은 환자군은 낮은 환자군에 비해 전체 생존기간 중앙값이 유의하게 짧았습니다(26.7개월 대 30.5개월, 위험비 1.79, p=0.020).",
+  "높은 결핍 지표와 혈중 ctDNA 양성이 동시에 나타난 환자군의 전체 생존기간은 9.8개월로 가장 불량했습니다(대조군 38.3개월, p=0.005).",
+  "거주 지역 결핍도와 ctDNA는 서로 독립적으로 생존 기간 단축을 예측하는 예후 인자였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11395904/v1",
+  "nct": [
+   "NCT04616131"
+  ],
+  "pmcid": "PMC13778998",
+  "pmid": "43059951"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Res Sq",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059951/"
+ },
+ "summary_ko": "이 연구는 국소 췌관선암(PDAC) 환자 165명을 대상으로 거주 지역의 사회경제적 결핍도(ADI)와 혈중 KRAS 변이 순환 종양 DNA(ctDNA)가 생존기간에 미치는 영향을 분석했습니다. 분석 결과, 거주 지역 결핍도가 높은 환자는 결핍도가 낮은 환자에 비해 전체 생존기간(OS)이 유의하게 짧았습니다. 특히 거주 지역 결핍도가 높고 ctDNA가 검출된 환자의 생존기간은 9.8개월로 가장 짧았습니다. 연구진은 생물학적 종양 지표뿐만 아니라 사회경제적 요인도 국소 췌장암 환자의 독립적인 위험 인자라고 보고했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Neighborhood Deprivation and Circulating Tumor DNA Provide Distinct Prognostic Signals in Localized Pancreatic Cancer",
+ "title_ko": "국소 췌장암에서 거주 지역 결핍도와 혈중 순환 종양 DNA가 나타내는 독립적인 예후 신호",
+ "trial": null,
+ "type": "paper"
+}

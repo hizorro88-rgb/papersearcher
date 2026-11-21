@@ -1,0 +1,55 @@
+{
+ "abstract": null,
+ "authors": [
+  "Ray K"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058184",
+ "importance": 0.54,
+ "key_points_ko": [
+  "췌장암의 KRAS 표적 치료제 반응성에 인터페론 신호 전달 활성도가 중요한 역할을 합니다.",
+  "종양 미세환경의 면역 반응 조절이 KRAS 억제제 내성을 극복하는 열쇠가 될 수 있음을 확인했습니다.",
+  "KRAS 표적 치료와 면역 조절 치료의 병용 효과에 대한 기전적 근거를 제시했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1038/s41575-026-01289-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43058184"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Rev Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058184/"
+ },
+ "summary_ko": "이 연구는 췌장암 치료에서 KRAS 표적 치료제에 대한 반응성을 결정짓는 주요 요인으로 인터페론(interferon) 신호 전달 체계를 제시합니다. 종양 미세환경 내 인터페론 반응이 KRAS 억제 치료에 대한 민감도 및 내성에 영향을 미치는 것으로 밝혀졌습니다. 이 결과는 췌장암 환자에서 KRAS 표적 치료제와 면역 조절 치료를 병용하는 새로운 전략의 근거를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Interferon signalling key to KRAS-targeted therapy response in pancreatic cancer",
+ "title_ko": "인터페론 신호 전달, 췌장암의 KRAS 표적 치료 반응의 핵심",
+ "trial": null,
+ "type": "paper"
+}

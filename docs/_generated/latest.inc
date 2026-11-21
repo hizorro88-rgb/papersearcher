@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,342</b><span>누적 수집<br><small>논문·소식 751 · 임상시험 591</small></span></div><div class="ps-stat"><b>+19</b><span>오늘 신규<br><small>갱신 36건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,370</b><span>누적 수집<br><small>논문·소식 777 · 임상시험 593</small></span></div><div class="ps-stat"><b>+28</b><span>오늘 신규<br><small>갱신 41건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-20](_generated/daily/2026/11/20.md)
+최근 수집일: [2026-11-21](_generated/daily/2026/11/21.md)
 
 <a id="nct-nct07491445"></a>
 #### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
@@ -20,18 +20,18 @@
 
 ---
 <a id="nct-nct06752811"></a>
-#### [전이성 췌장암 1차 치료로서 고분자 미셀 파클리탁셀과 젬시타빈 병용요법의 3상 임상시험](https://clinicaltrials.gov/study/NCT06752811)
+#### [전이성 췌장암 환자를 대상으로 한 주사용 파클리탁셀 고분자 미셀 3상 임상시험](https://clinicaltrials.gov/study/NCT06752811)
 <small>Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-12-31 · ClinicalTrials.gov · Shanghai Yizhong Pharmaceutical Co., Ltd. · 중요도 0.99
 
 **NCT06752811** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT06752811.md)
 
-전이성 췌장암 환자를 대상으로 고분자 미셀 파클리탁셀(paclitaxel polymeric micelles)과 젬시타빈(gemcitabine) 병용요법을 평가하는 3상 임상시험입니다. 1차 치료로서 기존 표준 치료인 냅-파클리탁셀(nab-Paclitaxel) 및 젬시타빈 병용요법과 유효성 및 안전성을 비교합니다. 총 416명의 환자를 모집하여 무작위 배정 방식으로 진행됩니다. 이 연구는 전이성 췌장암 환자의 생존 기간을 연장하고 새로운 치료 옵션을 제공하는 것을 목표로 합니다.
+본 연구는 전이성 췌장암 환자를 대상으로 1차 치료로서 주사용 파클리탁셀 고분자 미셀(paclitaxel polymeric micelles)과 젬시타빈(Gemcitabine) 병용요법의 유효성 및 안전성을 냅-파클리탁셀(nab-Paclitaxel)과 젬시타빈 병용요법과 비교 평가하는 다기관, 무작위배정, 공개 3상 임상시험입니다. 총 416명의 환자를 대상으로 진행됩니다. 기존 표준 치료 대비 더 효과적인 치료 옵션을 찾아 전이성 췌장암 환자의 생존율을 향상시키는 것을 목표로 합니다.
 
-- 전이성 췌장암 1차 치료에서 고분자 미셀 파클리탁셀과 젬시타빈 병용요법을 냅-파클리탁셀 병용요법과 비교하는 3상 연구입니다.
-- 이전 전신 항암 치료 경험이 없는 만 18세 이상 75세 이하의 전이성 췌장암 환자 416명을 대상으로 합니다.
-- 수술 전후 보조항암치료를 받은 경우 마지막 투여 후 6개월 이상 경과한 환자는 참여 가능합니다.
+- 전이성 췌장암의 1차 치료로서 주사용 파클리탁셀 고분자 미셀 + 젬시타빈 병용요법을 냅-파클리탁셀 + 젬시타빈 대조군과 비교하는 3상 연구입니다.
+- 목표 대상 인원은 총 416명이며, 만 18세 이상 75세 이하의 전이성 췌장암 환자를 대상으로 합니다.
+- 이전에 전이성 췌장암에 대한 전신 치료(항암화학요법, 표적치료, 면역치료)를 받은 적이 없는 환자가 참여할 수 있습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT06752811) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06752811)</small>
 
@@ -51,6 +51,21 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43037855/) · [DOI](https://doi.org/10.1245/s10434-026-20922-8) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43037855)</small>
 
 ---
+<a id="pmid-43062619"></a>
+#### [췌장 종양의 MRI 라디오믹스: 방법론적 질 및 영상 재현성에 대한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43062619/)
+<small>MRI radiomics of pancreatic tumours: a systematic review of methodological quality and imaging reproducibility</small>
+
+`논문` `메타분석` `진단·조기발견` `기초연구` `제약사·규제` · 2026-11-20 · PubMed · Eur Radiol Exp · 중요도 0.95
+
+이 연구는 췌장 종양 환자의 MRI 영상 데이터를 활용한 라디오믹스(radiomics, 의료영상 분석 기술) 연구들의 재현성과 방법론적 질을 체계적으로 평가했습니다. 78편의 연구(241개 MRI 펄스 시퀀스)를 분석한 결과, 재현성 확보에 필요한 핵심 영상 파라미터를 완전하게 보고한 연구는 단 한 편도 없었습니다. 영상 획득 및 재구성 세부 사항의 누락이 잦았으며, 연구 방법론과 보고의 질 역시 전반적으로 미흡한 수준이었습니다. 연구진은 향후 임상적 활용 가치를 높이기 위해 영상 파라미터 및 모델 검증에 대한 투명하고 표준화된 보고가 필요하다고 강조했습니다.
+
+- 총 78편의 췌장 종양 MRI 라디오믹스 연구 중 핵심 영상 파라미터 10개 항목을 온전히 보고한 연구는 0%였습니다.
+- 방법론적 질(METRICS) 중앙값은 52.4%(45~60%), 라디오믹스 연구 평가 체크리스트(CLEAR) 점수 중앙값은 62.3%(56~69%)로 나타났습니다.
+- 영상 획득 및 재구성 조건의 누락이 흔하여 연구 결과의 재현성과 신뢰성에 한계가 있음을 확인했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062619/) · [DOI](https://doi.org/10.1186/s41747-026-00837-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062619)</small>
+
+---
 <a id="pmid-43024239"></a>
 #### [국소 진행성 췌장관선암 환자에서 종양 치료 전기장 치료와 삶의 질: 무작위 대조 임상시험의 2차 분석](https://pubmed.ncbi.nlm.nih.gov/43024239/)
 <small>Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial</small>
@@ -64,19 +79,5 @@
 - 마약성 진통제(오피오이드) 사용까지 걸린 시간의 중앙값은 TTFields 병용군 9.3개월, 단독군 6.7개월로 유의하게 연장되었습니다(위험비 0.72, P=0.01).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43024239/) · [DOI](https://doi.org/10.1001/jamanetworkopen.2026.41241) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13768972/) · [NCT03377491](https://clinicaltrials.gov/study/NCT03377491) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43024239)</small>
-
----
-<a id="pmid-43013127"></a>
-#### [췌장암 환자에서 잠재적 예후 지표로서의 노인 영양 위험 지수: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43013127/)
-<small>Geriatric nutritional risk index as a potential prognostic indicator in pancreatic cancer: evidence from a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `지지요법·삶의질` `치료 전반` `제약사·규제` · 2026-08-15 · PubMed · Aging Clin Exp Res · 중요도 0.85
-
-이 연구는 췌장암 환자에서 노인 영양 위험 지수(Geriatric Nutritional Risk Index, GNRI)와 전체 생존기간(OS)의 연관성을 체계적으로 평가하기 위해 수행되었습니다. 총 18개의 관찰 연구가 포함되었고 그중 13개 연구가 메타분석에 활용되었습니다. 분석 결과, GNRI에 따른 높은 영양 위험은 현저하게 불량한 전체 생존기간과 연관이 있었습니다. 초록에 명시되지 않음
-
-- GNRI로 평가한 높은 영양 위험은 췌장암 환자의 불량한 전체 생존기간(OS)과 유의한 연관성을 보였습니다(통합 위험비 HR=1.79, 95% 신뢰구간: 1.42-2.26).
-- 트림 앤 필(trim-and-fill) 보정 분석에서도 결과는 유사하게 유지되었습니다(보정 위험비 HR=1.58, 95% 신뢰구간: 1.25-2.00).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43013127/) · [DOI](https://doi.org/10.1007/s40520-026-03484-3) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13755016/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43013127)</small>
 
 ---

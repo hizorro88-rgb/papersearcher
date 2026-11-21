@@ -15,7 +15,7 @@
   "treatment"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-20",
  "history": [
   {
@@ -25,8 +25,13 @@
   }
  ],
  "id": "pmid:43052098",
- "importance": 0.65,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "전체 분석 환자의 93%가 전신 항암화학요법을 받았으며, 전체 환자의 중앙 생존기간(mOS)은 48.6개월이었습니다.",
+  "절제 단면 상태별 중앙 생존기간은 R0군 54.6개월, R0close군 41.3개월, R1군 20.7개월로 나타났습니다(P=0.04).",
+  "다변량 조정을 거친 Cox 비례위험 모델 분석에서 R0close군은 R0군 대비 사망 위험비(HR)가 1.09(95% CI: 0.71-1.67)로 유의미한 생존율 차이를 보이지 않았습니다.",
+  "R1 절제군은 R0군에 비해 사망 위험이 유의하게 높았습니다(HR = 1.88, 95% CI: 1.01-3.52)."
+ ],
  "last_updated": "2026-11-20",
  "links": {
   "doi": "10.1016/j.hbpd.2026.10.010",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43052098/"
  },
- "summary_ko": "BACKGROUND: The differential impact of negative resection margins that are > 1 mm (R0) or ≤ 1 mm (R0close) compared to positive (R1) margins on overall survival (OS) in pancreatic ductal adenocarcinoma (PDAC) is unclear in the modern era of chemotherapy administration. Historically, R0close margins were shown to have a negative impact on OS compared to R0, but these data predate wide adoption of the current multiagent cytotoxic treatment regimens and neoadjuvant treatment approaches.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 현대적인 다제 항암화학요법 체계에서 췌장암 수술 시 절제 단면 상태가 환자의 전체 생존기간(OS)에 미치는 영향을 분석했습니다. 2014년부터 2024년까지 췌장절제술을 받은 췌장관선암(PDAC) 환자 256명을 대상으로 분석을 진행했습니다. 분석 결과, 음성 절제 단면인 R0(>1mm)군과 근접 음성 단면인 R0close(≤1mm)군 사이의 생존율에는 통계적으로 유의미한 차이가 관찰되지 않았습니다. 반면 잔류 암이 남아있는 R1(양성) 절제군은 R0군에 비해 생존율이 현저히 낮았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Association between close margin status and survival in the modern systemic treatment era for pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "현대 항암화학요법 시대에서 췌장관선암의 근접 절제 단면 상태와 생존율의 연관성",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer (PC) commonly develops intrinsic or acquired resistance to gemcitabine (GEM), limiting clinical benefit. To uncover the underlying chromatin and transcriptional programs and identify actionable targets, we integrated ATAC-seq and RNA-seq in a GEM-resistant AsPC-1 subline (AsPC-1 GR) and parental cells. Although global chromatin accessibility decreased in AsPC-1 GR, a set of resistance-specific open regions (Peak_up) emerged. Integrating Peak_up with resistance-upregulated genes (DEG_up) identified 916 candidate resistance-associated genes, and motif analysis further narrowed the regulatory candidates to 23 core transcription factors, with EGR1 prioritized. EGR1 knockdown increased GEM sensitivity and reduced clonogenic growth, whereas EGR1 overexpression promoted survival and tumor growth and weakened GEM efficacy in xenografts. Mechanistically, EGR1 suppressed GEM-induced pyroptosis, with reduced LDH release and decreased IL-1β, consistent with inhibited caspase-1/GSDMD signaling. Multi-evidence integration identified 26 EGR1-linked resistance genes; TCGA survival analysis and validation highlighted SERPINB1 as a key downstream effector. SERPINB1 promoted GEM tolerance by restraining caspase-1 activation, GSDMD cleavage, and cytokine release, indicating inhibition of pyroptosis. Immunoprecipitation-mass spectrometry revealed EGR1 interaction with WDR5, and WDR5/SET1A positively regulated SERPINB1. ChIP-seq data mining and ChIP-qPCR showed co-enrichment of EGR1, WDR5, SET1A, and H3K4me3 at the SERPINB1 promoter, supporting an EGR1-driven epigenetic activation model. Therapeutically, IT25, an inhibitor of EGR1 DNA-binding activity, downregulated SERPINB1, restored GEM-induced caspase-1/GSDMD-mediated pyroptosis, and enhanced the antitumor efficacy of GEM in vivo. Collectively, these findings identify the EGR1-WDR5/SET1A-H3K4me3-SERPINB1 axis as a key driver of GEM resistance in PC and suggest that IT25-based combination therapy may improve GEM efficacy by reactivating pyroptosis.",
+ "authors": [
+  "Zhao Y",
+  "Wang Y",
+  "Zhang X",
+  "Chen L",
+  "Qin C",
+  "Zhao B",
+  "Li Z",
+  "Li T"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43057411",
+ "importance": 0.56,
+ "key_points_ko": [
+  "EGR1 억제는 젬시타빈(gemcitabine) 감수성을 높이고 종양 성장을 줄인 반면, EGR1 과발현은 이종이식 모델에서 젬시타빈 효능을 약화시켰습니다.",
+  "EGR1-WDR5/SET1A 복합체는 SERPINB1의 발현을 유도하여 caspase-1/GSDMD 매개 파이롭토시스(pyroptosis) 세포사멸을 억제했습니다.",
+  "EGR1 억제제인 IT25는 생체 내(in vivo)에서 파이롭토시스를 회복시키고 젬시타빈의 항종양 치료 효과를 증대시켰습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218930",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43057411"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43057411/"
+ },
+ "summary_ko": "본 연구는 췌장암 세포에서 젬시타빈(gemcitabine) 내성이 발생하는 후성유전학적 메커니즘을 규명하고 이를 극복하기 위한 표적을 탐색했습니다. 연구팀은 젬시타빈 내성 췌장암 세포에서 전사인자인 EGR1이 WDR5/SET1A 복합체와 함께 하위 유전자인 SERPINB1을 활성화함을 확인했습니다. 이 축은 염증성 세포사멸의 일종인 파이롭토시스(pyroptosis)를 억제하여 암세포가 젬시타빈에 저항하도록 유도했습니다. 동물 실험에서 EGR1 억제제인 IT25를 젬시타빈과 병용 투여했을 때 파이롭토시스가 복원되면서 항암 효과가 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The EGR1-WDR5/SET1A-SERPINB1 epigenetic axis promotes gemcitabine resistance by suppressing pyroptosis in pancreatic cancer",
+ "title_ko": "EGR1-WDR5/SET1A-SERPINB1 후성유전학적 축을 통한 파이롭토시스 억제와 췌장암의 젬시타빈 내성 유도",
+ "trial": null,
+ "type": "paper"
+}

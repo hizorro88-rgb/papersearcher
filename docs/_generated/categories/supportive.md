@@ -16,27 +16,105 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 210건 · 최근 30일 118건
+전체 214건 · 최근 30일 118건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07700212"></a>
-#### [전이성 췌장선암 환자의 암성 악액질 치료를 위한 미주신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
+#### [전이성 췌장암 환자의 암 유발 악액질에 대한 미주신경 차단술의 안전성 및 초기 유효성을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
 <small>A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
-`임상시험` `1상` `지지요법·삶의질` `치료 전반` · 2026-07-13 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.84
+`임상시험` `1상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2026-07-13 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.84
 
 **NCT07700212** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07700212.md)
 
-이 임상시험은 항암화학요법을 받고 있는 전이성 췌장선암 환자를 대상으로 OnVagus 기기를 사용한 경피적 저주파 미주신경 차단술(tLFVB)의 안전성과 내약성을 평가하는 1상 연구입니다. 암으로 인한 악액질(체중 감소)을 겪는 환자 10명을 모집하여 치료 기기의 안전성을 확인합니다. 부수적으로 체중 유지나 증가로 나타나는 악액질 억제율, 생체지표 변화, 무진행 생존기간(PFS) 및 전체 생존기간(OS)에 미치는 영향도 함께 관찰합니다.
+이 임상시험은 항암화학요법을 받는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 OnVagus 기기를 이용한 경피적 좌측 미주신경 차단술(transcutaneous left vagal nerve blockade, tLFVB)의 안전성과 내인성을 평가하기 위해 진행됩니다. 주요 목적은 항암치료 중 기기를 착용했을 때의 안전성과 내인성을 확인하는 것이며, 체중 안정화 또는 증가로 정의되는 악액질(cachexia) 진행 억제율도 부수적으로 평가합니다. 연구에 참여하는 목표 환자 수는 10명입니다.
 
-- 전이 상태에서 1차 치료 후 질병이 진행되었고 진단 후 5% 이상의 체중 감소를 겪은 전이성 췌장선암 환자 10명을 대상으로 합니다.
-- OnVagus 기기를 착용하여 비침습적으로 미주신경을 차단했을 때의 안전성과 내약성을 1차적으로 평가합니다.
-- 체중 유지 또는 증가를 통한 악액질 진행 억제율과 염증 지표(TNFα, GDF15 등), 무진행 생존기간(PFS)을 분석합니다.
+- 대상 질환은 전이성 췌장암이며 목표 인원은 10명입니다.
+- 중재 방법은 OnVagus 기기를 활용한 경피적 좌측 미주신경 차단술(tLFVB)입니다.
+- 주요 목표는 항암화학요법과 병행 시 기기의 안전성과 내인성 확인입니다.
+- 부수적 목표로 체중 안정화 또는 증가로 정의되는 악액질 억제율을 평가합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07700212) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07700212)</small>
+
+---
+<a id="pmid-43062045"></a>
+#### [국소 진행성 췌장암에서 장 자가이식을 동반한 근치적 절제술에 대한 국제 전문가 합의](https://pubmed.ncbi.nlm.nih.gov/43062045/)
+<small>International expert consensus on radical resection combined with intestinal autotransplantation for locally advanced pancreatic cancer</small>
+
+`논문` `가이드라인` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Br J Surg · 중요도 0.84
+
+광범위한 장간막 혈관 침범이 있는 국소 진행성 췌장암(LAPC) 환자에게 장 자가이식을 동반한 근치적 절제술(RRCIA)이 잠재적 완치 수술법으로 부상하고 있습니다. 이에 따라 국제 다학제 전문가 패널이 델파이 기법을 활용하여 환자 선별, 수술 전 치료, 수술 전략, 주수술기 관리 등에 관한 20개의 합의 권고안을 도출했습니다. 전문가들은 충분한 선행항암요법(neoadjuvant therapy) 후 경험이 풍부한 고용량(고빈도) 병원에서 매우 선별된 환자에게만 이 수술을 시행하도록 권고했습니다. 또한 혈류가 잘 통하는 장과 회맹판을 보존하고, 항응고 요법, 영양 지원, 보조항암치료 및 체계적인 장기 추적 관찰을 개별화하여 적용할 것을 강조했습니다.
+
+- 총 20개의 합의 항목 중 권고 강도는 강력 권고 6개, 조건부 권고 14개로 구성되었습니다.
+- 장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.
+- 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+
+---
+<a id="pmid-43059951"></a>
+#### [국소 췌장암에서 거주 지역 결핍도와 혈중 순환 종양 DNA가 나타내는 독립적인 예후 신호](https://pubmed.ncbi.nlm.nih.gov/43059951/)
+<small>Neighborhood Deprivation and Circulating Tumor DNA Provide Distinct Prognostic Signals in Localized Pancreatic Cancer</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `진단·조기발견` `치료 전반` · 2026-11-09 · PubMed · Res Sq · 중요도 0.72
+
+이 연구는 국소 췌관선암(PDAC) 환자 165명을 대상으로 거주 지역의 사회경제적 결핍도(ADI)와 혈중 KRAS 변이 순환 종양 DNA(ctDNA)가 생존기간에 미치는 영향을 분석했습니다. 분석 결과, 거주 지역 결핍도가 높은 환자는 결핍도가 낮은 환자에 비해 전체 생존기간(OS)이 유의하게 짧았습니다. 특히 거주 지역 결핍도가 높고 ctDNA가 검출된 환자의 생존기간은 9.8개월로 가장 짧았습니다. 연구진은 생물학적 종양 지표뿐만 아니라 사회경제적 요인도 국소 췌장암 환자의 독립적인 위험 인자라고 보고했습니다.
+
+- 지역 결핍 지표(ADI)가 높은 환자군은 낮은 환자군에 비해 전체 생존기간 중앙값이 유의하게 짧았습니다(26.7개월 대 30.5개월, 위험비 1.79, p=0.020).
+- 높은 결핍 지표와 혈중 ctDNA 양성이 동시에 나타난 환자군의 전체 생존기간은 9.8개월로 가장 불량했습니다(대조군 38.3개월, p=0.005).
+- 거주 지역 결핍도와 ctDNA는 서로 독립적으로 생존 기간 단축을 예측하는 예후 인자였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43059951/) · [DOI](https://doi.org/10.21203/rs.3.rs-11395904/v1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778998/) · [NCT04616131](https://clinicaltrials.gov/study/NCT04616131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43059951)</small>
+
+---
+<a id="pmid-43058631"></a>
+#### [조기 췌장암과 양성 종괴의 감별: 면역-영양 지표의 진단적 우수성](https://pubmed.ncbi.nlm.nih.gov/43058631/)
+<small>Differentiating early-stage pancreatic cancer from benign masses: the diagnostic superiority of immuno-nutritional indices</small>
+
+`논문` `관찰연구` `진단·조기발견` `지지요법·삶의질` · 2026-08-27 · PubMed · BMC Surg · 중요도 0.67
+
+수술 전 조기 췌관선암(PDAC)과 양성 또는 전암성 종괴를 정확히 감별하기 위해 전신 면역-영양 지표의 진단 가치를 분석한 연구입니다. 췌장 종괴로 수술적 절제를 받은 환자 75명(조기 췌장암 21명, 양성/전암성 54명)의 수술 전 일상적인 혈액 검사 결과를 후향적으로 평가했습니다. 분석 결과 PNI, CALLY, NLR, PLR 등의 면역-영양 지표가 표준 종양표지자인 CA 19-9보다 우수한 예측 성능을 보였습니다. 연구진은 이러한 비침습적 혈액 지표가 조기 췌장암 감별 진단을 보완하는 데 유용할 수 있다고 결론지었습니다.
+
+- 예후영양지수(PNI)는 AUC 0.757로 조기 췌장암 예측에서 가장 높은 진단 정확도를 기록했습니다.
+- 조기 췌장암군에서는 양성군에 비해 호중구-림프구 비율(NLR, p=0.010)과 혈소판-림프구 비율(PLR, p=0.007)이 유의하게 높았고, PNI(p=0.001) 및 CALLY(p=0.011) 수치는 유의하게 낮았습니다.
+- 다변량 회귀분석에서 PNI(OR 0.870), CALLY(OR 0.360), NLR(OR 2.204) 및 PLR은 표준 종양표지자 CA 19-9보다 우수한 독립적 악성 예측 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43058631/) · [DOI](https://doi.org/10.1186/s12893-026-04153-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43058631)</small>
+
+---
+<a id="nct-nct04258813"></a>
+#### [팀 기반 암 환자 돌봄을 지원하기 위한 일차 진료 연계 네트워크](https://clinicaltrials.gov/study/NCT04258813)
+<small>Onco-primary Care Networking to Support TEAM-based Care</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2020-02-06 · ClinicalTrials.gov · Duke University · 중요도 0.64
+
+**NCT04258813** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04258813.md)
+
+본 연구는 신규 진단된 특정 고형암 및 만성 심혈관 질환을 동반한 성인 환자 800명을 대상으로 일차 진료 제공자(PCP)와 암 전문의 간의 소통과 만성 질환 관리를 개선하기 위한 18개월 동안의 군집 무작위 대조 임상시험입니다. 환자와 일차 진료 제공자에게 정보 제공 전략(iGuide) 및 맞춤형 전략을 적용하여 치료 효과를 평가합니다. 주요 평가 변수는 혜택 및 정보 세트(HEDIS) 품질 지표, 복약 순응도, 그리고 환자-의료진 소통입니다. 초록에 췌장암에 대한 구체적인 임상시험 결과는 명시되지 않았습니다.
+
+- 목표 인원은 800명이며, 18개월 동안 군집 무작위 대조 임상시험으로 진행됩니다.
+- 일차 진료 제공자와 암 치료 팀 간의 협력을 강화하여 만성 질환 관리와 환자 소통 개선을 평가합니다.
+- 초록에 췌장암 환자를 대상으로 한 치료 효과나 생존기간 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04258813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04258813)</small>
+
+---
+<a id="pmid-43059975"></a>
+#### [보체 단백질 C1q에 의한 췌장암 골격근 소모 유발 기전 규명](https://pubmed.ncbi.nlm.nih.gov/43059975/)
+<small>Complement C1q drives skeletal muscle wasting in pancreatic cancer</small>
+
+`논문` `전임상` `기초연구` `지지요법·삶의질` `진단·조기발견` · 2026-11-09 · PubMed · Res Sq · 중요도 0.59
+
+췌장암(PDAC) 환자의 약 70%는 진단 시 근육이 감소하는 암 악액질(cancer cachexia)을 겪으며 이는 생존 기간을 단축시킵니다. 연구진은 보체 인자 1q(C1q)가 췌장암에 의한 골격근 소모와 종양 미세환경의 면역 억제를 유도하는 핵심 인자임을 발견했습니다. 췌장암 마우스 모델에서 C1qa 유전자를 결핍시키자 전신 염증과 근육 위축이 억제되고 근력과 활동성이 개선되었습니다. 또한 종양 내 혈관신생 및 면역 억제가 줄고 세포독성 T세포(CD8⁺ T cell) 침윤이 증가하여 C1q가 새로운 치료 표적이 될 가능성을 확인했습니다.
+
+- 췌관선암(PDAC) 환자의 약 70%가 진단 시 비자발적 골격근 손실을 겪으며 이는 독립적인 불량 예후 인자입니다.
+- 종양 조직 내 C1q 단백질 발현은 면역 억제 기전과 연관되어 환자의 불량한 생존율을 독립적으로 예측했습니다.
+- 마우스 모델에서 C1qa를 제거하자 근육 위축이 차단되고 악력이 개선되었으며 종양 내 CD8⁺ T세포 밀도 및 그랜자임 B(Granzyme B) 생성이 증가했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43059975/) · [DOI](https://doi.org/10.21203/rs.3.rs-11516792/v1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778993/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43059975)</small>
 
 ---
 <a id="nct-nct07826780"></a>
@@ -57,31 +135,20 @@ search:
 
 ---
 <a id="nct-nct07949578"></a>
-#### [DNA Methylation-Based Testing for High Risk Populations](https://clinicaltrials.gov/study/NCT07949578)
+#### [고위험군 대상 DNA 메틸화 기반 다중 암 조기 발견 검사의 타당성 연구](https://clinicaltrials.gov/study/NCT07949578)
+<small>DNA Methylation-Based Testing for High Risk Populations</small>
+
 `임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2026-11-19 · ClinicalTrials.gov · University of Colorado, Denver · 중요도 0.66
 
 **NCT07949578** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07949578.md)
 
-This study will study the feasibility of using multi-cancer early detection (MCED) testing in individuals at high risk for cancer development. We will look at participants to have germline mutations in cancer associated genes and participants who have pancreatic cysts.
+본 연구는 암 발생 고위험군을 대상으로 다중 암 조기 발견(MCED) 검사인 Galleri 검사의 타당성을 평가하는 임상시험입니다. 암 관련 생식세포 유전자 변이를 보유한 사람과 고위험 췌장 낭종을 가진 환자 총 176명을 대상으로 진행됩니다. 참여자는 MCED 검사를 받고 검사 후 불안감과 표준 선별검사 준수율을 평가하는 설문조사를 완료하게 됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07949578) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
+- 암 관련 유전자 변이 보유자 및 고위험 췌장 낭종 환자 총 176명을 대상으로 합니다.
+- 40세 이상의 암 고위험군에서 Galleri 다중 암 조기 발견(MCED) 검사의 타당성을 평가합니다.
+- 검사 시행 후 환자의 불안도 및 기존 표준 검진 준수 여부에 대한 설문 평가를 수행합니다.
 
----
-<a id="nct-nct04258813"></a>
-#### [일차 진료와 종양학 치료의 연계를 통한 암 생존자 팀 기반 치료 지원 연구](https://clinicaltrials.gov/study/NCT04258813)
-<small>Onco-primary Care Networking to Support TEAM-based Care</small>
-
-`임상시험` `기타` `지지요법·삶의질` `치료 전반` · 2020-02-06 · ClinicalTrials.gov · Duke University · 중요도 0.64
-
-**NCT04258813** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04258813.md)
-
-본 연구는 유방암, 전립선암, 대장암, 자궁내막암, 비소세포폐암, 두경부암 등의 고형암을 진단받고 심혈관 질환 동반 질환이 있는 성인 환자들을 대상으로 합니다. 일차 진료의(PCP)와 암 전문의 간의 소통 및 만성 질환 관리를 개선하기 위한 18개월간의 군집 무작위 대조 임상시험입니다. 중재 전략으로는 자가 안내 정보 제공 전략(iGuide)과 맞춤형/표적형 추가 중재(iGuide2)가 활용되었습니다. 연구 결과는 초록에 명시되지 않음.
-
-- 목표 등록 환자 수는 800명이며, 약 80개의 일차 진료의(PCP) 클리닉이 참여했습니다.
-- 연구의 주요 평가변수는 질병 관리 품질 지표(HEDIS), 약물 순응도(PDC), 환자-의사 소통 점수입니다.
-- 임상시험의 결과 수치는 초록에 명시되지 않음.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04258813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04258813)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07949578) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
 
 ---
 <a id="nct-nct07627191"></a>
@@ -1817,66 +1884,5 @@ This study will study the feasibility of using multi-cancer early detection (MCE
 - 전신 염증, 간 대사 변화, 지방 조직 감소 등의 악액질 상태는 운동 진행 중에도 대부분 유지되었습니다.
 
 <small>[원문](https://europepmc.org/article/PPR/PPR1347441) · [DOI](https://doi.org/10.64898/2026.10.14.758481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.14.758481)</small>
-
----
-<a id="pmid-42902085"></a>
-#### [국소 진행성 췌장암 환자에서 냉동소작술의 안전성과 유효성 분석](https://pubmed.ncbi.nlm.nih.gov/42902085/)
-<small>Analysis of the Safety and Efficacy of Cryoablation in Patients with Locally Advanced Pancreatic Cancer</small>
-
-`논문` `관찰연구` `치료 전반` `수술` `지지요법·삶의질` · 2026-10-20 · PubMed · Ann Surg Oncol · 중요도 0.69
-
-국소 진행성 췌장암(LAPC) 환자 186명을 대상으로 초음파 유도하 냉동소작술(cryoablation)의 안전성과 유효성을 후향적으로 분석한 연구입니다. 냉동소작술과 전신 치료(항암치료 등)를 병용한 환자군의 전체 생존기간(OS) 중앙값은 22.1개월로, 전신 치료 단독(17.8개월)이나 냉동소작술 단독(18.7개월)보다 길었습니다. 특히 냉동소작술에 항암치료, 면역치료, 표적치료 등을 함께 병용한 환자군은 전체 생존기간 중앙값이 25.4개월에 달했습니다. 또한 거의 모든 환자가 냉동소작술 시행 후 뚜렷한 암성 통증 완화 효과를 경험했습니다.
-
-- 총 186명의 환자 중 냉동소작술 시행군은 142명, 전신 치료 단독군은 44명이었습니다.
-- 전체 생존기간 중앙값은 전신 치료 단독 17.8개월, 냉동소작술 단독 18.7개월, 냉동소작술과 전신 치료 병용 시 22.1개월이었습니다.
-- 냉동소작술과 병용 전신 요법(항암치료+면역치료±표적치료)을 받은 환자군의 전체 생존기간 중앙값은 25.4개월로 가장 길었습니다.
-- 다변량 분석 결과 연령, 종양 위치, 치료 방식, 황달이 독립적인 전체 생존기간 예측 인자로 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42902085/) · [DOI](https://doi.org/10.1245/s10434-026-20731-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42902085)</small>
-
----
-<a id="pmid-42897094"></a>
-#### [핀란드 췌장암 환자의 당뇨병: 유병률, 당뇨병과 암 진단 간격, 그리고 전체 생존기간](https://pubmed.ncbi.nlm.nih.gov/42897094/)
-<small>Diabetes Among Finnish Pancreatic Cancer Patients: Prevalence, Time Interval Between Diabetes and Cancer Diagnosis, and Overall Survival</small>
-
-`논문` `관찰연구` `진단·조기발견` `기초연구` `지지요법·삶의질` `치료 전반` · 2026-10-01 · PubMed · Cancer Med · 중요도 0.66
-
-이 연구는 14,712명의 췌장암(pancreatic cancer, PC) 환자를 대상으로 전국 등록 데이터를 활용하여 당뇨병(diabetes mellitus, DM)의 유병률과 생존기간에 미치는 영향을 조사했습니다. 18년 동안의 추적 관찰 결과, 전체 췌장암 환자의 18%가 당뇨병을 앓고 있었으며, 당뇨병과 췌장암 진단 사이의 중앙값 간격은 4.8개월이었습니다. 다변량 콕스 회귀 분석(multivariable Cox regression analysis) 결과, 췌장암 진단 후에 진단된 당뇨병만이 완화적 치료(palliative intent) 그룹(위험비(HR) 1.12, 95% 신뢰구간 1.03-1.23, p=0.011)과 근치적 치료(curative intent) 그룹(위험비(HR) 1.44, 95% 신뢰구간 1.14-1.81, p=0.002) 모두에서 더 나쁜 생존율과 연관되었습니다. 췌장암 진단 전에 진단된 장기 당뇨병이나 신규 발병 당뇨병(new-onset diabetes, NOD)은 생존기간에 유의미한 영향을 미치지 않았습니다.
-
-- 전체 췌장암 환자의 18%가 당뇨병을 가지고 있었으며, 당뇨병과 췌장암 진단 간의 중앙값은 4.8개월이었습니다.
-- 췌장암 진단 후에 진단된 당뇨병은 완화적 치료 그룹(위험비 1.12)과 근치적 치료 그룹(위험비 1.44) 모두에서 불리한 생존율과 연관되었습니다.
-- 췌장암 진단 전의 장기 당뇨병이나 신규 발병 당뇨병은 생존기간에 유의미한 영향을 미치지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897094/) · [DOI](https://doi.org/10.1002/cam4.72380) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13680288/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897094)</small>
-
----
-<a id="pmid-42901085"></a>
-#### [SRSF1-DLAT 축이 미토콘드리아 융합을 유도하여 당뇨 동반 췌관선암의 치료 저항성을 유발함](https://pubmed.ncbi.nlm.nih.gov/42901085/)
-<small>SRSF1-DLAT axis drives mitochondrial fusion to confer therapy resistance in diabetes-associated pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-10-16 · PubMed · Drug Resist Updat · 중요도 0.64
-
-당뇨병을 동반한 췌장암 환자는 예후가 불량한 경우가 많으며, 본 연구는 당뇨병과 항암치료 실패를 잇는 분자적 기전을 규명했습니다. 당뇨 미세환경에서 축적된 젖산은 SRSF1 단백질을 안정화하고, 이는 DLAT의 발현을 높여 미토콘드리아 과융합을 유도합니다. 그 결과 세포사멸이 억제되고 PD-L1이 안정화되어 항암제 저항성과 면역 회피가 나타났습니다. 동물 실험에서 베르베린(Berberine) 약물 치료가 이 축을 억제하여 화학요법 및 면역요법에 대한 치료 반응을 회복시켰습니다.
-
-- 당뇨 동반 췌장암 환경의 젖산 축적이 SRSF1 및 DLAT 발현을 증가시켜 미토콘드리아 과융합과 항암제 저항성을 유발했습니다.
-- 미토콘드리아 과융합은 PD-L1 단백질을 안정화하여 종양의 면역 회피를 촉진했습니다.
-- 베르베린(Berberine) 처리는 생체 내(in vivo) 모델에서 SRSF1-DLAT 축을 억제해 화학·면역요법 병용 치료의 감수성을 재감작시켰습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42901085/) · [DOI](https://doi.org/10.1016/j.drup.2026.101489) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42901085)</small>
-
----
-<a id="pmid-42897170"></a>
-#### [췌장암 전임상 모델 및 관련 악액질에서의 시공간적 대사 네트워크](https://pubmed.ncbi.nlm.nih.gov/42897170/)
-<small>Spatiotemporal metabolic networks in a preclinical model of pancreatic cancer and associated cachexia</small>
-
-`논문` `전임상` `기초연구` `지지요법·삶의질` `진단·조기발견` · 2026-09-18 · PubMed · Nat Commun · 중요도 0.52
-
-본 연구는 췌장암 발달 과정에서 나타나는 인간 악액질(cachexia)의 종단적 진행을 재현하는 마우스 모델을 특성화했습니다. 연구진은 수컷과 암컷의 췌장, 간, 지방 조직, 골격근 등 다양한 조직에서 암 연관 악액질의 단계별 대사체를 분석했습니다. 그 결과 각 조직은 고유한 대사체와 진행 경로를 가지며 종양 간질액(interstitial fluid, IF)에서 현저한 지질(lipid) 축적이 관찰되었습니다. 또한 체중 감소 이전에 전신 대사 변화가 나타남을 확인하여 조기 진단 표지자를 발굴할 수 있는 가능성을 제시했습니다.
-
-- 췌장암 발달에 따른 전임상 모델의 다중 조직 대사체 프로파일링을 수행했습니다.
-- 종양 간질액에서 현저한 지질 축적이 확인되었습니다.
-- 체중 감소가 발생하기 전에 전신 대사 변화가 선행하는 것을 발견했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42897170/) · [DOI](https://doi.org/10.1038/s41467-026-77745-0) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13680358/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42897170)</small>
 
 ---

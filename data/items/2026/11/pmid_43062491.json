@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Metastatic pancreatic adenocarcinoma remains one of the most treatment-refractory malignancies. Although MBTA immunotherapy, consisting of mannan-BAM, Toll-like receptor ligands, and an agonistic anti-CD40 antibody, effectively eradicates primary tumors and induces systemic antitumor immunity, its efficacy against large established metastatic lesions remains limited. We hypothesized that therapeutic outcomes could be improved by combining MBTA with interventions targeting biological vulnerabilities of metastatic tumors.\nMETHODS: A bilateral Panc02 pancreatic adenocarcinoma model was employed to mimic primary tumors and established distant lesions. MBTA was administered intratumorally into primary tumors, while metastatic lesions were targeted using systemic or local interventions affecting glutamine metabolism, apoptosis, or tumor-cell membrane integrity. Combinations with immune checkpoint inhibitors and anti-TGF-β antibody were evaluated in a bilateral MC38 colorectal adenocarcinoma model.\nRESULTS: Treatment of primary tumors with MBTA generated a systemic antitumor response that significantly delayed the growth of distant tumors and prolonged survival but rarely induced complete responses. Therapeutic efficacy was enhanced by combining MBTA with the glutamine antagonist prodrug LTP607, the Smac mimetic LCL161, or intratumoral administration of the membrane-disruptive peptide LTX-315, each producing durable complete responses in a subset of animals. Direct treatment of both primary and distant tumors with MBTA further improved cure rates, which were additionally increased by blockade of the CD47-SIRPα axis. In contrast, immune checkpoint inhibitors and anti-TGF-β antibody provided minimal additional benefit when combined with MBTA.\nCONCLUSION: These findings suggest that MBTA-induced systemic immunity alone may be insufficient for eradication of large established metastatic lesions. However, therapeutic strategies targeting intrinsic vulnerabilities of metastatic tumors substantially enhance antitumor efficacy. Collectively, the results support the development of MBTA-based combination therapies for advanced metastatic cancer.",
+ "authors": [
+  "Lencova R",
+  "Frejlachova A",
+  "Havlova A",
+  "Kosenko K",
+  "Uher O",
+  "Hadrava Vanova K",
+  "Majer P",
+  "Tenora L"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43062491",
+ "importance": 0.47,
+ "key_points_ko": [
+  "마우스 췌장암 모델에서 MBTA 면역치료 투여 시 전신 항종양 면역이 유도되어 원격 종양 성장 지연 및 생존기간 연장 효과를 보였습니다.",
+  "MBTA 면역치료에 LTP607, LCL161, LTX-315 등을 병용했을 때 일부 동물 모델에서 지속적인 완전 관해(CR)를 얻었습니다.",
+  "원발암과 전이암 모두에 MBTA를 직접 투여하거나 CD47-SIRPα 축 차단제를 추가 투여 시 완치율이 더욱 향상되었습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1007/s00262-026-04527-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43062491"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-24",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Immunol Immunother",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062491/"
+ },
+ "summary_ko": "췌장암 마우스 모델에서 MBTA 면역치료와 전이 암세포의 생물학적 취약성을 표적하는 치료제의 병용 효과를 평가한 전임상 연구입니다. MBTA 단독 치료는 원격 종양의 성장을 지연시키고 생존을 연장했으나 완전 관해 유도에는 한계가 있었습니다. 글루타민 길항제 LTP607, Smac 모방체 LCL161, 세포막 파괴 펩타이드 LTX-315를 병용했을 때 일부 동물에서 지속적인 완전 관해가 관찰되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immunotherapy of metastases in a mouse model of pancreatic adenocarcinoma",
+ "title_ko": "췌장암 마우스 모델에서의 전이암 면역치료 연구",
+ "trial": null,
+ "type": "paper"
+}

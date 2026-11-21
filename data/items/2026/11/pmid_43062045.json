@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Radical resection combined with intestinal autotransplantation (RRCIA) has emerged as a potential curative option for highly selected patients with locally advanced pancreatic cancer (LAPC) and extensive mesenteric vascular involvement. This project aimed to develop expert consensus recommendations on indications, surgical strategies, perioperative management, and long-term care of RRCIA in patients with LAPC.\nMETHODS: An international multidisciplinary panel of experts in pancreatic surgery, transplant surgery, medical oncology, radiation oncology, radiology, critical care, and perioperative care was convened. A modified Delphi process was used to develop consensus recommendations. The survey comprised six domains with a total of 20 questions covering patient selection, neoadjuvant therapy, surgical strategies, perioperative management, adjuvant therapy, and follow-up. Consensus was predefined as ≥80% agreement.\nRESULTS: Twenty consensus statements were developed. The quality of evidence was low for 17 statements and moderate for 3. Six recommendations were strong and 14 conditional. RRCIA was recommended only for highly selected patients at experienced high-volume centres following adequate neoadjuvant therapy and multidisciplinary evaluation. Surgical strategies should be individualized according to tumour location and vascular involvement. No definitive minimum residual bowel length was established, and preservation of well-perfused bowel and the ileocaecal valve was emphasized. Postoperative management should be tailored, including anticoagulation, nutritional support, selective implementation of enhanced recovery principles, adjuvant therapy, and structured long-term follow-up.\nCONCLUSION: This consensus provides the first international framework to guide the application of RRCIA for LAPC, emphasizing its use in carefully selected patients treated at experienced centres with multidisciplinary expertise.",
+ "authors": [
+  "Ma T",
+  "Wu G",
+  "Schulick RD",
+  "Li M",
+  "He J",
+  "Lillemoe KD",
+  "Zheng L",
+  "Kleeff J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43062045",
+ "importance": 0.84,
+ "key_points_ko": [
+  "총 20개의 합의 항목 중 권고 강도는 강력 권고 6개, 조건부 권고 14개로 구성되었습니다.",
+  "장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.",
+  "혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1093/bjs/znag147",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43062045"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Consensus Statement"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Br J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062045/"
+ },
+ "summary_ko": "광범위한 장간막 혈관 침범이 있는 국소 진행성 췌장암(LAPC) 환자에게 장 자가이식을 동반한 근치적 절제술(RRCIA)이 잠재적 완치 수술법으로 부상하고 있습니다. 이에 따라 국제 다학제 전문가 패널이 델파이 기법을 활용하여 환자 선별, 수술 전 치료, 수술 전략, 주수술기 관리 등에 관한 20개의 합의 권고안을 도출했습니다. 전문가들은 충분한 선행항암요법(neoadjuvant therapy) 후 경험이 풍부한 고용량(고빈도) 병원에서 매우 선별된 환자에게만 이 수술을 시행하도록 권고했습니다. 또한 혈류가 잘 통하는 장과 회맹판을 보존하고, 항응고 요법, 영양 지원, 보조항암치료 및 체계적인 장기 추적 관찰을 개별화하여 적용할 것을 강조했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "International expert consensus on radical resection combined with intestinal autotransplantation for locally advanced pancreatic cancer",
+ "title_ko": "국소 진행성 췌장암에서 장 자가이식을 동반한 근치적 절제술에 대한 국제 전문가 합의",
+ "trial": null,
+ "type": "paper"
+}

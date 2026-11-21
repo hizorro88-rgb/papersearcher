@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most devastating malignancies, with its incidence and mortality rates remaining particularly discouraging. Elucidating the molecular mechanisms driving PDAC progression and identifying potential therapeutic targets are critical to improve the clinical prognosis of PDAC patients. Accumulating evidence has highlighted the pivotal functions of centromere proteins (CENPs) in tumor progression. Accordingly, this study aimed to screen and identify key CENP family members implicated in PDAC pathogenesis. Through systematic analysis of CENP family proteins in PDAC, we identified CENPT as a critical regulator involved in disease progression. We further validated that CENPT promoted the proliferation and metastasis of PDAC cells via activating the RAF/MEK/ERK signaling pathway through a series of in vitro and in vivo experiments. In addition, CENPT was also found to be implicated in tumor microenvironment remodeling. Single-cell and bulk transcriptomic analyses demonstrated that CENPT expression was positively correlated with Treg cell abundance and an immunosuppressive tumor microenvironment. Further experiments suggested that CENPT upregulated the synthesis and secretion of MIF in PDAC cells, which acted on naive CD4+ T cells to promote the differentiation into Treg cells. This process ultimately induced the formation of an immunosuppressive tumor microenvironment and facilitated PDAC progression, whereas blockade of MIF enhanced the efficacy of immune checkpoint blockade for PDAC. In conclusion, this study revealed the crucial role of CENPT in PDAC progression, and targeting CENPT may serve as one of the potential therapeutic strategies for PDAC.",
+ "authors": [
+  "Chen Y",
+  "Yin X",
+  "Yin C",
+  "Hu C",
+  "Li J",
+  "Wang C",
+  "Xu Q",
+  "Zhao Y"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43057412",
+ "importance": 0.64,
+ "key_points_ko": [
+  "CENPT는 RAF/MEK/ERK 신호전달 경로를 활성화하여 췌장암 세포의 증식과 전이를 유도합니다.",
+  "CENPT는 MIF의 합성 및 분비를 높여 미접촉 CD4+ T 세포를 조절 T 세포(Treg)로 분화시켜 면역억제 환경을 조성합니다.",
+  "MIF 차단 시 췌장암에서 면역관문억제제(ICB)의 치료 효과가 증대되는 것으로 나타났습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1016/j.canlet.2026.218966",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43057412"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Lett",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43057412/"
+ },
+ "summary_ko": "본 연구는 췌관선암(PDAC)의 진행을 유도하는 기전과 치료 표적을 발굴하기 위해 동원체 단백질(CENPs) 패밀리를 분석했습니다. 연구진은 세포 및 동물 실험을 통해 CENPT 단백질이 RAF/MEK/ERK 신호전달 경로를 활성화하여 췌장암 세포의 증식과 전이를 촉진함을 확인했습니다. 또한 CENPT가 MIF 분비를 늘려 조절 T 세포(Treg) 분화를 유도함으로써 종양 미세환경을 면역억제 상태로 만든다는 것을 밝혔습니다. 전임상 실험에서 MIF를 차단했을 때 면역관문억제제의 치료 효과가 향상되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CENPT Promotes Pancreatic Cancer Progression by Activating the RAF/MEK/ERK Signaling Pathway and Triggering MIF-Mediated Immunosuppression",
+ "title_ko": "CENPT, RAF/MEK/ERK 신호전달 활성화 및 MIF 매개 면역억제를 통한 췌장암 진행 촉진",
+ "trial": null,
+ "type": "paper"
+}

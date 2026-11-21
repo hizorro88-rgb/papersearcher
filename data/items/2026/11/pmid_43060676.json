@@ -1,0 +1,58 @@
+{
+ "abstract": "Alternative splicing is a crucial regulator of transcriptomic plasticity in pancreatic ductal adenocarcinoma (PDAC), and its dysregulation contributes to tumor progression, therapeutic resistance, and disease heterogeneity. While mutations in spliceosomal components or splice-site sequences can directly affect splicing, evidence increasingly suggests that aberrant splicing in PDAC results more often from the coordinated disruption of multiple regulatory layers. These layers include chromatin organization, transcriptional dynamics, epigenetic and epitranscriptomic mechanisms, and RNA-binding protein networks. Together, these interconnected processes reshape the transcript isoform landscape, producing oncogenic variants that facilitate tumor progression, metabolic adaptation, immune evasion, and therapeutic resistance. This review synthesizes the current knowledge on the multilayered regulation of alternative splicing in PDAC, distinguishing mechanisms that directly determine splice-site selection from those that act indirectly by regulating splicing factors, and from RNA regulatory layers that interact with, but can operate independently of, alternative splicing. Focusing on the dynamic interplay among co-transcriptional chromatin regulation, transcriptional kinetics, RNA modifications, and non-coding RNA-mediated regulatory networks, we examine how these mechanisms collectively remodel the splicing landscape to support tumor plasticity and malignant progression, while critically assessing the strength of PDAC-specific evidence and highlighting areas where mechanistic understanding remains incomplete. Additionally, we highlight emerging opportunities for isoform-level biomarker development and splicing-directed therapeutic strategies, while outlining the major challenges that must be addressed for their successful clinical translation.",
+ "authors": [
+  "Jiménez-Lozano S",
+  "Hernández-Munain C",
+  "Suñé C"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43060676",
+ "importance": 0.68,
+ "key_points_ko": [
+  "췌관선암의 비정상적 선택적 스플라이싱은 종양 진행, 면역 회피, 치료 저항성에 기여합니다.",
+  "스플라이싱 조절 장애는 염색질, 전사 동역학, RNA 변형 등 다층적 분자 조절 네트워크의 붕괴에서 비롯됩니다.",
+  "스플라이싱 변이체를 표적으로 하는 바이오마커 및 새로운 치료 전략 개발 가능성이 제시되었습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.3389/fmmed.2026.2009133",
+  "nct": [],
+  "pmcid": "PMC13782693",
+  "pmid": "43060676"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Mol Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060676/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC)에서 전사체 가소성을 조절하는 선택적 스플라이싱(alternative splicing)의 다층적 기전을 정리한 종설입니다. 췌관선암의 비정상적 스플라이싱은 단순 돌연변이뿐만 아니라 염색질 구조, 후성유전학, RNA 변형, RNA 결합 단백질 네트워크의 복합적 붕괴로 발생합니다. 이러한 변화는 암 유발 변이체를 생성하여 종양 진행, 대사 적응, 면역 회피 및 치료 저항성을 유발합니다. 저자들은 스플라이싱 동형단백질 기반 바이오마커 개발과 스플라이싱 표적 치료 전략의 가능성 및 임상 적용 과제를 함께 논의했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Alternative splicing as a multilayered regulatory hub in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌관선암에서 다층적 조절 허브로서의 선택적 스플라이싱",
+ "trial": null,
+ "type": "paper"
+}

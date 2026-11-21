@@ -1,0 +1,63 @@
+{
+ "abstract": "The functions of major histocompatibility complex class II molecule-expressing cancer-associated fibroblasts (MHCII + CAFs) in pancreatic cancer remain controversial. MHCII + CAFs are primarily described as immunosuppressive, as MHCII allows for direct interaction with, and support of, regulatory T cells (Tregs). However, MHCII + CAF functions may be more complex depending on their origins and their cellular interactions within the tumor microenvironment. Here, using orthotopic models of pancreatic cancer, we show that conventional CD4 + T cells and their production of Interferon gamma (IFNγ) increased MHCII + CAFs in tumors. Acute depletion of Tregs using Foxp3 DTR mice revealed that Tregs suppress the abundance of MHCII + CAFs in tumors by inhibiting CD4 T cell responses that can directly control primary tumor growth and metastatic progression. Functionally, MHCII expression on fibroblasts was required for CD4 T cell control of PDAC progression upon Treg ablation. Collectively, our findings identify an IFNγ-driven, antitumor activity of MHCII expression on CAFs and reveal that CAFs may be harnessed to promote adaptive immunity to PDAC.",
+ "authors": [
+  "Hung J",
+  "Silveria-Davies S",
+  "Vickery J",
+  "Maker BG",
+  "Mikolajczyk C",
+  "Axe DS",
+  "Weist BM",
+  "Elias JE"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43060558",
+ "importance": 0.57,
+ "key_points_ko": [
+  "CD4+ T세포와 인터페론 감마(IFNγ) 분비가 종양 내 MHCII+ 암 관련 섬유아세포(CAF)의 생성을 촉진합니다.",
+  "조절 T세포(Tregs)는 CD4+ T세포 반응을 억제하여 종양 내 MHCII+ CAF의 수를 억제하는 것으로 나타났습니다.",
+  "조절 T세포 제거 시 섬유아세포 표면의 MHCII 발현은 CD4+ T세포가 췌장암 진행을 억제하는 데 필수적이었습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.64898/2026.11.03.764075",
+  "nct": [],
+  "pmcid": "PMC13780716",
+  "pmid": "43060558"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-11-04",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060558/"
+ },
+ "summary_ko": "췌장암 동소이식 동물 모델을 활용하여 주요 조직적합성 복합체 II형(MHCII)을 발현하는 암 관련 섬유아세포(CAF)의 면역학적 역할을 규명한 기초 연구입니다. 연구 결과, 통상적인 CD4+ T세포와 이들이 분비하는 인터페론 감마(IFNγ)가 종양 내 MHCII+ CAF의 형성을 증가시키는 것으로 나타났습니다. 또한 조절 T세포(Tregs)를 일시적으로 제거했을 때 섬유아세포의 MHCII 발현이 CD4+ T세포 매개 췌장암 진행 및 전이 억제에 필수적이었습니다. 이는 암 관련 섬유아세포를 활용해 췌장암에 대한 적응 면역을 유도할 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "MHCII + cancer-associated fibroblasts promote antitumor immunity in pancreatic cancer",
+ "title_ko": "MHC-II 발현 암 관련 섬유아세포(MHCII+ CAF)의 췌장암 항종양 면역 촉진 효과",
+ "trial": null,
+ "type": "paper"
+}

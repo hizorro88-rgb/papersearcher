@@ -1,0 +1,62 @@
+{
+ "abstract": null,
+ "authors": [
+  "Javed AA",
+  "Andel PCM",
+  "Mahmud O",
+  "Fatimi AS",
+  "Habib JR",
+  "Campbell BA",
+  "Salinas CH",
+  "Cirkel GA"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058414",
+ "importance": 0.67,
+ "key_points_ko": [
+  "5-플루오로우라실(5-Fluorouracil) 기반 항암치료와 젬시타빈(Gemcitabine) 기반 선행보조항암치료 후 절제술을 받은 췌장암 환자에서 예후 인자의 차이를 분석했습니다.",
+  "구체적인 생존기간, 위험비, 환자 수 등의 세부 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1245/s10434-026-20837-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43058414"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058414/"
+ },
+ "summary_ko": "본 논문은 절제 수술을 받은 췌장관선암(PDAC) 환자를 대상으로 5-플루오로우라실(5-Fluorouracil) 기반 선행보조항암요법과 젬시타빈(Gemcitabine) 기반 치료 간의 예후 인자 차이를 비교한 연구의 시각적 초록입니다. 선행 항암치료의 종류에 따라 수술 후 환자의 예후에 영향을 미치는 주요 요인이 다를 수 있음을 보여줍니다. 구체적인 환자 수, 생존율, 위험비 등 세부 결과 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Divergence of Prognostic Factors After 5-Fluorouracil- versus Gemcitabine-based Neoadjuvant Chemotherapy in Resected Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "절제술을 받은 췌장관선암 환자에서 5-플루오로우라실 기반 대 젬시타빈 기반 선행보조항암요법 후 예후 인자의 차이: ASO 비주얼 초록",
+ "trial": null,
+ "type": "paper"
+}

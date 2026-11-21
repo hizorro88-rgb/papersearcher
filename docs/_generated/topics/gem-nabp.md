@@ -78,7 +78,7 @@ search:
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
-| [전이성 췌장암 1차 치료로서 고분자 미셀 파클리탁셀과 젬시타빈 병용요법의 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
+| [전이성 췌장암 환자를 대상으로 한 주사용 파클리탁셀 고분자 미셀 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
 | [EGFR 양성 췌장암에서 수술 후 님오투주맙과 냅파클리탁셀+젬시타빈 병용 보조치료 연구](../trials/NCT06722911.md) | 2상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
 | [국소진행성 및 전이성 췌장암 환자에서 항암화학요법과 알파선 방출선원(DaRT) 병용 치료](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
@@ -131,8 +131,23 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (25)
+## 타임라인 (27)
 
+<a id="pmid-43061577"></a>
+#### [PD-L1 표적 광활성화 리포솜을 통한 nab-paclitaxel의 세포 실험 반응 시너지 향상 및 세포 주기 변화와 면역원성 신호 증폭](https://pubmed.ncbi.nlm.nih.gov/43061577/)
+<small>Synergistic enhancement of in vitro nab-paclitaxel responses by PD-L1 immune checkpoint targeted photoactivable liposomes with altered cell-cycle progression and amplified immunogenic signaling</small>
+
+`논문` `전임상` `신약·치료제` `기초연구` `치료 전반` · 2026-11-19 · PubMed · RSC Pharm · 중요도 0.52
+
+본 연구는 췌장관선암종(PDAC) 세포주에서 PD-L1 표적 광활성화 리포솜(iTPALs)과 nab-paclitaxel(납-팍리탁셀) 병용 치료의 시너지 효과를 평가했습니다. 690 nm 광선으로 활성화된 iTPALs와 nab-paclitaxel을 병용했을 때 세포 대사 활동의 시너지적 감소가 확인되었습니다. 또한 단독 치료에 비해 G1/S 세포 주기 정지를 늘리고 면역원성 세포 사멸 마커의 노출을 증폭시켰습니다.
+
+- 광활성화된 iTPALs와 nab-paclitaxel 병용 시 췌장암 세포주의 대사 활동이 시너지적으로 감소했습니다.
+- nab-paclitaxel 단독 투여에 비해 G1/S 세포 주기 정지(G1/S cell cycle arrest) 효과가 증가했습니다.
+- 단독 투여 시 면역원성 신호가 없던 세포주를 포함한 모든 세포주에서 면역원성 세포 사멸 관련 마커 노출이 강화되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43061577/) · [DOI](https://doi.org/10.1039/d6pm00480f) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13784319/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43061577)</small>
+
+---
 <a id="pmid-43038660"></a>
 #### [종양 내 이질성 정량을 위한 잉크젯 프린팅 단일 세포 유래 췌장암 오가노이드](https://pubmed.ncbi.nlm.nih.gov/43038660/)
 <small>Inkjet-printed single cell-derived pancreatic cancer organoid for intratumoral heterogeneity quantification</small>
@@ -176,6 +191,22 @@ search:
 - NIS793 투여군에서 빈혈, 코피, 발진 및 3등급 이상의 중증 부작용 발생 비율이 더 높게 관찰되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43002828/) · [DOI](https://doi.org/10.1016/j.esmoop.2026.108621) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43002828)</small>
+
+---
+<a id="pmid-43060649"></a>
+#### [전이성 췌관선암의 1차 치료로서 수루파티닙 및 캄렐리주맙과 냅-파클리탁셀+젬시타빈 병용요법: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/43060649/)
+<small>Surufatinib and camrelizumab plus nab-paclitaxel-gemcitabine as first-line treatment for metastatic pancreatic ductal adenocarcinoma: a retrospective cohort study</small>
+
+`논문` `관찰연구` `신약·치료제` `치료 전반` · 2026-11-05 · PubMed · Front Pharmacol · 중요도 0.68
+
+전이성 췌관선암(PDAC) 환자 132명을 대상으로 1차 치료에서 nab-paclitaxel(냅-파클리탁셀)+gemcitabine(젬시타빈)[AG] 표준 요법에 surufatinib(수루파티닙)과 camrelizumab(캄렐리주맙)을 추가한 효과를 평가한 후향적 연구입니다. 수루파티닙+캄렐리주맙+AG 병용군은 44명, AG 투여군은 88명이었습니다. 실제 무진행 생존기간(rwPFS) 중앙값은 병용군 6.3개월, AG군 4.1개월이었으나 보정 후 통계적 유의성은 없었습니다. 확정 객관적 반응률(ORR)은 병용군에서 38.6%로 AG군의 15.9%에 비해 유의하게 높았습니다.
+
+- 실제 무진행 생존기간(rwPFS) 중앙값은 병용군 6.3개월, AG군 4.1개월이었으며, 보정 위험비(HR)는 0.73(95% CI 0.47-1.12, P=0.152)이었습니다.
+- 전체 생존기간(OS) 중앙값은 병용군 9.7개월 대 AG군 8.4개월(보정 HR 0.89, 95% CI 0.57-1.38)로 유의한 차이가 없었습니다.
+- 확정 객관적 반응률은 병용군 38.6%, AG군 15.9%로 병용군에서 통계적으로 유의미하게 높았습니다(P=0.005).
+- 3등급 이상의 이상반응은 병용군 47.7%, AG군 34.1%에서 발생했고, 독성으로 인한 치료 영구 중단율은 각각 18.2%와 11.4%였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43060649/) · [DOI](https://doi.org/10.3389/fphar.2026.2007309) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13782252/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43060649)</small>
 
 ---
 <a id="pmid-42971953"></a>

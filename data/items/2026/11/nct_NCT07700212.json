@@ -3,6 +3,7 @@
  "authors": [],
  "categories": [
   "trial",
+  "drug",
   "supportive",
   "treatment"
  ],
@@ -19,11 +20,12 @@
  "id": "nct:NCT07700212",
  "importance": 0.84,
  "key_points_ko": [
-  "전이 상태에서 1차 치료 후 질병이 진행되었고 진단 후 5% 이상의 체중 감소를 겪은 전이성 췌장선암 환자 10명을 대상으로 합니다.",
-  "OnVagus 기기를 착용하여 비침습적으로 미주신경을 차단했을 때의 안전성과 내약성을 1차적으로 평가합니다.",
-  "체중 유지 또는 증가를 통한 악액질 진행 억제율과 염증 지표(TNFα, GDF15 등), 무진행 생존기간(PFS)을 분석합니다."
+  "대상 질환은 전이성 췌장암이며 목표 인원은 10명입니다.",
+  "중재 방법은 OnVagus 기기를 활용한 경피적 좌측 미주신경 차단술(tLFVB)입니다.",
+  "주요 목표는 항암화학요법과 병행 시 기기의 안전성과 내인성 확인입니다.",
+  "부수적 목표로 체중 안정화 또는 증가로 정의되는 악액질 억제율을 평가합니다."
  ],
- "last_updated": "2026-11-20",
+ "last_updated": "2026-11-21",
  "links": {
   "doi": null,
   "nct": [
@@ -46,11 +48,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07700212"
  },
- "summary_ko": "이 임상시험은 항암화학요법을 받고 있는 전이성 췌장선암 환자를 대상으로 OnVagus 기기를 사용한 경피적 저주파 미주신경 차단술(tLFVB)의 안전성과 내약성을 평가하는 1상 연구입니다. 암으로 인한 악액질(체중 감소)을 겪는 환자 10명을 모집하여 치료 기기의 안전성을 확인합니다. 부수적으로 체중 유지나 증가로 나타나는 악액질 억제율, 생체지표 변화, 무진행 생존기간(PFS) 및 전체 생존기간(OS)에 미치는 영향도 함께 관찰합니다.",
+ "summary_ko": "이 임상시험은 항암화학요법을 받는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 OnVagus 기기를 이용한 경피적 좌측 미주신경 차단술(transcutaneous left vagal nerve blockade, tLFVB)의 안전성과 내인성을 평가하기 위해 진행됩니다. 주요 목적은 항암치료 중 기기를 착용했을 때의 안전성과 내인성을 확인하는 것이며, 체중 안정화 또는 증가로 정의되는 악액질(cachexia) 진행 억제율도 부수적으로 평가합니다. 연구에 참여하는 목표 환자 수는 10명입니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma",
- "title_ko": "전이성 췌장선암 환자의 암성 악액질 치료를 위한 미주신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험",
+ "title_ko": "전이성 췌장암 환자의 암 유발 악액질에 대한 미주신경 차단술의 안전성 및 초기 유효성을 평가하는 1상 임상시험",
  "trial": {
   "conditions": [
    "Metastatic Pancreatic Adenocarcinoma"
@@ -62,7 +64,7 @@
     "phone": "(713) 745-8763"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 조직학적으로 선암 성분이 확인된 전이성 췌장선암 환자\n- 진단 이후 기준 체중 대비 최소 5% 이상의 체중 감소가 확인된 환자\n- 전이 상태에서 1차 전신 치료 후 질병이 진행된 환자\n- 전이 상태에 대해 다음 차수(2차) 전신 치료를 받고 있거나 받을 예정인 환자\n- 심전도(ECG) 검사에서 2도·3도 방실차단, QT 연장, 심방세동/조동, 조절되지 않는 심실세동/조동 등의 이상 소견이 없는 환자\n\n제외 기준:\n- 우측 목 미주신경 절제술 병력 또는 우측 목에 기기 부착을 방해하는 구조적 이상(림프절 비대 등)이 있는 환자\n- 목 부위를 지나는 전기 장치(예: 흉부 배터리와 두개골 삽입물 전선) 또는 목(경추 포함)에 금속성 삽입물이 있는 환자\n- 최근 6개월 이내에 머리나 목 부위에 신경 차단술이나 보톡스 주사를 맞은 환자\n- 치료 부위인 우측 목 부위에 국한된 통증이 있는 환자\n- 중증 뇌혈관 질환(뇌동맥류, 뇌출혈, 뇌졸중 등) 병력이 있는 환자\n- 중증 심장 질환(관상동맥질환, 심근경색 병력, 조절되지 않는 울혈성 심부전 등) 병력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 전이성 췌장암 진단을 받은 환자 (선행 혹은 원발암의 조직학적 선암(adenocarcinoma) 성분 포함)\n- 진단 시점 이후 기저 체중 대비 최소 5% 이상의 체중 감소가 있는 환자\n- 진단에 대한 조직학적 확인이 가능한 환자 (원발암, 이전 수술 조직 또는 전이 조직 모두 가능)\n- 전이성 단계에서 1차 치료 후 질병 진행을 겪은 환자\n- 전이성 단계에서 추가 항암 치료를 받고 있거나 받을 예정인 환자\n- 삼중 심전도(ECG) 결과가 있는 환자\n\n제외 기준:\n- 우측 목 부위의 경부 미주신경 절제술(cervical vagotomy) 병력이 있는 환자\n- 우측 목 부위에 장기 역위(situs inversus)나 거대 림프절 병증 등 기기 부착을 방해하는 구조적 이상이 있는 환자\n- 목을 통과하는 이식형 전기 기기를 장착한 환자\n- 경추를 포함하여 목 부위에 금속 임플란트가 있는 환자\n- 최근 6개월 이내 머리나 목 부위에 신경 차단술 또는 보톡스 주사를 맞은 환자\n- 치료 부위인 우측 목 부위에 국소화된 통증이 있는 환자\n- 중증 뇌혈관 질환 병력이 있는 환자 (두 개내 동맥류, 두 개내 출혈, 뇌졸중 등)\n- 관상동맥질환, 심근경색, 조절되지 않는 울혈성 심부전 등 중증 심장 질환 병력이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Patients with metastatic pancreatic cancer.\n* Must have adenocarcinoma component (presence of combined histology is acceptable, as long as adenocarcinoma is present).\n* Weight loss from baseline of at least 5% (Baseline weight can be anytime from diagnosis onward).\n* Must have a tissue-based confirmation of diagnosis available. Tissue does not need to be a metastasis; primary tumor or prior surgery are acceptable sources.\n* Must have had progression of disease after one prior line of therapy in the metastatic setting.\n* Must be receiving or plan to receive another line of therapy in the metastatic setting. o If therapy is being administered outside MD Anderson, the patient is still eligible for this trial. o Enrollment onto a therapeutic clinical trial as this second line therapy is not explicitly excluded.\n* Must have triple ECG results available. Patients will be ineligible if they present: o Second- or third-degree block.\n\n  * Prolonged QT wave.\n  * Atrial fibrillation or flutter.\n  * Uncontrolled ventricular fibrillation or flutter.\n  * Premature ventricular contractions (PVC).\n\nExclusion Criteria:\n\nExclusion Criteria\n\n* History of cervical vagotomy on the right side of neck.\n* Known structural abnormalities on the right side of neck, including but not limited to situs inversus, bulky R-neck lymphadenopathy, etc., that in the investigators' opinion would lead to inability to correctly place the device onto the vagus nerve.\n* Implanted electrical device that passes through the neck (e.g.: cranial implant with battery pack in chest, and wires running through the neck).\n* Metal implants in the neck, including the cervical spine.\n* Recent (6 months or less) nerve block or botox injections to the head or neck.\n* Pain specifically localized to the treatment area, the right side of the neck.\n* Prior severe cerebrovascular disease (e.g., intracranial aneurysm, intracranial hemorrhage, stroke).\n* Prior severe cardiac disease, including but not limited to coronary artery disease (CAD), prior myocardial infarction (MI), uncontrolled congestive heart failure (CHF).",
   "enrollment": 10,
   "has_results": false,
@@ -79,15 +81,16 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "목 부위에 금속 또는 체내 전자기기 삽입물이 있는 경우",
-    "중증 심장 질환(심근경색, 심부전 등) 또는 중증 부정맥 환자",
-    "중증 뇌혈관 질환(뇌졸중, 뇌출혈 등) 병력이 있는 경우",
-    "최근 6개월 이내 두경부 신경 차단술이나 보톡스 시술을 받은 경우"
+    "우측 목 부위 경부 미주신경 절제술 병력",
+    "목 부위 구조적 이상 또는 금속 임플란트",
+    "목을 통과하는 이식형 전기 기기 장착",
+    "최근 6개월 이내 머리/목 부위 신경 차단술 또는 보톡스 주사",
+    "중증 뇌혈관 질환 또는 중증 심장 질환 병력"
    ],
    "max_prior_lines": 1,
    "measurable_required": null,
    "min_prior_lines": 1,
-   "notes_ko": "1차 항암 치료 후 진행되었고 체중이 5% 이상 감소한 2차 항암 예정 전이성 췌장선암 환자",
+   "notes_ko": "이전 치료 1가지를 받은 전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

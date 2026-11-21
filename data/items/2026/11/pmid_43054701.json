@@ -9,7 +9,7 @@
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-20",
  "history": [
   {
@@ -19,8 +19,13 @@
   }
  ],
  "id": "pmid:43054701",
- "importance": 0.65,
- "key_points_ko": [],
+ "importance": 0.72,
+ "key_points_ko": [
+  "33개의 췌관선암종 조직과 3개의 정상 췌장 조직의 단일 세포 전사체 데이터를 비교 분석했습니다.",
+  "초기 암 조직은 기질 리모델링 특성을 보인 반면 진행성 암은 세포 증식과 가소성이 증가했습니다.",
+  "항암치료를 받은 종양에서는 면역 활성 감소와 함께 세포 미세환경의 적응적 변화가 관찰되었습니다.",
+  "SNCG 및 LY6D 유전자가 기저형 췌장암의 후보 표지자로 식별되었습니다."
+ ],
  "last_updated": "2026-11-20",
  "links": {
   "doi": "10.17912/micropub.biology.002290",
@@ -42,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43054701/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with a poor survival rate. Publicly available single-cell RNA sequencing datasets were analyzed to characterize transcriptional changes across 33 PDAC and three normal pancreas samples.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 33개의 췌관선암종(PDAC) 및 3개의 정상 췌장 샘플의 공개 단일 세포 RNA 시퀀싱(single-cell RNA sequencing) 데이터셋을 분석했습니다. 초기 병기 샘플은 기질 풍부성과 미세환경 리모델링이 두드러진 반면, 진행성 샘플은 세포 증식과 가소성 증가를 보였습니다. 항암화학요법 치료를 받은 종양은 면역 활성이 감소하고 미세환경 리모델링이 강화되는 적응적 변화를 나타냈습니다. 연구진은 COMET 분석을 통해 SNCG 및 LY6D를 기저형(basal-like) 종양 후보 표지자로 발굴했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Pancreatic Ductal Adenocarcinoma Progression Is Associated With Reduced Stromal Organization and Adaptive Tumor Signaling at Single-Cell Resolution",
- "title_ko": null,
+ "title_ko": "단일 세포 해상도 분석을 통한 췌관선암종 진행 시 기질 조직화 감소 및 적응성 종양 신호 전달 연구",
  "trial": null,
  "type": "paper"
 }

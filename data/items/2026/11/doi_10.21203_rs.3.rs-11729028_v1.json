@@ -1,0 +1,56 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Purpose  This study evaluates the utility of [  <sup>18</sup>  F]fluorodeoxyglucose positron emission tomography ([  <sup>18</sup>  F]FDG PET) for Pancreatic ductal adenocarcinoma (PDAC) subtype differentiation across preclinical and clinical settings, and assesses the impact of tracer uptake timing on subtype discrimination. Methods  [  <sup>18</sup>  F]FDG uptake was investigated in classical (C)-HPAC and quasi-mesenchymal (QM)-PSN1 cells, heterotopic rat (n = 11), orthotopic mouse xenografts (n = 8), and gland-forming (GF)/non-GF tumors from seven genetically engineered mouse models (GEMMs). Retrospective [  <sup>18</sup>  F]FDG PET data from 16 PDAC patients were analyzed using subtype classification based on keratin-81 (KRT81+(QM)/KRT81-(non-QM)). Dynamic and static [  <sup>18</sup>  F]FDG PET parameters, including standard uptake value (SUV)  <sub>mean</sub>  , SUV  <sub>max</sub>  , and mean tumor-to-muscle ratio (T/M  <sub>mean</sub>  ), were evaluated for subtype discrimination. Results  QM tumors showed significantly higher [  <sup>18</sup>  F]FDG uptake than C tumors  <italic>in vitro</italic>  (50.7 ± 1.03% vs. 19.4 ± 2.37%), in heterotopic (SUV  <sub>max</sub>  6.91 ± 1.14 vs. 2.66 ± 0.28), and orthotopic (SUV  <sub>max</sub>  2.85 ± 0.70 vs. 1.45 ± 0.50) xenografts. Non-GF tumors also showed significantly higher uptake than GF (SUV  <sub>max</sub>  3.94 ± 0.70 vs. 2.53 ± 0.97). Patients showed a similar trend (SUV  <sub>max</sub>  6.33 ± 1.74 vs. 4.95 ± 1.46), with shorter overall survival in QM tumors. Dynamic PET revealed continued tracer accumulation in QM/non-GF tumors throughout the 90-minute acquisition period, whereas C/GF tumors approached a plateau by approximately 60 minutes. T/M  <sub>mean</sub>  showed the best classification performance across all models. Conclusion  [  <sup>18</sup>  F]FDG PET differentiated PDAC subtypes across all preclinical models with a similar but less pronounced trend in patients. Later imaging time points showed enhanced metabolic separation, suggesting potential benefits for improving non-invasive subtype discrimination. Clinical Trial Registration  N/A  </p>",
+ "authors": [
+  "Karampour R",
+  "Heid I."
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11729028/v1",
+ "importance": 0.54,
+ "key_points_ko": [
+  "준간엽계(QM) 종양은 이종이식 쥐 모델(SUVmax 6.91 대 2.66) 및 환자 분석(SUVmax 6.33 대 4.95) 모두에서 전형적(C) 종양보다 높은 [18F]FDG 섭취를 보였습니다.",
+  "동적 PET 검사에서 준간엽계 종양은 90분 검사 시간 동안 추적자가 지속적으로 축적된 반면 전형적 종양은 약 60분 후 평형 상태에 도달했습니다.",
+  "근육 대비 종양 평균 섭취비(T/Mmean)가 모든 전임상 및 임상 모델에서 아형을 분류하는 가장 우수한 지표였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11729028/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1371626"
+ },
+ "summary_ko": "본 연구는 [18F]FDG 양전자 방출 단층촬영([18F]FDG PET)을 활용하여 췌관선암(PDAC)의 아형을 비침습적으로 구분할 수 있는지 전임상 모델 및 환자 데이터를 통해 평가했습니다. 연구진은 전형적(classical) 아형과 준간엽계(quasi-mesenchymal) 아형 세포, 쥐 전임상 모델, 그리고 16명의 췌장암 환자 retrospecitve 데이터를 분석했습니다. 분석 결과 준간엽계 및 비선형(non-gland-forming) 종양이 전형적 아형에 비해 [18F]FDG 섭취량이 유의하게 높음을 확인했습니다. 또한 촬영 시간을 연장하여 관찰했을 때 아형 간의 대사적 차이가 더욱 명확해졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Non-invasive Prediction of Molecular and Histopathological Subtypes in Murine and Human Pancreatic Ductal Adenocarcinoma Using [18F]FDG PET",
+ "title_ko": "[18F]FDG PET을 이용한 마우스 및 인간 췌관선암의 분자 및 조직병리학적 아형의 비침습적 예측",
+ "trial": null,
+ "type": "preprint"
+}

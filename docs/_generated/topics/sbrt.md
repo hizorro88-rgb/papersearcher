@@ -21,7 +21,7 @@ search:
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [경계성 절제 가능 췌장암 환자에서 정위체부방사선치료(SBRT)와 gemcitabine 및 iparomlimab-toripal…](../trials/NCT07945782.md) | 1상/2상 | 모집 예정 | - |
+| [경계성 절제 가능한 췌장암에서 정위체부방사선치료(SBRT)와 gemcitabine 및 iparomlimab-toripalim…](../trials/NCT07945782.md) | 1상/2상 | 모집 예정 | - |
 | [국소진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(A…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
@@ -43,8 +43,23 @@ search:
 | [수술 전 젬시타빈,  nab-paclitaxel 및 방사선 치료를 병용하는 수술 가능 췌장암 2상 임상시험](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (8)
+## 타임라인 (9)
 
+<a id="doi-10.64898-2026.11.18.767683"></a>
+#### [PDAC BioPortal: 췌장암 전사체 다중 규모 분석을 위한 통합 웹 자원](https://europepmc.org/article/PPR/PPR1372089)
+<small>PDAC BioPortal: An Integrated Web Resource for Multi-Scale Analysis of Pancreatic Cancer Transcriptomics</small>
+
+`프리프린트` `전임상` `기초연구` `치료 전반` · 2026-11-19 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
+
+연구진은 췌장암의 복잡한 분자적 이질성을 다양한 차원에서 분석할 수 있는 웹 기반 통합 플랫폼인 'PDAC BioPortal'을 개발했습니다. 이 플랫폼은 대량 RNA 시퀀싱(bulk RNA-seq), 단일핵 RNA 시퀀싱(snRNA-seq), 공간 전사체(spatial transcriptomics) 데이터를 통합하여 제공합니다. 이를 통해 선행항암요법 및 방사선 치료 전후의 종양 미세환경 변화와 세포별 특성을 분석할 수 있습니다. 특히 NRF2 관련 산화환원 유전자 네트워크 분석 결과, 특정 6개 유전자 발현이 높은 환자군에서 전체 생존기간이 더 짧은 연관성을 확인했습니다.
+
+- TCGA 및 GTEx의 정상 및 암 조직 349개, 치료 관련 코호트 55개 검체, 43명의 환자로부터 얻은 224,988개의 단일핵 데이터, 5명의 환자로부터 얻은 23,436개 공간 전사체 스팟 데이터를 통합했습니다.
+- 선행항암치료 및 정위체부방사선치료(SBRT)를 받은 검체에서는 중간엽, 콜라겐, 세포외기질 관련 유전자 발현 패턴이 두드러지게 나타났습니다.
+- 선별된 6개 NRF2 관련 유전자 발현이 높은 경우 환자의 전체 생존기간(OS)이 유의하게 짧아지는 연관성을 확인했습니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1372089) · [DOI](https://doi.org/10.64898/2026.11.18.767683) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.11.18.767683)</small>
+
+---
 <a id="pmid-43035150"></a>
 #### [경계성 절제 가능 및 절제 불가능 국소 진행성 췌장암에서 예방적 림프절 조사를 병용한 정위체부방사선치료의 1상 용량 증량 연구](https://pubmed.ncbi.nlm.nih.gov/43035150/)
 <small>Phase I dose-escalation study of stereotactic body radiotherapy with elective nodal irradiation for borderline resectable and unresectable locally advanced pancreatic cancer</small>

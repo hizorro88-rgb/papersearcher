@@ -19,12 +19,12 @@
  "id": "nct:NCT05321316",
  "importance": 0.67,
  "key_points_ko": [
-  "대상 질환에는 췌장암(pancreatic cancer)을 포함한 다발성 고형암이 포함됩니다.",
-  "목표 환자 수는 총 40명입니다.",
-  "중재 방법으로 18F-FDG 등이 사용됩니다.",
-  "생존 기간 및 반응률 등 세부 효능 결과는 초록에 명시되지 않았습니다."
+  "대상 질환에는 췌장암(pancreatic cancer)을 포함한 여러 고형암이 포함됩니다.",
+  "목표 환자 수는 40명입니다.",
+  "연령 기준은 18세부터 75세까지입니다.",
+  "상세한 결과 수치는 초록에 명시되지 않았습니다."
  ],
- "last_updated": "2026-11-20",
+ "last_updated": "2026-11-21",
  "links": {
   "doi": null,
   "nct": [
@@ -47,11 +47,11 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05321316"
  },
- "summary_ko": "본 임상시험은 비뇨기계 암, 유방암, 폐암, 췌장암(pancreatic cancer), 위장관 암, 난소암 환자를 대상으로 [68Ga]NT-CBH의 Nectin-4 과발현 탐지 능력을 평가하기 위해 진행됩니다. 18세부터 75세까지의 환자 40명을 목표로 모집하며, Nectin-4 특이적 저분자 양전자 방출 단층촬영(PET) 프로브 영상의 유효성을 확인합니다. 구체적인 생존 기간이나 반응률 등은 초록에 명시되지 않았습니다.",
+ "summary_ko": "본 임상시험은 요로계 암, 유방암, 폐암, 췌장암(pancreatic cancer), 위장관 암, 난소암 환자를 대상으로 [68Ga]NT-CBH의 Nectin-4 과발현 검출 능력을 평가합니다. 18세에서 75세 사이의 환자 40명을 목표로 진행됩니다. 중재 방법으로는 18F-FDG 등이 사용됩니다. 초록에 유효성이나 생존기간 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Nectin-4 Specific LMW PET Probe Imaging in Multiple Solid Tumors",
- "title_ko": "다발성 고형암에서 Nectin-4 표적 저분자 PET 프로브 영상 평가",
+ "title_ko": "다양한 고형암에서 Nectin-4 표적 저분자량 PET 프로브(Nectin-4 Specific LMW PET Probe) 영상 검사",
  "trial": {
   "conditions": [
    "Urothelial Carcinoma",
@@ -73,7 +73,7 @@
     "phone": "010-88196495"
    }
   ],
-  "eligibility_ko": "선정 기준:\n1. 18-75세의 남성 또는 여성\n2. 프로토콜에서 요구하는 허용 가능한 수준의 일반 혈액 검사, 응고 기능 및 간/신장 기능 충족\n3. 정상 심장 기능\n4. 예상 생존 기간 ≥12주\n5. 좋은 추적 관찰 순응도\n6. RECIST 1.1 기준에 따른 최소 하나의 측정 가능한 표적 병변 존재\n7. 가임기 여성의 임신 가능성이 없으며, 연구 기간 및 검사 후 3개월 동안 효과적인 피임에 동의\n8. 임바에 의해 종양 진단 및 병기를 위해 PET/CT 검사를 권장받은 환자\n9. 연구를 충분히 이해하고 자발적으로 참여하여 동의서에 서명한 환자\n\n제외 기준:\n1. 심각한 간, 신장, 혈액 이상\n2. 임신부 및 수유부\n3. 30분 동안 누워있지 못하는 환자\n4. 임상 연구 참여를 거부하는 환자\n5. 폐쇄공포증 또는 기타 정신 질환을 앓고 있는 환자\n6. 연구자가 실험 참여에 부적합하다고 판단하는 기타 조건",
+  "eligibility_ko": "선정 기준:\n- 18~75세의 남성 또는 여성\n- 혈액, 응고, 간/신장 기능 검사가 프로토콜 기준을 충족\n- 정상 심장 기능\n- 예상 생존기간 12주 이상\n- 양호한 추적 관찰 순응도\n- RECIST 1.1 기준에 따른 측정 가능한 표적 병변이 최소 1개 이상 존재\n- 가임기 여성의 임신 가능성이 없으며, 피임에 동의\n- 임상 진료 시 종양 진단 및 병기를 위해 PET/CT 검사가 권장되는 환자\n- 연구에 자발적으로 동의하고 동의서에 서명한 환자\n\n제외 기준:\n- 심각한 간, 신장, 혈액 이상\n- 임신 중이거나 수유 중인 여성\n- 30분 동안 누워있지 못하는 경우\n- 임상 연구 참여를 거부하는 경우\n- 폐쇄공포증 또는 기타 정신 질환이 있는 경우\n- 연구자가 부적합하다고 판단하는 기타 상태",
   "eligibility_text": "Inclusion Criteria:\n\n1. 18-75 years old, male or female;\n2. Routine blood tests, coagulation function, and liver/kidney function must meet the acceptable levels specified in the protocol; indicators including WBC, neutrophils, PLT, Hb, PT/APTT, T-Bil, ALT/AST, ALP, BUN, and SCr must meet the protocol requirements. For participants with liver or bone metastases, related indicators such as ALP may be appropriately relaxed according to the protocol;\n3. Normal heart function;\n4. Estimated survival ≥12 weeks;\n5. Good follow-up compliance;\n6. presence of at least one measurable target lesion according to RECIST1.1 criteria;\n7. Women of childbearing age (15-49 years) must be assessed by the investigator as having no possibility of pregnancy before the examination begins; Fertile male and female participants must agree to use effective contraception to prevent pregnancy during the study and for 3 months after the examination;\n8. Patients recommended by clinicians to undergo PET/CT examination for tumor diagnostic staging;\n9. The subject patients could fully understand and voluntarily participate in the experiment, and signed the informed consent.\n\nExclusion Criteria:\n\n1. Serious abnormality of liver, kidney and blood;\n2. Pregnant patients;\n3. Pregnant and lactation women;\n\n3\\) unable to lie flat for half an hour; 4) Refuse to join the clinical investigator; 5) Suffering from claustrophobia or other mental diseases; 6) Other conditions that researchers deem unsuitable for participating in the experiment.",
   "enrollment": 40,
   "has_results": false,
@@ -90,21 +90,18 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "심각한 간, 신장, 혈액 이상",
-    "임신부 및 수유부",
-    "폐쇄공포증 또는 기타 정신 질환",
-    "30분 동안 누워있지 못하는 경우"
+    "임신 또는 수유 중",
+    "폐쇄공포증 또는 정신 질환",
+    "30분 동안 누워있지 못하는 상태"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "Nectin-4 표적 PET 검사 평가를 위한 다발성 고형암 환자 대상 임상시험입니다.",
+   "notes_ko": "Nectin-4 발현 확인을 위한 PET/CT 영상 검사를 받는 췌장암 등 고형암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [
-    "metastatic",
-    "locally_advanced",
-    "resectable"
+    "metastatic"
    ],
    "source": "llm"
   },

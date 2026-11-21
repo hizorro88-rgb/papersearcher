@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Immunotherapy benefits many solid tumors, yet efficacy in pancreatic cancer (PC) remains limited given its immunologically cold phenotype. We evaluated the real-world effectiveness, safety, and treatment patterns of serplulimab-based regimens in unresectable locally advanced or metastatic PC.\nMETHODS: This two-center observational study retrospectively included adults with pathologically confirmed advanced PC who received serplulimab-based therapy as first- or later-line treatment. Short-term efficacy was assessed per RECIST v1.1, safety per CTCAE v5.0, and long-term benefit by overall survival (OS).\nRESULTS: Among the 42 included patients, 24 received first-line (1 L) therapy and 18 received second-line or later (≥ 2 L) therapy. At a median follow-up of 17.7 months, the objective response rate (ORR) in the 1 L group was 25.0% (95% CI: 9.8-46.7%) and the disease control rate (DCR) was 83.3% (95% CI: 62.6-95.3%); in the ≥2 L group, the ORR was 22.2% (95% CI: 6.4-47.6%) and the DCR was 83.3% (95% CI: 58.6-96.4%). Median progression‑free survival was 6.2 months (95% CI: 4.4-9.3) in the 1 L group and 5.7 months (95% CI: 3.2-NR) in the ≥2 L group. Median OS was 10.3 months (95% CI: 8.0-12.9) in the 1 L group and 9.1 months (95% CI: 5.4-NR) in the ≥2 L group. Adverse events (AEs) occurred in 78.6%, predominantly hematologic; grade 3 or higher immune-related AEs occurred in 4.8%.\nCONCLUSIONS: Serplulimab-based combinations showed preliminary antitumor activity with a manageable safety profile in advanced PC across both first-line and later-line settings. These real-world data generate hypotheses for larger, biomarker-integrated prospective studies to optimize combinations and improve the durability of benefit.",
+ "authors": [
+  "Gui L",
+  "Sun C",
+  "Chen L",
+  "Yin T",
+  "Yan F",
+  "Huang Y",
+  "Sun Z",
+  "Sun Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058566",
+ "importance": 0.59,
+ "key_points_ko": [
+  "1차 치료군(24명)의 객관적 반응률(ORR)은 25.0%, 무진행 생존기간(PFS) 중앙값은 6.2개월, 전체 생존기간(OS) 중앙값은 10.3개월이었습니다.",
+  "2차 이상 치료군(18명)의 ORR은 22.2%, PFS 중앙값은 5.7개월, OS 중앙값은 9.1개월이었습니다.",
+  "부작용은 환자의 78.6%에서 관찰되었으며, 3등급 이상의 면역 관련 부작용은 4.8%였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1186/s12885-026-16783-9",
+  "nct": [],
+  "pmcid": "PMC13783791",
+  "pmid": "43058566"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Multicenter Study",
+  "Observational Study"
+ ],
+ "published_at": "2026-08-26",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058566/"
+ },
+ "summary_ko": "본 연구는 절제 불가능한 국소 진행성 또는 전이성 췌장암 환자 42명을 대상으로 serplulimab(서플루리맙) 기반 치료의 효과와 안전성을 분석한 실제 임상 결과 연구입니다. 1차 치료를 받은 24명에서 객관적 반응률(ORR)은 25.0%, 질병 통제율(DCR)은 83.3%, 무진행 생존기간(PFS) 중앙값은 6.2개월이었습니다. 2차 이상 치료를 받은 18명에서는 ORR 22.2%, DCR 83.3%, PFS 중앙값 5.7개월을 보였습니다. 부작용은 전체 환자의 78.6%에서 발생했으며 주로 혈액학적 이상반응이었고, 3등급 이상의 면역 관련 부작용은 4.8%였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Real-world outcomes of serplulimab-based therapy in unresectable locally advanced or metastatic pancreatic cancer",
+ "title_ko": "절제 불가능한 국소 진행성 또는 전이성 췌장암 환자에서 serplulimab(서플루리맙) 기반 치료의 실제 임상 연구 결과",
+ "trial": null,
+ "type": "paper"
+}

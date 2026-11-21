@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer development requires oncogenic KRAS plus additional genetic hits, yet these cooperating events remain poorly defined. Starting from a germline SKIL A512T mutation discovered in an infant with IPMN, we explored the synergistic role of SKIL and KRAS in tumorigenesis.\nMETHODS: HEK293T cells with engineered SKIL A512T and/or KRAS G12V mutations were analyzed for proliferation, tumorigenicity, and signaling. Transcriptomics, ubiquitination assays, and protein interaction studies (Co-IP, immunofluorescence) delineated the mechanism.\nRESULTS: SKIL normally protects Smad4 by binding its MH2 domain; SKIL loss exposes this domain to ubiquitination, but degradation occurs only when KRAS mutation upregulates the E3 ligase SMURF2. Clinically, a significant positive correlation was observed between SKIL and Smad4 protein expression in KRAS-mutant IPMN tissues.\nCONCLUSION: We identify a novel synergy between SKIL loss and KRAS activation that drives pancreatic tumorigenesis through targeted Smad4 degradation. This study aids in identifying high-risk populations for pancreatic cancer, specifically those harboring KRAS mutations.",
+ "authors": [
+  "Wang C",
+  "Ma Y",
+  "Cheng H",
+  "Yuan J",
+  "Zhang Y",
+  "Liu M",
+  "Wang X",
+  "Jiao Y"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058829",
+ "importance": 0.5,
+ "key_points_ko": [
+  "SKIL 단백질은 Smad4의 MH2 도메인에 결합하여 분해되지 않도록 보호하는 역할을 합니다.",
+  "KRAS 변이가 SMURF2 단백질을 증가시킬 때에만 SKIL 손실로 노출된 Smad4의 분해가 일어납니다.",
+  "KRAS 변이가 있는 췌장관내유두상점액종양(IPMN) 조직에서 SKIL과 Smad4 발현 간에 유의미한 정적 상관관계가 확인되었습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1186/s13046-026-03814-3",
+  "nct": [],
+  "pmcid": "PMC13783775",
+  "pmid": "43058829"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-25",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Exp Clin Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058829/"
+ },
+ "summary_ko": "본 연구는 췌장암 발생 과정에서 KRAS 변이와 SKIL 변이가 서로 어떻게 협동하는지 분석한 연구입니다. 연구진은 SKIL 손실이 Smad4를 노출시키고 KRAS 변이가 SMURF2 유비퀴틴 리가아제를 증가시켜 Smad4 단백질 분해를 유도함을 확인했습니다. 이 결과는 KRAS 변이를 가진 췌장암 고위험군을 선별하는 데 기여할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "KRAS and SKIL mutations synergistically promote pancreatic tumorigenesis through the ubiquitin-proteasome-mediated degradation of Smad4",
+ "title_ko": "KRAS 및 SKIL 변이의 유비퀴틴-프로테아좀 매개 Smad4 분해를 통한 췌장암 발생의 상호작용",
+ "trial": null,
+ "type": "paper"
+}

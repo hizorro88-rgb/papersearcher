@@ -11,10 +11,12 @@
   "Pennel K"
  ],
  "categories": [
+  "basic",
+  "drug",
   "treatment"
  ],
  "entities": [],
- "evidence": "phase1",
+ "evidence": "preclinical",
  "first_seen": "2026-11-20",
  "history": [
   {
@@ -24,8 +26,12 @@
   }
  ],
  "id": "doi:10.64898/2026.11.16.762837",
- "importance": 0.72,
- "key_points_ko": [],
+ "importance": 0.56,
+ "key_points_ko": [
+  "B7-H3(CD276)는 췌장암 미세환경의 공간 구조를 조절하는 중요한 인자로 작용합니다.",
+  "B7-H3 발현은 면역 억제와 공격적인 질환 진행, 불량한 예후를 유발하는 섬유-염증성 면역 상태와 관련이 있습니다.",
+  "이러한 섬유-염증성 면역 특성은 수술 전 선행보조항암치료를 받은 환자 조직에서도 지속되는 것으로 확인되었습니다."
+ ],
  "last_updated": "2026-11-20",
  "links": {
   "doi": "10.64898/2026.11.16.762837",
@@ -47,11 +53,11 @@
   "name": "Europe PMC (preprint)",
   "url": "https://europepmc.org/article/PPR/PPR1371240"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal cancers in the western world and is largely resistant to treatment. A major barrier to effective treatment is the highly desmoplastic and immunosuppressive tumour microenvironment, where the organisation of tumour, stromal and resident immune cells limit immune infiltration.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 치료 경험이 없는 수술된 췌관선암(PDAC) 환자 조직에서 B7-H3(CD276) 면역관문 표지자의 공간적 발현 특성을 분석했습니다. 연구 결과 B7-H3는 단순한 종양 표적을 넘어 췌장암 미세환경을 공간적으로 조직화하는 것으로 나타났습니다. 또한 B7-H3 발현은 면역 억제 및 높은 악성도, 불량한 예후와 관련된 섬유-염증성 면역 상태 형성에 관여합니다. 이러한 특징은 수술 전 선행보조항암치료(neoadjuvant)를 받은 환경에서도 유지되었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "B7-H3 Orchestrates Fibro-Immune Spatial Organisation in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "췌장암에서 B7-H3의 섬유-면역 공간 구조 조절 역할",
  "trial": null,
  "type": "preprint"
 }

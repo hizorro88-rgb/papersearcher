@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic acinar cell carcinoma (ACC) is a rare malignant epithelial tumor whose imaging appearance can overlap with pancreatic ductal adenocarcinoma (PDAC) and other solid pancreatic neoplasms. We report a man in his 50's with a pancreatic head mass causing biliary and pancreatic ductal obstruction. A noncontrast computed tomography (CT) performed approximately 10 months earlier, retrospectively reviewed, showed a small pancreatic head lesion without secondary signs of malignancy, which subsequently enlarged to approximately 8 cm. Contrast-enhanced CT demonstrated a large expansile heterogeneous mass with prominent enhancement and extensive central necrosis, initially raising concern for PDAC but prompting consideration of ACC, which was confirmed by endoscopic biopsy with immunohistochemistry. Surgical resection was initially considered, but the patient repeatedly declined surgery, and systemic chemotherapy was given after biliary decompression. Follow-up CT showed near-complete morphological resolution of the mass, whereas FDG-PET/CT showed persistent focal uptake (SUVmax 6.2) and MRI showed a residual diffusion-restricting lesion. The patient was subsequently persuaded to proceed to surgery and underwent a Whipple procedure; histopathology confirmed residual acinar cell carcinoma with clear margins and no nodal metastases, indicating that the CT response had underestimated persistent disease. This case highlights the value of reviewing prior imaging for interval growth, recognizing atypical imaging features of a pancreatic head mass, and integrating CT, PET/CT, magnetic resonance imaging and, when feasible, pathological confirmation when assessing treatment response.",
+ "authors": [
+  "Zelter P",
+  "Rozov P",
+  "Eidel J"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43060808",
+ "importance": 0.59,
+ "key_points_ko": [
+  "10개월 전 검사에서 작았던 췌장 머리 부분 병변이 약 8cm 크기의 췌장 세포형암(ACC)으로 빠르게 증대되었습니다.",
+  "항암 치료 후 CT 검사에서는 종양이 거의 사라진 것으로 관찰되었으나 PET/CT(SUVmax 6.2)와 MRI에서는 잔여 병변이 확인되었습니다.",
+  "수술 후 병리 검사에서 잔여 암세포가 최종 확진되어 치료 반응 평가 시 CT, PET/CT, MRI 등 다중 영상 검사의 통합적 활용이 필수적임을 입증했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1016/j.radcr.2026.10.041",
+  "nct": [],
+  "pmcid": "PMC13782917",
+  "pmid": "43060808"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Radiol Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060808/"
+ },
+ "summary_ko": "본 연구는 희귀 췌장 악성 종양인 췌장 세포형암(ACC)을 진단받은 50대 남성 환자의 치료 사례를 보고합니다. 환자는 10개월 전 소형 병변에서 약 8cm 크기로 빠르게 자란 췌두부 종양으로 조직검사를 통해 췌장 세포형암으로 확진되었습니다. 항암화학요법 후 컴퓨터단층촬영(CT)에서는 종양이 거의 완전 소실된 것으로 보였으나, PET/CT 및 자기공명영상(MRI)에서는 잔여 병변이 포착되었습니다. 이후 췌두부십이지장절제술(Whipple 절제술)을 시행한 결과 병리 검사에서 실제 잔여 암세포가 확인되어 CT만으로 치료 반응을 평가할 때의 한계를 보여주었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Rapidly enlarging pancreatic acinar cell carcinoma with discordant multimodality treatment response",
+ "title_ko": "다양한 영상 검사에서 치료 반응의 불일치를 보인 빠르게 자란 췌장 세포형암 증례",
+ "trial": null,
+ "type": "paper"
+}

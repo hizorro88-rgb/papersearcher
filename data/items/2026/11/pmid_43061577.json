@@ -1,0 +1,65 @@
+{
+ "abstract": "Nab-paclitaxel (nab-PTX) is approved in combination with atezolizumab, an α-PD-L1 immunotherapy, and carboplatin for metastatic non-squamous non-small-cell lung cancer, providing only a 4.7-month improvement in survival over chemotherapy alone. The clinical benefit of combining nab-PTX with PD-1/PD-L1 immunotherapy in other cancers, such as pancreatic ductal adenocarcinoma (PDAC), remains limited. We previously showed that PD-L1 immune checkpoint-targeted photoactivatable liposomes (iTPALs) can block the PD-1/PD-L1 axis more efficiently than α-PD-L1 antibodies. Upon activation with 690 nm light, iTPALs prime the desmoplastic tumor stroma to enhance their intratumoral delivery and improve overall survival in immunocompetent mouse models of PDAC. In this study, we used SynergyFinderPlus to quantitatively evaluate the combination of light-activated iTPALs with nab-PTX in cancer cell lines derived from genetically engineered mouse models of PDAC. Synergistic reductions in metabolic activity were observed when light-activated iTPALs were administered either before or after nab-PTX, without influencing cellular uptake of nab-PTX. Compared to nab-PTX alone, the combination increased G1/S cell cycle arrest and enhanced the exposure of immunogenic cell death-associated markers in all cell lines, including cells that did not exhibit immunogenic signaling with nab-PTX alone. These findings identify a synergistic interaction between spatially activated PD-L1-targeted liposomes and nab-PTX, and support future in vivo studies to determine whether light-activated iTPALs improve tumor responses to nab-PTX, enhance immune responses, and ultimately improve survival.",
+ "authors": [
+  "Bhandari C",
+  "Malkoochi A",
+  "Walid DM",
+  "Karambelkar K",
+  "Koya N",
+  "Upreti A",
+  "Al Mutar S",
+  "Brown TJ"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43061577",
+ "importance": 0.52,
+ "key_points_ko": [
+  "광활성화된 iTPALs와 nab-paclitaxel 병용 시 췌장암 세포주의 대사 활동이 시너지적으로 감소했습니다.",
+  "nab-paclitaxel 단독 투여에 비해 G1/S 세포 주기 정지(G1/S cell cycle arrest) 효과가 증가했습니다.",
+  "단독 투여 시 면역원성 신호가 없던 세포주를 포함한 모든 세포주에서 면역원성 세포 사멸 관련 마커 노출이 강화되었습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1039/d6pm00480f",
+  "nct": [],
+  "pmcid": "PMC13784319",
+  "pmid": "43061577"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "RSC Pharm",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43061577/"
+ },
+ "summary_ko": "본 연구는 췌장관선암종(PDAC) 세포주에서 PD-L1 표적 광활성화 리포솜(iTPALs)과 nab-paclitaxel(납-팍리탁셀) 병용 치료의 시너지 효과를 평가했습니다. 690 nm 광선으로 활성화된 iTPALs와 nab-paclitaxel을 병용했을 때 세포 대사 활동의 시너지적 감소가 확인되었습니다. 또한 단독 치료에 비해 G1/S 세포 주기 정지를 늘리고 면역원성 세포 사멸 마커의 노출을 증폭시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Synergistic enhancement of in vitro nab-paclitaxel responses by PD-L1 immune checkpoint targeted photoactivable liposomes with altered cell-cycle progression and amplified immunogenic signaling",
+ "title_ko": "PD-L1 표적 광활성화 리포솜을 통한 nab-paclitaxel의 세포 실험 반응 시너지 향상 및 세포 주기 변화와 면역원성 신호 증폭",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,59 @@
+{
+ "abstract": "Recombination signal binding protein for immunoglobulin κ J region (RBPJ) and RBPJ‑like protein (RBPJL) are members of the transcription factor family Suppressor of Hairless [Su(H)] and central components of Notch signaling. Aberrant Notch signaling is consistently involved in pancreatic inflammation and carcinogenesis. Importantly, RBPJ is the primary DNA‑binding transcription factor in the canonical Notch signaling pathway. RBPJL is a pancreas‑specific homolog that acts as a Notch signaling inhibitor and can promote terminal acinar cell differentiation. Functional differences set them apart from conventional Notch pathway components and underlie their involvement in diverse physiological and pathological processes. In a Notch‑independent manner, RBPJ and RBPJL can both form a complex with pancreas transcription factor 1A (PTF1A). During pancreatic development, the progressive replacement of RBPJ by RBPJL in the PTF1A complex marks the transition from progenitor maintenance to mature acinar identity. In disease, RBPJL is frequently downregulated or silenced in pancreatitis and pancreatic ductal adenocarcinoma, while RBPJ persists or becomes dysregulated, contributing to inflammation, fibrosis and neoplastic progression. This review summarizes the structural and functional divergence of this antagonistic pair, their context‑dependent roles in pancreatic development, inflammation and carcinogenesis and emerging therapeutic strategies targeting the RBPJ/RBPJL axis.",
+ "authors": [
+  "Pan L",
+  "Zhao H",
+  "Li Y",
+  "Cui T"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43059390",
+ "importance": 0.72,
+ "key_points_ko": [
+  "RBPJ는 전형적인 노치(Notch) 신호전달을 매개하여 췌장 염증, 섬유화 및 암 진행을 촉진합니다.",
+  "RBPJL은 노치 신호전달을 억제하고 선방세포 분화를 유도하지만, 췌장염 및 췌관선암에서는 발현이 억제되거나 소실됩니다.",
+  "췌장 발달 및 질환에서 RBPJ와 RBPJL의 길항적 역할은 향후 새로운 췌장암 치료 표적으로의 가능성을 제시합니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.3892/mmr.2026.14073",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43059390"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Med Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059390/"
+ },
+ "summary_ko": "이 논문은 노치(Notch) 신호전달 경로의 핵심 전사인자인 RBPJ와 췌장 특이적 단백질인 RBPJL의 기능적 차이와 상반된 역할을 다룬 종설입니다. 정상적인 췌장 발달 과정에서 RBPJL은 세포 분화를 촉진하지만, 췌장염과 췌장암에서는 발현이 감소하거나 억제됩니다. 반면 RBPJ는 비정상적으로 유지되거나 활성화되어 염증, 섬유화 및 종양 진행에 기여합니다. 연구진은 이러한 기전을 종합하며 RBPJ/RBPJL 축을 표적으로 하는 치료적 접근 전략을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Distinct roles of RBPJ and RBPJL in pancreatic development, inflammation and carcinogenesis (Review)",
+ "title_ko": "췌장 발달, 염증 및 발암에서 RBPJ와 RBPJL의 상반된 역할 (종설)",
+ "trial": null,
+ "type": "paper"
+}

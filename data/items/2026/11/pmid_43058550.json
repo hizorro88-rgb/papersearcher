@@ -1,0 +1,64 @@
+{
+ "abstract": "PURPOSE: Pancreatic adenocarcinoma (PAAD) is a highly aggressive malignancy, associated with a poor prognosis and a five-year survival rate of less than 9%. Although DNASE1L3 is known as an apoptosis-related gene, its specific role in cancer remains unclear. This study aimed to investigate the function of DNASE1L3 in PAAD.\nMETHODS: We performed an analysis of DNASE1L3 expression using the University of California Santa Cruz (UCSC) Xena platform and The Cancer Genome Atlas (TCGA) databases to evaluate its prognostic significance in PAAD. Co-expression analysis, Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses, as well as Gene Set Enrichment Analysis (GSEA), were conducted to investigate the functional pathways. Immune cell infiltration was assessed using correlation analysis. Experimental validation was carried out using lentivirus-mediated overexpression, CCK-8 assay, subcutaneous tumor xenograft models, flow cytometry for apoptosis analysis, and immunofluorescence staining.\nRESULTS: DNASE1L3 expression was elevated in PAAD tissues compared with normal pancreatic tissues. Its expression showed no significant correlation with tumor stage but was positively associated with overall survival (OS) (P = 0.006). Enrichment analyzes suggested its role in immune-related pathways. GSEA highlighted upregulation in tumor immunity and migration pathways. DNASE1L3 expression was positively associated with CD8 T cells (r = 0.4, P = 0.00029), negatively correlated with macrophages (r = -0.42, P = 0.00013) and NK cells (r = -0.28, P = 0.012) in bulk deconvolution analysis, and correlated with 16 immune checkpoints. Overexpression significantly inhibited cell proliferation, promoted apoptosis, and reduced tumor growth in vivo. Additionally, it enhanced anti-tumor immunity and increased oxaliplatin (Oxa) sensitivity.\nCONCLUSION: The elevated expression of DNASE1L3 in PAAD is associated with a better prognosis. It correlates with immune cell infiltration, modulates the tumor immune microenvironment, and may enhance chemotherapy sensitivity. Although DNASE1L3 has been reported to be associated with poor outcomes in other malignancies, its immune-modulatory role may explain the positive prognostic association in PAAD.",
+ "authors": [
+  "Gao Y",
+  "Yang L",
+  "He S",
+  "Zhuo Y",
+  "Tian W",
+  "Li J",
+  "Pang Y",
+  "Wang X"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43058550",
+ "importance": 0.47,
+ "key_points_ko": [
+  "DNASE1L3 높은 발현은 췌장선암 환자의 더 긴 전체 생존기간(OS)과 통계적으로 유의하게 연관되었습니다(P = 0.006).",
+  "DNASE1L3 발현은 CD8 T 세포 침윤과 양의 상관관계를 나타냈습니다(r = 0.4, P = 0.00029).",
+  "실험실 검증에서 DNASE1L3 과발현은 세포 증식을 억제하고 oxaliplatin(옥살리플라틴)에 대한 항암 민감성을 높였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.1186/s12885-026-16228-3",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43058550"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-24",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43058550/"
+ },
+ "summary_ko": "본 연구는 췌장선암(PAAD)에서 유전자 DNASE1L3의 예후적 가치와 역할을 평가했습니다. 공개 데이터베이스 분석 및 전임상 실험을 통해 DNASE1L3 발현 수준이 췌장암 조직에서 증가해 있으며, 높은 발현이 전체 생존기간(OS) 향상과 관련됨을 확인했습니다. 또한 DNASE1L3 과발현은 종양 증식을 억제하고 세포사멸을 유도하며 oxaliplatin(옥살리플라틴) 감수성을 향상시켰습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "DNASE1L3 as a prognostic biomarker associated with immune cell infiltration in pancreatic cancer",
+ "title_ko": "췌장암에서 면역 세포 침윤과 관련된 예후 바이오마커로서의 DNASE1L3 연구",
+ "trial": null,
+ "type": "paper"
+}

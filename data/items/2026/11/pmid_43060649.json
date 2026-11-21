@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND: Surufatinib targets angiogenic and myeloid signaling pathways that may contribute to resistance to immune checkpoint blockade in pancreatic ductal adenocarcinoma (PDAC). We evaluated surufatinib and camrelizumab added to nab-paclitaxel-gemcitabine (AG) in routine first-line treatment.\nMETHODS: This exploratory single-center retrospective cohort included 132 patients with metastatic PDAC and documented proficient mismatch repair or microsatellite stability who started first-line treatment during 2022-2025. Forty-four received surufatinib-camrelizumab plus AG and 88 received AG. Real-world progression-free survival (rwPFS) was the primary outcome. Overall survival (OS), tumor response, safety, and treatment delivery were also assessed. Survival associations were adjusted for clinically selected baseline factors.\nRESULTS: Median rwPFS was 6.3 months with the combination and 4.1 months with AG (log-rank P = 0.021); the adjusted hazard ratio was 0.73 (95% confidence interval [CI], 0.47-1.12; P = 0.152). Median OS was 9.7 versus 8.4 months (adjusted hazard ratio, 0.89; 95% CI, 0.57-1.38). Unconfirmed objective response rates were 45.5% and 19.3%, respectively (P = 0.004). Confirmed response rates were 38.6% and 15.9% (P = 0.005). CA19-9 declined more in the combination group among patients with eligible paired measurements (P = 0.032). Grade ≥3 adverse events occurred in 47.7% versus 34.1%, and toxicity-related permanent discontinuation occurred in 18.2% versus 11.4%. Median relative dose intensity was 87.0% versus 87.9% for both chemotherapy agents, 79.1% for prescribed surufatinib, and 100.0% for camrelizumab. Median follow-up by reverse Kaplan-Meier estimation was not estimable in either group.\nCONCLUSION: Surufatinib-camrelizumab plus AG was associated with higher unconfirmed and confirmed response rates, without significant adjusted rwPFS or OS differences. The findings support prospective evaluation with attention to dose optimization and toxicity management.",
+ "authors": [
+  "Yuan Y",
+  "Zhang D",
+  "Li Y",
+  "Huang C"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43060649",
+ "importance": 0.68,
+ "key_points_ko": [
+  "실제 무진행 생존기간(rwPFS) 중앙값은 병용군 6.3개월, AG군 4.1개월이었으며, 보정 위험비(HR)는 0.73(95% CI 0.47-1.12, P=0.152)이었습니다.",
+  "전체 생존기간(OS) 중앙값은 병용군 9.7개월 대 AG군 8.4개월(보정 HR 0.89, 95% CI 0.57-1.38)로 유의한 차이가 없었습니다.",
+  "확정 객관적 반응률은 병용군 38.6%, AG군 15.9%로 병용군에서 통계적으로 유의미하게 높았습니다(P=0.005).",
+  "3등급 이상의 이상반응은 병용군 47.7%, AG군 34.1%에서 발생했고, 독성으로 인한 치료 영구 중단율은 각각 18.2%와 11.4%였습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.3389/fphar.2026.2007309",
+  "nct": [],
+  "pmcid": "PMC13782252",
+  "pmid": "43060649"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060649/"
+ },
+ "summary_ko": "전이성 췌관선암(PDAC) 환자 132명을 대상으로 1차 치료에서 nab-paclitaxel(냅-파클리탁셀)+gemcitabine(젬시타빈)[AG] 표준 요법에 surufatinib(수루파티닙)과 camrelizumab(캄렐리주맙)을 추가한 효과를 평가한 후향적 연구입니다. 수루파티닙+캄렐리주맙+AG 병용군은 44명, AG 투여군은 88명이었습니다. 실제 무진행 생존기간(rwPFS) 중앙값은 병용군 6.3개월, AG군 4.1개월이었으나 보정 후 통계적 유의성은 없었습니다. 확정 객관적 반응률(ORR)은 병용군에서 38.6%로 AG군의 15.9%에 비해 유의하게 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Surufatinib and camrelizumab plus nab-paclitaxel-gemcitabine as first-line treatment for metastatic pancreatic ductal adenocarcinoma: a retrospective cohort study",
+ "title_ko": "전이성 췌관선암의 1차 치료로서 수루파티닙 및 캄렐리주맙과 냅-파클리탁셀+젬시타빈 병용요법: 후향적 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

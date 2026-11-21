@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: Longitudinal biomarkers of treatment response in pancreatic ductal adenocarcinoma (PDAC) are needed. Extracellular vesicle (EV)-enriched serum proteomics may provide a minimally invasive approach for monitoring systemic and tumor-associated responses to therapy.\nMETHODS: Paired pre-treatment and post-treatment serum samples were analyzed from 51 patients with pancreatic cancer, including 25 treated with FOLFIRINOX and 20 treated with gemcitabine-based therapy. EVs were enriched using the Mag-Net method and profiled by data independent acquisition mass spectrometry. After batch correction and filtering, 941 proteins were retained for differential and pathway analyses. Paired linear models and gene set enrichment analyses were used to assess treatment-associated changes. Baseline protein abundance and longitudinal changes were evaluated in relation to overall survival (OS) using Cox models.\nRESULTS: A total of 2,089 EV-associated proteins were identified, with an average of 1,186 proteins quantified per sample. Across the cohort, 26 proteins differed between post- and pretreatment samples. Proteins that increased after treatment were primarily related to extracellular matrix organization and cell adhesion, whereas proteins that decreased after treatment were associated with actin cytoskeletal organization, coagulation, and hemostasis. Treatment-associated changes were more pronounced in the FOLFIRINOX group, in which 32 proteins were differentially expressed. FOLFIRINOX was characterized by coordinated reductions in platelet- and coagulation-associated proteins, including PF4, PF4V1, PPBP, GP5, ITGA2B, and ITGB3, accompanied by enrichment of platelet activation, coagulation, and hemostasis pathways among down-regulated processes. No individual proteins met the same significance threshold in the gemcitabine group. A composite seven-protein platelet score decreased significantly after FOLFIRINOX but not for gemcitabine, and the between-regimen difference in score change was significant. Higher pretreatment ITGB1 abundance was associated with longer OS after multiple-testing correction (HR, 0.112; BH-FDR = 0.0063). In multivariable analysis, greater treatment-associated platelet-score depletion was independently associated with shorter OS (HR per unit increase in Δscore, 0.56; P = 0.030).\nCONCLUSIONS: Longitudinal serum EV-enriched proteomics identified treatment-associated biological changes in PDAC, including a coordinated platelet-related response predominantly observed after FOLFIRINOX. Baseline ITGB1 abundance and longitudinal platelet-score changes represent potentially complementary prognostic and pharmacodynamic markers. These findings are exploratory and require validation in larger, independent cohorts incorporating platelet counts, coagulation measurements, and targeted proteomic assays.",
+ "authors": [
+  "Min S",
+  "Abhange K",
+  "Lin TT",
+  "Dai J",
+  "Attah IK",
+  "Bogard A",
+  "Sahai V",
+  "Cuneo KC"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43060245",
+ "importance": 0.7,
+ "key_points_ko": [
+  "FOLFIRINOX 투약 후 혈소판 및 응고 경로 단백질(PF4, GP5, ITGB3 등)이 유의하게 감소했으나, 젬시타빈 투약군에서는 해당 변화가 나타나지 않았습니다.",
+  "치료 전 ITGB1 단백질의 높은 발현은 더 긴 전체 생존기간(OS)과 연관되었습니다(위험비 0.112).",
+  "치료에 따른 혈소판 점수의 큰 폭 감소는 다변량 분석에서 더 짧은 전체 생존기간과 독립적으로 연관되었습니다(p = 0.030)."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.64898/2026.11.06.764966",
+  "nct": [],
+  "pmcid": "PMC13779418",
+  "pmid": "43060245"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Preprint"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060245/"
+ },
+ "summary_ko": "췌관선암 환자 51명을 대상으로 치료 전후 혈청 내 세포외 소포체(EV) 단백질을 추적 분석한 탐색적 연구입니다. 환자들은 FOLFIRINOX(폴피리녹스, 25명) 또는 젬시타빈(gemcitabine) 기반 치료(20명)를 받았습니다. 분석 결과, 특히 FOLFIRINOX 치료군에서 혈소판 및 혈액응고 관련 단백질들이 치료 후 유의하게 감소하는 패턴이 확인되었습니다. 또한 치료 전 높은 ITGB1 수치와 치료 후 혈소판 지표의 큰 폭 감소는 환자의 전체 생존기간(OS)과 유의미한 연관성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Serum extracellular vesicle proteomics reveals treatment-associated biomarkers in pancreatic ductal adenocarcinoma",
+ "title_ko": "혈청 세포외 소포체 단백체 분석을 통해 확인한 췌관선암의 치료 관련 바이오마커",
+ "trial": null,
+ "type": "paper"
+}

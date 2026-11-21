@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits extensive molecular heterogeneity and undergoes substantial transcriptional remodeling across disease and treatment contexts. However, publicly available PDAC transcriptomic resources remain fragmented across experimental modalities, limiting the integrated investigation of molecular programs across biological scales and cellular compartments. Here, we developed PDAC BioPortal, an integrated web-based analytical resource for multimodal interrogation of PDAC transcriptomics. The platform incorporates bulk RNA sequencing, treatment-associated transcriptomics, single-nucleus RNA sequencing, and spatial transcriptomics. It integrates 349 TCGA-GTEx samples, including a primary tumor-versus-normal comparison of 178 PDAC tumors and 167 normal pancreas specimens; a clinically annotated treatment-associated cohort of 55 specimens (GSE225767); a single-nucleus atlas comprising 224,988 nuclei from 43 patients (GSE202051); and spatial transcriptomic profiles encompassing 23,436 tissue spots from five patients (GSE274103). The platform provides interactive differential expression analysis, over-representation analysis, gene set enrichment analysis, patient-aware pseudobulk comparisons, cell-type-resolved interrogation, and spatial gene-expression visualization. It additionally incorporates PDACopilot, an evidence-grounded natural-language interface connecting user queries with structured datasets and precomputed analytical results. Application of the platform revealed distinct transcriptional architectures across disease and treatment contexts. Primary PDAC exhibited prominent proliferation-associated, inflammatory, and epithelial-mesenchymal transition-related programs, whereas specimens obtained following neoadjuvant chemotherapy and stereotactic body radiotherapy (SBRT) showed prominent mesenchymal, collagen, and extracellular matrix-associated signatures. Comparison of independent bulk and single-nucleus treatment-associated datasets demonstrated significant pathway rank-order concordance, despite limited linear correlation. Focused interrogation of the NRF2-associated redox network revealed broad transcriptional elevation in primary PDAC, involving antioxidant-response, glutathione metabolism, and NADPH-generating genes. Treatment-associated bulk transcriptomes exhibited selective remodeling of individual network components rather than uniform expression changes. At single-nucleus resolution, NFE2L2 expression exhibited cell-type-dependent patterns, with significant patient-level increases in selected vascular, immune, and endocrine populations across the neoadjuvant-treated cohort and reduced expression in malignant epithelial cells in the standard chemoradiotherapy subgroup. Spatial profiling further revealed interpatient variation in NFE2L2 transcript distribution across treatment-naive PDAC tissues, with differences in the proportion of positive spots despite comparatively consistent expression intensity among positive spots. Higher expression of a selected six-gene NRF2-associated signature was also associated with shorter overall survival, providing an exploratory link between redox-associated transcriptional patterns and clinical outcome. Together, PDAC BioPortal provides an integrated analytical infrastructure for investigating PDAC transcriptional programs across complementary cohorts and biological resolutions. By combining interactive bioinformatics capabilities with evidence-grounded AI-assisted exploration, the platform facilitates cross-dataset molecular interpretation and hypothesis generation while distinguishing transcriptional associations from mechanistic evidence.",
+ "authors": [
+  "Kumar P",
+  "Vlashi E."
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.18.767683",
+ "importance": 0.56,
+ "key_points_ko": [
+  "TCGA 및 GTEx의 정상 및 암 조직 349개, 치료 관련 코호트 55개 검체, 43명의 환자로부터 얻은 224,988개의 단일핵 데이터, 5명의 환자로부터 얻은 23,436개 공간 전사체 스팟 데이터를 통합했습니다.",
+  "선행항암치료 및 정위체부방사선치료(SBRT)를 받은 검체에서는 중간엽, 콜라겐, 세포외기질 관련 유전자 발현 패턴이 두드러지게 나타났습니다.",
+  "선별된 6개 NRF2 관련 유전자 발현이 높은 경우 환자의 전체 생존기간(OS)이 유의하게 짧아지는 연관성을 확인했습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.64898/2026.11.18.767683",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1372089"
+ },
+ "summary_ko": "연구진은 췌장암의 복잡한 분자적 이질성을 다양한 차원에서 분석할 수 있는 웹 기반 통합 플랫폼인 'PDAC BioPortal'을 개발했습니다. 이 플랫폼은 대량 RNA 시퀀싱(bulk RNA-seq), 단일핵 RNA 시퀀싱(snRNA-seq), 공간 전사체(spatial transcriptomics) 데이터를 통합하여 제공합니다. 이를 통해 선행항암요법 및 방사선 치료 전후의 종양 미세환경 변화와 세포별 특성을 분석할 수 있습니다. 특히 NRF2 관련 산화환원 유전자 네트워크 분석 결과, 특정 6개 유전자 발현이 높은 환자군에서 전체 생존기간이 더 짧은 연관성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PDAC BioPortal: An Integrated Web Resource for Multi-Scale Analysis of Pancreatic Cancer Transcriptomics",
+ "title_ko": "PDAC BioPortal: 췌장암 전사체 다중 규모 분석을 위한 통합 웹 자원",
+ "trial": null,
+ "type": "preprint"
+}

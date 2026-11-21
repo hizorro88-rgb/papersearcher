@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest cancers, largely due to its poor response to chemotherapy and the development of drug resistance. Survivin (BIRC5), an inhibitor of apoptosis frequently overexpressed in PDAC, contributes to tumor cell survival and gemcitabine resistance, making it an attractive therapeutic target. Here, we developed a lipid nanoparticle (LNP)-based platform for the delivery of preassembled spCas13b ribonucleoproteins (RNPs) to achieve transient and sequence-specific RNA silencing in pancreatic cancer cells. We optimized ionizable lipid formulations for Cas13b RNP encapsulation and identified a formulation achieving approximately 80% encapsulation efficiency, with sustained colloidal stability and gene-silencing activity during seven days of storage at 4°C. LNP-delivered Cas13b RNPs efficiently silenced endogenous BIRC5 in three pancreatic cancer cell lines, reducing survivin protein levels and inducing apoptosis. In gemcitabine-resistant PANC-1 cells, BIRC5 silencing synergistically enhanced the cytotoxic effect of gemcitabine in vitro. This therapeutic combination was further evaluated in a PANC-1 xenograft model, where only the combined administration of BIRC5-targeting Cas13b RNP-LNPs and gemcitabine significantly inhibited tumor growth, without apparent systemic toxicity. Intratumoral administration also restricted nanoparticle distribution to the injected tumors. These findings establish LNP-mediated delivery of Cas13b RNPs as a new strategy for transient RNA-targeted therapy and provide proof of concept for combining survivin silencing by Cas13b with chemotherapy to address gemcitabine resistance in pancreatic cancer.",
+ "authors": [
+  "Castaño-Esteban D",
+  "López-Valls M",
+  "Santos M",
+  "Recuero E",
+  "Martín-Vallejo L",
+  "Pardo D",
+  "Luciani P",
+  "Somoza Á"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-21",
+ "history": [
+  {
+   "date": "2026-11-21",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.18.767627",
+ "importance": 0.56,
+ "key_points_ko": [
+  "최적화된 지질 나노입자(LNP) 제형은 약 80%의 Cas13b RNP 캡슐화 효율을 나타냈으며, 4°C 보관 상태에서 7일간 유전자 침묵 활성을 유지했습니다.",
+  "3개 췌장암 세포주에서 내인성 BIRC5 발현 억제 및 서비빈 단백질 감소를 통해 세포 사멸(apoptosis)을 유도했습니다.",
+  "젬시타빈 내성 마우스 모델에서 BIRC5 표적 Cas13b RNP-LNP와 젬시타빈의 병용 투여 시에만 뚜렷한 전신 독성 없이 유의미한 종양 성장 억제 효과가 나타났습니다."
+ ],
+ "last_updated": "2026-11-21",
+ "links": {
+  "doi": "10.64898/2026.11.18.767627",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1372073"
+ },
+ "summary_ko": "췌장관선암(PDAC)에서 과발현되어 세포 사멸을 막고 젬시타빈(gemcitabine) 내성을 유발하는 서비빈(survivin, BIRC5)을 표적하기 위해 지질 나노입자(LNP) 기반의 Cas13b 리보핵산단백질(RNP) 전달 플랫폼을 개발했습니다. 연구진은 약 80%의 캡슐화 효율을 달성하는 이온화 지질 제형을 개발하여 췌장암 세포주에서 BIRC5 발현을 억제하고 세포 사멸을 유도했습니다. 젬시타빈 내성 PANC-1 세포 및 동물 이종이식(xenograft) 모델에서 Cas13b RNP-LNP와 젬시타빈의 병용 투여는 전신 독성 없이 종양 성장을 유의하게 억제했습니다. 이번 연구는 Cas13b를 활용한 RNA 표적 치료와 항암화학요법의 병용이 췌장암 내성 극복의 새로운 전략이 될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Lipid nanoparticle-delivered Cas13b ribonucleoproteins targeting survivin overcome gemcitabine resistance in pancreatic cancer",
+ "title_ko": "서비빈을 표적하는 지질 나노입자 전달 Cas13b 리보핵산단백질을 통한 췌장암의 젬시타빈 내성 극복",
+ "trial": null,
+ "type": "preprint"
+}
