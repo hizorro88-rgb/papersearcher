@@ -1560,24 +1560,53 @@
    "new": 28,
    "total": 1370,
    "updated": 4
+  },
+  {
+   "date": "2026-11-22",
+   "llm": {
+    "attempted": 23,
+    "cache_read_tokens": 0,
+    "errors": [
+     "pmid:43064878: ReadTimeout: The read operation timed out",
+     "pmid:43064136: ReadTimeout: The read operation timed out",
+     "pmid:43063546: ReadTimeout: The read operation timed out",
+     "nct:NCT07631871: ReadTimeout: The read operation timed out",
+     "nct:NCT07948070: ReadTimeout: The read operation timed out"
+    ],
+    "failed": 5,
+    "input_tokens": 40760,
+    "model": "gemini-3.6-flash",
+    "models_used": {
+     "gemini-3.5-flash-lite": 1,
+     "gemini-3.6-flash": 10,
+     "gemini-3.7-flash": 1,
+     "gemini-3.8-flash": 6
+    },
+    "output_tokens": 14866,
+    "provider": "gemini",
+    "succeeded": 18
+   },
+   "new": 6,
+   "total": 1376,
+   "updated": 0
   }
  ],
  "sources": {
   "clinicaltrials": {
-   "at": "2026-11-21T01:53:12+00:00",
-   "count": 45,
+   "at": "2026-11-22T00:47:36+00:00",
+   "count": 19,
    "error": null,
    "ok": true
   },
   "europepmc": {
-   "at": "2026-11-21T01:53:13+00:00",
-   "count": 4,
-   "error": null,
-   "ok": true
+   "at": "2026-11-22T00:47:37+00:00",
+   "count": 0,
+   "error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE%3A%22pancreatic+cancer%22+OR+TITLE%3A%22pancreatic+adenocarcinoma%22+OR+TITLE%3APDAC+OR+TITLE%3A%22pancreatic+ductal%22%29+AND+%28SRC%3APPR%29%29+AND+%28FIRST_PDATE%3A%5B2026-11-19+TO+2026-11-22%5D%29&format=json&resultType=core&pageSize=100&sort=P_PDATE_D+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+   "ok": false
   },
   "pubmed": {
-   "at": "2026-11-21T01:53:12+00:00",
-   "count": 69,
+   "at": "2026-11-22T00:47:36+00:00",
+   "count": 51,
    "error": null,
    "ok": true
   }

@@ -28,7 +28,7 @@
   "참여 환자들은 2주마다 20 mg/kg 용량의 zanidatamab을 정맥으로 투여받습니다.",
   "목표 환자 수는 총 10명입니다."
  ],
- "last_updated": "2026-11-21",
+ "last_updated": "2026-11-22",
  "links": {
   "doi": null,
   "nct": [
@@ -51,8 +51,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07631871"
  },
- "summary_ko": "이 임상시험은 HER2 양성 진행성 고형암 성인 환자를 대상으로 zanidatamab의 치료 효과를 평가하기 위한 2상 임상시험입니다. 주요 목표는 객관적 반응률(objective response rate)을 확인하는 것입니다. 췌장암을 포함한 다양한 고형암 환자가 참여 대상에 포함됩니다. 환자들은 2주 주기의 1일 차에 zanidatamab 20 mg/kg을 정맥 투여받습니다.",
- "summary_source": "llm",
+ "summary_ko": "The goal of this clinical trial is to learn if Zanidatamab can treat HER2-positive advanced tumors in adults. The main question it aims to answer is: What is the objective response rate of Zanidatamab in adult patients with HER-2 positive advanced solid tumors?",
+ "summary_source": "excerpt",
  "tags": [
   "HER2 Positive Solid Tumor",
   "Zanidatamab",
@@ -93,31 +93,25 @@
   ],
   "locations_kr": [],
   "match": {
-   "biomarkers_excluded": [
-    "KRAS_mutant"
-   ],
+   "biomarkers_excluded": [],
    "biomarkers_required": [
     "HER2"
    ],
    "ecog_max": 2,
-   "key_exclusions_ko": [
-    "활동성 중추신경계(CNS) 전이",
-    "활동성 감염 (HIV, B형/C형 간염)",
-    "간질성 폐질환(ILD) 병력",
-    "최근 6개월 이내 심근경색 등 심혈관 질환 병력",
-    "HER2 유전자 변이 확인된 경우"
-   ],
+   "key_exclusions_ko": [],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 치료 경험이 있는 HER2 양성 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "",
    "prior_excluded": [],
-   "prior_required": [],
-   "setting": [
-    "metastatic",
-    "locally_advanced"
+   "prior_required": [
+    "platinum",
+    "fluoropyrimidine"
    ],
-   "source": "llm"
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
   },
   "max_age": null,
   "min_age": "18 Years",

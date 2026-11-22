@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Ubiquitination is a reversible post-translational modification dynamically regulated by ubiquitin ligases and deubiquitinating enzymes (DUBs). By removing or editing ubiquitin chains on substrate proteins, deubiquitinating enzymes regulate protein stability, subcellular localization, signaling-complex assembly, and cellular stress responses. Pancreatic ductal adenocarcinoma (PDAC) is characterized by marked invasiveness, extensive metabolic reprogramming, pronounced therapeutic resistance, and an immunosuppressive microenvironment, highlighting the need for molecularly informed biomarkers and mechanism-guided therapeutic strategies. However, the translational interpretation of DUBs in PDAC remains challenging because DUBs often display broad substrate spectra, context-dependent functions, conserved catalytic domains, and uneven levels of experimental and clinical evidence.\nMAIN BODY: Increasing evidence indicates that multiple DUBs regulate PDAC progression and therapeutic resistance through KRAS-RAS/MAPK, Wnt/β-catenin, Hippo-YAP/TAZ, PI3K/AKT/mTOR, Notch, NF-κB, autophagy, metabolism, immune evasion, and metastasis-related programs. In this review, we organize the available evidence according to DUB-substrate axes, ubiquitin linkage types, pathway dependency, model-system support, biomarker feasibility, and therapeutic readiness. We distinguish evidence derived from cell-based assays, animal models, organoids, patient-derived xenografts, patient tissues, public datasets, and clinical cohorts, and classify DUB-centered biomarkers according to their diagnostic, prognostic, predictive, or pharmacodynamic potential. We further summarize DUB-targeting strategies and mechanism-guided combinations with chemotherapy, metabolic intervention, DNA-damage response targeting, and immune checkpoint blockade, while emphasizing inhibitor selectivity, pharmacokinetic and toxicity limitations, resistance mechanisms, and clinical readiness.\nCONCLUSION: DUB-centered translation in PDAC should be developed as an axis-based and evidence-ranked framework rather than as a single-target catalogue. The most promising near-term opportunities are likely to arise from DUB-substrate axes with defined mechanisms, measurable biomarker readouts, patient-derived or clinically annotated validation, pharmacodynamic indicators, and rational combination partners. Most DUB-targeted strategies in PDAC remain preclinical and require further validation before clinical implementation.\nCLINICAL TRIAL NUMBER: Not applicable.",
+ "authors": [
+  "Pang Y",
+  "Zhang C",
+  "Shu Q",
+  "Tang Y",
+  "Zhang J",
+  "Yu W",
+  "Deng Z",
+  "Li S"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43065030",
+ "importance": 0.62,
+ "key_points_ko": [
+  "탈유비퀴틴화 효소는 KRAS, Wnt/β-catenin, PI3K/AKT/mTOR 등의 경로를 통해 췌관선암의 진행과 약물 저항성에 기여합니다.",
+  "화학요법, 대사 억제제, DNA 손상 반응 표적 치료, 면역관문억제제와의 병용 가능성이 기전 연구를 바탕으로 논의되었습니다.",
+  "현재 췌장암 대상 탈유비퀴틴화 효소 표적 치료 전략은 대부분 전임상(preclinical) 단계로 임상 적용 전 추가 검증이 필요합니다."
+ ],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1186/s12967-026-08838-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43065030"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-08-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065030/"
+ },
+ "summary_ko": "본 논문은 췌관선암(PDAC)에서 단백질 안정성과 신호 전달을 조절하는 탈유비퀴틴화 효소(DUBs)의 역할과 치료적 잠재력을 정리한 종설(Review) 연구입니다. 탈유비퀴틴화 효소는 KRAS, PI3K/AKT, 면역 회피 등 주요 암 신호 경로를 조절하여 암의 진행과 치료 저항성에 관여하는 것으로 나타났습니다. 저자들은 기존 연구들을 종합하여 진단 및 예후 예측 바이오마커로서의 가능성과 항암화학요법 및 면역관문억제제 등과의 병용 치료 전략을 분석했습니다. 현재 췌장암에서 대부분의 탈유비퀴틴화 효소 표적 전략은 전임상 연구 단계에 머물러 있어 임상 적용을 위한 추가 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deubiquitinating enzymes in pancreatic ductal adenocarcinoma: signaling networks, biomarkers, and mechanism-guided combination strategies",
+ "title_ko": "췌관선암에서의 탈유비퀴틴화 효소: 신호 전달 네트워크, 바이오마커 및 기전 기반 병용 전략",
+ "trial": null,
+ "type": "paper"
+}

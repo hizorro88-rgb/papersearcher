@@ -1,0 +1,53 @@
+{
+ "abstract": "BACKGROUND: This study evaluated post-acute care settings, clinical outcomes, and Medicare costs after hepatopancreatic cancer surgery in older adults with pancreatic ductal adenocarcinoma (PDAC) or intrahepatic cholangiocarcinoma (iCCA).\nMETHODS: Using SEER-Medicare (2005-2019), patients ≥65 years who had stage I-III resection were categorized by discharge disposition: home, home health agency (HHA), skilled nursing facility (SNF), or interhospital transfer. Multivariable regression assessed associations with outcomes, expenditures, and factors linked to non-home discharge.\nRESULTS: Among 4646 patients (median age 74), 46.7% went home, 32.6% to HHA, 17.2% to SNF, and 3.4% transferred. Minority patients and those undergoing urgent surgery were more often discharged to HHA or SNF. Compared with HHA, SNF discharge was associated with lower odds of receiving adjuvant chemotherapy (aOR 0.54) and oncology follow-up (aOR 0.65), higher 90-day mortality (aOR 2.06) and readmission (aOR 1.32). Interhospital transfer also increased 90-day mortality (aOR 2.38). Home discharge reduced 90-day readmission odds (aOR 0.78)0.4646 patients, 46.7% were discharged home, 32.6% to HHA, 17.2% to SNF, and 3.4% to transfer. Median age was 74 years (IQR 70-80).\nCONCLUSION: SNF discharge after high-risk HP cancer surgery is linked to worse outcomes and higher costs; HHA and home discharge show better recovery and value.",
+ "authors": [
+  "Worku E",
+  "Chatzipanagiotou O",
+  "Woldesenbet S",
+  "Pawlik TM"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43063546",
+ "importance": 0.61,
+ "key_points_ko": [],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1016/j.amjsurg.2026.117357",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43063546"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am J Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063546/"
+ },
+ "summary_ko": "BACKGROUND: This study evaluated post-acute care settings, clinical outcomes, and Medicare costs after hepatopancreatic cancer surgery in older adults with pancreatic ductal adenocarcinoma (PDAC) or intrahepatic cholangiocarcinoma (iCCA). METHODS: Using SEER-Medicare (2005-2019), patients ≥65 years who had stage I-III resection were categorized by discharge disposition: home, home health agency (HHA), skilled nursing facility (SNF), or interhospital transfer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Comparing health outcomes and costs of care by discharge disposition after hepatopancreatic cancer surgery: Insights from SEER-medicare",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

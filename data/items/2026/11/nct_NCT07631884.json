@@ -19,11 +19,11 @@
  "id": "nct:NCT07631884",
  "importance": 0.8,
  "key_points_ko": [
-  "최소 1회 이상의 전신 치료를 받은 HER2 발현(IHC 1+, 2+, 3+) 국소 진행성 또는 전이성 췌장암 및 고형암 환자 15명을 대상으로 합니다.",
-  "Trastuzumab Rezetecan을 3주마다 1회(체중당 4.8 mg/kg, 85kg 이상은 408 mg 고정) 정맥 투여합니다.",
-  "주요 평가 지표는 약물 투여 후 종양 축소 효과를 보는 객관적 반응률(ORR)입니다."
+  "HER2 발현(IHC 1+, 2+, 3+)이 확인되고 최소 1가지 이상의 이전 전신 항암 치료를 받은 췌장암 등 진행성 고형암 환자를 대상으로 합니다.",
+  "참여 환자는 3주(21일) 간격으로 Trastuzumab Rezetecan 정맥 주사를 투여받습니다.",
+  "주요 평가 지표는 종양 크기 감소를 확인하는 객관적 반응률(ORR)입니다."
  ],
- "last_updated": "2026-11-21",
+ "last_updated": "2026-11-22",
  "links": {
   "doi": null,
   "nct": [
@@ -46,7 +46,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07631884"
  },
- "summary_ko": "이 임상시험은 HER2(인간 표피성장인자 수용체 2) 단백질이 발현된 진행성 고형암 성인 환자를 대상으로 항체-약물 접합체인 Trastuzumab Rezetecan(트라스투주맙 레제테칸)의 치료 효과와 안전성을 확인하기 위한 2상 연구입니다. 췌장암, 담도암, 위암 등 표준 전신 항암 치료 후 질병이 진행했거나 대안이 없는 환자 15명을 모집합니다. 참여자는 3주(21일) 주기로 1일차에 해당 약물을 정맥 주사로 투여받습니다. 주요 목표는 종양이 줄어드는 비율인 객관적 반응률(ORR)을 평가하는 것입니다.",
+ "summary_ko": "본 임상시험은 HER2 단백질이 발현된 진행성 고형암(췌장암 포함) 성인 환자를 대상으로 Trastuzumab Rezetecan의 효과와 안전성을 검증하기 위한 2상 연구입니다. 이전 치료 후 질병이 진행한 국소 진행성, 수술 불가능 또는 전이성 고형암 환자 15명을 모집합니다. 참여자는 21일 주기로 Trastuzumab Rezetecan 치료를 받으며, 객관적 반응률(ORR)을 통해 약물의 치료 효과를 평가받습니다.",
  "summary_source": "llm",
  "tags": [
   "HER2 expression",
@@ -54,7 +54,7 @@
   "Advanced Solid Tumor"
  ],
  "title": "Exploratory Study on the Efficacy and Safety of Trastuzumab Rezetecan in the Treatment of HER2-Expressiong Advanced Solid Tumor",
- "title_ko": "HER2 발현 진행성 고형암 환자를 대상으로 한 Trastuzumab Rezetecan의 효능 및 안전성 탐색 2상 임상시험",
+ "title_ko": "HER2 발현 진행성 고형암 환자를 대상으로 한 Trastuzumab Rezetecan의 효과와 안전성을 평가하는 탐색적 2상 임상시험",
  "trial": {
   "conditions": [
    "Solid Tumors",
@@ -81,7 +81,7 @@
     "phone": "+86-021-56691101-7261"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상의 성인 남녀\n- 국소 진행성, 수술 불가능 또는 전이성 고형암(췌장암, 담도암 등 포함, 유방암 제외)으로 최소 1차례 이상의 전신 치료 후 질병이 진행했거나 적절한 대안 치료가 없는 환자\n- ECOG 수행능력 점수 0 또는 1점\n- 종양 조직 검사에서 HER2 단백질 발현이 확인된 환자(IHC 1+, 2+, 3+)\n- RECIST 1.1 기준 최소 1개 이상의 측정 가능한 병변 보유\n- 좌심실 박출률(LVEF) 50% 이상 및 적절한 주요 장기 기능\n\n제외 기준:\n- 뇌수막 전이, 척수 전이 또는 척수 압박이 있는 경우\n- 조절되지 않는 중증 심장질환(심근경색, 협심증, 울혈성 심부전 등) 또는 고혈압/당뇨\n- 결핵 등 전신 치료가 필요한 활동성 또는 조절되지 않는 감염\n- 반복적인 배액이 필요한 복수, 흉수 또는 심낭 삼출\n- 최근 6개월 이내 장천공, 누공, 장폐색, 중증 궤양, 위장관 출혈 등 중증 위장관 질환 병력\n- 동종 장기 또는 조혈모세포 이식 병력",
+  "eligibility_ko": "선정 기준: • 만 18세 이상의 진행성, 수술 불가능 또는 전이성 고형암(췌장암 포함) 환자 • 최소 1가지 이상의 이전 전신 항암 치료 후 진행했거나 적절한 대안이 없는 경우 • HER2 발현(IHC 1+, 2+, 3+)이 확인된 환자 • ECOG 수행능력 점수 0점 또는 1점 • RECIST v1.1 기준 1개 이상의 측정 가능한 병변 보유 • 좌심실 구출률(LVEF) 50% 이상 및 적절한 장기/골수 기능 보유 제외 기준: • 뇌수막 전이, 척수 전이 또는 척수 압박이 있는 경우 • 조절되지 않는 중증 심혈관 질환, 고혈압, 당뇨가 있는 경우 • 6개월 이내 위장관 천공, 출혈, 폐색, 위식도 정맥류 등의 이력이 있는 경우 • 활동성 B형/C형 간염, HIV 등 면역결핍 질환 또는 동종 이식 이력이 있는 경우 • 28일 이내 주요 수술을 받았거나 상처가 아물지 않은 경우",
   "eligibility_text": "Inclusion Criteria:\n\n1. Male and female participants aged 18 years or older.\n2. Participants with locally advanced, unresectable or metastatic solid tumors who have progressed after at least one prior systemic therapy for advanced/metastatic disease, or have no satisfactory alternative treatment options. Eligible tumor types include but are not limited to biliary tract cancer, endometrial cancer, urothelial carcinoma, pancreatic cancer, colorectal cancer, gastric cancer, non-small cell lung cancer, head and neck adenocarcinoma (salivary gland adenocarcinoma, lacrimal gland adenocarcinoma, adenocarcinoma of unknown primary in the neck), cervical cancer, ovarian cancer and adenocarcinoma of unknown primary. Breast cancer is excluded.\n3. Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1.\n4. Confirmed HER2 expression defined as IHC 1+, 2+ or 3+ (per GC criteria).\n5. Willing and able to provide adequate tumor specimens for central pathological re-testing of HER2 status. For participants previously treated with anti-HER2 therapy, tumor specimens obtained after the last anti-HER2 treatment are optional.\n6. At least one measurable lesion at baseline per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n7. Adequate organ and bone marrow function within 14 days prior to enrollment, meeting the following criteria:\n\n   Hemoglobin ≥ 9 g/dL; Platelet count ≥ 100,000/mm³; Absolute neutrophil count (ANC) ≥ 1500/mm³; Serum albumin ≥ 3.0 g/dL; Prothrombin time (PT), activated partial thromboplastin time (aPTT) and International Normalized Ratio (INR) ≤ 1.5 × upper limit of normal (ULN); Aspartate transaminase (AST) and alanine transaminase (ALT) ≤ 3 × ULN; ≤ 5 × ULN for participants with liver metastases; Total bilirubin ≤ 1.5 × ULN for participants without liver metastases; ≤ 3 × ULN for participants with Gilbert's syndrome or liver metastases at baseline; Creatinine clearance ≥ 30 mL/min (calculated by the Cockcroft-Gault formula)\n8. Left ventricular ejection fraction (LVEF) ≥ 50% assessed by echocardiogram (ECHO) or multigated acquisition (MUGA) scan within 28 days prior to enrollment.\n\nExclusion Criteria:\n\nParticipants meeting any of the following conditions are ineligible for this study:\n\n1. Presence of any severe and/or uncontrolled diseases:\n\n   * Poorly controlled blood pressure (systolic blood pressure ≥ 150 mmHg or diastolic blood pressure ≥ 100 mmHg); poorly controlled diabetes (fasting blood glucose \\[FBG\\] \\> 10 mmol/L).\n   * Grade ≥ 2 myocardial ischemia, myocardial infarction, arrhythmia (QTc interval ≥ 470 ms), or Grade ≥ 2 congestive heart failure (per New York Heart Association \\[NYHA\\] classification).\n   * Active or uncontrolled severe infections (Grade ≥ 2 per NCI CTCAE) requiring systemic antibacterial, antifungal or antiviral therapy, including pulmonary tuberculosis.\n   * History of active tuberculosis.\n   * Uncontrolled ascites, pericardial effusion or pleural effusion requiring repeated drainage.\n2. Active hepatitis: Liver function not meeting the inclusion criteria. Hepatitis B: HBV DNA ≥ 2000 IU/mL or ≥ 10\\^4 copies/mL.Hepatitis C: HCV RNA ≥ 2000 IU/mL or ≥ 10\\^4 copies/mL. Participants with viral load below the above thresholds after nucleoside antiviral therapy are eligible. Chronic hepatitis B virus carriers with HBV DNA \\< 10\\^4 IU/mL must receive concurrent antiviral treatment throughout the study for enrollment.\n3. History of immunodeficiency diseases, including HIV positivity or other acquired/congenital immunodeficiency disorders.\n4. History of allogeneic solid organ transplantation or allogeneic hematopoietic stem cell transplantation.\n5. Confirmed meningeal metastasis, spinal cord metastasis or spinal cord compression.\n6. Within 6 months prior to the first study drug administration, presence of esophageal gastric varices, severe ulcers, unhealed wounds, gastrointestinal perforation, abdominal fistula, gastrointestinal obstruction, intra-abdominal abscess, acute gastrointestinal bleeding, extensive intestinal resection (partial colectomy or extensive small bowel resection complicated with chronic diarrhea), Crohn's disease, ulcerative colitis or long-standing chronic diarrhea.\n7. Unhealed or poorly healing wounds, or active ulcers.\n8. Toxicities from prior anti-tumor therapy have not resolved to Grade 0 or 1 per NCI CTCAE version 5.0.\n9. Received major surgery, incisional biopsy or significant traumatic injury within 28 days before study treatment initiation; or with long-standing unhealed wounds or fractures.\n10. History of severe hypersensitivity reactions to monoclonal antibodies; known allergy to the active ingredients or excipients of the study drug.",
   "enrollment": 15,
   "has_results": false,
@@ -100,16 +100,15 @@
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "뇌수막 전이 또는 척수 전이/압박",
-    "반복적인 배액이 필요한 복수나 흉수",
-    "조절되지 않는 심장질환 또는 중증 고혈압",
-    "최근 6개월 이내의 장천공, 누공, 장폐색 등 중증 위장관 합병증",
-    "활동성 중증 감염증 또는 활동성 결핵"
+    "뇌수막 전이, 척수 전이 또는 척수 압박",
+    "조절되지 않는 심혈관 질환, 고혈압, 당뇨",
+    "6개월 이내 위장관 천공, 출혈, 위식도 정맥류 이력",
+    "활동성 B형/C형 간염, HIV 등 면역결핍 질환"
    ],
    "max_prior_lines": 1,
    "measurable_required": true,
    "min_prior_lines": 1,
-   "notes_ko": "이전 전신 치료를 1회 이상 받은 HER2 발현(IHC 1+ 이상) 진행성/전이성 췌장암 등 고형암 환자",
+   "notes_ko": "이전 치료 경험이 있고 HER2 발현(IHC 1+ 이상)이 확인된 진행성/전이성 췌장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

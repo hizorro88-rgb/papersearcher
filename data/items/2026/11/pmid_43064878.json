@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification. This study aimed to develop and externally validate an integrated prognostic system for PDAC by combining deep learning (DL)-based radiomic features with guideline‑recommended clinicopathological variables.\nMATERIALS AND METHODS: This multicenter retrospective study included 592 patients with PDAC who underwent R0 surgical resection. A Swin Transformer-assisted DL classifier (Outcome Prediction for PDAC, OP-PDAC) was built using multi-planar contrast-enhanced CT scans (axial, coronal, and sagittal planes). Radiogenomic analysis was conducted in 41 patients to elucidate the biological underpinnings of the OP-PDAC. Furthermore, the Intelligent Prognosis Stratification System (IPSS-PDAC) was developed by incorporating clinicopathological variables into the OP-PDAC framework.\nRESULTS: In the derivation and test cohorts, the C‑index of OP-PDAC for predicting 1‑year disease‑free survival (DFS) ranged from 0.807 to 0.844, which was significantly higher than that of the clinicopathological model (CP-PDAC; C‑index, 0.631-0.656). The IPSS-PDAC further enhanced predictive performance, yielding a C‑index of 0.836-0.871, and enabled effective stratification for both DFS and overall survival (all log‑rank p < 0.01). Radiogenomic analysis revealed that high‑risk patients exhibited an immunosuppressive tumor microenvironment, elevated stromal scores, activated oncogenic pathways, and reduced CD8+ T‑cell infiltration.\nCONCLUSION: IPSS-PDAC is a non-invasive and robust prognostic stratification system that integrates imaging features and clinicopathological features. By sensitively reflecting tumor heterogeneity and TME, it provides references for clinical decision-making in the postoperative management of PDAC patients.\nKEY POINTS: Question This study constructs an integrated prognostic model combining imaging signatures and guideline-recommended clinicopathological variables to address unmet clinical challenges in postoperative risk stratification for PDAC patients. Findings A multi-planar Swin Transformer-based deep learning model (IPSS-PDAC) achieves a C-index of 0.836-0.871 for disease-free survival prediction. Critical relevance statement High-risk patients stratified by the OP-PDAC model display a profoundly immunosuppressive tumor microenvironment, activation of core oncogenic signaling pathways, and reduced CD8+ T-cell infiltration.",
+ "authors": [
+  "Wu J",
+  "Fu X",
+  "Wu H",
+  "Zheng Z",
+  "Shen X",
+  "Wu J",
+  "Lu Y"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43064878",
+ "importance": 0.95,
+ "key_points_ko": [],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1186/s13244-026-02451-w",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43064878"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Insights Imaging",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064878/"
+ },
+ "summary_ko": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -16,12 +16,68 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 363건 · 최근 30일 186건
+전체 365건 · 최근 30일 186건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43064878"></a>
+#### [Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment](https://pubmed.ncbi.nlm.nih.gov/43064878/)
+`논문` `가이드라인` `치료 전반` `진단·조기발견` `수술` · 2026-11-20 · PubMed · Insights Imaging · 중요도 0.95
+
+OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43064878/) · [DOI](https://doi.org/10.1186/s13244-026-02451-w) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43064878)</small>
+
+---
+<a id="nct-nct07698613"></a>
+#### [국소 진행성 및 경계성 수술 가능 췌장암 환자를 위한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
+<small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-13 · ClinicalTrials.gov · Brown University · 중요도 0.87
+
+**NCT07698613** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07698613.md)
+
+이 임상시험은 국소 진행성 또는 경계성 수술 가능 췌장암 환자를 대상으로 ASP-1929 광면역치료(PIT)의 안전성과 초기 유효성을 평가하기 위한 연구입니다. 선행 보조 항암화학요법을 완료하고 수술적 탐색을 계획 중인 환자 30명을 대상으로 진행됩니다. 치료는 마지막 항암화학요법 및 방사선 치료 종료 후 4~10주 뒤에 시행됩니다.
+
+- 선행 항암치료를 완료한 국소 진행성 및 경계성 수술 가능 췌장암 환자 30명을 대상으로 합니다.
+- 표적 광면역치료제인 ASP-1929의 안전성과 초기 치료 효과를 확인합니다.
+- 원격 전이가 없는 환자를 대상으로 수술 전 탐색 단계에서 중재 치료를 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07698613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07698613)</small>
+
+---
+<a id="pmid-43062045"></a>
+#### [국소 진행성 췌장암에서 장 자가이식을 동반한 근치적 절제술에 대한 국제 전문가 합의](https://pubmed.ncbi.nlm.nih.gov/43062045/)
+<small>International expert consensus on radical resection combined with intestinal autotransplantation for locally advanced pancreatic cancer</small>
+
+`논문` `가이드라인` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Br J Surg · 중요도 0.84
+
+광범위한 장간막 혈관 침범이 있는 국소 진행성 췌장암(LAPC) 환자에게 장 자가이식을 동반한 근치적 절제술(RRCIA)이 잠재적 완치 수술법으로 부상하고 있습니다. 이에 따라 국제 다학제 전문가 패널이 델파이 기법을 활용하여 환자 선별, 수술 전 치료, 수술 전략, 주수술기 관리 등에 관한 20개의 합의 권고안을 도출했습니다. 전문가들은 충분한 선행항암요법(neoadjuvant therapy) 후 경험이 풍부한 고용량(고빈도) 병원에서 매우 선별된 환자에게만 이 수술을 시행하도록 권고했습니다. 또한 혈류가 잘 통하는 장과 회맹판을 보존하고, 항응고 요법, 영양 지원, 보조항암치료 및 체계적인 장기 추적 관찰을 개별화하여 적용할 것을 강조했습니다.
+
+- 총 20개의 합의 항목 중 권고 강도는 강력 권고 6개, 조건부 권고 14개로 구성되었습니다.
+- 장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.
+- 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786162/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+
+---
+<a id="pmid-43065141"></a>
+#### [화학면역요법으로 완전 관해를 보인 진행성 췌관선암 환자: 증례 보고 및 단일세포 전사체 분석](https://pubmed.ncbi.nlm.nih.gov/43065141/)
+<small>Advanced Pancreatic Adenocarcinoma With Complete Response to Chemoimmunotherapy: A Case Report and Single-Cell Profiling</small>
+
+`논문` `증례` `신약·치료제` `치료 전반` `기초연구` `수술` · 2026-11-20 · PubMed · Cancer Sci · 중요도 0.61
+
+젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(albumin-bound paclitaxel)과 PD-1 억제제를 병용한 화학면역요법을 받고 완전 관해(CR)에 도달한 전이성 췌장암 환자 1명의 증례를 보고했습니다. 이 환자는 진단 4년 후에도 질병이 재발하지 않고 무병 상태를 유지하고 있습니다. 연구진은 동일한 치료를 받은 환자 7명의 말초혈액단핵구(PBMC)를 단일세포 RNA 시퀀싱(scRNA-seq)으로 분석하여 면역 기전을 조사했습니다. 분석 결과 치료 반응군에서 말단 분화 CD8+ T세포(Temra)와 인터페론 자극 유전자 발현 CD4+ T 도움세포(ISG+ Th)가 유의하게 증가한 것으로 나타났습니다.
+
+- 전이성 췌장암 환자 1명이 항암화학요법(젬시타빈+알부민 결합 파클리탁셀)과 PD-1 억제제 병용 치료로 완전 관해를 얻고 4년간 무병 상태를 지속했습니다.
+- 동일 치료를 받은 환자 7명의 혈액 분석에서 치료 반응군은 CD8+ Temra 및 CD4+ ISG+ Th 세포가 풍부하게 증가했습니다.
+- 이러한 세포들의 상호작용은 세포독성 및 면역 활성화 경로와 연관되어 화학면역요법의 지속 반응 지표로서 말초 혈액 분석의 가능성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43065141/) · [DOI](https://doi.org/10.1111/cas.70599) · [NCT05201729](https://clinicaltrials.gov/study/NCT05201729) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43065141)</small>
+
+---
 <a id="nct-nct06752811"></a>
 #### [전이성 췌장암 환자를 대상으로 한 주사용 파클리탁셀 고분자 미셀 3상 임상시험](https://clinicaltrials.gov/study/NCT06752811)
 <small>Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer</small>
@@ -90,38 +146,6 @@ search:
 <small>[원문](https://clinicaltrials.gov/study/NCT07945782) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07945782)</small>
 
 ---
-<a id="nct-nct07698613"></a>
-#### [국소 진행성 췌장암 환자를 위한 ASP-1929를 이용한 EGFR 표적 광면역치료](https://clinicaltrials.gov/study/NCT07698613)
-<small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-13 · ClinicalTrials.gov · Brown University · 중요도 0.87
-
-**NCT07698613** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07698613.md)
-
-선행항암치료를 마친 국소 진행성 및 경계성 절제 가능 췌관선암 환자를 대상으로 ASP-1929를 이용한 광면역치료(PIT)의 안전성과 예비 유효성을 평가하는 1/2상 임상시험입니다. 수술 전 탐색술이 계획된 성인 환자 30명을 대상으로 진행됩니다. 환자들은 마지막 항암화학요법 및 방사선치료 완료 후 4~10주 시점에 ASP-1929 광면역치료를 받게 됩니다.
-
-- 선행항암치료를 완료한 국소 진행성 및 경계성 절제 가능 췌관선암 환자 30명을 대상으로 안전성과 예비 효과를 평가합니다.
-- EGFR 표적 광면역치료제 ASP-1929를 투여한 후 수술적 탐색을 진행하는 방식으로 설계되었습니다.
-- 마지막 항암 및 방사선 치료 종료 후 4~10주 사이에 시험 치료가 이루어집니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07698613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07698613)</small>
-
----
-<a id="pmid-43062045"></a>
-#### [국소 진행성 췌장암에서 장 자가이식을 동반한 근치적 절제술에 대한 국제 전문가 합의](https://pubmed.ncbi.nlm.nih.gov/43062045/)
-<small>International expert consensus on radical resection combined with intestinal autotransplantation for locally advanced pancreatic cancer</small>
-
-`논문` `가이드라인` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Br J Surg · 중요도 0.84
-
-광범위한 장간막 혈관 침범이 있는 국소 진행성 췌장암(LAPC) 환자에게 장 자가이식을 동반한 근치적 절제술(RRCIA)이 잠재적 완치 수술법으로 부상하고 있습니다. 이에 따라 국제 다학제 전문가 패널이 델파이 기법을 활용하여 환자 선별, 수술 전 치료, 수술 전략, 주수술기 관리 등에 관한 20개의 합의 권고안을 도출했습니다. 전문가들은 충분한 선행항암요법(neoadjuvant therapy) 후 경험이 풍부한 고용량(고빈도) 병원에서 매우 선별된 환자에게만 이 수술을 시행하도록 권고했습니다. 또한 혈류가 잘 통하는 장과 회맹판을 보존하고, 항응고 요법, 영양 지원, 보조항암치료 및 체계적인 장기 추적 관찰을 개별화하여 적용할 것을 강조했습니다.
-
-- 총 20개의 합의 항목 중 권고 강도는 강력 권고 6개, 조건부 권고 14개로 구성되었습니다.
-- 장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.
-- 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
-
----
 <a id="nct-nct01660971"></a>
 #### [전이성 또는 절제 불가능한 췌장암 환자에서 gemcitabine hydrochloride, dasatinib, erlotinib hydrochloride 병용 요법을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT01660971)
 <small>Gemcitabine Hydrochloride, Dasatinib, and Erlotinib Hydrochloride in Treating Patients With Pancreatic Cancer That Is Metastatic or Cannot Be Removed by Surgery</small>
@@ -186,21 +210,6 @@ search:
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43058414/) · [DOI](https://doi.org/10.1245/s10434-026-20837-4) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43058414)</small>
 
 ---
-<a id="pmid-43060808"></a>
-#### [다양한 영상 검사에서 치료 반응의 불일치를 보인 빠르게 자란 췌장 세포형암 증례](https://pubmed.ncbi.nlm.nih.gov/43060808/)
-<small>Rapidly enlarging pancreatic acinar cell carcinoma with discordant multimodality treatment response</small>
-
-`논문` `증례` `진단·조기발견` `치료 전반` `수술` · 2026-11-12 · PubMed · Radiol Case Rep · 중요도 0.59
-
-본 연구는 희귀 췌장 악성 종양인 췌장 세포형암(ACC)을 진단받은 50대 남성 환자의 치료 사례를 보고합니다. 환자는 10개월 전 소형 병변에서 약 8cm 크기로 빠르게 자란 췌두부 종양으로 조직검사를 통해 췌장 세포형암으로 확진되었습니다. 항암화학요법 후 컴퓨터단층촬영(CT)에서는 종양이 거의 완전 소실된 것으로 보였으나, PET/CT 및 자기공명영상(MRI)에서는 잔여 병변이 포착되었습니다. 이후 췌두부십이지장절제술(Whipple 절제술)을 시행한 결과 병리 검사에서 실제 잔여 암세포가 확인되어 CT만으로 치료 반응을 평가할 때의 한계를 보여주었습니다.
-
-- 10개월 전 검사에서 작았던 췌장 머리 부분 병변이 약 8cm 크기의 췌장 세포형암(ACC)으로 빠르게 증대되었습니다.
-- 항암 치료 후 CT 검사에서는 종양이 거의 사라진 것으로 관찰되었으나 PET/CT(SUVmax 6.2)와 MRI에서는 잔여 병변이 확인되었습니다.
-- 수술 후 병리 검사에서 잔여 암세포가 최종 확진되어 치료 반응 평가 시 CT, PET/CT, MRI 등 다중 영상 검사의 통합적 활용이 필수적임을 입증했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43060808/) · [DOI](https://doi.org/10.1016/j.radcr.2026.10.041) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13782917/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43060808)</small>
-
----
 <a id="pmid-43058566"></a>
 #### [절제 불가능한 국소 진행성 또는 전이성 췌장암 환자에서 serplulimab(서플루리맙) 기반 치료의 실제 임상 연구 결과](https://pubmed.ncbi.nlm.nih.gov/43058566/)
 <small>Real-world outcomes of serplulimab-based therapy in unresectable locally advanced or metastatic pancreatic cancer</small>
@@ -214,6 +223,21 @@ search:
 - 부작용은 환자의 78.6%에서 관찰되었으며, 3등급 이상의 면역 관련 부작용은 4.8%였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43058566/) · [DOI](https://doi.org/10.1186/s12885-026-16783-9) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13783791/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43058566)</small>
+
+---
+<a id="pmid-43060808"></a>
+#### [다양한 영상 검사에서 치료 반응의 불일치를 보인 빠르게 자란 췌장 세포형암 증례](https://pubmed.ncbi.nlm.nih.gov/43060808/)
+<small>Rapidly enlarging pancreatic acinar cell carcinoma with discordant multimodality treatment response</small>
+
+`논문` `증례` `진단·조기발견` `치료 전반` `수술` · 2026-11-12 · PubMed · Radiol Case Rep · 중요도 0.59
+
+본 연구는 희귀 췌장 악성 종양인 췌장 세포형암(ACC)을 진단받은 50대 남성 환자의 치료 사례를 보고합니다. 환자는 10개월 전 소형 병변에서 약 8cm 크기로 빠르게 자란 췌두부 종양으로 조직검사를 통해 췌장 세포형암으로 확진되었습니다. 항암화학요법 후 컴퓨터단층촬영(CT)에서는 종양이 거의 완전 소실된 것으로 보였으나, PET/CT 및 자기공명영상(MRI)에서는 잔여 병변이 포착되었습니다. 이후 췌두부십이지장절제술(Whipple 절제술)을 시행한 결과 병리 검사에서 실제 잔여 암세포가 확인되어 CT만으로 치료 반응을 평가할 때의 한계를 보여주었습니다.
+
+- 10개월 전 검사에서 작았던 췌장 머리 부분 병변이 약 8cm 크기의 췌장 세포형암(ACC)으로 빠르게 증대되었습니다.
+- 항암 치료 후 CT 검사에서는 종양이 거의 사라진 것으로 관찰되었으나 PET/CT(SUVmax 6.2)와 MRI에서는 잔여 병변이 확인되었습니다.
+- 수술 후 병리 검사에서 잔여 암세포가 최종 확진되어 치료 반응 평가 시 CT, PET/CT, MRI 등 다중 영상 검사의 통합적 활용이 필수적임을 입증했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43060808/) · [DOI](https://doi.org/10.1016/j.radcr.2026.10.041) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13782917/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43060808)</small>
 
 ---
 <a id="pmid-43057411"></a>
@@ -2362,35 +2386,5 @@ search:
 - 초록에 명시되지 않음
 
 <small>[원문](https://clinicaltrials.gov/study/NCT05334836) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05334836)</small>
-
----
-<a id="pmid-42952105"></a>
-#### [선행 FOLFIRINOX 항암요법 및 비장동맥 전위술을 통한 복합 혈관 재건술 후 전췌장절제술을 시행한 61세 국소 진행성 췌장암 환자 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42952105/)
-<small>A 61-Year-Old Woman With Locally Advanced Pancreatic Adenocarcinoma Managed With Neoadjuvant FOLFIRINOX, Total Pancreatectomy, Splenectomy, Portal Vein and Common Hepatic Artery Resection, and Combined Vascular Reconstruction Using Splenic Artery Transposition: A Case Report</small>
-
-`논문` `증례` `수술` `치료 전반` `신약·치료제` `진단·조기발견` · 2026-10-29 · PubMed · Am J Case Rep · 중요도 0.64
-
-문맥과 공통간동맥을 침범한 국소 진행성 췌장관선암(PDAC) 61세 여성 환자의 치료 증례입니다. 환자는 12주기의 FOLFIRINOX(폴피리녹스) 선행 항암화학요법을 받은 후, 전췌장절제술, 비장절제술, 문맥 및 공통간동맥 절제술을 시행받았습니다. 비장동맥 전위술을 이용한 간동맥 혈류 재건을 통해 수술 단면 음성(R0 절제)을 달성했습니다. 환자는 수술 후 27개월에 국소 재발 없이 중증 폐렴으로 사망했습니다.
-
-- 12주기의 선행 FOLFIRINOX 치료 후 문맥 및 공통간동맥을 절제하는 전췌장절제술을 시행했습니다.
-- 비장동맥 전위술(Splenic Artery Transposition)을 이용해 간동맥 혈류를 복원하고 절제 단면 음성을 확보했습니다.
-- 수술 후 15개월에 단일 폐 전이 절제술을 받았으며, 수술 27개월 후 국소 재발 없이 중증 폐렴으로 사망했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42952105/) · [DOI](https://doi.org/10.12659/AJCR.953367) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42952105)</small>
-
----
-<a id="pmid-42953875"></a>
-#### [간 전이 재발에 대한 반복적 절제술 후 장기 생존을 달성한 가족성 선종성 용종증 환자의 췌장 선포세포암 1례](https://pubmed.ncbi.nlm.nih.gov/42953875/)
-<small>Pancreatic Acinar Cell Carcinoma in a Patient with Familial Adenomatous Polyposis Who Achieved Long-Term Survival after Repeated Resection of Liver Metastases: A Case Report</small>
-
-`논문` `증례` `수술` `치료 전반` · 2026-10-28 · PubMed · Surg Case Rep · 중요도 0.64
-
-가족성 선종성 용종증(FAP)을 진단받은 22세 환자의 췌장 선포세포암(PACC) 치료 증례입니다. 환자는 원발암 수술 후 국소 재발과 반복적인 간 전이를 경험했으나 항암화학요법과 총 5회의 간 절제술을 받았습니다. 환자는 마지막 간 절제 수술 후 72개월 동안 재발 없이 장기 생존을 유지하고 있습니다.
-
-- 췌장 선포세포암(PACC) 수술 후 발생한 재발성 간 전이에 대해 총 5회의 간 절제술을 시행했습니다.
-- 마지막 수술 후 72개월 동안 재발이 없는 상태로 장기 생존을 달성했습니다.
-- 임상 경과 중 유전성 질환인 가족성 선종성 용종증(FAP) 원인 유전자(APC) 변이가 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42953875/) · [DOI](https://doi.org/10.70352/scrj.cr.26-0605) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13716534/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42953875)</small>
 
 ---

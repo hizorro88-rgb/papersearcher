@@ -24,7 +24,7 @@
   "임상시험 단계는 제1/2상입니다.",
   "국내 기관 참여 수는 초록에 명시되지 않았음."
  ],
- "last_updated": "2026-11-21",
+ "last_updated": "2026-11-22",
  "links": {
   "doi": null,
   "nct": [
@@ -47,8 +47,8 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07948070"
  },
- "summary_ko": "본 임상시험은 췌장암 환자를 대상으로 회복된 종양 반응성 T세포(rejuvenated tumor-reactive T cells) 치료제인 GKPTZ-01의 안전성, 약동학 및 예비 유효성을 평가합니다. 18세에서 70세 사이의 췌장암 환자 40명을 목표로 진행합니다. 환자는 수술 후 보조치료 코호트, 표준 치료 후 진행된 코호트, 그리고 표준 항암화학요법 또는 표적치료와 병용하는 코호트로 나누어 참여합니다. 초록에 유효성 및 안전성 결과 수치는 명시되지 않았습니다.",
- "summary_source": "llm",
+ "summary_ko": "A Phase I/II Open-label Study to Evaluate the Safety, Pharmacokinetics, and Preliminary Efficacy of Rejuvenated Tumor-Reactive T Cells (GKPTZ-01) in Subjects with Pancreatic Cancer",
+ "summary_source": "excerpt",
  "tags": [
   "Adjuvant Therapy",
   "Advanced Pancreatic Cancer",
@@ -83,27 +83,23 @@
   "locations_kr": [],
   "match": {
    "biomarkers_excluded": [],
-   "biomarkers_required": [],
-   "ecog_max": 1,
-   "key_exclusions_ko": [
-    "중추신경계(CNS) 전이 또는 신경계 질환 병력",
-    "다른 원발성 암 병력",
-    "활동성 간염, HIV, 매독 등 감염",
-    "활동성 자가면역질환"
+   "biomarkers_required": [
+    "KRAS_G12C",
+    "BRCA_PALB2",
+    "MSI_H",
+    "HER2",
+    "NTRK"
    ],
+   "ecog_max": 0,
+   "key_exclusions_ko": [],
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "수술 후 보조치료 환자, 표준치료 후 진행된 환자, 또는 표준 항암화학요법 및 표적치료를 받는 18~70세 췌장암 환자.",
+   "notes_ko": "",
    "prior_excluded": [],
    "prior_required": [],
-   "setting": [
-    "metastatic",
-    "locally_advanced",
-    "resectable",
-    "adjuvant"
-   ],
-   "source": "llm"
+   "setting": [],
+   "source": "rules"
   },
   "max_age": "70 Years",
   "min_age": "18 Years",

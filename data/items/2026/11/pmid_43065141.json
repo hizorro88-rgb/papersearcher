@@ -1,0 +1,67 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) has a poor prognosis, especially in unresectable disease. We report a patient with metastatic PDAC who achieved durable complete remission after PD-1 blockade combined with gemcitabine and albumin-bound paclitaxel and remains disease-free 4 years after diagnosis. To explore the immune basis of this response, we performed single-cell RNA sequencing of peripheral blood mononuclear cells from seven patients receiving the same regimen. Responders showed enrichment of terminally differentiated CD8+ T (Temra) and CD4 ISG+ T helper (Th) cells compared with nonresponders. Across independent cohorts, these two programs were positively correlated, suggesting coordinated immune activation during effective therapy. Predicted ligand-target interactions were linked to cytotoxic and immune activation pathways. These findings suggest that coordinated expansion of CD4+ ISG+ Th and CD8+ Temra cells are associated with durable chemoimmunotherapy responses in PDAC and support peripheral blood immune profiling as a minimally invasive monitoring strategy. Trial Registration: ClinicalTrials.gov identifier: NCT05201729.",
+ "authors": [
+  "Lu X",
+  "Liu Z",
+  "Liu C",
+  "Gao L",
+  "Zhang B",
+  "Ran T",
+  "Zhang Y",
+  "Zhou C"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43065141",
+ "importance": 0.61,
+ "key_points_ko": [
+  "전이성 췌장암 환자 1명이 항암화학요법(젬시타빈+알부민 결합 파클리탁셀)과 PD-1 억제제 병용 치료로 완전 관해를 얻고 4년간 무병 상태를 지속했습니다.",
+  "동일 치료를 받은 환자 7명의 혈액 분석에서 치료 반응군은 CD8+ Temra 및 CD4+ ISG+ Th 세포가 풍부하게 증가했습니다.",
+  "이러한 세포들의 상호작용은 세포독성 및 면역 활성화 경로와 연관되어 화학면역요법의 지속 반응 지표로서 말초 혈액 분석의 가능성을 제시했습니다."
+ ],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1111/cas.70599",
+  "nct": [
+   "NCT05201729"
+  ],
+  "pmcid": null,
+  "pmid": "43065141"
+ },
+ "pub_types": [
+  "Case Reports",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065141/"
+ },
+ "summary_ko": "젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(albumin-bound paclitaxel)과 PD-1 억제제를 병용한 화학면역요법을 받고 완전 관해(CR)에 도달한 전이성 췌장암 환자 1명의 증례를 보고했습니다. 이 환자는 진단 4년 후에도 질병이 재발하지 않고 무병 상태를 유지하고 있습니다. 연구진은 동일한 치료를 받은 환자 7명의 말초혈액단핵구(PBMC)를 단일세포 RNA 시퀀싱(scRNA-seq)으로 분석하여 면역 기전을 조사했습니다. 분석 결과 치료 반응군에서 말단 분화 CD8+ T세포(Temra)와 인터페론 자극 유전자 발현 CD4+ T 도움세포(ISG+ Th)가 유의하게 증가한 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Advanced Pancreatic Adenocarcinoma With Complete Response to Chemoimmunotherapy: A Case Report and Single-Cell Profiling",
+ "title_ko": "화학면역요법으로 완전 관해를 보인 진행성 췌관선암 환자: 증례 보고 및 단일세포 전사체 분석",
+ "trial": null,
+ "type": "paper"
+}

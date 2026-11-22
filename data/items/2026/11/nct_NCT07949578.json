@@ -19,11 +19,11 @@
  "id": "nct:NCT07949578",
  "importance": 0.66,
  "key_points_ko": [
-  "암 관련 유전자 변이 보유자 및 고위험 췌장 낭종 환자 총 176명을 대상으로 합니다.",
-  "40세 이상의 암 고위험군에서 Galleri 다중 암 조기 발견(MCED) 검사의 타당성을 평가합니다.",
-  "검사 시행 후 환자의 불안도 및 기존 표준 검진 준수 여부에 대한 설문 평가를 수행합니다."
+  "유전적 암 고위험군 및 고위험 췌장 낭종 환자 176명을 대상으로 다중암 조기 진단(MCED) 검사의 실용성을 평가합니다.",
+  "검사 시행 후 환자의 심리적 불안 정도와 기존 표준 검진 준수 여부에 미치는 영향을 조사합니다.",
+  "만 40세 이상의 성인을 대상으로 진행되는 조기 발견 및 감시 연구입니다."
  ],
- "last_updated": "2026-11-20",
+ "last_updated": "2026-11-22",
  "links": {
   "doi": null,
   "nct": [
@@ -46,18 +46,18 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07949578"
  },
- "summary_ko": "본 연구는 암 발생 고위험군을 대상으로 다중 암 조기 발견(MCED) 검사인 Galleri 검사의 타당성을 평가하는 임상시험입니다. 암 관련 생식세포 유전자 변이를 보유한 사람과 고위험 췌장 낭종을 가진 환자 총 176명을 대상으로 진행됩니다. 참여자는 MCED 검사를 받고 검사 후 불안감과 표준 선별검사 준수율을 평가하는 설문조사를 완료하게 됩니다.",
+ "summary_ko": "이 연구는 암 발생 위험이 높은 고위험군을 대상으로 다중암 조기 진단(MCED) 검사인 Galleri 검사의 실행 가능성을 평가하는 연구입니다. 암 관련 유전자의 병원성 변이를 가진 참가자와 고위험 췌장 낭종을 가진 참가자 총 176명을 대상으로 진행됩니다. 참여자는 다중암 조기 진단 검사를 받고, 검사 후 불안감 및 표준 암 검진 준수율을 평가하는 설문조사를 완료하게 됩니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "DNA Methylation-Based Testing for High Risk Populations",
- "title_ko": "고위험군 대상 DNA 메틸화 기반 다중 암 조기 발견 검사의 타당성 연구",
+ "title_ko": "고위험군을 대상으로 한 DNA 메틸화 기반 다중암 조기 진단 검사의 실효성 평가 임상연구",
  "trial": {
   "conditions": [
    "Genetic Predisposition to Cancer",
    "Pancreatic Cystic Neoplasm"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: • 만 40세 이상의 성인 • 연구 절차를 준수하고 기간 동안 참여할 의사가 있는 환자 • 코호트 A: BRCA1, BRCA2, PALB2, MLH1, MSH2, MSH6, ATM, CHEK2, PTEN, CDH1, TP53, STK11 유전자의 병원성 변이 보유자 • 코호트 B: 췌장 낭종 크기 2.5cm 이상, 연간 5mm 이상 성장, 10mm 이상 크기 증가, 벽 결절 동반, 췌관 확장 5mm 이상, 신규 당뇨 발병, CA 19-9 37 U/mL 이상 등 위험 요인을 가진 췌장 낭종 환자 • 등록 3년 이전 완치된 암 병력자 또는 장기 보조 요법 진행 중인 환자는 참여 가능 제외 기준: • 만 40세 미만의 성인 • 등록 전 3년 이내 암 치료를 받은 병력이 있는 환자 • 알려진 활성 암이 있는 환자 • 암 진단 또는 재발 의심으로 현재 진단 평가를 받고 있는 환자 • 임신 중인 여성",
+  "eligibility_ko": "선정 기준:\n• 만 40세 이상의 성인\n• BRCA1, BRCA2, PALB2, MLH1, MSH2, MSH6, ATM, CHEK2, PTEN, CDH1, TP53, STK11 중 병원성 또는 병원성 추정 유전자 변이 보유자(코호트 A)\n• 크기 2.5cm 이상, 연간 5mm 이상 성장, 주췌관 확장(5mm 이상), CA 19-9 수치 상승(37 U/mL 이상) 등 고위험 요인을 가진 췌장 낭종 환자(코호트 B)\n• 등록 최소 3년 전 완치된 암 병력이 있거나 피부 기저세포암/편평세포암 병력이 있는 경우 참여 가능\n\n제외 기준:\n• 만 40세 미만\n• 연구 등록 전 3년 이내에 암 치료를 받은 병력이 있는 경우\n• 현재 활동성 암을 진단받았거나 암 의증으로 진단적 검사를 받고 있는 경우\n• 임신 중인 경우",
   "eligibility_text": "Inclusion Criteria:\n\n* Provision to sign and date the consent form. Patients will be offered an electronic consent via REDCap, or they may use a paper copy.\n* Stated willingness to comply with all study procedures and be available for the duration of the study.\n* Be an adult aged 40 years or older.\n* Individuals will be eligible to enroll into Cohort A if they are being evaluated within the University of Colorado's Hereditary Cancer Clinic and have a known germline pathogenic or likely pathogenic germline mutation of any of the following genes:\n* BRCA 1, BRCA 2, PALB2, MLH 1, MSH 2, MSH 6, ATM, CHEK2, PTEN, CDH1, TP 53, STK11.\n* Individuals will be eligible to enroll into Cohort B if they are being evaluated within the University of Colorado's Pancreatic Cyst Surveillance Clinic and have 1 or more of the following risk factors for development of pancreatic malignancy:\n* Pancreatic cyst greater than or equal to 2.5 cm, greater than or equal to 5 mm increase in size per year, greater than or equal to 10 mm growth since initiation of surveillance, cyst associated with mass or mural nodule, dilated pancreatic duct greater than or equal to 5 mm, new onset diabetes, CA 19-9 greater than or equal to 37 U/mL.\n* Individuals with a history of cancer that was definitively managed 3 or more years prior to enrollment and/or those with a history of cutaneous squamous cell carcinoma or basal cell carcinoma diagnosed at any time will be allowed to participate. Patients on long term Adjuvant therapies, (for example, hormonal therapies for breast cancer) are allowed to participate.\n\nExclusion Criteria:\n\n* Individuals less than 40 years old.\n* Individuals with a history of cancer that was treated within 3 years prior to enrollment in the study. Patients on long term Adjuvant therapies, (for example, hormonal therapies for breast cancer) are allowed to participate.\n* Individuals with known active cancer.\n* Individuals currently undergoing diagnostic evaluation for a suspicion of having a cancer diagnosis/recurrence.\n* Individuals who are known to be pregnant.",
   "enrollment": 176,
   "has_results": false,
@@ -74,14 +74,14 @@
    "biomarkers_required": [],
    "ecog_max": null,
    "key_exclusions_ko": [
-    "최근 3년 이내 암 치료를 받았거나 현재 활성 암이 있는 경우",
-    "암 진단 또는 재발 의심으로 진단 평가가 진행 중인 경우",
-    "임신 중인 여성"
+    "현재 활동성 암이 있거나 암 진단·재발 평가를 위한 검사가 진행 중인 경우",
+    "연구 등록 시점 기준 3년 이내에 암 치료를 받은 경우",
+    "임신 중인 경우"
    ],
    "max_prior_lines": null,
    "measurable_required": false,
    "min_prior_lines": null,
-   "notes_ko": "암 유전자 변이 보유자 또는 고위험 췌장 낭종이 있는 만 40세 이상 고위험군을 위한 암 조기 발견 연구입니다.",
+   "notes_ko": "암 관련 유전자 변이 보유자 또는 고위험 췌장 낭종을 가진 만 40세 이상 성인을 위한 암 조기 진단 검사 연구",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [],

@@ -16,26 +16,25 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 214건 · 최근 30일 118건
+전체 215건 · 최근 30일 116건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07700212"></a>
-#### [전이성 췌장암 환자의 암 유발 악액질에 대한 미주신경 차단술의 안전성 및 초기 유효성을 평가하는 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
+#### [전이성 췌관선암 환자의 암 관련 악액질에 대한 미경골 신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
 <small>A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
-`임상시험` `1상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2026-07-13 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.84
+`임상시험` `1상` `지지요법·삶의질` `치료 전반` `신약·치료제` · 2026-07-13 · ClinicalTrials.gov · M.D. Anderson Cancer Center · 중요도 0.84
 
 **NCT07700212** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07700212.md)
 
-이 임상시험은 항암화학요법을 받는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 OnVagus 기기를 이용한 경피적 좌측 미주신경 차단술(transcutaneous left vagal nerve blockade, tLFVB)의 안전성과 내인성을 평가하기 위해 진행됩니다. 주요 목적은 항암치료 중 기기를 착용했을 때의 안전성과 내인성을 확인하는 것이며, 체중 안정화 또는 증가로 정의되는 악액질(cachexia) 진행 억제율도 부수적으로 평가합니다. 연구에 참여하는 목표 환자 수는 10명입니다.
+항암 화학요법을 받는 전이성 췌장암 환자를 대상으로 OnVagus 장치를 이용한 피부 경유 미경골 신경 차단술(tLFVB)의 안전성과 내약성을 평가하는 1상 임상시험입니다. 암으로 인한 체중 감소 증상인 악액질(cachexia)의 억제 효과와 무진행 생존기간(PFS) 및 전체 생존기간(OS)에 미치는 영향을 조사합니다. 전이성 단계에서 1차 항암 치료 후 질병이 진행되었으며 체중이 5% 이상 감소한 환자 10명을 대상으로 진행됩니다.
 
-- 대상 질환은 전이성 췌장암이며 목표 인원은 10명입니다.
-- 중재 방법은 OnVagus 기기를 활용한 경피적 좌측 미주신경 차단술(tLFVB)입니다.
-- 주요 목표는 항암화학요법과 병행 시 기기의 안전성과 내인성 확인입니다.
-- 부수적 목표로 체중 안정화 또는 증가로 정의되는 악액질 억제율을 평가합니다.
+- OnVagus 장치를 이용한 미경골 신경 차단술의 안전성과 내약성을 1차 목표로 평가합니다.
+- 체중 유지 또는 증가를 기준으로 악액질 억제율을 측정하고 생존기간에 미치는 영향을 분석합니다.
+- 1차 항암 치료 후 질병이 진행되고 체중이 5% 이상 감소한 전이성 췌장암 환자 10명을 모집합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07700212) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07700212)</small>
 
@@ -52,7 +51,55 @@ search:
 - 장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.
 - 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786162/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+
+---
+<a id="pmid-43058631"></a>
+#### [조기 췌장암과 양성 종괴의 감별: 면역-영양 지표의 진단적 우수성](https://pubmed.ncbi.nlm.nih.gov/43058631/)
+<small>Differentiating early-stage pancreatic cancer from benign masses: the diagnostic superiority of immuno-nutritional indices</small>
+
+`논문` `관찰연구` `진단·조기발견` `지지요법·삶의질` · 2026-08-27 · PubMed · BMC Surg · 중요도 0.67
+
+수술 전 조기 췌관선암(PDAC)과 양성 또는 전암성 종괴를 정확히 감별하기 위해 전신 면역-영양 지표의 진단 가치를 분석한 연구입니다. 췌장 종괴로 수술적 절제를 받은 환자 75명(조기 췌장암 21명, 양성/전암성 54명)의 수술 전 일상적인 혈액 검사 결과를 후향적으로 평가했습니다. 분석 결과 PNI, CALLY, NLR, PLR 등의 면역-영양 지표가 표준 종양표지자인 CA 19-9보다 우수한 예측 성능을 보였습니다. 연구진은 이러한 비침습적 혈액 지표가 조기 췌장암 감별 진단을 보완하는 데 유용할 수 있다고 결론지었습니다.
+
+- 예후영양지수(PNI)는 AUC 0.757로 조기 췌장암 예측에서 가장 높은 진단 정확도를 기록했습니다.
+- 조기 췌장암군에서는 양성군에 비해 호중구-림프구 비율(NLR, p=0.010)과 혈소판-림프구 비율(PLR, p=0.007)이 유의하게 높았고, PNI(p=0.001) 및 CALLY(p=0.011) 수치는 유의하게 낮았습니다.
+- 다변량 회귀분석에서 PNI(OR 0.870), CALLY(OR 0.360), NLR(OR 2.204) 및 PLR은 표준 종양표지자 CA 19-9보다 우수한 독립적 악성 예측 인자로 나타났습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43058631/) · [DOI](https://doi.org/10.1186/s12893-026-04153-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786892/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43058631)</small>
+
+---
+<a id="nct-nct07949578"></a>
+#### [고위험군을 대상으로 한 DNA 메틸화 기반 다중암 조기 진단 검사의 실효성 평가 임상연구](https://clinicaltrials.gov/study/NCT07949578)
+<small>DNA Methylation-Based Testing for High Risk Populations</small>
+
+`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2026-11-19 · ClinicalTrials.gov · University of Colorado, Denver · 중요도 0.66
+
+**NCT07949578** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07949578.md)
+
+이 연구는 암 발생 위험이 높은 고위험군을 대상으로 다중암 조기 진단(MCED) 검사인 Galleri 검사의 실행 가능성을 평가하는 연구입니다. 암 관련 유전자의 병원성 변이를 가진 참가자와 고위험 췌장 낭종을 가진 참가자 총 176명을 대상으로 진행됩니다. 참여자는 다중암 조기 진단 검사를 받고, 검사 후 불안감 및 표준 암 검진 준수율을 평가하는 설문조사를 완료하게 됩니다.
+
+- 유전적 암 고위험군 및 고위험 췌장 낭종 환자 176명을 대상으로 다중암 조기 진단(MCED) 검사의 실용성을 평가합니다.
+- 검사 시행 후 환자의 심리적 불안 정도와 기존 표준 검진 준수 여부에 미치는 영향을 조사합니다.
+- 만 40세 이상의 성인을 대상으로 진행되는 조기 발견 및 감시 연구입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07949578) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
+
+---
+<a id="pmid-43063789"></a>
+#### [다중 오믹스 및 실험 분석을 통한 췌관선암종의 세포외 기질 리모델링 및 조절 T세포 매개 면역 억제 관련 IGF2BP3-MMP7 패턴 규명](https://pubmed.ncbi.nlm.nih.gov/43063789/)
+<small>Integrated multi-omics and experimental analyses characterize an IGF2BP3-MMP7-associated pattern in extracellular matrix remodeling and Treg-associated immune suppression in pancreatic adenocarcinoma</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-11-16 · PubMed · Neoplasia · 중요도 0.56
+
+본 연구는 췌관선암종(PAAD)에서 N6-메틸아데노신(m6A) 판독 단백질인 IGF2BP3이 암 진행과 종양 면역 미세환경 리모델링에 미치는 영향을 다중 오믹스 및 세포·동물 실험으로 분석했습니다. IGF2BP3은 췌관선암종에서 유의미하게 발현이 증가되어 있었으며 불량한 예후와 관련이 있었습니다. 연구진은 IGF2BP3 및 그 하위 후보 물질인 MMP7이 조절 T세포(Treg) 침윤 및 면역 억제성 미세환경 형성과 밀접한 공간적 상관관계를 보임을 확인했습니다. 아울러 약물 감수성 분석 및 분자 도킹을 통해 trametinib(트라메티닙)이 고위험군 췌관선암종을 위한 잠재적 치료 후보 물질로 도출되었습니다.
+
+- IGF2BP3 발현은 췌관선암종 환자에서 유의하게 높았으며 불량한 예후와 연관되어 있었습니다.
+- 세포 실험에서 IGF2BP3을 억제했을 때 Panc-1 암세포의 증식, 이동 및 침습이 변화하고 MMP1, MMP7, ITGA2 전사체의 안정성이 감소했습니다.
+- 단일 세포 및 공간 전사체 분석 결과, IGF2BP3과 MMP7은 조절 T세포(Treg)가 풍부한 면역 억제 미세환경과 유의미한 공간적 상관관계를 보였습니다.
+- 약물 감수성 전산 분석 및 분자 도킹 분석을 통해 trametinib(트라메티닙)이 고위험군 췌관선암종의 추가 연구 후보 물질로 제시되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43063789/) · [DOI](https://doi.org/10.1016/j.neo.2026.101406) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43063789)</small>
 
 ---
 <a id="pmid-43059951"></a>
@@ -68,21 +115,6 @@ search:
 - 거주 지역 결핍도와 ctDNA는 서로 독립적으로 생존 기간 단축을 예측하는 예후 인자였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43059951/) · [DOI](https://doi.org/10.21203/rs.3.rs-11395904/v1) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13778998/) · [NCT04616131](https://clinicaltrials.gov/study/NCT04616131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43059951)</small>
-
----
-<a id="pmid-43058631"></a>
-#### [조기 췌장암과 양성 종괴의 감별: 면역-영양 지표의 진단적 우수성](https://pubmed.ncbi.nlm.nih.gov/43058631/)
-<small>Differentiating early-stage pancreatic cancer from benign masses: the diagnostic superiority of immuno-nutritional indices</small>
-
-`논문` `관찰연구` `진단·조기발견` `지지요법·삶의질` · 2026-08-27 · PubMed · BMC Surg · 중요도 0.67
-
-수술 전 조기 췌관선암(PDAC)과 양성 또는 전암성 종괴를 정확히 감별하기 위해 전신 면역-영양 지표의 진단 가치를 분석한 연구입니다. 췌장 종괴로 수술적 절제를 받은 환자 75명(조기 췌장암 21명, 양성/전암성 54명)의 수술 전 일상적인 혈액 검사 결과를 후향적으로 평가했습니다. 분석 결과 PNI, CALLY, NLR, PLR 등의 면역-영양 지표가 표준 종양표지자인 CA 19-9보다 우수한 예측 성능을 보였습니다. 연구진은 이러한 비침습적 혈액 지표가 조기 췌장암 감별 진단을 보완하는 데 유용할 수 있다고 결론지었습니다.
-
-- 예후영양지수(PNI)는 AUC 0.757로 조기 췌장암 예측에서 가장 높은 진단 정확도를 기록했습니다.
-- 조기 췌장암군에서는 양성군에 비해 호중구-림프구 비율(NLR, p=0.010)과 혈소판-림프구 비율(PLR, p=0.007)이 유의하게 높았고, PNI(p=0.001) 및 CALLY(p=0.011) 수치는 유의하게 낮았습니다.
-- 다변량 회귀분석에서 PNI(OR 0.870), CALLY(OR 0.360), NLR(OR 2.204) 및 PLR은 표준 종양표지자 CA 19-9보다 우수한 독립적 악성 예측 인자로 나타났습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43058631/) · [DOI](https://doi.org/10.1186/s12893-026-04153-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43058631)</small>
 
 ---
 <a id="nct-nct04258813"></a>
@@ -132,23 +164,6 @@ search:
 - 평가 항목에는 타당성, 수용성, 영양 상태, 삶의 질, 의료 이용, 치료 전달, 보호자 결과, 생존율이 포함됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07826780) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07826780)</small>
-
----
-<a id="nct-nct07949578"></a>
-#### [고위험군 대상 DNA 메틸화 기반 다중 암 조기 발견 검사의 타당성 연구](https://clinicaltrials.gov/study/NCT07949578)
-<small>DNA Methylation-Based Testing for High Risk Populations</small>
-
-`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2026-11-19 · ClinicalTrials.gov · University of Colorado, Denver · 중요도 0.66
-
-**NCT07949578** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07949578.md)
-
-본 연구는 암 발생 고위험군을 대상으로 다중 암 조기 발견(MCED) 검사인 Galleri 검사의 타당성을 평가하는 임상시험입니다. 암 관련 생식세포 유전자 변이를 보유한 사람과 고위험 췌장 낭종을 가진 환자 총 176명을 대상으로 진행됩니다. 참여자는 MCED 검사를 받고 검사 후 불안감과 표준 선별검사 준수율을 평가하는 설문조사를 완료하게 됩니다.
-
-- 암 관련 유전자 변이 보유자 및 고위험 췌장 낭종 환자 총 176명을 대상으로 합니다.
-- 40세 이상의 암 고위험군에서 Galleri 다중 암 조기 발견(MCED) 검사의 타당성을 평가합니다.
-- 검사 시행 후 환자의 불안도 및 기존 표준 검진 준수 여부에 대한 설문 평가를 수행합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07949578) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
 
 ---
 <a id="nct-nct07627191"></a>
@@ -1834,55 +1849,5 @@ search:
 - 초록에 명시된 주요 평가지표는 기저 시점부터 60일째까지의 골격근지수(SMI, cm²/m²) 변화입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07883161) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07883161)</small>
-
----
-<a id="nct-nct05851534"></a>
-#### [췌장 수술 전 수정 가능한 위험 요소의 수술 전 최적화](https://clinicaltrials.gov/study/NCT05851534)
-<small>Preoperative Optimisation of Modifiable Risk Factors in Surgery of the Pancreas</small>
-
-`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2023-05-09 · ClinicalTrials.gov · Maastricht University Medical Center · 중요도 0.74
-
-**NCT05851534** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05851534.md)
-
-본 임상시험은 (의심되는) 췌장암 환자를 대상으로 수술 전 8가지 위험 요소를 선별하고 개입하는 재활 프로그램(prehabilitation program)이 수술 결과에 미치는 영향을 조사합니다. 목표 인원은 2575명이며 네덜란드의 13개 의료기관에서 진행되는 단계적 쐐기형 무작위 대조 시험(stepped-wedge randomized controlled trial)입니다. 주요 연구 질문은 췌장 수술 후 기능적 회복까지의 시간 단축 및 종합 합병증 지수(Comprehensive Complication Index)의 감소 여부입니다.
-
-- 목표 인원은 2575명이며 네덜란드 췌장암 그룹(DPCG) 소속 13개 센터가 참여합니다.
-- 수술 전 운동 능력, 영양 불량, 심리적 회복력, 빈혈, 당뇨 조절, 허약, 음주 및 흡연 등 8가지 위험 요소를 최적화합니다.
-- 대조군은 현재 진료 지침에 따른 수술 전 관리입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05851534) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05851534)</small>
-
----
-<a id="nct-nct05225428"></a>
-#### [결과 종속적 공개를 통한 동영상 교육(VERDI) 모델의 유전성 암 검사 접근성 개선 연구](https://clinicaltrials.gov/study/NCT05225428)
-<small>Video Education With Result Dependent dIsclosure</small>
-
-`임상시험` `기타` `진단·조기발견` `지지요법·삶의질` · 2022-02-04 · ClinicalTrials.gov · Dana-Farber Cancer Institute · 중요도 0.61
-
-**NCT05225428** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05225428.md)
-
-이 연구는 유전성 암 위험이 있는 다양한 환자군을 위해 유전자 검사 전 교육 대안으로 사용되는 VERDI(Video Education With Result Dependent dIsclosure) 모델의 접근성을 개선하기 위한 전략을 평가합니다. 연구는 질적 평가와 무작위 대조 임상시험(RCT)의 두 부분으로 구성됩니다. 질적 평가는 20명의 참가자를 대상으로 교육 동영상 시청 후 인터뷰를 진행합니다. 무작위 대조 임상시험은 1000명의 참가자를 대상으로 VERDI 모델과 표준 유전 상담을 비교 평가합니다.
-
-- 유전성 암 위험이 있는 환자를 대상으로 유전자 검사 전 교육 모델의 접근성을 평가합니다.
-- 질적 평가에는 총 20명의 참가자가 참여하여 교육 동영상 시청 및 인터뷰를 진행합니다.
-- 무작위 대조 임상시험(RCT)에는 총 1000명의 참가자가 등록하여 VERDI 모델과 표준 유전 상담을 비교합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05225428) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05225428)</small>
-
----
-<a id="doi-10.64898-2026.10.14.758481"></a>
-#### [자발적 쳇바퀴 운동은 지속적인 전신 이상에도 불구하고 췌장암 악액질 상태에서 골격근을 선택적으로 보존함](https://europepmc.org/article/PPR/PPR1347441)
-<small>Voluntary wheel running selectively preserves skeletal muscle during pancreatic cancer cachexia despite persistent systemic alterations</small>
-
-`프리프린트` `전임상` `기초연구` `지지요법·삶의질` · 2026-10-20 · Europe PMC (preprint) · bioRxiv · 중요도 0.56
-
-췌장 암 악액질(pancreatic cancer cachexia) 쥐 모델에서 자발적 쳇바퀴 운동(VWR)과 트레드밀 운동(TR)의 생체 영향을 비교 평가했습니다. 연구 결과, 자발적 쳇바퀴 운동은 종양 성장을 늦추고 체중 감소를 완화하며 골격근 질량을 선택적으로 보존했습니다. 반면 트레드밀 운동은 근육 보존 효과를 보이지 않았고 지방 손실이 더 크게 나타났습니다. 이번 연구는 췌장암 악액질에서 운동 방식에 따라 조직별 반응성이 다르게 나타남을 보여줍니다.
-
-- 자발적 쳇바퀴 운동(VWR)은 췌장암 악액질 쥐 모델에서 종양 성장을 늦추고 근육량을 선택적으로 보존했습니다.
-- 종양 크기 영향을 보정한 후에도 근육 보존 효과가 유지되어 운동 자체의 이점이 확인되었습니다.
-- 트레드밀 운동(TR)은 근육 보존 효과를 나타내지 못했으며 오히려 체중 감소와 지방 손실을 악화시켰습니다.
-- 전신 염증, 간 대사 변화, 지방 조직 감소 등의 악액질 상태는 운동 진행 중에도 대부분 유지되었습니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1347441) · [DOI](https://doi.org/10.64898/2026.10.14.758481) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.64898/2026.10.14.758481)</small>
 
 ---

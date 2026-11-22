@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic adenocarcinoma (PAAD) is characterized by extensive extracellular matrix (ECM) remodeling and a profoundly immunosuppressive tumor microenvironment. As an important N6-methyladenosine (m6A) reader, insulin-like growth factor 2 mRNA-binding protein 3 (IGF2BP3) has been implicated in tumor progression; however, its downstream regulatory network and potential role in immune microenvironment remodeling remain incompletely understood.\nMETHODS: Public datasets from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) were analyzed to identify prognostic IGF2BP3-related genes. Functional enrichment analysis, prognostic model construction, immune infiltration analysis, somatic mutation profiling, single-cell RNA sequencing, spatial transcriptomic analysis, and CellChat-based cell-cell communication analysis were performed. In vitro experiments, including qRT-PCR, western blotting, wound healing, transwell, CCK-8, and RNA stability assays, were conducted to evaluate the cellular effects of IGF2BP3 silencing. Multiplex immunofluorescence, immunohistochemistry, an orthotopic syngeneic mouse model, drug sensitivity analysis, and molecular docking were further performed to explore immune microenvironment associations and potential therapeutic implications.\nRESULTS: IGF2BP3 was significantly upregulated in PAAD and associated with poor prognosis. MMP1, MMP7, and ITGA2 were identified as candidate IGF2BP3-associated ECM-related genes. IGF2BP3 knockdown was associated with changes in the proliferation, migration, and invasion of Panc-1 cells and was accompanied by decreased stability of these transcripts. A prognostic signature consisting of IGF2BP3, MMP1, MMP7, and ITGA2 demonstrated consistent prognostic stratification across multiple independent cohorts. Single-cell transcriptomic analyses revealed predominant expression of these genes in epithelial cell populations and highlighted their potential association with PAAD-related cellular states and intercellular communication. Among the downstream targets, MMP7 emerged as a candidate downstream effector based on RNA stability assays, SHAP feature importance analysis, gene interaction network analysis, and single-cell expression profiling. Both IGF2BP3 and MMP7 were positively associated with regulatory T-cell (Treg) infiltration. Spatial transcriptomic analyses further demonstrated significant spatial correlations among IGF2BP3, MMP7, and Treg-enriched immune niches, while multiplex immunofluorescence, immunohistochemistry, and an orthotopic syngeneic mouse model supported their association with immunosuppressive microenvironment features. Drug sensitivity analysis computationally prioritized Trametinib as a candidate for further investigation in high-risk PAAD, while molecular docking suggested favorable predicted interactions between Trametinib and the four signature proteins.\nCONCLUSIONS: IGF2BP3 was associated with PAAD progression, and its depletion was accompanied by reduced stability of ECM-associated transcripts and changes in the tumor immune microenvironment. Integrated bulk transcriptomic, single-cell transcriptomic, spatial transcriptomic, and experimental analyses identify MMP7 as a candidate downstream effector associated with IGF2BP3 and suggest that the IGF2BP3-MMP7-associated pattern is related to Treg-enriched immunosuppressive niches in PAAD. Furthermore, Trametinib was identified as a hypothesis-generating therapeutic candidate for further evaluation in high-risk PAAD.",
+ "authors": [
+  "Lu C",
+  "He Y",
+  "Wang W"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43063789",
+ "importance": 0.56,
+ "key_points_ko": [
+  "IGF2BP3 발현은 췌관선암종 환자에서 유의하게 높았으며 불량한 예후와 연관되어 있었습니다.",
+  "세포 실험에서 IGF2BP3을 억제했을 때 Panc-1 암세포의 증식, 이동 및 침습이 변화하고 MMP1, MMP7, ITGA2 전사체의 안정성이 감소했습니다.",
+  "단일 세포 및 공간 전사체 분석 결과, IGF2BP3과 MMP7은 조절 T세포(Treg)가 풍부한 면역 억제 미세환경과 유의미한 공간적 상관관계를 보였습니다.",
+  "약물 감수성 전산 분석 및 분자 도킹 분석을 통해 trametinib(트라메티닙)이 고위험군 췌관선암종의 추가 연구 후보 물질로 제시되었습니다."
+ ],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1016/j.neo.2026.101406",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43063789"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Neoplasia",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063789/"
+ },
+ "summary_ko": "본 연구는 췌관선암종(PAAD)에서 N6-메틸아데노신(m6A) 판독 단백질인 IGF2BP3이 암 진행과 종양 면역 미세환경 리모델링에 미치는 영향을 다중 오믹스 및 세포·동물 실험으로 분석했습니다. IGF2BP3은 췌관선암종에서 유의미하게 발현이 증가되어 있었으며 불량한 예후와 관련이 있었습니다. 연구진은 IGF2BP3 및 그 하위 후보 물질인 MMP7이 조절 T세포(Treg) 침윤 및 면역 억제성 미세환경 형성과 밀접한 공간적 상관관계를 보임을 확인했습니다. 아울러 약물 감수성 분석 및 분자 도킹을 통해 trametinib(트라메티닙)이 고위험군 췌관선암종을 위한 잠재적 치료 후보 물질로 도출되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Integrated multi-omics and experimental analyses characterize an IGF2BP3-MMP7-associated pattern in extracellular matrix remodeling and Treg-associated immune suppression in pancreatic adenocarcinoma",
+ "title_ko": "다중 오믹스 및 실험 분석을 통한 췌관선암종의 세포외 기질 리모델링 및 조절 T세포 매개 면역 억제 관련 IGF2BP3-MMP7 패턴 규명",
+ "trial": null,
+ "type": "paper"
+}

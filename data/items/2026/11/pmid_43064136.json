@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is highly aggressive and has a poor prognosis. Perineural invasion (PNI), a characteristic pathological feature of PDAC, is closely associated with postoperative recurrence and cancer-related pain. PDAC is also characterized by a prominent fibrotic microenvironment, but how tumor cells sense abnormal matrix cues and translate them into signals related to neural invasion remains unclear. In this study, we established distinct matrix conditions using different GelMA concentrations and combined transcriptomic and spatial transcriptomic analyses, cellular functional assays, and tissue validation to examine the potential role of the mechanosensitive ion channel PIEZO1 in matrix responses and neurotrophic alterations in PDAC. Different GelMA conditions altered PDAC cell aggregation and intracellular Ca2+ levels and were accompanied by extensive transcriptional remodeling. Mechanosensing-related genes, including PIEZO1, and genes associated with neurotrophic signaling, including BDNF, changed across matrix conditions. Spatial transcriptomic analysis showed that PIEZO1 was enriched in PDAC PNI regions and displayed a spatial gradient: F2RL1/PAR2 was also enriched in PNI regions. Public database analysis showed that high F2RL1 expression was associated with shorter survival and positively correlated with PIEZO1 expression. Pharmacological modulation of PIEZO1 activity was accompanied by corresponding changes in NGF, BDNF, PRSS1, and F-actin. In mouse PNI tissues, PIEZO1 inhibition reduced PIEZO1, NGF, and PRSS1 expression and attenuated the EMT-related phenotype. These findings connect GelMA-dependent cellular responses with PIEZO1-associated signaling and identify PRSS1 and PAR2 as candidate molecules involved in PDAC PNI.",
+ "authors": [
+  "Tang J",
+  "Wang H",
+  "Zhuang Y",
+  "Liu J",
+  "Wu H",
+  "Liu Q",
+  "Gao F"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-22",
+ "history": [
+  {
+   "date": "2026-11-22",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43064136",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-22",
+ "links": {
+  "doi": "10.1016/j.yexcr.2026.115234",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43064136"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Exp Cell Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064136/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is highly aggressive and has a poor prognosis. Perineural invasion (PNI), a characteristic pathological feature of PDAC, is closely associated with postoperative recurrence and cancer-related pain.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Matrix Cues Modulate Neurotrophic Signaling through PIEZO1 in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
