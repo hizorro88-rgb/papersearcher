@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) exhibits invasive growth and resistance to gemcitabine. We investigated how the actin-binding protein ACTN4 connects invasive behavior with WNT/β-catenin signaling. Elevated ACTN4 expression was associated with poorer survival in public PDAC cohorts and metastatic disease in genetically engineered mice. ACTN4 depletion reduced TGF-β1-induced invasion, focal adhesion signaling, and WNT activity, while increasing gemcitabine sensitivity in cells and organoids. Biochemical analyses and genetic rescue experiments linked Ser159-dependent ACTN4 activity to HDAC7 stability, reduced DACT2 expression, and β-catenin-dependent transcription. DACT2 depletion partially reversed the effects of ACTN4 loss. Ellagic acid reduced ACTN4-HDAC7 complex recovery and attenuated associated signaling. These findings support a functional model connecting ACTN4 to HDAC7-DACT2 regulation and identify an ACTN4-associated signaling axis relevant to PDAC invasion and gemcitabine response.",
+ "authors": [
+  "Liu H",
+  "Huang YC",
+  "Chen KY",
+  "Chen CC",
+  "Li C",
+  "Liu CT",
+  "Fang SY",
+  "Yu CY"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43068304",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1016/j.isci.2026.118227",
+  "nct": [],
+  "pmcid": "PMC13788853",
+  "pmid": "43068304"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "iScience",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068304/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) exhibits invasive growth and resistance to gemcitabine. We investigated how the actin-binding protein ACTN4 connects invasive behavior with WNT/β-catenin signaling.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "ACTN4 promotes invasive phenotypes and WNT/β-catenin signaling through HDAC7-DACT2 regulation in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,58 @@
+{
+ "abstract": "OBJECTIVE: Pancreatic cancer has a poor prognosis and marked heterogeneity, whereas existing pathomics models generally lack biological interpretability. We aimed to construct the pathomics prognostic score GlyPath-Risk and explore the molecular states associated with the high-risk phenotype captured by the score.\nMETHODS: We integrated H&E whole-slide images from TCGA-PAAD and Fujian Medical University Union Hospital (FMUUH), extracted handcrafted and deep-learning features using CellProfiler and an ImageNet-pretrained ResNet-50, and constructed GlyPath-Risk using a combined LASSO and random survival forest model. Prognostic performance was evaluated in training, internal validation, and FMUUH cohorts. Correlation analysis, weighted gene co-expression network analysis (WGCNA), gene set enrichment analysis (GSEA), and xCell immune-infiltration estimation were used to investigate associations among GlyPath-Risk, the glycosylation transcriptional program, and the tumor microenvironment. Single-cell transcriptomics, CellChat cell-cell communication analysis, Geneformer virtual perturbation, and B3GNT3 knockdown experiments were used to generate and evaluate candidate biological hypotheses.\nRESULTS: GlyPath-Risk comprised six pathological features and showed C-indices of 0.88, 0.68, and 0.83 in the training, internal validation, and FMUUH cohorts, respectively. Its association with overall survival remained after adjustment for age, sex, and clinical stage in the reported Cox model (multivariable HR = 1.230). The glycosylation gene set showed the strongest mean absolute correlation with pathological features among 20 post-translational modification classes. WGCNA identified six co-expression modules significantly associated with GlyPath-Risk (BH-FDR < 0.05), including a blue module containing B3GNT3. Immune-cell score analyses showed nominal associations with selected immune- and vascular-related scores, but none of 51 candidate scores reached BH-FDR < 0.05. Single-cell analysis suggested differences in predicted outgoing communication from B3GNT3-high and B3GNT3-low tumor cells, while virtual perturbation identified transcriptional states associated with perturbation sensitivity. B3GNT3 knockdown was associated with reduced proliferation and altered macrophage-associated markers in conditioned-medium experiments.\nCONCLUSION: GlyPath-Risk showed prognostic associations across the evaluated cohorts. The score was associated with a B3GNT3-related glycosylation transcriptional program and may be related to immune- and vascular-related transcriptomic features. These findings provide a testable framework for investigating the biological correlates of pathomics scores and nominate B3GNT3 as a candidate molecular anchor requiring independent validation.",
+ "authors": [
+  "Lin J",
+  "Chen C",
+  "Li J",
+  "Pan Y"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43065702",
+ "importance": 0.64,
+ "key_points_ko": [
+  "GlyPath-Risk 모델은 훈련 코호트에서 0.88, 내부 검증 코호트에서 0.68, 외부 FMUUH 코호트에서 0.83의 C-지수(C-index) 예후 예측 정확도를 보였습니다.",
+  "다변량 콕스 회귀 분석 결과 연령, 성별, 병기를 조절한 후에도 GlyPath-Risk는 전체 생존기간(OS)과 유의미하게 연관되었습니다(위험비 1.230).",
+  "20가지 번역 후 수식화 클래스 중 당화 유전자 세트가 병리 특성과 가장 강한 상관관계를 보였으며, B3GNT3 억제 시 세포 증식이 감소했습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1994542",
+  "nct": [],
+  "pmcid": "PMC13785285",
+  "pmid": "43065702"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-06",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065702/"
+ },
+ "summary_ko": "연구진은 췌장 암 조직의 H&E 이미지와 딥러닝 기법을 활용하여 예후를 예측하는 병리 기반 위험 점수 모델인 GlyPath-Risk를 개발했습니다. 이 점수 모델은 TCGA-PAAD 코호트와 FMUUH 코호트에서 예후 예측 성능(C-지수 0.68~0.88)을 보였습니다. 분석 결과 GlyPath-Risk 점수는 당화(glycosylation) 유전자 프로그램 및 B3GNT3 유전자와 밀접하게 연관되어 있었습니다. 세포 실험에서는 B3GNT3 억제 시 암세포 증식이 감소하고 대식세포 관련 표지자에 변화가 나타남을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "High-risk pancreatic cancer pathology reveals a B3GNT3-associated glycosylation program",
+ "title_ko": "고위험 췌장암 병리학적 특성 분석을 통해 밝혀낸 B3GNT3 관련 당화 프로그램",
+ "trial": null,
+ "type": "paper"
+}

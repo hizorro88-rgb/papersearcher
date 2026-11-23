@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,376</b><span>누적 수집<br><small>논문·소식 783 · 임상시험 593</small></span></div><div class="ps-stat"><b>+6</b><span>오늘 신규<br><small>갱신 21건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,391</b><span>누적 수집<br><small>논문·소식 798 · 임상시험 593</small></span></div><div class="ps-stat"><b>+15</b><span>오늘 신규<br><small>갱신 13건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-22](_generated/daily/2026/11/22.md)
+최근 수집일: [2026-11-23](_generated/daily/2026/11/23.md)
 
 <a id="nct-nct07491445"></a>
 #### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
@@ -63,15 +63,21 @@
 - 방법론적 질(METRICS) 중앙값은 52.4%(45~60%), 라디오믹스 연구 평가 체크리스트(CLEAR) 점수 중앙값은 62.3%(56~69%)로 나타났습니다.
 - 영상 획득 및 재구성 조건의 누락이 흔하여 연구 결과의 재현성과 신뢰성에 한계가 있음을 확인했습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062619/) · [DOI](https://doi.org/10.1186/s41747-026-00837-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062619)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062619/) · [DOI](https://doi.org/10.1186/s41747-026-00837-5) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13788147/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062619)</small>
 
 ---
-<a id="pmid-43064878"></a>
-#### [Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment](https://pubmed.ncbi.nlm.nih.gov/43064878/)
-`논문` `가이드라인` `치료 전반` `진단·조기발견` `수술` · 2026-11-20 · PubMed · Insights Imaging · 중요도 0.95
+<a id="pmid-43068365"></a>
+#### [췌관선암 고위험군을 위한 췌장암 감시 검사 지침서](https://pubmed.ncbi.nlm.nih.gov/43068365/)
+<small>[Position paper: surveillance for pancreatic cancer in individuals at elevated risk for pancreatic ductal adenocarcinoma]</small>
 
-OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification.
+`논문` `가이드라인` `진단·조기발견` · 2026-11-01 · PubMed · Harefuah · 중요도 0.90
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43064878/) · [DOI](https://doi.org/10.1186/s13244-026-02451-w) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43064878)</small>
+본 지침서는 유전적 또는 가족성 위험이 높은 췌관선암(PDAC) 고위험군을 대상으로 한 조기 발견 및 감시 검사 권고안을 다룹니다. 적절한 대상군에서 수행하는 조기 발견 프로그램은 완치 가능한 단계에서의 진단과 수술적 치료를 가능하게 합니다. BRCA2 등 특정 유전자 변이 보유자나 췌장암 가족력이 있는 고위험군에게 자기공명영상(MRI) 또는 내시경 초음파(EUS)를 통한 매년 감시 검사가 권장됩니다. 다만 수술을 원하지 않거나 건강 상태상 수술이 불가능한 대상자는 감시 프로그램 참여 이점이 없습니다.
+
+- BRCA2 등 특정 유전자 변이 보유자 또는 강한 가족력이 있는 고위험군에게 MRI 또는 내시경 초음파(EUS)를 이용한 연간 감시 검사를 권장합니다.
+- 적절한 연령에 시작하는 고위험군 췌장암 조기 발견 프로그램은 임상적 효과와 비용 효과성이 확인되었습니다.
+- 의학적 상태로 인해 수술이 불가능하거나 수술적 치료를 원하지 않는 경우에는 감시 검사의 이점이 없습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43068365/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43068365)</small>
 
 ---

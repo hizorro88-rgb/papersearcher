@@ -16,36 +16,85 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 365건 · 최근 30일 186건
+전체 368건 · 최근 30일 185건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
-<a id="pmid-43064878"></a>
-#### [Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment](https://pubmed.ncbi.nlm.nih.gov/43064878/)
-`논문` `가이드라인` `치료 전반` `진단·조기발견` `수술` · 2026-11-20 · PubMed · Insights Imaging · 중요도 0.95
-
-OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43064878/) · [DOI](https://doi.org/10.1186/s13244-026-02451-w) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43064878)</small>
-
----
 <a id="nct-nct07698613"></a>
-#### [국소 진행성 및 경계성 수술 가능 췌장암 환자를 위한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
+#### [국소 진행성 췌장암 환자를 대상으로 한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
 <small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-13 · ClinicalTrials.gov · Brown University · 중요도 0.87
 
 **NCT07698613** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07698613.md)
 
-이 임상시험은 국소 진행성 또는 경계성 수술 가능 췌장암 환자를 대상으로 ASP-1929 광면역치료(PIT)의 안전성과 초기 유효성을 평가하기 위한 연구입니다. 선행 보조 항암화학요법을 완료하고 수술적 탐색을 계획 중인 환자 30명을 대상으로 진행됩니다. 치료는 마지막 항암화학요법 및 방사선 치료 종료 후 4~10주 뒤에 시행됩니다.
+이 임상시험은 국소 진행성 및 경계성 수술 가능 췌장암 환자를 대상으로 ASP-1929 광면역치료(PIT)의 안전성과 초기 유효성을 평가하기 위한 1/2상 연구입니다. 선행 항암화학요법(neoadjuvant chemotherapy)을 완료한 환자 중 수술적 탐색술을 계획 중인 약 30명을 대상으로 진행됩니다. 이전 치료 종료 후 4~10주 뒤 수술 전에 치료를 진행하여 효능 및 안전성을 확인합니다.
 
-- 선행 항암치료를 완료한 국소 진행성 및 경계성 수술 가능 췌장암 환자 30명을 대상으로 합니다.
-- 표적 광면역치료제인 ASP-1929의 안전성과 초기 치료 효과를 확인합니다.
-- 원격 전이가 없는 환자를 대상으로 수술 전 탐색 단계에서 중재 치료를 평가합니다.
+- 선행 항암화학요법을 완료하고 수술을 계획 중인 국소 진행성 및 경계성 수술 가능 췌장암 환자 30명을 대상으로 합니다.
+- ASP-1929를 이용한 광면역치료(PIT)의 안전성과 초기 치료 효과를 평가하는 1/2상 연구입니다.
+- 항암치료 및 방사선 치료 종료 후 최소 4~10주 뒤 수술 전에 광면역치료를 진행합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07698613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07698613)</small>
+
+---
+<a id="pmid-43064878"></a>
+#### [췌관선암 수술 후 종양 이질성 및 미세환경을 반영한 예후 분류 향상 연구](https://pubmed.ncbi.nlm.nih.gov/43064878/)
+<small>Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment</small>
+
+`논문` `관찰연구` `수술` `진단·조기발견` `치료 전반` · 2026-11-20 · PubMed · Insights Imaging · 중요도 0.77
+
+본 연구는 완전 절제 수술(R0 절제)을 받은 췌관선암(PDAC) 환자 592명을 대상으로 딥러닝(DL) 기반 조영증강 CT 영상 분석과 임상병리 변수를 결합한 예후 예측 시스템(IPSS-PDAC)을 개발하고 검증했습니다. 다면적 CT 영상을 활용한 딥러닝 모델(OP-PDAC)은 1년 무병 생존기간(DFS) 예측에서 C-index 0.807~0.844의 높은 정확도를 보였습니다. 임상병리 변수를 추가한 통합 시스템(IPSS-PDAC)은 C-index 0.836~0.871을 기록하며 무병 생존기간과 전체 생존기간(OS) 위험군을 효과적으로 구분했습니다. 방사선유전체학 분석 결과 고위험군 환자는 면역억제성 종양 미세환경(TME) 및 CD8+ T세포 침윤 감소 특성을 나타냈습니다.
+
+- 수술(R0 절제)을 받은 췌장암 환자 592명의 CT 영상 및 임상 정보를 기반으로 딥러닝 예후 예측 모델을 구축했습니다.
+- 통합 예후 예측 시스템(IPSS-PDAC)의 1년 무병 생존기간(DFS) 예측 성능(C-index 0.836~0.871)은 기존 임상병리 모델(C-index 0.631~0.656)보다 유의하게 높았습니다.
+- 고위험군 환자는 면역억제성 종양 미세환경, 기질 점수 증가, CD8+ T세포 침윤 감소의 생물학적 특징을 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43064878/) · [DOI](https://doi.org/10.1186/s13244-026-02451-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13788141/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43064878)</small>
+
+---
+<a id="pmid-43067642"></a>
+#### [췌장암 절제술 후 재발을 예측하는 수술 전 분변 발레르산 농도](https://pubmed.ncbi.nlm.nih.gov/43067642/)
+<small>ASO Visual Abstract: Preoperative Fecal Valeric Acid Concentration Predicts Recurrence After Pancreatectomy for Pancreatic Cancer</small>
+
+`논문` `관찰연구` `수술` `진단·조기발견` · 2026-11-21 · PubMed · Ann Surg Oncol · 중요도 0.77
+
+본 연구는 췌장 절제술을 시행받는 췌장암 환자에서 수술 전 분변 발레르산(valeric acid) 농도가 수술 후 재발을 예측하는 지표가 될 수 있음을 보여줍니다. 구체적인 연구 대상 환자 수, 재발 위험비, 관찰 기간 등 세부 연구 결과는 초록에 명시되지 않았습니다. 본 논문은 Annals of Surgical Oncology에 게재된 시각적 초록입니다.
+
+- 수술 전 분변 발레르산(valeric acid) 농도가 췌장암 절제술 후 재발 예측 인자로 제시되었습니다.
+- 세부 연구 수치 및 구체적인 수술 후 경과 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43067642/) · [DOI](https://doi.org/10.1245/s10434-026-20933-5) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43067642)</small>
+
+---
+<a id="pmid-43067639"></a>
+#### [ASO 시각적 초록: 재발성 췌관선암 절제술에서 수술 전 CA19-9 및 면역영양 상태에 따른 전체 생존기간 층화](https://pubmed.ncbi.nlm.nih.gov/43067639/)
+<small>ASO Visual Abstract: Resection for Recurrent Pancreatic Ductal Adenocarcinoma: Preoperative CA19-9 and Host Immunonutritional Status Stratify Overall Survival</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-11-21 · PubMed · Ann Surg Oncol · 중요도 0.67
+
+재발성 췌관선암(PDAC) 환자의 수술 전 CA19-9 수치 및 면역영양 상태가 절제술 후 전체 생존기간(OS)에 미치는 영향을 분석한 논문입니다. 수술 전 평가 지표를 통해 재발성 췌장암 환자의 생존 결과를 예측하고 위험군을 층화할 수 있음을 제시합니다. 세부 연구 수치 및 관련 구체적 결과는 초록에 명시되지 않았습니다.
+
+- 재발성 췌관선암 환자의 절제술 전 CA19-9 및 면역영양 상태가 전체 생존기간(OS) 예측에 활용될 수 있습니다.
+- 구체적인 대상 환자 수 및 생존율 통계 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43067639/) · [DOI](https://doi.org/10.1245/s10434-026-20932-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43067639)</small>
+
+---
+<a id="pmid-43065141"></a>
+#### [화학면역요법으로 완전 관해를 보인 진행성 췌관선암 환자: 증례 보고 및 단일세포 전사체 분석](https://pubmed.ncbi.nlm.nih.gov/43065141/)
+<small>Advanced Pancreatic Adenocarcinoma With Complete Response to Chemoimmunotherapy: A Case Report and Single-Cell Profiling</small>
+
+`논문` `증례` `신약·치료제` `치료 전반` `기초연구` `수술` · 2026-11-20 · PubMed · Cancer Sci · 중요도 0.61
+
+젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(albumin-bound paclitaxel)과 PD-1 억제제를 병용한 화학면역요법을 받고 완전 관해(CR)에 도달한 전이성 췌장암 환자 1명의 증례를 보고했습니다. 이 환자는 진단 4년 후에도 질병이 재발하지 않고 무병 상태를 유지하고 있습니다. 연구진은 동일한 치료를 받은 환자 7명의 말초혈액단핵구(PBMC)를 단일세포 RNA 시퀀싱(scRNA-seq)으로 분석하여 면역 기전을 조사했습니다. 분석 결과 치료 반응군에서 말단 분화 CD8+ T세포(Temra)와 인터페론 자극 유전자 발현 CD4+ T 도움세포(ISG+ Th)가 유의하게 증가한 것으로 나타났습니다.
+
+- 전이성 췌장암 환자 1명이 항암화학요법(젬시타빈+알부민 결합 파클리탁셀)과 PD-1 억제제 병용 치료로 완전 관해를 얻고 4년간 무병 상태를 지속했습니다.
+- 동일 치료를 받은 환자 7명의 혈액 분석에서 치료 반응군은 CD8+ Temra 및 CD4+ ISG+ Th 세포가 풍부하게 증가했습니다.
+- 이러한 세포들의 상호작용은 세포독성 및 면역 활성화 경로와 연관되어 화학면역요법의 지속 반응 지표로서 말초 혈액 분석의 가능성을 제시했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43065141/) · [DOI](https://doi.org/10.1111/cas.70599) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13788248/) · [NCT05201729](https://clinicaltrials.gov/study/NCT05201729) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43065141)</small>
 
 ---
 <a id="pmid-43062045"></a>
@@ -63,19 +112,19 @@ OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal posto
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786162/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
 
 ---
-<a id="pmid-43065141"></a>
-#### [화학면역요법으로 완전 관해를 보인 진행성 췌관선암 환자: 증례 보고 및 단일세포 전사체 분석](https://pubmed.ncbi.nlm.nih.gov/43065141/)
-<small>Advanced Pancreatic Adenocarcinoma With Complete Response to Chemoimmunotherapy: A Case Report and Single-Cell Profiling</small>
+<a id="pmid-43063546"></a>
+#### [간췌장암 수술 후 퇴원 경로에 따른 건강 결과 및 치료 비용 비교: SEER-Medicare 분석](https://pubmed.ncbi.nlm.nih.gov/43063546/)
+<small>Comparing health outcomes and costs of care by discharge disposition after hepatopancreatic cancer surgery: Insights from SEER-medicare</small>
 
-`논문` `증례` `신약·치료제` `치료 전반` `기초연구` `수술` · 2026-11-20 · PubMed · Cancer Sci · 중요도 0.61
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-13 · PubMed · Am J Surg · 중요도 0.68
 
-젬시타빈(gemcitabine) 및 알부민 결합 파클리탁셀(albumin-bound paclitaxel)과 PD-1 억제제를 병용한 화학면역요법을 받고 완전 관해(CR)에 도달한 전이성 췌장암 환자 1명의 증례를 보고했습니다. 이 환자는 진단 4년 후에도 질병이 재발하지 않고 무병 상태를 유지하고 있습니다. 연구진은 동일한 치료를 받은 환자 7명의 말초혈액단핵구(PBMC)를 단일세포 RNA 시퀀싱(scRNA-seq)으로 분석하여 면역 기전을 조사했습니다. 분석 결과 치료 반응군에서 말단 분화 CD8+ T세포(Temra)와 인터페론 자극 유전자 발현 CD4+ T 도움세포(ISG+ Th)가 유의하게 증가한 것으로 나타났습니다.
+본 연구는 췌관선암(PDAC) 또는 간내 담도암(iCCA)으로 수술을 받은 65세 이상 환자를 대상으로 퇴원 경로(자택, 가정간호서비스, 전문간호시설, 병원 간 전원)에 따른 예후와 비용을 분석했습니다. 총 4,646명의 환자 중 46.7%가 자택, 32.6%가 가정간호서비스(HHA), 17.2%가 전문간호시설(SNF)로 퇴원했습니다. HHA 퇴원 환자와 비교했을 때, SNF 퇴원 환자는 수술 후 보조 항암치료 및 종양학적 추적관찰을 받을 가능성이 낮았으며 90일 사망률과 재입원율이 더 높았습니다. 결론적으로 수술 후 HHA 이용이나 자택 퇴원이 전문간호시설 이동보다 양호한 회복 결과를 보였습니다.
 
-- 전이성 췌장암 환자 1명이 항암화학요법(젬시타빈+알부민 결합 파클리탁셀)과 PD-1 억제제 병용 치료로 완전 관해를 얻고 4년간 무병 상태를 지속했습니다.
-- 동일 치료를 받은 환자 7명의 혈액 분석에서 치료 반응군은 CD8+ Temra 및 CD4+ ISG+ Th 세포가 풍부하게 증가했습니다.
-- 이러한 세포들의 상호작용은 세포독성 및 면역 활성화 경로와 연관되어 화학면역요법의 지속 반응 지표로서 말초 혈액 분석의 가능성을 제시했습니다.
+- 수술을 받은 고령 췌장암 및 간내 담도암 환자 4,646명 중 17.2%가 전문간호시설(SNF)로, 32.6%가 가정간호서비스(HHA)로 퇴원했습니다.
+- HHA 퇴원 대비 SNF 퇴원은 수술 후 보조 항암화학요법(adjuvant chemotherapy)을 받을 확률을 46% 낮추었으며(aOR 0.54), 90일 사망률을 2.06배 높였습니다.
+- 자택으로 직접 퇴원한 환자는 90일 재입원 위험이 22% 감소했습니다(aOR 0.78).
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43065141/) · [DOI](https://doi.org/10.1111/cas.70599) · [NCT05201729](https://clinicaltrials.gov/study/NCT05201729) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43065141)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43063546/) · [DOI](https://doi.org/10.1016/j.amjsurg.2026.117357) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43063546)</small>
 
 ---
 <a id="nct-nct06752811"></a>
@@ -2339,52 +2388,5 @@ OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal posto
 - 수술 후에는 표준 치료에 따른 보조 항암화학요법과 선택적 보조 daraxonrasib 치료를 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07898813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07898813)</small>
-
----
-<a id="pmid-42950589"></a>
-#### [2012년부터 2021년까지 췌장선암 환자의 선행보조항암화학요법 이용에 대한 전국적 경향](https://pubmed.ncbi.nlm.nih.gov/42950589/)
-<small>Nationwide Trends in Neoadjuvant Chemotherapy Utilization for Pancreatic Adenocarcinoma From 2012 to 2021</small>
-
-`논문` `관찰연구` `치료 전반` `수술` · 2026-10-28 · PubMed · J Surg Res · 중요도 0.77
-
-본 연구는 2012년부터 2021년까지 수술을 받은 병기 I~III기 췌장선암(PDAC) 환자 28,458명의 미국 전국 암 데이터베이스 자료를 분석했습니다. 분석 결과 수술 전 선행보조항암화학요법(NAC)을 받은 환자의 비율이 2012년 28%에서 2021년 65%로 유의하게 증가했습니다. 이러한 증가세는 특히 1기와 2기 췌장암 환자에서 두드러졌습니다. 학술 연구 기관 치료 여부, 젊은 연령, 높은 T 병기 등이 NAC 치료를 받을 가능성을 높이는 주요 요인으로 나타났습니다.
-
-- 전체 환자 중 선행보조항암화학요법(NAC)을 받은 비율이 2012년 28%에서 2021년 65%로 크게 증가했습니다(P < 0.001).
-- 병기 1기와 2기 췌장암 환자에서 NAC 치료 비율이 유의하게 증가했습니다(P < 0.01).
-- 학술 연구 기관에서 치료받은 환자의 NAC 비율(51%)이 지역 종합 병원(37%)보다 유의하게 높았습니다(P < 0.001).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42950589/) · [DOI](https://doi.org/10.1016/j.jss.2026.09.037) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42950589)</small>
-
----
-<a id="pmid-42950772"></a>
-#### [해부학적으로 절제 가능한 췌관선암에서 수술 전 선행치료에 관한 국제 설문조사(INSPIRA): 실제 임상 현황](https://pubmed.ncbi.nlm.nih.gov/42950772/)
-<small>International survey on neoadjuvant treatments in anatomically resectable pancreatic adenocarcinoma (INSPIRA): a real-life snapshot</small>
-
-`논문` `관찰연구` `수술` `치료 전반` · 2026-10-26 · PubMed · Surg Oncol · 중요도 0.77
-
-해부학적으로 절제 가능한 췌관선암(AR-PDAC) 환자에서 수술 전 선행치료(NAT)에 대한 전 세계 의료진의 견해를 조사한 국제 설문 연구입니다. 61개국 391명의 전문가가 참여했으며, 응답자의 47%는 선별된 특정 환자에게만 선행치료를 권고한다고 답했습니다. 선행치료 대상 선별 기준으로는 높은 CA19-9 수치(74.6%), 의심스러운 국소 림프절(63.4%), 잠재적 미세전이 의심(55.6%) 등이 꼽혔습니다. 의료진의 93.3%는 선행치료가 종양의 생물학적 특성을 파악하고 불필요한 수술을 피하는 데 도움이 된다고 응답했습니다.
-
-- 61개국 391명의 의료진 중 47%는 절제 가능한 췌장암 환자 중 선별된 경우에만 수술 전 선행치료(NAT)를 권고했습니다.
-- 선행치료를 고려하는 주요 기준은 높은 CA19-9 수치(74.6%), 국소 림프절 전이 의심(63.4%), 잠재적 미세전이 의심(55.6%)이었습니다.
-- 의료진의 93.3%는 선행치료가 급속히 진행하는 환자에서 불필요한 수술을 방지하는 데 도움을 준다고 동의했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42950772/) · [DOI](https://doi.org/10.1016/j.suronc.2026.102580) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42950772)</small>
-
----
-<a id="nct-nct05334836"></a>
-#### [췌장 지방간(췌장 지방증) 유병률과 고위험 낭종 특징 간의 상관관계 규명](https://clinicaltrials.gov/study/NCT05334836)
-<small>Determination of Pancreatic Steatosis Prevalence and Correlation With High-risk Cyst Features</small>
-
-`임상시험` `기타` `진단·조기발견` `치료 전반` `수술` · 2022-04-19 · ClinicalTrials.gov · Chinese University of Hong Kong · 중요도 0.74
-
-**NCT05334836** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05334836.md)
-
-이 연구는 췌장 낭종 환자 및 건강한 성인을 대상으로 자기공명영상(MRI)을 활용해 췌장 및 간의 지방량을 측정하고 췌장 지방증(pancreatic steatosis)의 유병률을 확인합니다. 췌장 낭종의 고위험 특징과 췌장 지방증 사이의 연관성을 분석하여 새로운 위험 인자를 발굴하고자 합니다. 총 236명의 환자를 목표로 홍콩중문대학교에서 환자를 모집하고 있습니다.
-
-- 목표 인원은 총 236명이며 현재 환자를 모집(recruiting) 중입니다.
-- 중재 방법으로 췌장 지방과 간 지방 정량을 위한 자기공명영상(MRI) 촬영을 사용합니다.
-- 초록에 명시되지 않음
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05334836) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05334836)</small>
 
 ---

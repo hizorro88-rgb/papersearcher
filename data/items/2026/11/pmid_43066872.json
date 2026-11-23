@@ -1,0 +1,56 @@
+{
+ "abstract": "Pathogenic variants of ATM, PALB2, and CDKN2A are associated with elevated pancreatic cancer risk and have been documented in families with multiple malignancies. Extrapancreatic malignancy patterns in carrier families remain poorly characterized in prospective registries. Analysis of family cancer history from 1343 index subjects (ATMn = 705, PALB2n = 323, CDKN2An = 315) across 45 PRECEDE Consortium centers in North America, Europe, Asia, and the Middle East. Early onset proportions (< 50 years) compared with U.S. SEER benchmarks (2018-2022) for 1153 U.S. site subjects. Over 93% of the index subjects reported ≥ 1 family cancer; 71% had ≥ 2 distinct sites. Breast cancer was predominant in ATM (60%), PALB2 (71.5%) and melanoma was predominant in CDKN2A (61.3%). Early-onset cancers substantially exceeded SEER: melanoma in CDKN2A 64.3% versus 6.1% (+ 58.2% points, pp); breast cancer + 35-40 pp across groups; uterine-ovarian + 33-35 pp. The documented burden of pancreatic cancer in first-degree relatives varied significantly by gene group (p = 0.003), with ATM carriers showing the highest proportion. Pancreatic cancer was diagnosed at a younger age in first-degree relatives than in second-degree relatives (median 55 vs. 65 years). Families of ATM, PALB2, and CDKN2A carriers show aggregation of multi-organ cancers with substantially earlier onset compared to the general population. Data support coordinated, multispecialty surveillance.",
+ "authors": [
+  "Paiella S",
+  "Secchettin E",
+  "Everett JN",
+  "Brand RE",
+  "Zogopoulos G",
+  "Simeone DM",
+  "Farrell JJ"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43066872",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1007/s10689-026-00618-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43066872"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Fam Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066872/"
+ },
+ "summary_ko": "Pathogenic variants of ATM, PALB2, and CDKN2A are associated with elevated pancreatic cancer risk and have been documented in families with multiple malignancies. Extrapancreatic malignancy patterns in carrier families remain poorly characterized in prospective registries.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "The extrapancreatic cancer phenotype of ATM, PALB2, and CDKN2A carrier families: a registry-based analysis from the PRECEDE Consortium",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

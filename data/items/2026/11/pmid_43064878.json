@@ -10,12 +10,12 @@
   "Lu Y"
  ],
  "categories": [
-  "treatment",
+  "surgery",
   "diagnosis",
-  "surgery"
+  "treatment"
  ],
  "entities": [],
- "evidence": "guideline",
+ "evidence": "observational",
  "first_seen": "2026-11-22",
  "history": [
   {
@@ -25,13 +25,17 @@
   }
  ],
  "id": "pmid:43064878",
- "importance": 0.95,
- "key_points_ko": [],
- "last_updated": "2026-11-22",
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술(R0 절제)을 받은 췌장암 환자 592명의 CT 영상 및 임상 정보를 기반으로 딥러닝 예후 예측 모델을 구축했습니다.",
+  "통합 예후 예측 시스템(IPSS-PDAC)의 1년 무병 생존기간(DFS) 예측 성능(C-index 0.836~0.871)은 기존 임상병리 모델(C-index 0.631~0.656)보다 유의하게 높았습니다.",
+  "고위험군 환자는 면역억제성 종양 미세환경, 기질 점수 증가, CD8+ T세포 침윤 감소의 생물학적 특징을 보였습니다."
+ ],
+ "last_updated": "2026-11-23",
  "links": {
   "doi": "10.1186/s13244-026-02451-w",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13788141",
   "pmid": "43064878"
  },
  "pub_types": [
@@ -48,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43064878/"
  },
- "summary_ko": "OBJECTIVE: Pancreatic ductal adenocarcinoma (PDAC) has an extremely dismal postoperative prognosis. Conventional TNM staging cannot adequately characterize tumor heterogeneity and microenvironment, leading to suboptimal risk stratification.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 완전 절제 수술(R0 절제)을 받은 췌관선암(PDAC) 환자 592명을 대상으로 딥러닝(DL) 기반 조영증강 CT 영상 분석과 임상병리 변수를 결합한 예후 예측 시스템(IPSS-PDAC)을 개발하고 검증했습니다. 다면적 CT 영상을 활용한 딥러닝 모델(OP-PDAC)은 1년 무병 생존기간(DFS) 예측에서 C-index 0.807~0.844의 높은 정확도를 보였습니다. 임상병리 변수를 추가한 통합 시스템(IPSS-PDAC)은 C-index 0.836~0.871을 기록하며 무병 생존기간과 전체 생존기간(OS) 위험군을 효과적으로 구분했습니다. 방사선유전체학 분석 결과 고위험군 환자는 면역억제성 종양 미세환경(TME) 및 CD8+ T세포 침윤 감소 특성을 나타냈습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Enhanced prognosis stratification following surgery for pancreatic ductal adenocarcinoma to optimize clinical decisions by reflecting tumor heterogeneity and microenvironment",
- "title_ko": null,
+ "title_ko": "췌관선암 수술 후 종양 이질성 및 미세환경을 반영한 예후 분류 향상 연구",
  "trial": null,
  "type": "paper"
 }

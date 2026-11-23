@@ -1,0 +1,63 @@
+{
+ "abstract": "KRAS is the most frequently mutated proto-oncogene in human cancers. Progression to advanced disease is frequently associated with allelic imbalance of the KRAS locus with gain of the mutant allele and loss of the wild-type allele through clonal and sub-clonal loss of heterozygosity (LOH). While a large body of literature has focused on the effects of allelic imbalance on oncogene addiction through gain of the mutant allele, the role of the wild-type KRAS proto-oncogene in malignant progression has not been fully elucidated. To capture this phenomenon, we developed a first-in-class somatic mosaic and lineage tracing genetically engineered mouse model (smGMLT) of pancreatic ductal adenocarcinoma allowing for real time in vivo tracing of Kras-LOH. Longitudinal characterization of the smGMLT demonstrated the presence of a strong evolutionary bottleneck towards the selective loss of the wild-type allele at metastatic sites. Cross species analysis leveraging research autopsies and surgical specimens revealed that KRAS-LOH is associated with metastatic dissemination and shorter overall survival. Transcriptomic analysis through single-cell RNA sequencing uncovered a conserved phenomenon whereby KRAS-LOH is paralleled by an immune evasive phenotype through loss of the tumor-cell interferon response and reduced CD8+ T cell infiltration. In line with this evidence, orthotopic transplants of isogenic tumor populations differing for the Kras allelic status demonstrated that only cancer cells with Kras-LOH are are able to form tumors in immune competent animals. Restoration of the wild-type allele abrogates tumorigenesis in KrasLOH transplants in immunocompetent through activation of the TBK1-IRF axis. Altogether, these studies demonstrate that the KRAS proto-oncogene is a functional tumor suppressor in pancreatic cancer exerting its function through interferon-mediated, cell-extrinsic modulation of the tumor immune microenvironment.",
+ "authors": [
+  "Zhang L",
+  "Gurreri E",
+  "Tang H",
+  "Bania A",
+  "Ibrahim MJ",
+  "Rinaldi R",
+  "Pandey A",
+  "Cecchetto L"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.18.767567",
+ "importance": 0.5,
+ "key_points_ko": [
+  "KRAS 접합성 상실(KRAS-LOH)은 췌장암의 전이 확산 및 짧은 전체 생존기간(OS)과 유의하게 연관되어 있습니다.",
+  "정상 KRAS 대립유전자가 상실되면 종양 세포의 인터페론 반응이 떨어지고 CD8+ T 세포 침윤이 감소하여 면역 회피가 발생합니다.",
+  "면역 정상 마우스 실험에서 정상 KRAS 대립유전자를 복원했을 때 TBK1-IRF 축 활성화를 통해 종양 형성이 억제되었습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.64898/2026.11.18.767567",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1373678"
+ },
+ "summary_ko": "본 연구는 전이성 췌장암에서 정상 KRAS 유전자(야생형 대립유전자)가 갖는 종양 억제 기능을 규명했습니다. 연구진은 마우스 모델과 환자 표본 분석을 통해, 정상 KRAS 대립유전자의 결손(KRAS-LOH)이 전이와 짧은 생존기간에 직접 연결됨을 확인했습니다. 야생형 KRAS 대립유전자가 사라지면 종양 세포의 인터페론(interferon) 반응이 저하되고 CD8+ T 세포의 침윤이 줄어들어 면역 회피가 일어납니다. 반대로 야생형 대립유전자를 복원하면 TBK1-IRF 축이 활성화되어 면역 상태에서 종양 형성이 억제되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The tumor suppressor role of the KRAS proto-oncogene in metastatic pancreatic cancer",
+ "title_ko": "전이성 췌장암에서 KRAS 원형암유전자의 종양 억제 역할",
+ "trial": null,
+ "type": "preprint"
+}

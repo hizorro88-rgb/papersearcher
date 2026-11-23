@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatoblastoma is a malignant tumor, which accounts for less than 1% of all pancreatic neoplasms. Further, it is rarely seen in adults and has a poor prognosis with metastasis or local invasion is present in nearly half of adult patients at diagnosis, most often involving the liver. CT is the first-line modality for detection and surgical planning, yet the findings overlap those of more common pancreatic tumors. Pancreatoblastoma typically presents as a large exophytic mass in the pancreatic head with well-defined margins and an enhancing capsule. However, the capsule is often incomplete, and advanced tumors may show infiltrative borders. The mass is heterogeneous and may be solid or mixed solid and cystic, with calcification, enhancing internal septations, necrosis, hemorrhage, or potentially even internal vascularity. Pancreatoblastoma is mostly hypoattenuating relative to normal pancreatic parenchyma and shows progressive enhancement. Large tumors may cause biliary or main pancreatic ductal dilatation, tumor thrombus, or invasion of adjacent organs. Using pathologically proven adult cases, this pictorial review illustrates the spectrum of CT appearances of pancreatoblastoma and highlights the imaging characteristics of this rarely encountered tumor.",
+ "authors": [
+  "Rahmatullah ZF",
+  "Woronko AE",
+  "Hruban RH",
+  "Soyer P",
+  "Kawamoto S",
+  "Chu LC",
+  "Fishman EK"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43066784",
+ "importance": 0.72,
+ "key_points_ko": [],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1007/s00261-026-05869-4",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43066784"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Abdom Radiol (NY)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066784/"
+ },
+ "summary_ko": "Pancreatoblastoma is a malignant tumor, which accounts for less than 1% of all pancreatic neoplasms. Further, it is rarely seen in adults and has a poor prognosis with metastasis or local invasion is present in nearly half of adult patients at diagnosis, most often involving the liver.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Adult pancreatoblastoma: CT findings of an uncommon tumor",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

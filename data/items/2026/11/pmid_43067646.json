@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Hepatic progression is common in metastatic pancreatic ductal adenocarcinoma (PDAC). We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC.\nMETHODS: PANCPUMP was a prospective, single-center, single-arm phase II pilot study of 14 patients with synchronous PDAC liver metastases and stable disease or response after at least 2 months of systemic chemotherapy. Patients underwent HAI pump placement and received up to six 28 day cycles of HAI FUDR with systemic therapy. The primary endpoint was 1 year hepatic progression-free survival, with a prespecified target of 40%.\nRESULTS: Seven patients (50%) remained free of hepatic progression at 1 year, meeting the primary endpoint. Median time to hepatic progression was 15.7 months when deaths without hepatic progression were censored; median all-site progression-free interval and overall survival were 14.5 and 14.0 months, respectively. Five patients (35.7%) survived at least 24 months. Biochemical hepatotoxicity was frequent; two delayed grade 3 gastroduodenal artery (GDA)/catheter-associated vascular complications occurred. Among 10 patients with paired European Organisation for Research and Treatment of Cancer Core Quality-of-Life questionnaire assessments, the mean global health/quality-of-life score was 69.2 at baseline and 70.0 at first follow-up (p = 0.91).\nCONCLUSIONS: HAI FUDR plus systemic therapy met the prespecified hepatic-control endpoint in a highly selected cohort. These proof-of-concept findings support further study of regional hepatic therapy alongside contemporary systemic treatment.",
+ "authors": [
+  "Smith SM",
+  "Aubrey JM",
+  "Preihs R",
+  "Bengel A",
+  "Koch C",
+  "Martin L",
+  "Chandana S",
+  "Assifi MM"
+ ],
+ "categories": [
+  "treatment",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "phase2",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43067646",
+ "importance": 0.84,
+ "key_points_ko": [],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1245/s10434-026-20940-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43067646"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067646/"
+ },
+ "summary_ko": "BACKGROUND: Hepatic progression is common in metastatic pancreatic ductal adenocarcinoma (PDAC). We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Hepatic Arterial Infusion Floxuridine with Systemic Therapy for Liver-dominant Metastatic Pancreatic Adenocarcinoma: Results of the PANCPUMP Phase II Pilot Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -16,12 +16,26 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 215건 · 최근 30일 116건
+전체 217건 · 최근 30일 113건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43067639"></a>
+#### [ASO 시각적 초록: 재발성 췌관선암 절제술에서 수술 전 CA19-9 및 면역영양 상태에 따른 전체 생존기간 층화](https://pubmed.ncbi.nlm.nih.gov/43067639/)
+<small>ASO Visual Abstract: Resection for Recurrent Pancreatic Ductal Adenocarcinoma: Preoperative CA19-9 and Host Immunonutritional Status Stratify Overall Survival</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `진단·조기발견` `지지요법·삶의질` · 2026-11-21 · PubMed · Ann Surg Oncol · 중요도 0.67
+
+재발성 췌관선암(PDAC) 환자의 수술 전 CA19-9 수치 및 면역영양 상태가 절제술 후 전체 생존기간(OS)에 미치는 영향을 분석한 논문입니다. 수술 전 평가 지표를 통해 재발성 췌장암 환자의 생존 결과를 예측하고 위험군을 층화할 수 있음을 제시합니다. 세부 연구 수치 및 관련 구체적 결과는 초록에 명시되지 않았습니다.
+
+- 재발성 췌관선암 환자의 절제술 전 CA19-9 및 면역영양 상태가 전체 생존기간(OS) 예측에 활용될 수 있습니다.
+- 구체적인 대상 환자 수 및 생존율 통계 수치는 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43067639/) · [DOI](https://doi.org/10.1245/s10434-026-20932-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43067639)</small>
+
+---
 <a id="nct-nct07700212"></a>
 #### [전이성 췌관선암 환자의 암 관련 악액질에 대한 미경골 신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
 <small>A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma</small>
@@ -52,6 +66,21 @@ search:
 - 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786162/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+
+---
+<a id="pmid-43063546"></a>
+#### [간췌장암 수술 후 퇴원 경로에 따른 건강 결과 및 치료 비용 비교: SEER-Medicare 분석](https://pubmed.ncbi.nlm.nih.gov/43063546/)
+<small>Comparing health outcomes and costs of care by discharge disposition after hepatopancreatic cancer surgery: Insights from SEER-medicare</small>
+
+`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-13 · PubMed · Am J Surg · 중요도 0.68
+
+본 연구는 췌관선암(PDAC) 또는 간내 담도암(iCCA)으로 수술을 받은 65세 이상 환자를 대상으로 퇴원 경로(자택, 가정간호서비스, 전문간호시설, 병원 간 전원)에 따른 예후와 비용을 분석했습니다. 총 4,646명의 환자 중 46.7%가 자택, 32.6%가 가정간호서비스(HHA), 17.2%가 전문간호시설(SNF)로 퇴원했습니다. HHA 퇴원 환자와 비교했을 때, SNF 퇴원 환자는 수술 후 보조 항암치료 및 종양학적 추적관찰을 받을 가능성이 낮았으며 90일 사망률과 재입원율이 더 높았습니다. 결론적으로 수술 후 HHA 이용이나 자택 퇴원이 전문간호시설 이동보다 양호한 회복 결과를 보였습니다.
+
+- 수술을 받은 고령 췌장암 및 간내 담도암 환자 4,646명 중 17.2%가 전문간호시설(SNF)로, 32.6%가 가정간호서비스(HHA)로 퇴원했습니다.
+- HHA 퇴원 대비 SNF 퇴원은 수술 후 보조 항암화학요법(adjuvant chemotherapy)을 받을 확률을 46% 낮추었으며(aOR 0.54), 90일 사망률을 2.06배 높였습니다.
+- 자택으로 직접 퇴원한 환자는 90일 재입원 위험이 22% 감소했습니다(aOR 0.78).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43063546/) · [DOI](https://doi.org/10.1016/j.amjsurg.2026.117357) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43063546)</small>
 
 ---
 <a id="pmid-43058631"></a>
@@ -1768,86 +1797,5 @@ search:
 - ECOG 수행능력 평가 점수, ΔCAR, 체중 감소는 독립적인 예후 예측 인자로 확인되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42918737/) · [DOI](https://doi.org/10.1177/10966218261500247) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42918737)</small>
-
----
-<a id="nct-nct05336266"></a>
-#### [진행성 췌장관선암 환자의 악액질에 대한 케토롤락 치료 타당성 연구](https://clinicaltrials.gov/study/NCT05336266)
-<small>A Feasibility Study of Ketorolac Treatment for Cachexia in Patients With Advanced Pancreatic Ductal Adenocarcinoma</small>
-
-`임상시험` `1상` `신약·치료제` `지지요법·삶의질` `진단·조기발견` · 2022-04-20 · ClinicalTrials.gov · Andrew Hendifar, MD · 중요도 0.81
-
-**NCT05336266** · 초기 1상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05336266.md)
-
-이 연구는 진행성 췌장관선암(pancreatic ductal adenocarcinoma, PDAC) 환자를 대상으로 비스테로이드성 소염진통제(NSAID)인 ketorolac(케토롤락) 투여가 체중과 삶의 질을 안정시키거나 증가시키는지 확인하기 위한 조기 1상 임상시험입니다. 환자들은 5일 동안 ketorolac을 투여받으며, 채혈, 설문지 작성, 그리고 제공된 FitBit과 스마트 체중계를 통한 신체활동 및 수면, 체중 모니터링을 진행합니다. 목표 환자 수는 28명입니다.
-
-- 대상 질환은 진행성 및 난치성 췌장관선암(pancreatic ductal adenocarcinoma)입니다.
-- 중재 치료로 5일 동안 ketorolac Tromethamine을 투여합니다.
-- 목표 인원은 28명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05336266) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05336266)</small>
-
----
-<a id="nct-nct05247905"></a>
-#### [진행성 췌장 신경내분비종양 환자에서 Capecitabine과 Temozolomide 병용요법과 Lutetium Lu 177 Dotatate 치료를 비교하는 ComPareNET 임상시험](https://clinicaltrials.gov/study/NCT05247905)
-<small>Comparing Capecitabine and Temozolomide in Combination to Lutetium Lu 177 Dotatate in Patients With Advanced Pancreatic Neuroendocrine Tumors, the ComPareNET Trial</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` `신경내분비종양` · 2022-02-21 · ClinicalTrials.gov · Alliance for Clinical Trials in Oncology · 중요도 0.79
-
-**NCT05247905** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05247905.md)
-
-이 2상 임상시험은 전이가 되었거나 수술로 제거할 수 없는 진행성 췌장 신경내분비종양 환자를 대상으로 capecitabine 및 temozolomide 병용요법과 방사성 의약품인 lutetium Lu 177 dotatate 치료 효과를 비교합니다. 연구의 주요 목적은 두 치료법 간의 무진행 생존기간(PFS) 차이를 확인하는 것입니다. 또한 전체 생존기간(OS), 객관적 반응률(ORR), 독성 및 삶의 질을 비교 평가합니다. 환자들은 무작위로 두 치료 군 중 한 곳에 배정되어 치료를 받게 됩니다.
-
-- 진행성 또는 수술 불가 췌장 신경내분비종양 환자를 대상으로 capecitabine 및 temozolomide 병용요법과 lutetium Lu 177 dotatate의 효과를 비교합니다.
-- 일차 평가지표는 두 치료 군 간의 중앙 무진행 생존기간(PFS) 차이입니다.
-- 이차 평가지표에는 전체 생존기간(OS), 객관적 반응률(ORR), 치료 관련 독성 및 삶의 질 평가가 포함됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05247905) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05247905)</small>
-
----
-<a id="pmid-42906812"></a>
-#### [유전자 연관 만성 췌장염과 비유전자성 만성 췌장염에서 자가 췌도 이식을 동반한 전췌장절제술의 치료 결과 비교](https://pubmed.ncbi.nlm.nih.gov/42906812/)
-<small>Comparative Outcomes of Total Pancreatectomy with Islet Autotransplantation in Genetically Associated Versus Non-Genetically Characterised Chronic Pancreatitis</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-21 · PubMed · J Gastrointest Surg · 중요도 0.77
-
-본 연구는 자가 췌도 이식을 동반한 전췌장절제술(TPIAT)을 받은 만성 췌장염 환자 83명을 대상으로 유전자 연관 환자군(15명)과 비유전자성 환자군(68명)의 수술 및 장기 결과를 비교 분석했습니다. 유전자 연관 만성 췌장염 환자는 수술 당시 연령이 더 어렸고 수술 시간이 길었으며 획득한 췌도 수율이 유의하게 낮았습니다. 추적 관찰 결과 인슐린 비의존율은 유전자 연관 환자군에서 더 낮은 경향을 보였으나, 1년 시점의 아편유사제 진통제 중단율 등 통증 관련 경감 효과는 두 군 간에 유사했습니다.
-
-- 유전자 연관 만성 췌장염 환자군은 비유전자성 환자군에 비해 수술 당시 연령이 더 어렸고(중앙값 30세 대 43세, p=0.014) 수술 시간이 더 길었습니다(657분 대 480분, p=0.018).
-- 분리 추출된 췌도 수율(Islet yield)은 유전자 연관 환자군(48,070 IEQ)이 비유전자성 환자군(149,073 IEQ)보다 유의하게 적었습니다(p=0.015).
-- 추적 관찰 시 인슐린 비의존율은 유전자 연관 군 12%, 비유전자성 군 21%였으며, 1년 시점의 아편유사제 진통제 중단율은 각각 53%와 60%로 비슷했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42906812/) · [DOI](https://doi.org/10.1016/j.gassur.2026.102645) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42906812)</small>
-
----
-<a id="pmid-42910254"></a>
-#### [80세 이상 고령 환자의 췌십이지장절제술 후 치료 결과: 독일 일반 및 내장외과학회 전향적 췌장 등록소 분석](https://pubmed.ncbi.nlm.nih.gov/42910254/)
-<small>Outcomes following Pancreatoduodenectomy in Patients ≥80 Years: An Analysis of the Prospective Pancreas Registry of the German Society for General and Visceral Surgery (DGAV|Registry Pancreas)</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-10 · PubMed · Visc Med · 중요도 0.72
-
-이 연구는 독일 췌장 등록소 데이터를 활용하여 2013년 9월부터 2024년 4월까지 췌십이지장절제술(pancreatoduodenectomy)을 받은 환자 12,305명을 80세 미만과 80세 이상으로 나누어 수술 후 결과를 비교 분석했습니다. 전체 환자 중 80세 이상 고령 환자는 1,566명(12.7%)이었으며, 그 비율은 2014년 6.9%에서 2021년 17.3%로 두 배 이상 증가했습니다. 80세 이상 환자는 전반적인 합병증 발생률(64.0% 대 60.7%)과 30일 사망률(7.2% 대 3.6%), 병원 내 사망률(8.2% 대 4.4%)이 80세 미만 환자보다 유의하게 높았습니다. 연구진은 나이 자체가 수술의 절대적인 제외 기준이 되어서는 안 되며, 생물학적 나이와 동반 질환 등을 종합적으로 고려한 신중한 환자 선별이 중요하다고 결론지었습니다.
-
-- 총 12,305건의 췌십이지장절제술 중 80세 이상 환자가 1,566건(12.7%)을 차지했습니다.
-- 중증 합병증 발생률에는 유의한 차이가 없었으나, 30일 사망률(7.2% vs. 3.6%)과 병원 내 사망률(8.2% vs. 4.4%)은 80세 이상 환자에서 유의하게 높았습니다.
-- 다변량 분석 결과 80세 이상의 나이, 남성, ASA 3~4등급, 비만, 만성 폐쇄성 폐질환(COPD), 항응고 치료, 수술 중 수혈, 확대 절제가 병원 내 사망의 독립적인 위험 인자로 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42910254/) · [DOI](https://doi.org/10.1159/vis/aeyag003) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13685811/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42910254)</small>
-
----
-<a id="nct-nct07883161"></a>
-#### [국소진행성 췌장암 환자의 전신 항암 치료 시 HMB, 아르기닌, 글루타민 함유 맞춤형 영양 보조제가 골격근량에 미치는 영향 (NUTRI-MYO 연구)](https://clinicaltrials.gov/study/NCT07883161)
-<small>Targeted Nutritional Intervention (HMB, Arginine, Glutamine) in Patients With Pancreatic Cancer</small>
-
-`임상시험` `기타` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2026-10-20 · ClinicalTrials.gov · Fondazione Policlinico Universitario Agostino Gemelli IRCCS · 중요도 0.71
-
-**NCT07883161** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07883161.md)
-
-이 연구는 전신 항암 치료를 시작하는 국소진행성 췌관선암(PDAC) 환자를 대상으로 베타-하이드록시-베타-메틸부티레이트(HMB), L-아르기닌, L-글루타민이 포함된 경구 영양 보충제가 골격근량을 보존하거나 증가시킬 수 있는지 평가하기 위한 파일럿 임상시험입니다. 총 24명의 환자가 무작위로 배정되어 실험군은 표준 식이 상담과 함께 60일 동안 영양 보충제를 섭취하고, 대조군은 표준 식이 상담만 받습니다. 주요 평가지표는 제3요추(L3) CT 스캔을 통한 골격근지수(SMI)의 변화입니다.
-
-- 총 24명의 국소진행성 췌장암 환자가 등록 대상이며, 실험군(n=12)과 대조군(n=12)으로 1:1 무작위 배정됩니다.
-- 실험군은 항암 치료 시작 7~10일 전부터 60일 동안 Abound(HMB, L-아르기닌, L-글루타민 함유) 영양 보충제를 1일 2회 섭취합니다.
-- 초록에 명시된 주요 평가지표는 기저 시점부터 60일째까지의 골격근지수(SMI, cm²/m²) 변화입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07883161) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07883161)</small>
 
 ---

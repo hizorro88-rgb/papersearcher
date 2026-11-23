@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Okuno M",
+  "Yokoyama Y",
+  "Date R",
+  "Ishizuka T",
+  "Asahara T",
+  "Yamaguchi J",
+  "Abe T"
+ ],
+ "categories": [
+  "surgery",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43067642",
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술 전 분변 발레르산(valeric acid) 농도가 췌장암 절제술 후 재발 예측 인자로 제시되었습니다.",
+  "세부 연구 수치 및 구체적인 수술 후 경과 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1245/s10434-026-20933-5",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43067642"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Ann Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067642/"
+ },
+ "summary_ko": "본 연구는 췌장 절제술을 시행받는 췌장암 환자에서 수술 전 분변 발레르산(valeric acid) 농도가 수술 후 재발을 예측하는 지표가 될 수 있음을 보여줍니다. 구체적인 연구 대상 환자 수, 재발 위험비, 관찰 기간 등 세부 연구 결과는 초록에 명시되지 않았습니다. 본 논문은 Annals of Surgical Oncology에 게재된 시각적 초록입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "ASO Visual Abstract: Preoperative Fecal Valeric Acid Concentration Predicts Recurrence After Pancreatectomy for Pancreatic Cancer",
+ "title_ko": "췌장암 절제술 후 재발을 예측하는 수술 전 분변 발레르산 농도",
+ "trial": null,
+ "type": "paper"
+}

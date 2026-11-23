@@ -13,7 +13,7 @@
   "basic"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-22",
  "history": [
   {
@@ -23,8 +23,12 @@
   }
  ],
  "id": "pmid:43064136",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "공간 전사체 분석 결과 PIEZO1 및 F2RL1/PAR2가 췌장암의 신경침윤 부위에 농축되어 나타났습니다.",
+  "공공 데이터베이스 분석에서 F2RL1의 높은 발현은 췌장암 환자의 짧은 생존기간과 연관되어 있었습니다.",
+  "마우스 신경침윤 조직에서 PIEZO1을 억제한 결과 PIEZO1, NGF, PRSS1 발현이 줄어들고 상피간엽전환 표현형이 완화되었습니다."
+ ],
  "last_updated": "2026-11-22",
  "links": {
   "doi": "10.1016/j.yexcr.2026.115234",
@@ -46,11 +50,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43064136/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is highly aggressive and has a poor prognosis. Perineural invasion (PNI), a characteristic pathological feature of PDAC, is closely associated with postoperative recurrence and cancer-related pain.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌관선암(PDAC)의 주요 특징인 신경침윤(PNI)과 섬유화 미세환경 간의 연관 기전을 조사한 기초 연구입니다. 연구진은 기계 자극 감지 이온 채널인 PIEZO1이 세포 외 기질 환경에 따라 췌장암 세포의 유전자 발현과 신경영양 신호를 조절함을 확인했습니다. 마우스 신경침윤 조직 실험을 통해 PIEZO1 억제가 관련 인자의 발현을 줄이고 상피간엽전환(EMT) 표현형을 완화함을 확인했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Matrix Cues Modulate Neurotrophic Signaling through PIEZO1 in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "기질 신호가 PIEZO1을 통해 췌장암의 신경영양 신호를 조절함",
  "trial": null,
  "type": "paper"
 }

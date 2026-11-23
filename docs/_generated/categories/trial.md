@@ -16,12 +16,160 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 623건 · 최근 30일 238건
+전체 624건 · 최근 30일 224건
 
 월별 보기: [2026-11](trial/2026-11.md) · [2026-10](trial/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07277413"></a>
+#### [MTAP 결손 진행성 고형암 환자를 대상으로 한 IDE892 단독 및 병용 요법 임상 1상 연구](https://clinicaltrials.gov/study/NCT07277413)
+<small>A Study of IDE892 as Monotherapy and Combination in MTAP-deleted Advanced Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2025-12-11 · ClinicalTrials.gov · IDEAYA Biosciences · 중요도 0.89
+
+**NCT07277413** · 1상 · 모집 중 · 국내 3곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07277413.md)
+
+이 연구는 메틸티오아데노신 포스포릴라아제(MTAP) 결손이 있는 진행성 고형암(췌장암 포함) 환자를 대상으로 IDE892 단독 요법 및 IDE397과의 병용 요법의 안전성, 약동학(PK) 및 유효성을 평가하는 1상 임상시험입니다. 이전 표준 치료 후 암이 진행된 환자들을 대상으로 치료 효과를 확인합니다. 병용 치료에 사용되는 IDE397은 메티오닌 아데노실트랜스퍼라아제 2A(MAT2A) 저해제로, MTAP 결손 암세포의 특이적 취약점을 공격하도록 설계되었습니다. 본 임상시험은 총 570명의 환자를 목표로 하며 국내 3개 기관에서도 진료 및 참여가 가능합니다.
+
+- MTAP 결손이 확인된 진행성 또는 전이성 췌장암 등 고형암 환자 570명을 대상으로 진행됩니다.
+- 표적 치료제인 IDE892 단독 투여 및 MAT2A 저해제 IDE397과의 병용 투여 안전성과 반응을 평가합니다.
+- 진행성/전이성 단계에서 1~3차 이전 항암 치료를 받은 경험이 있는 환자가 대상입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07277413) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07277413)</small>
+
+---
+<a id="nct-nct05985655"></a>
+#### [진행성 고형암 환자를 대상으로 GTAEXS617의 안전성 및 항종양 효과를 평가하는 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05985655)
+<small>Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2023-08-14 · ClinicalTrials.gov · Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc. · 중요도 0.87
+
+**NCT05985655** · 1상/2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05985655.md)
+
+이 연구는 췌장암, 두경부 편평세포암, 비소세포폐암 등 진행성 고형암 환자를 대상으로 GTAEXS617(REC-617)의 안전성, 내약성, 약동학(PK) 및 항종양 활성을 평가하기 위한 1/2상 임상시험입니다. 기존 표준 치료(SoC)를 받은 후 질병이 진행되었거나 재발한 환자를 대상으로 합니다. 신약 후보물질의 적정 용량을 찾고 종양 반응을 확인하는 것을 목적으로 진행됩니다.
+
+- 췌장암을 포함한 진행성/전이성 고형암 환자 230명을 목표로 진행 중인 1/2상 임상시험입니다.
+- 표준 치료 후 진행하거나 재발하여 수술 또는 방사선 치료가 불가능한 환자를 대상으로 합니다.
+- GTAEXS617(REC-617) 약물의 안전성, 약동학 특성 및 항종양 효과를 주요 지표로 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05985655) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05985655)</small>
+
+---
+<a id="nct-nct07698613"></a>
+#### [국소 진행성 췌장암 환자를 대상으로 한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
+<small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-13 · ClinicalTrials.gov · Brown University · 중요도 0.87
+
+**NCT07698613** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07698613.md)
+
+이 임상시험은 국소 진행성 및 경계성 수술 가능 췌장암 환자를 대상으로 ASP-1929 광면역치료(PIT)의 안전성과 초기 유효성을 평가하기 위한 1/2상 연구입니다. 선행 항암화학요법(neoadjuvant chemotherapy)을 완료한 환자 중 수술적 탐색술을 계획 중인 약 30명을 대상으로 진행됩니다. 이전 치료 종료 후 4~10주 뒤 수술 전에 치료를 진행하여 효능 및 안전성을 확인합니다.
+
+- 선행 항암화학요법을 완료하고 수술을 계획 중인 국소 진행성 및 경계성 수술 가능 췌장암 환자 30명을 대상으로 합니다.
+- ASP-1929를 이용한 광면역치료(PIT)의 안전성과 초기 치료 효과를 평가하는 1/2상 연구입니다.
+- 항암치료 및 방사선 치료 종료 후 최소 4~10주 뒤 수술 전에 광면역치료를 진행합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07698613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07698613)</small>
+
+---
+<a id="nct-nct05438459"></a>
+#### [악성 복수를 동반한 마이크로위성 안정성 진행성 위암 및 췌장암 환자 대상 GAIA-102 복강 내 투여 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05438459)
+<small>GAIA-102 Intraperitoneal Administration in Patients With Advanced Gastrointestinal Cancer of Microsatellite Stable With Malignant Ascites</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2022-06-30 · ClinicalTrials.gov · Kyushu University · 중요도 0.84
+
+**NCT05438459** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05438459.md)
+
+본 임상시험은 악성 복수가 동반된 마이크로위성 안정성(MSS) 진행성 위암 및 췌장암 환자를 대상으로 GAIA-102의 복강 내 투여 안전성과 유효성을 평가합니다. 1상에서는 GAIA-102 단독 요법 및 pembrolizumab(펨브롤리주맙) 병용 요법의 안전성을 확인합니다. 2상 췌장암 코호트에서는 기존 표준 항암화학요법에 GAIA-102와 펨브롤리주맙을 추가한 병용 치료의 효과를 평가합니다. 모집 목표 인원은 총 176명입니다.
+
+- 악성 복수를 동반한 마이크로위성 안정성(MSS) 진행성 췌장암 및 위암 환자 176명을 대상으로 시행됩니다.
+- 1상에서는 GAIA-102 단독 및 펨브롤리주맙 병용 투여의 안전성을 평가하여 2상 권장 용량을 결정합니다.
+- 2상 췌장암 코호트에서는 기존 표준 치료에 GAIA-102 및 펨브롤리주맙을 추가하여 유효성을 평가합니다.
+- 췌장암 환자는 1상 참여 시 2차 이상, 2상 참여 시 gemcitabine(젬시타빈) 포함 1차 이상의 이전 항암 치료 이력이 필요합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT05438459) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05438459)</small>
+
+---
+<a id="nct-nct07458347"></a>
+#### [KRAS 변이가 있는 진행성 고형암 환자를 대상으로 한 KST-6051의 1상 용량 상승 및 확장 임상시험](https://clinicaltrials.gov/study/NCT07458347)
+<small>A Phase 1 Dose Escalation and Dose Expansion Trial of KST-6051 in Participants With Advanced Solid Tumors With Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Mutation</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-09 · ClinicalTrials.gov · Kestrel Therapeutics, Inc. · 중요도 0.84
+
+**NCT07458347** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07458347.md)
+
+이 임상시험은 KRAS 유전자 변이가 있는 진행성 또는 전이성 고형암 성인 환자를 대상으로 경구용 시험약 KST-6051의 안전성과 내약성을 평가하기 위한 제1상 임상시험입니다. 췌관선암(PDAC), 대장암(CRC), 비소세포폐암(NSCLC) 등의 환자가 참여 대상입니다. KST-6051은 단독 요법으로 투여되거나 다른 항암제와 병용하여 투여됩니다. 환자는 치료로부터 임상적 이익을 얻고 부작용을 견딜 수 있는 동안 시험에 참여할 수 있습니다.
+
+- 목표 인원은 총 545명입니다.
+- KRAS 변이가 있는 진행성 또는 전이성 췌관선암(PDAC) 환자가 참여할 수 있습니다.
+- 이전 치료 후 진행되었거나 표준 치료를 견딜 수 없는 환자가 대상입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07458347) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07458347)</small>
+
+---
+<a id="pmid-43067646"></a>
+#### [Hepatic Arterial Infusion Floxuridine with Systemic Therapy for Liver-dominant Metastatic Pancreatic Adenocarcinoma: Results of the PANCPUMP Phase II Pilot Study](https://pubmed.ncbi.nlm.nih.gov/43067646/)
+`논문` `2상` `치료 전반` `임상시험` · 2026-11-21 · PubMed · Ann Surg Oncol · 중요도 0.84
+
+BACKGROUND: Hepatic progression is common in metastatic pancreatic ductal adenocarcinoma (PDAC). We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43067646/) · [DOI](https://doi.org/10.1245/s10434-026-20940-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43067646)</small>
+
+---
+<a id="nct-nct04222413"></a>
+#### [전이성 고형암 환자를 대상으로 하는 Metarrestin (ML-246) 제1상 임상시험](https://clinicaltrials.gov/study/NCT04222413)
+<small>Metarrestin (ML-246) in Subjects With Metastatic Solid Tumors</small>
+
+`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-01-10 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.80
+
+**NCT04222413** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04222413.md)
+
+이 임상시험은 전이성 고형암(췌장암, 대장암, 유방암 등) 환자를 대상으로 신약 metarrestin의 안전성과 최대내반용량(MTD)을 확인하고, 종양 축소 효과 및 객관적 반응률(ORR)을 평가하기 위해 진행되는 제1상 임상시험입니다. 연구진은 전이 억제 효과가 기대되는 최초의 약물인 metarrestin을 경구 투여하여 부작용과 체내 반응을 관찰합니다. 참여 환자는 표준 치료에 실패했거나 표준 치료 옵션이 없는 진행성 고형암 성인 및 소아 환자입니다. 초록에 구체적인 생존기간이나 위험비 등의 수치는 명시되지 않았습니다.
+
+- 목표 환자 수는 총 116명입니다.
+- Metarrestin은 전이와 관련된 핵소체주위구획(PNC)을 표적하는 최초의 연구용 약물입니다.
+- 초록에 구체적인 생존기간, 반응률, 위험비 등의 임상 효능 수치는 명시되지 않았습니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT04222413) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04222413)</small>
+
+---
+<a id="nct-nct07631884"></a>
+#### [HER2 발현 진행성 고형암 환자를 위한 Trastuzumab Rezetecan 탐색적 연구](https://clinicaltrials.gov/study/NCT07631884)
+<small>Exploratory Study on the Efficacy and Safety of Trastuzumab Rezetecan in the Treatment of HER2-Expressiong Advanced Solid Tumor</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-06-08 · ClinicalTrials.gov · Haihua Yuan · 중요도 0.80
+
+**NCT07631884** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07631884.md)
+
+이 임상시험은 HER2 발현이 확인된 진행성 고형암 성인 환자를 대상으로 Trastuzumab Rezetecan의 유효성과 안전성을 평가합니다. 췌장암을 포함한 다양한 고형암 환자들이 참여 대상에 포함됩니다. 환자들은 21주기마다 1일째에 Trastuzumab Rezetecan을 정맥 주사로 투여받습니다. 주요 평가지표는 객관적 반응률(ORR)입니다.
+
+- 참여 대상 질환에는 췌장암을 포함한 국소 진행성, 절제 불가능 또는 전이성 고형암이 포함됩니다.
+- Trastuzumab Rezetecan은 21일 주기의 1일 차에 4.8 mg/kg 용량으로 정맥 투여됩니다.
+- 체중이 85 kg 이상인 참가자는 3주마다 408 mg의 고정 용량을 투여받습니다.
+- 초록에 명시되지 않음.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07631884) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07631884)</small>
+
+---
+<a id="nct-nct06995898"></a>
+#### [다중 암 조기 검진(MCD) 검사 평가를 위한 타당성 연구: Vanguard 연구](https://clinicaltrials.gov/study/NCT06995898)
+<small>The Vanguard Study: Testing a New Way to Screen for Cancer</small>
+
+`임상시험` `기타` `진단·조기발견` · 2025-05-30 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.65
+
+**NCT06995898** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06995898.md)
+
+Vanguard 연구는 향후 무작위 대조 임상시험을 위해 다중 암 조기 검진(multi-cancer detection, MCD) 검사를 평가하는 타당성 연구입니다. 암에 걸리지 않은 45세에서 75세 사이의 성인 24,000명을 대상으로 3개의 그룹으로 무작위 배정하여 진행합니다. 2개의 개별 MCD 검사 그룹과 1개의 대조군을 비교하며, 혈액 마커를 통해 여러 암을 동시에 선별하는 검사의 타당성과 정확성을 평가합니다. 초록에 명시된 특정 생존율이나 반응률 수치는 없습니다.
+
+- 45세에서 75세 사이의 성인 24,000명이 참여합니다.
+- 참가자는 2개의 MCD 검사 그룹 또는 대조군 중 하나로 무작위 배정됩니다.
+- 등록 시점과 연구 시작 1년 후 혈액을 채취하여 검사합니다.
+- 연구 참여자는 최대 10년 동안 수동적으로 추적 관찰됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06995898) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06995898)</small>
+
+---
 <a id="nct-nct06503146"></a>
 #### [암 병변 발견을 위한 18F-섬유아세포 활성화 단백질 억제제([18F]FAPI-74) PET 영상 검사 2상 임상시험](https://clinicaltrials.gov/study/NCT06503146)
 <small>18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detection</small>
@@ -40,20 +188,20 @@ search:
 
 ---
 <a id="nct-nct07631871"></a>
-#### [HER2 양성 진행성 고형암 환자를 위한 zanidatamab 탐색적 임상시험](https://clinicaltrials.gov/study/NCT07631871)
+#### [표준 치료를 1회 이상 받은 HER2 양성 진행성 고형암 환자를 대상으로 한 Zanidatamab(자니다타맙)의 탐색적 2상 임상시험](https://clinicaltrials.gov/study/NCT07631871)
 <small>An Exploratory Study of Zanidatamab in HER2-positive Advanced Tumor After at Least One Line of Standard Therapy</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` · 2026-06-08 · ClinicalTrials.gov · Haihua Yuan · 중요도 0.90
 
 **NCT07631871** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07631871.md)
 
-The goal of this clinical trial is to learn if Zanidatamab can treat HER2-positive advanced tumors in adults. The main question it aims to answer is: What is the objective response rate of Zanidatamab in adult patients with HER-2 positive advanced solid tumors?
+본 임상시험은 1가지 이상의 이전 전신 항암치료를 받은 HER2(표피성장인자 수용체 2) 양성 진행성 또는 전이성 췌장암 등 고형암 환자를 대상으로 Zanidatamab(자니다타맙)의 치료 효과를 평가하는 2상 연구입니다. 참여 환자는 2주 주기의 1일 차에 Zanidatamab 20mg/kg을 정맥 투여받습니다. 이 연구는 약물의 객관적 반응률(ORR)을 평가하는 것을 주요 목적으로 하며 총 10명의 환자를 대상으로 진행됩니다.
 
-- 임상시험의 주요 평가항목은 zanidatamab 치료의 객관적 반응률입니다.
-- 참여 환자들은 2주마다 20 mg/kg 용량의 zanidatamab을 정맥으로 투여받습니다.
-- 목표 환자 수는 총 10명입니다.
+- 이전 전신 항암치료를 1가지 이상 받은 HER2 양성(IHC 3+ 또는 IHC 2+/FISH 양성) 국소 진행성 또는 전이성 고형암 환자를 대상으로 합니다.
+- 약물은 2주 간격으로 1일 차에 Zanidatamab(자니다타맙) 20mg/kg 용량으로 정맥 투여됩니다.
+- 주요 평가 항목은 객관적 반응률(ORR)이며, 목표 인원은 10명입니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07631871) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07631871)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07631871) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07631871)</small>
 
 ---
 <a id="nct-nct07488676"></a>
@@ -74,55 +222,20 @@ The goal of this clinical trial is to learn if Zanidatamab can treat HER2-positi
 
 ---
 <a id="nct-nct07948070"></a>
-#### [췌장암 환자에서 회복된 종양 반응성 T세포(GKPTZ-01)의 안전성, 약동학 및 예비 유효성을 평가하기 위한 제1/2상 공개 임상시험](https://clinicaltrials.gov/study/NCT07948070)
+#### [췌장암 환자를 대상으로 한 재생 종양 반응성 T세포(GKPTZ-01)의 안전성, 약동학 및 초기 효능 평가 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07948070)
 <small>A Phase I/II Open-label Study to Evaluate the Safety, Pharmacokinetics, and Preliminary Efficacy of Rejuvenated Tumor-Reactive T Cells (GKPTZ-01) in Subjects With Pancreatic Cancer</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` · 2026-11-19 · ClinicalTrials.gov · Tianjin Medical University Cancer Institute and Hospital · 중요도 0.90
 
 **NCT07948070** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07948070.md)
 
-A Phase I/II Open-label Study to Evaluate the Safety, Pharmacokinetics, and Preliminary Efficacy of Rejuvenated Tumor-Reactive T Cells (GKPTZ-01) in Subjects with Pancreatic Cancer
+본 임상시험은 췌장암 환자를 대상으로 종양 반응성 T세포 치료제인 GKPTZ-01의 안전성과 초기 유효성을 평가하는 1/2상 연구입니다. 수술 후 보조항암치료를 완료한 환자, 이전 표준 치료에 실패했거나 독성으로 진행이 어려운 환자, 표준 항암화학요법 또는 표적치료를 시행 중인 환자 군으로 나누어 진행합니다. GKPTZ-01 단독 또는 항암화학요법 및 표적치료제와의 병용 투여를 통해 약동학적 특성과 치료 반응을 확인합니다.
 
-- 목표 환자 수는 총 40명입니다.
-- 참여 연령은 18세부터 70세까지입니다.
-- 임상시험 단계는 제1/2상입니다.
-- 국내 기관 참여 수는 초록에 명시되지 않았음.
+- GKPTZ-01 단독 또는 기존 항암치료·표적치료와의 병용 투여 안전성 및 유효성을 평가하는 1/2상 임상시험입니다.
+- 수술 후 보조치료 완료 환자, 표준치료 실패/불가 환자, 1·2차 표준치료를 받고 있는 환자 등 다양한 코호트를 포함합니다.
+- 만 18세 이상 70세 이하, ECOG 수행능력 평가 점수 0~1점인 환자 40명을 대상으로 수행됩니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT07948070) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07948070)</small>
-
----
-<a id="nct-nct07277413"></a>
-#### [MTAP 결손 진행성 고형암 환자를 대상으로 한 IDE892 단독 및 병용요법 1상 임상시험](https://clinicaltrials.gov/study/NCT07277413)
-<small>A Study of IDE892 as Monotherapy and Combination in MTAP-deleted Advanced Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `진단·조기발견` · 2025-12-11 · ClinicalTrials.gov · IDEAYA Biosciences · 중요도 0.89
-
-**NCT07277413** · 1상 · 모집 중 · 국내 3곳 · [참여 조건·기관 보기](../../_generated/trials/NCT07277413.md)
-
-MTAP(메틸싸이오아데노신 포스포릴라아제) 결손이 확인된 진행성 또는 전이성 고형암(췌관선암 포함) 환자를 대상으로 IDE892 단독요법 및 IDE397 등과의 병용요법을 평가하는 1상 임상시험입니다. 이전 표준 치료를 받았으나 진행한 환자에게 시험 약물의 안전성, 약동학적 특성, 유효성을 확인합니다. 특히 경구 MAT2A 억제제인 IDE397과의 병용을 통해 MTAP 결손 종양 세포의 대사적 취약점을 차단하는 원리를 탐색합니다. 국내 3개 기관을 포함하여 총 570명의 환자를 모집할 예정입니다.
-
-- MTAP 유전자 결손이 확인된 국소진행성 또는 전이성 췌장암 및 기타 고형암 환자를 대상으로 진행되는 1상 임상시험입니다.
-- 진행성 또는 전이성 상태에서 1~3차례의 이전 전신 항암 치료를 받고 질병이 진행한 환자가 대상입니다.
-- ECOG 수행능력 점수가 0~1점이고 측정 가능한 병변이 최소 1개 이상 있어야 참여할 수 있습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07277413) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07277413)</small>
-
----
-<a id="nct-nct05985655"></a>
-#### [진행성 고형암 환자를 대상으로 GTAEXS617의 안전성 및 효능을 평가하는 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05985655)
-<small>Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2023-08-14 · ClinicalTrials.gov · Exscientia AI Ltd., a wholly owned subsidiary of Recursion Pharmaceuticals, Inc. · 중요도 0.87
-
-**NCT05985655** · 1상/2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05985655.md)
-
-이 임상시험은 췌장암을 포함한 진행성 고형암 환자를 대상으로 신약 후보물질 GTAEXS617(REC-617)의 안전성, 내약성, 약동학(PK) 및 항종양 활성을 평가하기 위한 1/2상 연구입니다. 기존 표준치료 후 질병이 진행되거나 재발 또는 전이되어 수술이나 방사선 치료로 완치가 불가능한 환자를 대상으로 합니다. 연구를 통해 약물의 적정 용량과 부작용, 그리고 종양 억제 효과를 확인하고자 합니다.
-
-- 췌장암, 두경부암, 비소세포폐암 등 진행성 고형암 환자 230명을 대상으로 시행하는 1/2상 임상시험입니다.
-- GTAEXS617 단독 또는 표준치료 병용 투여 시의 안전성, 내약성 및 항종양 효과를 평가합니다.
-- 표준치료 후 재발 또는 전이된 환자를 참여 대상으로 합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05985655) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05985655)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07948070) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07948070)</small>
 
 ---
 <a id="nct-nct01088789"></a>
@@ -142,57 +255,6 @@ MTAP(메틸싸이오아데노신 포스포릴라아제) 결손이 확인된 진�
 <small>[원문](https://clinicaltrials.gov/study/NCT01088789) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01088789)</small>
 
 ---
-<a id="nct-nct07698613"></a>
-#### [국소 진행성 및 경계성 수술 가능 췌장암 환자를 위한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
-<small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-07-13 · ClinicalTrials.gov · Brown University · 중요도 0.87
-
-**NCT07698613** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07698613.md)
-
-이 임상시험은 국소 진행성 또는 경계성 수술 가능 췌장암 환자를 대상으로 ASP-1929 광면역치료(PIT)의 안전성과 초기 유효성을 평가하기 위한 연구입니다. 선행 보조 항암화학요법을 완료하고 수술적 탐색을 계획 중인 환자 30명을 대상으로 진행됩니다. 치료는 마지막 항암화학요법 및 방사선 치료 종료 후 4~10주 뒤에 시행됩니다.
-
-- 선행 항암치료를 완료한 국소 진행성 및 경계성 수술 가능 췌장암 환자 30명을 대상으로 합니다.
-- 표적 광면역치료제인 ASP-1929의 안전성과 초기 치료 효과를 확인합니다.
-- 원격 전이가 없는 환자를 대상으로 수술 전 탐색 단계에서 중재 치료를 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07698613) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07698613)</small>
-
----
-<a id="nct-nct05438459"></a>
-#### [악성 복수를 동반한 현미부수체 안정형(MSS) 진행성 위암 및 췌장암 환자를 대상으로 GAIA-102의 복강 내 투여를 평가하는 1/2상 임상시험](https://clinicaltrials.gov/study/NCT05438459)
-<small>GAIA-102 Intraperitoneal Administration in Patients With Advanced Gastrointestinal Cancer of Microsatellite Stable With Malignant Ascites</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2022-06-30 · ClinicalTrials.gov · Kyushu University · 중요도 0.84
-
-**NCT05438459** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT05438459.md)
-
-본 임상시험은 악성 복수가 있는 현미부수체 안정형(MSS) 진행성 위암 및 췌장암 환자를 대상으로 GAIA-102 단독 요법 또는 펨브롤리주맙(pembrolizumab) 등과의 병용 요법의 안전성과 유효성을 평가합니다. 1상에서는 안전성을 확인하고 권장 용량을 결정하며, 2상에서는 위암 및 췌장암 환자군을 나누어 치료 효과를 연구합니다. 췌장암 2상에서는 GAIA-102와 펨브롤리주맙 병용 요법을 기존 항암화학요법에 추가하여 시험합니다. 목표 환자 수는 총 176명입니다.
-
-- 대상 질환은 악성 복수를 동반한 진행성 위암 및 췌장암(현미부수체 안정형, MSS)입니다.
-- 목표 환자 수는 총 176명이며, 1상과 2상(위암, 췌장암)으로 나누어 진행됩니다.
-- 췌장암 2상에서는 GAIA-102와 펨브롤리주맙 병용을 표준 항암치료에 추가하여 평가합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT05438459) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT05438459)</small>
-
----
-<a id="nct-nct07458347"></a>
-#### [KRAS 변이를 보유한 진행성 고형암 환자를 대상으로 KST-6051을 평가하는 1상 용량 증량 및 용량 확장 임상시험](https://clinicaltrials.gov/study/NCT07458347)
-<small>A Phase 1 Dose Escalation and Dose Expansion Trial of KST-6051 in Participants With Advanced Solid Tumors With Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Mutation</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-03-09 · ClinicalTrials.gov · Kestrel Therapeutics, Inc. · 중요도 0.84
-
-**NCT07458347** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07458347.md)
-
-본 임상시험은 KRAS 변이가 있는 진행성 또는 전이성 고형암(췌관선암 포함) 환자를 대상으로 KST-6051을 경구 단독 또는 다른 항암제와 병용 투여할 때의 안전성과 내약성을 평가하는 1상 연구입니다. 이전 치료 후 암이 진행되었거나 표준 치료를 견디지 못한 성인 환자 총 545명을 대상으로 진행됩니다. 연구는 용량 증량 단계와 용량 확장 단계로 구성되며 약물의 안전성, 약동학(PK), 약력학(PD) 및 초기 치료 효과를 관찰합니다.
-
-- KRAS 변이가 확인된 국소진행성 또는 전이성 췌장암 및 고형암 환자 545명을 대상으로 하는 1상 임상시험입니다.
-- 경구 항암제 KST-6051의 단독 투여 및 다른 항암제와의 병용 투여 시 안전성과 초기 효과를 확인합니다.
-- 이전 항암 치료 후 암이 진행했거나 기존 표준 치료에 내약성이 없는 환자가 참여 대상입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07458347) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07458347)</small>
-
----
 <a id="nct-nct07700212"></a>
 #### [전이성 췌관선암 환자의 암 관련 악액질에 대한 미경골 신경 차단술의 안전성 및 초기 유효성 평가 1상 임상시험](https://clinicaltrials.gov/study/NCT07700212)
 <small>A Phase 1 Trial Of Safety And Initial Efficacy Of Vagal Nerve Blockade For Cancer-Induced Cachexia In Patients With Metastatic Pancreatic Adenocarcinoma</small>
@@ -208,40 +270,6 @@ MTAP(메틸싸이오아데노신 포스포릴라아제) 결손이 확인된 진�
 - 1차 항암 치료 후 질병이 진행되고 체중이 5% 이상 감소한 전이성 췌장암 환자 10명을 모집합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07700212) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07700212)</small>
-
----
-<a id="nct-nct04222413"></a>
-#### [전이성 고형암 환자를 대상으로 한 Metarrestin(ML-246)의 1상 임상시험](https://clinicaltrials.gov/study/NCT04222413)
-<small>Metarrestin (ML-246) in Subjects With Metastatic Solid Tumors</small>
-
-`임상시험` `1상` `신약·치료제` `치료 전반` `진단·조기발견` · 2020-01-10 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.80
-
-**NCT04222413** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04222413.md)
-
-이 임상시험은 이전 표준 항암 치료 후 진행된 전이성 췌장암, 유방암, 대장암 및 진행성 고형암 환자를 대상으로 신약 metarrestin(ML-246)의 안전성과 최대 내약 용량을 확인하고 종양 축소 효과를 평가하는 1상 연구입니다. metarrestin은 암 전이와 관련된 구획인 핵주변 구획(PNC)을 표적으로 하여 암세포의 증식과 전이를 억제하도록 개발된 표적항암제 후보물질입니다. 참여 환자들은 약물 부작용을 견딜 수 없거나 질병이 진행될 때까지 28일 주기로 metarrestin을 경구 복용하게 됩니다.
-
-- 이전 표준 화학요법을 1가지 이상 받은 전이성 췌장암 및 고형암 환자 등 총 116명을 대상으로 진행하는 1상 임상시험입니다.
-- metarrestin의 안전한 최대 내약 용량(MTD)을 결정하고, 췌장암 등의 코호트에서 객관적 반응률(ORR)을 평가합니다.
-- 암 전이를 촉진하는 핵주변 구획(PNC)을 표적으로 하는 경구용 신약 약물입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04222413) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04222413)</small>
-
----
-<a id="nct-nct07631884"></a>
-#### [HER2 발현 진행성 고형암 환자를 대상으로 한 Trastuzumab Rezetecan의 효과와 안전성을 평가하는 탐색적 2상 임상시험](https://clinicaltrials.gov/study/NCT07631884)
-<small>Exploratory Study on the Efficacy and Safety of Trastuzumab Rezetecan in the Treatment of HER2-Expressiong Advanced Solid Tumor</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` · 2026-06-08 · ClinicalTrials.gov · Haihua Yuan · 중요도 0.80
-
-**NCT07631884** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07631884.md)
-
-본 임상시험은 HER2 단백질이 발현된 진행성 고형암(췌장암 포함) 성인 환자를 대상으로 Trastuzumab Rezetecan의 효과와 안전성을 검증하기 위한 2상 연구입니다. 이전 치료 후 질병이 진행한 국소 진행성, 수술 불가능 또는 전이성 고형암 환자 15명을 모집합니다. 참여자는 21일 주기로 Trastuzumab Rezetecan 치료를 받으며, 객관적 반응률(ORR)을 통해 약물의 치료 효과를 평가받습니다.
-
-- HER2 발현(IHC 1+, 2+, 3+)이 확인되고 최소 1가지 이상의 이전 전신 항암 치료를 받은 췌장암 등 진행성 고형암 환자를 대상으로 합니다.
-- 참여 환자는 3주(21일) 간격으로 Trastuzumab Rezetecan 정맥 주사를 투여받습니다.
-- 주요 평가 지표는 종양 크기 감소를 확인하는 객관적 반응률(ORR)입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07631884) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07631884)</small>
 
 ---
 <a id="nct-nct04678648"></a>
@@ -293,23 +321,6 @@ MTAP(메틸싸이오아데노신 포스포릴라아제) 결손이 확인된 진�
 - 만 40세 이상의 성인을 대상으로 진행되는 조기 발견 및 감시 연구입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07949578) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07949578)</small>
-
----
-<a id="nct-nct06995898"></a>
-#### [뱅가드 연구: 새로운 암 검진 방법 평가 임상시험](https://clinicaltrials.gov/study/NCT06995898)
-<small>The Vanguard Study: Testing a New Way to Screen for Cancer</small>
-
-`임상시험` `기타` `진단·조기발견` · 2025-05-30 · ClinicalTrials.gov · National Cancer Institute (NCI) · 중요도 0.65
-
-**NCT06995898** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06995898.md)
-
-본 연구는 혈액 내 표지자를 측정하여 여러 암을 동시에 조기 발견하는 다중암 조기 발견(MCD) 검사의 타당성을 평가하는 임상시험입니다. 최근 5년 이내 암 진단 이력이 없는 45세에서 75세 성인 24,000명을 대상으로 진행됩니다. 참가자들은 Shield 검사군, Avantect 검사군, 대조군 등 3개 군으로 무작위 배정됩니다. 이 연구는 MCD 검사의 조기 진단 성능과 검사 결과에 따른 진단 과정의 타당성을 평가하는 것을 목적으로 합니다.
-
-- 암 이력이 없는 45~75세 성인 24,000명을 대상으로 진행하는 조기 암 검진 타당성 연구입니다.
-- Shield 및 Avantect 두 가지 다중암 조기 발견(MCD) 혈액 검사의 성능을 대조군과 비교합니다.
-- 참가자는 등록 시점과 1년 후에 혈액 검사를 받고 최대 10년간 추적 관찰을 받게 됩니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06995898) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06995898)</small>
 
 ---
 <a id="nct-nct06752811"></a>
@@ -2568,22 +2579,5 @@ MTAP(메틸싸이오아데노신 포스포릴라아제) 결손이 확인된 진�
 - 초록에 명시되지 않음: 생존기간, 반응률, 위험비 등의 유효성 수치는 초록에 명시되지 않음.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07905131) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07905131)</small>
-
----
-<a id="nct-nct04390399"></a>
-#### [국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법과 병용 면역요법(Aldoxorubicin HCl, N-803, PD-L1 t-haNK)을 비교하는 2상 임상시험](https://clinicaltrials.gov/study/NCT04390399)
-<small>Combination Immunotherapy Plus Standard-of-Care Chemotherapy Versus Standard-of-Care Chemotherapy for the Treatment of Locally Advanced or Metastatic Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2020-05-15 · ClinicalTrials.gov · ImmunityBio, Inc. · 중요도 0.87
-
-**NCT04390399** · 2상 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04390399.md)
-
-이 연구는 국소 진행성 또는 전이성 췌장암 환자를 대상으로 표준 항암화학요법 단독 치료와 표준 항암화학요법에 aldoxorubicin HCl, N-803, PD-L1 t-haNK를 병용한 치료의 비교 유효성 및 전반적인 안전성을 평가하기 위한 2상, 공개, 3개 코호트(무작위 배정 2개, 단일군 1개) 임상시험입니다. 각 치료 세팅(1차 유지요법, 2차 치료, 3차 이상 치료)은 별도의 코호트로 독립적으로 평가됩니다. 목표 환자 수는 328명입니다.
-
-- 목표 환자 수는 총 328명입니다.
-- 1차 유지요법, 2차 치료, 3차 이상 치료의 세 가지 코호트로 나누어 진행됩니다.
-- 표준 항암화학요법 단독 치료와 면역요법 병용 치료의 효과와 안전성을 비교합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04390399) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04390399)</small>
 
 ---

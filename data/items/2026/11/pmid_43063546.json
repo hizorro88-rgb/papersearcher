@@ -7,10 +7,12 @@
   "Pawlik TM"
  ],
  "categories": [
-  "treatment"
+  "surgery",
+  "treatment",
+  "supportive"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "observational",
  "first_seen": "2026-11-22",
  "history": [
   {
@@ -20,8 +22,12 @@
   }
  ],
  "id": "pmid:43063546",
- "importance": 0.61,
- "key_points_ko": [],
+ "importance": 0.68,
+ "key_points_ko": [
+  "수술을 받은 고령 췌장암 및 간내 담도암 환자 4,646명 중 17.2%가 전문간호시설(SNF)로, 32.6%가 가정간호서비스(HHA)로 퇴원했습니다.",
+  "HHA 퇴원 대비 SNF 퇴원은 수술 후 보조 항암화학요법(adjuvant chemotherapy)을 받을 확률을 46% 낮추었으며(aOR 0.54), 90일 사망률을 2.06배 높였습니다.",
+  "자택으로 직접 퇴원한 환자는 90일 재입원 위험이 22% 감소했습니다(aOR 0.78)."
+ ],
  "last_updated": "2026-11-22",
  "links": {
   "doi": "10.1016/j.amjsurg.2026.117357",
@@ -43,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43063546/"
  },
- "summary_ko": "BACKGROUND: This study evaluated post-acute care settings, clinical outcomes, and Medicare costs after hepatopancreatic cancer surgery in older adults with pancreatic ductal adenocarcinoma (PDAC) or intrahepatic cholangiocarcinoma (iCCA). METHODS: Using SEER-Medicare (2005-2019), patients ≥65 years who had stage I-III resection were categorized by discharge disposition: home, home health agency (HHA), skilled nursing facility (SNF), or interhospital transfer.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 췌관선암(PDAC) 또는 간내 담도암(iCCA)으로 수술을 받은 65세 이상 환자를 대상으로 퇴원 경로(자택, 가정간호서비스, 전문간호시설, 병원 간 전원)에 따른 예후와 비용을 분석했습니다. 총 4,646명의 환자 중 46.7%가 자택, 32.6%가 가정간호서비스(HHA), 17.2%가 전문간호시설(SNF)로 퇴원했습니다. HHA 퇴원 환자와 비교했을 때, SNF 퇴원 환자는 수술 후 보조 항암치료 및 종양학적 추적관찰을 받을 가능성이 낮았으며 90일 사망률과 재입원율이 더 높았습니다. 결론적으로 수술 후 HHA 이용이나 자택 퇴원이 전문간호시설 이동보다 양호한 회복 결과를 보였습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Comparing health outcomes and costs of care by discharge disposition after hepatopancreatic cancer surgery: Insights from SEER-medicare",
- "title_ko": null,
+ "title_ko": "간췌장암 수술 후 퇴원 경로에 따른 건강 결과 및 치료 비용 비교: SEER-Medicare 분석",
  "trial": null,
  "type": "paper"
 }

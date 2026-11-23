@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) rapidly develops therapeutic resistance, leading to frequent relapse even after an initial response to treatment. Drug-tolerant persister cells represent a transient and plastic population that survives cytotoxic pressure through reversible adaptive programs and may subsequently give rise to stable resistant disease. In PDAC, persister survival is supported by metabolic rewiring, redox adaptation, post-translational remodeling, autophagy, and lysosomal fitness, together with protective signals provided by the desmoplastic tumor microenvironment. These mechanisms preserve cellular homeostasis, sustain mitochondrial function, modify drug handling, and reduce immune recognition under conditions of severe therapeutic and metabolic stress. Experimental systems based on treatment-pulse protocols, patient-derived organoids, stromal co-cultures, relapse models, and single-cell approaches are beginning to define the functional dependencies of these residual populations. This review discusses the biological boundaries of PDAC persister states and examines their principal therapeutic vulnerabilities. Understanding when these adaptive programs emerge may enable the development of time-resolved strategies aimed at eliminating residual tumor cells before reversible tolerance progresses to stable resistance and clinical relapse.",
+ "authors": [
+  "Cordani M",
+  "Tseng YT",
+  "Hu CM"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43066803",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌장암 잔류 세포는 대사 재편성, 자가포식, 미토콘드리아 유지 및 기질 미세환경의 보호를 통해 치료 스트레스에서 생존합니다.",
+  "치료 파동 프로토콜, 환자 유래 오가노이드, 단일 세포 분석 연구를 통해 잔류 세포의 기능적 의존성이 밝혀지고 있습니다.",
+  "가역적 내성 상태가 영구적 내성 및 임상적 재발로 이어지기 전에 잔류 암세포를 제거하기 위한 치료적 취약점 연구가 진행 중입니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1007/s10555-026-10401-7",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43066803"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Metastasis Rev",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066803/"
+ },
+ "summary_ko": "췌장관선암(PDAC)은 초기 치료 반응 후에도 약물 내성 잔류 세포(persister cells)의 존재로 인해 재발이 빈번하게 발생합니다. 잔류 세포는 대사 재편성, 자가포식(autophagy), 미토콘드리아 기능 유지 및 종양 미세환경(tumor microenvironment)의 보호 신호를 통해 치료 스트레스에서 살아남는 가역적 세포 집단입니다. 본 종설 논문은 환자 유래 오가노이드 및 단일 세포 분석 등의 모델을 통해 residual(잔류) 세포의 생물학적 특성과 치료적 취약점을 분석했습니다. 가역적 내성이 영구적 내성 및 재발로 진행하기 전에 잔류 암세포를 제거하기 위한 시의적절한 치료 전략을 논의합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Drug-tolerant persister states in pancreatic cancer and their therapeutic vulnerabilities",
+ "title_ko": "췌장암의 약물 내성 잔류 세포 상태 및 치료적 취약점",
+ "trial": null,
+ "type": "paper"
+}

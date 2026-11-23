@@ -1,0 +1,58 @@
+{
+ "abstract": "Type 2 diabetes (T2D) is associated with increased pancreatic ductal adenocarcinoma (PDAC) risk, and diabetes-associated myeloid alterations may contribute to this relationship. We integrated single-cell analyses, Mendelian randomization (MR), and cellular and mouse models to investigate TIPARP-associated myeloid states. TIPARP expression was enriched in T2D classical monocytes, with predicted interactions involving macrophage-like monocytes. MR suggested a nominal association between genetically predicted higher TIPARP expression and PDAC risk (odds ratio [OR] = 2.15, p = 0.0044), with colocalization evidence (posterior probability of hypothesis 4 [PPH4] = 0.8023). TIPARP overexpression promoted M2-like polarization in THP-1-derived and primary human macrophages with PI3K-AKT involvement. Conditioned media from TIPARP-overexpressing macrophages enhanced PDAC cell proliferation and migration, while macrophage co-injection was associated with larger xenograft tumors. Matched blood and tumor samples showed associations between circulating TIPARP-positive (TIPARP+) classical monocytes, intratumoral TIPARP+ macrophages, and M2-like signatures. These findings suggest that TIPARP-associated myeloid alterations may represent a potential immunological link between T2D and PDAC progression.",
+ "authors": [
+  "Meng Z",
+  "Wang N",
+  "Li M",
+  "Liu Q"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43065786",
+ "importance": 0.59,
+ "key_points_ko": [
+  "멘델 무작위배정(MR) 연구 결과 높은 TIPARP 유전자 발현은 췌장암 위험 증가와 연관성을 보였습니다(승산비[OR] = 2.15, p = 0.0044).",
+  "TIPARP 과발현 거대식세포 배양액은 췌장암 세포의 증식과 이동을 촉진했습니다.",
+  "마우스 이식종 모델에서 TIPARP 과발현 거대식세포를 함께 주입했을 때 종양 크기가 더 크게 형성되었습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1016/j.isci.2026.118214",
+  "nct": [],
+  "pmcid": "PMC13785339",
+  "pmid": "43065786"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "iScience",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43065786/"
+ },
+ "summary_ko": "본 연구는 2형 당뇨병(T2D)과 췌장관선암(PDAC)의 면역학적 연관성을 규명하기 위해 수행되었습니다. 단일세포 분석, 멘델 무작위배정(MR) 연구, 전임상 동물 및 세포 모델을 통합하여 TIPARP 유전자 관련 골수성 세포 상태를 조사했습니다. 연구 결과 TIPARP 과발현이 M2형 거대식세포 분극화를 촉진하고 췌장암 세포의 증식과 이동을 촉진하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "TIPARP promotes M2-like macrophage polarization and associates with T2D myeloid alterations and PDAC progression",
+ "title_ko": "TIPARP가 M2형 거대식세포 분극화를 촉진하며 2형 당뇨병 골수성 세포 변화 및 췌장관선암 진행과 관련됨",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is often diagnosed at an advanced stage, where treatment options are limited. Studies suggest that early detection programs for individuals with increased genetic or familial risk may enable diagnosis and surgical treatment at a potentially curable stage. Early detection programs for pancreatic cancer show effectiveness and are cost-effective in populations stratified by the appropriate age to initiate surveillance. There is no benefit in participating in such a program for individuals who are not interested in surgery or are not surgical candidates due to their medical condition. Annual surveillance with MRI or endoscopic ultrasound (EUS) is recommended for carriers of specific gene mutations-such as BRCA2, even without a family history of pancreatic cancer and for carriers of other genes only when a family history is present, or for individuals with a strong family history even without an identified genetic mutation. This position paper details surveillance recommendations for high-risk populations.",
+ "authors": [
+  "Aharoni Golan M",
+  "Levi Z",
+  "Benjaminov F",
+  "Ben-Ami Shor D",
+  "Kariv R",
+  "Kats L",
+  "Half E",
+  "Laish I"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43068365",
+ "importance": 0.9,
+ "key_points_ko": [
+  "BRCA2 등 특정 유전자 변이 보유자 또는 강한 가족력이 있는 고위험군에게 MRI 또는 내시경 초음파(EUS)를 이용한 연간 감시 검사를 권장합니다.",
+  "적절한 연령에 시작하는 고위험군 췌장암 조기 발견 프로그램은 임상적 효과와 비용 효과성이 확인되었습니다.",
+  "의학적 상태로 인해 수술이 불가능하거나 수술적 치료를 원하지 않는 경우에는 감시 검사의 이점이 없습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": null,
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43068365"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Harefuah",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068365/"
+ },
+ "summary_ko": "본 지침서는 유전적 또는 가족성 위험이 높은 췌관선암(PDAC) 고위험군을 대상으로 한 조기 발견 및 감시 검사 권고안을 다룹니다. 적절한 대상군에서 수행하는 조기 발견 프로그램은 완치 가능한 단계에서의 진단과 수술적 치료를 가능하게 합니다. BRCA2 등 특정 유전자 변이 보유자나 췌장암 가족력이 있는 고위험군에게 자기공명영상(MRI) 또는 내시경 초음파(EUS)를 통한 매년 감시 검사가 권장됩니다. 다만 수술을 원하지 않거나 건강 상태상 수술이 불가능한 대상자는 감시 프로그램 참여 이점이 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Position paper: surveillance for pancreatic cancer in individuals at elevated risk for pancreatic ductal adenocarcinoma]",
+ "title_ko": "췌관선암 고위험군을 위한 췌장암 감시 검사 지침서",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Dysregulation of RNA is closely associated with cancer initiation and promotion. Ribosomal protein S3 (RPS3), as a component of the small subunit 40S of the eukaryotic ribosome, functions as an RNA-binding protein involved in ribosome maturation and the initiation of translation. However, its role in pancreatic cancer biology and its potential as a therapeutic target remain unclear. In this study, we found that RPS3 knockdown strongly suppresses cell proliferation in multiple pancreatic cancer cell lines, SUIT-2, PK-1, and PANC-1 cells, in vitro. In a xenograft model, RPS3 knockdown inhibited tumor growth. Immunocytochemistry revealed a reduction in the proportion of Ki-67-positive pancreatic cancer cells following RPS3 knockdown. Flow cytometry demonstrated that RPS3 knockdown induced G2/M arrest, accompanied by reduced cyclin B1 protein expression. RNA-immunoprecipitation assay revealed RPS3 binds with leucine-rich repeat-containing G-protein coupled receptor 4 (LGR4) mRNA, an upstream regulator in the Wnt/β-catenin signaling. RPS3 knockdown reduced LGR4 protein expression and the nuclear translocation of β-catenin, accompanied by the suppression of c-Myc expression. LGR4 overexpression significantly rescued the suppression of cell proliferation induced by RPS3 knockdown. These findings indicate that RPS3 supports pancreatic cancer cell proliferation through the LGR4/Wnt/β-catenin signaling and highlights RPS3 as a potential therapeutic target in pancreatic cancer.",
+ "authors": [
+  "Hashimoto T",
+  "Konishi H",
+  "Dokoshi T",
+  "Murakami Y",
+  "Sakatani A",
+  "Ando K",
+  "Takahashi K",
+  "Kashima S"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43067983",
+ "importance": 0.59,
+ "key_points_ko": [
+  "췌장암 세포주(SUIT-2, PK-1, PANC-1) 및 마우스 이식 모델에서 RPS3 발현 억제 시 종양 성장이 크게 억제되었습니다.",
+  "RPS3 억제는 췌장암 세포 주기의 G2/M기 정지를 유도하고 Cyclin B1 단백질 발현을 감소시켰습니다.",
+  "RPS3는 LGR4 mRNA와 결합하여 LGR4 단백질 발현 및 β-catenin의 핵 내 이동을 조절하는 것을 확인했습니다."
+ ],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1016/j.omton.2026.201377",
+  "nct": [],
+  "pmcid": "PMC13788588",
+  "pmid": "43067983"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Ther Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067983/"
+ },
+ "summary_ko": "본 연구는 리보솜 단백질 RPS3가 췌장암 증식에 미치는 영향과 기전을 전임상 연구를 통해 규명했습니다. 췌장암 세포주와 마우스 이식 모델에서 RPS3 발현을 억제했을 때 세포 증식과 종양 성장이 유의하게 감소했습니다. RPS3는 LGR4 mRNA와 결합하여 Wnt/β-catenin 신호 전달 경로를 활성화하고 췌장암 세포 주기를 촉진하는 것으로 나타났습니다. 이 결과는 RPS3가 췌장암 치료를 위한 새로운 잠재적 표적이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The RNA-binding protein RPS3 accelerates cell cycling via the Wnt/β-catenin signaling pathway in pancreatic cancer",
+ "title_ko": "RNA 결합 단백질 RPS3의 Wnt/β-catenin 신호 전달 경로를 통한 췌장암 세포 주기 촉진 작용",
+ "trial": null,
+ "type": "paper"
+}

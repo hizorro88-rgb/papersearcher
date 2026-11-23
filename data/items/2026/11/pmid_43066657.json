@@ -1,0 +1,51 @@
+{
+ "abstract": "OBJECTIVE: Psoriasis is recognized as a systemic inflammatory condition; however, its association with pancreatic cancer risk remains uncertain. This study aimed to evaluate whether psoriasis is associated with an increased risk of pancreatic cancer.\nMETHODS: We conducted a retrospective cohort study using the database from 2006 to 2023 in the TriNetX global federated research network. Patients aged 40-84 years with psoriasis were identified and matched 1:1 to controls without psoriasis using propensity score matching based on demographic and baseline comorbidities. Cumulative incidence, hazard ratios (HRs), and 95% confidence intervals (CIs) were estimated using the TriNetX \"Compare Outcomes\" module.\nRESULTS: After 1:1 propensity score matching, each cohort initially comprised 381,381 participants. Following application of 2-year lag period, the final analytic cohorts consisted of 381,032 patients with psoriasis and 381,278 controls. Over a 9-year follow-up period, 516 cases of pancreatic cancer occurred in the psoriasis group and 186 in the control group, corresponding to crude event proportions of 0.135% and 0.049%, respectively. Psoriasis was associated with an increased risk of pancreatic cancer compared with the control group (HR, 2.82; 95% CI, 2.39-3.34). These findings were consistent across multiple sensitivity analyses.\nCONCLUSION: Psoriasis is associated with an increased risk of pancreatic cancer in patients aged 40-84 years. Further prospective studies are warranted to validate these findings.",
+ "authors": [
+  "Lai SW",
+  "Liao KF"
+ ],
+ "categories": [
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-23",
+ "history": [
+  {
+   "date": "2026-11-23",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43066657",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-23",
+ "links": {
+  "doi": "10.1159/ocl/aebag034",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43066657"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-21",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43066657/"
+ },
+ "summary_ko": "OBJECTIVE: Psoriasis is recognized as a systemic inflammatory condition; however, its association with pancreatic cancer risk remains uncertain. This study aimed to evaluate whether psoriasis is associated with an increased risk of pancreatic cancer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Association Between Psoriasis and Pancreatic Cancer Risk: A Retrospective Cohort Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
