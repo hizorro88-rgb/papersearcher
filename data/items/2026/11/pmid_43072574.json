@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic Panniculitis (PP) is a rare inflammatory condition that causes necrosis of subcutaneous fat, typically in association with underlying pancreatic pathologies. Nearly half of the patients may have acute or chronic pancreatitis, and the other half, alongside various pancreatic neoplasms, allows PP to be viewed as a paraneoplastic phenomenon. The cutaneous manifestations of PP appear as poorly defined erythematous nodules, most frequently on the distal lower extremities, which may ulcerate and excrete an oily material. The pathogenesis of PP is unclear, but it may be related to the extravascular extravasation of pancreatic enzymes to the sites of subcutaneous fat. The prognosis of PP is variable depending on the underlying cause; neoplastic etiologies tend to have a worse prognosis. Treatment is focused on correcting the underlying pancreatic etiology; however, octreotide and tetracyclines can be used. Further exploration of its underlying pathogenesis has included the identifying biomarkers and examining the role of cytokines (especially adipokines) and immune complexes. Because PP is linked to an array of underlying disorders, cutaneous manifestations can be the first sign of this disease.",
+ "authors": [
+  "Klufas T",
+  "Ajmani A",
+  "Hanggodo S",
+  "Zedek M",
+  "Zhou AE",
+  "Kerr P"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072574",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌장성 지방층염은 췌장염 및 췌장 종양 환자에게서 발병할 수 있으며, 피부 증상이 췌장 질환의 첫 번째 징후일 수 있습니다.",
+  "병인 원인으로 췌장 효소가 혈관 외로 누출되어 피하 지방을 손상시키는 기전이 제시되고 있습니다.",
+  "원인 질환이 췌장 종양인 경우 췌장염인 경우에 비해 예후가 더 나쁜 경향이 있습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/j.clindermatol.2026.11.041",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072574"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Dermatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072574/"
+ },
+ "summary_ko": "췌장성 지방층염(Pancreatic Panniculitis, PP)은 췌장 질환과 연관되어 피하 지방 괴사를 일으키는 희귀 염증성 질환입니다. 환자의 약 절반은 급성 또는 만성 췌장염을 동반하며, 나머지 절반은 췌장 종양 등과 연관된 부종양 증후군(paraneoplastic phenomenon)으로 나타납니다. 주로 하부 다리에 경계가 불분명한 홍반성 결절이 생기며 궤양을 형성하여 기름진 물질이 배출되기도 합니다. 치료는 원인이 되는 췌장 질환을 교정하는 데 집중되며 octreotide(옥트레오타이드)나 tetracycline(테트라사이클린) 등이 사용될 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic Panniculitis",
+ "title_ko": "췌장성 지방층염의 임상적 특징 및 병태생리",
+ "trial": null,
+ "type": "paper"
+}

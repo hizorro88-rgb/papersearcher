@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies. Inducing ferroptosis is a promising strategy to enhance chemotherapy and overcome resistance in PDAC. However, the transcriptional control of transferrin receptor 1 (TFRC, encoding the TFR1 protein), the iron gateway driving ferroptosis remains unknown in PDAC, hindering the development of TFR1-targeted ferroptosis-inducing strategies. In this study, TCF7L1 is identified as the first transcriptional repressor of TFRC in PDAC, defining a new ferroptosis iron regulator. TCF7L1 knockdown induces ferroptosis and suppresses tumor growth in patient-derived organoids (PDOs) and xenograft (PDX) models, but not in normal human cell lines, revealing its cancer-selective ferroptosis dependency. Sulforaphane (SFN) binds to TCF7L1 through a binding interface that involves Tyr148, Lys165, and His186, inducing a conformational change that disrupts the TCF7L1-TLE3 corepressor interaction. This disruption relieves TCF7L1-mediated transcriptional repression of TFRC, leading to Fe2+ overload, thereby triggering ferroptosis. Combined treatment with SFN and the GPX4 inhibitor RSL3 nearly abolishes PDAC growth. The TCF7L1-TFR1 axis determines chemosensitivity and acquired resistance. SFN enhances gemcitabine sensitivity and overcomes drug resistance. This study concludes that the TCF7L1-TFR1 axis is a druggable target and SFN is the first direct TCF7L1 ligand, providing a safe, translatable strategy to sensitize PDAC.",
+ "authors": [
+  "Liu C",
+  "Zhang B",
+  "Liu P",
+  "Zhang H",
+  "Xu Q",
+  "Tian M",
+  "Zhang J",
+  "Wang T"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43068982",
+ "importance": 0.64,
+ "key_points_ko": [
+  "TCF7L1 단백질이 췌장암 세포에서 페롭토시스를 억제하는 TFRC 유전자의 전사 억제자임을 최초로 규명했습니다.",
+  "설포라판(SFN)이 TCF7L1 복합체를 교란하여 TFRC 발현을 늘리고 췌장암 세포의 페롭토시스를 유발했습니다.",
+  "설포라판과 젬시타빈을 함께 사용했을 때 항암제 내성을 극복하고 종양 억제 효과가 증대되었습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1002/advs.78876",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43068982"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-22",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068982/"
+ },
+ "summary_ko": "본 연구는 췌장암 세포 및 환자 유래 오가노이드(PDO), 세포외이식(PDX) 모델에서 세포사멸의 일종인 페롭토시스(Ferroptosis) 조절 기전을 규명한 전임상 연구입니다. 연구진은 TCF7L1 단백질이 철분 수용체 유전자인 TFRC의 전사를 억제하는 핵심 인자임을 발견했습니다. 십자화과 채소 성분인 설포라판(sulforaphane, SFN)이 TCF7L1에 직접 결합하여 전사 억제를 해제하고 세포 내 철분 과부하를 일으켜 페롭토시스를 유도함을 확인했습니다. 또한 설포라판 치료는 gemcitabine(젬시타빈)에 대한 감수성을 높이고 획득 내성을 극복하는 데 기여했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Disruption of the TCF7L1-TLE3 Complex by Sulforaphane De-Represses TFRC Transcription to Overcome Chemoresistance Through Ferroptosis in Pancreatic Cancer",
+ "title_ko": "설포라판에 의한 TCF7L1-TLE3 복합체 억제로 TFRC 전사 해제 및 페롭토시스를 통한 췌장암 항암제 내성 극복",
+ "trial": null,
+ "type": "paper"
+}

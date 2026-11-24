@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has a five-year survival rate below 10%. Most cases are unresectable, and treatment is hampered by dense stroma, an immunosuppressive microenvironment, and resistance to immune checkpoint blockade. Photodynamic therapy (PDT) is a minimally invasive modality that kills tumor cells via reactive oxygen species and may modulate immunoregulatory molecules. The effect of zinc phthalocyanine (ZnPc)-mediated PDT on immune checkpoint expression in PDAC has not been characterized.\nMETHODS: Immune checkpoint gene expression was compared between pancreatic tumor and normal tissue using TCGA-PAAD and GTEx datasets via GEPIA2. MIA PaCa-2 and PANC-1 cell lines were treated with ZnPc-PDT (675 nm; 80 mW; 12 J/cm2). Cytotoxicity was measured by MTT assay, apoptosis and cell-cycle distribution were analyzed by flow cytometry, and transcript levels of CD47, CTLA-4, PD-L1, and VISTA, together with the apoptosis-related genes BAX and BCL2, were quantified by RT-qPCR and normalized to GAPDH.\nRESULTS: In silico analysis showed significantly higher expression of CD47, CTLA-4, and VISTA in PDAC than in normal pancreas, whereas the difference for PD-L1 was not significant. ZnPc alone showed no cytotoxicity; light activation produced dose-dependent cell death with IC50 values of 0.784 μg/mL (MIA PaCa-2) and 0.09 μg/mL (PANC-1). Flow cytometric analysis showed that ZnPc-PDT significantly increased the percentage of apoptotic cells in both cell lines. Cell-cycle analysis revealed an increase in the sub-G1 fraction in both cell lines. MIA PaCa-2 cells also showed a modest but significant increase in the G0/G1 fraction. ZnPc-PDT increased BAX and decreased BCL2 transcript levels in both cell lines. Treatment with ZnPc-PDT significantly downregulated CD47, CTLA-4, and PD-L1 transcript levels in both cell lines, whereas VISTA was downregulated only in PANC-1 cells.\nCONCLUSIONS: ZnPc-PDT induced light-dependent cytotoxicity and consistently downregulated the transcript levels of CD47, CTLA-4, and PD-L1 in PDAC cells, while VISTA regulation is cell-line dependent. These in vitro findings warrant protein-level and immune-functional validation before combinations of PDT with immune checkpoint inhibitors are explored for PDAC.",
+ "authors": [
+  "Hosseinpour M",
+  "Mohammadnejad F",
+  "Shahriar Oskouei SS",
+  "Karamali N",
+  "Rahbani Nobar A",
+  "Soleimani Oskui M",
+  "Yari AH",
+  "Tajalli H"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43068592",
+ "importance": 0.64,
+ "key_points_ko": [
+  "ZnPc-PDT는 췌장암 세포주 MIA PaCa-2와 PANC-1에서 각각 IC50 0.784 μg/mL 및 0.09 μg/mL의 세포 독성을 보였습니다.",
+  "치료 후 두 세포주 모두에서 세포사멸 촉진 유전자(BAX) 전사체는 증가하고 억제 유전자(BCL2) 전사체는 감소했습니다.",
+  "ZnPc-PDT 치료는 두 췌장암 세포주 모두에서 CD47, CTLA-4, PD-L1 면역관문 유전자의 전사체 수준을 유의미하게 하향 조절했습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/j.bbrc.2026.154926",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43068592"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biochem Biophys Res Commun",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068592/"
+ },
+ "summary_ko": "췌장암 세포주에서 아연 프탈로시아닌(ZnPc)을 활용한 광역학 치료(PDT)의 효과를 평가한 기초 전임상 연구입니다. ZnPc-PDT는 빛 조사 조건에서 췌장암 세포의 아포토시스(apoptosis, 세포사멸)를 효과적으로 유도했습니다. 또한 주요 면역관문(immune checkpoint) 유전자인 CD47, CTLA-4, PD-L1의 전사체 발현을 유의미하게 줄였습니다. 본 연구는 향후 광역학 치료와 면역항암제 병용 치료법의 가능성을 세포 수준에서 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Photodynamic therapy induces apoptosis and downregulates immune checkpoint transcripts in pancreatic cancer cells",
+ "title_ko": "광역학 치료가 췌장암 세포의 세포사멸을 유도하고 면역관문 전사체 발현을 감소시킴",
+ "trial": null,
+ "type": "paper"
+}

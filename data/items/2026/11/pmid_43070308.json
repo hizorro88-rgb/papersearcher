@@ -1,0 +1,63 @@
+{
+ "abstract": "This study explores the therapeutic potential of the calcium-activated potassium channel KCa3.1 in pancreatic ductal adenocarcinoma (PDAC). Increased KCa3.1 expression correlates with poor overall survival of patients with PDAC. Using the immunocompetent KPfC (KrasWT/LSL-G12D Tp53fl/+ Pdx1-Cre) mouse model, we evaluated the therapeutic efficacy of KCa3.1 inhibition with TRAM-34 and maurotoxin alone or in combination with gemcitabine. Mechanistic insights were obtained in vitro from KCa3.1 CRISPR knockout pancreatic cancer cells (PANC-1KCNN4-/-) and a three-dimensional mixed spheroid model composed of pancreatic cancer and stellate cells. In vivo, KCa3.1 inhibition combined with gemcitabine decreased growth of tumor nodes and counteracted gemcitabine-induced fibrosis. Consistently, in vitro and ex vivo data showed that KCa3.1 inhibition induced tumor cell death and altered the invasive phenotype. Here, maurotoxin outperformed TRAM-34. On a molecular level, KCa3.1 inhibition diminished epithelial-mesenchymal transition, reduced T cell exhaustion markers and TGF-β1 secretion, and downregulated the G2-M checkpoint. These findings can mechanistically account for the therapeutic benefits of targeting KCa3.1 channels in PDAC.",
+ "authors": [
+  "Soret B",
+  "Neumann I",
+  "Wilczak W",
+  "Rugi M",
+  "Sargin S",
+  "Schimmelpfennig S",
+  "Nass E",
+  "Mesquita G"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43070308",
+ "importance": 0.64,
+ "key_points_ko": [
+  "KCa3.1 채널 발현 증가가 췌장관선암 환자의 불량한 전체 생존기간(OS)과 관련이 있었습니다.",
+  "동물 실험에서 KCa3.1 억제와 gemcitabine 병용 투여 시 종양 성장이 감소하고 섬유화가 완화되었습니다.",
+  "maurotoxin이 TRAM-34에 비해 종양 세포 사멸 유도 및 침습 억제 효과에서 더 우수한 성능을 보였습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1172/jci.insight.196385",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43070308"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JCI Insight",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070308/"
+ },
+ "summary_ko": "췌장관선암(PDAC)에서 칼슘 활성화 칼륨 채널인 KCa3.1의 발현 증가가 환자의 낮은 생존율과 연관됨을 확인했습니다. 연구진은 마우스 모델 및 세포 실험을 통해 KCa3.1 억제제인 TRAM-34 및 maurotoxin의 단독 또는 gemcitabine(젬시타빈)과의 병용 치료 효과를 평가했습니다. 연구 결과 KCa3.1 억제는 종양 성장을 줄이고 gemcitabine으로 유발된 섬유화를 완화시켰으며 암세포 사멸을 유도했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting KCa3.1 channels in pancreatic ductal adenocarcinoma impairs disease progression",
+ "title_ko": "췌장관선암에서 KCa3.1 채널 표적화를 통한 질환 진행 억제",
+ "trial": null,
+ "type": "paper"
+}

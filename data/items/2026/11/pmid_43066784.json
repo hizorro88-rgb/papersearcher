@@ -11,6 +11,7 @@
  ],
  "categories": [
   "diagnosis",
+  "basic",
   "treatment"
  ],
  "entities": [],
@@ -25,7 +26,12 @@
  ],
  "id": "pmid:43066784",
  "importance": 0.72,
- "key_points_ko": [],
+ "key_points_ko": [
+  "췌장모세포종은 모든 췌장 신생물의 1% 미만을 차지하는 드문 악성 종양입니다.",
+  "성인 환자의 거의 절반에서 진단 당시 간 침범 등을 포함한 전이 또는 국소 침습이 동반되며 예후가 나쁩니다.",
+  "CT는 발견과 수술 계획을 위한 일차 검사이지만 소견이 더 흔한 췌장 종양과 겹칩니다.",
+  "종괴는 대개 고형이거나 혼합형(고형 및 낭성)이며, 석회화, 괴사, 출혈, 불완전한 피막 등을 보일 수 있습니다."
+ ],
  "last_updated": "2026-11-23",
  "links": {
   "doi": "10.1007/s00261-026-05869-4",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43066784/"
  },
- "summary_ko": "Pancreatoblastoma is a malignant tumor, which accounts for less than 1% of all pancreatic neoplasms. Further, it is rarely seen in adults and has a poor prognosis with metastasis or local invasion is present in nearly half of adult patients at diagnosis, most often involving the liver.",
- "summary_source": "excerpt",
+ "summary_ko": "이 문헌은 드문 악성 종양인 성인 췌장모세포종(pancreatoblastoma)의 컴퓨터단층촬영(CT) 소견을 정리한 그림 검토 논문입니다. 성인 환자의 약 절반에서 진단 시 전이이나 국소 침습이 나타나며 예후가 좋지 않습니다. 췌장모세포종은 전형적으로 잘 정의된 경계와 조영증강되는 피막을 가진 큰 외장성 종괴로 췌장 머리 부분에 나타납니다. 저자는 병리학적으로 입증된 성인 사례를 바탕으로 이 드문 종양의 다양한 CT 영상 특징을 설명했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Adult pancreatoblastoma: CT findings of an uncommon tumor",
- "title_ko": null,
+ "title_ko": "성인 췌장모세포종: 드문 종양의 CT 소견",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,59 @@
+{
+ "abstract": null,
+ "authors": [
+  "Mori H",
+  "Tsuruta Y",
+  "Yonahara K",
+  "Ishihara K"
+ ],
+ "categories": [
+  "diagnosis",
+  "supportive",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072801",
+ "importance": 0.54,
+ "key_points_ko": [
+  "두 차례의 내시경 초음파 하 조직 검사에서 진단이 확실하지 않았던 췌장 꼬리 부위 종양 증례입니다.",
+  "전문가 병리 재검토를 거쳐 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다.",
+  "분지형 췌관 내 관상유두상 종양(ITPN)과 유사한 성장 양상을 동반한 드문 형태입니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1136/bcr-2026-276823",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072801"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMJ Case Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072801/"
+ },
+ "summary_ko": "내시경 초음파(EUS) 하 조직 검사를 두 차례 시행했으나 명확하게 진단되지 않았던 췌장 꼬리 부위의 소형 저혈관성 종양 증례 보고입니다. 전문가 병리 재검토를 통해 분지형 췌관 내 관상유두상 종양(ITPN) 유사 성장을 동반한 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다. 희귀 췌장 종양 진단 시 반복 검사 실패 후 전문가의 병리 재검토가 진단에 중요한 역할을 할 수 있음을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Small hypovascular pancreatic tail mass requiring expert pathological review after two non-diagnostic endoscopic ultrasound-guided tissue acquisition procedures: mixed ductal-neuroendocrine carcinoma with branch-duct intraductal tubulopapillary neoplasm-like growth",
+ "title_ko": "두 차례 진단 실패 후 전문가 병리 검토가 필요했던 췌장 꼬리 소질환: 분지형 췌관 내 관상유두상 종양 양상 성장을 동반한 혼합 도관-신경내분비암",
+ "trial": null,
+ "type": "paper"
+}

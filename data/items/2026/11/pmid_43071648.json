@@ -1,0 +1,54 @@
+{
+ "abstract": null,
+ "authors": [
+  "Aschenbrenner DS"
+ ],
+ "categories": [
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43071648",
+ "importance": 0.6,
+ "key_points_ko": [
+  "전이성 췌장암 치료 분야의 새로운 약물군에 관한 보고입니다.",
+  "구체적인 약물명, 반응률 및 생존기간 등의 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1097/AJN.0000000000000415",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43071648"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Am J Nurs",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43071648/"
+ },
+ "summary_ko": "본 문헌은 전이성 췌장암 치료를 위한 새로운 약물군에 관한 저널 기사입니다. 해당 약물의 구체적인 작용 기전 및 임상 효과 수치는 제공된 텍스트에 명시되지 않았습니다. 세부 연구 결과 및 대상 환자 정보는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "New drug class treats metastatic pancreatic cancer",
+ "title_ko": "전이성 췌장암을 치료하는 새로운 약물군",
+ "trial": null,
+ "type": "paper"
+}

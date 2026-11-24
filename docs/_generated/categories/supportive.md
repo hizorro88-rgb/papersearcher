@@ -16,12 +16,71 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 217건 · 최근 30일 113건
+전체 221건 · 최근 30일 115건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43072255"></a>
+#### [암 다학제 클리닉에서 자동화 데이터 추출 도구 도입 및 적용](https://pubmed.ncbi.nlm.nih.gov/43072255/)
+<small>Implementation of an Automated Data Abstraction Tool in a Cancer Multidisciplinary Clinic</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `임상시험` · 2026-11-23 · PubMed · J Surg Res · 중요도 0.63
+
+본 연구는 췌장암 다학제 클리닉에서 전자의무기록(EMR) 데이터 수집을 자동화하기 위해 표준화된 서식 템플릿과 데이터 파이프라인을 구축한 결과입니다. 2023년 2월부터 2025년 2월까지 498건의 작성 기록에서 21,276개의 데이터 포인트를 연구용 등록 시스템으로 자동 이관했습니다. 의료진의 서식 활용률은 1년 차 54.1%에서 2년 차 60.2%로 증가했습니다.
+
+- 2년간 총 498건의 작성 기록에서 21,276개의 데이터 포인트를 자동 수집했습니다.
+- 서식 활용률은 1년 차 54.1%에서 2년 차 60.2%로 증가했습니다.
+- 치료 목표 논의, 췌외분비 기능부전 검진, 임상시험 등록, 완화의료 검진 등 주요 항목의 작성 완료율이 70%를 초과했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43072255/) · [DOI](https://doi.org/10.1016/j.jss.2026.10.052) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43072255)</small>
+
+---
+<a id="pmid-43072872"></a>
+#### [췌장암 환자의 수술 전 담도 배액술: 플라스틱 스텐트와 금속 스텐트 모두 적절합니다](https://pubmed.ncbi.nlm.nih.gov/43072872/)
+<small>Preoperative biliary drainage in pancreatic cancer: either plastic or metal stent will do</small>
+
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` · 2026-12-01 · PubMed · Gastrointest Endosc · 중요도 0.62
+
+본 논문은 췌장암 환자의 수술 전 담도 배액술(preoperative biliary drainage) 시 플라스틱 스텐트(plastic stent)와 금속 스텐트(metal stent)의 활용을 다룬 사설(Editorial)입니다. 수술 전 황달 완화를 위한 담도 감압 시 두 스텐트 모두 선택 가능하다는 점을 언급하고 있습니다. 세부적인 환자 수치나 구체적인 연구 결과는 초록에 명시되지 않았습니다.
+
+- 췌장암 수술 전 담도 배액술에서 플라스틱 스텐트와 금속 스텐트가 모두 적절한 선택지임을 다룬 사설입니다.
+- 세부 환자 수치 및 구체적인 연구 결과는 원문 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43072872/) · [DOI](https://doi.org/10.1016/j.gie.2026.06.072) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43072872)</small>
+
+---
+<a id="pmid-43069727"></a>
+#### [췌장 신경내분비종양에 대한 내시경 초음파 유도하 고주파 절제술](https://pubmed.ncbi.nlm.nih.gov/43069727/)
+<small>[Endoscopic ultrasound-guided radiofrequency ablation for pancreatic neuroendocrine tumors]</small>
+
+`논문` `증례` `치료 전반` `수술` `진단·조기발견` `지지요법·삶의질` `신경내분비종양` · 2026-11-23 · PubMed · Lakartidningen · 중요도 0.56
+
+이 논문은 췌장 신경내분비종양(pancreatic neuroendocrine tumors), 특히 인슐린종(insulinoma) 환자를 대상으로 한 내시경 초음파 유도하 고주파 절제술(EUS-RFA)의 초기 임상 경험을 보고합니다. 스웨덴의 3차 병원에서 증상이 있는 인슐린종 환자 3명을 대상으로 시술을 진행했습니다. 모든 환자에서 시술이 성공적이었고 주요 합병증 없이 저혈당 증상이 소실되었습니다. 추적 검사에서 잔존 종양 활성도는 관찰되지 않았습니다.
+
+- 증상이 있는 인슐린종 환자 3명을 대상으로 EUS-RFA를 성공적으로 시행했습니다.
+- 모든 환자에서 시술 시간이 짧았고 최소한의 수술 후 관리만 필요했으며 주요 합병증은 없었습니다.
+- 모든 사례에서 저혈당 증상이 소실되었고 추적 영상 검사에서 잔존 종양 활성도가 보이지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43069727/) · [DOI](https://doi.org/10.65868/IKFA2132) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43069727)</small>
+
+---
+<a id="pmid-43072801"></a>
+#### [두 차례 진단 실패 후 전문가 병리 검토가 필요했던 췌장 꼬리 소질환: 분지형 췌관 내 관상유두상 종양 양상 성장을 동반한 혼합 도관-신경내분비암](https://pubmed.ncbi.nlm.nih.gov/43072801/)
+<small>Small hypovascular pancreatic tail mass requiring expert pathological review after two non-diagnostic endoscopic ultrasound-guided tissue acquisition procedures: mixed ductal-neuroendocrine carcinoma with branch-duct intraductal tubulopapillary neoplasm-like growth</small>
+
+`논문` `증례` `진단·조기발견` `지지요법·삶의질` `제약사·규제` · 2026-11-23 · PubMed · BMJ Case Rep · 중요도 0.54
+
+내시경 초음파(EUS) 하 조직 검사를 두 차례 시행했으나 명확하게 진단되지 않았던 췌장 꼬리 부위의 소형 저혈관성 종양 증례 보고입니다. 전문가 병리 재검토를 통해 분지형 췌관 내 관상유두상 종양(ITPN) 유사 성장을 동반한 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다. 희귀 췌장 종양 진단 시 반복 검사 실패 후 전문가의 병리 재검토가 진단에 중요한 역할을 할 수 있음을 제시합니다.
+
+- 두 차례의 내시경 초음파 하 조직 검사에서 진단이 확실하지 않았던 췌장 꼬리 부위 종양 증례입니다.
+- 전문가 병리 재검토를 거쳐 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다.
+- 분지형 췌관 내 관상유두상 종양(ITPN)과 유사한 성장 양상을 동반한 드문 형태입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43072801/) · [DOI](https://doi.org/10.1136/bcr-2026-276823) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43072801)</small>
+
+---
 <a id="pmid-43067639"></a>
 #### [ASO 시각적 초록: 재발성 췌관선암 절제술에서 수술 전 CA19-9 및 면역영양 상태에 따른 전체 생존기간 층화](https://pubmed.ncbi.nlm.nih.gov/43067639/)
 <small>ASO Visual Abstract: Resection for Recurrent Pancreatic Ductal Adenocarcinoma: Preoperative CA19-9 and Host Immunonutritional Status Stratify Overall Survival</small>
@@ -1767,35 +1826,5 @@ search:
 - 초록에 구체적인 치료 효과나 생존기간 수치는 명시되지 않았습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT04467593) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04467593)</small>
-
----
-<a id="pmid-42905299"></a>
-#### [췌십이지장절제술을 받은 팽대부 주위 악성종양 환자의 식이 섭취량 및 임상·영양 바이오마커에 관한 전향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42905299/)
-<small>A prospective cohort study of dietary intake and clinical-nutritional biomarkers in patients with periampullary malignancies undergoing pancreatoduodenectomy in Southeast Brazil</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `수술` `진단·조기발견` · 2026-10-21 · PubMed · Support Care Cancer · 중요도 0.71
-
-팽대부 주위 악성종양으로 췌십이지장절제술을 받은 환자 24명을 대상으로 수술 전과 퇴원 후 3개월, 6개월 시점의 식이 섭취량과 영양 바이오마커의 변화를 추적 관찰했습니다. 수술 후 전신 염증 수치는 전반적으로 완화되었으나, 에너지 및 주요 영양소의 섭취량 감소는 수술 후 6개월까지 지속되었습니다. 환자들의 에너지 섭취량 중앙값은 수술 전 하루 2625 kcal에서 6개월 후 1948 kcal로 감소했습니다. 연구진은 수술 후 전신 염증 완화와 무관하게 식이 섭취 감소가 장기간 이어질 수 있으므로 면밀한 영양 관리가 필요함을 확인했습니다.
-
-- 환자들의 일일 에너지 섭취량 중앙값은 수술 전 2625 kcal에서 3개월 후 2011 kcal, 6개월 후 1948 kcal로 지속해서 감소했습니다.
-- 다량영양소, 식이섬유, 칼슘, 철, 셀레늄의 섭취량이 감소한 반면 아연과 비타민 A, E 섭취량은 유의한 변화를 보이지 않았습니다.
-- 수술 후 C-반응성 단백(CRP)과 글래스고 예후 점수(GPS) 등 염증 지표는 감소했으나, 식사 섭취 저하는 6개월 동안 지속되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905299/) · [DOI](https://doi.org/10.1007/s00520-026-11357-8) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13687123/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905299)</small>
-
----
-<a id="pmid-42918737"></a>
-#### [진행성 췌장암 환자에서 염증 및 영양 상태의 종단적 변화와 생존율의 연관성](https://pubmed.ncbi.nlm.nih.gov/42918737/)
-<small>Longitudinal Changes in Inflammatory and Nutritional Status Are Associated With Survival in Advanced Pancreatic Cancer</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `치료 전반` · 2026-10-22 · PubMed · J Palliat Med · 중요도 0.69
-
-본 연구는 2차 항암화학요법 이후 3차 치료 또는 최선의 지지요법(BSC)에 도달한 수술 불가능한 진행성 췌장암 환자 120명을 후향적으로 분석했습니다. 연구진은 C-반응성 단백질 대 알부민 비율의 변화량(ΔCAR)과 체중 변화를 추적하여 생존율과의 연관성을 평가했습니다. 분석 결과, 높은 ΔCAR과 체중 감소는 전반적인 생존기간 단축 및 식욕 부진, 전신 수행능력 악화와 유의미하게 연관되어 있었습니다.
-
-- 2차 치료 후 3차 치료 또는 지지요법으로 전환된 진행성 췌장암 환자 120명을 분석했습니다.
-- 높은 ΔCAR과 체중 감소를 모두 보인 환자군의 생존기간이 1.38개월로 가장 짧았으며, 둘 다 없었던 환자군은 4.67개월이었습니다.
-- ECOG 수행능력 평가 점수, ΔCAR, 체중 감소는 독립적인 예후 예측 인자로 확인되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42918737/) · [DOI](https://doi.org/10.1177/10966218261500247) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42918737)</small>
 
 ---

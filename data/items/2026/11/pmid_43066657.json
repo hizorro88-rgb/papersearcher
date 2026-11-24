@@ -5,6 +5,8 @@
   "Liao KF"
  ],
  "categories": [
+  "diagnosis",
+  "basic",
   "treatment"
  ],
  "entities": [],
@@ -19,7 +21,11 @@
  ],
  "id": "pmid:43066657",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "최종 분석 대상은 건선 환자 381,032명과 대조군 381,278명이었습니다.",
+  "9년의 추적 관찰 기간 동안 췌장암 발생 건수는 건선 군에서 516건, 대조군에서 186건이었습니다.",
+  "건선은 대조군에 비해 췌장암 위험 증가와 연관이 있었습니다(위험비(HR) 2.82, 95% 신뢰구간 2.39-3.34)."
+ ],
  "last_updated": "2026-11-23",
  "links": {
   "doi": "10.1159/ocl/aebag034",
@@ -41,11 +47,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43066657/"
  },
- "summary_ko": "OBJECTIVE: Psoriasis is recognized as a systemic inflammatory condition; however, its association with pancreatic cancer risk remains uncertain. This study aimed to evaluate whether psoriasis is associated with an increased risk of pancreatic cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 전신 염증성 질환인 건선이 췌장암 위험 증가와 관련이 있는지 평가했습니다. 40-84세의 건선 환자와 건선이 없는 대조군을 1:1 성향점수 매칭하여 분석했습니다. 9년의 추적 관찰 기간 동안 췌장암 발생률은 건선 군에서 0.135%, 대조군에서 0.049%로 나타났습니다. 건선은 대조군에 비해 췌장암 위험 증가와 연관이 있었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Association Between Psoriasis and Pancreatic Cancer Risk: A Retrospective Cohort Study",
- "title_ko": null,
+ "title_ko": "건선과 췌장암 위험 간의 연관성: 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

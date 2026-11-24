@@ -10,6 +10,8 @@
   "Farrell JJ"
  ],
  "categories": [
+  "basic",
+  "diagnosis",
   "treatment"
  ],
  "entities": [],
@@ -24,7 +26,12 @@
  ],
  "id": "pmid:43066872",
  "importance": 0.75,
- "key_points_ko": [],
+ "key_points_ko": [
+  "지표 환자의 93% 이상이 1개 이상의 가족력 암을 보고했으며 71%는 2개 이상의 서로 다른 부위에서 암이 발생했습니다.",
+  "유방암은 ATM(60%)과 PALB2(71.5%) 가계에서 우세했으며, 흑색종은 CDKN2A(61.3%) 가계에서 우세했습니다.",
+  "조기 발병 암(50세 미만)은 미국 SEER 기준에 비해 크게 높았습니다.",
+  "직계 가족에서 췌장암 진단 연령은 2촌에 비해 더 젊었습니다(중앙값 55세 대 65세)."
+ ],
  "last_updated": "2026-11-23",
  "links": {
   "doi": "10.1007/s10689-026-00618-4",
@@ -46,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43066872/"
  },
- "summary_ko": "Pathogenic variants of ATM, PALB2, and CDKN2A are associated with elevated pancreatic cancer risk and have been documented in families with multiple malignancies. Extrapancreatic malignancy patterns in carrier families remain poorly characterized in prospective registries.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 PRECEDE 컨소시엄에 등록된 1,343명의 지표 환자(ATM 705명, PALB2 323명, CDKN2A 315명) 가계를 대상으로 췌장암 외 다른 암종의 발생 양상을 분석했습니다. 분석 결과, 대다수의 가계에서 다발성 암이 확인되었으며 일반 인구에 비해 훨씬 이른 나이에 암이 발생했습니다. 구체적으로 ATM과 PALB2 가계에서는 유방암이, CDKN2A 가계에서는 흑색종이 우세하게 나타났습니다. 연구진은 이러한 데이터가 조율된 다학제적 감시 체계를 뒷받침한다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "The extrapancreatic cancer phenotype of ATM, PALB2, and CDKN2A carrier families: a registry-based analysis from the PRECEDE Consortium",
- "title_ko": null,
+ "title_ko": "ATM, PALB2, CDKN2A 유전자 보유 가계의 췌장암 외 암종 표현형: PRECEDE 컨소시엄의 레지스트리 기반 분석",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,67 @@
+{
+ "abstract": "Endoscopic ultrasound-guided radiofrequency ablation (EUS-RFA) is an emerging minimally invasive treatment for pancreatic neuroendocrine tumors, particularly insulinomas. Traditionally, insulinomas are managed surgically, often requiring major pancreatic resections associated with significant morbidity, prolonged hospitalization, and the risk of long-term complications including pancreatic insufficiency and diabetes. We report the initial clinical experience with EUS-RFA at a tertiary center in Sweden, including three patients with symptomatic insulinomas. All patients underwent successful EUS-RFA with short procedure times, minimal postoperative care and no major complications. Hypoglycemic symptoms resolved in all cases, and follow-up imaging showed no residual tumor activity. These findings align with emerging international data suggesting that EUS-RFA is a safe and effective alternative to surgery for selected patients with low-grade pancreatic neuroendocrine tumors. The technique may reduce the need for extensive surgery and the associated healthcare burden, while improving patient quality of life. Although further prospective and randomized studies are needed to establish long-term outcomes and optimal patient selection, EUS-RFA has the potential to represent a paradigm shift in the management of insulinomas and other selected pancreatic lesions.",
+ "authors": [
+  "Hedenström P",
+  "Trimpou P",
+  "Hansen J",
+  "Do-Cong Pham K",
+  "Ragnarsson O",
+  "Elf AK",
+  "Sadik R"
+ ],
+ "categories": [
+  "treatment",
+  "surgery",
+  "diagnosis",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43069727",
+ "importance": 0.56,
+ "key_points_ko": [
+  "증상이 있는 인슐린종 환자 3명을 대상으로 EUS-RFA를 성공적으로 시행했습니다.",
+  "모든 환자에서 시술 시간이 짧았고 최소한의 수술 후 관리만 필요했으며 주요 합병증은 없었습니다.",
+  "모든 사례에서 저혈당 증상이 소실되었고 추적 영상 검사에서 잔존 종양 활성도가 보이지 않았습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.65868/IKFA2132",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43069727"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Case Reports",
+  "English Abstract"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Lakartidningen",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069727/"
+ },
+ "summary_ko": "이 논문은 췌장 신경내분비종양(pancreatic neuroendocrine tumors), 특히 인슐린종(insulinoma) 환자를 대상으로 한 내시경 초음파 유도하 고주파 절제술(EUS-RFA)의 초기 임상 경험을 보고합니다. 스웨덴의 3차 병원에서 증상이 있는 인슐린종 환자 3명을 대상으로 시술을 진행했습니다. 모든 환자에서 시술이 성공적이었고 주요 합병증 없이 저혈당 증상이 소실되었습니다. 추적 검사에서 잔존 종양 활성도는 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "[Endoscopic ultrasound-guided radiofrequency ablation for pancreatic neuroendocrine tumors]",
+ "title_ko": "췌장 신경내분비종양에 대한 내시경 초음파 유도하 고주파 절제술",
+ "trial": null,
+ "type": "paper"
+}

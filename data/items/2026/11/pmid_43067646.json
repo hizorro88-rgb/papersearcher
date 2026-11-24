@@ -11,8 +11,9 @@
   "Assifi MM"
  ],
  "categories": [
-  "treatment",
-  "trial"
+  "trial",
+  "drug",
+  "treatment"
  ],
  "entities": [],
  "evidence": "phase2",
@@ -26,7 +27,12 @@
  ],
  "id": "pmid:43067646",
  "importance": 0.84,
- "key_points_ko": [],
+ "key_points_ko": [
+  "환자 14명이 참여한 2상 파일럿 연구에서 1년 간 무진행 생존율은 50%(7명)로 사전 지정된 목표치인 40%를 충족했습니다.",
+  "간 진행까지의 중앙값은 15.7개월이었으며, 전체 병소 기준 무진행 생존기간은 14.5개월, 전체 생존기간(OS)은 14.0개월이었습니다.",
+  "환자의 35.7%(5명)가 최소 24개월 이상 생존했습니다.",
+  "간독성이 흔하게 발생했으며, 카테터 관련 혈관 합병증이 2건 보고되었습니다."
+ ],
  "last_updated": "2026-11-23",
  "links": {
   "doi": "10.1245/s10434-026-20940-6",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43067646/"
  },
- "summary_ko": "BACKGROUND: Hepatic progression is common in metastatic pancreatic ductal adenocarcinoma (PDAC). We evaluated hepatic arterial infusion (HAI) floxuridine (FUDR) added to systemic chemotherapy in selected patients with synchronous liver-dominant metastatic PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 동시성 간 우세 전이성 췌장관선암(PDAC) 환자를 대상으로 전신 항암화학요법에 간동맥 주입(hepatic arterial infusion, HAI) floxuridine(FUDR)을 추가했을 때의 효과를 평가했습니다. 최소 2개월간 전신 치료 후 질병이 안정되거나 반응을 보인 14명의 환자가 PANCPUMP 2상 파일럿 연구에 참여했습니다. 연구의 1차 평가변수는 1년 간 무진행 생존율이었으며 목표치는 40%였습니다. 1년 시점에 간 진행이 없는 환자는 7명(50%)으로 1차 목표를 달성했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Hepatic Arterial Infusion Floxuridine with Systemic Therapy for Liver-dominant Metastatic Pancreatic Adenocarcinoma: Results of the PANCPUMP Phase II Pilot Study",
- "title_ko": null,
+ "title_ko": "간 우세 전이성 췌장관선암 환자에서 전신 치료와 병행한 간동맥 주입 floxuridine: PANCPUMP 2상 파일럿 연구 결과",
  "trial": null,
  "type": "paper"
 }

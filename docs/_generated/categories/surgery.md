@@ -16,12 +16,107 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 368건 · 최근 30일 185건
+전체 373건 · 최근 30일 180건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07953153"></a>
+#### [췌장암 절제술 후 적기 보조 치료가 불가능했던 환자에서 지연된 보조 전신 화학요법과 표준 관찰 요법의 비교](https://clinicaltrials.gov/study/NCT07953153)
+<small>Delayed Adjuvant Systemic Therapy Versus Standard of Care (Observation Without Adjuvant Therapy) in Patients Ineligible for Timely Adjuvant Therapy After Resection of Pancreatic Cancer</small>
+
+`임상시험` `3상` `치료 전반` `신약·치료제` `수술` · 2026-11-23 · ClinicalTrials.gov · Vastra Gotaland Region · 중요도 0.96
+
+**NCT07953153** · 3상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07953153.md)
+
+췌장암 절제 수술 후 12주 이내에 보조 항암치료를 시작하지 못한 환자들을 대상으로, 수술 후 13~24주 사이에 지연된 보조 항암치료를 시작하는 치료법의 효과를 평가하는 3상 임상시험입니다. 수술 후 13~24주 사이 회복되어 재발이나 전이가 없는 환자를 무작위 배정하여 지연된 표준 항암화학요법 그룹과 단순 경과관찰 그룹으로 비교합니다. 모든 참가자는 5년 동안 6개월마다 CT 검사와 혈액 검사를 통해 경과를 추적 관찰받게 됩니다.
+
+- 수술 후 12주 이내 보조 항암치료를 받지 못하고 13~24주 사이에 회복된 췌장암 환자 128명을 대상으로 진행하는 3상 연구입니다.
+- 지연된 보조 항암화학요법 치료군과 치료 없이 경과관찰하는 대조군을 무작위 배정하여 생존 혜택을 비교합니다.
+- 수술 후 12주가 지난 시점에서의 지연된 항암치료가 생존율을 개선할 수 있는지 검증하고자 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07953153) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07953153)</small>
+
+---
+<a id="nct-nct07946380"></a>
+#### [췌장 췌관선암 환자를 위한 췌십이지장절제술 시 전체 췌장간막 절제술](https://clinicaltrials.gov/study/NCT07946380)
+<small>Mesopancreas Excision in Pancreaticoduodenectomy for Pancreatic Ductal Adenocarcinoma</small>
+
+`임상시험` `기타` `수술` `치료 전반` `진단·조기발견` · 2026-11-18 · ClinicalTrials.gov · Minia University · 중요도 0.84
+
+**NCT07946380** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07946380.md)
+
+이 임상시험은 수술 가능한 췌장 머리 부분의 췌장관막암(pancreatic ductal adenocarcinoma) 환자 110명을 대상으로 전체 췌장간막 절제술(total mesopancreas excision, TMpE)과 표준 췌십이지장절제술(pancreaticoduodenectomy)의 효과를 비교합니다. 수술 중 무작위 배정을 통해 두 수술법 중 하나를 시행하며, 절제면 음성률(R0 절제율)의 차이를 확인하는 것을 주요 목표로 합니다. 또한 합병증, 생존율, 재발률, 삶의 질 등을 2년 동안 추적 관찰합니다.
+
+- 목표 환자 수는 총 110명의 성인이며, 수술 가능(resectable)한 췌장두부암 환자를 대상으로 합니다.
+- 주요 연구 가설은 전체 췌장간막 절제술(TMpE)이 R0 절제율을 60%에서 85%로 향상시키는지 확인하는 것입니다.
+- 2년의 추적 관찰 기간 동안 R0 절제율, 합병증, 설사, 생존율, 재발 양상 및 삶의 질을 비교합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07946380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07946380)</small>
+
+---
+<a id="nct-nct07952334"></a>
+#### [췌장암 치료 반응 예측 및 아형 분석을 위한 정량적 영상 바이오마커 식별 연구](https://clinicaltrials.gov/study/NCT07952334)
+<small>Identification of Biomarkers Using Quantitative Imaging for Phenotyping and Predicting Treatment Response in Pancreatic Cancer</small>
+
+`임상시험` `기타` `진단·조기발견` `치료 전반` `수술` · 2026-11-23 · ClinicalTrials.gov · Assistance Publique - Hôpitaux de Paris · 중요도 0.71
+
+**NCT07952334** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07952334.md)
+
+본 연구는 수술 가능 또는 경계성 절제 가능 췌장관선암(PDAC) 환자 150명을 대상으로 확산강조 MRI 및 MRI 탄성도 검사의 유용성을 평가합니다. 수술 전 선행보조요법 시행 전후의 정량적 영상 지표를 통해 췌장암 아형을 구분하고 치료 감수성을 예측하고자 합니다. 환자는 표준 정기 MRI 검사 시 조직검사 없이 암 특성을 평가하는 연구용 영상 시퀀스를 추가로 촬영하게 됩니다.
+
+- 수술 가능 또는 경계성 절제 가능 췌장관선암 환자 150명을 대상으로 영상 바이오마커를 탐색하는 연구입니다.
+- 확산강조 MRI와 MRI 탄성도를 활용하여 조직검사 없이 췌장암 아형을 분류하고 선행보조요법 반응을 예측합니다.
+- 선행보조 항암 및 방사선 치료 과정에 따른 MRI 정량 매개변수의 변화를 정밀하게 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07952334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07952334)</small>
+
+---
+<a id="pmid-43068592"></a>
+#### [광역학 치료가 췌장암 세포의 세포사멸을 유도하고 면역관문 전사체 발현을 감소시킴](https://pubmed.ncbi.nlm.nih.gov/43068592/)
+<small>Photodynamic therapy induces apoptosis and downregulates immune checkpoint transcripts in pancreatic cancer cells</small>
+
+`논문` `전임상` `기초연구` `치료 전반` `신약·치료제` `수술` · 2026-11-20 · PubMed · Biochem Biophys Res Commun · 중요도 0.64
+
+췌장암 세포주에서 아연 프탈로시아닌(ZnPc)을 활용한 광역학 치료(PDT)의 효과를 평가한 기초 전임상 연구입니다. ZnPc-PDT는 빛 조사 조건에서 췌장암 세포의 아포토시스(apoptosis, 세포사멸)를 효과적으로 유도했습니다. 또한 주요 면역관문(immune checkpoint) 유전자인 CD47, CTLA-4, PD-L1의 전사체 발현을 유의미하게 줄였습니다. 본 연구는 향후 광역학 치료와 면역항암제 병용 치료법의 가능성을 세포 수준에서 제시합니다.
+
+- ZnPc-PDT는 췌장암 세포주 MIA PaCa-2와 PANC-1에서 각각 IC50 0.784 μg/mL 및 0.09 μg/mL의 세포 독성을 보였습니다.
+- 치료 후 두 세포주 모두에서 세포사멸 촉진 유전자(BAX) 전사체는 증가하고 억제 유전자(BCL2) 전사체는 감소했습니다.
+- ZnPc-PDT 치료는 두 췌장암 세포주 모두에서 CD47, CTLA-4, PD-L1 면역관문 유전자의 전사체 수준을 유의미하게 하향 조절했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43068592/) · [DOI](https://doi.org/10.1016/j.bbrc.2026.154926) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43068592)</small>
+
+---
+<a id="pmid-43072872"></a>
+#### [췌장암 환자의 수술 전 담도 배액술: 플라스틱 스텐트와 금속 스텐트 모두 적절합니다](https://pubmed.ncbi.nlm.nih.gov/43072872/)
+<small>Preoperative biliary drainage in pancreatic cancer: either plastic or metal stent will do</small>
+
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` · 2026-12-01 · PubMed · Gastrointest Endosc · 중요도 0.62
+
+본 논문은 췌장암 환자의 수술 전 담도 배액술(preoperative biliary drainage) 시 플라스틱 스텐트(plastic stent)와 금속 스텐트(metal stent)의 활용을 다룬 사설(Editorial)입니다. 수술 전 황달 완화를 위한 담도 감압 시 두 스텐트 모두 선택 가능하다는 점을 언급하고 있습니다. 세부적인 환자 수치나 구체적인 연구 결과는 초록에 명시되지 않았습니다.
+
+- 췌장암 수술 전 담도 배액술에서 플라스틱 스텐트와 금속 스텐트가 모두 적절한 선택지임을 다룬 사설입니다.
+- 세부 환자 수치 및 구체적인 연구 결과는 원문 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43072872/) · [DOI](https://doi.org/10.1016/j.gie.2026.06.072) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43072872)</small>
+
+---
+<a id="pmid-43069727"></a>
+#### [췌장 신경내분비종양에 대한 내시경 초음파 유도하 고주파 절제술](https://pubmed.ncbi.nlm.nih.gov/43069727/)
+<small>[Endoscopic ultrasound-guided radiofrequency ablation for pancreatic neuroendocrine tumors]</small>
+
+`논문` `증례` `치료 전반` `수술` `진단·조기발견` `지지요법·삶의질` `신경내분비종양` · 2026-11-23 · PubMed · Lakartidningen · 중요도 0.56
+
+이 논문은 췌장 신경내분비종양(pancreatic neuroendocrine tumors), 특히 인슐린종(insulinoma) 환자를 대상으로 한 내시경 초음파 유도하 고주파 절제술(EUS-RFA)의 초기 임상 경험을 보고합니다. 스웨덴의 3차 병원에서 증상이 있는 인슐린종 환자 3명을 대상으로 시술을 진행했습니다. 모든 환자에서 시술이 성공적이었고 주요 합병증 없이 저혈당 증상이 소실되었습니다. 추적 검사에서 잔존 종양 활성도는 관찰되지 않았습니다.
+
+- 증상이 있는 인슐린종 환자 3명을 대상으로 EUS-RFA를 성공적으로 시행했습니다.
+- 모든 환자에서 시술 시간이 짧았고 최소한의 수술 후 관리만 필요했으며 주요 합병증은 없었습니다.
+- 모든 사례에서 저혈당 증상이 소실되었고 추적 영상 검사에서 잔존 종양 활성도가 보이지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43069727/) · [DOI](https://doi.org/10.65868/IKFA2132) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43069727)</small>
+
+---
 <a id="nct-nct07698613"></a>
 #### [국소 진행성 췌장암 환자를 대상으로 한 ASP-1929 표적 광면역치료 1/2상 임상시험](https://clinicaltrials.gov/study/NCT07698613)
 <small>EGFR Targeted Photoimmunotherapy With ASP-1929 for Locally Advanced Pancreatic Cancer</small>
@@ -210,23 +305,6 @@ search:
 - 치료 주기는 28일 단위로 반복됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT01660971) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT01660971)</small>
-
----
-<a id="nct-nct07946380"></a>
-#### [췌장 췌관선암 환자를 위한 췌십이지장절제술 시 전체 장간막절제술](https://clinicaltrials.gov/study/NCT07946380)
-<small>Mesopancreas Excision in Pancreaticoduodenectomy for Pancreatic Ductal Adenocarcinoma</small>
-
-`임상시험` `기타` `수술` `치료 전반` `진단·조기발견` · 2026-11-18 · ClinicalTrials.gov · Minia University · 중요도 0.71
-
-**NCT07946380** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07946380.md)
-
-이 임상시험은 수술 가능한 췌장 머리 부분의 췌장암(췌관선암, pancreatic ductal adenocarcinoma) 환자 110명을 대상으로 합니다. 환자들은 수술 중 무작위로 배정되어 기존의 표준 췌십이지장절제술(pancreaticoduodenectomy) 또는 전체 췌장 장간막절제술(total mesopancreas excision)을 받게 됩니다. 연구의 주요 목적은 전체 췌장 장간막절제술이 암세포가 절제면 1mm 이내에 남아있지 않는 완전 절제율(R0 resection rate)을 향상시키는지 비교하는 것입니다. 또한 합병증, 재발률, 생존율, 삶의 질 등을 2년 동안 추적 관찰하여 평가합니다.
-
-- 대상 환자는 수술 가능한 췌장 머리 부분 췌관선암 환자 110명입니다.
-- 연구는 전체 췌장 장간막절제술이 R0 절제율을 기존 60%에서 85%로 높이는지 평가합니다.
-- 2년의 추적 기간 동안 합병증, 재발, 생존율 및 삶의 질을 비교합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07946380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07946380)</small>
 
 ---
 <a id="pmid-43059942"></a>
@@ -2304,89 +2382,5 @@ search:
 - 높은 SUVmax 수치는 절단면 관련 재발이 아닌 원격 전이 재발과 밀접한 연관을 보였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957525/) · [DOI](https://doi.org/10.1016/j.surg.2026.110503) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957525)</small>
-
----
-<a id="pmid-42958068"></a>
-#### [췌장관선암의 유일한 임상 양상으로 나타난 췌장성 지방조직염: 증례 보고](https://pubmed.ncbi.nlm.nih.gov/42958068/)
-<small>Pancreatic panniculitis as the sole manifestation of pancreatic ductal adenocarcinoma: a case report</small>
-
-`논문` `증례` `진단·조기발견` `수술` `치료 전반` `지지요법·삶의질` · 2026-08-01 · PubMed · BMC Gastroenterol · 중요도 0.54
-
-이 논문은 복통이나 체중 감소 없이 림프절 결절 형태의 피부 증상만으로 내원한 79세 여성 환자의 증례를 보고합니다. 혈중 리파제(lipase) 수치가 상승해 있었고, 피부 조직검사와 복부 영상 검사를 통해 췌장두부의 췌장관선암(pancreatic ductal adenocarcinoma)과 동반된 췌장성 지방조직염(pancreatic panniculitis)으로 진단되었습니다. 환자는 총췌장절제술(total pancreatectomy)을 받았고 수술 후 보조항암치료로 mFOLFIRINOX를 시행했으며, 피부 병변은 수술 후 첫 주 이내에 소실되었습니다.
-
-- 79세 여성 환자가 복통이나 체중 감소 없이 하지의 통증을 동반한 피하 결절을 유일한 증상으로 내원했습니다.
-- 혈중 리파제 수치가 1000 U/L 이상으로 상승해 있었고, 피부 생검에서 췌장성 지방조직염의 특징적인 소견이 확인되었습니다.
-- 복부 영상 검사에서 췌장두부에 14mm 크기의 종괴가 발견되었고, 수술 후 조직검사에서 25mm 크기의 췌장관선암(pT2N2R0)으로 확진되었습니다.
-- 환자는 총췌장절제술과 mFOLFIRINOX 보조항암치료를 받았으며, 피부 병변은 수술 후 첫 주 안에 사라졌습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42958068/) · [DOI](https://doi.org/10.1186/s12876-026-05174-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13718008/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42958068)</small>
-
----
-<a id="nct-nct06015659"></a>
-#### [진행성 췌장암에서 ZN-c3와 Gemcitabine 병용 투여에 대한 제2상 임상시험](https://clinicaltrials.gov/study/NCT06015659)
-<small>ZN-c3 + Gemcitabine in Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2023-08-29 · ClinicalTrials.gov · Brandon Huffman, MD · 중요도 0.87
-
-**NCT06015659** · 2상 · 조기 종료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06015659.md)
-
-이 연구는 진행성 췌장암 환자를 대상으로 ZN-c3와 gemcitabine(젬시타빈) 병용 투여의 안전성과 효과를 평가하기 위한 공개, 단일군, 제2상 임상시험입니다. 대상은 백금 기반 치료 후 진행되었거나 내성이 생긴 전이성 또는 절제 불가능한 췌장암 환자입니다. WEE1 티로신 키나아제 억제제인 ZN-c3와 대사 억제제인 gemcitabine을 함께 투여합니다. 총 34명의 환자를 목표로 하였으나 현재 연구는 종료되었습니다.
-
-- 대상 질환은 진행성 췌관선암(pancreatic ductal adenocarcinoma)입니다.
-- 이전 백금 기반 항암 치료를 1차례 받았으나 진행되었거나 견디지 못한 환자가 참여했습니다.
-- 중재 치료로 ZN-c3(WEE1 억제제)와 gemcitabine이 병용되었습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06015659) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06015659)</small>
-
----
-<a id="nct-nct07897734"></a>
-#### [TNG462-C103: vopimetostat와 ERAS-0015 병용요법의 안전성, 내인성, 항종양 활성을 평가하는 1/2상 연구](https://clinicaltrials.gov/study/NCT07897734)
-<small>TNG462-C103: Study to Evaluate the Safety, Tolerability, and Antitumor Activity of Vopimetostat in Combination With ERAS-0015 in PDAC and NSCLC Patients</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-10-27 · ClinicalTrials.gov · Tango Therapeutics, Inc. · 중요도 0.87
-
-**NCT07897734** · 1상/2상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07897734.md)
-
-본 연구는 MTAP 결손(MTAP-null) 및 RAS 변이가 있는 췌관선암(PDAC) 및 비소세포폐암(NSCLC) 환자를 대상으로 vopimetostat와 ERAS-0015 병용요법의 안전성과 항종양 활성을 평가하기 위한 다기관, 공개형 1/2상 임상시험입니다. 연구는 용량 증가(dose escalation)를 진행하는 1상과 용량 확장(dose expansion)을 진행하는 2상으로 구성되어 있습니다. 총 목표 환자 수는 188명이며, 18세 이상 성인을 대상으로 합니다.
-
-- 대상 질환은 MTAP 결손 췌관선암(PDAC) 및 RAS 변이가 있는 비소세포폐암(NSCLC) 환자입니다.
-- 평가 약물은 PRMT5 억제제(PRMT5 inhibitor)인 vopimetostat(TNG462)와 범-RAS 분자 접착제(pan-RAS molecular glue)인 ERAS-0015의 병용입니다.
-- 전체 목표 환자 수는 188명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07897734) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07897734)</small>
-
----
-<a id="nct-nct07898683"></a>
-#### [절제 불가능한 췌장암 환자를 위한 동맥 내 이트륨-90 방사선색전술 제1상 연구](https://clinicaltrials.gov/study/NCT07898683)
-<small>A Phase I Study of Intra-Arterial Yttrium-90 Radioembolization for Unresectable Pancreatic Cancer</small>
-
-`임상시험` `1상` `치료 전반` `신약·치료제` `수술` · 2026-10-27 · ClinicalTrials.gov · National Medical Research Radiological Centre of the Ministry of Health of Russia · 중요도 0.84
-
-**NCT07898683** · 1상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07898683.md)
-
-이 연구는 절제 불가능한 췌장암(pancreatic adenocarcinoma) 환자를 대상으로 동맥 내 이트륨-90(Yttrium-90) 유리 미세구(glass microspheres)를 이용한 방사선색전술(radioembolization)의 안전성과 내반성을 평가합니다. 환자들을 대상으로 방사선 용량 분포, 부작용, 예비 유효성을 평가합니다. 목표 환자 수는 12명이며, 단계는 제1상 임상시험입니다.
-
-- 대상 질환은 절제 불가능한 췌장암입니다.
-- 중재 방법은 동맥 내 Yttrium-90 방사선색전술입니다.
-- 목표 인원은 12명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07898683) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07898683)</small>
-
----
-<a id="nct-nct07898813"></a>
-#### [수술 가능 췌관선암 환자를 대상으로 하는 daraxonrasib 1상 임상시험](https://clinicaltrials.gov/study/NCT07898813)
-<small>Daraxonrasib in Resectable PDAC</small>
-
-`임상시험` `1상` `신약·치료제` `수술` `치료 전반` · 2026-10-27 · ClinicalTrials.gov · Dana-Farber Cancer Institute · 중요도 0.81
-
-**NCT07898813** · 1상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07898813.md)
-
-이 임상시험은 수술이 가능한 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 경구용 daraxonrasib의 안전성과 효과를 평가하는 1상 연구입니다. 환자들은 수술 전 선행치료로 daraxonrasib을 복용한 뒤 수술적 절제를 받고, 이후 표준 치료에 따른 보조 항암화학요법(방사선 치료 병행 가능) 및 선택적인 보조 daraxonrasib 치료를 받습니다. 연구의 목표 인원은 30명이며 24개월 동안 등록을 진행합니다.
-
-- 수술 가능(resectable) 췌관선암 환자 30명을 대상으로 하는 1상 임상시험입니다.
-- 수술 전 선행치료로 경구용 daraxonrasib을 투여하고 수술을 진행합니다.
-- 수술 후에는 표준 치료에 따른 보조 항암화학요법과 선택적 보조 daraxonrasib 치료를 받습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07898813) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07898813)</small>
 
 ---

@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,391</b><span>누적 수집<br><small>논문·소식 798 · 임상시험 593</small></span></div><div class="ps-stat"><b>+15</b><span>오늘 신규<br><small>갱신 13건</small></span></div><div class="ps-stat"><b>31</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,412</b><span>누적 수집<br><small>논문·소식 814 · 임상시험 598</small></span></div><div class="ps-stat"><b>+21</b><span>오늘 신규<br><small>갱신 8건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-23](_generated/daily/2026/11/23.md)
+최근 수집일: [2026-11-24](_generated/daily/2026/11/24.md)
 
 <a id="nct-nct07491445"></a>
 #### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
@@ -19,21 +19,21 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
 
 ---
-<a id="nct-nct06752811"></a>
-#### [전이성 췌장암 환자를 대상으로 한 주사용 파클리탁셀 고분자 미셀 3상 임상시험](https://clinicaltrials.gov/study/NCT06752811)
-<small>Polymeric Micellar Paclitaxel for Metastatic Pancreatic Cancer</small>
+<a id="nct-nct07562152"></a>
+#### [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](https://clinicaltrials.gov/study/NCT07562152)
+<small>Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
-`임상시험` `3상` `신약·치료제` `치료 전반` `수술` · 2024-12-31 · ClinicalTrials.gov · Shanghai Yizhong Pharmaceutical Co., Ltd. · 중요도 0.99
+`임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-05-01 · ClinicalTrials.gov · Immuneering Corporation · 중요도 1.00
 
-**NCT06752811** · 3상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT06752811.md)
+**NCT07562152** · 3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07562152.md)
 
-본 연구는 전이성 췌장암 환자를 대상으로 1차 치료로서 주사용 파클리탁셀 고분자 미셀(paclitaxel polymeric micelles)과 젬시타빈(Gemcitabine) 병용요법의 유효성 및 안전성을 냅-파클리탁셀(nab-Paclitaxel)과 젬시타빈 병용요법과 비교 평가하는 다기관, 무작위배정, 공개 3상 임상시험입니다. 총 416명의 환자를 대상으로 진행됩니다. 기존 표준 치료 대비 더 효과적인 치료 옵션을 찾아 전이성 췌장암 환자의 생존율을 향상시키는 것을 목표로 합니다.
+이 연구는 전이성 췌관선암(PDAC) 환자를 대상으로 1차 치료에서 atebimetinib과 수정된 GnP(gemcitabine and nab-paclitaxel) 병용 요법의 안전성과 유효성을 평가합니다. 표준 치료인 GnP 단독 요법과 비교하여 전체 생존기간(OS)이 향상되는지 확인하기 위한 다국가, 무작위배정, 공개, 3상 임상시험입니다. 환자들은 atebimetinib과 수정된 GnP 병용 투여군 또는 GnP 단독 투여군 중 한 곳에 배정됩니다.
 
-- 전이성 췌장암의 1차 치료로서 주사용 파클리탁셀 고분자 미셀 + 젬시타빈 병용요법을 냅-파클리탁셀 + 젬시타빈 대조군과 비교하는 3상 연구입니다.
-- 목표 대상 인원은 총 416명이며, 만 18세 이상 75세 이하의 전이성 췌장암 환자를 대상으로 합니다.
-- 이전에 전이성 췌장암에 대한 전신 치료(항암화학요법, 표적치료, 면역치료)를 받은 적이 없는 환자가 참여할 수 있습니다.
+- 목표 환자 수는 570명이며, 글로벌 3상 임상시험으로 진행됩니다.
+- 이전 전신 항암 치료를 받지 않은 전이성 췌장암 1차 치료 환자를 대상으로 합니다.
+- atebimetinib + 수정된 GnP 병용 투여군과 표준 GnP 단독 투여군의 효과를 비교합니다.
 
-<small>[원문](https://clinicaltrials.gov/study/NCT06752811) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06752811)</small>
+<small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
 <a id="pmid-43037855"></a>

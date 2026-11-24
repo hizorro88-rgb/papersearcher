@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy where systemic chemotherapy remains the standard of care. Here, we demonstrate that BMVC-8C3O, initially characterized as a G-quadruplex stabilizer, exhibits preferential toxicity toward PDAC cells due to greater cellular uptake relative to non-cancerous cells. Combining BMVC-8C3O with mTOR inhibitors (Torin-1 or rapamycin) induced synergistic cytotoxicity in PDAC cells. Functional rescue experiments identified FOS as the pivotal determinant of this synergy, as ectopic FOS expression abolished the therapeutic benefit, underscoring the necessity of simultaneously blocking mTOR and FOS pathways to achieve synthetic lethality. Mechanistically, BMVC-8C3O disrupts FOS/JUN heterodimerization and reduces FOS protein stability and abundance, thereby impairing AP-1-mediated transcriptional activity and functionally redefining this compound as a targeted FOS inhibitor in PDAC. In vivo, BMVC-8C3O combined with Torin-1 effectively suppressed tumor growth in MIA PaCa-2 xenografts without systemic toxicity. Collectively, our findings establish a compelling rationale for concurrent mTOR and FOS inhibition as a potent therapeutic strategy for PDAC.",
+ "authors": [
+  "Tu YC",
+  "Wang HC",
+  "Lu K",
+  "Chang TC",
+  "Lin JJ"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072685",
+ "importance": 0.64,
+ "key_points_ko": [
+  "BMVC-8C3O와 mTOR 억제제(Torin-1 또는 rapamycin) 병용 처리 시 췌장암 세포에서 상승적인 세포 독성 효과가 나타났습니다.",
+  "BMVC-8C3O는 FOS/JUN 이합체 형성을 방해하고 FOS 단백질 안정성을 감소시켜 AP-1 전사 활성을 억제했습니다.",
+  "MIA PaCa-2 세포주를 이식한 동물 모델에서 BMVC-8C3O와 Torin-1 병용 치료는 전신 독성 없이 종양 억제 효과를 보였습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/j.jbc.2026.113788",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072685"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biol Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072685/"
+ },
+ "summary_ko": "본 연구에서는 췌관선암(PDAC) 세포에서 BMVC-8C3O 화합물과 mTOR 억제제의 병용 치료 효과를 검증했습니다. BMVC-8C3O는 정상 세포에 비해 췌장암 세포로의 흡수율이 높아 암세포 선택적 독성을 보였습니다. 이 화합물은 FOS/JUN 이합체화(dimerization)를 방해하여 AP-1 전사 활성을 억제하는 표적 FOS 억제제로 작용했습니다. 마우스 동물실험에서 BMVC-8C3O와 mTOR 억제제인 Torin-1(토린-1)의 병용 투여는 전신 독성 없이 종양 성장을 효과적으로 억제했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Disruption of FOS/JUN dimerization synergizes with mTOR inhibition in pancreatic cancer",
+ "title_ko": "췌장암에서 FOS/JUN 이합체 결합 차단과 mTOR 억제의 시너지 치료 효과",
+ "trial": null,
+ "type": "paper"
+}

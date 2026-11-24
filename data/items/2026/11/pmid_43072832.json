@@ -1,0 +1,61 @@
+{
+ "abstract": null,
+ "authors": [
+  "Raitses-Gurevich M",
+  "Nahmias DL",
+  "Bernstein-Molho R",
+  "Basevich A",
+  "Friedman E",
+  "Golan T",
+  "Chen-Shtoyerman R"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072832",
+ "importance": 0.67,
+ "key_points_ko": [
+  "이스라엘 췌장관선암 환자군에서 생식세포 ATM 유전자 병원성 변이 유병률을 확인하고자 했습니다.",
+  "상세 수치 및 연구 결과는 논문 초록 전문에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1136/jmg-2026-111807",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072832"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Genet",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072832/"
+ },
+ "summary_ko": "본 연구는 이스라엘의 선별되지 않은 췌장관선암(PDAC) 환자군을 대상으로 생식세포 ATM(Ataxia Telangiectasia Mutated) 유전자 병원성 변이의 유병률을 평가했습니다. 구체적인 환자 수 및 유병률 수치는 초록 전문이 제공되지 않아 초록에 명시되지 않았습니다. 췌장암 환자의 유전적 원인 파악 및 유전자 검사 범위를 이해하는 데 기초 자료를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Prevalence of germline ATM pathogenic variants in an unselected Israeli pancreatic ductal adenocarcinoma patient cohort",
+ "title_ko": "선별되지 않은 이스라엘 췌장관선암 환자 군에서의 생식세포 ATM 병원성 변이 유병률",
+ "trial": null,
+ "type": "paper"
+}

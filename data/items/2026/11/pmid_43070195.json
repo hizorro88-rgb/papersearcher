@@ -1,0 +1,57 @@
+{
+ "abstract": "The chorioallantoic membrane (CAM) model is an underutilised alternative model for the research into tumour xenografts. We demonstrate that in the pancreatic cancer cell lines BxPC-3 and AsPC-1, nucleoside labelling with 5-ethynyl-2'-deoxyuridine (EdU) can be multiplexed with other human cell cycle markers, (e.g., cyclin B1 and Ki-67), particularly when combined with digital image analysis, allowing human versus chicken cell classification. Furthermore, starting from the embryonic day of development 14 (ED14), we observe embryonic cells exhibiting substantial apparent cytoplasmic accumulation of synthetic nucleosides. This was observed for (F-ara-)EdU as well as for the halogenated analogues BrdU and IdU. Characterisation of these cells suggests that they are non-proliferating and possess granules and can be found in the embryonic liver of (non-)grafted embryos, as well as in the CAM itself and within xenograft sections. Importantly, these cells are unlikely to represent activated professional antigen presenting cells as they lack MHC II expression, nor do they express CD41/CD61, ruling out thrombocyte origin. Together, our findings demonstrate that the CAM model constitutes a valuable platform for studying tumour cell cycle dynamics in vivo. However, nucleoside labelling applications beyond ED14 may be confounded by a previously unidentified phenomenon, namely cytoplasmic nucleoside accumulation in certain chicken cells.",
+ "authors": [
+  "Colenbier R",
+  "Jurescu DL",
+  "Timmermans JP",
+  "Bogers J"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43070195",
+ "importance": 0.56,
+ "key_points_ko": [
+  "췌장암 세포주(BxPC-3, AsPC-1)에서 EdU 표지법과 디지털 이미지 분석을 통해 인간 세포와 닭 세포의 세포 주기를 분류했습니다.",
+  "배아 발달 14일(ED14) 이후부터 비증식성 닭 세포의 세포질 내에 뉴클레오사이드 유사체(EdU, BrdU, IdU)가 축적되는 현상을 확인했습니다.",
+  "융모요막 모델은 종양 세포 주기 연구에 유용하지만 배아 발달 14일 이후 실험에서는 세포질 축적 현상이 교란 요인이 될 수 있습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1242/bio.062925",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43070195"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biol Open",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070195/"
+ },
+ "summary_ko": "닭 배아의 융모요막(CAM) 모델은 종양 이종이식 연구에 유용한 대체 모델입니다. 연구진은 췌장암 세포주 BxPC-3 및 AsPC-1에서 EdU(5-ethynyl-2'-deoxyuridine) 표지법과 디지털 이미지 분석을 결합하여 인간 세포와 닭 세포의 세포 주기를 구분해냈습니다. 이 모델은 생체 내 종양 세포 주기 동역학을 연구하는 유용한 플랫폼임을 확인했습니다. 그러나 배아 발달 14일 이후에는 일부 닭 세포의 세포질에 뉴클레오사이드가 축적되어 결과에 영향을 줄 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Nucleoside analogue labelling to study the cell cycle of pancreatic cancer xenografts in the chicken embryo model",
+ "title_ko": "닭 배아 모델에서 췌장암 이종이식편의 세포 주기를 연구하기 위한 뉴클레오사이드 유사체 표지법",
+ "trial": null,
+ "type": "paper"
+}

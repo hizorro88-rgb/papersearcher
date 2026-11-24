@@ -1,0 +1,118 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a major health problem, characterized by a rising incidence and limited treatment options. There is an urgent need for in vivo imaging methods capable of reliably determining tumor subtype and of evaluating, from a prognostic standpoint, the response to neoadjuvant therapy in order to guide surgical resection.\n\nThe structural and mechanical properties of PDACs vary by tumor type and are likely to influence treatment response. Among MRI imaging techniques, diffusion-weighted MRI is sensitive to the structural properties of tissues, while elastography is sensitive to their mechanical properties.\n\nThe MISTRA project aims to evaluate the performance of diffusion-weighted MRI and MRI elastography in determining tumor subtypes and predicting response to treatment.\n\nThe hypothesis of the project are :\n\n1. Tumor subtypes (such as the basal or classic phenotypes) of pancreatic ductal adenocarcinoma can be distinguished based on their mechanical and diffusion properties,\n2. Measuring these properties using MRI allows for the prediction of tumor sensitivity to neoadjuvant treatments, and\n3. These properties (stratified by subtype) may vary during the course of treatment.\n\nThe study population consists of patients diagnosed with borderline or immediately resectable PDAC. This population was selected to test the research hypothesis:\n\n1. These patients with tumors-whether immediately operable or borderline-may undergo neoadjuvant therapy, particularly in borderline cases. They will therefore have both an assessment of their response to treatment and a pre-treatment MRI. This will help answer the study's main hypothesis, which posits that pre-treatment mechanical and diffusion properties have predictive value regarding treatment response.\n2. These patients will undergo surgery as part of their pancreatic cancer care. This will allow for dual characterization-both anatomical and radiological.\n3. This will evaluate how MRI parameters change depending on the treatments patients receive (chemotherapy with or without radiation therapy).\n\nFor this project, two MRI sequences are added to the routine MRI (MRE and advanced diffusion sequences). The purpose of these sequences is to predict treatment response and classify the tumor without the need for a biopsy.\n\nThe research-based sequences are therefore added to every MRI performed on the patient as part of their standard follow-up care.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07952334",
+ "importance": 0.71,
+ "key_points_ko": [
+  "수술 가능 또는 경계성 절제 가능 췌장관선암 환자 150명을 대상으로 영상 바이오마커를 탐색하는 연구입니다.",
+  "확산강조 MRI와 MRI 탄성도를 활용하여 조직검사 없이 췌장암 아형을 분류하고 선행보조요법 반응을 예측합니다.",
+  "선행보조 항암 및 방사선 치료 과정에 따른 MRI 정량 매개변수의 변화를 정밀하게 평가합니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07952334"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Assistance Publique - Hôpitaux de Paris",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07952334"
+ },
+ "summary_ko": "본 연구는 수술 가능 또는 경계성 절제 가능 췌장관선암(PDAC) 환자 150명을 대상으로 확산강조 MRI 및 MRI 탄성도 검사의 유용성을 평가합니다. 수술 전 선행보조요법 시행 전후의 정량적 영상 지표를 통해 췌장암 아형을 구분하고 치료 감수성을 예측하고자 합니다. 환자는 표준 정기 MRI 검사 시 조직검사 없이 암 특성을 평가하는 연구용 영상 시퀀스를 추가로 촬영하게 됩니다.",
+ "summary_source": "llm",
+ "tags": [
+  "pancreas",
+  "carcinoma",
+  "imaging",
+  "MRI"
+ ],
+ "title": "Identification of Biomarkers Using Quantitative Imaging for Phenotyping and Predicting Treatment Response in Pancreatic Cancer",
+ "title_ko": "췌장암 치료 반응 예측 및 아형 분석을 위한 정량적 영상 바이오마커 식별 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Carcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "vinciane.rebours@aphp.fr",
+    "name": "Vinciane REBOURS, Pr",
+    "phone": "+331 40 87 52 15"
+   }
+  ],
+  "eligibility_ko": "선정 기준: 1. 만 18세 이상의 성인 환자 2. 경계성 절제 가능 또는 즉시 수술 가능한 췌장관선암으로 치료받는 환자 / 제외 기준: 1. 초기 CT 검사에서 국소 진행성 또는 전이성 췌장암으로 확인된 환자 2. 프랑스 국민건강보험 미가입자 3. 임신 중이거나 수유 중인 여성 4. 법적 후견, 감호 또는 사법적 보호를 받는 환자 5. MRI 촬영 또는 조영제 주사 금기증(폐쇄공포증 등)이 있는 환자 6. 서명된 서면 동의서가 없는 환자 7. 다른 중재적 연구에 참여 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1\\. Adult patients over 18 years of age who are being treated for borderline or immediately operable pancreatic ductal adenocarcinoma\n\nExclusion Criteria:\n\n1. Patients with locally advanced or metastatic pancreatic adenocarcinoma as determined by the initial CT scan\n2. Patients not enrolled in the national health insurance system\n3. Pregnant or breastfeeding women\n4. Patients under legal guardianship, conservatorship, or judicial protection\n5. Patients with a contraindication to MRI (particularly claustrophobia) or to the injection of contrast agent during an MRI scan. The standard contraindications for MRI are defined by the French Society of Radiology: http://www.sfrnet.org/sfr/professionnels/1-fiche-information-patients/irm/index.phtml\n6. Lack of signed informed consent from the patient\n7. Participation in another interventional study",
+  "enrollment": 150,
+  "has_results": false,
+  "interventions": [
+   "Additional imaging sequences"
+  ],
+  "last_update_posted": "2026-11-23",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": null,
+   "key_exclusions_ko": [
+    "국소 진행성 또는 전이성 췌장암",
+    "임신 또는 수유 중인 여성",
+    "MRI 금기증 또는 조영제 부작용 위험(폐쇄공포증 등)",
+    "다른 중재적 연구 참여 중"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": null,
+   "min_prior_lines": 0,
+   "notes_ko": "수술 가능 또는 경계성 절제 가능 췌장관선암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07952334",
+  "phase": "NA",
+  "primary_completion_date": "2029-01",
+  "sex": "ALL",
+  "sponsor": "Assistance Publique - Hôpitaux de Paris",
+  "start_date": "2027-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "Mitochondria maintain unique biogenesis programs (mitobiogenesis) to encode key components in oxidative phosphorylation system in response to metabolic cues. How mitochondria integrate specific metabolite signals into mitobiogenesis remains elusive. Here, we report that pancreatic cancer cells employ glutamate dehydrogenase 1 (GLUD1) to couple leucine signaling and mitobiogenesis. Mitochondrial RNA polymerase (POLRMT) positively correlates with GLUD1 at proteomic level, but not transcriptomic level, in cancer cell lines. GLUD1 maintains POLRMT protein, mitochondrial genome (mtDNA)-encoded protein expression, and mitochondrial mass independent of its catalytic activity. Notably, GLUD1 interacts with POLRMT and protects it from caspase 9 (CASP9)-mediated proteolysis. Metabolite screening reveals that leucine, an abundant amino acid in mtDNA-encoded proteins, enhances GLUD1 binding to stabilize POLRMT. Depletion of solute carrier family 25 member 44 (SLC25A44), the mitochondrial leucine transporter, reduces POLRMT protein and suppresses mitobiogenesis. GLUD1-mediated leucine signaling supports mitochondrial respiration and pancreatic cancer cell growth in culture and in vivo. Clinical pancreatic tumor tissues accumulate leucine and upregulate GLUD1, which is linked to enhanced mitobiogenesis. Together, GLUD1 mediates leucine signaling to support mitobiogenesis and pancreatic cancer development.",
+ "authors": [
+  "Zhang S",
+  "Han B",
+  "Yin Z",
+  "Wang J",
+  "Zhou W",
+  "Wang T",
+  "Long J",
+  "Wang H"
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43068726",
+ "importance": 0.52,
+ "key_points_ko": [
+  "GLUD1은 촉매 활성과 무관하게 POLRMT 단백질과 미토콘드리아 생합성을 유지합니다.",
+  "GLUD1은 POLRMT와 결합하여 CASP9에 의한 단백질 분해로부터 보호합니다.",
+  "아미노산인 류신은 GLUD1과 POLRMT의 결합을 강화하여 단백질을 안정화합니다.",
+  "GLUD1을 통한 류신 신호전달은 미토콘드리아 호흡과 췌장암 세포의 성장을 지원합니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/j.jbc.2026.113787",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43068726"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-22",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Biol Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43068726/"
+ },
+ "summary_ko": "이 연구는 췌장암 세포가 글루타메이트 탈수소효소 1(glutamate dehydrogenase 1, GLUD1)을 이용하여 류신(leucine) 신호와 미토콘드리아 생합성(mitobiogenesis)을 연결한다는 것을 규명했습니다. GLUD1은 미토콘드리아 RNA 중합효소(POLRMT)와 상호작용하여 caspase 9(CASP9)에 의한 단백질 분해로부터 보호합니다. 류신은 GLUD1과 POLRMT의 결합을 강화하여 이를 안정화하며, 이는 미토콘드리아 호흡과 췌장암 세포의 성장을 지원합니다. 임상 췌장암 조직에서도 류신이 축적되고 GLUD1이 상향 조절되어 미토콘드리아 생합성 강화와 연관됨을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "GLUD1 mediates leucine signaling to restrain POLRMT proteolysis and promote mitochondrial biogenesis",
+ "title_ko": "GLUD1은 류신 신호를 매개하여 POLRMT 단백질 분해를 억제하고 미토콘드리아 생합성을 촉진합니다",
+ "trial": null,
+ "type": "paper"
+}

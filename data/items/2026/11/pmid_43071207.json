@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal malignancies of the digestive system. Apoptosis resistance, dense fibrotic stroma, and an immunosuppressive tumor microenvironment (TME) contribute to poor treatment responses. Pyroptosis is a gasdermin (GSDM)-mediated form of lytic regulated cell death driven by membrane pore formation and loss of plasma membrane integrity, and has emerged as a potential therapeutic mechanism in PDAC. Its biological consequences are highly context dependent, varying with the affected cellular compartment, the GSDM pathway engaged, and the disease or treatment setting. We examine how GSDM executioners, inflammasomes, and regulatory networks shape the tumor-promoting and tumor-suppressive effects of pyroptosis. We then assess therapeutic approaches involving chemotherapy reprogramming, natural bioactive compounds, nanodelivery systems, physical energy-based therapies, and biomarker-guided strategies. This analysis links molecular mechanisms to the disease contexts in which modulation of pyroptosis might be therapeutically relevant.",
+ "authors": [
+  "Xu WJ",
+  "Jiang YX",
+  "Kong Y",
+  "Zhang Q",
+  "Wang YY",
+  "You JQ",
+  "Zhang HX",
+  "Zhang K"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43071207",
+ "importance": 0.69,
+ "key_points_ko": [
+  "파이롭토시스는 가스더민(GSDM) 단백질에 의한 세포막 용해성 조절 세포사멸 기전입니다.",
+  "세포 환경 및 관련 경로에 따라 종양 억제 또는 종양 촉진 효과의 이중성을 가집니다.",
+  "항암제 재프로그래밍, 나노 전달 체계, 바이오마커 기반 전략 등 임상적 적용 방안을 제시했습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1007/s10495-026-02468-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43071207"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Apoptosis",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43071207/"
+ },
+ "summary_ko": "췌장관선암종(PDAC)에서 세포사멸의 일종인 파이롭토시스(pyroptosis)의 분자 기전과 치료적 가능성을 종합적으로 분석한 종설 연구입니다. 파이롭토시스는 세포막 구멍 형성으로 발생하는 세포사멸 형태로, 종양 미세환경(TME) 및 가스더민(GSDM) 경로에 따라 종양 억제와 종양 촉진이라는 이중적 효과를 나타냅니다. 본 연구는 항암제 재프로그래밍, 천연 생활성 화합물, 나노 전달 시스템, 에너지 기반 치료 등 파이롭토시스를 조절하는 다양한 치료적 접근법을 논의합니다. 이러한 기전 분석은 췌장암 치료 반응을 개선하기 위한 새로운 정밀 치료 전략 수립에 기여할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Molecular mechanisms, dual effects, and therapeutic translation of pyroptosis in pancreatic ductal adenocarcinoma",
+ "title_ko": "췌장관선암종에서 파이롭토시스의 분자 기전, 이중적 효과 및 치료적 적용",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic cancer (PC) is one of the most lethal malignancies, and current treatments rarely result in long-term survival. One of the key factors defining its resilience against chemotherapy is the existence of cancer stem cells. c-Myc is a highly amplified oncogene and one of the \"most wanted\" targets for cancer therapy and maintains tumor stemness, which has so far been an undruggable target. Herein, we describe that a natural cyclopeptide RA-V from Rubia yunnanensis induced ER stress, reduced c-Myc expression and tumor stemness in vitro and vivo. Mechanistically, RA-V induced ER stress-mediated apoptosis through activated the PERK/eIF2α/ATF4/CHOP pathway; RA-V targeted and stabilized the ubiquitin ligase HMG-CoA reductase degradation protein 1 (HRD1), thereby mediating ER-associated degradation (ERAD) of c-Myc protein and decreasing stemness of PC cells. This study provides not only a novel pharmacological strategy to modulate the expression of c-Myc protein, but also new insights into the antitumor mechanism of RA-V.",
+ "authors": [
+  "Jiang Z",
+  "Wu Y",
+  "Cao F",
+  "Wang J",
+  "Ye S",
+  "Sui Y",
+  "Tan N"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072980",
+ "importance": 0.56,
+ "key_points_ko": [
+  "천연 환상 펩타이드 RA-V는 췌장암 세포에서 소포체 스트레스와 세포 자멸사를 유도했습니다.",
+  "RA-V는 PERK/eIF2α/ATF4/CHOP 경로를 활성화하는 것으로 나타났습니다.",
+  "RA-V는 HRD1 단백질을 안정화하여 c-Myc의 분해를 매개하고 줄기세포성을 감소시켰습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/S1875-5364(26)61238-1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072980"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-12-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Chin J Nat Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072980/"
+ },
+ "summary_ko": "본 연구는 췌장암(PC) 세포에서 천연 환상 펩타이드인 RA-V의 항암 효과와 작용 기전을 조사했습니다. 실험 결과, RA-V는 소포체(ER) 스트레스를 유도하고 c-Myc 단백질의 발현을 낮추어 종양 줄기세포성을 억제했습니다. 기전적으로 RA-V는 PERK/eIF2α/ATF4/CHOP 경로를 활성화하고 유비퀴틴 리가제인 HRD1을 안정화하여 c-Myc의 분해를 촉진했습니다. 본 연구는 c-Myc 단백질 발현을 조절하는 새로운 약리학적 전략을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Natural cyclopeptide RA-V induces ER stress and promotes HRD1-mediated c-Myc degradation to inhibit pancreatic cancer stemness",
+ "title_ko": "천연 환상 펩타이드 RA-V는 소포체 스트레스를 유도하고 HRD1 매개 c-Myc 분해를 촉진하여 췌장암 줄기세포성을 억제합니다",
+ "trial": null,
+ "type": "paper"
+}

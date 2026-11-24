@@ -1,0 +1,62 @@
+{
+ "abstract": "INTRODUCTION: Robust medical informatics systems are essential for quality improvement and research. Human abstraction, the current standard for data collection from the electronic medical record at many centers, is resource-intensive and error-prone. We herein describe the development of an Epic note template for standardization of data abstraction from the electronic medical record.\nMETHODS: A standardized Epic note template (PCSC SmartNote) was implemented at the Fred Hutchinson Cancer Center Pancreatic Cancer Specialty Clinic, containing 58 Smart Data Elements representing structured and unstructured data. A structured query language pipeline transformed values from the clinical data warehouse into a Research Electronic Data Capture ingestible format. Extraction of values was scheduled to run every 2 weeks, allowing automated abstraction to the institutional pancreas cancer registry.\nRESULTS: From February 2023 to February 2025, 498 PCSC SmartNotes were extracted from Epic into Research Electronic Data Capture, yielding 21,276 total data points. Average rates of SmartNote template utilization increased from 54.1% during year 1 of data collection to 60.2% during year 2. The priority unstructured data elements Goals of Care Discussion, Pancreatic Enzyme Insufficiency Screening, Clinical Trial Enrollment, and Palliative Care Screening, were completed at rates exceeding 70%.\nCONCLUSIONS: We illustrate how the use of a standardized note template, integrated with an in-house data pipeline, enables efficient and automated clinical data abstraction and supports scalable acquisition of priority data in the setting of a cancer multidisciplinary clinic. We highlight the importance of multidisciplinary input in note template design, discuss approaches to improve note utilization by providers, and describe the resources needed to drive similar efforts at other institutions.",
+ "authors": [
+  "Wang A",
+  "Chauhan SS",
+  "Reitz P",
+  "Harris M",
+  "Wahinekapu A",
+  "Apisarnthanarax S",
+  "Kim EY",
+  "Takayesu J"
+ ],
+ "categories": [
+  "supportive",
+  "trial"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43072255",
+ "importance": 0.63,
+ "key_points_ko": [
+  "2년간 총 498건의 작성 기록에서 21,276개의 데이터 포인트를 자동 수집했습니다.",
+  "서식 활용률은 1년 차 54.1%에서 2년 차 60.2%로 증가했습니다.",
+  "치료 목표 논의, 췌외분비 기능부전 검진, 임상시험 등록, 완화의료 검진 등 주요 항목의 작성 완료율이 70%를 초과했습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1016/j.jss.2026.10.052",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43072255"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072255/"
+ },
+ "summary_ko": "본 연구는 췌장암 다학제 클리닉에서 전자의무기록(EMR) 데이터 수집을 자동화하기 위해 표준화된 서식 템플릿과 데이터 파이프라인을 구축한 결과입니다. 2023년 2월부터 2025년 2월까지 498건의 작성 기록에서 21,276개의 데이터 포인트를 연구용 등록 시스템으로 자동 이관했습니다. 의료진의 서식 활용률은 1년 차 54.1%에서 2년 차 60.2%로 증가했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Implementation of an Automated Data Abstraction Tool in a Cancer Multidisciplinary Clinic",
+ "title_ko": "암 다학제 클리닉에서 자동화 데이터 추출 도구 도입 및 적용",
+ "trial": null,
+ "type": "paper"
+}

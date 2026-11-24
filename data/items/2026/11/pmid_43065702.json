@@ -27,7 +27,7 @@
   "다변량 콕스 회귀 분석 결과 연령, 성별, 병기를 조절한 후에도 GlyPath-Risk는 전체 생존기간(OS)과 유의미하게 연관되었습니다(위험비 1.230).",
   "20가지 번역 후 수식화 클래스 중 당화 유전자 세트가 병리 특성과 가장 강한 상관관계를 보였으며, B3GNT3 억제 시 세포 증식이 감소했습니다."
  ],
- "last_updated": "2026-11-23",
+ "last_updated": "2026-11-24",
  "links": {
   "doi": "10.3389/fimmu.2026.1994542",
   "nct": [],
@@ -35,7 +35,8 @@
   "pmid": "43065702"
  },
  "pub_types": [
-  "Journal Article"
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
  ],
  "published_at": "2026-11-06",
  "relevance": 0.6,

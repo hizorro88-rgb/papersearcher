@@ -1,0 +1,63 @@
+{
+ "abstract": "The C-reactive protein/albumin ratio (CAR), an inflammatory marker, is a useful biomarker for pancreatic cancer. Although disease status is not constant, many inflammatory markers are only classified at the start of treatment. Therefore, biomarker analysis that considers the changes in inflammatory markers during treatment is desirable. We aimed to investigate whether time-dependent changes in the CAR during nanoliposomal irinotecan with fluorouracil and folinic acid (NFF) administration can predict the prognosis of patients with unresectable or recurrent pancreatic cancer (urPC). CAR was measured in 150 participants of the NAPOLEON-2 study, an observational study involving patients with pancreatic cancer receiving NFF, and the patients were stratified by CAR. The CAR at NFF initiation was defined as CAR(1), while the minimum CAR before/throughout NFF administration was defined as CAR(min). We found significant differences in overall survival between the CAR(1) < 0.54 and ≥ 0.54 groups and between the CAR(min) < 0.54 and ≥ 0.54 groups. The overall survival was significantly better in the CAR(min)/CAR(1) < 0.5 group than in the CAR(min)/CAR(1) ≥ 0.5 group. Our findings indicate that dynamic changes in CAR were a clinically significant biomarker that considers not only the disease status at the start of treatment but also the response to treatment. CAR monitoring would help understand the disease status and thereby aid patients and physicians alike.",
+ "authors": [
+  "Araki T",
+  "Otsuka T",
+  "Shimokawa M",
+  "Jubashi A",
+  "Hayashi K",
+  "Honda T",
+  "Miyaaki H",
+  "Nakazawa J"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43071008",
+ "importance": 0.73,
+ "key_points_ko": [
+  "NFF 치료를 받은 절제 불가능 또는 재발성 췌장암 환자 150명의 CAR 수치 변화를 분석했습니다.",
+  "치료 시작 시점 수치인 CAR(1)과 치료 중 최소 수치인 CAR(min)이 모두 0.54 미만인 그룹이 0.54 이상인 그룹보다 전체 생존기간이 유의하게 우수했습니다.",
+  "치료 중 최소 CAR 비율(CAR(min)/CAR(1))이 0.5 미만으로 감소한 환자군이 0.5 이상인 환자군보다 전체 생존기간이 유의하게 우수했습니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": "10.1007/s12032-026-03558-2",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43071008"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43071008/"
+ },
+ "summary_ko": "절제 불가능 또는 재발성 췌장암 환자를 대상으로 나노리포좀 이리노테칸+플루오로유라실+폴리닉산(NFF) 치료 중 C-반응성 단백질/알부민 비율(CAR)의 변화가 예후 예측에 미치는 영향을 관찰했습니다. NAPOLEON-2 관찰 연구에 참여한 환자 150명의 데이터를 바탕으로 치료 시작 시점 및 치료 중 최소 CAR 수치를 분석했습니다. 연구 결과, 치료 중 CAR 수치가 치료 시작 시점 대비 절반 미만으로 감소한 환자군이 그렇지 않은 환자군에 비해 전체 생존기간(OS)이 유의하게 길었습니다. 이는 치료 과정 중 CAR 수치의 동적 변화 모니터링이 췌장암 치료 반응과 예후를 예측하는 임상적 바이오마커로 활용될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dynamic analysis of C-reactive protein/albumin ratio in pancreatic cancer",
+ "title_ko": "췌장암 환자에서 C-반응성 단백질/알부민 비율(CAR)의 동적 분석",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,129 @@
+{
+ "abstract": "This is an open label, randomized phase 2 study of NaliCap (irinotecan liposome/Capecitabine) compared to NAPOLI (irinotecan liposome/5-FU/LV) in gemcitabine-pretreated advanced pancreatic cancer patients.\n\n* At the time of initial diagnosis of pancreatic cancer, resectable pancreatic cancer is around 20%, locally-advanced pancreatic cancer is around 25-30%, and the remaining is metastatic pancreatic cancer.\n* In metastatic pancreatic cancer, Gemcitabine/Abraxane or FOLFIRINOX 5-fluorouracil/leucovorin/irinotecan/oxaliplatin (FOLFIRINOX) is most commonly used regimen as a palliative 1st-line chemotherapy. In gemcitabine-pretreated pancreatic cancer, irinotecan liposome(nal-IRI)/5-fluorouracil(5FU)/leucovorin(LV)(NAPOLI regimen) improved overall survival of patients compared to 5FU/LV. Now, NAPOLI is standard of care in gemcitabine-pretreated pancreatic cancer.\n* Oral 5-FU such as TS-1 is used in gemcitabine pretreated pancreatic cancer patients or 1st-line treatment in gemcitabine-intolerable patients.\n* Capecitabine is oral 5-FU, which is commonly used in GI cancers, usually replacing intravenous infusion of 5-FU. It improves patient's convenience not requiring vascular access or hospital admission.\n* In NAPOLI regimen, iv 5-FU/LV could be replaced with capecitabine. So far, nal-IRI/Capecitabine combination has not yet been tested.\n* Based on these rationale, we plan to conduct the open-label, randomized phase 2 study to assess the safety and efficacy of NaliCap (nal-IRI/Capecitabine) compared to NAPOLI (nal-IRI/5-FU/LV) in patients with gemcitabine-pretreated advanced pancreatic cancer.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "nalirifox",
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-24",
+ "history": [
+  {
+   "date": "2026-11-24",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT04371224",
+ "importance": 0.92,
+ "key_points_ko": [
+  "gemcitabine(젬시타빈) 치료를 받은 수술 불가능 또는 재발성 진행성 췌관선암 환자 200명을 대상으로 합니다.",
+  "기존 NAPOLI 요법의 정맥 주사제 대신 경구 항암제인 capecitabine(카페시타빈)을 사용한 NaliCap 요법의 효과와 안전성을 평가합니다.",
+  "ECOG 수행능력 평가 점수가 0점 또는 1점인 20세 이상의 환자가 참여 대상입니다."
+ ],
+ "last_updated": "2026-11-24",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT04371224"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2020-05-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Seoul National University Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT04371224"
+ },
+ "summary_ko": "본 연구는 gemcitabine(젬시타빈) 치료 이력이 있는 진행성 췌장암 환자를 대상으로 NaliCap 요법과 기존 표준 치료인 NAPOLI 요법의 유효성과 안전성을 비교하는 무작위 배정 2상 임상시험입니다. NaliCap 요법은 정맥 주사제인 5-FU/LV 대신 경구 항암제인 capecitabine(카페시타빈)을 조합하여 환자의 투약 편의성을 개선하고자 기획되었습니다. 서울대학교병원 등 국내 2개 기관에서 총 200명의 환자를 대상으로 진행됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "NaliCap (Irinotecan Liposome (Nal-IRI)/Capecitabine) vs. NAPOLI (Nal-IRI/5-FU/LV) ) in Advanced Pancreatic Cancer",
+ "title_ko": "진행성 췌장암 환자에서 NaliCap(irinotecan liposome/capecitabine)과 NAPOLI(irinotecan liposome/5-FU/LV) 요법을 비교하는 2상 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreatic Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 20세 이상의 성인 환자\n- 조직학적으로 확진된 진행성(수술 불가능 또는 재발성) 췌관선암 환자\n- 진행성 췌장암에 대해 gemcitabine(젬시타빈) 투여 이력이 있는 환자\n- ECOG 수행능력 평가 점수 0점 또는 1점인 환자\n- 적절한 장기 기능을 보유한 환자\n\n제외 기준:\n- 투약 시작 전 28일 이내에 이전 항암치료 또는 주요 수술을 받은 경우\n- 뇌전이 또는 척수 압박이 확인된 경우\n- 최근 6개월 이내 심혈관 사건 발생 병력이 있는 경우\n- 조절되지 않는 활동성 감염(결핵, B형 간염, C형 간염, HIV 등) 또는 기타 중증 질환이 있는 경우\n- 임상시험 약물 성분에 과민반응이 있는 경우",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Signed informed consent\n2. Age\\>20 years at time of study entry\n3. Histologically confirmed pancreatic ductal adenocarcinoma\n4. Advanced stage (unresectable, recurrent)\n5. Gemcitabine-pretreated for advanced pancreatic cancer\n6. Eastern Cooperative Oncology Group(ECOG) performance status 0, 1\n7. Adequate organ function\n8. Evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal subjects.\n9. Subject is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up.\n\nExclusion Criteria:\n\n1. Participation in another clinical study with an investigational product (IP) during the last 3 weeks\n2. Concurrent enrolment in another clinical study, unless it is an observational (non-interventional) clinical study or during the follow-up period of an interventional study\n3. Receipt of the last dose of anti-cancer therapy (chemotherapy, immunotherapy, endocrine therapy, targeted therapy, biologic therapy, tumor embolization, monoclonal antibodies, other investigational agent) 28 days prior to the first dose of study drug\n4. Major surgical procedure (as defined by the Investigator) within 28 days prior to the first dose of IP. Note: Local surgery of isolated lesions for palliative intent is acceptable.\n5. Known brain metastasis or spinal cord compression.\n6. History of allogenic organ transplantation\n7. Cardiac event during past 6 months\n8. Uncontrolled intercurrent illness, including but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, serious chronic gastrointestinal conditions associated with diarrhea, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs or compromise the ability of the patient to give written informed consent\n9. Active infection including tuberculosis (TB) (clinical evaluation that includes clinical history, physical examination and radiographic findings, and TB testing in line with local practice), hepatitis B (known positive hepatitis B virus (HBV) surface antigen (HBsAg) result), hepatitis C, or human immunodeficiency virus (positive HIV 1/2 antibodies). Subjects with a past or resolved HBV infection (defined as the presence of hepatitis B core antibody \\[anti-HBc (hepatitis B core antigen)\\] and absence of HBsAg) are eligible. Subjects positive for hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative for HCV RNA.\n10. Female subjects who are pregnant or breastfeeding or male or female subjects of reproductive potential who are not willing to employ effective birth control from screening to 90 days after the last dose of IP.\n11. Known allergy or hypersensitivity to any of the study drugs or any of the study drug excipients.\n12. Judgment by the investigator that the patient is unsuitable to participate in the study and the patient is unlikely to comply with study procedures, restrictions and requirements.",
+  "enrollment": 200,
+  "has_results": false,
+  "interventions": [
+   "Irinotecan Liposomal Injection [Onivyde]",
+   "Capecitabine",
+   "5-fluorouracil",
+   "Leucovorin"
+  ],
+  "last_update_posted": "2026-11-23",
+  "location_countries": [
+   "South Korea"
+  ],
+  "locations_kr": [
+   {
+    "city": "Seongnam-si",
+    "country": "South Korea",
+    "facility": "Seoul National University Bundang Hospital",
+    "status": null
+   },
+   {
+    "city": "Seoul",
+    "country": "South Korea",
+    "facility": "Seoul National University Hospital",
+    "status": null
+   }
+  ],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "뇌전이 또는 척수 압박",
+    "최근 28일 이내 이전 항암치료 또는 주요 수술",
+    "최근 6개월 이내 심혈관 질환 병력",
+    "조절되지 않는 활동성 감염 (B형/C형 간염, 결핵 등)",
+    "동종 장기 이식 병력"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": 1,
+   "notes_ko": "젬시타빈 치료 이력이 있는 수술 불가능 또는 재발성 진행성 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [
+    "gemcitabine"
+   ],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "20 Years",
+  "n_locations": 2,
+  "nct_id": "NCT04371224",
+  "phase": "PHASE2",
+  "primary_completion_date": "2024-09-06",
+  "sex": "ALL",
+  "sponsor": "Seoul National University Hospital",
+  "start_date": "2020-06-23",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

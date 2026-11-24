@@ -16,12 +16,27 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 45건 · 최근 30일 24건
+전체 46건 · 최근 30일 23건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43072801"></a>
+#### [두 차례 진단 실패 후 전문가 병리 검토가 필요했던 췌장 꼬리 소질환: 분지형 췌관 내 관상유두상 종양 양상 성장을 동반한 혼합 도관-신경내분비암](https://pubmed.ncbi.nlm.nih.gov/43072801/)
+<small>Small hypovascular pancreatic tail mass requiring expert pathological review after two non-diagnostic endoscopic ultrasound-guided tissue acquisition procedures: mixed ductal-neuroendocrine carcinoma with branch-duct intraductal tubulopapillary neoplasm-like growth</small>
+
+`논문` `증례` `진단·조기발견` `지지요법·삶의질` `제약사·규제` · 2026-11-23 · PubMed · BMJ Case Rep · 중요도 0.54
+
+내시경 초음파(EUS) 하 조직 검사를 두 차례 시행했으나 명확하게 진단되지 않았던 췌장 꼬리 부위의 소형 저혈관성 종양 증례 보고입니다. 전문가 병리 재검토를 통해 분지형 췌관 내 관상유두상 종양(ITPN) 유사 성장을 동반한 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다. 희귀 췌장 종양 진단 시 반복 검사 실패 후 전문가의 병리 재검토가 진단에 중요한 역할을 할 수 있음을 제시합니다.
+
+- 두 차례의 내시경 초음파 하 조직 검사에서 진단이 확실하지 않았던 췌장 꼬리 부위 종양 증례입니다.
+- 전문가 병리 재검토를 거쳐 혼합 도관-신경내분비암(MiNEN)으로 최종 진단되었습니다.
+- 분지형 췌관 내 관상유두상 종양(ITPN)과 유사한 성장 양상을 동반한 드문 형태입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43072801/) · [DOI](https://doi.org/10.1136/bcr-2026-276823) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43072801)</small>
+
+---
 <a id="pmid-43062619"></a>
 #### [췌장 종양의 MRI 라디오믹스: 방법론적 질 및 영상 재현성에 대한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43062619/)
 <small>MRI radiomics of pancreatic tumours: a systematic review of methodological quality and imaging reproducibility</small>
@@ -361,36 +376,5 @@ zenocutuzumab-zbco(제노쿠투주맙-zbco)는 비소세포폐암(NSCLC), 췌관
 - QALY당 15만 달러 또는 20만 달러 기준을 충족하는 적응증은 없었으며, 비용-효과성 달성을 위해 60%~91%의 가격 인하가 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42921926/) · [DOI](https://doi.org/10.1177/10781552261496856) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42921926)</small>
-
----
-<a id="pmid-42914928"></a>
-#### [췌관선암에서 마이크로RNA 발현의 예후적 가치: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/42914928/)
-<small>Prognostic value of microRNA expression in pancreatic ductal adenocarcinoma: a systematic review and meta-analysis</small>
-
-`논문` `메타분석` `진단·조기발견` `기초연구` `치료 전반` `제약사·규제` · 2026-10-23 · PubMed · EBioMedicine · 중요도 0.95
-
-췌관선암(PDAC) 환자에서 마이크로RNA(miRNA) 발현 수준이 생존기간에 미치는 영향을 평가하기 위해 142개 연구, 총 13,824명의 데이터를 종합 분석했습니다. 분석 결과 발암성 및 항암제 내성 관련 miRNA가 높게 발현될수록 전체 생존기간(OS)과 무진행 생존기간(PFS)이 유의미하게 단축되었습니다. 특히 miRNA-21은 불량한 생존 예후와 가장 일관된 연관성을 보였습니다. 연구 간 이질성이 존재하여 임상 현장에서의 실제 적용을 위해서는 추가 검증과 표준화 작업이 필요합니다.
-
-- 총 142개 연구의 췌관선암 환자 13,824명을 대상으로 miRNA의 예후적 가치를 체계적으로 분석했습니다.
-- 발암성 miRNA의 높은 발현은 전체 생존기간 악화(위험비 1.70) 및 무진행 생존기간 악화(위험비 2.25)와 관련이 있었습니다.
-- 항암제 내성 관련 miRNA의 높은 발현 역시 불량한 전체 생존기간(위험비 2.11) 및 무진행 생존기간(위험비 2.51)과 연관되었습니다.
-- 가장 빈번하게 분석된 miRNA-21은 다변량 전체 생존기간 악화(위험비 2.24)와 일관된 연관성을 보여 향후 임상 도입 가능성이 가장 높은 표지자로 제시되었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42914928/) · [DOI](https://doi.org/10.1016/j.ebiom.2026.106528) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42914928)</small>
-
----
-<a id="pmid-42919853"></a>
-#### [암세포 특이적 FOXP3에 의한 MMP19 의존적 기질 리모델링 및 췌관선암의 전이 촉진 기전](https://pubmed.ncbi.nlm.nih.gov/42919853/)
-<small>Cancer cell-specific FOXP3 licenses MMP19-dependent matrix remodeling and metastatic dissemination in pancreatic ductal adenocarcinoma</small>
-
-`논문` `전임상` `기초연구` `치료 전반` `신약·치료제` `제약사·규제` · 2026-10-23 · PubMed · Oncogene · 중요도 0.64
-
-췌관선암(PDAC)에서 암세포 특이적으로 발현되는 FOXP3(c-FOXP3)가 종양의 침습과 전이를 촉진한다는 전임상 연구 결과입니다. 연구진은 전사체 분석 등을 통해 기질금속단백질분해효소 19(MMP19)가 c-FOXP3의 직접적인 표적 유전자임을 밝혔습니다. MMP19 발현을 억제했을 때 암세포의 이동과 전이가 유의하게 감소했습니다. 또한 FOXP3를 표적하는 안티센스 올리고뉴클레오티드(ASO) 물질인 AZD8701이 FOXP3와 MMP19 발현을 낮추고 암세포 침습을 억제함을 세포 실험에서 확인했습니다.
-
-- 암세포 특이적 FOXP3(c-FOXP3)는 삼차원 콜라겐 환경 내 침습 및 동소이식 동물 모델에서의 전이를 촉진했습니다.
-- c-FOXP3의 직접적인 하위 표적으로 MMP19가 규명되었으며, MMP19 억제 시 c-FOXP3에 의한 전이 능력이 유의하게 감소했습니다.
-- FOXP3 표적 안티센스 올리고뉴클레오티드인 AZD8701 투여 시 시험관 내(in vitro)에서 췌장암 세포의 이동과 침습이 감소했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919853/) · [DOI](https://doi.org/10.1038/s41388-026-04025-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919853)</small>
 
 ---
