@@ -23,11 +23,12 @@
  "id": "nct:NCT04447092",
  "importance": 0.92,
  "key_points_ko": [
-  "이전 전신 항암치료 경험이 없는 진행성 및 전이성 췌장암 환자 77명을 대상으로 합니다.",
-  "면역항암제 pembrolizumab(펨브롤리주맙)과 항암화학요법(Gemcitabine/Nab-paclitaxel 또는 FOLFIRINOX 등)의 병용 치료 효과와 안전성을 검증합니다.",
-  "치료 반응을 예측할 수 있는 바이오마커 탐색 연구를 함께 진행합니다."
+  "대상 질환은 수술 불가능하거나 재발성 또는 전이성 췌장암입니다.",
+  "이전 진행성 췌장암에 대한 전신 항암 치료 경험이 없는 환자를 대상으로 합니다 (이전 보조항암치료는 허용됨).",
+  "목표 인원은 77명이며, 서울대학교병원에서 진행 중인 2상 임상시험입니다.",
+  "초록에 구체적인 생존기간이나 반응률 등의 효능 수치는 명시되지 않았습니다."
  ],
- "last_updated": "2026-11-24",
+ "last_updated": "2026-11-25",
  "links": {
   "doi": null,
   "nct": [
@@ -50,18 +51,18 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04447092"
  },
- "summary_ko": "수술이 불가능하거나 재발성 또는 전이성인 췌장암 환자를 대상으로 진행되는 2상 임상시험입니다. 이전 전신 항암치료 경험이 없는 환자에게 면역항암제 pembrolizumab(펨브롤리주맙)과 표준 항암화학요법을 병용 투여합니다. 연구를 통해 치료의 효과와 안전성을 평가하고 치료 반응을 예측할 수 있는 바이오마커(biomarker)를 탐색합니다.",
+ "summary_ko": "이 연구는 이전에 항암 치료를 받은 적이 없는 진행성 췌장암 환자를 대상으로 pembrolizumab(펨브롤리주맙)과 항암화학요법의 병용 치료 효과와 안전성을 평가하는 2상 임상시험입니다. 췌장암은 면역 억제 환경을 가지고 있어 면역항암제 단독 요법으로는 효과가 제한적이므로, 화학요법과의 병용 전략을 평가하고자 합니다. 목표 인원은 77명이며 서울대학교병원에서 진행됩니다. 초록에 세부적인 생존 기간이나 반응률 결과는 명시되지 않았습니다.",
  "summary_source": "llm",
  "tags": [],
  "title": "Pembrolizumab Plus Chemotherapy in 1st Line Treatment of Pancreatic Cancer",
- "title_ko": "진행성 췌장암 1차 치료에서 pembrolizumab(펨브롤리주맙)과 항암화학요법 병용 투여에 대한 2상 임상시험",
+ "title_ko": "진행성 췌장암 1차 치료에서 펨브롤리주맙(pembrolizumab)과 항암화학요법 병용 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer",
    "Chemotherapy Effect"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준: • 만 18세 이상의 절제 불가능, 재발성 또는 전이성 췌장암 환자 • 진행성 췌장암에 대한 전신 항암화학요법 치료 경험이 없는 환자 (수술 후 보조항암치료는 허용) • RECIST 1.1 기준 측정 가능한 병변 보유 • ECOG 수행능력 평가 점수 0~1점 • 적절한 장기 및 혈액 기능 보유 제외 기준: • 이전 anti-PD-1, anti-PD-L1, anti-CTLA-4 등 면역관문억제제 치료 경험이 있는 환자 • 4주 이내 전신 항암치료 또는 2주 이내 방사선치료를 받은 환자 • 활동성 중추신경계(CNS) 뇌전이 또는 뇌수막 전이가 있는 환자 • 활동성 자가면역질환이 있거나 전신 면역억제제/스테로이드를 투여 중인 환자 • 활동성 감염, 만성 B형/C형 간염, 결핵, HIV 병력이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상 성인 남녀\n- 조직학적으로 확진된 수술 불가능, 재발성 또는 전이성 췌장암\n- 진행성 췌장암에 대한 전신 항암 치료 경험이 없음 (이전 보조항암치료는 허용)\n- RECIST 1.1 기준 측정 가능한 병변 존재\n- ECOG 수행능력 상태 0~1\n- 적절한 장기 기능 유지\n\n제외 기준:\n- 임산부 또는 수유부\n- PD-1, PD-L1, PD-L2 또는 기타 면역조절 수용체 표적 치료를 받은 적이 있는 경우\n- 4주 이내에 시험약을 포함한 전신 항암 치료를 받은 경우\n- 2주 이내에 방사선 치료를 받은 경우\n- 뇌전이 및/또는 수막 암종증이 있는 경우\n- 활동성 자가면역 질환이 있는 경우",
   "eligibility_text": "Inclusion Criteria:\n\n1. Male/female participants who are at least 18 years of age on the day of signing informed consent\n2. Histologically confirmed diagnosis of unresectable, recurrent, or metastatic pancreatic cancer\n3. Not pregnant, not breasfeeding, and agree to use proper contraception,\n4. Chemotherapy-naïve for advanced pancreatic cancer (previous adjuvant chemotherapy is allowed)\n5. Have measurable disease based on RECIST 1.1.\n6. Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.\n7. Have adequate organ function\n\n   * Haemoglobin ≥ 9.0 g/dL\n   * Absolute neutrophil count (ANC) 1.5 (or 1.0) x (\\> 1500 per mm3)\n   * Platelet count ≥ 100 x 109/L (\\>75,000 per mm3)\n   * Serum creatinine CL\\>30 mL/min by the Cockcroft-Gault formula or serum creatinine ≤1.5 × ULN\n   * Serum bilirubin ≤ 1.5 x ULN\n   * AST (SGOT)/ALT (SGPT) ≤ 2.5 x ULN unless liver metastases are present, in which case it must be ≤ 5x ULN\n   * International normalized ratio (INR) or Prothrombin time (PT), activated partial thromboplastin time (aPTT) ≤1.5 × ULN unless participant is receiving anticoagulant therapy\n\nExclusion Criteria:\n\n1. A WOCBP who has a positive urine pregnancy test within 72 hours prior to allocation\n2. Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (eg, CTLA-4, OX 40, CD137).\n3. Has received prior systemic anti-cancer therapy including investigational agents within 4 weeks\n4. Has received prior radiotherapy within 2 weeks of start of study treatment.\n5. Has received a live vaccine within 30 days prior to the first dose of study drug.\n6. Is currently participating in or has participated in a study of an investigational agent or has used an investigational device\n7. Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug.\n8. Has a known additional malignancy that is progressing or has required active treatment within the past 3 years.\n9. Has known active CNS metastases and/or carcinomatous meningitis.\n10. Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients.\n11. Has active autoimmune disease that has required systemic treatment in the past 2 years\n12. Has a history of (non-infectious) pneumonitis that required steroids or has current pneumonitis.\n13. Has an active infection requiring systemic therapy.\n14. Has a known history of Human Immunodeficiency Virus (HIV).\n15. Has a known history of Hepatitis B (defined as Hepatitis B surface antigen \\[HBsAg\\] reactive) or known active Hepatitis C virus (defined as HCV RNA \\[qualitative\\] is detected) infection.\n16. Has a known history of active TB (Bacillus Tuberculosis).\n17. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the subject's participation for the full duration of the study, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n18. Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n19. Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 120 days after the last dose of trial treatment.",
   "enrollment": 77,
   "has_results": false,
@@ -91,16 +92,15 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전 면역항암제(PD-1, PD-L1, CTLA-4 억제제 등) 치료 병력",
-    "활동성 중추신경계(CNS) 뇌전이 또는 뇌수막 전이",
-    "활동성 자가면역질환 또는 전신 면역억제제/스테로이드 복용",
-    "최근 3년 이내 치료가 필요했던 다른 악성 종양",
-    "치료가 필요한 활동성 감염, 만성 B형/C형 간염, 결핵, HIV 병력"
+    "뇌전이 및/또는 수막 암종증",
+    "활동성 자가면역 질환",
+    "이전 면역항암제 치료력",
+    "활동성 감염 (HIV, B형/C형 간염, 결핵 등)"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 전신 항암치료 경험이 없는 절제 불가능 또는 전이성 췌장암 환자",
+   "notes_ko": "이전 치료 경험이 없는 수술 불가·전이성 췌장암 환자",
    "prior_excluded": [
     "immunotherapy"
    ],

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic Ductal Adenocarcinoma (PDAC) is a highly aggressive cancer with a poor prognosis due to its dense stromal microenvironment, tumor heterogeneity, and rapid development of drug resistance. Gemcitabine (GEM), the FDA-approved first-line chemotherapy for PDAC, is often ineffective at standard doses, necessitating higher concentrations that lead to severe side effects. Metformin (MET), a widely used antidiabetic agent, has emerged as a potential stromal modulator that can reshape the PDAC tumor microenvironment. Here, we utilize non-toxic, fluorescent carbon dots (CDs) derived from MET (MetCDs) to enhance tumor targeting and reduce the effective dose of GEM in PDAC therapy, leveraging their favorable size, positive surface potential and structural resemblance to glutamine, a crucial amino acid for cancer cell proliferation. To enable comparative analysis, studies were parallelly conducted on carbon nitride dots, with negative surface potential, and selective cancer cell uptake. The successful conjugation of GEM to the CDs via carbodiimide coupling was confirmed through comprehensive optical, structural, and morphological analyses. A novel approach has been implemented to overcome the challenges associated with GEM quantification in highly photoactive drug carriers using circular dichroism spectroscopy. Cell viability assays indicate that MetCDs conjugation substantially improves GEM's therapeutic index by increasing tumor-cell toxicity while minimizing off-target effects. Confocal imaging studies further support these results, revealing selective and markedly higher intracellular accumulation of MetCDs in PDAC cells relative to non-malignant pancreatic ductal cells. Overall, this work presents a novel nanocarrier platform that expands GEM's therapeutic window and offers a promising strategy to overcome chemoresistance in aggressive PDAC.",
+ "authors": [
+  "Ajith A",
+  "Agatemor C",
+  "Chen J",
+  "Shiri M",
+  "Yang Z",
+  "Dixon L",
+  "Wang K",
+  "Leblanc RM"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43076698",
+ "importance": 0.64,
+ "key_points_ko": [
+  "메트포르민 유래 탄소점(MetCDs)을 개발하여 젬시타빈(GEM)의 전달 효율성을 높였습니다.",
+  "정상 췌장관 세포 대비 췌장암 세포에 약물이 선택적이고 훨씬 높게 축적됨을 세포 수준에서 확인했습니다.",
+  "젬시타빈의 부작용을 줄이고 치료 효과(치료 지수)를 대폭 향상시키는 전임상 연구 결과입니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1039/d6bm01301e",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43076698"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomater Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43076698/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 치료를 위해 당뇨병 약제인 메트포르민(MET) 기반의 탄소점(MetCDs)을 전달체로 활용하여 젬시타빈(GEM)의 항암 효과를 극대화하는 전임상 연구입니다. MetCDs는 암세포 성장선호 물질과 유사한 구조와 표면 전위를 가져 정상 췌장 세포보다 췌장암 세포에 선택적으로 높게 축적됩니다. 세포 실험 분석 결과, MetCDs에 젬시타빈을 결합한 전달체는 정상 세포에 대한 오프타겟 독성을 줄이면서 암세포에 대한 치료 효과를 대폭 개선했습니다. 이는 젬시타빈의 치료 범위를 넓히고 항암제 내성을 극복할 수 있는 새로운 나노 플랫폼 가능성을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Enhanced gemcitabine delivery via metformin-derived carbon dots for pancreatic ductal adenocarcinoma therapy",
+ "title_ko": "메트포르민 유래 탄소점을 활용한 췌장관선암 치료용 젬시타빈 전달 효율 개선",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,62 @@
+{
+ "abstract": "UNLABELLED: Oncogenic KRAS drives pancreatic ductal adenocarcinoma (PDAC). Although RAS antagonists can induce initial therapeutic responses, the rapid emergence of resistance limits benefit. To define therapeutic response and resistance mechanisms, we deployed two complementary preclinical PDAC models, including a degron-regulated KRASG12D-dependent transplantation model and a KrasG12V-driven PDAC mouse model treated with the RAS(ON) multiselective inhibitor, RMC-7977. KRASG12D degradation provoked RAS-dependent relapse, characterized by compensatory wild-type (WT) RAS upregulation, restored MAPK signaling and proliferation, and a shift toward hybrid cancer cell states. In contrast, RMC-7977 treatment triggered rapid RAS-independent resistance within 7 days, distinguished by suppressed MAPK activity yet restored proliferation with increased epithelial differentiation, and upregulation of FYN. Mechanistically, this RAS-independent program converged on a SRC family kinase (SFK)-YAP axis. Antagonism of WT RAS or FYN attenuated resistance, and combining FYN/SFK antagonism with RMC-7977 prevented the uncoupling of MAPK signaling from cell proliferation in the KrasG12V PDAC model. These findings identify distinct RAS-dependent versus -independent adaptive pathways orchestrating resistance to RAS inhibition in PDAC and propose combination strategies for clinical evaluation to enhance the durability of KRAS-directed therapy.\nSIGNIFICANCE: Divergent programs, mediated by protooncogenic wild-type RAS or an FYN/SFK-YAP axis, drive resistance to KRASG12D degradation and RMC-7977 in pancreatic cancer, revealing targetable vulnerabilities that prolong survival and inform durable therapies. See related article by Lin et al., p. XX .",
+ "authors": [
+  "Ting HC",
+  "Kim SY",
+  "Gaeth VA",
+  "Hinds JC",
+  "Deschênes A",
+  "Habowski A",
+  "Smith P",
+  "Yoo H"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43076691",
+ "importance": 0.64,
+ "key_points_ko": [
+  "KRASG12D 표적 분해는 야생형 RAS 상향 조절 및 MAPK 신호 전달 회복을 통한 RAS 의존적 재발을 유발했습니다.",
+  "RAS 억제제 RMC-7977 치료는 FYN 상향 조절 및 SFK-YAP 축 활성화를 통한 RAS 비의존적 내성을 형성했습니다.",
+  "RMC-7977과 FYN/SFK 억제제의 병용 투여는 RAS 비의존적 내성을 억제하고 암세포 증식을 차단했습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-26-0691",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43076691"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43076691/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)에서 RAS 억제 치료 후 발생하는 내성 기전을 전임상 생쥐 모델을 통해 분석했습니다. KRASG12D 표적 분해 시에는 야생형(WT) RAS 상향 조절을 통한 RAS 의존적 재발이 나타났습니다. 반면 RAS(ON) 다중 선택적 억제제인 RMC-7977 치료 시에는 FYN 및 SFK-YAP 축을 통한 RAS 비의존적 내성이 7일 이내에 신속하게 발생했습니다. RMC-7977과 FYN/Src 패밀리 키나아제(SFK) 억제제를 병용 치료했을 때 이러한 내성 반응이 차단되는 것을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "FYN and Other Src Family Kinases Antagonize Response to RAS Inhibition in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌장관선암에서 FYN 및 기타 Src 패밀리 키나아제의 RAS 억제 반응 길항 작용",
+ "trial": null,
+ "type": "paper"
+}

@@ -16,12 +16,45 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 221건 · 최근 30일 115건
+전체 223건 · 최근 30일 112건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="nct-nct07772258"></a>
+#### [췌장암 수술 환자를 위한 웨어러블 기기 기반 수술 전후 재활 치료 임상시험](https://clinicaltrials.gov/study/NCT07772258)
+<small>Wearable-Supported Prehabilitation and Rehabilitation for Patients Undergoing Surgery for Pancreatic Cancer</small>
+
+`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-08-19 · ClinicalTrials.gov · Manchester University NHS Foundation Trust · 중요도 0.71
+
+**NCT07772258** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07772258.md)
+
+췌장암 및 췌주위 암 수술 예정 환자를 대상으로 웨어러블 기기를 활용한 디지털 사전·사후 재활 프로그램의 효과를 평가하는 연구입니다. 연구 참여자는 수술 전후로 운동, 영양, 심리 지원 프로그램에 참여하고 착용형 생체 모니터링 기기를 사용하게 됩니다. 연구진은 이 프로그램을 이수한 환자군과 과거 표준 치료를 받은 환자군을 비교하여 수술 후 합병증 감소 및 회복 향상 효과를 확인하고자 합니다.
+
+- 췌장암 및 췌주위 질환으로 수술이 확정된 환자 60명을 대상으로 디지털 사전·사후 재활 프로그램을 적용합니다.
+- Corsano CardioWatch 착용형 기기와 원격 모니터링 장비를 통해 수술 전후 활동량 및 생체 신호를 연속 측정합니다.
+- 수술 후 30일 및 90일 이내의 합병증 발생률 감소 여부를 과거 표준 치료 대조군과 비교 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07772258) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07772258)</small>
+
+---
+<a id="doi-10.20944-preprints202611.2284.v1"></a>
+#### [췌장암의 영양 및 운동 중재: 기전, 임상적 근거 및 치료적 시사점](https://europepmc.org/article/PPR/PPR1375793)
+<small>Nutritional and Exercise Interventions in Pancreatic Cancer: Mechanisms, Clinical Evidence, and Therapeutic Implications</small>
+
+`프리프린트` `종설` `지지요법·삶의질` `치료 전반` · 2026-11-23 · Europe PMC (preprint) · Preprints.org · 중요도 0.65
+
+본 연구는 췌장암 환자에서 영양 및 운동 치료의 임상적 근거와 효과를 정리한 서술적 문헌고찰입니다. 췌장암 환자는 영양불량, 췌장 외분비 기능부전(PEI), 근감소증, 암 악액질을 흔히 겪어 치료 내약성이 저하됩니다. 조기 영양 평가, 췌장 효소 대체 요법(PERT), 신체 운동은 환자의 신체 기능과 치료 내약성을 개선하는 유용한 전략입니다. 영양과 운동, 심리적 지원을 결합한 다중모드 사전재활(prehabilitation)은 단일 중재보다 더 큰 이점을 제공할 수 있습니다.
+
+- 췌장 외분비 기능부전 환자에 대한 췌장 효소 대체 요법(PERT)과 맞춤형 영양 상담은 필수적인 지지요법입니다.
+- 오메가-3 보충제는 환자의 체중, 골격근량, 삶의 질 유지에 도움을 줄 수 있으나 생존율 향상 여부는 아직 불확실합니다.
+- 선행보조항암치료 및 전신 항암 치료 중 수행하는 운동은 우수한 안전성과 함께 신체 기능 및 치료 내약성을 높여줍니다.
+- 영양 최적화, 운동, 심리 지원을 통합한 다중모드 사전재활 접근법이 유망한 치료 전략으로 제시됩니다.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1375793) · [DOI](https://doi.org/10.20944/preprints202611.2284.v1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.20944/preprints202611.2284.v1)</small>
+
+---
 <a id="pmid-43072255"></a>
 #### [암 다학제 클리닉에서 자동화 데이터 추출 도구 도입 및 적용](https://pubmed.ncbi.nlm.nih.gov/43072255/)
 <small>Implementation of an Automated Data Abstraction Tool in a Cancer Multidisciplinary Clinic</small>
@@ -1740,91 +1773,5 @@ search:
 - 상세한 환자 데이터 및 연구 결과는 초록에 명시되지 않았습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42929513/) · [DOI](https://doi.org/10.20452/pamw.17431) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42929513)</small>
-
----
-<a id="nct-nct03362177"></a>
-#### [위장관암, 췌장암 또는 대장암 환자의 항암화학요법 유발 혈소판 감소증 치료를 위한 Romiplostim의 3상 임상연구](https://clinicaltrials.gov/study/NCT03362177)
-<small>Study of Romiplostim for Chemotherapy-induced Thrombocytopenia in Adult Subjects With Gastrointestinal, Pancreatic, or Colorectal Cancer</small>
-
-`임상시험` `3상` `신약·치료제` `지지요법·삶의질` `치료 전반` · 2017-12-05 · ClinicalTrials.gov · Amgen · 중요도 0.90
-
-**NCT03362177** · 3상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03362177.md)
-
-이 연구는 옥살리플라틴(oxaliplatin) 기반 항암화학요법을 받는 위장관암, 췌장암, 대장암 성인 환자를 대상으로 항암화학요법 유발 혈소판 감소증(CIT) 치료에서 romiplostim(로미플로스팀)의 효과와 안전성을 위약과 비교한 3상 임상시험입니다. 총 165명의 환자를 대상으로 진행되었으며 현재 연구는 완료(COMPLETED)되었습니다. 췌장암 환자의 경우 FOLFIRINOX 등 옥살리플라틴이 포함된 항암 치료 과정에서 발생한 혈소판 감소증 환자가 포함되었습니다.
-
-- 옥살리플라틴 기반 항암치료 중 혈소판 수치가 85 x 10^9/L 이하로 감소한 위장관, 췌장, 대장 선암 환자를 대상으로 진행된 3상 임상시험입니다.
-- romiplostim과 위약을 비교하여 항암화학요법 유발 혈소판 감소증 개선 효과를 평가했습니다.
-- 현재 임상시험 진행 상태는 완료(COMPLETED)로 등록되어 있습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT03362177) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03362177)</small>
-
----
-<a id="nct-nct07701486"></a>
-#### [새로 진단된 전이성 췌장암 환자에서 표준 항암화학요법과 병용한 VCN-01의 빈번한 투여 요법 연구](https://clinicaltrials.gov/study/NCT07701486)
-<small>A Study of More Frequent Dosing of VCN-01 Combined With Standard Chemotherapy in Patients With Newly Diagnosed Metastatic Pancreatic Cancer</small>
-
-`임상시험` `2상` `신약·치료제` `치료 전반` `지지요법·삶의질` · 2026-07-14 · ClinicalTrials.gov · Theriva Biologics SL · 중요도 0.90
-
-**NCT07701486** · 1상/2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07701486.md)
-
-이 임상시험은 새로 진단된 전이성 췌장암(metastatic pancreatic cancer) 환자를 대상으로 종양 용해성 아데노바이러스(oncolytic adenovirus)인 VCN-01과 표준 항암화학요법인 gemcitabine(젬시타빈) 및 nab-paclitaxel(나브-패클리탁셀) 병용 투여의 안전성과 내어성을 평가합니다. 환자들은 56일마다 한 번씩 총 3회의 VCN-01을 투여받으며, 각 투여 일주일 후 표준 항암화학요법 2주기를 받게 됩니다. 이 연구의 목표는 새로운 VCN-01 투여 요법의 안전성을 확인하고 체내 거동 및 잠재적 이점을 평가하는 것입니다. 연구의 목표 인원은 6명입니다.
-
-- 대상 질환은 새로 진단된 전이성 췌장암(stage IV, 췌관선암)이며 이전 치료를 받지 않은 환자입니다.
-- 중재 치료는 VCN-01 oncolytic adenovirus(자빌루겐 알마데노렙벡)와 gemcitabine 및 nab-paclitaxel의 병용입니다.
-- 목표 인원은 총 6명입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07701486) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07701486)</small>
-
----
-<a id="nct-nct07787156"></a>
-#### [유전성 췌장암 교육, 위험도 평가 및 검사 타당성 연구의 도달 및 참여(REGENERATE Feasibility Trial)](https://clinicaltrials.gov/study/NCT07787156)
-<small>Reach and Engagement of GENetic Education, Risk Assessment, and TEsting Feasibility Trial</small>
-
-`임상시험` `기타` `지지요법·삶의질` `진단·조기발견` `치료 전반` · 2026-08-26 · ClinicalTrials.gov · Brigham and Women's Hospital · 중요도 0.74
-
-**NCT07787156** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07787156.md)
-
-이 연구는 췌장암(PDAC) 위험이 높을 수 있는 사람들을 대상으로 유전자 검사 및 다암 조기 검출(MCED) 검사에 대한 원격 교육과 검사 접근성을 평가하는 임상시험입니다. 매사추세츠주에 거주하며 의료 접근성이 상대적으로 낮았던 흑인, 라틴계, 메디케이드 가입자 80명을 대상으로 합니다. 참가자들은 무작위로 온라인 교육 단독 군 또는 췌장암 행동 네트워크(PanCAN) 교육자의 전화 교육이 포함된 군으로 배정됩니다. 주요 목표는 이 접근 방식의 타당성, 수용성, 충실도를 확인하는 것입니다.
-
-- 목표 인원은 매사추세츠주에 거주하는 80명의 참가자입니다.
-- 참가자는 온라인 교육 단독 군 또는 PanCAN 전화 교육 군으로 무작위 배정됩니다.
-- 주요 평가 항목은 유전자 검사 및 다암 조기 검출(MCED) 검사의 타당성, 수용성, 충실도입니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07787156) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07787156)</small>
-
----
-<a id="nct-nct06958224"></a>
-#### [진행성 예후 불량 암 환자에서 조기 다중 유전자 시퀀싱을 이용한 테라노스틱 접근법](https://clinicaltrials.gov/study/NCT06958224)
-<small>Theranostic Approach by Early Multigene Sequencing in Advanced Poor Prognosis Cancers</small>
-
-`임상시험` `기타` `진단·조기발견` `치료 전반` `지지요법·삶의질` · 2025-05-06 · ClinicalTrials.gov · University Hospital, Lille · 중요도 0.67
-
-**NCT06958224** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06958224.md)
-
-이 연구는 췌장관선암(pancreatic ductal adenocarcinoma)을 포함한 예후가 불량한 진행성 암 환자를 대상으로 1차 치료 시점부터 조기 다중 유전자 시퀀싱(NGS)을 시행하는 것의 유용성을 평가하기 위한 임상시험입니다. 환자들은 진단 시점 또는 1차 치료 중에 등록되며, 1차 치료 시점부터 대규모 다중 유전자 시퀀싱을 시행하는 실험군과 2차 치료 이후 표준 프랑스 유전체 의학 계획에 따르는 대조군을 비교합니다. 주요 평가변수는 분자적 상태에 따라 실제로 시작된 치료 제안의 빈도입니다. 총 360명의 환자를 목표로 모집이 진행 중입니다.
-
-- 대상 질환은 췌장관선암, 간세포암, 삼중음성 유방암 등 예후가 불량한 진행성 암입니다.
-- 목표 연구 참여 인원은 총 360명입니다.
-- 1차 치료 시점부터 조기 다중 유전자 시퀀싱을 시행하는 접근법과 2차 치료 시점의 접근법을 비교합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT06958224) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06958224)</small>
-
----
-<a id="nct-nct04467593"></a>
-#### [진행성 암 환자를 위한 전신 온열 치료의 안전성 연구](https://clinicaltrials.gov/study/NCT04467593)
-<small>Safety Study of Whole Body Hyperthermia for Advanced Cancer</small>
-
-`임상시험` `기타` `치료 전반` `신약·치료제` `지지요법·삶의질` · 2020-07-13 · ClinicalTrials.gov · ElmediX · 중요도 0.61
-
-**NCT04467593** · 해당 없음 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT04467593.md)
-
-본 임상시험은 진행성 암 및 전이성 췌장암 환자를 대상으로 새로운 장비를 이용한 전신 온열 치료(Whole body hyperthermia)와 표준 치료(Standard of Care, SOC) 병행의 안전성을 평가하기 위해 진행되었습니다. 암 환자 치료를 위해 스폰서가 개발한 신규 장비를 사람에게 적용하여 안전성을 증명하고 첫 효능 데이터를 얻는 것이 목적입니다. 목표 인원은 16명이며 완료된 상태입니다. 초록에 세부 효능 및 생존기간 수치는 명시되지 않았습니다.
-
-- 대상 질환은 진행성 고형암 및 전이성 췌장암(Pancreatic Cancer Metastatic)입니다.
-- 중재 방법은 전신 온열 치료(Whole body hyperthermia)와 미국국립종합암네트워크(NCCN) 지침에 따른 표준 치료 화학요법입니다.
-- 목표 환자 수는 16명입니다.
-- 초록에 구체적인 치료 효과나 생존기간 수치는 명시되지 않았습니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT04467593) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT04467593)</small>
 
 ---

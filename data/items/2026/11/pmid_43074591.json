@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains among the most lethal malignancies, with a global 5-year survival rate of less than 10%. Metabolic reprogramming is a hallmark of cancer and provides tumor cells with multiple advantages, including metabolic plasticity and resistance to therapy. Together with the significant toxicity associated with current pharmacological treatments, these features highlight the need for new molecules with improved efficacy-toxicity profiles. In this study, mass spectrometry-based untargeted metabolomics and cheminformatics analyses were performed to profile early metabolic changes in wild-type and mutant KRAS pancreatic cancer cell models treated with the KRAS4B-PDE6δ complex stabilizers C14 and P8 and the indirect KRAS inhibitor deltarasin. All compounds were tested at their half-maximal inhibitory concentration (IC50) after one hour of treatment. Overall, compared with C14, deltarasin and P8 modulated the greatest number of metabolites across cell lines. Stratification of dysregulated metabolites by lipid, nitrogen, and carbohydrate metabolism revealed compound-specific and cell-line-dependent differences. More metabolites were dysregulated in cancerous cells than in noncancerous cells for all the compounds, with P8 preferentially affecting nitrogen metabolism and deltarasin lipid metabolism. Focused lipid enrichment analysis revealed that glycerophospholipid and cholesterol metabolism were primarily modulated by all compounds; notably, P8 additionally altered various peptide metabolites. Taken together, our findings suggest that the compounds C14, P8, and deltarasin might induce alterations in cell membranes, thus mediating their antineoplastic effects in PDAC.",
+ "authors": [
+  "Delfín-Azuara S",
+  "Ojeda-González J",
+  "Aguilar-Rojas A",
+  "Briseño-Díaz P",
+  "Hernández-Rivas R",
+  "Moreno-Ulloa A",
+  "Vargas M"
+ ],
+ "categories": [
+  "drug",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43074591",
+ "importance": 0.61,
+ "key_points_ko": [
+  "C14, P8, deltarasin(델타라신) 처리 후 정상 세포보다 췌장암 세포에서 더 많은 대사 물질이 변동했습니다.",
+  "P8은 주로 질소 대사를 조절한 반면, deltarasin은 지질 대사를 주로 변화시켰습니다.",
+  "세 화합물 모두 글리세로인지질 및 콜레스테롤 대사를 조절하여 세포막 변화를 통해 항암 효과를 나타냄을 시사합니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1111/febs.70796",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43074591"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "FEBS J",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43074591/"
+ },
+ "summary_ko": "본 연구는 췌장암 세포주 모델에서 KRAS4B-PDE6δ 복합체 안정화제인 C14, P8 및 간접 KRAS 억제제인 deltarasin(델타라신)이 초기에 미치는 대사 변화를 분석했습니다. 정상 세포보다 암세포에서 세 화합물 모두에 의해 더 많은 대사 물질 변동이 관찰되었습니다. 특히 P8은 질소 대사에, deltarasin은 지질 대사에 주로 영향을 미치는 차이를 보였습니다. 연구진은 이 화합물들이 세포막에 변화를 일으켜 항암 효과를 유도할 수 있음을 제시했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting the KRAS4B/PDE6δ complex reveals differential lipid metabolic responses in pancreatic cancer cells",
+ "title_ko": "KRAS4B/PDE6δ 복합체 표적 치료를 통한 췌장암 세포의 차별적 지질 대사 반응 규명",
+ "trial": null,
+ "type": "paper"
+}

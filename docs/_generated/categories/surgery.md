@@ -16,61 +16,102 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 373건 · 최근 30일 180건
+전체 376건 · 최근 30일 175건
 
 월별 보기: [2026-11](surgery/2026-11.md) · [2026-10](surgery/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07953153"></a>
-#### [췌장암 절제술 후 적기 보조 치료가 불가능했던 환자에서 지연된 보조 전신 화학요법과 표준 관찰 요법의 비교](https://clinicaltrials.gov/study/NCT07953153)
+#### [췌장암 절제술 후 적시 보조항암치료를 받지 못한 환자를 대상으로 한 지연 보조 전신치료 대 표준 치료(관찰)의 3상 임상시험](https://clinicaltrials.gov/study/NCT07953153)
 <small>Delayed Adjuvant Systemic Therapy Versus Standard of Care (Observation Without Adjuvant Therapy) in Patients Ineligible for Timely Adjuvant Therapy After Resection of Pancreatic Cancer</small>
 
 `임상시험` `3상` `치료 전반` `신약·치료제` `수술` · 2026-11-23 · ClinicalTrials.gov · Vastra Gotaland Region · 중요도 0.96
 
 **NCT07953153** · 3상 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07953153.md)
 
-췌장암 절제 수술 후 12주 이내에 보조 항암치료를 시작하지 못한 환자들을 대상으로, 수술 후 13~24주 사이에 지연된 보조 항암치료를 시작하는 치료법의 효과를 평가하는 3상 임상시험입니다. 수술 후 13~24주 사이 회복되어 재발이나 전이가 없는 환자를 무작위 배정하여 지연된 표준 항암화학요법 그룹과 단순 경과관찰 그룹으로 비교합니다. 모든 참가자는 5년 동안 6개월마다 CT 검사와 혈액 검사를 통해 경과를 추적 관찰받게 됩니다.
+본 연구는 췌장암 수술 후 12주 이내에 보조항암치료를 시작하지 못한 환자들을 대상으로 수술 후 13~24주 사이에 지연 보조항암치료를 시작하는 것의 효과를 평가하는 무작위 3상 임상시험입니다. 수술 후 13~24주 사이에 회복되어 재발 징후가 없는 환자들이 참여 대상입니다. 연구진은 지연 보조항암치료를 받는 그룹과 추가 항암치료를 받지 않는 표준 치료(관찰) 그룹을 비교합니다. 모든 환자는 5년 동안 6개월마다 CT 검사와 종양표지자 혈액 검사로 추적 관찰됩니다.
 
-- 수술 후 12주 이내 보조 항암치료를 받지 못하고 13~24주 사이에 회복된 췌장암 환자 128명을 대상으로 진행하는 3상 연구입니다.
-- 지연된 보조 항암화학요법 치료군과 치료 없이 경과관찰하는 대조군을 무작위 배정하여 생존 혜택을 비교합니다.
-- 수술 후 12주가 지난 시점에서의 지연된 항암치료가 생존율을 개선할 수 있는지 검증하고자 합니다.
+- 목표 환자 수는 총 128명입니다.
+- 수술 후 13~24주 사이에 지연 보조항암치료를 시작하는 그룹과 추가 항암치료가 없는 관찰 그룹을 비교합니다.
+- 모든 환자는 5년 동안 6개월마다 CT 검사와 혈액 검사로 추적 관찰됩니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07953153) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07953153)</small>
 
 ---
+<a id="nct-nct03601923"></a>
+#### [Niraparib in Patients With Pancreatic Cancer](https://clinicaltrials.gov/study/NCT03601923)
+`임상시험` `2상` `신약·치료제` `수술` · 2018-07-26 · ClinicalTrials.gov · Dana-Farber Cancer Institute · 중요도 0.87
+
+**NCT03601923** · 2상 · 완료 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT03601923.md)
+
+This research study is studying an investigational therapy as a possible treatment for pancreatic cancer. The drugs involved in this study are:
+
+-Niraparib
+
+This research study is a Phase II clinical trial.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT03601923) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT03601923)</small>
+
+---
 <a id="nct-nct07946380"></a>
-#### [췌장 췌관선암 환자를 위한 췌십이지장절제술 시 전체 췌장간막 절제술](https://clinicaltrials.gov/study/NCT07946380)
+#### [췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](https://clinicaltrials.gov/study/NCT07946380)
 <small>Mesopancreas Excision in Pancreaticoduodenectomy for Pancreatic Ductal Adenocarcinoma</small>
 
 `임상시험` `기타` `수술` `치료 전반` `진단·조기발견` · 2026-11-18 · ClinicalTrials.gov · Minia University · 중요도 0.84
 
 **NCT07946380** · 해당 없음 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07946380.md)
 
-이 임상시험은 수술 가능한 췌장 머리 부분의 췌장관막암(pancreatic ductal adenocarcinoma) 환자 110명을 대상으로 전체 췌장간막 절제술(total mesopancreas excision, TMpE)과 표준 췌십이지장절제술(pancreaticoduodenectomy)의 효과를 비교합니다. 수술 중 무작위 배정을 통해 두 수술법 중 하나를 시행하며, 절제면 음성률(R0 절제율)의 차이를 확인하는 것을 주요 목표로 합니다. 또한 합병증, 생존율, 재발률, 삶의 질 등을 2년 동안 추적 관찰합니다.
+이 연구는 췌장 머리 부분에 수술 가능한 췌관선암(pancreatic ductal adenocarcinoma)이 있는 성인 환자 110명을 대상으로 합니다. 표준 췌십이지장절제술(pancreaticoduodenectomy)과 상부 장간막 동맥 주변의 지방과 림프절을 통째로 제거하는 전중췌장절제술(total mesopancreas excision)의 수술 결과를 비교합니다. 주된 목표는 절제면에서 암세포가 발견되지 않는 완전절제율(R0 resection rate)이 향상되는지 확인하는 것입니다. 또한 합병증, 재발률, 생존율, 삶의 질 등을 2년 동안 추적 관찰합니다.
 
-- 목표 환자 수는 총 110명의 성인이며, 수술 가능(resectable)한 췌장두부암 환자를 대상으로 합니다.
-- 주요 연구 가설은 전체 췌장간막 절제술(TMpE)이 R0 절제율을 60%에서 85%로 향상시키는지 확인하는 것입니다.
-- 2년의 추적 관찰 기간 동안 R0 절제율, 합병증, 설사, 생존율, 재발 양상 및 삶의 질을 비교합니다.
+- 목표 환자 수는 총 110명이며, 수술 가능한 췌장 머리 암 환자들을 대상으로 합니다.
+- 전중췌장절제술은 완전절제율(R0)을 기존 60%에서 85%로 높이는 것을 가정하고 있습니다.
+- 수술 후 2년 동안 합병증, 설사, 회복, 림프절 채취 수, 암 재발, 생존율 및 삶의 질을 비교합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07946380) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07946380)</small>
 
 ---
+<a id="pmid-43077049"></a>
+#### [Beyond Socioeconomic Status: Rural Residence as a Driver of Diminished Neoadjuvant Response in Pancreatic Cancer](https://pubmed.ncbi.nlm.nih.gov/43077049/)
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-24 · PubMed · J Gastrointest Cancer · 중요도 0.77
+
+BACKGROUND: Pathologic response (PR) to neoadjuvant chemotherapy (NACT) in pancreatic ductal adenocarcinoma (PDAC) is prognostic, yet the influence of social determinants of health (SDoH) remains unclear. This study evaluated associations between SDoH and PR among patients undergoing curative-intent pancreatectomy for PDAC.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43077049/) · [DOI](https://doi.org/10.1007/s12029-026-01624-6) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43077049)</small>
+
+---
 <a id="nct-nct07952334"></a>
-#### [췌장암 치료 반응 예측 및 아형 분석을 위한 정량적 영상 바이오마커 식별 연구](https://clinicaltrials.gov/study/NCT07952334)
+#### [췌장암에서 표현형 분류 및 치료 반응 예측을 위한 정량적 영상 생체표지자 식별](https://clinicaltrials.gov/study/NCT07952334)
 <small>Identification of Biomarkers Using Quantitative Imaging for Phenotyping and Predicting Treatment Response in Pancreatic Cancer</small>
 
 `임상시험` `기타` `진단·조기발견` `치료 전반` `수술` · 2026-11-23 · ClinicalTrials.gov · Assistance Publique - Hôpitaux de Paris · 중요도 0.71
 
 **NCT07952334** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07952334.md)
 
-본 연구는 수술 가능 또는 경계성 절제 가능 췌장관선암(PDAC) 환자 150명을 대상으로 확산강조 MRI 및 MRI 탄성도 검사의 유용성을 평가합니다. 수술 전 선행보조요법 시행 전후의 정량적 영상 지표를 통해 췌장암 아형을 구분하고 치료 감수성을 예측하고자 합니다. 환자는 표준 정기 MRI 검사 시 조직검사 없이 암 특성을 평가하는 연구용 영상 시퀀스를 추가로 촬영하게 됩니다.
+이 연구는 췌관선암(PDAC) 환자를 대상으로 추가적인 자기공명영상(MRI) 기법을 이용하여 종양의 아형을 구분하고 선행치료에 대한 반응을 예측할 수 있는지 평가합니다. 확산강조 MRI와 MRI 탄성 시술법을 활용하여 종양의 구조적 및 기계적 특성을 측정합니다. 경계성 또는 즉시 절제 가능한 췌관선암 환자 150명을 목표로 합니다. 통상적인 MRI 검사에 연구 목적의 영상 시술을 추가하여 진행합니다.
 
-- 수술 가능 또는 경계성 절제 가능 췌장관선암 환자 150명을 대상으로 영상 바이오마커를 탐색하는 연구입니다.
-- 확산강조 MRI와 MRI 탄성도를 활용하여 조직검사 없이 췌장암 아형을 분류하고 선행보조요법 반응을 예측합니다.
-- 선행보조 항암 및 방사선 치료 과정에 따른 MRI 정량 매개변수의 변화를 정밀하게 평가합니다.
+- 목표 인원은 150명이며, 경계성 또는 즉시 절제 가능한 췌관선암 환자가 대상입니다.
+- 확산강조 MRI와 MRI 탄성 시술법을 추가하여 종양의 기계적·구조적 특성을 측정합니다.
+- 치료 전 MRI 측정값으로 선행치료에 대한 반응을 예측하고 종양 아형을 분류하는 것이 목표입니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07952334) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07952334)</small>
+
+---
+<a id="nct-nct07772258"></a>
+#### [췌장암 수술 환자를 위한 웨어러블 기기 기반 수술 전후 재활 치료 임상시험](https://clinicaltrials.gov/study/NCT07772258)
+<small>Wearable-Supported Prehabilitation and Rehabilitation for Patients Undergoing Surgery for Pancreatic Cancer</small>
+
+`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-08-19 · ClinicalTrials.gov · Manchester University NHS Foundation Trust · 중요도 0.71
+
+**NCT07772258** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07772258.md)
+
+췌장암 및 췌주위 암 수술 예정 환자를 대상으로 웨어러블 기기를 활용한 디지털 사전·사후 재활 프로그램의 효과를 평가하는 연구입니다. 연구 참여자는 수술 전후로 운동, 영양, 심리 지원 프로그램에 참여하고 착용형 생체 모니터링 기기를 사용하게 됩니다. 연구진은 이 프로그램을 이수한 환자군과 과거 표준 치료를 받은 환자군을 비교하여 수술 후 합병증 감소 및 회복 향상 효과를 확인하고자 합니다.
+
+- 췌장암 및 췌주위 질환으로 수술이 확정된 환자 60명을 대상으로 디지털 사전·사후 재활 프로그램을 적용합니다.
+- Corsano CardioWatch 착용형 기기와 원격 모니터링 장비를 통해 수술 전후 활동량 및 생체 신호를 연속 측정합니다.
+- 수술 후 30일 및 90일 이내의 합병증 발생률 감소 여부를 과거 표준 치료 대조군과 비교 평가합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07772258) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07772258)</small>
 
 ---
 <a id="pmid-43068592"></a>
@@ -2336,51 +2377,5 @@ search:
 - 기존 근거들에 따르면 이러한 광범위 박리술은 국소 재발률을 낮추는 경향을 보였으나, 장기 생존 결과를 확증하기 위한 추가 연구가 필요합니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957379/) · [DOI](https://doi.org/10.1111/ans.71039) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957379)</small>
-
----
-<a id="pmid-42961548"></a>
-#### [췌장 위장관기질종양: 증례 보고 및 수술적 절제 40례에 대한 서술적 문헌 고찰](https://pubmed.ncbi.nlm.nih.gov/42961548/)
-<small>Pancreatic gastrointestinal stromal tumor: a case report and narrative review of 40 surgically resected cases</small>
-
-`논문` `종설` `수술` `치료 전반` `기초연구` · 2026-10-30 · PubMed · Updates Surg · 중요도 0.72
-
-전체 췌장 종양의 1% 미만을 차지하는 극히 드문 췌장 위장관기질종양(PGIST) 환자의 수술 증례를 보고하고, 기존 문헌에서 수술 치료를 받은 총 40명의 임상 결과를 종합 분석했습니다. 분석 결과 환자들의 1년 및 2년 무질병 생존율(DFS)은 각각 88%와 78%였으며 전체 재발률은 20%로 나타났습니다. 종양의 해부학적 위치(두경부 대 체미부)는 재발에 독립적인 영향을 미치지 않았습니다. 췌장 위장관기질종양은 완전한 수술적 절제와 위험도에 따른 imatinib(이마티닙) 사용 시 통상적인 췌관선암보다 일반적인 GIST와 유사하게 양호한 치료 경과를 보였습니다.
-
-- 수술을 시행한 췌장 위장관기질종양 환자 40명의 1년 및 2년 무질병 생존율(DFS)은 각각 88%와 78%였습니다.
-- 전체 환자의 재발률은 20%였으며 종양의 위치는 재발에 독립적인 영향을 미치지 않았습니다(다변량 OR 2.8, p=0.36).
-- 췌장 위장관기질종양은 췌관선암과 달리 완전 절제 및 적절한 치료 시 통상적인 GIST에 준하는 양호한 예후를 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961548/) · [DOI](https://doi.org/10.1007/s13304-026-02899-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961548)</small>
-
----
-<a id="pmid-42961246"></a>
-#### [췌장 신경내분비종양: 수술적 절제 후 임상병리학적 분석 및 수술 후 생존율 - 3차 대학병원에서의 10년간 경험](https://pubmed.ncbi.nlm.nih.gov/42961246/)
-<small>PANCREATIC NEUROENDOCRINE TUMORS: CLINICOPATHOLOGICAL ANALYSIS AND POSTOPERATIVE SURVIVAL FOLLOWING SURGICAL RESECTION-A DECADE OF EXPERIENCE AT A TERTIARY UNIVERSITY HOSPITAL</small>
-
-`논문` `관찰연구` `수술` `치료 전반` `지지요법·삶의질` `신경내분비종양` · 2026-10-26 · PubMed · Arq Gastroenterol · 중요도 0.68
-
-이 연구는 2013년부터 2023년까지 췌장 신경내분비종양(PNET)으로 수술적 절제를 받은 환자 24명을 대상으로 한 후향적 코호트 연구입니다. 환자들의 임상병리학적 특징과 수술 후 결과를 분석했습니다. 연구 결과, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월이었으며, 1등급 종양이 2등급에 비해 더 긴 생존 경향을 보였습니다. 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 연관되었습니다. 저자들은 조직학적 등급이 PNET의 핵심 예후 인자라고 결론지었습니다.
-
-- 총 24명의 환자가 수술적 절제를 받았으며, 평균 전체 생존기간(overall survival)은 70.4 ± 58개월입니다.
-- 조직학적 분류는 2등급(grade 2)이 62.5%, 1등급(grade 1)이 33.3%, MiNEN이 4.2%였습니다.
-- 1등급 종양의 평균 생존기간은 98 ± 68.1개월, 2등급은 59.1 ± 49.5개월로 1등급에서 더 긴 생존 경향을 보였습니다(P=0.06).
-- 수술 후 사망률은 8.3%였으며 췌십이지장절제술(pancreaticoduodenectomy)과 관련이 있었습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42961246/) · [DOI](https://doi.org/10.1590/S0004-2803.24612025-089) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13721020/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42961246)</small>
-
----
-<a id="pmid-42957525"></a>
-#### [선행보조치료 후 췌장관선암 환자의 수술 결정 지침으로서 18F-FDG PET/CT 최대 표준화섭취치 4.0 임계값에 대한 국제 다기관 검증](https://pubmed.ncbi.nlm.nih.gov/42957525/)
-<small>International multicenter validation of an 18F-fluorodeoxyglucose positron emission tomography/computed tomography maximum standardized uptake value 4.0 threshold to guide surgical selection in pancreatic ductal adenocarcinoma following neoadjuvant therapy</small>
-
-`논문` `관찰연구` `진단·조기발견` `치료 전반` `수술` · 2026-08-03 · PubMed · Surgery · 중요도 0.65
-
-본 연구는 선행보조치료(neoadjuvant therapy)를 받은 절제 가능 또는 경계성 절제 가능 췌장관선암(PDAC) 환자 923명을 대상으로 수술 전 PET/CT의 최대 표준화섭취치(SUVmax) 기준을 검증했습니다. 수술 전 SUVmax가 4.0 이상인 환자는 생존기간이 유의하게 짧았습니다. 또한 SUVmax(4.0 이상)와 종양표지자 CA19-9(37 U/mL 초과)를 조합했을 때 수술 후 6개월 이내 조기 재발 위험을 효과적으로 예측할 수 있었습니다.
-
-- 선행보조치료 후 SUVmax가 4.0 이상인 환자는 검증 코호트에서 사망 위험이 1.53배(HR 1.53) 높았습니다.
-- SUVmax 4.0 이상 및 CA19-9 37 U/mL 초과 조건에 모두 해당하는 환자군은 6개월 이내 조기 재발률이 32%에 달했습니다.
-- 높은 SUVmax 수치는 절단면 관련 재발이 아닌 원격 전이 재발과 밀접한 연관을 보였습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42957525/) · [DOI](https://doi.org/10.1016/j.surg.2026.110503) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42957525)</small>
 
 ---

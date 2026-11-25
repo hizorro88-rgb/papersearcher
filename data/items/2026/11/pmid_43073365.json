@@ -1,0 +1,55 @@
+{
+ "abstract": null,
+ "authors": [
+  "Jain M",
+  "Brand RE"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43073365",
+ "importance": 0.62,
+ "key_points_ko": [
+  "조기 췌장암 진단을 목적으로 하는 다중 분석 혈액 검사에 관한 논문입니다.",
+  "구체적인 진단 정확도 및 환자 연구 수치는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1038/s41571-026-01235-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43073365"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Rev Clin Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073365/"
+ },
+ "summary_ko": "본 보고는 조기 췌장암 진단을 목표로 하는 다중 분석 혈액 검사에 대해 소개합니다. 상세한 혈액 검사 수치 및 진단 성과는 제공된 텍스트에 제시되지 않았습니다. 구체적인 연구 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A multi-analyte blood test takes aim at early pancreatic cancer",
+ "title_ko": "조기 췌장암 진단을 목표로 하는 다중 분석 혈액 검사",
+ "trial": null,
+ "type": "paper"
+}

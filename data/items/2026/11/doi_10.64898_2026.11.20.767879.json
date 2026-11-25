@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic cancer contains diverse cancer-cell states that complicate treatment selection. We asked whether targeted transcriptomics of glycan-defined PDAC cells would reveal novel and clinically informative subtypes. Spatial profiling of CA19-9-positive regions from 3 tumors with divergent clinical outcomes identified four transcriptional programs: inflammation and tissue remodeling (Cluster 1), proliferation (Cluster 2), antigen presentation and differentiation (Cluster 3), and protein synthesis (Cluster 4). These programs were recovered across 108 Visium sections from 39 patients, 161 patients from The Cancer Genome Atlas, and 37 cell lines with drug-response data. Among 31 tumors with broadly elevated program expression, eight Cluster 1 dominant tumors had poorer survival than the remaining 23. Exploratory drug-response analyses identified cluster-associated sensitivity and resistance patterns, including greater moexipril sensitivity with higher Cluster 1 activity. These findings demonstrate targeted profiling of glycan-defined PDAC populations to uncover cancer-cell-intrinsic therapeutic vulnerabilities, and they reveal CA19-9-associated molecular diversity with program-specific therapeutic candidates.",
+ "authors": [
+  "Goralski TM",
+  "Klamer ZM",
+  "Gao C",
+  "Fletcher A",
+  "Turner L",
+  "Avequin T",
+  "Becker K",
+  "Shi C"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.20.767879",
+ "importance": 0.52,
+ "key_points_ko": [
+  "CA19-9 양성 영역 공간 분석을 통해 염증·조직재형성, 증식, 항원제시·분화, 단백질합성의 4가지 전사 프로그램을 확인했습니다.",
+  "클러스터 1(염증 및 조직 재형성) 발현이 우세한 8개 종양 환자군은 나머지 23개 환자군에 비해 생존율이 더 낮았습니다.",
+  "클러스터 1 활성이 높을수록 moexipril(모에시프릴) 감수성이 높아지는 등 전사 프로그램에 따른 약물 감수성 특성을 발견했습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.64898/2026.11.20.767879",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1376894"
+ },
+ "summary_ko": "연구진은 CA19-9 양성 췌장암 세포의 공간 전사체(spatial transcriptomics) 분석을 통해 4가지 핵심 전사 프로그램을 발견했습니다. 이 프로그램들은 환자 조직 및 세포주 데이터베이스에서도 일관되게 관찰되었습니다. 염증 및 조직 재형성 관련 클러스터 1이 우세한 환자군은 예후가 나쁜 것으로 나타났습니다. 탐색적 약물 분석에서는 클러스터 1 활성이 높을수록 moexipril(모에시프릴)에 대한 감수성이 높아지는 등 개별 치료 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CA19-9-associated transcriptional programs in pancreatic ductal adenocarcinoma are linked to survival and drug sensitivity",
+ "title_ko": "췌장관선암에서 CA19-9 관련 전사 프로그램과 생존율 및 약물 감수성의 연관성",
+ "trial": null,
+ "type": "preprint"
+}

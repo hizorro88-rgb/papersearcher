@@ -1,0 +1,60 @@
+{
+ "abstract": "One major challenge in reeducating macrophages lies in the specific delivery of therapeutic agents to these cells. Here we report a multi-arm polymer conjugate of the toll-like receptor 7/8 agonist resiquimod and soy protein (mPDPC-RS) that simultaneously dismantles the immune and physical barriers within pancreatic tumors. Upon systemic administration, mPDPC-RS preferentially accumulates in tumor-associated macrophages in vivo, repolarizes them toward an antitumor phenotype, and thereby initiates robust immune responses. Concurrently, mPDPC-RS reduces interstitial fluid pressure and solid stress of the tumor as well as tumor stiffness, thereby facilitating CD8+ T cell infiltration. In murine pancreatic cancer models, this dual-function platform produces profound tumor suppression and markedly extends survival. Our findings provide a versatile platform with high macrophage avidity for cancer immunotherapy and establish a comprehensive strategy for overcoming both biological and mechanical defenses of the tumor microenvironment to improve immunotherapeutic outcomes in pancreatic cancer.",
+ "authors": [
+  "Yin C",
+  "Mamuti M",
+  "Zhu D",
+  "Li C",
+  "Jiang X"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43074610",
+ "importance": 0.6,
+ "key_points_ko": [
+  "mPDPC-RS는 종양 관련 대식세포(TAM)에 우선 축적되어 항종양 표현형으로 재교육합니다.",
+  "종양 내 간질액 압력과 강도를 감소시켜 CD8+ T 세포 침윤을 촉진합니다.",
+  "생쥐 췌장암 모델에서 현저한 종양 억제 및 생존 기간 연장 효과를 확인했습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1002/adma.75802",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43074610"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Mater",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43074610/"
+ },
+ "summary_ko": "췌장암의 면역 장벽과 물리적 장벽을 동시에 극복하기 위해 resiquimod(레시퀴모드) 기반 중합체 결합체(mPDPC-RS)를 개발한 전임상 연구입니다. mPDPC-RS는 종양 관련 대식세포(TAM)에 선택적으로 작용하여 항종양 특성으로 재교육합니다. 또한 종양 내부의 간질액 압력과 강도를 낮추어 CD8+ T 세포의 침윤을 촉진합니다. 생쥐 췌장암 모델에서 종양 성장을 크게 억제하고 생존 기간을 늘렸습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Coupling Macrophage Reeducation With Mechanical Remodeling of the Tumor Extracellular Matrix to Enhance Pancreatic Cancer Immunotherapy",
+ "title_ko": "대식세포 재교육과 종양 세포외 기질의 기계적 리모델링 결합을 통한 췌장암 면역치료 효과 향상",
+ "trial": null,
+ "type": "paper"
+}

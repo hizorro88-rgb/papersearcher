@@ -1,0 +1,61 @@
+{
+ "abstract": "<title>Abstract</title>  <p>Cancer-associated fibroblasts (CAFs) are major determinants of immune exclusion in pancreatic ductal adenocarcinoma (PDAC), yet the molecular programs through which distinct fibroblast states regulate T-cell accessibility remain poorly understood. Here, we identify prostaglandin D2 synthase (PTGDS) as a unique immune-regulatory program enriched in inflammatory CAFs (iCAFs) that correlates with elevated CD8⁺ T-cell infiltration and improved clinical outcomes in PDAC. Functionally, increasing PTGDS expression in CAFs elevated prostaglandin D2 (PGD2) production, promoted intratumoral CD8⁺ T-cell accumulation, and restrained pancreatic tumor growth. Exogenous PGD2 treatment recapitulated these effects and enhanced the antitumor activity of PD-1 blockade. Mechanistically, PGD2 signaled through its receptor DP2 to suppress NF-κB activation and CCL2 production in CAFs. In vivo, CCL2 restoration reversed both tumor growth restraint and the T-cell-permissive phenotype conferred by PTGDS-expressing CAFs. These findings establish CCL2 as a functional downstream mediator of the PTGDS–PGD2 pathway and define a stromal PTGDS–PGD2–DP2–NF-κB/CCL2 axis linking fibroblast lipid metabolism to immune accessibility in PDAC.</p>",
+ "authors": [
+  "Liu Y",
+  "Ma Y",
+  "Guo Y",
+  "Tan D",
+  "Luo H",
+  "Zhang W",
+  "Zhang C",
+  "Shi C."
+ ],
+ "categories": [
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11696670/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "염증성 암 연관 섬유아세포(iCAF)의 PTGDS 발현 증가는 CD8+ T세포 침투 및 췌장암 환자의 예후 개선과 연관되어 있습니다.",
+  "PGD2 투여는 종양 내 CD8+ T세포 축적을 유도하고 PD-1 억제제의 항암 활성을 강화했습니다.",
+  "PGD2-DP2 축은 NF-κB 활성화와 CCL2 생성을 억제하여 췌장암 성장을 억제합니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11696670/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1376096"
+ },
+ "summary_ko": "췌관선암(PDAC)의 염증성 암 연관 섬유아세포(iCAF)에 풍부한 프로스타글란딘 D2 합성효소(PTGDS)가 CD8+ T세포 침투를 촉진하고 종양 성장을 억제함을 밝혔습니다. PTGDS 발현 증가로 생성된 프로스타글란딘 D2(PGD2)는 종양 내 CD8+ T세포 축적을 높이고 PD-1 억제제(PD-1 blockade)의 항암 효과를 향상시켰습니다. 기전상 PGD2는 DP2 수용체를 통해 암 연관 섬유아세포(CAF) 내 NF-κB 활성과 CCL2 생성을 억제함으로써 면역세포 침투가 용이한 환경을 형성합니다. 본 연구는 췌장암 기질의 지질 대사와 면역 접근성을 연결하는 신규 신호전달 축을 규명했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Inflammatory CAF-derived PTGDS promotes T-cell infiltration and restrains pancreatic cancer through PGD2–DP2–NF-κB/CCL2 signaling",
+ "title_ko": "염증성 암 연관 섬유아세포 유래 PTGDS의 PGD2-DP2-NF-κB/CCL2 신호전달을 통한 T세포 침투 촉진 및 췌장암 억제 효과",
+ "trial": null,
+ "type": "preprint"
+}

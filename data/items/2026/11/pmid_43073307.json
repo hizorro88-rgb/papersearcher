@@ -1,0 +1,58 @@
+{
+ "abstract": "Dysregulated innate immune signalling is a central driver for upper gastrointestinal (GI) cancers. Inflammasomes, key mediators of this signalling response, can be activated by a range of pathogen- or host-associated agonists to release bioactive cytokines interleukin-1β (IL-1β) and interleukin-18 (IL-18). These inflammasome-associated cytokines exhibit complex and context-dependent roles across upper GI cancers, most notably gastric and pancreatic cancers. Herein, we discuss current insights into their divergent functions across disease stages, tissue types and cellular compartments. In gastric cancer, IL-1β promotes Helicobacter-induced gastric inflammation which often precedes tumourigenesis, while IL-18 has an opposing role in preventing inflammation-induced damage to the gastric mucosa. In contrast to this protective function in early-stage disease, IL-18 has a significant role in driving tumourigenesis in established gastric cancer in a cell-intrinsic, inflammation-independent manner. In pancreatic cancer, IL-1β broadly supports tumour progression, while IL-18 has an emerging association with tumour metabolism and epithelial oncogenic signalling while retaining immunostimulatory capacity. We further highlight challenges in accurately measuring bioactive cytokine forms and the implications for their development as clinical biomarkers and therapeutic targets. Collectively, the pleiotropic activities of IL-1β and IL-18 underscore the need for context-dependent strategies to effectively target inflammasome signalling in upper GI cancers.",
+ "authors": [
+  "Chey YCJ",
+  "Jenkins BJ",
+  "Dawson RE"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43073307",
+ "importance": 0.67,
+ "key_points_ko": [
+  "췌장암에서 IL-1β는 종양의 진행을 광범위하게 촉진하는 것으로 나타났습니다.",
+  "IL-18은 면역 자극 능력과 함께 췌장암 종양 대사 및 상피 세포 신호전달에 관여합니다.",
+  "염증조절복합체 관련 사이토카인을 바이오마커 및 치료 표적으로 활용하기 위한 연구 과제를 제시했습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1038/s42003-026-11416-0",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43073307"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Commun Biol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073307/"
+ },
+ "summary_ko": "본 논문은 위암 및 췌장암 등 상부 소화기 암에서 염증조절복합체(inflammasome)와 관련된 사이토카인인 인터루킨-1β(IL-1β) 및 인터루킨-18(IL-18)의 복합적인 역할을 정리한 고찰 연구입니다. 췌장암에서 IL-1β는 종양 진행을 전반적으로 촉진하며, IL-18은 면역 자극 능력을 유지하면서 종양 대사 및 상피 종양 유전자 신호전달과 관련되어 있습니다. 연구진은 생체 활성 사이토카인 측정의 어려움과 임상 바이오마커 및 치료 표적 개발의 시사점을 다루었습니다. 상부 소화기 암 치료를 위해서는 질환 단계와 세포 환경에 맞춘 표적 치료 전략이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The significance of inflammasome-associated cytokines IL-1β and IL-18 in gastric and pancreatic cancers",
+ "title_ko": "위암 및 췌장암에서 염증조절복합체 관련 사이토카인 IL-1β 및 IL-18의 의의",
+ "trial": null,
+ "type": "paper"
+}

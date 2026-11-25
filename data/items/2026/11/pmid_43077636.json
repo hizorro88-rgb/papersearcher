@@ -1,0 +1,58 @@
+{
+ "abstract": "INTRODUCTION: Autoimmune pancreatitis (AIP) is a chronic fibroinflammatory pancreatic disease classified as Type 1, Type 2, and not otherwise specified (AIP-NOS). Although chronic pancreatitis is associated with pancreatic ductal adenocarcinoma (PDAC), malignancy risk in AIP remains uncertain. We aimed to assess incidence of PDAC and extrapancreatic cancers in AIP and compare with population estimates.\nMETHODS: We conducted a comparative cohort study of adults diagnosed with AIP by International Consensus Diagnostic Criteria between 2000-2023, excluding patients with prior or concurrent PDAC. Cancer outcomes were analyzed using Cox proportional hazards models and incidence rates per 1000 person-years, adjusting for age, sex, and relapse. Expected cancer incidence was derived from the Surveillance, Epidemiology, and End Results (SEER) database and compared using Poisson regression to estimate risk ratios (RRs).\nRESULTS: Among 282 patients with AIP (199 Type 1, 64 Type 2, 19 AIP-NOS), patients with Type 1 AIP were older, predominantly male, had higher smoking rates, and more frequent relapses (all p<0.05). Cancer incidence was highest in Type 1 AIP (23.7 per 1000 person-years; 95% CI 16.4-33.1; p=0.045). Relapses did not increase cancer risk. Compared to age- and sex-adjusted SEER estimates, overall cancer risk in AIP was not increased (RR 1.30; 95% CI 0.95-1.78; p=0.10). However, PDAC risk was significantly higher (RR 3.67; 95% CI 1.18-11.38; p=0.024), primarily in Type 1 AIP (RR 4.24; 95% CI 1.37-13.13; p=0.012).\nDISCUSSION: Type 1 AIP was associated with the highest observed incidence of pancreatic and extrapancreatic malignancies in this cohort. Large-scale studies are needed to identify factors linked to PDAC risk in AIP.",
+ "authors": [
+  "Mills K",
+  "Samanta A",
+  "Lennon RJ",
+  "Chhoda A",
+  "Pradeep A",
+  "Waugh E",
+  "Delgado A",
+  "Koster MJ"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43077636",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.14309/ctg.0000000000001131",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43077636"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Transl Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43077636/"
+ },
+ "summary_ko": "INTRODUCTION: Autoimmune pancreatitis (AIP) is a chronic fibroinflammatory pancreatic disease classified as Type 1, Type 2, and not otherwise specified (AIP-NOS). Although chronic pancreatitis is associated with pancreatic ductal adenocarcinoma (PDAC), malignancy risk in AIP remains uncertain.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Risk of Cancer in Autoimmune Pancreatitis: A Comparative Cohort Analysis Using SEER Population-Based Data",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "<h4>Background: </h4> /Objectives: Pancreatic ductal adenocarcinoma (PDAC) is characterized by profound metabolic disturbances, including malnutrition, pancreatic exocrine insufficiency, sarcopenia, and cancer cachexia, which impair treatment tolerance and worsen outcomes. Growing evidence indicates that nutrition and physical exercise are biologically active interventions that modulate host metabolism, systemic inflammation, and functional reserve. This narrative review summarizes the current evidence on nutrition and exercise in pancreatic cancer and discusses their therapeutic implications. <h4>Methods:</h4> A narrative review of the literature on nutritional interventions, pancreatic enzyme replacement therapy, omega-3 supplementation, exercise oncology, and multimodal prehabilitation in PDAC was conducted, prioritizing clinical guidelines, systematic reviews, randomized controlled trials, and observational studies. <h4>Results:</h4> Current evidence consistently supports early nutritional assessment, pancreatic enzyme replacement therapy in patients with pancreatic exocrine insufficiency, and individualized nutritional counselling as essential components of supportive care. Omega-3-enriched supplementation may help preserve body weight, skeletal muscle mass, and quality of life, although survival benefits remain uncertain. Exercise, particularly during neoadjuvant and systemic treatment, improves physical function, treatment tolerance, and health-related quality of life, with an excellent safety profile. Emerging evidence suggests that multimodal prehabilitation combining exercise, nutritional optimization, and psychological support may provide greater benefit than single-component interventions. <h4>Conclusions:</h4> Nutrition and exercise should be considered integral components of multidisciplinary pancreatic cancer management rather than supportive measures alone. Although high-quality evidence of a survival benefit remains limited, these interventions consistently improve clinically meaningful outcomes, including nutritional status, functional capacity, treatment tolerance, and quality of life. Adequately powered randomized trials are needed to determine optimal timing, intensity, and patient selection, and whether these strategies improve long-term oncologic outcomes.",
+ "authors": [
+  "Montaño ME",
+  "Ramírez Daffós P",
+  "Rodríguez Pérez L",
+  "Ruiz J",
+  "Carrillo de Albornoz Soto R",
+  "Gallego Jiménez I",
+  "Medina Rodríguez L",
+  "Maciá Escalante S"
+ ],
+ "categories": [
+  "supportive",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.20944/preprints202611.2284.v1",
+ "importance": 0.65,
+ "key_points_ko": [
+  "췌장 외분비 기능부전 환자에 대한 췌장 효소 대체 요법(PERT)과 맞춤형 영양 상담은 필수적인 지지요법입니다.",
+  "오메가-3 보충제는 환자의 체중, 골격근량, 삶의 질 유지에 도움을 줄 수 있으나 생존율 향상 여부는 아직 불확실합니다.",
+  "선행보조항암치료 및 전신 항암 치료 중 수행하는 운동은 우수한 안전성과 함께 신체 기능 및 치료 내약성을 높여줍니다.",
+  "영양 최적화, 운동, 심리 지원을 통합한 다중모드 사전재활 접근법이 유망한 치료 전략으로 제시됩니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.20944/preprints202611.2284.v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Preprints.org",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1375793"
+ },
+ "summary_ko": "본 연구는 췌장암 환자에서 영양 및 운동 치료의 임상적 근거와 효과를 정리한 서술적 문헌고찰입니다. 췌장암 환자는 영양불량, 췌장 외분비 기능부전(PEI), 근감소증, 암 악액질을 흔히 겪어 치료 내약성이 저하됩니다. 조기 영양 평가, 췌장 효소 대체 요법(PERT), 신체 운동은 환자의 신체 기능과 치료 내약성을 개선하는 유용한 전략입니다. 영양과 운동, 심리적 지원을 결합한 다중모드 사전재활(prehabilitation)은 단일 중재보다 더 큰 이점을 제공할 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Nutritional and Exercise Interventions in Pancreatic Cancer: Mechanisms, Clinical Evidence, and Therapeutic Implications",
+ "title_ko": "췌장암의 영양 및 운동 중재: 기전, 임상적 근거 및 치료적 시사점",
+ "trial": null,
+ "type": "preprint"
+}

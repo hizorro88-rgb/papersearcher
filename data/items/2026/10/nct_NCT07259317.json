@@ -20,13 +20,14 @@
   }
  ],
  "id": "nct:NCT07259317",
- "importance": 0.85,
+ "importance": 0.9,
  "key_points_ko": [
-  "목표 인원은 총 80명이며, 현재 환자를 모집 중인 2단계 임상시험입니다.",
-  "대상 환자는 이전에 전이성 췌장암에 대한 전신 항암 화학요법을 받지 않은 이력이 있어야 합니다.",
-  "중재 약물은 relacorilant, nab-paclitaxel, gemcitabine 병용입니다."
+  "대상 질환은 전이성 췌장관선암(PDAC)입니다.",
+  "중재 약물은 relacorilant, nab-paclitaxel, gemcitabine입니다.",
+  "목표 환자 수는 총 80명이며, 제2상 임상시험 단계입니다.",
+  "초록에 명시되지 않음: 생존기간, 반응률, 위험비 등 유효성 결과는 초록에 명시되지 않음"
  ],
- "last_updated": "2026-10-06",
+ "last_updated": "2026-11-25",
  "links": {
   "doi": null,
   "nct": [
@@ -49,7 +50,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07259317"
  },
- "summary_ko": "이 연구는 이전에 항암 치료를 받은 적이 없는 전이성 췌장관선암(PDAC) 환자를 대상으로 relacorilant와 nab-paclitaxel(나브파클리탁셀), gemcitabine(젬시타빈) 병용 요법의 안전성, 내뢰성, 약동학 및 유효성을 평가하는 2단계 임상시험입니다. 1단계에서는 용량 탐색을 통해 최적의 투여 용량과 일정을 결정합니다. 2단계에서는 결정된 최적 용량으로 확장 코호트를 진행합니다. 총 목표 환자 수는 80명입니다.",
+ "summary_ko": "이 연구는 이전 치료를 받지 않은 전이성 췌장관선암(PDAC) 환자를 대상으로 relacorilant, nab-paclitaxel(납파클리탁셀), gemcitabine(젬시타빈) 병용요법의 안전성, 내인성, 용량, 약동학(PK) 및 유효성을 평가하는 2부로 구성된 제2상 임상시험입니다. 1부(용량 탐색)에서는 약 6명의 환자를 대상으로 최적의 용량과 일정을 찾고, 2부(확대)에서는 선정된 최적 용량으로 치료를 진행합니다. 목표 환자 수는 80명이며 현재 환자를 모집 중입니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreatic",
@@ -58,7 +59,7 @@
   "Pancreas"
  ],
  "title": "Relacorilant With Nab-Paclitaxel and Gemcitabine in Patients With Metastatic Pancreatic Adenocarcinoma",
- "title_ko": "전이성 췌장관선암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용 투여 임상시험",
+ "title_ko": "전이성 췌장관선암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용요법 임상시험",
  "trial": {
   "conditions": [
    "Adenocarcinoma",
@@ -71,7 +72,7 @@
     "phone": "(714) 721-1505"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 선별 절차 전에 서면 동의서를 작성함\n- 췌장관선암(PDAC)의 조직학적 또는 세포학적 진단\n- 등록 전 9주 이내에 전이성 질환을 최초 진단받음\n- 기대 여명이 3개월 이상\n- RECIST v1.1 기준에 따라 영상 검사에서 측정 가능한 1개 이상의 원격 전이 병변이 확인됨\n- 동유럽종양학협력그룹(ECOG) 수행능력 상태 0 또는 1\n- 전이성 췌장암 치료를 위한 이전 전신 항암 화학요법 경력이 없음 (단일제제 RAS 억제제 치료는 허용됨)\n\n제외 기준:\n- 등록 전 4주 이내에 주요 수술을 받은 이력\n- 전이성 질환 치료를 위한 방사선 치료, 수술, 항암화학요법, 면역요법, 임상시험 치료 이력\n- 췌장암 치료로 gemcitabine 또는 nab-paclitaxel을 투여받은 이력\n- 알려진 생식세포 또는 체세포 유방암 유전자(BRCA) 변이\n- 모든 원인에 의한 말초신경병증 1등급 초과\n- 코르티코스테로이드의 지속적 또는 빈번한 투여가 필요한 의학적 상태\n- HIV, C형 간염 또는 B형 간염 바이러스의 활동성 감염",
+  "eligibility_ko": "선정 기준:\n- 선별 절차 전에 서명 및 날짜가 기입된 사전 동의서 제출\n- 췌장관선암(PDAC)의 조직학적 또는 세포학적 진단\n- 연구 등록 전 9주 이내에 전이성 질환 최초 진단\n- 기대여명 3개월 이상\n- RECIST 버전 1.1 기준에 따라 방영학적으로 확인된 최소 1개의 원격 종양 전이 병변이 측정 가능함\n- 동유럽종양학협회(ECOG) 수행능력 상태 0 또는 1\n- 전이성 PDAC에 대한 이전 전신 항암 화학요법을 받지 않음 (단일 제제 RAS 억제제 치료는 허용됨)\n\n제외 기준:\n- 등록 전 4주 이내의 주요 수술\n- 전이성 질환 치료를 위한 방사선 치료, 수술, 화학요법, 면역요법, 임상시험 치료 이력\n- PDAC 치료를 위해 gemcitabine 또는 nab-paclitaxel을 투여받은 이력\n- 알려진 생식세포 또는 체세포 유방암 유전자(BRCA) 돌연변이\n- 1등급을 초과하는 말초신경병증\n- HIV, C형 간염 또는 B형 간염 바이러스의 활동성 감염\n- 3년 이내의 다른 악성 종양 병력",
   "eligibility_text": "Inclusion Criteria:\n\n* Signed and dated informed consent form prior to screening procedures\n* Histologic diagnosis or cytologic diagnosis of pancreatic adenocarcinoma (PDAC)\n* Initial diagnosis of metastatic disease occurred ≤9 weeks prior to enrollment in the study\n* Life expectancy of ≥3 months\n* Radiographic confirmation of metastatic disease with at least 1 distant tumor metastasis measurable on radiology imaging per RECIST version 1.1 criteria\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Able to provide informed consent and comply with protocol requirements\n* Able to swallow and retain oral medication and does not have uncontrolled emesis\n* Has adequate gastrointestinal absorption\n* Received no prior systemic anticancer chemotherapy to treat metastatic PDAC. Treatment of PDAC with a single agent RAS inhibitor is permitted.\n* If a patient received prior treatment of PDAC with chemotherapy, disease progression must have occurred \\>12 months after completing the last dose, and no persistent treatment-related toxicities can be present.\n* Adequate organ function\n* Negative pregnancy test for patients of childbearing potential\n* Agree to use protocol defined precautions to avoid pregnancy\n\nExclusion Criteria:\n\n* Any major surgery within 4 weeks prior to enrollment\n* Prior treatment as follows:\n\n  1. Radiotherapy, surgery, chemotherapy, immunotherapy, investigational therapy for the treatment of metastatic disease\n  2. Systemic, inhaled, or prescription strength topical corticosteroids within 5 times the half-life of the corticosteroid used prior to first dose of study drug\n* Received gemcitabine or nab-paclitaxel to treat their PDAC\n* Known germline or somatic breast cancer gene (BRCA) mutation\n* Peripheral neuropathy from any cause \\>Grade 1\n* Medical conditions requiring chronic or frequent treatment with corticosteroids\n* History of severe hypersensitivity or severe reaction to any of study drugs or their excipients\n* Concurrent treatment with mifepristone or other glucocorticoid receptor modulators.\n* Uncontrolled condition(s) which, may confound the results of the trial or interfere with the patient's safety or participation\n* Active infection with HIV, hepatitis C or hepatitis B virus\n* Known untreated parenchymal brain metastasis or uncontrolled central nervous system metastases\n* History of other malignancy within 3 years prior to enrollment\n* Taking protocol-prohibited medications\n* Concurrent treatment with other investigational treatment studies for cancer\n* Has received a live vaccine within 30 days prior to the study start date",
   "enrollment": 80,
   "has_results": false,
@@ -80,7 +81,7 @@
    "Nab-paclitaxel",
    "Gemcitabine"
   ],
-  "last_update_posted": "2026-09-25",
+  "last_update_posted": "2026-11-24",
   "location_countries": [
    "United States"
   ],
@@ -92,19 +93,18 @@
    "biomarkers_required": [],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "이전에 gemcitabine 또는 nab-paclitaxel 치료 이력이 있는 경우",
-    "BRCA 유전자 변이가 있는 경우",
-    "활동성 감염(HIV, B형/C형 간염)이 있는 경우",
-    "1등급을 초과하는 말초신경병증이 있는 경우"
+    "1등급을 초과하는 말초신경병증",
+    "활동성 HIV, C형 간염 또는 B형 간염 감염",
+    "3년 이내 다른 암 병력",
+    "알려진 BRCA 돌연변이"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료를 받지 않은 전이성 췌장관선암 환자를 위한 임상시험입니다.",
+   "notes_ko": "이전 전신 항암 치료를 받지 않은 전이성 췌장관선암 환자를 위한 시험입니다.",
    "prior_excluded": [
     "gemcitabine",
-    "taxane",
-    "radiotherapy"
+    "taxane"
    ],
    "prior_required": [],
    "setting": [
@@ -114,7 +114,7 @@
   },
   "max_age": null,
   "min_age": "18 Years",
-  "n_locations": 20,
+  "n_locations": 22,
   "nct_id": "NCT07259317",
   "phase": "PHASE2",
   "primary_completion_date": "2027-09",

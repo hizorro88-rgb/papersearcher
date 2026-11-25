@@ -1,0 +1,62 @@
+{
+ "abstract": "Clinical outcomes for pancreatic ductal adenocarcinoma (PDAC) remain dismal, with a 5-year survival rate of only 13%. Approximately 90% of PDAC harbor oncogenic KRAS mutations, and investigational (K)RAS inhibitors have demonstrated clinical promise. However, adaptive resistance limits overall response and durability, highlighting the need for deeper mechanistic insights and improved therapeutic strategies. Using temporal phosphoproteomic profiling, we identified Src family kinases (SFK) as a consistent and robustly upregulated signaling node following treatment with clinically-relevant (K)RAS inhibitors across KRAS-mutant cell-based and patient-derived PDAC models. Importantly, pharmacological inhibition of SFK markedly enhanced the in vitro and in vivo efficacy of (K)RAS inhibitors in models refractory to (K)RAS-targeted therapy. SFK inhibition led to suppression of the YAP signaling axis, providing a potential mechanism for the observed therapeutic cooperativity. Collectively, these findings implicate SFK as an important driver of adaptive resistance to (K)RAS inhibition and support co-targeting SFK and KRAS as a promising therapeutic strategy.",
+ "authors": [
+  "Lin Q",
+  "Song B",
+  "Sander C",
+  "Lei-Dadey C",
+  "Morales-Giron AA",
+  "Kushner EW",
+  "Kim DH",
+  "Matsubara H"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43076663",
+ "importance": 0.61,
+ "key_points_ko": [
+  "췌관선암은 5년 생존율이 13%에 불과하며 환자의 약 90%가 KRAS 유전자 변이를 보유하고 있습니다.",
+  "(K)RAS 억제제 치료 후 적응성 내성을 유발하는 핵심 요인으로 Src 가족 키나아제(SFK)의 신호 활성화를 규명했습니다.",
+  "SFK 억제는 야프(YAP) 신호전달축을 억제하여 세포 및 체내(in vivo) 모델에서 (K)RAS 억제제의 효과를 크게 높였습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1158/0008-5472.CAN-26-0777",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43076663"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43076663/"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자의 약 90%는 KRAS 유전자 변이를 가지고 있으나, (K)RAS 억제제 치료 후 발생하는 적응성 내성이 약물 반응 및 지속성을 제한합니다. 연구진은 시간 경과별 인산화 단백질체 프로파일링을 통해 (K)RAS 억제제 투여 후 Src 가족 키나아제(SFK) 신호 전달 노드가 크게 증가함을 확인했습니다. SFK 억제제를 병용 투여했을 때 세포 및 동물 모델에서 (K)RAS 억제제의 치료 효과가 현저히 향상되었습니다. 본 연구는 KRAS와 SFK를 함께 표적하는 치료 전략의 가능성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Temporal Phosphoproteomic Analysis Identifies Src Family Kinases as Key Mediators of Adaptive Resistance to KRAS Inhibition in Pancreatic Cancer",
+ "title_ko": "시간 경과별 인산화 단백질체 분석을 통한 췌장암 내 KRAS 억제제 적응성 내성의 핵심 매개체로서의 Src 가족 키나아제 규명",
+ "trial": null,
+ "type": "paper"
+}

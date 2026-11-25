@@ -3,8 +3,8 @@
  "authors": [],
  "categories": [
   "trial",
-  "drug",
   "treatment",
+  "drug",
   "diagnosis"
  ],
  "entities": [
@@ -22,11 +22,11 @@
  "id": "nct:NCT07952802",
  "importance": 0.96,
  "key_points_ko": [
-  "이전 항암치료 경험이 없는 수술 불가 3기 및 4기 췌장암 환자를 대상으로 합니다.",
-  "젬시타빈과 나브-파클리탁셀 항암제에 EHY-2030 기기를 이용한 온열치료를 병용합니다.",
-  "현재 등록 상태는 철회(WITHDRAWN)되어 진행되지 않고 있습니다."
+  "대상 환자: 수술이 불가능하거나 올리고전이가 있는 1차 치료 단계의 췌장선암 환자입니다.",
+  "중재 치료: 젬시타빈 및 nab-paclitaxel 항암화학요법과 국소 영역 mEHT(EHY-2030 기기 사용)의 병용입니다.",
+  "상태: 초록에 명시된 바와 같이 해당 임상시험은 철회되었습니다."
  ],
- "last_updated": "2026-11-24",
+ "last_updated": "2026-11-25",
  "links": {
   "doi": null,
   "nct": [
@@ -49,14 +49,14 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT07952802"
  },
- "summary_ko": "수술이 불가능하거나 간 전이 등이 있는 3기 및 4기 췌장암 환자를 대상으로 진행되는 임상시험입니다. 1차 치료로서 젬시타빈(gemcitabine)과 나브-파클리탁셀(nab-paclitaxel) 항암화학요법 단독 투여와 조절형 고주파 온열치료(mEHT)를 병용하는 치료법의 효과를 비교합니다. 환자들은 4주 주기 항암 치료와 함께 지정된 일정에 맞춰 고주파 온열치료를 받게 됩니다. 현재 해당 임상시험은 철회(WITHDRAWN) 상태로 등록되어 있습니다.",
+ "summary_ko": "이 임상시험은 수술이 불가능하거나 올리고전이(oligometastatic)가 있는 1차 췌장선암 환자를 대상으로 젬시타빈(gemcitabine) 및 nab-paclitaxel(냅-파클리탁셀) 병용 치료에 변조된 전자온열요법(modulated electro-hyperthermia, mEHT)을 추가하는 치료의 효과를 평가하고자 했습니다. 연구는 단일 기관에서 1:1 무작위 배정 공개 방식으로 진행될 예정이었습니다. 현재 이 임상시험은 철회(withdrawn)되었습니다.",
  "summary_source": "llm",
  "tags": [
   "Pancreas Neoplasm",
   "Modulated electro-hyperthermia"
  ],
  "title": "Modulated Electro-hyperthermia With Gemcitabine and Nab-paclitaxel for Pancreatic Cancer",
- "title_ko": "수술 불가능 및 소수전이성 췌장암 환자 대상 젬시타빈+나브-파클리탁셀과 조절형 고주파 온열치료(mEHT) 병용 요법 임상시험",
+ "title_ko": "젬시타빈 및 냅-파클리탁셀과 변조된 전자온열요법을 병행하는 췌장암 임상시험",
  "trial": {
   "conditions": [
    "Pancreatic Cancer Metastatic to Liver",
@@ -65,7 +65,7 @@
    "Stage IV Pancreatic Cancer AJCC v8"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 예상 수명이 6개월 이상인 환자\n- 조직학적 또는 세포학적으로 진단된 수술 불가능한 3기 또는 4기 췌장암 환자\n- 이전에 암 치료를 받은 적이 없는(treatment-naive) 1차 치료 대상자\n- ECOG 수행능력 평가 점수 0~2점\n- 젬시타빈 및 나브-파클리탁셀 항암화학요법 투여가 적합한 환자\n\n제외 기준:\n- 다량의 복수가 있는 환자\n- 이전에 항암 치료를 받은 이력이 있는 환자\n- 최근 5년 이내 치료가 필요했던 다른 암 병력이 있는 경우(자궁경부 상피내암, 비멜라닌종 피부암 제외)\n- 중증 신경병증 또는 당뇨병성 신경병증이 있는 환자\n- 조절되지 않는 심혈관 질환, 심부전(NYHA II 이상), 최근 6개월 이내 주요 심혈관 사건 병력\n- 심장 박동기 등 치료 부위에 활동성 이식형 의료기기가 있는 환자\n- 활동성 감염, 간염(B형/C형), HIV 감염, 조절되지 않는 갑상선 질환 또는 자가면역 질환",
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상\n- 예상 여명 6개월 이상\n- 신규 진단된 췌장암(조직학적/세포학적)\n- 전신 치료가 필요한 진행성 병기(III기 및 IV기)\n- ECOG 수행능력 0~2\n- gemcitabine + nab-paclitaxel 치료에 적합한 환자\n- 임상시험 참여 동의서 서면 작성\n\n제외 기준:\n- 만 18세 이하\n- 대량의 복수(major ascites) 동반\n- 이미 항암 치료를 받은 적이 있는 환자\n- 5년 이내 다른 암 병력(치료 완료된 자궁경부 상피내암, 비흑색종 피부암 제외)\n- 심각한 신경병증 또는 간·신장·혈액 기능 이상\n- 조절되지 않는 심혈관 질환 또는 6개월 이내 주요 심혈관 사건 병력\n- 활동성 감염 또는 조절되지 않는 중증 동반 질환\n- 치료 부위에 이식된 활성 의료기기(심박동기 등) 존재",
   "eligibility_text": "Inclusion Criteria:\n\n1. At least 18 years of age\n2. Life expectancy ≥ 6 months\n3. De novo histological/cytological diagnosis of pancreatic cancer\n4. Advanced stage disease (stage III and IV) requiring systemic treatment - according to the following criteria:\n5. ECOG status: 0-2\n6. Suitable for and designated by the investigator for chemotherapy with gemcintabine + nab-paclitaxel\n7. Willingness to participate in the trial and signed the informed consent form for the protocol\n\nExclusion Criteria:\n\n1. Patient is ≤ 18 years of age.\n2. Presence of major ascites\n3. Has already received some anticancer therapy\n4. Any previous cancer requiring anti-tumor treatment within 5 years prior to selection, except: in situ cervical or uterine cancer and non-melanoma skin cancer.\n5. Co-existing serious diseases:\n\n   1. Presence of severe neuropathy requiring medical treatment, diabetic neuropathy.\n   2. Clinically significant hematological, hepatic or renal dysfunction, as defined below:\n\n      * Neutrophil count \\< 1.5 G/L and platelet count \\< 100 G/L\n      * bilirubin \\> 1.5 times the upper limit of normal range (ULN), except for known Gilbert's disease\n      * AST and/or ALT \\> 2.5 times the upper limit of the normal range\n      * Serum creatinine \\> 1.5 times the upper limit of the normal range.\n   3. Clinically significant cardiovascular disease in the medical history, unless the disease is adequately controlled. E.g. New York Heart Association (NYHA) Class II or worse congestive heart failure (moderate limitation of physical activity; well-being at rest but normal activity is associated with fatigue, rapid heart rate or dyspnoea).\n   4. Uncontrolled hypertension with resting systolic ≥ 180 mmHg, resting diastolic ≥ 110 mmHg.\n   5. Resting sinus tachycardia with a pulse ≥ 110/min.\n   6. History of sympathetic or treatment-naive cardiac arrhythmia. Atrial fibrillation or flutter controlled with medication is not an exclusion for participation in the study.\n   7. Major cardiovascular event (e.g. myocardial infarction, unstable angina, cerebral vascular accident (CVA), etc.) in the 6 months prior to randomisation.\n   8. Active infection or severe underlying disease that renders the patient unfit for treatment according to the study protocol.\n\n      * A current diagnosis of chronic hepatitis, Hepatitis B surface antigen positive, Hepatitis C antibody positive and/or other clinically active liver disease requiring treatment.\n      * Known HIV infection.\n      * Untreated thyroid disease.\n      * Systemic autoimmune disease.\n   9. Any psychiatric condition in the medical history that may result in the patient being unable to understand or comply with the requirements of the study, having reduced communication skills or being unable to give informed consent.\n6. Any active medical device implanted in the anatomical area, such as pacemakers.\n7. Known severe hypersensitivity to any of the chemotherapies used in the study.\n8. Pregnancy or breast-feeding (patients of childbearing potential must use effective contraception throughout the study and for 3 months after the end of treatment). The method of effective contraception is at the discretion of the investigator.\n9. History of drug or alcohol dependence within 6 months prior to screening.\n10. Unable to comply with the study plan for medical, psychological, family, geographical or other reasons.\n11. Institutionalisation by administrative or judicial decision.",
   "enrollment": 0,
   "has_results": false,
@@ -81,27 +81,16 @@
    "biomarkers_required": [],
    "ecog_max": 2,
    "key_exclusions_ko": [
-    "이전 항암치료 병력 보유",
-    "다량의 복수 동반",
-    "조절되지 않는 심혈관 질환 또는 심장 박동기 이식 환자",
-    "활동성 감염 또는 만성 간염 병력",
-    "최근 5년 이내 다른 암 치료 병력"
+    "이미 항암 치료를 받은 경우",
+    "5년 이내 다른 암 병력이 있는 경우",
+    "치료 부위에 심박동기 등 활성 의료기기가 있는 경우",
+    "조절되지 않는 심혈관 질환이나 감염이 있는 경우"
    ],
    "max_prior_lines": 0,
    "measurable_required": null,
    "min_prior_lines": 0,
-   "notes_ko": "이전 항암치료 경험이 없는 수술 불가 국소진행성 또는 전이성 췌장암 환자",
-   "prior_excluded": [
-    "gemcitabine",
-    "FOLFIRINOX",
-    "platinum",
-    "fluoropyrimidine",
-    "irinotecan",
-    "taxane",
-    "immunotherapy",
-    "KRAS_inhibitor",
-    "radiotherapy"
-   ],
+   "notes_ko": "이전 치료를 받지 않은 수술 불가능 또는 국소진행/전이성 췌장암 환자",
+   "prior_excluded": [],
    "prior_required": [],
    "setting": [
     "metastatic",

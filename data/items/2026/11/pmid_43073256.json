@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal malignancy, with activating KRAS mutations present in approximately 90% of tumors. Nearly a quarter-century separated the discovery of Harvey murine sarcoma virus in 1964 from recognition of frequent KRAS mutations in pancreatic cancer in 1988. Decades of unsuccessful therapeutic development followed, reflecting the biochemical challenges of direct inhibition and the limitations of indirect pathway blockade. Structural and mechanistic advances subsequently enabled inhibitors that trap KRAS G12C in its inactive state, establishing clinical proof of druggability but benefiting only a small subset of PDAC. The development of active-state RAS(ON) inhibitors broadened therapeutic coverage, with approximately three years separating the published demonstration of cyclophilin A-mediated ternary-complex inhibition from phase III validation. However, resistance to RAS(ON) inhibitors remains a challenge. This review traces the historical and molecular foundations of KRAS targeting, examines unsuccessful approaches, and evaluates the transition to clinically effective RAS inhibition. It also discusses resistance through KRAS amplification, pathway reactivation, and alternative survival programs, and considers how these mechanisms inform future treatment. Emerging strategies include earlier intervention, complementary RAS inhibitors, targeted KRAS degradation, combinations exploiting methylthioadenosine phosphorylase loss through protein arginine methyltransferase 5 inhibition, and KRAS-directed immunotherapies. Although many approaches remain investigational, the accelerating pace of translation provides opportunities to improve disease control. Biomarker-guided treatment and randomized evaluation will be essential to convert these advances into durable survival while preserving quality of life.",
+ "authors": [
+  "Wong WZ",
+  "Yu HY",
+  "Hsu SJ",
+  "Huang HC",
+  "Li CP"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43073256",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌장관선암 종양의 약 90%에서 활성화 KRAS 변이가 관찰됩니다.",
+  "KRAS G12C 억제제는 임상적 가능성을 입증했으나 췌장암 환자 중 매우 소수에게만 적용 가능했습니다.",
+  "활성 상태인 RAS(ON) 억제제는 시클로필린 A(cyclophilin A) 매개 억제 기전 발표 후 3상 검증까지 약 3년이 걸렸습니다.",
+  "저항성 극복을 위해 조기 개입, KRAS 표적 분해제, PRMT5 억제제 병용요법, 면역치료 등이 연구되고 있습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1097/JCMA.0000000000001449",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43073256"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Chin Med Assoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073256/"
+ },
+ "summary_ko": "췌장관선암(PDAC)은 종양의 약 90%에서 활성화 KRAS 변이가 발견되는 악성 종양입니다. 비활성 상태의 KRAS G12C를 표적하는 억제제가 개발되었으나 췌장암의 일부 환자에게만 혜택이 있었습니다. 활성 상태를 표적하는 RAS(ON) 억제제의 등장으로 치료 범위가 넓어졌으나 약물 저항성이 여전히 과제로 남아 있습니다. 본 종설 논문은 KRAS 표적 치료의 발전 과정과 저항성 기전, 그리고 면역치료 및 분해제 등 향후 치료 전략을 조명합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting KRAS in pancreatic ductal adenocarcinoma: From discovery to RAS(ON) inhibition",
+ "title_ko": "췌장관선암에서 KRAS 표적 치료: 발굴부터 RAS(ON) 억제제까지",
+ "trial": null,
+ "type": "paper"
+}

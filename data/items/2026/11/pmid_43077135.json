@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a malignancy with an exceptionally poor prognosis, characterized by a relatively stable and recurrent spectrum of driver mutations that fail to fully explain the clinical heterogeneity of the disease. In this review, we evaluate alternative splicing (AS) as an additional regulatory layer underlying tumor plasticity and adaptive rewiring. We provide a mechanistically integrated overview of AS dysregulation in PDAC, including the contributions of specialized bioinformatics resources and databases such as TCGASpliceSeq, OncoSplicing, and MAJIQlopedia. We discuss how dysregulation of splicing factors, particularly from the SR and hnRNP protein families, acts as an upstream regulator reprogramming the isoform landscape. Furthermore, we examine how AS deregulation functionally contributes to key hallmarks of malignancy, including apoptosis resistance, metabolic adaptation, and metastatic plasticity. Then, we critically address the methodological aspects of isoform identification and outline future research directions, emphasizing the need for protein-level validation and the translational potential of therapeutic strategies, such as antisense oligonucleotides or spliceosome inhibitors. In conclusion, this review establishes that AS represents a biologically important and potentially therapeutically exploitable dimension of PDAC molecular biology, extending classical genetic models of tumor pathogenesis.",
+ "authors": [
+  "Pantůčková J",
+  "Eid M",
+  "Moravčík P",
+  "Vlažný J",
+  "Kala Z",
+  "Vaňhara P"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43077135",
+ "importance": 0.61,
+ "key_points_ko": [
+  "선택적 스플라이싱(AS) 조절 이상은 췌장암의 세포 가변성과 임상적 이질성을 유발하는 주요 요인입니다.",
+  "SR 및 hnRNP 단백질 가문의 조절 이상이 암세포의 사멸 저항성, 대사 적응, 전이 특성에 영향을 미칩니다.",
+  "안티센스 올리고뉴클레오타이드(ASO) 및 스플라이솜 억제제와 같은 신약 치료 전략의 가능성을 제시했습니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1007/s10238-026-02308-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43077135"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-08-30",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Exp Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43077135/"
+ },
+ "summary_ko": "본 종설 논문은 췌관선암(PDAC)의 임상적 이질성과 종양 가변성을 설명하는 기전으로 선택적 스플라이싱(AS)을 평가했습니다. SR 및 hnRNP 단백질 가문 등의 스플라이싱 인자 조절 이상이 세포 사멸 저항성, 대사 적응, 전이 가변성 등 주요 악성 특성에 기여함을 제시했습니다. 나아가 안티센스 올리고뉴클레오타이드나 스플라이솜 억제제 등 선택적 스플라이싱을 표적으로 하는 치료 전략의 가능성을 다루었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond the genome: alternative splicing as a key driver of cellular plasticity and clinical heterogeneity in pancreatic cancer",
+ "title_ko": "게놈을 넘어: 췌장암의 세포 가변성과 임상적 이질성을 이끄는 핵심 요인으로서의 선택적 스플라이싱",
+ "trial": null,
+ "type": "paper"
+}

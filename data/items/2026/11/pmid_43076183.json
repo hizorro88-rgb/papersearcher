@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies, with a 5-year survival of approximately 13% and limited benefit from conventional therapy. Tumor-associated macrophages (TAMs), the most abundant cell type in the PDAC microenvironment, drive immunosuppression, tumor progression, and chemoresistance. Although often described as M2-like, TAMs in PDAC are better understood as a spectrum of states, with single-cell studies resolving functionally distinct tumor-promoting SPP1+ and phagocytic, antigen-presenting C1QC+ subsets. This review examines strategies that target TAMs through immunotherapeutic and metabolic approaches. Immunotherapeutic strategies include CSF-1R inhibition, CCR2 blockade, CD40 agonism, CD47-SIRPα blockade, and IL-27-mediated suppression of JAK/STAT3 signaling, which deplete or reprogram TAMs and enhance CD8+ T-cell activity. Clinical evidence is mixed: CCR2 inhibition with FOLFIRINOX and CD40 agonists with chemotherapy have produced encouraging response rates in early-phase trials, whereas CSF-1R blockade with pembrolizumab showed target engagement without clinical benefit, and CD47 antibody development has been limited by hematologic toxicity. Metabolic strategies target nucleotide metabolism (DHODH, glutaminase, glycolysis, and the pentose phosphate pathway), fatty acid oxidation and lipid handling (CPT1a and LXR). These approaches aim to reprogram TAMs, relieve metabolic suppression of T cells, and restore gemcitabine sensitivity, although most remain preclinical. Progress will depend on rational combinations of immune and metabolic modulators, biomarker-guided patient selection that accounts for TAM heterogeneity, and improved drug delivery.",
+ "authors": [
+  "Sharafeldin AK",
+  "Adhami AMA",
+  "Khalifa SKA",
+  "Scotton-Peters C",
+  "Butler A"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43076183",
+ "importance": 0.66,
+ "key_points_ko": [
+  "췌장암의 5년 생존율은 약 13% 수준으로, 종양 관련 대식세포(TAM)가 면역 억제와 항암제 저항성을 유도하는 것으로 파악되었습니다.",
+  "CCR2 억제제와 FOLFIRINOX 병용 요법, CD40 작용제와 항암 치료의 병용은 초기 임상시험에서 고무적인 반응률을 나타냈습니다.",
+  "대사 표적 치료는 T세포의 면역 억제를 해제하고 gemcitabine(젬시타빈) 감수성을 회복시키는 것을 목표로 하나 현재는 대부분 전임상 단계입니다."
+ ],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1002/jcb.70143",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43076183"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Cell Biochem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43076183/"
+ },
+ "summary_ko": "췌장암(PDAC)의 종양 미세환경에서 종양 관련 대식세포(TAM)는 면역 억제, 종양 진행 및 항암제 저항성을 유도하는 주요 요인입니다. 본 종설 논문은 TAM을 제거하거나 재프로그래밍하는 면역치료 전략(CSF-1R 억제, CCR2 차단, CD40 작용제 등)과 대사적 접근법(뉴클레오타이드 및 지질 대사 표적)을 종합적으로 분석했습니다. CCR2 억제제와 FOLFIRINOX(폴피리녹스) 병용 요법 등 일부 초기 임상 연구에서 긍정적인 반응률이 관찰되었으나 치료적 한계도 존재합니다. 향후 면역 및 대사 조절제의 합리적 병용과 바이오마커 기반 환자 선별이 중요할 것으로 예상됩니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Immunotherapeutic and Metabolic Approaches to Tumor-Associated Macrophages in Pancreatic Cancer",
+ "title_ko": "췌장암에서 종양 관련 대식세포를 표적으로 하는 면역치료 및 대사적 접근법",
+ "trial": null,
+ "type": "paper"
+}

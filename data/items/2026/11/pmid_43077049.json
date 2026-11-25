@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pathologic response (PR) to neoadjuvant chemotherapy (NACT) in pancreatic ductal adenocarcinoma (PDAC) is prognostic, yet the influence of social determinants of health (SDoH) remains unclear. This study evaluated associations between SDoH and PR among patients undergoing curative-intent pancreatectomy for PDAC.\nMETHODS: We retrospectively reviewed adults with histologically confirmed PDAC treated with NACT ± radiotherapy followed by resection at a single academic center (2017-2024). PR was graded per College of American Pathologists (CAP) criteria as major (0-1) or minor (2-3). Secondary outcome was receipt of ≥6 NACT cycles. SDoH variables included Area Deprivation Index (ADI), rural-urban status, income, education, and insurance. Firth logistic regression identified predictors of major PR.\nRESULTS: Among 222 patients (median age 66, 45% female, 40% rural), major PR occurred in 13.1%. On multivariable analysis, rural residence predicted lower odds of major PR (OR 0.33, 95% CI 0.12-0.82), while Stage III disease predicted higher odds versus Stage I (OR 4.03, 95% CI 1.38-11.82). ADI, income, education, and insurance were not associated with PR. Younger age and surgery in 2022-2024 predicted receipt of ≥6 NACT cycles.\nCONCLUSION: Rural residence, but not national ADI, was associated with poorer pathologic response in this resected cohort, suggesting geographic disadvantage may undermine NACT efficacy in PDAC. These findings warrant additional validation in broader cohorts.",
+ "authors": [
+  "Ali MM",
+  "Hammad YM",
+  "Al Rubaye MZ",
+  "Cher BAY",
+  "Marcinak CT",
+  "Patel MA",
+  "Varley PR",
+  "Weber SM"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-25",
+ "history": [
+  {
+   "date": "2026-11-25",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43077049",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-25",
+ "links": {
+  "doi": "10.1007/s12029-026-01624-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43077049"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43077049/"
+ },
+ "summary_ko": "BACKGROUND: Pathologic response (PR) to neoadjuvant chemotherapy (NACT) in pancreatic ductal adenocarcinoma (PDAC) is prognostic, yet the influence of social determinants of health (SDoH) remains unclear. This study evaluated associations between SDoH and PR among patients undergoing curative-intent pancreatectomy for PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Beyond Socioeconomic Status: Rural Residence as a Driver of Diminished Neoadjuvant Response in Pancreatic Cancer",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}
