@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Reliable biomarkers for minimal residual disease (MRD) and recurrence risk following resection of pancreatic ductal adenocarcinoma (PDAC) remain limited. We evaluated the prognostic significance of tumor-informed circulating tumor DNA (ctDNA) during a standardized postoperative MRD window and explored longitudinal ctDNA trajectories during surveillance.\nMETHODS: Patients with nonmetastatic PDAC were prospectively enrolled. Tumor-informed ctDNA assays were generated from diagnostic biopsy or resection specimens. The primary analysis evaluated ctDNA obtained 4-6 weeks after surgery and before initiation of adjuvant therapy. Patients were classified as MRD-positive or MRD-negative at this landmark and evaluated for recurrence-free survival (RFS) and overall survival (OS). Longitudinal ctDNA trajectories were evaluated as an exploratory analysis. ctDNA measurements obtained after documented clinical recurrence were not used to define prognostic groups.\nRESULTS: A total of 61 patients were enrolled, tumor-informed assays were successfully generated in 50 (82.0%), and 43 patients underwent curative-intent resection and comprised the resected analytic cohort. In total, 43 patients had evaluable ctDNA within the predefined postoperative MRD window. MRD-positive patients experienced shorter RFS and OS than MRD-negative patients, with recurrence rates of 22.2% in patients who remained ctDNA-negative to 80.0% in patients with persistent ctDNA positivity, accompanied by a corresponding decline in median RFS from 26.3 to 8.7 months and median OS from not reached to 9.7 months (both global log-rank p < 0.001). Exploratory longitudinal analysis demonstrated progressively worse outcomes among patients developing or maintaining detectable ctDNA during surveillance, with persistent ctDNA positivity identifying the highest-risk subgroup.\nCONCLUSION: Detection of tumor-informed ctDNA during a standardized postoperative MRD window was associated with adverse oncologic outcomes following curative-intent resection of PDAC. Longitudinal ctDNA trajectories provided additional hypothesis-generating information regarding molecular clearance and recurrence. These findings support prospective validation of postoperative ctDNA as a risk-stratification biomarker in resected PDAC.",
+ "authors": [
+  "Siegel JB",
+  "Malik DA",
+  "Gaskins J",
+  "Egger ME",
+  "Philips P",
+  "Scoggins CR",
+  "Martin RCG"
+ ],
+ "categories": [
+  "diagnosis",
+  "surgery",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43081694",
+ "importance": 0.77,
+ "key_points_ko": [
+  "수술 후 4~6주 MRD 측정 시점에서 ctDNA가 지속적으로 음성이었던 환자의 재발률은 22.2%인 반면, 지속적인 양성인 환자의 재발률은 80.0%였습니다.",
+  "ctDNA 양성 환자군은 음성 환자군에 비해 중앙 무재발 생존기간(RFS)이 26.3개월에서 8.7개월로 유의하게 단축되었습니다(p < 0.001).",
+  "중앙 전체 생존기간(OS) 또한 ctDNA 음성 환자군은 도달하지 않은 반면, 양성 환자군은 9.7개월로 나타났습니다(p < 0.001)."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1002/jso.70460",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43081694"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43081694/"
+ },
+ "summary_ko": "수술을 시행받은 비전이성 췌관선암(PDAC) 환자 43명을 대상으로 수술 후 미세잔류질환(MRD) 평가 시기의 순환 종양 DNA(ctDNA) 검사가 갖는 예후적 가치를 평가했습니다. 수술 후 4~6주 시점에 종양 정보 기반 ctDNA가 검출(양성)된 환자는 음성인 환자에 비해 재발률이 현저히 높고 생존 기간이 짧았습니다. 추적 관찰 기간 동안 ctDNA가 지속적으로 양성이거나 양성으로 전환된 환자는 경과가 악화되었습니다. 이번 연구 결과는 수술 후 ctDNA 측정이 췌장암 수술 환자의 위험도 분류를 위한 바이오마커(생체지표)로 활용될 수 있음을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Perioperative Circulating Tumor DNA Dynamics and Survival Outcomes Following Resection for Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "췌관선암 절제술 후 수술 전후 순환 종양 DNA 변동성 및 생존 결과",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer shows limited immune cell infiltration and suboptimal responses to immunotherapy. Notably, dihydrolipoamide S-acetyltransferase (DLAT), a lipoylated mitochondrial protein and key component of the cuproptosis pathway, is highly expressed in pancreatic cancer and positively correlates with PD-L1 levels, supporting a therapeutic strategy that links cuproptosis induction with immune activation. However, most copper ionophores have a short circulating half-life and limited tumor specificity, which reduces copper accumulation in tumor cells and weakens cuproptosis induction. To address these limitations, we developed a bacterial membrane-based, dual-targeted nanosystem (IMPD-L1nb/KAA@ES-Cu NPs) for coordinated delivery of elesclomol-copper (ES-Cu) complex. This platform presents a neutralizing PD-L1 nanobody and a pancreatic tissue-homing peptide (KAA) on bacterial cytoplasmic membranes, enabling increased tumor-specific copper accumulation. The nanosystem enhances cuproptosis-mediated tumor suppression and antigen release, while the membrane-anchored PD-L1 nanobody counters ES-Cu-induced PD-L1 upregulation and blocks immune evasion. Acting as an immunostimulatory agonist, the nanoparticles remodel the immunosuppressive microenvironment by promoting dendritic cell maturation, driving M1 macrophage polarization, and recruiting immune effector cells, including natural killer cells. These effects enhance lymph node trafficking and antigen presentation, ultimately strengthening T cell-mediated tumor eradication. Overall, this nanoplatform couples immunogenic cell death with immune activation, advancing the therapeutic application of cuproptosis in cancer.",
+ "authors": [
+  "Feng Q",
+  "Zhang L",
+  "Li Y",
+  "Ma K",
+  "Hu G",
+  "Guan H",
+  "Zhang K",
+  "Chen X"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43079469",
+ "importance": 0.5,
+ "key_points_ko": [
+  "구리사멸 경로의 핵심 단백질인 DLAT는 췌장암에서 높게 발현되며 PD-L1 수준과 양의 상관관계를 보였습니다.",
+  "개발된 나노시스템(IMPD-L1nb/KAA@ES-Cu NPs)은 elesclomol-copper 복합체를 종양에 특이적으로 전달합니다.",
+  "나노입자는 수지상세포 성숙 촉진, M1 대식세포 분극화 유도 등을 통해 면역 미세환경을 재조정합니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1186/s12951-026-04998-8",
+  "nct": [],
+  "pmcid": "PMC13794343",
+  "pmid": "43079469"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-01",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Nanobiotechnology",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079469/"
+ },
+ "summary_ko": "본 연구는 구리사멸(cuproptosis) 유도와 면역 활성화를 결합한 췌장암 치료용 나노시스템(IMPD-L1nb/KAA@ES-Cu NPs)을 개발했습니다. 이 플랫폼은 박테리아 세포막에 췌장 조직 귀환 펩타이드(KAA)와 PD-L1 나노바디를 탑재하여 구리의 종양 특이적 축적을 높입니다. 이를 통해 구리사멸을 통한 종양 억제와 항원 방출을 강화하고 면역 회피를 차단합니다. 결과적으로 면역억제성 미세환경을 재조정하고 T 세포 매개 종양 사멸을 강화했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Bacterial membrane-derived dual-targeted nanoplatform enables synergistic cuproptosis induction and immune activation for pancreatic cancer therapy",
+ "title_ko": "박테리아 막 유래 이중 표적 나노플랫폼을 통한 췌장암 치료의 구리사멸 유도 및 면역 활성화",
+ "trial": null,
+ "type": "paper"
+}

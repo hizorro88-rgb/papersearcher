@@ -1,0 +1,62 @@
+{
+ "abstract": null,
+ "authors": [
+  "Daamen LA",
+  "Oor JE",
+  "van Santvoort HC",
+  "Molenaar IQ",
+  "Groot VP",
+  "Zamorano AG",
+  "Qadan M"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43078737",
+ "importance": 0.62,
+ "key_points_ko": [
+  "췌장암 절제술 후 수술 후 감시의 필요성과 방법에 대한 논의를 담은 사설입니다.",
+  "변화하는 의료 환경 속에서 여전히 해결되지 않은 임상적 딜레마임을 다루었습니다.",
+  "구체적인 수치나 연구 결과는 초록에 명시되지 않았습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1016/j.gassur.2026.102544",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43078737"
+ },
+ "pub_types": [
+  "Editorial"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Gastrointest Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078737/"
+ },
+ "summary_ko": "이 논문은 췌장암 절제술(pancreatic cancer resection) 후 수술 후 감시(postoperative surveillance)에 대한 글로벌 외과 대담을 다룬 사설(Editorial)입니다. 변화하는 의료 환경 속에서 수술 후 감시가 여전히 해결되지 않은 딜레마로 남아 있음을 논의했습니다. 구체적인 환자 수나 생존기간 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Global surgical dialogue: postoperative surveillance after pancreatic cancer resection - an unresolved dilemma in a changing landscape",
+ "title_ko": "글로벌 외과 대담: 췌장암 절제술 후 수술 후 감시 - 변화하는 환경 속에서 해결되지 않은 딜레마",
+ "trial": null,
+ "type": "paper"
+}

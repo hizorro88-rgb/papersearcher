@@ -1,0 +1,60 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with a poor prognosis and limited therapeutic options, particularly in advanced disease. Although immune checkpoint inhibitors (ICIs) have transformed the treatment of several solid tumors, their activity in unselected PDAC remains minimal. We conducted a narrative review of the literature using predefined search terms related to PDAC, immune checkpoint inhibition, tumor microenvironment, and predictive biomarkers. Candidate biomarkers were classified into three categories according to their biological origin and clinical assessment: tumor-intrinsic genomic and molecular biomarkers, tissue-based immune and microenvironmental biomarkers, and circulating biomarkers. Among available biomarkers, mismatch repair deficiency/microsatellite instability-high (dMMR/MSI-H) status has the strongest evidence supporting ICI selection in PDAC and is incorporated into current treatment guidelines. High tumor mutational burden (TMB-H) represents a complementary tumor-agnostic biomarker, although PDAC-specific evidence remains limited. DNA damage response (DDR) alterations, particularly those affecting core homologous recombination repair (HRR) genes and resulting in homologous recombination deficiency (HRD), are more relevant to platinum- and PARP inhibitor-based strategies, while their role in immunotherapy remains investigational and may be most applicable to combination approaches. Other proposed biomarkers, including Programmed Death-Ligand 1 (PD-L1) expression, tumor-infiltrating lymphocytes, systemic inflammatory indices, circulating tumor DNA, and spatial or multiomic signatures, currently provide mainly prognostic, monitoring, or exploratory information. In conclusion, dMMR/MSI-H remains the most robustly established biomarker for ICI selection in PDAC, while TMB-H provides a complementary but less well-validated option and all other candidate biomarkers remain primarily tools for prognostic assessment, disease monitoring, or investigation requiring further prospective validation.",
+ "authors": [
+  "Gatsis A",
+  "Stouras I",
+  "Lallas K",
+  "Tseriotis VS",
+  "Stivanaki C",
+  "Elemes S",
+  "Mauri D",
+  "Timotheadou E"
+ ],
+ "categories": [
+  "drug",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43082451",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3390/curroncol33110688",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43082451"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-09",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43082451/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with a poor prognosis and limited therapeutic options, particularly in advanced disease. Although immune checkpoint inhibitors (ICIs) have transformed the treatment of several solid tumors, their activity in unselected PDAC remains minimal.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Tumor-Immune Microenvironment and Biomarkers of Response to Immune Checkpoint Inhibitors in Pancreatic Ductal Adenocarcinoma-A Narrative Review",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

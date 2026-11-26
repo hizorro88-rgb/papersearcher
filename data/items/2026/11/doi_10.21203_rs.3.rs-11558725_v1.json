@@ -1,0 +1,58 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  <bold>PURPOSE:</bold>  Clinical target volumes for radiotherapy in non-metastatic pancreatic cancer (NMPC) remain a topic of debate, particularly between involved-field radiotherapy (IFRT) and elective nodal irradiation (ENI). This study aims to synthesize the current evidence on both approaches in the context of neoadjuvant/definitive chemoradiation for non-metastatic disease.  <bold>METHODS:</bold>  PubMed, ScienceDirect, EBSCOhost Academic Databases, Scopus, and Cochrane Library were searched for studies published from 2000 to October 2026. Eligible studies included adults with NMPC treated with IFRT or ENI. Data on locoregional failure (LRF), overall survival (OS), progression-free survival (PFS), radiologic response, resection rate, and toxicity were extracted. Outcomes were analyzed using a single-arm proportional meta-analysis to generate pooled estimates.  <bold>RESULTS:</bold>  Forty-six studies met inclusion: 18 IFRT-only, 27 ENI-only, and one retrospective comparative study, comprising 24 cohort studies and 22 trials (17 phase II, five phase III). LRF in the IFRT group was 23% (95%CI: 16-31) and 24% (95%CI: 15-35) for the ENI group. Resection following chemoradiation with IFRT was 30% (95%CI: 13-51) and 28% (95%CI: 11-48) after ENI. R0 resection rates exceeded 85% in both groups. Radiologic response was observed in 27% after IFRT and 20% after ENI. Twelve- and 24-month OS for IFRT were 58% and 22%, versus 56% and 20% for ENI, respectively. PFS at 12- and 24-months were 38% and 12% for IFRT, and 34% and 7% for ENI. Pooled grade 3-4 adverse events included anorexia (IFRT: 4%, ENI: 19%), nausea and/or vomiting (IFRT: 5%, ENI: 8%), diarrhea (IFRT and ENI: 2%), and abdominal pain (IFRT: 2%, ENI: 1%). In the only comparative study reviewed, 12-month OS was significantly higher in the IFRT group versus the ENI group, 51% versus 34% (p=0.04), respectively. This OS benefit was maintained at 3 and 5 years. Although both groups reported grade 3-5 toxicities, this did not significantly differ between groups.  <bold>CONCLUSION:</bold>  Taking into account the limitations of the included studies, the current evidence suggests similar rates between IFRT and ENI, with considerable R0 resection rates reported in both groups. Rates of severe anorexia were numerically higher with ENI. Further investigation is warranted to establish the optimal volumes for nodal irradiation within chemoradiation protocols for NMPC.  </p>",
+ "authors": [
+  "Chua VHC",
+  "Jainar CJE",
+  "Ong PJ",
+  "Rebosa LMFS",
+  "De Guzman BMLT",
+  "Agas RAF."
+ ],
+ "categories": [
+  "treatment",
+  "industry",
+  "trial",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11558725/v1",
+ "importance": 0.79,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11558725/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1377193"
+ },
+ "summary_ko": "<title>Abstract</title>  <p>  <bold>PURPOSE:</bold>  Clinical target volumes for radiotherapy in non-metastatic pancreatic cancer (NMPC) remain a topic of debate, particularly between involved-field radiotherapy (IFRT) and elective nodal irradiation (ENI). This study aims to synthesize the current evidence on both approaches in the context of neoadjuvant/definitive chemoradiation for non-metastatic disease.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Nodal Irradiation in Pancreatic Cancer: A Systematic Review and Meta-Analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "preprint"
+}

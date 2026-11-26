@@ -1,0 +1,57 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is dependent on autophagy for growth. Chloroquine/Hydroxychloroquine (CQ/HCQ), the sole FDA-approved autophagy inhibitors, have shown limited clinical efficacy in cancer. To identify approaches to enhance CQ-mediated growth suppression, we performed a CQ-anchored, CRISPR-Cas9 mediated loss-of-function screen. We identified that the loss of genes encoding proteins upstream in the autophagy pathway enhanced CQ-induced growth inhibition. This indicated that simultaneous targeting of two distinct nodes of the same pathway, vertical inhibition, may be a more effective strategy than single node inhibition. We demonstrated that genetic loss or pharmacological inhibition of VPS34, a protein necessary for autophagosome nucleation, sensitized PDAC cells to inhibitors of the terminal stage of the autophagy pathway, including CQ and an inhibitor of PIKfyve. We extended this concept to the initiation complex and demonstrated that ULK1/2 inhibition synergized with CQ and PIKfyve inhibition to impair PDAC cell growth and increase apoptosis. Anticipating mechanisms of resistance to vertical autophagy inhibition, we performed reverse-phase protein array profiling and identified that vertical inhibition of the autophagy pathway resulted in enhanced activation of the PI3K-AKT-mTORC1 signaling pathway. Increased mTORC1 signaling resulted in heightened sensitivity to bi-steric mTORC1 inhibition in both cell line and organoid models of PDAC. In conclusion, vertical inhibition of the autophagy pathway enhances growth suppression in PDAC. Implications: Compensatory upregulation of upstream nodes of the autophagy pathway limits the efficacy of chloroquine; however, vertical inhibition of the autophagy pathway further reduces PDAC cell growth, increases apoptosis, and enhances sensitivity to mTORC1 inhibition.",
+ "authors": [
+  "Roach MK",
+  "Degan SE",
+  "DeLiberty JM",
+  "Taylor KE",
+  "Pita LM",
+  "Yang R",
+  "Pieper NL",
+  "Schechter EG"
+ ],
+ "categories": [
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43083845",
+ "importance": 0.7,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1158/1541-7786.MCR-26-0206",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43083845"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mol Cancer Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43083845/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is dependent on autophagy for growth. Chloroquine/Hydroxychloroquine (CQ/HCQ), the sole FDA-approved autophagy inhibitors, have shown limited clinical efficacy in cancer.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Vertical inhibition of the autophagy pathway impairs growth and enhances sensitivity to mTORC1 inhibition in pancreatic ductal adenocarcinoma",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: This study aimed to evaluate textbook outcome (TO) and identify its independent predictive factors in patients with pancreatic ductal adenocarcinoma (PDAC) following laparoscopic pancreatoduodenectomy (LPD).\nMETHODS: Patients diagnosed with PDAC who underwent LPD were enrolled. TO was defined as the absence of postoperative pancreatic fistula, bile leakage, post-pancreatectomy hemorrhage, severe complications (Clavien-Dindo grade ≥III), and 30-day readmission or mortality and a postoperative length of stay within the cohort's 75th percentile. Overall survival (OS) was estimated using the Kaplan-Meier method, and independent predictors of TO were identified through multivariate logistic regression analysis.\nRESULTS: A total of 334 patients were analyzed, 220 in the TO group and 114 in the non-TO group. The TO group presented significantly higher 1-, 3-, and 5-year OS (p = 0.044). Recurrence-free survival (RFS) was numerically superior, but not statistically significant (p = 0.140). Multivariate analysis revealed that operative time >360 min, soft pancreatic texture, and main pancreatic duct diameter ≤3 mm were independent risk factors for TO.\nCONCLUSION: TO after LPD for PDAC is associated with improved OS. Prolonged operation, soft pancreatic texture, and small main pancreatic duct diameter are independent predictors of failure to achieve TO.",
+ "authors": [
+  "Li D",
+  "Wang J",
+  "Xu S",
+  "Chu Q"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43080366",
+ "importance": 0.72,
+ "key_points_ko": [
+  "총 334명의 환자 중 220명이 교과서적 결과(TO)를 달성했으며, 114명은 달성하지 못했습니다.",
+  "TO 그룹은 1년, 3년, 5년 전체 생존기간(OS)이 유의하게 더 높았습니다(p = 0.044).",
+  "수술 시간 >360분, 말랑한 췌장 질감, 주췌관 직경 ≤3 mm는 TO 달성 실패의 독립적인 위험 요인입니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3389/fonc.2026.1881681",
+  "nct": [],
+  "pmcid": "PMC13793194",
+  "pmid": "43080366"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43080366/"
+ },
+ "summary_ko": "본 연구는 복강경 췌십이지장절제술(LPD)을 받은 췌관선암(PDAC) 환자 334명을 대상으로 교과서적 결과(TO) 달성 여부와 그 예측 요인을 평가했습니다. TO는 수술 후 합병증, 누출, 재입원, 사망 등이 없고 재원 기간이 짧은 이상적인 수술 결과를 의미합니다. 분석 결과, TO 그룹은 비-TO 그룹에 비해 1년, 3년, 5년 전체 생존기간(OS)이 유의하게 높았습니다. 수술 시간 360분 초과, 말랑한 췌장 질감, 작은 주췌관 직경은 TO 달성 실패의 독립적인 위험 요인으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Textbook outcomes and influencing factors after laparoscopic pancreatoduodenectomy for pancreatic ductal adenocarcinoma in a high-volume center",
+ "title_ko": "고위험 센터에서 췌관선암에 대한 복강경 췌십이지장절제술 후 교과서적 결과 및 영향 요인",
+ "trial": null,
+ "type": "paper"
+}

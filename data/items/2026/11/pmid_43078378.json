@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: PIWI-interacting RNAs (piRNAs) have been implicated in tumor biology, but the roles of piRNA-annotated small RNAs in pancreatic ductal adenocarcinoma (PDAC) remain incompletely understood. This study investigated the cellular effects and molecular associations of piR-016176, a piRNA-annotated small-RNA candidate, in PDAC.\nMETHODS: Array-based profiling was performed in 10 paired PDAC and adjacent tissues, followed by qRT-PCR validation in an independent cohort of 50 paired specimens. Gain- and loss-of-function assays evaluated cellular phenotypes, while quantitative proteomics and bidirectional rescue experiments assessed the contribution of SAP18. PIWIL1 RIP-qPCR, exploratory acetylome profiling following SAP18 depletion, and integrated transcriptomic-proteomic analysis following piR-016176 overexpression were also performed.\nRESULTS: The sequence annotated as piR-016176 showed significantly lower abundance in PDAC tissues and cell lines. Mimic transfection reduced cell viability, wound closure, and Matrigel invasion while increasing apoptosis; inhibitor treatment produced opposite effects. SAP18 protein abundance changed reciprocally, and bidirectional rescue experiments supported its contribution to cell viability and Matrigel invasion. Following mimic transfection, piR-016176 and SAP18 mRNA were enriched in PIWIL1 immunoprecipitates. SAP18 depletion yielded 185 nominally altered acetylome features, none significant after multiple-testing correction, with associated proteins enriched for RNA-regulatory and mitochondrial metabolic functions. Integrating transcriptomic and proteomic data identified 112 concordantly upregulated targets enriched for interferon- and immune-related gene sets after piR-016176 overexpression.\nCONCLUSIONS: Our findings identify piR-016176 as a piRNA-annotated small-RNA candidate that modulates PDAC cell phenotypes, with SAP18 contributing to its effects on cell viability and Matrigel invasion. PIWIL1-associated RNA enrichment and exploratory acetylome and interferon-related signatures provide additional molecular clues for future investigation. Although its endogenous identity as a mature PIWI-associated piRNA remains to be established, these findings offer a foundation for further characterization of piR-016176 and its associated regulatory mechanisms in PDAC.",
+ "authors": [
+  "Cui X",
+  "Li C",
+  "Liu Y",
+  "Jia Z",
+  "Liu S",
+  "Wang Z"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43078378",
+ "importance": 0.64,
+ "key_points_ko": [
+  "10쌍의 췌장암 및 인접 조직 조직 아레이 및 50쌍의 독립 코호트 검증에서 piR-016176의 발현이 췌장암에서 유의하게 감소함을 확인했습니다.",
+  "piR-016176 모방체(mimic) 주입 시 세포 생존력 및 침윤이 줄어들고 세포사멸이 증가한 반면, 억제제 처리 시 반대 현상이 관찰되었습니다.",
+  "piR-016176 과발현 후 전사체 및 단백질체 통합 분석을 통해 인터페론 및 면역 관련 경로에 포함되는 112개의 일치된 상향 조절 표적을 발견했습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1016/j.cellsig.2026.113024",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43078378"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cell Signal",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078378/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)에서 PIWI 상호작용 RNA(piRNA) 후보물질인 piR-016176의 세포학적 영향과 분자 기전을 조사했습니다. 분석 결과 piR-016176은 췌장암 조직 및 세포주에서 발현이 유의하게 낮게 나타났습니다. piR-016176을 세포에 과발현시키면 암세포의 생존력, 이동성, 침윤성이 감소하고 세포사멸이 증가했습니다. 또한 이러한 작용 기전에는 하위 단백질인 SAP18이 관여하는 것으로 확인되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The piR-016176 candidate small RNA modulates pancreatic ductal adenocarcinoma cell phenotypes with SAP18 as a functional downstream effector",
+ "title_ko": "SAP18을 하위 효과 인자로 하여 췌장관선암 세포 형질을 조절하는 piR-016176 후보 소형 RNA에 관한 연구",
+ "trial": null,
+ "type": "paper"
+}

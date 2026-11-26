@@ -1,0 +1,60 @@
+{
+ "abstract": "INTRODUCTION: The role of chemotherapy plus radiation and the optimal radiation therapy (RT) dose in the overall survival (OS) of patients diagnosed with pancreatic adenocarcinoma (PA) who did not undergo surgery is not well known. Our study aimed to assess the association of chemotherapy plus RT, total radiation dose (TD), and fractionation with the OS of these patients.\nMATERIALS AND METHODS: We used the National Cancer Database and included patients diagnosed with non-metastatic pancreatic cancer between 2004 and 2023. Multivariable Cox analysis was used to assess the association of various factors with the OS of patients.\nRESULTS: Among the 63, 261 patients, 45, 838 received chemotherapy (CT), and 17, 423 received chemotherapy plus RT. Chemotherapy plus RT was associated with improved OS compared with CT alone (HR 0.71, 95% CI 0.69-0.72; p<0.001). The extended Cox model showed that the association between RT and mortality varied over follow-up with the apparent benefit attenuating at later time points. In the propensity score-matched analysis, chemotherapy plus RT was still associated with improved OS compared to chemotherapy alone (HR: 0.71, 95% CI: 0.69- 0.72; p<0.001). A 5-fraction stereotactic body radiation therapy (SBRT) with a total dose (TD) between 50 and 80 Gy was associated with improved OS compared with a 5-fraction SBRT with a TD between 30 and 49 Gy (HR 0.86, 95% CI: 0.76-0.97; p=0.01). The OS benefit of chemotherapy plus RT vs. CT was greater in patients diagnosed between 2014 and 2023 vs. 2004 and 2013 (HR: 0.65, 95% CI:0.63-0.67; p<0.001 vs. HR: 0.77, 95% CI: 0.75-0.79; p<0.001). The biologically effective dose (BED10) categories of 100-151 and 90-99 Gy were associated with a better OS compared with the BED10 category of 53.1-89 Gy (HR: 0.77, 95% CI: 0.70-0.86; p<0.001 and HR: 0.78, 95% CI: 0.67-0.91; p=0.006).\nCONCLUSIONS: Chemotherapy plus RT was associated with improved overall survival compared to CT alone. However, the association varied over follow-up. A 5-fraction SBRT with a TD between 50 and 80 Gy was associated with improved overall survival. A higher BED10 was associated with better OS than a lower BED10 only in the modern chemotherapy era.",
+ "authors": [
+  "Amin S",
+  "Huang C",
+  "Lin C"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "sbrt"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43080281",
+ "importance": 0.66,
+ "key_points_ko": [
+  "총 63,261명의 환자 중 45,838명은 항암화학요법을, 17,423명은 항암화학방사선치료를 받았습니다.",
+  "항암화학방사선치료는 항암화학요법 단독에 비해 전체생존기간 개선과 관련이 있었습니다 (위험비 HR 0.71, 95% 신뢰구간 0.69-0.72, p<0.001).",
+  "50~80 Gy의 총 선량을 적용한 5회 분할 정위체부방사선치료(SBRT)는 30~49 Gy를 적용한 경우보다 전체생존기간이 더 우수했습니다 (위험비 HR 0.86, 95% 신뢰구간 0.76-0.97, p=0.01).",
+  "항암화학방사선치료의 생존 이점은 2014~2023년 진단 군에서 2004~2013년 진단 군보다 더 컸습니다 (위험비 HR 0.65 대 HR 0.77)."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3389/fonc.2026.1998444",
+  "nct": [],
+  "pmcid": "PMC13792908",
+  "pmid": "43080281"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43080281/"
+ },
+ "summary_ko": "이 연구는 2004년부터 2023년까지 수술을 받지 않은 비전이성 췌장선암(pancreatic adenocarcinoma) 환자 63,261명을 대상으로 항암화학요법(CT)과 방사선치료(RT) 병용, 총 방사선 선량(TD) 및 분할 방식이 전체생존기간(OS)에 미치는 영향을 분석했습니다. 분석 결과, 항암화학요법 단독에 비해 항암화학방사선치료를 받은 환자들에서 전체생존기간이 향상되었습니다. 또한 50~80 Gy의 총 선량을 사용한 5회 분할 정위체부방사선치료(SBRT)와 더 높은 생물학적 등가선량(BED10)이 더 나은 생존 결과와 연관이 있었습니다. 다만 방사선치료의 생존 이점은 추적 관찰 기간에 따라 달라졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Chemotherapy plus radiation, radiation dose and fractionation, and overall survival in patients with nonmetastatic pancreatic adenocarcinoma managed without surgery",
+ "title_ko": "수술을 받지 않은 비전이성 췌장선암 환자에서 항암화학방사선치료, 방사선 선량 및 분할 방식과 전체생존기간",
+ "trial": null,
+ "type": "paper"
+}

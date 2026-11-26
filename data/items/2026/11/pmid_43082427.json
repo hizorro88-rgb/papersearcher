@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND AND OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is spatially heterogeneous and may extend beyond the tumour margin visible on CT. We compared intratumoral habitat radiomics with whole-tumour and 1-, 3-, and 5-mm peritumoral radiomics for overall survival after resection.\nMATERIALS AND METHODS: This single-centre retrospective study included 315 patients assigned to training (n = 221) and internal test (n = 94) cohorts. Feature selection, model fitting, and cutoff definition were confined to training data. Clinicopathological, imaging, and integrated Cox models were evaluated with C-indices, censoring-weighted time-dependent AUCs, Kaplan-Meier analysis, and calibration. Additional analyses examined geometric partitions, reader repeatability, and scanner subgroups.\nRESULTS: Habitat C-indices were 0.781 (95% CI 0.744-0.812) in training and 0.744 (0.700-0.784) in testing, compared with 0.647 and 0.619 for whole-tumour radiomics. Test AUCs at 1, 2, and 3 years were 0.828, 0.854, and 0.867 for habitat and 0.813, 0.852, and 0.890 for the integrated model; all paired difference intervals included zero. Habitat C-indices were 0.760 and 0.757 in the two scanner subgroups. Time-varying effects did not consistently improve test calibration.\nCONCLUSIONS: Habitat radiomics showed the strongest discrimination among the original imaging models, without evidence of improvement from integration. The results support further evaluation of postoperative risk stratification; external validation is needed before clinical application.",
+ "authors": [
+  "Liu X",
+  "Zhu J",
+  "Qian Y",
+  "Zhang C",
+  "Lyu S",
+  "Ding C",
+  "Lang R",
+  "Pan F"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43082427",
+ "importance": 0.66,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3390/curroncol33110664",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43082427"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-31",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43082427/"
+ },
+ "summary_ko": "BACKGROUND AND OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is spatially heterogeneous and may extend beyond the tumour margin visible on CT. We compared intratumoral habitat radiomics with whole-tumour and 1-, 3-, and 5-mm peritumoral radiomics for overall survival after resection.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Prognostic Value of Intratumoral Habitat and Peritumoral CT Radiomics After Pancreatic Ductal Adenocarcinoma Resection: A Retrospective Cohort Study",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

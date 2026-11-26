@@ -1,0 +1,62 @@
+{
+ "abstract": "Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival. In preclinical models, cysteine-cysteine chemokine receptors 2 (CCR2) and 5 (CCR5) blockade overcomes macrophage-driven resistance. We therefore initiated a phase I/II trial of nivolumab and BMS-813160 (CCR2/5 inhibitor) ± GVAX with FOLFIRINOX, SBRT, and surgery for LAPC. Primary endpoints were safety and changes in intratumoral CD137+CD8+ T cells which correlate with favorable survival. Twenty-two patients were treated; the remainder had disease progression during chemotherapy, withdrew consent, or did not meet eligibility prior to study treatment. In phase I (n=9), patients received nivolumab 480mg IV, GVAX 5x108 cells intradermal q4 weeks, and BMS-813160 150mg PO BID (DL1, n=3) or 300mg PO BID (DL2, n=6) with no dose limiting toxicities. In phase II (n=13), patients were randomized to nivolumab and BMS-813160 without (Arm A) or with (Arm B) GVAX; 3/5 patients (Arm A) and 8/11 patients (Arm B + DL2) achieved the primary immunologic endpoint. Fourteen patients had paired tumor biopsies with 13 showing >80% increase in CD137+CD8+ T cells meeting the primary immunology endpoint. Fourteen (64%) of 22 treated patients underwent R0/R1 resection which was numerically higher than historical LAPC data. In conclusion, adding nivolumab, BMS-813160, and GVAX to chemo-radiotherapy is tolerable and associated with favorable immunologic and clinical outcomes, though substantial attrition before study therapy limits definitive conclusions.",
+ "authors": [
+  "Christenson ES",
+  "Burns W",
+  "Parkinson R",
+  "Cetasaan Y",
+  "Qi H",
+  "Wang H",
+  "Wilt B",
+  "Courtright L"
+ ],
+ "categories": [
+  "treatment",
+  "drug",
+  "trial"
+ ],
+ "entities": [
+  "folfirinox",
+  "sbrt"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43084717",
+ "importance": 0.78,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1158/2326-6066.CIR-26-0643",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43084717"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Immunol Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43084717/"
+ },
+ "summary_ko": "Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

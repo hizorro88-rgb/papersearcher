@@ -16,27 +16,60 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 223건 · 최근 30일 112건
+전체 225건 · 최근 30일 114건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
 <a id="nct-nct07772258"></a>
-#### [췌장암 수술 환자를 위한 웨어러블 기기 기반 수술 전후 재활 치료 임상시험](https://clinicaltrials.gov/study/NCT07772258)
+#### [췌장암 수술 환자를 위한 웨어러블 기반 수술 전·후 재활 프로그램](https://clinicaltrials.gov/study/NCT07772258)
 <small>Wearable-Supported Prehabilitation and Rehabilitation for Patients Undergoing Surgery for Pancreatic Cancer</small>
 
-`임상시험` `기타` `수술` `지지요법·삶의질` `치료 전반` · 2026-08-19 · ClinicalTrials.gov · Manchester University NHS Foundation Trust · 중요도 0.71
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `수술` · 2026-08-19 · ClinicalTrials.gov · Manchester University NHS Foundation Trust · 중요도 0.71
 
 **NCT07772258** · 해당 없음 · 모집 예정 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07772258.md)
 
-췌장암 및 췌주위 암 수술 예정 환자를 대상으로 웨어러블 기기를 활용한 디지털 사전·사후 재활 프로그램의 효과를 평가하는 연구입니다. 연구 참여자는 수술 전후로 운동, 영양, 심리 지원 프로그램에 참여하고 착용형 생체 모니터링 기기를 사용하게 됩니다. 연구진은 이 프로그램을 이수한 환자군과 과거 표준 치료를 받은 환자군을 비교하여 수술 후 합병증 감소 및 회복 향상 효과를 확인하고자 합니다.
+이 임상시험은 췌장암 또는 관련 주위 부위 암으로 수술을 받는 성인 환자를 대상으로 웨어러블 기기(Corsano CardioWatch)를 활용한 수술 전·후 재활 프로그램(Prehab4Cancer)이 회복과 수술 후 예후를 개선하는지 평가합니다. 연구진은 전향적 중재 코호트 환자 최대 60명을 모집하여 표준 치료를 받은 후향적 대조군과 비교합니다. 주요 평가지표는 수술 후 30일 및 90일 이내의 합병증 발생률입니다. 참여자들은 수술 전 운동, 영양, 웰빙 지원을 받고 웨어러블 기기와 원격 모니터링 장비를 착용합니다.
 
-- 췌장암 및 췌주위 질환으로 수술이 확정된 환자 60명을 대상으로 디지털 사전·사후 재활 프로그램을 적용합니다.
-- Corsano CardioWatch 착용형 기기와 원격 모니터링 장비를 통해 수술 전후 활동량 및 생체 신호를 연속 측정합니다.
-- 수술 후 30일 및 90일 이내의 합병증 발생률 감소 여부를 과거 표준 치료 대조군과 비교 평가합니다.
+- 목표 인원은 총 120명이며, 중재 군에는 최대 60명의 환자가 등록합니다.
+- 수술 전후 원격 모니터링에는 Corsano CardioWatch 웨어러블 기기, 체중계, 혈압계가 사용됩니다.
+- 수술 후 30일 및 90일 이내의 합병증(수술 후 이환율)을 비교하여 효과를 평가합니다.
+- 환자들은 수술 전 Greater Manchester Prehab4Cancer 프로그램에 참여하여 맞춤형 운동, 영양 및 웰빙 지원을 받습니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07772258) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07772258)</small>
+
+---
+<a id="nct-nct07494994"></a>
+#### [SURGIMEDIA: 멀티미디어 활용을 통한 수술 동의서 절차 강화 연구](https://clinicaltrials.gov/study/NCT07494994)
+<small>SURGIMEDIA: Utilization of Multimedia for Enhanced Surgical Consent</small>
+
+`임상시험` `기타` `수술` `지지요법·삶의질` · 2026-03-27 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.64
+
+**NCT07494994** · 해당 없음 · 일시 중단 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07494994.md)
+
+췌장십이지장절제술(Whipple 수술)을 받는 췌장암 환자를 대상으로 교육 영상을 활용한 동의서 절차의 효과를 평가하는 연구입니다. 표준 동의서 절차에 멀티미디어 영상을 도입하여 환자의 수술 이해도, 안도감, 만족도를 향상시킬 수 있는지 확인합니다. 동의서 작성 절차를 표준화하여 의료 이해도 장애 등의 한계를 줄이는 것을 목표로 합니다.
+
+- 췌장십이지장절제술이 예정된 환자 60명을 대상으로 시행하는 시범 임상시험입니다.
+- 수술 설명 교육 영상 제공이 환자의 이해도, 안도감, 전반적 만족도를 높이는지 평가합니다.
+- 의료진 간 수술 동의 과정의 편차를 줄이고 표준화된 교육 정보를 제공하고자 합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07494994) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07494994)</small>
+
+---
+<a id="pmid-43081472"></a>
+#### [80세 이상 췌장암 환자의 가치 기반 수술 결정: 타당성에서 적절성까지](https://pubmed.ncbi.nlm.nih.gov/43081472/)
+<small>Value-Based Surgical Decision-Making in Octogenarians with Pancreatic Cancer: From Feasibility to Appropriateness</small>
+
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-02 · PubMed · Geriatrics (Basel) · 중요도 0.62
+
+이 문헌 고찰은 80세 이상 고령 환자의 췌장암 수술 타당성과 적절성을 평가했습니다. 종양학적 이점과 수술 위험, 기능 회복, 환자의 가치관을 저울질하는 것이 중요하다고 밝혔습니다. 노쇠 상태, 영양, 인지 기능, 사회적 지지가 환자 간의 차이를 설명하는 데 도움이 됩니다. 연령에 따른 배제나 무조건적인 수술 대신 개별화된 권고사항을 지지하는 가치 기반 프레임워크를 제시했습니다.
+
+- 80세 이상 고령 환자에서 췌장암 절제술은 기술적으로 가능하지만 수술 후 사망률과 합병증 위험이 증가할 수 있습니다.
+- 노쇠 상태, 영양, 인지 기능 및 기저 기능은 동일한 연령의 환자들 사이에서도 큰 차이를 설명합니다.
+- 수술 결정은 기술적 가능성뿐만 아니라 예상되는 이점이 부담과 환자의 목표에 부합하는지에 초점을 맞춰야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43081472/) · [DOI](https://doi.org/10.3390/geriatrics11060157) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43081472)</small>
 
 ---
 <a id="doi-10.20944-preprints202611.2284.v1"></a>

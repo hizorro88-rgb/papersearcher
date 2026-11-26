@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has a poor prognosis, and early detection is essential to improve clinical outcomes. However, many patients with early-stage PDAC are asymptomatic, complicating detection in routine clinical practice. Population-based screening for PDAC is not currently recommended given its low incidence and cost-effectiveness concerns. Therefore, regional collaboration between primary care physicians and specialist centers may facilitate identifying individuals with PDAC risk factors or suspicious pancreatic imaging findings warranting further evaluation.\nOBJECTIVE: This study aims to describe the protocol for a prefecture-wide regional collaboration program in Hiroshima Prefecture, Japan, and evaluate its operation and diagnostic yield, particularly for the detection of stage 0 or I PDAC.\nMETHODS: The Hiroshima Pancreas Cancer Early Diagnosis With Collaboration and Examination (Hi-PEACE) project is a multicenter prospective observational study conducted in Hiroshima Prefecture. The project involves 20 core hospitals covering all 7 secondary medical care areas. Eligible participants are adults aged 20 years or older with PDAC risk factors or suspicious pancreatic imaging findings. Risk factor-based referral criteria include low- and high-grade risk factors based on relative risks in the Japanese Clinical Practice Guidelines for PDAC, previous studies on early-stage PDAC, and feasibility in primary care settings. Participants are identified through 2 pathways: risk factor assessment and imaging abnormalities, including indirect pancreatic findings such as main pancreatic duct dilatation, pancreatic duct stenosis, and pancreatic cysts. Individuals meeting referral criteria are referred to core hospitals for detailed pancreatic evaluation, with computed tomography, magnetic resonance imaging, endoscopic ultrasonography, and, when clinically indicated, pathological diagnosis. The primary outcome is the number and proportion of participants diagnosed with early-stage PDAC, defined as stage 0 or I disease, among participants referred through the Hi-PEACE project. Secondary outcomes include the number and proportion of participants diagnosed with PDAC and those who undergo surgical resection, distribution of PDAC risk factors and suspicious pancreatic imaging findings, diagnostic procedures performed at core hospitals, treatment status, and prognosis. The operation of the regional referral system will also be evaluated descriptively using annual referral volumes and the distribution of referrals across participating hospitals and secondary medical care areas.\nRESULTS: Participant enrollment began on November 20, 2022. As of December 31, 2025, a total of 9,866 participants had been enrolled, and enrollment is planned to continue until December 31, 2028. Data collection and analysis are ongoing. The overall study period is planned to last until December 31, 2030.\nCONCLUSIONS: The Hi-PEACE project is a prefecture-wide collaborative program designed to promote early detection of PDAC through structured referrals to specialist centers. This study will provide information on referral activity and diagnostic yield, particularly for stage 0 and I PDAC, and may inform the development of similar regional early detection programs. Further comparative studies and long-term follow-up will be needed to evaluate the impact of such programs on clinical outcomes.",
+ "authors": [
+  "Ikemoto J",
+  "Ishii Y",
+  "Hanada K",
+  "Teramen K",
+  "Eguchi N",
+  "Hattori Y",
+  "Ueki T",
+  "Sasaki T"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43083746",
+ "importance": 0.77,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.2196/101264",
+  "nct": [],
+  "pmcid": "PMC13792719",
+  "pmid": "43083746"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Observational Study",
+  "Multicenter Study"
+ ],
+ "published_at": "2026-11-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "JMIR Res Protoc",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43083746/"
+ },
+ "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has a poor prognosis, and early detection is essential to improve clinical outcomes. However, many patients with early-stage PDAC are asymptomatic, complicating detection in routine clinical practice.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Implementation of a Prefecture-Wide Regional Referral System for Early Detection of Pancreatic Cancer in Hiroshima, Japan: Protocol for a Multicenter Prospective Observational Study (Hi-PEACE Project)",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

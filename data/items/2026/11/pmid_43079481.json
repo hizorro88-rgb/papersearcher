@@ -1,0 +1,60 @@
+{
+ "abstract": "OBJECTIVE: This study aimed to investigate the prophylactic and therapeutic effects of Quercus pyrenaica honey on pancreatic cancer.\nMATERIALS AND METHODS: The azaserine-rat model was used. The animals were divided into five groups: control, honey, azaserine, therapeutic, prophylactic. After 11 weeks of follow-up, the pancreatic tissues of the rats were removed, and the atypical acinar cell foci (AACF), which are considered to be the precursor lesions of pancreatic cancer caused by azaserine, were microscopically examined and recorded. The groups were compared in terms of the quantitative measurements of AACF, cancer antigen 19-9, and C-reactive protein values.\nRESULTS: Both in the prophylactic group that was administered honey simultaneously with azaserine and in the therapeutic group that was administered honey three weeks after azaserine, the quantitative data of the AACF, namely the number of focus intersections per unit area, the ratio of the AACF size to the whole pancreas size, and the estimated number of foci per unit volume, were found to be significantly lower compared to the azaserine group (p < 0.05).\nCONCLUSIONS: Quercus pyrenaica honey exhibited this effect both prophylactically and therapeutically. The results of study will be more significant if supported by clinical studies in this field.",
+ "authors": [
+  "Kılınç A",
+  "Ulutaş ME",
+  "Deniz ÇD",
+  "Öztaş H",
+  "Hasırcı İ",
+  "Kartal A"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43079481",
+ "importance": 0.52,
+ "key_points_ko": [
+  "예방군과 치료군 모두에서 비정형 선세포 병소(AACF)의 정량적 데이터가 azaserine군에 비해 유의하게 낮았습니다(p<0.05).",
+  "측정된 지표에는 단위 면적당 병소 교차 수, 전체 췌장 크기 대비 AACF 크기의 비율, 단위 부피당 추정 병소 수가 포함되었습니다.",
+  "Quercus pyrenaica 꿀은 예방적 및 치료적 효과를 모두 나타냈습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1186/s12906-026-05565-2",
+  "nct": [],
+  "pmcid": "PMC13794806",
+  "pmid": "43079481"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-09-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Complement Med Ther",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079481/"
+ },
+ "summary_ko": "이 연구는 Quercus pyrenaica 꿀이 췌장암에 미치는 예방적 및 치료적 효과를 조사했습니다. azaserine으로 췌장암을 유도한 쥐 모델을 사용하여 대조군, 꿀 단독 투여군, azaserine 투여군, 치료군, 예방군 등 5개 그룹으로 나누어 실험했습니다. 11주의 추적 관찰 후 췌장 조직을 검사하여 암 전구 병변인 비정형 선세포 병소(AACF), 암항원 19-9(cancer antigen 19-9), C-반응성 단백질(C-reactive protein) 수치를 측정했습니다. 꿀을 함께 투여한 예방군과 azaserine 투여 3주 후 꿀을 투여한 치료군 모두에서 AACF의 정량적 측정값이 azaserine 단독 투여군에 비해 유의하게 낮았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Investigation of the anti-tumoral effect of honey in experimental pancreatic cancer",
+ "title_ko": "실험적 췌장암에서 꿀의 항종양 효과 조사",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,55 @@
+{
+ "abstract": null,
+ "authors": [
+  "Zhang M",
+  "Bai B"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43078646",
+ "importance": 0.6,
+ "key_points_ko": [
+  "초록에 명시되지 않음"
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1136/gutjnl-2026-340987",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43078646"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-11-24",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Gut",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078646/"
+ },
+ "summary_ko": "이 논문은 Gut 저널에 발표된 서한(Letter)입니다. 췌장암 조기 발견 및 진단과 관련된 STOP-DM 지표의 활용 시점을 정의하고 있습니다. 초록에 구체적인 환자 수나 연구 결과는 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Defining when STOP-DM can guide pancreatic cancer investigation",
+ "title_ko": "STOP-DM이 췌장암 연구를 안내할 수 있는 시점 정의",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,59 @@
+{
+ "abstract": "(1) Background: Pancreatic ductal adenocarcinoma (PDAC) remains a leading cause of cancer mortality, largely due to late-stage diagnosis and early metastatic progression. Identification of patients with hereditary pancreatic cancer syndromes and familial pancreatic cancer (FPC) provides an opportunity to establish routine surveillance aimed at detecting precursor lesions and early-stage disease. (2) Methods: A narrative review was conducted to evaluate hereditary PDAC susceptibility genes, current screening recommendations, prospective surveillance studies in high-risk individuals, and emerging biomarker, artificial intelligence, risk stratification, and early cancer interception strategies. (3) Results: Germline pathogenic variants, including BRCA1, BRCA2, PALB2, ATM, CDKN2A, STK11, and PRSS1 are associated with increased lifetime PDAC risk. Guidelines recommend surveillance with magnetic resonance cholangiopancreatography (MRCP) and endoscopic ultrasound (EUS) for defined high-risk individuals (HRIs). Surveillance programs detect earlier-stage, more frequently resectable disease with encouraging rates of 5-year overall survival. Serum carbohydrate antigen 19-9 (CA 19-9) remains the only current guideline-referenced biomarker, with emerging liquid biopsy, artificial intelligence (AI)/machine learning (ML), and risk-enrichment strategies aimed at improving early-stage detection. (4) Conclusions: Germline testing and high-risk surveillance facilitate earlier PDAC detection and are associated with longer survival in non-randomized studies. Ongoing efforts seek to refine patient selection, resource utilization, surveillance strategies, and biomarker integration to further enhance outcomes.",
+ "authors": [
+  "Schaefer ML",
+  "Sougiannis AT",
+  "Blair AB"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43082456",
+ "importance": 0.68,
+ "key_points_ko": [
+  "BRCA1, BRCA2, PALB2, ATM, CDKN2A, STK11, PRSS1 등의 생식세포 병원성 변이가 췌장암 발생 위험을 증가시킵니다.",
+  "고위험군 대상 MRCP 및 EUS 감시 검사는 수술 가능한 조기 단계 췌장암 발견을 돕고 5년 전체 생존율을 향상시킵니다.",
+  "현재 가이드라인에서 권장하는 유일한 혈액 바이오마커는 CA 19-9이며, 액체 생검과 AI 기반 진단 기술이 새로 개발 중입니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3390/curroncol33110693",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43082456"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-10",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Curr Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43082456/"
+ },
+ "summary_ko": "본 논문은 췌장관선암(PDAC)의 유전적 위험 요인과 고위험군 대상 조기 진단 감시 체계를 종괄 평가한 서술적 문헌 고찰 연구입니다. BRCA1, BRCA2, PALB2 등 생식세포 병원성 변이를 가진 고위험군은 조기 정기 검진을 통해 절제 가능한 조기 췌장암 발견 확률을 높일 수 있습니다. 자기공명 쓸개췌장관조영술(MRCP)과 내시경 초음파(EUS)를 활용한 정기 감시 검사는 고위험 환자의 5년 전체 생존율 향상과 연관되어 있습니다. 현재 유전자 검사와 조기 발견 기술, 액체 생검 및 인공지능(AI) 기반 위험층화 기법이 통합 발전하고 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Precision Oncology for Pancreatic Ductal Adenocarcinoma: Germline Mutations and High-Risk Surveillance",
+ "title_ko": "췌장관선암의 정밀 종양학: 생식세포 변이와 고위험군 감시 검사",
+ "trial": null,
+ "type": "paper"
+}

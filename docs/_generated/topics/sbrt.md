@@ -43,8 +43,17 @@ search:
 | [수술 전 젬시타빈,  nab-paclitaxel 및 방사선 치료를 병용하는 수술 가능 췌장암 2상 임상시험](../trials/NCT03492671.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암에서 분할 정위체부 방사선 치료와 플루오로우라실 또는 카페시타빈 및 졸레드론산 병용 임상시험](../trials/NCT03073785.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (9)
+## 타임라인 (11)
 
+<a id="pmid-43084717"></a>
+#### [CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells](https://pubmed.ncbi.nlm.nih.gov/43084717/)
+`논문` `2상` `치료 전반` `신약·치료제` `임상시험` · 2026-11-25 · PubMed · Cancer Immunol Res · 중요도 0.78
+
+Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084717/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0643) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084717)</small>
+
+---
 <a id="doi-10.64898-2026.11.18.767683"></a>
 #### [PDAC BioPortal: 췌장암 전사체 다중 규모 분석을 위한 통합 웹 자원](https://europepmc.org/article/PPR/PPR1372089)
 <small>PDAC BioPortal: An Integrated Web Resource for Multi-Scale Analysis of Pancreatic Cancer Transcriptomics</small>
@@ -73,6 +82,22 @@ search:
 - 방사선치료 후 중앙 전체 생존기간(OS)은 17.3개월, 1년 국소 제어율은 75%였습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43035150/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111871) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43035150)</small>
+
+---
+<a id="pmid-43080281"></a>
+#### [수술을 받지 않은 비전이성 췌장선암 환자에서 항암화학방사선치료, 방사선 선량 및 분할 방식과 전체생존기간](https://pubmed.ncbi.nlm.nih.gov/43080281/)
+<small>Chemotherapy plus radiation, radiation dose and fractionation, and overall survival in patients with nonmetastatic pancreatic adenocarcinoma managed without surgery</small>
+
+`논문` `관찰연구` `치료 전반` `수술` · 2026-11-10 · PubMed · Front Oncol · 중요도 0.66
+
+이 연구는 2004년부터 2023년까지 수술을 받지 않은 비전이성 췌장선암(pancreatic adenocarcinoma) 환자 63,261명을 대상으로 항암화학요법(CT)과 방사선치료(RT) 병용, 총 방사선 선량(TD) 및 분할 방식이 전체생존기간(OS)에 미치는 영향을 분석했습니다. 분석 결과, 항암화학요법 단독에 비해 항암화학방사선치료를 받은 환자들에서 전체생존기간이 향상되었습니다. 또한 50~80 Gy의 총 선량을 사용한 5회 분할 정위체부방사선치료(SBRT)와 더 높은 생물학적 등가선량(BED10)이 더 나은 생존 결과와 연관이 있었습니다. 다만 방사선치료의 생존 이점은 추적 관찰 기간에 따라 달라졌습니다.
+
+- 총 63,261명의 환자 중 45,838명은 항암화학요법을, 17,423명은 항암화학방사선치료를 받았습니다.
+- 항암화학방사선치료는 항암화학요법 단독에 비해 전체생존기간 개선과 관련이 있었습니다 (위험비 HR 0.71, 95% 신뢰구간 0.69-0.72, p<0.001).
+- 50~80 Gy의 총 선량을 적용한 5회 분할 정위체부방사선치료(SBRT)는 30~49 Gy를 적용한 경우보다 전체생존기간이 더 우수했습니다 (위험비 HR 0.86, 95% 신뢰구간 0.76-0.97, p=0.01).
+- 항암화학방사선치료의 생존 이점은 2014~2023년 진단 군에서 2004~2013년 진단 군보다 더 컸습니다 (위험비 HR 0.65 대 HR 0.77).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43080281/) · [DOI](https://doi.org/10.3389/fonc.2026.1998444) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13792908/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43080281)</small>
 
 ---
 <a id="pmid-43026914"></a>

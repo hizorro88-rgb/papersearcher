@@ -27,11 +27,11 @@
  "id": "nct:NCT05821556",
  "importance": 0.97,
  "key_points_ko": [
-  "목표 연구 대상 환자는 총 240명입니다.",
-  "1차 전이성 췌장암 환자를 대상으로 항암화학요법 단독 대비 발프로산 및 심바스타틴 병용요법의 무진행 생존기간(PFS) 연장 효과를 평가합니다.",
-  "이전에 전이성 췌장암에 대한 치료 전력이 없어야 합니다."
+  "대상 질환은 치료 전력이 없는 전이성 췌관선암(mPDAC)입니다.",
+  "목표 환자 수는 총 240명입니다.",
+  "시험 치료는 발프로산 및 심바스타틴을 젬시타빈/납-파클리탁셀(및 관련 요법)과 병용하는 방식입니다."
  ],
- "last_updated": "2026-11-25",
+ "last_updated": "2026-11-26",
  "links": {
   "doi": null,
   "nct": [
@@ -54,19 +54,19 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT05821556"
  },
- "summary_ko": "이 연구는 전이성 췌장대장선암(mPDAC) 환자를 대상으로 1차 젬시타빈(gemcitabine) 및 닙-파클리탁셀(nab-paclitaxel) 기반 요법에 발프로산(valproic acid)과 심바스타틴(simvastatin)을 병용하여 효능을 개선하고 무진행 생존기간(PFS)을 연장할 수 있는지 평가하는 2상 임상시험입니다. 공개, 무작위, 다기관, 우월성 개념 검증 연구로 진행됩니다. 목표 인원은 240명이며, 종양 및 혈액 샘플의 상관 분석을 통해 독성 및 효능 바이오마커를 확인하고자 합니다.",
+ "summary_ko": "이 연구는 전이성 췌관선암(mPDAC) 환자를 대상으로 1차 젬시타빈(gemcitabine) 및 납-파클리탁셀(nab-paclitaxel) 기반 치료에 발프로산(valproic acid)과 심바스타틴(simvastatin) 추가의 유효성을 평가하는 무작위 배정 2상 임상시험입니다. 연구진은 두 약물의 병용이 화학요법 단독에 비해 무진행 생존기간(PFS)을 연장할 수 있는지 확인하고자 합니다. 초록에 목표 인원은 240명으로 명시되어 있습니다.",
  "summary_source": "llm",
  "tags": [
   "Metastatic"
  ],
  "title": "Valproic Acid/Simvastatin Plus Gemcitabine/Nab-paclitaxel Based Regimens in Untreated Metastatic Pancreatic Adenocarcinoma Patients",
- "title_ko": "치료 전력이 없는 전이성 췌장암 환자에서 젬시타빈/납-파클리탁셀 기반 요법에 발프로산 및 심바스타틴 병용 임상시험",
+ "title_ko": "치료 전력이 없는 전이성 췌장암 환자에서 젬시타빈/납-파클리탁셀 기반지요법에 발프로산 및 심바스타틴 병용 임상시험",
  "trial": {
   "conditions": [
    "Adenocarcinoma of the Pancreas"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n- 연구 절차 및 상관 연구에 대한 서면 동의\n- 조직학적 또는 세포학적으로 확진된 전이성 췌장관선암(PDAC)\n- PDAC에 대한 이전 치료(항암화학요법, 방사선 치료, 수술) 없음\n- 18세 이상의 성남 및 여성\n- 연구 진입 시 ECOG 수행능력 1 이하\n- RECIST 1.1 기준에 따른 영상으로 확인 가능한 측정 가능 병변\n- PAXG 요법 등록 환자의 경우 디하이드로피리미딘 탈수소효소(DPD) 활성 확인 필수\n- 적절한 골수 혈액학적 기능 (중성구 절대수치 ≥ 1.5 x 10^9/L, 혈소판 ≥ 100 x 10^9/L, 혈색소 ≥ 9 g/dL)\n- 적절한 간 기능 (총 빌리루빈 ≤ 정상치 상한 1.5배 또는 담관 스텐트의 경우 ≤ 2, AST/ALT ≤ 정상치 상한 5배)\n- 적절한 신장 기능 (혈청 크레아티닌 ≤ 1.5 mg/dL 또는 크레아티닌 청소율 남성 ≥ 60 mL/min, 여성 ≥ 50 mL/min)\n\n제외 기준:\n- 1년 이내의 이전 악성 종양 (치유된 피부 기저세포암, 편평세포암, 상피내 자궁경부암 제외)\n- 전이성 PDAC에 대한 이전 항암화학요법 또는 기타 의학적 치료 (6개월 이상 전에 종료된 이전 보조항암화학요법은 허용)\n- 이전 HDAC 억제제 또는 발프로산과 같은 HDAC 억제제 유사 활성 물질 치료 병력이 있는 환자\n- 연구 전 3개월 동안 고콜레스테롤혈증 치료제, 스타틴, 피브레이트 등 사용 중인 환자\n- 스타틴 및 기타 임상시험 약물 성분에 과민증이 있는 환자\n- 등록 전 4주 이내 주요 수술 병력\n- 임신 및 수유부\n- 뇌전이\n- 간염 또는 기타 심각한 간 질환\n- 심각하거나 조절되지 않는 전신 질환\n- 롱 QT 증후군 환자 또는 QTc 간격 > 480 msec\n- 30일 이내 다른 중재적 임상시험 참여 경력\n- 경구 투약 불가 환자, 활성 소화성 궤양 질환 등",
+  "eligibility_ko": "선정 기준:\n- 연구 절차 및 상관 연구에 대한 서면 동의\n- 조직학적 또는 세포학적으로 확진된 전이성 췌관선암(PDAC)\n- PDAC에 대한 이전 치료(화학요법, 방사선 치료, 수술) 없음\n- 18세 이상 성인\n- 연구 진입 시 Eastern Cooperative Oncology Group (ECOG) 수행능력 상태 1 이하\n- RECIST 1.1 기준에 따른 영상학적 측정 가능 병변\n- PAXG 요법 등록 환자의 경우 dihydropyrimidine dehydrogenase (DPD) 활성 확인 필수\n- 적절한 골수, 간, 신장 기능 유지\n\n제외 기준:\n- 1년 이내 다른 악성 종양 병력 (치료된 기저세포암, 편평세포암, 상피내 자궁경부암 제외)\n- 전이성 PDAC에 대한 이전 항암화학요법 또는 기타 약물 치료 (단, 6개월 이전 종료된 보조항암화학요법은 허용)\n- HDAC 억제제 또는 발프로산 등 HDAC 억제제 유사 활성 성분으로 이전 치료를 받은 환자\n- 연구 참여 전 3개월 이내 스타틴, 피브레이트 등 고콜레스테롤혈증 치료제 복용력\n- 스타틴 및 시험 약물 성분에 대한 과민증\n- 등록 전 4주 이내 주요 수술력\n- 임신 및 수유부\n- 뇌전이\n- 간염 또는 중증 간 질환\n- 조절되지 않는 중증 전신 질환\n- 긴 QT 증후군 또는 QTc 간격 연장 환자\n- 경구 약물 투여 불가 환자\n- 30일 이내 다른 중재적 임상시험 참여",
   "eligibility_text": "Inclusion Criteria:\n\n1. Written informed consent to study procedures and to correlative studies.\n2. Histologically or cytologically proven metastatic PDAC.\n3. No prior treatments (chemotherapy, radiation or surgery) for PDAC\n4. Either sex aged ≥ 18 years.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status ≤1 at study entry.\n6. Imaging-documented measurable disease, according to RECIST 1.1 criteria.\n7. Known dihydropyrimidine dehydrogenase (DPD) activity is mandatory for patients enrolled in PAXG scheme.\n8. Adequate bone marrow haematological function: absolute neutrophil count (ANC) ≥ 1.5 x 109/L AND platelet count ≥ 100 x 109/L AND haemoglobin ≥ 9 g/dL.\n9. Adequate liver function: total bilirubin ≤ 1.5 x upper limit of normal (ULN) or ≤ 2 in case of biliary stent) and aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ≤ 5 X ULN.\n10. Adequate renal function: serum creatinine ≤ 1.5 mg/dL OR creatinine clearance ≥ 60 mL/min in males and ≥50 mL/min in females (calculated according to Cockroft-Gault formula).\n\nExclusion Criteria:\n\n1. Prior malignancy within one year. Exceptions include basal cell carcinoma of the skin or squamous cell carcinoma of the skin that has undergone potentially curative therapy or in situ cervical cancer.\n2. Prior chemotherapy or any other medical treatment for metastatic PDAC (previous adjuvant chemotherapy is allowed if terminated \\> 6 months previously).\n3. Patients who have had prior treatment with an HDAC inhibitor and patients who have received compounds with HDAC inhibitor-like activity, such as valproic acid.\n4. Current use of statins or fibrates or any medication for hypercholesterolemia for any time during the 3 months before the study.\n5. Proven hypersensitivity to statins and to any component of the other medications used in the trial.\n6. Major surgical intervention within 4 weeks prior to enrollment;\n7. Pregnancy and breast-feeding.\n8. Brain metastasis.\n9. Hepatitis or any severe liver disorder.\n10. Evidence of severe or uncontrolled systemic disease or any concurrent condition which in the investigator's opinion makes it undesirable for the patient to participate in the study, or which would jeopardize compliance with the protocol, or would interfere with the results of the study.\n11. Patients with long QT-syndrome or QTc interval duration \\> 480 msec or concomitant medication with drugs prolonging QTc (see list in the appendix).\n12. History of poor co-operation, non-compliance with medical treatment, unreliability or any condition that may impair the patient's understanding of the Informed consent form.\n13. Participation in any interventional drug or medical device study within 30 days prior to treatment start.\n14. Patients who cannot take oral medication, who require intravenous alimentation, have had prior surgical procedures affecting absorption, or have active peptic ulcer disease.\n15. Sexually active males and females (of childbearing potential) unwilling to practice contraception during the study and until 6 months after the last trial treatment.",
   "enrollment": 240,
   "has_results": false,
@@ -91,14 +91,14 @@
    "key_exclusions_ko": [
     "뇌전이",
     "1년 이내 다른 암 병력",
-    "임신 및 수유부",
-    "스타틴 또는 HDAC 억제제 계열 약물 최근 복용력",
-    "심각한 간 질환 또는 심장 질환(롱 QT 증후군 등)"
+    "활동성 간염 또는 중증 간 질환",
+    "긴 QT 증후군 또는 QTc 간격 연장",
+    "스타틴 등 고콜레스테롤혈증 치료제 최근 복용력"
    ],
    "max_prior_lines": 0,
    "measurable_required": true,
    "min_prior_lines": 0,
-   "notes_ko": "이전 치료력이 없고 1차 치료를 앞둔 전이성 췌장암 환자",
+   "notes_ko": "이전 치료력이 없는 전이성 췌장암 환자를 위한 임상시험입니다.",
    "prior_excluded": [
     "gemcitabine",
     "FOLFIRINOX",
@@ -107,7 +107,6 @@
     "irinotecan",
     "taxane",
     "immunotherapy",
-    "KRAS_inhibitor",
     "radiotherapy"
    ],
    "prior_required": [],

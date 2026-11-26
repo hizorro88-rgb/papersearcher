@@ -17,12 +17,13 @@ search:
 - 종류: 시술·수술
 - 별칭: Whipple, pancreaticoduodenectomy, pancreatoduodenectomy, 췌두십이지장절제술, 휘플
 
-## 관련 임상시험 (11)
+## 관련 임상시험 (12)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
-| [췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](../trials/NCT07946380.md) | 해당 없음 | 모집 중 | - |
+| [췌장 췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](../trials/NCT07946380.md) | 해당 없음 | 모집 중 | - |
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
+| [SURGIMEDIA: 멀티미디어 활용을 통한 수술 동의서 절차 강화 연구](../trials/NCT07494994.md) | 해당 없음 | 일시 중단 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
@@ -33,8 +34,23 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (37)
+## 타임라인 (39)
 
+<a id="pmid-43081717"></a>
+#### [호주 임상 품질 등록 데이터를 활용한 췌두십이지장 절제술 벤치마킹: 예비 벤치마크 및 데이터 확장 필요성](https://pubmed.ncbi.nlm.nih.gov/43081717/)
+<small>Benchmarking Pancreaticoduodenectomy in Australia Using Clinical Quality Registry Data: Preliminary Benchmarks and a Need for Data Expansion</small>
+
+`논문` `관찰연구` `수술` · 2026-11-25 · PubMed · J Surg Oncol · 중요도 0.77
+
+호주 내 췌장암 등록 데이터베이스 2곳의 자료를 바탕으로 췌두십이지장 절제술(PD) 수술 성과 벤치마크를 수립하고자 진행된 후향적 코호트 연구입니다. 췌관선암(PDAC)으로 수술을 받은 환자 1,098명(등록 A: 18개 병원 602명, 등록 B: 15개 병원 496명)의 데이터를 분석했습니다. 림프절 채취 수, 미세학적 양성 수술 절제면(R1) 비율, 입원 중 사망률, 30일 이내 재입원율 및 생존율을 평가하였으며 국제 기준과 유사한 결과를 나타냈습니다. 이는 호주 내 췌두십이지장 절제술에 대한 첫 수술 성과 벤치마크를 제시하고 향후 핵심 지표 확장의 필요성을 확인했습니다.
+
+- 호주 2개 등록 데이터베이스에서 췌관선암으로 췌두십이지장 절제술을 받은 환자 총 1,098명의 데이터를 후향적으로 분석했습니다.
+- 평가 항목으로 림프절 채취 수, R1 절제면 상태, 입원 중 사망률, 30일 내 재입원율, 생존율 등이 분석에 포함되었습니다.
+- 분석된 호주의 수술 성과 지표는 기존 국제 벤치마크 수치와 유사한 수준이었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43081717/) · [DOI](https://doi.org/10.1002/jso.70462) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43081717)</small>
+
+---
 <a id="pmid-43040170"></a>
 #### [국소 진행성 췌장암 수술 시 장간막문맥 단락술: 종양혈관 췌장 수술을 위한 표준화된 접근법의 결과](https://pubmed.ncbi.nlm.nih.gov/43040170/)
 <small>Mesentericoportal Venous Shunting in Surgery for Locally Advanced Pancreatic Tumors: Results of a Standardized Approach for Oncovascular Pancreatic Surgery</small>
@@ -79,6 +95,21 @@ search:
 - 수술 후 병리 검사에서 잔여 암세포가 최종 확진되어 치료 반응 평가 시 CT, PET/CT, MRI 등 다중 영상 검사의 통합적 활용이 필수적임을 입증했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43060808/) · [DOI](https://doi.org/10.1016/j.radcr.2026.10.041) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13782917/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43060808)</small>
+
+---
+<a id="pmid-43080366"></a>
+#### [고위험 센터에서 췌관선암에 대한 복강경 췌십이지장절제술 후 교과서적 결과 및 영향 요인](https://pubmed.ncbi.nlm.nih.gov/43080366/)
+<small>Textbook outcomes and influencing factors after laparoscopic pancreatoduodenectomy for pancreatic ductal adenocarcinoma in a high-volume center</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-11-10 · PubMed · Front Oncol · 중요도 0.72
+
+본 연구는 복강경 췌십이지장절제술(LPD)을 받은 췌관선암(PDAC) 환자 334명을 대상으로 교과서적 결과(TO) 달성 여부와 그 예측 요인을 평가했습니다. TO는 수술 후 합병증, 누출, 재입원, 사망 등이 없고 재원 기간이 짧은 이상적인 수술 결과를 의미합니다. 분석 결과, TO 그룹은 비-TO 그룹에 비해 1년, 3년, 5년 전체 생존기간(OS)이 유의하게 높았습니다. 수술 시간 360분 초과, 말랑한 췌장 질감, 작은 주췌관 직경은 TO 달성 실패의 독립적인 위험 요인으로 확인되었습니다.
+
+- 총 334명의 환자 중 220명이 교과서적 결과(TO)를 달성했으며, 114명은 달성하지 못했습니다.
+- TO 그룹은 1년, 3년, 5년 전체 생존기간(OS)이 유의하게 더 높았습니다(p = 0.044).
+- 수술 시간 >360분, 말랑한 췌장 질감, 주췌관 직경 ≤3 mm는 TO 달성 실패의 독립적인 위험 요인입니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43080366/) · [DOI](https://doi.org/10.3389/fonc.2026.1881681) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13793194/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43080366)</small>
 
 ---
 <a id="pmid-43004858"></a>

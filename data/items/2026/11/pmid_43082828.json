@@ -1,0 +1,54 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a major therapeutic challenge, with limited improvement in outcomes and substantial heterogeneity in treatment response. Systemic chemotherapy remains a cornerstone of treatment across disease stages, yet treatment selection, particularly in metastatic PDAC (mPDAC), is still driven predominantly by clinical characteristics, performance status, prior therapy, and a limited number of molecular biomarkers. The emergence of biomarker-directed therapies, including strategies targeting oncogenic KRAS alterations, demonstrates the potential of molecularly informed treatment selection but also highlights the need to identify which therapy is most likely to benefit an individual patient at a specific clinical decision point. Recent advances in artificial intelligence (AI), multi-omics profiling, digital pathology, and prospective therapeutic trials provide an opportunity to develop comprehensive precision-treatment strategies. Existing AI approaches, including PASS-01/MULTIPL, PDACai, and CHAI, provide important foundations but remain constrained by limitations in prognostic versus predictive modeling, reliance on predominantly static or correlational representations, limited mechanistic interpretability, and incomplete integration of treatment effects and evolving tumor biology. In this narrative review, we propose a conceptual framework for individualized treatment selection in mPDAC that integrates multiscale biological and clinical data, mechanistic graph-based pathway representations, multimodal transformer models, and causal estimation of individualized treatment effects. This framework shifts AI-enabled precision oncology from static biomarker prediction toward mechanistically informed, uncertainty-aware, causally grounded treatment selection, with the potential to adapt as tumor biology, therapeutic options, and clinical evidence evolve. Although initially focused on mPDAC, the framework provides a generalizable architecture for individualized treatment selection across other biologically heterogeneous cancers.",
+ "authors": [
+  "Wan S",
+  "Georgakopoulos-Soares I",
+  "Yee NS"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43082828",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3390/jpm16110580",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43082828"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Pers Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43082828/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains a major therapeutic challenge, with limited improvement in outcomes and substantial heterogeneity in treatment response. Systemic chemotherapy remains a cornerstone of treatment across disease stages, yet treatment selection, particularly in metastatic PDAC (mPDAC), is still driven predominantly by clinical characteristics, performance status, prior therapy, and a limited number of molecular biomarkers.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Treatment Selection in Pancreatic Ductal Adenocarcinoma: A Conceptual Framework for Precision Therapy",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -16,12 +16,52 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 46건 · 최근 30일 22건
+전체 49건 · 최근 30일 25건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
+<a id="doi-10.21203-rs.3.rs-11558725-v1"></a>
+#### [Nodal Irradiation in Pancreatic Cancer: A Systematic Review and Meta-Analysis](https://europepmc.org/article/PPR/PPR1377193)
+`프리프린트` `메타분석` `치료 전반` `제약사·규제` `임상시험` `수술` · 2026-11-25 · Europe PMC (preprint) · Research Square · 중요도 0.79
+
+<title>Abstract</title>  <p>  <bold>PURPOSE:</bold>  Clinical target volumes for radiotherapy in non-metastatic pancreatic cancer (NMPC) remain a topic of debate, particularly between involved-field radiotherapy (IFRT) and elective nodal irradiation (ENI). This study aims to synthesize the current evidence on both approaches in the context of neoadjuvant/definitive chemoradiation for non-metastatic disease.
+
+<small>[원문](https://europepmc.org/article/PPR/PPR1377193) · [DOI](https://doi.org/10.21203/rs.3.rs-11558725/v1) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.21203/rs.3.rs-11558725/v1)</small>
+
+---
+<a id="pmid-43084210"></a>
+#### [문맥 종양 혈전을 동반한 췌장 미분화암](https://pubmed.ncbi.nlm.nih.gov/43084210/)
+<small>Undifferentiated carcinoma of the pancreas with portal vein tumor thrombus</small>
+
+`논문` `증례` `치료 전반` `기초연구` `수술` `제약사·규제` · 2026-11-25 · PubMed · Clin J Gastroenterol · 중요도 0.64
+
+이 논문은 문맥 종양 혈전(PVTT)을 동반한 희귀한 췌장 미분화암(UC) 환자 1명의 증례를 보고합니다. 72세 여성 환자가 근치적 목적의 절제술을 받았으나, 수술 후 1개월 만에 다발성 간 전이가 발생했습니다. 전신 항암 치료에도 불구하고 병은 진행되었고, 환자는 수술 후 6개월 만에 사망했습니다. 저자들은 수술 단독으로는 지속적인 질병 조달이 불충분할 수 있음을 시사했습니다.
+
+- 72세 여성 환자가 췌장 체미부에 86mm 크기의 종양과 문맥계로 확장된 종양 혈전을 진단받았습니다.
+- 절제면 음성(R0)으로 근치적 절제술을 시행했으나, 수술 후 1개월 만에 다발성 간 전이가 발생했습니다.
+- 포괄적 유전체 프로파일링에서 임상적으로 적용 가능한 변이는 발견되지 않았습니다.
+- 환자는 수술 후 6개월 만에 사망했습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084210/) · [DOI](https://doi.org/10.1007/s12328-026-02494-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084210)</small>
+
+---
+<a id="pmid-43078510"></a>
+#### [췌관선암에서 복막 세척 세포진 검사의 예후적 가치: 체계적 문헌고찰 및 메타분석 연구 계획서](https://pubmed.ncbi.nlm.nih.gov/43078510/)
+<small>Prognostic value of peritoneal washing cytology in pancreatic ductal adenocarcinoma: protocol for a systematic review and meta-analysis</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-24 · PubMed · BMJ Open · 중요도 0.62
+
+본 논문은 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 복막 세척 세포진 검사(Peritoneal Washing Cytology)의 예후적 가치를 평가하기 위한 체계적 문헌고찰(Systematic Review) 및 메타분석(Meta-analysis) 연구 계획서입니다. 복막 세척 세포진 검사 결과가 환자의 예후 및 생존율에 미치는 영향을 검증하고자 합니다. 연구 계획서 논문으로 구체적인 분석 결과 및 수치는 초록에 명시되지 않았습니다.
+
+- 췌관선암 환자에서 복막 세척 세포진 검사의 예후 평가 가치를 확인하기 위한 연구 계획서입니다.
+- 체계적 문헌고찰과 메타분석 방법을 통해 기존 연구 데이터를 종합 분석할 예정입니다.
+- 세부 연구 결과 및 최종 결론은 연구 계획 단계이므로 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43078510/) · [DOI](https://doi.org/10.1136/bmjopen-2026-126964) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43078510)</small>
+
+---
 <a id="pmid-43072801"></a>
 #### [두 차례 진단 실패 후 전문가 병리 검토가 필요했던 췌장 꼬리 소질환: 분지형 췌관 내 관상유두상 종양 양상 성장을 동반한 혼합 도관-신경내분비암](https://pubmed.ncbi.nlm.nih.gov/43072801/)
 <small>Small hypovascular pancreatic tail mass requiring expert pathological review after two non-diagnostic endoscopic ultrasound-guided tissue acquisition procedures: mixed ductal-neuroendocrine carcinoma with branch-duct intraductal tubulopapillary neoplasm-like growth</small>

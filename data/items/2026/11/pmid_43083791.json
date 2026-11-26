@@ -1,0 +1,58 @@
+{
+ "abstract": "Dendritic cells (DCs) coordinate antigen presentation and immune-effector activation, but vaccine-induced immune responses have not consistently translated into clinical benefit. This focused narrative review evaluates therapeutic vaccination in established pancreatic cancer and potential adjuvant use after resection, with emphasis on CD34+ progenitor-derived allogeneic DCs engineered to express CD93, CD40 ligand (CD40L), and CXCL13. We develop an integrated framework linking the proposed functions of individual transgenes to donor-recipient-tumor human leukocyte antigen (HLA) compatibility, the strength of the preclinical evidence, and product-specific requirements for translation. Humanized-mouse studies report lymphocyte activation and reduced tumor burden with the complete construct; they do not establish the independent contribution of each transgene. In the advanced-disease experiment, only three animals were included per group, and the late absence of detectable bioluminescence was observed in one surviving treated animal. Tumor-antigen-specific killing has not been conclusively separated from alloreactivity, and CXCL13 expression does not establish functional tertiary lymphoid structures. Clinical studies are compared by cell source, antigen preparation, treatment strategy, and outcome, with RNA vaccines identified separately as contextual comparators. Priorities include controlled component testing, recipient-compatible antigen recognition, reproducible post-thaw potency, and pancreatic-model evaluation of chemotherapy sequencing and conditional checkpoint combinations. These findings support further investigation, while safety and clinical benefit of the three-gene product remain unestablished.",
+ "authors": [
+  "Kaur K"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43083791",
+ "importance": 0.62,
+ "key_points_ko": [
+  "CD93, CD40L, CXCL13을 발현하는 CD34+ 전구세포 유래 동종 수지상세포 백신을 평가했습니다.",
+  "인간화 마우스 연구에서 림프구 활성화와 종양 부담 감소가 관찰되었으나 각 유전자의 독자적 기여는 입증되지 않았습니다.",
+  "진행성 질환 실험에서는 그룹당 단 3마리의 동물만 포함되었으며 1마리의 생존 동물에서 후기 생물발광 소실이 관찰되었습니다.",
+  "3유전자 백신의 안전성과 임상적 혜택은 아직 확립되지 않았습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.3390/vaccines14110961",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43083791"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-05",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Vaccines (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43083791/"
+ },
+ "summary_ko": "이 논문은 췌장암 치료 및 수술 후 보조요법으로서의 수지상세포(DC) 백신을 검토한 서사적 문헌고찰입니다. 특히 CD93, CD40 리간드(CD40L), CXCL13을 발현하도록 유전자 조작된 CD34+ 전구세포 유래 동종 수지상세포에 주목했습니다. 인간화 마우스 연구에서는 림프구 활성화와 종양 부담 감소가 보고되었으나 각 도입유전자의 독자적 기여는 확립되지 않았습니다. 현재 3유전자 백신의 안전성과 임상적 혜택은 아직 입증되지 않았으며 추가 연구가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Engineered Allogeneic Dendritic Cell Vaccines: Coordinating Antitumor Immunity and Advancing Translation in Pancreatic Cancer",
+ "title_ko": "유전자 조작 동종 수지상세포 백신: 췌장암에서의 항종양 면역 조정과 임상 적용 발전",
+ "trial": null,
+ "type": "paper"
+}

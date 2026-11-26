@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Undifferentiated carcinoma (UC) of the pancreas is a rare histological subtype characterized by aggressive clinical behavior and poor prognosis. Portal vein tumor thrombus (PVTT) is uncommon in pancreatic cancer; thus, its clinical significance and optimal management remain unclear. We report a case of pancreatic UC with PVTT treated with curative-intent resection.\nCASE PRESENTATION: A 72-year-old woman presented with an 86-mm tumor in the pancreatic body and tail without distant metastases. A tumor thrombus contiguous with the primary tumor extended through the splenic vein into the portal venous system. Endoscopic ultrasonography-guided tissue acquisition led to a preoperative diagnosis of pancreatic UC. The primary tumor and PVTT were resected en bloc with the portal venous confluence. Histopathological examination revealed UC composed of pleomorphic and spindle cell components with negative resection margins. However, multiple liver metastases developed 1 month postoperatively and progressed despite systemic chemotherapy. Comprehensive genomic profiling identified no clinically actionable alterations, and the patient died 6 months after surgery.\nCONCLUSION: The rapid development of liver metastases despite R0 resection suggests that surgery alone may be insufficient to achieve durable disease control. Further cases are needed to clarify the prognosis of UC with PVTT and establish optimal multimodal treatment strategies.",
+ "authors": [
+  "Une N",
+  "Ohta M",
+  "Fukuoka K",
+  "Maida K",
+  "Niizuma N",
+  "Takahashi K",
+  "Sakamoto K",
+  "Kamba R"
+ ],
+ "categories": [
+  "treatment",
+  "basic",
+  "surgery",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "case",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43084210",
+ "importance": 0.64,
+ "key_points_ko": [
+  "72세 여성 환자가 췌장 체미부에 86mm 크기의 종양과 문맥계로 확장된 종양 혈전을 진단받았습니다.",
+  "절제면 음성(R0)으로 근치적 절제술을 시행했으나, 수술 후 1개월 만에 다발성 간 전이가 발생했습니다.",
+  "포괄적 유전체 프로파일링에서 임상적으로 적용 가능한 변이는 발견되지 않았습니다.",
+  "환자는 수술 후 6개월 만에 사망했습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1007/s12328-026-02494-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43084210"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin J Gastroenterol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43084210/"
+ },
+ "summary_ko": "이 논문은 문맥 종양 혈전(PVTT)을 동반한 희귀한 췌장 미분화암(UC) 환자 1명의 증례를 보고합니다. 72세 여성 환자가 근치적 목적의 절제술을 받았으나, 수술 후 1개월 만에 다발성 간 전이가 발생했습니다. 전신 항암 치료에도 불구하고 병은 진행되었고, 환자는 수술 후 6개월 만에 사망했습니다. 저자들은 수술 단독으로는 지속적인 질병 조달이 불충분할 수 있음을 시사했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Undifferentiated carcinoma of the pancreas with portal vein tumor thrombus",
+ "title_ko": "문맥 종양 혈전을 동반한 췌장 미분화암",
+ "trial": null,
+ "type": "paper"
+}

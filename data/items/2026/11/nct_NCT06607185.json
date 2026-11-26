@@ -18,11 +18,11 @@
  "id": "nct:NCT06607185",
  "importance": 0.7,
  "key_points_ko": [
-  "특정 KRAS 변이(G12C, G12D, G12V, G12A, G12S, G13D)를 가진 진행성 또는 전이성 고형암 환자 750명을 대상으로 합니다.",
-  "LY4066434 단독 요법 및 기존 항암제(세툭시맙, 젬시타빈, 옥살리플라틴 등)와의 병용 요법의 안전성을 평가합니다.",
-  "ECOG 수행능력 평가 점수가 0~1점인 환자가 참여 대상입니다."
+  "대상 질환에는 췌장암(췌관선암, Pancreatic Ductal Adenocarcinoma)이 포함됩니다.",
+  "연구의 주요 목적은 LY4066434의 안전성과 내약성을 평가하는 것입니다.",
+  "임상시험은 단독요법 용량 증량과 용량 최적화의 2가지 부분으로 구성됩니다."
  ],
- "last_updated": "2026-11-25",
+ "last_updated": "2026-11-26",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT06607185"
  },
- "summary_ko": "본 임상시험은 특정 KRAS 유전자 변이가 있는 국소 진행성 또는 전이성 고형암 환자를 대상으로 범-KRAS(Pan-KRAS) 억제제인 LY4066434의 안전성과 내약성을 평가하기 위한 1상 연구입니다. LY4066434를 단독 투여하거나 다른 항암 치료제와 병용 투여하여 효능과 적정 용량을 확인합니다. 임상시험은 용량 증량 단계와 용량 최적화 단계로 나뉘어 진행됩니다. 총 750명의 환자를 대상으로 약 5년 동안 진행될 예정입니다.",
+ "summary_ko": "이 연구는 특정 KRAS 변이가 있는 국소 진행성 또는 전이성 고형암 환자를 대상으로 시험약인 LY4066434의 안전성과 내약성을 평가하기 위한 임상시험입니다. LY4066434는 단독으로 투여되거나 다른 치료법과 병용하여 투여됩니다. 연구는 단독요법 용량 증량 및 용량 최적화의 2가지 부분으로 진행됩니다. 목표 인원은 750명입니다.",
  "summary_source": "llm",
  "tags": [
   "KRAS",
@@ -60,7 +60,7 @@
   "Targeted therapy"
  ],
  "title": "A Study of the Pan-KRAS Inhibitor LY4066434 in Participants With KRAS Mutant Solid Tumors",
- "title_ko": "KRAS 변이 고형암 환자를 대상으로 한 범-KRAS 억제제 LY4066434의 1상 임상시험",
+ "title_ko": "KRAS 변이 고형암 환자를 위한 범 KRAS 억제제 LY4066434 연구",
  "trial": {
   "conditions": [
    "Pancreatic Ductal Adenocarcinoma",
@@ -70,7 +70,7 @@
    "Metastatic Solid Tumor"
   ],
   "contacts": [],
-  "eligibility_ko": "선정 기준:\n• 종양 조직 또는 순환 종양 DNA(ctDNA)에서 KRAS G12C, G12D, G12V, G12A, G12S 또는 G13D 변이가 확인된 환자\n• 조직학적 또는 세포학적으로 확진된 국소 진행성, 수술 불가능 및/또는 전이성 고형암 환자\n• RECIST 1.1 기준 측정 가능한 병변이 있는 환자\n• ECOG 수행능력 평가 점수가 0점 또는 1점인 환자\n• 경구 약물(알약)을 삼킬 수 있는 환자\n• 증상이 없거나 치료된 중추신경계(CNS) 질환 환자\n\n제외 기준:\n• 활동성 중추신경계 전이 또는 암성 뇌수막염이 있는 환자\n• 이전 치료로 인한 부작용이 1등급 이하로 회복되지 않은 환자(탈모, 청력 손실, 말초신경병증 등 제외)\n• 불안정 형통, 심근경색, 심부전 등 유의미한 심혈관 질환이 있는 환자\n• 활동성 B형 간염, C형 간염 또는 치료되지 않은 HIV 감염 환자\n• 스테로이드 치료가 필요했던 비감염성 간질성 폐질환 병력이 있거나 현재 임상적으로 유의한 폐질환이 있는 환자",
+  "eligibility_ko": "선정 기준:\n- 종양 조직 또는 순환 종양 DNA에서 KRAS G12C, G12D, G12V, G12A, G12S 또는 G13D 변이 증거가 있는 환자\n- 조직학적 또는 세포학적으로 진단된 국소 진행성, 절제 불가능 및/또는 전이성 고형암 환자\n- RECIST 1.1에 따른 측정 가능한 병변이 있는 환자\n- ECOG 수행능력이 1 이하인 환자\n- 알약(정제)을 삼킬 수 있는 환자\n- 무증상 또는 치료된 중추신경계(CNS) 질환 환자 참여 가능\n\n제외 기준:\n- 알려진 활성 중추신경계 전이 및/또는 수막 암종증이 있는 환자\n- 탈모, 청력 손실, 말초 신경병증 및 조절 중인 내분비 질환을 제외하고 이전 치료로 인한 미해결 독성이 NCI CTCAE v5.0 기준 1등급을 초과하는 환자\n- 불안정형 협심증, 급성 관상동맥 증후군, 심근경색 병력, 좌심실 구혈률 이상 또는 심부전, 조절되지 않거나 증상이 있는 부정맥 등의 중대한 심혈관 질환이 있는 환자\n- 활성 B형 간염, C형 간염 또는 치료되지 않은 HIV 감염이 있는 환자\n- 2년 초과의 기대 여명을 가지고 관해 상태가 아닌 다른 활성 악성 종양이 있는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Have evidence of KRAS G12C, G12D, G12V, G12A, G12S, or G13D mutation in tumor tissue or circulating tumor DNA\n* Histological or cytologically proven diagnosis of a locally advanced, unresectable, and/or metastatic solid tumor cancer\n* Have measurable disease per RECIST 1.1\n* Have an ECOG performance status of ≤1\n* Must not be pregnant and/or planning to breastfeed during the trial or within 180 days of the last dose of trial intervention\n* Must be able to swallow tablets\n* Participants with asymptomatic or treated CNS disease may be eligible\n\nExclusion Criteria:\n\n* Have known active CNS metastases and/or carcinomatous meningitis\n* Have any unresolved toxicities from prior therapy greater than NCI CTCAE Version 5.0 Grade 1 at the time of starting trial treatment, except for alopecia, hearing loss, peripheral neuropathy and ongoing endocrinopathies controlled on appropriate replacement therapy\n* Have significant cardiovascular disease defined as unstable angina or acute coronary syndrome, history of myocardial infarction, known left ventricular ejection fraction or heart failure, uncontrolled or symptomatic arrhythmias.\n* Have known active hepatitis B virus (HBV), hepatitis C virus (HCV) or untreated HIV infection\n* Have other active malignancy unless in remission with life expectancy greater than 2 years.\n* Have active uncontrolled systemic bacterial, viral, fungal, or parasitic infection\n* Have history of non-infectious pneumonitis/interstitial lung disease that received steroids or has current clinically significant pneumonitis/interstitial lung disease",
   "enrollment": 750,
   "has_results": false,
@@ -106,19 +106,20 @@
     "KRAS_G12C",
     "KRAS_G12D",
     "KRAS_G12V",
-    "KRAS_mutant"
+    "other"
    ],
    "ecog_max": 1,
    "key_exclusions_ko": [
-    "활동성 뇌전이 또는 암성 뇌수막염",
-    "불안정 형통, 심근경색, 심부전 등 심혈관 질환",
-    "활동성 B형/C형 간염 또는 치료되지 않은 HIV 감염",
-    "간질성 폐질환 병력 또는 현재 유의한 폐렴이 있는 경우"
+    "활성 중추신경계(뇌) 전이",
+    "중대한 심혈관 질환 병력",
+    "활성 B형·C형 간염 또는 치료되지 않은 HIV 감염",
+    "다른 활성 악성 종양",
+    "활동성 감염"
    ],
    "max_prior_lines": null,
    "measurable_required": true,
    "min_prior_lines": null,
-   "notes_ko": "KRAS 변이(G12C, G12D, G12V 등)가 확인된 국소 진행성 또는 전이성 췌장암 환자",
+   "notes_ko": "특정 KRAS 변이(G12C, G12D, G12V 등)가 있는 국소 진행성 또는 전이성 고형암 환자를 위한 시험입니다.",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

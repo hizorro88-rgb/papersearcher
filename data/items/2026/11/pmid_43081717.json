@@ -1,0 +1,61 @@
+{
+ "abstract": "INTRODUCTION: Benchmarking surgical outcomes using local data is a key component of healthcare quality improvement. International groups have outlined a range of benchmarks for pancreaticoduodenectomy (PD) but there are currently no benchmarks using Australian data. This study aimed to use existing Australian registry data to develop benchmarks for PD.\nMETHODS: Retrospective cohort study based on existing data from two pancreatic cancer registries in Australia-the Upper Gastrointestinal Cancer Registry and the Pancreatic Cancer: Understanding Routine Practice and Lifting End Results Registry. Established methodologies were used to develop benchmarks for surgical outcomes for patients undergoing PD for pancreatic ductal adenocarcinoma (PDAC) for each registry, de-identified to Registry A and B.\nRESULTS: Registry A included 602 PDAC patients from 18 hospitals, and Registry B included 496 patients from 15 hospitals. The surgical outcomes available to benchmark for Registry A were lymph node yield and microscopically positive surgical margin (R1) status. Registry B had these outcomes in addition to inpatient mortality, readmission rate (within 30 days), and survival. Results were similar to international comparisons.\nCONCLUSION: This study presents the first published benchmarks for PD in Australia, representing the best currently available data and showcasing the substantial work of existing Australian registries, while also highlighting that there are substantial opportunities for dataset expansion. Locally developed benchmarks for the outcomes specified as core indicators by international bodies should be the minimum goal, with collection of other key outcomes providing richer data.",
+ "authors": [
+  "Lockie E",
+  "Gibbs P",
+  "Skandarajah A",
+  "Zalcberg J",
+  "Lee B",
+  "Loveday BP"
+ ],
+ "categories": [
+  "surgery"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-26",
+ "history": [
+  {
+   "date": "2026-11-26",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43081717",
+ "importance": 0.77,
+ "key_points_ko": [
+  "호주 2개 등록 데이터베이스에서 췌관선암으로 췌두십이지장 절제술을 받은 환자 총 1,098명의 데이터를 후향적으로 분석했습니다.",
+  "평가 항목으로 림프절 채취 수, R1 절제면 상태, 입원 중 사망률, 30일 내 재입원율, 생존율 등이 분석에 포함되었습니다.",
+  "분석된 호주의 수술 성과 지표는 기존 국제 벤치마크 수치와 유사한 수준이었습니다."
+ ],
+ "last_updated": "2026-11-26",
+ "links": {
+  "doi": "10.1002/jso.70462",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43081717"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43081717/"
+ },
+ "summary_ko": "호주 내 췌장암 등록 데이터베이스 2곳의 자료를 바탕으로 췌두십이지장 절제술(PD) 수술 성과 벤치마크를 수립하고자 진행된 후향적 코호트 연구입니다. 췌관선암(PDAC)으로 수술을 받은 환자 1,098명(등록 A: 18개 병원 602명, 등록 B: 15개 병원 496명)의 데이터를 분석했습니다. 림프절 채취 수, 미세학적 양성 수술 절제면(R1) 비율, 입원 중 사망률, 30일 이내 재입원율 및 생존율을 평가하였으며 국제 기준과 유사한 결과를 나타냈습니다. 이는 호주 내 췌두십이지장 절제술에 대한 첫 수술 성과 벤치마크를 제시하고 향후 핵심 지표 확장의 필요성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Benchmarking Pancreaticoduodenectomy in Australia Using Clinical Quality Registry Data: Preliminary Benchmarks and a Need for Data Expansion",
+ "title_ko": "호주 임상 품질 등록 데이터를 활용한 췌두십이지장 절제술 벤치마킹: 예비 벤치마크 및 데이터 확장 필요성",
+ "trial": null,
+ "type": "paper"
+}

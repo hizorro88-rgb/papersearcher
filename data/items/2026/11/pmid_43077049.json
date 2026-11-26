@@ -11,8 +11,8 @@
   "Weber SM"
  ],
  "categories": [
-  "surgery",
-  "treatment"
+  "treatment",
+  "surgery"
  ],
  "entities": [],
  "evidence": "observational",
@@ -26,7 +26,12 @@
  ],
  "id": "pmid:43077049",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 222명의 환자(중앙값 연령 66세, 여성 45%, 농어촌 거주 40%)가 분석에 포함되었습니다.",
+  "주요 병리학적 반응은 전체 환자의 13.1%에서 발생했습니다.",
+  "농어촌 거주는 주요 병리학적 반응의 낮은 오즈비를 보였습니다 (OR 0.33, 95% CI 0.12-0.82).",
+  "3기 질환은 1기에 비해 주요 병리학적 반응의 더 높은 오즈비를 보였습니다 (OR 4.03, 95% CI 1.38-11.82)."
+ ],
  "last_updated": "2026-11-25",
  "links": {
   "doi": "10.1007/s12029-026-01624-6",
@@ -48,11 +53,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43077049/"
  },
- "summary_ko": "BACKGROUND: Pathologic response (PR) to neoadjuvant chemotherapy (NACT) in pancreatic ductal adenocarcinoma (PDAC) is prognostic, yet the influence of social determinants of health (SDoH) remains unclear. This study evaluated associations between SDoH and PR among patients undergoing curative-intent pancreatectomy for PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌관선암(PDAC) 환자를 대상으로 사회경제적 건강 결정요인(SDoH)과 선행화학요법(NACT) 후의 병리학적 반응(PR) 간의 연관성을 평가했습니다. 2017년부터 2024년까지 단일 대학 센터에서 선행화학요법 후 수술을 받은 222명의 환자를 후향적으로 분석했습니다. 분석 결과, 전체 환자의 13.1%에서 주요 병리학적 반응이 관찰되었습니다. 다변량 분석에서 농어촌 거주(rural residence)는 주요 병리학적 반응의 낮은 확률을 예측했으며, 3기 질환은 1기에 비해 높은 확률을 예측했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Beyond Socioeconomic Status: Rural Residence as a Driver of Diminished Neoadjuvant Response in Pancreatic Cancer",
- "title_ko": null,
+ "title_ko": "사회경제적 지위를 넘어서: 췌장암 환자에서 농어촌 거주가 선행화학요법 반응 저하의 원인으로 작용함",
  "trial": null,
  "type": "paper"
 }

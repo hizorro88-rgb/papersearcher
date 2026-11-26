@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,435</b><span>누적 수집<br><small>논문·소식 829 · 임상시험 606</small></span></div><div class="ps-stat"><b>+23</b><span>오늘 신규<br><small>갱신 23건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,462</b><span>누적 수집<br><small>논문·소식 855 · 임상시험 607</small></span></div><div class="ps-stat"><b>+27</b><span>오늘 신규<br><small>갱신 32건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-25](_generated/daily/2026/11/25.md)
+최근 수집일: [2026-11-26](_generated/daily/2026/11/26.md)
 
 <a id="nct-nct07491445"></a>
 #### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
@@ -20,18 +20,18 @@
 
 ---
 <a id="nct-nct07562152"></a>
-#### [전이성 췌장암 환자의 1차 치료로서 Atebimetinib과 GnP 병용 요법 평가](https://clinicaltrials.gov/study/NCT07562152)
+#### [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](https://clinicaltrials.gov/study/NCT07562152)
 <small>Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
 
 `임상시험` `3상` `신약·치료제` `치료 전반` `진단·조기발견` · 2026-05-01 · ClinicalTrials.gov · Immuneering Corporation · 중요도 1.00
 
 **NCT07562152** · 3상 · 모집 중 · 국내 1곳 · [참여 조건·기관 보기](_generated/trials/NCT07562152.md)
 
-이 연구는 전이성 췌관선암(metastatic pancreatic adenocarcinoma) 환자 570명을 대상으로 1차 치료에서 atebimetinib과 변형된 GnP 병용 요법의 안전성과 유효성을 표준 GnP 단독 요법과 비교하여 평가합니다. 전 세계적으로 진행되는 무작위 배정, 공개, 3상 임상시험입니다. 환자들은 atebimetinib + 변형 GnP 투여군 또는 표준 GnP 투여군에 무작위로 배정됩니다.
+이 연구는 전이성 췌장암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 atebimetinib과 변형된 GnP(gemcitabine 및 nab-paclitaxel) 병용 요법의 안전성과 유효성을 표준 GnP 단독 요법과 비교하기 위한 무작위 배정, 공개, 글로벌 3상 임상시험입니다. 환자들은 atebimetinib과 변형된 GnP 병용 투여군(A군) 또는 표준 GnP 투여군(B군)으로 무작위 배정됩니다. 이 시험은 1차 치료(first-line treatment)로서 전체 생존기간(overall survival) 향상 여부를 평가합니다.
 
-- 목표 환자 수는 570명이며 글로벌 3상 임상시험으로 진행됩니다.
-- 1차 치료로서 atebimetinib과 변형된 gemcitabine 및 nab-paclitaxel 병용 요법의 전체 생존기간 개선 효과를 평가합니다.
-- 대조군은 표준 gemcitabine 및 nab-paclitaxel 단독 요법입니다.
+- 목표 인원은 570명이며 글로벌 3상 임상시험으로 진행됩니다.
+- 이전 전신 항암 치료를 받지 않은 전이성 췌장암 환자를 대상으로 합니다.
+- Atebimetinib과 변형된 GnP 병용 요법과 표준 GnP 단독 요법의 효과를 비교합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 

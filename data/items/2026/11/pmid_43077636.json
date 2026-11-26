@@ -11,8 +11,9 @@
   "Koster MJ"
  ],
  "categories": [
-  "treatment",
-  "diagnosis"
+  "basic",
+  "diagnosis",
+  "treatment"
  ],
  "entities": [],
  "evidence": "observational",
@@ -26,7 +27,12 @@
  ],
  "id": "pmid:43077636",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 282명의 자가면역성 췌장염(199명 제1형, 64명 제2형, 19명 AIP-NOS) 환자가 분석에 포함되었습니다.",
+  "암 발생률은 제1형 자가면역성 췌장염에서 1000인년당 23.7명으로 가장 높았습니다.",
+  "전체 암 위험은 증가하지 않았으나(위험비 1.30), 췌관선암(PDAC) 위험은 유의하게 높았습니다(위험비 3.67).",
+  "췌관선암 위험의 표출은 주로 제1형 자가면역성 췌장염 환자에서 나타났습니다(위험비 4.24)."
+ ],
  "last_updated": "2026-11-25",
  "links": {
   "doi": "10.14309/ctg.0000000000001131",
@@ -48,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43077636/"
  },
- "summary_ko": "INTRODUCTION: Autoimmune pancreatitis (AIP) is a chronic fibroinflammatory pancreatic disease classified as Type 1, Type 2, and not otherwise specified (AIP-NOS). Although chronic pancreatitis is associated with pancreatic ductal adenocarcinoma (PDAC), malignancy risk in AIP remains uncertain.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 자가면역성 췌장염(AIP) 환자들을 대상으로 췌관선암(PDAC) 및 췌장 외 암의 발생 위험을 평가하기 위해 수행되었습니다. 2000년부터 2023년 사이 자가면역성 췌장염으로 진단된 성인 282명을 대상으로 SEER 데이터베이스와 비교 분석을 진행했습니다. 분석 결과, 전체 암 위험은 통계적으로 유의하게 증가하지 않았으나, 췌관선암(PDAC) 위험은 제1형 자가면역성 췌장염을 중심으로 유의하게 증가했습니다. 제1형 자가면역성 췌장염 환자들은 더 고령이고 남성 비율이 높았으며 흡연율과 재발 빈도가 높았습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Risk of Cancer in Autoimmune Pancreatitis: A Comparative Cohort Analysis Using SEER Population-Based Data",
- "title_ko": null,
+ "title_ko": "자체면역성 췌장염에서의 암 위험: SEER 인구 기반 데이터를 이용한 비교 코호트 분석",
  "trial": null,
  "type": "paper"
 }
