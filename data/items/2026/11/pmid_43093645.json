@@ -1,0 +1,65 @@
+{
+ "abstract": "Background/Objectives: This study investigated the treatment-dependent dynamics of FAP expression in human pancreatic ductal adenocarcinoma (PDAC) and preclinical xenografts to inform optimal patient selection and timing for fibroblast activation protein (FAP)-targeted theranostics. Methods: FAP expression was assessed by immunofluorescence (IF) staining of human PDAC samples, including treatment-naïve (n = 7), chemotherapy- and chemoradiotherapy-responsive tumors (n = 8), and adjacent pancreatic tissues (n = 4), and validated at the transcript level by RNA sequencing (seq). The institutional bulk RNA-seq data were integrated with a published PDAC cohort from the Human Tumor Atlas Network, together including treatment-naïve (n = 54), treatment-sensitive (n = 9), partially resistant (n = 14), treatment-resistant (n = 56), and adjacent pancreas (n = 4) tissue samples. In parallel, dynamic FAP expression was evaluated in FOLFIRINOX-sensitive PANC-1 and FOLFIRINOX-resistant SU8686 PDAC xenografts by IF. Results: IF quantification showed increased FAP expression in treatment-sensitive human PDAC compared to treatment-naïve tumors and adjacent pancreas. Integrated transcriptomic analysis revealed therapy-dependent FAP modulation, with higher FAP transcripts in treatment-sensitive tumors compared to resistant and naïve tumors. Cell-type deconvolution showed reduced inflammatory cancer-associated fibroblasts in treatment-sensitive tumors and enrichment in resistant ones, while myofibroblastic cancer-associated fibroblasts remained consistently abundant across all treatment states. In xenografts, FAP expression remained unchanged in PANC-1 tumors throughout treatment, whereas SU8686 tumors showed transient FAP upregulation on days 9 and 15 that did not persist. Conclusions: Findings highlight FAP as an abundant and actionable theranostic biomarker for PDAC patients across treatment states. Mouse models of human PDAC may not reliably recapitulate FAP changes in humans. These findings provide a framework for treatment-informed patient selection for FAP-directed theranostics in PDAC.",
+ "authors": [
+  "Khazaei Monfared Y",
+  "Haj-Mirzaian A",
+  "Li D",
+  "Krishna S",
+  "Heidari P",
+  "Strickland MR",
+  "Qadan M",
+  "Weekes CD"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43093645",
+ "importance": 0.54,
+ "key_points_ko": [
+  "치료에 반응을 보인 췌장관선암 환자 조직(n=8)에서 치료 전 종양(n=7) 및 인접 췌장 조직(n=4)에 비해 FAP 발현이 증가했습니다.",
+  "통합 전사체 분석 결과, 치료 민감성 종양에서 FAP 전사체가 저항성 및 치료 전 종양에 비해 더 높았습니다.",
+  "마우스 이종이식 모델 실험에서는 PANC-1 종양의 경우 치료 기간 동안 FAP 발현에 변화가 없었으나, SU8686 종양은 9일 차와 15일 차에 일시적인 FAP 증가를 보였습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/pharmaceutics18111361",
+  "nct": [],
+  "pmcid": "PMC13808006",
+  "pmid": "43093645"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmaceutics",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43093645/"
+ },
+ "summary_ko": "이 연구는 인간 췌장관선암(PDAC)과 전임상 이종이식 모델에서 섬유아세포 활성화 단백질(FAP) 발현의 치료 반응에 따른 변화를 조사했습니다. 치료에 반응을 보인 인간 췌장관선암 조직에서 FAP 발현과 전사체 수치가 치료 전이나 저항성을 가진 종양에 비해 증가한 것으로 나타났습니다. 세포 유형 분석 결과, 치료에 민감한 종양에서는 염증성 암 관련 섬유아세포가 감소하고 저항성 종양에서는 풍부해졌습니다. 결론적으로 FAP는 췌장관선암 환자를 위한 치료 유전자 진단(theranostic) 바이오마커로서의 가능성을 보여주었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Therapy-Dependent Modulation of Fibroblast Activation Protein Expression in Pancreatic Ductal Adenocarcinoma: Implications for FAP-Targeted Radiopharmaceutical Therapy",
+ "title_ko": "췌장관선암에서 섬유아세포 활성화 단백질 발현의 치료 의존적 조절과 FAP 표적 방사성의약품 치료에 대한 시사점",
+ "trial": null,
+ "type": "paper"
+}

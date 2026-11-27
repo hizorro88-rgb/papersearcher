@@ -1,0 +1,64 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is a deadly malignancy with poor prognosis. A transcriptomic-based algorithm called Purity Independent Subtyping of Tumors (PurIST) relies on transcriptomic expression of a defined set of genes to stratify PDAC into classical and basal-like molecular subtypes and assigns a confidence level to the subtypes as either \"strong,\" \"likely,\" or \"lean.\" In this retrospective study, we apply PurIST to Appalachian and non-Appalachian patient cohorts and assess differences between the two groups.\nMETHODS: This 13-site study includes 780 PDAC patients. Patients were divided into Appalachian and non-Appalachian cohorts according to Appalachian Regional Commission guidelines, and differences in PurIST classification, tobacco use, and alcohol use were analyzed.\nRESULTS: Individuals from Appalachian regions were more likely to receive a subtype classification from PurIST with \"strong\" confidence as opposed to \"likely\" or \"lean\" (p = 0.018). Although all sequencing passed quality control, there were significantly more individuals with borderline sequencing metrics in Appalachia (p = 0.0015) and removing those individuals resulted in non-significant differences in PurIST confidence levels between the two populations (p = 0.11). We did not observe any significant difference between basal and classical subtype classification in Appalachia (p = 0.15). The age at clinical record creation in Appalachia was significantly younger than non-Appalachian regions (p = 0.00052), and an exploratory analysis showed that individuals aged ≥84 were significantly more likely to have basal-like tumor classifications (p = 0.0012). Appalachian patients were more likely to have a history of smoking (p = 0.018) and less likely to report alcohol consumption (p = 0.00023).\nCONCLUSIONS: We conducted the largest comparison of the PurIST algorithm in Appalachia to date and found that PurIST is more likely to have higher confidence in molecular subtype classifications for Appalachian PDAC tumors compared to non-Appalachian tumors, which may partly be due to the quality control thresholds for sequencing. If PurIST is to be considered as a prognostic or decision-making tool for PDAC patients, we must account for variability in sequencing and expression patterns between different populations and institutions.",
+ "authors": [
+  "Williams CM",
+  "Patel RA",
+  "Lisek N",
+  "Kakarala C",
+  "Cavnar MJ",
+  "Kim J",
+  "Pandalai PK",
+  "Toegel EB"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088237",
+ "importance": 0.77,
+ "key_points_ko": [
+  "총 13개 기관의 췌장관선암(PDAC) 환자 780명을 대상으로 PurIST 알고리즘을 적용해 분자 아형을 분석했습니다.",
+  "기저형(basal-like)과 고전형(classical) 아형 분류 비율은 애팔래치아와 비애팔래치아 지역 간에 유의한 차이가 없었습니다(p = 0.15).",
+  "애팔래치아 지역 환자는 비애팔래치아 지역에 비해 진단 당시 연령이 유의하게 낮았습니다(p = 0.00052).",
+  "탐색적 분석 결과 84세 이상 고령 환자군에서 기저형 종양 아형으로 분류될 확률이 유의하게 높았습니다(p = 0.0012)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223709",
+  "nct": [],
+  "pmcid": "PMC13800732",
+  "pmid": "43088237"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088237/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC) 환자 780명을 대상으로 순도 독립적 종양 아형 분류(PurIST) 알고리즘을 적용하여 애팔래치아와 비애팔래치아 지역 환자 간의 분자 아형 차이를 분석한 다기관 회고적 코호트 연구입니다. 분석 결과 애팔래치아 지역 환자군에서 PurIST 아형 분류의 신뢰도가 더 높게 나타났으나, 이는 시퀀싱 품질 제어 임계값 차이에 기인한 것으로 확인되었습니다. 기저형(basal-like) 및 고전형(classical) 아형 비율은 두 지역 간에 유의미한 차이가 없었습니다. 연구진은 PurIST를 예후 판정이나 치료 결정 도구로 활용할 때 인구 집단 및 기관 간 시퀀싱 변동성을 고려해야 한다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "PurIST Molecular Subtyping of Pancreatic Ductal Adenocarcinoma in Appalachian and Non-Appalachian Populations: A Multicenter Cohort Study",
+ "title_ko": "애팔래치아 및 비애팔래치아 인구에서 췌장관선암의 PurIST 분자 아형 분석: 다기관 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

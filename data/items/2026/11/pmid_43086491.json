@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Pancreaticojejunostomy (PJ) anastomosis is the \"Achilles heel\" of the pancreatoduodenectomy (PD). Clinicaly relevant postoperative pancreatic fistula (CR-POPF) remains a significantly morbid complication after pancreatic resection.\nMETHODS: This retrospective study compares patients who underwent PD utilizing our modified dunking technique for PJ anastomosis to patients who underwent the standard PD technique. The studied outcome was CR-POPF. Patient demographics and clinical characteristics were summarized and compared. The association between surgical technique and CR-POPF was assessed using univariate logistic regression and four multivariable logistic models, each assessing technique while adjusting for gland texture, intraoperative blood loss, receipt of neoadjuvant therapy, or pathology. A supplementary inverse probability of treatment weighting (IPTW) analysis among the subset of patients with complete fistula risk score components was also performed.\nRESULTS: A total of 208 patients who underwent the modified dunking technique were compared with 159 patients who underwent the standard technique. CR-POPF occurred in 8.2% of modified-technique patients compared with 15.7% of standard-technique patients (p = 0.024), with 42 events (11.4%) overall. Overall morbidity and Clavien-Dindo grade ≥ III complications were lower after the modified technique (12% vs. 27%, p = 0.002), as were reoperation rates (6.4% vs. 18.3%, p = 0.002) and length of stay (mean 9.5 days vs. 13.1 days p = 0.025). The modified-technique was associated with later year of surgery (p < 0.001) and a higher proportion of firm glands (p = 0.002). Modified technique was associated with significantly lower rates of CR-POPF in univariate analysis (OR 0.48, p = 0.027), while none of the four multivariable models showed a significant difference (gland texture OR 1.27, p = 0.646; intraoperative blood loss OR 0.66, p = 0.341; receipt of neoadjuvant therapy OR 0.65, p = 0.215; pathology OR 0.54, p = 0.07). In a supplementary IPTW analysis of 238 patients with complete fistula risk score components, the modified technique no significant difference was found in odds of CR-POPF (OR 3.48, 95% CI 0.90-13.5, p = 0.07).\nCONCLUSIONS: Unadjusted analysis showed significantly improved fistula rates among patients receiving the modified technique while adjusted analyses showed no statistically significant difference. The technique is reproducible and safe, and initial results are encouraging, but its true effect on CR-POPF warrants prospective evaluation.",
+ "authors": [
+  "Papai E",
+  "Cyr D",
+  "Fredette J",
+  "Maddah M",
+  "Westwood C",
+  "Hasler J",
+  "Villano AM",
+  "Reddy SS"
+ ],
+ "categories": [
+  "surgery",
+  "treatment"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43086491",
+ "importance": 0.67,
+ "key_points_ko": [
+  "변형 덩킹 기법을 받은 환자군(208명)의 췌장 누공(CR-POPF) 발생률은 8.2%로 표준 기법군(159명)의 15.7% 대비 유의하게 낮았습니다(p=0.024).",
+  "Clavien-Dindo 3등급 이상의 주요 합병증 비율(12% 대 27%), 재수술률(6.4% 대 18.3%), 평균 입원 기간(9.5일 대 13.1일) 모두 변형 기법군에서 우수했습니다.",
+  "췌장 실질 상태 및 혈액 손실량 등을 보정한 다변량 분석 및 성향 점수 가중치(IPTW) 분석에서는 두 기법 간 췌장 누공 발생률의 통계적 유의차가 보이지 않았습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1007/s00423-026-04231-y",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43086491"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Comparative Study"
+ ],
+ "published_at": "2026-09-04",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Langenbecks Arch Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086491/"
+ },
+ "summary_ko": "본 연구는 췌십이지장절제술(PD) 시 췌장공장문합술(PJ)에 변형 덩킹(dunking) 기법을 적용한 환자 208명과 표준 기법을 받은 159명의 결과를 비교 분석했습니다. 단순 비교 분석에서는 변형 덩킹 기법군이 표준 기법군에 비해 임상적으로 유의미한 췌장 누공(CR-POPF) 발생률이 낮았습니다(8.2% 대 15.7%). 또한 변형 기법군에서 주요 합병증 비율, 재수술률, 평균 입원 기간이 유의하게 감소했습니다. 다만 췌장 실질 상태 등을 보정한 다변량 분석에서는 두 기법 간 누공 발생률에 통계적으로 유의미한 차이가 관찰되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreaticojejunostomy and clinically relevant pancreatic fistula: a modified dunking technique and single-center experience",
+ "title_ko": "췌장공장문합술과 임상적으로 유의미한 췌장 누공: 변형 덩킹 기법 및 단일 기관 경험",
+ "trial": null,
+ "type": "paper"
+}

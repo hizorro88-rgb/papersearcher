@@ -1,0 +1,60 @@
+{
+ "abstract": null,
+ "authors": [
+  "Kang Z",
+  "Wang C",
+  "Tong Y",
+  "Li Y",
+  "Gao Y",
+  "Hou S",
+  "Hao M",
+  "Han X"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43096009",
+ "importance": 0.54,
+ "key_points_ko": [
+  "초록에 명시되지 않음"
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1021/acs.jmedchem.6c03326",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43096009"
+ },
+ "pub_types": [
+  "Published Erratum"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43096009/"
+ },
+ "summary_ko": "제공된 텍스트는 J Med Chem에 출판된 논문에 대한 정오표입니다. 초록에 명시되지 않음. 초록에 명시되지 않음. 초록에 명시되지 않음.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Correction to \"Novel Nonsecosteroidal Vitamin D Receptor Modulator Combined with Gemcitabine Enhances Pancreatic Cancer Therapy through Remodeling of the Tumor Microenvironment\"",
+ "title_ko": "새로운 비스테로이드성 비타민 D 수용체 조절제와 gemcitabine 병용요법의 췌장암 치료 효과 및 종양 미세환경 재조정에 관한 논문의 정오표",
+ "trial": null,
+ "type": "paper"
+}

@@ -11,15 +11,15 @@
   "Courtright L"
  ],
  "categories": [
-  "treatment",
   "drug",
-  "trial"
+  "trial",
+  "treatment"
  ],
  "entities": [
   "folfirinox",
   "sbrt"
  ],
- "evidence": "phase2",
+ "evidence": "phase1",
  "first_seen": "2026-11-26",
  "history": [
   {
@@ -29,8 +29,12 @@
   }
  ],
  "id": "pmid:43084717",
- "importance": 0.78,
- "key_points_ko": [],
+ "importance": 0.71,
+ "key_points_ko": [
+  "치료받은 환자 22명 중 14명(64%)이 R0/R1 절제술을 받았습니다.",
+  "치료를 받은 14명 중 13명에서 종양 내 CD137+CD8+ T 세포가 80% 이상 증가했습니다.",
+  "BMS-813160 용량 결정 과정에서 용량 제한 독성(DLT)은 관찰되지 않았습니다."
+ ],
  "last_updated": "2026-11-26",
  "links": {
   "doi": "10.1158/2326-6066.CIR-26-0643",
@@ -52,11 +56,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43084717/"
  },
- "summary_ko": "Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival.",
- "summary_source": "excerpt",
+ "summary_ko": "국소 진행성 췌장암(LAPC) 환자를 대상으로 nivolumab(니볼루맙), BMS-813160(CCR2/5 억제제), GVAX, 항암화학요법 및 정위체부방사선치료(SBRT)를 병용하는 1/2상 임상시험을 진행했습니다. 총 22명의 환자가 치료를 받았으며, 1차 평가변수인 안전성과 종양 내 CD137+CD8+ T 세포의 변화를 평가했습니다. 치료받은 환자의 64%인 14명이 R0/R1 절제술을 받았습니다. 연구진은 해당 병용 치료가 안전하며 우수한 면역학적 및 임상적 결과와 연관이 있다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells",
- "title_ko": null,
+ "title_ko": "국소 진행성 췌장암에서 CCR2/5 길항제, 방사선 및 면역치료 병용 시 수술 가능성 및 종양 내 CD8+CD137+ T 세포 증가",
  "trial": null,
  "type": "paper"
 }

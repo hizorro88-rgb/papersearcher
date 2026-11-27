@@ -1,0 +1,63 @@
+{
+ "abstract": "Objectives: To evaluate whether deep learning reconstruction (DLR) improves pancreas-referenced image quality in high-b-value field-of-view optimized and constrained undistorted single-shot diffusion-weighted imaging (FOCUS DWI) for pancreatic cancer, and to assess reconstruction-related changes in apparent diffusion coefficient (ADC) measurements in tumor and non-tumorous pancreatic regions. Methods: This prospective single-center study included 68 patients with pathologically confirmed pancreatic cancer who underwent 3.0-T pancreatic MRI. FOCUS DWI was acquired with b values of 0, 1000, 1500, and 2000 s/mm2 and reconstructed with and without DLR. Quantitative metrics included lesion signal-to-noise ratio (SNR), lesion-to-pancreas contrast-to-noise ratio (CNR), lesion-to-pancreas signal intensity ratio (LP-SIR), and ADC values in tumor regions and non-tumorous pancreatic parenchyma. Two abdominal radiologists independently assessed composite image quality and lesion conspicuity using a 5-point ordinal scale. Paired comparisons were performed with Holm correction across b values. Results: DLR significantly increased lesion SNR and lesion-to-pancreas CNR at b = 1000, 1500, and 2000 s/mm2 (all Holm-adjusted p < 0.001). Absolute image quality was highest at b = 1000 s/mm2, whereas the greatest DLR-related lesion SNR gain occurred at b = 1500 s/mm2. LP-SIR remained broadly stable after DLR (Holm-adjusted p = 0.767, 1.000, and 1.000). Tumor regions showed lower ADC values than non-tumorous pancreatic parenchyma across all b values and reconstruction conditions (all p < 0.001), while ADC values did not differ significantly between DLR and non-DLR reconstructions within either region (p = 0.414-0.794). Qualitative scores improved after DLR for both readers at all b values (all Holm-adjusted p < 0.001), with weighted κ ranging from 0.717 to 0.896. Conclusions: DLR improved ROI-based quantitative image-quality metrics and qualitative image assessment in high-b-value pancreatic FOCUS DWI, with the greatest lesion SNR gain at b = 1500 s/mm2. No statistically significant reconstruction-related differences in ADC measurements were observed within tumor or non-tumorous pancreatic regions.",
+ "authors": [
+  "Wan C",
+  "Wang Y",
+  "Zhang L",
+  "He R",
+  "Chen Y",
+  "Yu B",
+  "Lu B",
+  "Tao L"
+ ],
+ "categories": [
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43091050",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌장암 환자 68명의 영상을 분석한 결과, DLR 적용 후 b-값 1000, 1500, 2000 s/mm² 조건에서 병변의 신호 대 잡음비(SNR)와 대조도 대 잡음비(CNR)가 유의하게 향상되었습니다(모두 p < 0.001).",
+  "DLR 적용을 통한 병변 SNR의 이득은 b = 1500 s/mm² 조건에서 가장 높게 나타났습니다.",
+  "DLR 적용 전후 종양 및 비종양 췌장 실질의 ADC 측정값은 통계적으로 유의한 차이를 보이지 않았습니다(p = 0.414~0.794).",
+  "영상 전문의 2인의 정성적 품질 평가 점수 역시 모든 b-값 조건에서 DLR 적용 후 유의하게 향상되었습니다(모두 p < 0.001)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/jcm15229017",
+  "nct": [],
+  "pmcid": "PMC13802737",
+  "pmid": "43091050"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43091050/"
+ },
+ "summary_ko": "췌장암 환자 68명을 대상으로 3.0T 췌장 자기공명영상(MRI)의 높은 b-값 FOCUS 확산강조영상(DWI)에 딥러닝 재구성(DLR)을 적용하여 영상 품질과 겉보기 확산계수(ADC) 변화를 평가한 전향적 연구입니다. DLR 적용 시 b-값 1000, 1500, 2000 s/mm² 조건 모두에서 병변의 신호 대 잡음비(SNR)와 대조도 대 잡음비(CNR)가 통계적으로 유의하게 향상되었습니다. 특히 b = 1500 s/mm² 조건에서 병변 SNR의 증가 폭이 가장 컸습니다. DLR 적용 후에도 종양 및 비종양 췌장 조직의 ADC 측정값에는 유의한 변화가 없어 정밀한 진단이 가능함을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deep Learning Reconstruction for High-b-Value FOCUS DWI in Pancreatic Cancer: Image Quality Improvement and Effects on ADC Measurements",
+ "title_ko": "췌장암 환자의 높은 b-값 FOCUS 확산강조영상(DWI)에서 딥러닝 재구성(DLR)의 영상 품질 향상 및 겉보기 확산계수(ADC) 측정에 미치는 영향",
+ "trial": null,
+ "type": "paper"
+}

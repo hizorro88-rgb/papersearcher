@@ -1,0 +1,63 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Background  Neoadjuvant gemcitabine plus S-1 is standard for resectable pancreatic cancer in Japan, but the utility of the Booka–Boku–Takeuchi (BBT) formula for S-1 dosing is unclear. Methods  In this retrospective study of patients with resectable pancreatic cancer who underwent neoadjuvant gemcitabine plus S-1 followed by surgery, patients were classified by the ratio of the actual starting S-1 dose to the BBT-calculated dose into low-dose (< 0.9), equal-dose (0.9 to < 1.1), and high-dose (≥ 1.1) groups. Results  Among 97 patients (low-dose,  <italic>n</italic>   = 12; equal-dose,  <italic>n</italic>   = 37; high-dose,  <italic>n</italic>   = 48), median tumor shrinkage rates were 5.9%, 12.2%, and 13.1% (  <italic>P</italic>   = 0.02), and median recurrence-free survival was 9.0 months, not reached, and 19.7 months. Compared with the equal-dose group, hazard ratios (HR) for recurrence-free survival were 3.15 (95% confidence interval [CI] 1.28–7.77,  <italic>P</italic>   = 0.01) in the low-dose group and 2.10 (95% CI 1.06–4.13,  <italic>P</italic>   = 0.03) in the high-dose group; for overall survival, HR was 2.97 (95% CI 1.04–8.49,  <italic>P</italic>   = 0.04) and 1.69 (95% CI 0.75–3.79,  <italic>P</italic>   = 0.21), respectively. Grade ≥ 3 mucositis occurred in 0%, 0%, and 19% (  <italic>P</italic>   < 0.01), and S-1 dose reduction or discontinuation in 33%, 43%, and 69% (  <italic>P</italic>   = 0.02). Equal-dose status (  <italic>P</italic>   = 0.02) and a normal carbohydrate antigen 19 − 9 level (  <italic>P</italic>   = 0.03) were independent favorable factors for recurrence-free survival. Conclusions  S-1 dose adjustment using the BBT formula may improve outcomes in patients receiving neoadjuvant gemcitabine plus S-1 for resectable pancreatic cancer.  </p>",
+ "authors": [
+  "Fukuda K",
+  "Ishigaki K",
+  "Nara K",
+  "Suzuki T",
+  "Kazami Y",
+  "Endo G",
+  "Tokito Y",
+  "Sato Y"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11738670/v1",
+ "importance": 0.66,
+ "key_points_ko": [
+  "적정 용량군의 무재발 생존기간(RFS) 중앙값은 도달하지 않았으나, 저용량군은 9.0개월, 고용량군은 19.7개월이었습니다.",
+  "적정 용량군 대비 무재발 생존 위험비(HR)는 저용량군에서 3.15(P=0.01), 고용량군에서 2.10(P=0.03)으로 재발 위험이 높았습니다.",
+  "3등급 이상의 구내염은 고용량군에서만 19% 발생했으며, S-1 감량 또는 중단 비율은 69%에 달했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11738670/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1379063"
+ },
+ "summary_ko": "수술 가능한 췌장암 환자 97명을 대상으로 선행보조 젬시타빈(gemcitabine)과 S-1 병용요법 투여 시 BBT 용량 공식 기반 S-1 투여 용량의 유용성을 분석했습니다. 연구 결과 BBT 공식에 맞춰 적정 용량을 투여받은 환자군이 저용량 또는 고용량 투여군보다 무재발 생존기간(RFS)과 전체 생존기간(OS)이 우수했습니다. 반면 고용량 투여군은 3등급 이상의 구내염(19%) 및 S-1 감량·중단 비율(69%)이 유의하게 높았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Clinical utility of the S-1 dosage formula in neoadjuvant chemotherapy with gemcitabine plus S-1 for resectable pancreatic cancer",
+ "title_ko": "절제 가능한 췌장암 환자의 젬시타빈 및 S-1 선행보조 항암화학요법에서 S-1 용량 산출 공식의 임상적 유용성",
+ "trial": null,
+ "type": "preprint"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "Distinguishing solid pancreatic lesions arising in the background of chronic pancreatitis represents an important diagnostic challenge because mass-forming inflammatory lesions and pancreatic cancer share overlapping clinical, serological, and radiological features and their discrimination might delay the curative treatment. The features of chronic pancreatitis such as fibrosis, calcifications with acoustic shadowing, parenchymal atrophy, and main pancreatic duct abnormalities, may either mimic pancreatic ductal adenocarcinoma or obscure small malignant lesions, thereby limiting the performance of conventional imaging modalities. Surveillance for pancreatic cancer in chronic pancreatitis is recommended only for selected high-risk patients with hereditary pancreatitis; however, in patients with non-hereditary chronic pancreatitis, clinical vigilance for red flags (new-onset diabetes, weight loss, jaundice, rising CA19-9) should prompt urgent imaging diagnosis and tissue acquisition. This review summarizes the current evidence on the diagnostic preoperative assessment of solid pancreatic lesions in chronic pancreatitis, highlighting the roles of computed tomography, magnetic resonance imaging, endoscopic ultrasound, and histopathological assessment. Endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) has become the preferred method for tissue diagnosis because of its superior ability to obtain histological core specimens, although the tumors may present low cellularity and the correct targeting is often difficult. False-negative results, or misinterpretation of well-differentiated carcinoma as a benign condition remain real concerns because they delay the appropriate treatment. For these reasons a non-diagnostic biopsy should be interpreted cautiously by a multidisciplinary team especially when the suspicion for cancer is high.",
+ "authors": [
+  "Seulean EC",
+  "Seicean R",
+  "Pojoga C",
+  "Seicean A"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "supportive",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088821",
+ "importance": 0.68,
+ "key_points_ko": [
+  "만성 췌장염의 섬유화 및 석회화는 췌장암을 모방하거나 작은 악성 병변을 가릴 수 있습니다.",
+  "신규 당뇨, 체중 감소, 황달, CA19-9 상승 등의 위험 신호가 나타나면 시급히 정밀 검사를 시행해야 합니다.",
+  "내시경 초음파 하 미세침 생검(EUS-FNB)은 핵심 조직 채취에 우수하지만 위음성 가능성에 유의해야 합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/diagnostics16223740",
+  "nct": [],
+  "pmcid": "PMC13802315",
+  "pmid": "43088821"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088821/"
+ },
+ "summary_ko": "만성 췌장염(chronic pancreatitis) 상태에서 발생하는 고형 췌장 병변은 염증성 종괴와 췌장암(pancreatic ductal adenocarcinoma)의 특징이 겹쳐 진단이 어렵습니다. 이 리뷰는 컴퓨터단층촬영(CT), 자기공명영상(MRI), 내시경 초음파(EUS) 및 조직 검사의 역할을 다룹니다. 내시경 초음파 하 미세침 생검(EUS-FNB)이 우선적인 조직 진단법이지만, 섬유화나 적은 세포수로 인해 위음성이 발생할 수 있으므로 다학제 팀의 신중한 평가가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Preoperative Assessment of Solid Pancreatic Lesions Associated with Chronic Pancreatitis",
+ "title_ko": "만성 췌장염과 관련된 고형 췌장 병변의 수술 전 평가",
+ "trial": null,
+ "type": "paper"
+}

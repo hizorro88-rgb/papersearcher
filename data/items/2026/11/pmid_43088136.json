@@ -1,0 +1,62 @@
+{
+ "abstract": "Background/Objectives: Although local treatment has been increasingly applied to oligometastatic pancreatic ductal adenocarcinoma (PDAC), it remains unclear whether radiologically defined oligometastatic disease identifies patients who benefit from local treatment. We evaluated the survival impact of local treatment according to recurrence burden after curative resection of PDAC. Methods: We retrospectively reviewed patients who developed isolated liver or lung recurrence after curative-intent resection for PDAC between 2012 and 2021. Overall survival (OS) was compared according to metastatic organ, metastatic burden, and treatment strategy. Results: Among 269 patients (194 with liver and 75 with lung recurrences), those with lung recurrence, including those with oligometastatic disease, had significantly longer OS than those with liver recurrence. Although oligometastatic recurrence was associated with more favorable survival than multiple recurrences, no significant association between local treatment and longer OS was observed in either the liver or lung oligometastatic group in the conventional analysis. In patients with solitary lung recurrence, local treatment was associated with longer OS in the conventional analysis, but this association did not reach statistical significance in the time-dependent Cox analysis. Conclusions: Radiologically defined oligometastatic recurrence was associated with a favorable prognosis but was insufficient to identify patients likely to benefit from local treatment. Although an association between local treatment and longer survival was observed in patients with solitary lung recurrence, this finding was not statistically significant in the time-dependent Cox analysis and requires further validation.",
+ "authors": [
+  "Choo K",
+  "Ryu KJ",
+  "Kim MJ",
+  "Chae H",
+  "Kim HS",
+  "Shin SH",
+  "Han IW",
+  "Heo JS"
+ ],
+ "categories": [
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088136",
+ "importance": 0.7,
+ "key_points_ko": [
+  "췌장암 수술 후 폐 재발 환자(75명)는 간 재발 환자(194명)에 비해 전체 생존기간이 유의하게 길었습니다.",
+  "영상학적으로 확인된 올리고전이 재발은 다발성 재발에 비해 양호한 예후를 보였으나 국소 치료 이득을 예측하는 기준으로는 불충분했습니다.",
+  "단일 폐 재발 환자에서 국소 치료와 생존 연장의 연관성이 보였으나 시간 의존적 콕스(time-dependent Cox) 분석에서는 통계적으로 유의하지 않았습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223606",
+  "nct": [],
+  "pmcid": "PMC13800389",
+  "pmid": "43088136"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088136/"
+ },
+ "summary_ko": "췌장암 절제 수술 후 단독 간 또는 폐 재발이 발생한 환자 269명을 대상으로 국소 치료의 생존 이점을 평가한 연구입니다. 분석 결과 폐 재발 환자는 간 재발 환자에 비해 전체 생존기간(OS)이 유의하게 길었습니다. 올리고전이(소수 전이) 재발은 다발성 재발보다 예후가 좋았으나, 국소 치료를 시행하는 것이 생존기간을 유의하게 연장시키지는 않는 것으로 나타났습니다. 단일 폐 재발 환자에서 국소 치료의 생존 연장 가능성이 관찰되었으나 시간 의존적 분석에서는 통계적 유의성에 도달하지 못했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Local Treatment for Oligometastatic Recurrence After Curative Resection for Pancreatic Ductal Adenocarcinoma: An Integrated Analysis of Liver and Lung Recurrence",
+ "title_ko": "췌관선암 근치적 수술 후 올리고전이 재발에 대한 국소 치료: 간 및 폐 재발의 통합 분석",
+ "trial": null,
+ "type": "paper"
+}

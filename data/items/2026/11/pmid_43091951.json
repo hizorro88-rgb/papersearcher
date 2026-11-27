@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a highly desmoplastic and immunosuppressive tumor microenvironment (TME) that limits immune-cell infiltration, impairs antigen presentation, and promotes tumor-supportive myeloid responses. CD40 agonism offers a distinct immunotherapeutic strategy by activating macrophages and antigen-presenting cells (APCs), enhancing antigen presentation, and promoting innate and adaptive antitumor immunity. Preclinical studies have demonstrated macrophage-dependent tumor regression and stromal remodeling, while combination with chemotherapy can enhance antigen release and subsequent immune priming. Clinical studies of CD40 agonists, including sotigalimab, mitazalimab, and selicrelumab, have demonstrated immune and TME remodeling, but consistent survival benefit has not been established in unselected patients. Differences in treatment context, chemotherapy backbone, treatment sequence, and antibody architecture may contribute to variable clinical outcomes. Emerging evidence indicates that limited therapeutic activity may reflect multiple factors, including APC deficiency, persistent immunosuppression, inadequate effector responses, stromal and spatial immune exclusion, and pharmacologic limitations related to Fcγ receptor engagement and systemic toxicity. Future development should therefore emphasize biomarker-guided patient selection, rational treatment sequencing, spatially controlled CD40 activation, and mechanistically matched combination strategies. Integration of immune, molecular, and pharmacodynamic biomarkers, together with next-generation CD40 agonists, may help translate CD40-mediated immune remodeling into more durable clinical benefit in PDAC.",
+ "authors": [
+  "Kang MH",
+  "Go SI",
+  "Lee WS"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43091951",
+ "importance": 0.64,
+ "key_points_ko": [
+  "CD40 작용제는 대식세포와 항원제시세포(APC)를 활성화하여 선천 및 적응 면역을 촉진합니다.",
+  "비임상 연구에서 대식세포 의존적 종양 퇴화와 기질 리모델링이 관찰되었습니다.",
+  "선별되지 않은 환자 대상의 임상 연구에서는 일관된 생존 기간(survival benefit) 이점이 아직 확립되지 않았습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ijms272210329",
+  "nct": [],
+  "pmcid": "PMC13804036",
+  "pmid": "43091951"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43091951/"
+ },
+ "summary_ko": "이 논문은 췌관선암(PDAC)에서 CD40 작용제(CD40 agonist)의 면역학적 역할과 임상적용 가능성을 검토한 리뷰 논문입니다. CD40 작용제는 대식세포와 항원제시세포(APC)를 활성화하여 종양 미세환경을 개선하고 항종양 면역을 촉진합니다. 비임상 연구에서는 종양 퇴화와 기질 리모델링이 확인되었으나, 환자군을 선별하지 않은 임상 연구에서는 일관된 생존 기간(survival benefit) 향상이 아직 입증되지 않았습니다. 저자들은 바이오마커 기반의 환자 선별, 합리적인 치료 순서, 차세대 CD40 작용제의 개발이 지속적인 임상적 이점을 얻기 위해 필요하다고 제안합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "CD40 Agonists in Pancreatic Cancer: From Immune Priming to Clinical Translation",
+ "title_ko": "췌장암에서의 CD40 작용제: 면역 활성화부터 임상 적용까지",
+ "trial": null,
+ "type": "paper"
+}

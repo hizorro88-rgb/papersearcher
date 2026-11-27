@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains among the deadliest forms of cancer, accounting for the third leading cause of cancer-related deaths in North America. A critical factor in this poor outcome is the inability to effectively treat patients not eligible for surgery. The development of patient-derived organoids (PDOs) from tumors has shown promise as a personalized approach for treating PDAC. In the case of PDAC, PDOs need to be generated immediately upon diagnosis due to the rapid mortality observed in these patients. In addition, the tumor microenvironment, a significant factor in PDAC, needs to be considered. To address these two issues, we developed an approach to isolate both cancer and non-cancer-cells of PDAC tumors through endoscopic ultrasound at the time of initial diagnosis. PDOs and cancer-associated fibroblast (CAF) cultures retain patient-specific heterogeneity related to the in vivo tumor phenotype with PDOs showing two distinct and stable phenotypic and molecular profiles. These subtypes were affected by introducing conditioned media from primary CAF cultures, which promoted transcriptomic and epigenetic changes in PDOs reflective of a more resistant phenotype. This study identifies approaches for rapid establishment of multiple tumor compartments ex vivo and highlights the importance in considering the tumor microenvironment when assessing the effects of chemotherapeutic responses in patients.",
+ "authors": [
+  "Jaune-Pons E",
+  "Behjati F",
+  "Nica M",
+  "Brooks C",
+  "Campbell J",
+  "Gorman JL",
+  "Shakfa N",
+  "Abid N"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.64898/2026.11.25.769316",
+ "importance": 0.56,
+ "key_points_ko": [
+  "내시경 초음파를 통해 초기 진단 시 췌장관선암(PDAC) 환자의 종양 세포와 비종양 세포를 모두 분리하는 접근법을 개발했습니다.",
+  "환자 유래 오가노이드(PDOs)와 암 관련 섬유아세포(CAF)는 생체 내 종양의 환자별 이질성을 유지했습니다.",
+  "CAF 배양액을 도입하자 PDOs에서 저항성 표현형을 반영하는 전사체 및 후성유전학적 변화가 촉진되었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.64898/2026.11.25.769316",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "bioRxiv",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1379219"
+ },
+ "summary_ko": "이 연구는 내시경 초음파(endoscopic ultrasound)를 통한 초기 진단 시점에 췌장관선암(PDAC) 환자의 종양 세포와 비종양 세포를 모두 분리하는 접근법을 개발했습니다. 환자 유래 오가노이드(PDOs)와 암 관련 섬유아세포(CAF) 배양은 생체 내 종양 표현형의 환자별 이질성을 유지했습니다. 1차 CAF 배양의 배양액을 도입했을 때 PDOs에서 더 저항성 있는 표현형을 반영하는 전사체 및 후성유전학적 변화가 촉진되었습니다. 이 연구는 체외에서 여러 종양 구획을 신속하게 확립하는 방법을 확인하고 환자의 항암화학요법 반응을 평가할 때 종양 미세환경을 고려하는 것의 중요성을 강조합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Generation of tumor organoids and cancer-associated fibroblasts from minimal pancreatic cancer biopsies enables investigation of tumor-stroma interactions",
+ "title_ko": "최소 침습 췌장암 생검을 통한 종양 오가노이드 및 암 관련 섬유아세포 생성으로 종양-기질 상호작용 연구 가능",
+ "trial": null,
+ "type": "preprint"
+}

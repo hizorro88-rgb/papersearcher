@@ -1,0 +1,59 @@
+{
+ "abstract": "In pancreatic ductal adenocarcinoma (PDAC), the problem is access, not merely affinity. Yet recent reviews emphasize discovery platforms, theranostic probes or clinical translation; to our knowledge, none appraises, across peptide roles, what the evidence shows about access, exposure and benefit by disease stage, including negative randomized results. This structured critical review introduces a spatial-pharmacology framework that asks of every peptide what job it performs (drug, targeting or penetration ligand, trigger, antigen or reporter), where it must act, which clinical state can reveal benefit, and which unresolved experiment most threatens translation. By classifying evidence maturity (tiers T0-T5) separately from outcome direction and profiling five translational domains, it compares heterogeneous systems without pooling and prevents evidence transfer between roles. We searched PubMed/MEDLINE, ClinicalTrials.gov, publisher records and citation chains through 13 August 2026 and purposively charted decision-informative programs in a source-linked atlas. Three cross-system conclusions emerge. First, early human evidence differs in kind by role (for example, target access for reporters, immunogenicity for vaccines) and is not interchangeable, while many direct, stromal and immune-enabling peptides remain preclinical. Second, evidence maturity and benefit often diverge: randomized evidence is limited, partly conference- or developer-reported, and largely negative or non-confirmatory, whereas supportive signals come mostly from lower evidence tiers. Third, the decisive missing evidence is role-specific: site-of-action exposure for direct, stromal and penetration peptides, setting-appropriate endpoints for vaccines, and effect on clinical decisions for reporters. We propose six minimum development standards; the framework is a planning heuristic, not a validated predictor of benefit.",
+ "authors": [
+  "Kızılkurtlu AA",
+  "Ciftci F",
+  "Yılmaz Ö"
+ ],
+ "categories": [
+  "basic",
+  "treatment",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43093404",
+ "importance": 0.62,
+ "key_points_ko": [
+  "초기 임상 증거는 역할(예: 영상 리포터의 표적 접근성, 백신의 면역원성)에 따라 다르며 서로 교환할 수 없습니다.",
+  "무작위 증거는 제한적이고 주로 부정적이거나 비확증적이며, 지지적 신호는 대부분 낮은 증거 등급에서 나옵니다.",
+  "결정적으로 부족한 증거는 역할별로 다르며, 직접·간질·침투 펩타이드의 작용 부위 노출 등이 포함됩니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ph19111820",
+  "nct": [],
+  "pmcid": "PMC13807359",
+  "pmid": "43093404"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-16",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmaceuticals (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43093404/"
+ },
+ "summary_ko": "이 문헌은 췌관선암(PDAC)에서 펩타이드 시스템의 역할, 접근성, 노출 및 이점에 대한 증거를 평가하는 구조적 비판적 리뷰입니다. 펍메드(PubMed) 등의 데이터베이스를 통해 2026년 8월 13일까지의 문헌을 검색하고 의사결정 정보 제공 프로그램을 분류했습니다. 연구 결과, 초기 임상 증거는 역할에 따라 다르며 많은 펩타이드가 여전히 전임상 단계에 머물러 있음을 확인했습니다. 또한, 무작위 대조 시험 결과는 제한적이고 주로 부정적이거나 비확증적이었으며, 지지적 신호는 낮은 증거 단계에서 주로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From Sequence to Spatial Pharmacology: A Translational Evidence Framework for Peptide Systems in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "서열에서 공간 약리학까지: 췌장관선암에서 펩타이드 시스템을 위한 중개 증거 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,65 @@
+{
+ "abstract": "Background/Objectives: Total pancreatectomy (TP) causes complete endocrine and exocrine insufficiency, and concern about its effect on quality of life (QoL) has limited its use compared with pancreaticoduodenectomy (PD). This narrative review critically appraises studies that directly compared patient-reported QoL after TP and PD for pancreatic and periampullary neoplasms. Methods: Following SANRA recommendations, we searched PubMed/MEDLINE and Scopus (to 12 October 2026) and reference lists of relevant reviews for comparative studies using a validated QoL instrument. Results were extracted from the original publications as effect estimates, and each study's risk of bias was appraised narratively. Results: Ten studies (eleven reports; 2007-2026; 251 TP and 438 PD patients in total, with fewer contributing to individual outcomes) were identified. Only one enrolled exclusively patients with pancreatic ductal adenocarcinoma, and only two measured QoL repeatedly. No study detected a statistically significant difference in global health status, but confidence intervals were wide. Lower role, social, physical, or emotional functioning and more fatigue, insomnia, or financial difficulty after TP were reported in five studies, mainly in the first postoperative year, and diabetes-related distress and hypoglycemia tended to be greater after TP. Most studies were small, cross-sectional, and restricted to survivors. Conclusions: Current evidence does not show that TP leads to worse overall QoL than PD, but neither does it demonstrate equivalence; TP appears to carry specific functional and diabetes-related burdens, particularly early after surgery, although longitudinal data are very limited. The certainty of this evidence is low. Prospective, cancer-specific studies with preoperative baselines and repeated measurements are needed.",
+ "authors": [
+  "Zachari S",
+  "Pitsilka MM",
+  "Manolakis A",
+  "Tepetes K",
+  "Passas I",
+  "Bakalis V",
+  "Zacharoulis D"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088243",
+ "importance": 0.72,
+ "key_points_ko": [
+  "10개 비교 연구(TP 251명, PD 438명) 분석 결과, 전반적 건강 상태(QoL)에서 두 수술 간 통계적으로 유의미한 차이는 발견되지 않았습니다.",
+  "수술 후 1년 이내에는 TP 환자군에서 역할·사회·신체 기능 저하 및 당뇨 관련 스트레스, 저혈당 부담이 더 높게 보고되었습니다.",
+  "대부분의 연구가 소규모 단면 연구이고 근거의 확실성이 낮아, 수술 전 기준선과 반복 측정을 포함한 전향적 연구가 필요합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223714",
+  "nct": [],
+  "pmcid": "PMC13800798",
+  "pmid": "43088243"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088243/"
+ },
+ "summary_ko": "본 연구는 췌장 및 팽대부 주변 종양 환자에서 총 췌장 절제술(TP)과 췌두십이지장 절제술(PD)을 시행한 후 환자가 보고한 삶의 질(QoL)을 직접 비교한 10개 연구(총 TP 251명, PD 438명)를 분석했습니다. 분석 결과 두 수술 그룹 간의 전반적인 건강 상태에는 통계적으로 유의미한 차이가 관찰되지 않았습니다. 그러나 수술 후 첫 1년 동안 TP 환자에서 신체, 사회, 역할 기능의 저하와 피로, 불면증, 당뇨 관련 스트레스 및 저혈당 위험이 더 높은 경향을 보였습니다. 현재 연구 데이터의 근거 수준은 낮으며 추가적인 전향적 연구가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Quality of Life After Total Pancreatectomy Versus Pancreaticoduodenectomy for Pancreatic and Periampullary Neoplasms: A Narrative Review",
+ "title_ko": "췌장 및 팽대부 주변 종양에서 총 췌장 절제술과 췌두십이지장 절제술 후 삶의 질 비교: 서술적 고찰",
+ "trial": null,
+ "type": "paper"
+}

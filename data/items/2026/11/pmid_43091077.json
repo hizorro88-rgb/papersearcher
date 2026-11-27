@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Evidence on the prognostic significance of serum zinc in advanced pancreatic cancer (APC) and biliary tract cancer (BTC) is limited. We assessed the prognostic significance of serum zinc deficiency at baseline and 3 months in APC and BTC. Methods: This post hoc analysis of a prospective observational cohort included 134 patients with APC and 41 with BTC. Zinc deficiency was defined as serum zinc < 60 μg/dL. Overall survival (OS) was evaluated from baseline and from a fixed 3-month landmark using Kaplan-Meier and Cox regression analyses. Results: Baseline zinc deficiency was present in 13/134 (10%) patients with APC and 9/41 (22%) with BTC and was not significantly associated with OS in either cohort. At 3 months, zinc deficiency was present in 25/90 (28%) patients with APC and 15/33 (45%) with BTC and was associated with shorter subsequent OS (APC: 5.2 vs. 13.8 months, p < 0.001; BTC: 3.7 vs. 14.9 months, p = 0.006). Among patients with normal baseline zinc, new deficiency at 3 months was associated with shorter subsequent OS in both cohorts. In APC, zinc deficiency remained associated with OS after adjustment for performance status, tumor location, disease control, hypoalbuminemia, and C-reactive protein (HR, 1.93; 95% CI, 1.12-3.32). The coexistence of zinc deficiency and hypoalbuminemia was associated with poorer survival than the presence of neither abnormality (adjusted HR, 2.59; 95% CI, 1.22-5.52). Conclusions: Zinc deficiency, defined by the clinical threshold of <60 μg/dL at the 3-month landmark but not at baseline, was associated with shorter subsequent survival in APC and BTC. Assessment of serum zinc during treatment may contribute to prognostic evaluation.",
+ "authors": [
+  "Lee L",
+  "Miki M",
+  "Morita Y",
+  "Tanaka Y",
+  "Kurokawa M",
+  "Hijioka M",
+  "Niina Y",
+  "Senju T"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43091077",
+ "importance": 0.64,
+ "key_points_ko": [
+  "기저 시점의 혈청 아연 결핍(< 60 μg/dL)은 췌장암 환자의 10%(13/134명), 담도암 환자의 22%(9/41명)에서 관찰되었으며 생존기간과 유의한 연관이 없었습니다.",
+  "3개월 시점의 아연 결핍은 췌장암 환자의 28%(25/90명), 담도암 환자의 45%(15/33명)에서 관찰되었습니다.",
+  "3개월 시점의 아연 결핍은 이후의 전체 생존기간을 유의하게 단축시켰습니다(췌장암: 5.2개월 대 13.8개월, p < 0.001; 담도암: 3.7개월 대 14.9개월, p = 0.006).",
+  "췌장암에서 3개월 시점 아연 결핍은 수행능력, 종양 위치, 질병 조절, 저알부민혈증, C-반응성 단백질을 보정한 후에도 전체 생존기간과 연관되었습니다(위험비 1.93, 95% 신뢰구간 1.12-3.32)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/jcm15229042",
+  "nct": [],
+  "pmcid": "PMC13803167",
+  "pmid": "43091077"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Clin Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43091077/"
+ },
+ "summary_ko": "진행성 췌장암(APC) 및 담도암(BTC) 환자를 대상으로 치료 전(기저 시점)과 3개월 시점의 혈청 아연 결핍이 예후에 미치는 영향을 평가한 전향적 관찰 코호트의 사후 분석입니다. 134명의 췌장암 환자와 41명의 담도암 환자가 포함되었습니다. 연구 결과, 기저 시점의 아연 결핍은 생존 기간과 유의한 연관이 없었으나, 3개월 시점의 아연 결핍은 두 환자군 모두에서 이후의 짧은 전체 생존기간(OS)과 유의한 연관이 있었습니다. 췌장암 환자에서 3개월 시점의 아연 결핍은 다변량 분석 후에도 짧은 생존기간과 독립적으로 연관되었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Serum Zinc Deficiency and Survival in Patients with Advanced Pancreatic and Biliary Tract Cancer",
+ "title_ko": "진행성 췌장암 및 담도암 환자에서의 혈청 아연 결핍과 생존율",
+ "trial": null,
+ "type": "paper"
+}

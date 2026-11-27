@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [췌장 췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](../trials/NCT07946380.md) | 해당 없음 | 모집 중 | - |
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
-| [SURGIMEDIA: 멀티미디어 활용을 통한 수술 동의서 절차 강화 연구](../trials/NCT07494994.md) | 해당 없음 | 일시 중단 | - |
+| [SURGIMEDIA: 수술 동의서 설명을 위한 멀티미디어 활용](../trials/NCT07494994.md) | 해당 없음 | 일시 중단 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
@@ -34,8 +34,32 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (39)
+## 타임라인 (43)
 
+<a id="pmid-43097075"></a>
+#### [Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis](https://pubmed.ncbi.nlm.nih.gov/43097075/)
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.75
+
+The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097075/) · [DOI](https://doi.org/10.1007/s13304-026-02952-9) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097075)</small>
+
+---
+<a id="pmid-43097066"></a>
+#### [십이지장 하부 폐쇄에 대한 전환 가능한 완화적 우회술로서의 루프 간공장문합술 및 위공장문합술: 증례 시리즈](https://pubmed.ncbi.nlm.nih.gov/43097066/)
+<small>Loop hepaticojejunostomy and gastrojejunostomy with Braun anastomosis and decompressing duodenojejunostomy: a case series for a convertible palliative bypass for infra-ampullary duodenal obstruction</small>
+
+`논문` `증례` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.54
+
+본 연구는 십이지장(duodenum) 제3부 및 제4부의 하부 폐쇄를 겪는 환자들을 대상으로 Nikfarjam 우회술을 시행한 5명의 증례를 보고합니다. 이 수술은 담즙 역류성 담관염과 십이지장 팽만을 방지하면서, 향후 종양이 절제 가능해질 경우 췌십이지장절제술(pancreaticoduodenectomy)로 쉽게 전환할 수 있도록 고안되었습니다. 대상 환자 5명 중 췌장암(pancreatic adenocarcinoma) 환자는 3명이었습니다. 초기 경험에서 증상 완화가 달성되었으며 재시술이 필요한 환자는 없었습니다.
+
+- 총 5명의 환자(췌장암 3명 포함)가 Nikfarjam 우회술을 받았습니다.
+- 모든 환자에서 증상 완화가 이루어졌으며 재시술은 필요하지 않았습니다.
+- 1명의 환자는 이후 췌십이지장절제술로 성공적으로 전환되었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097066/) · [DOI](https://doi.org/10.1007/s13304-026-02901-6) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097066)</small>
+
+---
 <a id="pmid-43081717"></a>
 #### [호주 임상 품질 등록 데이터를 활용한 췌두십이지장 절제술 벤치마킹: 예비 벤치마크 및 데이터 확장 필요성](https://pubmed.ncbi.nlm.nih.gov/43081717/)
 <small>Benchmarking Pancreaticoduodenectomy in Australia Using Clinical Quality Registry Data: Preliminary Benchmarks and a Need for Data Expansion</small>
@@ -49,6 +73,21 @@ search:
 - 분석된 호주의 수술 성과 지표는 기존 국제 벤치마크 수치와 유사한 수준이었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43081717/) · [DOI](https://doi.org/10.1002/jso.70462) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43081717)</small>
+
+---
+<a id="pmid-43088243"></a>
+#### [췌장 및 팽대부 주변 종양에서 총 췌장 절제술과 췌두십이지장 절제술 후 삶의 질 비교: 서술적 고찰](https://pubmed.ncbi.nlm.nih.gov/43088243/)
+<small>Quality of Life After Total Pancreatectomy Versus Pancreaticoduodenectomy for Pancreatic and Periampullary Neoplasms: A Narrative Review</small>
+
+`논문` `종설` `수술` `치료 전반` `지지요법·삶의질` · 2026-11-20 · PubMed · Cancers (Basel) · 중요도 0.72
+
+본 연구는 췌장 및 팽대부 주변 종양 환자에서 총 췌장 절제술(TP)과 췌두십이지장 절제술(PD)을 시행한 후 환자가 보고한 삶의 질(QoL)을 직접 비교한 10개 연구(총 TP 251명, PD 438명)를 분석했습니다. 분석 결과 두 수술 그룹 간의 전반적인 건강 상태에는 통계적으로 유의미한 차이가 관찰되지 않았습니다. 그러나 수술 후 첫 1년 동안 TP 환자에서 신체, 사회, 역할 기능의 저하와 피로, 불면증, 당뇨 관련 스트레스 및 저혈당 위험이 더 높은 경향을 보였습니다. 현재 연구 데이터의 근거 수준은 낮으며 추가적인 전향적 연구가 필요합니다.
+
+- 10개 비교 연구(TP 251명, PD 438명) 분석 결과, 전반적 건강 상태(QoL)에서 두 수술 간 통계적으로 유의미한 차이는 발견되지 않았습니다.
+- 수술 후 1년 이내에는 TP 환자군에서 역할·사회·신체 기능 저하 및 당뇨 관련 스트레스, 저혈당 부담이 더 높게 보고되었습니다.
+- 대부분의 연구가 소규모 단면 연구이고 근거의 확실성이 낮아, 수술 전 기준선과 반복 측정을 포함한 전향적 연구가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088243/) · [DOI](https://doi.org/10.3390/cancers18223714) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13800798/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088243)</small>
 
 ---
 <a id="pmid-43040170"></a>
@@ -581,6 +620,21 @@ search:
 - 본 연구에는 췌장관선암 환자 673명을 포함해 총 1,218명의 절제술 환자가 분석되었습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42905970/) · [DOI](https://doi.org/10.1093/bjsopen/zrag157) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13686085/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42905970)</small>
+
+---
+<a id="pmid-43086491"></a>
+#### [췌장공장문합술과 임상적으로 유의미한 췌장 누공: 변형 덩킹 기법 및 단일 기관 경험](https://pubmed.ncbi.nlm.nih.gov/43086491/)
+<small>Pancreaticojejunostomy and clinically relevant pancreatic fistula: a modified dunking technique and single-center experience</small>
+
+`논문` `관찰연구` `수술` `치료 전반` · 2026-09-04 · PubMed · Langenbecks Arch Surg · 중요도 0.67
+
+본 연구는 췌십이지장절제술(PD) 시 췌장공장문합술(PJ)에 변형 덩킹(dunking) 기법을 적용한 환자 208명과 표준 기법을 받은 159명의 결과를 비교 분석했습니다. 단순 비교 분석에서는 변형 덩킹 기법군이 표준 기법군에 비해 임상적으로 유의미한 췌장 누공(CR-POPF) 발생률이 낮았습니다(8.2% 대 15.7%). 또한 변형 기법군에서 주요 합병증 비율, 재수술률, 평균 입원 기간이 유의하게 감소했습니다. 다만 췌장 실질 상태 등을 보정한 다변량 분석에서는 두 기법 간 누공 발생률에 통계적으로 유의미한 차이가 관찰되지 않았습니다.
+
+- 변형 덩킹 기법을 받은 환자군(208명)의 췌장 누공(CR-POPF) 발생률은 8.2%로 표준 기법군(159명)의 15.7% 대비 유의하게 낮았습니다(p=0.024).
+- Clavien-Dindo 3등급 이상의 주요 합병증 비율(12% 대 27%), 재수술률(6.4% 대 18.3%), 평균 입원 기간(9.5일 대 13.1일) 모두 변형 기법군에서 우수했습니다.
+- 췌장 실질 상태 및 혈액 손실량 등을 보정한 다변량 분석 및 성향 점수 가중치(IPTW) 분석에서는 두 기법 간 췌장 누공 발생률의 통계적 유의차가 보이지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086491/) · [DOI](https://doi.org/10.1007/s00423-026-04231-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086491)</small>
 
 ---
 <a id="pmid-43015764"></a>

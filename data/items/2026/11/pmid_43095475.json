@@ -1,0 +1,61 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by late presentation, early systemic dissemination and profound therapeutic resistance. Biomarkers are therefore required not only for early detection, but also for prognosis, treatment selection and longitudinal monitoring. The present review summarizes established and emerging PDAC biomarkers across genomics, epigenomics, transcriptomics, proteomics, metabolomics and liquid biopsy. Particular attention is given to predictive biomarkers for personalized systemic therapy, including homologous-recombination repair defects associated with platinum sensitivity and eligibility for maintenance olaparib, as well as investigational markers of response to gemcitabine, fluoropyrimidines, irinotecan and oxaliplatin. The evolving role of companion diagnostics for germline BRCA1/2 variants and tumor-agnostic alterations is also discussed. In addition, the present review discusses biomarkers associated with occult or distant metastasis, including circulating tumor DNA, circulating tumor cells, extracellular vesicles, the SMAD4 status and multi-modal radiomic models. CA19-9 remains the most commonly used serum marker; however, it is unsuitable for population screening and cannot independently establish diagnosis or metastatic risk. The majority of multi-omics candidates remain at the discovery or retrospective-validation stage. Their clinical translation requires analytically standardized assays, prospective validation in defined clinical settings and evidence that biomarker-guided decisions improve patient outcomes.",
+ "authors": [
+  "Balis V",
+  "Spandidos DA",
+  "Derdas SP"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "drug"
+ ],
+ "entities": [
+  "olaparib"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43095475",
+ "importance": 0.64,
+ "key_points_ko": [
+  "CA19-9는 가장 흔히 쓰이는 혈청 마커지만 단독 진단이나 선별 검사용으로는 미흡합니다.",
+  "BRCA1/2 변이 및 상동 재조합 복구 결함은 백금 기반 항암제 및 olaparib(올라파립) 유지요법 반응성 예측에 활용됩니다.",
+  "대부분의 다중 옴믹스(multi-omics) 후보 바이오마커는 아직 탐색 또는 후향적 검증 단계에 있습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3892/mi.2026.348",
+  "nct": [],
+  "pmcid": "PMC13798042",
+  "pmid": "43095475"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-03",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Int (Lond)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095475/"
+ },
+ "summary_ko": "본 검토 논문은 췌장관선암(PDAC)의 조기 발견, 예후 평가, 맞춤 치료 선택 및 지속적 모니터링을 위한 바이오마커의 현황을 요약합니다. 백금 기반 항암제 민감성 및 olaparib(올라파립) 유지요법 적용과 연관된 상동 재조합 복구(HRR) 결함을 포함한 예측 바이오마커를 다룹니다. 또한 순환 종양 DNA(ctDNA), CA19-9, SMAD4 상태 등 미세 전이 및 진단 도구의 임상적 한계와 임상 적용을 위한 전향적 검증 필요성을 제시합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pancreatic cancer biomarkers and diagnostic tools (Review)",
+ "title_ko": "췌장암 바이오마커 및 진단 도구에 관한 종합 종설",
+ "trial": null,
+ "type": "paper"
+}

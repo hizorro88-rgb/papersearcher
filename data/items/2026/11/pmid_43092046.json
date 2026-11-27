@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer (PC) is a highly aggressive malignancy with poor prognosis and limited therapeutic options. Baicalein, a major flavonoid derived from Scutellaria baicalensis Georgi, exhibits multiple antitumor activities, but its key targets and mechanisms in PC remain unclear. This study integrated network pharmacology, single-cell RNA sequencing (scRNA-seq), molecular docking, and in vitro experiments to investigate the potential mechanisms of baicalein against PC. Network pharmacology identified baicalein-related targets associated with PC, which were mainly enriched in receptor tyrosine kinase signaling, PI3K-AKT, MAPK, Ras, and apoptosis-related pathways. Single-cell transcriptomic analysis revealed heterogeneous SRC expression across epithelial subpopulations, with higher expression observed in Cluster 1, and dynamic changes during epithelial cell state transitions. Molecular docking predicted favorable interactions between baicalein and key proteins, including SRC and EGFR. In vitro experiments further showed that baicalein significantly reduced PC cell viability and decreased SRC protein expression. These findings suggest that baicalein may exert antitumor effects in PC through multiple targets and pathways, with SRC representing a potential key target, providing a theoretical basis for further evaluation of baicalein as an adjuvant therapeutic candidate for PC.",
+ "authors": [
+  "Liu J",
+  "Wang Y",
+  "Xu H",
+  "Lan W",
+  "Zhao Y",
+  "Lin R",
+  "Zhao J"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43092046",
+ "importance": 0.51,
+ "key_points_ko": [
+  "바이칼레인은 수용체 티로신 키나아제 신호 전달, PI3K-AKT, MAPK, Ras 및 아폽토시스 관련 경로를 표적하는 것으로 나타났습니다.",
+  "단일세포 전사체 분석을 통해 상피 세포 하위 집단에서 이질적인 SRC 발현이 관찰되었습니다.",
+  "분자 도킹 예측 결과 바이칼레인과 SRC 및 EGFR을 포함한 주요 단백질 간의 상호작용이 확인되었습니다.",
+  "체외 실험에서 바이칼레인은 췌장암 세포의 생존력을 유의하게 감소시키고 SRC 단백질 발현을 낮추었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ijms272210426",
+  "nct": [],
+  "pmcid": "PMC13803881",
+  "pmid": "43092046"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43092046/"
+ },
+ "summary_ko": "이 연구는 네트워크 약리학, 단일세포 RNA 시퀀싱(scRNA-seq), 분자 도킹, 그리고 체외 실험(in vitro)을 결합하여 췌장암(PC)에 대한 바이칼레인(baicalein)의 잠재적 작용 기전을 조사했습니다. 네트워크 약리학 분석 결과 바이칼레인 관련 표적이 PI3K-AKT, MAPK, Ras 및 세포외 신호조절 1(SRC) 관련 경로 등에 관여하는 것으로 나타났습니다. 체외 실험에서 바이칼레인은 췌장암 세포의 생존력을 유의하게 감소시키고 SRC 단백질 발현을 낮추는 것으로 확인되었습니다. 이는 바이칼레인이 췌장암 치료에서 잠재적인 보조 치료 후보 물질이 될 수 있는 이론적 근거를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Integrated Single-Cell Analysis and Network Pharmacology Reveal the Potential Mechanisms of Baicalein in Pancreatic Cancer",
+ "title_ko": "단일세포 분석 및 네트워크 약리학을 통한 췌장암에서 바이칼레인의 잠재적 기전 규명",
+ "trial": null,
+ "type": "paper"
+}

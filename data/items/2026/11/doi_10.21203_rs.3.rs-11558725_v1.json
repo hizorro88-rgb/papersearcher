@@ -10,9 +10,9 @@
  ],
  "categories": [
   "treatment",
+  "surgery",
   "industry",
-  "trial",
-  "surgery"
+  "trial"
  ],
  "entities": [],
  "evidence": "meta",
@@ -26,7 +26,12 @@
  ],
  "id": "doi:10.21203/rs.3.rs-11558725/v1",
  "importance": 0.79,
- "key_points_ko": [],
+ "key_points_ko": [
+  "국소 제어 실패율(LRF)은 IFRT 그룹 23%, ENI 그룹 24이었습니다.",
+  "R0 절제율은 두 그룹 모두 85%를 상회했습니다.",
+  "12개월 전체 생존율(OS)은 IFRT 58%, ENI 56이었고, 24개월 OS는 IFRT 22%, ENI 20이었습니다.",
+  "3~4등급 식욕부진 발생률은 IFRT 4%, ENI 19%로 나타났습니다."
+ ],
  "last_updated": "2026-11-26",
  "links": {
   "doi": "10.21203/rs.3.rs-11558725/v1",
@@ -48,11 +53,11 @@
   "name": "Europe PMC (preprint)",
   "url": "https://europepmc.org/article/PPR/PPR1377193"
  },
- "summary_ko": "<title>Abstract</title>  <p>  <bold>PURPOSE:</bold>  Clinical target volumes for radiotherapy in non-metastatic pancreatic cancer (NMPC) remain a topic of debate, particularly between involved-field radiotherapy (IFRT) and elective nodal irradiation (ENI). This study aims to synthesize the current evidence on both approaches in the context of neoadjuvant/definitive chemoradiation for non-metastatic disease.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 비전이성 췌장암(non-metastatic pancreatic cancer, NMPC) 환자를 대상으로 방사선 치료 시 침범영역 방사선치료(involved-field radiotherapy, IFRT)와 예방적 림프절 조사(elective nodal irradiation, ENI)의 효과와 안전성을 비교하기 위한 체계적 문헌고찰 및 메타분석입니다. 2000년부터 2026년 10월까지의 연구를 분석한 결과, 두 치료법 간의 국소 제어 실패율, R0 절제율, 전체 생존기간(OS) 등에서 유사한 결과를 보였습니다. 다만, 3~4등급의 식욕부진(anorexia) 발생률은 예방적 림프절 조사(ENI) 그룹에서 수치적으로 더 높았습니다. 저자들은 두 방식의 최적의 방사선 조사 범위를 확립하기 위해 추가적인 연구가 필요하다고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Nodal Irradiation in Pancreatic Cancer: A Systematic Review and Meta-Analysis",
- "title_ko": null,
+ "title_ko": "췌장암에서의 림프절 방사선 조사: 체계적 문헌고찰 및 메타분석",
  "trial": null,
  "type": "preprint"
 }

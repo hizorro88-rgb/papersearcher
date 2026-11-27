@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic cancer (PC) is highly malignant, with a poor prognosis and high metastatic potential. Given the synergy between sirtuin 6 (SIRT6) and classical histone deacetylase (HDAC) in regulating epithelial-mesenchymal transition (EMT), dual-target inhibitors may offer improved antimetastatic therapy. The lead compound 11e suffers from poor metabolic stability, weak antiproliferative activity, and insufficient antimigratory capacity. Through pharmacophore merging and structural optimization, we obtained S20, which potently inhibits SIRT6 (IC50 = 3.903 μM) and classical HDACs (IC50 = 0.217 μM). In vitro, S20 was superior to 11e in antiproliferative activity and showed stronger antimigratory activity than SAHA, 11e, or their combination. Mechanistically, S20 modulated EMT-associated marker expression, increasing E-cadherin while decreasing N-cadherin, vimentin, and ZEB1. Its intravenous half-life (4.11 h) was 14.7-fold longer than 11e (0.28 h). In vivo, S20 dose-dependently suppressed liver metastasis with favorable safety. In summary, S20 exhibits comprehensive advantages in antiproliferative, antimigratory, and metabolic stability, providing a new strategy for antimetastatic drug development.",
+ "authors": [
+  "Zhu S",
+  "Liang E",
+  "Cong B",
+  "Li Q",
+  "Cui Y",
+  "Zhang L",
+  "Xu L",
+  "Zheng Y"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43095998",
+ "importance": 0.56,
+ "key_points_ko": [
+  "S20은 SIRT6(IC50 = 3.903 μM)와 전통적 HDAC(IC50 = 0.217 μM)를 강력하게 억제합니다.",
+  "정맥 투여 시 반감기(4.11시간)는 기존 물질 11e(0.28시간)에 비해 14.7배 길어졌습니다.",
+  "동물실험에서 S20은 유리한 안전성과 함께 간 전이를 용량 의존적으로 억제했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1021/acs.jmedchem.6c02028",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43095998"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Med Chem",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095998/"
+ },
+ "summary_ko": "이 연구는 췌장암 치료를 위해 SIRT6와 전통적 히스톤 탈아세틸화효소(HDAC)를 동시에 억제하는 새로운 화합물 S20을 개발하고 그 효과를 평가했습니다. S20은 SIRT6와 전통적 HDAC를 강력하게 억제하며 기존 선도 물질에 비해 향상된 세포 증식 억제 및 이동 억제 효과를 보였습니다. 세포 실험에서 상피-간엽 전이(EMT) 관련 마커를 조절하는 기전을 확인했습니다. 생체 내 실험에서는 유리한 안전성과 함께 간 전이를 용량 의존적으로 억제했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Dual SIRT6/Classical HDAC Inhibitor with Integrated Antiproliferative, Antimigratory, and Pharmacokinetic Advantages Against Pancreatic Cancer",
+ "title_ko": "췌장암에 대한 통합된 세포 증식 억제, 이동 억제 및 약동학적 이점을 가진 이중 SIRT6/전통적 HDAC 억제제",
+ "trial": null,
+ "type": "paper"
+}

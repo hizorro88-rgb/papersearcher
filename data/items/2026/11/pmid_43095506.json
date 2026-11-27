@@ -1,0 +1,62 @@
+{
+ "abstract": "OBJECTIVES: To evaluate the predictive value of inflammation indexes for patients with pancreatic cancer liver metastasis (PCLM).\nMETHODS: We retrospectively analyzed baseline serum neutrophil-to-lymphocyte ratio (NLR), lymphocyte-to-monocyte ratio (LMR), and platelet-to-lymphocyte ratio (PLR) in patients initially diagnosed with pancreatic cancer liver metastasis at Peking University Third Hospital between November 2011 and November 2022. A total of 108 PCLM patients were enrolled in this study.\nRESULTS: Elevated baseline NLR (p<0.001) and PLR (p=0.022) were significantly correlated with shorter overall survival from liver metastasis (OS_LM). Consistently, high NLR (p<0.001) and PLR (p=0.019) also indicated deteriorated progression-free survival (PFS). Multivariable Cox regression analysis confirmed that NLR served as an independent prognostic biomarker for both OS_LM (p=0.001) and PFS (p=0.002). Multicolor immunofluorescence staining was performed to explore the infiltration of neutrophils and lymphocytes within the tumor microenvironment (TME). Results revealed markedly increased infiltration of tumor-associated neutrophils (TANs) (p<0.0001) and a marginal reduction in cytotoxic T lymphocyte infiltration (p=0.0538) in tumor tissues from high-NLR group, suggesting an immunosuppressive microenvironment for these patients.\nCONCLUSIONS: Our findings highlight the critical prognostic value of NLR for clinical outcome prediction in PCLM patients.",
+ "authors": [
+  "Huang H",
+  "Yin W",
+  "Zhang H",
+  "Guo L",
+  "Yu X",
+  "Ji H",
+  "Cao B"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43095506",
+ "importance": 0.71,
+ "key_points_ko": [
+  "췌장암 간전이 환자 108명의 임상 데이터를 후향적으로 분석했습니다.",
+  "높은 기저 NLR은 전체 생존기간(p<0.001)과 무진행 생존기간(p<0.001)을 독립적으로 악화시키는 예후 인자였습니다.",
+  "높은 NLR을 가진 환자의 종양 조직에서는 종양 관련 중성구(TANs)의 침윤이 유의하게 증가했습니다(p<0.0001)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1515/med-2026-1554",
+  "nct": [],
+  "pmcid": "PMC13798288",
+  "pmid": "43095506"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Open Med (Wars)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43095506/"
+ },
+ "summary_ko": "본 연구는 췌장암 간전이(PCLM) 환자 108명을 대상으로 기저 혈청 중성구 대 임파구 비율(NLR) 등의 염증 지표가 가지는 예후 예측 가치를 후향적으로 분석했습니다. 높은 기저 NLR과 혈소판 대 임파구 비율(PLR)은 전체 생존기간(OS) 및 무진행 생존기간(PFS) 단축과 유의하게 연관되어 있었습니다. 다변량 분석 결과 NLR은 전체 생존기간과 무진행 생존기간 모두에 대해 독립적인 예후 인자로 확인되었습니다. 조직 분석에서는 높은 NLR 군에서 종양 관련 중성구(TANs) 침윤이 현저히 증가하여 면역억제적 종양 미세환경(TME)이 형성됨을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Baseline neutrophil-to-lymphocyte ratio is an independent prognostic factor for patients with pancreatic cancer liver metastasis",
+ "title_ko": "기저 중성구 대 임파구 비율(NLR)은 췌장암 간전이 환자의 독립적인 예후 예측 인자입니다",
+ "trial": null,
+ "type": "paper"
+}

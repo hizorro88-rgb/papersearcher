@@ -1,0 +1,60 @@
+{
+ "abstract": "Gastric outlet obstruction (GOO) in pancreatic cancer involving the first and second parts of the duodenum is typically palliated via endoscopic stenting or surgical gastrojejunostomy, often combined with biliary drainage. Infra-ampullary obstruction of the third and fourth parts of the duodenum is a distinct and poorly described problem. When biliary stenting has been performed, distal duodenal obstruction can drive reflux of enteric content into the bile duct and subsequent cholangitis, whilst food stasis and distension of the proximal duodenum promote nausea. A conventional gastrojejunostomy may not relieve these issues and endoscopic duodenal stenting may be technically challenging and often not durable. We describe the Nikfarjam bypass comprising partial gastrectomy with antecolic gastrojejunostomy, bile-duct excision with hepaticojejunostomy to the same jejunal loop as a duodenojejunostomy to vent the de-functioned duodenum and prevent stump blow-out, combined with a Braun entero-enterostomy. The configuration is also designed to facilitate later conversion to pancreaticoduodenectomy with a single additional pancreatic anastomosis, should the tumour become resectable. We report five consecutive patients. Five patients (three pancreatic adenocarcinoma, one pancreatic neuroendocrine tumour, one benign annular pancreas with choledochal cyst) underwent Nikfarjam bypass. One patient was subsequently converted to pancreaticoduodenectomy. In this initial experience, symptom relief was achieved and no patient required re-intervention. In this preliminary case series, this double bypass with decompressing duodenojejunostomy provided symptom relief for infra-ampullary duodenal obstruction. The core principle of the reconstruction is to prevent biliary-reflux cholangitis and duodenal distension whilst preserving a straightforward path to resection.",
+ "authors": [
+  "Tai J",
+  "Weinberg L",
+  "Nikfarjam M"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "case",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097066",
+ "importance": 0.54,
+ "key_points_ko": [
+  "총 5명의 환자(췌장암 3명 포함)가 Nikfarjam 우회술을 받았습니다.",
+  "모든 환자에서 증상 완화가 이루어졌으며 재시술은 필요하지 않았습니다.",
+  "1명의 환자는 이후 췌십이지장절제술로 성공적으로 전환되었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1007/s13304-026-02901-6",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097066"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097066/"
+ },
+ "summary_ko": "본 연구는 십이지장(duodenum) 제3부 및 제4부의 하부 폐쇄를 겪는 환자들을 대상으로 Nikfarjam 우회술을 시행한 5명의 증례를 보고합니다. 이 수술은 담즙 역류성 담관염과 십이지장 팽만을 방지하면서, 향후 종양이 절제 가능해질 경우 췌십이지장절제술(pancreaticoduodenectomy)로 쉽게 전환할 수 있도록 고안되었습니다. 대상 환자 5명 중 췌장암(pancreatic adenocarcinoma) 환자는 3명이었습니다. 초기 경험에서 증상 완화가 달성되었으며 재시술이 필요한 환자는 없었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Loop hepaticojejunostomy and gastrojejunostomy with Braun anastomosis and decompressing duodenojejunostomy: a case series for a convertible palliative bypass for infra-ampullary duodenal obstruction",
+ "title_ko": "십이지장 하부 폐쇄에 대한 전환 가능한 완화적 우회술로서의 루프 간공장문합술 및 위공장문합술: 증례 시리즈",
+ "trial": null,
+ "type": "paper"
+}

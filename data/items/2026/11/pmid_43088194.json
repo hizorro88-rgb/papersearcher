@@ -1,0 +1,57 @@
+{
+ "abstract": "\"Unresectable\" hepatopancreatobiliary (HPB) malignancy encompasses distinct biological and technical barriers. This narrative review, based on a structured search of PubMed/MEDLINE and Scopus, synthesizes transplant-derived approaches and proposes a practical decision algorithm organized around four constraints on the planned operation: venous outflow, vascular inflow, insufficient liver volume or function, and absence of a preservable native liver. Biological selection and multidisciplinary staging precede any technical escalation. For outflow constraints, options progress from vessel-sparing dissection to reconstruction, total vascular exclusion with hypothermic protection, and exceptionally ex vivo resection. Inflow strategies, relevant chiefly to pancreatic cancer and perihilar cholangiocarcinoma, include selected arterial divestment and planned portal-mesenteric or arterial reconstruction, contingent on suitable proximal and distal targets. Inadequate remnant volume or function prompts functional assessment and a graded choice among portal vein embolization, liver venous deprivation, conventional two-stage hepatectomy, parenchymal-sparing combined resection-ablation, radiation lobectomy, and selected ALPPS, each with explicit criteria for proceed and stopping rules. When no native liver can be preserved, transplantation may be appropriate for colorectal liver metastases, hepatocellular carcinoma, perihilar and intrahepatic cholangiocarcinoma, and neuroendocrine liver metastases under disease-specific protocols; auxiliary graft strategies remain investigational. A worked example illustrates how coexisting constraints are sequenced. The principal contribution is a constraint-first, escalation-limited framework that translates disparate transplant techniques into a reproducible multidisciplinary planning sequence; its preferred and selective indications reflect the author's judgment and require prospective validation.",
+ "authors": [
+  "Moris D"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088194",
+ "importance": 0.62,
+ "key_points_ko": [
+  "수술 계획의 네 가지 제약 조건으로 정맥 유출로, 혈관 유입로, 간 용적 또는 기능 부족, 원발 간 보존 불가 상황을 제시했습니다.",
+  "정맥 유출 제약에 대해 혈관 보존 박리부터 총혈관차단 및 생체외 절제(ex vivo resection)까지의 단계를 다룹니다.",
+  "간 용적 부족에 대응하여 문맥 embolization(색전증), ALPPS 등을 포함한 등급별 선택지를 제시했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223666",
+  "nct": [],
+  "pmcid": "PMC13801194",
+  "pmid": "43088194"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.7,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088194/"
+ },
+ "summary_ko": "이 문헌 고찰은 간담췌 악성종양에서 절제 불가능성을 유발하는 생물학적, 기술적 장벽을 분석합니다. 정맥 유출로, 동맥 유입로, 간 용적 또는 기능 부족, 원발 간 보존 불가의 네 가지 제약 요소를 중심으로 수술적 접근법을 단계별로 정리한 실용적인 결정 알고리즘을 제안합니다. 이식 기법에서 유래한 다양한 수술적 대안을 재조합하여 다학제적 치료 계획을 세우는 프레임워크를 제시합니다. 본 연구는 저자의 판단에 기반한 제안으로 전향적 검증이 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Beyond Unresectability in Hepatopancreatobiliary Cancer: A Constraint-Based Surgical Decision Algorithm Integrating Transplant Techniques",
+ "title_ko": "간담췌암의 절제 불가능성 극복: 이식 기법을 통합한 제약 기반 수술 결정 알고리즘",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,52 @@
+{
+ "abstract": null,
+ "authors": [
+  "Kim H"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097126",
+ "importance": 0.6,
+ "key_points_ko": [
+  "초록에 명시되지 않음"
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1007/s00330-026-13108-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097126"
+ },
+ "pub_types": [
+  "Letter"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur Radiol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097126/"
+ },
+ "summary_ko": "이 논문은 초록에 명시되지 않았습니다. 본 문헌은 췌장관선암(pancreatic ductal adenocarcinoma)에서 동적 조영증강 자기공명영상(DCE-MRI)의 치료 반응 예측 가치에 관한 편집자 서한의 답변입니다. 연구의 구체적인 환자 수, 치료법 및 결과는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Reply to the Letter to the Editor: Does early quantitative DCE-MRI predict treatment response in pancreatic ductal adenocarcinoma?",
+ "title_ko": "편집자에게 보낸 서한에 대한 답변: 조기 정량적 동적 조영증강 자기공명영상(DCE-MRI)은 췌장관선암의 치료 반응을 예측하는가?",
+ "trial": null,
+ "type": "paper"
+}

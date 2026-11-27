@@ -11,10 +11,11 @@
   "Schechter EG"
  ],
  "categories": [
+  "basic",
   "drug"
  ],
  "entities": [],
- "evidence": "other",
+ "evidence": "preclinical",
  "first_seen": "2026-11-26",
  "history": [
   {
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:43083845",
- "importance": 0.7,
- "key_points_ko": [],
+ "importance": 0.64,
+ "key_points_ko": [
+  "자가포식 경로의 상위 및 하위 노드를 동시에 차단하는 수직적 억제는 단일 억제보다 췌장관선암(PDAC) 세포 성장을 더 효과적으로 억제합니다.",
+  "VPS34 또는 ULK1/2의 억제는 chloroquine(CQ) 및 PIKfyve 억제제와 작용하여 세포 성장을 저해하고 세포사멸을 증가시켰습니다.",
+  "자가포식 수직 억제는 PI3K-AKT-mTORC1 신호전달 경로를 활성화시켜, mTORC1 억제제에 대한 취약성을 높이는 것으로 나타났습니다."
+ ],
  "last_updated": "2026-11-26",
  "links": {
   "doi": "10.1158/1541-7786.MCR-26-0206",
@@ -47,11 +52,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43083845/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is dependent on autophagy for growth. Chloroquine/Hydroxychloroquine (CQ/HCQ), the sole FDA-approved autophagy inhibitors, have shown limited clinical efficacy in cancer.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장관선암(PDAC) 세포 모델에서 자가포식(autophagy) 경로의 여러 단계를 동시에 차단하는 수직적 억제 전략의 효과를 조사했습니다. 연구진은 CRISPR-Cas9 스크리닝을 통해 자가포식 상위 유전자의 손실이 chloroquine(클로로퀸, CQ)으로 인한 성장 억제를 강화함을 확인했습니다. 또한, VPS34 또는 ULK1/2의 억제가 CQ 및 PIKfyve 억제제와 시너지 효과를 내어 세포 성장을 저해하고 세포사멸(apoptosis)을 증가시킴을 입증했습니다. 자가포식 수직 억제는 PI3K-AKT-mTORC1 신호전달 경로의 보상적 활성화를 유도하며, 이는 bi-steric mTORC1 억제에 대한 감수성을 높이는 결과로 이어졌습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Vertical inhibition of the autophagy pathway impairs growth and enhances sensitivity to mTORC1 inhibition in pancreatic ductal adenocarcinoma",
- "title_ko": null,
+ "title_ko": "췌장관선암에서 자가포식 경로의 수직적 억제는 성장을 저해하고 mTORC1 억제에 대한 감수성을 높입니다",
  "trial": null,
  "type": "paper"
 }

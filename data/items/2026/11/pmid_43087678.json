@@ -1,0 +1,61 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) develops within a dense desmoplastic stroma that shapes drug transport, mechanotransduction, and therapeutic response. Building on the recapitulation gap framework, we examined whether a commonly used subcutaneous KPC-derived syngeneic model reproduces human PDAC extracellular matrix (ECM) architecture. Methods: Dual-stain histochemistry and computational image analysis compared primary human PDAC tumor cores (n = 14 patients) with independently generated syngeneic tumors (n = 3), quantifying collagen and glycosaminoglycan (GAG) signals across compositional, spatial, and textural domains. Inference used one value per patient or animal, and multivariate separation was tested by exact permutation. Local organization was investigated by analyzing 65 simulated cores (sim-cores) from the mouse specimens. Results: Mouse tumors showed collagen-dominated architectural divergence, with lower collagen area, approximately seven-fold greater peripheral edge share, and a 2.8-fold lower collagen-to-GAG signal ratio. Human and mouse specimens separated in observed multivariate ECM space (standardized centroid distance 5.18; exact permutation p = 1/680); the separation persisted in format-matched sim-cores (p = 1/680). Analysis at the two scales identified peripheral collagen organization alongside lower spatial persistence and band fraction. Conclusions: Quantitative ECM profiling revealed a recapitulation gap in this model configuration. These findings support feature-specific, fit-for-purpose evaluation when tumor matrix architecture is relevant to the question being studied.",
+ "authors": [
+  "Budhwani BMK",
+  "Budhwani KKK",
+  "Guenter RE",
+  "Patel VM",
+  "Rupani AA",
+  "Rose JB",
+  "Budhwani KI"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43087678",
+ "importance": 0.52,
+ "key_points_ko": [
+  "인간 췌관선암(PDAC) 조직 14개와 생쥐 동계 종양 3개를 비교했습니다.",
+  "생쥐 종양은 콜라겐 면적이 적고, 주변부 가장자리 비율이 약 7배 더 컸으며, 콜라겐 대 글리코사미노글리칸(GAG) 신호 비가 2.8배 낮았습니다.",
+  "다변량 세포외기질(ECM) 공간 분석에서 인간과 생쥐 검체는 서로 뚜렷하게 구분되었습니다 (표준화된 중심 거리 5.18, 정확 순열 p = 1/680)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/biomedicines14112421",
+  "nct": [],
+  "pmcid": "PMC13800082",
+  "pmid": "43087678"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43087678/"
+ },
+ "summary_ko": "이 연구는 흔히 사용되는 피하 KPC 유래 동계 췌관선암(PDAC) 모델이 인간 췌관선암의 세포외기질(ECM) 구조를 얼마나 잘 재현하는지 평가했습니다. 인간 췌장암 조직 14개와 생쥐 동계 종양 3개를 대상으로 이중 염색 조직화학 및 컴퓨터 이미지 분석을 사용하여 콜라겐과 글리코사미노글리칸(GAG) 신호를 비교했습니다. 연구 결과, 생쥐 종양은 콜라겐 면적이 적고 주변부 가장자리 비율이 약 7배 더 높으며, 콜라겐 대 글리코사미노글리칸 신호 비가 2.8배 더 낮은 등 콜라겐 중심의 구조적 차이를 보였습니다. 이러한 결과는 해당 동물 모델과 인간 종양 사이에 세포외기질(ECM) 구조의 재현 격차가 존재함을 보여줍니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Quantitative ECM Profiling Reveals a Recapitulation Gap in a Subcutaneous KPC-Derived Syngeneic PDAC Model",
+ "title_ko": "정량적 세포외기질(ECM) 프로파일링을 통한 피하 KPC 유래 동계 췌관선암(PDAC) 모델의 재현 격차 규명",
+ "trial": null,
+ "type": "paper"
+}

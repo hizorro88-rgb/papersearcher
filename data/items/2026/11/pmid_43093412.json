@@ -1,0 +1,65 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains characterized by aggressive progression, extensive stromal remodeling, early metastatic dissemination, and resistance to systemic therapy. Nuclear factor kappa B (NF-κB) integrates oncogenic, inflammatory, survival, angiogenic, and treatment-induced signals and therefore represents a pharmacologically relevant regulatory node in pancreatic cancer. Phytochemicals including curcumin, xanthohumol, parthenolide, dimethylaminoparthenolide, triptolide, resveratrol, emodin, and related compounds have been investigated as modulators of NF-κB activity, although the strength of mechanistic evidence differs substantially among agents. This review evaluates canonical and noncanonical NF-κB biology in pancreatic cancer, interactions with KRAS, PI3K-AKT, STAT3, MAPK, and Nrf2 signaling, and the consequences of NF-κB modulation for apoptosis, epithelial-mesenchymal transition, angiogenesis, tumor microenvironmental communication, and chemotherapy resistance. Particular emphasis is placed on separating direct pharmacodynamic evidence from downstream pathway association and computational prediction. Curcumin and xanthohumol have been evaluated using direct NF-κB measurements linked to defined antitumor phenotypes and in vivo validation, whereas parthenolide and dimethylaminoparthenolide support a mechanistic relationship between NF-κB activity and gemcitabine resistance. Clinical evidence remains limited and is dominated by early phase curcumin studies, which also illustrate major barriers involving bioavailability, tumor exposure, and target engagement. Future development requires exposure-response analysis, cell-type-specific pharmacodynamics, rational combination therapy, validated biomarkers, and formulations or derivatives with improved pharmacokinetic properties. An evidence-based pharmacological framework may clarify which phytochemical NF-κB modulators warrant further translational development and biomarker-guided evaluation in PDAC.",
+ "authors": [
+  "Das S",
+  "Sharangi AB",
+  "Rahim M",
+  "Khan N",
+  "Siddiqui S",
+  "Saeed M",
+  "Ahmad K",
+  "Faisal SM"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43093412",
+ "importance": 0.68,
+ "key_points_ko": [
+  "NF-κB(핵인자 카파비) 신호전달계는 췌장암의 종양 진행, 염증 반응, 항암제 내성을 조절하는 중요한 표적입니다.",
+  "curcumin(커큐민)과 xanthohumol(잔소후몰)은 직접적인 NF-κB 억제 효과와 동물 모델 검증 결과를 확보했습니다.",
+  "parthenolide(파테놀라이드) 계열 화합물은 NF-κB 억제를 통한 gemcitabine(젬시타빈) 내성 극복 가능성을 보여주었습니다.",
+  "현재 임상 증거는 낮은 생체 이용률과 표적 도달 한계로 인해 제한적이므로 제형 개선이 필요합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ph19111828",
+  "nct": [],
+  "pmcid": "PMC13807508",
+  "pmid": "43093412"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Pharmaceuticals (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43093412/"
+ },
+ "summary_ko": "이 논문은 췌장암의 주요 신호 조절 인자인 NF-κB(핵인자 카파비)를 표적으로 하는 식물화학물질 연구 동향을 정리한 종설 연구입니다. curcumin(커큐민), xanthohumol(잔소후몰), parthenolide(파테놀라이드) 등의 물질이 NF-κB 신호전달을 억제하고 gemcitabine(젬시타빈) 내성을 줄이는 전임상 결과를 평가했습니다. 하지만 실제 사람을 대상으로 한 임상 증거는 초기 연구에 머물러 있으며 생체 이용률과 암 조직 전달에 한계가 있습니다. 향후 임상에 적용하기 위해 약동학적 개선과 조합 치료 연구가 필요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Phytochemical Modulation of NF-κB Signaling in Pancreatic Ductal Adenocarcinoma: Preclinical Progress and Pharmacological Perspectives",
+ "title_ko": "췌장관선암종에서 NF-κB 신호전달의 식물화학물질 조절: 전임상 경과 및 약리학적 관점",
+ "trial": null,
+ "type": "paper"
+}

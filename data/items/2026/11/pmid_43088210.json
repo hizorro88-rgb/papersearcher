@@ -1,0 +1,58 @@
+{
+ "abstract": "Background/Objectives: Dense stromal fibrosis is a hallmark of pancreatic ductal adenocarcinoma (PDAC) but cannot be assessed noninvasively before surgery. We explored whether 18F-fluorodeoxyglucose (FDG) positron emission tomography/computed tomography (PET/CT) uptake reflects the degree of fibrosis in resected PDAC. Methods: Twenty-one patients with surgically resected, histologically confirmed PDAC and preoperative FDG PET/CT were retrospectively analyzed. Tumors were segmented using a 50% maximum standardized uptake value (SUVmax) threshold, or a gradient-based method when thresholding failed, to obtain SUVmax, peak SUV (SUVpeak; 1 cm3 sphere), mean SUV (SUVmean), and metabolic tumor volume. Fibrosis was quantified as the collagen proportionate area on Masson trichrome-stained sections. Associations were assessed using Spearman and Pearson correlation coefficients with 95% confidence intervals (CIs). Results: Fibrosis ranged from 0.5% to 68.5% (median, 31.7%), and intraobserver agreement was excellent (intraclass correlation coefficient, 0.987). All absolute SUV parameters were inversely associated with fibrosis (SUVpeak, ρ = -0.66 [95% CI, -0.86 to -0.28], p = 0.001; SUVmax, ρ = -0.65, p = 0.001; SUVmean, ρ = -0.54, p = 0.011). The associations persisted after adjustment for metabolic tumor volume and scanner type but were weaker in linear (Pearson) analyses. The three SUV parameters performed similarly, and SUV ratios were not associated with fibrosis. Conclusions: In this exploratory study, higher FDG uptake was associated with less stromal fibrosis in PDAC, although the strength of the association depended on the analytic method and was influenced by a single high-uptake tumor. These preliminary findings suggest that FDG PET/CT may provide indirect information on stromal characteristics but cannot replace histological assessment; validation in larger cohorts is required.",
+ "authors": [
+  "Jeon TJ",
+  "Lee SJ",
+  "Lim BJ"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088210",
+ "importance": 0.72,
+ "key_points_ko": [
+  "수술 전 FDG PET/CT를 시행받고 수술적 절제를 진행한 췌관선암 환자 21명의 데이터를 후향적으로 분석했습니다.",
+  "SUVpeak(ρ = -0.66, p = 0.001) 및 SUVmax(ρ = -0.65, p = 0.001) 등 절대적 SUV 매개변수 모두 기질 섬유화 정도와 유의미한 음의 상관관계를 나타냈습니다.",
+  "절제 조직의 콜라겐 비율로 측정한 기질 섬유화 범위는 0.5%에서 68.5% 분포를 보였습니다(중앙값 31.7%).",
+  "본 연구 결과는 FDG 섭취가 높을수록 기질 섬유화가 적음을 시사하지만, 정확한 검증을 위해 더 큰 규모의 코호트 연구가 필요합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223681",
+  "nct": [],
+  "pmcid": "PMC13801265",
+  "pmid": "43088210"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088210/"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자를 대상으로 수술 전 18F-FDG PET/CT 영상의 양전자 방출 단층촬영 수치와 수술 후 절제 조직의 기질 섬유화(stromal fibrosis) 비율 간의 연관성을 평가한 탐색적 연구입니다. 수술을 받은 췌관선암 환자 21명의 데이터를 후향적으로 분석하였습니다. 분석 결과 최대 표준화 섭취값(SUVmax), 피크 SUV(SUVpeak), 평균 SUV(SUVmean) 등 주요 FDG 섭취 매개변수가 기질 섬유화 정도와 음의 상관관계를 보였습니다. 연구진은 FDG PET/CT가 기질 특성에 대한 간접적인 정보를 제공할 수 있으나 조직학적 검사를 대체할 수는 없다고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Association Between Stromal Fibrosis and FDG PET/CT-Derived SUV Parameters in Pancreatic Ductal Adenocarcinoma: An Exploratory Study",
+ "title_ko": "췌관선암종에서 기질 섬유화와 FDG PET/CT 유래 SUV 매개변수 간의 연관성: 탐색적 연구",
+ "trial": null,
+ "type": "paper"
+}

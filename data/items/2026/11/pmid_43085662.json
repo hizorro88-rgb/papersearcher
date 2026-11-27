@@ -1,0 +1,63 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) accounts for approximately 90% of primary pancreatic epithelial malignancies and is defined by infiltrative, gland-forming growth within a desmoplastic stroma, typically driven by RAS/MAPK pathway activation. In contrast, acinar cell carcinoma (ACC) is a distinct non-ductal neoplasm characterized by solid, sheet-like architecture, minimal stromal response, and expression of pancreatic exocrine enzymes. We describe an underrecognized morphologic pattern of ACC that closely mimics PDAC. Four index cases, all initially diagnosed as PDAC, were recognized on morphologic and immunohistochemical grounds; three were sequenced and all were KRAS wild-type (KRAS-WT), one with a BRAF mutation. This prompted review of an institutional cohort of 87 KRAS-WT, BRAF/RAF1-altered tumors previously classified as PDAC, identifying 8 additional cases. These 12 tumors all demonstrated diffusely infiltrative, small, uniform tubules dissecting native parenchyma, with prominent stromal sclerosis, desmoplasia, and frequent perineural invasion, closely mirroring PDAC. However, subtle but consistent features indicated acinar differentiation: architectural and cytologic monotony, centrally located nuclei with prominent nucleoli, absent intracytoplasmic mucin, subtle lobular/acinar-like organization, and intraluminal eosinophilic secretions/concretions. Acinar differentiation was confirmed immunohistochemically in all cases. Molecular profiling demonstrated KRAS-WT status in all 11 sequenced tumors, with recurrent RAF pathway alterations (BRAF or RAF1 fusions or mutations) in 9 of 11 cases. Despite frequent advanced nodal disease (N2 in 5 of 9 evaluable cases) and distant metastasis (8 of 12), follow-up (median 39.5 months) suggested a more prolonged course than typical PDAC. Of 12 patients, 7 died of disease (median 43 months), 4 remained alive with disease, and 1 was lost to follow-up; 7 survived beyond 36 months. However, the small cohort precludes formal statistical comparison. We designate this morphologic pattern tubular infiltrative ACC; it is highly prone to misclassification as PDAC. Recognition is important because these tumors may harbor targetable RAF pathway alterations, and because unrecognized cases may confound research on KRAS-WT pancreatic carcinomas.",
+ "authors": [
+  "Bahceci D",
+  "Tezcan N",
+  "Saoud C",
+  "Memis B",
+  "Bagci P",
+  "Park W",
+  "O'Reilly EM",
+  "Klimstra DS"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43085662",
+ "importance": 0.67,
+ "key_points_ko": [
+  "초기에 PDAC로 오진되었던 12례의 독특한 관형 침윤성 선포세포암(tubular infiltrative ACC)을 분석했습니다.",
+  "시퀀싱된 11명 모두 KRAS 야생형(KRAS-WT)이었고, 이 중 9명에서 RAF 경로 이상(BRAF 또는 RAF1 유전자 변이/융합)이 확인되었습니다.",
+  "중앙 추적 관찰 기간 39.5개월 동안 12명의 환자 중 7명이 사망했으며, 7명은 36개월 이상 생존하여 전형적인 PDAC보다 긴 경과를 보였습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1016/j.modpat.2026.101126",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43085662"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 0.5,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Mod Pathol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085662/"
+ },
+ "summary_ko": "연구진은 췌관선암(PDAC)으로 오인되기 쉬운 췌장 선포세포암(ACC)의 드문 형태인 관형 침윤성 선포세포암 12례를 분석했습니다. 이 종양들은 조직학적으로 PDAC와 매우 유사했으나, 면역화학검사를 통해 선포 분화가 확인되었습니다. 11명의 시퀀싱된 환자 모두 KRAS 야생형(KRAS-WT)이었으며, 9명에서 BRAF 또는 RAF1 변이 등 RAF 경로 이상이 발견되었습니다. 소규모 코호트임에도 불구하고 중앙 추적 관찰 기간 39.5개월 동안 전형적인 PDAC보다 더 연장된 임상 경과를 시사했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "TUBULAR INFILTRATIVE ACINAR CELL CARCINOMA: CLINICOPATHOLOGIC AND MOLECULAR ANALYSIS OF A DISTINCTIVE MIMIC OF DUCTAL ADENOCARCINOMA",
+ "title_ko": "관형 침윤성 선포세포암: 췌관선암을 정교하게 모방하는 독특한 아형의 임상병리학적 및 분자적 분석",
+ "trial": null,
+ "type": "paper"
+}

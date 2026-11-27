@@ -1,0 +1,56 @@
+{
+ "abstract": "Pancreatic cancer is highly malignant. Elderly patients often have multiple comorbidities, impaired physical function, and poor nutritional status, which can lead to inadequate treatment or delayed intervention and significantly compromise overall prognosis. Currently, there is a relative scarcity of high-quality prospective studies specifically targeting elderly patients with pancreatic cancer, and China currently lacks both a widely accepted comprehensive geriatric assessment (CGA) system and specialized consensus or guidelines for diagnosis and treatment. Treatment decisions for elderly pancreatic cancer patients should not rely solely on chronological age; instead, CGA should be employed to holistically evaluate the patients' physical function, comorbidities, cognitive status, nutritional status, social support, and polypharmacy profile, thereby enabling stratified management based on whether the patient exhibits good physical fitness, intermediate status, or frailty. Regarding surgical treatment, advanced age is not an absolute contraindication for pancreatic surgery; however, clinicians should be vigilant about the potential difficulties in implementing postoperative adjuvant therapy. The choice of surgical approach should be guided by the expertise of the treatment team, rather than solely pursuing minimally invasive techniques. The indications for extended resection should be strictly controlled, and suitable candidates should be selected in conjunction with neoadjuvant therapy, while optimizing perioperative management based on the principles of enhanced recovery after surgery. At the systemic therapy level, individualized neoadjuvant and adjuvant chemotherapy regimens should be formulated, carefully balancing antitumor efficacy with treatment tolerability. In clinical practice, CGA should be integrated into multidisciplinary treatment workflows to comprehensively assess tumor resectability and the patient's physiological reserve, facilitating shared clinical decision-making centered on the patient's values. Drawing on recent literature evidence, this article reviews key controversies in the diagnosis and treatment of elderly pancreatic cancer, summarizes stratified management strategies, and aims to provide a reference for clinical practice.",
+ "authors": [
+  "Zhang TP",
+  "Liu YZ",
+  "Cao Z",
+  "Zhao YP"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "guideline",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43086040",
+ "importance": 0.95,
+ "key_points_ko": [],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3760/cma.j.cn112139-20261008-00400",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43086040"
+ },
+ "pub_types": [
+  "English Abstract",
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Zhonghua Wai Ke Za Zhi",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086040/"
+ },
+ "summary_ko": "Pancreatic cancer is highly malignant. Elderly patients often have multiple comorbidities, impaired physical function, and poor nutritional status, which can lead to inadequate treatment or delayed intervention and significantly compromise overall prognosis.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "[Diagnosis, treatment and stratified management of pancreatic cancer in elderly patients]",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

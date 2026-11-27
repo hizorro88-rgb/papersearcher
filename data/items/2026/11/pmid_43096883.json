@@ -1,0 +1,58 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) remains the most lethal type of pancreatic cancer, with a dismal 11% 5-year survival rate, owing to its rapid progression and metastasis. Its aggressive nature, coupled with late diagnosis and inadequate therapeutic approaches, necessitates the urgent identification of novel disease-associated genes for more targeted therapy. Using the extensive RNA-seq and microarray data from PDAC patients, this study aimed to computationally screen differentially expressed genes (DEGs) between tumor and non-tumor samples to discover potential biomarkers and therapeutic targets.\nMETHODS: Three gene expression datasets (GSE62452, GSE183795, and GSE28735) include microarray gene expression profiles of 461 samples, comprising 253 pancreatic tumor tissues and 208 adjacent non-tumor tissues from patients with PDAC was analyzed to identify DEGs. These were then subjected to functional enrichment analysis and protein interaction network mapping.\nRESULTS: The top 25 hub genes were identified based on four scoring algorithms in Cytoscape's cytoHubba plugin. Seventeen genes common across all four algorithms were further verified for differential expression using the GEPIA2 web server. Kaplan-Meier survival plots revealed ITGA2, ITGA3, ITGB6, LAMA3, and LAMB3 as top-ranked targets with poor prognosis in PDAC, implicating their potential oncogenic roles. The identified hub genes were further analyzed through genetic, epigenetic, and protein expression analysis to gain mechanistic insights into their potential roles in pancreatic cancer progression. Genetic alterations were associated with poorer survival outcomes. Promoter methylation levels were notably reduced for LAMA3 and LAMB3 in tumor samples. Concordant expression levels were observed at both transcriptomic and protein levels.\nCONCLUSION: Collectively, ITGA2, ITGA3, ITGB6, LAMA3, and LAMB3 may serve as promising targets for diagnostic and therapeutic interventions in PDAC. Further clinical investigations involving in vivo studies are required to assess the potential of the markers.",
+ "authors": [
+  "Chowdhury ZBS",
+  "Azmal M",
+  "Ghosh A",
+  "Ahmed S"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43096883",
+ "importance": 0.59,
+ "key_points_ko": [
+  "총 461개 조직 샘플(종양 253개, 비종양 208개)의 유전자 발현 데이터를 종합 분석했습니다.",
+  "ITGA2, ITGA3, ITGB6, LAMA3, LAMB3 유전자의 높은 발현이 췌장암 환자의 낮은 생존율과 연관되었습니다.",
+  "종양 조직에서 LAMA3 및 LAMB3 유전자의 프로모터 메틸화 수준이 현저하게 감소한 것을 확인했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1002/cnr2.70773",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43096883"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancer Rep (Hoboken)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43096883/"
+ },
+ "summary_ko": "본 연구는 췌장암(췌관선암, PDAC) 환자의 유전자 발현 데이터를 전산학적으로 분석하여 새로운 바이오마커 및 치료 표적을 발굴하고자 진행되었습니다. 총 461개 샘플(종양 조직 253개, 인접 비종양 조직 208개)의 유전자 데이터 세트를 종합 분석했습니다. 분석 결과 ITGA2, ITGA3, ITGB6, LAMA3, LAMB3 유전자가 췌장암 환자의 불량한 예후와 밀접하게 연관된 핵심 표적으로 확인되었습니다. 이들 유전자는 향후 췌장암 진단 및 치료적 중재를 위한 유망한 표적으로 활용될 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Unveiling Key Gene Signatures in Pancreatic Cancer: Advanced Computational Insights for Biomarker and Therapeutic Target Discovery",
+ "title_ko": "췌장암의 주요 유전자 시그니처 규명: 바이오마커 및 치료 표적 발굴을 위한 첨단 전산학적 분석",
+ "trial": null,
+ "type": "paper"
+}

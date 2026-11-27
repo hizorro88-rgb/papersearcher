@@ -32,7 +32,7 @@ search:
 | [수술 가능 및 경계성 수술 가능 췌관선암 환자를 위한 SMAD4 변이 기반 맞춤형 선행 화학요법 2상 임상시험 (SMART-…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [KRAS 변이 췌장암 환자를 대상으로 티스렐리주맙 병용 여부에 따른 ELI-002 7P 및 mFOLFIRINOX 치료의 안전…](../trials/NCT07671339.md) | 1상 | 모집 중 | - |
-| [경계성 절제 가능 췌관선암 환자를 위한 유전체 서명 기반 맞춤형 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
+| [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
 | [고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
@@ -52,7 +52,7 @@ search:
 | [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
 | [치료 전이가 없는 전이성 췌장암 환자에서 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
-| [PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내약성 및 효능을 평가하기 위한 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [TNG462 병용 투여의 안전성, 내인성 및 유효성을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [수술로 절제된 췌관선암 환자에서 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINO…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [진행성 췌장선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 (RiLEY)](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
@@ -60,9 +60,9 @@ search:
 | [국소 진행성 췌장암 치료를 위한 화학요법 병용 음향 군집 요법(ACT)](../trials/NCT06850623.md) | 2상 | 모집 중 | - |
 | [국소진행성 췌장암 환자를 위한 Ivonescimab, 정위체부방사선치료(SBRT) 및 항암화학요법 병용 1/2상 임상시험](../trials/NCT06844422.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
-| [국소 진행성 췌장암 치료를 위한 알파 방사선 방출 장치(DaRT) 임상시험](../trials/NCT06755359.md) | 해당 없음 | 모집 중 | - |
+| [국소 진행성 췌장암 치료를 위한 알파 방사선 방출 기기(DaRT) 임상시험](../trials/NCT06755359.md) | 해당 없음 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
-| [알파 방사선 방출기(DaRT)와 항암화학요법 병용을 통한 국소진행성 및 전이성 췌장암 치료 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
+| [국소 진행성 및 전이성 췌장암 치료를 위한 화학요법과 알파선 방출기(DaRT) 병용 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [치료 전적이 없는 전이성 췌장관선암 환자에서 zunsemetinib과 mFOLFIRINOX 병용 요법을 평가하는 1상 임상시험](../trials/NCT06648434.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 위한 Bortezomib, PD-1 단일클론항체, mFOLFIRINOX 병용 요법](../trials/NCT06572813.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료에서 표준 요법인 mFOLFIRINOX와 ONO-7913 및 ONO-4538 병용요법에 대한 공개,…](../trials/NCT06532344.md) | 1상 | 진행 중(모집 종료) | - |
@@ -99,15 +99,52 @@ search:
 | [중국 췌장암 환자에서 수술 후 보조 항암화학요법으로서의 mFOLFIRINOX](../trials/NCT04084496.md) | 2상 | 모집 중 | - |
 | [진행성 췌장선암 치료에서 항암화학요법과 비가역적 전기천공법(IRE)](../trials/NCT03484299.md) | 1상 | 모집 중 | - |
 
-## 타임라인 (24)
+## 타임라인 (28)
 
+<a id="pmid-43084910"></a>
+#### [쇠약한 진행성 췌장암 환자를 위한 긴급 통합 지지요법 프로그램: 전향적 GERCOR ARCAD 연구](https://pubmed.ncbi.nlm.nih.gov/43084910/)
+<small>Emergency Integrative Supportive Care Program for Frail Patients With Advanced Pancreatic Cancer: A Prospective GERCOR ARCAD Study</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2026-11-25 · PubMed · J Natl Compr Canc Netw · 중요도 0.77
+
+전신 상태가 저하된(ECOG 수행능력 점수 2 이상) 진행성 췌장암 환자를 대상으로 14일간 개인 맞춤형 긴급 통합 지지요법 프로그램(14-EISCP)을 적용한 연구입니다. 통증 관리, 영양 공급, 스텐트 시술 등을 시행하여 환자의 59.1%에서 임상적 이점이 나타났습니다. 지지요법 이후 환자의 73.1%가 30일 이내에 항암 화학요법을 시작할 수 있었습니다. 이 프로그램은 상태가 좋지 않은 환자가 항암 치료를 받을 수 있도록 돕는 실용적인 프레임워크를 제공합니다.
+
+- 14일 긴급 통합 지지요법 프로그램(14-EISCP)의 임상적 이점 달성 성공률은 59.1%였습니다.
+- 프로그램을 마친 환자의 73.1%가 30일 이내에 항암 화학요법을 시작했습니다.
+- 전체 환자의 중앙 전체 생존기간(mOS)은 4.1개월이었습니다.
+- 초기 수행능력 점수 2점 환자 중 2제 또는 3제 병용 항암제 치료를 받은 환자는 단일 항암제 치료군보다 생존기간이 길었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084910/) · [DOI](https://doi.org/10.6004/jnccn.2026.7069) · [NCT02979483](https://clinicaltrials.gov/study/NCT02979483) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084910)</small>
+
+---
 <a id="pmid-43084717"></a>
-#### [CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells](https://pubmed.ncbi.nlm.nih.gov/43084717/)
-`논문` `2상` `치료 전반` `신약·치료제` `임상시험` · 2026-11-25 · PubMed · Cancer Immunol Res · 중요도 0.78
+#### [국소 진행성 췌장암에서 CCR2/5 길항제, 방사선 및 면역치료 병용 시 수술 가능성 및 종양 내 CD8+CD137+ T 세포 증가](https://pubmed.ncbi.nlm.nih.gov/43084717/)
+<small>CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells</small>
 
-Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival.
+`논문` `1상` `신약·치료제` `임상시험` `치료 전반` · 2026-11-25 · PubMed · Cancer Immunol Res · 중요도 0.71
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084717/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0643) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084717)</small>
+국소 진행성 췌장암(LAPC) 환자를 대상으로 nivolumab(니볼루맙), BMS-813160(CCR2/5 억제제), GVAX, 항암화학요법 및 정위체부방사선치료(SBRT)를 병용하는 1/2상 임상시험을 진행했습니다. 총 22명의 환자가 치료를 받았으며, 1차 평가변수인 안전성과 종양 내 CD137+CD8+ T 세포의 변화를 평가했습니다. 치료받은 환자의 64%인 14명이 R0/R1 절제술을 받았습니다. 연구진은 해당 병용 치료가 안전하며 우수한 면역학적 및 임상적 결과와 연관이 있다고 결론지었습니다.
+
+- 치료받은 환자 22명 중 14명(64%)이 R0/R1 절제술을 받았습니다.
+- 치료를 받은 14명 중 13명에서 종양 내 CD137+CD8+ T 세포가 80% 이상 증가했습니다.
+- BMS-813160 용량 결정 과정에서 용량 제한 독성(DLT)은 관찰되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084717/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084717)</small>
+
+---
+<a id="pmid-43086471"></a>
+#### [국소 진행성 췌장암 환자의 선행 치료 반응 및 생존 예측을 위한 치료 전 이중 시점 18F-FDG PET/CT](https://pubmed.ncbi.nlm.nih.gov/43086471/)
+<small>Pretreatment dual-time-point ¹⁸F-FDG PET/CT for predicting response and survival in locally advanced pancreatic cancer receiving neoadjuvant therapy</small>
+
+`논문` `관찰연구` `진단·조기발견` `치료 전반` `수술` · 2026-11-19 · PubMed · EJNMMI Res · 중요도 0.64
+
+이 연구는 선행 치료(neoadjuvant therapy)로 FOLFIRINOX 치료를 받은 국소 진행성 췌장암(LAPC) 환자 42명을 대상으로 치료 전 이중 시점 18F-FDG PET/CT에서 측정한 잔류 지수(retention index, RI)의 예측 가치를 평가한 후향적 분석입니다. 분석 결과, 임상적 진행을 겪은 환자들은 비진행 환자에 비해 RI가 유의하게 높았습니다. 높은 RI(≥ 23.5%)를 가진 환자들은 전체 생존기간(OS)이 유의하게 짧았습니다. 치료 전 RI는 국소 진행성 췌장암 환자의 치료 저항성과 전체 생존을 예측하는 독립적인 예측 인자임을 확인했습니다.
+
+- 임상적 진행을 겪은 환자(24명, 57.1%)의 잔류 지수(RI) 중앙값은 57.28%로, 비진행 환자의 0.57%보다 유의하게 높았습니다 (P < 0.0001).
+- 높은 RI(≥ 23.5%)를 가진 환자들의 중앙 전체 생존기간(OS)은 21.5개월이었으며, 낮은 환자들은 도달하지 않았습니다 (P = 0.00059).
+- 낮은 RI(< 23.5%)는 다변수 분석에서 사망 위험 감소와 독립적으로 연관되었습니다 (위험비[HR] = 0.036, 95% 신뢰구간: 0.002-0.83, P = 0.038).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086471/) · [DOI](https://doi.org/10.1186/s13550-026-01510-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086471)</small>
 
 ---
 <a id="pmid-43040170"></a>
@@ -124,6 +161,21 @@ Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%)
 - 수술 후 사망률은 6.4%, R0 절제율(암세포가 남지 않게 절제된 비율)은 56%를 기록했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040170/) · [DOI](https://doi.org/10.1245/s10434-026-20910-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040170)</small>
+
+---
+<a id="pmid-43088146"></a>
+#### [수술 가능한 췌장관선암 환자에서 수술 전 선행치료 대 선 수술 전략: 현재의 근거, 고위험군 위험도 분류 및 향후 방향](https://pubmed.ncbi.nlm.nih.gov/43088146/)
+<small>Perioperative Therapy Versus Surgery-First Strategy for Resectable Pancreatic Ductal Adenocarcinoma: Current Evidence, High-Risk Stratification, and Future Directions</small>
+
+`논문` `종설` `수술` `치료 전반` `진단·조기발견` · 2026-11-12 · PubMed · Cancers (Basel) · 중요도 0.68
+
+수술 가능한 췌장관선암(PDAC) 환자를 대상으로 수술 전 선행치료(NAT)와 선 수술 전략의 효과를 비교한 주요 임상시험 결과를 고찰한 종설 논문입니다. NORPACT-1 임상시험에서는 수술 전 FOLFIRINOX(폴피리녹스) 선행치료군이 선 수술군보다 전체 생존기간(OS)이 짧게 나타났습니다(중앙값 25.1개월 대 38.5개월). 반면 PREP-02/JSAP05 연구에서는 gemcitabine(젬시타빈)과 S-1 병용 선행치료가 선 수술 대비 OS를 유의하게 개선했습니다(37.0개월 대 26.6개월). 수술 가능한 췌장암에서 선행치료의 이점은 일률적이지 않으며, CA19-9 상승이나 림프절 전이 등 고위험 특성을 고려한 환자 선별이 중요합니다.
+
+- NORPACT-1 연구에서 수술 전 FOLFIRINOX 선행치료는 선 수술 대비 생존기간이 열등하게 나타났습니다(중앙 OS 25.1개월 대 38.5개월, 위험비 1.52).
+- PREP-02/JSAP05 연구에서는 gemcitabine 및 S-1 선행치료가 선 수술에 비해 OS를 개선했습니다(중앙 OS 37.0개월 대 26.6개월, 위험비 0.73).
+- PREOPANC-1 및 PREOPANC-2 연구 분석 결과, 수술 전 선행치료의 이점은 절제 불가능에 가까운 경계성 절제 가능 환자에서 주로 나타나며 절제 가능 환자 전체에 일관되게 적용되지는 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088146/) · [DOI](https://doi.org/10.3390/cancers18223616) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13800704/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088146)</small>
 
 ---
 <a id="doi-10.21203-rs.3.rs-11496243-v1"></a>
@@ -292,6 +344,21 @@ Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%)
 - 종양 퇴행 등급(TRG)과 전체 생존기간 간에는 유의미한 상관관계가 확인되었습니다(rs=-0.53, p=0.005).
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42919655/) · [DOI](https://doi.org/10.1111/ans.71001) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42919655)</small>
+
+---
+<a id="pmid-43093645"></a>
+#### [췌장관선암에서 섬유아세포 활성화 단백질 발현의 치료 의존적 조절과 FAP 표적 방사성의약품 치료에 대한 시사점](https://pubmed.ncbi.nlm.nih.gov/43093645/)
+<small>Therapy-Dependent Modulation of Fibroblast Activation Protein Expression in Pancreatic Ductal Adenocarcinoma: Implications for FAP-Targeted Radiopharmaceutical Therapy</small>
+
+`논문` `전임상` `기초연구` `신약·치료제` `진단·조기발견` · 2026-10-23 · PubMed · Pharmaceutics · 중요도 0.54
+
+이 연구는 인간 췌장관선암(PDAC)과 전임상 이종이식 모델에서 섬유아세포 활성화 단백질(FAP) 발현의 치료 반응에 따른 변화를 조사했습니다. 치료에 반응을 보인 인간 췌장관선암 조직에서 FAP 발현과 전사체 수치가 치료 전이나 저항성을 가진 종양에 비해 증가한 것으로 나타났습니다. 세포 유형 분석 결과, 치료에 민감한 종양에서는 염증성 암 관련 섬유아세포가 감소하고 저항성 종양에서는 풍부해졌습니다. 결론적으로 FAP는 췌장관선암 환자를 위한 치료 유전자 진단(theranostic) 바이오마커로서의 가능성을 보여주었습니다.
+
+- 치료에 반응을 보인 췌장관선암 환자 조직(n=8)에서 치료 전 종양(n=7) 및 인접 췌장 조직(n=4)에 비해 FAP 발현이 증가했습니다.
+- 통합 전사체 분석 결과, 치료 민감성 종양에서 FAP 전사체가 저항성 및 치료 전 종양에 비해 더 높았습니다.
+- 마우스 이종이식 모델 실험에서는 PANC-1 종양의 경우 치료 기간 동안 FAP 발현에 변화가 없었으나, SU8686 종양은 9일 차와 15일 차에 일시적인 FAP 증가를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43093645/) · [DOI](https://doi.org/10.3390/pharmaceutics18111361) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13808006/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43093645)</small>
 
 ---
 <a id="pmid-42941632"></a>

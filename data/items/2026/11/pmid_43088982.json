@@ -1,0 +1,63 @@
+{
+ "abstract": "Background/Objectives: Indocyanine green (ICG) fluorescence imaging is inexpensive and increasingly used in pancreatic surgery, but its evidence base has been appraised only in fragments-one application at a time, or ICG pooled with investigational fluorophores-and never specifically for the pancreatic head and periampullary region. We mapped its intraoperative applications, techniques and reported outcomes. Methods: Following the PRISMA-ScR guidelines, we searched PubMed, Scopus, the Cochrane Library and the Directory of Open Access Journals on 29 July 2026 without date restriction. Two reviewers screened and charted independently, one row per article-by-application combination, and synthesised the findings narratively. Results: Forty-two studies (51 article-by-application combinations, 613 patients) covered six applications: stump perfusion, biliary identification and anastomotic testing, perfusion of reconstructed vessels and the duodenal arcade, tumour detection and margin assessment, lymphatic mapping, and staging laparoscopy. Eighteen were case or technique reports, no randomised trial was identified, and only three studies included a group operated without ICG. Remnant hypoperfusion predicted postoperative acute pancreatitis (80% versus 16%, p = 0.011) and clinically relevant fistula (odds ratio 10.0) in two small prospective cohorts, yet in the largest series (n = 100) a visual score of the pancreaticojejunostomy was reproducible (intraclass correlation coefficient 0.76) but discriminated poorly (area under the curve 0.64) and altered no operation. In a single retrospective comparison in duodenum-preserving resection, ICG guidance was associated with less intraoperative bile-duct injury (10% versus 60%, p = 0.009). Conventional doses did not distinguish pancreatic adenocarcinoma from normal parenchyma, whereas second-window imaging made 12 of 13 invasive specimens fluoresce. Dose varied by two orders of magnitude, and no adverse reaction was reported, although tolerability was formally assessed in only nine studies. Conclusions: Intraoperative ICG use in pancreatic head surgery appears safe and feasible. ICG shows key anatomical structures-above all the biliary tree-more reliably than white light alone. Its most promising benefits are the early recognition of an ischaemic pancreatic remnant, with the prospect of preventing postoperative fistula and pancreatitis, and the early identification and protection of the distal bile duct during duodenum-preserving pancreatic head resection.",
+ "authors": [
+  "Hadjigeorgiou L",
+  "Sertidou D",
+  "Delis SG",
+  "Tatsis V",
+  "Lolis E",
+  "Vlachos K",
+  "Glantzounis GK"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088982",
+ "importance": 0.72,
+ "key_points_ko": [
+  "잔여 췌장의 혈류 저하는 수술 후 급성 췌장염 발생률(80% 대 16%, p = 0.011) 및 임상적으로 유의한 누공 위험(오즈비 10.0)과 관련이 있었습니다.",
+  "십이지장 보존 췌장두부 절제술에서 ICG 안내를 활용했을 때 수술 중 담관 손상 비율이 낮았습니다(10% 대 60%, p = 0.009).",
+  "일반적인 용량의 ICG는 췌장관암(pancreatic adenocarcinoma)과 정상 췌장 조직을 명확히 구분하지 못했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/diagnostics16223901",
+  "nct": [],
+  "pmcid": "PMC13803125",
+  "pmid": "43088982"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Diagnostics (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088982/"
+ },
+ "summary_ko": "췌장두부 및 팽대부 주변 수술 중 인도시아닌 그린(Indocyanine Green, ICG) 형광 영상의 수술 중 활용 방식과 치료 결과를 분석한 고찰 연구입니다. 총 42개 연구(환자 613명)를 검토한 결과, ICG 형광 영상은 잔여 췌장의 혈류 평가와 담도 구조 식별에 도움을 주는 것으로 나타났습니다. 췌장 잔여 부위의 혈류 저하는 수술 후 급성 췌장염 및 췌장 누공 발생을 예측하는 데 기여했습니다. 수술 중 심각한 부작용은 보고되지 않아 안전성과 시행 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Intraoperative Indocyanine Green Fluorescence Imaging in Pancreatic Head and Periampullary Surgery: A Scoping Review",
+ "title_ko": "췌장두부 및 팽대부 주변 수술에서 수술 중 인도시아닌 그린 형광 영상의 활용: 주제범위 고찰",
+ "trial": null,
+ "type": "paper"
+}

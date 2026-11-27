@@ -1,0 +1,62 @@
+{
+ "abstract": "Oncogenic mutations in KRAS are primary drivers of human malignancies, particularly in pancreatic, colorectal, and lung adenocarcinomas. Although allele-selective inhibitors have shown clinical activity in some settings, their applicability varies by KRAS allele and tumor type. An important metabolic adaptation observed in selected KRAS-mutant tumor models, particularly pancreatic ductal adenocarcinoma (PDAC), is increased macropinocytosis, a clathrin-independent endocytic process that enables the nonselective engulfment of extracellular fluids and their solutes to support tumor growth. Although this process is physiologically restricted in most quiescent cells, macropinocytosis enables extracellular protein scavenging in several KRAS-mutant tumor models, thereby supporting amino acid availability and metabolism under nutrient-limited conditions. Macropinocytosis-associated uptake of cholesterol and ATP has also been reported in selected breast/ovarian and A549 lung cancer models, respectively; however, lipid acquisition through this route has not been established in KRAS-mutant PDAC, and the dependence of ATP uptake on mutant KRAS remains unclear. Beyond nutrient acquisition, macropinocytosis can mitigate microenvironmental stress, contribute to cytoskeletal remodeling and invasive progression, and reduce treatment sensitivity in selected preclinical models, although these effects depend on tumor lineage, genetic background, and experimental conditions. These context-dependent adaptive functions make hyperactive macropinocytic flux a potential gateway for targeted intervention. Therapeutic strategies currently under investigation include inhibition of macropinocytic nutrient uptake, utilization of macropinocytosis for drug delivery, and induction of methuosis, a non-apoptotic death phenotype associated with extensive vacuolization. Most evidence remains preclinical. This review systematically elucidates the molecular mechanisms governing macropinocytosis, its pleiotropic roles in tumor survival and malignant progression, with emphasis on PDAC, and discusses the evidence and limitations relevant to therapeutic development.",
+ "authors": [
+  "Yu JR",
+  "Yu XY",
+  "Wen KL",
+  "Mi WZ",
+  "Li SX",
+  "Nie HZ"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43087761",
+ "importance": 0.68,
+ "key_points_ko": [
+  "거대음세포작용(macropinocytosis)은 영양 결핍 환경에서 세포 외 단백질을 섭취해 KRAS 변이 췌장암의 생존을 돕습니다.",
+  "거대음세포 작용 억제, 이를 통한 약물 전달, 메슈오시스(methuosis) 유도 등의 치료적 접근법이 연구 중입니다.",
+  "관련 연구와 치료 전략의 대부분은 현재 전임상 단계에 있습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/biomedicines14112504",
+  "nct": [],
+  "pmcid": "PMC13799918",
+  "pmid": "43087761"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43087761/"
+ },
+ "summary_ko": "본 종설 논문은 KRAS 변이 췌장관선암(PDAC)에서 세포 외 액체를 흡수하여 암 성장을 돕는 거대음세포작용(macropinocytosis)의 기전을 설명합니다. 거대음세포작용은 영양이 부족한 환경에서 단백질을 흡수하여 아미노산 대사를 유지하고 암세포 생존과 침윤을 지원합니다. 이를 차단하거나 약물 전달체로 활용하고, 메슈오시스(methuosis)라는 세포사멸을 유도하는 치료법이 탐색되고 있습니다. 현재 대부분의 연구 근거는 전임상 단계에 머물러 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Macropinocytosis in KRAS-Mutant Cancers: Biological Functions and Therapeutic Opportunities in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "KRAS 변이 암에서의 거대음세포작용: 췌장관선암에서의 생물학적 기능 및 치료 가능성",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,63 @@
+{
+ "abstract": "Background: KRAS mutations occur in over 90% of pancreatic ductal adenocarcinomas (PDAC), and KRASG12D is the most frequent variant. G12D-selective inhibitors are now in clinical development, but computational pathology has so far predicted mutation status only at the gene level, leaving allele-specific prediction unexplored. Because genomic testing can be time-consuming and costly, a tool that predicts KRASG12D mutation status from routine hematoxylin and eosin (H&E) images could help identify patients for confirmatory molecular testing and potential treatment with KRASG12D inhibitors. Here we present a multi-scale framework that predicts KRASG12D status from H&E whole-slide images, with integration of computed tomography (CT). Methods: Two public cohorts (TCGA, CPTAC) formed the training set, and an independent external cohort (Osaka Metropolitan University Hospital) served as validation. We developed a dual-magnification pipeline. In the high-magnification branch, a pathology foundation model (CONCH v1.5) was fine-tuned with low-rank adaptation (LoRA) and an attention-based multiple-instance learning head on 20× patches; in the low-magnification branch, a generative image model encoded a whole-slide overview. The two branches were integrated by late fusion into a multi-scale pathomics model, which was further combined with a radiomics model of CT. Results: The multi-scale pathomics model reached a pooled internal test area under the receiver operating characteristic curve (AUC) of 0.611 and an external AUC of 0.701. In the external patients with CT, the combined model reached an AUC of 0.772, compared with 0.753 for pathomics alone. Conclusions: KRASG12D status leaves a signal in routine H&E images and CT of PDAC that deep learning can detect and that transfers to an independent institution. After prospective validation, the framework might help prioritize patients for KRAS testing.",
+ "authors": [
+  "Ma D",
+  "Sano T",
+  "Nishikubo H",
+  "Furukawa Y",
+  "Uchiyama K",
+  "Imanishi D",
+  "Ishidate T",
+  "Gao H"
+ ],
+ "categories": [
+  "diagnosis",
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43089428",
+ "importance": 0.68,
+ "key_points_ko": [
+  "병리 조직 이미지 기반 모델은 외부 검증 코호트에서 0.701의 AUC(수신기 작동 특성 곡선 아래 면적)를 기록했습니다.",
+  "병리 모델에 CT 영상 분석 모델을 결합했을 때 외부 검증 AUC가 0.753에서 0.772로 향상되었습니다.",
+  "내부 테스트 코호트에서 병리 모델의 통합 AUC는 0.611을 기록했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/genes17111432",
+  "nct": [],
+  "pmcid": "PMC13802215",
+  "pmid": "43089428"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-15",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Genes (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43089428/"
+ },
+ "summary_ko": "췌장암 환자의 헤마트록실린-에오신(H&E) 조직 슬라이드 이미지와 컴퓨터단층촬영(CT) 영상으로 KRAS G12D 변이 유무를 예측하는 딥러닝 모델이 개발되었습니다. 연구진은 TCGA 및 CPTAC 코호트로 모델을 학습시키고 일본 오사카 공립대학교 병원의 외부 코호트로 검증을 수행했습니다. 이중 배율 병리 모델과 CT 영상 분석을 결합했을 때 외부 검증에서 0.772의 수신기 작동 특성 곡선 아래 면적(AUC) 성능을 기록했습니다. 본 기술은 향후 유전자 검사 전 KRAS G12D 표적 치료 대상 환자를 선별하는 데 도움을 줄 수 있습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Dual-Magnification Deep Learning Predicts KRASG12D Status from H&E Images of Pancreatic Cancer: A Multi-Cohort Study",
+ "title_ko": "이중 배율 딥러닝을 이용한 췌장암 H&E 조직 상의 KRAS G12D 변이 예측: 다기관 코호트 연구",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,61 @@
+{
+ "abstract": "mRNA-Lipid nanoparticles (LNPs) for cancer vaccines are often considered a linear progression, in which formulation, biodistribution, innate stimulation, antigen expression, and tumor control form a continuum. They are not. This review connects the manufacturing inputs and lipid composition to particle attributes, innate sensing, organ and cell exposure, cytosolic translation, antigen presentation, therapeutic response, and hepatic safety. This review aims to provide a mechanism-aligned framework from critical quality attributes (CQAs) and critical process parameters (CPPs) to innate sensing, multimodal imaging, and preclinical efficacy and safety that can be used to design and interpret preclinical studies of mRNA-LNP cancer vaccines, with explicit attention to orthotopic pancreatic ductal adenocarcinoma (PDAC) models. Principal findings: (i) total organ signal is an inadequate surrogate for productive delivery; the decisive variable is translation of antigen in a permissive antigen-presenting cell (APC) during a defined inflammatory window; (ii) formulation and process variables including size, PDI, encapsulation, RNA integrity and capping, lipid composition, PEG-lipid architecture, mixing conditions, and storage history alter this conversion; and (iii) multimodal imaging is most informative when carrier or payload tracking is paired with reporter or antigen expression, immune profiling, tumor response, and liver-safety assays. We propose a release-to-response architecture for preclinical studies and identify the evidence required for clinically interpretable pharmacology. We reviewed peer-reviewed studies on mRNA cancer vaccination, quantitative imaging, PDAC models, LNP quality-by-design, and formulation-dependent innate immunology. The total organ signal is an inadequate surrogate for productive delivery; the decisive variable is translating antigen into an antigen-presenting cell during a permissive inflammatory window. Particle size, polydispersity, encapsulation, RNA integrity and capping, lipid composition, PEG-lipid architecture, mixing conditions, and storage history can alter this conversion. Multimodal imaging is most informative when carrier or payload tracking is paired with reporter or antigen expression, immune profiling, tumor response, and liver safety assays. PDAC studies have shown that hepatic or splenic exposure can be either a liability or intentional immune reprogramming. We propose a release-to-response architecture for preclinical studies and identify the evidence required for clinically interpretable pharmacology.",
+ "authors": [
+  "Aljabali AAA",
+  "Obeid MA",
+  "Alqudah A",
+  "Gammoh O",
+  "Qnais E"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43089978",
+ "importance": 0.56,
+ "key_points_ko": [
+  "전체 장기 신호는 유효한 약물 전달의 충분한 대리 지표가 아니며, 결정적 변수는 특정 염증 창(window) 내에서 허용적인 항원 제시 세포(APC)에서의 항원 번역입니다.",
+  "입자 크기, 다분산성(PDI), 봉입률, RNA 무결성, 지질 구성, PEG-지질 구조 등 다양한 제형 및 공정 변수가 항원 번역 전환에 영향을 미칩니다.",
+  "다중 모달 이미징은 운반체 또는 탑재체 추적이 리포터/항원 발현, 면역 프로파일링, 종양 반응 및 간 안전성 평가와 결합될 때 가장 유용합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/biom16111589",
+  "nct": [],
+  "pmcid": "PMC13800775",
+  "pmid": "43089978"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-01",
+ "relevance": 0.4,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomolecules",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43089978/"
+ },
+ "summary_ko": "이 논문은 mRNA-지질 나노입자(LNP) 암 백신의 제조 공정, 지질 구성, 체내 분포, 면역 자극, 항원 발현 및 종양 조절 간의 관계를 다룬 문헌 리뷰입니다. 특히 췌장관선암(PDAC) 전임상 모델에 주목하여, 결정적 품질 속성(CQA)과 결정적 공정 변수(CPP)가 면역 반응과 치료 효능에 미치는 영향을 분석했습니다. 저자들은 전체 장기 신호가 유효한 전달의 대리 지표로 부족하며, 핵심 변수는 특정 염증 창 내에서 항원 제시 세포(APC)에서의 항원 번역이라고 밝혔습니다. 또한, 제형 및 공정 변수가 이러한 전환에 영향을 미치며, 다중 모달 이미징이 약리학적 해석에 중요하다고 제안했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "From Formulation Quality to Anti-Tumor Immunity: A Multimodal Imaging and Translational Framework for mRNA-Lipid Nanoparticle Cancer Vaccines in Preclinical Tumor Models",
+ "title_ko": "제형 품질부터 항종양 면역까지: 전임상 종양 모델에서 mRNA-지질 나노입자(LNP) 암 백신을 위한 다중 모달 이미징 및 중개 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

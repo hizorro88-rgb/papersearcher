@@ -25,14 +25,29 @@ search:
 |---|---|---|---|
 | [진행성 또는 전이성 고형암 환자를 위한 경구용 MOMA-313 연구](../trials/NCT06545942.md) | 1상 | 모집 중 | - |
 | [전이성 췌장암 환자를 대상으로 한 pembrolizumab과 olaparib 병용 요법 임상연구](../trials/NCT05093231.md) | 2상 | 진행 중(모집 종료) | - |
-| [수술 및 항암 치료를 마친 BRCA1, BRCA2, PALB2 변이 췌장암 환자 대상 올란파립 유지 치료에 대한 제2상 무작…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
+| [수술 후 절제된 췌장암 및 BRCA1, BRCA2, PALB2 변이 환자에서 olaparib 대 위약을 비교하는 무작위 2상…](../trials/NCT04858334.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암에서 다제 저용량 항암화학요법 GAX-CI 후 olaparib 및 pembrolizumab 유지 치료](../trials/NCT04753879.md) | 2상 | 완료 | - |
 | [유전성 BRCA 변이 전이성 췌장암 환자에서 올라파립 단독 대비 면역항암제 펨브롤리주맙 병용 유지요법을 평가하는 2상 임상시험](../trials/NCT04548752.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 고형암에서 DNA 손상, 신생혈관생성, PD-L1 억제제를 평가하는 연구](../trials/NCT03851614.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 고형암 환자에서 cediranib과 olaparib 병용 요법에 대한 제2상 임상시험](../trials/NCT02498613.md) | 2상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (2)
+## 타임라인 (3)
 
+<a id="pmid-43095475"></a>
+#### [췌장암 바이오마커 및 진단 도구에 관한 종합 종설](https://pubmed.ncbi.nlm.nih.gov/43095475/)
+<small>Pancreatic cancer biomarkers and diagnostic tools (Review)</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `신약·치료제` · 2026-11-03 · PubMed · Med Int (Lond) · 중요도 0.64
+
+본 검토 논문은 췌장관선암(PDAC)의 조기 발견, 예후 평가, 맞춤 치료 선택 및 지속적 모니터링을 위한 바이오마커의 현황을 요약합니다. 백금 기반 항암제 민감성 및 olaparib(올라파립) 유지요법 적용과 연관된 상동 재조합 복구(HRR) 결함을 포함한 예측 바이오마커를 다룹니다. 또한 순환 종양 DNA(ctDNA), CA19-9, SMAD4 상태 등 미세 전이 및 진단 도구의 임상적 한계와 임상 적용을 위한 전향적 검증 필요성을 제시합니다.
+
+- CA19-9는 가장 흔히 쓰이는 혈청 마커지만 단독 진단이나 선별 검사용으로는 미흡합니다.
+- BRCA1/2 변이 및 상동 재조합 복구 결함은 백금 기반 항암제 및 olaparib(올라파립) 유지요법 반응성 예측에 활용됩니다.
+- 대부분의 다중 옴믹스(multi-omics) 후보 바이오마커는 아직 탐색 또는 후향적 검증 단계에 있습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43095475/) · [DOI](https://doi.org/10.3892/mi.2026.348) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13798042/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43095475)</small>
+
+---
 <a id="pmid-42938317"></a>
 #### [공유된 BRIP1 변이와 연관된 가족성 췌장암: 상동 재조합 결핍 및 표적 치료에 대한 시사점](https://pubmed.ncbi.nlm.nih.gov/42938317/)
 <small>Familial Pancreatic Cancer Associated with a Shared BRIP1 Variant: Implications for Homologous Recombination Deficiency and Targeted Therapy</small>

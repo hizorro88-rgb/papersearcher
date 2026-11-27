@@ -1,0 +1,59 @@
+{
+ "abstract": "The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes. A retrospective multicenter study including 204 patients undergoing PD between 2017 and 2025 was performed. Patients receiving Post-IN were compared with those receiving standard postoperative nutritional care. Propensity Score Matching with a 1:1 ratio was used to reduce selection bias. Primary endpoints included 90-day mortality, failure-to-rescue (FTR), morbidity, and pancreas-specific complications. Propensity score matching generated two balanced groups of 51 patients each. After matching, Post-IN was associated with significantly lower 90-day mortality (OR < 0.01, 95% CI < 0.01-0.49; p = 0.013) and FTR (OR < 0.01, 95% CI < 0.01-0.30; p = 0.002). Rates of POPF, clinically relevant POPF, delayed gastric emptying, post-pancreatectomy hemorrhage, biliary leakage, major morbidity, reoperation, and length of hospital stay were comparable between two groups. CCI was lower in the Post-IN group, although the difference did not reach statistical significance (p = 0.061). On multivariable Firth logistic regression, Post-IN remained independently associated with reduced 90-day mortality and FTR. Post-IN was associated with reduced mortality and FTR without affecting the incidence of pancreas-specific complications. These findings support the hypothesis that immunonutrition may enhance the patient's response to postoperative complications rather than preventing their occurrence. However, well powered randomized controlled trials are needed.",
+ "authors": [
+  "D'Ambra V",
+  "Ricci C",
+  "Di Donato G",
+  "Alberici L",
+  "Ingaldi C",
+  "Colangelo E",
+  "Casadei R"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097075",
+ "importance": 0.75,
+ "key_points_ko": [],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1007/s13304-026-02952-9",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097075"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Updates Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097075/"
+ },
+ "summary_ko": "The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

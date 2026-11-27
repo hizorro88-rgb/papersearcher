@@ -1,0 +1,61 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Genomic profiling has become central to understanding prognosis in pancreatic ductal adenocarcinoma (PDAC), yet the canonical drivers KRAS, TP53, SMAD4, and CDKN2A do not fully explain survival heterogeneity, and the prognostic impact of co-occurring alterations remains incompletely characterized.\nMETHODS: We performed integrated genomic, transcriptomic, proteomic, phosphoproteomic, and immune deconvolution analyses of publicly available PDAC datasets. Un-supervised clustering of survival extremes in MSK-IMPACT identified a subgroup enriched for concurrent TP53 and ARID1A mutations.\nRESULTS: ARID1A was mutated in 7-8% of tumors across cohorts, of which 66-72% were TP53 co-mutated. Co-mutated tumors had the shortest overall survival of any subgroup (median 21.4 vs. 34.8 months in non-co-mutated tumors; log-rank p < 0.001), a pattern that persisted in the full MSK-IMPACT cohort and in independent multi-cohort validation. Transcriptomic analysis showed enrichment of MYC target, EMT, and E2F/cell-cycle programs alongside coordinated suppression of oxidative phosphorylation and lipid metabolism, with EMT tracking more closely with ARID1A mutation and cell-cycle programs with TP53 mutation. Immune deconvolution identified reduced plasma cell infiltration in co-mutated tumors. Proteomic profiling recapitulated EMT, hypoxia, and TNF-α/NF-κB enrichment, and kinase-substrate enrichment analysis inferred increased mTOR and MEK1 activity.\nCONCLUSIONS: These findings are hypothesis-generating and suggest that TP53 + ARID1A co-mutated PDAC represents a prognostically distinct subtype, with candidate therapeutic vulnerabilities in MAPK, mTOR, and proteostasis pathways that warrant validation in larger cohorts and functional studies.",
+ "authors": [
+  "Zhang A",
+  "Moon S",
+  "Marathe SA",
+  "Bhattacharya R",
+  "Camp ER"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088139",
+ "importance": 0.63,
+ "key_points_ko": [
+  "ARID1A 변이는 7~8%의 췌장암에서 나타났고 그중 66~72%에서 TP53 변이가 동반되었습니다.",
+  "TP53과 ARID1A 동시 변이 환자군의 전체 생존기간(OS) 중앙값은 21.4개월로, 비동시 변이 환자군의 34.8개월보다 유의하게 짧았습니다(p < 0.001).",
+  "전사체 및 단백체 분석 결과, 동시 변이 종양은 상피간엽전이(EMT), 저산소증, MYC 타겟 경로의 활성화와 산화적 인산화의 억제를 보였습니다.",
+  "키네이스-기질 분석에서는 mTOR 및 MEK1 활성 증가가 추정되었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223607",
+  "nct": [],
+  "pmcid": "PMC13801276",
+  "pmid": "43088139"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088139/"
+ },
+ "summary_ko": "연구진은 공개된 췌관선암(PDAC) 데이터셋을 활용해 유전체, 전사체, 단백체, 면역 분석을 수행했습니다. 분석 결과, ARID1A 변이는 7~8%의 종양에서 관찰되었으며 이 중 66~72%가 TP53을 함께 보유하고 있었습니다. TP53과 ARID1A가 동시 변이된 종양은 가장 짧은 전체 생존기간(OS)을 기록했습니다. 이 결과는 췌장암 환자에서 동시 변이가 예후를 가르는 중요한 분자적 아형임을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Concurrent TP53 and ARID1A Mutations Are Associated with Adverse Survival Outcomes and Distinct Molecular Signatures in Pancreatic Ductal Adenocarcinoma",
+ "title_ko": "TP53과 ARID1A 동시 유전자 변이는 췌장암에서 불리한 생존 결과 및 독특한 분자적 특성과 연관되어 있습니다",
+ "trial": null,
+ "type": "paper"
+}

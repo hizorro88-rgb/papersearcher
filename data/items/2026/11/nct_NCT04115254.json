@@ -18,11 +18,11 @@
  "id": "nct:NCT04115254",
  "importance": 0.74,
  "key_points_ko": [
-  "정위적 자기공명 유도 적응 방사선 치료(SMART)의 타당성과 효능을 평가하는 1-2상 임상시험입니다.",
-  "췌장암, 폐암, 신장암 환자를 대상으로 매일 MRI 기반 방사선 치료 조절 방식을 평가합니다.",
-  "목표 참여 인원은 총 712명입니다."
+  "정위적 자기공명 유도 적응 방사선 치료(SMART)의 타당성과 유효성을 평가하는 1-2상 임상시험입니다.",
+  "췌장암, 폐암, 신장암 환자를 대상으로 하며 총 712명의 환자를 모집합니다.",
+  "1상에서는 안전성을, 2상에서는 종양 제어 및 환자 보고 결과 지표를 평가합니다."
  ],
- "last_updated": "2026-11-26",
+ "last_updated": "2026-11-27",
  "links": {
   "doi": null,
   "nct": [
@@ -45,7 +45,7 @@
   "name": "ClinicalTrials.gov",
   "url": "https://clinicaltrials.gov/study/NCT04115254"
  },
- "summary_ko": "본 연구는 암 환자를 대상으로 정위적 자기공명(MR) 유도 적응 방사선 치료(SMART)의 타당성과 효능을 평가하는 전향적 1-2상 임상시험입니다. 1상에서는 치료의 타당성과 안전성을 평가하며, 2상에서는 종양 조절 및 환자 보고 결과 측정의 개선을 중심으로 효능을 평가합니다. 연구진은 췌장암, 폐암, 신장암 환자를 대상으로 매일 촬영하는 MRI를 기반으로 방사선 치료를 조절하는 방식의 실현 가능성을 확인하고자 합니다. 목표 참여 인원은 총 712명입니다.",
+ "summary_ko": "이 임상시험은 암 환자를 대상으로 정위적 자기공명(MR) 유도 적응 방사선 치료(SMART)의 타당성과 유효성을 평가하는 1-2상 전향적 연구입니다. 1상에서는 SMART 치료의 타당성과 안전성을 평가하며, 2상에서는 종양 제어 및 환자 보고 결과 지표의 개선을 중심으로 유효성을 평가합니다. 췌장암, 폐암, 신장암 환자를 대상으로 매일 MRI를 기반으로 방사선 치료를 조정하는 방식의 타당성을 확인하고자 합니다. 목표 참여 인원은 총 712명입니다.",
  "summary_source": "llm",
  "tags": [
   "Magnetic Resonance Imaging (MRI)",
@@ -60,7 +60,7 @@
   "Metachronous"
  ],
  "title": "Stereotactic Magnetic Resonance Guided Radiation Therapy",
- "title_ko": "정위적 자기공명 유도 방사선 치료(SMART)",
+ "title_ko": "정위적 자기공명 유도 방사선 치료(Stereotactic Magnetic Resonance Guided Radiation Therapy)",
  "trial": {
   "conditions": [
    "Pancreas Cancer",
@@ -89,7 +89,7 @@
     "phone": "617-732-6452"
    }
   ],
-  "eligibility_ko": "선정 기준:\n- 정위적 체부 방사선 치료(stereotactic body radiation therapy)가 필요한 확진된 악성 종양 환자\n- 종양 크기 7cm 이하\n- 18세 이상 성인\n- ECOG 수행능력 2 이하\n- 서면 동의서를 이해하고 자발적으로 서명할 수 있는 능력\n\n제외 기준:\n- 가돌리늄 기반 정맥 조영제에 알레르기 반응 병력 (조영제를 투여받지 않는 경우는 해당 없음)\n- 임산부\n- 심한 폐쇄공포증 또는 불안증\n- MRI 검사를 받을 수 없는 환자",
+  "eligibility_ko": "선정 기준:\n- 정위적 체부 방사선 치료(SBRT)가 필요한 확진된 악성 종양 환자\n- 종양 크기 7cm 이하\n- 18세 이상 성인\n- ECOG 수행능력 상태 2 이하\n- 서면 동의서를 이해하고 자발적으로 서명할 수 있는 능력\n\n제외 기준:\n- 가돌리늄 기반 정맥 조영제에 알레르기 반응 병력 (조영제를 투여받지 않는 경우 해당 없음)\n- 임산부\n- 심한 폐쇄공포증 또는 불안증\n- MRI 검사를 받을 수 없는 환자",
   "eligibility_text": "Inclusion Criteria:\n\n* Participants must have a confirmed malignancy requiring stereotactic body radiation therapy. See specific disease site cohorts for more details.\n* Tumor size ≤ 7cm\n* Age 18 years of older.\n* ECOG performance status ≤2 (Karnofsky ≥60%, see Appendix A)\n* Ability to understand and the willingness to sign a written informed consent document.\n* Specific eligibility requirements for each disease site with be covered in each specific cohort.\n\nExclusion Criteria:\n\n* Specific exclusion requirements for each disease site with be covered in each specific cohort\n* History of allergic reactions attributed to gadolinium-based IV contrast.\n\n  \\-- Note: If a patient will not receive contrast, this is not applicable\n* Pregnant women are excluded from this study.\n* Severe claustrophobia or anxiety\n* Participants who cannot undergo an MRI",
   "enrollment": 712,
   "has_results": false,
@@ -114,7 +114,7 @@
    "max_prior_lines": null,
    "measurable_required": null,
    "min_prior_lines": null,
-   "notes_ko": "방사선 치료가 필요한 췌장암, 폐암, 신장암 등 다양한 암 환자가 참여할 수 있는 MR 유도 방사선 치료 임상시험입니다.",
+   "notes_ko": "방사선 치료가 필요한 췌장암, 폐암, 신장암 환자",
    "prior_excluded": [],
    "prior_required": [],
    "setting": [

@@ -7,7 +7,8 @@
  ],
  "categories": [
   "treatment",
-  "diagnosis"
+  "diagnosis",
+  "basic"
  ],
  "entities": [],
  "evidence": "review",
@@ -21,12 +22,16 @@
  ],
  "id": "pmid:43082828",
  "importance": 0.68,
- "key_points_ko": [],
- "last_updated": "2026-11-26",
+ "key_points_ko": [
+  "췌관선암은 치료 반응의 이질성과 제한된 치료 성적으로 인해 여전히 큰 임상적 도전 과제입니다.",
+  "기존의 인공지능(AI) 접근법들은 예후 예측 모델링, 정적 표현, 제한된 기계론적 해석력 등의 한계가 있습니다.",
+  "이번에 제안된 프레임워크는 다중 스케일 생물학적 및 임상적 데이터, 멀티모달 트랜스포머 모델 등을 통합하여 개별화된 치료 효과를 인과적으로 추정합니다."
+ ],
+ "last_updated": "2026-11-27",
  "links": {
   "doi": "10.3390/jpm16110580",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13804018",
   "pmid": "43082828"
  },
  "pub_types": [
@@ -44,11 +49,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43082828/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) remains a major therapeutic challenge, with limited improvement in outcomes and substantial heterogeneity in treatment response. Systemic chemotherapy remains a cornerstone of treatment across disease stages, yet treatment selection, particularly in metastatic PDAC (mPDAC), is still driven predominantly by clinical characteristics, performance status, prior therapy, and a limited number of molecular biomarkers.",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌관선암(PDAC) 환자의 치료 선택을 개선하기 위한 개념적 프레임워크를 제안하는 문헌 고찰 논문입니다. 전이성 췌관선암(mPDAC) 환자들을 대상으로 생물학적 데이터, 인공지능(AI), 다중 오믹스 프로파일링 등을 통합하여 개별화된 치료 전략을 수립하는 방안을 다루었습니다. 기존 AI 모델의 한계를 극복하고 기계론적이고 인과관계에 기반한 치료 선택을 가능하게 하는 구조를 제시했습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Treatment Selection in Pancreatic Ductal Adenocarcinoma: A Conceptual Framework for Precision Therapy",
- "title_ko": null,
+ "title_ko": "췌관선암 치료 선택: 정밀 치료를 위한 개념적 프레임워크",
  "trial": null,
  "type": "paper"
 }

@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Long-term survival in pancreatic ductal adenocarcinoma (PDAC) remains poor. Although neoadjuvant therapy (NAT) has been increasingly investigated in resectable disease, its benefit compared with upfront surgery remains uncertain. This review evaluates evidence from randomized and prospective trials and explores clinical and molecular factors that may refine patient selection.\nMETHODS: We reviewed key randomized and prospective clinical trials evaluating NAT in resectable PDAC, including NORPACT-1, PANACHE01/PRODIGE-48, PREP-02/JSAP05, NEONAX, PREOPANC-1, PREOPANC-2, and CASSANDRA (PACT-21), the last two of which directly compared different NAT regimens head-to-head in the neoadjuvant setting, whereas PREOPANC-1 compared neoadjuvant chemoradiotherapy with upfront surgery. Outcomes of interest included overall survival (OS), resection rates, and treatment-related differences across resectable and borderline resectable populations. We also examined emerging clinical and biomarker-driven stratification strategies.\nRESULTS: Trials in strictly resectable PDAC have demonstrated mixed results. NORPACT-1 reported inferior OS with neoadjuvant FOLFIRINOX compared to upfront surgery (median OS 25.1 vs. 38.5 months; HR 1.52). PANACHE01/PRODIGE-48 showed comparable OS despite higher R0 resection rates with NAT. In contrast, PREP-02/JSAP05 demonstrated improved OS with neoadjuvant gemcitabine plus S-1 (37.0 vs. 26.6 months; HR 0.73). PREOPANC-1 showed a survival advantage with neoadjuvant chemoradiotherapy, although pooled analyses suggest this benefit is primarily driven by borderline resectable disease, with no statistically significant OS improvement in strictly resectable cohorts. PREOPANC-2 demonstrated no OS difference between neoadjuvant FOLFIRINOX and gemcitabine-based chemoradiation.\nCONCLUSIONS: The benefit of NAT in resectable PDAC is not uniform and appears to depend on underlying tumor biology and risk features. High-risk characteristics, including elevated CA19-9, large tumor size, and nodal involvement, may identify patients most likely to benefit from upfront systemic therapy. Integration of molecular biomarkers such as SMAD4, GATA6, and homologous recombination deficiency into prospective trial design is critical. Ongoing phase III trials will further define optimal treatment strategies in this population.",
+ "authors": [
+  "Hur J",
+  "George S",
+  "Mukherjee S",
+  "Hatoum H"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43088146",
+ "importance": 0.68,
+ "key_points_ko": [
+  "NORPACT-1 연구에서 수술 전 FOLFIRINOX 선행치료는 선 수술 대비 생존기간이 열등하게 나타났습니다(중앙 OS 25.1개월 대 38.5개월, 위험비 1.52).",
+  "PREP-02/JSAP05 연구에서는 gemcitabine 및 S-1 선행치료가 선 수술에 비해 OS를 개선했습니다(중앙 OS 37.0개월 대 26.6개월, 위험비 0.73).",
+  "PREOPANC-1 및 PREOPANC-2 연구 분석 결과, 수술 전 선행치료의 이점은 절제 불가능에 가까운 경계성 절제 가능 환자에서 주로 나타나며 절제 가능 환자 전체에 일관되게 적용되지는 않았습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/cancers18223616",
+  "nct": [],
+  "pmcid": "PMC13800704",
+  "pmid": "43088146"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Cancers (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43088146/"
+ },
+ "summary_ko": "수술 가능한 췌장관선암(PDAC) 환자를 대상으로 수술 전 선행치료(NAT)와 선 수술 전략의 효과를 비교한 주요 임상시험 결과를 고찰한 종설 논문입니다. NORPACT-1 임상시험에서는 수술 전 FOLFIRINOX(폴피리녹스) 선행치료군이 선 수술군보다 전체 생존기간(OS)이 짧게 나타났습니다(중앙값 25.1개월 대 38.5개월). 반면 PREP-02/JSAP05 연구에서는 gemcitabine(젬시타빈)과 S-1 병용 선행치료가 선 수술 대비 OS를 유의하게 개선했습니다(37.0개월 대 26.6개월). 수술 가능한 췌장암에서 선행치료의 이점은 일률적이지 않으며, CA19-9 상승이나 림프절 전이 등 고위험 특성을 고려한 환자 선별이 중요합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Perioperative Therapy Versus Surgery-First Strategy for Resectable Pancreatic Ductal Adenocarcinoma: Current Evidence, High-Risk Stratification, and Future Directions",
+ "title_ko": "수술 가능한 췌장관선암 환자에서 수술 전 선행치료 대 선 수술 전략: 현재의 근거, 고위험군 위험도 분류 및 향후 방향",
+ "trial": null,
+ "type": "paper"
+}

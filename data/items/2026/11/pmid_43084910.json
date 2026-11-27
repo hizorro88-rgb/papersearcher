@@ -1,0 +1,69 @@
+{
+ "abstract": "BACKGROUND: Patients with advanced pancreatic ductal adenocarcinoma (aPDAC) often experience general health decline at diagnosis due to a high symptom burden. The optimal management of symptoms and/or poor ECOG performance status (PS) in these patients remains an unmet medical need.\nPATIENTS AND METHODS: In this multicenter study, patients with PS ≥2 and pathologically confirmed or imaging-suspected aPDAC were enrolled at their first oncology visit in a personalized 14-day emergency integrative supportive care program (14-EISCP) to manage pain, nutrition, diagnostics, and stenting procedures. The primary endpoint was 14-EISCP success, defined as the feasibility of planned procedures and clinical benefit, including post-EISCP PS ≤1; ≥5-point improvement in fatigue, pain, or global health-related quality-of-life (HRQoL) scores (EORTC QLQ-C15-PAL); or chemotherapy initiation within 30 days.\nRESULTS: A total of 106 patients were included, of whom 93 were evaluable for the primary endpoint analysis (median age, 76 years [range, 68-80]; PS 3, 20.9%; metastases, 61.3%). Median overall survival was 4.1 months (95% CI, 2.6-5.6). 14-EISCP was successful in 59.1% (n=55) of patients, meeting the primary objective of clinical benefit, and feasibility was achieved in 70.9% of patients. Post-EISCP clinical benefit was observed in 79.6% of patients, with PS improvement to 0/1 in 13.2%, HRQoL improvement in 23.9%, and chemotherapy initiation ≤30 days in 73.1%. Among evaluable patients, 17.2% received mFOLFIRINOX or gemcitabine + nab-paclitaxel, 35.4% received FOLFOX, 25.3% received gemcitabine or 5-FU alone, and 22.2% received best supportive care. In patients with PS 2 at baseline, the administration of doublet/triplet chemotherapy was associated with improved overall survival compared with single-agent chemotherapy.\nCONCLUSIONS: These results offer a promising framework for improving outcomes in patients with aPDAC, bridging the gap between symptom management and systemic therapy administration. In patients with PS ≥2 and aPDAC, the personalized 14-EISCP was feasible and provided meaningful clinical benefit, allowing doublet or triplet chemotherapy in approximately half of the patients.\nCLINICALTRIALS: gov identifier: NCT02979483.",
+ "authors": [
+  "Rousseau B",
+  "Hilmi M",
+  "Falcoz A",
+  "Vernerey D",
+  "Toullec C",
+  "Lecomte T",
+  "Lambert A",
+  "Tournigand C"
+ ],
+ "categories": [
+  "supportive",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43084910",
+ "importance": 0.77,
+ "key_points_ko": [
+  "14일 긴급 통합 지지요법 프로그램(14-EISCP)의 임상적 이점 달성 성공률은 59.1%였습니다.",
+  "프로그램을 마친 환자의 73.1%가 30일 이내에 항암 화학요법을 시작했습니다.",
+  "전체 환자의 중앙 전체 생존기간(mOS)은 4.1개월이었습니다.",
+  "초기 수행능력 점수 2점 환자 중 2제 또는 3제 병용 항암제 치료를 받은 환자는 단일 항암제 치료군보다 생존기간이 길었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.6004/jnccn.2026.7069",
+  "nct": [
+   "NCT02979483"
+  ],
+  "pmcid": null,
+  "pmid": "43084910"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-25",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Natl Compr Canc Netw",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43084910/"
+ },
+ "summary_ko": "전신 상태가 저하된(ECOG 수행능력 점수 2 이상) 진행성 췌장암 환자를 대상으로 14일간 개인 맞춤형 긴급 통합 지지요법 프로그램(14-EISCP)을 적용한 연구입니다. 통증 관리, 영양 공급, 스텐트 시술 등을 시행하여 환자의 59.1%에서 임상적 이점이 나타났습니다. 지지요법 이후 환자의 73.1%가 30일 이내에 항암 화학요법을 시작할 수 있었습니다. 이 프로그램은 상태가 좋지 않은 환자가 항암 치료를 받을 수 있도록 돕는 실용적인 프레임워크를 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Emergency Integrative Supportive Care Program for Frail Patients With Advanced Pancreatic Cancer: A Prospective GERCOR ARCAD Study",
+ "title_ko": "쇠약한 진행성 췌장암 환자를 위한 긴급 통합 지지요법 프로그램: 전향적 GERCOR ARCAD 연구",
+ "trial": null,
+ "type": "paper"
+}

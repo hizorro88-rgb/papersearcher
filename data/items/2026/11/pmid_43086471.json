@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Accurately identifying patients with locally advanced pancreatic cancer (LAPC) who are unlikely to respond to neoadjuvant FOLFIRINOX therapy remains a critical unmet need. Conventional anatomic imaging often fails to capture early changes in tumor biology. In contrast, dual-time-point ¹⁸F-FDG PET/CT provides a functional assessment of tumor glycolytic dynamics through the retention index (RI). However, the utility of pretreatment RI for predicting treatment response and overall survival (OS) in LAPC has not been systematically evaluated. This study aimed to assess the predictive value of baseline RI derived from dual-time-point ¹⁸F-FDG PET/CT in LAPC patients receiving neoadjuvant therapy.\nRESULTS: This retrospective analysis included 42 LAPC patients who underwent pretreatment dual-time-point ¹⁸F-FDG PET/CT followed by neoadjuvant FOLFIRINOX. The RI was significantly higher in patients who experienced clinical progression (n = 24, 57.1%) compared to non-progressors (median: 57.28% vs. 0.57%; P < 0.0001). Among the 37 patients with complete survival follow-up, time-dependent ROC analysis identified an optimal RI cutoff of 23.5% for predicting 2-year mortality. Patients with a high RI (≥ 23.5%) had a significantly shorter median OS (21.5 months vs. not reached; log-rank P = 0.00059). In a multivariable Cox regression model adjusting for CA19-9, histologic grade, tumor location, treatment duration, and SUV parameters, a low RI (< 23.5%) remained independently associated with a reduced risk of death (HR = 0.036; 95% CI: 0.002-0.83; P = 0.038).\nCONCLUSIONS: Pretreatment RI derived from dual-time-point ¹⁸F-FDG PET/CT is a robust and independent predictor of both treatment resistance and overall survival in LAPC patients undergoing neoadjuvant FOLFIRINOX therapy. Its strong discriminatory performance supports its potential for early risk stratification and personalized treatment selection. Prospective validation in larger cohorts is warranted.",
+ "authors": [
+  "Liu C",
+  "Zhang Z",
+  "Liu K",
+  "Cheng C",
+  "Zuo C"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [
+  "folfirinox"
+ ],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43086471",
+ "importance": 0.64,
+ "key_points_ko": [
+  "임상적 진행을 겪은 환자(24명, 57.1%)의 잔류 지수(RI) 중앙값은 57.28%로, 비진행 환자의 0.57%보다 유의하게 높았습니다 (P < 0.0001).",
+  "높은 RI(≥ 23.5%)를 가진 환자들의 중앙 전체 생존기간(OS)은 21.5개월이었으며, 낮은 환자들은 도달하지 않았습니다 (P = 0.00059).",
+  "낮은 RI(< 23.5%)는 다변수 분석에서 사망 위험 감소와 독립적으로 연관되었습니다 (위험비[HR] = 0.036, 95% 신뢰구간: 0.002-0.83, P = 0.038)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1186/s13550-026-01510-z",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43086471"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-19",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "EJNMMI Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086471/"
+ },
+ "summary_ko": "이 연구는 선행 치료(neoadjuvant therapy)로 FOLFIRINOX 치료를 받은 국소 진행성 췌장암(LAPC) 환자 42명을 대상으로 치료 전 이중 시점 18F-FDG PET/CT에서 측정한 잔류 지수(retention index, RI)의 예측 가치를 평가한 후향적 분석입니다. 분석 결과, 임상적 진행을 겪은 환자들은 비진행 환자에 비해 RI가 유의하게 높았습니다. 높은 RI(≥ 23.5%)를 가진 환자들은 전체 생존기간(OS)이 유의하게 짧았습니다. 치료 전 RI는 국소 진행성 췌장암 환자의 치료 저항성과 전체 생존을 예측하는 독립적인 예측 인자임을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Pretreatment dual-time-point ¹⁸F-FDG PET/CT for predicting response and survival in locally advanced pancreatic cancer receiving neoadjuvant therapy",
+ "title_ko": "국소 진행성 췌장암 환자의 선행 치료 반응 및 생존 예측을 위한 치료 전 이중 시점 18F-FDG PET/CT",
+ "trial": null,
+ "type": "paper"
+}

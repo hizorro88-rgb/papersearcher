@@ -1,0 +1,61 @@
+{
+ "abstract": "Defective major histocompatibility complex class I (MHC-I) antigen presentation enables tumor immune evasion and limits programmed cell death protein 1 (PD-1) blockade efficacy. We tested whether pharmacological enhancement of tumor-cell MHC-I presentation could restore immunogenicity and sensitize tumors to checkpoint therapy. Retro-2, a cyclic inhibitor of retrograde toxin trafficking, increased MHC-I transcripts, surface MHC-I/HLA-ABC, and peptide-MHC-I presentation in murine B16-F10 melanoma and Panc02 pancreatic cancer cells and in human A375 melanoma and BxPC-3 pancreatic cancer cells. These changes enhanced antigen-specific CD8+ T cell killing and IFN-γ/TNF-α release, and increased human tumor-cell susceptibility to tumor-lysate-primed CD8+ T cells. In syngeneic mouse models of B16-F10 melanoma and Panc02 pancreatic cancer, Retro-2 delayed tumor growth, reduced tumor burden, and prolonged survival, accompanied by increased intratumoral CD8+ T cell abundance, proliferation, effector function, and progenitor-exhausted cells. CD8+ T cell depletion largely abolished Retro-2 activity. Combining Retro-2 with PD-1 blockade produced greater tumor control than either monotherapy in both models. Retro-2 was well tolerated, with no detectable changes in body weight, hematological indices, or major-organ histology. These findings identify Retro-2 as a pharmacological enhancer of tumor MHC-I presentation that promotes CD8+ T cell-dependent antitumor immunity and improves PD-1 blockade efficacy.",
+ "authors": [
+  "Xu ZS",
+  "Zhou XA",
+  "Zhang Q",
+  "Jiang K",
+  "Ruan ZL",
+  "Hu MM"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43092069",
+ "importance": 0.49,
+ "key_points_ko": [
+  "Retro-2는 마우스 및 인간 췌장암 세포에서 MHC-I 전사체, 표면 MHC-I/HLA-ABC, 펩타이드-MHC-I 제시를 증가시켰습니다.",
+  "이러한 변화는 항원 특이적 CD8+ T 세포의 살해능과 IFN-γ/TNF-α 분비를 강화했습니다.",
+  "Panc02 마우스 췌장암 모델에서 Retro-2 투여는 종양 성장을 지연시키고 생존기간을 연장했습니다.",
+  "Retro-2와 PD-1 억제제의 병용 투여는 두 단독 요법에 비해 더 뛰어난 종양 조절 효과를 나타냈습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ijms272210449",
+  "nct": [],
+  "pmcid": "PMC13805032",
+  "pmid": "43092069"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43092069/"
+ },
+ "summary_ko": "초록에 명시된 연구는 레트로바이러스 차단제인 Retro-2가 종양 세포의 주조직적합복합체 클래스 I(MHC-I) 항원 제시를 촉진하여 면역원성을 회복하는지 평가했습니다. 마우스 췌장암 세포(Panc02) 및 인간 췌장암 세포(BxPC-3) 등에서 Retro-2는 MHC-I 발현을 증가시키고 항원 특이적 CD8+ T 세포의 살해능을 향상시켰습니다. 마우스 췌장암 모델에서 Retro-2 단독 투여는 종양 성장을 지연시키고 생존기간을 연장했으며, 프로그램화된 세포사멸 단백질 1(PD-1) 면역관문억제제와의 병용 투여 시 단독 요법보다 더 우수한 종양 조절 효과를 보였습니다. Retro-2는 체중 변화, 혈액학적 지표, 주요 장기 조직학적 이상 없이 잘 견뎌졌습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Retro-2 Enhances Tumor-Cell MHC-I Antigen Presentation and CD8+ T Cell-Dependent Antitumor Immunity",
+ "title_ko": "Retro-2는 종양 세포의 MHC-I 항원 제시를 강화하고 CD8+ T 세포 의존성 항종양 면역을 증진합니다",
+ "trial": null,
+ "type": "paper"
+}

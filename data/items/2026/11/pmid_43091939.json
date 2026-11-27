@@ -1,0 +1,60 @@
+{
+ "abstract": "Podocalyxin (PODXL) is a potential diagnostic biomarker and therapeutic target in various tumors. Development of anti-PODXL mAbs has been limited by concerns about potential reactivity with normal tissues. To minimize on-target, off-tumor toxicities and adverse effects, we developed cancer-specific mAbs (CasMabs) against PODXL and demonstrated antitumor efficacy in human tumor xenograft models. In this study, we evaluated humPcMab-60-DXd, an anti-PODXL CasMab conjugated with DXd, a derivative of the topoisomerase I inhibitor exatecan. humPcMab-60-DXd retained cancer-specific reactivity with the pancreatic ductal adenocarcinoma MIA PaCa-2 cell line. Furthermore, humPcMab-60 was internalized into MIA PaCa-2 and inhibited cell proliferation in vitro. In the MIA PaCa-2 xenograft model, humPcMab-60-DXd showed superior antitumor efficacy compared with humPcMab-60. Moreover, humPcMab-60-DXd exhibited dose-dependent antitumor activity without reducing mice body weight. Histological analyses revealed the collapse of the intratumoral structure and a reduction in PODXL expression in the humPcMab-60-DXd-treated xenograft. These results provide the first observation of antitumor efficacy for an anti-PODXL CasMab-drug conjugate, which could facilitate the clinical development of CasMabs for tumor therapy.",
+ "authors": [
+  "Nakamura T",
+  "Ohishi T",
+  "Kaneko MK",
+  "Suzuki H",
+  "Kato Y"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43091939",
+ "importance": 0.51,
+ "key_points_ko": [
+  "humPcMab-60-DXd는 췌관선암 세포주 MIA PaCa-2를 대상으로 암 특이적 반응성과 세포 증식 억제 효과를 보였습니다.",
+  "MIA PaCa-2 이종이식 모델에서 humPcMab-60-DXd는 대조군인 humPcMab-60에 비해 우수한 항종양 효과를 나타냈습니다.",
+  "humPcMab-60-DXd는 체중 감소를 유발하지 않으면서 용량 의존적인 항종양 활동을 보였습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ijms272210317",
+  "nct": [],
+  "pmcid": "PMC13804402",
+  "pmid": "43091939"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43091939/"
+ },
+ "summary_ko": "연구진은 정상 조직 독성을 최소화하기 위해 포도칼릭신(PODXL)을 표적하는 암 특이적 항체(CasMab)인 humPcMab-60에 topoisomerase I 억제제 유도체인 DXd를 접합한 humPcMab-60-DXd를 개발했습니다. 이 약물은 췌관선암(pancreatic ductal adenocarcinoma) 세포주인 MIA PaCa-2에서 암 특이적 반응성을 유지하고 세포 증식을 억제했습니다. MIA PaCa-2 이종이식 모델에서 humPcMab-60-DXd는 체중 감소 없이 용량 의존적인 우수한 항종양 효과를 보였습니다. 초록에 명시된 임상 환자 대상 수치는 없습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "A Cancer-Specific Anti-Podocalyxin Monoclonal Antibody-Drug Conjugate Exerted Antitumor Activity in a Pancreatic Cancer Xenograft Model",
+ "title_ko": "암 특이적 항-포도칼릭신 단일클론항체-약물 접합체의 췌장암 이종이식 모델에서의 항종양 효과",
+ "trial": null,
+ "type": "paper"
+}

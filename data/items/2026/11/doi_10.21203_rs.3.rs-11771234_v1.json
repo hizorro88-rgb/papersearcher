@@ -1,0 +1,62 @@
+{
+ "abstract": "<title>Abstract</title>  <p>  Antiangiogenic immunotherapies are reshaping the solid tumors treatment, but pancreatic ductal adenocarcinoma (PDAC) remains poorly responsive owing to its unique vascular microenvironment. Here we identify ERK hyperactivation driven by KRAS  <sup>G12D</sup>  mutation as a primary determinant of antiangiogenic resistance in PDAC. Analysis of clinical specimens and the KPC (KRAS  <sup>G12D</sup>  ; Trp53  <sup>R172H</sup>  ; Pdx1-Cre) spontaneous PDAC model revealed that tumors with ERK hyperactivation constitute a prominent subgroup that derives little benefit from antiangiogenic treatment. Using an ERK-KTR reporter–based high-throughput screen of 434 natural products, we identified polyphyllin B as an ERK inhibitor capable of sensitizing tumors to the antiangiogenic agent rivoceranib. In co-culture system, polyphyllin B and rivoceranib combination suppresses PDAC cell proliferation and migration, as well as the tube formation and sprouting of human umbilical vein endothelial cells (HUVECs). In KPC mice, the combination therapy inhibited tumor progression by preventing excessive angiogenesis, normalizing tumor vasculature, and reprogramming the immunosuppressive microenvironment (TME). Mechanistically, VEGFR2 forms a complex with integrin alpha V (ITGAV) to sustain ERK activation and drive aberrant angiogenesis, whereas polyphyllin B directly binds ITGAV and disrupts the ITGAV/VEGFR2 complex, thereby sensitizing tumors to antiangiogenic therapy. Translationally, Pluronic F127-based nanodelivery system co-encapsulating polyphyllin B and rivoceranib exhibited robust antitumor efficacy with favorable tolerance in patient-derived xenograft (PDX) model. Collectively, our findings reveal the ITGAV/VEGFR2-ERK axis as a clinically actionable target and establish polyphyllin B as a vascular-normalizing agent for KRAS  <sup>G12D</sup>  -mutant PDAC treatment.  </p>",
+ "authors": [
+  "Wang Q",
+  "Yang Z",
+  "Yang X",
+  "Zhang Z",
+  "Che S",
+  "Zhang X",
+  "Yang J",
+  "Shi W"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "doi:10.21203/rs.3.rs-11771234/v1",
+ "importance": 0.56,
+ "key_points_ko": [
+  "KRAS G12D 변이 췌장암에서 ERK 과활성화는 항혈관신생 치료 저항성의 주요 원인입니다.",
+  "Polyphyllin B는 ITGAV에 결합하여 ITGAV/VEGFR2 복합체를 파괴하고 ERK 활성을 조절합니다.",
+  "Polyphyllin B와 rivoceranib 병용 투여는 종양 혈관을 정상화하고 면역억제 미세환경을 개선했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.21203/rs.3.rs-11771234/v1",
+  "nct": [],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Preprint"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Research Square",
+  "name": "Europe PMC (preprint)",
+  "url": "https://europepmc.org/article/PPR/PPR1378755"
+ },
+ "summary_ko": "본 연구는 KRAS G12D 변이 췌장암(PDAC)에서 안지오제네시스 억제 치료 저항성의 원인인 ERK 과활성화를 규명했습니다. 434개 천연물 스크리닝을 통해 polyphyllin B가 ERK 억제제로서 rivoceranib(리보세라닙)의 효과를 민감화함을 확인했습니다. KPC 마우스 모델과 환자 유래 이식편(PDX) 모델에서 polyphyllin B와 rivoceranib 병용 치료는 종근 진행을 억제하고 혈관 정상화를 유도했습니다. 기전적으로 polyphyllin B는 ITGAV에 직접 결합하여 ITGAV/VEGFR2 복합체를 교란함으로써 항혈관신생 치료의 효과를 높였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Targeting the ITGAV-VEGFR2 Complex with Polyphyllin B Normalizes Tumor Vessels to Combat KRASG12D-Mutant Pancreatic Cancer",
+ "title_ko": "다이안지오제닉 저항성을 극복하기 위한 Polyphyllin B의 ITGAV-VEGFR2 복합체 표적화 연구",
+ "trial": null,
+ "type": "preprint"
+}

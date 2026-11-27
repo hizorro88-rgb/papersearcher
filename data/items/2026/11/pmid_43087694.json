@@ -1,0 +1,55 @@
+{
+ "abstract": "Gastric, colorectal, and pancreatic cancers remain among the most significant and clinically challenging malignant neoplasms of the digestive system worldwide, accounting for a substantial proportion of cancer-related morbidity and mortality [...].",
+ "authors": [
+  "Triantafillidis JK"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43087694",
+ "importance": 0.55,
+ "key_points_ko": [
+  "위암, 대장암, 췌장암은 전 세계적으로 암 관련 이병률과 사망률의 상당 부분을 차지하는 소화기계 종양입니다.",
+  "초록에 구체적인 생존기간, 반응률, 위험비 등의 수치는 명시되지 않았습니다.",
+  "분자 기전과 임상 관리 방안을 연결하여 향후 치료 방향을 조망합니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/biomedicines14112437",
+  "nct": [],
+  "pmcid": "PMC13800094",
+  "pmid": "43087694"
+ },
+ "pub_types": [
+  "Editorial"
+ ],
+ "published_at": "2026-10-23",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43087694/"
+ },
+ "summary_ko": "이 논문은 전 세계 소화기계 악성 종양 중에서도 임상적으로 큰 도전 과제로 남아 있는 위암, 대장암, 췌장암의 분자 기전과 임상 관리 및 미래 전망을 다룹니다. 초록에 구체적인 환자 수나 치료 결과 등 핵심 수치는 명시되지 않았습니다. 본 문헌은 편집자 주(editorial) 형태로 해당 암종들에 대한 종합적인 통찰을 제공합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "New Insights in Gastric, Colorectal, and Pancreatic Cancer: Bridging Molecular Mechanisms, Clinical Management, and Future Horizons",
+ "title_ko": "위암, 대장암, 췌장암의 새로운 지견: 분자 기전, 임상 관리, 그리고 미래의 지평을 잇다",
+ "trial": null,
+ "type": "paper"
+}

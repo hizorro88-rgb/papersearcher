@@ -1,0 +1,61 @@
+{
+ "abstract": "Background/Objectives: Pancreatic ductal adenocarcinoma (PDAC) and type 2 diabetes mellitus (T2DM) share developmental links that are both driven by metabolic dysfunctions, complicating early diagnosis and treatment. This review systematically explores the shared pathogenic mechanisms and molecular pathways between PDAC and T2DM, including chronic inflammation (NF-κB/JNK/NLRP3), insulin resistance (PI3K/Akt), metabolic reprogramming (AMPK/mTOR), and oxidative stress (ROS/Nrf2). Methods: Licochalcones (LCs) are natural chalcone constituents derived from the roots of licorice (Glycyrrhiza Radix). The pharmacological activities of different subtypes of LCs (LCA-LCE) in the aforementioned common pathways have been comprehensively analyzed. Results: A possible bidirectional regulatory ability of LCs is proposed: it can restore insulin signaling in metabolically impaired tissues and inhibit abnormal oncogenic signaling pathways in PDAC. Although there are experimental bases, clinical studies on the comorbidity of PDAC and T2DM are still insufficient. This review evaluates whether the context-dependent effects of LCs reported in metabolic and tumor models provide a mechanistic basis for investigating PDAC-T2DM comorbidity. Conclusions: Direct PDAC findings are distinguished from metabolic evidence and non-PDAC tumor studies, while simultaneous antitumor and metabolic benefits remain a hypothesis requiring validation.",
+ "authors": [
+  "Zheng Q",
+  "Liu Y",
+  "Chen H",
+  "Chen Q",
+  "Ko JK"
+ ],
+ "categories": [
+  "basic",
+  "drug",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43087745",
+ "importance": 0.68,
+ "key_points_ko": [
+  "리코찰콘은 췌장암과 2형 당뇨병이 공유하는 NF-κB, PI3K/Akt, AMPK/mTOR 등 주요 신호 전달 경로를 조절합니다.",
+  "대사 장애 모델에서는 인슐린 신호를 회복시키고 췌장암 모델에서는 종양 신호를 억제하는 상황 의존적 분자 작용이 보고되었습니다.",
+  "췌장암과 당뇨병이 동반된 환자에서 리코찰콘의 동시 항암 및 대사 개선 이점은 추가 검증이 필요한 가설 단계입니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/biomedicines14112489",
+  "nct": [],
+  "pmcid": "PMC13799507",
+  "pmid": "43087745"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-10-29",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Biomedicines",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43087745/"
+ },
+ "summary_ko": "본 리뷰 논문은 췌장관선암(PDAC)과 2형 당뇨병(T2DM)이 공유하는 만성 염증, 인슐린 저항성, 대사 재편성 등 공통 분자 경로를 분석했습니다. 감초(Glycyrrhiza Radix) 뿌리 추출물인 리코찰콘(Licochalcones, LCs) 성분이 이러한 경로에 미치는 약리적 효과를 종합적으로 다루었습니다. 리코찰콘이 대사 장애 조직에서는 인슐린 신호를 회복하고 췌장암 세포에서는 암 신호를 억제할 수 있다는 가능성이 제시되었으나, 실제 동시 효과에 대한 임상 검증은 아직 부족한 상황입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Licochalcones in Pancreatic Ductal Adenocarcinoma and Type 2 Diabetes Mellitus: Context-Dependent Modulation of Shared Signaling Pathways and an Evidence-Stratified Framework",
+ "title_ko": "췌장관선암 및 2형 당뇨병에서 리코찰콘의 역할: 공유 신호 전달 경로의 상황 의존적 조절 및 증거 계층화 프레임워크",
+ "trial": null,
+ "type": "paper"
+}

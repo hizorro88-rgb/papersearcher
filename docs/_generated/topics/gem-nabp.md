@@ -43,7 +43,7 @@ search:
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험 (RA…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
-| [경계성 절제 가능 췌관선암 환자를 위한 유전체 서명 기반 맞춤형 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
+| [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
 | [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](../trials/NCT07562152.md) | 3상 | 모집 중 | 1 |
@@ -55,9 +55,9 @@ search:
 | [경계성 절제 가능 췌장암에서 선행화학요법으로서 IBI343 병용요법의 제2상 임상시험](../trials/NCT07415525.md) | 2상 | 모집 예정 | - |
 | [Claudin18.2 양성 췌장암 환자에서 FG-M108과 항암화학요법 대 위약과 항암화학요법을 비교하는 임상시험](../trials/NCT07383922.md) | 3상 | 모집 예정 | - |
 | [진행성 및 전이성 췌관선암 환자를 대상으로 한 OMTX705, 젬시타빈/납-파클리탁셀, 티슬렐리주맙 병용요법의 1b상 임상시험](../trials/NCT07377045.md) | 1상 | 모집 중 | - |
-| [고형암 환자에서 HRS-4642 병용 요법의 임상시험](../trials/NCT07296341.md) | 1상/2상 | 진행 중(모집 종료) | - |
+| [고형암 환자에서 HRS-4642 병용 요법의 임상 1/2상 시험](../trials/NCT07296341.md) | 1상/2상 | 진행 중(모집 종료) | - |
 | [MTAP 결손 췌장암 환자를 대상으로 BMS-986504를 평가하는 2상 임상시험](../trials/NCT07283705.md) | 2상 | 모집 중 | - |
-| [전이성 췌장암 환자에서 relacorilant와 nab-paclitaxel 및 gemcitabine 병용 임상시험](../trials/NCT07259317.md) | 2상 | 모집 중 | - |
+| [전이성 췌장암 환자에서 relacorilant와 nab-paclitaxel, gemcitabine 병용 투여 2상 임상시험](../trials/NCT07259317.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 1차 치료로서 리포조말 이리노테칸(irinotecan hydrochloride liposome injectio…](../trials/NCT07238283.md) | 3상 | 모집 중 | - |
 | [국소 진행성 또는 전이성 췌관선암(PDAC) 1차 치료 후 MR001과 항암화학요법 병용 임상시험](../trials/NCT07235202.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암에서 serplulimab과 bevacizumab을 잰 복합 순차적 AG 및 mFOLFOX 요법 대 AG 단독…](../trials/NCT07235930.md) | 3상 | 모집 중 | - |
@@ -67,7 +67,7 @@ search:
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
 | [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
-| [KRAS G12D 변이 고형암 환자를 위한 VS-7375 1/2상 연구](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
+| [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 임상시험](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
@@ -75,14 +75,14 @@ search:
 | [복막 전이 췌장암 환자에서 온열 복강내 화학요법과 정맥 내 화학요법 병용의 안전성 및 유효성을 평가하는 2상 임상시험](../trials/NCT06946901.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자를 위한 선행치료로서 Ivonescimab 및 항암화학요법 병용 연구](../trials/NCT06944106.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 AG 요법과 nimotuzumab 병용 후 비가역적 전기천공술(IRE) Ablation 순차 치료](../trials/NCT06938503.md) | 2상 | 모집 예정 | - |
-| [PDAC 및 NSCLC 환자에서 TNG462 병용요법의 안전성, 내약성 및 효능을 평가하기 위한 연구](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [TNG462 병용 투여의 안전성, 내인성 및 유효성을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
 | [전이성 췌장암 환자를 대상으로 한 주사용 파클리탁셀 고분자 미셀 3상 임상시험](../trials/NCT06752811.md) | 3상 | 모집 중 | - |
 | [EGFR 양성 췌장암에서 수술 후 님오투주맙과 냅파클리탁셀+젬시타빈 병용 보조치료 연구](../trials/NCT06722911.md) | 2상 | 모집 중 | - |
 | [경계성 및 국소진행성 췌장암에서 수술 전 선행화학요법의 표준 기간 대 연장 기간 비교 3상 임상시험](../trials/NCT06714604.md) | 3상 | 모집 중 | - |
-| [알파 방사선 방출기(DaRT)와 항암화학요법 병용을 통한 국소진행성 및 전이성 췌장암 치료 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
+| [국소 진행성 및 전이성 췌장암 치료를 위한 화학요법과 알파선 방출기(DaRT) 병용 임상시험](../trials/NCT06698458.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [전이성 췌장암 환자를 위한 YL-13027 및/또는 HY-0102와 AG 요법 병용 임상 1/2상 시험](../trials/NCT06662669.md) | 1상/2상 | 모집 예정 | - |
 | [수술 가능 췌장관선암 환자에서의 수술 전후 fostamatinib, gemcitabine, nab-paclitaxel 병용…](../trials/NCT06639724.md) | 1상 | 모집 중 | - |
 | [전이성 췌관선암 환자에서 켐리클루스타트(quemliclustat) 및 항암화학요법 대 위약 및 항암화학요법을 비교하는 임상시험](../trials/NCT06608927.md) | 3상 | 진행 중(모집 종료) | 3 |
@@ -134,8 +134,24 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (27)
+## 타임라인 (28)
 
+<a id="pmid-43084910"></a>
+#### [쇠약한 진행성 췌장암 환자를 위한 긴급 통합 지지요법 프로그램: 전향적 GERCOR ARCAD 연구](https://pubmed.ncbi.nlm.nih.gov/43084910/)
+<small>Emergency Integrative Supportive Care Program for Frail Patients With Advanced Pancreatic Cancer: A Prospective GERCOR ARCAD Study</small>
+
+`논문` `관찰연구` `지지요법·삶의질` `치료 전반` `진단·조기발견` · 2026-11-25 · PubMed · J Natl Compr Canc Netw · 중요도 0.77
+
+전신 상태가 저하된(ECOG 수행능력 점수 2 이상) 진행성 췌장암 환자를 대상으로 14일간 개인 맞춤형 긴급 통합 지지요법 프로그램(14-EISCP)을 적용한 연구입니다. 통증 관리, 영양 공급, 스텐트 시술 등을 시행하여 환자의 59.1%에서 임상적 이점이 나타났습니다. 지지요법 이후 환자의 73.1%가 30일 이내에 항암 화학요법을 시작할 수 있었습니다. 이 프로그램은 상태가 좋지 않은 환자가 항암 치료를 받을 수 있도록 돕는 실용적인 프레임워크를 제공합니다.
+
+- 14일 긴급 통합 지지요법 프로그램(14-EISCP)의 임상적 이점 달성 성공률은 59.1%였습니다.
+- 프로그램을 마친 환자의 73.1%가 30일 이내에 항암 화학요법을 시작했습니다.
+- 전체 환자의 중앙 전체 생존기간(mOS)은 4.1개월이었습니다.
+- 초기 수행능력 점수 2점 환자 중 2제 또는 3제 병용 항암제 치료를 받은 환자는 단일 항암제 치료군보다 생존기간이 길었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084910/) · [DOI](https://doi.org/10.6004/jnccn.2026.7069) · [NCT02979483](https://clinicaltrials.gov/study/NCT02979483) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084910)</small>
+
+---
 <a id="pmid-43061577"></a>
 #### [PD-L1 표적 광활성화 리포솜을 통한 nab-paclitaxel의 세포 실험 반응 시너지 향상 및 세포 주기 변화와 면역원성 신호 증폭](https://pubmed.ncbi.nlm.nih.gov/43061577/)
 <small>Synergistic enhancement of in vitro nab-paclitaxel responses by PD-L1 immune checkpoint targeted photoactivable liposomes with altered cell-cycle progression and amplified immunogenic signaling</small>

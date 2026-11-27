@@ -1,24 +1,7 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,462</b><span>누적 수집<br><small>논문·소식 855 · 임상시험 607</small></span></div><div class="ps-stat"><b>+27</b><span>오늘 신규<br><small>갱신 32건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,513</b><span>누적 수집<br><small>논문·소식 906 · 임상시험 607</small></span></div><div class="ps-stat"><b>+51</b><span>오늘 신규<br><small>갱신 32건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-26](_generated/daily/2026/11/26.md)
+최근 수집일: [2026-11-27](_generated/daily/2026/11/27.md)
 
-<a id="nct-nct07491445"></a>
-#### [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](https://clinicaltrials.gov/study/NCT07491445)
-<small>Study of Daraxonrasib and Daraxonrasib + GnP as First-line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
-
-`임상시험` `3상` `신약·치료제` `치료 전반` · 2026-03-24 · ClinicalTrials.gov · Revolution Medicines, Inc. · 중요도 1.00
-
-**NCT07491445** · 3상 · 모집 중 · 국내 6곳 · [참여 조건·기관 보기](_generated/trials/NCT07491445.md)
-
-이 임상시험은 전이성 췌장선암(metastatic pancreatic adenocarcinoma) 환자를 대상으로 신약 RAS(ON) 저해제인 daraxonrasib 단독요법 또는 daraxonrasib과 gemcitabine 및 nab-paclitaxel(GnP) 병용요법의 안전성과 유효성을 평가합니다. 표준 치료인 gemcitabine 및 nab-paclitaxel 단독요법과 비교하는 무작위 배정, 공개, 글로벌 3상 임상시험입니다. 환자들은 daraxonrasib 단독, daraxonrasib + GnP, 또는 GnP 단독의 세 그룹 중 하나로 무작위 배정됩니다. 국내 6개 기관을 포함하여 총 900명의 환자를 모집할 예정입니다.
-
-- 대상 질환은 전이성 췌장선암(metastatic pancreatic adenocarcinoma)이며, 1차 치료로 진행됩니다.
-- 시험군은 daraxonrasib 단독(Arm A) 또는 daraxonrasib + gemcitabine 및 nab-paclitaxel(Arm B)이며, 대조군은 gemcitabine 및 nab-paclitaxel(Arm C)입니다.
-- 목표 환자 수는 총 900명이며 전 세계 여러 국가 및 국내 6개 기관에서 참여합니다.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07491445) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07491445)</small>
-
----
 <a id="nct-nct07562152"></a>
 #### [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](https://clinicaltrials.gov/study/NCT07562152)
 <small>Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma</small>
@@ -36,6 +19,23 @@
 <small>[원문](https://clinicaltrials.gov/study/NCT07562152) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07562152)</small>
 
 ---
+<a id="nct-nct07616362"></a>
+#### [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](https://clinicaltrials.gov/study/NCT07616362)
+<small>Personalize (Signature Driven) Neoadjuvant Chemotherapy Trial for Patients With Resectable Borderline Pancreatic Ductal Adenocarcinoma.</small>
+
+`임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-06-01 · ClinicalTrials.gov · Federation Francophone de Cancerologie Digestive · 중요도 1.00
+
+**NCT07616362** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07616362.md)
+
+본 임상시험(NEOPREDICT)은 절제 가능성 경계성 췌관선암(BR-PDAC) 환자를 대상으로 유전자 발현 서명(Pancreas-View Signature)을 활용하여 젬시타빈(gemcitabine) 감수성에 따른 맞춤형 선행화학요법(NAC)의 효과를 평가합니다. 환자들은 젬시타빈 + 랍파클리탁셀(nab-paclitaxel) 병용요법 또는 표준 치료인 mFOLFIRINOX 요법을 배정받아 치료를 받게 됩니다. 이 연구는 최적의 항암 치료법을 선택하고 불필요한 독성을 피하며 수세술 성공률을 높이기 위한 목적을 가집니다. 목표 환자 수는 110명이며 2상 임상시험으로 진행됩니다.
+
+- 대상 질환은 국소 진행성이거나 절제 가능성 경계성 췌관선암(BR-PDAC)입니다.
+- 중재 치료로 nab-paclitaxel / gemcitabine 또는 mFOLFIRINOX가 사용됩니다.
+- 목표 환자 수는 110명이며 2상 임상시험으로 진행됩니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07616362) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07616362)</small>
+
+---
 <a id="pmid-43062619"></a>
 #### [췌장 종양의 MRI 라디오믹스: 방법론적 질 및 영상 재현성에 대한 체계적 문헌고찰](https://pubmed.ncbi.nlm.nih.gov/43062619/)
 <small>MRI radiomics of pancreatic tumours: a systematic review of methodological quality and imaging reproducibility</small>
@@ -51,33 +51,21 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062619/) · [DOI](https://doi.org/10.1186/s41747-026-00837-5) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13788147/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062619)</small>
 
 ---
-<a id="pmid-43068365"></a>
-#### [췌관선암 고위험군을 위한 췌장암 감시 검사 지침서](https://pubmed.ncbi.nlm.nih.gov/43068365/)
-<small>[Position paper: surveillance for pancreatic cancer in individuals at elevated risk for pancreatic ductal adenocarcinoma]</small>
+<a id="pmid-43086040"></a>
+#### [[Diagnosis, treatment and stratified management of pancreatic cancer in elderly patients]](https://pubmed.ncbi.nlm.nih.gov/43086040/)
+`논문` `가이드라인` `수술` `치료 전반` `진단·조기발견` · 2026-11-26 · PubMed · Zhonghua Wai Ke Za Zhi · 중요도 0.95
 
-`논문` `가이드라인` `진단·조기발견` · 2026-11-01 · PubMed · Harefuah · 중요도 0.90
+Pancreatic cancer is highly malignant. Elderly patients often have multiple comorbidities, impaired physical function, and poor nutritional status, which can lead to inadequate treatment or delayed intervention and significantly compromise overall prognosis.
 
-본 지침서는 유전적 또는 가족성 위험이 높은 췌관선암(PDAC) 고위험군을 대상으로 한 조기 발견 및 감시 검사 권고안을 다룹니다. 적절한 대상군에서 수행하는 조기 발견 프로그램은 완치 가능한 단계에서의 진단과 수술적 치료를 가능하게 합니다. BRCA2 등 특정 유전자 변이 보유자나 췌장암 가족력이 있는 고위험군에게 자기공명영상(MRI) 또는 내시경 초음파(EUS)를 통한 매년 감시 검사가 권장됩니다. 다만 수술을 원하지 않거나 건강 상태상 수술이 불가능한 대상자는 감시 프로그램 참여 이점이 없습니다.
-
-- BRCA2 등 특정 유전자 변이 보유자 또는 강한 가족력이 있는 고위험군에게 MRI 또는 내시경 초음파(EUS)를 이용한 연간 감시 검사를 권장합니다.
-- 적절한 연령에 시작하는 고위험군 췌장암 조기 발견 프로그램은 임상적 효과와 비용 효과성이 확인되었습니다.
-- 의학적 상태로 인해 수술이 불가능하거나 수술적 치료를 원하지 않는 경우에는 감시 검사의 이점이 없습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43068365/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43068365)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086040/) · [DOI](https://doi.org/10.3760/cma.j.cn112139-20261008-00400) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086040)</small>
 
 ---
-<a id="pmid-43062045"></a>
-#### [국소 진행성 췌장암에서 장 자가이식을 동반한 근치적 절제술에 대한 국제 전문가 합의](https://pubmed.ncbi.nlm.nih.gov/43062045/)
-<small>International expert consensus on radical resection combined with intestinal autotransplantation for locally advanced pancreatic cancer</small>
+<a id="pmid-43091440"></a>
+#### [Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/43091440/)
+`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-11-20 · PubMed · Med Sci (Basel) · 중요도 0.91
 
-`논문` `가이드라인` `수술` `치료 전반` `지지요법·삶의질` · 2026-10-31 · PubMed · Br J Surg · 중요도 0.84
+BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.
 
-광범위한 장간막 혈관 침범이 있는 국소 진행성 췌장암(LAPC) 환자에게 장 자가이식을 동반한 근치적 절제술(RRCIA)이 잠재적 완치 수술법으로 부상하고 있습니다. 이에 따라 국제 다학제 전문가 패널이 델파이 기법을 활용하여 환자 선별, 수술 전 치료, 수술 전략, 주수술기 관리 등에 관한 20개의 합의 권고안을 도출했습니다. 전문가들은 충분한 선행항암요법(neoadjuvant therapy) 후 경험이 풍부한 고용량(고빈도) 병원에서 매우 선별된 환자에게만 이 수술을 시행하도록 권고했습니다. 또한 혈류가 잘 통하는 장과 회맹판을 보존하고, 항응고 요법, 영양 지원, 보조항암치료 및 체계적인 장기 추적 관찰을 개별화하여 적용할 것을 강조했습니다.
-
-- 총 20개의 합의 항목 중 권고 강도는 강력 권고 6개, 조건부 권고 14개로 구성되었습니다.
-- 장 자가이식 동반 절제술(RRCIA)은 적절한 선행항암치료와 다학제 평가를 거친 고도로 선별된 환자에게만 경험이 많은 대형 센터에서 시행하도록 권고했습니다.
-- 혈류 공급이 원활한 장과 회맹판의 보존을 강조하며, 수술 후 맞춤형 항응고 요법과 영양 공급 및 보조치료의 중요성을 제시했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062045/) · [DOI](https://doi.org/10.1093/bjs/znag147) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13786162/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062045)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43091440/) · [DOI](https://doi.org/10.3390/medsci14070802) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13806029/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43091440)</small>
 
 ---

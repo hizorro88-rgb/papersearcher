@@ -1,0 +1,59 @@
+{
+ "abstract": "Background: Pancreatic cancer (PC) remains one of the most lethal malignancies because of its highly immunosuppressive tumor microenvironment and profound resistance to current therapies. Increasing evidence suggests that pyroptosis, a pro-inflammatory form of programmed cell death, may provide a promising strategy for enhancing anti-tumor immunity and improving therapeutic responsiveness. Ginsenoside Compound K (CK), a major bioactive intestinal metabolite of Panax ginseng, exhibits diverse pharmacological and anti-tumor activities. However, whether its anti-PC effects involve the induction of tumor cell pyroptosis remains unclear. Methods: The anti-tumor effects and underlying mechanisms of CK were investigated in Panc02 tumor-bearing mice and BxPC-3 pancreatic cancer cells. Tumor growth, systemic toxicity, pyroptosis-related events, reactive oxygen species (ROS) production and the involvement of the HAPLN1-TNFα/NF-κB signaling pathway were evaluated. Pharmacological inhibition of ROS and caspase-1 was employed to verify the mechanism of CK-induced pyroptosis. Results: CK significantly suppressed tumor growth without causing apparent systemic toxicity and induced characteristic pyroptotic changes, including caspase-1 activation, enhanced lactate dehydrogenase release, and disruption of mitochondrial membrane potential. Mechanistically, CK promoted intracellular ROS accumulation and activated the HAPLN1-TNFα/NF-κB axis, leading to NLRP3 inflammasome activation and subsequent cleavage of caspase-1 and gasdermin D (GSDMD). And either ROS scavenging or caspase-1 inhibition markedly attenuated CK-induced pyroptosis. Conclusions: CK exerts potent anti-pancreatic cancer activity by promoting ROS/NLRP3-dependent pyroptosis and is associated with HAPLN1-related inflammatory signaling, supporting its further development as a therapeutic candidate for pancreatic cancer.",
+ "authors": [
+  "Liu J",
+  "Fang C",
+  "Yang H",
+  "Fan D",
+  "Deng J"
+ ],
+ "categories": [
+  "basic",
+  "drug"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43092874",
+ "importance": 0.57,
+ "key_points_ko": [
+  "Ginsenoside Compound K(CK)는 전신 독성 없이 췌장암 종양 성장을 억제했습니다.",
+  "CK는 활성산소(ROS) 축적과 caspase-1 활성화를 통해 전형적인 세포고사(pyroptosis)를 유도했습니다.",
+  "기전적으로 CK는 HAPLN1-TNFα/NF-κB 축과 NLRP3 인플라마좀을 활성화했습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/nu18223757",
+  "nct": [],
+  "pmcid": "PMC13806828",
+  "pmid": "43092874"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nutrients",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43092874/"
+ },
+ "summary_ko": "본 연구는 췌장암(pancreatic cancer) 세포주와 마우스 모델을 대상으로 인삼(Panax ginseng)의 대사체인 Ginsenoside Compound K(CK)의 항암 효과와 작용 기전을 조사했습니다. 연구 결과, CK는 전신 독성 없이 종자 성장을 유의하게 억제했으며, 활성산소(ROS) 축적과 NLRP3 인플라마좀(inflammasome) 활성화를 통해 세포고사(pyroptosis)를 유도했습니다. 이러한 작용은 HAPLN1-TNFα/NF-κB 신호전달 경로와 연관되어 있음을 확인했습니다. 초록에 명시된 환자 수와 구체적인 수치는 초록에 명시되지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Ginsenoside Compound K Inhibits Pancreatic Cancer by Induction of Canonical Pyroptosis Associated with HAPLN1 Signaling",
+ "title_ko": "인삼 사포닌 화합물 K는 HAPLN1 신호전달과 연관된 전형적인 세포고사(pyroptosis) 유도를 통해 췌장암을 억제합니다",
+ "trial": null,
+ "type": "paper"
+}

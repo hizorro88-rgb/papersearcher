@@ -1,0 +1,60 @@
+{
+ "abstract": "BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.\nMETHODS: PubMed, Embase and the Cochrane Library were searched through December 2025 and updated in June 2026. Category-level hazard ratios (HRs) were pooled using restricted maximum likelihood random-effects models with Hartung-Knapp confidence intervals; heterogeneity, prediction intervals and targeted sensitivity analyses were evaluated.\nRESULTS: After excluding two advanced/metastatic-population reports during eligibility verification, the eight quantitative syntheses comprised 62 HR estimates from 49 contributing publications. Six of eight categories had statistically significant pooled associations. CA19-9 was associated with overall survival (HR 1.79, 95% CI 1.38-2.32; I2 = 96.0%), while CEA (HR 1.69, 95% CI 1.30-2.21) was supported by only three publications (I2 = 0%; prediction interval 1.17-2.44). Inflammatory markers yielded HR 1.75 (95% CI 1.45-2.12) with I2 = 0%, although markers differed biologically.\nCONCLUSIONS: The findings identify prognostic associations but do not establish incremental prediction or clinical benefit. Prospective, marker-specific validation remains necessary.\nREGISTRATION: OSF, doi:10.17605/OSF.IO/U5Y73.",
+ "authors": [
+  "Hashemi Fard SM",
+  "Saeidi S",
+  "Fard Karimi A",
+  "Aliakbarian M",
+  "Saffari SE",
+  "Fard AH"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis",
+  "industry"
+ ],
+ "entities": [],
+ "evidence": "meta",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43091440",
+ "importance": 0.91,
+ "key_points_ko": [],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/medsci14070802",
+  "nct": [],
+  "pmcid": "PMC13806029",
+  "pmid": "43091440"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Systematic Review",
+  "Meta-Analysis",
+  "Review"
+ ],
+ "published_at": "2026-11-20",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Med Sci (Basel)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43091440/"
+ },
+ "summary_ko": "BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

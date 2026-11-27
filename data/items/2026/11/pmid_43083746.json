@@ -26,7 +26,11 @@
  ],
  "id": "pmid:43083746",
  "importance": 0.77,
- "key_points_ko": [],
+ "key_points_ko": [
+  "총 9,866명의 참가자가 2025년 12월 31일까지 등록되었습니다.",
+  "참가자 등록은 2028년 12월 31일까지 계속될 예정입니다.",
+  "전체 연구 기간은 2030년 12월 31일까지 계획되어 있습니다."
+ ],
  "last_updated": "2026-11-26",
  "links": {
   "doi": "10.2196/101264",
@@ -50,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43083746/"
  },
- "summary_ko": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) has a poor prognosis, and early detection is essential to improve clinical outcomes. However, many patients with early-stage PDAC are asymptomatic, complicating detection in routine clinical practice.",
- "summary_source": "excerpt",
+ "summary_ko": "본 연구는 일본 히로시마현에서 췌장관선암(PDAC)의 조기 진단을 촉진하기 위해 일차 진료 의사와 전문 센터 간의 지역 협력 프로그램을 평가하는 다기관 전향적 관찰 연구 프로토콜입니다. 20개 핵심 병원이 참여하며, 위험인자가 있거나 영상 소견이 의심되는 20세 이상 성인 환자를 대상으로 합니다. 2022년 11월 20일부터 환자 등록이 시작되었으며 2025년 12월 31일 기준 총 9,866명의 참가자가 등록되었습니다. 연구의 주요 결과는 Hi-PEACE 프로젝트를 통해 의뢰된 참가자 중 0기 또는 1기 조기 췌장암으로 진단된 환자의 수와 비율입니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Implementation of a Prefecture-Wide Regional Referral System for Early Detection of Pancreatic Cancer in Hiroshima, Japan: Protocol for a Multicenter Prospective Observational Study (Hi-PEACE Project)",
- "title_ko": null,
+ "title_ko": "일본 히로시마현 췌장암 조기 발견을 위한 현 전체 지역 의뢰 시스템 구축: 다기관 전향적 관찰 연구 프로토콜(Hi-PEACE 프로젝트)",
  "trial": null,
  "type": "paper"
 }

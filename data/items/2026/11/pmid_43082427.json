@@ -11,9 +11,10 @@
   "Pan F"
  ],
  "categories": [
+  "diagnosis",
+  "basic",
   "surgery",
-  "treatment",
-  "diagnosis"
+  "treatment"
  ],
  "entities": [],
  "evidence": "observational",
@@ -27,12 +28,17 @@
  ],
  "id": "pmid:43082427",
  "importance": 0.66,
- "key_points_ko": [],
- "last_updated": "2026-11-26",
+ "key_points_ko": [
+  "총 315명의 환자가 훈련 코호트(221명)와 내부 검증 코호트(94명)로 나누어 분석에 참여했습니다.",
+  "종양 내부 미세환경(habitat) 모델의 C-지수는 훈련 코호트 0.781, 검증 코호트 0.744였습니다.",
+  "이는 전체 종양 방사선학적 모델의 C-지수인 0.647 및 0.619보다 높은 수치를 보였습니다.",
+  "검증 코호트에서 1년, 2년, 3년 시점의 AUC는 미세환경 모델이 각각 0.828, 0.854, 0.867이었습니다."
+ ],
+ "last_updated": "2026-11-27",
  "links": {
   "doi": "10.3390/curroncol33110664",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13801781",
   "pmid": "43082427"
  },
  "pub_types": [
@@ -49,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43082427/"
  },
- "summary_ko": "BACKGROUND AND OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is spatially heterogeneous and may extend beyond the tumour margin visible on CT. We compared intratumoral habitat radiomics with whole-tumour and 1-, 3-, and 5-mm peritumoral radiomics for overall survival after resection.",
- "summary_source": "excerpt",
+ "summary_ko": "이 연구는 췌장관선암(PDAC) 절제술 후 환자를 대상으로 종양 내부 미세환경 방사선학적 특징(habitat radiomics)과 전체 종양 및 종양 주변 방사선학적 특징이 전체 생존기간에 미치는 예후적 가치를 비교했습니다. 단일기관 후향적 연구로 315명의 환자가 훈련 코호트와 내부 검증 코호트로 나누어 분석에 참여했습니다. 연구 결과, 종양 내부 미세환경 방사선학적 모델은 훈련 코호트에서 0.781, 검증 코호트에서 0.744의 C-지수를 보여 전체 종양 방사선학적 모델보다 우수한 예측 성능을 나타냈습니다. 저자들은 수술 후 위험도 층화에 대한 추가 평가가 필요하며, 임상 적용 전 외부 검증이 필수적이라고 결론지었습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Prognostic Value of Intratumoral Habitat and Peritumoral CT Radiomics After Pancreatic Ductal Adenocarcinoma Resection: A Retrospective Cohort Study",
- "title_ko": null,
+ "title_ko": "췌장관선암 절제술 후 종양 내부 미세환경 및 종양 주변 CT 방사선학적 특징의 예후 가치: 후향적 코호트 연구",
  "trial": null,
  "type": "paper"
 }

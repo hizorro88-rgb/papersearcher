@@ -11,9 +11,9 @@
   "Timotheadou E"
  ],
  "categories": [
-  "drug",
+  "treatment",
   "diagnosis",
-  "treatment"
+  "drug"
  ],
  "entities": [],
  "evidence": "review",
@@ -27,12 +27,17 @@
  ],
  "id": "pmid:43082451",
  "importance": 0.68,
- "key_points_ko": [],
- "last_updated": "2026-11-26",
+ "key_points_ko": [
+  "불일치 복구 결함 및 고미세위성 불안정성(dMMR/MSI-H)은 췌관선암에서 면역관문억제제 선택을 위한 가장 확실한 바이오마커입니다.",
+  "높은 종양 변이 부담(TMB-H)은 보완적인 바이오마커이나 췌관선암 특이적 근거는 아직 제한적입니다.",
+  "DNA 손상 복구(DDR) 이상은 주로 백금 기반 치료 및 PARP 억제제와 관련이 깊습니다.",
+  "PD-L1 발현, 종양 침투 림프구 등 다른 후보 바이오마커들은 주로 예후 평가나 탐색적 정보 제공에 머물러 있습니다."
+ ],
+ "last_updated": "2026-11-27",
  "links": {
   "doi": "10.3390/curroncol33110688",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13801610",
   "pmid": "43082451"
  },
  "pub_types": [
@@ -50,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43082451/"
  },
- "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with a poor prognosis and limited therapeutic options, particularly in advanced disease. Although immune checkpoint inhibitors (ICIs) have transformed the treatment of several solid tumors, their activity in unselected PDAC remains minimal.",
- "summary_source": "excerpt",
+ "summary_ko": "이 논문은 췌관선암(PDAC)에서 면역관문억제제(ICI) 치료에 대한 반응 예측 바이오마커와 종양-면역 미세환경을 분석한 서론적 문헌 고찰입니다. 연구진은 종양 고유의 유전체 및 분자적 바이오마커, 조직 기반 면역 및 미세환경 바이오마커, 순환 바이오마커를 검토했습니다. 분석 결과 불일치 복구 결함 및 고미세위성 불안정성(dMMR/MSI-H) 상태가 면역관문억제제 선택을 뒷받침하는 가장 강력한 근거를 가진 바이오마커로 확인되었습니다. 그 외의 다양한 후보 바이오마커들은 현재 예후 평가, 모니터링 또는 탐색적 목적으로 주로 사용됩니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Tumor-Immune Microenvironment and Biomarkers of Response to Immune Checkpoint Inhibitors in Pancreatic Ductal Adenocarcinoma-A Narrative Review",
- "title_ko": null,
+ "title_ko": "췌관선암에서 면역관문억제제 반응의 종양-면역 미세환경 및 바이오마커: 서론적 문헌 고찰",
  "trial": null,
  "type": "paper"
 }

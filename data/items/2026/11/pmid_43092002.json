@@ -1,0 +1,66 @@
+{
+ "abstract": "Pancreatic neuroendocrine tumors (PanNETs) represent a challenging tissue for single-cell transcriptomic analysis due to their complex tissue composition and high RNase content. Optimizing tissue dissociation while preserving RNA quality is essential for successful single-cell RNA sequencing (scRNA-seq). PanNET tissue samples, including insulinomas and metastatic samples, as well as a duodenal neuroendocrine tumor (DNET) sample, were subjected to enzymatic dissociation using different enzyme mixes. Samples yielding a high cell viability were selected for scRNA-seq, and the resulting data were compared with snRNA-seq data obtained from cryopreserved portions of the same tumors to investigate potential dissociation-related biases. In addition, morphological assessment of tissue blocks was performed to explore potential associations between tissue characteristics and dissociation outcomes. Collagenase I-based dissociation resulted in relatively high cell viability (>70%) in both PanNET and DNET samples, whereas alternative enzyme combinations were associated with lower viability. ScRNA-seq and snRNA-seq revealed differences between the two approaches, reflecting potential assay-related differences in the representation of cellular gene expression. Our findings highlight the importance of balancing efficient tissue dissociation with the preservation of cell viability and suggest that morphological and clinical characteristics should be considered when developing protocols for the single-cell and single-nucleus transcriptomic analysis of PanNETs.",
+ "authors": [
+  "Katsaran J",
+  "Maluchenko A",
+  "Danilova M",
+  "Onyanov N",
+  "Maksimov D",
+  "Zalivako A",
+  "Emelin A",
+  "Feidorov I"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43092002",
+ "importance": 0.59,
+ "key_points_ko": [
+  "콜라게나아제 I(collagenase I) 기반 조직 분리는 췌장 신경내분비종양과 십이지장 신경내분비종양 샘플에서 70%가 넘는 높은 세포 생존율을 보였습니다.",
+  "단일세포 RNA 시퀀싱(scRNA-seq)과 단일핵 RNA 시퀀싱(snRNA-seq) 데이터 비교를 통해 분석 방법별 유전자 발현 표현의 차이를 확인했습니다.",
+  "초록에 명시되지 않음"
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.3390/ijms272210381",
+  "nct": [],
+  "pmcid": "PMC13804908",
+  "pmid": "43092002"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Comparative Study"
+ ],
+ "published_at": "2026-11-18",
+ "relevance": 0.36,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int J Mol Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43092002/"
+ },
+ "summary_ko": "췌장 신경내분비종양(PanNETs) 조직을 대상으로 단일세포 RNA 시퀀싱(scRNA-seq)의 성공을 위한 최적의 효소 분리 프로토콜을 비교했습니다. 인슐린종, 전이성 샘플, 십이지장 신경내분비종양(DNET) 샘플을 다양한 효소 조합으로 처리하여 세포 생존율을 평가했습니다. 콜라게나아제 I(collagenase I) 기반 분리는 70% 이상의 높은 세포 생존율을 보였습니다. 단일세포(scRNA-seq)와 단일핵(snRNA-seq) 분석 결과는 서로 다른 세포 유전자 발현 양상을 나타냈습니다.",
+ "summary_source": "llm",
+ "tags": [
+  "신경내분비종양"
+ ],
+ "title": "Comparison of Enzymatic Dissociation Protocols for Single-Cell RNA-Seq of Pancreatic Neuroendocrine Tumors and Benchmarking Against Single-Nucleus RNA-Seq",
+ "title_ko": "췌장 신경내분비종양의 단일세포 RNA 시퀀싱을 위한 효소 분리 프로토콜 비교 및 단일핵 RNA 시퀀싱과의 비교 벤치마킹",
+ "trial": null,
+ "type": "paper"
+}

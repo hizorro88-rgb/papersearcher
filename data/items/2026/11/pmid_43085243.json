@@ -1,0 +1,62 @@
+{
+ "abstract": "PURPOSE: The pancreas develops from two embryological anlagen: the ventral bud, which gives rise to the uncinate process and the posterior-inferior part of the pancreatic head, and the dorsal bud, which forms the anterior-superior head, body and tail. Because these compartments differ in ductal architecture, blood supply, lymphatic drainage and exposure to biliary and duodenal contents, the developmental origin of a tumor may plausibly influence its biology. We therefore quantified the independent effect of ventral-bud (Vb) origin on overall survival using inverse probability of treatment weighting (IPTW) and extended follow-up, and explored underlying genomic differences.\nMETHODS: We retrospectively analyzed 611 consecutive patients undergoing curative-intent resection for PDAC at a single high-volume center (ventral, n = 324; dorsal, n = 287), followed through November 2025. IPTW balanced 16 baseline covariates. Overall survival was compared using IPTW-weighted Kaplan-Meier analysis and Cox regression; a prognostic nomogram was constructed and internally validated. Targeted sequencing of 168 tumors was examined for genomic differences.\nRESULTS: Ventral origin was independently associated with worse overall survival (doubly robust HR = 1.312; 95% CI, 1.041-1.654; P = 0.022), consistent across unadjusted (HR = 1.264), multivariable-adjusted (HR = 1.248), and IPTW-only (HR = 1.270) analyses. In exploratory subgroup analysis, the effect was strongest with R1 resection (HR = 1.73; P = 0.003). The nomogram C-index was 0.611. Driver gene mutation frequencies (KRAS, TP53, SMAD4, CDKN2A) did not differ between groups (all P > 0.3).\nCONCLUSION: Among patients undergoing resection for PDAC, tumors classified as ventral-bud derived according to the present anatomical definition may represent a characteristic associated with worse overall survival; the absence of divergence in driver gene mutation frequencies suggests a microenvironment-mediated rather than a genome-mediated mechanism. Because the classification rests on a topographical convention and the nomogram has not been externally validated, these findings require confirmation in independent cohorts before developmental origin is used to guide risk stratification or surveillance.",
+ "authors": [
+  "Zhang G",
+  "Li B",
+  "Yuan S",
+  "Bian Y",
+  "Cao K",
+  "Jiang H",
+  "Guo S",
+  "Jin G"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43085243",
+ "importance": 0.7,
+ "key_points_ko": [
+  "전방원기(ventral bud) 유래 종양은 전체 생존기간이 더 나쁜 것과 독립적으로 연관되었습니다 (이중 보정 위험비(HR) = 1.312, 95% 신뢰구간 1.041-1.654, P = 0.022).",
+  "탐색적 하위 그룹 분석에서 이러한 생존율 차이는 R1 절제술(잔존 암이 있는 절제)을 받은 경우에 가장 두드러졌습니다 (HR = 1.73, P = 0.003).",
+  "KRAS, TP53, SMAD4, CDKN2A 등 주요 드라이버 유전자 변이 빈도는 두 그룹 간에 차이가 없었습니다 (모두 P > 0.3)."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1016/j.ejso.2026.113133",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43085243"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-17",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Eur J Surg Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085243/"
+ },
+ "summary_ko": "이 연구는 발생학적 기원에 따라 췌관선암(PDAC)의 예후가 달라지는지 확인하기 위해 수행되었습니다. 근치적 절제술을 받은 췌관선암 환자 611명을 대상으로 역확률 가중치 보정(IPTW)을 적용하여 발생 부위에 따른 전체 생존기간을 비교했습니다. 분석 결과, 전방원기(ventral bud)에서 발생한 종양이 더 불리한 전체 생존기간과 독립적으로 연관되어 있음이 확인되었습니다. 주요 드라이버 유전자 변이 빈도는 두 그룹 간에 차이가 없었으며, 이는 유전체가 아닌 미세환경 매개 기전일 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Comparison of clinical features and outcomes between ventral and dorsal buds of foregut derived pancreatic ductal adenocarcinoma: An inverse probability weighted analysis",
+ "title_ko": "전방원기(ventral bud)와 후방원기(dorsal bud) 유래 췌관선암의 임상적 특징 및 예후 비교: 역확률 가중(IPTW) 분석",
+ "trial": null,
+ "type": "paper"
+}

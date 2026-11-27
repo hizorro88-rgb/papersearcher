@@ -46,12 +46,18 @@ search:
 ## 타임라인 (11)
 
 <a id="pmid-43084717"></a>
-#### [CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells](https://pubmed.ncbi.nlm.nih.gov/43084717/)
-`논문` `2상` `치료 전반` `신약·치료제` `임상시험` · 2026-11-25 · PubMed · Cancer Immunol Res · 중요도 0.78
+#### [국소 진행성 췌장암에서 CCR2/5 길항제, 방사선 및 면역치료 병용 시 수술 가능성 및 종양 내 CD8+CD137+ T 세포 증가](https://pubmed.ncbi.nlm.nih.gov/43084717/)
+<small>CCR2/5 antagonist with radiation and immunotherapy shows higher resectability for locally advanced pancreatic cancer and increased intratumoral CD8+CD137+ T cells</small>
 
-Locally advanced pancreatic adenocarcinoma (LAPC) has a low resection rate (22%). In our prior phase II study, cancer vaccination (GVAX), pembrolizumab, SBRT and chemotherapy was associated with improved distant metastasis-free survival, but increased M2-like macrophages correlated with worse survival.
+`논문` `1상` `신약·치료제` `임상시험` `치료 전반` · 2026-11-25 · PubMed · Cancer Immunol Res · 중요도 0.71
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084717/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0643) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084717)</small>
+국소 진행성 췌장암(LAPC) 환자를 대상으로 nivolumab(니볼루맙), BMS-813160(CCR2/5 억제제), GVAX, 항암화학요법 및 정위체부방사선치료(SBRT)를 병용하는 1/2상 임상시험을 진행했습니다. 총 22명의 환자가 치료를 받았으며, 1차 평가변수인 안전성과 종양 내 CD137+CD8+ T 세포의 변화를 평가했습니다. 치료받은 환자의 64%인 14명이 R0/R1 절제술을 받았습니다. 연구진은 해당 병용 치료가 안전하며 우수한 면역학적 및 임상적 결과와 연관이 있다고 결론지었습니다.
+
+- 치료받은 환자 22명 중 14명(64%)이 R0/R1 절제술을 받았습니다.
+- 치료를 받은 14명 중 13명에서 종양 내 CD137+CD8+ T 세포가 80% 이상 증가했습니다.
+- BMS-813160 용량 결정 과정에서 용량 제한 독성(DLT)은 관찰되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084717/) · [DOI](https://doi.org/10.1158/2326-6066.CIR-26-0643) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084717)</small>
 
 ---
 <a id="doi-10.64898-2026.11.18.767683"></a>

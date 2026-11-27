@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC), which is the predominant form of pancreatic cancer, remains a lethal malignancy because of its asymptomatic onset, deep anatomical location, and high metastatic potential. Conventional treatments, including surgery, chemotherapy, and radiotherapy, provide limited survival benefits because of late diagnosis, chemoresistance, and systemic toxicity. Nanoparticle (NP)-based targeted therapy is a promising strategy to address these limitations by improving biopolymer stability, prolonging circulation times, and facilitating tumor-specific accumulation. In this study, a multifunctional NP platform was developed based on arginine-modified chitosan (ACS), a biocompatible and pH-responsive polysaccharide that enhances cellular uptake and promotes endosomal escape. To further improve therapeutic performance, D-α-tocopherol polyethylene glycol succinate (TPGS) and fucoidan (FD) were grafted to form the synergistic TPGS-g-FD (TSFD) copolymer. For active targeting, the cholecystokinin B receptor-specific aptamer AP1153 was electrostatically attached to ACS/TSFD NPs, resulting in AP1153@ACS/TSFD NPs. In vivo studies using an orthotopic PDAC mouse model showed favorable biodistribution, improved tumor targeting, significant antitumor efficacy, and minimal systemic toxicity. These results indicate the potential application of AP1153@ACS/TSFD NPs as a promising nanoplatform for targeted pancreatic cancer therapy.",
+ "authors": [
+  "Hsiao CH",
+  "Ho CH",
+  "Huang HL",
+  "Wu YT",
+  "Chen KW",
+  "Lin YH"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-27",
+ "history": [
+  {
+   "date": "2026-11-27",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43085905",
+ "importance": 0.59,
+ "key_points_ko": [
+  "콜레시스토키닌 B 수용체 표적 압타머 AP1153을 도입한 다당류 나노입자 플랫폼을 구축했습니다.",
+  "정위 췌장암 마우스 모델에서 종양 조직에 대한 우수한 집적도와 생체 분포를 확인했습니다.",
+  "유의미한 항종양 효과를 보이면서도 전신 독성은 최소화되었습니다."
+ ],
+ "last_updated": "2026-11-27",
+ "links": {
+  "doi": "10.1016/j.carbpol.2026.126035",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43085905"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-13",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Carbohydr Polym",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085905/"
+ },
+ "summary_ko": "본 연구에서는 췌관선암(PDAC)의 치료 한계를 극복하기 위해 아르기닌 변형 키토산(ACS)과 TPGS-g-FD 공중합체 기반의 나노입자 플랫폼을 개발했습니다. 콜레시스토키닌 B 수용체에 특이적으로 결합하는 압타머(aptamer) AP1153을 나노입자 표면에 부착하여 표적성을 강화했습니다. 정위 췌장암 마우스 모델 동물실험에서 해당 나노입자(AP1153@ACS/TSFD NPs)는 우수한 종양 표적화 능력과 현저한 항종양 효과를 나타냈습니다. 또한 전신 독성이 최소화되어 췌장암 표적 치료를 위한 유망한 나노플랫폼 가능성을 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Aptamer-guided bioactive polysaccharide nanoparticles for targeted pancreatic cancer therapy",
+ "title_ko": "표적 췌장암 치료를 위한 압타머 유도 생활성 다당류 나노입자",
+ "trial": null,
+ "type": "paper"
+}
