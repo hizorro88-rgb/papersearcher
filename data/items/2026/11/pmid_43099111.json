@@ -1,0 +1,59 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is among the deadliest cancers and is projected to become the second-leading cause of cancer-related mortality by 2040. Detection of PDAC at an earlier stage, when patients are still amenable to curative-intent surgery, has the potential to markedly improve survival. However, screening for PDAC in the general population has been a challenge owing to low incidence rates and concern over false positives. Progress has been made in identifying individuals at increased risk of developing or harbouring PDAC based on a biomarker profile, providing a means for earlier detection of PDAC among individuals at high risk. This Review highlights the currently available and emerging tests to identify individuals at increased risk of PDAC as well as for early detection of PDAC. In addition, we discuss performance requirements for implementation of these tests in clinical practice.",
+ "authors": [
+  "Irajizad E",
+  "Hanash S",
+  "Wolpin B",
+  "Maitra A",
+  "Fahrmann JF"
+ ],
+ "categories": [
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43099111",
+ "importance": 0.72,
+ "key_points_ko": [
+  "췌관선암(PDAC)은 2040년까지 암 관련 사망 원인 2위가 될 것으로 예상됩니다.",
+  "일반 인구 선별 검사는 낮은 발병률과 위양성 우려로 어려움이 있어, 바이오마커 기반의 고위험군 선별이 대안으로 발전하고 있습니다.",
+  "수술적 절제가 가능한 조기 단계에서 진단하는 것이 생존율 향상의 핵심 목표입니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1038/s41575-026-01281-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43099111"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Nat Rev Gastroenterol Hepatol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099111/"
+ },
+ "summary_ko": "췌관선암(PDAC)은 완치 목적의 수술이 가능한 초기 단계에 발견할 경우 생존율을 크게 향상시킬 수 있습니다. 그러나 일반 인구 대상 선별 검사는 낮은 발병률과 위양성 문제로 인해 적용에 한계가 있었습니다. 최근 바이오마커 프로파일을 통해 췌장암 발병 고위험군을 식별하고 조기에 발견하는 기술이 발전하고 있습니다. 본 종설(Review)에서는 고위험군 선별 및 조기 진단을 위해 현재 사용 가능하거나 개발 중인 검사법과 실제 임상 적용을 위한 성능 요건을 정리했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Biomarker assays for risk assessment and early detection of pancreatic cancer: opportunities and challenges",
+ "title_ko": "췌장암의 위험도 평가 및 조기 발견을 위한 바이오마커 검사법: 기회와 과제",
+ "trial": null,
+ "type": "paper"
+}

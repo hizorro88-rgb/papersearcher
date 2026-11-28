@@ -1,0 +1,62 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by early dissemination and a strong predilection for liver metastasis which is facilitated by a hepatic pre-metastatic niche (PMN). The gut-liver axis enables microbial signals and metabolites to influence hepatic inflammation and stromal remodeling. Herein, the relationship between PDAC-associated gut microbiota dysbiosis and hepatic PMN as well as liver metastasis is revealed via fecal microbiota transplantation, 16S rRNA gene sequencing of microbiota, metabolomics analysis, and clinical sample validation. It is found that PDAC-associated gut microbiota dysbiosis drives butyrate-deficiency that promotes hepatic PMN formation and liver metastasis in mouse models. Restoration of butyrate availability by supplying either Lactobacillus johnsonii or sodium butyrate attenuates hepatic immune cell infiltration, suppresses hepatic stellate cell activation, and reduces liver metastatic burden of PDAC. Furthermore, population-based correlation analyses in clinical PDAC cohorts corroborate these preclinical observations, which implies a potential strategy to limit liver metastasis in PDAC by targeting gut microbiota dysbiosis or restoring microbiota-derived metabolic functions.",
+ "authors": [
+  "Yan Y",
+  "Ma Y",
+  "Qu C",
+  "Chen Z",
+  "Liu J",
+  "Li N",
+  "Wang Z",
+  "Li B"
+ ],
+ "categories": [
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43098970",
+ "importance": 0.64,
+ "key_points_ko": [
+  "췌관선암과 관련된 장내 미생물 불균형은 뷰티레이트 결핍을 유도하여 마우스 모델에서 간 전이 전 미세환경 형성과 간 전이를 촉진했습니다.",
+  "Lactobacillus johnsonii 균주 투여 또는 뷰티레이트 나트륨 보충을 통해 간 내 면역세포 침윤과 간 성상세포 활성화를 억제하고 간 전이 병변을 감소시켰습니다.",
+  "실제 췌관선암 환자 코호트 분석에서도 전임상 동물실험과 부합하는 상관관계가 확인되었습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1002/advs.79012",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43098970"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Adv Sci (Weinh)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098970/"
+ },
+ "summary_ko": "췌관선암(PDAC) 환자에서 발생하는 장내 미생물 불균형이 단쇄지방산인 뷰티레이트(butyrate)의 결핍을 유발하여 간 전이 전 미세환경(pre-metastatic niche) 형성과 간 전이를 촉진한다는 사실이 마우스 모델 및 임상 검체 분석을 통해 확인되었습니다. 연구진이 락토바실러스 존소니(Lactobacillus johnsonii) 균주를 공급하거나 뷰티레이트 나트륨(sodium butyrate)을 투여하여 뷰티레이트를 보충했을 때, 간 내 면역세포 침윤과 간 성상세포 활성화가 억제되고 간 전이 부담이 감소했습니다. 이러한 결과는 실제 췌관선암 환자 코호트의 상관관계 분석에서도 일치하는 양상을 보였습니다. 장내 미생물 불균형을 교정하거나 미생물 유래 대사 기능을 회복시키는 방식이 췌장암의 간 전이를 억제하는 잠재적인 치료 전략이 될 수 있음을 시사합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Gut Microbiota Dysbiosis and Butyrate Deficiency Promote Hepatic Pre-Metastatic Niche Formation and Liver Metastasis in Pancreatic Cancer",
+ "title_ko": "장내 미생물 불균형 및 뷰티레이트 결핍이 췌장암의 간 전이 전 미세환경 형성 및 간 전이를 촉진함",
+ "trial": null,
+ "type": "paper"
+}

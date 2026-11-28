@@ -1,0 +1,116 @@
+{
+ "abstract": "The purpose of this trial is to evaluate the safety of the HistoSonics Edison System for the destruction of pancreatic adenocarcinomas using histotripsy.\n\nThis is a prospective multi-center, single-arm, feasibility trial designed to evaluate the safety of the HistoSonics Edison System for the destruction of pancreatic adenocarcinoma tumors in patients who are diagnosed with unresectable locally advanced (Stage 3) or metastatic disease (Stage 4).\n\nThe type of design is exploratory and is considered interventional. Following histotripsy, subjects will undergo imaging ≤36-hours post-index procedure. Additionally, subjects will be followed at 7-day, 14-day, 30-day, 60-day, 120-day, 180-day, and 365-day timepoints.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06282809",
+ "importance": 0.74,
+ "key_points_ko": [
+  "수술 불가능한 국소 진행성 또는 전이성 췌장선암 환자 80명을 대상으로 히스토소닉스 에디슨 시스템의 안전성을 평가하는 단일군 임상시험입니다.",
+  "치료 대상 췌장 종양의 장경이 2cm 이상이어야 하며, 십이지장이나 위 등 주변 소화관 장기로부터 1.0cm 이상 떨어져 있어야 합니다.",
+  "전이성(4기)인 경우 간 또는 폐 전이 병변이 10개 이하이고 안정된 상태여야 참여할 수 있습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06282809"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2024-02-28",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "HistoSonics, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06282809"
+ },
+ "summary_ko": "수술이 불가능한 국소 진행성(3기) 또는 전이성(4기) 췌장선암 환자를 대상으로 초음파 조직파쇄술(히스토트립시, histotripsy) 의료기기인 히스토소닉스 에디슨 시스템(HistoSonics Edison™ System)의 안전성을 평가하는 전향적 단일군 탐색 임상시험입니다. 최소 8주 이상의 항암화학요법을 받은 80명의 환자를 모집합니다. 시술 후 36시간 이내에 영상 검사를 수행하고, 최장 365일까지 추적 관찰을 진행합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "The HistoSonics Edison™ System for Treatment of Pancreatic Adenocarcinoma Using Histotripsy",
+ "title_ko": "초음파 조직파쇄술(히스토트립시)을 이용한 췌장선암 치료에서 히스토소닉스 에디슨 시스템의 타당성 및 안전성 평가 임상시험",
+ "trial": {
+  "conditions": [
+   "Pancreas Cancer",
+   "Adenocarcinoma of the Pancreas",
+   "Pancreatic Cancer",
+   "Tumor of Pancreas"
+  ],
+  "contacts": [
+   {
+    "email": "zoe.secord@histosonics.com",
+    "name": "Zoe Secord",
+    "phone": "612-351-0361"
+   }
+  ],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상으로 영상 검사로 확인된 수술 불가능한 국소 진행성(3기) 또는 전이성(4기) 췌장선암 환자\n- 수술 대상이 아니며 최소 8주 이상 항암화학요법을 받은 환자\n- 4기 전이 환자의 경우 전이 병변이 10개 이하이고 간 또는 폐에만 국한되며 병변이 안정 상태인 경우 (복막 전이가 있다면 2회 이상의 영상 검사에서 진행이 없어야 함)\n- 치료 대상 췌장 종양의 장경이 2cm 이상이며, 위·십이지장·소장·대장으로부터 최소 1.0cm 이상 떨어져 있는 경우\n- 전신마취가 가능하고 ECOG 수행능력(ECOG PS) 평가가 0~1점인 환자\n\n제외 기준:\n- 이전에 췌장, 담도-장 문합, 위 관련 수술을 받은 병력이 있는 환자\n- 간이나 폐 이외의 다른 장기(뼈, 뇌 등)로의 원격 전이가 있는 환자\n- 기대 여명이 6개월 미만인 환자\n- 치료 예정 구역에 담도 또는 췌장 스텐트, 경피 담즙 배액관이 위치한 환자\n- 시술 전 120일 이내에 대상 종양에 국소 치료(절제술, 색전술, 방사선 치료 등)를 받은 환자\n- 치료를 요하는 활동성 위궤양 또는 십이지장 궤양이 있는 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Subject is ≥18 years of age.\n2. Subject has signed the Ethics Committee (EC) approved trial Informed Consent Form (ICF) prior to any trial related tests/procedures and is willing to comply with trial procedures and required follow-up assessments.\n3. Subject is diagnosed with unresectable pancreatic adenocarcinoma (locally advanced \\[Stage 3\\] or metastatic \\[Stage 4\\]) confirmed via CT or MR imaging ≤14 days prior to the planned index procedure.\n\n   NOTE: If Stage 4 disease, there must be ≤10 metastatic tumors, the tumors must be located only in the liver and/or lung, and the metastatic tumors must be stable. If peritoneal disease is present, the disease must be stable prior to the planned index procedure date. Stable is defined as two or more radiographic imaging studies showing no evidence of progressive peritoneal disease.\n4. Subject is not a surgical candidate and has received chemotherapy ≥8 weeks.\n5. Subject can tolerate general anesthesia.\n6. Subject has an Eastern Cooperative Oncology Group Performance Status (ECOG PS) grade 0-1 at baseline.\n7. Subject meets the following criteria ≤14 days prior to the planned index procedure date:\n\n   * Hemoglobin ≥ 9 g/dL,\n   * Neutrophil count \\>1.0 x 10\\^9/L,\n   * Platelet \\>50 x 10\\^9/L,\n   * Total bilirubin ≤2.5x Institutional Upper Limit of Normal (IULN),\n   * Aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) ≤2.5x IULN,\n   * International Normalized Ratio (INR) value \\<1.5,\n   * Serum creatinine \\<2.0mg/dL or an estimated glomerular filtration rate (eGFR) ≥45mL/min.\n8. The targeted pancreatic tumor is ≥2 cm in longest diameter.\n9. The planned histotripsy treatment volume is ≥1.0 cm from any portion of the duodenum, small intestine, stomach, or colon as visualized on ultrasound, and CT, or MR imaging.\n10. Subject has an adequate acoustic window to visualize targeted tumor using the HistoSonics Edison System.\n11. Subject will undergo histotripsy treatment of only one (1) tumor during the index procedure, regardless of how many tumors are present in the pancreas.\n\nExclusion Criteria:\n\n1. Subject is pregnant or planning to become pregnant or nursing (lactating) during the trial period.\n2. Subject has had prior pancreatic, bilioenteric, or gastric surgery.\n3. Subject is being actively treated in another pharmaceutical or device trial that has not completed its primary endpoint prior to the index procedure or may interfere with the primary outcome measure of this trial.\n4. Subject has an uncorrectable coagulopathy.\n5. Subject has a life expectancy of less than six (6) months.\n6. Subject has a biliary or pancreatic stent and/or percutaneous biliary tube that encompasses the planned histotripsy treatment volume.\n7. Subject has metastases to organs other than the liver and/or lung (e.g., bone, brain, peritoneum).\n8. Subject has a known sensitivity to contrast media and cannot be adequately pre-medicated.\n9. Subject has an active duodenal or gastric ulcer requiring medical management.\n10. Subject is undergoing active chemotherapy for any cancer ≤7 days prior to planned index procedure date.\\*\n11. Subject is undergoing active immunotherapy or targeted therapies ≤7 days prior to planned index procedure date.\n12. Subject's targeted tumor has had prior locoregional therapy (e.g., ablation, embolization, or radiation) ≤120 days prior to planned index procedure date.\n13. Subject has a planned cancer treatment (e.g., pancreatic surgery, targeted therapy, immunotherapy) exclusive of chemotherapy, ≤30 days post index procedure.\n14. Subject has planned chemotherapy ≤14 days post index procedure.\\*\n15. Subject has not recovered (CTCAE grade 2 or better) from chemotherapy or immunotherapy related toxicities (exclusive of alopecia, neuropathy, and exocrine insufficiency).\n16. In the investigator's opinion, histotripsy is not a treatment option for the subject.\n17. Subject has a concurrent condition that could jeopardize the safety of the subject or compliance with the protocol.\n18. Subject's tumor is not treatable by the System's working ranges (refer to User Guide).\n\n(\\*) Subject must not be off chemotherapy \\>21 days in total.",
+  "enrollment": 80,
+  "has_results": false,
+  "interventions": [
+   "HistoSonics Edison™ System for the treatment of pancreatic adenocarcinoma using histotripsy"
+  ],
+  "last_update_posted": "2026-11-27",
+  "location_countries": [
+   "Spain"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "이전 췌장, 담도-장, 위 수술 병력",
+    "간 또는 폐 이외 장기(뼈, 뇌 등)로의 전이",
+    "치료 구역 내 담도/췌장 스텐트 삽입 상태",
+    "치료가 필요한 활동성 위·십이지장 궤양",
+    "기대 여명 6개월 미만"
+   ],
+   "max_prior_lines": null,
+   "measurable_required": true,
+   "min_prior_lines": 1,
+   "notes_ko": "최소 8주 이상 항암치료를 받은 수술 불가능한 국소 진행성 또는 안정된 간·폐 전이 췌장암 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic",
+    "locally_advanced"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT06282809",
+  "phase": "NA",
+  "primary_completion_date": "2028-03",
+  "sex": "ALL",
+  "sponsor": "HistoSonics, Inc.",
+  "start_date": "2024-12-10",
+  "status": "RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

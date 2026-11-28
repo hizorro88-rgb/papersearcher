@@ -23,7 +23,7 @@ search:
 |---|---|---|---|
 | [췌장 췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](../trials/NCT07946380.md) | 해당 없음 | 모집 중 | - |
 | [주요 개복 복부 수술에서 수술 후 통증 관리 계획의 적용 및 효과 비교](../trials/NCT07901582.md) | 해당 없음 | 모집 중 | - |
-| [SURGIMEDIA: 수술 동의서 설명을 위한 멀티미디어 활용](../trials/NCT07494994.md) | 해당 없음 | 일시 중단 | - |
+| [SURGIMEDIA: 수술 동의서 작성 과정의 이해도 향상을 위한 멀티미디어 활용](../trials/NCT07494994.md) | 해당 없음 | 일시 중단 | - |
 | [N-butyl-2-cyanoacrylate의 췌장 실질 주입](../trials/NCT07230509.md) | 2상 | 모집 중 | - |
 | [수술 가능 췌장암 및 주유두부암 환자를 대상으로 한 선행화학요법과 즉각 수술의 비교](../trials/NCT07081360.md) | 3상 | 모집 중 | - |
 | [췌장십이지장절제술 후 췌장루 발생 예측 위험 요인](../trials/NCT07022015.md) | 해당 없음 | 모집 중 | - |
@@ -34,15 +34,36 @@ search:
 | [주위암 및 췌장 누출 고위험 환자에서 췌장두부절제술 대 전체 췌장절제술 및 자가 도도세포 이식](../trials/NCT05843877.md) | 3상 | 모집 중 | - |
 | [수술 가능 췌장선암 환자에서 수술 전 mFOLFIRINOX와 경구 하이드록시클로로퀸 병용 임상시험](../trials/NCT04911816.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (43)
+## 타임라인 (44)
 
+<a id="pmid-43100239"></a>
+#### [췌십이지장절제술 후 유문 보존이 수술 결과에 미치는 영향: 무작위 대조 시험의 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43100239/)
+<small>Impact of Pylorus Preservation on Operative Outcomes After Pancreaticoduodenectomy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials</small>
+
+`논문` `종설` `수술` `치료 전반` `임상시험` `제약사·규제` · 2026-11-27 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.69
+
+췌십이지장절제술(pancreaticoduodenectomy) 시 유문(위 출구 괄약근)을 보존하는 방식과 절제하는 방식을 비교한 13개 무작위 대조 시험(총 1,048명)을 메타분석한 연구입니다. 임상적으로 의미가 큰 B·C 등급의 위 배출 지연(DGE) 발생률은 유문 보존군과 유문 절제군 간에 유의한 차이가 없었습니다. 모든 중증도를 포함한 전체 위 배출 지연은 유문 보존군에서 더 흔했으나 근거 수준은 매우 낮았습니다. 반면 수술 시간과 출혈량 분석에서는 유문 보존 접근법이 더 유리한 것으로 나타났습니다.
+
+- 임상적으로 유의한(Grade B 또는 C) 위 배출 지연(DGE) 발생 위험은 두 수술 방식 간에 유의미한 차이가 없었습니다 (4개 연구, 497명, RR 1.26, 95% CI 0.67~2.35).
+- 경증을 포함한 전체 위 배출 지연(DGE)은 유문 보존군에서 더 높게 나타났습니다 (RR 1.58, 95% CI 1.04~2.41, 매우 낮은 근거 수준).
+- 수술 시간 및 출혈량 측면에서는 유문 보존 췌십이지장절제술이 유문 절제술에 비해 우수한 결과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43100239/) · [DOI](https://doi.org/10.1002/jhbp.70214) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43100239)</small>
+
+---
 <a id="pmid-43097075"></a>
-#### [Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis](https://pubmed.ncbi.nlm.nih.gov/43097075/)
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.75
+#### [췌장두십이지장절제술 후 수술 후 면역영양요법의 합병증 경감 효과: 성향점수 매칭 분석](https://pubmed.ncbi.nlm.nih.gov/43097075/)
+<small>Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis</small>
 
-The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes.
+`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.75
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097075/) · [DOI](https://doi.org/10.1007/s13304-026-02952-9) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097075)</small>
+췌장두십이지장절제술(PD)을 받은 204명의 환자를 대상으로 수술 후 경장 면역영양요법(Post-IN)의 효과를 분석한 연구입니다. 성향점수 매칭을 통해 면역영양요법군과 표준 영양관리군 각 51명을 비교했습니다. 수술 후 면역영양요법은 합병증 발생률 자체를 줄이지는 못했으나 90일 사망률과 합병증 관리 실패율(FTR)을 유의하게 감소시켰습니다. 이는 면역영양요법이 합병증 예방보다는 합병증에 대한 환자의 대처 능력을 향상시킬 수 있음을 시사합니다.
+
+- 성향점수 매칭 분석 결과 면역영양요법군은 표준 영양관리군에 비해 90일 사망률이 유의하게 낮았습니다(OR < 0.01, p = 0.013).
+- 합병증 발생 후 사망에 이르는 비율인 합병증 관리 실패율(FTR) 역시 면역영양요법군에서 유의하게 감소했습니다(OR < 0.01, p = 0.002).
+- 췌장 누출(POPF), 위 배출 지연, 수술 후 출혈, 재수술률 및 입원 기간은 두 그룹 간 유의한 차이가 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097075/) · [DOI](https://doi.org/10.1007/s13304-026-02952-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097075)</small>
 
 ---
 <a id="pmid-43097066"></a>
@@ -634,7 +655,7 @@ The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduode
 - Clavien-Dindo 3등급 이상의 주요 합병증 비율(12% 대 27%), 재수술률(6.4% 대 18.3%), 평균 입원 기간(9.5일 대 13.1일) 모두 변형 기법군에서 우수했습니다.
 - 췌장 실질 상태 및 혈액 손실량 등을 보정한 다변량 분석 및 성향 점수 가중치(IPTW) 분석에서는 두 기법 간 췌장 누공 발생률의 통계적 유의차가 보이지 않았습니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086491/) · [DOI](https://doi.org/10.1007/s00423-026-04231-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086491)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086491/) · [DOI](https://doi.org/10.1007/s00423-026-04231-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13809299/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086491)</small>
 
 ---
 <a id="pmid-43015764"></a>

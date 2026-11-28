@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Dose escalation for locally advanced pancreatic cancer (LAPC) is challenging because of the proximity of gastrointestinal (GI) organs at risk. Carbon ion radiotherapy (CIRT) may offer dosimetric advantages, but the interfractional dose stability of a simultaneous integrated boost (SIB) to 75 Gy(RBE), with 67.5 Gy(RBE) prescribed to the remaining target volume in 15 fractions, remains insufficiently characterized.\nPURPOSE: To investigate the dosimetric feasibility of a simultaneous integrated boost (SIB) strategy in CIRT for LAPC and to evaluate interfractional dose stability using weekly verification CT datasets.\nMETHODS: Sixteen LAPC patients previously treated with CIRT (67.5 Gy(RBE) in 15 fractions) were retrospectively analyzed. Two plans were generated for each case: a conventional plan (CPD) and a dose-escalated SIB plan (SIBPD) prescribing 75 Gy(RBE) to the integrated gross tumor volume (iGTV). Dose-averaged linear energy transfer (LETd) was additionally evaluated for the iGTV. Weekly four-dimensional CT (4DCT) scans were acquired, and dose was recalculated on 48 verification CT datasets to evaluate interfractional dosimetric stability using predefined target coverage and organ-at-risk (OAR) criteria.\nRESULTS: Compared with CPD, SIBPD achieved superior iGTV dose metrics, as expected from the higher boost prescription, while dose increases to gastrointestinal organs were of a smaller magnitude, with mean relative increases in near-maximum GI dose (D2cc) below 3%. SIBPD showed a higher LETd value covering 98% of the iGTV volume (L98), higher mean LETd (Lmean), and higher percentage of volume receiving LETd ≥44 keV/µm (V44), whereas minimum LETd (Lmin) was not significantly different. Criteria-exceedance classification on weekly verification CTs was identical between the two strategies (18/48 datasets each), and no statistically significant systematic increase in dose deterioration was observed with SIBPD.\nCONCLUSION: SIB-based CIRT to 75 Gy(RBE) in 15 fractions was dosimetrically feasible for LAPC. The higher prescribed target dose was achieved while maintaining GI OAR doses within predefined constraints, with no statistically significant systematic increase in interfractional dose deterioration compared with CPD.",
+ "authors": [
+  "Xing Y",
+  "Wang W",
+  "Jiang G",
+  "Zhao J",
+  "Wang Z"
+ ],
+ "categories": [
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43099794",
+ "importance": 0.69,
+ "key_points_ko": [
+  "국소 진행성 췌장암 환자 16명을 대상으로 15회에 걸쳐 75 Gy(RBE)를 조사하는 동시 다중 용량 증강(SIB) 탄소이온 치료의 선량학적 실현 가능성을 입증했습니다.",
+  "위장관 장기의 근접 최대 선량(D2cc) 증가율은 평균 3% 미만으로 유지되어 장기 보호 기준을 충족했습니다.",
+  "48건의 주간 확인 CT 분석 결과, 선량 기준 초과는 기존 계획과 증강 계획 모두 18건으로 동일하여 치료 중 유의미한 선량 저하는 관찰되지 않았습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1002/acm2.70921",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43099794"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-12-01",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Appl Clin Med Phys",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099794/"
+ },
+ "summary_ko": "국소 진행성 췌장암(LAPC) 환자 16명을 대상으로 탄소이온 방사선 치료(CIRT) 시 동시 다중 용량 증강(SIB) 기법의 타당성을 분석한 후향적 선량 연구입니다. 연구진은 15회에 걸쳐 종양 부위(iGTV)에 75 Gy(RBE)를 조사하는 증강 계획(SIBPD)과 기존 67.5 Gy(RBE) 치료 계획(CPD)을 비교 평가했습니다. 총 48건의 주간 확인 CT를 재계산한 결과, 증강 계획은 위장관 장기의 선량 증가를 최소화하면서 종양 표적 선량을 우수하게 높였습니다. 주간 선량 기준 초과율은 두 기법 간에 동일하게 나타나 치료 중 선량 저하가 유의하게 증가하지 않았습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Simultaneous integrated boost carbon ion radiotherapy for locally advanced pancreatic cancer: Dosimetric feasibility and interfractional dose stability on weekly verification CT",
+ "title_ko": "국소 진행성 췌장암에 대한 동시 다중 용량 증강 탄소이온 방사선 치료: 주간 확인 CT를 통한 선량학적 타당성 및 분할 간 선량 안정성 평가",
+ "trial": null,
+ "type": "paper"
+}

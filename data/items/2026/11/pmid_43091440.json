@@ -9,8 +9,9 @@
   "Fard AH"
  ],
  "categories": [
-  "treatment",
   "diagnosis",
+  "surgery",
+  "treatment",
   "industry"
  ],
  "entities": [],
@@ -24,8 +25,12 @@
   }
  ],
  "id": "pmid:43091440",
- "importance": 0.91,
- "key_points_ko": [],
+ "importance": 0.86,
+ "key_points_ko": [
+  "CA19-9 상승은 수술 후 전체 생존기간 악화와 유의미하게 연관되었습니다(위험비 1.79, 95% 신뢰구간 1.38-2.32).",
+  "CEA 상승 또한 생존기간 악화와 연관성을 보였습니다(위험비 1.69, 95% 신뢰구간 1.30-2.21).",
+  "염증성 마커(Inflammatory markers)도 유의미한 위험비 상승을 나타냈습니다(위험비 1.75, 95% 신뢰구간 1.45-2.12)."
+ ],
  "last_updated": "2026-11-27",
  "links": {
   "doi": "10.3390/medsci14070802",
@@ -50,11 +55,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43091440/"
  },
- "summary_ko": "BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.",
- "summary_source": "excerpt",
+ "summary_ko": "수술적 절제를 받은 췌관선암(PDAC) 환자의 전체 생존기간(OS)과 예후 바이오마커 간의 연관성을 분석한 연구입니다. 49개 연구에서 도출된 62개의 위험비(HR) 추정치를 바탕으로 메타분석을 진행했습니다. 분석된 8개 바이오마커 카테고리 중 6개에서 통계적으로 유의미한 연관성이 확인되었습니다. 다만 이 결과가 임상적 이점을 직접 증명하지는 않으므로 전향적 검증이 필요하다고 밝혔습니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis",
- "title_ko": null,
+ "title_ko": "수술로 절제된 췌장암 환자의 전체 생존기간에 대한 순환, 유전적 및 조직 기반 예후 바이오마커: 체계적 문헌고찰 및 메타분석",
  "trial": null,
  "type": "paper"
 }

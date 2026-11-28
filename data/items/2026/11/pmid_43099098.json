@@ -1,0 +1,62 @@
+{
+ "abstract": "BACKGROUND: Collagen, a major component of the extracellular matrix, undergoes reorganization during tumorigenesis. However, visualizing collagen in tissue currently requires special stains (complicated by variability) or imaging (hindered by reliability, cost, and throughput). Here, we describe an approach to exhaustively detect and quantify collagen in hematoxylin and eosin (H&E)-stained images.\nMETHODS: Polarization images of picrosirius red-stained slides served as ground-truth training images for development of inferred quantitative multimodal anisotropy imaging (iQMAI), a deep learning model that infers collagen directly from H&E-stained whole-slide images. Individual collagen fibers were extracted after iQMAI inference, and features describing collagen intensity and fiber morphology were computed. iQMAI outputs were measured against polarization imaging and were compared to tissue composition, gene expression, and survival in lung adenocarcinoma, lung squamous cell carcinoma, hepatocellular carcinoma, and pancreatic adenocarcinoma datasets from the cancer genome atlas.\nRESULTS: iQMAI-derived collagen predictions and fiber features (fiber tortuosity, length, width, and relative angle) are correlated with polarization-based measurements. In pancreatic adenocarcinoma, fiber density and width are negatively associated with the LRRC-15 gene expression signature, and increased fiber width is associated with longer overall survival.\nCONCLUSIONS: iQMAI, a deep learning model identifying collagen in H&E-stained images, allows exhaustive, spatially-resolved quantification of collagen morphology, enabling investigation of the interplay between collagen and the tumor microenvironment. The association of collagen features with immunosuppressive fibroblasts and outcome in pancreatic adenocarcinoma demonstrates the potential of iQMAI. Understanding the relationship between collagen, tumor composition, and disease progression may aid the development of effective oncology therapies.",
+ "authors": [
+  "Nguyen TH",
+  "Zhang J",
+  "Hipp J",
+  "Chhor G",
+  "Griffin M",
+  "Le N",
+  "Kartik D",
+  "Zhang Y"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43099098",
+ "importance": 0.53,
+ "key_points_ko": [
+  "iQMAI 딥러닝 모델은 H&E 염색 이미지에서 콜라겐 섬유의 구불거림, 길이, 두께, 상대적 각도 등 형태학적 특징을 추출했습니다.",
+  "췌장암 데이터에서 콜라겐 섬유 밀도와 두께는 LRRC-15 유전자 발현 시그니처와 음의 연관성을 보였습니다.",
+  "췌장암 환자군에서 콜라겐 섬유 두께가 증가할수록 더 긴 전체 생존기간(OS)을 보였습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1038/s43856-026-01809-x",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43099098"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-08-14",
+ "relevance": 0.3,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Commun Med (Lond)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099098/"
+ },
+ "summary_ko": "헤마톡실린-에오신(H&E) 염색 조직 이미지에서 직접 콜라겐을 검출하고 정량화하는 딥러닝(Deep Learning) 모델인 iQMAI가 개발되었습니다. 이 모델은 콜라겐의 강도와 섬유 형태학적 특징을 정밀하게 추출하여 암 유전체 지도(TCGA) 데이터와 비교 검증되었습니다. 췌장관선암(Pancreatic adenocarcinoma) 분석 결과, 콜라겐 섬유 두께의 증가가 환자의 더 긴 전체 생존기간(OS)과 연관되어 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Deep learning-based quantification of collagen and associated features from H&E-stained whole slide pathology images across cancer types",
+ "title_ko": "H&E 염색 전체 슬라이드 병리 이미지를 활용한 암종별 콜라겐 및 관련 특징의 딥러닝 기반 정량화",
+ "trial": null,
+ "type": "paper"
+}

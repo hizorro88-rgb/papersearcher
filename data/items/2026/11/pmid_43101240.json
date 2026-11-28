@@ -1,0 +1,59 @@
+{
+ "abstract": "INTRODUCTION: Pancreatic ductal adenocarcinoma (PDAC) is a highly malignant tumor with a dismal prognosis, largely due to its desmoplastic and immunosuppressive tumor microenvironment (TME) that restricts effector T cell infiltration and limits chimeric antigen receptor (CAR)-T cell therapy efficacy. Claudin-18.2 (CLDN18.2) is frequently overexpressed in PDAC and represents an attractive therapeutic target. Our previous study demonstrated that IL-15-armored CLDN18.2 CAR-T cells elicit superior antitumor activity in murine models. To further enhance therapeutic efficacy, we investigated whether chemokine modification of CLDN18.2 CAR-T cells could promote tumor infiltration and amplify antitumor activity.\nMETHODS: The chemokine CXCL10 (IP10) recruits immune cells via CXCR3. We generated CLDN18.2-targeted murine CAR-T cells secreting IP10 alone (H9 CAR-IP10) or in combination with IL-15 (15×10 H9 CAR). Cell phenotypes, cytotoxic activity, and chemotactic capacity were assessed in vitro using flow cytometry, xCELLigence, and Transwell assays. An immunocompetent Panc02-CLDN18.2 subcutaneous tumor model was applied to evaluate in vivo antitumor efficacy, survival, and TME alterations.\nRESULTS: IP10 modification did not affect CAR expression, expansion, phenotype, exhaustion markers, or cytokine secretion. Both H9 CAR T and H9 CAR-IP10 T cells exhibited potent antigen-specific cytotoxicity. IP10-modified CAR-T cells secreted IP10 upon antigen stimulation and demonstrated enhanced CXCR3-dependent chemotactic migration. In vivo, H9 CAR-IP10 T cells enhanced tumor growth inhibition, with 3 of 5 mice surviving by day 47 (including one tumor-free), whereas all controls died by day 41. Mechanistically, IP10 promoted early intratumoral T cell infiltration and, at later stages, reduced CLDN18.2 expression and increased CD31 expression, suggesting tumor vascular remodeling, though survival benefit did not reach statistical significance (p = 0.24). Dual IP10/IL-15 modification further enhanced antitumor activity, producing pronounced survival benefit with 3 of 5 mice tumor-free at day 78 and 90% reduction in mortality risk (p = 0.0069).\nDISCUSSION: In conclusion, our preclinical findings demonstrate IP10 modification enhances CLDN18.2 CAR-T cell efficacy by promoting T cell infiltration and remodeling the vascular microenvironment, and dual IP10/IL-15 modification yields potent and durable antitumor benefits at low doses, offering a promising strategy that warrants further validation in orthotopic and clinically relevant models.",
+ "authors": [
+  "Hu X",
+  "Han H",
+  "Wei H",
+  "Shi H"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43101240",
+ "importance": 0.55,
+ "key_points_ko": [
+  "IP10 및 IL-15 동시 변형 CLDN18.2 CAR-T 세포는 동물 모델에서 사망 위험을 90% 감소시켰습니다(p = 0.0069).",
+  "Dual 변형 CAR-T 세포 투여군에서는 78일째에 5마리 중 3마리(60%)가 종양 완치(tumor-free) 상태에 도달했습니다.",
+  "IP10 단독 변형은 종양 내 T 세포 침윤을 촉진하고 CD31 발현을 높여 종양 혈관 재형성을 유도했습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.3389/fimmu.2026.1998845",
+  "nct": [],
+  "pmcid": "PMC13809555",
+  "pmid": "43101240"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Immunol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101240/"
+ },
+ "summary_ko": "본 연구는 췌장관선암(PDAC)의 면역억제적 미세환경을 극복하기 위해 CLDN18.2 표적 키메라 항원 수용체 T(CAR-T) 세포에 IP10(CXCL10) 케모카인과 IL-15을 분비하도록 유전자 변형을 적용했습니다. 세포 및 동물 모델(Panc02-CLDN18.2) 실험 결과, IP10 변형은 T 세포의 종양 내 침윤을 촉진하고 혈관 재형성을 유도했습니다. 또한 IP10과 IL-15을 동시에 이중 변형한 CAR-T 세포는 78일째 5마리 중 3마리에서 종양이 완전히 소멸되는 강력하고 지속적인 항종양 효과를 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "IP10 armoring enhances CLDN-18.2-directed CAR-T cell therapy in pancreatic cancer by promoting T cell infiltration and vascular remodeling, with additive benefits from IL-15 co-modification",
+ "title_ko": "IP10 보강을 통한 췌장암 내 CLDN18.2 표적 CAR-T 세포 치료 효과 향상 및 IL-15 동시 변형의 시너지 효과",
+ "trial": null,
+ "type": "paper"
+}

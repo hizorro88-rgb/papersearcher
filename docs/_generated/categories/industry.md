@@ -16,34 +16,85 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 52건 · 최근 30일 27건
+전체 55건 · 최근 30일 30건
 
 월별 보기: [2026-11](industry/2026-11.md) · [2026-10](industry/2026-10.md)
 
 ## 최근 30일
 
-<a id="pmid-43091440"></a>
-#### [Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/43091440/)
-`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-11-20 · PubMed · Med Sci (Basel) · 중요도 0.91
+<a id="pmid-43100239"></a>
+#### [췌십이지장절제술 후 유문 보존이 수술 결과에 미치는 영향: 무작위 대조 시험의 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43100239/)
+<small>Impact of Pylorus Preservation on Operative Outcomes After Pancreaticoduodenectomy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials</small>
 
-BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.
+`논문` `종설` `수술` `치료 전반` `임상시험` `제약사·규제` · 2026-11-27 · PubMed · J Hepatobiliary Pancreat Sci · 중요도 0.69
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43091440/) · [DOI](https://doi.org/10.3390/medsci14070802) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13806029/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43091440)</small>
+췌십이지장절제술(pancreaticoduodenectomy) 시 유문(위 출구 괄약근)을 보존하는 방식과 절제하는 방식을 비교한 13개 무작위 대조 시험(총 1,048명)을 메타분석한 연구입니다. 임상적으로 의미가 큰 B·C 등급의 위 배출 지연(DGE) 발생률은 유문 보존군과 유문 절제군 간에 유의한 차이가 없었습니다. 모든 중증도를 포함한 전체 위 배출 지연은 유문 보존군에서 더 흔했으나 근거 수준은 매우 낮았습니다. 반면 수술 시간과 출혈량 분석에서는 유문 보존 접근법이 더 유리한 것으로 나타났습니다.
+
+- 임상적으로 유의한(Grade B 또는 C) 위 배출 지연(DGE) 발생 위험은 두 수술 방식 간에 유의미한 차이가 없었습니다 (4개 연구, 497명, RR 1.26, 95% CI 0.67~2.35).
+- 경증을 포함한 전체 위 배출 지연(DGE)은 유문 보존군에서 더 높게 나타났습니다 (RR 1.58, 95% CI 1.04~2.41, 매우 낮은 근거 수준).
+- 수술 시간 및 출혈량 측면에서는 유문 보존 췌십이지장절제술이 유문 절제술에 비해 우수한 결과를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43100239/) · [DOI](https://doi.org/10.1002/jhbp.70214) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43100239)</small>
 
 ---
-<a id="pmid-43088821"></a>
-#### [만성 췌장염과 관련된 고형 췌장 병변의 수술 전 평가](https://pubmed.ncbi.nlm.nih.gov/43088821/)
-<small>Preoperative Assessment of Solid Pancreatic Lesions Associated with Chronic Pancreatitis</small>
+<a id="pmid-43100898"></a>
+#### [이전 치료 경험이 있는 전이성 췌장관선암 환자에서 화학요법 대비 다락소나십의 비용-효과성 및 가격 문턱값 분석](https://pubmed.ncbi.nlm.nih.gov/43100898/)
+<small>Cost-effectiveness and price threshold analysis of daraxonrasib versus chemotherapy for previously treated metastatic pancreatic ductal adenocarcinoma in China</small>
 
-`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-12 · PubMed · Diagnostics (Basel) · 중요도 0.68
+`논문` `기타` `신약·치료제` `치료 전반` `제약사·규제` · 2026-11-12 · PubMed · Front Pharmacol · 중요도 0.65
 
-만성 췌장염(chronic pancreatitis) 상태에서 발생하는 고형 췌장 병변은 염증성 종괴와 췌장암(pancreatic ductal adenocarcinoma)의 특징이 겹쳐 진단이 어렵습니다. 이 리뷰는 컴퓨터단층촬영(CT), 자기공명영상(MRI), 내시경 초음파(EUS) 및 조직 검사의 역할을 다룹니다. 내시경 초음파 하 미세침 생검(EUS-FNB)이 우선적인 조직 진단법이지만, 섬유화나 적은 세포수로 인해 위음성이 발생할 수 있으므로 다학제 팀의 신중한 평가가 필요합니다.
+본 연구는 중국 보건의료 체계 관점에서 이전 치료를 받은 전이성 췌장관선암(mPDAC) 환자를 대상으로 daraxonrasib(다락소나십)과 항암화학요법의 비용-효과성을 평가했습니다. RASolute 302 임상시험의 생존 데이터를 활용하여 10년의 분석 기간 동안 경제성을 모델링했습니다. 분석 결과 다락소나십 치료는 화학요법 대비 0.30 질 조정 수명(QALY)을 추가로 생성했으나, 치료 비용이 38,125.89 달러 더 높았습니다. 치료 주기당 5,000 달러의 약가를 가정했을 때 다락소나십은 중국의 지불 용의 문턱값을 초과하여 비용-효과적이지 않은 것으로 나타났습니다.
 
-- 만성 췌장염의 섬유화 및 석회화는 췌장암을 모방하거나 작은 악성 병변을 가릴 수 있습니다.
-- 신규 당뇨, 체중 감소, 황달, CA19-9 상승 등의 위험 신호가 나타나면 시급히 정밀 검사를 시행해야 합니다.
-- 내시경 초음파 하 미세침 생검(EUS-FNB)은 핵심 조직 채취에 우수하지만 위음성 가능성에 유의해야 합니다.
+- 다락소나십 치료군은 항암화학요법 대비 0.30 QALY(0.98 QALY 대 0.68 QALY)의 추가적인 건강 이득을 얻었습니다.
+- 추가 비용은 38,125.89 달러 발생하여 획득한 QALY당 증분 비용-효과비(ICER)는 127,020.77 달러로 산출되었습니다.
+- 다락소나십 약제비가 경제성 판단에 가장 결정적인 요인이며, 지불 용의 문턱값을 충족하려면 상당한 수준의 약가 인하가 필요합니다.
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088821/) · [DOI](https://doi.org/10.3390/diagnostics16223740) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13802315/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088821)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43100898/) · [DOI](https://doi.org/10.3389/fphar.2026.1930284) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13809509/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43100898)</small>
+
+---
+<a id="pmid-43078510"></a>
+#### [췌관선암에서 복막 세척 세포진 검사의 예후적 가치: 체계적 문헌고찰 및 메타분석 연구 계획서](https://pubmed.ncbi.nlm.nih.gov/43078510/)
+<small>Prognostic value of peritoneal washing cytology in pancreatic ductal adenocarcinoma: protocol for a systematic review and meta-analysis</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-24 · PubMed · BMJ Open · 중요도 0.62
+
+본 논문은 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 복막 세척 세포진 검사(Peritoneal Washing Cytology)의 예후적 가치를 평가하기 위한 체계적 문헌고찰(Systematic Review) 및 메타분석(Meta-analysis) 연구 계획서입니다. 복막 세척 세포진 검사 결과가 환자의 예후 및 생존율에 미치는 영향을 검증하고자 합니다. 연구 계획서 논문으로 구체적인 분석 결과 및 수치는 초록에 명시되지 않았습니다.
+
+- 췌관선암 환자에서 복막 세척 세포진 검사의 예후 평가 가치를 확인하기 위한 연구 계획서입니다.
+- 체계적 문헌고찰과 메타분석 방법을 통해 기존 연구 데이터를 종합 분석할 예정입니다.
+- 세부 연구 결과 및 최종 결론은 연구 계획 단계이므로 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43078510/) · [DOI](https://doi.org/10.1136/bmjopen-2026-126964) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13810095/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43078510)</small>
+
+---
+<a id="pmid-43102748"></a>
+#### [일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황: 췌장암에 대한 liposomal irinotecan 등](https://pubmed.ncbi.nlm.nih.gov/43102748/)
+<small>PMDA regulatory update on approval and revision of the precautions for use of anticancer drugs in Japan; zongertinib for lung cancer, borofalan for meningioma, tucatinib for biliary tract cancer, talaporfin for cervical intraepithelial neoplasia, liposomal irinotecan for pancreatic cancer, and pirtobrutinib and blinatumomab for leukemia</small>
+
+`논문` `기타` `신약·치료제` `제약사·규제` `지지요법·삶의질` · 2026-11-27 · PubMed · Int J Clin Oncol · 중요도 0.60
+
+본 글은 일본 의약품의료기기종합기구(PMDA)의 최신 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설(Editorial)입니다. 췌장암 치료제인 liposomal irinotecan(리포소말 이리노테칸)을 포함해 여러 암종 치료제의 규제 업데이트 내용을 전달합니다. 구체적인 임상 수치나 세부 변경 사항은 제시된 원문에 명시되지 않았습니다.
+
+- 일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설입니다.
+- 췌장암 분야에서는 liposomal irinotecan(리포소말 이리노테칸) 관련 규제 정보가 포함되었습니다.
+- 구체적인 연구 수치나 상세 변경 내역은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43102748/) · [DOI](https://doi.org/10.1007/s10147-026-03260-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43102748)</small>
+
+---
+<a id="pmid-43091440"></a>
+#### [수술로 절제된 췌장암 환자의 전체 생존기간에 대한 순환, 유전적 및 조직 기반 예후 바이오마커: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43091440/)
+<small>Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis</small>
+
+`논문` `메타분석` `진단·조기발견` `수술` `치료 전반` `제약사·규제` · 2026-11-20 · PubMed · Med Sci (Basel) · 중요도 0.86
+
+수술적 절제를 받은 췌관선암(PDAC) 환자의 전체 생존기간(OS)과 예후 바이오마커 간의 연관성을 분석한 연구입니다. 49개 연구에서 도출된 62개의 위험비(HR) 추정치를 바탕으로 메타분석을 진행했습니다. 분석된 8개 바이오마커 카테고리 중 6개에서 통계적으로 유의미한 연관성이 확인되었습니다. 다만 이 결과가 임상적 이점을 직접 증명하지는 않으므로 전향적 검증이 필요하다고 밝혔습니다.
+
+- CA19-9 상승은 수술 후 전체 생존기간 악화와 유의미하게 연관되었습니다(위험비 1.79, 95% 신뢰구간 1.38-2.32).
+- CEA 상승 또한 생존기간 악화와 연관성을 보였습니다(위험비 1.69, 95% 신뢰구간 1.30-2.21).
+- 염증성 마커(Inflammatory markers)도 유의미한 위험비 상승을 나타냈습니다(위험비 1.75, 95% 신뢰구간 1.45-2.12).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43091440/) · [DOI](https://doi.org/10.3390/medsci14070802) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13806029/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43091440)</small>
 
 ---
 <a id="pmid-43087761"></a>
@@ -59,6 +110,21 @@ BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated wit
 - 관련 연구와 치료 전략의 대부분은 현재 전임상 단계에 있습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43087761/) · [DOI](https://doi.org/10.3390/biomedicines14112504) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13799918/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43087761)</small>
+
+---
+<a id="pmid-43088821"></a>
+#### [만성 췌장염과 관련된 고형 췌장 병변의 수술 전 평가](https://pubmed.ncbi.nlm.nih.gov/43088821/)
+<small>Preoperative Assessment of Solid Pancreatic Lesions Associated with Chronic Pancreatitis</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-12 · PubMed · Diagnostics (Basel) · 중요도 0.68
+
+만성 췌장염(chronic pancreatitis) 상태에서 발생하는 고형 췌장 병변은 염증성 종괴와 췌장암(pancreatic ductal adenocarcinoma)의 특징이 겹쳐 진단이 어렵습니다. 이 리뷰는 컴퓨터단층촬영(CT), 자기공명영상(MRI), 내시경 초음파(EUS) 및 조직 검사의 역할을 다룹니다. 내시경 초음파 하 미세침 생검(EUS-FNB)이 우선적인 조직 진단법이지만, 섬유화나 적은 세포수로 인해 위음성이 발생할 수 있으므로 다학제 팀의 신중한 평가가 필요합니다.
+
+- 만성 췌장염의 섬유화 및 석회화는 췌장암을 모방하거나 작은 악성 병변을 가릴 수 있습니다.
+- 신규 당뇨, 체중 감소, 황달, CA19-9 상승 등의 위험 신호가 나타나면 시급히 정밀 검사를 시행해야 합니다.
+- 내시경 초음파 하 미세침 생검(EUS-FNB)은 핵심 조직 채취에 우수하지만 위음성 가능성에 유의해야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088821/) · [DOI](https://doi.org/10.3390/diagnostics16223740) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13802315/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088821)</small>
 
 ---
 <a id="doi-10.21203-rs.3.rs-11558725-v1"></a>
@@ -91,21 +157,6 @@ BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated wit
 - 환자는 수술 후 6개월 만에 사망했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43084210/) · [DOI](https://doi.org/10.1007/s12328-026-02494-y) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43084210)</small>
-
----
-<a id="pmid-43078510"></a>
-#### [췌관선암에서 복막 세척 세포진 검사의 예후적 가치: 체계적 문헌고찰 및 메타분석 연구 계획서](https://pubmed.ncbi.nlm.nih.gov/43078510/)
-<small>Prognostic value of peritoneal washing cytology in pancreatic ductal adenocarcinoma: protocol for a systematic review and meta-analysis</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `제약사·규제` · 2026-11-24 · PubMed · BMJ Open · 중요도 0.62
-
-본 논문은 췌관선암(Pancreatic Ductal Adenocarcinoma) 환자를 대상으로 복막 세척 세포진 검사(Peritoneal Washing Cytology)의 예후적 가치를 평가하기 위한 체계적 문헌고찰(Systematic Review) 및 메타분석(Meta-analysis) 연구 계획서입니다. 복막 세척 세포진 검사 결과가 환자의 예후 및 생존율에 미치는 영향을 검증하고자 합니다. 연구 계획서 논문으로 구체적인 분석 결과 및 수치는 초록에 명시되지 않았습니다.
-
-- 췌관선암 환자에서 복막 세척 세포진 검사의 예후 평가 가치를 확인하기 위한 연구 계획서입니다.
-- 체계적 문헌고찰과 메타분석 방법을 통해 기존 연구 데이터를 종합 분석할 예정입니다.
-- 세부 연구 결과 및 최종 결론은 연구 계획 단계이므로 초록에 명시되지 않았습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43078510/) · [DOI](https://doi.org/10.1136/bmjopen-2026-126964) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43078510)</small>
 
 ---
 <a id="pmid-43072801"></a>

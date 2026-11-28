@@ -1,0 +1,63 @@
+{
+ "abstract": "CEACAM1 is overexpressed in multiple solid tumors, including gastrointestinal cancers, non-small cell lung cancer, and melanoma, where it inhibits cytotoxic T-cell and NK-cell functions and promotes tumor angiogenesis. VEGF further elevates CEACAM1 expression, forming a positive feedback loop that sustains pathological neovascularization and tumor immune evasion. To disrupt this pro-tumorigenic axis, we generated eleven structurally distinct CEACAM1/VEGF bispecific antibodies and performed tiered functional screening, including BLI affinity measurement, cellular binding analysis, dual-target ELISA, NK cytotoxicity assay, NFAT reporter detection, and VEGF-dependent binding evaluation. NB203 (bisAb203-4) was identified as the lead candidate. It retained comparable CEACAM1 affinity to the control antibody and exhibited the strongest VEGF binding capacity among all constructs, enabling efficient dual-target recognition at both protein and cellular levels. Functionally, NB203 induced dose-dependent NK-cell tumoricidal activity against HepG2 cells with an EC50 of 0.73 nM (E:T = 1:1), reaching a maximal lytic plateau exceeding that of the monospecific anti-CEACAM1 antibody, and potently reversed CEACAM1-mediated T-cell immune suppression with an EC50 of 0.96 nM in NFAT reporter assays. Moreover, it displayed prominent VEGF-dependent augmentation of CEACAM1 binding on tumor cells. In a Hu-IL-15 humanized BxPC-3 pancreatic xenograft model, low-dose short-term treatment (6.9 mg/kg, twice weekly for 1 week) inhibited tumor growth by 74.8%, whereas prolonged high-dose treatment (13.8 mg/kg, twice weekly for 3 weeks) achieved near-complete tumor growth arrest (TGI = 100.2% on day 28). In conclusion, NB203 integrates anti-angiogenic efficacy with robust relief from CEACAM1-mediated immunosuppression, demonstrating considerable potential for further preclinical development and translational investigation.",
+ "authors": [
+  "Bu T",
+  "Dong J",
+  "Shao L",
+  "Wang B",
+  "Wang D",
+  "Wu Y",
+  "Ni J",
+  "Li S"
+ ],
+ "categories": [
+  "drug",
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "preclinical",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097853",
+ "importance": 0.56,
+ "key_points_ko": [
+  "NB203은 세포 독성 자연살해(NK) 세포 활성 측정에서 EC50 0.73 nM의 높은 암세포 사멸 능력을 보였습니다.",
+  "T 세포 면역 억제 해제 평가에서 EC50 0.96 nM의 농도로 면역 억제 상태를 유의하게 반전시켰습니다.",
+  "췌장암(BxPC-3) 마우스 이식 모델에서 고용량(13.8 mg/kg) 3주 투여 시 100.2%의 종양 성장 억제율(TGI)을 기록했습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1016/j.intimp.2026.117682",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097853"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Int Immunopharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097853/"
+ },
+ "summary_ko": "본 연구는 CEACAM1과 혈관내피성장인자(VEGF)를 동시에 표적하는 이중항체 NB203(bisAb203-4)의 항암 효과를 평가한 전임상 연구입니다. CEACAM1은 면역세포 활동을 억제하고 신생혈관 형성을 촉진하며 VEGF와 상호작용합니다. 연구진은 11개의 이중항체 중 최적의 물질로 NB203을 선정했습니다. NB203은 면역 억제를 해제하고 췌장암 이식 마우스 모델에서 종양 성장을 강력하게 억제했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Screening and functional validation of CEACAM1/VEGF bispecific antibodies identifies NB203, which reverses CEACAM1-mediated immunosuppression and suppresses pancreatic cancer growth",
+ "title_ko": "CEACAM1과 VEGF를 동시에 표적하는 이중항체 NB203의 스크리닝, 기능 검증 및 췌장암 성장 억제 효과",
+ "trial": null,
+ "type": "paper"
+}

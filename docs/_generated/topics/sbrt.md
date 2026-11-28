@@ -17,12 +17,13 @@ search:
 - 종류: 시술·수술
 - 별칭: SBRT, stereotactic body radiotherapy, stereotactic body radiation, 정위체부방사선
 
-## 관련 임상시험 (21)
+## 관련 임상시험 (22)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
 | [경계성 절제 가능한 췌장암에서 정위체부방사선치료(SBRT)와 gemcitabine 및 iparomlimab-toripalim…](../trials/NCT07945782.md) | 1상/2상 | 모집 예정 | - |
 | [국소진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(A…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
+| [새로운 방사선 치료 워크플로우(NGDS) 평가 연구](../trials/NCT07824583.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [국소 진행성 췌장암 환자를 대상으로 한 SBRT 후 ipilimumab N01, sintilimab, nab-paclitax…](../trials/NCT07683221.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
 | [절제 불가능한 국소 진행성 또는 소전이성 췌장암 치료에서 Nimotuzumab과 화학방사선요법 병용](../trials/NCT07386704.md) | 2상 | 초대 모집 | - |

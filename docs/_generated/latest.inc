@@ -1,6 +1,6 @@
-<div class="ps-stats"><div class="ps-stat"><b>1,513</b><span>누적 수집<br><small>논문·소식 906 · 임상시험 607</small></span></div><div class="ps-stat"><b>+51</b><span>오늘 신규<br><small>갱신 32건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
+<div class="ps-stats"><div class="ps-stat"><b>1,538</b><span>누적 수집<br><small>논문·소식 926 · 임상시험 612</small></span></div><div class="ps-stat"><b>+25</b><span>오늘 신규<br><small>갱신 11건</small></span></div><div class="ps-stat"><b>32</b><span>국내 모집 중 임상시험<br><small><a href="_generated/trials/">목록 보기</a></small></span></div></div>
 
-최근 수집일: [2026-11-27](_generated/daily/2026/11/27.md)
+최근 수집일: [2026-11-28](_generated/daily/2026/11/28.md)
 
 <a id="nct-nct07562152"></a>
 #### [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](https://clinicaltrials.gov/study/NCT07562152)
@@ -20,18 +20,18 @@
 
 ---
 <a id="nct-nct07616362"></a>
-#### [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](https://clinicaltrials.gov/study/NCT07616362)
+#### [경계성 수술 가능 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행 항암화학요법 임상시험](https://clinicaltrials.gov/study/NCT07616362)
 <small>Personalize (Signature Driven) Neoadjuvant Chemotherapy Trial for Patients With Resectable Borderline Pancreatic Ductal Adenocarcinoma.</small>
 
 `임상시험` `2상` `신약·치료제` `치료 전반` `수술` · 2026-06-01 · ClinicalTrials.gov · Federation Francophone de Cancerologie Digestive · 중요도 1.00
 
 **NCT07616362** · 2상 · 모집 중 · 국내 기관 없음 · [참여 조건·기관 보기](_generated/trials/NCT07616362.md)
 
-본 임상시험(NEOPREDICT)은 절제 가능성 경계성 췌관선암(BR-PDAC) 환자를 대상으로 유전자 발현 서명(Pancreas-View Signature)을 활용하여 젬시타빈(gemcitabine) 감수성에 따른 맞춤형 선행화학요법(NAC)의 효과를 평가합니다. 환자들은 젬시타빈 + 랍파클리탁셀(nab-paclitaxel) 병용요법 또는 표준 치료인 mFOLFIRINOX 요법을 배정받아 치료를 받게 됩니다. 이 연구는 최적의 항암 치료법을 선택하고 불필요한 독성을 피하며 수세술 성공률을 높이기 위한 목적을 가집니다. 목표 환자 수는 110명이며 2상 임상시험으로 진행됩니다.
+경계성 수술 가능 췌관선암 환자를 대상으로 종양 조직 전사체 분석을 통한 맞춤형 선행 항암화학요법의 효과를 평가하는 2상 임상시험입니다. 조직 분석을 통해 젬시타빈(gemcitabine) 반응성 서명이 확인된 환자에게 젬시타빈+나브-파클리탁셀(nab-paclitaxel) 조합을 투여하고 표준치료인 mFOLFIRINOX와 비교합니다. 불필요한 독성을 줄이고 수술 절제율 및 치료 효과를 극대화하는 것을 목적으로 합니다.
 
-- 대상 질환은 국소 진행성이거나 절제 가능성 경계성 췌관선암(BR-PDAC)입니다.
-- 중재 치료로 nab-paclitaxel / gemcitabine 또는 mFOLFIRINOX가 사용됩니다.
-- 목표 환자 수는 110명이며 2상 임상시험으로 진행됩니다.
+- 경계성 수술 가능 췌관선암 환자 110명을 대상으로 맞춤형 선행 항암화학요법의 유효성을 평가하는 2상 임상시험입니다.
+- 종양 조직의 전사체 서명(Pancreas-View Signature) 분석 결과에 따라 치료제를 선택합니다.
+- 이전 항암 치료 전력이 없는 환자를 대상으로 진행합니다.
 
 <small>[원문](https://clinicaltrials.gov/study/NCT07616362) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07616362)</small>
 
@@ -51,21 +51,33 @@
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43062619/) · [DOI](https://doi.org/10.1186/s41747-026-00837-5) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13788147/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43062619)</small>
 
 ---
-<a id="pmid-43086040"></a>
-#### [[Diagnosis, treatment and stratified management of pancreatic cancer in elderly patients]](https://pubmed.ncbi.nlm.nih.gov/43086040/)
-`논문` `가이드라인` `수술` `치료 전반` `진단·조기발견` · 2026-11-26 · PubMed · Zhonghua Wai Ke Za Zhi · 중요도 0.95
+<a id="pmid-43068365"></a>
+#### [췌관선암 고위험군을 위한 췌장암 감시 검사 지침서](https://pubmed.ncbi.nlm.nih.gov/43068365/)
+<small>[Position paper: surveillance for pancreatic cancer in individuals at elevated risk for pancreatic ductal adenocarcinoma]</small>
 
-Pancreatic cancer is highly malignant. Elderly patients often have multiple comorbidities, impaired physical function, and poor nutritional status, which can lead to inadequate treatment or delayed intervention and significantly compromise overall prognosis.
+`논문` `가이드라인` `진단·조기발견` · 2026-11-01 · PubMed · Harefuah · 중요도 0.90
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086040/) · [DOI](https://doi.org/10.3760/cma.j.cn112139-20261008-00400) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086040)</small>
+본 지침서는 유전적 또는 가족성 위험이 높은 췌관선암(PDAC) 고위험군을 대상으로 한 조기 발견 및 감시 검사 권고안을 다룹니다. 적절한 대상군에서 수행하는 조기 발견 프로그램은 완치 가능한 단계에서의 진단과 수술적 치료를 가능하게 합니다. BRCA2 등 특정 유전자 변이 보유자나 췌장암 가족력이 있는 고위험군에게 자기공명영상(MRI) 또는 내시경 초음파(EUS)를 통한 매년 감시 검사가 권장됩니다. 다만 수술을 원하지 않거나 건강 상태상 수술이 불가능한 대상자는 감시 프로그램 참여 이점이 없습니다.
+
+- BRCA2 등 특정 유전자 변이 보유자 또는 강한 가족력이 있는 고위험군에게 MRI 또는 내시경 초음파(EUS)를 이용한 연간 감시 검사를 권장합니다.
+- 적절한 연령에 시작하는 고위험군 췌장암 조기 발견 프로그램은 임상적 효과와 비용 효과성이 확인되었습니다.
+- 의학적 상태로 인해 수술이 불가능하거나 수술적 치료를 원하지 않는 경우에는 감시 검사의 이점이 없습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43068365/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43068365)</small>
 
 ---
 <a id="pmid-43091440"></a>
-#### [Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/43091440/)
-`논문` `메타분석` `치료 전반` `진단·조기발견` `제약사·규제` · 2026-11-20 · PubMed · Med Sci (Basel) · 중요도 0.91
+#### [수술로 절제된 췌장암 환자의 전체 생존기간에 대한 순환, 유전적 및 조직 기반 예후 바이오마커: 체계적 문헌고찰 및 메타분석](https://pubmed.ncbi.nlm.nih.gov/43091440/)
+<small>Circulating, Genetic, and Tissue-Based Prognostic Biomarkers for Overall Survival in Surgically Resected Pancreatic Cancer: A Systematic Review and Meta-Analysis</small>
 
-BACKGROUND/OBJECTIVES: Pancreatic ductal adenocarcinoma (PDAC) is associated with poor survival even after resection. We synthesized biomarker associations with overall survival in surgically resected PDAC.
+`논문` `메타분석` `진단·조기발견` `수술` `치료 전반` `제약사·규제` · 2026-11-20 · PubMed · Med Sci (Basel) · 중요도 0.86
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43091440/) · [DOI](https://doi.org/10.3390/medsci14070802) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13806029/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43091440)</small>
+수술적 절제를 받은 췌관선암(PDAC) 환자의 전체 생존기간(OS)과 예후 바이오마커 간의 연관성을 분석한 연구입니다. 49개 연구에서 도출된 62개의 위험비(HR) 추정치를 바탕으로 메타분석을 진행했습니다. 분석된 8개 바이오마커 카테고리 중 6개에서 통계적으로 유의미한 연관성이 확인되었습니다. 다만 이 결과가 임상적 이점을 직접 증명하지는 않으므로 전향적 검증이 필요하다고 밝혔습니다.
+
+- CA19-9 상승은 수술 후 전체 생존기간 악화와 유의미하게 연관되었습니다(위험비 1.79, 95% 신뢰구간 1.38-2.32).
+- CEA 상승 또한 생존기간 악화와 연관성을 보였습니다(위험비 1.69, 95% 신뢰구간 1.30-2.21).
+- 염증성 마커(Inflammatory markers)도 유의미한 위험비 상승을 나타냈습니다(위험비 1.75, 95% 신뢰구간 1.45-2.12).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43091440/) · [DOI](https://doi.org/10.3390/medsci14070802) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13806029/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43091440)</small>
 
 ---

@@ -1,0 +1,126 @@
+{
+ "abstract": "The goal of this clinical trial is to learn whether VS-7375, an investigational drug taken by mouth that blocks a protein called KRAS G12D that helps cancer cells grow, is safe and works better when combined with other cancer treatments than standard chemotherapy alone. The study will include people with pancreatic cancer that has spread to other parts of the body and has a specific genetic change called KRAS G12D. Participants must not have received treatment for pancreatic cancer that has spread.\n\nParticipants will be randomly assigned to one of three treatment groups. The first group will receive VS-7375 combined with an anti-EGFR antibody (cetuximab or panitumumab), a treatment that blocks signals that help cancer cells grow. The second group will receive VS-7375 combined with chemotherapy (gemcitabine plus nab-paclitaxel), followed by VS-7375 alone. The third group will receive standard chemotherapy (gemcitabine plus nab-paclitaxel or modified FOLFIRINOX). Participants in the third group whose cancer gets worse may be able to switch to VS-7375 alone.\n\nResearchers will compare the treatment groups to learn how well the treatments control cancer growth, how long participants live, and what side effects they experience.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "drug",
+  "treatment"
+ ],
+ "entities": [
+  "folfirinox",
+  "gem-nabp"
+ ],
+ "evidence": "phase3",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07963059",
+ "importance": 0.96,
+ "key_points_ko": [],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07963059"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE3"
+ ],
+ "published_at": "2026-11-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Verastem, Inc.",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07963059"
+ },
+ "summary_ko": "The goal of this clinical trial is to learn whether VS-7375, an investigational drug taken by mouth that blocks a protein called KRAS G12D that helps cancer cells grow, is safe and works better when combined with other cancer treatments than standard chemotherapy alone. The study will include people with pancreatic cancer that has spread to other parts of the body and has a specific genetic change called KRAS G12D.",
+ "summary_source": "excerpt",
+ "tags": [
+  "PDAC",
+  "Pancreatic ductal adenocarcinoma",
+  "KRAS",
+  "RAS",
+  "Pancreatic Cancer",
+  "KRAS G12D mutation",
+  "pancreatic adenocarcinoma"
+ ],
+ "title": "A Phase 3 Study to Evaluate VS-7375 in Participants With Newly Diagnosed Metastatic Pancreatic Ductal Adenocarcinoma",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "contacts": [
+   {
+    "email": "VS-7375-301TrialSupport@verastem.com",
+    "name": "Verastem Call Center",
+    "phone": "781-292-4204"
+   },
+   {
+    "email": "vs-7375-301medical@verastem.com",
+    "name": "Luke Chung, MD",
+    "phone": null
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* Histologic or cytologic confirmation of metastatic PDAC\n* Measurable disease according to RECIST v1.1\n* Treatment-naïve for metastatic disease\n* Local testing confirmed KRAS G12D mutation (tissue required for confirmatory central testing)\n* (ECOG PS) of 0 or 1.\n* Adequate organ function\n\nExclusion Criteria:\n\n* Underwent major surgical procedure within 4 weeks prior to Cycle 1 Day 1\n* Received \\> 1 month of systemic chemotherapy for the treatment of metastatic disease.\n* Receipt of chemotherapy, targeted anticancer therapy, or radiotherapy within 4 weeks or 5 half-lives\n* Have any documented co-existing pathogenic or likely pathogenic RAS mutation(s) in KRAS\n* Prior treatment with any agent that directly or indirectly targets RAS\n* Tumors that are locally confirmed Microsatellite Instability-High (MSI-H) or deficient Mismatch Repair (dMMR).\n* Symptomatic, untreated, or actively progressing known central nervous system (CNS) metastases.\n* Inability to swallow oral medications\n* Current need of supplemental O2 90%.\n* Receipt of an allogeneic tissue/solid organ or hematopoietic transplant\n* History or current diagnosis of interstitial lung disease (ILD) or pneumonitis\n* Other protocol defined inclusion/exclusion criteria may apply",
+  "enrollment": 354,
+  "has_results": false,
+  "interventions": [
+   "VS-7375",
+   "Cetuximab (EGFR inhibitor)",
+   "gemcitabine + nab-paclitaxel",
+   "panitumumab (EGFR inhibitor)",
+   "mFOLFIRINOX regimen"
+  ],
+  "last_update_posted": "2026-11-27",
+  "location_countries": [
+   "United States"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [
+    "MSI_H"
+   ],
+   "biomarkers_required": [
+    "KRAS_G12D"
+   ],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "metastatic"
+   ],
+   "source": "rules"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 1,
+  "nct_id": "NCT07963059",
+  "phase": "PHASE3",
+  "primary_completion_date": "2029-03",
+  "sex": "ALL",
+  "sponsor": "Verastem, Inc.",
+  "start_date": "2026-12-02",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

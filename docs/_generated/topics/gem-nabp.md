@@ -17,10 +17,12 @@ search:
 - 종류: 요법
 - 별칭: gemcitabine plus nab-paclitaxel, gemcitabine/nab-paclitaxel, GnP, nab-paclitaxel, Abraxane
 
-## 관련 임상시험 (112)
+## 관련 임상시험 (114)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [A Phase 3 Study to Evaluate VS-7375 in Participants With Newly Diagno…](../trials/NCT07963059.md) | 3상 | 모집 예정 | - |
+| [Nimotuzumab, Serplulimab, and Chemotherapy for Advanced Pancreatic Ca…](../trials/NCT07961447.md) | 2상 | 모집 예정 | - |
 | [젬시타빈 및 냅-파클리탁셀과 병행하는 변조 전기고주파온열치료(mEHT)의 2/3상 임상시험](../trials/NCT07952802.md) | 2상/3상 | 철회 | - |
 | [국소진행성 췌장암 환자의 1차 치료로서 QL1706(iparomlimab 및 tuvonralimab 주사)과 항암화학요법(A…](../trials/NCT07938658.md) | 2상 | 진행 중(모집 종료) | - |
 | [진행성 췌장암 치료에서 다중 모달 온열 치료와 toripalimab 및 AG 항암화학요법 병용에 관한 다기관 전향적 단일군…](../trials/NCT07928362.md) | 해당 없음 | 모집 예정 | - |
@@ -43,7 +45,7 @@ search:
 | [전이성 기저형 췌장암 환자를 위한 samuraciclib와 gemcitabine/nab-paclitaxel 병용 임상시험](../trials/NCT07665684.md) | 1상/2상 | 모집 예정 | - |
 | [KRAS 유전자 변이가 있는 전이성 췌관선암 환자를 대상으로 JAB-23E73과 항암화학요법을 병용하는 연구](../trials/NCT07640295.md) | 1상/2상 | 모집 중 | - |
 | [전이성 KRAS G12D 변이 췌장암 1차 치료로서 zoldonrasib과 항암화학요법 병용요법에 대한 3상 임상시험 (RA…](../trials/NCT07621718.md) | 3상 | 모집 중 | - |
-| [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
+| [경계성 수술 가능 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행 항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
 | [이전 치료를 받지 않은 진행성 췌장암 환자를 위한 새로운 치료 전략 평가 임상시험](../trials/NCT07578337.md) | 2상 | 모집 예정 | - |
 | [ODM-212에 대한 제1/2상 공개 임상시험](../trials/NCT07563738.md) | 1상/2상 | 모집 중 | - |
 | [전이성 췌장암 환자의 1차 치료로서 atebimetinib 및 GnP 병용 요법](../trials/NCT07562152.md) | 3상 | 모집 중 | 1 |
@@ -67,7 +69,7 @@ search:
 | [전이성 췌장암 환자에서 젬시타빈 및 냅-파클리탁셀과 병용한 EDV 나노세포 치료제의 임상시험](../trials/NCT07049055.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자에서 GnP와 mFOLFIRINOX 교대 선행화학요법 2상 임상시험](../trials/NCT07043270.md) | 2상 | 모집 중 | - |
 | [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
-| [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 임상시험](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
+| [KRAS G12D 변이 고형암 환자를 대상으로 하는 VS-7375의 제1/2상 연구](../trials/NCT07020221.md) | 1상/2상 | 모집 중 | - |
 | [KRAS 야생형 절제 불가, 국소 진행성 또는 전이성 췌장암 환자에서 표준 항암화학요법에 panitumumab 병용 투여 여…](../trials/NCT06998940.md) | 3상 | 모집 중 | - |
 | [전이성 췌장암 환자에서 Ivonescimab, GnP, 그리고 정위체부방사선치료(SBRT)를 병용하는 제2상 임상시험](../trials/NCT06991491.md) | 2상 | 모집 예정 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
@@ -75,7 +77,7 @@ search:
 | [복막 전이 췌장암 환자에서 온열 복강내 화학요법과 정맥 내 화학요법 병용의 안전성 및 유효성을 평가하는 2상 임상시험](../trials/NCT06946901.md) | 2상 | 모집 중 | - |
 | [경계성 절제 가능 췌장암 환자를 위한 선행치료로서 Ivonescimab 및 항암화학요법 병용 연구](../trials/NCT06944106.md) | 2상 | 모집 중 | - |
 | [국소 진행성 췌장암 환자에서 AG 요법과 nimotuzumab 병용 후 비가역적 전기천공술(IRE) Ablation 순차 치료](../trials/NCT06938503.md) | 2상 | 모집 예정 | - |
-| [TNG462 병용 투여의 안전성, 내인성 및 유효성을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [췌장관선암 및 비소세포폐암 환자 대상 TNG462 병용요법의 안전성, 내약성 및 유효성 평가 1/2상 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [KRAS 변이가 있는 진행성 고형암 성인 환자를 대상으로 연구 약물 ALTA3263을 평가하는 연구](../trials/NCT06835569.md) | 1상 | 모집 중 | - |
 | [진행성 췌장암 환자의 1차 치료를 위한 HRS-4642, nimotuzumab 및 화학요법 병용 임상시험](../trials/NCT06770452.md) | 2상 | 모집 중 | - |
@@ -97,7 +99,7 @@ search:
 | [국소 진행성 절제 불가능 또는 전이성 췌관선암 환자에서 1차 치료로서 gemcitabine/nab-paclitaxel과 병용…](../trials/NCT06261359.md) | 2상 | 모집 중 | - |
 | [CA19-9이 상승한 진행성 췌장암 환자에 대한 방사선치료 임상시험](../trials/NCT06250972.md) | 3상 | 모집 중 | - |
 | [진행성 췌장암 환자를 위한 경동맥 주입술과 정맥 주사 병행 치료](../trials/NCT06196788.md) | 2상 | 모집 중 | - |
-| [전이성 췌장암 환자에서 ProAgio와 젬시타빈, 팹클탁셀 및 아테톨리주맙 병용 투여의 제1상 임상시험](../trials/NCT06182072.md) | 1상 | 모집 중 | - |
+| [전이성 췌장선암 환자를 위한 ProAgio 병용 1상 임상시험](../trials/NCT06182072.md) | 1상 | 모집 중 | - |
 | [PLATINUM 임상시험: BRCA1/2 또는 PALB2 변이 전이성 췌장암의 2차 치료를 위한 항암화학요법 최적화](../trials/NCT06115499.md) | 2상/3상 | 진행 중(모집 종료) | - |
 | [진행성/재발성 전이성 췌장암 환자를 위한 C3(메트포르민, 심바스타틴, 디고신) 병용요법 제2A상 파일럿 임상시험](../trials/NCT06030622.md) | 1상/2상 | 모집 중 | - |
 | [국소 진행성 및 전이성 췌관선암 환자를 대상으로 한 시타글립틴, 젬시타빈, 냅-파클리탁셀 병용요법 2상 임상시험](../trials/NCT05947825.md) | 2상 | 초대 모집 | - |
@@ -134,7 +136,7 @@ search:
 | [진행성 췌장관선암 환자를 위한 Gemcitabine, Nab-paclitaxel, PEGPH20 및 Rivaroxaban 병…](../trials/NCT02921022.md) | 해당 없음 | 진행 중(모집 종료) | - |
 | [수술 불가 췌장암 환자에서 젬시타빈, 냅-파클리탁셀, 메트포르민 및 표준화된 식이 보충제 병용 요법의 1상 임상시험](../trials/NCT02336087.md) | 1상 | 진행 중(모집 종료) | - |
 
-## 타임라인 (28)
+## 타임라인 (29)
 
 <a id="pmid-43084910"></a>
 #### [쇠약한 진행성 췌장암 환자를 위한 긴급 통합 지지요법 프로그램: 전향적 GERCOR ARCAD 연구](https://pubmed.ncbi.nlm.nih.gov/43084910/)
@@ -564,5 +566,20 @@ search:
 - 희귀 암종에서 맞춤형 유전체 분석을 통한 정밀 치료 가능성을 제시한 사례입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43054860/) · [DOI](https://doi.org/10.1016/j.gore.2026.102196) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13780251/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43054860)</small>
+
+---
+<a id="pmid-43099483"></a>
+#### [토실리주맙과 젬시타빈/나브-팍리탁셀 병용요법에서 종양 축소 및 쇠약 상태를 예측하는 혈중 효과기 기억 CD8+ T 세포](https://pubmed.ncbi.nlm.nih.gov/43099483/)
+<small>Circulating effector memory CD8 + T-cells predict tumor shrinkage and reflect wasting conditions and immunity in tocilizumab plus gemcitabine/nab-paclitaxel for mPDAC</small>
+
+`논문` `1상` `신약·치료제` `임상시험` `치료 전반` · 2026-08-10 · PubMed · BMC Cancer · 중요도 0.67
+
+본 연구는 전이성 췌장관선암(mPDAC) 환자 10명을 대상으로 tocilizumab(토실리주맙)과 gemcitabine(젬시타빈)/nab-paclitaxel(나브-팍리탁셀) 병용 치료 시 효과기 기억 CD8+ T 세포(effector memory CD8+ T cells)의 역할을 평가한 1상 임상 연구입니다. 기저 시점의 혈중 효과기 기억 CD8+ T 세포 수치가 높은 환자일수록 치료 반응이 좋았으며 췌장 원발 종양의 크기가 감소했습니다. 또한 높은 효과기 기억 CD8+ T 세포 수치는 체중 감소와 같은 쇠약 증상의 완화와 연관이 있었습니다. 연구진은 효과기 기억 CD8+ T 세포가 토실리주맙 치료 효과 및 환자의 쇠약 상태를 예측하는 잠재적 바이오마커라고 결론지었습니다.
+
+- 전이성 췌장암 환자 10명을 대상으로 토실리주맙과 젬시타빈/나브-팍리탁셀 병용 치료를 시행하고 면역 표지자를 분석했습니다.
+- 치료 반응군에서 기저 시점의 혈중 효과기 기억 CD8+ T 세포 수치가 더 높았으며 종양 크기 감소와 관련이 있었습니다.
+- 기저 효과기 기억 CD8+ T 세포 수치는 체중 감소율(r = -0.498, P = 0.006)과 유의한 음의 상관관계를 보였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43099483/) · [DOI](https://doi.org/10.1186/s12885-026-16685-w) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13810922/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43099483)</small>
 
 ---

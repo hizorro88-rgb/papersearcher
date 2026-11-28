@@ -17,10 +17,11 @@ search:
 - 종류: 요법
 - 별칭: FOLFIRINOX, mFOLFIRINOX, 폴피리녹스
 
-## 관련 임상시험 (77)
+## 관련 임상시험 (78)
 
 | 시험 | 단계 | 상태 | 국내 |
 |---|---|---|---|
+| [A Phase 3 Study to Evaluate VS-7375 in Participants With Newly Diagno…](../trials/NCT07963059.md) | 3상 | 모집 예정 | - |
 | [췌장 췌관선암 환자의 췌십이지장절제술 시 전중췌장절제술의 효과를 평가하는 임상시험](../trials/NCT07946380.md) | 해당 없음 | 모집 중 | - |
 | [MTAP 결손 췌장암 환자에서 수술 전후 navlimetostat와 변형 FOLFIRINOX 병용요법에 대한 연구](../trials/NCT07905131.md) | 1상/2상 | 모집 예정 | - |
 | [췌장암 치료를 위한 항말라리아제 메플로퀸(Mefloquine) 약물 재창출 1상 임상시험](../trials/NCT07875907.md) | 1상 | 모집 예정 | - |
@@ -32,7 +33,7 @@ search:
 | [수술 가능 및 경계성 수술 가능 췌관선암 환자를 위한 SMAD4 변이 기반 맞춤형 선행 화학요법 2상 임상시험 (SMART-…](../trials/NCT07748611.md) | 2상 | 모집 중 | - |
 | [전이성 췌장관선암 2차 치료로서 serplulimab, bevacizumab, FOLFIRINOX 또는 NALIRIFOX 병…](../trials/NCT07733050.md) | 2상 | 모집 예정 | - |
 | [KRAS 변이 췌장암 환자를 대상으로 티스렐리주맙 병용 여부에 따른 ELI-002 7P 및 mFOLFIRINOX 치료의 안전…](../trials/NCT07671339.md) | 1상 | 모집 중 | - |
-| [절제 가능성 경계성 췌관선암 환자를 위한 개인 맞춤형(유전자 서명 기반) 선행화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
+| [경계성 수술 가능 췌관선암 환자를 위한 유전자 서명 기반 맞춤형 선행 항암화학요법 임상시험](../trials/NCT07616362.md) | 2상 | 모집 중 | - |
 | [고위험 재발성 고형암 환자에서 수술 후 보조 치료로서 XH001 주사의 안전성, 내인성, 예비 효능을 평가하기 위한 임상시험](../trials/NCT07594964.md) | 1상 | 모집 중 | - |
 | [경계성 절제 가능 또는 절제 불능 췌장암 환자를 위한 종양 내 MMR 백신 주사 임상시험](../trials/NCT07539155.md) | 1상/2상 | 모집 중 | - |
 | [경계성 절제 가능 췌관선암 환자를 위한 선행치료 시 젬시타빈(gemcitabine)의 경동맥 미세관류(TAMP)를 평가하는…](../trials/NCT07477418.md) | 1상/2상 | 모집 예정 | - |
@@ -52,7 +53,7 @@ search:
 | [수술 전 ASP2138 투여 및 수술 후 보조 항암화학요법을 평가하는 췌관선암 환자 대상 1상 임상시험](../trials/NCT07024615.md) | 1상 | 모집 중 | - |
 | [체중 감소 및 피로를 동반한 전이성 췌장암 성인 환자에서 폰세그로맙(Ponsegromab)을 평가하는 2b/3상 연구](../trials/NCT06989437.md) | 2상/3상 | 모집 중 | 10 |
 | [치료 전이가 없는 전이성 췌장암 환자에서 NC410 및 FOLFIRINOX와 Nivolumab(± Ipilimumab) 병용…](../trials/NCT06941857.md) | 2상 | 모집 중 | - |
-| [TNG462 병용 투여의 안전성, 내인성 및 유효성을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [췌장관선암 및 비소세포폐암 환자 대상 TNG462 병용요법의 안전성, 내약성 및 유효성 평가 1/2상 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [수술로 절제된 췌관선암 환자에서 mRNA 백신 AK154 단독 또는 AK104/AK112 병용 및 순차적 mFOLFIRINO…](../trials/NCT06913218.md) | 1상 | 모집 예정 | - |
 | [진행성 췌장암 1차 치료 후 젬시타빈+냅-파클리탁셀 유지치료와 mFOLFIRINOX 지속치료를 비교하는 3상 임상시험](../trials/NCT06897644.md) | 3상 | 모집 중 | - |
 | [진행성 췌장선암 환자를 위한 9-ING-41, retifanlimab 및 변형 FOLFIRINOX 병용 요법 (RiLEY)](../trials/NCT06896188.md) | 1상 | 모집 중 | - |
@@ -144,7 +145,7 @@ search:
 - 높은 RI(≥ 23.5%)를 가진 환자들의 중앙 전체 생존기간(OS)은 21.5개월이었으며, 낮은 환자들은 도달하지 않았습니다 (P = 0.00059).
 - 낮은 RI(< 23.5%)는 다변수 분석에서 사망 위험 감소와 독립적으로 연관되었습니다 (위험비[HR] = 0.036, 95% 신뢰구간: 0.002-0.83, P = 0.038).
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086471/) · [DOI](https://doi.org/10.1186/s13550-026-01510-z) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086471)</small>
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43086471/) · [DOI](https://doi.org/10.1186/s13550-026-01510-z) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13809405/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43086471)</small>
 
 ---
 <a id="pmid-43040170"></a>

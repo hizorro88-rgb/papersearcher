@@ -1,0 +1,108 @@
+{
+ "abstract": "This is a prospective, multicenter, two-cohort, open-label, single-arm feasibility study of a trimodal (nutritional, psychological, and personalized Adapted Physical Activity (APA)-individualized interventions) 8-week prehabilitation program in patients with localized pancreatic ductal adenocarcinoma (PDAC) or oesogastric cancer (OGC) receiving peri-operative triple chemotherapy and undergoing surgery.\n\nThe POP-UP study aims to evaluate the feasibility of an 8-week trimodal pre/posthabilitation program (consisting of APA, nutritional assessment, and psychological support) with remote monitoring of the APA sessions and nurse coordination alongside perioperative triplet chemotherapy in patients with localized PDAC (resectable or borderline resectable tumor) or OGC (≥ cT2 or N+).\n\nThe prehabilitation program will be conducted during neoadjuvant chemotherapy and the 3-5 weeks prior to surgery for a total of 8 weeks before surgery. There will be a total of three prehabilitation hospital days during the prehabilitation program.\n\nThe preoperative prehabilitation will include:\n\n* Once per month, a prehabilitation hospital-day with functional capacities assessment with validated tests made by a physiotherapist or an APA professional (according of center resources/functioning), medical and nurse assessment evaluating performance status, chemotherapy toxicity and tolerance, and nutritional assessment (according to the functioning of each center it will be made by these professionals -with university training on nutrition- or a dietician). A therapeutic training session on the adherence to the prehabilitation program will be done by the nurse (trained in therapeutic education).\n* Weekly, an APA professional trainer will follow via using app (Activiti®) the APA home-based program. It will be based on the functional capacities assessment made during the prehabilitation hospital day. The exercise training program will consist of twice per week autonomy sessions, supervised and adapted by the APA professional, and once per week a guided session with the APA professional. The patient will have a total of 3 physical activity sessions per week.\n* Once per week, the nurse practitioner (or case manager, according to center functioning) will evaluate the patient via a videoconference to assess the chemotherapy toxicity and tolerance and patient's weight modifications.\n\nThe posthabilitation program will start for a total of 8 weeks, one week after surgery discharge. The structure is the same as the prehabilitation program except for the follow of chemotherapy toxicity and tolerance that will be replaced by the follow of the surgical complications/consequences. There will be a total of three posthabilitation days at hospital during the posthabilitation program.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "supportive",
+  "treatment",
+  "surgery"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT06275737",
+ "importance": 0.71,
+ "key_points_ko": [
+  "절제 가능 또는 경계성 절제 가능한 국소 췌관선암 및 식도위암 환자 총 20명을 대상으로 진행하는 타당성 연구입니다.",
+  "선행 항암화학요법 기간 및 수술 전 8주, 그리고 수술 후 8주 동안 운동, 영양, 심리 지원의 삼중 재활 프로그램을 적용합니다.",
+  "월 1회 병원 방문 기능 평가, 주 3회 신체 활동(전문 트레이너 원격 지도 및 자율 운동), 주 1회 화상 간호 상담으로 관리합니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT06275737"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:NA"
+ ],
+ "published_at": "2024-02-23",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "GERCOR - Multidisciplinary Oncology Cooperative Group",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT06275737"
+ },
+ "summary_ko": "이 연구는 수술 전 선행 3제 복합 항암치료 및 수술을 받는 국소 췌관선암(PDAC) 및 식도위암 환자를 대상으로 8주간의 삼중 사전재활 프로그램의 타당성을 평가하는 다기관, 단일군 임상시험입니다. 사전재활 프로그램은 맞춤형 신체 활동(운동), 영양 평가, 심리적 지원으로 구성되며 전용 앱과 전담 간호사의 원격 모니터링을 병행합니다. 프로그램은 수술 전 선행치료 기간(8주)과 수술 후 퇴원 1주 뒤부터 8주간 진행됩니다. 이를 통해 환자의 신체 기능 유지와 항암 및 수술 치료의 순응도를 높이고자 합니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "POP-UP: a Single-arm, Two-cohort Study: an 8-week Trimodal Pre-habilitation Program for Patients With Pancreatic Ductal Adenocarcinoma and Oesogastric",
+ "title_ko": "수술 전후 3제 항암치료 및 수술을 받는 국소 췌장암 및 식도위암 환자를 위한 8주 삼중 사전재활 프로그램: POP-UP 단일군 연구",
+ "trial": {
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Esophageal Cancer"
+  ],
+  "contacts": [],
+  "eligibility_ko": "선정 기준:\n- 만 18세 이상이며 조직학적 또는 세포학적으로 국소 췌관선암(절제 가능 또는 경계성 절제 가능) 또는 식도위암으로 진단된 환자\n- 수술 전 4주기(8주) 이상의 선행 3제 복합 항암화학요법(FOLFIRINOX 등) 적용 대상자로 다학제 진료를 통해 결정된 환자\n- 항암화학요법 시작 전 해당 암종에 대해 이전에 치료를 받은 적이 없는 환자\n- ECOG 수행능력(PS) 0~1점인 환자 (만 75세 이상인 경우 G8 점수 14점 이상 또는 노인종양 전문의 승인 필요)\n- CT 또는 MRI 상 측정 가능하거나 평가 가능한 병변이 1개 이상 있는 환자\n- 3제 복합 항암요법을 받을 수 있는 적절한 혈액학적 및 장기 기능 보유자\n\n제외 기준:\n- 영상 검사상 원격 전이가 확인된 환자\n- 선암(adenocarcinoma) 이외의 조직형인 환자\n- 운동을 수행하기 어려운 심혈관, 호흡기, 정신과, 근골격계 또는 신경계 질환이 있는 환자\n- 전신 상태나 동반 질환으로 인해 수술을 받을 수 없는 환자\n- 임신 중이거나 수유 중인 환자",
+  "eligibility_text": "Inclusion Criteria:\n\n1. Signed and dated patient informed consent form (ICF) and willingness to comply with all study procedures and availability for the study duration,\n2. Histologically or cytologically proven, localized PDAC or OGC,\n3. Indication to a neoadjuvant treatment with triplet chemotherapy for ≥ 4 cycles (8 weeks) validated by the multidisciplinary board, Note: Patient treated for PDAC, dose reduction of oxaliplatin or irinotecan is authorized.\n4. Age \\> 18 years; If aged ≥ 75 years: G8 score must be ≥ 14 and if \\< 14 validation of oncogeriatric specialist,\n5. Eastern Cooperative Oncology Group performance status (ECOG PS) of 0-1 at the inclusion visit,\n6. No prior treatment for PDAC or OGC before starting chemotherapy (FLOT or FOLFIRINOX),\n7. At least one measurable or evaluable lesion as assessed by Computerized Tomography scan or Magnetic resonance imaging according to RECIST 1.1 and feasibility of repeated radiological assessments,\n8. Adequate hematologic and end-organ function allowing the triple combination chemotherapy protocol,\n9. Registration in a national health care system (PUMa - Protection Universelle Maladie included).\n\nExclusion Criteria:\n\n1. Evidence of metastatic disease at imaging (validated in multidisciplinary team evaluation),\n2. Histology of other than adenocarcinoma,\n3. Any medical (including cardiovascular, respiratory, psychiatric, musculoskeletal, or neurological) condition contra-indicating exercise practice,\n4. Patients with medical contraindication to surgery due to general condition or comorbidities\n5. Pregnancy or breast-feeding,\n6. Patient under a legal protection regime (guardianship, curatorship, judicial safeguard) or administrative decision or incapable of giving his/her consent,",
+  "enrollment": 20,
+  "has_results": false,
+  "interventions": [
+   "Prehabilitation program"
+  ],
+  "last_update_posted": "2026-11-27",
+  "location_countries": [
+   "France"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [
+    "영상 검사에서 원격 전이가 확인된 경우",
+    "심혈관, 호흡기, 근골격계 질환 등으로 신체 운동이 불가능한 경우",
+    "전신 상태나 동반 질환으로 수술을 진행할 수 없는 경우",
+    "임신 또는 수유 중인 경우"
+   ],
+   "max_prior_lines": 0,
+   "measurable_required": true,
+   "min_prior_lines": 0,
+   "notes_ko": "수술 전 선행 3제 복합 항암치료(FOLFIRINOX 등) 및 수술 예정인 국소 췌장암(수술 가능 또는 경계성) 환자",
+   "prior_excluded": [],
+   "prior_required": [],
+   "setting": [
+    "resectable",
+    "neoadjuvant"
+   ],
+   "source": "llm"
+  },
+  "max_age": null,
+  "min_age": "18 Years",
+  "n_locations": 11,
+  "nct_id": "NCT06275737",
+  "phase": "NA",
+  "primary_completion_date": "2027-12",
+  "sex": "ALL",
+  "sponsor": "GERCOR - Multidisciplinary Oncology Cooperative Group",
+  "start_date": "2024-06-24",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

@@ -1,0 +1,59 @@
+{
+ "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) frequently recurs within 12 months despite curative-intent resection, indicating biological aggressiveness not fully captured by current staging. This study aimed to develop and validate a Transparent Reporting of a multivariate prediction model for Individual Prognosis or Diagnosis (TRIPOD)-compliant preoperative Early-Recurrence Score (ERS) for ≤ 12-month recurrence.\nMETHODS: We conducted a retrospective prognostic-model study at a tertiary referral center. Of 213 patients assessed for upfront resection (2018-2022), 127 underwent pancreatectomy, with 68 (53.5%) experiencing recurrence within 12 months. All 127 patients were retained in the development cohort for model training and internal validation. A temporal validation cohort (n = 32) comprised consecutive patients treated July-December 2022 and was used to assess exploratory temporal stability. Early recurrence was defined as radiologic or histopathologic evidence of relapse within 12 months post-surgery. A penalized multivariable logistic model with 10-fold cross-validation and bootstrap optimism correction was fitted to derive the ERS and a nomogram; complementary Cox and Fine-Gray time-to-event models were fitted as sensitivity analyses. Calibration and discrimination (AUC) were assessed in both the development and temporal validation cohorts. Competing-risk analyses treated death without recurrence as a competing event.\nRESULTS: Three preoperative features independently predicted ≤ 12-month recurrence: CA19-9 (per doubling, aOR 1.62), CT-defined necrosis ≥ 30% (aOR 2.43), and peritumoral invasion (aOR 2.08) (all P < 0.011). The ERS demonstrated good and reproducible discrimination: the optimism-corrected AUC in the development cohort was 0.80 (95% CI, 0.72-0.87), and the AUC in the temporal validation cohort was 0.78 (95% CI, 0.64-0.89). Calibration was near ideal across cohorts (slopes 0.88-0.93). Compared to AJCC stage, ERS showed numerically higher discrimination estimates in the development and temporal cohorts (ΔAUC + 0.10), but neither comparison reached statistical significance (P = 0.08 and P = 0.09, respectively). These head-to-head findings are hypothesis-generating and require multicenter external validation before any inference of clinical superiority can be drawn. Competing-risk analyses confirmed recurrence as the dominant failure mode, with increasing cumulative incidence across ERS strata (low, intermediate, high risk). Decision-curve analyses showed favorable net benefit for ERS-guided management compared with treat-none and AJCC stage across threshold probabilities (0.05-0.20); the treat-all strategy showed competitive net benefit at lower thresholds, reflecting the high baseline event rate.\nCONCLUSIONS: This parsimonious preoperative ERS, integrating log2-transformed CA19-9, CT-defined tumor necrosis, and peritumoral invasion, provides calibrated and transportable estimates of ≤ 12-month PDAC recurrence. It may offer incremental discrimination beyond AJCC stage and shows preliminary evidence of clinical utility across practical decision thresholds. However, these findings are hypothesis-generating from a single-center, small-sample cohort; definitive assessment of clinical utility requires prospective multicenter external validation.",
+ "authors": [
+  "Hao J",
+  "Tian J",
+  "Bai J"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43099570",
+ "importance": 0.65,
+ "key_points_ko": [
+  "수술 전 CA19-9 수치(2배 증가당 위험도 1.62배), CT상 종양 괴사 30% 이상(2.43배), 종양 주위 침윤(2.08배)이 12개월 이내 조기 재발의 독립적 위험 요인이었습니다.",
+  "개발된 조기 재발 점수(ERS)의 예측 성능(AUC)은 개발 코호트에서 0.80, 시간적 검증 코호트에서 0.78을 기록했습니다.",
+  "절제술을 시행받은 127명의 환자 중 68명(53.5%)이 수술 후 12개월 이내에 조기 재발을 경험했습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1186/s12893-026-04147-w",
+  "nct": [],
+  "pmcid": "PMC13811058",
+  "pmid": "43099570"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Validation Study"
+ ],
+ "published_at": "2026-09-03",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Surg",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099570/"
+ },
+ "summary_ko": "본 연구는 근치적 절제술을 시행받은 췌관선암(PDAC) 환자의 수술 후 12개월 이내 조기 재발 위험을 예측하기 위한 수술 전 조기 재발 점수(ERS)와 노모그램을 개발하고 검증했습니다. 수술을 시행한 127명의 개발 코호트와 32명의 시간적 검증 코호트를 대상으로 분석을 진행했습니다. 수술 전 혈청 CA19-9 수치, 컴퓨터단층촬영(CT)상 종양 괴사 30% 이상, 종양 주위 침윤 3가지 요소가 독립적 예측인자로 확인되었습니다. ERS 모델은 개발 코호트와 검증 코호트에서 각각 수신자 작동 특성 곡선 아래 면적(AUC) 0.80 및 0.78의 우수한 예측 성능을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Development and validation of a nomogram and preoperative early-recurrence score for pancreatic ductal adenocarcinoma",
+ "title_ko": "췌관선암종 환자의 노모그램 및 수술 전 조기 재발 점수 개발과 검증",
+ "trial": null,
+ "type": "paper"
+}

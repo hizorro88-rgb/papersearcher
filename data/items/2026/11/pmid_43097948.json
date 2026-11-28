@@ -1,0 +1,62 @@
+{
+ "abstract": "INTRODUCTION: Postoperative hepatic steatosis occurs after pancreatectomy, but its prognostic significance after curative-intent resection of pancreatic ductal adenocarcinoma (PDAC) remains unclear.\nMETHODS: This dual-center retrospective cohort included 366 patients surviving beyond the 6-mo landmark after curative-intent PDAC resection (internal cohort, n = 231; external cohort, n = 135). De novo hepatic steatosis was assessed on unenhanced computed tomography performed 3-6 mo after surgery using the liver-to-spleen attenuation ratio, with a spleen-adjusted method when a reliable postoperative splenic reference was unavailable. Overall survival and secondary recurrence-free survival from the landmark were analyzed using Kaplan-Meier estimates and multivariable Cox regression. Inverse probability of treatment weighting, propensity score matching, and 48-mo restricted mean survival time analyses assessed robustness; early postoperative pancreatic enzyme replacement therapy was exploratory.\nRESULTS: De novo hepatic steatosis occurred in 132 patients (36.1%). It was independently associated with worse overall survival in the internal cohort (adjusted hazard ratio [HR], 1.79; 95% confidence interval [CI], 1.24-2.57) and the external cohort (adjusted HR, 1.94; 95% CI, 1.18-3.18). Over the first 48 mo following the 6- mo landmark, restricted mean survival time was shorter by 7.21 mo in the internal cohort and 7.13 mo in the external cohort. Secondary recurrence-free survival was also shorter with hepatic steatosis (pooled adjusted HR, 1.68; 95% CI, 1.23-2.29). Early pancreatic enzyme replacement therapy was associated with longer survival internally, but the association was not statistically significant externally.\nCONCLUSIONS: Postoperative de novo hepatic steatosis identified on unenhanced computed tomography was independently associated with worse survival after PDAC resection and may aid postoperative risk stratification.",
+ "authors": [
+  "Guo S",
+  "Liu H",
+  "Sun Z",
+  "Li H",
+  "Liu B",
+  "Yu Y",
+  "Wang F",
+  "Wang L"
+ ],
+ "categories": [
+  "surgery",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097948",
+ "importance": 0.77,
+ "key_points_ko": [
+  "근치적 수술을 받은 췌장암 환자의 36.1%(132명)에서 수술 후 새로 지방간이 발생했습니다.",
+  "지방간 발생군은 내부 코호트(위험비 1.79)와 외부 코호트(위험비 1.94) 모두에서 전체 생존기간이 유의하게 감소했습니다.",
+  "수술 후 지방간이 발생한 환자는 무재발 생존기간도 유의하게 짧았습니다(통합 보정 위험비 1.68)."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1016/j.jss.2026.10.060",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097948"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-26",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Surg Res",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097948/"
+ },
+ "summary_ko": "췌관선암(PDAC)의 근치적 절제 수술 후 새로 발생한 지방간이 환자 예후에 미치는 영향을 평가한 연구입니다. 수술 후 6개월 이상 생존한 366명의 환자를 분석한 결과, 36.1%(132명)에서 수술 후 3~6개월 내에 새로운 지방간이 발생했습니다. 분석 결과 수술 후 새로운 지방간 발생은 전체 생존기간(OS)과 무재발 생존기간(RFS) 단축과 유의한 연관성을 보였습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Postoperative De Novo Hepatic Steatosis Is Associated With Worse Survival After PDAC Resection",
+ "title_ko": "췌관선암 절제술 후 새로 발생한 지방간과 생존율 저하의 연관성",
+ "trial": null,
+ "type": "paper"
+}

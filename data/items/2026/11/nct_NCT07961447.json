@@ -1,0 +1,114 @@
+{
+ "abstract": "This is a prospective, multicenter, randomized, open-label, phase II clinical trial evaluating the efficacy and safety of a triplet regimen combining targeted therapy (nimotuzumab), immunotherapy (serplulimab), and chemotherapy (GnP regimen: gemcitabine plus nab-paclitaxel) versus GnP regimen alone as first-line treatment for patients with locally advanced pancreatic adenocarcinoma.",
+ "authors": [],
+ "categories": [
+  "trial",
+  "treatment",
+  "drug",
+  "diagnosis"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase2",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "nct:NCT07961447",
+ "importance": 0.87,
+ "key_points_ko": [],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": null,
+  "nct": [
+   "NCT07961447"
+  ],
+  "pmcid": null,
+  "pmid": null
+ },
+ "pub_types": [
+  "Trial:PHASE2"
+ ],
+ "published_at": "2026-11-27",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "West China Hospital",
+  "name": "ClinicalTrials.gov",
+  "url": "https://clinicaltrials.gov/study/NCT07961447"
+ },
+ "summary_ko": "This is a prospective, multicenter, randomized, open-label, phase II clinical trial evaluating the efficacy and safety of a triplet regimen combining targeted therapy (nimotuzumab), immunotherapy (serplulimab), and chemotherapy (GnP regimen: gemcitabine plus nab-paclitaxel) versus GnP regimen alone as first-line treatment for patients with locally advanced pancreatic adenocarcinoma.",
+ "summary_source": "excerpt",
+ "tags": [
+  "GnP",
+  "nimotuzumab",
+  "serplulimab",
+  "Locally Advanced Pancreatic Ductal Adenocarcinoma"
+ ],
+ "title": "Nimotuzumab, Serplulimab, and Chemotherapy for Advanced Pancreatic Cancer",
+ "title_ko": null,
+ "trial": {
+  "conditions": [
+   "Locally Advanced Pancreatic Ductal Adenocarcinoma"
+  ],
+  "contacts": [
+   {
+    "email": "caodan@scu.edu.cn",
+    "name": "Dan Cao",
+    "phone": "+8618980605963"
+   }
+  ],
+  "eligibility_ko": null,
+  "eligibility_text": "Inclusion Criteria:\n\n* 1\\. Age 18 to 75 years, male or female.\n* 2\\. Histologically confirmed pancreatic ductal adenocarcinoma, judged as locally advanced pancreatic cancer (LAPC) by a multidisciplinary team (MDT) based on pathology and imaging (CT/MRI, and FDG-PET-CT if necessary), referencing NCCN guidelines.\n* 3\\. No prior anti-tumor therapy (including chemotherapy, radiotherapy, surgery, radiofrequency ablation, irreversible electroporation, or other investigational therapies).\n* 4\\. ECOG performance status of 0 or 1.\n* 5\\. At least one measurable primary tumor lesion per RECIST v1.1 criteria (spiral CT long diameter \\>= 10 mm, or lymph node short diameter \\>= 15 mm).\n* 6\\. Adequate major organ function within 14 days prior to enrollment: Bone marrow (WBC \\>= 3.5x10\\^9/L, ANC \\>= 1.5x10\\^9/L, PLT \\>= 80x10\\^9/L, Hb \\>= 90 g/L); Liver (ALT/AST \\<= 3x ULN, TBIL \\<= 1.5x ULN); Kidney (Cr \\<= 1.5x ULN, GFR \\>= 60 ml/min/1.73m2); Coagulation (PT, APTT, INR \\<= 1.5x ULN); Electrolytes (\\<= Grade 1 per NCI-CTCAE v6.0); QTc interval \\<= 480 ms.\n* 7\\. No history of autoimmune disease and no current active autoimmune disease.\n* 8\\. Life expectancy of at least 3 months.\n* 9\\. Provision of written informed consent prior to any study-related procedures; able to understand and comply with the study protocol.\n\nExclusion Criteria:\n\n* 1\\. Severe underlying diseases or conditions judged by surgeons as unsuitable for surgery, including but not limited to: active infection requiring systemic therapy; uncontrolled diabetes or hypertension; decompensated heart failure, unstable angina, or acute myocardial infarction within 3 months; malignant ascites or pleural effusion; severe portal hypertension or cavernous transformation of the portal vein; gastrointestinal obstruction; respiratory insufficiency (requiring oxygen); severe pulmonary disease; CNS or psychiatric disorders.\n* 2\\. Lymph node metastasis beyond the standard radical pancreatectomy range as judged by surgeons or MDT.\n* 3\\. Tumor judged as resectable, borderline resectable, or metastatic pancreatic cancer by imaging or MDT.\n* 4\\. Known allergy to any study drug or its excipients.\n* 5\\. History of other malignancies within 5 years (except adequately treated basal cell carcinoma of the skin or carcinoma in situ of the cervix).\n* 6\\. Requirement for concurrent anti-tumor therapies other than the study protocol (e.g., chemotherapy, targeted therapy, hormone therapy, immunotherapy, radiotherapy, anti-tumor traditional Chinese medicine).\n* 7\\. Prior or current treatment with anti-PD-1/PD-L1/CTLA-4 immunotherapy.\n* 8\\. Prior treatment with EGFR monoclonal antibodies or EGFR-TKIs.\n* 9\\. Immunodeficiency or receiving chronic systemic steroid therapy (doses \\> 10 mg/day prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose.\n* 10\\. Administration of live vaccines within 30 days prior to the first dose.\n* 11\\. Major surgery within 28 days prior to enrollment or planned major surgery during the study.\n* 12\\. Uncontrolled third-space fluid accumulation (e.g., massive pleural effusion or ascites).\n* 13\\. History of gastrointestinal perforation or suspected risk of perforation.\n* 14\\. Concurrent use of strong CYP3A4 inhibitors or inducers.\n* 15\\. Known HIV positive, active Hepatitis B (HBsAg positive and HBV DNA \\>= 500 IU/mL), or active Hepatitis C (HCV antibody positive and HCV RNA positive).\n* 16\\. History of or current interstitial lung disease.\n* 17\\. Prior solid organ transplantation or allogeneic hematopoietic stem cell transplantation.\n* 18\\. Known or suspected central nervous system metastases.\n* 19\\. Women who are pregnant, planning to become pregnant, or breastfeeding.\n* 20\\. Refusal to use effective contraception during the study and for 6 months after the last dose.\n* 21\\. Participation in another clinical trial of drugs or medical devices within 4 weeks prior to enrollment.\n* 22\\. Other conditions deemed unsuitable for enrollment by the investigator.",
+  "enrollment": 116,
+  "has_results": false,
+  "interventions": [
+   "Nimotuzumab",
+   "Serplulimab",
+   "Gemcitabine+Albumin-bound paclitaxell"
+  ],
+  "last_update_posted": "2026-11-27",
+  "location_countries": [
+   "China"
+  ],
+  "locations_kr": [],
+  "match": {
+   "biomarkers_excluded": [],
+   "biomarkers_required": [],
+   "ecog_max": 1,
+   "key_exclusions_ko": [],
+   "max_prior_lines": null,
+   "measurable_required": null,
+   "min_prior_lines": null,
+   "notes_ko": "",
+   "prior_excluded": [
+    "immunotherapy"
+   ],
+   "prior_required": [],
+   "setting": [
+    "locally_advanced"
+   ],
+   "source": "rules"
+  },
+  "max_age": "75 Years",
+  "min_age": "18 Years",
+  "n_locations": 2,
+  "nct_id": "NCT07961447",
+  "phase": "PHASE2",
+  "primary_completion_date": "2030-06",
+  "sex": "ALL",
+  "sponsor": "West China Hospital",
+  "start_date": "2026-12-01",
+  "status": "NOT_YET_RECRUITING",
+  "study_type": "INTERVENTIONAL"
+ },
+ "type": "trial"
+}

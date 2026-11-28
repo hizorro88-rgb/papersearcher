@@ -1,0 +1,54 @@
+{
+ "abstract": "Pancreatic masses comprise diseases with divergent biology and treatment pathways, particularly pancreatic ductal adenocarcinoma and pancreatic neuroendocrine tumors. Pancreatic-protocol computed tomography and magnetic resonance imaging remain indispensable for lesion characterization, vascular mapping, and local resectability assessment. Positron emission tomography/computed tomography adds whole-body metabolic, stromal, or receptor information when a defined diagnostic or management question persists. Fluorodeoxyglucose imaging depicts glycolytic burden and is most useful in selected pancreatic ductal adenocarcinoma staging, recurrence, response assessment, and prognostic settings; inflammatory uptake and variable tumor glycolysis limit diagnosis by molecular imaging alone. Fibroblast activation protein-targeted imaging often provides high contrast in desmoplastic pancreatic cancer and may reveal occult nodal, peritoneal, or distant disease, but studies remain heterogeneous in tracer, modality, reference standard, and endpoint, and outcome evidence is immature. Uptake in pancreatitis, healing, and fibrosis further limits specificity. In pancreatic neuroendocrine tumors, somatostatin receptor imaging is integral to whole-body staging and receptor-directed treatment selection, whereas complementary fluorodeoxyglucose imaging identifies aggressive or dedifferentiated tumor components. Across tracers, additional lesion detection should not be equated with implemented management change or patient benefit. Pancreas-specific quantitative PET thresholds, radiomics, and artificial-intelligence models remain investigational because harmonization and independent external validation are limited. Direct FAPI-SSTR comparative evidence remains limited. This narrative review integrates the three targets in an author-proposed, evidence-informed biology- and decision-driven framework. The most defensible strategy begins with high-quality anatomic imaging, selects the tracer according to suspected phenotype and the unresolved question, and confirms an isolated treatment-changing PET finding before withdrawing potentially curative care.",
+ "authors": [
+  "Banala M",
+  "Ezuddin S",
+  "Foley M"
+ ],
+ "categories": [
+  "diagnosis",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43101045",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.3389/fonc.2026.1947027",
+  "nct": [],
+  "pmcid": "PMC13809804",
+  "pmid": "43101045"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101045/"
+ },
+ "summary_ko": "Pancreatic masses comprise diseases with divergent biology and treatment pathways, particularly pancreatic ductal adenocarcinoma and pancreatic neuroendocrine tumors. Pancreatic-protocol computed tomography and magnetic resonance imaging remain indispensable for lesion characterization, vascular mapping, and local resectability assessment.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Biology- and decision-driven PET/CT for pancreatic masses: fluorodeoxyglucose, fibroblast activation protein-targeted, and somatostatin receptor imaging",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

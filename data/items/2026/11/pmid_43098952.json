@@ -1,0 +1,63 @@
+{
+ "abstract": "BACKGROUND: Pancreatic cancer has the worst prognosis among common solid tumours. Surgical and systemic therapies are too often non-curative, highlighting the need to identify patients with aggressive tumour biology. Here, we molecularly characterize the tumours of short-term and long-term survivors after pancreatic cancer surgery.\nMETHODS: Whole-exome and RNA-sequenced tumours in the Oncology Research Information Exchange Network (ORIEN) were used to compare patients with short-term survival (<1.5 years) vs long-term (>3 years) survival after surgery, stratified by upfront surgery and neoadjuvant chemotherapy. Differentially expressed genes were validated in independent cohorts.\nRESULTS: 140 patients had upfront surgery (short-term n = 81; long-term n = 59) and 45 patients had neoadjuvant chemotherapy (short-term n = 29; long-term n = 16). Tumours in long-term survivors after upfront surgery were more often of classical subtypes and presented with immune-enriched microenvironment signatures, whereas tumours in short-term survivors were more often basal-like with a fibrotic microenvironment signature. Short-term survivors had enriched gene sets associated with ECM production, stromal fibroblasts and angiogenesis, suggesting influence of the microenvironment composition on prognosis. Of the overexpressed genes in short-term survivors after upfront surgery, high expression levels of S100A2, S100A3, HMGA2, and A2ML1 were validated as prognostic in two independent cohorts. Neoadjuvant therapy was associated with classical subtypes and differences in immune cell proportions.\nCONCLUSIONS: Short-term survival following PDAC surgery is associated with basal-like subtypes and fibrotic microenvironment signatures with EMT activation. Overexpression of S100A2, S100A3, HMGA2, and A2ML1 is associated with short overall survival, and these genes are potential prognostic biomarkers that warrant further validation before use in PDAC surgical and oncological care.",
+ "authors": [
+  "Franklin O",
+  "Caryotakis G",
+  "Sugawara T",
+  "Franco SR",
+  "McCarter M",
+  "Permuth JB",
+  "Turk A",
+  "Cavnar MJ"
+ ],
+ "categories": [
+  "surgery",
+  "basic",
+  "treatment"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43098952",
+ "importance": 0.75,
+ "key_points_ko": [
+  "바로 수술을 받은 140명(단기 생존 81명, 장기 생존 59명)과 선행항암 후 수술을 받은 45명(단기 생존 29명, 장기 생존 16명)을 비교 분석했습니다.",
+  "장기 생존자는 클래식 아형과 면역 풍부 미세환경을 보였고, 단기 생존자는 기저양 아형과 섬유화 및 기질 세포 관련 유전자 발현이 높았습니다.",
+  "S100A2, S100A3, HMGA2, A2ML1 유전자의 높은 발현은 짧은 전체 생존기간과 유의하게 연관되어 잠재적 예후 바이오마커로 확인되었습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1002/ctm2.70912",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43098952"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-12-01",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Transl Med",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098952/"
+ },
+ "summary_ko": "췌장암 수술을 받은 환자 중 단기 생존자(1.5년 미만)와 장기 생존자(3년 초과)의 종양 조직을 전장 엑솜(WES) 및 RNA 시퀀싱으로 분석했습니다. 바로 수술을 받은 140명과 선행보조항암화학요법 후 수술을 받은 45명을 나누어 종양의 생물학적 특성을 비교했습니다. 분석 결과 바로 수술받은 장기 생존자의 종양은 클래식(classical) 아형 및 면역 세포가 풍부한 미세환경을 보인 반면, 단기 생존자는 기저양(basal-like) 아형 및 섬유화 미세환경 특성을 나타냈습니다. 또한 S100A2, S100A3, HMGA2, A2ML1 유전자의 과발현이 짧은 전체 생존기간(OS)과 연관되어 있음을 독립된 코호트에서 확인했습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Defining tumour molecular and transcriptomic characteristics of short-term and long-term survivors after pancreatic cancer surgery",
+ "title_ko": "췌장암 수술 후 단기 생존자와 장기 생존자의 종양 분자 및 전사체 특성 규명",
+ "trial": null,
+ "type": "paper"
+}

@@ -1,0 +1,66 @@
+{
+ "abstract": "BACKGROUND: Circulating levels of effector memory CD8 + T cells are associated with a better prognosis in patients with metastatic pancreatic ductal adenocarcinoma. The purpose of this study was to assess the effects of effector memory CD8 + T cells on tumor size and wasting conditions.\nMETHODS: In this open-label, phase 1 study, circulating T cell subsets were analysed to evaluate the impacts of effector memory CD8 + T cells on tumor shrinkage and systemic deterioration. Patients had confirmed metastatic pancreatic ductal adenocarcinoma and experienced disease progression after partial responses to gemcitabine / nanoparticle albumin-bound paclitaxel.\nRESULTS: Thirty-four immune cell markers were identified at baseline, Day 9 and Day 28 from the peripheral blood of 10 patients who were treated with tocilizumab 8 mg/kg on Day 1, followed by nanoparticle albumin-bound paclitaxel 100 mg/m2 and gemcitabine 750 mg/m2, on Days 2, 9 and 16 in 28-day cycles. Circulating effector memory CD8 + T cells levels were higher in responders at baseline, were maintained on Days 9 and 28 and were associated with a reduction in the primary pancreatic tumor size. Wasting conditions were relieved and higher levels of effector memory CD8 + T cells at baseline were negatively correlated with percentage body weight loss (r = - 0.498, P = 0.006), nausea scores (r = - 0.437, P = 0.062) and walking disturbance scores (r = - 0.383, P = 0.105).\nCONCLUSIONS: Baseline levels of effector memory CD8 + T cells are a potential biomarker to predict the therapeutic efficacy of tocilizumab and to evaluate wasting conditions in metastatic pancreatic ductal adenocarcinoma. Further research into the role of effector memory CD8 + T cells in relation to cachexia is required.\nTRIAL REGISTRATION: The clinical part of the study was registered with the Japan Pharmaceutical Information Center Clinical Trials Information (JapicCTI-194753, registered in May 2019), and the translational research part was registered with the Japan Registry of Clinical Trials (jRCT1030200192, registered in November 2020).",
+ "authors": [
+  "Mitsunaga S",
+  "Ikeda M",
+  "Imaoka H",
+  "Sasaki M",
+  "Watanabe K",
+  "Sato A",
+  "Aoki K",
+  "Koyama S"
+ ],
+ "categories": [
+  "drug",
+  "trial",
+  "treatment"
+ ],
+ "entities": [
+  "gem-nabp"
+ ],
+ "evidence": "phase1",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43099483",
+ "importance": 0.67,
+ "key_points_ko": [
+  "전이성 췌장암 환자 10명을 대상으로 토실리주맙과 젬시타빈/나브-팍리탁셀 병용 치료를 시행하고 면역 표지자를 분석했습니다.",
+  "치료 반응군에서 기저 시점의 혈중 효과기 기억 CD8+ T 세포 수치가 더 높았으며 종양 크기 감소와 관련이 있었습니다.",
+  "기저 효과기 기억 CD8+ T 세포 수치는 체중 감소율(r = -0.498, P = 0.006)과 유의한 음의 상관관계를 보였습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1186/s12885-026-16685-w",
+  "nct": [],
+  "pmcid": "PMC13810922",
+  "pmid": "43099483"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Clinical Trial, Phase I"
+ ],
+ "published_at": "2026-08-10",
+ "relevance": 0.9,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "BMC Cancer",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43099483/"
+ },
+ "summary_ko": "본 연구는 전이성 췌장관선암(mPDAC) 환자 10명을 대상으로 tocilizumab(토실리주맙)과 gemcitabine(젬시타빈)/nab-paclitaxel(나브-팍리탁셀) 병용 치료 시 효과기 기억 CD8+ T 세포(effector memory CD8+ T cells)의 역할을 평가한 1상 임상 연구입니다. 기저 시점의 혈중 효과기 기억 CD8+ T 세포 수치가 높은 환자일수록 치료 반응이 좋았으며 췌장 원발 종양의 크기가 감소했습니다. 또한 높은 효과기 기억 CD8+ T 세포 수치는 체중 감소와 같은 쇠약 증상의 완화와 연관이 있었습니다. 연구진은 효과기 기억 CD8+ T 세포가 토실리주맙 치료 효과 및 환자의 쇠약 상태를 예측하는 잠재적 바이오마커라고 결론지었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Circulating effector memory CD8 + T-cells predict tumor shrinkage and reflect wasting conditions and immunity in tocilizumab plus gemcitabine/nab-paclitaxel for mPDAC",
+ "title_ko": "토실리주맙과 젬시타빈/나브-팍리탁셀 병용요법에서 종양 축소 및 쇠약 상태를 예측하는 혈중 효과기 기억 CD8+ T 세포",
+ "trial": null,
+ "type": "paper"
+}

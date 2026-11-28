@@ -50,8 +50,23 @@ search:
 | [전이성 췌장관선암 환자의 2차 치료로서 onvansertib과 나노리포조말 이리노테칸, 류코보린, 플루오로우라실 병용요법 임…](../trials/NCT04752696.md) | 2상 | 조기 종료 | - |
 | [진행성 췌장암 환자에서 NaliCap(리포조말 리리노테칸/카페시타빈) 대 NAPOLI(리포조말 이리노테칸/5-FU/LV) 비…](../trials/NCT04371224.md) | 2상 | 진행 중(모집 종료) | 2 |
 
-## 타임라인 (4)
+## 타임라인 (5)
 
+<a id="pmid-43102748"></a>
+#### [일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황: 췌장암에 대한 liposomal irinotecan 등](https://pubmed.ncbi.nlm.nih.gov/43102748/)
+<small>PMDA regulatory update on approval and revision of the precautions for use of anticancer drugs in Japan; zongertinib for lung cancer, borofalan for meningioma, tucatinib for biliary tract cancer, talaporfin for cervical intraepithelial neoplasia, liposomal irinotecan for pancreatic cancer, and pirtobrutinib and blinatumomab for leukemia</small>
+
+`논문` `기타` `신약·치료제` `제약사·규제` `지지요법·삶의질` · 2026-11-27 · PubMed · Int J Clin Oncol · 중요도 0.60
+
+본 글은 일본 의약품의료기기종합기구(PMDA)의 최신 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설(Editorial)입니다. 췌장암 치료제인 liposomal irinotecan(리포소말 이리노테칸)을 포함해 여러 암종 치료제의 규제 업데이트 내용을 전달합니다. 구체적인 임상 수치나 세부 변경 사항은 제시된 원문에 명시되지 않았습니다.
+
+- 일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설입니다.
+- 췌장암 분야에서는 liposomal irinotecan(리포소말 이리노테칸) 관련 규제 정보가 포함되었습니다.
+- 구체적인 연구 수치나 상세 변경 내역은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43102748/) · [DOI](https://doi.org/10.1007/s10147-026-03260-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43102748)</small>
+
+---
 <a id="pmid-42951709"></a>
 #### [1차 NALIRIFOX 요법 최적화 및 췌장암 2차 치료에서 마이크로바이오타의 역할 탐색: PRODIGE 105-GERCOR 116 PANORAMIX 임상시험](https://pubmed.ncbi.nlm.nih.gov/42951709/)
 <small>Optimizing first-line NALIRIFOX and exploring the role of the microbiota in second-line pancreatic cancer treatment: the PRODIGE 105-GERCOR 116 PANORAMIX trial</small>

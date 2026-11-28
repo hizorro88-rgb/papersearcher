@@ -11,7 +11,8 @@
  ],
  "categories": [
   "surgery",
-  "supportive"
+  "supportive",
+  "treatment"
  ],
  "entities": [
   "whipple"
@@ -27,7 +28,11 @@
  ],
  "id": "pmid:43097075",
  "importance": 0.75,
- "key_points_ko": [],
+ "key_points_ko": [
+  "성향점수 매칭 분석 결과 면역영양요법군은 표준 영양관리군에 비해 90일 사망률이 유의하게 낮았습니다(OR < 0.01, p = 0.013).",
+  "합병증 발생 후 사망에 이르는 비율인 합병증 관리 실패율(FTR) 역시 면역영양요법군에서 유의하게 감소했습니다(OR < 0.01, p = 0.002).",
+  "췌장 누출(POPF), 위 배출 지연, 수술 후 출혈, 재수술률 및 입원 기간은 두 그룹 간 유의한 차이가 없었습니다."
+ ],
  "last_updated": "2026-11-27",
  "links": {
   "doi": "10.1007/s13304-026-02952-9",
@@ -49,11 +54,11 @@
   "name": "PubMed",
   "url": "https://pubmed.ncbi.nlm.nih.gov/43097075/"
  },
- "summary_ko": "The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes.",
- "summary_source": "excerpt",
+ "summary_ko": "췌장두십이지장절제술(PD)을 받은 204명의 환자를 대상으로 수술 후 경장 면역영양요법(Post-IN)의 효과를 분석한 연구입니다. 성향점수 매칭을 통해 면역영양요법군과 표준 영양관리군 각 51명을 비교했습니다. 수술 후 면역영양요법은 합병증 발생률 자체를 줄이지는 못했으나 90일 사망률과 합병증 관리 실패율(FTR)을 유의하게 감소시켰습니다. 이는 면역영양요법이 합병증 예방보다는 합병증에 대한 환자의 대처 능력을 향상시킬 수 있음을 시사합니다.",
+ "summary_source": "llm",
  "tags": [],
  "title": "Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis",
- "title_ko": null,
+ "title_ko": "췌장두십이지장절제술 후 수술 후 면역영양요법의 합병증 경감 효과: 성향점수 매칭 분석",
  "trial": null,
  "type": "paper"
 }

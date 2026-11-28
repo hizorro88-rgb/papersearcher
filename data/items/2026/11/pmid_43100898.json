@@ -1,0 +1,65 @@
+{
+ "abstract": "BACKGROUND: Metastatic pancreatic ductal adenocarcinoma (mPDAC) is a highly lethal malignancy with limited treatment options after first-line progression. Daraxonrasib (RMC-6236), a RAS(ON) inhibitor, has demonstrated clinical benefit in previously treated mPDAC patients in the RASolute 302 trial. However, its economic value in China remains uncertain. This study evaluated the cost-effectiveness of Daraxonrasib versus Chemotherapy in previously treated mPDAC.\nMETHODS: A three-state partitioned survival model was developed to evaluate costs and health outcomes from the Chinese healthcare system perspective. Clinical inputs were derived from reconstructed individual patient data from the RASolute 302 randomized clinical trial, with long-term survival extrapolated using parametric survival models. Costs were estimated using China-specific healthcare resource utilization and medical service prices. Outcomes included costs, quality-adjusted life years (QALYs), and incremental cost-effectiveness ratios (ICERs). A 10-year time horizon with an annual discount rate of 4.5% was applied. Deterministic sensitivity analyses, probabilistic sensitivity analyses, and price scenario analyses were performed.\nRESULTS: Compared with chemotherapy, the model estimated that daraxonrasib generated an additional 0.30 QALYs (0.98 vs. 0.68 QALYs) at an increased cost of US$38,125.89 (US$44,844.71 vs. US$6,718.82), resulting in an ICER of US$127,020.77 per QALY gained, which exceeded the Chinese willingness-to-pay threshold. Sensitivity analyses identified the acquisition cost of daraxonrasib, rather than chemotherapy drug costs, as the most influential determinant of cost-effectiveness. Price threshold analyses suggested that substantial price reductions would be required for daraxonrasib to approach the willingness-to-pay threshold.\nCONCLUSION: From the perspective of the Chinese healthcare system, daraxonrasib provides additional clinical benefits for previously treated patients with mPDAC but is unlikely to be cost-effective compared with chemotherapy at the assumed price of US$5,000 per treatment cycle. Pricing strategies and reimbursement negotiations will be critical determinants of its potential economic value in China.",
+ "authors": [
+  "Chen R",
+  "Fu M",
+  "Lin H",
+  "Jiang Q",
+  "Li C",
+  "Xu L",
+  "Wu R",
+  "Zhang K"
+ ],
+ "categories": [
+  "drug",
+  "treatment",
+  "industry"
+ ],
+ "entities": [
+  "daraxonrasib"
+ ],
+ "evidence": "other",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43100898",
+ "importance": 0.65,
+ "key_points_ko": [
+  "다락소나십 치료군은 항암화학요법 대비 0.30 QALY(0.98 QALY 대 0.68 QALY)의 추가적인 건강 이득을 얻었습니다.",
+  "추가 비용은 38,125.89 달러 발생하여 획득한 QALY당 증분 비용-효과비(ICER)는 127,020.77 달러로 산출되었습니다.",
+  "다락소나십 약제비가 경제성 판단에 가장 결정적인 요인이며, 지불 용의 문턱값을 충족하려면 상당한 수준의 약가 인하가 필요합니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.3389/fphar.2026.1930284",
+  "nct": [],
+  "pmcid": "PMC13809509",
+  "pmid": "43100898"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Pharmacol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43100898/"
+ },
+ "summary_ko": "본 연구는 중국 보건의료 체계 관점에서 이전 치료를 받은 전이성 췌장관선암(mPDAC) 환자를 대상으로 daraxonrasib(다락소나십)과 항암화학요법의 비용-효과성을 평가했습니다. RASolute 302 임상시험의 생존 데이터를 활용하여 10년의 분석 기간 동안 경제성을 모델링했습니다. 분석 결과 다락소나십 치료는 화학요법 대비 0.30 질 조정 수명(QALY)을 추가로 생성했으나, 치료 비용이 38,125.89 달러 더 높았습니다. 치료 주기당 5,000 달러의 약가를 가정했을 때 다락소나십은 중국의 지불 용의 문턱값을 초과하여 비용-효과적이지 않은 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Cost-effectiveness and price threshold analysis of daraxonrasib versus chemotherapy for previously treated metastatic pancreatic ductal adenocarcinoma in China",
+ "title_ko": "이전 치료 경험이 있는 전이성 췌장관선암 환자에서 화학요법 대비 다락소나십의 비용-효과성 및 가격 문턱값 분석",
+ "trial": null,
+ "type": "paper"
+}

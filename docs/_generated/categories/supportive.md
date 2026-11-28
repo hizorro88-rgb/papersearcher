@@ -16,12 +16,100 @@ search:
 !!! warning "안내"
     이 페이지는 자동 수집·AI 요약된 정보입니다. 의료 조언이 아니며, 치료 결정은 반드시 담당 의료진과 상의하세요. 응급 상황은 [응급 가이드](../../guides/emergency/index.md) 또는 119.
 
-전체 234건 · 최근 30일 120건
+전체 239건 · 최근 30일 117건
 
 월별 보기: [2026-11](supportive/2026-11.md) · [2026-10](supportive/2026-10.md)
 
 ## 최근 30일
 
+<a id="pmid-43097948"></a>
+#### [췌관선암 절제술 후 새로 발생한 지방간과 생존율 저하의 연관성](https://pubmed.ncbi.nlm.nih.gov/43097948/)
+<small>Postoperative De Novo Hepatic Steatosis Is Associated With Worse Survival After PDAC Resection</small>
+
+`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-26 · PubMed · J Surg Res · 중요도 0.77
+
+췌관선암(PDAC)의 근치적 절제 수술 후 새로 발생한 지방간이 환자 예후에 미치는 영향을 평가한 연구입니다. 수술 후 6개월 이상 생존한 366명의 환자를 분석한 결과, 36.1%(132명)에서 수술 후 3~6개월 내에 새로운 지방간이 발생했습니다. 분석 결과 수술 후 새로운 지방간 발생은 전체 생존기간(OS)과 무재발 생존기간(RFS) 단축과 유의한 연관성을 보였습니다.
+
+- 근치적 수술을 받은 췌장암 환자의 36.1%(132명)에서 수술 후 새로 지방간이 발생했습니다.
+- 지방간 발생군은 내부 코호트(위험비 1.79)와 외부 코호트(위험비 1.94) 모두에서 전체 생존기간이 유의하게 감소했습니다.
+- 수술 후 지방간이 발생한 환자는 무재발 생존기간도 유의하게 짧았습니다(통합 보정 위험비 1.68).
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097948/) · [DOI](https://doi.org/10.1016/j.jss.2026.10.060) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097948)</small>
+
+---
+<a id="nct-nct06275737"></a>
+#### [수술 전후 3제 항암치료 및 수술을 받는 국소 췌장암 및 식도위암 환자를 위한 8주 삼중 사전재활 프로그램: POP-UP 단일군 연구](https://clinicaltrials.gov/study/NCT06275737)
+<small>POP-UP: a Single-arm, Two-cohort Study: an 8-week Trimodal Pre-habilitation Program for Patients With Pancreatic Ductal Adenocarcinoma and Oesogastric</small>
+
+`임상시험` `기타` `지지요법·삶의질` `치료 전반` `수술` · 2024-02-23 · ClinicalTrials.gov · GERCOR - Multidisciplinary Oncology Cooperative Group · 중요도 0.71
+
+**NCT06275737** · 해당 없음 · 진행 중(모집 종료) · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT06275737.md)
+
+이 연구는 수술 전 선행 3제 복합 항암치료 및 수술을 받는 국소 췌관선암(PDAC) 및 식도위암 환자를 대상으로 8주간의 삼중 사전재활 프로그램의 타당성을 평가하는 다기관, 단일군 임상시험입니다. 사전재활 프로그램은 맞춤형 신체 활동(운동), 영양 평가, 심리적 지원으로 구성되며 전용 앱과 전담 간호사의 원격 모니터링을 병행합니다. 프로그램은 수술 전 선행치료 기간(8주)과 수술 후 퇴원 1주 뒤부터 8주간 진행됩니다. 이를 통해 환자의 신체 기능 유지와 항암 및 수술 치료의 순응도를 높이고자 합니다.
+
+- 절제 가능 또는 경계성 절제 가능한 국소 췌관선암 및 식도위암 환자 총 20명을 대상으로 진행하는 타당성 연구입니다.
+- 선행 항암화학요법 기간 및 수술 전 8주, 그리고 수술 후 8주 동안 운동, 영양, 심리 지원의 삼중 재활 프로그램을 적용합니다.
+- 월 1회 병원 방문 기능 평가, 주 3회 신체 활동(전문 트레이너 원격 지도 및 자율 운동), 주 1회 화상 간호 상담으로 관리합니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT06275737) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT06275737)</small>
+
+---
+<a id="pmid-43101452"></a>
+#### [Shared miRNA regulatory network at the interface of pancreatic ductal adenocarcinoma and diabetes](https://pubmed.ncbi.nlm.nih.gov/43101452/)
+`논문` `종설` `지지요법·삶의질` `진단·조기발견` · 2026-11-12 · PubMed · Front Oncol · 중요도 0.68
+
+Pancreatic ductal adenocarcinoma (PDAC) and Type 2 Diabetes Mellitus (T2DM) are diseases with well-established clinical linked, but it is a complex relationship that are poorly understood at the biological level. T2DM precedes the diagnosis of PDAC in many cases, and this suggests an underlying interactions that extends beyond its epidemiological link.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43101452/) · [DOI](https://doi.org/10.3389/fonc.2026.1934820) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13809964/) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43101452)</small>
+
+---
+<a id="nct-nct07494994"></a>
+#### [SURGIMEDIA: 수술 동의서 작성 과정의 이해도 향상을 위한 멀티미디어 활용](https://clinicaltrials.gov/study/NCT07494994)
+<small>SURGIMEDIA: Utilization of Multimedia for Enhanced Surgical Consent</small>
+
+`임상시험` `기타` `지지요법·삶의질` `수술` · 2026-03-27 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.64
+
+**NCT07494994** · 해당 없음 · 일시 중단 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07494994.md)
+
+이 연구는 췌장십이지장절제술(Whipple operation, 휘플 수술)을 앞둔 췌장암(Pancreas Cancer) 환자를 대상으로 합니다. 표준적인 수술 전 설명 외에 교육용 동영상(멀티미디어 비디오)을 활용하여 환자의 이해도, 편안함, 전반적인 만족도가 높아지는지 평가합니다. 연구의 목표는 수술 동의서 작성 과정을 표준화하고 의료 장벽의 영향을 완화하는 것입니다. 총 60명의 목표 인원으로 진행되며 현재 중단(SUSPENDED) 상태입니다.
+
+- 대상 질환은 췌장암(Pancreas Cancer)이며 표준 치료로 휘플 수술(pancreaticoduodenectomy)을 앞둔 환자 60명을 대상으로 합니다.
+- 중재 방법으로 표준적인 사전 동의서(Standard Informed Consent)와 멀티미디어 비디오 기반 사전 동의서(Multimedia Video - Based Informed Consent)를 비교 평가합니다.
+- 연구의 주요 목적은 수술 동의 과정에서 멀티미디어 비디오를 활용하여 환자 만족도를 높이고 이해도를 증진하는지 확인하는 것입니다.
+
+<small>[원문](https://clinicaltrials.gov/study/NCT07494994) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07494994)</small>
+
+---
+<a id="pmid-43097938"></a>
+#### [영국 췌장암 환자의 임종 임박 시기 치료 실태 연구](https://pubmed.ncbi.nlm.nih.gov/43097938/)
+<small>Treatment Near the End of Life in Pancreatic Cancer in England</small>
+
+`논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-11-11 · PubMed · Clin Oncol (R Coll Radiol) · 중요도 0.64
+
+영국에서 2015년부터 2019년 사이에 사망한 췌장암 환자 10,835명의 데이터를 분석한 인구 기반 회고적 연구입니다. 전체 환자 중 사망 전 30일 이내에 화학요법(chemotherapy)을 받은 환자는 14%였으며, 방사선 치료를 받은 환자는 2%였습니다. 완화적 치료 목적으로 기록된 환자 8,222명 중에서는 17.4%가 사망 전 30일 이내에 전신 항암 치료를 받았습니다. 사망 임박 시기의 치료 개입은 응급실 방문 및 입원율 증가와 관련이 있었습니다.
+
+- 사망 전 30일 이내에 화학요법을 받은 환자는 14%, 방사선 치료를 받은 환자는 2%였습니다.
+- 완화 목적 치료 대상자 8,222명 중 17.4%가 사망 전 30일 이내에 전신 항암 치료를 받았습니다.
+- 사망 임박 시기의 항암 치료는 응급실 방문 위험(교차비 1.51) 및 입원 위험(교차비 2.32)을 높였습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097938/) · [DOI](https://doi.org/10.1016/j.clon.2026.104366) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097938)</small>
+
+---
+<a id="pmid-43102748"></a>
+#### [일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황: 췌장암에 대한 liposomal irinotecan 등](https://pubmed.ncbi.nlm.nih.gov/43102748/)
+<small>PMDA regulatory update on approval and revision of the precautions for use of anticancer drugs in Japan; zongertinib for lung cancer, borofalan for meningioma, tucatinib for biliary tract cancer, talaporfin for cervical intraepithelial neoplasia, liposomal irinotecan for pancreatic cancer, and pirtobrutinib and blinatumomab for leukemia</small>
+
+`논문` `기타` `신약·치료제` `제약사·규제` `지지요법·삶의질` · 2026-11-27 · PubMed · Int J Clin Oncol · 중요도 0.60
+
+본 글은 일본 의약품의료기기종합기구(PMDA)의 최신 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설(Editorial)입니다. 췌장암 치료제인 liposomal irinotecan(리포소말 이리노테칸)을 포함해 여러 암종 치료제의 규제 업데이트 내용을 전달합니다. 구체적인 임상 수치나 세부 변경 사항은 제시된 원문에 명시되지 않았습니다.
+
+- 일본 PMDA의 항암제 승인 및 사용상의 주의사항 개정 현황을 다룬 사설입니다.
+- 췌장암 분야에서는 liposomal irinotecan(리포소말 이리노테칸) 관련 규제 정보가 포함되었습니다.
+- 구체적인 연구 수치나 상세 변경 내역은 초록에 명시되지 않았습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43102748/) · [DOI](https://doi.org/10.1007/s10147-026-03260-3) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43102748)</small>
+
+---
 <a id="pmid-43084910"></a>
 #### [쇠약한 진행성 췌장암 환자를 위한 긴급 통합 지지요법 프로그램: 전향적 GERCOR ARCAD 연구](https://pubmed.ncbi.nlm.nih.gov/43084910/)
 <small>Emergency Integrative Supportive Care Program for Frail Patients With Advanced Pancreatic Cancer: A Prospective GERCOR ARCAD Study</small>
@@ -39,12 +127,18 @@ search:
 
 ---
 <a id="pmid-43097075"></a>
-#### [Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis](https://pubmed.ncbi.nlm.nih.gov/43097075/)
-`논문` `관찰연구` `수술` `지지요법·삶의질` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.75
+#### [췌장두십이지장절제술 후 수술 후 면역영양요법의 합병증 경감 효과: 성향점수 매칭 분석](https://pubmed.ncbi.nlm.nih.gov/43097075/)
+<small>Postoperative immunonutrition following pancreatoduodenectomy mitigates the consequences of postoperative complications: a propensity score-matched analysis</small>
 
-The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduodenectomy (PD) remains controversial. This study evaluated its association with postoperative outcomes.
+`논문` `관찰연구` `수술` `지지요법·삶의질` `치료 전반` · 2026-11-26 · PubMed · Updates Surg · 중요도 0.75
 
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097075/) · [DOI](https://doi.org/10.1007/s13304-026-02952-9) · ⏳ 한국어 요약 재시도 예정 (영어 초록 발췌 임시 표시) · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097075)</small>
+췌장두십이지장절제술(PD)을 받은 204명의 환자를 대상으로 수술 후 경장 면역영양요법(Post-IN)의 효과를 분석한 연구입니다. 성향점수 매칭을 통해 면역영양요법군과 표준 영양관리군 각 51명을 비교했습니다. 수술 후 면역영양요법은 합병증 발생률 자체를 줄이지는 못했으나 90일 사망률과 합병증 관리 실패율(FTR)을 유의하게 감소시켰습니다. 이는 면역영양요법이 합병증 예방보다는 합병증에 대한 환자의 대처 능력을 향상시킬 수 있음을 시사합니다.
+
+- 성향점수 매칭 분석 결과 면역영양요법군은 표준 영양관리군에 비해 90일 사망률이 유의하게 낮았습니다(OR < 0.01, p = 0.013).
+- 합병증 발생 후 사망에 이르는 비율인 합병증 관리 실패율(FTR) 역시 면역영양요법군에서 유의하게 감소했습니다(OR < 0.01, p = 0.002).
+- 췌장 누출(POPF), 위 배출 지연, 수술 후 출혈, 재수술률 및 입원 기간은 두 그룹 간 유의한 차이가 없었습니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43097075/) · [DOI](https://doi.org/10.1007/s13304-026-02952-9) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43097075)</small>
 
 ---
 <a id="pmid-43088243"></a>
@@ -80,21 +174,6 @@ The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduode
 <small>[원문](https://clinicaltrials.gov/study/NCT07772258) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07772258)</small>
 
 ---
-<a id="pmid-43088821"></a>
-#### [만성 췌장염과 관련된 고형 췌장 병변의 수술 전 평가](https://pubmed.ncbi.nlm.nih.gov/43088821/)
-<small>Preoperative Assessment of Solid Pancreatic Lesions Associated with Chronic Pancreatitis</small>
-
-`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-12 · PubMed · Diagnostics (Basel) · 중요도 0.68
-
-만성 췌장염(chronic pancreatitis) 상태에서 발생하는 고형 췌장 병변은 염증성 종괴와 췌장암(pancreatic ductal adenocarcinoma)의 특징이 겹쳐 진단이 어렵습니다. 이 리뷰는 컴퓨터단층촬영(CT), 자기공명영상(MRI), 내시경 초음파(EUS) 및 조직 검사의 역할을 다룹니다. 내시경 초음파 하 미세침 생검(EUS-FNB)이 우선적인 조직 진단법이지만, 섬유화나 적은 세포수로 인해 위음성이 발생할 수 있으므로 다학제 팀의 신중한 평가가 필요합니다.
-
-- 만성 췌장염의 섬유화 및 석회화는 췌장암을 모방하거나 작은 악성 병변을 가릴 수 있습니다.
-- 신규 당뇨, 체중 감소, 황달, CA19-9 상승 등의 위험 신호가 나타나면 시급히 정밀 검사를 시행해야 합니다.
-- 내시경 초음파 하 미세침 생검(EUS-FNB)은 핵심 조직 채취에 우수하지만 위음성 가능성에 유의해야 합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088821/) · [DOI](https://doi.org/10.3390/diagnostics16223740) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13802315/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088821)</small>
-
----
 <a id="pmid-43087745"></a>
 #### [췌장관선암 및 2형 당뇨병에서 리코찰콘의 역할: 공유 신호 전달 경로의 상황 의존적 조절 및 증거 계층화 프레임워크](https://pubmed.ncbi.nlm.nih.gov/43087745/)
 <small>Licochalcones in Pancreatic Ductal Adenocarcinoma and Type 2 Diabetes Mellitus: Context-Dependent Modulation of Shared Signaling Pathways and an Evidence-Stratified Framework</small>
@@ -108,6 +187,21 @@ The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduode
 - 췌장암과 당뇨병이 동반된 환자에서 리코찰콘의 동시 항암 및 대사 개선 이점은 추가 검증이 필요한 가설 단계입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43087745/) · [DOI](https://doi.org/10.3390/biomedicines14112489) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13799507/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43087745)</small>
+
+---
+<a id="pmid-43088821"></a>
+#### [만성 췌장염과 관련된 고형 췌장 병변의 수술 전 평가](https://pubmed.ncbi.nlm.nih.gov/43088821/)
+<small>Preoperative Assessment of Solid Pancreatic Lesions Associated with Chronic Pancreatitis</small>
+
+`논문` `종설` `진단·조기발견` `치료 전반` `지지요법·삶의질` `제약사·규제` · 2026-11-12 · PubMed · Diagnostics (Basel) · 중요도 0.68
+
+만성 췌장염(chronic pancreatitis) 상태에서 발생하는 고형 췌장 병변은 염증성 종괴와 췌장암(pancreatic ductal adenocarcinoma)의 특징이 겹쳐 진단이 어렵습니다. 이 리뷰는 컴퓨터단층촬영(CT), 자기공명영상(MRI), 내시경 초음파(EUS) 및 조직 검사의 역할을 다룹니다. 내시경 초음파 하 미세침 생검(EUS-FNB)이 우선적인 조직 진단법이지만, 섬유화나 적은 세포수로 인해 위음성이 발생할 수 있으므로 다학제 팀의 신중한 평가가 필요합니다.
+
+- 만성 췌장염의 섬유화 및 석회화는 췌장암을 모방하거나 작은 악성 병변을 가릴 수 있습니다.
+- 신규 당뇨, 체중 감소, 황달, CA19-9 상승 등의 위험 신호가 나타나면 시급히 정밀 검사를 시행해야 합니다.
+- 내시경 초음파 하 미세침 생검(EUS-FNB)은 핵심 조직 채취에 우수하지만 위음성 가능성에 유의해야 합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43088821/) · [DOI](https://doi.org/10.3390/diagnostics16223740) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13802315/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43088821)</small>
 
 ---
 <a id="pmid-43090954"></a>
@@ -124,23 +218,6 @@ The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduode
 - 30일 이내 수술 후 합병증은 GEA 그룹 90%, GEAP 그룹 60%에서 발생했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43090954/) · [DOI](https://doi.org/10.3390/jcm15228921) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13803411/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43090954)</small>
-
----
-<a id="nct-nct07494994"></a>
-#### [SURGIMEDIA: 수술 동의서 설명을 위한 멀티미디어 활용](https://clinicaltrials.gov/study/NCT07494994)
-<small>SURGIMEDIA: Utilization of Multimedia for Enhanced Surgical Consent</small>
-
-`임상시험` `기타` `지지요법·삶의질` `수술` · 2026-03-27 · ClinicalTrials.gov · UNC Lineberger Comprehensive Cancer Center · 중요도 0.64
-
-**NCT07494994** · 해당 없음 · 일시 중단 · 국내 기관 없음 · [참여 조건·기관 보기](../../_generated/trials/NCT07494994.md)
-
-이 연구는 휘플 수술(pancreaticoduodenectomy)을 앞둔 췌장암 환자들을 대상으로 교육용 비디오를 활용한 표준화된 수술 동의서 설명 방법의 효과를 평가하는 파일럿 임상시험입니다. 기존 수술 동의 과정의 표준화 부족 문제를 해결하고, 환자의 이해도, 편안함, 그리고 전반적인 만족도를 높이는지 확인하고자 합니다. 목표 참여 인원은 60명이며 현재 상태는 일시 중단(SUSPENDED)입니다. 초록에 구체적인 생존기간, 반응률, 위험비 등의 수치는 명시되지 않음.
-
-- 휘플 수술을 받는 췌장암 환자를 대상으로 멀티미디어 동영상 기반의 수술 동의서 설명 효과를 평가합니다.
-- 목표 인원은 60명이며, 현재 임상시험 상태는 일시 중단(SUSPENDED)입니다.
-- 초록에 생존기간이나 반응률 등의 치료 효과 수치는 명시되지 않음.
-
-<small>[원문](https://clinicaltrials.gov/study/NCT07494994) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=nct:NCT07494994)</small>
 
 ---
 <a id="pmid-43091077"></a>
@@ -1771,127 +1848,5 @@ The role of postoperative enteral immunonutrition (Post-IN) after pancreatoduode
 - 추적 관찰 동안 환자는 황달, 췌장염, 복통 등의 증상 없이 양호한 상태를 유지했습니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/42948302/) · [DOI](https://doi.org/10.3892/etm.2026.13332) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13712098/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42948302)</small>
-
----
-<a id="pmid-42945504"></a>
-#### [전이성 췌장암 환자의 시간 독성과 임종기 치료 실태](https://pubmed.ncbi.nlm.nih.gov/42945504/)
-<small>Time Toxicity and End-of-Life Treatment of Metastatic Pancreatic Cancer</small>
-
-`논문` `관찰연구` `치료 전반` `지지요법·삶의질` · 2026-10-27 · PubMed · JCO Oncol Pract · 중요도 0.77
-
-본 연구는 2018년부터 2022년까지 상급 병원에서 치료받은 전이성 췌관선암(PDAC) 환자 177명을 대상으로 의료 시스템 이용에 소요되는 시간 독성(time toxicity)을 분석했습니다. 연구 결과 전이성 췌장암 환자들은 전체 생존기간(OS)의 중앙값 20%를 병원 방문 및 입원 등 의료 관련 활동에 소비했습니다. 전체 환자의 39%는 임종 전 30일 이내에도 전신 항암 치료를 받았으며, 14.8%는 입원 중 사망했습니다. 고령일수록 시간 독성이 감소한 반면, 도시 거주 환자는 시골 거주 환자에 비해 시간 독성이 더 높았습니다.
-
-- 전이성 췌장암 환자는 전체 생존기간의 중앙값 20%(약 5일 중 1일)를 의료 기관 이용에 소비했습니다.
-- 전체 환자의 39%(69명)가 임종 전 30일 이내에 전신 항암 치료를 받았으며, 42.4%(75명)는 입원 치료 후 호스피스로 전원되었습니다.
-- 도시 거주자는 시골 거주자에 비해 시간 독성이 3.3% 증가했고, 연령이 1세 증가할 때마다 시간 독성은 0.29% 감소했습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42945504/) · [DOI](https://doi.org/10.1200/OP-26-00413) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42945504)</small>
-
----
-<a id="pmid-42945423"></a>
-#### [췌장의 생리적 및 병리적 상태에서 Substance P의 역할](https://pubmed.ncbi.nlm.nih.gov/42945423/)
-<small>Role of Substance P in physiological and pathological states of the pancreas</small>
-
-`논문` `종설` `기초연구` `치료 전반` `지지요법·삶의질` · 2026-10-27 · PubMed · Neuroendocrinology · 중요도 0.72
-
-이 논문은 신경펩티드인 Substance P(SP)와 그 수용체인 NK-1R이 췌장에서 하는 역할을 정리한 리뷰 논문입니다. 생리적 상태에서 SP는 외분비 및 내분비 기능을 조절합니다. 병리적 상태에서 SP 신호전달은 면역 조절, 당뇨병에서의 베타세포 보존 및 인슐린 감수성에 영향을 미칩니다. 또한 췌장염에서 신경성 염증과 만성 통증을 유발하며, 췌장암에서는 악성 행태와 신경외막 침윤을 촉진합니다.
-
-- Substance P(SP)는 주로 고친화성 신경키닌-1 수용체(NK-1R)를 통해 작용하는 신경펩티드입니다.
-- 정상 상태에서 SP는 췌장의 외분비 및 내분비 기능을 조절하는 역할을 합니다.
-- 질병 상태에서 SP/NK-1R 축은 당뇨병, 췌장염, 췌장암의 병증 진행을 유도합니다.
-- SP/NK-1R 축은 유익한 작용을 통해 치료적 잠재력을 가지고 있습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42945423/) · [DOI](https://doi.org/10.1159/nen/advag015) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42945423)</small>
-
----
-<a id="pmid-42929985"></a>
-#### [췌장암 절제술 또는 완화적 우회술 후 전체 생존기간에 대한 단핵구를 포함한 전신 염증 지수와 전통적 전신 염증 지수의 예후적 연관성 차이: 후향적 코호트 연구](https://pubmed.ncbi.nlm.nih.gov/42929985/)
-<small>Differential Prognostic Associations of Monocyte-Containing and Traditional Systemic Inflammatory Indices with Overall Survival After Resection or Palliative Bypass for Pancreatic Cancer: A Retrospective Cohort Study</small>
-
-`논문` `관찰연구` `치료 전반` `진단·조기발견` `수술` `지지요법·삶의질` · 2026-09-28 · PubMed · Diseases · 중요도 0.66
-
-이 연구는 췌장암 환자 240명(절제술 99명, 완화적 우회술 141명)을 대상으로 전신 염증 지수들이 수술 후 전체 생존기간(OS)에 미치는 영향을 비교했습니다. 연구 결과, 전신 염증 지수인 AISI와 SIRI는 완화적 우회술 후 사망 위험 증가와 유의하게 연관된 반면, 절제술 후에는 연관성이 나타나지 않았습니다. 저자들은 임상적용 전에 독립적인 외부 검증이 필요하다고 결론지었습니다.
-
-- 전체 환자 240명 중 215명이 사망했으며, 전체 생존기간 중앙값은 절제술 후 17.9개월, 완화적 우회술 후 5.4개월이었습니다.
-- AISI가 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.54였으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.003).
-- SIRI 역시 1 표준편차 증가할 때 완화적 우회술 후 사망 위험비(HR)는 1.60이었으나, 절제술 후에는 유의하지 않았습니다(교호작용 p=0.001).
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42929985/) · [DOI](https://doi.org/10.3390/diseases14100358) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13703576/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42929985)</small>
-
----
-<a id="pmid-42928265"></a>
-#### [췌장암 환자의 불안, 우울, 회복탄력성 간의 관계 및 성별 차이에 대한 네트워크 분석](https://pubmed.ncbi.nlm.nih.gov/42928265/)
-<small>Network analysis of the relationship between anxiety, depression and resilience in patients with pancreatic cancer and gender differences</small>
-
-`논문` `관찰연구` `지지요법·삶의질` `치료 전반` · 2026-07-29 · PubMed · BMC Psychol · 중요도 0.65
-
-본 연구는 중국 광저우에서 췌장암 환자 759명을 대상으로 불안, 우울, 심리적 회복탄력성 간의 상호작용과 성별 차이를 분석했습니다. 연구 결과 췌장암 환자의 불안 유병률은 24.2%, 우울 유병률은 30.3%로 나타났습니다. 증상 네트워크 분석에서 '공포감(Panic)'이 핵심 증상이었으며, '빠르게 털고 일어남(Bounce back quickly)'이 주요 매개 증상으로 확인되었습니다. 남녀 간 전체 네트워크 구조는 유사했으나 여성 환자군에서 네트워크 연결 강도가 더 높았습니다.
-
-- 췌장암 환자의 불안 유병률은 24.2%, 우울 유병률은 30.3%로 측정되었습니다.
-- 증상 분석 결과 '공포감'이 우울·불안·회복탄력성 네트워크의 가장 중심적인 증상이었습니다.
-- '빠르게 털고 일어남'이라는 회복탄력성 항목이 심리적 위험 증상과 회복력을 잇는 핵심 매개체로 나타났습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42928265/) · [DOI](https://doi.org/10.1186/s40359-026-05266-y) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13700496/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42928265)</small>
-
----
-<a id="pmid-42935000"></a>
-#### [췌장암 발생까지 아포지단백 A2 이소폼 지수, CA19-9 및 MRI 소견의 시간적 변화를 보인 증례](https://pubmed.ncbi.nlm.nih.gov/42935000/)
-<small>A Case With Longitudinal Changes in Apolipoprotein A2 Isoform Indices Associated With CA19-9 and MRI Findings Until Pancreatic Cancer Development</small>
-
-`논문` `증례` `진단·조기발견` `지지요법·삶의질` · 2026-10-26 · PubMed · J Gastroenterol Hepatol · 중요도 0.64
-
-이 논문은 췌장암 발생 전후에 걸쳐 아포지단백 A2 이소폼(apolipoprotein A2 isoform, ApoA2-i) 지수, 종양 표지자 CA19-9, 그리고 자기공명담췌관조영술(MRCP) 소견의 종단적 변화를 관찰한 80세 여성 환자의 증례를 보고합니다. 환자는 초기 추적 관찰 기간 동안 췌장 두부에 작은 낭성 병변이 발견되었으며, 시간이 지남에 따라 주췌관(main pancreatic duct, MPD)의 신호 결손 및 확장 소견이 나타났습니다. 혈중 ApoA2-i 지수는 점차 감소한 반면, CA19-9 수치는 1320 U/mL로 현저히 증가했습니다. 최종적으로 내시경 역행성 췌관조영술 및 세포검사를 통해 선암종(adenocarcinoma) 세포가 확인되었습니다.
-
-- 80세 여성 환자에서 췌장암 발생 과정 동안 ApoA2-i 지수, CA19-9, MRI 소견의 변화를 추적했습니다.
-- 혈중 ApoA2-i 지수는 52.1에서 35.7 μg/mL로 점차 감소했습니다.
-- 혈장 CA19-9 수치는 초기 42.5 U/mL에서 최종적으로 1320 U/mL로 현저히 증가했습니다.
-- 내시경 역행성 췌관조영술 세포검사를 통해 선암종 진단이 이루어졌습니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935000/) · [DOI](https://doi.org/10.1111/jgh.70857) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935000)</small>
-
----
-<a id="doi-10.12688-hrbopenres.14558.1"></a>
-#### [췌장암 재활을 위한 핵심 결과 집합(COS) 개발 - 연구 프로토콜](https://europepmc.org/article/PPR/PPR1349737)
-<small>Development of a Core Outcome Set for Pancreatic Cancer Rehabilitation – A Study Protocol</small>
-
-`프리프린트` `기타` `지지요법·삶의질` `치료 전반` · 2026-10-26 · Europe PMC (preprint) · HRB Open Res · 중요도 0.63
-
-이 논문은 췌장암 재활 연구에서 일관성 없는 결과 보고 문제를 해결하기 위해 핵심 결과 집합(Core Outcome Set, COS)을 개발하는 프로토콜을 설명합니다. 췌장암 췌관선암(pancreatic ductal adenocarcinoma) 환자를 대상으로 재활 중재 전반에 적용할 수 있는 표준화된 지표를 도출합니다. 연구는 문헌고찰과 인터뷰(1단계), 델파이 설문조사(2단계), 합의 미팅(3단계)의 세 단계로 진행됩니다. 궁극적으로 환자 중심의 돌봄을 개선하고 향후 임상 연구를 위한 통합적인 틀을 제공합니다.
-
-- 췌장암의 5년 생존율은 약 10%이며 모든 단계에서 증상 부담이 큽니다.
-- 연구는 문헌고찰, 환자와 의료진 인터뷰, 델파이 설문조사, 합의 미팅의 3단계로 진행됩니다.
-- 이번 연구는 췌장암 재활 분야에서 최초로 핵심 결과 집합(COS)을 개발하여 연구의 일관성을 높이고자 합니다.
-
-<small>[원문](https://europepmc.org/article/PPR/PPR1349737) · [DOI](https://doi.org/10.12688/hrbopenres.14558.1) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=doi:10.12688/hrbopenres.14558.1)</small>
-
----
-<a id="pmid-42935847"></a>
-#### [전신 질환을 국소 질환으로 다루기: 현재 췌장암 치료의 실패 지점과 다모달, 생물학 기반 개편 프레임워크](https://pubmed.ncbi.nlm.nih.gov/42935847/)
-<small>Treating a systemic disease as a local one: failure points of current pancreatic cancer management and a multimodal, biology-guided framework for redesign</small>
-
-`논문` `종설` `치료 전반` `기초연구` `신약·치료제` `지지요법·삶의질` · 2026-10-12 · PubMed · Front Oncol · 중요도 0.60
-
-췌관선암(pancreatic ductal adenocarcinoma)은 5년 생존율이 약 13%에 달하는 가장 치명적인 고형암 중 하나입니다. 이 논문은 현재의 치료 패러다임이 전신 질환을 국소 질환으로 취급하기 때문에 성과가 낮다고 주장합니다. 저자들은 현재 치료의 5가지 실패 지점을 분석하고, 유전자 치료, 전신 항암 화학요법, 면역요법, 생물학적 환자 선별 등을 결합한 새로운 다모달 생물학 기반 프레임워크를 제안합니다. 이 프레임워크의 목적은 국소 치료를 넘어 전신적인 치료 이득을 도모하는 것입니다.
-
-- 췌관선암의 5년 생존율은 수십 년간의 발전에도 불구하고 약 13%에 머물러 있습니다.
-- 현재 치료 관리의 지속되는 5가지 실패 지점으로는 해부학적 혈관 기준에 따른 환자 선택, 숨겨진 전이의 존재, 생존율 연장 없는 방사선 치료 추가, 아형을 고려하지 않은 항암 화학요법, 순차적이고 통합되지 않은 치료 구조를 꼽았습니다.
-- 제안된 프레임워크는 유전자 치료, 레닌-안지오텐신 시스템 경로 억제, 면역 순차적 항암화학요법, 신항원 백신, 국소 냉동절제술 및 자연살해세포(NK cell) 전달을 포함합니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42935847/) · [DOI](https://doi.org/10.3389/fonc.2026.1941793) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13696316/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42935847)</small>
-
----
-<a id="pmid-42933941"></a>
-#### [유전성 췌장염](https://pubmed.ncbi.nlm.nih.gov/42933941/)
-<small>Hereditary Pancreatitis</small>
-
-`논문` `종설` `진단·조기발견` `지지요법·삶의질` `기초연구` · 2026-07-10 · PubMed · Gastroenterol Clin North Am · 중요도 0.59
-
-유전성 췌장염(hereditary pancreatitis)과 관련된 여러 유전적 결함과 이들의 다양한 침투율을 다룹니다. 주요 유전자로는 PRSS1, 세린 프로테아제 억제제 카잘 타입 1(serine protease inhibitor Kazal type 1), 낭성 섬유증 막횡단 전도 조절자(cystic fibrosis transmembrane conductance regulator)가 있습니다. 질병의 발병 기전은 주로 트립신(trypsin) 조절 장애, 세포 내 스트레스, 또는 변경된 췌관 생리학을 통해 이루어집니다. 치료는 환경 위험 요인 수정, 내분비 및 외분비 기능 부전과 영양실조 모니터링, 적절한 경우 췌장암 선별검사, 그리고 환자와 가족의 장기적인 합병증과 삶의 질을 다루기 위한 다학제적 접근을 포함해야 합니다.
-
-- 유전성 췌장염과 관련된 주요 유전자에는 PRSS1, serine protease inhibitor Kazal type 1, cystic fibrosis transmembrane conductance regulator가 포함됩니다.
-- 질병의 발병 기전은 트립신 조절 장애, 세포 내 스트레스, 변경된 췌관 생리학을 통해 발생합니다.
-- 관리에는 환경 위험 요인 수정, 기능 부전 및 영양실조 모니터링, 췌장암 선별검사, 다학제적 접근이 포함됩니다.
-
-<small>[원문](https://pubmed.ncbi.nlm.nih.gov/42933941/) · [DOI](https://doi.org/10.1016/j.gtc.2026.06.002) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:42933941)</small>
 
 ---

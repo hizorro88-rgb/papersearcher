@@ -30,10 +30,10 @@ search:
 | [전이성 췌장선암 환자의 1차 치료로서 daraxonrasib 및 daraxonrasib + GnP 병용요법에 대한 연구](../trials/NCT07491445.md) | 3상 | 모집 중 | 6 |
 | [진행성 KRAS G12V 변이 고형암 환자를 위한 RMC-5127 연구](../trials/NCT07349537.md) | 1상 | 모집 중 | - |
 | [수술을 받은 췌장관선암(PDAC) 환자를 대상으로 한 daraxonrasib(다락소나십, RMC-6236) 연구](../trials/NCT07252232.md) | 3상 | 모집 중 | 4 |
-| [TNG462 병용 투여의 안전성, 내인성 및 유효성을 평가하기 위한 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
+| [췌장관선암 및 비소세포폐암 환자 대상 TNG462 병용요법의 안전성, 내약성 및 유효성 평가 1/2상 임상시험](../trials/NCT06922591.md) | 1상/2상 | 모집 중 | - |
 | [특정 RAS 변이가 있는 진행성 고형암 환자를 대상으로 한 RMC-6236 연구](../trials/NCT05379985.md) | 1상/2상 | 모집 중 | - |
 
-## 타임라인 (15)
+## 타임라인 (16)
 
 <a id="pmid-43050238"></a>
 #### [치명적인 표적의 공략: 췌장암 RAS 억제제의 최신 발전](https://pubmed.ncbi.nlm.nih.gov/43050238/)
@@ -64,6 +64,21 @@ Revolution Medicines가 개발한 경구용 다중선택적 비공유 결합 RAS
 - 적어도 한 가지 이전 전신 항암 치료를 받았거나 다약제 전신 치료 대상이 아닌 환자가 대상입니다.
 
 <small>[원문](https://pubmed.ncbi.nlm.nih.gov/43040186/) · [DOI](https://doi.org/10.1007/s40265-026-02414-x) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43040186)</small>
+
+---
+<a id="pmid-43100898"></a>
+#### [이전 치료 경험이 있는 전이성 췌장관선암 환자에서 화학요법 대비 다락소나십의 비용-효과성 및 가격 문턱값 분석](https://pubmed.ncbi.nlm.nih.gov/43100898/)
+<small>Cost-effectiveness and price threshold analysis of daraxonrasib versus chemotherapy for previously treated metastatic pancreatic ductal adenocarcinoma in China</small>
+
+`논문` `기타` `신약·치료제` `치료 전반` `제약사·규제` · 2026-11-12 · PubMed · Front Pharmacol · 중요도 0.65
+
+본 연구는 중국 보건의료 체계 관점에서 이전 치료를 받은 전이성 췌장관선암(mPDAC) 환자를 대상으로 daraxonrasib(다락소나십)과 항암화학요법의 비용-효과성을 평가했습니다. RASolute 302 임상시험의 생존 데이터를 활용하여 10년의 분석 기간 동안 경제성을 모델링했습니다. 분석 결과 다락소나십 치료는 화학요법 대비 0.30 질 조정 수명(QALY)을 추가로 생성했으나, 치료 비용이 38,125.89 달러 더 높았습니다. 치료 주기당 5,000 달러의 약가를 가정했을 때 다락소나십은 중국의 지불 용의 문턱값을 초과하여 비용-효과적이지 않은 것으로 나타났습니다.
+
+- 다락소나십 치료군은 항암화학요법 대비 0.30 QALY(0.98 QALY 대 0.68 QALY)의 추가적인 건강 이득을 얻었습니다.
+- 추가 비용은 38,125.89 달러 발생하여 획득한 QALY당 증분 비용-효과비(ICER)는 127,020.77 달러로 산출되었습니다.
+- 다락소나십 약제비가 경제성 판단에 가장 결정적인 요인이며, 지불 용의 문턱값을 충족하려면 상당한 수준의 약가 인하가 필요합니다.
+
+<small>[원문](https://pubmed.ncbi.nlm.nih.gov/43100898/) · [DOI](https://doi.org/10.3389/fphar.2026.1930284) · [무료 전문](https://pmc.ncbi.nlm.nih.gov/articles/PMC13809509/) · AI 한국어 요약 · 원문 확인 필요 · [수정 제안](https://github.com/hizorro88-rgb/papersearcher/issues/new?template=correction.yml&title=pmid:43100898)</small>
 
 ---
 <a id="doi-10.64898-2026.11.07.765071"></a>

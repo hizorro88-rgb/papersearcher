@@ -1,0 +1,65 @@
+{
+ "abstract": "CONTEXT: Pylorus preservation in pancreaticoduodenectomy is a variation intended to reduce postoperative complications. Studies comparing pylorus resection and preservation are contradictory. The objective of this study was to assess the effect of pylorus preservation on clinically significant postoperative DGE and other postoperative outcomes.\nMETHODS: We performed a systematic search of the Medline (Ovid), Embase, CENTRAL, and ClinicalTrials.gov databases to identify randomized controlled trials (RCTs) comparing pylorus-preserving pancreaticoduodenectomy to any form of pylorus-resecting approach. The main outcome was postoperative DGE Grade B or C.\nRESULTS: A total of 13 RCTs (1048 patients) were included. There was no significant difference in clinically-significant DGE (4 trials, 497 patients, RR 1.26 [95% CI: 0.67 to 2.35], moderate certainty of evidence). When all severities of DGE were included, the incidence was higher in the pylorus-preserving group (RR 1.58 [95% CI: 1.04 to 2.41], very low certainty of evidence). Analyses for operative time and blood loss favored pylorus preservation.\nCONCLUSION: Pylorus preservation was not associated with a lower incidence of DGE after pancreaticoduodenectomy. However, some other outcomes were in favor of the pylorus-preserving approach. Given the low level of certainty associated with these results, the true effect of pylorus preservation may be different than currently observed.\nTRIAL REGISTRATION: PROSPERO # CRD420251229533.",
+ "authors": [
+  "Rioux A",
+  "Tremblay J",
+  "Diorio C",
+  "Fradet V",
+  "Turcotte S",
+  "Brind'Amour A"
+ ],
+ "categories": [
+  "surgery",
+  "treatment",
+  "trial",
+  "industry"
+ ],
+ "entities": [
+  "whipple"
+ ],
+ "evidence": "review",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43100239",
+ "importance": 0.69,
+ "key_points_ko": [
+  "임상적으로 유의한(Grade B 또는 C) 위 배출 지연(DGE) 발생 위험은 두 수술 방식 간에 유의미한 차이가 없었습니다 (4개 연구, 497명, RR 1.26, 95% CI 0.67~2.35).",
+  "경증을 포함한 전체 위 배출 지연(DGE)은 유문 보존군에서 더 높게 나타났습니다 (RR 1.58, 95% CI 1.04~2.41, 매우 낮은 근거 수준).",
+  "수술 시간 및 출혈량 측면에서는 유문 보존 췌십이지장절제술이 유문 절제술에 비해 우수한 결과를 보였습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1002/jhbp.70214",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43100239"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-27",
+ "relevance": 0.8,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "J Hepatobiliary Pancreat Sci",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43100239/"
+ },
+ "summary_ko": "췌십이지장절제술(pancreaticoduodenectomy) 시 유문(위 출구 괄약근)을 보존하는 방식과 절제하는 방식을 비교한 13개 무작위 대조 시험(총 1,048명)을 메타분석한 연구입니다. 임상적으로 의미가 큰 B·C 등급의 위 배출 지연(DGE) 발생률은 유문 보존군과 유문 절제군 간에 유의한 차이가 없었습니다. 모든 중증도를 포함한 전체 위 배출 지연은 유문 보존군에서 더 흔했으나 근거 수준은 매우 낮았습니다. 반면 수술 시간과 출혈량 분석에서는 유문 보존 접근법이 더 유리한 것으로 나타났습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Impact of Pylorus Preservation on Operative Outcomes After Pancreaticoduodenectomy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+ "title_ko": "췌십이지장절제술 후 유문 보존이 수술 결과에 미치는 영향: 무작위 대조 시험의 체계적 문헌고찰 및 메타분석",
+ "trial": null,
+ "type": "paper"
+}

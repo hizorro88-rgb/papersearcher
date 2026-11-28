@@ -1,0 +1,58 @@
+{
+ "abstract": "Pancreatic ductal adenocarcinoma (PDAC) and Type 2 Diabetes Mellitus (T2DM) are diseases with well-established clinical linked, but it is a complex relationship that are poorly understood at the biological level. T2DM precedes the diagnosis of PDAC in many cases, and this suggests an underlying interactions that extends beyond its epidemiological link. Research suggest dysregulated microRNAs (miRNAs) as the link, but existing studies remains fragmented and focuses on individual biomarkers for either condition independently. This review explores the common miRNA regulatory network that connects the processes of both pancreatic tumorigenesis and metabolic dysfunction by integration of research evidence related to endocrine function, oncogenic signaling, cell-to-cell communication via exosomes, and metabolic adaptation to identify overlapping regulation. Evidence of miRNA convergence is found in conserved pathway in in β-cell identity, insulin/IGF signaling, PI3K/AKT signaling, inflammatory remodelling, extracellular vesicle-mediated communication, and transcriptional regulation. This indicates dysregulation of miRNA contributes to phenotypic consequences for both disease. However, study heterogeneity and a heavy reliance on biomarkers make it hard to prove causality, timing, or exact mechanisms. This review highlights shared miRNA networks as molecular bridges between metabolic dysfunction and pancreatic cancer, rather than separate disease markers. Framing PDAC and diabetes through these common pathways can advance mechanistic insights, biomarker discovery, and targeted therapies.",
+ "authors": [
+  "Fauzi A",
+  "Cher J",
+  "Ab Rashid E",
+  "Wong CL",
+  "Tang YQ",
+  "Zacchigna S",
+  "Chia AYY"
+ ],
+ "categories": [
+  "supportive",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "review",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43101452",
+ "importance": 0.68,
+ "key_points_ko": [],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.3389/fonc.2026.1934820",
+  "nct": [],
+  "pmcid": "PMC13809964",
+  "pmid": "43101452"
+ },
+ "pub_types": [
+  "Journal Article",
+  "Review"
+ ],
+ "published_at": "2026-11-12",
+ "relevance": 1.0,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Front Oncol",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101452/"
+ },
+ "summary_ko": "Pancreatic ductal adenocarcinoma (PDAC) and Type 2 Diabetes Mellitus (T2DM) are diseases with well-established clinical linked, but it is a complex relationship that are poorly understood at the biological level. T2DM precedes the diagnosis of PDAC in many cases, and this suggests an underlying interactions that extends beyond its epidemiological link.",
+ "summary_source": "excerpt",
+ "tags": [],
+ "title": "Shared miRNA regulatory network at the interface of pancreatic ductal adenocarcinoma and diabetes",
+ "title_ko": null,
+ "trial": null,
+ "type": "paper"
+}

@@ -27,11 +27,11 @@
   "ITGA2, ITGA3, ITGB6, LAMA3, LAMB3 유전자의 높은 발현이 췌장암 환자의 낮은 생존율과 연관되었습니다.",
   "종양 조직에서 LAMA3 및 LAMB3 유전자의 프로모터 메틸화 수준이 현저하게 감소한 것을 확인했습니다."
  ],
- "last_updated": "2026-11-27",
+ "last_updated": "2026-11-28",
  "links": {
   "doi": "10.1002/cnr2.70773",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13811405",
   "pmid": "43096883"
  },
  "pub_types": [

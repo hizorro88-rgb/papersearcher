@@ -1,0 +1,62 @@
+{
+ "abstract": "Following the publication of this paper, an interested reader drew the authors' attention to the fact that it was unexpected that they would have identified the expression of p16 in the PANC‑1 cell line, as shown in Fig. 6 on p. 3021, since it has been shown that this cell line is known to have a homozygous deletion in the CDKN2a gene that encodes the protein [for example, see the paper by Carlos Caldas and colleagues entitled 'Frequent somatic mutations and homozygous deletions of the p16 (MTS1) gene in pancreatic adenocarcinoma'. Nat Genet vol. 8.1 (1994): p. 27‑32]. In addition, the DNMT1 blots in Fig. 6 were strikingly similar to data that subsequently appeared in an article in the same journal (Oncology Reports) that featured several of the same authors. The authors have been contacted by the Editorial Office to offer an explanation for the unexpected expression of p16 in the PANC‑1 cell line and the apparent re‑use of the abovementioned western blot data in this paper, and we are awaiting their response. Owing to the fact that the Editorial Office has been made aware of potential issues surrounding the scientific integrity of this paper, we are issuing an Expression of Concern to notify readers of these potential problems while the Editorial Office continues to investigate this matter further. [Oncology Reports 33: 3015‑3023, 2015; DOI: 10.3892/or.2015.3914].",
+ "authors": [
+  "Zhang H",
+  "Chen L",
+  "Bu HQ",
+  "Yu QJ",
+  "Jiang DD",
+  "Pan FP",
+  "Wang Y",
+  "Liu DL"
+ ],
+ "categories": [
+  "basic",
+  "diagnosis"
+ ],
+ "entities": [],
+ "evidence": "other",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43102066",
+ "importance": 0.62,
+ "key_points_ko": [
+  "PANC-1 췌장암 세포주에서 CDKN2a 유전자 동접합체 결손에도 불구하고 p16 단백질 발현이 관찰된 점에 대해 문제 제기가 있었습니다.",
+  "DNMT1 단백질 데이터가 다른 학술지 논문 데이터와 유사하다는 중복 사용 의혹이 포함되었습니다.",
+  "학술지 편집국은 연구 데이터의 신뢰성에 대한 조사를 진행하면서 우려 표명을 발령했습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.3892/or.2026.9227",
+  "nct": [],
+  "pmcid": "PMC13811139",
+  "pmid": "43102066"
+ },
+ "pub_types": [
+  "Expression of Concern"
+ ],
+ "published_at": "2026-11-27",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Oncol Rep",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43102066/"
+ },
+ "summary_ko": "본 발표는 췌장암 PANC-1 세포주에서 에모딘(emodin) 치료 효과를 다룬 기존 논문에 대해 편집국이 발행한 우려 표명(Expression of Concern)입니다. PANC-1 세포주는 CDKN2a 유전자 결손이 알려져 있음에도 p16 단백질이 발현된 것으로 서술된 점이 지적되었습니다. 또한 웨스턴 블롯(western blot) 데이터가 다른 논문의 데이터와 유사하여 데이터 재사용 의혹이 제기되었습니다. 편집국은 현재 저자들의 해명을 기다리며 조사를 진행 중입니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "[Expression of Concern] Effects of emodin on the demethylation of tumor‑suppressor genes in pancreatic cancer PANC‑1 cells",
+ "title_ko": "[우려 표명] 췌장암 PANC-1 세포에서 암억제 유전자의 탈메틸화에 대한 에모딘(emodin)의 영향",
+ "trial": null,
+ "type": "paper"
+}

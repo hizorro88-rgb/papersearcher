@@ -1,0 +1,60 @@
+{
+ "abstract": "AIMS: Management decisions when end of life is approaching are difficult, and there are few studies addressing this using national cancer data.\nMATERIALS AND METHODS: We conducted a retrospective population-based cohort study using linked English cancer registration, treatment, and hospital records. We included 10,835 patients with pancreatic cancer who had received systemic anticancer therapy at some point and had died during 2015-2019 and considered receipt of disease-targeted treatment (major surgery, radiotherapy, or chemotherapy).\nRESULTS: Overall, 14% of patients received chemotherapy and 2% received radiotherapy within 30 days of death. This proportion appeared stable over time. Among 8222 patients whose treatment intent was recorded as palliative, 17.4% received systemic therapy within 30 days of death. Recent intervention was associated with multiple emergency attendances (odds ratio: 1.51, 95% confidence interval [CI]: 1.27-1.79) and inpatient admissions (2.32, 2.05-2.62).\nCONCLUSION: These findings describe treatment intensity, not inappropriate care. Variation in care by patient, hospital, and treatment factors supports analyses of patient preferences, palliative care interventions, and patient-reported outcomes to inform future management.",
+ "authors": [
+  "Wang Z",
+  "Watters R",
+  "Roden L",
+  "Mannu G",
+  "Oliveros S",
+  "Dodwell D"
+ ],
+ "categories": [
+  "treatment",
+  "supportive"
+ ],
+ "entities": [],
+ "evidence": "observational",
+ "first_seen": "2026-11-28",
+ "history": [
+  {
+   "date": "2026-11-28",
+   "detail": null,
+   "event": "created"
+  }
+ ],
+ "id": "pmid:43097938",
+ "importance": 0.64,
+ "key_points_ko": [
+  "사망 전 30일 이내에 화학요법을 받은 환자는 14%, 방사선 치료를 받은 환자는 2%였습니다.",
+  "완화 목적 치료 대상자 8,222명 중 17.4%가 사망 전 30일 이내에 전신 항암 치료를 받았습니다.",
+  "사망 임박 시기의 항암 치료는 응급실 방문 위험(교차비 1.51) 및 입원 위험(교차비 2.32)을 높였습니다."
+ ],
+ "last_updated": "2026-11-28",
+ "links": {
+  "doi": "10.1016/j.clon.2026.104366",
+  "nct": [],
+  "pmcid": null,
+  "pmid": "43097938"
+ },
+ "pub_types": [
+  "Journal Article"
+ ],
+ "published_at": "2026-11-11",
+ "relevance": 0.6,
+ "review": {
+  "note": null,
+  "status": "auto"
+ },
+ "source": {
+  "journal": "Clin Oncol (R Coll Radiol)",
+  "name": "PubMed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43097938/"
+ },
+ "summary_ko": "영국에서 2015년부터 2019년 사이에 사망한 췌장암 환자 10,835명의 데이터를 분석한 인구 기반 회고적 연구입니다. 전체 환자 중 사망 전 30일 이내에 화학요법(chemotherapy)을 받은 환자는 14%였으며, 방사선 치료를 받은 환자는 2%였습니다. 완화적 치료 목적으로 기록된 환자 8,222명 중에서는 17.4%가 사망 전 30일 이내에 전신 항암 치료를 받았습니다. 사망 임박 시기의 치료 개입은 응급실 방문 및 입원율 증가와 관련이 있었습니다.",
+ "summary_source": "llm",
+ "tags": [],
+ "title": "Treatment Near the End of Life in Pancreatic Cancer in England",
+ "title_ko": "영국 췌장암 환자의 임종 임박 시기 치료 실태 연구",
+ "trial": null,
+ "type": "paper"
+}

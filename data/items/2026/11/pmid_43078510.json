@@ -1,5 +1,5 @@
 {
- "abstract": null,
+ "abstract": "ABSTRACT: \nINTRODUCTION: Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with poor long-term survival and high recurrence rates following curative-intent treatment. Peritoneal washing (PW) cytology may identify occult peritoneal dissemination, but its prognostic significance in patients without otherwise evident metastatic disease remains uncertain. This review will determine whether positive PW cytology is associated with worse survival compared with negative cytology in adults with PDAC.\nMETHODS AND ANALYSIS: This systematic review and meta-analysis will be reported in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 and the protocol was developed using PRISMA-Protocol (PRISMA-P) 2015. The review is registered with PROSPERO (CRD420261465771). Ovid MEDLINE, Ovid Embase and Scopus will be searched for peer-reviewed studies published from 1 January 2015 to the present without language restrictions. Eligible studies will include adults with PDAC without radiographically or surgically identified gross metastatic disease who underwent PW cytological analysis and reported overall survival, recurrence-free survival or disease-free survival. Two reviewers will independently screen studies, extract data and assess risk of bias using the Quality in Prognosis Studies tool. Overall survival will be the primary outcome. Where studies are sufficiently comparable, HRs will be pooled using random-effects meta-analysis. Statistical heterogeneity will be assessed using forest plots, I² and τ², with planned subgroup and sensitivity analyses. Publication bias and selective outcome reporting will be evaluated where appropriate, and certainty of evidence will be assessed using a Grading of Recommendations Assessment, Development and Evaluation (GRADE)-informed approach.\nETHICS AND DISSEMINATION: Ethics approval is not required because this review will synthesise previously published data. Findings will be disseminated through peer-reviewed publication and presentation at relevant scientific meetings.",
  "authors": [
   "Fazel Darbandi M",
   "McBride J",
@@ -28,11 +28,11 @@
   "체계적 문헌고찰과 메타분석 방법을 통해 기존 연구 데이터를 종합 분석할 예정입니다.",
   "세부 연구 결과 및 최종 결론은 연구 계획 단계이므로 초록에 명시되지 않았습니다."
  ],
- "last_updated": "2026-11-26",
+ "last_updated": "2026-11-28",
  "links": {
   "doi": "10.1136/bmjopen-2026-126964",
   "nct": [],
-  "pmcid": null,
+  "pmcid": "PMC13810095",
   "pmid": "43078510"
  },
  "pub_types": [
